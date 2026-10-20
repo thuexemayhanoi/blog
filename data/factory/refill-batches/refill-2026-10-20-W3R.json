@@ -1,0 +1,370 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W3R: chu de that nhom hoi dap, tao boi writer W3 theo gate G1-G8; da loc trung cheo cum (cross-child) truoc khi push. Da loai 5 de tai gan ngu nghia bai da dang truoc khi push.",
+  "created": "2026-10-20",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-001",
+   "child_id": "C-HD-GIA",
+   "title": "Hai nhân viên nói hai cách tính tiền khác nhau cho kỳ thuê: nhắn tóm tắt bằng chữ để chốt trước khi trả",
+   "intent": "Biết cách xử lý khi hai nhân viên của cùng một tiệm nói hai cách tính tiền khác nhau cho kỳ thuê của bạn: giữ bình tĩnh, hỏi cách nào dựa trên bảng giá, nhắn tóm tắt bằng chữ và chờ tiệm xác nhận cách tính được áp dụng trước khi trả tiền.",
+   "kw": "nhân viên tiệm báo giá khác nhau",
+   "kw2": [
+    "hai nhân viên báo hai cách tính tiền",
+    "chốt cách tính tiền thuê xe bằng tin nhắn"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "khách thuê xe máy ở Hà Nội đã nghe một nhân viên báo giá hoặc giờ trả xe, đến nhận hoặc trả xe lại gặp nhân viên khác nói khác đi",
+   "location_scope": "Hà Nội (quầy tiệm ở Long Biên và các cuộc nhắn tin, gọi điện với tiệm)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-002",
+   "child_id": "C-HD-GIA",
+   "title": "Gia hạn từng ngày nhiều lần liên tiếp: tự lập bảng ghi số ngày và từng lần trả tiền để đối chiếu khi trả xe",
+   "intent": "Biết cách ghi lại từng lần gia hạn và từng lần chuyển tiền khi bạn xin thêm một ngày nhiều lần liên tiếp: lập bảng ghi ngày, số tiền và tin nhắn xác nhận để đối chiếu với tiệm lúc trả xe thay vì dựa vào trí nhớ.",
+   "kw": "gia hạn thuê xe từng ngày",
+   "kw2": [
+    "gia hạn thuê xe nhiều lần liên tiếp",
+    "bảng đối chiếu tiền gia hạn thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "khách thuê xe máy ở Hà Nội chưa chốt ngày về nên xin gia hạn từng ngày, sau vài lần không còn nhớ rõ đã trả những khoản nào",
+   "location_scope": "Hà Nội (trao đổi từ xa với tiệm ở Long Biên khi đang đi chơi trong và quanh nội thành)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-004",
+   "child_id": "C-HD-GIA",
+   "title": "Trả bằng tờ tiền lớn mà tiệm không có tiền thối, hẹn trả phần dư sau: xin chuyển khoản hoặc ghi rõ số dư",
+   "intent": "Biết cách xử lý khi bạn trả bằng tờ tiền lớn mà tiệm nói không có tiền thối và hẹn trả phần dư sau: chủ động đổi tiền lẻ trước, xin tiệm chuyển khoản phần dư ngay hoặc ghi rõ số tiền còn lại vào biên nhận và tin nhắn.",
+   "kw": "tiệm thuê xe không có tiền thối",
+   "kw2": [
+    "tiệm hẹn trả tiền thừa lần sau",
+    "chuyển khoản phần tiền thối khi thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "khách thuê xe máy ở Hà Nội trả tiền mặt bằng tờ tiền mệnh giá lớn và được tiệm hẹn trả tiền thừa vào lúc trả xe",
+   "location_scope": "Hà Nội (quầy tiệm ở Long Biên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-005",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Mang theo mũ bảo hiểm fullface của riêng bạn: xe ga hay xe số tiện cất mũ khi dừng chân, thử cất ngay tại tiệm",
+   "intent": "Chọn dòng xe thuê tiện cho người mang mũ fullface riêng: so chỗ cất mũ dưới yên xe ga với móc treo trên xe số, thử cất mũ ngay tại tiệm và hỏi tiệm cách giữ mũ khi mũ không vừa hộc đựng đồ.",
+   "kw": "cất mũ fullface trên xe thuê",
+   "kw2": [
+    "mũ fullface có vừa hộc đựng đồ xe ga không",
+    "mang mũ bảo hiểm riêng khi thuê xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "người sắp thuê xe máy ở Hà Nội và mang theo mũ bảo hiểm fullface riêng, băn khoăn xe nào cất mũ tiện khi dừng chân",
+   "location_scope": "Hà Nội (lúc chọn và thử cất mũ tại tiệm ở Long Biên, rồi dừng chân quanh nội thành)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-006",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Người nhà khuyên đừng đi xe ga hoặc chỉ nên đi xe số: nghe theo hay thử trước, hỏi lại họ đang lo điều gì",
+   "intent": "Chọn xe số hay xe ga khi người thân khuyên theo hướng ngược lại: hỏi lại họ đang lo điều gì như phanh, chân chống hay dễ đổ, rồi ngồi thử, dắt thử tại tiệm và chọn theo cảm giác tự tin của chính bạn.",
+   "kw": "người nhà khuyên đừng thuê xe ga",
+   "kw2": [
+    "bố mẹ khuyên chọn xe số hay xe ga",
+    "nghe lời khuyên khi chọn xe thuê"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "người sắp thuê xe máy ở Hà Nội đang nghe bố mẹ, bạn bè khuyên ngược nhau về xe ga hay xe số và chưa biết nên theo ai",
+   "location_scope": "Hà Nội (lúc chọn xe tại tiệm ở Long Biên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-007",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Xe trông mới, bóng loáng có dễ bị để ý khi gửi ngoài phố không: chọn xe và cách gửi sao cho yên tâm hơn",
+   "intent": "Hiểu rằng không dòng xe nào miễn nhiễm khi gửi ngoài phố: nên chọn xe theo nhu cầu rồi bù bằng khóa cổ, chỗ gửi có người trông, ảnh chụp xe và hỏi tiệm về khóa phụ, thay vì ngại xe trông mới và nổi bật.",
+   "kw": "xe mới có dễ bị để ý",
+   "kw2": [
+    "chọn xe thuê ít gây chú ý khi gửi ngoài phố",
+    "xe nổi bật gửi bãi có sao không"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "người sắp thuê xe máy ở Hà Nội thấy tiệm có xe đời mới bóng loáng và xe cũ giản dị, lo xe nổi bật dễ bị để ý khi gửi ngoài phố",
+   "location_scope": "Hà Nội (các điểm gửi xe quanh phố cổ, Hồ Tây và nơi ở)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-008",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Hai người thuê hai xe khác dòng, giữa chuyến một người muốn đổi chéo xe cho nhau: báo tiệm trước hay tự đổi",
+   "intent": "Biết cách xử lý khi hai người thuê hai xe khác dòng và giữa chuyến một người muốn lái xe của người kia: vì sao nên báo tiệm trước, ai đứng tên và chịu trách nhiệm xe nào, hoặc nhờ tiệm đổi dòng cho đúng thay vì tự đổi chéo.",
+   "kw": "đổi chéo xe thuê giữa hai người",
+   "kw2": [
+    "hai người đổi xe thuê cho nhau",
+    "đổi xe thuê giữa chuyến có cần báo tiệm"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "hai bạn hoặc cặp đôi mỗi người thuê một xe khác dòng ở Hà Nội, giữa chuyến thấy xe của người kia dễ chạy hơn",
+   "location_scope": "Hà Nội (lúc đang đi chơi quanh nội thành và khi trao đổi với tiệm ở Long Biên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-009",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Tiệm đề nghị xem vé máy bay hoặc vé tàu rời Hà Nội khi thuê xe: đưa bản chụp ra sao, nên che dòng nào",
+   "intent": "Hiểu vì sao một số tiệm hỏi vé hoặc lịch rời Hà Nội khi cho thuê xe và cách đưa bản chụp gọn: chỉ để lộ ngày giờ chuyến đi, che mã đặt chỗ và mã vạch, đồng thời hỏi tiệm dùng thông tin này vào việc gì và lưu bao lâu.",
+   "kw": "tiệm thuê xe hỏi vé máy bay",
+   "kw2": [
+    "đưa vé máy bay cho tiệm thuê xe xem",
+    "che mã đặt chỗ khi gửi ảnh vé"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "du khách thuê xe máy ở Hà Nội được tiệm đề nghị cho xem vé máy bay hoặc vé tàu rời Hà Nội và chưa biết nên đưa gì, che gì",
+   "location_scope": "Hà Nội (lúc làm thủ tục tại tiệm ở Long Biên hoặc nhắn tin trước khi đến)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-010",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Hộ chiếu đang nộp xin gia hạn thị thực, chỉ còn giấy biên nhận: thuê xe máy được không và nhắn tiệm thế nào",
+   "intent": "Biết cách trao đổi với tiệm khi hộ chiếu đang nộp để xin gia hạn thị thực và bạn chỉ có giấy biên nhận: hỏi tiệm nhận giấy tờ thay thế nào, chuẩn bị bản chụp và bằng lái, rồi hẹn lại ngày nhận xe sau khi lấy lại hộ chiếu.",
+   "kw": "hộ chiếu đang gia hạn thuê xe",
+   "kw2": [
+    "giấy biên nhận hộ chiếu khi thuê xe máy",
+    "hộ chiếu nộp ở cơ quan xuất nhập cảnh thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "người nước ngoài đang ở Hà Nội nộp hộ chiếu xin gia hạn thị thực, muốn thuê xe máy trong lúc chờ nhận lại hộ chiếu",
+   "location_scope": "Hà Nội (lúc nhắn tiệm ở Long Biên và đi lại giữa nơi ở với cơ quan xuất nhập cảnh)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-011",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Về đến chỗ ở mới nhớ chưa nhận lại căn cước hoặc hộ chiếu sau khi trả xe: gọi tiệm ngay, nhờ cất riêng",
+   "intent": "Biết cách xử lý khi trả xe xong mới nhớ chưa nhận lại giấy tờ gốc: gọi hoặc nhắn tiệm ngay, nhờ cất riêng và xác nhận bằng tin nhắn, quyết định quay lại lấy hay nhờ người tin cậy đến lấy thay rồi kiểm đếm giấy tờ khi nhận.",
+   "kw": "quên nhận lại giấy tờ gốc",
+   "kw2": [
+    "trả xe xong chưa nhận lại căn cước",
+    "nhờ tiệm cất riêng giấy tờ gốc đã quên lấy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "khách vừa trả xe máy thuê ở Hà Nội, về đến chỗ ở mới nhận ra căn cước, hộ chiếu hoặc bằng lái gốc vẫn còn ở tiệm",
+   "location_scope": "Hà Nội (từ tiệm ở Long Biên về nơi ở trong nội thành)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-012",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Tiệm chỉ trả lời bằng tin nhắn thoại trên Zalo thay vì chữ: nghe xong ghi lại giá, giờ, cọc và nhờ tiệm gõ lại",
+   "intent": "Biết cách xử lý khi tiệm trả lời bằng tin nhắn thoại: nghe kỹ, ghi lại giá, giờ nhận trả và khoản cọc bằng chữ, nhắn lại tóm tắt để tiệm xác nhận hoặc nhờ tiệm gõ lại các điều quan trọng, rồi lưu cả đoạn thoại lẫn bản ghi.",
+   "kw": "tiệm nhắn tin thoại zalo thuê xe",
+   "kw2": [
+    "xin tiệm nhắn lại bằng chữ",
+    "ghi lại nội dung tin nhắn thoại khi đặt xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "khách đặt xe máy ở Hà Nội qua Zalo, nhận về toàn tin nhắn thoại khó nghe hoặc khó hiểu và cần có chữ để đối chiếu",
+   "location_scope": "Hà Nội (cuộc trao đổi qua tin nhắn với tiệm ở Long Biên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-013",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Ghi âm cuộc gọi với tiệm thuê xe làm bằng chứng: có hợp pháp không và dùng được đến đâu khi tranh chấp",
+   "intent": "Hiểu ở mức cơ bản việc ghi âm cuộc gọi của chính bạn với tiệm thuê xe có được coi là hợp pháp không, giá trị của bản ghi như một nguồn chứng cứ và vì sao vẫn nên nhắn tin tóm tắt lại bằng chữ, không phát tán bản ghi lên mạng.",
+   "kw": "ghi âm cuộc gọi tiệm thuê xe",
+   "kw2": [
+    "ghi âm làm bằng chứng tranh chấp thuê xe",
+    "có được ghi âm khi trao đổi với chủ tiệm không"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "khách thuê xe máy ở Hà Nội thường trao đổi với tiệm qua điện thoại và muốn ghi âm làm bằng chứng khi có tranh chấp về giá hay tiền cọc",
+   "location_scope": "Hà Nội (cuộc gọi, nhắn tin giữa bạn và tiệm ở Long Biên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-014",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Bị dọa đăng ảnh giấy tờ hoặc clip lên mạng khi tranh chấp cọc hay hư hỏng xe: quyền của bạn và việc nên làm",
+   "intent": "Biết các bước khi bị dọa đăng ảnh giấy tờ hoặc clip lên mạng trong lúc tranh chấp với tiệm thuê xe: không hoảng, lưu tin nhắn dọa, yêu cầu gỡ và xóa dữ liệu theo quy định về hình ảnh và dữ liệu cá nhân, rồi tìm kênh hòa giải hoặc cơ quan chức năng.",
+   "kw": "dọa đăng ảnh giấy tờ lên mạng",
+   "kw2": [
+    "tiệm dọa đăng clip khi tranh chấp thuê xe",
+    "quyền đối với ảnh căn cước đã gửi tiệm"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "khách thuê xe máy ở Hà Nội đang tranh chấp tiền cọc hoặc hư hỏng xe và nhận được lời dọa đăng ảnh giấy tờ hoặc clip của chính họ lên mạng",
+   "location_scope": "Hà Nội (tin nhắn, cuộc gọi với tiệm ở Long Biên và các nhóm mạng xã hội)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-015",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Tiệm đưa giấy ghi đã nhận đủ, không khiếu nại gì thêm khi hoàn cọc: giấy đó có ý nghĩa gì và khi nào nên ký",
+   "intent": "Hiểu ý nghĩa của câu đã nhận đủ và không khiếu nại gì thêm trong giấy hoàn cọc: nội dung đó thường được hiểu thế nào về quyền đòi sau này, khi nào nên ký sau khi đếm đủ và đối chiếu, khi nào nên đề nghị sửa câu chữ hoặc ghi rõ khoản còn tranh luận.",
+   "kw": "ký không khiếu nại khi nhận cọc",
+   "kw2": [
+    "giấy đã nhận đủ không khiếu nại thuê xe",
+    "xin sửa nội dung giấy xác nhận hoàn cọc"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "khách thuê xe máy ở Hà Nội nhận lại tiền cọc và được tiệm đưa giấy ghi đã nhận đủ, không khiếu nại gì thêm để ký",
+   "location_scope": "Hà Nội (quầy tiệm ở Long Biên lúc trả xe và nhận lại cọc)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-017",
+   "child_id": "C-HD-SU-CO",
+   "title": "Xe thuê khó nổ sau khi vừa được rửa xe: nghi nước vào bugi hay ống xả, thử gì trước và khi nào báo tiệm",
+   "intent": "Biết các bước thử nhẹ nhàng khi xe thuê khó nổ sau khi vừa rửa: kiểm tra chân chống, xăng, khóa điện, chờ xe ráo nước, không đề liên tục và không tự tháo máy, rồi báo tiệm kèm giờ rửa nếu vẫn không nổ.",
+   "kw": "xe khó nổ sau khi rửa xe",
+   "kw2": [
+    "xe máy ướt nước sau rửa không nổ",
+    "nước vào bugi sau khi rửa xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "khách thuê xe máy ở Hà Nội vừa rửa xe ở tiệm rửa hoặc xịt nước rồi đề máy không nổ, băn khoăn có làm hỏng xe không",
+   "location_scope": "Hà Nội (tiệm rửa xe, bãi gửi quanh nội thành và nơi ở)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-018",
+   "child_id": "C-HD-SU-CO",
+   "title": "Xe thuê hỏng giữa đường, phải đi taxi về chỗ ở: hỏi tiệm về chi phí đi lại, giữ biên lai và nhắn xác nhận",
+   "intent": "Biết cách hỏi tiệm về chi phí đi lại khi xe thuê hỏng giữa đường và bạn phải đi taxi hoặc xe công nghệ về chỗ ở: nhắn xin ý kiến tiệm trước khi đi, giữ biên lai hoặc ảnh chuyến đi và ghi lại thời gian, số tiền để tiệm xem xét sau.",
+   "kw": "tiền taxi khi xe thuê hỏng",
+   "kw2": [
+    "ai trả tiền đi lại khi xe thuê hỏng",
+    "xin tiệm xác nhận chi phí taxi khi xe hỏng"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "khách thuê xe máy ở Hà Nội gặp xe hỏng giữa đường, không chạy tiếp được và phải tự đi taxi hoặc xe công nghệ về chỗ ở, băn khoăn khoản này ai chịu",
+   "location_scope": "Hà Nội (đoạn đường xe hỏng, đường về chỗ ở và cuộc trao đổi với tiệm ở Long Biên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-019",
+   "child_id": "C-HD-SU-CO",
+   "title": "Người trông xe đòi giá khác bảng niêm yết hoặc không đưa vé: đọc bảng giá, xin vé, chụp ảnh, gọi số trên bảng",
+   "intent": "Biết cách xử lý khi người trông xe đòi mức giá khác bảng niêm yết hoặc không đưa vé: đọc bảng giá ở cổng trước khi gửi, xin vé ghi biển số, chụp ảnh bảng giá, nói bình tĩnh và gọi số liên hệ ghi trên bảng thay vì cãi tay đôi hay bỏ xe lại.",
+   "kw": "người trông xe đòi giá khác",
+   "kw2": [
+    "bãi gửi xe không đưa vé",
+    "gửi xe thu giá khác bảng niêm yết"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "khách đi xe máy thuê ở Hà Nội gửi xe tại điểm tham quan hoặc bãi ven đường và bị đòi giá khác bảng hoặc không được đưa vé",
+   "location_scope": "Hà Nội (các bãi gửi xe quanh phố cổ, Hồ Tây và điểm tham quan)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-023",
+   "child_id": "C-HD-NGUOI-MOI",
+   "title": "Tiệm chỉ cho ngồi thử và nổ máy chứ không cho chạy thử: những gì vẫn kiểm tra được tại chỗ trước khi nhận xe",
+   "intent": "Biết cách kiểm tra xe khi tiệm chỉ cho ngồi thử, nổ máy chứ không cho chạy thử: nghe máy nguội, thử phanh khi dắt, bật đèn và còi, nhìn lốp và vết xước, rồi quyết định nhận hay đổi xe và nhắn lại tình trạng cho tiệm.",
+   "kw": "tiệm không cho chạy thử xe thuê",
+   "kw2": [
+    "tiệm chỉ cho nổ máy không cho chạy thử",
+    "kiểm tra xe thuê khi không được chạy thử"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-nguoi-moi/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "người lần đầu thuê xe máy ở Hà Nội đến nhận xe, tiệm không cho chạy thử và họ chưa biết dựa vào đâu để yên tâm",
+   "location_scope": "Hà Nội (sân và quầy nhận xe ở Long Biên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3R-024",
+   "child_id": "C-HD-NGUOI-MOI",
+   "title": "Thử phanh hay lốp ngay tại quầy thấy chưa ổn: có được chưa nhận xe không, xin đổi xe hay hủy thế nào",
+   "intent": "Biết rằng bạn có thể chưa nhận xe khi thử phanh hoặc nhìn lốp thấy chưa ổn: nói thẳng điều bạn lo, xin đổi xe khác, hỏi về tiền giữ chỗ nếu quyết định không thuê và ghi lại bằng tin nhắn để hai bên cùng nắm.",
+   "kw": "chưa nhận xe thuê vì phanh yếu",
+   "kw2": [
+    "từ chối nhận xe thuê khi xe chưa an toàn",
+    "xin đổi xe khi phanh lốp chưa ổn"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-nguoi-moi/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3R",
+   "audience": "người lần đầu thuê xe máy ở Hà Nội đã đặt xe, đến nhận thì thử phanh hoặc nhìn lốp thấy chưa yên tâm nhưng ngại từ chối",
+   "location_scope": "Hà Nội (quầy và sân nhận xe ở Long Biên)",
+   "word_target": 1200
+  }
+ ]
+}
