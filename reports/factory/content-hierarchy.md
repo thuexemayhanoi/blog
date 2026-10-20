@@ -35,12 +35,12 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-PHAP-LY | Biển báo giao thông (C-BIEN-BAO) | 1 | 63 | 100 | /an-toan-phap-ly/bien-bao/ |
 | P-PHAP-LY | Giấy tờ xe & cá nhân (C-GIAY-TO) | 8 | 63 | 110 | /an-toan-phap-ly/giay-to/ |
 | P-PHAP-LY | Quy định giao thông (C-QUY-DINH) | 13 | 79 | 150 | /an-toan-phap-ly/quy-dinh-giao-thong/ |
-| P-DU-LICH | Điểm đến Hà Nội (C-DIEM-DEN) | 11 | 174 | 170 | /du-lich/diem-den/ |
-| P-DU-LICH | Bảo tàng (C-BAO-TANG) | 0 | 87 | 90 | /du-lich/bao-tang/ |
+| P-DU-LICH | Điểm đến Hà Nội (C-DIEM-DEN) | 11 | 176 | 170 | /du-lich/diem-den/ |
+| P-DU-LICH | Bảo tàng (C-BAO-TANG) | 0 | 88 | 90 | /du-lich/bao-tang/ |
 | P-DU-LICH | Phố cổ Hoàn Kiếm (C-PHO-CO) | 3 | 88 | 110 | /du-lich/pho-co/ |
-| P-DU-LICH | Hồ Tây & lân cận (C-HO-TAY) | 2 | 86 | 100 | /du-lich/ho-tay/ |
-| P-DU-LICH | Long Biên & Gia Lâm (C-LONG-BIEN) | 0 | 97 | 110 | /du-lich/long-bien/ |
-| P-DU-LICH | Ngoại thành Hà Nội (C-NGOAI-THANH) | 1 | 99 | 110 | /du-lich/ngoai-thanh/ |
+| P-DU-LICH | Hồ Tây & lân cận (C-HO-TAY) | 2 | 87 | 100 | /du-lich/ho-tay/ |
+| P-DU-LICH | Long Biên & Gia Lâm (C-LONG-BIEN) | 0 | 98 | 110 | /du-lich/long-bien/ |
+| P-DU-LICH | Ngoại thành Hà Nội (C-NGOAI-THANH) | 1 | 102 | 110 | /du-lich/ngoai-thanh/ |
 | P-CUNG-DUONG | Cung đường nội thành (C-CD-NOI-THANH) | 1 | 86 | 100 | /cung-duong/cung-duong-noi-thanh/ |
 | P-CUNG-DUONG | Cung đường cuối tuần (C-CD-CUOI-TUAN) | 10 | 125 | 130 | /cung-duong/cung-duong-cuoi-tuan/ |
 | P-CUNG-DUONG | Mai Châu (C-CD-MAI-CHAU) | 0 | 50 | 80 | /cung-duong/mai-chau/ |
@@ -68,4 +68,4 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 5031 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 5039 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.

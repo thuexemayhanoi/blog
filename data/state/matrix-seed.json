@@ -48266,6 +48266,40 @@
           "audience": "người thích kiến trúc đình làng Bắc Bộ",
           "location_scope": "Chu Minh, Ba Vì, Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Đền Quan Đế ở 28 Hàng Buồm bằng xe máy: ngôi đền thờ Quan Thánh Đế trong phố cổ, giờ mở cửa và vé điện tử",
+          "intent": "Hiểu đền Quan Đế ở số 28 phố Hàng Buồm thờ ai, mở cửa giờ nào, mua vé điện tử ra sao và nên để xe máy ở rìa phố cổ rồi đi bộ vào thế nào để ghé thăm không vướng dòng người.",
+          "kw": "đền quan đế hàng buồm",
+          "kw2": [
+            "đền quan đế giờ mở cửa",
+            "vé tham quan đền quan đế"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3P",
+          "audience": "khách đi dạo phố cổ Hà Nội bằng xe máy, muốn ghé thêm một ngôi đền cổ ngoài các điểm quen thuộc quanh Hồ Gươm",
+          "location_scope": "Phố cổ Hà Nội (số 28 phố Hàng Buồm, phường Hoàn Kiếm)",
+          "word_target": 1200
+        },
+        {
+          "title": "Đền Thủy Trung Tiên giữa hồ Trúc Bạch bằng xe máy: đền Cẩu Nhi xưa, cầu đá vào đền và cách ghé đi lễ",
+          "intent": "Biết đền Thủy Trung Tiên (đền Cẩu Nhi) nằm ở đâu trên hồ Trúc Bạch, đi xe máy tới đường Thanh Niên rồi qua cầu đá vào đền thế nào, đền thờ ai và nên cư xử ra sao khi đi lễ.",
+          "kw": "đền thủy trung tiên trúc bạch",
+          "kw2": [
+            "đền cẩu nhi trúc bạch",
+            "đi đền thủy trung tiên bằng xe máy"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3P",
+          "audience": "khách chạy xe quanh hồ Trúc Bạch và đường Thanh Niên, thấy ngôi đền nhỏ giữa hồ và muốn biết đi vào bằng lối nào",
+          "location_scope": "Hồ Trúc Bạch, phường Ba Đình, Hà Nội (đảo nhỏ gần cuối đường Thanh Niên)",
+          "word_target": 1200
         }
       ]
     },
@@ -49508,6 +49542,23 @@
           "subtopic": "refill-2026-10-14-W2W",
           "audience": "Du khách và người Hà Nội dạo phố cổ, tìm hiểu đền cổ thời Lý",
           "location_scope": "Phố Lý Quốc Sư, Hoàn Kiếm, Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Bảo tàng Lực lượng Tăng - Thiết giáp ở 108 Hoàng Quốc Việt bằng xe máy: giờ mở cửa, ngày nghỉ và xe tăng 390",
+          "intent": "Biết bảo tàng Tăng - Thiết giáp ở số 108 Hoàng Quốc Việt mở cửa giờ nào, nghỉ ngày nào, đi xe máy từ nội thành tới ra sao và nên xem hiện vật nào, nhất là xe tăng 390 bảo vật quốc gia, trong một buổi tham quan.",
+          "kw": "bảo tàng tăng thiết giáp hà nội",
+          "kw2": [
+            "bảo tàng lực lượng tăng thiết giáp giờ mở cửa",
+            "xe tăng 390 bảo vật quốc gia"
+          ],
+          "links": [
+            "/du-lich/bao-tang/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3P",
+          "audience": "khách thích lịch sử quân sự hoặc đưa trẻ đi tham quan, thuê xe máy ghé một bảo tàng nhỏ dọc đường Hoàng Quốc Việt",
+          "location_scope": "Hà Nội (số 108 Hoàng Quốc Việt, phường Nghĩa Đô; trước 7/2025 thuộc quận Cầu Giấy)",
           "word_target": 1200
         }
       ]
@@ -52434,6 +52485,23 @@
           "audience": "nhóm bạn, đồng nghiệp thuê nhiều xe máy dạo Hồ Tây",
           "location_scope": "Vòng Hồ Tây, điểm hẹn quanh đường Thanh Niên và Phủ Tây Hồ, Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Tuyến tàu điện số 6 ở Đảo Ngọc Ngũ Xã bằng xe máy: bảo tàng đường phố bên hồ Trúc Bạch và giờ mở cửa buổi tối",
+          "intent": "Biết Tuyến tàu điện số 6 là gì, nằm ở cổng Đảo Ngọc Ngũ Xã bên hồ Trúc Bạch, mở cửa mấy giờ, đi xe máy tới thế nào và nên dành bao lâu cho các toa tàu kể chuyện Hà Nội xưa.",
+          "kw": "tuyến tàu điện số 6 trúc bạch",
+          "kw2": [
+            "bảo tàng đường phố hà nội",
+            "đảo ngọc ngũ xã bằng xe máy"
+          ],
+          "links": [
+            "/du-lich/ho-tay/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3P",
+          "audience": "khách chạy xe quanh hồ Trúc Bạch và Hồ Tây buổi chiều tối, muốn thêm một điểm trải nghiệm Hà Nội xưa cạnh phố ẩm thực đi bộ",
+          "location_scope": "Hồ Trúc Bạch, Đảo Ngọc – Ngũ Xã, phường Ba Đình, Hà Nội (số 2 Trúc Bạch)",
+          "word_target": 1300
         }
       ]
     },
@@ -54051,6 +54119,23 @@
           "audience": "người mua quà đặc sản và chuẩn bị lễ cưới hỏi",
           "location_scope": "Long Biên, Đình Bảng, Từ Sơn (Bắc Ninh)",
           "word_target": 1200
+        },
+        {
+          "title": "Lò Bầu Cổ ở Bát Tràng bằng xe máy: xem chiếc lò nung củi cuối thế kỷ XIX còn sót lại và cách ghé từ Long Biên",
+          "intent": "Biết lò Bầu Cổ ở Bát Tràng là gì, vì sao được coi là chiếc lò nung củi còn sót lại từ thế kỷ XIX, đi xe máy từ khu Long Biên theo đê tới Bát Tràng và ghép lò với bảo tàng gốm, chợ gốm trong một buổi ra sao.",
+          "kw": "lò bầu cổ bát tràng",
+          "kw2": [
+            "lò gốm cổ bát tràng",
+            "đi lò bầu cổ bằng xe máy"
+          ],
+          "links": [
+            "/du-lich/long-bien/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3P",
+          "audience": "khách thuê xe máy ở Long Biên đi làng gốm Bát Tràng, đã biết bảo tàng và chợ gốm nhưng chưa biết lò nung cổ của làng nằm ở đâu",
+          "location_scope": "Bát Tràng, Hà Nội (trước 7/2025 thuộc huyện Gia Lâm; nay là xã Bát Tràng)",
+          "word_target": 1300
         }
       ]
     },
@@ -55696,6 +55781,57 @@
           "audience": "khách thích di tích và làng cổ ven đô, thuê xe máy đi về phía tây Hà Nội",
           "location_scope": "Đan Phượng, Hà Nội (làng Hạ Mỗ)",
           "word_target": 1300
+        },
+        {
+          "title": "Đình Mông Phụ ở làng cổ Đường Lâm bằng xe máy: mua vé, gửi xe và xem ngôi đình thờ Tản Viên Sơn Thánh",
+          "intent": "Biết cách đi xe máy từ nội thành tới làng cổ Đường Lâm, chuẩn bị vé và chỗ gửi xe rồi tìm đúng đình Mông Phụ giữa làng, hiểu đình thờ Tản Viên Sơn Thánh và cách ứng xử khi vào đình.",
+          "kw": "đình mông phụ đường lâm",
+          "kw2": [
+            "đi đình mông phụ bằng xe máy",
+            "đình làng mông phụ có gì"
+          ],
+          "links": [
+            "/du-lich/ngoai-thanh/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3P",
+          "audience": "khách thuê xe máy đi một buổi từ Hà Nội tới làng cổ Đường Lâm, muốn biết ghé ngôi đình nào trước và chuẩn bị gì",
+          "location_scope": "Sơn Tây, Hà Nội (làng cổ Đường Lâm, thôn Mông Phụ; trước 7/2025 là xã Đường Lâm, nay thuộc phường Sơn Tây)",
+          "word_target": 1300
+        },
+        {
+          "title": "Đền Hạ ở xã Ba Vì bằng xe máy: nơi rước nước sông Đà mở hội Tản Viên Sơn Thánh, khác đền Trung và đền Thượng",
+          "intent": "Biết đền Hạ nằm trong cụm di tích thờ Tản Viên Sơn Thánh ở Ba Vì thế nào, phân biệt với đền Trung và đền Thượng, rồi chọn ngày thường hay dịp hội để đi xe máy tới và đi lễ cho đúng phép.",
+          "kw": "đền hạ ba vì",
+          "kw2": [
+            "đền hạ tản viên sơn thánh",
+            "đi đền hạ ba vì bằng xe máy"
+          ],
+          "links": [
+            "/du-lich/ngoai-thanh/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3P",
+          "audience": "khách đi lễ hoặc tham quan Ba Vì bằng xe máy, hay nhầm ba ngôi đền thờ Tản Viên Sơn Thánh và chưa biết đền Hạ ở đâu",
+          "location_scope": "Ba Vì, Hà Nội (khu di tích đền Hạ; trước 7/2025 thuộc xã Minh Quang, nay thuộc xã Ba Vì)",
+          "word_target": 1200
+        },
+        {
+          "title": "Đền thờ Phùng Hưng ở thôn Cam Lâm, Đường Lâm bằng xe máy: đền Bố Cái Đại Vương cùng thôn với lăng Ngô Quyền",
+          "intent": "Biết cách tìm đền thờ Phùng Hưng ở thôn Cam Lâm trong chuyến đi làng cổ Đường Lâm, hiểu Bố Cái Đại Vương là ai, ghép đền với lăng Ngô Quyền gần đó và cư xử đúng mực khi vào nơi thờ.",
+          "kw": "đền thờ phùng hưng đường lâm",
+          "kw2": [
+            "đền phùng hưng sơn tây",
+            "bố cái đại vương đường lâm"
+          ],
+          "links": [
+            "/du-lich/ngoai-thanh/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3P",
+          "audience": "khách đi làng cổ Đường Lâm hoặc quan tâm lịch sử, muốn ghé đền thờ Phùng Hưng nhưng chưa biết đền nằm ở thôn nào",
+          "location_scope": "Sơn Tây, Hà Nội (thôn Cam Lâm, làng cổ Đường Lâm; trước 7/2025 là xã Đường Lâm, nay thuộc phường Sơn Tây)",
+          "word_target": 1200
         }
       ]
     },
