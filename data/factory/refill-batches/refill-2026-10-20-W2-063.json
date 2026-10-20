@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-063: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-20",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-001",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Honda Click lên Tam Đảo: đi một người hay chở hai, nghỉ máy giữa dốc và xuống đèo cho phanh khỏi nóng",
+   "intent": "Biết cách đánh giá chiếc Honda Click thuê có đủ sức lên Tam Đảo trong ngày, nên đi một người hay chở hai, nghỉ máy ở đâu và xuống đèo mà phanh không bị nóng.",
+   "kw": "honda click lên tam đảo",
+   "kw2": [
+    "xe ga lên tam đảo được không",
+    "honda click đi đèo"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "nhóm bạn trẻ thuê Honda Click muốn đi Tam Đảo trong ngày",
+   "location_scope": "Hà Nội – Tam Đảo",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-002",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Honda Click thuê đi xa được không: quãng đường một ngày vừa sức, đường nên tránh và lúc nên đổi xe khỏe hơn",
+   "intent": "Hiểu một chiếc Honda Click thuê ở Hà Nội hợp với quãng đường bao xa mỗi ngày, loại đường nào nên tránh và dấu hiệu nào cho thấy nên đổi sang xe khỏe hơn.",
+   "kw": "honda click đi xa được không",
+   "kw2": [
+    "honda click đi phượt",
+    "xe click đi tỉnh"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "khách thuê Honda Click định rời Hà Nội đi tỉnh lân cận",
+   "location_scope": "Hà Nội và các tỉnh giáp ranh",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-003",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Người cao từ 1m75 trở lên thuê Honda Click: đầu gối, tay lái, chỗ đặt chân và lúc nên chọn xe rộng hơn",
+   "intent": "Biết cách tự kiểm tra tư thế ngồi trên Honda Click khi dáng người cao, xử lý chuyện đầu gối vướng tay lái lúc bẻ lái và nhận ra khi nào nên chọn xe rộng hơn.",
+   "kw": "người cao đi honda click",
+   "kw2": [
+    "honda click có chật không",
+    "người cao 1m8 đi xe ga nhỏ"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "khách nam cao to, du khách nước ngoài dáng cao",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-004",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Người nặng trên 80 kg tự lái Honda Click thuê: lên dốc cầu, độ lún giảm xóc, hơi lốp và quãng đường nên đi",
+   "intent": "Hiểu Honda Click phản ứng thế nào khi người lái nặng trên 80 kg, biết cách lên dốc cầu, giữ hơi lốp đúng mức và chọn quãng đường hằng ngày vừa sức xe.",
+   "kw": "người nặng cân đi honda click",
+   "kw2": [
+    "honda click chở nặng có yếu không",
+    "người to con đi xe ga nhỏ"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "người thuê xe nặng trên 80 kg",
+   "location_scope": "Hà Nội, các cầu qua sông Hồng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-005",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Người ngoài 60 tuổi tự lái Honda Click thuê ở Hà Nội: xe nhẹ dễ dắt, giờ ra đường và chặng nên đi",
+   "intent": "Lên kế hoạch cho người ngoài 60 tuổi tự lái Honda Click ở Hà Nội: tận dụng xe nhẹ để dắt, chọn giờ vắng, cung đường ngắn và nhịp nghỉ hợp sức.",
+   "kw": "người lớn tuổi lái honda click",
+   "kw2": [
+    "người già thuê xe ga",
+    "xe ga nhẹ cho người lớn tuổi"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "người ngoài 60 tuổi còn lái xe vững, du khách lớn tuổi",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-006",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Một ngày tự lái Honda Click ở Hà Nội hết bao nhiêu: 150.000đ tiền thuê, tiền xăng và vé gửi xe",
+   "intent": "Lên kế hoạch ngân sách một ngày tự lái Honda Click ở Hà Nội, cộng đủ tiền thuê 150.000đ, tiền xăng theo quãng đường dự kiến và các lần gửi xe trong ngày.",
+   "kw": "chi phí một ngày thuê honda click",
+   "kw2": [
+    "thuê honda click 150k",
+    "tiền xăng xe click một ngày"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "du khách tự túc tính ngân sách đi lại trong ngày",
+   "location_scope": "phố cổ, Hồ Tây, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-007",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Honda Click xuống bãi bồi ven sông Hồng: đường cát, bánh nhỏ dễ sa và chọn nền chắc để đỗ xe",
+   "intent": "Biết cách đưa Honda Click bánh nhỏ xuống bãi bồi ven sông Hồng qua đoạn đường cát, giữ ga để không sa lầy, lúc nào nên dắt bộ và đỗ xe ở nền chắc.",
+   "kw": "honda click đi đường cát",
+   "kw2": [
+    "xe ga bị sa cát",
+    "xuống bãi sông hồng bằng xe ga"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "người đi dạo, chụp ảnh bãi sông bằng xe thuê",
+   "location_scope": "bãi bồi sông Hồng phía Long Biên, Tây Hồ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-008",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Honda Click đi chùa Trăm Gian và chùa Trầm trong một buổi: quốc lộ 6, đường làng vào chân núi và gửi xe",
+   "intent": "Lên kế hoạch một buổi đi chùa Trăm Gian và chùa Trầm bằng Honda Click: chạy quốc lộ 6, nối hai chùa theo thứ tự hợp lý, vào đường làng và gửi xe an toàn.",
+   "kw": "đi chùa trăm gian và chùa trầm",
+   "kw2": [
+    "chùa trăm gian đi xe máy",
+    "đường đến chùa trầm"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "người đi lễ, khách thích kiến trúc chùa cổ",
+   "location_scope": "Chương Mỹ, phía tây nam Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-009",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Honda Click theo quốc lộ 1 cũ qua cầu Đuống, Yên Viên sang Từ Sơn: xe tải, chợ ven đường và lối rẽ vào làng",
+   "intent": "Biết cách chạy Honda Click trên quốc lộ 1 cũ từ Long Biên qua cầu Đuống, Yên Viên sang Từ Sơn: giữ làn giữa xe tải, qua đoạn chợ đông và rẽ vào làng đúng chỗ.",
+   "kw": "quốc lộ 1 cũ qua yên viên",
+   "kw2": [
+    "đường hà huy tập yên viên",
+    "từ long biên đi từ sơn"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "khách thuê xe ở Long Biên đi Bắc Ninh trong ngày",
+   "location_scope": "Long Biên, Yên Viên, Từ Sơn",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-010",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Honda Click theo quốc lộ 32 qua Nhổn, Trạm Trôi, Phùng lên Sơn Tây: đoạn chợ đông, xe khách và chỗ nghỉ",
+   "intent": "Lên kế hoạch chạy Honda Click theo quốc lộ 32 từ Cầu Diễn lên Sơn Tây: biết đoạn qua chợ và thị trấn hay ùn, cách đi cạnh xe khách dừng đón và chỗ nghỉ giữa chặng.",
+   "kw": "quốc lộ 32 đi sơn tây",
+   "kw2": [
+    "đường 32 đi sơn tây xe máy",
+    "nhổn phùng sơn tây"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "khách thuê xe đi Sơn Tây, Đường Lâm không qua Đại lộ Thăng Long",
+   "location_scope": "Bắc Từ Liêm, Hoài Đức, Đan Phượng, Sơn Tây",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-011",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Honda Click đi làng tăm hương Quảng Phú Cầu: đường xuống phía nam, ngõ làng hẹp và đỗ xe không chắn sân phơi",
+   "intent": "Lên kế hoạch đi làng tăm hương Quảng Phú Cầu bằng Honda Click: chọn đường xuống phía nam, đi chậm trong ngõ làng hẹp và đỗ xe không chắn sân phơi hương của người làm nghề.",
+   "kw": "đi làng hương quảng phú cầu",
+   "kw2": [
+    "làng hương quảng phú cầu xe máy",
+    "chụp ảnh làng hương"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "người thích chụp ảnh làng nghề, du khách nước ngoài",
+   "location_scope": "Ứng Hòa, phía nam Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-012",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Đi picnic trong ngày bằng Honda Click: xếp thảm, đồ ăn, ghế gấp vào cốp nhỏ và sàn để chân cho hai người",
+   "intent": "Biết cách xếp đồ cho buổi picnic trong ngày bằng Honda Click: chia thảm, đồ ăn, ghế gấp giữa cốp nhỏ, sàn để chân và người ngồi sau để xe vẫn cân và vững.",
+   "kw": "đi picnic bằng honda click",
+   "kw2": [
+    "chở đồ picnic bằng xe ga",
+    "picnic ven hà nội bằng xe máy"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "cặp đôi, nhóm bạn đi picnic cuối tuần",
+   "location_scope": "ven đô Hà Nội: bãi sông, ven hồ ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-013",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Chở bố mẹ đi xem chèo, cải lương buổi tối bằng Honda Click: hỏi giờ diễn, gửi xe gần nhà hát và về khuya",
+   "intent": "Lên kế hoạch chở bố mẹ đi xem chèo, cải lương buổi tối bằng Honda Click: hỏi trước giờ diễn, gửi xe gần nhà hát, giúp bố mẹ lên xuống xe và về khuya an toàn.",
+   "kw": "chở bố mẹ đi xem chèo",
+   "kw2": [
+    "đi xem cải lương bằng xe máy",
+    "gửi xe nhà hát chèo"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "con cái đưa bố mẹ đi xem nghệ thuật truyền thống",
+   "location_scope": "Hoàn Kiếm, Ba Đình, Đống Đa",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-014",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Chở cành đào, chậu quất ngày Tết bằng Honda Click: đặt chậu trên sàn để chân, buộc cành và giữ nụ, giữ quả",
+   "intent": "Biết cách chở cành đào, chậu quất ngày Tết trên Honda Click: đặt chậu vững trên sàn để chân, buộc gọn cành, giữ nụ và quả, giữ thăng bằng trên phố đông cận Tết.",
+   "kw": "chở cành đào bằng xe ga",
+   "kw2": [
+    "chở chậu quất bằng xe máy",
+    "mua đào tết bằng honda click"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "người mua đào, quất chơi Tết",
+   "location_scope": "Nhật Tân, Tứ Liên, Quảng An và các chợ hoa Tết",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-015",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Mùa hoa gạo tháng Ba ven đê, đầu làng ngoại thành Hà Nội bằng Honda Click: tìm cây, dừng xe trên đê an toàn",
+   "intent": "Lên kế hoạch ngắm hoa gạo tháng Ba ở ven đê và đầu làng ngoại thành Hà Nội bằng Honda Click: tìm cây, chọn giờ sáng và dừng xe trên đê không cản đường.",
+   "kw": "mùa hoa gạo hà nội",
+   "kw2": [
+    "ngắm hoa gạo tháng ba",
+    "hoa gạo ven đê"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "người thích chụp ảnh mùa hoa, du khách mùa xuân",
+   "location_scope": "ven đê sông Hồng, sông Đuống và làng ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-016",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Người ngồi sau ngủ gật khi về đêm trên Honda Click: dấu hiệu, chỗ dừng nghỉ và cách giữ người cho an toàn",
+   "intent": "Biết cách nhận ra người ngồi sau đang ngủ gật khi chở về đêm trên Honda Click, chọn chỗ dừng nghỉ, đánh thức nhẹ nhàng và giữ người ngồi sau an toàn đến nơi.",
+   "kw": "người ngồi sau ngủ gật",
+   "kw2": [
+    "chở người buồn ngủ ban đêm",
+    "ngủ gật khi ngồi sau xe máy"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "người chở bạn, người thân về đêm từ ngoại thành",
+   "location_scope": "các tuyến về nội thành Hà Nội ban đêm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-017",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Đi ăn khuya ở Hà Nội sau 23 giờ bằng Honda Click: chọn khu quán, đường đêm có xe tải và về chỗ ở an toàn",
+   "intent": "Lên kế hoạch đi ăn khuya ở Hà Nội sau 23 giờ bằng Honda Click: chọn khu quán còn mở, đi đường đêm có xe tải vào phố, gửi xe và về chỗ ở an toàn.",
+   "kw": "đi ăn khuya hà nội",
+   "kw2": [
+    "quán ăn đêm hà nội",
+    "đi xe máy đêm khuya hà nội"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "du khách, người trẻ đi ăn đêm",
+   "location_scope": "phố cổ, Hai Bà Trưng, Ba Đình",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-018",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Một buổi ở Đông Anh bằng Honda Click: nối thành Cổ Loa, làng rối nước Đào Thục và làng ca trù Lỗ Khê",
+   "intent": "Lên kế hoạch một buổi ở Đông Anh bằng Honda Click, nối thành Cổ Loa với làng rối nước Đào Thục và làng ca trù Lỗ Khê, hẹn trước giờ xem và gửi xe gọn.",
+   "kw": "đi đông anh bằng xe máy",
+   "kw2": [
+    "làng rối nước đào thục",
+    "làng ca trù lỗ khê"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "khách thích văn hóa dân gian, nghệ thuật truyền thống",
+   "location_scope": "Đông Anh, phía bắc sông Hồng",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-019",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Người lạ vẫy xin đi nhờ khi đang lái Honda Click ở đường vắng ngoại thành: giúp hay từ chối cho khéo",
+   "intent": "Hiểu nên xử lý thế nào khi người lạ vẫy xin đi nhờ lúc đang lái Honda Click thuê trên đường vắng ngoại thành, cân nhắc rủi ro và cách từ chối lịch sự hoặc giúp đúng cách.",
+   "kw": "cho người lạ đi nhờ xe",
+   "kw2": [
+    "người lạ xin đi nhờ xe máy",
+    "từ chối cho đi nhờ xe"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "người tự lái xe thuê đi ngoại thành một mình",
+   "location_scope": "đường vắng ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-020",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Mua hải sản, đồ đông lạnh ở chợ về bằng Honda Click: thùng xốp đá lạnh trên sàn để chân và nước rỉ",
+   "intent": "Biết cách chở hải sản, đồ đông lạnh mua ở chợ về bằng Honda Click: đặt thùng xốp đá lạnh trên sàn để chân, chặn nước rỉ, giữ thăng bằng và lau xe sau khi chở.",
+   "kw": "chở hải sản bằng xe máy",
+   "kw2": [
+    "chở thùng xốp bằng xe ga",
+    "mua hải sản về bằng xe máy"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "người nội trợ, khách thuê tháng tự nấu ăn",
+   "location_scope": "chợ dân sinh và chợ đầu mối Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-021",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Nghỉ dưỡng cuối tuần ở resort ven Hà Nội bằng Honda Click: hành lý hai ngày, đường vào khu nghỉ và gửi xe",
+   "intent": "Lên kế hoạch nghỉ dưỡng cuối tuần ở khu nghỉ ven Hà Nội bằng Honda Click thay vì ô tô: xếp hành lý hai ngày, chọn đường vào khu nghỉ và hỏi chỗ gửi xe trước.",
+   "kw": "đi resort gần hà nội",
+   "kw2": [
+    "nghỉ dưỡng cuối tuần gần hà nội",
+    "chở hành lý bằng honda click"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "cặp đôi, gia đình nhỏ nghỉ cuối tuần",
+   "location_scope": "Sóc Sơn, Ba Vì và vùng ven Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-022",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Chiều 30 Tết đi Honda Click ở Hà Nội: phố đông rồi vắng dần, mua nốt đồ cúng và về nhà trước giao thừa",
+   "intent": "Nắm nhịp đường phố Hà Nội chiều 30 Tết khi đi Honda Click: giờ phố đông rồi vắng dần, mua nốt đồ cúng, gửi xe ở chợ và về nhà kịp trước giao thừa.",
+   "kw": "chiều 30 tết hà nội",
+   "kw2": [
+    "đi xe máy chiều 30 tết",
+    "đi chợ chiều 30 tết"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "người ở lại Hà Nội ăn Tết, khách thuê xe dịp Tết",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-023",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Người lái nhỏ con chở người nặng hơn mình trên Honda Click: xuất phát, dừng đèn đỏ và chống chân giữ xe",
+   "intent": "Biết cách người lái nhỏ con giữ Honda Click vững khi chở người nặng hơn mình: xuất phát êm, dừng đèn đỏ, chống chân, dặn người ngồi sau ngồi yên và phanh sớm hơn.",
+   "kw": "người nhỏ con chở người nặng",
+   "kw2": [
+    "honda click chở người nặng hơn",
+    "chở người to hơn mình bằng xe ga"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "người lái nữ nhỏ con, cặp đôi chênh lệch cân nặng",
+   "location_scope": "phố Hà Nội và các dốc cầu",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-024",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Mùa hoa phượng tháng Năm, tháng Sáu ở Hà Nội bằng Honda Click: phố có phượng, giờ chụp và chỗ dừng xe",
+   "intent": "Lên kế hoạch ngắm hoa phượng tháng Năm, tháng Sáu ở Hà Nội bằng Honda Click: chọn phố và hồ có phượng, giờ chụp ảnh đẹp và chỗ dừng xe không chắn lối.",
+   "kw": "mùa hoa phượng hà nội",
+   "kw2": [
+    "ngắm hoa phượng bằng xe máy",
+    "phố hoa phượng hà nội"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "người thích chụp ảnh, học sinh sinh viên mùa hè",
+   "location_scope": "nội thành Hà Nội, quanh hồ và trường học",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-063-025",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Ngắm Hà Nội từ trên cao lúc lên đèn bằng Honda Click: đài quan sát, quán tầng thượng và gửi xe hầm tòa nhà",
+   "intent": "Lên kế hoạch ngắm Hà Nội từ trên cao lúc lên đèn bằng Honda Click: chọn đài quan sát hoặc quán tầng thượng, gửi xe hầm tòa nhà và về khuya không uống rượu bia.",
+   "kw": "ngắm hà nội từ trên cao",
+   "kw2": [
+    "đài quan sát hà nội",
+    "gửi xe máy tòa nhà cao tầng"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-063",
+   "audience": "du khách, cặp đôi muốn ngắm thành phố về đêm",
+   "location_scope": "Ba Đình, Cầu Giấy, Hoàn Kiếm",
+   "word_target": 1200
+  }
+ ]
+}
