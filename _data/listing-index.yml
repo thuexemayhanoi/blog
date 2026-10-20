@@ -1,8 +1,8 @@
 # Sinh bởi scripts/factory/generate-listing-pages.py. Không sửa tay.
 kinh-nghiem:
-  pages: 356
+  pages: 357
   size: 12
-  total: 4264
+  total: 4274
 chia-se:
   pages: 10
   size: 12
@@ -215,7 +215,7 @@ topic:
   xe-may_xe-ga:
     pages: 7
     size: 24
-    total: 156
+    total: 166
   xe-may_xu-ly-su-co-xe:
     pages: 3
     size: 24
