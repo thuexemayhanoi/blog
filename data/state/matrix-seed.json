@@ -6335,6 +6335,431 @@
           "audience": "người muốn dành một ngày đưa mẹ, vợ hoặc người yêu đi chơi nhân dịp 20/10 hoặc 8/3",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Chuẩn bị sinh nhật bất ngờ ở Hà Nội: thuê xe máy một ngày đi lấy bánh, hoa, bóng bay và đến trước giờ hẹn",
+          "intent": "Lên kế hoạch một ngày thuê xe máy chuẩn bị sinh nhật bất ngờ, xếp thứ tự lấy bánh kem, hoa và đồ trang trí, chở đồ dễ hỏng an toàn và đến trước người được mừng.",
+          "kw": "chuẩn bị sinh nhật bất ngờ",
+          "kw2": [
+            "tổ chức sinh nhật bất ngờ hà nội",
+            "đi lấy bánh kem bằng xe máy"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "người trẻ tự tổ chức sinh nhật bất ngờ cho bạn bè, người yêu hoặc người thân",
+          "location_scope": "nội thành Hà Nội: tiệm bánh, cửa hàng hoa và địa điểm tổ chức",
+          "word_target": 1200
+        },
+        {
+          "title": "Sắp đón em bé: thuê xe máy một ngày đi sắm đồ sơ sinh, chở bỉm sữa gọn và tách riêng những món cồng kềnh",
+          "intent": "Lên kế hoạch một ngày thuê xe máy đi sắm đồ sơ sinh, lập danh sách theo nhóm đồ, chọn món tự chở được, tách món cồng kềnh và để mẹ bầu không phải ngồi xe lâu.",
+          "kw": "đi sắm đồ sơ sinh",
+          "kw2": [
+            "chuẩn bị đồ sơ sinh cho bé",
+            "chở đồ em bé bằng xe máy"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "các cặp vợ chồng sắp sinh con đầu lòng ở Hà Nội",
+          "location_scope": "cửa hàng mẹ và bé, siêu thị trong nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Về làng quê nội ven Hà Nội tìm nhà thờ họ, hỏi gia phả: thuê xe máy một ngày, hẹn người trong họ và hỏi đường",
+          "intent": "Biết cách chuẩn bị một ngày thuê xe máy về làng ven Hà Nội tìm nhà thờ họ, liên hệ trước với người trong họ, mang thông tin gia đình cần đối chiếu và hỏi đường lịch sự trong làng.",
+          "kw": "về quê tìm nhà thờ họ",
+          "kw2": [
+            "tìm gia phả dòng họ",
+            "hỏi đường trong làng bằng xe máy"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "con cháu sinh ra ở nơi khác muốn tìm lại gốc họ ở làng ven Hà Nội",
+          "location_scope": "các làng ngoại thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Làm phù dâu, phù rể cho bạn thân: thuê xe máy một ngày chạy việc trước lễ, giữ trang phục gọn và đúng giờ",
+          "intent": "Lên kế hoạch thuê xe máy trong ngày cưới của bạn khi làm phù dâu hoặc phù rể, sắp các việc chạy trước giờ lễ, mang trang phục không nhàu và có mặt đúng giờ đón dâu.",
+          "kw": "làm phù dâu phù rể",
+          "kw2": [
+            "việc của phù rể ngày cưới",
+            "phù dâu đi xe máy"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "bạn thân nhận làm phù dâu, phù rể trong đám cưới ở Hà Nội",
+          "location_scope": "nhà cô dâu, chú rể và nhà hàng tiệc cưới trong Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Sắm đồ cho chuyến đi xe máy dài ngày: thuê xe một ngày mua áo mưa bộ, túi chống nước, dây chằng và thử ngay",
+          "intent": "Biết cách dùng một ngày thuê xe máy ở Hà Nội để sắm đồ cho chuyến đi dài ngày, lập danh sách theo mức cần thiết, thử cách buộc túi và mặc áo mưa trên xe trước khi lên đường.",
+          "kw": "mua đồ đi phượt ở hà nội",
+          "kw2": [
+            "chuẩn bị đồ đi xe máy đường dài",
+            "thử túi chằng hành lý xe máy"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "người chuẩn bị chuyến đi xe máy nhiều ngày lên các tỉnh phía Bắc",
+          "location_scope": "cửa hàng đồ dã ngoại, đồ đi mưa trong nội thành Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Cầu hôn ở Hà Nội bằng xe máy thuê: đi xem trước địa điểm, giấu hoa nhẫn và đưa người ấy đến đúng lúc",
+          "intent": "Lên kế hoạch một ngày thuê xe máy cho buổi cầu hôn, khảo sát trước địa điểm và chỗ để xe, cất hoa nhẫn an toàn và canh giờ đưa người ấy đến mà không lộ bất ngờ.",
+          "kw": "kế hoạch cầu hôn ở hà nội",
+          "kw2": [
+            "địa điểm cầu hôn hà nội",
+            "cầu hôn bất ngờ bằng xe máy"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "người chuẩn bị cầu hôn bạn gái hoặc bạn trai ở Hà Nội",
+          "location_scope": "quán, sân thượng và khu ven hồ trong nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chủ cửa hàng tỉnh lên Hà Nội lấy hàng trong ngày: thuê xe máy chạy chợ sỉ, gom hàng và kịp xe chiều về",
+          "intent": "Lên kế hoạch chuyến lấy hàng trong ngày ở Hà Nội cho chủ cửa hàng tỉnh, thuê xe máy chạy giữa các chợ sỉ theo thứ tự hợp lý, gom hàng an toàn và ra bến kịp chuyến về.",
+          "kw": "lên hà nội lấy hàng trong ngày",
+          "kw2": [
+            "lấy hàng chợ sỉ hà nội",
+            "chủ shop tỉnh đi lấy hàng"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "chủ cửa hàng nhỏ ở các tỉnh lân cận lên Hà Nội lấy hàng",
+          "location_scope": "chợ Đồng Xuân, các chợ sỉ và bến xe khách Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Đi workshop cuối tuần ở Hà Nội bằng xe máy thuê: làm nến, vẽ tranh, nặn gốm và chở thành phẩm về nguyên vẹn",
+          "intent": "Biết cách sắp một ngày thuê xe máy đi các lớp workshop thủ công cuối tuần ở Hà Nội, đến đúng giờ lớp, tìm chỗ gửi xe gần và chở thành phẩm dễ vỡ hoặc chưa khô về an toàn.",
+          "kw": "đi workshop cuối tuần hà nội",
+          "kw2": [
+            "lớp làm nến vẽ tranh hà nội",
+            "chở đồ thủ công dễ vỡ"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "người trẻ, cặp đôi và nhóm bạn thích lớp học thủ công cuối tuần",
+          "location_scope": "các studio, xưởng thủ công trong nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đưa con xem xiếc ở Rạp xiếc Trung ương cuối tuần bằng xe máy thuê: lịch diễn, gửi xe và chở bé an toàn",
+          "intent": "Lên kế hoạch buổi cuối tuần thuê xe máy đưa trẻ đi xem xiếc ở Rạp xiếc Trung ương, kiểm tra lịch diễn chính thức, đến sớm gửi xe, chở bé an toàn và ghép thêm điểm chơi gần đó.",
+          "kw": "đưa con đi xem xiếc",
+          "kw2": [
+            "rạp xiếc trung ương",
+            "xem xiếc cuối tuần hà nội"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "bố mẹ có con nhỏ muốn cho bé xem xiếc cuối tuần",
+          "location_scope": "công viên Thống Nhất và khu Trần Nhân Tông, Lê Duẩn",
+          "word_target": 1200
+        },
+        {
+          "title": "Đi mừng đầy tháng, thôi nôi cháu ở nhà họ hàng ven Hà Nội: thuê xe máy một ngày, chọn quà và đến đúng giờ lễ",
+          "intent": "Biết cách chuẩn bị một ngày thuê xe máy đi mừng đầy tháng hoặc thôi nôi cháu nhỏ, chọn quà phù hợp, hỏi trước giờ làm lễ và giữ phép lịch sự khi đến nhà có trẻ sơ sinh.",
+          "kw": "đi mừng đầy tháng thôi nôi",
+          "kw2": [
+            "quà mừng đầy tháng cho bé",
+            "đi ăn thôi nôi bằng xe máy"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "họ hàng, bạn bè được mời dự đầy tháng, thôi nôi",
+          "location_scope": "nhà họ hàng ở nội thành và các làng ven Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Tối đi xem kịch, chèo, cải lương bằng xe máy thuê: đến trước giờ mở màn, gửi xe gần nhà hát và về khuya",
+          "intent": "Biết cách sắp buổi tối thuê xe máy đi xem kịch nói, chèo hoặc cải lương ở nhà hát trong phố, xem lịch diễn chính thức, gửi xe gần cửa rạp và về nhà an toàn sau suất muộn.",
+          "kw": "đi xem kịch ở hà nội",
+          "kw2": [
+            "xem chèo cải lương hà nội",
+            "gửi xe đi nhà hát buổi tối"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "người yêu sân khấu, khách muốn xem nghệ thuật truyền thống buổi tối",
+          "location_scope": "các nhà hát kịch, chèo, cải lương trong nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Không quen bản đồ điện thoại vẫn thuê xe máy một ngày: ghi lộ trình ra giấy, nhớ mốc dễ nhận và hỏi đường",
+          "intent": "Biết cách chuẩn bị một ngày đi xe máy thuê ở Hà Nội khi không quen dùng bản đồ trên điện thoại, chép lộ trình ra giấy theo mốc dễ nhận, chia chặng ngắn và dừng hỏi đường an toàn.",
+          "kw": "không quen dùng bản đồ điện thoại",
+          "kw2": [
+            "ghi lộ trình ra giấy",
+            "người lớn tuổi hỏi đường hà nội"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "người lớn tuổi hoặc người không quen dùng điện thoại thông minh",
+          "location_scope": "nội thành Hà Nội và các tuyến quen thuộc ra ngoại thành",
+          "word_target": 1200
+        },
+        {
+          "title": "Xem hội vật Mai Động đầu xuân bằng xe máy thuê: đường vào làng, gửi xe quanh sới vật và giờ nên đến",
+          "intent": "Lên kế hoạch thuê xe máy một ngày đầu xuân đi xem hội vật cổ truyền Mai Động, kiểm tra lịch hội chính thức, tìm đường vào làng, gửi xe tránh chen lấn và giữ an toàn.",
+          "kw": "hội vật mai động",
+          "kw2": [
+            "xem đấu vật đầu xuân hà nội",
+            "lễ hội vật cổ truyền"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "người thích lễ hội truyền thống đầu năm ở Hà Nội",
+          "location_scope": "làng Mai Động và các phố lân cận phía nam nội thành",
+          "word_target": 1200
+        },
+        {
+          "title": "Mua rau hữu cơ tận trang trại ven Hà Nội bằng xe máy thuê: hẹn trước, đi buổi sáng và giữ rau tươi khi chở về",
+          "intent": "Biết cách sắp một ngày thuê xe máy đi mua rau hữu cơ tận trang trại ven Hà Nội, liên hệ trang trại trước, chọn giờ đi mát, mang túi giữ lạnh và xếp rau không dập khi chở về.",
+          "kw": "mua rau hữu cơ tận vườn",
+          "kw2": [
+            "trang trại rau sạch ven hà nội",
+            "chở rau bằng xe máy"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "gia đình nội thành quan tâm thực phẩm sạch",
+          "location_scope": "trang trại rau ở ngoại thành Hà Nội như Sóc Sơn, Gia Lâm, Đông Anh",
+          "word_target": 1200
+        },
+        {
+          "title": "Thuê xe máy một ngày đi chùa Thanh Mai ở Chí Linh: đường đến chân núi, gửi xe trước dốc và giờ quay về",
+          "intent": "Lên kế hoạch một ngày thuê xe máy từ Hà Nội đi chùa Thanh Mai ở Chí Linh, chọn tuyến đường, nghỉ giữa chặng, gửi xe trước đoạn dốc lên chùa và canh giờ về trước khi trời tối.",
+          "kw": "đi chùa thanh mai chí linh",
+          "kw2": [
+            "chùa thanh mai bằng xe máy",
+            "thiền viện thanh mai"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "phật tử và người thích chùa cổ trên núi",
+          "location_scope": "tuyến Hà Nội – Chí Linh và khu núi chùa Thanh Mai",
+          "word_target": 1300
+        },
+        {
+          "title": "Lần đầu gặp người quen qua ứng dụng hẹn hò: tự đi xe máy thuê để chủ động, chọn quán đông và giờ về",
+          "intent": "Biết cách dùng xe máy thuê để tự chủ động trong buổi gặp mặt đầu tiên với người quen qua ứng dụng, chọn điểm hẹn đông người, chia sẻ lịch trình với người thân và tự rời đi khi muốn.",
+          "kw": "gặp lần đầu qua app hẹn hò",
+          "kw2": [
+            "an toàn khi hẹn hò lần đầu",
+            "tự đi xe đến buổi hẹn"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "người trẻ sống một mình ở Hà Nội hẹn gặp bạn quen qua mạng",
+          "location_scope": "quán cà phê, khu phố đông người trong nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Lo tiệc tất niên công ty: thuê xe máy một ngày đi xem nhà hàng, kiểm tra chỗ gửi xe cho khách và lối ra",
+          "intent": "Lên kế hoạch một ngày thuê xe máy để khảo sát địa điểm tiệc tất niên công ty, so sánh quãng đường, sức chứa bãi gửi xe máy, lối ra đường lớn và phương án về an toàn sau tiệc.",
+          "kw": "khảo sát địa điểm tiệc tất niên",
+          "kw2": [
+            "chọn nhà hàng tất niên công ty",
+            "bãi gửi xe cho khách dự tiệc"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "nhân viên hành chính, nhân sự được giao tổ chức tiệc cuối năm",
+          "location_scope": "nhà hàng, trung tâm tiệc trong nội thành và ven đô Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xa Hà Nội nhiều năm, về tìm lại ngôi nhà thời thơ ấu: thuê xe máy một ngày đi chậm, hỏi người cũ, chụp ảnh",
+          "intent": "Lên kế hoạch một ngày thuê xe máy tìm lại nơi từng sống ở Hà Nội, đối chiếu địa chỉ cũ với tên phố hiện nay, hỏi thăm hàng xóm lâu năm và chụp ảnh không làm phiền cư dân.",
+          "kw": "tìm lại nơi ở cũ hà nội",
+          "kw2": [
+            "về thăm khu phố tuổi thơ",
+            "tìm nhà cũ ở hà nội"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "người rời Hà Nội lâu năm, Việt kiều về thăm chốn cũ",
+          "location_scope": "khu phố cũ, khu tập thể và ngõ trong nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chạy trail ở Sóc Sơn, Ba Vì bằng xe máy thuê: ra điểm xuất phát sớm, gửi xe chân núi và lái về khi chân mỏi",
+          "intent": "Lên kế hoạch một ngày thuê xe máy đi chạy trail ở đồi núi ven Hà Nội, xuất phát sớm, gửi xe an toàn chân núi, mang đồ thay và nghỉ đủ trước khi tự lái về.",
+          "kw": "đi chạy trail gần hà nội",
+          "kw2": [
+            "chạy địa hình sóc sơn",
+            "chạy trail ba vì"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "người chạy bộ đường mòn, nhóm chạy trail cuối tuần",
+          "location_scope": "khu đồi núi Sóc Sơn và chân núi Ba Vì, ngoại thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Mùa vải Thanh Hà đầu hè: thuê xe máy một ngày từ Hà Nội về vườn, chọn giờ mát và chở thùng vải không dập",
+          "intent": "Lên kế hoạch một ngày thuê xe máy về vùng vải Thanh Hà vào chính vụ, chọn đường đi, xuất phát sớm tránh nắng, mua tại vườn và chằng thùng vải chắc chắn trên đường về Hà Nội.",
+          "kw": "đi thanh hà mua vải",
+          "kw2": [
+            "mùa vải thanh hà",
+            "chở vải bằng xe máy"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "gia đình, nhóm bạn Hà Nội muốn mua vải tận vườn",
+          "location_scope": "tuyến Hà Nội – Thanh Hà theo quốc lộ 5",
+          "word_target": 1200
+        },
+        {
+          "title": "Đêm có mưa sao băng: thuê xe máy ra ngoại thành Hà Nội tìm chỗ tối mà an toàn, mặc đủ ấm và về khuya cẩn thận",
+          "intent": "Biết cách chuẩn bị một chuyến thuê xe máy đi ngắm mưa sao băng ở ngoại thành Hà Nội, chọn điểm ít đèn nhưng an toàn, xem dự báo mây, mang đồ ấm và lái về đêm chậm rãi.",
+          "kw": "ngắm mưa sao băng ở hà nội",
+          "kw2": [
+            "chỗ ngắm sao gần hà nội",
+            "đi xe máy ban đêm ngoại thành"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "người yêu thiên văn, nhóm bạn trẻ thích săn sao",
+          "location_scope": "bãi trống, đồi ven Hà Nội như Sóc Sơn, Ba Vì",
+          "word_target": 1200
+        },
+        {
+          "title": "Thăm bố mẹ ở viện dưỡng lão ven Hà Nội bằng xe máy thuê: hỏi giờ thăm, mang đồ ăn và ngồi chơi cùng các cụ",
+          "intent": "Lên kế hoạch một ngày thuê xe máy đi thăm người thân ở viện dưỡng lão ngoại thành, hỏi trước giờ thăm và quy định của cơ sở, chọn quà phù hợp và sắp giờ về không vội.",
+          "kw": "thăm người thân ở viện dưỡng lão",
+          "kw2": [
+            "viện dưỡng lão ven hà nội",
+            "giờ thăm viện dưỡng lão"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "con cháu có bố mẹ, ông bà đang sống ở viện dưỡng lão",
+          "location_scope": "các viện dưỡng lão ở ngoại thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Quê gửi gạo, rau, thực phẩm lên theo xe khách: thuê xe máy một ngày ra đúng điểm nhận, kiểm hàng và chở về",
+          "intent": "Biết cách thuê xe máy một ngày để nhận hàng quê gửi lên theo xe khách, hỏi rõ nhà xe và điểm trả hàng, đến đúng giờ, kiểm tra kiện hàng và chằng buộc an toàn khi chở về.",
+          "kw": "nhận hàng quê gửi xe khách",
+          "kw2": [
+            "nhận đồ gửi theo xe khách",
+            "chở bao gạo bằng xe máy"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "người ở trọ, sinh viên, gia đình trẻ nhận đồ ăn từ quê gửi lên",
+          "location_scope": "bến xe Mỹ Đình, Giáp Bát, Nước Ngầm và điểm trả hàng dọc đường",
+          "word_target": 1200
+        },
+        {
+          "title": "Đang bó bột hoặc phải chống nạng có nên thuê xe máy một ngày: khi nào nên nhờ người chở và khi nào nên gọi xe",
+          "intent": "Hiểu vì sao người đang bó bột, chống nạng hoặc chấn thương tay chân không nên tự lái xe máy thuê, cân nhắc nhờ người chở, gọi xe và chỉ thuê lại khi bác sĩ cho phép.",
+          "kw": "bó bột có nên đi xe máy",
+          "kw2": [
+            "chống nạng đi xe máy được không",
+            "chấn thương chân lái xe máy"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "người đang hồi phục chấn thương tay, chân muốn tự đi lại",
+          "location_scope": "nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Thuê xe máy một ngày về làng cây cảnh Vị Khê gần thành Nam: xem vườn, chọn chậu nhỏ và chở cây về Hà Nội",
+          "intent": "Lên kế hoạch một ngày thuê xe máy từ Hà Nội về làng hoa cây cảnh Vị Khê, chọn tuyến đường, nghỉ giữa chặng, xem vườn lịch sự và buộc chậu cây nhỏ chắc chắn để chở về.",
+          "kw": "làng hoa cây cảnh vị khê",
+          "kw2": [
+            "đi vị khê bằng xe máy",
+            "chở chậu cây cảnh bằng xe máy"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-061",
+          "audience": "người chơi cây cảnh, bonsai ở Hà Nội",
+          "location_scope": "tuyến Hà Nội – Phủ Lý – Nam Định",
+          "word_target": 1300
         }
       ]
     },
@@ -35969,6 +36394,431 @@
           "audience": "người thuê Honda Click ở Hà Nội cần để mũ bảo hiểm khi dừng ăn uống hoặc vào quán",
           "location_scope": "Hà Nội, các điểm gửi xe quanh phố cổ, hồ Tây và quán ăn",
           "word_target": 1200
+        },
+        {
+          "title": "Honda Click lên Tam Đảo: đi một người hay chở hai, nghỉ máy giữa dốc và xuống đèo cho phanh khỏi nóng",
+          "intent": "Biết cách đánh giá chiếc Honda Click thuê có đủ sức lên Tam Đảo trong ngày, nên đi một người hay chở hai, nghỉ máy ở đâu và xuống đèo mà phanh không bị nóng.",
+          "kw": "honda click lên tam đảo",
+          "kw2": [
+            "xe ga lên tam đảo được không",
+            "honda click đi đèo"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "nhóm bạn trẻ thuê Honda Click muốn đi Tam Đảo trong ngày",
+          "location_scope": "Hà Nội – Tam Đảo",
+          "word_target": 1300
+        },
+        {
+          "title": "Honda Click thuê đi xa được không: quãng đường một ngày vừa sức, đường nên tránh và lúc nên đổi xe khỏe hơn",
+          "intent": "Hiểu một chiếc Honda Click thuê ở Hà Nội hợp với quãng đường bao xa mỗi ngày, loại đường nào nên tránh và dấu hiệu nào cho thấy nên đổi sang xe khỏe hơn.",
+          "kw": "honda click đi xa được không",
+          "kw2": [
+            "honda click đi phượt",
+            "xe click đi tỉnh"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "khách thuê Honda Click định rời Hà Nội đi tỉnh lân cận",
+          "location_scope": "Hà Nội và các tỉnh giáp ranh",
+          "word_target": 1300
+        },
+        {
+          "title": "Người cao từ 1m75 trở lên thuê Honda Click: đầu gối, tay lái, chỗ đặt chân và lúc nên chọn xe rộng hơn",
+          "intent": "Biết cách tự kiểm tra tư thế ngồi trên Honda Click khi dáng người cao, xử lý chuyện đầu gối vướng tay lái lúc bẻ lái và nhận ra khi nào nên chọn xe rộng hơn.",
+          "kw": "người cao đi honda click",
+          "kw2": [
+            "honda click có chật không",
+            "người cao 1m8 đi xe ga nhỏ"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "khách nam cao to, du khách nước ngoài dáng cao",
+          "location_scope": "nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Người nặng trên 80 kg tự lái Honda Click thuê: lên dốc cầu, độ lún giảm xóc, hơi lốp và quãng đường nên đi",
+          "intent": "Hiểu Honda Click phản ứng thế nào khi người lái nặng trên 80 kg, biết cách lên dốc cầu, giữ hơi lốp đúng mức và chọn quãng đường hằng ngày vừa sức xe.",
+          "kw": "người nặng cân đi honda click",
+          "kw2": [
+            "honda click chở nặng có yếu không",
+            "người to con đi xe ga nhỏ"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "người thuê xe nặng trên 80 kg",
+          "location_scope": "Hà Nội, các cầu qua sông Hồng",
+          "word_target": 1200
+        },
+        {
+          "title": "Người ngoài 60 tuổi tự lái Honda Click thuê ở Hà Nội: xe nhẹ dễ dắt, giờ ra đường và chặng nên đi",
+          "intent": "Lên kế hoạch cho người ngoài 60 tuổi tự lái Honda Click ở Hà Nội: tận dụng xe nhẹ để dắt, chọn giờ vắng, cung đường ngắn và nhịp nghỉ hợp sức.",
+          "kw": "người lớn tuổi lái honda click",
+          "kw2": [
+            "người già thuê xe ga",
+            "xe ga nhẹ cho người lớn tuổi"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "người ngoài 60 tuổi còn lái xe vững, du khách lớn tuổi",
+          "location_scope": "nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Một ngày tự lái Honda Click ở Hà Nội hết bao nhiêu: 150.000đ tiền thuê, tiền xăng và vé gửi xe",
+          "intent": "Lên kế hoạch ngân sách một ngày tự lái Honda Click ở Hà Nội, cộng đủ tiền thuê 150.000đ, tiền xăng theo quãng đường dự kiến và các lần gửi xe trong ngày.",
+          "kw": "chi phí một ngày thuê honda click",
+          "kw2": [
+            "thuê honda click 150k",
+            "tiền xăng xe click một ngày"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "du khách tự túc tính ngân sách đi lại trong ngày",
+          "location_scope": "phố cổ, Hồ Tây, Long Biên",
+          "word_target": 1200
+        },
+        {
+          "title": "Honda Click xuống bãi bồi ven sông Hồng: đường cát, bánh nhỏ dễ sa và chọn nền chắc để đỗ xe",
+          "intent": "Biết cách đưa Honda Click bánh nhỏ xuống bãi bồi ven sông Hồng qua đoạn đường cát, giữ ga để không sa lầy, lúc nào nên dắt bộ và đỗ xe ở nền chắc.",
+          "kw": "honda click đi đường cát",
+          "kw2": [
+            "xe ga bị sa cát",
+            "xuống bãi sông hồng bằng xe ga"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "người đi dạo, chụp ảnh bãi sông bằng xe thuê",
+          "location_scope": "bãi bồi sông Hồng phía Long Biên, Tây Hồ",
+          "word_target": 1200
+        },
+        {
+          "title": "Honda Click đi chùa Trăm Gian và chùa Trầm trong một buổi: quốc lộ 6, đường làng vào chân núi và gửi xe",
+          "intent": "Lên kế hoạch một buổi đi chùa Trăm Gian và chùa Trầm bằng Honda Click: chạy quốc lộ 6, nối hai chùa theo thứ tự hợp lý, vào đường làng và gửi xe an toàn.",
+          "kw": "đi chùa trăm gian và chùa trầm",
+          "kw2": [
+            "chùa trăm gian đi xe máy",
+            "đường đến chùa trầm"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "người đi lễ, khách thích kiến trúc chùa cổ",
+          "location_scope": "Chương Mỹ, phía tây nam Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Honda Click theo quốc lộ 1 cũ qua cầu Đuống, Yên Viên sang Từ Sơn: xe tải, chợ ven đường và lối rẽ vào làng",
+          "intent": "Biết cách chạy Honda Click trên quốc lộ 1 cũ từ Long Biên qua cầu Đuống, Yên Viên sang Từ Sơn: giữ làn giữa xe tải, qua đoạn chợ đông và rẽ vào làng đúng chỗ.",
+          "kw": "quốc lộ 1 cũ qua yên viên",
+          "kw2": [
+            "đường hà huy tập yên viên",
+            "từ long biên đi từ sơn"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "khách thuê xe ở Long Biên đi Bắc Ninh trong ngày",
+          "location_scope": "Long Biên, Yên Viên, Từ Sơn",
+          "word_target": 1300
+        },
+        {
+          "title": "Honda Click theo quốc lộ 32 qua Nhổn, Trạm Trôi, Phùng lên Sơn Tây: đoạn chợ đông, xe khách và chỗ nghỉ",
+          "intent": "Lên kế hoạch chạy Honda Click theo quốc lộ 32 từ Cầu Diễn lên Sơn Tây: biết đoạn qua chợ và thị trấn hay ùn, cách đi cạnh xe khách dừng đón và chỗ nghỉ giữa chặng.",
+          "kw": "quốc lộ 32 đi sơn tây",
+          "kw2": [
+            "đường 32 đi sơn tây xe máy",
+            "nhổn phùng sơn tây"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "khách thuê xe đi Sơn Tây, Đường Lâm không qua Đại lộ Thăng Long",
+          "location_scope": "Bắc Từ Liêm, Hoài Đức, Đan Phượng, Sơn Tây",
+          "word_target": 1300
+        },
+        {
+          "title": "Honda Click đi làng tăm hương Quảng Phú Cầu: đường xuống phía nam, ngõ làng hẹp và đỗ xe không chắn sân phơi",
+          "intent": "Lên kế hoạch đi làng tăm hương Quảng Phú Cầu bằng Honda Click: chọn đường xuống phía nam, đi chậm trong ngõ làng hẹp và đỗ xe không chắn sân phơi hương của người làm nghề.",
+          "kw": "đi làng hương quảng phú cầu",
+          "kw2": [
+            "làng hương quảng phú cầu xe máy",
+            "chụp ảnh làng hương"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "người thích chụp ảnh làng nghề, du khách nước ngoài",
+          "location_scope": "Ứng Hòa, phía nam Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đi picnic trong ngày bằng Honda Click: xếp thảm, đồ ăn, ghế gấp vào cốp nhỏ và sàn để chân cho hai người",
+          "intent": "Biết cách xếp đồ cho buổi picnic trong ngày bằng Honda Click: chia thảm, đồ ăn, ghế gấp giữa cốp nhỏ, sàn để chân và người ngồi sau để xe vẫn cân và vững.",
+          "kw": "đi picnic bằng honda click",
+          "kw2": [
+            "chở đồ picnic bằng xe ga",
+            "picnic ven hà nội bằng xe máy"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "cặp đôi, nhóm bạn đi picnic cuối tuần",
+          "location_scope": "ven đô Hà Nội: bãi sông, ven hồ ngoại thành",
+          "word_target": 1200
+        },
+        {
+          "title": "Chở bố mẹ đi xem chèo, cải lương buổi tối bằng Honda Click: hỏi giờ diễn, gửi xe gần nhà hát và về khuya",
+          "intent": "Lên kế hoạch chở bố mẹ đi xem chèo, cải lương buổi tối bằng Honda Click: hỏi trước giờ diễn, gửi xe gần nhà hát, giúp bố mẹ lên xuống xe và về khuya an toàn.",
+          "kw": "chở bố mẹ đi xem chèo",
+          "kw2": [
+            "đi xem cải lương bằng xe máy",
+            "gửi xe nhà hát chèo"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "con cái đưa bố mẹ đi xem nghệ thuật truyền thống",
+          "location_scope": "Hoàn Kiếm, Ba Đình, Đống Đa",
+          "word_target": 1200
+        },
+        {
+          "title": "Chở cành đào, chậu quất ngày Tết bằng Honda Click: đặt chậu trên sàn để chân, buộc cành và giữ nụ, giữ quả",
+          "intent": "Biết cách chở cành đào, chậu quất ngày Tết trên Honda Click: đặt chậu vững trên sàn để chân, buộc gọn cành, giữ nụ và quả, giữ thăng bằng trên phố đông cận Tết.",
+          "kw": "chở cành đào bằng xe ga",
+          "kw2": [
+            "chở chậu quất bằng xe máy",
+            "mua đào tết bằng honda click"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "người mua đào, quất chơi Tết",
+          "location_scope": "Nhật Tân, Tứ Liên, Quảng An và các chợ hoa Tết",
+          "word_target": 1200
+        },
+        {
+          "title": "Mùa hoa gạo tháng Ba ven đê, đầu làng ngoại thành Hà Nội bằng Honda Click: tìm cây, dừng xe trên đê an toàn",
+          "intent": "Lên kế hoạch ngắm hoa gạo tháng Ba ở ven đê và đầu làng ngoại thành Hà Nội bằng Honda Click: tìm cây, chọn giờ sáng và dừng xe trên đê không cản đường.",
+          "kw": "mùa hoa gạo hà nội",
+          "kw2": [
+            "ngắm hoa gạo tháng ba",
+            "hoa gạo ven đê"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "người thích chụp ảnh mùa hoa, du khách mùa xuân",
+          "location_scope": "ven đê sông Hồng, sông Đuống và làng ngoại thành",
+          "word_target": 1200
+        },
+        {
+          "title": "Người ngồi sau ngủ gật khi về đêm trên Honda Click: dấu hiệu, chỗ dừng nghỉ và cách giữ người cho an toàn",
+          "intent": "Biết cách nhận ra người ngồi sau đang ngủ gật khi chở về đêm trên Honda Click, chọn chỗ dừng nghỉ, đánh thức nhẹ nhàng và giữ người ngồi sau an toàn đến nơi.",
+          "kw": "người ngồi sau ngủ gật",
+          "kw2": [
+            "chở người buồn ngủ ban đêm",
+            "ngủ gật khi ngồi sau xe máy"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "người chở bạn, người thân về đêm từ ngoại thành",
+          "location_scope": "các tuyến về nội thành Hà Nội ban đêm",
+          "word_target": 1200
+        },
+        {
+          "title": "Đi ăn khuya ở Hà Nội sau 23 giờ bằng Honda Click: chọn khu quán, đường đêm có xe tải và về chỗ ở an toàn",
+          "intent": "Lên kế hoạch đi ăn khuya ở Hà Nội sau 23 giờ bằng Honda Click: chọn khu quán còn mở, đi đường đêm có xe tải vào phố, gửi xe và về chỗ ở an toàn.",
+          "kw": "đi ăn khuya hà nội",
+          "kw2": [
+            "quán ăn đêm hà nội",
+            "đi xe máy đêm khuya hà nội"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "du khách, người trẻ đi ăn đêm",
+          "location_scope": "phố cổ, Hai Bà Trưng, Ba Đình",
+          "word_target": 1200
+        },
+        {
+          "title": "Một buổi ở Đông Anh bằng Honda Click: nối thành Cổ Loa, làng rối nước Đào Thục và làng ca trù Lỗ Khê",
+          "intent": "Lên kế hoạch một buổi ở Đông Anh bằng Honda Click, nối thành Cổ Loa với làng rối nước Đào Thục và làng ca trù Lỗ Khê, hẹn trước giờ xem và gửi xe gọn.",
+          "kw": "đi đông anh bằng xe máy",
+          "kw2": [
+            "làng rối nước đào thục",
+            "làng ca trù lỗ khê"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "khách thích văn hóa dân gian, nghệ thuật truyền thống",
+          "location_scope": "Đông Anh, phía bắc sông Hồng",
+          "word_target": 1300
+        },
+        {
+          "title": "Người lạ vẫy xin đi nhờ khi đang lái Honda Click ở đường vắng ngoại thành: giúp hay từ chối cho khéo",
+          "intent": "Hiểu nên xử lý thế nào khi người lạ vẫy xin đi nhờ lúc đang lái Honda Click thuê trên đường vắng ngoại thành, cân nhắc rủi ro và cách từ chối lịch sự hoặc giúp đúng cách.",
+          "kw": "cho người lạ đi nhờ xe",
+          "kw2": [
+            "người lạ xin đi nhờ xe máy",
+            "từ chối cho đi nhờ xe"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "người tự lái xe thuê đi ngoại thành một mình",
+          "location_scope": "đường vắng ngoại thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Mua hải sản, đồ đông lạnh ở chợ về bằng Honda Click: thùng xốp đá lạnh trên sàn để chân và nước rỉ",
+          "intent": "Biết cách chở hải sản, đồ đông lạnh mua ở chợ về bằng Honda Click: đặt thùng xốp đá lạnh trên sàn để chân, chặn nước rỉ, giữ thăng bằng và lau xe sau khi chở.",
+          "kw": "chở hải sản bằng xe máy",
+          "kw2": [
+            "chở thùng xốp bằng xe ga",
+            "mua hải sản về bằng xe máy"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "người nội trợ, khách thuê tháng tự nấu ăn",
+          "location_scope": "chợ dân sinh và chợ đầu mối Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Nghỉ dưỡng cuối tuần ở resort ven Hà Nội bằng Honda Click: hành lý hai ngày, đường vào khu nghỉ và gửi xe",
+          "intent": "Lên kế hoạch nghỉ dưỡng cuối tuần ở khu nghỉ ven Hà Nội bằng Honda Click thay vì ô tô: xếp hành lý hai ngày, chọn đường vào khu nghỉ và hỏi chỗ gửi xe trước.",
+          "kw": "đi resort gần hà nội",
+          "kw2": [
+            "nghỉ dưỡng cuối tuần gần hà nội",
+            "chở hành lý bằng honda click"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "cặp đôi, gia đình nhỏ nghỉ cuối tuần",
+          "location_scope": "Sóc Sơn, Ba Vì và vùng ven Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Chiều 30 Tết đi Honda Click ở Hà Nội: phố đông rồi vắng dần, mua nốt đồ cúng và về nhà trước giao thừa",
+          "intent": "Nắm nhịp đường phố Hà Nội chiều 30 Tết khi đi Honda Click: giờ phố đông rồi vắng dần, mua nốt đồ cúng, gửi xe ở chợ và về nhà kịp trước giao thừa.",
+          "kw": "chiều 30 tết hà nội",
+          "kw2": [
+            "đi xe máy chiều 30 tết",
+            "đi chợ chiều 30 tết"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "người ở lại Hà Nội ăn Tết, khách thuê xe dịp Tết",
+          "location_scope": "nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Người lái nhỏ con chở người nặng hơn mình trên Honda Click: xuất phát, dừng đèn đỏ và chống chân giữ xe",
+          "intent": "Biết cách người lái nhỏ con giữ Honda Click vững khi chở người nặng hơn mình: xuất phát êm, dừng đèn đỏ, chống chân, dặn người ngồi sau ngồi yên và phanh sớm hơn.",
+          "kw": "người nhỏ con chở người nặng",
+          "kw2": [
+            "honda click chở người nặng hơn",
+            "chở người to hơn mình bằng xe ga"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "người lái nữ nhỏ con, cặp đôi chênh lệch cân nặng",
+          "location_scope": "phố Hà Nội và các dốc cầu",
+          "word_target": 1200
+        },
+        {
+          "title": "Mùa hoa phượng tháng Năm, tháng Sáu ở Hà Nội bằng Honda Click: phố có phượng, giờ chụp và chỗ dừng xe",
+          "intent": "Lên kế hoạch ngắm hoa phượng tháng Năm, tháng Sáu ở Hà Nội bằng Honda Click: chọn phố và hồ có phượng, giờ chụp ảnh đẹp và chỗ dừng xe không chắn lối.",
+          "kw": "mùa hoa phượng hà nội",
+          "kw2": [
+            "ngắm hoa phượng bằng xe máy",
+            "phố hoa phượng hà nội"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "người thích chụp ảnh, học sinh sinh viên mùa hè",
+          "location_scope": "nội thành Hà Nội, quanh hồ và trường học",
+          "word_target": 1200
+        },
+        {
+          "title": "Ngắm Hà Nội từ trên cao lúc lên đèn bằng Honda Click: đài quan sát, quán tầng thượng và gửi xe hầm tòa nhà",
+          "intent": "Lên kế hoạch ngắm Hà Nội từ trên cao lúc lên đèn bằng Honda Click: chọn đài quan sát hoặc quán tầng thượng, gửi xe hầm tòa nhà và về khuya không uống rượu bia.",
+          "kw": "ngắm hà nội từ trên cao",
+          "kw2": [
+            "đài quan sát hà nội",
+            "gửi xe máy tòa nhà cao tầng"
+          ],
+          "links": [
+            "/xe-may/honda-click/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-063",
+          "audience": "du khách, cặp đôi muốn ngắm thành phố về đêm",
+          "location_scope": "Ba Đình, Cầu Giấy, Hoàn Kiếm",
+          "word_target": 1200
         }
       ]
     },
@@ -50153,6 +51003,40 @@
           "audience": "khách chạy xe quanh hồ Trúc Bạch và đường Thanh Niên, thấy ngôi đền nhỏ giữa hồ và muốn biết đi vào bằng lối nào",
           "location_scope": "Hồ Trúc Bạch, phường Ba Đình, Hà Nội (đảo nhỏ gần cuối đường Thanh Niên)",
           "word_target": 1200
+        },
+        {
+          "title": "Chùa Kim Sơn ở 73 Kim Mã bằng xe máy: nơi gắn với nghĩa quân Tây Sơn tử trận ở Đống Đa và nhà bia dựng năm 2011",
+          "intent": "Biết chùa Kim Sơn (chùa Kim Mã) ở số 73 phố Kim Mã gắn với nghĩa quân Tây Sơn tử trận ở Đống Đa thế nào, đi xe máy tới góc phố Kim Mã và Giang Văn Minh ra sao, xem được những gì ở tòa Tam Bảo, đàn Vạn Linh, đền thờ Mẫu và nên ghé vào dịp nào.",
+          "kw": "chùa kim sơn kim mã",
+          "kw2": [
+            "chùa kim mã hà nội",
+            "đi chùa kim sơn bằng xe máy"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Q",
+          "audience": "khách chạy xe qua trục Kim Mã và Giảng Võ, thích lịch sử nhà Tây Sơn hoặc đi lễ, muốn ghé một ngôi chùa cổ ngay trong nội thành nhưng chưa biết lối vào và chỗ để xe",
+          "location_scope": "Giảng Võ, Hà Nội (số 73 phố Kim Mã, góc phố Giang Văn Minh; nay thuộc phường Giảng Võ, trước 7/2025 là quận Ba Đình hoặc Đống Đa tùy nguồn)",
+          "word_target": 1200
+        },
+        {
+          "title": "Chùa Bát Tháp (chùa Vạn Bảo) trên phố Đội Cấn bằng xe máy: tam quan hai tầng tám mái, quả chuông 1803 và cách ghé đi lễ",
+          "intent": "Biết chùa Bát Tháp (còn gọi chùa Vạn Bảo) nằm đâu trên phố Đội Cấn, đi xe máy tới và vào chùa thế nào, hiểu vì sao có tên Bát Tháp, xem tam quan, tòa tam bảo và quả chuông cổ rồi ghép vào chuyến đi quanh khu Đội Cấn.",
+          "kw": "chùa bát tháp đội cấn",
+          "kw2": [
+            "chùa vạn bảo đội cấn",
+            "đi chùa bát tháp bằng xe máy"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Q",
+          "audience": "khách đi xe máy quanh khu Đội Cấn và Ngọc Hà, vừa ghé bảo tàng hoặc khu Lăng Bác xong, muốn thêm một ngôi chùa cổ gần đó và chưa biết lối vào",
+          "location_scope": "Ba Đình, Hà Nội (phố Đội Cấn; trước 7/2025 thuộc phường Đội Cấn, quận Ba Đình; phường mới chưa xác minh)",
+          "word_target": 1200
         }
       ]
     },
@@ -51412,6 +52296,40 @@
           "subtopic": "refill-2026-10-20-W3P",
           "audience": "khách thích lịch sử quân sự hoặc đưa trẻ đi tham quan, thuê xe máy ghé một bảo tàng nhỏ dọc đường Hoàng Quốc Việt",
           "location_scope": "Hà Nội (số 108 Hoàng Quốc Việt, phường Nghĩa Đô; trước 7/2025 thuộc quận Cầu Giấy)",
+          "word_target": 1200
+        },
+        {
+          "title": "Bảo tàng Công binh ở 290 Lạc Long Quân bằng xe máy: bảo tàng của Binh chủng Công binh, giờ vào cửa và phần nên xem",
+          "intent": "Biết bảo tàng Công binh ở số 290 đường Lạc Long Quân là bảo tàng của binh chủng nào, đi xe máy từ nội thành tới đó ra sao, giờ mở cửa cần kiểm tra thế nào và nên dành thời gian xem phần trưng bày nào, đặc biệt là sưu tập bom, mìn.",
+          "kw": "bảo tàng công binh hà nội",
+          "kw2": [
+            "bảo tàng công binh lạc long quân",
+            "giờ mở cửa bảo tàng công binh"
+          ],
+          "links": [
+            "/du-lich/bao-tang/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Q",
+          "audience": "khách thích lịch sử quân sự hoặc đưa trẻ đi tham quan, chạy xe dọc đường Lạc Long Quân và muốn ghé thêm một bảo tàng nhỏ gần Hồ Tây",
+          "location_scope": "Hà Nội (số 290 đường Lạc Long Quân, gần Hồ Tây; trước 7/2025 thuộc phường Bưởi, quận Tây Hồ; tên phường mới chưa xác minh)",
+          "word_target": 1200
+        },
+        {
+          "title": "Bảo tàng Đặc công ở xã Nam Phù bằng xe máy: giờ mở cửa thứ Hai đến thứ Sáu và các chủ đề trưng bày về Đặc công",
+          "intent": "Biết bảo tàng Đặc công ở thôn Đông Phù, nay thuộc xã Nam Phù phía nam Hà Nội, mở cửa những ngày nào, nên liên hệ trước ra sao, đi xe máy từ nội thành tới và xem các chủ đề trưng bày về Binh chủng Đặc công thế nào trong một buổi.",
+          "kw": "bảo tàng đặc công hà nội",
+          "kw2": [
+            "bảo tàng đặc công giờ mở cửa",
+            "bảo tàng binh chủng đặc công ở đâu"
+          ],
+          "links": [
+            "/du-lich/bao-tang/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Q",
+          "audience": "khách thích lịch sử quân sự, cựu chiến binh hoặc thầy cô đưa học sinh đi tham quan, thuê xe máy đi một buổi xuống phía nam Hà Nội",
+          "location_scope": "Hà Nội (thôn Đông Phù; trước 7/2025 là xã Đông Mỹ, huyện Thanh Trì; nay thuộc xã Nam Phù theo cổng Bảo tàng Lịch sử Quân sự 3/2026)",
           "word_target": 1200
         }
       ]
@@ -54355,6 +55273,23 @@
           "audience": "khách chạy xe quanh hồ Trúc Bạch và Hồ Tây buổi chiều tối, muốn thêm một điểm trải nghiệm Hà Nội xưa cạnh phố ẩm thực đi bộ",
           "location_scope": "Hồ Trúc Bạch, Đảo Ngọc – Ngũ Xã, phường Ba Đình, Hà Nội (số 2 Trúc Bạch)",
           "word_target": 1300
+        },
+        {
+          "title": "Chùa Bà Già ở phố Phú Gia, Phú Thượng bằng xe máy: hai pho tượng hậu Phật, di tích xếp hạng năm 1996 và cách ghé đi lễ",
+          "intent": "Biết chùa Bà Già ở phố Phú Gia, phường Phú Thượng nằm đâu so với Hồ Tây, đi xe máy vào ngõ thế nào, vì sao chùa mang tên Bà Già gắn với hai pho tượng hậu Phật và nên ghé đi lễ ra sao cho đúng phép.",
+          "kw": "chùa bà già phú thượng",
+          "kw2": [
+            "chùa bà già tây hồ",
+            "đi chùa bà già bằng xe máy"
+          ],
+          "links": [
+            "/du-lich/ho-tay/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Q",
+          "audience": "khách chạy xe quanh Hồ Tây, đã ghé phủ Tây Hồ hoặc chùa Trấn Quốc, muốn thêm một ngôi chùa cổ ở phía bắc hồ và chưa biết ngõ vào chùa Bà Già",
+          "location_scope": "Phú Thượng, Hà Nội (làng Phú Gia, phố Phú Gia; trước 7/2025 thuộc quận Tây Hồ, Wikipedia 2026 ghi phường Phú Thượng)",
+          "word_target": 1200
         }
       ]
     },
@@ -55988,6 +56923,23 @@
           "subtopic": "refill-2026-10-20-W3P",
           "audience": "khách thuê xe máy ở Long Biên đi làng gốm Bát Tràng, đã biết bảo tàng và chợ gốm nhưng chưa biết lò nung cổ của làng nằm ở đâu",
           "location_scope": "Bát Tràng, Hà Nội (trước 7/2025 thuộc huyện Gia Lâm; nay là xã Bát Tràng)",
+          "word_target": 1300
+        },
+        {
+          "title": "Chùa Sủi ở thôn Phú Thị bằng xe máy: cụm đình, đền, chùa thờ Nguyên phi Ỷ Lan và hội làng đầu tháng Ba âm lịch",
+          "intent": "Biết chùa Sủi (Đại Dương Sùng Phúc tự) nằm trong cụm đình, đền, chùa ở thôn Phú Thị thế nào, đi xe máy từ khu Long Biên qua cầu Chương Dương rồi theo quốc lộ 5 tới đó ra sao, hiểu vì sao nơi này gắn với Nguyên phi Ỷ Lan và chọn dịp hội làng để ghé.",
+          "kw": "chùa sủi gia lâm",
+          "kw2": [
+            "chùa phú thị gia lâm",
+            "đi chùa sủi bằng xe máy"
+          ],
+          "links": [
+            "/du-lich/long-bien/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Q",
+          "audience": "khách thuê xe máy ở Long Biên hoặc phố cổ muốn đi nửa buổi sang Gia Lâm xem một ngôi chùa cổ, đã nghe tới chợ Sủi nhưng chưa biết cụm chùa, đền, đình nằm ở đâu",
+          "location_scope": "Gia Lâm, Hà Nội (cụm đình, đền, chùa Sủi ở thôn Phú Thị; trước sáp nhập là xã Phú Thị, huyện Gia Lâm; Wikipedia 6/2026 ghi nay thuộc xã Gia Lâm)",
           "word_target": 1300
         }
       ]
@@ -57684,6 +58636,40 @@
           "subtopic": "refill-2026-10-20-W3P",
           "audience": "khách đi làng cổ Đường Lâm hoặc quan tâm lịch sử, muốn ghé đền thờ Phùng Hưng nhưng chưa biết đền nằm ở thôn nào",
           "location_scope": "Sơn Tây, Hà Nội (thôn Cam Lâm, làng cổ Đường Lâm; trước 7/2025 là xã Đường Lâm, nay thuộc phường Sơn Tây)",
+          "word_target": 1200
+        },
+        {
+          "title": "Bảo tàng Chiến sĩ cách mạng bị địch bắt tù đày ở Nam Quất, Phú Xuyên bằng xe máy: bảo tàng tư nhân của cựu tù Phú Quốc",
+          "intent": "Biết bảo tàng Chiến sĩ cách mạng bị địch bắt tù đày ở thôn Nam Quất là bảo tàng tư nhân do các cựu tù Phú Quốc dựng, đi xe máy từ Hà Nội xuống Phú Xuyên rồi vào làng thế nào, nên liên hệ trước ra sao và xem những phần trưng bày nào.",
+          "kw": "bảo tàng tù đày phú xuyên",
+          "kw2": [
+            "bảo tàng nam quất phú xuyên",
+            "bảo tàng cựu tù phú quốc hà nội"
+          ],
+          "links": [
+            "/du-lich/ngoai-thanh/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Q",
+          "audience": "khách thích lịch sử cách mạng, thành viên hội cựu chiến binh hoặc thầy cô đưa học sinh đi một buổi xuống phía nam Hà Nội bằng xe máy",
+          "location_scope": "Phú Xuyên, Hà Nội (thôn Nam Quất; trước là xã Nam Triều rồi xã Nam Phong, nguồn 2025 ghi nay là xã Phú Xuyên)",
+          "word_target": 1300
+        },
+        {
+          "title": "Đình Hữu Bằng (đình Kẻ Nủa) ở xã Tây Phương bằng xe máy: chạm khắc gỗ thế kỷ XVII, hồ sen trước đình và cách ghé",
+          "intent": "Biết đình Hữu Bằng (đình Kẻ Nủa) ở làng Hữu Bằng, nay thuộc xã Tây Phương, thờ ai, đi xe máy từ Hà Nội theo hướng Đại lộ Thăng Long tới đó thế nào, xem được những phần chạm gỗ nào và nên hỏi người trông đình ra sao trước khi vào.",
+          "kw": "đình hữu bằng thạch thất",
+          "kw2": [
+            "đình kẻ nủa hữu bằng",
+            "đi đình hữu bằng bằng xe máy"
+          ],
+          "links": [
+            "/du-lich/ngoai-thanh/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Q",
+          "audience": "khách thuê xe máy đi chơi vùng Thạch Thất, đã biết chùa Tây Phương nhưng chưa biết ngôi đình làng cổ ở làng Hữu Bằng giáp Thạch Xá nằm đâu",
+          "location_scope": "Thạch Thất, Hà Nội (làng Hữu Bằng, làng Nủa; trước là xã Hữu Bằng rồi xã Quang Trung, từ 1/7/2025 thuộc xã Tây Phương)",
           "word_target": 1200
         }
       ]

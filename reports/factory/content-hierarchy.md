@@ -10,7 +10,7 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 |---|---|---|---|---|---|
 | P-THUE-XE | Giá thuê xe máy (C-THUE-GIA) | 6 | 96 | 220 | /thue-xe/gia-thue/ |
 | P-THUE-XE | Thủ tục thuê xe (C-THUE-THU-TUC) | 19 | 148 | 200 | /thue-xe/thu-tuc/ |
-| P-THUE-XE | Thuê xe theo ngày (C-THUE-NGAY) | 13 | 137 | 180 | /thue-xe/thue-ngay/ |
+| P-THUE-XE | Thuê xe theo ngày (C-THUE-NGAY) | 13 | 162 | 180 | /thue-xe/thue-ngay/ |
 | P-THUE-XE | Thuê xe theo tuần (C-THUE-TUAN) | 3 | 133 | 170 | /thue-xe/thue-tuan/ |
 | P-THUE-XE | Thuê xe theo tháng (C-THUE-THANG) | 13 | 155 | 200 | /thue-xe/thue-thang/ |
 | P-THUE-XE | Đặt cọc & giữ giấy tờ (C-THUE-DAT-COC) | 3 | 88 | 150 | /thue-xe/dat-coc/ |
@@ -25,7 +25,7 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-XE-MAY | Honda Wave (C-HONDA-WAVE) | 1 | 101 | 120 | /xe-may/honda-wave/ |
 | P-XE-MAY | Honda Vision (C-HONDA-VISION) | 1 | 98 | 120 | /xe-may/honda-vision/ |
 | P-XE-MAY | Honda Air Blade (C-HONDA-AIR-BLADE) | 1 | 102 | 110 | /xe-may/honda-air-blade/ |
-| P-XE-MAY | Honda Click (C-HONDA-CLICK) | 1 | 60 | 100 | /xe-may/honda-click/ |
+| P-XE-MAY | Honda Click (C-HONDA-CLICK) | 1 | 85 | 100 | /xe-may/honda-click/ |
 | P-XE-MAY | Yamaha Sirius (C-YAMAHA-SIRIUS) | 0 | 76 | 100 | /xe-may/yamaha-sirius/ |
 | P-XE-MAY | Bảo dưỡng xe máy (C-BAO-DUONG) | 13 | 110 | 140 | /xe-may/bao-duong-xe/ |
 | P-PHAP-LY | Giấy phép lái xe (C-GPLX) | 2 | 106 | 150 | /an-toan-phap-ly/giay-phep-lai-xe/ |
@@ -35,12 +35,12 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-PHAP-LY | Biển báo giao thông (C-BIEN-BAO) | 1 | 63 | 100 | /an-toan-phap-ly/bien-bao/ |
 | P-PHAP-LY | Giấy tờ xe & cá nhân (C-GIAY-TO) | 8 | 63 | 110 | /an-toan-phap-ly/giay-to/ |
 | P-PHAP-LY | Quy định giao thông (C-QUY-DINH) | 13 | 79 | 150 | /an-toan-phap-ly/quy-dinh-giao-thong/ |
-| P-DU-LICH | Điểm đến Hà Nội (C-DIEM-DEN) | 11 | 176 | 170 | /du-lich/diem-den/ |
-| P-DU-LICH | Bảo tàng (C-BAO-TANG) | 0 | 88 | 90 | /du-lich/bao-tang/ |
+| P-DU-LICH | Điểm đến Hà Nội (C-DIEM-DEN) | 11 | 178 | 170 | /du-lich/diem-den/ |
+| P-DU-LICH | Bảo tàng (C-BAO-TANG) | 0 | 90 | 90 | /du-lich/bao-tang/ |
 | P-DU-LICH | Phố cổ Hoàn Kiếm (C-PHO-CO) | 3 | 88 | 110 | /du-lich/pho-co/ |
-| P-DU-LICH | Hồ Tây & lân cận (C-HO-TAY) | 2 | 87 | 100 | /du-lich/ho-tay/ |
-| P-DU-LICH | Long Biên & Gia Lâm (C-LONG-BIEN) | 0 | 98 | 110 | /du-lich/long-bien/ |
-| P-DU-LICH | Ngoại thành Hà Nội (C-NGOAI-THANH) | 1 | 102 | 110 | /du-lich/ngoai-thanh/ |
+| P-DU-LICH | Hồ Tây & lân cận (C-HO-TAY) | 2 | 88 | 100 | /du-lich/ho-tay/ |
+| P-DU-LICH | Long Biên & Gia Lâm (C-LONG-BIEN) | 0 | 99 | 110 | /du-lich/long-bien/ |
+| P-DU-LICH | Ngoại thành Hà Nội (C-NGOAI-THANH) | 1 | 104 | 110 | /du-lich/ngoai-thanh/ |
 | P-CUNG-DUONG | Cung đường nội thành (C-CD-NOI-THANH) | 1 | 86 | 100 | /cung-duong/cung-duong-noi-thanh/ |
 | P-CUNG-DUONG | Cung đường cuối tuần (C-CD-CUOI-TUAN) | 10 | 125 | 130 | /cung-duong/cung-duong-cuoi-tuan/ |
 | P-CUNG-DUONG | Mai Châu (C-CD-MAI-CHAU) | 0 | 50 | 80 | /cung-duong/mai-chau/ |
@@ -68,4 +68,4 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 5190 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 5248 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
