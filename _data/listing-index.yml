@@ -67,15 +67,15 @@ topic:
   hoi-dap_hoi-dap-chon-xe:
     pages: 3
     size: 24
-    total: 55
+    total: 59
   hoi-dap_hoi-dap-gia:
-    pages: 2
+    pages: 3
     size: 24
-    total: 48
+    total: 51
   hoi-dap_hoi-dap-nguoi-moi:
     pages: 3
     size: 24
-    total: 64
+    total: 66
   hoi-dap_hoi-dap-phap-ly:
     pages: 3
     size: 24
@@ -83,7 +83,7 @@ topic:
   hoi-dap_hoi-dap-su-co:
     pages: 3
     size: 24
-    total: 68
+    total: 69
   hoi-dap_hoi-dap-thu-tuc:
     pages: 3
     size: 24
