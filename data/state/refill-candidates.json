@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-20T10:34:50+00:00",
-    "staged_at": "2026-10-20T10:53:12+00:00"
+    "staged_at": "2026-10-20T11:01:38+00:00"
   },
   "candidates": [
     {
@@ -1984,6 +1984,937 @@
       "subtopic": "refill-2026-10-20-W2-070",
       "audience": "người vừa mua xe máy mới chưa đăng ký",
       "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-001",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Phân biệt vết xước mới và vết xước cũ khi trả xe thuê: nhìn bụi bám, màu lớp sơn lót và cạnh vết",
+      "intent": "Biết cách tự phân biệt một vết xước vừa xảy ra với vết cũ có từ trước dựa vào bụi bám, màu lớp sơn lót, cạnh vết và độ bóng, để trao đổi bình tĩnh khi trả xe.",
+      "kw": "phân biệt vết xước mới cũ",
+      "kw2": [
+        "vết xước cũ trên xe thuê",
+        "kiểm tra vết xước khi trả xe"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "người thuê xe máy sắp trả xe, nhất là khách thuê lần đầu",
+      "location_scope": "Hà Nội, cửa hàng ở Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-002",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Vệt cao su, vết bẩn hay vết xước thật trên xe thuê: lau thử bằng khăn ẩm trước khi ghi vào biên bản nhận xe",
+      "intent": "Biết cách lau thử nhẹ bằng khăn ẩm để tách vệt cao su, bụi bám và vết keo khỏi vết xước thật, nhờ đó biên bản nhận xe ghi đúng tình trạng, không thừa và không thiếu.",
+      "kw": "vệt cao su trên xe máy",
+      "kw2": [
+        "lau thử vết bẩn xe thuê",
+        "vết bẩn hay vết xước"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "khách tự kiểm tra xe lúc nhận tại cửa hàng",
+      "location_scope": "cửa hàng thuê xe ở Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-003",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Dấu hiệu xe thuê từng bị đổ ngã: đầu tay phanh, gù tay lái, ốp pô và gác chân mòn vẹt cần soi khi nhận",
+      "intent": "Hiểu các dấu mài mòn, cong vênh cho thấy xe từng bị đổ ngã, vì sao chúng liên quan đến an toàn khi lái và khi nào nên đề nghị ghi vào biên bản hoặc xin đổi xe khác.",
+      "kw": "dấu hiệu xe máy từng bị đổ",
+      "kw2": [
+        "tay phanh xe thuê bị cong",
+        "gù tay lái bị mòn"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "người thuê xe máy muốn chọn xe an toàn ngay lúc nhận",
+      "location_scope": "Hà Nội, cửa hàng ở Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-004",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Nứt nhựa ở chân ốc, khe ghép yếm và ốp sườn xe thuê: ấn nhẹ, soi khe và ghi lại trước khi nhận xe",
+      "intent": "Biết cách phát hiện những vết nứt nhựa và chỗ thiếu ốc khó thấy ở chân bắt ốc, khe ghép dàn áo bằng cách ấn nhẹ và soi khe, rồi ghi rõ vào hồ sơ nhận xe.",
+      "kw": "nứt nhựa dàn áo xe thuê",
+      "kw2": [
+        "kiểm tra khe ghép yếm xe",
+        "thiếu ốc dàn áo xe máy"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "người thuê xe tay ga và xe số tự kiểm tra lúc nhận",
+      "location_scope": "cửa hàng thuê xe ở Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-005",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Rời cửa hàng rồi mới nhớ chưa chụp ảnh lúc trả xe thuê: quay lại ngay hay nhắn tiệm xác nhận tình trạng",
+      "intent": "Biết cách xử lý khi đã rời cửa hàng mà chưa chụp ảnh lúc trả xe: cân nhắc quay lại chụp ngay, nhờ tiệm nhắn xác nhận đã nhận xe đủ và gom các bằng chứng còn giữ được.",
+      "kw": "quên chụp ảnh khi trả xe",
+      "kw2": [
+        "chưa chụp ảnh lúc trả xe thuê",
+        "xin tiệm xác nhận tình trạng xe"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "khách thuê vừa trả xe, đang trên đường ra ga, bến xe hoặc sân bay",
+      "location_scope": "Bồ Đề, Long Biên và quãng đường rời cửa hàng",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-006",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Nhắn tiệm trước khi đến trả xe thuê: báo giờ đến, mức xăng, lỗi phát sinh và đồ đi kèm để bàn giao nhanh",
+      "intent": "Biết cách soạn một tin nhắn ngắn trước buổi trả xe, báo giờ đến dự kiến trong khung 09:00–21:00, tình trạng xe và phụ kiện đi kèm để cửa hàng chuẩn bị và bàn giao gọn.",
+      "kw": "nhắn tin trước khi trả xe",
+      "kw2": [
+        "mẫu tin nhắn báo trả xe thuê",
+        "báo giờ đến trả xe máy"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "khách thuê theo ngày, tuần hoặc tháng sắp trả xe",
+      "location_scope": "Hà Nội, cửa hàng ở Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-007",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Đã trả xe thì chuyến bay bị hủy hoặc lùi sang hôm sau: hỏi thuê lại xe và làm lại bước bàn giao thế nào",
+      "intent": "Lên kế hoạch xử lý khi vừa trả xe xong thì chuyến bay bị hủy hoặc đổi ngày: liên hệ hỏi cửa hàng còn xe không, chuẩn bị lại giấy tờ và kiểm tra, chụp ảnh như lần nhận đầu.",
+      "kw": "chuyến bay hủy sau khi trả xe",
+      "kw2": [
+        "thuê lại xe máy khi lỡ chuyến bay",
+        "đổi lịch bay thuê xe máy"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "khách du lịch và khách công tác đã trả xe trước giờ bay",
+      "location_scope": "Nội Bài, Long Biên, Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-008",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Đi tour Hạ Long hoặc Ninh Bình trong ngày: trả xe thuê trước khi lên xe tour hay giữ xe đến hôm sau",
+      "intent": "Lên kế hoạch cho ngày cuối kỳ thuê trùng với tour trong ngày về phố cổ lúc tối muộn: so sánh trả xe trước giờ đón, giữ xe qua đêm và chọn chỗ để xe an toàn khi vắng mặt.",
+      "kw": "đi tour trong ngày trả xe thuê",
+      "kw2": [
+        "tour hạ long trong ngày xe máy thuê",
+        "tour ninh bình về muộn trả xe"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "khách du lịch tự túc ở phố cổ đặt tour trong ngày",
+      "location_scope": "phố cổ Hoàn Kiếm, Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-009",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Tối cuối ở Hà Nội có hẹn bia hơi chia tay: trả xe thuê trước khi đến quán thay vì lái sau khi uống",
+      "intent": "Lên kế hoạch buổi tối cuối có rượu bia bằng cách trả xe trong giờ cửa hàng mở, chọn cách đến quán và về chỗ ở mà không phải cầm lái xe máy sau khi đã uống.",
+      "kw": "trả xe trước khi đi nhậu",
+      "kw2": [
+        "tiệc chia tay có rượu bia xe thuê",
+        "không lái xe sau khi uống bia"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "khách du lịch, sinh viên và người làm dự án sắp rời Hà Nội",
+      "location_scope": "phố cổ Hoàn Kiếm, Tạ Hiện, Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-010",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Đi xe giường nằm đêm lên Hà Giang hoặc Sa Pa: trả xe thuê trước 21:00 rồi chờ giờ xe đón ở đâu",
+      "intent": "Lên kế hoạch trả xe trước giờ cửa hàng đóng lúc 21:00 khi xe giường nằm đêm đón muộn hơn, tính quãng về phố cổ, chỗ gửi hành lý và nơi ngồi chờ an toàn.",
+      "kw": "trả xe trước chuyến xe giường nằm",
+      "kw2": [
+        "xe giường nằm đêm đi hà giang",
+        "chờ xe đón ở phố cổ"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "khách du lịch ba lô đi tiếp lên vùng núi phía Bắc",
+      "location_scope": "Bồ Đề, phố cổ Hoàn Kiếm, bến xe Mỹ Đình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-011",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Xe thuê có gắn thùng sau: thử khóa thùng, độ chắc giá bắt và gioăng chống nước trước khi nhận xe",
+      "intent": "Biết cách kiểm tra thùng chở đồ gắn sau xe thuê lúc nhận: thử chìa khóa thùng, lắc giá bắt, xem gioăng chống nước, đếm vết xước và ghi tất cả vào biên bản giao nhận.",
+      "kw": "kiểm tra thùng sau xe máy thuê",
+      "kw2": [
+        "thùng đựng đồ sau xe máy",
+        "khóa thùng sau xe thuê"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "người thuê xe để chở đồ, khách đi xa nhiều hành lý",
+      "location_scope": "cửa hàng ở Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-012",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Vừa đổ xăng trước khi trả mà kim xăng chưa kịp lên: giữ hóa đơn, chụp màn hình trụ bơm và chờ đồng hồ",
+      "intent": "Hiểu vì sao kim hoặc vạch xăng có thể chưa phản ánh ngay lượng vừa đổ và biết giữ hóa đơn, ảnh màn hình trụ bơm để đối chiếu mức xăng khi bàn giao xe.",
+      "kw": "kim xăng chưa lên sau khi đổ",
+      "kw2": [
+        "hóa đơn đổ xăng khi trả xe",
+        "chụp màn hình trụ bơm xăng"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "khách thuê đổ xăng ngay trước buổi trả xe",
+      "location_scope": "cây xăng trên đường về Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-013",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Chỉ ra vết xước mà nhân viên bảo không sao, khỏi ghi: vẫn xin ghi vào biên bản hoặc nhắn lại cho chắc",
+      "intent": "Biết cách đề nghị lịch sự để mọi vết xước, vết móp nhỏ được ghi vào biên bản hoặc tin nhắn ngay lúc nhận, dù nhân viên cho rằng vết đó nhỏ và không cần ghi.",
+      "kw": "vết xước nhỏ không ghi biên bản",
+      "kw2": [
+        "ghi vết xước nhỏ vào biên bản",
+        "xin ghi tình trạng xe thuê"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "khách thuê ngại va chạm khi nhận xe",
+      "location_scope": "cửa hàng ở Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-014",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Tiệm tự chụp ảnh tình trạng xe bằng máy của tiệm: vẫn chụp bằng điện thoại của mình và xin gửi lại ảnh",
+      "intent": "Hiểu vì sao ảnh do cửa hàng chụp chưa thay được bộ ảnh của chính mình, và biết cách xin tiệm gửi lại ảnh của họ để hai bên cùng giữ một bộ bằng chứng giống nhau.",
+      "kw": "tiệm chụp ảnh xe khi giao",
+      "kw2": [
+        "xin ảnh tình trạng xe từ tiệm",
+        "tự chụp ảnh xe thuê"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "khách thuê lần đầu và khách quốc tế",
+      "location_scope": "cửa hàng ở Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-015",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Lịch trình buổi cuối trước khi trả xe ở Bồ Đề: chọn điểm phía Long Biên để không phải vội qua sông",
+      "intent": "Lên kế hoạch buổi cuối kỳ thuê quanh các điểm gần cửa hàng như chùa Bồ Đề, đền Ghềnh, Aeon Mall Long Biên hay Bát Tràng để trả xe đúng giờ mà không phải vượt cầu lúc kẹt.",
+      "kw": "lịch trình ngày trả xe thuê",
+      "kw2": [
+        "điểm đi chơi gần bồ đề",
+        "buổi cuối trước khi trả xe"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "khách du lịch thuê xe ngắn ngày",
+      "location_scope": "Bồ Đề, Long Biên, Gia Lâm",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-016",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Biên bản ghi số km hoặc mức xăng lúc nhận khác ảnh bạn chụp: phát hiện khi trả xe thì đối chiếu thế nào",
+      "intent": "Biết cách xử lý khi số km hoặc mức xăng ghi trên biên bản nhận xe khác với ảnh đồng hồ mình chụp: đối chiếu dấu thời gian, trao đổi bình tĩnh và chốt lại bằng văn bản.",
+      "kw": "biên bản ghi sai số km",
+      "kw2": [
+        "mức xăng ghi sai trong biên bản",
+        "đối chiếu ảnh đồng hồ xe thuê"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "khách thuê đang làm thủ tục trả xe",
+      "location_scope": "cửa hàng ở Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-017",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Tiệm bảo cứ lấy xe đi rồi về ký biên bản sau: chốt tình trạng bằng ảnh và tin nhắn trước khi lăn bánh",
+      "intent": "Biết cách tự chốt tình trạng xe trước khi rời cửa hàng khi biên bản giao nhận chưa được ký: chụp ảnh, nhắn mô tả ngắn cho tiệm và xin xác nhận đã đọc.",
+      "kw": "chưa ký biên bản nhận xe",
+      "kw2": [
+        "ký biên bản sau khi nhận xe",
+        "chốt tình trạng xe qua tin nhắn"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "khách nhận xe lúc cửa hàng đông khách hoặc đang vội",
+      "location_scope": "cửa hàng ở Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-018",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Mắt kém, khó nhìn vết xước nhỏ khi nhận xe thuê: phóng to camera điện thoại, soi đèn và nhờ chỉ từng vết",
+      "intent": "Biết cách kiểm tra kỹ tình trạng xe khi thị lực hạn chế bằng camera phóng to, đèn pin điện thoại và nhờ nhân viên chỉ từng vết, đồng thời chỉ tự lái khi đã nhìn rõ.",
+      "kw": "mắt kém kiểm tra xe thuê",
+      "kw2": [
+        "người cận thị nhận xe máy",
+        "phóng to camera soi vết xước"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "người cận thị, người lớn tuổi, người quên kính ở chỗ ở",
+      "location_scope": "cửa hàng ở Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-019",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Rỉ sét có sẵn trên vành, ốc và ống xả xe thuê: chụp lại khi nhận để không bị hiểu là do mình đi biển",
+      "intent": "Biết cách nhận ra và ghi lại những chỗ rỉ sét có từ trước trên vành, ốc, ống xả và chân chống lúc nhận xe, tránh hiểu lầm khi trả xe sau chuyến đi biển hoặc nhiều ngày mưa.",
+      "kw": "xe thuê bị rỉ sét",
+      "kw2": [
+        "rỉ sét vành xe máy",
+        "chụp rỉ sét khi nhận xe"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "khách thuê định đi biển hoặc đi nhiều ngày mưa",
+      "location_scope": "Hà Nội và các chuyến Đồ Sơn, Hạ Long, Cát Bà",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-020",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Đi làm giờ hành chính mà cửa hàng mở 09:00–21:00: chọn giờ nhận và trả xe thuê không lỡ việc công ty",
+      "intent": "Lên kế hoạch nhận và trả xe khi giờ làm việc trùng giờ mở cửa: tận dụng buổi tối sau giờ làm, giờ nghỉ trưa hoặc cuối tuần và tính quãng đường từ công ty về Bồ Đề.",
+      "kw": "dân văn phòng nhận trả xe thuê",
+      "kw2": [
+        "trả xe thuê sau giờ làm",
+        "nhận xe thuê giờ nghỉ trưa"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "nhân viên văn phòng, người đi làm theo giờ hành chính",
+      "location_scope": "Long Biên, Hoàn Kiếm, Cầu Giấy",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-021",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Tiệm nhắn nhờ trả xe sớm hơn hẹn vì có khách đặt trước: trao đổi lại lịch trả thế nào cho rõ ràng",
+      "intent": "Biết cách phản hồi khi cửa hàng đề nghị trả xe sớm hơn lịch đã chốt: đối chiếu tin nhắn đặt xe, nêu nhu cầu của mình và thống nhất lại mọi thay đổi bằng văn bản.",
+      "kw": "tiệm nhờ trả xe sớm",
+      "kw2": [
+        "cửa hàng đổi lịch trả xe",
+        "đề nghị trả xe thuê sớm hơn hẹn"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "khách thuê theo ngày hoặc tuần vào mùa đông khách",
+      "location_scope": "Hà Nội, cửa hàng ở Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-022",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Vết cháy xém, chảy nhựa sát ống xả trên xe thuê: ghi lại khi nhận và tránh để túi, áo mưa chạm pô",
+      "intent": "Biết cách nhận ra các vết cháy xém, chảy nhựa có sẵn quanh ống xả và ốp chống nóng để ghi vào biên bản lúc nhận, đồng thời tránh tạo thêm vết khi treo túi hay áo mưa sát pô.",
+      "kw": "vết cháy nhựa gần ống xả",
+      "kw2": [
+        "ốp chống nóng pô xe thuê",
+        "túi nilon chạm pô bị chảy"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "người thuê xe hay chở đồ, treo túi trên móc",
+      "location_scope": "cửa hàng ở Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-023",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Tiệm nhắn xin ảnh xe giữa kỳ thuê tháng: chụp những góc nào, gửi thế nào và giữ bản gốc ra sao",
+      "intent": "Biết cách đáp ứng khi cửa hàng đề nghị gửi ảnh tình trạng xe giữa kỳ thuê dài: chụp đủ góc như lúc nhận, kèm đồng hồ số km, gửi bản rõ nét và lưu bản gốc cho mình.",
+      "kw": "gửi ảnh xe thuê giữa kỳ",
+      "kw2": [
+        "tiệm xin ảnh xe thuê tháng",
+        "chụp ảnh tình trạng xe định kỳ"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "người thuê xe theo tháng ở Hà Nội",
+      "location_scope": "các quận nội thành Hà Nội và Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-071-024",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Nắp van lốp, nút cao su và nắp chụp ốc trên xe thuê: chi tiết nhỏ dễ rơi cần đếm khi nhận và soát khi trả",
+      "intent": "Nắm danh sách các chi tiết nhỏ dễ rơi mất trên xe máy như nắp van, nút cao su bịt lỗ, nắp chụp ốc gương, cao su gác chân, cách đếm nhanh khi nhận và soát lại khi trả.",
+      "kw": "chi tiết nhỏ dễ rơi xe máy",
+      "kw2": [
+        "nút cao su bịt lỗ xe máy",
+        "nắp chụp ốc gương xe máy"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-071",
+      "audience": "người thuê xe theo ngày và theo tuần",
+      "location_scope": "cửa hàng ở Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-001",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Hang Dơi Mộc Châu bằng xe máy: rẽ từ quốc lộ 6, gửi xe và chuẩn bị gì khi vào hang",
+      "intent": "Biết cách đi xe máy từ trung tâm Mộc Châu tới Hang Dơi sát quốc lộ 6, chỗ gửi xe, giày và đèn cần mang khi vào hang, cùng cách ghép điểm này vào lịch tham quan.",
+      "kw": "hang dơi mộc châu",
+      "kw2": [
+        "đường đến hang dơi mộc châu",
+        "động sơn mộc hương"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "nhóm bạn trẻ đi xe máy thuê từ Hà Nội lên Mộc Châu cuối tuần",
+      "location_scope": "trung tâm Mộc Châu, quốc lộ 6, Sơn La",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-002",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Ngũ Động Bản Ôn Mộc Châu bằng xe máy: đường nhỏ quanh co vào bản, gửi xe và quãng đi bộ",
+      "intent": "Lên kế hoạch ghé Ngũ Động Bản Ôn bằng xe máy từ trung tâm Mộc Châu: đoạn đường hẹp quanh co vào bản, chỗ để xe, quãng đi bộ tới cửa động và thời gian cần dành.",
+      "kw": "ngũ động bản ôn",
+      "kw2": [
+        "đường vào ngũ động bản ôn",
+        "hang động gần mộc châu"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "khách thích khám phá hang động, đã quen chạy xe máy đường núi",
+      "location_scope": "bản Ôn, Mộc Châu, Sơn La",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-003",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Bản Hua Tạt ở Vân Hồ trên đường lên Mộc Châu: rẽ vào bản Mông, rừng thông và nghỉ đêm",
+      "intent": "Biết cách ghé bản Hua Tạt của người Mông gần quốc lộ 6 ở Vân Hồ bằng xe máy: lối rẽ vào bản, rừng thông, ứng xử ở homestay và có nên nghỉ đêm tại đây.",
+      "kw": "bản hua tạt vân hồ",
+      "kw2": [
+        "rừng thông hua tạt",
+        "homestay hua tạt"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "khách muốn trải nghiệm văn hóa bản Mông trên chuyến xe máy Hà Nội – Mộc Châu",
+      "location_scope": "Vân Hồ, quốc lộ 6, Sơn La",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-004",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Thác Chiềng Khoa từ Mộc Châu bằng xe máy: theo quốc lộ 43, rẽ hướng Tô Múa và xuống thác",
+      "intent": "Nắm lộ trình xe máy từ trung tâm Mộc Châu tới thác Chiềng Khoa theo quốc lộ 43 và ngã rẽ Tô Múa, đoạn dốc cần chú ý, mùa nước đẹp và an toàn quanh thác.",
+      "kw": "thác chiềng khoa",
+      "kw2": [
+        "đường đi thác chiềng khoa",
+        "thác chiềng khoa xe máy"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "khách đi Mộc Châu hai đến ba ngày muốn thêm một điểm thiên nhiên ngoài đồi chè",
+      "location_scope": "Chiềng Khoa, Vân Hồ, quốc lộ 43, Sơn La",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-005",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Đỉnh Pha Luông: chạy xe máy từ Mộc Châu qua Lóng Sập tới đồn biên phòng rồi gửi xe leo núi",
+      "intent": "Lên kế hoạch chặng xe máy từ Mộc Châu tới chân núi Pha Luông sát biên giới: mang giấy tờ tùy thân khai báo ở đồn biên phòng, gửi xe, thuê người dẫn đường và chọn mùa khô.",
+      "kw": "đỉnh pha luông",
+      "kw2": [
+        "trekking pha luông",
+        "đường lên pha luông xe máy"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "người thích trekking, đi theo nhóm nhỏ có kinh nghiệm leo núi",
+      "location_scope": "Lóng Sập, Mộc Châu, Sơn La – khu vực biên giới Việt – Lào",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-006",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Mộc Châu mùa dã quỳ cuối tháng Mười, đầu tháng Mười Một: cung đường hoa vàng bằng xe máy",
+      "intent": "Biết dã quỳ ở Mộc Châu thường nở rộ khoảng nào, đoạn quốc lộ 6 và đường quanh đồi chè hay có hoa, cách dừng chụp an toàn và không giẫm ruộng của người dân.",
+      "kw": "mộc châu mùa dã quỳ",
+      "kw2": [
+        "hoa dã quỳ mộc châu",
+        "bản pa phách dã quỳ"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "người thích chụp ảnh hoa theo mùa, đi xe máy từ Hà Nội cuối tuần",
+      "location_scope": "quốc lộ 6 đoạn Vân Hồ – Mộc Châu, bản Pa Phách",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-007",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Đi Mộc Châu dịp Tết Nguyên đán bằng xe máy: hoa đào, quán nghỉ Tết và ngày về tránh đông",
+      "intent": "Lên kế hoạch chuyến xe máy lên Mộc Châu dịp Tết Nguyên đán: lúc hoa mận chuyển sang hoa đào, quán ăn nghỉ Tết, đặt chỗ ngủ sớm và chọn ngày về tránh dòng xe quay lại thành phố.",
+      "kw": "mộc châu dịp tết nguyên đán",
+      "kw2": [
+        "hoa đào mộc châu",
+        "đi mộc châu ngày tết bằng xe máy"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "người ở lại Hà Nội dịp Tết và khách quốc tế muốn đi chơi xa ngày Tết",
+      "location_scope": "Hà Nội – quốc lộ 6 – Mộc Châu (Nà Ka, Mu Náu, Tân Lập)",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-008",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Dốc Cun trên quốc lộ 6 ở Hòa Bình: xe máy lên xuống đoạn dốc dài nhiều cua gắt thế nào",
+      "intent": "Hiểu đặc điểm dốc Cun trên đường lên Mộc Châu: dốc dài nhiều khúc cua, xe tải và xe khách đông, đất đá khi mưa lớn, cùng cách giữ số, giữ làn và chọn chỗ dừng.",
+      "kw": "dốc cun quốc lộ 6",
+      "kw2": [
+        "dốc cun hòa bình",
+        "qua dốc cun bằng xe máy"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "người lần đầu chạy xe máy cung Hà Nội – Mộc Châu",
+      "location_scope": "dốc Cun, quốc lộ 6, khu vực Hòa Bình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-009",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Lên Mộc Châu đi ngả Hòa Lạc hay Hà Đông: xe máy nối vào quốc lộ 6 ở Xuân Mai theo đường nào",
+      "intent": "Biết cách chọn đường ra khỏi Hà Nội đi Mộc Châu: quốc lộ 6 qua Hà Đông hoặc đường song hành Đại lộ Thăng Long tới Hòa Lạc rồi đường Hồ Chí Minh về Xuân Mai, không vào cao tốc.",
+      "kw": "đi mộc châu qua hòa lạc",
+      "kw2": [
+        "hòa lạc xuân mai xe máy",
+        "xe máy không đi cao tốc hòa lạc hòa bình"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "người nhận xe ở Cầu Giấy, Mỹ Đình, Tây Hồ chuẩn bị đi Mộc Châu",
+      "location_scope": "Đại lộ Thăng Long, Hòa Lạc, đường Hồ Chí Minh, Xuân Mai",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-010",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Ghép Mai Châu và Mộc Châu trong một chuyến xe máy ba ngày: đi đâu trước, ngủ đêm ở đâu",
+      "intent": "Lên kế hoạch ba ngày hai đêm ghép thung lũng Mai Châu với cao nguyên Mộc Châu bằng xe máy thuê: thứ tự đi, quãng chạy mỗi ngày, chỗ ngủ từng đêm và mốc giờ về Hà Nội.",
+      "kw": "mai châu mộc châu 3 ngày",
+      "kw2": [
+        "lịch trình mai châu mộc châu xe máy",
+        "đi mai châu rồi lên mộc châu"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "cặp đôi hoặc nhóm nhỏ có ba ngày nghỉ",
+      "location_scope": "Hà Nội – Mai Châu – Mộc Châu theo quốc lộ 6",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-011",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Cung đường chữ S trên quốc lộ 6 qua Vân Hồ: dừng xe máy chụp ảnh sao cho an toàn",
+      "intent": "Biết cách ghé cung đường chữ S trên quốc lộ 6 qua Vân Hồ bằng xe máy: chọn lề rộng để tạt vào, bật xi nhan sớm, không đứng giữa làn chụp ảnh và cẩn trọng với xe lớn.",
+      "kw": "cung đường chữ s mộc châu",
+      "kw2": [
+        "đường chữ s vân hồ",
+        "dừng xe chụp ảnh quốc lộ 6"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "người đi xe máy thích chụp ảnh cung đường",
+      "location_scope": "quốc lộ 6 đoạn Vân Hồ, Sơn La",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-012",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Đường bê tông hẹp vào thung lũng mận Nà Ka: lái xe máy xuống dốc, tránh xe và quay đầu",
+      "intent": "Nắm cách chạy xe máy trên đường bê tông hẹp nhiều dốc vào thung lũng Nà Ka: xuống dốc bằng phanh động cơ, nhường xe ngược chiều, tìm chỗ quay đầu và khi nào nên gửi xe đi bộ.",
+      "kw": "đường vào thung lũng nà ka",
+      "kw2": [
+        "thung lũng mận nà ka xe máy",
+        "nà ka mộc châu đường hẹp"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "người chưa quen đường dốc hẹp, đi xe ga thuê",
+      "location_scope": "thung lũng Nà Ka, Mộc Châu",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-013",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Cắm trại qua đêm ở Mộc Châu bằng xe máy: chở lều, chọn khu có người quản lý và chống lạnh",
+      "intent": "Lên kế hoạch một đêm cắm trại ở Mộc Châu bằng xe máy thuê: buộc lều và túi ngủ lên xe, chọn khu cắm trại có người quản lý, giữ ấm khi đêm lạnh và để xe an toàn.",
+      "kw": "cắm trại mộc châu",
+      "kw2": [
+        "chở lều đi mộc châu xe máy",
+        "cắm trại qua đêm mộc châu"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "nhóm bạn trẻ thích cắm trại, đi hai đến ba xe máy",
+      "location_scope": "Mộc Châu – khu đồi chè, rừng thông",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-014",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Ngắm hoàng hôn ở Mộc Châu bằng xe máy: chọn đồi nhìn về phía tây và về chỗ nghỉ khi trời tối",
+      "intent": "Biết cách xếp buổi chiều ngắm hoàng hôn trên đồi chè hoặc rừng thông Mộc Châu bằng xe máy, mang đèn và áo ấm cho lúc trời sập tối, rồi chạy đường làng về chỗ nghỉ an toàn.",
+      "kw": "ngắm hoàng hôn mộc châu",
+      "kw2": [
+        "hoàng hôn đồi chè mộc châu",
+        "chạy xe buổi tối ở mộc châu"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "khách nghỉ đêm ở Mộc Châu, thích chụp ảnh lúc chiều muộn",
+      "location_scope": "đồi chè, rừng thông quanh trung tâm Mộc Châu",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-015",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Tan làm tối thứ Sáu muốn lên Mộc Châu: chạy đêm luôn hay ngủ ở Hòa Bình rồi đi sớm",
+      "intent": "Hiểu rủi ro khi chạy xe máy lên Mộc Châu ngay sau giờ làm tối thứ Sáu như đèn pha xe lớn, ổ gà khó thấy, sương và đèo vắng, để quyết định nghỉ ở Hòa Bình hay đi tiếp.",
+      "kw": "đi mộc châu tối thứ sáu",
+      "kw2": [
+        "chạy xe đêm quốc lộ 6",
+        "ngủ hòa bình rồi đi mộc châu"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "người đi làm văn phòng ở Hà Nội chỉ có cuối tuần",
+      "location_scope": "Hà Nội – Hòa Bình – Mộc Châu, quốc lộ 6",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-016",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Đi Mộc Châu ngày thường hay cuối tuần bằng xe máy: đường, chỗ nghỉ và điểm tham quan khác ra sao",
+      "intent": "Hiểu chuyến Mộc Châu bằng xe máy ngày thường khác cuối tuần thế nào: lượng xe trên quốc lộ 6, độ đông ở đồi chè và rừng thông, khả năng còn phòng, để chọn ngày đi hợp lịch.",
+      "kw": "mộc châu ngày thường hay cuối tuần",
+      "kw2": [
+        "mộc châu cuối tuần có đông không",
+        "đi mộc châu giữa tuần"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "người làm việc tự do hoặc có thể xin nghỉ giữa tuần",
+      "location_scope": "quốc lộ 6 và các điểm tham quan Mộc Châu",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-017",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Có nên thuê xe máy điện đi Mộc Châu: quãng đi mỗi lần sạc, đèo dài và chỗ sạc dọc đường",
+      "intent": "Hiểu xe máy điện có hợp chuyến Hà Nội – Mộc Châu gần hai trăm cây số mỗi chiều không: quãng đi mỗi lần sạc, hao pin khi leo đèo dài, chỗ sạc dọc đường và phương án thay thế.",
+      "kw": "xe máy điện đi mộc châu",
+      "kw2": [
+        "sạc xe điện trên quốc lộ 6",
+        "xe điện leo đèo mộc châu"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "người quen đi xe điện trong phố muốn thử đi xa",
+      "location_scope": "Hà Nội – Mộc Châu, quốc lộ 6",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-018",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Mệt hoặc gặp mưa lớn ở Mộc Châu: gửi xe máy theo xe khách về Hà Nội cần làm những gì",
+      "intent": "Biết phương án dự phòng khi không thể tự lái xe về Hà Nội từ Mộc Châu: hỏi nhà xe nhận chở xe máy, chuẩn bị xe trước khi gửi, báo cửa hàng và hẹn nơi nhận xe.",
+      "kw": "gửi xe máy xe khách mộc châu",
+      "kw2": [
+        "chở xe máy từ mộc châu về hà nội",
+        "không tự chạy xe về được"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "người thuê xe tự lái gặp sự cố sức khỏe hoặc thời tiết",
+      "location_scope": "Mộc Châu – bến xe Mỹ Đình, Yên Nghĩa",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-019",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Vào vườn mận, đồi chè của người dân Mộc Châu để chụp ảnh: hỏi chủ vườn, để xe và giữ cây",
+      "intent": "Nắm cách ứng xử khi vào vườn mận, đồi chè hay ruộng cải của người dân Mộc Châu để chụp ảnh: hỏi trước, để xe không chắn lối, đi trên lối có sẵn và không hái hoa bẻ cành.",
+      "kw": "chụp ảnh vườn mận mộc châu",
+      "kw2": [
+        "vào vườn nhà dân mộc châu",
+        "ứng xử khi chụp ảnh đồi chè"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "người thích chụp ảnh và nhóm bạn đi theo mùa hoa",
+      "location_scope": "Nà Ka, Mu Náu, Tân Lập, Mộc Châu",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-020",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Gia đình có con nhỏ muốn đi Mộc Châu bằng xe máy: có nên không và cần chuẩn bị những gì",
+      "intent": "Hiểu điều cần cân nhắc khi chở trẻ nhỏ trên chặng đèo dài lên Mộc Châu: mũ bảo hiểm vừa cỡ, quy định chở người, nghỉ thường xuyên, giữ ấm và khi nào nên đổi phương tiện.",
+      "kw": "đi mộc châu cùng con nhỏ",
+      "kw2": [
+        "chở trẻ em đi xa bằng xe máy",
+        "mộc châu gia đình có trẻ nhỏ"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "bố mẹ có con nhỏ đang sống ở Hà Nội",
+      "location_scope": "Hà Nội – Mộc Châu, quốc lộ 6",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-021",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Ở Mộc Châu một tuần với xe máy thuê từ Hà Nội: mỗi ngày một hướng quanh cao nguyên",
+      "intent": "Lên kế hoạch ở bảy ngày tại Mộc Châu với xe máy thuê theo tuần từ Hà Nội: chia các hướng Vân Hồ, Lóng Sập, Chiềng Khoa, xen ngày nghỉ xe và kiểm tra xe giữa tuần.",
+      "kw": "ở mộc châu một tuần",
+      "kw2": [
+        "thuê xe máy theo tuần đi mộc châu",
+        "lịch trình mộc châu 7 ngày"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "người làm việc từ xa, khách muốn nghỉ dài ngày trên cao nguyên",
+      "location_scope": "Mộc Châu, Vân Hồ, Lóng Sập, Chiềng Khoa",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-022",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Thảo nguyên bò sữa Mộc Châu bằng xe máy: ghé trang trại, quầy sữa ven đường và đỗ xe đúng chỗ",
+      "intent": "Biết cách ghé khu chăn nuôi bò sữa trên cao nguyên Mộc Châu bằng xe máy: hỏi trước lịch đón khách, đỗ xe ở bãi thay vì lề đường, giữ khoảng cách với đàn bò và chọn giờ ghé.",
+      "kw": "trang trại bò sữa mộc châu",
+      "kw2": [
+        "thảo nguyên mộc châu",
+        "sữa tươi mộc châu"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "gia đình và nhóm bạn đi Mộc Châu muốn có điểm dừng nhẹ nhàng",
+      "location_scope": "cao nguyên Mộc Châu, Sơn La",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-023",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Kiểm tra xe máy ở Mộc Châu trước chặng về Hà Nội: phanh, lốp, xích sau hai ngày chạy đèo",
+      "intent": "Biết cách tự kiểm tra nhanh xe máy thuê tại Mộc Châu trước khi xuống đèo về Hà Nội: độ ăn của phanh, áp suất lốp, độ chùng xích, đèn và khi nào nên ghé tiệm sửa xe.",
+      "kw": "kiểm tra xe máy ở mộc châu",
+      "kw2": [
+        "xe máy sau chuyến đi đèo",
+        "kiểm tra phanh lốp xích"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "người tự lái xe thuê đi Mộc Châu hai đến ba ngày",
+      "location_scope": "Mộc Châu trước chặng quốc lộ 6 về Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-024",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Chạy xe máy ở trung tâm Mộc Châu: quốc lộ 6 xuyên qua phố, xe tải và chỗ đỗ khi ghé quán",
+      "intent": "Nắm cách đi lại bằng xe máy trong khu trung tâm Mộc Châu, nơi quốc lộ 6 chạy xuyên qua phố: nhường xe tải, rẽ vào đường nhánh, đỗ xe khi ghé quán, chợ và tránh những giờ đông xe.",
+      "kw": "chạy xe ở trung tâm mộc châu",
+      "kw2": [
+        "đỗ xe ở mộc châu",
+        "quốc lộ 6 qua trung tâm mộc châu"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "khách nghỉ ở trung tâm Mộc Châu, đi lại buổi tối",
+      "location_scope": "khu trung tâm Mộc Châu dọc quốc lộ 6",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-073-025",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Đường đất và dốc bê tông vào homestay ở Mộc Châu sau mưa: xe ga lên xuống thế nào cho chắc",
+      "intent": "Biết cách chạy xe ga thuê trên đường đất đỏ và dốc bê tông trơn vào homestay, bản làng ở Mộc Châu sau mưa: chọn vệt bánh, giữ ga đều, phanh nhẹ và khi nào để xe dưới chân dốc.",
+      "kw": "đường vào homestay mộc châu",
+      "kw2": [
+        "đường đất đỏ mộc châu sau mưa",
+        "xe ga lên dốc trơn"
+      ],
+      "links": [
+        "/cung-duong/moc-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-073",
+      "audience": "khách đặt homestay trên đồi, đi xe ga lần đầu lên vùng núi",
+      "location_scope": "các bản và đồi chè quanh Mộc Châu",
       "word_target": 1200
     }
   ],
