@@ -19,7 +19,7 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-THUE-XE | Sự cố khi thuê xe (C-THUE-SU-CO) | 31 | 136 | 180 | /thue-xe/su-co/ |
 | P-XE-MAY | Xe số (C-XE-SO) | 3 | 143 | 160 | /xe-may/xe-so/ |
 | P-XE-MAY | Xe tay ga (C-XE-GA) | 6 | 135 | 160 | /xe-may/xe-ga/ |
-| P-XE-MAY | Xe 50cc (C-XE-50CC) | 3 | 104 | 140 | /xe-may/xe-50cc/ |
+| P-XE-MAY | Xe 50cc (C-XE-50CC) | 3 | 129 | 140 | /xe-may/xe-50cc/ |
 | P-XE-MAY | Xe máy điện (C-XE-DIEN) | 11 | 135 | 160 | /xe-may/xe-dien/ |
 | P-XE-MAY | Xe đạp điện (C-XE-DAP-DIEN) | 3 | 66 | 100 | /xe-may/xe-dap-dien/ |
 | P-XE-MAY | Honda Wave (C-HONDA-WAVE) | 1 | 101 | 120 | /xe-may/honda-wave/ |
@@ -28,7 +28,7 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-XE-MAY | Honda Click (C-HONDA-CLICK) | 1 | 58 | 100 | /xe-may/honda-click/ |
 | P-XE-MAY | Yamaha Sirius (C-YAMAHA-SIRIUS) | 0 | 76 | 100 | /xe-may/yamaha-sirius/ |
 | P-XE-MAY | Bảo dưỡng xe máy (C-BAO-DUONG) | 13 | 110 | 140 | /xe-may/bao-duong-xe/ |
-| P-PHAP-LY | Giấy phép lái xe (C-GPLX) | 2 | 81 | 150 | /an-toan-phap-ly/giay-phep-lai-xe/ |
+| P-PHAP-LY | Giấy phép lái xe (C-GPLX) | 2 | 106 | 150 | /an-toan-phap-ly/giay-phep-lai-xe/ |
 | P-PHAP-LY | Bảo hiểm xe máy (C-BAO-HIEM) | 10 | 68 | 130 | /an-toan-phap-ly/bao-hiem/ |
 | P-PHAP-LY | Nồng độ cồn (C-NOI-DO-CONG) | 2 | 87 | 120 | /an-toan-phap-ly/noi-do-cong/ |
 | P-PHAP-LY | Phạt nguội (C-PHAT-NGUOI) | 2 | 64 | 120 | /an-toan-phap-ly/phat-nguoi/ |
@@ -68,4 +68,4 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 5097 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 5147 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.

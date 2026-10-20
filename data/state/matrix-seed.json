@@ -25552,6 +25552,431 @@
           "audience": "người mới lái xe 50cc",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Đi xe 50cc không cần bằng lái nhưng vẫn phải mang gì: đăng ký xe, bảo hiểm bắt buộc và căn cước",
+          "intent": "Nắm đúng những giấy tờ người lái xe 50cc thuê vẫn phải mang theo khi ra đường theo luật 2024 dù không cần bằng lái, và cách xuất trình bản giấy hoặc trên VNeID khi được kiểm tra.",
+          "kw": "đi xe 50cc cần mang giấy tờ gì",
+          "kw2": [
+            "giấy tờ xe 50cc thuê",
+            "xe 50cc có cần đăng ký xe"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người chưa có bằng lái thuê xe 50cc đi lại trong phố",
+          "location_scope": "nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Học sinh mới đi xe 50cc: chở ba, dàn hàng ngang, dùng điện thoại và những hành vi luật 2024 cấm",
+          "intent": "Hiểu những hành vi học sinh mới đi xe 50cc hay mắc như chở ba, đi dàn hàng ngang, buông tay, dùng điện thoại, vì sao luật cấm và cách giữ thói quen đúng trên đường đến trường.",
+          "kw": "học sinh đi xe 50cc lỗi hay mắc",
+          "kw2": [
+            "học sinh chở ba xe 50cc",
+            "dàn hàng ngang xe 50cc"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "học sinh 16, 17 tuổi và phụ huynh",
+          "location_scope": "quanh trường học ở các quận Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Độ xe 50cc cho chạy nhanh hơn: vì sao thay đổi kết cấu bị cấm và phanh, lốp không theo kịp tốc độ",
+          "intent": "Hiểu vì sao việc độ máy, thay pô, tháo giới hạn tốc độ trên xe 50cc vừa trái quy định về cải tạo xe vừa khiến phanh, lốp nhỏ quá tải, nên chọn xe phù hợp thay vì độ.",
+          "kw": "độ xe 50cc chạy nhanh",
+          "kw2": [
+            "độ máy xe 50cc",
+            "xe 50cc thay đổi kết cấu"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "học sinh, người trẻ đi xe 50cc và phụ huynh",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chưa có bằng lái mà đi xe 50cc va chạm với xe khác: xử lý tại chỗ và hiểu đúng chuyện lỗi không bằng",
+          "intent": "Biết cách xử lý va chạm nhẹ khi đi xe 50cc thuê mà chưa có bằng lái, hiểu vì sao người lái xe gắn máy không bị tính lỗi thiếu bằng và lỗi được xác định dựa vào đâu.",
+          "kw": "va chạm khi đi xe 50cc",
+          "kw2": [
+            "xe 50cc không bằng gây tai nạn",
+            "xử lý va chạm xe 50cc thuê"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người chưa có bằng lái đang đi xe 50cc thuê",
+          "location_scope": "nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chưa từng học luật giao thông mà đi xe 50cc: biển báo, vạch kẻ và hiệu lệnh cần nắm trước khi ra phố",
+          "intent": "Nắm nhóm biển báo, vạch kẻ đường, đèn tín hiệu và hiệu lệnh người điều khiển giao thông tối thiểu cần hiểu trước khi lái xe 50cc ra phố Hà Nội khi chưa từng học luật để thi bằng.",
+          "kw": "đi xe 50cc chưa học luật giao thông",
+          "kw2": [
+            "luật giao thông cơ bản cho xe 50cc",
+            "biển báo cần biết khi đi xe 50cc"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người chưa từng thi bằng lái lần đầu đi xe 50cc",
+          "location_scope": "nội thành Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Chở hàng cồng kềnh bằng xe 50cc: giới hạn bề rộng, chiều dài, chiều cao và lúc nên gọi xe chở hàng",
+          "intent": "Hiểu giới hạn kích thước hàng hóa được xếp trên xe gắn máy theo quy định hiện hành, vì sao xe 50cc nhẹ dễ chao khi chở hàng lớn và khi nào nên thuê xe chở hàng thay thế.",
+          "kw": "xe 50cc chở hàng cồng kềnh",
+          "kw2": [
+            "quy định chở hàng xe gắn máy",
+            "xe 50cc chở đồ to"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người dọn phòng trọ, mua đồ gia dụng bằng xe 50cc",
+          "location_scope": "nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Có bằng lái ô tô nhưng chưa có bằng xe máy: được đi xe 50cc, còn xe 110cc thì cần hạng bằng nào",
+          "intent": "Hiểu vì sao giấy phép lái ô tô không thay được bằng xe máy, người chỉ có bằng ô tô được lái xe 50cc trong điều kiện nào và cần hạng bằng gì khi muốn thuê xe 110cc.",
+          "kw": "có bằng ô tô đi xe 50cc",
+          "kw2": [
+            "bằng b có lái được xe máy",
+            "bằng ô tô lái xe 50cc"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người có bằng ô tô hạng B nhưng chưa có bằng xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Học sinh lớp 12 đi xe 50cc đến điểm thi tốt nghiệp THPT: giờ xuất phát, chỗ gửi xe và phương án khi xe hỏng",
+          "intent": "Lên kế hoạch cho học sinh lớp 12 tự đi xe 50cc đến điểm thi tốt nghiệp THPT: đi thử đường trước, tính giờ xuất phát, gửi xe gần trường thi và dự phòng khi xe hỏng.",
+          "kw": "đi xe 50cc đến điểm thi",
+          "kw2": [
+            "đi thi tốt nghiệp bằng xe 50cc",
+            "gửi xe điểm thi thpt"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "học sinh lớp 12 và phụ huynh",
+          "location_scope": "các điểm thi ở nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Phụ huynh kèm con 16 tuổi tập đi xe 50cc: tuần đầu đi xe theo sau, chọn tuyến đến trường và giao hẹn luật nhà",
+          "intent": "Lên kế hoạch một tuần để phụ huynh kèm con vừa đủ 16 tuổi làm quen xe 50cc: tập ở đâu, đi theo sau quan sát thế nào, chọn tuyến đến trường và thống nhất quy tắc an toàn.",
+          "kw": "kèm con tập đi xe 50cc",
+          "kw2": [
+            "dạy con đi xe 50cc",
+            "con 16 tuổi tập xe máy"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "phụ huynh có con 16, 17 tuổi",
+          "location_scope": "khu dân cư và tuyến đến trường ở Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Sang số xe số 50cc trong phố đông: về số thấp trước khi dừng, lên số khi đủ đà và tránh để xe ì máy",
+          "intent": "Biết cách sang số trên xe số 50cc côn tự động khi đi phố đông: nhả ga đúng lúc, về số thấp trước đèn đỏ, lên số khi xe đủ đà và nhận biết khi đang đi sai số.",
+          "kw": "cách sang số xe 50cc",
+          "kw2": [
+            "xe số 50cc về số",
+            "xe 50cc đi sai số"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người mới lái xe số 50cc",
+          "location_scope": "phố nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe ga 50cc bò chậm trong dòng xe kẹt bị giật cục: giữ ga đều, rà phanh sau và để khoảng cách phía trước",
+          "intent": "Hiểu vì sao xe ga 50cc hay giật cục khi bò chậm trong đoạn kẹt xe, và biết cách giữ ga đều, rà phanh sau, chừa khoảng cách để xe đi êm và không chạm xe phía trước.",
+          "kw": "xe ga 50cc đi chậm bị giật",
+          "kw2": [
+            "xe 50cc bò chậm khi kẹt xe",
+            "giữ ga xe ga 50cc"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người mới đi xe ga 50cc trong giờ đông",
+          "location_scope": "các trục hay kẹt xe ở nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Qua vòng xuyến và nút giao nhiều ngả bằng xe 50cc: vào nút chậm, giữ làn ngoài và ra đúng nhánh",
+          "intent": "Biết cách đi xe 50cc qua vòng xuyến và nút giao nhiều ngả ở Hà Nội: nhường đường đúng luật, chọn làn ngoài, báo hướng ra từ sớm và không cắt ngang dòng xe chạy nhanh hơn.",
+          "kw": "xe 50cc đi vòng xuyến",
+          "kw2": [
+            "vòng xuyến nhường đường bên trái",
+            "nút giao nhiều ngả xe 50cc"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người mới đi xe 50cc",
+          "location_scope": "nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Kẹt xe giữa dốc cầu khi đi xe 50cc: giữ phanh, mở ga để xe không trôi lùi và chừa khoảng cách xe trước",
+          "intent": "Biết cách dừng và khởi hành lại giữa dốc cầu khi kẹt xe trên xe 50cc yếu lực kéo: giữ phanh, phối hợp ga, tránh trôi lùi và chừa khoảng cách phòng xe trước tụt dốc.",
+          "kw": "xe 50cc dừng giữa dốc",
+          "kw2": [
+            "xe 50cc trôi lùi trên dốc",
+            "khởi hành ngang dốc xe 50cc"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người mới đi xe 50cc",
+          "location_scope": "dốc cầu vượt và cầu qua sông ở Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Vào cua bằng xe 50cc bánh nhỏ: giảm tốc trước khúc cua, nhìn hướng ra và không phanh gấp giữa cua",
+          "intent": "Biết cách đưa xe 50cc bánh nhỏ, nhẹ qua các khúc cua ở phố và đường ven hồ: giảm tốc trước, nghiêng vừa đủ, nhìn theo hướng ra và xử lý khi buộc phải phanh giữa cua.",
+          "kw": "vào cua xe 50cc",
+          "kw2": [
+            "xe 50cc ôm cua",
+            "phanh giữa cua xe 50cc"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người mới đi xe 50cc",
+          "location_scope": "phố nội thành và đường ven hồ Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe 50cc đi sát lề gặp xe buýt tấp vào trạm: chờ phía sau, vượt bên trái hay tách làn từ sớm",
+          "intent": "Biết cách xử lý khi đang đi xe 50cc sát lề phải mà xe buýt tấp vào trạm phía trước: đoán trước điểm dừng, chờ hay vượt bên trái an toàn và để ý hành khách lên xuống.",
+          "kw": "xe 50cc gặp xe buýt vào trạm",
+          "kw2": [
+            "vượt xe buýt bằng xe 50cc",
+            "xe 50cc đi sau xe buýt"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người đi xe 50cc hằng ngày",
+          "location_scope": "các trục nhiều tuyến buýt như Nguyễn Trãi, Giải Phóng, Cầu Giấy",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe tải, xe ben rẽ phải cắt ngang xe 50cc đi sát lề: vùng mù bánh sau và chỗ nên dừng chờ ở nút giao",
+          "intent": "Hiểu vùng mù bên phải của xe tải, xe ben khi rẽ phải và biết cách đi xe 50cc sát lề sao cho không bị cuốn vào bánh sau, chọn chỗ dừng chờ an toàn ở nút giao.",
+          "kw": "xe tải rẽ phải xe 50cc",
+          "kw2": [
+            "vùng mù xe tải xe 50cc",
+            "xe ben rẽ phải cắt mặt"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người đi xe 50cc trên đường ven đô",
+          "location_scope": "các tuyến nhiều xe tải như Phạm Văn Đồng, Nguyễn Xiển, Giải Phóng",
+          "word_target": 1200
+        },
+        {
+          "title": "Lỡ vặn ga khi dắt hoặc quay đầu xe ga 50cc: vì sao xe vọt đi và thói quen tắt máy trước khi dắt",
+          "intent": "Hiểu vì sao xe ga 50cc vọt đi khi người lái lỡ vặn ga lúc dắt xe hoặc quay đầu tại chỗ, và biết cách tắt máy, bóp phanh, dắt xe đúng tư thế để tránh ngã.",
+          "kw": "xe ga 50cc vọt ga khi dắt",
+          "kw2": [
+            "dắt xe ga 50cc nổ máy",
+            "quay đầu xe ga 50cc"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người mới đi xe ga 50cc",
+          "location_scope": "ngõ, sân nhà, bãi gửi xe ở Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe 50cc đi chùa Hương có nổi không: quãng đường xa, đường qua Mỹ Đức và lịch nghỉ giữa chặng",
+          "intent": "Lên kế hoạch đánh giá có nên đi chùa Hương bằng xe 50cc: quãng đường dài từ nội thành, đoạn qua Mỹ Đức, số lần nghỉ cho máy và người, giờ về trước khi trời tối.",
+          "kw": "xe 50cc đi chùa hương",
+          "kw2": [
+            "chùa hương bằng xe 50cc",
+            "đi chùa hương bằng xe nhỏ"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người đi xe 50cc muốn đi lễ chùa ngoại thành",
+          "location_scope": "Mỹ Đức, Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Xe 50cc đi làng cổ Đường Lâm, Sơn Tây: chặng dài phía tây theo quốc lộ 32, xe tải và giờ quay về",
+          "intent": "Lên kế hoạch đi làng cổ Đường Lâm bằng xe 50cc: quãng đường dài theo quốc lộ 32, cách đi cạnh xe tải, điểm nghỉ giữa chặng và giờ rời làng để kịp về Hà Nội trước tối.",
+          "kw": "xe 50cc đi đường lâm",
+          "kw2": [
+            "đường lâm bằng xe 50cc",
+            "xe 50cc đi sơn tây"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "khách du lịch và người Hà Nội đi xe 50cc",
+          "location_scope": "Sơn Tây, Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Xe 50cc đi đền Sóc, Sóc Sơn: tuyến lên phía bắc qua Đông Anh, đoạn nhiều xe tải và chỗ gửi xe",
+          "intent": "Lên kế hoạch đi đền Sóc bằng xe 50cc: chọn tuyến từ nội thành lên Sóc Sơn, cách đi qua đoạn nhiều xe tải, điểm nghỉ giữa chặng, gửi xe dưới chân núi và giờ quay về.",
+          "kw": "xe 50cc đi đền sóc",
+          "kw2": [
+            "đền sóc bằng xe 50cc",
+            "xe 50cc đi sóc sơn"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người đi xe 50cc đi lễ đầu năm",
+          "location_scope": "Sóc Sơn, Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Xe 50cc sang Thuận Thành viếng chùa Dâu, chùa Bút Tháp: quãng đường sang Bắc Ninh, đường tỉnh và chỗ nghỉ",
+          "intent": "Lên kế hoạch đi chùa Dâu và chùa Bút Tháp ở Thuận Thành bằng xe 50cc: tuyến ra khỏi Hà Nội, đoạn đường tỉnh nhiều xe, chỗ nghỉ, gửi xe ở cổng chùa và giờ quay về.",
+          "kw": "xe 50cc đi chùa dâu bút tháp",
+          "kw2": [
+            "chùa bút tháp bằng xe 50cc",
+            "xe 50cc đi thuận thành"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người đi xe 50cc thích tham quan chùa cổ",
+          "location_scope": "Thuận Thành, Bắc Ninh",
+          "word_target": 1300
+        },
+        {
+          "title": "Xe 50cc đi Ninh Bình có nên không: chặng gần 100 km trên quốc lộ đông xe tải và lựa chọn đi xe khách",
+          "intent": "Hiểu vì sao chặng Hà Nội – Ninh Bình gần 100 km là quá sức với xe 50cc và người mới lái, những rủi ro trên quốc lộ đông xe tải và các phương án đi lại hợp lý hơn.",
+          "kw": "xe 50cc đi ninh bình",
+          "kw2": [
+            "xe 50cc đi xa 100km",
+            "đi ninh bình bằng xe nhỏ"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người chưa có bằng lái chỉ đi được xe 50cc",
+          "location_scope": "Hà Nội – Ninh Bình",
+          "word_target": 1200
+        },
+        {
+          "title": "Đi xe 50cc về quê cuối tuần cách Hà Nội 30 đến 60 km: chọn đường tỉnh, giờ đi và lúc nên đi xe khách",
+          "intent": "Lên kế hoạch cho sinh viên chưa có bằng lái tự đi xe 50cc về quê ở tỉnh lân cận: chọn tuyến tránh quốc lộ đông, giờ xuất phát, nghỉ giữa chặng và lúc nên đi xe khách.",
+          "kw": "đi xe 50cc về quê",
+          "kw2": [
+            "sinh viên đi xe 50cc về quê",
+            "xe 50cc đi tỉnh lân cận"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "sinh viên ngoại tỉnh chưa có bằng lái",
+          "location_scope": "Hà Nội và các tỉnh lân cận",
+          "word_target": 1200
+        },
+        {
+          "title": "Thuê xe 50cc cho người giúp việc gia đình chưa có bằng lái: đi chợ, đưa đón trẻ và giao hẹn an toàn",
+          "intent": "Hiểu khi nào nên thuê xe 50cc cho người giúp việc chưa có bằng lái dùng đi chợ, đưa đón trẻ quanh khu ở, điều kiện độ tuổi theo luật và những thỏa thuận an toàn cần nói rõ.",
+          "kw": "xe 50cc cho người giúp việc",
+          "kw2": [
+            "người giúp việc đi xe máy",
+            "thuê xe cho người giúp việc"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "gia đình có người giúp việc ở Hà Nội",
+          "location_scope": "khu dân cư nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Mặc áo mưa khi đi xe 50cc: áo bộ hay áo cánh dơi để không vướng bánh nhỏ, che đèn và xi nhan",
+          "intent": "Biết cách chọn và mặc áo mưa phù hợp khi lái xe 50cc bánh nhỏ, tránh vạt áo cuốn vào bánh, che đèn hậu, xi nhan và gương, và cất áo gọn trong cốp nhỏ.",
+          "kw": "áo mưa đi xe 50cc",
+          "kw2": [
+            "áo mưa cánh dơi xe 50cc",
+            "áo mưa bộ đi xe máy"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-062",
+          "audience": "người đi xe 50cc mùa mưa",
+          "location_scope": "Hà Nội mùa mưa",
+          "word_target": 1200
         }
       ]
     },
@@ -39421,6 +39846,431 @@
           ],
           "subtopic": "refill-2026-10-17-W1-001",
           "audience": "quân nhân và người vừa xuất ngũ ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Người khiếm thính, nghe kém có thi được bằng lái xe máy A1 không: đọc đúng tiêu chuẩn sức khỏe hiện hành",
+          "intent": "Hiểu tiêu chuẩn sức khỏe người lái xe hiện hành của Bộ Y tế có đặt yêu cầu thính lực với hạng A1 hay không, để người nghe kém chuẩn bị khám và đăng ký học đúng.",
+          "kw": "khiếm thính thi bằng lái xe máy",
+          "kw2": [
+            "người điếc có được thi bằng a1",
+            "tiêu chuẩn sức khỏe thi bằng a1"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người khiếm thính hoặc nghe kém muốn tự lái xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Cụt một đốt ngón tay hay yếu một bên chân có thi bằng A1 lái xe hai bánh được không",
+          "intent": "Nắm tiêu chí về tay, chân và vận động trong tiêu chuẩn sức khỏe hạng A1, để biết khi nào vẫn thi xe hai bánh và khi nào nên hỏi hạng dành cho người khuyết tật.",
+          "kw": "cụt ngón tay thi bằng a1",
+          "kw2": [
+            "yếu chân có thi bằng lái xe máy",
+            "tiêu chuẩn cơ xương khớp lái xe"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người có tổn thương nhẹ ở tay hoặc chân muốn học bằng A1",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chạy xe ôm hoặc giao hàng bằng xe máy ở Hà Nội: bằng A1 đã đủ hay cần giấy phép lái xe hạng khác",
+          "intent": "Nắm hạng giấy phép lái xe cần có khi chở khách, giao hàng bằng xe máy ở Hà Nội theo dung tích hoặc công suất xe, và vì sao giữ điểm giấy phép quan trọng với công việc.",
+          "kw": "chạy xe ôm cần bằng lái gì",
+          "kw2": [
+            "giao hàng xe máy cần bằng gì",
+            "shipper cần bằng lái hạng nào"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người mới chạy xe ôm, giao hàng bán thời gian bằng xe máy",
+          "location_scope": "nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đổi, cấp lại bằng lái xe máy mất những khoản phí nào: lệ phí theo biểu phí hiện hành và cách nộp trực tuyến",
+          "intent": "Nắm lệ phí cấp đổi, cấp lại giấy phép lái xe theo biểu phí Bộ Tài chính đang áp dụng, cách thanh toán khi nộp hồ sơ trực tuyến và những khoản người làm thủ tục không phải trả.",
+          "kw": "lệ phí đổi bằng lái xe máy",
+          "kw2": [
+            "phí cấp lại bằng lái xe máy",
+            "đổi bằng lái hết bao nhiêu tiền"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người dân Hà Nội chuẩn bị đổi hoặc cấp lại bằng lái xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Ảnh trên bằng lái xe máy chụp từ nhiều năm trước, nay trông khác hẳn: có bắt buộc phải đổi bằng mới không",
+          "intent": "Hiểu các trường hợp pháp luật yêu cầu đổi giấy phép lái xe, để biết ảnh cũ khác diện mạo hiện tại có buộc phải đổi không và khi nào nên chủ động đổi sang thẻ mới.",
+          "kw": "ảnh bằng lái cũ có phải đổi",
+          "kw2": [
+            "ảnh trên bằng lái khác mặt",
+            "bằng lái lâu năm có phải đổi"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người có bằng lái xe máy cấp đã lâu",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Không nhớ số giấy phép lái xe máy khi làm thủ tục cấp lại: tìm lại số bằng qua VNeID và các kênh chính thức",
+          "intent": "Biết cách tìm lại số giấy phép lái xe máy đã mất hoặc thất lạc qua các kênh chính thức, phục vụ đơn đề nghị cấp lại mà không phải nhờ dịch vụ tra cứu trôi nổi.",
+          "kw": "quên số giấy phép lái xe",
+          "kw2": [
+            "tìm lại số bằng lái xe máy",
+            "số bằng lái trên vneid"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người mất bằng lái xe máy không còn bản chụp",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Giấy phép lái xe quốc tế do Việt Nam cấp có dùng thay bằng A1 khi đi xe máy trong nước được không",
+          "intent": "Hiểu phạm vi sử dụng của giấy phép lái xe quốc tế do Việt Nam cấp, để không mang nhầm giấy tờ khi lái xe máy ở Hà Nội và biết phải xuất trình loại giấy phép nào.",
+          "kw": "bằng lái quốc tế dùng trong nước",
+          "kw2": [
+            "idp việt nam cấp dùng ở đâu",
+            "giấy phép lái xe quốc tế trong nước"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người Hà Nội đã xin giấy phép lái xe quốc tế",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Người nước ngoài sống ở Hà Nội nhiều năm: tiếp tục dùng IDP hay đổi sang giấy phép lái xe Việt Nam",
+          "intent": "Lên kế hoạch giấy phép lái xe cho người nước ngoài cư trú dài hạn ở Hà Nội, cân nhắc thời hạn IDP, điều kiện đổi bằng quốc gia và giấy tờ cư trú cần chuẩn bị.",
+          "kw": "idp hay đổi bằng việt nam",
+          "kw2": [
+            "người nước ngoài ở lâu dùng idp",
+            "expat đổi bằng lái xe máy"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người nước ngoài làm việc, sinh sống dài hạn ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Bằng lái Việt Nam đổi cho người nước ngoài có thời hạn bao lâu: theo thị thực, thẻ tạm trú hay thường trú",
+          "intent": "Hiểu cách xác định thời hạn giấy phép lái xe Việt Nam cấp đổi cho người nước ngoài theo giấy tờ cư trú, và việc cần làm khi gia hạn thị thực hoặc thẻ tạm trú.",
+          "kw": "thời hạn bằng lái người nước ngoài",
+          "kw2": [
+            "bằng lái việt nam theo thẻ tạm trú",
+            "gia hạn bằng lái người nước ngoài"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người nước ngoài đã hoặc sắp đổi sang bằng lái Việt Nam",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Bằng lái nước ngoài ghi hạng xe máy bằng ký hiệu riêng như M, R hay A2: hạng tương ứng khi đổi sang Việt Nam",
+          "intent": "Nắm cách đối chiếu phạm vi xe ghi trên giấy phép lái xe nước ngoài với hạng A1, A của Việt Nam khi đổi bằng, tránh nhận hạng thấp hơn loại xe máy định lái.",
+          "kw": "đối chiếu hạng bằng lái nước ngoài",
+          "kw2": [
+            "bằng lái hạng m đổi sang a",
+            "hạng bằng nước ngoài sang việt nam"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người có bằng lái xe máy do nước ngoài cấp",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Người Việt du học hoặc làm việc ở nước ngoài về nước: đổi bằng lái xe máy nước sở tại sang giấy phép Việt Nam",
+          "intent": "Nắm điều kiện để công dân Việt Nam được đổi giấy phép lái xe do nước ngoài cấp trong thời gian cư trú, học tập, làm việc ở đó, cùng hồ sơ và nơi nộp tại Hà Nội.",
+          "kw": "người việt đổi bằng lái nước ngoài",
+          "kw2": [
+            "du học sinh đổi bằng lái về nước",
+            "đổi bằng lái nhật sang việt nam"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "du học sinh, người lao động Việt Nam trở về sau thời gian ở nước ngoài",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Bằng lái nước ngoài hết hạn, bằng tạm thời hay chỉ có IDP: những trường hợp không được đổi sang bằng Việt Nam",
+          "intent": "Hiểu các trường hợp giấy phép lái xe nước ngoài bị từ chối đổi theo quy định hiện hành của Bộ Công an, để chọn cách hợp lệ khác như học và sát hạch hạng A1 tại Việt Nam.",
+          "kw": "bằng lái nước ngoài hết hạn",
+          "kw2": [
+            "bằng lái tạm thời nước ngoài",
+            "không được đổi bằng lái nước ngoài"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người có bằng lái nước ngoài không đủ điều kiện đổi",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Thấy điểm giấy phép lái xe bị trừ nhầm trên VNeID: đối chiếu quyết định xử phạt và quyền khiếu nại thế nào",
+          "intent": "Biết cách đối chiếu dữ liệu trừ điểm với quyết định xử phạt, nhận diện sai sót và thực hiện quyền khiếu nại hoặc đề nghị điều chỉnh đúng cơ quan, đúng thời hạn.",
+          "kw": "bị trừ điểm bằng lái nhầm",
+          "kw2": [
+            "khiếu nại trừ điểm giấy phép lái xe",
+            "điểm bằng lái sai trên vneid"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người có bằng lái xe máy phát hiện điểm bị trừ không đúng",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đã đóng tiền học bằng A1 mà cơ sở đào tạo mãi chưa xếp lịch thi: hỏi ai và phản ánh ở đâu tại Hà Nội",
+          "intent": "Nắm quyền của học viên khi cơ sở đào tạo chậm đưa vào kỳ sát hạch, giấy tờ cần giữ lại và cơ quan quản lý ở Hà Nội để gửi phản ánh đúng nơi, đúng cách.",
+          "kw": "trung tâm chậm xếp lịch thi a1",
+          "kw2": [
+            "phản ánh cơ sở đào tạo lái xe",
+            "học a1 lâu chưa được thi"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "học viên đã đăng ký học bằng A1 ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Học bằng A1 ở Hà Nội từ năm 2025: cơ sở đào tạo do ngành xây dựng quản lý, sát hạch và cấp bằng do công an",
+          "intent": "Hiểu sự phân công giữa cơ quan quản lý đào tạo lái xe và Công an thành phố trong sát hạch, cấp giấy phép, để biết mỗi bước học A1 cần liên hệ nơi nào.",
+          "kw": "ai tổ chức sát hạch bằng a1",
+          "kw2": [
+            "sở xây dựng quản lý đào tạo lái xe",
+            "công an sát hạch bằng a1"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người chuẩn bị học và thi bằng A1 lần đầu",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chưa từng biết đi xe máy mà muốn thi bằng A1: tập từ dắt xe, giữ thăng bằng đến khi vào được bài sa hình",
+          "intent": "Lên kế hoạch tập luyện từ đầu cho người chưa từng điều khiển xe máy, chọn nơi tập hợp pháp và an toàn trước khi luyện các bài sát hạch thực hành hạng A1.",
+          "kw": "chưa biết đi xe máy thi a1",
+          "kw2": [
+            "tập đi xe máy từ đầu",
+            "người mới tập xe máy hà nội"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người trưởng thành chưa từng đi xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Có bằng A1 nhưng nhiều năm không đi xe máy: bằng còn giá trị không, lấy lại tay lái thế nào trước khi thuê xe",
+          "intent": "Hiểu giá trị của giấy phép hạng A1 không thời hạn với người lâu không lái, và lên kế hoạch tập lại kỹ năng trước khi tự điều khiển xe máy thuê giữa phố Hà Nội.",
+          "kw": "lâu năm không đi xe máy",
+          "kw2": [
+            "bằng a1 để lâu còn giá trị",
+            "tập lại xe máy sau nhiều năm"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người có bằng A1 lâu năm chủ yếu đi ô tô hoặc từng sống ở nước ngoài",
+          "location_scope": "nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Ngày trúng tuyển, ngày cấp và thời hạn in trên thẻ bằng lái xe máy: đọc đúng từng mục trước khi làm thủ tục",
+          "intent": "Hiểu ý nghĩa từng mục in trên thẻ giấy phép lái xe máy, nhất là ngày trúng tuyển, ngày cấp và thời hạn, để tự kiểm tra bằng trước khi thuê xe hoặc đổi, cấp lại.",
+          "kw": "ngày trúng tuyển trên bằng lái",
+          "kw2": [
+            "thông tin in trên bằng lái xe máy",
+            "ngày cấp khác ngày trúng tuyển"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người có bằng lái xe máy thẻ PET hoặc mẫu mới",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Bị giữ bằng lái khi đi xe máy ở tỉnh khác, đã về Hà Nội: nộp phạt trực tuyến, nhận giấy tờ qua bưu chính",
+          "intent": "Biết cách nộp phạt trên Cổng Dịch vụ công và đăng ký nhận lại giấy phép lái xe bị tạm giữ qua bưu chính khi nơi vi phạm cách xa nơi đang sống ở Hà Nội.",
+          "kw": "nhận lại bằng lái qua bưu điện",
+          "kw2": [
+            "nộp phạt online nhận lại giấy tờ",
+            "bị giữ bằng lái ở tỉnh khác"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người Hà Nội đi xe máy về quê hoặc đi chơi tỉnh khác bị lập biên bản",
+          "location_scope": "Hà Nội và các tỉnh lân cận",
+          "word_target": 1300
+        },
+        {
+          "title": "Chỉ xuất trình bằng lái trên VNeID khi bị kiểm tra: tạm giữ giấy phép lái xe điện tử diễn ra thế nào",
+          "intent": "Hiểu cách cảnh sát giao thông tạm giữ giấy phép lái xe trên môi trường điện tử khi người vi phạm xuất trình qua VNeID, trạng thái hiển thị và cách được trả lại sau khi chấp hành.",
+          "kw": "tạm giữ bằng lái trên vneid",
+          "kw2": [
+            "tạm giữ giấy tờ điện tử",
+            "bằng lái vneid bị tạm giữ"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người lái xe máy dùng giấy phép tích hợp trên VNeID",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Ốm hoặc có việc gấp đúng ngày sát hạch A1: báo vắng, giữ hồ sơ và đăng ký kỳ thi sau thế nào",
+          "intent": "Biết cách xử lý khi không thể dự kỳ sát hạch A1 đã đăng ký, gồm báo cơ sở đào tạo, giữ hồ sơ hợp lệ và đăng ký vào kỳ sát hạch kế tiếp theo quy định hiện hành.",
+          "kw": "vắng thi sát hạch a1",
+          "kw2": [
+            "hoãn thi bằng a1",
+            "không đi thi bằng lái được không"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "thí sinh đã có lịch sát hạch A1 ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đổi bằng lái xe máy bao lâu thì nhận được thẻ mới: thời hạn giải quyết và cách theo dõi tình trạng hồ sơ",
+          "intent": "Nắm thời hạn giải quyết hồ sơ đổi giấy phép lái xe theo quy định, cách tra tình trạng hồ sơ trực tuyến hoặc tại nơi nộp và hình thức nhận thẻ để chủ động lịch đi lại.",
+          "kw": "đổi bằng lái bao lâu có thẻ",
+          "kw2": [
+            "thời gian đổi bằng lái xe máy",
+            "theo dõi hồ sơ đổi bằng lái"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người vừa nộp hồ sơ đổi bằng lái xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Đang ở nước ngoài thì làm mất bằng lái xe máy Việt Nam: đề nghị cấp lại lúc nào và nhận thẻ thế nào",
+          "intent": "Lên kế hoạch cấp lại giấy phép lái xe máy Việt Nam bị mất khi đang học tập, làm việc ở nước ngoài, cân nhắc nộp hồ sơ trực tuyến hay chờ về nước và dùng giấy phép trên VNeID.",
+          "kw": "mất bằng lái khi ở nước ngoài",
+          "kw2": [
+            "cấp lại bằng lái từ nước ngoài",
+            "việt kiều mất bằng lái xe máy"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người Việt đang học tập, làm việc ở nước ngoài",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Bằng lái xe máy vẫn ghi địa chỉ quận, phường cũ của Hà Nội: có phải đổi sau sắp xếp đơn vị hành chính",
+          "intent": "Hiểu giá trị của giấy phép lái xe còn ghi địa chỉ theo quận, phường cũ sau khi Hà Nội sắp xếp đơn vị hành chính, và khi nào việc đổi bằng là cần thiết hay chỉ là tùy chọn.",
+          "kw": "bằng lái ghi địa chỉ cũ",
+          "kw2": [
+            "sắp xếp phường có phải đổi bằng lái",
+            "đổi địa chỉ trên bằng lái xe máy"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người dân Hà Nội có bằng lái ghi địa chỉ trước năm 2025",
+          "location_scope": "các phường, xã của Hà Nội sau sắp xếp",
+          "word_target": 1200
+        },
+        {
+          "title": "Mua giấy khám sức khỏe không qua khám để thi hoặc đổi bằng lái xe máy: rủi ro bị thu hồi giấy phép và xử lý",
+          "intent": "Hiểu vì sao giấy khám sức khỏe lái xe không qua khám thực tế là giấy tờ không hợp lệ, hậu quả với hồ sơ và giấy phép đã cấp, cùng cách khám đúng ở cơ sở đủ điều kiện.",
+          "kw": "mua giấy khám sức khỏe lái xe",
+          "kw2": [
+            "giấy khám sức khỏe giả thi bằng lái",
+            "khám sức khỏe lái xe không cần khám"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-060",
+          "audience": "người chuẩn bị hồ sơ thi bằng A1",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
