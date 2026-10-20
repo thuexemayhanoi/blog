@@ -1,0 +1,218 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W3T: chu de that nhom phap ly va quy dinh bam sat van ban, tao boi writer W3 theo gate G1-G8; da loc trung cheo cum (cross-child) truoc khi push. Da loai 5 de tai trung ngu nghia voi bai da dang (BLG-04575) hoac candidate W2-043/W2-066 truoc khi push.",
+  "created": "2026-10-20",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-20-W3T-001",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Xe máy thuê đỗ sai chỗ bị di chuyển đi khi vắng người lái: ai phải trả chi phí di chuyển theo luật",
+   "intent": "Hiểu quy định (Điều 69 khoản 3) người điều khiển hoặc chủ phương tiện đã vi phạm quy định dừng, đỗ gây cản trở phải trả chi phí cho việc di chuyển hoặc thuê di chuyển xe, rồi biết hỏi cơ quan có thẩm quyền xe đã được di chuyển đến đâu và xác nhận trực tiếp với tiệm cách phối hợp theo hợp đồng thuê.",
+   "kw": "xe máy đỗ sai bị cẩu đi",
+   "kw2": [
+    "chi phí di chuyển xe vi phạm",
+    "xe thuê bị kéo đi ai trả phí"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3T",
+   "audience": "người thuê xe máy ở Hà Nội biết xe đã bị di chuyển khỏi chỗ đỗ gây cản trở và muốn rõ ai phải trả chi phí di chuyển",
+   "location_scope": "Hà Nội (phố hẹp, khu đông người nội thành)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3T-002",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Nhờ bạn đi cùng nhận là người lái xe thuê khi có thông báo vi phạm: khai báo gian dối bị luật cấm ra sao",
+   "intent": "Hiểu quy định (Điều 9 khoản 25) cấm không khai báo, khai báo gian dối hoặc cung cấp thông tin, tài liệu không đúng sự thật để trốn trách nhiệm khi bị phát hiện vi phạm, nên nhờ người khác nhận là người cầm lái xe thuê là hướng sai; biết cách khai đúng ai đã lái và trình bày với cơ quan có thẩm quyền.",
+   "kw": "nhờ người khác nhận lỗi thay",
+   "kw2": [
+    "khai gian người lái xe thuê",
+    "khai báo không đúng sự thật vi phạm giao thông"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3T",
+   "audience": "người đã trả xe thuê ở Hà Nội, nhận thông báo vi phạm và đang nghĩ đến việc nhờ bạn đi cùng nhận là người lái",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3T-003",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Bị lập biên bản khi đi xe thuê rồi nhờ người quen làm trong ngành nói giúp: luật cấm can thiệp thế nào",
+   "intent": "Hiểu quy định (Điều 9 khoản 23) cấm lợi dụng chức vụ, quyền hạn, nghề nghiệp của bản thân hoặc người khác để vi phạm hoặc can thiệp, tác động vào việc xử lý vi phạm về trật tự, an toàn giao thông, nên nhờ người quen nói giúp là hướng sai; biết giữ bình tĩnh, đọc kỹ biên bản và trình bày ý kiến đúng cách.",
+   "kw": "nhờ người quen xin bỏ qua lỗi",
+   "kw2": [
+    "can thiệp xử lý vi phạm giao thông",
+    "lợi dụng chức vụ khi bị lập biên bản"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3T",
+   "audience": "người đi xe thuê ở Hà Nội vừa bị lập biên bản, quen người làm trong ngành và đang cân nhắc nhờ nói giúp",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3T-004",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Ô tô lắp còi hú, đèn nháy xanh đỏ đòi xe máy nhường: luật cấm dùng quyền xe ưu tiên khi không làm nhiệm vụ",
+   "intent": "Hiểu quy định (Điều 9 khoản 24) cấm dùng quyền của xe ưu tiên khi không làm nhiệm vụ và cấm lắp, dùng thiết bị phát tín hiệu ưu tiên không đúng quy định, rồi biết cách người đi xe máy phản ứng an toàn khi nghe còi hú, thấy đèn nháy phía sau: giữ bình tĩnh, giảm tốc, nép sang bên phải và ghi lại biển số để phản ánh sau.",
+   "kw": "xe lắp còi hú đòi nhường đường",
+   "kw2": [
+    "xe giả xe ưu tiên có phải nhường không",
+    "lắp thiết bị tín hiệu ưu tiên trái quy định"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3T",
+   "audience": "người đi xe máy thuê ở Hà Nội nghe còi hú, thấy đèn nháy xanh đỏ phía sau nhưng không rõ đó là xe gì",
+   "location_scope": "Hà Nội (đường nhiều làn, nút giao đông xe)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3T-005",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Người mới quen nhờ chở hộ gói hàng hoặc túi kín bằng xe máy thuê: vì sao nên từ chối và luật cấm chở hàng nào",
+   "intent": "Hiểu quy định (Điều 9 khoản 14) cấm vận chuyển hàng hóa cấm lưu hành, vận chuyển trái phép hoặc không thực hiện đủ quy định về hàng hóa nguy hiểm, động vật hoang dã, nên không nhận chở túi kín của người lạ; biết hỏi rõ nội dung, từ chối lịch sự và báo cho tiệm khi bị nhờ.",
+   "kw": "chở hộ gói hàng người lạ nhờ",
+   "kw2": [
+    "người lạ nhờ mang túi hộ",
+    "chở hàng cấm bằng xe máy bị xử lý thế nào"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3T",
+   "audience": "khách thuê xe máy ở Hà Nội bị người mới quen nhờ chở hộ gói hàng hoặc túi kín tới một địa chỉ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3T-006",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Va chạm giữa hai xe máy có bảo hiểm: doanh nghiệp bảo hiểm có phải cử người đến hiện trường và nên báo khi nào",
+   "intent": "Hiểu quy định (Điều 81 khoản 5) doanh nghiệp bảo hiểm đối với người, phương tiện, tài sản liên quan đến tai nạn giao thông, khi nhận được tin báo về vụ tai nạn, phải cử người hoặc ủy quyền người đại diện đến hiện trường phối hợp với đơn vị giải quyết vụ việc; biết nên báo lúc nào, chuẩn bị số giấy chứng nhận bảo hiểm và xác nhận trực tiếp với tiệm xe thuê về bảo hiểm đi kèm xe.",
+   "kw": "bảo hiểm có đến hiện trường không",
+   "kw2": [
+    "công ty bảo hiểm cử người đến hiện trường",
+    "báo bảo hiểm khi va chạm xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3T",
+   "audience": "người thuê xe máy ở Hà Nội vừa va chạm và đang phân vân có nên gọi doanh nghiệp bảo hiểm đến hiện trường",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3T-007",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Đèn tín hiệu hỏng, biển báo bị che, vạch sơn mờ ở ngã tư: gửi kiến nghị tới đâu và có được trả lời không",
+   "intent": "Biết quy định (Điều 79 khoản 2) cơ quan quản lý đường bộ có trách nhiệm tiếp nhận, kiểm tra, khắc phục yếu tố gây mất an toàn và thông báo kết quả cho cơ quan, tổ chức, cá nhân đã kiến nghị, rồi ghi rõ vị trí, thời điểm, hình ảnh để gửi kiến nghị rõ ràng.",
+   "kw": "kiến nghị đèn giao thông bị hỏng",
+   "kw2": [
+    "phản ánh biển báo bị che khuất",
+    "cơ quan quản lý đường bộ tiếp nhận kiến nghị"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3T",
+   "audience": "người đi xe máy thuê ở Hà Nội gặp đèn tín hiệu hỏng, biển báo bị che hoặc vạch sơn mờ ở nút giao và muốn gửi kiến nghị",
+   "location_scope": "Hà Nội (nút giao, ngã tư nội thành)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3T-008",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Cảnh sát giao thông huy động xe máy đang thuê khi cấp bách tại hiện trường: xe hư hỏng thì ai đền bù",
+   "intent": "Hiểu quy định (Điều 68 khoản 2) khi cảnh sát giao thông huy động phương tiện dân sự trong trường hợp cấp bách, phương tiện phải được hoàn trả ngay sau khi hết cấp bách và nếu bị thiệt hại thì được đền bù do đơn vị huy động giải quyết; biết ghi lại sự việc, giữ giấy tờ và báo tiệm xe thuê.",
+   "kw": "csgt mượn xe hư hỏng ai đền",
+   "kw2": [
+    "huy động phương tiện dân sự trường hợp cấp bách",
+    "xe bị huy động được đền bù không"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-20-W3T",
+   "audience": "người đang thuê xe máy ở Hà Nội, có mặt tại hiện trường tai nạn khi cảnh sát giao thông cần huy động phương tiện",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3T-013",
+   "child_id": "C-QUY-DINH",
+   "title": "Dừng xe máy chờ bạn trong ngõ nhỏ chỉ vừa một làn xe cơ giới: luật cấm dừng đỗ ở đoạn đường hẹp ra sao",
+   "intent": "Nắm quy định (Điều 18 khoản 4) tại điểm l cấm dừng xe, đỗ xe ở nơi phần đường có chiều rộng chỉ đủ cho một làn xe cơ giới, nên trong ngõ nhỏ phố cổ cần tìm chỗ rộng hơn hoặc gửi xe thay vì chắn lối chung; biết cách chọn điểm đón người phù hợp.",
+   "kw": "đỗ xe máy ngõ hẹp một làn",
+   "kw2": [
+    "cấm dừng đỗ đường chỉ đủ một làn",
+    "dừng xe máy trong ngõ nhỏ phố cổ"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W3T",
+   "audience": "người đi xe máy thuê ở Hà Nội cần ghé hoặc dừng chờ người trong ngõ nhỏ, phố hẹp khu phố cổ",
+   "location_scope": "Hà Nội (ngõ nhỏ khu phố cổ và phố hẹp nội thành)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3T-014",
+   "child_id": "C-QUY-DINH",
+   "title": "Dựng xe máy lên nắp cống, nắp hầm cáp hay chắn chỗ xe chữa cháy lấy nước: những vị trí luật cấm dừng đỗ",
+   "intent": "Nắm quy định (Điều 18 khoản 4) tại điểm o cấm dừng xe, đỗ xe trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế và chỗ dành riêng cho xe chữa cháy lấy nước; biết nhận ra các nắp, chỗ lấy nước này ven phố để chọn chỗ đỗ khác.",
+   "kw": "đỗ xe trên nắp cống thoát nước",
+   "kw2": [
+    "cấm đỗ xe chỗ xe chữa cháy lấy nước",
+    "dừng xe trên nắp hầm cáp điện"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W3T",
+   "audience": "người đi xe máy thuê ở Hà Nội tìm chỗ đỗ ven phố và hay dựng xe lên các nắp cống, nắp hầm hoặc sát chỗ lấy nước chữa cháy",
+   "location_scope": "Hà Nội (phố có nắp cống, nắp hầm cáp ven đường)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3T-015",
+   "child_id": "C-QUY-DINH",
+   "title": "Bấm còi chào bạn, giục xe phía trước khi đèn vừa xanh: luật chỉ cho dùng còi xe máy trong hai trường hợp nào",
+   "intent": "Nắm quy định (Điều 21 khoản 1) chỉ được dùng còi để báo hiệu khi xuất hiện tình huống có thể mất an toàn giao thông hoặc khi chuẩn bị vượt xe, nên bấm còi chào, giục hay xua xe khác là không đúng luật; biết phân biệt lúc nên và không nên bấm còi trên phố Hà Nội.",
+   "kw": "khi nào được bấm còi xe máy",
+   "kw2": [
+    "bấm còi giục xe phía trước có sai không",
+    "chỉ được dùng còi trong trường hợp nào"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W3T",
+   "audience": "người đi xe máy thuê ở Hà Nội quen nghe còi liên tục trên phố và băn khoăn lúc nào được phép bấm còi",
+   "location_scope": "Hà Nội (nút giao đông xe, phố nhiều phương tiện)",
+   "word_target": 1300
+  }
+ ]
+}
