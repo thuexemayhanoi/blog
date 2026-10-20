@@ -47,12 +47,12 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-CUNG-DUONG | Mộc Châu (C-CD-MOC-CHAU) | 0 | 40 | 80 | /cung-duong/moc-chau/ |
 | P-CUNG-DUONG | Hà Giang (C-CD-HA-GIANG) | 0 | 50 | 80 | /cung-duong/ha-giang/ |
 | P-CUNG-DUONG | Cung đường các tỉnh phía Bắc (C-CD-PHO-BAC) | 0 | 62 | 90 | /cung-duong/cung-duong-pho-bac/ |
-| P-KY-NANG | Kỹ năng lái cơ bản (C-KY-NANG-CO-BAN) | 35 | 138 | 180 | /ky-nang/ky-nang-lai-co-ban/ |
-| P-KY-NANG | Tình huống giao thông (C-KY-NANG-TINH-HUONG) | 97 | 104 | 180 | /ky-nang/tinh-huong-giao-thong/ |
+| P-KY-NANG | Kỹ năng lái cơ bản (C-KY-NANG-CO-BAN) | 35 | 142 | 180 | /ky-nang/ky-nang-lai-co-ban/ |
+| P-KY-NANG | Tình huống giao thông (C-KY-NANG-TINH-HUONG) | 97 | 110 | 180 | /ky-nang/tinh-huong-giao-thong/ |
 | P-KY-NANG | Thời tiết & đường sá (C-KY-NANG-THOI-TIET) | 41 | 117 | 150 | /ky-nang/thoi-tiet-va-duong-sa/ |
-| P-KY-NANG | Chở đồ & hành lý (C-KY-NANG-CHO-DO) | 23 | 99 | 130 | /ky-nang/cho-do-va-hanh-ly/ |
+| P-KY-NANG | Chở đồ & hành lý (C-KY-NANG-CHO-DO) | 23 | 102 | 130 | /ky-nang/cho-do-va-hanh-ly/ |
 | P-KY-NANG | Gửi xe & giữ xe (C-KY-NANG-GUI-XE) | 19 | 100 | 120 | /ky-nang/gui-xe-va-giu-xe/ |
-| P-KY-NANG | Sức khỏe khi lái xe (C-KY-NANG-SUC-KHOE) | 24 | 74 | 110 | /ky-nang/suc-khoe-khi-lai-xe/ |
+| P-KY-NANG | Sức khỏe khi lái xe (C-KY-NANG-SUC-KHOE) | 24 | 77 | 110 | /ky-nang/suc-khoe-khi-lai-xe/ |
 | P-HOI-DAP | Hỏi đáp về giá (C-HD-GIA) | 0 | 45 | 90 | /hoi-dap/hoi-dap-gia/ |
 | P-HOI-DAP | Hỏi đáp thủ tục (C-HD-THU-TUC) | 0 | 59 | 90 | /hoi-dap/hoi-dap-thu-tuc/ |
 | P-HOI-DAP | Hỏi đáp pháp lý (C-HD-PHAP-LY) | 0 | 63 | 90 | /hoi-dap/hoi-dap-phap-ly/ |
@@ -68,4 +68,4 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 5039 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 5055 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.

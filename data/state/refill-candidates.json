@@ -6,8 +6,8 @@
     "status": "MATERIALIZED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
-    "materialized_at": "2026-10-20T04:42:50+00:00",
-    "staged_at": "2026-10-20T04:42:47+00:00"
+    "materialized_at": "2026-10-20T04:56:22+00:00",
+    "staged_at": "2026-10-20T04:56:17+00:00"
   },
   "candidates": [],
   "rejected": [
@@ -95322,6 +95322,342 @@
       "word_target": 1300,
       "materialized_at": "2026-10-20T04:42:50+00:00",
       "materialized_head": "7dffbf09792192f0674e675e526f0cec507b1a87"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-001",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Gặp xe bồn chở xăng dầu hoặc xe chở hàng siêu trường, siêu trọng: giảm tốc, giữ khoảng cách và không vượt sát",
+      "intent": "Hiểu vì sao điểm k khoản 3 Điều 12 Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 yêu cầu quan sát, giảm tốc độ hoặc dừng lại khi gặp xe vận chuyển hàng siêu trường, siêu trọng hoặc hàng hóa nguy hiểm, rồi biết giữ khoảng cách phía sau và bên hông, không vượt sát hay dừng đỗ cạnh xe bồn trên phố.",
+      "kw": "đi gần xe bồn chở xăng dầu",
+      "kw2": [
+        "gặp xe chở hàng siêu trường siêu trọng",
+        "giữ khoảng cách với xe chở hàng nguy hiểm"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "người tự lái xe máy thuê ở Hà Nội, thấy xe bồn hoặc xe chở cấu kiện dài, nặng phía trước và chưa biết nên vượt hay giữ khoảng cách",
+      "location_scope": "Hà Nội (đường vành đai, các trục ra vào nội thành và quanh những công trường lớn)",
+      "word_target": 1300,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-002",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Gặp đoàn xe tang trên phố Hà Nội: giảm tốc, đi sát lề phải hoặc dừng nhường đường, không chen vào giữa đoàn",
+      "intent": "Hiểu vì sao Điều 27 Luật số 36/2024/QH15 xếp đoàn xe tang vào nhóm xe ưu tiên, được quyền đi trước khi qua nơi đường giao nhau, rồi biết cách giảm tốc, đi sát lề phải hoặc dừng lại nhường đường, giữ khoảng cách với cả đoàn và không chen vào giữa khi gặp đám tang ở ngã tư hay phố hẹp.",
+      "kw": "gặp đoàn xe tang trên đường",
+      "kw2": [
+        "nhường đường đoàn xe tang",
+        "xe tang có phải xe ưu tiên không"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "người tự lái xe máy thuê ở Hà Nội, bất ngờ gặp đoàn xe tang ở ngã tư hoặc phố hẹp và chưa biết nên dừng, nhường hay đi tiếp",
+      "location_scope": "Hà Nội (ngã tư, phố hẹp trong nội thành và đường ra các nghĩa trang ven đô)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-003",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Gặp người khiếm thị cầm gậy dò đường ở mép đường: dừng hẳn nhường lối, không bấm còi thúc và chờ họ qua hết",
+      "intent": "Biết cách nhận ra người khiếm thị đi bộ có người dẫn dắt hoặc dùng gậy, công cụ báo hiệu (điểm c khoản 2 Điều 30 Luật số 36/2024/QH15), giảm tốc từ xa, dừng hẳn nhường lối và không bấm còi hối hay lách sát, vì điểm đ khoản 2 điều này giao cho mọi người trách nhiệm giúp đỡ người yếu thế khi qua đường.",
+      "kw": "nhường người khiếm thị qua đường",
+      "kw2": [
+        "gặp người mù qua đường khi đi xe máy",
+        "người cầm gậy trắng qua đường"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "người tự lái xe máy thuê ở Hà Nội, thấy người khiếm thị đứng chờ hoặc dò từng bước ở mép đường mà chưa biết nên dừng, đi chậm hay ra hiệu thế nào",
+      "location_scope": "Hà Nội (vỉa hè, vạch sang đường và ngã tư đông trong nội thành)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-004",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Đoàn khách hay học sinh đi bộ xếp hàng băng qua đường: dừng chờ hết đoàn, không chen giữa, không bấm còi giục",
+      "intent": "Hiểu vì sao điểm k khoản 3 Điều 12 Luật số 36/2024/QH15 yêu cầu quan sát, giảm tốc độ hoặc dừng lại khi gặp đoàn người đi bộ, rồi biết cách chờ cả đoàn qua hết, nhường người đi chậm ở cuối hàng, không chen vào giữa và không vượt xe phía trước khi còn người đang qua đường (điểm i khoản 6 Điều 14).",
+      "kw": "gặp đoàn người đi bộ qua đường",
+      "kw2": [
+        "đoàn khách du lịch đi bộ băng qua đường",
+        "chờ đoàn học sinh qua đường khi đi xe máy"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "người tự lái xe máy thuê ở Hà Nội, gặp đoàn khách đi bộ theo hướng dẫn viên hoặc đoàn học sinh xếp hàng băng qua ngã tư, vạch sang đường",
+      "location_scope": "Hà Nội (phố cổ, quanh hồ Hoàn Kiếm, khu Hoàng thành Thăng Long và các ngã tư gần trường học)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-005",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Xích lô chở khách chạy chậm ở phố cổ, quanh Hồ Gươm: khi nào vượt, đi sau ra sao lúc xích lô dừng đón khách",
+      "intent": "Biết cách đi sau và vượt xe xích lô (thuộc nhóm xe thô sơ theo khoản 2 Điều 34 Luật số 36/2024/QH15) trên phố cổ: giữ khoảng cách vì xích lô có thể dừng hay quay đầu bất ngờ để đón khách, chỉ vượt bên trái khi đủ chỗ và chờ khi họ đang rẽ.",
+      "kw": "vượt xe xích lô ở phố cổ",
+      "kw2": [
+        "đi sau xích lô quanh Hồ Gươm",
+        "xích lô dừng đón khách bất ngờ"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "khách tự lái xe máy thuê quanh phố cổ Hà Nội, thường bị xích lô du lịch chạy chậm chắn đường hoặc dừng đón khách giữa làn",
+      "location_scope": "Hà Nội (phố cổ Hoàn Kiếm, quanh Hồ Gươm và các phố có xích lô đón khách)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-006",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Xe đưa đón học sinh dừng ven đường cho trẻ xuống: giảm tốc, chờ phía sau và canh những em chạy qua đầu xe",
+      "intent": "Biết cách đi qua đoạn đường có xe đưa đón học sinh đang dừng cho trẻ lên xuống (điểm e, điểm i khoản 3 Điều 12 Luật số 36/2024/QH15): giảm tốc từ xa, không vượt sát, chờ phía sau và canh trẻ chạy qua đầu xe; trẻ em dưới 7 tuổi khi qua đường phải có người lớn dẫn dắt (điểm a khoản 2 Điều 30).",
+      "kw": "xe đưa đón học sinh đang dừng",
+      "kw2": [
+        "vượt xe đưa đón học sinh",
+        "trẻ chạy qua đầu xe đưa đón"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "phụ huynh và người mới chuyển đến Hà Nội tự lái xe máy thuê, gặp xe đưa đón học sinh dừng ở cổng trường hoặc đầu ngõ",
+      "location_scope": "Hà Nội (cổng trường, đầu ngõ khu đô thị và các tuyến phố có trường học)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-007",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Cho bé đứng ở sàn để chân phía trước xe tay ga: vì sao dễ ngã khi phanh và cách cho bé ngồi sau cho vững",
+      "intent": "Hiểu vì sao để bé đứng ở sàn để chân phía trước người lái xe tay ga dễ ngã khi phanh gấp và liên quan tới điều cấm chở người đứng trên xe (điểm đ khoản 3 Điều 33 Luật số 36/2024/QH15), rồi biết cho bé ngồi sau, bám chắc, đội mũ vừa cỡ; trẻ em dưới 12 tuổi được chở thêm theo điểm c khoản 1 điều này.",
+      "kw": "bé đứng phía trước xe tay ga",
+      "kw2": [
+        "cho trẻ đứng ở sàn để chân xe ga",
+        "chở bé ngồi sau xe tay ga cho vững"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "gia đình có con nhỏ thuê xe tay ga ở Hà Nội, quen cho bé đứng phía trước người lái để dễ trông chừng",
+      "location_scope": "Hà Nội (phố nội thành, đường đê và ngõ nhỏ khi đưa con đi chơi, đi học)",
+      "word_target": 1300,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-008",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Chạy xe qua cổng bệnh viện lớn sau 22 giờ: không bấm còi, giảm tốc, xin vượt bằng đèn và nhường người nhà",
+      "intent": "Hiểu quy định ở khoản 2 Điều 21 Luật số 36/2024/QH15 (không dùng còi từ 22 giờ đến 5 giờ sáng trong khu đông dân cư và khu vực cơ sở khám bệnh, chữa bệnh) cùng khoản 5 Điều 14 về xin vượt bằng đèn, rồi biết cách đi qua cổng bệnh viện ban đêm: giảm tốc, nhường người nhà đi bộ và xe cấp cứu.",
+      "kw": "bấm còi gần bệnh viện ban đêm",
+      "kw2": [
+        "có được bấm còi ở bệnh viện không",
+        "xin vượt bằng đèn thay còi sau 22 giờ"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "người tự lái xe máy thuê ở Hà Nội, hay về khuya qua các tuyến có bệnh viện lớn và quen bấm còi để xin đường",
+      "location_scope": "Hà Nội (các tuyến có bệnh viện lớn như Giải Phóng, Tràng Thi, La Thành)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-009",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Rẽ phải khi có xe đạp, xe đạp điện đi sát lề bên phải: quan sát điểm mù, giảm tốc và nhường xe thô sơ",
+      "intent": "Biết cách quan sát điểm mù bên phải, giảm tốc và nhường xe đạp, xe đạp điện đi sát lề trước khi rẽ phải theo khoản 2 và khoản 3 Điều 15 Luật số 36/2024/QH15 (xe đạp và xe đạp điện thuộc nhóm xe thô sơ), thay vì vượt lên rồi cắt mặt ngay trước bánh xe của họ.",
+      "kw": "rẽ phải khi có xe đạp",
+      "kw2": [
+        "nhường xe đạp khi rẽ phải",
+        "điểm mù bên phải xe máy"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "người mới tự lái xe máy thuê ở Hà Nội, hay vượt lên rồi rẽ phải sát lề mà không nhìn xe đạp, xe đạp điện đang đi bên phải",
+      "location_scope": "Hà Nội (ngã tư và đầu ngõ trên các phố có nhiều học sinh, người đi chợ đi xe đạp)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-010",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Mèo hoặc chó nhỏ bất ngờ chạy ngang trước đầu xe máy: phanh thẳng, giữ lái, không đánh lái gấp để né",
+      "intent": "Biết cách xử lý trong vài giây khi mèo hoặc chó nhỏ lao ngang qua phố hay ngõ: nhả ga, bóp đều cả hai phanh, giữ tay lái thẳng và liếc gương xem xe sau thay vì bẻ lái sang làn bên; nhớ điểm g khoản 3 Điều 12 Luật số 36/2024/QH15 yêu cầu quan sát, giảm tốc khi có vật nuôi đi trên đường.",
+      "kw": "mèo chạy ngang trước xe máy",
+      "kw2": [
+        "chó lao ra đường khi đang chạy xe máy",
+        "có nên phanh gấp khi gặp mèo chạy ngang"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "người tự lái xe máy thuê ở Hà Nội, hay gặp mèo, chó thả rông chạy ngang trong ngõ, đường đê và phố ven hồ",
+      "location_scope": "Hà Nội (ngõ nhỏ, đường đê sông Hồng và phố ven hồ)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-011",
+      "child_id": "C-KY-NANG-CHO-DO",
+      "title": "Hàng buộc sau xe máy được rộng, nhô và cao tối đa bao nhiêu: tự đo bằng gang tay, sải tay trước khi siết dây",
+      "intent": "Biết cách tự đo kiện hàng để không vượt giới hạn xếp hàng ở khoản 5 Điều 33 Luật số 36/2024/QH15 (hàng không nhô quá giá đèo hàng 0,3 mét mỗi bên và 0,5 mét về phía sau theo thiết kế của nhà sản xuất, cao không quá 2 mét tính từ mặt đường), rồi chia nhỏ kiện hoặc đổi cách chở khi quá khổ.",
+      "kw": "giới hạn hàng chở sau xe máy",
+      "kw2": [
+        "chở hàng rộng bao nhiêu trên xe máy",
+        "chiều cao hàng chở xe máy tối đa"
+      ],
+      "links": [
+        "/ky-nang/cho-do-va-hanh-ly/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "người thuê xe máy ở Hà Nội cần chở thùng, bao hay đồ cồng kềnh sau xe và chưa biết kiện hàng thế nào là vừa",
+      "location_scope": "Hà Nội (khi mua đồ ở chợ, cửa hàng vật liệu và chuyển đồ về chỗ ở)",
+      "word_target": 1300,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-012",
+      "child_id": "C-KY-NANG-CHO-DO",
+      "title": "Chở thang nhôm gấp hoặc thang chữ A bằng xe máy: buộc dọc hay ngang, bọc hai đầu thang, không vác trên vai",
+      "intent": "Biết cách chở thang nhôm gấp, thang rút hoặc thang chữ A mua hay mượn bằng xe máy: gập khóa chắc, chọn buộc dọc thân xe hay ngang yên sau, bọc hai đầu thang, chằng ba điểm và đi chậm ở đoạn gió ngang, thay vì vác trên vai hay kẹp dưới nách khi lái.",
+      "kw": "chở thang nhôm bằng xe máy",
+      "kw2": [
+        "chở thang gấp chữ A xe máy",
+        "buộc thang sau yên xe máy"
+      ],
+      "links": [
+        "/ky-nang/cho-do-va-hanh-ly/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "người thuê xe máy ở Hà Nội vừa mua hoặc mượn thang để sửa nhà, thay bóng đèn, lau cửa và cần mang về trong một chuyến",
+      "location_scope": "Hà Nội (từ cửa hàng đồ điện nước, chợ vật liệu về nhà trọ và căn hộ)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-013",
+      "child_id": "C-KY-NANG-CHO-DO",
+      "title": "Chở vòng hoa viếng hoặc lẵng hoa khai trương bằng xe máy: chân đế, dải băng bay và cách giữ cho hoa không đổ",
+      "intent": "Biết cách chở vòng hoa viếng hay lẵng hoa chúc mừng mua ở tiệm hoa đến nhà tang lễ, lễ khai trương bằng xe máy: đặt chân đế sát yên, buộc chắc nhiều điểm, cuộn gọn dải băng để không vướng bánh xe hay che đèn hậu, và khi nào nên nhờ tiệm giao tận nơi.",
+      "kw": "chở vòng hoa viếng bằng xe máy",
+      "kw2": [
+        "chở lẵng hoa khai trương xe máy",
+        "vòng hoa chia buồn mang bằng xe máy"
+      ],
+      "links": [
+        "/ky-nang/cho-do-va-hanh-ly/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "người thuê xe máy ở Hà Nội cần mang vòng hoa đi viếng hoặc lẵng hoa đến lễ khai trương mà tiệm hoa không giao tận nơi",
+      "location_scope": "Hà Nội (từ tiệm hoa trong nội thành đến nhà tang lễ, nhà văn hóa và cửa hàng khai trương)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-014",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Nhìn kém khi trời tối, nghi quáng gà: có nên tự chạy xe máy buổi tối ở Hà Nội và khi nào cần đi khám mắt",
+      "intent": "Hiểu vì sao người nhìn kém khi trời nhá nhem hoặc nghi quáng gà nên đi khám mắt thay vì đoán, và nhớ khoản 2 Điều 59 Luật số 36/2024/QH15 yêu cầu người lái xe phải bảo đảm sức khỏe phù hợp; trong lúc chờ khám thì chạy ban ngày, tránh đường thiếu sáng và nhờ người chở khi chưa chắc.",
+      "kw": "quáng gà đi xe máy ban đêm",
+      "kw2": [
+        "nhìn kém buổi tối đi xe máy",
+        "mắt kém ban đêm có chạy xe được không"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "người thuê xe máy ở Hà Nội thấy mình nhìn rõ ban ngày nhưng mờ hẳn lúc chạng vạng và buổi tối, nhất là khi có đèn pha ngược chiều",
+      "location_scope": "Hà Nội (đường thiếu sáng, đường đê và các trục lớn vào buổi tối)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-015",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Vừa xuất viện sau phẫu thuật nhỏ: khi nào tự lái xe máy lại, đau vết mổ, thuốc giảm đau và hỏi bác sĩ trước",
+      "intent": "Biết cách quyết định thời điểm tự lái xe máy lại sau phẫu thuật nhỏ: hỏi bác sĩ điều trị, cân nhắc đau vết mổ, thuốc giảm đau và sức còn yếu, nhờ người chở những ngày đầu rồi tập lại bằng đoạn ngắn, và nhớ khoản 2 Điều 59 Luật số 36/2024/QH15 về sức khỏe phù hợp của người lái.",
+      "kw": "sau mổ khi nào đi xe máy",
+      "kw2": [
+        "mới xuất viện có tự chạy xe máy được không",
+        "đau vết mổ khi lái xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "người vừa ra viện sau mổ nhỏ ở Hà Nội, đang thuê xe máy để đi tái khám, đi làm và muốn biết khi nào tự lái lại",
+      "location_scope": "Hà Nội (đường từ bệnh viện về chỗ ở và các buổi tái khám)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W3X-016",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Đang chạy xe máy bỗng chảy máu cam: tấp vào lề, ngồi hơi cúi người, bóp cánh mũi và khi nào nên đi khám",
+      "intent": "Biết cách xử lý khi bỗng chảy máu cam lúc đang lái xe máy ở Hà Nội mùa hanh khô: dừng ở chỗ an toàn, ngồi hơi cúi người về trước, bóp phần mềm của mũi, thở bằng miệng, chờ máu cầm rồi mới chạy tiếp, và nhận biết dấu hiệu cần đi khám hoặc gọi cấp cứu.",
+      "kw": "chảy máu cam khi chạy xe máy",
+      "kw2": [
+        "xử lý chảy máu cam trên đường",
+        "máu cam mùa hanh khô đi xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-20-W3X",
+      "audience": "người thuê xe máy ở Hà Nội gặp mũi khô, bụi mịn nên bỗng chảy máu cam giữa chuyến đi",
+      "location_scope": "Hà Nội (đường phố và ven đê trong những ngày hanh khô, nhiều bụi)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-20T04:56:22+00:00",
+      "materialized_head": "b8e8cb775892071419d2970dabaf006f774d11bb"
     }
   ]
 }
