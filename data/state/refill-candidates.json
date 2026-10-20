@@ -3,13 +3,470 @@
     "note": "Staging tu data/factory/refill-batches/ boi stage-refill-batch.py: candidate phai qua gate G1-G8 cua refill-queue.py --verify; FAIL thi rollback nguyen ven. Materialize boi refill-queue.py --refill --yes.",
     "created": "2026-09-27",
     "smoke_test": true,
-    "status": "MATERIALIZED",
+    "status": "STAGED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-20T11:31:54+00:00",
-    "staged_at": "2026-10-20T11:31:49+00:00"
+    "staged_at": "2026-10-20T11:43:46+00:00"
   },
-  "candidates": [],
+  "candidates": [
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-001",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Đi biển Đồ Sơn theo quốc lộ 5: nên thuê Wave, Vision hay Air Blade để chạy cạnh xe container",
+      "intent": "Biết cách chọn dòng xe thuê cho chặng Hà Nội – Đồ Sơn dài trên quốc lộ 5 đông xe container và gió biển, cân nhắc độ vững, sức máy, tư thế ngồi lâu và giá thuê ngày.",
+      "kw": "thuê xe máy đi đồ sơn",
+      "kw2": [
+        "xe máy đi biển đồ sơn",
+        "quốc lộ 5 xe container xe máy"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "nhóm bạn trẻ đi biển cuối tuần từ Hà Nội",
+      "location_scope": "Hà Nội – quốc lộ 5 – Hải Phòng – Đồ Sơn",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-002",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Đi Lục Ngạn mùa vải thiều rồi chở vài thùng vải về Hà Nội: nên thuê xe số hay xe ga",
+      "intent": "Hiểu nên chọn xe số có yên sau dài hay xe ga có sàn để chân khi đi Lục Ngạn mùa vải, lúc về phải chở thêm thùng vải nặng trên chặng quốc lộ dài.",
+      "kw": "thuê xe máy đi lục ngạn",
+      "kw2": [
+        "chở thùng vải thiều bằng xe máy",
+        "đi lục ngạn mùa vải bằng xe máy"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "gia đình, nhóm bạn đi mua vải tận vườn",
+      "location_scope": "Hà Nội – Bắc Giang – Lục Ngạn",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-003",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Leo núi Hàm Lợn ở Sóc Sơn: chọn xe thuê nào cho đường làng dốc hẹp và gửi chân núi cả buổi",
+      "intent": "Biết cách chọn xe thuê cho buổi leo núi Hàm Lợn: đi được đường bê tông dốc hẹp vào chân núi, dễ quay đầu, dễ dựng chân chống và yên tâm gửi lại nhiều giờ.",
+      "kw": "thuê xe đi núi hàm lợn",
+      "kw2": [
+        "xe máy đi sóc sơn leo núi",
+        "gửi xe chân núi hàm lợn"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "người thích trekking cuối tuần ở Hà Nội",
+      "location_scope": "Sóc Sơn, núi Hàm Lợn, hồ Đồng Quan",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-004",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Đi Vườn quốc gia Cúc Phương rồi về Hà Nội trong ngày: thuê xe nào để chặng dài đỡ mỏi",
+      "intent": "Lên kế hoạch chọn dòng xe thuê cho chuyến Cúc Phương đi về trong ngày, khi tổng quãng đường rất dài, cần yên ngồi êm, giữ tốc độ đều và còn sức cho đường trong rừng.",
+      "kw": "thuê xe máy đi cúc phương",
+      "kw2": [
+        "đi cúc phương trong ngày bằng xe máy",
+        "xe máy chạy chặng dài trong ngày"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "khách du lịch tự lái thích rừng, chỉ có một ngày rảnh",
+      "location_scope": "Hà Nội – Ninh Bình – Vườn quốc gia Cúc Phương",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-005",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Xuống bãi giữa sông Hồng, bãi đá ven sông chụp ảnh: nên thuê xe nào để đỡ sa lầy ở đường cát",
+      "intent": "Hiểu xe số, xe ga hay xe máy điện dễ đi hơn trên lối đất cát xuống các bãi ven sông Hồng, và lúc nào nên để xe ở chỗ nền chắc rồi đi bộ vào.",
+      "kw": "thuê xe nào xuống bãi sông hồng",
+      "kw2": [
+        "xe máy đi đường cát ven sông",
+        "bãi giữa sông hồng bằng xe máy"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "người đi chụp ảnh, dã ngoại ven sông",
+      "location_scope": "bãi giữa sông Hồng, bãi đá sông Hồng, ven đê Long Biên và Tây Hồ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-006",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Đi hội đầu năm đông như đền Sóc, đền Bà Chúa Kho: nên thuê xe nào để dắt qua đám đông và gửi bãi chật",
+      "intent": "Biết cách chọn xe thuê cho ngày đi lễ hội đầu xuân đông người: xe nhẹ, gọn để dắt bộ qua dòng người, xoay trở trong bãi gửi chật và chạy chậm vẫn ổn định.",
+      "kw": "thuê xe đi lễ hội đầu năm",
+      "kw2": [
+        "xe máy đi hội đền sóc",
+        "đi lễ bà chúa kho bằng xe máy"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "người đi lễ đầu năm cùng gia đình",
+      "location_scope": "Sóc Sơn (Hà Nội), Cổ Mễ (Bắc Ninh)",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-007",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Sắp mua đào, quất chơi Tết: thuê xe số hay xe ga thì chở cây về dễ dàng và an toàn hơn",
+      "intent": "Hiểu khác biệt giữa xe số có yên sau dài và xe ga có sàn để chân khi chở cành đào, chậu quất ngày Tết, để chọn xe hợp cỡ cây và quãng đường về nhà.",
+      "kw": "thuê xe chở đào quất tết",
+      "kw2": [
+        "xe số hay xe ga chở cây tết",
+        "chở cành đào bằng xe thuê"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "gia đình ở Hà Nội tự đi mua cây chơi Tết",
+      "location_scope": "Nhật Tân, Tứ Liên, Quảng An (Tây Hồ)",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-008",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Đưa chó mèo đi khám thú y hay đi chơi bằng xe thuê: xe ga sàn phẳng hay xe số dễ đặt lồng hơn",
+      "intent": "Biết cách chọn dòng xe thuê khi cần chở thú cưng trong lồng hoặc balo vận chuyển: chỗ đặt lồng, độ êm, người ngồi sau giữ lồng và quãng đường trong phố.",
+      "kw": "thuê xe nào để chở thú cưng",
+      "kw2": [
+        "xe ga hay xe số chở chó mèo",
+        "chở lồng thú cưng bằng xe máy"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "người nuôi chó mèo đang ở tạm tại Hà Nội",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-009",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Thợ sửa điện nước, điều hòa đi làm tận nhà: thuê xe số hay xe ga để chở hộp đồ nghề mỗi ngày",
+      "intent": "Nắm tiêu chí chọn xe thuê cho thợ sửa chữa tự do phải chở hộp đồ nghề nặng, len nhiều ngõ và dừng đỗ liên tục, so giữa xe số yên sau dài và xe ga sàn phẳng.",
+      "kw": "thợ sửa chữa thuê xe nào",
+      "kw2": [
+        "xe máy chở hộp đồ nghề",
+        "thuê xe số hay xe ga đi làm thợ"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "thợ điện nước, điều hòa, lắp mạng làm tự do",
+      "location_scope": "các quận nội thành và ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-010",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Cắm trại qua đêm ven hồ ngoại thành Hà Nội: thuê xe số hay xe ga để chở lều, bếp cho hai người",
+      "intent": "Hiểu nên chọn xe số hay xe ga khi đi cắm trại qua đêm: chỗ xếp lều, túi ngủ, bếp, độ vững khi chở đầy đồ và lối đất vào bãi trại ven hồ.",
+      "kw": "thuê xe máy đi cắm trại",
+      "kw2": [
+        "xe số hay xe ga đi cắm trại",
+        "chở đồ cắm trại cho hai người"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "cặp đôi, hai bạn đi cắm trại cuối tuần",
+      "location_scope": "hồ Đồng Mô, hồ Suối Hai, Sóc Sơn",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-011",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Quen chạy xe côn tay ở quê, ra Hà Nội thuê xe: Wave số tròn hay xe ga thì đỡ lóng ngóng giữa phố đông",
+      "intent": "Hiểu người quen xe côn tay nên chọn xe số Wave hay xe ga khi thuê ở Hà Nội, dựa trên thói quen bóp côn, cách sang số và nhịp dừng chạy liên tục trong phố.",
+      "kw": "quen xe côn tay thuê xe gì",
+      "kw2": [
+        "từ xe côn tay sang xe số",
+        "quen côn tay thuê xe ga"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "người từ tỉnh lên quen đi xe côn tay",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-012",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Từng thuê xe tay ga ở Thái Lan, Bali: sang Hà Nội nên chọn Honda Click quen tay hay thử Vision, Air Blade",
+      "intent": "Biết cách dùng kinh nghiệm thuê xe tay ga ở Đông Nam Á để chọn giữa Click, Vision và Air Blade ở Hà Nội, tính tới chiều đi bên phải, phố đông và giá thuê ngày.",
+      "kw": "quen xe click thái lan",
+      "kw2": [
+        "từng thuê xe tay ga ở bali",
+        "chọn xe ga ở hà nội cho khách du lịch"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "khách du lịch ba lô từng lái xe ở Thái Lan, Bali",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-013",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Ở nhà quen đi xe máy điện, ra Hà Nội vài ngày: thuê tiếp xe điện hay chuyển sang xe ga chạy xăng",
+      "intent": "Hiểu nên tiếp tục thuê xe máy điện hay chọn xe ga chạy xăng khi đến Hà Nội ngắn ngày, dựa trên chỗ sạc nơi ở, quãng đường dự kiến và cảm giác lái quen tay.",
+      "kw": "quen xe điện nên thuê xe gì",
+      "kw2": [
+        "đổi từ xe điện sang xe ga",
+        "người quen xe điện thuê xe xăng"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "người quen đi xe máy điện lên Hà Nội công tác, du lịch",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-014",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Cần mở bản đồ trên điện thoại suốt ngày: chọn xe thuê theo cổng sạc, hộc để máy và chỗ gắn giá đỡ",
+      "intent": "Nắm cách chọn xe thuê khi phải dùng điện thoại dẫn đường cả ngày: xe có cổng sạc hay không, chỗ cất máy, vị trí gắn giá đỡ và điều cần hỏi tiệm trước khi nhận.",
+      "kw": "xe thuê có cổng sạc điện thoại",
+      "kw2": [
+        "xe máy thuê sạc điện thoại",
+        "gắn giá đỡ điện thoại xe thuê"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "khách tự lái đi theo bản đồ điện thoại",
+      "location_scope": "Hà Nội và các tuyến ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-015",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Mùa nồm đường trơn ở Hà Nội: xe số hay xe ga, bánh lớn hay bánh nhỏ thì bám đường hơn khi chọn xe thuê",
+      "intent": "Hiểu cỡ bánh, độ mòn lốp, kiểu phanh và trọng lượng xe ảnh hưởng thế nào đến độ bám trên mặt đường ẩm trơn mùa nồm, để chọn xe thuê phù hợp tay lái.",
+      "kw": "chọn xe thuê mùa nồm",
+      "kw2": [
+        "xe số hay xe ga mùa nồm",
+        "đường trơn mùa nồm xe máy"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "người thuê xe từ tháng Hai đến tháng Tư",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-016",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Xe phải để ngoài trời qua đêm rét đậm: chọn xe thuê nào để sáng sớm dễ nổ máy và đi được ngay",
+      "intent": "Biết cách chọn dòng xe thuê khi chỗ ở không có nhà xe kín mùa rét: kiểu khởi động, cần đạp dự phòng, ắc quy và điều nên hỏi tiệm để sáng sớm xe nổ dễ.",
+      "kw": "xe thuê dễ nổ máy mùa rét",
+      "kw2": [
+        "chọn xe để ngoài trời mùa đông",
+        "xe có cần đạp khởi động"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "người ở trọ, homestay không có chỗ để xe trong nhà",
+      "location_scope": "Hà Nội mùa đông",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-017",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Nhận xe sát giờ đóng cửa, không kịp chạy thử: nên lấy dòng xe đã quen hay thử một dòng xe mới",
+      "intent": "Hiểu vì sao khi không có thời gian chạy thử nên ưu tiên dòng xe đã quen tay, và những bước kiểm tra nhanh nào vẫn cần làm trước khi rời tiệm vào buổi tối.",
+      "kw": "không kịp chạy thử xe thuê",
+      "kw2": [
+        "nhận xe buổi tối chọn xe nào",
+        "chọn xe quen tay khi thuê"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "khách đến Hà Nội muộn, nhận xe buổi tối",
+      "location_scope": "cửa hàng ở Long Biên, Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-018",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Hay quên đổ xăng hoặc ngại tìm cây xăng: chọn xe thuê theo bình xăng và đồng hồ báo xăng thế nào",
+      "intent": "Nắm cách xem đồng hồ báo xăng, hỏi tiệm về bình xăng của từng dòng xe khi chọn xe thuê, để người hay quên đổ xăng ít bị hết xăng giữa đường.",
+      "kw": "chọn xe thuê theo bình xăng",
+      "kw2": [
+        "hay quên đổ xăng nên thuê xe nào",
+        "đồng hồ báo xăng xe thuê"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "người bận rộn, khách du lịch ngại tìm cây xăng",
+      "location_scope": "Hà Nội và các chặng ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-019",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Thuê xe tháng ở Hà Nội, cuối tuần nào cũng chạy về quê cách 50 đến 80 km: nên chọn dòng xe nào",
+      "intent": "Lên kế hoạch chọn dòng xe thuê theo tháng vừa đi lại trong phố ngày thường vừa chạy đường tỉnh về quê mỗi cuối tuần, cân nhắc độ bền, chở đồ và giá tháng.",
+      "kw": "thuê xe tháng về quê cuối tuần",
+      "kw2": [
+        "xe máy đi phố và về quê",
+        "chọn xe thuê tháng chạy đường tỉnh"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "người đi làm ở Hà Nội có quê ở tỉnh lân cận",
+      "location_scope": "Hà Nội và các tỉnh lân cận như Hưng Yên, Bắc Ninh, Ninh Bình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-020",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Xe càng to, càng nặng thì càng an toàn cho người mới: đúng hay sai khi chọn xe thuê ở Hà Nội",
+      "intent": "Hiểu vì sao kích thước và trọng lượng xe không tự làm người mới an toàn hơn, và nên ưu tiên chống chân, dắt xe, phanh, làm chủ tốc độ khi chọn xe thuê.",
+      "kw": "xe to có an toàn hơn không",
+      "kw2": [
+        "người mới chọn xe nặng hay nhẹ",
+        "xe nhẹ hay xe nặng an toàn hơn"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "người mới lái hoặc lâu không lái",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-021",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Quen chạy đường quê vắng, lần đầu lái giữa phố Hà Nội đông: thuê xe số quen tay hay xe ga cho nhàn",
+      "intent": "Hiểu người lái vững ở quê nhưng chưa quen mật độ xe Hà Nội nên chọn xe số quen tay hay xe ga, dựa trên dừng đỗ liên tục, đèn đỏ, phố một chiều và giờ cao điểm.",
+      "kw": "quen đường quê thuê xe nào",
+      "kw2": [
+        "lần đầu lái xe ở phố đông",
+        "người tỉnh lên hà nội chọn xe"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "người từ tỉnh lên Hà Nội học tập, làm việc",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-022",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Làm người dẫn đầu hoặc đi cuối trong đoàn xe máy: nên thuê xe khác các thành viên không và chọn dòng nào",
+      "intent": "Biết cách chọn xe thuê cho người dẫn đoàn và người đi cuối đoàn: sức máy để đuổi kịp, chỗ chở đồ dự phòng, đèn còi rõ và độ quen tay khi phải dừng đỗ nhiều.",
+      "kw": "thuê xe cho người dẫn đoàn",
+      "kw2": [
+        "người đi cuối đoàn xe máy",
+        "chọn xe cho trưởng đoàn đi phượt"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "trưởng nhóm tổ chức chuyến xe máy cho bạn bè, đồng nghiệp",
+      "location_scope": "các cung đường ngoại thành Hà Nội và tỉnh lân cận",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-023",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Ngại xe nhiều nút bấm, khóa thông minh, đèn báo lạ: người không rành công nghệ nên thuê dòng xe nào",
+      "intent": "Hiểu dòng xe nào có cách mở máy, khóa xe và bảng đồng hồ đơn giản hơn, để người lớn tuổi hoặc người không rành công nghệ chọn xe thuê mà không lúng túng.",
+      "kw": "xe thuê ít nút bấm dễ dùng",
+      "kw2": [
+        "xe chìa cơ hay khóa thông minh",
+        "người lớn tuổi ngại xe smartkey"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "người lớn tuổi, người ít dùng thiết bị điện tử",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-076-024",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Ở trong ngõ ven đê sông Hồng, ngày nào cũng lên xuống dốc đê ngắn mà gắt: nên thuê xe số hay xe ga",
+      "intent": "Hiểu nên chọn xe số hay xe ga khi mỗi ngày phải leo các dốc đê ngắn, gắt từ ngõ lên đường đê đông xe, dừng giữa dốc rồi nhập dòng an toàn.",
+      "kw": "ở ven đê nên thuê xe nào",
+      "kw2": [
+        "xe số hay xe ga lên dốc đê",
+        "dốc đê sông hồng xe máy"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-076",
+      "audience": "người thuê trọ, homestay ở các ngõ ven đê",
+      "location_scope": "Âu Cơ, Nghi Tàm, Yên Phụ, Ngọc Thụy",
+      "word_target": 1200
+    }
+  ],
   "rejected": [
     {
       "candidate_id": "CAND-2026-001-R01",
