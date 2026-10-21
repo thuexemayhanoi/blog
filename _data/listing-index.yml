@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 366
   size: 12
-  total: 4381
+  total: 4388
 chia-se:
   pages: 10
   size: 12
@@ -83,11 +83,11 @@ topic:
   hoi-dap_hoi-dap-su-co:
     pages: 3
     size: 24
-    total: 69
+    total: 71
   hoi-dap_hoi-dap-thu-tuc:
     pages: 3
     size: 24
-    total: 65
+    total: 66
   du-lich_ho-tay:
     pages: 4
     size: 24
@@ -179,15 +179,15 @@ topic:
   thue-xe_nhan-tra-xe:
     pages: 9
     size: 24
-    total: 195
+    total: 196
   thue-xe_khach-quoc-te:
     pages: 5
     size: 24
     total: 110
   thue-xe_su-co:
-    pages: 8
+    pages: 9
     size: 24
-    total: 188
+    total: 194
   thue-xe_thue-thang:
     pages: 7
     size: 24
