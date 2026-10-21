@@ -56,7 +56,7 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-HOI-DAP | Hỏi đáp về giá (C-HD-GIA) | 0 | 51 | 90 | /hoi-dap/hoi-dap-gia/ |
 | P-HOI-DAP | Hỏi đáp thủ tục (C-HD-THU-TUC) | 0 | 66 | 90 | /hoi-dap/hoi-dap-thu-tuc/ |
 | P-HOI-DAP | Hỏi đáp pháp lý (C-HD-PHAP-LY) | 0 | 75 | 90 | /hoi-dap/hoi-dap-phap-ly/ |
-| P-HOI-DAP | Hỏi đáp chọn xe (C-HD-CHON-XE) | 0 | 59 | 90 | /hoi-dap/hoi-dap-chon-xe/ |
+| P-HOI-DAP | Hỏi đáp chọn xe (C-HD-CHON-XE) | 0 | 83 | 90 | /hoi-dap/hoi-dap-chon-xe/ |
 | P-HOI-DAP | Hỏi đáp sự cố (C-HD-SU-CO) | 0 | 71 | 90 | /hoi-dap/hoi-dap-su-co/ |
 | P-HOI-DAP | Hỏi đáp người mới (C-HD-NGUOI-MOI) | 18 | 49 | 90 | /hoi-dap/hoi-dap-nguoi-moi/ |
 | P-THUE-XE | Thuê xe theo đối tượng (C-THUE-DOI-TUONG) | 0 | 54 | 80 | /thue-xe/thue-theo-doi-tuong/ |
@@ -68,4 +68,4 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 5581 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 5605 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
