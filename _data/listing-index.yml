@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 376
   size: 12
-  total: 4501
+  total: 4510
 chia-se:
   pages: 10
   size: 12
@@ -59,7 +59,7 @@ topic:
   an-toan-phap-ly_giay-to:
     pages: 4
     size: 24
-    total: 92
+    total: 95
   an-toan-phap-ly_giay-phep-lai-xe:
     pages: 5
     size: 24
@@ -79,7 +79,7 @@ topic:
   hoi-dap_hoi-dap-phap-ly:
     pages: 3
     size: 24
-    total: 71
+    total: 72
   hoi-dap_hoi-dap-su-co:
     pages: 3
     size: 24
@@ -147,7 +147,7 @@ topic:
   an-toan-phap-ly_phat-nguoi:
     pages: 4
     size: 24
-    total: 76
+    total: 82
   du-lich_pho-co:
     pages: 4
     size: 24
