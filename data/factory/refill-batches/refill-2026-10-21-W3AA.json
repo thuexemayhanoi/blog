@@ -1,0 +1,351 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W3AA: chu de that nhom phap ly (quy dinh, GPLX, phat nguoi, noi do cong, bao hiem), tao boi writer W3 theo gate G1-G8; da loc trung cheo cum (cross-child) truoc khi push.",
+  "created": "2026-10-21",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-001",
+   "child_id": "C-QUY-DINH",
+   "title": "Dựng xe máy sát cột đèn hoặc chắn biển báo ở ngã tư Hà Nội: vì sao luật cấm dừng đỗ che khuất báo hiệu",
+   "intent": "Hiểu quy định cấm dừng xe, đỗ xe ở vị trí che khuất biển báo hiệu đường bộ hoặc đèn tín hiệu giao thông, cách chọn chỗ dựng xe máy gần ngã tư và cột đèn để không chắn tầm nhìn của người khác.",
+   "kw": "đỗ xe che khuất biển báo",
+   "kw2": [
+    "dựng xe máy che đèn tín hiệu giao thông",
+    "cấm dừng đỗ che khuất báo hiệu đường bộ"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "người đi xe máy và người thuê xe ở Hà Nội hay tấp xe sát ngã tư để chờ người, nghe điện thoại hoặc xem bản đồ",
+   "location_scope": "Hà Nội (các ngã tư có cột đèn tín hiệu và biển báo trong nội thành)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-002",
+   "child_id": "C-QUY-DINH",
+   "title": "Hàng buộc lỏng rơi xuống đường khi chạy xe máy: luật cấm làm rơi vãi hàng hóa và trách nhiệm của người chở",
+   "intent": "Biết luật cấm làm rơi vãi hàng hóa, vật liệu trên đường bộ, vì sao hàng rơi từ xe máy có thể làm người đi sau ngã, nên làm gì ngay khi hàng vừa rơi và trách nhiệm của người chở.",
+   "kw": "làm rơi hàng trên đường xe máy",
+   "kw2": [
+    "rơi vãi hàng hóa trên đường bộ",
+    "hàng rơi từ xe máy gây tai nạn"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "người chở đồ mua ở chợ, hàng nhỏ hoặc hành lý bằng xe máy thuê ở Hà Nội",
+   "location_scope": "Hà Nội (các tuyến phố nội thành đông xe)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-003",
+   "child_id": "C-QUY-DINH",
+   "title": "Đội mũ bảo hộ công trình, mũ xe đạp hay mũ lưỡi trai đi xe máy: loại nào chưa phải mũ bảo hiểm đúng quy chuẩn",
+   "intent": "Hiểu luật yêu cầu người lái và người ngồi sau đội mũ bảo hiểm đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách, vì sao mũ bảo hộ lao động, mũ đi xe đạp hay mũ thời trang không thay được, và cách nhận biết mũ hợp quy trước khi chạy xe.",
+   "kw": "mũ bảo hộ công trình đi xe máy",
+   "kw2": [
+    "mũ xe đạp đi xe máy có được không",
+    "nhận biết mũ bảo hiểm đúng quy chuẩn"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "công nhân, thợ xây và người quen đội mũ lao động hoặc mũ thời trang khi đi xe máy hay thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội (nội thành và các công trường, khu đô thị đang xây dựng)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-004",
+   "child_id": "C-QUY-DINH",
+   "title": "Một tay cầm ô che mưa che nắng khi tự lái xe máy ở Hà Nội: luật cấm sử dụng ô và cách che chắn khác hợp lệ",
+   "intent": "Biết luật cấm người lái xe máy sử dụng ô khi đang điều khiển xe, vì sao một tay cầm ô làm mất kiểm soát tay lái khi có gió, và các cách che mưa, che nắng khác như áo mưa, mũ che gáy mà vẫn đúng luật.",
+   "kw": "cầm ô khi lái xe máy",
+   "kw2": [
+    "đi xe máy cầm ô có bị phạt không",
+    "che nắng che mưa khi đi xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "người đi xe máy ngại mặc áo mưa và khách du lịch thấy người địa phương cầm ô khi chạy xe ở Hà Nội",
+   "location_scope": "Hà Nội (đường phố nội thành trong ngày mưa và ngày nắng gắt)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-005",
+   "child_id": "C-GPLX",
+   "title": "Du khách nước ngoài bị tước quyền sử dụng bằng lái khi ở Hà Nội: thời gian tước không quá thời gian cư trú",
+   "intent": "Hiểu quy định riêng với người có giấy phép lái xe quốc tế vi phạm luật giao thông Việt Nam: thời gian bị tước quyền sử dụng có thời hạn không vượt quá thời gian được phép cư trú, khác với trừ điểm và tạm giữ giấy phép.",
+   "kw": "người nước ngoài bị tước bằng lái",
+   "kw2": [
+    "tước quyền sử dụng giấy phép lái xe quốc tế",
+    "thời gian tước bằng lái theo thời gian cư trú"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "du khách và người nước ngoài lưu trú ngắn hạn lái xe máy ở Hà Nội bằng giấy phép lái xe quốc tế",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-006",
+   "child_id": "C-GPLX",
+   "title": "Người nước ngoài có thẻ tạm trú ở Hà Nội xin giấy phép lái xe quốc tế: điều kiện theo luật giao thông đường bộ",
+   "intent": "Biết người nước ngoài có thẻ thường trú hoặc thẻ tạm trú tại Việt Nam và giấy phép lái xe còn giá trị có thể được cấp giấy phép lái xe quốc tế theo luật, và hiểu giấy phép nào làm cơ sở để xin cấp.",
+   "kw": "người nước ngoài xin bằng lái quốc tế",
+   "kw2": [
+    "giấy phép lái xe quốc tế cho người có thẻ tạm trú",
+    "thẻ tạm trú xin giấy phép lái xe quốc tế tại Việt Nam"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "người nước ngoài sống, học hoặc làm việc tại Hà Nội có thẻ tạm trú và đi xe máy hằng ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-007",
+   "child_id": "C-GPLX",
+   "title": "Giấy phép lái xe trên VNeID không hiện điểm hoặc chưa cập nhật: điểm vào hệ thống khi nào và hỏi ở đâu",
+   "intent": "Hiểu vì sao điểm của giấy phép lái xe có thể chưa hiện trên VNeID, thời điểm điểm trừ được cập nhật vào cơ sở dữ liệu sau khi quyết định xử phạt có hiệu lực, và cách kiểm tra, hỏi lại qua kênh chính thức.",
+   "kw": "bằng lái vneid không hiện điểm",
+   "kw2": [
+    "giấy phép lái xe trên VNeID chưa cập nhật điểm",
+    "điểm giấy phép lái xe cập nhật khi nào"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "người có bằng lái xe máy đã tích hợp vào VNeID nhưng không thấy số điểm, kể cả người đang thuê xe ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-008",
+   "child_id": "C-GPLX",
+   "title": "Lái xe điện bốn bánh chở khách quanh Hồ Gươm hay xe chở hàng bốn bánh: cần giấy phép lái xe hạng nào",
+   "intent": "Biết người điều khiển xe chở người hoặc chở hàng bốn bánh có gắn động cơ phải dùng giấy phép lái xe có hạng phù hợp với ô tô tương ứng chứ không phải hạng A1 của xe máy, và phân biệt các loại xe này với xe máy thuê.",
+   "kw": "xe điện bốn bánh cần bằng gì",
+   "kw2": [
+    "xe chở người bốn bánh có gắn động cơ",
+    "giấy phép lái xe xe điện du lịch"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "du khách và người làm dịch vụ du lịch ở Hà Nội thấy xe điện bốn bánh quanh Hồ Gươm, phân vân giữa xe máy và xe điện",
+   "location_scope": "Hà Nội (khu Hồ Gươm và phố cổ)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-009",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Xe máy bị tạm giữ phương tiện: thời hạn tối đa, khi nào được kéo dài và quyền nhận lại xe sau khi nộp phạt",
+   "intent": "Hiểu việc tạm giữ xe máy theo thủ tục hành chính chỉ áp dụng khi thật cần thiết, thời hạn tạm giữ tối đa, trường hợp được kéo dài, biên bản và quyết định tạm giữ, và lúc nào được nhận lại xe.",
+   "kw": "xe máy bị tạm giữ bao lâu",
+   "kw2": [
+    "thời hạn tạm giữ phương tiện vi phạm",
+    "nhận lại xe máy bị tạm giữ"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "người đi xe máy bị lập biên bản tạm giữ xe và khách đang thuê xe máy ở Hà Nội lo xe bị giữ lâu",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-010",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Xe máy còn quyết định xử phạt chưa chấp hành: có làm thủ tục đăng ký, sang tên hay đổi biển được không",
+   "intent": "Biết quy định chủ xe chưa thực hiện xong yêu cầu giải quyết vụ việc vi phạm giao thông thì chưa được giải quyết việc đăng ký phương tiện vi phạm, nên kiểm tra thông báo phạt nguội và xử lý xong trước khi bán, sang tên hoặc đổi biển.",
+   "kw": "xe máy còn nợ phạt sang tên",
+   "kw2": [
+    "còn thông báo phạt nguội chưa xử lý đăng ký xe",
+    "bán xe máy còn vi phạm chưa giải quyết"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "người đang bán, tặng hoặc mua lại xe máy ở Hà Nội và chủ xe từng nhận thông báo phạt nguội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-011",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Chưa xuất trình được giấy đăng ký xe hay bằng lái khi bị kiểm tra: trình lại trong thời hạn hẹn thì sao",
+   "intent": "Hiểu cách xử lý khi người điều khiển xe máy chưa xuất trình được giấy tờ lúc bị kiểm tra: lập biên bản, ngày hẹn giải quyết, việc xuất trình giấy tờ hoặc thông tin tích hợp trên tài khoản định danh điện tử trong thời hạn hẹn và khi nào xe bị tạm giữ.",
+   "kw": "quên mang giấy tờ khi đi xe máy",
+   "kw2": [
+    "xuất trình giấy tờ trong thời hạn hẹn",
+    "giấy tờ tích hợp VNeID khi bị kiểm tra"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "người đi xe máy và khách thuê xe ở Hà Nội để quên giấy đăng ký xe hoặc giấy phép lái xe khi bị cảnh sát giao thông kiểm tra",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-012",
+   "child_id": "C-NOI-DO-CONG",
+   "title": "Bị thương cấp cứu sau va chạm: cơ sở y tế lấy máu xét nghiệm cồn và ma túy theo luật, người nhà cần biết gì",
+   "intent": "Hiểu quy định cơ sở khám bệnh, chữa bệnh cấp cứu ban đầu người bị tai nạn giao thông phải báo cơ quan có thẩm quyền và xét nghiệm nồng độ cồn, chất ma túy trong máu của người điều khiển phương tiện, đồng thời vẫn phải cứu chữa nạn nhân.",
+   "kw": "xét nghiệm cồn sau tai nạn xe máy",
+   "kw2": [
+    "cơ sở y tế xét nghiệm nồng độ cồn người lái xe",
+    "cấp cứu tai nạn giao thông lấy máu xét nghiệm"
+   ],
+   "links": [
+    "/an-toan-phap-ly/noi-do-cong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "người đi xe máy bị thương nhập viện cấp cứu sau va chạm ở Hà Nội và người nhà đi cùng",
+   "location_scope": "Hà Nội (các cơ sở khám bệnh, chữa bệnh tiếp nhận cấp cứu)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-013",
+   "child_id": "C-NOI-DO-CONG",
+   "title": "Lỡ uống rượu bia đúng tối hẹn trả xe thuê: nhắn tiệm xin lùi giờ, để xe an toàn và không cầm lái về tiệm",
+   "intent": "Biết cách xử lý khi đã uống rượu bia mà xe máy thuê phải trả trong ngày: không lái xe vì luật cấm tuyệt đối nồng độ cồn, nhắn và hỏi trực tiếp tiệm về việc lùi giờ trả xe, chọn chỗ để xe an toàn và về chỗ ở bằng cách khác.",
+   "kw": "uống rượu bia chưa trả được xe thuê",
+   "kw2": [
+    "xin lùi giờ trả xe thuê vì đã uống rượu",
+    "không lái xe máy thuê khi đã uống bia"
+   ],
+   "links": [
+    "/an-toan-phap-ly/noi-do-cong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "khách thuê xe máy ở Hà Nội lỡ dự tiệc, uống rượu bia trước giờ phải trả xe cho tiệm",
+   "location_scope": "Hà Nội (khu quán xá trung tâm và nơi ở của khách)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-014",
+   "child_id": "C-NOI-DO-CONG",
+   "title": "Thời hạn tước bằng lái vì nồng độ cồn tính từ ngày nào: khi bằng đã bị giữ và khi chưa nộp cho người xử phạt",
+   "intent": "Hiểu cách tính thời điểm bắt đầu thời hạn tước quyền sử dụng giấy phép lái xe: khi giấy phép đã bị tạm giữ thì tính từ lúc quyết định xử phạt có hiệu lực, khi chưa tạm giữ được thì tính từ lúc người vi phạm xuất trình giấy phép để bị tạm giữ.",
+   "kw": "tước bằng lái tính từ ngày nào",
+   "kw2": [
+    "thời điểm bắt đầu tước quyền sử dụng giấy phép lái xe",
+    "bằng lái chưa bị giữ vẫn bị tước"
+   ],
+   "links": [
+    "/an-toan-phap-ly/noi-do-cong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "người bị xử phạt nồng độ cồn kèm tước giấy phép lái xe, kể cả người nước ngoài sắp rời Hà Nội hoặc người chưa mang theo bằng lúc bị lập biên bản",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-015",
+   "child_id": "C-BAO-HIEM",
+   "title": "Nghe tin bỏ bảo hiểm xe máy bắt buộc: hiện hành người đi xe máy vẫn phải mua và mang theo giấy chứng nhận",
+   "intent": "Hiểu bảo hiểm TNDS bắt buộc của chủ xe máy hiện vẫn là quy định có hiệu lực theo nghị định hướng dẫn và Luật Trật tự, an toàn giao thông đường bộ, cách phân biệt tin đồn với văn bản pháp luật và kiểm tra giấy chứng nhận của xe đang dùng.",
+   "kw": "bỏ bảo hiểm xe máy bắt buộc",
+   "kw2": [
+    "bảo hiểm xe máy bắt buộc còn áp dụng không",
+    "có phải mua bảo hiểm xe máy bắt buộc không"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "người đi xe máy và người thuê xe ở Hà Nội đọc tin đề xuất thay đổi bảo hiểm xe máy trên mạng và băn khoăn có còn phải mua",
+   "location_scope": "Hà Nội (toàn thành phố)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-016",
+   "child_id": "C-BAO-HIEM",
+   "title": "Bảo hiểm xe máy hết hạn vài ngày mới phát hiện: có bị coi là chưa có bảo hiểm, mua lại hiệu lực từ lúc nào",
+   "intent": "Biết cách xử lý khi phát hiện giấy chứng nhận bảo hiểm TNDS bắt buộc của xe máy đã quá hạn: xe đang đi đường bị coi là chưa có bảo hiểm, thời điểm bắt đầu hiệu lực của giấy mới, và vì sao không nên tiếp tục chạy xe khi chưa mua lại.",
+   "kw": "bảo hiểm xe máy hết hạn bị phạt",
+   "kw2": [
+    "giấy bảo hiểm xe máy quá hạn mua lại",
+    "thời điểm hiệu lực bảo hiểm xe máy mới mua"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "chủ xe và người thuê xe máy dài ngày ở Hà Nội hay quên ngày hết hạn giấy chứng nhận bảo hiểm",
+   "location_scope": "Hà Nội (toàn thành phố)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-017",
+   "child_id": "C-BAO-HIEM",
+   "title": "Du khách bị xe máy đâm ở Hà Nội sắp bay về nước: đề nghị bảo hiểm TNDS bồi thường và ủy quyền người làm thay",
+   "intent": "Hiểu người nước ngoài là người bị hại trong va chạm với xe máy vẫn có quyền yêu cầu doanh nghiệp bảo hiểm TNDS của bên gây tai nạn bồi thường, cần giữ giấy tờ nào, và cách ủy quyền cho người ở lại Hà Nội nộp hồ sơ, nhận tiền thay.",
+   "kw": "du khách bị xe máy đâm",
+   "kw2": [
+    "người nước ngoài đòi bảo hiểm TNDS",
+    "ủy quyền nhận bồi thường khi về nước"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "khách du lịch nước ngoài bị xe máy đâm trong thời gian ngắn ở Hà Nội và người thân, bạn bè ở lại hỗ trợ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AA-018",
+   "child_id": "C-BAO-HIEM",
+   "title": "Được chào mua bảo hiểm xe máy tự nguyện: quyền hỏi rõ điều khoản loại trừ và nhận bản điều khoản trước khi ký",
+   "intent": "Biết người mua bảo hiểm xe máy tự nguyện có quyền được doanh nghiệp bảo hiểm hoặc đại lý giải thích rõ quyền lợi, điều khoản loại trừ và điều kiện bồi thường, nhận quy tắc, điều khoản bảo hiểm và kê khai trung thực trước khi ký hợp đồng.",
+   "kw": "đại lý chào mời bảo hiểm xe máy",
+   "kw2": [
+    "quyền được giải thích điều khoản loại trừ bảo hiểm",
+    "đọc điều khoản trước khi ký bảo hiểm xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AA",
+   "audience": "chủ xe và người dùng xe máy ở Hà Nội hay bị gọi điện, nhắn tin hoặc nhân viên ở quầy chào mời mua bảo hiểm tự nguyện",
+   "location_scope": "Hà Nội (toàn thành phố)",
+   "word_target": 1300
+  }
+ ]
+}

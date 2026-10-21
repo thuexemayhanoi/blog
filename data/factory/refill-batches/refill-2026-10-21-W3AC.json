@@ -1,0 +1,351 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W3AC: chu de that, tao boi writer W3 theo gate G1-G8; da loc trung cheo cum (cross-child) truoc khi push.",
+  "created": "2026-10-21",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-001",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Đèn xanh đã bật lâu khi còn xa ngã tư: đọc độ già của đèn, thả ga sớm và không chạy đua với đèn vàng",
+   "intent": "Biết cách nhận ra đèn xanh sắp chuyển vàng từ khi còn cách ngã tư, nhìn hàng xe ở đường ngang, người đi bộ và xe phía trước để thả ga sớm, dừng êm trước vạch thay vì phanh gấp hay cố vượt.",
+   "kw": "đèn xanh sắp chuyển vàng xe máy",
+   "kw2": [
+    "đèn xanh sắp hết nên đi hay dừng",
+    "thả ga sớm khi tới ngã tư"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người mới lái xe máy ở Hà Nội hay bị bất ngờ khi đèn xanh đổi màu lúc đã gần vạch dừng",
+   "location_scope": "Hà Nội, các ngã tư lớn có đèn tín hiệu ở nội thành như trục Giải Phóng, Nguyễn Trãi, Xuân Thủy",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-002",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Rời đường thoáng vào phố đông thấy mình chạy chậm dù đồng hồ vẫn cao: mắt quen tốc độ và cách lấy lại cảm giác",
+   "intent": "Hiểu vì sao sau một đoạn đường dài, thoáng mắt quen tốc độ và đánh giá sai tốc độ thật khi vào phố đông, rồi tập liếc đồng hồ, nhả ga sớm và chọn vật mốc ven đường để lấy lại cảm giác đúng.",
+   "kw": "mắt quen tốc độ khi chạy xe",
+   "kw2": [
+    "chạy xe thấy chậm mà đồng hồ vẫn cao",
+    "vào phố đông sau đoạn đường thoáng"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người vừa chạy đoạn đường vắng, đê hoặc đường song hành rồi đi vào nội thành Hà Nội",
+   "location_scope": "Hà Nội, từ đê sông Hồng hoặc đường song hành Đại lộ Thăng Long vào nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-003",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Xe buýt, xe tải đang tới trông chậm và xa hơn thực tế: cách ước lượng trước khi rẽ ngang hoặc cắt qua đầu xe",
+   "intent": "Hiểu vì sao xe lớn đang tiến tới dễ bị đánh giá chậm và xa hơn thực tế, rồi tập chờ thêm một nhịp, quan sát xe phình to nhanh hay chậm và chỉ rẽ ngang hay cắt qua khi khoảng trống thật sự rộng.",
+   "kw": "ước lượng tốc độ xe tải đang tới",
+   "kw2": [
+    "ước lượng khoảng cách xe lớn khi rẽ",
+    "cắt qua đầu xe buýt bằng xe máy"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người đi xe máy hay phải rẽ ngang hoặc sang đường giữa dòng xe buýt, xe tải ở Hà Nội",
+   "location_scope": "Hà Nội, các trục có nhiều xe buýt và xe tải như Nguyễn Văn Cừ, Ngô Gia Tự, Phạm Văn Đồng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-004",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Lên xuống xe máy cho người mới: bóp phanh giữ xe, bước chân qua yên, gạt chân chống rồi mới cho người sau lên",
+   "intent": "Biết cách tự lên và xuống xe máy an toàn: bóp phanh để xe không tự lăn, bước chân qua yên, gạt chân chống đúng lúc và dặn người ngồi sau chỉ lên khi xe đã đứng vững.",
+   "kw": "cách lên xuống xe máy an toàn",
+   "kw2": [
+    "lên xe máy từ bên nào",
+    "xuống xe máy đúng cách"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người mới lái hoặc lâu không đi xe máy, hay sợ xe tự lăn hoặc đổ khi lên xuống, nhất là khi chở người sau",
+   "location_scope": "Hà Nội, thao tác tại chỗ khi nhận xe, lúc dừng ven đường và khi gửi xe",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-005",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Đèn nền đồng hồ xe thuê không sáng khi đi đêm: không đọc được kim xăng và tốc độ thì đi tiếp hay dừng báo tiệm",
+   "intent": "Nhận biết khi đèn nền đồng hồ tối nhưng đèn pha vẫn sáng, biết tấp vào chỗ sáng để đọc kim xăng, ước lượng xăng theo quãng đã chạy, giảm tốc và báo cửa hàng thay vì tự tháo mặt đồng hồ.",
+   "kw": "đèn nền đồng hồ xe không sáng",
+   "kw2": [
+    "đồng hồ xe máy tối ban đêm",
+    "không thấy kim xăng ban đêm"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người đang thuê xe máy ở Hà Nội, tối đi đường thấy mặt đồng hồ tối đen dù đèn pha vẫn sáng",
+   "location_scope": "Hà Nội, đường tối ngoại thành, ven đê và các tuyến vành đai buổi tối",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-006",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Vỏ đèn hậu, đèn xi nhan xe thuê nứt vỡ sau va quẹt nhẹ: đèn còn sáng không, che tạm chống nước, đi đêm thế nào",
+   "intent": "Biết kiểm tra đèn phanh và xi nhan còn sáng sau khi vỏ đèn nứt vỡ, che tạm bằng băng keo trong để nước mưa không lọt vào, chụp ảnh tình trạng và báo cửa hàng trước khi chạy đêm.",
+   "kw": "vỡ vỏ đèn hậu xe máy thuê",
+   "kw2": [
+    "nứt kính đèn xi nhan xe máy",
+    "đèn hậu vỡ có đi tiếp được không"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người thuê xe máy lỡ va quẹt nhẹ khi đỗ hoặc dắt xe, thấy nhựa đèn sau nứt hoặc vỡ",
+   "location_scope": "Hà Nội, tại bãi gửi xe, hầm chung cư và trên đường về buổi tối",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-007",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Xe thuê tắt máy hoặc đèn chớp khi bẻ lái hết cỡ để quay đầu: nghi dây điện hay dây ga bị kéo căng ở cổ lái",
+   "intent": "Nhận biết triệu chứng xe tắt máy hoặc đèn chập chờn chỉ khi bẻ lái hết cỡ, biết quay đầu bằng vòng rộng hơn, không tự tháo ốp đầu xe và báo cửa hàng để kiểm tra dây điện, dây ga ở cổ lái.",
+   "kw": "tắt máy khi bẻ lái hết cỡ",
+   "kw2": [
+    "bẻ lái hết cỡ đèn chập chờn",
+    "quay đầu xe máy bị tắt máy"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người đang thuê xe máy ở Hà Nội thấy xe tắt hoặc đèn chớp mỗi lần quay đầu trong ngõ hẹp",
+   "location_scope": "Hà Nội, ngõ nhỏ và bãi gửi xe chật nơi phải quay đầu bẻ lái hết cỡ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-008",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Gia đình có em bé còn nhỏ ở Hà Nội vài ngày: thuê xe máy tự lái hay đi taxi, xe công nghệ ô tô cho bé yên tâm",
+   "intent": "So sánh thuê xe máy tự lái với đi taxi hoặc xe công nghệ ô tô khi trong nhà có em bé còn nhỏ, chưa đội được mũ bảo hiểm vừa đầu, để chọn cách đi hợp lý theo từng chặng, giờ giấc và thời tiết.",
+   "kw": "thuê xe máy hay taxi với em bé",
+   "kw2": [
+    "đi Hà Nội với em bé nên thuê xe máy hay taxi",
+    "chở em bé nhỏ bằng xe máy hay ô tô"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "bố mẹ đưa em bé còn nhỏ đến Hà Nội vài ngày và đang cân nhắc giữa xe máy tự lái với taxi, xe công nghệ",
+   "location_scope": "Hà Nội, các chặng trong nội thành và quanh Hồ Tây, phố cổ, khu Long Biên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-009",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Đưa đón con tiểu học mỗi ngày: thuê xe máy theo tháng hay đăng ký xe đưa đón của trường",
+   "intent": "So sánh thuê xe máy theo tháng để tự đưa đón con tiểu học với đăng ký xe đưa đón của trường, về giờ giấc, chỗ dừng đón, người trông con và những ngày thay đổi lịch.",
+   "kw": "thuê xe máy hay xe trường đưa đón",
+   "kw2": [
+    "xe đưa đón của trường hay tự đưa đón con",
+    "đưa con đi học bằng xe máy thuê tháng"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "phụ huynh mới chuyển đến Hà Nội, con học tiểu học và đang cân nhắc cách đưa đón mỗi ngày",
+   "location_scope": "Hà Nội, quãng giữa chỗ ở, trường tiểu học và nơi làm việc của phụ huynh",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-010",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Đi Hà Giang nên đi xe máy hay ô tô: số ngày, đường đèo, chở đồ và chỗ dừng chụp ảnh khác nhau thế nào",
+   "intent": "So sánh đi vòng cung Hà Giang bằng xe máy tự lái với đi ô tô hoặc xe khách: số ngày cần, độ khó đường đèo, chở đồ, thời tiết, chuyện dừng ngắm cảnh và ai hợp với cách nào, để chọn trước khi thuê xe.",
+   "kw": "đi hà giang xe máy hay ô tô",
+   "kw2": [
+    "đi hà giang nên đi xe máy hay ô tô",
+    "so sánh đi hà giang xe máy và ô tô"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người đang lên kế hoạch đi Hà Giang từ Hà Nội, phân vân giữa xe máy thuê và ô tô",
+   "location_scope": "Hà Nội – Hà Giang, vòng cung Quản Bạ, Yên Minh, Đồng Văn, Mèo Vạc (nay thuộc tỉnh Tuyên Quang)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-011",
+   "child_id": "C-HONDA-VISION",
+   "title": "Tay ga Honda Vision hơi rơ ở đầu hành trình: thử bằng ngón tay lúc nhận xe, phân biệt với dây ga chùng",
+   "intent": "Tự thử độ rơ nhỏ ở đầu hành trình tay ga khi nhận Honda Vision, nhận ra khi rơ quá nhiều, tay ga nặng hoặc không tự trả về để nhờ tiệm kiểm tra dây ga trước khi chạy.",
+   "kw": "độ rơ tay ga honda vision",
+   "kw2": [
+    "tay ga honda vision bị rơ",
+    "kiểm tra tay ga xe ga lúc nhận xe"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người sắp nhận Honda Vision thuê, lần đầu dùng xe ga và thấy tay ga hơi lỏng ở đầu hành trình",
+   "location_scope": "Hà Nội, thử ngay tại cửa hàng cho thuê trước khi lăn bánh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-012",
+   "child_id": "C-HONDA-VISION",
+   "title": "Honda Vision hụt ga khi tăng tốc hoặc lên dốc: phân biệt hụt thoáng qua với hụt kéo dài và khi nào báo tiệm",
+   "intent": "Nhận biết triệu chứng Honda Vision hụt ga hoặc hụt hơi khi vặn ga tăng tốc, lên dốc cầu: hụt thoáng qua lúc máy nguội hay gần hết xăng khác với hụt kéo dài; biết xem kim xăng, giữ ga đều và báo tiệm trước khi đi xa.",
+   "kw": "honda vision bị hụt ga",
+   "kw2": [
+    "vision hụt hơi khi tăng tốc",
+    "xe ga bị hụt ga khi lên dốc"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người đang thuê Honda Vision thấy xe hụt hơi lúc vặn ga hoặc khi lên dốc cầu",
+   "location_scope": "Hà Nội, dốc cầu vượt, dốc cầu Vĩnh Tuy, Chương Dương và các nút giao đông xe",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-013",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Honda Wave vào số 1 vặn ga nhẹ mà xe chưa chạy: côn tự động cần chút vòng tua mới ăn và khi nào là côn yếu",
+   "intent": "Hiểu vì sao côn tự động của xe số cần chút vòng tua mới ăn khi xuất phát, tập vặn ga vừa đủ thay vì rồ ga, và nhận ra dấu hiệu côn yếu để báo tiệm.",
+   "kw": "wave vào số 1 xe không chạy",
+   "kw2": [
+    "xe số vặn ga nhẹ chưa chạy",
+    "côn tự động wave ăn khi nào"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người quen xe ga lần đầu thuê Honda Wave, thấy vào số 1 vặn ga nhẹ xe vẫn đứng yên",
+   "location_scope": "Hà Nội, tập tại bãi rộng hoặc đoạn đường vắng gần cửa hàng trước khi ra phố",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-014",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Honda Wave thuê đổ xăng E10 hay E5 RON 92: hỏi tiệm xe dùng loại nào và đọc tem trên xe trước khi bơm",
+   "intent": "Biết từ 1/6/2026 cây xăng bán xăng E10 thay xăng khoáng RON 95 và vẫn còn xăng E5 RON 92 đến hết năm 2030, rồi hỏi tiệm chiếc Honda Wave đang thuê nên đổ loại nào, đọc tem nhiên liệu trên xe và không tự đổi loại giữa chừng.",
+   "kw": "wave đổ xăng e10 được không",
+   "kw2": [
+    "xe wave đi xăng e10 có sao không",
+    "xe số chế hòa khí đổ e10"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người thuê Honda Wave phân vân khi đứng trước cột bơm ghi E10 hoặc E5 RON 92",
+   "location_scope": "Hà Nội, các cây xăng trong nội thành và ven đô trước khi đi xa",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-015",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Sạt lở quốc lộ 2 đi Hà Giang mùa mưa bão: tra tin chính thống, chờ thông đường và không băng qua điểm sạt",
+   "intent": "Biết cách theo dõi thông tin sạt lở trên quốc lộ 2 đoạn Bắc Quang – thành phố Hà Giang từ nguồn chính thống, quyết định hoãn hay đổi lịch chuyến xe máy, chờ lực lượng chức năng thông đường và không tự băng qua điểm đất đá chưa ổn định.",
+   "kw": "sạt lở quốc lộ 2 đi Hà Giang",
+   "kw2": [
+    "đường lên Hà Giang bị sạt lở",
+    "tra tình hình quốc lộ 2 trước khi đi Hà Giang"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người định chạy xe máy từ Hà Nội lên Hà Giang vào mùa mưa bão",
+   "location_scope": "quốc lộ 2 đoạn qua Bắc Quang và thành phố Hà Giang (nay thuộc tỉnh Tuyên Quang)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-016",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Cao nguyên đá Đồng Văn là Công viên địa chất toàn cầu UNESCO: gồm những nơi nào và dừng xe ngắm đá ở đâu",
+   "intent": "Hiểu Cao nguyên đá Đồng Văn được UNESCO công nhận là Công viên địa chất toàn cầu gồm các vùng Quản Bạ, Yên Minh, Đồng Văn, Mèo Vạc, rồi biết dừng xe ngắm đá, hang, vách núi ở chỗ hợp lệ và giữ gìn di sản trên đường đi.",
+   "kw": "công viên địa chất Đồng Văn",
+   "kw2": [
+    "cao nguyên đá Đồng Văn UNESCO",
+    "đi xe máy ngắm đá ở Đồng Văn"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người chạy xe máy lên Hà Giang muốn hiểu vì sao cao nguyên đá Đồng Văn đặc biệt trước khi lên đường",
+   "location_scope": "cao nguyên đá Đồng Văn, gồm các vùng Quản Bạ, Yên Minh, Đồng Văn, Mèo Vạc (nay thuộc tỉnh Tuyên Quang)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-017",
+   "child_id": "C-CD-MAI-CHAU",
+   "title": "Đá rơi và taluy dương trên đèo Thung Khe (đèo Đá Trắng): đọc biển cảnh báo, không dừng sát vách đá",
+   "intent": "Biết nhận diện đoạn vách đá và taluy dương dễ đá rơi trên đèo Thung Khe (đèo Đá Trắng) ở quốc lộ 6, đọc biển cảnh báo, chọn chỗ dừng nghỉ xa chân vách và tránh dừng chụp ảnh khi mưa lớn hoặc sương dày.",
+   "kw": "đá rơi đèo Thung Khe",
+   "kw2": [
+    "đèo Đá Trắng đá rơi sạt lở",
+    "dừng xe an toàn trên đèo Thung Khe"
+   ],
+   "links": [
+    "/cung-duong/mai-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người chạy xe máy từ Hà Nội đi Mai Châu, hay dừng chụp ảnh và nghỉ chân trên đèo",
+   "location_scope": "đèo Thung Khe (đèo Đá Trắng) trên quốc lộ 6, đoạn qua xã Mai Châu, tỉnh Phú Thọ",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-21-W3AC-018",
+   "child_id": "C-CD-MAI-CHAU",
+   "title": "Quốc lộ 6 qua đèo Thung Khe bị sạt lở chặn: đường vòng Ba Khan lên Mai Châu cho xe máy, khi nào nên chờ",
+   "intent": "Biết rằng khi quốc lộ 6 qua đèo Thung Khe bị sạt lở chặn, xe nhỏ có thể thử đường vòng qua Ba Khan lên Mai Châu nhưng mặt đường xấu và không dành cho xe lớn; hỏi lực lượng chức năng hoặc người địa phương trước, quyết định đi vòng hay chờ thông xe và về kịp trước khi trời tối.",
+   "kw": "đường vòng Ba Khan lên Mai Châu",
+   "kw2": [
+    "quốc lộ 6 đèo Thung Khe bị sạt lở",
+    "xe máy đi vòng Ba Khan khi tắc đèo"
+   ],
+   "links": [
+    "/cung-duong/mai-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-21-W3AC",
+   "audience": "người đang chạy xe máy từ Hà Nội đi Mai Châu thì gặp thông báo sạt lở chặn quốc lộ 6 ở đèo Thung Khe",
+   "location_scope": "quốc lộ 6 đoạn đèo Thung Khe và đường vòng qua thung lũng Ba Khan, xã Mai Châu, tỉnh Phú Thọ",
+   "word_target": 1300
+  }
+ ]
+}
