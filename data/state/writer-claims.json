@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-21T16:05:00Z",
+  "updated_at": "2026-10-21T16:06:25Z",
   "leases": {
     "W2": {
       "ids": [
@@ -25,16 +25,8 @@
     },
     "W3": {
       "ids": [
-        "BLG-05772",
-        "BLG-06089",
-        "BLG-06090",
-        "BLG-06091",
-        "BLG-06092",
-        "BLG-06093",
         "BLG-06094",
-        "BLG-06095",
-        "BLG-06096",
-        "BLG-06097"
+        "BLG-06096"
       ],
       "session": "s-claude-w3",
       "epoch": 1,
