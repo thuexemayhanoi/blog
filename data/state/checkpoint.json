@@ -1,7 +1,7 @@
 {
   "factory_version": 2,
   "capacity": 10000,
-  "updated_at": "2026-10-21T15:55:19+00:00",
+  "updated_at": "2026-10-21T16:02:23+00:00",
   "last_run_id": "publish-gate-BLG-06088",
   "status": "PARTIAL_BLOCKED",
   "matrix_status": "PRESENT_CREATED_NEW",
@@ -14,7 +14,7 @@
     "legacy_total": 483,
     "existing": 473,
     "review": 10,
-    "planned": 17,
+    "planned": 71,
     "writing": 0,
     "qa": 0,
     "pass": 0,

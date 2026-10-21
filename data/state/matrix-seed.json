@@ -1572,6 +1572,74 @@
           "audience": "người trẻ, nhóm bạn, khách du lịch thích chụp ảnh",
           "location_scope": "Hoàng Diệu, Phan Đình Phùng, Nhật Tân, Tây Hồ",
           "word_target": 1200
+        },
+        {
+          "title": "Dấu sao và dòng chữ nhỏ cuối bảng giá thuê xe máy: những điều kiện áp dụng cần hỏi lại trước khi chốt xe",
+          "intent": "Biết cách đọc dấu sao (*), ghi chú và dòng chữ nhỏ dưới bảng giá thuê xe máy: tìm điều kiện về số ngày tối thiểu, giờ nhận trả, khoản chưa gồm và dòng xe áp dụng, rồi nhắn hỏi lại từng điều kiện để có câu trả lời bằng chữ trước khi chuyển tiền; bài không thêm con số giá nào ngoài bảng giá đã duyệt.",
+          "kw": "điều kiện bảng giá thuê xe máy",
+          "kw2": [
+            "dấu sao cuối bảng giá thuê xe",
+            "ghi chú nhỏ trên bảng giá thuê xe máy"
+          ],
+          "links": [
+            "/thue-xe/gia-thue/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "người đang so bảng giá thuê xe máy ở Hà Nội và muốn hiểu rõ phần ghi chú trước khi đặt xe",
+          "location_scope": "Hà Nội, bảng giá tại cửa hàng, trên website và trang mạng xã hội của tiệm",
+          "word_target": 1200
+        },
+        {
+          "title": "Chuyển khoản tiền thuê xe máy khác ngân hàng hoặc từ nước ngoài: ai chịu phí chuyển và cách để tiệm nhận đủ",
+          "intent": "Hiểu vì sao số tiền tiệm nhận có thể ít hơn số đã chuyển khi chuyển khác ngân hàng hoặc từ tài khoản nước ngoài, hỏi trước ai chịu phí chuyển, chọn cách ghi nội dung và nhờ tiệm nhắn xác nhận đã nhận đủ tiền thuê; bài không nêu mức phí vì phí do từng ngân hàng quy định.",
+          "kw": "phí chuyển khoản thuê xe máy",
+          "kw2": [
+            "chuyển tiền thuê xe máy từ nước ngoài",
+            "ai chịu phí chuyển khoản khi thuê xe"
+          ],
+          "links": [
+            "/thue-xe/gia-thue/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "người trả tiền thuê xe máy bằng chuyển khoản, nhất là khi chuyển khác ngân hàng hoặc từ tài khoản nước ngoài",
+          "location_scope": "Hà Nội, trao đổi với cửa hàng trước và sau khi chuyển khoản",
+          "word_target": 1200
+        },
+        {
+          "title": "Được biết giá và điều kiện trước khi trả tiền thuê xe máy: Luật Bảo vệ quyền lợi người tiêu dùng 2023 nói gì",
+          "intent": "Hiểu ở mức nguyên tắc rằng Luật Bảo vệ quyền lợi người tiêu dùng 2023 (19/2023/QH15) cho người thuê quyền được cung cấp thông tin đầy đủ, chính xác về giá và điều kiện dịch vụ, rồi biết cách vận dụng: hỏi từng khoản, xin báo giá bằng tin nhắn, lưu lại và đối chiếu với biên nhận; bài không đưa con số giá cụ thể.",
+          "kw": "quyền được biết giá thuê xe máy",
+          "kw2": [
+            "luật bảo vệ người tiêu dùng khi thuê xe máy",
+            "yêu cầu báo giá rõ ràng khi thuê xe"
+          ],
+          "links": [
+            "/thue-xe/gia-thue/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "người thuê xe máy ở Hà Nội muốn biết mình được quyền hỏi gì về giá và điều kiện trước khi trả tiền",
+          "location_scope": "Hà Nội, khi hỏi giá và đặt xe với cửa hàng cho thuê",
+          "word_target": 1300
+        },
+        {
+          "title": "Thuê xe máy theo tháng chạy giao hàng: tính số đơn tối thiểu mỗi ngày để tiền thuê xe không ăn hết thu nhập",
+          "intent": "Biết cách tự tính điểm hòa vốn khi thuê xe tháng chạy giao hàng: lấy tiền thuê tháng do tiệm xác nhận chia cho số ngày chạy thực tế, cộng xăng và gửi xe, rồi chia cho thu nhập ròng mỗi đơn để biết cần ít nhất bao nhiêu đơn mỗi ngày; bài chỉ nêu công thức, không đưa số tiền cụ thể.",
+          "kw": "hòa vốn thuê xe máy chạy ship",
+          "kw2": [
+            "thuê xe máy tháng chạy ship có lời không",
+            "số đơn tối thiểu để trả tiền thuê xe"
+          ],
+          "links": [
+            "/thue-xe/gia-thue/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "người sắp thuê xe máy theo tháng để chạy giao hàng và muốn biết có đủ đơn để trả tiền thuê xe",
+          "location_scope": "Hà Nội, các khu nhận đơn và giao hàng nội thành",
+          "word_target": 1200
         }
       ]
     },
@@ -4041,6 +4109,74 @@
           "audience": "người chuẩn bị thuê xe máy ở Hà Nội và đang chọn tiệm qua đánh giá trực tuyến",
           "location_scope": "Hà Nội, trang bản đồ và đánh giá trực tuyến của các cửa hàng cho thuê xe",
           "word_target": 1300
+        },
+        {
+          "title": "Điều khoản giải quyết tranh chấp trong hợp đồng thuê xe máy: thương lượng, hòa giải hay tòa án, đọc sao cho rõ",
+          "intent": "Biết cách đọc điều khoản giải quyết tranh chấp trước khi ký hợp đồng thuê xe máy: hai bên thương lượng trước ra sao, có nêu hòa giải không, ghi cơ quan giải quyết nào, và người thuê nên hỏi hoặc đề nghị chỉnh câu chữ nào để hai bên hiểu giống nhau.",
+          "kw": "điều khoản tranh chấp thuê xe máy",
+          "kw2": [
+            "hợp đồng thuê xe ghi tòa án giải quyết",
+            "hòa giải khi tranh chấp thuê xe máy"
+          ],
+          "links": [
+            "/thue-xe/thu-tuc/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "người sắp ký hợp đồng thuê xe máy ở Hà Nội và muốn đọc kỹ điều khoản cuối hợp đồng",
+          "location_scope": "Hà Nội, tại quầy cửa hàng khi đọc và ký hợp đồng",
+          "word_target": 1300
+        },
+        {
+          "title": "Tiệm hỏi địa chỉ khách sạn hoặc nơi ở khi thuê xe: vì sao hỏi và trả lời thế nào nếu bạn chưa chốt chỗ ở",
+          "intent": "Hiểu vì sao cửa hàng cho thuê xe thường hỏi tên khách sạn, homestay hoặc địa chỉ nơi ở: để liên lạc và đối chiếu khi cần; biết cách cung cấp tên và địa chỉ đúng như thực tế, và trả lời thế nào khi chưa đặt phòng, ở nhà người quen hoặc sẽ đổi chỗ trong lúc thuê.",
+          "kw": "thuê xe hỏi địa chỉ nơi ở",
+          "kw2": [
+            "địa chỉ lưu trú khi thuê xe máy",
+            "chưa có khách sạn khi thuê xe máy"
+          ],
+          "links": [
+            "/thue-xe/thu-tuc/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "du khách và người mới đến Hà Nội bị cửa hàng thuê xe hỏi địa chỉ nơi ở khi làm thủ tục",
+          "location_scope": "Hà Nội, tại quầy cửa hàng hoặc khi nhắn tin đặt xe",
+          "word_target": 1200
+        },
+        {
+          "title": "Thông tin hai bên ở đầu hợp đồng thuê xe máy: hộ kinh doanh, người đại diện, người ký có khớp với tiệm không",
+          "intent": "Biết cách đọc phần thông tin hai bên ở đầu hợp đồng thuê xe: bên cho thuê là hộ kinh doanh hay công ty, tên chủ và người đại diện, địa chỉ, số điện thoại, người ký ở cuối trang có khớp với biển hiệu, tin nhắn đặt xe và biên nhận hay không, và hỏi lại điều gì khi thấy chưa khớp.",
+          "kw": "bên cho thuê xe ghi tên ai",
+          "kw2": [
+            "người ký hợp đồng thuê xe là chủ tiệm hay nhân viên",
+            "thông tin hai bên trong hợp đồng thuê xe máy"
+          ],
+          "links": [
+            "/thue-xe/thu-tuc/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "người sắp ký hợp đồng thuê xe máy và muốn biết mình đang ký với ai",
+          "location_scope": "Hà Nội, tại quầy cửa hàng khi đối chiếu hợp đồng với biển hiệu và tin nhắn",
+          "word_target": 1200
+        },
+        {
+          "title": "Tiệm đề nghị chia sẻ vị trí điện thoại trong thời gian thuê xe: hỏi mục đích, thời hạn và cách tắt khi trả xe",
+          "intent": "Biết cách trả lời khi cửa hàng cho thuê xe nhờ bật chia sẻ vị trí điện thoại hoặc gửi ghim vị trí: hỏi dùng để làm gì và trong bao lâu, chia sẻ qua Zalo hay Google Maps, chỉ chia sẻ trong thời gian thuê và nhớ tắt khi đã trả xe.",
+          "kw": "chia sẻ vị trí khi thuê xe",
+          "kw2": [
+            "tiệm thuê xe xin chia sẻ vị trí zalo",
+            "tắt chia sẻ vị trí sau khi trả xe thuê"
+          ],
+          "links": [
+            "/thue-xe/thu-tuc/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "người thuê xe máy ở Hà Nội được cửa hàng đề nghị chia sẻ vị trí điện thoại và lo về quyền riêng tư",
+          "location_scope": "Hà Nội, trên điện thoại khi dùng Zalo hoặc Google Maps trong thời gian thuê",
+          "word_target": 1200
         }
       ]
     },
@@ -6760,6 +6896,57 @@
           "audience": "người chơi cây cảnh, bonsai ở Hà Nội",
           "location_scope": "tuyến Hà Nội – Phủ Lý – Nam Định",
           "word_target": 1300
+        },
+        {
+          "title": "Đi đăng ký kết hôn bằng xe máy thuê một ngày: đến UBND đúng giờ hành chính, mang đủ giấy tờ, chụp ảnh sau đó",
+          "intent": "Lên kế hoạch một ngày thuê xe máy đi đăng ký kết hôn ở Hà Nội: kiểm tra giờ làm việc hành chính và danh mục giấy tờ trên Cổng dịch vụ công hoặc hỏi trực tiếp UBND, đến sớm tránh giờ đông, giữ giấy tờ khô và phẳng khi đi xe, rồi dành thời gian chụp ảnh kỷ niệm trước khi trả xe trước giờ cửa hàng đóng cửa.",
+          "kw": "đăng ký kết hôn bằng xe máy",
+          "kw2": [
+            "thuê xe máy đi đăng ký kết hôn",
+            "chụp ảnh sau khi đăng ký kết hôn ở hà nội"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "cặp đôi ở Hà Nội hoặc từ tỉnh về làm thủ tục đăng ký kết hôn trong một ngày",
+          "location_scope": "Hà Nội, UBND phường hoặc xã nơi làm thủ tục và vài điểm chụp ảnh gần đó",
+          "word_target": 1200
+        },
+        {
+          "title": "Nộp hồ sơ xin việc trực tiếp ở nhiều công ty trong một ngày: thuê xe máy, xếp tuyến theo khu, giữ hồ sơ phẳng",
+          "intent": "Biết cách xếp một ngày thuê xe máy đi nộp hồ sơ xin việc trực tiếp ở nhiều công ty tại Hà Nội: gom địa chỉ theo khu, gọi hẹn trước khi đến, mang bản in sạch phẳng trong túi chống nước, ghi lại nơi đã nộp và chừa giờ trả xe trước 21:00.",
+          "kw": "nộp hồ sơ xin việc nhiều nơi",
+          "kw2": [
+            "thuê xe máy đi nộp hồ sơ xin việc",
+            "xếp tuyến đi nộp cv nhiều công ty"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "người tìm việc ở Hà Nội đi nộp hồ sơ trực tiếp ở nhiều công ty trong cùng một ngày",
+          "location_scope": "Hà Nội, các khu văn phòng và khu công nghiệp ở nội thành và ven đô",
+          "word_target": 1200
+        },
+        {
+          "title": "Ngày 10/10 Giải phóng Thủ đô: thuê xe máy một ngày đi các điểm lịch sử, tránh đoạn phố đông và đường bị cấm",
+          "intent": "Lên kế hoạch một ngày thuê xe máy đúng dịp 10/10 Giải phóng Thủ đô: chọn điểm tham quan gắn với lịch sử Thủ đô, xem thông báo phân luồng của cơ quan chức năng trước khi đi, chọn giờ và chỗ gửi xe ở khu đông người, và đặt xe sớm vì dịp này phố có thể đông.",
+          "kw": "10/10 giải phóng thủ đô đi đâu",
+          "kw2": [
+            "thuê xe máy dịp 10/10 ở hà nội",
+            "đi xe máy ngày giải phóng thủ đô"
+          ],
+          "links": [
+            "/thue-xe/thue-ngay/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "người ở Hà Nội và du khách muốn đi các điểm gắn với ngày Giải phóng Thủ đô trong một ngày",
+          "location_scope": "Hà Nội, khu vực quanh Hồ Hoàn Kiếm, phố cổ và các điểm lịch sử nội thành",
+          "word_target": 1200
         }
       ]
     },
@@ -12016,6 +12203,57 @@
           "audience": "kỹ thuật viên lắp đặt, bảo trì điện mặt trời áp mái",
           "location_scope": "nhà dân, nhà xưởng ven đô Hà Nội như Đông Anh, Gia Lâm, Hoài Đức",
           "word_target": 1200
+        },
+        {
+          "title": "Ghi sổ theo dõi xe máy thuê theo tháng: số km, ngày đổ xăng, lần bơm lốp và sự cố nhỏ để báo tiệm cho rõ",
+          "intent": "Biết cách lập sổ theo dõi đơn giản trên điện thoại cho xe thuê tháng: ghi số km đầu tháng, ngày đổ xăng, lần bơm lốp, tiếng kêu hay sự cố nhỏ và ngày báo tiệm, để khi bảo dưỡng, đổi xe hoặc trả xe có dữ liệu đối chiếu thay vì chỉ nhớ.",
+          "kw": "sổ theo dõi xe máy thuê tháng",
+          "kw2": [
+            "ghi số km và ngày đổ xăng xe thuê",
+            "nhật ký sử dụng xe máy thuê tháng"
+          ],
+          "links": [
+            "/thue-xe/thue-thang/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "người thuê xe máy theo tháng ở Hà Nội muốn theo dõi xe gọn gàng và báo tiệm có căn cứ",
+          "location_scope": "Hà Nội, ghi trên điện thoại hằng tuần trong suốt kỳ thuê tháng",
+          "word_target": 1200
+        },
+        {
+          "title": "Nhà ở xa tiệm cho thuê ở Bồ Đề, Long Biên: thuê xe máy theo tháng, bảo dưỡng và trả xe sao cho đỡ đi lại",
+          "intent": "Biết cách sắp xếp thuê xe tháng khi nhà ở xa cửa hàng: hẹn giờ nhận xe lần đầu trong giờ mở cửa 09:00–21:00, gom việc bảo dưỡng và đổi xe vào cùng một chuyến, hỏi tiệm có kiểm tra xe qua ảnh và tin nhắn được không, hỏi thời gian và chi phí nếu cần giao hoặc nhận xe tận nơi, rồi chốt cách trả xe để khỏi đi lại nhiều lần.",
+          "kw": "thuê xe tháng khi ở xa tiệm",
+          "kw2": [
+            "nhận xe và bảo dưỡng khi ở xa tiệm cho thuê",
+            "hẹn lịch đổi xe thuê tháng khi nhà xa tiệm"
+          ],
+          "links": [
+            "/thue-xe/thue-thang/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "người ở các khu xa như Hà Đông, Hoàng Mai, Cầu Giấy muốn thuê xe theo tháng tại cửa hàng ở Long Biên",
+          "location_scope": "Hà Nội, từ các khu xa đến cửa hàng ở Bồ Đề, Long Biên và đường đi qua các cầu",
+          "word_target": 1200
+        },
+        {
+          "title": "Trình dược viên đi bệnh viện, phòng khám, nhà thuốc nhiều điểm mỗi ngày: thuê xe máy tháng và gửi xe ở viện",
+          "intent": "Lên kế hoạch thuê xe máy theo tháng cho trình dược viên ở Hà Nội: xếp lịch ghé bệnh viện, phòng khám và nhà thuốc theo giờ tiếp, tìm chỗ gửi xe ở các viện đông, mang tài liệu mẫu gọn và khô khi mưa, và hỏi cửa hàng về lịch bảo dưỡng vì quãng đường mỗi ngày dài.",
+          "kw": "thuê xe máy cho trình dược viên",
+          "kw2": [
+            "trình dược viên thuê xe máy theo tháng",
+            "gửi xe khi đi bệnh viện giới thiệu thuốc"
+          ],
+          "links": [
+            "/thue-xe/thue-thang/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "trình dược viên và người đi giới thiệu sản phẩm y tế nhiều điểm mỗi ngày ở Hà Nội",
+          "location_scope": "Hà Nội, các bệnh viện lớn, phòng khám và nhà thuốc nội thành",
+          "word_target": 1200
         }
       ]
     },
@@ -13500,6 +13738,74 @@
           "subtopic": "refill-2026-10-20-W3Z",
           "audience": "người thuê xe máy ở Hà Nội bị đề nghị đưa thẻ ATM hoặc thẻ ngân hàng cho tiệm giữ làm tin",
           "location_scope": "Hà Nội, quầy làm thủ tục thuê xe và các bước liên hệ ngân hàng sau đó",
+          "word_target": 1200
+        },
+        {
+          "title": "Cọc giữ chỗ và cọc lúc nhận xe: Bộ luật Dân sự 2015 gọi là đặt cọc hay ký cược, tiền được hoàn thế nào",
+          "intent": "Hiểu ở mức nguyên tắc cách Bộ luật Dân sự 2015 (91/2015/QH13) phân biệt đặt cọc để bảo đảm giao kết hợp đồng với ký cược để bảo đảm trả lại tài sản thuê, từ đó biết khoản tiền mình đưa tiệm thuộc loại nào, khi nào được hoàn hoặc bị giữ lại và nên ghi gì lên biên nhận; bài không nêu số tiền vì mọi mức cọc đều xác nhận trực tiếp với tiệm.",
+          "kw": "ký cược khi thuê xe máy",
+          "kw2": [
+            "đặt cọc hay ký cược khác nhau thế nào",
+            "tiền cọc thuê xe máy theo Bộ luật Dân sự"
+          ],
+          "links": [
+            "/thue-xe/dat-coc/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "người thuê xe máy ở Hà Nội muốn hiểu khoản cọc giữ chỗ và cọc lúc nhận xe về mặt pháp lý",
+          "location_scope": "Hà Nội, khi đưa tiền cọc, ký biên nhận và khi trả xe",
+          "word_target": 1300
+        },
+        {
+          "title": "Tiệm xin giữ hộ chiếu bản gốc khi thuê xe máy: nên hỏi gì khi bạn còn cần hộ chiếu để nhận phòng và đổi tiền",
+          "intent": "Biết cách xử lý khi cửa hàng đề nghị giữ hộ chiếu bản gốc làm tin: nhớ hộ chiếu còn cần khi nhận phòng khách sạn, khai báo lưu trú, đổi tiền, mua SIM và ra sân bay; hỏi tiệm có nhận bản sao hay hình thức đặt cọc khác không; nếu vẫn để lại thì xin biên nhận ghi rõ và hẹn ngày giờ nhận lại trước chuyến bay.",
+          "kw": "giữ hộ chiếu khi thuê xe máy",
+          "kw2": [
+            "để hộ chiếu làm cọc thuê xe máy",
+            "hộ chiếu bản gốc hay bản sao khi thuê xe"
+          ],
+          "links": [
+            "/thue-xe/dat-coc/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "du khách và người nước ngoài ở Hà Nội sắp để hộ chiếu lại tiệm khi thuê xe máy",
+          "location_scope": "Hà Nội, tại cửa hàng cho thuê và nơi lưu trú của khách",
+          "word_target": 1200
+        },
+        {
+          "title": "Tiệm thuê xe đổi chủ, đóng cửa hoặc không liên lạc được khi bạn còn tiền cọc: các bước theo thứ tự để đòi lại",
+          "intent": "Biết các bước theo thứ tự khi tiệm thuê xe đóng cửa, chuyển nhượng hoặc không còn nghe máy lúc bạn chưa nhận lại cọc: thử các kênh liên lạc, đến địa chỉ ghi trên biên nhận, hỏi người tiếp quản có ghi nhận việc hoàn cọc không, giữ nguyên bằng chứng chuyển tiền và biên nhận, rồi mới tính đến hòa giải hoặc khiếu nại.",
+          "kw": "tiệm đóng cửa chưa hoàn cọc",
+          "kw2": [
+            "tiệm thuê xe không liên lạc được sau khi trả xe",
+            "tiệm đổi chủ chưa nhận lại tiền cọc"
+          ],
+          "links": [
+            "/thue-xe/dat-coc/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "người đã trả xe nhưng chưa nhận lại tiền cọc và không còn liên lạc được với tiệm thuê xe ở Hà Nội",
+          "location_scope": "Hà Nội, tại địa chỉ ghi trên biên nhận và qua các kênh liên hệ của tiệm",
+          "word_target": 1200
+        },
+        {
+          "title": "Tiệm hẹn hoàn cọc sau vài ngày làm việc: đếm từ ngày nào, cuối tuần và lễ có tính không, nhắn chốt mốc",
+          "intent": "Hiểu cách đếm 'ngày làm việc' khi cửa hàng hẹn hoàn cọc: tính từ ngày trả xe hay ngày kiểm tra xong, thứ Bảy, Chủ nhật và ngày lễ có tính không, rồi nhắn xin chốt mốc ngày cụ thể và hình thức nhận lại trước khi rời tiệm.",
+          "kw": "hoàn cọc sau mấy ngày làm việc",
+          "kw2": [
+            "đếm ngày làm việc khi hoàn tiền cọc thuê xe",
+            "hẹn ngày hoàn cọc cuối tuần ngày lễ"
+          ],
+          "links": [
+            "/thue-xe/dat-coc/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AB",
+          "audience": "người sắp trả xe máy thuê và được tiệm hẹn hoàn cọc sau vài ngày làm việc",
+          "location_scope": "Hà Nội, khi trả xe và trao đổi mốc hoàn cọc với cửa hàng",
           "word_target": 1200
         }
       ]
@@ -34347,6 +34653,40 @@
           "audience": "người leo núi tự túc đi xe máy từ Hà Nội",
           "location_scope": "vùng Y Tý và Trạm Tấu, Tây Bắc",
           "word_target": 1200
+        },
+        {
+          "title": "Honda Wave vào số 1 vặn ga nhẹ mà xe chưa chạy: côn tự động cần chút vòng tua mới ăn và khi nào là côn yếu",
+          "intent": "Hiểu vì sao côn tự động của xe số cần chút vòng tua mới ăn khi xuất phát, tập vặn ga vừa đủ thay vì rồ ga, và nhận ra dấu hiệu côn yếu để báo tiệm.",
+          "kw": "wave vào số 1 xe không chạy",
+          "kw2": [
+            "xe số vặn ga nhẹ chưa chạy",
+            "côn tự động wave ăn khi nào"
+          ],
+          "links": [
+            "/xe-may/honda-wave/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người quen xe ga lần đầu thuê Honda Wave, thấy vào số 1 vặn ga nhẹ xe vẫn đứng yên",
+          "location_scope": "Hà Nội, tập tại bãi rộng hoặc đoạn đường vắng gần cửa hàng trước khi ra phố",
+          "word_target": 1200
+        },
+        {
+          "title": "Honda Wave thuê đổ xăng E10 hay E5 RON 92: hỏi tiệm xe dùng loại nào và đọc tem trên xe trước khi bơm",
+          "intent": "Biết từ 1/6/2026 cây xăng bán xăng E10 thay xăng khoáng RON 95 và vẫn còn xăng E5 RON 92 đến hết năm 2030, rồi hỏi tiệm chiếc Honda Wave đang thuê nên đổ loại nào, đọc tem nhiên liệu trên xe và không tự đổi loại giữa chừng.",
+          "kw": "wave đổ xăng e10 được không",
+          "kw2": [
+            "xe wave đi xăng e10 có sao không",
+            "xe số chế hòa khí đổ e10"
+          ],
+          "links": [
+            "/xe-may/honda-wave/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người thuê Honda Wave phân vân khi đứng trước cột bơm ghi E10 hoặc E5 RON 92",
+          "location_scope": "Hà Nội, các cây xăng trong nội thành và ven đô trước khi đi xa",
+          "word_target": 1200
         }
       ]
     },
@@ -36006,6 +36346,40 @@
           "subtopic": "refill-2026-10-16-W2-052",
           "audience": "khách mời dự tiệc cưới ở Hà Nội",
           "location_scope": "nhà hàng tiệc cưới trong nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Tay ga Honda Vision hơi rơ ở đầu hành trình: thử bằng ngón tay lúc nhận xe, phân biệt với dây ga chùng",
+          "intent": "Tự thử độ rơ nhỏ ở đầu hành trình tay ga khi nhận Honda Vision, nhận ra khi rơ quá nhiều, tay ga nặng hoặc không tự trả về để nhờ tiệm kiểm tra dây ga trước khi chạy.",
+          "kw": "độ rơ tay ga honda vision",
+          "kw2": [
+            "tay ga honda vision bị rơ",
+            "kiểm tra tay ga xe ga lúc nhận xe"
+          ],
+          "links": [
+            "/xe-may/honda-vision/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người sắp nhận Honda Vision thuê, lần đầu dùng xe ga và thấy tay ga hơi lỏng ở đầu hành trình",
+          "location_scope": "Hà Nội, thử ngay tại cửa hàng cho thuê trước khi lăn bánh",
+          "word_target": 1200
+        },
+        {
+          "title": "Honda Vision hụt ga khi tăng tốc hoặc lên dốc: phân biệt hụt thoáng qua với hụt kéo dài và khi nào báo tiệm",
+          "intent": "Nhận biết triệu chứng Honda Vision hụt ga hoặc hụt hơi khi vặn ga tăng tốc, lên dốc cầu: hụt thoáng qua lúc máy nguội hay gần hết xăng khác với hụt kéo dài; biết xem kim xăng, giữ ga đều và báo tiệm trước khi đi xa.",
+          "kw": "honda vision bị hụt ga",
+          "kw2": [
+            "vision hụt hơi khi tăng tốc",
+            "xe ga bị hụt ga khi lên dốc"
+          ],
+          "links": [
+            "/xe-may/honda-vision/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người đang thuê Honda Vision thấy xe hụt hơi lúc vặn ga hoặc khi lên dốc cầu",
+          "location_scope": "Hà Nội, dốc cầu vượt, dốc cầu Vĩnh Tuy, Chương Dương và các nút giao đông xe",
           "word_target": 1200
         }
       ]
@@ -44472,6 +44846,74 @@
           "audience": "người chuẩn bị hồ sơ thi bằng A1",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Du khách nước ngoài bị tước quyền sử dụng bằng lái khi ở Hà Nội: thời gian tước không quá thời gian cư trú",
+          "intent": "Hiểu quy định riêng với người có giấy phép lái xe quốc tế vi phạm luật giao thông Việt Nam: thời gian bị tước quyền sử dụng có thời hạn không vượt quá thời gian được phép cư trú, khác với trừ điểm và tạm giữ giấy phép.",
+          "kw": "người nước ngoài bị tước bằng lái",
+          "kw2": [
+            "tước quyền sử dụng giấy phép lái xe quốc tế",
+            "thời gian tước bằng lái theo thời gian cư trú"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "du khách và người nước ngoài lưu trú ngắn hạn lái xe máy ở Hà Nội bằng giấy phép lái xe quốc tế",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Người nước ngoài có thẻ tạm trú ở Hà Nội xin giấy phép lái xe quốc tế: điều kiện theo luật giao thông đường bộ",
+          "intent": "Biết người nước ngoài có thẻ thường trú hoặc thẻ tạm trú tại Việt Nam và giấy phép lái xe còn giá trị có thể được cấp giấy phép lái xe quốc tế theo luật, và hiểu giấy phép nào làm cơ sở để xin cấp.",
+          "kw": "người nước ngoài xin bằng lái quốc tế",
+          "kw2": [
+            "giấy phép lái xe quốc tế cho người có thẻ tạm trú",
+            "thẻ tạm trú xin giấy phép lái xe quốc tế tại Việt Nam"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "người nước ngoài sống, học hoặc làm việc tại Hà Nội có thẻ tạm trú và đi xe máy hằng ngày",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Giấy phép lái xe trên VNeID không hiện điểm hoặc chưa cập nhật: điểm vào hệ thống khi nào và hỏi ở đâu",
+          "intent": "Hiểu vì sao điểm của giấy phép lái xe có thể chưa hiện trên VNeID, thời điểm điểm trừ được cập nhật vào cơ sở dữ liệu sau khi quyết định xử phạt có hiệu lực, và cách kiểm tra, hỏi lại qua kênh chính thức.",
+          "kw": "bằng lái vneid không hiện điểm",
+          "kw2": [
+            "giấy phép lái xe trên VNeID chưa cập nhật điểm",
+            "điểm giấy phép lái xe cập nhật khi nào"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "người có bằng lái xe máy đã tích hợp vào VNeID nhưng không thấy số điểm, kể cả người đang thuê xe ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Lái xe điện bốn bánh chở khách quanh Hồ Gươm hay xe chở hàng bốn bánh: cần giấy phép lái xe hạng nào",
+          "intent": "Biết người điều khiển xe chở người hoặc chở hàng bốn bánh có gắn động cơ phải dùng giấy phép lái xe có hạng phù hợp với ô tô tương ứng chứ không phải hạng A1 của xe máy, và phân biệt các loại xe này với xe máy thuê.",
+          "kw": "xe điện bốn bánh cần bằng gì",
+          "kw2": [
+            "xe chở người bốn bánh có gắn động cơ",
+            "giấy phép lái xe xe điện du lịch"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "du khách và người làm dịch vụ du lịch ở Hà Nội thấy xe điện bốn bánh quanh Hồ Gươm, phân vân giữa xe máy và xe điện",
+          "location_scope": "Hà Nội (khu Hồ Gươm và phố cổ)",
+          "word_target": 1300
         }
       ]
     },
@@ -46026,6 +46468,74 @@
           "audience": "người đi xe máy qua khu trường học, khu dân cư đông xe đạp",
           "location_scope": "Hà Nội (toàn thành phố)",
           "word_target": 1200
+        },
+        {
+          "title": "Nghe tin bỏ bảo hiểm xe máy bắt buộc: hiện hành người đi xe máy vẫn phải mua và mang theo giấy chứng nhận",
+          "intent": "Hiểu bảo hiểm TNDS bắt buộc của chủ xe máy hiện vẫn là quy định có hiệu lực theo nghị định hướng dẫn và Luật Trật tự, an toàn giao thông đường bộ, cách phân biệt tin đồn với văn bản pháp luật và kiểm tra giấy chứng nhận của xe đang dùng.",
+          "kw": "bỏ bảo hiểm xe máy bắt buộc",
+          "kw2": [
+            "bảo hiểm xe máy bắt buộc còn áp dụng không",
+            "có phải mua bảo hiểm xe máy bắt buộc không"
+          ],
+          "links": [
+            "/an-toan-phap-ly/bao-hiem/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "người đi xe máy và người thuê xe ở Hà Nội đọc tin đề xuất thay đổi bảo hiểm xe máy trên mạng và băn khoăn có còn phải mua",
+          "location_scope": "Hà Nội (toàn thành phố)",
+          "word_target": 1200
+        },
+        {
+          "title": "Bảo hiểm xe máy hết hạn vài ngày mới phát hiện: có bị coi là chưa có bảo hiểm, mua lại hiệu lực từ lúc nào",
+          "intent": "Biết cách xử lý khi phát hiện giấy chứng nhận bảo hiểm TNDS bắt buộc của xe máy đã quá hạn: xe đang đi đường bị coi là chưa có bảo hiểm, thời điểm bắt đầu hiệu lực của giấy mới, và vì sao không nên tiếp tục chạy xe khi chưa mua lại.",
+          "kw": "bảo hiểm xe máy hết hạn bị phạt",
+          "kw2": [
+            "giấy bảo hiểm xe máy quá hạn mua lại",
+            "thời điểm hiệu lực bảo hiểm xe máy mới mua"
+          ],
+          "links": [
+            "/an-toan-phap-ly/bao-hiem/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "chủ xe và người thuê xe máy dài ngày ở Hà Nội hay quên ngày hết hạn giấy chứng nhận bảo hiểm",
+          "location_scope": "Hà Nội (toàn thành phố)",
+          "word_target": 1300
+        },
+        {
+          "title": "Du khách bị xe máy đâm ở Hà Nội sắp bay về nước: đề nghị bảo hiểm TNDS bồi thường và ủy quyền người làm thay",
+          "intent": "Hiểu người nước ngoài là người bị hại trong va chạm với xe máy vẫn có quyền yêu cầu doanh nghiệp bảo hiểm TNDS của bên gây tai nạn bồi thường, cần giữ giấy tờ nào, và cách ủy quyền cho người ở lại Hà Nội nộp hồ sơ, nhận tiền thay.",
+          "kw": "du khách bị xe máy đâm",
+          "kw2": [
+            "người nước ngoài đòi bảo hiểm TNDS",
+            "ủy quyền nhận bồi thường khi về nước"
+          ],
+          "links": [
+            "/an-toan-phap-ly/bao-hiem/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "khách du lịch nước ngoài bị xe máy đâm trong thời gian ngắn ở Hà Nội và người thân, bạn bè ở lại hỗ trợ",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Được chào mua bảo hiểm xe máy tự nguyện: quyền hỏi rõ điều khoản loại trừ và nhận bản điều khoản trước khi ký",
+          "intent": "Biết người mua bảo hiểm xe máy tự nguyện có quyền được doanh nghiệp bảo hiểm hoặc đại lý giải thích rõ quyền lợi, điều khoản loại trừ và điều kiện bồi thường, nhận quy tắc, điều khoản bảo hiểm và kê khai trung thực trước khi ký hợp đồng.",
+          "kw": "đại lý chào mời bảo hiểm xe máy",
+          "kw2": [
+            "quyền được giải thích điều khoản loại trừ bảo hiểm",
+            "đọc điều khoản trước khi ký bảo hiểm xe máy"
+          ],
+          "links": [
+            "/an-toan-phap-ly/bao-hiem/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "chủ xe và người dùng xe máy ở Hà Nội hay bị gọi điện, nhắn tin hoặc nhân viên ở quầy chào mời mua bảo hiểm tự nguyện",
+          "location_scope": "Hà Nội (toàn thành phố)",
+          "word_target": 1300
         }
       ]
     },
@@ -47484,6 +47994,57 @@
           "audience": "chủ quán ăn, quán bia và nhân viên phục vụ",
           "location_scope": "nội thành Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Bị thương cấp cứu sau va chạm: cơ sở y tế lấy máu xét nghiệm cồn và ma túy theo luật, người nhà cần biết gì",
+          "intent": "Hiểu quy định cơ sở khám bệnh, chữa bệnh cấp cứu ban đầu người bị tai nạn giao thông phải báo cơ quan có thẩm quyền và xét nghiệm nồng độ cồn, chất ma túy trong máu của người điều khiển phương tiện, đồng thời vẫn phải cứu chữa nạn nhân.",
+          "kw": "xét nghiệm cồn sau tai nạn xe máy",
+          "kw2": [
+            "cơ sở y tế xét nghiệm nồng độ cồn người lái xe",
+            "cấp cứu tai nạn giao thông lấy máu xét nghiệm"
+          ],
+          "links": [
+            "/an-toan-phap-ly/noi-do-cong/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "người đi xe máy bị thương nhập viện cấp cứu sau va chạm ở Hà Nội và người nhà đi cùng",
+          "location_scope": "Hà Nội (các cơ sở khám bệnh, chữa bệnh tiếp nhận cấp cứu)",
+          "word_target": 1300
+        },
+        {
+          "title": "Lỡ uống rượu bia đúng tối hẹn trả xe thuê: nhắn tiệm xin lùi giờ, để xe an toàn và không cầm lái về tiệm",
+          "intent": "Biết cách xử lý khi đã uống rượu bia mà xe máy thuê phải trả trong ngày: không lái xe vì luật cấm tuyệt đối nồng độ cồn, nhắn và hỏi trực tiếp tiệm về việc lùi giờ trả xe, chọn chỗ để xe an toàn và về chỗ ở bằng cách khác.",
+          "kw": "uống rượu bia chưa trả được xe thuê",
+          "kw2": [
+            "xin lùi giờ trả xe thuê vì đã uống rượu",
+            "không lái xe máy thuê khi đã uống bia"
+          ],
+          "links": [
+            "/an-toan-phap-ly/noi-do-cong/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "khách thuê xe máy ở Hà Nội lỡ dự tiệc, uống rượu bia trước giờ phải trả xe cho tiệm",
+          "location_scope": "Hà Nội (khu quán xá trung tâm và nơi ở của khách)",
+          "word_target": 1200
+        },
+        {
+          "title": "Thời hạn tước bằng lái vì nồng độ cồn tính từ ngày nào: khi bằng đã bị giữ và khi chưa nộp cho người xử phạt",
+          "intent": "Hiểu cách tính thời điểm bắt đầu thời hạn tước quyền sử dụng giấy phép lái xe: khi giấy phép đã bị tạm giữ thì tính từ lúc quyết định xử phạt có hiệu lực, khi chưa tạm giữ được thì tính từ lúc người vi phạm xuất trình giấy phép để bị tạm giữ.",
+          "kw": "tước bằng lái tính từ ngày nào",
+          "kw2": [
+            "thời điểm bắt đầu tước quyền sử dụng giấy phép lái xe",
+            "bằng lái chưa bị giữ vẫn bị tước"
+          ],
+          "links": [
+            "/an-toan-phap-ly/noi-do-cong/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "người bị xử phạt nồng độ cồn kèm tước giấy phép lái xe, kể cả người nước ngoài sắp rời Hà Nội hoặc người chưa mang theo bằng lúc bị lập biên bản",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
         }
       ]
     },
@@ -48904,6 +49465,57 @@
           "subtopic": "refill-2026-10-20-W2-068",
           "audience": "người thuê xe máy đi chơi, đi làm về khuya",
           "location_scope": "nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe máy bị tạm giữ phương tiện: thời hạn tối đa, khi nào được kéo dài và quyền nhận lại xe sau khi nộp phạt",
+          "intent": "Hiểu việc tạm giữ xe máy theo thủ tục hành chính chỉ áp dụng khi thật cần thiết, thời hạn tạm giữ tối đa, trường hợp được kéo dài, biên bản và quyết định tạm giữ, và lúc nào được nhận lại xe.",
+          "kw": "xe máy bị tạm giữ bao lâu",
+          "kw2": [
+            "thời hạn tạm giữ phương tiện vi phạm",
+            "nhận lại xe máy bị tạm giữ"
+          ],
+          "links": [
+            "/an-toan-phap-ly/phat-nguoi/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "người đi xe máy bị lập biên bản tạm giữ xe và khách đang thuê xe máy ở Hà Nội lo xe bị giữ lâu",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe máy còn quyết định xử phạt chưa chấp hành: có làm thủ tục đăng ký, sang tên hay đổi biển được không",
+          "intent": "Biết quy định chủ xe chưa thực hiện xong yêu cầu giải quyết vụ việc vi phạm giao thông thì chưa được giải quyết việc đăng ký phương tiện vi phạm, nên kiểm tra thông báo phạt nguội và xử lý xong trước khi bán, sang tên hoặc đổi biển.",
+          "kw": "xe máy còn nợ phạt sang tên",
+          "kw2": [
+            "còn thông báo phạt nguội chưa xử lý đăng ký xe",
+            "bán xe máy còn vi phạm chưa giải quyết"
+          ],
+          "links": [
+            "/an-toan-phap-ly/phat-nguoi/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "người đang bán, tặng hoặc mua lại xe máy ở Hà Nội và chủ xe từng nhận thông báo phạt nguội",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Chưa xuất trình được giấy đăng ký xe hay bằng lái khi bị kiểm tra: trình lại trong thời hạn hẹn thì sao",
+          "intent": "Hiểu cách xử lý khi người điều khiển xe máy chưa xuất trình được giấy tờ lúc bị kiểm tra: lập biên bản, ngày hẹn giải quyết, việc xuất trình giấy tờ hoặc thông tin tích hợp trên tài khoản định danh điện tử trong thời hạn hẹn và khi nào xe bị tạm giữ.",
+          "kw": "quên mang giấy tờ khi đi xe máy",
+          "kw2": [
+            "xuất trình giấy tờ trong thời hạn hẹn",
+            "giấy tờ tích hợp VNeID khi bị kiểm tra"
+          ],
+          "links": [
+            "/an-toan-phap-ly/phat-nguoi/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "người đi xe máy và khách thuê xe ở Hà Nội để quên giấy đăng ký xe hoặc giấy phép lái xe khi bị cảnh sát giao thông kiểm tra",
+          "location_scope": "Hà Nội",
           "word_target": 1200
         }
       ]
@@ -53516,6 +54128,74 @@
           "subtopic": "refill-2026-10-20-W3T",
           "audience": "người đi xe máy thuê ở Hà Nội quen nghe còi liên tục trên phố và băn khoăn lúc nào được phép bấm còi",
           "location_scope": "Hà Nội (nút giao đông xe, phố nhiều phương tiện)",
+          "word_target": 1300
+        },
+        {
+          "title": "Dựng xe máy sát cột đèn hoặc chắn biển báo ở ngã tư Hà Nội: vì sao luật cấm dừng đỗ che khuất báo hiệu",
+          "intent": "Hiểu quy định cấm dừng xe, đỗ xe ở vị trí che khuất biển báo hiệu đường bộ hoặc đèn tín hiệu giao thông, cách chọn chỗ dựng xe máy gần ngã tư và cột đèn để không chắn tầm nhìn của người khác.",
+          "kw": "đỗ xe che khuất biển báo",
+          "kw2": [
+            "dựng xe máy che đèn tín hiệu giao thông",
+            "cấm dừng đỗ che khuất báo hiệu đường bộ"
+          ],
+          "links": [
+            "/an-toan-phap-ly/quy-dinh-giao-thong/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "người đi xe máy và người thuê xe ở Hà Nội hay tấp xe sát ngã tư để chờ người, nghe điện thoại hoặc xem bản đồ",
+          "location_scope": "Hà Nội (các ngã tư có cột đèn tín hiệu và biển báo trong nội thành)",
+          "word_target": 1200
+        },
+        {
+          "title": "Hàng buộc lỏng rơi xuống đường khi chạy xe máy: luật cấm làm rơi vãi hàng hóa và trách nhiệm của người chở",
+          "intent": "Biết luật cấm làm rơi vãi hàng hóa, vật liệu trên đường bộ, vì sao hàng rơi từ xe máy có thể làm người đi sau ngã, nên làm gì ngay khi hàng vừa rơi và trách nhiệm của người chở.",
+          "kw": "làm rơi hàng trên đường xe máy",
+          "kw2": [
+            "rơi vãi hàng hóa trên đường bộ",
+            "hàng rơi từ xe máy gây tai nạn"
+          ],
+          "links": [
+            "/an-toan-phap-ly/quy-dinh-giao-thong/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "người chở đồ mua ở chợ, hàng nhỏ hoặc hành lý bằng xe máy thuê ở Hà Nội",
+          "location_scope": "Hà Nội (các tuyến phố nội thành đông xe)",
+          "word_target": 1300
+        },
+        {
+          "title": "Đội mũ bảo hộ công trình, mũ xe đạp hay mũ lưỡi trai đi xe máy: loại nào chưa phải mũ bảo hiểm đúng quy chuẩn",
+          "intent": "Hiểu luật yêu cầu người lái và người ngồi sau đội mũ bảo hiểm đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách, vì sao mũ bảo hộ lao động, mũ đi xe đạp hay mũ thời trang không thay được, và cách nhận biết mũ hợp quy trước khi chạy xe.",
+          "kw": "mũ bảo hộ công trình đi xe máy",
+          "kw2": [
+            "mũ xe đạp đi xe máy có được không",
+            "nhận biết mũ bảo hiểm đúng quy chuẩn"
+          ],
+          "links": [
+            "/an-toan-phap-ly/quy-dinh-giao-thong/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "công nhân, thợ xây và người quen đội mũ lao động hoặc mũ thời trang khi đi xe máy hay thuê xe máy ở Hà Nội",
+          "location_scope": "Hà Nội (nội thành và các công trường, khu đô thị đang xây dựng)",
+          "word_target": 1200
+        },
+        {
+          "title": "Một tay cầm ô che mưa che nắng khi tự lái xe máy ở Hà Nội: luật cấm sử dụng ô và cách che chắn khác hợp lệ",
+          "intent": "Biết luật cấm người lái xe máy sử dụng ô khi đang điều khiển xe, vì sao một tay cầm ô làm mất kiểm soát tay lái khi có gió, và các cách che mưa, che nắng khác như áo mưa, mũ che gáy mà vẫn đúng luật.",
+          "kw": "cầm ô khi lái xe máy",
+          "kw2": [
+            "đi xe máy cầm ô có bị phạt không",
+            "che nắng che mưa khi đi xe máy"
+          ],
+          "links": [
+            "/an-toan-phap-ly/quy-dinh-giao-thong/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AA",
+          "audience": "người đi xe máy ngại mặc áo mưa và khách du lịch thấy người địa phương cầm ô khi chạy xe ở Hà Nội",
+          "location_scope": "Hà Nội (đường phố nội thành trong ngày mưa và ngày nắng gắt)",
           "word_target": 1300
         }
       ]
@@ -67667,6 +68347,40 @@
           "audience": "người lần đầu ngủ homestay nhà sàn ở Mai Châu khi đi xe máy thuê",
           "location_scope": "Các bản Thái ở thung lũng Mai Châu: bản Lác, Pom Coọng, bản Văn",
           "word_target": 1300
+        },
+        {
+          "title": "Đá rơi và taluy dương trên đèo Thung Khe (đèo Đá Trắng): đọc biển cảnh báo, không dừng sát vách đá",
+          "intent": "Biết nhận diện đoạn vách đá và taluy dương dễ đá rơi trên đèo Thung Khe (đèo Đá Trắng) ở quốc lộ 6, đọc biển cảnh báo, chọn chỗ dừng nghỉ xa chân vách và tránh dừng chụp ảnh khi mưa lớn hoặc sương dày.",
+          "kw": "đá rơi đèo Thung Khe",
+          "kw2": [
+            "đèo Đá Trắng đá rơi sạt lở",
+            "dừng xe an toàn trên đèo Thung Khe"
+          ],
+          "links": [
+            "/cung-duong/mai-chau/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người chạy xe máy từ Hà Nội đi Mai Châu, hay dừng chụp ảnh và nghỉ chân trên đèo",
+          "location_scope": "đèo Thung Khe (đèo Đá Trắng) trên quốc lộ 6, đoạn qua xã Mai Châu, tỉnh Phú Thọ",
+          "word_target": 1300
+        },
+        {
+          "title": "Quốc lộ 6 qua đèo Thung Khe bị sạt lở chặn: đường vòng Ba Khan lên Mai Châu cho xe máy, khi nào nên chờ",
+          "intent": "Biết rằng khi quốc lộ 6 qua đèo Thung Khe bị sạt lở chặn, xe nhỏ có thể thử đường vòng qua Ba Khan lên Mai Châu nhưng mặt đường xấu và không dành cho xe lớn; hỏi lực lượng chức năng hoặc người địa phương trước, quyết định đi vòng hay chờ thông xe và về kịp trước khi trời tối.",
+          "kw": "đường vòng Ba Khan lên Mai Châu",
+          "kw2": [
+            "quốc lộ 6 đèo Thung Khe bị sạt lở",
+            "xe máy đi vòng Ba Khan khi tắc đèo"
+          ],
+          "links": [
+            "/cung-duong/mai-chau/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người đang chạy xe máy từ Hà Nội đi Mai Châu thì gặp thông báo sạt lở chặn quốc lộ 6 ở đèo Thung Khe",
+          "location_scope": "quốc lộ 6 đoạn đèo Thung Khe và đường vòng qua thung lũng Ba Khan, xã Mai Châu, tỉnh Phú Thọ",
+          "word_target": 1300
         }
       ]
     },
@@ -69574,6 +70288,40 @@
           "subtopic": "refill-2026-10-18-W3T",
           "audience": "khách đi vòng cung Hà Giang bằng xe máy thuê, muốn xem chợ vùng cao và xếp lịch nghỉ đêm ở Mèo Vạc cho kịp phiên",
           "location_scope": "Mèo Vạc, Hà Giang (chợ phiên trung tâm Mèo Vạc)",
+          "word_target": 1300
+        },
+        {
+          "title": "Sạt lở quốc lộ 2 đi Hà Giang mùa mưa bão: tra tin chính thống, chờ thông đường và không băng qua điểm sạt",
+          "intent": "Biết cách theo dõi thông tin sạt lở trên quốc lộ 2 đoạn Bắc Quang – thành phố Hà Giang từ nguồn chính thống, quyết định hoãn hay đổi lịch chuyến xe máy, chờ lực lượng chức năng thông đường và không tự băng qua điểm đất đá chưa ổn định.",
+          "kw": "sạt lở quốc lộ 2 đi Hà Giang",
+          "kw2": [
+            "đường lên Hà Giang bị sạt lở",
+            "tra tình hình quốc lộ 2 trước khi đi Hà Giang"
+          ],
+          "links": [
+            "/cung-duong/ha-giang/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người định chạy xe máy từ Hà Nội lên Hà Giang vào mùa mưa bão",
+          "location_scope": "quốc lộ 2 đoạn qua Bắc Quang và thành phố Hà Giang (nay thuộc tỉnh Tuyên Quang)",
+          "word_target": 1300
+        },
+        {
+          "title": "Cao nguyên đá Đồng Văn là Công viên địa chất toàn cầu UNESCO: gồm những nơi nào và dừng xe ngắm đá ở đâu",
+          "intent": "Hiểu Cao nguyên đá Đồng Văn được UNESCO công nhận là Công viên địa chất toàn cầu gồm các vùng Quản Bạ, Yên Minh, Đồng Văn, Mèo Vạc, rồi biết dừng xe ngắm đá, hang, vách núi ở chỗ hợp lệ và giữ gìn di sản trên đường đi.",
+          "kw": "công viên địa chất Đồng Văn",
+          "kw2": [
+            "cao nguyên đá Đồng Văn UNESCO",
+            "đi xe máy ngắm đá ở Đồng Văn"
+          ],
+          "links": [
+            "/cung-duong/ha-giang/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người chạy xe máy lên Hà Giang muốn hiểu vì sao cao nguyên đá Đồng Văn đặc biệt trước khi lên đường",
+          "location_scope": "cao nguyên đá Đồng Văn, gồm các vùng Quản Bạ, Yên Minh, Đồng Văn, Mèo Vạc (nay thuộc tỉnh Tuyên Quang)",
           "word_target": 1300
         }
       ]
@@ -72761,6 +73509,74 @@
           "subtopic": "refill-2026-10-20-W3X",
           "audience": "người tự lái xe máy thuê ở Hà Nội, hay gặp mèo, chó thả rông chạy ngang trong ngõ, đường đê và phố ven hồ",
           "location_scope": "Hà Nội (ngõ nhỏ, đường đê sông Hồng và phố ven hồ)",
+          "word_target": 1200
+        },
+        {
+          "title": "Đèn xanh đã bật lâu khi còn xa ngã tư: đọc độ già của đèn, thả ga sớm và không chạy đua với đèn vàng",
+          "intent": "Biết cách nhận ra đèn xanh sắp chuyển vàng từ khi còn cách ngã tư, nhìn hàng xe ở đường ngang, người đi bộ và xe phía trước để thả ga sớm, dừng êm trước vạch thay vì phanh gấp hay cố vượt.",
+          "kw": "đèn xanh sắp chuyển vàng xe máy",
+          "kw2": [
+            "đèn xanh sắp hết nên đi hay dừng",
+            "thả ga sớm khi tới ngã tư"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người mới lái xe máy ở Hà Nội hay bị bất ngờ khi đèn xanh đổi màu lúc đã gần vạch dừng",
+          "location_scope": "Hà Nội, các ngã tư lớn có đèn tín hiệu ở nội thành như trục Giải Phóng, Nguyễn Trãi, Xuân Thủy",
+          "word_target": 1200
+        },
+        {
+          "title": "Rời đường thoáng vào phố đông thấy mình chạy chậm dù đồng hồ vẫn cao: mắt quen tốc độ và cách lấy lại cảm giác",
+          "intent": "Hiểu vì sao sau một đoạn đường dài, thoáng mắt quen tốc độ và đánh giá sai tốc độ thật khi vào phố đông, rồi tập liếc đồng hồ, nhả ga sớm và chọn vật mốc ven đường để lấy lại cảm giác đúng.",
+          "kw": "mắt quen tốc độ khi chạy xe",
+          "kw2": [
+            "chạy xe thấy chậm mà đồng hồ vẫn cao",
+            "vào phố đông sau đoạn đường thoáng"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người vừa chạy đoạn đường vắng, đê hoặc đường song hành rồi đi vào nội thành Hà Nội",
+          "location_scope": "Hà Nội, từ đê sông Hồng hoặc đường song hành Đại lộ Thăng Long vào nội thành",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe buýt, xe tải đang tới trông chậm và xa hơn thực tế: cách ước lượng trước khi rẽ ngang hoặc cắt qua đầu xe",
+          "intent": "Hiểu vì sao xe lớn đang tiến tới dễ bị đánh giá chậm và xa hơn thực tế, rồi tập chờ thêm một nhịp, quan sát xe phình to nhanh hay chậm và chỉ rẽ ngang hay cắt qua khi khoảng trống thật sự rộng.",
+          "kw": "ước lượng tốc độ xe tải đang tới",
+          "kw2": [
+            "ước lượng khoảng cách xe lớn khi rẽ",
+            "cắt qua đầu xe buýt bằng xe máy"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người đi xe máy hay phải rẽ ngang hoặc sang đường giữa dòng xe buýt, xe tải ở Hà Nội",
+          "location_scope": "Hà Nội, các trục có nhiều xe buýt và xe tải như Nguyễn Văn Cừ, Ngô Gia Tự, Phạm Văn Đồng",
+          "word_target": 1200
+        },
+        {
+          "title": "Lên xuống xe máy cho người mới: bóp phanh giữ xe, bước chân qua yên, gạt chân chống rồi mới cho người sau lên",
+          "intent": "Biết cách tự lên và xuống xe máy an toàn: bóp phanh để xe không tự lăn, bước chân qua yên, gạt chân chống đúng lúc và dặn người ngồi sau chỉ lên khi xe đã đứng vững.",
+          "kw": "cách lên xuống xe máy an toàn",
+          "kw2": [
+            "lên xe máy từ bên nào",
+            "xuống xe máy đúng cách"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người mới lái hoặc lâu không đi xe máy, hay sợ xe tự lăn hoặc đổ khi lên xuống, nhất là khi chở người sau",
+          "location_scope": "Hà Nội, thao tác tại chỗ khi nhận xe, lúc dừng ven đường và khi gửi xe",
           "word_target": 1200
         }
       ]
@@ -91224,6 +92040,57 @@
           "audience": "người thuê xe số đời chế hòa khí (Wave, Sirius) bấm đề nhiều lần mà xe không nổ và nồng mùi xăng",
           "location_scope": "Hà Nội, chỗ đỗ xe buổi sáng hoặc nơi dừng nghỉ giữa đường",
           "word_target": 1200
+        },
+        {
+          "title": "Đèn nền đồng hồ xe thuê không sáng khi đi đêm: không đọc được kim xăng và tốc độ thì đi tiếp hay dừng báo tiệm",
+          "intent": "Nhận biết khi đèn nền đồng hồ tối nhưng đèn pha vẫn sáng, biết tấp vào chỗ sáng để đọc kim xăng, ước lượng xăng theo quãng đã chạy, giảm tốc và báo cửa hàng thay vì tự tháo mặt đồng hồ.",
+          "kw": "đèn nền đồng hồ xe không sáng",
+          "kw2": [
+            "đồng hồ xe máy tối ban đêm",
+            "không thấy kim xăng ban đêm"
+          ],
+          "links": [
+            "/xe-may/xu-ly-su-co-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người đang thuê xe máy ở Hà Nội, tối đi đường thấy mặt đồng hồ tối đen dù đèn pha vẫn sáng",
+          "location_scope": "Hà Nội, đường tối ngoại thành, ven đê và các tuyến vành đai buổi tối",
+          "word_target": 1200
+        },
+        {
+          "title": "Vỏ đèn hậu, đèn xi nhan xe thuê nứt vỡ sau va quẹt nhẹ: đèn còn sáng không, che tạm chống nước, đi đêm thế nào",
+          "intent": "Biết kiểm tra đèn phanh và xi nhan còn sáng sau khi vỏ đèn nứt vỡ, che tạm bằng băng keo trong để nước mưa không lọt vào, chụp ảnh tình trạng và báo cửa hàng trước khi chạy đêm.",
+          "kw": "vỡ vỏ đèn hậu xe máy thuê",
+          "kw2": [
+            "nứt kính đèn xi nhan xe máy",
+            "đèn hậu vỡ có đi tiếp được không"
+          ],
+          "links": [
+            "/xe-may/xu-ly-su-co-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người thuê xe máy lỡ va quẹt nhẹ khi đỗ hoặc dắt xe, thấy nhựa đèn sau nứt hoặc vỡ",
+          "location_scope": "Hà Nội, tại bãi gửi xe, hầm chung cư và trên đường về buổi tối",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe thuê tắt máy hoặc đèn chớp khi bẻ lái hết cỡ để quay đầu: nghi dây điện hay dây ga bị kéo căng ở cổ lái",
+          "intent": "Nhận biết triệu chứng xe tắt máy hoặc đèn chập chờn chỉ khi bẻ lái hết cỡ, biết quay đầu bằng vòng rộng hơn, không tự tháo ốp đầu xe và báo cửa hàng để kiểm tra dây điện, dây ga ở cổ lái.",
+          "kw": "tắt máy khi bẻ lái hết cỡ",
+          "kw2": [
+            "bẻ lái hết cỡ đèn chập chờn",
+            "quay đầu xe máy bị tắt máy"
+          ],
+          "links": [
+            "/xe-may/xu-ly-su-co-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người đang thuê xe máy ở Hà Nội thấy xe tắt hoặc đèn chớp mỗi lần quay đầu trong ngõ hẹp",
+          "location_scope": "Hà Nội, ngõ nhỏ và bãi gửi xe chật nơi phải quay đầu bẻ lái hết cỡ",
+          "word_target": 1200
         }
       ]
     },
@@ -92867,6 +93734,57 @@
           "audience": "người thích chè, chụp ảnh đồi chè, đi chơi trong ngày",
           "location_scope": "Hà Nội – thành phố Thái Nguyên – Tân Cương",
           "word_target": 1200
+        },
+        {
+          "title": "Gia đình có em bé còn nhỏ ở Hà Nội vài ngày: thuê xe máy tự lái hay đi taxi, xe công nghệ ô tô cho bé yên tâm",
+          "intent": "So sánh thuê xe máy tự lái với đi taxi hoặc xe công nghệ ô tô khi trong nhà có em bé còn nhỏ, chưa đội được mũ bảo hiểm vừa đầu, để chọn cách đi hợp lý theo từng chặng, giờ giấc và thời tiết.",
+          "kw": "thuê xe máy hay taxi với em bé",
+          "kw2": [
+            "đi Hà Nội với em bé nên thuê xe máy hay taxi",
+            "chở em bé nhỏ bằng xe máy hay ô tô"
+          ],
+          "links": [
+            "/xe-may/so-sanh-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "bố mẹ đưa em bé còn nhỏ đến Hà Nội vài ngày và đang cân nhắc giữa xe máy tự lái với taxi, xe công nghệ",
+          "location_scope": "Hà Nội, các chặng trong nội thành và quanh Hồ Tây, phố cổ, khu Long Biên",
+          "word_target": 1300
+        },
+        {
+          "title": "Đưa đón con tiểu học mỗi ngày: thuê xe máy theo tháng hay đăng ký xe đưa đón của trường",
+          "intent": "So sánh thuê xe máy theo tháng để tự đưa đón con tiểu học với đăng ký xe đưa đón của trường, về giờ giấc, chỗ dừng đón, người trông con và những ngày thay đổi lịch.",
+          "kw": "thuê xe máy hay xe trường đưa đón",
+          "kw2": [
+            "xe đưa đón của trường hay tự đưa đón con",
+            "đưa con đi học bằng xe máy thuê tháng"
+          ],
+          "links": [
+            "/xe-may/so-sanh-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "phụ huynh mới chuyển đến Hà Nội, con học tiểu học và đang cân nhắc cách đưa đón mỗi ngày",
+          "location_scope": "Hà Nội, quãng giữa chỗ ở, trường tiểu học và nơi làm việc của phụ huynh",
+          "word_target": 1300
+        },
+        {
+          "title": "Đi Hà Giang nên đi xe máy hay ô tô: số ngày, đường đèo, chở đồ và chỗ dừng chụp ảnh khác nhau thế nào",
+          "intent": "So sánh đi vòng cung Hà Giang bằng xe máy tự lái với đi ô tô hoặc xe khách: số ngày cần, độ khó đường đèo, chở đồ, thời tiết, chuyện dừng ngắm cảnh và ai hợp với cách nào, để chọn trước khi thuê xe.",
+          "kw": "đi hà giang xe máy hay ô tô",
+          "kw2": [
+            "đi hà giang nên đi xe máy hay ô tô",
+            "so sánh đi hà giang xe máy và ô tô"
+          ],
+          "links": [
+            "/xe-may/so-sanh-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-21-W3AC",
+          "audience": "người đang lên kế hoạch đi Hà Giang từ Hà Nội, phân vân giữa xe máy thuê và ô tô",
+          "location_scope": "Hà Nội – Hà Giang, vòng cung Quản Bạ, Yên Minh, Đồng Văn, Mèo Vạc (nay thuộc tỉnh Tuyên Quang)",
+          "word_target": 1300
         }
       ]
     }
