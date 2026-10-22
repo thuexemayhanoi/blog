@@ -27,6 +27,14 @@ Run #1276 (`39849247393`), HEAD `ba59ea27`:
   và `test_slugify_vi` (`setUpClass`, fixture cần ≥ 10 hàng PLANNED có chữ đ, hiện có 0). 29 suite còn lại PASS, gồm `test_gate_scope`,
   `test_related_cluster_data`, `test_faq`, `test_publish_flow`, `test_multiwriter_sim`. Đây là lỗi đỏ sẵn trên `main` (mục SEO-104), không do đợt này.
 
+## Commit báo cáo `94d2cb49` (FACT)
+
+Chỉ thêm công cụ `scripts/seo`, tài liệu và báo cáo; nội dung `_site` không đổi.
+
+- Pages run #5495 (`39853580990`): `build` success (bước Jekyll 9 phút 59 giây), `deploy` success (19 giây), tổng 11 phút 03 giây.
+- Quality gate run #1277 (`39853581771`): job `gate` **success**, 13 phút 16 giây, đủ 19 bước. Job `engine-tests` còn đang chạy khi ghi báo cáo này;
+  commit này không chạm workflow hay mã của hai suite đã đỏ nên kết quả dự kiến giống run #1276 (chưa xác nhận).
+
 ## Xác minh live (không curl trực tiếp được từ sandbox; dùng Nimble Extract tải trang công khai)
 
 | URL | Kết quả |

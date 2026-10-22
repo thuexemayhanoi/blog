@@ -76,7 +76,14 @@ Kiểm tra tương đương HTML (so toàn bộ 6.844 trang giữa trước và 
 | Quality gate: bước build | 18 phút 54 giây | 8 phút 02 giây |
 | Quality gate: job `gate` | hủy ở 20 phút (7 bước bị bỏ qua) | THÀNH CÔNG, 10 phút 43 giây, đủ 19 bước |
 
-Ghi chú: hai build trên chạy song song trên hai runner khác nhau; số đo trước và sau lấy từ cùng loại runner `ubuntu-latest`.
+Mẫu đo thứ hai cho cùng nội dung site (commit báo cáo `94d2cb49`, chỉ thêm tệp ngoài `_site`): bước "Build with Jekyll" của Pages mất
+9 phút 59 giây (21:00:14 → 21:10:13Z), bước build của job `gate` mất 9 phút 39 giây, job `gate` xanh sau 13 phút 16 giây (đủ 19 bước),
+Pages deploy 19 giây, tổng push → deploy 11 phút 03 giây.
+
+Kết luận thận trọng: thời gian build trên runner GitHub dao động theo lần chạy (5 phút 51 giây và 9 phút 59 giây cho cùng nội dung site).
+Hai mẫu sau sửa đều thấp hơn mẫu trước sửa (18 phút 05 giây, một mẫu), tức giảm khoảng 45–68%, nhưng chưa đủ mẫu để nêu trung bình.
+Biên an toàn của `gate` so với `timeout-minutes: 20` vẫn hẹp ở lần chậm (13 phút 16 giây); cần theo dõi thêm và xử lý hạng mục SEO-103
+(`related-articles`) nếu các lần chạy sau tiến gần mốc 20 phút.
 
 ## 5. Còn lại (chưa sửa, có thiết kế)
 

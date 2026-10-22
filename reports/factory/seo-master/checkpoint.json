@@ -1,6 +1,6 @@
 {
   "schema": "seo-master-checkpoint/1",
-  "updated_at": "2026-10-22T21:05:00Z",
+  "updated_at": "2026-10-22T21:20:00Z",
   "origin_main_at_session_start": "4f61156e5331be4559b947a56e59b2bcd8b9f355",
   "engine_commit": "ba59ea2796f839fba7859ae5cd5e6863acb19819",
   "head_note": "Commit báo cáo/checkpoint đi sau engine_commit; dùng `git log --oneline -- reports/factory/seo-master` để thấy các commit báo cáo. Đối chiếu HEAD thật bằng `git rev-parse HEAD` trước khi tiếp tục.",
@@ -133,6 +133,9 @@
   "ci": {
     "pages_run": "5494 success (build 5m51s, deploy 19s)",
     "quality_gate_run": "1276: job gate success 10m43s; job engine-tests failure = 2 suite đỏ sẵn trên main (giống hệt run 1275 ở 4f61156e)",
-    "engine_commit_checked": "ba59ea27"
+    "engine_commit_checked": "ba59ea27",
+    "pages_run_94d2cb49": "5495 success (build 9m59s, deploy 19s)",
+    "quality_gate_run_94d2cb49": "1277: job gate success 13m16s; engine-tests đang chạy khi ghi (chưa xác nhận)",
+    "build_time_note": "Runner GitHub dao động: 5m51s và 9m59s cho cùng nội dung site; trước sửa 18m05s. Theo dõi biên 20 phút của job gate."
   }
 }
