@@ -2,7 +2,9 @@
 
 <!-- Primary Meta Tags -->
 {% assign seo_title = page.title %}
-{% if seo_title %}
+{% if page.url == '/' and page.meta_title %}
+  {% assign seo_title = page.meta_title %}
+{% elsif seo_title %}
   {% unless seo_title contains site.title %}
     {% assign seo_title = seo_title | append: ' - ' | append: site.title %}
   {% endunless %}

@@ -14,7 +14,7 @@ description: "{{ site.description }}"
   <div class="container">
     <div class="hero-content">
       <h1 class="hero-title">{{ page.hero_title | default: site.title | escape }}</h1>
-      <p class="hero-subtitle">{{ page.description | default: site.description | escape }}</p>
+      <p class="hero-subtitle">{{ page.hero_description | default: page.description | default: site.description | escape }}</p>
       
       <div class="hero-cta">
         <a href="{{ '/tim-kiem/' | relative_url }}" class="btn btn-primary">🔎 Tìm bài thông minh</a>
