@@ -1,6 +1,6 @@
 {
   "schema": "seo-master-checkpoint/1",
-  "updated_at": "2026-10-22T21:20:00Z",
+  "updated_at": "2026-10-22T22:30:00Z",
   "origin_main_at_session_start": "4f61156e5331be4559b947a56e59b2bcd8b9f355",
   "engine_commit": "ba59ea2796f839fba7859ae5cd5e6863acb19819",
   "head_note": "Commit báo cáo/checkpoint đi sau engine_commit; dùng `git log --oneline -- reports/factory/seo-master` để thấy các commit báo cáo. Đối chiếu HEAD thật bằng `git rev-parse HEAD` trước khi tiếp tục.",
@@ -22,7 +22,22 @@
     "near_title_pairs_same_cluster": 82,
     "topic_groups_mapped": 34,
     "commercial_keyword_groups": 12,
-    "completion": "PARTIAL — không báo 100%: còn mục DEFERRED/BLOCKED/OPEN bên dưới; chưa có dữ liệu Search Console của blog"
+    "completion": "PARTIAL — không báo 100%: còn mục DEFERRED/BLOCKED/OPEN bên dưới; chưa có dữ liệu Search Console của blog",
+    "inventory_enrichment": {
+      "columns": [
+        "seo_role",
+        "cannibalization_role",
+        "keyword_groups",
+        "secondary_keywords",
+        "needs_action",
+        "fix_priority",
+        "action_status",
+        "staleness_risk",
+        "stale_signals"
+      ],
+      "rows_with_role_and_priority": 6843,
+      "see": "inventory-summary.json -> enrichment"
+    }
   },
   "items": [
     {
@@ -62,9 +77,15 @@
       "evidence": "9/9 PASS trên bản build cuối; baseline FAIL đúng các lỗi đã sửa"
     },
     {
+      "id": "SEO-011",
+      "status": "DONE",
+      "what": "Làm giàu url-inventory.csv: vai trò SEO, hành động, ưu tiên P0–P4, trạng thái, rủi ro lỗi thời (INFERRED), từ khóa phụ",
+      "evidence": "scripts/seo/enrich-inventory.py; chạy lại pipeline 3 bước từ _site cho kết quả byte-giống tệp đã commit"
+    },
+    {
       "id": "SEO-101",
       "status": "BLOCKED",
-      "why": "1.254 slug mất chữ đ; đổi URL bị cấm",
+      "why": "1.410 slug mất chữ đ (đo lại bằng khớp tuyệt đối với tiêu đề matrix; số 1.254 trước đó dùng cách so khác); đổi URL bị cấm",
       "next": "Chỉ làm khi chủ duyệt kế hoạch redirect bảo toàn URL"
     },
     {
@@ -82,7 +103,7 @@
     {
       "id": "SEO-104",
       "status": "BLOCKED",
-      "why": "engine-tests đỏ sẵn trên main (test_hardening 3 test; test_slugify_vi fixture) — ngoài phạm vi SEO",
+      "why": "engine-tests đỏ sẵn trên main (test_hardening 3 test: factory-publish.yml có cron + workflow_dispatch, test \"sk-\" khớp nhầm; test_slugify_vi fixture) — ngoài phạm vi SEO; đã xác nhận cùng 2 suite ở run 1275, 1276, 1277",
       "next": "Chủ/AI vận hành sửa test hoặc workflow; không thuộc đợt này"
     },
     {
@@ -119,7 +140,7 @@
   "resume": [
     "git pull --ff-only origin main; so HEAD với engine_commit",
     "Build cục bộ: jekyll build --destination /tmp/site (Jekyll 3.10.0, minima 2.5.1, jekyll-sitemap, jekyll-feed, kramdown-parser-gfm)",
-    "python3 scripts/seo/build-inventory.py --site /tmp/site --graph-out /tmp/graph.json && python3 scripts/seo/build-matrix.py --graph /tmp/graph.json",
+    "python3 scripts/seo/build-inventory.py --site /tmp/site --graph-out /tmp/graph.json && python3 scripts/seo/build-matrix.py --graph /tmp/graph.json && python3 scripts/seo/enrich-inventory.py  (enrich luôn chạy sau cùng)",
     "python3 scripts/seo/check-regressions.py --site /tmp/site  (phải PASS 9/9)",
     "Chỉ chạm hạng mục OPEN/DEFERRED; không làm lại hạng mục DONE; báo cáo sau mỗi đợt vào fix-log.csv"
   ],
@@ -135,7 +156,7 @@
     "quality_gate_run": "1276: job gate success 10m43s; job engine-tests failure = 2 suite đỏ sẵn trên main (giống hệt run 1275 ở 4f61156e)",
     "engine_commit_checked": "ba59ea27",
     "pages_run_94d2cb49": "5495 success (build 9m59s, deploy 19s)",
-    "quality_gate_run_94d2cb49": "1277: job gate success 13m16s; engine-tests đang chạy khi ghi (chưa xác nhận)",
+    "quality_gate_run_94d2cb49": "1277: job gate success 13m16s; job engine-tests failure (904s) = cùng 2 suite/3 test đỏ như 1275 và 1276 (đã đọc log)",
     "build_time_note": "Runner GitHub dao động: 5m51s và 9m59s cho cùng nội dung site; trước sửa 18m05s. Theo dõi biên 20 phút của job gate."
   }
 }

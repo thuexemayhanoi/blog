@@ -5,6 +5,47 @@
   "dup_description_groups": 0,
   "dup_slug_groups": 0,
   "dup_title_groups": 0,
+  "enrichment": {
+    "action_status": {
+      "BLOCKED_EVIDENCE_SHA": 4,
+      "BLOCKED_URL_CONTRACT": 1387,
+      "DEFERRED_OWNER_PLAN": 77,
+      "EXPECTED": 1,
+      "NONE": 5010,
+      "OPEN": 364
+    },
+    "fix_priority": {
+      "P2": 1446,
+      "P3": 386,
+      "P4": 5011
+    },
+    "needs_action": {
+      "CANNIBALIZATION_SUPPORT": 58,
+      "DESC_TOO_LONG": 4,
+      "FRESHNESS_REVIEW": 385,
+      "H1_IN_BODY": 1,
+      "NEAR_TITLE_PAIR": 64,
+      "NOINDEX_INTENTIONAL": 1,
+      "SLUG_D_STRIPPED": 1410
+    },
+    "note": "staleness_risk/stale_signals = INFERRED (regex trên nội dung bài); FRESHNESS_REVIEW chỉ là gợi ý rà soát theo nguồn chính thức, không phải kết luận sai/đúng",
+    "seo_role": {
+      "CANNIBALIZATION_LEAD": 47,
+      "HOME": 1,
+      "HUB": 56,
+      "LEAD_POST": 204,
+      "LISTING": 689,
+      "PAGE": 14,
+      "PILLAR": 7,
+      "SUPPORT_POST": 58,
+      "TOPIC_POST": 5767
+    },
+    "staleness_risk": {
+      "HIGH": 385,
+      "LOW": 3127,
+      "MEDIUM": 2564
+    }
+  },
   "generated_by": "scripts/seo/build-inventory.py",
   "html_pages": 6844,
   "inventory_rows": 6843,

@@ -24,7 +24,7 @@ sự thật vận hành: số bài, trạng thái, QA vẫn đọc từ `data/co
 
 | Tệp | Nội dung | Sinh bởi |
 |---|---|---|
-| `url-inventory.csv` | một hàng/URL: loại trang, intent, chủ đề, metadata, canonical, heading, JSON-LD, liên kết vào/ra, orphan risk | `scripts/seo/build-inventory.py --site <_site>` |
+| `url-inventory.csv` | một hàng/URL: loại trang, intent, chủ đề, metadata, canonical, heading, JSON-LD, liên kết vào/ra, orphan risk; cuối hàng là 9 cột vai trò/hành động (xem dưới) | `build-inventory.py --site <_site>`, rồi `enrich-inventory.py` thêm 9 cột cuối |
 | `technical-issues.csv` | mỗi lỗi: mã, ưu tiên, URL/tệp, bằng chứng, nguyên nhân, cách xử lý, trạng thái | cùng script |
 | `inventory-summary.json` | số liệu tổng hợp của lần quét | cùng script |
 | `keyword-intent-map.csv` | 12 nhóm từ khóa thương mại: URL chủ lực, bổ trợ, xung đột với website chính, ưu tiên | `scripts/seo/build-matrix.py` |
@@ -45,6 +45,7 @@ Cấu hình duy nhất cho ma trận: `scripts/seo/seo-matrix-config.yml` (URL c
 |---|---|
 | `build-inventory.py` | kiểm kê + audit từ `_posts`, matrix, taxonomy và HTML đã render (đọc-only) |
 | `build-matrix.py` | Keyword–Intent Map (12 nhóm), ánh xạ 34 nhóm, cannibalization, gợi ý liên kết |
+| `enrich-inventory.py` | thêm vào `url-inventory.csv`: `seo_role`, `cannibalization_role`, `keyword_groups`, `secondary_keywords`, `needs_action`, `fix_priority`, `action_status`, `staleness_risk`, `stale_signals` |
 | `build-leads.py` | chọn bài chủ lực cho từng hub con → `_data/seo-leads.yml` (sinh tự động, không sửa tay) |
 | `validate-hub-intros.py` | kiểm phần giới thiệu pillar/hub (không chữ số, không từ cấm, liên kết hợp lệ, không trùng) và ghi vào `.md` khi PASS |
 | `seo-matrix-config.yml` | cấu hình duy nhất: URL chủ lực, regex nhóm từ khóa/chủ đề |
@@ -59,6 +60,21 @@ Kiểm tra hồi quy sau mỗi build cục bộ: `python3 scripts/seo/check-regr
 Báo cáo nằm dưới `reports/factory/` có chủ đích: đường dẫn này thuộc nhóm "content" của `scripts/factory/gate-scope.py`,
 nên commit chỉ cập nhật báo cáo không kích hoạt build đầy đủ của Quality gate.
 
+## Cột vai trò và hành động trong `url-inventory.csv`
+
+Mỗi URL có đúng một `seo_role` và một `fix_priority`; URL không có lỗi đã biết mang `needs_action` rỗng, `fix_priority = P4`, `action_status = NONE`.
+
+| Cột | Giá trị | Nhãn |
+|---|---|---|
+| `seo_role` | HOME, PILLAR, HUB, LISTING, PAGE, LEAD_POST (nằm trong `_data/seo-leads.yml`), CANNIBALIZATION_LEAD, SUPPORT_POST, TOPIC_POST | FACT |
+| `cannibalization_role` | LEAD (URL chủ lực đề xuất của nhóm trùng khóa), SUPPORT (bài bổ trợ), NEAR_TITLE (tiêu đề gần trùng, Jaccard ≥ 0,7 trong cụm); ưu tiên LEAD > SUPPORT > NEAR_TITLE | FACT (tiêu đề) + INFERRED (intent) |
+| `needs_action` | CANONICAL_OR_H1_BROKEN, NOT_IN_SITEMAP (P0); ORPHAN_NO_INBOUND (P1); H1_IN_BODY, CANNIBALIZATION_SUPPORT, SLUG_D_STRIPPED (P2); DESC_TOO_LONG, LOW_INBOUND, NEAR_TITLE_PAIR, FRESHNESS_REVIEW (P3); NOINDEX_INTENTIONAL (P4) | FACT, riêng FRESHNESS_REVIEW là INFERRED |
+| `action_status` | OPEN; BLOCKED_URL_CONTRACT (đổi URL bị cấm); BLOCKED_EVIDENCE_SHA (sửa bài đã xuất bản làm lệch SHA bằng chứng QA); DEFERRED_OWNER_PLAN (chờ kế hoạch cannibalization); EXPECTED; NONE | FACT |
+| `staleness_risk`, `stale_signals` | HIGH = nội dung có cả con số (tiền, %, km/h) lẫn từ ngữ pháp lý (nghị định, luật, mức phạt…); MEDIUM = có một trong ba tín hiệu AMOUNT/LEGAL/TIME; LOW = không có | INFERRED (regex trên nội dung bài, không kết luận sai/đúng) |
+
+`SLUG_D_STRIPPED` là phép khớp tuyệt đối: slug URL thật bằng slug cũ (đ bị xóa) tính từ tiêu đề trong matrix và khác slug đúng. `FRESHNESS_REVIEW`
+chỉ là gợi ý rà soát theo nguồn chính thức (`docs/SOURCE-RESEARCH.md`); không sửa số liệu kinh doanh/pháp lý ngoài `data/business-facts.json`.
+
 ## Chạy lại (cục bộ, không cần mạng ngoài)
 
 ```bash
@@ -68,6 +84,8 @@ jekyll build --destination /tmp/site
 python3 scripts/seo/build-inventory.py --site /tmp/site --graph-out /tmp/graph.json
 # 3) ma trận từ khóa, ánh xạ 34 nhóm, cannibalization, gợi ý liên kết
 python3 scripts/seo/build-matrix.py --graph /tmp/graph.json
+# 4) thêm cột vai trò/hành động/ưu tiên vào url-inventory.csv (luôn chạy SAU hai bước trên, vì bước 2 ghi lại tệp)
+python3 scripts/seo/enrich-inventory.py
 ```
 
 ## Giao thức tiếp tục sau gián đoạn

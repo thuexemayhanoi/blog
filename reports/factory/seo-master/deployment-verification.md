@@ -32,8 +32,13 @@ Run #1276 (`39849247393`), HEAD `ba59ea27`:
 Chỉ thêm công cụ `scripts/seo`, tài liệu và báo cáo; nội dung `_site` không đổi.
 
 - Pages run #5495 (`39853580990`): `build` success (bước Jekyll 9 phút 59 giây), `deploy` success (19 giây), tổng 11 phút 03 giây.
-- Quality gate run #1277 (`39853581771`): job `gate` **success**, 13 phút 16 giây, đủ 19 bước. Job `engine-tests` còn đang chạy khi ghi báo cáo này;
-  commit này không chạm workflow hay mã của hai suite đã đỏ nên kết quả dự kiến giống run #1276 (chưa xác nhận).
+- Quality gate run #1277 (`39853581771`): job `gate` **success**, 13 phút 16 giây, đủ 19 bước. Job `engine-tests` (`120092306738`) **failure** sau 904 giây
+  trong bước "Run offline engine test suites": 31 suite, 29 PASS, 2 FAIL — **cùng hai suite và cùng các test hỏng** như run #1276 và #1275:
+  `test_hardening` (`test_s7_no_ai_no_secrets`, `test_s7_publish_hotpath`, `test_publisher_has_no_dispatch_and_only_watchdog_has_cron`) và `test_slugify_vi`
+  (`setUpClass`, fixture cần ≥ 10 hàng PLANNED có chữ đ, có 0). Đã đọc log để xác nhận (FACT, 2026-10-22), không còn là dự đoán.
+  Nguyên nhân từng test (đã chẩn đoán, chưa sửa vì ngoài phạm vi SEO và chạm hợp đồng workflow): `factory-publish.yml` hiện có `schedule: cron '17,47 * * * *'` và
+  `workflow_dispatch` trong khi test hợp đồng yêu cầu publisher chỉ push-driven; test `sk-` khớp nhầm trong `quality-gate.yml` (chuỗi `webmcp-ask-site.js`);
+  fixture của `test_slugify_vi` phụ thuộc hàng đợi PLANNED.
 
 ## Xác minh live (không curl trực tiếp được từ sandbox; dùng Nimble Extract tải trang công khai)
 
