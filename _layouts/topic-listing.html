@@ -38,6 +38,7 @@ Lọc bài qua child_id (frontmatter hoặc factory-map), 24 bài/trang, không 
     <div class="post-grid">
       {% assign shown = 0 %}
       {% for post in site.posts %}
+        {% if shown >= limit_to %}{% break %}{% endif %}
         {% assign p_child = post.child_id %}
         {% if p_child == nil %}
           {% assign m = site.data.factory-map[post.slug] %}

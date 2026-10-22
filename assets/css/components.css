@@ -2087,6 +2087,14 @@
   color: var(--color-primary-dark);
 }
 
+.pagination .page-gap {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0 var(--spacing-xs);
+  color: var(--color-text-secondary);
+}
+
 .pagination span[aria-current="page"] {
   background: var(--color-primary);
   border-color: var(--color-primary);

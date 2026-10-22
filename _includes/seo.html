@@ -12,13 +12,13 @@
   {% assign seo_title = site.title %}
 {% endif %}
 
-<title>{{ seo_title }}</title>
+<title>{{ seo_title | escape_once }}</title>
 
 {% if page.meta_title %}
-<meta name="title" content="{{ page.meta_title }}">
+<meta name="title" content="{{ page.meta_title | escape_once }}">
 {% endif %}
 
-<meta name="description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 }}">
+<meta name="description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 | escape_once }}">
 
 {% if page.robots %}
 <meta name="robots" content="{{ page.robots }}">
@@ -33,9 +33,9 @@
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
-<meta property="og:title" content="{{ seo_title }}">
-<meta property="og:description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 }}">
-<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ seo_title | escape_once }}">
+<meta property="og:description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 | escape_once }}">
+<meta property="og:site_name" content="{{ site.title | escape_once }}">
 
 <!-- Logo for OG -->
 {% if business.logo %}
@@ -47,8 +47,8 @@
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ seo_title }}">
-<meta name="twitter:description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 }}">
+<meta name="twitter:title" content="{{ seo_title | escape_once }}">
+<meta name="twitter:description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 | escape_once }}">
 
 {% if business.logo %}
 <meta name="twitter:image" content="{{ business.logo | absolute_url }}">

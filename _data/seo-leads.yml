@@ -1,0 +1,458 @@
+# Sinh bởi scripts/seo/build-leads.py (SEO Master) — KHÔNG sửa tay; chạy lại script khi cần làm mới.
+# child_id -> danh sách bài chủ lực (u = URL thật như site phục vụ, t = tiêu đề). Dùng bởi _layouts/topic.html.
+# Tiêu chí chọn: xem docstring scripts/seo/build-leads.py. Không dùng dữ liệu GSC (blog chưa có).
+C-BAO-DUONG:
+- t: Thuê xe máy khi xe nhà đang bảo dưỡng
+  u: /kinh nghiệm/2026/09/19/thue-xe-may-khi-xe-nha-dang-bao-duong/
+- t: Bảo dưỡng định kỳ xe máy gồm những gì
+  u: /xe-may/2026/09/27/bao-duong-inh-ky-xe-may-gom-nhung-gi/
+- t: Dầu máy xe máy đổi sau bao lâu
+  u: /xe-may/2026/09/27/dau-may-xe-may-oi-sau-bao-lau/
+- t: Xe thuê lâu ngày không bảo dưỡng có sao không
+  u: /xe-may/2026/10/07/xe-thue-lau-ngay-khong-bao-duong-co-sao-khong/
+- t: Lốp xe máy khi nào cần thay
+  u: /xe-may/2026/09/27/lop-xe-may-khi-nao-can-thay/
+C-BAO-HIEM:
+- t: 'Bảo hiểm xe máy bán dạo ven đường ở Hà Nội: cách kiểm tra giấy chứng nhận thật trước khi trả tiền'
+  u: /an-toan-phap-ly/2026/10/15/bao-hiem-xe-may-ban-dao-ven-duong-o-ha-noi-cach-kiem-tra-giay-chung-nhan-that-tr/
+- t: Không có bảo hiểm xe máy bị phạt thế nào
+  u: /an-toan-phap-ly/2026/09/28/khong-co-bao-hiem-xe-may-bi-phat-the-nao/
+- t: Mang theo giấy bảo hiểm xe máy khi đi đường
+  u: /an-toan-phap-ly/2026/10/10/mang-theo-giay-bao-hiem-xe-may-khi-i-uong/
+- t: Mua bảo hiểm xe máy ở đâu và hiệu lực ra sao
+  u: /an-toan-phap-ly/2026/09/28/mua-bao-hiem-xe-may-o-au-va-hieu-luc-ra-sao/
+- t: 'Mất giấy chứng nhận bảo hiểm xe máy bản giấy: xin cấp lại hay tra cứu bản điện tử để xuất trình'
+  u: /an-toan-phap-ly/2026/10/15/mat-giay-chung-nhan-bao-hiem-xe-may-ban-giay-xin-cap-lai-hay-tra-cuu-ban-dien-tu/
+C-BAO-TANG:
+- t: Kinh nghiệm ghé thăm bảo tàng Hà Nội nửa ngày
+  u: /du-lich/2026/10/01/kinh-nghiem-ghe-tham-bao-tang-ha-noi-nua-ngay/
+- t: 'Đến bảo tàng Hà Nội bằng xe máy: gửi xe và đường đi'
+  u: /du-lich/2026/10/01/en-bao-tang-ha-noi-bang-xe-may-gui-xe-va-uong-i/
+- t: 'Trải nghiệm Bảo tàng Hà Nội: nên đi cùng ai và lúc nào'
+  u: /du-lich/2026/09/28/trai-nghiem-bao-tang-ha-noi-nen-i-cung-ai-va-luc-nao/
+C-BIEN-BAO:
+- t: Biển báo giao thông thường gặp khi đi trong phố
+  u: /kinh nghiệm/2026/09/19/bien-bao-giao-thong-thuong-gap-khi-di-trong-pho/
+- t: 'Biển tự viết ở đầu ngõ hay trong khu đô thị như Cấm đỗ xe, Đi chậm: có hiệu lực như biển báo giao thông không'
+  u: /an-toan-phap-ly/2026/10/15/bien-tu-viet-o-dau-ngo-hay-trong-khu-do-thi-nhu-cam-do-xe-di-cham-co-hieu-luc-nh/
+C-CD-CUOI-TUAN:
+- t: Cung đường Hà Nội - Chùa Bái Đính - Tràng An cuối tuần
+  u: /cung-duong/2026/10/05/cung-uong-ha-noi-chua-bai-inh-trang-an-cuoi-tuan/
+- t: 'Hà Nội đi Ba Vì bằng xe máy: cung đường cuối tuần'
+  u: /cung-duong/2026/10/10/ha-noi-i-ba-vi-bang-xe-may-cung-uong-cuoi-tuan/
+- t: 'Đi một đường, về đường khác: ghép vòng tròn cho chuyến cuối tuần từ Hà Nội'
+  u: /cung-duong/2026/10/13/di-mot-duong-ve-duong-khac-ghep-vong-tron-cho-chuyen-cuoi-tuan-tu-ha-noi/
+- t: Chạy xe từ Hà Nội đến Chùa Hương cuối tuần
+  u: /cung-duong/2026/09/28/chay-xe-tu-ha-noi-en-chua-huong-cuoi-tuan/
+- t: Chạy xe từ Hà Nội đến Hồ Lục Quân cuối tuần
+  u: /cung-duong/2026/09/28/chay-xe-tu-ha-noi-en-ho-luc-quan-cuoi-tuan/
+C-CD-HA-GIANG:
+- t: Xe ga đi được Hà Giang không
+  u: /cung-duong/2026/09/28/xe-ga-i-uoc-ha-giang-khong/
+- t: Thẻ thông hành và giấy tờ khi đi Hà Giang
+  u: /cung-duong/2026/09/28/the-thong-hanh-va-giay-to-khi-i-ha-giang/
+- t: Từ Hà Nội lên Hà Giang nên nghỉ đêm đầu ở đâu
+  u: /cung-duong/2026/10/09/tu-ha-noi-len-ha-giang-nen-nghi-em-au-o-au/
+- t: Chuẩn bị xe máy đi Hà Giang từ nhà xe thuê
+  u: /cung-duong/2026/09/28/chuan-bi-xe-may-i-ha-giang-tu-nha-xe-thue/
+- t: Thuê xe máy Hà Nội chạy Hà Giang nên hay không nên
+  u: /cung-duong/2026/10/09/thue-xe-may-ha-noi-chay-ha-giang-nen-hay-khong-nen/
+C-CD-MAI-CHAU:
+- t: Mai Châu mùa lúa chín đi xe máy lúc nào đẹp
+  u: /cung-duong/2026/10/05/mai-chau-mua-lua-chin-i-xe-may-luc-nao-ep/
+- t: 'Mai Châu mùa cấy lúa tháng Năm, tháng Sáu: ruộng đổ nước, mưa rào và cách đi'
+  u: /cung-duong/2026/10/13/mai-chau-mua-cay-lua-thang-nam-thang-sau-ruong-do-nuoc-mua-rao-va-cach-di/
+- t: 'Mai Châu có hợp cho người mới đi phượt xe máy đường đèo không: đánh giá độ khó'
+  u: /cung-duong/2026/10/13/mai-chau-co-hop-cho-nguoi-moi-di-phuot-xe-may-duong-deo-khong-danh-gia-do-kho/
+- t: 'Mai Châu ngày thường hay cuối tuần: đường, homestay và bản làng khác nhau ra sao'
+  u: /cung-duong/2026/10/13/mai-chau-ngay-thuong-hay-cuoi-tuan-duong-homestay-va-ban-lang-khac-nhau-ra-sao/
+- t: 'Mai Châu mùa hoa ban cuối tháng Hai đến tháng Ba: đi xe máy gặp gì, chuẩn bị gì'
+  u: /cung-duong/2026/10/13/mai-chau-mua-hoa-ban-cuoi-thang-hai-den-thang-ba-di-xe-may-gap-gi-chuan-bi-gi/
+C-CD-MOC-CHAU:
+- t: Mộc Châu mùa hoa mận trắng đi tháng mấy
+  u: /cung-duong/2026/09/28/moc-chau-mua-hoa-man-trang-i-thang-may/
+- t: Mộc Châu tháng ba chạy xe máy đi hoa mận thế nào
+  u: /cung-duong/2026/10/07/moc-chau-thang-ba-chay-xe-may-i-hoa-man-the-nao/
+- t: 'Mộc Châu mùa mận chín và dâu tây: đi tháng nào để hái quả'
+  u: /cung-duong/2026/10/11/moc-chau-mua-man-chin-va-dau-tay-i-thang-nao-e-hai-qua/
+- t: 'Mộc Châu mùa dã quỳ cuối tháng Mười, đầu tháng Mười Một: cung đường hoa vàng bằng xe máy'
+  u: /cung-duong/2026/10/15/moc-chau-mua-da-quy-cuoi-thang-muoi-dau-thang-muoi-mot-cung-duong-hoa-vang-bang/
+- t: Chạy xe máy Mộc Châu trong 2 ngày
+  u: /cung-duong/2026/09/28/chay-xe-may-moc-chau-trong-2-ngay/
+C-CD-NOI-THANH:
+- t: Cung đường ven sông Hồng cho buổi chiều Hà Nội
+  u: /cung-duong/2026/10/10/cung-uong-ven-song-hong-cho-buoi-chieu-ha-noi/
+- t: Cung đường chạy xe vòng trung tâm Hà Nội sáng sớm
+  u: /cung-duong/2026/09/28/cung-uong-chay-xe-vong-trung-tam-ha-noi-sang-som/
+- t: Cung đường nội thành qua đường Trần Phú – Ngọc Khánh buổi tối
+  u: /cung-duong/2026/10/04/cung-uong-noi-thanh-qua-uong-tran-phu-ngoc-khanh-buoi-toi/
+C-DIEM-DEN:
+- t: 'Ngày mưa ở Hà Nội: những điểm đến trong nhà dễ đi bằng xe máy'
+  u: /du-lich/2026/10/11/ngay-mua-o-ha-noi-nhung-iem-en-trong-nha-de-i-bang-xe-may/
+- t: 'Tuyến di tích chiến tranh ở Hà Nội bằng xe máy: nối các điểm trong một ngày'
+  u: /du-lich/2026/10/11/tuyen-di-tich-chien-tranh-o-ha-noi-bang-xe-may-noi-cac-iem-trong-mot-ngay/
+- t: 'Hà Nội trước 8 giờ sáng bằng xe máy: những điểm vắng và đẹp nhất'
+  u: /du-lich/2026/10/11/ha-noi-truoc-8-gio-sang-bang-xe-may-nhung-iem-vang-va-ep-nhat/
+- t: Những lưu ý khi chạy xe quanh Cột Cờ Hà Nội
+  u: /du-lich/2026/09/30/nhung-luu-y-khi-chay-xe-quanh-cot-co-ha-noi/
+C-GIAY-TO:
+- t: Bị kiểm tra giấy tờ khi đi xe máy thuê cần lưu ý gì
+  u: /kinh nghiệm/2026/09/19/bi-kiem-tra-giay-to-khi-di-xe-thue/
+- t: 'Tài khoản VNeID mới ở mức 1: nâng lên mức 2 ở đâu tại Hà Nội để xuất trình giấy tờ khi đi xe máy'
+  u: /an-toan-phap-ly/2026/10/15/tai-khoan-vneid-moi-o-muc-1-nang-len-muc-2-o-dau-tai-ha-noi-de-xuat-trinh-giay-t/
+- t: Giấy tờ cần mang khi đi xe máy thường ngày
+  u: /kinh nghiệm/2026/09/19/giay-to-can-mang-khi-di-xe-may-thuong-ngay/
+- t: Bảo vệ giấy tờ và tài liệu khỏi mưa khi đi xe máy ở Hà Nội
+  u: /kinh nghiệm/2026/09/19/bao-ve-giay-to-khoi-mua-khi-di-xe-may/
+- t: Giấy tờ định danh điện tử khi đi xe thuê
+  u: /kinh nghiệm/2026/09/19/giay-to-dinh-danh-dien-tu-khi-di-xe-thue/
+C-GPLX:
+- t: 'Giấy phép lái xe máy bị thu hồi trong những trường hợp nào: khác với tạm giữ và tước quyền sử dụng'
+  u: /an-toan-phap-ly/2026/10/15/giay-phep-lai-xe-may-bi-thu-hoi-trong-nhung-truong-hop-nao-khac-voi-tam-giu-va-t/
+- t: 'Bị tạm giữ giấy phép lái xe máy: xử lý thế nào'
+  u: /an-toan-phap-ly/2026/09/30/bi-tam-giu-giay-phep-lai-xe-may-xu-ly-the-nao/
+- t: 'Điểm giấy phép lái xe máy hoạt động thế nào: 12 điểm, bị trừ khi nào và khi nào tự phục hồi đủ'
+  u: /an-toan-phap-ly/2026/10/15/diem-giay-phep-lai-xe-may-hoat-dong-the-nao-12-diem-bi-tru-khi-nao-va-khi-nao-tu/
+- t: 'Bị tước quyền sử dụng giấy phép lái xe máy: khác gì trừ điểm và trong thời gian bị tước có được lái'
+  u: /an-toan-phap-ly/2026/10/15/bi-tuoc-quyen-su-dung-giay-phep-lai-xe-may-khac-gi-tru-diem-va-trong-thoi-gian-b/
+- t: 'Không nhớ số giấy phép lái xe máy khi làm thủ tục cấp lại: tìm lại số bằng qua VNeID và các kênh chính thức'
+  u: /an-toan-phap-ly/2026/10/20/khong-nho-so-giay-phep-lai-xe-may-khi-lam-thu-tuc-cap-lai-tim-lai-so-bang-qua-vn/
+C-HD-GIA:
+- t: Hỏi giá thuê xe máy cuối tuần có đắt hơn không
+  u: /hoi-dap/2026/10/07/hoi-gia-thue-xe-may-cuoi-tuan-co-at-hon-khong/
+- t: 'Thuê xe máy theo tuần giá tốt: hỏi đáp nhanh'
+  u: /hoi-dap/2026/10/10/thue-xe-may-theo-tuan-gia-tot-hoi-ap-nhanh/
+- t: Thuê xe máy 3 ngày giá có rẻ hơn không
+  u: /hoi-dap/2026/09/30/thue-xe-may-3-ngay-gia-co-re-hon-khong/
+C-HD-NGUOI-MOI:
+- t: Người mới thuê xe nên hỏi gì trước khi nhận xe
+  u: /hoi-dap/2026/10/10/nguoi-moi-thue-xe-nen-hoi-gi-truoc-khi-nhan-xe/
+C-HO-TAY:
+- t: 'Làng Xuân La và đường Vệ Hồ: ngõ làng cũ giữa khu đô thị mới phía tây Hồ Tây'
+  u: /du-lich/2026/10/15/lang-xuan-la-va-duong-ve-ho-ngo-lang-cu-giua-khu-do-thi-moi-phia-tay-ho-tay/
+- t: Gửi xe khi đi dạo bờ Hồ Tây
+  u: /du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/
+- t: 'Khám phá khu Tây Hồ bằng xe máy: đường ven hồ và những thời điểm đẹp nhất'
+  u: /du lịch/2026/09/18/kham-pha-khu-tay-ho-bang-xe-may/
+C-HONDA-AIR-BLADE:
+- t: Honda Air Blade cho người thích chạy khoẻ
+  u: /xe-may/2026/09/27/honda-air-blade-cho-nguoi-thich-chay-khoe/
+- t: 'Honda Air Blade xuống dốc dài: phanh và giữ lái'
+  u: /xe-may/2026/10/03/honda-air-blade-xuong-doc-dai-phanh-va-giu-lai/
+- t: Honda Air Blade thuê cho người thích ga mạnh
+  u: /xe-may/2026/10/09/honda-air-blade-thue-cho-nguoi-thich-ga-manh/
+- t: Honda Air Blade khác gì xe ga phổ thông
+  u: /xe-may/2026/09/27/honda-air-blade-khac-gi-xe-ga-pho-thong/
+- t: Honda Air Blade thuê chạy phượt cuối tuần hợp không
+  u: /xe-may/2026/10/09/honda-air-blade-thue-chay-phuot-cuoi-tuan-hop-khong/
+C-HONDA-CLICK:
+- t: Honda Click trong phố cổ nhỏ hẹp
+  u: /xe-may/2026/09/27/honda-click-trong-pho-co-nho-hep/
+- t: Honda Click thuê có dễ lái cho người mới
+  u: /xe-may/2026/10/07/honda-click-thue-co-de-lai-cho-nguoi-moi/
+- t: Honda Click gọn nhẹ hợp ai
+  u: /xe-may/2026/09/27/honda-click-gon-nhe-hop-ai/
+- t: Honda Click thuê chở hai người có êm không
+  u: /xe-may/2026/10/07/honda-click-thue-cho-hai-nguoi-co-em-khong/
+- t: Honda Click thuê có vù khi lên cầu không
+  u: /xe-may/2026/10/09/honda-click-thue-co-vu-khi-len-cau-khong/
+C-HONDA-VISION:
+- t: Honda Vision hợp với ai khi thuê
+  u: /xe-may/2026/09/27/honda-vision-hop-voi-ai-khi-thue/
+- t: 'Honda Vision đi phố: nhẹ và tiện thế nào'
+  u: /xe-may/2026/09/27/honda-vision-i-pho-nhe-va-tien-the-nao/
+- t: Honda Vision chở người ngồi sau vững tay
+  u: /xe-may/2026/10/10/honda-vision-cho-nguoi-ngoi-sau-vung-tay/
+- t: Honda Vision với nữ giới đi làm hằng ngày
+  u: /xe-may/2026/09/27/honda-vision-voi-nu-gioi-i-lam-hang-ngay/
+- t: Honda Vision cho bạn đi học kèm buổi tối
+  u: /xe-may/2026/10/03/honda-vision-cho-ban-i-hoc-kem-buoi-toi/
+C-HONDA-WAVE:
+- t: Honda Wave hợp với nhu cầu thuê nào
+  u: /xe-may/2026/09/27/honda-wave-hop-voi-nhu-cau-thue-nao/
+- t: Honda Wave thuê có nhồi ì khi chở hai người không
+  u: /xe-may/2026/10/09/honda-wave-thue-co-nhoi-i-khi-cho-hai-nguoi-khong/
+- t: Honda Wave có bền khi chạy đường dài không
+  u: /xe-may/2026/10/10/honda-wave-co-ben-khi-chay-uong-dai-khong/
+- t: Honda Wave cho hành trình dài ngày
+  u: /xe-may/2026/09/27/honda-wave-cho-hanh-trinh-dai-ngay/
+- t: Honda Wave thuê cho người mới có dễ điều khiển không
+  u: /xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-ieu-khien-khong/
+C-KY-NANG-CHO-DO:
+- t: Chở hành lý vali trên xe máy thuê khi chuyển chỗ, ra ga
+  u: /kinh nghiệm/2026/09/19/cho-hanh-ly-vali-tren-xe-may-thue/
+- t: Chở đồ hình trụ và đồ dễ lăn trên xe máy
+  u: /kinh nghiệm/2026/09/19/cho-do-hinh-tru-va-do-de-lan-tren-xe-may/
+- t: Chở chậu cây trên xe máy sao không đổ
+  u: /ky-nang/2026/10/07/cho-chau-cay-tren-xe-may-sao-khong-o/
+- t: Chở đồ dễ vỡ trên xe máy sao cho không hỏng
+  u: /ky-nang/2026/10/10/cho-o-de-vo-tren-xe-may-sao-cho-khong-hong/
+- t: 'Chở hành lý an toàn trên xe máy: theo dung lượng, không theo cảm hứng'
+  u: /chia sẻ/2026/09/18/cho-hanh-ly-an-toan-tren-xe-may/
+C-KY-NANG-GUI-XE:
+- t: Gửi xe ban đêm và giữ an toàn cho xe máy thuê
+  u: /kinh nghiệm/2026/09/19/gui-xe-ban-dem-va-an-toan-xe-thue/
+- t: 'Gửi xe khi về khuya: chỗ giữ tận nơi và lưu ý an toàn'
+  u: /ky-nang/2026/10/01/gui-xe-khi-ve-khuya-cho-giu-tan-noi-va-luu-y-an-toan/
+- t: 'Gửi xe trong hầm chung cư: thủ tục và lưu ý an toàn'
+  u: /ky-nang/2026/10/05/gui-xe-trong-ham-chung-cu-thu-tuc-va-luu-y-an-toan/
+- t: Giữ xe máy an toàn trước nhà dân khu phố cổ
+  u: /ky-nang/2026-09-29/giu-xe-may-an-toan-truoc-nha-dan-khu-pho-co/
+- t: Gửi xe máy qua đêm ở bãi trông giữ
+  u: /ky-nang/2026/10/11/gui-xe-may-qua-em-o-bai-trong-giu/
+C-KY-NANG-TINH-HUONG:
+- t: 'Tình huống xe đi ngược chiều trong ngõ: xử lý thế nào'
+  u: /ky-nang/2026/10/04/tinh-huong-xe-i-nguoc-chieu-trong-ngo-xu-ly-the-nao/
+C-NGOAI-THANH:
+- t: Chạy xe máy ra ngoại thành Hà Nội buổi sáng sớm
+  u: /du-lich/2026/10/10/chay-xe-may-ra-ngoai-thanh-ha-noi-buoi-sang-som/
+C-NOI-DO-CONG:
+- t: Quy định nồng độ cồn khi lái xe hiện hành
+  u: /an-toan-phap-ly/2026/09/28/quy-inh-nong-o-con-khi-lai-xe-hien-hanh/
+- t: Mức phạt nồng độ cồn xe máy mới nhất
+  u: /an-toan-phap-ly/2026/09/28/muc-phat-nong-o-con-xe-may-moi-nhat/
+- t: 'Đo nồng độ cồn: quyền và trình tự'
+  u: /an-toan-phap-ly/2026/09/28/o-nong-o-con-quyen-va-trinh-tu/
+- t: Trình chủ xe thuê khi bị xử lý nồng độ cồn
+  u: /an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/
+C-PHAT-NGUOI:
+- t: 'Phạt nguội xe máy dựa trên văn bản pháp luật nào: luật, nghị định và thông tư người đi xe nên biết'
+  u: /an-toan-phap-ly/2026/10/15/phat-nguoi-xe-may-dua-tren-van-ban-phap-luat-nao-luat-nghi-dinh-va-thong-tu-nguo/
+- t: Kiểm tra phạt nguội xe máy thuê bằng cách nào
+  u: /an-toan-phap-ly/2026/09/30/kiem-tra-phat-nguoi-xe-may-thue-bang-cach-nao/
+- t: Phạt nguội là gì và xe máy có bị không
+  u: /an-toan-phap-ly/2026/09/28/phat-nguoi-la-gi-va-xe-may-co-bi-khong/
+- t: Phạt nguội ở tỉnh khác với xe máy thuê
+  u: /an-toan-phap-ly/2026/10/10/phat-nguoi-o-tinh-khac-voi-xe-may-thue/
+- t: Phạt nguội lỗi nào thường gặp với xe máy
+  u: /an-toan-phap-ly/2026/09/28/phat-nguoi-loi-nao-thuong-gap-voi-xe-may/
+C-PHO-CO:
+- t: 'Thuê xe máy gần Hoàn Kiếm và phố cổ: cách di chuyển trong lòng Hà Nội cũ'
+  u: /du lịch/2026/09/19/thue-xe-may-quan-hoan-kiem-gan-pho-co/
+C-QUY-DINH:
+- t: Quy định giao thông cần nhớ khi chạy xe máy thuê ở Hà Nội
+  u: /kinh nghiệm/2026/09/19/quy-dinh-giao-thong-can-nho-khi-thue-xe-may-ha-noi/
+- t: Nghị định xử phạt vi phạm giao thông xe máy
+  u: /an-toan-phap-ly/2026/09/28/nghi-inh-xu-phat-vi-pham-giao-thong-xe-may/
+- t: Quy định mới về xe máy cần biết
+  u: /an-toan-phap-ly/2026/09/28/quy-inh-moi-ve-xe-may-can-biet/
+- t: Quy định tốc độ xe máy trong đô thị và ngoài đô thị
+  u: /an-toan-phap-ly/2026/09/30/quy-inh-toc-o-xe-may-trong-o-thi-va-ngoai-o-thi/
+- t: 'Chở người trên xe máy: quy định hiện hành'
+  u: /an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/
+C-THUE-DAT-COC:
+- t: Đặt cọc khi thuê xe máy hoạt động thế nào
+  u: /thue-xe/2026/09/27/at-coc-khi-thue-xe-may-hoat-ong-the-nao/
+- t: 'Đặt cọc khi thuê xe máy: cần hỏi rõ điều gì'
+  u: /thue-xe/2026/09/27/at-coc-khi-thue-xe-may-can-hoi-ro-ieu-gi/
+- t: 'Tiền đặt cọc khi thuê xe máy ở Hà Nội: cần biết gì trước khi đưa tiền'
+  u: /kinh nghiệm/2026/09/17/tien-dat-coc-khi-thue-xe-may-o-ha-noi/
+- t: Đặt cọc qua ví điện tử khi thuê xe máy
+  u: /thue-xe/2026/09/30/at-coc-qua-vi-ien-tu-khi-thue-xe-may/
+- t: Đặt cọc thuê xe máy bằng chuyển khoản hoàn thế nào
+  u: /thue-xe/2026/10/05/at-coc-thue-xe-may-bang-chuyen-khoan-hoan-the-nao/
+C-THUE-DIA-DIEM:
+- t: 'Thuê xe máy gần Times City: chỗ nhận xe và lưu ý'
+  u: /thue-xe/2026/10/01/thue-xe-may-gan-times-city-cho-nhan-xe-va-luu-y/
+- t: 'Thuê xe máy gần Bệnh viện Việt Đức: lưu ý khi đến khám bệnh'
+  u: /thue-xe/2026/10/10/thue-xe-may-gan-benh-vien-viet-uc-luu-y-khi-en-kham-benh/
+- t: Thuê xe máy gần hồ Gươm đi phố cổ có thuận tiện không
+  u: /thue-xe/2026/10/07/thue-xe-may-gan-ho-guom-i-pho-co-co-thuan-tien-khong/
+- t: Thuê xe máy gần bến xe Giáp Bát cho chuyến về tỉnh
+  u: /thue-xe/2026/09/29/thue-xe-may-gan-ben-xe-giap-bat-cho-chuyen-ve-tinh/
+- t: 'Thuê xe máy gần Nội Bài: điểm nhận và chạy vào phố lúc nào'
+  u: /thue-xe/2026/10/01/thue-xe-may-gan-noi-bai-iem-nhan-va-chay-vao-pho-luc-nao/
+C-THUE-DOI-TUONG:
+- t: Thuê xe máy cho nghệ nhân về làng nghề
+  u: /thue-xe/2026/10/09/thue-xe-may-cho-nghe-nhan-ve-lang-nghe/
+- t: Thuê xe máy cho người lớn tuổi ở Hà Nội
+  u: /thue-xe/2026/09/30/thue-xe-may-cho-nguoi-lon-tuoi-o-ha-noi/
+- t: Thuê xe máy cho thợ xây về giữa mùa
+  u: /thue-xe/2026/10/04/thue-xe-may-cho-tho-xay-ve-giua-mua/
+- t: Thuê xe máy cho người y sĩ đi trực đêm
+  u: /thue-xe/2026/10/04/thue-xe-may-cho-nguoi-y-si-i-truc-em/
+- t: Thuê xe máy cho người giao báo sáng sớm
+  u: /thue-xe/2026/10/04/thue-xe-may-cho-nguoi-giao-bao-sang-som/
+C-THUE-GIA:
+- t: Giá thuê xe máy điện ở Hà Nội
+  u: /thue-xe/2026/09/27/gia-thue-xe-may-ien-o-ha-noi/
+- t: Giá thuê xe máy 24 giờ tính một ngày thế nào
+  u: /thue-xe/2026/10/07/gia-thue-xe-may-24-gio-tinh-mot-ngay-the-nao/
+- t: Giá thuê xe máy dịp lễ tết có thay đổi không
+  u: /thue-xe/2026/09/27/gia-thue-xe-may-dip-le-tet-co-thay-oi-khong/
+- t: Giá thuê xe máy cao cấp khác xe phổ thông thế nào
+  u: /thue-xe/2026/09/30/gia-thue-xe-may-cao-cap-khac-xe-pho-thong-the-nao/
+- t: Giá thuê xe máy cuối tuần có khác ngày thường không
+  u: /thue-xe/2026/10/05/gia-thue-xe-may-cuoi-tuan-co-khac-ngay-thuong-khong/
+C-THUE-NGAY:
+- t: Thuê xe máy theo ngày cho buổi phỏng vấn
+  u: /thue-xe/2026/10/10/thue-xe-may-theo-ngay-cho-buoi-phong-van/
+- t: Thuê xe máy theo ngày cho chuyến công tác ngắn
+  u: /thue-xe/2026/10/10/thue-xe-may-theo-ngay-cho-chuyen-cong-tac-ngan/
+- t: 'Thuê xe máy theo ngày, theo tuần hay theo tháng: nên chọn kiểu nào'
+  u: /kinh nghiệm/2026/09/17/thue-xe-may-theo-ngay-tuan-hay-thang/
+- t: 'Thuê xe máy theo ngày khi xe nhà đang sửa ở tiệm: thuê bao lâu và chọn xe gần giống xe mình'
+  u: /thue-xe/2026/10/14/thue-xe-may-theo-ngay-khi-xe-nha-dang-sua-o-tiem-thue-bao-lau-va-chon-xe-gan-gio/
+- t: 'Giấy tờ mang theo khi thuê xe máy theo ngày ở Hà Nội: CCCD, bằng lái và những gì tiệm hay hỏi'
+  u: /thue-xe/2026/10/14/giay-to-mang-theo-khi-thue-xe-may-theo-ngay-o-ha-noi-cccd-bang-lai-va-nhung-gi-t/
+C-THUE-NHAN-TRA:
+- t: 'Quy ước xăng khi nhận và trả xe thuê: điểm nhỏ dễ gây hiểu lầm nhất'
+  u: /kinh nghiệm/2026/09/19/quy-uoc-xang-khi-nhan-va-tra-xe-thue/
+- t: 'Chụp ảnh khi nhận và trả xe thuê: bộ bằng chứng nhỏ có tác dụng lớn'
+  u: /kinh nghiệm/2026/09/19/chup-anh-khi-nhan-va-tra-xe-thue/
+- t: 'Đi làm giờ hành chính mà cửa hàng mở 09:00–21:00: chọn giờ nhận và trả xe thuê không lỡ việc công ty'
+  u: /thue-xe/2026/10/15/di-lam-gio-hanh-chinh-ma-cua-hang-mo-09002100-chon-gio-nhan-va-tra-xe-thue-khong/
+- t: Kiểm tra cốp xe ga trước khi nhận xe thuê
+  u: /thue-xe/2026/10/07/kiem-tra-cop-xe-ga-truoc-khi-nhan-xe-thue/
+- t: Kiểm tra ga, đề máy, còi và xi nhan khi nhận xe máy thuê
+  u: /kinh nghiệm/2026/09/19/kiem-tra-ga-de-may-coi-va-xi-nhan-khi-nhan-xe-thue/
+C-THUE-QUOC-TE:
+- t: Người nước ngoài thuê xe máy ở Hà Nội cần gì
+  u: /thue-xe/2026/09/27/nguoi-nuoc-ngoai-thue-xe-may-o-ha-noi-can-gi/
+- t: Người Việt ở nước ngoài về thăm nhà thuê xe máy
+  u: /kinh nghiệm/2026/09/19/viet-kieu-ve-tham-nha-thue-xe-may/
+- t: Người nước ngoài bị dừng kiểm tra giấy tờ khi thuê xe máy
+  u: /thue-xe/2026/09/30/nguoi-nuoc-ngoai-bi-dung-kiem-tra-giay-to-khi-thue-xe-may/
+- t: 'Thuê xe máy ở Tây Hồ dành cho người nước ngoài: những điều cần chuẩn bị'
+  u: /chia sẻ/2026/09/19/thue-xe-may-quan-tay-ho-cho-nguoi-nuoc-ngoai/
+- t: Thuê xe máy giúp khách nước ngoài đến thăm nhà
+  u: /chia sẻ/2026/09/19/thue-xe-may-giup-khach-nuoc-ngoai-den-tham-nha/
+C-THUE-SU-CO:
+- t: 'Chìa xe máy thuê kẹt trong ổ khóa: xử lý không làm hỏng ổ'
+  u: /thue-xe/2026/10/11/chia-xe-may-thue-ket-trong-o-khoa-xu-ly-khong-lam-hong-o/
+- t: 'Cần số xe máy thuê bị kẹt: xử lý tại chỗ và báo cửa hàng'
+  u: /thue-xe/2026/10/11/can-so-xe-may-thue-bi-ket-xu-ly-tai-cho-va-bao-cua-hang/
+- t: Xe máy thuê bị thủng lốp giữa đường xử lý thế nào
+  u: /thue-xe/2026/10/10/xe-may-thue-bi-thung-lop-giua-uong-xu-ly-the-nao/
+- t: 'Xe máy thuê hỏng giữa đường: các bước xử lý an toàn'
+  u: /kinh nghiệm/2026/09/19/xe-hong-giua-duong-xu-ly-an-toan/
+- t: Xe máy thuê hết bình ắc quy giữa đường xử lý thế nào
+  u: /thue-xe/2026/10/10/xe-may-thue-het-binh-ac-quy-giua-uong-xu-ly-the-nao/
+C-THUE-THANG:
+- t: Thuê xe máy theo tháng cho người ở trọ
+  u: /thue-xe/2026/10/10/thue-xe-may-theo-thang-cho-nguoi-o-tro/
+- t: Thuê xe máy theo tháng cho shipper ở Hà Nội
+  u: /thue-xe/2026/09/30/thue-xe-may-theo-thang-cho-shipper-o-ha-noi/
+- t: Thuê xe máy theo tháng khi chờ xe cũ lên đời
+  u: /thue-xe/2026/10/07/thue-xe-may-theo-thang-khi-cho-xe-cu-len-oi/
+- t: Thuê xe máy theo tháng cho thợ dịch vụ tại nhà
+  u: /thue-xe/2026/09/30/thue-xe-may-theo-thang-cho-tho-dich-vu-tai-nha/
+- t: Thuê xe máy theo tháng cho vợ chồng cùng đi làm
+  u: /thue-xe/2026/10/07/thue-xe-may-theo-thang-cho-vo-chong-cung-i-lam/
+C-THUE-THU-TUC:
+- t: Thủ tục thuê xe máy cho người lần đầu đi thuê
+  u: /thue-xe/2026/10/10/thu-tuc-thue-xe-may-cho-nguoi-lan-au-i-thue/
+- t: Thủ tục thuê xe máy khi chưa có hộ khẩu Hà Nội
+  u: /thue-xe/2026/10/05/thu-tuc-thue-xe-may-khi-chua-co-ho-khau-ha-noi/
+- t: Thủ tục thuê xe máy cho người đến công tác ngắn hạn
+  u: /thue-xe/2026/10/04/thu-tuc-thue-xe-may-cho-nguoi-en-cong-tac-ngan-han/
+- t: 'Thủ tục thuê xe máy ở Hà Nội: quy trình từng bước cho người lần đầu thuê'
+  u: /kinh nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/
+- t: 'Thuê xe máy cho người nước ngoài: thủ tục riêng'
+  u: /thue-xe/2026/09/27/thue-xe-may-cho-nguoi-nuoc-ngoai-thu-tuc-rieng/
+C-THUE-TUAN:
+- t: Thuê xe máy theo tuần phù hợp nhu cầu nào
+  u: /thue-xe/2026/09/27/thue-xe-may-theo-tuan-phu-hop-nhu-cau-nao/
+- t: Thuê xe máy theo tuần cho thợ về làm nhà
+  u: /kinh nghiệm/2026/09/19/thue-xe-may-theo-tuan-cho-tho-ve-lam-nha/
+- t: Thuê xe máy theo tuần cho đợt hội chợ cuối năm
+  u: /thue-xe/2026/10/07/thue-xe-may-theo-tuan-cho-ot-hoi-cho-cuoi-nam/
+- t: Thuê xe máy theo tuần khi ở Hà Nội dài ngày
+  u: /thue-xe/2026/10/10/thue-xe-may-theo-tuan-khi-o-ha-noi-dai-ngay/
+- t: Thuê xe máy theo tuần khi về quê ngắn ngày
+  u: /thue-xe/2026/09/30/thue-xe-may-theo-tuan-khi-ve-que-ngan-ngay/
+C-XE-50CC:
+- t: Xe 50cc chở hai người có được không
+  u: /xe-may/2026/10/07/xe-50cc-cho-hai-nguoi-co-uoc-khong/
+- t: Xe 50cc thuê có cần giấy phép lái không
+  u: /xe-may/2026/10/07/xe-50cc-thue-co-can-giay-phep-lai-khong/
+- t: Xe 50cc với người chưa từng lái xe
+  u: /xe-may/2026/09/27/xe-50cc-voi-nguoi-chua-tung-lai-xe/
+- t: Xe 50cc là gì và đi được những đâu
+  u: /xe-may/2026/09/27/xe-50cc-la-gi-va-i-uoc-nhung-au/
+- t: 'Xe 50cc nhẹ dễ đổ khi dựng: chọn chỗ đỗ, chống nghiêng và chống đứng'
+  u: /xe-may/2026/10/11/xe-50cc-nhe-de-o-khi-dung-chon-cho-o-chong-nghieng-va-chong-ung/
+C-XE-DAP-DIEN:
+- t: Xe đạp điện có cần bằng lái không
+  u: /xe-may/2026/09/27/xe-ap-ien-co-can-bang-lai-khong/
+- t: Xe đạp điện cho học sinh sinh viên
+  u: /xe-may/2026/09/27/xe-ap-ien-cho-hoc-sinh-sinh-vien/
+- t: Xe đạp điện khác gì xe máy điện
+  u: /xe-may/2026/09/27/xe-ap-ien-khac-gi-xe-may-ien/
+- t: Xe đạp điện và đường ổ gà ven đô
+  u: /xe-may/2026/10/03/xe-ap-ien-va-uong-o-ga-ven-o/
+- t: Xe đạp điện chở giỏ rau sáng sớm
+  u: /xe-may/2026/10/03/xe-ap-ien-cho-gio-rau-sang-som/
+C-XE-DIEN:
+- t: 'Xe máy điện với xe xăng: chọn nào khi thuê'
+  u: /xe-may/2026/09/27/xe-may-ien-voi-xe-xang-chon-nao-khi-thue/
+- t: Xe máy điện thuê có ồn khi chạy đêm không
+  u: /xe-may/2026/10/09/xe-may-ien-thue-co-on-khi-chay-em-khong/
+- t: 'Xe máy điện chạy đường đê dài: tính pin thế nào'
+  u: /xe-may/2026/10/03/xe-may-ien-chay-uong-e-dai-tinh-pin-the-nao/
+- t: Xe máy điện leo cầu vượt dốc dài
+  u: /xe-may/2026/10/10/xe-may-ien-leo-cau-vuot-doc-dai/
+- t: Xe máy điện thuê chạy lúc mưa có an toàn không
+  u: /xe-may/2026/10/07/xe-may-ien-thue-chay-luc-mua-co-an-toan-khong/
+C-XE-GA:
+- t: Xe tay ga phù hợp với ai khi thuê
+  u: /xe-may/2026/09/27/xe-tay-ga-phu-hop-voi-ai-khi-thue/
+- t: Xe tay ga bị sặc xăng sau khi đổ nhầm
+  u: /xe-may/2026/10/05/xe-tay-ga-bi-sac-xang-sau-khi-o-nham/
+- t: 'Xe tay ga rung khi phanh gấp: kiểm tra gì trước'
+  u: /xe-may/2026/10/11/xe-tay-ga-rung-khi-phanh-gap-kiem-tra-gi-truoc/
+- t: Xe tay ga thuê có cốp đủ chứa hai mũ bảo hiểm không
+  u: /xe-may/2026/10/09/xe-tay-ga-thue-co-cop-u-chua-hai-mu-bao-hiem-khong/
+- t: 'Xe tay ga khó giữ ga đều khi bò chậm: dấu hiệu cần kiểm tra'
+  u: /xe-may/2026/10/11/xe-tay-ga-kho-giu-ga-eu-khi-bo-cham-dau-hieu-can-kiem-tra/
+C-XE-KHAC-PHUC:
+- t: Xe thuê bị rung nhiều ở vạch sơn ướt
+  u: /xe-may/2026/10/09/xe-thue-bi-rung-nhieu-o-vach-son-uot/
+- t: 'Đi Ba Vì, Sóc Sơn bằng xe thuê: chuẩn bị gì để xe hỏng không thành chuyện lớn'
+  u: /xe-may/2026/10/14/di-ba-vi-soc-son-bang-xe-thue-chuan-bi-gi-de-xe-hong-khong-thanh-chuyen-lon/
+- t: 'Xe máy thuê tăng ga không đều: vệ sinh họng ga trước'
+  u: /xe-may/2026/10/11/xe-may-thue-tang-ga-khong-eu-ve-sinh-hong-ga-truoc/
+C-XE-LUA-CHON:
+- t: Mùa mưa lớn nên thuê dòng xe máy nào
+  u: /xe-may/2026/09/29/mua-mua-lon-nen-thue-dong-xe-may-nao/
+- t: 'Thuê một tháng để thử xe trước khi mua: nên thuê dòng nào'
+  u: /xe-may/2026/10/14/thue-mot-thang-de-thu-xe-truoc-khi-mua-nen-thue-dong-nao/
+- t: Phanh CBS trên xe ga là gì và người mới có nên ưu tiên khi chọn xe thuê
+  u: /xe-may/2026/10/14/phanh-cbs-tren-xe-ga-la-gi-va-nguoi-moi-co-nen-uu-tien-khi-chon-xe-thue/
+- t: Thuê xe máy chở người thứ hai cần lưu ý gì
+  u: /xe-may/2026/09/29/thue-xe-may-cho-nguoi-thu-hai-can-luu-y-gi/
+- t: Có nên thuê xe cao cấp khi chỉ đi phố cổ
+  u: /xe-may/2026/09/29/co-nen-thue-xe-cao-cap-khi-chi-i-pho-co/
+C-XE-SO:
+- t: Xe số chở hàng chợ buổi sáng
+  u: /xe-may/2026/10/10/xe-so-cho-hang-cho-buoi-sang/
+- t: Xe số tiết kiệm xăng thế nào
+  u: /xe-may/2026/09/27/xe-so-tiet-kiem-xang-the-nao/
+- t: Xe số là gì và ai nên thuê
+  u: /xe-may/2026/09/27/xe-so-la-gi-va-ai-nen-thue/
+- t: Xe số đề máy khó khi trời lạnh
+  u: /xe-may/2026/10/10/xe-so-e-may-kho-khi-troi-lanh/
+- t: Xe số dễ bị chết máy ở đèn đỏ
+  u: /kinh nghiệm/2026/09/19/xe-so-de-bi-chet-may-o-den-do/
+C-XE-SO-SANH:
+- t: So sánh thuê xe máy theo tháng với thuê xe ôm công nghệ
+  u: /xe-may/2026/10/09/so-sanh-thue-xe-may-theo-thang-voi-thue-xe-om-cong-nghe/
+- t: So sánh chi phí thuê xe số và xe ga theo tháng
+  u: /xe-may/2026/10/01/so-sanh-chi-phi-thue-xe-so-va-xe-ga-theo-thang/
+- t: So sánh chi phí thuê xe máy và taxi trong tuần
+  u: /xe-may/2026/10/09/so-sanh-chi-phi-thue-xe-may-va-taxi-trong-tuan/
+- t: So sánh đặt cọc giữa các hình thức thuê xe máy
+  u: /xe-may/2026/09/29/so-sanh-at-coc-giua-cac-hinh-thuc-thue-xe-may/
+- t: So sánh Sirius và Wave khi thuê để đi xa
+  u: /xe-may/2026/09/30/so-sanh-sirius-va-wave-khi-thue-e-i-xa/
+C-YAMAHA-SIRIUS:
+- t: Yamaha Sirius khi nào đáng thuê
+  u: /xe-may/2026/09/27/yamaha-sirius-khi-nao-ang-thue/
+- t: 'Yamaha Sirius với Honda Wave: chọn nào'
+  u: /xe-may/2026/09/27/yamaha-sirius-voi-honda-wave-chon-nao/
+- t: Yamaha Sirius thuê chở nặng có ổn không
+  u: /xe-may/2026/10/07/yamaha-sirius-thue-cho-nang-co-on-khong/
+- t: Yamaha Sirius trong phố chợ đông người
+  u: /xe-may/2026/10/03/yamaha-sirius-trong-pho-cho-ong-nguoi/
+- t: Yamaha Sirius thuê chạy giao đồ có bền không
+  u: /xe-may/2026/10/05/yamaha-sirius-thue-chay-giao-o-co-ben-khong/

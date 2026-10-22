@@ -1,0 +1,12 @@
+{
+  "cannibalization_key_groups": 49,
+  "config_problems": [],
+  "keyword_groups": 12,
+  "near_title_pairs": 82,
+  "topic_groups": 34,
+  "topic_verdicts": {
+    "MAPPED_STRONG": 28,
+    "MAPPED_THIN": 5,
+    "NO_REAL_CONTENT": 1
+  }
+}

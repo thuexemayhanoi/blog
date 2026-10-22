@@ -1,0 +1,166 @@
+# SEO Master — cấu hình DUY NHẤT cho Keyword–Intent Map và ánh xạ 34 nhóm chủ đề.
+# Đọc bởi scripts/seo/build-matrix.py. Sửa ở đây -> chạy lại script -> mọi báo cáo đồng bộ.
+# Quy tắc: KHÔNG tạo URL mới; mọi `lead_url`/`support_urls` phải là URL đã tồn tại (script kiểm tra với inventory).
+# Dữ liệu kinh doanh (giá, cọc, NAP) KHÔNG nằm ở đây: nguồn duy nhất là data/business-facts.json + _data/*.yml.
+
+commercial_groups:
+  - id: K01
+    keyword: "thuê xe máy Hà Nội"
+    role_home: "ưu tiên 2 (từ khóa bổ trợ tự nhiên của trang chủ)"
+    intent: "commercial / transactional (head term)"
+    lead_url: "/"
+    lead_why: "Chủ website đã đóng băng H1/Title trang chủ; 'thuê xe máy Hà Nội' dùng tự nhiên như từ bổ trợ."
+    support_urls: ["/thue-xe/", "/thue-xe/gia-thue/", "/thue-xe/thu-tuc/", "/bang-gia/"]
+    regex: ['thue xe may (o |tai )?ha noi\b']
+    main_site_conflict: "CAO (INFERRED): website chính https://thuexemaynguyentu.com/ nhắm cùng head term; GSC site chính 90 ngày: 774 impressions, vị trí TB 15,7 (FACT, không phải dữ liệu blog)."
+    mitigation: "Blog giữ vai trò cẩm nang + một liên kết 'Website chính' (đã có ở footer). Không tạo thêm trang nhắm head term này."
+    priority: P1
+  - id: K02
+    keyword: "thuê xe máy tháng"
+    intent: "commercial investigation (thuê dài hạn)"
+    lead_url: "/thue-xe/thue-thang/"
+    lead_why: "Hub con C-THUE-THANG đã là cụm lớn nhất về thuê dài hạn; khớp trực tiếp intent."
+    support_urls: ["/thue-xe/gia-thue/", "/bang-gia/", "/thue-xe/dat-coc/"]
+    regex: ['thue xe may (theo )?thang', 'thue xe may \d+ thang', 'thue (xe )?(dai han|thang)']
+    main_site_conflict: "TRUNG BÌNH (INFERRED): giá thuê tháng nằm ở website chính và /bang-gia/; blog chỉ giải thích quy trình."
+    mitigation: "Mọi bài về tháng trỏ về hub; chỉ trích dẫn giá từ _data/pricing.yml."
+    priority: P2
+  - id: K03
+    keyword: "thuê xe máy gần đây"
+    intent: "local / near-me (Google Maps, Google Business Profile chiếm ưu thế)"
+    lead_url: "/thue-xe/thue-theo-dia-diem/"
+    lead_why: "Hub C-THUE-DIA-DIEM là nơi duy nhất nói về thuê theo vị trí; intent 'gần đây' do GBP/Maps xử lý, không phải blog."
+    support_urls: ["/lien-he/", "/du-lich/long-bien/"]
+    regex: ['gan day', 'gan toi', 'near me']
+    main_site_conflict: "CAO (INFERRED): intent địa phương thuộc GBP + website chính. GSC site chính: 'thuê xe máy gần đây' 41 impressions, vị trí 9,2 (FACT)."
+    mitigation: "KHÔNG tạo trang 'gần đây'/doorway. Chỉ củng cố NAP nhất quán ở /lien-he/ và hub địa điểm."
+    priority: P3
+  - id: K04
+    keyword: "giá thuê xe máy"
+    intent: "commercial investigation (so sánh giá)"
+    lead_url: "/bang-gia/"
+    lead_why: "Trang bảng giá là nơi duy nhất hiển thị giá đã duyệt (nguồn _data/pricing.yml)."
+    support_urls: ["/thue-xe/gia-thue/", "/hoi-dap/hoi-dap-gia/", "/thue-xe/dat-coc/"]
+    regex: ['gia thue xe may', 'bang gia', 'chi phi thue xe']
+    main_site_conflict: "TRUNG BÌNH (INFERRED): website chính cũng có bảng giá; blog cần đồng bộ nguồn dữ liệu, không tự đặt giá."
+    mitigation: "Hub /thue-xe/gia-thue/ = hướng dẫn yếu tố giá (informational); /bang-gia/ = giá (commercial). Phân vai bằng liên kết hai chiều."
+    priority: P1
+  - id: K05
+    keyword: "thuê xe máy 50cc"
+    intent: "commercial (loại xe cụ thể)"
+    lead_url: "/bang-gia-xe-50cc/"
+    lead_why: "Trang giá riêng cho xe 50cc: intent thương mại trực tiếp."
+    support_urls: ["/xe-may/xe-50cc/", "/an-toan-phap-ly/giay-phep-lai-xe/", "/bang-gia/"]
+    regex: ['50 ?cc']
+    main_site_conflict: "CAO (INFERRED): GSC site chính 'thuê xe máy 50cc hà nội' 356 impressions, vị trí 4,5 (FACT)."
+    mitigation: "Hub /xe-may/xe-50cc/ giữ vai trò thông tin; không có trang thứ ba cho 50cc."
+    priority: P1
+  - id: K06
+    keyword: "thuê xe máy Long Biên"
+    intent: "local commercial + informational"
+    lead_url: "/du-lich/long-bien/"
+    lead_why: "Hub C-LONG-BIEN (99 bài) là cụm địa phương lớn nhất; cửa hàng đặt ở Long Biên (NAP đã duyệt)."
+    support_urls: ["/thue-xe/thue-theo-dia-diem/", "/lien-he/"]
+    regex: ['long bien']
+    main_site_conflict: "RẤT CAO (INFERRED): website chính đã hạng 1,7 cho 'thuê xe máy long biên' (262 impressions, FACT). Blog không được tranh vị trí này."
+    mitigation: "Hub Long Biên làm nội dung thông tin/du lịch; liên kết 'Website chính' và /lien-he/ cho ý định thuê."
+    priority: P2
+  - id: K07
+    keyword: "thuê xe máy Hoàn Kiếm"
+    intent: "local informational/commercial"
+    lead_url: "/du-lich/pho-co/"
+    lead_why: "Hoàn Kiếm và Phố Cổ cùng một khu vực; gộp vai trò vào một URL chủ lực (không tạo hai trang)."
+    support_urls: ["/cung-duong/cung-duong-noi-thanh/", "/ky-nang/gui-xe-va-giu-xe/"]
+    regex: ['hoan kiem']
+    main_site_conflict: "TRUNG BÌNH (INFERRED): GSC site chính 'thuê xe máy hoàn kiếm hà nội' 54 impressions, vị trí 16 (FACT)."
+    mitigation: "Không tạo trang quận riêng (doorway). Dùng hub Phố cổ."
+    priority: P3
+  - id: K08
+    keyword: "thuê xe máy Tây Hồ"
+    intent: "local informational/commercial"
+    lead_url: "/du-lich/ho-tay/"
+    lead_why: "Hub C-HO-TAY (90 bài) đã phủ khu Hồ Tây & lân cận."
+    support_urls: ["/cung-duong/cung-duong-noi-thanh/"]
+    regex: ['tay ho', 'ho tay']
+    main_site_conflict: "THẤP (INFERRED): chưa có truy vấn Tây Hồ trong GSC site chính (UNKNOWN nhu cầu)."
+    mitigation: "Giữ nguyên hub; không thêm trang."
+    priority: P3
+  - id: K09
+    keyword: "thuê xe máy Phố Cổ"
+    intent: "local informational/commercial"
+    lead_url: "/du-lich/pho-co/"
+    lead_why: "Cùng URL chủ lực với K07 (một khu vực, một intent)."
+    support_urls: ["/ky-nang/gui-xe-va-giu-xe/", "/an-toan-phap-ly/quy-dinh-giao-thong/"]
+    regex: ['pho co']
+    main_site_conflict: "TRUNG BÌNH (INFERRED): GSC site chính 'thuê xe máy phố cổ hà nội' 36 impressions (FACT)."
+    mitigation: "Giữ một hub Phố cổ; không tách 'Hoàn Kiếm' và 'Phố Cổ' thành hai trang."
+    priority: P3
+  - id: K10
+    keyword: "thuê xe máy Ba Đình"
+    intent: "local informational/commercial"
+    lead_url: "/cung-duong/cung-duong-noi-thanh/"
+    lead_why: "Không có hub riêng cho Ba Đình; chỉ 15 bài nhắc tới. Không tạo trang mới (thin/doorway)."
+    support_urls: ["/du-lich/bao-tang/", "/du-lich/diem-den/"]
+    regex: ['ba dinh']
+    main_site_conflict: "THẤP (INFERRED): không có truy vấn Ba Đình trong GSC site chính (UNKNOWN nhu cầu)."
+    mitigation: "Giữ trạng thái 'phủ bằng hub nội thành'; chỉ nâng cấp khi có nội dung thật đủ cụm."
+    priority: P4
+  - id: K11
+    keyword: "thuê xe máy Honda Vision"
+    intent: "commercial (mẫu xe cụ thể)"
+    lead_url: "/xe-may/honda-vision/"
+    lead_why: "Hub C-HONDA-VISION (99 bài). Giá Vision có trong _data/pricing.yml."
+    support_urls: ["/bang-gia/", "/bang-gia-xe-ga/", "/xe-may/xe-ga/"]
+    regex: ['honda vision', '\bvision\b']
+    main_site_conflict: "TRUNG BÌNH (INFERRED): GSC site chính có 'thuê xe máy vision tphcm' (ngoài khu vực, bỏ qua)."
+    mitigation: "Hub là thông tin/so sánh; giá lấy từ bảng giá."
+    priority: P2
+  - id: K12
+    keyword: "Dịch vụ cho thuê xe máy 50cc–125cc tại Hà Nội"
+    role_home: "ƯU TIÊN SỐ 1 của trang chủ blog (đã đóng băng theo commit 4f61156e)"
+    intent: "commercial / transactional (dịch vụ)"
+    lead_url: "/"
+    lead_why: "H1 + SEO Title + mô tả hero đã được chủ website duyệt; KHÔNG sửa."
+    support_urls: ["/bang-gia/", "/bang-gia-xe-so/", "/bang-gia-xe-ga/", "/bang-gia-xe-50cc/", "/xe-may/xe-so/", "/xe-may/xe-ga/", "/xe-may/xe-50cc/"]
+    regex: ['50 ?cc.{0,8}125 ?cc', '125 ?cc']
+    main_site_conflict: "CAO (INFERRED): cùng intent với trang dịch vụ website chính; blog chỉ chiếm vị trí này theo chỉ đạo chủ website."
+    mitigation: "Giữ nguyên trang chủ; củng cố bằng liên kết trang chủ -> trang giá/hub xe; không thêm trang tranh intent."
+    priority: P1
+
+# Ánh xạ 34 nhóm chủ đề SEO -> kiến trúc 7 pillar / 56 hub con hiện có.
+# children: các child_id thuộc nhóm (cấu trúc); regex: khớp tiêu đề+tags (chuẩn hóa không dấu) để đếm bài liên quan (INFERRED).
+topic_groups:
+  - {n: 1,  name: "Cho thuê xe máy", pillar: P-THUE-XE, children: [C-THUE-NGAY, C-THUE-TUAN, C-THUE-THANG, C-THUE-DIA-DIEM, C-THUE-DOI-TUONG], lead_url: "/thue-xe/"}
+  - {n: 2,  name: "Giá thuê xe máy", pillar: P-THUE-XE, children: [C-THUE-GIA, C-HD-GIA], lead_url: "/thue-xe/gia-thue/", commercial_page: "/bang-gia/"}
+  - {n: 3,  name: "Thủ tục và kinh nghiệm thuê xe", pillar: P-THUE-XE, children: [C-THUE-THU-TUC, C-THUE-DAT-COC, C-THUE-NHAN-TRA, C-HD-THU-TUC, C-HD-NGUOI-MOI], lead_url: "/thue-xe/thu-tuc/"}
+  - {n: 4,  name: "Các dòng xe máy", pillar: P-XE-MAY, children: [C-XE-SO, C-XE-GA, C-HONDA-WAVE, C-HONDA-VISION, C-HONDA-AIR-BLADE, C-HONDA-CLICK, C-YAMAHA-SIRIUS, C-XE-LUA-CHON, C-XE-SO-SANH, C-HD-CHON-XE], lead_url: "/xe-may/"}
+  - {n: 5,  name: "Xe máy 50cc", pillar: P-XE-MAY, children: [C-XE-50CC], lead_url: "/xe-may/xe-50cc/", commercial_page: "/bang-gia-xe-50cc/"}
+  - {n: 6,  name: "Xe máy điện", pillar: P-XE-MAY, children: [C-XE-DIEN], lead_url: "/xe-may/xe-dien/"}
+  - {n: 7,  name: "Xe đạp điện", pillar: P-XE-MAY, children: [C-XE-DAP-DIEN], lead_url: "/xe-may/xe-dap-dien/"}
+  - {n: 8,  name: "Cho thuê xe máy điện", pillar: P-XE-MAY, children: [], regex: ['thue xe may dien', 'thue xe dien', 'cho thue xe may dien'], lead_url: "/xe-may/xe-dien/", note: "Không có hub riêng; không tự nhận dịch vụ/giá xe điện (giá = liên hệ theo business-facts)."}
+  - {n: 9,  name: "Cho thuê xe đạp điện", pillar: P-XE-MAY, children: [], regex: ['thue xe dap dien', 'cho thue xe dap dien'], lead_url: "/xe-may/xe-dap-dien/", note: "Không có hub riêng; giá = liên hệ."}
+  - {n: 10, name: "Giá xe máy điện và xe đạp điện", pillar: P-XE-MAY, children: [], regex: ['gia xe (may |dap )?dien', 'gia thue xe (may |dap )?dien', 'bang gia xe dien'], lead_url: "/bang-gia-xe-dien/", note: "Trang giá xe điện đã có; giá cụ thể do chủ cửa hàng xác nhận (không tự đặt)."}
+  - {n: 11, name: "Công nghệ xe điện", pillar: P-XE-MAY, children: [], regex: ['cong nghe', 'dong co dien', 'bo dieu khien', '\bbms\b', 'ac quy'], lead_url: "/xe-may/xe-dien/"}
+  - {n: 12, name: "Pin và sạc xe điện", pillar: P-XE-MAY, children: [], regex: ['\bpin\b', 'dia:sạc pin', 'dia:sạc xe', 'dia:\bsạc\b'], lead_url: "/xe-may/xe-dien/"}
+  - {n: 13, name: "Bảo dưỡng và sửa chữa xe điện", pillar: P-XE-MAY, children: [], regex: ['(bao duong|sua chua|sua).{0,30}xe (may |dap )?dien', 'xe (may |dap )?dien.{0,30}(bao duong|sua chua|hong)'], lead_url: "/xe-may/xe-dien/"}
+  - {n: 14, name: "So sánh xe điện và xe xăng", pillar: P-XE-MAY, children: [C-XE-SO-SANH], regex: ['xe dien.{0,30}(xe xang|xe may xang)', '(xang).{0,30}(dien)', 'so sanh.{0,25}dien'], lead_url: "/xe-may/so-sanh-xe/"}
+  - {n: 15, name: "Luật giao thông Việt Nam", pillar: P-PHAP-LY, children: [C-QUY-DINH, C-BIEN-BAO, C-NOI-DO-CONG, C-PHAT-NGUOI, C-BAO-HIEM, C-HD-PHAP-LY], lead_url: "/an-toan-phap-ly/quy-dinh-giao-thong/"}
+  - {n: 16, name: "Giấy phép lái xe", pillar: P-PHAP-LY, children: [C-GPLX, C-GIAY-TO], lead_url: "/an-toan-phap-ly/giay-phep-lai-xe/"}
+  - {n: 17, name: "An toàn khi lái xe", pillar: P-KY-NANG, children: [C-KY-NANG-CO-BAN, C-KY-NANG-TINH-HUONG, C-KY-NANG-THOI-TIET, C-KY-NANG-SUC-KHOE, C-KY-NANG-CHO-DO], lead_url: "/ky-nang/"}
+  - {n: 18, name: "Bảo dưỡng và sửa chữa xe máy", pillar: P-XE-MAY, children: [C-BAO-DUONG, C-XE-KHAC-PHUC, C-THUE-SU-CO, C-HD-SU-CO], lead_url: "/xe-may/bao-duong-xe/"}
+  - {n: 19, name: "Phương tiện giao thông", pillar: P-XE-MAY, children: [C-XE-LUA-CHON], regex: ['phuong tien'], lead_url: "/xe-may/"}
+  - {n: 20, name: "Giao thông đô thị", pillar: P-CUNG-DUONG, children: [C-CD-NOI-THANH], regex: ['ket xe', 'gio cao diem', 'cam xe', 'vanh dai', 'duong cam', 'phan lan'], lead_url: "/cung-duong/cung-duong-noi-thanh/"}
+  - {n: 21, name: "Du lịch Hà Nội", pillar: P-DU-LICH, children: [C-DIEM-DEN, C-BAO-TANG, C-PHO-CO, C-HO-TAY, C-LONG-BIEN], lead_url: "/du-lich/"}
+  - {n: 22, name: "Du lịch Việt Nam", pillar: P-CUNG-DUONG, children: [C-CD-MAI-CHAU, C-CD-MOC-CHAU, C-CD-HA-GIANG, C-CD-PHO-BAC], lead_url: "/cung-duong/cung-duong-pho-bac/"}
+  - {n: 23, name: "Du lịch bằng xe máy", pillar: P-CUNG-DUONG, children: [C-CD-CUOI-TUAN], regex: ['du lich.{0,20}xe may', 'kham pha.{0,30}bang xe may', 'phuot'], lead_url: "/cung-duong/"}
+  - {n: 24, name: "Cung đường phượt", pillar: P-CUNG-DUONG, children: [C-CD-CUOI-TUAN, C-CD-MAI-CHAU, C-CD-MOC-CHAU, C-CD-HA-GIANG, C-CD-PHO-BAC], regex: ['phuot', 'cung duong', 'dia:\bđèo\b'], lead_url: "/cung-duong/"}
+  - {n: 25, name: "Địa điểm tham quan", pillar: P-DU-LICH, children: [C-DIEM-DEN, C-BAO-TANG, C-NGOAI-THANH], lead_url: "/du-lich/diem-den/"}
+  - {n: 26, name: "Ẩm thực địa phương", pillar: P-DU-LICH, children: [], regex: ['dia:\bphở\b', 'dia:\bbún\b', 'dia:bánh ', 'dia:cà phê', 'dia:quán ăn', 'dia:ẩm thực', 'dia:chả cá', 'dia:\bcơm\b', 'dia:\bchè\b', 'dia:\bmón\b'], lead_url: "/du-lich/diem-den/", note: "Không có hub riêng; mỗi bài ẩm thực nằm trong hub điểm đến liên quan."}
+  - {n: 27, name: "Văn hóa và đời sống Việt Nam", pillar: P-DU-LICH, children: [C-PHO-CO], regex: ['dia:lễ hội', 'dia:văn hóa', 'dia:\btết\b', 'dia:\bchùa\b', 'dia:\bđình\b', 'dia:làng nghề', 'dia:đời sống'], lead_url: "/du-lich/pho-co/"}
+  - {n: 28, name: "Lịch trình và chi phí du lịch", pillar: P-CUNG-DUONG, children: [], regex: ['dia:lịch trình', 'dia:chi phí (chuyến|đi|du lịch)', 'dia:(một|1|hai|2|ba|3) ngày', 'dia:cuối tuần'], lead_url: "/cung-duong/cung-duong-cuoi-tuan/"}
+  - {n: 29, name: "Kinh nghiệm du lịch tự túc", pillar: P-CUNG-DUONG, children: [], regex: ['dia:tự túc', 'dia:chuẩn bị cho chuyến', 'dia:checklist'], lead_url: "/cung-duong/cung-duong-cuoi-tuan/"}
+  - {n: 30, name: "Di chuyển dành cho người nước ngoài", pillar: P-THUE-XE, children: [C-THUE-QUOC-TE], regex: ['khach quoc te', 'nguoi nuoc ngoai', 'du khach', 'nuoc ngoai'], lead_url: "/thue-xe/khach-quoc-te/"}
+  - {n: 31, name: "Giao thông công cộng", pillar: P-KY-NANG, children: [], regex: ['xe buyt', 'tau dien', 'metro', 'taxi', 'grab', 'xe om', 'cong cong'], lead_url: "/ky-nang/", note: "Không có hub riêng; nếu có bài thật thì liên kết vào hub kỹ năng/di chuyển liên quan."}
+  - {n: 32, name: "Du lịch xanh và phương tiện bền vững", pillar: P-XE-MAY, children: [], regex: ['dia:du lịch xanh', 'dia:xe xanh', 'dia:bền vững', 'dia:phát thải', 'dia:thân thiện môi trường'], lead_url: "/xe-may/xe-dien/"}
+  - {n: 33, name: "Hạ tầng trạm sạc xe điện", pillar: P-XE-MAY, children: [], regex: ['tram sac', 'tru sac', 'ha tang sac', 'sac cong cong'], lead_url: "/xe-may/xe-dien/", note: "Không tạo hub rỗng; chỉ ánh xạ khi có bài thật."}
+  - {n: 34, name: "Xu hướng giao thông điện hóa", pillar: P-XE-MAY, children: [], regex: ['dien hoa', 'xu huong', 'xe xanh', 'vung phat thai thap', 'xang e10', 'zero emission'], lead_url: "/xe-may/xe-dien/", note: "Không tạo hub rỗng."}

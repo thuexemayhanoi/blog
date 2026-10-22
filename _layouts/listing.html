@@ -12,21 +12,19 @@ Số bài mỗi trang: page_size frontmatter (12). Không JS.
     <h1>{{ page.category | default: page.title | split: ' - ' | first }}</h1>
     <p class="page-description">Trang {{ page.page_num }} / {{ page.total_pages }}.</p>
     {% assign offset = page.page_num | minus: 1 | times: page.page_size %}
-    {% assign limit_to = offset | plus: page.page_size %}
+    {%- comment -%}
+      site.categories[...] là mảng bài của danh mục do Jekyll nhóm sẵn (mới nhất trước, cùng thứ tự site.posts) —
+      lấy đúng trang bằng limit/offset, chi phí O(page_size) thay vì quét TOÀN BỘ site.posts cho mỗi trang danh sách.
+    {%- endcomment -%}
+    {% assign cat_posts = site.categories[page.category] %}
     <div class="post-grid">
-      {% assign shown = 0 %}
-      {% for post in site.posts %}
-        {% if post.categories contains page.category %}
-          {% if shown >= offset and shown < limit_to %}
-          <article class="post-card glass-card">
-            <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-            <p class="post-date">Đăng ngày {{ post.date | date: "%d/%m/%Y" }}</p>
-            <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
-            <a href="{{ post.url | relative_url }}" class="read-more">Đọc tiếp</a>
-          </article>
-          {% endif %}
-          {% assign shown = shown | plus: 1 %}
-        {% endif %}
+      {% for post in cat_posts limit: page.page_size offset: offset %}
+      <article class="post-card glass-card">
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <p class="post-date">Đăng ngày {{ post.date | date: "%d/%m/%Y" }}</p>
+        <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+        <a href="{{ post.url | relative_url }}" class="read-more">Đọc tiếp</a>
+      </article>
       {% endfor %}
     </div>
     {% assign pg_base = page.permalink | split: 'trang/' | first %}

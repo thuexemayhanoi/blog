@@ -12,10 +12,24 @@ layout: default
     <p class="page-description">{{ page.description }}</p>
     {% endif %}
     {{ content }}
+    {%- comment -%}
+      Bài chủ lực của cụm (scripts/seo/build-leads.py -> _data/seo-leads.yml): liên kết thật từ hub tới URL chủ lực,
+      chọn theo bằng chứng (khớp từ khóa cụm, QA, độ rộng tiêu đề), không phải bài mới nhất. Không có dữ liệu => không in gì.
+    {%- endcomment -%}
+    {% assign topic_leads = site.data.seo-leads[page.child_id] %}
+    {% if topic_leads and topic_leads.size > 0 %}
+    <h2>Bài nên đọc trước</h2>
+    <ul class="topic-list">
+      {% for lead in topic_leads %}
+      <li><a href="{{ lead.u | relative_url }}">{{ lead.t }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
     <h2>Bài viết trong chủ đề</h2>
     <div class="post-grid">
       {% assign found = 0 %}
       {% for post in site.posts %}
+        {% if found >= 24 %}{% break %}{% endif %}
         {% assign mychild = post.child_id %}
         {% if mychild == nil %}
           {% assign m = site.data.factory-map[post.slug] %}

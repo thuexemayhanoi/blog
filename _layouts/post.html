@@ -29,8 +29,13 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
 {% assign art_words = content | strip_html | split: ' ' | size %}
 {% assign art_reading = art_words | divided_by: 200 | at_least: 1 %}
 
+{%- comment -%}
+  Layout đã render H1 từ title => mỗi trang chỉ được 1 H1. Một số bài có dòng '# ...' trong thân (kramdown sinh <h1>):
+  hạ thành <h2> khi render (không sửa _posts/). Nội dung đã xuất bản và bằng chứng SHA giữ nguyên.
+{%- endcomment -%}
+{% assign art_content = content | replace: '<h1 ', '<h2 ' | replace: '</h1>', '</h2>' %}
 {%- comment -%} TOC: tách theo '<h2 id="' do kramdown sinh — build-time, không JS {%- endcomment -%}
-{% assign art_h2s = content | split: '<h2 id="' %}
+{% assign art_h2s = art_content | split: '<h2 id="' %}
 {% assign art_h2_count = art_h2s.size | minus: 1 %}
 
 <article class="post-detail">
@@ -74,7 +79,7 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
       Một số bài legacy viết link nội bộ dạng .../slug// (nối thêm "/" sau {% raw %}{% post_url %}{% endraw %}). URL đó vẫn trả 200
       nhưng là biến thể không canonical; chuẩn hóa khi render (không sửa _posts/).
     {%- endcomment -%}
-    {%- assign post_body_html = content | replace: '//">', '/">' -%}
+    {%- assign post_body_html = art_content | replace: '//">', '/">' -%}
     <div class="post-content article-body">
       {{ post_body_html }}
     </div>
@@ -83,25 +88,19 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
     {% include faq.html key=page.slug %}
 
     <div class="post-navigation">
-      {% assign same_lang_posts = site.posts | where: "lang", page.lang %}
-      {% assign sorted_posts = same_lang_posts | sort: "date" | reverse %}
-      {% assign current_index = 0 %}
-      {% for post in sorted_posts %}
-        {% if post.url == page.url %}
-          {% assign current_index = forloop.index0 %}
-          {% break %}
-        {% endif %}
-      {% endfor %}
-      {% assign prev_index = current_index | plus: 1 %}
-      {% assign next_index = current_index | minus: 1 %}
-      {% assign prev_post = sorted_posts[prev_index] %}
-      {% assign next_post = sorted_posts[next_index] %}
-      {% if prev_post %}
+      {%- comment -%}
+        Bài trước/sau theo thời gian: dùng page.previous (cũ hơn) / page.next (mới hơn) do Jekyll cấp sẵn.
+        Chi phí O(1)/trang, thứ tự ổn định (date rồi đường dẫn). Trước đây mỗi bài lọc + sắp xếp + quét
+        TOÀN BỘ site.posts => O(N^2), phần lớn thời gian build ~6.000 bài (xem reports/factory/seo-master/build-performance.md).
+      {%- endcomment -%}
+      {% assign prev_post = page.previous %}
+      {% assign next_post = page.next %}
+      {% if prev_post and prev_post.lang == page.lang %}
       <a href="{{ prev_post.url | relative_url }}" class="nav-link prev">
         {% include icon.html name="chevron-left" %} Bài trước: {{ prev_post.title }}
       </a>
       {% endif %}
-      {% if next_post %}
+      {% if next_post and next_post.lang == page.lang %}
       <a href="{{ next_post.url | relative_url }}" class="nav-link next">
         Bài sau: {{ next_post.title }} {% include icon.html name="chevron-right" %}
       </a>

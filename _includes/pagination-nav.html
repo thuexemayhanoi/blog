@@ -7,27 +7,43 @@ Trang 1 = trang gốc; tệp phụ bắt đầu /trang/2/.
 {% assign pg_base = include.base %}
 {% assign pn = include.page_num | default: 1 %}
 {% assign pg_total = include.total_pages | default: 1 %}
+{%- comment -%}
+  Danh sách số trang có CỬA SỔ: tối đa ~45 liên kết/trang thay vì liệt kê toàn bộ (danh mục 382 trang => 382 liên kết trên MỖI trang).
+  Giữ: trang 1, trang cuối, trang hiện tại ±2, và bội số của 10 (bước nhảy) => mọi trang vẫn cách trang bất kỳ <= 4 bước,
+  link thật <a href>, không JS. Nhóm <= 15 trang: liệt kê đủ như cũ.
+{%- endcomment -%}
 {% if pg_total > 1 %}
 {% assign prev_n = pn | minus: 1 %}
 {% assign next_n = pn | plus: 1 %}
+{% assign win_lo = pn | minus: 2 %}
+{% assign win_hi = pn | plus: 2 %}
 {% capture prev_url %}{{ pg_base }}trang/{{ prev_n }}/{% endcapture %}
 {% capture next_url %}{{ pg_base }}trang/{{ next_n }}/{% endcapture %}
 <nav class="pagination" aria-label="Phân trang">
   {% if prev_n >= 2 %}
-  <a class="page-link" href="{{ prev_url | relative_url }}">Trang trước</a>
+  <a class="page-link" href="{{ prev_url | relative_url }}" rel="prev">Trang trước</a>
   {% elsif pn == 2 %}
-  <a class="page-link" href="{{ pg_base | relative_url }}">Trang trước</a>
+  <a class="page-link" href="{{ pg_base | relative_url }}" rel="prev">Trang trước</a>
   {% endif %}
+  {% assign last_shown = 0 %}
   {% for n in (1..pg_total) %}
-    {% capture n_url %}{{ pg_base }}trang/{{ n }}/{% endcapture %}
-    {% if n == 1 %}
-      {% if pn == 1 %}<span class="page-link" aria-current="page">1</span>
-      {% else %}<a class="page-link" href="{{ pg_base | relative_url }}">1</a>{% endif %}
-    {% elsif pn == n %}<span class="page-link" aria-current="page">{{ n }}</span>
-    {% else %}<a class="page-link" href="{{ n_url | relative_url }}">{{ n }}</a>{% endif %}
+    {% assign show_n = false %}
+    {% if pg_total <= 15 or n == 1 or n == pg_total or n >= win_lo and n <= win_hi %}{% assign show_n = true %}
+    {% else %}{% assign n_mod = n | modulo: 10 %}{% if n_mod == 0 %}{% assign show_n = true %}{% endif %}
+    {% endif %}
+    {% if show_n %}
+      {% assign gap = n | minus: last_shown %}
+      {% if last_shown > 0 and gap > 1 %}<span class="page-gap" aria-hidden="true">…</span>{% endif %}
+      {% assign last_shown = n %}
+      {% if n == 1 %}
+        {% if pn == 1 %}<span class="page-link" aria-current="page">1</span>
+        {% else %}<a class="page-link" href="{{ pg_base | relative_url }}">1</a>{% endif %}
+      {% elsif pn == n %}<span class="page-link" aria-current="page">{{ n }}</span>
+      {% else %}{% capture n_url %}{{ pg_base }}trang/{{ n }}/{% endcapture %}<a class="page-link" href="{{ n_url | relative_url }}">{{ n }}</a>{% endif %}
+    {% endif %}
   {% endfor %}
   {% if next_n <= pg_total %}
-  <a class="page-link" href="{{ next_url | relative_url }}">Trang sau</a>
+  <a class="page-link" href="{{ next_url | relative_url }}" rel="next">Trang sau</a>
   {% endif %}
 </nav>
 {% endif %}
