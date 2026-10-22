@@ -40,6 +40,18 @@ Chỉ thêm công cụ `scripts/seo`, tài liệu và báo cáo; nội dung `_si
   `workflow_dispatch` trong khi test hợp đồng yêu cầu publisher chỉ push-driven; test `sk-` khớp nhầm trong `quality-gate.yml` (chuỗi `webmcp-ask-site.js`);
   fixture của `test_slugify_vi` phụ thuộc hàng đợi PLANNED.
 
+## Commit `316f01e0` — cột vai trò/hành động cho url-inventory (FACT)
+
+Thêm `scripts/seo/enrich-inventory.py`, tài liệu và báo cáo; nội dung `_site` không đổi (không chạm template, bài viết, URL, workflow).
+
+- Pages run #5497 (`39864485459`): `build` success (bước Jekyll 22:23:05 → 22:29:01Z = 5 phút 56 giây), `deploy` success (23 giây), tổng push → deploy xong 7 phút 07 giây.
+- Quality gate run #1278 (`39864486023`): job `gate` **success**, 8 phút 25 giây, đủ 19 bước (bước build 6 phút 09 giây). Job `engine-tests` (`120126663180`) **failure** sau 17 phút 52 giây:
+  31 suite, 29 PASS, 2 FAIL — cùng hai suite và cùng các test hỏng như #1275, #1276, #1277 (`test_hardening`: `test_s7_no_ai_no_secrets`, `test_s7_publish_hotpath`,
+  `test_publisher_has_no_dispatch_and_only_watchdog_has_cron`; `test_slugify_vi`: `setUpClass`, có 0 hàng PLANNED chữ đ sau BLG-06228). Đã đọc log (FACT).
+- Mẫu thời gian build trên GitHub cho cùng nội dung site sau tối ưu: Pages 5 phút 51 giây, 9 phút 59 giây, 5 phút 56 giây; bước build của `gate` 8 phút 02 giây, 9 phút 39 giây, 6 phút 09 giây.
+  Cả ba mẫu Pages đều dưới mẫu trước tối ưu (18 phút 05 giây); dao động giữa các lần chạy vẫn lớn.
+- Run Pages của commit báo cáo này không được ghi ở đây (tránh vòng lặp ghi-báo-cáo-về-chính-nó).
+
 ## Xác minh live (không curl trực tiếp được từ sandbox; dùng Nimble Extract tải trang công khai)
 
 | URL | Kết quả |
