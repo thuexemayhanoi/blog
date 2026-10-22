@@ -65,7 +65,18 @@ Kiểm tra tương đương HTML (so toàn bộ 6.844 trang giữa trước và 
 (khối bài trước/sau, thanh phân trang, `<link rel="icon">` trùng, hai liên kết chủ đề nổi bật mới, khối "Bài nên đọc trước",
 `&` → `&amp;` trong `<title>`/meta); 1 trang khác do hạ H1 trùng trong thân bài. Không trang nào bị mất hoặc thêm.
 `check-built-links.py` PASS (0 liên kết nội bộ hỏng), `faq_parity_check.py` PASS.
-Số đo trên GitHub sau khi đẩy: xem `deployment-verification.md`.
+
+### Kết quả đo trên GitHub sau khi đẩy commit `ba59ea27` (FACT)
+
+| Hạng mục | Trước (`4f61156e`) | Sau (`ba59ea27`) |
+|---|---:|---:|
+| Pages: bước "Build with Jekyll" | 18 phút 05 giây | 5 phút 51 giây (20:29:33 → 20:35:24Z) |
+| Pages: job `deploy` chờ + chạy | chờ 36 phút 54 giây, chạy 28 giây | chờ 5 giây, chạy 19 giây |
+| Pages: từ push tới deploy xong | khoảng 57 phút | 6 phút 55 giây |
+| Quality gate: bước build | 18 phút 54 giây | 8 phút 02 giây |
+| Quality gate: job `gate` | hủy ở 20 phút (7 bước bị bỏ qua) | THÀNH CÔNG, 10 phút 43 giây, đủ 19 bước |
+
+Ghi chú: hai build trên chạy song song trên hai runner khác nhau; số đo trước và sau lấy từ cùng loại runner `ubuntu-latest`.
 
 ## 5. Còn lại (chưa sửa, có thiết kế)
 

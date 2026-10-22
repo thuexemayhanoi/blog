@@ -31,6 +31,8 @@ sự thật vận hành: số bài, trạng thái, QA vẫn đọc từ `data/co
 | `pillar-topic-mapping.csv` | 34 nhóm chủ đề → 7 pillar / hub con hiện có (không tạo hub mới) | cùng script |
 | `cannibalization-risk.csv` | nhóm trùng khóa matrix + cặp tiêu đề gần trùng, URL chủ lực đề xuất | cùng script |
 | `internal-link-recommendations.csv` | khoảng trống liên kết về URL chủ lực (từ đồ thị HTML đã render) | cùng script |
+| `internal-link-candidates.csv` | tối đa 25 bài/nhóm khớp từ khóa nhưng chưa liên kết về URL chủ lực (danh sách bảo trì nhỏ, trạng thái OPEN) | cùng script |
+| `cannibalization-plan.md` | kế hoạch đọc được cho chủ: nhóm trùng khóa, URL chủ lực đề xuất, cặp tiêu đề gần trùng (chưa thực hiện) | cùng script |
 | `build-performance.md` | đo thời gian build Jekyll trước/sau và nguyên nhân | tay (có số đo) |
 | `fix-log.csv`, `qa-results.md`, `deployment-verification.md` | nhật ký sửa, kết quả kiểm thử, xác minh deploy | tay, đối chiếu commit |
 | `checkpoint.json` | trạng thái DONE / IN_PROGRESS / BLOCKED và điểm tiếp tục | tay |
@@ -46,6 +48,10 @@ Cấu hình duy nhất cho ma trận: `scripts/seo/seo-matrix-config.yml` (URL c
 | `build-leads.py` | chọn bài chủ lực cho từng hub con → `_data/seo-leads.yml` (sinh tự động, không sửa tay) |
 | `validate-hub-intros.py` | kiểm phần giới thiệu pillar/hub (không chữ số, không từ cấm, liên kết hợp lệ, không trùng) và ghi vào `.md` khi PASS |
 | `seo-matrix-config.yml` | cấu hình duy nhất: URL chủ lực, regex nhóm từ khóa/chủ đề |
+| `check-regressions.py` | kiểm tra hồi quy SEO trên `_site` đã build (9 bất biến: trang chủ đóng băng, canonical/H1, favicon, phân trang, hub không rỗng, khối bài chủ lực, breadcrumb, sitemap) |
+| `frozen-homepage.json` | chuỗi H1/title/meta/hero/canonical trang chủ đã duyệt ở `4f61156e`; chỉ đổi khi chủ duyệt phiên bản mới |
+
+Kiểm tra hồi quy sau mỗi build cục bộ: `python3 scripts/seo/check-regressions.py --site /tmp/site` (thoát 0 chỉ khi PASS).
 
 `_data/seo-leads.yml` được `_layouts/topic.html` đọc để in khối "Bài nên đọc trước". Chạy lại `build-leads.py` (sau khi làm mới
 `url-inventory.csv`) khi muốn cập nhật; script cho kết quả giống hệt nếu dữ liệu nguồn không đổi.

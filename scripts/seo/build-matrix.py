@@ -238,6 +238,61 @@ def main() -> int:
     if rec_rows:
         write_csv(d / "internal-link-recommendations.csv", list(rec_rows[0].keys()), rec_rows)
 
+    cand_rows = []
+    if graph:
+        for g in cfg["commercial_groups"]:
+            if g["lead_url"] == "/":
+                continue  # trang chủ đã nhận liên kết từ logo/breadcrumb của mọi trang
+            rx = compile_rx(g["regex"])
+            hit = [r for r in posts if matches(r, rx) and g["lead_url"] not in graph.get(r["url"], ())]
+            hit.sort(key=lambda r: (-int(r["words"] or 0), r["url"]))
+            for r in hit[:25]:
+                cand_rows.append({
+                    "group": g["id"], "keyword": g["keyword"], "source_url": r["url"], "source_title": r["title"],
+                    "source_child": r["child_id"], "target_lead_url": g["lead_url"], "source_words": r["words"],
+                    "reason": "bài khớp từ khóa nhóm (tiêu đề/tags) nhưng chưa liên kết về URL chủ lực",
+                    "how": "thêm 1 liên kết ngữ cảnh tự nhiên trong lần bảo trì nhỏ có QA; không chèn hàng loạt cùng một anchor",
+                    "status": "OPEN", "evidence_type": "FACT(đồ thị HTML) + INFERRED(khớp từ khóa)",
+                })
+    if cand_rows:
+        write_csv(d / "internal-link-candidates.csv", list(cand_rows[0].keys()), cand_rows)
+
+    # kế hoạch đọc được cho chủ: không đổi URL, không xóa bài
+    key_groups: dict[str, list[dict]] = {}
+    near_rows = []
+    for r in can_rows:
+        if r["cannibalization_key"].startswith("NEAR_TITLE"):
+            near_rows.append(r)
+        else:
+            key_groups.setdefault(r["cannibalization_key"], []).append(r)
+    same_cluster_groups = sum(1 for rs in key_groups.values() if len({x["child_id"] for x in rs}) == 1)
+    lines = ["# Kế hoạch xử lý trùng intent (cannibalization) — DỰ THẢO, chưa thực hiện",
+             "",
+             "Nguồn: `data/content-matrix.csv` (`cannibalization_key` trùng — FACT) và heuristic tiêu đề gần trùng trong cùng cụm (INFERRED).",
+             "Sinh bởi `scripts/seo/build-matrix.py`. Mọi URL giữ nguyên; không xóa bài; không redirect khi chưa có quyết định của chủ.",
+             "",
+             "Cách xử lý đề xuất: (1) giữ **URL chủ lực** (bài dài nhất của nhóm); (2) bài còn lại làm bài bổ trợ, phân biệt intent rõ hơn",
+             "trong một đợt bảo trì nhỏ có QA (đổi góc nhìn ở phần mở đầu/heading, không đổi URL/slug); (3) thêm liên kết ngữ cảnh hai chiều",
+             "giữa các bài trong nhóm; (4) chỉ khi chủ duyệt mới xét gộp nội dung + `redirect_from` (plugin được GitHub Pages hỗ trợ),",
+             "kèm bằng chứng và cơ chế bảo toàn URL.",
+             "",
+             f"Tổng quan (FACT): **{len(key_groups)}** nhóm trùng khóa matrix, trong đó **{same_cluster_groups}** nhóm nằm trong cùng một cụm",
+             "(công cụ sinh matrix chặn trùng trong cùng cụm; các nhóm trùng đều giữa HAI CỤM KHÁC NHAU, nên URL hai bài nằm ở hai hub khác nhau).",
+             f"Cặp tiêu đề gần trùng trong cùng cụm (INFERRED): **{len(near_rows)}** dòng.",
+             "",
+             "## A. Nhóm trùng khóa giữa các cụm (30 nhóm lớn nhất)",
+             ""]
+    for key, rs in sorted(key_groups.items(), key=lambda kv: (-len(kv[1]), kv[0]))[:30]:
+        lines.append(f"### `{key}` ({len(rs)} bài)")
+        for r in rs:
+            tag = "**URL chủ lực đề xuất**" if r["role"] == "URL_CHU_LUC_DE_XUAT" else "bổ trợ"
+            lines.append(f"- {tag} — {r['title']} (cụm `{r['child_id']}`, {r['words']} từ, `{r['url']}`)")
+        lines.append("")
+    lines += ["## B. Cặp tiêu đề gần trùng trong cùng cụm (30 dòng đầu, Jaccard >= 0.7)", ""]
+    for r in sorted(near_rows, key=lambda r: (r["child_id"], r["url"]))[:30]:
+        lines.append(f"- {r['title']} (`{r['url']}`) — {r['proposed_action']}")
+    (d / "cannibalization-plan.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
     summary = {
         "keyword_groups": len(kim_rows), "topic_groups": len(tg_rows),
         "topic_verdicts": dict(collections.Counter(r["verdict"] for r in tg_rows)),

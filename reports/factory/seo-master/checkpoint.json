@@ -1,0 +1,138 @@
+{
+  "schema": "seo-master-checkpoint/1",
+  "updated_at": "2026-10-22T21:05:00Z",
+  "origin_main_at_session_start": "4f61156e5331be4559b947a56e59b2bcd8b9f355",
+  "engine_commit": "ba59ea2796f839fba7859ae5cd5e6863acb19819",
+  "head_note": "Commit báo cáo/checkpoint đi sau engine_commit; dùng `git log --oneline -- reports/factory/seo-master` để thấy các commit báo cáo. Đối chiếu HEAD thật bằng `git rev-parse HEAD` trước khi tiếp tục.",
+  "frozen": {
+    "homepage_approved_commit": "4f61156e5331be4559b947a56e59b2bcd8b9f355",
+    "verify": "python3 scripts/seo/check-regressions.py --site <_site>"
+  },
+  "scope_coverage": {
+    "urls_inventoried": 6843,
+    "posts_audited": 6076,
+    "hubs": 56,
+    "pillars": 7,
+    "listing_pages": 689,
+    "pages": 14,
+    "internal_link_targets_broken": 0,
+    "posts_with_zero_inbound_links_in_rendered_html": 0,
+    "cannibalization_key_groups": 49,
+    "cannibalization_posts": 107,
+    "near_title_pairs_same_cluster": 82,
+    "topic_groups_mapped": 34,
+    "commercial_keyword_groups": 12,
+    "completion": "PARTIAL — không báo 100%: còn mục DEFERRED/BLOCKED/OPEN bên dưới; chưa có dữ liệu Search Console của blog"
+  },
+  "items": [
+    {
+      "id": "SEO-001..006",
+      "status": "DONE",
+      "what": "Tối ưu build + sửa head/heading tại template",
+      "evidence": "Pages build 18m05s -> 5m51s; gate job xanh 10m43s; 6.781/6.844 trang chỉ khác khối dự kiến"
+    },
+    {
+      "id": "SEO-007",
+      "status": "DONE",
+      "what": "Giới thiệu 62 pillar/hub (12.789 từ)",
+      "evidence": "validate-hub-intros.py PASS; live /thue-xe/thue-thang/ hiển thị"
+    },
+    {
+      "id": "SEO-008",
+      "status": "DONE",
+      "what": "Khối 'Bài nên đọc trước' 47 hub/204 liên kết",
+      "evidence": "live /thue-xe/thue-thang/ hiển thị 5 liên kết"
+    },
+    {
+      "id": "SEO-009",
+      "status": "DONE",
+      "what": "Footer/menu nổi bật + Xe 50cc, Honda Vision",
+      "evidence": "live trang chủ và hub"
+    },
+    {
+      "id": "SEO-010",
+      "status": "DONE",
+      "what": "Bộ dữ liệu SEO Master + công cụ scripts/seo",
+      "evidence": "reports/factory/seo-master/*"
+    },
+    {
+      "id": "REGRESSION-CHECKER",
+      "status": "DONE",
+      "what": "scripts/seo/check-regressions.py + frozen-homepage.json",
+      "evidence": "9/9 PASS trên bản build cuối; baseline FAIL đúng các lỗi đã sửa"
+    },
+    {
+      "id": "SEO-101",
+      "status": "BLOCKED",
+      "why": "1.254 slug mất chữ đ; đổi URL bị cấm",
+      "next": "Chỉ làm khi chủ duyệt kế hoạch redirect bảo toàn URL"
+    },
+    {
+      "id": "SEO-102",
+      "status": "OPEN",
+      "why": "49 nhóm trùng khóa giữa các cụm + 82 cặp gần trùng trong cụm",
+      "next": "Chủ đọc cannibalization-plan.md; bảo trì nhỏ có QA để phân biệt intent; không xóa/redirect khi chưa duyệt"
+    },
+    {
+      "id": "SEO-103",
+      "status": "DEFERRED",
+      "why": "related-articles quét where ~30% build còn lại",
+      "next": "Thiết kế ảnh chụp thứ tự cụm trong _data, làm mới có kiểm soát (chạm vùng publisher)"
+    },
+    {
+      "id": "SEO-104",
+      "status": "BLOCKED",
+      "why": "engine-tests đỏ sẵn trên main (test_hardening 3 test; test_slugify_vi fixture) — ngoài phạm vi SEO",
+      "next": "Chủ/AI vận hành sửa test hoặc workflow; không thuộc đợt này"
+    },
+    {
+      "id": "SEO-106",
+      "status": "DEFERRED",
+      "why": "LocalBusiness JSON-LD trên mọi trang",
+      "next": "Quyết định: chỉ phát ở trang chủ/liên hệ/giới thiệu + sameAs về website chính"
+    },
+    {
+      "id": "SEO-107",
+      "status": "DEFERRED",
+      "why": "689 trang danh sách trong sitemap",
+      "next": "Quyết định sau khi có dữ liệu lập chỉ mục (Search Console)"
+    },
+    {
+      "id": "SEO-108",
+      "status": "BLOCKED",
+      "why": "4 bài legacy có description > 200 ký tự; có bằng chứng SHA",
+      "next": "Quy trình bảo trì có chủ duyệt"
+    },
+    {
+      "id": "SEO-109",
+      "status": "OPEN",
+      "why": "Sandbox không curl được domain live; Firecrawl hết tín dụng; chưa có Search Console blog",
+      "next": "Kết nối Search Console cho blog; xác minh live bằng Nimble Extract hoặc môi trường có truy cập"
+    },
+    {
+      "id": "LINK-CANDIDATES",
+      "status": "OPEN",
+      "what": "internal-link-candidates.csv (tối đa 25 bài/nhóm chưa liên kết về URL chủ lực)",
+      "next": "Bảo trì nhỏ có QA, từng đợt, không chèn cùng một anchor hàng loạt"
+    }
+  ],
+  "resume": [
+    "git pull --ff-only origin main; so HEAD với engine_commit",
+    "Build cục bộ: jekyll build --destination /tmp/site (Jekyll 3.10.0, minima 2.5.1, jekyll-sitemap, jekyll-feed, kramdown-parser-gfm)",
+    "python3 scripts/seo/build-inventory.py --site /tmp/site --graph-out /tmp/graph.json && python3 scripts/seo/build-matrix.py --graph /tmp/graph.json",
+    "python3 scripts/seo/check-regressions.py --site /tmp/site  (phải PASS 9/9)",
+    "Chỉ chạm hạng mục OPEN/DEFERRED; không làm lại hạng mục DONE; báo cáo sau mỗi đợt vào fix-log.csv"
+  ],
+  "do_not": [
+    "đổi URL/slug/canonical hàng loạt",
+    "sửa _posts/matrix/data/qa/checkpoint nhà máy",
+    "sửa workflow publisher/writer",
+    "đổi H1/title/meta/hero trang chủ đã duyệt",
+    "đổi NAP/giá/cọc"
+  ],
+  "ci": {
+    "pages_run": "5494 success (build 5m51s, deploy 19s)",
+    "quality_gate_run": "1276: job gate success 10m43s; job engine-tests failure = 2 suite đỏ sẵn trên main (giống hệt run 1275 ở 4f61156e)",
+    "engine_commit_checked": "ba59ea27"
+  }
+}
