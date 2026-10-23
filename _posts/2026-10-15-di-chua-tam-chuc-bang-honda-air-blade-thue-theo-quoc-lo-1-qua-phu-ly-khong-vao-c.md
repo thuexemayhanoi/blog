@@ -25,7 +25,7 @@ Air Blade là xe ga máy khỏe, ngồi đầm ở tốc độ đường trườ
 
 Điểm cần lưu ý là tay ga Air Blade khá nhạy. Người quen xe số hoặc xe ga nhỏ dễ vặn quá tay ở lúc xuất phát, làm người ngồi sau bị giật ngửa. Nếu bạn chưa từng chở người trên chiếc xe này, hãy chạy thử vài vòng quanh Long Biên hay đường ven hồ gần nhà vào tối hôm trước.
 
-Về chi phí, Air Blade thuê theo ngày là 200.000 đồng, theo tuần 800.000 đồng, theo tháng 1.400.000 đồng. Tiền cọc và chi phí giao xe, nếu bạn cần giao tận nơi, đều được xác nhận trực tiếp với tiệm trước khi đặt.
+Về chi phí, Air Blade thuê theo ngày là 200.000 đồng, theo tuần 1.000.000 đồng, theo tháng 1.500.000 đồng. Tiền cọc và chi phí giao xe, nếu bạn cần giao tận nơi, đều được xác nhận trực tiếp với tiệm trước khi đặt.
 
 ## Nhận xe từ chiều hôm trước và báo tiệm là sẽ đi xa
 

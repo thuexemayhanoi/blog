@@ -80,6 +80,6 @@ Dù là bản nào, hãy dành vài phút làm quen ở đoạn đường vắng
 
 ## Giá thuê có khác giữa 125 và 160 không
 
-Theo [bảng giá](/bang-gia/) hiện hành, Honda Air Blade cho thuê với mức 200.000 đồng một ngày, 800.000 đồng một tuần và 1.400.000 đồng một tháng. Việc có phân biệt giá theo bản 125 hay 160 hay không, hãy hỏi cửa hàng khi đặt xe. Tiền cọc được xác nhận trực tiếp. Nếu cần chắc chắn có đúng bản xe hợp với bằng lái, báo trước khi đặt qua số 0942467674.
+Theo [bảng giá](/bang-gia/) hiện hành, Honda Air Blade cho thuê với mức 200.000 đồng một ngày, 1.000.000 đồng một tuần và 1.500.000 đồng một tháng. Việc có phân biệt giá theo bản 125 hay 160 hay không, hãy hỏi cửa hàng khi đặt xe. Tiền cọc được xác nhận trực tiếp. Nếu cần chắc chắn có đúng bản xe hợp với bằng lái, báo trước khi đặt qua số 0942467674.
 
 Tóm lại, câu hỏi chiếc Air Blade của bạn là 125 hay 160 được trả lời bằng tem, cụm phanh trước, đèn trên đồng hồ và chắc nhất là giấy đăng ký. Biết bản xe rồi thì đối chiếu bằng lái, chỉnh tay ga và cách phanh cho hợp. Các bài khác về dòng xe này có ở mục [Honda Air Blade](/xe-may/honda-air-blade/), và mọi chủ đề xe máy nằm trong chuyên mục [xe máy](/xe-may/).

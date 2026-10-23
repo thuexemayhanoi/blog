@@ -21,7 +21,7 @@ Mùa cưới cuối năm ở Hà Nội, lịch của người làm trang điểm
 
 Công việc trang điểm tận nhà có mấy đặc điểm riêng: đồ nghề nặng và dễ vỡ, giờ xuất phát rất sớm, điểm đến thay đổi mỗi ngày và thường nằm sâu trong ngõ hoặc đường làng. Vision đáp ứng khá tốt nhờ thân xe thấp, yên không quá cao nên người dáng nhỏ vẫn chống chân chắc khi dừng, và sàn để chân đủ chỗ cho một chiếc vali đồ nghề cỡ vừa.
 
-Nếu chỉ nhận vài đám rải rác, thuê theo ngày là đủ. Khi lịch dày suốt mấy tuần, thuê theo tuần hoặc theo tháng tiện hơn vì không phải đi nhận, trả xe liên tục. Bảng giá đã duyệt cho Honda Vision: ngày 200.000 đồng, tuần 800.000 đồng đến 1.000.000 đồng, tháng 1.800.000 đồng đến 2.000.000 đồng. Tiền cọc xác nhận trực tiếp với tiệm, chi tiết xem ở trang [bảng giá](/bang-gia/).
+Nếu chỉ nhận vài đám rải rác, thuê theo ngày là đủ. Khi lịch dày suốt mấy tuần, thuê theo tuần hoặc theo tháng tiện hơn vì không phải đi nhận, trả xe liên tục. Bảng giá đã duyệt cho Honda Vision: ngày 200.000 đồng, tuần 1.000.000 đồng, tháng 1.800.000 đồng đến 2.000.000 đồng. Tiền cọc xác nhận trực tiếp với tiệm, chi tiết xem ở trang [bảng giá](/bang-gia/).
 
 Một điểm cần lên kế hoạch: tiệm chỉ giao và nhận xe trong giờ mở cửa, từ 09:00 đến 21:00, thời gian và chi phí giao nhận phải xác nhận trước. Vì buổi làm thường bắt đầu trước khi trời sáng, hãy nhận xe từ chiều hôm trước, đừng hẹn giao xe vào sáng ngày cưới.
 

@@ -76,9 +76,9 @@ Tháng Giêng ở Hà Nội thường có mưa phùn, đường trơn, sáng s�
 
 Giá tuần đã duyệt tại tiệm:
 
-- **Honda Vision:** 800.000–1.000.000 đ/tuần.
-- **Honda Air Blade:** 800.000 đ/tuần, hợp những ngày chạy xa như chùa Hương.
-- **Honda Click hoặc Yamaha Mio:** 600.000–700.000 đ/tuần.
+- **Honda Vision:** 1.000.000 đ/tuần.
+- **Honda Air Blade:** 1.000.000 đ/tuần, hợp những ngày chạy xa như chùa Hương.
+- **Honda Click hoặc Yamaha Mio:** 700.000 đ/tuần.
 
 Xem thêm ở trang [bảng giá thuê xe](/bang-gia/). Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00, nằm sẵn trên hướng ra cầu Đuống đi Bắc Ninh. Đặt cọc, giấy tờ cần mang và việc có kèm mũ bảo hiểm hay không, bạn hỏi cửa hàng khi đặt xe qua số 0942 467 674.
 

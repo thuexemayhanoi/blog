@@ -21,7 +21,7 @@ Khi giáo viên nước ngoài thuê Honda Vision theo tháng ở Hà Nội, lý
 
 Vision là xe ga nhẹ, yên thấp, dễ dắt trong hầm và ngõ hẹp, hợp với người phải dừng đỗ nhiều lần mỗi ngày. Cốp xe đủ cất áo mưa, một túi tài liệu mỏng và đồ dùng lớp học nhỏ. Thuê theo tháng còn có lợi là bạn quen hẳn một chiếc xe: biết độ ăn phanh, biết xăng còn bao nhiêu, thay vì mỗi tuần làm quen lại từ đầu.
 
-Theo bảng giá hiện tại của tiệm, Honda Vision thuê theo tháng là 1.800.000–2.000.000 đồng, theo tuần là 800.000–1.000.000 đồng và theo ngày là 200.000 đồng. Mức cụ thể trong khoảng này được xác nhận khi đặt xe, xem thêm ở trang [bảng giá](/bang-gia/). Tiền cọc và chi phí giao xe được xác nhận trực tiếp khi đặt. Việc giao nhận chỉ diễn ra trong giờ mở cửa 09:00–21:00. Những điều cần hỏi khi ký thuê dài hạn cho người nước ngoài có trong bài [thuê xe tháng cho khách nước ngoài sống ở Hà Nội](/thue-xe/2026/09/27/thue-xe-thang-cho-khach-nuoc-ngoai-song-o-ha-noi/).
+Theo bảng giá hiện tại của tiệm, Honda Vision thuê theo tháng là 1.800.000–2.000.000 đồng, theo tuần là 1.000.000 đồng và theo ngày là 200.000 đồng. Mức cụ thể trong khoảng này được xác nhận khi đặt xe, xem thêm ở trang [bảng giá](/bang-gia/). Tiền cọc và chi phí giao xe được xác nhận trực tiếp khi đặt. Việc giao nhận chỉ diễn ra trong giờ mở cửa 09:00–21:00. Những điều cần hỏi khi ký thuê dài hạn cho người nước ngoài có trong bài [thuê xe tháng cho khách nước ngoài sống ở Hà Nội](/thue-xe/2026/09/27/thue-xe-thang-cho-khach-nuoc-ngoai-song-o-ha-noi/).
 
 ## Sắp lịch dạy nhiều điểm: gom theo cụm trước khi nhận lớp
 

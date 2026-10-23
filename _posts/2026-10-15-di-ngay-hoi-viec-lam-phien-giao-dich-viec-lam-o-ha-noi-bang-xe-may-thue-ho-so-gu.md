@@ -78,6 +78,6 @@ Trả xe đúng giờ hẹn. Nếu được hẹn phỏng vấn ngay hôm sau v�
 
 ## Khi lịch phỏng vấn kéo dài cả tuần
 
-Đi một phiên mà nhận liền hai ba lịch hẹn rải trong tuần thì thuê theo tuần thường hợp lý hơn: Honda Vision 800.000–1.000.000 đ/tuần, Honda Air Blade 800.000 đ/tuần, Honda Click hoặc Yamaha Mio 600.000–700.000 đ/tuần. Ai ghép thêm kỳ thi chứng chỉ vào cùng chuyến có thể đọc bài [lên Hà Nội thi IELTS hoặc chứng chỉ ngoại ngữ bằng xe máy thuê](/thue-xe/2026/10/15/tu-tinh-len-ha-noi-thi-ielts-hoac-chung-chi-ngoai-ngu-thue-xe-may-mot-ngay-di-th/).
+Đi một phiên mà nhận liền hai ba lịch hẹn rải trong tuần thì thuê theo tuần thường hợp lý hơn: Honda Vision 1.000.000 đ/tuần, Honda Air Blade 1.000.000 đ/tuần, Honda Click hoặc Yamaha Mio 700.000 đ/tuần. Ai ghép thêm kỳ thi chứng chỉ vào cùng chuyến có thể đọc bài [lên Hà Nội thi IELTS hoặc chứng chỉ ngoại ngữ bằng xe máy thuê](/thue-xe/2026/10/15/tu-tinh-len-ha-noi-thi-ielts-hoac-chung-chi-ngoai-ngu-thue-xe-may-mot-ngay-di-th/).
 
 Khi đã có lịch cụ thể, xem thêm các tình huống trong mục [thuê xe máy theo ngày](/thue-xe/thue-ngay/), thủ tục chung nằm ở chuyên mục [thuê xe máy Hà Nội](/thue-xe/). Gọi 0942 467 674 để hẹn giờ nhận xe từ chiều hôm trước.

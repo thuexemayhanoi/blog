@@ -26,7 +26,7 @@ Air Blade hợp với chuyến này vì máy khỏe, lên ga đều khi cần v�
 - **Nhìn lốp và đèn**: lốp còn gai, không phồng; đèn pha, xi nhan, còi đều hoạt động.
 - **Hỏi cách dùng Smartkey** nếu xe có: bật máy, mở cốp, mở nắp bình xăng.
 
-Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, giao nhận xe trong giờ mở cửa 09:00–21:00, nên muốn rời Hà Nội sớm thì nhận xe từ chiều hôm trước. Giá thuê Air Blade là 200.000 đồng một ngày; nếu ghép thêm vài ngày đi tiếp, hỏi gói tuần 800.000 đồng. Tiền cọc và chi phí giao xe xác nhận trực tiếp với tiệm trước khi đặt.
+Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, giao nhận xe trong giờ mở cửa 09:00–21:00, nên muốn rời Hà Nội sớm thì nhận xe từ chiều hôm trước. Giá thuê Air Blade là 200.000 đồng một ngày; nếu ghép thêm vài ngày đi tiếp, hỏi gói tuần 1.000.000 đồng. Tiền cọc và chi phí giao xe xác nhận trực tiếp với tiệm trước khi đặt.
 
 ## Chia chặng: từ Long Biên qua Bắc Ninh rồi theo quốc lộ 18
 

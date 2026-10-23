@@ -79,7 +79,7 @@ Nếu bạn đi theo nhóm và mỗi người một chiếc Vision khác bản, 
 
 ## Giá thuê có khác theo phiên bản không
 
-Theo [bảng giá](/bang-gia/) của tiệm, Honda Vision có giá 200.000 đồng một ngày, thuê tuần từ 800.000 đến 1.000.000 đồng, thuê tháng từ 1.800.000 đến 2.000.000 đồng. Giá thuê không chia theo bản chìa cơ hay khóa thông minh, trừ khi cửa hàng báo khác lúc đặt; tiền cọc cũng như thời gian và chi phí giao nhận xe cần xác nhận trực tiếp trước khi đặt, và tiệm chỉ giao nhận trong giờ mở cửa. Nếu bạn muốn chọn riêng một bản, cứ hỏi cửa hàng còn xe bản đó không.
+Theo [bảng giá](/bang-gia/) của tiệm, Honda Vision có giá 200.000 đồng một ngày, thuê tuần 1.000.000 đồng, thuê tháng từ 1.800.000 đến 2.000.000 đồng. Giá thuê không chia theo bản chìa cơ hay khóa thông minh, trừ khi cửa hàng báo khác lúc đặt; tiền cọc cũng như thời gian và chi phí giao nhận xe cần xác nhận trực tiếp trước khi đặt, và tiệm chỉ giao nhận trong giờ mở cửa. Nếu bạn muốn chọn riêng một bản, cứ hỏi cửa hàng còn xe bản đó không.
 
 ## Tóm lại
 

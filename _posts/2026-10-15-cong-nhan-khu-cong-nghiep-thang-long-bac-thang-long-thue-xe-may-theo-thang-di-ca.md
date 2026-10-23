@@ -32,8 +32,8 @@ Thuê theo ngày chỉ nên dùng cho mấy hôm đầu chờ xe nhà. Đã xác
 
 Giá gói tháng ở tiệm hiện tại:
 
-- Honda Click hoặc Yamaha Mio: 1.000.000–1.200.000 đ một tháng.
-- Honda Air Blade: 1.400.000 đ một tháng.
+- Honda Click hoặc Yamaha Mio: 900.000–1.200.000 đ một tháng.
+- Honda Air Blade: 1.500.000 đ một tháng.
 - Honda Vision: 1.800.000–2.000.000 đ một tháng.
 - Honda Wave giá ngày 150.000 đ; muốn giữ Wave cả tháng thì hỏi tiệm khi đặt.
 

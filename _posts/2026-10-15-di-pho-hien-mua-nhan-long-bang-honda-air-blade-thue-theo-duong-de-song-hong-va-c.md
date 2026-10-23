@@ -76,7 +76,7 @@ Tiệm mở cửa và nhận trả xe từ 09:00 đến 21:00. Chuyến đi xa k
 
 ## Chuẩn bị xe và chi phí thuê
 
-Trước khi rời tiệm, kiểm tra lốp, phanh, đèn và đổ đầy xăng. Mang áo mưa, khẩu trang, kính, nước và dây chằng dự phòng. Giá thuê Honda Air Blade là 200.000 đồng một ngày, 800.000 đồng một tuần, 1.400.000 đồng một tháng, có ở trang [bảng giá](/bang-gia/). Tiền cọc và chi phí giao nhận xe được xác nhận trực tiếp khi đặt.
+Trước khi rời tiệm, kiểm tra lốp, phanh, đèn và đổ đầy xăng. Mang áo mưa, khẩu trang, kính, nước và dây chằng dự phòng. Giá thuê Honda Air Blade là 200.000 đồng một ngày, 1.000.000 đồng một tuần, 1.500.000 đồng một tháng, có ở trang [bảng giá](/bang-gia/). Tiền cọc và chi phí giao nhận xe được xác nhận trực tiếp khi đặt.
 
 ## Kết lại
 

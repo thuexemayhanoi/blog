@@ -32,8 +32,8 @@ Trả góp nghe nhẹ hơn, nhưng đó là khoản ràng buộc kéo dài nhi�
 
 Giá thuê theo tháng tham khảo ở tiệm tôi:
 
-- Honda Click hoặc Yamaha Mio: 1.000.000–1.200.000 đ một tháng.
-- Honda Air Blade: 1.400.000 đ một tháng.
+- Honda Click hoặc Yamaha Mio: 900.000–1.200.000 đ một tháng.
+- Honda Air Blade: 1.500.000 đ một tháng.
 - Honda Vision: 1.800.000–2.000.000 đ một tháng.
 
 Hai tháng thử việc thì cứ nhân đôi con số của dòng xe bạn chọn, đó là gần như toàn bộ chi phí cho phương tiện, chưa tính xăng và tiền gửi xe. Bạn không phải bỏ ra một cục tiền lớn ngay từ đầu, và tháng nào cũng biết trước mình chi bao nhiêu.

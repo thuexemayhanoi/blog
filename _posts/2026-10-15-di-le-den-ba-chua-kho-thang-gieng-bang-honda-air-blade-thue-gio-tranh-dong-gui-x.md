@@ -19,7 +19,7 @@ writer_session: s-claude-w3
 
 ## Nhận Air Blade và chuẩn bị trước ngày đi lễ
 
-Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00. Muốn đi lễ từ sáng sớm, bạn nên nhận xe từ chiều hôm trước và hỏi rõ cách tính ngày. Air Blade thuê theo ngày là 200.000 đồng, theo tuần 800.000 đồng, theo tháng 1.400.000 đồng. Tiền cọc và chi phí giao xe, nếu cần giao tận nơi, được xác nhận trực tiếp trước khi đặt.
+Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00. Muốn đi lễ từ sáng sớm, bạn nên nhận xe từ chiều hôm trước và hỏi rõ cách tính ngày. Air Blade thuê theo ngày là 200.000 đồng, theo tuần 1.000.000 đồng, theo tháng 1.500.000 đồng. Tiền cọc và chi phí giao xe, nếu cần giao tận nơi, được xác nhận trực tiếp trước khi đặt.
 
 Khi nhận xe, nói với tiệm là bạn sẽ đi Bắc Ninh. Ra ngoài nội thành thì nên báo trước để tiệm nhắc những điểm cần xem trên xe. Sau đó tự kiểm tra lốp, phanh, đèn, gương, và nhờ chỉ cách dùng Smartkey, khóa cổ, mở cốp. Đổ đầy xăng trước khi đi để khỏi phải chen vào cây xăng đông khách dọc đường.
 

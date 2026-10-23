@@ -65,9 +65,9 @@ Một kỹ sư thuê nhà ở Phúc Đồng, làm ở nhà máy trong khu Phố 
 
 Mỗi ngày đi về năm, sáu chục cây số, một tháng xe chạy hơn một nghìn cây số. Xe cần máy đủ khỏe, ngồi êm và cốp chứa được áo mưa. Giá gói tháng hiện tại ở tiệm:
 
-- **Honda Air Blade:** 1.400.000 đ một tháng. Máy khỏe, giữ tốc độ ổn định, là xe tôi hay gợi ý nhất cho tuyến này.
+- **Honda Air Blade:** 1.500.000 đ một tháng. Máy khỏe, giữ tốc độ ổn định, là xe tôi hay gợi ý nhất cho tuyến này.
 - **Honda Vision:** 1.800.000–2.000.000 đ một tháng. Nhẹ, yên thấp, hợp người dáng nhỏ.
-- **Honda Click, Yamaha Mio:** 1.000.000–1.200.000 đ một tháng. Tiết kiệm, hợp khi nhà máy ở phía Như Quỳnh.
+- **Honda Click, Yamaha Mio:** 900.000–1.200.000 đ một tháng. Tiết kiệm, hợp khi nhà máy ở phía Như Quỳnh.
 - **Honda Wave:** 150.000 đ một ngày; muốn giữ cả tháng thì hỏi tiệm khi đặt.
 
 Xe chạy nhiều thì mốc thay dầu tới nhanh. Lúc nhận xe, hỏi tiệm việc bảo dưỡng định kỳ trong thời gian thuê do ai lo. Áp suất lốp, loại dầu thì theo tem và sổ hướng dẫn của xe.

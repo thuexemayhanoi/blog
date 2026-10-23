@@ -75,7 +75,7 @@ Những giấy tờ khác cần mang, mức đặt cọc và việc tiệm có g
 
 ## Thuê Air Blade cho chuyến công tác vài ngày: hỏi gì khi đặt xe
 
-Giá thuê Honda Air Blade ở tiệm là 200.000 đồng một ngày, 800.000 đồng một tuần. Đi công tác ba bốn ngày thì tính theo ngày; ở từ một tuần trở lên thì hỏi giá tuần cho gọn.
+Giá thuê Honda Air Blade ở tiệm là 200.000 đồng một ngày, 1.000.000 đồng một tuần. Đi công tác ba bốn ngày thì tính theo ngày; ở từ một tuần trở lên thì hỏi giá tuần cho gọn.
 
 Khi đặt xe, nhắn rõ:
 

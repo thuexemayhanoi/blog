@@ -42,8 +42,8 @@ Bài [đi xe máy thuê theo tháng cần mang giấy tờ gì](/thue-xe/2026/10
 Các bạn về nghỉ hè chủ yếu đi trong nội thành. Giá thuê xe máy mùa hè theo tháng ở cửa hàng:
 
 - **Honda Vision:** 1.800.000 đến 2.000.000 đ một tháng. Xe nhẹ, yên thấp, dễ dắt trong ngõ.
-- **Honda Air Blade:** 1.400.000 đ một tháng. Máy khỏe hơn, hợp nếu hay đi xa hoặc chở thêm người.
-- **Honda Click hoặc Yamaha Mio:** 1.000.000 đến 1.200.000 đ một tháng. Xe ga nhỏ, chi phí thấp.
+- **Honda Air Blade:** 1.500.000 đ một tháng. Máy khỏe hơn, hợp nếu hay đi xa hoặc chở thêm người.
+- **Honda Click hoặc Yamaha Mio:** 900.000 đến 1.200.000 đ một tháng. Xe ga nhỏ, chi phí thấp.
 - **Honda Wave:** 150.000 đ một ngày; thuê cả tháng thì hỏi cửa hàng.
 
 Cả năm không cầm lái thì ưu tiên xe nhẹ, chống chân dễ. Cách cân nhắc kỹ hơn có trong bài [thực tập sinh vài tháng ở Hà Nội chọn xe thế nào](/thue-xe/2026/10/14/thuc-tap-sinh-vai-thang-o-ha-noi-co-nen-thue-xe-may-theo-thang-va-chon-xe-the-na/).

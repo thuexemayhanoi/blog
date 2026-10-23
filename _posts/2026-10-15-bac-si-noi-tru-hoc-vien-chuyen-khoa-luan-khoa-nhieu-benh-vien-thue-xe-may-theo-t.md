@@ -70,9 +70,9 @@ Ca trực đêm xong, cơ thể mệt hơn bạn tưởng. Phản xạ chậm, m
 
 Đi trong phố đông và gửi ở bãi chật, xe ga nhỏ gọn là dễ chịu nhất. Giá đã duyệt ở cửa hàng:
 
-- **Honda Vision:** 200.000 đ/ngày, tuần từ 800.000 đến 1.000.000 đ, tháng từ 1.800.000 đến 2.000.000 đ. Nhẹ, dễ dắt khi bãi xếp sát.
-- **Honda Air Blade:** 200.000 đ/ngày, 800.000 đ/tuần, 1.400.000 đ/tháng. Cốp rộng, để được áo blouse gấp gọn và áo mưa.
-- **Honda Click hoặc Yamaha Mio:** 150.000 đ/ngày, tháng từ 1.000.000 đến 1.200.000 đ. Hợp khi muốn tiết kiệm.
+- **Honda Vision:** 200.000 đ/ngày, tuần 1.000.000 đ, tháng từ 1.800.000 đến 2.000.000 đ. Nhẹ, dễ dắt khi bãi xếp sát.
+- **Honda Air Blade:** 200.000 đ/ngày, 1.000.000 đ/tuần, 1.500.000 đ/tháng. Cốp rộng, để được áo blouse gấp gọn và áo mưa.
+- **Honda Click hoặc Yamaha Mio:** 150.000 đ/ngày, tháng từ 900.000 đến 1.200.000 đ. Hợp khi muốn tiết kiệm.
 
 Cọc, giấy tờ cần mang và việc có kèm mũ bảo hiểm hay không, bạn hỏi cửa hàng khi đặt xe để được xác nhận trực tiếp. Cách gia hạn và các lưu ý khác có ở mục [thuê xe theo tháng](/thue-xe/thue-thang/).
 

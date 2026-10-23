@@ -92,9 +92,9 @@ Về sớm vài tiếng để trả xe thong thả, theo danh sách trong bài [
 
 Đường biển này phần lớn là đường bằng, xe ga đi khá nhàn:
 
-- **Honda Vision**, giá tuần 800.000–1.000.000 đ: gọn, hợp người đi một mình hoặc chở người nhẹ cân.
-- **Honda Air Blade**, giá tuần 800.000 đ: cốp rộng, ngồi êm hơn khi hai người đi cả tuần.
-- **Honda Click, Yamaha Mio**, giá tuần 600.000–700.000 đ: hợp nhóm muốn tiết kiệm.
+- **Honda Vision**, giá tuần 1.000.000 đ: gọn, hợp người đi một mình hoặc chở người nhẹ cân.
+- **Honda Air Blade**, giá tuần 1.000.000 đ: cốp rộng, ngồi êm hơn khi hai người đi cả tuần.
+- **Honda Click, Yamaha Mio**, giá tuần 700.000 đ: hợp nhóm muốn tiết kiệm.
 
 Hai người chung một xe thì xem thêm bài [hai người đi chung một xe máy thuê cả tuần](/thue-xe/2026/10/14/hai-nguoi-di-chung-mot-xe-may-thue-ca-tuan-chon-dong-xe-hanh-ly-va-mu-bao-hiem-c/) về hành lý và mũ bảo hiểm. Nhóm nhiều xe nên thống nhất từ đầu tiền thuê, tiền xăng, tiền phà, theo cách trong bài [chia tiền thuê xe máy cả tuần cho nhóm bạn](/thue-xe/2026/10/11/chia-tien-thue-xe-may-ca-tuan-cho-nhom-ban-ai-tra-gi-ghi-so-the-nao/). Đặt cọc, giấy tờ và việc có kèm mũ bảo hiểm hay không thì hỏi cửa hàng khi đặt xe.
 

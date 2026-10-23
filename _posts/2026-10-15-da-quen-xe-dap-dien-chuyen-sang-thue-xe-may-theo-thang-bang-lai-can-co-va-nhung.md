@@ -80,8 +80,8 @@ Ví dụ: một bạn sinh viên ở trọ khu Cầu Giấy vừa thi xong A1 v�
 Với người quen xe đạp điện, xe ga nhẹ, dễ dắt là lựa chọn hợp lý cho tháng đầu. Mức giá theo tháng ở cửa hàng:
 
 - Honda Vision: khoảng 1.800.000 đến 2.000.000 đ một tháng.
-- Honda Click hoặc Yamaha Mio: khoảng 1.000.000 đến 1.200.000 đ một tháng.
-- Honda Air Blade: khoảng 1.400.000 đ một tháng, xe đầm hơn, hợp khi đã vững tay.
+- Honda Click hoặc Yamaha Mio: khoảng 900.000 đến 1.200.000 đ một tháng.
+- Honda Air Blade: khoảng 1.500.000 đ một tháng, xe đầm hơn, hợp khi đã vững tay.
 
 Điều kiện thuê dài hạn xem ở trang [thuê xe máy theo tháng](/thue-xe/thue-thang/). Mũ cũng phải đổi: mũ xe đạp không thay được mũ bảo hiểm cho người đi xe máy, cách chọn có trong bài [chọn mũ bảo hiểm cho người đi làm hằng ngày](/thue-xe/2026/10/14/chon-mu-bao-hiem-cho-nguoi-di-lam-hang-ngay-bang-xe-thue-mu-nua-dau-ba-phan-tu-v/).
 

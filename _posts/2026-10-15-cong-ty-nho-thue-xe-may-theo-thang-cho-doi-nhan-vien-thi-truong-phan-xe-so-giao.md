@@ -38,8 +38,8 @@ Với đội từ hai đến năm người, tôi thường khuyên cách thứ n
 Người chạy nội thành, ra vào tòa nhà văn phòng ở Cầu Giấy, Đống Đa thì một chiếc xe ga nhẹ là đủ. Người phụ trách tuyến Gia Lâm, Đông Anh, Hoài Đức, phải chở mẫu hàng và đi xa hơn, nên dùng xe khỏe, cốp rộng. Mức giá theo tháng để công ty dự toán:
 
 - Honda Vision: khoảng 1.800.000 đến 2.000.000 đ một tháng.
-- Honda Air Blade: khoảng 1.400.000 đ một tháng.
-- Honda Click hoặc Yamaha Mio: khoảng 1.000.000 đến 1.200.000 đ một tháng.
+- Honda Air Blade: khoảng 1.500.000 đ một tháng.
+- Honda Click hoặc Yamaha Mio: khoảng 900.000 đến 1.200.000 đ một tháng.
 - Honda Wave: 150.000 đ một ngày; muốn thuê dài thì hỏi cửa hàng mức theo tháng.
 
 Điều kiện thuê dài có ở trang [thuê xe máy theo tháng](/thue-xe/thue-thang/). Thuê nhiều xe máy cho doanh nghiệp cùng lúc thì nên báo trước vài ngày để cửa hàng chuẩn bị đủ xe trong một buổi.
