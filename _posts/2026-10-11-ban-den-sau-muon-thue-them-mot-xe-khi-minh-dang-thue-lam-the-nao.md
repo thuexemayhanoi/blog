@@ -76,7 +76,7 @@ Ngược lại, nếu hai anh em ruột đi cùng nhau từ đầu đến cuối
 
 ## Giá xe thêm và ngày trả
 
-Giá xe thêm thường tính theo số ngày người đến sau dùng, không theo kỳ thuê của bạn; hãy xác nhận khi nhắn. Tham khảo mức đã công bố, Honda Wave khoảng 150 nghìn đồng một ngày, Honda Vision khoảng 200 nghìn đồng một ngày. Nếu bạn mình ở đủ một tuần, hãy hỏi giá tuần, vì với Vision mức tuần là 800 nghìn đồng đến 1 triệu đồng, thường mềm hơn tính lẻ từng ngày.
+Giá xe thêm thường tính theo số ngày người đến sau dùng, không theo kỳ thuê của bạn; hãy xác nhận khi nhắn. Tham khảo mức đã công bố, Honda Wave khoảng 150 nghìn đồng một ngày, Honda Vision khoảng 200 nghìn đồng một ngày. Nếu bạn mình ở đủ một tuần, hãy hỏi giá tuần, vì với Vision mức tuần là 1 triệu đồng, thường mềm hơn tính lẻ từng ngày.
 
 Cũng nên tính trước chuyện kéo dài. Nếu bạn mình đổi vé, ở thêm vài hôm, hãy nhắn cửa hàng sớm như khi bạn [gia hạn thuê xe thêm ngày](/hoi-dap/2026/10/04/gia-han-thue-xe-them-ngay-nhan-cua-hang-khi-nao-cho-kip/), đừng đợi đến sát giờ trả mới báo.
 

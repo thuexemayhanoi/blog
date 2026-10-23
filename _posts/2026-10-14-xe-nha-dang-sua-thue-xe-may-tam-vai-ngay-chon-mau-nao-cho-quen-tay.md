@@ -56,7 +56,7 @@ Khi bắt buộc phải đổi kiểu xe vì tiệm hết mẫu giống xe nhà,
 Thuê tạm khác thuê đi chơi ở chỗ bạn không biết chắc ngày kết thúc. Vài cách tính:
 
 1. **Sửa trong một hai ngày:** thuê theo ngày, hẹn trả xe ngay sau giờ lấy xe nhà ở tiệm sửa.
-2. **Thợ hẹn từ bốn, năm ngày trở lên:** hỏi giá thuê theo tuần. Với Vision, Air Blade, Click và Mio có mức giá tuần đã niêm yết, còn Wave theo tuần thì liên hệ để được báo; xem chi tiết ở [bảng giá](/bang-gia/).
+2. **Thợ hẹn từ bốn, năm ngày trở lên:** hỏi giá thuê theo tuần. Vision, Air Blade, Click, Mio và Wave đều có mức giá tuần đã niêm yết; xem chi tiết ở [bảng giá](/bang-gia/).
 3. **Chưa rõ thời gian:** thuê theo ngày hoặc theo tuần, đồng thời hỏi trước tiệm thuê cách gia hạn nếu xe nhà chưa xong, để không phải chạy đi chạy lại.
 
 Đừng hẹn trả xe thuê đúng giờ lấy xe nhà: nếu chạy thử mới phát hiện thêm lỗi, bạn sẽ không còn xe nào để về.

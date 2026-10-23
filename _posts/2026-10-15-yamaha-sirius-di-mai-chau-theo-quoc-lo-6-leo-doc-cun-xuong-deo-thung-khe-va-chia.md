@@ -17,7 +17,7 @@ writer_session: s-claude-w3
 
 Sirius đi Mai Châu là chuyến nhiều người tự lái xe số lần đầu muốn thử: ra quốc lộ 6, leo dốc Cun, qua đèo Thung Khe rồi xuống thung lũng. Bài này nói bằng nguyên tắc chung về cách chia chặng, dùng số thấp hay số cao và cho cả người lẫn máy nghỉ đúng lúc. Bài không đưa mốc kilômét hay giờ chạy, vì các nguồn lệch nhau khá xa.
 
-Cần nói rõ ngay một điều: Yamaha Sirius không nằm trong bảng giá đã duyệt của tiệm. Ai muốn thuê loại này hãy gọi 0942467674 để hỏi và xác nhận trực tiếp xem tiệm có xe, giá và điều kiện không. Xe số đã có giá duyệt là Honda Wave, 150.000 đồng một ngày; giá tuần hay tháng và việc cho xe đi Mai Châu đều phải hỏi riêng. Phần còn lại nói về chuyến đi và cách đi xe số nói chung.
+Cần nói rõ ngay một điều: Yamaha Sirius không nằm trong bảng giá đã duyệt của tiệm. Ai muốn thuê loại này hãy gọi 0942467674 để hỏi và xác nhận trực tiếp xem tiệm có xe, giá và điều kiện không. Xe số đã có giá duyệt là Honda Wave: 150.000 đồng một ngày, 700.000 đồng một tuần, từ 900.000 đến 1.200.000 đồng một tháng; việc cho xe đi Mai Châu phải hỏi riêng. Phần còn lại nói về chuyến đi và cách đi xe số nói chung.
 
 ## Sirius đi Mai Châu: lộ trình chung và điều cần hỏi trước
 

@@ -73,7 +73,7 @@ Không phải nơi cho thuê nào cũng đồng ý cho đưa xe đi xa, nên đ�
 - Ngày trả xe tính đến giờ nào, và nếu về trễ thì xử lý ra sao?
 - Tiền cọc cần xác nhận trực tiếp, nên hãy hỏi rõ trước khi đặt.
 
-Chụp lại câu trả lời bằng tin nhắn để đối chiếu sau này. Về tiền, giá tuần tùy dòng xe: Honda Vision từ 800 nghìn đồng đến 1 triệu đồng một tuần, còn xe số như Honda Wave thì hãy liên hệ để xác nhận giá tuần. Giá có thể thay đổi, nên hãy xác nhận giá hiện tại rồi tự cộng với xăng, chỗ ngủ hai đêm và ăn uống để biết tổng chi phí cả tuần.
+Chụp lại câu trả lời bằng tin nhắn để đối chiếu sau này. Về tiền, giá tuần tùy dòng xe: Honda Vision 1 triệu đồng một tuần, còn xe số như Honda Wave 700 nghìn đồng một tuần. Giá có thể thay đổi, nên hãy xác nhận giá hiện tại rồi tự cộng với xăng, chỗ ngủ hai đêm và ăn uống để biết tổng chi phí cả tuần.
 
 ## Chốt lịch trước khi nhận xe
 
