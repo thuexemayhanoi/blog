@@ -30,7 +30,7 @@ Tiệm thuê xe nhỏ thường đăng ký dạng hộ kinh doanh, đứng tên 
 - **Hộ kinh doanh** có Giấy chứng nhận đăng ký hộ kinh doanh, ghi tên hộ, địa điểm kinh doanh, ngành nghề và họ tên chủ hộ. Từ giữa năm 2025, việc đăng ký này do cơ quan đăng ký kinh doanh cấp xã, phường thực hiện.
 - **Doanh nghiệp** có Giấy chứng nhận đăng ký doanh nghiệp. Mã số doanh nghiệp đồng thời là mã số thuế.
 
-Theo Thông tư 86/2024/TT-BTC, từ ngày 01/07/2025 số định danh cá nhân được dùng thay mã số thuế cho cá nhân, hộ gia đình và hộ kinh doanh. Nghĩa là mã số thuế của nhiều hộ kinh doanh bây giờ chính là số căn cước của chủ hộ. Quy định có thể thay đổi, nên khi cần chắc chắn hãy xem văn bản mới nhất.
+Từ ngày 01/07/2025, theo Thông tư 86/2024/TT-BTC, số định danh cá nhân được dùng thay mã số thuế cho cá nhân, hộ gia đình và hộ kinh doanh. Thông tư này đã được thay bằng Thông tư 90/2026/TT-BTC từ ngày 01/07/2026, còn Điều 11 Luật Quản lý thuế số 108/2025/QH15 (hiệu lực cùng ngày) quy định mã số thuế của cá nhân, hộ gia đình, hộ kinh doanh là số định danh cá nhân của cá nhân hoặc chủ hộ. Nghĩa là mã số thuế của nhiều hộ kinh doanh bây giờ chính là số căn cước của chủ hộ. Quy định có thể thay đổi, nên khi cần chắc chắn hãy xem văn bản mới nhất.
 
 Muốn biết cửa hàng thuộc loại nào, cứ hỏi thẳng: "Bên mình đăng ký hộ kinh doanh hay công ty, tên đăng ký là gì?". Bên làm ăn nghiêm túc sẽ trả lời được ngay.
 

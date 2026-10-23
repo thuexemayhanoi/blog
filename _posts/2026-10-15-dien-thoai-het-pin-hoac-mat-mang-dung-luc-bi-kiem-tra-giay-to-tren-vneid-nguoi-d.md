@@ -31,7 +31,7 @@ Khoản 3 cùng điều ghi nguyên văn:
 
 Luật không có chữ nào về lúc điện thoại hết pin hay mất sóng, và bài cũng không thấy nguồn chính thức nào mô tả người kiểm tra xử lý ra sao, nên không đoán thay họ.
 
-Theo các bài báo, Thông tư 28/2024/TT-BCA, hiệu lực từ 01/7/2024, ghi việc kiểm tra thông tin giấy tờ trên VNeID có giá trị như kiểm tra trực tiếp; nhiều bài nói giấy tờ tích hợp được dùng song song với bản giấy. Thông tư có thể đã được sửa, nên đây chỉ là bối cảnh.
+Theo các bài báo, Thông tư 28/2024/TT-BCA, hiệu lực từ 01/7/2024, ghi việc kiểm tra thông tin giấy tờ trên VNeID có giá trị như kiểm tra trực tiếp; nhiều bài nói giấy tờ tích hợp được dùng song song với bản giấy. Thông tư này đã hết hiệu lực từ 01/01/2025 và nội dung về kiểm tra giấy tờ nay thuộc Thông tư 73/2024/TT-BCA, nên đây chỉ là bối cảnh; hãy đọc văn bản hiện hành.
 
 ## Trước khi ra đường: kiểm tra điện thoại và nguồn điện
 
@@ -78,6 +78,6 @@ Trang [liên hệ](/lien-he/) còn liệt kê kênh Zalo cùng số, bài không
 Hãy coi ứng dụng là một lớp chuẩn bị, không phải lớp duy nhất: máy đầy pin, sạc dự phòng, giấy đã hiện trong ví, kèm thẻ cứng và bản giấy. Các bài khác nằm trong mục [giấy tờ xe và cá nhân](/an-toan-phap-ly/giay-to/) và chuyên mục [an toàn và pháp lý](/an-toan-phap-ly/).
 
 - [Luật số 36/2024/QH15](https://vanban.chinhphu.vn/?pageid=27160&docid=211194) và [văn bản hợp nhất 55/VBHN-VPQH](https://vanban.chinhphu.vn/?docid=217295&pageid=27160): Điều 9, 18, 56, 72, 77 đã đọc nguyên văn.
-- Thông tư 28/2024/TT-BCA, theo tóm tắt: [Báo Lào Cai](https://baolaocai.vn/kiem-tra-thong-tin-qua-vneid-co-gia-tri-nhu-kiem-tra-truc-tiep-giay-to-post386116.html), [LSVN](https://lsvn.vn/kiem-tra-thong-tin-qua-vneid-co-gia-tri-nhu-kiem-tra-truc-tiep-giay-to-1719702438-a144946.html).
+- Thông tư 28/2024/TT-BCA (hết hiệu lực từ 01/01/2025, nội dung nay thuộc Thông tư 73/2024/TT-BCA), theo tóm tắt: [Báo Lào Cai](https://baolaocai.vn/kiem-tra-thong-tin-qua-vneid-co-gia-tri-nhu-kiem-tra-truc-tiep-giay-to-post386116.html), [LSVN](https://lsvn.vn/kiem-tra-thong-tin-qua-vneid-co-gia-tri-nhu-kiem-tra-truc-tiep-giay-to-1719702438-a144946.html).
 
 Thông tin tham khảo, quy định có thể thay đổi, không thay tư vấn pháp lý riêng.

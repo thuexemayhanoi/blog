@@ -49,7 +49,7 @@ Sau khi nộp qua Cổng Dịch vụ công, giấy tờ bị tạm giữ đượ
 
 Nghị định 138/2021/NĐ-CP, Điều 16, được sửa bởi Nghị định 47/2026/NĐ-CP từ 15/3/2026, quy định người đến nhận xe phải là người vi phạm, hoặc chủ sở hữu, người quản lý, người sử dụng hợp pháp của xe đã ghi trong quyết định tạm giữ. Cán bộ kiểm tra quyết định trả lại xe và thẻ căn cước của người đến nhận. Nếu ủy quyền cho người khác thì phải lập văn bản ủy quyền theo quy định của pháp luật.
 
-Văn bản pháp luật không nói rõ giấy ủy quyền phải công chứng hay chứng thực. Để tránh bị từ chối, nên chứng thực chữ ký trên giấy ủy quyền: Nghị định 23/2015/NĐ-CP cho phép chứng thực chữ ký với giấy ủy quyền không có thù lao, và từ cuối năm 2025 việc này không phụ thuộc nơi cư trú, nên bạn có thể làm ngay ở Hà Nội trước khi về. Hãy gọi trước cho đơn vị đang giữ xe để hỏi giấy tờ cụ thể.
+Văn bản pháp luật không nói rõ giấy ủy quyền phải công chứng hay chứng thực. Để tránh bị từ chối, nên chứng thực chữ ký trên giấy ủy quyền: Nghị định 23/2015/NĐ-CP cho phép chứng thực chữ ký với giấy ủy quyền không có thù lao (kèm điều kiện về bồi thường và chuyển quyền tài sản), và việc này không phụ thuộc nơi cư trú ngay từ bản gốc năm 2015 (khoản 5 Điều 5), nên bạn có thể làm ngay ở Hà Nội trước khi về. Hãy gọi trước cho đơn vị đang giữ xe để hỏi giấy tờ cụ thể.
 
 Người đi nhận nên mang:
 

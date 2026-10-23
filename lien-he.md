@@ -80,7 +80,7 @@ Chúng tôi nhận giao xe trong khu vực phục vụ quanh Hà Nội. Thời g
 
 #### Tiền đặt cọc là bao nhiêu?
 
-Tiền đặt cọc phổ biến trong khoảng 2.000.000–5.000.000đ tùy loại xe. Mức đặt cọc cụ thể được xác nhận trực tiếp khi đặt xe và hoàn trả khi bạn trả xe đúng hẹn, xe không có hư hỏng phát sinh.
+Tiền đặt cọc phổ biến trong khoảng 2.000.000–5.000.000đ tùy loại xe. Mức đặt cọc cụ thể được xác nhận trực tiếp khi đặt xe và được hoàn trả theo điều khoản hợp đồng sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan.
 
 #### Tôi có thể hủy hoặc thay đổi lịch đặt xe không?
 

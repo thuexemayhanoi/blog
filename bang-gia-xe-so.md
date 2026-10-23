@@ -75,7 +75,7 @@ Mức giá tham khảo 150.000đ/ngày, 700.000đ/tuần và 900.000 – 1.200.0
 2. **Xác nhận giá:** Chốt mức giá theo ngày, tuần hoặc tháng cùng tiền đặt cọc.
 3. **Chuẩn bị giấy tờ:** Xuất trình chứng minh nhân dân, căn cước công dân hoặc hộ chiếu; kèm giấy phép lái xe phù hợp.
 4. **Nhận xe:** Đến địa chỉ ở Long Biên nhận xe hoặc thỏa thuận giao xe trong khu vực phục vụ, trong giờ hoạt động 09:00 – 21:00.
-5. **Trả xe:** Trả xe đúng giờ đã hẹn để nhận lại tiền đặt cọc.
+5. **Trả xe:** Trả xe đúng giờ đã hẹn; tiền đặt cọc được hoàn trả theo điều khoản hợp đồng sau khi bàn giao xe.
 
 ## Tiền đặt cọc và các khoản cần xác nhận
 

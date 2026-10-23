@@ -19,7 +19,7 @@ Nhiều bản ở vùng cao phía Bắc chỉ nối với đường lớn bằng
 
 ## Đi xe Wave qua cầu treo: cầu treo dân sinh được làm cho ai
 
-Theo Thông tư 11/2014/TT-BGTVT, cầu treo dân sinh là cầu treo dây võng một nhịp trên đường giao thông nông thôn, khổ cầu không lớn hơn 2 m, dành cho người đi bộ, gia súc, ngựa thồ, xe đạp, xe mô tô, xe gắn máy và xe thô sơ. Thông tư chia cầu làm ba loại theo lưu lượng, với khổ cầu 2 m, 1,5 m và 1 m; loại hẹp nhất dùng cho vùng xa, ít người qua. Các loại cầu lớn hơn chỉ cho xe lưu thông một chiều, qua cầu từng chiếc một và phải có biển cảnh báo. Thông tư khuyến nghị mặt cầu bằng tôn thép có gân chống trơn.
+Theo Thông tư 11/2014/TT-BGTVT, cầu treo dân sinh là cầu treo dây võng một nhịp trên đường giao thông nông thôn, khổ cầu không lớn hơn 2 m, dành cho người đi bộ, gia súc, ngựa thồ, xe đạp, xe mô tô, xe gắn máy và xe thô sơ. Thông tư chia cầu làm ba loại theo lưu lượng, với khổ cầu 2 m, 1,5 m và 1 m; loại hẹp nhất dùng cho vùng xa, ít người qua. Cầu loại I và loại II có thể cho xe thô sơ súc vật kéo qua cầu nhưng chỉ theo một chiều, từng chiếc một và phải có biển cảnh báo; đây là quy tắc cho loại xe đó, không phải quy định chung cho xe máy. Thông tư khuyến nghị mặt cầu bằng tôn thép có gân chống trơn.
 
 Như vậy xe máy là đối tượng được tính tới khi thiết kế, nhưng sức chịu của mỗi cầu khác nhau. Báo Sơn La cho biết nhiều cầu dân sinh làm từ những năm 1988 tới 2010 có kết cấu đơn giản, mặt cầu bằng tre, gỗ, và phần lớn đã xuống cấp. Bạn có thể gặp cả cầu mới có biển báo rõ ràng lẫn cầu cũ không có biển nào.
 

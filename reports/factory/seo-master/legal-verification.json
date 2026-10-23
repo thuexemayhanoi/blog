@@ -1,0 +1,1184 @@
+{
+ "schema": "legal-verification/1",
+ "verified_on": "2026-10-23",
+ "method": "Đối chiếu từng văn bản được bài trích dẫn với cổng chính thức (chinhphu.vn, vanban.chinhphu.vn, congbao.chinhphu.vn) và nguồn thứ cấp khi cần; ghi nguồn + câu trích ngắn. Không có nguồn chính thức thì không kết luận (UNKNOWN).",
+ "status_legend": {
+  "CON_HIEU_LUC": "còn hiệu lực",
+  "DA_SUA_DOI": "còn hiệu lực nhưng đã bị sửa đổi/bổ sung",
+  "DA_BI_THAY_THE": "đã hết hiệu lực do bị thay thế",
+  "CHUA_CO_HIEU_LUC": "đã ban hành, chưa có hiệu lực"
+ },
+ "instruments": [
+  {
+   "instrument": "Luật 36/2024",
+   "official_title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15)",
+   "issuer": "Quốc hội (ký: Trần Thanh Mẫn)",
+   "issued_date": "2024-06-27",
+   "effective_date": "2025-01-01",
+   "status": "DA_SUA_DOI",
+   "replaces_or_amends": "Thay thế Luật Giao thông đường bộ 23/2008/QH12 (đã sửa đổi bởi 35/2018/QH14, 44/2019/QH14) và Nghị quyết 73/2022/QH15 (Điều 88 khoản 3, 4). Được sửa đổi bởi Luật 118/2025/QH15 (ngày 10/12/2025, hiệu lực 01/7/2026). Hợp nhất: 55/VBHN-VPQH (23/03/2026).",
+   "sources": [
+    {
+     "url": "https://chinhphu.vn?pageid=27160&docid=211194&classid=1&orggroupid=1",
+     "quote": "Số ký hiệu 36/2024/QH15 | Ngày ban hành 27-06-2024 | Ngày có hiệu lực 01-01-2025 | Cơ quan ban hành Quốc hội | Trích yếu Luật Trật tự, an toàn giao thông đường bộ"
+    },
+    {
+     "url": "https://vanban.chinhphu.vn/?docid=217295&pageid=27160",
+     "quote": "Văn bản hợp nhất số 55/VBHN-VPQH của Văn phòng Quốc hội: Luật Trật tự, an toàn giao thông đường bộ | Ngày ban hành 23-03-2026"
+    },
+    {
+     "url": "https://luatvietnam.vn/an-ninh-trat-tu/luat-trat-tu-an-toan-giao-thong-duong-bo-2024-so-36-2024-qh15-360844-d1.html",
+     "quote": "Điều 88. 1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025... 2. Khoản 3 Điều 10 của Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026."
+    },
+    {
+     "url": "https://vanban.chinhphu.vn/?docid=217295&pageid=27160",
+     "quote": "Điều 59.1: a) Người đủ 16 tuổi trở lên được điều khiển xe gắn máy; b) Người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1,"
+    },
+    {
+     "url": "https://vanban.chinhphu.vn/?docid=217295&pageid=27160",
+     "quote": "Điều 57.1: a) Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW;"
+    },
+    {
+     "url": "https://vanban.chinhphu.vn/?docid=217295&pageid=27160",
+     "quote": "Điều 34.1.g: Xe gắn máy ... nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm3;"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MISMATCH",
+   "claim_issues": [
+    "WRONG_AGE (5 bài): bài ghi hạng A1 cấp từ đủ 16 tuổi: 2026-09-27-cac-hang-bang-lai-xe-may-tai-viet-nam.md ('Độ tuổi tối thiểu để được cấp bằng A1 là 16'; 'Được thi hạng A1'), 2026-09-28-bang-lai-a1-ieu-khien-xe-may-pham-vi-nao.md, 2026-09-28-thi-bang-lai-a1-quy-trinh-hien-hanh.md ('phải đủ 16 tuổi tính đến ngày sát hạch'), 2026-10-07-thi-bang-a1-bang-xe-may-thue-uoc-khong.md, và 2026-10-07-xe-50cc-thue-co-can-giay-phep-lai-khong.md ('Độ tuổi tối thiểu để được cấp ... GPLX hạng A1 hiện nay thấp hơn so với trước'). Điều 59 khoản 1 (bản hợp nhất 55/VBHN-VPQH): 16 tuổi chỉ để điều khiển xe gắn máy (điểm a); GPLX hạng A1, A, B1, B, C1 cấp từ đủ 18 tuổi (điểm b). Các bài 2026-10-15 trở đi (vd sap-du-18-tuoi-muon-co-bang-a1...) đã nêu đúng và còn tự đính chính 'mốc 16 tuổi không phải của bằng A1'.",
+    "WRONG_CLASS_RANGE (3 bài): hạng A1 bị mô tả là 'xe dưới 175cc' / '50 cm3 đến dưới 175 cm3' như quy định đang áp dụng, và A2 như hạng còn tồn tại: 2026-09-27-giay-to-can-mang-khi-i-thue-xe-may.md, 2026-09-29-xe-50cc-co-can-bang-lai-khong.md, 2026-10-10-bang-lai-a1-chay-uoc-nhung-xe-nao.md ('mô tô từ 175 cm3 trở lên thuộc hạng A2'). Điều 57 khoản 1: từ 01/01/2025 A1 là mô tô hai bánh đến 125 cm3 hoặc đến 11 kW, hạng A là trên 125 cm3 hoặc trên 11 kW, không còn hạng A2; mốc 175 cm3/14 kW chỉ còn cho GPLX cấp trước 01/01/2025 (Điều 89 khoản 2 điểm a, b), như các bài 2026-10-15 viết đúng.",
+    "NUANCE: nhiều bài viết xe gắn máy là 'dưới 50 cm3' (2026-09-29-thue-xe-may-can-bao-nhieu-tuoi.md, 2026-09-29-xe-50cc-co-can-bang-lai-khong.md, 2026-10-11-thue-xe-50cc-..., 2026-10-07-xe-50cc-thue-co-can-giay-phep-lai-khong.md còn viết 'đúng cỡ 50 cm3 thì thuộc nhóm cần GPLX'). Điều 34 khoản 1 điểm g định nghĩa xe gắn máy là dung tích làm việc 'không lớn hơn 50 cm3' (tức 50 cm3 vẫn là xe gắn máy); lưu ý NĐ 168/2024 bản gốc (Điều 18 khoản 4 điểm a) dùng mốc 'xe mô tô có dung tích xi-lanh từ 50 cm3 trở lên', không nhất quán với Luật ở đúng mốc 50 cm3; NĐ 238/2026 (hiệu lực 15/08/2026) sửa điểm này thành 'Người từ đủ 16 tuổi đến dưới 18 tuổi điều khiển xe mô tô và các loại xe tương tự xe mô tô', bỏ mốc 50 cm3/04 kW."
+   ],
+   "notes": "Số hiệu, ngày ban hành 27/06/2024, hiệu lực 01/01/2025 và việc docid=217295 là bản hợp nhất 55/VBHN-VPQH (23/03/2026) đều khớp bài; các ví dụ đầu vào và các câu trích Điều 33, 39, 59 khoản 2, 60, 61, 62, 72 khớp bản hợp nhất. claim_check = MISMATCH vì rà thêm theo nhóm khẳng định (tuổi, hạng GPLX) phát hiện bài ngày 2026-09-27 đến 2026-10-10 nêu sai độ tuổi cấp A1 và phạm vi hạng A1 (xem claim_issues; các bài này nêu số hiệu Luật 36/2024 hoặc nằm trong cụm bài trích TT 35/2024). Lưu ý khoản 3 Điều 10 hiệu lực 01/01/2026 và nhiều điều bị Luật 118/2025/QH15 sửa từ 01/7/2026 nên khi trích số điều/khoản nên dẫn theo bản hợp nhất.",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Nghị định 168/2024",
+   "official_title": "Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe",
+   "issuer": "Chính phủ (ký: Trần Hồng Hà)",
+   "issued_date": "2024-12-26",
+   "effective_date": "2025-01-01",
+   "status": "DA_SUA_DOI",
+   "replaces_or_amends": "Được sửa đổi, bổ sung bởi NĐ 238/2026/NĐ-CP (26/06/2026, hiệu lực 15/08/2026; sửa nhiều điều, kể cả Điều 6, 14, 18 (điểm a khoản 4), 32, 47, 48, 50). Sửa đổi NĐ 100/2019/NĐ-CP (Điều 52) và thay khung phạt đường bộ của NĐ 100/2019 từ 01/01/2025 (NĐ 100/2019 bị NĐ 81/2026 bãi bỏ hẳn từ 15/05/2026).",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=212167",
+     "quote": "Số ký hiệu 168/2024/NĐ-CP | Ngày ban hành 26-12-2024 | Ngày có hiệu lực 01-01-2025 | Cơ quan ban hành Chính phủ | Người ký Trần Hồng Hà"
+    },
+    {
+     "url": "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/muc-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-an-toan-giao-thong-duong-bo-tu-01012025-d1-t1624",
+     "quote": "Nghị định số 168/2024/NĐ-CP ngày 26/12/2024 ... Nghị định gồm 04 chương, 55 điều, có hiệu lực từ 01/01/2025."
+    },
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=218613",
+     "quote": "Nghị định số 238/2026/NĐ-CP ... Sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CР ... Ngày ban hành 26-06-2026 | Ngày có hiệu lực 15-08-2026"
+    },
+    {
+     "url": "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650",
+     "quote": "Phạt tiền từ 4-6 triệu đồng đối với người điều khiển xe đi ngược chiều, đi trên vỉa hè (...); không chấp hành hiệu lệnh của đèn tín hiệu giao thông."
+    },
+    {
+     "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+     "quote": "d) Người điều khiển xe mô tô và các loại xe tương tự xe mô tô kinh doanh vận tải không mang theo giấy phép lái xe trừ hành vi vi phạm quy định tại điểm b khoản 5, điểm c khoản 7 Điều này."
+    },
+    {
+     "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+     "quote": "b) Người điều khiển xe mô tô, xe gắn máy ... không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực;"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MISMATCH",
+   "claim_issues": [
+    "WRONG_FINE (1 bài, 5 chỗ sai; kiểm bằng toàn văn NĐ 168/2024 trên xaydungchinhsach.chinhphu.vn và trang Bộ Công an bocongan.gov.vn): bài 2026-09-28-phat-nguoi-loi-nao-thuong-gap-voi-xe-may.md viết (a) xe máy vượt đèn đỏ bị phạt 600.000-800.000 đồng 'theo NĐ 168/2024, cao hơn hẳn mức cũ' - đúng là 4-6 triệu đồng (Điều 7, không chấp hành hiệu lệnh đèn tín hiệu); (b) đi ngược chiều và đi trên vỉa hè 400.000-600.000 đồng - đúng là 4-6 triệu đồng; (c) 'đi không đúng phần đường' 400.000-600.000 đồng - đúng là 600.000-800.000 đồng (điểm d khoản 3 Điều 7); (d) dừng/đỗ sai quy định 300.000-400.000 đồng - không khớp khung nào của Điều 7 (khung thấp nhất khoản 1 là 200.000-400.000; dừng/đỗ ở lòng đường gây cản trở, đỗ ở lòng đường/vỉa hè trái phép là 400.000-600.000); (e) câu kết 'năm lỗi ... từ 300 nghìn đến 800 nghìn đồng' sai theo (a)-(d). Đây là các mức của NĐ 100/2019 hoặc lẫn khung, không phải NĐ 168/2024.",
+    "SCOPE_ERROR (2 bài): bài 2026-09-28-khong-mang-bang-lai-khi-ang-i-xe-co-bi-xu-ly-khong.md viết người điều khiển xe máy 'không mang theo giấy phép lái xe bị phạt 200-300 nghìn đồng'. Điều 18 khoản 2 điểm d chỉ phạt 200.000-300.000 đồng đối với xe mô tô và xe tương tự xe mô tô KINH DOANH VẬN TẢI không mang theo giấy phép lái xe; bài không nêu giới hạn này (khách thuê xe không thuộc nhóm đó). Bài 2026-09-29-quen-bang-lai-khi-ang-i-xe-thue-lam-gi-ngay.md cũng viết chung chung rằng người điều khiển xe mô tô 'không mang theo giấy phép lái xe ... thuộc nhóm lỗi bị xử phạt' theo NĐ 168/2024 (cùng lỗi phạm vi). Cùng bài ghi mốc dung tích 'dưới 125 cm3' (2-4 triệu) và 'từ 125 cm3 trở lên' (6-8 triệu); NĐ 168/2024 là 'đến 125 cm3' (điểm a khoản 5: 2-4 triệu) và 'trên 125 cm3' (điểm b khoản 7: 6-8 triệu), nên xe đúng 125 cm3 (Air Blade, Lead, SH Mode 125...) thuộc khung 2-4 triệu.",
+    "SCOPE_ERROR (nhẹ): bài 2026-09-28-khong-co-bao-hiem-xe-may-bi-phat-the-nao.md viết khoản 2 Điều 18 phạt 200-300 nghìn đồng với 'không có giấy chứng nhận bảo hiểm còn hiệu lực, không mang theo giấy chứng nhận còn hiệu lực, hoặc dùng giấy chứng nhận đã hết hiệu lực'. Điểm b khoản 2 phạt 'không có chứng nhận bảo hiểm bắt buộc còn hiệu lực' (khớp, gồm cả hết hiệu lực); riêng 'không mang theo' (điểm a) chỉ áp dụng cho xe mô tô, xe gắn máy kinh doanh vận tải.",
+    "AMENDED_NOT_NOTED: 371/380 bài trích NĐ 168/2024 không nhắc NĐ 238/2026 (hiệu lực 15/08/2026). Đã quét các điều bài trích gần tên NĐ 168/2024 so với danh sách điều bị NĐ 238/2026 sửa (Điều 3, 6, 13, 14, 17, 18, 20, 21, 26, 29, 32, 41-44, 46, 50, 53): các câu cụ thể trong bài (Điều 7; Điều 14 điểm a khoản 1; Điều 17 khoản 2 điểm a; Điều 18 khoản 2; Điều 32 khoản 10; Điều 47 khoản 2, 6; Điều 50 khoản 1 điểm b) vẫn đúng với bản sửa."
+   ],
+   "notes": "Số hiệu, ngày ký 26/12/2024, hiệu lực 01/01/2025, cơ quan ban hành khớp; ba ví dụ đầu vào khớp. Rà thêm toàn bộ 11/6076 bài có nêu mức phạt tiền: các mức nồng độ cồn xe máy (2-3, 6-8, 8-10 triệu; tước 22-24 tháng), không có giấy phép lái xe 2-4 / 6-8 triệu, không đội mũ bảo hiểm 400-600 nghìn, chở 3 người 600-800 nghìn, không có bảo hiểm 200-300 nghìn đều khớp; nhưng 4 bài ngày 2026-09-28/29 có mức phạt/phạm vi sai (3 bài sai mức hoặc phạm vi rõ, 1 bài nêu chung chung) (xem claim_issues) nên claim_check = MISMATCH ở cấp độ khẳng định, dù số hiệu và ngày tháng đúng. Điều 18 khoản 4 điểm a (400.000-600.000 đồng với người 16-<18 tuổi lái mô tô) đã được NĐ 238/2026 sửa thành 'điều khiển xe mô tô và các loại xe tương tự xe mô tô' (bỏ mốc từ 50 cm3/04 kW); chưa thấy bài nào trích điểm này.",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Thông tư 51/2024",
+   "official_title": "Thông tư 51/2024/TT-BGTVT ban hành Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (QCVN 41:2024/BGTVT)",
+   "issuer": "Bộ Giao thông vận tải (ký: Nguyễn Duy Lâm)",
+   "issued_date": "2024-11-15",
+   "effective_date": "2025-01-01",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "QCVN 41:2024/BGTVT thay thế QCVN 41:2019/BGTVT (ban hành kèm TT 54/2019/TT-BGTVT).",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=211908&classid=1&orggroupid=4",
+     "quote": "Số ký hiệu 51/2024/TT-BGTVT | Ngày ban hành 15-11-2024 | Ngày có hiệu lực 01-01-2025 | Bộ Giao thông vận tải | Ban hành Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ"
+    },
+    {
+     "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+     "quote": "Lời nói đầu: QCVN 41:2024/BGTVT thay thế QCVN 41:2019/BGTVT."
+    },
+    {
+     "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+     "quote": "Biển số P.101: Đường cấm; - Biển số P.102: Cấm đi ngược chiều; - Biển số P.103a: Cấm xe ô tô; ... - Biển số P.104: Cấm xe máy; - Biển số P.105: Cấm xe ô tô và xe máy;"
+    },
+    {
+     "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+     "quote": "Biển số P.130: Cấm dừng xe và đỗ xe; - Biển số P.131(a,b,c): Cấm đỗ xe; - Biển số P.132: Nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp;"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "claim_issues": [
+    "INCIDENTAL_SIGN_CODE_ERROR (ngoài 3 ví dụ đầu vào và ngoài danh sách bài nêu TT 51/2024, nhưng sai về chính nội dung QCVN 41): bài 2026-10-10-oc-bien-bao-cam-o-va-cam-dung-tren-via-he.md viết 'biển cấm dừng và đỗ, ký hiệu P.101, và biển cấm đỗ, ký hiệu P.102' (lặp lại cả ở câu tóm lại). QCVN 41:2024 Điều 22.1: P.101 = Đường cấm, P.102 = Cấm đi ngược chiều, P.130 = Cấm dừng xe và đỗ xe, P.131(a,b,c) = Cấm đỗ xe. Nhiều bài 2026-10-15/16 khác dùng đúng P.130/P.131 và P.101/P.102.",
+    "INCIDENTAL_SIGN_CODE_ERROR: bài 2026-10-07-bien-bao-cam-o-to-qua-lai-co-ap-dung-cho-xe-may-khong.md (viện QCVN 41:2019, không nêu 41:2024) gán 'P.102a = Đường cấm ô tô', 'P.103 = Đường cấm mô tô', 'P.104 = Đường cấm ô tô và mô tô'. Đúng theo QCVN 41:2024: P.103a = Cấm xe ô tô, P.104 = Cấm xe máy, P.105 = Cấm xe ô tô và xe máy (Điều 22.1 không có mã P.102a; P.103 chỉ là nhóm P.103a/b/c).",
+    "NUANCE: bài 2026-10-15-bien-cam-xe-gan-may-va-bien-cam-xe-may-khac-nhau-the-nao-xe-50cc... viết 'phần phụ lục của quy chuẩn gọi P.104 là biển cấm xe mô tô'; QCVN 41:2024 (Điều 22.1 và mục B.4) đặt tên P.104 là 'Cấm xe máy' ('đường cấm các loại xe máy... không có giá trị cấm những người dắt xe máy'), P.111a là 'Cấm xe gắn máy'. Hai bài khác (xe-may-dien-co-duoc-vao-duong-cam-xe... và bài P.104/P.105) gọi đúng 'Cấm xe máy'.",
+    "Phạm vi kiểm tra mã biển: đối chiếu tự động ~546 lượt nhắc mã biển P/W/R/I/S ở 59 bài với danh mục trong QCVN 41:2024 (Điều 22.1, 28.1, 32.1, 36.1, 41.2.1); chỉ đánh giá được các lượt có tên biển đi kèm; ngoài 2 bài trên (và nuance P.104) không phát hiện thêm mã gán sai tên."
+   ],
+   "notes": "Bài khẳng định TT 51/2024/TT-BGTVT ngày 15/11/2024 ban hành QCVN 41:2024/BGTVT: khớp (3 ví dụ đầu vào). Lưu ý Bộ GTVT đã sáp nhập vào Bộ Xây dựng (2025) nhưng văn bản vẫn có hiệu lực. claim_check = MATCH áp dụng cho các ví dụ đầu vào; lỗi mã biển liệt kê ở claim_issues nằm ở 2 bài không nêu TT 51/2024 (một bài còn viện QCVN 41:2019).",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Nghị định 67/2023",
+   "official_title": "Nghị định 67/2023/NĐ-CP quy định về bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới, bảo hiểm cháy, nổ bắt buộc, bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng",
+   "issuer": "Chính phủ (ký: Lê Minh Khái)",
+   "issued_date": "2023-09-06",
+   "effective_date": "2023-09-06",
+   "status": "DA_SUA_DOI",
+   "replaces_or_amends": "Được sửa đổi, bổ sung một số điều bởi Nghị định 220/2026/NĐ-CP (22/06/2026, hiệu lực 01/07/2026). Thay thế NĐ 03/2021/NĐ-CP (xem mục NĐ 03/2021).",
+   "sources": [
+    {
+     "url": "https://chinhphu.vn?pageid=27160&docid=208599",
+     "quote": "Số ký hiệu 67/2023/NĐ-CP | Ngày ban hành 06-09-2023 | Ngày có hiệu lực 06-09-2023 | Chính phủ | Người ký Lê Minh Khái"
+    },
+    {
+     "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=218555",
+     "quote": "Nghị định số 220/2026/NĐ-CP ... Sửa đổi, bổ sung một số điều của Nghị định số 67/2023/NĐ-CР ... Ngày có hiệu lực 01-07-2026"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "claim_issues": [],
+   "notes": "Bài ghi hiệu lực 06/09/2023: khớp (Điều 77 khoản 1: có hiệu lực từ ngày ký). Nhiều bài (2026-09-28) chỉ nhắc NĐ 67/2023 mà không nhắc đã bị sửa bởi NĐ 220/2026 từ 01/7/2026; bài 2026-10-15 có nhắc. Đã đọc toàn văn NĐ 220/2026: bản sửa chỉ đụng Chương IV (bảo hiểm công trình xây dựng: Điều 32, 33, 34, 37, 38, 45, 58, thay Phụ lục III và Mẫu 3 Phụ lục X) và đổi cụm từ \"người thứ ba\" thành \"bên thứ ba\" ở nhiều điều (kể cả Điều 3, 5, 7, 10, 12, 13 thuộc phần TNDS xe cơ giới); không thay biểu phí/mức trách nhiệm/bảng tỷ lệ thương tật của TNDS xe cơ giới. Nguồn: luatvietnam.vn toàn văn NĐ 220/2026.",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Luật 118/2025",
+   "official_title": "Luật số 118/2025/QH15 sửa đổi, bổ sung một số điều của 10 luật có liên quan đến an ninh, trật tự",
+   "issuer": "Quốc hội",
+   "issued_date": "2025-12-10",
+   "effective_date": "2026-07-01",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Sửa đổi 10 luật, trong đó có Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15 (Điều 7 của Luật 118/2025).",
+   "sources": [
+    {
+     "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+     "quote": "Luật số 118/2025/QH15 ngày 10 tháng 12 năm 2025 của Quốc hội sửa đổi, bổ sung một số điều của 10 luật có liên quan đến an ninh, trật tự, có hiệu lực kể từ ngày 01 tháng 7 năm 2026."
+    },
+    {
+     "url": "https://lsvn.vn/nhung-diem-moi-tai-luat-so-118-2025-qh15-sua-doi-10-luat-ve-an-ninh-trat-tu-a167867.html",
+     "quote": "Luật số 118/2025/QH15 cũng sửa đổi bổ sung khoản 2a vào sau khoản 2 Điều 88 Luật Trật tự, an toàn giao thông đường bộ 2024."
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "claim_issues": [],
+   "notes": "Bài mô tả Luật 118/2025 sửa Luật 36/2024 và VBHN 55/VBHN-VPQH đã gồm sửa đổi này: khớp. Hiệu lực chung 01/7/2026 (một số điều khoản riêng có mốc khác, vd 01/01/2028 cho thiết bị ghi hình lái xe).",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Nghị định 220/2026",
+   "official_title": "Nghị định 220/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định 67/2023/NĐ-CP về bảo hiểm bắt buộc TNDS của chủ xe cơ giới, bảo hiểm cháy nổ bắt buộc, bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng",
+   "issuer": "Chính phủ (ký: Nguyễn Văn Thắng)",
+   "issued_date": "2026-06-22",
+   "effective_date": "2026-07-01",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Sửa đổi, bổ sung NĐ 67/2023/NĐ-CP: Điều 1-7 sửa Điều 32, 33, 34 (điểm m, n khoản 2), 37, 38, 45, 58 (Chương IV - bảo hiểm bắt buộc công trình xây dựng); Điều 8 thay Phụ lục III và Mẫu số 3 Phụ lục X; Điều 9 thay một số cụm từ (vd \"người thứ ba\" -> \"bên thứ ba\"); Điều 10: hiệu lực 01/7/2026.",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=218555",
+     "quote": "Số ký hiệu 220/2026/NĐ-CP | Ngày ban hành 22-06-2026 | Ngày có hiệu lực 01-07-2026 | Chính phủ | Sửa đổi, bổ sung một số điều của Nghị định số 67/2023/NĐ-CР"
+    },
+    {
+     "url": "https://vneconomy.vn/tu-17-bao-hiem-cong-trinh-xay-dung-khong-duoc-thap-hon-gia-tri-hop-dong.htm",
+     "quote": "Chính phủ vừa ban hành Nghị định số 220/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 67/2023/NĐ-CP ... Nội dung thay đổi lớn nhất tập trung tại Chương IV (đầu tư xây dựng)"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "claim_issues": [],
+   "notes": "Bài ghi \"hiệu lực từ 01/7/2026\", docid=218555 và là nghị định sửa NĐ 67/2023: khớp. Đã đọc toàn văn (10 Điều, ký Nguyễn Văn Thắng): bản sửa tập trung vào bảo hiểm công trình xây dựng, KHÔNG thay biểu phí, mức trách nhiệm hay bảng tỷ lệ thương tật của TNDS bắt buộc xe cơ giới (Phụ lục bị thay là Phụ lục III - phí công trình xây dựng - và Mẫu 3 Phụ lục X); chỉ đổi cụm từ \"người thứ ba\" thành \"bên thứ ba\". Như vậy các bài hedging \"chưa đọc phần sửa đổi nên không khẳng định phụ lục có đổi không\" có thể bổ sung kết luận: phụ lục TNDS xe cơ giới không đổi theo NĐ 220/2026.",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Thông tư 38/2024",
+   "official_title": "Thông tư 38/2024/TT-BGTVT quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+   "issuer": "Bộ Giao thông vận tải (ký: Nguyễn Duy Lâm)",
+   "issued_date": "2024-11-15",
+   "effective_date": "2025-01-01",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Thay thế TT 31/2019/TT-BGTVT và Điều 15 TT 06/2023/TT-BGTVT.",
+   "sources": [
+    {
+     "url": "https://congbao.chinhphu.vn/van-ban/thong-tu-so-38-2024-tt-bgtvt-43378.htm",
+     "quote": "Ban hành: 15/11/2024 - Hiệu lực: 01/01/2025 ... Thông tư số 38/2024/TT-BGTVT quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng"
+    },
+    {
+     "url": "https://luatvietnam.vn/giao-thong/thong-tu-38-2024-tt-bgtvt-toc-do-khoang-cach-an-toan-cua-xe-may-chuyen-dung-tham-gia-giao-thong-375831-d1.html",
+     "quote": "Thông tư này có hiệu lực kể từ ngày 01 tháng 01 năm 2025 và thay thế Thông tư số 31/2019/TT-BGTVT"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "claim_issues": [],
+   "notes": "Khớp: ban hành 15/11/2024, hiệu lực 01/01/2025, thay TT 31/2019. Đã đối chiếu bảng tốc độ trong thông tư (LuatVietnam, bản toàn văn): nhóm \"xe mô tô\" ngoài khu đông dân cư 70 km/h (đường đôi/một chiều >=2 làn) và 60 km/h (đường hai chiều/một chiều một làn); Điều 7: xe máy chuyên dùng, xe gắn máy và các loại xe tương tự tốc độ khai thác tối đa 40 km/h (trừ đường cao tốc) - đúng như các bài 2026-10-11/2026-10-15 nêu.",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Thông tư 73/2024",
+   "official_title": "Thông tư 73/2024/TT-BCA quy định công tác tuần tra, kiểm soát, xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ của Cảnh sát giao thông",
+   "issuer": "Bộ Công an (ký: Lương Tam Quang)",
+   "issued_date": "2024-11-15",
+   "effective_date": "2025-01-01",
+   "status": "DA_SUA_DOI",
+   "replaces_or_amends": "Được sửa đổi bởi TT 13/2025/TT-BCA (28/02/2025) (hợp nhất 19/VBHN-BCA).",
+   "sources": [
+    {
+     "url": "https://chinhphu.vn?pageid=27160&docid=211864&classid=1",
+     "quote": "Số ký hiệu 73/2024/TT-BCA | Ngày ban hành 15-11-2024 | Ngày có hiệu lực 01-01-2025 | Bộ Công an | Quy định công tác tuần tra, kiểm soát, xử lý vi phạm pháp luật về TTATGT đường bộ của CSGT"
+    },
+    {
+     "url": "https://luatvietnam.vn/giao-thong/van-ban-hop-nhat-19-vbhn-bca-405783-d5.html",
+     "quote": "Thông tư số 13/2025/TT-BCA ngày 28 tháng 02 năm 2025 của Bộ trưởng Bộ Công an sửa đổi, bổ sung một số điều của các thông tư quy định về trật tự, an toàn giao thông..."
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "claim_issues": [],
+   "notes": "Bài: \"ban hành 15/11/2024, hiệu lực 01/01/2025\": khớp. Điều 24 (thông báo vi phạm) trích theo bản sửa bởi TT 13/2025.",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Thông tư 79/2024",
+   "official_title": "Thông tư 79/2024/TT-BCA quy định về cấp, thu hồi chứng nhận đăng ký xe, biển số xe cơ giới, xe máy chuyên dùng",
+   "issuer": "Bộ Công an",
+   "issued_date": "2024-11-15",
+   "effective_date": "2025-01-01",
+   "status": "DA_SUA_DOI",
+   "replaces_or_amends": "Bãi bỏ/thay thế TT 24/2023/TT-BCA từ 01/01/2025. Được sửa đổi bởi TT 13/2025/TT-BCA (28/02/2025), TT 51/2025/TT-BCA (30/06/2025, hiệu lực 01/07/2025), TT 37/2026/TT-BCA (24/04/2026, hiệu lực 08/06/2026), TT 62/2026/TT-BCA (18/05/2026). Có văn bản hợp nhất đăng trên Báo điện tử Chính phủ (14/11/2025; số hiệu 41/VBHN-BCA theo các bài, chưa tự kiểm).",
+   "sources": [
+    {
+     "url": "https://mps.gov.vn/chinh-sach-phap-luat/bai-viet/quy-dinh-ve-cap-thu-hoi-chung-nhan-dang-ky-xe-bien-so-xe-co-gioi-xe-may-chuyen-dung-d1-t1591",
+     "quote": "Thông tư số 79/2024/TT-BCA ngày 15/11/2024 quy định về cấp, thu hồi chứng nhận đăng ký xe, biển số xe cơ giới, xe máy chuyên dùng. Thông tư gồm 04 chương, 40 điều; có hiệu lực thi hành từ 01/01/2025."
+    },
+    {
+     "url": "https://xaydungchinhsach.chinhphu.vn/chuyen-noi-cu-tru-co-phai-doi-dang-ky-xe-o-to-119250107173141059.htm",
+     "quote": "Thông tư số 79/2024/TT-BCA ngày 15/11/2024 ... (thay thế Thông tư số 24/2023/TT-BCA, có hiệu lực từ ngày 01/01/2025)"
+    },
+    {
+     "url": "https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/chinh-sach-moi/112843/sua-doi-thu-tuc-thu-hoi-chung-nhan-dang-ky-xe-va-bien-so-xe-theo-thong-tu-62-2026-tt-bca",
+     "quote": "căn cứ khoản 8 Điều 7 Thông tư 62/2026/TT-BCA có quy định sửa đổi, bổ sung Điều 26 Thông tư 79/2024/TT-BCA"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "claim_issues": [],
+   "notes": "Khớp: TT 79/2024 thay TT 24/2023 và đã bị TT 51/2025, TT 37/2026, TT 62/2026 sửa; bài 2026-10-15 dùng đúng văn bản hợp nhất. Chưa tìm được trang vanban.chinhphu.vn riêng của TT 79/2024 nhưng có cổng Bộ Công an (mps.gov.vn) + Báo điện tử Chính phủ.",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Thông tư 108/2026",
+   "official_title": "Thông tư 108/2026/TT-BCA quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế",
+   "issuer": "Bộ Công an (ký: Lương Tam Quang)",
+   "issued_date": "2026-06-29",
+   "effective_date": "2026-07-01",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Thay thế TT 12/2025/TT-BCA kể từ 01/07/2026.",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=218725",
+     "quote": "Số ký hiệu 108/2026/TT-BCA | Ngày ban hành 29-06-2026 | Ngày có hiệu lực 01-07-2026 | Bộ Công an | Quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế"
+    },
+    {
+     "url": "https://vov.vn/phap-luat/nguoi-het-han-bang-lai-xe-duoi-30-ngay-khong-can-phai-thi-lai-ly-thuyet-post1311688.vov",
+     "quote": "Bộ Công an vừa ban hành Thông tư 108/2026/TT-BCA, có hiệu lực từ ngày 1/7, thay thế Thông tư 12/2025 quy định về sát hạch, cấp giấy phép lái xe"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "claim_issues": [],
+   "notes": "Bài ghi \"thay thế TT 12/2025 từ 01/7/2026\" và docid=218725: khớp (nguồn chính thức + VOV + cổng Công an Vĩnh Long).",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Thông tư 12/2025",
+   "official_title": "Thông tư 12/2025/TT-BCA quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế",
+   "issuer": "Bộ Công an (ký: Lương Tam Quang)",
+   "issued_date": "2025-02-28",
+   "effective_date": "2025-03-01",
+   "status": "DA_BI_THAY_THE",
+   "replaces_or_amends": "Thay thế (phần sát hạch, cấp GPLX của) TT 35/2024/TT-BGTVT từ 01/3/2025. Bản thân bị thay thế bởi TT 108/2026/TT-BCA từ 01/07/2026.",
+   "sources": [
+    {
+     "url": "https://congbao.chinhphu.vn/van-ban/thong-tu-so-12-2025-tt-bca-44366.htm",
+     "quote": "Ban hành: 28/02/2025 - Hiệu lực: 01/03/2025 ... Thông tư số 12/2025/TT-BCA quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế."
+    },
+    {
+     "url": "https://congan.vinhlong.gov.vn/thong-tin-phap-luat/nhung-diem-moi-ve-viec-cap-giay-phep-lai-xe-quy-dinh-tai-thong-tu-108-ngay-29-6-2026-cua-bo-cong-an-7225.html",
+     "quote": "Thông tư 12/2025/TT-BCA (quy định cũ bị thay thế bởi Thông tư 108)"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MISMATCH",
+   "claim_issues": [
+    "STALE_CITATION (1 bài khẳng định + 1 bài nêu hedged, trên tổng 30 bài trích TT 12/2025): bài 2026-09-20-luyen-tap-thi-bang-lai-a1-bang-xe-may-thue-duoc-khong-va-nen-the-nao.md viết \"Theo quy định hiện hành về sát hạch GPLX hạng A1 của Bộ Công an (Thông tư 12/2025/TT-BCA)\" trong khi TT này đã bị TT 108/2026/TT-BCA thay thế từ 01/07/2026; bài 2026-10-20-ngay-trung-tuyen-ngay-cap-va-thoi-han-in-tren-the-bang-lai-xe-may-d... dẫn 'mẫu giấy phép lái xe theo Thông tư 12/2025/TT-BCA, chỉ theo tóm tắt; tra văn bản hiện hành' (hedged, không nhắc TT 108/2026). 28/30 bài còn lại đã nhắc TT 108/2026.",
+    "Giá trị đúng: sát hạch, cấp, đổi GPLX và GPLX quốc tế từ 01/07/2026 do TT 108/2026/TT-BCA (thay TT 12/2025/TT-BCA)."
+   ],
+   "notes": "Ngày ban hành 28/02/2025, hiệu lực 01/03/2025 khớp bài. Các bài 2026-10-15 đã ghi đúng việc bị TT 108/2026 thay thế; bài cũ hơn (2026-09-20) trích như đang hiệu lực. Riêng nội dung \"sa hình hạng A1 gồm 4 bài (hình số 8, vạch đường thẳng, đường có vạch cản, đường gồ ghề)\" vẫn nhất quán với TT 108/2026 theo các nguồn thứ cấp (TVPL, thia1.com), chỉ cách chấm đổi từ 01/3/2027 - tức lỗi của bài chỉ nằm ở việc dẫn TT 12/2025 là \"hiện hành\".",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Nghị định 118/2021",
+   "official_title": "Nghị định 118/2021/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Xử lý vi phạm hành chính",
+   "issuer": "Chính phủ (ký: Phạm Bình Minh)",
+   "issued_date": "2021-12-23",
+   "effective_date": "2022-01-01",
+   "status": "DA_SUA_DOI",
+   "replaces_or_amends": "Được sửa đổi, bổ sung bởi NĐ 68/2025/NĐ-CP (18/03/2025, hiệu lực 02/05/2025; 16 điều, gồm Điều 13, 14, 16 về hủy bỏ/đính chính/hiệu lực quyết định và sửa câu chữ điểm c khoản 2 Điều 20) và NĐ 190/2025/NĐ-CP (01/07/2025, hiệu lực cùng ngày; đã đọc toàn văn: khoản 2a Điều 1, khoản 9 Điều 9, Điều 11, khoản 9 Điều 12, thêm Điều 17a, Điều 23a, Chương IIIa (Điều 28a, 28b), điểm a khoản 2 Điều 39; bãi bỏ Điều 24, khoản 10 Điều 12, khoản 4 Điều 31; thay Mẫu biên bản số 01 và 05).",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=204830",
+     "quote": "Số ký hiệu 118/2021/NĐ-CP | Ngày ban hành 23-12-2021 | Ngày có hiệu lực 01-01-2022 | Chính phủ | Quy định chi tiết một số điều và biện pháp thi hành Luật Xử lý vi phạm hành chính"
+    },
+    {
+     "url": "https://luatvietnam.vn/vi-pham-hanh-chinh/nghi-dinh-118-2021-nd-cp-quy-dinh-chi-tiet-mot-so-dieu-va-bien-phap-thi-hanh-luat-xu-ly-vi-pham-hanh-chinh-214819-d1.html",
+     "quote": "Nghị định này có hiệu lực từ ngày 01/01/2022. Văn bản này được sửa đổi, bổ sung bởi 190/2025/NĐ-CP, 68/2025/NĐ-CP"
+    },
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=214521",
+     "quote": "Số ký hiệu 190/2025/NĐ-CP | Ngày ban hành 01-07-2025 | Ngày có hiệu lực 01-07-2025 | Chính phủ | Sửa đổi, bổ sung một số điều của Nghị định số 118/2021/NĐ-CP"
+    },
+    {
+     "url": "https://vcci.com.vn/legal-document/nghi-dinh-1182021nd-cp-huong-dan-luat-xu-ly-vi-pham-hanh-chinh",
+     "quote": "Điều 20. Hình thức, thủ tục thu, nộp tiền phạt ... Trong thời hạn 05 ngày làm việc, kể từ ngày tiền phạt được nộp ... phải gửi trả lại cá nhân, tổ chức bị xử phạt các giấy tờ đã tạm giữ"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MISMATCH",
+   "notes": "Khớp: là nghị định hướng dẫn Luật XLVPHC; số hiệu, ngày ký 23/12/2021, hiệu lực 01/01/2022 đúng (vanban.chinhphu.vn). Đã đối chiếu Điều 20 (khoản 1 điểm a-b; khoản 2 điểm c-d; khoản 4) với bản đăng lại trên VCCI/LuatVietnam: khớp lời bài; NĐ 190/2025/NĐ-CP đã tự kiểm trên vanban.chinhphu.vn (docid 214521). Bài 2026-09-28-nop-phat-nguoi-tre... chỉ dẫn link về trang chủ vanban.chinhphu.vn (không trỏ tới văn bản cụ thể; docid đúng là 204830). Bài nop-phat-nguoi-tre... có lỗi số học ở ví dụ tiền chậm nộp (xem claim_issues); tỷ lệ 0,05%/ngày và hạn nộp 10 ngày trong bài khớp Luật XLVPHC (Điều 78 khoản 1; Điều 73).",
+   "verified_on": "2026-10-23",
+   "claim_issues": [
+    "ARITHMETIC_ERROR: bài 2026-09-28-nop-phat-nguoi-tre-co-bi-cong-them-khong.md (nguồn chính thức duy nhất bài dẫn là NĐ 118/2021) nêu đúng tỷ lệ chậm nộp 0,05%/ngày nhưng ví dụ 'phạt 400 nghìn đồng, quá hạn 30 ngày thì phát sinh thêm 60 nghìn đồng' sai gấp 10 lần: 400.000 x 0,05% x 30 = 6.000 đồng. Căn cứ: khoản 1 Điều 78 Luật Xử lý vi phạm hành chính; Điều 20 khoản 3 NĐ 118/2021 giao cơ quan thu phạt tính tiền chậm nộp theo quyết định xử phạt.",
+    "STALE_BASIS (nhẹ): bài 2026-10-16-quyet-dinh-xu-phat-sau-phat-nguoi-ghi-sai-ho-ten-hoac-so-dinh-danh-de-nghi-dinh... viết quyết định đính chính 'có hiệu lực từ ngày ký hoặc thời điểm ghi trong quyết định'. Đó là Điều 16 khoản 1 bản gốc NĐ 118/2021 ('có hiệu lực kể từ ngày ký hoặc một thời điểm cụ thể sau ngày ký quyết định và được ghi trong quyết định'). Từ 02/05/2025 khoản 9 Điều 1 NĐ 68/2025 thay Điều 16: quyết định đính chính, sửa đổi, bổ sung, hủy bỏ hoặc quyết định mới 'có hiệu lực kể từ ngày ký và phải được thi hành ngay khi cá nhân, tổ chức vi phạm nhận được quyết định' (nguồn: luatvietnam.vn toàn văn NĐ 68/2025; VCCI bản gốc). Ý khác của bài (đính chính chỉ cho sai sót kỹ thuật soạn thảo; lưu hồ sơ xử phạt) khớp Điều 14 bản sửa; mốc 01 năm chưa kiểm lại trên bản hợp nhất.",
+    "AMENDED_NOT_NOTED (nhẹ): 16/20 bài trích NĐ 118/2021 không nhắc NĐ 68/2025 hay NĐ 190/2025. Các điều bài đọc (chủ yếu Điều 20: hình thức nộp phạt khoản 1, trả giấy tờ trong 05 ngày làm việc khoản 2 điểm c-d, thời gian xem xét giảm/miễn/nộp nhiều lần không tính chậm nộp khoản 4) đã đối chiếu bản đăng lại (VCCI) và không thấy đổi về nội dung: theo bản tóm tắt 'Điểm mới' của Sở Nông nghiệp và Môi trường Hưng Yên, NĐ 68/2025 chỉ thêm chữ 'vụ' vào 'bưu chính' ở điểm c khoản 2 Điều 20; NĐ 190/2025 (đã đọc toàn văn) không đụng Điều 20. Hai bài về biên bản vi phạm (khong-dong-y-voi-noi-dung-bien-ban..., lap-bien-ban-vi-pham-nong-do-con...) nhắc 'mẫu biên bản kèm NĐ 118/2021 có phần ý kiến người vi phạm' trong khi NĐ 190/2025 đã thay Mẫu biên bản số 01 và 05 (chưa đối chiếu mẫu mới)."
+   ]
+  },
+  {
+   "instrument": "Luật 67/2020",
+   "official_title": "Luật số 67/2020/QH14 sửa đổi, bổ sung một số điều của Luật Xử lý vi phạm hành chính",
+   "issuer": "Quốc hội (ký: Nguyễn Thị Kim Ngân)",
+   "issued_date": "2020-11-13",
+   "effective_date": "2022-01-01",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Sửa đổi Luật XLVPHC 15/2012/QH13 (khoản 1 Điều 1 sửa khoản 5 Điều 2 về tái phạm). Luật gốc tiếp tục được sửa bởi Luật 88/2025/QH15 (hiệu lực 01/7/2025).",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=202608",
+     "quote": "Số ký hiệu 67/2020/QH14 | Ngày ban hành 13-11-2020 | Ngày có hiệu lực 01-01-2022 | Quốc hội | Luật Sửa đổi, bổ sung một số điều của Luật xử lý vi phạm hành chính"
+    },
+    {
+     "url": "https://pbgdpl.laichau.gov.vn/tin-tuc-su-kien/luat-sua-doi-bo-sung-mot-so-dieu-cua-luat-xu-ly-vi-pham-hanh-chinh-509.html",
+     "quote": "khoản 1 Điều 1 Luật số 67/2020/QH14 đã sửa đổi, bổ sung khái niệm tái phạm quy định tại khoản 5 Điều 2 Luật XLVPHC"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp cả số hiệu, docid=202608 và việc Luật 67/2020 sửa khái niệm tái phạm ở khoản 5 Điều 2. Lưu ý: từ 01/7/2025 Luật XLVPHC còn được sửa bởi Luật 88/2025/QH15 (thời hiệu, không lập biên bản...).",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Thông tư 36/2024",
+   "official_title": "Thông tư 36/2024/TT-BYT quy định về tiêu chuẩn sức khỏe, việc khám sức khỏe đối với người lái xe, người điều khiển xe máy chuyên dùng; khám sức khỏe định kỳ đối với người hành nghề lái xe ô tô; cơ sở dữ liệu về sức khỏe người lái xe",
+   "issuer": "Bộ Y tế (ký: Trần Văn Thuấn)",
+   "issued_date": "2024-11-16",
+   "effective_date": "2025-01-01",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Thay thế Thông tư liên tịch 24/2015/TTLT-BYT-BGTVT (hết hiệu lực từ 01/01/2025).",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=211769&classid=0",
+     "quote": "Số ký hiệu 36/2024/TT-BYT | Ngày ban hành 16-11-2024 | Ngày có hiệu lực 01-01-2025 | Cơ quan ban hành Bộ Y tế | Người ký Trần Văn Thuấn"
+    },
+    {
+     "url": "https://xaydungchinhsach.chinhphu.vn/bang-tieu-chuan-suc-khoe-cua-nguoi-lai-xe-tu-1-1-2025-119241117193720513.htm",
+     "quote": "Theo Thông tư 36/2024/TT-BYT, tiêu chuẩn sức khỏe của người lái xe, người điều khiển xe máy chuyên dùng chia theo 3 nhóm."
+    },
+    {
+     "url": "https://xaydungchinhsach.chinhphu.vn/quy-dinh-moi-ve-tieu-chuan-suc-khoe-kham-suc-khoe-lai-xe-119241117192614052.htm",
+     "quote": "Nhóm 1: Áp dụng với trường hợp khám sức khỏe để cấp giấy phép lái xe hạng A1, B1 và người điều khiển xe máy chuyên dùng. Nhóm 2: ... hạng A và B."
+    },
+    {
+     "url": "https://tapchicongthuong.vn/7-diem-moi-ve-quy-dinh-kham-suc-khoe-voi-nguoi-lai-xe-tu-nam-2025-129967.htm",
+     "quote": "Giấy khám sức khỏe mới theo Thông tư 36/2024/TT-BYT áp dụng từ ngày 01/01/2025 sẽ có giá trị sử dụng trong vòng 12 tháng kể từ ngày ký kết luận"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: ban hành 16/11/2024, áp dụng từ 01/01/2025, chia 3 nhóm tiêu chuẩn. Đã đối chiếu thêm: Nhóm 1 = hạng A1, B1 và người điều khiển xe máy chuyên dùng; Nhóm 2 = hạng A và B; Nhóm 3 = C1, C, D1, D2, D, BE, C1E, CE, D1E, D2E, DE; giấy khám sức khỏe theo mẫu mới có giá trị 12 tháng kể từ ngày ký kết luận (TTLT 24/2015 chỉ 6 tháng) - khớp các bài 2026-10-15. Thông tư không áp dụng cho người điều khiển xe gắn máy. Nguồn: Báo điện tử Chính phủ (xaydungchinhsach.chinhphu.vn), Tạp chí Công Thương, cổng PBGDPL Hải Phòng.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Thông tư 37/2026",
+   "official_title": "Thông tư 37/2026/TT-BCA sửa đổi, bổ sung một số điều của các Thông tư quy định về đăng ký, kiểm định phương tiện",
+   "issuer": "Bộ Công an (ký: Lương Tam Quang)",
+   "issued_date": "2026-04-24",
+   "effective_date": "2026-06-08",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Sửa đổi TT 79/2024/TT-BCA (đăng ký xe) và các thông tư về kiểm định (mẫu giấy chứng nhận kiểm định).",
+   "sources": [
+    {
+     "url": "https://luatvietnam.vn/giao-thong/thong-tu-37-2026-tt-bca-sua-doi-bo-sung-quy-dinh-dang-ky-kiem-dinh-phuong-tien-433289-d1.html",
+     "quote": "Hà Nội, ngày 24 tháng 4 năm 2026 ... Thông tư 37/2026/TT-BCA ... Thông tư này có hiệu lực từ ngày 08/06/2026. Người ký: Lương Tam Quang"
+    },
+    {
+     "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-so-37-2026-tt-bca-ve-dang-ky-kiem-dinh-phuong-tien-119260429143832445.htm",
+     "quote": "Bộ Công an vừa ban hành Thông tư số 37/2026/TT-BCA ... Thông tư có hiệu lực từ ngày 8/6/2026. Giấy chứng nhận đăng ký xe được tích hợp trên ứng dụng định danh quốc gia"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp ngày ban hành 24/4/2026, hiệu lực 08/6/2026, sửa TT 79/2024 và tích hợp dữ liệu đăng ký xe lên ứng dụng định danh (VNeID). Việc tích hợp lên VNeTraffic chưa thấy trong nguồn đã đọc. Chưa tìm được trang vanban.chinhphu.vn/Công báo của văn bản này nên xếp HIGH dựa trên cổng Báo điện tử Chính phủ + LuatVietnam + cổng văn bản tỉnh.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Thông tư 62/2026",
+   "official_title": "Thông tư 62/2026/TT-BCA quy định về phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính thuộc phạm vi quản lý của Bộ Công an",
+   "issuer": "Bộ Công an (ký: Lương Tam Quang)",
+   "issued_date": "2026-05-18",
+   "effective_date": "2026-05-18",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Điều 7 sửa đổi, bổ sung TT 79/2024/TT-BCA (vd khoản 8 Điều 7 sửa Điều 26 TT 79 về thu hồi đăng ký, biển số); còn đụng tới các thủ tục sát hạch/cấp GPLX, PCCC, con dấu... Không phải thông tư chuyên sửa TT 79.",
+   "sources": [
+    {
+     "url": "https://congbao.chinhphu.vn/van-ban/thong-tu-so-62-2026-tt-bca-469658/65510.htm",
+     "quote": "Số 62/2026/TT-BCA | Ngày ban hành 18/05/2026 | Ngày hiệu lực 18/05/2026 | Công báo 324 | Bộ Công an | Quy định về phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính"
+    },
+    {
+     "url": "https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/chinh-sach-moi/112843/sua-doi-thu-tuc-thu-hoi-chung-nhan-dang-ky-xe-va-bien-so-xe-theo-thong-tu-62-2026-tt-bca",
+     "quote": "căn cứ khoản 8 Điều 7 Thông tư 62/2026/TT-BCA có quy định sửa đổi, bổ sung Điều 26 Thông tư 79/2024/TT-BCA"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp việc TT 62/2026 sửa TT 79/2024. Ngày áp dụng 18/05/2026 khác ngày TT 37/2026 (08/06/2026) nên các nguồn ghi \"ngày áp dụng khác nhau\" là đúng. Số điều trích trong bài (Điều 21, Điều 16 khoản 1 điểm d, khoản 2 điểm c của TT 79 theo TT 62) chưa đối chiếu; chỉ xác nhận khoản 8 Điều 7 TT 62 sửa Điều 26 TT 79.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Thông tư 13/2025",
+   "official_title": "Thông tư 13/2025/TT-BCA sửa đổi, bổ sung một số điều của các thông tư quy định về trật tự, an toàn giao thông đường bộ, đường sắt và đường thủy nội địa",
+   "issuer": "Bộ Công an",
+   "issued_date": "2025-02-28",
+   "effective_date": "2025-03-01",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Sửa đổi TT 73/2024/TT-BCA (điểm b, c khoản 1 Điều 24; Điều 29; Điều 30...), TT 79/2024/TT-BCA, TT 67/2024/TT-BCA... Điều 3 bị bãi bỏ bởi TT 76/2025/TT-BCA từ 10/10/2025 (phần đường thủy).",
+   "sources": [
+    {
+     "url": "https://vanban.bocongan.gov.vn/co-so-du-lieu-van-ban/thong-tu-sua-doi-bo-sung-mot-so-dieu-cua-cac-thong-tu-quy-dinh-ve-trat-tu-an-toan-giao-thong-duong-bo-duong-sat-va-duong-thuy-noi-dia-1245",
+     "quote": "Số ký hiệu: 13/2025/TT-BCA - Tình trạng: Còn hiệu lực - Ngày có hiệu lực: 01/03/2025"
+    },
+    {
+     "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/4/2/cong-bao-so-178-ngay-02-04-47094_1775091606_signed.pdf",
+     "quote": "Thông tư 13/2025/TT-BCA 28/02/2025 ... 01/3/2025 ... Thông tư 73/2024/TT-BCA ... Sửa đổi điểm b, c khoản 1 Điều 24; điểm b khoản 1 Điều 29"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: TT 13/2025 có sửa Điều 24 khoản 1 điểm b, c của TT 73/2024 (bài đọc điểm c). Số \"Điều 11\" và \"Mẫu 01/73\" trích trong một số bài chưa đối chiếu.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Thông tư 35/2024",
+   "official_title": "Thông tư 35/2024/TT-BGTVT quy định về đào tạo, sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế; đào tạo, kiểm tra, cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ",
+   "issuer": "Bộ Giao thông vận tải (ký: Nguyễn Duy Lâm)",
+   "issued_date": "2024-11-15",
+   "effective_date": "2025-01-01",
+   "status": "DA_BI_THAY_THE",
+   "replaces_or_amends": "Phần sát hạch/cấp-đổi GPLX/GPLX quốc tế bị TT 12/2025/TT-BCA thay từ 01/03/2025; toàn bộ thông tư bị TT 14/2025/TT-BXD bãi bỏ từ 01/09/2025. Hiện hành: TT 108/2026/TT-BCA (sát hạch, cấp GPLX) và TT 14/2025/TT-BXD (đào tạo).",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=211984",
+     "quote": "Số ký hiệu 35/2024/TT-BGTVT | Ngày ban hành 15-11-2024 | Ngày có hiệu lực 01-01-2025 | Bộ Giao thông vận tải | Người ký Nguyễn Duy Lâm"
+    },
+    {
+     "url": "https://pbgdpl.quangninh.gov.vn/thong-tu-so-14-2025-tt-bxd-quy-dinh-ve-dao-tao-lai-xe-boi-duong-kiem-tra-cap-chung-chi-boi-duong-kien-thuc-phap-luat-ve-giao-thong-duong-bo",
+     "quote": "Thông tư số 14/2025/TT-BXD có hiệu lực thi hành từ ngày 01/9/2025. Thông tư này bãi bỏ Thông tư số 35/2024/TT-BGTVT ngày 15 tháng 11 năm 2024"
+    },
+    {
+     "url": "https://phapluatviet.vn/tu-ngay-1-3-2025-khong-duoc-doi-giay-phep-lai-xe-neu-khong-co-ban-goc",
+     "quote": "Quy định mới về đổi giấy phép lái xe từ 01/3/2025. Thông tư 12/2025/TT-BCA thay thế Thông tư 35/2024/TT-BGTVT"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MISMATCH",
+   "claim_issues": [
+    "9/9 bài trích TT 35/2024/TT-BGTVT đều coi là hướng dẫn 'hiện hành' (cấp-quản lý-đổi GPLX, GPLX quốc tế, sát hạch A1, đào tạo): 2026-09-27-cac-hang-bang-lai-xe-may-tai-viet-nam.md; 2026-09-28-bang-lai-a1-ieu-khien-xe-may-pham-vi-nao.md; 2026-09-28-bang-lai-uoc-cap-o-nuoc-ngoai-dung-uoc-khong.md; 2026-09-28-mat-bang-lai-xe-may-xin-cap-lai-the-nao.md; 2026-09-28-oi-bang-lai-khi-giay-het-han.md; 2026-09-28-oi-bang-lai-nuoc-ngoai-sang-bang-viet-nam-huong-dan-co-ban.md; 2026-09-28-sat-hach-ly-thuyet-a1-nhung-cau-hay-gap.md; 2026-09-28-thi-bang-lai-a1-quy-trinh-hien-hanh.md; 2026-10-07-thi-bang-a1-bang-xe-may-thue-uoc-khong.md. Thực tế TT này đã bị TT 12/2025/TT-BCA thay (phần sát hạch, cấp/đổi GPLX, GPLX quốc tế) từ 01/03/2025 và bị TT 14/2025/TT-BXD bãi bỏ hoàn toàn từ 01/09/2025.",
+    "Giá trị đúng: sát hạch/cấp/đổi GPLX và GPLX quốc tế do TT 108/2026/TT-BCA (hiệu lực 01/07/2026, thay TT 12/2025/TT-BCA); đào tạo lái xe do TT 14/2025/TT-BXD (sửa bởi TT 17/2026/TT-BXD). Nguồn: congbao/vanban.chinhphu.vn, pbgdpl.quangninh.gov.vn, sxd.quangngai.gov.vn.",
+    "Cả cụm 9 bài còn chứa các khẳng định pháp lý sai khác (xem mục Luật 36/2024: độ tuổi cấp A1 ghi 16, phạm vi A1) nên nên rà lại toàn bộ nội dung, không chỉ thay số hiệu thông tư."
+   ],
+   "notes": "Số hiệu, ngày ban hành 15/11/2024 và hiệu lực 01/01/2025 đúng; sai ở chỗ coi là còn hiệu lực. Cả 9 bài đều viết ngày 2026-09-27 đến 2026-10-07, trước các bài 2026-10-15 (đã dùng TT 12/2025, TT 108/2026). Số bài bị ảnh hưởng: 9 (đếm lại bằng quét toàn bộ _posts: 9 tệp nêu 'TT 35/2024' hoặc '35/2024/TT-BGTVT').",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Nghị định 238/2026",
+   "official_title": "Nghị định 238/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe",
+   "issuer": "Chính phủ (ký: Phạm Gia Túc)",
+   "issued_date": "2026-06-26",
+   "effective_date": "2026-08-15",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Sửa đổi, bổ sung NĐ 168/2024/NĐ-CP (21 Điều): trực tiếp sửa Điều 3 (khoản 3), 6 (thêm khoản 1a về thiết bị an toàn trẻ em; sửa điểm m khoản 3), 13, 14, 17, 18 (điểm a khoản 4: bỏ ngưỡng 50 cm3/4 kW), 20, 21, 26, 29, 32 (thêm khoản 9a, điểm e khoản 11 và 13, sửa điểm l khoản 19, điểm c khoản 21; bãi bỏ điểm d, đ, e, g khoản 17), 41, 42, 43, 44, 46 (khoản 2), 50 (điểm đ khoản 1, điểm a khoản 3), 53 (thêm khoản 3, 4); Điều 19 còn thêm/thay/bỏ cụm từ ở Điều 6, 7 (điểm e khoản 1, điểm b khoản 6), 8, 14, 20, 21, 26, 40, 47 (điểm h khoản 3, điểm c khoản 5), 48 (điểm a khoản 1, khoản 3), 53, 55. Điều 20: hiệu lực 15/8/2026; Điều 21: chuyển tiếp theo thời điểm thực hiện hành vi.",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=218613",
+     "quote": "Số ký hiệu 238/2026/NĐ-CP | Ngày ban hành 26-06-2026 | Ngày có hiệu lực 15-08-2026 | Chính phủ | Người ký Phạm Gia Túc | Sửa đổi, bổ sung một số điều của Nghị định số 168/2024"
+    },
+    {
+     "url": "https://luatvietnam.vn/vi-pham-hanh-chinh/nghi-dinh-238-2026-nd-cp-sua-doi-nghi-dinh-168-2024-ve-xu-phat-vi-pham-giao-thong-438987-d1.html",
+     "quote": "Ngày 26/06/2026, Chính phủ đã ban hành Nghị định 238/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định 168/2024/NĐ-CP ... có hiệu lực từ ngày 15/08/2026."
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Đã đối chiếu toàn văn NĐ 238/2026 (21 Điều, luatvietnam.vn; bản gốc 238-ndcp.signed.pdf trên vanban.chinhphu.vn docid=218613): số hiệu, ngày ban hành 26/6/2026, hiệu lực 15/8/2026, ký Phạm Gia Túc khớp. Các khẳng định cụ thể của bài đều đúng: sửa Điều 50 điểm đ khoản 1 (GPLX quốc tế); Điều 7 khoản 9 điểm h và các khoản nồng độ cồn không bị sửa; Điều 4 và khoản 1, 2, 6, 7, 8, 9, 11, 12 Điều 47 không bị sửa; Điều 20, 21 NĐ 238 là hiệu lực và chuyển tiếp; Điều 32 khoản 10 không bị sửa. Cảnh báo chung: 371/380 bài trích NĐ 168/2024 không nhắc NĐ 238/2026; các điểm đã đổi (vd Điều 6 khoản 1a/3 điểm m về trẻ em trên ô tô, Điều 14 khoản 3 điểm b về biển số, Điều 18 khoản 4 điểm a về người 16-<18 tuổi lái mô tô) cần rà lại nếu bài nêu mức phạt/hành vi tương ứng.",
+   "verified_on": "2026-10-23",
+   "claim_issues": [
+    "NUANCE (không nghiêm trọng): bài 2026-10-15-di-xe-may-muon-bi-phat-hien-thieu-giay-to-cua-xe... viết NĐ 238/2026 \"không đổi\" Điều 32 khoản 10, Điều 47, Điều 48. Đối chiếu toàn văn: Điều 32 khoản 10, Điều 47 khoản 2 và 6 đúng là không bị sửa; Điều 48 khoản 3 chỉ bị thay cụm từ \"giấy chứng nhận kiểm định\" -> \"chứng nhận kiểm định\" (Điều 19 khoản 11), không đổi nội dung điểm c, d bài trích; tuy nhiên NĐ 238 CÓ sửa các điểm khác của Điều 47 (điểm h khoản 3, điểm c khoản 5) và Điều 48 (điểm a khoản 1) nên câu \"không đổi Điều 47, Điều 48\" nên giới hạn vào đúng khoản đã đọc."
+   ]
+  },
+  {
+   "instrument": "Nghị định 69/2024",
+   "official_title": "Nghị định 69/2024/NĐ-CP quy định về định danh và xác thực điện tử",
+   "issuer": "Chính phủ (ký: Trần Lưu Quang)",
+   "issued_date": "2024-06-25",
+   "effective_date": "2024-07-01",
+   "status": "DA_SUA_DOI",
+   "replaces_or_amends": "Được sửa đổi, bổ sung bởi NĐ 320/2026/NĐ-CP (13/08/2026, hiệu lực 28/09/2026), gồm Điều 3, Điều 4, Điều 7 (phân loại, đối tượng được cấp tài khoản mức 01/02).",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=210491",
+     "quote": "Số ký hiệu 69/2024/NĐ-CP | Ngày ban hành 25-06-2024 | Ngày có hiệu lực 01-07-2024 | Chính phủ | Người ký Trần Lưu Quang | Quy định về định danh và xác thực điện tử"
+    },
+    {
+     "url": "https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-320-2026-nd-cp-ve-dinh-danh-va-xac-thuc-dien-tu-119260815180442475.htm",
+     "quote": "Điều 7. Phân loại, đối tượng được cấp tài khoản định danh điện tử: Công dân từ đủ 06 tuổi trở lên ... được cấp tài khoản định danh điện tử mức độ 01, mức độ 02 khi có nhu cầu."
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "claim_issues": [
+    "AMENDED_NOT_NOTED: bài 2026-10-15-bang-lai-ghi-so-chung-minh-9-so-cu-can-cuoc-nay-12-so-di-thue-xe-co-can-mang-the.md và 2026-10-15-the-can-cuoc-da-qua-han-doi-ma-chua-kip-lam-lai-co-thue-duoc-xe-may-o-ha-noi-kho.md trích NĐ 69/2024 về tài khoản mức 2/căn cước điện tử mà không nhắc NĐ 320/2026 (hiệu lực 28/09/2026) đã sửa phân loại/đối tượng tài khoản; bài tai-khoan-vneid-moi-o-muc-1 có nhắc và ghi chưa đọc bản sửa."
+   ],
+   "notes": "Khớp số hiệu, tên, hiệu lực. Cần rà soát các bài về VNeID mức 1/mức 2 theo bản sửa đổi NĐ 320/2026.",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Luật 91/2015",
+   "official_title": "Bộ luật Dân sự 2015 (Luật số 91/2015/QH13)",
+   "issuer": "Quốc hội (ký: Nguyễn Sinh Hùng)",
+   "issued_date": "2015-11-24",
+   "effective_date": "2017-01-01",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Thay Bộ luật Dân sự 33/2005/QH11. LuatVietnam ghi được sửa đổi, bổ sung bởi Luật 142/2025/QH15 (chưa tự kiểm).",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=183188",
+     "quote": "Số ký hiệu 91/2015/QH13 | Ngày ban hành 24-11-2015 | Ngày có hiệu lực 01-01-2017 | Quốc hội | Người ký Nguyễn Sinh Hùng | Trích yếu Bộ Luật Dân sự"
+    },
+    {
+     "url": "https://congbao.chinhphu.vn/van-ban/luat-so-91-2015-qh13-18397.htm",
+     "quote": "Ban hành: 24/11/2015 - Hiệu lực: 01/01/2017 - Luật số 91/2015/QH13 bộ luật dân sự."
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp số hiệu 91/2015/QH13 cho Bộ luật Dân sự 2015 (bài ghi \"Luật số 91/2015/QH13\" - đúng, đây là Bộ luật). Số điều (Điều 32 quyền hình ảnh, Điều 482...) chưa đối chiếu từng điều; Điều 32 có 3 nhóm ý chính như bài mô tả theo hiểu biết chung.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Luật 88/2025",
+   "official_title": "Luật số 88/2025/QH15 sửa đổi, bổ sung một số điều của Luật Xử lý vi phạm hành chính",
+   "issuer": "Quốc hội (ký: Trần Thanh Mẫn)",
+   "issued_date": "2025-06-25",
+   "effective_date": "2025-07-01",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Sửa đổi Luật XLVPHC 15/2012/QH13 (đã sửa bởi 54/2014, 18/2017, 67/2020, 09/2022, 11/2022, 56/2024); gồm 3 Điều.",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=214591",
+     "quote": "Số ký hiệu 88/2025/QH15 | Ngày ban hành 25-06-2025 | Ngày có hiệu lực 01-07-2025 | Quốc hội | Luật sửa đổi, bổ sung một số điều của Luật Xử lý vi phạm hành chính"
+    },
+    {
+     "url": "https://stp.dienbien.gov.vn/THONG_BAO_AND/View?UserKey=Mot-so-diem-moi-cua-Luat-Sua-doi-bo-sung-mot-so-dieu-cua-Luat-Xu-ly-vi-pham-hanh-chinh-n",
+     "quote": "Luật Sửa đổi, bổ sung một số điều của Luật Xử lý vi phạm hành chính (Luật số 88/2025/QH15). Luật có hiệu lực thi hành từ ngày 01/7/2025, với 03 Điều"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: Luật 88/2025/QH15 là luật sửa Luật XLVPHC, hiệu lực 01/7/2025. Số điều (Điều 58 lập biên bản...) bài đã tự cảnh báo chưa đối chiếu.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Nghị định 100/2019",
+   "official_title": "Nghị định 100/2019/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt",
+   "issuer": "Chính phủ",
+   "issued_date": "2019-12-30",
+   "effective_date": "2020-01-01",
+   "status": "DA_BI_THAY_THE",
+   "replaces_or_amends": "Phần đường bộ bị NĐ 168/2024/NĐ-CP thay từ 01/01/2025 (Điều 52 NĐ 168 sửa NĐ 100, thêm khoản 2a Điều 1); toàn bộ NĐ 100/2019 (đã sửa bởi NĐ 123/2021) bị NĐ 81/2026/NĐ-CP bãi bỏ từ 15/05/2026 (Điều 48 khoản 2).",
+   "sources": [
+    {
+     "url": "https://luatvietnam.vn/vi-pham-hanh-chinh/nghi-dinh-81-2026-nd-cp-xu-phat-vi-pham-hanh-chinh-giao-thong-duong-sat-hieu-luc-15-05-2026-429739-d1.html",
+     "quote": "Điều 48 ... 2. Bãi bỏ Nghị định số 100/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt"
+    },
+    {
+     "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+     "quote": "Điều 52. Sửa đổi, bổ sung một số điều của Nghị định số 100/2019/NĐ-CP ... 1. Bổ sung khoản 2a vào sau khoản 2 Điều 1 như sau"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "claim_issues": [
+    "NUANCE: bài 2026-09-28-cho-nguoi-tren-xe-may-quy-inh-hien-hanh.md, khong-co-bao-hiem-xe-may-bi-phat-the-nao.md, muc-phat-nong-o-con-xe-may-moi-nhat.md viết NĐ 168/2024 \"thay thế NĐ 100/2019\" - đúng về thực chất cho khung phạt giao thông đường bộ, nhưng về hình thức NĐ 168 chỉ sửa NĐ 100 (Điều 52) và NĐ 100/2019 còn hiệu lực với đường sắt tới 15/05/2026 khi bị NĐ 81/2026 bãi bỏ hẳn."
+   ],
+   "notes": "Ngày ban hành 30/12/2019 và hiệu lực 01/01/2020 lấy từ văn bản NĐ 81/2026 và LuatVietnam. Bài chỉ nhắc NĐ 100 như văn bản cũ, không trích như đang hiệu lực.",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Thông tư 24/2023",
+   "official_title": "Thông tư 24/2023/TT-BCA quy định về cấp, thu hồi đăng ký, biển số xe cơ giới",
+   "issuer": "Bộ Công an",
+   "issued_date": "2023-07-01",
+   "effective_date": "2023-08-15",
+   "status": "DA_BI_THAY_THE",
+   "replaces_or_amends": "Thay TT 58/2020/TT-BCA; bị bãi bỏ bởi TT 79/2024/TT-BCA từ 01/01/2025 (trừ khoản 7 Điều 39 TT 79 về chuyển tiếp).",
+   "sources": [
+    {
+     "url": "https://mps.gov.vn/chinh-sach-phap-luat/bai-viet/quy-dinh-ve-cap-thu-hoi-chung-nhan-dang-ky-xe-bien-so-xe-co-gioi-xe-may-chuyen-dung-d1-t1591",
+     "quote": "Thông tư có hiệu lực thi hành kể từ ngày 01/01/2025. Bãi bỏ các văn bản: Thông tư số 24/2023/TT-BCA ngày 01 tháng 7 năm 2023 của Bộ trưởng Bộ Công an quy định về cấp, thu hồi đăng ký"
+    },
+    {
+     "url": "https://congan.tayninh.gov.vn/vi/chi-tiet-tin-tuc?Id=112916",
+     "quote": "Từ ngày 15/8/2023, Thông tư số 24/2023/TT-BCA ngày 1/7/2023 của Bộ Công an có hiệu lực, thay thế Thông tư số 58/2020/TT-BCA"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: TT 24/2023 đã bị TT 79/2024 thay/bãi bỏ từ 01/01/2025. Bài 2026-10-15-hoc-sinh-15-den-17-tuoi... mô tả quy tắc \"từng áp dụng theo TT 24/2023\" - cách viết đúng (thì quá khứ).",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Thông tư 54/2019",
+   "official_title": "Thông tư 54/2019/TT-BGTVT ban hành Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (QCVN 41:2019/BGTVT)",
+   "issuer": "Bộ Giao thông vận tải",
+   "issued_date": "2019-12-31",
+   "effective_date": "2020-07-01",
+   "status": "DA_BI_THAY_THE",
+   "replaces_or_amends": "QCVN 41:2019/BGTVT bị QCVN 41:2024/BGTVT (TT 51/2024/TT-BGTVT) thay từ 01/01/2025.",
+   "sources": [
+    {
+     "url": "https://congbao.chinhphu.vn/van-ban/thong-tu-so-54-2019-tt-bgtvt-30665.htm",
+     "quote": "Ban hành: 31/12/2019 - Hiệu lực: 01/07/2020. Thông tư số 54/2019/TT-BGTVT ban hành Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ."
+    },
+    {
+     "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+     "quote": "Lời nói đầu: QCVN 41:2024/BGTVT thay thế QCVN 41:2019/BGTVT."
+    },
+    {
+     "url": "https://thuvienphapluat.vn/phap-luat/ho-tro-phap-luat/qcvn-412024bgtvt-thay-the-qcvn-412019bgtvt-khi-nao-qcvn-412019bgtvt-con-hieu-luc-khong-189346.html",
+     "quote": "từ ngày 1/1/2025 Thông tư 51/2024/TT-BGTVT thay thế Thông tư 54/2019/TT-BGTVT ban hành Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MISMATCH",
+   "claim_issues": [
+    "Bài 2026-09-28-bien-bao-cam-xe-may-thuong-gap.md, bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe.md, bien-bao-nguy-hiem-tren-uong-truong.md và bien-chi-dan-va-bien-phu-hieu-the-nao.md (4/4 bài nêu TT 54/2019) ghi mục 'Nguồn tham khảo - Văn bản chính thức: QCVN 41:2019/BGTVT ... ban hành kèm Thông tư 54/2019/TT-BGTVT' như văn bản đang dùng; văn bản này đã bị thay thế từ 01/01/2025.",
+    "Thêm 1 bài không nêu số TT 54/2019 nhưng viện QCVN 41:2019 làm 'quy chuẩn hiện hành': 2026-10-07-bien-bao-cam-o-to-qua-lai-co-ap-dung-cho-xe-may-khong.md (tổng 5 bài dùng văn bản đã hết hiệu lực làm căn cứ). Bài này còn gán sai mã biển: 'P.102a = Đường cấm ô tô', 'P.103 = Đường cấm mô tô', 'P.104 = Đường cấm ô tô và mô tô'; QCVN 41:2024 Điều 22.1 ghi P.101 Đường cấm, P.102 Cấm đi ngược chiều, P.103a Cấm xe ô tô, P.104 Cấm xe máy, P.105 Cấm xe ô tô và xe máy.",
+    "Giá trị đúng: QCVN 41:2024/BGTVT ban hành kèm TT 51/2024/TT-BGTVT ngày 15/11/2024, hiệu lực 01/01/2025 (https://vanban.chinhphu.vn?pageid=27160&docid=211908)."
+   ],
+   "notes": "Số hiệu, ngày ban hành, cơ quan đều đúng; sai ở tình trạng hiệu lực. Link trong các bài trỏ trang chủ vanban.chinhphu.vn nên người đọc không tới được văn bản cụ thể. Bài 2026-10-15 trở đi đã dùng đúng QCVN 41:2024. Số bài bị ảnh hưởng: 4 bài nêu TT 54/2019 + 1 bài chỉ nêu QCVN 41:2019 = 5.",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Nghị định 68/2025",
+   "official_title": "Nghị định 68/2025/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định 118/2021/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Xử lý vi phạm hành chính",
+   "issuer": "Chính phủ (ký: Lê Thành Long)",
+   "issued_date": "2025-03-18",
+   "effective_date": "2025-05-02",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Sửa đổi, bổ sung NĐ 118/2021/NĐ-CP: 16 điều (nguyên tắc xác định mức phạt khi có tình tiết tăng nặng/giảm nhẹ; Điều 13, 14, 16 về hủy bỏ, đính chính và hiệu lực quyết định; thẩm quyền; mẫu biểu); sửa câu chữ điểm c khoản 2 Điều 20. Được sửa tiếp bởi NĐ 190/2025/NĐ-CP (01/07/2025).",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=213182",
+     "quote": "Số ký hiệu 68/2025/NĐ-CP | Ngày ban hành 18-03-2025 | Ngày có hiệu lực 02-05-2025 | Chính phủ | Người ký Lê Thành Long | Sửa đổi, bổ sung một số điều của Nghị định số 118/2021/NĐ-CP"
+    },
+    {
+     "url": "https://luatvietnam.vn/vi-pham-hanh-chinh/nghi-dinh-68-2025-nd-cp-sua-doi-bo-sung-mot-so-dieu-cua-nghi-dinh-118-2021-nd-cp-394680-d1.html",
+     "quote": "Điều 3. Điều khoản thi hành: Nghị định này có hiệu lực thi hành từ ngày 02 tháng 5 năm 2025."
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: hiệu lực 02/5/2025 và sửa NĐ 118/2021 về cách tính mức phạt khi có tình tiết tăng nặng/giảm nhẹ (bài mô tả theo tóm tắt nguồn thứ cấp, nội dung cơ bản khớp tóm tắt LuatVietnam).",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Thông tư 51/2025",
+   "official_title": "Thông tư 51/2025/TT-BCA sửa đổi, bổ sung một số điều của Thông tư 79/2024/TT-BCA (đã sửa bởi TT 13/2025/TT-BCA), gồm ký hiệu biển số xe trong nước",
+   "issuer": "Bộ Công an (ký: Lương Tam Quang)",
+   "issued_date": "2025-06-30",
+   "effective_date": "2025-07-01",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Sửa đổi TT 79/2024/TT-BCA (thay phụ lục ký hiệu biển số; đăng ký xe tại công an xã/phường).",
+   "sources": [
+    {
+     "url": "https://xaydungchinhsach.chinhphu.vn/quy-dinh-ky-hieu-bien-so-xe-o-to-xe-may-tai-cac-dia-phuong-119250704073354464.htm",
+     "quote": "Bộ trưởng Bộ Công an Lương Tam Quang đã ký ban hành Thông tư số 51/2025/TT-BCA sửa đổi, bổ sung một số điều của Thông tư số 79/2024/TT-BCA ... Thông tư có hiệu lực thi hành từ ngày 01/7/2025."
+    },
+    {
+     "url": "https://xaydungchinhsach.chinhphu.vn/van-ban-hop-nhat-thong-tu-quy-dinh-ve-cap-thu-hoi-chung-nhan-dang-ky-xe-bien-so-xe-co-gioi-xe-may-chuyen-dung-119251114070809667.htm",
+     "quote": "Thông tư số 51/2025/TT-BCA ngày 30 tháng 6 năm 2025 ... sửa đổi, bổ sung một số điều của Thông tư số 79/2024/TT-BCA ... có hiệu lực kể từ ngày 01 tháng 7 năm 2025"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: TT 51/2025 áp dụng từ 01/7/2025 và quy định ký hiệu biển số. Dải ký hiệu của Hà Nội (29-33, 40) và nội dung \"đăng ký xe tại công an xã/phường\" chưa đối chiếu từng điều.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Thông tư 14/2025",
+   "official_title": "Thông tư 14/2025/TT-BXD quy định về đào tạo lái xe; bồi dưỡng, kiểm tra, cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ",
+   "issuer": "Bộ Xây dựng (ký: Lê Anh Tuấn)",
+   "issued_date": "2025-06-30",
+   "effective_date": "2025-09-01",
+   "status": "DA_SUA_DOI",
+   "replaces_or_amends": "Bãi bỏ TT 35/2024/TT-BGTVT. Được sửa đổi bởi TT 17/2026/TT-BXD (29/04/2026, hiệu lực 01/07/2026; vd A1: 9 giờ lý thuyết + 3 giờ thực hành thay vì 10 + 2).",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=214533",
+     "quote": "Số ký hiệu 14/2025/TT-BXD | Ngày ban hành 30-06-2025 | Ngày có hiệu lực 01-09-2025 | Bộ Xây dựng | Người ký Lê Anh Tuấn | Quy định về đào tạo lái xe; bồi dưỡng, kiểm tra, cấp chứng chỉ"
+    },
+    {
+     "url": "https://hahuytap.hatinh.gov.vn/vi/bai-viet/quy-dinh-moi-ve-dao-tao-sat-hach-lai-xe-ke-tu-ngay-0172026",
+     "quote": "Thông tư số 17/2026/TT-BXD ngày 29/4/2026 sửa đổi, bổ sung một số điều của Thông tư số 14/2025/TT-BXD ... có hiệu lực thi hành kể từ ngày 01/7/2026"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: TT 14/2025 là văn bản về đào tạo lái xe và \"đã có thông tư sửa đổi năm 2026\" (TT 17/2026/TT-BXD). Bài nên dẫn theo bản đã sửa bởi TT 17/2026 khi nói chương trình đào tạo A1.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Nghị quyết 39/2026",
+   "official_title": "Nghị quyết 39/2026/QH16 về việc thành lập thành phố Bắc Ninh",
+   "issuer": "Quốc hội khóa XVI (ký: Trần Thanh Mẫn)",
+   "issued_date": "2026-08-24",
+   "effective_date": "2026-09-20",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Thành lập thành phố Bắc Ninh (trực thuộc Trung ương) trên cơ sở toàn bộ diện tích tự nhiên và quy mô dân số của tỉnh Bắc Ninh; \"tỉnh Bắc Ninh\" trong văn bản cũ được hiểu là \"thành phố Bắc Ninh\".",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=219328&classid=1&orggroupid=1",
+     "quote": "Nghị quyết số 39/2026/QH16 của Quốc hội: Về việc thành lập thành phố Bắc Ninh | Ngày ban hành 24-08-2026 | Ngày có hiệu lực 20-09-2026 | Người ký Trần Thanh Mẫn"
+    },
+    {
+     "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-39-2026-qh16-thanh-lap-thanh-pho-bac-ninh-tu-20-9-2026-11926090308214813.htm",
+     "quote": "Điều 1. Thành lập thành phố Bắc Ninh trên cơ sở toàn bộ diện tích tự nhiên và quy mô dân số của tỉnh Bắc Ninh. Điều 2. ... có hiệu lực thi hành từ ngày 20 tháng 9 năm 2026."
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Số hiệu đúng và là nghị quyết về Bắc Ninh (không phải số hiệu bịa). Cả 3 bài khớp (đổi tên thành phố Bắc Ninh từ 20/9/2026; thành phố trực thuộc Trung ương). Việc hợp nhất với Bắc Giang là sự kiện năm 2025 (nghị quyết khác), bài viết gộp hai mốc đúng về trình tự. Một nguồn lẻ (daibieunhandan.vn) ghi \"hiệu lực 1/9/2026\" - mâu thuẫn với văn bản gốc (20/9/2026).",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Nghị định 34/2014",
+   "official_title": "Nghị định 34/2014/NĐ-CP về Quy chế khu vực biên giới đất liền nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+   "issuer": "Chính phủ",
+   "issued_date": "2014-04-29",
+   "effective_date": "2014-06-15",
+   "status": "DA_SUA_DOI",
+   "replaces_or_amends": "Được sửa đổi, bổ sung bởi NĐ 299/2025/NĐ-CP (17/11/2025, hiệu lực 17/11/2025: khoản 1, 5 Điều 3; khoản 1, 2 Điều 6; thay phụ lục danh sách xã, phường; bãi bỏ Điều 16). Văn bản hợp nhất 12/VBHN-BQP (2026).",
+   "sources": [
+    {
+     "url": "https://luatvietnam.vn/an-ninh-quoc-gia/van-ban-hop-nhat-12-vbhn-bqp-2026-ve-quy-che-khu-vuc-bien-gioi-dat-lien-viet-nam-424876-d5.html",
+     "quote": "Nghị định số 34/2014/NĐ-CP ngày 29 tháng 4 năm 2014 ... có hiệu lực thi hành kể từ ngày 15 tháng 6 năm 2014, được sửa đổi, bổ sung bởi: Nghị định số 299/2025/NĐ-CP ngày 17 tháng 11 năm 2025"
+    },
+    {
+     "url": "https://baochinhphu.vn/quy-dinh-moi-lien-quan-den-viec-quan-ly-khu-vuc-bien-gioi-dat-lien-102251120165142937.htm",
+     "quote": "Chính phủ ban hành Nghị định số 299/2025/NĐ-CP sửa đổi, bổ sung một số điều các Nghị định của Chính phủ về biên phòng, biên giới quốc gia."
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "claim_issues": [
+    "MINOR_STALE: bài 2026-10-16-di-xe-may-len-thac-ban-gioc... và 2026-10-16-khach-nuoc-ngoai-di-xe-may-len-dong-van... viết Quy chế \"xác định khu vực biên giới đất liền gồm các xã, phường, thị trấn có một phần địa giới trùng đường biên giới\"; từ 17/11/2025 khoản 1 Điều 3 (NĐ 299/2025) đã sửa thành \"xã, phường (cấp xã)\", không còn \"thị trấn\". Kết luận của bài (Bản Giốc, Đồng Văn thuộc khu vực biên giới) vẫn không đổi."
+   ],
+   "notes": "Bài 2026-10-15-dinh-pha-luong... ghi đúng: NĐ 34/2014 được NĐ 299/2025 sửa, giấy tờ công dân VN vào khu vực biên giới gồm thẻ căn cước công dân, thẻ căn cước, căn cước điện tử hoặc giấy tờ tùy thân - khớp nguyên văn khoản 1 Điều 6 mới.",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Nghị định 03/2021",
+   "official_title": "Nghị định 03/2021/NĐ-CP về bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới",
+   "issuer": "Chính phủ (ký: Nguyễn Xuân Phúc)",
+   "issued_date": "2021-01-15",
+   "effective_date": "2021-03-01",
+   "status": "DA_BI_THAY_THE",
+   "replaces_or_amends": "Hết hiệu lực từ 06/09/2023 theo Điều 77 khoản 2 điểm a NĐ 67/2023/NĐ-CP.",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=202408",
+     "quote": "Số ký hiệu 03/2021/NĐ-CP | Ngày ban hành 15-01-2021 | Ngày có hiệu lực 01-03-2021 | Chính phủ | Người ký Nguyễn Xuân Phúc | Về bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới"
+    },
+    {
+     "url": "https://luatvietnam.vn/xay-dung/nghi-dinh-67-2023-nd-cp-bao-hiem-bat-buoc-cua-chu-xe-co-gioi-bao-hiem-chay-no-266177-d1.html",
+     "quote": "Điều 77. ... 2. Các Nghị định sau đây hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành: a) Nghị định số 03/2021/NĐ-CP ngày 15 tháng 01 năm 2021"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: NĐ 67/2023 thay NĐ 03/2021. Các bài chỉ nhắc NĐ 03/2021 như \"quy định cũ\" nên không có vấn đề trích sai.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Nghị định 135/2021",
+   "official_title": "Nghị định 135/2021/NĐ-CP quy định về danh mục, việc quản lý, sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ và quy trình thu thập, sử dụng dữ liệu thu được từ phương tiện, thiết bị kỹ thuật do cá nhân, tổ chức cung cấp để phát hiện vi phạm hành chính",
+   "issuer": "Chính phủ (ký: Phạm Minh Chính)",
+   "issued_date": "2021-12-31",
+   "effective_date": "2022-01-01",
+   "status": "DA_BI_THAY_THE",
+   "replaces_or_amends": "Từng được sửa bởi NĐ 184/2025/NĐ-CP (01/07/2025); bị NĐ 61/2026/NĐ-CP bãi bỏ/thay thế từ 01/04/2026.",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=204981",
+     "quote": "Số ký hiệu 135/2021/NĐ-CP | Ngày ban hành 31-12-2021 | Ngày có hiệu lực 01-01-2022 | Chính phủ | Người ký Phạm Minh Chính"
+    },
+    {
+     "url": "https://vpubnd.daklak.gov.vn/CMS/Content/VanBan/2026/8.2026/7476_VPCP-CN%20PL.pdf",
+     "quote": "Nghị định số 135/2021/NĐ-CP ... (sửa đổi, bổ sung tại Nghị định số 184/2025/NĐ-CP). Được thay thế bởi Nghị định số 61/2026/NĐ-CP ngày 13/02/2026 của Chính phủ"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "claim_issues": [
+    "STALE_HEDGED: bài 2026-10-15-phat-nguoi-tu-clip-nguoi-dan-gui-qua-vnetraffic... viết NĐ 135/2021 \"có thể đã được sửa đổi, nên hãy đối chiếu bản đang có hiệu lực\"; thực tế NĐ 135/2021 đã bị NĐ 61/2026/NĐ-CP thay/bãi bỏ từ 01/04/2026 (không chỉ sửa đổi). Hai bài khác (phat-nguoi-xe-may-dua-tren-van-ban-phap-luat-nao..., thue-xe-o-ha-noi-roi-ve-que...) ghi đúng việc NĐ 61/2026 bãi bỏ NĐ 135/2021."
+   ],
+   "notes": "Ngày ban hành và hiệu lực khớp; điểm cần sửa là diễn đạt mức độ thay đổi. TT 73/2024 Điều 24/25 vẫn viện dẫn NĐ 135/2021 trong văn bản gốc (nguyên văn), việc bài nhắc điều này là đúng.",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Nghị định 61/2026",
+   "official_title": "Nghị định 61/2026/NĐ-CP quy định về danh mục, việc quản lý, sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ và quy trình thu thập, sử dụng dữ liệu thu được từ phương tiện, thiết bị kỹ thuật do cá nhân, tổ chức cung cấp để phát hiện vi phạm hành chính",
+   "issuer": "Chính phủ (ký: Nguyễn Hòa Bình)",
+   "issued_date": "2026-02-13",
+   "effective_date": "2026-04-01",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Bãi bỏ NĐ 135/2021/NĐ-CP; bãi bỏ Điều 60 NĐ 38/2024/NĐ-CP và Điều 21 NĐ 184/2025/NĐ-CP.",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=216981",
+     "quote": "Số ký hiệu 61/2026/NĐ-CP | Ngày ban hành 13-02-2026 | Ngày có hiệu lực 01-04-2026 | Chính phủ | Người ký Nguyễn Hòa Bình"
+    },
+    {
+     "url": "https://cfovietnam.wordpress.com/page/2",
+     "quote": "Nghị định này có hiệu lực từ ngày 01/04/2026 và bãi bỏ các quy định sau: Nghị định số 135/2021/NĐ-CP ngày 31/12/2021; Điều 60 Nghị định số 38/2024/NĐ-CP; Điều 21 Nghị định số 184/2025/NĐ-CP."
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: NĐ 61/2026 bãi bỏ NĐ 135/2021 (nguồn Văn phòng Chính phủ + LuatVietnam + cfovietnam). Số điều trích (Điều 15, Điều 23 khoản 2 điểm a) chưa đối chiếu.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Nghị định 138/2021",
+   "official_title": "Nghị định 138/2021/NĐ-CP quy định về quản lý, bảo quản tang vật, phương tiện vi phạm hành chính bị tạm giữ, tịch thu và giấy phép, chứng chỉ hành nghề bị tạm giữ theo thủ tục hành chính",
+   "issuer": "Chính phủ (ký: Phạm Minh Chính)",
+   "issued_date": "2021-12-31",
+   "effective_date": "2022-01-01",
+   "status": "DA_SUA_DOI",
+   "replaces_or_amends": "Được sửa đổi, bổ sung bởi NĐ 47/2026/NĐ-CP (29/01/2026, hiệu lực 15/03/2026): thêm Điều 11a, sửa Điều 16 (khoản 1, điểm a khoản 2), Điều 17...",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=204929",
+     "quote": "Số ký hiệu 138/2021/NĐ-CP | Ngày ban hành 31-12-2021 | Ngày có hiệu lực 01-01-2022 | Chính phủ | Người ký Phạm Minh Chính"
+    },
+    {
+     "url": "https://luatvietnam.vn/linh-vuc-khac/nghi-dinh-47-2026-nd-cp-sua-doi-nghi-dinh-138-2021-ve-quan-ly-tang-vat-vi-pham-425573-d1.html",
+     "quote": "Điều 2. Sửa đổi, bổ sung khoản 1 và điểm a khoản 2 Điều 16 ... Người đến nhận lại ... phải là người vi phạm hoặc chủ sở hữu, người quản lý, người sử dụng hợp pháp"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: bài nói Điều 16 NĐ 138/2021 (chi phí lưu kho, bến bãi; người nhận xe) được NĐ 47/2026 sửa từ 15/3/2026 - đúng với nội dung Điều 2 NĐ 47/2026. Một bài (xe-may-thue-bi-tam-giu...) ghi \"có nguồn báo nghị định này đ...\" (cắt dở) - không đánh giá được.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Nghị định 144/2021",
+   "official_title": "Nghị định 144/2021/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực an ninh, trật tự, an toàn xã hội; phòng, chống tệ nạn xã hội; phòng cháy, chữa cháy; cứu nạn, cứu hộ; phòng, chống bạo lực gia đình",
+   "issuer": "Chính phủ (ký: Phạm Bình Minh)",
+   "issued_date": "2021-12-31",
+   "effective_date": "2022-01-01",
+   "status": "DA_BI_THAY_THE",
+   "replaces_or_amends": "Bị NĐ 282/2025/NĐ-CP (30/10/2025) thay thế từ 15/12/2025 (Điều 69 khoản 4 NĐ 282).",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=204979&classid=1&typegroupid=4",
+     "quote": "Số ký hiệu 144/2021/NĐ-CP | Ngày ban hành 31-12-2021 | Ngày có hiệu lực 01-01-2022 | Chính phủ | Người ký Phạm Bình Minh"
+    },
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=215770",
+     "quote": "Nghị định số 282/2025/NĐ-CP | Ngày ban hành 30-10-2025 | Ngày có hiệu lực 15-12-2025 | Quy định xử phạt vi phạm hành chính trong lĩnh vực an ninh, trật tự, an toàn xã hội"
+    },
+    {
+     "url": "https://luatvietnam.vn/an-ninh-trat-tu/nghi-dinh-282-2025-nd-cp-xu-phat-vi-pham-hanh-chinh-trong-an-ninh-trat-tu-an-toan-xa-hoi-417708-d1.html",
+     "quote": "4. Nghị định này thay thế Nghị định số 144/2021/NĐ-CP ngày 31 tháng 12 năm 2021 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực an ninh, trật tự, an toàn xã hội"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "claim_issues": [
+    "STALE_HEDGED: bài 2026-10-16-ngu-lai-homestay-o-ba-vi-soc-son... dẫn \"Nghị định 144/2021/NĐ-CP và văn bản sửa đổi, thay thế nếu có\" cho xử phạt khai báo lưu trú; văn bản hiện hành là NĐ 282/2025/NĐ-CP (hiệu lực 15/12/2025; LuatVietnam ghi thêm sửa bởi 59/2026, 347/2026). Hai bài kia ghi đúng (thay thế/được thay bởi NĐ 282/2025). Bài 2026-10-16-lai-xe-may-khong-mang-theo-the-can-cuoc-co-bi-xu-phat... cũng ghi 'Trước đây đó là NĐ 144/2021; có thể đã được sửa đổi hoặc thay thế, nên không nêu mức phạt' (hedged đúng mực, không nhắc NĐ 282/2025)."
+   ],
+   "notes": "Khớp ngày thay thế 15/12/2025. Điều 11 NĐ 282/2025 (không xuất trình thẻ căn cước/căn cước điện tử: cảnh cáo hoặc phạt 500.000-1.000.000 đồng) đã đối chiếu đúng như bài mô tả.",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Nghị định 81/2026",
+   "official_title": "Nghị định 81/2026/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường sắt",
+   "issuer": "Chính phủ (ký: Trần Hồng Hà)",
+   "issued_date": "2026-03-19",
+   "effective_date": "2026-05-15",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Bãi bỏ NĐ 100/2019/NĐ-CP (đã sửa bởi NĐ 123/2021/NĐ-CP) tại Điều 48 khoản 2.",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=217312",
+     "quote": "Số ký hiệu 81/2026/NĐ-CP | Ngày ban hành 19-03-2026 | Ngày có hiệu lực 15-05-2026 | Chính phủ | Người ký Trần Hồng Hà | Quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường sắt"
+    },
+    {
+     "url": "https://congan.nghean.gov.vn/pho-bien-phap-luat/202604/nhung-diem-moi-cua-nghi-dinh-812026nd-cp-ve-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-giao-thong-duong-sat-1056563",
+     "quote": "tăng mức xử phạt đối với nhiều hành vi nguy hiểm như: Vượt rào chắn, vượt đèn đỏ tại đường ngang; Xâm phạm hành lang an toàn giao thông đường sắt"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: là nghị định xử phạt lĩnh vực giao thông đường sắt, có xử phạt vượt rào chắn đường ngang. Mức phạt cụ thể \"nặng\" chưa kiểm số tiền. Quan trọng với NĐ 100/2019: bị bãi bỏ hoàn toàn bởi nghị định này.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Nghị định 58/2026",
+   "official_title": "Nghị định 58/2026/NĐ-CP sửa đổi, bổ sung một số điều của các nghị định liên quan đến điều kiện về an ninh, trật tự đối với một số ngành, nghề đầu tư kinh doanh có điều kiện; quản lý và sử dụng con dấu; quản lý, sử dụng pháo; quy định chi tiết Luật Cư trú, Luật Căn cước",
+   "issuer": "Chính phủ (ký: Nguyễn Hòa Bình)",
+   "issued_date": "2026-02-13",
+   "effective_date": "2026-03-15",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Sửa NĐ 96/2016, 99/2016, 137/2020 và các nghị định hướng dẫn Luật Cư trú (154/2024/NĐ-CP), Luật Căn cước (70/2024/NĐ-CP). Khoản 7 Điều 5 sửa Điều 12 NĐ 70/2024/NĐ-CP.",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=216977",
+     "quote": "Số ký hiệu 58/2026/NĐ-CP | Ngày ban hành 13-02-2026 | Ngày có hiệu lực 15-03-2026 | Chính phủ | Người ký Nguyễn Hòa Bình"
+    },
+    {
+     "url": "https://poto.gialai.gov.vn/chinh-quyen/nghi-dinh-chinh-phu",
+     "quote": "Tại khoản 7 Điều 5 Nghị định số 58/2026/NĐ-CP (sửa đổi, bổ sung Điều 12 Nghị định số 70/2024/NĐ-CP) ... không được yêu cầu công dân cung cấp giấy xác nhận số chứng minh nhân dân 09 số"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "claim_issues": [
+    "STALE_BASIS: bài 2026-10-15-dang-ky-xe-may-ghi-so-chung-minh-nhan-dan-cu-hoac-ho-ten-truoc-khi-cai-chinh... đọc Điều 12 NĐ 70/2024 \"bản gốc\" và ghi chưa đọc NĐ 58/2026; thực tế khoản 7 Điều 5 NĐ 58/2026 đã sửa Điều 12 từ 15/03/2026 (số CMND 9 số/số định danh đã hủy được tích hợp trong QR thẻ căn cước và VNeID; không được yêu cầu giấy xác nhận; dừng tiếp nhận hồ sơ cấp giấy xác nhận từ 15/03/2026). Cần đọc lại bài theo bản sửa đổi."
+   ],
+   "notes": "Bài chỉ nhắc số hiệu (chưa đọc nội dung) nên số hiệu/liên quan NĐ 70/2024 là đúng. Nội dung NĐ 58/2026 đã đọc qua tóm tắt cổng Bộ Công an/tỉnh, chưa đọc toàn văn.",
+   "verified_on": "2026-10-23"
+  },
+  {
+   "instrument": "Nghị định 320/2026",
+   "official_title": "Nghị định 320/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định 69/2024/NĐ-CP quy định về định danh và xác thực điện tử",
+   "issuer": "Chính phủ (ký: Hồ Quốc Dũng)",
+   "issued_date": "2026-08-13",
+   "effective_date": "2026-09-28",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Sửa đổi NĐ 69/2024/NĐ-CP (Điều 3: tài khoản hưởng an sinh xã hội; Điều 4 khoản 4: không yêu cầu nộp lại giấy tờ đã tích hợp; Điều 7: phân loại, đối tượng được cấp tài khoản).",
+   "sources": [
+    {
+     "url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-320-2026-nd-cp-470285.htm",
+     "quote": "Ban hành: 13/08/2026 - Hiệu lực: 28/09/2026 ... Nghị định số 320/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 69/2024/NĐ-CP ... Người ký Hồ Quốc Dũng"
+    },
+    {
+     "url": "https://chinhphu.vn?pageid=27160&docid=219189",
+     "quote": "Số ký hiệu 320/2026/NĐ-CP | Ngày ban hành 13-08-2026 | Ngày có hiệu lực 28-09-2026 | Chính phủ | Sửa đổi, bổ sung một số điều của Nghị định số 69/2024/NĐ-CP"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp mọi chi tiết bài nêu: ban hành 13/8/2026, hiệu lực 28/9/2026, sửa NĐ 69/2024, có sửa điều về phân loại tài khoản (Điều 7). Lưu ý tiêu đề trên cổng vanban.chinhphu.vn dùng ký tự Kirin \"СР\" trong \"NĐ-CР\" (lỗi hiển thị nguồn, không ảnh hưởng số hiệu).",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Nghị định 89/2026",
+   "official_title": "Nghị định 89/2026/NĐ-CP quy định về điều kiện kinh doanh dịch vụ kiểm định xe cơ giới; tổ chức, hoạt động của cơ sở đăng kiểm; niên hạn sử dụng của xe cơ giới",
+   "issuer": "Chính phủ (ký: Trần Hồng Hà)",
+   "issued_date": "2026-03-30",
+   "effective_date": "2026-07-01",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Hướng dẫn Điều 40 và khoản 1 Điều 43 Luật TTATGTĐB 36/2024/QH15 (đã sửa bởi Luật 118/2025/QH15).",
+   "sources": [
+    {
+     "url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-89-2026-nd-cp-469237.htm",
+     "quote": "Ban hành: 30/03/2026 - Hiệu lực: 01/07/2026 ... Nghị định số 89/2026/NĐ-CP quy định về điều kiện kinh doanh dịch vụ kiểm định xe cơ giới; ... niên hạn sử dụng của xe cơ giới. Người ký TRẦN HỒNG HÀ"
+    },
+    {
+     "url": "https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/chinh-sach-moi/108958/huong-dan-xac-dinh-nien-han-su-dung-cua-xe-co-gioi-tu-01-07-2026",
+     "quote": "Chính phủ ban hành Nghị định 89/2026/NĐ-CP ngày 30/03/2026 ... niên hạn sử dụng của xe cơ giới (có hiệu lực thi hành từ ngày 01/7/2026)."
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: là văn bản quy định chi tiết niên hạn xe cơ giới. Các nguồn đã đọc nêu niên hạn cho xe tải (25 năm), xe chở người từ 9 chỗ/học sinh/xe chở hàng bốn bánh (20 năm), xe chở người bốn bánh (15 năm); chưa thấy quy định niên hạn cho xe mô tô/xe máy - bài đã nói không nêu nội dung.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Quyết định 13/2026",
+   "official_title": "Quyết định 13/2026/QĐ-TTg quy định lộ trình áp dụng Quy chuẩn kỹ thuật quốc gia về khí thải xe mô tô, xe gắn máy tham gia giao thông đường bộ",
+   "issuer": "Thủ tướng Chính phủ (ký: Trần Hồng Hà)",
+   "issued_date": "2026-04-02",
+   "effective_date": "2026-05-16",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Lộ trình áp dụng QCVN 99:2025/BNNMT (ban hành kèm TT 92/2025/TT-BNNMT theo Thư viện Pháp luật; QCVN có hiệu lực 30/06/2026). Kiểm định khí thải xe máy bắt đầu: 01/07/2027 (Hà Nội, TP.HCM); 01/07/2028 (các thành phố TW còn lại); 01/07/2030 (các tỉnh còn lại).",
+   "sources": [
+    {
+     "url": "https://moc.gov.vn/pl/pages/ChiTietVanBan.aspx?vID=679&TypeVB=0",
+     "quote": "Thông tin văn bản số: 13/2026/QĐ-TTg ; Ngày ban hành, 02/04/2026 ; Ngày hiệu lực, 16/05/2026 ; Hình thức văn bản, Quyết định."
+    },
+    {
+     "url": "https://luatvietnam.vn/giao-thong/quyet-dinh-13-2026-qd-ttg-lo-trinh-ap-dung-quy-chuan-khi-thai-xe-mo-to-xe-gan-may-431065-d1.html",
+     "quote": "Điều 6. Hiệu lực ... 1. Quyết định này có hiệu lực thi hành từ ngày 16 tháng 5 năm 2026. Cơ quan ban hành: Thủ tướng Chính phủ. Người ký: Trần Hồng Hà"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: quyết định của Thủ tướng về lộ trình áp dụng quy chuẩn khí thải xe máy, Hà Nội và TP.HCM bắt đầu trước (01/7/2027). Lưu ý: tệp đầu vào ghi ký hiệu cắt cụt \"13/2026/QĐ-TT\"; ký hiệu đầy đủ đúng là 13/2026/QĐ-TTg (bài viết đã ghi đúng). Bài chưa nêu ngày kiểm định cụ thể.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Nghị định 90/2026",
+   "official_title": "Nghị định 90/2026/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực y tế",
+   "issuer": "Chính phủ (ký: Lê Thành Long)",
+   "issued_date": "2026-03-30",
+   "effective_date": "2026-05-15",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Thay thế NĐ 117/2020/NĐ-CP (và các văn bản sửa đổi).",
+   "sources": [
+    {
+     "url": "https://chinhphu.vn?pageid=27160&docid=217386",
+     "quote": "Số ký hiệu 90/2026/NĐ-CP | Ngày ban hành 30-03-2026 | Ngày có hiệu lực 15-05-2026 | Chính phủ | Người ký Lê Thành Long | Quy định xử phạt vi phạm hành chính trong lĩnh vực y tế"
+    },
+    {
+     "url": "https://luatvietnam.vn/y-te/nghi-dinh-90-2026-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-y-te-430543-d1.html",
+     "quote": "Điều 35. Vi phạm các quy định về trách nhiệm của cơ sở kinh doanh rượu, bia ... b) Không nhắc nhở hoặc không có biển cảnh báo đối với khách hàng về việc không điều khiển phương tiện"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp tất cả: thay NĐ 117/2020 từ 15/5/2026, Điều 35 phạt cơ sở không nhắc nhở/không có biển cảnh báo (phạt 3-5 triệu đồng).",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Thông tư 31/2026",
+   "official_title": "Thông tư 31/2026/TT-BXD ban hành Sửa đổi 01:2026 QCVN 04:2021/BXD - Quy chuẩn kỹ thuật quốc gia về Nhà chung cư (bổ sung chỗ để xe, khu vực để/sạc xe điện, khu vực đổi pin)",
+   "issuer": "Bộ Xây dựng (ký: Nguyễn Văn Sinh)",
+   "issued_date": "2026-06-15",
+   "effective_date": "2026-12-15",
+   "status": "CHUA_CO_HIEU_LUC",
+   "replaces_or_amends": "Sửa đổi QCVN 04:2021/BXD (Sửa đổi 01:2026): bổ sung điểm 1.1.3, 1.4.31-1.4.34, 2.10, 2.11; áp dụng cho nhà chung cư xây mới và hiện hữu (chung cư hiện hữu rà soát trong 6 tháng kể từ khi có hiệu lực).",
+   "sources": [
+    {
+     "url": "https://moc.gov.vn/vn/tin-tuc/1352/96792/tra-loi-cau-hoi-cua-doanh-nghiep-lien-quan-den-den-viec-bo-tri-bai-do-khu-vuc-sac-va-doi-pin-xe-dien-trong-xay-dung-nha-chung-cu.aspx",
+     "quote": "Thông tư 31/2026/TT-BXD do Bộ Xây dựng ban hành ngày 15/06/2026 chính thức có hiệu lực từ ngày 15/12/2026, quy định quy chuẩn kỹ thuật quốc gia"
+    },
+    {
+     "url": "https://luatvietnam.vn/dat-dai/thong-tu-31-2026-tt-bxd-sua-doi-quy-chuan-ky-thuat-quoc-gia-ve-nha-chung-cu-437972-d1.html",
+     "quote": "Ngày 15/06/2026, Bộ Xây dựng đã ban hành Thông tư 31/2026/TT-BXD, có hiệu lực từ ngày 15/12/2026, để sửa đổi Quy chuẩn kỹ thuật quốc gia về Nhà chung cư (QCVN 04:2021/BXD)."
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: hiệu lực 15/12/2026 nên đến 23/10/2026 chưa áp dụng - bài viết đúng. Một trang (thietbipcccbinhduong.com) ghi nhầm năm ban hành 15/06/2025; nguồn chính thức Bộ Xây dựng ghi 15/06/2026.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Nghị định 18/2026",
+   "official_title": "Nghị định 18/2026/NĐ-CP sửa đổi, bổ sung một số nghị định để cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý của Bộ Tư pháp",
+   "issuer": "Chính phủ (ký: Hồ Quốc Dũng)",
+   "issued_date": "2026-01-14",
+   "effective_date": "2026-01-15",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Điều 11 sửa đổi, bổ sung NĐ 99/2022/NĐ-CP về đăng ký biện pháp bảo đảm; còn sửa các nghị định về bổ trợ tư pháp, thi hành án dân sự, thừa phát lại, hộ tịch...",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=216651",
+     "quote": "Số ký hiệu 18/2026/NĐ-CP | Ngày ban hành 14-01-2026 | Ngày có hiệu lực 15-01-2026 | Chính phủ | Người ký Hồ Quốc Dũng | Sửa đổi, bổ sung một số nghị định để cắt giảm, đơn giản hóa thủ tục hành chính"
+    },
+    {
+     "url": "https://luatvietnam.vn/hanh-chinh/nghi-dinh-18-2026-nd-cp-cat-giam-don-gian-hoa-thu-tuc-hanh-chinh-bo-tu-phap-423923-d1.html",
+     "quote": "Điều 11. Sửa đổi, bổ sung một số điều của Nghị định số 99/2022/NĐ-CP về đăng ký biện pháp bảo đảm"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: NĐ 99/2022 được sửa bởi NĐ 18/2026 (Điều 11). Điều 45 NĐ 99/2022 (mô tả tài sản bảo đảm là xe cơ giới phải có số khung) chưa đối chiếu.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  },
+  {
+   "instrument": "Nghị định 47/2026",
+   "official_title": "Nghị định 47/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định 138/2021/NĐ-CP quy định về quản lý, bảo quản tang vật, phương tiện vi phạm hành chính bị tạm giữ, tịch thu và giấy phép, chứng chỉ hành nghề bị tạm giữ theo thủ tục hành chính",
+   "issuer": "Chính phủ (ký: Nguyễn Hòa Bình)",
+   "issued_date": "2026-01-29",
+   "effective_date": "2026-03-15",
+   "status": "CON_HIEU_LUC",
+   "replaces_or_amends": "Sửa đổi NĐ 138/2021/NĐ-CP: bổ sung Điều 11a (niêm phong), sửa Điều 16 (khoản 1, điểm a khoản 2), Điều 17, bổ sung Điều 17a.",
+   "sources": [
+    {
+     "url": "https://vanban.chinhphu.vn?pageid=27160&docid=216863",
+     "quote": "Số ký hiệu 47/2026/NĐ-CP | Ngày ban hành 29-01-2026 | Ngày có hiệu lực 15-03-2026 | Chính phủ | Người ký Nguyễn Hòa Bình"
+    },
+    {
+     "url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-47-2026-nd-cp-468906.htm",
+     "quote": "Ban hành: 29/01/2026 - Hiệu lực: 15/03/2026 - Nghị định số 47/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 138/2021/NĐ-CP"
+    }
+   ],
+   "confidence": "HIGH",
+   "claim_check": "MATCH",
+   "notes": "Khớp: hiệu lực 15/3/2026 và sửa Điều 16 NĐ 138/2021 về người đến nhận lại phương tiện.",
+   "verified_on": "2026-10-23",
+   "claim_issues": []
+  }
+ ]
+}

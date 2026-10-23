@@ -70,13 +70,13 @@ Chi tiết tại trang [thuê xe máy điện Hà Nội]({{ '/bang-gia-xe-dien/'
 
 ## Tiền đặt cọc
 
-Mọi hợp đồng thuê xe đều có tiền đặt cọc. Mức tham khảo từ 2.000.000đ đến 5.000.000đ tùy loại xe và thời gian thuê. Tiền cọc được hoàn trả đầy đủ sau khi bạn trả xe đúng thời gian thỏa thuận và xe không có hư hỏng ngoài mức hao mòn thông thường.
+Mọi hợp đồng thuê xe đều có tiền đặt cọc. Mức tham khảo từ 2.000.000đ đến 5.000.000đ tùy loại xe. Tiền cọc được hoàn trả theo điều khoản hợp đồng sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan.
 
 Lưu ý về tiền đặt cọc:
 
 - Mức cọc chính xác được xác nhận trực tiếp với Nguyễn Tú khi đặt xe.
 - Khi nhận xe, bạn và Nguyễn Tú cùng kiểm tra tình trạng xe trước khi ký kết nhận xe.
-- Khi trả xe, tiền cọc được hoàn trả sau khi kiểm tra xe.
+- Khi trả xe, tiền cọc được hoàn trả theo điều khoản hợp đồng sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan.
 
 ## Phí giao nhận xe
 
@@ -121,7 +121,7 @@ Nếu thuê từ 5 – 7 ngày trở lên, giá theo tuần thường rẻ hơn 
 
 #### Tiền đặt cọc bao nhiêu và khi nào được hoàn?
 
-Mức tham khảo 2.000.000 – 5.000.000đ tùy loại xe. Tiền cọc được hoàn trả sau khi bạn trả xe đúng thời gian thỏa thuận và xe không có hư hỏng ngoài hao mòn thông thường.
+Mức tham khảo 2.000.000 – 5.000.000đ tùy loại xe. Tiền cọc được hoàn trả theo điều khoản hợp đồng sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan.
 
 #### Trả xe muộn bị tính thế nào?
 

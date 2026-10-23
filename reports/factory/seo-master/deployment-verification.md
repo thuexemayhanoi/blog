@@ -82,3 +82,90 @@ OpenSEO không có tài khoản Google nào được kết nối. Cần chủ we
 ## Rollback
 
 Commit đơn lẻ, chỉ chạm template/dữ liệu/nội dung hub/công cụ/báo cáo: `git revert ba59ea27` khôi phục toàn bộ (URL, canonical, bài và bằng chứng QA không bị đụng).
+
+
+---
+
+# Đợt 2 (2026-10-23) — sửa nội dung, lớp hiển thị và công cụ bảo trì
+
+Nguồn thẩm quyền: MASTER WORK — NGUYỄN TÚ BLOG SEO FULL REPAIR A–Z. Mọi thay đổi đi qua PR, Quality gate FULL (job `gate` + job `engine-tests`) xanh trên head của PR trước khi merge squash;
+không force push; không đụng URL, canonical, matrix, checkpoint nhà máy, lease của writer khác, H1/title/meta/hero trang chủ đã duyệt.
+
+## PR đã merge (FACT, GitHub Actions)
+
+| PR | Nội dung | Commit merge | Quality gate (run; job) | Pages |
+|---|---|---|---|---|
+| #43 | seo(slug): audit 1.410 URL thiếu chữ đ, bản đồ OLD→NEW, BLOCKED_INFRA_301, test chặn tái diễn | `b322c800` | #1281 success; gate 9 phút 08 giây; engine-tests 12 phút 18 giây (success) | #5502 success (9 phút 14 giây) |
+| #44 | fix(pricing): đồng bộ giá tuần/tháng với bảng giá chủ cửa hàng và website chính | `a89dd8c9` | #1282 success; gate 13 phút 24 giây; engine-tests 11 phút 00 giây (success) | #5504 success (7 phút 31 giây) |
+| #45 | seo(content): đồng bộ giá tuần/tháng trong 23 bài legacy, rút gọn 4 meta, sửa H1 lạc | `002ac9c9` | #1284 success; gate 0 phút 34 giây; engine-tests 0 phút 00 giây (skipped) | #5503 cancelled (10 phút 07 giây) |
+| #46 | feat(factory): revise-published.py — đường bảo trì chính thức sửa nội dung bài PUBLISHED có evidence | `3fbc0e45` | #1289 success; gate 13 phút 13 giây; engine-tests 14 phút 49 giây (success) | #5507 success (8 phút 51 giây) |
+| #47 | fix(pricing): sửa nốt giá tháng Air Blade 1.400.000đ còn sót trong bang-gia-xe-ga | `205be933` | không có (PR chỉ đổi `.md` gốc/tài liệu) | #5505 cancelled (11 phút 12 giây) |
+| #48 | fix(content): Wave có giá tuần/tháng theo bảng giá chủ xe (2 bài legacy) và dẫn đúng TT 108/2026 (BLG-00314) | `a11be2e2` | #1290 success; gate 0 phút 30 giây; engine-tests — (skipped) | #5506 success (9 phút 56 giây) |
+| #49 | feat(content): lớp "Lưu ý cập nhật pháp lý" có nguồn chính thức cho 22 bài chưa sửa được nội dung gốc | `9a6460d7` | #1292 success; gate 14 phút 18 giây; engine-tests 18 phút 13 giây (success) | #5508 cancelled (7 phút 54 giây) |
+| #50 | feat(seo): liên kết ngữ cảnh "Cùng chủ đề" cho 49 nhóm bài trùng từ khóa chính (107 bài) | `ea45d355` | #1296 success; gate 9 phút 29 giây; engine-tests 18 phút 50 giây (success) | #5510 success (10 phút 08 giây) |
+| #51 | fix(content): đính chính pháp lý 3 bài PUBLISHED qua revise-published (lô revise-20261023-legal-01) | `aa8b6d82` | #1295 success; gate 13 phút 16 giây; engine-tests 18 phút 58 giây (success) | #5509 cancelled (10 phút 31 giây) |
+| #53 | feat(content): khối "Giá thuê tham khảo hiện hành" cho 68 bài còn giá cũ mà chưa sửa được nội dung gốc | `d794f64b` | #1307 success; gate 12 phút 47 giây; engine-tests 18 phút 59 giây (success) | #5516 success (9 phút 02 giây) |
+| #54 | fix(content): đồng bộ giá tuần/tháng theo bảng giá chủ xe — lô 5/5 (21 bài, revise-published) | `51be40d8` | #1300 success; gate 9 phút 09 giây; engine-tests 18 phút 19 giây (success) | #5511 cancelled (5 phút 17 giây) |
+| #55 | fix(content): đồng bộ giá tuần/tháng theo bảng giá chủ xe — lô 1/5 (50 bài, revise-published) | `b2374a12` | #1301 success; gate 10 phút 00 giây; engine-tests 19 phút 03 giây (success) | #5513 cancelled (1 phút 38 giây) |
+| #56 | fix(content): đồng bộ giá tuần/tháng theo bảng giá chủ xe — lô 4/5 (42 bài, revise-published) | `799afb54` | #1302 success; gate 12 phút 05 giây; engine-tests 16 phút 01 giây (success) | #5512 cancelled (0 phút 54 giây) |
+| #57 | fix(content): đồng bộ giá tuần/tháng theo bảng giá chủ xe — lô 2/5 (50 bài, revise-published) | `29189f71` | #1303 success; gate 16 phút 44 giây; engine-tests 12 phút 53 giây (success) | #5514 success (10 phút 50 giây) |
+| #58 | fix(content): đồng bộ giá tuần/tháng theo bảng giá chủ xe — lô 3/5 (50 bài, revise-published) | `a44a1885` | #1304 success; gate 16 phút 34 giây; engine-tests 18 phút 58 giây (success) | #5515 cancelled (1 phút 33 giây) |
+
+## Quality gate trên HEAD của push vào `main` (FACT)
+
+Mỗi lần merge, workflow Quality gate chạy lại trên đúng commit đã push (`event=push`); đây là bằng chứng gate xanh trên HEAD thật chứ không chỉ trên nhánh PR.
+
+| PR | Commit trên main | Run Quality gate (push) |
+|---|---|---|
+| #44 | `a89dd8c9` | #1286 success |
+| #45 | `002ac9c9` | #1285 success |
+| #46 | `3fbc0e45` | #1294 success |
+| #47 | `205be933` | — (không kích hoạt: PR chỉ đổi `.md` gốc) |
+| #48 | `a11be2e2` | #1291 success |
+| #49 | `9a6460d7` | #1297 success |
+| #50 | `ea45d355` | #1305 success |
+| #51 | `aa8b6d82` | #1299 success |
+| #53 | `d794f64b` | #1313 success |
+| #54 | `51be40d8` | #1308 success |
+| #55 | `b2374a12` | #1310 success |
+| #56 | `799afb54` | #1309 success |
+| #57 | `29189f71` | #1311 success |
+| #58 | `a44a1885` | #1312 success |
+
+Ghi chú về Pages: GitHub hủy run Pages đang chạy khi có commit mới hơn trên `main` (run `cancelled` ở bảng trên không phải lỗi); nội dung mỗi commit được phát hành bởi run thành công kế tiếp.
+Run cuối: Pages #5516 (commit main d794f64b, #53): success, 11:43:47 → 11:52:49Z (9 phút 02 giây). Các run Pages #5515 và #5509/#5508/#5511/#5512/#5513 bị GitHub hủy vì có commit mới hơn; nội dung được phát hành bởi run thành công kế tiếp.
+
+## Kiểm tra cục bộ trên bản build đã gộp (FACT)
+
+Jekyll build đầy đủ cây trùng main d794f64b (3.10.0, minima 2.5.1, sitemap, feed): BUILD_EXIT=0, 611 s; 6.844 trang HTML; `check-built-links.py` PASS (0 liên kết nội bộ hỏng); `faq_parity_check.py`: 6.844 trang, 2 trang có FAQ, 0 lỗi; sitemap 6.842 URL; `validate.py --scope chunk` PASS (0 cảnh báo); khối legal-notice 22/22, price-notice 68/68, topic-siblings 107/107 đúng URL, 0 trang thừa.
+
+`check-regressions.py` trên bản dựng cuối: **PASS 9/9** (H1/title/meta/hero/canonical trang chủ khớp bản duyệt; canonical 1 và H1 1 trên mọi trang; 1 favicon; phân trang ≤ 60 liên kết; không `&` trần ở head; breadcrumb mọi bài; hub/pillar ≥ 60 từ giới thiệu; hub có lead block; sitemap 6.842 URL không noindex/404).
+
+Kiểm kê lại từ bản build đã gộp (build-inventory → build-matrix → build-leads → enrich-inventory): DESC_TOO_LONG 4 → 0, H1_IN_BODY 1 → 0, BLOCKED_EVIDENCE_SHA 4 → 0; SLUG_D_STRIPPED 1.410 (không đổi, BLOCKED); CANNIBALIZATION_SUPPORT 58 và NEAR_TITLE_PAIR 64 không đổi về số lượng nhưng 107 bài đã có liên kết cùng chủ đề hai chiều (bài có ≥ 10 liên kết vào: 2.166 → 2.188); FRESHNESS_REVIEW 385 giữ nguyên vì là tín hiệu suy luận từ regex (INFERRED), không phải kết luận sai/đúng; `_data/seo-leads.yml` và matrix-summary không đổi.
+
+## Xác minh live (Nimble Extract, `simplified_html` + `vx6`)
+
+| URL | Kết quả |
+|---|---|
+| `/` | H1, SEO title, meta description, mô tả hero, canonical khớp từng ký tự `frozen-homepage.json` (bản duyệt 4f61156e) |
+| `/robots.txt` | User-agent: *, Allow: /, Sitemap: https://blog.thuexemaynguyentu.com/sitemap.xml |
+| `/sitemap.xml` | 6.842 URL duy nhất, trùng hoàn toàn (0 thừa, 0 thiếu) với sitemap của bản build đã gộp mọi PR |
+| `/thue-xe/2026/09/30/gia-thue-xe-may-dip-tet-o-ha-noi-co-tang-khong/ (BLG-00943)` | 1 H1, canonical đúng, khối "Giá thuê tham khảo hiện hành" với bảng giá đúng `_data/pricing.yml` và cọc tham khảo 2–5 triệu |
+| `/hoi-dap/2026/09/29/i-xe-khong-mu-bao-hiem-phat-bao-nhieu/ (BLG-00874)` | không còn khối giá/khối pháp lý (số 600.000 đ là mức phạt, đã loại khỏi danh sách) |
+| `/thue-xe/2026/10/15/di-hoi-cho-trien-lam-nhieu-ngay-o-trung-tam-trien-lam-quoc-gia-dong-anh-dat-thue/ (BLG-03602, lô 1)` | có "tuần 1.000.000 đ"; không còn "tuần 800.000 đ"; 1 H1; canonical đúng |
+| `/hoi-dap/2026/10/16/dat-xe-so-roi-muon-doi-sang-xe-ga-truoc-ngay-nhan-nhan-tiem-som-the-nao-de-con-x/ (BLG-04086, lô 3)` | có "theo tuần 1.000.000 đ"; không còn "theo tuần 800.000 đ"; 1 H1; canonical đúng |
+| `/hoi-dap/2026/10/16/moi-mua-xe-may-dang-cho-lam-dang-ky-bien-so-thue-xe-tam-vai-ngay-tinh-theo-ngay/ (BLG-04066, lô 5)` | có "ngày; 1.000.000 đồng"; không còn "ngày; 800.000 đồng"; 1 H1; canonical đúng |
+| `/an-toan-phap-ly/2026/10/20/ngay-trung-tuyen-ngay-cap-va-thoi-han-in-tren-the-bang-lai-xe-may-doc-dung-tung/ (BLG-05623)` | nêu Thông tư 108/2026; 1 H1; canonical đúng |
+| `/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/` | khối "Lưu ý cập nhật pháp lý" có QCVN 41:2024/BGTVT và liên kết nguồn chính thức (Pages #5510) |
+| `/an-toan-phap-ly/2026/10/10/bang-lai-a1-chay-uoc-nhung-xe-nao/ (BLG-01903)` | A1 đến 125 cm3 hoặc 11 kW theo Điều 57 Luật 36/2024/QH15; không còn A2/175 cm3 (Pages #5510) |
+| `/an-toan-phap-ly/2026/10/15/va-cham-lien-hoan-nhieu-xe-may-tren-cau-duong-vanh-dai-ha-noi-bao-hiem-tnds-cua/` | khối "Cùng chủ đề trong cẩm nang" với liên kết tới bài cùng nhóm (Pages #5510) |
+| `/bang-gia-xe-ga/` | Air Blade 200.000đ/ngày, 1.000.000đ/tuần, 1.500.000đ/tháng; không còn 1.400.000 (Pages #5510) |
+
+## Chưa xác minh được (UNKNOWN)
+
+Thứ hạng, lập chỉ mục và số liệu Search Console của `blog.thuexemaynguyentu.com` (chưa có property trong Windsor/OpenSEO). Không có kết luận nào về hiệu quả xếp hạng được đưa ra.
+
+## Rollback
+
+Mỗi PR là một squash commit độc lập: `git revert <commit merge>`. Với lô revise: `python3 scripts/factory/revise-published.py rollback --backup reports/qa-audit/revise/<batch>.json`
+(sao lưu byte-exact; không ghi đè thay đổi của người khác).

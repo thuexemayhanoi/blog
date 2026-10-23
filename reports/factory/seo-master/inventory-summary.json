@@ -7,23 +7,20 @@
   "dup_title_groups": 0,
   "enrichment": {
     "action_status": {
-      "BLOCKED_EVIDENCE_SHA": 4,
       "BLOCKED_URL_CONTRACT": 1387,
       "DEFERRED_OWNER_PLAN": 77,
       "EXPECTED": 1,
-      "NONE": 5010,
+      "NONE": 5014,
       "OPEN": 364
     },
     "fix_priority": {
-      "P2": 1446,
-      "P3": 386,
-      "P4": 5011
+      "P2": 1445,
+      "P3": 383,
+      "P4": 5015
     },
     "needs_action": {
       "CANNIBALIZATION_SUPPORT": 58,
-      "DESC_TOO_LONG": 4,
       "FRESHNESS_REVIEW": 385,
-      "H1_IN_BODY": 1,
       "NEAR_TITLE_PAIR": 64,
       "NOINDEX_INTENTIONAL": 1,
       "SLUG_D_STRIPPED": 1410
@@ -50,9 +47,7 @@
   "html_pages": 6844,
   "inventory_rows": 6843,
   "issues_by_code": {
-    "DESC_TOO_LONG": 4,
     "DUP_CANNIBALIZATION_KEY": 107,
-    "H1_IN_BODY": 1,
     "NOINDEX": 1
   },
   "pages_by_type": {
@@ -65,9 +60,9 @@
   },
   "phase_html": true,
   "post_inbound_distribution": {
-    "10+": 2166,
+    "10+": 2188,
     "2-4": 1,
-    "5-9": 3909
+    "5-9": 3887
   },
   "posts_total": 6076,
   "posts_with_url": 6076,

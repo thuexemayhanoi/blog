@@ -74,3 +74,5 @@ Nếu dự báo cả ngày mưa lớn mà lịch trình không bắt buộc, đ�
 ## Tóm lại
 
 Ngày mưa không ngăn chuyến đi nếu bạn chuẩn bị đúng: áo mưa chuyên dụng và mũ có kính che, kiểm tra lốp phanh đèn trước khi đi, giảm tốc và tăng khoảng cách trên đường, phanh nhè nhẹ kết hợp hai phanh, né các chỗ trơn, và không ép xe qua vùng ngập sâu. Biết dừng đúng lúc cũng là một phần của kỹ năng đi xe. Những lưu ý chung hơn về cách đi xe máy ở Hà Nội được tổng hợp trong chuyên mục [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }} ).
+
+Mùa lạnh có những lưu ý riêng về trang phục giữ ấm và sương mù buổi sáng, xem [đi xe máy ở Hà Nội mùa đông: giữ ấm và an toàn khi trời lạnh]({{ site.baseurl }}{% post_url 2026-09-18-di-xe-may-o-ha-noi-mua-dong %}/).

@@ -1,6 +1,6 @@
 {
   "schema": "seo-master-checkpoint/1",
-  "updated_at": "2026-10-23T02:50:00Z",
+  "updated_at": "2026-10-23T12:15:36Z",
   "origin_main_at_session_start": "4f61156e5331be4559b947a56e59b2bcd8b9f355",
   "engine_commit": "ba59ea2796f839fba7859ae5cd5e6863acb19819",
   "head_note": "Commit báo cáo/checkpoint đi sau engine_commit; dùng `git log --oneline -- reports/factory/seo-master` để thấy các commit báo cáo. Đối chiếu HEAD thật bằng `git rev-parse HEAD` trước khi tiếp tục.",
@@ -85,14 +85,14 @@
     {
       "id": "SEO-101",
       "status": "BLOCKED",
-      "why": "1.410 slug mất chữ đ (đo lại bằng khớp tuyệt đối với tiêu đề matrix; số 1.254 trước đó dùng cách so khác); đổi URL bị cấm",
-      "next": "Chỉ làm khi chủ duyệt kế hoạch redirect bảo toàn URL"
+      "why": "1.410 slug mất chữ đ. BLOCKED_INFRA_301 (GitHub Pages không phát 301/308, chưa có edge xác minh) + permalink bất biến với revise-published.py và gắn evidence (content_sha256/matrix_row_sha256/source_path)",
+      "next": "Chủ duyệt kế hoạch OLD→NEW (slug-d-migration-map.csv, migration_ready=NO) và hạ tầng 301 đã xác minh; bài mới đã được test TestSeoSlugForms chặn tái diễn"
     },
     {
       "id": "SEO-102",
-      "status": "OPEN",
-      "why": "49 nhóm trùng khóa giữa các cụm + 82 cặp gần trùng trong cụm",
-      "next": "Chủ đọc cannibalization-plan.md; bảo trì nhỏ có QA để phân biệt intent; không xóa/redirect khi chưa duyệt"
+      "status": "PARTIAL",
+      "why": "107 bài/49 nhóm trùng khóa: đã có khối \"Cùng chủ đề trong cẩm nang\" hai chiều (#50) và phân loại (cannibalization-classification.csv: 29 SAME_INTENT_MONITOR, 20 DISTINCT_ANGLE_KEEP); chưa gộp/redirect",
+      "next": "Gộp nội dung + 301 chỉ khi có hạ tầng 301, dữ liệu Search Console của blog và chủ duyệt URL chủ lực"
     },
     {
       "id": "SEO-103",
@@ -102,33 +102,33 @@
     },
     {
       "id": "SEO-104",
-      "status": "BLOCKED",
-      "why": "engine-tests đỏ sẵn trên main (test_hardening 3 test: factory-publish.yml có cron + workflow_dispatch, test \"sk-\" khớp nhầm; test_slugify_vi fixture) — ngoài phạm vi SEO; đã xác nhận cùng 2 suite ở run 1275, 1276, 1277",
-      "next": "Chủ/AI vận hành sửa test hoặc workflow; không thuộc đợt này"
+      "status": "DONE",
+      "what": "engine-tests đã xanh (commit b96f69f7 của người vận hành); không còn đỏ sẵn trên main",
+      "evidence": "job \"Engine unit + concurrency tests\" success ở gate #44=1282, #46=1289, #49=1292, #51=1295, #50=1296"
     },
     {
       "id": "SEO-106",
-      "status": "DEFERRED",
-      "why": "LocalBusiness JSON-LD trên mọi trang",
-      "next": "Quyết định: chỉ phát ở trang chủ/liên hệ/giới thiệu + sameAs về website chính"
+      "status": "DECIDED_KEEP",
+      "why": "LocalBusiness/Organization từ _includes/seo.html chỉ với NAP đã xác minh theo docs/SCHEMA-GEO.md; chưa có bằng chứng lỗi",
+      "next": "Xem lại khi có dữ liệu Search Console của blog"
     },
     {
       "id": "SEO-107",
-      "status": "DEFERRED",
-      "why": "689 trang danh sách trong sitemap",
-      "next": "Quyết định sau khi có dữ liệu lập chỉ mục (Search Console)"
+      "status": "DECIDED_KEEP",
+      "why": "689 trang danh sách giữ trong sitemap (đường khám phá 6.076 bài); không noindex/đổi canonical hàng loạt",
+      "next": "Quyết định lại khi có dữ liệu lập chỉ mục"
     },
     {
       "id": "SEO-108",
-      "status": "BLOCKED",
-      "why": "4 bài legacy có description > 200 ký tự; có bằng chứng SHA",
-      "next": "Quy trình bảo trì có chủ duyệt"
+      "status": "DONE",
+      "what": "4 bài legacy có description > 200 ký tự đã rút gọn (#45; legacy nên sửa trực tiếp được)"
     },
     {
       "id": "SEO-109",
       "status": "OPEN",
       "why": "Chưa có dữ liệu Search Console của blog (Windsor searchconsole chỉ có website chính và chatbot; OpenSEO chưa nối tài khoản Google). Xác minh live đã làm được bằng Nimble Extract simplified_html + vx6 (Firecrawl hết tín dụng)",
-      "next": "Chủ website thêm property blog.thuexemaynguyentu.com (hoặc sc-domain) vào Windsor/OpenSEO; khi có số liệu thì xét SEO-107 và SEO-102 theo dữ liệu thật"
+      "next": "Chủ website thêm property blog.thuexemaynguyentu.com (hoặc sc-domain) vào Windsor/OpenSEO; khi có số liệu thì xét SEO-107 và SEO-102 theo dữ liệu thật",
+      "evidence_wave2": "2026-10-23 sau đợt 2: nguồn Search Console của blog vẫn chưa có (Windsor searchconsole chỉ có website chính và chatbot; OpenSEO chưa nối tài khoản Google) nên thứ hạng/lập chỉ mục/CTR = UNKNOWN. Xác minh live bằng Nimble Extract (simplified_html + vx6) cho trang chủ, robots.txt, sitemap (6.842 URL trùng bản build), bài đã sửa giá, bài đính chính pháp lý, khối giá hiện hành, khối cùng chủ đề"
     },
     {
       "id": "LINK-CANDIDATES",
@@ -136,22 +136,61 @@
       "what": "internal-link-candidates.csv (tối đa 25 bài/nhóm chưa liên kết về URL chủ lực)",
       "next": "Bảo trì nhỏ có QA, từng đợt, không chèn cùng một anchor hàng loạt",
       "decision": "Nhóm địa phương K06–K10 (Long Biên, Hoàn Kiếm, Tây Hồ, Phố Cổ, Ba Đình; còn khoảng 240 bài chưa liên kết về hub khu vực) KHÔNG chèn liên kết hàng loạt: seo-matrix-config.yml ghi website chính đã xếp hạng cho các từ khóa này (main_site_conflict RẤT CAO, INFERRED), nên chỉ thêm liên kết ngữ cảnh khi bài thật sự nói về khu vực đó và không dùng cùng một anchor thương mại. Sửa bài đã xuất bản còn bị chặn bởi SHA bằng chứng QA; hướng khả thi duy nhất là khối trong template, cần quyết định riêng."
+    },
+    {
+      "id": "SEO-110",
+      "status": "DONE",
+      "what": "Đồng bộ giá tuần/tháng với bảng giá chủ xe: 6 trang tĩnh, 26 bài legacy, 213 bài factory (5 lô revise-published, 464 cặp old→new), 68 bài hiển thị khối giá hiện hành",
+      "evidence": "FACT (main d794f64b, price-consistency.csv): factory MISMATCH 155 cụm/56 tệp, REVIEW 26/19, UNBOUND_STALE 36/24 — toàn bộ nằm trong 217 cụm của 74 tệp: 68 bài NOTICE_LAYER (có khối giá hiện hành) + 6 bài REVIEWED_FALSE_POSITIVE đã đọc tay; 0 cụm OPEN; trang tĩnh và legacy 0",
+      "next": "68 bài còn giá cũ trong thân bài: xem SEO-115"
+    },
+    {
+      "id": "SEO-111",
+      "status": "DONE",
+      "what": "scripts/factory/revise-published.py (plan/apply/verify/rollback) — đường bảo trì chính thức sửa bài PUBLISHED có evidence",
+      "evidence": "PR #46 (3fbc0e45); test_revise_published 17 + test_price_phrases 19"
+    },
+    {
+      "id": "SEO-112",
+      "status": "DONE",
+      "what": "Đối chiếu 44 văn bản pháp luật với nguồn chính thức (legal-verification.json/.csv, 23/10/2026); sửa gốc 4 bài, khối đính chính 22 bài, ghi nhận sắc thái 2 bài",
+      "evidence": "PR #48 (a11be2e2), #49 (9a6460d7), #51 (aa8b6d82)"
+    },
+    {
+      "id": "SEO-113",
+      "status": "DONE",
+      "what": "3 lớp hiển thị theo dữ liệu (không đổi byte bài): legal-notice 22 bài, price-notice 68 bài, topic-siblings 107 bài",
+      "evidence": "PR #49 (9a6460d7), #50 (ea45d355), #53 (d794f64b)"
+    },
+    {
+      "id": "SEO-114",
+      "status": "BLOCKED_OWNER_INPUT",
+      "why": "Phí trễ 20.000đ/giờ (và \"trễ quá 6 tiếng tính thêm một ngày\") xuất hiện ở 9 trang tĩnh + 14 bài legacy nhưng không có trong data/business-facts.json",
+      "next": "Chủ xác nhận mức phí trễ; nếu xác nhận thì thêm vào business-facts.json rồi đồng bộ; không tự suy đoán"
+    },
+    {
+      "id": "SEO-115",
+      "status": "BLOCKED_OWNER_APPROVAL",
+      "why": "91 bài PUBLISHED chưa sửa được nội dung gốc: 79 lệch hash evidence (reattest plan 81 bài, trừ 2 bài về mức phạt bị gắn cờ nhầm: 28 ELIGIBLE_PROPOSAL_AWAITING_OWNER_APPROVAL, 50 FRESH_QA_FAILED, 1 MANUAL_REVIEW_REQUIRED) + 12 bài title/luận điểm gắn giá cũ; 90 bài đã có khối đính chính hiển thị",
+      "next": "Chủ duyệt reattest-legacy-qa.py apply cho 28 bài (--approval-ref) rồi revise-published; 50 bài FRESH_QA_FAILED cần đường gộp reattest+revise hoặc viết lại; 12 bài title-bound cần chủ quyết định; xem content-fix-blocked.csv"
     }
   ],
   "resume": [
-    "git pull --ff-only origin main; so HEAD với engine_commit",
-    "Build cục bộ: jekyll build --destination /tmp/site (Jekyll 3.10.0, minima 2.5.1, jekyll-sitemap, jekyll-feed, kramdown-parser-gfm)",
-    "python3 scripts/seo/build-inventory.py --site /tmp/site --graph-out /tmp/graph.json && python3 scripts/seo/build-matrix.py --graph /tmp/graph.json && python3 scripts/seo/enrich-inventory.py  (enrich luôn chạy sau cùng)",
-    "python3 scripts/seo/check-regressions.py --site /tmp/site  (phải PASS 9/9)",
-    "Chỉ chạm hạng mục OPEN/DEFERRED; không làm lại hạng mục DONE; báo cáo sau mỗi đợt vào fix-log.csv",
+    "git pull --ff-only origin main; đọc reports/factory/seo-master/fix-log.csv và content-fix-blocked.csv trước khi làm",
+    "Build cục bộ: jekyll build --destination /tmp/site (Jekyll 3.10.0, minima 2.5.1, jekyll-sitemap, jekyll-feed, kramdown-parser-gfm); ~12 phút",
+    "python3 scripts/seo/build-inventory.py --site /tmp/site --graph-out /tmp/graph.json && python3 scripts/seo/build-matrix.py --graph /tmp/graph.json && python3 scripts/seo/build-leads.py && python3 scripts/seo/enrich-inventory.py  (enrich luôn chạy sau cùng)",
+    "python3 scripts/seo/check-regressions.py --site /tmp/site  (phải PASS 9/9); python3 scripts/seo/check-price-consistency.py; python3 scripts/seo/build-price-notices.py --check; python3 scripts/seo/build-topic-links.py --check",
+    "Sửa nội dung bài PUBLISHED chỉ qua scripts/factory/revise-published.py (evidence nguyên vẹn) hoặc reattest-legacy-qa.py (cần --approval-ref của chủ); không sửa tay _posts/data/qa",
+    "Chỉ chạm hạng mục OPEN/BLOCKED khi có quyết định của chủ; không làm lại hạng mục DONE; ghi mọi đợt vào fix-log.csv (CRLF)",
     "Xác minh live: Nimble nimble_extract với output_format=simplified_html, driver=vx6 (đọc được <head>); Firecrawl hết tín dụng"
   ],
   "do_not": [
-    "đổi URL/slug/canonical hàng loạt",
-    "sửa _posts/matrix/data/qa/checkpoint nhà máy",
-    "sửa workflow publisher/writer",
+    "đổi URL/slug/canonical hàng loạt (không có 301)",
+    "sửa tay _posts, matrix, data/qa, checkpoint nhà máy (chỉ revise-published.py hoặc reattest-legacy-qa.py có chủ duyệt)",
+    "chạy reattest-legacy-qa.py apply khi chưa có --approval-ref của chủ (AGENTS.md)",
+    "sửa workflow publisher/writer; chiếm lease của writer khác",
     "đổi H1/title/meta/hero trang chủ đã duyệt",
-    "đổi NAP/giá/cọc"
+    "đổi NAP/giá/cọc/giờ hoặc thêm phí trễ/bảo hiểm/hoàn cọc khi chưa có trong data/business-facts.json"
   ],
   "ci": {
     "pages_run": "5494 success (build 5m51s, deploy 19s)",
@@ -165,5 +204,312 @@
     "live_verification": "2026-10-23: trang chủ khớp frozen-homepage.json (title/meta/og/canonical/H1/hero), phân trang sâu 45 liên kết, bài mẫu 1 canonical + 1 H1, robots.txt, sitemap 6842 URL trùng bản build",
     "pages_run_709fa118": "5499 success (02:28:56 -> 02:37:16Z, 8m20s)"
   },
-  "enrichment_commit": "316f01e0e7d61170c768997cca118869d0b330f4"
+  "enrichment_commit": "316f01e0e7d61170c768997cca118869d0b330f4",
+  "origin_main_before_wave2": "4f61156e5331be4559b947a56e59b2bcd8b9f355 → b96f69f73 (người vận hành sửa test) → wave 2 bên dưới",
+  "head_before_records_commit": "d794f64b01db07ab79ba04374534030a4c6487ca",
+  "wave2": {
+    "date": "2026-10-23",
+    "authority": "MASTER WORK — NGUYỄN TÚ BLOG SEO FULL REPAIR A–Z (chủ phê duyệt AI sửa lỗi phù hợp, tạo PR, kiểm thử, merge khi đạt điều kiện an toàn; sửa bài PUBLISHED qua bảo trì + re-attestation + QA hợp lệ)",
+    "merged_prs": {
+      "43": {
+        "merge_commit": "b322c800",
+        "title": "seo(slug): audit 1.410 URL thiếu chữ đ, bản đồ OLD→NEW, BLOCKED_INFRA_301, test chặn tái diễn",
+        "gate": {
+          "run": 1281,
+          "conclusion": "success",
+          "jobs_seconds": {
+            "Qualit": 548,
+            "Engine": 738
+          }
+        },
+        "pages": {
+          "run_number": 5502,
+          "run_id": 39912269142,
+          "conclusion": "success",
+          "status": "completed",
+          "seconds": 554
+        }
+      },
+      "44": {
+        "merge_commit": "a89dd8c9",
+        "title": "fix(pricing): đồng bộ giá tuần/tháng với bảng giá chủ cửa hàng và website chính",
+        "gate": {
+          "run": 1282,
+          "conclusion": "success",
+          "jobs_seconds": {
+            "Qualit": 804,
+            "Engine": 660
+          }
+        },
+        "pages": {
+          "run_number": 5504,
+          "run_id": 39914279397,
+          "conclusion": "success",
+          "status": "completed",
+          "seconds": 451
+        }
+      },
+      "45": {
+        "merge_commit": "002ac9c9",
+        "title": "seo(content): đồng bộ giá tuần/tháng trong 23 bài legacy, rút gọn 4 meta, sửa H1 lạc",
+        "gate": {
+          "run": 1284,
+          "conclusion": "success",
+          "jobs_seconds": {
+            "Qualit": 34,
+            "Engine": 0
+          }
+        },
+        "pages": {
+          "run_number": 5503,
+          "run_id": 39913239237,
+          "conclusion": "cancelled",
+          "status": "completed",
+          "seconds": 607
+        }
+      },
+      "46": {
+        "merge_commit": "3fbc0e45",
+        "title": "feat(factory): revise-published.py — đường bảo trì chính thức sửa nội dung bài PUBLISHED có evidence",
+        "gate": {
+          "run": 1289,
+          "conclusion": "success",
+          "jobs_seconds": {
+            "Qualit": 793,
+            "Engine": 889
+          }
+        },
+        "pages": {
+          "run_number": 5507,
+          "run_id": 39920905645,
+          "conclusion": "success",
+          "status": "completed",
+          "seconds": 531
+        }
+      },
+      "47": {
+        "merge_commit": "205be933",
+        "title": "fix(pricing): sửa nốt giá tháng Air Blade 1.400.000đ còn sót trong bang-gia-xe-ga",
+        "gate": {
+          "run": null,
+          "conclusion": null,
+          "jobs_seconds": {}
+        },
+        "pages": {
+          "run_number": 5505,
+          "run_id": 39917966213,
+          "conclusion": "cancelled",
+          "status": "completed",
+          "seconds": 672
+        }
+      },
+      "48": {
+        "merge_commit": "a11be2e2",
+        "title": "fix(content): Wave có giá tuần/tháng theo bảng giá chủ xe (2 bài legacy) và dẫn đúng TT 108/2026 (BLG-00314)",
+        "gate": {
+          "run": 1290,
+          "conclusion": "success",
+          "jobs_seconds": {
+            "Qualit": 30,
+            "Engine": -1
+          }
+        },
+        "pages": {
+          "run_number": 5506,
+          "run_id": 39919225331,
+          "conclusion": "success",
+          "status": "completed",
+          "seconds": 596
+        }
+      },
+      "49": {
+        "merge_commit": "9a6460d7",
+        "title": "feat(content): lớp \"Lưu ý cập nhật pháp lý\" có nguồn chính thức cho 22 bài chưa sửa được nội dung gốc",
+        "gate": {
+          "run": 1292,
+          "conclusion": "success",
+          "jobs_seconds": {
+            "Qualit": 858,
+            "Engine": 1093
+          }
+        },
+        "pages": {
+          "run_number": 5508,
+          "run_id": 39924066456,
+          "conclusion": "cancelled",
+          "status": "completed",
+          "seconds": 474
+        }
+      },
+      "50": {
+        "merge_commit": "ea45d355",
+        "title": "feat(seo): liên kết ngữ cảnh \"Cùng chủ đề\" cho 49 nhóm bài trùng từ khóa chính (107 bài)",
+        "gate": {
+          "run": 1296,
+          "conclusion": "success",
+          "jobs_seconds": {
+            "Qualit": 569,
+            "Engine": 1130
+          }
+        },
+        "pages": {
+          "run_number": 5510,
+          "run_id": 39926152151,
+          "conclusion": "success",
+          "status": "completed",
+          "seconds": 608
+        }
+      },
+      "51": {
+        "merge_commit": "aa8b6d82",
+        "title": "fix(content): đính chính pháp lý 3 bài PUBLISHED qua revise-published (lô revise-20261023-legal-01)",
+        "gate": {
+          "run": 1295,
+          "conclusion": "success",
+          "jobs_seconds": {
+            "Qualit": 796,
+            "Engine": 1138
+          }
+        },
+        "pages": {
+          "run_number": 5509,
+          "run_id": 39924967708,
+          "conclusion": "cancelled",
+          "status": "completed",
+          "seconds": 631
+        }
+      },
+      "53": {
+        "merge_commit": "d794f64b",
+        "title": "feat(content): khối \"Giá thuê tham khảo hiện hành\" cho 68 bài còn giá cũ mà chưa sửa được nội dung gốc",
+        "gate": {
+          "run": 1307,
+          "conclusion": "success",
+          "jobs_seconds": {
+            "Qualit": 767,
+            "Engine": 1139
+          }
+        },
+        "pages": {
+          "run_number": 5516,
+          "run_id": 39948121733,
+          "conclusion": "success",
+          "status": "completed",
+          "seconds": 542
+        }
+      },
+      "54": {
+        "merge_commit": "51be40d8",
+        "title": "fix(content): đồng bộ giá tuần/tháng theo bảng giá chủ xe — lô 5/5 (21 bài, revise-published)",
+        "gate": {
+          "run": 1300,
+          "conclusion": "success",
+          "jobs_seconds": {
+            "Qualit": 549,
+            "Engine": 1099
+          }
+        },
+        "pages": {
+          "run_number": 5511,
+          "run_id": 39928808328,
+          "conclusion": "cancelled",
+          "status": "completed",
+          "seconds": 317
+        }
+      },
+      "55": {
+        "merge_commit": "b2374a12",
+        "title": "fix(content): đồng bộ giá tuần/tháng theo bảng giá chủ xe — lô 1/5 (50 bài, revise-published)",
+        "gate": {
+          "run": 1301,
+          "conclusion": "success",
+          "jobs_seconds": {
+            "Qualit": 600,
+            "Engine": 1143
+          }
+        },
+        "pages": {
+          "run_number": 5513,
+          "run_id": 39929436641,
+          "conclusion": "cancelled",
+          "status": "completed",
+          "seconds": 98
+        }
+      },
+      "56": {
+        "merge_commit": "799afb54",
+        "title": "fix(content): đồng bộ giá tuần/tháng theo bảng giá chủ xe — lô 4/5 (42 bài, revise-published)",
+        "gate": {
+          "run": 1302,
+          "conclusion": "success",
+          "jobs_seconds": {
+            "Qualit": 725,
+            "Engine": 961
+          }
+        },
+        "pages": {
+          "run_number": 5512,
+          "run_id": 39929332666,
+          "conclusion": "cancelled",
+          "status": "completed",
+          "seconds": 54
+        }
+      },
+      "57": {
+        "merge_commit": "29189f71",
+        "title": "fix(content): đồng bộ giá tuần/tháng theo bảng giá chủ xe — lô 2/5 (50 bài, revise-published)",
+        "gate": {
+          "run": 1303,
+          "conclusion": "success",
+          "jobs_seconds": {
+            "Qualit": 1004,
+            "Engine": 773
+          }
+        },
+        "pages": {
+          "run_number": 5514,
+          "run_id": 39929584531,
+          "conclusion": "success",
+          "status": "completed",
+          "seconds": 650
+        }
+      },
+      "58": {
+        "merge_commit": "a44a1885",
+        "title": "fix(content): đồng bộ giá tuần/tháng theo bảng giá chủ xe — lô 3/5 (50 bài, revise-published)",
+        "gate": {
+          "run": 1304,
+          "conclusion": "success",
+          "jobs_seconds": {
+            "Qualit": 994,
+            "Engine": 1138
+          }
+        },
+        "pages": {
+          "run_number": 5515,
+          "run_id": 39948101489,
+          "conclusion": "cancelled",
+          "status": "completed",
+          "seconds": 93
+        }
+      }
+    },
+    "counts": {
+      "posts_fixed_at_source_legacy": 26,
+      "posts_fixed_at_source_factory": 216,
+      "static_pages_fixed": 6,
+      "posts_with_legal_notice": 22,
+      "posts_with_price_notice": 68,
+      "posts_with_topic_links": 107,
+      "cannibalization_groups": 49,
+      "legal_instruments_verified": 44
+    },
+    "live_verification": "Pages #5516 (d794f64b) SUCCESS; trang chủ khớp từng ký tự bản duyệt (H1, SEO title, meta description, hero, canonical); robots.txt đúng; sitemap live 6.842 URL = bản build (0 lệch); 3 bài sửa giá + 1 bài pháp lý + 2 trang khối hiển thị kiểm đúng",
+    "not_done": [
+      "SEO-101 (1.410 slug) BLOCKED",
+      "SEO-115 (91 bài) BLOCKED_OWNER_APPROVAL",
+      "SEO-114 phí trễ BLOCKED_OWNER_INPUT",
+      "SEO-109 Search Console của blog: UNKNOWN"
+    ]
+  }
 }

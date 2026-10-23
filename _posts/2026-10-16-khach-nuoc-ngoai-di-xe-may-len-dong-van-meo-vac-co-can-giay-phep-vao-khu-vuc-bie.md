@@ -19,7 +19,7 @@ Khách nước ngoài thuê xe ở Hà Nội để chạy lên Đồng Văn, Mè
 
 ## Đồng Văn, Mèo Vạc có thuộc khu vực biên giới không
 
-Quy chế khu vực biên giới đất liền ban hành kèm Nghị định 34/2014/NĐ-CP xác định khu vực biên giới đất liền gồm các xã, phường, thị trấn có một phần địa giới hành chính trùng với đường biên giới quốc gia trên đất liền. Đồng Văn, Mèo Vạc nằm sát biên giới với Trung Quốc, nhiều xã ở đây thuộc diện này, điển hình là khu vực Lũng Cú và vùng Sơn Vĩ ở cực bắc Mèo Vạc.
+Quy chế khu vực biên giới đất liền ban hành kèm Nghị định 34/2014/NĐ-CP xác định khu vực biên giới đất liền gồm các xã, phường có một phần địa giới hành chính trùng với đường biên giới quốc gia trên đất liền; từ 17/11/2025, Nghị định 299/2025/NĐ-CP đã sửa quy định này và không còn nêu thị trấn. Đồng Văn, Mèo Vạc nằm sát biên giới với Trung Quốc, nhiều xã ở đây thuộc diện này, điển hình là khu vực Lũng Cú và vùng Sơn Vĩ ở cực bắc Mèo Vạc.
 
 Sau đợt sắp xếp đơn vị hành chính năm 2025, tỉnh Hà Giang đã hợp nhất vào tỉnh Tuyên Quang theo Nghị quyết 202/2025/QH15, cấp huyện không còn, tên nhiều xã đã đổi. Trên bản đồ điện thoại, Đồng Văn hay Mèo Vạc giờ có thể hiện là xã thuộc Tuyên Quang, nên biển báo tại chỗ và hướng dẫn của biên phòng là căn cứ thực tế nhất.
 
@@ -29,7 +29,7 @@ Bên trong khu vực biên giới còn có vành đai biên giới và vùng c�
 
 Có hai lớp quy định cần nắm:
 
-1. **Luật về người nước ngoài tại Việt Nam.** Luật số 47/2014/QH13 về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài, đã sửa đổi bởi Luật 51/2019/QH14 và Luật 23/2023/QH15, cho phép người nước ngoài đi lại trên lãnh thổ Việt Nam nhưng phải có giấy phép khi vào khu vực cấm hoặc khu vực hạn chế.
+1. **Luật về người nước ngoài tại Việt Nam.** Luật số 47/2014/QH13 về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài, đã sửa đổi bởi Luật 51/2019/QH14, Luật 23/2023/QH15 và Luật 118/2025/QH15 (hiệu lực từ 01/7/2026), cho phép người nước ngoài cư trú hợp pháp đi lại trên lãnh thổ Việt Nam mà không phải xin phép; riêng khu vực cấm hoặc khu vực hạn chế đi lại, cư trú thì thực hiện theo quy định riêng của pháp luật.
 2. **Quy chế khu vực biên giới đất liền.** Nghị định 34/2014/NĐ-CP đặt điều kiện riêng cho người nước ngoài vào khu vực biên giới: có giấy phép do cơ quan công an có thẩm quyền cấp và chịu sự kiểm tra, hướng dẫn của Đồn Biên phòng, công an xã sở tại.
 
 Cơ quan cấp và trường hợp áp dụng cụ thể cần đọc nguyên văn văn bản còn hiệu lực. Mình không bao giờ nói với khách câu "chắc không ai hỏi đâu".
@@ -83,8 +83,8 @@ Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, B�
 
 ## Nguồn tham khảo
 
-- Nghị định 34/2014/NĐ-CP về Quy chế khu vực biên giới đất liền: tra nguyên văn và hiệu lực trên [Cơ sở dữ liệu văn bản của Chính phủ](https://vanban.chinhphu.vn/).
-- Luật số 47/2014/QH13, sửa đổi bởi Luật 51/2019/QH14 và Luật 23/2023/QH15.
+- Nghị định 34/2014/NĐ-CP về Quy chế khu vực biên giới đất liền (đã sửa đổi bởi Nghị định 299/2025/NĐ-CP): tra nguyên văn và hiệu lực trên [Cơ sở dữ liệu văn bản của Chính phủ](https://vanban.chinhphu.vn/).
+- Luật số 47/2014/QH13, sửa đổi bởi Luật 51/2019/QH14, Luật 23/2023/QH15 và Luật 118/2025/QH15 (văn bản hợp nhất 62/VBHN-VPQH ngày 23/3/2026).
 - Nghị quyết 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh.
 - [Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15](https://vanban.chinhphu.vn/?pageid=27160&docid=211194).
 

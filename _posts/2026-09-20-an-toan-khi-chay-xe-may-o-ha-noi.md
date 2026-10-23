@@ -54,3 +54,5 @@ Những người mới đến Hà Nội còn nên lưu ý tác động của th�
 ## Tóm lại
 
 An toàn khi chạy xe máy ở Hà Nội đến từ ba lớp: bảo hộ cá nhân đúng, thói quen lái phòng thủ vững và khả năng đọc dòng giao thông. Không có thủ thuật nào thay thế được việc đi chậm vừa đủ, giữ khoảng cách và làm cho mọi ý định của mình dễ đoán với người xung quanh. Hãy đọc thêm [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để chuẩn bị trọn quy trình, và tham khảo [gợi ý khám phá Hà Nội bằng xe máy cho người mới]({{ site.baseurl }}{% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}/) để lên tuyến đi hợp lý cho những ngày đầu tiên.
+
+Khi chạy chặng dài ra ngoài thành phố, hãy đọc thêm [an toàn khi chạy xe đường trường]({{ site.baseurl }}{% post_url 2026-09-18-an-toan-khi-chay-xe-duong-truong %}/).

@@ -15,11 +15,11 @@ writer: W2
 writer_session: s-claudeb-w2
 ---
 
-Ngày càng nhiều người ở Hà Nội ra đường chỉ mang điện thoại, bị kiểm tra thì mở giấy phép lái xe tích hợp trên VNeID. Câu hỏi đặt ra là nếu vi phạm đến mức bị giữ giấy tờ, cán bộ không cầm được tấm thẻ nào: tạm giữ bằng lái trên VNeID được làm ra sao, ứng dụng hiện gì và khi nào được trả lại? Bài này tóm tắt theo Luật Xử lý vi phạm hành chính, Thông tư 28/2024/TT-BCA và Thông tư 73/2024/TT-BCA, kèm lưu ý thực tế cho người đi xe máy.
+Ngày càng nhiều người ở Hà Nội ra đường chỉ mang điện thoại, bị kiểm tra thì mở giấy phép lái xe tích hợp trên VNeID. Câu hỏi đặt ra là nếu vi phạm đến mức bị giữ giấy tờ, cán bộ không cầm được tấm thẻ nào: tạm giữ bằng lái trên VNeID được làm ra sao, ứng dụng hiện gì và khi nào được trả lại? Bài này tóm tắt theo Luật Xử lý vi phạm hành chính và Thông tư 73/2024/TT-BCA đang áp dụng, nhắc Thông tư 28/2024/TT-BCA (đã hết hiệu lực từ 01/01/2025) chỉ để biết lịch sử, kèm lưu ý thực tế cho người đi xe máy.
 
 ## Xuất trình bằng lái trên VNeID có được chấp nhận không
 
-Từ ngày 01/7/2024, Thông tư 28/2024/TT-BCA cho phép cảnh sát giao thông kiểm tra giấy tờ đã tích hợp trên VNeID thay cho bản giấy. Thông tư 73/2024/TT-BCA, áp dụng từ đầu năm 2025, tiếp tục cơ chế kiểm tra, tạm giữ giấy tờ trên môi trường điện tử; theo các bản tóm tắt, nội dung này nằm ở Điều 17.
+Từ ngày 01/7/2024, Thông tư 28/2024/TT-BCA cho phép cảnh sát giao thông kiểm tra giấy tờ đã tích hợp trên VNeID thay cho bản giấy; thông tư này hết hiệu lực từ 01/01/2025. Thông tư 73/2024/TT-BCA, áp dụng từ đầu năm 2025, tiếp tục cơ chế kiểm tra, tạm giữ giấy tờ trên môi trường điện tử; theo các bản tóm tắt, nội dung này nằm ở Điều 17.
 
 Để xuất trình suôn sẻ, cần:
 
@@ -62,7 +62,7 @@ Việc tạm giữ để bảo đảm thi hành quyết định chỉ kết thú
 
 1. **Chờ quyết định xử phạt** rồi nộp tiền trong 10 ngày kể từ ngày nhận quyết định (Điều 73 của luật).
 2. **Chọn kênh nộp.** Nghị định 118/2021/NĐ-CP, Điều 20, cho phép nộp qua Cổng Dịch vụ công Quốc gia, thanh toán điện tử của ngân hàng hoặc qua bưu chính công ích.
-3. **Đơn vị xử lý trả lại giấy phép.** Thông tư 28/2024 đã cho phép biên bản, quyết định trả lại giấy tờ bị tạm giữ được lập và gửi bằng phương thức điện tử; đơn vị cập nhật để gỡ trạng thái tạm giữ.
+3. **Đơn vị xử lý trả lại giấy phép.** Thông tư 73/2024 cho phép biên bản, quyết định trả lại giấy tờ bị tạm giữ được lập và gửi bằng phương thức điện tử (cách làm này mở từ Thông tư 28/2024, nay đã hết hiệu lực); đơn vị cập nhật để gỡ trạng thái tạm giữ.
 4. **Kiểm tra lại VNeID.** Nếu sau khi nộp tiền một thời gian mà giấy phép vẫn hiện tạm giữ, gọi đơn vị theo số trên biên bản, gửi kèm biên lai để họ rà soát.
 
 Nếu thẻ cứng cũng bị giữ, người đã nộp phạt qua Cổng Dịch vụ công có thể đăng ký nhận lại qua bưu chính công ích theo Thông tư 73, Điều 23 khoản 2. Cần phân biệt tạm giữ với tước quyền sử dụng giấy phép: bị tước thì trạng thái kéo dài đến hết thời hạn tước, nộp phạt xong vẫn chưa được lái.
@@ -77,6 +77,6 @@ Làm mất thẻ nhưng vẫn còn giấy phép trên ứng dụng, xem bài [m�
 
 ## Ghi chú về nguồn
 
-Thông tin pháp lý theo [Luật Xử lý vi phạm hành chính số 15/2012/QH13](https://vanban.chinhphu.vn/?pageid=27160&docid=163070) và [Luật số 67/2020/QH14](https://vanban.chinhphu.vn/?pageid=27160&docid=202608) sửa đổi, bổ sung (nên đọc bản hợp nhất mới nhất), [Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15](https://vanban.chinhphu.vn/?pageid=27160&docid=211194), Nghị định 118/2021/NĐ-CP, Thông tư 28/2024/TT-BCA và Thông tư 73/2024/TT-BCA. Số điều của thông tư được nêu theo các bản tóm tắt, chưa đối chiếu Công báo. Quy định và giao diện ứng dụng có thể thay đổi; hãy kiểm tra văn bản mới nhất và hỏi trực tiếp đơn vị đã lập biên bản. Bài không thay cho tư vấn pháp lý.
+Thông tin pháp lý theo [Luật Xử lý vi phạm hành chính số 15/2012/QH13](https://vanban.chinhphu.vn/?pageid=27160&docid=163070) và [Luật số 67/2020/QH14](https://vanban.chinhphu.vn/?pageid=27160&docid=202608) sửa đổi, bổ sung (nên đọc bản hợp nhất mới nhất), [Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15](https://vanban.chinhphu.vn/?pageid=27160&docid=211194), Nghị định 118/2021/NĐ-CP, Thông tư 73/2024/TT-BCA và Thông tư 28/2024/TT-BCA (hết hiệu lực từ 01/01/2025, chỉ nêu để biết lịch sử). Số điều của thông tư được nêu theo các bản tóm tắt, chưa đối chiếu Công báo. Quy định và giao diện ứng dụng có thể thay đổi; hãy kiểm tra văn bản mới nhất và hỏi trực tiếp đơn vị đã lập biên bản. Bài không thay cho tư vấn pháp lý.
 
 Các bài khác về giấy phép có ở mục [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/), quy định chung xem ở chuyên mục [an toàn và pháp lý](/an-toan-phap-ly/).

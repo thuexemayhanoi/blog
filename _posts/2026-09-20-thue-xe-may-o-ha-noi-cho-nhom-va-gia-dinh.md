@@ -62,3 +62,5 @@ Quan trọng nhất, đừng để sự cố nhỏ làm hỏng tâm trạng cả
 Trước ngày nhận xe, trưởng nhóm nên chốt danh sách người chạy xe và dòng xe chung cho cả đoàn qua một tin nhắn nhóm, kèm địa điểm và giờ nhận xe. Việc mọi người biết trước mình chạy xe nào, mang giấy tờ gì và cần chuẩn bị bao nhiêu tiền cọc giúp buổi nhận xe diễn ra nhanh, thay vì kéo dài hàng tiếng vì thiếu thông tin. Với nhóm bay đến từ nơi khác, hãy tính cả thời gian lấy hành lý và di chuyển từ sân bay vào giờ nhận xe dự kiến.
 
 Một cuộc họp ngắn năm phút trước khi xuất phát chuyến đầu tiên cũng đáng giá: thống nhất lại người dẫn đường, người áp sát, quy tắc báo hiệu rẽ và điểm hẹn khi lạc. Các quy tắc này nghe hình thức, nhưng chúng chỉ cần phát huy tác dụng đúng một lần, trong một ngã tư đông xe, để bù lại mọi công chuẩn bị. Với nhóm có trẻ em, hãy kiểm tra lại kích cỡ mũ bảo hiểm cho từng trẻ ngay tại cửa hàng, vì mũ quá rộng hoặc quá chật đều giảm mức độ bảo vệ đáng kể.
+
+Nếu người đi cùng là nữ và lần đầu thuê xe, xem [thuê xe máy ở Hà Nội cho nữ: tự tin di chuyển trong thành phố]({{ site.baseurl }}{% post_url 2026-09-20-thue-xe-may-o-ha-noi-cho-nu %}/).
