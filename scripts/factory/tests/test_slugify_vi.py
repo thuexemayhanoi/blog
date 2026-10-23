@@ -372,5 +372,53 @@ class TestRealMatrix(unittest.TestCase):
         self.assertEqual(bad, [], 'cột slug lệch output_path: %s' % bad[:5])
 
 
+class TestSeoSlugForms(unittest.TestCase):
+    """scripts/seo/slugs.py (dùng bởi slug-d-audit.py và enrich-inventory.py) phải khớp slugify của generator/refill,
+    và không hàng PLANNED nào được mang dạng slug cũ (chữ đ bị xóa). Khóa lỗi "xe-ap-ien" không tái diễn."""
+
+    @classmethod
+    def setUpClass(cls):
+        sys.path.insert(0, os.path.join(ROOT, 'scripts', 'seo'))
+        import slugs
+        cls.slugs = slugs
+
+    def test_correct_form_matches_generator_and_refill(self):
+        for title, want in CASES:
+            self.assertEqual(self.slugs.slug_correct(title), want, title)
+            self.assertEqual(self.slugs.slug_correct(title), GEN.slugify(title), title)
+            self.assertEqual(self.slugs.slug_correct(title), REF.slugify(title), title)
+
+    def test_correct_form_matches_generator_on_all_matrix_titles(self):
+        with open(os.path.join(ROOT, 'data/content-matrix.csv'), encoding='utf-8', newline='') as f:
+            rows = list(csv.DictReader(f))
+        bad = [r['id'] for r in rows if self.slugs.slug_correct(r['title']) != GEN.slugify(r['title'])]
+        self.assertEqual(bad, [], 'slug_correct lệch generate-matrix.slugify: %s' % bad[:5])
+
+    def test_old_form_is_the_d_stripping_bug(self):
+        self.assertEqual(self.slugs.slug_old('xe đạp điện'), 'xe-ap-ien')
+        self.assertEqual(self.slugs.slug_correct('xe đạp điện'), 'xe-dap-dien')
+        self.assertEqual(self.slugs.slug_old('Đặt cọc'), 'at-coc')
+        self.assertTrue(self.slugs.slug_forms('Đặt cọc')['differs'])
+        self.assertFalse(self.slugs.slug_forms('Thuê xe máy')['differs'])
+
+    def test_is_d_stripped_is_exact_match_only(self):
+        f = self.slugs.is_d_stripped
+        self.assertTrue(f('Đặt cọc xe máy', 'at-coc-xe-may'))
+        self.assertTrue(f('Đặt cọc xe máy', '2026-09-29-at-coc-xe-may'), 'tiền tố ngày của bài legacy được bỏ qua')
+        self.assertFalse(f('Đặt cọc xe máy', 'dat-coc-xe-may'), 'slug đúng không bị đánh dấu')
+        self.assertFalse(f('Đặt cọc xe máy', 'at-coc-xe-may-gia-re'), 'chỉ khớp tuyệt đối, không khớp tiền tố')
+        self.assertFalse(f('Thuê xe máy', 'thue-xe-may'), 'không có chữ đ')
+
+    def test_no_planned_row_has_stripped_slug(self):
+        with open(os.path.join(ROOT, 'data/content-matrix.csv'), encoding='utf-8', newline='') as f:
+            rows = list(csv.DictReader(f))
+        bad = [r['id'] for r in rows if r['status'] == 'PLANNED' and r['slug']
+               and self.slugs.is_d_stripped(r['title'], r['slug'])]
+        self.assertEqual(bad, [], 'hàng PLANNED mang slug thiếu chữ đ: %s' % bad[:5])
+        wrong = [r['id'] for r in rows if r['status'] == 'PLANNED' and r['slug']
+                 and r['slug'] != self.slugs.slug_correct(r['title'])]
+        self.assertEqual(wrong, [], 'hàng PLANNED có slug khác slug đúng: %s' % wrong[:5])
+
+
 if __name__ == '__main__':
     unittest.main(verbosity=1)

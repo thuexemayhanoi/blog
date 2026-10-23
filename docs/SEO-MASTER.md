@@ -33,6 +33,7 @@ sự thật vận hành: số bài, trạng thái, QA vẫn đọc từ `data/co
 | `internal-link-recommendations.csv` | khoảng trống liên kết về URL chủ lực (từ đồ thị HTML đã render) | cùng script |
 | `internal-link-candidates.csv` | tối đa 25 bài/nhóm khớp từ khóa nhưng chưa liên kết về URL chủ lực (danh sách bảo trì nhỏ, trạng thái OPEN) | cùng script |
 | `cannibalization-plan.md` | kế hoạch đọc được cho chủ: nhóm trùng khóa, URL chủ lực đề xuất, cặp tiêu đề gần trùng (chưa thực hiện) | cùng script |
+| `slug-d-migration-map.csv`, `slug-d-audit.md`, `slug-d-audit.json` | URL thiếu chữ đ: bản đồ OLD → NEW, va chạm, liên kết tới URL cũ, trạng thái BLOCKED (chưa đổi URL nào) | `scripts/seo/slug-d-audit.py` |
 | `build-performance.md` | đo thời gian build Jekyll trước/sau và nguyên nhân | tay (có số đo) |
 | `fix-log.csv`, `qa-results.md`, `deployment-verification.md` | nhật ký sửa, kết quả kiểm thử, xác minh deploy | tay, đối chiếu commit |
 | `checkpoint.json` | trạng thái DONE / IN_PROGRESS / BLOCKED và điểm tiếp tục | tay |
@@ -46,6 +47,8 @@ Cấu hình duy nhất cho ma trận: `scripts/seo/seo-matrix-config.yml` (URL c
 | `build-inventory.py` | kiểm kê + audit từ `_posts`, matrix, taxonomy và HTML đã render (đọc-only) |
 | `build-matrix.py` | Keyword–Intent Map (12 nhóm), ánh xạ 34 nhóm, cannibalization, gợi ý liên kết |
 | `enrich-inventory.py` | thêm vào `url-inventory.csv`: `seo_role`, `cannibalization_role`, `keyword_groups`, `secondary_keywords`, `needs_action`, `fix_priority`, `action_status`, `staleness_risk`, `stale_signals` |
+| `slugs.py` | hàm slug dùng chung (slug đúng, slug cũ thiếu chữ đ, nhận diện khớp tuyệt đối); khóa bởi `TestSeoSlugForms` |
+| `slug-d-audit.py` | audit slug thiếu chữ đ: bản đồ OLD → NEW, va chạm, liên kết nội bộ, ràng buộc phải đổi, lý do chặn (đọc-only) |
 | `build-leads.py` | chọn bài chủ lực cho từng hub con → `_data/seo-leads.yml` (sinh tự động, không sửa tay) |
 | `validate-hub-intros.py` | kiểm phần giới thiệu pillar/hub (không chữ số, không từ cấm, liên kết hợp lệ, không trùng) và ghi vào `.md` khi PASS |
 | `seo-matrix-config.yml` | cấu hình duy nhất: URL chủ lực, regex nhóm từ khóa/chủ đề |
