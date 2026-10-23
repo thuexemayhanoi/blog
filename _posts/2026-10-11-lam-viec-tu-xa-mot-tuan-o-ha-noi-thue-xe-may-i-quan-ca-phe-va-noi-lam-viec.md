@@ -67,7 +67,7 @@ Mưa là yếu tố cần tính trước. Trời mưa, đường vốn đông c�
 
 ## Chọn xe và chốt thuê cho cả tuần
 
-Với kiểu đi ngắn, dừng đỗ nhiều lần trong ngày, xe tay ga là lựa chọn dễ chịu: không phải đổi số, lên xuống nhẹ nhàng, cốp để được áo mưa và đồ nhỏ. Honda Vision thuê theo tuần hiện ở mức từ 800 nghìn đồng đến 1 triệu đồng. Nếu cần xe điện hoặc xe 50cc, hãy liên hệ để xác nhận giá hiện tại.
+Với kiểu đi ngắn, dừng đỗ nhiều lần trong ngày, xe tay ga là lựa chọn dễ chịu: không phải đổi số, lên xuống nhẹ nhàng, cốp để được áo mưa và đồ nhỏ. Honda Vision thuê theo tuần hiện ở mức 1 triệu đồng. Nếu cần xe điện hoặc xe 50cc, hãy liên hệ để xác nhận giá hiện tại.
 
 Có vài việc nên chốt từ trước:
 

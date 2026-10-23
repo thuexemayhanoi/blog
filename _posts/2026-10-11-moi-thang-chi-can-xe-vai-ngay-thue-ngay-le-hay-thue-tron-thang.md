@@ -28,10 +28,10 @@ Kế đến, ghi chú các ngày ấy nằm liền nhau hay rải rác, vì hai 
 
 Dưới đây là mức giá của cửa hàng cho một số dòng xe phổ biến. Giá có thể thay đổi, nên hãy dùng chúng để tập tính, rồi xác nhận lại giá hiện tại trước khi đặt xe.
 
-- Honda Wave: 150 nghìn đồng một ngày; giá tuần và giá tháng cần xác nhận trực tiếp với cửa hàng.
-- Honda Vision: 200 nghìn đồng một ngày, từ 800 nghìn đồng đến 1 triệu đồng một tuần, từ 1,8 triệu đồng đến 2 triệu đồng một tháng.
-- Honda Air Blade: 200 nghìn đồng một ngày, 800 nghìn đồng một tuần, 1,4 triệu đồng một tháng.
-- Honda Click hoặc Yamaha Mio: 150 nghìn đồng một ngày, từ 600 nghìn đồng đến 700 nghìn đồng một tuần, từ 1 triệu đồng đến 1,2 triệu đồng một tháng.
+- Honda Wave: 150 nghìn đồng một ngày, 700 nghìn đồng một tuần, từ 900 nghìn đồng đến 1,2 triệu đồng một tháng.
+- Honda Vision: 200 nghìn đồng một ngày, 1 triệu đồng một tuần, từ 1,8 triệu đồng đến 2 triệu đồng một tháng.
+- Honda Air Blade: 200 nghìn đồng một ngày, 1 triệu đồng một tuần, 1,5 triệu đồng một tháng.
+- Honda Click hoặc Yamaha Mio: 150 nghìn đồng một ngày, 700 nghìn đồng một tuần, từ 900 nghìn đồng đến 1,2 triệu đồng một tháng.
 
 Hãy chọn một dòng xe và chỉ dùng số của dòng đó. Tỉ lệ giữa giá tháng và giá ngày không giống nhau ở mọi dòng xe, nên mốc tính cho xe này không áp sang xe khác được.
 
@@ -44,7 +44,7 @@ Câu hỏi bao nhiêu ngày thì nên thuê tháng chỉ cần một phép chia 
 3. Kết quả là số ngày hòa vốn, gọi gọn là mốc. Bạn dùng ít ngày hơn mốc thì thuê lẻ nhẹ ví hơn, dùng nhiều hơn thì gói tháng có lợi.
 4. Ra số lẻ thì làm tròn xuống cho an toàn.
 
-Thử với Honda Air Blade: lấy 1,4 triệu đồng chia cho 200 nghìn đồng, kết quả chính là mốc của dòng xe này. Cách chia ấy dùng được cả cho gói tuần: lấy giá tuần chia cho giá ngày, bạn biết trong một tuần cần dùng mấy ngày thì gói tuần bắt đầu lợi.
+Thử với Honda Air Blade: lấy 1,5 triệu đồng chia cho 200 nghìn đồng, kết quả chính là mốc của dòng xe này. Cách chia ấy dùng được cả cho gói tuần: lấy giá tuần chia cho giá ngày, bạn biết trong một tuần cần dùng mấy ngày thì gói tuần bắt đầu lợi.
 
 Với Honda Vision hay Honda Click, giá tháng là một khoảng nên bạn có hai mốc. Số ngày của bạn rơi vào giữa hai mốc thì hãy hỏi cửa hàng mức nào áp dụng cho mình, còn chỉ kém mốc vài ngày cũng đừng kết luận vội, vì giá chưa nói hết mọi thứ.
 
@@ -80,6 +80,6 @@ Tất cả gói gọn trong một buổi tối:
 1. Đếm ngày dùng xe của hai ba tháng gần nhất, ghi rõ ngày liền nhau và ngày rải rác.
 2. Chọn một dòng xe, lấy giá tháng chia cho giá ngày để ra mốc hòa vốn.
 3. Tính thêm chỗ để xe và quãng đường tới cửa hàng vào cách thuê bạn đang nghiêng về.
-4. Gọi Nguyễn Tú theo số 0942 467 674 trong giờ cửa hàng hoạt động để hỏi và xác nhận giá hiện tại, giá tuần và tháng của Honda Wave, cọc và cách tính một ngày thuê trước khi đặt xe.
+4. Gọi Nguyễn Tú theo số 0942 467 674 trong giờ cửa hàng hoạt động để hỏi và xác nhận giá hiện tại, giá tuần và tháng của dòng xe bạn chọn, cọc và cách tính một ngày thuê trước khi đặt xe.
 
 Khi đã chọn xong, phần [hướng dẫn thuê xe máy ở Hà Nội](/thue-xe/) sẽ giúp bạn chuẩn bị cho lần nhận xe đầu tiên.

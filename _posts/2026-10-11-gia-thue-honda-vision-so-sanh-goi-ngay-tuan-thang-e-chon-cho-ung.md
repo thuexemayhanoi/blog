@@ -23,10 +23,10 @@ Với [Honda Vision](/xe-may/honda-vision/), các mức tham khảo gồm:
 | Gói thuê | Mức giá tham khảo |
 |---|---|
 | Theo ngày | 200.000đ/ngày |
-| Theo tuần | 800.000đ đến 1 triệu đồng/tuần |
+| Theo tuần | 1 triệu đồng/tuần |
 | Theo tháng | 1,8 đến 2 triệu đồng/tháng |
 
-Gói tuần và gói tháng được báo theo một khoảng, nên mức cụ thể cho chuyến của bạn cần hỏi trực tiếp. Đây là giá tham khảo, hãy xác nhận giá hiện tại với Nguyễn Tú trước khi đặt xe.
+Gói tháng được báo theo một khoảng, nên mức cụ thể cho chuyến của bạn cần hỏi trực tiếp. Đây là giá tham khảo, hãy xác nhận giá hiện tại với Nguyễn Tú trước khi đặt xe.
 
 Điều đáng nhớ: ba gói không so với nhau bằng cảm giác "dài thì rẻ", mà bằng một phép nhân đơn giản. Phần dưới đây làm phép nhân đó từng bước.
 
@@ -40,13 +40,13 @@ Vision là xe tay ga: vặn ga là đi, không phải đổi số, nên người
 
 ## Thuê Honda Vision theo tuần: mốc ngày cần nhớ
 
-Gói tuần nằm trong khoảng 800.000đ đến 1 triệu đồng. Đặt cạnh giá ngày, bạn có ba mốc dễ nhớ:
+Gói tuần là 1 triệu đồng. Đặt cạnh giá ngày, bạn có ba mốc dễ nhớ:
 
-- Bốn ngày tính theo ngày là 800.000đ, bằng đúng mức thấp của gói tuần.
-- Năm ngày tính theo ngày là 1 triệu đồng, bằng mức cao của gói tuần.
-- Sáu ngày là 1,2 triệu đồng và bảy ngày là 1,4 triệu đồng, đều vượt khoảng giá tuần.
+- Bốn ngày tính theo ngày là 800.000đ, thấp hơn gói tuần.
+- Năm ngày tính theo ngày là 1 triệu đồng, bằng đúng gói tuần.
+- Sáu ngày là 1,2 triệu đồng và bảy ngày là 1,4 triệu đồng, đều vượt giá tuần.
 
-Từ đó rút ra quy tắc: đi từ bốn ngày trở xuống thì cứ tính theo ngày. Đúng năm ngày thì hai cách gần ngang nhau, tùy mức tuần bạn được báo. Từ sáu ngày trở lên, hãy hỏi gói tuần trước, vì tính theo ngày sẽ đắt hơn thấy rõ.
+Từ đó rút ra quy tắc: đi từ bốn ngày trở xuống thì cứ tính theo ngày. Đúng năm ngày thì hai cách ngang nhau. Từ sáu ngày trở lên, hãy hỏi gói tuần trước, vì tính theo ngày sẽ đắt hơn thấy rõ.
 
 Có một chỗ dễ nhầm. Nếu bạn định đi năm hay sáu ngày nhưng chọn gói tuần, về mặt giá bạn đang tính cho cả tuần. Nguyên tắc tính thế nào khi trả xe sớm hơn dự định là câu cần hỏi rõ, đừng tự suy ra.
 
@@ -54,9 +54,9 @@ Có một chỗ dễ nhầm. Nếu bạn định đi năm hay sáu ngày nhưng 
 
 Gói tháng là 1,8 đến 2 triệu đồng. Hãy so nó với việc cộng dồn gói tuần:
 
-- Hai tuần là 1,6 đến 2 triệu đồng.
-- Ba tuần là 2,4 đến 3 triệu đồng.
-- Bốn tuần là 3,2 đến 4 triệu đồng.
+- Hai tuần là 2 triệu đồng.
+- Ba tuần là 3 triệu đồng.
+- Bốn tuần là 4 triệu đồng.
 
 Còn nếu cứ tính từng ngày cho đủ ba mươi ngày, con số lên tới 6 triệu đồng. Vì vậy mốc nên cân nhắc gói tháng là khi kế hoạch của bạn vượt khoảng hai tuần. Chia đều ra, mỗi ngày chỉ còn vài chục nghìn đồng, thấp hơn hẳn mức 200.000đ của gói ngày.
 
@@ -66,7 +66,7 @@ Gói tháng hợp với người đi làm hằng ngày, sinh viên học ngắn 
 
 **Nhóm bạn đi chơi cuối tuần.** Bạn từ thành phố khác ra Hà Nội ba ngày, loanh quanh khu phố cổ, Hồ Tây rồi chạy dọc đoạn đê ven sông Hồng lúc chiều. Ba ngày nhân 200.000đ là 600.000đ, thấp hơn mọi gói tuần. Chọn gói ngày, và nếu thích xe, cứ nối thêm ngày. Cách này cũng hợp khi thời tiết đổi: gặp hôm mưa phùn mà bạn muốn ở lại quán cà phê, kế hoạch thay đổi cũng không kéo theo khoản trả trước cho cả tuần.
 
-**Người đi công tác một tuần.** Bạn ở khu Cầu Giấy bảy ngày, mỗi sáng chạy vào nội thành họp. Tính theo ngày là 1,4 triệu đồng, trong khi gói tuần chỉ 800.000đ đến 1 triệu đồng. Ở mốc này gói tuần thường hợp hơn, và bạn còn khỏi nhẩm lại hằng ngày.
+**Người đi công tác một tuần.** Bạn ở khu Cầu Giấy bảy ngày, mỗi sáng chạy vào nội thành họp. Tính theo ngày là 1,4 triệu đồng, trong khi gói tuần chỉ 1 triệu đồng. Ở mốc này gói tuần thường hợp hơn, và bạn còn khỏi nhẩm lại hằng ngày.
 
 **Người mới chuyển lên Hà Nội.** Bạn vừa nhận việc, chưa mua xe, thuê trọ trong một ngõ nhỏ và cần đi làm đều đặn khoảng hai tháng. Hai lần gói tháng là 3,6 đến 4 triệu đồng, trong khi cộng gói tuần cho tám tuần thì cao hơn nhiều. Đây là tình huống gói tháng rõ ràng thắng.
 
@@ -74,7 +74,7 @@ Gói tháng hợp với người đi làm hằng ngày, sinh viên học ngắn 
 
 Giá thuê chỉ là một phần của hóa đơn cuối cùng. Trước khi đặt xe, hãy hỏi và xác nhận với Nguyễn Tú những điểm sau:
 
-- Giá gói tuần và gói tháng hiện tại là bao nhiêu trong khoảng đã nêu, vì mức giá có thể được cập nhật.
+- Giá gói tuần và gói tháng hiện tại là bao nhiêu, vì mức giá có thể được cập nhật.
 - Cọc cần xác nhận trực tiếp, không nên tự đoán qua tin nhắn của người khác.
 - Trả xe sớm hoặc muộn hơn dự định thì được tính ra sao.
 - Giấy tờ cần chuẩn bị và những gì đi kèm xe khi nhận.
@@ -87,7 +87,7 @@ Nếu còn phân vân Vision có hợp với dáng người và quãng đường
 ## Cách chốt gói nhanh trong ba bước
 
 1. Đếm số ngày bạn thực sự cần xe, cộng thêm một ngày dự phòng nếu lịch hay đổi.
-2. Nhân số ngày với 200.000đ, rồi đặt cạnh khoảng giá tuần, khoảng giá tháng ở trên.
+2. Nhân số ngày với 200.000đ, rồi đặt cạnh giá tuần và khoảng giá tháng ở trên.
 3. Chọn gói có tổng thấp hơn, và hỏi lại điều kiện đổi gói nếu kế hoạch kéo dài.
 
 Bạn có thể gọi Thuê Xe Máy Hà Nội Nguyễn Tú qua số 0942 467 674 hoặc ghé 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên trong khung 09:00 đến 21:00 để hỏi giá hiện tại, vì xe không giao ngoài giờ này. Nếu muốn xem các dòng xe khác trước khi quyết định, hãy ghé [danh mục thuê xe máy](/xe-may/) rồi quay lại tính gói cho đúng với chiếc xe bạn chọn.

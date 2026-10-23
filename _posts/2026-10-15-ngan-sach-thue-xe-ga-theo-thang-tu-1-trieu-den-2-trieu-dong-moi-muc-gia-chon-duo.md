@@ -21,11 +21,11 @@ Rất nhiều cuộc gọi tới tiệm bắt đầu bằng một câu: em có k
 
 Tiệm có ba lựa chọn xe ga cho thuê tháng, giá như sau:
 
-- Honda Click hoặc Yamaha Mio: 1.000.000–1.200.000 đ một tháng. Thuê tuần 600.000–700.000 đ, thuê ngày 150.000 đ.
-- Honda Air Blade: 1.400.000 đ một tháng. Thuê tuần 800.000 đ, thuê ngày 200.000 đ.
-- Honda Vision: 1.800.000–2.000.000 đ một tháng. Thuê tuần 800.000–1.000.000 đ, thuê ngày 200.000 đ.
+- Honda Click hoặc Yamaha Mio: 900.000–1.200.000 đ một tháng. Thuê tuần 700.000 đ, thuê ngày 150.000 đ.
+- Honda Air Blade: 1.500.000 đ một tháng. Thuê tuần 1.000.000 đ, thuê ngày 200.000 đ.
+- Honda Vision: 1.800.000–2.000.000 đ một tháng. Thuê tuần cũng 1.000.000 đ, thuê ngày 200.000 đ.
 
-Với dòng có khoảng giá, mức cụ thể cho chiếc bạn nhận sẽ được báo khi đặt xe, nên ngân sách sát nút thì hỏi ngay từ đầu. Honda Wave là xe số, giá ngày 150.000 đ, chưa công bố giá tháng. Xe máy điện thì liên hệ để kiểm tra giá hiện tại. Toàn bộ mức giá cập nhật nằm ở trang [bảng giá thuê xe](/bang-gia/).
+Với dòng có khoảng giá, mức cụ thể cho chiếc bạn nhận sẽ được báo khi đặt xe, nên ngân sách sát nút thì hỏi ngay từ đầu. Honda Wave là xe số, giá ngày 150.000 đ, giá tháng 900.000–1.200.000 đ. Xe máy điện thì liên hệ để kiểm tra giá hiện tại. Toàn bộ mức giá cập nhật nằm ở trang [bảng giá thuê xe](/bang-gia/).
 
 ## Ngân sách khoảng 1 triệu: Click hoặc Mio
 
@@ -33,12 +33,12 @@ Với dòng có khoảng giá, mức cụ thể cho chiếc bạn nhận sẽ đ
 
 Có hai điều cần nói thẳng ở mức này:
 
-1. Khoảng giá của dòng này đi từ 1.000.000 đ tới 1.200.000 đ. Nếu ngân sách cứng đúng 1 triệu, hãy hỏi trước còn chiếc nào ở mức 1.000.000 đ không.
+1. Khoảng giá của dòng này đi từ 900.000 đ tới 1.200.000 đ. Nếu ngân sách cứng đúng 1 triệu, hãy hỏi trước còn chiếc nào ở mức không quá 1.000.000 đ không.
 2. Nếu 1 triệu là tổng cho cả xăng và gửi xe thì số đó chỉ vừa tiền thuê. Xăng và gửi xe phải lấy từ một khoản khác, đừng để tới giữa tháng mới phát hiện.
 
-## Ngân sách khoảng 1,5 triệu: Air Blade hoặc Click có dư
+## Ngân sách khoảng 1,5 triệu: Air Blade vừa đủ, Click còn dư
 
-Ở mức này bạn có hai hướng. Hướng thứ nhất là Air Blade 1.400.000 đ một tháng: xe ngồi đầm, chắc tay khi qua cầu lúc gió to hay đi quãng dài, hợp người chở thêm người nhà hoặc phải chạy nhiều điểm trong ngày.
+Ở mức này bạn có hai hướng. Hướng thứ nhất là Air Blade 1.500.000 đ một tháng, vừa đúng ngân sách và chưa tính xăng, gửi xe: xe ngồi đầm, chắc tay khi qua cầu lúc gió to hay đi quãng dài, hợp người chở thêm người nhà hoặc phải chạy nhiều điểm trong ngày.
 
 Hướng thứ hai là vẫn thuê Click hoặc Mio, phần còn lại dành cho xăng và gửi xe. Tôi hay gợi ý hướng này cho sinh viên hoặc người mới đi làm, vì tổng chi cả tháng nằm gọn trong 1,5 triệu dễ hơn. Còn nếu ngày nào cũng đi từ Long Biên sang Cầu Giấy hay Thanh Xuân, tôi nghiêng về Air Blade vì quãng đường dài ngồi đỡ mỏi hơn.
 
@@ -46,7 +46,7 @@ Hướng thứ hai là vẫn thuê Click hoặc Mio, phần còn lại dành cho
 
 Vision 1.800.000–2.000.000 đ một tháng là dòng được nhiều người hỏi nhất, nhất là chị em đi làm, vì dáng xe gọn, dễ lên xuống và chống chân. Nếu 2 triệu là riêng tiền thuê xe, Vision là lựa chọn hợp lý.
 
-Nhưng nếu 2 triệu phải bao cả xăng và gửi xe, Vision gần như ăn hết ngân sách. Khi đó Air Blade với giá 1.400.000 đ để lại một khoản đủ rộng cho chi phí đi lại, còn Click hoặc Mio thì dư hơn nữa. Đừng chọn xe chỉ theo giá thuê, hãy chọn theo tổng chi cả tháng.
+Nhưng nếu 2 triệu phải bao cả xăng và gửi xe, Vision gần như ăn hết ngân sách. Khi đó Air Blade với giá 1.500.000 đ để lại một khoản đủ cho chi phí đi lại, còn Click hoặc Mio thì dư hơn nữa. Đừng chọn xe chỉ theo giá thuê, hãy chọn theo tổng chi cả tháng.
 
 ## Cộng thêm tiền xăng và tiền gửi xe
 

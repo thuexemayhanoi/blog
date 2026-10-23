@@ -31,7 +31,7 @@ Nếu tuần nào cũng có ba, bốn buổi đi làm thêm buổi tối ở qu�
 
 ## Giá và thủ tục khi thuê theo tháng
 
-Theo bảng giá đã công bố, Honda Wave thuê theo ngày là 150.000 đồng. Wave chưa có mức giá tuần hay tháng niêm yết sẵn, nên giá tháng cần liên hệ cửa hàng để xác nhận trực tiếp theo thời gian thuê và tình trạng xe; đừng tự lấy giá ngày nhân lên để đoán. Cách đọc bảng giá và những dòng xe đã có mức tháng nằm ở trang [bảng giá](/bang-gia/).
+Theo bảng giá đã công bố, Honda Wave thuê theo ngày là 150.000 đồng, theo tuần 700.000 đồng và theo tháng từ 900.000 đến 1.200.000 đồng. Giá tháng cụ thể cần xác nhận trực tiếp với cửa hàng theo thời gian thuê và tình trạng xe; đừng tự lấy giá ngày nhân lên để đoán. Cách đọc bảng giá và các dòng xe khác nằm ở trang [bảng giá](/bang-gia/).
 
 Tiền cọc và loại giấy tờ cần mang cũng hỏi rõ trực tiếp trước khi đến. Nếu cửa hàng giữ giấy tờ gì của bạn, hãy xin biên nhận ghi rõ tên giấy tờ và chụp lại để lưu trong điện thoại. Xe có thể được giao tới chỗ trọ trong giờ cửa hàng mở, từ 09:00 đến 21:00, với thời gian và chi phí giao xác nhận trước khi đặt. Những điều cần ghi trong hợp đồng tháng đã được nói trong bài [sinh viên thuê xe máy theo tháng: chọn xe và tiết kiệm chi phí](/thue-xe/2026/10/01/sinh-vien-thue-xe-may-theo-thang-chon-xe-va-tiet-kiem-chi-phi/), ở đây chỉ nhắc thêm: hẹn luôn ngày trả và cách báo nếu muốn gia hạn sang tháng sau.
 

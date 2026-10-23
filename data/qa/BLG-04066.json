@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1232,
+  "word_count": 1193,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,9 +47,42 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-16-moi-mua-xe-may-dang-cho-lam-dang-ky-bien-so-thue-xe-tam-vai-ngay-tinh-theo-ngay.md",
-  "content_sha256": "740c9b8cb19c19b94befedc2061ddb0183f7aea81114a74d66375af524f1d1fc",
+  "content_sha256": "6d950c00c24e6bd2f17003e0f6abcd204679f5d5f1d2273b30565eb71ed0846a",
   "matrix_row_sha256": "ac061c1d6f749e8f2cafd5a0c4ca60373ed4fc82ad3e64de18cd0d9e61d57d74",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-15T18:19:39+00:00"
+  "published_at": "2026-10-15T18:19:39+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "content-revision",
+    "purpose": "price-sync",
+    "reason": "Đồng bộ giá thuê tuần/tháng với _data/pricing.yml (bảng giá chủ xe duyệt)",
+    "approval_ref": "OWNER-MASTER-WORK-2026-10-23: phê duyệt AI chủ động sửa lỗi, tạo PR, kiểm thử, merge khi đạt điều kiện an toàn; sửa bài PUBLISHED qua quy trình bảo trì + chấm lại độc lập (MASTER WORK — NGUYỄN TÚ BLOG SEO FULL REPAIR A–Z, 23/10/2026)",
+    "batch_id": "revise-20261023-price-05",
+    "revised_at": "2026-10-23T08:28:05+00:00",
+    "previous_evidence_sha256": "c7cb62b21525e77125d2640fdc1a1306d2ef57a1188fd73562b7db4537888e9a",
+    "previous_content_sha256": "740c9b8cb19c19b94befedc2061ddb0183f7aea81114a74d66375af524f1d1fc",
+    "previous_matrix_row_sha256": "ac061c1d6f749e8f2cafd5a0c4ca60373ed4fc82ad3e64de18cd0d9e61d57d74",
+    "new_content_sha256": "6d950c00c24e6bd2f17003e0f6abcd204679f5d5f1d2273b30565eb71ed0846a",
+    "edit_count": 8,
+    "edits_sha256": "ed573ff073fea10e152b0c26677593232d882d76d49f5fce1e5b3587d80975c6",
+    "chars_changed": 1061,
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/revise-published.py",
+    "tool_commit": "9a6460d76a6fe4c64c690d77d27107e101d2cb9e",
+    "tool_sha256": "86f44d47bbca6fd0822065a75bc34927bc592326518f0df4fea798c022acca84",
+    "scorer_code_sha256": "29894c883d01b7d840f5731884fd62b2a31238391f403aec361a046cc313c10f",
+    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+  }
 }

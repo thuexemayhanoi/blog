@@ -67,7 +67,7 @@ Trước khi nhận xe, bạn nên nhìn lốp xem có xẹp không, thử bóp 
 
 Người quan tâm chi phí hay quên rằng giá thuê mỗi ngày thường lớn hơn khoản chênh xăng. Mức giá tham khảo: Honda Wave 150.000đ/ngày, Honda Vision 200.000đ/ngày, còn Honda Click và Yamaha Mio, hai dòng ga phổ thông, cũng 150.000đ/ngày. Với vài chục cây số nội thành mỗi ngày, phần xăng chênh giữa xe ga và xe số thường nhỏ hơn nhiều so với phần chênh giá thuê giữa hai dòng.
 
-Thuê dài ngày thì bài toán khác. Chẳng hạn Honda Air Blade 1,4 triệu đồng/tháng, nếu ngày nào cũng đi làm thì tiền xăng cộng dồn cả tháng mới thành khoản đáng kể. Để so các gói thuê với nhau, bạn có thể đọc bài [thuê theo ngày và theo tuần khác nhau thế nào về chi phí](/xe-may/2026/09/29/thue-theo-ngay-va-thue-theo-tuan-chi-phi-khac-nhau-the-nao/). Các mức giá trên là tham khảo tại Nguyễn Tú, bạn gọi 0942 467 674 (09:00–21:00) để xác nhận giá hiện tại và xe còn trống trước khi đặt.
+Thuê dài ngày thì bài toán khác. Chẳng hạn Honda Air Blade 1,5 triệu đồng/tháng, nếu ngày nào cũng đi làm thì tiền xăng cộng dồn cả tháng mới thành khoản đáng kể. Để so các gói thuê với nhau, bạn có thể đọc bài [thuê theo ngày và theo tuần khác nhau thế nào về chi phí](/xe-may/2026/09/29/thue-theo-ngay-va-thue-theo-tuan-chi-phi-khac-nhau-the-nao/). Các mức giá trên là tham khảo tại Nguyễn Tú, bạn gọi 0942 467 674 (09:00–21:00) để xác nhận giá hiện tại và xe còn trống trước khi đặt.
 
 ## Chọn xe theo hành trình của bạn
 

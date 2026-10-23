@@ -44,7 +44,7 @@ Có nơi nhận giữ xe hộ, có nơi không, đừng mặc định. Với Ngu
 
 ## Trả xe rồi thuê lại hay giữ nguyên kỳ thuê
 
-Thuê theo tuần thường có đơn giá mỗi ngày thấp hơn thuê lẻ. Ví dụ Honda Air Blade giá ngày là 200 nghìn đồng, giá tuần là 800 nghìn đồng. Honda Vision giá tuần từ 800 nghìn đồng đến 1 triệu đồng. Với Honda Wave, hãy liên hệ Nguyễn Tú để xác nhận giá tuần. Các mức giá chỉ để tham khảo, nên xác nhận lại trước khi đặt.
+Thuê theo tuần thường có đơn giá mỗi ngày thấp hơn thuê lẻ. Ví dụ Honda Air Blade giá ngày là 200 nghìn đồng, giá tuần là 1 triệu đồng. Honda Vision giá tuần cũng là 1 triệu đồng. Honda Wave giá ngày là 150 nghìn đồng, giá tuần là 700 nghìn đồng. Các mức giá chỉ để tham khảo, nên xác nhận lại trước khi đặt.
 
 Khi cắt kỳ thuê thành hai đoạn, đoạn thuê lại có thể bị tính theo cách khác kỳ tuần ban đầu. Cách tính này nằm trong chuyện lớn hơn về [thuê theo tuần khác gì thuê theo ngày](/thue-xe/2026/09/27/thue-theo-tuan-khac-gi-thue-theo-ngay/), đáng đọc trước khi quyết.
 

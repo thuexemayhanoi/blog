@@ -57,7 +57,7 @@ Xe thuê thường chỉ kèm một chìa khóa, nên quy ước ai giữ chìa 
 
 ## Chia tiền thuê, xăng và phát sinh sao cho sòng phẳng
 
-Tiền thuê là phần dễ nhất. Ví dụ Honda Vision giá 200 nghìn đồng mỗi ngày, chia đôi thì mỗi người 100 nghìn đồng; thuê theo tuần khoảng 800 nghìn đồng đến 1 triệu đồng. Giá cụ thể nên xác nhận lại lúc đặt xe.
+Tiền thuê là phần dễ nhất. Ví dụ Honda Vision giá 200 nghìn đồng mỗi ngày, chia đôi thì mỗi người 100 nghìn đồng; thuê theo tuần khoảng 1 triệu đồng. Giá cụ thể nên xác nhận lại lúc đặt xe.
 
 Phần khó là chuyện phát sinh. Hai bạn nên nói trước:
 
