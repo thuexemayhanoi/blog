@@ -79,6 +79,6 @@ Buổi tối, đèn đường thưa ở ngoại thành càng làm khó ước l�
 
 ## Trước khi nhận xe: thử ga ở chỗ vắng
 
-Khi nhận Air Blade ở tiệm 112 Nguyễn Văn Cừ, Long Biên, hãy dành vài phút chạy thử trên đoạn vắng gần đó: vặn ga nhẹ, xem kim đồng hồ phản ứng nhanh thế nào, thử nhả ga và phanh. Giá thuê Air Blade ở tiệm là 200.000 đồng/ngày, 800.000 đồng/tuần và 1.400.000 đồng/tháng; mức cọc và chi phí giao nhận xe xác nhận trực tiếp với tiệm trước khi đặt, giao nhận chỉ trong giờ 09:00–21:00.
+Khi nhận Air Blade ở tiệm 112 Nguyễn Văn Cừ, Long Biên, hãy dành vài phút chạy thử trên đoạn vắng gần đó: vặn ga nhẹ, xem kim đồng hồ phản ứng nhanh thế nào, thử nhả ga và phanh. Giá thuê Air Blade ở tiệm là 200.000 đồng/ngày, 1.000.000 đồng/tuần và 1.500.000 đồng/tháng; mức cọc và chi phí giao nhận xe xác nhận trực tiếp với tiệm trước khi đặt, giao nhận chỉ trong giờ 09:00–21:00.
 
 Tóm lại, Air Blade chạy quá tốc độ chủ yếu vì xe bốc nhanh và đường thoáng đánh lừa cảm giác. Nhớ mức trần theo quy định, luôn ưu tiên biển báo trên đường, liếc đồng hồ theo nhịp và giữ ga đều là đủ để đi đúng luật. Thông tin khác về dòng xe này có ở trang [Honda Air Blade](/xe-may/honda-air-blade/), các dòng xe khác nằm trong chuyên mục [xe máy](/xe-may/).

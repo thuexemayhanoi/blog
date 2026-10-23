@@ -76,7 +76,7 @@ Kiểm xe xong, quay lại quầy để chốt những điều còn lại:
 
 - **Giấy tờ xe đi kèm.** Hỏi tiệm giấy tờ nào đi theo xe, kiểm tra biển số trên giấy khớp với biển trên xe, rồi cất ở chỗ khô ráo, dễ lấy.
 - **Tiền cọc.** Mức cọc và hình thức cọc được xác nhận trực tiếp với tiệm. Nếu bạn để lại giấy tờ gì, hỏi rõ và xin biên nhận.
-- **Giá và gói thuê.** Giá Vision theo ngày là 200.000 đồng; gói tuần 800.000–1.000.000 đồng. Hỏi rõ gói bạn đang thuê tính từ giờ nào.
+- **Giá và gói thuê.** Giá Vision theo ngày là 200.000 đồng; gói tuần 1.000.000 đồng. Hỏi rõ gói bạn đang thuê tính từ giờ nào.
 - **Giờ trả xe.** Chốt ngày giờ trả trong khung 09:00–21:00, và hỏi nếu muốn gia hạn thì báo trước bao lâu.
 - **Số liên hệ.** Lưu số của tiệm 0942467674 vào danh bạ trước khi rời đi.
 

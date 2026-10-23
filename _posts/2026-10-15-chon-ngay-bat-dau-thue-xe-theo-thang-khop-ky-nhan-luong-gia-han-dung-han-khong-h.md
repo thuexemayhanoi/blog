@@ -73,7 +73,7 @@ Tháng nào lương về chậm hơn kỳ gia hạn, hãy báo cửa hàng trư�
 
 Tiền thuê chỉ là một phần chi phí đi lại. Lương về, nên tách cùng lúc một "quỹ xe" gồm:
 
-- **Tiền thuê kỳ tới.** Theo bảng giá của cửa hàng, thuê tháng Honda Vision là 1.800.000–2.000.000 đồng, Honda Air Blade 1.400.000 đồng, Honda Click hoặc Yamaha Mio 1.000.000–1.200.000 đồng. Mức áp dụng cho xe của bạn xem ở [bảng giá](/bang-gia/) và chốt khi đặt.
+- **Tiền thuê kỳ tới.** Theo bảng giá của cửa hàng, thuê tháng Honda Vision là 1.800.000–2.000.000 đồng, Honda Air Blade 1.500.000 đồng, Honda Click hoặc Yamaha Mio 900.000–1.200.000 đồng. Mức áp dụng cho xe của bạn xem ở [bảng giá](/bang-gia/) và chốt khi đặt.
 - **Tiền xăng.** Ghi lại hai tuần đầu đi làm để biết quãng đường hằng ngày tốn chừng nào.
 - **Tiền gửi xe** ở công ty, chung cư hoặc những nơi hay ghé.
 - **Một khoản dự phòng nhỏ** cho áo mưa, rửa xe hay vá lốp dọc đường.

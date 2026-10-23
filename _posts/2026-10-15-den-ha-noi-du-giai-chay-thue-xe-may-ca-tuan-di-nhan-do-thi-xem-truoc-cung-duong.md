@@ -23,7 +23,7 @@ Người đi giải hiếm khi chỉ ở một ngày. Thường bạn đến tr�
 
 Thêm nữa, tiệm mở cửa từ 09:00 đến 21:00, trong khi giải chạy đường phố thường xuất phát lúc trời còn tối. Không ai lấy xe kịp vào sáng ngày đua, nên xe phải nằm trong tay bạn từ mấy hôm trước.
 
-Về tiền, Honda Vision thuê lẻ 200.000 đ một ngày, gói tuần 800.000–1.000.000 đ; Honda Air Blade tuần 800.000 đ; Honda Click hoặc Yamaha Mio tuần 600.000–700.000 đ. Thuê lẻ năm ngày Vision đã chạm mức trên của giá tuần, nên ở từ năm hôm trở lên thì gói tuần có lợi hơn. Chi tiết từng dòng xe nằm ở [bảng giá thuê xe](/bang-gia/).
+Về tiền, Honda Vision thuê lẻ 200.000 đ một ngày, gói tuần 1.000.000 đ; Honda Air Blade tuần 1.000.000 đ; Honda Click hoặc Yamaha Mio tuần 700.000 đ. Thuê lẻ năm ngày Vision đã chạm mức trên của giá tuần, nên ở từ năm hôm trở lên thì gói tuần có lợi hơn. Chi tiết từng dòng xe nằm ở [bảng giá thuê xe](/bang-gia/).
 
 Tôi hay khuyên các bạn chạy bộ lấy xe tay ga có cốp như Vision hoặc Air Blade, đủ chỗ cho túi đồ thi và áo khoác mỏng. Ai quen xe số thì Honda Wave giá 150.000 đ một ngày vẫn ổn.
 

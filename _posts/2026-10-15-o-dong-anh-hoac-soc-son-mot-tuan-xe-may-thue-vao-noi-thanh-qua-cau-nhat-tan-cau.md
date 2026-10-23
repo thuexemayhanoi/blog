@@ -74,9 +74,9 @@ Về tới nhà người quen, dắt xe vào sân có cổng khóa, khóa cổ x
 
 Chạy vài chục cây số mỗi ngày thì nên chọn xe êm, ngồi lâu không mỏi, cốp đủ đựng áo mưa. Giá tuần đã duyệt tại tiệm:
 
-- **Honda Vision:** 800.000–1.000.000 đ/tuần, nhẹ, dễ lái.
-- **Honda Air Blade:** 800.000 đ/tuần, hợp chạy đường dài mỗi ngày.
-- **Honda Click hoặc Yamaha Mio:** 600.000–700.000 đ/tuần.
+- **Honda Vision:** 1.000.000 đ/tuần, nhẹ, dễ lái.
+- **Honda Air Blade:** 1.000.000 đ/tuần, hợp chạy đường dài mỗi ngày.
+- **Honda Click hoặc Yamaha Mio:** 700.000 đ/tuần.
 - **Honda Wave:** 150.000 đ/ngày, cho người quen xe số.
 
 Bảng đầy đủ xem ở trang [bảng giá thuê xe](/bang-gia/). Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00. Nếu cần giao xe lên Đông Anh hay Sóc Sơn, tiệm không giao ngoài giờ mở cửa, còn thời gian và chi phí giao nhận phải xác nhận trước qua số 0942 467 674. Đặt cọc, giấy tờ, mũ bảo hiểm đi kèm hay không, bạn hỏi cửa hàng khi đặt xe. Lúc nhận xe, thử phanh, đèn pha, lốp và gương trước khi rời tiệm.

@@ -27,9 +27,9 @@ Hãy bắt đầu từ giờ cất cánh rồi đếm ngược, đừng đếm x
 
 Với khoảng năm đến bảy ngày, gói tuần thường gọn hơn cộng lẻ từng ngày, nhưng hãy nhờ tiệm báo giá theo đúng số ngày bạn dùng. Nếu quãng cuối kéo dài chín, mười ngày, bài [ghép một tuần với ngày lẻ](/thue-xe/2026/10/11/thue-xe-may-910-ngay-ghep-mot-tuan-voi-ngay-le-the-nao-cho-gon/) giải thích cách tính cho khỏi lẻ tẻ. Mức giá tham khảo tại tiệm:
 
-- **Honda Vision:** 200.000 đ một ngày, gói tuần 800.000–1.000.000 đ. Cốp rộng, chở hồ sơ, đồ mua sắm gọn gàng.
-- **Honda Air Blade:** 200.000 đ một ngày, gói tuần 800.000 đ. Hợp người phải chạy xa, như về Đông Anh hay Sóc Sơn thăm họ hàng.
-- **Honda Click, Yamaha Mio:** 150.000 đ một ngày, gói tuần 600.000–700.000 đ. Nhẹ, dễ dắt trong ngõ hẹp.
+- **Honda Vision:** 200.000 đ một ngày, gói tuần 1.000.000 đ. Cốp rộng, chở hồ sơ, đồ mua sắm gọn gàng.
+- **Honda Air Blade:** 200.000 đ một ngày, gói tuần 1.000.000 đ. Hợp người phải chạy xa, như về Đông Anh hay Sóc Sơn thăm họ hàng.
+- **Honda Click, Yamaha Mio:** 150.000 đ một ngày, gói tuần 700.000 đ. Nhẹ, dễ dắt trong ngõ hẹp.
 - **Honda Wave:** 150.000 đ một ngày. Xe số quen tay nếu chiếc bạn vừa bán cũng là xe số.
 
 ## Xếp lịch cả tuần: giấy tờ trước, chào người thân sau

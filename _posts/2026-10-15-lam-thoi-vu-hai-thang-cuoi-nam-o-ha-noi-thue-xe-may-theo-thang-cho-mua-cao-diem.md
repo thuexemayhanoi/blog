@@ -39,11 +39,11 @@ Kho thường nằm ở rìa thành phố như phía Gia Lâm, Đông Anh hay Th
 
 ### Đứng quầy cửa hàng, siêu thị trong phố
 
-Nếu chỗ làm ở Hoàn Kiếm, Đống Đa hay Cầu Giấy, bạn sẽ đi nhiều trong phố đông và gửi xe ở bãi chật. Xe ga nhỏ như Honda Click hoặc Yamaha Mio gọn, có cốp để áo mưa và hộp cơm trưa. Giá tháng của hai mẫu này từ 1.000.000 đến 1.200.000 đ, theo tuần từ 600.000 đến 700.000 đ.
+Nếu chỗ làm ở Hoàn Kiếm, Đống Đa hay Cầu Giấy, bạn sẽ đi nhiều trong phố đông và gửi xe ở bãi chật. Xe ga nhỏ như Honda Click hoặc Yamaha Mio gọn, có cốp để áo mưa và hộp cơm trưa. Giá tháng của hai mẫu này từ 900.000 đến 1.200.000 đ, theo tuần 700.000 đ.
 
 ### Chạy sự kiện, tiệc cuối năm
 
-Làm sự kiện hay phải đi nhiều địa điểm trong ngày, mang theo đồ nghề và đồng phục, có hôm tan rất muộn. Honda Air Blade thuê tháng 1.400.000 đ, hoặc Honda Vision thuê tháng từ 1.800.000 đến 2.000.000 đ, cho cốp rộng hơn và đi đường dài đỡ mỏi. Giá đầy đủ từng dòng xe có ở trang [bảng giá thuê xe](/bang-gia/).
+Làm sự kiện hay phải đi nhiều địa điểm trong ngày, mang theo đồ nghề và đồng phục, có hôm tan rất muộn. Honda Air Blade thuê tháng 1.500.000 đ, hoặc Honda Vision thuê tháng từ 1.800.000 đến 2.000.000 đ, cho cốp rộng hơn và đi đường dài đỡ mỏi. Giá đầy đủ từng dòng xe có ở trang [bảng giá thuê xe](/bang-gia/).
 
 ## Tính đường đi làm mùa cao điểm cuối năm
 

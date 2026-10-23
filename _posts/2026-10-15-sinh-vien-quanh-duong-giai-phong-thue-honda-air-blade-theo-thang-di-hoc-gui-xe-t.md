@@ -29,7 +29,7 @@ Nếu chỗ trọ chỉ cách cổng trường vài ngõ hoặc bạn mới tậ
 
 ## Giá thuê tháng và thủ tục cần hỏi trước khi nhận xe
 
-Theo bảng giá đã công bố, Honda Air Blade thuê ngày là 200.000 đồng, thuê tuần 800.000 đồng và thuê tháng 1.400.000 đồng. Mức tháng thường là lựa chọn của người dùng xe đều đặn cả học kỳ; đừng tự lấy giá ngày nhân lên để so, cứ xem trực tiếp trang [bảng giá](/bang-gia/) để đọc đúng từng mức.
+Theo bảng giá đã công bố, Honda Air Blade thuê ngày là 200.000 đồng, thuê tuần 1.000.000 đồng và thuê tháng 1.500.000 đồng. Mức tháng thường là lựa chọn của người dùng xe đều đặn cả học kỳ; đừng tự lấy giá ngày nhân lên để so, cứ xem trực tiếp trang [bảng giá](/bang-gia/) để đọc đúng từng mức.
 
 Tiền cọc và chi phí giao xe không cố định cho mọi trường hợp, bạn hỏi và xác nhận trực tiếp với cửa hàng trước khi chốt. Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00; nếu muốn được giao xe tới chỗ trọ thì hẹn trong khung giờ này. Giấy tờ nào cần mang, tiệm có giữ bản gốc giấy tờ nào hay không, cũng hỏi rõ trực tiếp; nếu có giao giấy tờ, xin biên nhận ghi rõ tên giấy tờ và chụp ảnh lưu lại.
 

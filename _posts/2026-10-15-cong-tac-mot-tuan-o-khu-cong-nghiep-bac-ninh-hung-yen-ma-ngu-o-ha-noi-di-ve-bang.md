@@ -63,9 +63,9 @@ Nếu được chọn chỗ ở, phía Long Biên, Gia Lâm giúp mỗi chiều 
 
 Quãng đi về hằng ngày dài hơn đi lại trong phố khá nhiều, nên xe ga có cốp và yên rộng sẽ đỡ mỏi hơn:
 
-- **Honda Air Blade:** 200.000 đ một ngày, gói tuần 800.000 đ. Máy khỏe, ổn định khi chạy quốc lộ.
-- **Honda Vision:** 200.000 đ một ngày, gói tuần 800.000–1.000.000 đ. Nhẹ, cốp đủ để laptop và áo mưa.
-- **Honda Click, Yamaha Mio:** 150.000 đ một ngày, gói tuần 600.000–700.000 đ, hợp ai muốn tiết kiệm.
+- **Honda Air Blade:** 200.000 đ một ngày, gói tuần 1.000.000 đ. Máy khỏe, ổn định khi chạy quốc lộ.
+- **Honda Vision:** 200.000 đ một ngày, gói tuần 1.000.000 đ. Nhẹ, cốp đủ để laptop và áo mưa.
+- **Honda Click, Yamaha Mio:** 150.000 đ một ngày, gói tuần 700.000 đ, hợp ai muốn tiết kiệm.
 - **Honda Wave:** 150.000 đ một ngày, cho người quen xe số.
 
 Nếu đợt công tác có thể kéo dài, bài [thuê theo tuần hay chuyển sang gói tháng](/thue-xe/2026/10/11/o-ha-noi-hai-en-ba-tuan-thue-theo-tuan-hay-chuyen-sang-goi-thang/) giúp bạn tính trước. Đặt cọc và giấy tờ cần mang xác nhận trực tiếp với cửa hàng khi đặt xe; nhớ mang bằng lái hợp lệ cho loại xe bạn thuê.

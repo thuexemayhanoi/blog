@@ -69,7 +69,7 @@ Chuyến dài ngày qua nhiều loại đường là nơi Wave tỏa sáng: bán
 
 ## Giá thuê có khác nhiều không
 
-Theo bảng giá hiện hành của tiệm, Honda Vision có giá ngày 200.000 đồng, gói tuần 800.000–1.000.000 đồng, gói tháng 1.800.000–2.000.000 đồng. Honda Air Blade cũng 200.000 đồng một ngày, còn Honda Wave 150.000 đồng một ngày. Nghĩa là với chuyến ngắn tính theo ngày, đổi từ Vision sang Air Blade không làm thay đổi giá ngày. Tiền đặt cọc được xác nhận trực tiếp khi đặt. Nếu cần giao xe, tiệm chỉ giao trong giờ 09:00–21:00, thời gian và chi phí hỏi rõ trước. Xem đầy đủ ở trang [bảng giá](/bang-gia/).
+Theo bảng giá hiện hành của tiệm, Honda Vision có giá ngày 200.000 đồng, gói tuần 1.000.000 đồng, gói tháng 1.800.000–2.000.000 đồng. Honda Air Blade cũng 200.000 đồng một ngày, còn Honda Wave 150.000 đồng một ngày. Nghĩa là với chuyến ngắn tính theo ngày, đổi từ Vision sang Air Blade không làm thay đổi giá ngày. Tiền đặt cọc được xác nhận trực tiếp khi đặt. Nếu cần giao xe, tiệm chỉ giao trong giờ 09:00–21:00, thời gian và chi phí hỏi rõ trước. Xem đầy đủ ở trang [bảng giá](/bang-gia/).
 
 ## Vậy có nên thuê Vision không
 

@@ -85,6 +85,6 @@ Sáng hôm sau, đi một vòng quanh xe trước khi xếp đồ về: lốp c�
 
 ## Báo cửa hàng trước khi đi xa qua đêm
 
-Trước chuyến qua đêm ra ngoại thành, hãy báo cửa hàng bạn đi đâu và khi nào về, để tiệm dặn những điểm cần kiểm tra trên xe và liên lạc nhanh nếu xe trục trặc giữa đường. Air Blade ở tiệm có giá thuê 200.000 đồng/ngày, 800.000 đồng/tuần và 1.400.000 đồng/tháng. Mức cọc, thời gian và chi phí giao nhận xe bạn xác nhận trực tiếp với tiệm ở 112 Nguyễn Văn Cừ, Long Biên trước khi đặt; tiệm chỉ giao nhận trong giờ 09:00–21:00.
+Trước chuyến qua đêm ra ngoại thành, hãy báo cửa hàng bạn đi đâu và khi nào về, để tiệm dặn những điểm cần kiểm tra trên xe và liên lạc nhanh nếu xe trục trặc giữa đường. Air Blade ở tiệm có giá thuê 200.000 đồng/ngày, 1.000.000 đồng/tuần và 1.500.000 đồng/tháng. Mức cọc, thời gian và chi phí giao nhận xe bạn xác nhận trực tiếp với tiệm ở 112 Nguyễn Văn Cừ, Long Biên trước khi đặt; tiệm chỉ giao nhận trong giờ 09:00–21:00.
 
 Tóm lại: lọc đồ trước, đồ nặng nhỏ vào cốp, đồ mềm cồng kềnh buộc thấp phía sau, giấy tờ đeo theo người, bình gas cất riêng tránh nóng. Thông tin khác về dòng xe này có ở trang [Honda Air Blade](/xe-may/honda-air-blade/), các dòng xe khác nằm trong chuyên mục [xe máy](/xe-may/).

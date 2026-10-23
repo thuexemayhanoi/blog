@@ -44,9 +44,9 @@ Lớp học tiếng thường kín lịch nhiều ngày trong tuần, nên bạn
 
 Học viên chủ yếu đi trong phố, chở thêm sách vở, thỉnh thoảng chở bạn cùng phòng. Giá theo bảng của cửa hàng:
 
-- **Honda Click, Yamaha Mio**: 1.000.000–1.200.000 đ/tháng, tuần 600.000–700.000 đ. Xe ga nhỏ, dễ đi, hợp túi tiền nhất.
-- **Honda Air Blade**: 1.400.000 đ/tháng, tuần 800.000 đ. Máy khỏe hơn khi hay chở người.
-- **Honda Vision**: 1.800.000–2.000.000 đ/tháng, tuần 800.000–1.000.000 đ. Xe gọn, yên thấp, dễ dắt trong ngõ trọ.
+- **Honda Click, Yamaha Mio**: 900.000–1.200.000 đ/tháng, tuần 700.000 đ. Xe ga nhỏ, dễ đi, hợp túi tiền nhất.
+- **Honda Air Blade**: 1.500.000 đ/tháng, tuần 1.000.000 đ. Máy khỏe hơn khi hay chở người.
+- **Honda Vision**: 1.800.000–2.000.000 đ/tháng, tuần 1.000.000 đ. Xe gọn, yên thấp, dễ dắt trong ngõ trọ.
 - **Honda Wave**: 150.000 đ/ngày; muốn thuê dài thì hỏi cửa hàng giá theo tháng.
 
 Nếu phòng trọ có hai ba bạn cùng học một nơi, đôi khi một chiếc xe chở nhau là đủ. Chỉ cần thống nhất trước ai đứng tên thuê và ai chịu trách nhiệm khi có sự cố.

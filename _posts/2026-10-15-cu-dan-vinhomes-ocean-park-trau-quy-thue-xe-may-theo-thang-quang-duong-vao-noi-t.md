@@ -60,9 +60,9 @@ Sau tuần đầu là có con số đáng tin, vì chạy tắc cầu buổi chi
 
 Với quãng đường dài và nhiều đoạn chạy cùng xe tải, nên ưu tiên xe đầm, yên êm, cốp đủ chứa bộ áo mưa. Các mức giá tháng dưới đây lấy theo [bảng giá](/bang-gia/) của cửa hàng:
 
-- **Honda Air Blade:** 1.400.000 đồng một tháng. Máy khỏe, thân xe đầm, chạy Quốc lộ 5 và lên cầu đỡ chòng chành khi gió ngang. Hợp người đi xa hằng ngày.
+- **Honda Air Blade:** 1.500.000 đồng một tháng. Máy khỏe, thân xe đầm, chạy Quốc lộ 5 và lên cầu đỡ chòng chành khi gió ngang. Hợp người đi xa hằng ngày.
 - **Honda Vision:** 1.800.000–2.000.000 đồng một tháng. Nhẹ, yên thấp, dễ dắt trong hầm chung cư, hợp người nhỏ người hoặc mới đi xe ga.
-- **Honda Click, Yamaha Mio:** 1.000.000–1.200.000 đồng một tháng. Lựa chọn tiết kiệm nếu ngân sách eo hẹp, nhưng chặng dài sẽ thấy mỏi hơn.
+- **Honda Click, Yamaha Mio:** 900.000–1.200.000 đồng một tháng. Lựa chọn tiết kiệm nếu ngân sách eo hẹp, nhưng chặng dài sẽ thấy mỏi hơn.
 - **Honda Wave:** xe số, giá ngày 150.000 đồng; thuê tháng thì hỏi cửa hàng. Xe số thường tiết kiệm xăng, đổi lại phải sang số liên tục lúc tắc cầu.
 - **Xe máy điện:** giá liên hệ để xác nhận. Với ba mươi cây số mỗi ngày, cần chắc chắn có chỗ sạc ở hầm trước khi chọn.
 
