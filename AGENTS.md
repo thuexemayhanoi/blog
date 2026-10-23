@@ -158,9 +158,16 @@ Chỉ áp dụng lên evidence thật SAU KHI chủ website đã nghiệm thu qu
 Ca không đạt / nội dung đổi thật GIỮ NGUYÊN để xử lý riêng. Không sửa `_posts/`, matrix, checkpoint, lease và
 không sửa tay `data/qa/` để làm audit xanh.
 
+Sửa NỘI DUNG bài PUBLISHED (giá/câu lỗi thời — không phải lệch hash domain): chỉ qua
+`scripts/factory/revise-published.py plan|apply|verify|rollback` (quy trình: `docs/REVISE-PUBLISHED.md`). Chỉ sửa nhẹ thân bài +
+`description` của bài có evidence NGUYÊN VẸN (title, permalink, liên kết, heading bất biến); chấm lại độc lập ≥ 75/70 và không tiêu chí
+nào tụt; `--approval-ref` bắt buộc; lô ≤ 50; backup `reports/qa-audit/revise/<batch>.json` (Quality gate verify lại backup trong PR).
+Bài PUBLISHED có evidence đã lệch hash đi qua `reattest-legacy-qa.py` trước. Không sửa tay `_posts/` của bài PUBLISHED. Bài legacy
+(không có evidence) sửa trực tiếp được.
+
 FAST (mặc định mỗi chunk): validate `--scope chunk` + suite gate/operator/
 refill-safety/workflow-syntax. DEEP (~mỗi 50 bài): + link integrity, qa
 modes, publish flow, refill semantics (scope batch). FULL (weekly / trước
-đổi engine): validate full + 27 suite CI (`scripts/factory/run-tests.py --suites ci`,
+đổi engine): validate full + 33 suite CI (`scripts/factory/run-tests.py --suites ci`,
 job `engine-tests` của quality-gate ở FULL mode) + soak (scope full). Ngưỡng KHÔNG đổi
 giữa các mức.
