@@ -3,7 +3,8 @@
 Nguồn: `data/content-matrix.csv` (`cannibalization_key` trùng — FACT) và heuristic tiêu đề gần trùng trong cùng cụm (INFERRED).
 Sinh bởi `scripts/seo/build-matrix.py`. Mọi URL giữ nguyên; không xóa bài; không redirect khi chưa có quyết định của chủ.
 
-Cách xử lý đề xuất: (1) giữ **URL chủ lực** (bài dài nhất của nhóm); (2) bài còn lại làm bài bổ trợ, phân biệt intent rõ hơn
+Cách xử lý đề xuất: (1) giữ **URL chủ lực** chọn theo INTENT (sổ `scripts/seo/cannibalization-leads.json`, quy tắc Q/H/C/K, không theo độ dài bài;
+nhóm chưa có trong sổ tạm lấy bài dài nhất và bị báo là LONGEST_FALLBACK); (2) bài còn lại làm bài bổ trợ, phân biệt intent rõ hơn
 trong một đợt bảo trì nhỏ có QA (đổi góc nhìn ở phần mở đầu/heading, không đổi URL/slug); (3) thêm liên kết ngữ cảnh hai chiều
 giữa các bài trong nhóm; (4) chỉ khi chủ duyệt mới xét gộp nội dung + `redirect_from` (plugin được GitHub Pages hỗ trợ),
 kèm bằng chứng và cơ chế bảo toàn URL.
@@ -21,21 +22,21 @@ Cặp tiêu đề gần trùng trong cùng cụm (INFERRED): **82** dòng.
 - bổ trợ — Gia hạn thuê xe máy thêm ngày: thông báo đúng lúc (cụm `C-THUE-NHAN-TRA`, 1053 từ, `/thue-xe/2026/10/11/gia-han-thue-xe-may-them-ngay-thong-bao-ung-luc/`)
 
 ### `mat chia khoa xe may thue` (4 bài)
-- **URL chủ lực đề xuất** — Mất chìa khóa xe máy thuê ở Hà Nội: khách quốc tế nên làm gì trước khi gọi chủ xe (cụm `C-THUE-QUOC-TE`, 1288 từ, `/thue-xe/2026/10/14/mat-chia-khoa-xe-may-thue-o-ha-noi-khach-quoc-te-nen-lam-gi-truoc-khi-goi-chu-xe/`)
+- bổ trợ — Mất chìa khóa xe máy thuê ở Hà Nội: khách quốc tế nên làm gì trước khi gọi chủ xe (cụm `C-THUE-QUOC-TE`, 1288 từ, `/thue-xe/2026/10/14/mat-chia-khoa-xe-may-thue-o-ha-noi-khach-quoc-te-nen-lam-gi-truoc-khi-goi-chu-xe/`)
 - bổ trợ — Chìa khóa xe thuê: hỏi chìa phụ và cách báo khi lỡ làm mất (cụm `C-THUE-THU-TUC`, 1272 từ, `/thue-xe/2026/10/11/chia-khoa-xe-thue-hoi-chia-phu-va-cach-bao-khi-lo-lam-mat/`)
 - bổ trợ — Làm mất chìa khóa xe thuê trước ngày trả: báo sớm, không tự đánh chìa và chuẩn bị gì (cụm `C-THUE-NHAN-TRA`, 1254 từ, `/thue-xe/2026/10/14/lam-mat-chia-khoa-xe-thue-truoc-ngay-tra-bao-som-khong-tu-danh-chia-va-chuan-bi/`)
-- bổ trợ — Mất chìa khóa xe máy thuê: các bước tiếp theo (cụm `C-XE-KHAC-PHUC`, 1045 từ, `/xe-may/2026/09/29/mat-chia-khoa-xe-may-thue-cac-buoc-tiep-theo/`)
+- **URL chủ lực đề xuất** — Mất chìa khóa xe máy thuê: các bước tiếp theo (cụm `C-XE-KHAC-PHUC`, 1045 từ, `/xe-may/2026/09/29/mat-chia-khoa-xe-may-thue-cac-buoc-tiep-theo/`)
 
 ### `thue vision hay air blade` (4 bài)
-- **URL chủ lực đề xuất** — Thuê Vision hay Air Blade ở Hà Nội: so sánh tư thế ngồi, cốp xe và cảm giác lái trong phố (cụm `C-XE-GA`, 1382 từ, `/xe-may/2026/10/14/thue-vision-hay-air-blade-o-ha-noi-so-sanh-tu-the-ngoi-cop-xe-va-cam-giac-lai-tr/`)
-- bổ trợ — Vision hay Air Blade: thuê xe ga nào hợp đi phố Hà Nội hơn (cụm `C-XE-LUA-CHON`, 1363 từ, `/xe-may/2026/10/14/vision-hay-air-blade-thue-xe-ga-nao-hop-di-pho-ha-noi-hon/`)
+- bổ trợ — Thuê Vision hay Air Blade ở Hà Nội: so sánh tư thế ngồi, cốp xe và cảm giác lái trong phố (cụm `C-XE-GA`, 1382 từ, `/xe-may/2026/10/14/thue-vision-hay-air-blade-o-ha-noi-so-sanh-tu-the-ngoi-cop-xe-va-cam-giac-lai-tr/`)
+- **URL chủ lực đề xuất** — Vision hay Air Blade: thuê xe ga nào hợp đi phố Hà Nội hơn (cụm `C-XE-LUA-CHON`, 1363 từ, `/xe-may/2026/10/14/vision-hay-air-blade-thue-xe-ga-nao-hop-di-pho-ha-noi-hon/`)
 - bổ trợ — Thuê Honda Vision hay Air Blade cho chuyến du lịch Hà Nội: chọn theo lộ trình và người ngồi sau (cụm `C-HONDA-VISION`, 1177 từ, `/xe-may/2026/10/14/thue-honda-vision-hay-air-blade-cho-chuyen-du-lich-ha-noi-chon-theo-lo-trinh-va/`)
 - bổ trợ — Nên thuê Vision hay Air Blade khi đi phố (cụm `C-HD-CHON-XE`, 1136 từ, `/hoi-dap/2026/09/30/nen-thue-vision-hay-air-blade-khi-i-pho/`)
 
 ### `chuot can day ien xe may` (3 bài)
-- **URL chủ lực đề xuất** — Chuột cắn dây điện xe thuê để trong ngõ hoặc nhà trọ: dấu hiệu và vì sao không nên tự nối (cụm `C-HD-SU-CO`, 1295 từ, `/hoi-dap/2026/10/16/chuot-can-day-dien-xe-thue-de-trong-ngo-hoac-nha-tro-dau-hieu-va-vi-sao-khong-ne/`)
+- bổ trợ — Chuột cắn dây điện xe thuê để trong ngõ hoặc nhà trọ: dấu hiệu và vì sao không nên tự nối (cụm `C-HD-SU-CO`, 1295 từ, `/hoi-dap/2026/10/16/chuot-can-day-dien-xe-thue-de-trong-ngo-hoac-nha-tro-dau-hieu-va-vi-sao-khong-ne/`)
 - bổ trợ — Chuột cắn dây điện xe máy để qua đêm ở nhà trọ: dấu hiệu nhận biết và cách phòng khi đang thuê theo tháng (cụm `C-THUE-THANG`, 1275 từ, `/thue-xe/2026/10/15/chuot-can-day-dien-xe-may-de-qua-dem-o-nha-tro-dau-hieu-nhan-biet-va-cach-phong/`)
-- bổ trợ — Chuột cắn dây điện xe thuê để qua đêm ở nhà trọ: dấu hiệu nhận biết và cách báo cửa hàng (cụm `C-THUE-SU-CO`, 1071 từ, `/thue-xe/2026/10/15/chuot-can-day-dien-xe-thue-de-qua-dem-o-nha-tro-dau-hieu-nhan-biet-va-cach-bao-c/`)
+- **URL chủ lực đề xuất** — Chuột cắn dây điện xe thuê để qua đêm ở nhà trọ: dấu hiệu nhận biết và cách báo cửa hàng (cụm `C-THUE-SU-CO`, 1071 từ, `/thue-xe/2026/10/15/chuot-can-day-dien-xe-thue-de-qua-dem-o-nha-tro-dau-hieu-nhan-biet-va-cach-bao-c/`)
 
 ### `i thanh co loa bang xe may` (3 bài)
 - **URL chủ lực đề xuất** — Thành Cổ Loa bằng xe máy từ nội thành: đường đi và nên ghé những điểm nào (cụm `C-DIEM-DEN`, 1240 từ, `/du-lich/2026/10/11/thanh-co-loa-bang-xe-may-tu-noi-thanh-uong-i-va-nen-ghe-nhung-iem-nao/`)
@@ -43,37 +44,37 @@ Cặp tiêu đề gần trùng trong cùng cụm (INFERRED): **82** dòng.
 - bổ trợ — Đi thành Cổ Loa bằng xe máy: cung đường và lưu ý chạy xe (cụm `C-NGOAI-THANH`, 1034 từ, `/du-lich/2026/10/01/i-thanh-co-loa-bang-xe-may-cung-uong-va-luu-y-chay-xe/`)
 
 ### `mat chia khoa xe thue` (3 bài)
-- **URL chủ lực đề xuất** — Mất chìa khóa xe thuê: các bước xử lý nhanh (cụm `C-HD-SU-CO`, 1219 từ, `/hoi-dap/2026/10/10/mat-chia-khoa-xe-thue-cac-buoc-xu-ly-nhanh/`)
+- bổ trợ — Mất chìa khóa xe thuê: các bước xử lý nhanh (cụm `C-HD-SU-CO`, 1219 từ, `/hoi-dap/2026/10/10/mat-chia-khoa-xe-thue-cac-buoc-xu-ly-nhanh/`)
 - bổ trợ — Mất chìa khóa xe thuê: những việc cần làm ngay (cụm `C-XE-KHAC-PHUC`, 1166 từ, `/xe-may/2026/10/01/mat-chia-khoa-xe-thue-nhung-viec-can-lam-ngay/`)
-- bổ trợ — Mất chìa khóa xe thuê nên làm gì (cụm `C-THUE-SU-CO`, 1141 từ, `/thue-xe/2026/10/07/mat-chia-khoa-xe-thue-nen-lam-gi/`)
+- **URL chủ lực đề xuất** — Mất chìa khóa xe thuê nên làm gì (cụm `C-THUE-SU-CO`, 1141 từ, `/thue-xe/2026/10/07/mat-chia-khoa-xe-thue-nen-lam-gi/`)
 
 ### `bao tang ha noi i xe may` (2 bài)
-- **URL chủ lực đề xuất** — Ghé bảo tàng trong trung tâm Hà Nội bằng xe máy (cụm `C-DIEM-DEN`, 1091 từ, `/du-lich/2026/10/10/ghe-bao-tang-trong-trung-tam-ha-noi-bang-xe-may/`)
-- bổ trợ — Ghé bảo tàng Hà Nội bằng xe máy: giữ xe ở đâu (cụm `C-BAO-TANG`, 946 từ, `/du-lich/2026/09/28/ghe-bao-tang-ha-noi-bang-xe-may-giu-xe-o-au/`)
+- bổ trợ — Ghé bảo tàng trong trung tâm Hà Nội bằng xe máy (cụm `C-DIEM-DEN`, 1091 từ, `/du-lich/2026/10/10/ghe-bao-tang-trong-trung-tam-ha-noi-bang-xe-may/`)
+- **URL chủ lực đề xuất** — Ghé bảo tàng Hà Nội bằng xe máy: giữ xe ở đâu (cụm `C-BAO-TANG`, 946 từ, `/du-lich/2026/09/28/ghe-bao-tang-ha-noi-bang-xe-may-giu-xe-o-au/`)
 
 ### `cach tinh ngay thue xe may` (2 bài)
-- **URL chủ lực đề xuất** — Một ngày thuê xe máy tính theo 24 giờ hay theo ngày lịch: nên hỏi gì (cụm `C-THUE-THU-TUC`, 1078 từ, `/thue-xe/2026/10/11/mot-ngay-thue-xe-may-tinh-theo-24-gio-hay-theo-ngay-lich-nen-hoi-gi/`)
-- bổ trợ — Hỏi: cách tính ngày thuê xe máy như thế nào (cụm `C-HD-GIA`, 1022 từ, `/hoi-dap/2026/10/10/hoi-cach-tinh-ngay-thue-xe-may-nhu-the-nao/`)
+- bổ trợ — Một ngày thuê xe máy tính theo 24 giờ hay theo ngày lịch: nên hỏi gì (cụm `C-THUE-THU-TUC`, 1078 từ, `/thue-xe/2026/10/11/mot-ngay-thue-xe-may-tinh-theo-24-gio-hay-theo-ngay-lich-nen-hoi-gi/`)
+- **URL chủ lực đề xuất** — Hỏi: cách tính ngày thuê xe máy như thế nào (cụm `C-HD-GIA`, 1022 từ, `/hoi-dap/2026/10/10/hoi-cach-tinh-ngay-thue-xe-may-nhu-the-nao/`)
 
 ### `cau long bien i xe may` (2 bài)
-- **URL chủ lực đề xuất** — Từ phố cổ lên cầu Long Biên bằng xe máy: lối lên cầu, chợ Long Biên và chỗ dừng chụp ảnh (cụm `C-PHO-CO`, 1378 từ, `/du-lich/2026/10/15/tu-pho-co-len-cau-long-bien-bang-xe-may-loi-len-cau-cho-long-bien-va-cho-dung-ch/`)
-- bổ trợ — Cầu Long Biên và đường ven sông: trải nghiệm đi xe máy (cụm `C-LONG-BIEN`, 1071 từ, `/du-lich/2026/09/28/cau-long-bien-va-uong-ven-song-trai-nghiem-i-xe-may/`)
+- bổ trợ — Từ phố cổ lên cầu Long Biên bằng xe máy: lối lên cầu, chợ Long Biên và chỗ dừng chụp ảnh (cụm `C-PHO-CO`, 1378 từ, `/du-lich/2026/10/15/tu-pho-co-len-cau-long-bien-bang-xe-may-loi-len-cau-cho-long-bien-va-cho-dung-ch/`)
+- **URL chủ lực đề xuất** — Cầu Long Biên và đường ven sông: trải nghiệm đi xe máy (cụm `C-LONG-BIEN`, 1071 từ, `/du-lich/2026/09/28/cau-long-bien-va-uong-ven-song-trai-nghiem-i-xe-may/`)
 
 ### `chay xe quanh ho linh am` (2 bài)
 - **URL chủ lực đề xuất** — Chạy xe quanh hồ Linh Đàm sáng sớm: cung đường ngắn trong thành phố (cụm `C-CD-NOI-THANH`, 1125 từ, `/cung-duong/2026/10/10/chay-xe-quanh-ho-linh-am-sang-som-cung-uong-ngan-trong-thanh-pho/`)
 - bổ trợ — Chạy xe quanh hồ Linh Đàm buổi chiều và chỗ để xe (cụm `C-DIEM-DEN`, 1042 từ, `/du-lich/2026/10/04/chay-xe-quanh-ho-linh-am-buoi-chieu-va-cho-e-xe/`)
 
 ### `chup anh xe khi nhan thue` (2 bài)
-- **URL chủ lực đề xuất** — Chụp ảnh và quay video xe khi nhận thuê tuần: những góc cần ghi lại để trả xe nhẹ nhàng (cụm `C-THUE-TUAN`, 1189 từ, `/thue-xe/2026/10/14/chup-anh-va-quay-video-xe-khi-nhan-thue-tuan-nhung-goc-can-ghi-lai-de-tra-xe-nhe/`)
-- bổ trợ — Chụp lại tình trạng xe khi nhận: các góc ảnh nên có (cụm `C-THUE-THU-TUC`, 1099 từ, `/thue-xe/2026/10/04/chup-lai-tinh-trang-xe-khi-nhan-cac-goc-anh-nen-co/`)
+- bổ trợ — Chụp ảnh và quay video xe khi nhận thuê tuần: những góc cần ghi lại để trả xe nhẹ nhàng (cụm `C-THUE-TUAN`, 1189 từ, `/thue-xe/2026/10/14/chup-anh-va-quay-video-xe-khi-nhan-thue-tuan-nhung-goc-can-ghi-lai-de-tra-xe-nhe/`)
+- **URL chủ lực đề xuất** — Chụp lại tình trạng xe khi nhận: các góc ảnh nên có (cụm `C-THUE-THU-TUC`, 1099 từ, `/thue-xe/2026/10/04/chup-lai-tinh-trang-xe-khi-nhan-cac-goc-anh-nen-co/`)
 
 ### `chuyen tu xe so sang xe ga` (2 bài)
 - **URL chủ lực đề xuất** — Chuyển từ xe số sang xe tay ga: những thói quen cũ cần bỏ để không phanh nhầm, ga nhầm (cụm `C-XE-GA`, 1282 từ, `/xe-may/2026/10/14/chuyen-tu-xe-so-sang-xe-tay-ga-nhung-thoi-quen-cu-can-bo-de-khong-phanh-nham-ga/`)
 - bổ trợ — Từ xe số sang xe ga hoặc ngược lại: thói quen cần sửa trong tuần đầu (cụm `C-THUE-THANG`, 1157 từ, `/thue-xe/2026/10/11/tu-xe-so-sang-xe-ga-hoac-nguoc-lai-thoi-quen-can-sua-trong-tuan-au/`)
 
 ### `coi xe may keu lien tuc` (2 bài)
-- **URL chủ lực đề xuất** — Còi xe thuê kêu liên tục không tắt được giữa phố: ngắt tạm thế nào cho an toàn (cụm `C-HD-SU-CO`, 1268 từ, `/hoi-dap/2026/10/15/coi-xe-thue-keu-lien-tuc-khong-tat-duoc-giua-pho-ngat-tam-the-nao-cho-an-toan/`)
-- bổ trợ — Còi xe thuê tự kêu liên tục không tắt được: tấp vào lề, tắt khóa điện và báo cửa hàng (cụm `C-THUE-SU-CO`, 1063 từ, `/thue-xe/2026/10/15/coi-xe-thue-tu-keu-lien-tuc-khong-tat-duoc-tap-vao-le-tat-khoa-dien-va-bao-cua-h/`)
+- bổ trợ — Còi xe thuê kêu liên tục không tắt được giữa phố: ngắt tạm thế nào cho an toàn (cụm `C-HD-SU-CO`, 1268 từ, `/hoi-dap/2026/10/15/coi-xe-thue-keu-lien-tuc-khong-tat-duoc-giua-pho-ngat-tam-the-nao-cho-an-toan/`)
+- **URL chủ lực đề xuất** — Còi xe thuê tự kêu liên tục không tắt được: tấp vào lề, tắt khóa điện và báo cửa hàng (cụm `C-THUE-SU-CO`, 1063 từ, `/thue-xe/2026/10/15/coi-xe-thue-tu-keu-lien-tuc-khong-tat-duoc-tap-vao-le-tat-khoa-dien-va-bao-cua-h/`)
 
 ### `cop xe ga khong mo uoc` (2 bài)
 - **URL chủ lực đề xuất** — Cốp xe ga không mở được hoặc yên bị kẹt: nguyên nhân thường gặp và cách xử lý không làm hỏng khóa (cụm `C-BAO-DUONG`, 1243 từ, `/xe-may/2026/10/15/cop-xe-ga-khong-mo-duoc-hoac-yen-bi-ket-nguyen-nhan-thuong-gap-va-cach-xu-ly-kho/`)
@@ -92,8 +93,8 @@ Cặp tiêu đề gần trùng trong cùng cụm (INFERRED): **82** dòng.
 - bổ trợ — Chuẩn bị giấy tờ gì trước khi đến cửa hàng thuê xe (cụm `C-THUE-THU-TUC`, 952 từ, `/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-en-cua-hang-thue-xe/`)
 
 ### `gui xe pho i bo ho guom` (2 bài)
-- **URL chủ lực đề xuất** — Thuê xe máy buổi tối cuối tuần đi phố đi bộ Hồ Gươm: gửi xe ở đâu và tránh các tuyến cấm (cụm `C-THUE-NGAY`, 1256 từ, `/thue-xe/2026/10/14/thue-xe-may-buoi-toi-cuoi-tuan-di-pho-di-bo-ho-guom-gui-xe-o-dau-va-tranh-cac-tu/`)
-- bổ trợ — Phố đi bộ Hồ Gươm cuối tuần xe máy gửi ở đâu (cụm `C-PHO-CO`, 1151 từ, `/du-lich/2026/10/09/pho-i-bo-ho-guom-cuoi-tuan-xe-may-gui-o-au/`)
+- bổ trợ — Thuê xe máy buổi tối cuối tuần đi phố đi bộ Hồ Gươm: gửi xe ở đâu và tránh các tuyến cấm (cụm `C-THUE-NGAY`, 1256 từ, `/thue-xe/2026/10/14/thue-xe-may-buoi-toi-cuoi-tuan-di-pho-di-bo-ho-guom-gui-xe-o-dau-va-tranh-cac-tu/`)
+- **URL chủ lực đề xuất** — Phố đi bộ Hồ Gươm cuối tuần xe máy gửi ở đâu (cụm `C-PHO-CO`, 1151 từ, `/du-lich/2026/10/09/pho-i-bo-ho-guom-cuoi-tuan-xe-may-gui-o-au/`)
 
 ### `i ba vi bang xe may` (2 bài)
 - **URL chủ lực đề xuất** — Ba Vì bằng xe máy: đèo lên cao và điểm nghỉ (cụm `C-DIEM-DEN`, 1115 từ, `/du-lich/2026/10/01/ba-vi-bang-xe-may-eo-len-cao-va-iem-nghi/`)

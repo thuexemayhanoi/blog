@@ -7,16 +7,16 @@
   "dup_title_groups": 0,
   "enrichment": {
     "action_status": {
-      "BLOCKED_URL_CONTRACT": 1387,
+      "BLOCKED_URL_CONTRACT": 1390,
       "DEFERRED_OWNER_PLAN": 77,
       "EXPECTED": 1,
-      "NONE": 5014,
-      "OPEN": 364
+      "NONE": 5012,
+      "OPEN": 363
     },
     "fix_priority": {
-      "P2": 1445,
-      "P3": 383,
-      "P4": 5015
+      "P2": 1448,
+      "P3": 382,
+      "P4": 5013
     },
     "needs_action": {
       "CANNIBALIZATION_SUPPORT": 58,
@@ -27,14 +27,14 @@
     },
     "note": "staleness_risk/stale_signals = INFERRED (regex trên nội dung bài); FRESHNESS_REVIEW chỉ là gợi ý rà soát theo nguồn chính thức, không phải kết luận sai/đúng",
     "seo_role": {
-      "CANNIBALIZATION_LEAD": 47,
+      "CANNIBALIZATION_LEAD": 48,
       "HOME": 1,
       "HUB": 56,
       "LEAD_POST": 204,
       "LISTING": 689,
       "PAGE": 14,
       "PILLAR": 7,
-      "SUPPORT_POST": 58,
+      "SUPPORT_POST": 57,
       "TOPIC_POST": 5767
     },
     "staleness_risk": {

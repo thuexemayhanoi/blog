@@ -86,6 +86,8 @@ def main() -> int:
     def matches(r, rxs):
         return any(rx.search(r["_dia"] if dia else r["_text"]) for dia, rx in rxs)
     urls = known_urls(inv, tax)
+    leads_path = ROOT / "scripts" / "seo" / "cannibalization-leads.json"
+    reviewed_leads = json.loads(leads_path.read_text(encoding="utf-8"))["groups"] if leads_path.is_file() else {}
     graph: dict[str, set[str]] = {}
     if args.graph:
         graph = {u: set(v) for u, v in json.loads(Path(args.graph).read_text(encoding="utf-8")).items()}
@@ -164,11 +166,17 @@ def main() -> int:
         if r.get("cannibalization_key"):
             by_key[r["cannibalization_key"]].append(r)
     can_rows = []
+    unreviewed: list[str] = []  # nhóm trùng khóa mới chưa có trong sổ chủ lực: cần rà intent (không làm hỏng build)
     for key, rs in sorted(by_key.items()):
         if len(rs) < 2:
             continue
         rs = sorted(rs, key=lambda r: (-int(r["words"] or 0), r["date"]))
-        lead = rs[0]
+        reviewed = reviewed_leads.get(key)
+        lead = next((r for r in rs if reviewed and r["article_id"] == reviewed["lead_id"]), None)
+        selection = "INTENT_REVIEW" if lead is not None else "LONGEST_FALLBACK"
+        if lead is None:
+            lead = rs[0]
+            unreviewed.append(key)
         same_child = len({r["child_id"] for r in rs}) == 1
         for r in rs:
             can_rows.append({
@@ -176,6 +184,8 @@ def main() -> int:
                 "url": r["url"], "article_id": r["article_id"], "child_id": r["child_id"],
                 "title": r["title"], "words": r["words"],
                 "role": "URL_CHU_LUC_DE_XUAT" if r is lead else "BAI_BO_TRO",
+                "lead_selection": selection,
+                "classification": reviewed["classification"] if reviewed else "",
                 "proposed_action": "Giữ URL; thêm liên kết ngữ cảnh hai chiều; phân biệt intent trong lần bảo trì nhỏ có QA" if r is not lead else "Giữ làm URL chủ lực của intent",
                 "risk": "CAO" if same_child else "TRUNG BÌNH",
                 "evidence_type": "FACT(trùng khóa matrix) + INFERRED(intent)",
@@ -215,7 +225,7 @@ def main() -> int:
                         "risk": "TRUNG BÌNH", "evidence_type": "INFERRED(heuristic tiêu đề)",
                     })
     ccols = ["cannibalization_key", "group_size", "same_child", "url", "article_id", "child_id", "title", "words",
-             "role", "proposed_action", "risk", "evidence_type"]
+             "role", "lead_selection", "classification", "proposed_action", "risk", "evidence_type"]
     write_csv(d / "cannibalization-risk.csv", ccols, can_rows)
 
     # ------------------------------------------------------------------ internal link recommendations
@@ -271,7 +281,8 @@ def main() -> int:
              "Nguồn: `data/content-matrix.csv` (`cannibalization_key` trùng — FACT) và heuristic tiêu đề gần trùng trong cùng cụm (INFERRED).",
              "Sinh bởi `scripts/seo/build-matrix.py`. Mọi URL giữ nguyên; không xóa bài; không redirect khi chưa có quyết định của chủ.",
              "",
-             "Cách xử lý đề xuất: (1) giữ **URL chủ lực** (bài dài nhất của nhóm); (2) bài còn lại làm bài bổ trợ, phân biệt intent rõ hơn",
+             "Cách xử lý đề xuất: (1) giữ **URL chủ lực** chọn theo INTENT (sổ `scripts/seo/cannibalization-leads.json`, quy tắc Q/H/C/K, không theo độ dài bài;",
+             "nhóm chưa có trong sổ tạm lấy bài dài nhất và bị báo là LONGEST_FALLBACK); (2) bài còn lại làm bài bổ trợ, phân biệt intent rõ hơn",
              "trong một đợt bảo trì nhỏ có QA (đổi góc nhìn ở phần mở đầu/heading, không đổi URL/slug); (3) thêm liên kết ngữ cảnh hai chiều",
              "giữa các bài trong nhóm; (4) chỉ khi chủ duyệt mới xét gộp nội dung + `redirect_from` (plugin được GitHub Pages hỗ trợ),",
              "kèm bằng chứng và cơ chế bảo toàn URL.",
@@ -298,6 +309,7 @@ def main() -> int:
         "topic_verdicts": dict(collections.Counter(r["verdict"] for r in tg_rows)),
         "cannibalization_key_groups": len({r["cannibalization_key"] for r in can_rows if not r["cannibalization_key"].startswith("NEAR_")}),
         "near_title_pairs": near, "config_problems": problems,
+        "cannibalization_groups_unreviewed": sorted(set(unreviewed)),
     }
     (d / "matrix-summary.json").write_text(json.dumps(summary, ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8")
     print(json.dumps(summary, ensure_ascii=False, indent=2, sort_keys=True))
