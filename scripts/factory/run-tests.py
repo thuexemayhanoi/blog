@@ -46,7 +46,7 @@ CI = [
     # refill / publish flow
     'test_refill_safety', 'test_refill_semantics', 'test_refill_drift',
     'test_slugify_vi',
-    'test_related_cluster_data', 'test_topic_links',
+    'test_related_cluster_data',
     'test_publish_flow',
     # đa-writer: registry, selector, queue, push an toàn, CAS client
     'test_writer_claim', 'test_dynamic_writer_pool', 'test_selector_ownership', 'test_selector_drain',
@@ -54,6 +54,8 @@ CI = [
     'test_writer_session', 'test_writer_loop',
     # hợp đồng tĩnh/hardening + watchdog
     'test_hardening', 'test_watchdog',
+    # liên kết ngữ cảnh "Cùng chủ đề" (cannibalization)
+    'test_topic_links',
     # mô phỏng đồng thời đầu-cuối (engine thật, origin bare cục bộ)
     'test_multiwriter_sim',
 ]
