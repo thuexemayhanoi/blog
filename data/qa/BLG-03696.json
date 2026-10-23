@@ -8,7 +8,7 @@
     "draft_date": true,
     "slug_match": true,
     "permalink_canonical": true,
-    "word_count": false,
+    "word_count": true,
     "title_match": true,
     "description_length": true,
     "description_keyword": true,
@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1012,
+  "word_count": 1022,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,9 +47,42 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-15-vua-dat-tien-coc-vua-de-lai-giay-to-goc-khi-thue-xe-hoi-ly-do-va-thoa-thuan-cho.md",
-  "content_sha256": "cf2b2121d31dd50413931c8cb0e8b1454c3049d511e7c92a57a618e7cf1af00d",
+  "content_sha256": "608eef5fce49dafbd5302a553351b2ba6efeb643ed67dfe52a799fef96952247",
   "matrix_row_sha256": "4c048078dca75a5486031b7e3e08c02a9c9e50781c4de32466aa25cce0bd4d54",
   "result": "PASS",
   "grade": "PASS",
-  "published_at": "2026-10-15T10:59:16+00:00"
+  "published_at": "2026-10-15T10:59:16+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "content-revision",
+    "purpose": "deposit-wording-02-2026-10-23",
+    "reason": "Đồng bộ câu hoàn cọc với văn bản chủ duyệt: \"Tiền cọc được hoàn trả theo điều khoản hợp đồng sau khi khách bàn giao xe và hoàn thành các nghĩa vụ liên quan\"; không cam kết hoàn toàn bộ/ngay tại chỗ (forbidden_claims: cam kết hoàn tiền)",
+    "approval_ref": "OWNER-MASTER-WORK-2026-10-23: tin nhắn MASTER WORK — CONTINUE SEO /BLOG NGUYỄN TÚ (23/10/2026) — chủ xe phê duyệt trước việc sửa lỗi SEO an toàn, tạo PR và merge khi CI/QA/quy tắc repository đạt, \"không cần hỏi lại từng bài/PR thông thường\"; sửa bài đã PUBLISHED qua quy trình bảo trì với bằng chứng QA hợp lệ; lô deposit-wording-02 revise-20261023-deposit-02",
+    "batch_id": "revise-20261023-deposit-02",
+    "revised_at": "2026-10-23T13:30:50+00:00",
+    "previous_evidence_sha256": "c4a26e99da1111f1bb9a5a36b4e2c1cd66a218464d2a766ac8c3f7ada56c6fa2",
+    "previous_content_sha256": "cf2b2121d31dd50413931c8cb0e8b1454c3049d511e7c92a57a618e7cf1af00d",
+    "previous_matrix_row_sha256": "4c048078dca75a5486031b7e3e08c02a9c9e50781c4de32466aa25cce0bd4d54",
+    "new_content_sha256": "608eef5fce49dafbd5302a553351b2ba6efeb643ed67dfe52a799fef96952247",
+    "edit_count": 1,
+    "edits_sha256": "88f72fb8ef52c98c588d5f96fefe3241e3caa70a3a1d55345022314bc9e00b80",
+    "chars_changed": 276,
+    "previous_scores": {
+      "quality": 75,
+      "seo": 85,
+      "grade": "PASS"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/revise-published.py",
+    "tool_commit": "6aa07abbf2156db53301827a91cd538494c47349",
+    "tool_sha256": "86f44d47bbca6fd0822065a75bc34927bc592326518f0df4fea798c022acca84",
+    "scorer_code_sha256": "29894c883d01b7d840f5731884fd62b2a31238391f403aec361a046cc313c10f",
+    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+  }
 }

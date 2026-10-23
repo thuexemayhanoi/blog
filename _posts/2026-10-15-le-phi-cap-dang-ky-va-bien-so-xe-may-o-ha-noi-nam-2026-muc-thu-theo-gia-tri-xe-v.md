@@ -3,7 +3,7 @@ date: 2026-10-15 09:00:00 +0700
 layout: post
 title: "Lệ phí cấp đăng ký và biển số xe máy ở Hà Nội năm 2026: mức thu theo giá trị xe và trường hợp được miễn"
 author: "Nguyễn Tú"
-description: "Phí biển số xe máy Hà Nội năm 2026: mức thu chia theo khu vực và giá trị xe ra sao, ai được miễn, vì sao bài chưa nêu số tiền và cách giữ biên lai khi nộp."
+description: "Phí biển số xe máy Hà Nội năm 2026: mức thu theo khu vực và giá trị xe, ai được miễn kể cả chính sách tạm thời đến 28/02/2027, vì sao bài chưa nêu số tiền."
 categories: [Kinh nghiệm]
 lang: vi
 tags: [phí biển số xe máy hà nội, phí đăng ký xe máy mới, lệ phí cấp đổi đăng ký xe, giấy tờ xe và cá nhân]
@@ -48,6 +48,8 @@ Theo cách các nguồn trình bày, bảng mức thu có mục riêng cho cấp
 ## Trường hợp được miễn: có quy định, bài chưa liệt kê đủ
 
 Theo tóm tắt, thông tư có điều riêng về miễn lệ phí, nhưng các nguồn ghi số điều khác nhau (Điều 5 hoặc Điều 6), nên bài không nêu số điều. Những nhóm được nhắc trong phần bài đọc được thuộc quan hệ đối ngoại: cơ quan đại diện ngoại giao, cơ quan lãnh sự, tổ chức quốc tế, và tổ chức, cá nhân nước ngoài được miễn theo điều ước quốc tế, kèm hồ sơ chứng minh. Danh mục đầy đủ bài chưa đọc được, nên không khẳng định ai ngoài các nhóm ấy được miễn hay không. Đừng mặc định là bạn thuộc diện miễn; hãy hỏi cơ quan đăng ký xe và hỏi rõ cần giấy gì để chứng minh.
+
+**Một chính sách tạm thời đáng kiểm tra.** Theo toàn văn Thông tư 117/2026/TT-BTC (14/8/2026) trên Báo điện tử Chính phủ, từ 15/8/2026 đến hết 28/02/2027, công dân có tài khoản định danh điện tử mức độ 2 và đáp ứng điều kiện của Nghị quyết 66.22/2026/NQ-CP được miễn lệ phí khi đổi chứng nhận đăng ký xe và biển số xe, và khi cấp chứng nhận đăng ký, biển số xe tạm thời. Thông tư không liệt kê đăng ký xe lần đầu. Từ 01/3/2027 áp dụng lại mức thu của Thông tư 155/2025/TT-BTC.
 
 ## Lệ phí trước bạ và biển đấu giá: đừng gộp chung
 

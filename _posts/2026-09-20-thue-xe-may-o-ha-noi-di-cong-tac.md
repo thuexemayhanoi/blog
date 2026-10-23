@@ -25,7 +25,7 @@ Với gói dài hạn, hãy hỏi thêm các điều kiện vận hành: lịch 
 
 Người đi công tác trong nước cần mang theo căn cước công dân hoặc giấy tờ tùy thân bản gốc để đối chiếu khi nhận xe. Bản gốc giấy tờ vẫn do bạn giữ, cửa hàng chỉ ghi lại thông tin cần thiết vào hợp đồng. Với người nước ngoài, chuẩn bị hộ chiếu và giấy phép lái xe có hiệu lực là bắt buộc, vì lái xe không có giấy phép phù hợp vừa rủi ro pháp lý vừa làm mọi tình huống phát sinh thêm phức tạp.
 
-Mức đặt cọc thông thường dao động từ 2.000.000đ đến 5.000.000đ tùy dòng xe và từng trường hợp cụ thể. Với người công tác dài hạn, khoản cọc này sẽ nằm ở cửa hàng nhiều tuần hoặc nhiều tháng, nên hãy lấy biên lai hoặc ghi chú rõ ràng về số tiền cọc trong hợp đồng. Khi trả xe, kiểm tra cùng cửa hàng tình trạng xe và nhận lại đủ cọc trước khi rời đi.
+Mức đặt cọc thông thường dao động từ 2.000.000đ đến 5.000.000đ tùy dòng xe và từng trường hợp cụ thể. Với người công tác dài hạn, khoản cọc này sẽ nằm ở cửa hàng nhiều tuần hoặc nhiều tháng, nên hãy lấy biên lai hoặc ghi chú rõ ràng về số tiền cọc trong hợp đồng. Khi trả xe, kiểm tra cùng cửa hàng tình trạng xe và hỏi rõ thời điểm, hình thức hoàn cọc theo điều khoản hợp đồng.
 
 Một mẹo cho người hay công tác: chụp ảnh hợp đồng, biên bản giao nhận và tình trạng xe ngay tại chỗ, rồi lưu vào một album điện thoại riêng cho mỗi chuyến công tác. Khi cần đối chiếu chi phí với công ty hoặc giải quyết trao đổi với cửa hàng, mọi thứ nằm gọn trong vài cú chạm.
 

@@ -47,7 +47,7 @@ Nếu chốt giữ cả hai, biên nhận chính là thứ bảo vệ bạn nhi�
 
 - Danh sách chính xác từng thứ được giữ: tiền cọc bao nhiêu, giấy tờ gì, số giấy tờ, có chìa khóa nhà không.
 - Tình trạng xe lúc nhận: vết xước sẵn có, mức xăng, phụ kiện đi kèm như mũ bảo hiểm, áo mưa.
-- Điều kiện nhận lại đầy đủ: trả xe đúng hạn, đúng tình trạng thỏa thuận thì nhận lại toàn bộ tiền cọc và giấy tờ.
+- Điều kiện nhận lại: ghi theo điều khoản hợp đồng; tiền cọc được hoàn trả sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan, giấy tờ gốc được trả lại.
 - Thời gian dự kiến trả xe và cách tính nếu trễ hạn.
 
 Nguyên tắc vàng: một biên nhận liệt kê từng mục một. "Cọc và giấy tờ" là cách viết mơ hồ; "1.000.000 đ tiền cọc + thẻ căn cước số…" là cách viết bảo vệ bạn.

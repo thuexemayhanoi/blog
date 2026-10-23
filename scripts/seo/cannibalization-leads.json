@@ -1,0 +1,312 @@
+{
+ "schema": "cannibalization-leads/1",
+ "reviewed_on": "2026-10-23",
+ "note": "Sổ đăng ký URL chủ lực đã rà theo INTENT (không theo độ dài bài). KHÔNG sinh tự động: sửa tay có lý do, chạy lại scripts/seo/build-matrix.py và scripts/seo/build-cannibalization-classification.py. Khóa = cannibalization_key trong data/content-matrix.csv.",
+ "rules": {
+  "Q": "tiêu đề/mô tả trả lời trực tiếp cụm từ khóa chung, không kèm giới hạn đối tượng/mùa/mẫu xe",
+  "H": "bài nằm đúng hub (cụm child) sở hữu intent đó",
+  "C": "trả lời đầy đủ quy trình/quyết định, không chỉ một ca hẹp",
+  "K": "giá trị thương mại (ngữ cảnh thuê xe, giá) khi hai bài ngang nhau về Q/H/C",
+  "tie": "hòa hoàn toàn thì giữ chủ lực cũ để không đổi tín hiệu nội bộ vô cớ; độ dài bài KHÔNG phải tiêu chí"
+ },
+ "classification_legend": {
+  "SAME_INTENT_MONITOR": "cùng nhu cầu người đọc, khác biệt chỉ là giới hạn bề mặt: theo dõi, xét gộp khi có hạ tầng 301 + dữ liệu Search Console + chủ duyệt",
+  "DISTINCT_ANGLE_KEEP": "nhu cầu hoặc đối tượng khác nhau: giữ riêng, phân biệt bằng liên kết ngữ cảnh"
+ },
+ "groups": {
+  "bao tang ha noi i xe may": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-00723",
+   "basis": "Q+H: 'Bảo tàng Hà Nội' là tên riêng bảo tàng ở Phạm Hùng, đúng hub Bảo tàng; BLG-01890 là lộ trình nhiều bảo tàng khu trung tâm",
+   "cross_group_note": ""
+  },
+  "cach tinh ngay thue xe may": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-01933",
+   "basis": "Q: tiêu đề hỏi trực tiếp 'cách tính ngày thuê xe máy'; BLG-02387 đi sâu hai cách đếm 24 giờ và ngày lịch",
+   "cross_group_note": ""
+  },
+  "cau long bien i xe may": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-00742",
+   "basis": "H: tổng quan cầu Long Biên trong hub điểm đến; BLG-03405 là lộ trình từ phố cổ lên cầu",
+   "cross_group_note": ""
+  },
+  "chay xe quanh ho linh am": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-01852",
+   "basis": "Q+H: cung đường quanh hồ, hub cung đường nội thành; BLG-01169 là khung giờ chiều và chỗ để xe",
+   "cross_group_note": ""
+  },
+  "chuot can day ien xe may": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-03722",
+   "basis": "H+C: hub Sự cố khi thuê, có dấu hiệu, cách báo cửa hàng và ảnh cần chụp; BLG-03678 là góc thuê theo tháng, BLG-04111 là góc hỏi đáp",
+   "cross_group_note": ""
+  },
+  "chup anh xe khi nhan thue": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-01224",
+   "basis": "Q: tiêu đề khớp truy vấn đầu, hub Thủ tục; BLG-03032 chỉ khác ở kỳ thuê tuần và quay video",
+   "cross_group_note": ""
+  },
+  "chuyen tu xe so sang xe ga": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-03135",
+   "basis": "Q+H: khớp 'chuyển từ xe số sang xe ga', hub Xe ga, nêu phản xạ gây phanh nhầm và ga nhầm",
+   "cross_group_note": "cùng chủ đề với nhóm 42 (xe số sang xe ga): chủ lực chung BLG-03135"
+  },
+  "coi xe may keu lien tuc": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-03726",
+   "basis": "H: hub Sự cố khi thuê; hai bài gần như cùng ý (ngắt tạm, tắt khóa điện, báo cửa hàng)",
+   "cross_group_note": ""
+  },
+  "cop xe ga khong mo uoc": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-03344",
+   "basis": "Q+C: nguyên nhân và cách mở không làm hỏng khóa; BLG-01133 là tình huống lúc trả xe",
+   "cross_group_note": ""
+  },
+  "en ba chua kho bang xe may": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-04003",
+   "basis": "Q: không gắn mẫu xe; BLG-03926 chỉ thêm góc Honda Air Blade thuê",
+   "cross_group_note": ""
+  },
+  "en o co uoc re phai": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-04612",
+   "basis": "Q+H: trả lời chung cho mọi người lái, hub Quy định; BLG-04270 dành cho khách quốc tế",
+   "cross_group_note": ""
+  },
+  "gia han thue xe may": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-01815",
+   "basis": "Q+C: gia hạn thêm ngày nói chung; BLG-03175 (khách quốc tế) và BLG-00525 (hợp đồng tháng) là hai góc riêng, BLG-02047 gần như cùng ý",
+   "cross_group_note": ""
+  },
+  "giay to can khi thue xe may": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-01993",
+   "basis": "Q+C: danh mục đầy đủ giấy tờ cần mang; BLG-00510 nhấn bản gốc và bản photo",
+   "cross_group_note": ""
+  },
+  "gui xe pho i bo ho guom": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-01713",
+   "basis": "Q+H: tiêu đề hỏi trực tiếp 'gửi ở đâu', hub Phố cổ; BLG-03005 thêm bối cảnh thuê xe buổi tối",
+   "cross_group_note": ""
+  },
+  "i ba vi bang xe may": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-01100",
+   "basis": "Q+H: hub điểm đến, đèo, điểm nghỉ, gửi xe; BLG-00743 là kế hoạch nửa ngày",
+   "cross_group_note": ""
+  },
+  "i bat trang bang xe may": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-02469",
+   "basis": "Q: khớp 'đi Bát Tràng bằng xe máy'; BLG-02579 chỉ thêm giới hạn xe ga và xuất phát từ phố cổ",
+   "cross_group_note": ""
+  },
+  "i chua huong bang xe may": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-02995",
+   "basis": "Q+C+K: lộ trình, gửi xe, giờ xuất phát và nhận/trả xe thuê; BLG-00771 thiên về chuẩn bị mùa lễ",
+   "cross_group_note": ""
+  },
+  "i cong vien yen so bang xe may": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-01167",
+   "basis": "Q+H: hub điểm đến, tuyến đường và gửi xe; BLG-01057 cùng ý (đỗ xe và đường vào)",
+   "cross_group_note": ""
+  },
+  "i o son bang xe may": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-01072",
+   "basis": "Hòa Q/C giữa hai bài (tuyến QL5 và tuyến qua Hải Dương); giữ chủ lực cũ để không đổi tín hiệu nội bộ vô cớ",
+   "cross_group_note": ""
+  },
+  "i thanh co loa bang xe may": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-02265",
+   "basis": "Q+C: đường đi, điểm nên ghé và lịch nửa ngày; BLG-02608 nhấn thứ tự tham quan, BLG-01053 nhấn lưu ý chạy đường trường",
+   "cross_group_note": ""
+  },
+  "i xe khong chinh chu": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-04592",
+   "basis": "Q+H: trả lời chung cho người thuê và người mượn, hub Giấy tờ; BLG-04282 là góc khách quốc tế và giấy ủy quyền",
+   "cross_group_note": ""
+  },
+  "i xe may qua cau long bien": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-03510",
+   "basis": "Q+C: kỹ thuật qua cầu hẹp, khe nối; BLG-00955 là thời điểm đẹp và góc chụp ảnh",
+   "cross_group_note": ""
+  },
+  "i xe may qua uong ngap": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-01979",
+   "basis": "Q: tiêu đề đúng cụm 'đi xe máy qua đoạn đường ngập nước', hub Kỹ năng thời tiết; BLG-00828 gần như trùng, cần phân biệt rõ hơn khi có quyết định",
+   "cross_group_note": ""
+  },
+  "mat chia khoa xe may thue": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-00926",
+   "basis": "Q+C: các bước tiếp theo, chìa dự phòng, cọc và trách nhiệm theo hợp đồng; BLG-03181 là góc khách quốc tế, BLG-02393 là góc hỏi chìa phụ lúc nhận xe",
+   "cross_group_note": "cùng chủ đề với nhóm 25 (7 bài về mất chìa khóa xe thuê): chủ lực chung đề xuất BLG-01541"
+  },
+  "mat chia khoa xe thue": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-01541",
+   "basis": "Q+H+C: 'mất chìa khóa xe thuê nên làm gì', hub Sự cố khi thuê, có chi phí cắt chìa và cách phòng tránh",
+   "cross_group_note": "chủ lực chung của nhóm 24 và 25 (7 bài cùng chủ đề)"
+  },
+  "muon xe may hay thue xe": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-04862",
+   "basis": "Q+H: so sánh mượn và thuê, hub So sánh xe; BLG-04132 nhấn cách chia chi phí",
+   "cross_group_note": ""
+  },
+  "nha tu hoa lo i xe may": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-03402",
+   "basis": "C: đường đi, gửi xe và thời lượng tham quan; BLG-02609 nhấn đường một chiều quanh phố Hỏa Lò",
+   "cross_group_note": ""
+  },
+  "nhan xe may thue buoi toi": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-01792",
+   "basis": "Q+H: hub Nhận/trả xe; BLG-02396 nhấn hẹn giờ và kiểm tra khi thiếu sáng",
+   "cross_group_note": ""
+  },
+  "phat nguoi xe may thue": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-03188",
+   "basis": "INFERRED: truy vấn đầu thường là xử lý khi đã nhận thông báo; BLG-01694 là phòng ngừa trước khi nhận xe",
+   "cross_group_note": ""
+  },
+  "so sanh sirius va wave": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-01680",
+   "basis": "Q: khác nhau thế nào giữa Sirius và Wave, hub Yamaha Sirius; BLG-00971 là góc đi xa",
+   "cross_group_note": ""
+  },
+  "tay phanh xe may bi mem": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-02008",
+   "basis": "Q+H: dấu hiệu tay phanh mềm, hub Bảo dưỡng; BLG-02496 là tình huống dừng khẩn cấp khi đang chạy",
+   "cross_group_note": ""
+  },
+  "thue vision hay air blade": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-02907",
+   "basis": "Q+H+K: so sánh trực tiếp Vision và Air Blade kèm mức giá thuê, hub Lựa chọn xe; BLG-03272 góc du lịch, BLG-03119 góc thử xe tại tiệm, BLG-00966 hỏi đáp gần như cùng ý",
+   "cross_group_note": ""
+  },
+  "thue wave hay vision": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-02908",
+   "basis": "Q+K: chênh giá Wave 150k và Vision 200k mỗi ngày đổi được gì; BLG-03258 là góc du lịch 3 ngày",
+   "cross_group_note": ""
+  },
+  "thue xe may cho nguoi nha benh nhan": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-02222",
+   "basis": "Hòa; hai bài khác kỳ thuê (một tuần và theo tháng); giữ chủ lực cũ",
+   "cross_group_note": ""
+  },
+  "thue xe may cho nguoi nuoc ngoai": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-00506",
+   "basis": "Q: tiêu đề khớp 'thuê xe máy cho người nước ngoài'; BLG-01091 nhấn giấy tờ và cách trao đổi",
+   "cross_group_note": ""
+  },
+  "thue xe may gan ben xe my inh": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-00907",
+   "basis": "Q+H: 'thuê xe máy gần bến xe Mỹ Đình', hub Địa điểm thuê; BLG-02968 nhấn liên hệ và hẹn nhận xe",
+   "cross_group_note": ""
+  },
+  "thue xe may gan ga ha noi": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-00905",
+   "basis": "Q+H: 'thuê xe máy gần ga Hà Nội', hub Địa điểm thuê; BLG-02967 nhấn trường hợp xuống tàu đêm",
+   "cross_group_note": ""
+  },
+  "thue xe may gap trong ngay": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-02029",
+   "basis": "Q+C: thủ tục rút gọn vẫn đầy đủ; BLG-00904 ngắn hơn, cùng ý",
+   "cross_group_note": ""
+  },
+  "tich hop bang lai vao vneid": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-04353",
+   "basis": "Q+H: khớp 'tích hợp giấy phép lái xe vào VNeID', hub GPLX; BLG-04587 thêm bối cảnh thuê xe",
+   "cross_group_note": ""
+  },
+  "tra xe may ien thue": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-03233",
+   "basis": "H+C: hub Xe điện, kèm tự soát vỏ, đèn, phanh, cổng sạc; BLG-03073 cùng ý, góc nhận/trả",
+   "cross_group_note": ""
+  },
+  "tu xe ga chuyen sang xe so": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-02126",
+   "basis": "Q: phản xạ chung khi chuyển từ xe ga sang xe số; BLG-02922 riêng cho xe số Wave (côn tự động)",
+   "cross_group_note": ""
+  },
+  "tu xe so chuyen sang xe ga": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-02921",
+   "basis": "Q: những điều cần làm quen khi nhận xe ga lần đầu; BLG-02563 riêng cho Honda Click",
+   "cross_group_note": "cùng chủ đề với nhóm 07: chủ lực chung BLG-03135"
+  },
+  "va cham lien hoan xe may": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-05839",
+   "basis": "Q: xử lý ngay tại hiện trường (ảnh vị trí, danh sách liên lạc); BLG-05915 là bảo hiểm TNDS",
+   "cross_group_note": ""
+  },
+  "xe 50cc can bang lai khong": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-00870",
+   "basis": "H: hub Pháp lý, đã đối chiếu pháp luật 23/10/2026 và có khối đính chính; BLG-00572 (hub Xe 50cc) cùng ý",
+   "cross_group_note": ""
+  },
+  "xe ga bam e khong no": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-03340",
+   "basis": "Q+C: thứ tự dò lỗi chung cho xe ga; BLG-02569 riêng cho Honda Click",
+   "cross_group_note": ""
+  },
+  "xe may bi hut trom xang": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-03721",
+   "basis": "H+C: hub Sự cố khi thuê, phân biệt với rò rỉ và kim xăng báo sai; BLG-04110 cùng ý",
+   "cross_group_note": ""
+  },
+  "xe may chet may giua uong": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-01970",
+   "basis": "H: hub Xe khắc phục; hai bài cùng ý (chết máy giữa ngã tư hoặc đèn đỏ)",
+   "cross_group_note": ""
+  },
+  "xe may nong may khi ket xe": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-03346",
+   "basis": "H+C: giải thích làm mát bằng gió và dung dịch; BLG-02507 là bối cảnh trưa hè",
+   "cross_group_note": ""
+  },
+  "xe thue thung lop": {
+   "classification": "DISTINCT_ANGLE_KEEP",
+   "lead_id": "BLG-00885",
+   "basis": "Q: 'xe thuê bị thủng lốp ai sửa' (trách nhiệm chi phí); BLG-01093 là cách xử lý giữa phố",
+   "cross_group_note": ""
+  }
+ }
+}
