@@ -48,3 +48,5 @@ Nhiều lớp muốn tấm ảnh biểu tượng của đoàn xe đang chạy. C
 ## Ghi lại cho ban kỷ yếu
 
 Một buổi kỷ yếu bằng xe máy thành công nằm ở khâu chuẩn bị xe và đoàn: số xe đủ kèm dự phòng, kiểu xe chọn theo chủ đích, đạo cụ dễ vỡ chở riêng, trang phục chia theo người, đoàn di chuyển theo người dẫn đầu với quy tắc xe tách khỏi đoàn thì dừng chờ, lịch điểm xa trước điểm gần, điểm dừng đỗ gọn và dọn sạch, và các điều cấm an toàn nói rõ trước với cả lớp. Nếu lớp của bạn cần thuê số lượng lớn xe máy cho buổi chụp kỷ yếu ở Hà Nội và muốn tư vấn về kiểu xe, số lượng và việc giao nhận tập trung, hãy xem [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) hoặc [liên hệ]( {{ '/lien-he/' | relative_url }}) để được hỗ trợ cụ thể.
+
+Nếu buổi chụp là ảnh cưới dã ngoại của một cặp đôi, xem [thuê xe máy đi chụp ảnh cưới dã ngoại]({{ site.baseurl }}{% post_url 2026-09-20-thue-xe-may-di-chup-anh-cuoi-da-ngoai %}/).

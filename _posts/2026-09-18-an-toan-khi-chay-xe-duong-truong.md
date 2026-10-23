@@ -64,3 +64,5 @@ Nếu phải bỏ xe lại để đi tìm giúp đỡ, chụp ảnh vị trí xe
 ## Tóm lại
 
 An toàn trên đường trường đến từ bốn nguyên tắc: đi với tốc độ luôn dừng được trong tầm nhìn, giữ khoảng cách và tránh vùng mù của xe cỡ lớn, vượt dứt khoát và chỉ vượt khi thấy rõ, và nghỉ trước khi mệt. Thêm vào đó là sự nhún nhường với mặt đường xấu và thời tiết, cùng sự chuẩn bị cho trường hợp xe hỏng giữa chặng. Làm chủ được những nguyên tắc này, quãng đường dài sẽ là phần thú vị nhất của chuyến đi. Các gợi ý chọn tuyến và lịch trình quanh Hà Nội nằm trong chuyên mục [du lịch]( {{ '/du-lich/' | relative_url }} ), còn các kỹ năng lái trong phố được tổng hợp trong chuyên mục [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }} ).
+
+Khi chạy trong phố Hà Nội thay vì chặng dài, hãy đọc thêm [an toàn khi chạy xe máy ở Hà Nội: tổng quan cho người thuê xe]({{ site.baseurl }}{% post_url 2026-09-20-an-toan-khi-chay-xe-may-o-ha-noi %}/).

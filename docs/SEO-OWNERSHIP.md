@@ -29,6 +29,20 @@ Xử lý: audit từng cặp, phân biệt intent bằng cách viết lại ph�
 
 Lưu ý 2026-09-27: việc đọc và phân biệt nội dung từng cặp cần AI/người đọc, không tự động hóa được; chưa thực hiện trong lần chạy này. Ma trận còn BLOCKED nên `cannibalization_key` chưa kiểm tra được bằng validator cho hàng mới.
 
+### Kết quả rà soát 5 cặp (2026-10-23)
+
+Đã đọc cả 10 bài (legacy, không có evidence nên sửa trực tiếp được). Độ giống văn bản giữa hai bài của mỗi cặp (Jaccard 6-gram) từ 0,000 đến 0,013: không có đoạn nào bị sao chép; điểm chung chỉ là chủ đề. Hàng matrix vẫn `REVIEW` (matrix do publisher sở hữu, không sửa ở đây); không đổi URL, title, canonical.
+
+| Cặp | Kết luận | Việc đã làm |
+|---|---|---|
+| BLG-00005 ↔ BLG-00053 | Intent khác: chạy đường trường / tổng quan an toàn trong phố Hà Nội cho người thuê xe; H2 không trùng | Giữ riêng; thêm liên kết ngữ cảnh hai chiều |
+| BLG-00017 ↔ BLG-00018 | Intent khác: mùa đông (giữ ấm, sương mù) / ngày mưa (áo mưa, phanh, vùng ngập) | Giữ riêng; thêm liên kết hai chiều |
+| BLG-00227 ↔ BLG-00228 | Cùng head intent "đổi xe giữa kỳ thuê". Chủ lực: BLG-00228 (khi nào đổi + thủ tục + hợp đồng + cọc, tiêu đề đầy đủ có địa danh). Hỗ trợ: BLG-00227 (cân nhắc đổi hay giữ xe, bàn giao xe cũ, làm quen xe mới) | Viết lại `description` và đoạn mở đầu của BLG-00227 theo góc "cân nhắc và chuẩn bị", dẫn về BLG-00228 cho phần thủ tục; BLG-00228 dẫn lại BLG-00227 |
+| BLG-00410 ↔ BLG-00411 | Intent khác: ảnh cưới dã ngoại của cặp đôi / ảnh kỷ yếu của nhóm bạn | Giữ riêng; thêm liên kết hai chiều |
+| BLG-00423 ↔ BLG-00424 | Đối tượng khác: nhóm bạn và gia đình / khách nữ | Giữ riêng; thêm liên kết hai chiều |
+
+Chọn bài chủ lực theo intent và độ đầy đủ của câu trả lời, không theo độ dài bài. Không gộp, không chuyển hướng, không noindex.
+
 ## Liên kết nội bộ
 
 Bài → child hub → parent hub → 2–4 bài liên quan. Trang thương mại (/bang-gia/, /lien-he/) chỉ khi ngữ cảnh hỗ trợ chuyển đổi. Không tạo mạng anchor text khớp chính xác hàng loạt.

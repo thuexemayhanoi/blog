@@ -52,3 +52,5 @@ Một buổi chụp dã ngoại đẹp phụ thuộc vào ánh sáng nhiều hơ
 ## Tóm lại buổi chụp dã ngoại
 
 Thuê xe máy cho ảnh cưới dã ngoại hợp lệ khi: xe có yên rộng và giá sau chắc, váy chọn kiểu đi được, lịch xếp theo ánh sáng hai khung, thiết bị chở an toàn, và mọi thỏa thuận giờ chi phí chốt trước. Thời tiết có kế hoạch B và tinh thần linh hoạt. Nếu bạn đang lên kế hoạch buổi chụp ảnh cưới dã ngoại và cần thuê xe máy theo nhóm cho cặp đôi cùng nhóm thợ, hãy xem [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) hoặc [liên hệ]( {{ '/lien-he/' | relative_url }}) để được tư vấn cụ thể.
+
+Nếu cần xe cho cả nhóm bạn đi chụp ảnh kỷ yếu thay vì cặp đôi, xem [thuê xe máy đi chụp ảnh kỷ yếu nhóm bạn]({{ site.baseurl }}{% post_url 2026-09-20-thue-xe-may-di-chup-anh-ky-yeu-nhom-ban %}/).
