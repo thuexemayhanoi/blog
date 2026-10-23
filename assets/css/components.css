@@ -2008,6 +2008,29 @@
   margin: 0 0 var(--spacing-xs);
 }
 
+/* Cùng chủ đề (bài cùng từ khóa chính ở cụm khác): danh sách chữ gọn, cùng bề rộng với bài liên quan */
+.topic-siblings {
+  max-width: 760px;
+  margin: var(--spacing-lg) auto;
+  padding: var(--spacing-md);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+}
+
+.topic-siblings h2 {
+  font-size: var(--font-size-lg);
+  margin: 0 0 var(--spacing-xs);
+}
+
+.topic-siblings ul {
+  margin: 0;
+  padding-left: 1.25em;
+}
+
+.topic-siblings li {
+  margin-bottom: var(--spacing-xs);
+}
+
 /* Điều hướng bài trước/sau */
 .post-navigation {
   max-width: 760px;
