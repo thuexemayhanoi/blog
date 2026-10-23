@@ -55,7 +55,7 @@ Mọi hư hỏng sẵn có nên được chỉ ra cho người giao xe cùng bi�
 
 ## Bước 5: Thỏa thuận giá, đặt cọc và điều khoản
 
-Sau khi chốt xe, bạn sẽ trao đổi về giá thuê, tiền đặt cọc và điều khoản thuê. Về giá, các dòng xe phổ biến như xe số hay xe tay ga đều có mức giá niêm yết rõ ràng, và mức giá theo tuần hoặc theo tháng thường có sự khác biệt so với thuê lẻ từng ngày. Về đặt cọc, mức cọc tùy thuộc loại xe và thời gian thuê, vì vậy con số chính xác cần được xác nhận trực tiếp với cửa hàng trước khi bạn đưa tiền.
+Sau khi chốt xe, bạn sẽ trao đổi về giá thuê, tiền đặt cọc và điều khoản thuê. Về giá, các dòng xe phổ biến như xe số hay xe tay ga đều có mức giá niêm yết rõ ràng, và mức giá theo tuần hoặc theo tháng thường có sự khác biệt so với thuê lẻ từng ngày. Về đặt cọc, mức cọc tùy từng loại xe, vì vậy con số chính xác cần được xác nhận trực tiếp với cửa hàng trước khi bạn đưa tiền.
 
 Một số điểm đáng hỏi trong bước này:
 
@@ -79,7 +79,7 @@ Ngày trả xe, bạn nên dành ít phút để xe ở trạng thái sạch s�
 - Đổ xăng về lại mức như khi nhận xe, theo thỏa thuận ban đầu.
 - Kiểm tra lại toàn bộ xe theo đúng danh sách bạn đã dùng khi nhận.
 - Đến đúng hẹn và báo trước nếu có chuyện trễ.
-- Nhận lại đầy đủ giấy tờ và tiền cọc sau khi hai bên cùng xác nhận tình trạng xe.
+- Nhận lại đầy đủ giấy tờ; tiền cọc được hoàn trả theo điều khoản hợp đồng sau khi hai bên cùng xác nhận tình trạng xe.
 
 Nếu trong quá trình thuê xe có trầy xước hay hư hỏng phát sinh, chủ động nói rõ ngay khi trả xe. Sự minh bạch luôn giúp mọi việc được giải quyết nhanh hơn là để cửa hàng tự phát hiện.
 

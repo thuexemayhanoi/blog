@@ -208,7 +208,7 @@ Khi trả xe:
 - Trả xe đúng hẹn (theo giờ hoặc theo ngày tùy thỏa thuận)
 - Trả xe tại địa điểm đã thỏa thuận
 - Kiểm tra xe cùng nhân viên
-- Nhận lại tiền đặt cọc (nếu xe không bị hư hỏng)
+- Nhận lại tiền đặt cọc theo điều khoản hợp đồng
 
 **Lưu ý quan trọng:**
 - Nếu trả xe muộn, bạn sẽ phải trả phí phát sinh

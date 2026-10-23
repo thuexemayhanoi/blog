@@ -79,7 +79,7 @@ Mức giá tham khảo 150.000đ/ngày, 700.000đ/tuần và 900.000 – 1.200.0
 
 ## Tiền đặt cọc và các khoản cần xác nhận
 
-Tiền đặt cọc tham khảo từ 2.000.000đ đến 5.000.000đ tùy mẫu xe và thời gian thuê. Trước khi đặt xe, hãy xác nhận với Nguyễn Tú:
+Tiền đặt cọc tham khảo từ 2.000.000đ đến 5.000.000đ tùy từng loại xe. Trước khi đặt xe, hãy xác nhận với Nguyễn Tú:
 
 - Mức giá hiện hành của mẫu xe bạn chọn
 - Mức tiền đặt cọc và điều kiện hoàn trả
