@@ -41,7 +41,7 @@ Với người mới chuyển từ xe số sang xe ga, hai xe này cũng cho c�
 
 ## Chênh giá theo ngày, tuần và tháng
 
-Theo bảng giá niêm yết, thuê theo ngày, Click ở mức 150.000 đồng mỗi ngày, Vision ở mức 200.000 đồng mỗi ngày. Theo tuần, Click trong khoảng 600.000 đến 700.000 đồng, Vision trong khoảng 800.000 đến 1.000.000 đồng. Theo tháng, Click khoảng 1.000.000 đến 1.200.000 đồng, còn Vision khoảng 1.800.000 đến 2.000.000 đồng, toàn bộ các mức này xem trực tiếp tại trang [bảng giá xe ga](/bang-gia-xe-ga/).
+Theo bảng giá niêm yết, thuê theo ngày, Click ở mức 150.000 đồng mỗi ngày, Vision ở mức 200.000 đồng mỗi ngày. Theo tuần, Click trong khoảng 700.000 đồng, Vision trong khoảng 1.000.000 đồng. Theo tháng, Click khoảng 900.000 đến 1.200.000 đồng, còn Vision khoảng 1.800.000 đến 2.000.000 đồng, toàn bộ các mức này xem trực tiếp tại trang [bảng giá xe ga](/bang-gia-xe-ga/).
 
 Nhìn vào ba nấc giá, khoảng cách giữa hai xe không cố định: chênh theo ngày tương đối nhỏ, nhưng tính theo tuần và tháng thì Vision đội giá rõ hơn. Ai thuê dài hạn nhưng đa phần chỉ đi nội thành một mình nên nghiêng về Click, phần chênh tiền đó đủ bù cho nhiều tuần xăng, ai cần yên rộng và đi cung dài thường thấy khoản thêm cho Vision là đáng.
 

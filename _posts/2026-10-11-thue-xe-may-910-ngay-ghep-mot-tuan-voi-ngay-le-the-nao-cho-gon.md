@@ -45,14 +45,14 @@ Bạn không cần bảng tính, chỉ cần hai dòng:
 
 Mức giá cửa hàng đang công bố cho vài dòng xe phổ biến:
 
-- Honda Vision: 200.000đ/ngày; giá tuần từ 800.000đ đến 1 triệu đồng.
-- Honda Air Blade: 200.000đ/ngày; 800.000đ/tuần.
-- Honda Click hoặc Yamaha Mio: 150.000đ/ngày; giá tuần từ 600.000đ đến 700.000đ.
-- Honda Wave: 150.000đ/ngày; giá tuần hãy liên hệ Nguyễn Tú để xác nhận.
+- Honda Vision: 200.000đ/ngày; giá tuần 1 triệu đồng.
+- Honda Air Blade: 200.000đ/ngày; 1.000.000 đ/tuần.
+- Honda Click hoặc Yamaha Mio: 150.000đ/ngày; giá tuần 700.000đ.
+- Honda Wave: 150.000đ/ngày; giá tuần 700.000đ.
 
-Với dòng xe có khoảng giá tuần như Vision, Click, Mio, hãy tính cả đầu thấp lẫn đầu cao, rồi hỏi cửa hàng mức nào áp cho kỳ thuê của bạn. Mức giá có thể thay đổi, nên đây chỉ là mốc để bạn tự tính, không phải bảng báo giá cuối cùng.
+Giá tuần của mỗi dòng xe trên bảng giá là một mức cố định; hãy đặt mức đó cạnh phép nhân giá ngày, rồi hỏi cửa hàng xác nhận mức áp cho kỳ thuê của bạn. Mức giá có thể thay đổi, nên đây chỉ là mốc để bạn tự tính, không phải bảng báo giá cuối cùng.
 
-Có một phép thử nhanh: lấy giá ngày nhân với bảy, đặt cạnh giá tuần. Hai con số càng lệch nhau thì gói tuần càng đáng làm nền cho cả kỳ. Nếu chúng sát nhau, bạn chẳng cần ghép cho rắc rối. Với Wave, khi chưa có giá tuần, bạn chỉ có cách hai trong tay cho đến lúc cửa hàng báo mức cụ thể.
+Có một phép thử nhanh: lấy giá ngày nhân với bảy, đặt cạnh giá tuần. Hai con số càng lệch nhau thì gói tuần càng đáng làm nền cho cả kỳ. Nếu chúng sát nhau, bạn chẳng cần ghép cho rắc rối. Với Wave, giá tuần 700.000đ nên phép thử này dùng được như với các dòng khác.
 
 Mỗi ngày lẻ thêm vào là một lần trả đúng giá ngày, nên đừng cộng dư khi lịch của bạn thật ra chỉ cần chín ngày.
 
@@ -76,7 +76,7 @@ Gói tháng thuộc một nấc khác, thường chỉ đáng so khi bạn dùng
 
 Một vài chi tiết nhỏ có thể làm đổi hẳn kết quả hai phép tính, nên hãy hỏi và xác nhận trước khi đặt xe:
 
-- Giá ngày và giá tuần hiện tại cho đúng dòng xe bạn chọn, kể cả khi dòng đó đang có khoảng giá.
+- Giá ngày và giá tuần hiện tại cho đúng dòng xe bạn chọn.
 - Ngày lẻ được tính theo giờ nhận xe hay theo ngày lịch, và ngày nhận với ngày trả có được tính là hai ngày riêng hay không.
 - Có gia hạn từng ngày giữa kỳ được không, và cần báo trước bao lâu.
 - Cách tính nếu kỳ thuê ngắn hơn hoặc dài hơn dự kiến.

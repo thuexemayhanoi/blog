@@ -22,7 +22,7 @@ Mới chuyển đến Hà Nội nhận việc, nhiều người chọn thuê xe 
 Thuê theo ngày, hai dòng này cùng mức 200.000 đồng. Thuê theo tháng thì khác. Theo bảng giá đã duyệt hiện tại:
 
 - **Honda Vision:** 1.800.000–2.000.000 đồng một tháng.
-- **Honda Air Blade:** 1.400.000 đồng một tháng.
+- **Honda Air Blade:** 1.500.000 đồng một tháng.
 
 Nhiều người ngạc nhiên vì chiếc xe to hơn lại có giá tháng thấp hơn. Mức của Vision là một khoảng, con số cụ thể cửa hàng sẽ báo khi bạn đặt, nên trước khi chốt hãy xem trang [bảng giá](/bang-gia/) và hỏi lại khi đặt. Tiền đặt cọc không cố định, cửa hàng sẽ xác nhận trực tiếp với bạn. Nếu muốn hiểu cách tính giá tháng nói chung, bài [giá thuê xe máy theo tháng ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/) giải thích rõ hơn.
 

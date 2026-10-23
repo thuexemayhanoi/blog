@@ -72,9 +72,9 @@ Mũ bảo hiểm có đi kèm không cũng nên hỏi khi đặt xe. Quy trình 
 Giá thuê đã niêm yết của cửa hàng:
 
 - **Honda Wave**: 150.000 đ một ngày; giá tuần, giá tháng hỏi trực tiếp.
-- **Honda Click, Yamaha Mio**: 150.000 đ một ngày, tuần 600.000–700.000 đ, tháng 1.000.000–1.200.000 đ.
-- **Honda Air Blade**: 200.000 đ một ngày, tuần 800.000 đ, tháng 1.400.000 đ.
-- **Honda Vision**: 200.000 đ một ngày, tuần 800.000–1.000.000 đ, tháng 1.800.000–2.000.000 đ.
+- **Honda Click, Yamaha Mio**: 150.000 đ một ngày, tuần 700.000 đ, tháng 900.000–1.200.000 đ.
+- **Honda Air Blade**: 200.000 đ một ngày, tuần 1.000.000 đ, tháng 1.500.000 đ.
+- **Honda Vision**: 200.000 đ một ngày, tuần 1.000.000 đ, tháng 1.800.000–2.000.000 đ.
 
 Cách chọn theo lịch học:
 

@@ -36,9 +36,9 @@ Chưa chắc ngày nhận thì thuê ngắn trước, gia hạn sau. Chỉ cần
 Mấy ngày đầu ở Hà Nội thường chạy nhiều: từ chỗ trọ sang cơ quan, trường học, rồi đi mua sắm. Bảng giá theo ngày đã duyệt của tiệm:
 
 - Honda Wave: 150.000 đ/ngày, hợp với người quen xe số và muốn tiết kiệm.
-- Honda Click, Yamaha Mio: 150.000 đ/ngày, giá tuần 600.000–700.000 đ.
-- Honda Vision: 200.000 đ/ngày, giá tuần 800.000–1.000.000 đ.
-- Honda Air Blade: 200.000 đ/ngày, giá tuần 800.000 đ.
+- Honda Click, Yamaha Mio: 150.000 đ/ngày, giá tuần 700.000 đ.
+- Honda Vision: 200.000 đ/ngày, giá tuần 1.000.000 đ.
+- Honda Air Blade: 200.000 đ/ngày, giá tuần 1.000.000 đ.
 
 Nếu phải chờ gần một tuần, hỏi tiệm xem tính theo giá tuần có lợi hơn cộng từng ngày lẻ không. Nên chọn loại xe gần giống xe nhà để khỏi mất công làm quen, giống trường hợp [thuê xe theo ngày khi xe nhà đang sửa](/thue-xe/2026/10/14/thue-xe-may-theo-ngay-khi-xe-nha-dang-sua-o-tiem-thue-bao-lau-va-chon-xe-gan-gio/).
 

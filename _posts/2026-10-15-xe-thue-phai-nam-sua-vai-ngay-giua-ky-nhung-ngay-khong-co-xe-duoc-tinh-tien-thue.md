@@ -32,7 +32,7 @@ Bốn yếu tố thường quyết định cách tính:
 
 Gói ngày dễ: Honda Wave 150.000 đ, Honda Vision 200.000 đ một ngày, xe nằm sửa hôm nào thì thống nhất hôm đó có tính hay không.
 
-Gói tuần và tháng là giá trọn gói: Honda Vision theo tuần 800.000–1.000.000 đ, theo tháng 1.800.000–2.000.000 đ; Honda Air Blade theo tuần 800.000 đ, theo tháng 1.400.000 đ; Honda Click hoặc Yamaha Mio theo tuần 600.000–700.000 đ, theo tháng 1.000.000–1.200.000 đ. Giá trọn gói chia ra từng ngày không bằng giá thuê lẻ, nên nếu tính lại bằng tiền phải hỏi rõ quy đổi theo cách nào.
+Gói tuần và tháng là giá trọn gói: Honda Vision theo tuần 1.000.000 đ, theo tháng 1.800.000–2.000.000 đ; Honda Air Blade theo tuần 1.000.000 đ, theo tháng 1.500.000 đ; Honda Click hoặc Yamaha Mio theo tuần 700.000 đ, theo tháng 900.000–1.200.000 đ. Giá trọn gói chia ra từng ngày không bằng giá thuê lẻ, nên nếu tính lại bằng tiền phải hỏi rõ quy đổi theo cách nào.
 
 Thường gặp hai hướng xử lý:
 

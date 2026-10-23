@@ -69,7 +69,7 @@ Khi cửa hàng trả lời, đừng dừng ở một chữ "ok". Hãy nhắn l�
 
 **Chị làm văn phòng ở Cầu Giấy, thuê Honda Vision theo tháng.** Giá tháng của Vision tại cửa hàng chúng tôi là một khoảng từ 1.800.000 đến 2.000.000 đ, nên mức cụ thể của từng kỳ phụ thuộc vào lúc chốt. Kỳ của chị hết hạn ngày 20. Ngày 13, chị nhắn hỏi theo mẫu trên, cửa hàng báo mức cho tháng tiếp theo, chị nhắn lại tin xác nhận đủ ngày và số tiền rồi thanh toán đúng hẹn. Đến ngày 20 không còn gì phải bàn lại.
 
-**Sinh viên trọ ở Long Biên muốn đổi xe khi gia hạn.** Bạn đang thuê Honda Click, mức tháng cùng Yamaha Mio trong khoảng 1.000.000–1.200.000 đ. Sang kỳ mới bạn muốn đi Honda Air Blade cho đầm hơn khi qua cầu Chương Dương sang Hoàn Kiếm mỗi ngày, mà mức tháng của Air Blade là 1.400.000 đ. Lúc này việc cần làm là hỏi xem có sẵn xe đúng ngày hết hạn không và đến đổi xe trong giờ mở cửa.
+**Sinh viên trọ ở Long Biên muốn đổi xe khi gia hạn.** Bạn đang thuê Honda Click, mức tháng cùng Yamaha Mio trong khoảng 900.000–1.200.000 đ. Sang kỳ mới bạn muốn đi Honda Air Blade cho đầm hơn khi qua cầu Chương Dương sang Hoàn Kiếm mỗi ngày, mà mức tháng của Air Blade là 1.500.000 đ. Lúc này việc cần làm là hỏi xem có sẵn xe đúng ngày hết hạn không và đến đổi xe trong giờ mở cửa.
 
 Một khách nước ngoài ở Tây Hồ từng gửi chúng tôi ảnh bảng giá chụp mấy tháng trước và nghĩ đó là mức cho kỳ gia hạn. Ảnh chụp bảng giá không phải là xác nhận; cách đúng vẫn là hỏi lại và chốt bằng tin nhắn mới nhất.
 
@@ -78,7 +78,7 @@ Một khách nước ngoài ở Tây Hồ từng gửi chúng tôi ảnh bảng 
 Đừng im lặng rồi để quá ngày hết hạn. Bạn có vài lựa chọn:
 
 - **Đổi sang dòng xe có mức tháng thấp hơn,** như Honda Click hoặc Yamaha Mio cho người chủ yếu đi trong nội thành.
-- **Hỏi cách tính cho kỳ ngắn** nếu chỉ ở Hà Nội thêm khoảng hai tuần. Giá tuần của Click và Mio là 600.000–700.000 đ, của Vision là 800.000–1.000.000 đ.
+- **Hỏi cách tính cho kỳ ngắn** nếu chỉ ở Hà Nội thêm khoảng hai tuần. Giá tuần của Click và Mio là 700.000 đ, của Vision là 1.000.000 đ.
 - **Báo trả xe đúng hạn,** nhắn trước ngày giờ trả và mang xe đến trong giờ mở cửa. Dùng xe quá hạn khi chưa thỏa thuận thì cách tính ngày dùng thêm phải xác nhận trực tiếp với cửa hàng.
 
 Khi lập ngân sách, bài [báo giá thuê xe máy là một khoảng](/thue-xe/2026/10/11/bao-gia-thue-xe-may-la-mot-khoang-lap-ngan-sach-theo-muc-thap-hay-muc-cao/) giải thích nên tính theo mức thấp hay mức cao, còn bài [những khoản ngoài giá niêm yết cần hỏi trước khi thuê](/thue-xe/2026/10/04/nhung-khoan-ngoai-gia-niem-yet-can-hoi-truoc-khi-thue/) nhắc các khoản nên hỏi thêm.

@@ -40,7 +40,7 @@ Bù lại, nhiều người lái lâu năm vẫn thích cảm giác kiểm soát
 
 ## Tiền thuê và tiền xăng: khác bao nhiêu thì đáng
 
-Theo giá đã duyệt tại cửa hàng, Honda Wave thuê 150.000đ/ngày, Honda Vision 200.000đ/ngày. Chênh 50.000đ mỗi ngày nghe nhỏ, nhưng nếu thuê một tuần thì phần chênh cộng lại thành một con số bạn nên tính. Vision có mức thuê tuần khoảng 800.000đ đến 1 triệu đồng và tháng khoảng 1,8 đến 2 triệu đồng. Với Wave, hãy hỏi trực tiếp giá tuần và tháng thay vì tự đoán.
+Theo giá đã duyệt tại cửa hàng, Honda Wave thuê 150.000đ/ngày, Honda Vision 200.000đ/ngày. Chênh 50.000đ mỗi ngày nghe nhỏ, nhưng nếu thuê một tuần thì phần chênh cộng lại thành một con số bạn nên tính. Vision có mức thuê tuần khoảng 1 triệu đồng và tháng khoảng 1,8 đến 2 triệu đồng. Với Wave, mức thuê tuần khoảng 700 nghìn đồng và tháng khoảng 900 nghìn đến 1,2 triệu đồng; giá thực tế vẫn nên xác nhận trực tiếp trước khi đặt xe.
 
 Về xăng, Wave thường tiết kiệm hơn Vision một chút vì xe nhẹ và cơ cấu đơn giản, nhưng khoảng cách này không đủ lớn để quyết định nếu bạn chỉ đi phố trong vài ngày. Cách tính thực tế hơn là hỏi chính mình: phần tiền chênh có đổi lại được sự thoải mái nào không? Nếu bạn đi một ngày chỉ vài chục cây số, tiết kiệm xăng gần như không đáng kể, còn tiết kiệm sức tay chân thì có thể đáng.
 

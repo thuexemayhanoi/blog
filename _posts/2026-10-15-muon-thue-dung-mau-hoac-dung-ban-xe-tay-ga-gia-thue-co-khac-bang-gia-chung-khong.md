@@ -31,9 +31,9 @@ Nếu màu sắc chỉ là sở thích, đừng để nó quyết định cả c
 
 Bảng giá của tiệm niêm yết theo dòng xe, không chia theo màu sơn. Giá đang áp dụng:
 
-- Honda Vision: 200.000 đ/ngày, tuần 800.000–1.000.000 đ, tháng 1.800.000–2.000.000 đ.
-- Honda Air Blade: 200.000 đ/ngày, tuần 800.000 đ, tháng 1.400.000 đ.
-- Honda Click hoặc Yamaha Mio: 150.000 đ/ngày, tuần 600.000–700.000 đ, tháng 1.000.000–1.200.000 đ.
+- Honda Vision: 200.000 đ/ngày, tuần 1.000.000 đ, tháng 1.800.000–2.000.000 đ.
+- Honda Air Blade: 200.000 đ/ngày, tuần 1.000.000 đ, tháng 1.500.000 đ.
+- Honda Click hoặc Yamaha Mio: 150.000 đ/ngày, tuần 700.000 đ, tháng 900.000–1.200.000 đ.
 - Honda Wave: 150.000 đ/ngày.
 
 Chênh lệch giá bạn thấy rõ nhất là giữa các dòng xe, ví dụ Click so với Vision hay Air Blade. Muốn so kỹ từng dòng trước khi chọn, xem bài [so sánh giá thuê xe máy theo dòng xe trước khi đặt](/thue-xe/2026/10/10/so-sanh-gia-thue-xe-may-theo-dong-xe-truoc-khi-at/).

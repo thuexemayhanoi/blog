@@ -30,9 +30,9 @@ Dưới đây là mức giá đã duyệt của cửa hàng. Bảng giá có th�
 
 | Dòng xe | Giá ngày | Gói tuần | Gói tháng |
 |---|---|---|---|
-| Honda Click / Yamaha Mio | 150.000 đ | 600.000–700.000 đ | 1.000.000–1.200.000 đ |
-| Honda Air Blade | 200.000 đ | 800.000 đ | 1.400.000 đ |
-| Honda Vision | 200.000 đ | 800.000–1.000.000 đ | 1.800.000–2.000.000 đ |
+| Honda Click / Yamaha Mio | 150.000 đ | 700.000 đ | 900.000–1.200.000 đ |
+| Honda Air Blade | 200.000 đ | 1.000.000 đ | 1.500.000 đ |
+| Honda Vision | 200.000 đ | 1.000.000 đ | 1.800.000–2.000.000 đ |
 | Honda Wave | 150.000 đ | hỏi cửa hàng | hỏi cửa hàng |
 
 Giá tháng không tăng đều theo giá ngày. Air Blade và Vision cùng giá ngày nhưng gói tháng khác nhau rõ, nên hãy đọc đúng cột tháng.
@@ -79,7 +79,7 @@ Trước khi nhận xe, hãy làm ba việc:
 
 Giả sử một bạn kỹ sư ở trọ Bắc Từ Liêm, làm ca hành chính sáu ngày một tuần ở khu công nghiệp Thăng Long, đi qua cầu Thăng Long mỗi ngày. Bạn chọn Click vì đi một mình và muốn tiền thuê thấp.
 
-- Tiền thuê: gói tháng của Click nằm trong khoảng 1.000.000–1.200.000 đ. Khi lập ngân sách, lấy mức cao 1.200.000 đ cho chắc.
+- Tiền thuê: gói tháng của Click nằm trong khoảng 900.000–1.200.000 đ. Khi lập ngân sách, lấy mức cao 1.200.000 đ cho chắc.
 - Tiền xăng: đo quãng một chiều trên bản đồ, áp công thức ở trên với 26 ngày làm.
 - Tiền gửi xe: cộng phần chủ trọ thu và vé bãi xe nhà máy nếu có.
 - Dự phòng: một khoản nhỏ cho rửa xe, vá lốp.

@@ -27,7 +27,7 @@ Air Blade là xe ga cỡ trung, thân xe chắc, ngồi vững và cốp đủ �
 - **Ga đủ mạnh khi cần nhập làn.** Qua cầu Chương Dương hay lên dốc cầu Vĩnh Tuy giờ cao điểm, xe không bị đuối.
 - **Cốp và móc treo đủ dùng.** Túi máy tính, hộp cơm trưa, áo mưa đều có chỗ, nhờ vậy bạn không phải đeo ba lô nặng suốt đường.
 
-Giá thuê theo tháng của Honda Air Blade ở tiệm là 1.400.000 đồng. Giấy tờ cần mang và mức đặt cọc sẽ được xác nhận trực tiếp khi bạn đến nhận xe, nên hãy hỏi rõ trước và xin biên nhận cho mọi thứ mình để lại. Bảng giá các dòng khác có ở trang [bảng giá](/bang-gia/).
+Giá thuê theo tháng của Honda Air Blade ở tiệm là 1.500.000 đồng. Giấy tờ cần mang và mức đặt cọc sẽ được xác nhận trực tiếp khi bạn đến nhận xe, nên hãy hỏi rõ trước và xin biên nhận cho mọi thứ mình để lại. Bảng giá các dòng khác có ở trang [bảng giá](/bang-gia/).
 
 ## Tuần đầu: tập tuyến đi làm trước khi phải đi thật
 

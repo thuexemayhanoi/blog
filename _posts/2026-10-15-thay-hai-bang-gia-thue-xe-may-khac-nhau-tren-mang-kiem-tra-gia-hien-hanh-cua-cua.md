@@ -63,9 +63,9 @@ Dưới đây là mức tham khảo tại thời điểm viết bài, tháng 10 
 | Dòng xe | Theo ngày | Theo tuần | Theo tháng |
 |---|---|---|---|
 | Honda Wave | 150.000 đ | hỏi cửa hàng | hỏi cửa hàng |
-| Honda Vision | 200.000 đ | 800.000–1.000.000 đ | 1.800.000–2.000.000 đ |
-| Honda Air Blade | 200.000 đ | 800.000 đ | 1.400.000 đ |
-| Honda Click / Yamaha Mio | 150.000 đ | 600.000–700.000 đ | 1.000.000–1.200.000 đ |
+| Honda Vision | 200.000 đ | 1.000.000 đ | 1.800.000–2.000.000 đ |
+| Honda Air Blade | 200.000 đ | 1.000.000 đ | 1.500.000 đ |
+| Honda Click / Yamaha Mio | 150.000 đ | 700.000 đ | 900.000–1.200.000 đ |
 
 Xe máy điện và xe đạp điện: liên hệ cửa hàng để xác nhận giá. Tiền cọc, bảo hiểm và các khoản phát sinh không nằm trong bảng trên, tất cả đều xác nhận trực tiếp với cửa hàng.
 

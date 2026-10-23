@@ -25,13 +25,13 @@ Có số ngày rồi, so với giá tháng của từng dòng xe.
 
 ## Thuê lẻ cuối tuần hay thuê tháng: so từng dòng xe
 
-**Honda Click, Yamaha Mio.** Giá ngày 150.000 đồng, giá tháng 1.000.000 đến 1.200.000 đồng. Tám ngày thuê lẻ cộng lại đúng bằng 1.200.000 đồng, tức ngang mức cao nhất của giá tháng. Tháng có năm cuối tuần thì thuê lẻ vượt giá tháng. Với dòng này, hai cách gần như ngang tiền thuê, và quyết định nằm ở các chi phí khác bên dưới.
+**Honda Click, Yamaha Mio.** Giá ngày 150.000 đồng, giá tháng 900.000 đến 1.200.000 đồng. Tám ngày thuê lẻ cộng lại đúng bằng 1.200.000 đồng, tức ngang mức cao nhất của giá tháng. Tháng có năm cuối tuần thì thuê lẻ vượt giá tháng. Với dòng này, hai cách gần như ngang tiền thuê, và quyết định nằm ở các chi phí khác bên dưới.
 
 **Honda Vision.** Giá ngày 200.000 đồng, giá tháng 1.800.000 đến 2.000.000 đồng. Tám ngày thuê lẻ vẫn thấp hơn mức thấp nhất của giá tháng; tháng có năm cuối tuần thì mười ngày thuê lẻ cũng chỉ ngang mức 2.000.000 đồng. Nếu bạn thích Vision và chỉ đi cuối tuần, thuê lẻ thường nhẹ tiền hơn.
 
-**Honda Air Blade.** Giá ngày 200.000 đồng, giá tháng 1.400.000 đồng. Ở đây ngược lại: tám ngày thuê lẻ đã vượt giá tháng. Nếu bạn chắc chắn đi cả bốn cuối tuần, giữ Air Blade cả tháng rẻ hơn về tiền thuê.
+**Honda Air Blade.** Giá ngày 200.000 đồng, giá tháng 1.500.000 đồng. Ở đây ngược lại: tám ngày thuê lẻ đã vượt giá tháng. Nếu bạn chắc chắn đi cả bốn cuối tuần, giữ Air Blade cả tháng rẻ hơn về tiền thuê.
 
-**Honda Wave.** Giá ngày 150.000 đồng, nhưng giá tháng chưa niêm yết. Muốn so hai cách với Wave, hãy hỏi cửa hàng giá tháng trước.
+**Honda Wave.** Giá ngày 150.000 đồng, giá tháng 900.000 đến 1.200.000 đồng. Tám ngày thuê lẻ cộng lại đúng bằng 1.200.000 đồng, tức ngang mức cao nhất của giá tháng, nên với Wave hai cách cũng gần như ngang tiền thuê.
 
 Mọi con số trên lấy từ [bảng giá thuê xe](/bang-gia/ "Bảng giá thuê xe máy"); giá tháng dạng khoảng thì mức cụ thể do cửa hàng xác nhận khi bạn hỏi.
 
@@ -49,7 +49,7 @@ Cuối tuần cũng là lúc nhiều người thuê xe. Thuê lẻ thì nên đ�
 
 ## Thuê xe máy chỉ cuối tuần: thử lập lịch một tháng
 
-Trước khi chọn, hãy viết ra lịch cuối tuần của cả tháng. Ví dụ: tuần đầu chạy lên Ba Vì, tuần thứ hai ở lại trong phố đi ăn, đi cà phê ở Tây Hồ, tuần thứ ba về quê, tuần cuối đi Sóc Sơn. Nhìn vào lịch ấy, bạn thấy chỉ ba cuối tuần thực sự cần xe, vì tuần về quê bạn đi xe khách. Ba cuối tuần là sáu ngày thuê lẻ, và với mọi dòng xe có giá tháng trên bảng giá, sáu ngày theo giá ngày đều thấp hơn giữ xe cả tháng.
+Trước khi chọn, hãy viết ra lịch cuối tuần của cả tháng. Ví dụ: tuần đầu chạy lên Ba Vì, tuần thứ hai ở lại trong phố đi ăn, đi cà phê ở Tây Hồ, tuần thứ ba về quê, tuần cuối đi Sóc Sơn. Nhìn vào lịch ấy, bạn thấy chỉ ba cuối tuần thực sự cần xe, vì tuần về quê bạn đi xe khách. Ba cuối tuần là sáu ngày thuê lẻ, và với mọi dòng xe có giá tháng trên bảng giá, sáu ngày theo giá ngày không cao hơn giữ xe cả tháng.
 
 Lịch của nhiều người thay đổi theo thời tiết, công việc hay sức khỏe. Nếu bạn chưa chắc, thuê lẻ cho tháng đầu, ghi lại thực tế mình dùng xe mấy cuối tuần, rồi tháng sau mới quyết định có giữ xe cả tháng hay không. Xăng là chi phí của bạn ở cả hai cách, nên không làm thay đổi phép so sánh.
 

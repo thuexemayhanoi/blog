@@ -31,7 +31,7 @@ Số ngày thuê phụ thuộc vào lịch của gia đình. Ba trường hợp 
 
 - **Thi một ca rồi về ngay.** Nhận xe chiều hôm trước, thi xong trả xe trong ngày. Thường là hai ngày thuê, nhưng hãy hỏi cửa hàng nhận chiều hôm trước, trả chiều hôm sau thì tính thế nào.
 - **Thi xong ở lại một đêm.** Nhiều nhà muốn cho con nghỉ, hôm sau mới về. Khi đó tính ba ngày, trả xe buổi sáng trước giờ xe khách chạy.
-- **Ở thêm vài ngày xem trường, thăm người thân.** Hãy so tổng tiền theo ngày với giá tuần. Ví dụ Honda Vision có giá tuần 800.000–1.000.000 đ, Honda Click hoặc Yamaha Mio có giá tuần 600.000–700.000 đ.
+- **Ở thêm vài ngày xem trường, thăm người thân.** Hãy so tổng tiền theo ngày với giá tuần. Ví dụ Honda Vision có giá tuần 1.000.000 đ, Honda Click hoặc Yamaha Mio có giá tuần 700.000 đ.
 
 Tiền thuê theo ngày thì lấy số ngày nhân giá niêm yết: Honda Wave 150.000 đ, Honda Vision và Honda Air Blade cùng 200.000 đ một ngày. Cách tính cho chuyến ngắn một hai ngày còn được nói kỹ trong bài [từ tỉnh lên Hà Nội nộp hồ sơ, phỏng vấn visa](/thue-xe/2026/10/15/tu-tinh-len-ha-noi-nop-ho-so-phong-van-visa-thue-xe-may-mot-hai-ngay-va-tinh-tie/).
 

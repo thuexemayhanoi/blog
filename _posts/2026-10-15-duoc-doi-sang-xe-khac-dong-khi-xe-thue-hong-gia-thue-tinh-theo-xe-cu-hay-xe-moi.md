@@ -43,7 +43,7 @@ Trường hợp sau thực chất là một yêu cầu đổi xe, nên chuyện 
 
 ## Gói tuần và tháng: chênh lệch không chỉ nằm ở giá ngày
 
-Nếu bạn thuê theo tuần hoặc tháng, phép tính phức tạp hơn. Honda Vision theo tuần 800.000–1.000.000 đ, theo tháng 1.800.000–2.000.000 đ. Honda Air Blade theo tuần 800.000 đ, theo tháng 1.400.000 đ. Honda Click hoặc Yamaha Mio theo tuần 600.000–700.000 đ, theo tháng 1.000.000–1.200.000 đ. Honda Wave hiện chỉ có giá ngày, gói dài hơn cần hỏi trực tiếp.
+Nếu bạn thuê theo tuần hoặc tháng, phép tính phức tạp hơn. Honda Vision theo tuần 1.000.000 đ, theo tháng 1.800.000–2.000.000 đ. Honda Air Blade theo tuần 1.000.000 đ, theo tháng 1.500.000 đ. Honda Click hoặc Yamaha Mio theo tuần 700.000 đ, theo tháng 900.000–1.200.000 đ. Honda Wave theo tuần 700.000 đ, theo tháng 900.000–1.200.000 đ.
 
 Để ý rằng Vision và Air Blade cùng giá ngày nhưng giá tháng khác nhau. Vậy nên đổi giữa hai xe này trong gói tháng vẫn cần hỏi lại, đừng nghĩ cùng giá ngày là xong. Tương tự, đổi từ Click sang Vision giữa tháng thì phần còn lại tính theo gói tháng của Vision, theo giá ngày, hay giữ gói cũ, là ba con số rất khác nhau. Bài [xe đắt hơn mỗi ngày: cộng dồn theo tuần và tháng chênh bao nhiêu](/thue-xe/2026/10/11/xe-at-hon-50000-mot-ngay-cong-don-theo-tuan-va-thang-chenh-bao-nhieu/) giúp bạn ước lượng trước phần cộng dồn.
 

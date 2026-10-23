@@ -75,7 +75,7 @@ Kinh nghiệm chọn chỗ để xe quanh hồ có trong bài [gửi xe khi đi 
 
 ## Người ở trọ quanh Yên Phụ: chuyện xe hằng ngày
 
-Ở trọ trong làng nên hỏi chủ nhà trước chuyện để xe trong nhà hay ngoài ngõ, mấy giờ khóa cổng; sáng đi làm thì ra ngõ sớm hơn giờ cao điểm vì chỗ nhập dòng lên đê kẹt nhất. Xe gọn, nhẹ hợp ngõ hẹp. Ở cửa hàng, Honda Wave 150.000 đ/ngày; Honda Click hoặc Yamaha Mio 150.000 đ/ngày, thuê tháng 1.000.000–1.200.000 đ; Honda Vision 200.000 đ/ngày. Bảng đầy đủ ở trang [giá thuê xe máy](/bang-gia/). Tiền cọc, mũ bảo hiểm và cách tính khi trả trễ, bạn hỏi cửa hàng khi đặt xe để được xác nhận trực tiếp.
+Ở trọ trong làng nên hỏi chủ nhà trước chuyện để xe trong nhà hay ngoài ngõ, mấy giờ khóa cổng; sáng đi làm thì ra ngõ sớm hơn giờ cao điểm vì chỗ nhập dòng lên đê kẹt nhất. Xe gọn, nhẹ hợp ngõ hẹp. Ở cửa hàng, Honda Wave 150.000 đ/ngày; Honda Click hoặc Yamaha Mio 150.000 đ/ngày, thuê tháng 900.000–1.200.000 đ; Honda Vision 200.000 đ/ngày. Bảng đầy đủ ở trang [giá thuê xe máy](/bang-gia/). Tiền cọc, mũ bảo hiểm và cách tính khi trả trễ, bạn hỏi cửa hàng khi đặt xe để được xác nhận trực tiếp.
 
 ## Ghép Yên Phụ vào một vòng Hồ Tây
 

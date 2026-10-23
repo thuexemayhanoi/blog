@@ -22,9 +22,9 @@ writer_session: s-claudeb-w2
 Bảng giá ở tiệm Nguyễn Tú là giá của từng chiếc xe theo ngày, không phải giá theo đầu người. Các mức đang áp dụng:
 
 - Honda Wave: 150.000 đ/ngày.
-- Honda Click hoặc Yamaha Mio: 150.000 đ/ngày, thuê tuần 600.000–700.000 đ, thuê tháng 1.000.000–1.200.000 đ.
-- Honda Vision: 200.000 đ/ngày, thuê tuần 800.000–1.000.000 đ, thuê tháng 1.800.000–2.000.000 đ.
-- Honda Air Blade: 200.000 đ/ngày, thuê tuần 800.000 đ, thuê tháng 1.400.000 đ.
+- Honda Click hoặc Yamaha Mio: 150.000 đ/ngày, thuê tuần 700.000 đ, thuê tháng 900.000–1.200.000 đ.
+- Honda Vision: 200.000 đ/ngày, thuê tuần 1.000.000 đ, thuê tháng 1.800.000–2.000.000 đ.
+- Honda Air Blade: 200.000 đ/ngày, thuê tuần 1.000.000 đ, thuê tháng 1.500.000 đ.
 
 Còn việc ghi thêm một người lái có làm thay đổi gì trong giá hay điều kiện thuê không, cách đúng nhất là hỏi thẳng khi đặt, đừng tự mặc định. Một câu hỏi qua tin nhắn mất chưa tới một phút, còn hiểu lầm lúc trả xe thì mất cả buổi.
 

@@ -59,7 +59,7 @@ Vài nguyên tắc chọn giờ nhận:
 
 ### Năm hoặc sáu ngày
 
-So gói tuần với tổng tiền nếu tính lẻ theo giá ngày niêm yết. Honda Air Blade 200.000 đ một ngày, gói tuần 800.000 đ, nên tính lẻ từ ngày thứ năm đã vượt gói tuần. Honda Vision cũng 200.000 đ một ngày, gói tuần 800.000 đến 1.000.000 đ. Honda Click hay Yamaha Mio 150.000 đ một ngày, gói tuần 600.000 đến 700.000 đ, thuê lẻ năm ngày đã cao hơn. Honda Wave niêm yết giá ngày 150.000 đ; muốn giữ Wave cả tuần thì hỏi cửa hàng có gói tuần cho dòng này không.
+So gói tuần với tổng tiền nếu tính lẻ theo giá ngày niêm yết. Honda Air Blade 200.000 đ một ngày, gói tuần 1.000.000 đ, nên tính lẻ từ ngày thứ sáu đã vượt gói tuần. Honda Vision cũng 200.000 đ một ngày, gói tuần 1.000.000 đ. Honda Click hay Yamaha Mio 150.000 đ một ngày, gói tuần 700.000 đ, thuê lẻ năm ngày đã cao hơn. Honda Wave giá ngày 150.000 đ, gói tuần 700.000 đ, thuê lẻ năm ngày cũng đã cao hơn.
 
 Trả sớm có được hoàn phần ngày chưa dùng hay không thì chưa có chính sách chung để khẳng định, bạn hỏi cửa hàng khi đặt xe và đừng tính khoản đó vào ngân sách. So kỹ từng mốc số ngày ở bài [giá thuê xe máy theo số ngày: hỏi gói ngày nào rẻ](/thue-xe/2026/10/11/gia-thue-xe-may-giam-theo-so-ngay-hoi-goi-ngay-nao-re/).
 
@@ -71,12 +71,12 @@ Nhiều khi chỉ cần dời giờ nhận là hết ngày lẻ. Bạn tới Hà
 
 ### Từ hai tuần trở lên
 
-Lịch từ hai tuần thì hỏi luôn giá tháng. Air Blade thuê tháng 1.400.000 đ, nghĩa là hai gói tuần cộng lại đã cao hơn. Vision thuê tháng 1.800.000 đến 2.000.000 đ, Click hay Mio 1.000.000 đến 1.200.000 đ. Những gì làm giá tháng xê dịch có trong bài [các yếu tố làm giá thuê xe máy tháng tăng giảm](/thue-xe/2026/10/07/cac-yeu-to-lam-gia-thue-xe-may-thang-tang-giam/).
+Lịch từ hai tuần thì hỏi luôn giá tháng. Air Blade thuê tháng 1.500.000 đ, nghĩa là hai gói tuần cộng lại đã cao hơn. Vision thuê tháng 1.800.000 đến 2.000.000 đ, Click hay Mio 900.000 đến 1.200.000 đ. Những gì làm giá tháng xê dịch có trong bài [các yếu tố làm giá thuê xe máy tháng tăng giảm](/thue-xe/2026/10/07/cac-yeu-to-lam-gia-thue-xe-may-thang-tang-giam/).
 
 ## Những câu nên chốt trước khi nhận xe
 
 - Mốc trả: thứ mấy, mấy giờ, ghi trong tin nhắn xác nhận hoặc giấy nhận xe.
-- Giá gói tuần đúng dòng xe bạn nhận, vì Vision, Click và Mio có khoảng giá chứ không phải một con số.
+- Giá gói tuần đúng dòng xe bạn nhận, vì giá tháng của Click và Mio là một khoảng chứ không phải một con số.
 - Trả sớm có được hoàn phần chưa dùng không, trả quá mốc tính thế nào: xác nhận trực tiếp với cửa hàng.
 - Mức cọc xác nhận khi đặt xe; có cần để lại giấy tờ hay không cũng hỏi luôn lúc đó.
 - Ngày trả rơi vào dịp lễ, Tết: gọi trước để chắc cửa hàng mở đúng khung giờ bạn định tới.
