@@ -29,7 +29,7 @@ Cặp tiêu đề gần trùng trong cùng cụm (INFERRED): **82** dòng.
 ### `thue vision hay air blade` (4 bài)
 - **URL chủ lực đề xuất** — Thuê Vision hay Air Blade ở Hà Nội: so sánh tư thế ngồi, cốp xe và cảm giác lái trong phố (cụm `C-XE-GA`, 1382 từ, `/xe-may/2026/10/14/thue-vision-hay-air-blade-o-ha-noi-so-sanh-tu-the-ngoi-cop-xe-va-cam-giac-lai-tr/`)
 - bổ trợ — Vision hay Air Blade: thuê xe ga nào hợp đi phố Hà Nội hơn (cụm `C-XE-LUA-CHON`, 1363 từ, `/xe-may/2026/10/14/vision-hay-air-blade-thue-xe-ga-nao-hop-di-pho-ha-noi-hon/`)
-- bổ trợ — Thuê Honda Vision hay Air Blade cho chuyến du lịch Hà Nội: chọn theo lộ trình và người ngồi sau (cụm `C-HONDA-VISION`, 1180 từ, `/xe-may/2026/10/14/thue-honda-vision-hay-air-blade-cho-chuyen-du-lich-ha-noi-chon-theo-lo-trinh-va/`)
+- bổ trợ — Thuê Honda Vision hay Air Blade cho chuyến du lịch Hà Nội: chọn theo lộ trình và người ngồi sau (cụm `C-HONDA-VISION`, 1177 từ, `/xe-may/2026/10/14/thue-honda-vision-hay-air-blade-cho-chuyen-du-lich-ha-noi-chon-theo-lo-trinh-va/`)
 - bổ trợ — Nên thuê Vision hay Air Blade khi đi phố (cụm `C-HD-CHON-XE`, 1136 từ, `/hoi-dap/2026/09/30/nen-thue-vision-hay-air-blade-khi-i-pho/`)
 
 ### `chuot can day ien xe may` (3 bài)
