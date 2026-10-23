@@ -8,10 +8,11 @@
 
 Không sửa _posts, matrix, data/qa. Không đổi URL, không canonical/noindex/redirect, không xóa hay gộp bài.
 Nhóm chỉ gồm bài đang phát hành (PUBLISHED/EXISTING/REVIEW, tệp có thật, không noindex, không published:false).
-Thứ tự liên kết: bài dài hơn trước (bài chủ lực đề xuất của nhóm đứng đầu), rồi theo ngày — ổn định, không ngẫu nhiên.
+Thứ tự liên kết: bài chủ lực đã rà theo intent (sổ scripts/seo/cannibalization-leads.json) đứng đầu nếu nhóm có trong sổ;
+các bài còn lại (và nhóm chưa có trong sổ): bài dài hơn trước, rồi theo ngày — ổn định, không ngẫu nhiên.
 Mỗi bài tối đa MAX_LINKS liên kết (nhóm lớn hơn: giữ bài dài nhất). Idempotent: chạy lại không đổi byte khi dữ liệu nguồn không đổi.
 
-Nhãn: FACT = đọc từ tệp. Việc bài nào là "chủ lực" chỉ là đề xuất (INFERRED, theo độ dài) — template KHÔNG nêu bài nào là chủ lực.
+Nhãn: FACT = đọc từ tệp. Việc bài nào là "chủ lực" là đề xuất đã rà theo intent (INFERRED, chưa có dữ liệu Search Console) — template KHÔNG nêu bài nào là chủ lực.
 """
 from __future__ import annotations
 
@@ -28,6 +29,7 @@ OUT = ROOT / "_data" / "seo-topic-links.json"
 LIVE_STATUS = ("PUBLISHED", "EXISTING", "REVIEW")
 MAX_LINKS = 3
 SCHEMA = "seo-topic-links/1"
+LEADS_REL = "scripts/seo/cannibalization-leads.json"
 META_KEY = "_meta"
 
 
@@ -96,8 +98,15 @@ def live_members(root: Path = ROOT) -> dict[str, list[dict]]:
     return groups
 
 
+def reviewed_leads(root: Path = ROOT) -> dict[str, dict]:
+    """cannibalization_key -> {lead_id, ...} từ sổ chủ lực đã rà theo intent; không có sổ thì {} (giữ thứ tự theo độ dài)."""
+    p = root / LEADS_REL
+    return json.loads(p.read_text(encoding="utf-8")).get("groups", {}) if p.is_file() else {}
+
+
 def build(root: Path = ROOT) -> dict:
     groups = live_members(root)
+    leads = reviewed_leads(root)
     data: dict[str, dict] = {}
     n_groups = n_posts = 0
     for key, ms in sorted(groups.items()):
@@ -107,6 +116,9 @@ def build(root: Path = ROOT) -> dict:
         if len({m["url"] for m in ms}) != len(ms):
             continue
         n_groups += 1
+        lead_id = (leads.get(key) or {}).get("lead_id")
+        if lead_id:
+            ms.sort(key=lambda m: m["id"] != lead_id)  # sắp ổn định: chủ lực lên đầu, giữ thứ tự cũ cho các bài còn lại
         for m in ms:
             others = [o for o in ms if o["url"] != m["url"]][:MAX_LINKS]
             data[m["url"]] = {"group": key, "links": [{"url": o["url"], "title": o["title"]} for o in others]}

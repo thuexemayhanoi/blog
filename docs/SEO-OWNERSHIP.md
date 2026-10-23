@@ -32,3 +32,19 @@ Lưu ý 2026-09-27: việc đọc và phân biệt nội dung từng cặp cần
 ## Liên kết nội bộ
 
 Bài → child hub → parent hub → 2–4 bài liên quan. Trang thương mại (/bang-gia/, /lien-he/) chỉ khi ngữ cảnh hỗ trợ chuyển đổi. Không tạo mạng anchor text khớp chính xác hàng loạt.
+
+## URL chủ lực của nhóm trùng từ khóa (đã rà theo intent, 2026-10-23)
+
+Nhóm trùng `cannibalization_key` (49 nhóm, 107 bài ở lần rà này): chủ lực chọn theo **intent**, không theo độ dài bài. Sổ đăng ký ở
+`scripts/seo/cannibalization-leads.json` (sửa tay có lý do; khóa = `cannibalization_key`). Quy tắc theo thứ tự: **Q** tiêu đề/mô tả trả lời
+trực tiếp cụm từ khóa chung, không kèm giới hạn đối tượng/mùa/mẫu xe; **H** đúng hub sở hữu intent; **C** trả lời đầy đủ quy trình/quyết định;
+**K** giá trị thương mại khi ngang nhau; hòa hoàn toàn thì giữ chủ lực cũ. Kết quả: 30 nhóm `SAME_INTENT_MONITOR` (cùng nhu cầu người đọc),
+19 nhóm `DISTINCT_ANGLE_KEEP` (nhu cầu hoặc đối tượng khác); 33 chủ lực trùng bài dài nhất, 16 nhóm đổi sang bài khác.
+
+Sổ được dùng bởi `scripts/seo/build-matrix.py` (cột `lead_selection`, `classification` trong `cannibalization-risk.csv`; nhóm chưa có trong
+sổ ghi `LONGEST_FALLBACK`), `scripts/seo/build-topic-links.py` (chủ lực đứng đầu danh sách "Cùng chủ đề") và
+`scripts/seo/build-cannibalization-classification.py` (sinh `reports/factory/seo-master/cannibalization-classification.csv`, kèm độ giống
+văn bản Jaccard 6-gram). Nhóm mới phát sinh khi writer phát hành thêm bài trùng khóa: bộ sinh gắn `UNREVIEWED` và chủ lực tạm = bài dài nhất
+(không phải quyết định); người rà thêm một mục vào sổ rồi chạy lại ba script. `test_cannibalization_leads.py` giữ sổ khớp matrix.
+
+Chưa có dữ liệu Search Console của blog (UNKNOWN), nên chủ lực là đề xuất INFERRED; gộp nội dung + chuyển hướng 301 vẫn cần hạ tầng 301 và chủ duyệt.

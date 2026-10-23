@@ -55,7 +55,7 @@ CI = [
     # hợp đồng tĩnh/hardening + watchdog
     'test_hardening', 'test_watchdog',
     # liên kết ngữ cảnh "Cùng chủ đề" (cannibalization)
-    'test_topic_links',
+    'test_topic_links', 'test_cannibalization_leads',
     # mô phỏng đồng thời đầu-cuối (engine thật, origin bare cục bộ)
     'test_multiwriter_sim',
 ]
