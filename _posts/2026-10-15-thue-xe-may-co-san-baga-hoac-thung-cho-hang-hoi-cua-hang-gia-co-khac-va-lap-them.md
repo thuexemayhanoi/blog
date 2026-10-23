@@ -74,7 +74,7 @@ Chở nặng thì quãng phanh dài hơn, nên giữ khoảng cách xa hơn bìn
 
 ## Thuê theo tuần, theo tháng để chở hàng
 
-Bán hàng thường cần xe nhiều ngày liền, nên hỏi luôn mức theo tuần và tháng. Theo bảng giá đã duyệt: Honda Click và Yamaha Mio từ 600.000 đến 700.000 đ một tuần, từ 1.000.000 đến 1.200.000 đ một tháng; Honda Air Blade 800.000 đ một tuần, 1.400.000 đ một tháng; Honda Vision từ 800.000 đến 1.000.000 đ một tuần, từ 1.800.000 đến 2.000.000 đ một tháng.
+Bán hàng thường cần xe nhiều ngày liền, nên hỏi luôn mức theo tuần và tháng. Theo bảng giá đã duyệt: Honda Click và Yamaha Mio 700.000 đ một tuần, từ 900.000 đến 1.200.000 đ một tháng; Honda Air Blade 1.000.000 đ một tuần, 1.500.000 đ một tháng; Honda Vision 1.000.000 đ một tuần, từ 1.800.000 đến 2.000.000 đ một tháng.
 
 Khi thuê dài để chở hàng, nói thật với cửa hàng về cường độ sử dụng, để hai bên thống nhất lịch kiểm tra xe giữa kỳ. Những yếu tố làm giá tháng thay đổi có trong bài [các yếu tố làm giá thuê xe máy tháng tăng giảm](/thue-xe/2026/10/07/cac-yeu-to-lam-gia-thue-xe-may-thang-tang-giam/), còn các khoản nên hỏi ngoài tiền thuê có trong bài [những khoản ngoài giá niêm yết cần hỏi trước khi thuê](/thue-xe/2026/10/04/nhung-khoan-ngoai-gia-niem-yet-can-hoi-truoc-khi-thue/).
 

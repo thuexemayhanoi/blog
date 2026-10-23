@@ -24,7 +24,7 @@ Tính theo giá ngày, mỗi ngày Air Blade đắt hơn Wave đúng 50.000đ. C
 - Năm ngày: Wave 750.000đ, Air Blade 1 triệu đồng, chênh 250.000đ.
 - Mười ngày: Wave 1,5 triệu đồng, Air Blade 2 triệu đồng, chênh 500.000đ.
 
-Chuyến ngắn thì khoản chênh gần như không đáng kể, chuyến dài mới thành món tiền đủ cho vài bữa ăn của hai người. Cũng cần nói thêm: thuê từ một tuần trở lên, giá thường tính theo tuần hoặc theo tháng chứ không nhân giá ngày, nên mức chênh có thể khác hẳn con số 50.000đ. Air Blade đang ở mức 800.000đ một tuần và 1,4 triệu đồng một tháng; với Wave, bạn nên hỏi lại giá hiện tại để so cho đúng.
+Chuyến ngắn thì khoản chênh gần như không đáng kể, chuyến dài mới thành món tiền đủ cho vài bữa ăn của hai người. Cũng cần nói thêm: thuê từ một tuần trở lên, giá thường tính theo tuần hoặc theo tháng chứ không nhân giá ngày, nên mức chênh có thể khác hẳn con số 50.000đ. Air Blade đang ở mức 1.000.000 đ một tuần và 1,5 triệu đồng một tháng; Wave ở mức 700 nghìn đồng một tuần và 900 nghìn đến 1,2 triệu đồng một tháng.
 
 Vì vậy câu hỏi hữu ích hơn là: với lịch trình của mình, 50.000đ mỗi ngày mua thêm được sự dễ chịu ở chỗ nào.
 

@@ -42,9 +42,9 @@ Mở cuộc trò chuyện trên Zalo, Messenger hay tin nhắn điện thoại, 
 Bước tiếp theo là xem con số mới có nằm trong bảng giá của cửa hàng không. Với Nguyễn Tú, bảng giá đã niêm yết gồm:
 
 - Honda Wave: ngày 150.000 đồng, tuần và tháng liên hệ.
-- Honda Vision: ngày 200.000 đồng; tuần 800.000–1.000.000 đồng; tháng 1.800.000–2.000.000 đồng.
-- Honda Air Blade: ngày 200.000 đồng; tuần 800.000 đồng; tháng 1.400.000 đồng.
-- Honda Click, Yamaha Mio: ngày 150.000 đồng; tuần 600.000–700.000 đồng; tháng 1.000.000–1.200.000 đồng.
+- Honda Vision: ngày 200.000 đồng; tuần 1.000.000 đồng; tháng 1.800.000–2.000.000 đồng.
+- Honda Air Blade: ngày 200.000 đồng; tuần 1.000.000 đồng; tháng 1.500.000 đồng.
+- Honda Click, Yamaha Mio: ngày 150.000 đồng; tuần 700.000 đồng; tháng 900.000–1.200.000 đồng.
 - Xe máy điện, xe đạp điện: liên hệ để xác nhận giá hiện tại.
 
 Toàn bộ bảng có tại trang [bảng giá thuê xe](/bang-gia/). Cách đọc nhanh: đơn giá theo ngày cửa hàng đang áp có khớp dòng xe bạn nhận không, và nếu là gói tuần hay tháng thì con số có nằm trong khung đã niêm yết không. Đừng tự cộng nhân để ra một tổng mới rồi đem so, vì dễ lệch do cách đếm ngày. Hãy đề nghị cửa hàng ghi rõ đơn giá, số ngày và tổng, rồi đối chiếu từng phần. Bài [đọc báo giá thuê xe máy, con số nào là con số thật](/thue-xe/2026/09/27/cach-oc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that/) giải thích kỹ hơn cách tách các thành phần này.

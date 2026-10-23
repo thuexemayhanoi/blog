@@ -72,7 +72,7 @@ Nếu bạn rơi vào cả hai nhóm, ví dụ người dáng nhỏ nhưng hay c
 
 ## Giá thuê và tình trạng xe có sẵn
 
-Với Honda Vision, giá đã duyệt tại tiệm là 200.000 đồng một ngày; thuê tuần từ 800.000 đến 1.000.000 đồng, thuê tháng từ 1.800.000 đến 2.000.000 đồng. Bảng đầy đủ các mẫu xe nằm ở trang [bảng giá](/bang-gia/).
+Với Honda Vision, giá đã duyệt tại tiệm là 200.000 đồng một ngày; thuê tuần 1.000.000 đồng, thuê tháng từ 1.800.000 đến 2.000.000 đồng. Bảng đầy đủ các mẫu xe nằm ở trang [bảng giá](/bang-gia/).
 
 Với Honda Lead, hiện chưa có mức giá công bố sẵn, nên bạn vui lòng liên hệ cửa hàng để được báo giá. Cũng vì vậy, việc tiệm có sẵn Lead trong ngày bạn cần hay không phải do cửa hàng xác nhận trước khi đặt; đừng mặc định là lúc nào cũng có. Nếu Lead không có sẵn, hãy hỏi phương án thay thế hợp với nhu cầu chở đồ.
 

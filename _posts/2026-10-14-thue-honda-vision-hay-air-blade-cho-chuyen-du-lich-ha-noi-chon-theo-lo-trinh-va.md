@@ -63,7 +63,7 @@ Vài điều nên dặn người ngồi sau, đi xe nào cũng vậy:
 
 ## Giá thuê hai xe khi đi du lịch
 
-Theo bảng giá đã duyệt của tiệm, Honda Vision và Honda Air Blade cùng giá 200.000 đồng một ngày. Nếu chuyến đi kéo dài cả tuần, Vision thuê tuần từ 800.000 đến 1.000.000 đồng, Air Blade thuê tuần 800.000 đồng. Chi tiết các mẫu khác xem ở trang [bảng giá](/bang-gia/).
+Theo bảng giá đã duyệt của tiệm, Honda Vision và Honda Air Blade cùng giá 200.000 đồng một ngày. Nếu chuyến đi kéo dài cả tuần, Vision thuê tuần 1.000.000 đồng, Air Blade thuê tuần 1.000.000 đồng. Chi tiết các mẫu khác xem ở trang [bảng giá](/bang-gia/).
 
 Vì giá ngày như nhau, hãy để lộ trình và người ngồi sau quyết định. Tiền cọc và giấy tờ được xác nhận trực tiếp khi đặt xe; hỏi rõ và xin biên nhận nếu để lại giấy tờ. Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở từ 09:00 đến 21:00, sang phố cổ chỉ cần qua cầu Chương Dương hoặc cầu Long Biên. Nếu muốn giao xe tới khách sạn, thời gian và chi phí cần thống nhất trước, và tiệm không giao ngoài giờ hoạt động.
 

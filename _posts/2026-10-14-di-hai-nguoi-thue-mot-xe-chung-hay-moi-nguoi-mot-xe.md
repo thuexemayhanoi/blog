@@ -34,10 +34,10 @@ Khi bốn trục chia đều, hãy ưu tiên sự tự tin của người lái k
 
 Theo bảng giá đã công bố của Nguyễn Tú, các mức hiện tại như sau:
 
-- Honda Wave: theo ngày 150.000 đồng, giá tuần và tháng liên hệ để xác nhận.
-- Honda Click hoặc Yamaha Mio: theo ngày 150.000 đồng, theo tuần từ 600.000 đến 700.000 đồng.
-- Honda Vision: theo ngày 200.000 đồng, theo tuần từ 800.000 đến 1.000.000 đồng.
-- Honda Air Blade: theo ngày 200.000 đồng, theo tuần 800.000 đồng.
+- Honda Wave: theo ngày 150.000 đồng, theo tuần 700.000 đồng, theo tháng 900.000–1.200.000 đồng.
+- Honda Click hoặc Yamaha Mio: theo ngày 150.000 đồng, theo tuần 700.000 đồng.
+- Honda Vision: theo ngày 200.000 đồng, theo tuần 1.000.000 đồng.
+- Honda Air Blade: theo ngày 200.000 đồng, theo tuần 1.000.000 đồng.
 
 Giá có thể điều chỉnh, nên hãy hỏi lại mức đang áp dụng. Bài này không ghi sẵn tổng tiền, vì mỗi cặp chọn dòng xe và số ngày khác nhau: phương án hai xe chỉ là giá từng chiếc cộng lại.
 

@@ -26,10 +26,10 @@ Ngược lại, nếu bạn học nhiều năm và đi xe mỗi ngày, tổng ti
 
 Cụm "giá sinh viên" trên mạng nhiều khi không phải một bảng giá riêng, mà chỉ là mức giá tuần hoặc tháng của các dòng xe phổ thông. Nếu muốn biết có mức nào dành riêng cho sinh viên hay không, bạn hãy hỏi thẳng tiệm và nhờ họ xác nhận bằng tin nhắn. Để có mốc so sánh, đây là các mức đã duyệt:
 
-- Honda Wave: 150.000đ/ngày. Giá tuần và tháng nên hỏi thêm.
-- Honda Click hoặc Yamaha Mio: 150.000đ/ngày, 600.000đ–700.000đ/tuần, từ 1 triệu đến 1,2 triệu đồng/tháng.
-- Honda Air Blade: 200.000đ/ngày, 800.000đ/tuần, 1,4 triệu đồng/tháng.
-- Honda Vision: 200.000đ/ngày, từ 800.000đ đến 1 triệu đồng/tuần, từ 1,8 triệu đến 2 triệu đồng/tháng.
+- Honda Wave: 150.000đ/ngày, 700.000đ/tuần, từ 900 nghìn đến 1,2 triệu đồng/tháng.
+- Honda Click hoặc Yamaha Mio: 150.000đ/ngày, 700.000đ/tuần, từ 900 nghìn đến 1,2 triệu đồng/tháng.
+- Honda Air Blade: 200.000đ/ngày, 1 triệu đồng/tuần, 1,5 triệu đồng/tháng.
+- Honda Vision: 200.000đ/ngày, 1 triệu đồng/tuần, từ 1,8 triệu đến 2 triệu đồng/tháng.
 
 Các mức này đang áp dụng tại Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên; tiệm mở cửa 09:00–21:00, không giao xe ngoài giờ và nhận cuộc gọi ở số 0942 467 674.
 

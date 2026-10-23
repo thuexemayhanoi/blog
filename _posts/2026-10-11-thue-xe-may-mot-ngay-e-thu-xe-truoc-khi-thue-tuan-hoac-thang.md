@@ -75,6 +75,6 @@ Cuối ngày, hãy chấm từng mục từ một đến năm điểm rồi đ�
 - **Một mục chưa ưng:** hỏi cửa hàng có dòng xe khác để thử tiếp không, thay vì cố chịu đựng.
 - **Nhiều mục chưa ưng:** dừng ở đây cũng là kết quả tốt, bạn đã tránh được cả tuần thuê không hợp.
 
-Về chi phí, một ngày thử là khoản nhỏ so với cả gói. Chẳng hạn Honda Air Blade ở Nguyễn Tú có giá tham khảo là 200.000đ/ngày, 800.000đ/tuần và 1,4 triệu đồng/tháng. Tiền ngày thử có được trừ vào gói dài hay không là điều bạn nên hỏi và xác nhận trước khi đặt xe.
+Về chi phí, một ngày thử là khoản nhỏ so với cả gói. Chẳng hạn Honda Air Blade ở Nguyễn Tú có giá tham khảo là 200.000đ/ngày, 1.000.000 đ/tuần và 1,5 triệu đồng/tháng. Tiền ngày thử có được trừ vào gói dài hay không là điều bạn nên hỏi và xác nhận trước khi đặt xe.
 
 Muốn so sánh thêm, bạn có thể xem nhóm bài về [thuê xe máy theo ngày](/thue-xe/thue-ngay/) hoặc phần tổng quan [thuê xe máy ở Hà Nội](/thue-xe/). Việc nên làm ngay hôm nay: chọn một ngày rảnh, ghi sẵn bốn mục chấm điểm vào điện thoại rồi gọi hỏi lịch nhận xe.

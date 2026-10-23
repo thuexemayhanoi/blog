@@ -31,18 +31,18 @@ Khóa bơi hè ở nhiều nơi thường chia theo đợt vài tuần, còn l�
 
 Bảng giá hiện hành của cửa hàng Nguyễn Tú cho các dòng xe phụ huynh hay chọn:
 
-- **Honda Click / Yamaha Mio:** 150.000 đ một ngày, 600.000 đến 700.000 đ một tuần, 1.000.000 đến 1.200.000 đ một tháng.
-- **Honda Vision:** 200.000 đ một ngày, 800.000 đến 1.000.000 đ một tuần, 1.800.000 đến 2.000.000 đ một tháng.
-- **Honda Air Blade:** 200.000 đ một ngày, 800.000 đ một tuần, 1.400.000 đ một tháng.
-- **Honda Wave:** 150.000 đ một ngày; gói tuần, gói tháng cho dòng này thì hỏi trực tiếp cửa hàng.
+- **Honda Click / Yamaha Mio:** 150.000 đ một ngày, 700.000 đ một tuần, 900.000 đến 1.200.000 đ một tháng.
+- **Honda Vision:** 200.000 đ một ngày, 1.000.000 đ một tuần, 1.800.000 đến 2.000.000 đ một tháng.
+- **Honda Air Blade:** 200.000 đ một ngày, 1.000.000 đ một tuần, 1.500.000 đ một tháng.
+- **Honda Wave:** 150.000 đ một ngày, 700.000 đ một tuần, 900.000 đến 1.200.000 đ một tháng.
 
 ### Khóa ngắn một, hai tuần: lấy gói tuần
 
-Con chỉ học một đợt bơi ngắn thì gói tuần là gọn nhất. Hai tuần Click hay Mio rơi vào khoảng 1.200.000 đến 1.400.000 đ. Nếu chỉ cần xe vài buổi lẻ và những hôm còn lại nhà xoay được, thuê theo ngày đúng hôm cần cũng đáng tính, miễn là giờ nhận và trả khớp giờ mở cửa.
+Con chỉ học một đợt bơi ngắn thì gói tuần là gọn nhất. Hai tuần Click hay Mio là 1,4 triệu đồng. Nếu chỉ cần xe vài buổi lẻ và những hôm còn lại nhà xoay được, thuê theo ngày đúng hôm cần cũng đáng tính, miễn là giờ nhận và trả khớp giờ mở cửa.
 
 ### Cần xe từ hai tuần trở lên: hỏi gói tháng
 
-Đây là ngưỡng hay bị bỏ qua. Air Blade thuê tháng 1.400.000 đ, trong khi hai gói tuần cộng lại đã cao hơn. Click và Mio cũng vậy: hai tuần đã chạm hoặc vượt mức tháng 1.000.000 đến 1.200.000 đ. Với Vision, hai gói tuần đã xấp xỉ giá tháng 1.800.000 đến 2.000.000 đ. Nói gọn: lịch học kéo dài quá hai tuần thì gói tháng gần như luôn hợp hơn.
+Đây là ngưỡng hay bị bỏ qua. Air Blade thuê tháng 1.500.000 đ, trong khi hai gói tuần cộng lại đã cao hơn. Click và Mio cũng vậy: hai tuần đã vượt mức tháng 900.000 đến 1.200.000 đ. Với Vision, hai gói tuần đã xấp xỉ giá tháng 1.800.000 đến 2.000.000 đ. Nói gọn: lịch học kéo dài quá hai tuần thì gói tháng gần như luôn hợp hơn.
 
 ### Cả kỳ nghỉ hai, ba tháng
 

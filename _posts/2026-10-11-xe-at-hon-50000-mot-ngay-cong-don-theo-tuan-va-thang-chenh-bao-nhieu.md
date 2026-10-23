@@ -24,11 +24,11 @@ Nhiều khách chỉ hỏi giá ngày rồi quyết định nhanh. Với chuyế
 
 ## So sánh theo dòng xe phổ biến
 
-Lấy ví dụ từ bảng giá tham khảo ở Hà Nội. Wave hoặc Sirius khoảng 150k một ngày, Click và Mio cũng ở mức 150k. Vision hoặc Air Blade khoảng 200k một ngày, tức chênh 50k so với nhóm xe số. Theo tuần, Click hoặc Mio khoảng 600.000đ đến 700.000đ, Vision khoảng 800.000đ đến 1.000.000 đồng. Theo tháng, Click hoặc Mio khoảng 1.000.000 đồng đến 1.200.000 đồng, Vision khoảng 1.800.000 đồng đến 2.000.000 đồng, Air Blade khoảng 1.400.000 đồng.
+Lấy ví dụ từ bảng giá tham khảo ở Hà Nội. Wave hoặc Sirius khoảng 150k một ngày, Click và Mio cũng ở mức 150k. Vision hoặc Air Blade khoảng 200k một ngày, tức chênh 50k so với nhóm xe số. Theo tuần, Click hoặc Mio khoảng 700.000đ, Vision khoảng 1.000.000 đồng. Theo tháng, Click hoặc Mio khoảng 900.000 đồng đến 1.200.000 đồng, Vision khoảng 1.800.000 đồng đến 2.000.000 đồng, Air Blade khoảng 1.500.000 đồng.
 
 Riêng nhóm Air Blade, mức tháng nằm giữa Click và Vision, tạo thành thang giá rõ rệt theo từng dòng xe. Với phần lớn khách thuê quanh Hà Nội, thang tháng này dao động từ một triệu đến hai triệu, tùy dòng xe và thời điểm. Nhìn theo thang đó, bạn định vị nhanh được nhóm xe phù hợp ngân sách của mình.
 
-Nhìn theo tháng, khoảng cách giữa nhóm xe số và Vision lên tới 600.000đ đến 800.000đ, tức gấp nhiều lần phần chênh 50k ban đầu. Nghe thì nhỏ, cộng dồn thì lớn. Nếu mỗi tháng bạn chỉ đi lại trong bán kính vài km quanh nhà, khoản chênh đó khó xảy ra; nếu chạy đủ các tuyến phố mỗi ngày, nó đổi thành một khoản đáng cân nhắc.
+Nhìn theo tháng, khoảng cách giữa nhóm xe số và Vision lên tới khoảng 600.000đ đến 1.100.000 đ, tức gấp nhiều lần phần chênh 50k ban đầu. Nghe thì nhỏ, cộng dồn thì lớn. Nếu mỗi tháng bạn chỉ đi lại trong bán kính vài km quanh nhà, khoản chênh đó khó xảy ra; nếu chạy đủ các tuyến phố mỗi ngày, nó đổi thành một khoản đáng cân nhắc.
 
 Ngược lại, cũng có lúc mức tuần của hai dòng xe xích lại gần nhau do chính sách giá riêng của từng cửa hàng. Vì thế đừng suy diễn từ mức ngày, hãy xin mức tuần và tháng thực tế của nơi bạn định thuê. Cách [so sánh giá theo ngày giữa các dòng xe phổ thông](/thue-xe/2026/10/07/so-sanh-gia-thue-xe-may-theo-ngay-giua-cac-dong-xe-pho-thong/) cho bạn khung tham chiếu, còn con số cuối cùng vẫn phụ thuộc chính sách từng quầy.
 
@@ -38,7 +38,7 @@ Nếu bạn đi nhiều trong ngày, chở thêm người, hoặc chạy các tu
 
 Một tình huống khác: trời mưa nhiều hoặc bạn phải đi sớm khuya. Xe tay ga có bộ che chân rộng hơn, đèn pha sáng hơn, dễ bật máy hơn khi để qua đêm lạnh. Những yếu tố nhỏ này không hiện trong bảng giá nhưng hiện rõ trong trải nghiệm sử dụng thực tế mỗi ngày.
 
-Với khách thuê để đi làm cả tháng, việc trả thêm 600.000đ đến 800.000đ mỗi tháng cho một dòng xe khỏe hơn có thể là khoản đầu tư hợp lý. Xe tốt hơn thường ít hỏng vặt giữa đường, và mỗi lần dừng vì sự cố là một lần trễ việc. Trong trường hợp đó, hãy tính chênh lệch theo tháng thay vì theo ngày.
+Với khách thuê để đi làm cả tháng, việc trả thêm khoảng 600.000đ đến 1.100.000 đ mỗi tháng cho một dòng xe khỏe hơn có thể là khoản đầu tư hợp lý. Xe tốt hơn thường ít hỏng vặt giữa đường, và mỗi lần dừng vì sự cố là một lần trễ việc. Trong trường hợp đó, hãy tính chênh lệch theo tháng thay vì theo ngày.
 
 ## Khi nào khoản chênh đó không đáng
 

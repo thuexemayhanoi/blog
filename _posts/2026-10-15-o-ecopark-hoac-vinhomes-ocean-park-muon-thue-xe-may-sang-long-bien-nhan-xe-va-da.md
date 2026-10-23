@@ -83,9 +83,9 @@ Một số tòa có quy định riêng về để và sạc xe điện dưới h
 
 Ở lâu dài thì gói tuần hoặc gói tháng thường hợp lý hơn thuê lẻ. Theo [bảng giá](/bang-gia/) hiện hành:
 
-- **Honda Vision**: 200.000 đ/ngày, tuần 800.000–1.000.000 đ, tháng 1.800.000–2.000.000 đ.
-- **Honda Air Blade**: 200.000 đ/ngày, tuần 800.000 đ, tháng 1.400.000 đ.
-- **Honda Click, Yamaha Mio**: 150.000 đ/ngày, tháng 1.000.000–1.200.000 đ.
+- **Honda Vision**: 200.000 đ/ngày, tuần 1.000.000 đ, tháng 1.800.000–2.000.000 đ.
+- **Honda Air Blade**: 200.000 đ/ngày, tuần 1.000.000 đ, tháng 1.500.000 đ.
+- **Honda Click, Yamaha Mio**: 150.000 đ/ngày, tháng 900.000–1.200.000 đ.
 - **Honda Wave**: 150.000 đ/ngày.
 
 Khi ký, nói rõ bạn ở Ecopark hay Ocean Park và thường chạy những đâu, để hai bên cùng nắm phạm vi sử dụng xe.

@@ -36,7 +36,7 @@ Cọc và các điều khoản này cần xác nhận trực tiếp với Nguy�
 
 ## Chọn xe cho người hay xách đồ và ngủ ít
 
-Người chăm bệnh thường mang túi thuốc, bình giữ nhiệt, hộp cơm. Xe tay ga như Honda Vision, Air Blade hay Click quen thuộc ở Hà Nội thường hợp hơn xe số: không phải đổi số giữa dòng xe đông, cốp vừa đủ cho giấy tờ và vài món nhỏ. Honda Click hoặc Yamaha Mio có giá tuần từ 600.000đ đến 700.000đ, nhưng bạn nên xác nhận lại giá hiện tại khi đặt.
+Người chăm bệnh thường mang túi thuốc, bình giữ nhiệt, hộp cơm. Xe tay ga như Honda Vision, Air Blade hay Click quen thuộc ở Hà Nội thường hợp hơn xe số: không phải đổi số giữa dòng xe đông, cốp vừa đủ cho giấy tờ và vài món nhỏ. Honda Click hoặc Yamaha Mio có giá tuần 700.000đ, nhưng bạn nên xác nhận lại giá hiện tại khi đặt.
 
 Khi đang thiếu ngủ, hãy chọn chiếc xe mà bạn thấy vững nhất: hai chân chạm đất chắc ở đèn đỏ, tay lái nhẹ khi dắt vào ngõ chật, gương nhìn rõ. Đã lâu không chạy xe số thì lần này không phải lúc để thử lại.
 
