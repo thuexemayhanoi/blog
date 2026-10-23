@@ -47,7 +47,7 @@ Nghị định 118/2021/NĐ-CP hướng dẫn chi tiết việc này. Theo nội
 
 - Đính chính dùng cho sai sót về kỹ thuật soạn thảo, như gõ nhầm tên, nhầm số, không làm thay đổi nội dung xử phạt.
 - Thời hạn đính chính là 01 năm kể từ ngày ban hành quyết định có sai sót.
-- Quyết định đính chính có hiệu lực từ ngày ký hoặc thời điểm ghi trong quyết định, và được lưu vào hồ sơ xử phạt.
+- Quyết định đính chính có hiệu lực kể từ ngày ký và phải được thi hành ngay khi người vi phạm nhận được (Điều 16 sau khi được Nghị định 68/2025/NĐ-CP sửa đổi, hiệu lực từ 02/5/2025), và được lưu vào hồ sơ xử phạt.
 
 Luật không giao cho người bị phạt quyền tự sửa. Bạn phát hiện sai và đề nghị, còn việc đính chính do chính người đã ban hành quyết định thực hiện.
 

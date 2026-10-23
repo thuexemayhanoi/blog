@@ -14,24 +14,24 @@ article_id: BLG-01903
 writer: W1
 ---
 
-Bạn vừa đăng ký lớp thi bằng lái xe máy ở Hà Nội, nghe bạn bè nói quanh chuyện hạng A1, hạng A2, và câu hỏi đầu tiên hiện ra trong đầu hẳn là bằng lái a1 chạy được xe nào. Đây là câu hỏi thực tế nhất: thi xong cầm bằng, bạn cần biết chính xác dòng xe nào mình được phép điều khiển, dòng nào nằm ngoài phạm vi, để khỏi dính lỗi sử dụng giấy phép lái xe không đúng hạng. Bài này đi từng nhóm xe theo quy định hiện hành, nói rõ phạm vi hạng bằng A1, những tình huống hay gây hiểu nhầm, và cách để hồ sơ lái xe của bạn luôn sạch ngay từ buổi đầu cầm bằng. Nếu bạn đang chuẩn bị từ con số không, nhóm bài [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/) có đủ các hướng dẫn từ đăng ký thi đến thao tác sa hình.
+Bạn vừa đăng ký lớp thi bằng lái xe máy ở Hà Nội, nghe bạn bè nói quanh chuyện hạng A1, hạng A, và câu hỏi đầu tiên hiện ra trong đầu hẳn là bằng lái a1 chạy được xe nào. Đây là câu hỏi thực tế nhất: thi xong cầm bằng, bạn cần biết chính xác dòng xe nào mình được phép điều khiển, dòng nào nằm ngoài phạm vi, để khỏi dính lỗi sử dụng giấy phép lái xe không đúng hạng. Bài này đi từng nhóm xe theo quy định hiện hành, nói rõ phạm vi hạng bằng A1, những tình huống hay gây hiểu nhầm, và cách để hồ sơ lái xe của bạn luôn sạch ngay từ buổi đầu cầm bằng. Nếu bạn đang chuẩn bị từ con số không, nhóm bài [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/) có đủ các hướng dẫn từ đăng ký thi đến thao tác sa hình.
 
 ## Bằng lái A1 chạy được xe nào theo quy định hiện hành
 
-Theo quy định về hạng giấy phép lái xe cơ giới đường bộ, bằng A1 cho phép người lái điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 50 cm3 đến dưới 175 cm3. Đây là nhóm xe phổ biến nhất trên đường phố Việt Nam, bao gồm gần như toàn bộ xe số phổ thông và phần lớn xe tay ga đô thị mà bạn nhìn thấy mỗi ngày. Ngoài nhóm mô tô chính, bằng A1 cũng cho phép điều khiển các loại xe gắn máy có dung tích xi-lanh dưới 50 cm3, tức nhóm xe nhỏ vốn không đòi hỏi giấy phép lái riêng, nên người có A1 đương nhiên chạy được.
+Theo quy định về hạng giấy phép lái xe cơ giới đường bộ, từ 01/01/2025 bằng A1 cho phép điều khiển xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc công suất động cơ điện đến 11 kW (Điều 57 Luật số 36/2024/QH15). Giấy phép A1 cấp trước ngày đó vẫn dùng được theo quy định chuyển tiếp (Điều 89). Đây là nhóm xe phổ biến nhất trên đường phố Việt Nam. Bằng A1 cũng cho phép điều khiển xe gắn máy, nhóm xe nhỏ vốn không đòi hỏi giấy phép lái riêng.
 
-Điểm quan trọng cần nhớ: ranh giới nằm ở dung tích xi-lanh và cấu tạo xe, không nằm ở thương hiệu hay dáng xe. Một chiếc xe số mỏng, gọn gàng vẫn có thể vượt ngưỡng 175 cm3 nếu nhà sản xuất thiết kế động cơ lớn, trong khi nhiều dòng xe ga thể thao nhìn dữ dội lại chỉ khoảng 110 đến 150 cm3 và nằm gọn trong phạm vi A1. Trước khi mượn hay thuê một chiếc xe lạ, thói quen đáng luyện là lật giấy chứng nhận đăng ký xe, tìm dòng dung tích xi-lanh, và đối chiếu với hạng bằng mình đang có.
+Điểm quan trọng cần nhớ: ranh giới nằm ở dung tích xi-lanh và cấu tạo xe, không nằm ở thương hiệu hay dáng xe. Một chiếc xe số mỏng, gọn gàng vẫn có thể vượt ngưỡng 125 cm3 nếu nhà sản xuất thiết kế động cơ lớn, trong khi nhiều dòng xe ga thể thao nhìn dữ dội lại chỉ khoảng 110 đến 125 cm3 và nằm gọn trong phạm vi A1; với giấy phép A1 cấp từ 01/01/2025, xe từ 150 cm3 là đã vượt phạm vi. Trước khi mượn hay thuê một chiếc xe lạ, thói quen đáng luyện là lật giấy chứng nhận đăng ký xe, tìm dòng dung tích xi-lanh, và đối chiếu với hạng bằng mình đang có.
 
 ## Phạm vi hạng bằng A1 với các dòng xe quen thuộc ở Hà Nội
 
 Nếu bạn đang sống ở Hà Nội và chỉ chạy xe trong phố đi làm, đi học, mua hàng tạp hóa, thì phạm vi hạng bằng A1 gần như phủ trọn nhu cầu hằng ngày. Cụ thể, các dòng xe dưới đây đều thuộc nhóm A1 điều khiển được:
 
 - Xe số phổ thông cỡ nhỏ và cỡ trung, phần lớn từ 100 đến 125 cm3, kiểu dáng Honda Wave hay Yamaha Sirius mà hầu hết các cửa hàng cho thuê xe ở Hà Nội đều có trong đội xe.
-- Xe tay ga đô thị từ 110 đến 150 cm3, nhóm Honda Vision, Honda Air Blade, Yamaha Janus hay Honda SH cỡ 125 và 150 cm3 đời phổ biến.
+- Xe tay ga đô thị từ 110 đến 125 cm3, nhóm Honda Vision, Honda Air Blade, Yamaha Janus hay Honda SH cỡ 125 cm3; bản 150 cm3 trở lên cần hạng A.
 - Xe mô tô cỡ nhỏ 50 cm3 và các dòng xe gắn máy nhỏ, thường dùng cho lứa tuổi mới đến tuổi được lái xe.
 - Xe máy điện có công suất định mức thấp: khi xe không ghi dung tích xi-lanh, căn cứ đối chiếu là công suất ghi trên đăng ký xe, nên hãy đọc kỹ giấy tờ trước khi coi chiếc xe điện đó thuộc phạm vi A1 hay không.
 
-Ngược lại, những nhóm sau nằm ngoài phạm vi A1: mô tô hai bánh từ 175 cm3 trở lên, thuộc hạng A2; xe mô tô ba bánh và các loại xe tương tự; mọi loại ô tô, xe tải, xe khách. Nếu bạn thuê một chiếc xe máy tại Hà Nội để đi làm trong tuần, đội xe cho thuê gần như chỉ gồm xe số, xe ga và xe điện cỡ nhỏ, tức là tất cả đều chạy được bằng A1. Đây cũng là lý do đa số khách thuê chỉ cần giữ một bằng A1 duy nhất trong ví, không phải lo nâng hạng hay đổi bằng giữa đường.
+Ngược lại, những nhóm sau nằm ngoài phạm vi A1: mô tô hai bánh trên 125 cm3 hoặc công suất điện trên 11 kW, thuộc hạng A; xe mô tô ba bánh và các loại xe tương tự; mọi loại ô tô, xe tải, xe khách. Nếu bạn thuê một chiếc xe máy tại Hà Nội để đi làm trong tuần, đội xe cho thuê gần như chỉ gồm xe số, xe ga và xe điện cỡ nhỏ, tức là tất cả đều chạy được bằng A1. Đây cũng là lý do đa số khách thuê chỉ cần giữ một bằng A1 duy nhất trong ví, không phải lo nâng hạng hay đổi bằng giữa đường.
 
 ## Những hiểu nhầm hay gặp về xe không thuộc hạng A1
 
