@@ -675,14 +675,15 @@ class StaticContract(unittest.TestCase):
         KHÔNG rollback pair đã publish, bounded retry non-FF, KHÔNG bao
         giờ force push."""
         y = wf_text('factory-publish.yml')
-        # trigger: push main paths _drafts/** — KHÔNG PR, KHÔNG cron
+        # trigger: push main paths _drafts/**, plus bounded backlog recovery cron/dispatch
         self.assertIn('push:', y)
         self.assertIn('branches: [main]', y)
         self.assertIn('_drafts/**', y)
         self.assertNotIn('pull_request:', y)
-        for line in code_lines(y):
-            self.assertNotIn('cron', line.lower(),
-                             'cron trong phan chay duoc: %s' % line)
+        # Recovery trigger is intentional: cancelled pending runs must not
+        # strand drafts forever; assert the exact limited cadence instead.
+        self.assertIn("cron: '17,47 * * * *'", y)
+        self.assertIn('workflow_dispatch:', y)
         # concurrency: publisher concurrency = 1, KHONG cancel run dang chay
         self.assertIn('group: factory-publish', y)
         self.assertIn('cancel-in-progress: false', y)
@@ -931,9 +932,14 @@ class StaticContract(unittest.TestCase):
             # 'secrets.' hoi thua: header factory-publish.yml ghi "NO
             # secrets." (claim, khong phai usage). Cấm thật là truy cập
             # secret cua GitHub Actions va key AI trong moi workflow.
-            for bad in ('api_key', 'API_KEY', 'sk-', 'OPENAI', 'MISTRAL',
+            for bad in ('api_key', 'API_KEY', 'OPENAI', 'MISTRAL',
                         'anthropic', '${{ secrets.'):
                 self.assertNotIn(bad, y, '%s chua %s' % (wf, bad))
+            # Match a real API-key-shaped token, not a substring of a filename
+            # such as "webmcp-ask-site.js" (contains "sk-").
+            self.assertIsNone(re.search(
+                r'(?<![A-Za-z0-9_-])sk-[A-Za-z0-9_-]{16,}', y),
+                '%s contains an API-key-shaped token' % wf)
             # quy tac "workflow khong goi API ngoai, khong dung AI ma
             # nguon mo": khong ten nha cung cap AI / thu vien ML / cong cu
             # mang trong BAT KY workflow nao (khong phan biet hoa thuong)
@@ -969,20 +975,24 @@ class StaticContract(unittest.TestCase):
 
 
 class WorkflowTriggerContract(unittest.TestCase):
-    """Hợp đồng trigger (review compat): publisher không có workflow_dispatch;
-    chỉ production-watchdog có cron; gate chạy cho MỌI thay đổi workflow; mọi
-    run gate độc lập (không run nào hủy run khác); engine-tests không bị che
-    bởi job gate đỏ; push REFUSED làm đỏ run sau khi drain."""
+    """Hợp đồng trigger: publisher có push + dispatch + cron phục hồi backlog;
+    watchdog có cron riêng read-only; gate chạy cho MỌI thay đổi workflow; mọi
+    run gate độc lập; engine-tests không bị che; push REFUSED báo đỏ."""
 
     def test_publisher_has_no_dispatch_and_only_watchdog_has_cron(self):
+        # Historical test name retained for compatibility with CI selection.
+        # Publisher must recover lost push hints; no other mutating workflow
+        # may acquire an unattended schedule.
         pub = '\n'.join(code_lines(wf_text('factory-publish.yml')))
-        self.assertNotIn('workflow_dispatch', pub)
+        self.assertIn('workflow_dispatch:', pub)
+        self.assertIn("cron: '17,47 * * * *'", pub)
         for name in CURRENT_WORKFLOWS:
             code = '\n'.join(code_lines(wf_text(name)))
             has_cron = bool(re.search(
                 r'^\s*(schedule|cron)\s*:|^\s*-\s*cron\s*:', code, re.M))
-            self.assertEqual(has_cron, name == 'production-watchdog.yml',
-                             '%s: cron chi duoc o production-watchdog' % name)
+            self.assertEqual(
+                has_cron, name in ('production-watchdog.yml', 'factory-publish.yml'),
+                '%s: only recovery publisher and read-only watchdog may have cron' % name)
 
     def test_quality_gate_triggers_on_any_workflow_change(self):
         y = wf_text('quality-gate.yml')
