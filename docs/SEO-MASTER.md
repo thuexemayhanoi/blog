@@ -36,7 +36,7 @@ sự thật vận hành: số bài, trạng thái, QA vẫn đọc từ `data/co
 | `slug-d-migration-map.csv`, `slug-d-audit.md`, `slug-d-audit.json` | URL thiếu chữ đ: bản đồ OLD → NEW, va chạm, liên kết tới URL cũ, trạng thái BLOCKED (chưa đổi URL nào) | `scripts/seo/slug-d-audit.py` |
 | `cannibalization-classification.csv` | 49 nhóm trùng khóa matrix: nhãn `SAME_INTENT_MONITOR` / `DISTINCT_ANGLE_KEEP` (INFERRED, đọc tiêu đề/mô tả/hub), URL chủ lực chọn theo intent kèm cơ sở chọn, hub từng bài, độ giống văn bản, việc đã làm và việc để sau | `scripts/seo/build-cannibalization-classification.py` đọc sổ `scripts/seo/cannibalization-leads.json` (tay, có lý do) + matrix |
 | `content-fix-blocked.csv` | bài cần sửa nội dung nhưng chưa sửa được qua đường chính thức: lý do, quyết định của kế hoạch reattest, biện pháp tạm (lớp đính chính), điều kiện mở khóa | tay, đối chiếu kế hoạch `reattest-legacy-qa.py plan` |
-| `legal-verification.json`, `legal-verification.csv` | 118 văn bản pháp luật được bài trích dẫn, đối chiếu với nguồn chính thức ngày 23/10/2026: hiệu lực, văn bản thay thế/sửa đổi, nguồn + câu trích ngắn, các khẳng định trong bài còn sai (`claim_issues`) và cách xử lý từng bài (`disposition`: sửa gốc / khối đính chính / chờ chủ duyệt) | tay, đối chiếu cổng chinhphu.vn / vanban.chinhphu.vn / congbao.chinhphu.vn / bocongan.gov.vn |
+| `legal-verification.json`, `legal-verification.csv` | 120 văn bản pháp luật được bài trích dẫn, đối chiếu với nguồn chính thức ngày 23/10/2026: hiệu lực, văn bản thay thế/sửa đổi, nguồn + câu trích ngắn, các khẳng định trong bài còn sai (`claim_issues`) và cách xử lý từng bài (`disposition`: sửa gốc / khối đính chính / chờ chủ duyệt) | tay, đối chiếu cổng chinhphu.vn / vanban.chinhphu.vn / congbao.chinhphu.vn / bocongan.gov.vn |
 | `price-consistency.csv` | từng cụm giá tuần/tháng còn lệch `_data/pricing.yml` sau đợt 2, kèm `disposition` (`NOTICE_LAYER` / `REVIEWED_FALSE_POSITIVE`) | `scripts/seo/check-price-consistency.py` |
 | `build-performance.md` | đo thời gian build Jekyll trước/sau và nguyên nhân | tay (có số đo) |
 | `fix-log.csv`, `qa-results.md`, `deployment-verification.md` | nhật ký sửa, kết quả kiểm thử, xác minh deploy | tay, đối chiếu commit |
@@ -120,7 +120,7 @@ Ba đường, theo thứ tự ưu tiên; không đường nào sửa tay `_posts
 1. **Bài legacy** (không có `data/qa/<ID>.json`: EXISTING/REVIEW): sửa trực tiếp trong PR (đã làm cho giá tuần/tháng, 4 meta quá dài, tham chiếu Thông tư 108/2026,
    văn bản hoàn cọc của chủ, phân biệt intent 5 cặp REVIEW).
 2. **Bài factory có evidence nguyên vẹn**: `scripts/factory/revise-published.py` (`docs/REVISE-PUBLISHED.md`) — sửa nhẹ + chấm lại độc lập + evidence mới có provenance + sao lưu byte-exact; mỗi lô ≤ 50 bài là một PR riêng, Quality gate verify lại sao lưu.
-   Đến hết đợt 3 (23/10/2026) đã áp dụng 8 lô cho 227 bài: 3 lô pháp lý (legal-01: 3 bài, legal-02: 10 bài, legal-03: 1 bài) và 5 lô giá tuần/tháng (213 bài, 464 cặp old→new);
+   Đến hết đợt 3 (23/10/2026) đã áp dụng 9 lô cho 230 bài: 4 lô pháp lý (legal-01: 3 bài, legal-02: 10 bài, legal-03: 1 bài, legal-04: 3 bài ghi chính sách miễn/giảm lệ phí tạm thời) và 5 lô giá tuần/tháng (213 bài, 464 cặp old→new);
    số liệu từng PR ở `reports/factory/seo-master/deployment-verification.md`. Nếu `plan` từ chối (vượt 20% thay đổi, tụt tiêu chí chấm như `word_count`), thu hẹp bản vá chứ không nới ngưỡng.
 3. **Bài factory có evidence đã lệch hash do đổi domain**: chưa sửa được. Cần `reattest-legacy-qa.py apply` có chủ duyệt (AGENTS.md: writer không tự `apply`).
    Kế hoạch `plan` cho 81 bài lệch hash (2 bài trong đó, BLG-00872 và BLG-00874, chỉ bị gắn cờ nhầm vì 600.000/800.000 đ là mức phạt nên không cần sửa) cho thấy
@@ -138,6 +138,9 @@ không theo độ dài bài; 30 nhóm `SAME_INTENT_MONITOR`, 19 nhóm `DISTINCT_
 
 Dữ liệu kinh doanh: hoàn cọc chỉ dùng văn bản chủ duyệt ("hoàn trả theo điều khoản hợp đồng sau khi bàn giao xe và hoàn thành các nghĩa vụ liên quan", cọc 2–5 triệu tùy từng loại xe); không viết "hoàn trả đầy đủ",
 không gắn mức cọc với thời gian thuê. Phí trễ 20.000đ/giờ (9 trang tĩnh + 14 bài legacy) không có trong `business-facts.json` và mâu thuẫn với FAQ website chính: chờ chủ xác nhận (`BLOCKED_OWNER_INPUT`), không tự đổi.
+
+Chính sách miễn/giảm lệ phí có thời hạn: Thông tư 117/2026/TT-BTC (thực hiện Nghị quyết 66.22/2026/NQ-CP; hiệu lực 15/8/2026 đến hết 28/02/2027) đã được ghi, đúng điều kiện văn bản nêu,
+vào BLG-05609 (đổi/cấp lại giấy phép lái xe), BLG-05175 (đăng ký, biển số) và BLG-05973 (lệ phí trước bạ). **Từ 01/3/2027 phải rà lại ba đoạn ghi chú** (chính sách hết hạn, trừ khi có văn bản kéo dài); sửa qua `revise-published.py`.
 
 Quyết định ghi lại: JSON-LD LocalBusiness giữ nguyên trên mọi trang (`docs/SCHEMA-GEO.md` quy định rõ; đổi phạm vi không có bằng chứng cải thiện); 689 trang danh sách giữ nguyên (không noindex/xóa hàng loạt khi chưa có dữ liệu lập chỉ mục);
 meta description 161–199 ký tự không phải lỗi (công cụ tìm kiếm có thể cắt hiển thị), chỉ 4 bài > 200 ký tự đã được rút gọn.
