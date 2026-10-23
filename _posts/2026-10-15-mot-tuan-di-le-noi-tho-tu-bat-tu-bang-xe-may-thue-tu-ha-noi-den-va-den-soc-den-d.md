@@ -21,7 +21,7 @@ Tản Viên Sơn Thánh, Thánh Gióng, Chử Đồng Tử và Mẫu Liễu Hạ
 
 Không tuyến nào gom gọn cả bốn di tích trong một ngày mà vẫn kịp thắp hương thong thả và về trước khi trời tối. Thuê theo ngày bốn lần thì lần nào cũng phải nhận, kiểm tra, trả xe. Thuê một chiếc theo tuần cho phép bạn đi một hướng, nghỉ một ngày, rồi đi hướng kế tiếp với chiếc xe đã quen tay.
 
-Giá thuê tuần đã duyệt tại cửa hàng Nguyễn Tú: Honda Vision 800.000–1.000.000 đồng, Honda Air Blade 800.000 đồng, Honda Click hoặc Yamaha Mio 600.000–700.000 đồng. Honda Wave thuê tuần và các loại xe khác thì liên hệ để biết giá; tiền cọc xác nhận trực tiếp khi nhận xe. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00. Muốn giao xe tới chỗ ở thì thời gian và chi phí giao phải thỏa thuận trước; cửa hàng không giao xe ngoài giờ hoạt động. Lưu ý chung khi giữ xe cả tuần có ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
+Giá thuê tuần đã duyệt tại cửa hàng Nguyễn Tú: Honda Vision 1.000.000 đồng, Honda Air Blade 1.000.000 đồng, Honda Click hoặc Yamaha Mio 700.000 đồng. Honda Wave thuê tuần 700.000 đồng, các loại xe khác thì liên hệ để biết giá; tiền cọc xác nhận trực tiếp khi nhận xe. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00. Muốn giao xe tới chỗ ở thì thời gian và chi phí giao phải thỏa thuận trước; cửa hàng không giao xe ngoài giờ hoạt động. Lưu ý chung khi giữ xe cả tuần có ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
 
 Một việc nên làm ngay lúc đặt xe: nói rõ với cửa hàng rằng trong tuần bạn sẽ đi Sơn Tây, Sóc Sơn, Khoái Châu và Vụ Bản. Điều kiện cho những chặng đi xa như vậy do cửa hàng xác nhận trực tiếp, đừng tự suy đoán. Mang theo giấy tờ xe suốt chuyến.
 

@@ -55,7 +55,7 @@ Dời lịch nhiều khi làm thay đổi cả cách tính giá. Có ba thứ c�
 
 **Dòng xe.** Ngày mới có còn đúng dòng xe bạn đã chọn không. Nếu không, hỏi dòng nào còn và giá dòng đó theo bảng giá.
 
-**Gói giá.** Bảng giá của cửa hàng có giá ngày cho các dòng phổ biến, và giá tuần, giá tháng cho một số dòng. Ví dụ Honda Air Blade giá ngày 200.000 đồng, giá tuần 800.000 đồng; Honda Click và Yamaha Mio giá ngày 150.000 đồng, giá tuần 600.000 đến 700.000 đồng. Nếu bão làm chuyến đi của bạn ngắn lại, từ gói tuần còn vài ngày lẻ, thì giá áp dụng có thể chuyển sang tính theo ngày; ngược lại, nếu dời lịch mà tổng số ngày dài ra, có khi gói tuần lại hợp hơn. Đừng tự suy ra, hãy hỏi cửa hàng báo giá cho đúng số ngày mới.
+**Gói giá.** Bảng giá của cửa hàng có giá ngày cho các dòng phổ biến, và giá tuần, giá tháng cho một số dòng. Ví dụ Honda Air Blade giá ngày 200.000 đồng, giá tuần 1.000.000 đồng; Honda Click và Yamaha Mio giá ngày 150.000 đồng, giá tuần 700.000 đồng. Nếu bão làm chuyến đi của bạn ngắn lại, từ gói tuần còn vài ngày lẻ, thì giá áp dụng có thể chuyển sang tính theo ngày; ngược lại, nếu dời lịch mà tổng số ngày dài ra, có khi gói tuần lại hợp hơn. Đừng tự suy ra, hãy hỏi cửa hàng báo giá cho đúng số ngày mới.
 
 **Số ngày và giờ nhận.** Lịch mới có thể khiến giờ nhận, giờ trả lệch so với ban đầu, ví dụ bạn phải chờ mưa ngớt mới nhận được xe vào buổi chiều. Hỏi rõ một ngày thuê được tính thế nào theo giờ nhận mới; cách tính này được giải thích ở bài [thời gian tính một ngày thuê xe](/thue-xe/2026/09/27/thoi-gian-tinh-mot-ngay-thue-xe-tinh-tu-khi-nao/).
 

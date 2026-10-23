@@ -73,7 +73,7 @@ Tiệm mở từ 09:00 đến 21:00 và không giao xe ngoài giờ này. Nếu 
 
 ## Chọn xe và chăm xe cho một tuần ở căn hộ
 
-Đi phố, xuống hầm mỗi ngày, xe tay ga số tự động dễ điều khiển hơn trên dốc hầm. Giá tuần đã duyệt: Honda Vision 800.000–1.000.000 đồng, Honda Air Blade 800.000 đồng, Honda Click hoặc Yamaha Mio 600.000–700.000 đồng; Honda Wave thuê theo tuần thì liên hệ để xác nhận.
+Đi phố, xuống hầm mỗi ngày, xe tay ga số tự động dễ điều khiển hơn trên dốc hầm. Giá tuần đã duyệt: Honda Vision 1.000.000 đồng, Honda Air Blade 1.000.000 đồng, Honda Click hoặc Yamaha Mio 700.000 đồng; Honda Wave 700.000 đồng.
 
 Mỗi sáng trước khi rời hầm, nhìn nhanh lốp, bóp thử hai phanh, bật đèn và còi. Danh sách kiểm tra đầy đủ có trong bài [chăm xe trong suốt tuần thuê](/thue-xe/2026/09/27/cham-xe-trong-suot-tuan-thue/). Thấy gì lạ thì báo tiệm sớm, đừng cố chạy tiếp.
 

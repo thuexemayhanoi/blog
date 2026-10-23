@@ -69,6 +69,6 @@ Buổi tập thường căng thẳng, nhất là khi tập sa hình hay ra đư�
 
 ## Thuê Honda Click cho mùa học lái
 
-Click nhẹ, tiết kiệm xăng, cốp đủ chứa áo khoác và giấy tờ, hợp với việc đi lại đều đặn ra ngoại thành. Trên bảng giá của Nguyễn Tú, dòng Honda Click và Yamaha Mio có giá ngày 150.000 đồng, giá tuần từ 600.000 tới 700.000 đồng, giá tháng từ 1.000.000 tới 1.200.000 đồng; tiền cọc xác nhận trực tiếp. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, số điện thoại 0942 467 674. Nếu ca học sáng bắt đầu trước giờ cửa hàng mở, hãy nhận xe từ chiều hôm trước.
+Click nhẹ, tiết kiệm xăng, cốp đủ chứa áo khoác và giấy tờ, hợp với việc đi lại đều đặn ra ngoại thành. Trên bảng giá của Nguyễn Tú, dòng Honda Click và Yamaha Mio có giá ngày 150.000 đồng, giá tuần 700.000 đồng, giá tháng từ 900.000 tới 1.200.000 đồng; tiền cọc xác nhận trực tiếp. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, số điện thoại 0942 467 674. Nếu ca học sáng bắt đầu trước giờ cửa hàng mở, hãy nhận xe từ chiều hôm trước.
 
 Các bài khác về dòng xe này có ở trang [Honda Click](/xe-may/honda-click/ "Honda Click"), còn toàn bộ thông tin về các dòng xe ở mục [xe máy](/xe-may/ "Xe máy cho thuê ở Hà Nội").

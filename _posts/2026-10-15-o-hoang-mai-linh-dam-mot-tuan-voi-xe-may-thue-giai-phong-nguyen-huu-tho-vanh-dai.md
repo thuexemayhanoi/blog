@@ -36,7 +36,7 @@ Hỏi người thân hoặc ban quản lý từ trước khi nhận xe sẽ đ�
 - **Honda Click, Yamaha Mio:** nhẹ, hợp người đi quãng ngắn quanh khu.
 - **Honda Wave:** tiết kiệm, cho người quen xe số.
 
-Giá tuần đã duyệt của tiệm: Honda Vision 800.000–1.000.000 đồng, Honda Air Blade 800.000 đồng, Honda Click và Yamaha Mio 600.000–700.000 đồng; Honda Wave thuê theo tuần thì liên hệ để xác nhận. Mức cọc và giấy tờ cần mang được xác nhận trực tiếp, nên hỏi rõ và xin biên nhận.
+Giá tuần đã duyệt của tiệm: Honda Vision 1.000.000 đồng, Honda Air Blade 1.000.000 đồng, Honda Click và Yamaha Mio 700.000 đồng; Honda Wave 700.000 đồng. Mức cọc và giấy tờ cần mang được xác nhận trực tiếp, nên hỏi rõ và xin biên nhận.
 
 Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở từ 09:00 đến 21:00. Muốn nhận xe tại chung cư thì thời gian và chi phí giao nhận phải xác nhận trước khi đặt, và không có giao xe ngoài giờ hoạt động. Khi hẹn, nói rõ tên tòa và sảnh vì khu Linh Đàm có nhiều tòa trông rất giống nhau.
 

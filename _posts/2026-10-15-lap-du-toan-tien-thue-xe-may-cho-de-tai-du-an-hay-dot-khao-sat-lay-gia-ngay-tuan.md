@@ -32,10 +32,10 @@ Người duyệt chi cần đủ căn cứ để kiểm lại phép tính. Một
 
 Mức giá đang niêm yết tại cửa hàng Nguyễn Tú ở Long Biên; chép đúng dòng xe vào cột đơn giá, đừng tự quy đổi:
 
-- **Honda Wave:** ngày 150.000 đồng; giá tuần và tháng cần liên hệ để có mức chính thức.
-- **Honda Vision:** ngày 200.000 đồng; tuần 800.000–1.000.000 đồng; tháng 1.800.000–2.000.000 đồng.
-- **Honda Air Blade:** ngày 200.000 đồng; tuần 800.000 đồng; tháng 1.400.000 đồng.
-- **Honda Click / Yamaha Mio:** ngày 150.000 đồng; tuần 600.000–700.000 đồng; tháng 1.000.000–1.200.000 đồng.
+- **Honda Wave:** ngày 150.000 đồng; tuần 700.000 đồng; tháng 900.000–1.200.000 đồng.
+- **Honda Vision:** ngày 200.000 đồng; tuần 1.000.000 đồng; tháng 1.800.000–2.000.000 đồng.
+- **Honda Air Blade:** ngày 200.000 đồng; tuần 1.000.000 đồng; tháng 1.500.000 đồng.
+- **Honda Click / Yamaha Mio:** ngày 150.000 đồng; tuần 700.000 đồng; tháng 900.000–1.200.000 đồng.
 - **Xe máy điện, xe đạp điện:** liên hệ để xác nhận giá hiện tại.
 
 Với giá dạng khoảng, đừng tự chọn mức thấp cho dự toán trông gọn. Xin báo giá chốt cho đúng xe, đúng thời gian rồi ghi theo báo giá; nếu chưa kịp, ghi mức trên của khoảng và chú thích "chờ báo giá chính thức".

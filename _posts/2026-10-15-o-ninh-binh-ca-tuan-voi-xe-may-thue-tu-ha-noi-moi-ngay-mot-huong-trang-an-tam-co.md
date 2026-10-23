@@ -84,10 +84,10 @@ Nếu trời mưa lớn hay người không khỏe vào ngày dự định về,
 
 Với hai người và hành lý một tuần, xe tay ga như Honda Vision hay Honda Air Blade có cốp để đồ và chỗ ngồi sau rộng. Giá thuê theo tuần đã duyệt:
 
-- Honda Vision: 800.000–1.000.000 đồng một tuần.
-- Honda Air Blade: 800.000 đồng một tuần.
-- Honda Click, Yamaha Mio: 600.000–700.000 đồng một tuần.
-- Honda Wave và các xe khác: liên hệ để xác nhận.
+- Honda Vision: 1.000.000 đồng một tuần.
+- Honda Air Blade: 1.000.000 đồng một tuần.
+- Honda Click, Yamaha Mio: 700.000 đồng một tuần.
+- Honda Wave: 700.000 đồng một tuần; các xe khác: liên hệ để xác nhận.
 
 Tiền cọc xác nhận trực tiếp. Xem thêm cách chọn gói ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
 

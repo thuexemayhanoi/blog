@@ -31,8 +31,8 @@ Câu nào chưa rõ, hãy hỏi phòng nhân sự và xin câu trả lời bằn
 
 Bước kế tiếp là đặt giá thuê tháng của từng dòng xe ngay cạnh khoản phụ cấp. Theo bảng giá đang niêm yết:
 
-- **Honda Click / Yamaha Mio:** giá tháng 1.000.000–1.200.000 đồng.
-- **Honda Air Blade:** giá tháng 1.400.000 đồng.
+- **Honda Click / Yamaha Mio:** giá tháng 900.000–1.200.000 đồng.
+- **Honda Air Blade:** giá tháng 1.500.000 đồng.
 - **Honda Vision:** giá tháng 1.800.000–2.000.000 đồng.
 - **Honda Wave:** mới có giá ngày 150.000 đồng; muốn thuê theo tháng cần liên hệ để được báo giá.
 - **Xe máy điện, xe đạp điện:** liên hệ để xác nhận giá hiện tại.

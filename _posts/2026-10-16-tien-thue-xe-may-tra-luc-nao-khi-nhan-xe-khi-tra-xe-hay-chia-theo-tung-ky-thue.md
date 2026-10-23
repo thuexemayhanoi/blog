@@ -47,7 +47,7 @@ Câu thứ hai và thứ ba là chỗ hay vướng nhất, vì chính sách cho 
 
 ## Thuê theo tuần, theo tháng: trả một lần hay chia kỳ
 
-Với gói dài, số tiền lớn hơn nên càng cần rõ ràng. Ví dụ Honda Air Blade có gói tuần 800.000 đồng và gói tháng 1.400.000 đồng; Honda Click, Yamaha Mio có gói tuần 600.000–700.000 đồng và gói tháng 1.000.000–1.200.000 đồng. Trước khi nhận xe, hãy hỏi:
+Với gói dài, số tiền lớn hơn nên càng cần rõ ràng. Ví dụ Honda Air Blade có gói tuần 1.000.000 đồng và gói tháng 1.500.000 đồng; Honda Click, Yamaha Mio có gói tuần 700.000 đồng và gói tháng 900.000–1.200.000 đồng. Trước khi nhận xe, hãy hỏi:
 
 - Gói tuần hoặc tháng trả trọn khi nhận xe, hay chia ra?
 - Nếu thuê nhiều tháng liền, tiền mỗi tháng trả vào ngày nào: đúng ngày nhận xe của tháng sau hay một mốc khác?

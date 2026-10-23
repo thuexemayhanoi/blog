@@ -25,7 +25,7 @@ Việc đầu tiên, trước cả khi chốt danh sách quà, là **báo cửa 
 
 Điều kiện cho chuyến đi xa nhiều ngày, giấy tờ cần để lại và khoản đặt cọc đều được cửa hàng xác nhận trực tiếp; đừng tự đoán là được hay không được. Mỗi xe phải mang theo giấy tờ xe suốt chuyến. Nếu phải để lại giấy tờ gì, hãy hỏi rõ trực tiếp và xin biên nhận.
 
-Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở 09:00–21:00, không giao xe ngoài giờ này. Đoàn muốn xuất phát sớm thì nên nhận xe từ chiều hôm trước và kiểm tra xe ngay tại cửa hàng. Thời gian và chi phí giao nhận, nếu cần, phải xác nhận trước khi đặt. Giá tuần đã duyệt: Honda Vision 800.000–1.000.000 đồng, Honda Air Blade 800.000 đồng, Honda Click hoặc Yamaha Mio 600.000–700.000 đồng; Honda Wave liên hệ để báo giá. Lưu ý chung khi thuê dài ngày có ở mục [thuê xe theo tuần](/thue-xe/thue-tuan/).
+Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở 09:00–21:00, không giao xe ngoài giờ này. Đoàn muốn xuất phát sớm thì nên nhận xe từ chiều hôm trước và kiểm tra xe ngay tại cửa hàng. Thời gian và chi phí giao nhận, nếu cần, phải xác nhận trước khi đặt. Giá tuần đã duyệt: Honda Vision 1.000.000 đồng, Honda Air Blade 1.000.000 đồng, Honda Click hoặc Yamaha Mio 700.000 đồng; Honda Wave 700.000 đồng. Lưu ý chung khi thuê dài ngày có ở mục [thuê xe theo tuần](/thue-xe/thue-tuan/).
 
 ### Chọn xe cho đường đèo khi chở nặng
 

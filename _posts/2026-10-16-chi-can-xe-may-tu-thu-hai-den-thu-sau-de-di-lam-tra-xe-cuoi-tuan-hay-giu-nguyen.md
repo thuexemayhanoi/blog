@@ -30,19 +30,19 @@ Bảng giá đã niêm yết của cửa hàng Nguyễn Tú:
 
 | Dòng xe | Giá ngày | Giá tuần |
 |---|---|---|
-| Honda Vision | 200.000 đồng | 800.000–1.000.000 đồng |
-| Honda Air Blade | 200.000 đồng | 800.000 đồng |
-| Honda Click / Yamaha Mio | 150.000 đồng | 600.000–700.000 đồng |
-| Honda Wave | 150.000 đồng | Hỏi cửa hàng |
+| Honda Vision | 200.000 đồng | 1.000.000 đồng |
+| Honda Air Blade | 200.000 đồng | 1.000.000 đồng |
+| Honda Click / Yamaha Mio | 150.000 đồng | 700.000 đồng |
+| Honda Wave | 150.000 đồng | 700.000 đồng |
 
 Xe máy điện và xe đạp điện cần liên hệ để xác nhận giá. Bảng đầy đủ, có cả giá tháng, ở trang [bảng giá thuê xe](/bang-gia/).
 
 Điểm mấu chốt khi nhìn bảng:
 
-1. **Air Blade**: giá tuần 800.000 đồng, chỉ ngang bốn ngày lẻ. Năm ngày đi làm thuê lẻ đã vượt giá tuần.
-2. **Click, Mio**: bốn ngày lẻ đã bằng mức thấp của khung tuần, năm ngày thì vượt.
-3. **Vision**: năm ngày lẻ cộng lại chạm mức cao nhất của khung tuần là 1.000.000 đồng, trong khi gói tuần có thể bắt đầu từ 800.000 đồng.
-4. **Wave**: chưa có giá tuần trên bảng, nên nhắn hỏi trước khi so.
+1. **Air Blade**: giá tuần 1.000.000 đồng, chỉ ngang năm ngày lẻ. Năm ngày đi làm thuê lẻ bằng đúng giá tuần.
+2. **Click, Mio**: bốn ngày lẻ vẫn thấp hơn giá tuần, năm ngày thì vượt.
+3. **Vision**: năm ngày lẻ cộng lại là 1.000.000 đồng, bằng đúng giá tuần.
+4. **Wave**: giá tuần 700.000 đồng, năm ngày lẻ đã vượt giá tuần.
 
 Đây là phép so trên giá niêm yết. Con số cuối cùng vẫn do cửa hàng báo, vì cách đếm ngày theo mốc giờ nhận trả có thể làm thay đổi kết quả. Nếu chưa rõ điểm này, đọc thêm bài [cách tính ngày thuê xe máy](/hoi-dap/2026/10/10/hoi-cach-tinh-ngay-thue-xe-may-nhu-the-nao/).
 
@@ -78,7 +78,7 @@ Ngay cả khi đó, vẫn nên xin cửa hàng báo cả hai phương án. Cách
 
 ## Thuê xe máy chỉ ngày đi làm trong nhiều tuần liền
 
-Nếu công việc kéo dài ba bốn tuần trở lên, hãy hỏi luôn gói tháng thay vì nối gói tuần. Giá tháng đã niêm yết: Honda Vision 1.800.000–2.000.000 đồng, Honda Air Blade 1.400.000 đồng, Honda Click và Yamaha Mio 1.000.000–1.200.000 đồng. Cách đếm một tháng thuê có trong bài [thuê xe máy một tháng tính thế nào](/hoi-dap/2026/10/14/thue-xe-may-mot-thang-tinh-the-nao-du-30-ngay-hay-den-cung-ngay-thang-sau/).
+Nếu công việc kéo dài ba bốn tuần trở lên, hãy hỏi luôn gói tháng thay vì nối gói tuần. Giá tháng đã niêm yết: Honda Vision 1.800.000–2.000.000 đồng, Honda Air Blade 1.500.000 đồng, Honda Click và Yamaha Mio 900.000–1.200.000 đồng. Cách đếm một tháng thuê có trong bài [thuê xe máy một tháng tính thế nào](/hoi-dap/2026/10/14/thue-xe-may-mot-thang-tinh-the-nao-du-30-ngay-hay-den-cung-ngay-thang-sau/).
 
 Chính sách hoàn tiền cho ngày chưa dùng khi kết thúc sớm hiện chưa chốt. Nếu công việc có thể dừng giữa chừng, hãy hỏi cửa hàng khi đặt xe.
 

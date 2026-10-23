@@ -34,10 +34,10 @@ Một phòng gần có thể đắt hơn ở phần đầu nhưng gần như kh�
 
 Đây là khoản dễ tra nhất. Bảng giá tháng đã duyệt của cửa hàng Nguyễn Tú:
 
-- **Honda Click / Yamaha Mio:** 1.000.000–1.200.000 đồng/tháng.
-- **Honda Air Blade:** 1.400.000 đồng/tháng.
+- **Honda Click / Yamaha Mio:** 900.000–1.200.000 đồng/tháng.
+- **Honda Air Blade:** 1.500.000 đồng/tháng.
 - **Honda Vision:** 1.800.000–2.000.000 đồng/tháng.
-- **Honda Wave:** giá tháng liên hệ cửa hàng để xác nhận.
+- **Honda Wave:** 900.000–1.200.000 đồng/tháng.
 
 Với dòng xe có giá dạng khoảng, hãy hỏi cửa hàng báo đúng mức cho số tháng bạn định thuê. Cách đọc bảng giá xem ở trang [giá thuê xe máy](/thue-xe/gia-thue/) và bài [giá thuê xe máy theo tháng ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/). Tiền đặt cọc xác nhận trực tiếp với cửa hàng; ghi nó vào một dòng riêng, đừng trộn vào chi phí hằng tháng.
 
@@ -86,7 +86,7 @@ Nếu bạn còn phân vân giữa thuê lâu dài và mua xe cũ, bài [chi ph�
 - **Click hoặc Mio:** mức tháng thấp hơn Air Blade và Vision, gọn, dễ dắt vào ngõ nhỏ. Hợp quãng ngắn và vừa.
 - **Air Blade:** máy khỏe, cốp rộng, hợp người phải qua cầu và chạy đường dài mỗi ngày.
 - **Vision:** nhẹ, dễ lái cho người mới, nhưng mức tháng cao hơn.
-- **Wave:** xe số bền, ít kén đường; giá tháng cần hỏi cửa hàng.
+- **Wave:** xe số bền, ít kén đường; giá tháng 900.000–1.200.000 đồng.
 
 Chuyện giữ xe ban đêm và ngõ ngập khi mưa được viết kỹ trong bài [thuê xe máy theo tháng cho người ở trọ](/thue-xe/2026/10/10/thue-xe-may-theo-thang-cho-nguoi-o-tro/).
 

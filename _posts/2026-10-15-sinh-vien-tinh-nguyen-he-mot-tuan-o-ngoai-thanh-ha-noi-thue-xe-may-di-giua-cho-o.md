@@ -75,7 +75,7 @@ Cách buộc chi tiết có trong bài [buộc đồ trên yên sau không xô l
 
 ## Thuê xe theo tuần cho cả nhóm
 
-Với nhóm sinh viên, xe số như Honda Wave tiết kiệm xăng và khỏe trên đường làng; xe ga như Honda Vision, Honda Click dễ lái cho người mới. Giá tuần đã duyệt: Honda Vision 800.000–1.000.000 đồng, Honda Air Blade 800.000 đồng, Honda Click và Yamaha Mio 600.000–700.000 đồng; Honda Wave theo tuần liên hệ để xác nhận. Tiền cọc xác nhận trực tiếp. Xem thêm ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
+Với nhóm sinh viên, xe số như Honda Wave tiết kiệm xăng và khỏe trên đường làng; xe ga như Honda Vision, Honda Click dễ lái cho người mới. Giá tuần đã duyệt: Honda Vision 1.000.000 đồng, Honda Air Blade 1.000.000 đồng, Honda Click và Yamaha Mio 700.000 đồng; Honda Wave 700.000 đồng. Tiền cọc xác nhận trực tiếp. Xem thêm ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
 
 Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00 và không giao xe ngoài giờ này. Nếu cần nhận nhiều xe một lúc, đặt trước để tiệm chuẩn bị, thời gian và chi phí giao nhận phải xác nhận trước. Báo tiệm nơi nhóm sẽ ở trong tuần, mang theo giấy tờ xe tiệm đưa, và hỏi rõ trực tiếp về giấy tờ cần để lại. Số điện thoại tiệm: 0942467674.
 

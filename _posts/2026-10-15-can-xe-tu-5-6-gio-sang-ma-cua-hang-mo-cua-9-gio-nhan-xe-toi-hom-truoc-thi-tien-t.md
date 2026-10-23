@@ -49,7 +49,7 @@ Bạn có thể tự chuẩn bị trước theo ba bước:
 2. **Đếm theo hai cách**: một lần theo số ngày lịch xe nằm trong tay bạn, một lần theo số khoảng thời gian tính từ giờ nhận. Hai con số này có thể bằng nhau hoặc chênh một ngày.
 3. **Nhân với giá ngày đã duyệt** của dòng xe bạn chọn để có khoảng dự kiến, rồi gửi cả hai mốc giờ cho cửa hàng hỏi con số chính thức.
 
-Giá ngày tham khảo trên bảng đã duyệt: Honda Wave, Honda Click, Yamaha Mio là 150.000 đồng; Honda Vision và Honda Air Blade là 200.000 đồng. Nếu số ngày đếm được đã chạm tới gói tuần, hãy hỏi luôn gói tuần, vì Vision có giá tuần 800.000–1.000.000 đồng, Air Blade 800.000 đồng, Click hoặc Mio 600.000–700.000 đồng. Các mức dạng khoảng sẽ được cửa hàng báo cụ thể theo lần thuê của bạn.
+Giá ngày tham khảo trên bảng đã duyệt: Honda Wave, Honda Click, Yamaha Mio là 150.000 đồng; Honda Vision và Honda Air Blade là 200.000 đồng. Nếu số ngày đếm được đã chạm tới gói tuần, hãy hỏi luôn gói tuần, vì Vision có giá tuần 1.000.000 đồng, Air Blade 1.000.000 đồng, Click hoặc Mio 700.000 đồng. Mức nào ghi dạng khoảng (như giá tháng của Click, Mio) sẽ được cửa hàng báo cụ thể theo lần thuê của bạn.
 
 Một gợi ý để tránh thừa ngày: sắp giờ trả xe sao cho khớp với cách tính cửa hàng xác nhận, và hỏi luôn nếu trả sớm hơn ở ngày cuối thì số ngày có khác đi không. Bài [một ngày thuê xe tính từ khi nào](/thue-xe/2026/09/27/thoi-gian-tinh-mot-ngay-thue-xe-tinh-tu-khi-nao/) phân tích các kiểu tính phổ biến.
 

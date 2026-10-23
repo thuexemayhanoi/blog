@@ -40,7 +40,7 @@ Câu trả lời nào đã thống nhất, xin cửa hàng nhắn lại để sa
 
 ## Tiền thuê tính đến lúc xe về cửa hàng
 
-Giá niêm yết theo ngày: Honda Wave 150.000 đ, Honda Vision và Honda Air Blade 200.000 đ, Honda Click và Yamaha Mio 150.000 đ. Đi xa nhiều ngày thì hỏi giá tuần: Honda Vision 800.000–1.000.000 đ, Honda Air Blade 800.000 đ, Honda Click hoặc Yamaha Mio 600.000–700.000 đ.
+Giá niêm yết theo ngày: Honda Wave 150.000 đ, Honda Vision và Honda Air Blade 200.000 đ, Honda Click và Yamaha Mio 150.000 đ. Đi xa nhiều ngày thì hỏi giá tuần: Honda Vision 1.000.000 đ, Honda Air Blade 1.000.000 đ, Honda Click hoặc Yamaha Mio 700.000 đ.
 
 Điểm nhiều người quên: ngày chạy về Hà Nội cũng là ngày thuê. Ví dụ bạn định chơi ở Mai Châu hai ngày, thì phải cộng thêm buổi chạy về, có khi thành ba ngày. Lúc đó so ngay giữa giá ngày lẻ và gói tuần, xem bài [thuê xe máy 5 hoặc 6 ngày](/hoi-dap/2026/10/14/thue-xe-may-5-hoac-6-ngay-hoi-bao-gia-ngay-le-hay-goi-tuan-cho-hop/) và cách [tính ngày thuê xe máy](/hoi-dap/2026/10/10/hoi-cach-tinh-ngay-thue-xe-may-nhu-the-nao/).
 

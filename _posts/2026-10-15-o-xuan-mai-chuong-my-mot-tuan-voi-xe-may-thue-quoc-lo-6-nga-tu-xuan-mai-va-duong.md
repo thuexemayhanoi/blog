@@ -30,7 +30,7 @@ Vì xe sẽ ở ngoài thành phố cả tuần, hãy báo trước với tiệm
 - **Honda Wave:** xe số bền, dễ xử lý khi đường xấu hoặc ngập nhẹ.
 - **Honda Click, Yamaha Mio:** gọn, hợp người chủ yếu đi quanh Xuân Mai.
 
-Giá tuần đã duyệt: Honda Vision 800.000–1.000.000 đồng, Honda Air Blade 800.000 đồng, Honda Click và Yamaha Mio 600.000–700.000 đồng; Honda Wave thuê tuần thì liên hệ để xác nhận.
+Giá tuần đã duyệt: Honda Vision 1.000.000 đồng, Honda Air Blade 1.000.000 đồng, Honda Click và Yamaha Mio 700.000 đồng; Honda Wave 700.000 đồng.
 
 ## Xuân Mai vào Hà Nội bằng xe máy: theo quốc lộ 6 qua Hà Đông
 

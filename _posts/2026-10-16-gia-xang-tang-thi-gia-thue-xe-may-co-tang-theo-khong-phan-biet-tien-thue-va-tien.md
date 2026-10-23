@@ -73,7 +73,7 @@ Giá xăng chỉ tác động lên bước cuối. Rút ngắn quãng đường,
 
 ## Lo tiền xăng thì chọn xe thế nào
 
-Mẫu xe là thứ bạn chủ động quyết được. Xe số như Honda Wave thường ăn xăng ít hơn xe ga cùng tầm, giá thuê ngày 150.000 đồng. Honda Click và Yamaha Mio cũng 150.000 đồng một ngày, gói tuần 600.000–700.000 đồng, gói tháng 1.000.000–1.200.000 đồng. Honda Vision và Honda Air Blade cùng 200.000 đồng một ngày, nhưng gói tháng của Air Blade là 1.400.000 đồng, còn Vision là 1.800.000–2.000.000 đồng.
+Mẫu xe là thứ bạn chủ động quyết được. Xe số như Honda Wave thường ăn xăng ít hơn xe ga cùng tầm, giá thuê ngày 150.000 đồng. Honda Click và Yamaha Mio cũng 150.000 đồng một ngày, gói tuần 700.000 đồng, gói tháng 900.000–1.200.000 đồng. Honda Vision và Honda Air Blade cùng 200.000 đồng một ngày, nhưng gói tháng của Air Blade là 1.500.000 đồng, còn Vision là 1.800.000–2.000.000 đồng.
 
 Đừng lấy giá ngày nhân lên để so, vì giá tuần và giá tháng là mức riêng, như bài [đừng tự nhân giá ngày để đoán giá tuần và tháng](/hoi-dap/2026/10/14/dung-tu-nhan-gia-ngay-de-doan-gia-tuan-va-thang-cach-doc-bang-gia-xe-may/) đã giải thích. Bản mới nhất ở trang [bảng giá thuê xe máy](/bang-gia/).
 

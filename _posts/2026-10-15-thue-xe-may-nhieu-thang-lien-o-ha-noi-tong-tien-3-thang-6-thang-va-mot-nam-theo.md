@@ -21,10 +21,10 @@ Bạn vừa nhận hợp đồng làm việc ở Hà Nội vài tháng, hoặc d
 
 Mọi phép tính dài hạn đều bắt đầu từ giá một tháng. Theo bảng giá đang niêm yết, các dòng xe có giá tháng là:
 
-- **Honda Click / Yamaha Mio:** tháng 1.000.000–1.200.000 đồng (giá ngày 150.000 đồng; tuần 600.000–700.000 đồng).
-- **Honda Air Blade:** tháng 1.400.000 đồng (giá ngày 200.000 đồng; tuần 800.000 đồng).
-- **Honda Vision:** tháng 1.800.000–2.000.000 đồng (giá ngày 200.000 đồng; tuần 800.000–1.000.000 đồng).
-- **Honda Wave:** mới niêm yết giá ngày 150.000 đồng; giá tuần và giá tháng phải liên hệ.
+- **Honda Click / Yamaha Mio:** tháng 900.000–1.200.000 đồng (giá ngày 150.000 đồng; tuần 700.000 đồng).
+- **Honda Air Blade:** tháng 1.500.000 đồng (giá ngày 200.000 đồng; tuần 1.000.000 đồng).
+- **Honda Vision:** tháng 1.800.000–2.000.000 đồng (giá ngày 200.000 đồng; tuần 1.000.000 đồng).
+- **Honda Wave:** giá ngày 150.000 đồng; tuần 700.000 đồng; tháng 900.000–1.200.000 đồng.
 - **Xe máy điện, xe đạp điện:** liên hệ để được xác nhận giá hiện tại.
 
 Bảng đầy đủ và cập nhật nhất luôn nằm ở trang [giá thuê xe máy](/thue-xe/gia-thue/). Nếu bạn muốn hiểu vì sao mỗi dòng xe có mức khác nhau, bài [giá thuê xe máy theo tháng ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/) giải thích phần nền tảng.
@@ -47,9 +47,9 @@ Với dòng có giá tháng là một khoảng, đừng chỉ lấy mức thấp
 
 Khoảng cách giữa hai kết quả sẽ lớn dần khi kỳ thuê dài ra. Ở mốc ba tháng chênh lệch còn nhỏ, nhưng sang mốc một năm thì khoảng chênh đủ để ảnh hưởng tới kế hoạch chi tiêu. Vì vậy người lập ngân sách cả năm nên giữ mức cận trên làm mốc an toàn.
 
-### Wave, xe máy điện, xe đạp điện: chưa có giá tháng để nhân
+### Xe máy điện, xe đạp điện: chưa có giá tháng để nhân
 
-Ba nhóm xe này chưa có giá tháng niêm yết. Không nên lấy giá ngày nhân lên rồi coi đó là giá tháng, vì cách cửa hàng tính cho kỳ dài có thể khác hẳn. Hãy nhắn hỏi trực tiếp; bài [Honda Wave chỉ niêm yết giá ngày](/thue-xe/2026/10/15/honda-wave-chi-niem-yet-gia-ngay-150000d-muon-thue-wave-ca-tuan-hoac-ca-thang-th/) gợi ý cách đặt câu hỏi cho dòng xe số này.
+Hai nhóm xe này chưa có giá tháng niêm yết. Không nên lấy giá ngày nhân lên rồi coi đó là giá tháng, vì cách cửa hàng tính cho kỳ dài có thể khác hẳn. Hãy nhắn hỏi trực tiếp; bài [hỏi giá thuê xe theo tuần và tháng](/thue-xe/2026/10/15/honda-wave-chi-niem-yet-gia-ngay-150000d-muon-thue-wave-ca-tuan-hoac-ca-thang-th/) gợi ý cách đặt câu hỏi báo giá.
 
 ## Ba mốc 3 tháng, 6 tháng và một năm khác nhau ở đâu
 
@@ -92,7 +92,7 @@ Mở bảng tính trên điện thoại và làm theo thứ tự:
 2. Cột thứ hai ghi giá tháng đã duyệt; dòng có khoảng thì ghi cả cận dưới và cận trên.
 3. Ba cột tiếp theo cho mốc ba tháng, sáu tháng và mười hai tháng, mỗi ô là giá tháng nhân với số tháng tương ứng.
 4. Thêm cột xăng và gửi xe ước tính theo tháng, nhân cùng cách.
-5. Hàng nào là Wave hoặc xe điện thì để trống, ghi "chờ báo giá".
+5. Hàng nào là xe điện thì để trống, ghi "chờ báo giá".
 
 Gửi ảnh chụp bảng kèm câu hỏi cho cửa hàng để nhận báo giá chính thức cho đúng kỳ thuê.
 

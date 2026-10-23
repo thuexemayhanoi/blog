@@ -58,9 +58,9 @@ Hỏi cụ thể: dòng xe đó còn trống đúng khung ngày bạn thuê hay 
 Theo bảng giá hiện tại của cửa hàng Nguyễn Tú, mức tham khảo như sau:
 
 - Honda Wave (xe số): 150.000 đ/ngày.
-- Honda Click hoặc Yamaha Mio (xe ga): 150.000 đ/ngày, theo tuần 600.000 đ đến 700.000 đ.
-- Honda Vision: 200.000 đ/ngày, theo tuần 800.000 đ đến 1.000.000 đ.
-- Honda Air Blade: 200.000 đ/ngày, theo tuần 800.000 đ.
+- Honda Click hoặc Yamaha Mio (xe ga): 150.000 đ/ngày, theo tuần 700.000 đ.
+- Honda Vision: 200.000 đ/ngày, theo tuần 1.000.000 đ.
+- Honda Air Blade: 200.000 đ/ngày, theo tuần 1.000.000 đ.
 
 Như vậy, đổi từ Wave sang Click hoặc Mio thì giá ngày tham khảo không đổi, còn sang Vision hay Air Blade sẽ cao hơn. Đối chiếu thêm ở trang [bảng giá thuê xe máy](/bang-gia/), rồi nhờ cửa hàng xác nhận lại tổng tiền cho đúng số ngày bạn thuê.
 

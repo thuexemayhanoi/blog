@@ -48,9 +48,9 @@ Wave là xe số, hợp với ông vốn quen xe số ở quê. Air Blade to và
 Dưới đây là mức giá tháng tiệm đang áp dụng cho các dòng xe kể trên:
 
 - **Honda Vision:** 1.800.000–2.000.000 đồng/tháng.
-- **Honda Click / Yamaha Mio:** 1.000.000–1.200.000 đồng/tháng.
-- **Honda Air Blade:** 1.400.000 đồng/tháng.
-- **Honda Wave:** giá tháng chưa niêm yết sẵn, cần liên hệ tiệm để được báo.
+- **Honda Click / Yamaha Mio:** 900.000–1.200.000 đồng/tháng.
+- **Honda Air Blade:** 1.500.000 đồng/tháng.
+- **Honda Wave:** 900.000–1.200.000 đồng/tháng.
 
 Giá nằm trong một khoảng là vì còn tùy đời xe và tình trạng xe ở thời điểm thuê. Muốn tính chi phí cho cả đợt ông bà ở lại, cứ lấy giá tháng của chiếc xe nhân với số tháng dự kiến, rồi nhờ tiệm báo giá đúng khoảng thời gian đó, vì có nhà ở hai tháng rưỡi chứ không tròn tháng. Bảng giá đầy đủ theo ngày, tuần, tháng xem ở mục [giá thuê xe máy](/thue-xe/gia-thue/), còn so sánh giữa thuê tháng và các hình thức khác nằm trong bài [giá thuê xe máy theo tháng ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/).
 
