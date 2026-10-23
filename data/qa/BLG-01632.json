@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1136,
+  "word_count": 1140,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,9 +47,42 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-07-khach-quoc-te-tra-xe-ngoai-gio-nen-bo-tri-ra-sao.md",
-  "content_sha256": "6a722770763ea16345184bec50bad679dfb1dfa4d77c0f78ef72ffb694e935f8",
+  "content_sha256": "3f095eaf8b3c8fbc36214a5a5404abdba1650a66d3fc16ac8517914f7f3be64a",
   "matrix_row_sha256": "2536c989fb2a6657827f2e3a0e9bf60b918e49e18e7fb079a7b2627c5160fecd",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-08T12:29:54+00:00"
+  "published_at": "2026-10-08T12:29:54+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "content-revision",
+    "purpose": "deposit-wording-02-2026-10-23",
+    "reason": "Đồng bộ câu hoàn cọc với văn bản chủ duyệt: \"Tiền cọc được hoàn trả theo điều khoản hợp đồng sau khi khách bàn giao xe và hoàn thành các nghĩa vụ liên quan\"; không cam kết hoàn toàn bộ/ngay tại chỗ (forbidden_claims: cam kết hoàn tiền)",
+    "approval_ref": "OWNER-MASTER-WORK-2026-10-23: tin nhắn MASTER WORK — CONTINUE SEO /BLOG NGUYỄN TÚ (23/10/2026) — chủ xe phê duyệt trước việc sửa lỗi SEO an toàn, tạo PR và merge khi CI/QA/quy tắc repository đạt, \"không cần hỏi lại từng bài/PR thông thường\"; sửa bài đã PUBLISHED qua quy trình bảo trì với bằng chứng QA hợp lệ; lô deposit-wording-02 revise-20261023-deposit-02",
+    "batch_id": "revise-20261023-deposit-02",
+    "revised_at": "2026-10-23T13:30:35+00:00",
+    "previous_evidence_sha256": "2fb26ef86b5249a31612a5136950705a70b6fe1fd228c2f69d961853dd0fd7a5",
+    "previous_content_sha256": "6a722770763ea16345184bec50bad679dfb1dfa4d77c0f78ef72ffb694e935f8",
+    "previous_matrix_row_sha256": "2536c989fb2a6657827f2e3a0e9bf60b918e49e18e7fb079a7b2627c5160fecd",
+    "new_content_sha256": "3f095eaf8b3c8fbc36214a5a5404abdba1650a66d3fc16ac8517914f7f3be64a",
+    "edit_count": 1,
+    "edits_sha256": "7388cb9489d7cf5c025ff6e65e1b4f41bf6b9d3a871147c1d7f61f57c043d63e",
+    "chars_changed": 96,
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/revise-published.py",
+    "tool_commit": "6aa07abbf2156db53301827a91cd538494c47349",
+    "tool_sha256": "86f44d47bbca6fd0822065a75bc34927bc592326518f0df4fea798c022acca84",
+    "scorer_code_sha256": "29894c883d01b7d840f5731884fd62b2a31238391f403aec361a046cc313c10f",
+    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+  }
 }
