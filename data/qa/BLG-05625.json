@@ -34,7 +34,7 @@
     "legal_source": true,
     "legal_disclaimer": true
   },
-  "word_count": 1283,
+  "word_count": 1329,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -49,9 +49,42 @@
   "legal": "PASS",
   "critical_failure": false,
   "source_path": "_posts/2026-10-20-chi-xuat-trinh-bang-lai-tren-vneid-khi-bi-kiem-tra-tam-giu-giay-phep-lai-xe-dien.md",
-  "content_sha256": "57599b0cdb04213fd4251dfa6f7a8e38b24d60931b1deaf6dec13bc91ecc47d4",
+  "content_sha256": "6640663eeb8f0a763f4c333acb1a33516bd1f409a47a6d87cd3fa21191899730",
   "matrix_row_sha256": "266cd22f6a95a6677c801f70e7744b97c83f036072c793180affc3c816d1e815",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-20T10:46:29+00:00"
+  "published_at": "2026-10-20T10:46:29+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "content-revision",
+    "purpose": "legal-correction-02-2026-10-23",
+    "reason": "Đính chính theo văn bản chính thức đối chiếu ngày 23/10/2026 (TT 90/2026/TT-BTC, Luật 64/2025/QH15, TT 105/2026/TT-BCA, Luật 47/2014 hợp nhất 62/VBHN-VPQH, NĐ 299/2025/NĐ-CP, NĐ 23/2015 hợp nhất 753/VBHN-BTP, TT 73/2024/TT-BCA, NĐ 94/2026/NĐ-CP, NĐ 58/2026/NĐ-CP)",
+    "approval_ref": "OWNER-MASTER-WORK-2026-10-23: tin nhắn MASTER WORK — CONTINUE SEO /BLOG NGUYỄN TÚ (23/10/2026) — chủ xe phê duyệt trước việc sửa lỗi SEO an toàn, tạo PR và merge khi CI/QA/quy tắc repository đạt, \"không cần hỏi lại từng bài/PR thông thường\"; sửa bài đã PUBLISHED qua quy trình bảo trì với bằng chứng QA hợp lệ; lô legal-correction-02",
+    "batch_id": "revise-20261023-legal-02",
+    "revised_at": "2026-10-23T12:13:27+00:00",
+    "previous_evidence_sha256": "908311cd9bccc20fc11cee534c0dc9282f3054027458c7d1a05bbb4703123af8",
+    "previous_content_sha256": "57599b0cdb04213fd4251dfa6f7a8e38b24d60931b1deaf6dec13bc91ecc47d4",
+    "previous_matrix_row_sha256": "266cd22f6a95a6677c801f70e7744b97c83f036072c793180affc3c816d1e815",
+    "new_content_sha256": "6640663eeb8f0a763f4c333acb1a33516bd1f409a47a6d87cd3fa21191899730",
+    "edit_count": 4,
+    "edits_sha256": "5f60ec5255f62ca5b413b880a1345b0eb44ddc25fc2c6ea812b16ba46d7de56a",
+    "chars_changed": 1031,
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/revise-published.py",
+    "tool_commit": "d794f64b01db07ab79ba04374534030a4c6487ca",
+    "tool_sha256": "86f44d47bbca6fd0822065a75bc34927bc592326518f0df4fea798c022acca84",
+    "scorer_code_sha256": "29894c883d01b7d840f5731884fd62b2a31238391f403aec361a046cc313c10f",
+    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+  }
 }

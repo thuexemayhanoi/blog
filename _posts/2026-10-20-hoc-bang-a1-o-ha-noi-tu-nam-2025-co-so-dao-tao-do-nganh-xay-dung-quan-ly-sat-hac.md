@@ -25,7 +25,7 @@ Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 có hi
 - **Khoản 7 Điều 61:** Bộ trưởng Bộ Công an quy định hình thức, nội dung, quy trình sát hạch để cấp giấy phép lái xe.
 - **Khoản 1 Điều 62:** giấy phép lái xe được cấp cho người dự sát hạch có kết quả đạt yêu cầu.
 
-Từ ngày 01/3/2025, Bộ Giao thông vận tải hợp nhất vào Bộ Xây dựng, nên mảng đào tạo lái xe nay thuộc ngành xây dựng; Bộ Công an quản lý nhà nước về sát hạch, cấp giấy phép lái xe. Quy định chi tiết về cơ sở đào tạo và trung tâm sát hạch nằm ở Nghị định 160/2024/NĐ-CP về hoạt động đào tạo và sát hạch lái xe, cùng văn bản sửa đổi nếu có.
+Từ ngày 01/3/2025, Bộ Giao thông vận tải hợp nhất vào Bộ Xây dựng, nên mảng đào tạo lái xe nay thuộc ngành xây dựng; Bộ Công an quản lý nhà nước về sát hạch, cấp giấy phép lái xe. Quy định chi tiết về cơ sở đào tạo và trung tâm sát hạch nằm ở Nghị định 94/2026/NĐ-CP ngày 31/3/2026 về hoạt động đào tạo và sát hạch lái xe, hiệu lực từ 01/7/2026, thay Nghị định 160/2024/NĐ-CP đã áp dụng từ 01/01/2025.
 
 ## Ở Hà Nội, đầu mối đào tạo và đầu mối sát hạch là ai
 
@@ -79,7 +79,7 @@ Hỏi đúng nơi ngay từ đầu giúp bạn khỏi chạy qua lại giữa Lo
 - [Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15](https://vanban.chinhphu.vn/?pageid=27160&docid=211194): Điều 59 đến Điều 62.
 - [Văn bản hợp nhất số 55/VBHN-VPQH](https://vanban.chinhphu.vn/?docid=217295&pageid=27160), gồm khoản 8 Điều 60 và khoản 7 Điều 61 sửa đổi theo Luật số 118/2025/QH15.
 - [Thông tư số 108/2026/TT-BCA](https://vanban.chinhphu.vn/?pageid=27160&docid=218725) về sát hạch, cấp giấy phép lái xe; mốc áp dụng đọc qua bản tóm tắt, chưa đối chiếu Công báo.
-- Nghị định 160/2024/NĐ-CP; Thông tư số 14/2025/TT-BXD của Bộ Xây dựng.
+- Nghị định 94/2026/NĐ-CP (thay Nghị định 160/2024/NĐ-CP từ 01/7/2026); Thông tư số 14/2025/TT-BXD của Bộ Xây dựng, đã được sửa đổi bởi Thông tư 17/2026/TT-BXD từ 01/7/2026.
 
 Phân công, địa điểm tiếp nhận và nội dung sát hạch có thể thay đổi; hãy kiểm tra văn bản mới nhất và thông báo của Công an thành phố Hà Nội trước khi đi thi.
 

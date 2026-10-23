@@ -49,7 +49,7 @@ Khoản 3 Điều 58 quy định khi giấy phép bị trừ hết điểm thì 
 
 Một số điểm thực tế:
 
-- **Việc kiểm tra** được quy định tại Thông tư 65/2024/TT-BCA của Bộ Công an, hiệu lực từ 01/01/2025. Bộ Công an đã đưa ra dự thảo sửa đổi thông tư này, nên nội dung bài kiểm tra và ngưỡng đạt hãy xem bản đang có hiệu lực.
+- **Việc kiểm tra** được quy định tại Thông tư 65/2024/TT-BCA của Bộ Công an, hiệu lực từ 01/01/2025. Thông tư này đã được sửa đổi, bổ sung bởi Thông tư 105/2026/TT-BCA ngày 26/6/2026, hiệu lực từ 01/7/2026; theo các bản tóm tắt, phần nội dung, phương pháp, thời gian và đề kiểm tra tại khoản 1, 2, 3 Điều 6 sau sửa đổi áp dụng từ 01/7/2027. Nội dung bài kiểm tra và ngưỡng đạt hãy xem bản đang có hiệu lực.
 - **Hồ sơ đăng ký**, theo thủ tục được một số công an tỉnh niêm yết, gồm đơn theo mẫu và giấy khám sức khỏe. Hãy kiểm tra thủ tục trên [Cổng Dịch vụ công quốc gia](https://dichvucong.gov.vn/) trước khi nộp.
 - **Trong thời gian bị trừ hết điểm**, đừng thuê xe tự lái theo giấy phép đó.
 
@@ -84,7 +84,7 @@ Nếu thuê ở Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, B�
 
 - [Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15](https://vanban.chinhphu.vn/?pageid=27160&docid=211194) và [văn bản hợp nhất số 55/VBHN-VPQH](https://vanban.chinhphu.vn/?docid=217295&pageid=27160): Điều 58 về điểm giấy phép lái xe.
 - [Nghị định 168/2024/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2) về xử phạt, trừ điểm và phục hồi điểm giấy phép lái xe.
-- Thông tư 65/2024/TT-BCA của Bộ Công an về kiểm tra kiến thức pháp luật để phục hồi điểm; có dự thảo sửa đổi, chưa đối chiếu Công báo.
+- Thông tư 65/2024/TT-BCA của Bộ Công an về kiểm tra kiến thức pháp luật để phục hồi điểm, đã được sửa đổi bởi Thông tư 105/2026/TT-BCA: số hiệu và ngày hiệu lực đối chiếu trên cổng văn bản của Chính phủ và cổng văn bản của Bộ Công an, chưa đối chiếu toàn văn bản sửa đổi.
 - Hướng dẫn xem điểm trên VNeID: tổng hợp từ các cổng thông tin pháp luật và cơ quan nhà nước, giao diện ứng dụng có thể đổi.
 
 Các bước tra cứu, nộp phạt và giải trình khác có ở mục [phạt nguội](/an-toan-phap-ly/phat-nguoi/) và chuyên mục [an toàn và pháp lý](/an-toan-phap-ly/).

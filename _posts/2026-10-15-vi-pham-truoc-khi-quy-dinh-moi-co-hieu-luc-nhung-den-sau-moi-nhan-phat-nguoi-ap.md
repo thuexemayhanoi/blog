@@ -21,7 +21,7 @@ Lỗi xảy ra từ cuối năm trước, ở một nút giao trên đường Ng
 
 ## Phạt nguội áp dụng quy định nào: mốc là ngày thực hiện hành vi
 
-Nguyên tắc chung của hệ thống pháp luật là văn bản quy phạm pháp luật được áp dụng đối với hành vi xảy ra tại thời điểm văn bản đó đang có hiệu lực. Nguyên tắc này được nêu trong Luật Ban hành văn bản quy phạm pháp luật năm 2015 (Điều 156) và tiếp tục ở Điều 58 Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15, hiệu lực từ 01/4/2025, theo các nguồn trích dẫn khớp nhau.
+Nguyên tắc chung của hệ thống pháp luật là văn bản quy phạm pháp luật được áp dụng đối với hành vi xảy ra tại thời điểm văn bản đó đang có hiệu lực. Nguyên tắc này được nêu ở khoản 2 Điều 58 Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15, hiệu lực từ 01/4/2025; luật năm 2015 đã hết hiệu lực từ ngày đó (khoản 3 Điều 71).
 
 Với phạt nguội, điều này có nghĩa là:
 
@@ -44,9 +44,9 @@ Phần lớn lỗi bị camera ghi lại là hành vi đã kết thúc: xe vư�
 
 ## Khi quy định mới có lợi hơn cho người vi phạm
 
-Nguyên tắc thời điểm vi phạm có một ngoại lệ quan trọng. Theo khoản 3 Điều 156 Luật Ban hành văn bản quy phạm pháp luật năm 2015, được nhiều nguồn trích nguyên văn khớp nhau: trong trường hợp văn bản mới không quy định trách nhiệm pháp lý hoặc quy định trách nhiệm pháp lý nhẹ hơn đối với hành vi xảy ra trước ngày văn bản có hiệu lực thì áp dụng văn bản mới.
+Nguyên tắc thời điểm vi phạm từng có một ngoại lệ quan trọng. Khoản 3 Điều 156 Luật Ban hành văn bản quy phạm pháp luật năm 2015 nêu: trong trường hợp văn bản mới không quy định trách nhiệm pháp lý hoặc quy định trách nhiệm pháp lý nhẹ hơn đối với hành vi xảy ra trước ngày văn bản có hiệu lực thì áp dụng văn bản mới. Luật năm 2015 đã hết hiệu lực từ 01/4/2025 nên không còn là căn cứ hiện hành; hãy tìm điều khoản chuyển tiếp trong chính văn bản xử phạt mới.
 
-Có hai tình huống:
+Theo luật năm 2015 có hai tình huống:
 
 - **Văn bản mới không còn coi hành vi đó là vi phạm:** áp dụng văn bản mới.
 - **Văn bản mới quy định trách nhiệm nhẹ hơn:** áp dụng văn bản mới.
@@ -55,7 +55,7 @@ Ngược lại, văn bản mới quy định nặng hơn thì không được á
 
 Hai lưu ý thực tế:
 
-- **Chúng tôi chưa đối chiếu được nguyên văn** điều khoản tương ứng trong Luật số 64/2025/QH15. Nếu vụ việc của bạn rơi đúng vào trường hợp này, hãy hỏi đơn vị giải quyết căn cứ cụ thể.
+- **Điều 58 Luật số 64/2025/QH15 không có câu tương tự** khoản 3 Điều 156 Luật năm 2015. Nếu vụ việc của bạn rơi đúng vào trường hợp này, hãy hỏi đơn vị giải quyết căn cứ cụ thể.
 - **"Nhẹ hơn" cần so đúng hành vi.** Một lỗi có thể được chuyển sang điều khoản khác, tách hoặc gộp với lỗi khác trong văn bản mới. Đừng tự kết luận chỉ từ một bài báo.
 
 ## Cách tự xác định khi nhận thông báo cho lỗi cũ
@@ -78,11 +78,11 @@ Tin nhắn lạ báo "lỗi cũ được tính theo mức mới, chuyển tiền
 
 ## Nguồn đối chiếu và lưu ý
 
-- Luật Ban hành văn bản quy phạm pháp luật năm 2015 (Điều 156) và Luật số 64/2025/QH15 (Điều 58): tổng hợp từ nhiều nguồn trích dẫn khớp nhau, chưa đối chiếu Công báo.
+- Luật Ban hành văn bản quy phạm pháp luật năm 2015 (Điều 156, đã hết hiệu lực) và Luật số 64/2025/QH15 (Điều 55, 58, 71): tổng hợp từ nhiều nguồn trích dẫn khớp nhau, chưa đối chiếu Công báo.
 - Nghị định 168/2024/NĐ-CP, Điều 54: tổng hợp từ nhiều nguồn báo chí và trang pháp luật, chưa đối chiếu Công báo. Tra văn bản gốc tại [Cổng thông tin văn bản Chính phủ](https://vanban.chinhphu.vn/) hoặc [Cơ sở dữ liệu quốc gia về văn bản pháp luật](https://vbpl.vn/).
 
 Quy định có thể thay đổi; với từng vụ việc, hãy hỏi trực tiếp đơn vị giải quyết.
 
 ## Tóm lại
 
-Phạt nguội được xử lý theo văn bản có hiệu lực lúc bạn thực hiện hành vi, không theo ngày nhận thông báo; ngoại lệ là khi văn bản mới không còn quy định trách nhiệm hoặc quy định nhẹ hơn. Đọc kỹ ngày giờ vi phạm và căn cứ trong quyết định. Xem thêm ở mục [phạt nguội](/an-toan-phap-ly/phat-nguoi/) và chuyên mục [an toàn và pháp lý](/an-toan-phap-ly/).
+Phạt nguội được xử lý theo văn bản có hiệu lực lúc bạn thực hiện hành vi, không theo ngày nhận thông báo; ngoại lệ (từng có ở luật năm 2015, nay cần điều khoản chuyển tiếp) là khi văn bản mới không còn quy định trách nhiệm hoặc quy định nhẹ hơn. Đọc kỹ ngày giờ vi phạm và căn cứ trong quyết định. Xem thêm ở mục [phạt nguội](/an-toan-phap-ly/phat-nguoi/) và chuyên mục [an toàn và pháp lý](/an-toan-phap-ly/).

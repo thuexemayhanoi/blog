@@ -34,7 +34,7 @@
     "legal_source": true,
     "legal_disclaimer": true
   },
-  "word_count": 1439,
+  "word_count": 1492,
   "word_target": 1300,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -49,7 +49,7 @@
   "legal": "PASS",
   "critical_failure": false,
   "source_path": "_posts/2026-10-16-khach-nuoc-ngoai-di-xe-may-len-dong-van-meo-vac-co-can-giay-phep-vao-khu-vuc-bie.md",
-  "content_sha256": "cc9e87b9cbfd397b67e452ef7ba01eb3512624f0cfe3b122860f16a1e5530b21",
+  "content_sha256": "67452d62f415873732108a3a2f86b827d6ed5a96891a9cf2426faef9e127ede0",
   "matrix_row_sha256": "67f8f1dbd6abb03a0c57ebe12c2c615a467d59ed7488cd9a439cc732a9ad3a18",
   "result": "PASS",
   "grade": "EXCELLENT",
@@ -57,18 +57,18 @@
   "revision": {
     "schema": "revision/1",
     "kind": "content-revision",
-    "purpose": "price-sync",
-    "reason": "Đồng bộ giá thuê tuần/tháng với _data/pricing.yml (bảng giá chủ xe duyệt)",
-    "approval_ref": "OWNER-MASTER-WORK-2026-10-23: phê duyệt AI chủ động sửa lỗi, tạo PR, kiểm thử, merge khi đạt điều kiện an toàn; sửa bài PUBLISHED qua quy trình bảo trì + chấm lại độc lập (MASTER WORK — NGUYỄN TÚ BLOG SEO FULL REPAIR A–Z, 23/10/2026)",
-    "batch_id": "revise-20261023-price-04",
-    "revised_at": "2026-10-23T08:21:43+00:00",
-    "previous_evidence_sha256": "b9c1a5d8d5319be413cca84de3bb22802a908de7f8b2d302969d4d9e602ba3fc",
-    "previous_content_sha256": "e2589e9eb7894743025d2a2c0460abea8ae81072c53e77671c39118f3ce94ba9",
+    "purpose": "legal-correction-02-2026-10-23",
+    "reason": "Đính chính theo văn bản chính thức đối chiếu ngày 23/10/2026 (TT 90/2026/TT-BTC, Luật 64/2025/QH15, TT 105/2026/TT-BCA, Luật 47/2014 hợp nhất 62/VBHN-VPQH, NĐ 299/2025/NĐ-CP, NĐ 23/2015 hợp nhất 753/VBHN-BTP, TT 73/2024/TT-BCA, NĐ 94/2026/NĐ-CP, NĐ 58/2026/NĐ-CP)",
+    "approval_ref": "OWNER-MASTER-WORK-2026-10-23: tin nhắn MASTER WORK — CONTINUE SEO /BLOG NGUYỄN TÚ (23/10/2026) — chủ xe phê duyệt trước việc sửa lỗi SEO an toàn, tạo PR và merge khi CI/QA/quy tắc repository đạt, \"không cần hỏi lại từng bài/PR thông thường\"; sửa bài đã PUBLISHED qua quy trình bảo trì với bằng chứng QA hợp lệ; lô legal-correction-02",
+    "batch_id": "revise-20261023-legal-02",
+    "revised_at": "2026-10-23T12:12:55+00:00",
+    "previous_evidence_sha256": "cada7716157c83d0227415a695c8adf6154f1296a85605b3f50adcfb568470d1",
+    "previous_content_sha256": "cc9e87b9cbfd397b67e452ef7ba01eb3512624f0cfe3b122860f16a1e5530b21",
     "previous_matrix_row_sha256": "67f8f1dbd6abb03a0c57ebe12c2c615a467d59ed7488cd9a439cc732a9ad3a18",
-    "new_content_sha256": "cc9e87b9cbfd397b67e452ef7ba01eb3512624f0cfe3b122860f16a1e5530b21",
-    "edit_count": 1,
-    "edits_sha256": "faeef9eb20e9183cbf665974dde5cbe89a81e537b1769ef777583a156cb9d389",
-    "chars_changed": 84,
+    "new_content_sha256": "67452d62f415873732108a3a2f86b827d6ed5a96891a9cf2426faef9e127ede0",
+    "edit_count": 4,
+    "edits_sha256": "5e675bcb87a9021a684e1ea106bd5e583ff0dfd0cf14a1430c9edbe359bccd1d",
+    "chars_changed": 1187,
     "previous_scores": {
       "quality": 100,
       "seo": 100,
@@ -80,11 +80,46 @@
       "seo_min": 70
     },
     "tool": "scripts/factory/revise-published.py",
-    "tool_commit": "3fbc0e45e7924090a6be69d9a69debd52cfcacb1",
+    "tool_commit": "d794f64b01db07ab79ba04374534030a4c6487ca",
     "tool_sha256": "86f44d47bbca6fd0822065a75bc34927bc592326518f0df4fea798c022acca84",
     "scorer_code_sha256": "29894c883d01b7d840f5731884fd62b2a31238391f403aec361a046cc313c10f",
     "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
     "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
-    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at",
+    "history": [
+      {
+        "schema": "revision/1",
+        "kind": "content-revision",
+        "purpose": "price-sync",
+        "reason": "Đồng bộ giá thuê tuần/tháng với _data/pricing.yml (bảng giá chủ xe duyệt)",
+        "approval_ref": "OWNER-MASTER-WORK-2026-10-23: phê duyệt AI chủ động sửa lỗi, tạo PR, kiểm thử, merge khi đạt điều kiện an toàn; sửa bài PUBLISHED qua quy trình bảo trì + chấm lại độc lập (MASTER WORK — NGUYỄN TÚ BLOG SEO FULL REPAIR A–Z, 23/10/2026)",
+        "batch_id": "revise-20261023-price-04",
+        "revised_at": "2026-10-23T08:21:43+00:00",
+        "previous_evidence_sha256": "b9c1a5d8d5319be413cca84de3bb22802a908de7f8b2d302969d4d9e602ba3fc",
+        "previous_content_sha256": "e2589e9eb7894743025d2a2c0460abea8ae81072c53e77671c39118f3ce94ba9",
+        "previous_matrix_row_sha256": "67f8f1dbd6abb03a0c57ebe12c2c615a467d59ed7488cd9a439cc732a9ad3a18",
+        "new_content_sha256": "cc9e87b9cbfd397b67e452ef7ba01eb3512624f0cfe3b122860f16a1e5530b21",
+        "edit_count": 1,
+        "edits_sha256": "faeef9eb20e9183cbf665974dde5cbe89a81e537b1769ef777583a156cb9d389",
+        "chars_changed": 84,
+        "previous_scores": {
+          "quality": 100,
+          "seo": 100,
+          "grade": "EXCELLENT"
+        },
+        "scorer": "operator-qa-deterministic-v1",
+        "thresholds": {
+          "quality_min": 75,
+          "seo_min": 70
+        },
+        "tool": "scripts/factory/revise-published.py",
+        "tool_commit": "3fbc0e45e7924090a6be69d9a69debd52cfcacb1",
+        "tool_sha256": "86f44d47bbca6fd0822065a75bc34927bc592326518f0df4fea798c022acca84",
+        "scorer_code_sha256": "29894c883d01b7d840f5731884fd62b2a31238391f403aec361a046cc313c10f",
+        "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+        "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+        "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+      }
+    ]
   }
 }
