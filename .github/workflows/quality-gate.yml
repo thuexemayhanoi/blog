@@ -135,6 +135,26 @@ jobs:
           done < changed-files.txt
           if [ "$found" = 0 ]; then echo "no re-attestation backup in this change"; fi
 
+      - name: Content-revision backups touched by this change must verify
+        run: |
+          set -eu
+          # Content-revision batches (scripts/factory/revise-published.py) commit their own backup file
+          # (old post + old evidence + recorded edits). Every backup ADDED OR CHANGED by this push/PR must
+          # verify: structure, hashes, provenance, post == old post + recorded edits, front-matter/link/heading
+          # invariants and an independent re-score of each ID. Older backups are not re-checked (the post
+          # may legitimately have been revised again since).
+          found=0
+          while IFS= read -r f; do
+            case "$f" in
+              reports/qa-audit/revise/*.json)
+                [ -f "$f" ] || continue
+                found=1
+                python3 scripts/factory/revise-published.py verify --backup "$f"
+                ;;
+            esac
+          done < changed-files.txt
+          if [ "$found" = 0 ]; then echo "no content-revision backup in this change"; fi
+
       - name: Custom-domain invariants
         run: |
           set -eu
