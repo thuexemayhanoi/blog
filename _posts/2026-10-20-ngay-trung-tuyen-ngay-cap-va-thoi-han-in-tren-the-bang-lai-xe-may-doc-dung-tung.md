@@ -109,7 +109,7 @@ Khi thuê xe ở Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, B
 ## Nguồn tham khảo
 
 - [Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15](https://vanban.chinhphu.vn/?pageid=27160&docid=211194): Điều 57, 62, 89; đọc kèm [văn bản hợp nhất số 55/VBHN-VPQH](https://vanban.chinhphu.vn/?docid=217295&pageid=27160).
-- Mẫu giấy phép lái xe theo Thông tư 12/2025/TT-BCA, chỉ theo tóm tắt; tra văn bản hiện hành tại [cổng văn bản Chính phủ](https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1).
+- Mẫu giấy phép lái xe theo Thông tư 12/2025/TT-BCA (từ 01/7/2026 đã được Thông tư 108/2026/TT-BCA thay thế), chỉ theo tóm tắt; tra văn bản hiện hành tại [cổng văn bản Chính phủ](https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1).
 
 Mẫu thẻ, quy định và thủ tục có thể thay đổi, hãy kiểm tra văn bản mới nhất và hỏi cơ quan cấp giấy phép lái xe khi thông tin trên thẻ khiến bạn băn khoăn.
 
