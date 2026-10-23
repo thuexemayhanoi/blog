@@ -60,6 +60,8 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
   <div class="container">
     {%- comment -%} Đính chính pháp lý cho bài chưa sửa được nội dung gốc: _data/legal-notices.json; không có dữ liệu => không in gì. {%- endcomment -%}
     {% include legal-notice.html %}
+    {%- comment -%} Giá tuần/tháng cũ trong bài chưa sửa được nội dung gốc: _data/price-notices.json; không có dữ liệu => không in gì. {%- endcomment -%}
+    {% include price-notice.html %}
     {% if art_h2_count >= 4 %}
     <nav class="article-toc" aria-label="Mục lục">
       <details open>

@@ -1,0 +1,17 @@
+{%- comment -%}
+Khối "Giá thuê tham khảo hiện hành" cho bài PUBLISHED còn nêu giá tuần/tháng cũ mà chưa sửa được nội dung gốc (evidence QA lệch hash => cần
+reattest do chủ duyệt, hoặc tiêu đề/luận điểm gắn với giá cũ). KHÔNG đổi byte bài, không đổi evidence.
+Dữ liệu: _data/price-notices.json (`posts[<URL bài>]`, sinh bởi scripts/seo/build-price-notices.py). Số liệu lấy NGUYÊN từ _data/pricing.yml
+qua _includes/pricing-rate-table.html — không có con số nào được gõ tay ở đây; giá vẫn là giá tham khảo cần xác nhận trước khi đặt xe.
+Trang không có trong dữ liệu => không in gì. Chi phí O(1)/trang (tra khóa theo page.url).
+{%- endcomment -%}
+{%- assign pn_entry = site.data.price-notices.posts[page.url] -%}
+{%- if pn_entry -%}
+<aside class="price-notice" role="note" aria-labelledby="price-notice-heading">
+  <h2 id="price-notice-heading">Giá thuê tham khảo hiện hành</h2>
+  <p>Bài viết này có thể còn nêu mức giá tuần hoặc giá tháng cũ hơn bảng giá hiện hành. Nếu có chỗ khác với bảng dưới đây, hãy theo bảng này và xác nhận lại với cửa hàng trước khi đặt xe.</p>
+  {% include pricing-rate-table.html category="Xe số" title="Giá thuê xe số hiện hành" %}
+  {% include pricing-rate-table.html category="Xe ga" title="Giá thuê xe ga hiện hành" %}
+  <p><a href="{{ '/bang-gia/' | relative_url }}">Xem bảng giá đầy đủ</a></p>
+</aside>
+{%- endif -%}

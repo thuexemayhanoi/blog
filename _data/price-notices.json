@@ -1,0 +1,1821 @@
+{
+ "_meta": {
+  "schema": "price-notices/1",
+  "posts": 285,
+  "source": "scripts/seo/price_phrases.find_residual trên bài PUBLISHED có evidence; bảng giá lấy từ _data/pricing.yml lúc build",
+  "note": "Sinh bởi scripts/seo/build-price-notices.py — KHÔNG sửa tay. Gỡ bài khỏi danh sách khi nội dung gốc đã được sửa qua revise-published.py."
+ },
+ "posts": {
+  "/an-toan-phap-ly/2026/09/28/phat-nguoi-loi-nao-thuong-gap-voi-xe-may/": {
+   "id": "BLG-00639",
+   "kinds": [
+    "ALT_STALE",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/an-toan-phap-ly/2026/10/16/di-xe-may-len-thac-ban-gioc-va-cac-xa-bien-gioi-cao-bang-giay-to-tuy-than-can-ma/": {
+   "id": "BLG-04604",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/an-toan-phap-ly/2026/10/16/khach-nuoc-ngoai-di-xe-may-len-dong-van-meo-vac-co-can-giay-phep-vao-khu-vuc-bie/": {
+   "id": "BLG-04609",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/an-toan-phap-ly/2026/10/20/chay-xe-om-hoac-giao-hang-bang-xe-may-o-ha-noi-bang-a1-da-du-hay-can-giay-phep-l/": {
+   "id": "BLG-05608",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/an-toan-phap-ly/2026/10/20/co-bang-a1-nhung-nhieu-nam-khong-di-xe-may-bang-con-gia-tri-khong-lay-lai-tay-la/": {
+   "id": "BLG-05622",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/du-lich/2026/10/15/cho-hang-be-buoi-sang-ghe-mua-do-an-sang-do-kho-va-cho-ve-bang-xe-may/": {
+   "id": "BLG-03392",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/du-lich/2026/10/15/cong-vien-ho-dieu-hoa-nhan-chinh-bang-xe-may-loi-vao-gui-xe-va-dao-ho-buoi-chieu/": {
+   "id": "BLG-03971",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/du-lich/2026/10/15/lang-yen-phu-giua-de-va-ho-dinh-lang-ngo-nho-ven-ho-va-cach-xuong-lang-bang-xe-m/": {
+   "id": "BLG-03418",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/du-lich/2026/10/16/giao-hang-trong-pho-co-bang-xe-may-tim-so-nha-ngo-ngach-va-dung-xe-nhanh-ma-khon/": {
+   "id": "BLG-04675",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/du-lich/2026/10/16/sinh-vien-ra-ho-guom-luyen-noi-tieng-anh-voi-khach-nuoc-ngoai-di-xe-may-gio-nao/": {
+   "id": "BLG-04674",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/hoi-dap/2026-09-29-thue-xe-may-o-ha-noi-gia-bao-nhieu-mot-ngay/": {
+   "id": "BLG-00858",
+   "kinds": [
+    "REVIEW"
+   ]
+  },
+  "/hoi-dap/2026-09-29-thue-xe-tuan-co-re-hon-thue-ngay-khong/": {
+   "id": "BLG-00859",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW",
+    "UNBOUND_STALE",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/hoi-dap/2026/09/29/cho-2-nguoi-tren-xe-may-co-bi-phat-khong/": {
+   "id": "BLG-00872",
+   "kinds": [
+    "UNBOUND_STALE"
+   ]
+  },
+  "/hoi-dap/2026/09/29/hai-nguoi-i-du-lich-nen-thue-xe-nao/": {
+   "id": "BLG-00880",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/hoi-dap/2026/09/29/i-xe-khong-mu-bao-hiem-phat-bao-nhieu/": {
+   "id": "BLG-00874",
+   "kinds": [
+    "UNBOUND_STALE"
+   ]
+  },
+  "/hoi-dap/2026/09/29/nam-2026-nen-thue-xe-so-hay-xe-ga/": {
+   "id": "BLG-00877",
+   "kinds": [
+    "MISMATCH",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/hoi-dap/2026/09/29/nu-i-lam-hang-ngay-nen-thue-xe-gi/": {
+   "id": "BLG-00879",
+   "kinds": [
+    "MISMATCH",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/hoi-dap/2026/09/30/nen-thue-vision-hay-air-blade-khi-i-pho/": {
+   "id": "BLG-00966",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/hoi-dap/2026/09/30/thue-xe-may-3-ngay-gia-co-re-hon-khong/": {
+   "id": "BLG-00963",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW"
+   ]
+  },
+  "/hoi-dap/2026/10/04/chi-phi-thue-xe-may-mot-tuan-o-ha-noi-tinh-the-nao/": {
+   "id": "BLG-01351",
+   "kinds": [
+    "MISMATCH",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/hoi-dap/2026/10/04/gia-thue-xe-may-dip-le-30-thang-4-co-khac-ngay-thuong-khong/": {
+   "id": "BLG-01350",
+   "kinds": [
+    "REVIEW",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/hoi-dap/2026/10/11/ban-den-sau-muon-thue-them-mot-xe-khi-minh-dang-thue-lam-the-nao/": {
+   "id": "BLG-02851",
+   "kinds": [
+    "ALT_STALE"
+   ]
+  },
+  "/hoi-dap/2026/10/11/chia-nhau-thue-mot-xe-may-voi-ban-moi-quen-o-hostel-ai-dung-ten/": {
+   "id": "BLG-02852",
+   "kinds": [
+    "ALT_STALE"
+   ]
+  },
+  "/hoi-dap/2026/10/11/chua-biet-ngay-tra-xe-dat-thue-xe-may-o-ha-noi-the-nao-cho-linh-hoat/": {
+   "id": "BLG-02849",
+   "kinds": [
+    "ALT_STALE"
+   ]
+  },
+  "/hoi-dap/2026/10/11/cung-150000-mot-ngay-nen-thue-wave-click-hay-mio/": {
+   "id": "BLG-02370",
+   "kinds": [
+    "ALT_STALE"
+   ]
+  },
+  "/hoi-dap/2026/10/14/bang-gia-ghi-khoang-nhu-800k1tr-mot-tuan-hieu-the-nao-va-hoi-gi/": {
+   "id": "BLG-02840",
+   "kinds": [
+    "ALT_STALE",
+    "MISMATCH",
+    "UNBOUND_STALE",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/hoi-dap/2026/10/14/co-nen-mac-ca-khi-thue-xe-may-o-ha-noi-khong-cach-hoi-gia-lich-su/": {
+   "id": "BLG-02839",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/hoi-dap/2026/10/14/dung-tu-nhan-gia-ngay-de-doan-gia-tuan-va-thang-cach-doc-bang-gia-xe-may/": {
+   "id": "BLG-02846",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/hoi-dap/2026/10/14/gia-luc-nhan-xe-khac-voi-gia-da-nhan-truoc-binh-tinh-xu-ly-the-nao/": {
+   "id": "BLG-02844",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/hoi-dap/2026/10/14/khach-nuoc-ngoai-thue-xe-may-o-ha-noi-co-bi-bao-gia-cao-hon-khong/": {
+   "id": "BLG-02845",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/hoi-dap/2026/10/14/thue-xe-may-5-hoac-6-ngay-hoi-bao-gia-ngay-le-hay-goi-tuan-cho-hop/": {
+   "id": "BLG-02843",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/hoi-dap/2026/10/15/hoi-gia-qua-zalo-facebook-hay-goi-dien-gia-thue-xe-may-co-khac-nhau-theo-kenh-li/": {
+   "id": "BLG-04069",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/hoi-dap/2026/10/16/chi-can-xe-may-tu-thu-hai-den-thu-sau-de-di-lam-tra-xe-cuoi-tuan-hay-giu-nguyen/": {
+   "id": "BLG-04061",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/hoi-dap/2026/10/16/dat-xe-so-roi-muon-doi-sang-xe-ga-truoc-ngay-nhan-nhan-tiem-som-the-nao-de-con-x/": {
+   "id": "BLG-04086",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/hoi-dap/2026/10/16/den-nhan-xe-may-thue-nen-mang-bao-nhieu-tien-tien-thue-tien-coc-va-khoan-de-du-p/": {
+   "id": "BLG-04060",
+   "kinds": [
+    "MISMATCH",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/hoi-dap/2026/10/16/di-xe-may-thue-mot-chieu-sang-tinh-roi-khong-quay-lai-ha-noi-tra-xe-o-noi-khac-d/": {
+   "id": "BLG-04068",
+   "kinds": [
+    "MISMATCH",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/hoi-dap/2026/10/16/gia-xang-tang-thi-gia-thue-xe-may-co-tang-theo-khong-phan-biet-tien-thue-va-tien/": {
+   "id": "BLG-04063",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/hoi-dap/2026/10/16/hoi-gia-thue-xe-may-bang-tieng-anh-daily-rate-weekly-rate-deposit-va-nhung-cau-n/": {
+   "id": "BLG-04065",
+   "kinds": [
+    "UNBOUND_STALE"
+   ]
+  },
+  "/hoi-dap/2026/10/16/moi-den-ha-noi-chua-co-tien-viet-chuan-bi-tra-tien-thue-xe-may-the-nao-cho-suon/": {
+   "id": "BLG-04062",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/hoi-dap/2026/10/16/moi-mua-xe-may-dang-cho-lam-dang-ky-bien-so-thue-xe-tam-vai-ngay-tinh-theo-ngay/": {
+   "id": "BLG-04066",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/hoi-dap/2026/10/16/tien-thue-xe-may-tra-luc-nao-khi-nhan-xe-khi-tra-xe-hay-chia-theo-tung-ky-thue/": {
+   "id": "BLG-04064",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/09/27/bang-gia-thue-xe-may-tai-ha-noi-theo-loai-xe/": {
+   "id": "BLG-00484",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW"
+   ]
+  },
+  "/thue-xe/2026/09/27/cach-dung-may-tinh-gia-thue-xe-may/": {
+   "id": "BLG-00494",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/09/27/cach-oc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that/": {
+   "id": "BLG-00498",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/09/27/cach-so-sanh-bao-gia-thue-xe-giua-cac-cua-hang/": {
+   "id": "BLG-00493",
+   "kinds": [
+    "MISMATCH",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/09/27/chi-phi-thue-xe-thang-so-voi-mua-xe-cu/": {
+   "id": "BLG-00523",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/09/27/du-toan-chi-phi-thue-xe-may-cho-chuyen-3-ngay-2-em/": {
+   "id": "BLG-00496",
+   "kinds": [
+    "MISMATCH",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/09/27/gia-thue-xe-may-dip-le-tet-co-thay-oi-khong/": {
+   "id": "BLG-00495",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW"
+   ]
+  },
+  "/thue-xe/2026/09/27/gia-thue-xe-may-dip-le-tet-thuong-thay-oi-the-nao/": {
+   "id": "BLG-00497",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/": {
+   "id": "BLG-00488",
+   "kinds": [
+    "REVIEW",
+    "UNBOUND_STALE",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/09/27/gia-thue-xe-may-theo-tuan-o-ha-noi/": {
+   "id": "BLG-00487",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW",
+    "UNBOUND_STALE",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/09/27/nhung-yeu-to-lam-gia-thue-xe-may-thay-oi/": {
+   "id": "BLG-00485",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW"
+   ]
+  },
+  "/thue-xe/2026/09/27/so-sanh-gia-thue-xe-so-va-xe-tay-ga/": {
+   "id": "BLG-00489",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au/": {
+   "id": "BLG-00499",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/09/27/thue-theo-tuan-khac-gi-thue-theo-ngay/": {
+   "id": "BLG-00519",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/09/27/thue-xe-may-theo-thang-cho-nguoi-song-va-lam-viec-o-ha-noi/": {
+   "id": "BLG-00522",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/09/27/thue-xe-may-theo-tuan-phu-hop-nhu-cau-nao/": {
+   "id": "BLG-00518",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/09/29/i-san-bay-noi-bai-nen-thue-xe-may-tu-au-va-luc-nao/": {
+   "id": "BLG-00906",
+   "kinds": [
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/09/30/chi-phi-thue-xe-may-cho-khach-quoc-te-o-ha-noi/": {
+   "id": "BLG-00975",
+   "kinds": [
+    "REVIEW"
+   ]
+  },
+  "/thue-xe/2026/09/30/gia-thue-xe-may-cao-cap-khac-xe-pho-thong-the-nao/": {
+   "id": "BLG-00976",
+   "kinds": [
+    "REVIEW"
+   ]
+  },
+  "/thue-xe/2026/09/30/gia-thue-xe-may-dip-tet-o-ha-noi-co-tang-khong/": {
+   "id": "BLG-00943",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/09/30/gia-thue-xe-may-theo-gio-o-ha-noi-khi-nao-ang-chon/": {
+   "id": "BLG-00972",
+   "kinds": [
+    "REVIEW"
+   ]
+  },
+  "/thue-xe/2026/09/30/thanh-toan-khong-tien-mat-khi-thue-xe-may/": {
+   "id": "BLG-00978",
+   "kinds": [
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/09/30/thue-xe-may-theo-thang-cho-shipper-o-ha-noi/": {
+   "id": "BLG-00985",
+   "kinds": [
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/09/30/thue-xe-may-theo-thang-cho-tho-dich-vu-tai-nha/": {
+   "id": "BLG-00986",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/09/30/thue-xe-may-theo-tuan-cho-du-khach-o-lai-ha-noi/": {
+   "id": "BLG-00983",
+   "kinds": [
+    "REVIEW",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/09/30/thue-xe-may-theo-tuan-khi-ve-que-ngan-ngay/": {
+   "id": "BLG-00984",
+   "kinds": [
+    "REVIEW"
+   ]
+  },
+  "/thue-xe/2026/10/11/bao-gia-thue-xe-may-la-mot-khoang-lap-ngan-sach-theo-muc-thap-hay-muc-cao/": {
+   "id": "BLG-02386",
+   "kinds": [
+    "MIXED_RANGE",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/10/11/chia-tien-thue-xe-may-ca-tuan-cho-nhom-ban-ai-tra-gi-ghi-so-the-nao/": {
+   "id": "BLG-02225",
+   "kinds": [
+    "ALT_STALE"
+   ]
+  },
+  "/thue-xe/2026/10/11/i-tinh-khac-hai-ngay-bang-tau-hoac-xe-khach-giua-tuan-thue-xe-may-e-o-au/": {
+   "id": "BLG-02226",
+   "kinds": [
+    "ALT_STALE"
+   ]
+  },
+  "/thue-xe/2026/10/11/i-vang-vai-ngay-giua-ky-thue-giu-xe-hay-tra-roi-thue-lai/": {
+   "id": "BLG-02389",
+   "kinds": [
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/10/11/lam-viec-tu-xa-mot-tuan-o-ha-noi-thue-xe-may-i-quan-ca-phe-va-noi-lam-viec/": {
+   "id": "BLG-02223",
+   "kinds": [
+    "ALT_STALE"
+   ]
+  },
+  "/thue-xe/2026/10/11/moi-thang-chi-can-xe-vai-ngay-thue-ngay-le-hay-thue-tron-thang/": {
+   "id": "BLG-02412",
+   "kinds": [
+    "ALT_STALE",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/11/mot-tuan-thue-xe-co-hai-chuyen-qua-em-chia-lich-giua-ha-noi-va-ngoai-tinh/": {
+   "id": "BLG-02414",
+   "kinds": [
+    "ALT_STALE"
+   ]
+  },
+  "/thue-xe/2026/10/11/ngan-sach-mot-tuan-600000-800000-hay-1-trieu-thue-uoc-dong-xe-nao/": {
+   "id": "BLG-02227",
+   "kinds": [
+    "ALT_STALE",
+    "UNBOUND_STALE",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/11/nguoi-nha-cham-benh-nhan-o-ha-noi-mot-tuan-thue-xe-may-i-giua-vien-va-cho-tro/": {
+   "id": "BLG-02222",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/11/o-ha-noi-hai-en-ba-tuan-thue-theo-tuan-hay-chuyen-sang-goi-thang/": {
+   "id": "BLG-02220",
+   "kinds": [
+    "ALT_STALE",
+    "MISMATCH",
+    "MIXED_RANGE",
+    "REVIEW",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/11/oc-gia-thue-xe-may-bang-tieng-viet-150k-1tr8-mot-tram-ruoi-la-bao-nhieu/": {
+   "id": "BLG-02383",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/11/thue-thu-vision-hoac-air-blade-vai-ngay-truoc-khi-quyet-inh-mua-xe/": {
+   "id": "BLG-02407",
+   "kinds": [
+    "ALT_STALE"
+   ]
+  },
+  "/thue-xe/2026/10/11/thue-xe-may-910-ngay-ghep-mot-tuan-voi-ngay-le-the-nao-cho-gon/": {
+   "id": "BLG-02219",
+   "kinds": [
+    "MISMATCH",
+    "MIXED_RANGE",
+    "REVIEW",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/11/thue-xe-may-cho-sinh-vien-i-hoc-gia-va-ieu-kien/": {
+   "id": "BLG-02110",
+   "kinds": [
+    "ALT_STALE",
+    "MISMATCH",
+    "MIXED_RANGE"
+   ]
+  },
+  "/thue-xe/2026/10/11/thue-xe-may-e-chay-giao-hang-hay-xe-cong-nghe-hoi-ro-muc-ich-su-dung/": {
+   "id": "BLG-02403",
+   "kinds": [
+    "REVIEW"
+   ]
+  },
+  "/thue-xe/2026/10/11/thue-xe-may-mot-ngay-e-thu-xe-truoc-khi-thue-tuan-hoac-thang/": {
+   "id": "BLG-02204",
+   "kinds": [
+    "ALT_STALE",
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/11/thue-xe-may-theo-ngay-tuan-hay-thang-dung-bao-lau-thi-chot-goi-thang/": {
+   "id": "BLG-02416",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/11/vision-air-blade-hay-click-chon-xe-ga-thue-thang-theo-dang-nguoi-quang-uong/": {
+   "id": "BLG-02421",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/11/xe-at-hon-50000-mot-ngay-cong-don-theo-tuan-va-thang-chenh-bao-nhieu/": {
+   "id": "BLG-02384",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/10/14/xe-nha-dang-sua-thue-xe-may-tam-vai-ngay-chon-mau-nao-cho-quen-tay/": {
+   "id": "BLG-02899",
+   "kinds": [
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/bac-si-noi-tru-hoc-vien-chuyen-khoa-luan-khoa-nhieu-benh-vien-thue-xe-may-theo-t/": {
+   "id": "BLG-03684",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/ban-hoa-dip-2010-83-thue-them-xe-may-vai-ngay-cao-diem-giao-hang-tinh-theo-ngay/": {
+   "id": "BLG-03581",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/can-xe-tu-5-6-gio-sang-ma-cua-hang-mo-cua-9-gio-nhan-xe-toi-hom-truoc-thi-tien-t/": {
+   "id": "BLG-04134",
+   "kinds": [
+    "MISMATCH",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/10/15/chay-thu-tuyen-tour-xe-may-moi-quanh-ha-noi-trong-mot-tuan-thue-xe-bam-gio-tung/": {
+   "id": "BLG-03659",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/chi-di-xe-may-vao-cac-cuoi-tuan-trong-thang-thue-le-tung-cuoi-tuan-hay-giu-xe-th/": {
+   "id": "BLG-03566",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/chon-ngay-bat-dau-thue-xe-theo-thang-khop-ky-nhan-luong-gia-han-dung-han-khong-h/": {
+   "id": "BLG-03665",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/chu-can-ho-cho-thue-ngan-ngay-quan-ly-nhieu-can-thue-xe-may-theo-thang-de-don-kh/": {
+   "id": "BLG-04222",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/chuyen-den-ha-noi-xe-may-gui-theo-tau-chua-toi-thue-xe-theo-ngay-trong-may-hom-c/": {
+   "id": "BLG-03626",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/co-xe-may-o-que-nen-gui-len-ha-noi-hay-thue-xe-theo-thang-chi-phi-van-chuyen-gia/": {
+   "id": "BLG-03675",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/cong-nhan-khu-cong-nghiep-thang-long-bac-thang-long-thue-xe-may-theo-thang-di-ca/": {
+   "id": "BLG-03660",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/cong-tac-mot-tuan-o-khu-cong-nghiep-bac-ninh-hung-yen-ma-ngu-o-ha-noi-di-ve-bang/": {
+   "id": "BLG-03642",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW"
+   ]
+  },
+  "/thue-xe/2026/10/15/cong-ty-nho-thue-xe-may-theo-thang-cho-doi-nhan-vien-thi-truong-phan-xe-so-giao/": {
+   "id": "BLG-03663",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/cong-ty-tra-phu-cap-di-lai-hang-thang-khoan-do-du-thue-xe-may-theo-thang-chua-va/": {
+   "id": "BLG-04130",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/cu-dan-vinhomes-ocean-park-trau-quy-thue-xe-may-theo-thang-quang-duong-vao-noi-t/": {
+   "id": "BLG-03666",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/da-ban-xe-truoc-khi-ra-nuoc-ngoai-thue-xe-may-theo-tuan-cho-nhung-ngay-cuoi-o-ha/": {
+   "id": "BLG-03641",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/da-quen-xe-dap-dien-chuyen-sang-thue-xe-may-theo-thang-bang-lai-can-co-va-nhung/": {
+   "id": "BLG-03676",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/dang-mang-thai-van-thue-xe-theo-thang-de-di-lam-chon-xe-de-len-xuong-va-moc-nen/": {
+   "id": "BLG-03668",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/dang-sua-nha-o-tam-noi-khac-vai-thang-thue-xe-may-theo-thang-de-di-lai-giua-cong/": {
+   "id": "BLG-04219",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/dang-thu-viec-hai-thang-o-ha-noi-thue-xe-may-theo-thang-thay-vi-voi-mua-xe-khi-c/": {
+   "id": "BLG-03682",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/dat-xe-roi-nhung-den-nhan-muon-mot-ngay-ngay-cua-hang-giu-xe-co-bi-tinh-tien-thu/": {
+   "id": "BLG-03577",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/den-ha-noi-du-giai-chay-thue-xe-may-ca-tuan-di-nhan-do-thi-xem-truoc-cung-duong/": {
+   "id": "BLG-03639",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/di-hoi-cho-trien-lam-nhieu-ngay-o-trung-tam-trien-lam-quoc-gia-dong-anh-dat-thue/": {
+   "id": "BLG-03602",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/di-lam-bang-xe-may-thue-theo-thang-moi-ngay-di-lam-thuc-te-ton-bao-nhieu-tien-th/": {
+   "id": "BLG-04125",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/di-lam-khu-cong-nghiep-thang-long-bac-thang-long-o-dong-anh-tinh-tien-thue-xe-ma/": {
+   "id": "BLG-03579",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/di-ngay-hoi-viec-lam-phien-giao-dich-viec-lam-o-ha-noi-bang-xe-may-thue-ho-so-gu/": {
+   "id": "BLG-03633",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/di-xem-nha-dat-ven-do-ha-noi-trong-mot-tuan-thue-xe-may-qua-dong-anh-gia-lam-hoa/": {
+   "id": "BLG-03636",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/doi-lich-thue-xe-may-vi-bao-hoac-mua-lon-bao-cua-hang-luc-nao-va-gia-ap-dung-cho/": {
+   "id": "BLG-04135",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/du-hoc-sinh-ve-ha-noi-nghi-he-hai-ba-thang-thue-xe-may-theo-thang-va-lay-lai-nhi/": {
+   "id": "BLG-03677",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/duoc-doi-sang-xe-khac-dong-khi-xe-thue-hong-gia-thue-tinh-theo-xe-cu-hay-xe-moi/": {
+   "id": "BLG-03570",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/gia-han-thue-xe-thang-khi-bang-gia-vua-dieu-chinh-thang-tiep-theo-tinh-gia-cu-ha/": {
+   "id": "BLG-03571",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/goi-tuan-thue-xe-may-tinh-bay-ngay-lien-tuc-nhan-xe-thu-may-thi-tra-thu-may-cho/": {
+   "id": "BLG-03573",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW"
+   ]
+  },
+  "/thue-xe/2026/10/15/hai-nguoi-thay-nhau-lai-mot-xe-may-thue-gia-co-khac-khong-va-can-bao-cua-hang-nh/": {
+   "id": "BLG-03575",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/he-dua-don-con-di-hoc-boi-hoc-them-thue-xe-may-theo-tuan-hay-theo-thang-cho-vua/": {
+   "id": "BLG-03582",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW"
+   ]
+  },
+  "/thue-xe/2026/10/15/hoc-vien-hoc-tieng-cho-di-xuat-khau-lao-dong-o-ha-noi-thue-xe-may-theo-thang-khi/": {
+   "id": "BLG-03672",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/honda-click-va-yamaha-mio-chung-mot-dong-tren-bang-gia-gia-ngay-tuan-thang-ap-du/": {
+   "id": "BLG-03563",
+   "kinds": [
+    "MISMATCH",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/10/15/honda-wave-chi-niem-yet-gia-ngay-150000d-muon-thue-wave-ca-tuan-hoac-ca-thang-th/": {
+   "id": "BLG-03561",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/huong-dan-vien-tu-do-dan-khach-tu-lai-xe-may-thue-theo-tung-ngay-co-tour-hay-giu/": {
+   "id": "BLG-04136",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/kiem-toan-vien-mua-cao-diem-dau-nam-thue-xe-may-theo-thang-de-di-lam-tai-van-pho/": {
+   "id": "BLG-04214",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/lam-thoi-vu-hai-thang-cuoi-nam-o-ha-noi-thue-xe-may-theo-thang-cho-mua-cao-diem/": {
+   "id": "BLG-03661",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/lap-du-toan-tien-thue-xe-may-cho-de-tai-du-an-hay-dot-khao-sat-lay-gia-ngay-tuan/": {
+   "id": "BLG-04131",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/len-ha-noi-hoc-nghe-ngan-han-vai-thang-thue-xe-may-theo-thang-di-hoc-di-thuc-han/": {
+   "id": "BLG-04221",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/len-ha-noi-thi-danh-gia-nang-luc-hoac-danh-gia-tu-duy-dat-thue-xe-may-may-ngay-v/": {
+   "id": "BLG-03600",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/mang-xe-may-tu-que-len-ha-noi-hay-thue-tai-cho-nhung-khoan-can-so-truoc-khi-quye/": {
+   "id": "BLG-03580",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/mot-tuan-di-hoi-dau-xuan-thang-gieng-quanh-ha-noi-chia-ngay-chua-huong-den-soc-h/": {
+   "id": "BLG-03644",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/mot-tuan-di-le-noi-tho-tu-bat-tu-bang-xe-may-thue-tu-ha-noi-den-va-den-soc-den-d/": {
+   "id": "BLG-04195",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/mot-tuan-ra-bien-dong-bac-bang-xe-may-thue-hai-phong-cat-ba-ha-long-cac-chang-ph/": {
+   "id": "BLG-03648",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW"
+   ]
+  },
+  "/thue-xe/2026/10/15/mot-tuan-vong-dong-bac-bang-xe-may-thue-tu-ha-noi-lang-son-cao-bang-ban-gioc-ba/": {
+   "id": "BLG-03647",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW"
+   ]
+  },
+  "/thue-xe/2026/10/15/mot-tuan-vong-dong-bang-bang-xe-may-thue-tu-ha-noi-pho-hien-chua-keo-den-tran-na/": {
+   "id": "BLG-03646",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/mot-tuan-vong-vung-cao-quang-ninh-bang-xe-may-thue-tu-ha-noi-tien-yen-binh-lieu/": {
+   "id": "BLG-04186",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/muon-gui-xe-may-thue-theo-tau-hoa-di-tinh-hoi-cua-hang-su-dong-y-va-giay-dang-ky/": {
+   "id": "BLG-03601",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/muon-thue-dung-mau-hoac-dung-ban-xe-tay-ga-gia-thue-co-khac-bang-gia-chung-khong/": {
+   "id": "BLG-03584",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/muon-xe-may-cua-nguoi-quen-hay-tu-thue-xe-khi-o-ha-noi-vai-ngay-nhung-khoan-can/": {
+   "id": "BLG-04132",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/ngan-sach-thue-xe-ga-theo-thang-tu-1-trieu-den-2-trieu-dong-moi-muc-gia-chon-duo/": {
+   "id": "BLG-03670",
+   "kinds": [
+    "MISMATCH",
+    "UNBOUND_STALE",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/o-bac-tu-liem-mot-tuan-voi-xe-may-thue-pham-van-dong-co-nhue-dong-ngac-va-duong/": {
+   "id": "BLG-04196",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/o-dong-anh-hoac-soc-son-mot-tuan-xe-may-thue-vao-noi-thanh-qua-cau-nhat-tan-cau/": {
+   "id": "BLG-03643",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/o-dong-da-ba-dinh-mot-tuan-voi-xe-may-thue-pho-mot-chieu-nut-o-cho-dua-kim-lien/": {
+   "id": "BLG-04168",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/o-ecopark-hoac-vinhomes-ocean-park-muon-thue-xe-may-sang-long-bien-nhan-xe-va-da/": {
+   "id": "BLG-03598",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/o-ha-dong-thanh-xuan-mot-tuan-voi-xe-may-thue-gio-cao-diem-truc-nguyen-trai-va-g/": {
+   "id": "BLG-04164",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/o-hai-ba-trung-times-city-mot-tuan-voi-xe-may-thue-minh-khai-dai-co-viet-gui-xe/": {
+   "id": "BLG-04167",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/o-hoang-mai-linh-dam-mot-tuan-voi-xe-may-thue-giai-phong-nguyen-huu-tho-vanh-dai/": {
+   "id": "BLG-04166",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/o-ninh-binh-ca-tuan-voi-xe-may-thue-tu-ha-noi-moi-ngay-mot-huong-trang-an-tam-co/": {
+   "id": "BLG-04177",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/o-tay-ho-mot-tuan-voi-xe-may-thue-ngo-xuan-dieu-quang-an-duong-ven-ho-va-loi-vao/": {
+   "id": "BLG-04165",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/o-tay-mo-an-khanh-mot-tuan-voi-xe-may-thue-dai-lo-thang-long-le-trong-tan-va-gio/": {
+   "id": "BLG-04197",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/o-van-dien-ngoc-hoi-di-lam-noi-thanh-theo-truc-giai-phong-bang-xe-thue-thang-gio/": {
+   "id": "BLG-03683",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/o-xuan-mai-chuong-my-mot-tuan-voi-xe-may-thue-quoc-lo-6-nga-tu-xuan-mai-va-duong/": {
+   "id": "BLG-04198",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/ong-ba-tu-que-len-ha-noi-trong-chau-vai-thang-thue-xe-may-theo-thang-de-dua-don/": {
+   "id": "BLG-04137",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/sap-chuyen-nha-den-ha-noi-mot-tuan-thue-xe-may-di-xem-truong-cho-con-va-thu-duon/": {
+   "id": "BLG-03638",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/sinh-vien-di-thuc-dia-mot-tuan-o-ngoai-thanh-ha-noi-thue-xe-may-xep-lich-phong-v/": {
+   "id": "BLG-03635",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/sinh-vien-hoc-vien-nong-nghiep-o-trau-quy-thue-xe-may-hen-nhan-xe-o-long-bien-va/": {
+   "id": "BLG-03603",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/sinh-vien-quoc-te-hoc-trao-doi-mot-hoc-ky-o-ha-noi-thue-xe-may-gui-xe-o-truong-v/": {
+   "id": "BLG-04285",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/sinh-vien-tinh-nguyen-he-mot-tuan-o-ngoai-thanh-ha-noi-thue-xe-may-di-giua-cho-o/": {
+   "id": "BLG-04178",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/song-o-long-bien-lam-o-khu-cong-nghiep-pho-noi-chay-quoc-lo-5-moi-ngay-bang-xe-m/": {
+   "id": "BLG-03673",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/tao-mo-cuoi-nam-bang-xe-may-thue-mot-tuan-di-van-dien-yen-ky-thanh-tuoc-va-cho-d/": {
+   "id": "BLG-03645",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/thang-dau-di-lam-o-ha-noi-chua-nhan-luong-chon-cach-tra-tien-thue-xe-may-theo-tu/": {
+   "id": "BLG-03567",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/thay-hai-bang-gia-thue-xe-may-khac-nhau-tren-mang-kiem-tra-gia-hien-hanh-cua-cua/": {
+   "id": "BLG-03572",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/thien-nguyen-vung-cao-mot-tuan-bang-xe-may-thue-tu-ha-noi-cho-qua-di-theo-doan-v/": {
+   "id": "BLG-04213",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/thue-phong-tro-xa-trung-tam-cho-re-roi-thue-xe-may-theo-thang-cong-tien-xe-vao-b/": {
+   "id": "BLG-04127",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/thue-xe-may-co-san-baga-hoac-thung-cho-hang-hoi-cua-hang-gia-co-khac-va-lap-them/": {
+   "id": "BLG-03578",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/thue-xe-may-khoang-35-den-45-ngay-ghep-goi-thang-voi-goi-tuan-hay-lay-luon-hai-t/": {
+   "id": "BLG-04126",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/thue-xe-may-nhieu-thang-lien-o-ha-noi-tong-tien-3-thang-6-thang-va-mot-nam-theo/": {
+   "id": "BLG-04129",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/thue-xe-may-theo-thang-hay-mua-xe-moi-tra-gop-so-sanh-dong-tien-mot-nam-cho-nguo/": {
+   "id": "BLG-03664",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/tiet-kiem-tien-thue-xe-may-ma-khong-can-khuyen-mai-chon-dung-dong-xe-dung-goi-va/": {
+   "id": "BLG-04133",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/thue-xe/2026/10/15/tim-mat-bang-mo-quan-o-ha-noi-trong-mot-tuan-thue-xe-may-di-xem-pho-quan-sat-kha/": {
+   "id": "BLG-03637",
+   "kinds": [
+    "MISMATCH",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/10/15/tinh-tien-lan-cuoi-khi-tra-xe-may-thue-doi-chieu-so-ngay-goi-gia-va-khoan-da-tra/": {
+   "id": "BLG-03574",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/10/15/tu-tphcm-ra-ha-noi-lam-viec-vai-thang-nhung-khac-biet-khi-di-xe-may-va-cach-chua/": {
+   "id": "BLG-03662",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/vision-va-air-blade-cung-200000d-mot-ngay-vi-sao-gia-tuan-gia-thang-lai-khac-nha/": {
+   "id": "BLG-03562",
+   "kinds": [
+    "MISMATCH",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/10/15/xe-may-nha-vua-bi-mat-trom-thue-xe-theo-tuan-trong-luc-trinh-bao-cho-ket-qua-va/": {
+   "id": "BLG-03640",
+   "kinds": [
+    "MISMATCH",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/10/15/xe-nha-nam-xuong-sua-vai-tuan-sau-va-cham-thue-xe-may-tam-theo-thang-de-di-lam-k/": {
+   "id": "BLG-03669",
+   "kinds": [
+    "MISMATCH",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/thue-xe/2026/10/15/xe-thue-phai-nam-sua-vai-ngay-giua-ky-nhung-ngay-khong-co-xe-duoc-tinh-tien-thue/": {
+   "id": "BLG-03569",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/15/xuong-ben-xe-gia-lam-tu-quang-ninh-hai-phong-nhan-hen-gio-de-nhan-xe-may-thue-ng/": {
+   "id": "BLG-03604",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/bac-si-thu-y-kham-cho-meo-tai-nha-khach-thue-xe-may-theo-thang-cho-hop-dung-cu-v/": {
+   "id": "BLG-05553",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW"
+   ]
+  },
+  "/thue-xe/2026/10/20/can-bo-quan-trac-moi-truong-di-lay-mau-nuoc-khong-khi-ven-song-ven-do-thue-xe-ma/": {
+   "id": "BLG-05548",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/chuyen-gia-nuoc-ngoai-lam-du-an-ba-den-sau-thang-o-ha-noi-thue-xe-may-theo-thang/": {
+   "id": "BLG-05544",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/chuyen-vien-tham-dinh-tai-san-di-thuc-dia-thue-xe-may-theo-thang-de-tim-dia-chi/": {
+   "id": "BLG-05541",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/dien-vien-quan-chung-nguoi-mau-tu-do-di-casting-phim-truong-thue-xe-may-theo-tha/": {
+   "id": "BLG-05547",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/gia-dinh-da-co-o-to-van-thue-them-xe-may-theo-thang-de-di-lam-noi-thanh-khi-nao/": {
+   "id": "BLG-05540",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/ky-thuat-vien-lap-bao-tri-dien-mat-troi-ap-mai-thue-xe-may-theo-thang-chay-nhieu/": {
+   "id": "BLG-05563",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/lam-ca-gay-o-nha-hang-khach-san-ha-noi-thue-xe-may-theo-thang-nghi-giua-ca-o-dau/": {
+   "id": "BLG-05559",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/me-di-lam-lai-sau-nghi-thai-san-o-ha-noi-thue-xe-may-theo-thang-de-kip-gui-con-d/": {
+   "id": "BLG-05539",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/mot-ngay-lam-hai-cong-viec-ca-ngay-van-phong-va-ca-toi-lam-them-thue-xe-may-theo/": {
+   "id": "BLG-05546",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/nguoi-nuoc-ngoai-song-quanh-kim-ma-lieu-giai-dao-tan-thue-xe-may-theo-thang-di-l/": {
+   "id": "BLG-05560",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/nhan-vien-mat-dat-san-bay-noi-bai-o-tro-quanh-soc-son-thue-xe-may-theo-thang-di/": {
+   "id": "BLG-05555",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/nhan-vien-mua-hang-di-lang-nghe-van-phuc-bat-trang-phu-vinh-thue-xe-may-theo-tha/": {
+   "id": "BLG-05549",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/o-ha-dong-di-lam-khu-cong-nghiep-phu-nghia-bang-xe-may-thue-theo-thang-quoc-lo-6/": {
+   "id": "BLG-05561",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/phien-dich-vien-tu-do-theo-hoi-thao-doan-khach-va-nha-may-thue-xe-may-theo-thang/": {
+   "id": "BLG-05543",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/sinh-vien-dai-hoc-fpt-va-cac-truong-o-hoa-lac-thue-xe-may-theo-thang-di-quanh-kh/": {
+   "id": "BLG-05551",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/sinh-vien-dai-hoc-lam-nghiep-o-xuan-mai-thue-xe-may-theo-thang-di-lai-quanh-chuo/": {
+   "id": "BLG-05558",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/sinh-vien-phenikaa-o-yen-nghia-ha-dong-thue-xe-may-theo-thang-tro-quanh-truong-v/": {
+   "id": "BLG-05556",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/sinh-vien-thuy-loi-cong-doan-khu-tay-son-thue-xe-may-theo-thang-tro-khuong-thuon/": {
+   "id": "BLG-05550",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/tan-sinh-vien-thang-dau-nhap-hoc-o-ha-noi-nen-thue-xe-may-theo-thang-ngay-hay-ch/": {
+   "id": "BLG-05557",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/thi-sinh-tu-do-len-ha-noi-on-thi-lai-dai-hoc-co-nen-thue-xe-may-theo-thang-de-di/": {
+   "id": "BLG-05562",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/tinh-nguyen-vien-nha-nghien-cuu-nuoc-ngoai-o-xa-ngoai-thanh-ha-noi-vai-thang-thu/": {
+   "id": "BLG-05554",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/tu-tinh-ve-ha-noi-hoc-lop-boi-duong-tap-trung-hai-ba-thang-thue-xe-may-theo-than/": {
+   "id": "BLG-05552",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/thue-xe/2026/10/20/vua-di-lam-vua-hoc-thac-si-o-ha-noi-thue-xe-may-theo-thang-cho-lich-hoc-buoi-toi/": {
+   "id": "BLG-05542",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW"
+   ]
+  },
+  "/xe-may/2026/09/27/air-blade-i-cap-voi-chuyen-cuoi-tuan/": {
+   "id": "BLG-00598",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/09/27/honda-air-blade-cho-nguoi-thich-chay-khoe/": {
+   "id": "BLG-00597",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/09/27/honda-air-blade-khac-gi-xe-ga-pho-thong/": {
+   "id": "BLG-00596",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/09/27/honda-click-gon-nhe-hop-ai/": {
+   "id": "BLG-00600",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/09/27/honda-click-trong-pho-co-nho-hep/": {
+   "id": "BLG-00601",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/09/27/honda-vision-hop-voi-ai-khi-thue/": {
+   "id": "BLG-00591",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/09/27/honda-vision-voi-nu-gioi-i-lam-hang-ngay/": {
+   "id": "BLG-00593",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/09/27/khoang-o-cua-honda-vision-chua-uoc-gi/": {
+   "id": "BLG-00594",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/09/27/so-sanh-honda-click-va-yamaha-mio-khi-thue/": {
+   "id": "BLG-00602",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/09/27/thue-honda-air-blade-chay-uong-truong-co-ang-khong/": {
+   "id": "BLG-00599",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/09/27/thue-honda-vision-i-lam-noi-o-trai-nghiem-thuc-te/": {
+   "id": "BLG-00595",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/09/29/chi-phi-chay-xe-ien-va-xe-xang-khi-thue-theo-thang/": {
+   "id": "BLG-00942",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/09/29/honda-vision-va-honda-air-blade-thue-dong-nao-phu-hop/": {
+   "id": "BLG-00935",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/09/29/thue-theo-ngay-va-thue-theo-tuan-chi-phi-khac-nhau-the-nao/": {
+   "id": "BLG-00936",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW"
+   ]
+  },
+  "/xe-may/2026/09/29/thue-theo-thang-3-thang-va-1-thang-nen-chon-kieu-nao/": {
+   "id": "BLG-00938",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/09/29/thue-xe-may-va-i-taxiung-dung-chi-phi-i-lai-noi-thanh/": {
+   "id": "BLG-00937",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/09/29/xe-ga-tiet-kiem-xang-khi-i-noi-o-la-dong-nao/": {
+   "id": "BLG-00920",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/02/honda-click-cho-hai-nguoi-i-pho-yen-va-cop/": {
+   "id": "BLG-01097",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/02/thue-air-blade-i-lam-hang-ngay-hop-tay-lai-nao/": {
+   "id": "BLG-01096",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/07/honda-click-thue-cho-hai-nguoi-co-em-khong/": {
+   "id": "BLG-01478",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/07/honda-vision-thue-i-lam-hang-ngay-co-ton-xang-khong/": {
+   "id": "BLG-01477",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/11/air-blade-hay-honda-click-khi-thue-50000-moi-ngay-mua-them-uoc-gi/": {
+   "id": "BLG-02548",
+   "kinds": [
+    "ALT_STALE"
+   ]
+  },
+  "/xe-may/2026/10/11/chay-thu-xe-ga-truoc-khi-mua-bang-honda-vision-thue-mot-tuan-nen-e-y-gi/": {
+   "id": "BLG-02165",
+   "kinds": [
+    "MIXED_RANGE",
+    "REVIEW"
+   ]
+  },
+  "/xe-may/2026/10/11/chon-xe-may-thue-cho-nguoi-hay-cho-o/": {
+   "id": "BLG-02117",
+   "kinds": [
+    "ALT_STALE",
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/11/gia-thue-honda-vision-so-sanh-goi-ngay-tuan-thang-e-chon-cho-ung/": {
+   "id": "BLG-02158",
+   "kinds": [
+    "ALT_STALE",
+    "MIXED_RANGE",
+    "REVIEW",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/xe-may/2026/10/11/honda-wave-150000-hay-air-blade-200000-chenh-50000-oi-lai-gi/": {
+   "id": "BLG-02153",
+   "kinds": [
+    "ALT_STALE",
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/11/honda-wave-hay-vision-khi-thue-i-pho/": {
+   "id": "BLG-02122",
+   "kinds": [
+    "MIXED_RANGE",
+    "REVIEW"
+   ]
+  },
+  "/xe-may/2026/10/11/nhuoc-iem-cua-honda-air-blade-khi-thue-nen-biet-truoc-khi-chon-xe/": {
+   "id": "BLG-02546",
+   "kinds": [
+    "ALT_STALE"
+   ]
+  },
+  "/xe-may/2026/10/11/thue-air-blade-ngay-200000-tuan-800000-hay-thang-1400000-chon-goi-nao/": {
+   "id": "BLG-02547",
+   "kinds": [
+    "ALT_STALE",
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/11/vision-hay-air-blade-cho-nguoi-i-lam-noi-thanh/": {
+   "id": "BLG-02124",
+   "kinds": [
+    "ALT_STALE",
+    "MISMATCH",
+    "MIXED_RANGE",
+    "REVIEW"
+   ]
+  },
+  "/xe-may/2026/10/11/xe-ga-hay-xe-so-ton-xang-hon-khi-i-pho/": {
+   "id": "BLG-02123",
+   "kinds": [
+    "ALT_STALE"
+   ]
+  },
+  "/xe-may/2026/10/11/xe-so-hay-xe-ga-cho-uong-ong-pho/": {
+   "id": "BLG-02118",
+   "kinds": [
+    "ALT_STALE"
+   ]
+  },
+  "/xe-may/2026/10/13/honda-click-hay-vision-khi-thue-hai-xe-ga-nho-khac-nhau-o-diem-nao/": {
+   "id": "BLG-02582",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/13/thue-honda-click-theo-thang-de-di-lam-o-ha-noi-lo-trinh-va-thoi-quen-moi-ngay/": {
+   "id": "BLG-02587",
+   "kinds": [
+    "REVIEW"
+   ]
+  },
+  "/xe-may/2026/10/14/di-hai-nguoi-thue-mot-xe-chung-hay-moi-nguoi-mot-xe/": {
+   "id": "BLG-02955",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/xe-may/2026/10/14/nen-thue-honda-vision-hay-honda-lead-so-sanh-cach-lai-cop-do-va-nguoi-hop-voi-tu/": {
+   "id": "BLG-03271",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/14/o-ha-noi-ba-bon-tuan-noi-goi-thue-tuan-hay-thue-mot-thang/": {
+   "id": "BLG-02953",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/xe-may/2026/10/14/sinh-vien-thue-honda-wave-theo-thang-o-cau-giay-bach-khoa-di-hoc-gui-xe-va-giu-x/": {
+   "id": "BLG-03249",
+   "kinds": [
+    "WAVE_ABSENT"
+   ]
+  },
+  "/xe-may/2026/10/14/thue-honda-air-blade-cho-nguoi-moi-chuyen-den-ha-noi-thang-dau-di-lam-tim-duong/": {
+   "id": "BLG-03312",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/14/thue-honda-vision-hay-air-blade-cho-chuyen-du-lich-ha-noi-chon-theo-lo-trinh-va/": {
+   "id": "BLG-03272",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/14/thue-xe-theo-thang-di-lam-van-phong-vision-hay-air-blade-tien-hon/": {
+   "id": "BLG-02912",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/chay-honda-click-doc-tuyen-brt-kim-ma-lang-ha-le-van-luong-lan-rieng-cho-re-trai/": {
+   "id": "BLG-03944",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/con-vua-co-bang-lai-xe-may-thue-honda-click-vai-ngay-cho-con-tap-ra-pho-ha-noi-t/": {
+   "id": "BLG-03949",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/cong-tac-o-khu-sai-dong-thach-ban-thue-honda-click-o-long-bien-di-lai-giua-xuong/": {
+   "id": "BLG-03942",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/den-eco-tren-dong-ho-honda-click-sang-luc-nao-va-giu-ga-ra-sao-cho-em-khi-chay-p/": {
+   "id": "BLG-03951",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/di-cam-trai-qua-dem-bang-honda-air-blade-thue-xep-leu-tui-ngu-bep-vao-cop-va-yen/": {
+   "id": "BLG-03927",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/di-chua-tam-chuc-bang-honda-air-blade-thue-theo-quoc-lo-1-qua-phu-ly-khong-vao-c/": {
+   "id": "BLG-03925",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/di-den-hung-bang-honda-air-blade-thue-chang-gan-100-km-canh-xang-giua-duong-va-g/": {
+   "id": "BLG-03924",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/di-hai-phong-bang-honda-air-blade-thue-theo-quoc-lo-5-lan-xe-may-xe-container-va/": {
+   "id": "BLG-03922",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/di-hoc-lai-o-to-o-san-tap-ngoai-thanh-bang-honda-click-thue-gio-hoc-som-duong-di/": {
+   "id": "BLG-03953",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/di-kham-suc-khoe-xin-viec-buoi-sang-bang-honda-click-nhin-an-den-som-va-gui-xe-o/": {
+   "id": "BLG-03955",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/di-lam-cung-huong-voi-dong-nghiep-di-nho-xe-moi-ngay-hay-tu-thue-xe-may-theo-tha/": {
+   "id": "BLG-04880",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/xe-may/2026/10/15/di-lam-doc-ho-tung-mau-cau-dien-bang-honda-click-tru-duong-sat-tren-cao-diem-qua/": {
+   "id": "BLG-03954",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/di-lam-qua-truc-xa-dan-dai-co-viet-bang-honda-click-dai-phan-cach-diem-quay-dau/": {
+   "id": "BLG-03945",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/di-lang-co-nom-bang-honda-air-blade-thue-theo-quoc-lo-5-sang-van-lam-gui-xe-dau/": {
+   "id": "BLG-03932",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/di-le-den-ba-chua-kho-thang-gieng-bang-honda-air-blade-thue-gio-tranh-dong-gui-x/": {
+   "id": "BLG-03926",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/di-pho-hien-mua-nhan-long-bang-honda-air-blade-thue-theo-duong-de-song-hong-va-c/": {
+   "id": "BLG-03923",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/di-yen-tu-bang-honda-air-blade-thue-quoc-lo-18-nhieu-xe-tai-diem-nghi-va-gui-xe/": {
+   "id": "BLG-03921",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/dua-con-di-tiem-vac-xin-bang-honda-click-cho-ngoi-cho-tre-do-mang-theo-va-ve-nha/": {
+   "id": "BLG-03956",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/giao-vien-nuoc-ngoai-thue-honda-vision-theo-thang-o-ha-noi-lich-day-toi-chay-giu/": {
+   "id": "BLG-03902",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/ha-noi-di-ha-long-bang-xe-may-thue-honda-wave-hay-air-blade-cho-chang-dai-theo-q/": {
+   "id": "BLG-04891",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/xe-may/2026/10/15/honda-air-blade-125-hay-160-khi-thue-nhin-dau-de-biet-ban-xe-va-lai-khac-nhau-ra/": {
+   "id": "BLG-03912",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/honda-air-blade-len-toc-do-nhanh-hon-ban-nghi-canh-dong-ho-de-khong-vuot-toc-do/": {
+   "id": "BLG-03928",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/honda-click-thai-hay-click-lap-rap-trong-nuoc-nhan-biet-ban-xe-dang-thue-qua-den/": {
+   "id": "BLG-03934",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/honda-click-tren-tam-trinh-linh-nam-gio-xe-tai-ra-vao-giu-khoang-cach-tranh-vet/": {
+   "id": "BLG-03946",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/mot-tuan-du-lich-ha-noi-lay-goi-tuan-honda-click-600000700000d-hay-honda-vision/": {
+   "id": "BLG-04893",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/mot-tuan-voi-honda-vision-o-ha-noi-xen-ngay-pho-co-ngay-ngoai-thanh-gan-va-mot-b/": {
+   "id": "BLG-05077",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/mot-tuan-vua-di-pho-vua-di-deo-giu-mot-xe-ga-suot-chuyen-hay-tra-xe-thue-xe-so-c/": {
+   "id": "BLG-04886",
+   "kinds": [
+    "MISMATCH",
+    "WAVE_ABSENT"
+   ]
+  },
+  "/xe-may/2026/10/15/mua-mua-bao-o-ha-noi-thue-xe-may-tron-goi-tuan-hay-thue-le-tung-ngay-troi-tanh/": {
+   "id": "BLG-04874",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/nhan-biet-phien-ban-honda-vision-dang-thue-chia-co-hay-khoa-thong-minh-doi-cu-ha/": {
+   "id": "BLG-03886",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/nhan-honda-vision-thue-tai-tiem-chup-anh-than-xe-thu-phanh-coi-den-va-ghi-muc-xa/": {
+   "id": "BLG-03888",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/nhan-vien-thi-truong-thue-honda-click-theo-thang-chay-nhieu-dai-ly-mot-ngay-de-h/": {
+   "id": "BLG-03947",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/nhuoc-diem-cua-honda-vision-khi-thue-binh-xang-nho-banh-nho-may-110cc-va-nhung-c/": {
+   "id": "BLG-03889",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/o-ha-noi-2-den-3-tuan-ghep-goi-tuan-honda-click-hay-chuyen-sang-goi-thang-100000/": {
+   "id": "BLG-03940",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW",
+    "UNBOUND_STALE"
+   ]
+  },
+  "/xe-may/2026/10/15/o-ha-noi-4-den-6-ngay-thue-honda-click-theo-ngay-150000d-hay-lay-goi-tuan-600000/": {
+   "id": "BLG-03939",
+   "kinds": [
+    "MISMATCH",
+    "REVIEW"
+   ]
+  },
+  "/xe-may/2026/10/15/quen-chay-xe-o-tphcm-ra-ha-noi-thue-honda-air-blade-pho-mot-chieu-cau-qua-song-h/": {
+   "id": "BLG-03930",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/sinh-vien-quanh-duong-giai-phong-thue-honda-air-blade-theo-thang-di-hoc-gui-xe-t/": {
+   "id": "BLG-03919",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/tho-trang-diem-di-makeup-tan-nha-mua-cuoi-bang-honda-vision-thue-cho-vali-do-ngh/": {
+   "id": "BLG-03904",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/thue-honda-air-blade-theo-thang-nhot-may-ma-phanh-lop-va-day-curoa-can-nhan-tiem/": {
+   "id": "BLG-03929",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/15/yamaha-sirius-di-mai-chau-theo-quoc-lo-6-leo-doc-cun-xuong-deo-thung-khe-va-chia/": {
+   "id": "BLG-05106",
+   "kinds": [
+    "WAVE_ABSENT"
+   ]
+  },
+  "/xe-may/2026/10/15/yamaha-sirius-hay-honda-air-blade-cho-chuyen-deo-ba-ngay-xe-so-giu-so-khi-xuong/": {
+   "id": "BLG-05130",
+   "kinds": [
+    "REVIEW"
+   ]
+  },
+  "/xe-may/2026/10/20/chon-xe-tay-ga-thue-theo-cho-o-nha-ong-co-bac-them-chung-cu-co-ham-doc-xoan-hay/": {
+   "id": "BLG-05657",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/20/dua-nguoi-than-bo-bot-chan-di-tai-kham-bang-xe-tay-ga-len-xuong-xe-dat-chan-bo-b/": {
+   "id": "BLG-05653",
+   "kinds": [
+    "MISMATCH"
+   ]
+  },
+  "/xe-may/2026/10/20/mot-ngay-tu-lai-honda-click-o-ha-noi-het-bao-nhieu-150000d-tien-thue-tien-xang-v/": {
+   "id": "BLG-05704",
+   "kinds": [
+    "REVIEW"
+   ]
+  }
+ }
+}
