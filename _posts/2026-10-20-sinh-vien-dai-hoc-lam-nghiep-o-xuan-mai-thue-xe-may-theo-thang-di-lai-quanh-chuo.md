@@ -83,8 +83,8 @@ Xe buýt đủ dùng nếu bạn trọ sát trường, mỗi tháng chỉ lên H
 
 Với quãng quanh Xuân Mai có đường đất, dốc nhẹ, xe số như Honda Wave dễ kiểm soát. Giá thuê Wave là 150.000 đ/ngày, giá tháng cần hỏi tiệm. Nếu bạn chạy quốc lộ 6 hằng tuần, xe ga cốp rộng thoải mái hơn:
 
-- Honda Click hoặc Yamaha Mio: 1.000.000–1.200.000 đ/tháng.
-- Honda Air Blade: 1.400.000 đ/tháng.
+- Honda Click hoặc Yamaha Mio: 900.000–1.200.000 đ/tháng.
+- Honda Air Blade: 1.500.000 đ/tháng.
 - Honda Vision: 1.800.000–2.000.000 đ/tháng.
 
 Xem chi tiết ở [bảng giá thuê xe](/bang-gia/). Tiền đặt cọc, việc giữ giấy tờ, có kèm mũ bảo hiểm hay không đều xác nhận trực tiếp với cửa hàng khi đặt.

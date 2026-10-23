@@ -42,14 +42,14 @@ Bạn nào trọ quanh Tây Sơn, Khương Thượng có thể xem kinh nghiệm
 
 Thí sinh tự do thuê xe máy thường có ngân sách eo hẹp, nên tính rõ mỗi tháng tốn bao nhiêu. Giá thuê tháng ở tiệm tôi:
 
-- Honda Click hoặc Yamaha Mio: 1.000.000–1.200.000 đ/tháng.
-- Honda Air Blade: 1.400.000 đ/tháng.
+- Honda Click hoặc Yamaha Mio: 900.000–1.200.000 đ/tháng.
+- Honda Air Blade: 1.500.000 đ/tháng.
 - Honda Vision: 1.800.000–2.000.000 đ/tháng.
 - Honda Wave: 150.000 đ/ngày, giá tháng hỏi tiệm.
 
 Cộng thêm tiền xăng, tiền gửi xe ở trung tâm và ở trọ nếu chủ trọ thu. Đặt tổng này cạnh vé tháng xe buýt cộng vài chuyến xe ôm công nghệ lúc cần gấp. Nếu chênh nhiều mà xe máy chỉ tiết kiệm được chút ít thời gian thì đừng thuê. Mức giá đầy đủ có ở [bảng giá thuê xe](/bang-gia/).
 
-Cách tôi hay khuyên: hai tuần đầu đi bộ hoặc đi buýt, ghi lại thời gian thực tế mỗi chiều. Thấy mất quá nhiều thời gian thì thuê theo tuần trước, Click hoặc Mio 600.000–700.000 đ, Air Blade 800.000 đ, Vision 800.000–1.000.000 đ. Quen xe, quen đường rồi mới chuyển sang thuê tháng.
+Cách tôi hay khuyên: hai tuần đầu đi bộ hoặc đi buýt, ghi lại thời gian thực tế mỗi chiều. Thấy mất quá nhiều thời gian thì thuê theo tuần trước, Click hoặc Mio 700.000 đ, Air Blade 1.000.000 đ, Vision 1.000.000 đ. Quen xe, quen đường rồi mới chuyển sang thuê tháng.
 
 ## Giữ thời gian tự học, đừng để xe thành lý do đi chơi
 

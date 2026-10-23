@@ -21,7 +21,7 @@ Khu Kim Mã, Liễu Giai, Đào Tấn và Ngọc Khánh có nhiều căn hộ d�
 
 Nếu văn phòng chỉ cách căn hộ vài trăm mét trong cùng khu Liễu Giai, đi bộ là đủ. Xe máy đáng thuê khi lịch hằng ngày trải ra nhiều nơi: làm ở Cầu Giấy hay Tây Hồ, tối đi ăn ở phố cổ, cuối tuần đi chợ, đưa con đi học thêm. Lúc đó gọi xe công nghệ nhiều lượt mỗi ngày vừa tốn, vừa phải chờ lâu khi trời mưa hoặc giờ tan tầm.
 
-Thuê xe máy theo tháng ở Ba Đình giúp chi phí đi lại cố định. Theo bảng giá hiện tại của tiệm, Honda Vision 1.800.000–2.000.000 đ một tháng, Honda Air Blade 1.400.000 đ, Honda Click hoặc Yamaha Mio 1.000.000–1.200.000 đ. Muốn thử vài tuần trước thì Vision thuê tuần 800.000–1.000.000 đ, Click hoặc Mio 600.000–700.000 đ. Chi tiết có ở trang [bảng giá](/bang-gia/) và [thuê xe máy theo tháng](/thue-xe/thue-thang/).
+Thuê xe máy theo tháng ở Ba Đình giúp chi phí đi lại cố định. Theo bảng giá hiện tại của tiệm, Honda Vision 1.800.000–2.000.000 đ một tháng, Honda Air Blade 1.500.000 đ, Honda Click hoặc Yamaha Mio 900.000–1.200.000 đ. Muốn thử vài tuần trước thì Vision thuê tuần 1.000.000 đ, Click hoặc Mio 700.000 đ. Chi tiết có ở trang [bảng giá](/bang-gia/) và [thuê xe máy theo tháng](/thue-xe/thue-thang/).
 
 ### Chọn xe hợp với khu phố đông
 

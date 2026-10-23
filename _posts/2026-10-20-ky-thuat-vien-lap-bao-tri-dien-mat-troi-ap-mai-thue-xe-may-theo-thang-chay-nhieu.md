@@ -32,7 +32,7 @@ Công trình nhà dân, nhà xưởng ven đô Hà Nội thường rải rác, �
 Người làm nghề này cần chỗ chằng hộp đồ nghề, xe đủ khỏe cho đường ven đô và dễ dắt trong ngõ hẹp.
 
 - **Honda Wave:** xe số, baga sau phẳng, hợp chằng hộp đồ nghề và chạy đường làng gồ ghề. Giá thuê ngày 150.000 đ; giá tháng hỏi cửa hàng để được báo cụ thể.
-- **Honda Air Blade:** cốp rộng, để được túi đồ nghề cỡ vừa, áo mưa và găng tay. Giá tháng khoảng 1.400.000 đ.
+- **Honda Air Blade:** cốp rộng, để được túi đồ nghề cỡ vừa, áo mưa và găng tay. Giá tháng khoảng 1.500.000 đ.
 - **Honda Vision:** nhẹ, yên thấp, hợp người hay vào ngõ chật. Giá tháng khoảng 1.800.000–2.000.000 đ.
 
 So sánh thêm ở [bảng giá](/bang-gia/) trước khi chốt số xe cho cả đội. Muốn gắn thêm giá chở đồ, hãy hỏi cửa hàng trước, đừng tự khoan bắt vào xe thuê.

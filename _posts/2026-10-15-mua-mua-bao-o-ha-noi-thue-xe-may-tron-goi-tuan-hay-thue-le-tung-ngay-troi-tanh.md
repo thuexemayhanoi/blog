@@ -29,11 +29,11 @@ Mùa mưa bão ở Hà Nội thường kéo qua các tháng hè sang đầu thu.
 
 Bảng giá niêm yết của cửa hàng cho các dòng xe phổ biến như sau:
 
-- Honda Air Blade: ngày 200.000 đồng, tuần 800.000 đồng.
+- Honda Air Blade: ngày 200.000 đồng, tuần 1.000.000 đồng.
 
-- Honda Vision: ngày 200.000 đồng, tuần từ 800.000 đến 1.000.000 đồng.
+- Honda Vision: ngày 200.000 đồng, tuần 1.000.000 đồng.
 
-- Honda Click và Yamaha Mio: ngày 150.000 đồng, tuần từ 600.000 đến 700.000 đồng.
+- Honda Click và Yamaha Mio: ngày 150.000 đồng, tuần 700.000 đồng.
 
 - Honda Wave: ngày 150.000 đồng, tuần hãy liên hệ.
 

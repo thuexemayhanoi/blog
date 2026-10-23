@@ -66,7 +66,7 @@ Gia đình đã có ô tô nên chỉ so phần chi phí phát sinh từ việc 
 | Đỗ khi đi công việc | Phí đỗ từng lần, có khi phải đi xa | Gửi xe gần điểm đến |
 | Thời gian | Bấm giờ thực tế | Bấm giờ thực tế |
 
-Giá thuê tháng tham khảo ở tiệm tôi: Honda Click hoặc Yamaha Mio 1.000.000–1.200.000 đ, Honda Air Blade 1.400.000 đ, Honda Vision 1.800.000–2.000.000 đ. Chi tiết từng dòng có ở trang [bảng giá thuê xe](/bang-gia/).
+Giá thuê tháng tham khảo ở tiệm tôi: Honda Click hoặc Yamaha Mio 900.000–1.200.000 đ, Honda Air Blade 1.500.000 đ, Honda Vision 1.800.000–2.000.000 đ. Chi tiết từng dòng có ở trang [bảng giá thuê xe](/bang-gia/).
 
 Sau đó tính theo công thức: phần tiết kiệm bằng tiền xăng, gửi xe và đỗ xe của ô tô trong tháng, trừ đi tiền thuê, xăng và vé gửi của xe máy. Lấy số liệu từ hóa đơn và tin nhắn thanh toán của chính nhà bạn, đừng ước đoán.
 

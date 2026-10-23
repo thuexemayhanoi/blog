@@ -42,7 +42,7 @@ Nếu bạn ở ký túc xá, lịch học gói trong khuôn viên và cả thá
 
 ### So chi phí trước khi quyết định
 
-Giá thuê tháng tại cửa hàng: Honda Click hoặc Yamaha Mio 1.000.000–1.200.000 đ, Honda Air Blade 1.400.000 đ, Honda Vision 1.800.000–2.000.000 đ. Honda Wave thuê ngày 150.000 đ, giá tháng hãy hỏi trực tiếp. Chi tiết có ở [bảng giá thuê xe](/bang-gia/).
+Giá thuê tháng tại cửa hàng: Honda Click hoặc Yamaha Mio 900.000–1.200.000 đ, Honda Air Blade 1.500.000 đ, Honda Vision 1.800.000–2.000.000 đ. Honda Wave thuê ngày 150.000 đ, giá tháng hãy hỏi trực tiếp. Chi tiết có ở [bảng giá thuê xe](/bang-gia/).
 
 Cách tính đơn giản: ghi lại các chuyến xe buýt, xe ôm công nghệ trong hai tuần, nhân đôi lên, rồi so với tiền thuê một tháng cộng tiền xăng. Nếu hai con số sát nhau, việc chủ động giờ giấc thường đủ lý do để thuê.
 

@@ -21,7 +21,7 @@ Làm ca gãy đi xe máy là chuyện hằng ngày của nhiều nhân viên ph�
 
 Lịch ca gãy rất khó khớp với xe buýt. Chặng quay lại làm lúc bốn rưỡi chiều trùng giờ tan tầm, còn chặng về sau mười giờ đêm thì nhiều tuyến đã thưa chuyến. Gọi xe công nghệ đủ bốn lượt mỗi ngày thì tiền đi lại có thể ăn mất một phần đáng kể tiền lương.
 
-Thuê xe theo tháng cho bạn một chiếc xe để ngay chỗ mình ở, đi giờ nào cũng được, chi phí biết trước. Theo bảng giá hiện tại của tiệm, Honda Click hoặc Yamaha Mio khoảng 1.000.000–1.200.000 đ một tháng, Honda Air Blade 1.400.000 đ, Honda Vision 1.800.000–2.000.000 đ. Giá từng mẫu có ở trang [bảng giá](/bang-gia/), điều kiện thuê dài ngày xem ở trang [thuê xe máy theo tháng](/thue-xe/thue-thang/).
+Thuê xe theo tháng cho bạn một chiếc xe để ngay chỗ mình ở, đi giờ nào cũng được, chi phí biết trước. Theo bảng giá hiện tại của tiệm, Honda Click hoặc Yamaha Mio khoảng 900.000–1.200.000 đ một tháng, Honda Air Blade 1.500.000 đ, Honda Vision 1.800.000–2.000.000 đ. Giá từng mẫu có ở trang [bảng giá](/bang-gia/), điều kiện thuê dài ngày xem ở trang [thuê xe máy theo tháng](/thue-xe/thue-thang/).
 
 ### Chọn xe cho người làm ngành dịch vụ
 

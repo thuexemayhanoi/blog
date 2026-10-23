@@ -39,7 +39,7 @@ Cách chia dễ theo nhất là nhẹ trước, dài giữa tuần, nhẹ sau:
 
 Hai ngày đầu đi ngắn và chậm, giúp tay quen xe tay ga trước khi ra quãng dài. Buổi kiểm tra nằm giữa tuần, lúc còn đủ thời gian báo tiệm nếu thấy điều bất thường, thay vì phát hiện ra vào ngày trả xe.
 
-Về tiền, theo bảng giá đã duyệt của tiệm, Honda Vision thuê tuần trong khoảng 800.000–1.000.000 đồng. Đó là một khoảng, không phải con số cố định: cách tính tuần hay ngày cho xe cụ thể cần xác nhận trực tiếp qua số 0942467674. Tiền xăng và tiền gửi xe là khoản riêng nên bài không cộng thành tổng.
+Về tiền, theo bảng giá đã duyệt của tiệm, Honda Vision thuê tuần 1.000.000 đồng. Đây là mức tham khảo: cách tính tuần hay ngày cho xe cụ thể cần xác nhận trực tiếp qua số 0942467674. Tiền xăng và tiền gửi xe là khoản riêng nên bài không cộng thành tổng.
 
 ## Ngày nhận xe: hỏi tiệm và làm quen với Vision
 

@@ -41,9 +41,9 @@ Cách thỏa thuận với chủ nhà khi cổng khóa theo giờ có trong bài
 Quãng đường thường không dài nhưng bạn đi gần như mỗi ngày, có hôm hai lượt nếu làm ca gãy. Ưu tiên xe bền, đèn sáng tốt, dễ dắt trong ngõ.
 
 - **Honda Wave** (150.000 đ/ngày): nhẹ, bền, hợp người quen xe số và đường làng nhiều ổ gà.
-- **Honda Click, Yamaha Mio**: gói tháng khoảng 1.000.000–1.200.000 đ, gọn, có cốp đựng áo mưa và đồng phục dự phòng.
+- **Honda Click, Yamaha Mio**: gói tháng khoảng 900.000–1.200.000 đ, gọn, có cốp đựng áo mưa và đồng phục dự phòng.
 - **Honda Vision**: gói tháng 1.800.000–2.000.000 đ, yên thấp, dễ lái cho người mới chạy xe ga.
-- **Honda Air Blade**: gói tháng 1.400.000 đ, thân xe chắc, hợp người cuối tuần hay về nội thành.
+- **Honda Air Blade**: gói tháng 1.500.000 đ, thân xe chắc, hợp người cuối tuần hay về nội thành.
 
 Giá từng dòng xe có ở trang [bảng giá thuê xe](/bang-gia/). Điểm riêng của người làm sân bay: nếu đơn vị yêu cầu đăng ký biển số để vào bãi xe nhân viên, hãy báo tiệm từ đầu rằng bạn cần giữ nguyên một chiếc cả tháng. Đổi xe giữa chừng là đổi biển số, phải khai báo lại với bộ phận quản lý bãi trước ca kế tiếp.
 

@@ -47,8 +47,8 @@ Nếu gửi con gần nhà ông bà hay gần chỗ làm của bố, mỗi sáng
 
 Sau sinh, nhiều mẹ chưa lấy lại sức tay và lưng như trước. Xe giai đoạn này nên nhẹ, yên vừa tầm để chống chân vững khi chở con, và có chỗ để túi đồ của bé. Giá thuê tháng tham khảo ở tiệm tôi:
 
-- Honda Click hoặc Yamaha Mio: 1.000.000–1.200.000 đ một tháng, gọn nhẹ, dễ dắt vào ngõ và quay đầu trước cổng nhà trẻ.
-- Honda Air Blade: 1.400.000 đ một tháng, máy khỏe, cốp rộng, hợp mẹ phải qua cầu mỗi ngày, nhưng nặng tay hơn khi dắt.
+- Honda Click hoặc Yamaha Mio: 900.000–1.200.000 đ một tháng, gọn nhẹ, dễ dắt vào ngõ và quay đầu trước cổng nhà trẻ.
+- Honda Air Blade: 1.500.000 đ một tháng, máy khỏe, cốp rộng, hợp mẹ phải qua cầu mỗi ngày, nhưng nặng tay hơn khi dắt.
 - Honda Vision: 1.800.000–2.000.000 đ một tháng, dáng gọn, dễ điều khiển.
 
 Giá các dòng xe có ở trang [bảng giá thuê xe](/bang-gia/). Lúc nhận xe, mẹ nên tự dắt thử vài mét và dựng chân chống giữa một lần. Thấy nặng tay hay chân với không tới đất thì đổi dòng xe ngay tại tiệm.

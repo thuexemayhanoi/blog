@@ -33,9 +33,9 @@ Một cách tính nhanh: ghi lại các chuyến gọi xe trong tuần đầu, n
 
 Khóa tập trung hai, ba tháng rất hợp với hình thức thuê tháng rồi gia hạn. Giá đã duyệt tại cửa hàng:
 
-- Honda Click hoặc Yamaha Mio: tuần 600.000–700.000 đ, tháng 1.000.000–1.200.000 đ.
-- Honda Air Blade: tuần 800.000 đ, tháng 1.400.000 đ.
-- Honda Vision: tuần 800.000–1.000.000 đ, tháng 1.800.000–2.000.000 đ.
+- Honda Click hoặc Yamaha Mio: tuần 700.000 đ, tháng 900.000–1.200.000 đ.
+- Honda Air Blade: tuần 1.000.000 đ, tháng 1.500.000 đ.
+- Honda Vision: tuần 1.000.000 đ, tháng 1.800.000–2.000.000 đ.
 - Honda Wave: ngày 150.000 đ, giá tuần, tháng hỏi trực tiếp.
 
 Xem đầy đủ ở [bảng giá thuê xe](/bang-gia/). Khi đặt, hãy đưa lịch khóa học cho cửa hàng xem và hỏi rõ:

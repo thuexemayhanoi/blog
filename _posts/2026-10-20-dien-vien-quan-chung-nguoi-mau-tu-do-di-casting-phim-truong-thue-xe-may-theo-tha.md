@@ -32,8 +32,8 @@ Lịch của người làm quần chúng, làm mẫu tự do không đều. Có 
 Người đi quay cần xe dễ dắt, có chỗ cất đồ và đèn đủ sáng cho chặng về tối:
 
 - **Honda Vision:** nhẹ, yên thấp, hợp bạn nữ dáng nhỏ. Giá thuê tháng khoảng 1.800.000–2.000.000 đ.
-- **Honda Air Blade:** cốp rộng, vừa túi trang phục gấp gọn và đôi giày diễn, đèn pha sáng. Giá tháng khoảng 1.400.000 đ.
-- **Honda Click hoặc Yamaha Mio:** gọn, linh hoạt trong phố, giá tháng khoảng 1.000.000–1.200.000 đ.
+- **Honda Air Blade:** cốp rộng, vừa túi trang phục gấp gọn và đôi giày diễn, đèn pha sáng. Giá tháng khoảng 1.500.000 đ.
+- **Honda Click hoặc Yamaha Mio:** gọn, linh hoạt trong phố, giá tháng khoảng 900.000–1.200.000 đ.
 
 Giá có thể cập nhật theo thời điểm, bạn xem lại ở [bảng giá](/bang-gia/) trước khi đặt. Khi nhận xe, thử đèn pha, đèn hậu, xi nhan, còi và phanh, vì nhiều chặng của bạn diễn ra lúc trời chưa sáng.
 

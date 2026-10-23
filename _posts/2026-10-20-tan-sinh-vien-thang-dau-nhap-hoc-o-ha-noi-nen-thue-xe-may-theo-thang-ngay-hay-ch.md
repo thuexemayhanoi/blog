@@ -80,7 +80,7 @@ Với bạn còn phân vân, tôi hay khuyên làm theo ba bước:
 2. **Đi thử đúng giờ học.** Đường cuối tuần thoáng hơn nhiều, nên nếu được hãy chạy thử cả một buổi sáng ngày thường.
 3. **Chốt thuê tháng khi lịch đã ổn định.** Thường là sau hai đến bốn tuần nhập học.
 
-Về giá tháng đã niêm yết: Honda Click hoặc Yamaha Mio 1.000.000–1.200.000 đ/tháng, Honda Air Blade 1.400.000 đ/tháng, Honda Vision 1.800.000–2.000.000 đ/tháng. Bạn có thể xem thêm ở [bảng giá thuê xe](/bang-gia/) trước khi hỏi xe còn trống. Tiền đặt cọc, việc có giữ giấy tờ hay không, có kèm mũ bảo hiểm hay không đều cần xác nhận trực tiếp với cửa hàng khi đặt xe.
+Về giá tháng đã niêm yết: Honda Click hoặc Yamaha Mio 900.000–1.200.000 đ/tháng, Honda Air Blade 1.500.000 đ/tháng, Honda Vision 1.800.000–2.000.000 đ/tháng. Bạn có thể xem thêm ở [bảng giá thuê xe](/bang-gia/) trước khi hỏi xe còn trống. Tiền đặt cọc, việc có giữ giấy tờ hay không, có kèm mũ bảo hiểm hay không đều cần xác nhận trực tiếp với cửa hàng khi đặt xe.
 
 Nếu muốn đặt, bạn có thể ghé Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, hoặc gọi 0942 467 674. Muốn giao xe tận nơi thì cần hỏi trước thời gian và chi phí, cửa hàng không giao ngoài giờ mở cửa.
 
