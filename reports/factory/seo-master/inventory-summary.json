@@ -10,17 +10,17 @@
       "BLOCKED_URL_CONTRACT": 1390,
       "DEFERRED_OWNER_PLAN": 77,
       "EXPECTED": 1,
-      "NONE": 5012,
-      "OPEN": 363
+      "NONE": 5011,
+      "OPEN": 364
     },
     "fix_priority": {
       "P2": 1448,
-      "P3": 382,
-      "P4": 5013
+      "P3": 383,
+      "P4": 5012
     },
     "needs_action": {
       "CANNIBALIZATION_SUPPORT": 58,
-      "FRESHNESS_REVIEW": 385,
+      "FRESHNESS_REVIEW": 386,
       "NEAR_TITLE_PAIR": 64,
       "NOINDEX_INTENTIONAL": 1,
       "SLUG_D_STRIPPED": 1410
@@ -38,9 +38,9 @@
       "TOPIC_POST": 5767
     },
     "staleness_risk": {
-      "HIGH": 385,
+      "HIGH": 386,
       "LOW": 3127,
-      "MEDIUM": 2564
+      "MEDIUM": 2563
     }
   },
   "generated_by": "scripts/seo/build-inventory.py",

@@ -65,3 +65,20 @@ workflow writer/publisher. Ghi ở `fix-log.csv` mục SEO-104.
 | Test mới | test_revise_published 17, test_price_phrases 19, test_legal_notices 6, test_topic_links 11, test_price_notices 9 |
 
 Đã cập nhật so với đợt 1: mục "Kiểm tra đỏ sẵn trên `main`" của đợt 1 không còn đúng (SEO-104 → DONE).
+
+
+---
+
+# QA — đợt 3 (2026-10-23)
+
+| Kiểm tra | Kết quả |
+|---|---|
+| `revise-published.py plan` lô legal-02 | 10/10 ELIGIBLE sau khi thu hẹp 3 bản vá (2 bài vượt 20% thay đổi, 1 bài tụt `word_count`; không nới ngưỡng); lô legal-04: 3/3 ELIGIBLE sau khi thu hẹp 2 bản vá (1 tụt `word_count`, 1 vượt 20%) |
+| `revise-published.py verify --backup` | OK cho legal-02 (10 bài), legal-03 (BLG-05045), legal-04 (3 bài lệ phí) và deposit-02 (3 bài hoàn cọc), 0 vấn đề |
+| `validate.py --scope chunk` | PASS, 0 cảnh báo trên từng nhánh |
+| Test mới | test_cannibalization_leads 9 (đăng ký trong run-tests.py) |
+| Quality gate / engine-tests | xanh ở mọi PR có gate (bảng ở `deployment-verification.md`) |
+| `build-topic-links.py --check`, `build-price-notices.py --check` | OK |
+| Jekyll build đầy đủ, cây trùng main 067bbdd2 | BUILD_EXIT=0, 662 s; 6.844 trang HTML; `check-built-links.py` PASS (0 liên kết nội bộ hỏng); `faq_parity_check.py`: 6.844 trang, 2 trang có FAQ, 0 lỗi; `check-regressions.py` PASS 9/9; sitemap 6.842 URL duy nhất |
+| Kiểm kê lại từ bản build đó | `build-inventory` → `build-matrix` → `build-leads` → `enrich-inventory`: chỉ `url-inventory.csv` (42 hàng) và `inventory-summary.json` đổi; `_data/seo-leads.yml`, `_data/seo-topic-links.json`, `cannibalization-classification.csv` không đổi; BLG-05973 vào diện FRESHNESS_REVIEW vì có chính sách hết hạn 28/02/2027 (đúng chủ ý) |
+| Đối chiếu pháp luật | 120 văn bản (legal-verification.json): 104 khớp, 16 có claim lệch; 33 bài: 12 sửa gốc, 19 khối đính chính, 2 chờ chủ duyệt |
