@@ -10,7 +10,9 @@ Khối này hiển thị bảng giá hiện hành ở đầu bài để người
 ## Cách hoạt động
 - Dữ liệu: `_data/price-notices.json` (`posts[<URL bài>]` → `id`, `kinds` = loại tồn dư). Sinh bởi `scripts/seo/build-price-notices.py`
   (`python3 scripts/seo/build-price-notices.py --report`; `--check` đối chiếu): bài PUBLISHED có evidence mà `price_phrases.find_residual` còn báo giá cũ.
-  `EXCLUDE` là các bài đã đọc tay là dương tính giả.
+  `EXCLUDE` là các bài đã đọc tay là dương tính giả (số không phải giá thuê, hoặc câu chỉ còn là phép tính đúng từ giá ngày/giá hiện hành, ví dụ
+  "bảy ngày là 1,4 triệu" = 7 × 200.000đ). `check-price-consistency.py` ghi cột `disposition` cho bài factory: `NOTICE_LAYER` (bài có khối này) hoặc
+  `REVIEWED_FALSE_POSITIVE` (bài trong `EXCLUDE`); cụm không có nhãn là việc còn phải xử lý.
 - Template: `_includes/price-notice.html`, gọi từ `_layouts/post.html` trước mục lục. Số liệu lấy **nguyên** từ `_data/pricing.yml` qua
   `_includes/pricing-rate-table.html` (không gõ tay số tiền); trang không có trong dữ liệu thì không in gì; tra khóa O(1) theo `page.url`.
 - Kiểm thử: `scripts/factory/tests/test_price_notices.py` (khóa là URL thật của bài PUBLISHED có evidence, `id` khớp matrix, không đặt cho bài đang

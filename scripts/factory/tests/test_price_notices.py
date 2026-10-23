@@ -8,6 +8,7 @@ nội dung gốc; không đổi byte bài nên không đụng evidence.
 
   P1  Dữ liệu: mỗi khóa là URL thật của đúng một bài PUBLISHED có evidence QA, `id` khớp matrix, không bài đang có lease/draft.
   P2  Bộ sinh: bài còn tồn dư giá cũ vào danh sách; bài sạch thì không; bài trong EXCLUDE bị loại; idempotent.
+  P2b check-price-consistency.py: cột disposition khớp _data/price-notices.json và EXCLUDE; mọi mã EXCLUDE là bài PUBLISHED thật.
   P3  Template: include đúng một lần trong layout post, đứng TRƯỚC mục lục; tra khóa theo page.url; số liệu chỉ qua pricing-rate-table
       (không gõ số tiền trong include); không quét site.posts.
 
@@ -109,6 +110,24 @@ class TestBuilder(unittest.TestCase):
         self.assertTrue(bpn.EXCLUDE)
         posts = [("BLG-1", "PUBLISHED", "Honda Click thuê tuần 600.000 đ.", True)]
         self.assertEqual(bpn.render(self.run_builder(posts)), bpn.render(self.run_builder(posts)))
+
+
+class TestConsistencyReport(unittest.TestCase):
+    """check-price-consistency.py gắn `disposition` theo đúng dữ liệu khối giá và danh sách dương tính giả."""
+
+    def test_dispositions_match_data_and_exclude(self):
+        spec = importlib.util.spec_from_file_location("check_price_consistency", ROOT / "scripts" / "seo" / "check-price-consistency.py")
+        cpc = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(cpc)
+        notices, reviewed = cpc.dispositions()
+        self.assertEqual(notices, {v["id"] for v in json.loads(read("_data/price-notices.json"))["posts"].values()})
+        self.assertEqual(reviewed, set(bpn.EXCLUDE))
+        self.assertFalse(notices & reviewed)
+
+    def test_every_excluded_id_is_a_published_post(self):
+        with (ROOT / "data" / "content-matrix.csv").open(encoding="utf-8", newline="") as fh:
+            published = {r["id"] for r in csv.DictReader(fh) if r["status"] == "PUBLISHED"}
+        self.assertLessEqual(set(bpn.EXCLUDE), published)
 
 
 class TestTemplate(unittest.TestCase):

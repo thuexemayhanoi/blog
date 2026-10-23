@@ -28,7 +28,10 @@ OUT = ROOT / "_data" / "price-notices.json"
 SCHEMA = "price-notices/1"
 # Dương tính giả đã đọc: số 0,8–0,9 là hệ số bám của lốp (BLG-04794); "400–600 nghìn" là mức phạt không đội mũ bảo hiểm (BLG-00634);
 # "7 ngày = 1.400.000đ" của BLG-02389 là phép nhân giá ngày (đúng), không phải giá tuần cũ.
-EXCLUDE = {"BLG-04794", "BLG-00634", "BLG-02389"}
+# Sau lô sửa giá (revise-published) bốn bài sau chỉ còn câu tính ĐÚNG từ giá hiện hành (đã đọc tay từng câu): BLG-02158 ("bảy ngày là 1,4 triệu" = 7 × 200.000đ),
+# BLG-02383 ("dòng tay ga lớn hơn tầm 1.000.000 đồng" = giá tuần Vision/Air Blade), BLG-02384 ("khoảng cách 600.000–1.100.000 đ" = chênh giá tháng
+# nhóm xe số và Vision), BLG-03582 ("hai tuần Click hay Mio là 1,4 triệu" = 2 × 700.000đ).
+EXCLUDE = {"BLG-04794", "BLG-00634", "BLG-02389", "BLG-02158", "BLG-02383", "BLG-02384", "BLG-03582"}
 
 
 def post_url(row: dict, text: str) -> str:
