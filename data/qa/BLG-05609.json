@@ -34,7 +34,7 @@
     "legal_source": true,
     "legal_disclaimer": true
   },
-  "word_count": 1390,
+  "word_count": 1487,
   "word_target": 1300,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -49,9 +49,42 @@
   "legal": "PASS",
   "critical_failure": false,
   "source_path": "_posts/2026-10-20-doi-cap-lai-bang-lai-xe-may-mat-nhung-khoan-phi-nao-le-phi-theo-bieu-phi-hien-ha.md",
-  "content_sha256": "01fb090510904c548f817cc36ffdeea9f9f1d6306ee8a22d97c0de2c6eef712b",
+  "content_sha256": "d1bdebf335df9346dd700d93d71af99240db23a333944a4c4d1617f8dca07953",
   "matrix_row_sha256": "86ba24b73e96831e5188ea200aac0cf8a693b95f5d2aabdc181e8016a9aea37c",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-20T10:31:04+00:00"
+  "published_at": "2026-10-20T10:31:04+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "content-revision",
+    "purpose": "legal-freshness-04-2026-10-23",
+    "reason": "Bổ sung chính sách miễn/giảm lệ phí có thời hạn (15/8/2026 đến hết 28/02/2027) theo toàn văn Thông tư 117/2026/TT-BTC ngày 14/8/2026 (Báo điện tử Chính phủ) thực hiện Nghị quyết 66.22/2026/NQ-CP ngày 09/7/2026 (Công báo số 430 ngày 23/7/2026), đối chiếu 23/10/2026",
+    "approval_ref": "OWNER-MASTER-WORK-2026-10-23: tin nhắn MASTER WORK — CONTINUE SEO /BLOG NGUYỄN TÚ (23/10/2026) — chủ xe phê duyệt trước việc sửa lỗi SEO an toàn, tạo PR và merge khi CI/QA/quy tắc repository đạt, \"không cần hỏi lại từng bài/PR thông thường\"; sửa bài đã PUBLISHED qua quy trình bảo trì với bằng chứng QA hợp lệ; lô legal-freshness-04 revise-20261023-legal-04",
+    "batch_id": "revise-20261023-legal-04",
+    "revised_at": "2026-10-23T13:14:19+00:00",
+    "previous_evidence_sha256": "c42eb68f1bb97788854f862893d88338730c8e70416d682e9175446569c1790a",
+    "previous_content_sha256": "01fb090510904c548f817cc36ffdeea9f9f1d6306ee8a22d97c0de2c6eef712b",
+    "previous_matrix_row_sha256": "86ba24b73e96831e5188ea200aac0cf8a693b95f5d2aabdc181e8016a9aea37c",
+    "new_content_sha256": "d1bdebf335df9346dd700d93d71af99240db23a333944a4c4d1617f8dca07953",
+    "edit_count": 2,
+    "edits_sha256": "cf01cae40337f21c4244420f4536c7e5d34f3b39fc5ab7d51ac26f75b78fc82e",
+    "chars_changed": 719,
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/revise-published.py",
+    "tool_commit": "e5e4c54266b54ffefa24eb8d122ed0a22f9de1ac",
+    "tool_sha256": "86f44d47bbca6fd0822065a75bc34927bc592326518f0df4fea798c022acca84",
+    "scorer_code_sha256": "29894c883d01b7d840f5731884fd62b2a31238391f403aec361a046cc313c10f",
+    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+  }
 }

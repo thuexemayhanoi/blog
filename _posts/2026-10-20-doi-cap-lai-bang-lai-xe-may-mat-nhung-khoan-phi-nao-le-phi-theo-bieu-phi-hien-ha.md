@@ -3,7 +3,7 @@ date: 2026-10-20 09:00:00 +0700
 layout: post
 title: "Đổi, cấp lại bằng lái xe máy mất những khoản phí nào: lệ phí theo biểu phí hiện hành và cách nộp trực tuyến"
 author: "Nguyễn Tú"
-description: "Lệ phí đổi bằng lái xe máy và cấp lại bằng theo Thông tư 154/2025/TT-BTC áp dụng từ 2026: mức thu tính theo lần, cách nộp trực tuyến, khoản không phải trả."
+description: "Lệ phí đổi bằng lái xe máy và cấp lại bằng theo Thông tư 154/2025/TT-BTC: mức thu tính theo lần, miễn lệ phí có thời hạn đến 28/02/2027, cách nộp trực tuyến."
 categories: [Kinh nghiệm]
 lang: vi
 tags: [lệ phí đổi bằng lái xe máy, phí cấp lại bằng lái xe máy, đổi bằng lái hết bao nhiêu tiền, Giấy phép lái xe]
@@ -28,6 +28,8 @@ Thẻ bằng lái bong ảnh, hoặc đánh rơi ví trên đường đi làm, v
 - Mức mới thấp hơn mức cũ của Thông tư 37/2023/TT-BTC.
 
 Mình chưa đối chiếu được toàn văn thông tư, nên không chép biểu mức thu. Cách chắc nhất là xem số tiền hiện ở bước thanh toán trên cổng dịch vụ công, hoặc biểu phí niêm yết tại nơi tiếp nhận hồ sơ, rồi so với văn bản gốc.
+
+**Có thể được miễn lệ phí đến hết 28/02/2027.** Theo Thông tư 117/2026/TT-BTC (14/8/2026, Báo điện tử Chính phủ), từ 15/8/2026 đến hết 28/02/2027, công dân có tài khoản định danh điện tử mức độ 2 và đáp ứng điều kiện tại khoản 1 Điều 5 Nghị quyết 66.22/2026/NQ-CP, gồm tích hợp thông tin, giấy tờ cơ bản trên VNeID, được miễn lệ phí cấp bằng khi đổi, cấp lại giấy phép lái xe. Hãy hỏi nơi tiếp nhận xem hồ sơ có được miễn không. Từ 01/3/2027 áp dụng lại mức thu của Thông tư 154/2025/TT-BTC.
 
 ## Đổi hay cấp lại: lệ phí như nhau, hồ sơ khác nhau
 

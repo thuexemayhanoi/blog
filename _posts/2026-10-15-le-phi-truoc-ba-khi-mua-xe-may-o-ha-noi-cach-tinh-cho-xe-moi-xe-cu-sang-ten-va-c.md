@@ -3,7 +3,7 @@ date: 2026-10-15 09:00:00 +0700
 layout: post
 title: "Lệ phí trước bạ khi mua xe máy ở Hà Nội: cách tính cho xe mới, xe cũ sang tên và cách nộp trực tuyến"
 author: "Nguyễn Tú"
-description: "Lệ phí trước bạ xe máy: xe máy phải đăng ký là đối tượng chịu, chủ xe nộp khi đăng ký theo Nghị định 10/2022; Điều 13 Thông tư 79 nêu chứng từ nộp."
+description: "Lệ phí trước bạ xe máy: chủ xe nộp khi đăng ký theo Nghị định 10/2022; Điều 13 Thông tư 79 nêu chứng từ nộp, và chính sách giảm tạm thời đến 28/02/2027."
 categories: [Kinh nghiệm]
 lang: vi
 tags: [lệ phí trước bạ xe máy, trước bạ xe máy mới và xe cũ, nộp lệ phí trước bạ khi sang tên, giấy tờ pháp lý]
@@ -51,9 +51,11 @@ Bài đọc qua toàn văn đăng trên Báo điện tử Chính phủ và diễ
 
 ## Xe mới và xe cũ khác nhau thế nào: bài không nêu cách tính
 
-Bài không thấy trong các điều đã đọc cách tính cho xe mới hay xe cũ, vì cách tính thuộc văn bản chi tiết do Bộ Tài chính quy định. Vì vậy bài không nêu mức thu, tỷ lệ hay giá tính, và không so sánh xe mới với xe cũ.
+Bài không thấy trong các điều đã đọc cách tính cho xe mới hay xe cũ, vì cách tính thuộc văn bản chi tiết do Bộ Tài chính quy định. Vì vậy bài không nêu mức thu, tỷ lệ hay giá tính của xe mới hay xe cũ.
 
 Hãy hỏi cơ quan thuế hoặc cơ quan đăng ký xe về cách tính cho xe của bạn, hoặc dùng cổng dịch vụ công khi làm thủ tục trực tuyến. Bài không biết giá tính của từng loại xe.
+
+**Chính sách giảm tạm thời.** Theo Thông tư 117/2026/TT-BTC (14/8/2026) trên Báo điện tử Chính phủ, từ 15/8/2026 đến hết 28/02/2027, công dân có tài khoản định danh điện tử mức độ 2 được giảm 100% lệ phí trước bạ với xe mô tô nộp từ lần thứ 2 trở đi, nếu khai và nộp bằng phương thức điện tử và bên chuyển nhượng đã tích hợp thông tin cần thiết trên VNeID. Chính sách chỉ áp dụng một lần mỗi loại tài sản cho một công dân trong một năm, mức giảm có trần. Từ 01/3/2027 áp dụng lại quy định gốc.
 
 ## Giữ chứng từ và kiểm tra dữ liệu: gợi ý thực tế
 
