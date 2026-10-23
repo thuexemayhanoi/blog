@@ -1,0 +1,194 @@
+{
+ "_meta": {
+  "schema": "legal-notices/1",
+  "verified_on": "2026-10-23",
+  "note": "Lớp đính chính hiển thị cho bài PUBLISHED đã lỗi thời/chưa chính xác về pháp lý nhưng chưa sửa được nội dung gốc (evidence QA lệch hash, cần reattest do chủ duyệt). Không đổi byte bài. Xóa mục khi bài đã được sửa qua quy trình bảo trì. Nguồn: văn bản chính thức, đối chiếu ngày 23/10/2026."
+ },
+ "verified_on_display": "23/10/2026",
+ "catalog": {
+  "A1_AGE": {
+   "text": "Độ tuổi: người đủ 16 tuổi trở lên được điều khiển xe gắn máy; giấy phép lái xe hạng A1 chỉ cấp cho người đủ 18 tuổi trở lên (Điều 59 khoản 1 Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15, hiệu lực từ 01/01/2025).",
+   "source_label": "Văn bản hợp nhất 55/VBHN-VPQH",
+   "source_url": "https://vanban.chinhphu.vn/?docid=217295&pageid=27160"
+  },
+  "CLASS_A1_A": {
+   "text": "Hạng giấy phép: từ 01/01/2025, hạng A1 là mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc công suất động cơ điện đến 11 kW; hạng A là mô tô hai bánh trên 125 cm3 hoặc trên 11 kW; không còn hạng A2. Mốc 175 cm3 chỉ còn gắn với giấy phép A1 cấp trước 01/01/2025 (Điều 57 và Điều 89 cùng Luật số 36/2024/QH15).",
+   "source_label": "Văn bản hợp nhất 55/VBHN-VPQH",
+   "source_url": "https://vanban.chinhphu.vn/?docid=217295&pageid=27160"
+  },
+  "TT_SAT_HACH": {
+   "text": "Văn bản hướng dẫn: Thông tư 35/2024/TT-BGTVT không còn hiệu lực. Sát hạch, cấp, đổi giấy phép lái xe và giấy phép lái xe quốc tế do Thông tư 108/2026/TT-BCA quy định (hiệu lực từ 01/7/2026, thay Thông tư 12/2025/TT-BCA); đào tạo lái xe theo Thông tư 14/2025/TT-BXD.",
+   "source_label": "Thông tư 108/2026/TT-BCA",
+   "source_url": "https://vanban.chinhphu.vn/?pageid=27160&docid=218725"
+  },
+  "QCVN_2024": {
+   "text": "Quy chuẩn báo hiệu đường bộ hiện hành là QCVN 41:2024/BGTVT (ban hành kèm Thông tư 51/2024/TT-BGTVT, hiệu lực từ 01/01/2025), thay QCVN 41:2019/BGTVT (Thông tư 54/2019/TT-BGTVT).",
+   "source_label": "Thông tư 51/2024/TT-BGTVT",
+   "source_url": "https://vanban.chinhphu.vn?pageid=27160&docid=211908&classid=1&orggroupid=4"
+  },
+  "QCVN_SIGNS": {
+   "text": "Mã biển theo QCVN 41:2024/BGTVT: P.101 Đường cấm; P.102 Cấm đi ngược chiều; P.103a Cấm xe ô tô; P.104 Cấm xe máy; P.105 Cấm xe ô tô và xe máy.",
+   "source_label": "QCVN 41:2024/BGTVT (bản đính kèm)",
+   "source_url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf"
+  },
+  "FINES_COMMON": {
+   "text": "Mức phạt theo Nghị định 168/2024/NĐ-CP (hiệu lực từ 01/01/2025) với người điều khiển xe mô tô, xe gắn máy: không chấp hành hiệu lệnh đèn tín hiệu giao thông (vượt đèn đỏ), đi ngược chiều, đi trên vỉa hè (trừ trường hợp đi qua vỉa hè để vào nhà, cơ quan) bị phạt 4–6 triệu đồng; dừng, đỗ xe ở lòng đường gây cản trở giao thông hoặc đỗ xe ở lòng đường, vỉa hè trái phép bị phạt 400.000–600.000 đồng; đi không đúng phần đường hoặc làn đường quy định bị phạt 600.000–800.000 đồng (Điều 7 khoản 3). Các mức khác với những con số này trong bài là không còn đúng.",
+   "source_label": "Bộ Công an: mức xử phạt từ 01/01/2025",
+   "source_url": "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/muc-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-an-toan-giao-thong-duong-bo-tu-01012025-d1-t1624"
+  },
+  "LICENCE_FINE_SCOPE": {
+   "text": "Mức phạt về giấy phép lái xe theo Điều 18 Nghị định 168/2024/NĐ-CP: không có giấy phép lái xe bị phạt 2–4 triệu đồng với mô tô hai bánh có dung tích xi-lanh đến 125 cm3 (hoặc công suất động cơ điện đến 11 kW), và 6–8 triệu đồng với xe trên 125 cm3 (hoặc trên 11 kW). Mức 200.000–300.000 đồng cho lỗi không mang theo giấy phép lái xe (khoản 2 điểm d) được quy định cho xe mô tô và xe tương tự xe mô tô kinh doanh vận tải, không phải cho mọi người lái xe máy.",
+   "source_label": "Toàn văn Nghị định 168/2024/NĐ-CP",
+   "source_url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm"
+  },
+  "INS_NO_CARRY": {
+   "text": "Bảo hiểm bắt buộc: Điều 18 khoản 2 Nghị định 168/2024/NĐ-CP phạt 200.000–300.000 đồng người điều khiển xe mô tô, xe gắn máy không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự còn hiệu lực (điểm b); lỗi không mang theo chứng nhận (điểm a) chỉ áp dụng với xe mô tô, xe gắn máy kinh doanh vận tải.",
+   "source_label": "Toàn văn Nghị định 168/2024/NĐ-CP",
+   "source_url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm"
+  },
+  "LATE_PENALTY_ARITH": {
+   "text": "Tiền chậm nộp phạt tính 0,05% mỗi ngày trên số tiền phạt chưa nộp. Ví dụ đúng: phạt 400.000 đồng, chậm 30 ngày thì tiền chậm nộp là 400.000 × 0,05% × 30 = 6.000 đồng (không phải 60.000 đồng).",
+   "source_label": "Nghị định 118/2021/NĐ-CP",
+   "source_url": "https://vanban.chinhphu.vn?pageid=27160&docid=204830"
+  }
+ },
+ "posts": {
+  "/an-toan-phap-ly/2026/09/27/cac-hang-bang-lai-xe-may-tai-viet-nam/": {
+   "id": "BLG-00614",
+   "codes": [
+    "A1_AGE",
+    "TT_SAT_HACH"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/bang-lai-a1-ieu-khien-xe-may-pham-vi-nao/": {
+   "id": "BLG-00621",
+   "codes": [
+    "A1_AGE",
+    "TT_SAT_HACH"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/bang-lai-uoc-cap-o-nuoc-ngoai-dung-uoc-khong/": {
+   "id": "BLG-00618",
+   "codes": [
+    "TT_SAT_HACH"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/": {
+   "id": "BLG-00641",
+   "codes": [
+    "QCVN_2024"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe/": {
+   "id": "BLG-00642",
+   "codes": [
+    "QCVN_2024"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-uong-truong/": {
+   "id": "BLG-00644",
+   "codes": [
+    "QCVN_2024"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/bien-chi-dan-va-bien-phu-hieu-the-nao/": {
+   "id": "BLG-00643",
+   "codes": [
+    "QCVN_2024"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/khong-co-bao-hiem-xe-may-bi-phat-the-nao/": {
+   "id": "BLG-00625",
+   "codes": [
+    "INS_NO_CARRY"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/khong-mang-bang-lai-khi-ang-i-xe-co-bi-xu-ly-khong/": {
+   "id": "BLG-00640",
+   "codes": [
+    "LICENCE_FINE_SCOPE"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/mat-bang-lai-xe-may-xin-cap-lai-the-nao/": {
+   "id": "BLG-00620",
+   "codes": [
+    "TT_SAT_HACH"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/nop-phat-nguoi-tre-co-bi-cong-them-khong/": {
+   "id": "BLG-00638",
+   "codes": [
+    "LATE_PENALTY_ARITH"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/oi-bang-lai-khi-giay-het-han/": {
+   "id": "BLG-00616",
+   "codes": [
+    "TT_SAT_HACH"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/oi-bang-lai-nuoc-ngoai-sang-bang-viet-nam-huong-dan-co-ban/": {
+   "id": "BLG-00622",
+   "codes": [
+    "TT_SAT_HACH"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/phat-nguoi-loi-nao-thuong-gap-voi-xe-may/": {
+   "id": "BLG-00639",
+   "codes": [
+    "FINES_COMMON"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/sat-hach-ly-thuyet-a1-nhung-cau-hay-gap/": {
+   "id": "BLG-00619",
+   "codes": [
+    "TT_SAT_HACH"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/thi-bang-lai-a1-quy-trinh-hien-hanh/": {
+   "id": "BLG-00615",
+   "codes": [
+    "A1_AGE",
+    "TT_SAT_HACH"
+   ]
+  },
+  "/an-toan-phap-ly/2026/10/07/bien-bao-cam-o-to-qua-lai-co-ap-dung-cho-xe-may-khong/": {
+   "id": "BLG-01484",
+   "codes": [
+    "QCVN_2024",
+    "QCVN_SIGNS"
+   ]
+  },
+  "/an-toan-phap-ly/2026/10/07/thi-bang-a1-bang-xe-may-thue-uoc-khong/": {
+   "id": "BLG-01480",
+   "codes": [
+    "A1_AGE",
+    "TT_SAT_HACH"
+   ]
+  },
+  "/hoi-dap/2026/09/29/quen-bang-lai-khi-ang-i-xe-thue-lam-gi-ngay/": {
+   "id": "BLG-00876",
+   "codes": [
+    "LICENCE_FINE_SCOPE"
+   ]
+  },
+  "/hoi-dap/2026/09/29/xe-50cc-co-can-bang-lai-khong/": {
+   "id": "BLG-00870",
+   "codes": [
+    "CLASS_A1_A"
+   ]
+  },
+  "/thue-xe/2026/09/27/giay-to-can-mang-khi-i-thue-xe-may/": {
+   "id": "BLG-00500",
+   "codes": [
+    "CLASS_A1_A"
+   ]
+  },
+  "/xe-may/2026/10/07/xe-50cc-thue-co-can-giay-phep-lai-khong/": {
+   "id": "BLG-01548",
+   "codes": [
+    "A1_AGE"
+   ]
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{%- comment -%}
+Lớp đính chính pháp lý cho bài PUBLISHED mà nội dung gốc còn lỗi thời/chưa chính xác nhưng chưa sửa được qua quy trình bảo trì
+(evidence QA lệch hash => cần reattest do chủ duyệt). KHÔNG đổi byte bài, không đổi evidence; chỉ hiển thị khối lưu ý ở đầu bài.
+Dữ liệu: _data/legal-notices.json — `posts[<URL bài>].codes` tham chiếu `catalog[<mã>]` (một nội dung đính chính dùng chung cho mọi bài
+cùng lỗi: sửa một chỗ, mọi bài tự đồng bộ). Mỗi mục có nguồn văn bản chính thức. Trang không có trong dữ liệu => không in gì.
+Chi phí O(1)/trang (tra khóa theo page.url). Gỡ mục khỏi dữ liệu khi bài đã được sửa gốc.
+{%- endcomment -%}
+{%- assign ln_data = site.data.legal-notices -%}
+{%- assign ln_entry = ln_data.posts[page.url] -%}
+{%- if ln_entry and ln_entry.codes.size > 0 -%}
+<aside class="legal-notice" role="note" aria-labelledby="legal-notice-heading">
+  <h2 id="legal-notice-heading">Lưu ý cập nhật pháp lý</h2>
+  <p>Đối chiếu văn bản chính thức ngày {{ ln_data.verified_on_display }}. Nếu nội dung bài viết bên dưới khác với các điểm sau, hãy theo các điểm này và văn bản gốc:</p>
+  <ul>
+    {%- for ln_code in ln_entry.codes -%}
+    {%- assign ln_item = ln_data.catalog[ln_code] -%}
+    {%- if ln_item %}
+    <li>{{ ln_item.text | escape }} <a href="{{ ln_item.source_url | escape }}" rel="noopener">{{ ln_item.source_label | escape }}</a></li>
+    {%- endif -%}
+    {%- endfor %}
+  </ul>
+</aside>
+{%- endif -%}

@@ -45,7 +45,7 @@ CI = [
     'test_faq',
     # refill / publish flow
     'test_refill_safety', 'test_refill_semantics', 'test_refill_drift',
-    'test_slugify_vi',
+    'test_slugify_vi', 'test_legal_notices',
     'test_related_cluster_data',
     'test_publish_flow',
     # đa-writer: registry, selector, queue, push an toàn, CAS client
