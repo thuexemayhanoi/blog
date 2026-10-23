@@ -61,7 +61,7 @@ Khi soát xe, hãy đi theo cùng một trình tự với lần ghi biên bản 
 
 ## Nhận lại tiền đặt cọc
 
-Sau khi kiểm tra xong và không còn điểm cần làm rõ, tiền đặt cọc được hoàn trả đầy đủ theo đúng phương thức bạn đã cọc. Nếu bạn cọc bằng tiền mặt, nhận lại tiền mặt; nếu chuyển khoản, việc hoàn cũng qua chuyển khoản. Đếm hoặc kiểm tra số tiền trước khi rời cửa hàng, và giữ biên bản trả xe có xác nhận của cả hai bên.
+Sau khi kiểm tra xong và không còn điểm cần làm rõ, tiền đặt cọc được hoàn trả theo điều khoản hợp đồng, theo đúng phương thức bạn đã cọc. Nếu bạn cọc bằng tiền mặt, nhận lại tiền mặt; nếu chuyển khoản, việc hoàn cũng qua chuyển khoản. Đếm hoặc kiểm tra số tiền trước khi rời cửa hàng, và giữ biên bản trả xe có xác nhận của cả hai bên.
 
 Nếu có khoản khấu trừ, yêu cầu ghi 
 rõ lý do và mức trừ vào biên bản: vết xước ở vị trí nào, chi phí dự kiến bao nhiêu. Một biên bản hoàn chỉnh giúp bạn có căn cứ theo dõi và so sánh nếu cần.

@@ -68,13 +68,13 @@ Quy trình thuê xe tại Nguyễn Tú gồm các bước sau:
 3. **Xác nhận giá và điều kiện:** Xác nhận giá thuê, tiền đặt cọc, thời gian nhận và trả xe, cùng chi phí giao nhận nếu có.
 4. **Chuẩn bị giấy tờ:** Người thuê xuất trình chứng minh nhân dân hoặc căn cước công dân (khách Việt Nam), hộ chiếu (khách nước ngoài). Với xe trên 50cc, người thuê cần có giấy phép lái xe phù hợp.
 5. **Đặt cọc và nhận xe:** Đặt cọc theo thỏa thuận, kiểm tra tình trạng xe cùng Nguyễn Tú trước khi nhận.
-6. **Trả xe:** Trả xe đúng giờ tại địa điểm đã thỏa thuận, hoàn tất việc nhận lại tiền đặt cọc sau khi xe được kiểm tra.
+6. **Trả xe:** Trả xe đúng giờ tại địa điểm đã thỏa thuận; tiền đặt cọc được hoàn trả theo điều khoản hợp đồng sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan.
 
 Toàn bộ quy trình diễn ra nhanh gọn khi khách hàng đã chuẩn bị đủ giấy tờ và xác nhận trước các thông tin cần thiết.
 
 ## Tiền đặt cọc và xác nhận thông tin
 
-Mọi hợp đồng thuê xe đều yêu cầu tiền đặt cọc. Mức đặt cọc tham khảo dao động từ 2.000.000đ đến 5.000.000đ tùy loại xe và thời gian thuê. Tiền cọc được hoàn trả sau khi khách trả xe đúng thời gian thỏa thuận và xe không có hư hỏng ngoài mức hao mòn thông thường.
+Mọi hợp đồng thuê xe đều yêu cầu tiền đặt cọc. Mức đặt cọc tham khảo dao động từ 2.000.000đ đến 5.000.000đ tùy loại xe. Tiền cọc được hoàn trả theo điều khoản hợp đồng sau khi khách bàn giao xe và hoàn thành các nghĩa vụ liên quan.
 
 Trước khi đặt xe, khách hàng nên xác nhận các thông tin sau với Nguyễn Tú:
 
@@ -146,7 +146,7 @@ Có, trong khu vực phục vụ và trong giờ hoạt động. Thời gian và
 
 #### Tiền đặt cọc là bao nhiêu?
 
-Mức tham khảo từ 2.000.000đ đến 5.000.000đ tùy loại xe và thời gian thuê. Mức chính xác được xác nhận khi đặt xe và hoàn trả khi trả xe đúng hạn.
+Mức tham khảo từ 2.000.000đ đến 5.000.000đ tùy loại xe. Mức chính xác được xác nhận rõ trước khi ký hợp đồng; tiền cọc được hoàn trả theo điều khoản hợp đồng.
 
 #### Xe có bảo hiểm không?
 

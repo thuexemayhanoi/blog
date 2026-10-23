@@ -21,7 +21,7 @@ Bằng việc thuê xe máy từ Nguyễn Tú, bạn đồng ý với các đi�
 
 1. **Giấy phép lái xe hợp lệ:** Bạn phải có giấy phép lái xe hợp lệ phù hợp với loại xe thuê (bắt buộc với xe trên 50cc)
 2. **Yêu cầu về độ tuổi:** Tối thiểu 18 tuổi
-3. **Tiền đặt cọc:** Tiền đặt cọc là bắt buộc cho tất cả các hợp đồng thuê, phổ biến trong khoảng 2.000.000–5.000.000đ tùy loại xe. Mức đặt cọc cụ thể được xác nhận trực tiếp khi đặt xe và hoàn trả khi bạn trả xe đúng hẹn, xe không có hư hỏng phát sinh
+3. **Tiền đặt cọc:** Tiền đặt cọc là bắt buộc cho tất cả các hợp đồng thuê, phổ biến trong khoảng 2.000.000–5.000.000đ tùy loại xe. Mức đặt cọc cụ thể được xác nhận trực tiếp khi đặt xe và được hoàn trả theo điều khoản hợp đồng sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan
 4. **Thời hạn thuê:** Xe phải được trả lại đúng thời gian đã thỏa thuận
 5. **Tình trạng xe:** Xe phải được trả lại với tình trạng như lúc nhận xe, trừ các hao mòn bình thường
 

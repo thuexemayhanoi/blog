@@ -18,7 +18,7 @@ Trong mọi cuộc trao đổi về việc thuê xe máy, tiền đặt cọc g�
 
 Hiểu một cách đơn giản, tiền đặt cọc là khoản bảo đảm để hai bên yên tâm thực hiện thỏa thuận. Với cửa hàng, chiếc xe họ giao cho bạn là tài sản có giá trị, và khoản cọc giúp bảo đảm xe sẽ được trả lại đúng hẹn, đúng tình trạng. Với bạn, việc trả cọc cũng là cách xác nhận bạn nghiêm túc với lịch trình của mình.
 
-Khoản cọc không phải là chi phí thuê xe. Khi bạn trả xe đúng hẹn, tiền cọc được hoàn lại đầy đủ. Nó chỉ trở thành nguồn bù đắp nếu có phát sinh hư hỏng do lỗi sử dụng hoặc nếu xe không được trả theo thỏa thuận. Đó là lý do mức cọc thường tương xứng với giá trị chiếc xe bạn nhận: thuê một chiếc xe ga đời mới thường đi kèm mức cọc cao hơn thuê một chiếc xe số phổ thông.
+Khoản cọc không phải là chi phí thuê xe. Sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan, tiền cọc được hoàn trả theo điều khoản hợp đồng. Nó chỉ trở thành nguồn bù đắp nếu có phát sinh hư hỏng do lỗi sử dụng hoặc nếu xe không được trả theo thỏa thuận. Đó là lý do mức cọc thường tương xứng với giá trị chiếc xe bạn nhận: thuê một chiếc xe ga đời mới thường đi kèm mức cọc cao hơn thuê một chiếc xe số phổ thông.
 
 ## Các hình thức đặt cọc phổ biến
 
