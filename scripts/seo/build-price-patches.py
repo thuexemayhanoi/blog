@@ -38,6 +38,19 @@ PATCHES_SCHEMA = "revise-patches/1"
 CTX_STEPS = (16, 24, 32, 48, 72, 120)
 
 
+def load_amount_check():
+    """Số tiền NNN.NNN trong thân bài mà scorer (factory-operator) không còn duyệt: dùng đúng hàm/whitelist của scorer."""
+    import importlib.util
+
+    spec = importlib.util.spec_from_file_location("op_for_price_patches", ROOT / "scripts/factory/factory-operator.py")
+    op = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(op)
+    op.APPROVED_AMOUNTS.clear()
+    op.build_amount_whitelist(json.loads((ROOT / "data/business-facts.json").read_text(encoding="utf-8")))
+    approved = set(op.APPROVED_AMOUNTS)
+    return lambda body: sorted(a for a in op.vnd_amounts(body) if a not in approved)
+
+
 def load_rows() -> dict[str, dict]:
     with open(ROOT / "data/content-matrix.csv", encoding="utf-8", newline="") as f:
         return {r["id"]: r for r in csv.DictReader(f)}
@@ -154,6 +167,7 @@ def main() -> int:
     want = {x.strip() for x in a.ids.split(",") if x.strip()}
     statuses = {"MISMATCH"} | ({"REVIEW"} if a.include_review else set())
     manual = json.loads(Path(a.manual).read_text(encoding="utf-8")) if a.manual else {}
+    amount_check = load_amount_check()
     patches = {}
     report = {"posts_scanned": 0, "blocked_title": {}, "non_unique": {}, "skipped_drift": [], "residual": {}, "skipped_by_reviewer": {},
               "manual_errors": {}}
@@ -197,7 +211,7 @@ def main() -> int:
         new_text = text
         for e in edits:
             new_text = new_text.replace(e["old"], e["new"])
-        left = pp.find_residual(new_text, expected, doc_vehicle, tuple(mine.get("keep", ())))
+        left = pp.find_residual(new_text, expected, doc_vehicle, tuple(mine.get("keep", ())), amount_check)
         if left:
             report["residual"][row["id"]] = left
             continue

@@ -41,7 +41,10 @@ RETIRED_AMOUNTS = (600000, 650000, 800000, 850000, 1400000)
 ALT_STALE = re.compile(
     r"(?<![\d.,])(?:6[05]0|8[05]0)\s?(?:k|nghìn|ngàn)\b"
     r"|(?<![\d.,])(?:6[05]0|8[05]0)\s?[–-]\s?\d{3}\s?(?:k|nghìn)\b"
-    r"|(?<![\d.,])1[,.]4\s?(?:triệu|tr)\b|\b1\s?tr\s?4\b",
+    r"|(?<![\d.,])1[,.]4\s?(?:triệu|tr)\b|\b1\s?tr\s?4\b"
+    # Click/Mio tháng cũ 1–1,2 triệu (nay 900 nghìn–1,2 triệu) và cách viết 0,6/0,8 triệu của giá tuần cũ
+    r"|(?<![\d.,])1(?:\s?triệu)?\s?(?:[–—-]|đến|tới)\s?1[,.]2\s?(?:triệu|tr)\b|\b1\s?tr\s?[–-]\s?1\s?tr\s?2\b"
+    r"|(?<![\d.,])0[,.][68]\d?(?=\s?(?:triệu|tr\b|(?:[–—-]|đến|tới)\s?\d))",
     re.I,
 )
 # Câu nói Wave "chưa có giá tuần/tháng / chỉ có giá ngày": không còn đúng với bảng giá hiện hành.
@@ -50,6 +53,14 @@ WAVE_ABSENT = re.compile(
     r"|không có (?:gói|giá)[^.]{0,20}(?:tuần|tháng)"
     r"|(?:giá|gói)[^.]{0,25}(?:tuần|tháng)[^.]{0,40}(?:báo riêng|xác nhận (?:trực tiếp|riêng)|hỏi riêng|liên hệ|chưa niêm yết|chưa công bố)"
     r"|chưa niêm yết)",
+    re.I,
+)
+# Khoảng giá viết lẫn định dạng ("800.000đ đến 1 triệu đồng", "1 triệu – 1.200.000đ"): thay một đầu sẽ làm câu vô nghĩa => REVIEW.
+RANGE_CONT_AFTER = re.compile(r"^\s*(?:[–—-]|đến|tới)\s*\d")
+RANGE_CONT_BEFORE = re.compile(r"\d(?:[.,]\d+)?\s*(?:k|tr|triệu|nghìn|ngàn|đồng|đ)?\s*(?:[–—-]|đến|tới)\s*$", re.I)
+MIXED_RANGE = re.compile(
+    r"\d{1,3}(?:\.\d{3})+\s?(?:đồng|đ|VND)?\s*(?:[–—-]|đến|tới)\s*\d+(?:[.,]\d+)?\s*(?:triệu|nghìn|ngàn|tr|k)\b"
+    r"|\d+(?:[.,]\d+)?\s*(?:triệu|nghìn|ngàn|tr|k)\s?(?:đồng|đ)?\s*(?:[–—-]|đến|tới)\s*\d{1,3}(?:\.\d{3})+",
     re.I,
 )
 REVIEW_CUES = re.compile(
@@ -176,6 +187,11 @@ def _evaluate(seg: str, base: int, m: re.Match, ph: Phrase, expected: dict) -> N
             ph.note = "giá đúng là một khoảng nhưng bài ghi một số: cần sửa tay"
     if ph.fix_start >= 0:
         ph.fix_old = None  # điền sau bởi scan_text (cần văn bản gốc)
+    if not ph.is_range and (RANGE_CONT_AFTER.match(seg[m.end():m.end() + 24])
+                            or RANGE_CONT_BEFORE.search(seg[max(0, m.start() - 24):m.start()])):
+        ph.status = "REVIEW"
+        ph.note = "khoảng giá viết lẫn định dạng (k/tr/triệu): sửa một đầu sẽ làm câu vô nghĩa, người đọc quyết định"
+        return
     if REVIEW_CUES.search(seg):
         ph.status = "REVIEW"
         ph.note = "câu có phép tính/so sánh: người đọc quyết định (đề xuất giữ trong fix_new)"
@@ -278,12 +294,33 @@ def scan_text(text: str, expected: dict, doc_vehicle: str = "") -> list[Phrase]:
     for ph in results:
         if ph.fix_start >= 0:
             ph.fix_old = text[ph.fix_start:ph.fix_end]
+            _scorer_safe_unit(text, ph)
     return results
 
 
-def find_residual(text: str, expected: dict, doc_vehicle: str = "", keep: tuple[str, ...] = ()) -> list[str]:
+MILLION_AMOUNT = re.compile(r"\d{1,3}(?:\.\d{3}){2,}")
+
+
+def _scorer_safe_unit(text: str, ph: Phrase) -> None:
+    """factory-operator.vnd_amounts dùng `\\b\\d{1,3}(?:\\.\\d{3})+\\b`: số >= 1.000.000 viết LIỀN chữ "đ" ("1.000.000đ") bị đọc
+    thành 1.000 (không duyệt) và làm bài rớt QA (business_amounts), còn "700.000đ" thì vô hình. Số TIỀN MỚI >= 1 triệu do bộ sửa
+    sinh ra vì vậy luôn kèm khoảng trắng trước đơn vị ("1.000.000 đ"); đơn vị liền sau vùng thay được gộp vào vùng thay."""
+    new = ph.fix_new
+    if not MILLION_AMOUNT.search(new):
+        return
+    # đơn vị "đ" cuối câu nằm ngoài vùng thay (sau số là dấu chấm): gộp vào để chèn khoảng trắng
+    if new[-1:].isdigit() and text[ph.fix_end:ph.fix_end + 1] == "đ":
+        ph.fix_end += 1
+        ph.fix_old = text[ph.fix_start:ph.fix_end]
+        new += "đ"
+    ph.fix_new = re.sub(r"(\d{1,3}(?:\.\d{3}){2,})đ(?![\wÀ-ỹ])", r"\1 đ", new)
+
+
+def find_residual(text: str, expected: dict, doc_vehicle: str = "", keep: tuple[str, ...] = (), amount_check=None) -> list[str]:
     """Những chỗ còn lỗi thời sau khi sửa: cụm giá lệch/REVIEW/không ràng buộc mang số cũ, giá cũ viết kiểu k/tr/triệu/nghìn,
-    câu nói Wave chưa có giá tuần/tháng. Bỏ qua mọi thứ nằm trong một đoạn `keep` (ví dụ số học hợp lệ, đã được người duyệt)."""
+    câu nói Wave chưa có giá tuần/tháng. Bỏ qua mọi thứ nằm trong một đoạn `keep` (ví dụ số học hợp lệ, đã được người duyệt).
+    `amount_check(body) -> [int]` (tùy chọn) trả các số tiền NNN.NNN trong thân bài mà QA không còn duyệt: KHÔNG có `keep` cho loại này
+    vì scorer sẽ từ chối bài (business_amounts), nên phải viết lại câu không dùng số đó."""
     kept: list[tuple[int, int]] = []
     for snippet in keep:
         i = text.find(snippet)
@@ -302,6 +339,14 @@ def find_residual(text: str, expected: dict, doc_vehicle: str = "", keep: tuple[
     for m in ALT_STALE.finditer(text):
         if not inside(m.start(), m.end()):
             out.append(f"ALT_STALE: {text[max(0, m.start() - 40):m.end() + 20]!r}")
+    for m in MIXED_RANGE.finditer(text):
+        if not inside(m.start(), m.end()):
+            out.append(f"MIXED_RANGE: {text[max(0, m.start() - 40):m.end() + 20]!r}")
+    if amount_check is not None:
+        fm = re.match(r"\A---\n.*?\n---\n", text, re.S)
+        body = text[fm.end():] if fm else text
+        for amount in amount_check(body):
+            out.append(f"AMOUNT_NOT_APPROVED: {amount:,}".replace(",", "."))
     pos = 0
     for line in text.split("\n"):
         for s0, e0 in sentence_spans(line):          # cùng cách tách câu với scan_text (không tách ở dấu chấm hàng nghìn)

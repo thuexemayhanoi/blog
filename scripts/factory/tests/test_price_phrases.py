@@ -47,7 +47,7 @@ class TestPricePhrases(unittest.TestCase):
 
     def test_list_form_week_and_month_are_fixed_day_is_untouched(self):
         t = 'Honda Air Blade có giá 200.000đ/ngày, 800.000đ/tuần và 1.400.000đ/tháng.'
-        self.assertEqual(apply_fixes(t), 'Honda Air Blade có giá 200.000đ/ngày, 1.000.000đ/tuần và 1.500.000đ/tháng.')
+        self.assertEqual(apply_fixes(t), 'Honda Air Blade có giá 200.000đ/ngày, 1.000.000 đ/tuần và 1.500.000 đ/tháng.')
         by_text = {p.text.strip(): p.status for p in scan(t)}
         self.assertEqual(by_text['200.000đ'], 'SKIP_DAY')
 
@@ -56,15 +56,15 @@ class TestPricePhrases(unittest.TestCase):
             'Theo tuần, Click hoặc Mio khoảng 600.000đ đến 700.000đ.': 'Theo tuần, Click hoặc Mio khoảng 700.000đ.',
             'Honda Click tuần 600.000–700.000 đồng.': 'Honda Click tuần 700.000 đồng.',
             'Vision thuê theo tuần dao động từ 800.000đ đến 1.000.000đ, nhiều khách chọn.':
-                'Vision thuê theo tuần khoảng 1.000.000đ, nhiều khách chọn.',
-            'Honda Vision có gói tuần từ 800.000đ đến 1.000.000đ.': 'Honda Vision có gói tuần 1.000.000đ.',
+                'Vision thuê theo tuần khoảng 1.000.000 đ, nhiều khách chọn.',
+            'Honda Vision có gói tuần từ 800.000đ đến 1.000.000đ.': 'Honda Vision có gói tuần 1.000.000 đ.',
         }
         for old, new in cases.items():
             self.assertEqual(apply_fixes(old), new, old)
 
     def test_range_stays_a_range_when_the_new_price_is_a_range(self):
         t = 'Honda Click hoặc Yamaha Mio theo tháng từ 1.000.000đ đến 1.200.000đ tùy xe.'
-        self.assertEqual(apply_fixes(t), 'Honda Click hoặc Yamaha Mio theo tháng từ 900.000đ đến 1.200.000đ tùy xe.')
+        self.assertEqual(apply_fixes(t), 'Honda Click hoặc Yamaha Mio theo tháng từ 900.000đ đến 1.200.000 đ tùy xe.')
 
     def test_matching_prices_are_ok_and_never_rewritten(self):
         t = 'Honda Vision 200.000đ/ngày, 1.000.000đ/tuần và 1.800.000đ đến 2.000.000đ/tháng.'
@@ -89,15 +89,15 @@ class TestPricePhrases(unittest.TestCase):
 
     def test_rate_forms_with_one_per_period_are_not_mistaken_for_arithmetic(self):
         t = 'Dòng Air Blade khoảng 200.000đ một ngày, 800.000đ một tuần, 1.400.000đ một tháng.'
-        self.assertEqual(apply_fixes(t), 'Dòng Air Blade khoảng 200.000đ một ngày, 1.000.000đ một tuần, 1.500.000đ một tháng.')
+        self.assertEqual(apply_fixes(t), 'Dòng Air Blade khoảng 200.000đ một ngày, 1.000.000 đ một tuần, 1.500.000 đ một tháng.')
 
     def test_table_rows_bind_to_vehicle_cell_and_header_period(self):
         t = ('| Loại xe | Theo ngày | Theo tuần | Theo tháng |\n|---|---|---|---|\n'
              '| Honda Air Blade | 200.000đ | 800.000đ | 1.400.000đ |\n'
              '| Honda Click | 150.000đ | 600.000đ – 700.000đ | 1.000.000đ – 1.200.000đ |\n')
         out = apply_fixes(t)
-        self.assertIn('| Honda Air Blade | 200.000đ | 1.000.000đ | 1.500.000đ |', out)
-        self.assertIn('| Honda Click | 150.000đ | 700.000đ | 900.000đ – 1.200.000đ |', out)
+        self.assertIn('| Honda Air Blade | 200.000đ | 1.000.000 đ | 1.500.000 đ |', out)
+        self.assertIn('| Honda Click | 150.000đ | 700.000đ | 900.000đ – 1.200.000 đ |', out)
 
     def test_phrase_without_vehicle_or_period_is_unbound_and_untouched(self):
         for t in ('Giá tuần thường khoảng 800.000đ tùy dòng xe.', 'Hai bên thống nhất mức 800.000đ khi đặt xe.'):
@@ -111,19 +111,42 @@ class TestPricePhrases(unittest.TestCase):
         self.assertEqual([p.status for p in phs], ['MISMATCH'])
         # đơn vị "đ" cuối câu nằm NGOÀI vùng thay (sau số là dấu chấm): ghép lại phải ra đúng câu
         p = phs[0]
-        self.assertEqual(t[:p.fix_start] + p.fix_new + t[p.fix_end:], 'Theo tuần, mức tham khảo là 1.000.000đ.')
+        self.assertEqual(t[:p.fix_start] + p.fix_new + t[p.fix_end:], 'Theo tuần, mức tham khảo là 1.000.000 đ.')
         phs = scan(t, doc_vehicle='vision')                        # xe khác => giá đúng khác (cùng 1.000.000 cho Vision)
         self.assertEqual([p.status for p in phs], ['MISMATCH'])
 
     def test_section_heading_names_the_vehicle_and_a_compared_vehicle_makes_it_ambiguous(self):
         simple = '### Honda Air Blade\n\nGiá thuê 200.000đ/ngày, 1.400.000đ/tháng.\n'
-        self.assertEqual(apply_fixes(simple), '### Honda Air Blade\n\nGiá thuê 200.000đ/ngày, 1.500.000đ/tháng.\n')
+        self.assertEqual(apply_fixes(simple), '### Honda Air Blade\n\nGiá thuê 200.000đ/ngày, 1.500.000 đ/tháng.\n')
         compared = '### Honda Air Blade\n\nXe ga thể thao, chắc chắn hơn Vision. Giá thuê 200.000đ/ngày, 1.400.000đ/tháng.\n'
         self.assertEqual(apply_fixes(compared), compared)              # không đoán: Air Blade hay Vision
         self.assertTrue(all(p.status == 'UNBOUND' for p in scan(compared)))
         other = '### Giá thuê\n\nHonda Vision rộng cốp. Giá thuê tuần 800.000đ.\n'
         # heading không nêu xe: dùng xe duy nhất của câu trước
-        self.assertEqual(apply_fixes(other), '### Giá thuê\n\nHonda Vision rộng cốp. Giá thuê tuần 1.000.000đ.\n')
+        self.assertEqual(apply_fixes(other), '### Giá thuê\n\nHonda Vision rộng cốp. Giá thuê tuần 1.000.000 đ.\n')
+
+    def test_ranges_written_in_mixed_formats_are_review_not_autofix(self):
+        """"800.000đ đến 1 triệu đồng": thay một đầu (800.000đ -> 1.000.000đ) sẽ ra "1.000.000đ đến 1 triệu đồng"."""
+        for t in ('Thuê tuần, Vision khoảng 800.000đ đến 1 triệu đồng.', 'Honda Vision tuần từ 1 triệu đến 1.200.000đ.'):
+            self.assertEqual(apply_fixes(t), t, t)
+            self.assertTrue(any(p.status == 'REVIEW' for p in scan(t)), t)
+        broken = 'Vision khoảng 1.000.000đ đến 1 triệu đồng.'
+        self.assertTrue(any(x.startswith('MIXED_RANGE') for x in pp.find_residual(broken, EXPECTED)))
+
+    def test_replacement_amounts_are_scorer_safe(self):
+        """factory-operator.vnd_amounts đọc "1.000.000đ" (liền "đ") thành 1.000 và làm bài rớt QA: số tiền MỚI >= 1 triệu do bộ sửa
+        sinh ra phải kèm khoảng trắng trước đơn vị (hoặc dấu chấm cuối câu) để scorer đọc đúng giá trị được duyệt."""
+        import re
+        approved = {150000, 200000, 700000, 900000, 950000, 1000000, 1050000, 1100000, 1150000, 1200000, 1500000,
+                    1800000, 1850000, 1900000, 1950000, 2000000}
+        samples = ['Honda Air Blade có giá 200.000đ/ngày, 800.000đ/tuần và 1.400.000đ/tháng.',
+                   'Vision thuê theo tuần dao động từ 800.000đ đến 1.000.000đ, nhiều khách chọn.',
+                   'Theo tuần, Vision khoảng 800.000đ. Air Blade tháng 1.400.000đ.',
+                   'Honda Click tháng 1.000.000đ đến 1.200.000đ mỗi tháng.', 'Honda Air Blade tháng 1.400.000đ']
+        for t in samples:
+            out = apply_fixes(t)
+            seen = {int(m.replace('.', '')) for m in re.findall(r'\b\d{1,3}(?:\.\d{3})+\b', out)}
+            self.assertTrue(seen <= approved, (t, out, sorted(seen - approved)))
 
     def test_fixing_is_idempotent(self):
         t = ('Honda Vision: 200.000đ/ngày, từ 800.000đ đến 1.000.000đ/tuần, 1.800.000đ đến 2.000.000đ/tháng. '
@@ -148,7 +171,7 @@ class TestBuildPricePatches(unittest.TestCase):
         e = edits[0]
         self.assertEqual(text.count(e['old']), 1)
         fixed = text.replace(e['old'], e['new'])
-        self.assertIn('1.000.000đ/tuần và 1.500.000đ/tháng', fixed)
+        self.assertIn('1.000.000 đ/tuần và 1.500.000 đ/tháng', fixed)
 
     def test_title_line_is_never_edited_and_is_reported(self):
         text = self.FRONT + '\nHonda Air Blade giá 800.000đ/tuần.\n'
@@ -160,7 +183,7 @@ class TestBuildPricePatches(unittest.TestCase):
         for e in edits:
             fixed = fixed.replace(e['old'], e['new'])
         self.assertIn('title: "Honda Air Blade tuần 800.000đ"', fixed)     # title nguyên vẹn
-        self.assertIn('giá 1.000.000đ/tuần', fixed)
+        self.assertIn('giá 1.000.000 đ/tuần', fixed)
 
     def test_edits_never_overlap_and_replay_through_the_revise_tool(self):
         """Cụm cách nhau 10 / 45 / 70 ký tự trong cùng dòng: mọi sửa sinh ra phải áp được bằng revise-published.apply_edits
@@ -174,7 +197,7 @@ class TestBuildPricePatches(unittest.TestCase):
         out, _ = R.apply_edits(text, edits)
         expect = apply_fixes(text)
         self.assertEqual(out, expect)
-        self.assertIn('1.000.000đ/tuần', out)
+        self.assertIn('1.000.000 đ/tuần', out)
         self.assertIn('Honda Click tuần 700.000đ.', out)
 
     def test_residual_check_flags_leftovers_but_honours_reviewed_keep_snippets(self):
