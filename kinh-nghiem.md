@@ -105,7 +105,7 @@ Kinh nghiệm thực tế khi sử dụng xe máy thuê tại Hà Nội:
 - Phí trễ 20.000đ mỗi giờ nếu trả muộn; trễ quá 6 tiếng có thể tính thêm một ngày thuê theo loại xe (khoảng 150.000 – 200.000đ/ngày).
 - Cần kéo dài thời gian thuê? Báo sớm để sắp xếp.
 
-Sau khi kiểm tra xe, tiền đặt cọc được hoàn trả cho bạn.
+Tiền đặt cọc được hoàn trả theo điều khoản hợp đồng sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan.
 
 ## Những điều nên tránh
 
@@ -133,7 +133,7 @@ An toàn phụ thuộc vào kỹ năng lái và ý thức chấp hành luật gi
 
 #### Tôi cần đặt cọc bao nhiêu?
 
-Mức tham khảo 2.000.000 – 5.000.000đ tùy loại xe và thời gian thuê. Mức chính xác được xác nhận khi đặt xe và hoàn trả khi trả xe đúng hạn.
+Mức tham khảo 2.000.000 – 5.000.000đ tùy loại xe. Mức chính xác được xác nhận rõ trước khi ký hợp đồng; tiền cọc được hoàn trả theo điều khoản hợp đồng.
 
 #### Xe hỏng giữa đường thì sao?
 
