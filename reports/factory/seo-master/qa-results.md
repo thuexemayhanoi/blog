@@ -48,3 +48,20 @@ Job `engine-tests` của Quality gate đã đỏ ở HEAD `4f61156e` (log run #1
 (`factory-publish.yml` có `schedule`/`workflow_dispatch` trái hợp đồng test; chuỗi `sk-` khớp nhầm trong `webmcp-ask-site.js`)
 và `test_slugify_vi` (fixture cần ≥ 10 hàng PLANNED có chữ đ, hiện có 0). Không sửa vì ngoài phạm vi SEO và chạm hợp đồng
 workflow writer/publisher. Ghi ở `fix-log.csv` mục SEO-104.
+
+
+---
+
+# QA — đợt 2 (2026-10-23): nội dung, lớp hiển thị, công cụ bảo trì
+
+| Kiểm tra | Kết quả |
+|---|---|
+| `validate.py --scope chunk` trên từng worktree lô revise | PASS, 0 cảnh báo (6 lô) |
+| `revise-published.py verify --backup` | OK cho cả 6 sao lưu (lô pháp lý + 5 lô giá), 0 vấn đề |
+| `build-price-notices.py --check` trên cây đã gộp | OK (71 bài) |
+| `check-price-consistency.py` sau đợt | FACT (main d794f64b, price-consistency.csv): factory MISMATCH 155 cụm/56 tệp, REVIEW 26/19, UNBOUND_STALE 36/24 — toàn bộ nằm trong 217 cụm của 74 tệp: 68 bài NOTICE_LAYER (có khối giá hiện hành) + 6 bài REVIEWED_FALSE_POSITIVE đã đọc tay; 0 cụm OPEN; trang tĩnh và legacy 0 |
+| `check-regressions.py` trên build đã gộp | PASS 9/9 (H1 trang chủ khớp bản duyệt, canonical/H1 mỗi trang, favicon, phân trang ≤ 60 liên kết, breadcrumb, hub/pillar, lead block, sitemap 6.842 URL không noindex/404) |
+| Quality gate / engine-tests | xanh ở mọi PR đã merge (bảng ở `deployment-verification.md`); lỗi đỏ sẵn của `engine-tests` (SEO-104) đã được commit `b96f69f7` sửa |
+| Test mới | test_revise_published 17, test_price_phrases 19, test_legal_notices 6, test_topic_links 11, test_price_notices 9 |
+
+Đã cập nhật so với đợt 1: mục "Kiểm tra đỏ sẵn trên `main`" của đợt 1 không còn đúng (SEO-104 → DONE).

@@ -1,9 +1,4 @@
 code,priority,target,evidence,cause,proposed_fix,status
-DESC_TOO_LONG,P3,_posts/2026-09-18-thue-xe-may-cho-sinh-vien-o-ha-noi.md,219 ký tự,meta quá dài,Rút gọn khi bảo trì bài,OPEN
-DESC_TOO_LONG,P3,_posts/2026-09-20-bi-dung-kiem-tra-giay-to-khi-di-xe-thue.md,212 ký tự,meta quá dài,Rút gọn khi bảo trì bài,OPEN
-H1_IN_BODY,P2,_posts/2026-09-20-dung-xe-chup-anh-an-toan.md,1 H1 trong body (layout đã render H1 từ title),nội dung có '# ',Hạ thành H2 qua batch bảo trì nhỏ có QA,OPEN
-DESC_TOO_LONG,P3,_posts/2026-09-20-tap-lam-quen-xe-may-thue-o-ha-noi.md,208 ký tự,meta quá dài,Rút gọn khi bảo trì bài,OPEN
-DESC_TOO_LONG,P3,_posts/2026-09-20-thue-xe-may-dai-han-cho-nguoi-nuoc-ngoai-o-ha-noi.md,205 ký tự,meta quá dài,Rút gọn khi bảo trì bài,OPEN
 DUP_CANNIBALIZATION_KEY,P2,_posts/2026-09-27-chuan-bi-giay-to-gi-truoc-khi-en-cua-hang-thue-xe.md,cannibalization_key trùng với 1 bài khác: _posts/2026-10-10-can-mang-giay-to-gi-khi-thue-xe-may-o-ha-noi.md,trùng nội dung metadata,"Phân biệt theo intent, KHÔNG xóa/đổi URL",OPEN
 DUP_CANNIBALIZATION_KEY,P2,_posts/2026-10-10-can-mang-giay-to-gi-khi-thue-xe-may-o-ha-noi.md,cannibalization_key trùng với 1 bài khác: _posts/2026-09-27-chuan-bi-giay-to-gi-truoc-khi-en-cua-hang-thue-xe.md,trùng nội dung metadata,"Phân biệt theo intent, KHÔNG xóa/đổi URL",OPEN
 DUP_CANNIBALIZATION_KEY,P2,_posts/2026-09-27-co-can-bang-lai-khi-i-xe-50cc-khong.md,cannibalization_key trùng với 1 bài khác: _posts/2026-09-29-xe-50cc-co-can-bang-lai-khong.md,trùng nội dung metadata,"Phân biệt theo intent, KHÔNG xóa/đổi URL",OPEN
