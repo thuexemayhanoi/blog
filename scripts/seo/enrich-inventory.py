@@ -34,6 +34,8 @@ from urllib.parse import unquote
 
 import yaml
 
+from slugs import is_d_stripped
+
 ROOT = Path(__file__).resolve().parents[2]
 D = ROOT / "reports" / "factory" / "seo-master"
 
@@ -66,23 +68,6 @@ def nd(s: str) -> str:
     s = unicodedata.normalize("NFD", s)
     s = "".join(c for c in s if unicodedata.category(c) != "Mn")
     return re.sub(r"\s+", " ", s.lower()).strip()
-
-
-def _norm(s: str) -> str:
-    """Giống scripts/factory/generate-matrix.py: norm() (bỏ dấu, thường, bỏ ký tự không phải a-z0-9 hoặc khoảng trắng)."""
-    s = unicodedata.normalize("NFD", s)
-    s = "".join(c for c in s if unicodedata.category(c) != "Mn")
-    return re.sub(r"[^a-z0-9 ]", "", s.lower()).strip()
-
-
-def slug_correct(title: str) -> str:
-    """Slug đúng (generate-matrix.slugify hiện tại): đ -> d trước khi chuẩn hóa."""
-    return re.sub(r"\s+", "-", _norm(title.replace("đ", "d").replace("Đ", "D")))[:80].strip("-")
-
-
-def slug_old(title: str) -> str:
-    """Slug theo slugify cũ: chữ đ không có dạng phân rã NFD nên bị regex xóa mất ('xe đạp điện' -> 'xe-ap-ien')."""
-    return re.sub(r"\s+", "-", _norm(title))[:80].strip("-")
 
 
 def read_csv(p: Path) -> list[dict]:
@@ -124,15 +109,8 @@ def stale_level(sig: list[str]) -> str:
 
 def slug_d_stripped(row: dict, matrix_title: str) -> bool:
     """FACT: slug thật của URL khác slug đúng và KHỚP TUYỆT ĐỐI với slug cũ (đ bị xóa) tính từ tiêu đề matrix."""
-    title = matrix_title or row.get("title", "")
-    if "đ" not in title.lower():
-        return False
-    old, right = slug_old(title), slug_correct(title)
-    if old == right:
-        return False  # chữ đ nằm sau đoạn bị cắt 80 ký tự: URL không bị ảnh hưởng
     slug = unquote(row["url"].rstrip("/").rsplit("/", 1)[-1])
-    slug = re.sub(r"^\d{4}-\d{2}-\d{2}-", "", slug)  # một số bài legacy có tiền tố ngày trong slug
-    return slug == old
+    return is_d_stripped(matrix_title or row.get("title", ""), slug)
 
 
 def main() -> int:

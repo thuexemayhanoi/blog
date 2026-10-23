@@ -1,0 +1,35 @@
+{
+  "affected_urls": 1410,
+  "blockers": [
+    "BLOCKED_INFRA_301",
+    "BLOCKED_NO_EVIDENCE_REVISION_PATH"
+  ],
+  "by_parent": {
+    "P-CUNG-DUONG": 187,
+    "P-DU-LICH": 222,
+    "P-HOI-DAP": 91,
+    "P-KY-NANG": 218,
+    "P-PHAP-LY": 71,
+    "P-THUE-XE": 299,
+    "P-XE-MAY": 322
+  },
+  "collision_flags": {},
+  "distinct_other_posts_to_edit_for_links": 2223,
+  "inbound_post_refs_total": 3818,
+  "leased_ids": 0,
+  "migration_ready": 0,
+  "planned_rows": 65,
+  "planned_rows_slug_wrong": 0,
+  "planned_rows_with_d_in_title": 56,
+  "published_evidence_state_all": {
+    "DRIFT_CONTENT_SHA": 1068,
+    "yes": 4525
+  },
+  "published_posts_in_matrix": 5593,
+  "qa_evidence_intact": {
+    "DRIFT_CONTENT_SHA": 686,
+    "yes": 724
+  },
+  "urls_with_inbound_other": 85,
+  "urls_with_inbound_posts": 1031
+}
