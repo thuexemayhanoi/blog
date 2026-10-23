@@ -184,13 +184,14 @@ def old_slugify(title):
 class TestReslugFlag(unittest.TestCase):
     """--reslug-planned-after: một lần, có kiểm soát, fail-closed (chạy trên bản sao, production không bị đụng).
 
-    Matrix thật đã được re-slug bằng đợt riêng (PR #21) nên KHÔNG còn hàng PLANNED slug cũ-lỗi để thử cờ; và registry thật
-    đổi theo tiến độ factory. Vì vậy fixture được DỰNG LẠI trên bản sao: (1) ranh giới = lease lớn nhất của registry bản sao
-    + 100 (luôn >= +40 theo đúng luật của công cụ), (2) hàng PLANNED sau ranh giới có chữ đ lấy lại slug CŨ (đã mất đ) —
-    đúng trạng thái trước migration. Không test nào còn phụ thuộc vào việc matrix thật có/không còn hàng lỗi."""
+    Matrix thật đã được re-slug, nên fixture dựng lại trên bản sao.
+    Tránh phụ thuộc lease BLG-06xxx của production (hàng PLANNED thường
+    nằm trước lease): thay registry CHỈ trong bản sao bằng lease tổng hợp BLG-00500,
+    đặt boundary BLG-00550 (> lease + 40), rồi degrade các hàng PLANNED
+    có chữ đ sau boundary. Production và trạng thái writer thật không bị đụng."""
 
-    BOUNDARY = 'BLG-02600'   # ghi đè ở setUpClass theo registry bản sao (giá trị này chỉ là mặc định)
-    MIN_DEGRADED = 10
+    BOUNDARY = 'BLG-00550'   # boundary hợp lệ cách lease tổng hợp BLG-00500 >= 40
+    MIN_DEGRADED = 5
 
     @staticmethod
     def _csv_write(path, fieldnames, rows):
@@ -205,11 +206,15 @@ class TestReslugFlag(unittest.TestCase):
         cls.base.setUpClass()
         cls.work, cls.matrix = cls.base.work, cls.base.matrix
         cls.registry = os.path.join(cls.work, 'data/state/writer-claims.json')
+        with open(cls.registry, encoding='utf-8') as f:
+            reg = json.load(f)
+        # Isolate the safety-margin test from production lease movement.
+        # All writes occur only in TestGeneratorInvariant's temporary copy.
+        reg['leases'] = {'W1': {'ids': ['BLG-00500']}}
+        with open(cls.registry, 'w', encoding='utf-8') as f:
+            json.dump(reg, f, ensure_ascii=False)
         with open(cls.registry, 'rb') as f:
             cls.registry_before = f.read()
-        reg = json.loads(cls.registry_before.decode('utf-8'))
-        leased = [int(i[4:]) for lease in (reg.get('leases') or {}).values() for i in (lease.get('ids') or [])]
-        cls.BOUNDARY = 'BLG-%05d' % (max(leased + [2504]) + 100)
         cls._degrade_far_planned_rows()
 
     @classmethod
@@ -297,7 +302,7 @@ class TestReslugFlag(unittest.TestCase):
         self.assertEqual(self.matrix_bytes(), first, 'tái sinh thường sau khi sửa slug không được đổi gì (slug mới được giữ)')
 
     def test_refuses_boundary_too_close_to_lease(self):
-        r = self.run_gen('--reslug-planned-after', 'BLG-02490')
+        r = self.run_gen('--reslug-planned-after', 'BLG-00505')
         self.assertNotEqual(r.returncode, 0)
         self.assertIn('FAIL-CLOSED', r.stdout + r.stderr)
         self.assertEqual(self.matrix_bytes(), self.base.matrix_before)
