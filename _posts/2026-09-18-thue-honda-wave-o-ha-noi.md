@@ -27,7 +27,7 @@ Thứ hai, độ bền. Kết cấu đơn giản, ít linh kiện điện tử, 
 
 Thứ ba, dễ lái. Xe số với côn chân nhịp nhàng, người quen xe số lái Wave ngay lập tức, người mới cũng làm quen nhanh. Cần số nhẹ, ga êm, phanh vừa đủ lực, không có gì khó làm chủ trong buổi đầu tiên.
 
-Giá theo tuần và theo tháng của Wave được xác nhận trực tiếp với cửa hàng tùy thời điểm và thời gian thuê, bạn có thể hỏi qua Zalo 0942 467 674. Để so sánh với các dòng khác trước khi quyết định, trang [bảng giá thuê xe máy]( {{ '/bang-gia/' | relative_url }} ) liệt kê đầy đủ các mức theo ngày, tuần, tháng.
+Giá tham khảo của Wave theo tuần là 700.000đ và theo tháng từ 900.000đ đến 1.200.000đ, tùy thời điểm và thời gian thuê; bạn nên xác nhận lại qua Zalo 0942 467 674 trước khi đặt xe. Để so sánh với các dòng khác trước khi quyết định, trang [bảng giá thuê xe máy]( {{ '/bang-gia/' | relative_url }} ) liệt kê đầy đủ các mức theo ngày, tuần, tháng.
 
 ## Wave hợp với ai
 

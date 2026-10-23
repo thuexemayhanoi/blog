@@ -15,7 +15,7 @@ Mười phút hỏi kỹ trước khi đặt cọc có giá trị bằng hàng g
 
 ## Nhóm câu hỏi về giá và các khoản tiền
 
-Câu đầu tiên luôn là giá chính xác cho thời gian thuê của bạn. Đừng lấy mức giá chung chung trên mạng nhân với số ngày: hãy hỏi giá theo đúng gói, theo ngày, theo tuần hay theo tháng, vì đơn giá thay đổi giữa các gói. Ví dụ, dòng Vision thường có giá tham khảo khoảng 200.000đ một ngày nhưng gói tuần từ 800.000đ đến 1.000.000đ, nghĩa là thuê bảy ngày theo gói rẻ hơn rõ rệt so với bảy ngày tính lẻ. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
+Câu đầu tiên luôn là giá chính xác cho thời gian thuê của bạn. Đừng lấy mức giá chung chung trên mạng nhân với số ngày: hãy hỏi giá theo đúng gói, theo ngày, theo tuần hay theo tháng, vì đơn giá thay đổi giữa các gói. Ví dụ, dòng Vision thường có giá tham khảo khoảng 200.000đ một ngày nhưng gói tuần 1.000.000đ, nghĩa là thuê bảy ngày theo gói rẻ hơn rõ rệt so với bảy ngày tính lẻ. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
 Câu thứ hai là mức cọc và cách hoàn trả: cọc bao nhiêu, nhận lại ngay khi trả xe hay sau vài ngày, và cần giữ những gì làm căn cứ. Mức đặt cọc thông thường dao động từ 2.000.000đ đến 5.000.000đ tùy dòng xe và từng trường hợp cụ thể. Câu thứ ba là các khoản có thể phát sinh: phí khi trả quá giờ được tính thế nào, có phí giao xe tận nơi không và bao nhiêu cho địa chỉ của bạn. Mỗi câu trả lời rõ ràng giúp bạn loại bỏ một bất ngờ tiềm ẩn.
 

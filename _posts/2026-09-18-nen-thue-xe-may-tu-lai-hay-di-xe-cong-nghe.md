@@ -21,7 +21,7 @@ Thuê xe tự lái là bạn nhận một chiếc xe máy ở cửa hàng, tự 
 
 ## So sánh chi phí theo tần suất
 
-Chi phí thuê xe tham khảo hiện nay: dòng xe số như Honda Wave khoảng 150.000đ mỗi ngày; Honda Click hoặc Yamaha Mio khoảng 150.000đ mỗi ngày; Honda Vision và Honda Air Blade khoảng 200.000đ mỗi ngày. Theo tuần, Click hoặc Mio khoảng 600.000đ đến 700.000đ, Vision khoảng 800.000đ đến 1.000.000đ. Chi tiết đầy đủ nằm trong trang [bảng giá thuê xe máy]( {{ '/bang-gia/' | relative_url }} ).
+Chi phí thuê xe tham khảo hiện nay: dòng xe số như Honda Wave khoảng 150.000đ mỗi ngày; Honda Click hoặc Yamaha Mio khoảng 150.000đ mỗi ngày; Honda Vision và Honda Air Blade khoảng 200.000đ mỗi ngày. Theo tuần, Click hoặc Mio khoảng 700.000đ, Vision khoảng 1.000.000đ. Chi tiết đầy đủ nằm trong trang [bảng giá thuê xe máy]( {{ '/bang-gia/' | relative_url }} ).
 
 Giá xe công nghệ không cố định, dao động theo giờ, quãng đường và thời tiết, vì vậy bạn cần tự kiểm tra trong ứng dụng tại thời điểm đi. Tuy nhiên có thể ước lượng theo cấu trúc: với người chỉ đi lại ba, bốn chuyến ngắn rải rác trong tuần, tổng tiền xe công nghệ thường thấp hơn hoặc tương đương tiền thuê xe một ngày cộng tiền xăng. Với người di chuyển hằng ngày, hai buổi sáng chiều, nhiều chặng mỗi ngày, thuê xe tự lái gần như luôn rẻ hơn rõ rệt.
 

@@ -25,7 +25,7 @@ Cuối cùng, hãy chạy thử vào đúng khung giờ bạn sẽ đi thật. T
 
 Xe đi làm mỗi ngày khác xe đi chơi cuối tuần ở ba tiêu chí: chắc chắn, dễ luồn lách hợp lý, và tiết kiệm khi dùng với tần suất cao. Với người mới, xe tay ga nhẹ như Vision hay Click dễ làm quen vì không cần về số, còn xe số như Wave gọn và bền cho đường đông. Nếu bạn chưa chắc loại nào hợp, bài so sánh giữa xe số, xe ga và xe 50cc trình bày chi tiết ưu nhược điểm từng dòng chođường sá đô thị.
 
-Với kỳ thuê dài, giá thuê theo tháng thường rẻ hơn rất nhiều so với nhân gói ngày lên ba mươi. Ví dụ dòng Vision có gói tháng 1.800.000đ đến 2.000.000đ trong khi gói ngày là 200.000đ, hay Air Blade gói tháng 1.400.000đ so với 200.000đ mỗi ngày. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe. Với người mới đến chưa ổn định chỗ ở, thuê theo tuần rồi chuyển lên gói tháng khi đã chắc chắn là cách không bị khóa vốn.
+Với kỳ thuê dài, giá thuê theo tháng thường rẻ hơn rất nhiều so với nhân gói ngày lên ba mươi. Ví dụ dòng Vision có gói tháng 1.800.000đ đến 2.000.000đ trong khi gói ngày là 200.000đ, hay Air Blade gói tháng 1.500.000đ so với 200.000đ mỗi ngày. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe. Với người mới đến chưa ổn định chỗ ở, thuê theo tuần rồi chuyển lên gói tháng khi đã chắc chắn là cách không bị khóa vốn.
 
 ## Xây dựng tuyến cố định và thói quen kiểm tra
 

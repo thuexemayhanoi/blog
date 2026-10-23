@@ -32,7 +32,7 @@ Về mùa, Hà Nội đẹp nhất cho chạy xe vào thu và xuân. Mùa hè c�
 
 ## Kỳ thuê tuần và cách quản lý chi phí
 
-Với bảy ngày, thuê theo gói tuần gần như luôn hợp lý hơn gói ngày nhân bảy. Ví dụ dòng Vision có gói tuần 800.000đ đến 1.000.000đ so với 200.000đ mỗi ngày, dòng Air Blade 800.000đ một tuần, hay dòng Click và Mio 600.000đ đến 700.000đ một tuần. Riêng dòng Honda Wave chỉ có gói ngày 150.000đ và chưa có gói tuần, nên nếu định thuê Wave bảy ngày, hãy trao đổi trực tiếp với cửa hàng về phương án tính giá phù hợp. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
+Với bảy ngày, thuê theo gói tuần gần như luôn hợp lý hơn gói ngày nhân bảy. Ví dụ dòng Vision có gói tuần 1.000.000đ so với 200.000đ mỗi ngày, dòng Air Blade 1.000.000đ một tuần, hay dòng Click và Mio 700.000đ một tuần. Dòng Honda Wave có mức tham khảo 150.000đ mỗi ngày và 700.000đ một tuần, nên thuê Wave bảy ngày theo gói tuần cũng rẻ hơn cộng bảy mức giá ngày. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
 Lưu ý về tiền đặt cọc: khoản cọc thông thường dao động từ 2.000.000đ đến 5.000.000đ tùy dòng xe và từng trường hợp, và sẽ được hoàn khi trả xe đúng trạng thái. Hãy chuẩn bị sẵn khoản này bằng hình thức thanh toán được cửa hàng chấp nhận, để buổi nhận xe nhanh gọn.
 

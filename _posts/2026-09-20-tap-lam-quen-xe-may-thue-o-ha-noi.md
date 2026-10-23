@@ -3,7 +3,7 @@ date: 2026-09-20 01:10:00 +0700
 layout: post
 title: "Tập làm quen với xe máy thuê ở Hà Nội cho người lâu không chạy"
 author: "Nguyễn Tú"
-description: "Hướng dẫn tập làm quen lại với xe máy thuê cho người lâu năm không chạy hoặc lần đầu chạy xe ga: chọn địa điểm tập, các bài tập phản xạ cơ bản, lộ trình tăng dần độ khó và thời điểm an toàn để lên đường thật."
+description: "Cách tập làm quen lại với xe máy thuê cho người lâu năm không chạy hoặc lần đầu chạy xe ga: chọn chỗ tập, bài tập phản xạ cơ bản, lộ trình tăng dần độ khó."
 categories: [Kinh nghiệm]
 lang: vi
 tags: [tập chạy xe máy, làm quen xe ga, lâu không chạy xe, rèn phản xạ lái xe, người mới chạy xe ở Hà Nội]

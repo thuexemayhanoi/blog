@@ -23,7 +23,7 @@ Về trang phục, cho trẻ mặc lớp gọn gàng, không có dây đeo lỏn
 
 ## Chọn xe khi đi cùng trẻ
 
-Với trẻ nhỏ cần ghế chuyên dụng, xe tay ga thường thuận tiện hơn: sàn phẳng, khung xe to chắc, và gia đình hay chọn các dòng phổ thông như Vision hoặc Air Blade. Dòng Vision thường có giá tham khảo khoảng 200.000đ một ngày, gói tuần từ 800.000đ đến 1.000.000đ. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
+Với trẻ nhỏ cần ghế chuyên dụng, xe tay ga thường thuận tiện hơn: sàn phẳng, khung xe to chắc, và gia đình hay chọn các dòng phổ thông như Vision hoặc Air Blade. Dòng Vision thường có giá tham khảo khoảng 200.000đ một ngày, gói tuần 1.000.000đ. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
 Yên xe êm và đủ dài là tiêu chí đáng chú ý tiếp theo: trẻ ngồi sau cần không gian đủ cho ghế chuyên dụng hoặc cho chính em ngồi thoải mái khi đã lớn. Phanh xe nhạy bén quan trọng hơn bình thường, vì xe chở trẻ cần mọi dừng lại đều nhẹ nhàng và chủ động. Khi nhận xe, hãy thử phanh kỹ và yêu cầu khắc phục ngay nếu phanh không đạt.
 

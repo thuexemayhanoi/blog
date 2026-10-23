@@ -49,7 +49,7 @@ Khi bay về, hãy sắp xếp trả xe trước giờ bay ít nhất bốn ti�
 
 Ngoài tiền thuê xe và cọc, hãy dự trù chi phí di chuyển từ sân bay vào trung tâm cho từng phương án, chi phí xăng cho các ngày đi lại, phí gửi xe ở các điểm tham quan, và một khoản dự phòng nhỏ cho các tình huống phát sinh như mưa lớn hoặc đổi lịch trình. Với xe máy phổ thông, chi phí xăng đi lại trong nội thành mỗi ngày thường khiêm tốn, khoảng 20.000đ đến 50.000đ tùy cường độ di chuyển.
 
-Về giá thuê, dòng xe số như Wave thường có giá tham khảo khoảng 150.000đ một ngày. Dòng Vision thường khoảng 200.000đ một ngày, gói tuần từ 800.000đ đến 1.000.000đ. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
+Về giá thuê, dòng xe số như Wave thường có giá tham khảo khoảng 150.000đ một ngày. Dòng Vision thường khoảng 200.000đ một ngày, gói tuần 1.000.000đ. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
 Nếu bạn đi nhóm, việc thuê hai chiếc xe số thay vì một chiếc xe to chở hai người thường thoải mái và linh hoạt hơn, đặc biệt khi hai người có thể muốn tách nhau tham quan trong một số khung giờ. Kinh nghiệm chọn dòng xe theo nhu cầu được trình bày chi tiết trong bài so sánh [xe số, xe tay ga và xe 50cc]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/).
 
