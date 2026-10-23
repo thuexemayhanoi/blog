@@ -117,6 +117,7 @@ Ba đường, theo thứ tự ưu tiên; không đường nào sửa tay `_posts
 
 1. **Bài legacy** (không có `data/qa/<ID>.json`: EXISTING/REVIEW): sửa trực tiếp trong PR (đã làm cho giá tuần/tháng, 4 meta quá dài, tham chiếu Thông tư 108/2026).
 2. **Bài factory có evidence nguyên vẹn**: `scripts/factory/revise-published.py` (`docs/REVISE-PUBLISHED.md`) — sửa nhẹ + chấm lại độc lập + evidence mới có provenance + sao lưu byte-exact; mỗi lô ≤ 50 bài là một PR riêng, Quality gate verify lại sao lưu.
+   Đợt 2 (23/10/2026) đã áp dụng 6 lô: 1 lô pháp lý (3 bài) và 5 lô giá tuần/tháng (213 bài, 464 cặp old→new); số liệu từng PR ở `reports/factory/seo-master/deployment-verification.md`.
 3. **Bài factory có evidence đã lệch hash do đổi domain**: chưa sửa được. Cần `reattest-legacy-qa.py apply` có chủ duyệt (AGENTS.md: writer không tự `apply`).
    Kế hoạch `plan` cho 81 bài cần sửa nội dung (giá hoặc pháp lý) cho thấy 28 bài đủ điều kiện reattest ngay, 52 bài rớt QA hiện tại vì còn số tiền cũ
    nên `reattest` từ chối (`FRESH_QA_FAILED`) trong khi `revise` từ chối vì evidence không nguyên vẹn — cần chủ duyệt một đường gộp (reattest + sửa trong cùng giao dịch)
