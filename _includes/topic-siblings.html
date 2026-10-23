@@ -1,0 +1,17 @@
+{%- comment -%}
+Liên kết ngữ cảnh giữa các bài CÙNG từ khóa chính (cannibalization_key) nhưng nằm ở cụm khác nhau, hai chiều.
+Dữ liệu: _data/seo-topic-links.json (sinh bởi scripts/seo/build-topic-links.py, khóa = URL bài, KHÔNG sửa tay).
+Trang không có trong dữ liệu => không in gì. Anchor = tiêu đề thật của bài đích; không tự link; không nêu bài nào là "chủ lực".
+Chi phí O(1) mỗi trang (tra khóa), không quét site.posts.
+{%- endcomment -%}
+{%- assign ts_data = site.data.seo-topic-links[page.url] -%}
+{%- if ts_data and ts_data.links.size > 0 -%}
+<aside class="topic-siblings" aria-labelledby="topic-siblings-heading">
+  <h2 id="topic-siblings-heading">Cùng chủ đề trong cẩm nang</h2>
+  <ul>
+    {%- for ts_link in ts_data.links %}
+    <li><a href="{{ ts_link.url | relative_url }}">{{ ts_link.title }}</a></li>
+    {%- endfor %}
+  </ul>
+</aside>
+{%- endif -%}

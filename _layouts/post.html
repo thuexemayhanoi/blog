@@ -58,6 +58,8 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
   </header>
 
   <div class="container">
+    {%- comment -%} Đính chính pháp lý cho bài chưa sửa được nội dung gốc: _data/legal-notices.json; không có dữ liệu => không in gì. {%- endcomment -%}
+    {% include legal-notice.html %}
     {% if art_h2_count >= 4 %}
     <nav class="article-toc" aria-label="Mục lục">
       <details open>
@@ -86,6 +88,9 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
 
     {%- comment -%} FAQ dùng chung (_data/faq/<slug>.json); không có dữ liệu => không in gì. {%- endcomment -%}
     {% include faq.html key=page.slug %}
+
+    {%- comment -%} Bài cùng từ khóa chính ở cụm khác (cannibalization): liên kết hai chiều từ _data/seo-topic-links.json; không có dữ liệu => không in gì. {%- endcomment -%}
+    {% include topic-siblings.html %}
 
     <div class="post-navigation">
       {%- comment -%}

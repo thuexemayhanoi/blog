@@ -1951,6 +1951,34 @@
   text-decoration: underline;
 }
 
+/* Lưu ý cập nhật pháp lý (đính chính ở đầu bài, dữ liệu tách rời khỏi nội dung bài) */
+.legal-notice {
+  max-width: 760px;
+  margin: var(--spacing-lg) auto;
+  padding: var(--spacing-md);
+  border: 1px solid var(--color-border-dark);
+  border-left-width: 4px;
+  border-radius: var(--radius-md);
+}
+
+.legal-notice h2 {
+  font-size: var(--font-size-lg);
+  margin: 0 0 var(--spacing-xs);
+}
+
+.legal-notice p {
+  margin: 0 0 var(--spacing-xs);
+}
+
+.legal-notice ul {
+  margin: 0;
+  padding-left: 1.25em;
+}
+
+.legal-notice li {
+  margin-bottom: var(--spacing-xs);
+}
+
 /* Bài viết liên quan */
 .article-related {
   max-width: 760px;
@@ -1978,6 +2006,29 @@
   font-size: var(--font-size-xs);
   color: var(--color-text-secondary);
   margin: 0 0 var(--spacing-xs);
+}
+
+/* Cùng chủ đề (bài cùng từ khóa chính ở cụm khác): danh sách chữ gọn, cùng bề rộng với bài liên quan */
+.topic-siblings {
+  max-width: 760px;
+  margin: var(--spacing-lg) auto;
+  padding: var(--spacing-md);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+}
+
+.topic-siblings h2 {
+  font-size: var(--font-size-lg);
+  margin: 0 0 var(--spacing-xs);
+}
+
+.topic-siblings ul {
+  margin: 0;
+  padding-left: 1.25em;
+}
+
+.topic-siblings li {
+  margin-bottom: var(--spacing-xs);
 }
 
 /* Điều hướng bài trước/sau */

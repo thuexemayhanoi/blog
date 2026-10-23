@@ -1,0 +1,1105 @@
+{
+ "_meta": {
+  "schema": "seo-topic-links/1",
+  "groups": 49,
+  "posts": 107,
+  "max_links": 3,
+  "source": "data/content-matrix.csv (cannibalization_key) + _posts front matter",
+  "note": "Sinh bởi scripts/seo/build-topic-links.py — KHÔNG sửa tay. Khóa = URL thật của bài."
+ },
+ "/an-toan-phap-ly/2026/10/09/kiem-tra-phat-nguoi-xe-thue-truoc-khi-nhan-co-can-khong/": {
+  "group": "phat nguoi xe may thue",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/14/nhan-thong-bao-phat-nguoi-sau-khi-da-tra-xe-thue-xac-minh-loi-vi-pham-va-phoi-ho/",
+    "title": "Nhận thông báo phạt nguội sau khi đã trả xe thuê: xác minh lỗi vi phạm và phối hợp với cửa hàng"
+   }
+  ]
+ },
+ "/an-toan-phap-ly/2026/10/15/di-xe-may-khong-chinh-chu-o-ha-noi-nguoi-thue-nguoi-muon-xe-co-bi-xu-phat-khong/": {
+  "group": "i xe khong chinh chu",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/15/xe-may-thue-dung-ten-chu-xe-khong-phai-ten-minh-khach-quoc-te-co-can-giay-uy-quy/",
+    "title": "Xe máy thuê đứng tên chủ xe, không phải tên mình: khách quốc tế có cần giấy ủy quyền khi bị kiểm tra"
+   }
+  ]
+ },
+ "/an-toan-phap-ly/2026/10/15/tich-hop-giay-phep-lai-xe-vao-vneid-cac-buoc-lam-va-cach-kiem-tra-thong-tin-hang/": {
+  "group": "tich hop bang lai vao vneid",
+  "links": [
+   {
+    "url": "/an-toan-phap-ly/2026/10/16/tich-hop-giay-phep-lai-xe-vao-vneid-cac-buoc-lam-truoc-khi-di-xe-may-o-ha-noi/",
+    "title": "Tích hợp giấy phép lái xe vào VNeID: các bước làm trước khi đi xe máy ở Hà Nội"
+   }
+  ]
+ },
+ "/an-toan-phap-ly/2026/10/15/va-cham-lien-hoan-nhieu-xe-may-tren-cau-duong-vanh-dai-ha-noi-bao-hiem-tnds-cua/": {
+  "group": "va cham lien hoan xe may",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/15/va-cham-lien-hoan-nhieu-xe-may-khi-ca-dong-xe-phanh-gap-chup-vi-tri-tung-xe-truo/",
+    "title": "Va chạm liên hoàn nhiều xe máy khi cả dòng xe phanh gấp: chụp vị trí từng xe trước khi dời và báo cửa hàng"
+   }
+  ]
+ },
+ "/an-toan-phap-ly/2026/10/16/den-do-co-duoc-re-phai-bang-xe-may-khong-mui-ten-xanh-bien-phu-va-vach-mat-vong/": {
+  "group": "en o co uoc re phai",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/15/den-do-co-duoc-re-phai-khong-khach-quoc-te-quen-luat-nuoc-minh-can-biet-gi-khi-c/",
+    "title": "Đèn đỏ có được rẽ phải không: khách quốc tế quen luật nước mình cần biết gì khi chạy xe máy ở Hà Nội"
+   }
+  ]
+ },
+ "/an-toan-phap-ly/2026/10/16/tich-hop-giay-phep-lai-xe-vao-vneid-cac-buoc-lam-truoc-khi-di-xe-may-o-ha-noi/": {
+  "group": "tich hop bang lai vao vneid",
+  "links": [
+   {
+    "url": "/an-toan-phap-ly/2026/10/15/tich-hop-giay-phep-lai-xe-vao-vneid-cac-buoc-lam-va-cach-kiem-tra-thong-tin-hang/",
+    "title": "Tích hợp giấy phép lái xe vào VNeID: các bước làm và cách kiểm tra thông tin hạng bằng hiển thị"
+   }
+  ]
+ },
+ "/cung-duong/2026/09/28/chua-huong-bang-xe-may-tu-ha-noi-chuan-bi-truoc-khi-i/": {
+  "group": "i chua huong bang xe may",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/14/mot-ngay-di-chua-huong-bang-xe-may-thue-duong-qua-ha-dong-my-duc-cho-gui-xe-va-g/",
+    "title": "Một ngày đi Chùa Hương bằng xe máy thuê: đường qua Hà Đông, Mỹ Đức, chỗ gửi xe và giờ xuất phát"
+   }
+  ]
+ },
+ "/cung-duong/2026/10/01/i-cong-vien-yen-so-bang-xe-may-cho-o-xe-va-uong-vao/": {
+  "group": "i cong vien yen so bang xe may",
+  "links": [
+   {
+    "url": "/du-lich/2026/10/04/en-cong-vien-yen-so-bang-xe-may-gui-xe-va-uong-i/",
+    "title": "Đến Công viên Yên Sở bằng xe máy: gửi xe và đường đi"
+   }
+  ]
+ },
+ "/cung-duong/2026/10/01/i-o-son-bang-xe-may-tu-ha-noi-cung-uong-ven-bien/": {
+  "group": "i o son bang xe may",
+  "links": [
+   {
+    "url": "/cung-duong/2026/10/04/i-bien-o-son-bang-xe-may-tu-ha-noi-cung-uong-va-iem-nghi/",
+    "title": "Đi biển Đồ Sơn bằng xe máy từ Hà Nội: cung đường và điểm nghỉ"
+   }
+  ]
+ },
+ "/cung-duong/2026/10/04/i-bien-o-son-bang-xe-may-tu-ha-noi-cung-uong-va-iem-nghi/": {
+  "group": "i o son bang xe may",
+  "links": [
+   {
+    "url": "/cung-duong/2026/10/01/i-o-son-bang-xe-may-tu-ha-noi-cung-uong-ven-bien/",
+    "title": "Đi Đồ Sơn bằng xe máy từ Hà Nội: cung đường ven biển"
+   }
+  ]
+ },
+ "/cung-duong/2026/10/10/chay-xe-quanh-ho-linh-am-sang-som-cung-uong-ngan-trong-thanh-pho/": {
+  "group": "chay xe quanh ho linh am",
+  "links": [
+   {
+    "url": "/du-lich/2026/10/04/chay-xe-quanh-ho-linh-am-buoi-chieu-va-cho-e-xe/",
+    "title": "Chạy xe quanh hồ Linh Đàm buổi chiều và chỗ để xe"
+   }
+  ]
+ },
+ "/cung-duong/2026/10/16/den-ba-chua-kho-bang-xe-may-dau-nam-chon-ngay-vang-gui-xe-va-giu-do-luc-dong-ngu/": {
+  "group": "en ba chua kho bang xe may",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/15/di-le-den-ba-chua-kho-thang-gieng-bang-honda-air-blade-thue-gio-tranh-dong-gui-x/",
+    "title": "Đi lễ đền Bà Chúa Kho tháng Giêng bằng Honda Air Blade thuê: giờ tránh đông, gửi xe và giữ đồ lễ"
+   }
+  ]
+ },
+ "/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/": {
+  "group": "i ba vi bang xe may",
+  "links": [
+   {
+    "url": "/du-lich/2026/10/01/ba-vi-bang-xe-may-eo-len-cao-va-iem-nghi/",
+    "title": "Ba Vì bằng xe máy: đèo lên cao và điểm nghỉ"
+   }
+  ]
+ },
+ "/du-lich/2026/09/28/cau-long-bien-va-uong-ven-song-trai-nghiem-i-xe-may/": {
+  "group": "cau long bien i xe may",
+  "links": [
+   {
+    "url": "/du-lich/2026/10/15/tu-pho-co-len-cau-long-bien-bang-xe-may-loi-len-cau-cho-long-bien-va-cho-dung-ch/",
+    "title": "Từ phố cổ lên cầu Long Biên bằng xe máy: lối lên cầu, chợ Long Biên và chỗ dừng chụp ảnh"
+   }
+  ]
+ },
+ "/du-lich/2026/09/28/ghe-bao-tang-ha-noi-bang-xe-may-giu-xe-o-au/": {
+  "group": "bao tang ha noi i xe may",
+  "links": [
+   {
+    "url": "/du-lich/2026/10/10/ghe-bao-tang-trong-trung-tam-ha-noi-bang-xe-may/",
+    "title": "Ghé bảo tàng trong trung tâm Hà Nội bằng xe máy"
+   }
+  ]
+ },
+ "/du-lich/2026/09/30/i-xe-may-qua-cau-long-bien-luc-nao-ep-nhat/": {
+  "group": "i xe may qua cau long bien",
+  "links": [
+   {
+    "url": "/ky-nang/2026/10/15/di-xe-may-qua-cau-long-bien-mat-cau-hep-khe-noi-va-giu-lai-thang-khi-dong-xe/",
+    "title": "Đi xe máy qua cầu Long Biên: mặt cầu hẹp, khe nối và giữ lái thẳng khi đông xe"
+   }
+  ]
+ },
+ "/du-lich/2026/10/01/ba-vi-bang-xe-may-eo-len-cao-va-iem-nghi/": {
+  "group": "i ba vi bang xe may",
+  "links": [
+   {
+    "url": "/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/",
+    "title": "Ba Vì nửa ngày bằng xe máy từ Hà Nội"
+   }
+  ]
+ },
+ "/du-lich/2026/10/01/i-thanh-co-loa-bang-xe-may-cung-uong-va-luu-y-chay-xe/": {
+  "group": "i thanh co loa bang xe may",
+  "links": [
+   {
+    "url": "/du-lich/2026/10/11/thanh-co-loa-bang-xe-may-tu-noi-thanh-uong-i-va-nen-ghe-nhung-iem-nao/",
+    "title": "Thành Cổ Loa bằng xe máy từ nội thành: đường đi và nên ghé những điểm nào"
+   },
+   {
+    "url": "/du-lich/2026/10/13/co-loa-bang-xe-may-tu-noi-thanh-toi-khu-di-tich-di-duong-nao-va-ghe-diem-nao/",
+    "title": "Cổ Loa bằng xe máy: từ nội thành tới khu di tích, đi đường nào và ghé điểm nào"
+   }
+  ]
+ },
+ "/du-lich/2026/10/04/chay-xe-quanh-ho-linh-am-buoi-chieu-va-cho-e-xe/": {
+  "group": "chay xe quanh ho linh am",
+  "links": [
+   {
+    "url": "/cung-duong/2026/10/10/chay-xe-quanh-ho-linh-am-sang-som-cung-uong-ngan-trong-thanh-pho/",
+    "title": "Chạy xe quanh hồ Linh Đàm sáng sớm: cung đường ngắn trong thành phố"
+   }
+  ]
+ },
+ "/du-lich/2026/10/04/en-cong-vien-yen-so-bang-xe-may-gui-xe-va-uong-i/": {
+  "group": "i cong vien yen so bang xe may",
+  "links": [
+   {
+    "url": "/cung-duong/2026/10/01/i-cong-vien-yen-so-bang-xe-may-cho-o-xe-va-uong-vao/",
+    "title": "Đi công viên Yên Sở bằng xe máy: chỗ đỗ xe và đường vào"
+   }
+  ]
+ },
+ "/du-lich/2026/10/09/pho-i-bo-ho-guom-cuoi-tuan-xe-may-gui-o-au/": {
+  "group": "gui xe pho i bo ho guom",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/14/thue-xe-may-buoi-toi-cuoi-tuan-di-pho-di-bo-ho-guom-gui-xe-o-dau-va-tranh-cac-tu/",
+    "title": "Thuê xe máy buổi tối cuối tuần đi phố đi bộ Hồ Gươm: gửi xe ở đâu và tránh các tuyến cấm"
+   }
+  ]
+ },
+ "/du-lich/2026/10/10/ghe-bao-tang-trong-trung-tam-ha-noi-bang-xe-may/": {
+  "group": "bao tang ha noi i xe may",
+  "links": [
+   {
+    "url": "/du-lich/2026/09/28/ghe-bao-tang-ha-noi-bang-xe-may-giu-xe-o-au/",
+    "title": "Ghé bảo tàng Hà Nội bằng xe máy: giữ xe ở đâu"
+   }
+  ]
+ },
+ "/du-lich/2026/10/11/thanh-co-loa-bang-xe-may-tu-noi-thanh-uong-i-va-nen-ghe-nhung-iem-nao/": {
+  "group": "i thanh co loa bang xe may",
+  "links": [
+   {
+    "url": "/du-lich/2026/10/13/co-loa-bang-xe-may-tu-noi-thanh-toi-khu-di-tich-di-duong-nao-va-ghe-diem-nao/",
+    "title": "Cổ Loa bằng xe máy: từ nội thành tới khu di tích, đi đường nào và ghé điểm nào"
+   },
+   {
+    "url": "/du-lich/2026/10/01/i-thanh-co-loa-bang-xe-may-cung-uong-va-luu-y-chay-xe/",
+    "title": "Đi thành Cổ Loa bằng xe máy: cung đường và lưu ý chạy xe"
+   }
+  ]
+ },
+ "/du-lich/2026/10/13/co-loa-bang-xe-may-tu-noi-thanh-toi-khu-di-tich-di-duong-nao-va-ghe-diem-nao/": {
+  "group": "i thanh co loa bang xe may",
+  "links": [
+   {
+    "url": "/du-lich/2026/10/11/thanh-co-loa-bang-xe-may-tu-noi-thanh-uong-i-va-nen-ghe-nhung-iem-nao/",
+    "title": "Thành Cổ Loa bằng xe máy từ nội thành: đường đi và nên ghé những điểm nào"
+   },
+   {
+    "url": "/du-lich/2026/10/01/i-thanh-co-loa-bang-xe-may-cung-uong-va-luu-y-chay-xe/",
+    "title": "Đi thành Cổ Loa bằng xe máy: cung đường và lưu ý chạy xe"
+   }
+  ]
+ },
+ "/du-lich/2026/10/13/den-di-tich-nha-tu-hoa-lo-bang-xe-may-duong-vao-khu-pho-cu-va-cho-dung-xe/": {
+  "group": "nha tu hoa lo i xe may",
+  "links": [
+   {
+    "url": "/du-lich/2026/10/15/nha-tu-hoa-lo-bang-xe-may-di-tu-pho-co-gui-xe-va-nen-danh-bao-lau-de-tham-quan/",
+    "title": "Nhà tù Hỏa Lò bằng xe máy: đi từ phố cổ, gửi xe và nên dành bao lâu để tham quan"
+   }
+  ]
+ },
+ "/du-lich/2026/10/15/nha-tu-hoa-lo-bang-xe-may-di-tu-pho-co-gui-xe-va-nen-danh-bao-lau-de-tham-quan/": {
+  "group": "nha tu hoa lo i xe may",
+  "links": [
+   {
+    "url": "/du-lich/2026/10/13/den-di-tich-nha-tu-hoa-lo-bang-xe-may-duong-vao-khu-pho-cu-va-cho-dung-xe/",
+    "title": "Đến Di tích Nhà tù Hỏa Lò bằng xe máy: đường vào khu phố cũ và chỗ dừng xe"
+   }
+  ]
+ },
+ "/du-lich/2026/10/15/tu-pho-co-len-cau-long-bien-bang-xe-may-loi-len-cau-cho-long-bien-va-cho-dung-ch/": {
+  "group": "cau long bien i xe may",
+  "links": [
+   {
+    "url": "/du-lich/2026/09/28/cau-long-bien-va-uong-ven-song-trai-nghiem-i-xe-may/",
+    "title": "Cầu Long Biên và đường ven sông: trải nghiệm đi xe máy"
+   }
+  ]
+ },
+ "/hoi-dap/2026/09/29/xe-50cc-co-can-bang-lai-khong/": {
+  "group": "xe 50cc can bang lai khong",
+  "links": [
+   {
+    "url": "/xe-may/2026/09/27/co-can-bang-lai-khi-i-xe-50cc-khong/",
+    "title": "Có cần bằng lái khi đi xe 50cc không"
+   }
+  ]
+ },
+ "/hoi-dap/2026/09/29/xe-thue-bi-thung-lop-ai-sua/": {
+  "group": "xe thue thung lop",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/01/xe-thue-thung-lop-giua-pho-va-le-hay-goi-chu-xe/",
+    "title": "Xe thuê thủng lốp giữa phố: vá lề hay gọi chủ xe"
+   }
+  ]
+ },
+ "/hoi-dap/2026/09/30/nen-thue-vision-hay-air-blade-khi-i-pho/": {
+  "group": "thue vision hay air blade",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/14/thue-vision-hay-air-blade-o-ha-noi-so-sanh-tu-the-ngoi-cop-xe-va-cam-giac-lai-tr/",
+    "title": "Thuê Vision hay Air Blade ở Hà Nội: so sánh tư thế ngồi, cốp xe và cảm giác lái trong phố"
+   },
+   {
+    "url": "/xe-may/2026/10/14/vision-hay-air-blade-thue-xe-ga-nao-hop-di-pho-ha-noi-hon/",
+    "title": "Vision hay Air Blade: thuê xe ga nào hợp đi phố Hà Nội hơn"
+   },
+   {
+    "url": "/xe-may/2026/10/14/thue-honda-vision-hay-air-blade-cho-chuyen-du-lich-ha-noi-chon-theo-lo-trinh-va/",
+    "title": "Thuê Honda Vision hay Air Blade cho chuyến du lịch Hà Nội: chọn theo lộ trình và người ngồi sau"
+   }
+  ]
+ },
+ "/hoi-dap/2026/10/10/can-mang-giay-to-gi-khi-thue-xe-may-o-ha-noi/": {
+  "group": "giay to can khi thue xe may",
+  "links": [
+   {
+    "url": "/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-en-cua-hang-thue-xe/",
+    "title": "Chuẩn bị giấy tờ gì trước khi đến cửa hàng thuê xe"
+   }
+  ]
+ },
+ "/hoi-dap/2026/10/10/hoi-cach-tinh-ngay-thue-xe-may-nhu-the-nao/": {
+  "group": "cach tinh ngay thue xe may",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/11/mot-ngay-thue-xe-may-tinh-theo-24-gio-hay-theo-ngay-lich-nen-hoi-gi/",
+    "title": "Một ngày thuê xe máy tính theo 24 giờ hay theo ngày lịch: nên hỏi gì"
+   }
+  ]
+ },
+ "/hoi-dap/2026/10/10/mat-chia-khoa-xe-thue-cac-buoc-xu-ly-nhanh/": {
+  "group": "mat chia khoa xe thue",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/01/mat-chia-khoa-xe-thue-nhung-viec-can-lam-ngay/",
+    "title": "Mất chìa khóa xe thuê: những việc cần làm ngay"
+   },
+   {
+    "url": "/thue-xe/2026/10/07/mat-chia-khoa-xe-thue-nen-lam-gi/",
+    "title": "Mất chìa khóa xe thuê nên làm gì"
+   }
+  ]
+ },
+ "/hoi-dap/2026/10/15/coi-xe-thue-keu-lien-tuc-khong-tat-duoc-giua-pho-ngat-tam-the-nao-cho-an-toan/": {
+  "group": "coi xe may keu lien tuc",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/15/coi-xe-thue-tu-keu-lien-tuc-khong-tat-duoc-tap-vao-le-tat-khoa-dien-va-bao-cua-h/",
+    "title": "Còi xe thuê tự kêu liên tục không tắt được: tấp vào lề, tắt khóa điện và báo cửa hàng"
+   }
+  ]
+ },
+ "/hoi-dap/2026/10/16/chuot-can-day-dien-xe-thue-de-trong-ngo-hoac-nha-tro-dau-hieu-va-vi-sao-khong-ne/": {
+  "group": "chuot can day ien xe may",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/15/chuot-can-day-dien-xe-may-de-qua-dem-o-nha-tro-dau-hieu-nhan-biet-va-cach-phong/",
+    "title": "Chuột cắn dây điện xe máy để qua đêm ở nhà trọ: dấu hiệu nhận biết và cách phòng khi đang thuê theo tháng"
+   },
+   {
+    "url": "/thue-xe/2026/10/15/chuot-can-day-dien-xe-thue-de-qua-dem-o-nha-tro-dau-hieu-nhan-biet-va-cach-bao-c/",
+    "title": "Chuột cắn dây điện xe thuê để qua đêm ở nhà trọ: dấu hiệu nhận biết và cách báo cửa hàng"
+   }
+  ]
+ },
+ "/hoi-dap/2026/10/16/xe-thue-de-qua-dem-sang-ra-bi-hut-trom-xang-nhan-biet-va-bao-cua-hang-the-nao/": {
+  "group": "xe may bi hut trom xang",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/15/sang-ra-xe-thue-can-xang-du-toi-qua-con-nhieu-nghi-bi-hut-trom-xang-thi-kiem-tra/",
+    "title": "Sáng ra xe thuê cạn xăng dù tối qua còn nhiều: nghi bị hút trộm xăng thì kiểm tra và báo gì"
+   }
+  ]
+ },
+ "/ky-nang/2026-09-29/i-xe-may-qua-oan-ngap-nuoc-trong-noi-o/": {
+  "group": "i xe may qua uong ngap",
+  "links": [
+   {
+    "url": "/ky-nang/2026/10/10/i-xe-may-qua-oan-uong-ngap-nuoc/",
+    "title": "Đi xe máy qua đoạn đường ngập nước"
+   }
+  ]
+ },
+ "/ky-nang/2026/10/10/i-xe-may-qua-oan-uong-ngap-nuoc/": {
+  "group": "i xe may qua uong ngap",
+  "links": [
+   {
+    "url": "/ky-nang/2026-09-29/i-xe-may-qua-oan-ngap-nuoc-trong-noi-o/",
+    "title": "Đi xe máy qua đoạn ngập nước trong nội đô"
+   }
+  ]
+ },
+ "/ky-nang/2026/10/10/xe-may-chet-may-giua-en-o-cac-buoc-xu-ly/": {
+  "group": "xe may chet may giua uong",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/10/xe-may-thue-chet-may-giua-nga-tu/",
+    "title": "Xe máy thuê chết máy giữa ngã tư"
+   }
+  ]
+ },
+ "/ky-nang/2026/10/15/di-xe-may-qua-cau-long-bien-mat-cau-hep-khe-noi-va-giu-lai-thang-khi-dong-xe/": {
+  "group": "i xe may qua cau long bien",
+  "links": [
+   {
+    "url": "/du-lich/2026/09/30/i-xe-may-qua-cau-long-bien-luc-nao-ep-nhat/",
+    "title": "Đi xe máy qua cầu Long Biên lúc nào đẹp nhất"
+   }
+  ]
+ },
+ "/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-en-cua-hang-thue-xe/": {
+  "group": "giay to can khi thue xe may",
+  "links": [
+   {
+    "url": "/hoi-dap/2026/10/10/can-mang-giay-to-gi-khi-thue-xe-may-o-ha-noi/",
+    "title": "Cần mang giấy tờ gì khi thuê xe máy ở Hà Nội"
+   }
+  ]
+ },
+ "/thue-xe/2026/09/27/gia-han-hop-ong-thue-xe-theo-thang/": {
+  "group": "gia han thue xe may",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/14/gia-han-thoi-gian-thue-xe-may-khi-keo-dai-chuyen-di-o-ha-noi-bao-chu-xe-som-the/",
+    "title": "Gia hạn thời gian thuê xe máy khi kéo dài chuyến đi ở Hà Nội: báo chủ xe sớm thế nào"
+   },
+   {
+    "url": "/thue-xe/2026/10/10/gia-han-thoi-gian-thue-xe-may-them-ngay-xu-ly-the-nao/",
+    "title": "Gia hạn thời gian thuê xe máy thêm ngày xử lý thế nào"
+   },
+   {
+    "url": "/thue-xe/2026/10/11/gia-han-thue-xe-may-them-ngay-thong-bao-ung-luc/",
+    "title": "Gia hạn thuê xe máy thêm ngày: thông báo đúng lúc"
+   }
+  ]
+ },
+ "/thue-xe/2026/09/27/thue-xe-may-cho-nguoi-nuoc-ngoai-thu-tuc-rieng/": {
+  "group": "thue xe may cho nguoi nuoc ngoai",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/01/khach-quoc-te-thue-xe-may-ha-noi-giay-to-va-cach-trao-oi/",
+    "title": "Khách quốc tế thuê xe máy Hà Nội: giấy tờ và cách trao đổi"
+   }
+  ]
+ },
+ "/thue-xe/2026/09/29/can-xe-gap-trong-ngay-thue-xe-may-ngay-co-kho-khong/": {
+  "group": "thue xe may gap trong ngay",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/11/thue-xe-may-gap-trong-ngay-o-ha-noi-thu-tuc-rut-gon-van-ay-u/",
+    "title": "Thuê xe máy gấp trong ngày ở Hà Nội: thủ tục rút gọn vẫn đầy đủ"
+   }
+  ]
+ },
+ "/thue-xe/2026/09/29/thue-xe-may-gan-ben-xe-my-inh-nhung-ieu-can-biet/": {
+  "group": "thue xe may gan ben xe my inh",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/14/den-ben-xe-my-dinh-hoac-giap-bat-muon-thue-xe-may-lien-he-va-hen-nhan-xe/",
+    "title": "Đến bến xe Mỹ Đình hoặc Giáp Bát muốn thuê xe máy: liên hệ và hẹn nhận xe"
+   }
+  ]
+ },
+ "/thue-xe/2026/09/29/thue-xe-may-gan-ga-ha-noi-lay-xe-som-nhat-luc-nao/": {
+  "group": "thue xe may gan ga ha noi",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/14/xuong-tau-dem-o-ga-ha-noi-muon-co-xe-may-hen-nhan-xe-sang-som-the-nao/",
+    "title": "Xuống tàu đêm ở Ga Hà Nội muốn có xe máy: hẹn nhận xe sáng sớm thế nào"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/01/khach-quoc-te-thue-xe-may-ha-noi-giay-to-va-cach-trao-oi/": {
+  "group": "thue xe may cho nguoi nuoc ngoai",
+  "links": [
+   {
+    "url": "/thue-xe/2026/09/27/thue-xe-may-cho-nguoi-nuoc-ngoai-thu-tuc-rieng/",
+    "title": "Thuê xe máy cho người nước ngoài: thủ tục riêng"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/01/xe-thue-thung-lop-giua-pho-va-le-hay-goi-chu-xe/": {
+  "group": "xe thue thung lop",
+  "links": [
+   {
+    "url": "/hoi-dap/2026/09/29/xe-thue-bi-thung-lop-ai-sua/",
+    "title": "Xe thuê bị thủng lốp ai sửa"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/03/cop-xe-ga-khong-mo-uoc-luc-tra-xe/": {
+  "group": "cop xe ga khong mo uoc",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/15/cop-xe-ga-khong-mo-duoc-hoac-yen-bi-ket-nguyen-nhan-thuong-gap-va-cach-xu-ly-kho/",
+    "title": "Cốp xe ga không mở được hoặc yên bị kẹt: nguyên nhân thường gặp và cách xử lý không làm hỏng khóa"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/04/chup-lai-tinh-trang-xe-khi-nhan-cac-goc-anh-nen-co/": {
+  "group": "chup anh xe khi nhan thue",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/14/chup-anh-va-quay-video-xe-khi-nhan-thue-tuan-nhung-goc-can-ghi-lai-de-tra-xe-nhe/",
+    "title": "Chụp ảnh và quay video xe khi nhận thuê tuần: những góc cần ghi lại để trả xe nhẹ nhàng"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/07/mat-chia-khoa-xe-thue-nen-lam-gi/": {
+  "group": "mat chia khoa xe thue",
+  "links": [
+   {
+    "url": "/hoi-dap/2026/10/10/mat-chia-khoa-xe-thue-cac-buoc-xu-ly-nhanh/",
+    "title": "Mất chìa khóa xe thuê: các bước xử lý nhanh"
+   },
+   {
+    "url": "/xe-may/2026/10/01/mat-chia-khoa-xe-thue-nhung-viec-can-lam-ngay/",
+    "title": "Mất chìa khóa xe thuê: những việc cần làm ngay"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/10/gia-han-thoi-gian-thue-xe-may-them-ngay-xu-ly-the-nao/": {
+  "group": "gia han thue xe may",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/14/gia-han-thoi-gian-thue-xe-may-khi-keo-dai-chuyen-di-o-ha-noi-bao-chu-xe-som-the/",
+    "title": "Gia hạn thời gian thuê xe máy khi kéo dài chuyến đi ở Hà Nội: báo chủ xe sớm thế nào"
+   },
+   {
+    "url": "/thue-xe/2026/09/27/gia-han-hop-ong-thue-xe-theo-thang/",
+    "title": "Gia hạn hợp đồng thuê xe theo tháng"
+   },
+   {
+    "url": "/thue-xe/2026/10/11/gia-han-thue-xe-may-them-ngay-thong-bao-ung-luc/",
+    "title": "Gia hạn thuê xe máy thêm ngày: thông báo đúng lúc"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/10/nhan-xe-may-thue-buoi-toi-nen-kiem-tra-gi-ky-hon/": {
+  "group": "nhan xe may thue buoi toi",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/11/nhan-xe-thue-buoi-toi-hoac-em-hen-gio-va-kiem-tra-xe-khi-thieu-sang/",
+    "title": "Nhận xe thuê buổi tối hoặc đêm: hẹn giờ và kiểm tra xe khi thiếu sáng"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/11/chia-khoa-xe-thue-hoi-chia-phu-va-cach-bao-khi-lo-lam-mat/": {
+  "group": "mat chia khoa xe may thue",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/14/mat-chia-khoa-xe-may-thue-o-ha-noi-khach-quoc-te-nen-lam-gi-truoc-khi-goi-chu-xe/",
+    "title": "Mất chìa khóa xe máy thuê ở Hà Nội: khách quốc tế nên làm gì trước khi gọi chủ xe"
+   },
+   {
+    "url": "/thue-xe/2026/10/14/lam-mat-chia-khoa-xe-thue-truoc-ngay-tra-bao-som-khong-tu-danh-chia-va-chuan-bi/",
+    "title": "Làm mất chìa khóa xe thuê trước ngày trả: báo sớm, không tự đánh chìa và chuẩn bị gì"
+   },
+   {
+    "url": "/xe-may/2026/09/29/mat-chia-khoa-xe-may-thue-cac-buoc-tiep-theo/",
+    "title": "Mất chìa khóa xe máy thuê: các bước tiếp theo"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/11/gia-han-thue-xe-may-them-ngay-thong-bao-ung-luc/": {
+  "group": "gia han thue xe may",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/14/gia-han-thoi-gian-thue-xe-may-khi-keo-dai-chuyen-di-o-ha-noi-bao-chu-xe-som-the/",
+    "title": "Gia hạn thời gian thuê xe máy khi kéo dài chuyến đi ở Hà Nội: báo chủ xe sớm thế nào"
+   },
+   {
+    "url": "/thue-xe/2026/10/10/gia-han-thoi-gian-thue-xe-may-them-ngay-xu-ly-the-nao/",
+    "title": "Gia hạn thời gian thuê xe máy thêm ngày xử lý thế nào"
+   },
+   {
+    "url": "/thue-xe/2026/09/27/gia-han-hop-ong-thue-xe-theo-thang/",
+    "title": "Gia hạn hợp đồng thuê xe theo tháng"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/11/mot-ngay-thue-xe-may-tinh-theo-24-gio-hay-theo-ngay-lich-nen-hoi-gi/": {
+  "group": "cach tinh ngay thue xe may",
+  "links": [
+   {
+    "url": "/hoi-dap/2026/10/10/hoi-cach-tinh-ngay-thue-xe-may-nhu-the-nao/",
+    "title": "Hỏi: cách tính ngày thuê xe máy như thế nào"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/11/nguoi-nha-cham-benh-nhan-ieu-tri-dai-ngay-o-ha-noi-thue-xe-may-theo-thang/": {
+  "group": "thue xe may cho nguoi nha benh nhan",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/11/nguoi-nha-cham-benh-nhan-o-ha-noi-mot-tuan-thue-xe-may-i-giua-vien-va-cho-tro/",
+    "title": "Người nhà chăm bệnh nhân ở Hà Nội một tuần: thuê xe máy đi giữa viện và chỗ trọ"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/11/nguoi-nha-cham-benh-nhan-o-ha-noi-mot-tuan-thue-xe-may-i-giua-vien-va-cho-tro/": {
+  "group": "thue xe may cho nguoi nha benh nhan",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/11/nguoi-nha-cham-benh-nhan-ieu-tri-dai-ngay-o-ha-noi-thue-xe-may-theo-thang/",
+    "title": "Người nhà chăm bệnh nhân điều trị dài ngày ở Hà Nội: thuê xe máy theo tháng"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/11/nhan-xe-thue-buoi-toi-hoac-em-hen-gio-va-kiem-tra-xe-khi-thieu-sang/": {
+  "group": "nhan xe may thue buoi toi",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/10/nhan-xe-may-thue-buoi-toi-nen-kiem-tra-gi-ky-hon/",
+    "title": "Nhận xe máy thuê buổi tối nên kiểm tra gì kỹ hơn"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/11/thue-xe-may-gap-trong-ngay-o-ha-noi-thu-tuc-rut-gon-van-ay-u/": {
+  "group": "thue xe may gap trong ngay",
+  "links": [
+   {
+    "url": "/thue-xe/2026/09/29/can-xe-gap-trong-ngay-thue-xe-may-ngay-co-kho-khong/",
+    "title": "Cần xe gấp trong ngày: thuê xe máy ngay có khó không"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/11/tu-xe-so-sang-xe-ga-hoac-nguoc-lai-thoi-quen-can-sua-trong-tuan-au/": {
+  "group": "chuyen tu xe so sang xe ga",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/14/chuyen-tu-xe-so-sang-xe-tay-ga-nhung-thoi-quen-cu-can-bo-de-khong-phanh-nham-ga/",
+    "title": "Chuyển từ xe số sang xe tay ga: những thói quen cũ cần bỏ để không phanh nhầm, ga nhầm"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/12/i-lang-gom-bat-trang-bang-xe-may-nua-ngay-uong-i-va-luu-y-khi-tham-quan/": {
+  "group": "i bat trang bang xe may",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/13/di-lang-gom-bat-trang-bang-xe-ga-duong-di-tu-pho-co-va-luc-nen-ve/",
+    "title": "Đi làng gốm Bát Tràng bằng xe ga: đường đi từ phố cổ và lúc nên về"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/12/tay-phanh-xe-thue-bi-mem-bop-sat-tay-lai-van-hut-dung-an-toan-the-nao/": {
+  "group": "tay phanh xe may bi mem",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/11/tay-phanh-xe-may-bi-mem-bat-thuong-dau-hieu-can-chu-y/",
+    "title": "Tay phanh xe máy bị mềm bất thường: dấu hiệu cần chú ý"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-e-may-nguoi-an-toan/": {
+  "group": "xe may nong may khi ket xe",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/15/xe-may-nong-may-khi-ket-xe-lau-gio-cao-diem-dau-hieu-qua-nhiet-va-cach-giam-tai/",
+    "title": "Xe máy nóng máy khi kẹt xe lâu giờ cao điểm: dấu hiệu quá nhiệt và cách giảm tải cho động cơ"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/14/chup-anh-va-quay-video-xe-khi-nhan-thue-tuan-nhung-goc-can-ghi-lai-de-tra-xe-nhe/": {
+  "group": "chup anh xe khi nhan thue",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/04/chup-lai-tinh-trang-xe-khi-nhan-cac-goc-anh-nen-co/",
+    "title": "Chụp lại tình trạng xe khi nhận: các góc ảnh nên có"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/14/den-ben-xe-my-dinh-hoac-giap-bat-muon-thue-xe-may-lien-he-va-hen-nhan-xe/": {
+  "group": "thue xe may gan ben xe my inh",
+  "links": [
+   {
+    "url": "/thue-xe/2026/09/29/thue-xe-may-gan-ben-xe-my-inh-nhung-ieu-can-biet/",
+    "title": "Thuê xe máy gần bến xe Mỹ Đình: những điều cần biết"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/14/gia-han-thoi-gian-thue-xe-may-khi-keo-dai-chuyen-di-o-ha-noi-bao-chu-xe-som-the/": {
+  "group": "gia han thue xe may",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/10/gia-han-thoi-gian-thue-xe-may-them-ngay-xu-ly-the-nao/",
+    "title": "Gia hạn thời gian thuê xe máy thêm ngày xử lý thế nào"
+   },
+   {
+    "url": "/thue-xe/2026/09/27/gia-han-hop-ong-thue-xe-theo-thang/",
+    "title": "Gia hạn hợp đồng thuê xe theo tháng"
+   },
+   {
+    "url": "/thue-xe/2026/10/11/gia-han-thue-xe-may-them-ngay-thong-bao-ung-luc/",
+    "title": "Gia hạn thuê xe máy thêm ngày: thông báo đúng lúc"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/14/lam-mat-chia-khoa-xe-thue-truoc-ngay-tra-bao-som-khong-tu-danh-chia-va-chuan-bi/": {
+  "group": "mat chia khoa xe may thue",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/14/mat-chia-khoa-xe-may-thue-o-ha-noi-khach-quoc-te-nen-lam-gi-truoc-khi-goi-chu-xe/",
+    "title": "Mất chìa khóa xe máy thuê ở Hà Nội: khách quốc tế nên làm gì trước khi gọi chủ xe"
+   },
+   {
+    "url": "/thue-xe/2026/10/11/chia-khoa-xe-thue-hoi-chia-phu-va-cach-bao-khi-lo-lam-mat/",
+    "title": "Chìa khóa xe thuê: hỏi chìa phụ và cách báo khi lỡ làm mất"
+   },
+   {
+    "url": "/xe-may/2026/09/29/mat-chia-khoa-xe-may-thue-cac-buoc-tiep-theo/",
+    "title": "Mất chìa khóa xe máy thuê: các bước tiếp theo"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/14/mat-chia-khoa-xe-may-thue-o-ha-noi-khach-quoc-te-nen-lam-gi-truoc-khi-goi-chu-xe/": {
+  "group": "mat chia khoa xe may thue",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/14/lam-mat-chia-khoa-xe-thue-truoc-ngay-tra-bao-som-khong-tu-danh-chia-va-chuan-bi/",
+    "title": "Làm mất chìa khóa xe thuê trước ngày trả: báo sớm, không tự đánh chìa và chuẩn bị gì"
+   },
+   {
+    "url": "/thue-xe/2026/10/11/chia-khoa-xe-thue-hoi-chia-phu-va-cach-bao-khi-lo-lam-mat/",
+    "title": "Chìa khóa xe thuê: hỏi chìa phụ và cách báo khi lỡ làm mất"
+   },
+   {
+    "url": "/xe-may/2026/09/29/mat-chia-khoa-xe-may-thue-cac-buoc-tiep-theo/",
+    "title": "Mất chìa khóa xe máy thuê: các bước tiếp theo"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/14/mot-ngay-di-chua-huong-bang-xe-may-thue-duong-qua-ha-dong-my-duc-cho-gui-xe-va-g/": {
+  "group": "i chua huong bang xe may",
+  "links": [
+   {
+    "url": "/cung-duong/2026/09/28/chua-huong-bang-xe-may-tu-ha-noi-chuan-bi-truoc-khi-i/",
+    "title": "Chùa Hương bằng xe máy từ Hà Nội: chuẩn bị trước khi đi"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/14/nhan-thong-bao-phat-nguoi-sau-khi-da-tra-xe-thue-xac-minh-loi-vi-pham-va-phoi-ho/": {
+  "group": "phat nguoi xe may thue",
+  "links": [
+   {
+    "url": "/an-toan-phap-ly/2026/10/09/kiem-tra-phat-nguoi-xe-thue-truoc-khi-nhan-co-can-khong/",
+    "title": "Kiểm tra phạt nguội xe thuê trước khi nhận có cần không"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/14/thue-xe-may-buoi-toi-cuoi-tuan-di-pho-di-bo-ho-guom-gui-xe-o-dau-va-tranh-cac-tu/": {
+  "group": "gui xe pho i bo ho guom",
+  "links": [
+   {
+    "url": "/du-lich/2026/10/09/pho-i-bo-ho-guom-cuoi-tuan-xe-may-gui-o-au/",
+    "title": "Phố đi bộ Hồ Gươm cuối tuần xe máy gửi ở đâu"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/14/tra-xe-may-dien-thue-muc-pin-cuc-sac-va-day-sac-can-ban-giao-lai-cho-cua-hang/": {
+  "group": "tra xe may ien thue",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/14/tra-xe-may-dien-thue-muc-pin-khi-ban-giao-bo-sac-phu-kien-va-nhung-diem-chu-xe-s/",
+    "title": "Trả xe máy điện thuê: mức pin khi bàn giao, bộ sạc, phụ kiện và những điểm chủ xe sẽ kiểm tra"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/14/xuong-tau-dem-o-ga-ha-noi-muon-co-xe-may-hen-nhan-xe-sang-som-the-nao/": {
+  "group": "thue xe may gan ga ha noi",
+  "links": [
+   {
+    "url": "/thue-xe/2026/09/29/thue-xe-may-gan-ga-ha-noi-lay-xe-som-nhat-luc-nao/",
+    "title": "Thuê xe máy gần ga Hà Nội: lấy xe sớm nhất lúc nào"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/15/chuot-can-day-dien-xe-may-de-qua-dem-o-nha-tro-dau-hieu-nhan-biet-va-cach-phong/": {
+  "group": "chuot can day ien xe may",
+  "links": [
+   {
+    "url": "/hoi-dap/2026/10/16/chuot-can-day-dien-xe-thue-de-trong-ngo-hoac-nha-tro-dau-hieu-va-vi-sao-khong-ne/",
+    "title": "Chuột cắn dây điện xe thuê để trong ngõ hoặc nhà trọ: dấu hiệu và vì sao không nên tự nối"
+   },
+   {
+    "url": "/thue-xe/2026/10/15/chuot-can-day-dien-xe-thue-de-qua-dem-o-nha-tro-dau-hieu-nhan-biet-va-cach-bao-c/",
+    "title": "Chuột cắn dây điện xe thuê để qua đêm ở nhà trọ: dấu hiệu nhận biết và cách báo cửa hàng"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/15/chuot-can-day-dien-xe-thue-de-qua-dem-o-nha-tro-dau-hieu-nhan-biet-va-cach-bao-c/": {
+  "group": "chuot can day ien xe may",
+  "links": [
+   {
+    "url": "/hoi-dap/2026/10/16/chuot-can-day-dien-xe-thue-de-trong-ngo-hoac-nha-tro-dau-hieu-va-vi-sao-khong-ne/",
+    "title": "Chuột cắn dây điện xe thuê để trong ngõ hoặc nhà trọ: dấu hiệu và vì sao không nên tự nối"
+   },
+   {
+    "url": "/thue-xe/2026/10/15/chuot-can-day-dien-xe-may-de-qua-dem-o-nha-tro-dau-hieu-nhan-biet-va-cach-phong/",
+    "title": "Chuột cắn dây điện xe máy để qua đêm ở nhà trọ: dấu hiệu nhận biết và cách phòng khi đang thuê theo tháng"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/15/coi-xe-thue-tu-keu-lien-tuc-khong-tat-duoc-tap-vao-le-tat-khoa-dien-va-bao-cua-h/": {
+  "group": "coi xe may keu lien tuc",
+  "links": [
+   {
+    "url": "/hoi-dap/2026/10/15/coi-xe-thue-keu-lien-tuc-khong-tat-duoc-giua-pho-ngat-tam-the-nao-cho-an-toan/",
+    "title": "Còi xe thuê kêu liên tục không tắt được giữa phố: ngắt tạm thế nào cho an toàn"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/15/den-do-co-duoc-re-phai-khong-khach-quoc-te-quen-luat-nuoc-minh-can-biet-gi-khi-c/": {
+  "group": "en o co uoc re phai",
+  "links": [
+   {
+    "url": "/an-toan-phap-ly/2026/10/16/den-do-co-duoc-re-phai-bang-xe-may-khong-mui-ten-xanh-bien-phu-va-vach-mat-vong/",
+    "title": "Đèn đỏ có được rẽ phải bằng xe máy không: mũi tên xanh, biển phụ và vạch mắt võng ở ngã tư Hà Nội"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/15/muon-xe-may-cua-nguoi-quen-hay-tu-thue-xe-khi-o-ha-noi-vai-ngay-nhung-khoan-can/": {
+  "group": "muon xe may hay thue xe",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/15/muon-xe-may-cua-nguoi-quen-hay-tu-thue-xe-o-ha-noi-giay-to-trach-nhiem-va-chi-ph/",
+    "title": "Mượn xe máy của người quen hay tự thuê xe ở Hà Nội: giấy tờ, trách nhiệm và chi phí thật"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/15/sang-ra-xe-thue-can-xang-du-toi-qua-con-nhieu-nghi-bi-hut-trom-xang-thi-kiem-tra/": {
+  "group": "xe may bi hut trom xang",
+  "links": [
+   {
+    "url": "/hoi-dap/2026/10/16/xe-thue-de-qua-dem-sang-ra-bi-hut-trom-xang-nhan-biet-va-bao-cua-hang-the-nao/",
+    "title": "Xe thuê để qua đêm sáng ra bị hút trộm xăng: nhận biết và báo cửa hàng thế nào"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/15/va-cham-lien-hoan-nhieu-xe-may-khi-ca-dong-xe-phanh-gap-chup-vi-tri-tung-xe-truo/": {
+  "group": "va cham lien hoan xe may",
+  "links": [
+   {
+    "url": "/an-toan-phap-ly/2026/10/15/va-cham-lien-hoan-nhieu-xe-may-tren-cau-duong-vanh-dai-ha-noi-bao-hiem-tnds-cua/",
+    "title": "Va chạm liên hoàn nhiều xe máy trên cầu, đường vành đai Hà Nội: bảo hiểm TNDS của từng xe bồi thường cho ai"
+   }
+  ]
+ },
+ "/thue-xe/2026/10/15/xe-may-thue-dung-ten-chu-xe-khong-phai-ten-minh-khach-quoc-te-co-can-giay-uy-quy/": {
+  "group": "i xe khong chinh chu",
+  "links": [
+   {
+    "url": "/an-toan-phap-ly/2026/10/15/di-xe-may-khong-chinh-chu-o-ha-noi-nguoi-thue-nguoi-muon-xe-co-bi-xu-phat-khong/",
+    "title": "Đi xe máy không chính chủ ở Hà Nội: người thuê, người mượn xe có bị xử phạt không"
+   }
+  ]
+ },
+ "/xe-may/2026/09/27/co-can-bang-lai-khi-i-xe-50cc-khong/": {
+  "group": "xe 50cc can bang lai khong",
+  "links": [
+   {
+    "url": "/hoi-dap/2026/09/29/xe-50cc-co-can-bang-lai-khong/",
+    "title": "Xe 50cc có cần bằng lái không"
+   }
+  ]
+ },
+ "/xe-may/2026/09/29/mat-chia-khoa-xe-may-thue-cac-buoc-tiep-theo/": {
+  "group": "mat chia khoa xe may thue",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/14/mat-chia-khoa-xe-may-thue-o-ha-noi-khach-quoc-te-nen-lam-gi-truoc-khi-goi-chu-xe/",
+    "title": "Mất chìa khóa xe máy thuê ở Hà Nội: khách quốc tế nên làm gì trước khi gọi chủ xe"
+   },
+   {
+    "url": "/thue-xe/2026/10/14/lam-mat-chia-khoa-xe-thue-truoc-ngay-tra-bao-som-khong-tu-danh-chia-va-chuan-bi/",
+    "title": "Làm mất chìa khóa xe thuê trước ngày trả: báo sớm, không tự đánh chìa và chuẩn bị gì"
+   },
+   {
+    "url": "/thue-xe/2026/10/11/chia-khoa-xe-thue-hoi-chia-phu-va-cach-bao-khi-lo-lam-mat/",
+    "title": "Chìa khóa xe thuê: hỏi chìa phụ và cách báo khi lỡ làm mất"
+   }
+  ]
+ },
+ "/xe-may/2026/09/30/so-sanh-sirius-va-wave-khi-thue-e-i-xa/": {
+  "group": "so sanh sirius va wave",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/09/yamaha-sirius-thue-voi-honda-wave-khac-nhau-the-nao/",
+    "title": "Yamaha Sirius thuê với Honda Wave khác nhau thế nào"
+   }
+  ]
+ },
+ "/xe-may/2026/10/01/mat-chia-khoa-xe-thue-nhung-viec-can-lam-ngay/": {
+  "group": "mat chia khoa xe thue",
+  "links": [
+   {
+    "url": "/hoi-dap/2026/10/10/mat-chia-khoa-xe-thue-cac-buoc-xu-ly-nhanh/",
+    "title": "Mất chìa khóa xe thuê: các bước xử lý nhanh"
+   },
+   {
+    "url": "/thue-xe/2026/10/07/mat-chia-khoa-xe-thue-nen-lam-gi/",
+    "title": "Mất chìa khóa xe thuê nên làm gì"
+   }
+  ]
+ },
+ "/xe-may/2026/10/09/yamaha-sirius-thue-voi-honda-wave-khac-nhau-the-nao/": {
+  "group": "so sanh sirius va wave",
+  "links": [
+   {
+    "url": "/xe-may/2026/09/30/so-sanh-sirius-va-wave-khi-thue-e-i-xa/",
+    "title": "So sánh Sirius và Wave khi thuê để đi xa"
+   }
+  ]
+ },
+ "/xe-may/2026/10/10/xe-may-thue-chet-may-giua-nga-tu/": {
+  "group": "xe may chet may giua uong",
+  "links": [
+   {
+    "url": "/ky-nang/2026/10/10/xe-may-chet-may-giua-en-o-cac-buoc-xu-ly/",
+    "title": "Xe máy chết máy giữa đèn đỏ: các bước xử lý"
+   }
+  ]
+ },
+ "/xe-may/2026/10/11/quen-xe-ga-lan-au-i-xe-so-nhung-phan-xa-can-chinh-lai/": {
+  "group": "tu xe ga chuyen sang xe so",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/14/quen-xe-ga-thue-xe-so-wave-cach-sang-so-va-con-tu-dong-cho-do-bo-ngo/",
+    "title": "Quen xe ga, thuê xe số Wave: cách sang số và côn tự động cho đỡ bỡ ngỡ"
+   }
+  ]
+ },
+ "/xe-may/2026/10/11/tay-phanh-xe-may-bi-mem-bat-thuong-dau-hieu-can-chu-y/": {
+  "group": "tay phanh xe may bi mem",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/12/tay-phanh-xe-thue-bi-mem-bop-sat-tay-lai-van-hut-dung-an-toan-the-nao/",
+    "title": "Tay phanh xe thuê bị mềm, bóp sát tay lái vẫn hụt: dừng an toàn thế nào"
+   }
+  ]
+ },
+ "/xe-may/2026/10/13/di-lang-gom-bat-trang-bang-xe-ga-duong-di-tu-pho-co-va-luc-nen-ve/": {
+  "group": "i bat trang bang xe may",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/12/i-lang-gom-bat-trang-bang-xe-may-nua-ngay-uong-i-va-luu-y-khi-tham-quan/",
+    "title": "Đi làng gốm Bát Tràng bằng xe máy nửa ngày: đường đi và lưu ý khi tham quan"
+   }
+  ]
+ },
+ "/xe-may/2026/10/13/honda-click-bam-de-khong-no-kiem-tra-gi-tai-cho-truoc-khi-goi-tho/": {
+  "group": "xe ga bam e khong no",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/15/xe-ga-thue-bam-de-khong-no-chan-chong-nghieng-bop-phanh-cong-tac-may-va-ac-quy-t/",
+    "title": "Xe ga thuê bấm đề không nổ: chân chống nghiêng, bóp phanh, công tắc máy và ắc quy theo thứ tự"
+   }
+  ]
+ },
+ "/xe-may/2026/10/13/tu-xe-so-sang-xe-ga-nhung-phan-xa-can-doi-khi-lan-dau-lai-honda-click/": {
+  "group": "tu xe so chuyen sang xe ga",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/14/quen-xe-so-lan-dau-len-xe-ga-nhung-thu-can-lam-quen-khi-thue/",
+    "title": "Quen xe số, lần đầu lên xe ga: những thứ cần làm quen khi thuê"
+   }
+  ]
+ },
+ "/xe-may/2026/10/14/chuyen-tu-xe-so-sang-xe-tay-ga-nhung-thoi-quen-cu-can-bo-de-khong-phanh-nham-ga/": {
+  "group": "chuyen tu xe so sang xe ga",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/11/tu-xe-so-sang-xe-ga-hoac-nguoc-lai-thoi-quen-can-sua-trong-tuan-au/",
+    "title": "Từ xe số sang xe ga hoặc ngược lại: thói quen cần sửa trong tuần đầu"
+   }
+  ]
+ },
+ "/xe-may/2026/10/14/quen-xe-ga-thue-xe-so-wave-cach-sang-so-va-con-tu-dong-cho-do-bo-ngo/": {
+  "group": "tu xe ga chuyen sang xe so",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/11/quen-xe-ga-lan-au-i-xe-so-nhung-phan-xa-can-chinh-lai/",
+    "title": "Quen xe ga lần đầu đi xe số: những phản xạ cần chỉnh lại"
+   }
+  ]
+ },
+ "/xe-may/2026/10/14/quen-xe-so-lan-dau-len-xe-ga-nhung-thu-can-lam-quen-khi-thue/": {
+  "group": "tu xe so chuyen sang xe ga",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/13/tu-xe-so-sang-xe-ga-nhung-phan-xa-can-doi-khi-lan-dau-lai-honda-click/",
+    "title": "Từ xe số sang xe ga: những phản xạ cần đổi khi lần đầu lái Honda Click"
+   }
+  ]
+ },
+ "/xe-may/2026/10/14/thue-honda-vision-hay-air-blade-cho-chuyen-du-lich-ha-noi-chon-theo-lo-trinh-va/": {
+  "group": "thue vision hay air blade",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/14/thue-vision-hay-air-blade-o-ha-noi-so-sanh-tu-the-ngoi-cop-xe-va-cam-giac-lai-tr/",
+    "title": "Thuê Vision hay Air Blade ở Hà Nội: so sánh tư thế ngồi, cốp xe và cảm giác lái trong phố"
+   },
+   {
+    "url": "/xe-may/2026/10/14/vision-hay-air-blade-thue-xe-ga-nao-hop-di-pho-ha-noi-hon/",
+    "title": "Vision hay Air Blade: thuê xe ga nào hợp đi phố Hà Nội hơn"
+   },
+   {
+    "url": "/hoi-dap/2026/09/30/nen-thue-vision-hay-air-blade-khi-i-pho/",
+    "title": "Nên thuê Vision hay Air Blade khi đi phố"
+   }
+  ]
+ },
+ "/xe-may/2026/10/14/thue-honda-wave-hay-honda-vision-cho-3-ngay-du-lich-ha-noi-xe-so-hay-xe-ga-hop-h/": {
+  "group": "thue wave hay vision",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/14/wave-150k-hay-vision-200k-mot-ngay-chenh-50k-doi-lai-duoc-gi/",
+    "title": "Wave 150k hay Vision 200k một ngày: chênh 50k đổi lại được gì"
+   }
+  ]
+ },
+ "/xe-may/2026/10/14/thue-vision-hay-air-blade-o-ha-noi-so-sanh-tu-the-ngoi-cop-xe-va-cam-giac-lai-tr/": {
+  "group": "thue vision hay air blade",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/14/vision-hay-air-blade-thue-xe-ga-nao-hop-di-pho-ha-noi-hon/",
+    "title": "Vision hay Air Blade: thuê xe ga nào hợp đi phố Hà Nội hơn"
+   },
+   {
+    "url": "/xe-may/2026/10/14/thue-honda-vision-hay-air-blade-cho-chuyen-du-lich-ha-noi-chon-theo-lo-trinh-va/",
+    "title": "Thuê Honda Vision hay Air Blade cho chuyến du lịch Hà Nội: chọn theo lộ trình và người ngồi sau"
+   },
+   {
+    "url": "/hoi-dap/2026/09/30/nen-thue-vision-hay-air-blade-khi-i-pho/",
+    "title": "Nên thuê Vision hay Air Blade khi đi phố"
+   }
+  ]
+ },
+ "/xe-may/2026/10/14/tra-xe-may-dien-thue-muc-pin-khi-ban-giao-bo-sac-phu-kien-va-nhung-diem-chu-xe-s/": {
+  "group": "tra xe may ien thue",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/14/tra-xe-may-dien-thue-muc-pin-cuc-sac-va-day-sac-can-ban-giao-lai-cho-cua-hang/",
+    "title": "Trả xe máy điện thuê: mức pin, cục sạc và dây sạc cần bàn giao lại cho cửa hàng"
+   }
+  ]
+ },
+ "/xe-may/2026/10/14/vision-hay-air-blade-thue-xe-ga-nao-hop-di-pho-ha-noi-hon/": {
+  "group": "thue vision hay air blade",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/14/thue-vision-hay-air-blade-o-ha-noi-so-sanh-tu-the-ngoi-cop-xe-va-cam-giac-lai-tr/",
+    "title": "Thuê Vision hay Air Blade ở Hà Nội: so sánh tư thế ngồi, cốp xe và cảm giác lái trong phố"
+   },
+   {
+    "url": "/xe-may/2026/10/14/thue-honda-vision-hay-air-blade-cho-chuyen-du-lich-ha-noi-chon-theo-lo-trinh-va/",
+    "title": "Thuê Honda Vision hay Air Blade cho chuyến du lịch Hà Nội: chọn theo lộ trình và người ngồi sau"
+   },
+   {
+    "url": "/hoi-dap/2026/09/30/nen-thue-vision-hay-air-blade-khi-i-pho/",
+    "title": "Nên thuê Vision hay Air Blade khi đi phố"
+   }
+  ]
+ },
+ "/xe-may/2026/10/14/wave-150k-hay-vision-200k-mot-ngay-chenh-50k-doi-lai-duoc-gi/": {
+  "group": "thue wave hay vision",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/14/thue-honda-wave-hay-honda-vision-cho-3-ngay-du-lich-ha-noi-xe-so-hay-xe-ga-hop-h/",
+    "title": "Thuê Honda Wave hay Honda Vision cho 3 ngày du lịch Hà Nội: xe số hay xe ga hợp hơn"
+   }
+  ]
+ },
+ "/xe-may/2026/10/15/cop-xe-ga-khong-mo-duoc-hoac-yen-bi-ket-nguyen-nhan-thuong-gap-va-cach-xu-ly-kho/": {
+  "group": "cop xe ga khong mo uoc",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/03/cop-xe-ga-khong-mo-uoc-luc-tra-xe/",
+    "title": "Cốp xe ga không mở được lúc trả xe"
+   }
+  ]
+ },
+ "/xe-may/2026/10/15/di-le-den-ba-chua-kho-thang-gieng-bang-honda-air-blade-thue-gio-tranh-dong-gui-x/": {
+  "group": "en ba chua kho bang xe may",
+  "links": [
+   {
+    "url": "/cung-duong/2026/10/16/den-ba-chua-kho-bang-xe-may-dau-nam-chon-ngay-vang-gui-xe-va-giu-do-luc-dong-ngu/",
+    "title": "Đền Bà Chúa Kho bằng xe máy đầu năm: chọn ngày vắng, gửi xe và giữ đồ lúc đông người"
+   }
+  ]
+ },
+ "/xe-may/2026/10/15/muon-xe-may-cua-nguoi-quen-hay-tu-thue-xe-o-ha-noi-giay-to-trach-nhiem-va-chi-ph/": {
+  "group": "muon xe may hay thue xe",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/15/muon-xe-may-cua-nguoi-quen-hay-tu-thue-xe-khi-o-ha-noi-vai-ngay-nhung-khoan-can/",
+    "title": "Mượn xe máy của người quen hay tự thuê xe khi ở Hà Nội vài ngày: những khoản cần tính cho sòng phẳng"
+   }
+  ]
+ },
+ "/xe-may/2026/10/15/xe-ga-thue-bam-de-khong-no-chan-chong-nghieng-bop-phanh-cong-tac-may-va-ac-quy-t/": {
+  "group": "xe ga bam e khong no",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/13/honda-click-bam-de-khong-no-kiem-tra-gi-tai-cho-truoc-khi-goi-tho/",
+    "title": "Honda Click bấm đề không nổ: kiểm tra gì tại chỗ trước khi gọi thợ"
+   }
+  ]
+ },
+ "/xe-may/2026/10/15/xe-may-nong-may-khi-ket-xe-lau-gio-cao-diem-dau-hieu-qua-nhiet-va-cach-giam-tai/": {
+  "group": "xe may nong may khi ket xe",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-e-may-nguoi-an-toan/",
+    "title": "Xe máy nóng máy khi kẹt xe giữa trưa hè: dấu hiệu và cách để máy nguội an toàn"
+   }
+  ]
+ }
+}
