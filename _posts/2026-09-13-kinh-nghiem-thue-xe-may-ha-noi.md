@@ -179,7 +179,7 @@ Giá thuê xe máy tại Hà Nội có thể thay đổi tùy theo:
 
 ### Tiền đặt cọc
 
-Tiền đặt cọc thường bằng 1-2 lần giá trị của xe. Tiền đặt cọc được hoàn trả theo điều khoản hợp đồng sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan.
+Mức cọc tham khảo từ 2.000.000đ đến 5.000.000đ tùy loại xe. Tiền đặt cọc được hoàn trả theo điều khoản hợp đồng sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan.
 
 ### Chi phí phát sinh
 
