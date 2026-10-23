@@ -42,7 +42,7 @@ Về đến nhà trước, lau sạch xe thuê — bụi đường quê và mưa
 
 ## Trả xe và kết thúc tuần gọn gàng
 
-Tính ngày trả xe trùng ngày đón con: sáng đón con, chiều trả xe, không để khoản thuê rơi sang tuần sau bận bịu hơn. Khi trả, đổ xăng về mức thỏa thuận đầu thuê, chụp lại hiện trạng xe, và nhận lại giấy tờ cùng tiền cọc (nếu có) đầy đủ. Nếu con muốn lưu lại chùa thêm ngày, nhắn cửa hàng xin gia hạn sớm.
+Tính ngày trả xe trùng ngày đón con: sáng đón con, chiều trả xe, không để khoản thuê rơi sang tuần sau bận bịu hơn. Khi trả, đổ xăng về mức thỏa thuận đầu thuê, chụp lại hiện trạng xe, và nhận lại giấy tờ; tiền cọc (nếu có) được hoàn trả theo điều khoản hợp đồng. Nếu con muốn lưu lại chùa thêm ngày, nhắn cửa hàng xin gia hạn sớm.
 
 ## Tóm lại
 

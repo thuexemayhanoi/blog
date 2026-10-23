@@ -58,7 +58,7 @@ Hãy lựa chọn đơn vị cho thuê xe máy uy tín như **{{ site.data.busin
 **Đối với du khách nước ngoài:**
 - Hộ chiếu
 - Giấy phép lái xe quốc tế (nếu thuê xe trên 50cc)
-- Tiền đặt cọc (thường cao hơn so với khách Việt Nam)
+- Tiền đặt cọc (mức cụ thể xác nhận trực tiếp với cửa hàng trước khi nhận xe)
 
 ### 3. Trang bị cá nhân
 

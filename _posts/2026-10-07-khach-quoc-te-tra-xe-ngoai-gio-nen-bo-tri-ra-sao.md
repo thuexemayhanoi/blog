@@ -26,7 +26,7 @@ Phần tài liệu khách cần mang theo khi rời chỗ ở cũng nên nhắc 
 
 ## Trả xe tại khách sạn hoặc chỗ ở: phương án sạch nhất
 
-Phương án tốt nhất cho chuyến bay sớm là tiệm nhận xe tại chỗ khách ở: khách rời hành lý tại quầy lễ tân, xe dựng ngay trước khách sạn theo chỗ đã hẹn, và thợ đến nhận trước giờ khách đi. Cách này giữ trọn trình tự chuẩn — đối chiếu hiện trạng cùng lúc, hoàn cọc ngay tại chỗ, hai bên ký kết — chỉ đổi địa điểm chứ không bỏ bước nào. Nhiều khách sạn ở khu phố cổ quen việc này vì tiệm cho thuê hợp tác thường xuyên, nên phần chào hỏi với lễ tân cũng mượt.
+Phương án tốt nhất cho chuyến bay sớm là tiệm nhận xe tại chỗ khách ở: khách rời hành lý tại quầy lễ tân, xe dựng ngay trước khách sạn theo chỗ đã hẹn, và thợ đến nhận trước giờ khách đi. Cách này giữ trọn trình tự chuẩn — đối chiếu hiện trạng cùng lúc, chốt việc hoàn cọc theo điều khoản hợp đồng, hai bên ký kết — chỉ đổi địa điểm chứ không bỏ bước nào. Nhiều khách sạn ở khu phố cổ quen việc này vì tiệm cho thuê hợp tác thường xuyên, nên phần chào hỏi với lễ tân cũng mượt.
 
 Với phương án này, khách nên chụp lại bộ ảnh hiện trạng cuối cùng ngay sáng hôm đó trước khi rời: xe ở đúng vị trí, khóa đã trả, mũ để trong cốp. Bộ ảnh đó gửi ngay vào tin nhắn với tiệm — nó là bản ghi thời điểm cuối cùng khách nhìn thấy xe, và kể cả khi thợ đến muộn hơn thì bằng chứng đã nằm sẵn.
 

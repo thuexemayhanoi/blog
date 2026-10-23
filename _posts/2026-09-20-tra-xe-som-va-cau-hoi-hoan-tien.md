@@ -35,7 +35,7 @@ Nếu lịch đã đổi và trả sớm là điều chắc chắn, ba việc n�
 
 Một lưu ý về giờ trả: trả sớm vài tiếng trong ngày cuối không tạo ra khoản hoàn nào, nhưng trả trễ vài tiếng thì phát sinh phí, thường là 20.000đ mỗi giờ, và trễ trên sáu tiếng có thể được tính thêm một ngày thuê. Vậy nên nếu đã quyết định về sớm, hãy về sớm thật, đừng để buổi trả xe trôi dạt đến nửa ngày vì các việc lặt vặt cuối chuyến.
 
-Về khoản cọc, đây là phần không bị ảnh hưởng bởi việc trả sớm: cọc được hoàn đủ khi xe đối chiếu khớp, bất kể bạn trả đúng hạn hay trước hạn. Câu hỏi hoàn cọc và câu hỏi hoàn tiền thuê là hai việc riêng biệt, và tách bạch hai việc này giúp cuộc trao đổi lúc trả xe rõ ràng hơn.
+Về khoản cọc, hãy hỏi riêng cửa hàng: cọc được hoàn trả theo điều khoản hợp đồng sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan, và nên xác nhận cả trường hợp trả trước hạn. Câu hỏi hoàn cọc và câu hỏi hoàn tiền thuê là hai việc riêng biệt, và tách bạch hai việc này giúp cuộc trao đổi lúc trả xe rõ ràng hơn.
 
 Một tình huống biên giới hay gặp: chuyến đi bốn ngày, bạn quyết định rời vào chiều ngày thứ ba. Chuyện trả xe lúc đó nên xử lý theo ngày hay theo giờ? Câu hỏi này không có đáp án chung, vì nó phụ thuộc cách hai bên thỏa thuận từ đầu: nếu hợp đồng tính theo ngày với mốc giờ nhận ban đầu, thì trả vào chiều ngày thứ ba vẫn là dùng trọn ba ngày và ngày thứ tư là phần chưa dùng xử lý theo điều khoản kết thúc sớm. Nếu hợp đồng ghi rõ cách tính theo giờ cho ngày cuối, mọi chuyện lại khác. Đây chính là loại chi tiết đáng hỏi trước khi ký, vì nó chỉ hiện ra khi lịch trình đổi.
 
