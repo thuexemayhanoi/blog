@@ -56,3 +56,5 @@ Các câu hỏi về thủ tục, giấy tờ và dòng xe phù hợp đều có
 ## Tóm lại
 
 Đi xe máy thuê ở Hà Nội dành cho nữ hoàn toàn khả thi và thú vị khi bạn chọn đúng xe với chiều cao của mình, đi đúng khung giờ, giữ đồ theo các quy tắc cơ bản và luyện vài kỹ năng giao thông cốt lõi. Hãy tham khảo [bảng giá thuê xe máy]( {{ '/bang-gia/' | relative_url }}) để so sánh các dòng xe, và đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) cho toàn bộ quy trình từ đặt xe đến trả xe.
+
+Nếu bạn đi cùng nhóm bạn hoặc gia đình, xem [thuê xe máy ở Hà Nội cho nhóm bạn và gia đình]({{ site.baseurl }}{% post_url 2026-09-20-thue-xe-may-o-ha-noi-cho-nhom-va-gia-dinh %}/).

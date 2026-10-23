@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1169,
+  "word_count": 1193,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,9 +47,42 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-17-qua-cau-treo-dan-sinh-o-ban-vung-cao-bang-honda-wave-dat-bo-hay-chay-cham-va-van.md",
-  "content_sha256": "c478aff389e03f43eec759a82d313ed0a92d61259b50b7b711e64de002da4fe9",
+  "content_sha256": "32b9e74b140c9c5e95c316fe25ad6ac49a477247ff280d82b98e6ea1104b0209",
   "matrix_row_sha256": "8bfe4097aebcafaa8a9a2cda1bbae286e2476f69b229082ec3730b7942125c92",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-17T06:14:02+00:00"
+  "published_at": "2026-10-17T06:14:02+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "content-revision",
+    "purpose": "legal-correction-03-2026-10-23",
+    "reason": "Đính chính theo Điều 4 khoản 3 Thông tư 11/2014/TT-BGTVT (văn bản hợp nhất 25/VBHN-BGTVT), đối chiếu ngày 23/10/2026",
+    "approval_ref": "OWNER-MASTER-WORK-2026-10-23: tin nhắn MASTER WORK — CONTINUE SEO /BLOG NGUYỄN TÚ (23/10/2026) — chủ xe phê duyệt trước việc sửa lỗi SEO an toàn, tạo PR và merge khi CI/QA/quy tắc repository đạt, \"không cần hỏi lại từng bài/PR thông thường\"; sửa bài đã PUBLISHED qua quy trình bảo trì với bằng chứng QA hợp lệ; lô legal-correction-03",
+    "batch_id": "revise-20261023-legal-03",
+    "revised_at": "2026-10-23T12:21:54+00:00",
+    "previous_evidence_sha256": "df747511e00fe336eba4327860864bc563bfa92df2361e51d75a041d370b5ebe",
+    "previous_content_sha256": "c478aff389e03f43eec759a82d313ed0a92d61259b50b7b711e64de002da4fe9",
+    "previous_matrix_row_sha256": "8bfe4097aebcafaa8a9a2cda1bbae286e2476f69b229082ec3730b7942125c92",
+    "new_content_sha256": "32b9e74b140c9c5e95c316fe25ad6ac49a477247ff280d82b98e6ea1104b0209",
+    "edit_count": 1,
+    "edits_sha256": "60b5a6fa40cda9ec8af20bbc9dc2ea680bc959b215ee11fc48e3fe134e56fda4",
+    "chars_changed": 299,
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/revise-published.py",
+    "tool_commit": "c7a96fd575ff42c056d7a24b3358c4a78b15f7c0",
+    "tool_sha256": "86f44d47bbca6fd0822065a75bc34927bc592326518f0df4fea798c022acca84",
+    "scorer_code_sha256": "29894c883d01b7d840f5731884fd62b2a31238391f403aec361a046cc313c10f",
+    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+  }
 }

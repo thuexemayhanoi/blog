@@ -70,3 +70,5 @@ Mang theo một thermos nước nóng cũng đáng cân nhắc cho các chuyến
 ## Tóm lại
 
 Mùa đông không phải lý do bỏ xe máy ở Hà Nội, nhưng đòi hỏi chuẩn bị kỹ hơn: mặc nhiều lớp, găng tay dày, kính chống mờ, đèn sáng, và đi trong khung giờ ấm giữa ngày. Giả định mặt đường luôn ẩm, tăng khoảng cách, và tránh các khung sương mù rạng sáng. Những gợi ý sắp xếp lịch trình chuyến đi theo mùa được tổng hợp thêm trong chuyên mục [du lịch]( {{ '/du-lich/' | relative_url }} ), còn các lưu ý lái xe thường nhật nằm trong chuyên mục [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }} ).
+
+Ngày mưa có những lưu ý riêng về áo mưa, phanh và vùng ngập, xem [đi xe máy ở Hà Nội ngày mưa: chuẩn bị và kỹ thuật giữ an toàn]({{ site.baseurl }}{% post_url 2026-09-18-di-xe-may-o-ha-noi-ngay-mua %}/).
