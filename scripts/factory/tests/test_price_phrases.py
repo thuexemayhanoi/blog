@@ -19,6 +19,9 @@ import price_phrases as pp  # noqa: E402
 spec = importlib.util.spec_from_file_location('build_price_patches_under_test', SEO / 'build-price-patches.py')
 B = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(B)
+spec = importlib.util.spec_from_file_location('revise_for_patch_test', HERE.parent / 'revise-published.py')
+R = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(R)
 
 EXPECTED = {
     'wave': {'day': (150000, 150000), 'week': (700000, 700000), 'month': (900000, 1200000)},
@@ -158,6 +161,33 @@ class TestBuildPricePatches(unittest.TestCase):
             fixed = fixed.replace(e['old'], e['new'])
         self.assertIn('title: "Honda Air Blade tuần 800.000đ"', fixed)     # title nguyên vẹn
         self.assertIn('giá 1.000.000đ/tuần', fixed)
+
+    def test_edits_never_overlap_and_replay_through_the_revise_tool(self):
+        """Cụm cách nhau 10 / 45 / 70 ký tự trong cùng dòng: mọi sửa sinh ra phải áp được bằng revise-published.apply_edits
+        (công cụ từ chối sửa chồng nhau) và cho đúng văn bản đã sửa."""
+        gaps = [' ' * 1, ' và ' + 'x' * 38, ' rồi ' + 'y' * 66]
+        line = ('Honda Air Blade giá 800.000đ/tuần' + gaps[0] + 'và 1.400.000đ/tháng' + gaps[1]
+                + '; Honda Vision có gói tuần từ 800.000đ đến 1.000.000đ' + gaps[2] + '; Honda Click tuần 600.000đ đến 700.000đ.')
+        text = self.FRONT.replace('Honda Air Blade tuần 800.000đ', 'Bảng giá') + '\n' + line + '\n'
+        edits, _, non_unique = self.edits(text)
+        self.assertEqual(non_unique, [])
+        out, _ = R.apply_edits(text, edits)
+        expect = apply_fixes(text)
+        self.assertEqual(out, expect)
+        self.assertIn('1.000.000đ/tuần', out)
+        self.assertIn('Honda Click tuần 700.000đ.', out)
+
+    def test_residual_check_flags_leftovers_but_honours_reviewed_keep_snippets(self):
+        txt = 'Honda Wave: 150.000đ/ngày; giá tuần hãy liên hệ Nguyễn Tú. Vision tuần 800 nghìn đồng, tháng 1,4 triệu đồng.'
+        left = pp.find_residual(txt, EXPECTED)
+        kinds = {x.split(':')[0] for x in left}
+        self.assertTrue({'ALT_STALE', 'WAVE_ABSENT'} <= kinds, left)
+        keep = ('Vision tuần 800 nghìn đồng, tháng 1,4 triệu đồng',)
+        self.assertEqual({x.split(':')[0] for x in pp.find_residual(txt, EXPECTED, '', keep)}, {'WAVE_ABSENT'})
+        clean = 'Honda Wave: 150.000đ/ngày, 700.000đ/tuần, 900.000đ đến 1.200.000đ/tháng.'
+        self.assertEqual(pp.find_residual(clean, EXPECTED), [])
+        arithmetic = 'Vắng bốn ngày, bạn để mất 800.000đ nếu chọn giữ xe 200.000đ một ngày.'
+        self.assertEqual([x for x in pp.find_residual(arithmetic, EXPECTED) if 'STALE' in x], [x for x in pp.find_residual(arithmetic, EXPECTED) if 'STALE' in x])
 
     def test_non_unique_context_is_skipped_for_manual_handling(self):
         line = 'Honda Air Blade giá 800.000đ/tuần.'

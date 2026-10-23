@@ -35,6 +35,23 @@ PERIODS = {"ngày": "day", "tuần": "week", "tháng": "month"}
 AFTER = re.compile(r"^(?P<conn>\s*(?:(?:/|mỗi|một|theo|cho|trên|từng|1)\s*)*)(?P<kw>ngày|tuần|tháng)\b", re.I)
 KEYWORD = re.compile(r"\b(ngày|tuần|tháng)\b", re.I)
 FIX_PERIODS = ("week", "month")
+# Số tiền tuần/tháng từng được công bố nhưng không còn là mức hợp lệ (xem scripts/seo/check-price-consistency.py: retired_amounts).
+RETIRED_AMOUNTS = (600000, 650000, 800000, 850000, 1400000)
+# Cách viết khác của giá cũ (không có dạng 800.000đ): "800 nghìn", "800k", "600–700k", "1,4 triệu", "1tr4".
+ALT_STALE = re.compile(
+    r"(?<![\d.,])(?:6[05]0|8[05]0)\s?(?:k|nghìn|ngàn)\b"
+    r"|(?<![\d.,])(?:6[05]0|8[05]0)\s?[–-]\s?\d{3}\s?(?:k|nghìn)\b"
+    r"|(?<![\d.,])1[,.]4\s?(?:triệu|tr)\b|\b1\s?tr\s?4\b",
+    re.I,
+)
+# Câu nói Wave "chưa có giá tuần/tháng / chỉ có giá ngày": không còn đúng với bảng giá hiện hành.
+WAVE_ABSENT = re.compile(
+    r"(chỉ có gói ngày|chỉ (?:niêm yết|có|áp dụng) (?:giá|gói) ngày|chưa (?:có|niêm yết|công bố)[^.]{0,40}(?:tuần|tháng)"
+    r"|không có (?:gói|giá)[^.]{0,20}(?:tuần|tháng)"
+    r"|(?:giá|gói)[^.]{0,25}(?:tuần|tháng)[^.]{0,40}(?:báo riêng|xác nhận (?:trực tiếp|riêng)|hỏi riêng|liên hệ|chưa niêm yết|chưa công bố)"
+    r"|chưa niêm yết)",
+    re.I,
+)
 REVIEW_CUES = re.compile(
     r"chênh|tiết kiệm|rẻ hơn|đắt hơn|thấp hơn|cao hơn|nhiều hơn|ít hơn|hơn\s+\d|giảm|tăng thêm|gấp|lên tới|lên đến|"
     r"tương đương|ngang\s(?:bằng|ngửa|với)|nhân\s|cộng\s|tổng|tính ra|tính theo|quy đổi|bình quân|trung bình|"
@@ -262,3 +279,35 @@ def scan_text(text: str, expected: dict, doc_vehicle: str = "") -> list[Phrase]:
         if ph.fix_start >= 0:
             ph.fix_old = text[ph.fix_start:ph.fix_end]
     return results
+
+
+def find_residual(text: str, expected: dict, doc_vehicle: str = "", keep: tuple[str, ...] = ()) -> list[str]:
+    """Những chỗ còn lỗi thời sau khi sửa: cụm giá lệch/REVIEW/không ràng buộc mang số cũ, giá cũ viết kiểu k/tr/triệu/nghìn,
+    câu nói Wave chưa có giá tuần/tháng. Bỏ qua mọi thứ nằm trong một đoạn `keep` (ví dụ số học hợp lệ, đã được người duyệt)."""
+    kept: list[tuple[int, int]] = []
+    for snippet in keep:
+        i = text.find(snippet)
+        while i >= 0:
+            kept.append((i, i + len(snippet)))
+            i = text.find(snippet, i + 1)
+
+    def inside(a: int, b: int) -> bool:
+        return any(s <= a and b <= e for s, e in kept)
+
+    out: list[str] = []
+    for p in scan_text(text, expected, doc_vehicle):
+        stale_num = p.status == "UNBOUND" and (p.lo in RETIRED_AMOUNTS or p.hi in RETIRED_AMOUNTS)
+        if (p.status in ("MISMATCH", "REVIEW") or stale_num) and not inside(p.start, p.end):
+            out.append(f"{p.status}{'_STALE' if stale_num else ''}: {text[max(0, p.start - 40):p.end + 20]!r}")
+    for m in ALT_STALE.finditer(text):
+        if not inside(m.start(), m.end()):
+            out.append(f"ALT_STALE: {text[max(0, m.start() - 40):m.end() + 20]!r}")
+    pos = 0
+    for line in text.split("\n"):
+        for s0, e0 in sentence_spans(line):          # cùng cách tách câu với scan_text (không tách ở dấu chấm hàng nghìn)
+            sent = line[s0:e0]
+            if re.search(r"\bWave\b", sent, re.I) and WAVE_ABSENT.search(sent) and re.search(r"tuần|tháng", sent, re.I):
+                if not inside(pos + s0, pos + e0):
+                    out.append(f"WAVE_ABSENT: {sent.strip()[:160]!r}")
+        pos += len(line) + 1
+    return out
