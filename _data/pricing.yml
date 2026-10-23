@@ -12,11 +12,11 @@ vehicles:
         min: 150000
         max: 150000
       week:
-        min: null
-        max: null
+        min: 700000
+        max: 700000
       month:
-        min: null
-        max: null
+        min: 900000
+        max: 1200000
     deposit:
       min: null
       max: null
@@ -33,7 +33,7 @@ vehicles:
         min: 200000
         max: 200000
       week:
-        min: 800000
+        min: 1000000
         max: 1000000
       month:
         min: 1800000
@@ -54,11 +54,11 @@ vehicles:
         min: 200000
         max: 200000
       week:
-        min: 800000
-        max: 800000
+        min: 1000000
+        max: 1000000
       month:
-        min: 1400000
-        max: 1400000
+        min: 1500000
+        max: 1500000
     deposit:
       min: null
       max: null
@@ -75,10 +75,10 @@ vehicles:
         min: 150000
         max: 150000
       week:
-        min: 600000
+        min: 700000
         max: 700000
       month:
-        min: 1000000
+        min: 900000
         max: 1200000
     deposit:
       min: null

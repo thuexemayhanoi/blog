@@ -13,10 +13,11 @@
     "vehicle_types": ["Xe số", "Xe tay ga", "Xe 50cc", "Xe máy điện", "Xe đạp điện"]
   },
   "approved_pricing": {
-    "Honda Wave": {"day": 150000, "week": null, "month": null, "deposit": "Xác nhận trực tiếp"},
-    "Honda Vision": {"day": 200000, "week": "800000 - 1000000", "month": "1800000 - 2000000", "deposit": "Xác nhận trực tiếp"},
-    "Honda Air Blade": {"day": 200000, "week": 800000, "month": 1400000, "deposit": "Xác nhận trực tiếp"},
-    "Honda Click / Yamaha Mio": {"day": 150000, "week": "600000 - 700000", "month": "1000000 - 1200000", "deposit": "Xác nhận trực tiếp"},
+    "Honda Wave": {"day": 150000, "week": 700000, "month": "900000 - 1200000", "deposit": "Xác nhận trực tiếp"},
+    "Honda Vision": {"day": 200000, "week": 1000000, "month": "1800000 - 2000000", "deposit": "Xác nhận trực tiếp"},
+    "Honda Air Blade": {"day": 200000, "week": 1000000, "month": 1500000, "deposit": "Xác nhận trực tiếp"},
+    "Honda Click / Yamaha Mio": {"day": 150000, "week": 700000, "month": "900000 - 1200000", "deposit": "Xác nhận trực tiếp"},
+    "Xe tay ga 50cc": {"day": 200000, "week": null, "month": null, "note": "Giá tuần và tháng: báo giá riêng", "deposit": "Xác nhận trực tiếp"},
     "Xe máy điện": {"day": null, "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"},
     "Xe đạp điện": {"day": null, "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"}
   },

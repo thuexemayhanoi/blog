@@ -52,10 +52,10 @@ Mỗi hình thức thuê phù hợp với một nhóm nhu cầu khác nhau:
 
 Vài mức giá tham khảo theo bảng giá hiện hành:
 
-- Honda Wave (xe số): 150.000đ/ngày
-- Honda Vision: 200.000đ/ngày, 800.000 – 1.000.000đ/tuần, 1.800.000 – 2.000.000đ/tháng
-- Honda Air Blade: 200.000đ/ngày, 800.000đ/tuần, 1.400.000đ/tháng
-- Honda Click / Yamaha Mio: 150.000đ/ngày, 600.000 – 700.000đ/tuần, 1.000.000 – 1.200.000đ/tháng
+- Honda Wave (xe số): 150.000đ/ngày, 700.000đ/tuần, 900.000 – 1.200.000đ/tháng
+- Honda Vision: 200.000đ/ngày, 1.000.000đ/tuần, 1.800.000 – 2.000.000đ/tháng
+- Honda Air Blade: 200.000đ/ngày, 1.000.000đ/tuần, 1.500.000đ/tháng
+- Honda Click / Yamaha Mio: 150.000đ/ngày, 700.000đ/tuần, 900.000 – 1.200.000đ/tháng
 
 Đây là giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
