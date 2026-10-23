@@ -45,7 +45,7 @@ Mẫu xe ga bán chạy nhất Việt Nam, thiết kế nhỏ gọn, nhẹ, dễ
 
 ### Honda Air Blade
 
-Dòng xe ga thể thao, động cơ mạnh hơn, thân xe dài và chắc chắn hơn Vision. Phù hợp với khách cần chạy quãng đường dài hơn, đi đôi hoặc người thích cảm giác vận hành chắc. Giá thuê 200.000đ/ngày, 1.400.000đ/tháng.
+Dòng xe ga thể thao, động cơ mạnh hơn, thân xe dài và chắc chắn hơn Vision. Phù hợp với khách cần chạy quãng đường dài hơn, đi đôi hoặc người thích cảm giác vận hành chắc. Giá thuê 200.000đ/ngày, 1.500.000đ/tháng.
 
 ### Honda Click / Yamaha Mio
 
