@@ -119,9 +119,10 @@ Ba đường, theo thứ tự ưu tiên; không đường nào sửa tay `_posts
 2. **Bài factory có evidence nguyên vẹn**: `scripts/factory/revise-published.py` (`docs/REVISE-PUBLISHED.md`) — sửa nhẹ + chấm lại độc lập + evidence mới có provenance + sao lưu byte-exact; mỗi lô ≤ 50 bài là một PR riêng, Quality gate verify lại sao lưu.
    Đợt 2 (23/10/2026) đã áp dụng 6 lô: 1 lô pháp lý (3 bài) và 5 lô giá tuần/tháng (213 bài, 464 cặp old→new); số liệu từng PR ở `reports/factory/seo-master/deployment-verification.md`.
 3. **Bài factory có evidence đã lệch hash do đổi domain**: chưa sửa được. Cần `reattest-legacy-qa.py apply` có chủ duyệt (AGENTS.md: writer không tự `apply`).
-   Kế hoạch `plan` cho 81 bài cần sửa nội dung (giá hoặc pháp lý) cho thấy 28 bài đủ điều kiện reattest ngay, 52 bài rớt QA hiện tại vì còn số tiền cũ
-   nên `reattest` từ chối (`FRESH_QA_FAILED`) trong khi `revise` từ chối vì evidence không nguyên vẹn — cần chủ duyệt một đường gộp (reattest + sửa trong cùng giao dịch)
-   hoặc duyệt reattest rồi sửa. Danh sách và điều kiện mở khóa: `content-fix-blocked.csv`.
+   Kế hoạch `plan` cho 81 bài lệch hash (2 bài trong đó, BLG-00872 và BLG-00874, chỉ bị gắn cờ nhầm vì 600.000/800.000 đ là mức phạt nên không cần sửa) cho thấy
+   28 bài đủ điều kiện reattest ngay, 50 bài rớt QA hiện tại vì còn số tiền cũ nên `reattest` từ chối (`FRESH_QA_FAILED`) trong khi `revise` từ chối vì evidence
+   không nguyên vẹn, 1 bài cần xem tay — cần chủ duyệt một đường gộp (reattest + sửa trong cùng giao dịch) hoặc duyệt reattest rồi sửa. Thêm 12 bài có title/luận điểm
+   gắn giá cũ (title bất biến). Danh sách và điều kiện mở khóa: `content-fix-blocked.csv`.
 
 Trong lúc chờ, hai **lớp đính chính hiển thị** (dữ liệu tách khỏi bài, không đổi byte bài, gỡ mục khi bài đã sửa gốc):
 `_data/legal-notices.json` (pháp lý, nguồn văn bản chính thức; `docs/LEGAL-NOTICES.md`) và `_data/price-notices.json` (bảng giá hiện hành từ `_data/pricing.yml`; `docs/PRICE-NOTICES.md`).
