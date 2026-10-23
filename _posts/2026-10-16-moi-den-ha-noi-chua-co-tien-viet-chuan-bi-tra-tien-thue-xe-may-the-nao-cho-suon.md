@@ -34,7 +34,7 @@ Bảng giá ngày đã niêm yết của cửa hàng Nguyễn Tú:
 - Honda Vision: 200.000 đồng.
 - Honda Air Blade: 200.000 đồng.
 
-Nếu thuê dài hơn, có giá tuần và giá tháng riêng, ví dụ Vision theo tuần là 800.000–1.000.000 đồng. Xe máy điện và xe đạp điện cần liên hệ để xác nhận giá. Bảng đầy đủ ở trang [bảng giá thuê xe](/bang-gia/).
+Nếu thuê dài hơn, có giá tuần và giá tháng riêng, ví dụ Vision theo tuần là 1.000.000 đồng. Xe máy điện và xe đạp điện cần liên hệ để xác nhận giá. Bảng đầy đủ ở trang [bảng giá thuê xe](/bang-gia/).
 
 Ngoài tiền thuê còn có tiền đặt cọc. Mức cọc và cách đặt cọc được xác nhận trực tiếp với cửa hàng, nên hỏi trước để biết cần mang theo bao nhiêu. Nhớ để riêng một ít tiền lẻ cho xăng và gửi xe trong ngày đầu.
 

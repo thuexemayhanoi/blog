@@ -85,7 +85,7 @@ Muốn thêm một làng nghề khác ở phía đông sông Hồng cho chuyến
 
 ## Chuẩn bị xe và đồ trước khi đi
 
-Air Blade là xe hợp cho chuyến này: máy khỏe để đi cùng dòng xe trên quốc lộ, cốp rộng để đồ, chạy đường làng vẫn nhẹ nhàng. Giá thuê Air Blade tại tiệm là 200.000 đ một ngày; nếu ở lại Hà Nội lâu, gói tuần 800.000 đ sẽ đỡ hơn.
+Air Blade là xe hợp cho chuyến này: máy khỏe để đi cùng dòng xe trên quốc lộ, cốp rộng để đồ, chạy đường làng vẫn nhẹ nhàng. Giá thuê Air Blade tại tiệm là 200.000 đ một ngày; nếu ở lại Hà Nội lâu, gói tuần 1.000.000 đ sẽ đỡ hơn.
 
 Trước khi rời tiệm, kiểm tra lốp, phanh, đèn, xi nhan, gương và chụp ảnh thân xe. Mang áo mưa, nước uống, kem chống nắng và sạc điện thoại. Chuyện có kèm mũ bảo hiểm hay không, đặt cọc ra sao, xử lý thế nào nếu xe gặp sự cố xa Hà Nội, bạn hỏi cửa hàng khi đặt xe để được xác nhận trực tiếp. Gặp vấn đề dọc đường, gọi tiệm theo số 0942 467 674 trong giờ mở cửa trước khi tự mang xe đi sửa.
 

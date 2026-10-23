@@ -58,9 +58,9 @@ Nhà người quen có một chiếc xe mà đưa bạn mượn thì ai đó tro
 Thuê xe thì tiền thuê được niêm yết trước. Mức đang áp dụng tại cửa hàng Nguyễn Tú:
 
 - **Honda Wave:** ngày 150.000 đồng.
-- **Honda Click / Yamaha Mio:** ngày 150.000 đồng; tuần 600.000–700.000 đồng.
-- **Honda Vision:** ngày 200.000 đồng; tuần 800.000–1.000.000 đồng.
-- **Honda Air Blade:** ngày 200.000 đồng; tuần 800.000 đồng.
+- **Honda Click / Yamaha Mio:** ngày 150.000 đồng; tuần 700.000 đồng.
+- **Honda Vision:** ngày 200.000 đồng; tuần 1.000.000 đồng.
+- **Honda Air Blade:** ngày 200.000 đồng; tuần 1.000.000 đồng.
 - **Xe máy điện, xe đạp điện:** liên hệ để xác nhận giá.
 
 Ở vài ngày thì bạn lấy giá ngày nhân số ngày dùng xe, hoặc hỏi gói tuần nếu gần một tuần. Thuê xe vẫn có xăng và gửi xe như khi mượn, nhưng phần hư hỏng, đặt cọc và giấy tờ được thỏa thuận rõ từ đầu; mức cọc xác nhận trực tiếp với cửa hàng. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở 09:00–21:00. Nếu cần giao xe tới chỗ ở, thời gian và chi phí phải xác nhận trước, và chỉ trong giờ hoạt động. Xem đầy đủ tại trang [giá thuê xe máy](/thue-xe/gia-thue/).

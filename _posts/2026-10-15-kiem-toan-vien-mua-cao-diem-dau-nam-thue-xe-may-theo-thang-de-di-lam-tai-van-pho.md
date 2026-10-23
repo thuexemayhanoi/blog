@@ -32,9 +32,9 @@ Nếu chưa chắc, thuê một tháng trước rồi gia hạn sau thường an
 Đi làm tại văn phòng khách hàng nghĩa là mỗi tuần một tòa nhà, một hầm gửi xe, một con đường khác. Xe cần dễ dắt trong hầm chật, có cốp để cất áo mưa, và đủ êm cho những ngày ngồi xe lâu. Giá tháng đã duyệt để bạn tham khảo:
 
 - **Honda Vision**: 1.800.000–2.000.000 đồng/tháng. Xe nhẹ, dễ quay đầu trong hầm và ngõ nhỏ.
-- **Honda Air Blade**: 1.400.000 đồng/tháng. Hợp người hay đi đường dài ra khu công nghiệp ven đô.
-- **Honda Click hoặc Yamaha Mio**: 1.000.000–1.200.000 đồng/tháng, gọn cho người chủ yếu đi trong phố.
-- **Honda Wave** và xe máy điện: liên hệ để được báo giá tháng.
+- **Honda Air Blade**: 1.500.000 đồng/tháng. Hợp người hay đi đường dài ra khu công nghiệp ven đô.
+- **Honda Click hoặc Yamaha Mio**: 900.000–1.200.000 đồng/tháng, gọn cho người chủ yếu đi trong phố.
+- **Honda Wave**: 900.000–1.200.000 đồng/tháng; xe máy điện: liên hệ để được báo giá tháng.
 
 Nếu đang phân vân giữa hai mẫu xe ga phổ biến, bài [thuê xe theo tháng đi làm văn phòng: Vision hay Air Blade tiện hơn](/xe-may/2026/10/14/thue-xe-theo-thang-di-lam-van-phong-vision-hay-air-blade-tien-hon/) so sánh kỹ hơn. Khi nhận xe, hãy mở cốp, đặt thử balo hoặc túi đồ của mình vào xem có vừa không; đó là cách chắc nhất thay vì đoán theo thông số.
 

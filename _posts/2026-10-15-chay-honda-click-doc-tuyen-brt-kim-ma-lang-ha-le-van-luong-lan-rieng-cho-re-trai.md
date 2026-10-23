@@ -85,6 +85,6 @@ Xuất phát sớm mười phút là đủ để không phải vội cắt làn.
 
 ## Thuê Click để đi làm phía tây nội thành
 
-Honda Click ở tiệm giá 150.000 đ một ngày, thuê theo tuần 600.000–700.000 đ, theo tháng 1.000.000–1.200.000 đ. Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00; nếu cần giao xe sang Ba Đình hay Thanh Xuân thì thời gian và chi phí giao nhận phải xác nhận trước. Lịch đi làm hằng ngày với xe thuê dài hạn có trong bài [thuê Honda Click theo tháng để đi làm ở Hà Nội](/xe-may/2026/10/13/thue-honda-click-theo-thang-de-di-lam-o-ha-noi-lo-trinh-va-thoi-quen-moi-ngay/).
+Honda Click ở tiệm giá 150.000 đ một ngày, thuê theo tuần 700.000 đ, theo tháng 900.000–1.200.000 đ. Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00; nếu cần giao xe sang Ba Đình hay Thanh Xuân thì thời gian và chi phí giao nhận phải xác nhận trước. Lịch đi làm hằng ngày với xe thuê dài hạn có trong bài [thuê Honda Click theo tháng để đi làm ở Hà Nội](/xe-may/2026/10/13/thue-honda-click-theo-thang-de-di-lam-o-ha-noi-lo-trinh-va-thoi-quen-moi-ngay/).
 
 Xem thêm đặc điểm chiếc xe ở trang [Honda Click](/xe-may/honda-click/) và các mẫu khác trong mục [xe máy cho thuê](/xe-may/).

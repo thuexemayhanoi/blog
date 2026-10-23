@@ -21,10 +21,10 @@ Nhiều người đi làm ở Hà Nội thuê xe máy theo tháng rồi tự h�
 
 Các dòng xe hay được thuê để đi làm, theo bảng giá đang niêm yết:
 
-- **Honda Click / Yamaha Mio:** ngày 150.000 đồng; tuần 600.000–700.000 đồng; tháng 1.000.000–1.200.000 đồng.
-- **Honda Air Blade:** ngày 200.000 đồng; tuần 800.000 đồng; tháng 1.400.000 đồng.
-- **Honda Vision:** ngày 200.000 đồng; tuần 800.000–1.000.000 đồng; tháng 1.800.000–2.000.000 đồng.
-- **Honda Wave:** ngày 150.000 đồng; giá tuần và giá tháng chưa niêm yết, cần liên hệ để được báo.
+- **Honda Click / Yamaha Mio:** ngày 150.000 đồng; tuần 700.000 đồng; tháng 900.000–1.200.000 đồng.
+- **Honda Air Blade:** ngày 200.000 đồng; tuần 1.000.000 đồng; tháng 1.500.000 đồng.
+- **Honda Vision:** ngày 200.000 đồng; tuần 1.000.000 đồng; tháng 1.800.000–2.000.000 đồng.
+- **Honda Wave:** ngày 150.000 đồng; tuần 700.000 đồng; tháng 900.000–1.200.000 đồng.
 
 Với dòng xe có giá tháng là một khoảng, đừng tự chọn mức thấp cho dễ tính: hỏi cửa hàng chiếc xe của bạn ứng với mức nào rồi mới dùng. Bảng đầy đủ luôn có ở trang [giá thuê xe máy](/thue-xe/gia-thue/).
 

@@ -42,19 +42,19 @@ Mỗi kiểu hợp với một cách thuê khác nhau.
 
 Mọi con số dưới đây lấy từ [bảng giá thuê xe](/bang-gia/) của cửa hàng; giá dạng khoảng thì mức cụ thể do cửa hàng xác nhận khi bạn hỏi.
 
-**Honda Air Blade.** Giá ngày 200.000 đồng, giá tuần 800.000 đồng, giá tháng 1.400.000 đồng. Giá tháng của Air Blade thấp so với giá ngày, nên chỉ cần số ngày tour vừa phải là gói tháng đã bắt đầu đáng cân nhắc.
+**Honda Air Blade.** Giá ngày 200.000 đồng, giá tuần 1.000.000 đồng, giá tháng 1.500.000 đồng. Giá tháng của Air Blade thấp so với giá ngày, nên chỉ cần số ngày tour vừa phải là gói tháng đã bắt đầu đáng cân nhắc.
 
-**Honda Vision.** Giá ngày 200.000 đồng, giá tuần 800.000 đến 1.000.000 đồng, giá tháng 1.800.000 đến 2.000.000 đồng. Khoảng cách giữa giá tháng và giá ngày của Vision lớn hơn Air Blade, nên bạn cần nhiều ngày tour hơn thì gói tháng mới có lợi.
+**Honda Vision.** Giá ngày 200.000 đồng, giá tuần 1.000.000 đồng, giá tháng 1.800.000 đến 2.000.000 đồng. Khoảng cách giữa giá tháng và giá ngày của Vision lớn hơn Air Blade, nên bạn cần nhiều ngày tour hơn thì gói tháng mới có lợi.
 
-**Honda Click, Yamaha Mio.** Giá ngày 150.000 đồng, giá tuần 600.000 đến 700.000 đồng, giá tháng 1.000.000 đến 1.200.000 đồng. Hợp với tour phố vì nhẹ, dễ quay đầu trong ngõ hẹp.
+**Honda Click, Yamaha Mio.** Giá ngày 150.000 đồng, giá tuần 700.000 đồng, giá tháng 900.000 đến 1.200.000 đồng. Hợp với tour phố vì nhẹ, dễ quay đầu trong ngõ hẹp.
 
-**Honda Wave.** Giá ngày 150.000 đồng; giá tuần, giá tháng chưa niêm yết, nên muốn so hai cách thì hỏi cửa hàng trước.
+**Honda Wave.** Giá ngày 150.000 đồng, giá tuần 700.000 đồng, giá tháng 900.000 đến 1.200.000 đồng.
 
 Cách so đơn giản: lấy giá tháng của dòng xe bạn định dùng chia cho giá ngày của chính dòng đó. Kết quả là số ngày tour mà từ đó trở đi gói tháng bắt đầu lợi hơn thuê lẻ. Đặt con số này cạnh số ngày bạn đã đếm ở bước trên. Nếu số ngày chắc chắn có tour đã vượt mốc, gói tháng hợp lý; nếu chỉ vượt khi tính cả những ngày "có thể", hãy cân nhắc kỹ, vì tour bị hủy là chuyện thường. Tự làm phép tính với lịch của mình, rồi nhắn cửa hàng xin báo giá đúng số ngày để chắc chắn.
 
 ## Lịch dồn vào một tuần: xem đến gói tuần
 
-Nhiều hướng dẫn viên có lịch dồn cục, nhất là khi nhận khách theo đoàn hoặc vào mùa lễ hội. Với kiểu lịch này, gói tuần thường đáng xem hơn cả thuê lẻ lẫn gói tháng: bạn có xe suốt tuần bận nhất, rồi trả xe khi lịch thưa trở lại. Air Blade, Vision, Click và Mio đều có giá tuần trên bảng giá; Wave thì hỏi trực tiếp.
+Nhiều hướng dẫn viên có lịch dồn cục, nhất là khi nhận khách theo đoàn hoặc vào mùa lễ hội. Với kiểu lịch này, gói tuần thường đáng xem hơn cả thuê lẻ lẫn gói tháng: bạn có xe suốt tuần bận nhất, rồi trả xe khi lịch thưa trở lại. Air Blade, Vision, Click, Mio và Wave đều có giá tuần trên bảng giá.
 
 ## Xe cho khách tự lái: bằng lái phù hợp là điều kiện đầu tiên
 

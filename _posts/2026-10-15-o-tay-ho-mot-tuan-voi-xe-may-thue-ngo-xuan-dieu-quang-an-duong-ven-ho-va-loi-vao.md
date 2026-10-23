@@ -35,7 +35,7 @@ Ngõ Xuân Diệu và các ngõ quanh Quảng An hẹp, có đoạn chỉ vừa 
 - **Honda Air Blade:** chắc chắn hơn khi chạy đường lớn vào trung tâm, nhưng nặng hơn khi quay đầu trong ngõ cụt.
 - **Honda Wave:** nhẹ, tiết kiệm xăng, hợp người đã quen xe số.
 
-Mức giá tuần đã duyệt của tiệm: Honda Vision 800.000–1.000.000 đồng, Honda Air Blade 800.000 đồng, Honda Click và Yamaha Mio 600.000–700.000 đồng; Honda Wave thuê theo tuần thì liên hệ để xác nhận. Mức cọc và giấy tờ được xác nhận trực tiếp khi liên hệ, nên hỏi rõ và xin biên nhận.
+Mức giá tuần đã duyệt của tiệm: Honda Vision 1.000.000 đồng, Honda Air Blade 1.000.000 đồng, Honda Click và Yamaha Mio 700.000 đồng; Honda Wave 700.000 đồng. Mức cọc và giấy tờ được xác nhận trực tiếp khi liên hệ, nên hỏi rõ và xin biên nhận.
 
 Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở từ 09:00 đến 21:00. Nếu muốn mang xe tới tận ngõ, thời gian và chi phí giao nhận phải xác nhận trước khi đặt, và không có giao xe ngoài giờ hoạt động. Khi hẹn giao, gửi vị trí chính xác của cổng nhà vì ngõ Xuân Diệu nhiều nhánh giống nhau.
 

@@ -34,13 +34,13 @@ Người cho thuê ở Hà Nội khi trả lời bằng tiếng Anh thường d�
 
 Lỗi hay gặp nhất là lấy daily rate nhân số ngày rồi đem so với weekly rate. Gói tuần và gói tháng là mức riêng, bình quân theo ngày thường thấp hơn, nên phải hỏi thẳng. Bảng giá của cửa hàng Nguyễn Tú làm ví dụ:
 
-- Honda Vision: daily rate 200.000 đồng; weekly rate 800.000–1.000.000 đồng; monthly rate 1.800.000–2.000.000 đồng.
-- Honda Air Blade: daily rate 200.000 đồng; weekly rate 800.000 đồng; monthly rate 1.400.000 đồng.
-- Honda Click, Yamaha Mio: daily rate 150.000 đồng; weekly rate 600.000–700.000 đồng; monthly rate 1.000.000–1.200.000 đồng.
-- Honda Wave: daily rate 150.000 đồng; giá tuần, giá tháng nhắn để được báo.
+- Honda Vision: daily rate 200.000 đồng; weekly rate 1.000.000 đồng; monthly rate 1.800.000–2.000.000 đồng.
+- Honda Air Blade: daily rate 200.000 đồng; weekly rate 1.000.000 đồng; monthly rate 1.500.000 đồng.
+- Honda Click, Yamaha Mio: daily rate 150.000 đồng; weekly rate 700.000 đồng; monthly rate 900.000–1.200.000 đồng.
+- Honda Wave: daily rate 150.000 đồng; weekly rate 700.000 đồng; monthly rate 900.000–1.200.000 đồng.
 - Xe máy điện, xe đạp điện: liên hệ để xác nhận giá hiện tại.
 
-Nhìn dòng Air Blade là thấy bảy ngày lẻ cộng lại cao hơn hẳn weekly rate. Khi bảng ghi một khoảng như 800.000–1.000.000 đồng, hãy hỏi mức nào áp cho lịch của bạn. Đọc thêm bài [đừng tự nhân giá ngày để đoán giá tuần và tháng](/hoi-dap/2026/10/14/dung-tu-nhan-gia-ngay-de-doan-gia-tuan-va-thang-cach-doc-bang-gia-xe-may/), còn bảng đầy đủ nằm ở trang [bảng giá thuê xe máy](/bang-gia/).
+Nhìn dòng Air Blade là thấy bảy ngày lẻ cộng lại cao hơn hẳn weekly rate. Khi bảng ghi một khoảng như 900.000–1.200.000 đồng, hãy hỏi mức nào áp cho lịch của bạn. Đọc thêm bài [đừng tự nhân giá ngày để đoán giá tuần và tháng](/hoi-dap/2026/10/14/dung-tu-nhan-gia-ngay-de-doan-gia-tuan-va-thang-cach-doc-bang-gia-xe-may/), còn bảng đầy đủ nằm ở trang [bảng giá thuê xe máy](/bang-gia/).
 
 ## Câu tiếng Anh hỏi giá thuê xe nên dùng
 

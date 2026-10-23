@@ -68,6 +68,6 @@ Nhiều người đi xe máy tới ga rồi đi tàu vào trung tâm. Nếu làm
 
 ## Vì sao Click hợp với trục này
 
-Click gọn, nhẹ, dễ len trong dòng xe chậm mà không phải lách nguy hiểm, cốp chứa được áo mưa và laptop nhỏ. Nếu bạn đi lại mỗi ngày trên trục này, xem thêm bài [thuê Honda Click theo tháng để đi làm ở Hà Nội](/xe-may/2026/10/13/thue-honda-click-theo-thang-de-di-lam-o-ha-noi-lo-trinh-va-thoi-quen-moi-ngay/ "Thuê Honda Click theo tháng để đi làm"). Trên bảng giá của Nguyễn Tú, dòng Honda Click và Yamaha Mio có giá ngày 150.000 đồng, giá tháng từ 1.000.000 tới 1.200.000 đồng; tiền cọc xác nhận trực tiếp. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, số điện thoại 0942 467 674.
+Click gọn, nhẹ, dễ len trong dòng xe chậm mà không phải lách nguy hiểm, cốp chứa được áo mưa và laptop nhỏ. Nếu bạn đi lại mỗi ngày trên trục này, xem thêm bài [thuê Honda Click theo tháng để đi làm ở Hà Nội](/xe-may/2026/10/13/thue-honda-click-theo-thang-de-di-lam-o-ha-noi-lo-trinh-va-thoi-quen-moi-ngay/ "Thuê Honda Click theo tháng để đi làm"). Trên bảng giá của Nguyễn Tú, dòng Honda Click và Yamaha Mio có giá ngày 150.000 đồng, giá tháng từ 900.000 tới 1.200.000 đồng; tiền cọc xác nhận trực tiếp. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, số điện thoại 0942 467 674.
 
 Các bài khác về dòng xe này có ở trang [Honda Click](/xe-may/honda-click/ "Honda Click"), còn toàn bộ thông tin về các dòng xe ở mục [xe máy](/xe-may/ "Xe máy cho thuê ở Hà Nội").

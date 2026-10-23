@@ -21,7 +21,7 @@ Làm kinh doanh đi thị trường thì ngày nào cũng chục điểm bán, n
 
 Một ngày đi tuyến có thể phải dừng, dựng chân chống, vào cửa hàng rồi ra nổ máy hàng chục lần. Xe ga nhỏ không côn, không số, nên những đoạn nhích từng mét trong phố hay những lần quay đầu trong ngõ đỡ mỏi tay chân hơn hẳn xe số.
 
-Giá niêm yết của cửa hàng cho Honda Click là 150.000 đồng một ngày, 600.000 – 700.000 đồng một tuần và 1.000.000 – 1.200.000 đồng một tháng. Mới nhận tuyến, chưa chắc làm lâu thì hỏi cửa hàng phương án thuê tuần trước khi chốt tháng. Tiền đặt cọc và giấy tờ được xác nhận trực tiếp khi nhận xe; giá các dòng xe khác xem ở trang [bảng giá thuê xe](/bang-gia/).
+Giá niêm yết của cửa hàng cho Honda Click là 150.000 đồng một ngày, 700.000 đồng một tuần và 900.000 – 1.200.000 đồng một tháng. Mới nhận tuyến, chưa chắc làm lâu thì hỏi cửa hàng phương án thuê tuần trước khi chốt tháng. Tiền đặt cọc và giấy tờ được xác nhận trực tiếp khi nhận xe; giá các dòng xe khác xem ở trang [bảng giá thuê xe](/bang-gia/).
 
 Lúc nhận xe, nói rõ bạn dùng để chạy thị trường, quãng đường mỗi ngày dài hơn người đi làm văn phòng. Cửa hàng nắm được sẽ tính lịch thay nhớt, kiểm tra phanh và lốp sát hơn.
 

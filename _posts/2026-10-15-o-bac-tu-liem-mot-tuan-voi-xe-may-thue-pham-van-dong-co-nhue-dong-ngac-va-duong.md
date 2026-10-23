@@ -21,7 +21,7 @@ Bạn ở nhà trọ trong Cổ Nhuế, căn hộ dịch vụ gần Phạm Văn 
 
 Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00. Bạn có thể qua cửa hàng nhận xe, hoặc hẹn giao tới chỗ ở; khi đó thời gian và chi phí giao phải xác nhận trước khi đặt, và cửa hàng không giao xe ngoài giờ hoạt động. Vì Bắc Từ Liêm ở bên kia sông so với Long Biên, nên chốt giờ giao sớm trong ngày để không lỡ hẹn.
 
-Giá thuê tuần đã duyệt: Honda Vision 800.000–1.000.000 đồng, Honda Air Blade 800.000 đồng, Honda Click hoặc Yamaha Mio 600.000–700.000 đồng. Honda Wave thuê tuần và các xe khác thì liên hệ để biết giá; tiền cọc xác nhận trực tiếp. Các điều cần biết khi giữ xe trọn tuần có ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
+Giá thuê tuần đã duyệt: Honda Vision 1.000.000 đồng, Honda Air Blade 1.000.000 đồng, Honda Click hoặc Yamaha Mio 700.000 đồng. Honda Wave thuê tuần 700.000 đồng, các xe khác thì liên hệ để biết giá; tiền cọc xác nhận trực tiếp. Các điều cần biết khi giữ xe trọn tuần có ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
 
 Chọn xe theo nhịp đi lại:
 

@@ -33,9 +33,9 @@ Cộng bốn dòng này là số tiền nên có sẵn lúc nhận xe. Hai kho�
 Giá hiện tại ở cửa hàng Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên:
 
 - Honda Wave: 150.000 đồng một ngày.
-- Honda Click, Yamaha Mio: 150.000 đồng một ngày; gói tuần 600.000–700.000 đồng, gói tháng 1.000.000–1.200.000 đồng.
-- Honda Vision: 200.000 đồng một ngày; gói tuần 800.000–1.000.000 đồng, gói tháng 1.800.000–2.000.000 đồng.
-- Honda Air Blade: 200.000 đồng một ngày; gói tuần 800.000 đồng, gói tháng 1.400.000 đồng.
+- Honda Click, Yamaha Mio: 150.000 đồng một ngày; gói tuần 700.000 đồng, gói tháng 900.000–1.200.000 đồng.
+- Honda Vision: 200.000 đồng một ngày; gói tuần 1.000.000 đồng, gói tháng 1.800.000–2.000.000 đồng.
+- Honda Air Blade: 200.000 đồng một ngày; gói tuần 1.000.000 đồng, gói tháng 1.500.000 đồng.
 - Xe máy điện, xe đạp điện: liên hệ để xác nhận giá.
 
 Thuê vài ngày lẻ thì lấy giá ngày nhân số ngày để ước lượng, nhưng nên nhờ cửa hàng báo tổng chính xác, vì cách tính ngày còn phụ thuộc giờ nhận và giờ trả. Thuê từ khoảng một tuần trở lên thì hỏi gói tuần hoặc tháng; bài [đừng tự nhân giá ngày để đoán giá tuần và tháng](/hoi-dap/2026/10/14/dung-tu-nhan-gia-ngay-de-doan-gia-tuan-va-thang-cach-doc-bang-gia-xe-may/) giải thích vì sao. Với mức ghi theo khoảng, hỏi xe của bạn áp mức nào; xem thêm bài [bảng giá ghi khoảng](/hoi-dap/2026/10/14/bang-gia-ghi-khoang-nhu-800k1tr-mot-tuan-hieu-the-nao-va-hoi-gi/).
@@ -81,7 +81,7 @@ Khách nước ngoài nên đổi sẵn tiền đồng. Thẻ quốc tế rút �
 
 Bạn đi một mình, thuê Honda Air Blade trọn một tuần để đi nội thành và vài điểm ven đô. Số tiền nên có lúc nhận xe:
 
-- Tiền thuê gói tuần theo bảng: 800.000 đồng.
+- Tiền thuê gói tuần theo bảng: 1.000.000 đồng.
 - Tiền cọc: theo mức cửa hàng đã xác nhận khi bạn đặt xe.
 - Tiền xăng buổi đầu: tùy lượng xăng đang có trong bình.
 - Dự phòng: tiền lẻ gửi xe, nước uống, một khoản nhỏ cho sự cố.
