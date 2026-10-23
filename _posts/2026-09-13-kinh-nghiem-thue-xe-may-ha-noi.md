@@ -157,7 +157,7 @@ Nhược điểm:
 - **Hộ chiếu**: Bản gốc
 - **Giấy phép lái xe quốc tế**: Nếu thuê xe trên 50cc
 - **Giấy phép lái xe 50cc**: Không bắt buộc theo luật Việt Nam
-- **Tiền đặt cọc**: Thường cao hơn so với khách Việt Nam
+- **Tiền đặt cọc**: Xác nhận trực tiếp với cửa hàng trước khi nhận xe
 
 ### Lưu ý quan trọng
 
