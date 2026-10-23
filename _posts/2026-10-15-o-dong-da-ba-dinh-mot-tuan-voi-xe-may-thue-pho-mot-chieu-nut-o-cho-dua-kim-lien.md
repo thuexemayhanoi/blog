@@ -75,7 +75,7 @@ Ban ngày, khi ghé các điểm như Văn Miếu, Lăng Bác hay phố Kim Mã,
 
 ## Chọn xe và nhận xe cho một tuần
 
-Đường phố đông và ngõ hẹp, xe tay ga gọn nhẹ dễ dắt và dễ quay đầu hơn. Giá tuần đã duyệt: Honda Vision 800.000–1.000.000 đồng, Honda Air Blade 800.000 đồng, Honda Click hoặc Yamaha Mio 600.000–700.000 đồng; Honda Wave thuê theo tuần thì liên hệ để xác nhận.
+Đường phố đông và ngõ hẹp, xe tay ga gọn nhẹ dễ dắt và dễ quay đầu hơn. Giá tuần đã duyệt: Honda Vision 1.000.000 đồng, Honda Air Blade 1.000.000 đồng, Honda Click hoặc Yamaha Mio 700.000 đồng; Honda Wave 700.000 đồng.
 
 Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở từ 09:00 đến 21:00 và không giao xe ngoài giờ này. Từ Ba Đình, Đống Đa sang tiệm có thể qua cầu Chương Dương hoặc cầu Long Biên, bật dẫn đường ở chế độ xe máy. Nếu muốn tiệm mang xe tới chỗ trọ, thời gian và chi phí giao nhận phải xác nhận trước khi đặt. Mức cọc và giấy tờ cũng được xác nhận trực tiếp; để lại giấy tờ nào thì hỏi rõ và xin biên nhận.
 

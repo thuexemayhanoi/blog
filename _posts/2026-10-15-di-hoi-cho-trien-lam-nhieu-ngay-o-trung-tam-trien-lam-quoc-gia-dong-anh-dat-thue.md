@@ -42,9 +42,9 @@ Nếu muốn được giao xe đến chỗ ở thay vì tự đến lấy, thờ
 Giá thuê theo bảng giá hiện hành:
 
 - Honda Wave: 150.000 đ một ngày.
-- Honda Vision: 200.000 đ một ngày, tuần 800.000 đến 1.000.000 đ.
-- Honda Air Blade: 200.000 đ một ngày, tuần 800.000 đ.
-- Honda Click, Yamaha Mio: 150.000 đ một ngày, tuần 600.000 đến 700.000 đ.
+- Honda Vision: 200.000 đ một ngày, tuần 1.000.000 đ.
+- Honda Air Blade: 200.000 đ một ngày, tuần 1.000.000 đ.
+- Honda Click, Yamaha Mio: 150.000 đ một ngày, tuần 700.000 đ.
 
 Người làm gian hàng hay phải chở thùng tài liệu, hàng mẫu, cuộn băng rôn. Xe tay ga có cốp tiện hơn cho đồ nhỏ; đồ dài hay thùng to thì hỏi xe có baga, xem bài [thuê xe máy có sẵn baga hoặc thùng chở hàng](/thue-xe/2026/10/15/thue-xe-may-co-san-baga-hoac-thung-cho-hang-hoi-cua-hang-gia-co-khac-va-lap-them/). Vật tư dựng gian cồng kềnh nên đi xe tải theo hướng dẫn của ban tổ chức, không chằng lên xe máy.
 

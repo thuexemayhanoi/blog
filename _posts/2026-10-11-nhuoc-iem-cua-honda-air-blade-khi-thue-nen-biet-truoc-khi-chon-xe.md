@@ -42,7 +42,7 @@ Ga nhạy tự nó không phải lỗi của xe, chỉ cần bàn tay quen dần
 
 ## Giá thuê Air Blade nhỉnh hơn Click và Mio
 
-Đây là nhược điểm dễ đo nhất vì nằm ngay trên bảng giá. Tại Nguyễn Tú, Air Blade tính 200 nghìn đồng/ngày, 800 nghìn đồng/tuần và 1,4 triệu đồng/tháng, còn Click hoặc Mio tính 150 nghìn đồng/ngày, 600 đến 700 nghìn đồng/tuần và 1 đến 1,2 triệu đồng/tháng.
+Đây là nhược điểm dễ đo nhất vì nằm ngay trên bảng giá. Tại Nguyễn Tú, Air Blade tính 200 nghìn đồng/ngày, 1 triệu đồng/tuần và 1,5 triệu đồng/tháng, còn Click hoặc Mio tính 150 nghìn đồng/ngày, 700 nghìn đồng/tuần và 900 nghìn đến 1,2 triệu đồng/tháng.
 
 Bạn tự nhân giá ngày với số ngày định thuê, rồi đặt cạnh giá tuần hoặc giá tháng để xem cách tính nào hợp với chuyến của mình. Giá có thể thay đổi, nên hãy hỏi lại để xác nhận giá hiện tại trước khi đặt xe.
 

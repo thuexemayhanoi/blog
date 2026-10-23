@@ -79,8 +79,8 @@ Biết mình sẽ về muộn thì báo cửa hàng ngay, đừng đợi đến 
 Đường Đông Bắc nhiều đèo nhưng phần lớn là đường nhựa, xe số hay xe ga đều đi được nếu người lái quen tay:
 
 - **Honda Wave**, giá 150.000 đ/ngày: xe số, chủ động về số thấp khi xuống dốc dài.
-- **Honda Vision**, giá tuần 800.000–1.000.000 đ: xe ga gọn, hợp người đi một mình, ít hành lý.
-- **Honda Air Blade**, giá tuần 800.000 đ: ngồi êm hơn, cốp rộng cho đồ đi bảy ngày.
+- **Honda Vision**, giá tuần 1.000.000 đ: xe ga gọn, hợp người đi một mình, ít hành lý.
+- **Honda Air Blade**, giá tuần 1.000.000 đ: ngồi êm hơn, cốp rộng cho đồ đi bảy ngày.
 
 Đi xe ga thì khi xuống đèo phối hợp hai phanh, không bóp liên tục. Hai người chở nhau kèm ba lô nên chọn xe khỏe hơn. Giá các dòng khác xem ở [bảng giá](/bang-gia/), rồi nhắn cửa hàng ngày nhận, ngày trả và dòng xe muốn giữ để chốt sớm.
 

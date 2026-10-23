@@ -73,7 +73,7 @@ Xe thuê dính nhiều bùn đất, khi trả xe nên nói trước với cửa 
 
 ## Thuê Honda Click để đi khu Hoàng Mai
 
-Honda Click hợp với người chạy quãng ngắn trong khu Hoàng Mai vì nhẹ, dễ dắt qua đoạn rào chắn và dễ len ở chỗ đông. Giá thuê tại cửa hàng là 150.000 đ/ngày, theo tuần 600.000–700.000 đ, theo tháng 1.000.000–1.200.000 đ. Đặt cọc, giấy tờ và việc có kèm mũ bảo hiểm hay không, bạn hỏi cửa hàng khi đặt xe.
+Honda Click hợp với người chạy quãng ngắn trong khu Hoàng Mai vì nhẹ, dễ dắt qua đoạn rào chắn và dễ len ở chỗ đông. Giá thuê tại cửa hàng là 150.000 đ/ngày, theo tuần 700.000 đ, theo tháng 900.000–1.200.000 đ. Đặt cọc, giấy tờ và việc có kèm mũ bảo hiểm hay không, bạn hỏi cửa hàng khi đặt xe.
 
 Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, liên hệ 0942 467 674. Từ Long Biên sang phía Minh Khai, người thuê thường đi cầu Vĩnh Tuy; lưu ý gió ngang trên cầu với xe nhẹ có trong bài [gió ngang trên cầu Nhật Tân, Vĩnh Tuy](/xe-may/2026/10/13/gio-ngang-tren-cau-nhat-tan-vinh-tuy-honda-click-nhe-co-bi-lang-khong/).
 

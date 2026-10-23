@@ -40,13 +40,13 @@ Lưu ý thêm: cộng vào khoảng chờ nửa ngày đến một ngày dự ph
 
 Đây là bảng giá đang niêm yết ở cửa hàng Nguyễn Tú, bản đầy đủ có ở trang [bảng giá thuê xe máy](/bang-gia/):
 
-- Honda Wave: 150.000 đồng một ngày; giá tuần nhắn để được báo.
-- Honda Click, Yamaha Mio: 150.000 đồng một ngày; 600.000–700.000 đồng một tuần.
-- Honda Vision: 200.000 đồng một ngày; 800.000–1.000.000 đồng một tuần.
-- Honda Air Blade: 200.000 đồng một ngày; 800.000 đồng một tuần.
+- Honda Wave: 150.000 đồng một ngày; 700.000 đồng một tuần.
+- Honda Click, Yamaha Mio: 150.000 đồng một ngày; 700.000 đồng một tuần.
+- Honda Vision: 200.000 đồng một ngày; 1.000.000 đồng một tuần.
+- Honda Air Blade: 200.000 đồng một ngày; 1.000.000 đồng một tuần.
 - Xe máy điện, xe đạp điện: liên hệ để xác nhận giá.
 
-Gói tuần là mức riêng, không phải giá ngày nhân bảy. Bài [đừng tự nhân giá ngày để đoán giá tuần và tháng](/hoi-dap/2026/10/14/dung-tu-nhan-gia-ngay-de-doan-gia-tuan-va-thang-cach-doc-bang-gia-xe-may/) giải thích kỹ hơn cách đọc các khoảng giá này.
+Gói tuần là mức riêng, không phải giá ngày nhân bảy. Bài [đừng tự nhân giá ngày để đoán giá tuần và tháng](/hoi-dap/2026/10/14/dung-tu-nhan-gia-ngay-de-doan-gia-tuan-va-thang-cach-doc-bang-gia-xe-may/) giải thích kỹ hơn cách đọc bảng giá.
 
 ## Thuê theo ngày hay theo tuần: tính nhanh theo mẫu xe
 
@@ -54,11 +54,11 @@ Cách so đơn giản nhất là tìm "ngày hòa vốn": số ngày mà cộng 
 
 ### Vision và Air Blade
 
-Với Air Blade, bốn ngày lẻ là 800.000 đồng, đúng bằng gói tuần. Nghĩa là nếu khả năng phải chờ từ bốn ngày trở lên, lấy gói tuần không thiệt mà còn dư vài ngày dự phòng khi biển về trễ. Với Vision, bốn ngày lẻ cũng là 800.000 đồng, chạm mức thấp của khoảng gói tuần; nên hỏi cửa hàng mức tuần cụ thể áp cho bạn rồi mới so.
+Với Air Blade, năm ngày lẻ là 1.000.000 đồng, đúng bằng gói tuần. Nghĩa là nếu khả năng phải chờ từ năm ngày trở lên, lấy gói tuần không thiệt mà còn dư vài ngày dự phòng khi biển về trễ. Với Vision cũng vậy: năm ngày lẻ là 1.000.000 đồng, bằng đúng gói tuần.
 
 ### Click, Mio và Wave
 
-Click hoặc Mio thuê bốn ngày lẻ là 600.000 đồng, bằng mức thấp của gói tuần. Từ ngày thứ năm, cộng giá ngày đã vượt cả mức cao của gói tuần. Với Wave, hãy nhắn hỏi giá tuần trước khi quyết định.
+Click, Mio hoặc Wave thuê bốn ngày lẻ vẫn thấp hơn gói tuần 700.000 đồng. Từ ngày thứ năm, cộng giá ngày đã vượt gói tuần.
 
 ### Quy tắc dễ nhớ
 
@@ -83,7 +83,7 @@ Tiệm tôi mở cửa 09:00–21:00, không giao xe ngoài giờ mở cửa, n�
 
 Giả sử bạn ở Gia Lâm, làm ở Hoàn Kiếm, vừa mua một chiếc xe ga mới vào thứ Hai. Đại lý báo hồ sơ đã nộp, dự kiến có biển trong tuần, nhưng không chắc ngày nào. Bạn quen đi xe ga nên muốn thuê Vision cho giống cảm giác lái.
 
-Cách làm hợp lý: gọi cửa hàng, nói rõ "tôi chờ biển xe mới, khoảng ba đến bảy ngày, muốn thuê Vision". Hỏi mức gói tuần cho bạn, hỏi nếu có biển sớm thì trả trước hạn tính sao, và hẹn giờ nhận xe sáng thứ Ba. Nếu cửa hàng báo gói tuần ở mức thấp của khoảng giá, gói tuần là lựa chọn an toàn. Nếu đại lý gọi báo chắc chắn thứ Năm có biển, thuê ngày lẻ lại hợp hơn.
+Cách làm hợp lý: gọi cửa hàng, nói rõ "tôi chờ biển xe mới, khoảng ba đến bảy ngày, muốn thuê Vision". Hỏi mức gói tuần cho bạn, hỏi nếu có biển sớm thì trả trước hạn tính sao, và hẹn giờ nhận xe sáng thứ Ba. Nếu cửa hàng báo gói tuần đúng bảng giá, gói tuần là lựa chọn an toàn. Nếu đại lý gọi báo chắc chắn thứ Năm có biển, thuê ngày lẻ lại hợp hơn.
 
 ## Đặt xe ở cửa hàng Nguyễn Tú
 

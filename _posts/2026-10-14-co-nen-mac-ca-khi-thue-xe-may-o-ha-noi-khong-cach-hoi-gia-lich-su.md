@@ -41,7 +41,7 @@ Phần "thương lượng" có ý nghĩa nhất khi thuê xe máy nằm ở chuy
 
 1. **Dòng xe nào hợp lịch trình.** Chỉ loanh quanh phố cổ, Hoàn Kiếm hay ven hồ Tây thì Wave hoặc Click ở mức 150.000 đồng một ngày thường là đủ; chở thêm người hay cần cốp rộng thì Vision, Air Blade có thể hợp hơn.
 
-2. **Có gói tuần, gói tháng không.** Ở lâu, gói dài thường hợp lý hơn thuê lẻ, ví dụ Air Blade có gói tuần 800.000 đồng theo bảng hiện tại. Đó là mức có sẵn, không phải mức xin bớt mà có.
+2. **Có gói tuần, gói tháng không.** Ở lâu, gói dài thường hợp lý hơn thuê lẻ, ví dụ Air Blade có gói tuần 1.000.000 đồng theo bảng hiện tại. Đó là mức có sẵn, không phải mức xin bớt mà có.
 
 3. **Giá đã gồm những gì.** Mũ bảo hiểm, áo mưa, cách tính ngày, quy định khi trả trễ. Bài [có phát sinh thêm tiền nào ngoài giá niêm yết không](/hoi-dap/2026-09-29-co-phat-sinh-them-tien-nao-ngoai-gia-niem-yet-khong/) liệt kê các câu nên hỏi.
 
@@ -53,7 +53,7 @@ Nhiều người ngại hỏi giá vì sợ bị coi là kỳ kèo, hoặc sợ 
 
 - **Nói nhu cầu trước, hỏi giá sau.** "Em ở Hà Nội năm ngày, chủ yếu đi trong nội thành, anh chị tư vấn giúp em xe nào hợp và giá thế nào ạ?" Câu này cho người cho thuê đủ thông tin để gợi ý đúng, nghe cũng dễ chịu hơn nhiều so với một câu cụt lủn "bao nhiêu?".
 - **Hỏi dựa trên bảng.** "Bảng ghi Vision 200.000 đồng một ngày, nếu em thuê cả tuần thì chuyển sang gói tuần được không ạ?" Bạn cho thấy mình đã đọc bảng, và câu trả lời nhận được sẽ rõ ràng.
-- **Nhắc lại con số khi chưa chắc.** Nghe "một trăm rưỡi" hay "tám trăm một tuần" mà chưa hiểu hết, cứ lặp lại để xác nhận. Cách nói giá tắt kiểu này được giải thích trong bài [đọc giá thuê xe máy bằng tiếng Việt](/thue-xe/2026/10/11/oc-gia-thue-xe-may-bang-tieng-viet-150k-1tr8-mot-tram-ruoi-la-bao-nhieu/).
+- **Nhắc lại con số khi chưa chắc.** Nghe "một trăm rưỡi" hay "bảy trăm một tuần" mà chưa hiểu hết, cứ lặp lại để xác nhận. Cách nói giá tắt kiểu này được giải thích trong bài [đọc giá thuê xe máy bằng tiếng Việt](/thue-xe/2026/10/11/oc-gia-thue-xe-may-bang-tieng-viet-150k-1tr8-mot-tram-ruoi-la-bao-nhieu/).
 
 Nên tránh kiểu "chỗ khác rẻ hơn, bớt đi anh" hay trả một con số tùy ý thấp hơn bảng: ở cửa hàng có bảng giá, câu đó chỉ làm cuộc trò chuyện ngượng ngập. Thấy nơi khác hợp hơn thì cứ cảm ơn rồi đi xem.
 
@@ -64,8 +64,8 @@ Hỏi qua điện thoại hay tin nhắn trước khi đến cũng theo nguyên 
 Có vài tình huống không phải mặc cả nhưng rất nên hỏi lại:
 
 - **Con số được báo khác với bảng niêm yết.** Chỉ cần hỏi nhẹ nhàng: "Em thấy trên bảng ghi khác, anh chị xem giúp em mức nào đúng ạ?" Có thể bảng vừa cập nhật, cũng có thể bạn nhìn nhầm dòng xe.
-- **Bảng ghi giá theo khoảng.** Một số mức tuần, tháng được ghi dạng khoảng, ví dụ Vision 800.000–1.000.000 đồng một tuần. Hỏi xem chiếc xe mình sẽ nhận áp mức nào là câu hỏi hoàn toàn chính đáng, không phải trả giá.
-- **Dòng xe chưa có giá trên bảng.** Xe máy điện, xe đạp điện, hay gói tuần, gói tháng của Honda Wave cần liên hệ để xác nhận. Hỏi thẳng và ghi lại con số được báo.
+- **Bảng ghi giá theo khoảng.** Một số mức tuần, tháng được ghi dạng khoảng, ví dụ Vision 1.800.000–2.000.000 đồng một tháng. Hỏi xem chiếc xe mình sẽ nhận áp mức nào là câu hỏi hoàn toàn chính đáng, không phải trả giá.
+- **Dòng xe chưa có giá trên bảng.** Xe máy điện và xe đạp điện cần liên hệ để xác nhận. Hỏi thẳng và ghi lại con số được báo.
 - **Kế hoạch đổi giữa chừng.** Ở thêm ngày hay trả sớm: hỏi trước cách tính.
 
 Khách nước ngoài chưa quen tiếng Việt có thể chỉ vào dòng xe trên bảng giá và giơ tay ra hiệu số ngày; bài [giao tiếp với cửa hàng khi không nói tiếng Việt](/thue-xe/2026/09/27/giao-tiep-voi-cua-hang-khi-khong-noi-tieng-viet/) có thêm vài mẹo.

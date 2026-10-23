@@ -24,8 +24,8 @@ Dòng này ghi các mức như sau:
 | Thời gian thuê | Honda Click / Yamaha Mio |
 |---|---|
 | Theo ngày | 150.000 đồng |
-| Theo tuần | 600.000 đến 700.000 đồng |
-| Theo tháng | 1.000.000 đến 1.200.000 đồng |
+| Theo tuần | 700.000 đồng |
+| Theo tháng | 900.000 đến 1.200.000 đồng |
 | Tiền cọc | Xác nhận trực tiếp |
 
 Hai mẫu xe chung một dòng nghĩa là bảng giá áp dụng cùng các mức này cho cả Click lẫn Mio. Bạn không cần tìm một bảng riêng cho từng xe. Điều bảng giá không cho bạn biết là vào đúng ngày bạn cần, cửa hàng đang còn Click hay Mio, hay còn cả hai; đó là việc cần hỏi.
@@ -34,13 +34,13 @@ Hai mẫu xe chung một dòng nghĩa là bảng giá áp dụng cùng các mứ
 
 Giá ngày 150.000 đồng là một con số cố định, bằng giá ngày của Honda Wave và thấp hơn Vision, Air Blade. Với chuyến đi ngắn vài ngày trong phố, đây là mức dễ tính nhất.
 
-Giá tuần và giá tháng là khoảng. Mức bạn trả nằm trong khoảng đó và được cửa hàng xác nhận cho đúng đợt thuê của bạn. Khi lập ngân sách trong lúc chờ trả lời, hãy tính theo mức cao cho an toàn. Một điểm nên để ý: giá tuần thấp hơn hẳn bảy ngày tính theo giá ngày, giá tháng cũng thấp hơn nhiều so với ba mươi ngày lẻ. Nếu bạn cần xe từ năm, sáu ngày trở lên, hãy hỏi giá tuần trước khi quyết định thuê theo ngày.
+Giá tuần là 700.000 đồng, còn giá tháng là khoảng: mức bạn trả nằm trong khoảng đó và được cửa hàng xác nhận cho đúng đợt thuê của bạn. Khi lập ngân sách trong lúc chờ trả lời, hãy tính theo mức cao cho an toàn. Một điểm nên để ý: giá tuần thấp hơn hẳn bảy ngày tính theo giá ngày, giá tháng cũng thấp hơn nhiều so với ba mươi ngày lẻ. Nếu bạn cần xe từ năm, sáu ngày trở lên, hãy hỏi giá tuần trước khi quyết định thuê theo ngày.
 
 Đừng tự đoán điều gì đưa bạn vào mức thấp hay mức cao của khoảng. Bảng giá không ghi điều đó, nên câu trả lời đúng là câu trả lời của cửa hàng bằng tin nhắn.
 
 ## Thuê lẻ vài ngày rồi kéo dài: lúc nào nên hỏi giá tuần
 
-Nhiều người khởi đầu bằng thuê theo ngày vì chưa chắc lịch trình, rồi ở lại Hà Nội lâu hơn dự tính. Với mức 150.000 đồng một ngày, chỉ cần thuê lẻ tới ngày thứ năm là tổng tiền đã vượt mức cao nhất của giá tuần. Vì vậy, nếu bạn thấy mình có thể dùng xe từ bốn, năm ngày trở lên, hãy nhắn cửa hàng ngay khi biết, đừng đợi tới lúc trả xe.
+Nhiều người khởi đầu bằng thuê theo ngày vì chưa chắc lịch trình, rồi ở lại Hà Nội lâu hơn dự tính. Với mức 150.000 đồng một ngày, chỉ cần thuê lẻ tới ngày thứ năm là tổng tiền đã vượt giá tuần. Vì vậy, nếu bạn thấy mình có thể dùng xe từ bốn, năm ngày trở lên, hãy nhắn cửa hàng ngay khi biết, đừng đợi tới lúc trả xe.
 
 Câu hỏi cần có câu trả lời là: những ngày đã thuê lẻ có được tính gộp vào giá tuần không, và nếu gia hạn tiếp thành tháng thì tính thế nào. Bảng giá không ghi quy tắc chuyển đổi này, nên cách duy nhất để chắc chắn là hỏi và giữ lại tin nhắn trả lời.
 
@@ -70,6 +70,6 @@ Mức tháng của dòng Click và Mio là mức thấp nhất trong các xe ga 
 
 ## Tóm lại
 
-Click và Mio chung một dòng nghĩa là chung các mức giá: 150.000 đồng một ngày, 600.000 đến 700.000 đồng một tuần, 1.000.000 đến 1.200.000 đồng một tháng, cọc xác nhận trực tiếp. Giá tuần, giá tháng là khoảng, hãy xin con số cụ thể; mẫu nào còn xe vào ngày nhận, hãy hỏi trước. Bảng giá đầy đủ của mọi dòng xe có trên trang [bảng giá thuê xe](/bang-gia/ "Bảng giá thuê xe máy").
+Click và Mio chung một dòng nghĩa là chung các mức giá: 150.000 đồng một ngày, 700.000 đồng một tuần, 900.000 đến 1.200.000 đồng một tháng, cọc xác nhận trực tiếp. Giá tháng là khoảng, hãy xin con số cụ thể; mẫu nào còn xe vào ngày nhận, hãy hỏi trước. Bảng giá đầy đủ của mọi dòng xe có trên trang [bảng giá thuê xe](/bang-gia/ "Bảng giá thuê xe máy").
 
 Các bài khác về cách đọc giá nằm ở chuyên mục [giá thuê xe](/thue-xe/gia-thue/ "Giá thuê xe máy"), còn toàn bộ hướng dẫn thuê xe có ở mục [thuê xe máy](/thue-xe/ "Thuê xe máy Hà Nội").

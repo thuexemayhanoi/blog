@@ -72,8 +72,8 @@ Nếu dự án kéo dài từ một đến vài tháng, thuê xe theo tháng th�
 ### Chọn xe theo nhu cầu
 
 - **Honda Vision:** gọn, dễ đi trong phố, giá thuê tháng 1.800.000 đến 2.000.000 đ.
-- **Honda Air Blade:** máy khỏe, hợp người hay đi xa hơn, thuê tháng 1.400.000 đ.
-- **Honda Click hoặc Yamaha Mio:** xe ga nhỏ, thuê tháng từ 1.000.000 đến 1.200.000 đ.
+- **Honda Air Blade:** máy khỏe, hợp người hay đi xa hơn, thuê tháng 1.500.000 đ.
+- **Honda Click hoặc Yamaha Mio:** xe ga nhỏ, thuê tháng từ 900.000 đến 1.200.000 đ.
 - **Honda Wave:** xe số bền, 150.000 đ một ngày; muốn thuê theo tháng thì hỏi cửa hàng.
 
 ### Giấy tờ và những điều cần hỏi

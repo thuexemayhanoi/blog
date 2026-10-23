@@ -23,7 +23,7 @@ Văn Điển ở Thanh Trì, phía nam, có cổng trên đường Phan Trọng 
 
 Gọi xe từng chặng với hoa, mâm quả, túi vàng mã vừa bất tiện vừa khó hẹn giờ về từ nghĩa trang xa. Thuê lẻ từng ngày thì lần nào cũng phải đi nhận, đi trả. Thuê tuần thì xe nằm sẵn ở nhà: trời ráo thì đi, mưa rét thì để dành.
 
-Giá tuần tham khảo ở tiệm: Honda Vision 800.000–1.000.000 đ, Honda Air Blade 800.000 đ, Honda Click hoặc Yamaha Mio 600.000–700.000 đ. Giá từng thời điểm xem ở [bảng giá thuê xe](/bang-gia/); tiền cọc và giấy tờ cần để lại thì xác nhận trực tiếp với cửa hàng. Chặng xa như Yên Kỳ, tôi nghiêng về Vision hoặc Air Blade vì cốp rộng, người ngồi sau cũng đỡ mỏi.
+Giá tuần tham khảo ở tiệm: Honda Vision 1.000.000 đ, Honda Air Blade 1.000.000 đ, Honda Click hoặc Yamaha Mio 700.000 đ. Giá từng thời điểm xem ở [bảng giá thuê xe](/bang-gia/); tiền cọc và giấy tờ cần để lại thì xác nhận trực tiếp với cửa hàng. Chặng xa như Yên Kỳ, tôi nghiêng về Vision hoặc Air Blade vì cốp rộng, người ngồi sau cũng đỡ mỏi.
 
 ## Lịch một tuần đi tảo mộ: chia ba nghĩa trang theo hướng
 

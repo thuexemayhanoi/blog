@@ -77,7 +77,7 @@ Thói quen nên tập từ ngày đầu:
 
 ## Chưa có xe riêng mà muốn chạy thử
 
-Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên cho thuê xe số, xe ga phổ thông trong phạm vi bằng A1: Honda Wave 150.000 đ/ngày; Honda Click, Yamaha Mio thuê tháng 1.000.000 đến 1.200.000 đ, xem [bảng giá thuê xe](/bang-gia/). Định dùng xe thuê để chở khách hay giao hàng thì nói rõ khi đặt; điều kiện thuê và đặt cọc xác nhận trực tiếp với cửa hàng qua số 0942 467 674, giờ mở cửa 09:00 đến 21:00. Cửa hàng không làm dịch vụ bằng lái.
+Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên cho thuê xe số, xe ga phổ thông trong phạm vi bằng A1: Honda Wave 150.000 đ/ngày; Honda Click, Yamaha Mio thuê tháng 900.000 đến 1.200.000 đ, xem [bảng giá thuê xe](/bang-gia/). Định dùng xe thuê để chở khách hay giao hàng thì nói rõ khi đặt; điều kiện thuê và đặt cọc xác nhận trực tiếp với cửa hàng qua số 0942 467 674, giờ mở cửa 09:00 đến 21:00. Cửa hàng không làm dịch vụ bằng lái.
 
 ## Nguồn tham khảo và lưu ý
 

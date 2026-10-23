@@ -23,15 +23,15 @@ Các dòng xe ga trên bảng giá có cả giá tuần và giá tháng:
 
 | Dòng xe | Giá tuần | Giá tháng |
 |---|---|---|
-| Honda Click, Yamaha Mio | 600.000 đến 700.000 đồng | 1.000.000 đến 1.200.000 đồng |
-| Honda Air Blade | 800.000 đồng | 1.400.000 đồng |
-| Honda Vision | 800.000 đến 1.000.000 đồng | 1.800.000 đến 2.000.000 đồng |
+| Honda Click, Yamaha Mio | 700.000 đồng | 900.000 đến 1.200.000 đồng |
+| Honda Air Blade | 1.000.000 đồng | 1.500.000 đồng |
+| Honda Vision | 1.000.000 đồng | 1.800.000 đến 2.000.000 đồng |
 
-Honda Wave có giá ngày 150.000 đồng, còn giá tuần và giá tháng chưa niêm yết, phải hỏi cửa hàng. Tiền cọc của mọi dòng xe ghi xác nhận trực tiếp.
+Honda Wave có giá ngày 150.000 đồng, giá tuần 700.000 đồng và giá tháng 900.000 đến 1.200.000 đồng. Tiền cọc của mọi dòng xe ghi xác nhận trực tiếp.
 
 ## Thuê xe máy trả theo tuần: nhẹ từng lần nhưng nặng cả tháng
 
-Điều đầu tiên nên thấy rõ là giá tháng rẻ hơn rất nhiều so với bốn lần giá tuần. Với Click và Mio, bốn tuần tính theo mức thấp nhất của giá tuần đã gấp đôi mức cao nhất của giá tháng. Air Blade và Vision cũng vậy: bốn tuần cộng lại cao hơn hẳn gói tháng.
+Điều đầu tiên nên thấy rõ là giá tháng rẻ hơn rất nhiều so với bốn lần giá tuần. Với Click và Mio, bốn tuần tính theo giá tuần đã hơn gấp đôi mức cao nhất của giá tháng. Air Blade và Vision cũng vậy: bốn tuần cộng lại cao hơn hẳn gói tháng.
 
 Vì vậy, trả theo tuần chỉ hợp lý trong hai trường hợp: bạn chưa chắc sẽ cần xe cả tháng, hoặc bạn thật sự không đủ tiền mặt để trả gói tháng ngay từ đầu. Nếu bạn biết mình sẽ đi làm cả tháng và cần xe mỗi ngày, gói tháng là cách tiết kiệm hơn nhiều. Câu hỏi còn lại là làm sao để trả gói tháng khi tiền mặt đang eo hẹp.
 
@@ -45,7 +45,7 @@ Vì vậy, trả theo tuần chỉ hợp lý trong hai trường hợp: bạn ch
 
 **Thuê một tuần trước, chuyển sang tháng sau.** Nếu thật sự chưa đủ tiền cho gói tháng, thuê tuần đầu để kịp đi làm, rồi hỏi cửa hàng việc chuyển sang gói tháng: tuần đã trả có được tính vào tháng không. Chỉ làm theo cách này khi đã có câu trả lời bằng tin nhắn.
 
-**Nếu quen xe số, hỏi thêm giá tháng của Wave.** Honda Wave có giá ngày bằng Click và Mio nhưng giá tuần, giá tháng chưa niêm yết. Người quen tay xe số có thể xin báo giá tháng của Wave cùng lúc với Click, Mio để có thêm một phương án so sánh trước khi chốt.
+**Nếu quen xe số, hỏi thêm về Wave.** Honda Wave có giá ngày, giá tuần và giá tháng bằng Click và Mio (150.000 đồng một ngày, 700.000 đồng một tuần, 900.000 đến 1.200.000 đồng một tháng). Người quen tay xe số có thể hỏi thêm về Wave cùng lúc với Click, Mio để có thêm một phương án so sánh trước khi chốt.
 
 ## Một tin nhắn để hỏi cho đủ
 

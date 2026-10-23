@@ -21,7 +21,7 @@ Người tìm mua nhà đất ven đô hay mắc một lỗi: xem mỗi nơi đ�
 
 Đi xe của môi giới thì họ chọn đường, chọn giờ, chọn thứ tự điểm xem. Tự cầm lái, bạn đi đúng con đường mà mình sẽ đi mỗi ngày nếu mua chỗ đó. Một tuần cũng đủ để xem một vùng hai lần: một lần ban ngày, một lần lúc tối hoặc ngày mưa.
 
-Gói tuần ở tiệm hiện là: Honda Vision 800.000–1.000.000 đ, Honda Air Blade 800.000 đ, Honda Click hoặc Yamaha Mio 600.000–700.000 đ. Đi nhiều quãng xa và cần cốp đựng giấy tờ, ô, áo mưa thì xe ga như Vision hay Air Blade dễ chịu hơn. Điều kiện gói xem ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
+Gói tuần ở tiệm hiện là: Honda Vision 1.000.000 đ, Honda Air Blade 1.000.000 đ, Honda Click hoặc Yamaha Mio 700.000 đ. Đi nhiều quãng xa và cần cốp đựng giấy tờ, ô, áo mưa thì xe ga như Vision hay Air Blade dễ chịu hơn. Điều kiện gói xem ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
 
 ## Chia bảy ngày theo vùng
 

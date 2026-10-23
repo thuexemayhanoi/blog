@@ -59,7 +59,7 @@ Mức xử phạt bài không nêu vì chưa đối chiếu văn bản xử ph�
 
 Phải lo: toàn bộ tiền xăng, chỗ gửi xe ở nơi làm và chỗ trọ (mức thu tùy từng nơi, hãy hỏi trực tiếp), và giấy tờ lái xe. Điều 56 khoản 1 cùng luật buộc người lái có giấy phép lái xe phù hợp với loại xe (xe gắn máy có điều kiện riêng ở khoản 4) và mang theo giấy tờ của xe; cần đưa gì khi thuê thì hỏi cửa hàng.
 
-Về giá, chỉ có các khoảng đã niêm yết: Honda Click / Yamaha Mio 1.000.000–1.200.000 đồng mỗi tháng, Honda Air Blade 1.400.000 đồng, Honda Vision 1.800.000–2.000.000 đồng; Honda Wave chưa có giá tháng, cần liên hệ. Bảng đầy đủ ở trang [bảng giá](/bang-gia/). Bài không cộng xăng hay gửi xe thành tổng; cách tự tính theo số ngày đi làm có trong bài [đi làm bằng xe máy thuê theo tháng: mỗi ngày thực tế tốn bao nhiêu](/thue-xe/2026/10/15/di-lam-bang-xe-may-thue-theo-thang-moi-ngay-di-lam-thuc-te-ton-bao-nhieu-tien-th/).
+Về giá, các mức đã niêm yết: Honda Click / Yamaha Mio và Honda Wave 900.000–1.200.000 đồng mỗi tháng, Honda Air Blade 1.500.000 đồng, Honda Vision 1.800.000–2.000.000 đồng. Bảng đầy đủ ở trang [bảng giá](/bang-gia/). Bài không cộng xăng hay gửi xe thành tổng; cách tự tính theo số ngày đi làm có trong bài [đi làm bằng xe máy thuê theo tháng: mỗi ngày thực tế tốn bao nhiêu](/thue-xe/2026/10/15/di-lam-bang-xe-may-thue-theo-thang-moi-ngay-di-lam-thuc-te-ton-bao-nhieu-tien-th/).
 
 Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00 và không giao xe ngoài giờ này. Người đi làm nên chọn một buổi chiều tối còn trong giờ mở cửa để nhận xe, hỏi trước ngày nhận. Mức đặt cọc xác nhận trực tiếp qua số 0942467674.
 

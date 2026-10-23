@@ -68,6 +68,6 @@ Nếu rời công viên vào khoảng sáu giờ chiều, các trục quanh đó
 
 ## Thuê xe máy ở Nguyễn Tú
 
-Nếu bạn ở Thanh Xuân, Cầu Giấy vài tuần và cần xe đi lại, một chiếc xe ga gọn là đủ cho những quãng ngắn quanh khu. Trên bảng giá của Nguyễn Tú, Honda Vision có giá ngày 200.000 đồng, giá tuần từ 800.000 tới 1.000.000 đồng; Honda Click và Yamaha Mio có giá ngày 150.000 đồng; tiền cọc xác nhận trực tiếp. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, số điện thoại 0942 467 674.
+Nếu bạn ở Thanh Xuân, Cầu Giấy vài tuần và cần xe đi lại, một chiếc xe ga gọn là đủ cho những quãng ngắn quanh khu. Trên bảng giá của Nguyễn Tú, Honda Vision có giá ngày 200.000 đồng, giá tuần 1.000.000 đồng; Honda Click và Yamaha Mio có giá ngày 150.000 đồng; tiền cọc xác nhận trực tiếp. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, số điện thoại 0942 467 674.
 
 Các điểm tham quan khác có ở trang [điểm đến Hà Nội](/du-lich/diem-den/ "Điểm đến Hà Nội"), còn các gợi ý đi chơi bằng xe máy ở mục [du lịch](/du-lich/ "Du lịch Hà Nội bằng xe máy").

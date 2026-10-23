@@ -83,7 +83,7 @@ Nếu danh sách cần sửa dài, cộng tiền sửa với tiền gửi rồi 
 - Xe quá cũ, giấy tờ chưa sang tên, sửa và gửi tốn hơn thuê vài tháng.
 - Bạn cần xe ngay từ ngày đầu, không chờ được tàu hàng.
 
-Mức thuê theo tháng ở cửa hàng tôi: Honda Vision khoảng 1.800.000 đến 2.000.000 đ, Honda Air Blade khoảng 1.400.000 đ, Honda Click hoặc Yamaha Mio khoảng 1.000.000 đến 1.200.000 đ. Điều kiện chi tiết ở trang [thuê xe máy theo tháng](/thue-xe/thue-thang/), giá ngày và tuần ở [bảng giá](/bang-gia/). Đang phân vân giữa thuê và mua xe mới thì đọc thêm bài [so sánh thuê xe tháng với mua xe trả góp](/thue-xe/2026/10/15/thue-xe-may-theo-thang-hay-mua-xe-moi-tra-gop-so-sanh-dong-tien-mot-nam-cho-nguo/).
+Mức thuê theo tháng ở cửa hàng tôi: Honda Vision khoảng 1.800.000 đến 2.000.000 đ, Honda Air Blade khoảng 1.500.000 đ, Honda Click hoặc Yamaha Mio khoảng 900.000 đến 1.200.000 đ. Điều kiện chi tiết ở trang [thuê xe máy theo tháng](/thue-xe/thue-thang/), giá ngày và tuần ở [bảng giá](/bang-gia/). Đang phân vân giữa thuê và mua xe mới thì đọc thêm bài [so sánh thuê xe tháng với mua xe trả góp](/thue-xe/2026/10/15/thue-xe-may-theo-thang-hay-mua-xe-moi-tra-gop-so-sanh-dong-tien-mot-nam-cho-nguo/).
 
 ## Ví dụ: sinh viên từ Thanh Hóa lên học ở Cầu Giấy
 

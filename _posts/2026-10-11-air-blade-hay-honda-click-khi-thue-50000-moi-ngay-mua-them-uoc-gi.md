@@ -21,8 +21,8 @@ Phân vân thuê Air Blade hay Click, thứ khiến bạn chần chừ thường
 Theo mức giá thuê tham khảo hiện nay, hai xe chênh nhau như sau:
 
 - Thuê ngày: Air Blade 200 nghìn đồng, Click 150 nghìn đồng.
-- Thuê tuần: Air Blade 800 nghìn đồng, Click từ 600 nghìn đồng đến 700 nghìn đồng.
-- Thuê tháng: Air Blade 1,4 triệu đồng, Click từ 1 triệu đồng đến 1,2 triệu đồng.
+- Thuê tuần: Air Blade 1 triệu đồng, Click 700 nghìn đồng.
+- Thuê tháng: Air Blade 1,5 triệu đồng, Click từ 900 nghìn đồng đến 1,2 triệu đồng.
 
 Giá có thể thay đổi nên hãy hỏi lại trước khi đặt xe. Điều đáng chú ý là giá tuần và giá tháng tính theo mốc riêng, không phải lấy giá ngày nhân lên. Vì vậy thuê càng dài, khoảng cách giữa hai xe càng co lại so với phép nhân 50 nghìn đồng cho từng ngày. Còn nếu chỉ thuê một, hai ngày lẻ thì 50 nghìn đồng đó là khoản bạn trả nguyên vẹn mỗi ngày.
 

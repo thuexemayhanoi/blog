@@ -77,8 +77,8 @@ Tối thứ Sáu đổ đầy bình, sáng thứ Bảy chỉ việc đi. Trướ
 Đi lại chủ yếu trong nội thành, bạn không cần xe lớn. Một vài lựa chọn với giá tham khảo:
 
 - **Honda Vision:** nhẹ, yên thấp, dễ dắt ra vào bãi đông. Giá ngày 200.000 đ, giá tháng 1.800.000–2.000.000 đ.
-- **Honda Air Blade:** chạy êm trên các trục dài, giá tháng 1.400.000 đ.
-- **Honda Click hoặc Yamaha Mio:** gọn, tiết kiệm, giá tháng 1.000.000–1.200.000 đ.
+- **Honda Air Blade:** chạy êm trên các trục dài, giá tháng 1.500.000 đ.
+- **Honda Click hoặc Yamaha Mio:** gọn, tiết kiệm, giá tháng 900.000–1.200.000 đ.
 
 Máy tính xách tay nên đeo ba lô có lót chống sốc thay vì để trong cốp, vì cốp nóng và xóc. Bảng giá cập nhật có ở trang [bảng giá](/bang-gia/).
 

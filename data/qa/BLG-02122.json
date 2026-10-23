@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1265,
+  "word_count": 1280,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,9 +47,42 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-11-honda-wave-hay-vision-khi-thue-i-pho.md",
-  "content_sha256": "9e1950e3e48deffe038c730d3c30541e2a529a771d77c8655bf6a2447033e6df",
+  "content_sha256": "07b1183e2412992fbb002c6035fef0d07cb7b2d56fe6fe55cc5279ca5651b91d",
   "matrix_row_sha256": "955ebfeaf5654fee316b1cfbfd0b8aa9c913647621f504e28245dcfca663dca0",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-11T10:15:53+00:00"
+  "published_at": "2026-10-11T10:15:53+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "content-revision",
+    "purpose": "price-sync",
+    "reason": "Đồng bộ giá thuê tuần/tháng với _data/pricing.yml (bảng giá chủ xe duyệt)",
+    "approval_ref": "OWNER-MASTER-WORK-2026-10-23: phê duyệt AI chủ động sửa lỗi, tạo PR, kiểm thử, merge khi đạt điều kiện an toàn; sửa bài PUBLISHED qua quy trình bảo trì + chấm lại độc lập (MASTER WORK — NGUYỄN TÚ BLOG SEO FULL REPAIR A–Z, 23/10/2026)",
+    "batch_id": "revise-20261023-price-01",
+    "revised_at": "2026-10-23T08:21:28+00:00",
+    "previous_evidence_sha256": "2707f8bacc1894b91fe8f98f3aea2982a040a3cc9106330e874cfe55dd2289b3",
+    "previous_content_sha256": "9e1950e3e48deffe038c730d3c30541e2a529a771d77c8655bf6a2447033e6df",
+    "previous_matrix_row_sha256": "955ebfeaf5654fee316b1cfbfd0b8aa9c913647621f504e28245dcfca663dca0",
+    "new_content_sha256": "07b1183e2412992fbb002c6035fef0d07cb7b2d56fe6fe55cc5279ca5651b91d",
+    "edit_count": 1,
+    "edits_sha256": "0452307ab620be2f14b5b68abb6f595595e9c7efd2cd704d88a10ff7736ae964",
+    "chars_changed": 419,
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/revise-published.py",
+    "tool_commit": "3fbc0e45e7924090a6be69d9a69debd52cfcacb1",
+    "tool_sha256": "86f44d47bbca6fd0822065a75bc34927bc592326518f0df4fea798c022acca84",
+    "scorer_code_sha256": "29894c883d01b7d840f5731884fd62b2a31238391f403aec361a046cc313c10f",
+    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+  }
 }

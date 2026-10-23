@@ -77,7 +77,7 @@ Ngày Rằm, nhiều người ghé chợ mua xôi gà, hoa quả về cúng. N�
 
 ## Thuê xe máy để đi chợ khi ở trọ, lưu trú dài ngày
 
-Nếu bạn ở Hà Nội một hai tuần và định tự nấu ăn, có một chiếc xe để sáng đi chợ, chiều đi việc riêng sẽ chủ động hơn nhiều. Xe tay ga có cốp tiện chở đồ chợ hơn xe số. Giá tham khảo tại cửa hàng tôi: Honda Vision 200.000 đ một ngày, thuê tuần khoảng 800.000–1.000.000 đ; Honda Click và Yamaha Mio 150.000 đ một ngày, thuê tuần 600.000–700.000 đ; Honda Wave 150.000 đ một ngày. Chi tiết từng loại xe có trong [bảng giá thuê xe](/bang-gia/).
+Nếu bạn ở Hà Nội một hai tuần và định tự nấu ăn, có một chiếc xe để sáng đi chợ, chiều đi việc riêng sẽ chủ động hơn nhiều. Xe tay ga có cốp tiện chở đồ chợ hơn xe số. Giá tham khảo tại cửa hàng tôi: Honda Vision 200.000 đ một ngày, thuê tuần khoảng 1.000.000 đ; Honda Click và Yamaha Mio 150.000 đ một ngày, thuê tuần 700.000 đ; Honda Wave 150.000 đ một ngày. Chi tiết từng loại xe có trong [bảng giá thuê xe](/bang-gia/).
 
 Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Vì cửa hàng chưa mở vào giờ chợ đông nhất, bạn nên nhận xe từ hôm trước. Chuyện đặt cọc, giấy tờ cần mang và có kèm mũ bảo hiểm hay không, bạn hỏi cửa hàng khi đặt xe để được xác nhận trực tiếp.
 

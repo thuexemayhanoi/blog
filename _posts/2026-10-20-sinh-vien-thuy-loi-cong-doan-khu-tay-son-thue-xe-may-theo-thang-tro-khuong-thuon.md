@@ -32,9 +32,9 @@ Xe máy thuê tháng đáng tiền khi bạn rơi vào một trong các trườn
 
 Ngõ trọ ở hai khu này nhiều đoạn chỉ vừa hai xe máy tránh nhau, có khúc cua gấp, xe bán hàng đẩy và trẻ con chơi trước cửa. Xe nhẹ, thân gọn sẽ dễ quay đầu và dắt vào nhà trọ hơn.
 
-- **Honda Click hoặc Yamaha Mio**: nhẹ, dễ dắt, hợp ngân sách sinh viên. Giá tham khảo 150.000 đ một ngày, 600.000 đến 700.000 đ một tuần, 1.000.000 đến 1.200.000 đ một tháng.
+- **Honda Click hoặc Yamaha Mio**: nhẹ, dễ dắt, hợp ngân sách sinh viên. Giá tham khảo 150.000 đ một ngày, 700.000 đ một tuần, 900.000 đến 1.200.000 đ một tháng.
 - **Honda Vision**: cốp rộng, để được áo mưa và ba lô laptop. Giá tháng khoảng 1.800.000 đến 2.000.000 đ.
-- **Honda Air Blade**: chạy chắc tay khi phải đi xa thường xuyên, giá tháng khoảng 1.400.000 đ.
+- **Honda Air Blade**: chạy chắc tay khi phải đi xa thường xuyên, giá tháng khoảng 1.500.000 đ.
 - **Honda Wave**: xe số đơn giản, giá 150.000 đ một ngày; thuê dài ngày thì hỏi cửa hàng.
 
 Khi nhận xe, thử phanh trước sau, đèn, còi, xi nhan, khóa cổ và chân chống. Tiền cọc, giấy tờ cần mang và việc có kèm mũ bảo hiểm hay không đều xác nhận trực tiếp với cửa hàng khi đặt xe.

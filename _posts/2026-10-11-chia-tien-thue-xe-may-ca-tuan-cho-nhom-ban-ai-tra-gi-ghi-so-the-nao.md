@@ -37,7 +37,7 @@ Nếu hai người dùng chung một xe, chia đôi là hợp lý nhất, kể c
 
 Nếu nhóm bạn vốn mỗi người một lịch riêng, bài về [thuê xe máy nguyên tuần cho đoàn bạn đi lẻ](/thue-xe/2026/10/07/thue-xe-may-nguyen-tuan-cho-oan-ban-i-le/) bàn thêm cách sắp xếp xe cho gọn.
 
-Để bạn hình dung về con số, giá thuê tuần Honda Vision hiện ở khoảng 800 nghìn đồng đến 1 triệu đồng, còn tiền cọc và các khoản liên quan hãy hỏi và xác nhận trước với Nguyễn Tú. Dù khoản đó do ai đưa, hãy ghi ngay vào sổ để biết ai đang ứng trước. Nếu còn đang cân nhắc cách thuê, mục [thuê xe máy theo tuần](/thue-xe/thue-tuan/) và trang tổng hợp [dịch vụ thuê xe máy ở Hà Nội](/thue-xe/) gom khá đủ các bài hướng dẫn.
+Để bạn hình dung về con số, giá thuê tuần Honda Vision hiện ở mức 1 triệu đồng, còn tiền cọc và các khoản liên quan hãy hỏi và xác nhận trước với Nguyễn Tú. Dù khoản đó do ai đưa, hãy ghi ngay vào sổ để biết ai đang ứng trước. Nếu còn đang cân nhắc cách thuê, mục [thuê xe máy theo tuần](/thue-xe/thue-tuan/) và trang tổng hợp [dịch vụ thuê xe máy ở Hà Nội](/thue-xe/) gom khá đủ các bài hướng dẫn.
 
 ## Xăng: quỹ chung cho chuyến chung, tự trả cho chuyến riêng
 

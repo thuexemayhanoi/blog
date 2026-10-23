@@ -45,7 +45,7 @@ Nếu bạn chỉ chắc được hai ba ngày, ví dụ đến Hà Nội để 
 
 ### Khi nên bắt đầu theo tuần
 
-Nếu bạn chắc chắn ở ít nhất bảy ngày, thuê theo tuần thường hợp lý hơn về chi phí. Ví dụ với Honda Vision, giá tham khảo theo ngày là 200 nghìn đồng, còn theo tuần khoảng 800 nghìn đồng đến 1 triệu đồng. Chênh lệch này đủ để bạn cân nhắc, nhưng chỉ có lợi khi bạn thật sự dùng hết tuần.
+Nếu bạn chắc chắn ở ít nhất bảy ngày, thuê theo tuần thường hợp lý hơn về chi phí. Ví dụ với Honda Vision, giá tham khảo theo ngày là 200 nghìn đồng, còn theo tuần khoảng 1 triệu đồng. Chênh lệch này đủ để bạn cân nhắc, nhưng chỉ có lợi khi bạn thật sự dùng hết tuần.
 
 ### Khi đã nghĩ tới chuyện ở cả tháng
 

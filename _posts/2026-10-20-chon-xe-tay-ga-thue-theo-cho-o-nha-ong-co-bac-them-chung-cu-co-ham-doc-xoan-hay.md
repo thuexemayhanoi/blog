@@ -77,9 +77,9 @@ Phải giao chìa thường xuyên thì chìa cơ đỡ rắc rối; tự cất 
 
 Xe cụ thể khác nhau theo đời và phiên bản, nên gợi ý dưới đây chỉ là điểm bắt đầu:
 
-- **Honda Vision:** thân gọn, yên thấp, dễ dắt, hợp nhà ống có thềm và homestay ngõ nhỏ. Giá 200.000 đ/ngày, tuần 800.000–1.000.000 đ, tháng 1.800.000–2.000.000 đ.
-- **Honda Click, Yamaha Mio:** mức giá thấp nhất trong nhóm tay ga của tiệm, hợp người ở dài ngày muốn tiết kiệm; độ nặng tùy đời xe nên dắt thử trước. Giá 150.000 đ/ngày, tuần 600.000–700.000 đ, tháng 1.000.000–1.200.000 đ.
-- **Honda Air Blade:** nặng và đầm hơn, chạy đường xa vững, hợp chung cư hầm rộng hoặc nhà có sân. Giá 200.000 đ/ngày, tuần 800.000 đ, tháng 1.400.000 đ.
+- **Honda Vision:** thân gọn, yên thấp, dễ dắt, hợp nhà ống có thềm và homestay ngõ nhỏ. Giá 200.000 đ/ngày, tuần 1.000.000 đ, tháng 1.800.000–2.000.000 đ.
+- **Honda Click, Yamaha Mio:** mức giá thấp nhất trong nhóm tay ga của tiệm, hợp người ở dài ngày muốn tiết kiệm; độ nặng tùy đời xe nên dắt thử trước. Giá 150.000 đ/ngày, tuần 700.000 đ, tháng 900.000–1.200.000 đ.
+- **Honda Air Blade:** nặng và đầm hơn, chạy đường xa vững, hợp chung cư hầm rộng hoặc nhà có sân. Giá 200.000 đ/ngày, tuần 1.000.000 đ, tháng 1.500.000 đ.
 
 Bảng giá đầy đủ ở trang [bảng giá](/bang-gia/). Giá có thể điều chỉnh theo thời điểm, hãy xác nhận lại với tiệm khi đặt.
 

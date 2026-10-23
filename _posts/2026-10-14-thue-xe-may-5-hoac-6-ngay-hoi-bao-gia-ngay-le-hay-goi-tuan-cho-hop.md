@@ -46,16 +46,16 @@ Khi nhận được hai con số, đừng chốt ngay. Mở bảng giá của c�
 
 | Dòng xe | Giá ngày | Giá tuần |
 |---|---|---|
-| Honda Wave | 150.000 đồng | Liên hệ |
-| Honda Vision | 200.000 đồng | 800.000–1.000.000 đồng |
-| Honda Air Blade | 200.000 đồng | 800.000 đồng |
-| Honda Click / Yamaha Mio | 150.000 đồng | 600.000–700.000 đồng |
+| Honda Wave | 150.000 đồng | 700.000 đồng |
+| Honda Vision | 200.000 đồng | 1.000.000 đồng |
+| Honda Air Blade | 200.000 đồng | 1.000.000 đồng |
+| Honda Click / Yamaha Mio | 150.000 đồng | 700.000 đồng |
 
 Xe máy điện và xe đạp điện cần liên hệ để xác nhận giá hiện tại. Bảng đầy đủ, kèm giá tháng, nằm ở trang [bảng giá thuê xe](/bang-gia/).
 
 Cách đối chiếu không cần làm phép tính phức tạp:
 
-1. **Phương án gói tuần**: con số cửa hàng báo có nằm trong khung giá tuần của dòng xe bạn chọn không. Với Vision, khung tuần là một khoảng, nên hỏi luôn vì sao mức báo cho bạn nằm ở đầu thấp hay đầu cao.
+1. **Phương án gói tuần**: con số cửa hàng báo có khớp giá tuần của dòng xe bạn chọn trên bảng giá không. Nếu khác, hãy hỏi luôn vì sao.
 2. **Phương án tính ngày**: hỏi cửa hàng ghi rõ đang tính bao nhiêu ngày và đơn giá mỗi ngày là bao nhiêu. Đơn giá phải khớp giá ngày trên bảng. Số ngày phải khớp với giờ nhận và giờ trả bạn đã nhắn.
 3. **So hai phương án với nhau**: lúc này bạn chỉ cần nhìn hai con số cửa hàng đã báo, chọn cái phù hợp, không cần tự cộng lại.
 

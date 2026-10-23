@@ -84,8 +84,8 @@ Ngày 7 là chặng có hạn chót. Lấy 21:00 làm mốc, lùi lại thời g
 
 Đường Quảng Ninh phần lớn là đường nhựa, nhưng đoạn lên Bình Liêu nhiều dốc, nên chọn xe theo tay lái của mình:
 
-- **Xe số như Honda Wave:** chủ động về số thấp khi đổ dốc dài, giá tuần liên hệ cửa hàng.
-- **Honda Air Blade**, giá tuần 800.000 đồng: cốp rộng, ngồi êm cho chặng quốc lộ dài.
-- **Honda Vision**, giá tuần 800.000–1.000.000 đồng: gọn, hợp người đi một mình, ít hành lý.
+- **Xe số như Honda Wave:** chủ động về số thấp khi đổ dốc dài, giá tuần 700.000 đồng.
+- **Honda Air Blade**, giá tuần 1.000.000 đồng: cốp rộng, ngồi êm cho chặng quốc lộ dài.
+- **Honda Vision**, giá tuần 1.000.000 đồng: gọn, hợp người đi một mình, ít hành lý.
 
 Giá các dòng khác xem ở [bảng giá](/bang-gia/), rồi nhắn cửa hàng để giữ xe và chốt điều kiện. Các gói thuê dài ngày có ở mục [thuê xe theo tuần](/thue-xe/thue-tuan/), còn thủ tục chung nằm trong chuyên mục [thuê xe](/thue-xe/).

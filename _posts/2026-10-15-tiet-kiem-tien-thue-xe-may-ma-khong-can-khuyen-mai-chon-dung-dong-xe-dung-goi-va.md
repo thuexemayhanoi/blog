@@ -36,16 +36,16 @@ Trả thêm có lý khi chuyến đi đòi hỏi nhiều hơn: chở thêm ngư�
 
 Sai lầm hay gặp nhất là thuê lẻ rồi gia hạn từng hôm. Bảng giá đã duyệt hiện có:
 
-- **Click / Mio**: tuần 600.000–700.000 đồng; tháng 1.000.000–1.200.000 đồng.
-- **Vision**: tuần 800.000–1.000.000 đồng; tháng 1.800.000–2.000.000 đồng.
-- **Air Blade**: tuần 800.000 đồng; tháng 1.400.000 đồng.
-- **Wave**: chỉ niêm yết giá ngày, gói tuần và gói tháng cần liên hệ cửa hàng để biết.
+- **Click / Mio**: tuần 700.000 đồng; tháng 900.000–1.200.000 đồng.
+- **Vision**: tuần 1.000.000 đồng; tháng 1.800.000–2.000.000 đồng.
+- **Air Blade**: tuần 1.000.000 đồng; tháng 1.500.000 đồng.
+- **Wave**: tuần 700.000 đồng; tháng 900.000–1.200.000 đồng.
 
 Bạn lấy giá ngày của dòng xe mình chọn, nhân với số ngày định dùng, rồi đặt kết quả cạnh giá gói tuần. Nếu tổng tiền thuê lẻ đã chạm hoặc vượt giá tuần, lấy gói tuần là hợp lý. Tương tự, khi thời gian dùng kéo dài sang tuần thứ ba, thứ tư, hãy đặt tổng các gói tuần cạnh giá gói tháng.
 
 Hai điều cần nhớ khi so:
 
-1. **Gói có giá dạng khoảng** (như Vision tuần 800.000–1.000.000 đồng) thì mức cụ thể cho lần thuê của bạn do cửa hàng báo khi xác nhận. Đừng tự lấy mức thấp nhất để tính rồi kỳ vọng theo đó.
+1. **Gói có giá dạng khoảng** (như Click, Mio hay Wave theo tháng 900.000–1.200.000 đồng) thì mức cụ thể cho lần thuê của bạn do cửa hàng báo khi xác nhận. Đừng tự lấy mức thấp nhất để tính rồi kỳ vọng theo đó.
 2. **Gói nào cũng tính theo số ngày liên tục** của gói đó. Thời điểm bắt đầu, kết thúc nên hỏi rõ, vì cách tính một ngày của mỗi nơi có thể khác nhau. Bài [thuê theo tuần khác gì thuê theo ngày](/thue-xe/2026/09/27/thue-theo-tuan-khac-gi-thue-theo-ngay/) giải thích kỹ hơn chuyện này.
 
 Nếu ở Hà Nội khoảng hơn một tháng, phép so trở nên khó hơn vì có thể ghép gói. Trường hợp đó đã có bài riêng về [thuê xe khoảng 35 đến 45 ngày](/thue-xe/2026/10/15/thue-xe-may-khoang-35-den-45-ngay-ghep-goi-thang-voi-goi-tuan-hay-lay-luon-hai-t/).

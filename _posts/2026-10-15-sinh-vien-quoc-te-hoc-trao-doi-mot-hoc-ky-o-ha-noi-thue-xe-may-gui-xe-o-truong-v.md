@@ -34,10 +34,10 @@ Một học kỳ thường kéo dài hơn một tháng, nên phần lớn sinh v
 
 | Xe | Theo tuần | Theo tháng |
 |---|---|---|
-| Honda Vision | 800.000–1.000.000 đồng | 1.800.000–2.000.000 đồng |
-| Honda Air Blade | 800.000 đồng | 1.400.000 đồng |
-| Honda Click / Yamaha Mio | 600.000–700.000 đồng | 1.000.000–1.200.000 đồng |
-| Honda Wave | liên hệ | liên hệ |
+| Honda Vision | 1.000.000 đồng | 1.800.000–2.000.000 đồng |
+| Honda Air Blade | 1.000.000 đồng | 1.500.000 đồng |
+| Honda Click / Yamaha Mio | 700.000 đồng | 900.000–1.200.000 đồng |
+| Honda Wave | 700.000 đồng | 900.000–1.200.000 đồng |
 
 Giá trọn một học kỳ hay nhiều tháng liền không có mức niêm yết riêng, bạn cần xác nhận trực tiếp với cửa hàng. Đặt cọc cũng vậy: hỏi rõ và lưu lại tin nhắn. Xem thêm bài [sinh viên thuê xe máy theo tháng](/thue-xe/2026/10/01/sinh-vien-thue-xe-may-theo-thang-chon-xe-va-tiet-kiem-chi-phi/) để biết cách chọn xe cho đỡ tốn xăng.
 

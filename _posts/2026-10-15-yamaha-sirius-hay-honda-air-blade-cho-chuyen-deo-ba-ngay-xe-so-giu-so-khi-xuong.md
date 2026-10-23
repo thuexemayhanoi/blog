@@ -17,7 +17,7 @@ writer_session: s-claude-w3
 
 Sirius hay Air Blade đi đèo là câu hỏi của người sắp có chuyến ba ngày lên núi phía Bắc từ Hà Nội và lần đầu lái đường dốc: xe số giữ số khi xuống có yên tâm hơn không, hay xe ga khỏe hơn khi leo thì đỡ mệt hơn. Bài đặt hai ý đó cạnh nhau, nói rõ chỗ các nguồn khớp, chỗ chúng lệch nhau và những việc nên hỏi tiệm trước khi đặt xe.
 
-Cần nói rõ ngay một điều: Yamaha Sirius không nằm trong bảng giá đã duyệt của tiệm. Ai muốn thuê loại này hãy gọi 0942467674 để hỏi và xác nhận trực tiếp xem tiệm có xe, giá và điều kiện không. Xe số đã có giá duyệt là Honda Wave, 150.000 đồng một ngày. Air Blade có giá duyệt: 200.000 đồng một ngày, 800.000 đồng một tuần, 1.400.000 đồng một tháng; cách tính cho ba ngày liên tiếp phải hỏi riêng. Phần còn lại là so sánh chung hai dòng xe, không phải mô tả xe của tiệm.
+Cần nói rõ ngay một điều: Yamaha Sirius không nằm trong bảng giá đã duyệt của tiệm. Ai muốn thuê loại này hãy gọi 0942467674 để hỏi và xác nhận trực tiếp xem tiệm có xe, giá và điều kiện không. Xe số đã có giá duyệt là Honda Wave, 150.000 đồng một ngày, 700.000 đồng một tuần, 900.000–1.200.000 đồng một tháng. Air Blade có giá duyệt: 200.000 đồng một ngày, 1.000.000 đồng một tuần, 1.500.000 đồng một tháng; cách tính cho ba ngày liên tiếp phải hỏi riêng. Phần còn lại là so sánh chung hai dòng xe, không phải mô tả xe của tiệm.
 
 ## Sirius hay Air Blade đi đèo ba ngày: điều gì khác một buổi chạy chơi
 

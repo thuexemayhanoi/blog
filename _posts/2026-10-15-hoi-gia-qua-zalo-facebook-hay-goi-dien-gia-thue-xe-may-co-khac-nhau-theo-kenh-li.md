@@ -22,9 +22,9 @@ Bạn định hỏi giá thuê xe qua Zalo, một người bạn lại bảo nh�
 Điều đầu tiên cần nhớ: kênh liên hệ chỉ là đường truyền tin, còn mốc để so sánh là bảng giá cửa hàng đã công bố. Thay vì băn khoăn kênh nào "được giá" hơn, hãy mở [bảng giá thuê xe](/bang-gia/) trước khi hỏi. Với Nguyễn Tú, các mức đang công bố gồm:
 
 - Honda Wave: 150.000 đồng một ngày, thuê tuần hoặc tháng thì liên hệ để được báo.
-- Honda Vision: 200.000 đồng một ngày, 800.000–1.000.000 đồng một tuần, 1.800.000–2.000.000 đồng một tháng.
-- Honda Air Blade: 200.000 đồng một ngày, 800.000 đồng một tuần, 1.400.000 đồng một tháng.
-- Honda Click và Yamaha Mio: 150.000 đồng một ngày, 600.000–700.000 đồng một tuần, 1.000.000–1.200.000 đồng một tháng.
+- Honda Vision: 200.000 đồng một ngày, 1.000.000 đồng một tuần, 1.800.000–2.000.000 đồng một tháng.
+- Honda Air Blade: 200.000 đồng một ngày, 1.000.000 đồng một tuần, 1.500.000 đồng một tháng.
+- Honda Click và Yamaha Mio: 150.000 đồng một ngày, 700.000 đồng một tuần, 900.000–1.200.000 đồng một tháng.
 - Xe máy điện, xe đạp điện: liên hệ để xác nhận giá hiện tại.
 
 Có bảng này, bạn hỏi cụ thể hơn: "Mình muốn thuê Vision theo tuần, mức nào áp dụng cho lịch của mình?". Nếu con số được báo nằm ngoài các mức trên, đó là lúc hỏi lại cho rõ lý do, bất kể bạn đang dùng kênh nào. Những bảng ghi khoảng như tuần của Vision được giải thích kỹ hơn trong chuyên mục [hỏi đáp về giá](/hoi-dap/hoi-dap-gia/).

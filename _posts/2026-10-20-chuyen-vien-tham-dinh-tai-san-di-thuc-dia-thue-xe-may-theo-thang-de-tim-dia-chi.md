@@ -28,8 +28,8 @@ Thuê theo tháng hợp với người mới chuyển công tác lên Hà Nội 
 Người đi khảo sát tài sản bằng xe máy cần xe gọn để len ngõ, cốp đủ chứa túi hồ sơ và yên vừa chân để chống vững trên dốc.
 
 - **Honda Vision:** nhẹ, yên thấp, cốp thường đủ cho túi tài liệu mỏng và bộ áo mưa. Giá tháng tham khảo 1.800.000–2.000.000 đ.
-- **Honda Air Blade:** máy khỏe hơn khi chạy đường đê hay quốc lộ ra ngoại thành, giá tháng tham khảo 1.400.000 đ.
-- **Honda Click hoặc Yamaha Mio:** nhỏ gọn, dễ dắt trong ngõ, giá tháng tham khảo 1.000.000–1.200.000 đ.
+- **Honda Air Blade:** máy khỏe hơn khi chạy đường đê hay quốc lộ ra ngoại thành, giá tháng tham khảo 1.500.000 đ.
+- **Honda Click hoặc Yamaha Mio:** nhỏ gọn, dễ dắt trong ngõ, giá tháng tham khảo 900.000–1.200.000 đ.
 - **Honda Wave:** xe số, xuống dốc dễ kiểm soát, giá ngày 150.000 đ; giá tháng nên hỏi trực tiếp.
 
 Bảng giá đầy đủ ở trang [bảng giá](/bang-gia/); giá có thể điều chỉnh nên hãy xác nhận lại khi đặt xe.

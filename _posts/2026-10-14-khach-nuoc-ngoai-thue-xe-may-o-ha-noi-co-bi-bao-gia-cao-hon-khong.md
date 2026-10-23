@@ -23,10 +23,10 @@ Bạn vừa tới Hà Nội, nhận phòng ở phố cổ Hoàn Kiếm và muố
 
 Đây là bảng giá đã niêm yết, cũng là thước đo để bạn đối chiếu:
 
-- Honda Wave: 150.000 đồng một ngày; giá tuần và giá tháng liên hệ để được báo.
-- Honda Click, Yamaha Mio: 150.000 đồng một ngày, 600.000–700.000 đồng một tuần, 1.000.000–1.200.000 đồng một tháng.
-- Honda Vision: 200.000 đồng một ngày, 800.000–1.000.000 đồng một tuần, 1.800.000–2.000.000 đồng một tháng.
-- Honda Air Blade: 200.000 đồng một ngày, 800.000 đồng một tuần, 1.400.000 đồng một tháng.
+- Honda Wave: 150.000 đồng một ngày, 700.000 đồng một tuần, 900.000–1.200.000 đồng một tháng.
+- Honda Click, Yamaha Mio: 150.000 đồng một ngày, 700.000 đồng một tuần, 900.000–1.200.000 đồng một tháng.
+- Honda Vision: 200.000 đồng một ngày, 1.000.000 đồng một tuần, 1.800.000–2.000.000 đồng một tháng.
+- Honda Air Blade: 200.000 đồng một ngày, 1.000.000 đồng một tuần, 1.500.000 đồng một tháng.
 - Xe máy điện, xe đạp điện: liên hệ để xác nhận giá hiện tại.
 
 Bảng đầy đủ và cập nhật nằm ở trang [bảng giá thuê xe máy](/bang-gia/). Khi đã có bảng này trong tay, câu hỏi "mình có bị báo giá cao không" trở thành một phép so sánh đơn giản: mức bạn được báo có khớp với dòng của đúng mẫu xe, đúng gói thời gian hay không.

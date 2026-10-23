@@ -25,7 +25,7 @@ Thêm một điểm nên biết: sau đợt sắp xếp tỉnh năm 2025, Thái 
 
 ## Chọn xe và chuẩn bị trước khi rời Hà Nội
 
-Đi đường đồng bằng, xe nào cũng chạy được; khác nhau ở hành lý và sức chở. Tay ga như Vision, Air Blade có cốp, hợp với hai người và hai ba lô nhỏ. Giá tuần tham khảo: Vision 800.000–1.000.000 đ, Air Blade 800.000 đ, Click hoặc Mio 600.000–700.000 đ; Wave tính 150.000 đ một ngày. Giá cập nhật xem ở [bảng giá thuê xe](/bang-gia/), tiền cọc xác nhận trực tiếp với cửa hàng.
+Đi đường đồng bằng, xe nào cũng chạy được; khác nhau ở hành lý và sức chở. Tay ga như Vision, Air Blade có cốp, hợp với hai người và hai ba lô nhỏ. Giá tuần tham khảo: Vision 1.000.000 đ, Air Blade 1.000.000 đ, Click hoặc Mio 700.000 đ; Wave tính 150.000 đ một ngày. Giá cập nhật xem ở [bảng giá thuê xe](/bang-gia/), tiền cọc xác nhận trực tiếp với cửa hàng.
 
 Khi nhận xe ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, báo với tiệm là xe sẽ đi ngoại tỉnh cả tuần và hỏi luôn:
 

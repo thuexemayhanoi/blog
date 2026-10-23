@@ -36,7 +36,7 @@ Với phụ nữ mang thai, tôi luôn khuyên xe ga thay vì xe số. Xe ga kh�
 Trong các dòng tiệm đang cho thuê:
 
 - **Honda Vision**: nhẹ, yên tương đối thấp, sàn rộng, dễ chống chân khi dừng đèn đỏ. Đây thường là lựa chọn tôi gợi ý đầu tiên. Giá thuê tháng khoảng 1.800.000–2.000.000 đ.
-- **Honda Click, Yamaha Mio**: xe ga nhỏ gọn, dễ dắt trong ngõ hẹp. Giá thuê tháng khoảng 1.000.000–1.200.000 đ.
+- **Honda Click, Yamaha Mio**: xe ga nhỏ gọn, dễ dắt trong ngõ hẹp. Giá thuê tháng khoảng 900.000–1.200.000 đ.
 - **Honda Air Blade**: xe ga, chạy đầm, nhưng nặng hơn Vision nên dắt và xoay xe vất vả hơn khi bụng đã lớn.
 - **Honda Wave**: xe số, phải sang số liên tục khi đi trong phố đông, không phù hợp lắm lúc này.
 
@@ -89,7 +89,7 @@ Phương án thay thế ở Hà Nội khá nhiều: người nhà chở, đi chu
 Khi đặt xe, nói rõ với cửa hàng rằng bạn đang mang thai và có thể phải ngừng đi xe trước hết tháng. Một số điểm cần hỏi trực tiếp lúc đặt xe:
 
 - Trả xe sớm hơn hạn thì tính tiền thế nào, ngày chưa dùng có được hoàn không.
-- Có nên thuê theo tuần ở giai đoạn cuối để linh hoạt hơn không. Giá thuê tuần của Vision khoảng 800.000–1.000.000 đ.
+- Có nên thuê theo tuần ở giai đoạn cuối để linh hoạt hơn không. Giá thuê tuần của Vision khoảng 1.000.000 đ.
 - Có thể nhận và trả xe gần nhà không. Tiệm không giao xe ngoài giờ mở cửa, thời gian và chi phí giao nhận cần xác nhận trước.
 
 Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, điện thoại 0942 467 674. Muốn xem thêm kinh nghiệm thuê dài ngày, đọc các bài trong mục [thuê xe theo tháng](/thue-xe/thue-thang/) hoặc trang [thuê xe máy Hà Nội](/thue-xe/).

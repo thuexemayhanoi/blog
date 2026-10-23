@@ -21,7 +21,7 @@ Bạn định mở một quán cà phê nhỏ hay quán bún, trong tay là ch�
 
 Một mặt bằng lúc mười giờ sáng ngày thường có thể vắng hoe, nhưng đến sáu giờ chiều lại đông nghịt người tan tầm. Muốn biết sự thật, bạn phải đứng ở đó nhiều lần, mỗi lần mười lăm, hai mươi phút. Gọi xe cho từng điểm thì tốn, lại khó dừng tùy ý để ngồi quan sát.
 
-Có xe trong tay cả tuần, bạn có thể ngồi quán trà đá đối diện và lặng lẽ đếm người qua lại. Gói tuần cũng nhẹ hơn cộng dồn ngày lẻ: Honda Vision khoảng 800.000–1.000.000 đ, Honda Click hoặc Yamaha Mio khoảng 600.000–700.000 đ; chi tiết xem ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
+Có xe trong tay cả tuần, bạn có thể ngồi quán trà đá đối diện và lặng lẽ đếm người qua lại. Gói tuần cũng nhẹ hơn cộng dồn ngày lẻ: Honda Vision khoảng 1.000.000 đ, Honda Click hoặc Yamaha Mio khoảng 700.000 đ; chi tiết xem ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
 
 ## Trước khi nhận xe: lọc danh sách và chia theo khu
 
@@ -83,6 +83,6 @@ Khi nhận xe, chụp ảnh các góc xe để lúc trả khỏi tranh cãi, xem
 
 ## Đặt xe với tiệm trước tuần đi xem mặt bằng
 
-Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, điện thoại 0942 467 674. Chạy phố nhiều và cần cốp rộng thì Honda Vision hoặc Honda Air Blade (thuê tuần 800.000 đ) dễ đi. Khi đặt xe, hỏi luôn giấy tờ cần mang và mức đặt cọc, vì cọc được xác nhận trực tiếp với cửa hàng. Muốn nhận xe ở chỗ khác thì thời gian và chi phí giao nhận cần thống nhất trước, và tiệm không giao xe ngoài giờ mở cửa.
+Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, điện thoại 0942 467 674. Chạy phố nhiều và cần cốp rộng thì Honda Vision hoặc Honda Air Blade (thuê tuần 1.000.000 đ) dễ đi. Khi đặt xe, hỏi luôn giấy tờ cần mang và mức đặt cọc, vì cọc được xác nhận trực tiếp với cửa hàng. Muốn nhận xe ở chỗ khác thì thời gian và chi phí giao nhận cần thống nhất trước, và tiệm không giao xe ngoài giờ mở cửa.
 
 Khi đã chốt được hai mặt bằng ứng viên, hãy dành thêm một buổi tối quay lại cả hai trước khi ký. Các gói thuê khác xem ở trang [thuê xe tại Hà Nội](/thue-xe/).

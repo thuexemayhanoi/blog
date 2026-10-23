@@ -47,9 +47,42 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-15-dang-mang-thai-van-thue-xe-theo-thang-de-di-lam-chon-xe-de-len-xuong-va-moc-nen.md",
-  "content_sha256": "d39165df6a1f33eebdc507dcf4d28dea163f8083f9922b029b86420ecaf78692",
+  "content_sha256": "3375636f63b75821119200a680c8af9eee910877c9254e17e63a7eb14ec7b752",
   "matrix_row_sha256": "9d24e781608da6884214965a60e5b0cc97851e6ca2555092839661e3f8d0815c",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-15T10:39:43+00:00"
+  "published_at": "2026-10-15T10:39:43+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "content-revision",
+    "purpose": "price-sync",
+    "reason": "Đồng bộ giá thuê tuần/tháng với _data/pricing.yml (bảng giá chủ xe duyệt)",
+    "approval_ref": "OWNER-MASTER-WORK-2026-10-23: phê duyệt AI chủ động sửa lỗi, tạo PR, kiểm thử, merge khi đạt điều kiện an toàn; sửa bài PUBLISHED qua quy trình bảo trì + chấm lại độc lập (MASTER WORK — NGUYỄN TÚ BLOG SEO FULL REPAIR A–Z, 23/10/2026)",
+    "batch_id": "revise-20261023-price-02",
+    "revised_at": "2026-10-23T08:25:42+00:00",
+    "previous_evidence_sha256": "ccd0e16ddc7f4b33c50c92719961534aef5bd763e4b794054737f5eb02631ced",
+    "previous_content_sha256": "d39165df6a1f33eebdc507dcf4d28dea163f8083f9922b029b86420ecaf78692",
+    "previous_matrix_row_sha256": "9d24e781608da6884214965a60e5b0cc97851e6ca2555092839661e3f8d0815c",
+    "new_content_sha256": "3375636f63b75821119200a680c8af9eee910877c9254e17e63a7eb14ec7b752",
+    "edit_count": 2,
+    "edits_sha256": "ddd0be9347f3ae758e9473783d160a4b8ee36f5ac5e4f7e199c6358242f58235",
+    "chars_changed": 152,
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/revise-published.py",
+    "tool_commit": "3fbc0e45e7924090a6be69d9a69debd52cfcacb1",
+    "tool_sha256": "86f44d47bbca6fd0822065a75bc34927bc592326518f0df4fea798c022acca84",
+    "scorer_code_sha256": "29894c883d01b7d840f5731884fd62b2a31238391f403aec361a046cc313c10f",
+    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+  }
 }

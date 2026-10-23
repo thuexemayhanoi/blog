@@ -66,7 +66,7 @@ Khi lùi một ngày, nhất là vào cuối tuần hoặc dịp lễ, chiếc x
 - **Giữ nguyên ngày trả thứ Hai.** Bạn dùng xe hai ngày, tính theo số ngày dùng thực tế cộng với cách xử lý ngày thứ Sáu mà cửa hàng xác nhận.
 - **Lùi ngày trả sang thứ Ba.** Bạn vẫn dùng đủ ba ngày, nhưng phải hỏi xe còn trống ngày thứ Ba không và giờ trả có nằm trong khung 09:00–21:00 không.
 
-Nếu thuê cả tuần, hỏi thêm xem lùi một ngày có ảnh hưởng cách tính theo tuần không. Honda Vision theo tuần có mức từ 800.000 đến 1.000.000 đ, nên số ngày rơi ra ngoài gói là điều đáng hỏi trước. Mức theo ngày, tuần, tháng của từng dòng xe nằm ở mục [giá thuê xe máy](/thue-xe/gia-thue/).
+Nếu thuê cả tuần, hỏi thêm xem lùi một ngày có ảnh hưởng cách tính theo tuần không. Honda Vision theo tuần có mức 1.000.000 đ, nên số ngày rơi ra ngoài gói là điều đáng hỏi trước. Mức theo ngày, tuần, tháng của từng dòng xe nằm ở mục [giá thuê xe máy](/thue-xe/gia-thue/).
 
 ## Vài tình huống thường gặp ở Hà Nội
 

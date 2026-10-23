@@ -72,7 +72,7 @@ Các điều khoản như cọc, giấy tờ cần mang, giờ nhận và trả 
 
 ## Tính chi phí đợt thử và chốt quyết định
 
-Mức giá tham khảo: Honda Vision và Honda Air Blade đều là 200 nghìn đồng một ngày. Thuê theo tuần, Honda Vision từ 800 nghìn đồng đến 1 triệu đồng, còn Honda Air Blade là 800 nghìn đồng. Bạn tự nhân giá ngày với số ngày định thử, so với giá tuần để chọn cách thuê hợp hơn, rồi xác nhận lại giá hiện tại trước khi đặt xe vì giá có thể thay đổi.
+Mức giá tham khảo: Honda Vision và Honda Air Blade đều là 200 nghìn đồng một ngày. Thuê theo tuần, Honda Vision và Honda Air Blade đều là 1 triệu đồng. Bạn tự nhân giá ngày với số ngày định thử, so với giá tuần để chọn cách thuê hợp hơn, rồi xác nhận lại giá hiện tại trước khi đặt xe vì giá có thể thay đổi.
 
 Sau ngày cuối, đừng quyết định ngay trên yên xe. Hãy để qua một đêm, đọc lại ghi chú cùng bảng điểm. Khi đã nghiêng về một mẫu, hãy tới đại lý ngồi lại đúng phiên bản định mua, vì vài ngày thuê giúp bạn chọn mẫu chứ không thay thế việc kiểm tra chiếc xe bạn sẽ nhận.
 

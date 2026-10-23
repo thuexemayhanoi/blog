@@ -70,7 +70,7 @@ Khu di tích nằm trên núi Nghĩa Lĩnh, Việt Trì. Xe máy không chạy l
 
 Đây là chuyến đi xa, hãy báo trước với cửa hàng lộ trình dự kiến để tiệm dặn thêm về xe và số liên lạc khi có sự cố. Trước khi đi, kiểm tra lốp, phanh, đèn, còi, mang áo mưa, nước và sạc điện thoại.
 
-Giá thuê Honda Air Blade là 200.000 đồng một ngày, 800.000 đồng một tuần, 1.400.000 đồng một tháng, xem tại trang [bảng giá](/bang-gia/). Tiền cọc và chi phí giao nhận xe xác nhận trực tiếp khi đặt. Tiệm mở cửa và nhận trả xe trong khung 09:00–21:00.
+Giá thuê Honda Air Blade là 200.000 đồng một ngày, 1.000.000 đồng một tuần, 1.500.000 đồng một tháng, xem tại trang [bảng giá](/bang-gia/). Tiền cọc và chi phí giao nhận xe xác nhận trực tiếp khi đặt. Tiệm mở cửa và nhận trả xe trong khung 09:00–21:00.
 
 ## Kết lại
 

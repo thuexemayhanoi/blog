@@ -68,6 +68,6 @@ Mỗi dòng xe có giới hạn tải riêng, nên hãy hỏi trực tiếp Nguy
 
 ## Thuê theo ngày hay theo tháng khi chở đồ đều đặn
 
-Việc chở đồ kéo dài nhiều tuần thì nên tính thuê theo tuần hoặc theo tháng, vì giá bình quân mỗi ngày thường dễ chịu hơn thuê lẻ. Ví dụ, Honda Air Blade tại Nguyễn Tú có giá 200.000đ/ngày, 800.000đ/tuần và 1,4 triệu đồng/tháng. Hãy xác nhận lại giá khi đặt vì có thể được cập nhật. Các vấn đề về cọc, giờ nhận trả xe hay đồ kèm theo cũng nên hỏi rõ trước khi đặt.
+Việc chở đồ kéo dài nhiều tuần thì nên tính thuê theo tuần hoặc theo tháng, vì giá bình quân mỗi ngày thường dễ chịu hơn thuê lẻ. Ví dụ, Honda Air Blade tại Nguyễn Tú có giá 200.000đ/ngày, 1.000.000 đ/tuần và 1,5 triệu đồng/tháng. Hãy xác nhận lại giá khi đặt vì có thể được cập nhật. Các vấn đề về cọc, giờ nhận trả xe hay đồ kèm theo cũng nên hỏi rõ trước khi đặt.
 
 Khi nhận xe, hãy chạy thử một vòng ngắn có chất thử đồ thật. Baga lỏng, chân chống yếu, lốp mòn hay tiếng lạ thì nói ngay để đổi hoặc xử lý trước khi ra đường. Muốn xem thêm cách chọn xe theo nhu cầu, trang [chọn loại xe khi thuê](/xe-may/chon-loai-xe/) tập hợp các bài cùng chủ đề, còn mục [thuê xe máy](/xe-may/) cho bạn cái nhìn tổng thể. Khi đã chốt, bạn có thể gọi 0942 467 674 hoặc ghé 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, trong giờ 09:00 đến 21:00 để xem xe và thử xếp đồ trực tiếp.

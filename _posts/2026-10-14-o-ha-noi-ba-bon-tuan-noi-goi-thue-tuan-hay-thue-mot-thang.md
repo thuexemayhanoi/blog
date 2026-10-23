@@ -27,15 +27,15 @@ Có, nhưng chỉ trong vài hoàn cảnh cụ thể. Phần dưới sẽ tách 
 
 Các mức dưới đây là bảng giá đã duyệt của Nguyễn Tú, dùng làm căn cứ cho cả bài:
 
-- **Honda Air Blade:** tuần 800.000 đồng, tháng 1.400.000 đồng.
-- **Honda Vision:** tuần từ 800.000 đến 1.000.000 đồng, tháng từ 1.800.000 đến 2.000.000 đồng.
-- **Honda Click hoặc Yamaha Mio:** tuần từ 600.000 đến 700.000 đồng, tháng từ 1.000.000 đến 1.200.000 đồng.
-- **Honda Wave:** giá ngày 150.000 đồng; giá tuần và giá tháng cần liên hệ để xác nhận.
+- **Honda Air Blade:** tuần 1.000.000 đồng, tháng 1.500.000 đồng.
+- **Honda Vision:** tuần 1.000.000 đồng, tháng từ 1.800.000 đến 2.000.000 đồng.
+- **Honda Click hoặc Yamaha Mio:** tuần 700.000 đồng, tháng từ 900.000 đến 1.200.000 đồng.
+- **Honda Wave:** giá ngày 150.000 đồng; tuần 700.000 đồng, tháng 900.000–1.200.000 đồng.
 - **Xe máy điện, xe đạp điện:** liên hệ để kiểm tra giá hiện tại.
 
-Bạn không cần cộng ra tổng để thấy xu hướng. Hãy nhìn tỉ lệ: với Air Blade, giá tháng chưa tới hai lần giá tuần. Với Click, Mio và Vision, giá tháng nằm quanh mức hai lần giá tuần. Nghĩa là ở cả ba nhóm xe có giá niêm yết, đến khoảng tuần thứ ba, nối tuần đã thường không còn lợi về tiền so với một gói tháng của cùng dòng xe.
+Bạn không cần cộng ra tổng để thấy xu hướng. Hãy nhìn tỉ lệ: với Air Blade, giá tháng chưa tới hai lần giá tuần. Với Vision, giá tháng nằm quanh mức hai lần giá tuần. Với Wave, Click và Mio, giá tháng chỉ vào khoảng 1,3 đến 1,7 lần giá tuần. Nghĩa là ở cả bốn nhóm xe có giá niêm yết, đến khoảng tuần thứ ba, nối tuần đã thường không còn lợi về tiền so với một gói tháng của cùng dòng xe.
 
-Vì Vision và Click có giá dạng khoảng, mức cụ thể của bạn phụ thuộc chiếc xe nhận và thời điểm đặt. Hãy đối chiếu trên [trang bảng giá](/bang-gia/) và hỏi lại trước khi chốt. Wave thì càng phải hỏi, vì gói tuần và gói tháng của dòng này không có số niêm yết.
+Giá tháng của Vision, Wave, Click và Mio là một khoảng, nên hãy hỏi cửa hàng mức cụ thể áp cho xe và kỳ thuê của bạn. Hãy đối chiếu trên [trang bảng giá](/bang-gia/) và hỏi lại trước khi chốt.
 
 ## Thuê xe máy tuần hay tháng: phần tiền chỉ là một nửa
 

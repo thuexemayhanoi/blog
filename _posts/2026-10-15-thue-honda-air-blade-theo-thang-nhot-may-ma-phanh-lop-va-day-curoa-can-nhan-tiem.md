@@ -21,7 +21,7 @@ Thuê Air Blade theo tháng bảo dưỡng thế nào là câu tôi hay được
 
 Xe là tài sản của tiệm, nên thay nhớt, má phanh, lốp hay dây curoa là việc tiệm quyết định và làm, hoặc làm ở nơi tiệm chỉ định. Phần của người thuê là quan sát, ghi lại và báo sớm. Ai chịu chi phí từng hạng mục trong thời gian thuê tháng thì hỏi rõ khi đặt xe để tiệm xác nhận trực tiếp.
 
-Giá thuê Honda Air Blade theo tháng ở tiệm là 1.400.000 đồng. Ngày nhận xe, chụp ảnh đồng hồ để lưu số km tổng, hỏi lần thay nhớt gần nhất ở số km bao nhiêu, rồi ghi cả hai vào ghi chú điện thoại.
+Giá thuê Honda Air Blade theo tháng ở tiệm là 1.500.000 đồng. Ngày nhận xe, chụp ảnh đồng hồ để lưu số km tổng, hỏi lần thay nhớt gần nhất ở số km bao nhiêu, rồi ghi cả hai vào ghi chú điện thoại.
 
 Một người ở Bồ Đề, Long Biên đi làm ở Cầu Giấy, ngày nào cũng qua cầu Chương Dương đi về, tối còn ghé chợ. Cộng lại một tháng dễ lên khoảng 800 đến 1000 km, đủ để xe chạm ít nhất một mốc kiểm tra. Nếu bạn mới chuyển đến, bài [tháng đầu đi làm bằng Air Blade thuê ở Hà Nội](/xe-may/2026/10/14/thue-honda-air-blade-cho-nguoi-moi-chuyen-den-ha-noi-thang-dau-di-lam-tim-duong/) giúp phần tìm đường và gửi xe.
 

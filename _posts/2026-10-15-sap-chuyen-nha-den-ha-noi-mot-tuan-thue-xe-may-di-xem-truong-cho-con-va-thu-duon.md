@@ -21,7 +21,7 @@ Gia đình bạn sắp chuyển đến Hà Nội, và câu hỏi lớn nhất l�
 
 Một buổi ghé trường vào giữa buổi sáng chỉ cho bạn thấy sân trường yên ả. Nó không cho thấy cảnh sáu giờ bốn mươi lăm phụ huynh dồn về cổng, hay con đường lúc tan học đặc kín xe. Cùng một quãng đường, đi giữa trưa có thể rất nhẹ nhàng, nhưng giờ cao điểm có khi mất gấp đôi, gấp ba thời gian.
 
-Một tuần đủ để bạn xem vài trường, rồi quay lại hai trường ưng nhất đúng giờ vào học và giờ tan học. Gói thuê tuần cũng nhẹ hơn thuê lẻ từng ngày, chẳng hạn Honda Vision khoảng 800.000–1.000.000 đ một tuần; các gói cụ thể có ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
+Một tuần đủ để bạn xem vài trường, rồi quay lại hai trường ưng nhất đúng giờ vào học và giờ tan học. Gói thuê tuần cũng nhẹ hơn thuê lẻ từng ngày, chẳng hạn Honda Vision khoảng 1.000.000 đ một tuần; các gói cụ thể có ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
 
 ## Trước tuần đi: lập danh sách trường gắn với chỗ ở dự kiến
 
@@ -86,6 +86,6 @@ Nếu trong tuần con phải đi thi hoặc kiểm tra đầu vào, bài [tuầ
 
 ## Đặt xe với tiệm trước khi lên Hà Nội
 
-Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, điện thoại 0942 467 674. Chở con và đồ đạc thì Honda Vision hoặc Honda Air Blade (thuê tuần 800.000 đ) thoải mái hơn. Khi đặt, hỏi giấy tờ cần mang và mức đặt cọc, vì cọc được xác nhận trực tiếp với cửa hàng. Nếu muốn nhận xe ở chỗ khác, thời gian và chi phí giao nhận cần thống nhất trước, và tiệm không giao xe ngoài giờ mở cửa.
+Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, điện thoại 0942 467 674. Chở con và đồ đạc thì Honda Vision hoặc Honda Air Blade (thuê tuần 1.000.000 đ) thoải mái hơn. Khi đặt, hỏi giấy tờ cần mang và mức đặt cọc, vì cọc được xác nhận trực tiếp với cửa hàng. Nếu muốn nhận xe ở chỗ khác, thời gian và chi phí giao nhận cần thống nhất trước, và tiệm không giao xe ngoài giờ mở cửa.
 
 Sau tuần này, nếu cần ở lại lâu hơn để làm thủ tục nhập học, bạn có thể xem thêm các lựa chọn ở trang [thuê xe tại Hà Nội](/thue-xe/).

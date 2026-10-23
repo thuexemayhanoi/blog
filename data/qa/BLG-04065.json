@@ -47,9 +47,42 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-16-hoi-gia-thue-xe-may-bang-tieng-anh-daily-rate-weekly-rate-deposit-va-nhung-cau-n.md",
-  "content_sha256": "999fee6b93fae41b84235c3b30e5cebeb0844b515bb4452c0b269faf888f0d86",
+  "content_sha256": "d6c46b49cd662bf5e11a959cfa8f2bdda64becb3eda08461d48f39943faf404a",
   "matrix_row_sha256": "66580147951a346379996ba29fb5fffee8282d7e053ccba957a7935ed52eb2a3",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-15T18:19:39+00:00"
+  "published_at": "2026-10-15T18:19:39+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "content-revision",
+    "purpose": "price-sync",
+    "reason": "Đồng bộ giá thuê tuần/tháng với _data/pricing.yml (bảng giá chủ xe duyệt)",
+    "approval_ref": "OWNER-MASTER-WORK-2026-10-23: phê duyệt AI chủ động sửa lỗi, tạo PR, kiểm thử, merge khi đạt điều kiện an toàn; sửa bài PUBLISHED qua quy trình bảo trì + chấm lại độc lập (MASTER WORK — NGUYỄN TÚ BLOG SEO FULL REPAIR A–Z, 23/10/2026)",
+    "batch_id": "revise-20261023-price-03",
+    "revised_at": "2026-10-23T08:24:56+00:00",
+    "previous_evidence_sha256": "185bc619505202084a1b71d75eade953eefc3682418ebbcb069c504fd68d799e",
+    "previous_content_sha256": "999fee6b93fae41b84235c3b30e5cebeb0844b515bb4452c0b269faf888f0d86",
+    "previous_matrix_row_sha256": "66580147951a346379996ba29fb5fffee8282d7e053ccba957a7935ed52eb2a3",
+    "new_content_sha256": "d6c46b49cd662bf5e11a959cfa8f2bdda64becb3eda08461d48f39943faf404a",
+    "edit_count": 5,
+    "edits_sha256": "b5151731341e5e20de031dc9e067725975c09fe0eb58d685d16da041d2dfcee5",
+    "chars_changed": 1075,
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/revise-published.py",
+    "tool_commit": "3fbc0e45e7924090a6be69d9a69debd52cfcacb1",
+    "tool_sha256": "86f44d47bbca6fd0822065a75bc34927bc592326518f0df4fea798c022acca84",
+    "scorer_code_sha256": "29894c883d01b7d840f5731884fd62b2a31238391f403aec361a046cc313c10f",
+    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+  }
 }

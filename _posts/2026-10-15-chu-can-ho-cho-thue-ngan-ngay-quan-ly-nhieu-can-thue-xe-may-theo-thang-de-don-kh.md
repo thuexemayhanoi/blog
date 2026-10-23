@@ -70,9 +70,9 @@ Thủ tục gửi xe trong hầm được nói kỹ trong bài [gửi xe trong h
 Với công việc chạy nhiều điểm, chở túi đồ vải, tôi gợi ý xe ga có sàn phẳng và cốp rộng. Giá tháng đã duyệt tại tiệm:
 
 - **Honda Vision:** 1.800.000–2.000.000 đồng/tháng. Gọn, nhẹ, dễ dắt vào ngõ phố cổ.
-- **Honda Air Blade:** 1.400.000 đồng/tháng. Cốp rộng, đủ chỗ cho hộp dụng cụ và áo mưa.
-- **Honda Click / Yamaha Mio:** 1.000.000–1.200.000 đồng/tháng. Hợp khi các căn nằm gần nhau.
-- **Honda Wave:** giá tháng cần liên hệ tiệm.
+- **Honda Air Blade:** 1.500.000 đồng/tháng. Cốp rộng, đủ chỗ cho hộp dụng cụ và áo mưa.
+- **Honda Click / Yamaha Mio:** 900.000–1.200.000 đồng/tháng. Hợp khi các căn nằm gần nhau.
+- **Honda Wave:** 900.000–1.200.000 đồng/tháng.
 
 Mức đặt cọc và giấy tờ để lại được xác nhận trực tiếp khi đặt xe, hãy xin biên nhận. Người lái cần bằng lái phù hợp với loại xe.
 

@@ -74,6 +74,6 @@ Dù đã chọn theo ba câu hỏi, hãy dành năm phút thử xe trước khi 
 
 Thấy phanh lạ, đèn xi nhan không sáng hay tiếng máy bất thường, đừng tự xử lý mà hãy báo cửa hàng trước khi lăn bánh. Giấy tờ cần mang, cọc và giờ trả xe nên hỏi và xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
-Về giá, cả ba xe cùng 150 nghìn đồng một ngày. Nếu thuê dài ngày, Click và Mio có giá tuần trong khoảng từ 600 nghìn đồng đến 700 nghìn đồng, giá tháng từ 1 triệu đồng đến 1,2 triệu đồng; riêng Wave, hãy liên hệ Nguyễn Tú để xác nhận. Bạn tự nhân giá ngày với số ngày rồi đặt cạnh giá tuần để xem gói nào hợp lịch, và hỏi lại giá hiện tại trước khi chốt.
+Về giá, cả ba xe cùng 150 nghìn đồng một ngày. Nếu thuê dài ngày, Wave, Click và Mio cùng có giá tuần 700 nghìn đồng, giá tháng từ 900 nghìn đồng đến 1,2 triệu đồng. Bạn tự nhân giá ngày với số ngày rồi đặt cạnh giá tuần để xem gói nào hợp lịch, và hỏi lại giá hiện tại trước khi chốt.
 
 Muốn xem tận mắt cả ba xe, bạn có thể ghé Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (mở cửa 09:00–21:00, không giao xe ngoài giờ) hoặc gọi 0942 467 674. Trước khi đi, hãy viết ra ba đáp án về kiểu đi, người ngồi sau và hành lý; đọc ba dòng đó là chọn xe nhanh hơn nhiều. Những câu hỏi chọn xe khác nằm sẵn ở [chuyên mục hỏi đáp](/hoi-dap/).

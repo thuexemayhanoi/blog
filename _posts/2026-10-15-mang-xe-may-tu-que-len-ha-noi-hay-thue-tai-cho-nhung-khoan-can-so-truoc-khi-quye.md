@@ -55,9 +55,9 @@ Chiếc xe lên Hà Nội thì người ở nhà mất phương tiện đi chợ
 
 Thuê theo tháng thì phần lớn chi phí biết trước. Mức giá đã duyệt của cửa hàng hiện như sau, có thể điều chỉnh theo thời điểm, nên xem lại trang [giá thuê xe máy](/thue-xe/gia-thue/) khi đặt:
 
-- Honda Click / Yamaha Mio: 150.000 đ/ngày, tuần 600.000–700.000 đ, tháng 1.000.000–1.200.000 đ.
-- Honda Air Blade: 200.000 đ/ngày, tuần 800.000 đ, tháng 1.400.000 đ.
-- Honda Vision: 200.000 đ/ngày, tuần 800.000–1.000.000 đ, tháng 1.800.000–2.000.000 đ.
+- Honda Click / Yamaha Mio: 150.000 đ/ngày, tuần 700.000 đ, tháng 900.000–1.200.000 đ.
+- Honda Air Blade: 200.000 đ/ngày, tuần 1.000.000 đ, tháng 1.500.000 đ.
+- Honda Vision: 200.000 đ/ngày, tuần 1.000.000 đ, tháng 1.800.000–2.000.000 đ.
 - Honda Wave: 150.000 đ/ngày, giá tháng hỏi trực tiếp.
 - Xe máy điện, xe đạp điện: liên hệ để xác nhận giá.
 

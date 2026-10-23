@@ -48,9 +48,9 @@ Nếu học phí đã chiếm phần lớn tiền mang theo, Honda Click hay Yam
 Mức giá tháng hiện áp dụng tại tiệm:
 
 - **Honda Vision:** 1.800.000–2.000.000 đồng/tháng.
-- **Honda Air Blade:** 1.400.000 đồng/tháng.
-- **Honda Click / Yamaha Mio:** 1.000.000–1.200.000 đồng/tháng.
-- **Honda Wave:** giá tháng cần liên hệ tiệm để được báo.
+- **Honda Air Blade:** 1.500.000 đồng/tháng.
+- **Honda Click / Yamaha Mio:** 900.000–1.200.000 đồng/tháng.
+- **Honda Wave:** 900.000–1.200.000 đồng/tháng.
 
 Khóa học thường không tròn tháng, có khóa hai tháng rưỡi, có khóa kéo thêm vài tuần thực tập. Đừng tự cộng ra một con số rồi đặt cứng, hãy nhắn tiệm ngày bắt đầu, ngày dự kiến kết thúc và loại xe muốn thuê để được báo đúng khoảng thời gian đó. So sánh các mức giá tháng chi tiết hơn có trong bài [giá thuê xe máy theo tháng ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/).
 

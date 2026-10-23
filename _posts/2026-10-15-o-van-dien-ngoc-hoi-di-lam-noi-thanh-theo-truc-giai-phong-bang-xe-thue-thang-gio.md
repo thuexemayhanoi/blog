@@ -73,9 +73,9 @@ Giả sử bạn ở trọ gần chợ Văn Điển, làm ở Hai Bà Trưng t�
 
 Đi làm theo trục này là chạy đều đặn mỗi ngày, dừng đỗ nhiều ở đèn và đoạn ùn. Xe số như Honda Wave nhẹ, tiết kiệm xăng, giá ngày 150.000 đ, giá theo tháng hỏi cửa hàng khi đặt. Nếu muốn đỡ mỏi tay khi kẹt xe, xe ga hợp hơn:
 
-- **Honda Vision:** 200.000 đ/ngày, tuần từ 800.000 đến 1.000.000 đ, tháng từ 1.800.000 đến 2.000.000 đ. Nhẹ, dễ dắt khi đi ngõ hẹp.
-- **Honda Air Blade:** 200.000 đ/ngày, 800.000 đ/tuần, 1.400.000 đ/tháng. Chạy đường dài êm, cốp rộng để áo mưa.
-- **Honda Click hoặc Yamaha Mio:** 150.000 đ/ngày, tháng từ 1.000.000 đến 1.200.000 đ. Hợp người muốn tiết kiệm chi phí.
+- **Honda Vision:** 200.000 đ/ngày, tuần 1.000.000 đ, tháng từ 1.800.000 đến 2.000.000 đ. Nhẹ, dễ dắt khi đi ngõ hẹp.
+- **Honda Air Blade:** 200.000 đ/ngày, 1.000.000 đ/tuần, 1.500.000 đ/tháng. Chạy đường dài êm, cốp rộng để áo mưa.
+- **Honda Click hoặc Yamaha Mio:** 150.000 đ/ngày, tháng từ 900.000 đến 1.200.000 đ. Hợp người muốn tiết kiệm chi phí.
 
 Cọc, giấy tờ cần mang và chuyện có kèm mũ bảo hiểm hay không, bạn hỏi cửa hàng khi đặt xe để được xác nhận trực tiếp. Thêm kinh nghiệm chọn xe và cách gia hạn có ở mục [thuê xe theo tháng](/thue-xe/thue-thang/).
 

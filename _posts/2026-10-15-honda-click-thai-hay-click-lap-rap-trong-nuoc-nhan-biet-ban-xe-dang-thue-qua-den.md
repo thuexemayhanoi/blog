@@ -90,6 +90,6 @@ Một tình huống khác: xe gặp trục trặc ở xa, thợ ven đường h�
 
 ## Hỏi tiệm khi đặt xe
 
-Giá thuê Honda Click ở tiệm là 150.000 đ/ngày, theo tuần 600.000–700.000 đ, theo tháng 1.000.000–1.200.000 đ. Nếu bạn quan tâm xe là bản nào, đời nào, dùng chìa cơ hay Smart Key, cứ hỏi lúc đặt xe qua số 0942 467 674 trong giờ mở cửa 09:00–21:00. Khi giao xe, tiệm sẽ chỉ tận tay những điểm khác biệt.
+Giá thuê Honda Click ở tiệm là 150.000 đ/ngày, theo tuần 700.000 đ, theo tháng 900.000–1.200.000 đ. Nếu bạn quan tâm xe là bản nào, đời nào, dùng chìa cơ hay Smart Key, cứ hỏi lúc đặt xe qua số 0942 467 674 trong giờ mở cửa 09:00–21:00. Khi giao xe, tiệm sẽ chỉ tận tay những điểm khác biệt.
 
 Muốn so Click với một dòng xe ga nhỏ khác, xem bài [Honda Click hay Vision khi thuê](/xe-may/2026/10/13/honda-click-hay-vision-khi-thue-hai-xe-ga-nho-khac-nhau-o-diem-nao/). Các bài khác về dòng xe này nằm ở trang [Honda Click](/xe-may/honda-click/), còn chuyên mục [xe máy](/xe-may/) giúp bạn chọn giữa các dòng xe tiệm cho thuê.

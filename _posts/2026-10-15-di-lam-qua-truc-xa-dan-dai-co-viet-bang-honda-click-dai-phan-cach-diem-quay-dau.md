@@ -71,7 +71,7 @@ Khi cần dừng, tìm bãi có người trông, giữ vé cẩn thận, không 
 
 ## Kinh nghiệm khi thuê Honda Click để đi trục này hằng ngày
 
-Honda Click hợp quãng đi làm này vì nhỏ, nhẹ, dễ dắt vào ngõ và quay đầu gọn. Giá thuê tại cửa hàng là 150.000 đ/ngày, theo tuần 600.000–700.000 đ, theo tháng 1.000.000–1.200.000 đ. Đặt cọc, giấy tờ cần mang và việc có kèm mũ bảo hiểm hay không, bạn hỏi cửa hàng khi đặt xe để chuẩn bị đủ.
+Honda Click hợp quãng đi làm này vì nhỏ, nhẹ, dễ dắt vào ngõ và quay đầu gọn. Giá thuê tại cửa hàng là 150.000 đ/ngày, theo tuần 700.000 đ, theo tháng 900.000–1.200.000 đ. Đặt cọc, giấy tờ cần mang và việc có kèm mũ bảo hiểm hay không, bạn hỏi cửa hàng khi đặt xe để chuẩn bị đủ.
 
 Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00. Nếu thuê lâu để đi làm, nhịp kiểm tra xe mỗi tuần và cách tính chi phí có trong bài [thuê Honda Click theo tháng để đi làm ở Hà Nội](/xe-may/2026/10/13/thue-honda-click-theo-thang-de-di-lam-o-ha-noi-lo-trinh-va-thoi-quen-moi-ngay/).
 

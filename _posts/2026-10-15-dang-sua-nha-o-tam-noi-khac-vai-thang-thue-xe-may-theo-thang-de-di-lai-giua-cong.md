@@ -25,10 +25,10 @@ Thời gian sửa nhà hiếm khi đúng như dự tính ban đầu. Chờ vật
 
 Bảng giá tháng đang áp dụng tại cửa hàng:
 
-- Honda Click hoặc Yamaha Mio: 1.000.000–1.200.000 đồng một tháng.
-- Honda Air Blade: 1.400.000 đồng một tháng.
+- Honda Click hoặc Yamaha Mio: 900.000–1.200.000 đồng một tháng.
+- Honda Air Blade: 1.500.000 đồng một tháng.
 - Honda Vision: 1.800.000–2.000.000 đồng một tháng.
-- Honda Wave và các dòng xe khác: liên hệ để xác nhận giá tháng.
+- Honda Wave: 900.000–1.200.000 đồng một tháng; các dòng xe khác: liên hệ để xác nhận giá tháng.
 
 Mức cọc, thời gian và chi phí giao nhận xe đều được xác nhận trực tiếp khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00 và không giao xe ngoài khung giờ này. Thông tin chung về hình thức thuê dài ngày có ở mục [thuê xe theo tháng](/thue-xe/thue-thang/).
 

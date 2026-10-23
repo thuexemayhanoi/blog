@@ -1979,6 +1979,25 @@
   margin-bottom: var(--spacing-xs);
 }
 
+/* Giá thuê tham khảo hiện hành (bài chưa sửa được nội dung gốc; bảng lấy từ _data/pricing.yml) */
+.price-notice {
+  max-width: 760px;
+  margin: var(--spacing-lg) auto;
+  padding: var(--spacing-md);
+  border: 1px solid var(--color-border-dark);
+  border-left-width: 4px;
+  border-radius: var(--radius-md);
+}
+
+.price-notice h2 {
+  font-size: var(--font-size-lg);
+  margin: 0 0 var(--spacing-xs);
+}
+
+.price-notice p {
+  margin: 0 0 var(--spacing-xs);
+}
+
 /* Bài viết liên quan */
 .article-related {
   max-width: 760px;

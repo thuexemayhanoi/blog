@@ -79,7 +79,7 @@ Anh Minh ở Cầu Giấy lái ô tô hơn mười năm, muốn đi xe máy vào
 
 ## Thuê xe khi vừa lấy lại tay lái
 
-Người mới tập lại nên chọn xe nhẹ, dễ chống chân: Honda Vision 200.000 đ/ngày, hoặc Honda Wave 150.000 đ/ngày cho ai quen xe số. Thuê một ngày để tập, thấy ổn hãy tính thuê tuần, Vision khoảng 800.000–1.000.000 đ/tuần. Xem [bảng giá thuê xe](/bang-gia/).
+Người mới tập lại nên chọn xe nhẹ, dễ chống chân: Honda Vision 200.000 đ/ngày, hoặc Honda Wave 150.000 đ/ngày cho ai quen xe số. Thuê một ngày để tập, thấy ổn hãy tính thuê tuần, Vision khoảng 1.000.000 đ/tuần. Xem [bảng giá thuê xe](/bang-gia/).
 
 Khi đặt xe, hãy hỏi cửa hàng giấy tờ cần mang, có xem bằng trên VNeID được không, xe có kèm mũ bảo hiểm không. Tiền cọc và các khoản phát sinh xác nhận trực tiếp. Nên nhận xe ban ngày để còn tập dưới trời sáng.
 

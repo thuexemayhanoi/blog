@@ -41,10 +41,10 @@ Tiền thuê xe tạm có được ai trả không thì bạn hỏi thẳng bên
 Có mốc muộn nhất rồi thì việc chọn gói khá đơn giản. Tôi chia làm ba trường hợp:
 
 - Xưởng báo vài ngày: thuê theo ngày. Honda Vision và Honda Air Blade 200.000 đ một ngày, Honda Click hoặc Yamaha Mio 150.000 đ, Honda Wave 150.000 đ.
-- Khoảng một đến hai tuần: thuê theo tuần. Vision 800.000–1.000.000 đ, Air Blade 800.000 đ, Click hoặc Mio 600.000–700.000 đ một tuần.
-- Từ tuần thứ ba trở đi, hoặc xưởng chưa dám hẹn: thuê theo tháng. Vision 1.800.000–2.000.000 đ, Air Blade 1.400.000 đ, Click hoặc Mio 1.000.000–1.200.000 đ một tháng.
+- Khoảng một đến hai tuần: thuê theo tuần. Vision 1.000.000 đ, Air Blade 1.000.000 đ, Click hoặc Mio 700.000 đ một tuần.
+- Từ tuần thứ ba trở đi, hoặc xưởng chưa dám hẹn: thuê theo tháng. Vision 1.800.000–2.000.000 đ, Air Blade 1.500.000 đ, Click hoặc Mio 900.000–1.200.000 đ một tháng.
 
-Lý do tôi hay khuyên chuyển sang gói tháng sớm là phép cộng rất rõ. Với Air Blade và Click hoặc Mio, hai gói tuần cộng lại đã ngang hoặc vượt giá một tháng. Với Vision thì xấp xỉ nhau, nhưng gói tháng đỡ phải gia hạn nhiều lần. Wave hiện chỉ công bố giá ngày, nên muốn thuê Wave dài ngày thì gọi hỏi cửa hàng trước. Giá từng dòng xe có trên trang [bảng giá thuê xe](/bang-gia/).
+Lý do tôi hay khuyên chuyển sang gói tháng sớm là phép cộng rất rõ. Với Air Blade và Click hoặc Mio, hai gói tuần cộng lại đã ngang hoặc vượt giá một tháng. Với Vision thì xấp xỉ nhau, nhưng gói tháng đỡ phải gia hạn nhiều lần. Wave cũng vậy: gói tháng 900.000–1.200.000 đ thấp hơn hai gói tuần 700.000 đ cộng lại. Giá từng dòng xe có trên trang [bảng giá thuê xe](/bang-gia/).
 
 ### Một ví dụ thường gặp
 

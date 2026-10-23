@@ -30,8 +30,8 @@ Vì vậy câu hỏi thật sự là: phần chênh lệch tiền bạn bỏ ra 
 Mức giá theo tháng đã được cửa hàng duyệt:
 
 - Honda Vision: khoảng 1.800.000 đến 2.000.000 đ một tháng.
-- Honda Air Blade: khoảng 1.400.000 đ một tháng.
-- Honda Click hoặc Yamaha Mio: khoảng 1.000.000 đến 1.200.000 đ một tháng.
+- Honda Air Blade: khoảng 1.500.000 đ một tháng.
+- Honda Click hoặc Yamaha Mio: khoảng 900.000 đến 1.200.000 đ một tháng.
 
 Ngoài tiền thuê, bạn cần tính khoản đặt cọc ban đầu, mức cụ thể phải xác nhận trực tiếp với cửa hàng. Khoản này thường được trả lại khi trả xe đúng điều kiện, nên nó là tiền bị giữ tạm chứ không phải tiền mất, nhưng vẫn phải có sẵn ở tháng đầu.
 

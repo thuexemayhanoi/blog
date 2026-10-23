@@ -21,10 +21,10 @@ Bạn sang Hà Nội làm một dự án năm, sáu tuần, đi thực tập ng�
 
 Chỉ dùng các mức đang niêm yết, không dùng giá nghe kể:
 
-- **Honda Click / Yamaha Mio:** ngày 150.000 đồng; tuần 600.000–700.000 đồng; tháng 1.000.000–1.200.000 đồng.
-- **Honda Air Blade:** ngày 200.000 đồng; tuần 800.000 đồng; tháng 1.400.000 đồng.
-- **Honda Vision:** ngày 200.000 đồng; tuần 800.000–1.000.000 đồng; tháng 1.800.000–2.000.000 đồng.
-- **Honda Wave:** ngày 150.000 đồng; tuần và tháng chưa niêm yết, cần liên hệ.
+- **Honda Click / Yamaha Mio:** ngày 150.000 đồng; tuần 700.000 đồng; tháng 900.000–1.200.000 đồng.
+- **Honda Air Blade:** ngày 200.000 đồng; tuần 1.000.000 đồng; tháng 1.500.000 đồng.
+- **Honda Vision:** ngày 200.000 đồng; tuần 1.000.000 đồng; tháng 1.800.000–2.000.000 đồng.
+- **Honda Wave:** ngày 150.000 đồng; tuần 700.000 đồng; tháng 900.000–1.200.000 đồng.
 
 Bảng giá không có mục riêng cho kỳ thuê hai tháng. Vì thế, mọi so sánh với "hai tháng" bên dưới chỉ là cách nghĩ để bạn tự đặt câu hỏi; giá thật cho một kỳ dài hơn một tháng phải do cửa hàng báo. Bảng đầy đủ ở trang [giá thuê xe máy](/thue-xe/gia-thue/).
 

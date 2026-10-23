@@ -67,6 +67,6 @@ Nếu thuê Click ở Long Biên, một đoạn chạy thử dễ là từ cửa
 
 ## Thuê Honda Click ở Nguyễn Tú
 
-Trên bảng giá của Nguyễn Tú, dòng Honda Click và Yamaha Mio có giá ngày 150.000 đồng, giá tuần từ 600.000 tới 700.000 đồng, giá tháng từ 1.000.000 tới 1.200.000 đồng; tiền cọc xác nhận trực tiếp. Bản Click có hay không có đèn ECO tùy từng xe, bạn có thể hỏi khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, số điện thoại 0942 467 674.
+Trên bảng giá của Nguyễn Tú, dòng Honda Click và Yamaha Mio có giá ngày 150.000 đồng, giá tuần 700.000 đồng, giá tháng từ 900.000 tới 1.200.000 đồng; tiền cọc xác nhận trực tiếp. Bản Click có hay không có đèn ECO tùy từng xe, bạn có thể hỏi khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, số điện thoại 0942 467 674.
 
 Các bài khác về dòng xe này có ở trang [Honda Click](/xe-may/honda-click/ "Honda Click"), còn toàn bộ thông tin về các dòng xe ở mục [xe máy](/xe-may/ "Xe máy cho thuê ở Hà Nội").

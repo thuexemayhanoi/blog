@@ -73,7 +73,7 @@ Có thể làm thành phụ lục hợp đồng. Mang bản gốc khi ra ga và 
 
 Từ lúc giao xe cho ga đến lúc nhận lại ở ga đến, xe vẫn trong thời gian thuê. Xe tới chậm hơn bạn một hai ngày thì những ngày đó vẫn có thể bị tính tiền, trừ khi cửa hàng thỏa thuận khác.
 
-Ví dụ khách ở Cầu Giấy đi tàu lên Lào Cai năm ngày, mang theo Honda Vision. Vision giá ngày 200.000 đ, gói tuần 800.000 đến 1.000.000 đ. Cộng ngày xe đi và về trên tàu, tổng thời gian có thể sát một tuần, lúc đó nên hỏi áp gói tuần. Giá hiện hành xem tại [bảng giá thuê xe](/bang-gia/).
+Ví dụ khách ở Cầu Giấy đi tàu lên Lào Cai năm ngày, mang theo Honda Vision. Vision giá ngày 200.000 đ, gói tuần 1.000.000 đ. Cộng ngày xe đi và về trên tàu, tổng thời gian có thể sát một tuần, lúc đó nên hỏi áp gói tuần. Giá hiện hành xem tại [bảng giá thuê xe](/bang-gia/).
 
 Cước gửi xe theo tàu là khoản riêng do ga hoặc đơn vị vận chuyển thu, tính cả hai chiều. Hỏi giá ở ga trước rồi so với phương án thuê xe tại tỉnh đến.
 

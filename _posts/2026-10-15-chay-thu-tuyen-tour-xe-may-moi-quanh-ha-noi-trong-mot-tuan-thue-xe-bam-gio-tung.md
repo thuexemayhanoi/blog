@@ -23,7 +23,7 @@ Một lượt chạy chỉ cho bạn biết đường sá vào đúng hôm đó.
 
 Nên thuê đúng loại xe mà khách sẽ đi. Bấm giờ bằng Honda Vision mà sau này khách chạy Honda Wave thì cảm giác lên dốc, phanh và vào cua sẽ khác, số liệu cũng lệch theo.
 
-Giá gói tuần ở tiệm hiện tại: Honda Click hoặc Yamaha Mio 600.000–700.000 đ, Honda Air Blade 800.000 đ, Honda Vision 800.000–1.000.000 đ. Honda Wave giá ngày 150.000 đ, muốn giữ Wave cả tuần thì hỏi tiệm khi đặt. Điều kiện gói tuần có ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
+Giá gói tuần ở tiệm hiện tại: Honda Click hoặc Yamaha Mio 700.000 đ, Honda Air Blade 1.000.000 đ, Honda Vision 1.000.000 đ. Honda Wave giá ngày 150.000 đ, muốn giữ Wave cả tuần thì hỏi tiệm khi đặt. Điều kiện gói tuần có ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
 
 ## Chia bảy ngày thành việc rõ ràng
 

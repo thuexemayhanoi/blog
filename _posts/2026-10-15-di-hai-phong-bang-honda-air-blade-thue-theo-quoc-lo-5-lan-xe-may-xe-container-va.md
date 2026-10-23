@@ -36,7 +36,7 @@ Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, rất gần đầu qu
 
 Đoạn đầu trong Long Biên và Gia Lâm đông xe máy đi làm, nhiều điểm quay đầu và đèn tín hiệu. Đừng vội; phần đường thoáng còn ở phía trước.
 
-Trước khi đi, báo tiệm rằng bạn đi Hải Phòng để được kiểm tra xe kỹ và dặn cách liên hệ khi có sự cố. Tiệm giao nhận xe trong giờ mở cửa 09:00–21:00; muốn đi sớm thì nhận xe từ chiều hôm trước. Giá thuê Air Blade là 200.000 đồng một ngày, ở lại lâu thì hỏi gói tuần 800.000 đồng hoặc tháng 1.400.000 đồng. Tiền cọc và chi phí giao xe xác nhận trực tiếp với tiệm.
+Trước khi đi, báo tiệm rằng bạn đi Hải Phòng để được kiểm tra xe kỹ và dặn cách liên hệ khi có sự cố. Tiệm giao nhận xe trong giờ mở cửa 09:00–21:00; muốn đi sớm thì nhận xe từ chiều hôm trước. Giá thuê Air Blade là 200.000 đồng một ngày, ở lại lâu thì hỏi gói tuần 1.000.000 đồng hoặc tháng 1.500.000 đồng. Tiền cọc và chi phí giao xe xác nhận trực tiếp với tiệm.
 
 ## Làn xe máy trên quốc lộ 5: đi đúng theo biển và vạch
 

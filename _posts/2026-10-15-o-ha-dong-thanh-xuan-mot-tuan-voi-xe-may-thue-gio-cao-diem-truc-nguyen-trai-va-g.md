@@ -32,10 +32,10 @@ Tiền đặt cọc và giấy tờ cần có, hỏi rõ trực tiếp khi đặ
 
 Một tuần chạy trong phố đông, đi làm, đi chợ, thỉnh thoảng sang trung tâm, xe ga là lựa chọn dễ chịu nhất vì không phải sang số liên tục khi bò trong dòng xe. Bảng giá thuê tuần hiện hành:
 
-- **Honda Vision:** 800.000–1.000.000 đồng/tuần, xe nhẹ, cốp rộng, dễ dắt trong hầm gửi xe.
-- **Honda Air Blade:** 800.000 đồng/tuần, máy khỏe hơn, hợp người hay chạy trục lớn.
-- **Honda Click, Yamaha Mio:** 600.000–700.000 đồng/tuần, gọn, tiết kiệm cho việc đi lại ngắn.
-- **Honda Wave:** giá tuần liên hệ để xác nhận.
+- **Honda Vision:** 1.000.000 đồng/tuần, xe nhẹ, cốp rộng, dễ dắt trong hầm gửi xe.
+- **Honda Air Blade:** 1.000.000 đồng/tuần, máy khỏe hơn, hợp người hay chạy trục lớn.
+- **Honda Click, Yamaha Mio:** 700.000 đồng/tuần, gọn, tiết kiệm cho việc đi lại ngắn.
+- **Honda Wave:** 700.000 đồng/tuần.
 
 Chi tiết từng mức và điều kiện đi kèm xem ở trang [bảng giá](/bang-gia/). Giá là để chọn xe, còn thứ quyết định một tuần dễ hay khó là cách bạn đi đường.
 

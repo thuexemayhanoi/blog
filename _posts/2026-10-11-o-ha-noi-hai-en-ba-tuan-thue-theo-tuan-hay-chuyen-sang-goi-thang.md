@@ -26,10 +26,10 @@ Giá tuần cộng dồn theo từng tuần bạn giữ xe. Giá tháng là mứ
 
 Đây là các mức giá tuần và giá tháng dùng làm căn cứ trong bài:
 
-- Honda Vision: giá tuần từ 800.000đ đến 1 triệu đồng; giá tháng từ 1,8 đến 2 triệu đồng.
-- Honda Air Blade: giá tuần 800.000đ; giá tháng 1,4 triệu đồng.
-- Honda Click và Yamaha Mio: giá tuần từ 600.000đ đến 700.000đ; giá tháng từ 1 đến 1,2 triệu đồng.
-- Honda Wave: giá tuần và giá tháng liên hệ Nguyễn Tú để xác nhận.
+- Honda Vision: giá tuần 1 triệu đồng; giá tháng từ 1,8 đến 2 triệu đồng.
+- Honda Air Blade: giá tuần 1 triệu đồng; giá tháng 1,5 triệu đồng.
+- Honda Click và Yamaha Mio: giá tuần 700.000đ; giá tháng từ 900 nghìn đến 1,2 triệu đồng.
+- Honda Wave: giá tuần 700.000đ; giá tháng từ 900 nghìn đến 1,2 triệu đồng.
 - Xe điện, xe đạp điện, xe 50cc: liên hệ để xác nhận giá hiện tại.
 
 Đây là dải giá, không phải con số cố định cho mọi lần thuê. Mức cụ thể phụ thuộc xe bạn nhận và thời điểm đặt, nên hãy hỏi lại giá hiện tại trước khi quyết định.
@@ -44,7 +44,7 @@ Bạn không cần bảng tính phức tạp. Chỉ cần năm bước:
 4. Đặt kết quả cạnh giá tháng của cùng dòng xe.
 5. Hỏi xem nếu chuyển giữa chừng từ gói tuần sang gói tháng thì tính ra sao.
 
-Hãy tự bấm máy tính, vì con số phải dựa trên mức giá được xác nhận cho đợt thuê của bạn. Khi đặt hai cột cạnh nhau với các mức đã duyệt ở trên, bạn sẽ thấy khoảng cách giữa giá hai tuần và giá tháng khá hẹp ở cả ba dòng xe có giá. Vì thế ngưỡng đáng cân nhắc gói tháng thường nằm quanh tuần thứ hai, chưa cần đợi đến tuần thứ ba. Mức chính xác vẫn do bạn tính và xác nhận.
+Hãy tự bấm máy tính, vì con số phải dựa trên mức giá được xác nhận cho đợt thuê của bạn. Khi đặt hai cột cạnh nhau với các mức đã duyệt ở trên, bạn sẽ thấy giá hai tuần đã bằng hoặc cao hơn giá tháng ở cả bốn nhóm xe trong bảng. Vì thế ngưỡng đáng cân nhắc gói tháng thường nằm quanh tuần thứ hai, chưa cần đợi đến tuần thứ ba. Mức chính xác vẫn do bạn tính và xác nhận.
 
 Muốn biết gói tuần hợp với kiểu người dùng nào, chuyên mục [thuê xe máy theo tuần](/thue-xe/thue-tuan/) có đủ các bài theo từng hoàn cảnh.
 

@@ -79,6 +79,6 @@ Nếu trong vài phút đầu bạn đã thấy tay hoặc chân đang gồng, �
 
 ## Giá và việc cần hỏi trước khi đặt
 
-Chênh lệch giá giữa xe số và xe ga thường không lớn, nên đừng chọn xe chỉ vì con số. Tại Thuê Xe Máy Hà Nội Nguyễn Tú, Honda Wave là 150.000đ/ngày, Honda Vision 200.000đ/ngày và nếu thuê theo tháng, Honda Air Blade là 1,4 triệu đồng/tháng; tiền cọc và các điều kiện thuê cần xác nhận trực tiếp trước khi đặt xe.
+Chênh lệch giá giữa xe số và xe ga thường không lớn, nên đừng chọn xe chỉ vì con số. Tại Thuê Xe Máy Hà Nội Nguyễn Tú, Honda Wave là 150.000đ/ngày, Honda Vision 200.000đ/ngày và nếu thuê theo tháng, Honda Air Blade là 1,5 triệu đồng/tháng; tiền cọc và các điều kiện thuê cần xác nhận trực tiếp trước khi đặt xe.
 
 Gợi ý gọn là thế này: người mới hoặc nhiều đồ thì nghiêng về xe ga, người quen xe số và đi gọn nhẹ thì xe số vẫn rất ổn. Còn lăn tăn thì xem thêm trong mục [chọn loại xe khi thuê](/xe-may/chon-loai-xe/) hoặc chuyên mục [xe máy](/xe-may/), rồi gọi 0942 467 674 trong khung 09:00–21:00 để hỏi xe nào đang sẵn sàng cho chuyến đi.

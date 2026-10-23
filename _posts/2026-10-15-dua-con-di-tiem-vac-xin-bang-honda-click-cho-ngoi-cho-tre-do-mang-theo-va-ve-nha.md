@@ -70,6 +70,6 @@ Thời tiết Hà Nội thay đổi nhiều theo mùa, và trẻ nhỏ chịu n�
 
 ## Khi cả nhà ở Hà Nội ngắn ngày
 
-Nếu bạn đưa con từ quê lên Hà Nội tiêm một mũi ở trung tâm tiêm chủng lớn, hoặc đang ở Hà Nội vài tuần cùng gia đình, thuê một chiếc xe ga gọn sẽ chủ động hơn nhiều so với gọi xe từng chuyến với trẻ nhỏ. Bài [thuê xe máy cho gia đình có trẻ nhỏ đi cùng](/thue-xe/2026/09/29/thue-xe-may-cho-gia-inh-co-tre-nho-i-cung/ "Thuê xe máy cho gia đình có trẻ nhỏ") có thêm gợi ý chọn xe. Trên bảng giá của Nguyễn Tú, dòng Honda Click và Yamaha Mio có giá ngày 150.000 đồng, giá tuần từ 600.000 tới 700.000 đồng; tiền cọc xác nhận trực tiếp. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, số điện thoại 0942 467 674.
+Nếu bạn đưa con từ quê lên Hà Nội tiêm một mũi ở trung tâm tiêm chủng lớn, hoặc đang ở Hà Nội vài tuần cùng gia đình, thuê một chiếc xe ga gọn sẽ chủ động hơn nhiều so với gọi xe từng chuyến với trẻ nhỏ. Bài [thuê xe máy cho gia đình có trẻ nhỏ đi cùng](/thue-xe/2026/09/29/thue-xe-may-cho-gia-inh-co-tre-nho-i-cung/ "Thuê xe máy cho gia đình có trẻ nhỏ") có thêm gợi ý chọn xe. Trên bảng giá của Nguyễn Tú, dòng Honda Click và Yamaha Mio có giá ngày 150.000 đồng, giá tuần 700.000 đồng; tiền cọc xác nhận trực tiếp. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, số điện thoại 0942 467 674.
 
 Các bài khác về dòng xe này có ở trang [Honda Click](/xe-may/honda-click/ "Honda Click"), còn toàn bộ thông tin về các dòng xe ở mục [xe máy](/xe-may/ "Xe máy cho thuê ở Hà Nội").

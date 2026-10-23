@@ -27,7 +27,7 @@ Thuê xe tự chạy hợp khi:
 - Bạn cần ghé nhiều chỗ: văn phòng đối tác, nhà cung cấp, cửa hàng vật tư quanh Long Biên, Gia Lâm.
 - Buổi tối muốn tự sang Hoàn Kiếm ăn uống, không phải canh giờ xe.
 
-Honda Click giá 150.000 đ/ngày; nếu ở cả tuần thì hỏi mức tuần 600.000–700.000 đ, xem chi tiết ở [bảng giá](/bang-gia/). Nếu chỉ có một buổi họp rồi bay luôn, gọi xe sẽ đơn giản hơn.
+Honda Click giá 150.000 đ/ngày; nếu ở cả tuần thì hỏi mức tuần 700.000 đ, xem chi tiết ở [bảng giá](/bang-gia/). Nếu chỉ có một buổi họp rồi bay luôn, gọi xe sẽ đơn giản hơn.
 
 ## Nhận xe ở Nguyễn Văn Cừ: tiệm nằm sẵn trên đường đi Sài Đồng
 

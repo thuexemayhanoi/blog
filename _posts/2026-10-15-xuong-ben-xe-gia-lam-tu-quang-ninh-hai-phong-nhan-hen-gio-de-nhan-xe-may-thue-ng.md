@@ -90,9 +90,9 @@ Nếu cần chở nhiều đồ suốt chuyến, hãy nói rõ khi đặt để 
 Khách từ Quảng Ninh, Hải Phòng lên Hà Nội thường ở vài ngày đến một tuần. Giá thuê niêm yết theo ngày:
 
 - **Honda Wave**: 150.000 đ.
-- **Honda Click, Yamaha Mio**: 150.000 đ; gói tuần 600.000–700.000 đ.
-- **Honda Vision**: 200.000 đ; gói tuần 800.000–1.000.000 đ.
-- **Honda Air Blade**: 200.000 đ; gói tuần 800.000 đ.
+- **Honda Click, Yamaha Mio**: 150.000 đ; gói tuần 700.000 đ.
+- **Honda Vision**: 200.000 đ; gói tuần 1.000.000 đ.
+- **Honda Air Blade**: 200.000 đ; gói tuần 1.000.000 đ.
 
 Ở từ năm ngày trở lên thì nên hỏi gói tuần, thường lợi hơn thuê lẻ từng ngày. Xem đầy đủ ở [bảng giá](/bang-gia/). Muốn thuê xe máy điện thì liên hệ để xác nhận giá.
 
