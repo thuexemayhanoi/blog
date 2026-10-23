@@ -130,7 +130,7 @@ Trong lúc chờ, hai **lớp đính chính hiển thị** (dữ liệu tách kh
 `_data/legal-notices.json` (pháp lý, nguồn văn bản chính thức; `docs/LEGAL-NOTICES.md`) và `_data/price-notices.json` (bảng giá hiện hành từ `_data/pricing.yml`; `docs/PRICE-NOTICES.md`).
 
 Cannibalization: 49 nhóm / 107 bài đã có liên kết ngữ cảnh hai chiều (`_data/seo-topic-links.json`); gộp/xóa/redirect chưa làm (cần hạ tầng HTTP 301 và dữ liệu Search Console;
-`cannibalization-classification.csv` đánh dấu 29 nhóm nghi cùng intent để chủ xem xét). 82 cặp "tiêu đề gần trùng trong cụm" phần lớn là các thực thể khác nhau (bảo tàng, điểm đến) — không phải trùng intent.
+`cannibalization-classification.csv` đánh dấu 29 nhóm nghi cùng intent để chủ xem xét; độ giống văn bản thân bài giữa các bài trong cùng nhóm rất thấp — Jaccard 6-gram cao nhất 0,047 trên 70 cặp — nên đây là chồng lấn chủ đề/intent chứ không phải nội dung sao chép). 82 cặp "tiêu đề gần trùng trong cụm" phần lớn là các thực thể khác nhau (bảo tàng, điểm đến) — không phải trùng intent.
 
 Quyết định ghi lại: JSON-LD LocalBusiness giữ nguyên trên mọi trang (`docs/SCHEMA-GEO.md` quy định rõ; đổi phạm vi không có bằng chứng cải thiện); 689 trang danh sách giữ nguyên (không noindex/xóa hàng loạt khi chưa có dữ liệu lập chỉ mục);
 meta description 161–199 ký tự không phải lỗi (công cụ tìm kiếm có thể cắt hiển thị), chỉ 4 bài > 200 ký tự đã được rút gọn.
