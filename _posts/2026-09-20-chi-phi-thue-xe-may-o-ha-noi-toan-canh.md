@@ -15,7 +15,7 @@ Khi so sánh các mức giá thuê xe máy, nhiều người chỉ nhìn vào co
 
 ## Tầng chi phí thứ nhất: giá thuê
 
-Giá thuê là khoản hiển nhiên nhất, và nó thay đổi theo hai trục: dòng xe và thời gian thuê. Về dòng xe, các mức tham khảo phổ biến như sau: Wave khoảng 150.000đ một ngày. Vision khoảng 200.000đ một ngày, 800.000đ đến 1.000.000đ một tuần, 1.800.000đ đến 2.000.000đ một tháng. Air Blade khoảng 200.000đ một ngày, 800.000đ một tuần, 1.400.000đ một tháng. Click hoặc Mio khoảng 150.000đ một ngày, 600.000đ đến 700.000đ một tuần, 1.000.000đ đến 1.200.000đ một tháng.
+Giá thuê là khoản hiển nhiên nhất, và nó thay đổi theo hai trục: dòng xe và thời gian thuê. Về dòng xe, các mức tham khảo phổ biến như sau: Wave khoảng 150.000đ một ngày. Vision khoảng 200.000đ một ngày, 1.000.000đ một tuần, 1.800.000đ đến 2.000.000đ một tháng. Air Blade khoảng 200.000đ một ngày, 1.000.000đ một tuần, 1.500.000đ một tháng. Click hoặc Mio khoảng 150.000đ một ngày, 700.000đ một tuần, 900.000đ đến 1.200.000đ một tháng.
 
 Về thời gian thuê, quy luật chung là đơn giá giảm khi thời gian tăng: gói tuần rẻ hơn tính lẻ theo ngày, gói tháng rẻ hơn gói tuần. Vì vậy, ngay từ đầu hãy ước lượng thời gian thuê thật của mình và hỏi giá theo đúng gói, thay vì lấy giá ngày nhân số ngày rồi mới ngạc nhiên khi tổng cao hơn gói tuần.
 

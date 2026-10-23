@@ -29,9 +29,9 @@ Thuê theo tháng có đơn giá quy ra ngày thấp nhất, vì thời gian thu
 
 ## So sánh chi phí theo bảng giá hiện hành
 
-Để hình dung rõ hơn, hãy xem mức giá của các dòng xe đang có. Với xe số Honda Wave, mức giá thuê theo ngày là 150.000đ. Với các dòng xe ga, Honda Vision có giá 200.000đ/ngày, 800.000đ đến 1.000.000đ/tuần và 1.800.000đ đến 2.000.000đ/tháng. Honda Air Blade có giá 200.000đ/ngày, 800.000đ/tuần và 1.400.000đ/tháng. Honda Click và Yamaha Mio có giá 150.000đ/ngày, 600.000đ đến 700.000đ/tuần và 1.000.000đ đến 1.200.000đ/tháng.
+Để hình dung rõ hơn, hãy xem mức giá của các dòng xe đang có. Với xe số Honda Wave, mức giá thuê theo ngày là 150.000đ. Với các dòng xe ga, Honda Vision có giá 200.000đ/ngày, 1.000.000đ/tuần và 1.800.000đ đến 2.000.000đ/tháng. Honda Air Blade có giá 200.000đ/ngày, 1.000.000đ/tuần và 1.500.000đ/tháng. Honda Click và Yamaha Mio có giá 150.000đ/ngày, 700.000đ/tuần và 900.000đ đến 1.200.000đ/tháng.
 
-Lấy ví dụ Honda Vision: nếu bạn thuê 7 ngày lẻ, chi phí theo giá ngày là 1.400.000đ. Thuê trọn gói tuần, bạn chỉ trả từ 800.000đ đến 1.000.000đ tùy mức áp dụng. Chênh lệch đủ lớn để việc suy nghĩ trước về độ dài chuyến đi trở nên xứng đáng.
+Lấy ví dụ Honda Vision: nếu bạn thuê 7 ngày lẻ, chi phí theo giá ngày là 1.400.000đ. Thuê trọn gói tuần, bạn chỉ trả 1.000.000đ. Chênh lệch đủ lớn để việc suy nghĩ trước về độ dài chuyến đi trở nên xứng đáng.
 
 Một lưu ý về khoảng giá: với một số dòng xe, mức tuần và tháng dao động trong một khoảng, vì con số cuối cùng phụ thuộc vào thời điểm và điều kiện thuê. Đây là lý do bạn nên xác nhận trực tiếp mức áp dụng cho trường hợp của mình trước khi đặt.
 
@@ -42,7 +42,7 @@ Bạn không cần phép tính phức tạp. Chỉ cần so sánh hai con số:
 - Tổng giá nếu thuê lẻ từng ngày = số ngày nhân giá ngày.
 - Giá gói tuần hoặc gói tháng tương ứng với số ngày đó.
 
-Nếu số ngày của bạn sát bằng hoặc vượt số ngày của gói, gói gần luôn rẻ hơn. Ví dụ, với Honda Click, 5 ngày lẻ đã lên tới 750.000đ, ngang ngửa gói tuần 600.000đ đến 700.000đ cho tới 7 ngày. Nếu kế hoạch của bạn còn khả năng kéo dài thêm một hai ngày, chọn gói tuần rõ ràng có lợi.
+Nếu số ngày của bạn sát bằng hoặc vượt số ngày của gói, gói gần luôn rẻ hơn. Ví dụ, với Honda Click, 5 ngày lẻ đã lên tới 750.000đ, ngang ngửa gói tuần 700.000đ cho tới 7 ngày. Nếu kế hoạch của bạn còn khả năng kéo dài thêm một hai ngày, chọn gói tuần rõ ràng có lợi.
 
 Để không phải tính tay, bạn có thể dùng công cụ tính giá ngay trên trang [bảng giá]({{ '/bang-gia/' | relative_url }}): chọn loại xe và số ngày, công cụ sẽ cho ra mức ước tính tham khảo ngay lập tức. Với dòng xe điện và xe đạp điện, mức giá chưa niêm yết cố định, khi đó công cụ sẽ chuyển bạn sang hình thức liên hệ trực tiếp để xác nhận.
 

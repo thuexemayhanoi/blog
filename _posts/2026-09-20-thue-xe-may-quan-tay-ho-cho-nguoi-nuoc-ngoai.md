@@ -25,7 +25,7 @@ Nếu bạn chưa có giấy phép lái xe Việt Nam và chỉ ở ngắn hạn
 
 Tây Hồ có nhiều cửa hàng cho thuê xe quen thuộc với khách nước ngoài, với các dòng xe tay ga phổ biến như Vision, Air Blade hoặc các mẫu xe số bền bỉ. Nếu bạn chủ yếu đi lại giữa nhà và văn phòng, chợ hoặc quán quen trong bán kính vài cây số, một chiếc xe tay ga nhỏ gọn đủ dùng và dễ điều khiển.
 
-Giá thuê tham khảo cho dòng Vision thường ở mức 200.000đ một ngày, gói tuần từ 800.000đ đến 1.000.000đ, gói tháng từ 1.800.000đ đến 2.000.000đ. Dòng Air Blade thường khoảng 200.000đ một ngày, 800.000đ một tuần và 1.400.000đ một tháng. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
+Giá thuê tham khảo cho dòng Vision thường ở mức 200.000đ một ngày, gói tuần 1.000.000đ, gói tháng từ 1.800.000đ đến 2.000.000đ. Dòng Air Blade thường khoảng 200.000đ một ngày, 1.000.000đ một tuần và 1.500.000đ một tháng. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
 Với người ở dài hạn, gói tháng gần như luôn có lợi hơn tính lẻ theo tuần hoặc theo ngày. Hãy hỏi thêm các điều kiện của gói tháng: thời gian trả xe linh hoạt đến đâu, quy trình bảo dưỡng xe định kỳ, và xe dự phòng khi xe chính cần sửa. Các chi tiết này quyết định trải nghiệm của bạn trong nhiều tháng sử dụng.
 

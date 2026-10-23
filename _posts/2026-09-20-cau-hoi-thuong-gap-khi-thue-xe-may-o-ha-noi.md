@@ -27,7 +27,7 @@ Hỏi: Tiền cọc bao nhiêu? Trả lời: Mức đặt cọc thông thường
 
 Hỏi: Tôi được nhận lại cọc ngay khi trả xe không? Trả lời: Có, nếu tình trạng xe khớp với biên bản ban đầu. Hai bên cùng kiểm tra, chốt các điểm cần đối chiếu, và bạn nhận lại đủ tiền cọc trước khi rời đi. Hãy giữ tin nhắn xác nhận của cửa hàng sau khi hoàn tất.
 
-Hỏi: Giá thuê các dòng xe khoảng bao nhiêu? Trả lời: Dòng Wave thường có giá tham khảo khoảng 150.000đ một ngày. Dòng Vision khoảng 200.000đ một ngày, gói tuần từ 800.000đ đến 1.000.000đ, gói tháng từ 1.800.000đ đến 2.000.000đ. Dòng Air Blade khoảng 200.000đ một ngày, 800.000đ một tuần, 1.400.000đ một tháng. Dòng Click hoặc Mio khoảng 150.000đ một ngày, 600.000đ đến 700.000đ một tuần, 1.000.000đ đến 1.200.000đ một tháng. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
+Hỏi: Giá thuê các dòng xe khoảng bao nhiêu? Trả lời: Dòng Wave thường có giá tham khảo khoảng 150.000đ một ngày. Dòng Vision khoảng 200.000đ một ngày, gói tuần 1.000.000đ, gói tháng từ 1.800.000đ đến 2.000.000đ. Dòng Air Blade khoảng 200.000đ một ngày, 1.000.000đ một tuần, 1.500.000đ một tháng. Dòng Click hoặc Mio khoảng 150.000đ một ngày, 700.000đ một tuần, 900.000đ đến 1.200.000đ một tháng. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
 ## Về thời gian nhận và trả xe
 

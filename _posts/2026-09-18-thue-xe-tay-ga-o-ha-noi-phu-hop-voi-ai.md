@@ -33,11 +33,11 @@ Ngược lại, nếu bạn định chạy đường trường dài liên tục,
 
 ## Các dòng xe ga hay thuê và giá tham khảo
 
-Honda Vision là mẫu được hỏi nhiều nhất: nhỏ gọn, yên thấp, cốp rộng so với kích thước, phù hợp cả khách nam và nữ đi phố. Giá thuê tham khảo khoảng 200.000đ mỗi ngày, 800.000đ đến 1.000.000đ mỗi tuần, 1.800.000đ đến 2.000.000đ mỗi tháng.
+Honda Vision là mẫu được hỏi nhiều nhất: nhỏ gọn, yên thấp, cốp rộng so với kích thước, phù hợp cả khách nam và nữ đi phố. Giá thuê tham khảo khoảng 200.000đ mỗi ngày, 1.000.000đ mỗi tuần, 1.800.000đ đến 2.000.000đ mỗi tháng.
 
-Honda Air Blade mạnh mẽ hơn, thiết kế thể thao, dáng xe dài và chắc, phù hợp khách muốn cảm giác đầm tay lái. Giá tham khảo khoảng 200.000đ mỗi ngày, 800.000đ mỗi tuần, 1.400.000đ mỗi tháng.
+Honda Air Blade mạnh mẽ hơn, thiết kế thể thao, dáng xe dài và chắc, phù hợp khách muốn cảm giác đầm tay lái. Giá tham khảo khoảng 200.000đ mỗi ngày, 1.000.000đ mỗi tuần, 1.500.000đ mỗi tháng.
 
-Honda Click và Yamaha Mio là hai dòng nhỏ gọn giá mềm: khoảng 150.000đ mỗi ngày, 600.000đ đến 700.000đ mỗi tuần, 1.000.000đ đến 1.200.000đ mỗi tháng, phù hợp khách thuê dài ngày cần tiết kiệm.
+Honda Click và Yamaha Mio là hai dòng nhỏ gọn giá mềm: khoảng 150.000đ mỗi ngày, 700.000đ mỗi tuần, 900.000đ đến 1.200.000đ mỗi tháng, phù hợp khách thuê dài ngày cần tiết kiệm.
 
 Danh sách đầy đủ các dòng và mức giá theo ngày, tuần, tháng được cập nhật tại trang [bảng giá thuê xe ga]( {{ '/bang-gia-xe-ga/' | relative_url }} ). Giá có thể thay đổi theo thời điểm và điều kiện cho thuê dài hạn, nên xác nhận trực tiếp qua Zalo hoặc điện thoại 0942 467 674 trước khi đến nhận xe.
 
@@ -69,7 +69,7 @@ Khi gửi xe ga ở bãi, hãy để cốp khóa yên luôn, tránh treo túi nh
 
 ## Chi phí theo tuần và tháng
 
-Nếu bạn ở Hà Nội trên một tuần và di chuyển hằng ngày, thuê theo tuần hoặc tháng giảm chi phí rõ rệt so với cộng dồn giá ngày. Ví dụ với Click hoặc Mio, bảy ngày giá ngày tương đương hơn một triệu đồng, trong khi gói tuần chỉ khoảng 600.000đ đến 700.000đ. Với Vision, gói tháng 1.800.000đ đến 2.000.000đ so với giá ngày nhân ba mươi là khoảng cách lớn. Khi cân nhắc thuê dài, hãy hỏi thêm về điều kiện đặt cọc, thường tham khảo từ 2.000.000đ đến 5.000.000đ tùy dòng xe, và quy trình hoàn cọc khi trả xe.
+Nếu bạn ở Hà Nội trên một tuần và di chuyển hằng ngày, thuê theo tuần hoặc tháng giảm chi phí rõ rệt so với cộng dồn giá ngày. Ví dụ với Click hoặc Mio, bảy ngày giá ngày tương đương hơn một triệu đồng, trong khi gói tuần chỉ khoảng 700.000đ. Với Vision, gói tháng 1.800.000đ đến 2.000.000đ so với giá ngày nhân ba mươi là khoảng cách lớn. Khi cân nhắc thuê dài, hãy hỏi thêm về điều kiện đặt cọc, thường tham khảo từ 2.000.000đ đến 5.000.000đ tùy dòng xe, và quy trình hoàn cọc khi trả xe.
 
 Thuê dài ngày cũng nên hỏi rõ về việc bảo dưỡng giữa kỳ: nếu thuê một tháng mà xe đến kỳ thay nhớt, bên nào chịu chi phí và xe được thay ở đâu. Câu hỏi này thuộc nhóm nên hỏi trước khi đặt cọc, cùng giá, mức xăng nhận và trả, để khỏi phát sinh hiểu lầm.
 

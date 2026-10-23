@@ -32,7 +32,7 @@ Hiểu lầm thứ sáu: cửa hàng cho thuê sẽ lo hết nếu có sự cố
 
 ## Hiểu lầm về giá và chi phí
 
-Hiểu lầm thứ bảy: giá thuê ngày giống nhau ở mọi nơi và mọi mùa. Giá khác nhau theo dòng xe, theo gói ngày tuần tháng, và theo tình trạng xe cụ thể. Ví dụ theo bảng giá tham khảo: Honda Wave 150.000đ một ngày; Vision 200.000đ một ngày với các gói tuần 800.000đ đến 1.000.000đ và gói tháng 1.800.000đ đến 2.000.000đ; Air Blade 200.000đ một ngày, 800.000đ một tuần, 1.400.000đ một tháng; Click và Mio 150.000đ một ngày với gói tuần 600.000đ đến 700.000đ và gói tháng 1.000.000đ đến 1.200.000đ. Đây là giá ước tính theo bảng gi
+Hiểu lầm thứ bảy: giá thuê ngày giống nhau ở mọi nơi và mọi mùa. Giá khác nhau theo dòng xe, theo gói ngày tuần tháng, và theo tình trạng xe cụ thể. Ví dụ theo bảng giá tham khảo: Honda Wave 150.000đ một ngày; Vision 200.000đ một ngày với các gói tuần 1.000.000đ và gói tháng 1.800.000đ đến 2.000.000đ; Air Blade 200.000đ một ngày, 1.000.000đ một tuần, 1.500.000đ một tháng; Click và Mio 150.000đ một ngày với gói tuần 700.000đ và gói tháng 900.000đ đến 1.200.000đ. Đây là giá ước tính theo bảng gi
 á tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
 Hiểu lầm thứ tám: trả xe sớm thì được hoàn phần tiền ngày chưa dùng. Phần lớn hợp đồng thuê theo ngày không hoàn tiền cho thời gian không sử dụng, giống cách khách sạn không hoàn tiền nếu bạn trả phòng sớm. Vì vậy, nếu lịch trình còn chưa chắc, thuê ngắn rồi gia hạn thường hợp lý hơn thuê dài rồi bỏ dở. Bài về trả xe sớm và câu hỏi hoàn tiền trình bày kỹ hướng xử lý tình huống này.

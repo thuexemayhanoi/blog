@@ -23,7 +23,7 @@ Một yếu tố ít người để ý là vị trí cửa hàng. Cửa hàng tr
 
 ## Mức giá tham khảo hiện hành
 
-Theo bảng giá tham khảo của Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Long Biên, dòng xe số như Honda Wave có mức tham khảo 150.000đ mỗi ngày. Nhóm xe tay ga phổ thông như Honda Vision có mức tham khảo 200.000đ mỗi ngày, 800.000đ đến 1.000.000đ mỗi tuần và 1.800.000đ đến 2.000.000đ mỗi tháng. Honda Air Blade tham khảo 200.000đ mỗi ngày, 800.000đ mỗi tuần và 1.400.000đ mỗi tháng. Honda Click hoặc Yamaha Mio tham khảo 150.000đ mỗi ngày, 600.000đ đến 700.000đ mỗi tuần và 1.000.000đ đến 1.200.000đ mỗi tháng.
+Theo bảng giá tham khảo của Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Long Biên, dòng xe số như Honda Wave có mức tham khảo 150.000đ mỗi ngày. Nhóm xe tay ga phổ thông như Honda Vision có mức tham khảo 200.000đ mỗi ngày, 1.000.000đ mỗi tuần và 1.800.000đ đến 2.000.000đ mỗi tháng. Honda Air Blade tham khảo 200.000đ mỗi ngày, 1.000.000đ mỗi tuần và 1.500.000đ mỗi tháng. Honda Click hoặc Yamaha Mio tham khảo 150.000đ mỗi ngày, 700.000đ mỗi tuần và 900.000đ đến 1.200.000đ mỗi tháng.
 
 Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe. Với xe 50cc, xe máy điện và xe đạp điện, mức giá cụ thể cần hỏi trực tiếp theo từng dòng xe.
 

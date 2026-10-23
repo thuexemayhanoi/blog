@@ -30,8 +30,7 @@ Người ngồi sau cầm máy chụp khi xe đang chạy là tình huống ph�
 
 Nhóm nhiều xe dừng chụp cần một người điều phối, thường là người dẫn đường, quyết định điểm dừng thay vì từng xe tự phanh theo cảm hứng riêng, vì đoàn xe phanh rải rác trên đoạn đẹp là mối nguy hiểm thật. Khi dừng, tất cả xe dựng cùng một bên, gọn về phía trong lề, người đứng chụp không xuống đứng giữa đường để lấy góc rộng. Với các cung đường đông khách du lịch, các điểm dừng đẹp thường đã được xoay quanh bởi các nhóm khác: chấp nhận xếp hàng chờ thay vì dựng xe chồng lên xe người ta, và giữ khoảng im lặng tương đối nếu gần khu dân cư. Trước khi rời điểm chụp, đếm đủ người, đếm đủ xe, và một vòng kiểm tra đồ đạc, vì điện thoại để trên yên khi lên đồ là hiện vật thường gặp nhất tại các điểm dừng đẹp.
 
-#
-# Chụp ở cầu, đường ven sông và đường đê
+## Chụp ở cầu, đường ven sông và đường đê
 
 Ba loại địa hình đẹp nhất quanh Hà Nội cũng là ba loại cần cẩn trọng nhất khi dừng. Cầu: hầu hết cầu cấm dừng, lề hẹp, và gió cầu mạnh khiến người cầm máy khó đứng vững; nếu muốn chụp cầu, chọn điểm đầu cầu phía bến hoặc lối xuống, không dừng giữa nhịp. Đường ven sông: lề thường là đất đóng bên rìa, phần sát mép dễ sụt, nên dựng xe lùi vào sâu một mét và chụp từ vị trí đứng ổn định. Đường đê: dừng trên đỉnh đê che khuất tầm nhìn của xe sau, nên chọn các đoạn đê có lối lên xuống rộng hoặc các khúc đê cong lộ ra từ xa. Với cả ba loại, kiểm tra lại tín hiệu giao thông và người đi bộ quanh khu chụp, vì khu vực đẹp thường cũng là nơi người địa phương đi lại.
 

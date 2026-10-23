@@ -41,7 +41,7 @@ Nhóm thứ ba là người thích không gian thoáng đãng hơn là ở giữ
 
 Nếu hoạt động chủ yếu trong bán kính Long Biên, Gia Lâm và các quận lân cận, một chiếc xe số hoặc xe tay ga nhỏ gọn là đủ. Xe số bền bỉ, tiết kiệm xăng và nhẹ xe khi luồn trong các đường làng phía Gia Lâm. Xe tay ga tiện hơn nếu bạn hay chở đồ hoặc đi cùng người ngồi sau.
 
-Nếu lịch trình của bạn kéo dài hơn một tuần, hãy hỏi giá thuê theo tuần ngay từ đầu. Chẳng hạn, dòng Vision thường có giá tham khảo khoảng 200.000đ một ngày, và gói tuần dao động từ 800.000đ đến 1.000.000đ. Dòng xe số như Wave thường ở mức tham khảo khoảng 150.000đ một ngày. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
+Nếu lịch trình của bạn kéo dài hơn một tuần, hãy hỏi giá thuê theo tuần ngay từ đầu. Chẳng hạn, dòng Vision thường có giá tham khảo khoảng 200.000đ một ngày, và gói tuần khoảng 1.000.000đ. Dòng xe số như Wave thường ở mức tham khảo khoảng 150.000đ một ngày. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
 Mức đặt cọc thông thường dao động từ 2.000.000đ đến 5.000.000đ tùy dòng xe và từng trường hợp cụ thể. Khoản này được hoàn lại khi bạn trả xe đúng hẹn và xe không phát sinh hư hỏng mới. Quy tắc tính thêm khi trả quá giờ cũng nên hỏi rõ ngay từ lúc nhận xe để chủ động sắp xếp lịch trình.
 

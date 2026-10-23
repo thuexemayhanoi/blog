@@ -3,7 +3,7 @@ date: 2026-09-20 01:10:00 +0700
 layout: post
 title: "Bị dừng kiểm tra giấy tờ khi đi xe máy thuê: nên làm gì"
 author: "Nguyễn Tú"
-description: "Hướng dẫn xử lý khi bị lực lượng chức năng dừng xe kiểm tra giấy tờ khi đang đi xe máy thuê ở Hà Nội: giấy tờ cần có sẵn, cách phối hợp đúng, và những gì nên chuẩn bị từ đầu kỳ thuê để mọi lần dừng đều nhanh gọn."
+description: "Cách xử lý khi bị lực lượng chức năng dừng xe kiểm tra giấy tờ lúc đi xe máy thuê ở Hà Nội: giấy tờ cần có sẵn, cách phối hợp đúng và chuẩn bị từ đầu kỳ thuê."
 categories: [Kinh nghiệm]
 lang: vi
 tags: [bị dừng kiểm tra giấy tờ, kiểm tra xe máy, giấy tờ khi lái xe, đi xe thuê bị kiểm tra, phối hợp với lực lượng chức năng]

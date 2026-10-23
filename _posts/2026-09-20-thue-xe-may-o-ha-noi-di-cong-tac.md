@@ -17,7 +17,7 @@ Công tác ở Hà Nội vài ngày, vài tuần hoặc vài tháng, mỗi thờ
 
 Với công tác dưới ba ngày, thuê theo ngày là hợp lý. Dòng xe số như Wave thường có giá tham khảo khoảng 150.000đ một ngày, dòng tay ga như Vision khoảng 200.000đ một ngày. Với lịch trình di chuyển giữa vài điểm cố định trong ngày, bất kỳ dòng xe phổ thông nào cũng đáp ứng được, và yếu tố quan trọng hơn giá là tình trạng xe ổn định và cửa hàng gần nơi bạn ở.
 
-Với công tác từ một tuần trở lên, gói tuần gần như luôn rẻ hơn tính lẻ theo ngày. Dòng Vision thường có gói tuần từ 800.000đ đến 1.000.000đ. Với thời gian trên một tháng, gói tháng thường có đơn giá ngày thấp hơn nữa, dòng Vision thường từ 1.800.000đ đến 2.000.000đ một tháng, dòng Air Blade khoảng 1.400.000đ một tháng. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
+Với công tác từ một tuần trở lên, gói tuần gần như luôn rẻ hơn tính lẻ theo ngày. Dòng Vision thường có gói tuần 1.000.000đ. Với thời gian trên một tháng, gói tháng thường có đơn giá ngày thấp hơn nữa, dòng Vision thường từ 1.800.000đ đến 2.000.000đ một tháng, dòng Air Blade khoảng 1.500.000đ một tháng. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
 Với gói dài hạn, hãy hỏi thêm các điều kiện vận hành: lịch bảo dưỡng xe định kỳ, phương án xe dự phòng khi xe chính cần sửa, và độ linh hoạt khi bạn muốn trả xe sớm hơn dự kiến. Các điều khoản này, hơn cả con số giá ngày, quyết định trải nghiệm của bạn trong suốt thời gian công tác.
 

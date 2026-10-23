@@ -23,7 +23,7 @@ Ngưỡng cân bằng phổ biến nằm quanh mười hai đến mười tám t
 
 ## Giá thuê theo tháng tham khảo
 
-Các dòng xe phổ thông có giá thuê tháng khác nhau rõ rệt. Dòng Vision thường rơi vào khoảng 1.800.000đ đến 2.000.000đ một tháng. Dòng Air Blade thường khoảng 1.400.000đ một tháng. Dòng Click hoặc Mio thường từ 1.000.000đ đến 1.200.000đ một tháng. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
+Các dòng xe phổ thông có giá thuê tháng khác nhau rõ rệt. Dòng Vision thường rơi vào khoảng 1.800.000đ đến 2.000.000đ một tháng. Dòng Air Blade thường khoảng 1.500.000đ một tháng. Dòng Click hoặc Mio thường từ 900.000đ đến 1.200.000đ một tháng. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
 Khi so sánh các báo giá, hãy hỏi rõ giá tháng gồm những gì: có bao gồm bảo dưỡng định kỳ không, có giới hạn số cây số chạy không, và cách tính khi cần đổi xe giữa chừng. Hai cửa hàng báo cùng một con số có thể mang lại trải nghiệm rất khác nhau tùy các điều khoản kèm theo. Mức đặt cọc thông thường dao động từ 2.000.000đ đến 5.000.000đ tùy dòng xe và từng trường hợp cụ thể, khoản này được hoàn lại khi bạn trả xe nguyên trạng.
 
