@@ -15,7 +15,7 @@ Nhiều người đến Hà Nội làm việc hoặc học tập lên kế hoạ
 
 ## Thực trạng: nhiều người đã biết đi xe nhưng thi sa hình vẫn trượt
 
-Đi xe máy thành thạo trong giao thông và vượt qua bài thi sa hình là hai kỹ năng có phần khác nhau. Theo quy định hiện hành về sát hạch giấy phép lái xe mô tô hạng A1 của Bộ Công an (Thông tư 12/2025/TT-BCA), phần thực hành trong hình gồm bốn bài: đi theo hình số tám, qua vạch đường thẳng, qua đường có vạch cản, và qua đường gồ ghề. Sa hình đòi hỏi các thao tác chậm, chính xác đến từng mét, điều rất khác với phản xạ đi đường hằng ngày. Vì vậy luyện tập đúng bài có giá trị thật, nhưng phải luyện ở nơi hợp pháp, phù hợp với tư cách chưa có bằng của người học.
+Đi xe máy thành thạo trong giao thông và vượt qua bài thi sa hình là hai kỹ năng có phần khác nhau. Theo quy định về sát hạch giấy phép lái xe mô tô hạng A1 của Bộ Công an (từ ngày 01/7/2026 là Thông tư 108/2026/TT-BCA, thay thế Thông tư 12/2025/TT-BCA), phần thực hành trong hình gồm bốn bài: đi theo hình số tám, qua vạch đường thẳng, qua đường có vạch cản, và qua đường gồ ghề. Sa hình đòi hỏi các thao tác chậm, chính xác đến từng mét, điều rất khác với phản xạ đi đường hằng ngày. Vì vậy luyện tập đúng bài có giá trị thật, nhưng phải luyện ở nơi hợp pháp, phù hợp với tư cách chưa có bằng của người học.
 
 ## Chọn xe thuê phù hợp cho việc luyện tập
 
