@@ -59,9 +59,25 @@ Thêm `scripts/seo/enrich-inventory.py`, tài liệu và báo cáo; nội dung `
 | `/` | dòng tiêu đề = `Thuê xe máy 50cc–125cc tại Hà Nội \| Nguyễn Tú` (khớp bản đã duyệt); H1 `Dịch vụ cho thuê xe máy 50cc–125cc tại Hà Nội` xuất hiện đúng 1 lần; mô tả hero có mặt; NAP, giờ hoạt động và dữ liệu giá giữ nguyên; liên kết nổi bật mới "Xe 50cc", "Honda Vision" có mặt |
 | `/thue-xe/thue-thang/` | phần giới thiệu hub mới; khối "Bài nên đọc trước" với 5 liên kết; BreadcrumbList JSON-LD; phân trang 1–7 + "Trang sau"; footer/menu có "Xe 50cc", "Honda Vision" |
 
-Không xác minh live được (UNKNOWN / NOT VERIFIED): meta description của trang chủ (công cụ chỉ trả văn bản trang, không trả thẻ meta; đã kiểm bằng so sánh byte
-với bản build trước đợt này và bản build cuối); phân trang sâu `/kinh-nghiem/trang/100/` trên live (đã kiểm trên bản build: 383 → 45 liên kết);
-Search Console của blog (chưa kết nối).
+### Bổ sung 2026-10-23: đọc được thẻ `<head>` live (FACT)
+
+Nimble Extract với `output_format: simplified_html` và `driver: vx6` trả nguyên HTML kể cả `<head>` (các lần trước dùng định dạng mặc định nên chỉ nhận văn bản trang).
+Kiểm lại trên domain live sau deploy `316f01e0` (HEAD `main` lúc đó = `2edcfd64`, chưa có commit publisher nào xen vào):
+
+| URL | Kết quả |
+|---|---|
+| `/` | `<title>`, `<meta name="description">`, `og:title`, `og:description`, canonical, H1 và mô tả hero **khớp từng ký tự** với `scripts/seo/frozen-homepage.json` (bản duyệt `4f61156e`); NAP, giờ mở cửa, liên kết "Xe 50cc", "Honda Vision" có mặt |
+| `/kinh-nghiem/trang/100/` | thanh phân trang 45 liên kết (bản cũ phát 382), `rel="prev"` và `rel="next"`, canonical đúng URL, 1 H1, 1 `<link rel="icon">`, breadcrumb, không có `&` trần ở title/meta |
+| `/an-toan-phap-ly/2026/09/28/bao-hiem-tu-nguyen-cho-xe-may-co-ang-khong/` | 1 canonical đúng URL, 1 H1, breadcrumb, khối bài trước/sau, JSON-LD BlogPosting + BreadcrumbList, 1 favicon |
+| `/robots.txt` | `User-agent: *`, `Allow: /`, `Sitemap: https://blog.thuexemaynguyentu.com/sitemap.xml` |
+| `/sitemap.xml` | 6.842 URL, trùng hoàn toàn (không thừa, không thiếu) với sitemap của bản build cuối; không có `/404.html` hay `/tim-kiem/` |
+
+Ghi chú: một phép dò `&` trần trên toàn bộ `<head>` báo 2 vị trí; cả hai là toán tử `&&` trong script chuyển giao diện sáng/tối (không phải thuộc tính HTML), nên không lỗi.
+Phạm vi kiểm tra của `check-regressions.py` (title và thuộc tính `content`) cho 0 vi phạm trên cả ba trang live.
+
+Chưa xác minh được (UNKNOWN): thứ hạng, lập chỉ mục và số liệu Search Console của `blog.thuexemaynguyentu.com`. Đã kiểm tra các nguồn đang kết nối vào ngày này:
+Windsor `searchconsole` chỉ có hai property là `https://thuexemaynguyentu.com/` và `https://chatbot.thuexemaynguyentu.com/` (không có blog; property tiền tố URL của website chính không bao gồm tên miền con);
+OpenSEO không có tài khoản Google nào được kết nối. Cần chủ website thêm property của blog vào một trong hai nguồn này mới có số liệu thật.
 
 ## Rollback
 
