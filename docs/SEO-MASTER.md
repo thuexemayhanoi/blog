@@ -36,6 +36,8 @@ sự thật vận hành: số bài, trạng thái, QA vẫn đọc từ `data/co
 | `slug-d-migration-map.csv`, `slug-d-audit.md`, `slug-d-audit.json` | URL thiếu chữ đ: bản đồ OLD → NEW, va chạm, liên kết tới URL cũ, trạng thái BLOCKED (chưa đổi URL nào) | `scripts/seo/slug-d-audit.py` |
 | `cannibalization-classification.csv` | 49 nhóm trùng khóa matrix: nhãn `SAME_INTENT_MONITOR` / `DISTINCT_ANGLE_KEEP` (INFERRED, đọc tiêu đề), URL chủ lực đề xuất, việc đã làm và việc để sau | tay (nhãn) + dữ liệu `cannibalization-risk.csv` |
 | `content-fix-blocked.csv` | bài cần sửa nội dung nhưng chưa sửa được qua đường chính thức: lý do, quyết định của kế hoạch reattest, biện pháp tạm (lớp đính chính), điều kiện mở khóa | tay, đối chiếu kế hoạch `reattest-legacy-qa.py plan` |
+| `legal-verification.json`, `legal-verification.csv` | 44 văn bản pháp luật được bài trích dẫn, đối chiếu với nguồn chính thức ngày 23/10/2026: hiệu lực, văn bản thay thế/sửa đổi, nguồn + câu trích ngắn, các khẳng định trong bài còn sai (`claim_issues`) | tay, đối chiếu cổng chinhphu.vn / vanban.chinhphu.vn / congbao.chinhphu.vn |
+| `price-consistency.csv` | từng cụm giá tuần/tháng còn lệch `_data/pricing.yml` sau đợt 2, kèm `disposition` (`NOTICE_LAYER` / `REVIEWED_FALSE_POSITIVE`) | `scripts/seo/check-price-consistency.py` |
 | `build-performance.md` | đo thời gian build Jekyll trước/sau và nguyên nhân | tay (có số đo) |
 | `fix-log.csv`, `qa-results.md`, `deployment-verification.md` | nhật ký sửa, kết quả kiểm thử, xác minh deploy | tay, đối chiếu commit |
 | `checkpoint.json` | trạng thái DONE / IN_PROGRESS / BLOCKED và điểm tiếp tục | tay |
