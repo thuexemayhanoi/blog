@@ -120,7 +120,7 @@ Ba đường, theo thứ tự ưu tiên; không đường nào sửa tay `_posts
 1. **Bài legacy** (không có `data/qa/<ID>.json`: EXISTING/REVIEW): sửa trực tiếp trong PR (đã làm cho giá tuần/tháng, 4 meta quá dài, tham chiếu Thông tư 108/2026,
    văn bản hoàn cọc của chủ, phân biệt intent 5 cặp REVIEW).
 2. **Bài factory có evidence nguyên vẹn**: `scripts/factory/revise-published.py` (`docs/REVISE-PUBLISHED.md`) — sửa nhẹ + chấm lại độc lập + evidence mới có provenance + sao lưu byte-exact; mỗi lô ≤ 50 bài là một PR riêng, Quality gate verify lại sao lưu.
-   Đến hết đợt 3 (23/10/2026) đã áp dụng 9 lô cho 230 bài: 4 lô pháp lý (legal-01: 3 bài, legal-02: 10 bài, legal-03: 1 bài, legal-04: 3 bài ghi chính sách miễn/giảm lệ phí tạm thời) và 5 lô giá tuần/tháng (213 bài, 464 cặp old→new);
+   Đến hết đợt 3 (23/10/2026) đã áp dụng 10 lô cho 233 bài: 4 lô pháp lý (legal-01: 3 bài, legal-02: 10 bài, legal-03: 1 bài, legal-04: 3 bài ghi chính sách miễn/giảm lệ phí tạm thời), 5 lô giá tuần/tháng (213 bài, 464 cặp old→new) và 1 lô hoàn cọc (deposit-02: 3 bài);
    số liệu từng PR ở `reports/factory/seo-master/deployment-verification.md`. Nếu `plan` từ chối (vượt 20% thay đổi, tụt tiêu chí chấm như `word_count`), thu hẹp bản vá chứ không nới ngưỡng.
 3. **Bài factory có evidence đã lệch hash do đổi domain**: chưa sửa được. Cần `reattest-legacy-qa.py apply` có chủ duyệt (AGENTS.md: writer không tự `apply`).
    Kế hoạch `plan` cho 81 bài lệch hash (2 bài trong đó, BLG-00872 và BLG-00874, chỉ bị gắn cờ nhầm vì 600.000/800.000 đ là mức phạt nên không cần sửa) cho thấy
@@ -137,7 +137,7 @@ không theo độ dài bài; 30 nhóm `SAME_INTENT_MONITOR`, 19 nhóm `DISTINCT_
 10 hàng legacy `REVIEW` (5 cặp) đã đọc từng bài: 1 cặp cùng head intent (BLG-00227/00228: chủ lực BLG-00228, bài kia đổi góc), 4 cặp intent hoặc đối tượng khác nhau (giữ nguyên, liên kết hai chiều). 82 cặp "tiêu đề gần trùng trong cụm" phần lớn là các thực thể khác nhau (bảo tàng, điểm đến) — không phải trùng intent.
 
 Dữ liệu kinh doanh: hoàn cọc chỉ dùng văn bản chủ duyệt ("hoàn trả theo điều khoản hợp đồng sau khi bàn giao xe và hoàn thành các nghĩa vụ liên quan", cọc 2–5 triệu tùy từng loại xe); không viết "hoàn trả đầy đủ",
-không gắn mức cọc với thời gian thuê. Phí trễ 20.000đ/giờ (9 trang tĩnh + 14 bài legacy) không có trong `business-facts.json` và mâu thuẫn với FAQ website chính: chờ chủ xác nhận (`BLOCKED_OWNER_INPUT`), không tự đổi.
+không gắn mức cọc với thời gian thuê, không cam kết hoàn "đủ/ngay tại chỗ" (`data/business-facts.json` cấm "cam kết hoàn tiền"); đợt 3 đồng bộ thêm 12 tệp (trang giá xe số, 8 bài legacy, 3 bài factory) và ghi 3 bài lệch hash còn khẳng định mạnh (BLG-00529, BLG-00533, BLG-01539) vào `content-fix-blocked.csv` chờ chủ duyệt reattest. Phí trễ 20.000đ/giờ (9 trang tĩnh + 14 bài legacy) không có trong `business-facts.json` và mâu thuẫn với FAQ website chính: chờ chủ xác nhận (`BLOCKED_OWNER_INPUT`), không tự đổi.
 
 Chính sách miễn/giảm lệ phí có thời hạn: Thông tư 117/2026/TT-BTC (thực hiện Nghị quyết 66.22/2026/NQ-CP; hiệu lực 15/8/2026 đến hết 28/02/2027) đã được ghi, đúng điều kiện văn bản nêu,
 vào BLG-05609 (đổi/cấp lại giấy phép lái xe), BLG-05175 (đăng ký, biển số) và BLG-05973 (lệ phí trước bạ). **Từ 01/3/2027 phải rà lại ba đoạn ghi chú** (chính sách hết hạn, trừ khi có văn bản kéo dài); sửa qua `revise-published.py`.
