@@ -1,18 +1,11 @@
 {
  "_meta": {
   "schema": "price-notices/1",
-  "posts": 71,
+  "posts": 68,
   "source": "scripts/seo/price_phrases.find_residual trên bài PUBLISHED có evidence; bảng giá lấy từ _data/pricing.yml lúc build",
   "note": "Sinh bởi scripts/seo/build-price-notices.py — KHÔNG sửa tay. Gỡ bài khỏi danh sách khi nội dung gốc đã được sửa qua revise-published.py."
  },
  "posts": {
-  "/an-toan-phap-ly/2026/09/28/phat-nguoi-loi-nao-thuong-gap-voi-xe-may/": {
-   "id": "BLG-00639",
-   "kinds": [
-    "ALT_STALE",
-    "UNBOUND_STALE"
-   ]
-  },
   "/hoi-dap/2026-09-29-thue-xe-may-o-ha-noi-gia-bao-nhieu-mot-ngay/": {
    "id": "BLG-00858",
    "kinds": [
@@ -28,22 +21,10 @@
     "WAVE_ABSENT"
    ]
   },
-  "/hoi-dap/2026/09/29/cho-2-nguoi-tren-xe-may-co-bi-phat-khong/": {
-   "id": "BLG-00872",
-   "kinds": [
-    "UNBOUND_STALE"
-   ]
-  },
   "/hoi-dap/2026/09/29/hai-nguoi-i-du-lich-nen-thue-xe-nao/": {
    "id": "BLG-00880",
    "kinds": [
     "MISMATCH"
-   ]
-  },
-  "/hoi-dap/2026/09/29/i-xe-khong-mu-bao-hiem-phat-bao-nhieu/": {
-   "id": "BLG-00874",
-   "kinds": [
-    "UNBOUND_STALE"
    ]
   },
   "/hoi-dap/2026/09/29/nam-2026-nen-thue-xe-so-hay-xe-ga/": {
