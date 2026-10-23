@@ -87,6 +87,9 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
     {%- comment -%} FAQ dùng chung (_data/faq/<slug>.json); không có dữ liệu => không in gì. {%- endcomment -%}
     {% include faq.html key=page.slug %}
 
+    {%- comment -%} Bài cùng từ khóa chính ở cụm khác (cannibalization): liên kết hai chiều từ _data/seo-topic-links.json; không có dữ liệu => không in gì. {%- endcomment -%}
+    {% include topic-siblings.html %}
+
     <div class="post-navigation">
       {%- comment -%}
         Bài trước/sau theo thời gian: dùng page.previous (cũ hơn) / page.next (mới hơn) do Jekyll cấp sẵn.
