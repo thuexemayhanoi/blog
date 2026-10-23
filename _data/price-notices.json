@@ -1,7 +1,7 @@
 {
  "_meta": {
   "schema": "price-notices/1",
-  "posts": 89,
+  "posts": 71,
   "source": "scripts/seo/price_phrases.find_residual trên bài PUBLISHED có evidence; bảng giá lấy từ _data/pricing.yml lúc build",
   "note": "Sinh bởi scripts/seo/build-price-notices.py — KHÔNG sửa tay. Gỡ bài khỏi danh sách khi nội dung gốc đã được sửa qua revise-published.py."
  },
@@ -85,30 +85,6 @@
    "kinds": [
     "REVIEW",
     "UNBOUND_STALE"
-   ]
-  },
-  "/hoi-dap/2026/10/11/ban-den-sau-muon-thue-them-mot-xe-khi-minh-dang-thue-lam-the-nao/": {
-   "id": "BLG-02851",
-   "kinds": [
-    "ALT_STALE"
-   ]
-  },
-  "/hoi-dap/2026/10/11/chia-nhau-thue-mot-xe-may-voi-ban-moi-quen-o-hostel-ai-dung-ten/": {
-   "id": "BLG-02852",
-   "kinds": [
-    "ALT_STALE"
-   ]
-  },
-  "/hoi-dap/2026/10/11/chua-biet-ngay-tra-xe-dat-thue-xe-may-o-ha-noi-the-nao-cho-linh-hoat/": {
-   "id": "BLG-02849",
-   "kinds": [
-    "ALT_STALE"
-   ]
-  },
-  "/hoi-dap/2026/10/11/cung-150000-mot-ngay-nen-thue-wave-click-hay-mio/": {
-   "id": "BLG-02370",
-   "kinds": [
-    "ALT_STALE"
    ]
   },
   "/hoi-dap/2026/10/14/bang-gia-ghi-khoang-nhu-800k1tr-mot-tuan-hieu-the-nao-va-hoi-gi/": {
@@ -302,60 +278,11 @@
     "UNBOUND_STALE"
    ]
   },
-  "/thue-xe/2026/10/11/chia-tien-thue-xe-may-ca-tuan-cho-nhom-ban-ai-tra-gi-ghi-so-the-nao/": {
-   "id": "BLG-02225",
-   "kinds": [
-    "ALT_STALE"
-   ]
-  },
-  "/thue-xe/2026/10/11/i-tinh-khac-hai-ngay-bang-tau-hoac-xe-khach-giua-tuan-thue-xe-may-e-o-au/": {
-   "id": "BLG-02226",
-   "kinds": [
-    "ALT_STALE"
-   ]
-  },
-  "/thue-xe/2026/10/11/i-vang-vai-ngay-giua-ky-thue-giu-xe-hay-tra-roi-thue-lai/": {
-   "id": "BLG-02389",
-   "kinds": [
-    "UNBOUND_STALE"
-   ]
-  },
-  "/thue-xe/2026/10/11/lam-viec-tu-xa-mot-tuan-o-ha-noi-thue-xe-may-i-quan-ca-phe-va-noi-lam-viec/": {
-   "id": "BLG-02223",
-   "kinds": [
-    "ALT_STALE"
-   ]
-  },
-  "/thue-xe/2026/10/11/moi-thang-chi-can-xe-vai-ngay-thue-ngay-le-hay-thue-tron-thang/": {
-   "id": "BLG-02412",
-   "kinds": [
-    "ALT_STALE",
-    "WAVE_ABSENT"
-   ]
-  },
-  "/thue-xe/2026/10/11/mot-tuan-thue-xe-co-hai-chuyen-qua-em-chia-lich-giua-ha-noi-va-ngoai-tinh/": {
-   "id": "BLG-02414",
-   "kinds": [
-    "ALT_STALE"
-   ]
-  },
   "/thue-xe/2026/10/11/ngan-sach-mot-tuan-600000-800000-hay-1-trieu-thue-uoc-dong-xe-nao/": {
    "id": "BLG-02227",
    "kinds": [
     "ALT_STALE",
     "UNBOUND_STALE",
-    "WAVE_ABSENT"
-   ]
-  },
-  "/thue-xe/2026/10/11/thue-thu-vision-hoac-air-blade-vai-ngay-truoc-khi-quyet-inh-mua-xe/": {
-   "id": "BLG-02407",
-   "kinds": [
-    "ALT_STALE"
-   ]
-  },
-  "/thue-xe/2026/10/14/xe-nha-dang-sua-thue-xe-may-tam-vai-ngay-chon-mau-nao-cho-quen-tay/": {
-   "id": "BLG-02899",
-   "kinds": [
     "WAVE_ABSENT"
    ]
   },
@@ -515,41 +442,11 @@
     "MISMATCH"
    ]
   },
-  "/xe-may/2026/10/11/air-blade-hay-honda-click-khi-thue-50000-moi-ngay-mua-them-uoc-gi/": {
-   "id": "BLG-02548",
-   "kinds": [
-    "ALT_STALE"
-   ]
-  },
-  "/xe-may/2026/10/11/nhuoc-iem-cua-honda-air-blade-khi-thue-nen-biet-truoc-khi-chon-xe/": {
-   "id": "BLG-02546",
-   "kinds": [
-    "ALT_STALE"
-   ]
-  },
   "/xe-may/2026/10/11/thue-air-blade-ngay-200000-tuan-800000-hay-thang-1400000-chon-goi-nao/": {
    "id": "BLG-02547",
    "kinds": [
     "ALT_STALE",
     "MISMATCH"
-   ]
-  },
-  "/xe-may/2026/10/11/xe-ga-hay-xe-so-ton-xang-hon-khi-i-pho/": {
-   "id": "BLG-02123",
-   "kinds": [
-    "ALT_STALE"
-   ]
-  },
-  "/xe-may/2026/10/11/xe-so-hay-xe-ga-cho-uong-ong-pho/": {
-   "id": "BLG-02118",
-   "kinds": [
-    "ALT_STALE"
-   ]
-  },
-  "/xe-may/2026/10/14/sinh-vien-thue-honda-wave-theo-thang-o-cau-giay-bach-khoa-di-hoc-gui-xe-va-giu-x/": {
-   "id": "BLG-03249",
-   "kinds": [
-    "WAVE_ABSENT"
    ]
   },
   "/xe-may/2026/10/15/mot-tuan-du-lich-ha-noi-lay-goi-tuan-honda-click-600000700000d-hay-honda-vision/": {
@@ -571,12 +468,6 @@
    "kinds": [
     "MISMATCH",
     "REVIEW"
-   ]
-  },
-  "/xe-may/2026/10/15/yamaha-sirius-di-mai-chau-theo-quoc-lo-6-leo-doc-cun-xuong-deo-thung-khe-va-chia/": {
-   "id": "BLG-05106",
-   "kinds": [
-    "WAVE_ABSENT"
    ]
   }
  }

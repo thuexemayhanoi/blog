@@ -26,8 +26,9 @@ import price_phrases as pp  # noqa: E402
 
 OUT = ROOT / "_data" / "price-notices.json"
 SCHEMA = "price-notices/1"
-# Dương tính giả đã đọc: số 0,8–0,9 là hệ số bám của lốp (BLG-04794); "400–600 nghìn" là mức phạt không đội mũ bảo hiểm (BLG-00634).
-EXCLUDE = {"BLG-04794", "BLG-00634"}
+# Dương tính giả đã đọc: số 0,8–0,9 là hệ số bám của lốp (BLG-04794); "400–600 nghìn" là mức phạt không đội mũ bảo hiểm (BLG-00634);
+# "7 ngày = 1.400.000đ" của BLG-02389 là phép nhân giá ngày (đúng), không phải giá tuần cũ.
+EXCLUDE = {"BLG-04794", "BLG-00634", "BLG-02389"}
 
 
 def post_url(row: dict, text: str) -> str:
