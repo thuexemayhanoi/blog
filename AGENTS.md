@@ -164,10 +164,13 @@ Sửa NỘI DUNG bài PUBLISHED (giá/câu lỗi thời — không phải lệch
 nào tụt; `--approval-ref` bắt buộc; lô ≤ 50; backup `reports/qa-audit/revise/<batch>.json` (Quality gate verify lại backup trong PR).
 Bài PUBLISHED có evidence đã lệch hash đi qua `reattest-legacy-qa.py` trước. Không sửa tay `_posts/` của bài PUBLISHED. Bài legacy
 (không có evidence) sửa trực tiếp được.
+Bài PUBLISHED còn lỗi thời mà CHƯA sửa được gốc (evidence lệch hash, tiêu đề/luận điểm gắn với số cũ) có LỚP ĐÍNH CHÍNH hiển thị, không đổi byte bài:
+`_data/legal-notices.json` (pháp lý, nguồn văn bản chính thức; `docs/LEGAL-NOTICES.md`) và `_data/price-notices.json` (bảng giá hiện hành lấy từ
+`_data/pricing.yml`; `docs/PRICE-NOTICES.md`). Khi bài đã được sửa gốc thì gỡ mục tương ứng.
 
 FAST (mặc định mỗi chunk): validate `--scope chunk` + suite gate/operator/
 refill-safety/workflow-syntax. DEEP (~mỗi 50 bài): + link integrity, qa
 modes, publish flow, refill semantics (scope batch). FULL (weekly / trước
-đổi engine): validate full + 33 suite CI (`scripts/factory/run-tests.py --suites ci`,
+đổi engine): validate full + các suite CI (danh sách ở `scripts/factory/run-tests.py --suites ci`,
 job `engine-tests` của quality-gate ở FULL mode) + soak (scope full). Ngưỡng KHÔNG đổi
 giữa các mức.

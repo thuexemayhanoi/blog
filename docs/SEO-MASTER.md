@@ -34,6 +34,10 @@ sự thật vận hành: số bài, trạng thái, QA vẫn đọc từ `data/co
 | `internal-link-candidates.csv` | tối đa 25 bài/nhóm khớp từ khóa nhưng chưa liên kết về URL chủ lực (danh sách bảo trì nhỏ, trạng thái OPEN) | cùng script |
 | `cannibalization-plan.md` | kế hoạch đọc được cho chủ: nhóm trùng khóa, URL chủ lực đề xuất, cặp tiêu đề gần trùng (chưa thực hiện) | cùng script |
 | `slug-d-migration-map.csv`, `slug-d-audit.md`, `slug-d-audit.json` | URL thiếu chữ đ: bản đồ OLD → NEW, va chạm, liên kết tới URL cũ, trạng thái BLOCKED (chưa đổi URL nào) | `scripts/seo/slug-d-audit.py` |
+| `cannibalization-classification.csv` | 49 nhóm trùng khóa matrix: nhãn `SAME_INTENT_MONITOR` / `DISTINCT_ANGLE_KEEP` (INFERRED, đọc tiêu đề/mô tả/hub), URL chủ lực chọn theo intent kèm cơ sở chọn, hub từng bài, độ giống văn bản, việc đã làm và việc để sau | `scripts/seo/build-cannibalization-classification.py` đọc sổ `scripts/seo/cannibalization-leads.json` (tay, có lý do) + matrix |
+| `content-fix-blocked.csv` | bài cần sửa nội dung nhưng chưa sửa được qua đường chính thức: lý do, quyết định của kế hoạch reattest, biện pháp tạm (lớp đính chính), điều kiện mở khóa | tay, đối chiếu kế hoạch `reattest-legacy-qa.py plan` |
+| `legal-verification.json`, `legal-verification.csv` | 120 văn bản pháp luật được bài trích dẫn, đối chiếu với nguồn chính thức ngày 23/10/2026: hiệu lực, văn bản thay thế/sửa đổi, nguồn + câu trích ngắn, các khẳng định trong bài còn sai (`claim_issues`) và cách xử lý từng bài (`disposition`: sửa gốc / khối đính chính / chờ chủ duyệt) | tay, đối chiếu cổng chinhphu.vn / vanban.chinhphu.vn / congbao.chinhphu.vn / bocongan.gov.vn |
+| `price-consistency.csv` | từng cụm giá tuần/tháng còn lệch `_data/pricing.yml` sau đợt 2, kèm `disposition` (`NOTICE_LAYER` / `REVIEWED_FALSE_POSITIVE`) | `scripts/seo/check-price-consistency.py` |
 | `build-performance.md` | đo thời gian build Jekyll trước/sau và nguyên nhân | tay (có số đo) |
 | `fix-log.csv`, `qa-results.md`, `deployment-verification.md` | nhật ký sửa, kết quả kiểm thử, xác minh deploy | tay, đối chiếu commit |
 | `checkpoint.json` | trạng thái DONE / IN_PROGRESS / BLOCKED và điểm tiếp tục | tay |
@@ -52,6 +56,9 @@ Cấu hình duy nhất cho ma trận: `scripts/seo/seo-matrix-config.yml` (URL c
 | `build-leads.py` | chọn bài chủ lực cho từng hub con → `_data/seo-leads.yml` (sinh tự động, không sửa tay) |
 | `validate-hub-intros.py` | kiểm phần giới thiệu pillar/hub (không chữ số, không từ cấm, liên kết hợp lệ, không trùng) và ghi vào `.md` khi PASS |
 | `seo-matrix-config.yml` | cấu hình duy nhất: URL chủ lực, regex nhóm từ khóa/chủ đề |
+| `build-topic-links.py` | sinh `_data/seo-topic-links.json`: liên kết "Cùng chủ đề" hai chiều giữa các bài cùng `cannibalization_key` (khóa = URL thật; `--check` đối chiếu nguồn); `_includes/topic-siblings.html` đọc tệp này |
+| `price_phrases.py`, `build-price-patches.py`, `check-price-consistency.py` | quét cụm giá tuần/tháng gắn một xe + một kỳ hạn, sinh danh sách sửa cho `revise-published.py`, báo cáo lệch so với `_data/pricing.yml` (đọc-only; câu có phép tính/so sánh không tự sửa) |
+| `build-price-notices.py` | sinh `_data/price-notices.json`: bài PUBLISHED còn nêu giá tuần/tháng cũ mà chưa sửa được gốc (hiển thị bảng giá hiện hành, xem `docs/PRICE-NOTICES.md`) |
 | `check-regressions.py` | kiểm tra hồi quy SEO trên `_site` đã build (9 bất biến: trang chủ đóng băng, canonical/H1, favicon, phân trang, hub không rỗng, khối bài chủ lực, breadcrumb, sitemap) |
 | `frozen-homepage.json` | chuỗi H1/title/meta/hero/canonical trang chủ đã duyệt ở `4f61156e`; chỉ đổi khi chủ duyệt phiên bản mới |
 
@@ -105,3 +112,35 @@ python3 scripts/seo/enrich-inventory.py
   template, nên mọi thay đổi engine có nguy cơ bị hủy. Xem `reports/factory/seo-master/build-performance.md`.
 - Mỗi push của publisher kích hoạt một build Pages; các build bị hủy khi có push mới hơn. Giảm thời gian build
   là điều kiện để các lần deploy hoàn tất thay vì bị hủy hàng loạt.
+
+## Sửa nội dung bài PUBLISHED, lớp đính chính và việc còn chặn (2026-10-23)
+
+Ba đường, theo thứ tự ưu tiên; không đường nào sửa tay `_posts/`, `data/qa/` hay matrix:
+
+1. **Bài legacy** (không có `data/qa/<ID>.json`: EXISTING/REVIEW): sửa trực tiếp trong PR (đã làm cho giá tuần/tháng, 4 meta quá dài, tham chiếu Thông tư 108/2026,
+   văn bản hoàn cọc của chủ, phân biệt intent 5 cặp REVIEW).
+2. **Bài factory có evidence nguyên vẹn**: `scripts/factory/revise-published.py` (`docs/REVISE-PUBLISHED.md`) — sửa nhẹ + chấm lại độc lập + evidence mới có provenance + sao lưu byte-exact; mỗi lô ≤ 50 bài là một PR riêng, Quality gate verify lại sao lưu.
+   Đến hết đợt 3 (23/10/2026) đã áp dụng 10 lô cho 233 bài: 4 lô pháp lý (legal-01: 3 bài, legal-02: 10 bài, legal-03: 1 bài, legal-04: 3 bài ghi chính sách miễn/giảm lệ phí tạm thời), 5 lô giá tuần/tháng (213 bài, 464 cặp old→new) và 1 lô hoàn cọc (deposit-02: 3 bài);
+   số liệu từng PR ở `reports/factory/seo-master/deployment-verification.md`. Nếu `plan` từ chối (vượt 20% thay đổi, tụt tiêu chí chấm như `word_count`), thu hẹp bản vá chứ không nới ngưỡng.
+3. **Bài factory có evidence đã lệch hash do đổi domain**: chưa sửa được. Cần `reattest-legacy-qa.py apply` có chủ duyệt (AGENTS.md: writer không tự `apply`).
+   Kế hoạch `plan` cho 81 bài lệch hash (2 bài trong đó, BLG-00872 và BLG-00874, chỉ bị gắn cờ nhầm vì 600.000/800.000 đ là mức phạt nên không cần sửa) cho thấy
+   28 bài đủ điều kiện reattest ngay, 50 bài rớt QA hiện tại vì còn số tiền cũ nên `reattest` từ chối (`FRESH_QA_FAILED`) trong khi `revise` từ chối vì evidence
+   không nguyên vẹn, 1 bài cần xem tay — cần chủ duyệt một đường gộp (reattest + sửa trong cùng giao dịch) hoặc duyệt reattest rồi sửa. Thêm 12 bài có title/luận điểm
+   gắn giá cũ (title bất biến). Danh sách và điều kiện mở khóa: `content-fix-blocked.csv`.
+
+Trong lúc chờ, hai **lớp đính chính hiển thị** (dữ liệu tách khỏi bài, không đổi byte bài, gỡ mục khi bài đã sửa gốc):
+`_data/legal-notices.json` (pháp lý, nguồn văn bản chính thức; `docs/LEGAL-NOTICES.md`) và `_data/price-notices.json` (bảng giá hiện hành từ `_data/pricing.yml`; `docs/PRICE-NOTICES.md`).
+
+Cannibalization: 49 nhóm / 107 bài đã có liên kết ngữ cảnh hai chiều (`_data/seo-topic-links.json`) và URL chủ lực chọn theo **intent** (sổ `scripts/seo/cannibalization-leads.json`, quy tắc Q/H/C/K,
+không theo độ dài bài; 30 nhóm `SAME_INTENT_MONITOR`, 19 nhóm `DISTINCT_ANGLE_KEEP`, 16 nhóm đổi chủ lực so với "bài dài nhất"); gộp/xóa/redirect chưa làm (cần hạ tầng HTTP 301, dữ liệu Search Console và chủ duyệt;
+độ giống văn bản thân bài giữa các bài trong cùng nhóm rất thấp — Jaccard 6-gram cao nhất 0,047 trên 70 cặp — nên đây là chồng lấn chủ đề/intent chứ không phải nội dung sao chép).
+10 hàng legacy `REVIEW` (5 cặp) đã đọc từng bài: 1 cặp cùng head intent (BLG-00227/00228: chủ lực BLG-00228, bài kia đổi góc), 4 cặp intent hoặc đối tượng khác nhau (giữ nguyên, liên kết hai chiều). 82 cặp "tiêu đề gần trùng trong cụm" phần lớn là các thực thể khác nhau (bảo tàng, điểm đến) — không phải trùng intent.
+
+Dữ liệu kinh doanh: hoàn cọc chỉ dùng văn bản chủ duyệt ("hoàn trả theo điều khoản hợp đồng sau khi bàn giao xe và hoàn thành các nghĩa vụ liên quan", cọc 2–5 triệu tùy từng loại xe); không viết "hoàn trả đầy đủ",
+không gắn mức cọc với thời gian thuê, không cam kết hoàn "đủ/ngay tại chỗ" (`data/business-facts.json` cấm "cam kết hoàn tiền"); đợt 3 đồng bộ thêm 12 tệp (trang giá xe số, 8 bài legacy, 3 bài factory) và ghi 3 bài lệch hash còn khẳng định mạnh (BLG-00529, BLG-00533, BLG-01539) vào `content-fix-blocked.csv` chờ chủ duyệt reattest. Phí trễ 20.000đ/giờ (9 trang tĩnh + 14 bài legacy) không có trong `business-facts.json` và mâu thuẫn với FAQ website chính: chờ chủ xác nhận (`BLOCKED_OWNER_INPUT`), không tự đổi.
+
+Chính sách miễn/giảm lệ phí có thời hạn: Thông tư 117/2026/TT-BTC (thực hiện Nghị quyết 66.22/2026/NQ-CP; hiệu lực 15/8/2026 đến hết 28/02/2027) đã được ghi, đúng điều kiện văn bản nêu,
+vào BLG-05609 (đổi/cấp lại giấy phép lái xe), BLG-05175 (đăng ký, biển số) và BLG-05973 (lệ phí trước bạ). **Từ 01/3/2027 phải rà lại ba đoạn ghi chú** (chính sách hết hạn, trừ khi có văn bản kéo dài); sửa qua `revise-published.py`.
+
+Quyết định ghi lại: JSON-LD LocalBusiness giữ nguyên trên mọi trang (`docs/SCHEMA-GEO.md` quy định rõ; đổi phạm vi không có bằng chứng cải thiện); 689 trang danh sách giữ nguyên (không noindex/xóa hàng loạt khi chưa có dữ liệu lập chỉ mục);
+meta description 161–199 ký tự không phải lỗi (công cụ tìm kiếm có thể cắt hiển thị), chỉ 4 bài > 200 ký tự đã được rút gọn.
