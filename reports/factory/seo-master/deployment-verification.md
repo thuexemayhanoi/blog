@@ -169,3 +169,51 @@ Thứ hạng, lập chỉ mục và số liệu Search Console của `blog.thuex
 
 Mỗi PR là một squash commit độc lập: `git revert <commit merge>`. Với lô revise: `python3 scripts/factory/revise-published.py rollback --backup reports/qa-audit/revise/<batch>.json`
 (sao lưu byte-exact; không ghi đè thay đổi của người khác).
+
+
+---
+
+# Đợt 3 (2026-10-23) — pháp lý còn lại, rà intent, hoàn cọc, sổ chủ lực
+
+Nguồn thẩm quyền: MASTER WORK — CONTINUE SEO /BLOG NGUYỄN TÚ. Mọi thay đổi đi qua PR; PR chạm `_posts/`, `data/qa/` hoặc `scripts/` chạy Quality gate (content FAST hoặc FULL + engine-tests) trước khi merge squash;
+PR chỉ đổi báo cáo hoặc `.md` gốc không kích hoạt gate (bộ lọc path của workflow). Không force push; không đổi URL, canonical, matrix, checkpoint nhà máy, lease của writer khác, H1/title/meta/hero trang chủ đã duyệt.
+
+## PR đã merge (FACT, GitHub Actions)
+
+| PR | Nội dung | Commit merge | Quality gate trên PR (run; job) | Pages | Quality gate trên HEAD push vào main |
+|---|---|---|---|---|---|
+| #59 | docs(seo-master): hồ sơ đợt 2 (23/10/2026) — kiểm kê lại, fix-log, checkpoint, xác minh live | `c7a96fd5` | không có (PR chỉ đổi `.md` gốc/báo cáo) | #5517 success (11 phút 14 giây) | — (không kích hoạt: PR chỉ đổi báo cáo/`.md` gốc ngoài bộ lọc path) |
+| #60 | fix(content): đính chính pháp lý 10 bài PUBLISHED qua revise-published (lô legal-02) | `04871898` | #1314 success; gate 10 phút 38 giây; engine-tests 15 phút 34 giây (success) | #5519 cancelled (8 phút 28 giây) | #1320 success |
+| #61 | fix(content): đính chính BLG-05045 (lô legal-03) và phân biệt intent 5 cặp bài legacy REVIEW | `926b4287` | #1315 success; gate 13 phút 48 giây; engine-tests 12 phút 33 giây (success) | #5520 success (10 phút 58 giây) | #1321 success |
+| #62 | fix(content): tiền cọc hoàn trả theo điều khoản hợp đồng — đúng văn bản chủ cửa hàng đã duyệt | `2b749fcd` | #1318 success; gate 0 phút 27 giây; engine-tests 0 phút 00 giây (skipped) | #5518 cancelled (4 phút 03 giây) | #1319 success |
+| #63 | seo(cannibalization): sổ URL chủ lực rà theo intent thay cho "bài dài nhất" (49 nhóm, 107 bài) | `e5e4c542` | #1317 success; gate 13 phút 37 giây; engine-tests 19 phút 13 giây (success) | #5521 success (8 phút 58 giây) | #1322 success |
+| #64 | fix(content): ghi chính sách miễn/giảm lệ phí có thời hạn (TT 117/2026/TT-BTC) vào 3 bài lệ phí | `829c484f` | #1323 success; gate 10 phút 33 giây; engine-tests 14 phút 11 giây (success) | #5522 success (11 phút 57 giây) | #1326 success |
+| #65 | fix(content): bỏ cam kết hoàn cọc đầy đủ/ngay và mức cọc theo thời gian thuê (trang giá xe số, 7 bài legacy, 3 bài factory) | `067bbdd2` | #1325 success; gate 14 phút 15 giây; engine-tests 18 phút 57 giây (success) | #5523 success (7 phút 02 giây) | #1327 success |
+
+## Xác minh live (Nimble Extract, `simplified_html` + `vx6`)
+
+| URL | Kết quả |
+|---|---|
+| `/` | Pages #5523: H1, SEO title, meta description, mô tả hero, canonical khớp từng ký tự `frozen-homepage.json` (bản duyệt 4f61156e) |
+| `/robots.txt` | Pages #5521: `User-agent: *`, `Allow: /`, `Sitemap: https://blog.thuexemaynguyentu.com/sitemap.xml` |
+| `/sitemap.xml` | Pages #5523: 6.842 URL duy nhất, trùng hoàn toàn bản build cục bộ (0 thừa, 0 thiếu) |
+| `/hoi-dap/2026/10/10/mat-chia-khoa-xe-thue-cac-buoc-xu-ly-nhanh/` | Pages #5521 (BLG-01910): khối "Cùng chủ đề" có chủ lực theo sổ (BLG-01541 `/thue-xe/2026/10/07/mat-chia-khoa-xe-thue-nen-lam-gi/`) đứng đầu; 1 H1, 1 canonical |
+| `/kinh nghiệm/2026/09/19/doi-xe-giua-ky-thue-o-ha-noi/` | Pages #5521 (BLG-00228, chủ lực): có liên kết ngữ cảnh tới BLG-00227 (bài đổi xe giữa kỳ khi có việc đổi) |
+| `/an-toan-phap-ly/2026/10/20/doi-cap-lai-bang-lai-xe-may-mat-nhung-khoan-phi-nao-le-phi-theo-bieu-phi-hien-ha/` | Pages #5522 (BLG-05609): đoạn "Có thể được miễn lệ phí đến hết 28/02/2027" (TT 117/2026/TT-BTC, khoản 1 Điều 5 NQ 66.22/2026/NQ-CP, mốc 01/3/2027), meta description mới; 1 H1, 1 canonical |
+| `/an-toan-phap-ly/2026/10/15/le-phi-cap-dang-ky-va-bien-so-xe-may-o-ha-noi-nam-2026-muc-thu-theo-gia-tri-xe-v/` | Pages #5522 (BLG-05175): đoạn "Một chính sách tạm thời đáng kiểm tra" (đổi đăng ký/biển số, đăng ký/biển số tạm thời; không liệt kê đăng ký lần đầu), meta mới |
+| `/an-toan-phap-ly/2026/10/15/le-phi-truoc-ba-khi-mua-xe-may-o-ha-noi-cach-tinh-cho-xe-moi-xe-cu-sang-ten-va-c/` | Pages #5522 (BLG-05973): đoạn "Chính sách giảm tạm thời" (giảm 100% lệ phí trước bạ xe mô tô nộp từ lần thứ 2 trở đi), meta mới; câu "không so sánh xe mới với xe cũ" đã mất |
+| `/bang-gia-xe-so/` | Pages #5523: "Tiền đặt cọc tham khảo từ 2.000.000đ đến 5.000.000đ tùy từng loại xe"; cụm "tùy mẫu xe và thời gian thuê" đã mất |
+| `/chia sẻ/2026/09/19/cau-hoi-thuong-gap-khi-thue-xe-may-o-ha-noi/` | Pages #5523 (BLG-00081): "Tôi nhận lại cọc khi nào? … Theo điều khoản hợp đồng, sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan"; câu "nhận lại đủ tiền cọc trước khi rời đi" đã mất |
+| `/kinh nghiệm/2026/09/19/tra-xe-som-va-cau-hoi-hoan-tien/` | Pages #5523 (BLG-00443): "hãy hỏi riêng cửa hàng: cọc được hoàn trả theo điều khoản hợp đồng…"; câu "hoàn đủ … bất kể" đã mất |
+| `/kinh nghiệm/2026/09/18/quy-trinh-tra-xe-thue-dung-cach-tranh-tranh-chap/` | Pages #5523 (BLG-00035): meta "nhận lại tiền đặt cọc theo điều khoản hợp đồng"; "lấy lại đầy đủ tiền đặt cọc" đã mất |
+| `/kinh nghiệm/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/` | Pages #5523 (BLG-00002): "Nhận lại tiền đặt cọc theo điều khoản hợp đồng"; "Xác nhận trực tiếp với cửa hàng trước khi nhận xe"; hết "nếu xe không bị hư hỏng" và "Thường cao hơn so với khách Việt Nam" |
+| `/du lịch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/` | Pages #5523 (BLG-00001): "mức cụ thể xác nhận trực tiếp với cửa hàng trước khi nhận xe"; hết "thường cao hơn so với khách Việt Nam" |
+| `/thue-xe/2026/10/15/vua-dat-tien-coc-vua-de-lai-giay-to-goc-khi-thue-xe-hoi-ly-do-va-thoa-thuan-cho/` | Pages #5523 (BLG-03696, qua revise-published): "tiền cọc được hoàn trả sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan"; "nhận lại toàn bộ tiền cọc và giấy tờ" đã mất |
+
+## Chưa xác minh được (UNKNOWN)
+
+Thứ hạng, lập chỉ mục và Search Console của `blog.thuexemaynguyentu.com`. Giá cũ còn trên website chính (ngoài repo này): `/thue-xe-may-o-pho-co/` (Wave 600–700k/tuần, Air Blade 1.400.000/tháng) — cần chủ xử lý ở website chính.
+
+## Rollback
+
+Mỗi PR là một squash commit độc lập: `git revert <commit merge>`. Lô revise: `python3 scripts/factory/revise-published.py rollback --backup reports/qa-audit/revise/<batch>.json` (legal-02, legal-03, legal-04, deposit-02).
