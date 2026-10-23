@@ -39,9 +39,9 @@ Bài diễn đạt lại. Nếu họ tên hay ngày sinh của bạn đã đổi
 
 ## Xác nhận số cũ khi cần: Điều 12 Nghị định 70/2024
 
-Điều 12 khoản 1 của Nghị định 70/2024/NĐ-CP viết thông tin số chứng minh nhân dân chín số và số định danh cá nhân đã hủy được mã hóa trong mã QR trên thẻ căn cước, cơ quan quét mã và dùng thông tin đó, không được yêu cầu công dân phải cung cấp xác nhận. Các khoản sau nêu công dân có thể đề nghị cấp giấy xác nhận, với thời hạn 03 hoặc 07 ngày làm việc tùy trường hợp.
+Bản gốc Điều 12 khoản 1 của Nghị định 70/2024/NĐ-CP viết thông tin số chứng minh nhân dân chín số và số định danh cá nhân đã hủy được mã hóa trong mã QR trên thẻ căn cước, cơ quan quét mã và dùng thông tin đó, không được yêu cầu công dân phải cung cấp xác nhận. Các khoản sau từng cho công dân đề nghị cấp giấy xác nhận trong 03 hoặc 07 ngày làm việc; Điều 12 đã được sửa đổi toàn bộ bởi khoản 7 Điều 5 Nghị định 58/2026/NĐ-CP (hiệu lực 15/3/2026) và thủ tục này đã dừng từ ngày đó.
 
-Bài đọc bản gốc qua bản đăng lại của một trang tra cứu văn bản, không phải cổng nhà nước, chưa đọc văn bản sửa đổi và diễn đạt lại. Bài không biết cơ quan đăng ký xe có dùng mã QR hay yêu cầu xác nhận này hay không.
+Bài đọc bản gốc qua bản đăng lại của một trang tra cứu văn bản, không phải cổng nhà nước, đọc phần sửa đổi qua trả lời của Bộ Công an và diễn đạt lại. Bài không biết cơ quan đăng ký xe có dùng mã QR hay yêu cầu xác nhận này hay không.
 
 ## Chuẩn bị khi giấy xe không khớp thẻ: gợi ý thực tế
 
@@ -51,7 +51,7 @@ Bài [giấy phép lái xe còn ghi số chứng minh nhân dân cũ: có bắt 
 
 ## Nguồn đối chiếu và điều bài chưa kiểm chứng
 
-[Luật 36/2024/QH15](https://vanban.chinhphu.vn/?pageid=27160&docid=211194) và [văn bản hợp nhất 55/VBHN-VPQH](https://vanban.chinhphu.vn/?docid=217295&pageid=27160): đã đọc nguyên văn Điều 39 khoản 3. Luật Căn cước 26/2023/QH15: đã đọc bản gốc Điều 24, 25 và 46, chưa tích hợp sửa đổi của Luật 118/2025/QH15. Thông tư 79/2024/TT-BCA: đã đọc Điều 6 và 18 theo văn bản hợp nhất 41/VBHN-BCA. Nghị định 70/2024/NĐ-CP: đã đọc Điều 12 bản gốc, chưa đọc Nghị định 58/2026/NĐ-CP. Bài chưa đọc điều nào nói rõ giấy đăng ký xe ghi số chứng minh cũ có phải đổi hay không và không biết cách xử lý của từng cơ quan đăng ký xe.
+[Luật 36/2024/QH15](https://vanban.chinhphu.vn/?pageid=27160&docid=211194) và [văn bản hợp nhất 55/VBHN-VPQH](https://vanban.chinhphu.vn/?docid=217295&pageid=27160): đã đọc nguyên văn Điều 39 khoản 3. Luật Căn cước 26/2023/QH15: đã đọc bản gốc Điều 24, 25 và 46, chưa tích hợp sửa đổi của Luật 118/2025/QH15. Thông tư 79/2024/TT-BCA: đã đọc Điều 6 và 18 theo văn bản hợp nhất 41/VBHN-BCA. Nghị định 70/2024/NĐ-CP: đã đọc Điều 12 bản gốc, Điều 12 đã được Nghị định 58/2026/NĐ-CP sửa đổi (hiệu lực 15/3/2026). Bài chưa đọc điều nào nói rõ giấy đăng ký xe ghi số chứng minh cũ có phải đổi hay không và không biết cách xử lý của từng cơ quan đăng ký xe.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

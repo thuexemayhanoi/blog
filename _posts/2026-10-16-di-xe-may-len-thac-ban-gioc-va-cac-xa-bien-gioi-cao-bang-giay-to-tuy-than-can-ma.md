@@ -19,7 +19,7 @@ Chuyến xe máy từ Hà Nội lên Thác Bản Giốc thường được tính
 
 ## Thác Bản Giốc và các xã sát biên có phải khu vực biên giới không
 
-Quy chế khu vực biên giới đất liền ban hành kèm Nghị định 34/2014/NĐ-CP xác định khu vực biên giới đất liền gồm các xã, phường, thị trấn có một phần địa giới hành chính trùng với đường biên giới quốc gia trên đất liền. Thác Bản Giốc, thuộc vùng Trùng Khánh cũ của Cao Bằng, nằm ngay trên đường biên, nên xã có thác thuộc diện này; vùng Hà Quảng quanh Pác Bó cũng vậy.
+Quy chế khu vực biên giới đất liền ban hành kèm Nghị định 34/2014/NĐ-CP xác định khu vực biên giới đất liền gồm các xã, phường có một phần địa giới hành chính trùng với đường biên giới quốc gia trên đất liền; từ 17/11/2025, Nghị định 299/2025/NĐ-CP đã sửa quy định này và không còn nêu thị trấn. Thác Bản Giốc, thuộc vùng Trùng Khánh cũ của Cao Bằng, nằm ngay trên đường biên, nên xã có thác thuộc diện này; vùng Hà Quảng quanh Pác Bó cũng vậy.
 
 Bên trong còn có vành đai biên giới và vùng cấm, quy định chặt hơn hẳn. Sau đợt sắp xếp đơn vị hành chính năm 2025, tên và ranh giới nhiều xã ở Cao Bằng đã đổi, nên biển báo tại chỗ và hướng dẫn của bộ đội biên phòng là căn cứ thực tế nhất.
 
@@ -88,7 +88,7 @@ Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, m�
 
 ## Nguồn tham khảo
 
-- Nghị định 34/2014/NĐ-CP về Quy chế khu vực biên giới đất liền: tra nguyên văn và tình trạng hiệu lực trên [Cơ sở dữ liệu văn bản của Chính phủ](https://vanban.chinhphu.vn/).
+- Nghị định 34/2014/NĐ-CP về Quy chế khu vực biên giới đất liền (đã sửa đổi bởi Nghị định 299/2025/NĐ-CP): tra nguyên văn và tình trạng hiệu lực trên [Cơ sở dữ liệu văn bản của Chính phủ](https://vanban.chinhphu.vn/).
 - Luật Cư trú số 68/2020/QH14, Điều 30 về thông báo lưu trú.
 - [Luật Căn cước số 26/2023/QH15](https://vanban.chinhphu.vn/?pageid=27160&docid=209628), Điều 46.
 - [Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15](https://vanban.chinhphu.vn/?pageid=27160&docid=211194), Điều 56.
