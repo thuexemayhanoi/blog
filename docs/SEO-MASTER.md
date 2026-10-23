@@ -34,6 +34,8 @@ sự thật vận hành: số bài, trạng thái, QA vẫn đọc từ `data/co
 | `internal-link-candidates.csv` | tối đa 25 bài/nhóm khớp từ khóa nhưng chưa liên kết về URL chủ lực (danh sách bảo trì nhỏ, trạng thái OPEN) | cùng script |
 | `cannibalization-plan.md` | kế hoạch đọc được cho chủ: nhóm trùng khóa, URL chủ lực đề xuất, cặp tiêu đề gần trùng (chưa thực hiện) | cùng script |
 | `slug-d-migration-map.csv`, `slug-d-audit.md`, `slug-d-audit.json` | URL thiếu chữ đ: bản đồ OLD → NEW, va chạm, liên kết tới URL cũ, trạng thái BLOCKED (chưa đổi URL nào) | `scripts/seo/slug-d-audit.py` |
+| `cannibalization-classification.csv` | 49 nhóm trùng khóa matrix: nhãn `SAME_INTENT_MONITOR` / `DISTINCT_ANGLE_KEEP` (INFERRED, đọc tiêu đề), URL chủ lực đề xuất, việc đã làm và việc để sau | tay (nhãn) + dữ liệu `cannibalization-risk.csv` |
+| `content-fix-blocked.csv` | bài cần sửa nội dung nhưng chưa sửa được qua đường chính thức: lý do, quyết định của kế hoạch reattest, biện pháp tạm (lớp đính chính), điều kiện mở khóa | tay, đối chiếu kế hoạch `reattest-legacy-qa.py plan` |
 | `build-performance.md` | đo thời gian build Jekyll trước/sau và nguyên nhân | tay (có số đo) |
 | `fix-log.csv`, `qa-results.md`, `deployment-verification.md` | nhật ký sửa, kết quả kiểm thử, xác minh deploy | tay, đối chiếu commit |
 | `checkpoint.json` | trạng thái DONE / IN_PROGRESS / BLOCKED và điểm tiếp tục | tay |
@@ -52,6 +54,9 @@ Cấu hình duy nhất cho ma trận: `scripts/seo/seo-matrix-config.yml` (URL c
 | `build-leads.py` | chọn bài chủ lực cho từng hub con → `_data/seo-leads.yml` (sinh tự động, không sửa tay) |
 | `validate-hub-intros.py` | kiểm phần giới thiệu pillar/hub (không chữ số, không từ cấm, liên kết hợp lệ, không trùng) và ghi vào `.md` khi PASS |
 | `seo-matrix-config.yml` | cấu hình duy nhất: URL chủ lực, regex nhóm từ khóa/chủ đề |
+| `build-topic-links.py` | sinh `_data/seo-topic-links.json`: liên kết "Cùng chủ đề" hai chiều giữa các bài cùng `cannibalization_key` (khóa = URL thật; `--check` đối chiếu nguồn); `_includes/topic-siblings.html` đọc tệp này |
+| `price_phrases.py`, `build-price-patches.py`, `check-price-consistency.py` | quét cụm giá tuần/tháng gắn một xe + một kỳ hạn, sinh danh sách sửa cho `revise-published.py`, báo cáo lệch so với `_data/pricing.yml` (đọc-only; câu có phép tính/so sánh không tự sửa) |
+| `build-price-notices.py` | sinh `_data/price-notices.json`: bài PUBLISHED còn nêu giá tuần/tháng cũ mà chưa sửa được gốc (hiển thị bảng giá hiện hành, xem `docs/PRICE-NOTICES.md`) |
 | `check-regressions.py` | kiểm tra hồi quy SEO trên `_site` đã build (9 bất biến: trang chủ đóng băng, canonical/H1, favicon, phân trang, hub không rỗng, khối bài chủ lực, breadcrumb, sitemap) |
 | `frozen-homepage.json` | chuỗi H1/title/meta/hero/canonical trang chủ đã duyệt ở `4f61156e`; chỉ đổi khi chủ duyệt phiên bản mới |
 
@@ -105,3 +110,23 @@ python3 scripts/seo/enrich-inventory.py
   template, nên mọi thay đổi engine có nguy cơ bị hủy. Xem `reports/factory/seo-master/build-performance.md`.
 - Mỗi push của publisher kích hoạt một build Pages; các build bị hủy khi có push mới hơn. Giảm thời gian build
   là điều kiện để các lần deploy hoàn tất thay vì bị hủy hàng loạt.
+
+## Sửa nội dung bài PUBLISHED, lớp đính chính và việc còn chặn (2026-10-23)
+
+Ba đường, theo thứ tự ưu tiên; không đường nào sửa tay `_posts/`, `data/qa/` hay matrix:
+
+1. **Bài legacy** (không có `data/qa/<ID>.json`: EXISTING/REVIEW): sửa trực tiếp trong PR (đã làm cho giá tuần/tháng, 4 meta quá dài, tham chiếu Thông tư 108/2026).
+2. **Bài factory có evidence nguyên vẹn**: `scripts/factory/revise-published.py` (`docs/REVISE-PUBLISHED.md`) — sửa nhẹ + chấm lại độc lập + evidence mới có provenance + sao lưu byte-exact; mỗi lô ≤ 50 bài là một PR riêng, Quality gate verify lại sao lưu.
+3. **Bài factory có evidence đã lệch hash do đổi domain**: chưa sửa được. Cần `reattest-legacy-qa.py apply` có chủ duyệt (AGENTS.md: writer không tự `apply`).
+   Kế hoạch `plan` cho 81 bài cần sửa nội dung (giá hoặc pháp lý) cho thấy 28 bài đủ điều kiện reattest ngay, 52 bài rớt QA hiện tại vì còn số tiền cũ
+   nên `reattest` từ chối (`FRESH_QA_FAILED`) trong khi `revise` từ chối vì evidence không nguyên vẹn — cần chủ duyệt một đường gộp (reattest + sửa trong cùng giao dịch)
+   hoặc duyệt reattest rồi sửa. Danh sách và điều kiện mở khóa: `content-fix-blocked.csv`.
+
+Trong lúc chờ, hai **lớp đính chính hiển thị** (dữ liệu tách khỏi bài, không đổi byte bài, gỡ mục khi bài đã sửa gốc):
+`_data/legal-notices.json` (pháp lý, nguồn văn bản chính thức; `docs/LEGAL-NOTICES.md`) và `_data/price-notices.json` (bảng giá hiện hành từ `_data/pricing.yml`; `docs/PRICE-NOTICES.md`).
+
+Cannibalization: 49 nhóm / 107 bài đã có liên kết ngữ cảnh hai chiều (`_data/seo-topic-links.json`); gộp/xóa/redirect chưa làm (cần hạ tầng HTTP 301 và dữ liệu Search Console;
+`cannibalization-classification.csv` đánh dấu 29 nhóm nghi cùng intent để chủ xem xét). 82 cặp "tiêu đề gần trùng trong cụm" phần lớn là các thực thể khác nhau (bảo tàng, điểm đến) — không phải trùng intent.
+
+Quyết định ghi lại: JSON-LD LocalBusiness giữ nguyên trên mọi trang (`docs/SCHEMA-GEO.md` quy định rõ; đổi phạm vi không có bằng chứng cải thiện); 689 trang danh sách giữ nguyên (không noindex/xóa hàng loạt khi chưa có dữ liệu lập chỉ mục);
+meta description 161–199 ký tự không phải lỗi (công cụ tìm kiếm có thể cắt hiển thị), chỉ 4 bài > 200 ký tự đã được rút gọn.
