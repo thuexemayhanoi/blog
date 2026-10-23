@@ -49,7 +49,7 @@ Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. 
   khác (resume-first là PER-WRITER, thực thi ở bước claim). FATAL → fail run, KHÔNG commit, run
   kế drain lại. Commit/push qua `scripts/factory/publisher-push.py` (một commit/run, guard
   giao-path chống rebase ghép sửa đổi vào bài đã publish, integrity sha256, tối đa 3 rebase,
-  KHÔNG force push). Không cron, không AI, không secret, không API ngoài, không workflow_dispatch.
+  KHÔNG force push). Publisher có cron phục hồi backlog `17,47 * * * *` và `workflow_dispatch` để xử lý draft kẹt; vẫn KHÔNG chạy AI, KHÔNG dùng API key hay mạng ngoài GitHub. Các trigger dự phòng không được bỏ qua QA/publish gate.
 - `factory-liveness.yml` — liveness READ-ONLY (CHỈ workflow_dispatch, không cron): watchdog
   (unhealthy = FAIL run) + status + purity. KHÔNG bao giờ recover/delete/claim/publish.
 - `factory-publish-verify.yml` — FULL audit READ-ONLY (CHỈ workflow_dispatch, không cron):
