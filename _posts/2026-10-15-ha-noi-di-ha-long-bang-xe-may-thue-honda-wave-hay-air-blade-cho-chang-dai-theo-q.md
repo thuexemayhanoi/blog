@@ -19,7 +19,7 @@ Bạn định chạy xe máy thuê từ Hà Nội ra Hạ Long hai đến ba ng�
 
 ## Đi Hạ Long thuê Wave hay Air Blade: hai xe, hai kiểu đi
 
-Theo đội xe của tiệm, Honda Wave là xe số, còn Honda Air Blade là xe ga. Giá niêm yết là 150.000 đồng một ngày cho Wave và 200.000 đồng một ngày cho Air Blade; gói tuần của Air Blade là 800.000 đồng, còn gói tuần của Wave hãy liên hệ để hỏi. Bài này không tính tổng tiền cả chuyến, vì còn tùy số ngày, cách tính ngày khi xe đi xa và khoản đặt cọc, những điều phải xác nhận trực tiếp với tiệm.
+Theo đội xe của tiệm, Honda Wave là xe số, còn Honda Air Blade là xe ga. Giá niêm yết là 150.000 đồng một ngày cho Wave và 200.000 đồng một ngày cho Air Blade; gói tuần của Air Blade là 1.000.000 đồng, còn gói tuần của Wave là 700.000 đồng. Bài này không tính tổng tiền cả chuyến, vì còn tùy số ngày, cách tính ngày khi xe đi xa và khoản đặt cọc, những điều phải xác nhận trực tiếp với tiệm.
 
 Bài này cũng không xếp hạng độ bền: không có số liệu đáng tin cho thấy dòng xe nào bền hơn trên quốc lộ, và tình trạng của từng chiếc xe cụ thể quan trọng hơn cái tên. Vì vậy phần "độ bền" ở đây là việc bạn tự kiểm tra lúc nhận xe: lốp, phanh, đèn, còi, gương và tiếng máy khi nổ.
 

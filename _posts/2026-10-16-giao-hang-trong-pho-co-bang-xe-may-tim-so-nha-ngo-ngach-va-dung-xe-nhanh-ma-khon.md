@@ -77,7 +77,7 @@ Với địa chỉ khó, xin khách một mốc nhìn thấy được, như "đ�
 
 ## Chọn xe và chuẩn bị cho ngày chạy đơn
 
-Trong phố hẹp, xe nhỏ, nhẹ, dễ dắt là lợi thế. Honda Wave dắt bộ nhẹ, quay đầu trong ngõ dễ; Honda Vision có cốp để giấy tờ, tiền và hàng nhỏ. Ở cửa hàng Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Wave giá 150.000 đ/ngày; Vision 200.000 đ/ngày, theo tháng 1.800.000–2.000.000 đ; Honda Click, Yamaha Mio 150.000 đ/ngày, theo tháng 1.000.000–1.200.000 đ. Xem đủ ở [bảng giá thuê xe](/bang-gia/).
+Trong phố hẹp, xe nhỏ, nhẹ, dễ dắt là lợi thế. Honda Wave dắt bộ nhẹ, quay đầu trong ngõ dễ; Honda Vision có cốp để giấy tờ, tiền và hàng nhỏ. Ở cửa hàng Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Wave giá 150.000 đ/ngày; Vision 200.000 đ/ngày, theo tháng 1.800.000–2.000.000 đ; Honda Click, Yamaha Mio 150.000 đ/ngày, theo tháng 900.000–1.200.000 đ. Xem đủ ở [bảng giá thuê xe](/bang-gia/).
 
 Trước ngày chạy nhiều đơn, kiểm tra phanh, lốp, đèn, còi; mang áo mưa, sạc dự phòng và túi chống nước cho hàng. Mức cọc, giấy tờ và điều kiện thuê dài ngày được xác nhận trực tiếp khi đặt xe qua số 0942 467 674; tiệm mở từ 09:00 đến 21:00.
 

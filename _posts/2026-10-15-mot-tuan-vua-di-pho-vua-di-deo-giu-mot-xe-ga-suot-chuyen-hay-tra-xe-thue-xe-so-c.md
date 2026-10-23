@@ -47,10 +47,10 @@ Về hành lý, dọn sạch cốp xe cũ trước khi trả: gầm yên, móc t
 
 Giá niêm yết của tiệm như sau:
 
-- Honda Wave: ngày 150.000 đồng, giá tuần hãy liên hệ.
-- Honda Vision: ngày 200.000 đồng, tuần từ 800.000 đến 1.000.000 đồng.
-- Honda Air Blade: ngày 200.000 đồng, tuần 800.000 đồng.
-- Honda Click và Yamaha Mio: ngày 150.000 đồng, tuần từ 600.000 đến 700.000 đồng.
+- Honda Wave: ngày 150.000 đồng, tuần 700.000 đồng.
+- Honda Vision: ngày 200.000 đồng, tuần 1.000.000 đồng.
+- Honda Air Blade: ngày 200.000 đồng, tuần 1.000.000 đồng.
+- Honda Click và Yamaha Mio: ngày 150.000 đồng, tuần 700.000 đồng.
 
 Mình không cộng ra tổng cho phương án đổi xe, vì kết quả còn tùy cách tính ngày khi đổi, phần tiền đã trả cho xe cũ và việc cọc có chuyển sang xe mới không, những điều tiệm chưa công bố. Hãy xin báo giá bằng chữ cho từng cách rồi tự đặt cạnh nhau; tiền đặt cọc xác nhận trực tiếp. Cách so gói tuần với thuê lẻ có trong bài [mùa mưa bão: thuê xe trọn gói tuần hay thuê lẻ từng ngày](/xe-may/2026/10/15/mua-mua-bao-o-ha-noi-thue-xe-may-tron-goi-tuan-hay-thue-le-tung-ngay-troi-tanh/), còn mức mới nhất xem ở trang [bảng giá](/bang-gia/).
 

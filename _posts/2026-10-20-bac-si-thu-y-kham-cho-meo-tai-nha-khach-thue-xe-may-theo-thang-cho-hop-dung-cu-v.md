@@ -26,8 +26,8 @@ Lịch khám tại nhà hiếm khi đều. Có tuần kín lịch tiêm phòng, 
 Về chọn xe, bác sĩ thú y thường hợp với xe tay ga có cốp rộng và sàn phẳng:
 
 - **Honda Vision:** gọn, dễ dắt trong ngõ, giá tháng 1.800.000–2.000.000 đ.
-- **Honda Air Blade:** cốp sâu hơn, chạy đường dài đỡ mỏi, giá tháng 1.400.000 đ.
-- **Honda Click hoặc Yamaha Mio:** nhẹ, tiết kiệm chi phí, giá tháng 1.000.000–1.200.000 đ.
+- **Honda Air Blade:** cốp sâu hơn, chạy đường dài đỡ mỏi, giá tháng 1.500.000 đ.
+- **Honda Click hoặc Yamaha Mio:** nhẹ, tiết kiệm chi phí, giá tháng 900.000–1.200.000 đ.
 
 Các gói dài ngày và điều kiện nhận xe được tổng hợp ở trang [thuê xe theo tháng](/thue-xe/thue-thang/). Nếu muốn lắp thêm thùng sau hay giá chở đồ, hãy hỏi cửa hàng trước, không tự khoan đục lên xe thuê.
 

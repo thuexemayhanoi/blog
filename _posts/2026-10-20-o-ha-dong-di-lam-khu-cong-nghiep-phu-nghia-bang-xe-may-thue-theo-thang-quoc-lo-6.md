@@ -65,11 +65,11 @@ Ngày mưa, mặt đường tạm có bùn đất rất trơn. Phanh sớm, phan
 Người thuê xe máy đi làm Chương Mỹ hằng ngày chạy khá nhiều cây số mỗi tháng, nên ưu tiên xe bền, dễ bảo dưỡng, đèn sáng:
 
 - Honda Wave: xe số tiết kiệm xăng, nhẹ, dễ dắt trong bãi xe công nhân. Giá ngày 150.000 đ, giá tháng hỏi tiệm.
-- Honda Click hoặc Yamaha Mio: 1.000.000–1.200.000 đ/tháng, gọn và dễ điều khiển.
-- Honda Air Blade: 1.400.000 đ/tháng, cốp rộng để áo mưa, đồ bảo hộ.
+- Honda Click hoặc Yamaha Mio: 900.000–1.200.000 đ/tháng, gọn và dễ điều khiển.
+- Honda Air Blade: 1.500.000 đ/tháng, cốp rộng để áo mưa, đồ bảo hộ.
 - Honda Vision: 1.800.000–2.000.000 đ/tháng.
 
-Muốn đi thử vài tuần trước khi thuê dài, có giá tuần: Click hoặc Mio 600.000–700.000 đ, Air Blade 800.000 đ, Vision 800.000–1.000.000 đ. Xem đủ các mức ở [bảng giá thuê xe](/bang-gia/). Đặt cọc, giấy tờ cần mang, có kèm mũ bảo hiểm hay không, bạn xác nhận trực tiếp với cửa hàng khi đặt xe.
+Muốn đi thử vài tuần trước khi thuê dài, có giá tuần: Click hoặc Mio 700.000 đ, Air Blade 1.000.000 đ, Vision 1.000.000 đ. Xem đủ các mức ở [bảng giá thuê xe](/bang-gia/). Đặt cọc, giấy tờ cần mang, có kèm mũ bảo hiểm hay không, bạn xác nhận trực tiếp với cửa hàng khi đặt xe.
 
 ### Thói quen kiểm tra xe mỗi tuần
 

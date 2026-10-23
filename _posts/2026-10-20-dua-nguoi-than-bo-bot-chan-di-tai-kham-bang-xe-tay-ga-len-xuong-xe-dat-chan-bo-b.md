@@ -97,7 +97,7 @@ Xe gửi lại gần đó hoặc chạy theo sau taxi. Đừng cố đi nốt đ
 
 ## Thuê xe tay ga cho những lần tái khám
 
-Chọn xe có yên sau rộng và gác chân chắc. Honda Vision 200.000 đ/ngày và Honda Air Blade 200.000 đ/ngày đều chở người ổn. Lịch tái khám kéo dài vài tuần thì hỏi giá tuần, như Vision tuần 800.000–1.000.000 đ, tháng 1.800.000–2.000.000 đ.
+Chọn xe có yên sau rộng và gác chân chắc. Honda Vision 200.000 đ/ngày và Honda Air Blade 200.000 đ/ngày đều chở người ổn. Lịch tái khám kéo dài vài tuần thì hỏi giá tuần, như Vision tuần 1.000.000 đ, tháng 1.800.000–2.000.000 đ.
 
 Tiệm Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, điện thoại 0942 467 674. Muốn giao xe tận nhà thì thời gian và chi phí giao nhận phải xác nhận trước; tiền cọc và các khoản khác xác nhận trực tiếp với cửa hàng.
 

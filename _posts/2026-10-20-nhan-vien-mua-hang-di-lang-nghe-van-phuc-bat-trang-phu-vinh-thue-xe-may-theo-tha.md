@@ -29,8 +29,8 @@ Xe thuê tháng để sẵn ở nhà giúp bạn chủ động khi xưởng báo
 
 Xe phù hợp phụ thuộc vào thứ bạn hay chở và quãng đường mỗi buổi.
 
-- **Xe ga có cốp và sàn để chân phẳng** như Honda Vision hay Honda Air Blade hợp với người chở mẫu nhỏ, catalogue, sổ ghi chép. Theo bảng giá hiện tại, Vision thuê tháng khoảng 1.800.000 đến 2.000.000 đ, Air Blade khoảng 1.400.000 đ một tháng.
-- **Honda Click hoặc Yamaha Mio** nhẹ, dễ dắt trong ngõ làng, giá tháng khoảng 1.000.000 đến 1.200.000 đ.
+- **Xe ga có cốp và sàn để chân phẳng** như Honda Vision hay Honda Air Blade hợp với người chở mẫu nhỏ, catalogue, sổ ghi chép. Theo bảng giá hiện tại, Vision thuê tháng khoảng 1.800.000 đến 2.000.000 đ, Air Blade khoảng 1.500.000 đ một tháng.
+- **Honda Click hoặc Yamaha Mio** nhẹ, dễ dắt trong ngõ làng, giá tháng khoảng 900.000 đến 1.200.000 đ.
 - **Xe số như Honda Wave** gọn, dễ tìm tiệm sửa ven đường, nhưng ít chỗ để đồ hơn. Giá theo ngày là 150.000 đ, còn thuê dài ngày thì hỏi cửa hàng.
 
 Khi nhận xe, kiểm tra kỹ phanh, đèn, còi, lốp và chân chống giữa, vì bạn sẽ dựng xe chất đồ nhiều lần mỗi ngày. Hỏi luôn tiền cọc, giấy tờ cần mang và việc có kèm mũ bảo hiểm hay không. Các mục này cửa hàng xác nhận trực tiếp khi đặt xe, đừng đoán trước.

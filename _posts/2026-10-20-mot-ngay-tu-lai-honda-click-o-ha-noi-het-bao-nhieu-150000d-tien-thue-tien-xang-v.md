@@ -108,6 +108,6 @@ Ghi từng khoản trong ngày giúp bạn biết hôm sau nên đi xa hơn hay 
 
 ## Thuê theo ngày hay gói dài hơn
 
-Ở Hà Nội vài ngày trở lên thì cộng tiền thuê từng ngày không còn lợi. Gói tuần của Click là 600.000–700.000 đ, so sánh chi tiết ở bài [thuê Click theo ngày hay lấy gói tuần khi ở 4 đến 6 ngày](/xe-may/2026/10/15/o-ha-noi-4-den-6-ngay-thue-honda-click-theo-ngay-150000d-hay-lay-goi-tuan-600000/). Phân vân giữa xe ga và xe số cùng mức giá thì đọc bài [Click hay Wave cùng 150k/ngày](/xe-may/2026/10/13/cung-150kngay-thue-honda-click-xe-ga-hay-wave-xe-so-cho-chuyen-di-ha-noi/).
+Ở Hà Nội vài ngày trở lên thì cộng tiền thuê từng ngày không còn lợi. Gói tuần của Click là 700.000 đ, so sánh chi tiết ở bài [thuê Click theo ngày hay lấy gói tuần khi ở 4 đến 6 ngày](/xe-may/2026/10/15/o-ha-noi-4-den-6-ngay-thue-honda-click-theo-ngay-150000d-hay-lay-goi-tuan-600000/). Phân vân giữa xe ga và xe số cùng mức giá thì đọc bài [Click hay Wave cùng 150k/ngày](/xe-may/2026/10/13/cung-150kngay-thue-honda-click-xe-ga-hay-wave-xe-so-cho-chuyen-di-ha-noi/).
 
 Trước khi đặt xe, xem thêm về dòng xe ở trang [Honda Click](/xe-may/honda-click/) và các mẫu khác trong mục [thuê xe máy Hà Nội](/xe-may/).

@@ -84,6 +84,6 @@ Hai bạn sinh viên ở Cầu Giấy tan học lúc bốn giờ, đi chung mộ
 
 ## Sinh viên cần xe máy để đi lại
 
-Sinh viên ở tỉnh lên học chưa có xe có thể thuê theo tháng. Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00; Honda Click hoặc Yamaha Mio 150.000 đ/ngày, theo tháng 1.000.000–1.200.000 đ, các dòng khác xem ở [bảng giá thuê xe](/bang-gia/). Tiền cọc và giấy tờ cần mang xác nhận trực tiếp qua số 0942 467 674.
+Sinh viên ở tỉnh lên học chưa có xe có thể thuê theo tháng. Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00; Honda Click hoặc Yamaha Mio 150.000 đ/ngày, theo tháng 900.000–1.200.000 đ, các dòng khác xem ở [bảng giá thuê xe](/bang-gia/). Tiền cọc và giấy tờ cần mang xác nhận trực tiếp qua số 0942 467 674.
 
 Muốn tìm thêm lộ trình quanh hồ và chỗ gửi xe, hãy xem chuyên mục [phố cổ Hoàn Kiếm](/du-lich/pho-co/) hoặc mục [du lịch Hà Nội bằng xe máy](/du-lich/).

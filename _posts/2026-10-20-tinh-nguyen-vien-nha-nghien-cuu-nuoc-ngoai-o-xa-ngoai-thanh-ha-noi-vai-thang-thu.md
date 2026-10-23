@@ -32,9 +32,9 @@ Quy định về giấy phép lái xe có thể thay đổi, nên trước khi s
 Xe đi ngoại thành cần bền, dễ sửa và chở được balo, máy ghi âm, phiếu khảo sát. Một vài gợi ý:
 
 - **Xe số như Honda Wave:** chịu đường xấu và dốc tốt, tiệm sửa xe trong làng nào cũng quen. Giá ngày 150.000 đ, giá tháng hãy hỏi cửa hàng.
-- **Honda Air Blade:** xe ga cốp sâu, chạy đường dài từ nội thành ra đỡ mỏi, giá tháng 1.400.000 đ.
+- **Honda Air Blade:** xe ga cốp sâu, chạy đường dài từ nội thành ra đỡ mỏi, giá tháng 1.500.000 đ.
 - **Honda Vision:** nhẹ, dễ dắt qua bờ ruộng, giá tháng 1.800.000–2.000.000 đ.
-- **Honda Click hoặc Yamaha Mio:** gọn, chi phí thấp, giá tháng 1.000.000–1.200.000 đ.
+- **Honda Click hoặc Yamaha Mio:** gọn, chi phí thấp, giá tháng 900.000–1.200.000 đ.
 
 Người chưa quen xe số nên chọn xe ga để đỡ phải lo sang số khi lên dốc. Các gói dài ngày được tổng hợp ở trang [thuê xe theo tháng](/thue-xe/thue-thang/). Tiền cọc, giấy tờ cửa hàng cần xem và có kèm mũ bảo hiểm hay không, hãy hỏi cửa hàng khi đặt xe.
 

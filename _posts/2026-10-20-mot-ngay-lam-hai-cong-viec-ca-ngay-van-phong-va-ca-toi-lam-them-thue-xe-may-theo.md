@@ -21,7 +21,7 @@ Sáng ngồi văn phòng đến năm giờ chiều, tối chạy sang quán cà 
 
 Một ngày của người làm hai việc thường có ba chặng: nhà đến văn phòng, văn phòng sang chỗ làm thêm, rồi chỗ làm thêm về nhà. Gọi xe công nghệ đủ ba chặng mỗi ngày vừa tốn vừa phụ thuộc giờ cao điểm. Xe buýt thì khó khớp khi khoảng nghỉ giữa hai ca chỉ hơn một tiếng.
 
-Thuê theo tháng cho bạn một chiếc xe cố định, chi phí biết trước để cân với thu nhập ca tối. Theo bảng giá hiện tại của tiệm, Honda Vision thuê tháng khoảng 1.800.000–2.000.000 đ, Honda Air Blade 1.400.000 đ, Honda Click hoặc Yamaha Mio 1.000.000–1.200.000 đ; chi tiết từng mẫu có ở trang [bảng giá](/bang-gia/). Ca tối chỉ định làm vài tháng thì thuê tháng cũng gọn hơn mua xe rồi lại phải bán.
+Thuê theo tháng cho bạn một chiếc xe cố định, chi phí biết trước để cân với thu nhập ca tối. Theo bảng giá hiện tại của tiệm, Honda Vision thuê tháng khoảng 1.800.000–2.000.000 đ, Honda Air Blade 1.500.000 đ, Honda Click hoặc Yamaha Mio 900.000–1.200.000 đ; chi tiết từng mẫu có ở trang [bảng giá](/bang-gia/). Ca tối chỉ định làm vài tháng thì thuê tháng cũng gọn hơn mua xe rồi lại phải bán.
 
 ### Chọn xe nào cho người chạy cả ngày
 

@@ -44,8 +44,8 @@ Phòng rẻ hơn một chút nhưng phải để xe ngoài trời, cổng không
 
 Sinh viên thường cân nhắc tiền trước tiên, nên đây là các mức đang áp dụng tại tiệm:
 
-- **Honda Click, Yamaha Mio**: gói tháng 1.000.000–1.200.000 đ. Xe ga nhỏ, nhẹ, dễ dắt trong ngõ, cốp đủ để áo mưa.
-- **Honda Air Blade**: gói tháng 1.400.000 đ, chắc chắn, hợp bạn hay chạy lên nội thành.
+- **Honda Click, Yamaha Mio**: gói tháng 900.000–1.200.000 đ. Xe ga nhỏ, nhẹ, dễ dắt trong ngõ, cốp đủ để áo mưa.
+- **Honda Air Blade**: gói tháng 1.500.000 đ, chắc chắn, hợp bạn hay chạy lên nội thành.
 - **Honda Vision**: gói tháng 1.800.000–2.000.000 đ, yên thấp, dễ lái cho bạn nữ hoặc người mới tập xe ga.
 - **Honda Wave**: 150.000 đ/ngày, xe số bền, ít hao xăng; muốn thuê dài thì hỏi tiệm gói phù hợp.
 

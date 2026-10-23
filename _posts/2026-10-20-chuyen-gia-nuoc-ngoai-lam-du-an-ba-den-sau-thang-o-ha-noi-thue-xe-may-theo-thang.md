@@ -79,7 +79,7 @@ Bài [du học sinh về Hà Nội lấy lại nhịp giao thông](/thue-xe/2026
 - Phù hợp khi nơi làm và chỗ ở cùng trong nội thành.
 - Bạn tự chịu trách nhiệm về giấy phép, an toàn và gửi xe.
 
-Nhiều người chọn cách kết hợp: ngày làm việc đi xe đưa đón, cuối tuần thuê xe theo ngày khi thật sự cần, Honda Wave 150.000 đồng hoặc Honda Vision 200.000 đồng một ngày. Nếu dùng xe gần như hằng ngày, thuê tháng mới đáng: Honda Vision 1.800.000–2.000.000 đồng, Honda Air Blade 1.400.000 đồng một tháng. Dự án sáu tháng thì không nên mua xe, vì lúc về nước lại phải lo bán và sang tên.
+Nhiều người chọn cách kết hợp: ngày làm việc đi xe đưa đón, cuối tuần thuê xe theo ngày khi thật sự cần, Honda Wave 150.000 đồng hoặc Honda Vision 200.000 đồng một ngày. Nếu dùng xe gần như hằng ngày, thuê tháng mới đáng: Honda Vision 1.800.000–2.000.000 đồng, Honda Air Blade 1.500.000 đồng một tháng. Dự án sáu tháng thì không nên mua xe, vì lúc về nước lại phải lo bán và sang tên.
 
 ## Nếu quyết định tự lái: chuẩn bị trong tuần đầu
 

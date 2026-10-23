@@ -32,7 +32,7 @@ Vào đợt quan trắc, một kỹ thuật viên có thể phải ghé năm, s�
 Tiêu chí quan trọng nhất là có chỗ chằng thùng chắc chắn và xe đủ khỏe cho đường bờ đất.
 
 - **Honda Wave:** xe số, baga sau phẳng, dễ chằng thùng giữ lạnh, chạy đường gồ ghề ổn định. Giá thuê ngày 150.000 đ; giá tháng hỏi cửa hàng để được báo cụ thể.
-- **Honda Air Blade:** cốp rộng chứa sổ ghi chép, găng tay, chai dự phòng. Giá tháng khoảng 1.400.000 đ.
+- **Honda Air Blade:** cốp rộng chứa sổ ghi chép, găng tay, chai dự phòng. Giá tháng khoảng 1.500.000 đ.
 - **Honda Vision:** nhẹ, dễ dắt qua đoạn bờ lầy hay lối hẹp. Giá tháng khoảng 1.800.000–2.000.000 đ.
 
 Xem thêm [bảng giá](/bang-gia/) trước khi chốt số xe cho cả nhóm. Muốn lắp thêm giá chở đồ, hãy hỏi cửa hàng trước, đừng tự khoan bắt vào xe thuê.

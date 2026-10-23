@@ -84,7 +84,7 @@ Khu cảnh quan hợp tác ở thác Bản Giốc với phía bên kia, nếu c�
 
 Báo cửa hàng biết bạn đi Cao Bằng nhiều ngày và vào vùng biên. Điều cần hỏi nhất là giấy tờ nào phải để lại khi thuê, xác nhận trực tiếp lúc đặt xe. Dù thỏa thuận thế nào, bạn vẫn phải giữ trong người một giấy tờ tùy thân bản gốc hợp lệ. Bài [giấy tờ cần mang khi thuê xe đi đường dài](/an-toan-phap-ly/2026/10/07/giay-to-can-mang-khi-thue-xe-i-uong-dai/) liệt kê thêm.
 
-Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, không giao xe ngoài giờ. Giá tham khảo theo [bảng giá](/bang-gia/): Honda Wave 150.000 đ/ngày, Honda Air Blade 200.000 đ/ngày hoặc 800.000 đ/tuần. Gọi 0942 467 674 để chọn xe hợp đường đèo.
+Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, không giao xe ngoài giờ. Giá tham khảo theo [bảng giá](/bang-gia/): Honda Wave 150.000 đ/ngày, Honda Air Blade 200.000 đ/ngày hoặc 1.000.000 đ/tuần. Gọi 0942 467 674 để chọn xe hợp đường đèo.
 
 ## Nguồn tham khảo
 

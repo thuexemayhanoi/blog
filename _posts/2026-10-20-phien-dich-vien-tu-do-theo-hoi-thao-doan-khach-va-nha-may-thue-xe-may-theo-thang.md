@@ -27,7 +27,7 @@ Gọi xe công nghệ từng chuyến nghe tiện, nhưng có ba chỗ vướng:
 - Chuyến về từ khu công nghiệp ven đô thường khó có tài xế nhận.
 - Lịch đổi phút chót, bạn cần xuất phát ngay chứ không đứng chờ.
 
-Thuê theo tháng cho bạn một chiếc xe luôn sẵn, chi phí biết trước. Mức đang áp dụng tại cửa hàng: Honda Vision 1.800.000–2.000.000 đồng một tháng, Honda Air Blade 1.400.000 đồng, Honda Click hoặc Yamaha Mio 1.000.000–1.200.000 đồng. Với thu nhập theo dự án, cách này gọn hơn mua xe. Điều kiện chi tiết có ở trang [thuê xe theo tháng](/thue-xe/thue-thang/).
+Thuê theo tháng cho bạn một chiếc xe luôn sẵn, chi phí biết trước. Mức đang áp dụng tại cửa hàng: Honda Vision 1.800.000–2.000.000 đồng một tháng, Honda Air Blade 1.500.000 đồng, Honda Click hoặc Yamaha Mio 900.000–1.200.000 đồng. Với thu nhập theo dự án, cách này gọn hơn mua xe. Điều kiện chi tiết có ở trang [thuê xe theo tháng](/thue-xe/thue-thang/).
 
 ## Tính giờ cho ba kiểu lịch quen thuộc
 
