@@ -13,11 +13,11 @@ permalink: /bang-gia-xe-50cc/
 
 Xe 50cc là nhóm xe có dung tích xi-lanh dưới 50cc, thân xe nhỏ gọn, nhẹ và dễ điều khiển. Nhờ vận hành đơn giản và tốc độ tối đa không cao, xe 50cc thường được du khách nước ngoài lựa chọn cho các chuyến đi ngắn trong nội thành Hà Nội: di chuyển giữa khách sạn và các điểm tham quan quanh Phố Cổ, Hồ Gươm, Hồ Tây.
 
-Vì mức giá thuê xe 50cc thay đổi theo mẫu xe và tình trạng xe sẵn có, vui lòng liên hệ trực tiếp Nguyễn Tú để biết giá hiện tại trước khi đặt xe.
+Theo bảng giá tham khảo, xe tay ga 50cc có giá thuê 200.000đ/ngày. Giá theo tuần và theo tháng được báo riêng theo mẫu xe và tình trạng xe sẵn có, vui lòng liên hệ trực tiếp Nguyễn Tú để biết giá hiện tại trước khi đặt xe.
 
 ## Giá thuê xe 50cc
 
-Mức giá thuê xe 50cc không cố định theo bảng giá chung. Giá phụ thuộc vào:
+Giá thuê theo ngày tham khảo của xe tay ga 50cc là 200.000đ, tiền đặt cọc tham khảo 4 triệu đồng (xác nhận trực tiếp trước khi đặt xe). Giá theo tuần và theo tháng được báo riêng, và phụ thuộc vào:
 
 - Mẫu xe và tình trạng xe sẵn có tại thời điểm thuê
 - Thời gian thuê (ngày, tuần hay tháng)

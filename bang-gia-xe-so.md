@@ -21,8 +21,8 @@ Trang này cập nhật bảng giá tham khảo cho xe số tại Nguyễn Tú, 
 
 Mức giá tham khảo hiện hành:
 
-- Honda Wave: 150.000đ/ngày
-- Giá theo tuần và theo tháng: liên hệ trực tiếp để được báo giá theo mẫu xe và thời gian thuê.
+- Honda Wave: 150.000đ/ngày, 700.000đ/tuần, 900.000 – 1.200.000đ/tháng
+- Giá thực tế theo mẫu xe, tình trạng xe và thời gian thuê được xác nhận trực tiếp trước khi đặt xe.
 
 {% include pricing-rate-table.html category="Xe số" title="Bảng giá Xe số" %}
 
@@ -67,7 +67,7 @@ Honda Wave là mẫu xe số quen thuộc nhất tại Việt Nam, xuất hiện
 - **Dễ tìm phụ tùng:** hệ thống sửa chữa rộng khắp, không lo kẹt xe khi có sự cố.
 - **Chở được hai người thoải mái:** khung xe và yên xe rộng rãi cho nhu cầu đi đôi.
 
-Mức giá tham khảo 150.000đ/ngày. Tình trạng xe cụ thể được xác nhận khi bạn liên hệ đặt xe.
+Mức giá tham khảo 150.000đ/ngày, 700.000đ/tuần và 900.000 – 1.200.000đ/tháng. Tình trạng xe cụ thể được xác nhận khi bạn liên hệ đặt xe.
 
 ## Quy trình thuê xe số
 
@@ -117,7 +117,7 @@ Nếu bạn chưa từng lái xe số, việc phối hợp côn và số cần t
 
 #### Giá thuê xe số theo tuần và tháng là bao nhiêu?
 
-Mức giá tuần và tháng thay đổi theo mẫu xe và thời điểm. Vui lòng liên hệ trực tiếp để nhận báo giá chính xác.
+Theo bảng giá tham khảo, Honda Wave có giá 700.000đ/tuần và 900.000 – 1.200.000đ/tháng. Mức giá thực tế thay đổi theo mẫu xe và thời điểm, vui lòng liên hệ trực tiếp để nhận báo giá chính xác.
 
 #### Xe số có tiêu hao xăng nhiều không?
 

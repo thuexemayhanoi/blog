@@ -21,9 +21,9 @@ Trang này cập nhật bảng giá tham khảo cho các mẫu xe ga tại Nguy�
 
 Mức giá tham khảo hiện hành:
 
-- Honda Vision: 200.000đ/ngày, 800.000 – 1.000.000đ/tuần, 1.800.000 – 2.000.000đ/tháng
-- Honda Air Blade: 200.000đ/ngày, 800.000đ/tuần, 1.400.000đ/tháng
-- Honda Click / Yamaha Mio: 150.000đ/ngày, 600.000 – 700.000đ/tuần, 1.000.000 – 1.200.000đ/tháng
+- Honda Vision: 200.000đ/ngày, 1.000.000đ/tuần, 1.800.000 – 2.000.000đ/tháng
+- Honda Air Blade: 200.000đ/ngày, 1.000.000đ/tuần, 1.500.000đ/tháng
+- Honda Click / Yamaha Mio: 150.000đ/ngày, 700.000đ/tuần, 900.000 – 1.200.000đ/tháng
 
 {% include pricing-rate-table.html category="Xe ga" title="Bảng giá Xe ga" %}
 
@@ -65,8 +65,8 @@ Nếu bạn chạy đường dài hoặc muốn tối ưu chi phí nhiên liệu
 Với nhu cầu trên 5 đến 7 ngày, thuê theo tuần thường rẻ hơn thuê lẻ theo ngày. Với người sống và làm việc tại Hà Nội, thuê theo tháng là mức kinh tế nhất. Ví dụ theo bảng giá tham khảo:
 
 - Honda Vision thuê tháng: 1.800.000 – 2.000.000đ/tháng, tương đương khoảng 60.000 – 67.000đ/ngày
-- Honda Air Blade thuê tháng: 1.400.000đ/tháng
-- Honda Click / Yamaha Mio thuê tháng: 1.000.000 – 1.200.000đ/tháng
+- Honda Air Blade thuê tháng: 1.500.000đ/tháng
+- Honda Click / Yamaha Mio thuê tháng: 900.000 – 1.200.000đ/tháng
 
 Mức giá tuần và tháng luôn được xác nhận trực tiếp trước khi nhận xe.
 
