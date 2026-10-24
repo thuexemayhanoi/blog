@@ -95,7 +95,7 @@ Không giao xe máy ngoài giờ hoạt động. Thời gian và chi phí giao n
 - **Chạy đúng làn:** giao thông Hà Nội đông, hãy giữ làn bên phải và quan sát gương.
 - **Giữ khoảng cách:** tránh bám sát quá gần xe phía trước để có thời gian phản ứng.
 - **Đội mũ bảo hiểm:** bắt buộc theo luật giao thông Việt Nam; mũ bảo hiểm đi kèm xe khi nhận.
-- **Trả xe đúng giờ:** phí trễ 20.000đ/giờ; trễ quá 6 tiếng có thể tính thêm một ngày thuê, khoảng 150.000 – 200.000đ/ngày.
+- **Trả xe đúng giờ:** nếu cần gia hạn hoặc trả muộn, hãy liên hệ Nguyễn Tú trước giờ hẹn để xác nhận thời gian mới và chi phí phát sinh (nếu có) theo thỏa thuận.
 
 ## Xe số cho khách nước ngoài
 
