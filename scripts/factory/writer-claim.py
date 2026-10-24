@@ -723,12 +723,35 @@ def _err(code, msg, **extra):
     return d
 
 
+CONTROL_REL = 'data/factory/production-control.json'
+PAUSED_MSG = ('production-control enabled=false (tam dung bao tri): KHONG nhan them ID PLANNED moi. '
+              'Lease/hang REPAIR/in-flight dang giu van duoc nối lai; cho chu repository bat lai san xuat')
+
+
+def control_enabled(raw=None):
+    """production-control.json -> enabled. `raw` là bytes/str nội dung file (None = đọc file cục bộ).
+    Thiếu/hỏng file -> True (cùng hợp đồng load_control của operator/selector: mặc định an toàn là
+    KHÔNG tự tạm dừng; tạm dừng phải là quyết định tường minh `enabled:false`)."""
+    try:
+        if raw is None:
+            with open(os.path.join(ROOT, CONTROL_REL), 'rb') as f:
+                raw = f.read()
+        if isinstance(raw, bytes):
+            raw = raw.decode('utf-8')
+        return bool((json.loads(raw) or {}).get('enabled', True))
+    except Exception:
+        return True
+
+
 def apply_claim(reg, rows, writer, session, count=None, ids=None, now=None,
                 ttl_hours=None, label=None, adopt=False,
-                allow_empty_pool=False):
+                allow_empty_pool=False, paused=False):
     """Claim THUẦN trên registry trong bộ nhớ (writer-session.py dùng lại
     cho CAS). Mutate `reg` CHỈ khi thành công; trả dict {ok: True, ...}
-    hoặc {ok: False, code, error, ...}. KHÔNG I/O."""
+    hoặc {ok: False, code, error, ...}. KHÔNG I/O.
+    paused=True (production-control enabled=false): KHÔNG nhận hàng PLANNED mới
+    (code PAUSED); nối lại lease/REPAIR/in-flight sẵn có và --adopt hàng in-flight
+    vẫn được (hoàn tất việc dở, không mất draft)."""
     now = now if now is not None else time.time()
     if not SLOT_RE.match(writer or ''):
         return _err('BAD_SLOT', 'slot khong hop le %r (chi cac slot duoc cau hinh)'
@@ -791,6 +814,8 @@ def apply_claim(reg, rows, writer, session, count=None, ids=None, now=None,
             return _err('ID_TAKEN', '%s: da bi lease boi writer %s'
                         % (a, holder[0]), writer=writer, id=a)
         if st == PLANNED:
+            if paused and a not in already:
+                return _err('PAUSED', PAUSED_MSG, writer=writer, id=a)
             continue
         if st in INFLIGHT and (a in already or adopt):
             continue
@@ -820,9 +845,13 @@ def apply_claim(reg, rows, writer, session, count=None, ids=None, now=None,
         free = [a for a in _planned_ids(rows)
                 if (a not in live or live[a][0] == writer)
                 and a not in already and a not in new_ids]
+        if paused:
+            free = []
         new_ids.extend(free[:max(want_count - len(new_ids), 0)])
         if want_count > 0 and not new_ids and not (already
                                                    and allow_empty_pool):
+            if paused:
+                return _err('PAUSED', PAUSED_MSG, writer=writer, free_count=0)
             return _err('NO_FREE_ID', 'khong con hang PLANNED tu do de lease',
                         writer=writer, free_count=0)
     lease_ids = sorted(set(already + new_ids))
@@ -852,7 +881,8 @@ def apply_claim(reg, rows, writer, session, count=None, ids=None, now=None,
     reg.clear()
     reg.update(work)
     repair_first = [a for a in lease_ids if status_of.get(a) == 'REPAIR']
-    return {'ok': True, 'writer': writer, 'session': session,
+    paused_info = {'paused': True, 'paused_note': PAUSED_MSG} if paused else {}
+    return {**paused_info, 'ok': True, 'writer': writer, 'session': session,
             'epoch': new_lease['epoch'], 'claimed': new_ids,
             'leased_total': lease_ids, 'count': len(lease_ids),
             'claimed_at': new_lease['claimed_at'],
@@ -1028,7 +1058,8 @@ def cmd_claim(writer, count=None, ids=None, now=None, session=None,
     reg, rows = _load_all()
     sess = session or default_session(writer)
     res = apply_claim(reg, rows, writer, sess, count=count, ids=ids, now=now,
-                      ttl_hours=ttl_hours, label=label, adopt=adopt)
+                      ttl_hours=ttl_hours, label=label, adopt=adopt,
+                      paused=not control_enabled())
     if not res['ok']:
         return _out_err(res)
     save_registry(reg)
