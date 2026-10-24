@@ -102,7 +102,7 @@ Kinh nghiệm thực tế khi sử dụng xe máy thuê tại Hà Nội:
 
 - Trả xe đúng thời gian đã thỏa thuận.
 - Trả xe với mức nhiên liệu như khi nhận, hoặc thanh toán phần chênh lệch theo thỏa thuận.
-- Phí trễ 20.000đ mỗi giờ nếu trả muộn; trễ quá 6 tiếng có thể tính thêm một ngày thuê theo loại xe (khoảng 150.000 – 200.000đ/ngày).
+- Nếu dự kiến trả xe muộn, hãy báo trước để xác nhận thời gian và chi phí phát sinh (nếu có) theo hợp đồng hoặc thỏa thuận.
 - Cần kéo dài thời gian thuê? Báo sớm để sắp xếp.
 
 Tiền đặt cọc được hoàn trả theo điều khoản hợp đồng sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan.
@@ -141,7 +141,7 @@ Liên hệ Nguyễn Tú ngay qua số điện thoại đã lưu. Tùy tình hu�
 
 #### Trả xe trễ có bị tính phí không?
 
-Có. Phí trả xe trễ là 20.000đ mỗi giờ trễ. Nếu trễ hơn 6 tiếng, có thể tính thêm một ngày thuê theo loại xe, khoảng 150.000–200.000đ/ngày. Nếu có thay đổi lịch trình, hãy chủ động báo sớm để thỏa thuận lại thời gian trả xe.
+Có thể phát sinh chi phí theo hợp đồng hoặc thỏa thuận giữa hai bên. Nếu có thay đổi lịch trình, hãy chủ động báo sớm để xác nhận lại thời gian trả xe và các khoản phát sinh (nếu có).
 
 #### Có nên thuê xe số hay xe ga khi chưa quen đường?
 
