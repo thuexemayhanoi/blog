@@ -50,6 +50,11 @@
    "text": "Tiền chậm nộp phạt tính 0,05% mỗi ngày trên số tiền phạt chưa nộp. Ví dụ đúng: phạt 400.000 đồng, chậm 30 ngày thì tiền chậm nộp là 400.000 × 0,05% × 30 = 6.000 đồng (không phải 60.000 đồng).",
    "source_label": "Nghị định 118/2021/NĐ-CP",
    "source_url": "https://vanban.chinhphu.vn?pageid=27160&docid=204830"
+  },
+  "HELMET_QCVN_2021": {
+   "text": "Đính chính tên quy chuẩn cũ: QCVN 2:2021/BKHCN về mũ bảo hiểm cho người đi mô tô, xe máy được ban hành kèm Thông tư 04/2021/TT-BKHCN và thay thế QCVN 2:2008/BKHCN; câu “thay thế QCVN 02:2019/BKHCN” trong bài là không chính xác. Từ 01/01/2024, mũ sản xuất trong nước và nhập khẩu phải đáp ứng QCVN 2:2021/BKHCN trước khi lưu thông trên thị trường.",
+   "source_label": "Công báo Chính phủ — Thông tư 04/2021/TT-BKHCN",
+   "source_url": "https://congbao.chinhphu.vn/van-ban/thong-tu-so-04-2021-tt-bkhcn-34048/36343.htm"
   }
  },
  "posts": {
@@ -188,6 +193,12 @@
    "id": "BLG-01548",
    "codes": [
     "A1_AGE"
+   ]
+  },
+  "/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/": {
+   "id": "BLG-00634",
+   "codes": [
+    "HELMET_QCVN_2021"
    ]
   }
  }
