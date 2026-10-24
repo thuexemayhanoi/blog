@@ -39,6 +39,13 @@ Lệnh:
   verify   --backup FILE [--no-rescore]                              kiểm bài/evidence/matrix/registry/trang chuyển hướng + chấm lại
   rollback --backup FILE [--ids A,B] [--dry-run]                     khôi phục byte-exact (chỉ khi còn đúng bản đã ghi)
   refresh-data [--check]                                             làm mới dữ liệu phái sinh theo URL mới (xem refresh_data)
+  links-plan   [--mapping FILE] [--from-registry] [--jobs N] --out FILE   (pha 2) bài NGUYÊN VẸN còn liên kết tới URL cũ/thiếu dấu `/`
+  links-apply  --manifest FILE --approval-ref TEXT (--ids | --limit/--offset) [--batch-id] [--dry-run]   đổi ĐÚNG đích liên kết, ghi lại evidence
+  links-verify --backup FILE [--no-rescore] / links-rollback --backup FILE [--ids] [--dry-run]
+
+Pha 2 (internal link): bài khác trỏ tới URL cũ đã di trú (đang đi qua trang chuyển hướng) được trỏ thẳng tới URL mới. Mỗi bài chỉ đổi ĐÍCH
+của liên kết `](ĐÍCH)` / `href="ĐÍCH"` có trong ánh xạ (chữ liên kết, tiêu đề, # đoạn giữ nguyên); phần còn lại của bài giữ nguyên từng byte;
+evidence chấm lại độc lập (khối revision kind `link-retarget`); không đụng matrix. Bài evidence đã lệch hash bị TỪ CHỐI như ở pha 1.
 """
 import argparse
 import collections
@@ -818,6 +825,445 @@ def refresh_data(root, check=False):
     return changed
 
 
+# ------------------------------------------------------------------ pha 2: đổi ĐÍCH liên kết nội bộ
+
+LINK_MANIFEST_SCHEMA = 'retarget-manifest/1'
+LINK_BACKUP_SCHEMA = 'retarget-backup/1'
+LINK_BACKUP_DIR = 'reports/qa-audit/links'
+LINK_KIND = 'link-retarget'
+MASK_RE = re.compile(r'(\]\()[^)]*(\))|(href=")[^"]*(")')
+
+
+def mapping_digest(mp):
+    return sha(json.dumps(mp, ensure_ascii=False, sort_keys=True, separators=(',', ':')).encode('utf-8'))
+
+
+def _link_res(mp):
+    keys = '|'.join(re.escape(k) for k in sorted(mp, key=len, reverse=True))
+    md = re.compile(r'(\]\()(%s)((?:#[^)\s"]*)?(?:\s+"[^"]*")?\))' % keys)
+    html = re.compile(r'(href=")(%s)((?:#[^"]*)?")' % keys)
+    return md, html
+
+
+def retarget_text(text, mp):
+    """Đổi đích liên kết có trong ánh xạ. Trả (văn bản mới, {đích cũ: số lần})."""
+    if not mp:
+        return text, {}
+    md, html = _link_res(mp)
+    counts = collections.Counter()
+
+    def sub(m):
+        counts[m.group(2)] += 1
+        return m.group(1) + mp[m.group(2)] + m.group(3)
+
+    out = html.sub(sub, md.sub(sub, text))
+    return out, dict(counts)
+
+
+def mask_links(text):
+    """Văn bản với MỌI đích liên kết thay bằng chỗ giữ: hai văn bản bằng nhau sau mask <=> chỉ khác đích liên kết."""
+    return MASK_RE.sub(lambda m: (m.group(1) + '#' + m.group(2)) if m.group(1) else (m.group(3) + '#' + m.group(4)), text)
+
+
+def derive_links(ctx, aid, mp, score=True):
+    row = ctx.by_id.get(aid)
+    if row is None or row['status'] != 'PUBLISHED':
+        raise Refuse('NOT_PUBLISHED', '%s khong phai hang PUBLISHED' % aid)
+    path = row.get('output_path') or ''
+    if not R.POST_RE.match(path):
+        raise Refuse('BAD_OUTPUT_PATH', '%s: output_path %r khong nam trong _posts/' % (aid, path))
+    if aid in R.lease_ids(ctx.root):
+        raise Refuse('LEASED', '%s nam trong lease writer — khong sua' % aid)
+    if R.draft_exists(ctx.root, row):
+        raise Refuse('HAS_DRAFT', '%s co draft cung slug/article_id — khong sua' % aid)
+    ev_path = ctx.root / 'data/qa' / (aid + '.json')
+    if not ev_path.is_file():
+        raise Refuse('NO_EVIDENCE', '%s khong co evidence' % aid)
+    old_ev_bytes = ev_path.read_bytes()
+    old_ev = json.loads(old_ev_bytes)
+    post_path = ctx.root / path
+    if not post_path.is_file():
+        raise Refuse('NO_POST', '%s: khong co file bai %s' % (aid, path))
+    old_post = post_path.read_bytes()
+    old_text = read_text_exact(old_post)
+    new_text, counts = retarget_text(old_text, mp)
+    if not counts:
+        raise Refuse('NO_LINKS', '%s: khong co lien ket nao thuoc anh xa' % aid)
+    if not (sha(old_post) == old_ev.get('content_sha256') and A.fingerprint(row) == old_ev.get('matrix_row_sha256')
+            and old_ev.get('article_id') == aid and old_ev.get('source_path') == path and old_ev.get('result') == 'PASS'):
+        raise Refuse('EVIDENCE_NOT_INTACT', '%s: evidence khong khop byte bai/hang matrix hien tai — xu ly bang '
+                     'reattest-legacy-qa.py (chu duyet) truoc, khong sua lien ket' % aid)
+    if mask_links(old_text) != mask_links(new_text):
+        raise Refuse('POST_DIFF_NOT_LINKS_ONLY', '%s: bai moi khac bai cu o noi khac ngoai dich lien ket' % aid)
+    new_post = new_text.encode('utf-8')
+    d = Derived()
+    d.aid, d.old_row, d.new_row, d.old_path, d.new_path = aid, row, row, path, path
+    d.old_url = d.new_url = d.old_slug = d.new_slug = ''
+    d.old_post, d.new_post, d.old_ev_bytes, d.old_ev, d.url_drift = old_post, new_post, old_ev_bytes, old_ev, False
+    d.before = d.after = None
+    d.entry = counts
+    if not score:
+        return d
+    d.before = R.score_candidate(ctx, row, old_post)
+    d.after = R.score_candidate(ctx, row, new_post)
+    after = d.after
+    if (after.get('content_sha256') != sha(new_post) or after.get('matrix_row_sha256') != A.fingerprint(row)
+            or after.get('article_id') != aid or after.get('source_path') != path):
+        raise Refuse('FRESH_QA_UNBOUND', '%s: diem cham khong buoc dung byte/hang ung vien' % aid)
+    if not R.score_ok(after):
+        failed = sorted(k for k, v in after.get('checks', {}).items() if not v)
+        raise Refuse('FRESH_QA_NOT_ELIGIBLE', '%s: cham lai doc lap = %s q=%s s=%s (failed_checks=%s) — giu nguyen lien ket'
+                     % (aid, after.get('result'), after.get('quality'), after.get('seo'), failed), failed_checks=failed)
+    flipped = sorted(k for k, v in d.before.get('checks', {}).items() if v and not after.get('checks', {}).get(k))
+    if flipped or after['quality'] < d.before.get('quality', 0) or after['seo'] < d.before.get('seo', 0):
+        raise Refuse('REGRESSION', '%s: doi lien ket lam tut tieu chi %s hoac diem (q %s->%s, s %s->%s)'
+                     % (aid, flipped, d.before.get('quality'), after['quality'], d.before.get('seo'), after['seo']),
+                     flipped=flipped)
+    return d
+
+
+def build_links_evidence(ctx, d, mp_digest):
+    old_ev = d.old_ev
+    if not old_ev.get('scored_at'):
+        raise Refuse('NO_HISTORICAL_SCORED_AT', '%s: evidence cu khong co scored_at lich su de giu' % d.aid)
+    new = copy.deepcopy(d.after)
+    for k in ('scored_at', 'published_at'):
+        if old_ev.get(k):
+            new[k] = old_ev[k]
+    for k, v in old_ev.items():
+        if k not in new and k != 'revision':
+            new[k] = copy.deepcopy(v)
+    history = []
+    prev = old_ev.get('revision')
+    if isinstance(prev, dict):
+        history = list(prev.get('history') or []) + [{k: v for k, v in prev.items() if k != 'history'}]
+    new['revision'] = {
+        'schema': 'revision/1', 'kind': LINK_KIND, 'purpose': ctx.purpose, 'reason': ctx.reason,
+        'approval_ref': ctx.approval_ref, 'batch_id': ctx.batch_id, 'revised_at': now_iso(),
+        'previous_evidence_sha256': sha(d.old_ev_bytes),
+        'previous_content_sha256': old_ev['content_sha256'], 'previous_matrix_row_sha256': old_ev['matrix_row_sha256'],
+        'new_content_sha256': new['content_sha256'], 'mapping_sha256': mp_digest,
+        'links_retargeted': sum(d.entry.values()), 'targets': dict(sorted(d.entry.items())),
+        'previous_scores': {k: old_ev.get(k) for k in ('quality', 'seo', 'grade')},
+        'scorer': new.get('scorer'), 'thresholds': {'quality_min': ctx.op.QUALITY_MIN, 'seo_min': ctx.op.SEO_MIN},
+        'tool': 'scripts/factory/migrate-slug-urls.py links-apply', 'tool_commit': ctx.tool_commit, **code_sha(ctx),
+        'note': ('chi doi DICH lien ket noi bo (chu lien ket, tieu de, # doan va moi byte khac giu nguyen); '
+                 'scored_at/published_at o cap tren giu moc lich su goc; cham diem doc lap luc revised_at'),
+    }
+    if history:
+        new['revision']['history'] = history
+    return new
+
+
+def default_mapping(root):
+    """Ánh xạ mặc định pha 2: URL cũ -> mới theo registry (đã di trú)."""
+    return mapping(pathlib.Path(root))
+
+
+_LINK_CTX = None
+_LINK_MAP = None
+
+
+def _links_worker(aid):
+    try:
+        d = derive_links(_LINK_CTX, aid, _LINK_MAP)
+        return aid, links_entry(d), None
+    except Refuse as e:
+        return aid, None, {'id': aid, 'decision': e.code, 'reason': e.msg}
+
+
+def links_entry(d):
+    return {'id': d.aid, 'decision': ELIGIBLE, 'path': d.old_path, 'targets': dict(sorted(d.entry.items())),
+            'base_post_sha256': sha(d.old_post), 'new_post_sha256': sha(d.new_post),
+            'old_evidence_sha256': sha(d.old_ev_bytes), 'before': R.summary(d.before), 'after': R.summary(d.after),
+            'before_scores': {'quality': d.before.get('quality'), 'seo': d.before.get('seo')}}
+
+
+def candidate_ids(ctx, mp):
+    """Quét rẻ (không chấm điểm): ID PUBLISHED có ít nhất một liên kết thuộc ánh xạ."""
+    md, html = _link_res(mp)
+    out = []
+    for r in ctx.rows:
+        if r['status'] != 'PUBLISHED' or not R.POST_RE.match(r.get('output_path') or ''):
+            continue
+        p = ctx.root / r['output_path']
+        if not p.is_file():
+            continue
+        t = p.read_text(encoding='utf-8')
+        if md.search(t) or html.search(t):
+            out.append(r['id'])
+    return sorted(out)
+
+
+def make_links_plan(ctx, mp, ids=None, jobs=1):
+    global _LINK_CTX, _LINK_MAP
+    ids = sorted(ids if ids is not None else candidate_ids(ctx, mp))
+    _LINK_CTX, _LINK_MAP = ctx, mp
+    if jobs > 1:
+        import multiprocessing
+        with multiprocessing.get_context('fork').Pool(jobs) as pool:
+            results = pool.map(_links_worker, ids, chunksize=8)
+    else:
+        results = [_links_worker(a) for a in ids]
+    entries, excluded = {}, collections.defaultdict(list)
+    for aid, ent, err in results:
+        if ent is not None:
+            entries[aid] = ent
+        else:
+            entries[aid] = err
+            excluded[err['decision']].append(aid)
+    eligible = sorted(i for i, e in entries.items() if e['decision'] == ELIGIBLE)
+    return {
+        'schema': LINK_MANIFEST_SCHEMA, 'authority': 'PROPOSAL ONLY — links-apply kiem lai moi dieu kien tu git + byte hien tai',
+        'head': ctx.head, 'head_bound': True, 'matrix_sha256': sha((ctx.root / MATRIX_REL).read_bytes()),
+        'thresholds': {'quality_min': ctx.op.QUALITY_MIN, 'seo_min': ctx.op.SEO_MIN}, **code_sha(ctx),
+        'mapping': dict(sorted(mp.items())), 'mapping_sha256': mapping_digest(mp),
+        'counts': {'mapping': len(mp), 'candidates': len(entries), 'eligible': len(eligible),
+                   'links': sum(sum(e['targets'].values()) for e in entries.values() if e['decision'] == ELIGIBLE),
+                   'decisions': dict(collections.Counter(e['decision'] for e in entries.values()))},
+        'eligible': eligible, 'excluded': {k: sorted(v) for k, v in sorted(excluded.items())}, 'entries': entries,
+    }
+
+
+def check_links_manifest(manifest):
+    if manifest.get('schema') != LINK_MANIFEST_SCHEMA:
+        raise Refuse('BAD_MANIFEST', 'schema manifest khong dung')
+    if not isinstance(manifest.get('entries'), dict) or not isinstance(manifest.get('eligible'), list) \
+            or not isinstance(manifest.get('mapping'), dict):
+        raise Refuse('BAD_MANIFEST', 'manifest thieu entries/eligible/mapping')
+    if manifest.get('head_bound') is not True:
+        raise Refuse('MANIFEST_NOT_HEAD_BOUND', 'manifest khong gan voi mot commit sach — chay lai links-plan tren cay sach')
+    if manifest.get('mapping_sha256') != mapping_digest(manifest['mapping']):
+        raise Refuse('BAD_MANIFEST', 'mapping_sha256 khong khop anh xa trong manifest')
+
+
+def apply_links(ctx, manifest, ids, dry_run=False, skip_ineligible=False):
+    if not (ctx.approval_ref or '').strip():
+        raise Refuse('NO_APPROVAL', '--approval-ref la bat buoc (ghi vao provenance)')
+    check_links_manifest(manifest)
+    for k in ('scorer_code_sha256', 'business_facts_sha256', 'taxonomy_sha256'):
+        if manifest.get(k) != code_sha(ctx).get(k):
+            raise Refuse('SCORER_CHANGED_SINCE_PLAN', '%s khac manifest — chay lai links-plan' % k)
+    ids = sorted(set(ids))
+    if not ids:
+        raise Refuse('NO_IDS', 'khong co ID nao duoc chon')
+    if len(ids) > MAX_BATCH:
+        raise Refuse('BATCH_TOO_LARGE', 'toi da %d ID/lo' % MAX_BATCH)
+    if ctx.batch_id is not None and not R.BATCH_ID_RE.match(ctx.batch_id):
+        raise Refuse('BAD_BATCH_ID', 'batch-id chi gom A-Za-z0-9._- (toi da 80 ky tu)')
+    if not ctx.batch_id:
+        ctx.batch_id = 'links-%s-%s-%s' % (datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%d'), ids[0], ids[-1])
+    ctx.purpose = 'internal-link-retarget'
+    ctx.reason = ('Tro lien ket noi bo thang toi URL moi (sau di tru slug d -> d, hoac them dau / cuoi) thay vi qua trang chuyen '
+                  'huong/301 cua may chu. Issue #77.')
+    mp = manifest['mapping']
+    prepared, skipped, ineligible = [], [], []
+    for aid in ids:
+        e = manifest['entries'].get(aid)
+        try:
+            if e is None or aid not in manifest['eligible'] or e.get('decision') != ELIGIBLE:
+                raise Refuse('NOT_ELIGIBLE', '%s khong thuoc danh sach du dieu kien cua manifest' % aid)
+            row = ctx.by_id.get(aid)
+            cur = (ctx.root / row['output_path']).read_bytes() if row else b''
+            if sha(cur) == e['new_post_sha256']:
+                skipped.append(aid)                      # da la ban moi
+                continue
+            if sha(cur) != e['base_post_sha256']:
+                raise Refuse('POST_CHANGED_SINCE_PLAN', '%s: bai da doi tu luc plan' % aid)
+            ev_p = ctx.root / 'data/qa' / (aid + '.json')
+            if not ev_p.is_file() or sha(ev_p.read_bytes()) != e['old_evidence_sha256']:
+                raise Refuse('EVIDENCE_CHANGED_SINCE_PLAN', '%s: evidence da doi tu luc plan' % aid)
+            d = derive_links(ctx, aid, mp)
+            if sha(d.new_post) != e['new_post_sha256'] or R.summary(d.after) != e['after']:
+                raise Refuse('INPUT_CHANGED_SINCE_PLAN', '%s: byte/diem ung vien khac manifest' % aid)
+            prepared.append(d)
+        except Refuse as ex:
+            if skip_ineligible and ex.code in SKIPPABLE + ('NO_LINKS',):
+                ineligible.append({'id': aid, 'code': ex.code, 'reason': ex.msg})
+                continue
+            raise
+    report = {'ok': True, 'batch_id': ctx.batch_id, 'dry_run': dry_run,
+              'would_write' if dry_run else 'written': [d.aid for d in prepared],
+              'already_current': skipped, 'skipped_ineligible': ineligible}
+    if dry_run or not prepared:
+        return report
+    if ctx.guard:
+        ctx.guard()
+    root = ctx.root
+    backup_rel = '%s/%s.json' % (LINK_BACKUP_DIR, ctx.batch_id)
+    backup_path = root / backup_rel
+    if backup_path.parent.resolve() != (root / LINK_BACKUP_DIR).resolve():
+        raise Refuse('BAD_BATCH_ID', 'sao luu phai nam truc tiep trong %s' % LINK_BACKUP_DIR)
+    if backup_path.exists():
+        raise Refuse('BATCH_EXISTS', 'sao luu %s da ton tai — dung batch-id khac' % backup_rel)
+    digest = mapping_digest(mp)
+    backup = {'schema': LINK_BACKUP_SCHEMA, 'batch_id': ctx.batch_id, 'created_at': now_iso(), 'approval_ref': ctx.approval_ref,
+              'purpose': ctx.purpose, 'reason': ctx.reason, 'head_at_apply': ctx.head, 'tool_commit': ctx.tool_commit,
+              'mapping': {k: v for k, v in sorted(mp.items()) if any(k in d.entry for d in prepared)},
+              'mapping_sha256': digest, 'entries': {}}
+    blobs = {}
+    for d in prepared:
+        new_ev = build_links_evidence(ctx, d, digest)
+        new_ev_bytes = R.evidence_text(new_ev).encode('utf-8')
+        blobs[d.aid] = new_ev_bytes
+        backup['entries'][d.aid] = {
+            'path': d.old_path, 'targets': dict(sorted(d.entry.items())),
+            'old_post_text': d.old_post.decode('utf-8'), 'old_post_sha256': sha(d.old_post), 'new_post_sha256': sha(d.new_post),
+            'old_evidence_text': d.old_ev_bytes.decode('utf-8'), 'old_evidence_sha256': sha(d.old_ev_bytes),
+            'new_evidence_sha256': sha(new_ev_bytes)}
+    atomic_write(backup_path, doc_text(backup).encode('utf-8'))
+    if json.loads(backup_path.read_text(encoding='utf-8')) != json.loads(doc_text(backup)):
+        backup_path.unlink()
+        raise Refuse('BACKUP_READBACK_FAILED', 'doc lai sao luu khong khop — chua sua file nao')
+    attempted = []
+    try:
+        for d in prepared:
+            post_p, ev_p = root / d.old_path, root / 'data/qa' / (d.aid + '.json')
+            if post_p.read_bytes() != d.old_post or ev_p.read_bytes() != d.old_ev_bytes:
+                raise Refuse('FILES_CHANGED_DURING_APPLY', '%s: bai/evidence doi trong luc apply' % d.aid)
+            attempted.append(d.aid)
+            atomic_write(post_p, d.new_post)
+            atomic_write(ev_p, blobs[d.aid])
+            if sha(post_p.read_bytes()) != sha(d.new_post) or sha(ev_p.read_bytes()) != sha(blobs[d.aid]):
+                raise Refuse('WRITE_MISMATCH', '%s: doc lai khong khop' % d.aid)
+        ctx2 = make_ctx(root, ctx.approval_ref, ctx.batch_id, ctx.purpose, ctx.reason)
+        problems = verify_links_backup(ctx2, backup, rescore=True)
+        if problems:
+            raise Refuse('POST_VERIFY_FAILED', '; '.join(problems[:5]), problems=problems)
+    except BaseException as exc:
+        try:
+            rollback_links(root, backup, ids=set(attempted), force=True)
+        except BaseException:
+            pass
+        left = [a for a in attempted if (root / 'data/qa' / (a + '.json')).read_bytes().decode('utf-8') != backup['entries'][a]['old_evidence_text']
+                or (root / backup['entries'][a]['path']).read_bytes().decode('utf-8') != backup['entries'][a]['old_post_text']]
+        if left:
+            raise Refuse('PARTIAL_APPLY_BACKUP_KEPT', 'apply loi (%s: %s) va chua ve byte cu: %s — GIU sao luu %s'
+                         % (type(exc).__name__, exc, ', '.join(left[:5]), backup_path.name), left=left) from exc
+        backup_path.unlink()
+        raise
+    report['backup'] = backup_rel
+    return report
+
+
+def check_links_backup_shape(backup):
+    if backup.get('schema') != LINK_BACKUP_SCHEMA:
+        raise Refuse('BAD_BACKUP', 'schema sao luu khong dung')
+    if not isinstance(backup.get('entries'), dict) or not backup['entries'] or not isinstance(backup.get('mapping'), dict):
+        raise Refuse('BAD_BACKUP', 'sao luu khong co entries/mapping')
+    for aid, b in backup['entries'].items():
+        if not R.AID_RE.match(aid) or not isinstance(b, dict) or not R.POST_RE.match(b.get('path', '')):
+            raise Refuse('BAD_BACKUP', 'entry %r khong hop le' % (aid,))
+        for k in ('old_post_text', 'old_post_sha256', 'new_post_sha256', 'old_evidence_text', 'old_evidence_sha256',
+                  'new_evidence_sha256'):
+            if not isinstance(b.get(k), str):
+                raise Refuse('BAD_BACKUP', '%s: thieu %s' % (aid, k))
+
+
+def verify_links_backup(ctx, backup, rescore=True):
+    check_links_backup_shape(backup)
+    problems = []
+    root = ctx.root
+    mp = backup['mapping']
+    for aid, b in sorted(backup['entries'].items()):
+        post_p, ev_p = root / b['path'], root / 'data/qa' / (aid + '.json')
+        if not post_p.is_file() or not ev_p.is_file():
+            problems.append('%s: thieu bai hoac evidence' % aid)
+            continue
+        post_raw, ev_raw = post_p.read_bytes(), ev_p.read_bytes()
+        if sha(post_raw) != b['new_post_sha256']:
+            problems.append('%s: bai khac ban da ghi' % aid)
+            continue
+        if sha(ev_raw) != b['new_evidence_sha256']:
+            problems.append('%s: evidence khac ban da ghi' % aid)
+            continue
+        old_text = b['old_post_text']
+        if sha(old_text.encode('utf-8')) != b['old_post_sha256']:
+            problems.append('%s: sao luu bai cu hong' % aid)
+            continue
+        replay, counts = retarget_text(old_text, mp)
+        if replay.encode('utf-8') != post_raw:
+            problems.append('%s: bai hien tai != bai cu + doi dich lien ket theo anh xa' % aid)
+        if mask_links(old_text) != mask_links(post_raw.decode('utf-8')):
+            problems.append('%s: bai doi o noi khac ngoai dich lien ket' % aid)
+        if counts != b['targets']:
+            problems.append('%s: so lien ket da doi khac sao luu' % aid)
+        ev = json.loads(ev_raw)
+        row = ctx.by_id.get(aid)
+        if row is None or row['status'] != 'PUBLISHED' or row.get('output_path') != b['path']:
+            problems.append('%s: khong con PUBLISHED / output_path doi' % aid)
+            continue
+        if ev.get('content_sha256') != sha(post_raw):
+            problems.append('%s: content_sha256 khong khop bai hien tai' % aid)
+        if ev.get('matrix_row_sha256') != A.fingerprint(row):
+            problems.append('%s: matrix_row_sha256 khong khop hang hien tai' % aid)
+        if ev.get('source_path') != row['output_path'] or ev.get('article_id') != aid:
+            problems.append('%s: source_path/article_id trong evidence sai' % aid)
+        if not R.score_ok(ev):
+            problems.append('%s: diem/cong QA khong dat nguong' % aid)
+        rev = ev.get('revision') or {}
+        old_ev = json.loads(b['old_evidence_text'])
+        old_ev_sha = sha(b['old_evidence_text'].encode('utf-8'))
+        if (b['old_evidence_sha256'] != old_ev_sha or rev.get('kind') != LINK_KIND
+                or rev.get('previous_evidence_sha256') != old_ev_sha
+                or rev.get('previous_content_sha256') != old_ev.get('content_sha256')
+                or rev.get('previous_matrix_row_sha256') != old_ev.get('matrix_row_sha256')
+                or rev.get('new_content_sha256') != ev.get('content_sha256')
+                or rev.get('mapping_sha256') != backup.get('mapping_sha256')
+                or not (rev.get('approval_ref') or '').strip()):
+            problems.append('%s: provenance khong khop sao luu' % aid)
+        for k in ('scored_at', 'published_at'):
+            if old_ev.get(k) and ev.get(k) != old_ev.get(k):
+                problems.append('%s: %s lich su khong duoc giu nguyen' % (aid, k))
+        lost = sorted(k for k in old_ev if k not in ev and k != 'revision')
+        if lost:
+            problems.append('%s: mat chu thich lich su cua evidence cu: %s' % (aid, ', '.join(lost[:5])))
+        if rescore:
+            diff = R.score_diff(ev, R.score_candidate(ctx, row, post_raw))
+            if diff:
+                problems.append('%s: diem trong evidence khac diem cham lai doc lap (%s)' % (aid, ', '.join(diff[:6])))
+    return problems
+
+
+def rollback_links(root, backup, ids=None, dry_run=False, force=False):
+    check_links_backup_shape(backup)
+    root = pathlib.Path(root)
+    if ids is not None:
+        unknown = sorted(set(ids) - set(backup['entries']))
+        if unknown:
+            raise Refuse('UNKNOWN_IDS', 'ID khong co trong sao luu: %s' % unknown[:5])
+    out = {'restored': [], 'skipped_changed_since_apply': [], 'dry_run': dry_run}
+    for aid, b in sorted(backup['entries'].items()):
+        if ids is not None and aid not in ids:
+            continue
+        old_post, old_ev = b['old_post_text'].encode('utf-8'), b['old_evidence_text'].encode('utf-8')
+        if sha(old_post) != b['old_post_sha256'] or sha(old_ev) != b['old_evidence_sha256']:
+            raise Refuse('BACKUP_CORRUPT', '%s: sao luu hong' % aid)
+        post_p, ev_p = root / b['path'], root / 'data/qa' / (aid + '.json')
+        plan = []
+        for p, old, new_sha, old_sha in ((post_p, old_post, b['new_post_sha256'], b['old_post_sha256']),
+                                         (ev_p, old_ev, b['new_evidence_sha256'], b['old_evidence_sha256'])):
+            cur = sha(p.read_bytes()) if p.is_file() else None
+            if cur == old_sha:
+                continue
+            if cur != new_sha and not force:
+                plan = None
+                break
+            plan.append((p, old))
+        if plan is None:
+            out['skipped_changed_since_apply'].append(aid)
+            continue
+        if plan:
+            if not dry_run:
+                for p, old in plan:
+                    atomic_write(p, old)
+                    if sha(p.read_bytes()) != sha(old):
+                        raise Refuse('ROLLBACK_MISMATCH', '%s: khoi phuc khong khop' % aid)
+            out['restored'].append(aid)
+    out['ok'] = True
+    return out
+
+
 # ------------------------------------------------------------------ CLI
 
 def _ids(v):
@@ -850,6 +1296,29 @@ def main(argv=None):
     r.add_argument('--dry-run', action='store_true')
     rd = sub.add_parser('refresh-data')
     rd.add_argument('--check', action='store_true')
+    lp = sub.add_parser('links-plan')
+    lp.add_argument('--out')
+    lp.add_argument('--mapping', default='', help='JSON {dich_cu: dich_moi} bo sung (vd them dau / cuoi)')
+    lp.add_argument('--no-registry', action='store_true', help='khong dung anh xa registry mac dinh')
+    lp.add_argument('--ids', default='')
+    lp.add_argument('--jobs', type=int, default=1)
+    lp.add_argument('--allow-dirty', action='store_true')
+    la = sub.add_parser('links-apply')
+    la.add_argument('--manifest', required=True)
+    la.add_argument('--approval-ref', default='')
+    la.add_argument('--ids', default='')
+    la.add_argument('--limit', type=int, default=0)
+    la.add_argument('--offset', type=int, default=0)
+    la.add_argument('--batch-id', default=None)
+    la.add_argument('--dry-run', action='store_true')
+    la.add_argument('--skip-ineligible', action='store_true')
+    lv = sub.add_parser('links-verify')
+    lv.add_argument('--backup', required=True)
+    lv.add_argument('--no-rescore', action='store_true')
+    lr = sub.add_parser('links-rollback')
+    lr.add_argument('--backup', required=True)
+    lr.add_argument('--ids', default=None)
+    lr.add_argument('--dry-run', action='store_true')
     a = ap.parse_args(argv)
     try:
         if a.cmd == 'plan':
@@ -881,6 +1350,50 @@ def main(argv=None):
             ctx = make_ctx(ROOT, a.approval_ref, a.batch_id)
             ctx.guard = lambda: R.require_clean_tree(ROOT)
             print(json.dumps(apply_batch(ctx, manifest, ids, a.dry_run, a.skip_ineligible), ensure_ascii=False, indent=2))
+            return 0
+        if a.cmd == 'links-plan':
+            out_path = os.path.abspath(a.out) if a.out else None
+            extra = json.loads(pathlib.Path(a.mapping).read_text(encoding='utf-8')) if a.mapping else {}
+            dirty = A.dirty_inputs(ROOT)
+            if dirty and not a.allow_dirty:
+                R.require_clean_tree(ROOT)
+            ctx = make_ctx(ROOT)
+            mp = dict(extra if a.no_registry else {**default_mapping(ROOT), **extra})
+            if not mp:
+                raise Refuse('EMPTY_MAPPING', 'anh xa rong (chua di tru bai nao va khong co --mapping)')
+            manifest = make_links_plan(ctx, mp, _ids(a.ids) or None, max(1, a.jobs))
+            manifest['head_bound'] = not dirty
+            if out_path:
+                atomic_write(out_path, doc_text(manifest).encode('utf-8'))
+                print(json.dumps({'ok': True, 'out': out_path, 'counts': manifest['counts'],
+                                  'excluded': {k: len(x) for k, x in manifest['excluded'].items()}}, ensure_ascii=False, indent=2))
+            else:
+                print(doc_text(manifest), end='')
+            return 0
+        if a.cmd == 'links-apply':
+            manifest = json.loads(pathlib.Path(a.manifest).read_text(encoding='utf-8'))
+            R.require_clean_tree(ROOT)
+            check_links_manifest(manifest)
+            ids = _ids(a.ids)
+            if not ids:
+                if a.limit <= 0:
+                    raise Refuse('NO_IDS', 'can --ids hoac --limit N [--offset K]')
+                ids = sorted(manifest['eligible'])[a.offset:a.offset + a.limit]
+            ctx = make_ctx(ROOT, a.approval_ref, a.batch_id)
+            ctx.guard = lambda: R.require_clean_tree(ROOT)
+            print(json.dumps(apply_links(ctx, manifest, ids, a.dry_run, a.skip_ineligible), ensure_ascii=False, indent=2))
+            return 0
+        if a.cmd in ('links-verify', 'links-rollback'):
+            backup = json.loads(pathlib.Path(a.backup).read_text(encoding='utf-8'))
+            if a.cmd == 'links-verify':
+                problems = verify_links_backup(make_ctx(ROOT), backup, rescore=not a.no_rescore)
+                print(json.dumps({'ok': not problems, 'checked': len(backup['entries']), 'problems': problems},
+                                 ensure_ascii=False, indent=2))
+                return 0 if not problems else 1
+            ids = set(_ids(a.ids)) if a.ids is not None else None
+            if a.ids is not None and not ids:
+                raise Refuse('BAD_IDS', '--ids rong: bo --ids de khoi phuc ca lo')
+            print(json.dumps(rollback_links(ROOT, backup, ids, a.dry_run), ensure_ascii=False, indent=2))
             return 0
         if a.cmd == 'refresh-data':
             changed = refresh_data(ROOT, a.check)
