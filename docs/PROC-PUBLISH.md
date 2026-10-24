@@ -9,7 +9,7 @@ Mục tiêu: xuất bản liên tục từng cặp 2 bài (chunk_size trong `dat
 EXTERNAL AI (writer/coordinator)      ← viết prose, điều phối
    |  commit/push draft vào _drafts/ (1..10 ID/push — turbo queue
    |  write-ahead, consume theo pair 2) qua scripts/factory/writer-session.py
-   |  (CAS, tối đa 3 slot W1/W2/W3, mỗi slot một phiên); cần git + Python 3
+   |  (CAS, tối đa 12 slot W1…W12, mỗi slot một phiên); cần git + Python 3
    v
 GitHub Actions factory-publish.yml ← MÔI TRƯỜNG THỰC THI
    |  PUSH main paths _drafts/** TỰ ĐỘNG CHẠY ĐƯỜNG NÓNG:
@@ -94,7 +94,7 @@ quền GitHub) hoặc theo docs/RECOVERY.md:
 |---|---|---|
 | `status` | `factory-operator.py status` | read-only; in checkpoint/txn/lock/matrix |
 | `recover` | `factory-operator.py recover` | phục hồi transaction treo; ownership không rõ → STOP |
-| `refill` | `factory-operator.py refill` | refill canonical (gate G1-G8; semantic SUCCESS bắt buộc tạo work thật; hết candidate STAGED → NEEDS_TOPIC_EXPANSION, KHÔNG filler) |
+| `refill` | `factory-operator.py refill` | refill canonical (gate G1-G9; semantic SUCCESS bắt buộc tạo work thật; hết candidate STAGED → NEEDS_TOPIC_EXPANSION, KHÔNG filler) |
 | `diagnostics` | `validate.py --scope chunk` + `queue.py --stats` | chẩn đoán read-only |
 
 Các op `next`/`qa`/`publish` KHÔNG còn là action dispatch — các bài

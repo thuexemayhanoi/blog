@@ -3,14 +3,15 @@ name: Factory Publish (chunked)
 # Ported from thuexemayhanoi/vanchinh .github/workflows/factory-publish.yml
 # (SOURCE OF TRUTH) and adapted to /blog. Automated, deterministic publish
 # pipeline. NO AI, NO API keys, NO secrets, NO network except git to this
-# repository. The external WRITER(s) (any AI provider, up to 3 slots
-# W1/W2/W3) commit drafts under _drafts/; WRITERS ARE NOT PUBLISHERS — only
+# repository. The external WRITER(s) (any AI provider, up to the
+# slots in data/factory/writer-pool.json, now W1..W12) commit drafts under _drafts/; WRITERS ARE NOT PUBLISHERS — only
 # this workflow mutates production state, one queue run at a time.
 #
 # TURBO QUEUE CONTRACT (write-ahead queue, ported from /vanchinh and
 # hardened for concurrent writers):
-#   - one writer push queues 1..10 drafts (10 = lease limit per writer; up
-#     to 3 writers x 10 = max 30 live ids in flight). The push drafts are
+#   - one writer push queues 1..10 drafts (10 = lease limit per writer; the
+#     pool allows max_slots x 10 live ids in flight, while ONE run only takes
+#     max_queue_per_run = 30 of them, the rest waits for the next run). The push drafts are
 #     validated STRICTLY (refuse fail-closed: draft must have article_id,
 #     no duplicate ids, no unknown matrix ids, no EXISTING/BLOCKED/REVIEW
 #     rows, max 10, lease owner = declared writer);

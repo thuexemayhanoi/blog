@@ -7,7 +7,7 @@ Mỗi AI vẫn có **một session và một slot độc quyền khi giữ bài*
 không cần đợi W1/W2/W3 hết lease: `begin --slot auto` chọn W4 (hoặc slot trống
 khác). Quyền sở hữu vẫn khóa theo BLG-ID, tối đa 10 ID/phiên; CAS và publisher
 duy nhất không thay đổi. Các hướng dẫn bên dưới nói "3 slot" là tài liệu legacy
-cho W1–W3, **không phải giới hạn mới**.
+cho W1–W3, **không phải giới hạn mới**. Nguồn duy nhất của mọi giới hạn pool: `data/factory/writer-pool.json` (`max_slots`, `max_ids_per_writer`, `max_queue_per_push`, `max_queue_per_run`); `test_writer_pool_contract` khoá code và docs khớp nhau.
 
 Ví dụ cho Mistral khi W1 đang thuộc Claude:
 
@@ -30,7 +30,7 @@ Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. 
 (chống double-spend, SHA evidence, 4 tầng test, soak): docs/ADVANCED-FACTORY-RECOVERY.md.
 
 **AI writer mới vào việc? Đọc `docs/AI-WRITER-QUICKSTART.md` (một trang). Kiến trúc đa-writer:
-`docs/MULTI-WRITER-ARCHITECTURE.md`.** Provider-neutral: tối đa 3 AI bất kỳ cùng viết (slot W1/W2/W3).
+`docs/MULTI-WRITER-ARCHITECTURE.md`.** Provider-neutral: nhiều AI bất kỳ cùng viết (slot W1..W12 theo `data/factory/writer-pool.json`; W1/W2/W3 là các slot đầu tiên).
 
 ## Mô hình workflow (docs/factory-workflow-contract.md) — 7 hợp đồng + 1 helper
 
@@ -61,7 +61,7 @@ Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. 
 - `production-watchdog.yml` — cron `*/30`, READ-ONLY `--dry-run` (báo WOULD WAKE, không tự kích hoạt).
 - `factory-refill.yml` — refill DEDICATED, PUSH-DRIVEN + dispatch: khi writer đẩy batch chủ đề thật
   `data/factory/refill-batches/**` hoặc bump `data/factory/refill-request.json` thì workflow tự stage
-  (gate G1-G8) → `factory-operator.py refill` (chỉ materialize khi claimable PLANNED < min_ready_queue)
+  (gate G1-G9) → `factory-operator.py refill` (chỉ materialize khi claimable PLANNED < min_ready_queue)
   → commit ĐỒNG BỘ ledger, seed, matrix, checkpoint, reports trong MỘT commit đã validate; CÙNG
   concurrency group `factory-publish` với publisher (hai run xếp hàng, KHÔNG mutate state cùng
   lúc). KHÔNG claim, KHÔNG publish bài.
@@ -69,11 +69,11 @@ Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. 
   `data/factory/extract-request[-Wn].json` → commit `reports/factory/extracted-rows[-Wn].json`. Chỉ
   đọc matrix; mỗi slot dùng file RIÊNG để 3 writer không đè nhau.
 
-## Multi-writer (tối đa 3 slot, 1 publisher)
+## Multi-writer (tối đa `max_slots`=12 slot theo writer-pool.json, 1 publisher)
 
-`3 writers (W1/W2/W3) → hàng đợi draft dùng chung → 1 publisher canonical → website`.
-- Slot gắn **session**: một slot thuộc đúng MỘT phiên và mỗi phiên chỉ giữ MỘT slot sống tại một thời điểm; lease tối đa 10 ID/slot, 30 ID
-  đang làm; TTL + heartbeat; hết hạn mới được phiên khác nhận (`writer-claim.py`, `writer-session.py`).
+`N writers (W1..Wn) → hàng đợi draft dùng chung → 1 publisher canonical → website`.
+- Slot gắn **session**: một slot thuộc đúng MỘT phiên và mỗi phiên chỉ giữ MỘT slot sống tại một thời điểm; lease tối đa 10 ID/slot (`max_ids_per_writer`), tối đa `max_slots`×10 ID
+  đang làm (12×10=120; mỗi run publisher chỉ nhận ≤30 ID, phần dư chờ run kế); TTL + heartbeat; hết hạn mới được phiên khác nhận (`writer-claim.py`, `writer-session.py`).
 - Writer dùng **một công cụ**: `python3 scripts/factory/writer-session.py begin|status|check|push|confirm|release`
   (CAS: fetch → tính lại → push, bounded retry, không force). Đừng tự viết git để claim/push registry.
   Phiên mặc định ngẫu nhiên theo working copy (KHÔNG suy từ danh tính git — nhiều AI cùng nhà cung cấp
@@ -98,7 +98,7 @@ PENDING (tool tự nudge) → chờ Pages deploy + kiểm URL live. Hết quota/
 phần đã push vẫn được publish, AI khác `begin` nhận tiếp.
 
 Refill theo ngưỡng vận hành `min_ready_queue=100`, mục tiêu `refill_target=300` trong `data/factory-capacity.json`: AI coordinator chuẩn bị và lọc chủ đề sớm khi PLANNED < 100; tuyệt đối không coi capacity là bài đã viết. Khi cần refill, writer CHỈ push (1) batch chủ đề thật
-`data/factory/refill-batches/<date>-<tag>.json` (đã qua gate G1-G8) và
+`data/factory/refill-batches/<date>-<tag>.json` (đã qua gate G1-G9) và
 (2) bump `data/factory/refill-request.json`. Workflow
 `factory-refill.yml` (CÙNG concurrency group `factory-publish` với
 publisher — hai run xếp hàng, không mutate state cùng lúc) tự
@@ -129,7 +129,7 @@ thật mới, KHÔNG filler, KHÔNG báo SUCCESS giả. Hồi quy:
    bảo hiểm, địa danh.
 5. Bài viết tuân thủ `docs/ARTICLE-RULES.md` + `docs/QUALITY-RUBRIC.md`;
    draft nằm trong `_drafts/`, KHÔNG bao giờ vào `_posts/` tay.
-6. Chỉ MỘT publisher được mutate production mỗi lúc (writer-lock O_EXCL + ownership token + concurrency group); tối đa 3 external writer soạn song song, mỗi ID một chủ, mỗi slot một phiên, mỗi phiên một slot (`writer-claim.py`, thực thi cả ở lõi và CAS). Registry mơ hồ ID/session → fail-closed, không chọn chủ bằng timestamp hoặc rollback lease sống. Transaction conflict → STOP theo `docs/RECOVERY.md`, KHÔNG force-unlock lock của chủ khác.
+6. Chỉ MỘT publisher được mutate production mỗi lúc (writer-lock O_EXCL + ownership token + concurrency group); tối đa `max_slots` (12) external writer soạn song song, mỗi ID một chủ, mỗi slot một phiên, mỗi phiên một slot (`writer-claim.py`, thực thi cả ở lõi và CAS). Registry mơ hồ ID/session → fail-closed, không chọn chủ bằng timestamp hoặc rollback lease sống. Transaction conflict → STOP theo `docs/RECOVERY.md`, KHÔNG force-unlock lock của chủ khác.
 7. Sản xuất qua `factory-publish.yml` (push `_drafts/` tự động; op bảo trì
    chạy local qua `factory-operator.py`), KHÔNG chạy shell tùy ý trong
    Actions. `recover` TRƯỚC mọi op mutating. Op FAIL → DỪNG, giữ việc đã

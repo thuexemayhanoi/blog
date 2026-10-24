@@ -28,8 +28,8 @@ Output:
 Semantics (giữ NGUYÊN semantics của selector cũ; phần mới ghi rõ):
   - queue 2..10 draft/push: TỐI ĐA 10 ID (MAX_QUEUE_PER_PUSH; lease limit
     mỗi writer); KHÔNG có min — push 1 draft hợp lệ; queue LẺ được chia
-    pair (pair cuối 1 ID). Với --backlog tổng queue một run tối đa 30 ID
-    (MAX_QUEUE_PER_RUN = 3 writer x 10), phần dư chờ run kế;
+    pair (pair cuối 1 ID). Với --backlog tổng queue một run tối đa
+    MAX_QUEUE_PER_RUN ID (30, từ writer-pool.json), phần dư chờ run kế;
   - EXACT article_id: regex `^article_id:\\s*(BLG-\\d+)` trong 2000 ký tự
     đầu của draft; file KHÔNG phải `.md` bị bỏ qua (kể cả `.nudge-Wx`);
     draft template (bài nhập mẫu) bị bỏ qua;
@@ -89,7 +89,7 @@ Semantics (giữ NGUYÊN semantics của selector cũ; phần mới ghi rõ):
         tục;
       * một ID nằm trong >= 2 lease SỐNG (merge git thô) -> registry mơ hồ
         chủ sở hữu -> refuse fail-closed như registry hỏng;
-      * cắt trần 30 ID/run: hàng in-flight trước rồi PLANNED (mỗi nhóm theo
+      * cắt trần MAX_QUEUE_PER_RUN (30) ID/run: hàng in-flight trước rồi PLANNED (mỗi nhóm theo
         matrix order); lọc production-control paused làm TRƯỚC khi cắt;
     vi phạm với draft của push -> REFUSE fail-closed exit 3 (KHÔNG đổi gì);
   - selector CHỈ ĐỌC: KHÔNG mutate matrix/checkpoint/production-control/
@@ -115,11 +115,23 @@ QA_DIR = 'data/qa'
 DRAFTS_DIR = '_drafts'
 REGISTRY_REL = 'data/state/writer-claims.json'
 
-# Hợp đồng turbo queue: tối đa 10 draft/push; consume chia pair 2
-# (pair cuối của queue lẻ có 1 ID). Một run (backlog) tối đa 30 ID.
-MAX_QUEUE_PER_PUSH = 10
-MAX_QUEUE_PER_RUN = 30
+# Hợp đồng turbo queue: consume chia pair 2 (pair cuối của queue lẻ có 1 ID).
+# Trần mỗi push / mỗi run (backlog) lấy từ data/factory/writer-pool.json qua
+# writer-claim.py (một nguồn sự thật; hiện 10 và 30). Trần run giới hạn thời
+# gian một lần publish, KHÔNG phải số slot x lease.
 PAIR_SIZE = 2
+
+
+def _pool_limits():
+    spec = importlib.util.spec_from_file_location(
+        'blog_writer_claim_limits',
+        os.path.join(ROOT, 'scripts', 'factory', 'writer-claim.py'))
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod.MAX_QUEUE_PER_PUSH, mod.MAX_QUEUE_PER_RUN
+
+
+MAX_QUEUE_PER_PUSH, MAX_QUEUE_PER_RUN = _pool_limits()
 
 FRONT_ID_RE = re.compile(r'^article_id:\s*(BLG-\d+)', re.M)
 WRITER_RE = re.compile(r'^writer:\s*(W\d+)\s*$', re.M)

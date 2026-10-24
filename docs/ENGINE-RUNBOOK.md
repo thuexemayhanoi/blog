@@ -51,7 +51,7 @@ lenh nao chua implement. Chay tu goc repository.
 - python3 scripts/factory/refill-queue.py --plan
   In claimable, min_ready_queue (100), refill_target (300).
 - python3 scripts/factory/refill-queue.py --verify
-  Kiem toan bo gate G1-G8 cho ledger refill-candidates.json.
+  Kiem toan bo gate G1-G9 cho ledger refill-candidates.json.
   PURE VALIDATION: in ket qua ra stdout, KHONG ghi file nao,
   khong ghi ledger/matrix/checkpoint, khong gan ID.
   exit 0 = PASS; khac 0 = gate violation thuc su.
@@ -87,12 +87,16 @@ lenh nao chua implement. Chay tu goc repository.
   roi commit matrix + seed + bao cao.
   (--commit --yes van hoat dong nhu alias cu.)
 
-Gate G1-G8 (khong ha nguong): child ton tai + headroom (G1);
+Gate G1-G9 (khong ha nguong): child ton tai + headroom (G1);
 kw unique trong child (G2); intent unique trong child (G3);
 slug unique toan matrix (G4); canonical + output_path unique (G4b);
 word_target >= 1.200 (G5); candidate_id unique (G6);
 child thuoc taxonomy, ke thua source policy (G7);
-title khong trung toan matrix (G8).
+title khong trung toan matrix (G8);
+khong la bien the tu vung cua hang da co/candidate truoc do (G9: tap tu khoa co nghia cua title/kw,
+bo tu chuc nang + xe/may/thue; cung child Jaccard title >= 0.80 hoac kw >= 0.80 kem title >= 0.60;
+khac child title >= 0.90; ten rieng khac nhau nhu dia danh/mau xe van duoc chap nhan;
+kiem thu: scripts/factory/tests/test_refill_g9.py).
 
 Slug / URL cua hang da sinh (bat bien "URL da sinh khong doi"):
 - Tai sinh matrix (generate-matrix.py) GIU slug/expected_url/output_path/canonical_url cua moi hang da co,

@@ -15,7 +15,7 @@ name: Factory refill
 #
 # Trach nhiem DUY NHAT (moi buoc la tool chuan, KHONG AI, KHONG filler):
 #   1. recover transaction treo (FAIL-CLOSED, docs/RECOVERY.md)
-#   2. stage batch refill da duyet vao ledger qua gate G1-G8
+#   2. stage batch refill da duyet vao ledger qua gate G1-G9
 #      (scripts/factory/stage-refill-batch.py --all; idempotent theo
 #      candidate_id; gate FAIL -> ROLLBACK ledger nguyen ven + exit 1)
 #   3. canonical refill (scripts/factory/factory-operator.py refill —
@@ -89,7 +89,7 @@ jobs:
           set -eu
           python3 scripts/factory/factory-operator.py recover
 
-      - name: Stage batch refill da duyet (gate G1-G8, idempotent, FAIL = rollback)
+      - name: Stage batch refill da duyet (gate G1-G9, idempotent, FAIL = rollback)
         run: |
           set -eu
           if ls data/factory/refill-batches/*.json >/dev/null 2>&1; then

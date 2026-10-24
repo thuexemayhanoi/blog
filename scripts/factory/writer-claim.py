@@ -5,12 +5,15 @@
 Port từ thuexemayhanoi/vanchinh scripts/writer_claim.py (SOURCE OF TRUTH)
 thích ứng engine /blog (matrix data/content-matrix.csv, cột id/status,
 draft _drafts/, publisher scripts/factory/factory-operator.py), rồi
-HARDEN cho 3 writer AI độc lập chạy đồng thời (provider-neutral: slot
-W1/W2/W3 có thể do bất kỳ AI nào giữ, KHÔNG có tên nhà cung cấp nào
-trong logic).
+HARDEN cho nhiều writer AI độc lập chạy đồng thời (provider-neutral: slot
+W1..Wn có thể do bất kỳ AI nào giữ, KHÔNG có tên nhà cung cấp nào trong
+logic). Giới hạn pool nằm ở MỘT nơi: data/factory/writer-pool.json
+(parse_pool() bên dưới; push-selection.py và factory-queue.py đọc lại từ
+module này nên không lệch nhau).
 
 HỢP ĐỒNG (TURBO MULTI-WRITER):
-  - tối đa 3 slot (W1,W2,W3 — MAX_WRITERS); MỘT slot thuộc ĐÚNG MỘT
+  - tối đa MAX_WRITERS slot (W1..Wn; pool hiện hành max_slots=12, fixture
+    legacy ép 3 bằng BLOG_WRITER_SLOTS=3); MỘT slot thuộc ĐÚNG MỘT
     phiên (session) hợp lệ tại một thời điểm; MỘT phiên chỉ được giữ MỘT
     slot sống. Quy tắc được thực thi ở lõi claim/heartbeat và CAS client.
     Session id là định danh
@@ -19,7 +22,9 @@ HỢP ĐỒNG (TURBO MULTI-WRITER):
     (--session / env FACTORY_WRITER_SESSION) để AI này bàn giao slot cho
     AI khác. Phiên KHÁC không thể renew/ghi đè/release slot còn hạn;
   - mỗi writer lease tối đa MAX_LEASE (10) ID theo THỨ TỰ MATRIX; tổng
-    tối đa 30 ID in-flight (3 x 10);
+    in-flight tối đa MAX_WRITERS x MAX_LEASE (12 x 10 = 120 theo pool hiện
+    hành). Đây KHÔNG phải trần mỗi lần publish: một run của publisher chỉ
+    xử lý tối đa MAX_QUEUE_PER_RUN (30) ID, phần dư chờ run kế;
   - ID được giữ cho tới khi PUBLISHED / EXISTING / BLOCKED: gồm cả hàng
     PLANNED và hàng in-flight (WRITING/QA/PASS/REPAIR) — chủ lease vẫn
     sở hữu hàng REPAIR của mình; lease hết hạn -> hàng in-flight thành
@@ -115,14 +120,51 @@ SCHEMA_VERSION = '2'
 # Legacy fixtures may override the slot limit to 3 via BLOG_WRITER_SLOTS.
 # A larger pool NEVER changes the one-owner-per-ID or CAS rules.
 _POOL_CONFIG = ROOT / 'data' / 'factory' / 'writer-pool.json'
+_POOL_DEFAULTS = {'max_slots': 3, 'max_ids_per_writer': 10,
+                  'max_queue_per_push': 10, 'max_queue_per_run': 30}
+LEASE_CEILING = 10   # hợp đồng TURBO: không writer nào giữ quá 10 ID
+RUN_CEILING = 60     # 30 pair/run: còn nằm trong timeout 45 phút của publisher
+
+
+def parse_pool(raw):
+    """Kiểm tra writer-pool.json (dict hoặc None = mặc định legacy 3 slot)
+    và trả dict giới hạn đã chuẩn hoá. Mọi giá trị là int (không bool) và
+    phải nhất quán: nâng giới hạn là quyết định có chủ đích, không âm thầm.
+      3 <= max_slots <= 64
+      1 <= max_ids_per_writer <= LEASE_CEILING
+      1 <= max_queue_per_push <= max_ids_per_writer
+      max_queue_per_push <= max_queue_per_run <= RUN_CEILING"""
+    if raw is None:
+        raw = {}
+    if not isinstance(raw, dict):
+        raise ValueError('writer-pool.json: must be a JSON object')
+    lim = {}
+    for key, default in _POOL_DEFAULTS.items():
+        val = raw.get(key, default)
+        if isinstance(val, bool) or not isinstance(val, int):
+            raise ValueError('writer-pool.json: %s must be an integer' % key)
+        lim[key] = val
+    if not 3 <= lim['max_slots'] <= 64:
+        raise ValueError('writer pool max_slots must be between 3 and 64')
+    if not 1 <= lim['max_ids_per_writer'] <= LEASE_CEILING:
+        raise ValueError('writer pool max_ids_per_writer must be between 1 and %d'
+                         % LEASE_CEILING)
+    if not 1 <= lim['max_queue_per_push'] <= lim['max_ids_per_writer']:
+        raise ValueError('writer pool max_queue_per_push must be between 1 and '
+                         'max_ids_per_writer (%d)' % lim['max_ids_per_writer'])
+    if not lim['max_queue_per_push'] <= lim['max_queue_per_run'] <= RUN_CEILING:
+        raise ValueError('writer pool max_queue_per_run must be between '
+                         'max_queue_per_push (%d) and %d'
+                         % (lim['max_queue_per_push'], RUN_CEILING))
+    return lim
+
+
 if _POOL_CONFIG.is_file():
     with _POOL_CONFIG.open(encoding='utf-8') as _pool_file:
-        _POOL = json.load(_pool_file)
-    if not isinstance(_POOL, dict) or isinstance(_POOL.get('max_slots'), bool):
-        raise ValueError('writer-pool.json: max_slots must be an integer')
-    _SLOT_LIMIT = _POOL.get('max_slots', 3)
+        POOL_LIMITS = parse_pool(json.load(_pool_file))
 else:
-    _SLOT_LIMIT = 3
+    POOL_LIMITS = parse_pool(None)
+_SLOT_LIMIT = POOL_LIMITS['max_slots']
 _SLOTS_OVERRIDE = os.environ.get('BLOG_WRITER_SLOTS')
 if _SLOTS_OVERRIDE is not None:
     _ENV_LIMIT = int(_SLOTS_OVERRIDE)
@@ -139,7 +181,9 @@ SLOT_RE = re.compile(r'^W(?:' + '|'.join(str(i) for i in range(1, MAX_WRITERS + 
 # KHÔNG cho dấu cách/xuống dòng/':' làm hỏng YAML hay chèn khóa lạ)
 SESSION_RE = re.compile(r'^[A-Za-z0-9._-]{1,64}\Z')
 ID_RE = re.compile(r'^BLG-\d+\Z')
-MAX_LEASE = 10     # lease sống tối đa mỗi writer (write-ahead buffer)
+MAX_LEASE = POOL_LIMITS['max_ids_per_writer']   # lease sống tối đa mỗi writer (write-ahead buffer)
+MAX_QUEUE_PER_PUSH = POOL_LIMITS['max_queue_per_push']   # draft tối đa mỗi push (push-selection.py)
+MAX_QUEUE_PER_RUN = POOL_LIMITS['max_queue_per_run']     # ID tối đa mỗi run publisher (push-selection/factory-queue)
 # MAX_WRITERS / SLOTS are loaded from writer-pool.json above.
 TTL_HOURS = 48.0   # TTL mặc định; mỗi claim/heartbeat gia hạn
 MIN_TTL_HOURS = 0.25

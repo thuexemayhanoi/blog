@@ -7,7 +7,7 @@ Mỗi AI vẫn có **một session và một slot độc quyền khi giữ bài*
 không cần đợi W1/W2/W3 hết lease: `begin --slot auto` chọn W4 (hoặc slot trống
 khác). Quyền sở hữu vẫn khóa theo BLG-ID, tối đa 10 ID/phiên; CAS và publisher
 duy nhất không thay đổi. Các hướng dẫn bên dưới nói "3 slot" là tài liệu legacy
-cho W1–W3, **không phải giới hạn mới**.
+cho W1–W3, **không phải giới hạn mới**. Nguồn duy nhất của mọi giới hạn pool: `data/factory/writer-pool.json` (`max_slots`, `max_ids_per_writer`, `max_queue_per_push`, `max_queue_per_run`); `test_writer_pool_contract` khoá code và docs khớp nhau.
 
 Ví dụ cho Mistral khi W1 đang thuộc Claude:
 
@@ -36,7 +36,7 @@ Blog nội dung SEO cho dịch vụ cho thuê xe máy tại Hà Nội, tách bi�
 ## Kiến trúc & khái niệm 10K
 
 - Content Factory hỗ trợ TỐI ĐA 10.000 bài hợp lệ (HARD CAPACITY — trần kỹ thuật). Quyết định chủ xe 2026-09-27: 10.000 bài hợp lệ PUBLISHED là CHỈ TIÊU sản xuất của một chiến dịch liên tục — không đệm, không hạ gate, đạt bằng chủ đề hợp lệ qua gate mở rộng.
-- Chủ đề mở rộng LAZY: chỉ sinh candidate khi queue PLANNED tụt dưới ngưỡng, và chỉ nhận chủ đề có ý định tìm kiếm thật, qua các gate chống trùng (G1–G8). Chi tiết kiến trúc: `docs/ARCHITECTURE-10K.md`; chính sách biên tập/scale: `docs/CONTENT-POLICY-10K.md`.
+- Chủ đề mở rộng LAZY: chỉ sinh candidate khi queue PLANNED tụt dưới ngưỡng, và chỉ nhận chủ đề có ý định tìm kiếm thật, qua các gate chống trùng (G1–G9). Chi tiết kiến trúc: `docs/ARCHITECTURE-10K.md`; chính sách biên tập/scale: `docs/CONTENT-POLICY-10K.md`.
 - Bài xuất bản qua publish gate (quality ≥ 75, seo ≥ 70, business fact + legal PASS, hash bằng chứng khớp; điểm 90+ là EXCELLENT, không phải ngưỡng bắt buộc). Chi tiết: `docs/CONTENT-FACTORY.md`, `docs/QUALITY-RUBRIC.md`.
 
 ## Trạng thái động (dynamic state) — đọc tại nguồn, KHÔNG tin số trong prose docs
@@ -69,7 +69,7 @@ hất.
 
 ## Mô hình vận hành factory (docs/PROC-PUBLISH.md)
 
-EXTERNAL AI (tối đa 3 writer W1/W2/W3, bất kỳ nhà cung cấp nào; `scripts/factory/writer-session.py`) → push draft `_drafts/` (1..10 ID/push) → `factory-publish.yml` tự chạy đường nóng (selection EXACT ID + drain backlog → pair 2 → claim/QA/publish — KHÔNG AI, KHÔNG secret AI, KHÔNG API ngoài, KHÔNG cron sản xuất) → `scripts/factory/factory-operator.py` → engine chuẩn (writer lock + transaction + checkpoint + publish-gate.py + refill-queue.py + matrix + QA evidence). Actions là deterministic hands; external AI là writer (tối đa 3 slot, mỗi ID một chủ); engine là nguồn sự thật duy nhất; không cron sản xuất (chỉ watchdog read-only theo lịch) — chạy theo push.
+EXTERNAL AI (tối đa 12 writer W1..W12 theo `data/factory/writer-pool.json`, bất kỳ nhà cung cấp nào; `scripts/factory/writer-session.py`) → push draft `_drafts/` (1..10 ID/push) → `factory-publish.yml` tự chạy đường nóng (selection EXACT ID + drain backlog → pair 2 → claim/QA/publish — KHÔNG AI, KHÔNG secret AI, KHÔNG API ngoài, KHÔNG cron sản xuất) → `scripts/factory/factory-operator.py` → engine chuẩn (writer lock + transaction + checkpoint + publish-gate.py + refill-queue.py + matrix + QA evidence). Actions là deterministic hands; external AI là writer (tối đa 3 slot, mỗi ID một chủ); engine là nguồn sự thật duy nhất; không cron sản xuất (chỉ watchdog read-only theo lịch) — chạy theo push.
 
 ## Chế độ viết nhanh có kiểm soát
 
@@ -81,7 +81,7 @@ EXTERNAL AI (tối đa 3 writer W1/W2/W3, bất kỳ nhà cung cấp nào; `scri
 python3 scripts/factory/validate.py             # 0=PASS 1=FAIL 2=BLOCKED
 python3 scripts/factory/capacity-audit.py       # audit mo hinh nang luc
 python3 scripts/factory/queue.py --stats        # queue (view tren matrix)
-python3 scripts/factory/refill-queue.py --verify  # gate refill G1-G8 (read-only)
+python3 scripts/factory/refill-queue.py --verify  # gate refill G1-G9 (read-only)
 ```
 
 ## Quy tắc bất di bất dịch (bản đầy đủ: AGENTS.md)

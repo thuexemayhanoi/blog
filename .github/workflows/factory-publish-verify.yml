@@ -10,7 +10,7 @@ name: Factory publish verify
 #   - watchdog.py: liveness txn/lock/checkpoint + purity
 #   - factory-operator.py verify --scope full: validate full + toan bo suite
 #     engine (bao gom hardening, watchdog, soak recovery)
-#   - refill-queue.py --verify (G1-G8) + --selftest (collision gates)
+#   - refill-queue.py --verify (G1-G9) + --selftest (collision gates)
 #   - sitemap-plan.py: mo hinh 10K
 #   - generator drift: restore-foundation / generate-reports / generate-matrix /
 #     expand-topic-universe / generate-listing-pages deu idempotent
@@ -58,13 +58,13 @@ jobs:
           set -eu
           python3 scripts/factory/factory-operator.py verify --scope full
 
-      - name: Refill gates G1-G8 (pure, read-only)
+      - name: Refill gates G1-G9 (pure, read-only)
         run: |
           set -eu
           python3 scripts/factory/refill-queue.py --verify --report - >> "$GITHUB_STEP_SUMMARY"
           python3 scripts/factory/refill-queue.py --verify > /dev/null
           python3 scripts/factory/refill-queue.py --selftest
-          echo "OK: refill gates PASS (G1-G8 + collision selftest)."
+          echo "OK: refill gates PASS (G1-G9 + collision selftest)."
 
       - name: Sitemap 10K plan
         run: python3 scripts/factory/sitemap-plan.py

@@ -4,7 +4,7 @@
 
 Mục tiêu (docs/WRITER-LOOP.md): writer ngoài đọc main, nối việc dang dở,
 viết draft, QA scoped, push, xác nhận publish rồi lấy batch kế — mỗi bước
-MỘT lệnh. Đa-writer (slot W1/W2/W3, phiên độc lập, CAS push): dùng
+MỘT lệnh. Đa-writer (slot W1..Wn theo writer-pool.json, phiên độc lập, CAS push): dùng
 scripts/factory/writer-session.py (xem docs/AI-WRITER-QUICKSTART.md);
 file này giữ các lệnh tương thích ngược (status/next/qa/verify/release).
 

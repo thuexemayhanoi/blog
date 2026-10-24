@@ -57,7 +57,7 @@ published_ids/recoverable_ids/deferred_ids giữ nguyên interface.
 Thoát: 0 = queue đã xử lý (published hoặc recoverable); 1 = fatal /
 refuse (KHÔNG đổi gì khi refuse).
 
-Giới hạn: MAX_QUEUE = 30 ID/run (3 writer x 10 lease); mỗi pair vẫn 2.
+Giới hạn: MAX_QUEUE = max_queue_per_run (30, data/factory/writer-pool.json) ID/run; mỗi pair vẫn 2.
 """
 import argparse
 import csv
@@ -69,6 +69,19 @@ import sys
 import time
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+
+def _pool_max_queue():
+    # Một nguồn sự thật: writer-claim.py đọc + kiểm tra writer-pool.json.
+    import importlib.util
+    spec = importlib.util.spec_from_file_location(
+        'blog_writer_claim_limits',
+        os.path.join(ROOT, 'scripts', 'factory', 'writer-claim.py'))
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod.MAX_QUEUE_PER_RUN
+
+
 MATRIX = 'data/content-matrix.csv'
 TXN = 'data/state/transaction.json'
 ENGINE_LOCK = 'data/state/writer-lock.active'
@@ -77,7 +90,7 @@ QUEUE_LOCK_META = 'data/state/factory-queue.json'
 OP = 'scripts/factory/factory-operator.py'
 
 PAIR_SIZE = 2          # hợp đồng turbo queue: pair 2 bài
-MAX_QUEUE = 30         # tối đa 30 ID/queue run (3 writer x lease 10)
+MAX_QUEUE = _pool_max_queue()   # tối đa ID/queue run: writer-pool.json max_queue_per_run (30)
 LOCKED_STATUSES = ('PUBLISHED', 'EXISTING', 'BLOCKED', 'REVIEW')
 RECOVERABLE = ('REPAIR', 'PASS')
 

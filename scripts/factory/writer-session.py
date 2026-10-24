@@ -5,7 +5,7 @@
 MỘT lệnh cho mỗi bước của vòng đời writer; thay cho việc mỗi AI tự viết
 git thủ công (nguồn của lost-update / ghi đè registry / push đè nhau).
 Chỉ dùng git + Python stdlib: KHÔNG API ngoài, KHÔNG AI, KHÔNG secret.
-Provider-neutral: slot W1/W2/W3 do BẤT KỲ AI nào giữ.
+Provider-neutral: slot W1..Wn (writer-pool.json, hiện 12) do BẤT KỲ AI nào giữ.
 
 NGUYÊN TẮC CAS (compare-and-swap trên ref origin/main — không force push):
   mọi thay đổi dùng chung (registry lease, push draft) là một TRANSACTION:
@@ -693,8 +693,9 @@ def cmd_status(g, a):
         elif out['free_slots']:
             out['next_action'] = 'begin --slot auto de nhan slot'
         else:
-            out['next_action'] = ('ca 3 slot dang bi giu — cho het han hoac '
-                                  'dung phien/token cua minh (--session)')
+            out['next_action'] = ('moi slot (%d) dang bi giu — cho het han hoac '
+                                  'dung phien/token cua minh (--session)'
+                                  % len(WC.SLOTS))
     return emit(E_OK, out)
 
 

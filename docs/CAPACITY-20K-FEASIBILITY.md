@@ -28,7 +28,7 @@ Tổng bài sống = PUBLISHED (factory) + EXISTING (legacy). Hai số này luô
 - `refill-queue.py` từ chối materialize khi `materialized + candidates > hard_capacity`; `capacity-audit.py`
   bắt buộc `editorial_capacity_total == hard_capacity`; `sitemap-plan.py` chia shard theo `hard_capacity`
   (1.000 URL/shard, 10 shard ở 10K). Vượt 10.000 cần sửa cấu hình + code + test, không phải chỉ thêm hàng.
-- Cổng G1–G8 của refill buộc `kw`, `intent`, `slug`, tiêu đề chuẩn hóa DUY NHẤT trong child: số chủ đề tối đa mỗi
+- Cổng G1–G9 của refill buộc `kw`, `intent`, `slug`, tiêu đề chuẩn hóa DUY NHẤT trong child: số chủ đề tối đa mỗi
   child bị chặn bởi số ý định tìm kiếm thật, không bởi số slot còn trống.
 
 ## 4. Rào cản vận hành (đo thật, ước lượng ghi rõ)

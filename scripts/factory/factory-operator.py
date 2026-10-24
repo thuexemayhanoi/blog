@@ -924,7 +924,7 @@ def op_prepare_next(args, biz, tax):
     # hòa giải việc dở trước: không claim mới khi còn hàng đang làm.
     # CHỈ áp cho đường người vận hành (--count, tự chọn hàng PLANNED).
     # Đường PUSH HOT PATH (--ids EXACT do push-selection.py chọn) KHÔNG bị
-    # chặn bởi hàng dở của writer KHÁC: với 3 writer song song, MỘT hàng
+    # chặn bởi hàng dở của writer KHÁC: với nhiều writer song song, MỘT hàng
     # REPAIR của writer đã chết từng làm mọi push khác FATAL (deadlock
     # toàn nhà máy). Resume-first khi đó là PER-WRITER: hàng REPAIR vẫn
     # nằm trong lease của chủ (writer-claim.py giữ ID in-flight) và
@@ -1456,7 +1456,7 @@ def op_refill(args):
     if not staged:
         print('NEEDS_TOPIC_EXPANSION: queue cần refill nhưng ledger không '
               'còn candidate STAGED — expand/stage topic thật (qua gate '
-              'G1-G8) trước khi refill lại. KHÔNG tạo filler, KHÔNG báo '
+              'G1-G9) trước khi refill lại. KHÔNG tạo filler, KHÔNG báo '
               'SUCCESS giả.')
         # an toàn: nếu đã có hàng PLANNED nhưng checkpoint chưa trỏ
         # next_claimable (phần đuôi run trước đó dở dang), trỏ lại để

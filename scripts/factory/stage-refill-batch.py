@@ -9,7 +9,7 @@
 #   stage-refill-batch.py --selftest     kiem thu am, KHONG doi cay lam viec
 #
 # NGUYEN TAC (KHONG exception):
-#   - Batch chi duoc STAGE vao ledger qua CUNG gate G1-G8
+#   - Batch chi duoc STAGE vao ledger qua CUNG gate G1-G9
 #     (scripts/factory/refill-queue.py --verify). Gate FAIL -> ROLLBACK
 #     ledger nguyen ven, ::error + step summary, exit 1 (fail-closed).
 #   - Idempotent theo candidate_id: da co trong candidates/materialized/
@@ -145,7 +145,7 @@ def stage(batch_files):
     meta['status'] = 'STAGED'
     meta['staged_at'] = now_iso()
     meta['note'] = ('Staging tu data/factory/refill-batches/ boi '
-                    'stage-refill-batch.py: candidate phai qua gate G1-G8 '
+                    'stage-refill-batch.py: candidate phai qua gate G1-G9 '
                     'cua refill-queue.py --verify; FAIL thi rollback nguyen '
                     'ven. Materialize boi refill-queue.py --refill --yes.')
     tmp = LEDGER_PATH + '.tmp'
@@ -154,16 +154,16 @@ def stage(batch_files):
         f.flush()
         os.fsync(f.fileno())
     os.replace(tmp, LEDGER_PATH)
-    print('STAGED: +%d candidate vao ledger (skip %d) - chay gate G1-G8...' %
+    print('STAGED: +%d candidate vao ledger (skip %d) - chay gate G1-G9...' %
           (len(staged_new), skipped))
     proc = subprocess.run(VERIFY_CMD)
     if proc.returncode != 0:
         with open(LEDGER_PATH, 'w', encoding='utf-8') as f:
             f.write(original)
-        fail('gate G1-G8 FAIL (rc=%d) - da ROLLBACK ledger nguyen ven; '
+        fail('gate G1-G9 FAIL (rc=%d) - da ROLLBACK ledger nguyen ven; '
              'sua batch roi stage lai' % proc.returncode)
     emit_summary('\n## stage-refill-batch: OK\n\n- staged: %d candidate\n'
-                 '- skipped (idempotent): %d\n- gate G1-G8: PASS (refill-queue.py --verify)\n'
+                 '- skipped (idempotent): %d\n- gate G1-G9: PASS (refill-queue.py --verify)\n'
                  % (len(staged_new), skipped))
     print('STAGE OK: %d candidate STAGED - cho op refill materialize.' %
           len(staged_new))

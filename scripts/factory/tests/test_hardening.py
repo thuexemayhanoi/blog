@@ -705,7 +705,12 @@ class StaticContract(unittest.TestCase):
                   encoding='utf-8') as f:
             sel = f.read()
         # queue 2..10: chọn EXACT ID từ article_id, REFUSE fail-closed
-        self.assertIn('MAX_QUEUE_PER_PUSH = 10', sel)
+        # trần mỗi push lấy từ data/factory/writer-pool.json (một nguồn sự
+        # thật, test_writer_pool_contract); hợp đồng TURBO vẫn là 10/push.
+        self.assertIn('MAX_QUEUE_PER_PUSH, MAX_QUEUE_PER_RUN = _pool_limits()', sel)
+        with open(os.path.join(ROOT, 'data/factory/writer-pool.json'),
+                  encoding='utf-8') as pf:
+            self.assertEqual(json.load(pf)['max_queue_per_push'], 10)
         self.assertIn('len(queue) > MAX_QUEUE_PER_PUSH', sel)
         self.assertIn('article_id', sel)
         self.assertIn('id trung nhau trong cung mot push', sel)

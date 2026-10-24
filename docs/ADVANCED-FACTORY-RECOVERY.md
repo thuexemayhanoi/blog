@@ -75,7 +75,7 @@ FULL mạnh hơn DEEP, DEEP mạnh hơn FAST; KHÔNG hạ ngưỡng khi đổi m
 - Matrix 10.000 hàng = 483 legacy + 9.517 child theo taxonomy
   (capacity-audit.py kiểm). Queue là view trên matrix; refill là cách
   DUY NHẤT materialize candidate STAGED → PLANNED (refill-queue.py, gate
-  G1-G8, semantic SUCCESS bắt buộc tạo work thật).
+  G1-G9, semantic SUCCESS bắt buộc tạo work thật).
 - Refill khi cần (lazy): op bảo trì local
   `python3 scripts/factory/factory-operator.py refill` (KHÔNG chạy trong
   đường nóng publish). Kiểm tra sức chứa/đúng đắn khi cần:

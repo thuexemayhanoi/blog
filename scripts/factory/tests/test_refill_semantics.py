@@ -23,7 +23,7 @@ Cac nhom test (temp fixture, KHONG cham production state):
       duplicate seed/matrix (idempotent)
   T4  HEAD doi giua critical section -> STOP, khong partial mutation,
       lock sach, candidate van STAGED (chua materialize)
-  T5  gate G1-G8 fail -> STOP, seed/matrix/checkpoint/ledger nguyen ven,
+  T5  gate G1-G9 fail -> STOP, seed/matrix/checkpoint/ledger nguyen ven,
       lock sach
   T6  writer-lock dang bi writer khac giu -> tu choi an toan, khong
       mutate, khong force-unlock
@@ -90,8 +90,20 @@ def _norm(s):
     return re.sub(r'[^a-z0-9 ]', '', s.lower()).strip()
 
 
+_NONCE = ['cam', 'dao', 'guong', 'banh', 'khoa', 'den', 'phanh', 'sam',
+          'thung', 'lop', 'dong', 'ho', 'mua', 'nang', 'goc', 'cau']
+
+
+def _nonce(i, k=3):
+    """k tu rieng khac nhau cho candidate thu i: G9 (bien the tu vung)
+    tu choi tieu de chi khac nhau o con so, nen fixture hermetic phai co
+    tu khoa rieng thuc su."""
+    return ' '.join(_NONCE[(i * (2 * j + 3) + j) % len(_NONCE)]
+                    for j in range(k))
+
+
 def synth_candidates(work, n=3):
-    """Candidate hop le G1-G8 tu sinh (hermetic): T1 khong phu thuoc
+    """Candidate hop le G1-G9 tu sinh (hermetic): T1 khong phu thuoc
     production ledger (sau refill that ledger rong — operator verify
     full chay tren state moi phai van PASS)."""
     cap = json.load(open(os.path.join(
@@ -124,9 +136,9 @@ def synth_candidates(work, n=3):
         i += 1
         c = {'candidate_id': 'CAND-HERMETIC-%03d' % i,
              'child_id': kid,
-             'title': 'Kiem thu hermetic refill lan %d' % i,
+             'title': 'Kiem thu hermetic refill %s' % _nonce(i),
              'intent': 'y dang kiem thu hermetic %d' % i,
-             'kw': 'hermetic refill kw %d' % i,
+             'kw': 'hermetic refill %s' % _nonce(i + 5),
              'kw2': [], 'links': [], 'subtopic': 'hermetic-test',
              'audience': 'kiem thu tu dong', 'location_scope': 'Ha Noi',
              'word_target': 1200}
@@ -481,7 +493,7 @@ def main():
            'rc=%d staged=%d materialized=%d'
            % (rc4, len(after4['staged']), len(after4['materialized'])))
 
-    # ============ T5. GATE G1-G8 FAIL -> STOP, KHONG CORRUPT ============
+    # ============ T5. GATE G1-G9 FAIL -> STOP, KHONG CORRUPT ============
     bad = [{'candidate_id': 'CAND-BAD-SEM-001',
             'child_id': 'C-KHONG-TON-TAI',
             'title': 'chu de sai child khong trung',

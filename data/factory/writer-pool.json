@@ -2,6 +2,8 @@
   "schema_version": 1,
   "max_slots": 12,
   "max_ids_per_writer": 10,
+  "max_queue_per_push": 10,
+  "max_queue_per_run": 30,
   "claim_model": "exclusive-per-article-id",
   "publisher_model": "single-canonical"
 }

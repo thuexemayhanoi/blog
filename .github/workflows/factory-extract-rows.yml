@@ -1,7 +1,7 @@
 name: Factory extract rows
 
 # Helper (writer sandbox khong doc duoc content-matrix.csv >1MB). Moi writer
-# dung request file RIENG de 3 writer khong de nhau:
+# dung request file RIENG de cac writer khong de nhau:
 #   data/factory/extract-request.json         -> reports/factory/extracted-rows.json   (legacy)
 #   data/factory/extract-request-W1..W3.json  -> reports/factory/extracted-rows-W1..W3.json
 # Chi doc matrix; chi commit cac file reports/factory/extracted-rows*.json;

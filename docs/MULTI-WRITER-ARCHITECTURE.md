@@ -1,6 +1,6 @@
 # MULTI-WRITER SEO FACTORY — kiến trúc, bất biến, phục hồi
 
-Cập nhật: 2026-10-11 (audit + hardening đa-writer). Provider-neutral: slot `W1/W2/W3` do BẤT KỲ AI nào giữ.
+Cập nhật: 2026-10-11 (audit + hardening đa-writer). Provider-neutral: slot `W1`…`W12` (`data/factory/writer-pool.json`) do BẤT KỲ AI nào giữ.
 Writer chỉ cần: git + Python 3 stdlib (`docs/AI-WRITER-QUICKSTART.md`). Actions: deterministic, KHÔNG API ngoài, KHÔNG AI, KHÔNG secret.
 
 ```
@@ -25,7 +25,7 @@ W3 ─┘        │       push-selection.py --backlog  (strict cho push, lenien
 | Pair hỗn hợp | `[PASS, REPAIR]` ⇒ cả pair recoverable, PASS kẹt | chỉ publish phần PASS; pair đồng nhất (in-flight trước) |
 | Push publisher | `git rebase` ghép ÂM THẦM sửa đổi draft của writer vào bài vừa publish (đi vòng QA) | `publisher-push.py`: guard giao-path + sha256(bài) == `content_sha256` |
 | Sở hữu draft | REPAIR không cần lease ⇒ writer khác sửa được | lease sống của writer khác ⇒ refuse; orphan (hết hạn) mà draft bị SỬA sau lần QA ⇒ phải nhận (`--adopt`) trước (refuse ở push, cách ly ở drain); ai nhận cũng được |
-| Queue/run | 10 ID | 30 ID (3×10), pair vẫn 2 |
+| Queue/run | 10 ID (`max_queue_per_push`) | 30 ID (`max_queue_per_run`, trần thời gian một run — không phải slot×lease), pair vẫn 2 |
 
 QA KHÔNG đổi: `quality ≥ 75`, `seo ≥ 70`, business_fact PASS, legal PASS/NOT_REQUIRED, không critical, hard gate trùng title/slug/intent, evidence `content_sha256` + `matrix_row_sha256`, publish-gate.
 
@@ -46,7 +46,7 @@ HELD ──release --all──► FREE            HELD ──hết hạn──�
 
 | Bất biến | Cưỡng chế | Bằng chứng test |
 |---|---|---|
-| ≤3 slot, ≤10 ID/slot, mỗi ID một chủ | `writer-claim.py` (`apply_claim`, `prune_registry`, `check_invariants`), `validate.py` | `test_writer_claim`, `test_writer_session` T01–T05 |
+| ≤`max_slots` (12) slot, ≤10 ID/slot, mỗi ID một chủ | `writer-claim.py` (`apply_claim`, `prune_registry`, `check_invariants`), `validate.py` | `test_writer_claim`, `test_writer_session` T01–T05 |
 | Một slot — một phiên; một phiên — một slot | session id + `SLOT_HELD/NOT_OWNER/SESSION_HOLDS_OTHER_SLOT`, `check_invariants` | `test_writer_session` T03, T22, T26, T51 |
 | Registry đọc lỗi không bị coi là rỗng | `Git.read` (ls-tree) ⇒ `GIT_READ_FAILED`; parse strict timestamp/ID | `test_writer_session` T50, T65 |
 | Draft "độc" không làm kẹt run | `push-selection.py` `engine_problem` (UTF-8, `date`/title/categories/description, placeholder, tên file, MỘT file/ID) | `test_selector_drain` T40–T48, sim S12 |
