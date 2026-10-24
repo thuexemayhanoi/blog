@@ -43,6 +43,7 @@ sys.path.insert(0, HERE)
 import test_refill_semantics as base  # noqa: E402  (tai dung ROOT)
 
 ROOT = base.ROOT
+from fixture_state import unpause_production  # noqa: E402
 PY = sys.executable
 RESULTS = []
 
@@ -73,6 +74,7 @@ def make_fixture():
                     ignore=shutil.ignore_patterns('.git', 'assets',
                                                   '*.jpeg', '*.png',
                                                   '*.jpg', '*.webp'))
+    unpause_production(work)
     # hermetic: op refill chi chay khi claimable < min_ready_queue
     # (queue.py --needs-refill, lazy capacity). Repo that dang day PLANNED
     # (>= 100) -> op refill la no-op rc=0. Ep nguong cao CHI TRONG BAN SAO.

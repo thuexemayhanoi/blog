@@ -28,6 +28,9 @@ import unittest
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from fixture_state import unpause_production  # noqa: E402
+
 IGNORE = shutil.ignore_patterns('.git', '_site', '.jekyll-cache', '__pycache__',
                                 'node_modules', 'vendor', '*.pyc')
 
@@ -341,6 +344,7 @@ class FxTestCase(unittest.TestCase):
         base = tempfile.mkdtemp(prefix='qa-modes-')
         self.fx = os.path.join(base, 'repo')
         shutil.copytree(ROOT, self.fx, ignore=IGNORE)
+        unpause_production(self.fx)   # công tắc vận hành thật không rò vào fixture
         # hermetic: fixture KHÔNG mang draft của repo thựt — mọi draft
         # cần cho test đều do make_draft() tạo trong fixture. Trạng thái
         # WRITING của repo thựt có thể đã có draft (writer đã push), làm

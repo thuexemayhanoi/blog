@@ -29,6 +29,7 @@ TESTS_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, TESTS_DIR)
 from sim_helpers import (REPO_ROOT, git, gh_path_match,  # noqa: E402
                          parse_session_out, workflow_push_paths)
+from fixture_state import unpause_production  # noqa: E402
 
 # `on.push.paths` của workflow publisher ĐANG TEST (không hard-code lại)
 PUBLISH_PATHS = workflow_push_paths(os.path.join(
@@ -56,6 +57,7 @@ def golden_origin():
     base = tempfile.mkdtemp(prefix='engsim-golden-')
     seed = os.path.join(base, 'seed')
     shutil.copytree(REPO_ROOT, seed, ignore=IGNORE)
+    unpause_production(seed)   # công tắc vận hành thật không rò vào origin vàng
     drafts = os.path.join(seed, '_drafts')
     for fn in os.listdir(drafts):
         if fn != TEMPLATE_DRAFT:

@@ -50,6 +50,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from sim_helpers import gh_path_match, workflow_push_paths  # noqa: E402
+from fixture_state import unpause_production  # noqa: E402
 PY = sys.executable
 
 IGNORE = shutil.ignore_patterns('__pycache__', '.git', '*.pyc')
@@ -60,6 +61,7 @@ def fresh_copy():
     tmp = tempfile.mkdtemp(prefix='harden-')
     work = os.path.join(tmp, 'work')
     shutil.copytree(ROOT, work, ignore=IGNORE)
+    unpause_production(work)
     return work, tmp
 
 
