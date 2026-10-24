@@ -523,9 +523,10 @@ class TestMatrixGhost404Mappings(unittest.TestCase):
             self.assertEqual(matrix[aid]['output_path'], record['post_file'])
             with (Path(ROOT) / record['post_file']).open(encoding='utf-8') as f:
                 post = f.read(4000)
-            match = re.search(r'(?m)^permalink:\\s*(.+?)\\s*, post)
+            match = re.search(r'(?m)^permalink:\s*(.+?)\s*$', post)
             self.assertIsNotNone(match, aid)
-            self.assertEqual(match.group(1).strip().strip('"\''), record['actual_200_url'], aid)
+            permalink = match.group(1).strip().strip('"').strip("'")
+            self.assertEqual(permalink, record['actual_200_url'], aid)
             self.assertNotEqual(record['matrix_404_url'], record['actual_200_url'])
             self.assertEqual(record['expected_http'], '404')
             self.assertEqual(record['actual_http'], '200')
