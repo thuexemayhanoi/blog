@@ -15,6 +15,8 @@ workflow có sẵn `factory-liveness.yml` (chỉ `workflow_dispatch`, `contents:
 
 1. GitHub → Actions → **Factory liveness** → *Run workflow*.
 2. Bật `live_audit`. Tùy chọn `stub_check` = `all` hoặc `start:limit` (ví dụ `0:50`) để kiểm QA trang chuyển hướng của registry di trú slug.
+   Mặc định log KHÔNG còn in cả khối inventory (hàng nghìn dòng base64): bước cuối `LIVE_AUDIT_SUMMARY_BEGIN … END` in bản tóm tắt gọn (đếm mã HTTP, lỗi, kết quả stub check) để đọc bằng tail log;
+   bật `dump_inventory` khi cần giải mã kiểm kê đầy đủ ở máy cục bộ.
 3. Job `Live URL audit` làm theo thứ tự: selftest công cụ → **infra probe** → **crawl** → (tùy chọn) **stub check** → upload artifact `live-url-audit`
    (luôn chạy, kể cả khi bước trước lỗi) → purity check.
    Kết quả nằm ở *Summary* của run (infra JSON, đếm mã HTTP) và log (`TARGET <mã> <url> sources=N`, `ROW ...`). Vì agent không tải được
