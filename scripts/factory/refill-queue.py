@@ -66,6 +66,8 @@ import unicodedata
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__))))
 os.chdir(ROOT)
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import slugkit  # noqa: E402  (quy tac slug/URL DUY NHAT: scripts/factory/slugkit.py)
 
 CAP_PATH = 'data/factory-capacity.json'
 TAX_PATH = 'data/state/taxonomy-config.json'
@@ -81,18 +83,10 @@ TXN_PATH = 'data/state/transaction.json'
 MIN_WORD = 1200
 
 
-def norm(s):
-    s = unicodedata.normalize('NFD', s)
-    s = ''.join(c for c in s if unicodedata.category(c) != 'Mn')
-    return re.sub(r'[^a-z0-9 ]', '', s.lower()).strip()
-
-
-def slugify(s):
-    # "đ"/"Đ" không có dạng phân rã NFD => norm() xoá mất ("xe đạp điện" -> "xe-ap-ien"); đổi đ -> d trước.
-    # PHẢI đồng bộ với generate-matrix.py:slugify (G4/G4b dự đoán đúng output_path mà generator sẽ sinh).
-    s = s.replace('đ', 'd').replace('Đ', 'D')
-    s = norm(s)
-    return re.sub(r'\s+', '-', s)[:80].strip('-')
+# norm()/slugify() = quy tac DUY NHAT trong slugkit.py (cung generate-matrix.py: G4/G4b du doan DUNG
+# output_path ma generator se sinh). "đ"/"Đ" khong phan ra NFD nen slugify doi đ -> d truoc khi chuan hoa.
+norm = slugkit.norm
+slugify = slugkit.slugify
 
 
 # ---- G9: near-duplicate tu vung (khong doi G2/G3/G8; chi them)
@@ -211,8 +205,8 @@ def check_candidate(c, midx, seen, tax_kids, child_caps, staged_child,
         errs.append('%s: G4 slug trung candidate (%s)' % (cid, sl))
     seen['slug'].add(sl)
     # G4b: output_path/canonical suy ra tu slug (pattern generate-matrix.py)
-    out = '_posts/{date}-%s.md' % sl
-    canon = '/%s/{date}/%s/' % (c.get('_cat', '_'), sl)
+    out = slugkit.output_path(sl)
+    canon = slugkit.expected_url(c.get('_cat', '_'), sl)
     if out in midx['out']:
         errs.append('%s: G4b output_path trung matrix (%s)' % (cid, out))
     if out in seen['out']:

@@ -49,6 +49,8 @@ import unicodedata
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.chdir(ROOT)
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import slugkit  # noqa: E402  (quy tắc slug/URL DUY NHẤT của blog: scripts/factory/slugkit.py)
 
 TAX_PATH = 'data/content-taxonomy.json'
 INV_PATH = 'data/content-inventory.csv'
@@ -61,23 +63,12 @@ MATRIX_CREATED_NOTE = 'TẠO MỚI 2026-09-27 theo phê duyệt của chủ xe -
 CREATED_AT = '2026-09-27T00:00:00+00:00'  # mốc cố định, idempotent
 
 
-def norm(s):
-    """Chuẩn hoá để so trùng: bỏ dấu, thường, bỏ ký tự không chữ."""
-    s = unicodedata.normalize('NFD', s)
-    s = ''.join(c for c in s if unicodedata.category(c) != 'Mn')
-    return re.sub(r'[^a-z0-9 ]', '', s.lower()).strip()
-
-
-def slugify(s):
-    """Slug không dấu, chữ thường, gạch ngang - dùng cho hàng PLANNED.
-
-    "đ"/"Đ" KHÔNG có dạng phân rã trong Unicode NFD (không phải "d" + dấu), nên bước loại dấu của norm() từng
-    xoá mất chữ này ("xe đạp điện" -> "xe-ap-ien"). Đổi đ -> d TRƯỚC khi chuẩn hoá. norm() giữ nguyên vì còn
-    dùng so trùng/cannibalization (đổi nó sẽ đổi khoá trùng của toàn matrix).
-    """
-    s = s.replace('đ', 'd').replace('Đ', 'D')
-    s = norm(s)
-    return re.sub(r'\s+', '-', s)[:80].strip('-')
+# norm()/slugify() sống ở slugkit.py (một quy tắc duy nhất cho generator, refill, audit, di trú và validate).
+# "đ"/"Đ" KHÔNG có dạng phân rã trong Unicode NFD nên norm() từng xoá mất chữ này ("xe đạp điện" -> "xe-ap-ien");
+# slugify() đổi đ -> d TRƯỚC khi chuẩn hoá. norm() giữ nguyên vì còn dùng so trùng/cannibalization
+# (đổi nó sẽ đổi khoá trùng của toàn matrix).
+norm = slugkit.norm
+slugify = slugkit.slugify
 
 
 def canonical_internal_link(link):
@@ -308,9 +299,9 @@ def main(argv=None):
                 'group': o['group'],
                 # URL dự kiến theo pattern thật của site (pretty + category):
                 # ngày chỉ chốt khi xuất bản, nên để placeholder {date}.
-                'expected_url': '/%s/{date}/%s/' % (cat, slug),
-                'output_path': '_posts/{date}-%s.md' % slug,
-                'canonical_url': '/%s/{date}/%s/' % (cat, slug),
+                'expected_url': slugkit.expected_url(cat, slug),
+                'output_path': slugkit.output_path(slug),
+                'canonical_url': slugkit.expected_url(cat, slug),
                 'internal_links': '; '.join(
                     canonical_internal_link(l) for l in o['links']),
                 'source_required': str(child['source_required']).lower(),

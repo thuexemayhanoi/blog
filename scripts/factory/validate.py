@@ -48,6 +48,7 @@ import hashlib
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.chdir(ROOT)
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 SCOPES = ('chunk', 'batch', 'full')
 
@@ -104,6 +105,9 @@ REQUIRED = [
     'scripts/factory/validate.py', 'scripts/factory/manifest.py',
     'scripts/factory/restore-foundation.py', 'scripts/factory/generate-reports.py',
     'scripts/factory/generate-matrix.py', 'scripts/factory/publish-gate.py',
+    'scripts/factory/slugkit.py', 'scripts/factory/slug_redirects.py',
+    'reports/factory/seo-master/slug-d-baseline.csv', 'reports/factory/seo-master/slug-redirect-registry.csv',
+    '_layouts/redirect-stub.html',
     '_data/factory-taxonomy.yml', '_data/factory-map.yml', '_data/factory-parents.yml',
     '_includes/topic-directory.html',
 ]
@@ -313,6 +317,14 @@ def check_matrix(scope, inv, legacy_files, factory_files, cp, chunk_ids):
             err('batch_id xen kẽ/lệch thứ tự tại %s (%s sau %s)'
                 % (_pl[_i]['id'], _pl[_i]['batch_id'], _pl[_i - 1]['batch_id']))
             break
+    # ---- chính sách slug/URL (mọi scope — rẻ): một quy tắc duy nhất slugkit.slugify; ngoại lệ lịch sử là
+    # danh sách đóng băng slug-d-baseline.csv (chỉ co lại khi bài được di trú, không bao giờ thêm)
+    section('slug_policy')
+    import slug_redirects
+    for m in slug_redirects.policy_errors(mrows):
+        err(m)
+    for m in slug_redirects.source_errors(None, mrows):
+        err('di trú slug: ' + m)
     # khớp inventory: số hàng legacy + URL — CHỈ batch/full
     if scope in ('batch', 'full'):
         section('matrix_legacy_inventory')

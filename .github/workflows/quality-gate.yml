@@ -25,9 +25,9 @@ name: Quality gate
 on:
   push:
     branches: [main]
-    paths: ['data/content-matrix.csv', 'data/qa/**', 'reports/qa-audit/**', '_drafts/**', '_posts/**', 'scripts/**', '_layouts/**', '_includes/**', '_data/**', '_config.yml', '.github/workflows/**']
+    paths: ['data/content-matrix.csv', 'data/qa/**', 'reports/qa-audit/**', '_drafts/**', '_posts/**', 'scripts/**', '_layouts/**', '_includes/**', '_data/**', '_config.yml', 'redirects/**', '.github/workflows/**']
   pull_request:
-    paths: ['data/content-matrix.csv', 'data/qa/**', 'reports/qa-audit/**', '_drafts/**', '_posts/**', 'scripts/**', '_layouts/**', '_includes/**', '_data/**', '_config.yml', '.github/workflows/**']
+    paths: ['data/content-matrix.csv', 'data/qa/**', 'reports/qa-audit/**', '_drafts/**', '_posts/**', 'scripts/**', '_layouts/**', '_includes/**', '_data/**', '_config.yml', 'redirects/**', '.github/workflows/**']
   workflow_dispatch:
 
 permissions:
@@ -85,7 +85,7 @@ jobs:
           : > changed-files.txt
           if [ "$EVENT_NAME" = "push" ]; then
             if [ -n "$BEFORE_SHA" ] && [ "$BEFORE_SHA" != "0000000000000000000000000000000000000000" ]; then
-              git diff --name-only "$BEFORE_SHA" "$SHA" -- data _drafts _posts _layouts _includes _data scripts docs .github _config.yml reports/qa-audit > changed-files.txt || true
+              git diff --name-only "$BEFORE_SHA" "$SHA" -- data _drafts _posts _layouts _includes _data scripts docs .github _config.yml redirects reports/qa-audit > changed-files.txt || true
             else
               scope="full"
             fi
@@ -93,7 +93,7 @@ jobs:
             git fetch origin "$PR_BASE_SHA" --depth=1 >/dev/null 2>&1 || true
             MB="$(git merge-base "$PR_BASE_SHA" "$SHA" 2>/dev/null || true)"
             if [ -n "$MB" ]; then
-              git diff --name-only "$MB" "$SHA" -- data _drafts _posts _layouts _includes _data scripts docs .github _config.yml reports/qa-audit > changed-files.txt || true
+              git diff --name-only "$MB" "$SHA" -- data _drafts _posts _layouts _includes _data scripts docs .github _config.yml redirects reports/qa-audit > changed-files.txt || true
             else
               scope="full"
             fi
@@ -218,6 +218,15 @@ jobs:
               sys.exit(1)
           print("OK: canonical + legacy-host sanity")
           PY
+
+      - name: Slug redirects (built output - old URL = HTTP 200 + meta refresh 0s + canonical, not a 301)
+        if: steps.mode.outputs.mode == 'full'
+        run: |
+          set -eu
+          # Đối chiếu OUTPUT build với reports/factory/seo-master/slug-redirect-registry.csv: trang cũ có đúng một
+          # meta refresh 0 giây tới URL mới + canonical mới + không có trong sitemap; trang mới hợp lệ, có trong sitemap;
+          # không có trang chuyển hướng lạ; liên kết nội bộ tới trang chuyển hướng không vượt ngưỡng ratchet (chỉ giảm).
+          python3 scripts/factory/check-slug-redirects.py --site ./_site
 
       - name: Drafts must not be deployed (no draft in sitemap or output)
         if: steps.mode.outputs.mode == 'full'
