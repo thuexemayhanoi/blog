@@ -64,6 +64,19 @@ def write_json(fx, rel, obj):
     os.replace(tmp, p)
 
 
+def enable_factory_fixture(fx):
+    """Enable ONLY a temporary test clone; never touch the real production pause.
+
+    The production-control flag is legitimate operational state. Engine unit
+    tests exercise an enabled publisher by default and explicitly disable it
+    in dedicated pause tests. Copying production's paused flag into fixtures
+    otherwise makes every unrelated engine test skip its real assertions.
+    """
+    cfg = cp_json(fx, 'data/factory/production-control.json')
+    cfg['enabled'] = True
+    write_json(fx, 'data/factory/production-control.json', cfg)
+
+
 def corrupt_legacy_url(fx):
     """Lỗi toàn site: đổi current_url của 1 bài legacy trong inventory."""
     p = os.path.join(fx, 'data/content-inventory.csv')
@@ -341,6 +354,7 @@ class FxTestCase(unittest.TestCase):
         base = tempfile.mkdtemp(prefix='qa-modes-')
         self.fx = os.path.join(base, 'repo')
         shutil.copytree(ROOT, self.fx, ignore=IGNORE)
+        enable_factory_fixture(self.fx)  # isolated test clone, not production
         # hermetic: fixture KHÔNG mang draft của repo thựt — mọi draft
         # cần cho test đều do make_draft() tạo trong fixture. Trạng thái
         # WRITING của repo thựt có thể đã có draft (writer đã push), làm
