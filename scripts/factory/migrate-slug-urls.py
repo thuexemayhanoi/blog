@@ -464,7 +464,7 @@ def apply_batch(ctx, manifest, ids, dry_run=False, skip_ineligible=False):
     if not ctx.batch_id:
         ctx.batch_id = 'migrate-%s-%s-%s' % (datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%d'), ids[0], ids[-1])
     ctx.purpose = 'slug-d-migration'
-    ctx.reason = ('Sua slug thieu chu d (d -> d) cua bai da xuat ban; URL cu thanh trang HTTP 200 + meta refresh 0s + canonical '
+    ctx.reason = ('Sua slug bi mat chu U+0111 (d co gach ngang -> d) cua bai da xuat ban; URL cu thanh trang HTTP 200 + meta refresh 0s + canonical '
                   '(GitHub Pages khong co HTTP 301 theo duong dan). Issue #77.')
     # pass 1: ứng viên + corpus cuối của lô (hàng mới của các ID cùng lô) -> chấm điểm trên corpus cuối
     stage1, skipped, ineligible = {}, [], []
