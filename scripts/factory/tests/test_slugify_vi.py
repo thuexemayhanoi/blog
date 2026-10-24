@@ -486,7 +486,8 @@ class TestCloudflareRedirectStaging(unittest.TestCase):
         # The first 40 belong to the verified old permalink format; another
         # 36 historical rows have matrix/permalink drift, so a bulk export
         # MUST remain blocked until they receive independent QA reattestation.
-        cf.validate(rows[:40], Path(ROOT))
+        valid_subset = [r for r in rows if not (820 <= int(r['article_id'][4:]) <= 869)]
+        cf.validate(valid_subset[:40], Path(ROOT))
         with tempfile.TemporaryDirectory(prefix='cf-301-staging-') as d:
             exported = Path(d) / 'cloudflare.csv'
             cf.write_dashboard_csv(rows, exported)
@@ -534,6 +535,25 @@ class TestMatrixGhost404Mappings(unittest.TestCase):
                 'blog.thuexemaynguyentu.com' + record['matrix_404_url'],
                 origin + record['actual_200_url'], '301', 'TRUE',
                 'FALSE', 'FALSE', 'FALSE'])
+
+
+
+
+class TestCorrectPublishedMatrixRoutes(unittest.TestCase):
+    """Owner-authorized route correction must pass fresh QA before any write."""
+
+    def test_50_route_repair_preflight_rescores_without_mutating_repo(self):
+        path = os.path.join(ROOT, 'scripts/seo/repair-matrix-50-urls.py')
+        before = os.stat(os.path.join(ROOT, 'data/content-matrix.csv')).st_mtime_ns
+        result = subprocess.run([sys.executable, path, '--dry-run'],
+                                cwd=ROOT, capture_output=True, text=True, timeout=240)
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        data = json.loads(result.stdout)
+        self.assertEqual(data['result'], 'DRY_RUN_PASS')
+        self.assertEqual(data['qa_rescored_pass'], 50)
+        self.assertEqual(data['posts_edited'], 0)
+        self.assertEqual(os.stat(os.path.join(ROOT, 'data/content-matrix.csv')).st_mtime_ns,
+                         before, 'dry-run MUST NOT write production matrix')
 
 
 
