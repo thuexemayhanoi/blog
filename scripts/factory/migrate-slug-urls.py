@@ -469,6 +469,12 @@ def apply_batch(ctx, manifest, ids, dry_run=False, skip_ineligible=False):
             if aid in ctx.registry:
                 skipped.append(aid)
                 continue
+            e = manifest['entries'].get(aid)
+            if e is None or aid not in manifest['eligible'] or e.get('decision') != ELIGIBLE:
+                raise Refuse('NOT_ELIGIBLE', '%s khong thuoc danh sach du dieu kien cua manifest' % aid)
+            post_p = ctx.root / row['output_path']
+            if not post_p.is_file() or sha(post_p.read_bytes()) != e['base_post_sha256']:
+                raise Refuse('POST_CHANGED_SINCE_PLAN', '%s: bai da doi tu luc plan' % aid)
             d0 = derive(ctx, aid, score=False)
             stage1[aid] = d0.new_row
         except Refuse as e:

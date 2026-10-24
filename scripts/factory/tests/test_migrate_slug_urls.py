@@ -258,16 +258,16 @@ class TestApply(MigrateBase):
         self.assertEqual(M.verify_backup(self.ctx(), backup, rescore=True), [])
 
     def test_02_idempotent_dry_run_limits_and_approval(self):
-        ids = self.intact_candidates(2)
-        m = self.manifest(ids)
+        three = self.intact_candidates(3)
+        ids, spare = three[:2], three[2]
+        m = self.manifest(three)
         guard = tree_hashes(self.root, WATCH)
         rep = self.apply(m, ids, dry_run=True)
         self.assertEqual(sorted(rep['would_write']), sorted(ids))
         self.assertEqual(tree_hashes(self.root, WATCH), guard, 'dry-run khong ghi gi')
-        for kw, code in (({'approval': ''}, 'NO_APPROVAL'),):
-            with self.assertRaises(R.Refuse) as e:
-                M.apply_batch(self.ctx(approval=kw['approval']), m, ids)
-            self.assertEqual(e.exception.code, code)
+        with self.assertRaises(R.Refuse) as e:
+            M.apply_batch(self.ctx(approval=''), m, ids)
+        self.assertEqual(e.exception.code, 'NO_APPROVAL')
         with self.assertRaises(R.Refuse) as e:
             M.apply_batch(self.ctx(), m, ['BLG-%05d' % i for i in range(1, M.MAX_BATCH + 2)])
         self.assertEqual(e.exception.code, 'BATCH_TOO_LARGE')
@@ -277,15 +277,17 @@ class TestApply(MigrateBase):
         with self.assertRaises(R.Refuse) as e:
             M.apply_batch(self.ctx(batch='../x'), m, ids)
         self.assertEqual(e.exception.code, 'BAD_BATCH_ID')
+        self.assertEqual(tree_hashes(self.root, WATCH), guard, 'moi tu choi deu khong ghi gi')
         self.apply(m, ids)
         done = tree_hashes(self.root, WATCH)
         rep2 = self.apply(m, ids, batch='test-batch-2')
-        self.assertEqual((rep2['written'] if 'written' in rep2 else []), [])
+        self.assertEqual(rep2.get('written', []), [])
         self.assertEqual(sorted(rep2['already_current']), sorted(ids))
         self.assertEqual(tree_hashes(self.root, WATCH), done, 'chay lai la no-op')
         with self.assertRaises(R.Refuse) as e:
-            self.apply(m, ids, batch='test-batch')           # trùng tên sao lưu
+            self.apply(m, [spare], batch='test-batch')       # trung ten sao luu cua lo truoc
         self.assertEqual(e.exception.code, 'BATCH_EXISTS')
+        self.assertEqual(tree_hashes(self.root, WATCH), done)
 
     def test_03_stale_or_foreign_manifest_cannot_force(self):
         ids = self.intact_candidates(1)
