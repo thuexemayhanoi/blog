@@ -91,19 +91,43 @@ def first_published_planned(fx):
                 if r['status'] == 'PUBLISHED' and r['source'].startswith('planned:'))
 
 
-def borrow_planned_row(fx, count=1, skip_ids=None):
+_DATED_POST = re.compile(r'^(_posts/)\d{4}-\d{2}-\d{2}-')
+_DATED_URL = re.compile(r'/\d{4}/\d{2}/\d{2}/')
+
+
+def as_planned_row(row):
+    """Đưa hàng planned:PUBLISHED được mượn về ĐÚNG dạng hàng PLANNED thật.
+
+    Hàng PUBLISHED mang ngày xuất bản thật trong output_path/expected_url/
+    canonical_url (_posts/2026-09-27-slug.md, /muc/2026/09/27/slug/); hàng
+    PLANNED thật luôn giữ placeholder {date} (_posts/{date}-slug.md,
+    /muc/{date}/slug/). Test dựng draft, tên file và permalink từ placeholder
+    đó; nếu chỉ đổi status mà giữ ngày thật thì draft sinh ra mang tên sai
+    (selector refuse "ten file phai la ...") dù hàng đã về PLANNED."""
+    row['output_path'] = _DATED_POST.sub(r'\1{date}-', row['output_path'])
+    for col in ('expected_url', 'canonical_url'):
+        row[col] = _DATED_URL.sub('/{date}/', row[col], count=1)
+    return row
+
+
+def borrow_planned_row(fx, count=1, skip_ids=None, where=None):
     """Hermetic khi queue cạn: repo thật có thể đã publish hết hàng planned
     (không còn PLANNED, không còn chunk đang làm). Mượn ĐỦ `count` hàng
     planned:PUBLISHED của BẢN SAO về đúng trạng thái TRƯỚC promote (top-up:
     chỉ mượn phần thiếu so với số hàng PLANNED đã có): xóa bài _posts +
-    evidence QA tương ứng trong bản sao, trả hàng về PLANNED, hạ
-    in_progress_chunk, đồng bộ checkpoint và tái sinh outputs
-    deterministic (như pause an toàn). No-op khi đã đủ hàng PLANNED thật.
+    evidence QA tương ứng trong bản sao, trả hàng về PLANNED (kể cả dạng
+    {date} của output_path/URL, xem as_planned_row), hạ in_progress_chunk,
+    đồng bộ checkpoint và tái sinh outputs deterministic (như pause an
+    toàn). No-op khi đã đủ hàng PLANNED thật.
     skip_ids: KHÔNG mượn lại những ID này (soak test dài nhiều vòng: mượn
     lại hàng đã mượn tạo duplicate PUBLISHED trong transaction history).
+    where: bộ lọc hàng ứng viên (mặc định mọi hàng planned:PUBLISHED có
+    batch_id); khi có where, `count` là số hàng TỐI THIỂU thỏa where phải
+    ở trạng thái PLANNED (đếm cả hàng PLANNED thật thỏa where).
     Repo thật KHÔNG bị đụng."""
     rows = matrix_rows(fx)
-    need = count - sum(1 for r in rows if r['status'] == 'PLANNED')
+    pick = where or (lambda x: True)
+    need = count - sum(1 for r in rows if r['status'] == 'PLANNED' and pick(r))
     if need <= 0:
         return
     skip = set(skip_ids or ())
@@ -112,6 +136,7 @@ def borrow_planned_row(fx, count=1, skip_ids=None):
              if x['status'] == 'PUBLISHED'
              and x['source'].startswith('planned:')
              and x['id'] not in skip
+             and pick(x)
              # Hermetic đúng trạng thái trước promote: chỉ mượn hàng ĐÃ
              # CÓ batch_id — hàng PLANNED thật luôn có batch_id (schema
              # v2, validate.py bắt buộc). Mượn hàng planned:PUBLISHED
@@ -135,6 +160,7 @@ def borrow_planned_row(fx, count=1, skip_ids=None):
     for x in rows:
         if x['id'] in taken_ids:
             x['status'] = 'PLANNED'
+            as_planned_row(x)
     save_matrix(fx, rows)
     counts = {}
     for x in rows:
