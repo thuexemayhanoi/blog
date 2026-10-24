@@ -9,11 +9,26 @@ Tests: scripts/factory/tests/test_slugify_vi.py (lớp TestSeoSlugForms) và tes
 """
 from __future__ import annotations
 
+import importlib.util
 import os
 import sys
 
-sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "factory"))
-import slugkit  # noqa: E402
+_SLUGKIT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "factory", "slugkit.py")
+
+
+def _load_slugkit():
+    """Nạp scripts/factory/slugkit.py THEO ĐƯỜNG DẪN (cùng một module object với `import slugkit` ở nơi khác), không thêm
+    scripts/factory vào sys.path: thư mục đó có queue.py che mất module chuẩn `queue` (hỏng ThreadPoolExecutor/multiprocessing)."""
+    mod = sys.modules.get("slugkit")
+    if mod is None:
+        spec = importlib.util.spec_from_file_location("slugkit", _SLUGKIT)
+        mod = importlib.util.module_from_spec(spec)
+        sys.modules["slugkit"] = mod
+        spec.loader.exec_module(mod)
+    return mod
+
+
+slugkit = _load_slugkit()
 
 DATE_PREFIX = slugkit.DATE_PREFIX_RE
 MAX_SLUG = slugkit.MAX_SLUG_LEN

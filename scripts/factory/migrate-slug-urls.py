@@ -178,6 +178,15 @@ def _collisions(ctx, aid, new_slug, new_url, new_path, extra):
         raise Refuse('PATH_EXISTS', '%s: tep %s da ton tai' % (aid, new_path))
 
 
+BASELINE_DOUBLE_DATE_RE = re.compile(r'^(_posts/\d{4}-\d{2}-\d{2}-)\d{4}-\d{2}-\d{2}-')
+
+
+def baseline_new_path(path):
+    """Baseline đóng băng ghi tiền tố ngày HAI lần cho 7 bài legacy có ngày trong slug (`_posts/2026-09-29-2026-09-29-<slug>.md`);
+    đường dẫn đúng chỉ có một ngày (đúng như tệp bài hiện có). So sánh với bản đã gộp, không sửa baseline (sha256 ghim)."""
+    return BASELINE_DOUBLE_DATE_RE.sub(r'\1', path or '')
+
+
 def derive(ctx, aid, extra=None, score=True):
     """Đánh giá đầy đủ MỘT ID (thuần đọc). `extra` = {id: hàng mới} của các ID khác cùng lô (corpus chấm điểm cuối cùng).
     score=False: chỉ dựng ứng viên (mọi kiểm tra cấu trúc/va chạm, KHÔNG chấm điểm) — dùng để biết hàng mới của cả lô."""
@@ -230,7 +239,7 @@ def derive(ctx, aid, extra=None, score=True):
         new_url = slugkit.replace_slug_in_url(old_url, old_slug, new_slug)
     except ValueError as e:
         raise Refuse('BAD_URL_SHAPE', '%s: %s' % (aid, e))
-    if (base['old_url'], base['new_url'], base['new_output_path']) != (old_url, new_url, new_path):
+    if (base['old_url'], base['new_url'], baseline_new_path(base['new_output_path'])) != (old_url, new_url, new_path):
         raise Refuse('URL_MISMATCH_BASELINE', '%s: URL/duong dan tinh duoc (%s -> %s, %s) khac baseline (%s -> %s, %s)'
                      % (aid, old_url, new_url, new_path, base['old_url'], base['new_url'], base['new_output_path']))
     drift = not (row['expected_url'] == old_url and row['canonical_url'] == old_url)
@@ -518,6 +527,7 @@ def apply_batch(ctx, manifest, ids, dry_run=False, skip_ineligible=False):
         raise Refuse('BATCH_EXISTS', 'sao luu %s da ton tai — dung batch-id khac' % backup_rel)
     new_rows = {d.aid: d.new_row for d in prepared}
     matrix_old = (root / MATRIX_REL).read_bytes()
+    matrix_bytes_with(root, {})                      # CSV round-trip byte-exact TRƯỚC khi thay hàng (hàng khác giữ nguyên từng byte)
     matrix_new = matrix_bytes_with(root, new_rows)
     reg_old_path = root / SR.REGISTRY_REL
     reg_old = reg_old_path.read_bytes()
@@ -713,15 +723,17 @@ def verify_backup(ctx, backup, rescore=True):
 
 def rollback_backup(root, backup, ids=None, dry_run=False, force=False, shared=True):
     """Khôi phục byte-exact: bài cũ (đúng tên cũ), evidence cũ, hàng matrix cũ, bỏ dòng registry và trang chuyển hướng.
-    Mỗi mục chỉ được khôi phục khi còn đúng bản ĐÃ GHI (không đè thay đổi của người khác); `force` (nội bộ) khôi phục cả bản dở."""
+    Mỗi mục chỉ được khôi phục khi còn đúng bản ĐÃ GHI (không đè thay đổi của người khác); `force` (nội bộ) khôi phục cả bản dở.
+    Thứ tự an toàn: (1) kiểm TOÀN BỘ điều kiện (tệp + matrix + registry) rồi mới (2) ghi; (3) phần dùng chung (matrix/registry)
+    độc lập với trạng thái tệp của từng ID nên chạy lại sau một lần bị ngắt vẫn hoàn tất, không bao giờ kẹt nửa chừng."""
     check_backup_shape(backup)
     root = pathlib.Path(root)
     if ids is not None:
         unknown = sorted(set(ids) - set(backup['entries']))
         if unknown:
             raise Refuse('UNKNOWN_IDS', 'ID khong co trong sao luu: %s' % unknown[:5])
-    out = {'restored': [], 'skipped_changed_since_apply': [], 'dry_run': dry_run}
-    plan = []
+    out = {'restored': [], 'skipped_changed_since_apply': [], 'shared_restored': [], 'dry_run': dry_run}
+    plan, original_ids = [], []
     for aid, b in sorted(backup['entries'].items()):
         if ids is not None and aid not in ids:
             continue
@@ -735,12 +747,28 @@ def rollback_backup(root, backup, ids=None, dry_run=False, force=False, shared=T
         original = (old_p.is_file() and sha(old_p.read_bytes()) == b['old_post_sha256'] and not new_p.exists()
                     and ev_p.is_file() and sha(ev_p.read_bytes()) == b['old_evidence_sha256'] and not stub_p.exists())
         if original:
+            original_ids.append(aid)
             continue
         if not written and not force:
             out['skipped_changed_since_apply'].append(aid)
             continue
         plan.append((aid, b, old_post, old_ev, old_p, new_p, ev_p, stub_p))
         out['restored'].append(aid)
+    # phần dùng chung: ID sắp khôi phục tệp + ID đã có tệp cũ (lần rollback trước bị ngắt) mà matrix/registry còn ở bản đã di trú
+    shared_plan = []                                   # (aid, b, hàng matrix còn là bản đã ghi?)
+    if shared:
+        cur = {r['id']: r for r in SR.read_csv_rows(root / MATRIX_REL)}
+        in_registry = {r['article_id'] for r in SR.load_registry(root)}
+        for aid in sorted({p[0] for p in plan} | set(original_ids)):
+            b = backup['entries'][aid]
+            row = cur.get(aid)
+            migrated = row == b['new_row']
+            if not migrated and row != b['old_row'] and not force:
+                raise Refuse('MATRIX_CHANGED_SINCE_APPLY',
+                             '%s: hang matrix da doi sau apply — khong khoi phuc ban mo (chua ghi gi)' % aid)
+            if migrated or aid in in_registry:
+                shared_plan.append((aid, b, migrated))
+        out['shared_restored'] = [a for a, _, _ in shared_plan]
     if dry_run:
         return out
     for aid, b, old_post, old_ev, old_p, new_p, ev_p, stub_p in plan:
@@ -752,14 +780,12 @@ def rollback_backup(root, backup, ids=None, dry_run=False, force=False, shared=T
             stub_p.unlink()
         if sha(old_p.read_bytes()) != sha(old_post) or sha(ev_p.read_bytes()) != sha(old_ev):
             raise Refuse('ROLLBACK_MISMATCH', '%s: khoi phuc khong khop' % aid)
-    if shared and plan:
-        restore = {aid: b['old_row'] for aid, b, *_ in plan}
-        cur = {r['id']: r for r in SR.read_csv_rows(root / MATRIX_REL)}
-        for aid, b, *_ in plan:
-            if cur.get(aid) != b['new_row'] and not force:
-                raise Refuse('MATRIX_CHANGED_SINCE_APPLY', '%s: hang matrix da doi sau apply — khong khoi phuc ban mo' % aid)
-        atomic_write(root / MATRIX_REL, _matrix_restore_bytes(root, restore))
-        reg = [r for r in SR.load_registry(root) if r['article_id'] not in restore]
+    if shared_plan:
+        restore = {aid: b['old_row'] for aid, b, migrated in shared_plan if migrated}
+        if restore:
+            atomic_write(root / MATRIX_REL, _matrix_restore_bytes(root, restore))
+        drop = {aid for aid, _, _ in shared_plan}
+        reg = [r for r in SR.load_registry(root) if r['article_id'] not in drop]
         atomic_write(root / SR.REGISTRY_REL, SR.registry_text(reg).encode('utf-8'))
     out['ok'] = True
     return out
@@ -1393,8 +1419,10 @@ def main(argv=None):
             ids = set(_ids(a.ids)) if a.ids is not None else None
             if a.ids is not None and not ids:
                 raise Refuse('BAD_IDS', '--ids rong: bo --ids de khoi phuc ca lo')
-            print(json.dumps(rollback_links(ROOT, backup, ids, a.dry_run), ensure_ascii=False, indent=2))
-            return 0
+            out = rollback_links(ROOT, backup, ids, a.dry_run)
+            out['ok'] = not out.get('skipped_changed_since_apply')
+            print(json.dumps(out, ensure_ascii=False, indent=2))
+            return 0 if out['ok'] else 1
         if a.cmd == 'refresh-data':
             changed = refresh_data(ROOT, a.check)
             print(json.dumps({'ok': not (a.check and changed), 'changed' if not a.check else 'stale': changed},
@@ -1413,9 +1441,9 @@ def main(argv=None):
             if not ids:
                 raise Refuse('BAD_IDS', '--ids rong: bo --ids de khoi phuc ca lo')
         out = rollback_backup(ROOT, backup, ids, a.dry_run)
-        out['ok'] = True
+        out['ok'] = not out['skipped_changed_since_apply']        # có ID bị bỏ qua (đã đổi sau apply) = chưa khôi phục hết
         print(json.dumps(out, ensure_ascii=False, indent=2))
-        return 0
+        return 0 if out['ok'] else 1
     except Refuse as e:
         d = {'ok': False, 'code': e.code, 'error': e.msg}
         d.update(e.extra)

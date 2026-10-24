@@ -11,8 +11,10 @@ byte-exact và không đè thay đổi của người khác; apply lỗi giữa 
 Chạy: python3 scripts/factory/tests/test_migrate_slug_urls.py (từ gốc repository)
 """
 import copy
+import csv
 import hashlib
 import importlib.util
+import io
 import json
 import os
 import pathlib
@@ -226,6 +228,26 @@ class TestPlan(MigrateBase):
         self.assertEqual(e.exception.code, 'ALREADY_MIGRATED')
 
 
+    def test_date_prefixed_baseline_row_passes_path_comparison(self):
+        """Review #77: baseline ghi tiền tố ngày hai lần ở new_output_path của 7 bài legacy; derive() phải so với bản đã gộp."""
+        aid = 'BLG-00868'
+        c = M.make_ctx(self.root, 'x', 'p')
+        b = c.baseline[aid]
+        self.assertRegex(b['new_output_path'], r'^_posts/(\d{4}-\d{2}-\d{2})-\1-')
+        row = self.row(aid)
+        post = self.root / row['output_path']
+        ev_p = self.root / 'data/qa' / (aid + '.json')
+        ev = json.loads(ev_p.read_text(encoding='utf-8'))
+        ev.update(content_sha256=sha(post.read_bytes()), matrix_row_sha256=A.fingerprint(row), source_path=row['output_path'],
+                  result='PASS', article_id=aid)
+        ev_p.write_text(json.dumps(ev, ensure_ascii=False, indent=2), encoding='utf-8')
+        self.focus.add(aid)
+        d = M.derive(self.ctx(), aid, score=False)
+        self.assertEqual((d.old_url, d.new_url), (b['old_url'], b['new_url']))
+        self.assertEqual(d.new_path, '_posts/2026-09-29-dat-xe-truoc-bao-lau-thi-nen.md')
+        self.assertEqual(M.baseline_new_path(b['new_output_path']), d.new_path)
+        self.assertEqual(M.baseline_new_path('_posts/2026-10-09-ha-noi-di.md'), '_posts/2026-10-09-ha-noi-di.md')
+
 class TestApply(MigrateBase):
 
     def test_01_apply_writes_everything_consistently_and_verifies(self):
@@ -412,6 +434,73 @@ class TestRollback(MigrateBase):
         self.assertEqual(e.exception.code, 'POST_VERIFY_FAILED')
         self.assertEqual(tree_hashes(self.root, WATCH), before)
 
+
+    def edit_matrix_row(self, aid, **changes):
+        raw = (self.root / M.MATRIX_REL).read_bytes().decode('utf-8')
+        reader = csv.DictReader(io.StringIO(raw, newline=''))
+        fields = reader.fieldnames
+        rows = list(reader)
+        for r in rows:
+            if r['id'] == aid:
+                r.update(changes)
+        buf = io.StringIO()
+        w = csv.DictWriter(buf, fieldnames=fields, lineterminator='\n')
+        w.writeheader()
+        w.writerows(rows)
+        (self.root / M.MATRIX_REL).write_bytes(buf.getvalue().encode('utf-8'))
+
+    def test_03_matrix_edited_after_apply_refuses_before_writing_anything(self):
+        """Review #77: trước đây rollback khôi phục bài/evidence/trang chuyển hướng RỒI mới từ chối vì matrix đổi -> kẹt nửa chừng."""
+        ids = self.intact_candidates(2)
+        m = self.manifest(ids)
+        rep = self.apply(m, ids)
+        backup = json.loads((self.root / rep['backup']).read_text(encoding='utf-8'))
+        self.edit_matrix_row(ids[0], intent=self.row(ids[0])['intent'] + ' (sua tay)')
+        after_edit = tree_hashes(self.root, WATCH)
+        for dry in (True, False):
+            with self.assertRaises(R.Refuse) as e:
+                M.rollback_backup(self.root, backup, dry_run=dry)
+            self.assertEqual(e.exception.code, 'MATRIX_CHANGED_SINCE_APPLY')
+            self.assertEqual(tree_hashes(self.root, WATCH), after_edit, 'tu choi TRUOC khi ghi bat ky tep nao')
+
+    def test_04_interrupted_rollback_is_completed_by_rerun(self):
+        """Ngắt giữa lúc khôi phục tệp và lúc khôi phục matrix/registry: chạy lại hoàn tất phần dùng chung (không còn kẹt)."""
+        ids = self.intact_candidates(2)
+        m = self.manifest(ids)
+        before = tree_hashes(self.root, WATCH)
+        rep = self.apply(m, ids)
+        backup = json.loads((self.root / rep['backup']).read_text(encoding='utf-8'))
+        real = M.atomic_write
+
+        def flaky(path, data):
+            if pathlib.Path(path).name == 'content-matrix.csv':
+                raise OSError('gia lap ngat dien')
+            return real(path, data)
+
+        M.atomic_write = flaky
+        try:
+            with self.assertRaises(OSError):
+                M.rollback_backup(self.root, backup)
+        finally:
+            M.atomic_write = real
+        self.assertFalse(SR.source_errors(self.root) == [], 'tep da ve ban cu nhung matrix/registry con o ban di tru')
+        out = M.rollback_backup(self.root, backup)
+        self.assertEqual(out['restored'], [])
+        self.assertEqual(sorted(out['shared_restored']), sorted(ids))
+        self.assertEqual(tree_hashes(self.root, WATCH), before, 'chay lai hoan tat rollback byte-exact')
+        again = M.rollback_backup(self.root, backup)
+        self.assertEqual((again['restored'], again['shared_restored']), ([], []), 'lan ba la no-op')
+
+    def test_05_cli_exit_code_nonzero_when_ids_were_skipped(self):
+        ids = self.intact_candidates(2)
+        m = self.manifest(ids)
+        rep = self.apply(m, ids)
+        backup = json.loads((self.root / rep['backup']).read_text(encoding='utf-8'))
+        p = self.root / self.row(ids[0])['output_path']
+        R.atomic_write(p, p.read_bytes() + b'\nsua tay\n')
+        out = M.rollback_backup(self.root, backup)
+        self.assertEqual(out['skipped_changed_since_apply'], [ids[0]])
+        self.assertFalse(not out['skipped_changed_since_apply'])    # CLI: ok = not skipped -> thoát 1 (bao còn ID chưa khôi phục)
 
 class TestMatrixAndData(MigrateBase):
 

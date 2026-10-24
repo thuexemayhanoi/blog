@@ -181,6 +181,7 @@ H1_RE = re.compile(r"<h1[\s>].*?</h1>", re.S | re.I)
 LD_RE = re.compile(r"""<script type=["']application/ld\+json["']>(.*?)</script>""", re.S | re.I)
 A_HREF_RE = re.compile(r"""<a\s[^>]*?href=["']([^"']+)["']""", re.I)
 ICON_RE = re.compile(r"""<link\s+rel=["']icon["']""", re.I)
+REFRESH_RE = re.compile(r"""<meta\s[^>]*?http-equiv=["']refresh["'][^>]*?content=["']\s*\d+\s*;\s*url=([^"']+)["']""", re.I)
 BREADCRUMB_RE = re.compile(r"""aria-label=["']Đường dẫn["']""")
 MAIN_RE = re.compile(r"<main\b.*?</main>", re.S | re.I)
 
@@ -196,6 +197,8 @@ def scan_html(path: Path) -> dict:
     d["canonical"] = m.group(1) if m else ""
     m = ROBOTS_RE.search(txt)
     d["robots"] = m.group(1) if m else ""
+    m = REFRESH_RE.search(txt)
+    d["meta_refresh"] = html.unescape(m.group(1)).strip() if m else ""      # trang chuyển hướng slug đ->d (HTTP 200 + meta refresh)
     d["h1_count"] = len(H1_RE.findall(txt))
     h1 = H1_RE.search(txt)
     d["h1"] = html.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", h1.group(0))).strip()) if h1 else ""
@@ -462,6 +465,17 @@ def main() -> int:
         for u, d in pages.items():
             if u == "/404.html":
                 continue
+            if d.get("meta_refresh"):
+                # trang chuyển hướng (docs/SLUG-URL-POLICY.md): canonical phải là URL đích, không được nằm trong sitemap; các kiểm tra
+                # canonical/H1/sitemap dành cho bài không áp dụng (đây KHÔNG phải HTTP 301)
+                tgt = norm_url(d["meta_refresh"])
+                if norm_url(d["canonical"]) != tgt:
+                    issue("STUB_CANONICAL_MISMATCH", "P0", u, f"canonical={d['canonical']} meta_refresh={d['meta_refresh']}",
+                          "trang chuyển hướng canonical khác đích", "Sinh lại trang chuyển hướng bằng migrate-slug-urls.py")
+                if u in sitemap_urls:
+                    issue("STUB_IN_SITEMAP", "P0", u, "trang chuyển hướng nằm trong sitemap.xml", "sitemap: false bị bỏ",
+                          "Trang chuyển hướng phải có sitemap: false")
+                continue
             if d["h1_count"] != 1:
                 issue("H1_COUNT", "P1", u, f"h1_count={d['h1_count']}", "layout/nội dung", "Chuẩn hóa tại layout")
             if not d["canonical"]:
@@ -508,7 +522,9 @@ def main() -> int:
             if u in post_urls or u == "/404.html":
                 continue
             typ = "Page"
-            if u == "/":
+            if d.get("meta_refresh"):
+                typ = "RedirectStub"
+            elif u == "/":
                 typ = "Home"
             elif u.count("/") == 2 and u in {"/thue-xe/", "/xe-may/", "/an-toan-phap-ly/", "/du-lich/", "/cung-duong/", "/ky-nang/", "/hoi-dap/"}:
                 typ = "Pillar"

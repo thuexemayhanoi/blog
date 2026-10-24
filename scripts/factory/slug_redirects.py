@@ -119,6 +119,14 @@ def actual_stub_files(root=None):
     return out
 
 
+def has_migration_provenance(ev, new_url):
+    """Evidence mang dấu vết di trú permalink đúng URL mới: ở khối `revision` hiện tại HOẶC trong chuỗi `revision.history`
+    (các công cụ chính thức sau đó — links-apply, revise-published — đẩy khối cũ xuống history, không xóa)."""
+    rv = ev.get('revision') or {}
+    chain = [rv] + [h for h in (rv.get('history') or []) if isinstance(h, dict)]
+    return any(x.get('kind') == 'permalink-migration' and x.get('new_url') == new_url for x in chain)
+
+
 def source_errors(root=None, matrix_rows=None, evidence=True):
     """Kiểm tra NGUỒN (không cần build): registry <-> matrix <-> bài <-> evidence <-> tệp chuyển hướng.
     Trả danh sách lỗi (rỗng = sạch). Dùng bởi validate.py và test."""
@@ -190,8 +198,7 @@ def source_errors(root=None, matrix_rows=None, evidence=True):
                     with open(post, 'rb') as f:
                         if hashlib.sha256(f.read()).hexdigest() != ev.get('content_sha256'):
                             errs.append('registry %s: evidence content_sha256 không khớp bài' % aid)
-                rv = ev.get('revision') or {}
-                if rv.get('kind') != 'permalink-migration' or rv.get('new_url') != r['new_url']:
+                if not has_migration_provenance(ev, r['new_url']):
                     errs.append('registry %s: evidence thiếu provenance permalink-migration đúng URL' % aid)
     want_files = expected_stub_files(root)
     have_files = actual_stub_files(root)
