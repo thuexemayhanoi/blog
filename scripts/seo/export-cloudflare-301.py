@@ -146,14 +146,24 @@ def main() -> int:
     if not args.validate_only and not args.out:
         parser.error("--out required unless --validate-only or --selftest")
     rows = manifest_rows(args.source)
+    # Validate the WHOLE manifest for duplicate destinations even when a
+    # small batch is requested. Production matrix/permalink checks are scoped
+    # to the chosen batch; 36 older matrix rows are known to differ from
+    # their real published permalinks and must stay blocked until repaired.
     try:
-        validate(rows, ROOT if args.source.resolve() == SOURCE.resolve() else None)
+        validate(rows, None)
     except ValueError as exc:
-        print("BLOCKED: " + str(exc), file=sys.stderr)
+        print("BLOCKED: manifest integrity: " + str(exc), file=sys.stderr)
         return 2
     selected = rows[args.start:(args.start + args.limit if args.limit else None)]
     if not selected:
         print("BLOCKED: empty chosen batch", file=sys.stderr)
+        return 2
+    try:
+        validate(selected, ROOT if args.source.resolve() == SOURCE.resolve() else None)
+    except ValueError as exc:
+        print("BLOCKED: selected batch is not migration-ready: " + str(exc),
+              file=sys.stderr)
         return 2
     summary = {"validated_manifest_urls": len(rows),
                "staged_redirects": len(selected), "start": args.start,
