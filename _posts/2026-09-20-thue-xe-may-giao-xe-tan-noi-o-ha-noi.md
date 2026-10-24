@@ -45,7 +45,7 @@ Xăng cũng cần thống nhất ngay. Hỏi xe đang ở mức nào và yêu c�
 
 Trước giờ trả, hãy nhắn cho cửa hàng để chốt thời gian và địa điểm. Nếu bạn muốn trả xe ở địa chỉ khác địa điểm nhận, báo trước là điều bắt buộc, vì cửa hàng cần cân nhắc quãng đường thu hồi xe. Một số nơi tính thêm phí cho việc này, và mức phí chỉ được xác nhận qua trao đổi trực tiếp.
 
-Tình trạng xe lúc trả cũng nên được hai bên cùng kiểm tra, tương tự lúc nhận. Chụp ảnh sau khi trả, giữ lại tin nhắn xác nhận của cửa hàng và chỉ nhận lại tiền cọc khi đã hoàn tất đầy đủ các bước này. Nếu bạn trả trễ, phí trễ thường rơi vào khoảng 20.000đ mỗi giờ, và trường hợp trễ quá sáu giờ có thể được tính thêm một ngày thuê tùy quy định. Vì vậy, hãy báo sớm nếu thấy lịch trình của mình có nguy cơ trượt giờ.
+Tình trạng xe lúc trả cũng nên được hai bên cùng kiểm tra, tương tự lúc nhận. Chụp ảnh sau khi trả và giữ lại tin nhắn xác nhận của cửa hàng; tiền cọc được hoàn trả theo điều khoản hợp đồng sau khi bàn giao xe và hoàn thành các nghĩa vụ liên quan. Nếu dự kiến trả muộn, hãy báo sớm để xác nhận lại thời gian và các khoản phát sinh (nếu có) theo hợp đồng hoặc thỏa thuận.
 
 Trường hợp chuyến bay dời giờ hoặc kế hoạch thay đổi, việc đầu tiên là nhắn tin cho cửa hàng càng sớm càng tốt. Các cửa hàng làm việc bài bản luôn muốn biết trước để sắp xếp lại lịch giao hoặc thu xe, và thái độ báo tin sớm của bạn giúp mọi thỏa thuận thêm thuận lợi.
 
