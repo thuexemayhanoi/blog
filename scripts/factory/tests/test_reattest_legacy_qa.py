@@ -141,6 +141,8 @@ class ReattestBase(FxTestCase):
             if (ev.get('content_sha256') != sha(cur)
                     or ev.get('matrix_row_sha256') != A.fingerprint(row)):
                 continue     # evidence da lech hash THAT: khong phai diem xuat phat sach
+            if 'revision' in ev or 'reattestation' in ev:
+                continue     # da duoc cong cu chinh thuc ghi lai (di tru permalink, sua gia...): khong phai evidence cu "sach"
             fresh = A.rescore_published(ctx.op, row, ctx.rows, ctx.biz, ctx.tax)
             # con du cho vai tu them (test_13 them mot cau): khong sat tran word_target
             roomy = fresh.get('word_count', 0) <= fresh.get('word_target', 0) * 1.08
