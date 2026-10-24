@@ -74,7 +74,7 @@ Nếu chuyến đi của bạn cần quãng đường dài hoặc linh hoạt đ
 - **Theo dõi pin:** để ý đồng hồ pin; đừng để cạn pin giữa chuyến đi.
 - **Tránh ngấm nước:** không đi qua vùng ngập sâu; pin và động cơ cần tránh nước.
 - **Kiểm tra xe khi nhận:** đèn, còi, phanh, lốp, mức pin hiện có.
-- **Trả xe đúng giờ:** phí trễ 20.000đ/giờ; trễ quá 6 tiếng có thể tính thêm một ngày thuê.
+- **Trả xe đúng giờ:** nếu cần gia hạn hoặc trả muộn, hãy liên hệ Nguyễn Tú sớm để xác nhận lịch xe và chi phí phát sinh (nếu có) theo hợp đồng hoặc thỏa thuận.
 
 ## Quy trình thuê xe điện
 
