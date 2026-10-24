@@ -42,6 +42,15 @@ def validate(rows: list[dict], site: Path | None = ROOT) -> None:
         raise ValueError("empty migration map")
     old_seen = set()
     new_seen = set()
+    matrix_by_id = {}
+    current_urls = set()
+    matrix_path = site / "data/content-matrix.csv" if site else None
+    if matrix_path and matrix_path.is_file():
+        with matrix_path.open(encoding="utf-8", newline="") as fh:
+            for entry in csv.DictReader(fh):
+                matrix_by_id[entry["id"]] = entry
+                if entry["status"] in ("PUBLISHED", "EXISTING", "REVIEW"):
+                    current_urls.add(entry["expected_url"])
     for i, row in enumerate(rows, start=1):
         aid, old, new = row["article_id"], row["old_url"], row["new_url"]
         if not re.fullmatch(r"BLG-\d{5}", aid):
@@ -57,6 +66,14 @@ def validate(rows: list[dict], site: Path | None = ROOT) -> None:
             raise ValueError("collision flag present, STOP: %s" % aid)
         if row["migration_ready"].upper() != "NO":
             raise ValueError("unexpected migration_ready: %s" % aid)
+        if matrix_by_id:
+            actual = matrix_by_id.get(aid)
+            if (not actual or actual["status"] != "PUBLISHED"
+                    or actual["expected_url"] != old
+                    or actual["output_path"] != row["old_output_path"]):
+                raise ValueError("published matrix row drifted from migration map: %s" % aid)
+            if new in current_urls:
+                raise ValueError("proposed NEW path already published: %s" % aid)
         if site:
             rel = Path(row["old_output_path"])
             if rel.is_absolute() or ".." in rel.parts or rel.parts[0] != "_posts":
