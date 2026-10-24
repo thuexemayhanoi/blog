@@ -60,8 +60,9 @@ trang chuyển hướng; dòng registry `reports/factory/seo-master/slug-redirec
 1. Cây sạch trên `main` mới nhất → `plan` (manifest gắn một commit sạch) → `apply --dry-run` → `apply`.
 2. `refresh-data` (dữ liệu khóa theo URL: `_data/legal-notices.json`, `_data/seo-leads.yml`; sinh lại `seo-topic-links.json`, `price-notices.json` — cần PyYAML).
 3. `verify --backup reports/qa-audit/migrate/<batch>.json` và `validate.py --scope chunk`.
-4. Build Jekyll cục bộ (hoặc đợi gate FULL) rồi `check-slug-redirects.py --site <site> --write-ratchet --allow-raise` để ghi ngưỡng ratchet đo được
-   (`apply`/`rollback` KHÔNG đọc/ghi ratchet; thiếu ngưỡng khi registry không rỗng là LỖI của gate).
+4. Ghi ngưỡng ratchet: `check-slug-redirects.py --from-source --write-ratchet --allow-raise` (đếm liên kết vào URL cũ ngay từ nguồn, không cần build; đã đối chiếu
+   bằng số đo trên output build thật: 4/10 bài, 124/50 bài) — hoặc `--site <site> --write-ratchet --allow-raise` sau một bản build cục bộ. Gate FULL luôn kiểm lại trên output build thật.
+   (`apply`/`rollback` KHÔNG đọc/ghi ratchet; thiếu ngưỡng khi registry không rỗng là LỖI của gate.)
 5. Một commit/lô → PR → gate FULL xanh → merge → Pages deploy → `factory-liveness.yml` (`live_audit=true`, `stub_check=start:limit` cho đúng các mục của lô) → lô kế tiếp.
 
 ### Kiểm tra

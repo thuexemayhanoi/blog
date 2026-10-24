@@ -3,6 +3,7 @@
 """Kiểm tra OUTPUT ĐÃ BUILD (trước khi deploy) của di trú slug đ -> d (Issue #77). READ-ONLY, offline.
 
   python3 scripts/factory/check-slug-redirects.py --site ./_site [--root .] [--max-stub-links N]
+  python3 scripts/factory/check-slug-redirects.py --from-source [--write-ratchet --allow-raise]   # ước lượng ratchet KHÔNG cần build
 
 Với MỌI dòng MIGRATED trong reports/factory/seo-master/slug-redirect-registry.csv:
   URL CŨ  : tệp <site>/<old>/index.html tồn tại; đúng MỘT `<meta http-equiv="refresh" content="0; url=MỚI">`
@@ -87,6 +88,47 @@ def anchor_paths(text, site_host):
         if p:
             out.add(p)
     return out
+
+
+SOURCE_SKIP_DIRS = {'_site', '.git', '.jekyll-cache', '.sass-cache', 'node_modules', 'vendor', 'docs', 'reports', 'scripts', 'data',
+                    '_drafts', 'redirects', 'tests', 'bin', 'build_info', 'cache'}
+SOURCE_EXT = ('.md', '.html', '.yml', '.yaml', '.json')
+
+
+def source_stub_links(root=None):
+    """Đếm liên kết trỏ vào URL cũ (đã thành trang chuyển hướng) NGAY TỪ NGUỒN (bài, include, layout, trang, _data), không cần build.
+    Mỗi lần xuất hiện của URL cũ (có/không '/' cuối, đủ token) = một liên kết. Khớp đúng số do `check()` đo trên output build ở cả lô thí
+    điểm 10 bài (4) lẫn 50 bài (124); gate vẫn kiểm trên output build thật — số này chỉ để đặt ratchet nhanh cho mỗi lô."""
+    root = root or SR.ROOT
+    old_urls = [r['old_url'] for r in SR.load_registry(root) if r.get('status') == SR.MIGRATED]
+    if not old_urls:
+        return {'stub_links': 0, 'stub_link_sources': 0, 'registry': 0}
+    forms = set()
+    for u in old_urls:
+        forms.add(u)
+        forms.add(u.rstrip('/'))
+    pat = re.compile('|'.join(re.escape(f) for f in sorted(forms, key=len, reverse=True)))
+    total, sources = 0, 0
+    for dp, dns, fns in os.walk(root):
+        rel = os.path.relpath(dp, root)
+        if rel == '.':
+            dns[:] = [d for d in dns if d not in SOURCE_SKIP_DIRS or d in ('_data',)]
+        for fn in fns:
+            if not fn.endswith(SOURCE_EXT):
+                continue
+            path = os.path.join(dp, fn)
+            try:
+                text = read(path)
+            except OSError:
+                continue
+            n = 0
+            for m in pat.finditer(text):
+                if m.group(0).endswith('/') or not re.match(r'[\w\-/]', text[m.end():m.end() + 1]):
+                    n += 1
+            if n:
+                total += n
+                sources += 1
+    return {'stub_links': total, 'stub_link_sources': sources, 'registry': len(old_urls)}
 
 
 def check(site, root=None, max_stub_links=None):
@@ -185,9 +227,41 @@ def check(site, root=None, max_stub_links=None):
             'ratchet': limit, 'errors': errors, 'notes': notes}
 
 
+def write_ratchet(root, value, allow_raise):
+    rp = os.path.join(root or SR.ROOT, SR.RATCHET_REL)
+    doc = {}
+    cur = None
+    if os.path.isfile(rp):
+        with open(rp, encoding='utf-8') as f:
+            doc = json.load(f)
+        cur = doc.get('max_links_to_stub_pages')
+    if cur is not None and value > cur and not allow_raise:
+        print('FAIL: --write-ratchet không được TĂNG ngưỡng (%d -> %d) nếu thiếu --allow-raise' % (cur, value))
+        return 1
+    doc['max_links_to_stub_pages'] = value
+    with open(rp, 'w', encoding='utf-8') as f:
+        json.dump(doc, f, ensure_ascii=False, indent=1)
+        f.write('\n')
+    print('ratchet = %d (ghi %s)' % (value, os.path.relpath(rp)))
+    return 0
+
+
+def main_from_source(a):
+    res = source_stub_links(a.root)
+    print('registry=%d liên_kết_tới_trang_chuyển_hướng(nguồn)=%d (từ %d tệp)' % (res['registry'], res['stub_links'], res['stub_link_sources']))
+    if a.json:
+        with open(a.json, 'w', encoding='utf-8') as f:
+            json.dump(res, f, ensure_ascii=False, indent=1)
+    if a.write_ratchet:
+        return write_ratchet(a.root, res['stub_links'], a.allow_raise)
+    return 0
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('--site', default='_site')
+    ap.add_argument('--from-source', action='store_true',
+                    help='đếm liên kết vào trang chuyển hướng từ NGUỒN (không cần build); với --write-ratchet ghi ngưỡng ratchet')
     ap.add_argument('--root', default=None)
     ap.add_argument('--max-stub-links', type=int, default=None)
     ap.add_argument('--json', default='')
@@ -196,6 +270,8 @@ def main(argv=None):
     ap.add_argument('--allow-raise', action='store_true',
                     help='cho phép TĂNG ngưỡng (chỉ khi di trú thêm bài: URL cũ mới sinh thêm liên kết vào trang chuyển hướng)')
     a = ap.parse_args(argv)
+    if a.from_source:
+        return main_from_source(a)
     if not os.path.isdir(a.site):
         print('LỖI: không có thư mục site %s' % a.site, file=sys.stderr)
         return 2
@@ -216,21 +292,7 @@ def main(argv=None):
     if res['errors'] and not (a.write_ratchet and all('ngưỡng' in e for e in res['errors']) and a.allow_raise):
         return 1
     if a.write_ratchet:
-        rp = os.path.join(a.root or SR.ROOT, SR.RATCHET_REL)
-        cur = res['ratchet']
-        if cur is not None and res['stub_links'] > cur and not a.allow_raise:
-            print('FAIL: --write-ratchet không được TĂNG ngưỡng (%d -> %d) nếu thiếu --allow-raise' % (cur, res['stub_links']))
-            return 1
-        doc = {}
-        if os.path.isfile(rp):
-            with open(rp, encoding='utf-8') as f:
-                doc = json.load(f)
-        doc['max_links_to_stub_pages'] = res['stub_links']
-        with open(rp, 'w', encoding='utf-8') as f:
-            json.dump(doc, f, ensure_ascii=False, indent=1)
-            f.write('\n')
-        print('ratchet = %d (ghi %s)' % (res['stub_links'], os.path.relpath(rp)))
-        return 0
+        return write_ratchet(a.root, res['stub_links'], a.allow_raise)
     print('OK: di trú slug — mọi trang cũ = HTTP 200 + meta refresh 0s + canonical mới; trang mới hợp lệ (KHÔNG phải 301)')
     return 0
 

@@ -506,6 +506,32 @@ class BuiltSiteCheckTest(unittest.TestCase):
             json.dump({'note': 'thiếu khóa'}, f)
         self.assertTrue(any('thiếu ngưỡng ratchet' in e for e in self.res()['errors']))   # có file nhưng thiếu khóa cũng không tắt ngầm
 
+    def test_source_count_matches_built_count_and_writes_ratchet_without_a_build(self):
+        """`--from-source` đo số liên kết vào trang chuyển hướng từ NGUỒN; phải bằng số đo trên output build (đã đối chiếu ở bản
+        build thật: 4 liên kết/10 bài, 124 liên kết/50 bài). Registry/stub/evidence chứa URL cũ nhưng KHÔNG phải liên kết."""
+        self.good()
+        old = self.e['old_url']
+        os.makedirs(os.path.join(self.root, '_posts'), exist_ok=True)
+        with open(os.path.join(self.root, '_posts', 'x.md'), 'w', encoding='utf-8') as f:
+            f.write('a [x](%s) b <a href="%s">y</a> c [z](%s#f) d [v](%s) e [k](/khac/)\n' % (old, old, old, old.rstrip('/')))
+        os.makedirs(os.path.join(self.root, '_data'), exist_ok=True)
+        with open(os.path.join(self.root, '_data', 'l.yml'), 'w', encoding='utf-8') as f:
+            f.write('- url: %s\n' % old)
+        self.put('/bai-khac/', real_page('/bai-khac/', links=[old, old, old, old.rstrip('/')]))
+        built = self.res(max_stub_links=99)
+        src = CHECK.source_stub_links(self.root)
+        self.assertEqual(src['stub_links'], 5)                        # 4 trong bài + 1 trong _data; registry/stub/evidence không tính
+        self.assertEqual(built['stub_links'], 4)                      # ví dụ build này chỉ có 4 vì bài mẫu không build ra; hàm nguồn không thấp hơn
+        self.assertGreaterEqual(src['stub_links'], built['stub_links'])
+        rp = os.path.join(self.root, SR.RATCHET_REL)
+        self.assertEqual(CHECK.main(['--from-source', '--root', self.root, '--write-ratchet']), 0)       # chưa có ngưỡng: ghi
+        self.assertEqual(json.load(open(rp, encoding='utf-8'))['max_links_to_stub_pages'], 5)
+        with open(os.path.join(self.root, '_posts', 'x.md'), 'a', encoding='utf-8') as f:
+            f.write('[them](%s)\n' % old)
+        self.assertEqual(CHECK.main(['--from-source', '--root', self.root, '--write-ratchet']), 1)       # tăng cần --allow-raise
+        self.assertEqual(CHECK.main(['--from-source', '--root', self.root, '--write-ratchet', '--allow-raise']), 0)
+        self.assertEqual(json.load(open(rp, encoding='utf-8'))['max_links_to_stub_pages'], 6)
+
     def test_write_ratchet_only_lowers_unless_allowed(self):
         self.good()
         self.put('/bai-khac/', real_page('/bai-khac/', links=[self.e['old_url']] * 3))
