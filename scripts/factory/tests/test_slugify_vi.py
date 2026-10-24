@@ -420,5 +420,20 @@ class TestSeoSlugForms(unittest.TestCase):
         self.assertEqual(wrong, [], 'hàng PLANNED có slug khác slug đúng: %s' % wrong[:5])
 
 
+
+class TestLiveSitemapAudit(unittest.TestCase):
+    """Offline regressions for the read-only sitemap + Vietnamese d-slug checker."""
+
+    def test_sitemap_parser_and_url_allowlist(self):
+        tool = load('live_sitemap_checker_t', 'scripts/seo/audit-live-sitemap.py')
+        self.assertEqual(tool.selftest(), 0)
+        self.assertEqual(tool.ORIGIN, 'https://blog.thuexemaynguyentu.com')
+
+    def test_old_url_is_not_mutated_to_unreachable_new_url(self):
+        tool = load('live_sitemap_checker_t2', 'scripts/seo/audit-live-sitemap.py')
+        self.assertTrue(tool.SITEMAP.endswith('/sitemap.xml'))
+        self.assertTrue(hasattr(tool, 'NoRedirect'))
+
+
 if __name__ == '__main__':
     unittest.main(verbosity=1)
