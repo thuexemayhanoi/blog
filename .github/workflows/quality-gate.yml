@@ -158,6 +158,25 @@ jobs:
           done < changed-files.txt
           if [ "$found" = 0 ]; then echo "no content-revision backup in this change"; fi
 
+      - name: Slug-migration backups touched by this change must verify
+        run: |
+          set -eu
+          # Lô di trú slug đ->d (scripts/factory/migrate-slug-urls.py) commit sao lưu riêng (bài cũ + evidence cũ + hàng
+          # matrix cũ). Mọi sao lưu được THÊM/SỬA trong thay đổi này phải verify: cấu trúc, hash, provenance, bài mới ==
+          # bài cũ chỉ khác dòng permalink, hàng matrix/registry/trang chuyển hướng khớp và chấm lại ĐỘC LẬP từng ID.
+          # Sao lưu cũ không kiểm lại (bài có thể đã được sửa tiếp hợp lệ).
+          found=0
+          while IFS= read -r f; do
+            case "$f" in
+              reports/qa-audit/migrate/*.json)
+                [ -f "$f" ] || continue
+                found=1
+                python3 scripts/factory/migrate-slug-urls.py verify --backup "$f"
+                ;;
+            esac
+          done < changed-files.txt
+          if [ "$found" = 0 ]; then echo "no slug-migration backup in this change"; fi
+
       - name: Custom-domain invariants
         run: |
           set -eu

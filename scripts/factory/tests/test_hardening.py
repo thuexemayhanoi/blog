@@ -664,8 +664,8 @@ class StaticContract(unittest.TestCase):
         # dual-mode: selector CANONICAL gate-scope.py quyết định chế độ
         self.assertIn('scripts/factory/gate-scope.py', y)
         self.assertEqual(
-            y.count("if: steps.mode.outputs.mode == 'full'"), 8,
-            'build/links/faq-parity/canonical/draft-leak/sitemap/crawler '
+            y.count("if: steps.mode.outputs.mode == 'full'"), 9,
+            'build/links/faq-parity/canonical/slug-redirects/draft-leak/sitemap/crawler '
             'CHỈ chạy ở mode full')
 
     def test_s7_publish_hotpath(self):

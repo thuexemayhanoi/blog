@@ -452,6 +452,27 @@ class BuiltSiteCheckTest(unittest.TestCase):
         r = self.res(max_stub_links=9)
         self.assertTrue(any('ratchet có thể hạ' in n for n in r['notes']))
 
+    def test_write_ratchet_only_lowers_unless_allowed(self):
+        self.good()
+        self.put('/bai-khac/', real_page('/bai-khac/', links=[self.e['old_url']] * 3))
+        rp = os.path.join(self.root, SR.RATCHET_REL)
+
+        def ratchet():
+            with open(rp, encoding='utf-8') as f:
+                return json.load(f)['max_links_to_stub_pages']
+
+        with open(rp, 'w', encoding='utf-8') as f:
+            json.dump({'max_links_to_stub_pages': 1, 'note': 'n'}, f)
+        self.assertEqual(CHECK.main(['--site', self.site, '--root', self.root, '--write-ratchet']), 1)
+        self.assertEqual(ratchet(), 1)                               # không tự tăng
+        self.assertEqual(CHECK.main(['--site', self.site, '--root', self.root, '--write-ratchet', '--allow-raise']), 0)
+        self.assertEqual(ratchet(), 3)
+        self.put('/bai-khac/', real_page('/bai-khac/', links=[self.e['old_url']]))
+        self.assertEqual(CHECK.main(['--site', self.site, '--root', self.root, '--write-ratchet']), 0)
+        self.assertEqual(ratchet(), 1)                               # giảm thì được
+        with open(rp, encoding='utf-8') as f:
+            self.assertEqual(json.load(f)['note'], 'n')
+
     def test_cli_exit_codes(self):
         self.good()
         self.assertEqual(CHECK.main(['--site', self.site, '--root', self.root, '--max-stub-links', '0']), 0)

@@ -171,6 +171,10 @@ def main(argv=None):
     ap.add_argument('--root', default=None)
     ap.add_argument('--max-stub-links', type=int, default=None)
     ap.add_argument('--json', default='')
+    ap.add_argument('--write-ratchet', action='store_true',
+                    help='ghi số liên kết đo được vào ngưỡng ratchet (chỉ khi kiểm tra sạch); mặc định chỉ cho phép GIẢM')
+    ap.add_argument('--allow-raise', action='store_true',
+                    help='cho phép TĂNG ngưỡng (chỉ khi di trú thêm bài: URL cũ mới sinh thêm liên kết vào trang chuyển hướng)')
     a = ap.parse_args(argv)
     if not os.path.isdir(a.site):
         print('LỖI: không có thư mục site %s' % a.site, file=sys.stderr)
@@ -189,8 +193,24 @@ def main(argv=None):
     if a.json:
         with open(a.json, 'w', encoding='utf-8') as f:
             json.dump(res, f, ensure_ascii=False, indent=1)
-    if res['errors']:
+    if res['errors'] and not (a.write_ratchet and all('ngưỡng' in e for e in res['errors']) and a.allow_raise):
         return 1
+    if a.write_ratchet:
+        rp = os.path.join(a.root or SR.ROOT, SR.RATCHET_REL)
+        cur = res['ratchet']
+        if cur is not None and res['stub_links'] > cur and not a.allow_raise:
+            print('FAIL: --write-ratchet không được TĂNG ngưỡng (%d -> %d) nếu thiếu --allow-raise' % (cur, res['stub_links']))
+            return 1
+        doc = {}
+        if os.path.isfile(rp):
+            with open(rp, encoding='utf-8') as f:
+                doc = json.load(f)
+        doc['max_links_to_stub_pages'] = res['stub_links']
+        with open(rp, 'w', encoding='utf-8') as f:
+            json.dump(doc, f, ensure_ascii=False, indent=1)
+            f.write('\n')
+        print('ratchet = %d (ghi %s)' % (res['stub_links'], os.path.relpath(rp)))
+        return 0
     print('OK: di trú slug — mọi trang cũ = HTTP 200 + meta refresh 0s + canonical mới; trang mới hợp lệ (KHÔNG phải 301)')
     return 0
 
