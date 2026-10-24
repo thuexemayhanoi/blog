@@ -61,7 +61,7 @@ Bạn chịu trách nhiệm về:
 
 - Phí thuê theo thỏa thuận khi đặt xe
 - Tiền đặt cọc theo yêu cầu
-- Phí trả xe trễ: 20.000đ mỗi giờ trễ; nếu trễ hơn 6 tiếng, có thể tính thêm một ngày thuê theo loại xe, khoảng 150.000–200.000đ/ngày
+- Chi phí phát sinh khi trả xe muộn (nếu có) được xác nhận theo hợp đồng hoặc thỏa thuận giữa hai bên; vui lòng liên hệ sớm nếu cần thay đổi giờ trả xe
 - Chi phí sửa chữa nếu xe bị hư hỏng do lỗi của bạn
 - Chi phí bồi thường theo giá thị trường nếu mất xe
 - Bất kỳ khoản tiền phạt nào phát sinh trong thời gian thuê
