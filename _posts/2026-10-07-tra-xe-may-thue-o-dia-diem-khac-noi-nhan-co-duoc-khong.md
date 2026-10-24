@@ -7,7 +7,7 @@ description: "Trả xe khác nơi nhận khi thuê xe máy: hỏi chính sách t
 categories: [Kinh nghiệm]
 lang: vi
 tags: [trả xe khác nơi nhận, đổi điểm trả xe máy, chính sách trả xe, trả xe tại khách sạn]
-permalink: /thue-xe/2026/10/07/tra-xe-may-thue-o-ia-iem-khac-noi-nhan-co-uoc-khong/
+permalink: /thue-xe/2026/10/07/tra-xe-may-thue-o-dia-diem-khac-noi-nhan-co-duoc-khong/
 parent_id: P-THUE-XE
 child_id: C-THUE-NHAN-TRA
 article_id: BLG-01634

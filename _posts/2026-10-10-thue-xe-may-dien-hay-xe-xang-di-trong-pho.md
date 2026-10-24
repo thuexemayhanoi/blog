@@ -7,7 +7,7 @@ description: "Thuê xe máy điện hay xe xăng đi trong phố nên cân theo 
 categories: [Hỏi đáp]
 lang: vi
 tags: [thuê xe máy điện hay xe xăng, xe điện với xe xăng trong phố, thuê xe máy trong phố, xe máy điện]
-permalink: /hoi-dap/2026/10/10/thue-xe-may-ien-hay-xe-xang-i-trong-pho/
+permalink: /hoi-dap/2026/10/10/thue-xe-may-dien-hay-xe-xang-di-trong-pho/
 parent_id: P-HOI-DAP
 child_id: C-HD-CHON-XE
 article_id: BLG-01966

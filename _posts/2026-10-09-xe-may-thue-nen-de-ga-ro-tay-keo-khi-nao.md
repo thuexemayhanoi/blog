@@ -7,7 +7,7 @@ description: "Kéo ga rô tay xe máy khi nào là chuẩn: máy lạnh buổi s
 categories: [Kinh nghiệm]
 lang: vi
 tags: [ga rô tay xe máy, dùng ga-rô khi trời lạnh, khởi động xe thuê, mẹo dùng xe máy thuê]
-permalink: /xe-may/2026/10/09/xe-may-thue-nen-e-ga-ro-tay-keo-khi-nao/
+permalink: /xe-may/2026/10/09/xe-may-thue-nen-de-ga-ro-tay-keo-khi-nao/
 parent_id: P-XE-MAY
 child_id: C-BAO-DUONG
 article_id: BLG-01685

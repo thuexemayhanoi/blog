@@ -7,7 +7,7 @@ description: "Từ Hà Nội chạy xe máy ra Suối Hai Đồng Mô nên đi �
 categories: [Kinh nghiệm]
 lang: vi
 tags: [Suối Hai Đồng Mô, đi Ba Vì Đồng Mô, thuê xe máy Hà Nội, du lịch Ba Vì]
-permalink: /cung-duong/2026/10/09/ha-noi-i-suoi-hai-ho-ong-mo-chay-xe-may/
+permalink: /cung-duong/2026/10/09/ha-noi-di-suoi-hai-ho-dong-mo-chay-xe-may/
 parent_id: P-CUNG-DUONG
 child_id: C-CD-CUOI-TUAN
 article_id: BLG-01730

@@ -7,7 +7,7 @@ description: "Nhận xe máy thuê ngày rét đậm cần chú ý gì: đề n�
 categories: [Nhận xe & trả xe]
 lang: vi
 tags: [nhận xe máy thuê ngày rét đậm, xe máy khó nổ khi trời lạnh, đi xe máy mùa đông Hà Nội, thuê xe máy Hà Nội]
-permalink: /thue-xe/2026/10/12/nhan-xe-may-thue-vao-ngay-ret-am-e-no-cham-tay-phanh-lanh-va-suong-som/
+permalink: /thue-xe/2026/10/12/nhan-xe-may-thue-vao-ngay-ret-dam-de-no-cham-tay-phanh-lanh-va-suong-som/
 parent_id: P-THUE-XE
 child_id: C-THUE-NHAN-TRA
 article_id: BLG-02491

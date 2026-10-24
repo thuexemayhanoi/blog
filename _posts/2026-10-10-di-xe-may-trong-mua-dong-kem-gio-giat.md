@@ -7,7 +7,7 @@ description: "Đi xe máy trong mưa dông kèm gió giật cần giảm tốc, 
 categories: [Kinh nghiệm]
 lang: vi
 tags: [đi xe máy trong mưa dông, chạy xe máy khi gió giật, mưa dông đi xe máy, gió giật khi chạy xe]
-permalink: /ky-nang/2026/10/10/i-xe-may-trong-mua-dong-kem-gio-giat/
+permalink: /ky-nang/2026/10/10/di-xe-may-trong-mua-dong-kem-gio-giat/
 parent_id: P-KY-NANG
 child_id: C-KY-NANG-THOI-TIET
 article_id: BLG-01894

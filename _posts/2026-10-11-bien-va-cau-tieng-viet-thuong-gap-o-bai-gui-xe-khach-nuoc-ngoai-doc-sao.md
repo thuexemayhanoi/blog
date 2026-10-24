@@ -7,7 +7,7 @@ description: "Biển báo bãi gửi xe tiếng Việt cùng các câu như gử
 categories: [Kỹ năng]
 lang: vi
 tags: [biển báo bãi gửi xe tiếng Việt, từ tiếng Việt khi gửi xe máy, trông giữ xe nghĩa là gì, gửi xe giữ xe, thuê xe máy Hà Nội]
-permalink: /ky-nang/2026/10/11/bien-va-cau-tieng-viet-thuong-gap-o-bai-gui-xe-khach-nuoc-ngoai-oc-sao/
+permalink: /ky-nang/2026/10/11/bien-va-cau-tieng-viet-thuong-gap-o-bai-gui-xe-khach-nuoc-ngoai-doc-sao/
 parent_id: P-KY-NANG
 child_id: C-KY-NANG-GUI-XE
 article_id: BLG-02354
