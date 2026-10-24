@@ -1,48 +1,27 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-21T16:06:27Z",
+  "updated_at": "2026-10-24T05:53:11Z",
   "leases": {
-    "W2": {
+    "W4": {
       "ids": [
-        "BLG-05709",
-        "BLG-05711",
-        "BLG-05716",
-        "BLG-05719",
-        "BLG-05722",
-        "BLG-05723",
-        "BLG-05732",
-        "BLG-05733",
-        "BLG-05734",
-        "BLG-05735"
-      ],
-      "session": "s-claudeb-w2",
-      "epoch": 1,
-      "claimed_at": "2026-10-20T11:43:03Z",
-      "heartbeat_at": "2026-10-20T11:43:03Z",
-      "ttl_hours": 48.0,
-      "expires_at": "2026-10-22T11:43:03Z",
-      "label": "claude-b"
-    },
-    "W3": {
-      "ids": [
-        "BLG-06094",
-        "BLG-06096",
-        "BLG-06103",
-        "BLG-06105",
-        "BLG-06106",
+        "BLG-06107",
         "BLG-06109",
         "BLG-06110",
-        "BLG-06125",
-        "BLG-06126",
-        "BLG-06128"
+        "BLG-06133",
+        "BLG-06134",
+        "BLG-06135",
+        "BLG-06136",
+        "BLG-06137",
+        "BLG-06138",
+        "BLG-06139"
       ],
-      "session": "s-claude-w3",
+      "session": "s-claude-sonnet-w4",
       "epoch": 1,
-      "claimed_at": "2026-10-21T16:05:00Z",
-      "heartbeat_at": "2026-10-21T16:06:27Z",
-      "ttl_hours": 48.0,
-      "expires_at": "2026-10-23T16:06:27Z",
-      "label": "claude"
+      "claimed_at": "2026-10-24T05:53:11Z",
+      "heartbeat_at": "2026-10-24T05:53:11Z",
+      "ttl_hours": 12.0,
+      "expires_at": "2026-10-24T17:53:11Z",
+      "label": "claude-sonnet"
     }
   }
 }
