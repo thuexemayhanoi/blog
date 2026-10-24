@@ -90,6 +90,18 @@ def _norm(s):
     return re.sub(r'[^a-z0-9 ]', '', s.lower()).strip()
 
 
+_NONCE = ['cam', 'dao', 'guong', 'banh', 'khoa', 'den', 'phanh', 'sam',
+          'thung', 'lop', 'dong', 'ho', 'mua', 'nang', 'goc', 'cau']
+
+
+def _nonce(i, k=3):
+    """k tu rieng khac nhau cho candidate thu i: G9 (bien the tu vung)
+    tu choi tieu de chi khac nhau o con so, nen fixture hermetic phai co
+    tu khoa rieng thuc su."""
+    return ' '.join(_NONCE[(i * (2 * j + 3) + j) % len(_NONCE)]
+                    for j in range(k))
+
+
 def synth_candidates(work, n=3):
     """Candidate hop le G1-G9 tu sinh (hermetic): T1 khong phu thuoc
     production ledger (sau refill that ledger rong — operator verify
@@ -124,9 +136,9 @@ def synth_candidates(work, n=3):
         i += 1
         c = {'candidate_id': 'CAND-HERMETIC-%03d' % i,
              'child_id': kid,
-             'title': 'Kiem thu hermetic refill lan %d' % i,
+             'title': 'Kiem thu hermetic refill %s' % _nonce(i),
              'intent': 'y dang kiem thu hermetic %d' % i,
-             'kw': 'hermetic refill kw %d' % i,
+             'kw': 'hermetic refill %s' % _nonce(i + 5),
              'kw2': [], 'links': [], 'subtopic': 'hermetic-test',
              'audience': 'kiem thu tu dong', 'location_scope': 'Ha Noi',
              'word_target': 1200}
