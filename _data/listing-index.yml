@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 387
   size: 12
-  total: 4635
+  total: 4643
 chia-se:
   pages: 10
   size: 12
@@ -143,19 +143,19 @@ topic:
   an-toan-phap-ly_noi-do-cong:
     pages: 4
     size: 24
-    total: 90
+    total: 92
   an-toan-phap-ly_phat-nguoi:
     pages: 4
     size: 24
-    total: 88
+    total: 90
   du-lich_pho-co:
     pages: 4
     size: 24
     total: 91
   an-toan-phap-ly_quy-dinh-giao-thong:
-    pages: 5
+    pages: 6
     size: 24
-    total: 117
+    total: 121
   thue-xe_dat-coc:
     pages: 4
     size: 24
