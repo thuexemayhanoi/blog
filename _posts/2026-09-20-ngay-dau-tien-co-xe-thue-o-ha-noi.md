@@ -51,7 +51,7 @@ Cuối cùng, lên kế hoạch cho ngày mai: giờ đi, tuyến chính, và d�
 
 ## Những lỗi hay gặp trong ngày đầu
 
-Lỗi phổ biến nhất là vội vàng. Người thuê hào hứng nhận xe rồi chạy thẳng vào giờ cao điểm đường lớn, trong khi tay lái và chiếc xe chưa quen nhau. Lỗi thứ hai là bỏ qua khâu ảnh, rồi lúc trả tranh cãi một vết xước không nhớ có sẵn hay không. Lỗi thứ ba là không hỏi kỹ cách tính giờ trễ: nếu bạn trả trễ, mức phổ biến là 20.000đ mỗi giờ và khi trễ trên sáu tiếng có thể được tính thêm một ngày thuê, tùy thỏa thuận. Biết trước các mức này giúp bạn chủ động giờ trả thay vì bị động chi phí.
+Lỗi phổ biến nhất là vội vàng: người thuê hào hứng nhận xe rồi chạy thẳng vào đường lớn giờ cao điểm khi chưa quen tay lái. Lỗi thứ hai là bỏ qua khâu chụp ảnh, đến lúc trả xe lại khó xác định vết xước có sẵn hay không. Lỗi thứ ba là không hỏi kỹ điều kiện trả muộn: hãy xác nhận giờ trả, cách gia hạn và khoản phát sinh (nếu có) theo hợp đồng hoặc thỏa thuận. Việc hỏi trước giúp chủ động hơn, thay vì mặc định mức phí theo giờ hoặc theo ngày chưa được cửa hàng xác nhận.
 
 Lỗi thứ tư liên quan giấy tờ: người điều khiển cần giữ giấy phép lái xe hợp lệ cho loại xe đang chạy, còn các giấy tờ pháp lý của phương tiện sẽ được cửa hàng bàn giao và hướng dẫn khi nhận xe. Việc của bạn trong ngày đầu là hiểu rõ giấy tờ nào nằm trong cốp xe, giấy tờ nào cần giữ bên mình, và cất chúng ở ngăn cố định để khỏi loay hoay mỗi khi được yêu cầu xuất trình. Chi tiết về các thủ tục khi bị dừng kiểm tra đã được trình bày trong bài riêng về bị dừng kiểm tra khi đi xe thuê, đáng đọc ngay từ hôm nay đầu tiên thay vì chờ đến lúc cần. Quy định có thể thay đổi, nên người lái nên kiểm tra quy định hiện hành từ nguồn chính thức trước khi lưu thông.
 
