@@ -5,10 +5,17 @@
 ## Dữ liệu đã xác minh
 
 - Bản đồ `reports/factory/seo-master/slug-d-migration-map.csv` chứa 1.410 cặp OLD→NEW, không trùng OLD/NEW theo nguồn audit cũ.
-- `reports/factory/seo-master/cloudflare-301-DO-NOT-ACTIVATE.csv` có chính xác 1.410 dòng, không có header, định dạng Cloudflare Bulk Redirects theo tài liệu 2026.
+- `reports/factory/seo-master/cloudflare-301-DO-NOT-ACTIVATE.csv` có chính xác 1.410 dòng, không có header, định dạng Cloudflare Bulk Redirects theo tài liệu 2026. **Đây là BẢN THAM KHẢO, tuyệt đối không upload toàn bộ.**
 - Mỗi dòng gồm `source_url,target_url,301,TRUE,FALSE,FALSE,FALSE`. Source không gồm scheme để khớp HTTP/HTTPS; preserve query string=TRUE; không dùng subpath hoặc wildcard.
 - CSV **không** sửa code/site và **không được nhập/kích hoạt** khi các URL đích vẫn HTTP 404.
-- Công cụ `scripts/seo/export-cloudflare-301.py` dựng lại CSV, có kiểm tra file post/permalink gốc và trùng lặp. `--selftest`, `--validate-only`, `--start N --limit 50 --out /tmp/batch.csv`.
+- Công cụ `scripts/seo/export-cloudflare-301.py` dựng lại CSV, kiểm tra file post/permalink gốc, matrix và trùng lặp. `--selftest`, `--validate-only`, `--start N --limit 50 --out /tmp/batch.csv`. **Batch nào chứa mismatch sẽ bị từ chối trước khi tạo file.**
+
+## Lỗi dữ liệu vừa phát hiện: 36 bài có Matrix URL khác permalink
+
+- Đối chiếu trực tiếp map 1.410 URL với `data/content-matrix.csv` hiện hành: **36 bài PUBLISHED** có `expected_url` khác frontmatter `permalink` thật của `_posts` (31 bài `/ky-nang/`, 5 bài `/hoi-dap/`). Ví dụ ID `BLG-00868`: bài thật `/hoi-dap/2026-09-29-at-xe-truoc-bao-lau-thi-nen/`, Matrix lại `/hoi-dap/2026/09/29/at-xe-truoc-bao-lau-thi-nen/`.
+- File chi tiết: `reports/factory/seo-master/slug-d-36-matrix-drift-20261024.csv`.
+- **Không sửa tay Matrix, slug hay QA evidence** của 36 bài. Xác minh sitemap/HTTP thật trước, dùng công cụ reattestation/revision chính thức và backup riêng.
+- Bản xuất toàn bộ 1.410 URL phải bị chặn bởi script `--validate-only` cho đến khi xử lý các mismatch; batch không chứa mismatch vẫn có thể tạo *CSV nháp* để kiểm tra. Không kích hoạt 301 khi NEW chưa tồn tại.
 
 ## Điều kiện cần hoàn thành trước khi di trú bất kỳ bài nào
 
@@ -30,7 +37,8 @@
 ## Kiểm thử an toàn
 
 - `python3 scripts/seo/export-cloudflare-301.py --selftest`
-- `python3 scripts/seo/export-cloudflare-301.py --validate-only`
+- `python3 scripts/seo/export-cloudflare-301.py --validate-only` (**dự kiến BLOCKED** vì 36 mismatch hiện hữu, không được diễn giải là đã sẵn sàng)
+- `python3 scripts/seo/export-cloudflare-301.py --start 0 --limit 50 --out /tmp/first-50-DO-NOT-ACTIVATE.csv` (chỉ xuất dữ liệu, không bật redirect)
 - `python3 scripts/factory/tests/test_slugify_vi.py` (có test đồng bộ export CSV, nguồn `_posts` và map).
 - `python3 scripts/factory/check-built-links.py --site ./_site` và `python3 scripts/seo/audit-live-sitemap.py --max-urls 100 --slug-samples 10`.
 
