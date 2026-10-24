@@ -11,7 +11,7 @@ Bất biến:
   H4   thanh phân trang <= MAX_PAGINATION_LINKS liên kết (chống phình liên kết)
   H5   mọi hub/pillar (trừ du-lich legacy) có phần giới thiệu >= 60 từ trước khối danh sách (chống hub rỗng)
   H6   hub con có khối "Bài nên đọc trước" khi _data/seo-leads.yml có dữ liệu cho hub đó
-  H7   không bài nào thiếu breadcrumb; sitemap không chứa trang noindex/404
+  H7   không bài nào thiếu breadcrumb (trang chuyển hướng meta refresh của di trú slug không tính là bài); sitemap không chứa trang noindex/404
   H8   <title>/meta/og không có ký tự & trần
 """
 from __future__ import annotations
@@ -105,7 +105,9 @@ def main() -> int:
         pag = PAG.search(t)
         if pag and len(ANCHOR.findall(pag.group(0))) > MAX_PAGINATION_LINKS:
             big_pag.append(rel)
-        if re.search(r"/20\d\d/\d\d/\d\d/", "/" + rel) and 'aria-label="Đường dẫn"' not in t:
+        # trang chuyển hướng slug (redirects/slug-d/, HTTP 200 + meta refresh) không phải bài: không có breadcrumb
+        if (re.search(r"/20\d\d/\d\d/\d\d/", "/" + rel) and 'aria-label="Đường dẫn"' not in t
+                and 'http-equiv="refresh"' not in t):
             no_bc.append(rel)
     check("H2", not bad_canon and not bad_h1, f"canonical sai/thiếu: {len(bad_canon)} {bad_canon[:3]}; H1 != 1: {len(bad_h1)} {bad_h1[:3]}")
     check("H3", not dup_icon, f"trang có >1 <link rel=icon>: {len(dup_icon)} {dup_icon[:3]}")
