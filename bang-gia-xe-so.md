@@ -13,7 +13,7 @@ pricing_table: true
 
 ## Bảng giá thuê xe số tại Hà Nội
 
-Xe số là loại xe vận hành bằng hộp số tay: người lái phối hợp tay côn, chân số và tay ga để tăng giảm tốc. Đây là nhóm xe phổ biến nhất tại Việt Nam nhờ tiết kiệm xăng, bền bỉ và chi phí thuê thấp. Nếu bạn đã quen lái xe số, đây là lựa chọn kinh tế cho hầu hết nhu cầu di chuyển tại Hà Nội.
+Xe số có hộp số nhiều cấp, người lái chuyển số bằng cần số ở chân. Các mẫu phổ biến như Honda Wave sử dụng ly hợp tự động, không có tay côn để bóp; xe côn tay là nhóm khác. Xe số quen thuộc tại Việt Nam nhờ khả năng tiết kiệm nhiên liệu, độ bền và chi phí thuê hợp lý. Nếu bạn đã quen lái xe số, đây là lựa chọn kinh tế cho hầu hết nhu cầu di chuyển tại Hà Nội.
 
 Trang này cập nhật bảng giá tham khảo cho xe số tại Nguyễn Tú, cùng những lưu ý để bạn quyết định xe số có phù hợp với chuyến đi của mình hay không.
 
@@ -99,10 +99,10 @@ Không giao xe máy ngoài giờ hoạt động. Thời gian và chi phí giao n
 
 ## Xe số cho khách nước ngoài
 
-Khách quốc tế thường quen xe tay ga hoặc xe số kiểu châu Âu, khác với xe số Việt Nam ở thao tác phối hợp côn tay. Vài điều cần biết nếu bạn là khách nước ngoài đang cân nhắc xe số:
+Honda Wave và các xe số ly hợp tự động phổ biến tại Việt Nam có cần số chân, không có tay côn để bóp. Vài điều cần biết nếu bạn là khách nước ngoài đang cân nhắc xe số:
 
-- Thao tác tăng số ở xe số Việt Nam là chuyển chân số lên, giảm số là đạp xuống; tay côn nằm ở tay trái.
-- Khi gặp đèn đỏ, dừng hẳn, về mo hoặc về số 1 và giữ côn.
+- Với Honda Wave và các xe số ly hợp tự động thông dụng, sang số bằng cần số ở chân, không cần bóp tay côn. Hãy kiểm tra cách vào số của mẫu xe thực tế trước khi nhận.
+- Khi dừng đèn đỏ, giảm tốc từ từ, dùng phanh và về số phù hợp theo hướng dẫn của xe; xe số ly hợp tự động không cần giữ tay côn.
 - Mặt đường trong phố thường đông xe; nếu chưa quen, hãy chọn [xe ga]({{ '/bang-gia-xe-ga/' | relative_url }}) để giảm thao tác.
 - Đổ xăng tại cây xăng có biển hiệu chính hãng; nhân viên đổ giúp bạn.
 - Nếu xe chết máy khi đang chạy, về mo, đẩy xe vào lề rồi mới khởi động lại.
@@ -113,7 +113,7 @@ Với khách chưa từng lái xe số, chúng tôi luôn khuyên chọn xe ga. 
 
 #### Xe số có khó lái với người nước ngoài không?
 
-Nếu bạn chưa từng lái xe số, việc phối hợp côn và số cần thời gian làm quen. Khách nước ngoài mới lái thường được khuyên chọn xe ga hoặc xe 50cc. Với xe trên 50cc, bạn cần giấy phép lái xe phù hợp.
+Nếu bạn chưa từng lái xe số, thao tác sang số bằng chân và phanh cần thời gian làm quen. Honda Wave thông dụng sử dụng ly hợp tự động, không cần bóp tay côn. Khách nước ngoài mới lái thường được khuyên chọn xe ga hoặc xe 50cc. Với xe trên 50cc, bạn cần giấy phép lái xe phù hợp.
 
 #### Giá thuê xe số theo tuần và tháng là bao nhiêu?
 
