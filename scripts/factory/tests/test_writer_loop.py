@@ -27,6 +27,9 @@ import unittest
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from fixture_state import unpause_production  # noqa: E402
+
 IGNORE = shutil.ignore_patterns('.git', '_site', '.jekyll-cache', '__pycache__',
                                 'node_modules', 'vendor', '*.pyc')
 
@@ -67,6 +70,7 @@ class WriterLoopTestCase(unittest.TestCase):
         base = tempfile.mkdtemp(prefix='writer-loop-')
         self.fx = os.path.join(base, 'repo')
         shutil.copytree(ROOT, self.fx, ignore=IGNORE)
+        unpause_production(self.fx)
         write_json(self.fx, 'data/state/writer-claims.json',
                    {'schema_version': '1', 'updated_at': None, 'leases': {}})
         drafts = os.path.join(self.fx, '_drafts')

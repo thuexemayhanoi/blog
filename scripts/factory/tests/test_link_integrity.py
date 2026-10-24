@@ -28,6 +28,7 @@ import unittest
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from test_qa_modes import borrow_planned_row
+from fixture_state import unpause_production  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
@@ -40,6 +41,7 @@ def fresh_copy():
     tmp = tempfile.mkdtemp(prefix='linkint-')
     work = os.path.join(tmp, 'work')
     shutil.copytree(ROOT, work, ignore=IGNORE)
+    unpause_production(work)
     return work, tmp
 
 

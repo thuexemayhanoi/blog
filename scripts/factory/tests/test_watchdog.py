@@ -22,6 +22,9 @@ import unittest
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
 PY = sys.executable
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from fixture_state import unpause_production  # noqa: E402
+
 IGNORE = shutil.ignore_patterns('__pycache__', '.git', '*.pyc')
 
 NOW = '2026-09-30T12:00:00+00:00'
@@ -40,6 +43,7 @@ def fresh_copy():
     tmp = tempfile.mkdtemp(prefix='watchdog-')
     work = os.path.join(tmp, 'work')
     shutil.copytree(ROOT, work, ignore=IGNORE)
+    unpause_production(work)
     return work, tmp
 
 
