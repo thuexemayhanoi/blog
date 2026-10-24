@@ -29,6 +29,8 @@ import tempfile
 import unittest
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from test_qa_modes import as_planned_row  # noqa: E402
 
 
 def load(name, rel):
@@ -215,7 +217,40 @@ class TestReslugFlag(unittest.TestCase):
             json.dump(reg, f, ensure_ascii=False)
         with open(cls.registry, 'rb') as f:
             cls.registry_before = f.read()
+        cls._ensure_far_planned_rows()
         cls._degrade_far_planned_rows()
+
+    @classmethod
+    def _ensure_far_planned_rows(cls):
+        """Hermetic khi hàng đợi thật cạn: nhà máy publish hết hàng PLANNED thì
+        fixture không còn >= MIN_DEGRADED hàng PLANNED có chữ đ sau ranh giới.
+        Mượn phần thiếu từ hàng planned:PUBLISHED có chữ đ trong BẢN SAO (trả về
+        PLANNED đúng dạng {date}, bỏ bài _posts của bản sao); matrix thật không
+        bị đụng. No-op khi đã đủ hàng thật."""
+        with open(cls.matrix, encoding='utf-8', newline='') as f:
+            reader = csv.DictReader(f)
+            fields, rows = reader.fieldnames, list(reader)
+        b = int(cls.BOUNDARY[4:])
+
+        def far_d(r):
+            return int(r['id'][4:]) > b and old_slugify(r['title']) != r['slug']
+
+        have = sum(1 for r in rows if r['status'] == 'PLANNED' and far_d(r))
+        need = cls.MIN_DEGRADED - have
+        if need <= 0:
+            return
+        cands = [r for r in rows
+                 if r['status'] == 'PUBLISHED' and r['source'].startswith('planned:')
+                 and (r.get('batch_id') or '').strip() and far_d(r)]
+        assert len(cands) >= need, 'không đủ hàng planned:PUBLISHED có chữ đ để mượn (cần %d, có %d)' % (
+            need, len(cands))
+        for r in cands[:need]:
+            post = os.path.join(cls.work, r['output_path'])
+            if os.path.exists(post):
+                os.remove(post)
+            r['status'] = 'PLANNED'
+            as_planned_row(r)
+        cls._csv_write(cls.matrix, fields, rows)
 
     @classmethod
     def _degrade_far_planned_rows(cls):

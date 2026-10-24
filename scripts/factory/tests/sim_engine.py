@@ -38,12 +38,19 @@ IGNORE = shutil.ignore_patterns('.git', '_site', '.jekyll-cache',
                                 '__pycache__', 'node_modules', 'vendor',
                                 '*.pyc')
 TEMPLATE_DRAFT = '2026-01-01-mau-nhap-bai-moi.md'
+# Số hàng PLANNED tối thiểu của origin vàng: kịch bản dài nhất (S11) lease
+# 3 writer x 10 ID = 30; dư 10 cho kịch bản reclaim/repair. Hàng PLANNED thật
+# có thể đã cạn (nhà máy publish hết hàng đợi) nên origin vàng tự mượn phần
+# thiếu từ hàng planned:PUBLISHED của BẢN SAO (borrow_planned_row).
+SIM_MIN_PLANNED = 40
 _GOLDEN = {}
 
 
 def golden_origin():
     """Bare origin 'vàng' dựng MỘT LẦN mỗi tiến trình từ cây làm việc hiện
-    tại: registry rỗng v2, KHÔNG draft lạ (chỉ template), một commit seed."""
+    tại: registry rỗng v2, KHÔNG draft lạ (chỉ template), đủ SIM_MIN_PLANNED
+    hàng PLANNED (mượn từ hàng đã publish khi hàng đợi thật cạn), một commit
+    seed."""
     if 'path' in _GOLDEN and os.path.isdir(_GOLDEN['path']):
         return _GOLDEN['path']
     base = tempfile.mkdtemp(prefix='engsim-golden-')
@@ -57,6 +64,8 @@ def golden_origin():
               encoding='utf-8') as f:
         json.dump({'schema_version': '2', 'updated_at': None, 'leases': {}},
                   f, indent=2)
+    from test_qa_modes import borrow_planned_row
+    borrow_planned_row(seed, count=SIM_MIN_PLANNED)
     git(seed, 'init', '-q', '--initial-branch=main')
     git(seed, 'add', '-A')
     git(seed, 'commit', '-q', '-m', 'seed')
