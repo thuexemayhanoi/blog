@@ -427,16 +427,26 @@ class TestMatrixAndData(MigrateBase):
         self.focus.add(pick)
         m = self.manifest([pick])
         self.apply(m, [pick])
-        changed = M.refresh_data(self.root)
-        old_url = c.baseline[pick]['old_url']
-        new_url = c.baseline[pick]['new_url']
-        for rel in (M.LEGAL_NOTICES_REL, M.LEADS_REL):
-            t = (self.root / rel).read_text(encoding='utf-8')
-            self.assertNotIn(old_url, t, rel)
-        self.assertTrue(any(new_url in (self.root / rel).read_text(encoding='utf-8') for rel in (M.LEGAL_NOTICES_REL, M.LEADS_REL)))
-        self.assertTrue(changed)
-        self.assertEqual(M.refresh_data(self.root, check=True), [], 'sau khi lam moi khong con lech')
-        self.assertEqual(M.refresh_data(self.root), [], 'lam moi lan hai no-op')
+        # build-price-notices.py đọc _data/pricing.yml nên cần PyYAML; runner CI chỉ có thư viện chuẩn, khi đó chạy các bộ
+        # sinh còn lại — bộ sinh price-notices vẫn được chạy ở máy có PyYAML (nơi chạy `refresh-data` thật).
+        real_generated = M.GENERATED_DATA
+        try:
+            import yaml  # noqa: F401
+        except ImportError:
+            M.GENERATED_DATA = tuple(g for g in real_generated if 'price-notices' not in g[1])
+        try:
+            changed = M.refresh_data(self.root)
+            old_url = c.baseline[pick]['old_url']
+            new_url = c.baseline[pick]['new_url']
+            for rel in (M.LEGAL_NOTICES_REL, M.LEADS_REL):
+                t = (self.root / rel).read_text(encoding='utf-8')
+                self.assertNotIn(old_url, t, rel)
+            self.assertTrue(any(new_url in (self.root / rel).read_text(encoding='utf-8') for rel in (M.LEGAL_NOTICES_REL, M.LEADS_REL)))
+            self.assertTrue(changed)
+            self.assertEqual(M.refresh_data(self.root, check=True), [], 'sau khi lam moi khong con lech')
+            self.assertEqual(M.refresh_data(self.root), [], 'lam moi lan hai no-op')
+        finally:
+            M.GENERATED_DATA = real_generated
 
 
 if __name__ == '__main__':
