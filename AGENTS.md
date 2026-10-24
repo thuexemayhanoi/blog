@@ -78,8 +78,9 @@ Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. 
   (CAS: fetch → tính lại → push, bounded retry, không force). Đừng tự viết git để claim/push registry.
   Phiên mặc định ngẫu nhiên theo working copy (KHÔNG suy từ danh tính git — nhiều AI cùng nhà cung cấp
   dùng chung một danh tính) và MẤT khi container bị tạo lại. AI chạy lặp/có thể hết quota PHẢI dùng **session
-  ổn định, riêng cho từng slot**: `export FACTORY_WRITER_SESSION=s-<ai>-w<N>` — hiện dùng: W1 `s-mistral-w1`,
-  W2 `s-claude-w2`, W3 dành sẵn dạng `s-<ai>-w3`. Đó là NHÃN công khai (hiện trong registry và frontmatter draft),
+  ổn định, riêng cho từng slot**: `export FACTORY_WRITER_SESSION=s-<ai>-w<N>` — đã dùng: W1 `s-mistral-w1`,
+  W2 `s-claude-w2`, W3 `s-claude-w3`, W4 `s-claude-sonnet-w4`, W5 `s-claude-sonnet-w5`; W6–W12 còn trống,
+  AI mới chọn nhãn dạng `s-<ai>-w<N>` rồi giữ nguyên. Đó là NHÃN công khai (hiện trong registry và frontmatter draft),
   KHÔNG phải credential: không bao giờ dùng token GitHub/API làm session id, không commit secret, không dùng nhãn
   của slot khác. Resume sau hết quota/đổi container: `git pull` → export lại ĐÚNG nhãn → `writer-session.py status`
   (mục `me`) → `begin --slot <slot>` nhận lại lease/REPAIR của chính mình (lease đã hết hạn thì cùng phiên nối lại
