@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-24T05:53:11Z",
+  "updated_at": "2026-10-24T06:04:09Z",
   "leases": {
     "W4": {
       "ids": [
@@ -18,9 +18,9 @@
       "session": "s-claude-sonnet-w4",
       "epoch": 1,
       "claimed_at": "2026-10-24T05:53:11Z",
-      "heartbeat_at": "2026-10-24T05:53:11Z",
+      "heartbeat_at": "2026-10-24T06:04:08Z",
       "ttl_hours": 12.0,
-      "expires_at": "2026-10-24T17:53:11Z",
+      "expires_at": "2026-10-24T18:04:08Z",
       "label": "claude-sonnet"
     }
   }
