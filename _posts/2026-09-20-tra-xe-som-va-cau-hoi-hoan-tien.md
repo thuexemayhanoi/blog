@@ -33,7 +33,7 @@ Cách thứ ba: chốt lịch trình lớn trước khi chốt kỳ thuê. Ngày
 
 Nếu lịch đã đổi và trả sớm là điều chắc chắn, ba việc nên làm. Thứ nhất, báo cửa hàng sớm nhất có thể, kể cả khi biết không được hoàn tiền: thông báo sớm là thiện chí, và thiện chí có giá trị trong các kỳ thuê dài hoặc khi bạn định quay lại thuê lần sau. Thứ hai, hỏi về các phương án thay thế hoàn tiền: một số nơi có thể chuyển phần giá trị chưa dùng sang kỳ thuê sau, hoặc điều chỉnh nếu bạn chuyển từ gói dài sang gói ngắn ở thời điểm gần ranh giới. Không nơi nào giống nơi nào, nên câu hỏi trực tiếp là cách duy nhất biết được. Thứ ba, trả xe đúng quy trình đầy đủ: đối chiếu tình trạng với bộ ảnh lúc nhận, hoàn tất biên bản, nhận lại cọc. Trả sớm không rút ngắn được quy trình này.
 
-Một lưu ý về giờ trả: trả sớm vài tiếng trong ngày cuối không tạo ra khoản hoàn nào, nhưng trả trễ vài tiếng thì phát sinh phí, thường là 20.000đ mỗi giờ, và trễ trên sáu tiếng có thể được tính thêm một ngày thuê. Vậy nên nếu đã quyết định về sớm, hãy về sớm thật, đừng để buổi trả xe trôi dạt đến nửa ngày vì các việc lặt vặt cuối chuyến.
+Một lưu ý về giờ trả: việc trả xe sớm không mặc nhiên làm thay đổi giá thuê đã thống nhất, còn trả muộn có thể phát sinh chi phí tùy hợp đồng hoặc thỏa thuận. Nếu đã quyết định trả sớm, hãy liên hệ trước để sắp xếp nhận xe và xác nhận điều kiện thanh toán, tránh để công việc cuối chuyến làm lỡ giờ trả.
 
 Về khoản cọc, hãy hỏi riêng cửa hàng: cọc được hoàn trả theo điều khoản hợp đồng sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan, và nên xác nhận cả trường hợp trả trước hạn. Câu hỏi hoàn cọc và câu hỏi hoàn tiền thuê là hai việc riêng biệt, và tách bạch hai việc này giúp cuộc trao đổi lúc trả xe rõ ràng hơn.
 
