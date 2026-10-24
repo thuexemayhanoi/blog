@@ -11,13 +11,13 @@ permalink: /bang-gia-xe-50cc/
 
 ## Thuê xe 50cc tại Hà Nội
 
-Xe 50cc là nhóm xe có dung tích xi-lanh dưới 50cc, thân xe nhỏ gọn, nhẹ và dễ điều khiển. Nhờ vận hành đơn giản và tốc độ tối đa không cao, xe 50cc thường được du khách nước ngoài lựa chọn cho các chuyến đi ngắn trong nội thành Hà Nội: di chuyển giữa khách sạn và các điểm tham quan quanh Phố Cổ, Hồ Gươm, Hồ Tây.
+Xe 50cc là cách gọi phổ biến của xe gắn máy chạy xăng có dung tích xi-lanh không lớn hơn 50 cm³ và vận tốc thiết kế không lớn hơn 50 km/h. Nhóm xe này thường nhỏ gọn, dễ điều khiển, phù hợp các chuyến di chuyển ngắn trong nội thành Hà Nội như Phố Cổ, Hồ Gươm và Hồ Tây.
 
 Theo bảng giá tham khảo, xe tay ga 50cc có giá thuê 200.000đ/ngày. Giá theo tuần và theo tháng được báo riêng theo mẫu xe và tình trạng xe sẵn có, vui lòng liên hệ trực tiếp Nguyễn Tú để biết giá hiện tại trước khi đặt xe.
 
 ## Giá thuê xe 50cc
 
-Giá thuê theo ngày tham khảo của xe tay ga 50cc là 200.000đ, tiền đặt cọc tham khảo 4 triệu đồng (xác nhận trực tiếp trước khi đặt xe). Giá theo tuần và theo tháng được báo riêng, và phụ thuộc vào:
+Giá thuê theo ngày tham khảo của xe tay ga 50cc là 200.000đ. Tiền đặt cọc cần liên hệ Nguyễn Tú để xác nhận trực tiếp trước khi đặt xe, không áp dụng một mức cố định cho mọi mẫu. Giá theo tuần và theo tháng được báo riêng, và phụ thuộc vào:
 
 - Mẫu xe và tình trạng xe sẵn có tại thời điểm thuê
 - Thời gian thuê (ngày, tuần hay tháng)
@@ -27,7 +27,7 @@ Hãy gọi điện, Zalo hoặc WhatsApp để được báo giá chính xác m�
 
 ## Đặc điểm của xe 50cc
 
-1. **Dung tích nhỏ, công suất thấp:** động cơ dưới 50cc cho tốc độ tối đa thường dưới 50 km/h.
+1. **Dung tích nhỏ, công suất thấp:** xe gắn máy chạy xăng có dung tích động cơ không lớn hơn 50 cm³ và vận tốc thiết kế không lớn hơn 50 km/h.
 2. **Nhẹ và nhỏ gọn:** thân xe thấp, dễ chống chân, dễ luồn lách và dễ gửi xe.
 3. **Tiết kiệm nhiên liệu:** mức tiêu thụ xăng rất thấp, phù hợp di chuyển quãng ngắn.
 4. **Dễ điều khiển:** phần lớn xe 50cc là xe ga hoặc xe số đơn giản, thao tác nhẹ nhàng.
@@ -44,7 +44,7 @@ Xe 50cc không phù hợp nếu bạn cần chạy đường dài, chở nặng 
 
 ## Giấy tờ và quy định khi thuê xe 50cc
 
-Theo quy định giao thông hiện hành tại Việt Nam, xe có dung tích xi-lanh dưới 50cc được phân loại là xe gắn máy và không yêu cầu giấy phép lái xe khi tham gia giao thông. Tuy nhiên, quy định có thể thay đổi, và với du khách nước ngoài, bạn nên cập nhật thông tin mới nhất trước khi thuê.
+Theo Luật Trật tự, an toàn giao thông đường bộ, xe chạy xăng có dung tích xi-lanh không lớn hơn 50 cm³ (bao gồm đúng 50 cm³) và vận tốc thiết kế không lớn hơn 50 km/h thuộc nhóm xe gắn máy; người đủ 16 tuổi trở lên được phép điều khiển xe gắn máy hợp lệ mà không cần giấy phép lái xe. Tuy nhiên, **điều kiện ký hợp đồng thuê của cửa hàng là từ đủ 18 tuổi**. Khách nước ngoài nên xác nhận trước giấy tờ và các điều kiện áp dụng cho loại xe định thuê.
 
 Một số điểm lưu ý:
 
@@ -59,7 +59,7 @@ Với các loại xe trên 50cc, giấy phép lái xe phù hợp là bắt buộ
 
 - **Tốc độ thấp:** xe 50cc không theo kịp dòng xe máy thông thường trên đường lớn; hãy giữ làn bên phải.
 - **Không chạy đường dài:** động cơ nhỏ dễ quá tải khi chạy liên tục quãng đường xa hoặc chở hai người nặng.
-- **Địa hình dốc:** tránh các tuyến dốc dài và cao tốc (xe dưới 50cc không được phép lên cao tốc).
+- **Địa hình dốc:** tránh các tuyến dốc dài; xe gắn máy không được đi trên đường cao tốc.
 - **Thời tiết:** trời mưa nên giảm tốc và tránh vạch sơn, đường ray vì dễ trơn.
 - **Mũ bảo hiểm:** đi kèm xe khi nhận; đội mũ là bắt buộc theo luật.
 - **Giao thông Hà Nội:** đông và mật độ cao; hãy quan sát kỹ, báo hiệu rẽ và giữ khoảng cách.
@@ -106,11 +106,11 @@ Mùa mưa Hà Nội (khoảng tháng 5 – 8) có những cơn mưa rào to đ�
 
 #### Xe 50cc có cần giấy phép lái xe không?
 
-Theo quy định hiện hành, xe dưới 50cc không yêu cầu giấy phép lái xe. Tuy nhiên, bạn nên cập nhật quy định mới nhất và mang theo giấy tờ tùy thân khi tham gia giao thông.
+Xe gắn máy chạy xăng có dung tích không lớn hơn 50 cm³ và vận tốc thiết kế không lớn hơn 50 km/h không yêu cầu giấy phép lái xe; người điều khiển phải đủ 16 tuổi trở lên. Riêng việc thuê xe tại Nguyễn Tú, khách thuê phải đủ 18 tuổi và cần xác nhận giấy tờ trước khi đặt xe.
 
 #### Xe 50cc chạy được bao nhanh?
 
-Tốc độ tối đa thường dưới 50 km/h, đủ cho di chuyển trong phố nhưng không phù hợp đường dài.
+Xe gắn máy có vận tốc thiết kế không lớn hơn 50 km/h; tốc độ thực tế phụ thuộc vào tình trạng xe và điều kiện đường. Nhóm xe này phù hợp quãng ngắn hơn đường dài.
 
 #### Giá thuê xe 50cc là bao nhiêu?
 
