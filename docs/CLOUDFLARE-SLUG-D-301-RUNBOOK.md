@@ -1,0 +1,39 @@
+# Phương án chuyển slug chữ đ → d bằng HTTP 301 — Issue #77
+
+**Trạng thái: CHỈ CHUẨN BỊ. CHƯA KÍCH HOẠT BẤT KỲ CHUYỂN HƯỚNG NÀO.**
+
+## Dữ liệu đã xác minh
+
+- Bản đồ `reports/factory/seo-master/slug-d-migration-map.csv` chứa 1.410 cặp OLD→NEW, không trùng OLD/NEW theo nguồn audit cũ.
+- `reports/factory/seo-master/cloudflare-301-DO-NOT-ACTIVATE.csv` có chính xác 1.410 dòng, không có header, định dạng Cloudflare Bulk Redirects theo tài liệu 2026.
+- Mỗi dòng gồm `source_url,target_url,301,TRUE,FALSE,FALSE,FALSE`. Source không gồm scheme để khớp HTTP/HTTPS; preserve query string=TRUE; không dùng subpath hoặc wildcard.
+- CSV **không** sửa code/site và **không được nhập/kích hoạt** khi các URL đích vẫn HTTP 404.
+- Công cụ `scripts/seo/export-cloudflare-301.py` dựng lại CSV, có kiểm tra file post/permalink gốc và trùng lặp. `--selftest`, `--validate-only`, `--start N --limit 50 --out /tmp/batch.csv`.
+
+## Điều kiện cần hoàn thành trước khi di trú bất kỳ bài nào
+
+1. Xác minh chủ tên miền và nền tảng DNS. Nếu chọn Cloudflare, phải khai báo domain đúng cách và bật **proxied DNS** cho host `blog.thuexemaynguyentu.com` mà không làm sai CNAME hiện hành; giữ SSL và toàn bộ URL khác.
+2. Xác nhận Cloudflare Bulk Redirect List/Rule có thể dùng trên tài khoản. Free plan hỗ trợ 10.000 URL nhưng cần xác minh hạn mức thực tế còn lại.
+3. Chuẩn bị tool migration nội dung đã xuất bản và QA evidence với dry-run, score độc lập và backup/rollback. KHÔNG sửa trực tiếp `data/qa` hay hạ QUALITY>=75, SEO>=70.
+4. Với mỗi lô tối đa 50 URL: dựng URL NEW trả HTTP 200 trên production, nội dung chuẩn và canonical phù hợp; URL OLD vẫn phải phục vụ cho đến khi bật 301. Kiểm chứng URL NEW trước khi áp dụng redirect.
+5. Chỉ nhập CSV của lô đã có NEW 200, tạo Bulk Redirect Rule và **Save and Deploy**. Dùng HTTP HEAD không follow redirect để xác nhận OLD trả 301, Location trỏ đúng NEW; truy cập NEW trả 200. Query string giữ nguyên.
+6. Khi 301 chạy thật, cập nhật sitemap/canonical/internal links và matrix/post/QA theo transaction đã duyệt. Build Jekyll, FULL gate + built-links + live audit; rollback đúng lô nếu lỗi.
+7. Không chuyển hướng về trang chủ, không đổi tất cả 1.410 URL trong một commit, không dùng meta-refresh/JS HTTP 200 thay 301.
+
+## Cách dùng Cloudflare trên điện thoại (khi điều kiện 1–4 đã đạt)
+
+- Vào Cloudflare Dashboard → tài khoản đang phục vụ tên miền → **Bulk Redirects** → **Create Bulk Redirect List**.
+- Nhập CSV **chỉ của lô đã được chứng minh NEW HTTP 200** (`--start 0 --limit 50` cho lô đầu; không nhập file full 1.410 nếu các URL NEW chưa tồn tại).
+- Xem kỹ danh sách → **Continue to Redirect Rules** → gắn list và kích hoạt rule.
+- Sau khi kích hoạt kiểm 301 và Location bằng công cụ độc lập. Chỉ tiếp tục lô sau khi tất cả URL trong lô trước đạt.
+
+## Kiểm thử an toàn
+
+- `python3 scripts/seo/export-cloudflare-301.py --selftest`
+- `python3 scripts/seo/export-cloudflare-301.py --validate-only`
+- `python3 scripts/factory/tests/test_slugify_vi.py` (có test đồng bộ export CSV, nguồn `_posts` và map).
+- `python3 scripts/factory/check-built-links.py --site ./_site` và `python3 scripts/seo/audit-live-sitemap.py --max-urls 100 --slug-samples 10`.
+
+**Tài liệu chính thức:** https://developers.cloudflare.com/rules/url-forwarding/bulk-redirects/reference/csv-file-format/ và https://developers.cloudflare.com/rules/url-forwarding/bulk-redirects/create-dashboard/.
+
+**Writer vẫn ở trạng thái pause `enabled:false`; không tự bật lại sau commit này.**
