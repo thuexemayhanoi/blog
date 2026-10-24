@@ -89,12 +89,7 @@ Hai nguyên tắc về giao nhận:
 
 ## Trả xe và phí trả muộn
 
-Vui lòng trả xe đúng thời gian đã thỏa thuận. Trường hợp trả muộn:
-
-- Phí trễ được tính 20.000đ cho mỗi giờ muộn.
-- Nếu trễ quá 6 tiếng, có thể tính thêm một ngày thuê theo loại xe, khoảng 150.000 – 200.000đ/ngày.
-
-Nếu bạn cần kéo dài thời gian thuê, hãy thông báo sớm nhất có thể để sắp xếp lịch xe.
+Vui lòng trả xe đúng thời gian đã thỏa thuận. Nếu cần trả muộn hoặc kéo dài thời gian thuê, hãy liên hệ Nguyễn Tú sớm để xác nhận lịch xe và chi phí phát sinh (nếu có) theo hợp đồng hoặc thỏa thuận giữa hai bên.
 
 ## Bảo hiểm
 
@@ -125,11 +120,11 @@ Mức tham khảo 2.000.000 – 5.000.000đ tùy loại xe. Tiền cọc đượ
 
 #### Trả xe muộn bị tính thế nào?
 
-Phí trễ 20.000đ cho mỗi giờ muộn. Nếu trễ quá 6 tiếng, có thể tính thêm một ngày thuê theo loại xe, khoảng 150.000 – 200.000đ/ngày. Nếu cần kéo dài thời gian thuê, hãy báo sớm.
+Nếu dự kiến trả xe muộn, hãy liên hệ cửa hàng trước giờ hẹn. Thời gian gia hạn và chi phí phát sinh (nếu có) cần được xác nhận theo hợp đồng hoặc thỏa thuận giữa hai bên.
 
 #### Có phát sinh chi phí khác không?
 
-Chi phí giao nhận (nếu yêu cầu giao tận nơi) và phí trễ giờ trả xe là hai khoản có thể phát sinh. Cả hai đều được xác nhận trước khi đặt xe hoặc tính theo thỏa thuận.
+Chi phí giao nhận (nếu yêu cầu giao tận nơi) và chi phí phát sinh khi thay đổi giờ trả xe (nếu có) cần được xác nhận theo hợp đồng hoặc thỏa thuận giữa hai bên.
 
 ## Hướng dẫn đặt xe
 
