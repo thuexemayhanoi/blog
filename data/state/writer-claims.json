@@ -1,24 +1,24 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-24T07:48:18Z",
+  "updated_at": "2026-10-24T09:44:36Z",
   "leases": {
     "W4": {
       "ids": [
-        "BLG-06119",
-        "BLG-06120",
-        "BLG-06122",
-        "BLG-06123",
-        "BLG-06125",
-        "BLG-06126",
-        "BLG-06127",
-        "BLG-06128"
+        "BLG-06143",
+        "BLG-06144",
+        "BLG-06145",
+        "BLG-06146",
+        "BLG-06147",
+        "BLG-06148",
+        "BLG-06149",
+        "BLG-06150"
       ],
       "session": "s-claude-sonnet-w4",
       "epoch": 1,
-      "claimed_at": "2026-10-24T07:45:32Z",
-      "heartbeat_at": "2026-10-24T07:48:18Z",
-      "ttl_hours": 12.0,
-      "expires_at": "2026-10-24T19:48:18Z",
+      "claimed_at": "2026-10-24T09:44:36Z",
+      "heartbeat_at": "2026-10-24T09:44:36Z",
+      "ttl_hours": 48.0,
+      "expires_at": "2026-10-26T09:44:36Z",
       "label": "claude-sonnet"
     }
   }
