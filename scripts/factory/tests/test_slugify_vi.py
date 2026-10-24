@@ -470,5 +470,92 @@ class TestLiveSitemapAudit(unittest.TestCase):
         self.assertTrue(hasattr(tool, 'NoRedirect'))
 
 
+
+class TestCloudflareRedirectStaging(unittest.TestCase):
+    """The 301 dashboard export is only a staged dataset, never a live redirect."""
+
+    def test_cloudflare_csv_parser_and_integrity_guards(self):
+        cf = load('cf_d_redirect_export_t', 'scripts/seo/export-cloudflare-301.py')
+        self.assertEqual(cf.selftest(), 0)
+
+    def test_full_staged_csv_matches_unmodified_published_manifest(self):
+        from pathlib import Path
+        cf = load('cf_d_redirect_export_full_t', 'scripts/seo/export-cloudflare-301.py')
+        rows = cf.manifest_rows(cf.SOURCE)
+        cf.validate(rows, None)  # all 1,410 OLD/NEW pairs must be unique
+        # The first 40 belong to the verified old permalink format; another
+        # 36 historical rows have matrix/permalink drift, so a bulk export
+        # MUST remain blocked until they receive independent QA reattestation.
+        valid_subset = [r for r in rows if not (820 <= int(r['article_id'][4:]) <= 869)]
+        cf.validate(valid_subset[:40], Path(ROOT))
+        with tempfile.TemporaryDirectory(prefix='cf-301-staging-') as d:
+            exported = Path(d) / 'cloudflare.csv'
+            cf.write_dashboard_csv(rows, exported)
+            committed = Path(ROOT) / 'reports/factory/seo-master/cloudflare-301-DO-NOT-ACTIVATE.csv'
+            self.assertEqual(exported.read_bytes(), committed.read_bytes(),
+                             'Redirect CSV must be regenerated if migration map changes')
+
+
+
+
+class TestMatrixGhost404Mappings(unittest.TestCase):
+    """50 existing live posts must not be damaged when fixing wrong matrix URLs."""
+
+    def test_50_matrix_404_redirects_point_to_real_post_permalinks(self):
+        from pathlib import Path
+        base = Path(ROOT) / 'reports/factory/seo-master'
+        matrix_map = Path(ROOT) / 'data/content-matrix.csv'
+        map_file = base / 'matrix-50-404-to-live-200-20261024.csv'
+        cf_file = base / 'cloudflare-301-50-MATRIX-404-DO-NOT-ACTIVATE.csv'
+        with matrix_map.open(encoding='utf-8', newline='') as fh:
+            matrix = {r['id']: r for r in csv.DictReader(fh)}
+        with map_file.open(encoding='utf-8', newline='') as fh:
+            rows = list(csv.DictReader(fh))
+        with cf_file.open(encoding='utf-8', newline='') as fh:
+            redirect_rows = list(csv.reader(fh))
+        self.assertEqual(len(rows), 50)
+        self.assertEqual(len(redirect_rows), 50)
+        self.assertEqual({r['article_id'] for r in rows},
+                         {'BLG-%05d' % i for i in range(820, 870)})
+        origin = 'https://blog.thuexemaynguyentu.com'
+        for record, cf in zip(rows, redirect_rows):
+            aid = record['article_id']
+            self.assertEqual(matrix[aid]['expected_url'], record['matrix_404_url'])
+            self.assertEqual(matrix[aid]['output_path'], record['post_file'])
+            with (Path(ROOT) / record['post_file']).open(encoding='utf-8') as f:
+                post = f.read(4000)
+            match = re.search(r'(?m)^permalink:\s*(.+?)\s*$', post)
+            self.assertIsNotNone(match, aid)
+            permalink = match.group(1).strip().strip('"').strip("'")
+            self.assertEqual(permalink, record['actual_200_url'], aid)
+            self.assertNotEqual(record['matrix_404_url'], record['actual_200_url'])
+            self.assertEqual(record['expected_http'], '404')
+            self.assertEqual(record['actual_http'], '200')
+            self.assertEqual(cf, [
+                'blog.thuexemaynguyentu.com' + record['matrix_404_url'],
+                origin + record['actual_200_url'], '301', 'TRUE',
+                'FALSE', 'FALSE', 'FALSE'])
+
+
+
+
+class TestCorrectPublishedMatrixRoutes(unittest.TestCase):
+    """Owner-authorized route correction must pass fresh QA before any write."""
+
+    def test_50_route_repair_preflight_rescores_without_mutating_repo(self):
+        path = os.path.join(ROOT, 'scripts/seo/repair-matrix-50-urls.py')
+        before = os.stat(os.path.join(ROOT, 'data/content-matrix.csv')).st_mtime_ns
+        result = subprocess.run([sys.executable, path, '--dry-run'],
+                                cwd=ROOT, capture_output=True, text=True, timeout=240)
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        data = json.loads(result.stdout)
+        self.assertEqual(data['result'], 'DRY_RUN_PASS')
+        self.assertEqual(data['qa_rescored_pass'], 50)
+        self.assertEqual(data['posts_edited'], 0)
+        self.assertEqual(os.stat(os.path.join(ROOT, 'data/content-matrix.csv')).st_mtime_ns,
+                         before, 'dry-run MUST NOT write production matrix')
+
+
+
 if __name__ == '__main__':
     unittest.main(verbosity=1)
