@@ -496,5 +496,45 @@ class TestCloudflareRedirectStaging(unittest.TestCase):
 
 
 
+
+class TestMatrixGhost404Mappings(unittest.TestCase):
+    """50 existing live posts must not be damaged when fixing wrong matrix URLs."""
+
+    def test_50_matrix_404_redirects_point_to_real_post_permalinks(self):
+        from pathlib import Path
+        base = Path(ROOT) / 'reports/factory/seo-master'
+        matrix_map = Path(ROOT) / 'data/content-matrix.csv'
+        map_file = base / 'matrix-50-404-to-live-200-20261024.csv'
+        cf_file = base / 'cloudflare-301-50-MATRIX-404-DO-NOT-ACTIVATE.csv'
+        with matrix_map.open(encoding='utf-8', newline='') as fh:
+            matrix = {r['id']: r for r in csv.DictReader(fh)}
+        with map_file.open(encoding='utf-8', newline='') as fh:
+            rows = list(csv.DictReader(fh))
+        with cf_file.open(encoding='utf-8', newline='') as fh:
+            redirect_rows = list(csv.reader(fh))
+        self.assertEqual(len(rows), 50)
+        self.assertEqual(len(redirect_rows), 50)
+        self.assertEqual({r['article_id'] for r in rows},
+                         {'BLG-%05d' % i for i in range(820, 870)})
+        origin = 'https://blog.thuexemaynguyentu.com'
+        for record, cf in zip(rows, redirect_rows):
+            aid = record['article_id']
+            self.assertEqual(matrix[aid]['expected_url'], record['matrix_404_url'])
+            self.assertEqual(matrix[aid]['output_path'], record['post_file'])
+            with (Path(ROOT) / record['post_file']).open(encoding='utf-8') as f:
+                post = f.read(4000)
+            match = re.search(r'(?m)^permalink:\\s*(.+?)\\s*, post)
+            self.assertIsNotNone(match, aid)
+            self.assertEqual(match.group(1).strip().strip('"\''), record['actual_200_url'], aid)
+            self.assertNotEqual(record['matrix_404_url'], record['actual_200_url'])
+            self.assertEqual(record['expected_http'], '404')
+            self.assertEqual(record['actual_http'], '200')
+            self.assertEqual(cf, [
+                'blog.thuexemaynguyentu.com' + record['matrix_404_url'],
+                origin + record['actual_200_url'], '301', 'TRUE',
+                'FALSE', 'FALSE', 'FALSE'])
+
+
+
 if __name__ == '__main__':
     unittest.main(verbosity=1)
