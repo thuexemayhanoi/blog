@@ -1,40 +1,25 @@
-"""SEO Master — hàm slug dùng chung (bản sao có chủ đích của quy tắc trong scripts/factory/generate-matrix.py).
+"""SEO Master — hàm slug cho audit/di trú, DÙNG CHUNG `scripts/factory/slugkit.py` (không còn bản sao).
 
 Có hai dạng slug cho cùng một tiêu đề:
   slug_correct(title)  slug đúng hiện hành: đ -> d trước khi bỏ dấu ("xe đạp điện" -> "xe-dap-dien")
   slug_old(title)      slug do slugify cũ sinh ra: chữ đ không có dạng phân rã NFD nên bị regex xóa mất
                        ("xe đạp điện" -> "xe-ap-ien"); đây là lỗi đã khiến nhiều URL đã xuất bản thiếu chữ d
 
-Tests: scripts/factory/tests/test_slugify_vi.py (lớp TestSeoSlugForms) khóa hành vi này và đối chiếu với generate-matrix.py.
+Tests: scripts/factory/tests/test_slugify_vi.py (lớp TestSeoSlugForms) và test_slug_policy.py.
 """
 from __future__ import annotations
 
-import re
-import unicodedata
+import os
+import sys
 
-DATE_PREFIX = re.compile(r"^\d{4}-\d{2}-\d{2}-")
-MAX_SLUG = 80
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "factory"))
+import slugkit  # noqa: E402
 
-
-def _norm(s: str) -> str:
-    """Giống generate-matrix.norm(): bỏ dấu, thường, chỉ giữ a-z0-9 và khoảng trắng."""
-    s = unicodedata.normalize("NFD", s)
-    s = "".join(c for c in s if unicodedata.category(c) != "Mn")
-    return re.sub(r"[^a-z0-9 ]", "", s.lower()).strip()
-
-
-def slug_correct(title: str) -> str:
-    return re.sub(r"\s+", "-", _norm(title.replace("đ", "d").replace("Đ", "D")))[:MAX_SLUG].strip("-")
-
-
-def slug_old(title: str) -> str:
-    return re.sub(r"\s+", "-", _norm(title))[:MAX_SLUG].strip("-")
-
-
-def split_date_prefix(slug: str) -> tuple[str, str]:
-    """Một số bài legacy có tiền tố ngày trong slug: trả (tiền tố gồm dấu '-', phần còn lại)."""
-    m = DATE_PREFIX.match(slug)
-    return (m.group(0), slug[m.end():]) if m else ("", slug)
+DATE_PREFIX = slugkit.DATE_PREFIX_RE
+MAX_SLUG = slugkit.MAX_SLUG_LEN
+slug_correct = slugkit.slugify
+slug_old = slugkit.slugify_legacy_without_d
+split_date_prefix = slugkit.split_date_prefix
 
 
 def slug_forms(title: str) -> dict[str, object]:

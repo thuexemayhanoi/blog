@@ -1,0 +1,37 @@
+{
+ "schema": "live-baseline-summary/1",
+ "source": "GitHub Actions run 40099351054 (factory-liveness live_audit) trên main f40b17c",
+ "generated": "2026-10-24T13:44Z",
+ "summary": {
+  "sitemap_urls": 6923,
+  "pages_checked": 6923,
+  "sitemap_status_counts": {
+   "200": 6923
+  },
+  "internal_link_targets": 6955,
+  "failing_link_targets_by_status": {
+   "301": 16
+  },
+  "failing_link_targets": 16,
+  "soft_404_pages": 0,
+  "canonical_problem_pages": 0,
+  "noindex_in_sitemap": 0,
+  "duplicate_canonical_groups": 0,
+  "stub_pages_in_sitemap": 0,
+  "links_to_redirect_pages": 0,
+  "orphan_pages": 0,
+  "asset_unique": 17,
+  "asset_failing": 0,
+  "error_type_counts": {
+   "HTTP_3XX": 16,
+   "NON_ASCII_PATH": 483,
+   "OK": 6440
+  },
+  "handling_counts": {
+   "INFO": 483,
+   "NEEDS_FIX": 16,
+   "OK": 6440
+  },
+  "csv_rows": 67
+ }
+}

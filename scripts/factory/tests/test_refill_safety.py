@@ -142,6 +142,7 @@ def make_fixture(mutate_txn=None, head_seq=None, ledger_candidates=None,
               'data/state/transaction.json',
               'data/state/checkpoint.json',
               'data/content-matrix.csv',
+              'scripts/factory/slugkit.py',
               'scripts/factory/refill-queue.py'):
         shutil.copy(os.path.join(ROOT, p), os.path.join(work, p))
     if with_sources:

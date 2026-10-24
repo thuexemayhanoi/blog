@@ -175,6 +175,7 @@ def make_fixture(ledger_candidates=None, head_seq=None):
               'scripts/factory/factory-operator.py',
               'scripts/factory/publish-gate.py',
               'scripts/factory/queue.py',
+              'scripts/factory/slugkit.py',
               'scripts/factory/generate-matrix.py',
               'scripts/factory/expand-topic-universe.py'):
         shutil.copy(os.path.join(ROOT, p), os.path.join(work, p))

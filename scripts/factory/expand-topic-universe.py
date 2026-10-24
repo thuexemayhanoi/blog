@@ -33,13 +33,11 @@ SEED_PATH = 'data/state/matrix-seed.json'
 MATRIX_PATH = 'data/content-matrix.csv'
 REPORT_PATH = 'reports/factory/topic-universe.md'
 
-# ---------------- chuẩn hoá chống trùng (giống generate-matrix.py)
+# ---------------- chuẩn hoá chống trùng: DÙNG CHUNG slugkit.norm (cùng generate-matrix.py/refill-queue.py)
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import slugkit  # noqa: E402
 
-
-def norm(s):
-    s = unicodedata.normalize('NFD', s)
-    s = ''.join(c for c in s if unicodedata.category(c) != 'Mn')
-    return re.sub(r'[^a-z0-9 ]', '', s.lower()).strip()
+norm = slugkit.norm
 
 
 # ---------------- CỔNG SCORING
