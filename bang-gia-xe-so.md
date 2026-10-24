@@ -13,7 +13,7 @@ pricing_table: true
 
 ## Bảng giá thuê xe số tại Hà Nội
 
-Xe số là loại xe vận hành bằng hộp số tay: người lái phối hợp tay côn, chân số và tay ga để tăng giảm tốc. Đây là nhóm xe phổ biến nhất tại Việt Nam nhờ tiết kiệm xăng, bền bỉ và chi phí thuê thấp. Nếu bạn đã quen lái xe số, đây là lựa chọn kinh tế cho hầu hết nhu cầu di chuyển tại Hà Nội.
+Xe số có hộp số nhiều cấp, người lái chuyển số bằng cần số ở chân. Các mẫu phổ biến như Honda Wave sử dụng ly hợp tự động, không có tay côn để bóp; xe côn tay là nhóm khác. Xe số quen thuộc tại Việt Nam nhờ khả năng tiết kiệm nhiên liệu, độ bền và chi phí thuê hợp lý. Nếu bạn đã quen lái xe số, đây là lựa chọn kinh tế cho hầu hết nhu cầu di chuyển tại Hà Nội.
 
 Trang này cập nhật bảng giá tham khảo cho xe số tại Nguyễn Tú, cùng những lưu ý để bạn quyết định xe số có phù hợp với chuyến đi của mình hay không.
 
