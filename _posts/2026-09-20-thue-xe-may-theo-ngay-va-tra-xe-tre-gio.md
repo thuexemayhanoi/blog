@@ -23,7 +23,7 @@ Giờ nhận xe cũng ảnh hưởng đến ngày đầu tiên. Nhận xe buổi
 
 ## Trả xe trễ được tính thế nào
 
-Chuyện trả trễ là tình huống thường thấy nhất với khách thuê xe: chuyến bay dời giờ, cuộc họp kéo dài, hoặc đơn giản là kế hoạch trong ngày bị trễ tụt. Cách xử lý phổ biến trong ngành là tính phụ phí theo giờ cho các giờ trễ đầu tiên. Với xe thuê tại Nguyễn Tú, phí cho các giờ trả trễ được tính 20.000đ một giờ. Đây là mức phí tham khảo và các chi tiết cụ thể cần được xác nhận trực tiếp với cửa hàng trước khi đặt xe.
+Chuyện trả trễ dễ xảy ra khi chuyến bay dời giờ, cuộc họp kéo dài hoặc lịch trình thay đổi. Với xe thuê tại Nguyễn Tú, giờ trả và việc gia hạn cần được xác nhận trước; chi phí phát sinh (nếu có) áp dụng theo hợp đồng hoặc thỏa thuận giữa hai bên. Không nên suy ra một mức phí cố định theo giờ khi chưa được cửa hàng xác nhận.
 
 Với các trường hợp trễ lâu, cách tính chuyển sang quy tắc khác: nếu thời gian trễ vượt quá sáu giờ, có thể được tính thêm một ngày thuê theo giá ngày của dòng xe bạn thuê, thường vào khoảng 150.000đ đến 200.000đ tùy dòng xe. Ngưỡng sáu giờ này là điểm đáng nhớ khi lên kế hoạch, vì khoảng trễ dưới và trên ngưỡng được xử lý theo hai công thức khác nhau, và một giờ trễ thứ bảy có thể làm chi phí nhảy sang một bậc mới.
 
@@ -41,7 +41,7 @@ Tránh nhầm lẫn giữa hai khái niệm: phí trễ giờ và việc giữ x
 
 Với khách bay từ Nội Bài: thời gian di chuyển từ sân bay về nội thành dao động tùy giờ, và nên tính thêm thời gian lấy hành lý và hoàn thủ tục nếu bạn có xe đưa đón. Cắt cận về lịch trả xe tại cửa hàng trong lúc chạy đón chuyến bay là một trong những nguồn trễ phổ biến nhất, nên hãy để dự phòng ít nhất một tiếng cho các biến số sân bay. Nếu chuyến bay rời vào buổi tối muộn sau giờ đóng cửa của cửa hàng, cân nhắc trả xe từ sáng sớm và đi lại bằng phương tiện khác phần còn lại của ngày.
 
-Với khách du lịch trong ngày: kế hoạch thường gói các điểm tham quan rồi trả xe trước giờ đóng cửa. Cách sắp xếp an toàn là xếp điểm xa nhất vào đầu ngày, để phần chiều chỉ còn các điểm gần nơi trả xe. Nếu lỡ trễ một giờ do kẹt xe, mức phụ phí theo giờ thường nhỏ so với giá trị trải nghiệm thu được, nhưng để xảy ra trễ quá sáu giờ vì việc xuống phố quá say mê thì câu chuyện khác hẳn, vì khi đó một ngày thuê mới có thể được tính thêm.
+Với khách du lịch trong ngày, hãy xếp điểm tham quan xa nhất vào đầu ngày, còn buổi chiều dành cho những điểm gần nơi trả xe. Nếu lỡ giờ do tắc đường hoặc thay đổi kế hoạch, hãy liên hệ Nguyễn Tú để thống nhất gia hạn và khoản phát sinh (nếu có) theo thỏa thuận, thay vì tự giả định mức phí theo giờ hay theo ngày.
 
 Với khách thuê dài ngày theo tuần hoặc theo tháng: ranh giới ngày thường được thỏa thuận rõ từ đầu, và các ngày trễ hiếm khi xảy ra vì chu kỳ trả được đặt vào khung giờ cố định. Tuy vậy, quy tắc phụ phí theo giờ vẫn áp dụng nếu bạn trễ khung giờ đã hẹn, nên nguyên tắc thông báo sớm giữ nguyên giá trị với mọi loại hình thuê. Chi tiết các gói theo tuần và theo tháng cho từng dòng xe được liệt kê trong [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}).
 
