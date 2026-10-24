@@ -1,6 +1,6 @@
 # Tóm tắt kiểm kê nội dung hiện có
 
-Sinh bởi `scripts/factory/generate-reports.py` từ `data/content-inventory.csv`. Mốc dữ liệu (bài mới nhất): 2026-10-20.
+Sinh bởi `scripts/factory/generate-reports.py` từ `data/content-inventory.csv`. Mốc dữ liệu (bài mới nhất): 2026-10-24.
 
 Số bài legacy trong `_posts/`: 483. Tất cả đã được ánh xạ vào taxonomy (từ `data/state/existing-map.json`, URL giữ nguyên).
 
@@ -22,7 +22,7 @@ Số bài legacy trong `_posts/`: 483. Tất cả đã được ánh xạ vào t
 
 ## Số từ (đếm thô từ markdown)
 
-- Trung bình: 1585 từ/bài
-- Nhỏ nhất: 1500, lớn nhất: 2356
+- Trung bình: 1586 từ/bài
+- Nhỏ nhất: 1500, lớn nhất: 2362
 
 Không bài legacy nào bị đổi URL. Không bài nào bị xóa hay đổi tên.
