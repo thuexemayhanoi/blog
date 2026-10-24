@@ -17,6 +17,16 @@
 - **Không sửa tay Matrix, slug hay QA evidence** của 36 bài. Xác minh sitemap/HTTP thật trước, dùng công cụ reattestation/revision chính thức và backup riêng.
 - Bản xuất toàn bộ 1.410 URL phải bị chặn bởi script `--validate-only` cho đến khi xử lý các mismatch; batch không chứa mismatch vẫn có thể tạo *CSV nháp* để kiểm tra. Không kích hoạt 301 khi NEW chưa tồn tại.
 
+## 50 URL 404 thật trong Matrix đã xác minh live (ưu tiên sửa riêng)
+
+- So khớp **6.147 URL bài PUBLISHED/EXISTING/REVIEW** với sitemap live: 50 URL `expected_url` của các ID **BLG-00820…BLG-00869** không có trong sitemap.
+- Đã kiểm tra HTTP trực tiếp **50/50 URL Matrix = 404**, nhưng **50/50 trang đích thật = truy cập được**; không có 50 bài bị mất.
+- Cấu trúc Matrix sai `/<hub>/2026/09/29/<slug>/`. URL hiện hữu trong sitemap là 35 dạng `/<hub>/2026-09-29/<slug>/` và 15 dạng `/<hub>/2026-09-29-<slug>/`.
+- Bản đồ từng ID: `reports/factory/seo-master/matrix-50-404-to-live-200-20261024.csv`. File Cloudflare CSV **50 nguồn 404 → 50 trang đích đã sống**: `reports/factory/seo-master/cloudflare-301-50-MATRIX-404-DO-NOT-ACTIVATE.csv`.
+- **36/50** đồng thời thuộc danh sách 1.410 slug mất chữ `d`; 14 trường hợp còn lại chỉ lệch cấu trúc ngày tháng. 36 bài nói trên có QA evidence `DRIFT_CONTENT_SHA`.
+- Khi xác nhận Cloudflare proxied DNS và rule chạy thật, đây là lô thích hợp để xử lý trước: **nguồn hiện 404, đích đã live 200**. Không cần đổi permalink bài thật để triển khai redirect `404 → 301 → live 200`. Tuy nhiên vẫn phải kiểm tra cấu hình, query string và các xung đột redirect hiện có.
+- Không được đổi Matrix/QA thủ công. Sau khi redirect ổn định, cập nhật Matrix và QA bằng công cụ bảo trì có provenance, backup, rollback.
+
 ## Điều kiện cần hoàn thành trước khi di trú bất kỳ bài nào
 
 1. Xác minh chủ tên miền và nền tảng DNS. Nếu chọn Cloudflare, phải khai báo domain đúng cách và bật **proxied DNS** cho host `blog.thuexemaynguyentu.com` mà không làm sai CNAME hiện hành; giữ SSL và toàn bộ URL khác.
