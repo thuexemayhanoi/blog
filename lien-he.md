@@ -92,7 +92,7 @@ Chúng tôi nhận thanh toán bằng tiền mặt (VND) và các hình thức t
 
 #### Trả xe trễ giờ thì sao?
 
-Phí trả xe trễ là 20.000đ mỗi giờ trễ. Nếu trễ hơn 6 tiếng, có thể tính thêm một ngày thuê theo loại xe, khoảng 150.000–200.000đ/ngày. Hãy chủ động báo trước nếu có thay đổi lịch trình.
+Nếu dự kiến trả xe muộn, hãy chủ động báo Nguyễn Tú trước giờ hẹn để xác nhận lại lịch trả xe và các khoản phát sinh (nếu có) theo hợp đồng hoặc thỏa thuận.
 
 ### Sẵn sàng đặt xe?
 

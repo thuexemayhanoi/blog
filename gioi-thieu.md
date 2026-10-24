@@ -124,7 +124,7 @@ Một số điểm cần nhớ khi sử dụng dịch vụ:
 - Kiểm tra xe cùng Nguyễn Tú khi nhận: đèn, còi, phanh, lốp, mức xăng và các vết trầy xước sẵn có.
 - Chấp hành luật giao thông: đội mũ bảo hiểm, chạy đúng làn, không vượt đèn đỏ.
 - Không cho người khác điều khiển xe trong thời gian thuê.
-- Trả xe đúng giờ. Trường hợp trả muộn, phí trễ được tính 20.000đ mỗi giờ; nếu trễ quá 6 tiếng, có thể tính thêm một ngày thuê theo loại xe (khoảng 150.000 – 200.000đ/ngày).
+- Trả xe đúng giờ. Nếu cần trả muộn, hãy báo trước với Nguyễn Tú để xác nhận lại thời gian và chi phí phát sinh (nếu có) theo hợp đồng hoặc thỏa thuận.
 - Bảo hiểm xe máy do người thuê tự mua. Nguyễn Tú không cung cấp bảo hiểm cho người thuê.
 - Báo ngay cho Nguyễn Tú nếu xe gặp sự cố kỹ thuật trong thời gian thuê.
 
