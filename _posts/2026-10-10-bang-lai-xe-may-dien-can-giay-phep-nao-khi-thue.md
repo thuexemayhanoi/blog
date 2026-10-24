@@ -7,7 +7,7 @@ description: "Bằng lái xe máy điện cần hạng nào tùy công suất v�
 categories: [Kinh nghiệm]
 lang: vi
 tags: [bằng lái xe máy điện, giấy phép lái cho xe điện, thuê xe điện, giấy tờ thuê xe]
-permalink: /an-toan-phap-ly/2026/10/10/bang-lai-xe-may-ien-can-giay-phep-nao-khi-thue/
+permalink: /an-toan-phap-ly/2026/10/10/bang-lai-xe-may-dien-can-giay-phep-nao-khi-thue/
 parent_id: P-PHAP-LY
 child_id: C-GPLX
 article_id: BLG-01918

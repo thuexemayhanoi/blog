@@ -7,7 +7,7 @@ description: "Lộ trình chạy xe máy đến vườn đào Phù Đổng mùa 
 categories: [Kinh nghiệm]
 lang: vi
 tags: [vườn đào Phù Đổng mùa Tết, đi đào Tết Gia Lâm, thuê xe máy Hà Nội, du lịch Tết]
-permalink: /du-lich/2026/10/09/chay-xe-may-en-vuon-ao-phu-ong-mua-tet/
+permalink: /du-lich/2026/10/09/chay-xe-may-den-vuon-dao-phu-dong-mua-tet/
 parent_id: P-DU-LICH
 child_id: C-DIEM-DEN
 article_id: BLG-01708

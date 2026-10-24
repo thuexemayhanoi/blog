@@ -7,7 +7,7 @@ description: "Nhận xe máy thuê lần đầu buổi tối dễ bỏ qua chi t
 categories: [Hỏi đáp]
 lang: vi
 tags: [nhận xe máy thuê lần đầu buổi tối, thử xe máy thuê khi trời tối, kiểm tra xe thuê buổi tối, checklist nhận xe thuê]
-permalink: /hoi-dap/2026/10/11/nhan-xe-thue-lan-au-khi-troi-toi-can-thu-nhung-chuc-nang-gi/
+permalink: /hoi-dap/2026/10/11/nhan-xe-thue-lan-dau-khi-troi-toi-can-thu-nhung-chuc-nang-gi/
 parent_id: P-HOI-DAP
 child_id: C-HD-NGUOI-MOI
 article_id: BLG-02024
