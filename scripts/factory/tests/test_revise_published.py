@@ -427,8 +427,10 @@ class TestApply(ReviseBase):
         ev3 = self.evidence(a)
         rev = ev3['revision']
         self.assertEqual(rev['previous_content_sha256'], first_ev['content_sha256'])
-        self.assertEqual(len(rev['history']), 1)
-        self.assertEqual(rev['history'][0]['edits_sha256'], first_ev['revision']['edits_sha256'])
+        # bài có thể đã có lịch sử revision từ trước (sửa giá, di trú permalink): chuỗi dài thêm đúng MỘT mắt xích, nối ở cuối
+        base_history = len(first_ev['revision'].get('history') or [])
+        self.assertEqual(len(rev['history']), base_history + 1)
+        self.assertEqual(rev['history'][-1]['edits_sha256'], first_ev['revision']['edits_sha256'])
         self.assertEqual(ev3['post_publish_repair'], notes['post_publish_repair'])
         self.assertEqual(ev3['scored_at'], first_ev['scored_at'])
 
