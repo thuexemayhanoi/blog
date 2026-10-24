@@ -76,7 +76,7 @@ Mức giá tuần và tháng luôn được xác nhận trực tiếp trước k
 2. **Xác nhận giá:** Chốt giá theo ngày, tuần hoặc tháng cùng tiền đặt cọc 2.000.000 – 5.000.000đ.
 3. **Chuẩn bị giấy tờ:** Xuất trình CMND/CCCD (khách Việt Nam) hoặc hộ chiếu (khách nước ngoài), kèm giấy phép lái xe phù hợp.
 4. **Nhận xe:** Nhận xe tại Long Biên hoặc yêu cầu giao xe trong khu vực phục vụ, trong giờ 09:00 – 21:00.
-5. **Trả xe:** Trả đúng giờ; phí trễ 20.000đ/giờ, trễ quá 6 tiếng có thể tính thêm một ngày thuê khoảng 150.000 – 200.000đ.
+5. **Trả xe:** Trả đúng giờ đã hẹn; nếu cần trả muộn, hãy liên hệ Nguyễn Tú trước giờ hẹn để xác nhận thời gian và chi phí phát sinh (nếu có) theo hợp đồng hoặc thỏa thuận.
 
 ## Lưu ý khi lái xe ga tại Hà Nội
 
