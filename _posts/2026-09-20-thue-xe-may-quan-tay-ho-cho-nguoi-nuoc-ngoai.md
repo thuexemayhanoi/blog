@@ -55,7 +55,7 @@ Nếu bạn đang tìm hiểu dòng xe phù hợp với nhu cầu đi lại hằ
 
 ## Câu hỏi thường gặp của người nước ngoài khi thuê xe
 
-Câu hỏi đầu tiên thường là về việc có cần trả xe đúng giờ không. Câu trả lời là nên, và nếu không kịp thì hãy báo trước. Phí tính thêm khi trả quá giờ thường rơi vào khoảng 20.000đ mỗi giờ, và trường hợp trễ quá sáu giờ có thể được tính thêm một ngày thuê tùy quy định của từng nơi. Một tin nhắn nhắc trước giúp cửa hàng chủ động và giúp bạn tránh mọi hiểu lầm không đáng có.
+Câu hỏi đầu tiên thường là có cần trả xe đúng giờ không. Câu trả lời là nên, và nếu không kịp thì hãy báo trước. Giờ gia hạn và chi phí trả muộn (nếu có) cần được xác nhận theo hợp đồng hoặc thỏa thuận cụ thể với cửa hàng, không mặc định một mức phí cho tất cả. Một tin nhắn sớm giúp hai bên chủ động sắp xếp.
 
 Câu hỏi thứ hai là về mũ bảo hiểm. Thói quen ở nhiều nước là mua riêng một chiếc mũ đạt chuẩn mang theo, và đây là cách tốt nhất nếu bạn ở dài hạn. Nếu chỉ ở ngắn hạn, hãy hỏi trước khi nhận xe xem cửa hàng có mũ đi kèm hay không để chủ động chuẩn bị. Một chiếc mũ vừa đầu, có kính che mắt là món đáng đầu tư cho các buổi chiều nắng gắt ven hồ.
 
