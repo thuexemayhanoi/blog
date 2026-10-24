@@ -41,7 +41,7 @@ Mức giá tham khảo hiện hành:
 
 ### Honda Vision
 
-Mẫu xe ga bán chạy nhất Việt Nam, thiết kế nhỏ gọn, nhẹ, dễ luồn lách trong phố cổ. Phù hợp với khách coi trọng sự linh hoạt: đi phố, đi chợ, di chuyển quãng ngắn trong ngày. Giá thuê 200.000đ/ngày.
+Mẫu xe ga phổ biến, thiết kế nhỏ gọn, nhẹ, dễ di chuyển trong các tuyến phố đông. Phù hợp với khách coi trọng sự linh hoạt: đi phố, đi chợ, di chuyển quãng ngắn trong ngày. Giá thuê 200.000đ/ngày.
 
 ### Honda Air Blade
 
@@ -105,7 +105,7 @@ Xe ga là lựa chọn phù hợp nhất cho người mới vì không cần ph�
 
 #### Khách nước ngoài cần giấy tờ gì để thuê xe ga?
 
-Hộ chiếu và giấy phép lái xe phù hợp. Với xe trên 50cc, giấy phép lái xe quốc tế hoặc giấy phép lái xe Việt Nam là bắt buộc theo quy định giao thông.
+Khách nước ngoài cần hộ chiếu và giấy phép lái xe hợp lệ tại Việt Nam, đúng hạng xe thuê. Trường hợp sử dụng giấy phép lái xe quốc tế được công nhận theo Công ước Viên năm 1968, cần mang kèm giấy phép lái xe quốc gia phù hợp. Không phải mọi loại bằng lái quốc tế đều được chấp nhận; hãy kiểm tra loại giấy phép trước khi thuê.
 
 #### Giá thuê xe ga có rẻ hơn khi thuê dài hạn không?
 

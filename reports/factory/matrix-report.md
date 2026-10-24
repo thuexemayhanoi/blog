@@ -6,10 +6,10 @@
 |---|---|---|
 | HARD_CAPACITY | 10000 | Trần kỹ thuật của factory, KHÔNG phải chỉ tiêu biên tập. |
 | EDITORIAL_TARGET | 6980 | Tổng planned_target trong taxonomy — chỉ tiêu chủ đề đã kiểm chứng. |
-| CURRENT_VALID_ROWS | 6142 | Số hàng hiện tại, tất cả là ý định hợp lệ (không hàng đệm). |
-| CURRENT_SEEDED_ROWS | 5659 | Hàng planned mới đã có ý định riêng. |
-| RESERVED_CAPACITY | 3858 | HARD_CAPACITY trừ legacy và seed — chỉ dành cho chủ đề MỚI thật. |
-| MISSING_VALID_TOPIC_SPACE | 1321 | Thiếu so với EDITORIAL_TARGET — BÁO THIẾU, không đệm. |
+| CURRENT_VALID_ROWS | 6150 | Số hàng hiện tại, tất cả là ý định hợp lệ (không hàng đệm). |
+| CURRENT_SEEDED_ROWS | 5667 | Hàng planned mới đã có ý định riêng. |
+| RESERVED_CAPACITY | 3850 | HARD_CAPACITY trừ legacy và seed — chỉ dành cho chủ đề MỚI thật. |
+| MISSING_VALID_TOPIC_SPACE | 1313 | Thiếu so với EDITORIAL_TARGET — BÁO THIẾU, không đệm. |
 
 Lưu ý trung thực: 483 (legacy) + 6980 (EDITORIAL_TARGET) = 7463 < HARD_CAPACITY 10000. Taxonomy hiện tại KHÔNG THỂ đạt 10.000 hàng. Muốn tăng phải mở rộng seed bằng chủ đề thật (khác biệt ý định, không hoán đổi tên/từ). Đạt HARD_CAPACITY không phải điều kiện hoàn thành của matrix; điều kiện là mọi hàng đều hợp lệ và chống trùng PASS.
 
@@ -19,7 +19,7 @@ Sinh bởi `scripts/factory/generate-matrix.py` từ `data/state/matrix-seed.jso
 
 ## Tổng quan
 
-- Tổng hàng: 6142
+- Tổng hàng: 6150
 - Legacy EXISTING: 473 (giữ nguyên URL/mapping, không đổi ID)
 - Legacy REVIEW: 10 (giữ nguyên trạng thái, không tự PASS)
 - PLANNED mới: 2
