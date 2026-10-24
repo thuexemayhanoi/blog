@@ -23,7 +23,7 @@ Cac nhom test (temp fixture, KHONG cham production state):
       duplicate seed/matrix (idempotent)
   T4  HEAD doi giua critical section -> STOP, khong partial mutation,
       lock sach, candidate van STAGED (chua materialize)
-  T5  gate G1-G8 fail -> STOP, seed/matrix/checkpoint/ledger nguyen ven,
+  T5  gate G1-G9 fail -> STOP, seed/matrix/checkpoint/ledger nguyen ven,
       lock sach
   T6  writer-lock dang bi writer khac giu -> tu choi an toan, khong
       mutate, khong force-unlock
@@ -91,7 +91,7 @@ def _norm(s):
 
 
 def synth_candidates(work, n=3):
-    """Candidate hop le G1-G8 tu sinh (hermetic): T1 khong phu thuoc
+    """Candidate hop le G1-G9 tu sinh (hermetic): T1 khong phu thuoc
     production ledger (sau refill that ledger rong — operator verify
     full chay tren state moi phai van PASS)."""
     cap = json.load(open(os.path.join(
@@ -481,7 +481,7 @@ def main():
            'rc=%d staged=%d materialized=%d'
            % (rc4, len(after4['staged']), len(after4['materialized'])))
 
-    # ============ T5. GATE G1-G8 FAIL -> STOP, KHONG CORRUPT ============
+    # ============ T5. GATE G1-G9 FAIL -> STOP, KHONG CORRUPT ============
     bad = [{'candidate_id': 'CAND-BAD-SEM-001',
             'child_id': 'C-KHONG-TON-TAI',
             'title': 'chu de sai child khong trung',

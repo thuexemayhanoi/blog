@@ -5,7 +5,7 @@
 # Che do ( Hop dong docs/ENGINE-RUNBOOK.md ):
 #   refill-queue.py --plan              in claimable + thoi diem refill (read-only)
 #   refill-queue.py --verify [--report PATH|-]
-#                                       PURE validation gate G1-G8 cho ledger.
+#                                       PURE validation gate G1-G9 cho ledger.
 #                                       KHONG append, KHONG gan ID, KHONG sua
 #                                       matrix/checkpoint/ledger. exit 0 = PASS,
 #                                       khac 0 = gate violation that.
@@ -47,6 +47,14 @@
 #  G7 child phai thuoc taxonomy (ke thua source policy)
 #  G8 candidate KHONG trung tieu de chuan hoa voi bat ky hang matrix nao
 #     (chong cannibalization bai cu)
+#  G9 candidate KHONG la bien the tu vung cua hang da co: G2/G3/G8 chi bat
+#     trung KHOP CHUAN HOA nen "Xe thue bi thung lop..." vs "Xe may thue bi
+#     thung lop..." lot qua (da xac minh 2026-10-24: ~8% hang matrix co hang
+#     lang gieng giong >= 0.5, 1,6% >= 0.8). G9 so tap tu khoa co nghia
+#     (bo tu chuc nang + xe/may/thue) cua title/kw: same-child title Jaccard
+#     >= G9_TITLE, hoac kw Jaccard >= G9_KW kem title >= G9_KW_TITLE; khac
+#     child chi chan title >= G9_CROSS. Ten rieng khac nhau (dia danh, mau
+#     xe, van ban) van duoc chap nhan vi tap tu khoa khac.
 import csv
 import json
 import os
@@ -87,6 +95,58 @@ def slugify(s):
     return re.sub(r'\s+', '-', s)[:80].strip('-')
 
 
+# ---- G9: near-duplicate tu vung (khong doi G2/G3/G8; chi them)
+G9_TITLE = 0.80       # title Jaccard cung child
+G9_KW = 0.80          # kw Jaccard cung child ...
+G9_KW_TITLE = 0.60    # ... kem title Jaccard toi thieu
+G9_CROSS = 0.90       # title Jaccard khac child
+G9_MIN_TOKENS = 3     # tap qua nho thi khong ket luan
+_G9_STOP = frozenset((
+    'va la cua cho khi o ha noi nen co khong the nao nhu gi bang tren trong '
+    'den tu mot cac nhung de ve duoc voi hay hoac sau truoc se bi cung moi '
+    'nhat sao dau luc toi nguoi').split())
+_G9_GENERIC = frozenset(('xe', 'may', 'thue'))
+
+
+def sim_tokens(text):
+    """Tap tu khoa co nghia da chuan hoa (khong dau, bo tu chuc nang va
+    xe/may/thue — cac tu xuat hien o gan moi tieu de cua blog)."""
+    text = (text or '').replace('đ', 'd').replace('Đ', 'D')  # như slugify: đ không phân rã NFD
+    return frozenset(w for w in norm(text).split()
+                     if len(w) > 1 and w not in _G9_STOP
+                     and w not in _G9_GENERIC)
+
+
+def jaccard(a, b):
+    return len(a & b) / max(1, len(a | b))
+
+
+def g9_check(cid, child, title_t, kw_t, pool):
+    """pool: list (id, child, title_tokens, kw_tokens). Tra ve list loi."""
+    errs = []
+    if len(title_t) < G9_MIN_TOKENS:
+        return errs
+    for oid, och, ot, ok in pool:
+        if len(ot) < G9_MIN_TOKENS:
+            continue
+        jt = jaccard(title_t, ot)
+        if och == child:
+            if jt >= G9_TITLE:
+                errs.append('%s: G9 title la bien the tu vung cua %s '
+                            '(Jaccard %.2f >= %.2f)' % (cid, oid, jt, G9_TITLE))
+            elif (jt >= G9_KW_TITLE and kw_t and ok
+                    and jaccard(kw_t, ok) >= G9_KW):
+                errs.append('%s: G9 kw+title la bien the tu vung cua %s '
+                            '(kw %.2f, title %.2f)'
+                            % (cid, oid, jaccard(kw_t, ok), jt))
+        elif jt >= G9_CROSS:
+            errs.append('%s: G9 title gan nhu trung hang khac child %s '
+                        '(Jaccard %.2f >= %.2f)' % (cid, oid, jt, G9_CROSS))
+        if len(errs) >= 2:
+            break
+    return errs
+
+
 def load_matrix():
     return list(csv.DictReader(open(MATRIX_PATH, encoding='utf-8')))
 
@@ -94,9 +154,13 @@ def load_matrix():
 def build_matrix_indexes(rows):
     """Index nho (requirement #9): kw/intent/slug/title/output/canonical toan matrix."""
     idx = {'kw': {}, 'intent': {}, 'slug': set(), 'title': {},
-           'out': set(), 'canon': set(), 'per_child': {}}
+           'out': set(), 'canon': set(), 'per_child': {}, 'sim': []}
     for r in rows:
         cid = r['child_id']
+        if r.get('status') in ('PUBLISHED', 'PLANNED', 'WRITING', 'QA',
+                               'PASS', 'REPAIR', 'EXISTING', 'REVIEW'):
+            idx['sim'].append((r['id'], cid, sim_tokens(r['title']),
+                               sim_tokens(r['primary_keyword'])))
         idx['per_child'][cid] = idx['per_child'].get(cid, 0) + 1
         if norm(r['primary_keyword']):
             idx['kw'][(cid, norm(r['primary_keyword']))] = r['id']
@@ -115,7 +179,7 @@ def build_matrix_indexes(rows):
 
 def check_candidate(c, midx, seen, tax_kids, child_caps, staged_child,
                     mat_kw, mat_int):
-    """Chay G1-G8 cho 1 candidate. Tra ve list loi (rong = PASS)."""
+    """Chay G1-G9 cho 1 candidate. Tra ve list loi (rong = PASS)."""
     errs = []
     cid = c.get('candidate_id', '(khong id)')
     if c['child_id'] not in tax_kids:
@@ -165,6 +229,12 @@ def check_candidate(c, midx, seen, tax_kids, child_caps, staged_child,
     if cid in seen['cid']:
         errs.append('%s: G6 candidate_id trung' % cid)
     seen['cid'].add(cid)
+    # G9: bien the tu vung so voi matrix + candidate da qua truoc do
+    title_t = sim_tokens(c.get('title', ''))
+    kw_t = sim_tokens(c.get('kw', ''))
+    errs += g9_check(cid, c['child_id'], title_t, kw_t,
+                     midx.get('sim', []) + seen.setdefault('sim', []))
+    seen['sim'].append((cid, c['child_id'], title_t, kw_t))
     return errs
 
 
@@ -251,7 +321,7 @@ def mode_verify(cap, tax, rows, ledger, report_path):
             os.makedirs(d, exist_ok=True)
         open(report_path, 'w', encoding='utf-8').write(report)
         print('report            : %s' % report_path)
-    print('=== REFILL VERIFY (gate G1-G8) ===')
+    print('=== REFILL VERIFY (gate G1-G9) ===')
     print('candidates staged : %d' % len(cands))
     print('rejected recorded : %d' % len(ledger.get('rejected', [])))
     if errors:
@@ -259,7 +329,7 @@ def mode_verify(cap, tax, rows, ledger, report_path):
         for e in errors[:20]:
             print(' -', e)
         return 1
-    print('ALL GATES: PASS (G1-G8)')
+    print('ALL GATES: PASS (G1-G9)')
     return 0
 
 
@@ -384,7 +454,11 @@ def mode_selftest(cap, tax, rows):
     # 1. hop le -> PASS
     case('candidate hop le duoc chap nhan', cand(), must_reject=False)
     # 2. duplicate intent vs matrix
-    dup = rows[484]  # hang planned dau tien
+    # hang co slugify(title) nam trong chi muc slug cua matrix (de G4 that su
+    # kich hoat). Truoc 2026-10-24 dung rows[484] co dinh: sau khi hang do
+    # thanh PUBLISHED voi slug rieng, case G4 FAIL du gate van dung.
+    dup = next(r for r in rows if r['status'] in ('PUBLISHED', 'PLANNED')
+               and slugify(r['title']) in midx['slug'])
     case('duplicate intent vs matrix bi tu choi (G3)',
          cand(intent=dup['intent'], kw='tu khoa moi hoan toan 01'), gate='G3')
     # 3. duplicate kw vs matrix
@@ -399,6 +473,14 @@ def mode_selftest(cap, tax, rows):
     case('duplicate title vs matrix bi tu choi (G8)',
          cand(title=dup['title'], kw='tu khoa khac 04',
               intent='y dinh khac 04'), gate='G8')
+    # 5b. G9: bien the tu vung cua hang matrix (doi thu tu/chen xe-may-thue)
+    src = next(r for r in rows if r['status'] == 'PUBLISHED'
+               and len(sim_tokens(r['title'])) >= G9_MIN_TOKENS)
+    variant = ' '.join(reversed(src['title'].split()))
+    case('bien the tu vung cua hang da co bi tu choi (G9)',
+         cand(child_id=src['child_id'], title=variant,
+              kw='tu khoa moi hoan toan 05', intent='y dinh moi hoan toan 05'),
+         gate='G9')
     # 6. child khong ton tai (G7)
     case('child khong ton tai bi tu choi (G7)',
          cand(child_id='C-KHONG-TON-TAI'), gate='G7')
@@ -592,7 +674,7 @@ def mode_refill(cap, tax, rows, ledger):
     if not ledger.get('candidates'):
         print('REFILL TU CHOI: ledger khong con candidate STAGED — '
               'NEEDS_TOPIC_EXPANSION: expand/stage topic THAT (qua '
-              'gate G1-G8) truoc khi refill lai. KHONG tao filler, '
+              'gate G1-G9) truoc khi refill lai. KHONG tao filler, '
               'KHONG bao SUCCESS gia.')
         return 1
     start_head = git_head()

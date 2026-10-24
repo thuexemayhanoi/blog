@@ -4,11 +4,11 @@ Phê duyệt: 2026-10-11; cập nhật multi-writer 2026-10-11. Áp dụng cho E
 
 ## 0. Quy tắc quan trọng
 
-- **Writer push tối đa 10 draft một lượt** vào `_drafts/**` (lease ≤10 ID/slot, tối đa 3 slot = 30 ID đang làm). `factory-publish.yml` nhận đúng ID, chia **cặp x 2**, QA và publish tuần tự trong cùng một workflow run, và **drain** mọi draft đang xếp hàng (run bị GitHub hủy không làm mất draft).
+- **Writer push tối đa 10 draft một lượt** vào `_drafts/**` (lease ≤10 ID/slot, tối đa 12 slot = 120 ID đang làm; mỗi run publisher nhận ≤30 ID, phần dư chờ run kế). `factory-publish.yml` nhận đúng ID, chia **cặp x 2**, QA và publish tuần tự trong cùng một workflow run, và **drain** mọi draft đang xếp hàng (run bị GitHub hủy không làm mất draft).
 - **Giữ `data/factory/production-control.json` với `chunk_size=2`**. Đây là mức commit/claim có transaction, KHÔNG phải kích thước một lần writer push. Không thay `MAX_QUEUE_PER_PUSH=10` hoặc `MAX_LEASE=10`.
 - Chỉ publish qua `scripts/factory/publish-gate.py`; writer KHÔNG sửa `_posts/`, checkpoint, matrix, SHA evidence, writer-lock, transaction hay reports. Không force push.
 - QA vẫn `quality >= 75`, `seo >= 70`, business facts PASS, legal PASS hoặc NOT_REQUIRED, không critical failure. Không tạo thêm bài kém chất lượng để đầy 10.
-- Chỉ có **một publisher** ghi vào production tại một thời điểm; 1–3 writer soạn song song, mỗi slot một phiên, mỗi ID một chủ.
+- Chỉ có **một publisher** ghi vào production tại một thời điểm; 1–12 writer soạn song song, mỗi slot một phiên, mỗi ID một chủ.
 
 ## 1. Vào việc: nhận slot + lease (MỘT lệnh)
 
@@ -27,7 +27,7 @@ python3 scripts/factory/writer-session.py status                                
 
 1. Chia candidate thành batch khoảng 20–50 hàng/file tại `data/factory/refill-batches/*.json`. Mỗi hàng đủ `candidate_id,child_id,title,intent,kw,kw2,links,subtopic,audience,location_scope,word_target>=1200`. `links` phải là route THẬT (QA coi `links_routes_valid` là lỗi critical).
 2. Trước khi push, kiểm tra trùng keyword/intent/title/slug, link thực và chính sách nguồn (`stage-refill-batch.py` trên bản sao). Không tự sửa ledger production.
-3. Commit/push **chỉ refill-batches** (+ bump `refill-request.json`) để kích hoạt `factory-refill.yml`; workflow chạy G1–G8, stage, và CHỈ materialize khi PLANNED claim được < `min_ready_queue` (trên ngưỡng: batch ở trạng thái STAGED, không lỗi). Không gửi draft chưa có ID cùng commit refill.
+3. Commit/push **chỉ refill-batches** (+ bump `refill-request.json`) để kích hoạt `factory-refill.yml`; workflow chạy G1–G9, stage, và CHỈ materialize khi PLANNED claim được < `min_ready_queue` (trên ngưỡng: batch ở trạng thái STAGED, không lỗi). Không gửi draft chưa có ID cùng commit refill.
 4. Run FAIL: lấy *chính xác candidate_id và gate*, sửa ứng viên, push lại; không tắt validator. Run PASS: `git pull --ff-only`, lấy ID mới từ main. Một candidate trùng làm cả stage FAIL + rollback — kiểm tra trước. Không thêm hàng giả cho đủ 100/300.
 
 ## 3. Writer batch 10 — một push
@@ -47,7 +47,7 @@ python3 scripts/factory/writer-session.py confirm --ids BLG-…,BLG-…
 
 ### Multi-writer
 
-2–3 AI ngoài cùng hoạt động: mỗi AI `begin --slot auto` → slot khác nhau, ID rời nhau. Mỗi slot một phiên (session ngẫu nhiên lưu trong `.git/` của working copy; sống sót qua container mới / bàn giao AI→AI: `FACTORY_WRITER_SESSION=<token riêng>` hoặc `begin --slot W2 --session s-…`). Push qua CAS nên không bao giờ ghi đè nhau; publisher vẫn serial qua `concurrency: factory-publish`. Nếu chỉ có 1 AI thì chỉ dùng 1 slot; KHÔNG khai AI ảo.
+Nhiều AI ngoài cùng hoạt động (tối đa 12 slot): mỗi AI `begin --slot auto` → slot khác nhau, ID rời nhau. Mỗi slot một phiên (session ngẫu nhiên lưu trong `.git/` của working copy; sống sót qua container mới / bàn giao AI→AI: `FACTORY_WRITER_SESSION=<token riêng>` hoặc `begin --slot W2 --session s-…`). Push qua CAS nên không bao giờ ghi đè nhau; publisher vẫn serial qua `concurrency: factory-publish`. Nếu chỉ có 1 AI thì chỉ dùng 1 slot; KHÔNG khai AI ảo.
 
 ### Hết quota / mất kết nối
 

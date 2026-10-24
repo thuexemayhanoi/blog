@@ -1,7 +1,7 @@
 # Continuous Writer Contract — hợp đồng vòng lặp của external writer (/blog)
 
 Tài liệu canonical cho cách writer (AI bên ngoài, BẤT KỲ nhà cung cấp nào) hoạt động ở chế độ continuous
-đa-writer (tối đa 3 slot W1/W2/W3). Bản một trang: `docs/AI-WRITER-QUICKSTART.md`; kiến trúc và bất biến:
+đa-writer (tối đa 12 slot W1…W12, `data/factory/writer-pool.json`). Bản một trang: `docs/AI-WRITER-QUICKSTART.md`; kiến trúc và bất biến:
 `docs/MULTI-WRITER-ARCHITECTURE.md`; công cụ: `scripts/factory/writer-session.py`.
 
 ## Mô hình canonical (turbo write-ahead queue + drain)
@@ -13,7 +13,7 @@ Tài liệu canonical cho cách writer (AI bên ngoài, BẤT KỲ nhà cung c�
   Mỗi run còn **drain** mọi draft đang xếp hàng (`push-selection.py --backlog`, tối đa 30 ID): run bị GitHub hủy
   không làm mất draft.
 - Push = TỐI ĐA 10 draft một lần (hard invariant của push; vượt → selector refuse). Queue lẻ hợp lệ.
-- MULTI-WRITER: tối đa 3 slot, mỗi slot MỘT phiên (session), mỗi ID một chủ, lease ≤10 ID/slot, TTL có heartbeat,
+- MULTI-WRITER: tối đa 12 slot (writer-pool.json), mỗi slot MỘT phiên (session), mỗi ID một chủ, lease ≤10 ID/slot, TTL có heartbeat,
   registry `data/state/writer-claims.json` do `writer-claim.py`/`writer-session.py` quản lý (CAS, không force push).
 - Writer KHÔNG PHẢI publisher: writer chỉ ghi draft của ID mình giữ (+ registry qua tool + batch refill). Mọi mutation
   production state (matrix, checkpoint, `_posts`, `data/qa`) thuộc factory-publish.yml.
@@ -59,7 +59,7 @@ Một pair vừa publish, một workflow vừa xanh, một Pages deploy vừa xo
 
 ## Bất biến an toàn mỗi vòng
 
-- Tối đa 3 slot; KHÔNG BAO GIỜ viết ID do writer khác giữ lease sống (selector refuse, engine fail-closed).
+- Tối đa 12 slot; KHÔNG BAO GIỜ viết ID do writer khác giữ lease sống (selector refuse, engine fail-closed).
 - KHÔNG force push; push bị từ chối → `writer-session.py` làm lại từ fetch (không rebase commit cũ).
 - Mỗi pair là transaction riêng; pair FAIL không rollback pair đã publish; FAIL nội dung là RECOVERABLE
   (hàng REPAIR chờ chủ sửa, KHÔNG chặn writer khác); FAIL hạ tầng dừng queue run (draft còn xếp hàng, run kế drain lại).
@@ -67,18 +67,18 @@ Một pair vừa publish, một workflow vừa xanh, một Pages deploy vừa xo
 
 ## Refill (coordinator)
 
-Phát hiện: `python3 scripts/factory/queue.py --needs-refill` (claimable PLANNED < `min_ready_queue`=100). Gate G1–G8 của
+Phát hiện: `python3 scripts/factory/queue.py --needs-refill` (claimable PLANNED < `min_ready_queue`=100). Gate G1–G9 của
 `refill-queue.py` (child capacity, keyword/intent/title/slug duy nhất, word_target, candidate_id, taxonomy). Quy trình:
 
 1. FETCH main; xác nhận transaction inactive, lock free, không Factory Publish đang chạy.
 2. Chuẩn bị batch topic THẬT (không filler) tại `data/factory/refill-batches/<date>-<tag>.json`; kiểm tra trùng + route link thật
    cục bộ (`stage-refill-batch.py` trên bản sao).
-3. Push batch + bump `data/factory/refill-request.json` → `factory-refill.yml` tự stage (G1–G8) và CHỈ materialize khi PLANNED
+3. Push batch + bump `data/factory/refill-request.json` → `factory-refill.yml` tự stage (G1–G9) và CHỈ materialize khi PLANNED
    claim được < `min_ready_queue` (nếu không: batch ở STAGED, run xanh, không lỗi) → commit đồng bộ ledger/seed/matrix/checkpoint/reports.
 4. Run FAIL/NEEDS_TOPIC_EXPANSION: sửa/mở rộng topic thật; KHÔNG hạ gate, KHÔNG sửa tay `data/state/*`, `checkpoint lệch` → `repair-checkpoint`.
 5. Sau refill xanh: FETCH main rồi `begin` lấy ID mới.
 
-Chỉ dừng khi: G1–G8 FAIL thật, hết candidate hợp lệ, hết capacity, transaction/lock mơ hồ, publisher fatal lặp lại.
+Chỉ dừng khi: G1–G9 FAIL thật, hết candidate hợp lệ, hết capacity, transaction/lock mơ hồ, publisher fatal lặp lại.
 
 ## Verify
 

@@ -68,7 +68,7 @@ def _norm(s):
 
 
 def synth_candidates(work, n=3):
-    """Candidate hop le G1-G8 tu sinh (hermetic): duong thanh cong
+    """Candidate hop le G1-G9 tu sinh (hermetic): duong thanh cong
     KHONG phu thuoc production ledger (sau refill that ledger rong,
     operator verify full phai van PASS)."""
     cap = json.load(open(os.path.join(

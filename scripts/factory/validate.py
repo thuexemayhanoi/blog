@@ -410,7 +410,7 @@ def check_matrix(scope, inv, legacy_files, factory_files, cp, chunk_ids):
 # ---------------- 8. writer registry (lease) — bất biến ownership
 
 def check_writer_registry(scope):
-    """data/state/writer-claims.json: JSON hợp lệ, <= 3 slot, <= 10 ID/slot,
+    """data/state/writer-claims.json: JSON hợp lệ, <= max_slots (writer-pool.json), <= 10 ID/slot,
     không ID nào bị hai lease sống giữ. CHỈ writer-side/coordination: vi
     phạm là WARN ở scope chunk (publisher không dừng vì registry — selector
     đã fail-closed riêng cho draft cần chủ), FAIL ở batch/full (audit)."""

@@ -1,6 +1,6 @@
 # Writer Loop — driver đọc/QA tương thích ngược (provider-neutral)
 
-Driver: `scripts/factory/writer-loop.py`. Với đa-writer (slot W1/W2/W3, phiên độc lập, CAS push) dùng
+Driver: `scripts/factory/writer-loop.py`. Với đa-writer (slot W1…W12, phiên độc lập, CAS push) dùng
 **`scripts/factory/writer-session.py`** — xem `docs/AI-WRITER-QUICKSTART.md`. `writer-loop.py` giữ các lệnh đọc/QA
 tương thích ngược, KHÔNG sửa engine, KHÔNG hạ gate.
 
@@ -31,7 +31,7 @@ python3 scripts/factory/writer-loop.py release --writer Wn --ids BLG-xxx,BLG-yyy
 ## Refill
 
 `status.needs_refill = true` (claimable PLANNED < 100) → quy trình trong `docs/CONTINUOUS-WRITER.md` mục Refill
-(push batch `data/factory/refill-batches/*.json` + bump `refill-request.json`; workflow tự stage G1–G8 và materialize).
+(push batch `data/factory/refill-batches/*.json` + bump `refill-request.json`; workflow tự stage G1–G9 và materialize).
 
 ## Điểm dừng hợp lệ
 

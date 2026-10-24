@@ -61,7 +61,7 @@ asible,
 - Khi claimable PLANNED < 100: sinh candidate den ~300.
 - KHONG bao gio sinh 9.000 hang mot luc.
 - Candidate staged trong data/state/refill-candidates.json;
-  gate G1-G8 kiem boi scripts/factory/refill-queue.py
+  gate G1-G9 kiem boi scripts/factory/refill-queue.py
   --verify (PURE validation, chay trong CI, read-only:
   mac dinh in stdout va KHONG ghi file nao; --report - stdout;
   --report PATH chi ghi dung PATH duoc yeu cau ro rang,

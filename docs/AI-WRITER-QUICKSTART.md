@@ -1,4 +1,4 @@
-# AI-WRITER-QUICKSTART — viết bài cho nhà máy SEO (BẤT KỲ AI nào, tối đa 3 người cùng lúc)
+# AI-WRITER-QUICKSTART — viết bài cho nhà máy SEO (BẤT KỲ AI nào, tối đa 12 người cùng lúc)
 
 ## Writer pool mở rộng (2026-10-16) — áp dụng khi `writer-pool.json` hiện diện
 
@@ -7,7 +7,7 @@ Mỗi AI vẫn có **một session và một slot độc quyền khi giữ bài*
 không cần đợi W1/W2/W3 hết lease: `begin --slot auto` chọn W4 (hoặc slot trống
 khác). Quyền sở hữu vẫn khóa theo BLG-ID, tối đa 10 ID/phiên; CAS và publisher
 duy nhất không thay đổi. Các hướng dẫn bên dưới nói "3 slot" là tài liệu legacy
-cho W1–W3, **không phải giới hạn mới**.
+cho W1–W3, **không phải giới hạn mới**. Nguồn duy nhất của mọi giới hạn pool: `data/factory/writer-pool.json` (`max_slots`, `max_ids_per_writer`, `max_queue_per_push`, `max_queue_per_run`); `test_writer_pool_contract` khoá code và docs khớp nhau.
 
 Ví dụ cho Mistral khi W1 đang thuộc Claude:
 
@@ -34,9 +34,10 @@ Mọi lệnh chỉ dùng **git + Python 3 stdlib** — không API ngoài, không
 ```
 W1 ─┐
 W2 ─┼─► main (CAS, không force push) ─► factory-publish.yml (MỘT publisher, QA 75/70) ─► website
-W3 ─┘
+…  ─┤   (tối đa 12 slot W1…W12)
+W12 ┘
 ```
-- Có **3 slot** `W1/W2/W3`; **mỗi slot thuộc đúng MỘT phiên (session) tại một thời điểm**. Mỗi slot giữ tối đa **10 ID** (lease), tổng tối đa 30 ID đang làm.
+- Có **12 slot** `W1`…`W12` (`data/factory/writer-pool.json`); **mỗi slot thuộc đúng MỘT phiên (session) tại một thời điểm**. Mỗi slot giữ tối đa **10 ID** (lease), tổng tối đa 120 ID đang làm; mỗi lần push ≤10 draft và mỗi run publisher nhận ≤30 ID (phần dư chờ run kế).
 - Bạn chỉ **viết draft** vào `_drafts/`. KHÔNG bao giờ tự publish, tự đổi matrix/QA/checkpoint, tự đánh PASS.
 - Hai AI không bao giờ giữ cùng một ID hay cùng một slot còn hạn; lease hết hạn thì AI khác nhận hợp lệ.
 
@@ -60,7 +61,7 @@ In ra `SLOT W2 | session s-… | hạn … | ID: BLG-…` (và dòng JSON `BLOG_
 
   Resume sau hết quota/đổi container: `git pull` → export lại ĐÚNG nhãn → `status` → `begin --slot <slot>`. Không dùng nhãn của slot khác.
 - **AI mới nhận W3** (slot trống): (1) chọn MỘT nhãn riêng theo mẫu `s-<ten-ai>-w3` (chỉ `A-Za-z0-9._-`, ≤ 64 ký tự) và giữ nguyên mãi cho slot này; (2) `export FACTORY_WRITER_SESSION=<nhãn>` ở đầu MỌI lần chạy; (3) `git pull` → `writer-session.py status`: W3 phải trống hoặc đã hết hạn — lease W1/W2 còn hạn là của AI khác, KHÔNG đụng; (4) `writer-session.py begin --slot W3 --label <ten-ai>`. Không mượn `s-mistral-w1` / `s-claude-w2`; không dùng token GitHub/API làm nhãn.
-- `NO_FREE_SLOT` → cả 3 slot đang có người; xem `status` để biết giờ hết hạn. `SLOT_HELD` → slot đó đang của phiên khác: chọn slot khác, **đừng chiếm**.
+- `NO_FREE_SLOT` → mọi slot đang có người; xem `status` để biết giờ hết hạn. `SLOT_HELD` → slot đó đang của phiên khác: chọn slot khác, **đừng chiếm**.
 - Còn hàng **REPAIR** của bạn → `begin` chỉ nối việc, **sửa REPAIR trước** (resume-first của riêng bạn).
 - Xem trạng thái: `python3 scripts/factory/writer-session.py status`.
 
@@ -127,7 +128,7 @@ python3 scripts/factory/writer-session.py confirm --ids BLG-…,BLG-…
 | thông báo / exit | nguyên nhân | xử lý |
 |---|---|---|
 | `SLOT_HELD` | slot của phiên khác còn hạn | dùng slot khác / chờ hết hạn |
-| `NO_FREE_SLOT` | đủ 3 phiên | chờ / báo chủ xe |
+| `NO_FREE_SLOT` | đủ phiên (hết `max_slots`) | chờ / báo chủ xe |
 | `LEASE_LOST` (exit 5) | lease hết hạn hoặc phiên khác đã nhận | `begin` lại (slot mới), viết lại phần chưa publish |
 | `NOT_MY_IDS` | ID không thuộc lease của bạn | chỉ push ID bạn giữ |
 | `CAS_EXHAUSTED` | push bị từ chối liên tục | chạy lại `push` (idempotent); nếu mạng/GitHub lỗi kéo dài thì chờ |
@@ -137,7 +138,7 @@ python3 scripts/factory/writer-session.py confirm --ids BLG-…,BLG-…
 | `SESSION_HOLDS_OTHER_SLOT` | phiên này đã giữ slot khác | dùng slot đang giữ (`--slot auto`) hoặc `release` trước |
 | `DUPLICATE_DRAFT` | hai file draft cho một ID | giữ MỘT file, xóa bản thừa |
 | `DRAFT_QUEUED` | release ID đã push nhưng chưa publish | chờ `confirm` (hoặc `--even-if-queued`) |
-| `BAD_SESSION` / `BAD_SLOT` | token/slot sai định dạng | token chỉ `A-Za-z0-9._-` ≤64 ký tự; slot W1/W2/W3 |
+| `BAD_SESSION` / `BAD_SLOT` | token/slot sai định dạng | token chỉ `A-Za-z0-9._-` ≤64 ký tự; slot W1…W12 |
 | run đỏ `REFUSED …` | draft sai chủ / thiếu article_id / ID lạ | sửa theo thông báo; không bypass |
 
 Kiểm tra nhanh trước khi báo xong: `confirm` exit 0 → Factory Publish xanh → Pages deploy xanh.
