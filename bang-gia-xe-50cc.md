@@ -70,7 +70,7 @@ Với các loại xe trên 50cc, giấy phép lái xe phù hợp là bắt buộ
 2. **Xác nhận giá:** Chốt mức giá theo thời gian thuê cùng tiền đặt cọc.
 3. **Chuẩn bị giấy tờ:** Xuất trình giấy tờ tùy thân theo hướng dẫn ở trên.
 4. **Nhận xe:** Nhận xe tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên hoặc yêu cầu giao xe trong khu vực phục vụ, trong giờ 09:00 – 21:00.
-5. **Trả xe:** Trả xe đúng giờ; phí trễ 20.000đ/giờ, trễ quá 6 tiếng có thể tính thêm một ngày thuê.
+5. **Trả xe:** Trả đúng giờ đã hẹn; nếu cần gia hạn hoặc trả muộn, hãy liên hệ Nguyễn Tú để xác nhận thời gian mới và các khoản phát sinh (nếu có) theo hợp đồng hoặc thỏa thuận.
 
 Không giao xe máy ngoài giờ hoạt động. Thời gian và chi phí giao nhận phải được xác nhận trước khi đặt xe.
 
