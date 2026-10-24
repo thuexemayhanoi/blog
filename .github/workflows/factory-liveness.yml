@@ -19,6 +19,10 @@ on:
         description: 'Kiem QA trang chuyen huong meta refresh theo registry slug dd->d: all hoac start:limit (vd 0:50). De trong = bo qua'
         type: string
         default: ''
+      dump_inventory:
+        description: 'In them toan bo inventory (base64+gz) vao log de giai ma local (mac dinh tat: log chi con ban tom tat gon o cuoi)'
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -106,9 +110,11 @@ jobs:
       - name: Crawl sitemap, lien ket noi bo va tai nguyen (HTTP that, khong theo redirect)
         run: |
           set -euo pipefail
+          DUMP=""
+          if [ "${{ inputs.dump_inventory }}" = "true" ]; then DUMP="--dump-inventory"; fi
           python3 scripts/seo/live-url-audit.py crawl --workers 12 --show 400 \
             --out "$RUNNER_TEMP/out/404-audit.csv" --inventory-out "$RUNNER_TEMP/out/url-inventory" \
-            --dump-inventory | tee "$RUNNER_TEMP/crawl.log"
+            $DUMP | tee "$RUNNER_TEMP/crawl.log"
           {
             echo "## Live URL audit"
             echo '```'
@@ -130,6 +136,16 @@ jobs:
           esac
           python3 scripts/seo/live-url-audit.py stubs --start "$START" --limit "$LIMIT" --workers 12 --show 300 \
             --out "$RUNNER_TEMP/out/stub-evidence.json" --dump-evidence | tee "$RUNNER_TEMP/stubs.log"
+
+      - name: Tom tat gon cuoi log (de doc bang tail log)
+        if: always()
+        run: |
+          set +e
+          echo "=== LIVE_AUDIT_SUMMARY_BEGIN ==="
+          sed -n '1,45p' "$RUNNER_TEMP/crawl.log" 2>/dev/null | grep -v '^[A-Za-z0-9+/=]\{60,\}$'
+          echo "--- stub check ---"
+          sed -n '1,25p' "$RUNNER_TEMP/stubs.log" 2>/dev/null | grep -v '^[A-Za-z0-9+/=]\{60,\}$'
+          echo "=== LIVE_AUDIT_SUMMARY_END ==="
 
       - name: Upload audit reports
         if: always()

@@ -119,7 +119,7 @@ C-GPLX:
   u: /an-toan-phap-ly/2026/10/20/khong-nho-so-giay-phep-lai-xe-may-khi-lam-thu-tuc-cap-lai-tim-lai-so-bang-qua-vn/
 C-HD-GIA:
 - t: Hỏi giá thuê xe máy cuối tuần có đắt hơn không
-  u: /hoi-dap/2026/10/07/hoi-gia-thue-xe-may-cuoi-tuan-co-at-hon-khong/
+  u: /hoi-dap/2026/10/07/hoi-gia-thue-xe-may-cuoi-tuan-co-dat-hon-khong/
 - t: 'Thuê xe máy theo tuần giá tốt: hỏi đáp nhanh'
   u: /hoi-dap/2026/10/10/thue-xe-may-theo-tuan-gia-tot-hoi-ap-nhanh/
 - t: Thuê xe máy 3 ngày giá có rẻ hơn không
@@ -334,7 +334,7 @@ C-THUE-THANG:
 - t: Thuê xe máy theo tháng cho shipper ở Hà Nội
   u: /thue-xe/2026/09/30/thue-xe-may-theo-thang-cho-shipper-o-ha-noi/
 - t: Thuê xe máy theo tháng khi chờ xe cũ lên đời
-  u: /thue-xe/2026/10/07/thue-xe-may-theo-thang-khi-cho-xe-cu-len-oi/
+  u: /thue-xe/2026/10/07/thue-xe-may-theo-thang-khi-cho-xe-cu-len-doi/
 - t: Thuê xe máy theo tháng cho thợ dịch vụ tại nhà
   u: /thue-xe/2026/09/30/thue-xe-may-theo-thang-cho-tho-dich-vu-tai-nha/
 - t: Thuê xe máy theo tháng cho vợ chồng cùng đi làm
@@ -356,7 +356,7 @@ C-THUE-TUAN:
 - t: Thuê xe máy theo tuần cho thợ về làm nhà
   u: /kinh nghiệm/2026/09/19/thue-xe-may-theo-tuan-cho-tho-ve-lam-nha/
 - t: Thuê xe máy theo tuần cho đợt hội chợ cuối năm
-  u: /thue-xe/2026/10/07/thue-xe-may-theo-tuan-cho-ot-hoi-cho-cuoi-nam/
+  u: /thue-xe/2026/10/07/thue-xe-may-theo-tuan-cho-dot-hoi-cho-cuoi-nam/
 - t: Thuê xe máy theo tuần khi ở Hà Nội dài ngày
   u: /thue-xe/2026/10/10/thue-xe-may-theo-tuan-khi-o-ha-noi-dai-ngay/
 - t: Thuê xe máy theo tuần khi về quê ngắn ngày
@@ -393,7 +393,7 @@ C-XE-DIEN:
 - t: Xe máy điện leo cầu vượt dốc dài
   u: /xe-may/2026/10/10/xe-may-ien-leo-cau-vuot-doc-dai/
 - t: Xe máy điện thuê chạy lúc mưa có an toàn không
-  u: /xe-may/2026/10/07/xe-may-ien-thue-chay-luc-mua-co-an-toan-khong/
+  u: /xe-may/2026/10/07/xe-may-dien-thue-chay-luc-mua-co-an-toan-khong/
 C-XE-GA:
 - t: Xe tay ga phù hợp với ai khi thuê
   u: /xe-may/2026/09/27/xe-tay-ga-phu-hop-voi-ai-khi-thue/
