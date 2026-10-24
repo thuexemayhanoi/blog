@@ -55,6 +55,11 @@
    "text": "Đính chính tên quy chuẩn cũ: QCVN 2:2021/BKHCN về mũ bảo hiểm cho người đi mô tô, xe máy được ban hành kèm Thông tư 04/2021/TT-BKHCN và thay thế QCVN 2:2008/BKHCN; câu “thay thế QCVN 02:2019/BKHCN” trong bài là không chính xác. Từ 01/01/2024, mũ sản xuất trong nước và nhập khẩu phải đáp ứng QCVN 2:2021/BKHCN trước khi lưu thông trên thị trường.",
    "source_label": "Công báo Chính phủ — Thông tư 04/2021/TT-BKHCN",
    "source_url": "https://congbao.chinhphu.vn/van-ban/thong-tu-so-04-2021-tt-bkhcn-34048/36343.htm"
+  },
+  "MOPED_50_AGE": {
+   "text": "Đính chính ranh giới 50 cm³: theo điểm g khoản 1 Điều 34 Luật Trật tự, an toàn giao thông đường bộ, xe gắn máy có động cơ nhiệt với dung tích không lớn hơn 50 cm³ (bao gồm đúng 50 cm³) và vận tốc thiết kế không lớn hơn 50 km/h; xe gắn máy điện có công suất không lớn hơn 4 kW và cũng phải đáp ứng điều kiện vận tốc. Điều 59 cho phép người đủ 16 tuổi trở lên điều khiển xe gắn máy khi đáp ứng các điều kiện luật định. Vì vậy câu trong bài coi đúng 50 cm³ đương nhiên là mô tô cần đủ 18 tuổi là chưa chính xác. Quyền điều khiển xe và điều kiện đứng tên hợp đồng thuê là hai vấn đề khác nhau; cần xác nhận điều kiện thuê cụ thể với cửa hàng.",
+   "source_label": "Bộ Công an trả lời về người đủ 16 tuổi lái xe gắn máy 50 cm³ (20/01/2026)",
+   "source_url": "https://chinhsachonline.chinhphu.vn/do-tuoi-duoc-phep-dieu-khien-xe-gan-may-83869.htm"
   }
  },
  "posts": {
@@ -199,6 +204,12 @@
    "id": "BLG-00634",
    "codes": [
     "HELMET_QCVN_2021"
+   ]
+  },
+  "/hoi-dap/2026-09-29-thue-xe-may-can-bao-nhieu-tuoi/": {
+   "id": "BLG-00869",
+   "codes": [
+    "MOPED_50_AGE"
    ]
   }
  }
