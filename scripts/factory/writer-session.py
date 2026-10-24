@@ -492,7 +492,9 @@ def cmd_begin(g, a):
             res = WC.apply_claim(reg, rows, slot, sess, count=count, ids=ids,
                                  now=now, ttl_hours=ttl,
                                  label=a.label, adopt=a.adopt,
-                                 allow_empty_pool=True)
+                                 allow_empty_pool=True,
+                                 paused=not WC.control_enabled(
+                                     read(WC.CONTROL_REL) or b'{}'))
             if not res['ok']:
                 raise Refuse(res['code'], res['error'], **{
                     k: v for k, v in res.items()

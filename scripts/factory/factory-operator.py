@@ -1437,7 +1437,15 @@ def op_refill(args):
         sentinel O_EXCL bên trong; op KHÔNG giữ lock quanh lệnh này
         (nested lock cùng sentinel = self-deadlock). Phần đuôi op
         (checkpoint + reports) acquire lại SAU khi refill-queue release.
+      - production-control enabled=false (tạm dừng bảo trì): KHÔNG refill,
+        exit 0 sạch (không đổi ledger/seed/matrix/checkpoint). Refill không
+        phải việc dở cần hoàn tất — nó chỉ tạo thêm hàng PLANNED mới.
     """
+    if not load_control()['enabled']:
+        print('refill: production-control enabled=false (tạm dừng bảo trì) — '
+              'KHÔNG refill, không đổi ledger/seed/matrix/checkpoint. '
+              'Chờ chủ repository bật lại sản xuất.')
+        return 0
     r = subprocess.run([sys.executable, 'scripts/factory/queue.py',
                          '--needs-refill'], capture_output=True, text=True)
     print(r.stdout.strip())

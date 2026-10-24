@@ -201,10 +201,25 @@ def selftest():
     return 0 if ok else 1
 
 
+def production_paused():
+    """production-control enabled=false -> True. Thiếu/hỏng file -> False (cùng hợp đồng
+    load_control của operator/selector: chỉ `enabled:false` tường minh mới tạm dừng)."""
+    try:
+        with open(os.path.join(ROOT, 'data/factory/production-control.json'), encoding='utf-8') as f:
+            return not bool((json.load(f) or {}).get('enabled', True))
+    except Exception:
+        return False
+
+
 def main():
     args = sys.argv[1:]
     if '--selftest' in args:
         sys.exit(selftest())
+    if production_paused():
+        print('PAUSED: production-control enabled=false (tam dung bao tri) - KHONG stage batch refill '
+              'va khong doi ledger. Batch van nam trong data/factory/refill-batches/ de stage sau khi '
+              'chu repository bat lai san xuat.')
+        sys.exit(0)
     files = []
     if '--all' in args:
         files = sorted(glob.glob(os.path.join(BATCH_DIR, '*.json')))

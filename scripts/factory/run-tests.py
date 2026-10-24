@@ -53,6 +53,7 @@ CI = [
     'test_writer_claim', 'test_writer_pool_contract', 'test_dynamic_writer_pool', 'test_selector_ownership', 'test_selector_drain',
     'test_push_selection', 'test_factory_queue', 'test_publisher_push',
     'test_writer_session', 'test_writer_loop',
+    'test_pause_enforcement',
     # hợp đồng tĩnh/hardening + watchdog
     'test_hardening', 'test_watchdog',
     # liên kết ngữ cảnh "Cùng chủ đề" (cannibalization)

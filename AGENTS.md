@@ -92,6 +92,8 @@ Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. 
 
 Chế độ TURBO mặc định cho external AI writer: khi có đủ hàng PLANNED hợp lệ và lease riêng, chuẩn bị đủ 10 draft rồi push trong MỘT commit; publisher vẫn chia 5 pair x 2. Không tăng production-control.chunk_size (giữ 2), không tự promote, không giảm QA. Ít hơn 10 bài khi thiếu hàng hợp lệ hoặc cần sửa REPAIR; không tạo bài đệm. Quy trình chi tiết: `docs/TURBO-WRITER-RUNBOOK.md`.
 
+**Tạm dừng bảo trì (`data/factory/production-control.json` → `enabled:false`)**: là tạm dừng THẬT với mọi đường tạo hàng mới. `writer-session.py begin` / `writer-claim.py claim` từ chối nhận ID PLANNED mới (code `PAUSED`); `factory-operator.py refill` và `stage-refill-batch.py` thoát exit 0 không đổi ledger/seed/matrix/checkpoint; publisher/selector không claim. VẪN được phép: nối lại lease, REPAIR và `--adopt` hàng in-flight (hoàn tất việc dở, không mất draft/evidence). Thiếu/hỏng file = enabled. Writer/Routine KHÔNG tự đặt `enabled:true` — chỉ chủ repository bật lại. Hồi quy: `scripts/factory/tests/test_pause_enforcement.py`.
+
 Luồng pair bài (push-driven): writer `begin` (lease) → viết draft → `check` (QA cục bộ cùng scorer) →
 `push` → workflow TỰ claim EXACT ID (pair 2) → QA (chấm + evidence hash) → publish hàng PASS qua
 gate → `confirm`: PUBLISHED / REPAIR (sửa đúng draft rồi `push` lại, mode repair KHÔNG claim lại) /
