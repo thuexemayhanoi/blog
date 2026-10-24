@@ -37,7 +37,7 @@ Hiểu lầm thứ bảy: giá thuê ngày giống nhau ở mọi nơi và mọi
 
 Hiểu lầm thứ tám: trả xe sớm thì được hoàn phần tiền ngày chưa dùng. Phần lớn hợp đồng thuê theo ngày không hoàn tiền cho thời gian không sử dụng, giống cách khách sạn không hoàn tiền nếu bạn trả phòng sớm. Vì vậy, nếu lịch trình còn chưa chắc, thuê ngắn rồi gia hạn thường hợp lý hơn thuê dài rồi bỏ dở. Bài về trả xe sớm và câu hỏi hoàn tiền trình bày kỹ hướng xử lý tình huống này.
 
-Hiểu lầm thứ chín: trễ trả xe chút chút chắc không sao. Mức phổ biến là 20.000đ cho mỗi giờ trễ, và trễ trên sáu tiếng có thể được tính thêm một ngày thuê. Biết trước các mức này thay vì phỏng đoán giúp bạn chủ động giờ trả, và nếu thấy có thể trễ, báo trước luôn rẻ hơn im lặng.
+Hiểu lầm thứ chín: trễ trả xe một chút chắc không sao. Mỗi cửa hàng có điều kiện trả xe và gia hạn riêng; không nên mặc định có một mức phí theo giờ hay mốc giờ áp dụng cho mọi hợp đồng. Nếu có thể trễ, hãy báo trước để xác nhận thời gian và khoản phát sinh (nếu có).
 
 ## Hiểu lầm về việc lái xe
 
