@@ -124,6 +124,23 @@ class TestHelpers(unittest.TestCase):
                 M.check_only_permalink_changed(t, bad, '/a/b/', '/a/c/')
             self.assertEqual(c.exception.code, 'POST_DIFF_NOT_PERMALINK_ONLY')
 
+    def test_retarget_text_changes_only_targets(self):
+        t = ('Xem [bài](/a/b/ "tiêu đề") và [x](/a/b/#frag) và <a href="/a/b/">h</a> và [y](/a/bc/) và [z](/a/b/c/) '
+             'và [s](/ky-nang) và [s2](/ky-nang/2026/x/).')
+        mp = {'/a/b/': '/a/B2/', '/ky-nang': '/ky-nang/'}
+        out, counts = M.retarget_text(t, mp)
+        self.assertEqual(counts, {'/a/b/': 3, '/ky-nang': 1})
+        self.assertIn('[bài](/a/B2/ "tiêu đề")', out)
+        self.assertIn('[x](/a/B2/#frag)', out)
+        self.assertIn('<a href="/a/B2/">h</a>', out)
+        self.assertIn('[y](/a/bc/)', out)                # khóa là TOKEN đầy đủ: /a/b/ không khớp /a/bc/
+        self.assertIn('[z](/a/b/c/)', out)               # cũng không khớp /a/b/c/
+        self.assertIn('[s](/ky-nang/)', out)
+        self.assertIn('[s2](/ky-nang/2026/x/)', out)     # /ky-nang không khớp /ky-nang/2026/...
+        self.assertEqual(M.mask_links(t), M.mask_links(out))
+        self.assertNotEqual(M.mask_links(t), M.mask_links(out.replace('và', 'VÀ', 1)))
+        self.assertEqual(M.retarget_text(t, {}), (t, {}))
+
     def test_rewrite_is_token_exact(self):
         mp = {'/x/2026/10/07/at-xe/': '/x/2026/10/07/dat-xe/'}
         self.assertEqual(M._rewrite('a /x/2026/10/07/at-xe/ b /x/2026/10/07/at-xe-khac/', mp),
@@ -447,6 +464,124 @@ class TestMatrixAndData(MigrateBase):
             self.assertEqual(M.refresh_data(self.root), [], 'lam moi lan hai no-op')
         finally:
             M.GENERATED_DATA = real_generated
+
+
+class TestRetargetLinks(MigrateBase):
+    """Pha 2: đổi ĐÍCH liên kết nội bộ của bài nguyên vẹn (engine tổng quát; ánh xạ do người gọi cấp)."""
+
+    def pair(self):
+        """(ID bài P nguyên vẹn, đích cũ Q, đích mới R): P link tới bài Q; R là bài khác cùng danh mục (giữ tiền tố hub)."""
+        c = M.make_ctx(self.root, 'x', 'probe')
+        by_url = {r['expected_url']: r for r in c.rows if r['status'] == 'PUBLISHED'}
+        for r in c.rows[600:2600]:
+            if r['status'] != 'PUBLISHED':
+                continue
+            ev_p = self.root / 'data/qa' / (r['id'] + '.json')
+            post = self.root / r['output_path']
+            if not ev_p.is_file() or not post.is_file():
+                continue
+            ev = json.loads(ev_p.read_text(encoding='utf-8'))
+            raw = post.read_bytes()
+            if ev.get('content_sha256') != sha(raw) or ev.get('matrix_row_sha256') != A.fingerprint(r) or ev.get('result') != 'PASS':
+                continue
+            text = raw.decode('utf-8')
+            for q in M.re.findall(r'\]\((/[a-z0-9-]+/\d{4}/\d{2}/\d{2}/[a-z0-9-]+/)\)', text):
+                if q not in by_url or q == r['expected_url']:
+                    continue
+                cat = q.split('/')[1]
+                other = next((u for u in by_url if u.startswith('/%s/' % cat) and u != q and u != r['expected_url']
+                              and ('](%s)' % u) not in text), None)
+                if other:
+                    self.focus.add(r['id'])
+                    try:
+                        M.derive_links(self.ctx(), r['id'], {q: other})
+                    except R.Refuse:
+                        self.focus.discard(r['id'])
+                        continue
+                    return r['id'], q, other
+        self.skipTest('fixture khong co bai phu hop')
+
+    def links_manifest(self, ids, mp):
+        m = M.make_links_plan(self.ctx(), mp, ids)
+        self.assertEqual(sorted(m['eligible']), sorted(ids), m['excluded'])
+        return m
+
+    def test_01_plan_apply_verify_rollback(self):
+        aid, q, other = self.pair()
+        mp = {q: other}
+        row = self.row(aid)
+        old_post = (self.root / row['output_path']).read_bytes()
+        old_ev = self.evidence(aid)
+        before = tree_hashes(self.root, WATCH)
+        m = self.links_manifest([aid], mp)
+        self.assertEqual(M.make_links_plan(self.ctx(), mp, [aid])['counts']['links'], sum(m['entries'][aid]['targets'].values()))
+        self.assertEqual(tree_hashes(self.root, WATCH), before, 'links-plan khong ghi gi')
+        rep = M.apply_links(self.ctx(batch='links-test'), m, [aid])
+        self.assertEqual(rep['written'], [aid])
+        changed = {k for k, v in tree_hashes(self.root, WATCH).items() if before.get(k) != v}
+        self.assertEqual(changed, {row['output_path'], 'data/qa/%s.json' % aid}, 'chi bai + evidence cua no doi (khong matrix/registry)')
+        new_post = (self.root / row['output_path']).read_bytes()
+        self.assertEqual(new_post.decode(), old_post.decode().replace('](%s)' % q, '](%s)' % other))
+        ev = self.evidence(aid)
+        rv = ev['revision']
+        self.assertEqual((rv['kind'], rv['mapping_sha256'], ev['content_sha256']), (M.LINK_KIND, M.mapping_digest(mp), sha(new_post)))
+        self.assertEqual(ev['matrix_row_sha256'], old_ev['matrix_row_sha256'])
+        for k in ('scored_at', 'published_at'):
+            self.assertEqual(ev.get(k), old_ev.get(k))
+        backup = json.loads((self.root / rep['backup']).read_text(encoding='utf-8'))
+        self.assertTrue(rep['backup'].startswith(M.LINK_BACKUP_DIR))
+        self.assertEqual(M.verify_links_backup(self.ctx(), backup), [])
+        # chạy lại: no-op; rollback: byte-exact; rollback lần hai: no-op
+        done = tree_hashes(self.root, WATCH)
+        rep2 = M.apply_links(self.ctx(batch='links-test-2'), m, [aid])
+        self.assertEqual((rep2.get('written', []), rep2['already_current']), ([], [aid]))
+        self.assertEqual(tree_hashes(self.root, WATCH), done)
+        out = M.rollback_links(self.root, backup)
+        self.assertEqual(out['restored'], [aid])
+        self.assertEqual(tree_hashes(self.root, WATCH), before)
+        self.assertEqual(M.rollback_links(self.root, backup)['restored'], [])
+
+    def test_02_refusals(self):
+        aid, q, other = self.pair()
+        mp = {q: other}
+        m = self.links_manifest([aid], mp)
+        with self.assertRaises(R.Refuse) as e:
+            M.apply_links(self.ctx(approval=''), m, [aid])
+        self.assertEqual(e.exception.code, 'NO_APPROVAL')
+        bad = copy.deepcopy(m)
+        bad['mapping']['/khac/'] = '/x/'
+        with self.assertRaises(R.Refuse) as e:
+            M.apply_links(self.ctx(), bad, [aid])
+        self.assertEqual(e.exception.code, 'BAD_MANIFEST')
+        with self.assertRaises(R.Refuse) as e:
+            M.derive_links(self.ctx(), aid, {'/khong/co/lien/ket/': '/x/'})
+        self.assertEqual(e.exception.code, 'NO_LINKS')
+        # mapping đưa tới route không tồn tại -> links_routes_valid rớt -> không đủ điều kiện (không có cờ ép)
+        with self.assertRaises(R.Refuse) as e:
+            M.derive_links(self.ctx(), aid, {q: '/khong/ton/tai/2026/10/07/x/'})
+        self.assertIn(e.exception.code, ('FRESH_QA_NOT_ELIGIBLE', 'REGRESSION'))
+        # evidence không còn nguyên vẹn
+        row = self.row(aid)
+        p = self.root / row['output_path']
+        R.atomic_write(p, p.read_bytes() + b'\n')
+        with self.assertRaises(R.Refuse) as e:
+            M.derive_links(self.ctx(), aid, mp)
+        self.assertEqual(e.exception.code, 'EVIDENCE_NOT_INTACT')
+
+    def test_03_failure_mid_apply_restores(self):
+        aid, q, other = self.pair()
+        m = self.links_manifest([aid], {q: other})
+        before = tree_hashes(self.root, WATCH)
+        real = M.verify_links_backup
+        M.verify_links_backup = lambda ctx, backup, rescore=True: ['gia lap: kiem tra sau ghi that bai']
+        try:
+            with self.assertRaises(R.Refuse) as e:
+                M.apply_links(self.ctx(batch='links-fail'), m, [aid])
+        finally:
+            M.verify_links_backup = real
+        self.assertEqual(e.exception.code, 'POST_VERIFY_FAILED')
+        self.assertEqual(tree_hashes(self.root, WATCH), before)
+        self.assertFalse((self.root / M.LINK_BACKUP_DIR / 'links-fail.json').exists())
 
 
 if __name__ == '__main__':

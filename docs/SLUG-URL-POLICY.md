@@ -63,6 +63,14 @@ trang chuyển hướng; dòng registry `reports/factory/seo-master/slug-redirec
   `reports/factory/seo-master/slug-stub-link-ratchet.json` (chỉ giảm — bài mới không được link vào URL cũ).
 - Production (sau deploy): `factory-liveness.yml` với `live_audit=true` và `stub_check=all` hoặc `start:limit` (xem `docs/LIVE-SITEMAP-404-AUDIT.md`).
 
+### Pha 2: trỏ liên kết nội bộ thẳng tới URL mới
+
+Sau khi một bài được di trú, các bài khác còn trỏ tới URL cũ vẫn chạy (qua trang chuyển hướng) nhưng nên trỏ thẳng. `migrate-slug-urls.py links-plan/links-apply/links-verify/links-rollback`
+đổi **chỉ đích** của `](ĐÍCH)` / `href="ĐÍCH"` theo ánh xạ (mặc định: registry OLD → NEW; thêm `--mapping FILE` cho các đích khác, ví dụ thêm dấu `/` cuối cho liên kết mà GitHub Pages
+phải 301): chữ liên kết, tiêu đề `"..."`, `#đoạn` và mọi byte khác giữ nguyên (kiểm bằng `mask_links`). Bài phải có evidence nguyên vẹn; chấm lại độc lập 75/70, không tiêu chí nào tụt;
+khối `revision` kind `link-retarget`; sao lưu `reports/qa-audit/links/<batch>.json`; lô ≤ 50; không đụng matrix/registry. Làm một lượt SAU khi di trú xong để mỗi bài chỉ bị ghi lại evidence một lần.
+Sau mỗi lượt, đo lại bằng `check-slug-redirects.py --write-ratchet` (ngưỡng ratchet chỉ giảm).
+
 ## Rollback
 
 Revert commit của lô (GitHub Pages deploy lại trạng thái cũ), hoặc `migrate-slug-urls.py rollback --backup ...` rồi commit. URL cũ trả 200 với nội dung bài đầy đủ ngay khi rollback.
