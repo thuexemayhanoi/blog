@@ -10,6 +10,15 @@ name: Factory liveness
 
 on:
   workflow_dispatch:
+    inputs:
+      live_audit:
+        description: 'Chay them audit URL live (read-only): ha tang edge, 404, canonical, lien ket noi bo'
+        type: boolean
+        default: false
+      redirect_probe:
+        description: 'Probe OLD->NEW theo lo cua slug-d-migration-map.csv, dang start:limit (vd 0:50). De trong = bo qua'
+        type: string
+        default: ''
 
 permissions:
   contents: read
@@ -60,3 +69,76 @@ jobs:
             exit 1
           fi
           echo "OK: factory-liveness READ-ONLY, working tree sach."
+
+  live-url-audit:
+    if: github.repository == 'thuexemayhanoi/blog' && inputs.live_audit
+    name: Live URL audit (read-only, Issue 77)
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Selftest cong cu audit (may chu cuc bo)
+        run: |
+          set -eu
+          python3 scripts/factory/tests/test_live_url_audit.py
+
+      - name: Infra probe (DNS, header, lop edge)
+        run: |
+          set -euo pipefail
+          python3 scripts/seo/live-url-audit.py infra --out "$RUNNER_TEMP/infra.json" | tee "$RUNNER_TEMP/infra.log"
+          {
+            echo "## Live infra probe"
+            echo '```json'
+            cat "$RUNNER_TEMP/infra.json"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Crawl sitemap va lien ket noi bo (HTTP that, khong theo redirect)
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/out"
+          python3 scripts/seo/live-url-audit.py crawl --workers 12 --show 400 --out "$RUNNER_TEMP/out/404-audit.csv" | tee "$RUNNER_TEMP/crawl.log"
+          {
+            echo "## Live URL audit"
+            echo '```'
+            sed -n '1,30p' "$RUNNER_TEMP/crawl.log"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Redirect probe OLD->NEW (tuy chon)
+        if: ${{ inputs.redirect_probe != '' }}
+        env:
+          PROBE_RANGE: ${{ inputs.redirect_probe }}
+        run: |
+          set -euo pipefail
+          case "$PROBE_RANGE" in
+            [0-9]*:[0-9]*) ;;
+            *) echo "redirect_probe phai dang start:limit"; exit 2 ;;
+          esac
+          python3 scripts/seo/live-url-audit.py redirects --start "${PROBE_RANGE%%:*}" --limit "${PROBE_RANGE##*:}" --out "$RUNNER_TEMP/out/redirect-evidence.json" | tee "$RUNNER_TEMP/redirects.log"
+
+      - name: Upload audit reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: live-url-audit
+          path: ${{ runner.temp }}/out
+          if-no-files-found: warn
+
+      - name: Purity check (audit phai read-only)
+        run: |
+          set -eu
+          if [ -n "$(git status --porcelain --untracked-files=no)" ]; then
+            echo "FAIL: live-url-audit sua tep tracked — vi pham hop dong READ-ONLY."
+            git status --porcelain --untracked-files=no
+            exit 1
+          fi
+          echo "OK: live-url-audit READ-ONLY, working tree sach."
