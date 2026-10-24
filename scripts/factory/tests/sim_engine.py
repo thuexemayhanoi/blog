@@ -56,6 +56,8 @@ def golden_origin():
     base = tempfile.mkdtemp(prefix='engsim-golden-')
     seed = os.path.join(base, 'seed')
     shutil.copytree(REPO_ROOT, seed, ignore=IGNORE)
+    from test_qa_modes import enable_factory_fixture
+    enable_factory_fixture(seed)  # simulation origin must be runnable
     drafts = os.path.join(seed, '_drafts')
     for fn in os.listdir(drafts):
         if fn != TEMPLATE_DRAFT:
