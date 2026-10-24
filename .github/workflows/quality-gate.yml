@@ -177,6 +177,24 @@ jobs:
           done < changed-files.txt
           if [ "$found" = 0 ]; then echo "no slug-migration backup in this change"; fi
 
+      - name: Link-retarget backups touched by this change must verify
+        run: |
+          set -eu
+          # Pha 2 (migrate-slug-urls.py links-apply) đổi ĐÍCH liên kết nội bộ của bài nguyên vẹn và commit sao lưu riêng
+          # (reports/qa-audit/links/). Mọi sao lưu được THÊM/SỬA trong thay đổi này phải verify: bài mới == bài cũ chỉ khác
+          # đích liên kết đã ánh xạ, evidence nối chuỗi lịch sử, chấm lại ĐỘC LẬP từng ID. Sao lưu cũ không kiểm lại.
+          found=0
+          while IFS= read -r f; do
+            case "$f" in
+              reports/qa-audit/links/*.json)
+                [ -f "$f" ] || continue
+                found=1
+                python3 scripts/factory/migrate-slug-urls.py links-verify --backup "$f"
+                ;;
+            esac
+          done < changed-files.txt
+          if [ "$found" = 0 ]; then echo "no link-retarget backup in this change"; fi
+
       - name: Custom-domain invariants
         run: |
           set -eu

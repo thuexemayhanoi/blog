@@ -6,8 +6,8 @@
 
 Với MỌI dòng MIGRATED trong reports/factory/seo-master/slug-redirect-registry.csv:
   URL CŨ  : tệp <site>/<old>/index.html tồn tại; đúng MỘT `<meta http-equiv="refresh" content="0; url=MỚI">`
-            (độ trễ 0, đích là URL MỚI); đúng MỘT canonical = https://blog.thuexemaynguyentu.com + MỚI;
-            KHÔNG có trong sitemap.xml.
+            (độ trễ 0, đích CHÍNH XÁC là URL MỚI — cùng host, không query/fragment); đúng MỘT canonical =
+            https://blog.thuexemaynguyentu.com + MỚI; KHÔNG noindex; có liên kết dự phòng <a href=MỚI>; KHÔNG có trong sitemap.xml.
   URL MỚI : tệp tồn tại, đúng một canonical tự trỏ, KHÔNG có meta refresh, có <h1>, CÓ trong sitemap.xml.
   Chuỗi/vòng: URL MỚI không phải URL CŨ của mục nào.
 Toàn site:
@@ -32,6 +32,7 @@ import slug_redirects as SR  # noqa: E402
 REFRESH_TAG_RE = re.compile(r'<meta\s[^>]*?http-equiv\s*=\s*["\']refresh["\'][^>]*>', re.I)
 CONTENT_RE = re.compile(r'content\s*=\s*["\']([^"\']*)["\']', re.I)
 CANON_RE = re.compile(r'<link\s+rel="canonical"\s+href="([^"]*)"', re.I)
+NOINDEX_RE = re.compile(r'<meta\s[^>]*?name\s*=\s*["\']robots["\'][^>]*content\s*=\s*["\'][^"\']*noindex', re.I)
 A_HREF_RE = re.compile(r'<a\s[^>]*?href\s*=\s*(?:"([^"]*)"|\'([^\']*)\')', re.I)
 
 
@@ -64,7 +65,8 @@ def refresh_info(text):
     return out
 
 
-def norm_path(href, site_host):
+def norm_path(href, site_host, strict=False):
+    """Đường dẫn nội bộ của href. strict=True (đích chuyển hướng): từ chối query/fragment — đích phải CHÍNH XÁC là URL mới."""
     href = html.unescape(href).strip()
     if not href or href.startswith(('#', 'mailto:', 'tel:', 'javascript:')):
         return None
@@ -73,7 +75,18 @@ def norm_path(href, site_host):
         return None
     if not p.path.startswith('/'):
         return None
+    if strict and (p.query or p.fragment):
+        return None
     return urllib.parse.unquote(p.path)
+
+
+def anchor_paths(text, site_host):
+    out = set()
+    for m in A_HREF_RE.finditer(text):
+        p = norm_path(m.group(1) if m.group(1) is not None else m.group(2), site_host)
+        if p:
+            out.add(p)
+    return out
 
 
 def check(site, root=None, max_stub_links=None):
@@ -98,12 +111,16 @@ def check(site, root=None, max_stub_links=None):
                 delay, target = refs[0]
                 if delay != 0:
                     errors.append('%s: meta refresh trễ %r giây (cần 0)' % (aid, delay))
-                tp = norm_path(target, site_host)
+                tp = norm_path(target, site_host, strict=True)
                 if tp != new:
-                    errors.append('%s: meta refresh trỏ %r, cần %r' % (aid, target, new))
+                    errors.append('%s: meta refresh trỏ %r, cần CHÍNH XÁC %r (cùng host, không query/fragment)' % (aid, target, new))
             cans = CANON_RE.findall(t)
             if cans != [want_canon]:
                 errors.append('%s: canonical trang cũ %r, cần %r' % (aid, cans, want_canon))
+            if NOINDEX_RE.search(t):
+                errors.append('%s: trang chuyển hướng không được noindex' % aid)
+            if new not in anchor_paths(t, site_host):
+                errors.append('%s: trang chuyển hướng thiếu liên kết dự phòng <a href=%s>' % (aid, new))
             if old in smap:
                 errors.append('%s: URL cũ %s vẫn nằm trong sitemap' % (aid, old))
         nf = page_file(site, new)
@@ -142,7 +159,7 @@ def check(site, root=None, max_stub_links=None):
                 continue
             for m in A_HREF_RE.finditer(text):
                 p = norm_path(m.group(1) if m.group(1) is not None else m.group(2), site_host)
-                if p and p in old_set:
+                if p and (p if p.endswith('/') else p + '/') in old_set:     # thiếu '/' cuối cũng là liên kết vào trang chuyển hướng
                     stub_links += 1
                     per_source[rel] = per_source.get(rel, 0) + 1
     for u in sorted(unregistered)[:30]:
@@ -155,6 +172,9 @@ def check(site, root=None, max_stub_links=None):
         if os.path.isfile(rp):
             with open(rp, encoding='utf-8') as f:
                 limit = json.load(f).get('max_links_to_stub_pages')
+        if limit is None and reg:
+            errors.append('thiếu ngưỡng ratchet max_links_to_stub_pages trong %s (đã có %d mục di trú): kiểm tra không được tắt ngầm'
+                          % (SR.RATCHET_REL, len(reg)))
     if limit is not None and stub_links > limit:
         top = sorted(per_source.items(), key=lambda kv: -kv[1])[:8]
         errors.append('liên kết nội bộ tới trang chuyển hướng: %d > ngưỡng %d (chỉ được giảm) — nguồn đầu: %s'

@@ -99,6 +99,23 @@ class SlugkitTest(unittest.TestCase):
             self.assertLessEqual(len(s), slugkit.MAX_SLUG_LEN)
             self.assertTrue(s == '' or slugkit.SLUG_RE.match(s), (t, s))
 
+    def test_eth_lookalike_is_folded_like_d(self):
+        """Ð/ð (U+00D0/U+00F0) trông như Đ/đ nhưng không phân rã NFD: trước đây bị xóa mất và tái tạo đúng lỗi mất chữ d."""
+        self.assertEqual(slugkit.slugify('\u00d0\u1eb7t c\u1ecdc xe m\u00e1y \u00f0i'), 'dat-coc-xe-may-di')
+        self.assertEqual(slugkit.slugify('\u00f0\u00f0'), 'dd')
+        self.assertEqual(slugkit.slugify('Xe \u00d0\u1ea1p'), slugkit.slugify('Xe Đạp'))
+
+    def test_seo_slugs_module_does_not_shadow_stdlib_queue(self):
+        """scripts/seo/slugs.py từng chèn scripts/factory (có queue.py) lên đầu sys.path -> hỏng module chuẩn `queue`."""
+        import subprocess
+        code = ('import sys; sys.path.insert(0, %r); import slugs, queue; '
+                'assert "scripts/factory" not in " ".join(sys.path[:2]).replace(chr(92), "/"); '
+                'assert queue.__file__ and "factory" not in queue.__file__, queue.__file__; '
+                'import concurrent.futures as cf; '
+                'assert cf.ThreadPoolExecutor(1).submit(lambda: 7).result() == 7') % os.path.join(ROOT, 'scripts', 'seo')
+        r = subprocess.run([sys.executable, '-c', code], capture_output=True, text=True, cwd=tempfile.gettempdir())
+        self.assertEqual(r.returncode, 0, r.stderr[-400:])
+
     def test_d_after_cut_does_not_change_slug(self):
         t = 'a' * 80 + 'đ'
         self.assertEqual(slugkit.slugify(t), slugkit.slugify_legacy_without_d(t))
@@ -353,6 +370,27 @@ class RegistrySourceTest(unittest.TestCase):
         open(os.path.join(root, self.e['new_output_path']), 'a', encoding='utf-8').write('đổi\n')
         self.assertTrue(any('content_sha256' in e for e in SR.source_errors(root, self.rows)))
 
+    def test_migration_provenance_may_sit_in_revision_history(self):
+        """Công cụ chính thức sau đó (links-apply, revise-published) đẩy khối revision cũ xuống history: vẫn hợp lệ."""
+        root = make_root(self.rows, [self.e])
+        self.roots.append(root)
+        evp = os.path.join(root, 'data/qa/%s.json' % self.e['article_id'])
+        ev = json.load(open(evp, encoding='utf-8'))
+        mig = ev['revision']
+
+        def put(rv):
+            ev2 = dict(ev, revision=rv)
+            with open(evp, 'w', encoding='utf-8') as f:
+                json.dump(ev2, f)
+            return [e for e in SR.source_errors(root, self.rows) if 'provenance' in e]
+
+        self.assertEqual(put(mig), [])
+        self.assertEqual(put({'kind': 'link-retarget', 'history': [mig]}), [])
+        self.assertEqual(put({'kind': 'content-revision', 'history': [mig, {'kind': 'link-retarget'}]}), [])
+        self.assertTrue(put({'kind': 'link-retarget'}))                                           # không có dấu vết di trú
+        self.assertTrue(put({'kind': 'link-retarget', 'history': [dict(mig, new_url='/khac/')]}))  # dấu vết cho URL khác
+        self.assertTrue(put({'kind': 'link-retarget', 'history': ['permalink-migration']}))        # history không hợp lệ
+
     def test_old_post_file_must_be_gone(self):
         root = make_root(self.rows, [self.e])
         self.roots.append(root)
@@ -372,12 +410,13 @@ class RegistrySourceTest(unittest.TestCase):
 CHECK = load('check_slug_redirects_t', 'scripts/factory/check-slug-redirects.py')
 
 
-def stub_page(old_new, delay=0, canon=None, extra=''):
+def stub_page(old_new, delay=0, canon=None, extra='', target=None, fallback=True):
     new = old_new
     canon = SR.SITE_URL + new if canon is None else canon
+    target = new if target is None else target
     return ('<!DOCTYPE html><html><head><meta charset="utf-8"><link rel="canonical" href="%s">'
-            '<meta http-equiv="refresh" content="%s; url=%s">%s</head><body><h1>x</h1></body></html>'
-            % (canon, delay, new, extra))
+            '<meta http-equiv="refresh" content="%s; url=%s">%s</head><body><h1>x</h1>%s</body></html>'
+            % (canon, delay, target, extra, '<p><a href="%s">đi tới bài</a></p>' % new if fallback else ''))
 
 
 def real_page(url, canon=None, links=(), h1=True):
@@ -426,6 +465,10 @@ class BuiltSiteCheckTest(unittest.TestCase):
             'meta refresh trễ': lambda: self.put(self.e['old_url'], stub_page(self.e['new_url'], delay=5)),
             'canonical trang cũ': lambda: self.put(self.e['old_url'], stub_page(self.e['new_url'], canon=SR.SITE_URL + '/khac/')),
             'meta refresh trỏ': lambda: self.put(self.e['old_url'], stub_page('/sai/')),
+            'CHÍNH XÁC': lambda: self.put(self.e['old_url'], stub_page(self.e['new_url'], target=self.e['new_url'] + '?utm=x')),
+            'CHÍNH XÁC ': lambda: self.put(self.e['old_url'], stub_page(self.e['new_url'], target='https://khac.example' + self.e['new_url'])),
+            'không được noindex': lambda: self.put(self.e['old_url'], stub_page(self.e['new_url'], extra='<meta name="robots" content="noindex,follow">')),
+            'thiếu liên kết dự phòng': lambda: self.put(self.e['old_url'], stub_page(self.e['new_url'], fallback=False)),
             'là trang chuyển hướng (chuỗi)': lambda: self.put(self.e['new_url'], stub_page('/x/')),
             'canonical trang mới': lambda: self.put(self.e['new_url'], real_page(self.e['new_url'], canon=SR.SITE_URL + '/khac/')),
             'không có <h1>': lambda: self.put(self.e['new_url'], real_page(self.e['new_url'], h1=False)),
@@ -451,6 +494,17 @@ class BuiltSiteCheckTest(unittest.TestCase):
         self.assertTrue(any('ngưỡng 2' in e for e in r['errors']))
         r = self.res(max_stub_links=9)
         self.assertTrue(any('ratchet có thể hạ' in n for n in r['notes']))
+
+    def test_slashless_links_into_stub_count_and_missing_ratchet_is_an_error(self):
+        self.good()
+        self.put('/bai-khac/', real_page('/bai-khac/', links=[self.e['old_url'].rstrip('/'), self.e['old_url']]))
+        self.assertEqual(self.res(max_stub_links=2)['stub_links'], 2)       # thiếu '/' cuối vẫn là liên kết vào trang chuyển hướng
+        errs = self.res()['errors']                                          # make_root không tạo file ratchet
+        self.assertTrue(any('thiếu ngưỡng ratchet' in e for e in errs), errs)
+        rp = os.path.join(self.root, SR.RATCHET_REL)
+        with open(rp, 'w', encoding='utf-8') as f:
+            json.dump({'note': 'thiếu khóa'}, f)
+        self.assertTrue(any('thiếu ngưỡng ratchet' in e for e in self.res()['errors']))   # có file nhưng thiếu khóa cũng không tắt ngầm
 
     def test_write_ratchet_only_lowers_unless_allowed(self):
         self.good()
@@ -494,6 +548,10 @@ class WiringTest(unittest.TestCase):
             y = f.read()
         self.assertIn('scripts/factory/check-slug-redirects.py --site ./_site', y)
         self.assertGreaterEqual(y.count("'redirects/**'"), 2)       # push + pull_request paths
+        # sao lưu của MỌI công cụ ghi evidence phải được gate verify lại: di trú (pha 1) VÀ retarget liên kết (pha 2)
+        self.assertIn('migrate-slug-urls.py verify --backup', y)
+        self.assertIn('migrate-slug-urls.py links-verify --backup', y)
+        self.assertIn('reports/qa-audit/links/*.json', y)
 
     def test_generators_use_slugkit_builders(self):
         with open(os.path.join(ROOT, 'scripts/factory/generate-matrix.py'), encoding='utf-8') as f:

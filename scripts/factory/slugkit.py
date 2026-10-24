@@ -46,8 +46,11 @@ def norm(s):
 
 
 def fold_d(s):
-    """NFC rồi đổi đ/Đ thành d/D (chữ duy nhất của tiếng Việt không phân rã NFD)."""
-    return unicodedata.normalize('NFC', s or '').replace('đ', 'd').replace('Đ', 'D')
+    """NFC rồi đổi đ/Đ (U+0111/U+0110, chữ duy nhất của tiếng Việt không phân rã NFD) thành d/D.
+    Eth ð/Ð (U+00F0/U+00D0) trông giống hệt và cũng không phân rã NFD: gõ nhầm/dán nhầm sẽ làm mất chữ d y như lỗi gốc nên
+    cũng được gập thành d/D (review Issue #77)."""
+    return (unicodedata.normalize('NFC', s or '').replace('đ', 'd').replace('Đ', 'D')
+            .replace('\u00f0', 'd').replace('\u00d0', 'D'))
 
 
 def slugify(title):

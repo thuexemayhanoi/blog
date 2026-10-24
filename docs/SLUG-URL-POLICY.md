@@ -55,6 +55,15 @@ byte-exact `reports/qa-audit/migrate/<batch>.json` (gate `verify` lại mọi sa
 Mỗi bài ghi: đổi tên `_posts/` + dòng permalink; `data/qa/<ID>.json` (scorer mới + khối `revision` kind `permalink-migration`); 4 cột URL của hàng matrix;
 trang chuyển hướng; dòng registry `reports/factory/seo-master/slug-redirect-registry.csv`.
 
+### Quy trình MỘT lô (≤ 50 bài) — thứ tự bắt buộc
+
+1. Cây sạch trên `main` mới nhất → `plan` (manifest gắn một commit sạch) → `apply --dry-run` → `apply`.
+2. `refresh-data` (dữ liệu khóa theo URL: `_data/legal-notices.json`, `_data/seo-leads.yml`; sinh lại `seo-topic-links.json`, `price-notices.json` — cần PyYAML).
+3. `verify --backup reports/qa-audit/migrate/<batch>.json` và `validate.py --scope chunk`.
+4. Build Jekyll cục bộ (hoặc đợi gate FULL) rồi `check-slug-redirects.py --site <site> --write-ratchet --allow-raise` để ghi ngưỡng ratchet đo được
+   (`apply`/`rollback` KHÔNG đọc/ghi ratchet; thiếu ngưỡng khi registry không rỗng là LỖI của gate).
+5. Một commit/lô → PR → gate FULL xanh → merge → Pages deploy → `factory-liveness.yml` (`live_audit=true`, `stub_check=start:limit` cho đúng các mục của lô) → lô kế tiếp.
+
 ### Kiểm tra
 
 - Nguồn (mọi scope của `validate.py`): registry ↔ matrix ↔ bài ↔ evidence ↔ trang chuyển hướng khớp byte (`slug_redirects.source_errors`).
@@ -73,4 +82,8 @@ Sau mỗi lượt, đo lại bằng `check-slug-redirects.py --write-ratchet` (n
 
 ## Rollback
 
-Revert commit của lô (GitHub Pages deploy lại trạng thái cũ), hoặc `migrate-slug-urls.py rollback --backup ...` rồi commit. URL cũ trả 200 với nội dung bài đầy đủ ngay khi rollback.
+- Lô ĐÃ commit/merge: **revert commit của lô** (GitHub Pages deploy lại trạng thái cũ; mọi tệp phái sinh — `refresh-data`, ratchet — quay lại cùng lúc). URL cũ trả 200 với nội dung bài đầy đủ ngay khi rollback.
+- Cây chưa commit: `migrate-slug-urls.py rollback --backup ...`. Công cụ KIỂM TRA toàn bộ điều kiện (tệp, hàng matrix, registry) rồi mới ghi; từ chối mà không ghi gì nếu một hàng matrix đã bị sửa tay
+  sau apply (`MATRIX_CHANGED_SINCE_APPLY`); bị ngắt giữa chừng thì chạy lại để hoàn tất phần matrix/registry. Thoát mã 1 nếu còn ID bị bỏ qua vì bài đã đổi sau apply.
+  Công cụ KHÔNG hoàn tác `refresh-data` và ratchet (không có ảnh trước trong sao lưu) — dùng `git checkout -- _data reports/factory/seo-master` cho phần đó.
+- Thứ tự: nếu một bài đã bị pha 2 (`links-apply`) ghi lại sau di trú, rollback pha 2 (`links-rollback`) TRƯỚC rồi mới rollback pha 1; ngược lại các bài đã trỏ tới URL mới sẽ có liên kết gãy.

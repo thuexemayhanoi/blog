@@ -11,6 +11,11 @@ FULL build mode dùng validate scope chunk; không phải FULL evidence audit.
 Cập nhật 2026-10-23: `revise-published.py` (docs/REVISE-PUBLISHED.md) là công cụ bảo trì LOCAL thứ hai ghi evidence — chỉ cho SỬA NỘI DUNG bài
 PUBLISHED có evidence nguyên vẹn (không workflow, không cron, bắt buộc `--approval-ref`, lô ≤ 50, backup `reports/qa-audit/revise/<batch>.json`);
 Quality gate có thêm bước verify mọi backup revise được thêm/sửa trong thay đổi.
+Cập nhật 2026-10-24 (Issue #77, docs/SLUG-URL-POLICY.md): `migrate-slug-urls.py` là công cụ bảo trì LOCAL thứ ba ghi evidence (di trú permalink đ→d: pha 1 `plan/apply/verify/rollback`,
+pha 2 `links-*` đổi đích liên kết nội bộ; không workflow, không cron, bắt buộc `--approval-ref`, lô ≤ 50, backup `reports/qa-audit/migrate/<batch>.json` và `reports/qa-audit/links/<batch>.json`).
+Quality gate: trigger thêm `redirects/**` và `reports/qa-audit/**` (đường dẫn ngoài hợp đồng content ⇒ mode FULL, fail-closed); bước verify mọi backup di trú và
+backup retarget liên kết được thêm/sửa; FULL có thêm bước `check-slug-redirects.py --site ./_site` (kiểm OUTPUT build: trang cũ = HTTP 200 + meta refresh 0s + canonical mới, KHÔNG phải 301,
+ngưỡng ratchet liên kết vào trang chuyển hướng chỉ giảm). `validate.py` mọi scope có mục `slug_policy`.
 
 Ngày chốt: 2026-10-02 (port kiến trúc /vanchinh hoàn chỉnh). Lịch sử:
 bản 4-workflow (quality-gate + factory-production + factory-liveness +
