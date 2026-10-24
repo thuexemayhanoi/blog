@@ -57,10 +57,13 @@ In ra `SLOT W2 | session s-… | hạn … | ID: BLG-…` (và dòng JSON `BLOG_
   |---|---|---|
   | W1 | `s-mistral-w1` | đang dùng |
   | W2 | `s-claude-w2` | đang dùng |
-  | W3 | `s-<ai>-w3` (ví dụ `s-codex-w3`) | trống — AI mới tự chọn nhãn theo mẫu này và giữ nguyên mãi |
+  | W3 | `s-claude-w3` | đã dùng (slot trống khi lease hết hạn) |
+  | W4 | `s-claude-sonnet-w4` | đã dùng (24/10/2026), luân phiên với W5 để các lần push cách nhau |
+  | W5 | `s-claude-sonnet-w5` | đã dùng (24/10/2026) |
+  | W6–W12 | `s-<ai>-w<N>` (ví dụ `s-codex-w6`) | trống — AI mới tự chọn nhãn theo mẫu này và giữ nguyên mãi |
 
   Resume sau hết quota/đổi container: `git pull` → export lại ĐÚNG nhãn → `status` → `begin --slot <slot>`. Không dùng nhãn của slot khác.
-- **AI mới nhận W3** (slot trống): (1) chọn MỘT nhãn riêng theo mẫu `s-<ten-ai>-w3` (chỉ `A-Za-z0-9._-`, ≤ 64 ký tự) và giữ nguyên mãi cho slot này; (2) `export FACTORY_WRITER_SESSION=<nhãn>` ở đầu MỌI lần chạy; (3) `git pull` → `writer-session.py status`: W3 phải trống hoặc đã hết hạn — lease W1/W2 còn hạn là của AI khác, KHÔNG đụng; (4) `writer-session.py begin --slot W3 --label <ten-ai>`. Không mượn `s-mistral-w1` / `s-claude-w2`; không dùng token GitHub/API làm nhãn.
+- **AI mới nhận slot trống** (W6–W12 hiện trống; `begin --slot auto` tự chọn): (1) chọn MỘT nhãn riêng theo mẫu `s-<ten-ai>-w<N>` (chỉ `A-Za-z0-9._-`, ≤ 64 ký tự) và giữ nguyên mãi cho slot này; (2) `export FACTORY_WRITER_SESSION=<nhãn>` ở đầu MỌI lần chạy; (3) `git pull` → `writer-session.py status`: slot bạn nhận phải trống hoặc đã hết hạn — lease còn hạn của slot khác là của AI khác, KHÔNG đụng; (4) `writer-session.py begin --slot auto --label <ten-ai>` (hoặc `--slot W<N>` khi biết slot trống). Không mượn nhãn của slot khác; không dùng token GitHub/API làm nhãn.
 - `NO_FREE_SLOT` → mọi slot đang có người; xem `status` để biết giờ hết hạn. `SLOT_HELD` → slot đó đang của phiên khác: chọn slot khác, **đừng chiếm**.
 - Còn hàng **REPAIR** của bạn → `begin` chỉ nối việc, **sửa REPAIR trước** (resume-first của riêng bạn).
 - Xem trạng thái: `python3 scripts/factory/writer-session.py status`.
@@ -107,7 +110,10 @@ python3 scripts/factory/writer-session.py confirm --ids BLG-…,BLG-…
   |---|---|---|
   | W1 | `s-mistral-w1` | `export FACTORY_WRITER_SESSION=s-mistral-w1` → `git pull` → `status` → `begin --slot W1` |
   | W2 | `s-claude-w2` | `export FACTORY_WRITER_SESSION=s-claude-w2` → `git pull` → `status` → `begin --slot W2` |
-  | W3 | `s-<ai>-w3` | `export FACTORY_WRITER_SESSION=s-<ai>-w3` → `git pull` → `status` → `begin --slot W3` |
+  | W3 | `s-claude-w3` | `export FACTORY_WRITER_SESSION=s-claude-w3` → `git pull` → `status` → `begin --slot W3` |
+  | W4 | `s-claude-sonnet-w4` | `export FACTORY_WRITER_SESSION=s-claude-sonnet-w4` → `git pull` → `status` → `begin --slot W4` |
+  | W5 | `s-claude-sonnet-w5` | `export FACTORY_WRITER_SESSION=s-claude-sonnet-w5` → `git pull` → `status` → `begin --slot W5` |
+  | W6–W12 | `s-<ai>-w<N>` | `export FACTORY_WRITER_SESSION=s-<ai>-w<N>` → `git pull` → `status` → `begin --slot W<N>` (hoặc `--slot auto`) |
 
   Sau `begin`: (a) `status` mục `me` phải hiện slot + lease của bạn (lease đã hết hạn mà chưa ai nhận thì cùng phiên nối lại ID/REPAIR của nó; draft đã push vẫn được publisher xử lý); (b) còn **REPAIR** của bạn → sửa trước khi viết bài mới; (c) `SLOT_HELD` / `SESSION_HOLDS_OTHER_SLOT` = nhãn sai hoặc slot của AI khác → DỪNG, kiểm tra lại nhãn, không `release` / `--adopt` của người khác; (d) lỗi `REGISTRY_CONFLICT` thì KHÔNG chạy `repair-registry`.
 - **Quay lại sau khi bị ngắt**: chạy `begin --slot <slot cũ>` trên **cùng working copy** (session lưu trong `.git/`) hoặc với **cùng `FACTORY_WRITER_SESSION`** trên container mới. Slot còn hạn → nối việc tiếp; hết hạn và bị người khác lấy → `begin --slot auto` nhận slot khác. Phiên mặc định là ngẫu nhiên (KHÔNG suy từ danh tính git — nhiều AI cùng nhà cung cấp dùng chung danh tính): không token + container mới = phiên mới = `SLOT_HELD` với chính lease cũ cho đến khi hết hạn.
