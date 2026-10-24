@@ -60,6 +60,8 @@ def fresh_copy():
     tmp = tempfile.mkdtemp(prefix='harden-')
     work = os.path.join(tmp, 'work')
     shutil.copytree(ROOT, work, ignore=IGNORE)
+    from test_qa_modes import enable_factory_fixture
+    enable_factory_fixture(work)  # synthetic engine scenarios, never production
     return work, tmp
 
 
