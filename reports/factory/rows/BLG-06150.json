@@ -1,0 +1,155 @@
+{
+  "article_id": "BLG-06150",
+  "status": "WRITING",
+  "title": "Du khách nước ngoài liên quan va chạm xe máy ở Hà Nội: công an ghi lời khai, chọn phiên dịch và ký biên bản thế nào",
+  "intent": "Người dùng hỏi: «Là người nước ngoài gặp tai nạn xe máy ở Hà Nội, công an ghi lời khai thế nào, tôi có được chọn phiên dịch và có phải ký biên bản không?». Bài đọc Điều 23 khoản 2 TT 72/2024/TT-BCA (người nước ngoài không có thân phận ngoại giao, gồm khách du lịch, được giải quyết như công dân Việt Nam, có thể tự chọn phiên dịch, phải ký biên bản tại hiện trường hoặc có ghi chú và người chứng kiến) cùng Điều 5 khoản 1 điểm c Luật XLVPHC về đối tượng bị xử phạt, nhằm trấn an và chuẩn bị cho khách quốc tế.",
+  "primary_keyword": "người nước ngoài tai nạn xe máy Hà Nội công an ghi lời khai",
+  "secondary_keywords": [
+    "khách du lịch nước ngoài tai nạn giao thông Việt Nam phiên dịch",
+    "người nước ngoài ký biên bản tai nạn giao thông",
+    "tự chọn phiên dịch khi công an ghi lời khai",
+    "thông tư 72/2024 người nước ngoài"
+  ],
+  "group": "HOI-DAP",
+  "taxonomy": {
+    "parent_id": "P-HOI-DAP",
+    "parent_hub": "Hỏi đáp thuê xe máy",
+    "parent_hub_url": "/hoi-dap/",
+    "child_id": "C-HD-PHAP-LY",
+    "child_hub": "Hỏi đáp pháp lý",
+    "child_hub_url": "/hoi-dap/hoi-dap-phap-ly/"
+  },
+  "expected_url": "/hoi-dap/2026/10/24/du-khach-nuoc-ngoai-lien-quan-va-cham-xe-may-o-ha-noi-cong-an-ghi-loi-khai-chon/",
+  "output_path": "_posts/{date}-du-khach-nuoc-ngoai-lien-quan-va-cham-xe-may-o-ha-noi-cong-an-ghi-loi-khai-chon.md",
+  "draft_path": "_drafts/2026-10-24-du-khach-nuoc-ngoai-lien-quan-va-cham-xe-may-o-ha-noi-cong-an-ghi-loi-khai-chon.md",
+  "canonical_url": "/hoi-dap/2026/10/24/du-khach-nuoc-ngoai-lien-quan-va-cham-xe-may-o-ha-noi-cong-an-ghi-loi-khai-chon/",
+  "internal_links_matrix": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/an-toan-phap-ly/"
+  ],
+  "commercial_intent": "low",
+  "cannibalization_key": "nguoi nuoc ngoai tai nan xe may ha noi cong an ghi loi khai",
+  "word_target": 1300,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": 1000000,
+        "month": "1800000 - 2000000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 1000000,
+        "month": 1500000,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Xe tay ga 50cc": {
+        "day": 200000,
+        "week": null,
+        "month": null,
+        "note": "Giá tuần và tháng: báo giá riêng",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Xe máy điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": true,
+  "legal_risk": "high",
+  "research_class": "C",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00028",
+      "title": "Kinh nghiệm đổ xăng và nghỉ trên tuyến khi chạy xe đường trường",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/kinh-nghiem-do-xang-va-nghi-tuyen/"
+    },
+    {
+      "id": "BLG-00076",
+      "title": "Cần hỗ trợ ngoài giờ hoạt động thì xử lý thế nào",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/can-ho-tro-ngoai-gio-hoat-dong/"
+    },
+    {
+      "id": "BLG-00079",
+      "title": "Cấn xe trước 9 giờ sáng: nhận xe sớm như thế nào",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/can-xe-truoc-9-gio-sang/"
+    },
+    {
+      "id": "BLG-00104",
+      "title": "Chia sẻ vị trí với người thân khi đi khuya",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/chia-se-vi-tri-voi-nguoi-than-khi-di-khuya/"
+    },
+    {
+      "id": "BLG-00125",
+      "title": "Chở lồng chim đi dạo sáng ở Hà Nội",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/cho-long-chim-di-dao-sang/"
+    },
+    {
+      "id": "BLG-00174",
+      "title": "Đi nhóm nhiều xe máy và cách giữ liên lạc",
+      "url": "/du%20l%E1%BB%8Bch/2026/09/19/di-nhom-nhieu-xe-may-giu-lien-lac/"
+    },
+    {
+      "id": "BLG-00223",
+      "title": "Đội bê tráp đám cưới sáng sớm với xe máy",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/doi-be-trap-dam-cuoi-sang-song-voi-xe-may/"
+    },
+    {
+      "id": "BLG-00225",
+      "title": "Đổi nơi làm việc giữa kỳ thuê xe máy: giữ di chuyển liền mạch",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/doi-noi-lam-viec-giua-ky-thue-xe-may/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "PASS"
+  },
+  "matrix_row_sha256": "658fd59ce0680bf4f72999b2197f188e3f1ad98e6d9902ab31e67053ebe4b968",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
