@@ -470,5 +470,27 @@ class TestLiveSitemapAudit(unittest.TestCase):
         self.assertTrue(hasattr(tool, 'NoRedirect'))
 
 
+
+class TestCloudflareRedirectStaging(unittest.TestCase):
+    """The 301 dashboard export is only a staged dataset, never a live redirect."""
+
+    def test_cloudflare_csv_parser_and_integrity_guards(self):
+        cf = load('cf_d_redirect_export_t', 'scripts/seo/export-cloudflare-301.py')
+        self.assertEqual(cf.selftest(), 0)
+
+    def test_full_staged_csv_matches_unmodified_published_manifest(self):
+        from pathlib import Path
+        cf = load('cf_d_redirect_export_full_t', 'scripts/seo/export-cloudflare-301.py')
+        rows = cf.manifest_rows(cf.SOURCE)
+        cf.validate(rows, Path(ROOT))
+        with tempfile.TemporaryDirectory(prefix='cf-301-staging-') as d:
+            exported = Path(d) / 'cloudflare.csv'
+            cf.write_dashboard_csv(rows, exported)
+            committed = Path(ROOT) / 'reports/factory/seo-master/cloudflare-301-DO-NOT-ACTIVATE.csv'
+            self.assertEqual(exported.read_bytes(), committed.read_bytes(),
+                             'Redirect CSV must be regenerated if migration map changes')
+
+
+
 if __name__ == '__main__':
     unittest.main(verbosity=1)
