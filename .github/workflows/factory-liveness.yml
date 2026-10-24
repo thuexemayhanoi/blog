@@ -15,8 +15,8 @@ on:
         description: 'Chay them audit URL live (read-only): ha tang edge, 404, canonical, lien ket noi bo'
         type: boolean
         default: false
-      redirect_probe:
-        description: 'Probe OLD->NEW theo lo cua slug-d-migration-map.csv, dang start:limit (vd 0:50). De trong = bo qua'
+      stub_check:
+        description: 'Kiem QA trang chuyen huong meta refresh theo registry slug dd->d: all hoac start:limit (vd 0:50). De trong = bo qua'
         type: string
         default: ''
 
@@ -94,39 +94,45 @@ jobs:
       - name: Infra probe (DNS, header, lop edge)
         run: |
           set -euo pipefail
-          python3 scripts/seo/live-url-audit.py infra --out "$RUNNER_TEMP/infra.json" | tee "$RUNNER_TEMP/infra.log"
+          mkdir -p "$RUNNER_TEMP/out"
+          python3 scripts/seo/live-url-audit.py infra --out "$RUNNER_TEMP/out/infra.json" | tee "$RUNNER_TEMP/infra.log"
           {
             echo "## Live infra probe"
             echo '```json'
-            cat "$RUNNER_TEMP/infra.json"
+            cat "$RUNNER_TEMP/out/infra.json"
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Crawl sitemap va lien ket noi bo (HTTP that, khong theo redirect)
+      - name: Crawl sitemap, lien ket noi bo va tai nguyen (HTTP that, khong theo redirect)
         run: |
           set -euo pipefail
-          mkdir -p "$RUNNER_TEMP/out"
-          python3 scripts/seo/live-url-audit.py crawl --workers 12 --show 400 --out "$RUNNER_TEMP/out/404-audit.csv" | tee "$RUNNER_TEMP/crawl.log"
+          python3 scripts/seo/live-url-audit.py crawl --workers 12 --show 400 \
+            --out "$RUNNER_TEMP/out/404-audit.csv" --inventory-out "$RUNNER_TEMP/out/url-inventory" \
+            --dump-inventory | tee "$RUNNER_TEMP/crawl.log"
           {
             echo "## Live URL audit"
             echo '```'
-            sed -n '1,30p' "$RUNNER_TEMP/crawl.log"
+            sed -n '1,45p' "$RUNNER_TEMP/crawl.log"
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Redirect probe OLD->NEW (tuy chon)
-        if: ${{ inputs.redirect_probe != '' }}
+      - name: QA trang chuyen huong meta refresh (HTTP 200 + canonical, KHONG phai 301)
+        if: ${{ always() && inputs.stub_check != '' }}
         env:
-          PROBE_RANGE: ${{ inputs.redirect_probe }}
+          STUB_RANGE: ${{ inputs.stub_check }}
         run: |
           set -euo pipefail
-          case "$PROBE_RANGE" in
-            [0-9]*:[0-9]*) ;;
-            *) echo "redirect_probe phai dang start:limit"; exit 2 ;;
+          mkdir -p "$RUNNER_TEMP/out"
+          case "$STUB_RANGE" in
+            all) START=0; LIMIT=0 ;;
+            [0-9]*:[0-9]*) START="${STUB_RANGE%%:*}"; LIMIT="${STUB_RANGE##*:}" ;;
+            *) echo "stub_check phai la 'all' hoac start:limit"; exit 2 ;;
           esac
-          python3 scripts/seo/live-url-audit.py redirects --start "${PROBE_RANGE%%:*}" --limit "${PROBE_RANGE##*:}" --out "$RUNNER_TEMP/out/redirect-evidence.json" | tee "$RUNNER_TEMP/redirects.log"
+          python3 scripts/seo/live-url-audit.py stubs --start "$START" --limit "$LIMIT" --workers 12 --show 300 \
+            --out "$RUNNER_TEMP/out/stub-evidence.json" --dump-evidence | tee "$RUNNER_TEMP/stubs.log"
 
       - name: Upload audit reports
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: live-url-audit
@@ -134,6 +140,7 @@ jobs:
           if-no-files-found: warn
 
       - name: Purity check (audit phai read-only)
+        if: always()
         run: |
           set -eu
           if [ -n "$(git status --porcelain --untracked-files=no)" ]; then

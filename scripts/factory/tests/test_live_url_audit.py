@@ -8,7 +8,10 @@ Chứng minh:
   - infra: nhận diện lớp edge từ header (cloudflare / github-pages) và bản đồ OLD/NEW mẫu;
   - redirects: OLD phải 301/308 một bước tới đúng NEW (giữ query) và NEW 200 canonical tự trỏ,
     nếu không thì all_ok=False (bằng chứng cho công cụ migration);
-  - an toàn: từ chối origin lạ; công cụ KHÔNG bao giờ gửi method ngoài GET/HEAD.
+  - an toàn: từ chối origin lạ; công cụ KHÔNG bao giờ gửi method ngoài GET/HEAD;
+  - v2: URL có dấu cách/Unicode không làm sập crawl (mã hóa %XX), phân tích meta refresh, tài nguyên 404, tiền
+    tố /blog/, trang mồ côi, canonical trùng, trang chuyển hướng trong sitemap, liên kết vào trang chuyển
+    hướng, kiểm kê CSV/JSON, chế độ `stubs` (HTTP 200 + meta refresh 0s + canonical, KHÔNG phải 301).
 
 Chạy: python3 scripts/factory/tests/test_live_url_audit.py
 """
@@ -137,7 +140,7 @@ class CrawlTest(unittest.TestCase):
     def test_internal_link_graph_targets(self):
         rows = self.rows()
         self.assertIn(('/a/', '/missing/', '404'), rows)
-        self.assertEqual(rows[('/a/', '/missing/', '404')][3], 'restore_url_or_update_link_or_301_to_equivalent')
+        self.assertEqual(rows[('/a/', '/missing/', '404')][3], 'restore_url_or_update_link_or_redirect_to_equivalent')
         self.assertIn(('/a/', '/moved/', '301'), rows)
         # liên kết tương đối ../b/ và /b/#frag chuẩn hóa về /b/ (200) nên không phải lỗi
         self.assertNotIn(('/a/', '/b/', '200'), rows)
@@ -237,6 +240,260 @@ class RedirectProbeTest(unittest.TestCase):
         ev = AUDIT.redirects(self.srv.origin, 5, 10, 1, 5, self.map)
         self.assertEqual(ev['count'], 0)
         self.assertFalse(ev['all_ok'])
+
+
+# ----------------------------------------------------------------------------- v2: bảng route tổng quát
+
+def html_page(title, canonical='', body_html='', head_extra='', words=80):
+    return ('<!doctype html><html lang="vi"><head><meta charset="utf-8"><title>%s</title>%s%s</head>'
+            '<body><h1>%s</h1>%s<p>%s</p></body></html>'
+            % (title, ('<link rel="canonical" href="%s">' % canonical) if canonical else '', head_extra, title,
+               body_html, ' '.join(['noidung'] * words))).encode('utf-8')
+
+
+class TableSrv:
+    """Máy chủ cục bộ theo bảng route: path đã giải mã (unquote) -> (status, body, headers)."""
+
+    def __init__(self, build):
+        self.methods, self.paths = [], []
+        outer = self
+        self.httpd = ThreadingHTTPServer(('127.0.0.1', 0), BaseHTTPRequestHandler)
+        self.port = self.httpd.server_address[1]
+        self.origin = 'http://127.0.0.1:%d' % self.port
+        self.routes = build(self.origin)
+
+        class H(BaseHTTPRequestHandler):
+            def log_message(self, *a):
+                pass
+
+            def _go(self, head):
+                import urllib.parse as up
+                outer.methods.append(self.command)
+                raw = self.path.partition('?')[0]
+                outer.paths.append(raw)
+                key = up.unquote(raw)
+                status, body, headers = outer.routes.get(key, (404, b'not found', {}))
+                self.send_response(status)
+                for k, v in headers.items():
+                    self.send_header(k, v)
+                self.send_header('Content-Type', 'text/html; charset=utf-8')
+                self.send_header('Content-Length', str(len(body)))
+                self.end_headers()
+                if not head:
+                    self.wfile.write(body)
+
+            def do_GET(self):
+                self._go(False)
+
+            def do_HEAD(self):
+                self._go(True)
+
+        self.httpd.RequestHandlerClass = H
+        threading.Thread(target=self.httpd.serve_forever, daemon=True).start()
+
+    def close(self):
+        self.httpd.shutdown()
+        self.httpd.server_close()
+
+
+def sitemap_xml(origin, paths):
+    locs = ''.join('<url><loc>%s%s</loc></url>' % (origin, p) for p in paths)
+    return ('<?xml version="1.0"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">%s</urlset>'
+            % locs).encode()
+
+
+def stub_html(target, canonical, delay=0, extra=''):
+    return ('<!DOCTYPE html><html lang="vi"><head><meta charset="utf-8"><title>Dang chuyen huong</title>'
+            '<link rel="canonical" href="%s"><meta http-equiv="refresh" content="%s; url=%s">%s</head>'
+            '<body><p><a href="%s">Trang da chuyen</a></p></body></html>'
+            % (canonical, delay, target, extra, target)).encode('utf-8')
+
+
+class RobustCrawlTest(unittest.TestCase):
+
+    @classmethod
+    def setUpClass(cls):
+        def build(o):
+            r = {}
+            r['/sitemap.xml'] = (200, sitemap_xml(o, ['/', '/hub/', '/chia sẻ/2026/09/18/bai-cu/', '/dup1/', '/dup2/',
+                                                       '/stub-in-map/', '/lonely/', '/missing-asset/']), {})
+            r['/'] = (200, html_page('Home', o + '/', '<a href="/hub/">hub</a><a href="/chia sẻ/2026/09/18/bai-cu/">cu</a>'
+                                     '<a href="/old-stub/">stub</a><a href="/blog/legacy/">legacy</a>'
+                                     '<a href="/dup1/">d1</a><a href="/dup2/">d2</a><a href="/stub-in-map/">sm</a>'
+                                     '<a href="/missing-asset/">ma</a>'), {})
+            r['/hub/'] = (200, html_page('Hub', o + '/hub/', '<a href="/">home</a>'), {})
+            r['/chia sẻ/2026/09/18/bai-cu/'] = (200, html_page('Bai cu', o + '/chia%20s%E1%BA%BB/2026/09/18/bai-cu/',
+                                                                  '<a href="/">home</a>'), {})
+            r['/dup1/'] = (200, html_page('Dup 1', o + '/dup1/', '<a href="/">home</a>'), {})
+            r['/dup2/'] = (200, html_page('Dup 2', o + '/dup1/', '<a href="/">home</a>'), {})
+            r['/stub-in-map/'] = (200, stub_html('/hub/', o + '/hub/'), {})
+            r['/old-stub/'] = (200, stub_html('/hub/', o + '/hub/'), {})
+            r['/lonely/'] = (200, html_page('Lonely', o + '/lonely/'), {})
+            r['/missing-asset/'] = (200, html_page('MA', o + '/missing-asset/', '<img src="/img/gone.png">'
+                                                    '<script src="/js/ok.js"></script>', '<link rel="stylesheet" href="/css/x.css">'),
+                                    {})
+            r['/js/ok.js'] = (200, b'//js', {})
+            return r
+
+        cls.srv = TableSrv(build)
+        cls.res = AUDIT.crawl(cls.srv.origin, workers=4, timeout=5, max_pages=0, max_sources=25,
+                              registry_path=os.path.join(tempfile.mkdtemp(), 'none.csv'))
+
+    @classmethod
+    def tearDownClass(cls):
+        cls.srv.close()
+
+    def inv(self, etype):
+        return [r for r in self.res['inventory'] if r['error_type'] == etype]
+
+    def test_space_and_unicode_url_is_measured_not_fatal(self):
+        # trước v2 URL này ném InvalidURL làm sập cả lượt; nay được mã hóa %XX và đo được
+        self.assertIn('/chia%20s%E1%BA%BB/2026/09/18/bai-cu/', self.srv.paths)
+        self.assertEqual(self.res['pages'][self.srv.origin + '/chia sẻ/2026/09/18/bai-cu/']['status'], 200)
+        self.assertTrue(any(r['error_type'] == 'NON_ASCII_PATH' and 'chia' in r['url'] for r in self.res['inventory']))
+
+    def test_fetch_never_raises(self):
+        for bad in ('http://127.0.0.1:1/\x00x', 'http://127.0.0.1:1/' + 'a' * 70000, 'not a url'):
+            r = AUDIT.fetch(bad, 'GET', 2, retries=0)
+            self.assertEqual(r['status'], 0)
+            self.assertTrue(r['error'])
+
+    def test_encode_url_keeps_existing_percent_escapes(self):
+        self.assertEqual(AUDIT.encode_url('http://h/chia sẻ/a b/?q=1 2#f'), 'http://h/chia%20s%E1%BA%BB/a%20b/?q=1%202')
+        self.assertEqual(AUDIT.encode_url('http://h/a%20b/'), 'http://h/a%20b/')
+
+    def test_meta_refresh_page_in_sitemap_is_flagged(self):
+        self.assertEqual([r['url'] for r in self.inv('STUB_IN_SITEMAP')], [self.srv.origin + '/stub-in-map/'])
+        self.assertEqual(self.inv('STUB_IN_SITEMAP')[0]['final_url'], self.srv.origin + '/hub/')
+
+    def test_link_to_redirect_page_reported_with_destination(self):
+        rows = [r for r in self.res['rows'] if r[2] == 'LINK_TO_REDIRECT_PAGE']
+        self.assertEqual([(r[0].replace(self.srv.origin, ''), r[1].replace(self.srv.origin, '')) for r in rows],
+                         [('/', '/old-stub/')])
+        self.assertEqual(rows[0][3], 'update_link_to:' + self.srv.origin + '/hub/')
+
+    def test_asset_404_legacy_prefix_duplicate_canonical_orphan(self):
+        self.assertEqual(sorted(r['url'] for r in self.inv('ASSET_404')),
+                         sorted([self.srv.origin + '/img/gone.png', self.srv.origin + '/css/x.css']))
+        self.assertTrue(any(r[2] == 'LEGACY_BASE_PATH' and r[1] == '/blog/legacy/' for r in self.res['rows']))
+        dup = self.res['duplicate_canonical']
+        self.assertEqual(sorted(u.replace(self.srv.origin, '') for u in dup[self.srv.origin + '/dup1/']),
+                         ['/dup1/', '/dup2/'])
+        # trang chuyển hướng nằm trong sitemap có canonical trùng trang đích -> cũng là nhóm trùng (đúng)
+        self.assertEqual(len(dup), 2)
+        self.assertEqual(sorted(u.replace(self.srv.origin, '') for u in self.res['orphans']),
+                         ['/lonely/'])
+
+    def test_inventory_has_one_row_per_sitemap_url_and_files(self):
+        sm_rows = {r['url'] for r in self.res['inventory'] if r['kind'] == 'sitemap'}
+        self.assertEqual(sm_rows, set(self.res['sitemap_set']))
+        with tempfile.TemporaryDirectory() as d:
+            base = os.path.join(d, 'nested', 'inv')
+            doc = AUDIT.write_inventory(base, self.res)
+            with open(base + '.csv', encoding='utf-8', newline='') as f:
+                rows = list(csv.DictReader(f))
+            self.assertEqual(list(rows[0].keys()), AUDIT.INVENTORY_COLUMNS)
+            with open(base + '.json', encoding='utf-8') as f:
+                self.assertEqual(json.load(f)['schema'], AUDIT.INVENTORY_SCHEMA)
+        self.assertEqual(len(rows), len(doc['rows']))
+
+    def test_summary_counts(self):
+        s = AUDIT.summarize(self.res)
+        self.assertEqual(s['stub_pages_in_sitemap'], 1)
+        self.assertEqual(s['links_to_redirect_pages'], 1)
+        self.assertEqual(s['asset_failing'], 2)
+        self.assertEqual(s['duplicate_canonical_groups'], 2)
+
+    def test_dump_blob_roundtrip(self):
+        import base64
+        import gzip
+        import io
+        buf = io.StringIO()
+        AUDIT.dump_blob('X', {'a': 'tiếng Việt', 'n': [1, 2]}, out=buf)
+        lines = buf.getvalue().splitlines()
+        self.assertTrue(lines[0].startswith('X_BEGIN sha256='))
+        self.assertEqual(lines[-1], 'X_END')
+        raw = base64.b64decode(''.join(lines[1:-1]))
+        self.assertIn(hashlib_sha(raw), lines[0])
+        self.assertEqual(json.loads(gzip.decompress(raw)), {'a': 'tiếng Việt', 'n': [1, 2]})
+
+
+def hashlib_sha(raw):
+    import hashlib
+    return hashlib.sha256(raw).hexdigest()
+
+
+class StubProbeTest(unittest.TestCase):
+
+    @classmethod
+    def setUpClass(cls):
+        def build(o):
+            r = {}
+            new_ok = html_page('Bai moi', o + '/hub/bai-moi/', '<a href="/">x</a>', words=120)
+            r['/hub/bai-moi/'] = (200, new_ok, {})
+            r['/hub/bai-cu/'] = (200, stub_html('/hub/bai-moi/', o + '/hub/bai-moi/'), {})
+            # sai: delay 5s, canonical sai, nằm trong sitemap, đích 404, chuỗi
+            r['/hub/cu-delay/'] = (200, stub_html('/hub/bai-moi/', o + '/hub/bai-moi/', delay=5), {})
+            r['/hub/cu-canon/'] = (200, stub_html('/hub/bai-moi/', o + '/hub/khac/'), {})
+            r['/hub/cu-404/'] = (200, stub_html('/hub/khong-co/', o + '/hub/khong-co/'), {})
+            r['/hub/cu-chain/'] = (200, stub_html('/hub/bai-cu/', o + '/hub/bai-cu/'), {})
+            r['/hub/cu-200/'] = (200, html_page('Van la bai', o + '/hub/cu-200/'), {})
+            r['/hub/cu-trong-sitemap/'] = (200, stub_html('/hub/bai-moi/', o + '/hub/bai-moi/'), {})
+            r['/sitemap.xml'] = (200, sitemap_xml(o, ['/hub/bai-moi/', '/hub/cu-trong-sitemap/']), {})
+            return r
+
+        cls.srv = TableSrv(build)
+        cls.tmp = tempfile.mkdtemp(prefix='stubaudit-')
+        cls.reg = os.path.join(cls.tmp, 'registry.csv')
+        pairs = [('BLG-1', '/hub/bai-cu/', '/hub/bai-moi/'), ('BLG-2', '/hub/cu-delay/', '/hub/bai-moi/'),
+                 ('BLG-3', '/hub/cu-canon/', '/hub/bai-moi/'), ('BLG-4', '/hub/cu-404/', '/hub/khong-co/'),
+                 ('BLG-5', '/hub/cu-chain/', '/hub/bai-cu/'), ('BLG-6', '/hub/cu-200/', '/hub/bai-moi/'),
+                 ('BLG-7', '/hub/cu-trong-sitemap/', '/hub/bai-moi/')]
+        with open(cls.reg, 'w', encoding='utf-8', newline='') as f:
+            w = csv.writer(f, lineterminator='\n')
+            w.writerow(['article_id', 'old_url', 'new_url', 'status'])
+            for p in pairs:
+                w.writerow(list(p) + ['MIGRATED'])
+            w.writerow(['BLG-8', '/x/', '/y/', 'PENDING'])     # không phải MIGRATED: bị bỏ qua
+
+    @classmethod
+    def tearDownClass(cls):
+        cls.srv.close()
+
+    def test_each_failure_mode_is_named(self):
+        ev = AUDIT.stubs(self.srv.origin, self.reg, 0, 0, 2, 5)
+        self.assertEqual(ev['schema'], AUDIT.STUB_EVIDENCE_SCHEMA)
+        self.assertIn('khong phai HTTP 301', ev['kind'])
+        self.assertEqual(ev['registry_total'], 7)
+        by = {r['article_id']: r for r in ev['rows']}
+        self.assertTrue(by['BLG-1']['ok'], by['BLG-1']['problems'])
+        self.assertEqual(by['BLG-1']['old_status'], 200)          # 200 + meta refresh, không phải 3xx
+        self.assertIn('OLD_REFRESH_DELAY_5.0', by['BLG-2']['problems'])
+        self.assertIn('OLD_CANONICAL_NOT_NEW', by['BLG-3']['problems'])
+        self.assertIn('NEW_STATUS_404', by['BLG-4']['problems'])
+        self.assertIn('NEW_IS_REDIRECT_PAGE', by['BLG-5']['problems'])
+        self.assertIn('NEW_IS_ALSO_OLD_CHAIN', by['BLG-5']['problems'])
+        self.assertIn('OLD_NO_META_REFRESH', by['BLG-6']['problems'])
+        self.assertIn('OLD_STILL_IN_SITEMAP', by['BLG-7']['problems'])
+        self.assertFalse(ev['all_ok'])
+        self.assertEqual(ev['ok'], 1)
+
+    def test_batch_slice_and_all_ok(self):
+        ev = AUDIT.stubs(self.srv.origin, self.reg, 0, 1, 1, 5)
+        self.assertEqual(ev['count'], 1)
+        self.assertTrue(ev['all_ok'])
+
+    def test_cli_exit_codes(self):
+        out = os.path.join(self.tmp, 'ev.json')
+        self.assertEqual(AUDIT.main(['stubs', '--origin', self.srv.origin, '--registry', self.reg, '--start', '0',
+                                     '--limit', '1', '--out', out]), 0)
+        with open(out, encoding='utf-8') as f:
+            self.assertTrue(json.load(f)['all_ok'])
+        self.assertEqual(AUDIT.main(['stubs', '--origin', self.srv.origin, '--registry', self.reg, '--limit', '0']), 1)
+
+    def test_only_get_and_head(self):
+        self.assertTrue(set(self.srv.methods) <= {'GET', 'HEAD'})
+
 
 
 class GuardTest(unittest.TestCase):
