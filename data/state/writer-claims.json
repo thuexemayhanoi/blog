@@ -1,26 +1,26 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-24T06:16:34Z",
+  "updated_at": "2026-10-24T06:26:43Z",
   "leases": {
     "W4": {
       "ids": [
-        "BLG-05735",
-        "BLG-06089",
-        "BLG-06094",
-        "BLG-06095",
-        "BLG-06098",
-        "BLG-06100",
-        "BLG-06101",
-        "BLG-06102",
-        "BLG-06140",
-        "BLG-06142"
+        "BLG-05732",
+        "BLG-05733",
+        "BLG-05734",
+        "BLG-06090",
+        "BLG-06092",
+        "BLG-06093",
+        "BLG-06096",
+        "BLG-06097",
+        "BLG-06099",
+        "BLG-06141"
       ],
       "session": "s-claude-sonnet-w4",
       "epoch": 1,
-      "claimed_at": "2026-10-24T06:08:16Z",
-      "heartbeat_at": "2026-10-24T06:16:34Z",
+      "claimed_at": "2026-10-24T06:26:43Z",
+      "heartbeat_at": "2026-10-24T06:26:43Z",
       "ttl_hours": 48.0,
-      "expires_at": "2026-10-26T06:16:34Z",
+      "expires_at": "2026-10-26T06:26:43Z",
       "label": "claude-sonnet"
     }
   }
