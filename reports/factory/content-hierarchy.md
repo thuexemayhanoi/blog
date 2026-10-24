@@ -28,13 +28,13 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-XE-MAY | Honda Click (C-HONDA-CLICK) | 1 | 85 | 100 | /xe-may/honda-click/ |
 | P-XE-MAY | Yamaha Sirius (C-YAMAHA-SIRIUS) | 0 | 76 | 100 | /xe-may/yamaha-sirius/ |
 | P-XE-MAY | Bảo dưỡng xe máy (C-BAO-DUONG) | 13 | 135 | 140 | /xe-may/bao-duong-xe/ |
-| P-PHAP-LY | Giấy phép lái xe (C-GPLX) | 2 | 110 | 150 | /an-toan-phap-ly/giay-phep-lai-xe/ |
+| P-PHAP-LY | Giấy phép lái xe (C-GPLX) | 2 | 112 | 150 | /an-toan-phap-ly/giay-phep-lai-xe/ |
 | P-PHAP-LY | Bảo hiểm xe máy (C-BAO-HIEM) | 10 | 97 | 130 | /an-toan-phap-ly/bao-hiem/ |
 | P-PHAP-LY | Nồng độ cồn (C-NOI-DO-CONG) | 2 | 90 | 120 | /an-toan-phap-ly/noi-do-cong/ |
-| P-PHAP-LY | Phạt nguội (C-PHAT-NGUOI) | 2 | 88 | 120 | /an-toan-phap-ly/phat-nguoi/ |
+| P-PHAP-LY | Phạt nguội (C-PHAT-NGUOI) | 2 | 90 | 120 | /an-toan-phap-ly/phat-nguoi/ |
 | P-PHAP-LY | Biển báo giao thông (C-BIEN-BAO) | 1 | 85 | 100 | /an-toan-phap-ly/bien-bao/ |
-| P-PHAP-LY | Giấy tờ xe & cá nhân (C-GIAY-TO) | 8 | 88 | 110 | /an-toan-phap-ly/giay-to/ |
-| P-PHAP-LY | Quy định giao thông (C-QUY-DINH) | 13 | 108 | 150 | /an-toan-phap-ly/quy-dinh-giao-thong/ |
+| P-PHAP-LY | Giấy tờ xe & cá nhân (C-GIAY-TO) | 8 | 89 | 110 | /an-toan-phap-ly/giay-to/ |
+| P-PHAP-LY | Quy định giao thông (C-QUY-DINH) | 13 | 109 | 150 | /an-toan-phap-ly/quy-dinh-giao-thong/ |
 | P-DU-LICH | Điểm đến Hà Nội (C-DIEM-DEN) | 11 | 178 | 170 | /du-lich/diem-den/ |
 | P-DU-LICH | Bảo tàng (C-BAO-TANG) | 0 | 90 | 90 | /du-lich/bao-tang/ |
 | P-DU-LICH | Phố cổ Hoàn Kiếm (C-PHO-CO) | 3 | 88 | 110 | /du-lich/pho-co/ |
@@ -55,7 +55,7 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-KY-NANG | Sức khỏe khi lái xe (C-KY-NANG-SUC-KHOE) | 24 | 77 | 110 | /ky-nang/suc-khoe-khi-lai-xe/ |
 | P-HOI-DAP | Hỏi đáp về giá (C-HD-GIA) | 0 | 51 | 90 | /hoi-dap/hoi-dap-gia/ |
 | P-HOI-DAP | Hỏi đáp thủ tục (C-HD-THU-TUC) | 0 | 66 | 90 | /hoi-dap/hoi-dap-thu-tuc/ |
-| P-HOI-DAP | Hỏi đáp pháp lý (C-HD-PHAP-LY) | 0 | 75 | 90 | /hoi-dap/hoi-dap-phap-ly/ |
+| P-HOI-DAP | Hỏi đáp pháp lý (C-HD-PHAP-LY) | 0 | 77 | 90 | /hoi-dap/hoi-dap-phap-ly/ |
 | P-HOI-DAP | Hỏi đáp chọn xe (C-HD-CHON-XE) | 0 | 83 | 90 | /hoi-dap/hoi-dap-chon-xe/ |
 | P-HOI-DAP | Hỏi đáp sự cố (C-HD-SU-CO) | 0 | 71 | 90 | /hoi-dap/hoi-dap-su-co/ |
 | P-HOI-DAP | Hỏi đáp người mới (C-HD-NGUOI-MOI) | 18 | 49 | 90 | /hoi-dap/hoi-dap-nguoi-moi/ |
@@ -68,4 +68,4 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 5659 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 5667 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
