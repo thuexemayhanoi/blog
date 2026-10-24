@@ -33,7 +33,7 @@ Hỏi: Giá thuê các dòng xe khoảng bao nhiêu? Trả lời: Dòng Wave th�
 
 Hỏi: Cửa hàng mở cửa đến mấy giờ? Trả lời: Khung giờ làm việc là từ 09:00 đến 21:00 hàng ngày. Các giao dịch nhận, trả và giao xe tận nơi đều được bố trí trong khung giờ này. Nếu chuyến bay hoặc lịch trình của bạn rơi ngoài khung giờ, hãy gọi trước để bàn phương án phù hợp.
 
-Hỏi: Trả xe trễ thì tính thế nào? Trả lời: Phí tính thêm khi trả quá giờ thường rơi vào khoảng 20.000đ mỗi giờ, và trường hợp trễ quá sáu giờ có thể được tính thêm một ngày thuê tùy quy định. Cách tốt nhất là nhắn cho cửa hàng ngay khi biết mình sẽ trễ, vì sự chủ động giúp hai bên cùng sắp xếp.
+Hỏi: Trả xe trễ thì tính thế nào? Trả lời: Thời gian gia hạn và khoản phát sinh (nếu có) được xác nhận theo hợp đồng hoặc thỏa thuận giữa người thuê và cửa hàng. Hãy nhắn cho Nguyễn Tú ngay khi biết mình có thể trễ để hai bên sắp xếp.
 
 Hỏi: Tôi muốn trả xe sớm hơn, có được hoàn tiền không? Trả lời: Với thuê ngắn ngày theo ngày, việc trả sớm thường không được hoàn phần thừa. Với gói dài hạn, mỗi cửa hàng có chính sách riêng, hãy hỏi trước khi ký. Nguyên tắc chung là mọi thay đổi về thời gian nên được báo sớm nhất có thể.
 

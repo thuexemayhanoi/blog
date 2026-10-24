@@ -47,7 +47,7 @@ Nếu công việc của bạn kéo dài sang các khu vực ven như Gia Lâm, 
 
 ## Khi lịch trình thay đổi
 
-Chuyến công tác hay thay đổi nhất là thời gian về. Khi có dấu hiệu dời lịch, hãy nhắn cho cửa hàng sớm nhất có thể để bàn phương án gia hạn hoặc đổi gói thuê. Phí tính thêm khi trả quá giờ thường rơi vào khoảng 20.000đ mỗi giờ, và trường hợp trễ quá sáu giờ có thể được tính thêm một ngày thuê tùy quy định. Việc báo trước giúp hai bên chủ động sắp xếp, và với các cửa hàng có quy trình bài bản, việc gia hạn vài ngày thường chỉ cần một tin nhắn.
+Chuyến công tác hay thay đổi nhất là thời gian về. Khi có dấu hiệu dời lịch, hãy nhắn cho cửa hàng sớm nhất có thể để bàn phương án gia hạn hoặc đổi gói thuê. Các khoản phát sinh do trả muộn (nếu có) cần được xác nhận theo hợp đồng hoặc thỏa thuận, không mặc định một mức phí giờ chung. Việc báo trước giúp hai bên chủ động sắp xếp lịch xe.
 
 Nếu bạn phải rời Hà Nội đột ngột, hãy trao đổi thẳng thắn về phương án trả xe sớm. Mỗi cửa hàng có cách xử lý riêng với các gói đã thuê dài hạn, và sự chủ động thông tin từ phía bạn luôn giúp mọi thỏa thuận thuận lợi hơn. Giữ xe đã thuê khi không dùng tới vừa tốn kém vừa tạo rủi ro không đáng có cho khoản cọc của bạn.
 

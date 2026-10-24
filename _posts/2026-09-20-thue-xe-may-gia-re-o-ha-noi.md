@@ -59,7 +59,7 @@ Nhiều người so sánh giá thuê chỉ dựa vào mức giá niêm yết the
 
 Khoản chi đáng kể khác là tiền cọc. Mức cọc phổ biến dao động từ 2.000.000đ đến 5.000.000đ tùy dòng xe và từng trường hợp cụ thể. Nếu bạn thuê xe trong một tuần và cọc bằng tiền mặt, khoản tiền này sẽ nằm ở cửa hàng suốt thời gian thuê. Với người đi du lịch vài ngày, hãy cân nhắc khoản tiền mặt này trong kế hoạch chi tiêu chung của chuyến đi. Khi trả xe đúng hẹn và xe không có hư hỏng mới, tiền cọc sẽ được hoàn lại theo đúng biên bản giao nhận.
 
-Cuối cùng là chi phí của rủi ro: trả xe trễ. Phí trễ thường được tính khoảng 20.000đ mỗi giờ, và nếu trễ quá sáu giờ, bạn có thể bị tính thêm một ngày thuê tùy quy định của cửa hàng. Một lịch trình dày cứng không để phòng trễ giờ trả xe có thể biến mức giá thuê rẻ ban đầu thành mức giá cao hơn trong tổng kết. Hãy để dành một khoảng thời gian đệm cuối ngày thuê để trả xe, chụp ảnh kiểm tra và nhận lại cọc.
+Cuối cùng là chi phí của rủi ro: trả xe trễ. Nếu cần gia hạn hoặc đổi giờ trả, hãy liên hệ cửa hàng trước giờ hẹn để thống nhất thời gian và khoản phát sinh (nếu có) theo hợp đồng. Một lịch trình dày không có dự phòng cuối ngày dễ làm tăng tổng chi phí, vì vậy hãy dành thời gian đệm để trả xe, kiểm tra tình trạng và hoàn tất thủ tục cọc.
 
 ## Tóm lại nên bắt đầu từ đâu
 

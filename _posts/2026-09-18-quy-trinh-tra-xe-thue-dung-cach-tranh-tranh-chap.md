@@ -30,8 +30,7 @@ Thời gian trả xe là một phần của hợp đồng thuê. Thời gian ho�
 
 Trường hợp bất khả kháng không thể trả đúng giờ:
 
-- Phí trễ được tính 20.000 đồng cho mỗi giờ muộn.
-- Nếu trễ quá 6 tiếng, có thể tính thêm một ngày thuê theo loại xe, khoảng 150.000 đến 200.000 đồng mỗi ngày.
+- Nếu có nguy cơ trả xe muộn, hãy báo trước cho cửa hàng để thống nhất thời gian gia hạn và các khoản phát sinh (nếu có) theo hợp đồng hoặc thỏa thuận đã xác nhận.
 - Cách tốt nhất vẫn là thông báo sớm nhất có thể: nhắn tin hoặc gọi ngay 
 khi biết mình sẽ trễ để cửa hàng sắp xếp lịch xe và xác nhận mức phí phát sinh.
 

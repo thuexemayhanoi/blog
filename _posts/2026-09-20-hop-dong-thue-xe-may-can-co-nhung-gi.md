@@ -35,7 +35,7 @@ Câu chuyện giấy tờ tùy thân cũng thuộc nhóm này. Bản gốc giấ
 Ngoài giá thuê cơ bản, ba dòng tiền cần rõ ràng: khoản cọc, nhiên liệu và phụ phí. Với khoản cọc, cần ghi rõ mức, điều kiện hoàn trả và thời gian hoàn: ngay tại chỗ khi trả xe đúng tình trạng, hay sau một khoảng thời gian. Với nhiên liệu, cần thống nhất mức nhiên liệu lúc nhận, thường là đầy bình hoặc vạch xăng cụ thể, và cách xử lý khi trả thiếu. Các cách tính phổ biến như trả thiếu theo giá xăng cộng công phí, hoặc đổ đầy trước kh
 i trả, đều ổn miễn là được nói trước.
 
-Phụ phí đáng hỏi gồm: chi phí giao nhận xe nếu bạn cần xe tận nơi, phí cho các giờ trả trễ, và cách tính khi thuê thêm ngày. Phí trễ giờ thường được tính 20.000đ một giờ cho các giờ đầu, và nếu thời gian trễ vượt quá sáu giờ thì có thể được tính thêm một ngày thuê theo giá ngày của dòng xe, thường vào khoảng 150.000đ đến 200.000đ tùy xe. Các con số này nên khớp trên hợp đồng với những gì được báo giá ban đầu.
+Phụ phí đáng hỏi gồm: chi phí giao nhận xe nếu bạn cần xe tận nơi, chi phí phát sinh khi trả muộn (nếu có) và cách tính nếu muốn thuê thêm ngày. Hãy yêu cầu ghi rõ thời gian trả, cách gia hạn, các khoản có thể phát sinh và mức giá được hai bên xác nhận trong hợp đồng; không mặc định một mức phí trễ chung cho mọi loại xe.
 
 Một điểm nữa là phạm vi địa lý: nhiều hợp đồng giới hạn việc đưa xe đi tỉnh hoặc yêu cầu báo trước khi đi xa, vì các dòng xe có giá trị khác nhau và rủi ro trên đường trường cao hơn trong phố. Nếu kế hoạch của bạn có Nội Bài, các tỉnh lân cận hoặc hành trình dài ngày, hãy nói rõ ngay từ đầu để các điều khoản phản ánh đúng kế hoạch thực tế của chuyến đi.
 

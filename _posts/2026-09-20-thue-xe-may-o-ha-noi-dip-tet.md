@@ -33,7 +33,7 @@ Một điểm cần lưu ý là các dịch vụ xung quanh cũng theo nhịp T�
 
 Nhu cầu phổ biến dịp Tết của người ở Hà Nội là thuê xe về quê, thường là các tỉnh trong bán kính dưới một trăm cây số. Với các hành trình này, hãy chọn xe có tình trạng tốt nhất, hỏi rõ cửa hàng về các điều kiện cho hành trình liên tỉnh, và bàn trước phương án nếu xe có sự cố ở quê, nơi việc liên hệ hỗ trợ khó hơn trong thành phố.
 
-Thời gian thuê cũng nên tính dư: kế hoạch về ba ngày hay bị kéo thành bốn, năm ngày vì các cuộc gặp gỡ kéo dài. Việc gia hạn thuê giữa chừng dịp Tết, khi nguồn xe khan hiếm, có thể phức tạp hơn ngày thường. Vì vậy, khi đặt, hãy hỏi rõ chính sách gia hạn và cách tính nếu trả trễ. Phí tính thêm khi trả quá giờ thường rơi vào khoảng 20.000đ mỗi giờ, và trường hợp trễ quá sáu giờ có thể được tính thêm một ngày thuê tùy quy định.
+Thời gian thuê cũng nên tính dư: kế hoạch về ba ngày có thể kéo thành bốn, năm ngày vì các cuộc gặp gỡ kéo dài. Dịp Tết, việc gia hạn giữa chừng có thể khó sắp xếp do nguồn xe hạn chế. Vì vậy, khi đặt xe hãy hỏi rõ điều kiện gia hạn, giờ trả và các khoản phát sinh (nếu có) theo hợp đồng hoặc thỏa thuận đã xác nhận.
 
 Với người về quê bằng xe khách hoặc tàu và chỉ cần xe ở quê, một số cửa hàng có phương án thuê tính từ ngày nhận tại Hà Nội, nên hãy trao đổi rõ cách tính giờ để chọn phương án hợp lý nhất. Mức đặt cọc thông thường dao động từ 2.000.000đ đến 5.000.000đ tùy dòng xe và từng trường hợp cụ thể, khoản tiền cần được chuẩn bị sẵn khi nhận xe.
 

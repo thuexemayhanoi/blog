@@ -39,7 +39,7 @@ Rửa xe là khoản tùy chọn nhưng đáng kể với các chuyến dài: m�
 
 ## Tầng chi phí thứ tư: các khoản phát sinh
 
-Khoản phát sinh phổ biến nhất là phí trả trễ giờ. Phí tính thêm khi trả quá giờ thường rơi vào khoảng 20.000đ mỗi giờ, và trường hợp trễ quá sáu giờ có thể được tính thêm một ngày thuê tùy quy định. Một lịch trình không chừa dự phòng cuối ngày dễ khiến bạn phải trả khoản này, vì vậy hãy đặt giờ trả xe cách giờ bay hoặc giờ rời thành phố ít nhất vài tiếng.
+Một khoản có thể phát sinh là chi phí khi trả xe muộn, tùy hợp đồng hoặc thỏa thuận đã xác nhận. Nếu lịch trình quá sát giờ bay hoặc giờ rời thành phố, bạn nên chừa thêm vài tiếng dự phòng và liên hệ cửa hàng sớm khi cần gia hạn.
 
 Khoản phát sinh thứ hai liên quan đến hư hỏng: thủng lốp, xước nhẹ do va chạm, hoặc hỏng bộ phận nào đó. Các sự cố nhỏ như vá lốp thường rẻ, nhưng trách nhiệm chi trả thuộc về ai cần được hỏi rõ ngay khi nhận xe, và mọi sửa chữa lớn nên được sự đồng ý của cửa hàng. Đây chính là lý do các thói quen như tránh đường ngập nước, đỗ xe nơi an toàn và khóa xe kỹ đều là các biện pháp quản lý chi phí, không chỉ là an toàn.
 
