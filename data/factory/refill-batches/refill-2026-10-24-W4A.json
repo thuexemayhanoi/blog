@@ -1,0 +1,177 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W4A: chu de that nhom phap ly/giay to/tai nan, khai thac tu khoang trong cua Luat 36/2024, Luat XLVPHC, ND 168/2024, TT 72/2024; moi ung vien da doi chieu voi matrix (khong trung y dinh) va co can cu dieu khoan doc duoc; writer W4 theo gate G1-G9.",
+  "created": "2026-10-24",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-24-W4A-001",
+   "child_id": "C-GIAY-TO",
+   "title": "Du khách mang xe máy biển số nước ngoài vào Việt Nam du lịch: cần giấy phép, bản dịch giấy tờ và biển số tạm thời nào",
+   "intent": "Người dùng hỏi: «Mang xe máy biển số nước ngoài vào Việt Nam du lịch cần giấy phép và giấy tờ gì, đi được những đâu?». Bài đọc Điều 55 Luật 36/2024 (xe cơ giới nước ngoài do người nước ngoài đưa vào du lịch phải được cấp phép và đi đúng phạm vi, tuyến đường, thời gian) cùng các nhóm hành vi của Điều 37 NĐ 168/2024 (bản dịch giấy tờ, ký hiệu quốc gia, biển số tạm thời, lưu hành quá thời hạn, tái xuất). Người đọc là chủ xe nước ngoài đưa xe riêng vào hoặc người Hà Nội đón họ, khác hẳn khách thuê xe trong nước.",
+   "kw": "xe máy biển số nước ngoài vào Việt Nam",
+   "kw2": [
+    "mang xe máy nước ngoài vào Việt Nam du lịch",
+    "xe máy biển số nước ngoài chạy ở Việt Nam cần giấy phép gì",
+    "tạm nhập tái xuất xe máy du lịch",
+    "ký hiệu phân biệt quốc gia trên xe máy",
+    "bản dịch giấy tờ xe nước ngoài tiếng Anh tiếng Việt"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-24-W4A",
+   "audience": "Du khách, dân phượt nước ngoài đưa xe máy riêng vào Việt Nam; người Hà Nội đón hoặc đi cùng họ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-24-W4A-002",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Những lỗi nào khiến xe máy bị tịch thu phương tiện: buông tay lái, bốc đầu, đua xe, đục số khung và quyền của chủ xe",
+   "intent": "Người dùng hỏi: «Đi xe máy lỗi nào thì bị tịch thu xe, và xe thuê hay xe cho mượn bị tịch thu thì chủ xe có mất xe không?». Bài đọc Điều 26 Luật XLVPHC (tịch thu chỉ áp dụng với vi phạm nghiêm trọng do lỗi cố ý) và đối chiếu các điểm của NĐ 168/2024 có hình thức tịch thu phương tiện dành cho xe máy (Điều 7 khoản 11, Điều 35 khoản 3, Điều 14 khoản 4, Điều 32 khoản 17). Phần cho chủ xe dựa vào Điều 126 khoản 1: xe bị chiếm đoạt, sử dụng trái phép thì trả chủ sở hữu, còn chủ xe cố ý để người vi phạm dùng thì xe có thể bị tịch thu.",
+   "kw": "xe máy bị tịch thu phương tiện",
+   "kw2": [
+    "lỗi nào bị tịch thu xe máy",
+    "tịch thu phương tiện xe máy theo nghị định 168",
+    "cho mượn xe bị tịch thu chủ xe có mất xe không",
+    "bốc đầu xe máy bị tịch thu xe",
+    "đua xe trái phép tịch thu xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-24-W4A",
+   "audience": "Người đi xe máy ở Hà Nội, khách thuê xe, chủ xe cho mượn hoặc cho thuê xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-24-W4A-003",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Đi xe máy vi phạm nhưng không bị xử phạt: sự kiện bất ngờ, bất khả kháng và các trường hợp luật không ra quyết định xử phạt",
+   "intent": "Người dùng hỏi: «Vi phạm giao thông do chuyện bất ngờ ngoài ý muốn thì có bị phạt không, và khi nào cơ quan có thẩm quyền không ra quyết định xử phạt?». Bài đọc Điều 11 khoản 3, khoản 4 và định nghĩa ở Điều 2 khoản 13, 14 của Luật XLVPHC, rồi Điều 65 khoản 1 điểm b, c (không xác định được đối tượng, hết thời hiệu). Chỉ nhắc tình thế cấp thiết bằng một link sang bài đã có, không viết lại.",
+   "kw": "không bị xử phạt vi phạm hành chính giao thông",
+   "kw2": [
+    "sự kiện bất ngờ bất khả kháng vi phạm giao thông",
+    "khi nào không ra quyết định xử phạt vi phạm hành chính",
+    "không xác định được người vi phạm giao thông",
+    "trường hợp không xử phạt vi phạm hành chính xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-24-W4A",
+   "audience": "Người đi xe máy và khách thuê xe ở Hà Nội đang nhận hoặc lo nhận thông báo xử phạt",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-24-W4A-004",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Va chạm xe máy chỉ hư hỏng nhẹ, không ai bị thương: đơn yêu cầu giải quyết, thỏa thuận dân sự tại chỗ và thông báo kết quả của CSGT",
+   "intent": "Người dùng hỏi: «Va chạm xe máy chỉ trầy xước, không ai bị thương thì gọi CSGT có phải chờ lâu không và hai bên có thỏa thuận tại chỗ được không?». Bài đọc Điều 18 khoản 6 TT 72/2024/TT-BCA (đơn yêu cầu giải quyết vụ va chạm, biên bản làm việc, trong 07 ngày làm việc có Thông báo kết quả) và khoản 3 (không tự thỏa thuận được thì được hướng dẫn liên hệ Tòa án), đặt cạnh nghĩa vụ ở lại hiện trường tại Điều 80 khoản 1 Luật 36/2024.",
+   "kw": "va chạm xe máy hư hỏng nhẹ CSGT giải quyết",
+   "kw2": [
+    "va chạm giao thông thỏa thuận dân sự tại hiện trường",
+    "thông tư 72/2024 va chạm giao thông",
+    "đơn yêu cầu giải quyết vụ va chạm giao thông",
+    "thông báo kết quả giải quyết va chạm xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-24-W4A",
+   "audience": "Người đi xe máy và khách thuê xe ở Hà Nội vừa va chạm nhẹ, không có người bị thương",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-24-W4A-005",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Du khách nước ngoài liên quan va chạm xe máy ở Hà Nội: công an ghi lời khai, chọn phiên dịch và ký biên bản thế nào",
+   "intent": "Người dùng hỏi: «Là người nước ngoài gặp tai nạn xe máy ở Hà Nội, công an ghi lời khai thế nào, tôi có được chọn phiên dịch và có phải ký biên bản không?». Bài đọc Điều 23 khoản 2 TT 72/2024/TT-BCA (người nước ngoài không có thân phận ngoại giao, gồm khách du lịch, được giải quyết như công dân Việt Nam, có thể tự chọn phiên dịch, phải ký biên bản tại hiện trường hoặc có ghi chú và người chứng kiến) cùng Điều 5 khoản 1 điểm c Luật XLVPHC về đối tượng bị xử phạt, nhằm trấn an và chuẩn bị cho khách quốc tế.",
+   "kw": "người nước ngoài tai nạn xe máy Hà Nội công an ghi lời khai",
+   "kw2": [
+    "khách du lịch nước ngoài tai nạn giao thông Việt Nam phiên dịch",
+    "người nước ngoài ký biên bản tai nạn giao thông",
+    "tự chọn phiên dịch khi công an ghi lời khai",
+    "thông tư 72/2024 người nước ngoài"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-24-W4A",
+   "audience": "Khách du lịch nước ngoài thuê xe máy ở Hà Nội và người đi cùng hoặc cửa hàng hỗ trợ họ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-24-W4A-006",
+   "child_id": "C-GPLX",
+   "title": "Bằng lái xe máy cũ đã đổi hoặc cấp lại vẫn mang đi: số phôi mặt sau không trùng hệ thống có bị coi là không hợp lệ",
+   "intent": "Người dùng hỏi: «Bằng lái cũ đã đổi sang thẻ mới hoặc cấp lại mà tôi vẫn mang theo thì có bị coi là không hợp lệ không?». Bài đọc điểm c khoản 5 Điều 18 NĐ 168/2024, nêu giấy phép lái xe có số phôi ghi ở mặt sau không trùng số phôi cấp mới nhất trong hệ thống là giấy phép không hợp lệ, cùng định nghĩa số phôi và giấy phép hợp lệ trong TT 108/2026, rồi hướng dẫn tự đối chiếu số phôi trên thẻ đang giữ.",
+   "kw": "số phôi giấy phép lái xe không trùng hệ thống",
+   "kw2": [
+    "bằng lái cũ sau khi đổi còn dùng được không",
+    "giấy phép lái xe không hợp lệ số phôi",
+    "số phôi bằng lái nằm ở đâu",
+    "cấp lại bằng lái xe máy thẻ cũ có dùng được không"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-24-W4A",
+   "audience": "Người Hà Nội đã đổi hoặc cấp lại bằng lái xe máy (kể cả hạng A1) và khách thuê xe cầm bằng nhiều thẻ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-24-W4A-007",
+   "child_id": "C-QUY-DINH",
+   "title": "Cảnh sát giao thông có được khám người khi dừng xe máy kiểm tra: căn cứ, quyết định bằng văn bản và quyền người bị khám",
+   "intent": "Người dùng hỏi: «Bị CSGT dừng xe kiểm tra, họ có quyền khám người tôi không và tôi cần biết gì?». Bài đọc nguyên văn Điều 127 Luật XLVPHC (căn cứ cất giấu đồ vật dùng để vi phạm, quyết định bằng văn bản trừ trường hợp cần khám ngay, thông báo quyết định, nam khám nam nữ khám nữ có người cùng giới chứng kiến, lập biên bản và giao một bản) và Điều 9 khoản 4 Luật 36/2024 về cản trở người thi hành công vụ, để người đọc hiểu đúng và hợp tác bình tĩnh.",
+   "kw": "CSGT có được khám người khi dừng xe",
+   "kw2": [
+    "khám người theo thủ tục hành chính",
+    "khám người phải có quyết định bằng văn bản",
+    "nam khám nam nữ khám nữ khi bị kiểm tra",
+    "biên bản khám người quyền của người bị khám"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-24-W4A",
+   "audience": "Người đi xe máy và khách quốc tế ở Hà Nội bị dừng xe kiểm tra",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-24-W4A-008",
+   "child_id": "C-GPLX",
+   "title": "Giấy phép lái xe tích hợp nhiều hạng bị tước quyền sử dụng: chỉ tước phần hạng của xe vi phạm và phần còn lại vẫn được cấp, đổi",
+   "intent": "Hiểu theo Nghị định 168/2024/NĐ-CP rằng khi người có giấy phép lái xe tích hợp vi phạm bằng xe máy thì người có thẩm quyền chỉ tước quyền sử dụng phần giấy phép tương ứng với loại xe vi phạm, và trong thời gian bị tước vẫn được cấp, đổi giấy phép đối với phần không bị tước; bài không nêu số tháng hay số tiền phạt.",
+   "kw": "tước bằng lái tích hợp nhiều hạng",
+   "kw2": [
+    "giấy phép lái xe tích hợp bị tước",
+    "bị tước hạng xe máy còn hạng ô tô không"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-24-W4A",
+   "audience": "người ở Hà Nội có giấy phép lái xe tích hợp cả hạng xe máy và ô tô",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
