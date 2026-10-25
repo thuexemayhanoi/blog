@@ -338,7 +338,7 @@ C-THUE-THANG:
 - t: Thuê xe máy theo tháng cho thợ dịch vụ tại nhà
   u: /thue-xe/2026/09/30/thue-xe-may-theo-thang-cho-tho-dich-vu-tai-nha/
 - t: Thuê xe máy theo tháng cho vợ chồng cùng đi làm
-  u: /thue-xe/2026/10/07/thue-xe-may-theo-thang-cho-vo-chong-cung-i-lam/
+  u: /thue-xe/2026/10/07/thue-xe-may-theo-thang-cho-vo-chong-cung-di-lam/
 C-THUE-THU-TUC:
 - t: Thủ tục thuê xe máy cho người lần đầu đi thuê
   u: /thue-xe/2026/10/10/thu-tuc-thue-xe-may-cho-nguoi-lan-au-i-thue/
@@ -387,7 +387,7 @@ C-XE-DIEN:
 - t: 'Xe máy điện với xe xăng: chọn nào khi thuê'
   u: /xe-may/2026/09/27/xe-may-ien-voi-xe-xang-chon-nao-khi-thue/
 - t: Xe máy điện thuê có ồn khi chạy đêm không
-  u: /xe-may/2026/10/09/xe-may-ien-thue-co-on-khi-chay-em-khong/
+  u: /xe-may/2026/10/09/xe-may-dien-thue-co-on-khi-chay-dem-khong/
 - t: 'Xe máy điện chạy đường đê dài: tính pin thế nào'
   u: /xe-may/2026/10/03/xe-may-ien-chay-uong-e-dai-tinh-pin-the-nao/
 - t: Xe máy điện leo cầu vượt dốc dài
@@ -402,7 +402,7 @@ C-XE-GA:
 - t: 'Xe tay ga rung khi phanh gấp: kiểm tra gì trước'
   u: /xe-may/2026/10/11/xe-tay-ga-rung-khi-phanh-gap-kiem-tra-gi-truoc/
 - t: Xe tay ga thuê có cốp đủ chứa hai mũ bảo hiểm không
-  u: /xe-may/2026/10/09/xe-tay-ga-thue-co-cop-u-chua-hai-mu-bao-hiem-khong/
+  u: /xe-may/2026/10/09/xe-tay-ga-thue-co-cop-du-chua-hai-mu-bao-hiem-khong/
 - t: 'Xe tay ga khó giữ ga đều khi bò chậm: dấu hiệu cần kiểm tra'
   u: /xe-may/2026/10/11/xe-tay-ga-kho-giu-ga-eu-khi-bo-cham-dau-hieu-can-kiem-tra/
 C-XE-KHAC-PHUC:
