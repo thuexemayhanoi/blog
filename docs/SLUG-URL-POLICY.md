@@ -87,6 +87,17 @@ chấm lại độc lập 75/70, không tiêu chí nào tụt; khối `revision`
 **không sửa ratchet trong từng PR pha 2** (một số nguyên dùng chung ⇒ xung đột); sau PR cuối đo một lần `check-slug-redirects.py --from-source --write-ratchet` (giảm). Liên kết nằm trong bài không sửa được
 (evidence lệch hash, có draft) giữ nguyên trỏ vào trang chuyển hướng (HTTP 200 + canonical về URL mới) — chấp nhận được về SEO; xử lý tiếp sau khi chủ duyệt reattest.
 
+## Hàng matrix lệch permalink thật (50 URL BLG-00820…00869)
+
+Trên 5.664 bài PUBLISHED, đúng **50 hàng** ghi `expected_url`/`canonical_url` dạng `/<cm>/YYYY/MM/DD/<slug>/` trong khi permalink thật trong bài (URL Jekyll xuất bản, sitemap và live) là
+`/<cm>/YYYY-MM-DD/<slug>/` (BLG-00820…00854) hoặc `/<cm>/YYYY-MM-DD-<slug>/` (BLG-00855…00869); 5.614 hàng còn lại khớp. **Không đổi permalink** (URL đang hoạt động, đã được index): sửa matrix cho khớp URL thật.
+
+- **36 hàng thuộc baseline đ→d**: `migrate-slug-urls.py` sửa matrix cùng lúc đổi URL (`matrix_url_drift`, `matrix_url_drift_fixed` trong provenance) sau khi evidence được reattest.
+- **14 hàng ngoài baseline** (BLG-00822, 00832, 00844, 00845, 00847, 00853, 00857, 00858, 00859, 00860, 00861, 00863, 00864, 00869; slug không mất chữ đ): công cụ `scripts/factory/sync-matrix-urls.py`
+  (`plan` → `apply --approval-ref ... --ids ... --batch-id ...` → `verify` → `rollback`). Điều kiện bắt buộc, tool tự kiểm: hàng PUBLISHED, evidence NGUYÊN VẸN (hash lệch ⇒ `reattest-legacy-qa.py` trước), không lease/draft,
+  đúng dạng lỗi đã biết (dạng khác ⇒ `MATRIX_URL_UNKNOWN_SHAPE`, không đoán), permalink thật là của đúng bài này (hàng matrix/bài/registry khác dùng ⇒ `URL_COLLISION`), chấm lại độc lập ≥ 75/70, không tiêu chí nào tụt.
+  Chỉ ghi 2 cột matrix + evidence (khối `revision` kind `matrix-url-sync`, history giữ khối cũ) + sao lưu `reports/qa-audit/matrix-sync/<batch>.json` (Quality gate verify lại); bài/redirects/registry không đổi byte.
+
 ## Rollback
 
 - Lô ĐÃ commit/merge: **revert commit của lô** (GitHub Pages deploy lại trạng thái cũ; mọi tệp phái sinh — `refresh-data`, ratchet — quay lại cùng lúc). URL cũ trả 200 với nội dung bài đầy đủ ngay khi rollback.
