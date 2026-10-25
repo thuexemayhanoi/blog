@@ -756,6 +756,12 @@ def rollback_backup(root, backup, ids=None, dry_run=False, force=False, shared=T
         out['restored'].append(aid)
     # phần dùng chung: ID sắp khôi phục tệp + ID đã có tệp cũ (lần rollback trước bị ngắt) mà matrix/registry còn ở bản đã di trú
     shared_plan = []                                   # (aid, b, hàng matrix còn là bản đã ghi?)
+    if shared and not force and plan:
+        inbound = inbound_links_to_new_urls(root, backup, [p[0] for p in plan])
+        if inbound:
+            raise Refuse('INBOUND_LINKS_TO_NEW_URL',
+                         'con bai khac lien ket toi URL moi sap bi go (%s) — `links-rollback` pha 2 TRUOC, roi moi rollback pha 1 '
+                         '(chua ghi gi)' % '; '.join('%s <- %s' % h for h in inbound))
     if shared:
         cur = {r['id']: r for r in SR.read_csv_rows(root / MATRIX_REL)}
         in_registry = {r['article_id'] for r in SR.load_registry(root)}
@@ -789,6 +795,30 @@ def rollback_backup(root, backup, ids=None, dry_run=False, force=False, shared=T
         atomic_write(root / SR.REGISTRY_REL, SR.registry_text(reg).encode('utf-8'))
     out['ok'] = True
     return out
+
+
+def inbound_links_to_new_urls(root, backup, ids):
+    """Bài KHÁC (không thuộc các mục sắp khôi phục) còn liên kết `](URL_MỚI)` / `href="URL_MỚI"` tới URL sẽ biến mất khi rollback
+    (thường do pha 2 `links-apply` đã trỏ thẳng tới URL mới). Trả [(ID đích, đường dẫn bài nguồn)] — tối đa 5."""
+    root = pathlib.Path(root)
+    news = {backup['entries'][a]['new_url']: a for a in ids}
+    if not news:
+        return []
+    own = {root / backup['entries'][a]['new_path'] for a in ids}
+    md, html = _link_res({u: u for u in news})
+    hits = []
+    for p in sorted((root / '_posts').glob('*.md')):
+        if p in own:
+            continue
+        text = p.read_text(encoding='utf-8', errors='replace')
+        for rx in (md, html):
+            m = rx.search(text)
+            if m:
+                hits.append((news[m.group(2)], str(p.relative_to(root))))
+                break
+        if len(hits) >= 5:
+            break
+    return hits
 
 
 def _matrix_restore_bytes(root, old_rows):
@@ -981,9 +1011,31 @@ def build_links_evidence(ctx, d, mp_digest):
     return new
 
 
+def compose_mapping(mp):
+    """Gập chuỗi ánh xạ: A->B và B->C thành A->C (liên kết không bao giờ đáp xuống một URL sắp thành trang chuyển hướng).
+    Vòng/tự trỏ (A->A, A->B->A) bị từ chối. Trả bản sao đã gập, khóa giữ nguyên."""
+    out = {}
+    for k in sorted(mp):
+        seen, v = [k], mp[k]
+        while v in mp and v != seen[-1]:
+            if v in seen:
+                raise Refuse('MAPPING_LOOP', 'anh xa co vong: %s' % ' -> '.join(seen + [v]))
+            seen.append(v)
+            v = mp[v]
+        if v == k:
+            raise Refuse('MAPPING_LOOP', 'anh xa tu tro: %s -> %s' % (k, v))
+        out[k] = v
+    return out
+
+
 def default_mapping(root):
-    """Ánh xạ mặc định pha 2: URL cũ -> mới theo registry (đã di trú)."""
-    return mapping(pathlib.Path(root))
+    """Ánh xạ mặc định pha 2: URL cũ -> mới theo registry (đã di trú), cả dạng thiếu '/' cuối của URL cũ
+    (`](/a/b)` -> `/a/b-moi/` thẳng, không qua `/a/b/` rồi trang chuyển hướng). Khóa là TOKEN đầy đủ nên `/a/b` không khớp `/a/b/`."""
+    mp = dict(mapping(pathlib.Path(root)))
+    for old, new in list(mp.items()):
+        if old.endswith('/') and old[:-1] and old[:-1] not in mp:
+            mp[old[:-1]] = new
+    return compose_mapping(mp)
 
 
 _LINK_CTX = None
@@ -1092,7 +1144,12 @@ def apply_links(ctx, manifest, ids, dry_run=False, skip_ineligible=False):
             row = ctx.by_id.get(aid)
             cur = (ctx.root / row['output_path']).read_bytes() if row else b''
             if sha(cur) == e['new_post_sha256']:
-                skipped.append(aid)                      # da la ban moi
+                ev_now = ctx.root / 'data/qa' / (aid + '.json')
+                if not ev_now.is_file() or json.loads(ev_now.read_text(encoding='utf-8')).get('content_sha256') != sha(cur):
+                    raise Refuse('EVIDENCE_NOT_BOUND_TO_NEW_POST',
+                                 '%s: bai da la ban moi nhung evidence khong khop byte (apply truoc bi ngat?) — khoi phuc bang '
+                                 '`links-rollback --backup` roi chay lai, khong coi la xong' % aid)
+                skipped.append(aid)                      # da la ban moi (evidence khop byte)
                 continue
             if sha(cur) != e['base_post_sha256']:
                 raise Refuse('POST_CHANGED_SINCE_PLAN', '%s: bai da doi tu luc plan' % aid)
@@ -1384,7 +1441,7 @@ def main(argv=None):
             if dirty and not a.allow_dirty:
                 R.require_clean_tree(ROOT)
             ctx = make_ctx(ROOT)
-            mp = dict(extra if a.no_registry else {**default_mapping(ROOT), **extra})
+            mp = compose_mapping(dict(extra if a.no_registry else {**default_mapping(ROOT), **extra}))
             if not mp:
                 raise Refuse('EMPTY_MAPPING', 'anh xa rong (chua di tru bai nao va khong co --mapping)')
             manifest = make_links_plan(ctx, mp, _ids(a.ids) or None, max(1, a.jobs))
