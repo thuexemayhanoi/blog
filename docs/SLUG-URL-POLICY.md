@@ -76,10 +76,16 @@ trang chuyển hướng; dòng registry `reports/factory/seo-master/slug-redirec
 ### Pha 2: trỏ liên kết nội bộ thẳng tới URL mới
 
 Sau khi một bài được di trú, các bài khác còn trỏ tới URL cũ vẫn chạy (qua trang chuyển hướng) nhưng nên trỏ thẳng. `migrate-slug-urls.py links-plan/links-apply/links-verify/links-rollback`
-đổi **chỉ đích** của `](ĐÍCH)` / `href="ĐÍCH"` theo ánh xạ (mặc định: registry OLD → NEW; thêm `--mapping FILE` cho các đích khác, ví dụ thêm dấu `/` cuối cho liên kết mà GitHub Pages
-phải 301): chữ liên kết, tiêu đề `"..."`, `#đoạn` và mọi byte khác giữ nguyên (kiểm bằng `mask_links`). Bài phải có evidence nguyên vẹn; chấm lại độc lập 75/70, không tiêu chí nào tụt;
-khối `revision` kind `link-retarget`; sao lưu `reports/qa-audit/links/<batch>.json`; lô ≤ 50; không đụng matrix/registry. Làm một lượt SAU khi di trú xong để mỗi bài chỉ bị ghi lại evidence một lần.
-Sau mỗi lượt, đo lại bằng `check-slug-redirects.py --write-ratchet` (ngưỡng ratchet chỉ giảm).
+đổi **chỉ đích** của `](ĐÍCH)` / `href="ĐÍCH"` theo ánh xạ: mặc định registry OLD → NEW, **cả dạng thiếu `/` cuối của URL cũ** (đi thẳng tới URL mới); `--mapping FILE` thêm đích khác (ví dụ 16 đích thiếu
+dấu `/` mà GitHub Pages phải 301). Ánh xạ luôn được **gập chuỗi** (`A→B` và `B→C` thành `A→C`; vòng/tự trỏ bị từ chối `MAPPING_LOOP`) nên liên kết không bao giờ đáp xuống một URL sắp thành trang chuyển hướng.
+Chữ liên kết, tiêu đề `"..."`, `#đoạn` và mọi byte khác giữ nguyên (`mask_links` so sánh phần ngoài các cụm `](...)`; không thay cho kiểm byte của khung `difflib` trong test). Bài phải có evidence nguyên vẹn;
+chấm lại độc lập 75/70, không tiêu chí nào tụt; khối `revision` kind `link-retarget` (khối cũ — kể cả `permalink-migration` — nằm trong `revision.history`); sao lưu `reports/qa-audit/links/<batch>.json`
+(gate verify lại); lô ≤ 50; không đụng matrix/registry; `links-apply` KHÔNG coi một bài là "đã xong" nếu evidence không khớp byte bài mới (`EVIDENCE_NOT_BOUND_TO_NEW_POST`).
+
+**Thứ tự (kết quả phân tích trên kho thật, 2026-10-25):** chạy pha 2 **MỘT lượt sau lô di trú cuối** (đã merge và xác minh live). Mỗi bài chỉ ghi lại evidence một lần (1.395 bài/28–29 PR ≤ 50); chạy sau mỗi lô tốn thêm
+~400 lượt ghi (346 bài ghi lại ≥ 2 lần) và 43 PR. Các PR pha 2 không đụng tệp dùng chung (chỉ `_posts/<id>.md`, `data/qa/<id>.json`, một sao lưu riêng) nên có thể mở/gate SONG SONG và merge tuần tự;
+**không sửa ratchet trong từng PR pha 2** (một số nguyên dùng chung ⇒ xung đột); sau PR cuối đo một lần `check-slug-redirects.py --from-source --write-ratchet` (giảm). Liên kết nằm trong bài không sửa được
+(evidence lệch hash, có draft) giữ nguyên trỏ vào trang chuyển hướng (HTTP 200 + canonical về URL mới) — chấp nhận được về SEO; xử lý tiếp sau khi chủ duyệt reattest.
 
 ## Rollback
 
@@ -87,4 +93,5 @@ Sau mỗi lượt, đo lại bằng `check-slug-redirects.py --write-ratchet` (n
 - Cây chưa commit: `migrate-slug-urls.py rollback --backup ...`. Công cụ KIỂM TRA toàn bộ điều kiện (tệp, hàng matrix, registry) rồi mới ghi; từ chối mà không ghi gì nếu một hàng matrix đã bị sửa tay
   sau apply (`MATRIX_CHANGED_SINCE_APPLY`); bị ngắt giữa chừng thì chạy lại để hoàn tất phần matrix/registry. Thoát mã 1 nếu còn ID bị bỏ qua vì bài đã đổi sau apply.
   Công cụ KHÔNG hoàn tác `refresh-data` và ratchet (không có ảnh trước trong sao lưu) — dùng `git checkout -- _data reports/factory/seo-master` cho phần đó.
-- Thứ tự: nếu một bài đã bị pha 2 (`links-apply`) ghi lại sau di trú, rollback pha 2 (`links-rollback`) TRƯỚC rồi mới rollback pha 1; ngược lại các bài đã trỏ tới URL mới sẽ có liên kết gãy.
+- Thứ tự: nếu pha 2 (`links-apply`) ghi lại bài SAU khi di trú: `links-rollback` pha 2 TRƯỚC rồi mới `rollback` pha 1 — công cụ từ chối (`INBOUND_LINKS_TO_NEW_URL`, chưa ghi gì) khi còn bài khác liên kết tới URL mới sắp biến mất.
+  Nếu pha 2 ghi lại bài TRƯỚC khi nó được di trú (bài là nguồn liên kết): rollback pha 1 trước, rồi `links-rollback` (đường dẫn bài đã đổi nên `links-rollback` chỉ chạy được sau khi bài về chỗ cũ).

@@ -126,6 +126,20 @@ class TestHelpers(unittest.TestCase):
                 M.check_only_permalink_changed(t, bad, '/a/b/', '/a/c/')
             self.assertEqual(c.exception.code, 'POST_DIFF_NOT_PERMALINK_ONLY')
 
+    def test_compose_mapping_flattens_chains_and_rejects_loops(self):
+        """Review pha 2: 3/16 đích thiếu '/' là dạng thiếu '/' của URL cũ ⇒ '/x/y' -> '/x/y/' sẽ đáp xuống trang chuyển hướng (chuỗi)."""
+        mp = {'/a/b': '/a/b/', '/a/b/': '/a/c/', '/x/': '/y/'}
+        self.assertEqual(M.compose_mapping(mp), {'/a/b': '/a/c/', '/a/b/': '/a/c/', '/x/': '/y/'})
+        self.assertEqual(M.compose_mapping({'/p/': '/q/', '/q/': '/r/', '/r/': '/s/'}),
+                         {'/p/': '/s/', '/q/': '/s/', '/r/': '/s/'})
+        for bad in ({'/a/': '/b/', '/b/': '/a/'}, {'/a/': '/a/'}, {'/a/': '/b/', '/b/': '/c/', '/c/': '/a/'}):
+            with self.assertRaises(R.Refuse) as e:
+                M.compose_mapping(bad)
+            self.assertEqual(e.exception.code, 'MAPPING_LOOP')
+        out, counts = M.retarget_text('xem [a](/a/b) và [b](/a/b/) và [c](/a/b/#f)', M.compose_mapping(mp))
+        self.assertEqual(out, 'xem [a](/a/c/) và [b](/a/c/) và [c](/a/c/#f)')
+        self.assertEqual(counts, {'/a/b': 1, '/a/b/': 2})
+
     def test_retarget_text_changes_only_targets(self):
         t = ('Xem [bài](/a/b/ "tiêu đề") và [x](/a/b/#frag) và <a href="/a/b/">h</a> và [y](/a/bc/) và [z](/a/b/c/) '
              'và [s](/ky-nang) và [s2](/ky-nang/2026/x/).')
@@ -463,6 +477,28 @@ class TestRollback(MigrateBase):
             self.assertEqual(e.exception.code, 'MATRIX_CHANGED_SINCE_APPLY')
             self.assertEqual(tree_hashes(self.root, WATCH), after_edit, 'tu choi TRUOC khi ghi bat ky tep nao')
 
+    def test_06_rollback_refuses_while_other_posts_link_to_the_new_url(self):
+        """Review pha 2: phase-1 rollback không được để lại bài khác liên kết tới URL mới sắp biến mất (links-rollback TRƯỚC)."""
+        ids = self.intact_candidates(2)
+        m = self.manifest(ids)
+        rep = self.apply(m, ids)
+        backup = json.loads((self.root / rep['backup']).read_text(encoding='utf-8'))
+        new_url = backup['entries'][ids[0]]['new_url']
+        own = {self.root / b['new_path'] for b in backup['entries'].values()}
+        host = next(p for p in sorted((self.root / '_posts').glob('*.md')) if p not in own)
+        keep = host.read_bytes()
+        host.write_bytes(keep + ('\n[xem them](%s)\n' % new_url).encode('utf-8'))
+        after = tree_hashes(self.root, WATCH)
+        for dry in (True, False):
+            with self.assertRaises(R.Refuse) as e:
+                M.rollback_backup(self.root, backup, dry_run=dry)
+            self.assertEqual(e.exception.code, 'INBOUND_LINKS_TO_NEW_URL')
+            self.assertIn(str(host.relative_to(self.root)), e.exception.msg)
+            self.assertEqual(tree_hashes(self.root, WATCH), after, 'tu choi truoc khi ghi bat ky tep nao')
+        host.write_bytes(keep)                                       # bỏ liên kết ⇒ rollback chạy được
+        out = M.rollback_backup(self.root, backup)
+        self.assertEqual(sorted(out['restored']), sorted(ids))
+
     def test_04_interrupted_rollback_is_completed_by_rerun(self):
         """Ngắt giữa lúc khôi phục tệp và lúc khôi phục matrix/registry: chạy lại hoàn tất phần dùng chung (không còn kẹt)."""
         ids = self.intact_candidates(2)
@@ -629,6 +665,34 @@ class TestRetargetLinks(MigrateBase):
         self.assertEqual(out['restored'], [aid])
         self.assertEqual(tree_hashes(self.root, WATCH), before)
         self.assertEqual(M.rollback_links(self.root, backup)['restored'], [])
+
+    def test_01b_default_mapping_has_slashless_old_urls_and_is_composed(self):
+        ids = self.intact_candidates(1)
+        self.apply(self.manifest(ids), ids)
+        e = next(r for r in SR.load_registry(self.root) if r['article_id'] == ids[0])
+        mp = M.default_mapping(self.root)
+        self.assertEqual(mp[e['old_url']], e['new_url'])
+        self.assertEqual(mp[e['old_url'].rstrip('/')], e['new_url'])        # dạng thiếu '/' đi THẲNG tới URL mới
+        out, counts = M.retarget_text('[a](%s) [b](%s) [c](%s)' % (e['old_url'], e['old_url'].rstrip('/'), e['old_url'] + 'x/'), mp)
+        self.assertEqual(out, '[a](%s) [b](%s) [c](%s)' % (e['new_url'], e['new_url'], e['old_url'] + 'x/'))   # token đầy đủ: /x/ giữ nguyên
+        # đích thiếu '/' bổ sung từ file (như 16 đích thật) được gập qua registry: không đáp xuống trang chuyển hướng
+        extra = {e['old_url'].rstrip('/'): e['old_url']}
+        merged = M.compose_mapping({**M.default_mapping(self.root), **extra})
+        self.assertEqual(merged[e['old_url'].rstrip('/')], e['new_url'])
+
+    def test_01c_already_current_requires_evidence_bound_to_the_new_post(self):
+        """Review pha 2: bài đã là bản mới nhưng evidence cũ (apply bị ngắt) KHÔNG được coi là 'đã xong'."""
+        aid, q, other = self.pair()
+        m = self.links_manifest([aid], {q: other})
+        M.apply_links(self.ctx(batch='links-test-a'), m, [aid])
+        ev_p = self.root / 'data/qa' / (aid + '.json')
+        good = ev_p.read_bytes()
+        ev_p.write_text(json.dumps(dict(json.loads(good), content_sha256='0' * 64), indent=2), encoding='utf-8')
+        with self.assertRaises(R.Refuse) as e:
+            M.apply_links(self.ctx(batch='links-test-b'), m, [aid])
+        self.assertEqual(e.exception.code, 'EVIDENCE_NOT_BOUND_TO_NEW_POST')
+        ev_p.write_bytes(good)
+        self.assertEqual(M.apply_links(self.ctx(batch='links-test-c'), m, [aid])['already_current'], [aid])
 
     def test_02_refusals(self):
         aid, q, other = self.pair()
