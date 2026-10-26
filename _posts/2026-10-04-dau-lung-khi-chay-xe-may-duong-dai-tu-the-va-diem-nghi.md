@@ -38,7 +38,7 @@ Thứ đáng đầu tư nhất với người hay đau lưng là dây nịt gi�
 
 Lịch trình điểm nghỉ quan trọng ngang tư thế. Nguyên tắc thực tế là nghỉ mỗi một tiếng rưỡi tới hai tiếng, mỗi lần mười lăm phút, và khi nghỉ thì xuống hẳn khỏi xe, đi bộ vài chục bước, duỗi lưng và xoay khớp. Dừng uống nước ở quán ven đường vừa là chỗ nghỉ chân vừa là mốc kiểm tra lại tư thế khi lên xe.
 
-Điểm nghỉ cũng nên chọn theo mặt bằng rộng rãi an toàn cho xe: cây xăng lớn, trạm dừng trên quốc lộ, khu quán có bãi đỗ. Tránh dừng ở vai đường cong hoặc chỗ khuất tầm nhìn. Với chuyến dài có gửi xe qua đêm, cách chọn bãi giữ xe trước khi nghỉ được kể trong bài [gửi xe qua đêm khi đi chuyến dài](/ky-nang/2026/10/04/gui-xe-qua-em-o-ha-noi-khi-i-chuyen-dai-can-hoi-gi-truoc/), vì kế hoạch nghỉ đêm cũng là một phần của kế hoạch giữ sức.
+Điểm nghỉ cũng nên chọn theo mặt bằng rộng rãi an toàn cho xe: cây xăng lớn, trạm dừng trên quốc lộ, khu quán có bãi đỗ. Tránh dừng ở vai đường cong hoặc chỗ khuất tầm nhìn. Với chuyến dài có gửi xe qua đêm, cách chọn bãi giữ xe trước khi nghỉ được kể trong bài [gửi xe qua đêm khi đi chuyến dài](/ky-nang/2026/10/04/gui-xe-qua-dem-o-ha-noi-khi-di-chuyen-dai-can-hoi-gi-truoc/), vì kế hoạch nghỉ đêm cũng là một phần của kế hoạch giữ sức.
 
 Không nên đánh đổi nghỉ để về sớm. Người lưng mỏi mà cố chạy thêm một tiếng thì phản ứng chậm lại, và đó là rủi ro trên đường lớn với xe tải. Cứ tính giờ nghỉ vào lộ trình từ đầu: một chuyến năm tiếng có hai lần nghỉ đàng hoàng vẫn nhanh hơn một chuyến ngã giữa đường vì mỏi.
 

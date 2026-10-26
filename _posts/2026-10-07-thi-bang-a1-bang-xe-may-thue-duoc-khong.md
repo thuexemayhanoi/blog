@@ -38,7 +38,7 @@ Cách di chuyển an toàn nếu bạn chưa có bằng: nhờ người thân, b
 
 ## Sau khi có bằng A1, thuê xe đi thực tế
 
-Khi giấy phép đã nằm trong ví, xe máy thuê trở thành lựa chọn tiện dụng cho người mới: chọn xe nhẹ, chạy đường vắng vài buổi đầu để quen với thực tế rồi mới đưa vào phố đông. Kinh nghiệm chọn xe và giữ an toàn cho người lần đầu cầm bằng được gom trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/). Với chi phí, các dòng xe ga phổ thông có giá thuê theo ngày hợp lý và mức giá giảm dần theo tuần, nên nếu bạn định đi lại thường xuyên, cân nhắc thuê theo tuần sẽ kinh tế hơn tính từng ngày lẻ.
+Khi giấy phép đã nằm trong ví, xe máy thuê trở thành lựa chọn tiện dụng cho người mới: chọn xe nhẹ, chạy đường vắng vài buổi đầu để quen với thực tế rồi mới đưa vào phố đông. Kinh nghiệm chọn xe và giữ an toàn cho người lần đầu cầm bằng được gom trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/). Với chi phí, các dòng xe ga phổ thông có giá thuê theo ngày hợp lý và mức giá giảm dần theo tuần, nên nếu bạn định đi lại thường xuyên, cân nhắc thuê theo tuần sẽ kinh tế hơn tính từng ngày lẻ.
 
 ## Kết luận
 

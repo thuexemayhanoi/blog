@@ -44,7 +44,7 @@ Một lưu ý nhỏ là tránh gõ rung chuông hay tự ý vào khu vực nội
 
 Chùa Vạn Niên nằm ngay trên trục Xuân Diệu nên rất dễ nhét vào lộ trình chiều. Một phương án phổ biến: khởi hành từ trung tâm, chạy qua Quán Thánh, dừng ở chùa khoảng ba mươi phút để tham quan, sau đó chạy tiếp lên phía Thanh Niên ngắm mặt nước và ghé quán ven hồ. Tổng thời gian cả lộ trình khoảng nửa buổi, phù hợp cả người đi một mình lẫn nhóm bạn.
 
-Phương án khác là ghé chùa vào đầu buổi sáng khi phố còn vắng, xong ghé ăn sáng ở các quán quanh Quảng An, rồi vòng tiếp qua Trúc Bạch ngắm phố cũ. Bạn có thể tham khảo lộ trình đi qua hai hồ này trong bài viết [đến hồ Trúc Bạch bằng xe máy](/du-lich/2026/10/04/en-ho-truc-bach-bang-xe-may-uong-i-quanh-ho/), và các kinh nghiệm tổng quan khác trong mục [du lịch](/du-lich/).
+Phương án khác là ghé chùa vào đầu buổi sáng khi phố còn vắng, xong ghé ăn sáng ở các quán quanh Quảng An, rồi vòng tiếp qua Trúc Bạch ngắm phố cũ. Bạn có thể tham khảo lộ trình đi qua hai hồ này trong bài viết [đến hồ Trúc Bạch bằng xe máy](/du-lich/2026/10/04/den-ho-truc-bach-bang-xe-may-duong-di-quanh-ho/), và các kinh nghiệm tổng quan khác trong mục [du lịch](/du-lich/).
 
 Với khách thuê xe máy, trước khi đi bạn nên kiểm tra xăng. Tuy quanh khu vực này có nhiều cây xăng, nhưng có sẵn bình đầy luôn chủ động hơn. Bốm bánh căng, báo hiệu rẽ hoạt động tốt, và đừng quên mang theo giấy tờ tùy thân theo yêu cầu của hợp đồng thuê xe. Các bài viết về chuẩn bị trước các chuyến đi trong mục [kinh nghiệm](/kinh-nghiem/) sẽ giúp bạn kiểm tra nhanh hơn.
 

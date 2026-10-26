@@ -36,7 +36,7 @@ Khi có khấu trừ, bạn có quyền hỏi rõ căn cứ: hạng mục nào, 
 
 ## Cọc giữ dưới dạng giấy tờ thì sao
 
-Nếu bạn đặt cọc bằng giấy tờ thay vì tiền, quy trình nhận lại cũng dựa trên buổi đối soát: giấy tờ được trả lại ngay khi hiện trạng xe khớp biên bản. Ưu điểm của cách này là không phát sinh vòng chuyển tiền hoàn lại, nên buổi trả xe thường nhẹ nhàng hơn. Điểm cần lưu ý là bạn nên có bản ghi lại loại giấy tờ đã đặt, kèm chữ ký xác nhận của hai bên, để không tranh chấp về món đã đặt. Với người mới thuê lần đầu, đọc trước bài [thuê xe máy cho người mới lấy bằng A1](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) cũng giúp chuẩn bị tốt hơn cho các thủ tục đầu tiên của mình.
+Nếu bạn đặt cọc bằng giấy tờ thay vì tiền, quy trình nhận lại cũng dựa trên buổi đối soát: giấy tờ được trả lại ngay khi hiện trạng xe khớp biên bản. Ưu điểm của cách này là không phát sinh vòng chuyển tiền hoàn lại, nên buổi trả xe thường nhẹ nhàng hơn. Điểm cần lưu ý là bạn nên có bản ghi lại loại giấy tờ đã đặt, kèm chữ ký xác nhận của hai bên, để không tranh chấp về món đã đặt. Với người mới thuê lần đầu, đọc trước bài [thuê xe máy cho người mới lấy bằng A1](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/) cũng giúp chuẩn bị tốt hơn cho các thủ tục đầu tiên của mình.
 
 ## Thời điểm nhận lại cọc trong buổi trả xe
 

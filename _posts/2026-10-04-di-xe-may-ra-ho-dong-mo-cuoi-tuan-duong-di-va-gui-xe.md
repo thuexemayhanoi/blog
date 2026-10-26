@@ -34,7 +34,7 @@ Một số khu vực quanh hồ thuộc vùng sân golf và khu nghỉ dưỡng,
 
 ## Lịch trình một ngày gợi ý cho chuyến đi
 
-Lịch trình gợi ý: khởi hành từ nội đô khoảng bảy giờ sáng, dừng ăn sáng ở dọc đại lộ, đến hồ chừng chín giờ. Dạo quanh bờ hồ, ngắm cảnh và nghỉ chân một tiếng. Mười một giờ chạy vòng thêm khu vực Suối Hai cạnh đó nếu muốn, ăn trưa ở các quán vùng Sơn Tây, rồi khởi hành về vào giữa trưa để về nội đô trước giờ chiều tối. Nếu muốn kéo dài, hãy chia lộ trình và xem trước các gợi ý trong bài tổng quan [đi xe máy ra ngoại thành Hà Nội cuối tuần](/du-lich/2026/09/28/i-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao/).
+Lịch trình gợi ý: khởi hành từ nội đô khoảng bảy giờ sáng, dừng ăn sáng ở dọc đại lộ, đến hồ chừng chín giờ. Dạo quanh bờ hồ, ngắm cảnh và nghỉ chân một tiếng. Mười một giờ chạy vòng thêm khu vực Suối Hai cạnh đó nếu muốn, ăn trưa ở các quán vùng Sơn Tây, rồi khởi hành về vào giữa trưa để về nội đô trước giờ chiều tối. Nếu muốn kéo dài, hãy chia lộ trình và xem trước các gợi ý trong bài tổng quan [đi xe máy ra ngoại thành Hà Nội cuối tuần](/du-lich/2026/09/28/di-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao/).
 
 Với người muốn kết hợp thêm điểm chơi phía tây, vùng chân núi Ba Vì cùng hướng là lựa chọn phổ biến, và bạn có thể tham khảo kinh nghiệm trong bài [Ba Vì nửa ngày bằng xe máy từ Hà Nội](/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/) để cân đo thời gian. Danh sách các điểm và lộ trình khác được gom trong mục [ngoại thành hà nội](/du-lich/ngoai-thanh/), còn nếu bạn lần đầu thuê xe cho chuyến đường dài thế này thì các lưu ý chuẩn bị có trong mục [kinh nghiệm](/kinh-nghiem/).
 

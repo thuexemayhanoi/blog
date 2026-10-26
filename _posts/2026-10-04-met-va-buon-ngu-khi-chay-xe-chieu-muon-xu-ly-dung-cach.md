@@ -26,7 +26,7 @@ Hãy để ý hoàn cảnh dễ gây buồn ngủ nhất: đoạn đường th�
 
 ## Chống mệt khi chạy xe: xử lý tại chỗ đúng cách
 
-Chống mệt khi chạy xe trên đường chỉ có một cách thực sự: dừng và nghỉ ngắn. Ghé vào quán trà đá ven đường, xuống xe đi bộ vài phút, rửa mặt nước mát, và nếu được thì ngồi nhắm mắt mười lăm phút. Mười lăm phút lim dim có thể đổi lại một giờ lái tỉnh táo, hơn hẳn cố chạy tiếp cho tới khi ngã. Với chuyến dài có gửi xe qua đêm, chọn trước điểm nghỉ đêm cũng giúp mọi thứ nhẹ nhàng hơn, cách hỏi bãi giữ xe được kể trong bài [gửi xe qua đêm khi đi chuyến dài](/ky-nang/2026/10/04/gui-xe-qua-em-o-ha-noi-khi-i-chuyen-dai-can-hoi-gi-truoc/).
+Chống mệt khi chạy xe trên đường chỉ có một cách thực sự: dừng và nghỉ ngắn. Ghé vào quán trà đá ven đường, xuống xe đi bộ vài phút, rửa mặt nước mát, và nếu được thì ngồi nhắm mắt mười lăm phút. Mười lăm phút lim dim có thể đổi lại một giờ lái tỉnh táo, hơn hẳn cố chạy tiếp cho tới khi ngã. Với chuyến dài có gửi xe qua đêm, chọn trước điểm nghỉ đêm cũng giúp mọi thứ nhẹ nhàng hơn, cách hỏi bãi giữ xe được kể trong bài [gửi xe qua đêm khi đi chuyến dài](/ky-nang/2026/10/04/gui-xe-qua-dem-o-ha-noi-khi-di-chuyen-dai-can-hoi-gi-truoc/).
 
 Các việc đỡ tạm lúc chưa ghé được kể như sau: mở nửa mũ cho gió vào mặt nếu đang đội mũ che kín, hát hoặc nói chuyện với người ngồi sau, nhai kẹo cao su, và đổi tư thế ngồi bằng cách đứng nhẹ trên bàn đạp khi đường thẳng vắng. Nước mát hoặc trà giúp một phần, nhưng đừng dựa vào một món nào như thần dược: nếu buồn ngủ thật thì không gì thay được giấc ngủ.
 

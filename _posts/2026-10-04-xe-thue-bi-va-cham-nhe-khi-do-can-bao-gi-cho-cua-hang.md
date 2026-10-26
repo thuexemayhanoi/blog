@@ -36,7 +36,7 @@ Nếu vết va chạm kèm hư hỏng ảnh hưởng an toàn, ví dụ gương 
 
 ## Tránh va chạm khi đỗ trong các lần sau
 
-Phòng vẫn hơn cure, và cách đỗ xe quyết định phần lớn rủi ro. Ở phố Hà Nội, nên đỗ sát vào trong, giữa các xe đã đỗ, thay vì nhô ra mép đường nơi xe luồng qua dễ đánh trúng. Chọn chỗ có mái che hoặc bãi gửi trông xe khi để lâu, vì xe để ngoài trời lâu dễ bị người khác cạ vào mà không hay. Cách đỗ trên hè phố khi vỉa hè chật được kể chi tiết trong bài [đỗ xe trên hè phố](/ky-nang/2026/10/04/o-xe-tren-he-pho-khi-via-he-a-kin/), các nguyên tắc chọn chỗ và dựng chân chống an toàn dùng được cho mọi tình huống.
+Phòng vẫn hơn cure, và cách đỗ xe quyết định phần lớn rủi ro. Ở phố Hà Nội, nên đỗ sát vào trong, giữa các xe đã đỗ, thay vì nhô ra mép đường nơi xe luồng qua dễ đánh trúng. Chọn chỗ có mái che hoặc bãi gửi trông xe khi để lâu, vì xe để ngoài trời lâu dễ bị người khác cạ vào mà không hay. Cách đỗ trên hè phố khi vỉa hè chật được kể chi tiết trong bài [đỗ xe trên hè phố](/ky-nang/2026/10/04/do-xe-tren-he-pho-khi-via-he-da-kin/), các nguyên tắc chọn chỗ và dựng chân chống an toàn dùng được cho mọi tình huống.
 
 Gương chiếu hậu nên gập lại trước khi rời xe, vì gương là bộ phận hay bị đâm văng nhất ở lề đường. Khóa cổ và cốp luôn, kể cả chỉ rời xe vài phút. Cuối cùng, lúc nhận xe thuê, dành một phút kiểm tra và chụp ảnh hiện trạng chung quanh xe, để mọi vết phát sinh trong thời gian thuê đều xác định được rõ ràng.
 
