@@ -16,6 +16,7 @@ pha 2 `links-*` đổi đích liên kết nội bộ; không workflow, không cr
 Quality gate: trigger thêm `redirects/**` và `reports/qa-audit/**` (đường dẫn ngoài hợp đồng content ⇒ mode FULL, fail-closed); bước verify mọi backup di trú và
 backup retarget liên kết được thêm/sửa; FULL có thêm bước `check-slug-redirects.py --site ./_site` (kiểm OUTPUT build: trang cũ = HTTP 200 + meta refresh 0s + canonical mới, KHÔNG phải 301,
 ngưỡng ratchet liên kết vào trang chuyển hướng chỉ giảm). `validate.py` mọi scope có mục `slug_policy`.
+Cập nhật 2026-10-25 (Issue #77, docs/SLUG-URL-POLICY.md): `sync-matrix-urls.py` là công cụ bảo trì LOCAL thứ tư ghi evidence — chỉ sửa 2 cột `expected_url`/`canonical_url` của hàng matrix PUBLISHED ngoài baseline cho khớp permalink thật (dạng lỗi đã biết `/cm/YYYY/MM/DD/slug/` → `/cm/YYYY-MM-DD[/|-]slug/`; không đổi bài, permalink, URL live; không workflow/cron; bắt buộc `--approval-ref`; lô ≤ 50; backup `reports/qa-audit/matrix-sync/<batch>.json`); Quality gate verify mọi backup matrix-sync được thêm/sửa.
 
 Ngày chốt: 2026-10-02 (port kiến trúc /vanchinh hoàn chỉnh). Lịch sử:
 bản 4-workflow (quality-gate + factory-production + factory-liveness +
