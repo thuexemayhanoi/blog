@@ -7,7 +7,7 @@ description: "Xe đạp điện đi ngõ nhỏ khu tập thể cũ ở Hà Nội
 categories: [Kinh nghiệm]
 lang: vi
 tags: [xe đạp điện đi ngõ nhỏ, đạp xe điện khu tập thể cũ, chạy xe trong ngõ hẹp Hà Nội, nhường người đi bộ, an toàn giao thông]
-permalink: /xe-may/2026/10/11/len-vao-ngo-nho-khu-tap-the-cu-bang-xe-ap-ien-re-tranh-dung-sao-cho-gon/
+permalink: /xe-may/2026/10/11/len-vao-ngo-nho-khu-tap-the-cu-bang-xe-dap-dien-re-tranh-dung-sao-cho-gon/
 parent_id: P-XE-MAY
 child_id: C-XE-DAP-DIEN
 article_id: BLG-02545

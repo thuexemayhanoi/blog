@@ -7,7 +7,7 @@ description: "Cốp Honda Air Blade chứa gì khi đi cả ngày ở Hà Nội?
 categories: [Kinh nghiệm]
 lang: vi
 tags: [cốp Honda Air Blade chứa gì, cốp Air Blade có rộng không, để đồ khi đi Air Blade, đồ mang theo khi thuê xe máy, kinh nghiệm thuê xe máy]
-permalink: /xe-may/2026/10/11/cop-honda-air-blade-thue-chua-uoc-gi-va-o-nao-nen-e-cho-khac/
+permalink: /xe-may/2026/10/11/cop-honda-air-blade-thue-chua-duoc-gi-va-do-nao-nen-de-cho-khac/
 parent_id: P-XE-MAY
 child_id: C-HONDA-AIR-BLADE
 article_id: BLG-02551

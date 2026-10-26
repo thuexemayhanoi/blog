@@ -7,7 +7,7 @@ description: "Đạp xe điện giờ cao điểm ở Hà Nội: chọn khung gi
 categories: [Kinh nghiệm]
 lang: vi
 tags: [đạp xe điện giờ cao điểm, xe đạp điện tránh tắc đường, giờ cao điểm Hà Nội đi xe gì, nút giao đông xe, xe đạp điện]
-permalink: /xe-may/2026/10/11/ha-noi-gio-cao-iem-ap-xe-ien-luc-nao-uong-nao-o-tac/
+permalink: /xe-may/2026/10/11/ha-noi-gio-cao-diem-dap-xe-dien-luc-nao-duong-nao-do-tac/
 parent_id: P-XE-MAY
 child_id: C-XE-DAP-DIEN
 article_id: BLG-02544

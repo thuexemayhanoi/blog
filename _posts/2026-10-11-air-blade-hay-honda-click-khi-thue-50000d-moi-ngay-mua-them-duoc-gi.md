@@ -7,7 +7,7 @@ description: "Thuê Air Blade hay Click khi chênh 50 nghìn đồng mỗi ngày
 categories: [Kinh nghiệm]
 lang: vi
 tags: [thuê Air Blade hay Click, Air Blade và Honda Click khác nhau, chênh giá Air Blade Click, so sánh xe ga, thuê xe máy Hà Nội]
-permalink: /xe-may/2026/10/11/air-blade-hay-honda-click-khi-thue-50000-moi-ngay-mua-them-uoc-gi/
+permalink: /xe-may/2026/10/11/air-blade-hay-honda-click-khi-thue-50000d-moi-ngay-mua-them-duoc-gi/
 parent_id: P-XE-MAY
 child_id: C-HONDA-AIR-BLADE
 article_id: BLG-02548
