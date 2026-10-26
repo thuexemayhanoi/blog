@@ -5,9 +5,9 @@ C-BAO-DUONG:
 - t: Thuê xe máy khi xe nhà đang bảo dưỡng
   u: /kinh nghiệm/2026/09/19/thue-xe-may-khi-xe-nha-dang-bao-duong/
 - t: Bảo dưỡng định kỳ xe máy gồm những gì
-  u: /xe-may/2026/09/27/bao-duong-inh-ky-xe-may-gom-nhung-gi/
+  u: /xe-may/2026/09/27/bao-duong-dinh-ky-xe-may-gom-nhung-gi/
 - t: Dầu máy xe máy đổi sau bao lâu
-  u: /xe-may/2026/09/27/dau-may-xe-may-oi-sau-bao-lau/
+  u: /xe-may/2026/09/27/dau-may-xe-may-doi-sau-bao-lau/
 - t: Xe thuê lâu ngày không bảo dưỡng có sao không
   u: /xe-may/2026/10/07/xe-thue-lau-ngay-khong-bao-duong-co-sao-khong/
 - t: Lốp xe máy khi nào cần thay
@@ -160,7 +160,7 @@ C-HONDA-VISION:
 - t: Honda Vision hợp với ai khi thuê
   u: /xe-may/2026/09/27/honda-vision-hop-voi-ai-khi-thue/
 - t: 'Honda Vision đi phố: nhẹ và tiện thế nào'
-  u: /xe-may/2026/09/27/honda-vision-i-pho-nhe-va-tien-the-nao/
+  u: /xe-may/2026/09/27/honda-vision-di-pho-nhe-va-tien-the-nao/
 - t: Honda Vision chở người ngồi sau vững tay
   u: /xe-may/2026/10/10/honda-vision-cho-nguoi-ngoi-sau-vung-tay/
 - t: Honda Vision với nữ giới đi làm hằng ngày
@@ -242,9 +242,9 @@ C-QUY-DINH:
   u: /an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/
 C-THUE-DAT-COC:
 - t: Đặt cọc khi thuê xe máy hoạt động thế nào
-  u: /thue-xe/2026/09/27/at-coc-khi-thue-xe-may-hoat-ong-the-nao/
+  u: /thue-xe/2026/09/27/dat-coc-khi-thue-xe-may-hoat-dong-the-nao/
 - t: 'Đặt cọc khi thuê xe máy: cần hỏi rõ điều gì'
-  u: /thue-xe/2026/09/27/at-coc-khi-thue-xe-may-can-hoi-ro-ieu-gi/
+  u: /thue-xe/2026/09/27/dat-coc-khi-thue-xe-may-can-hoi-ro-dieu-gi/
 - t: 'Tiền đặt cọc khi thuê xe máy ở Hà Nội: cần biết gì trước khi đưa tiền'
   u: /kinh nghiệm/2026/09/17/tien-dat-coc-khi-thue-xe-may-o-ha-noi/
 - t: Đặt cọc qua ví điện tử khi thuê xe máy
@@ -275,7 +275,7 @@ C-THUE-DOI-TUONG:
   u: /thue-xe/2026/10/04/thue-xe-may-cho-nguoi-giao-bao-sang-som/
 C-THUE-GIA:
 - t: Giá thuê xe máy điện ở Hà Nội
-  u: /thue-xe/2026/09/27/gia-thue-xe-may-ien-o-ha-noi/
+  u: /thue-xe/2026/09/27/gia-thue-xe-may-dien-o-ha-noi/
 - t: Giá thuê xe máy 24 giờ tính một ngày thế nào
   u: /thue-xe/2026/10/07/gia-thue-xe-may-24-gio-tinh-mot-ngay-the-nao/
 - t: Giá thuê xe máy dịp lễ tết có thay đổi không
@@ -369,23 +369,23 @@ C-XE-50CC:
 - t: Xe 50cc với người chưa từng lái xe
   u: /xe-may/2026/09/27/xe-50cc-voi-nguoi-chua-tung-lai-xe/
 - t: Xe 50cc là gì và đi được những đâu
-  u: /xe-may/2026/09/27/xe-50cc-la-gi-va-i-uoc-nhung-au/
+  u: /xe-may/2026/09/27/xe-50cc-la-gi-va-di-duoc-nhung-dau/
 - t: 'Xe 50cc nhẹ dễ đổ khi dựng: chọn chỗ đỗ, chống nghiêng và chống đứng'
   u: /xe-may/2026/10/11/xe-50cc-nhe-de-do-khi-dung-chon-cho-do-chong-nghieng-va-chong-dung/
 C-XE-DAP-DIEN:
 - t: Xe đạp điện có cần bằng lái không
-  u: /xe-may/2026/09/27/xe-ap-ien-co-can-bang-lai-khong/
+  u: /xe-may/2026/09/27/xe-dap-dien-co-can-bang-lai-khong/
 - t: Xe đạp điện cho học sinh sinh viên
-  u: /xe-may/2026/09/27/xe-ap-ien-cho-hoc-sinh-sinh-vien/
+  u: /xe-may/2026/09/27/xe-dap-dien-cho-hoc-sinh-sinh-vien/
 - t: Xe đạp điện khác gì xe máy điện
-  u: /xe-may/2026/09/27/xe-ap-ien-khac-gi-xe-may-ien/
+  u: /xe-may/2026/09/27/xe-dap-dien-khac-gi-xe-may-dien/
 - t: Xe đạp điện và đường ổ gà ven đô
   u: /xe-may/2026/10/03/xe-ap-ien-va-uong-o-ga-ven-o/
 - t: Xe đạp điện chở giỏ rau sáng sớm
   u: /xe-may/2026/10/03/xe-ap-ien-cho-gio-rau-sang-som/
 C-XE-DIEN:
 - t: 'Xe máy điện với xe xăng: chọn nào khi thuê'
-  u: /xe-may/2026/09/27/xe-may-ien-voi-xe-xang-chon-nao-khi-thue/
+  u: /xe-may/2026/09/27/xe-may-dien-voi-xe-xang-chon-nao-khi-thue/
 - t: Xe máy điện thuê có ồn khi chạy đêm không
   u: /xe-may/2026/10/09/xe-may-dien-thue-co-on-khi-chay-dem-khong/
 - t: 'Xe máy điện chạy đường đê dài: tính pin thế nào'
@@ -447,7 +447,7 @@ C-XE-SO-SANH:
   u: /xe-may/2026/09/30/so-sanh-sirius-va-wave-khi-thue-e-i-xa/
 C-YAMAHA-SIRIUS:
 - t: Yamaha Sirius khi nào đáng thuê
-  u: /xe-may/2026/09/27/yamaha-sirius-khi-nao-ang-thue/
+  u: /xe-may/2026/09/27/yamaha-sirius-khi-nao-dang-thue/
 - t: 'Yamaha Sirius với Honda Wave: chọn nào'
   u: /xe-may/2026/09/27/yamaha-sirius-voi-honda-wave-chon-nao/
 - t: Yamaha Sirius thuê chở nặng có ổn không
