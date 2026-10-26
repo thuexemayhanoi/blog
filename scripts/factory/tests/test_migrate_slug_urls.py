@@ -71,11 +71,14 @@ class MigrateBase(FxTestCase):
         return c
 
     def intact_candidates(self, n):
-        """n ID baseline còn evidence nguyên vẹn VÀ derive() thành công (đủ điều kiện)."""
+        """n ID baseline CHƯA di trú, evidence nguyên vẹn (đo trên byte hiện tại) VÀ derive() thành công (đủ điều kiện).
+        Lọc rẻ trước (registry, hash) rồi mới dựng ngữ cảnh + chấm điểm: mỗi lô di trú thêm 50 ID vào registry, nếu dựng ngữ cảnh cho
+        cả ID đã di trú thì suite chậm dần theo số lô (đã chạm timeout 1500s của run-tests.py)."""
         c = M.make_ctx(self.root, 'x', 'probe')
         out = []
         for aid, b in sorted(c.baseline.items()):
-            if b['qa_evidence_intact'] != 'yes':
+            row = c.by_id.get(aid)
+            if aid in c.registry or row is None or row['status'] != 'PUBLISHED' or not self._intact(aid, row):
                 continue
             self.focus.add(aid)
             try:
@@ -87,6 +90,14 @@ class MigrateBase(FxTestCase):
             if len(out) == n:
                 return out
         self.skipTest('fixture khong du bai du dieu kien')
+
+    def _intact(self, aid, row):
+        ev_p, post_p = self.root / 'data/qa' / (aid + '.json'), self.root / (row.get('output_path') or '-')
+        if not ev_p.is_file() or not post_p.is_file():
+            return False
+        ev = json.loads(ev_p.read_text(encoding='utf-8'))
+        return (ev.get('content_sha256') == sha(post_p.read_bytes()) and ev.get('matrix_row_sha256') == A.fingerprint(row)
+                and ev.get('result') == 'PASS')
 
     def manifest(self, ids):
         m = M.make_plan(self.ctx(), ids)
@@ -167,9 +178,12 @@ class TestHelpers(unittest.TestCase):
 class TestPlan(MigrateBase):
 
     def test_01_plan_classifies_and_writes_nothing(self):
-        good = self.intact_candidates(2)
-        base = M.make_ctx(self.root, 'x', 'p').baseline
-        drifted = next(a for a, b in sorted(base.items()) if b['qa_evidence_intact'] != 'yes')
+        three = self.intact_candidates(3)
+        good, drifted = three[:2], three[2]
+        # Ca "evidence lệch hash" dựng trong fixture (bài đổi một byte sau QA), không dựa vào cờ đóng băng của baseline:
+        # bài lệch hash thật được reattest dần nên không còn là ca lệch ổn định.
+        p = self.root / self.row(drifted)['output_path']
+        R.atomic_write(p, p.read_bytes() + b'\n')
         guard = tree_hashes(self.root, WATCH)
         for a in good + [drifted]:
             self.focus.add(a)
@@ -561,7 +575,9 @@ class TestMatrixAndData(MigrateBase):
         # bài nguyên vẹn có URL cũ nằm trong seo-leads.yml / legal-notices.json (nếu có)
         pick = None
         for aid, b in sorted(c.baseline.items()):
-            if b['qa_evidence_intact'] == 'yes' and any(b['old_url'] in t for t in data.values()):
+            if aid in c.registry or aid not in c.by_id or not self._intact(aid, c.by_id[aid]):
+                continue
+            if any(b['old_url'] in t for t in data.values()):
                 pick = aid
                 break
         if pick is None:
