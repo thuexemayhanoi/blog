@@ -134,6 +134,13 @@ def borrow_planned_row(fx, count=1, skip_ids=None, where=None):
     if need <= 0:
         return
     skip = set(skip_ids or ())
+    # Bài đã di trú slug (Issue #77) có mục trong slug-redirect-registry;
+    # validate.py buộc mục registry trỏ hàng PUBLISHED — mượn hàng đó về
+    # PLANNED làm validate FAIL ngoài ý muốn test.
+    reg = os.path.join(fx, 'reports/factory/seo-master/slug-redirect-registry.csv')
+    if os.path.exists(reg):
+        with open(reg, encoding='utf-8', newline='') as f:
+            skip.update(r['article_id'] for r in csv.DictReader(f))
     cp = cp_json(fx, 'data/state/checkpoint.json')
     cands = [x for x in rows
              if x['status'] == 'PUBLISHED'
