@@ -121,6 +121,7 @@ thật mới, KHÔNG filler, KHÔNG báo SUCCESS giả. Hồi quy:
 Slug/URL bài chỉ do `scripts/factory/slugkit.py` sinh (đ→d, NFC, ASCII; xem `docs/SLUG-URL-POLICY.md`); không tự viết `slugify` mới (test quét mã nguồn).
 `validate.py` mục `slug_policy` từ chối hàng factory có slug khác `slugify(title)` (ngoại lệ lịch sử duy nhất: danh sách đóng băng `slug-d-baseline.csv` chưa di trú).
 KHÔNG sửa tay `permalink` của bài PUBLISHED: chỉ `scripts/factory/migrate-slug-urls.py` (plan/apply/verify/rollback, lô ≤ 50, `--approval-ref`, evidence chấm lại độc lập).
+Hàng matrix PUBLISHED lệch permalink thật (dạng `/cm/YYYY/MM/DD/slug/` so với `/cm/YYYY-MM-DD[/|-]slug/`): hàng thuộc baseline đ→d do `migrate-slug-urls.py` sửa khi di trú; hàng NGOÀI baseline chỉ sửa bằng `scripts/factory/sync-matrix-urls.py` (plan/apply/verify/rollback, lô ≤ 50, `--approval-ref`; không đổi bài/permalink). Evidence lệch hash: PR reattest riêng, merge trước, rồi mới chạy di trú/đồng bộ. Không sửa tay matrix.
 URL cũ của bài đã di trú là trang HTTP 200 + meta refresh 0s + canonical (`redirects/slug-d/`, sinh từ registry) — KHÔNG phải HTTP 301 và không được gọi là 301.
 Bài mới không được link vào URL cũ đã di trú (gate `check-slug-redirects.py` có ngưỡng ratchet chỉ giảm).
 
