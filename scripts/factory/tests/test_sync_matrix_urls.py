@@ -499,5 +499,211 @@ class TestVerifyRollback(SyncBase):
             self.assertEqual(e.exception.code, 'BAD_BACKUP')
 
 
+class TestGuards(SyncBase):
+    """Mỗi rào của derive/prepare/apply/verify/rollback có một test đỏ khi rào bị gỡ (review độc lập 2026-10-26)."""
+
+    def code(self, aid, ctx=None):
+        try:
+            S.derive(ctx or self.ctx(), aid)
+        except R.Refuse as e:
+            return e.code
+        return 'ELIGIBLE'
+
+    def write_ev(self, aid, ev):
+        (self.root / 'data/qa' / (aid + '.json')).write_text(R.evidence_text(ev), encoding='utf-8')
+
+    def patch_scores(self, aid, mutate_after):
+        """Bọc scorer: đầu ra cho HÀNG MỚI (URL = permalink thật, không còn dạng /YYYY/MM/DD/) của `aid` bị `mutate_after` sửa."""
+        real = R.score_candidate
+
+        def fake(ctx, row, post):
+            out = real(ctx, row, post)
+            if row['id'] == aid and S.real_shapes(row['expected_url']) == ():
+                out = mutate_after(dict(out, checks=dict(out.get('checks', {}))))
+            return out
+        R.score_candidate = fake
+        self.addCleanup(setattr, R, 'score_candidate', real)
+
+    def test_01_evidence_must_be_bound_and_pass(self):
+        aid = list(self.defects(1))[0]
+        good = self.evidence(aid)
+        self.write_ev(aid, dict(good, matrix_row_sha256='0' * 64))
+        self.assertEqual(self.code(aid), 'EVIDENCE_NOT_INTACT')
+        self.write_ev(aid, dict(good, result='FAIL'))
+        self.assertEqual(self.code(aid), 'EVIDENCE_NOT_INTACT')
+        self.write_ev(aid, dict(good, source_path='_posts/khac.md'))
+        self.assertEqual(self.code(aid), 'EVIDENCE_NOT_INTACT')
+        self.write_ev(aid, good)
+        self.assertEqual(self.code(aid), 'ELIGIBLE')
+
+    def setUp(self):
+        super().setUp()
+        self._real = R.score_candidate
+        self.addCleanup(setattr, R, 'score_candidate', self._real)
+
+    def test_02_fresh_score_below_floor(self):
+        aid = list(self.defects(1))[0]
+        for mutate in (lambda o: dict(o, quality=74), lambda o: dict(o, seo=69), lambda o: dict(o, business_fact='FAIL'),
+                       lambda o: dict(o, critical_failure=True), lambda o: dict(o, legal='FAIL')):
+            R.score_candidate = self._real
+            self.patch_scores(aid, mutate)
+            self.assertEqual(self.code(aid), 'FRESH_QA_NOT_ELIGIBLE')
+
+    def test_03_regression_of_any_passing_check(self):
+        aid = list(self.defects(1))[0]
+        row = self.row(aid)
+        before = self._real(self.ctx(), row, (self.root / row['output_path']).read_bytes())
+        k = next(k for k, v in sorted(before['checks'].items()) if v and k != 'permalink_canonical')
+
+        def flip(o):
+            o['checks'][k] = False
+            return o
+        self.patch_scores(aid, flip)
+        self.assertEqual(self.code(aid), 'REGRESSION')
+        if before['quality'] > 75:
+            R.score_candidate = self._real
+            self.patch_scores(aid, lambda o: dict(o, quality=before['quality'] - 1))
+            self.assertEqual(self.code(aid), 'REGRESSION')
+
+    def test_04_permalink_must_be_canonical_and_single(self):
+        aid = list(self.defects(1))[0]
+        self.patch_scores(aid, lambda o: dict(o, checks=dict(o['checks'], permalink_canonical=False)))
+        self.assertEqual(self.code(aid), 'PERMALINK_NOT_CANONICAL')
+        R.score_candidate = self._real
+        self.assertEqual(self.code(aid), 'ELIGIBLE')
+        # khoá permalink thứ hai (có khoảng trắng cuối: front_permalink bỏ qua, YAML/Jekyll lấy khoá sau) -> từ chối, không đoán
+        p = self.root / self.row(aid)['output_path']
+        text = p.read_text(encoding='utf-8')
+        end = text.index('\n---\n', 4)
+        R.atomic_write(p, (text[:end] + '\npermalink: /xe-may/trang-khac-han/ ' + text[end:]).encode('utf-8'))
+        self.seal(aid)
+        self.assertEqual(self.code(aid), 'PERMALINK_LINE')
+
+    def test_05_batch_id_is_never_overwritten(self):
+        a, b = list(self.defects(2))
+        m = self.manifest([a, b])
+        rep = self.apply(m, [a], batch='dup')
+        first = (self.root / rep['backup']).read_bytes()
+        guard = tree_hashes(self.root, WATCH)
+        with self.assertRaises(R.Refuse) as e:
+            self.apply(m, [b], batch='dup')
+        self.assertEqual(e.exception.code, 'BATCH_EXISTS')
+        self.assertEqual((self.root / rep['backup']).read_bytes(), first)
+        self.assertEqual(tree_hashes(self.root, WATCH), guard)
+
+    def test_06_inputs_changed_since_plan(self):
+        a, b, c = list(self.defects(3))
+        m = self.manifest([a, b, c])
+        ev = self.evidence(a)
+        ev['ghi_chu_moi'] = 'evidence doi sau plan'                 # vẫn nguyên vẹn (hash bài/hàng khớp) nhưng khác bản đã plan
+        self.write_ev(a, ev)
+        pb = self.root / self.row(b)['output_path']
+        R.atomic_write(pb, pb.read_bytes() + b'\n')
+        self.seal(b)                                                   # bài đổi + evidence chấm lại: derive vẫn qua, prepare phải chặn
+        m2 = json.loads(json.dumps(m))
+        m2['entries'][c]['after'] = dict(m2['entries'][c]['after'], quality=1)
+        for aid, man, code in ((a, m, 'EVIDENCE_CHANGED_SINCE_PLAN'), (b, m, 'POST_CHANGED_SINCE_PLAN'),
+                               (c, m2, 'INPUT_CHANGED_SINCE_PLAN')):
+            guard = tree_hashes(self.root, WATCH)
+            with self.assertRaises(R.Refuse) as e:
+                self.apply(man, [aid], batch='chg-' + aid)
+            self.assertEqual(e.exception.code, code, aid)
+            self.assertEqual(tree_hashes(self.root, WATCH), guard)
+
+    def forged(self, aid, backup, change):
+        """Sửa evidence đã ghi VÀ cập nhật new_evidence_sha256 trong sao lưu cho khớp: verify phải bắt bằng kiểm sâu, không nhờ sha."""
+        p = self.root / 'data/qa' / (aid + '.json')
+        ev = json.loads(p.read_text(encoding='utf-8'))
+        change(ev)
+        raw = R.evidence_text(ev).encode('utf-8')
+        p.write_bytes(raw)
+        b = json.loads(json.dumps(backup))
+        b['entries'][aid]['new_evidence_sha256'] = sha(raw)
+        return b
+
+    def test_07_verify_deep_checks_with_consistent_sha(self):
+        ids = list(self.defects(1))
+        a = ids[0]
+        rep = self.apply(self.manifest(ids), ids)
+        backup = json.loads((self.root / rep['backup']).read_text(encoding='utf-8'))
+        good = (self.root / 'data/qa' / (a + '.json')).read_bytes()
+        cases = (('rescore', lambda ev: ev.update(seo=ev['seo'] - 1)),
+                 ('provenance', lambda ev: ev['revision'].update(approval_ref='')),
+                 ('provenance', lambda ev: ev['revision'].update(old_matrix_url='/khac/')),
+                 ('nguong', lambda ev: ev.update(quality=10)),
+                 ('permalink_canonical', lambda ev: ev['checks'].update(permalink_canonical=False)),
+                 ('lich su', lambda ev: ev.update(scored_at='2099-01-01T00:00:00+00:00')))
+        for want, change in cases:
+            b = self.forged(a, backup, change)
+            problems = S.verify_backup(self.ctx(), b, rescore=True)
+            self.assertTrue(problems, want)
+            (self.root / 'data/qa' / (a + '.json')).write_bytes(good)
+        self.assertEqual(S.verify_backup(self.ctx(), backup, rescore=True), [])
+
+    def test_08_cli_verify_exit_code_drives_the_gate(self):
+        import subprocess
+        ids = list(self.defects(1))
+        rep = self.apply(self.manifest(ids), ids)
+        tool = self.root / 'scripts/factory/sync-matrix-urls.py'
+        run = lambda: subprocess.run([sys.executable, str(tool), 'verify', '--backup', rep['backup'], '--no-rescore'],
+                                     cwd=str(self.root), capture_output=True, text=True)
+        r = run()
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        p = self.root / 'data/qa' / (ids[0] + '.json')
+        p.write_bytes(p.read_bytes() + b' ')
+        r = run()
+        self.assertEqual(r.returncode, 1, r.stdout)
+        self.assertFalse(json.loads(r.stdout)['ok'])
+
+    def test_09_backup_rows_are_anchored(self):
+        ids = list(self.defects(1))
+        a = ids[0]
+        rep = self.apply(self.manifest(ids), ids)
+        backup = json.loads((self.root / rep['backup']).read_text(encoding='utf-8'))
+        guard = tree_hashes(self.root, WATCH)
+        for mutate in (lambda e: e['old_row'].update(expected_url='/fake/url/', canonical_url='/fake/url/'),
+                       lambda e: e.update(old_matrix_url='/fake/url/'),
+                       lambda e: e['new_row'].update(expected_url='/x/', canonical_url='/x/'),
+                       lambda e: e.update(post_sha256='0' * 64),
+                       lambda e: e.update(old_evidence_text=e['old_evidence_text'] + ' ')):
+            bad = json.loads(json.dumps(backup))
+            mutate(bad['entries'][a])
+            with self.assertRaises(R.Refuse) as e:
+                S.rollback_backup(self.root, bad)
+            self.assertEqual(e.exception.code, 'BAD_BACKUP')
+            with self.assertRaises(R.Refuse):
+                S.verify_backup(self.ctx(), bad)
+        self.assertEqual(tree_hashes(self.root, WATCH), guard, 'sao luu bi sua tay: khong ghi gi')
+
+    def test_10_abort_after_unrelated_matrix_write_is_not_partial(self):
+        ids = list(self.defects(2))
+        m = self.manifest(ids)
+        mx = self.root / S.MATRIX_REL
+        other = next(r for r in matrix_rows(self.fx) if r['id'] not in ids and r['status'] == 'PUBLISHED')
+        real_write = S.atomic_write
+        last = 'data/qa/%s.json' % sorted(ids)[-1]
+
+        def racing(path, data):
+            real_write(path, data)
+            if str(path).endswith(last):                              # một tiến trình khác sửa hàng KHÁC đúng lúc này
+                real_write(mx, mx.read_bytes().replace(other['title'].encode('utf-8'), other['title'].encode('utf-8') + b' (sua)', 1))
+        S.atomic_write = racing
+        try:
+            with self.assertRaises(R.Refuse) as e:
+                self.apply(m, ids)
+        finally:
+            S.atomic_write = real_write
+        self.assertEqual(e.exception.code, 'FILES_CHANGED_DURING_APPLY')
+        self.assertFalse((self.root / S.BACKUP_DIR / 'test-sync.json').exists(), 'khong giu sao luu khi moi evidence da ve byte cu')
+        for aid in ids:
+            self.assertEqual(self.evidence(aid).get('revision', {}).get('kind'), None)
+        self.assertIn((other['title'] + ' (sua)').encode('utf-8'), mx.read_bytes(), 'khong de thay doi cua tien trinh khac')
+
+    def test_11_quality_gate_verifies_matrix_sync_backups(self):
+        wf = (pathlib.Path(__file__).resolve().parents[3] / '.github/workflows/quality-gate.yml').read_text(encoding='utf-8')
+        self.assertIn('reports/qa-audit/matrix-sync/*.json)', wf)
+        self.assertIn('python3 scripts/factory/sync-matrix-urls.py verify --backup "$f"', wf)
+
+
 if __name__ == '__main__':
     unittest.main()

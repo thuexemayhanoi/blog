@@ -93,9 +93,17 @@ Trên 5.664 bài PUBLISHED, đúng **50 hàng** ghi `expected_url`/`canonical_ur
 `/<cm>/YYYY-MM-DD/<slug>/` (BLG-00820…00854) hoặc `/<cm>/YYYY-MM-DD-<slug>/` (BLG-00855…00869); 5.614 hàng còn lại khớp. **Không đổi permalink** (URL đang hoạt động, đã được index): sửa matrix cho khớp URL thật.
 
 - **36 hàng thuộc baseline đ→d**: `migrate-slug-urls.py` sửa matrix cùng lúc đổi URL (`matrix_url_drift`, `matrix_url_drift_fixed` trong provenance) sau khi evidence được reattest.
-- **14 hàng ngoài baseline** (BLG-00822, 00832, 00844, 00845, 00847, 00853, 00857, 00858, 00859, 00860, 00861, 00863, 00864, 00869; slug không mất chữ đ): công cụ `scripts/factory/sync-matrix-urls.py`
-  (`plan` → `apply --approval-ref ... --ids ... --batch-id ...` → `verify` → `rollback`). Điều kiện bắt buộc, tool tự kiểm: hàng PUBLISHED, evidence NGUYÊN VẸN (hash lệch ⇒ `reattest-legacy-qa.py` trước), không lease/draft,
-  đúng dạng lỗi đã biết (dạng khác ⇒ `MATRIX_URL_UNKNOWN_SHAPE`, không đoán), permalink thật là của đúng bài này (hàng matrix/bài/registry khác dùng ⇒ `URL_COLLISION`), chấm lại độc lập ≥ 75/70, không tiêu chí nào tụt.
+- **14 hàng ngoài baseline** (BLG-00822, 00832, 00844, 00845, 00847, 00853, 00857, 00858, 00859, 00860, 00861, 00863, 00864, 00869; slug không mất chữ đ): công cụ `scripts/factory/sync-matrix-urls.py`:
+  ```
+  python3 scripts/factory/sync-matrix-urls.py plan --ids BLG-…,BLG-… --out /tmp/sync-manifest.json
+  python3 scripts/factory/sync-matrix-urls.py apply --manifest /tmp/sync-manifest.json --approval-ref "<người duyệt/ngày>" --ids BLG-…,BLG-… --batch-id matrix-sync-YYYYMMDD-NN
+  python3 scripts/factory/sync-matrix-urls.py verify --backup reports/qa-audit/matrix-sync/<batch>.json
+  python3 scripts/factory/sync-matrix-urls.py rollback --backup reports/qa-audit/matrix-sync/<batch>.json [--ids …] [--dry-run]
+  ```
+  Điều kiện bắt buộc, tool tự kiểm: hàng PUBLISHED, evidence NGUYÊN VẸN, không lease/draft, đúng dạng lỗi đã biết (dạng khác ⇒ `MATRIX_URL_UNKNOWN_SHAPE`, không đoán), front matter có ĐÚNG một khoá `permalink` (`PERMALINK_LINE`),
+  permalink thật là của đúng bài này (hàng matrix/bài/registry khác dùng ⇒ `URL_COLLISION`), chấm lại độc lập ≥ 75/70, scorer xác nhận `permalink_canonical` (`PERMALINK_NOT_CANONICAL`), không tiêu chí nào tụt.
+- **Evidence lệch hash (cả 36 hàng baseline lẫn 12/14 hàng ngoài baseline)**: chạy `reattest-legacy-qa.py` thành **PR chỉ-evidence riêng, merge (gate xanh) TRƯỚC**, rồi mới `plan/apply` di trú hoặc đồng bộ matrix ở PR sau.
+  Không gộp hai bước trong một PR/push: bước sau ghi lại evidence mà sao lưu reattest đã ghi nhận, nên bước gate `reattest-legacy-qa.py verify` của PR gộp sẽ đỏ (`evidence khac ban da ghi`).
   Chỉ ghi 2 cột matrix + evidence (khối `revision` kind `matrix-url-sync`, history giữ khối cũ) + sao lưu `reports/qa-audit/matrix-sync/<batch>.json` (Quality gate verify lại); bài/redirects/registry không đổi byte.
 
 ## Rollback

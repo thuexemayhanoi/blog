@@ -16,7 +16,8 @@ Một bài chỉ được đồng bộ khi thỏa MỌI điều kiện (tool t�
   3. Không nằm trong lease writer nào, không có draft cùng slug/article_id.
   4. Dạng lỗi ĐÃ BIẾT: expected_url == canonical_url == `/<cm>/YYYY/MM/DD/<slug>/` và permalink thật là MỘT TRONG HAI dạng
      `/<cm>/YYYY-MM-DD/<slug>/` | `/<cm>/YYYY-MM-DD-<slug>/` của cùng ngày/slug. Dạng khác bị từ chối (MATRIX_URL_UNKNOWN_SHAPE), không đoán.
-  5. Permalink thật là của đúng bài này (không hàng matrix nào khác, không bài nào khác, không trang chuyển hướng nào dùng URL đó).
+  5. Permalink thật là của đúng bài này (không hàng matrix nào khác, không bài nào khác, không trang chuyển hướng nào dùng URL đó);
+     front matter có ĐÚNG một khoá `permalink` và scorer xác nhận `checks.permalink_canonical` (permalink == canonical_url mới).
   6. Chấm điểm ĐỘC LẬP trên cùng byte bài + hàng mới bằng scorer canonical (sàn cứng 75/70): PASS, business_fact PASS, legal PASS|NOT_REQUIRED,
      không critical_failure và KHÔNG tiêu chí nào đạt ở bản cũ lại rớt ở bản mới.
   7. Có chủ duyệt (`--approval-ref` bắt buộc, ghi vào provenance) và manifest do `plan` lập.
@@ -74,11 +75,13 @@ SYNC_COLS = ('expected_url', 'canonical_url')
 TOOL_REL = 'scripts/factory/sync-matrix-urls.py'
 SKIPPABLE = ('NOT_PUBLISHED', 'POST_CHANGED_SINCE_PLAN', 'EVIDENCE_CHANGED_SINCE_PLAN', 'INPUT_CHANGED_SINCE_PLAN',
              'EVIDENCE_NOT_INTACT', 'LEASED', 'HAS_DRAFT', 'FRESH_QA_NOT_ELIGIBLE', 'REGRESSION', 'NO_DRIFT',
-             'IN_BASELINE', 'IN_REGISTRY', 'MATRIX_URL_UNKNOWN_SHAPE', 'URL_COLLISION')
+             'IN_BASELINE', 'IN_REGISTRY', 'MATRIX_URL_UNKNOWN_SHAPE', 'URL_COLLISION', 'PERMALINK_LINE',
+             'PERMALINK_NOT_CANONICAL')
 
 MATRIX_DATE_RE = re.compile(r'^/(?P<cat>[a-z0-9][a-z0-9-]*)/(?P<y>\d{4})/(?P<m>\d{2})/(?P<d>\d{2})/(?P<slug>[a-z0-9][a-z0-9-]*)/\Z')
 PERMALINK_SHAPE_RE = re.compile(r'^/[a-z0-9][a-z0-9-]*(?:/[a-z0-9][a-z0-9-]*)+/\Z')
 FRONT_PERMALINK_RE = re.compile(r'^permalink: (\S+)[ \t]*$', re.M)
+PERMALINK_KEY_RE = re.compile(r'^permalink\s*:', re.M)       # mọi khoá permalink (YAML: khoá sau thắng) — phải có ĐÚNG một
 
 
 def real_shapes(matrix_url):
@@ -155,7 +158,10 @@ def derive(ctx, aid, extra=None, score=True):
         raise Refuse('EVIDENCE_NOT_INTACT',
                      '%s: evidence khong khop byte bai/hang matrix hien tai (hash lech, source_path, result) — '
                      'xu ly bang reattest-legacy-qa.py (chu duyet) truoc, khong sua matrix' % aid)
-    permalink = M.front_permalink(M.read_text_exact(post))
+    text = M.read_text_exact(post)
+    permalink = M.front_permalink(text)
+    if len(PERMALINK_KEY_RE.findall(R.split_front(text)[0])) != 1:
+        raise Refuse('PERMALINK_LINE', '%s: front matter co nhieu hon mot khoa permalink — URL Jekyll xuat ban khong chac chan' % aid)
     if not PERMALINK_SHAPE_RE.match(permalink):
         raise Refuse('BAD_URL_SHAPE', '%s: permalink %r khong dung dang /<cm>/.../' % (aid, permalink))
     last, slug = permalink.rstrip('/').rsplit('/', 1)[1], row['slug']
@@ -194,6 +200,8 @@ def derive(ctx, aid, extra=None, score=True):
     if (after.get('content_sha256') != sha(post) or after.get('matrix_row_sha256') != A.fingerprint(new_row)
             or after.get('article_id') != aid or after.get('source_path') != path):
         raise Refuse('FRESH_QA_UNBOUND', '%s: diem cham khong buoc dung byte/hang ung vien' % aid)
+    if after.get('checks', {}).get('permalink_canonical') is not True:
+        raise Refuse('PERMALINK_NOT_CANONICAL', '%s: scorer khong xac nhan permalink trong bai == canonical_url moi (%s)' % (aid, permalink))
     if not R.score_ok(after):
         failed = sorted(k for k, v in after.get('checks', {}).items() if not v)
         raise Refuse('FRESH_QA_NOT_ELIGIBLE', '%s: cham lai doc lap = %s q=%s s=%s (failed_checks=%s) — giu nguyen matrix'
@@ -429,7 +437,7 @@ def _abort_apply(ctx, backup, backup_path, exc, attempted, matrix_old):
         pass
     left = [aid for aid in sorted(a for a in attempted if a != '__shared__')
             if sha((root / 'data/qa' / (aid + '.json')).read_bytes()) != backup['entries'][aid]['old_evidence_sha256']]
-    if (root / MATRIX_REL).read_bytes() != matrix_old:
+    if '__shared__' in attempted and (root / MATRIX_REL).read_bytes() != matrix_old:   # matrix chỉ là việc của lần chạy này khi đã ghi
         left.append('__shared__')
     if left:
         raise Refuse('PARTIAL_APPLY_BACKUP_KEPT',
@@ -457,6 +465,17 @@ def check_backup_shape(backup):
             raise Refuse('BAD_BACKUP', '%s: thieu old_row/new_row' % aid)
         if {k: v for k, v in b['old_row'].items() if k not in SYNC_COLS} != {k: v for k, v in b['new_row'].items() if k not in SYNC_COLS}:
             raise Refuse('BAD_BACKUP', '%s: old_row/new_row khac nhau o cot ngoai %s' % (aid, SYNC_COLS))
+        # neo old_row/new_row vào chính evidence cũ (đã băm) và các URL đã ghi nhận: sao lưu bị sửa tay không lọt qua verify/rollback
+        if sha(b['old_evidence_text'].encode('utf-8')) != b['old_evidence_sha256']:
+            raise Refuse('BAD_BACKUP', '%s: old_evidence_text khong khop old_evidence_sha256' % aid)
+        try:
+            old_ev = json.loads(b['old_evidence_text'])
+        except ValueError:
+            raise Refuse('BAD_BACKUP', '%s: old_evidence_text khong phai JSON' % aid)
+        if any(b['old_row'].get(c) != b['old_matrix_url'] for c in SYNC_COLS) or any(b['new_row'].get(c) != b['permalink'] for c in SYNC_COLS):
+            raise Refuse('BAD_BACKUP', '%s: cot URL cua old_row/new_row khac old_matrix_url/permalink da ghi nhan' % aid)
+        if A.fingerprint(b['old_row']) != old_ev.get('matrix_row_sha256') or b['post_sha256'] != old_ev.get('content_sha256'):
+            raise Refuse('BAD_BACKUP', '%s: old_row/post_sha256 khong khop evidence cu' % aid)
 
 
 def verify_backup(ctx, backup, rescore=True):
@@ -500,6 +519,8 @@ def verify_backup(ctx, backup, rescore=True):
             problems.append('%s: source_path/article_id trong evidence sai' % aid)
         if not R.score_ok(ev):
             problems.append('%s: diem/cong QA khong dat nguong' % aid)
+        if ev.get('checks', {}).get('permalink_canonical') is not True:
+            problems.append('%s: scorer khong xac nhan permalink == canonical_url (checks.permalink_canonical)' % aid)
         rev = ev.get('revision') or {}
         if (b['old_evidence_sha256'] != sha(b['old_evidence_text'].encode('utf-8')) or rev.get('kind') != KIND
                 or rev.get('previous_evidence_sha256') != b['old_evidence_sha256']
