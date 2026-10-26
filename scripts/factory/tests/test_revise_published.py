@@ -67,6 +67,18 @@ def safe_edit(text):
     return None
 
 
+def second_edit(text):
+    """Một sửa vô hại KHÁC (đánh dấu "(lần hai)") trên bản đã sửa lần một; None nếu bài không có câu phù hợp."""
+    for m2 in re.finditer(r'^[A-ZÀ-Ỹ][^|*_#\n]{110,330}[.]$', text, re.M):
+        line = m2.group(0)
+        if '](' in line or '{{' in line or '(đã cập nhật)' in line or len(line.split()) > 90:
+            continue
+        old = line[-40:]
+        if text.count(old) == 1:
+            return [{'old': old, 'new': old[:-1] + ' (lần hai)' + old[-1]}]
+    return None
+
+
 class TestEditPrimitives(unittest.TestCase):
     """Phần thuần văn bản: không cần repo."""
     FRONT = '---\ntitle: "T"\ndescription: "D"\npermalink: /a/\n---\n'
@@ -171,8 +183,9 @@ class ReviseBase(FxTestCase):
         row = next(r for r in matrix_rows(self.fx) if r['id'] == aid)
         return (self.root / row['output_path']).read_text(encoding='utf-8')
 
-    def good_ids(self, n):
-        """n bài PUBLISHED có evidence nguyên vẹn, chấm lại PASS và có một sửa vô hại."""
+    def good_ids(self, n, accept=None):
+        """n bài PUBLISHED có evidence nguyên vẹn, chấm lại PASS và có một sửa vô hại (`accept(văn bản)` lọc thêm nếu có).
+        Chọn theo nội dung bài chứ không theo vị trí: evidence của bài được reattest/di trú dần nên bài đứng đầu đổi theo dữ liệu."""
         c = R.make_ctx(self.root, 'x', None, PURPOSE, REASON)
         out = []
         for row in c.rows:
@@ -188,7 +201,7 @@ class ReviseBase(FxTestCase):
                     or ev.get('source_path') != row['output_path'] or ev.get('result') != 'PASS'):
                 continue
             edits = safe_edit(raw.decode('utf-8'))
-            if not edits:
+            if not edits or (accept is not None and not accept(raw.decode('utf-8'))):
                 continue
             if row['id'] in c_leases(self.root):
                 continue
@@ -393,7 +406,8 @@ class TestApply(ReviseBase):
         self.assertEqual(tree_hashes(self.root, GUARD), guard)
 
     def test_02_rerun_is_noop_and_second_revision_chains_history(self):
-        a, = self.good_ids(1)
+        # cần bài có chỗ cho lần sửa thứ hai SAU lần sửa đầu
+        a, = self.good_ids(1, accept=lambda t: second_edit(R.apply_edits(t, safe_edit(t))[0]) is not None)
         notes = {'post_publish_repair': {'type': 'test', 'note': 'chu thich lich su'}}
         ev = self.evidence(a)
         ev.update(notes)
@@ -409,16 +423,7 @@ class TestApply(ReviseBase):
         self.assertEqual(self.evidence(a), first_ev)
         self.assertFalse((self.root / R.BACKUP_DIR / 'revise-test-rerun.json').exists())
         # sửa lần hai (sửa khác trên bản mới): lịch sử nối chuỗi
-        text = self.post_text(a)
-        edits2 = None
-        for m2 in re.finditer(r'^[A-ZÀ-Ỹ][^|*_#\n]{110,330}[.]$', text, re.M):
-            line = m2.group(0)
-            if '](' in line or '{{' in line or '(đã cập nhật)' in line or len(line.split()) > 90:
-                continue
-            old = line[-40:]
-            if text.count(old) == 1:
-                edits2 = [{'old': old, 'new': old[:-1] + ' (lần hai)' + old[-1]}]
-                break
+        edits2 = second_edit(self.post_text(a))
         self.assertTrue(edits2)
         m_2 = R.make_plan(self.ctx(), self.patches([a], {a: edits2}))
         self.assertEqual(m_2['eligible'], [a])
