@@ -70,14 +70,14 @@
     "TT_SAT_HACH"
    ]
   },
-  "/an-toan-phap-ly/2026/09/28/bang-lai-a1-ieu-khien-xe-may-pham-vi-nao/": {
+  "/an-toan-phap-ly/2026/09/28/bang-lai-a1-dieu-khien-xe-may-pham-vi-nao/": {
    "id": "BLG-00621",
    "codes": [
     "A1_AGE",
     "TT_SAT_HACH"
    ]
   },
-  "/an-toan-phap-ly/2026/09/28/bang-lai-uoc-cap-o-nuoc-ngoai-dung-uoc-khong/": {
+  "/an-toan-phap-ly/2026/09/28/bang-lai-duoc-cap-o-nuoc-ngoai-dung-duoc-khong/": {
    "id": "BLG-00618",
    "codes": [
     "TT_SAT_HACH"
@@ -89,13 +89,13 @@
     "QCVN_2024"
    ]
   },
-  "/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe/": {
+  "/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-di-xe/": {
    "id": "BLG-00642",
    "codes": [
     "QCVN_2024"
    ]
   },
-  "/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-uong-truong/": {
+  "/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-duong-truong/": {
    "id": "BLG-00644",
    "codes": [
     "QCVN_2024"
@@ -113,7 +113,7 @@
     "INS_NO_CARRY"
    ]
   },
-  "/an-toan-phap-ly/2026/09/28/khong-mang-bang-lai-khi-ang-i-xe-co-bi-xu-ly-khong/": {
+  "/an-toan-phap-ly/2026/09/28/khong-mang-bang-lai-khi-dang-di-xe-co-bi-xu-ly-khong/": {
    "id": "BLG-00640",
    "codes": [
     "LICENCE_FINE_SCOPE"
@@ -131,13 +131,13 @@
     "LATE_PENALTY_ARITH"
    ]
   },
-  "/an-toan-phap-ly/2026/09/28/oi-bang-lai-khi-giay-het-han/": {
+  "/an-toan-phap-ly/2026/09/28/doi-bang-lai-khi-giay-het-han/": {
    "id": "BLG-00616",
    "codes": [
     "TT_SAT_HACH"
    ]
   },
-  "/an-toan-phap-ly/2026/09/28/oi-bang-lai-nuoc-ngoai-sang-bang-viet-nam-huong-dan-co-ban/": {
+  "/an-toan-phap-ly/2026/09/28/doi-bang-lai-nuoc-ngoai-sang-bang-viet-nam-huong-dan-co-ban/": {
    "id": "BLG-00622",
    "codes": [
     "TT_SAT_HACH"
@@ -200,7 +200,7 @@
     "A1_AGE"
    ]
   },
-  "/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/": {
+  "/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-khi-di-xe-may-chuan-nao/": {
    "id": "BLG-00634",
    "codes": [
     "HELMET_QCVN_2021"
