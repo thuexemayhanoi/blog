@@ -7,7 +7,7 @@ description: "Nhược điểm Honda Air Blade khi thuê gồm cốp vừa đủ
 categories: [Kinh nghiệm]
 lang: vi
 tags: [nhược điểm Honda Air Blade khi thuê, Air Blade có nhược điểm gì, Air Blade không hợp với ai, chọn xe ga khi thuê, thuê xe máy Hà Nội]
-permalink: /xe-may/2026/10/11/nhuoc-iem-cua-honda-air-blade-khi-thue-nen-biet-truoc-khi-chon-xe/
+permalink: /xe-may/2026/10/11/nhuoc-diem-cua-honda-air-blade-khi-thue-nen-biet-truoc-khi-chon-xe/
 parent_id: P-XE-MAY
 child_id: C-HONDA-AIR-BLADE
 article_id: BLG-02546

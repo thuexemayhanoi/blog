@@ -7,7 +7,7 @@ description: "Giá thuê Air Blade ngày tuần tháng đọc thì dễ, chọn 
 categories: [Kinh nghiệm]
 lang: vi
 tags: [giá thuê Air Blade ngày tuần tháng, thuê Air Blade theo tuần, thuê Air Blade theo tháng, thuê xe máy Hà Nội]
-permalink: /xe-may/2026/10/11/thue-air-blade-ngay-200000-tuan-800000-hay-thang-1400000-chon-goi-nao/
+permalink: /xe-may/2026/10/11/thue-air-blade-ngay-200000d-tuan-800000d-hay-thang-1400000d-chon-goi-nao/
 parent_id: P-XE-MAY
 child_id: C-HONDA-AIR-BLADE
 article_id: BLG-02547

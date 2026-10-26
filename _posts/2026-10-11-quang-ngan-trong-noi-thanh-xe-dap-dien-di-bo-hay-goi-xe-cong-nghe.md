@@ -7,7 +7,7 @@ description: "Xe đạp điện hay đi bộ quãng ngắn trong nội thành H�
 categories: [Kinh nghiệm]
 lang: vi
 tags: [xe đạp điện hay đi bộ quãng ngắn, đi quãng ngắn nội thành Hà Nội, xe đạp điện hay gọi xe công nghệ, xe đạp điện]
-permalink: /xe-may/2026/10/11/quang-ngan-trong-noi-thanh-xe-ap-ien-i-bo-hay-goi-xe-cong-nghe/
+permalink: /xe-may/2026/10/11/quang-ngan-trong-noi-thanh-xe-dap-dien-di-bo-hay-goi-xe-cong-nghe/
 parent_id: P-XE-MAY
 child_id: C-XE-DAP-DIEN
 article_id: BLG-02543

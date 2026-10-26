@@ -7,7 +7,7 @@ description: "Air Blade cho người thấp: cách ngồi thử, xem chân chạ
 categories: [Kinh nghiệm]
 lang: vi
 tags: [Air Blade cho người thấp, Air Blade chân có chạm đất không, người thấp thuê xe ga nào, kiểm tra xe trước khi nhận, thuê xe máy Hà Nội]
-permalink: /xe-may/2026/10/11/honda-air-blade-cho-nguoi-thap-kiem-tra-yen-chan-cham-at-va-cach-dung-xe/
+permalink: /xe-may/2026/10/11/honda-air-blade-cho-nguoi-thap-kiem-tra-yen-chan-cham-dat-va-cach-dung-xe/
 parent_id: P-XE-MAY
 child_id: C-HONDA-AIR-BLADE
 article_id: BLG-02549

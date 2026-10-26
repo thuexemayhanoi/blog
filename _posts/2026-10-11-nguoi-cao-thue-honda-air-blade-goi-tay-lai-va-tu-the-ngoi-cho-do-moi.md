@@ -7,7 +7,7 @@ description: "Người cao thuê Air Blade có thoải mái không? Cách chỉn
 categories: [Kinh nghiệm]
 lang: vi
 tags: [người cao thuê Air Blade, Air Blade cho người cao to, Air Blade có chật chân không, tư thế ngồi xe máy, thuê xe máy Hà Nội]
-permalink: /xe-may/2026/10/11/nguoi-cao-thue-honda-air-blade-goi-tay-lai-va-tu-the-ngoi-cho-o-moi/
+permalink: /xe-may/2026/10/11/nguoi-cao-thue-honda-air-blade-goi-tay-lai-va-tu-the-ngoi-cho-do-moi/
 parent_id: P-XE-MAY
 child_id: C-HONDA-AIR-BLADE
 article_id: BLG-02550

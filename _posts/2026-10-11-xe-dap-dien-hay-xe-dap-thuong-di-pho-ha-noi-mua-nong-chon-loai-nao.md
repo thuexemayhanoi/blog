@@ -7,7 +7,7 @@ description: "Xe đạp điện hay xe đạp thường hợp hơn khi đi phố
 categories: [Kinh nghiệm]
 lang: vi
 tags: [xe đạp điện hay xe đạp thường, xe đạp điện và xe đạp thường, chọn xe đạp đi phố Hà Nội, đạp xe mùa nóng, xe đạp điện]
-permalink: /xe-may/2026/10/11/xe-ap-ien-hay-xe-ap-thuong-i-pho-ha-noi-mua-nong-chon-loai-nao/
+permalink: /xe-may/2026/10/11/xe-dap-dien-hay-xe-dap-thuong-di-pho-ha-noi-mua-nong-chon-loai-nao/
 parent_id: P-XE-MAY
 child_id: C-XE-DAP-DIEN
 article_id: BLG-02542
