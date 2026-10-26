@@ -7,7 +7,7 @@ description: "Xe 50cc chở hai người có được không là thắc mắc ph
 categories: [Kinh nghiệm]
 lang: vi
 tags: ["xe 50cc chở hai người", "chở người trên xe 50cc", "thuê xe máy Hà Nội", "xe 50cc"]
-permalink: /xe-may/2026/10/07/xe-50cc-cho-hai-nguoi-co-uoc-khong/
+permalink: /xe-may/2026/10/07/xe-50cc-cho-hai-nguoi-co-duoc-khong/
 parent_id: P-XE-MAY
 child_id: C-XE-50CC
 article_id: BLG-01549

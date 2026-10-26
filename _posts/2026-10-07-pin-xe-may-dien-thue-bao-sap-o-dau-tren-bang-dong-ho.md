@@ -7,7 +7,7 @@ description: "Pin xe máy điện thuê báo sập ở đâu trên bảng đồn
 categories: [Kinh nghiệm]
 lang: vi
 tags: ["pin xe máy điện thuê báo sập", "đọc đồng hồ pin xe điện", "thuê xe máy Hà Nội", "xe máy điện"]
-permalink: /xe-may/2026/10/07/pin-xe-may-ien-thue-bao-sap-o-au-tren-bang-ong-ho/
+permalink: /xe-may/2026/10/07/pin-xe-may-dien-thue-bao-sap-o-dau-tren-bang-dong-ho/
 parent_id: P-XE-MAY
 child_id: C-XE-DIEN
 article_id: BLG-01551

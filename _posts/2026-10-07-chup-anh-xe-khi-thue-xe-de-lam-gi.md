@@ -7,7 +7,7 @@ author: "Nguyễn Tú"
 categories: [Kinh nghiệm]
 lang: vi
 tags: [chụp ảnh xe khi thuê xe máy, lưu hình xe trước khi thuê, kinh nghiệm thuê xe máy, thuê xe máy Hà Nội]
-permalink: /thue-xe/2026/10/07/chup-anh-xe-khi-thue-xe-e-lam-gi/
+permalink: /thue-xe/2026/10/07/chup-anh-xe-khi-thue-xe-de-lam-gi/
 parent_id: P-THUE-XE
 child_id: C-THUE-NGAY
 article_id: BLG-01526

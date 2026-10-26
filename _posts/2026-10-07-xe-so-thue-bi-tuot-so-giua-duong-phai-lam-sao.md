@@ -7,7 +7,7 @@ author: "Nguyễn Tú"
 categories: [Kinh nghiệm]
 lang: vi
 tags: ["xe số thuê bị tuột số", "tuột số xe máy", "sự cố xe số", "chạy thử xe thuê"]
-permalink: /xe-may/2026/10/07/xe-so-thue-bi-tuot-so-giua-uong-phai-lam-sao/
+permalink: /xe-may/2026/10/07/xe-so-thue-bi-tuot-so-giua-duong-phai-lam-sao/
 parent_id: P-XE-MAY
 child_id: C-XE-SO
 article_id: BLG-01545

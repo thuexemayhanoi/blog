@@ -7,7 +7,7 @@ description: "Thuê xe máy điện đi tỉnh có tiện không còn tùy quãn
 categories: [Kinh nghiệm]
 lang: vi
 tags: ["thuê xe máy điện đi tỉnh", "xe điện chạy đường dài", "thuê xe máy Hà Nội", "xe máy điện"]
-permalink: /xe-may/2026/10/07/thue-xe-may-ien-i-cac-tinh-lan-can-co-tien-khong/
+permalink: /xe-may/2026/10/07/thue-xe-may-dien-di-cac-tinh-lan-can-co-tien-khong/
 parent_id: P-XE-MAY
 child_id: C-XE-DIEN
 article_id: BLG-01550

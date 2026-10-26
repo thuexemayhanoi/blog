@@ -7,7 +7,7 @@ author: "Nguyễn Tú"
 categories: [Kinh nghiệm]
 lang: vi
 tags: [thuê xe máy bằng căn cước gắn chip, CCCD thuê xe máy, giấy tờ thuê xe máy, thuê xe máy Hà Nội]
-permalink: /thue-xe/2026/10/07/thue-xe-may-bang-can-cuoc-gan-chip-co-uoc-khong/
+permalink: /thue-xe/2026/10/07/thue-xe-may-bang-can-cuoc-gan-chip-co-duoc-khong/
 parent_id: P-THUE-XE
 child_id: C-THUE-THU-TUC
 article_id: BLG-01525

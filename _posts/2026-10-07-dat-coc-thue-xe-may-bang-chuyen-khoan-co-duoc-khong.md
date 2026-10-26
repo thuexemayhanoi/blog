@@ -7,7 +7,7 @@ author: "Nguyễn Tú"
 categories: [Kinh nghiệm]
 lang: vi
 tags: [hình thức chuyển khoản đặt cọc xe máy, hình thức cọc thuê xe, đặt cọc thuê xe máy, chuyển khoản giữ chỗ]
-permalink: /thue-xe/2026/10/07/at-coc-thue-xe-may-bang-chuyen-khoan-co-uoc-khong/
+permalink: /thue-xe/2026/10/07/dat-coc-thue-xe-may-bang-chuyen-khoan-co-duoc-khong/
 parent_id: P-THUE-XE
 child_id: C-THUE-DAT-COC
 article_id: BLG-01534
