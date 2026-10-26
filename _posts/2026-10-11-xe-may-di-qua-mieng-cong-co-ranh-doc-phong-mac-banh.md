@@ -16,7 +16,7 @@ writer: W1
 
 Xe máy đi qua rãnh cống dọc nằm sát mép đường là một bẫy im lặng của đường đô thị: miệng cống hở có các thanh rãnh chạy song song với chiều xe, chiều rộng vừa khít bánh trước, và nếu bánh xe máy kẹt rãnh cống ở tốc độ chỉ vừa, tay lái bị giật lệch đột ngột, nhiều vụ ngã chỉ vì thế. Các đoạn như mép đường quanh công trường, hè phố đang đào cáp, hay tuyến ven đê nội thành Hà Nội đều có thể gặp kiểu miệng cống này. Bài viết này đi qua cách nhận diện rãnh cống nguy hiểm từ xa, chọn hướng và tốc độ vượt an toàn, và các bước xử lý nếu bánh xe đã rơi vào rãnh.
 
-Trước khi vào chi tiết, kỹ năng chung về né các hố hở không nắp trên đường được trình bày rõ trong bài [hố ga không nắp trên đường, tránh và giữ lại](/ky-nang/2026/10/10/ho-ga-khong-nap-tren-uong-tranh-va-giu-lai/), bạn nên đọc làm nền.
+Trước khi vào chi tiết, kỹ năng chung về né các hố hở không nắp trên đường được trình bày rõ trong bài [hố ga không nắp trên đường, tránh và giữ lại](/ky-nang/2026/10/10/ho-ga-khong-nap-tren-duong-tranh-va-giu-lai/), bạn nên đọc làm nền.
 
 ## Vì sao rãnh cống dọc nguy hiểm với bánh xe máy
 
@@ -58,7 +58,7 @@ Nếu không thể dừng hẳn, hãy vượt đúng cách.
 
 4. Với rãnh bị che một phần bởi bùn hoặc lá cây, coi như toàn dải đều có rãnh, chọn mép trong của làn để vượt.
 
-Trường hợp gặp rãnh ngay sau khúc cua hoặc cuối dốc, tốc độ vào cua đã khiến bạn mất dư địa chỉnh hướng: vì vậy kỹ năng giảm tốc trước cua và phanh nhịp, như bài [gặp vết dầu loang trên mặt đường sau xe tải, né và phanh thế nào](/ky-nang/2026/10/10/gap-vet-dau-loang-tren-mat-uong-sau-xe-tai-ne-va-phanh-the-nao/), là nền tảng để mọi thao tác né khác khả thi.
+Trường hợp gặp rãnh ngay sau khúc cua hoặc cuối dốc, tốc độ vào cua đã khiến bạn mất dư địa chỉnh hướng: vì vậy kỹ năng giảm tốc trước cua và phanh nhịp, như bài [gặp vết dầu loang trên mặt đường sau xe tải, né và phanh thế nào](/ky-nang/2026/10/10/gap-vet-dau-loang-tren-mat-duong-sau-xe-tai-ne-va-phanh-the-nao/), là nền tảng để mọi thao tác né khác khả thi.
 
 ## Xử lý khi bánh xe máy kẹt rãnh cống
 

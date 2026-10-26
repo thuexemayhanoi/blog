@@ -16,7 +16,7 @@ writer: W1
 
 Gửi xe máy khi đi hội chợ đông người là một nghệ thuật nhỏ của những ngày cuối tuần: bãi gửi trải dài cả dải sân, hàng trăm xe đổ vào trong một giờ cao điểm, vé giấy mỏng tay, và người giữ xe thì tay nhặt tiền mắt chỉ chỗ trong khi dòng xe nối đuôi. Đến lúc ra về, giữ vé xe máy hội chợ đông là thứ phân biệt giữa ba phút lấy xe và ba mươi phút dò từng hàng: nhầm vé, nhầm xe, quên chỗ đỗ là ba lỗi khiến người ta lùng sục giữa bãi xe tấp nập. Bài viết này cho bạn một checklist hoàn chỉnh, từ lúc chuẩn bị ở nhà tới lúc nhận lại xe, để buổi hội chợ vui trọn, không kết thúc ở bãi xe.
 
-Nếu định ghép hội chợ với chợ phiên ven đô, bài [gửi xe ở chợ phiên ngoài thanh](/ky-nang/2026/10/10/gui-xe-o-cho-phien-ngoai-thanh-bai-at-trong-va-ve-luot/) tách riêng tình huống đó, còn bài về [gửi xe ở chợ đầu mối Long Biên](/ky-nang/2026/10/10/gui-xe-o-cho-au-moi-long-bien-vi-tri-va-luu-y/) lại đúng tinh thần đông đúc của hội chợ, đều đáng đọc làm nền.
+Nếu định ghép hội chợ với chợ phiên ven đô, bài [gửi xe ở chợ phiên ngoài thanh](/ky-nang/2026/10/10/gui-xe-o-cho-phien-ngoai-thanh-bai-dat-trong-va-ve-luot/) tách riêng tình huống đó, còn bài về [gửi xe ở chợ đầu mối Long Biên](/ky-nang/2026/10/10/gui-xe-o-cho-dau-moi-long-bien-vi-tri-va-luu-y/) lại đúng tinh thần đông đúc của hội chợ, đều đáng đọc làm nền.
 
 ## Checklist trước khi gửi xe máy khi đi hội chợ
 

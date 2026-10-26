@@ -16,7 +16,7 @@ writer: W1
 
 Hợp đồng thuê tháng có một đặc thù mà hợp đồng ngày không có: đủ dài để người thuê quên. Ba tuần đi làm mượt trơn, ngày trả xe lướt qua đầu mà không báo trước, và lúc nhớ ra thì tiền trễ hạn đã nhân lên theo từng ngày. Quản lý lịch thuê xe theo tháng vì thế không phải kỹ năng gì cao siêu, mà là ba động tác nhỏ lặp lại đều: đặt nhắc trước, kiểm tra giữa kỳ, và quyết định gia hạn trước hạn. Bài này dựng cả ba động tác thành lịch cụ thể ai cũng làm được.
 
-Chuyên đề thuê theo tháng nằm ở bài [thuê xe theo tháng](/thue-xe/thue-thang/), quy trình nhận trả xe chuẩn ở bài [nhận trả xe](/thue-xe/nhan-tra-xe/), phần gia hạn hợp đồng ở bài [gia hạn hợp đồng thuê xe theo tháng](/thue-xe/2026/09/27/gia-han-hop-ong-thue-xe-theo-thang/).
+Chuyên đề thuê theo tháng nằm ở bài [thuê xe theo tháng](/thue-xe/thue-thang/), quy trình nhận trả xe chuẩn ở bài [nhận trả xe](/thue-xe/nhan-tra-xe/), phần gia hạn hợp đồng ở bài [gia hạn hợp đồng thuê xe theo tháng](/thue-xe/2026/09/27/gia-han-hop-dong-thue-xe-theo-thang/).
 
 ## Quản lý lịch thuê xe theo tháng: ba mốc trong một tháng
 

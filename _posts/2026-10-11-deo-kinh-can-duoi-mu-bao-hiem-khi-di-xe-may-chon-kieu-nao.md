@@ -44,7 +44,7 @@ Trình tự đeo quyết định sự thoải mái suốt chuyến đi.
 
 4. Với kính trượt hay, gắn hai miếng silicone nhỏ lên sống gọng nơi tì mũi, hoặc chọn gọng có đầu êm chống trượt.
 
-Về thói quen hít thở: người đeo kính cận dưới mũ trùm hay bị kính mờ vì khí thở dồn lên, cách xử lý là thở bằng mũi chậm và đều, đồng thời mở thông khí của mũ nếu có. Kinh nghiệm vệ sinh mũ và kính để giảm mờ hơi được bàn trong bài [mũ bảo hiểm sạch và sức khỏe da đầu](/ky-nang/2026-09-29-mu-bao-hiem-sach-va-suc-khoe-da-au/), trong đó phần xử lý kính mờ áp dụng nguyên cho người mang kính cận.
+Về thói quen hít thở: người đeo kính cận dưới mũ trùm hay bị kính mờ vì khí thở dồn lên, cách xử lý là thở bằng mũi chậm và đều, đồng thời mở thông khí của mũ nếu có. Kinh nghiệm vệ sinh mũ và kính để giảm mờ hơi được bàn trong bài [mũ bảo hiểm sạch và sức khỏe da đầu](/ky-nang/2026-09-29-mu-bao-hiem-sach-va-suc-khoe-da-dau/), trong đó phần xử lý kính mờ áp dụng nguyên cho người mang kính cận.
 
 ## Thói quen lái an toàn riêng cho người mang kính
 

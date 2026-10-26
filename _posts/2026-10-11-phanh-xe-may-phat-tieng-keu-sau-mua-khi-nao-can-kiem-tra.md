@@ -38,7 +38,7 @@ Với tiếng kêu nhóm hai, cách xử lý chuẩn rất đơn giản và khô
 
 4. Nếu xe đi qua vũng bùn sâu, sau khi tới nơi, để xe nghỉ rồi nhìn nhanh hố phanh từ phía sau: thấy cục bùn khô bám quanh, có thể dùng que nhỏ gỡ nhẹ phần bên ngoài mà không tháo hệ thống. Phần bên trong để cửa hàng xử lý.
 
-Với người đi xe máy điện thuê trong mưa to, pin và phanh là hai điểm cần chú ý nhất, bạn có thể đọc thêm kinh nghiệm đi xe máy trong mưa tại [giữ bình tĩnh và tránh va chạm trong mưa](/ky-nang/2026/10/10/i-xe-may-trong-mua-a-giu-binh-tinh-va-tranh-va-cham/).
+Với người đi xe máy điện thuê trong mưa to, pin và phanh là hai điểm cần chú ý nhất, bạn có thể đọc thêm kinh nghiệm đi xe máy trong mưa tại [giữ bình tĩnh và tránh va chạm trong mưa](/ky-nang/2026/10/10/di-xe-may-trong-mua-da-giu-binh-tinh-va-tranh-va-cham/).
 
 ## Dấu hiệu cần dừng và kiểm tra ngay
 
@@ -54,7 +54,7 @@ Không phải mọi tiếng kêu sau mưa đều lành tính. Năm dấu hiệu 
 
 - Sau mưa lũ hoặc vũng bùn sâu, phanh kêu liên tục qua nhiều lần bóp mà không giảm, kèm mùi khét nhẹ: dừng, gọi hỗ trợ, không cố về.
 
-Trong mọi tình huống trên, việc tự tháo tang trống hoặc kẹp phanh của xe thuê là điều không nên. Hệ thống phanh liên quan trực tiếp tới an toàn và trách nhiệm hợp đồng, hãy gọi cửa hàng cho thuê xe để được hướng dẫn hoặc hỗ trợ tại chỗ. Với những ai định đi đường dài mùa mưa, việc kiểm tra dầu phanh và má phanh trước khi nhận xe là bắt buộc, đọc thêm tại [kiểm tra dầu phanh xe thuê trước khi đi đèo](/xe-may/2026/10/09/kiem-tra-dau-phanh-xe-thue-truoc-khi-i-eo/).
+Trong mọi tình huống trên, việc tự tháo tang trống hoặc kẹp phanh của xe thuê là điều không nên. Hệ thống phanh liên quan trực tiếp tới an toàn và trách nhiệm hợp đồng, hãy gọi cửa hàng cho thuê xe để được hướng dẫn hoặc hỗ trợ tại chỗ. Với những ai định đi đường dài mùa mưa, việc kiểm tra dầu phanh và má phanh trước khi nhận xe là bắt buộc, đọc thêm tại [kiểm tra dầu phanh xe thuê trước khi đi đèo](/xe-may/2026/10/09/kiem-tra-dau-phanh-xe-thue-truoc-khi-di-deo/).
 
 ## Giữ phanh bền trong mùa mưa ở Hà Nội
 

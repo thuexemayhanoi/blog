@@ -16,7 +16,7 @@ writer: W1
 
 Đi làng chuồn chuồn tre Thạch Xá bằng xe máy trong ngày là một lựa chọn cuối tuần nhẹ nhàng mà thú vị: làng thuộc xã Thạch Thất, phía tây Hà Nội, nổi tiếng với nghề chuồn chuồn tre và đồ chơi dân gian làm bằng tre, nơi các hộ vẫn chẻ nan, uốn cánh và vẽ từng con chuồn chuồn bằng tay. Khác với các điểm chụp ảnh ồn ào, Thạch Xá mang lại một buổi sáng yên ả với ngõ tre, sân phơi nan và tiếng vang chẻ tre. Từ trung tâm Hà Nội, quãng đường bốn mươi cây số theo đại lộ Thăng Long hoàn toàn nằm trong tầm một ngày, đi về kịp bữa cơm chiều. Bài viết này chia lộ trình theo chặng, lịch trình mẫu trong ngày, và các lưu ý khi tham quan xưởng tre bằng xe máy.
 
-Nếu bạn quan tâm tới các làng nghề khác quanh cùng khu tây thành phố, bài [làng mộc Chàng Sơn bằng xe máy cuối tuần](/du-lich/2026/10/04/lang-moc-chang-son-bang-xe-may-cuoi-tuan-uong-i-va-gui-xe/) và [cho nghệ nhân về làng nghề](/thue-xe/2026/10/09/thue-xe-may-cho-nghe-nhan-ve-lang-nghe/) cùng mô tả cách ghép các điểm gần nhau trong một sáng.
+Nếu bạn quan tâm tới các làng nghề khác quanh cùng khu tây thành phố, bài [làng mộc Chàng Sơn bằng xe máy cuối tuần](/du-lich/2026/10/04/lang-moc-chang-son-bang-xe-may-cuoi-tuan-duong-di-va-gui-xe/) và [cho nghệ nhân về làng nghề](/thue-xe/2026/10/09/thue-xe-may-cho-nghe-nhan-ve-lang-nghe/) cùng mô tả cách ghép các điểm gần nhau trong một sáng.
 
 ## Lộ trình Hà Nội tới Thạch Xá trong buổi sáng
 

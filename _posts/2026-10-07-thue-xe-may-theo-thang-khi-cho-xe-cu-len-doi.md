@@ -28,7 +28,7 @@ Với giai đoạn một đến ba tháng, thuê tháng gần như luôn gọn h
 
 Hợp đồng tháng khác hợp đồng ngày ở một điểm: mọi thứ rơi vào khung dài, nên phần ràng buộc phải viết rõ hơn. Bốn nhóm điều khoản cần đàm phán. Một, khung thời gian và gia hạn: tính từ ngày nhận, gia hạn theo tháng lẻ hay tuần lẻ, và phần thông báo trước bao lâu khi muốn trả sớm. Hai, giới hạn quãng đường: mức tháng thường rộng hơn nhiều, nhưng vẫn hỏi rõ phần phát sinh khi vượt, vì người chờ xe mới hay đi nhiều hơn dự kiến — chạy thăm nhà, chạy công việc mới. Ba, bảo dưỡng: phần thường lệ như săm vá, nhớt, bóng đèn thuộc ai, và lịch bảo dưỡng định kỳ giữa hợp đồng do tiệm lo hay người thuê đưa xe về. Bốn, bảo hiểm và trách nhiệm hư hỏng lớn.
 
-Riêng phần trả sớm đáng nói kỹ: nhiều người ký ba tháng nhưng xe mới về sớm sau sáu tuần. Hỏi rõ trước lúc ký — trả sớm có hoàn phần tháng còn lại không, trừ phí giữ chỗ bao nhiêu — để lúc đó quyết định là tính toán, không phải thương lượng. Phần gia hạn hợp đồng tháng cũng đã được phân tích riêng ở bài [gia hạn hợp đồng thuê xe theo tháng](/thue-xe/2026/09/27/gia-han-hop-ong-thue-xe-theo-thang/), ai dự đoán giai đoạn chờ dài nên đọc trước khi ký bản đầu.
+Riêng phần trả sớm đáng nói kỹ: nhiều người ký ba tháng nhưng xe mới về sớm sau sáu tuần. Hỏi rõ trước lúc ký — trả sớm có hoàn phần tháng còn lại không, trừ phí giữ chỗ bao nhiêu — để lúc đó quyết định là tính toán, không phải thương lượng. Phần gia hạn hợp đồng tháng cũng đã được phân tích riêng ở bài [gia hạn hợp đồng thuê xe theo tháng](/thue-xe/2026/09/27/gia-han-hop-dong-thue-xe-theo-thang/), ai dự đoán giai đoạn chờ dài nên đọc trước khi ký bản đầu.
 
 ## Chọn loại xe khi thuê để chờ: đừng để bị tốn kém hơn cần thiết
 

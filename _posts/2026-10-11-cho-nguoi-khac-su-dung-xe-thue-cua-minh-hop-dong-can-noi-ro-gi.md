@@ -16,7 +16,7 @@ writer: W1
 
 Cho người khác mượn xe thuê là tình huống dễ gặp nhất trong các chuyến đi nhóm: bạn đứng tên thuê xe, chiều bạn bè hoặc người thân xin mượn chạy một đoạn, và chẳng ai nghĩ đó là chuyện cần thỏa thuận. Nhưng theo hợp đồng thuê, người đứng tên chính là người chịu trách nhiệm về chiếc xe, và câu hỏi ai được cầm lái không phải chuyện tình cảm mà là chuyện điều khoản. Bài viết này phân tích tại sao cửa hàng quan tâm chuyện này, những gì nên ghi rõ khi có nhiều người cùng dùng xe, và cách xử lý khi có sự cố mà người lái không phải bạn.
 
-Câu hỏi cơ bản nhất về giá trị pháp lý của hợp đồng thuê đã được trả lời trong bài [thuê xe máy cần hợp đồng không](/thue-xe/2026/09/27/thue-xe-may-can-hop-ong-khong/), bạn nên đọc trước khi đi vào phần nhiều người dùng chung.
+Câu hỏi cơ bản nhất về giá trị pháp lý của hợp đồng thuê đã được trả lời trong bài [thuê xe máy cần hợp đồng không](/thue-xe/2026/09/27/thue-xe-may-can-hop-dong-khong/), bạn nên đọc trước khi đi vào phần nhiều người dùng chung.
 
 ## Khi cho người khác mượn xe thuê cần ghi rõ điều gì
 
@@ -46,6 +46,6 @@ Nếu hay đi nhóm kiểu này, hãy tham khảo thêm [những câu nên hỏi
 
 Kịch bản cuối chuyến thường là người mượn là người cầm xe, còn bạn bận việc khác không kịp về tới cửa hàng. Trước khi để tình huống này xảy ra, hãy xác nhận với cửa hàng xem ai được quyền giao trả xe: nhiều nơi yêu cầu người đứng tên có mặt, số khác chấp nhận người thứ hai giao xe kèm giấy tờ và mã hợp đồng.
 
-Nếu cửa hàng chỉ chấp nhận bạn giao trả, cách thực tế nhất là hẹn người mượn gặp bạn ở một điểm trung gian trước giờ đóng, và tự mình chạy chặng cuối tới cửa hàng. Chặng một vài cây số này đổi lại một quy trình trả xe sạch sẽ, với đầy đủ hướng dẫn trong bài [trả xe đúng quy trình dễ tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/).
+Nếu cửa hàng chỉ chấp nhận bạn giao trả, cách thực tế nhất là hẹn người mượn gặp bạn ở một điểm trung gian trước giờ đóng, và tự mình chạy chặng cuối tới cửa hàng. Chặng một vài cây số này đổi lại một quy trình trả xe sạch sẽ, với đầy đủ hướng dẫn trong bài [trả xe đúng quy trình dễ tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/).
 
 Tóm lại, cho người khác mượn xe thuê không phải việc không được làm, mà là việc cần làm đúng: hỏi chính sách cửa hàng trước, ghi rõ thỏa thuận với người mượn, và nhớ rằng trách nhiệm hợp đồng vẫn thuộc về người đứng tên đến phút cuối cùng. Nếu dự định đi nhóm nhiều người, hãy hỏi ngay từ đầu về điều khoản người lái phụ trong mục [thủ tục thuê xe](/thue-xe/thu-tuc/) hoặc trên trang chủ [thuê xe máy Hà Nội](/thue-xe/) trước khi đặt xe.

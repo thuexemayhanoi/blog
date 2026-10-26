@@ -32,7 +32,7 @@ Ba tiêu chí chọn xe cho khách tỉnh là nhẹ, bền và dễ điều khi�
 
 Về gói, hai câu nên hỏi là: gói tuần này gồm những gì — hạn mức kilomet, bảo dưỡng giữa tuần, thay xe nếu hỏng — và trả sớm thì phần dư tính sao. Gói tuần tốt cho khách tỉnh thường là gói có hạn mức rộng hoặc không hạn mức, vì người tỉnh hay có các chuyến bất ngờ như về quê hai ngày giữa tuần rồi quay lại. Cách so gói giữa các cửa hàng đã có sẵn trong bài [cách so sánh báo giá thuê xe giữa các cửa hàng](/thue-xe/2026/09/27/cach-so-sanh-bao-gia-thue-xe-giua-cac-cua-hang/), áp nguyên cho gói tuần.
 
-Về khung giờ, khách tỉnh nên nhận xe ngay buổi đầu tới Hà Nội nếu chuyến xe khách tới ban ngày: vừa kịp làm quen xe khi trời còn sáng, vừa có xe sẵn cho mọi đầu việc hôm sau. Nếu tới buổi tối, hãy đặt trước và hẹn nhận sáng sớm hôm sau, cách đặt từ xa được hướng dẫn trong bài [đặt xe máy trước qua điện thoại hoặc Zalo](/thue-xe/2026/09/27/at-xe-may-truoc-qua-ien-thoai-hoac-zalo/).
+Về khung giờ, khách tỉnh nên nhận xe ngay buổi đầu tới Hà Nội nếu chuyến xe khách tới ban ngày: vừa kịp làm quen xe khi trời còn sáng, vừa có xe sẵn cho mọi đầu việc hôm sau. Nếu tới buổi tối, hãy đặt trước và hẹn nhận sáng sớm hôm sau, cách đặt từ xa được hướng dẫn trong bài [đặt xe máy trước qua điện thoại hoặc Zalo](/thue-xe/2026/09/27/dat-xe-may-truoc-qua-dien-thoai-hoac-zalo/).
 
 ## Giấy tờ và thủ tục cho khách từ tỉnh
 
@@ -40,7 +40,7 @@ Giấy tờ thuê xe không phân biệt khách địa phương hay khách tỉn
 
 Một điểm thực tế cho khách tỉnh: hãy lưu số hợp đồng và ảnh biên bản ngay trong điện thoại. Mọi tình huống phát sinh giữa tuần — cần gia hạn, cần báo hỏng xe, cần hỏi lối — đều xử lý nhanh khi hồ sơ nằm trong túi bạn thay vì trên kệ của cửa hàng.
 
-Người nhà ở tỉnh cũng hay thuê hộ cho người lên Hà Nội. Nếu bạn đứng tên thuê cho cha mẹ hoặc người thân, hãy đọc bài [thuê xe máy cần hợp đồng không](/thue-xe/2026/09/27/thue-xe-may-can-hop-ong-khong/) để hiểu rõ trách nhiệm của người đứng tên trước khi ký.
+Người nhà ở tỉnh cũng hay thuê hộ cho người lên Hà Nội. Nếu bạn đứng tên thuê cho cha mẹ hoặc người thân, hãy đọc bài [thuê xe máy cần hợp đồng không](/thue-xe/2026/09/27/thue-xe-may-can-hop-dong-khong/) để hiểu rõ trách nhiệm của người đứng tên trước khi ký.
 
 ## Làm quen đường Hà Nội trong tuần đầu
 

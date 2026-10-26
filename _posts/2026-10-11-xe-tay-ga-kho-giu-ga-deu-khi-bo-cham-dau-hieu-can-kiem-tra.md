@@ -64,7 +64,7 @@ Một mẹo nhỏ khi trời nắng nóng hoặc xe mới nhận: cho xe chạy 
 
 Với xe thuê, ranh giới nên báo khá rõ: nếu bò chậm chỉ giật trong vùng ga nhỏ, kỹ thuật trên đã xử lý được phần lớn, không cần gọi. Nhưng nếu xe giật cả khi mở ga nhích mạnh trên đường bằng, phát ra tiếng lạ từ puli, hoặc giật kèm cảm giác "tuột lực" đột ngột giữa lúc tăng tốc, thì nên dừng và gọi cửa hàng. Mô tả theo cấu trúc: hiện tượng (giật ở ga nào, tốc độ bao nhiêu), điều kiện (đường bằng hay gợn, xe đã chạy lâu chưa), và tiếng kèm theo nếu có.
 
-Đừng tự mở nắp che puli của xe thuê: cụm vô lăng có lò xo cuộn và bi, tháo sai lệch vừa hại xe vừa rắc rối trách nhiệm hợp đồng. Với các hiện tượng nhỏ hơn ở cốp xe ga, như cốp không mở được lúc trả xe, cách xử lý đã có bài riêng [cốp xe ga không mở được lúc trả xe](/thue-xe/2026/10/03/cop-xe-ga-khong-mo-uoc-luc-tra-xe/); còn nhóm ga và puli thì để cửa hàng lo là chuẩn nhất.
+Đừng tự mở nắp che puli của xe thuê: cụm vô lăng có lò xo cuộn và bi, tháo sai lệch vừa hại xe vừa rắc rối trách nhiệm hợp đồng. Với các hiện tượng nhỏ hơn ở cốp xe ga, như cốp không mở được lúc trả xe, cách xử lý đã có bài riêng [cốp xe ga không mở được lúc trả xe](/thue-xe/2026/10/03/cop-xe-ga-khong-mo-duoc-luc-tra-xe/); còn nhóm ga và puli thì để cửa hàng lo là chuẩn nhất.
 
 ## Ghi nhớ
 

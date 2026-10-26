@@ -32,13 +32,13 @@ Nói thẳng: xe điện chạy đường dài ở mức cung ngắn là khả t
 
 ## Khi nào xe điện tiện hơn xe xăng
 
-Với các cung ngắn quanh Hà Nội như phố cổ, ven sông, đi chợ các huyện ngoại thành, xe máy điện lại khá hợp: máy êm, không rung, không mùi xăng, dễ lái với người mới. Nếu chuyến đi chủ yếu chạy trong đô thị và một đoạn ngoại ô ngắn, bạn gần như không phải lo sạc giữa đường. Bạn có thể xem thêm [trải nghiệm đi phố cổ buổi sáng từ Long Biên](/du-lich/2026/10/04/tu-bo-e-sang-pho-co-qua-cau-long-bien-luc-sang-som/) để hình dung loại lộ trình ngắn phù hợp với xe điện.
+Với các cung ngắn quanh Hà Nội như phố cổ, ven sông, đi chợ các huyện ngoại thành, xe máy điện lại khá hợp: máy êm, không rung, không mùi xăng, dễ lái với người mới. Nếu chuyến đi chủ yếu chạy trong đô thị và một đoạn ngoại ô ngắn, bạn gần như không phải lo sạc giữa đường. Bạn có thể xem thêm [trải nghiệm đi phố cổ buổi sáng từ Long Biên](/du-lich/2026/10/04/tu-bo-de-sang-pho-co-qua-cau-long-bien-luc-sang-som/) để hình dung loại lộ trình ngắn phù hợp với xe điện.
 
 Mức giá thuê giữa xe điện và xe xăng thay đổi theo từng thời kỳ, vì vậy thay vì so bên lẻ, hãy gọi hỏi cả hai loại đang có sẵn rồi quyết định. Với nhóm khách ở gần khu Long Biên, quãng đi ra cửa hàng ngắn cũng đáng để tính vào tiện ích chung của chuyến đi.
 
 ## Checklist trước khi nhận xe điện đi tỉnh
 
-Trước khi rời cửa hàng, kiểm tra năm điểm. Một: xác nhận xe vừa sạc đầy và đồng hồ hiển thị đủ vạch. Hai: hỏi tầm đi thực tế khi chở theo số người trong nhóm bạn. Ba: thử phanh và còi, vì xe điện êm nên dễ chạy nhanh hơn tốc độ bạn tưởng. Bốn: kiểm tra bộ sạc kèm xe và loại ổ cắm của nó. Năm: lưu số hỗ trợ của cửa hàng cùng địa chỉ điểm dừng dự kiến. Với người mới, phần [kinh nghiệm thuê xe lần đầu cho người vừa có bằng](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) cũng đáng đọc trước khi nhận bất kỳ dòng xe nào. Các bài khác trong chuyên mục [xe máy](/xe-may/) tổng hợp thêm kinh nghiệm chọn xe theo từng loại hành trình.
+Trước khi rời cửa hàng, kiểm tra năm điểm. Một: xác nhận xe vừa sạc đầy và đồng hồ hiển thị đủ vạch. Hai: hỏi tầm đi thực tế khi chở theo số người trong nhóm bạn. Ba: thử phanh và còi, vì xe điện êm nên dễ chạy nhanh hơn tốc độ bạn tưởng. Bốn: kiểm tra bộ sạc kèm xe và loại ổ cắm của nó. Năm: lưu số hỗ trợ của cửa hàng cùng địa chỉ điểm dừng dự kiến. Với người mới, phần [kinh nghiệm thuê xe lần đầu cho người vừa có bằng](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/) cũng đáng đọc trước khi nhận bất kỳ dòng xe nào. Các bài khác trong chuyên mục [xe máy](/xe-may/) tổng hợp thêm kinh nghiệm chọn xe theo từng loại hành trình.
 
 ## Những câu hỏi thường gặp
 

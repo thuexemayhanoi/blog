@@ -18,7 +18,7 @@ Nhiều khách gọi điện hỏi xe 50cc chở hai người có được khôn
 
 ## Vậy việc chở người trên xe 50cc cần lưu ý gì
 
-Về mặt quy định, việc chở người trên xe 50cc không khác các loại xe máy hai bánh khác: người lái chỉ được chở thêm một người lớn, người được chở bắt buộc đội mũ bảo hiểm và ngồi phía sau theo đúng tư thế, không ngồi ngang xe hay đứng trên bậc đạp. Trẻ em đi kèm theo xe máy cần tuân theo các điều kiện về độ tuổi được quy định trong văn bản hiện hành, và các điều kiện này được cập nhật theo từng văn bản mới, nên nếu thường xuyên chở trẻ, hãy kiểm tra bản tin mới nhất. Bạn có thể xem thêm [quy định hiện hành về chở người trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/) để nắm khung chung.
+Về mặt quy định, việc chở người trên xe 50cc không khác các loại xe máy hai bánh khác: người lái chỉ được chở thêm một người lớn, người được chở bắt buộc đội mũ bảo hiểm và ngồi phía sau theo đúng tư thế, không ngồi ngang xe hay đứng trên bậc đạp. Trẻ em đi kèm theo xe máy cần tuân theo các điều kiện về độ tuổi được quy định trong văn bản hiện hành, và các điều kiện này được cập nhật theo từng văn bản mới, nên nếu thường xuyên chở trẻ, hãy kiểm tra bản tin mới nhất. Bạn có thể xem thêm [quy định hiện hành về chở người trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-dinh-hien-hanh/) để nắm khung chung.
 
 Về mặt kỹ thuật, xe 50cc có công suất nhỏ, nên khi chở đủ hai người, xe phản ứng chậm hơn hẳn so với khi đi một mình: khởi hành yếu hơn, lên cầu vượt lâu hơn và giảm tốc kém hơn. Điều này không có nghĩa là không đi được, nhưng bạn cần chủ động kéo dài khoảng cách với xe phía trước, về số thấp khi lên dốc và tránh phanh gấp trong lúc đang tăng tốc. Nắm rõ đặc tính này giúp bạn chủ động chọn giờ đi và lộ trình thoáng thay vì bon bon giờ cao điểm.
 
@@ -26,7 +26,7 @@ Về mặt kỹ thuật, xe 50cc có công suất nhỏ, nên khi chở đủ ha
 
 Thứ nhất, chở ba người trên xe 50cc. Xe cỡ nhỏ có khung sườn và phanh thiết kế cho tải trọng thấp, gài thêm người thứ ba vừa vượt quy định về chở người, vừa khiến phanh dễ mất tác dụng ở đoạn xuống dốc. Nếu nhóm đi ba người, thuê thêm một xe hoặc chọn phương án khác an toàn hơn nhiều.
 
-Thứ hai, chở người lớn cùng nhiều đồ đạc. Vali, thùng hàng chất lên tay lái hoặc để trên chân người ngồi sau sẽ khiến xe nặng đầu, lái vào đoạn quanh co khó kiểm soát. Hãy chia đồ vào cốp hoặc ba lô, và nếu đón nhiều đồ, tham khảo [kinh nghiệm chọn loại xe khi chở hành lý cồng kềnh](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để đổi dòng xe phù hợp.
+Thứ hai, chở người lớn cùng nhiều đồ đạc. Vali, thùng hàng chất lên tay lái hoặc để trên chân người ngồi sau sẽ khiến xe nặng đầu, lái vào đoạn quanh co khó kiểm soát. Hãy chia đồ vào cốp hoặc ba lô, và nếu đón nhiều đồ, tham khảo [kinh nghiệm chọn loại xe khi chở hành lý cồng kềnh](/xe-may/2026/09/29/di-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để đổi dòng xe phù hợp.
 
 Thứ ba, chở người quen ngồi ngang hoặc vắt chân một bên. Với xe nhỏ, trọng tâm thay đổi vài phân cũng đủ làm tay lái lắc lư ở tốc độ thấp. Người ngồi sau nên hai chân kẹp chặt, hai tay bám chắc tay nắm hoặc vai người lái, đặc biệt khi xe vào đoạn đất đùn hoặc qua vạch giảm tốc.
 

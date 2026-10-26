@@ -60,7 +60,7 @@ Ba thói quen nhỏ giúp bạn yên tâm chọn góc máy.
 
 - Khóa cổ và rút chìa theo người, giữ xe ở tầm mắt trong lúc chụp, nhất là dừng ở đoạn vắng.
 
-Với những chặng dốc dài, kỹ năng phanh và về số khi xuống dốc quyết định bạn có dừng được êm ở lề hay không; đọc thêm [xe ga xuống dốc dài, dừng phanh thế nào](/xe-may/2026/10/10/xe-ga-xuong-doc-dai-dung-phanh-the-nao/) cho phần đường di chuyển, và bài về [thuê xe máy đi chụp ảnh ngoại thành cuối tuần](/hoi-dap/2026/10/10/thue-xe-may-i-chup-anh-ngoai-thanh-cuoi-tuan/) nếu bạn định thuê xe cho cả ngày ngoại thành.
+Với những chặng dốc dài, kỹ năng phanh và về số khi xuống dốc quyết định bạn có dừng được êm ở lề hay không; đọc thêm [xe ga xuống dốc dài, dừng phanh thế nào](/xe-may/2026/10/10/xe-ga-xuong-doc-dai-dung-phanh-the-nao/) cho phần đường di chuyển, và bài về [thuê xe máy đi chụp ảnh ngoại thành cuối tuần](/hoi-dap/2026/10/10/thue-xe-may-di-chup-anh-ngoai-thanh-cuoi-tuan/) nếu bạn định thuê xe cho cả ngày ngoại thành.
 
 ## Xử lý khi xe đã đổ trên dốc
 

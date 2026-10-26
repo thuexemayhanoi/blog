@@ -22,7 +22,7 @@ Trên đa số xe máy điện cho thuê ở Hà Nội, mức pin nằm ở ba v
 
 Với cách đọc đồng hồ pin xe điện kiểu vạch, điều quan trọng cần nhớ là các vạch không đều nhau về quãng đường. Hai vạch đầu có thể chạy được vài chục km, trong khi vạch cuối cùng đôi khi chỉ còn vài km là đèn báo đỏ. Vì vậy thói quen tốt là coi vạch cuối như tín hiệu phải sạc ngay, chứ không phải là phần trăm đều để tiêu tiếp.
 
-Một số xe còn có chế độ báo trước: khi pin chỉ còn khoảng 20 phần trăm, đèn báo nhấp nháy chậm kèm tiếng bíp nhẹ để bạn chủ động tìm điểm sạc. Nếu đang trong thành phố, khoảng dư này đủ để về nhà hoặc về nơi nghỉ. Nếu đang ngoài đường trường, hãy dừng ngay ở điểm có ổ cắm đầu tiên bạn gặp. Người lần đầu thuê xe máy cũng nên xem qua [kinh nghiệm thuê xe cho người vừa có bằng A1](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) để nắm các bước kiểm tra chung trước khi nhận xe.
+Một số xe còn có chế độ báo trước: khi pin chỉ còn khoảng 20 phần trăm, đèn báo nhấp nháy chậm kèm tiếng bíp nhẹ để bạn chủ động tìm điểm sạc. Nếu đang trong thành phố, khoảng dư này đủ để về nhà hoặc về nơi nghỉ. Nếu đang ngoài đường trường, hãy dừng ngay ở điểm có ổ cắm đầu tiên bạn gặp. Người lần đầu thuê xe máy cũng nên xem qua [kinh nghiệm thuê xe cho người vừa có bằng A1](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/) để nắm các bước kiểm tra chung trước khi nhận xe.
 
 ## Các đèn báo khác dễ nhầm với pin sập
 

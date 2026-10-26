@@ -34,7 +34,7 @@ Nếu bạn học để thi bằng lái xe máy hạng A1 thì xe thi thường 
 
 Xe để học nên nhẹ, thấp, quen mặt chứ không phải xe lớn. Một chiếc xe số phổ thông dung tích nhỏ, yên thấp, trọng tâm gần đất giúp bạn tập trung vào thao tác thay vì đấu với cân nặng của xe. Đừng chọn xe mới nguyên để tập: tí hon trầy sơn khi đổ xe trong sân là chuyện gần như chắc chắn, và bạn sẽ vui hơn nếu đó là chiếc xe đã có vài vệt sử dụng. Bảng [giá xe số](/bang-gia-xe-so/) cho thấy nhóm xe này luôn là lựa chọn rẻ nhất khi thuê.
 
-Với người chưa có bằng lái, hãy hỏi kỹ về giấy tờ. Một số tiệm nhận thuê cho người học kèm điều kiện có người đi cùng đã có bằng, một số thì không nhận. Câu hỏi này nên đặt trước khi đặt cọc, đừng để đến lúc nhận xe mới phát hiện. Nếu bạn băn khoăn về quy định, bài viết về việc [không có bằng lái có thuê được xe máy không](/hoi-dap/2026-09-29-khong-co-bang-lai-co-thue-uoc-xe-may-khong/) trả lời rõ từng trường hợp.
+Với người chưa có bằng lái, hãy hỏi kỹ về giấy tờ. Một số tiệm nhận thuê cho người học kèm điều kiện có người đi cùng đã có bằng, một số thì không nhận. Câu hỏi này nên đặt trước khi đặt cọc, đừng để đến lúc nhận xe mới phát hiện. Nếu bạn băn khoăn về quy định, bài viết về việc [không có bằng lái có thuê được xe máy không](/hoi-dap/2026-09-29-khong-co-bang-lai-co-thue-duoc-xe-may-khong/) trả lời rõ từng trường hợp.
 
 Trước khi rời tiệm với chiếc xe tập, có một phép thử đơn giản: ngồi lên yên, đặt hai bàn chân xuống đất. Nếu gót chân không chạm được mà phải nhón, chiếc xe quá cao cho giai đoạn này, hãy đổi chiếc khác thấp hơn. Kiểm tra nhanh hai phanh, còi và đèn rồi mới nhận, vì những thứ đó là toàn bộ hệ an toàn bạn có trong sân tập.
 

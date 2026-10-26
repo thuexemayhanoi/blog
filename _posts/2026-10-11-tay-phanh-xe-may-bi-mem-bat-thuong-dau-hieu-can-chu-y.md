@@ -16,7 +16,7 @@ writer: W1
 
 Tay phanh xe máy bị mềm là một trong những dấu hiệu an toàn không được phép bỏ qua: sáng nhận xe tay phanh chỉ ăn ở nửa hành trình, chiều bóp gần chạm tay ga mới thấy xe bắt đầu giảm. Nhiều người đi xe ga thuê quen bóp phanh tay phải, đến khi phải bóp phanh xe máy quá sâu mới có lực, thường chủ quan cho rằng do xe cũ, rồi tiếp tục lướt giữa dòng xe máy ở các trục như Giải Phóng hay Nguyễn Văn Cừ. Bài viết này giúp bạn hiểu vì sao tay phanh bị mềm, cách kiểm tra nhanh trong vài phút, và ranh giới nào buộc phải dừng xe gọi hỗ trợ thay vì cố về tới nơi.
 
-Nếu bạn chuẩn bị đi đường dài hoặc xuống đèo, hãy đọc thêm bài [kiểm tra dầu phanh xe thuê trước khi đi đèo](/xe-may/2026/10/09/kiem-tra-dau-phanh-xe-thue-truoc-khi-i-eo/) vì phanh mềm trên đường đèo dốc là tình huống nguy hiểm nhất.
+Nếu bạn chuẩn bị đi đường dài hoặc xuống đèo, hãy đọc thêm bài [kiểm tra dầu phanh xe thuê trước khi đi đèo](/xe-may/2026/10/09/kiem-tra-dau-phanh-xe-thue-truoc-khi-di-deo/) vì phanh mềm trên đường đèo dốc là tình huống nguy hiểm nhất.
 
 ## Nguyên nhân khiến tay phanh xe máy bị mềm
 

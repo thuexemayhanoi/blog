@@ -22,7 +22,7 @@ Giá thuê ngày của một chiếc xe máy được tính trên một mức ha
 
 Giới hạn kilomet vì thế là cách cửa hàng chia sẻ rủi ro: khách đi nhiều hơn mức trung bình thì góp thêm một phần chi phí hao mòn. Nó không phải để trừng phạt ai thích chạy xa, mà để bảng giá ngày thấp có thể duy trì được cho đại đa số khách đi ngắn.
 
-Nếu dự định của bạn là các cung đường dài, bài [thuê xe máy một ngày đi được bao nhiêu km](/thue-xe/2026/09/27/thue-xe-may-mot-ngay-i-uoc-bao-nhieu-km/) giải thích kỹ hơn về cách cân nhắc quãng đường với giới hạn cho phép.
+Nếu dự định của bạn là các cung đường dài, bài [thuê xe máy một ngày đi được bao nhiêu km](/thue-xe/2026/09/27/thue-xe-may-mot-ngay-di-duoc-bao-nhieu-km/) giải thích kỹ hơn về cách cân nhắc quãng đường với giới hạn cho phép.
 
 ## Khi nào phát sinh phí vượt km khi thuê xe
 

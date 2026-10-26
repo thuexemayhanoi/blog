@@ -16,7 +16,7 @@ writer: W1
 
 Đi làng quạt Chàng Sơn bằng xe máy từ Hà Nội là một cung đường cuối tuần gọn và dễ chịu: làng thuộc xã Thạch Thất, phía tây thành phố, cách khu trung tâm chừng bốn mươi cây số theo đại lộ Thăng Long, mặt đường rộng và thẳng, phù hợp cả xe số lẫn xe ga nhỏ. Chàng Sơn gắn liền với nghề làm quạt giấy và quạt vót truyền thống, nơi bạn vẫn thấy các xưởng treo đầy quạt phơi nắng dọc ngõ, và các nghệ nhân già quạt nan bằng tay từng cây một. Bài viết này hướng dẫn lộ trình theo từng chặng, điểm dừng nghỉ hợp lý, cách tham quan làng nghề đúng phép lịch sự, và vài lưu ý cho ai đi bằng xe máy thuê.
 
-Nếu bạn muốn tham khảo một cung đường tương tự đã được kiểm chứng, bài [làng mộc Chàng Sơn bằng xe máy cuối tuần](/du-lich/2026/10/04/lang-moc-chang-son-bang-xe-may-cuoi-tuan-uong-i-va-gui-xe/) về cùng khu vực rất đáng đọc trước khi lên kế hoạch.
+Nếu bạn muốn tham khảo một cung đường tương tự đã được kiểm chứng, bài [làng mộc Chàng Sơn bằng xe máy cuối tuần](/du-lich/2026/10/04/lang-moc-chang-son-bang-xe-may-cuoi-tuan-duong-di-va-gui-xe/) về cùng khu vực rất đáng đọc trước khi lên kế hoạch.
 
 ## Lộ trình đi làng quạt Chàng Sơn bằng xe máy từ Hà Nội
 
@@ -40,7 +40,7 @@ Nghề quạt ở Chàng Sơn có lịch sử dài, sản phẩm chủ lực là
 
 3. Mua quà tại chỗ: quạt giấy và quạt tròn giá hợp lý, chọn quạt nan đều, giấy căng phẳng không nhăn, bản lề gập thuận. Nếu đi xe máy, các cây quạt dài nên bọc giấy và buộc dọc theo thân xe hoặc hỏi xưởng đóng gói cẩn thận để mang về nguyên vẹn.
 
-4. Ghép thêm điểm quanh khu: chùa M model của Thạch Thất và các làng mộc lân cận đều trong bán kính vài cây số, một buổi sáng ghép hai điểm khá thoải mái. Bài [thành cổ Sơn Tây và làng cổ Đường Lâm bằng xe máy](/du-lich/2026/10/05/thanh-co-son-tay-va-lang-co-uong-lam-bang-xe-may/) tường thuật chi tiết tuyến ghép này.
+4. Ghép thêm điểm quanh khu: chùa M model của Thạch Thất và các làng mộc lân cận đều trong bán kính vài cây số, một buổi sáng ghép hai điểm khá thoải mái. Bài [thành cổ Sơn Tây và làng cổ Đường Lâm bằng xe máy](/du-lich/2026/10/05/thanh-co-son-tay-va-lang-co-duong-lam-bang-xe-may/) tường thuật chi tiết tuyến ghép này.
 
 Thời điểm đẹp nhất trong làng là buổi sáng tới trước trưa: nắng cần cho việc phơi quạt, các sân xưởng bận rộn, và không khí làng nghề sống động nhất. Buổi chiều muộn nhiều xưởng đã xếp quạt vào nhà, cảnh quan vắng hơn hẳn.
 

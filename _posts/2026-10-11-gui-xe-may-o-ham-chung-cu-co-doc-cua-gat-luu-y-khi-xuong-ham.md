@@ -16,7 +16,7 @@ writer: W1
 
 Gửi xe máy hầm chung cư dốc cua là bài toán cân bằng khác hẳn gửi xe mặt đất: hầm của nhiều chung cư mới quanh Hà Nội dốc dài nối liền khúc cua gắt trọn vẹn trong không gian hẹp, đèn vàng, mặt bê tông mịn, và dòng xe hai chiều cùng trút xuống một cửa hầm. Đi xe máy xuống hầm gửi xe dốc sai nhịp là nguyên nhân của những cú trượt bánh, va gương tường, hoặc tệ hơn là xe tuột dốc vì để nhả ga quá tay. Bài viết này đi qua kỹ thuật xuống hầm đúng nhịp, cách xử lý khúc cua gắt giữa dốc, và các lưu ý khi gửi, nhận xe trong hầm để không bỏ quên vé hay nhầm xe.
 
-Trước khi vào phần kỹ thuật, nếu bạn mới gửi xe ở các bãi đất bình thường, hai bài [gửi xe ở chung cư khi không có thẻ xe](/ky-nang/2026/10/10/gui-xe-o-chung-cu-khi-khong-co-the-xe-cach-xu-ly/) và [gửi xe ở chung cư qua đêm giữ xe và vé](/ky-nang/2026/10/10/gui-xe-o-chung-cu-qua-em-iem-giu-xe-va-ve-thang/) là nền tảng nên đọc trước.
+Trước khi vào phần kỹ thuật, nếu bạn mới gửi xe ở các bãi đất bình thường, hai bài [gửi xe ở chung cư khi không có thẻ xe](/ky-nang/2026/10/10/gui-xe-o-chung-cu-khi-khong-co-the-xe-cach-xu-ly/) và [gửi xe ở chung cư qua đêm giữ xe và vé](/ky-nang/2026/10/10/gui-xe-o-chung-cu-qua-dem-diem-giu-xe-va-ve-thang/) là nền tảng nên đọc trước.
 
 ## Chuẩn bị trước khi vào dốc hầm
 
