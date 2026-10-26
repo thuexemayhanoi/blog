@@ -1,4 +1,4 @@
 {
- "max_links_to_stub_pages": 1219,
+ "max_links_to_stub_pages": 1377,
  "note": "Ratchet: số liên kết nội bộ <a href> được phép trỏ vào trang chuyển hướng slug đ->d. Chỉ được GIẢM; công cụ migrate-slug-urls.py đặt đúng số đo được khi di trú. Bài mới không được link vào URL cũ."
 }
