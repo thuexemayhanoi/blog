@@ -239,9 +239,11 @@ class TestReslugFlag(unittest.TestCase):
         need = cls.MIN_DEGRADED - have
         if need <= 0:
             return
+        # chỉ mượn hàng có `notes` rỗng như hàng PLANNED thật: hàng đã di trú slug đ→d (vd BLG-00557) có slug mới nên cũng thỏa far_d
+        # nhưng mang ghi chú lịch sử ("QA … FAIL …") mà bản tái sinh từ seed không có ⇒ hậu điều kiện reslug báo đổi ngoài phạm vi
         cands = [r for r in rows
                  if r['status'] == 'PUBLISHED' and r['source'].startswith('planned:')
-                 and (r.get('batch_id') or '').strip() and far_d(r)]
+                 and (r.get('batch_id') or '').strip() and far_d(r) and not (r.get('notes') or '').strip()]
         assert len(cands) >= need, 'không đủ hàng planned:PUBLISHED có chữ đ để mượn (cần %d, có %d)' % (
             need, len(cands))
         for r in cands[:need]:
