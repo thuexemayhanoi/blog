@@ -46,9 +46,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_posts/2026-10-01-xe-so-hay-xe-ga-i-mai-chau-chon-xe-cho-cung-uong-eo.md",
-  "content_sha256": "b4de1a12e81ade9f13a8479097eda625a1aab9ae8cc664f68ab89480c5467fb7",
-  "matrix_row_sha256": "7d7b364fce374a88b13a73e71e50ff9ac0a226f0283b8ad3e0c8c41fde78efa0",
+  "source_path": "_posts/2026-10-01-xe-so-hay-xe-ga-di-mai-chau-chon-xe-cho-cung-duong-deo.md",
+  "content_sha256": "02b5acc71ec3e153f5c2d85f9bbcda31d608bc0716a729bea7cac7df72c78f1e",
+  "matrix_row_sha256": "e6295d467dbead9d195c17865b3a4d6411eca1a1f10ffb6e8c25ced600e69427",
   "result": "PASS",
   "grade": "EXCELLENT",
   "published_at": "2026-10-01T04:46:28+00:00",
@@ -80,5 +80,46 @@
     "previous_evidence_annotations": {
       "rescore_note": "Tai cham sau repair frontmatter parent_id (commit f670e4e, P-DU-LICH -> P-CUNG-DUONG); noi dung body giong het ban da PASS; sha moi gan voi tep _posts hien tai."
     }
+  },
+  "revision": {
+    "schema": "revision/1",
+    "kind": "permalink-migration",
+    "purpose": "slug-d-migration",
+    "reason": "Sua slug bi mat chu U+0111 (d co gach ngang -> d) cua bai da xuat ban; URL cu thanh trang HTTP 200 + meta refresh 0s + canonical (GitHub Pages khong co HTTP 301 theo duong dan). Issue #77.",
+    "approval_ref": "chu-repo:chi-thi-2026-10-26-master-task-hoan-thanh-1410-url/issue-77 (session_01D88QamSe7ksLm1ZpE5Y7fT)",
+    "batch_id": "migrate-20261026-d06",
+    "revised_at": "2026-10-26T08:01:07+00:00",
+    "previous_evidence_sha256": "f3804804f226e2114e134f40dd2e14d9f276230f318d53069de2c786fe0d3e97",
+    "previous_content_sha256": "b4de1a12e81ade9f13a8479097eda625a1aab9ae8cc664f68ab89480c5467fb7",
+    "previous_matrix_row_sha256": "7d7b364fce374a88b13a73e71e50ff9ac0a226f0283b8ad3e0c8c41fde78efa0",
+    "new_content_sha256": "02b5acc71ec3e153f5c2d85f9bbcda31d608bc0716a729bea7cac7df72c78f1e",
+    "new_matrix_row_sha256": "e6295d467dbead9d195c17865b3a4d6411eca1a1f10ffb6e8c25ced600e69427",
+    "old_url": "/cung-duong/2026/10/01/xe-so-hay-xe-ga-i-mai-chau-chon-xe-cho-cung-uong-eo/",
+    "new_url": "/cung-duong/2026/10/01/xe-so-hay-xe-ga-di-mai-chau-chon-xe-cho-cung-duong-deo/",
+    "old_slug": "xe-so-hay-xe-ga-i-mai-chau-chon-xe-cho-cung-uong-eo",
+    "new_slug": "xe-so-hay-xe-ga-di-mai-chau-chon-xe-cho-cung-duong-deo",
+    "old_output_path": "_posts/2026-10-01-xe-so-hay-xe-ga-i-mai-chau-chon-xe-cho-cung-uong-eo.md",
+    "new_output_path": "_posts/2026-10-01-xe-so-hay-xe-ga-di-mai-chau-chon-xe-cho-cung-duong-deo.md",
+    "matrix_url_drift_fixed": false,
+    "redirect": "HTTP 200 + meta refresh 0s + canonical (khong phai HTTP 301): redirects/slug-d/BLG-01059.html",
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/migrate-slug-urls.py",
+    "tool_commit": "f4957e156c37f1635297b2ba50791962281113ea",
+    "scorer_code_sha256": "b4a8836fab455ec134ecb2a01ebaa1ebce70e7a503a12e3fb00265e671d73201",
+    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "migrate_tool_sha256": "ddd2be356a2f313bf991d56eab56c101545909274cab45dcbb11e2039f5bcefd",
+    "slugkit_sha256": "3ca830e9d1fe26935aafc87750f95908dbe3b5cb9aa92d2779157ef4e6b1ec4d",
+    "baseline_sha256": "6a91c1c7e18ad2b6c0a85d309ae9939cc91c06e54106bf22f46280194222197c",
+    "note": "chi doi URL (slug thieu chu d -> dung); than bai va moi dong front matter khac giu nguyen tung byte; scored_at/published_at o cap tren giu moc lich su goc; cham diem doc lap luc revised_at"
   }
 }
