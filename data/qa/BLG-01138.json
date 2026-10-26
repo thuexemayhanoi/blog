@@ -47,10 +47,38 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-03-xe-ga-e-khong-no-troi-nom-thao-tac-ung.md",
-  "content_sha256": "2bd25290241fcba3d700659ddfa9ee8329da3febb4ad44b7ad0b0f6c72ff4790",
-  "matrix_row_sha256": "e58709d841ecbeffdd1118ae54b6c9b332e1b234a3575ce31fef8e7416d77ee0",
+  "content_sha256": "9bf0eb100c108b2d70e85e81d0380a976db7623ffecf74044bdad7c16f931acd",
+  "matrix_row_sha256": "54a1796b701d941d38e96a35dffd9f44311d59eeb2c0efe126c6f07a477f4106",
   "result": "PASS",
   "grade": "EXCELLENT",
   "published_at": "2026-10-03T09:02:05+00:00",
-  "restamped_note": "re-stamp content_sha256 sau repair front matter BLG-01138 (bổ sung ] bị thiếu ở tags — YAML hỏng khiến bài render sai URL /2026/10/03/2026-10-03-.../ và breadcrumb JSON-LD phát sinh https://blog.thuexemaynguyentu.com// → INTERNAL_404 làm FULL link check FAIL; kết quả/điểm không đổi)"
+  "reattestation": {
+    "schema": "reattestation/1",
+    "kind": "domain-migration-v3",
+    "classification": "DOMAIN_ONLY_PROVEN",
+    "proof": "hash cu trong evidence buoc dung byte bai + hang matrix cua baseline bat bien; exact-transform v3 (doi domain + bo /blog/) cua baseline == byte/truong hien tai",
+    "approval_ref": "chu-repo:chi-thi-2026-10-26-master-task-hoan-thanh-1410-url-dung-reattest-hop-le/issue-77 (session_01D88QamSe7ksLm1ZpE5Y7fT)",
+    "batch_id": "reattest-20261026-R08",
+    "rescored_at": "2026-10-26T05:08:21+00:00",
+    "baseline_commit": "1b55bd810aac85dc919eb2a43d71de30ad8d4595",
+    "previous_evidence_path": "data/qa/BLG-01138.json",
+    "previous_evidence_sha256": "51d729d983396312ca86417a3832aecd3bc796e725f96c87a65f22a67e41806d",
+    "previous_content_sha256": "2bd25290241fcba3d700659ddfa9ee8329da3febb4ad44b7ad0b0f6c72ff4790",
+    "previous_matrix_row_sha256": "e58709d841ecbeffdd1118ae54b6c9b332e1b234a3575ce31fef8e7416d77ee0",
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/reattest-legacy-qa.py",
+    "tool_commit": "eb92a658694677071e7dcc6344c499df22cc97bc",
+    "tool_sha256": "2c44bcf42e75f99ef84d1770a6fec433adca157019a788440d1cb5d76e25a751",
+    "scorer_code_sha256": "b4a8836fab455ec134ecb2a01ebaa1ebce70e7a503a12e3fb00265e671d73201",
+    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); chat diem doc lap xay ra luc rescored_at",
+    "previous_evidence_annotations": {
+      "restamped_note": "re-stamp content_sha256 sau repair front matter BLG-01138 (bổ sung ] bị thiếu ở tags — YAML hỏng khiến bài render sai URL /2026/10/03/2026-10-03-.../ và breadcrumb JSON-LD phát sinh https://blog.thuexemaynguyentu.com// → INTERNAL_404 làm FULL link check FAIL; kết quả/điểm không đổi)"
+    }
+  }
 }
