@@ -18,6 +18,7 @@ import io
 import json
 import os
 import pathlib
+import re
 import shutil
 import sys
 import unittest
@@ -258,10 +259,19 @@ class TestPlan(MigrateBase):
 
     def test_date_prefixed_baseline_row_passes_path_comparison(self):
         """Review #77: baseline ghi tiền tố ngày hai lần ở new_output_path của 7 bài legacy; derive() phải so với bản đã gộp."""
-        aid = 'BLG-00868'
+        self.assertEqual(M.baseline_new_path('_posts/2026-09-29-2026-09-29-dat-xe-truoc-bao-lau-thi-nen.md'),
+                         '_posts/2026-09-29-dat-xe-truoc-bao-lau-thi-nen.md')
+        self.assertEqual(M.baseline_new_path('_posts/2026-10-09-ha-noi-di.md'), '_posts/2026-10-09-ha-noi-di.md')
         c = M.make_ctx(self.root, 'x', 'p')
+        dbl = re.compile(r'^_posts/(\d{4}-\d{2}-\d{2})-\1-')
+        # Chọn động: các bài ngày kép lần lượt được di trú thật nên ID cố định sẽ thành ALREADY_MIGRATED.
+        status = {r['id']: r['status'] for r in matrix_rows(self.fx)}
+        pending = sorted(a for a, b in c.baseline.items()
+                         if dbl.match(b['new_output_path']) and a not in c.registry and status.get(a) == 'PUBLISHED')
+        if not pending:
+            self.skipTest('mọi bài baseline ngày kép đã di trú; baseline_new_path đã kiểm ở trên')
+        aid = pending[0]
         b = c.baseline[aid]
-        self.assertRegex(b['new_output_path'], r'^_posts/(\d{4}-\d{2}-\d{2})-\1-')
         row = self.row(aid)
         post = self.root / row['output_path']
         ev_p = self.root / 'data/qa' / (aid + '.json')
@@ -272,9 +282,8 @@ class TestPlan(MigrateBase):
         self.focus.add(aid)
         d = M.derive(self.ctx(), aid, score=False)
         self.assertEqual((d.old_url, d.new_url), (b['old_url'], b['new_url']))
-        self.assertEqual(d.new_path, '_posts/2026-09-29-dat-xe-truoc-bao-lau-thi-nen.md')
+        self.assertEqual(d.new_path, dbl.sub(lambda m: '_posts/%s-' % m.group(1), b['new_output_path']))
         self.assertEqual(M.baseline_new_path(b['new_output_path']), d.new_path)
-        self.assertEqual(M.baseline_new_path('_posts/2026-10-09-ha-noi-di.md'), '_posts/2026-10-09-ha-noi-di.md')
 
 class TestApply(MigrateBase):
 
