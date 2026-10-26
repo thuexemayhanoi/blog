@@ -7,7 +7,7 @@ description: "Chỗ để đồ dưới yên xe ga thuê chở được những 
 categories: [Kinh nghiệm]
 lang: vi
 tags: ["chỗ để đồ dưới yên xe ga thuê", "cốp xe ga chở được gì", "thuê xe máy Hà Nội", "xe tay ga"]
-permalink: /xe-may/2026/10/07/cho-e-o-duoi-yen-xe-ga-thue-cho-uoc-nhung-gi/
+permalink: /xe-may/2026/10/07/cho-de-do-duoi-yen-xe-ga-thue-cho-duoc-nhung-gi/
 parent_id: P-XE-MAY
 child_id: C-XE-GA
 article_id: BLG-01547

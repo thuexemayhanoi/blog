@@ -7,7 +7,7 @@ author: "Nguyễn Tú"
 categories: [Kinh nghiệm]
 lang: vi
 tags: ["xe thuê bị rớt khi đỗ ngoài đường", "xe thuê đổ khi đỗ xe", "sự cố khi thuê xe", "đỗ xe an toàn"]
-permalink: /thue-xe/2026/10/07/xe-thue-bi-rot-khi-o-ngoai-uong-xu-ly-ra-sao/
+permalink: /thue-xe/2026/10/07/xe-thue-bi-rot-khi-do-ngoai-duong-xu-ly-ra-sao/
 parent_id: P-THUE-XE
 child_id: C-THUE-SU-CO
 article_id: BLG-01542

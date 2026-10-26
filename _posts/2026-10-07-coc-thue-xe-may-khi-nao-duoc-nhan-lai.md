@@ -7,7 +7,7 @@ author: "Nguyễn Tú"
 categories: [Kinh nghiệm]
 lang: vi
 tags: [cọc thuê xe máy khi nào nhận lại, hoàn cọc thuê xe, đặt cọc thuê xe máy, đối soát trả xe]
-permalink: /thue-xe/2026/10/07/coc-thue-xe-may-khi-nao-uoc-nhan-lai/
+permalink: /thue-xe/2026/10/07/coc-thue-xe-may-khi-nao-duoc-nhan-lai/
 parent_id: P-THUE-XE
 child_id: C-THUE-DAT-COC
 article_id: BLG-01535

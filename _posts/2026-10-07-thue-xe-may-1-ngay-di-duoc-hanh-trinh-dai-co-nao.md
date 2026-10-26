@@ -7,7 +7,7 @@ author: "Nguyễn Tú"
 categories: [Kinh nghiệm]
 lang: vi
 tags: [thuê xe máy 1 ngày đi được đâu, hành trình một ngày thuê xe, thuê xe máy theo ngày, thuê xe máy Hà Nội]
-permalink: /thue-xe/2026/10/07/thue-xe-may-1-ngay-i-uoc-hanh-trinh-dai-co-nao/
+permalink: /thue-xe/2026/10/07/thue-xe-may-1-ngay-di-duoc-hanh-trinh-dai-co-nao/
 parent_id: P-THUE-XE
 child_id: C-THUE-NGAY
 article_id: BLG-01528
