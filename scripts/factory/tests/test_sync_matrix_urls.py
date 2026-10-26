@@ -101,6 +101,10 @@ class SyncBase(FxTestCase):
                     continue
                 if not re.match(r'^/[a-z0-9-]+/', r['expected_url']):
                     continue
+                # chỉ hàng SẠCH (matrix đang khớp permalink thật): lỗi được dựng nhân tạo trong fixture; hàng lệch thật (vd BLG-00822
+                # sau khi reattest) không phải ứng viên, nếu không test "NO_DRIFT" lấy nhầm một hàng lệch thật
+                if M.front_permalink(post_p.read_text(encoding='utf-8')) != r['expected_url']:
+                    continue
                 out.append(aid)
                 if len(out) >= 12:
                     break
