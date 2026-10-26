@@ -24,7 +24,7 @@ Cuối tuần là lúc Bát Tràng nhộn nhất với dòng khách gia đình v
 
 Tuyến một là đi qua các cây cầu bắc qua sông Hồng rồi lên đê: từ khu Long Biên hoặc Chương Dương, qua cầu rồi men theo đê sông Hồng về phía Bát Tràng, đi tiếp theo biển chỉ đường vào làng. Đường đê phẳng, thẳng, ít đèn giao thông hơn đường trong phố, nhưng có các đoạn gờ giảm tốc và xe địa phương rẽ bất ngờ, nên giữ tốc độ vừa và không chạy sát mép đê khi có xe ngược chiều.
 
-Tuyến hai là đi theo hướng quốc lộ số 5 hoặc đường vành đai phía đông, rẽ vào đường liên xã qua khu Kim Lan rồi tới Bát Tràng. Tuyến này tránh được đôi chỗ đông của đường đê cuối tuần, hợp với khách xuất phát từ phía Long Biên hoặc Gia Lâm. Ai chưa quen đường đê thì nên đi tuyến hai cho dễ định vị, vì các biển chỉ đường về khu gốm đặt khá dày từ ngã ba chính. Kinh nghiệm đi qua khu cầu Long Biên được kể chi tiết trong bài [đến Cầu Long Biên bằng xe máy](/du-lich/2026/09/28/en-cau-long-bien-bang-xe-may-gui-xe-va-uong-i/), còn tổng quan các hướng đi quanh phía sông này nằm trong trang [khu Long Biên](/du-lich/long-bien/).
+Tuyến hai là đi theo hướng quốc lộ số 5 hoặc đường vành đai phía đông, rẽ vào đường liên xã qua khu Kim Lan rồi tới Bát Tràng. Tuyến này tránh được đôi chỗ đông của đường đê cuối tuần, hợp với khách xuất phát từ phía Long Biên hoặc Gia Lâm. Ai chưa quen đường đê thì nên đi tuyến hai cho dễ định vị, vì các biển chỉ đường về khu gốm đặt khá dày từ ngã ba chính. Kinh nghiệm đi qua khu cầu Long Biên được kể chi tiết trong bài [đến Cầu Long Biên bằng xe máy](/du-lich/2026/09/28/den-cau-long-bien-bang-xe-may-gui-xe-va-duong-di/), còn tổng quan các hướng đi quanh phía sông này nằm trong trang [khu Long Biên](/du-lich/long-bien/).
 
 ## Gửi xe và giữ xe tại khu chợ gốm
 

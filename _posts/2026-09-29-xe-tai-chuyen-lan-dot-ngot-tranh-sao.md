@@ -45,7 +45,7 @@ Ngoài ra cần chú ý thời điểm xe tải ra vào bãi đỗ ven đường
 
 Nếu xe tải bắt đầu ép sang làn của bạn, hãy phanh ngay thay vì cố giữ chỗ. Cái bẫy tâm lý của nhiều người là nỗi lo bị xe sau bắt lỗi, nhưng va chạm với xe tải thì hậu quả không thể so sánh. Phanh sớm, chắc và giữ tay lái thẳng, đồng thời quan sát gương để chắc xe sau mình cũng có thời gian giảm theo.
 
-Nếu còn khe nhỏ bên phải và bạn chắc chắn mặt đường bên đó an toàn, nghiêng nhẹ sang khe để nhường đường. Tuyệt đối không ngoặt gấp giữa hông xe tải, vì có thể trượt hoặc văng vào bánh sau của xe. Sau khi thoát, đừng bám sát trả đũa; giữ khoảng cách và rời xa vùng nguy hiểm là mục tiêu duy nhất của bạn lúc này. Bài viết về cách [giữ khoảng cách với xe container trong nội đô](/ky-nang/2026/09/29/giu-khoang-cach-voi-xe-container-trong-noi-o/) đi sâu hơn vào việc chọn cự ly đi cạnh xe lớn.
+Nếu còn khe nhỏ bên phải và bạn chắc chắn mặt đường bên đó an toàn, nghiêng nhẹ sang khe để nhường đường. Tuyệt đối không ngoặt gấp giữa hông xe tải, vì có thể trượt hoặc văng vào bánh sau của xe. Sau khi thoát, đừng bám sát trả đũa; giữ khoảng cách và rời xa vùng nguy hiểm là mục tiêu duy nhất của bạn lúc này. Bài viết về cách [giữ khoảng cách với xe container trong nội đô](/ky-nang/2026/09/29/giu-khoang-cach-voi-xe-container-trong-noi-do/) đi sâu hơn vào việc chọn cự ly đi cạnh xe lớn.
 
 ## Lời kết
 

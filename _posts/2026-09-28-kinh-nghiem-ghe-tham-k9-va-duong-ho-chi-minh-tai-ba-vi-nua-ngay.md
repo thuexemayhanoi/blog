@@ -24,7 +24,7 @@ Tránh khung trưa nắng gắt: khu nằm giữa rừng nên có tán cây che,
 
 Một buổi tại khu nên đi theo lối tham quan chính: từ cổng lên theo đường qua rừng, qua các công trình cũ giữa vườn cây, trong đó có nhà sàn và những khu mang dấu ấn thời kỳ Bác Hồ sống và làm việc tại đây. Lối đi quanh khu có biển chỉ dẫn, đi bộ chậm rãi hết phần chính khoảng hơn một giờ; khách muốn nghe thuyết minh nên theo nhóm có cán bộ khu đi cùng, vừa được dẫn vừa giữ trật tự tại các khu vực giới hạn lượt vào. Trang phục kín đáo và giày đế bám là hai thứ đáng mang nhất: đường trong khu có đoạn dốc nhẹ và lát đá, trời mưa hôm trước thì mặt đi còn ẩm lâu.
 
-Thời gian dư của buổi nên dành cho khoảng lặng giữa rừng: ngồi nghỉ ở các ghế đá ven lối, ngắm rừng Ba Vì quanh khu, chụp ảnh tại các góc không cản trở dòng tham quan. Chi tiết hai tuyến đường từ Hà Nội tới Ba Vì, chỗ gửi xe tại khu và giờ vào cửa theo mùa được kể đầy đủ trong bài [đến K9 và Đường Hồ Chí Minh bằng xe máy](/du-lich/2026/09/28/en-k9-va-uong-ho-chi-minh-tai-ba-vi-bang-xe-may-gui-xe-va-uong-i/), còn kinh nghiệm cho các cung xa quanh ven đô nằm ở trang [ngoại thành Hà Nội](/du-lich/ngoai-thanh/).
+Thời gian dư của buổi nên dành cho khoảng lặng giữa rừng: ngồi nghỉ ở các ghế đá ven lối, ngắm rừng Ba Vì quanh khu, chụp ảnh tại các góc không cản trở dòng tham quan. Chi tiết hai tuyến đường từ Hà Nội tới Ba Vì, chỗ gửi xe tại khu và giờ vào cửa theo mùa được kể đầy đủ trong bài [đến K9 và Đường Hồ Chí Minh bằng xe máy](/du-lich/2026/09/28/den-k9-va-duong-ho-chi-minh-tai-ba-vi-bang-xe-may-gui-xe-va-duong-di/), còn kinh nghiệm cho các cung xa quanh ven đô nằm ở trang [ngoại thành Hà Nội](/du-lich/ngoai-thanh/).
 
 ## Ghép thêm điểm cùng hướng tây
 

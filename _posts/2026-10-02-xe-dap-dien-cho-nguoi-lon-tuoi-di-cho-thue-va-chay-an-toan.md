@@ -22,15 +22,15 @@ Tiêu chí đầu tiên là chân chạm đất. Người lớn tuổi cần ng�
 
 Tiêu chí thứ hai là phanh. Xe đạp điện hiện có hai kiểu phanh chính: phanh bóp tay kiểu xe đạp và phanh đĩa. Với người lớn tuổi, phanh bóp tay nhẹ nhàng quen thuộc thường dễ làm quen hơn, nhưng dù kiểu nào thì phải bóp được mà không cần tách từng ngón. Thử ngay tại cửa hàng: chạy chậm rồi bóp phanh trước, phanh sau, xem xe có bị vung đầu không.
 
-Tiêu chí thứ ba là trọng lượng và chỗ để đồ. Xe đạp điện chạy bằng ắc quy nên nặng hơn xe đạp thường, nhưng vẫn có dòng khung thấp, nhẹ hơn hẳn. Người đi chợ cần chỗ để giỏ chắc chắn, tránh đeo túi nặng lên yên khiến xe lệch khi chạy. Nếu cần so sánh dòng xe trước khi chọn, bài [xe đạp điện khác gì xe máy điện](/xe-may/2026/09/27/xe-ap-ien-khac-gi-xe-may-ien/) đã tách rõ hai loại cho ai đang lưỡng lự.
+Tiêu chí thứ ba là trọng lượng và chỗ để đồ. Xe đạp điện chạy bằng ắc quy nên nặng hơn xe đạp thường, nhưng vẫn có dòng khung thấp, nhẹ hơn hẳn. Người đi chợ cần chỗ để giỏ chắc chắn, tránh đeo túi nặng lên yên khiến xe lệch khi chạy. Nếu cần so sánh dòng xe trước khi chọn, bài [xe đạp điện khác gì xe máy điện](/xe-may/2026/09/27/xe-dap-dien-khac-gi-xe-may-dien/) đã tách rõ hai loại cho ai đang lưỡng lự.
 
 ## Chạy xe đạp điện đi chợ: tốc độ và nguyên tắc an toàn
 
 Người lớn tuổi đi chợ thường đi vào khung giờ sáng sớm, lúc đường phố ít xe nhất, và đó cũng là khung giờ an toàn nhất. Vẫn nên giữ vài nguyên tắc: chạy sát lề phải, không lách giữa các xe đang dừng ở đèn đỏ, không chạy ngược chiều dù đoạn ngắn, và luôn bật đèn nếu trời còn mờ. Cây số chạy chậm có vẻ mất thời gian, nhưng với xe đạp điện thì ga nhẹ vẫn đủ tiến, không cần vặn mạnh.
 
-Về mặt bằng lái, không phải xe đạp điện nào cũng như nhau: xe công suất nhỏ thường không yêu cầu giấy phép lái xe như xe máy, nhưng dòng nào thì thuộc diện nào thì cần hỏi rõ, nội dung chi tiết đã được tách trong bài [xe đạp điện có cần bằng lái không](/xe-may/2026/09/27/xe-ap-ien-co-can-bang-lai-khong/). Gia đình nên hỏi cả hai đầu: hỏi người cho thuê đúng dòng xe định lấy, và không dựa vào trí nhớ của người lái.
+Về mặt bằng lái, không phải xe đạp điện nào cũng như nhau: xe công suất nhỏ thường không yêu cầu giấy phép lái xe như xe máy, nhưng dòng nào thì thuộc diện nào thì cần hỏi rõ, nội dung chi tiết đã được tách trong bài [xe đạp điện có cần bằng lái không](/xe-may/2026/09/27/xe-dap-dien-co-can-bang-lai-khong/). Gia đình nên hỏi cả hai đầu: hỏi người cho thuê đúng dòng xe định lấy, và không dựa vào trí nhớ của người lái.
 
-Chợ đầu mối và chợ quanh các khu dân cư như khu Bồ Đề, Long Biên thường đông nhất vào sáng sớm, cũng là lúc vỉa hè chật kín xe. Cách dừng xe cho người lớn tuổi: tìm chỗ có bóng mát, chống chân trước chống chân sau nếu xe có, không dừng ngay miệng hố hoặc mép vỉa hè cao để khỏi phải bước xuống mép khi lên xuống. Chạy quanh khu phố cổ thì có thêm kinh nghiệm trong bài [thuê xe đạp điện đi quanh phố cổ và hồ Gươm](/xe-may/2026/09/27/thue-xe-ap-ien-i-quanh-pho-co-va-ho-guom/) cho ai muốn mở rộng tuyến đi.
+Chợ đầu mối và chợ quanh các khu dân cư như khu Bồ Đề, Long Biên thường đông nhất vào sáng sớm, cũng là lúc vỉa hè chật kín xe. Cách dừng xe cho người lớn tuổi: tìm chỗ có bóng mát, chống chân trước chống chân sau nếu xe có, không dừng ngay miệng hố hoặc mép vỉa hè cao để khỏi phải bước xuống mép khi lên xuống. Chạy quanh khu phố cổ thì có thêm kinh nghiệm trong bài [thuê xe đạp điện đi quanh phố cổ và hồ Gươm](/xe-may/2026/09/27/thue-xe-dap-dien-di-quanh-pho-co-va-ho-guom/) cho ai muốn mở rộng tuyến đi.
 
 ## Lưu ý ắc quy khi người lớn tuổi dùng ít
 

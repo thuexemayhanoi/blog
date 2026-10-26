@@ -37,7 +37,7 @@ Nếu buộc phải cùng vào vòng với xe tải, hãy đi hẳn phía sau n�
 
 Tín hiệu hữu ích nhất từ xe tải không phải đèn rẽ, mà là chuyển động thực: tốc độ chậm lại, đầu xe hơi lệch ra ngoài trước khi vào đường cong, gương chiếu hậu mà tài xế đang liếc. Khi bạn thấy những dấu này, hãy tự đặt giả định là xe tải sẽ rẽ ở lối gần nhất và điều chỉnh vị trí của mình trước, thay vì chờ tín hiệu rõ ràng.
 
-Giữ cho bản thân luôn hiện diện trong gương của xe tải: nếu bạn không nhìn thấy gương của nó từ vị trí của mình, tài xế cũng không nhìn thấy bạn. Đây là quy tắc kiểm tra đơn giản mà hiệu quả, áp dụng được cả trong vòng xuyến lẫn trên đường thẳng, giống như kỹ năng đã bàn trong bài [giữ khoảng cách với xe container trong nội đô](/ky-nang/2026/09/29/giu-khoang-cach-voi-xe-container-trong-noi-o/).
+Giữ cho bản thân luôn hiện diện trong gương của xe tải: nếu bạn không nhìn thấy gương của nó từ vị trí của mình, tài xế cũng không nhìn thấy bạn. Đây là quy tắc kiểm tra đơn giản mà hiệu quả, áp dụng được cả trong vòng xuyến lẫn trên đường thẳng, giống như kỹ năng đã bàn trong bài [giữ khoảng cách với xe container trong nội đô](/ky-nang/2026/09/29/giu-khoang-cach-voi-xe-container-trong-noi-do/).
 
 ## Những lỗi nguy hiểm ở vòng xuyến
 

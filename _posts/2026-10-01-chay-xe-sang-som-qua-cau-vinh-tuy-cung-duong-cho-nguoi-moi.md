@@ -35,7 +35,7 @@ Tình huống giao thông hay gặp quanh khu hai đầu cầu — xe buýt rẽ
 
 ## Ghép lịch sau buổi chạy
 
-Buổi chạy kết thúc gọn bằng bữa ăn sáng ven đường phía Long Biên hoặc gần đầu cầu nội đô: nhiều quán mở từ sáng sớm phục vụ dòng người đi sớm. Nếu bạn đang xếp thêm các buổi cuối tuần, các gợi ý vòng đường dài hơn nằm trong trang [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/), còn một khung chiều đối xứng với buổi sáng này — ngắm hoàng hôn từ phía sông — được gom trong bài [chạy xe qua cầu Chương Dương ngắm hoàng hôn](/du-lich/2026/10/01/chay-xe-qua-cau-chuong-duong-ngam-hoang-hon-cung-uong-va-luu-y/).
+Buổi chạy kết thúc gọn bằng bữa ăn sáng ven đường phía Long Biên hoặc gần đầu cầu nội đô: nhiều quán mở từ sáng sớm phục vụ dòng người đi sớm. Nếu bạn đang xếp thêm các buổi cuối tuần, các gợi ý vòng đường dài hơn nằm trong trang [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/), còn một khung chiều đối xứng với buổi sáng này — ngắm hoàng hôn từ phía sông — được gom trong bài [chạy xe qua cầu Chương Dương ngắm hoàng hôn](/du-lich/2026/10/01/chay-xe-qua-cau-chuong-duong-ngam-hoang-hon-cung-duong-va-luu-y/).
 
 Nếu thuê xe máy tại Hà Nội cho buổi chạy này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/). Người đi bằng xe công ty hoặc xe của bạn nên hẹn nhau ở điểm đỗ rộng gần đầu cầu, tránh đứng đỗ trên vỉa hè hẹp giờ sớm.
 

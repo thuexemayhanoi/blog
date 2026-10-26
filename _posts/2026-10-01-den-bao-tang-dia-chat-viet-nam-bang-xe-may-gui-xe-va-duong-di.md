@@ -37,7 +37,7 @@ Khi gửi xe tại các bãi quanh hồ Gươm, nhớ lấy vé và chụp lại
 
 Một buổi tại bảo tàng Địa chất thường ghép liền với một vòng hồ Gươm hoặc khu phố cổ, vì tất cả đều nằm trong bán kính đi bộ vài phút. Nhóm đi sáng hay xem bảo tàng trước, ăn trưa quanh khu Đồng Xuân, rồi chiều thong thả dạo phố cổ; nhóm đi chiều thì đảo ngược, tận dụng lúc phố lên đèn để chụp ảnh. Đừng nhồi thêm điểm thứ ba vào cùng nửa ngày: lịch kiểu đó phá nhịp nghỉ giữa buổi.
 
-Nếu bạn đang xếp một chuỗi các buổi bảo tàng quanh Hà Nội, bài [đến bảo tàng Hà Nội bằng xe máy](/du-lich/2026/10/01/en-bao-tang-ha-noi-bang-xe-may-gui-xe-va-uong-i/) có khung chuẩn bị cho bảo tàng khu Nam Từ Liêm, còn bài [thăm bảo tàng Lịch sử Quân sự nửa ngày](/du-lich/2026/10/01/kinh-nghiem-ghe-tham-bao-tang-lich-su-quan-su-viet-nam-nua-ngay/) gợi ý xếp lịch cho khu Ba Đình. Thêm nhiều gợi ý nằm trong danh sách [điểm đến](/du-lich/diem-den/).
+Nếu bạn đang xếp một chuỗi các buổi bảo tàng quanh Hà Nội, bài [đến bảo tàng Hà Nội bằng xe máy](/du-lich/2026/10/01/den-bao-tang-ha-noi-bang-xe-may-gui-xe-va-duong-di/) có khung chuẩn bị cho bảo tàng khu Nam Từ Liêm, còn bài [thăm bảo tàng Lịch sử Quân sự nửa ngày](/du-lich/2026/10/01/kinh-nghiem-ghe-tham-bao-tang-lich-su-quan-su-viet-nam-nua-ngay/) gợi ý xếp lịch cho khu Ba Đình. Thêm nhiều gợi ý nằm trong danh sách [điểm đến](/du-lich/diem-den/).
 
 ## Vài lưu ý trước khi lên đường
 

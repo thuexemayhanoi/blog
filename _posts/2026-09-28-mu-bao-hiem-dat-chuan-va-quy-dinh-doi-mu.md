@@ -30,7 +30,7 @@ Mũ bảo hiểm đạt chuẩn là mũ được sản xuất, nhập khẩu the
 - Mũ ôm đầu, không lắc lư khi cử động; vành che phủ tới vùng thái dương.
 - Mũ từng chịu va đập mạnh nên được thay mới, vì khả năng giảm chấn đã suy giảm dù bề ngoài còn nguyên.
 
-Phân biệt rõ phạm vi: bài này nói về quy định đội mũ; các tiêu chí chi tiết khi chọn mua mũ cho người đi xe máy đã được tách trong bài [chọn mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/), bạn nên đọc cả hai để vừa đúng luật vừa chọn được mũ phù hợp.
+Phân biệt rõ phạm vi: bài này nói về quy định đội mũ; các tiêu chí chi tiết khi chọn mua mũ cho người đi xe máy đã được tách trong bài [chọn mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-khi-di-xe-may-chuan-nao/), bạn nên đọc cả hai để vừa đúng luật vừa chọn được mũ phù hợp.
 
 ## Đội đúng cách: quy định và thực tế
 

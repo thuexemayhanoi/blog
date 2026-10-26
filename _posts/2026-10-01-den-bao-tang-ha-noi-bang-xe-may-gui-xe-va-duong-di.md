@@ -37,7 +37,7 @@ Ba thói quen nhỏ giúp buổi đi bằng xe máy thuê thêm yên tâm: khóa
 
 Một buổi tại bảo tàng thường đi cùng một điểm phụ cận quanh khu Mỹ Đình. Nhóm đi cuối tuần hay ghé khu trung tâm thương mại cạnh đó ăn trưa rồi mới về, còn nhóm thích không gian xanh thì chạy một vòng qua khu vực công viên phía Xuân Thủy, chỉ cách bảo tàng vài chặng xe. Đừng nhồi thêm điểm thứ ba vào cùng nửa ngày: lịch kiểu đó phá nhịp nghỉ giữa buổi.
 
-Nếu bạn đang xếp một chuỗi các buổi bảo tàng quanh Hà Nội, bài [đến bảo tàng Thiên nhiên Việt Nam bằng xe máy](/du-lich/2026/10/01/en-bao-tang-thien-nhien-viet-nam-bang-xe-may-gui-xe-va-uong-i/) có cùng khung chuẩn bị cho khu Cầu Giấy, còn kinh nghiệm xếp lịch nửa ngày của bảo tàng Lịch sử Quân sự ở khu Ba Đình nằm trong bài [thăm bảo tàng Lịch sử Quân sự nửa ngày](/du-lich/2026/10/01/kinh-nghiem-ghe-tham-bao-tang-lich-su-quan-su-viet-nam-nua-ngay/). Thêm nhiều gợi ý điểm đến khác nằm trong danh sách [điểm đến](/du-lich/diem-den/).
+Nếu bạn đang xếp một chuỗi các buổi bảo tàng quanh Hà Nội, bài [đến bảo tàng Thiên nhiên Việt Nam bằng xe máy](/du-lich/2026/10/01/den-bao-tang-thien-nhien-viet-nam-bang-xe-may-gui-xe-va-duong-di/) có cùng khung chuẩn bị cho khu Cầu Giấy, còn kinh nghiệm xếp lịch nửa ngày của bảo tàng Lịch sử Quân sự ở khu Ba Đình nằm trong bài [thăm bảo tàng Lịch sử Quân sự nửa ngày](/du-lich/2026/10/01/kinh-nghiem-ghe-tham-bao-tang-lich-su-quan-su-viet-nam-nua-ngay/). Thêm nhiều gợi ý điểm đến khác nằm trong danh sách [điểm đến](/du-lich/diem-den/).
 
 ## Vài lưu ý trước khi lên đường
 

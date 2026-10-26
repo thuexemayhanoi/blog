@@ -45,9 +45,9 @@ Khi dừng đèn đỏ trong mưa, nghiêng xe cho phần kiện lệch khỏi h
 
 ## Khi vẫn phải đi tiếp trong mưa lớn
 
-Trước khi đi tiếp, siết lại các nút buộc, vì nước dồn làm vài lớp túi xệ xuống. Chạy chậm hơn bình thường, tránh vệt nước sâu vì bánh sau văng nước thẳng vào kiện đồ. Cách chạy xe khi mưa lớn và giảm tốc đúng lúc đã được bàn trong bài [Chạy xe máy trời mưa lớn: giảm tốc và êm](/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-en/), nên đọc để giữ cả người lẫn đồ.
+Trước khi đi tiếp, siết lại các nút buộc, vì nước dồn làm vài lớp túi xệ xuống. Chạy chậm hơn bình thường, tránh vệt nước sâu vì bánh sau văng nước thẳng vào kiện đồ. Cách chạy xe khi mưa lớn và giảm tốc đúng lúc đã được bàn trong bài [Chạy xe máy trời mưa lớn: giảm tốc và êm](/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-den/), nên đọc để giữ cả người lẫn đồ.
 
-Nếu dự đoán trước được ngày mưa, việc chuẩn bị đồ đạc từ nhà sẽ nhẹ hơn nhiều. Bài [Mùa mưa Hà Nội: chuẩn bị gì khi đi xe máy thuê](/ky-nang/2026-09-29/mua-mua-ha-noi-chuan-bi-gi-khi-i-xe-may-thue/) gom các bước chuẩn bị cho chuyến đi trong mưa, từ vật liệu bọc đến trang bị cá nhân.
+Nếu dự đoán trước được ngày mưa, việc chuẩn bị đồ đạc từ nhà sẽ nhẹ hơn nhiều. Bài [Mùa mưa Hà Nội: chuẩn bị gì khi đi xe máy thuê](/ky-nang/2026-09-29/mua-mua-ha-noi-chuan-bi-gi-khi-di-xe-may-thue/) gom các bước chuẩn bị cho chuyến đi trong mưa, từ vật liệu bọc đến trang bị cá nhân.
 
 ## Sau chuyến mưa: xử lý đồ và áo mưa ẩm
 

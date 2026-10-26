@@ -45,7 +45,7 @@ Ban đêm, đèn pha xe buýt chiếu gần như thẳng vào mắt bạn qua g�
 
 ## Mưa và các điều kiện đặc biệt
 
-Mưa làm mọi thứ xấu đi theo cấp số: xe buýt phun nước từ bánh sau, tầm nhìn của tài xế giảm theo lượng nước bám kính, và đường ướt kéo dài quãng phanh. Đi sau xe buýt trong mưa, hãy ra khỏi vệt nước phun và nới khoảng cách gấp đôi. Nếu buộc phải theo sau, đặt xe lệch nửa làn để nhìn qua khe hở giữa các xe phía trước, tương tự kỹ thuật nhìn xuyên dòng đã bàn trong bài [giữ khoảng cách với xe container trong nội đô](/ky-nang/2026/09/29/giu-khoang-cach-voi-xe-container-trong-noi-o/).
+Mưa làm mọi thứ xấu đi theo cấp số: xe buýt phun nước từ bánh sau, tầm nhìn của tài xế giảm theo lượng nước bám kính, và đường ướt kéo dài quãng phanh. Đi sau xe buýt trong mưa, hãy ra khỏi vệt nước phun và nới khoảng cách gấp đôi. Nếu buộc phải theo sau, đặt xe lệch nửa làn để nhìn qua khe hở giữa các xe phía trước, tương tự kỹ thuật nhìn xuyên dòng đã bàn trong bài [giữ khoảng cách với xe container trong nội đô](/ky-nang/2026/09/29/giu-khoang-cach-voi-xe-container-trong-noi-do/).
 
 Bạn có thể ôn lại trọn bộ tình huống với xe lớn trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), hoặc chọn đúng bài cần luyện qua trang [kỹ năng & tình huống](/ky-nang/) trước mỗi chuyến đi xa.
 
