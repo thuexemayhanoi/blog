@@ -308,10 +308,13 @@ class TestApply(SyncBase):
         ids = list(self.defects(2))
         m = self.manifest(ids)
         guard = tree_hashes(self.root, WATCH)
+        bdir = self.root / S.BACKUP_DIR
+        # Repo thật có thể đã có sao lưu của lô trước (S01): dry-run chỉ không được tạo tệp mới.
+        backups = sorted(p.name for p in bdir.iterdir()) if bdir.exists() else []
         rep = self.apply(m, ids, dry_run=True)
         self.assertEqual(sorted(rep['would_write']), sorted(ids))
         self.assertEqual(tree_hashes(self.root, WATCH), guard)
-        self.assertFalse((self.root / S.BACKUP_DIR).exists())
+        self.assertEqual(sorted(p.name for p in bdir.iterdir()) if bdir.exists() else [], backups)
         for kw, code in (({'approval': ''}, 'NO_APPROVAL'),):
             with self.assertRaises(R.Refuse) as e:
                 S.apply_batch(self.ctx(approval=kw['approval']), m, ids)
