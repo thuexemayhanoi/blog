@@ -195,6 +195,24 @@ jobs:
           done < changed-files.txt
           if [ "$found" = 0 ]; then echo "no link-retarget backup in this change"; fi
 
+      - name: Matrix-sync backups touched by this change must verify
+        run: |
+          set -eu
+          # scripts/factory/sync-matrix-urls.py sửa 2 cột URL của hàng matrix cho khớp permalink thật (không đổi bài/URL live) và commit
+          # sao lưu riêng (reports/qa-audit/matrix-sync/). Mọi sao lưu được THÊM/SỬA trong thay đổi này phải verify: bài không đổi byte,
+          # hàng matrix == bản đã ghi và chỉ khác ở 2 cột, evidence chấm lại ĐỘC LẬP + provenance. Sao lưu cũ không kiểm lại.
+          found=0
+          while IFS= read -r f; do
+            case "$f" in
+              reports/qa-audit/matrix-sync/*.json)
+                [ -f "$f" ] || continue
+                found=1
+                python3 scripts/factory/sync-matrix-urls.py verify --backup "$f"
+                ;;
+            esac
+          done < changed-files.txt
+          if [ "$found" = 0 ]; then echo "no matrix-sync backup in this change"; fi
+
       - name: Custom-domain invariants
         run: |
           set -eu
