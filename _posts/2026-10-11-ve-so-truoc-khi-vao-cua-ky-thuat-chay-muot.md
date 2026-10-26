@@ -46,7 +46,7 @@ Nếu chưa thành thạo đốm ga, hãy về số theo kiểu hai nhịp: gài
 
 Trình tự chuẩn khi tới ngã tư hoặc cua gắt là nhả ga trước, siết phanh trước và phanh sau với lực chủ yếu ở phanh trước, gài côn về số thấp khi tốc độ đã giảm, rồi nhả phanh trước khi vào cua. Phanh trước đảm nhiệm phần lớn việc giảm tốc, nhưng phải nhả hết trước khi xe nghiêng, vì phanh trước giữa cua làm bánh trước giảm tốc và trượt ngang.
 
-Nhiều xe máy thuê có phanh ăn yếu hoặc phát tiếng kêu, và đây là lúc kỹ năng về số sớm trở nên quý giá: nếu phanh yếu, việc giảm tốc bằng ga và số sớm bù được phần thiếu. Khi nhận xe thuê, hãy dành một phút kiểm tra độ ăn phanh, và nếu thấy bất thường, đọc thêm cách xử lý khi [phanh xe thuê yếu và có tiếng kêu](/xe-may/2026/09/29/phanh-xe-thue-yeu-va-co-tieng-keu-xu-ly-the-nao) để kịp trao đổi với bên cho thuê.
+Nhiều xe máy thuê có phanh ăn yếu hoặc phát tiếng kêu, và đây là lúc kỹ năng về số sớm trở nên quý giá: nếu phanh yếu, việc giảm tốc bằng ga và số sớm bù được phần thiếu. Khi nhận xe thuê, hãy dành một phút kiểm tra độ ăn phanh, và nếu thấy bất thường, đọc thêm cách xử lý khi [phanh xe thuê yếu và có tiếng kêu](/xe-may/2026/09/29/phanh-xe-thue-yeu-va-co-tieng-keu-xu-ly-the-nao/) để kịp trao đổi với bên cho thuê.
 
 ## Lỗi thường gặp khi về số trước khi vào cua
 
@@ -58,4 +58,4 @@ Nguyên nhân gốc của cả ba lỗi là quan sát muộn. Khi mắt chỉ nh
 
 Chọn một cung đường vắng có cua quen, ví dụ vòng quanh hồ hoặc đường công viên sáng sớm, rồi chạy lại nhiều vòng chỉ tập một trình tự: nhả ga, phanh, về số, vào cua, ra cua. Làm thật chậm trước, chấp nhận cua ở tốc độ rất thấp, rồi tăng dần. Sau một tuần, trình tự sẽ tự chạy không cần nghĩ.
 
-Khi đã mượt với xe số nhà, hãy thử lại với xe số thuê để cảm nhận khác biệt về điểm côn và độ nặng cần số, vì mỗi chiếc xe có nhịp đốm ga khác nhau. Chủ đề này thuộc nhóm thao tác nền tảng, bạn có thể ghé chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban) để đọc nối tiếp các bài giữ thăng bằng và quan sát. Danh sách các hướng dẫn lái an toàn đang mở tại mục [kỹ năng](/ky-nang).
+Khi đã mượt với xe số nhà, hãy thử lại với xe số thuê để cảm nhận khác biệt về điểm côn và độ nặng cần số, vì mỗi chiếc xe có nhịp đốm ga khác nhau. Chủ đề này thuộc nhóm thao tác nền tảng, bạn có thể ghé chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) để đọc nối tiếp các bài giữ thăng bằng và quan sát. Danh sách các hướng dẫn lái an toàn đang mở tại mục [kỹ năng](/ky-nang/).

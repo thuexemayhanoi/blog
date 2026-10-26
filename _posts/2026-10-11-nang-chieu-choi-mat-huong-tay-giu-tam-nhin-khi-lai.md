@@ -50,8 +50,8 @@ Giờ cao điểm còn góp phần riêng: bóng xe đổ dài về phía đông
 
 Không thiết bị nào thay được kỹ năng, nhưng chọn đúng đồ giảm bớt áp lực lên mắt. Kính mũ tối màu giúp trong mảng chói nhưng trở thành tấm mờ khi vào bóng râm hoặc lúc trời sập tối, vì vậy với chiều muộn nên ưu tiên kính trong sạch kết hợp kỹ năng che bằng tay. Kính râm sát gọng chặn được nắng lệch từ mép, nhưng khi đèn đường đã lên thì phải tháo ra, giữ kính râm lúc tối chỉ tự tạo thêm một lớp chói thứ hai.
 
-Kính mũ luôn giữ sạch và không xước: dưới nắng nghiêng, các vết xước cũ tán xạ thành những chùm lóa nhỏ rải khắp tầm nhìn, đúng lúc mắt cần tương phản nhất. Muốn tổng ôn tư thế ngồi, thao tác ga phanh và quan sát gương trong điều kiện khó, các bài trong chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban) vẫn là nền tảng nên quay lại định kỳ.
+Kính mũ luôn giữ sạch và không xước: dưới nắng nghiêng, các vết xước cũ tán xạ thành những chùm lóa nhỏ rải khắp tầm nhìn, đúng lúc mắt cần tương phản nhất. Muốn tổng ôn tư thế ngồi, thao tác ga phanh và quan sát gương trong điều kiện khó, các bài trong chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) vẫn là nền tảng nên quay lại định kỳ.
 
 ## Tổng kết
 
-Nắng chiều hướng tây kiểm soát được bằng hạ tốc trước ngã tư, đổi góc kính mũ, che bằng tay và tuyệt đối không nhắm mắt để trốn nắng. Đọc kỹ các ranh giới sáng tối, cho mắt thời gian thích ứng và đi chậm ở nơi chói nhất. Các điều kiện thời tiết và mặt đường khác được phân tích trong chuyên mục [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa), còn khung tổng thể của mọi kỹ năng nằm ở mục [kỹ năng](/ky-nang).
+Nắng chiều hướng tây kiểm soát được bằng hạ tốc trước ngã tư, đổi góc kính mũ, che bằng tay và tuyệt đối không nhắm mắt để trốn nắng. Đọc kỹ các ranh giới sáng tối, cho mắt thời gian thích ứng và đi chậm ở nơi chói nhất. Các điều kiện thời tiết và mặt đường khác được phân tích trong chuyên mục [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), còn khung tổng thể của mọi kỹ năng nằm ở mục [kỹ năng](/ky-nang/).

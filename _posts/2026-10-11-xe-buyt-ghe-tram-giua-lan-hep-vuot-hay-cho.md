@@ -44,7 +44,7 @@ Một lỗi khác ít được để ý là vượt ngay khi xe buýt vừa đó
 
 Hành khách là biến số khó đoán nhất tại mọi trạm buýt. Người cầm điện thoại, người dắt trẻ hoặc người ôm đồ lớn thường đi chậm và ít nhìn xe. Người đứng ở mép bãi nhìn về phía xa thường đang chờ chuyến khác, còn người bước nhanh về phía cửa chắc chắn sắp lên. Đọc được vài nét này giúp bạn ước lượng xe buýt sẽ dừng thêm bao lâu, từ đó quyết định vượt hay chờ cho thảnh thơi.
 
-Gần các trạm trước cổng trường hay bệnh viện, mật độ người bộ hành tăng vọt vào khung giờ cố định. Qua các trạm này, hãy chủ động giảm sẵn tốc độ từ trước, coi như đã có người sắp băng qua, vì khi nhìn thấy rồi mới phanh thì thường đã muộn. Thói quen này giống tinh thần phòng thủ được nêu trong các bài viết ở chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban), nơi gương, xi nhan và quan sát vai được luyện thành phản xạ nền tảng.
+Gần các trạm trước cổng trường hay bệnh viện, mật độ người bộ hành tăng vọt vào khung giờ cố định. Qua các trạm này, hãy chủ động giảm sẵn tốc độ từ trước, coi như đã có người sắp băng qua, vì khi nhìn thấy rồi mới phanh thì thường đã muộn. Thói quen này giống tinh thần phòng thủ được nêu trong các bài viết ở chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), nơi gương, xi nhan và quan sát vai được luyện thành phản xạ nền tảng.
 
 ## Luyện tập trên tuyến có nhiều trạm buýt
 
@@ -52,4 +52,4 @@ Cách luyện đơn giản là chọn một tuyến quen thuộc có nhiều tr�
 
 ## Tổng kết
 
-Gặp xe buýt ghé trạm giữa làn hẹp, câu trả lời cho xe buýt ghé trạm vượt thế nào nằm ở ba dấu hiệu: cửa xe, vị trí người đón và dòng xe đối diện. Đủ cả ba thì vượt theo trình tự giảm tốc, xi nhan, quan sát và giữ khoảng ngang rộng. Thiếu một trong ba, hãy chờ vài giây cho xe rời trạm. Vài giây chờ luôn rẻ hơn mọi rủi ro quanh cửa xe buýt. Đọc thêm các tình huống đường phố khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong) và theo dõi các hướng dẫn lái an toàn tại mục [kỹ năng](/ky-nang).
+Gặp xe buýt ghé trạm giữa làn hẹp, câu trả lời cho xe buýt ghé trạm vượt thế nào nằm ở ba dấu hiệu: cửa xe, vị trí người đón và dòng xe đối diện. Đủ cả ba thì vượt theo trình tự giảm tốc, xi nhan, quan sát và giữ khoảng ngang rộng. Thiếu một trong ba, hãy chờ vài giây cho xe rời trạm. Vài giây chờ luôn rẻ hơn mọi rủi ro quanh cửa xe buýt. Đọc thêm các tình huống đường phố khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/) và theo dõi các hướng dẫn lái an toàn tại mục [kỹ năng](/ky-nang/).

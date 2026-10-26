@@ -64,7 +64,7 @@ Có tải phía sau, bạn nhích người lên phía trước yên một chút.
 - Móc dây vào nhựa ốp hoặc đèn hậu.
 - Gộp ghế với mâm lễ hay thùng hàng vào cùng một chuyến.
 
-Lỗi cuối dễ phạm nhất ở nhà có đám giỗ, khi mọi thứ cần chở cùng lúc. Mâm lễ cần một chuyến riêng, và cách [giữ mâm lễ thăng bằng, buộc chắc](/ky-nang/2026/10/10/cho-mam-o-cung-tren-xe-may-can-bang-va-buoc-chac/) đã có bài kể riêng. Còn ghế thuộc nhóm đồ nhẹ mà cồng kềnh, cũng bị gió làm khó như thùng giấy to, nên cách [chằng thùng giấy to cho gọn](/ky-nang/2026/10/09/cho-thung-giay-to-bang-xe-may-sao-cho-gon/) dùng được cho cả chồng ghế.
+Lỗi cuối dễ phạm nhất ở nhà có đám giỗ, khi mọi thứ cần chở cùng lúc. Mâm lễ cần một chuyến riêng, và cách [giữ mâm lễ thăng bằng, buộc chắc](/ky-nang/2026/10/10/cho-mam-do-cung-tren-xe-may-can-bang-va-buoc-chac/) đã có bài kể riêng. Còn ghế thuộc nhóm đồ nhẹ mà cồng kềnh, cũng bị gió làm khó như thùng giấy to, nên cách [chằng thùng giấy to cho gọn](/ky-nang/2026/10/09/cho-thung-giay-to-bang-xe-may-sao-cho-gon/) dùng được cho cả chồng ghế.
 
 ## Về tới nhà: tháo dây và hạ ghế
 

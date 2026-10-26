@@ -16,7 +16,7 @@ writer: W1
 
 Khách quốc tế đến Hà Nội thường hạ cánh trưa và chỉ có một hoặc hai buổi rảnh để làm thủ tục. Vì thế, hình thức thuê xe máy giao tận khách sạn trở thành lựa chọn tự nhiên: khách đặt trước từ sân bay, xe tới đúng giờ ở sảnh, không cần di chuyển thêm lần nào. Tuy nhiên, giao xe tận nơi có vài điểm khác so với nhận tại cửa hàng, từ cách chốt giờ, giấy tờ, tới cách kiểm tra xe ngay tại sảnh. Bài viết này đi từng bước của quy trình để cả khách và cửa hàng đều chủ động.
 
-Nếu khách chưa quen cách đặt trước từ xa, bài [quy trình đặt xe trước qua điện thoại chốt trước điều gì](/thue-xe/2026/09/27/quy-trinh-at-xe-truoc-qua-ien-thoai-chot-truoc-ieu-gi/) là nền tảng cần đọc trước khi đặt gói giao tận nơi.
+Nếu khách chưa quen cách đặt trước từ xa, bài [quy trình đặt xe trước qua điện thoại chốt trước điều gì](/thue-xe/2026/09/27/quy-trinh-dat-xe-truoc-qua-dien-thoai-chot-truoc-dieu-gi/) là nền tảng cần đọc trước khi đặt gói giao tận nơi.
 
 ## Thuê xe máy giao tận khách sạn khác gì nhận tại cửa hàng
 
@@ -34,7 +34,7 @@ Về giá, hãy hỏi rõ giá đã gồm những gì và những khoản nào c
 
 Khách quốc tế cần mang theo hộ chiếu, thị thực hoặc giấy tờ tùy thân còn hiệu lực, và giấy phép lái xe phù hợp. Trước buổi giao, cửa hàng nên gửi cho khách đúng danh mục này để tránh buổi gặp bị kẹt vì thiếu tờ nào đó. Danh mục chi tiết đã có trong bài [khách quốc tế thuê xe máy cần giấy tờ gì](/thue-xe/2026/10/07/khach-quoc-te-thue-xe-may-can-giay-to-dich-thuat/), bao gồm cả phần bản dịch cần chuẩn bị.
 
-Với hình thức cọc, khách nên chọn cách hoàn lại được rõ ràng: chuyển khoản nhận lại chuyển khoản, tiền mặt nhận lại tiền mặt tại buổi trả xe. Quy trình cọc khi nhận xe giao tận nơi đã được mô tả trong bài [đặt cọc khi nhận xe máy giao tận nơi](/thue-xe/2026/09/30/at-coc-khi-nhan-xe-may-giao-tan-noi/), bạn nên đọc để biết cần chuẩn bị những giấy tờ gì tại sảnh.
+Với hình thức cọc, khách nên chọn cách hoàn lại được rõ ràng: chuyển khoản nhận lại chuyển khoản, tiền mặt nhận lại tiền mặt tại buổi trả xe. Quy trình cọc khi nhận xe giao tận nơi đã được mô tả trong bài [đặt cọc khi nhận xe máy giao tận nơi](/thue-xe/2026/09/30/dat-coc-khi-nhan-xe-may-giao-tan-noi/), bạn nên đọc để biết cần chuẩn bị những giấy tờ gì tại sảnh.
 
 ## Bước ba: kiểm tra xe ngay tại sảnh
 

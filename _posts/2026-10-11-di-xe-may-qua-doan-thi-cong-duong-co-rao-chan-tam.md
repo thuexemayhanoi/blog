@@ -42,10 +42,10 @@ Với xe tải chở vật liệu, đừng bám sát phía sau vì đá dăm d�
 
 ## Chuẩn bị trước khi qua tuyến đang nâng cấp
 
-Người đi quen tuyến nên để ý các biển thông báo thi công đặt từ trước, chủ động thêm thời gian và chọn giờ vắng. Trời mưa nhỏ sau khi thi công, mặt đường mới còn nhiều vệt trơn chưa ổn định, hãy giảm thêm một nhịp tốc độ so với ngày nắng. Với khách đi xe thuê, nếu xe gặp sự cố ngay trong vùng thi công, trình tự ghi nhận và xử lý từng bước đã được nêu trong bài viết về [xe thuê bị hỏng giữa đường](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc).
+Người đi quen tuyến nên để ý các biển thông báo thi công đặt từ trước, chủ động thêm thời gian và chọn giờ vắng. Trời mưa nhỏ sau khi thi công, mặt đường mới còn nhiều vệt trơn chưa ổn định, hãy giảm thêm một nhịp tốc độ so với ngày nắng. Với khách đi xe thuê, nếu xe gặp sự cố ngay trong vùng thi công, trình tự ghi nhận và xử lý từng bước đã được nêu trong bài viết về [xe thuê bị hỏng giữa đường](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-duong-xu-ly-tung-buoc/).
 
 Trước ngày đi qua tuyến đang nâng cấp, hãy kiểm tra nhanh đèn, còi và phanh, vì trong vùng thi công ba hạng mục này bị gọi đến thường xuyên hơn mọi cung đường thường. Còi để báo hiệu trong bụi mù, đèn để soi mốc trong đêm, phanh để xử lý gờ nối và vệt trơn. Một vòng kiểm tra chưa hết một phút nhưng đổi lấy cả hành trình an toàn.
 
 ## Tổng kết
 
-Qua vùng thi công an toàn là giảm sớm, đi theo lối đánh dấu, giữ khoảng cách với máy móc và không bao giờ cắt vào các lối tạm hẹp. Mặt đường và rào chắn thay đổi từng ngày, nên hãy đi như thể lần đầu gặp đoạn đó. Đọc thêm các tình huống giao thông khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong) và theo dõi các hướng dẫn lái an toàn tại mục [kỹ năng](/ky-nang).
+Qua vùng thi công an toàn là giảm sớm, đi theo lối đánh dấu, giữ khoảng cách với máy móc và không bao giờ cắt vào các lối tạm hẹp. Mặt đường và rào chắn thay đổi từng ngày, nên hãy đi như thể lần đầu gặp đoạn đó. Đọc thêm các tình huống giao thông khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/) và theo dõi các hướng dẫn lái an toàn tại mục [kỹ năng](/ky-nang/).

@@ -46,7 +46,7 @@ Với nhóm xe đi hàng nhiều chiếc, người đầu nhóm nên báo tín h
 
 Đèn xi nhan chỉ hoàn thành nhiệm vụ khi cả bóng đèn, cần bật và chuông nhắc đều hoạt động. Trước mỗi chuyến đi dài, hãy bật lần lượt trái rồi phải, nhìn phản chiếu trên tường hoặc nhờ người xác nhận cả đèn trước và đèn sau. Bóng đèn cháy một bên là lỗi phổ biến của xe cũ, khiến tín hiệu bị hiểu sai hoàn toàn.
 
-Với xe máy thuê, việc kiểm tra xi nhan nên nằm trong quy trình nhận xe cùng đèn pha, còi và gương. Ghi tình trạng đèn vào [biên bản giao nhận xe](/thue-xe/2026/09/27/bien-ban-giao-nhan-xe-chua-nhung-gi) để có căn cứ rõ ràng, tránh tình huống giữa đường mới phát hiện đèn hỏng mà không ai chịu sửa. Nếu phát hiện đèn xi nhan một bên không sáng giữa chuyến đi, hãy dùng hiệu tay thay thế cho tới khi khắc phục được.
+Với xe máy thuê, việc kiểm tra xi nhan nên nằm trong quy trình nhận xe cùng đèn pha, còi và gương. Ghi tình trạng đèn vào [biên bản giao nhận xe](/thue-xe/2026/09/27/bien-ban-giao-nhan-xe-chua-nhung-gi/) để có căn cứ rõ ràng, tránh tình huống giữa đường mới phát hiện đèn hỏng mà không ai chịu sửa. Nếu phát hiện đèn xi nhan một bên không sáng giữa chuyến đi, hãy dùng hiệu tay thay thế cho tới khi khắc phục được.
 
 ## Hiệu tay và các tín hiệu bổ sung
 
@@ -58,4 +58,4 @@ Tuy vậy, đừng lạm dụng hiệu tay cho những tình huống đèn xi nh
 
 Cách luyện đơn giản nhất là tự đặt luật chơi cho chính mình: mỗi lần quên tắt xi nhan hoặc bật muộn, nhắc mình một lần rõ ràng. Sau một tuần, bạn sẽ thấy tần số lỗi giảm rõ rệt. Một cách khác là chạy thử vài cung đường quen và đánh giá mỗi lần rẽ: tín hiệu của tôi có đến trước hành động không.
 
-Xi nhan chuẩn là một trong những thói quen nhỏ tạo nên người lái được tin cậy giữa dòng xe Hà Nội. Ghé chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban) để đọc nối tiếp các bài về quan sát và giữ khoảng cách, và theo dõi toàn bộ hướng dẫn lái an toàn tại mục [kỹ năng](/ky-nang).
+Xi nhan chuẩn là một trong những thói quen nhỏ tạo nên người lái được tin cậy giữa dòng xe Hà Nội. Ghé chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) để đọc nối tiếp các bài về quan sát và giữ khoảng cách, và theo dõi toàn bộ hướng dẫn lái an toàn tại mục [kỹ năng](/ky-nang/).

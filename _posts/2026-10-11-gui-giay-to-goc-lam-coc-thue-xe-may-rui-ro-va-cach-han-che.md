@@ -16,7 +16,7 @@ writer: W1
 
 Không phải khách thuê xe nào cũng có sẵn một khoản tiền để đặt cọc, nên nhiều người chọn cách khác: để lại giấy tờ gốc cho cửa hàng giữ. Cách này tiện ngay lúc đặt xe, nhưng gửi giấy tờ gốc thuê xe máy đồng nghĩa với việc đặt toàn bộ danh tính của bạn vào tay người lạ trong suốt kỳ thuê. Bài viết này phân tích từng rủi ro của hình thức cọc bằng giấy tờ, cách hạn chế từng rủi ro, và những câu nên hỏi trước khi giao cmnd hoặc căn cước cho bất kỳ cửa hàng nào ở Hà Nội.
 
-Nếu bạn đang cân nhắc giữa giữ tiền và giữ giấy tờ, bài [giữ giấy tờ thay đặt cọc nên hay không](/thue-xe/2026/09/27/giu-giay-to-thay-at-coc-nen-hay-khong/) đã đặt vấn đề này cạnh nhau để so sánh.
+Nếu bạn đang cân nhắc giữa giữ tiền và giữ giấy tờ, bài [giữ giấy tờ thay đặt cọc nên hay không](/thue-xe/2026/09/27/giu-giay-to-thay-dat-coc-nen-hay-khong/) đã đặt vấn đề này cạnh nhau để so sánh.
 
 ## Gửi giấy tờ gốc thuê xe máy tạo ra rủi ro gì
 
@@ -40,7 +40,7 @@ Một thói quen tốt nữa là chuẩn bị sẵn bản photo của giấy t�
 
 Cách giảm rủi ro triệt để nhất là không gửi gốc. Nếu có thể, hãy đặt cọc bằng tiền mặt hoặc chuyển khoản, chỉ để lại bản photo. Nếu cửa hàng yêu cầu bản gốc, hãy hỏi có chấp nhận photo công chứng kèm thỏa thuận ghi rõ trách nhiệm không. Nhiều nơi đồng ý khi khách hỏi khéo, vì yêu cầu bản gốc phần lớn là thói quen, không phải quy định cứng.
 
-Ai vẫn băn khoăn về tính an toàn có thể đọc thêm bài [giữ giấy tờ thay tiền cọc khi thuê xe máy an toàn không](/thue-xe/2026/10/07/giu-giay-to-thay-tien-coc-khi-thue-xe-may-an-toan-khong/) để có đánh giá chi tiết hơn, hoặc bài [giữ giấy tờ thay tiền cọc có nên không](/thue-xe/2026/10/07/giu-giay-to-thay-tien-coc-co-nen-khong/) khi so sánh hai hướng. Nếu tài chính eo hẹp, một số cửa hàng có gói không cần đặt cọc, hãy tham khảo bài [có shop nào cho thuê xe máy không cần đặt cọc ở Hà Nội không](/thue-xe/2026/09/30/co-shop-nao-cho-thue-xe-may-khong-can-at-coc-o-ha-noi-khong/) trước khi từ chối ý định thuê xe.
+Ai vẫn băn khoăn về tính an toàn có thể đọc thêm bài [giữ giấy tờ thay tiền cọc khi thuê xe máy an toàn không](/thue-xe/2026/10/07/giu-giay-to-thay-tien-coc-khi-thue-xe-may-an-toan-khong/) để có đánh giá chi tiết hơn, hoặc bài [giữ giấy tờ thay tiền cọc có nên không](/thue-xe/2026/10/07/giu-giay-to-thay-tien-coc-co-nen-khong/) khi so sánh hai hướng. Nếu tài chính eo hẹp, một số cửa hàng có gói không cần đặt cọc, hãy tham khảo bài [có shop nào cho thuê xe máy không cần đặt cọc ở Hà Nội không](/thue-xe/2026/09/30/co-shop-nao-cho-thue-xe-may-khong-can-dat-coc-o-ha-noi-khong/) trước khi từ chối ý định thuê xe.
 
 ## Những câu nên hỏi trước khi giao giấy tờ
 

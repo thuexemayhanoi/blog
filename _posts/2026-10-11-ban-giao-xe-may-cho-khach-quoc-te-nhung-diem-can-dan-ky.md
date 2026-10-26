@@ -26,7 +26,7 @@ Trình tự gợi ý gồm bốn khối, mỗi khối khoảng vài phút. Khố
 
 Điểm cần nói đầu tiên là bên trái: xe máy đi bên trái, quay đầu bên trái, và đa số giao lộ không có tín hiệu riêng cho người quay. Tiếp theo là còi: ở Hà Nội, còi là ngôn ngữ giao tiếp, không phải biểu hiện bất lịch sự, nên đừng giật mình khi được còi từ phía sau. Cuối cùng là đèn: chớp đèn khi chuẩn bị vượt hoặc khi qua ngõ, thói quen này khách cần biết để tránh hiểu lầm.
 
-Nên dặn thêm về giới hạn: không lên vỉa hè trừ khi có biển cho phép, tránh đường cao tốc, và đặc biệt không dừng sát đường ray. Với khách cần ôn lại tổng thể quy tắc, bài [khách quốc tế hiểu biển báo và luật giao thông cơ bản](/thue-xe/2026/09/27/khach-quoc-te-oc-bien-bao-va-luat-giao-thong-co-ban/) là tư liệu tiếng Việt kèm hình minh họa phù hợp để cửa hàng gửi trước qua tin nhắn.
+Nên dặn thêm về giới hạn: không lên vỉa hè trừ khi có biển cho phép, tránh đường cao tốc, và đặc biệt không dừng sát đường ray. Với khách cần ôn lại tổng thể quy tắc, bài [khách quốc tế hiểu biển báo và luật giao thông cơ bản](/thue-xe/2026/09/27/khach-quoc-te-doc-bien-bao-va-luat-giao-thong-co-ban/) là tư liệu tiếng Việt kèm hình minh họa phù hợp để cửa hàng gửi trước qua tin nhắn.
 
 ## Hướng dẫn thao tác xe ngay tại chỗ
 
@@ -46,6 +46,6 @@ Một thói quen đáng dặn thêm là cách xử lý khi bị cảnh sát giao
 
 Cuối buổi giao, hãy chốt hai kênh liên lạc: tin nhắn qua ứng dụng khách dùng được, và một số điện thoại cửa hàng. Dặn khách nhắn ngay khi xe có dấu hiệu lạ hoặc khi trễ giờ trả, vì báo sớm luôn dễ xử lý hơn báo muộn. Về trả xe, nói rõ giờ hoạt động của cửa hàng và việc không nhận xe ngoài giờ, để khách chủ động lịch trình của họ; chi tiết trao đổi lúc trả đã có trong bài [khách quốc tế trả xe và nhận lại giấy tờ chốt gì](/thue-xe/2026/10/03/khach-quoc-te-tra-xe-va-nhan-lai-giay-to-chot-gi/), khách nên đọc trước một tối.
 
-Với khách chưa chắc tiếng Việt của mình đủ cho tình huống giao tiếp, hướng dẫn trong bài [ứng dụng bản đồ tiếng Anh cho khách quốc tế thuê xe máy](/thue-xe/2026/09/30/ung-dung-ban-o-tieng-anh-cho-khach-quoc-te-thue-xe-may/) là kênh dự phòng tốt khi cần chỉ đường.
+Với khách chưa chắc tiếng Việt của mình đủ cho tình huống giao tiếp, hướng dẫn trong bài [ứng dụng bản đồ tiếng Anh cho khách quốc tế thuê xe máy](/thue-xe/2026/09/30/ung-dung-ban-do-tieng-anh-cho-khach-quoc-te-thue-xe-may/) là kênh dự phòng tốt khi cần chỉ đường.
 
 Tóm lại, buổi bàn giao xe cho khách quốc tế thành công khi khách rời đi với bốn khối thông tin: luật lệ, thao tác, giữ xe, và kênh liên lạc. Mọi hướng dẫn tổng quan cho khách nước ngoài, bạn có thể xem trong chuyên mục [thuê xe cho khách quốc tế](/thue-xe/khach-quoc-te/) hoặc bắt đầu từ trang chủ [thuê xe máy Hà Nội](/thue-xe/) khi chuẩn bị tư liệu cho khách.

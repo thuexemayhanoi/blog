@@ -16,7 +16,7 @@ writer: W1
 
 Nhiều khách chọn đặt cọc xe máy tiền mặt vì nhanh, không cần ứng dụng ngân hàng, và thấy tiền là yên tâm. Nhưng chính cách nhanh này lại chứa một khoảng mù: sau khi bạn rời cửa hàng, số tiền nằm trong két của người khác, và ký ức hai bên về nó có thể khác nhau. Vì thế, đếm và chụp lại tiền cọc mà là cách biến một lời hứa thành bằng chứng cụ thể. Bài viết này đi từng bước của quy trình kiểm đếm và lưu bằng chứng khi đặt cọc bằng tiền mặt.
 
-Nếu bạn còn phân vân giữa hai hình thức, bài [đặt cọc bằng chuyển khoản hay tiền mặt](/thue-xe/2026/09/27/at-coc-bang-chuyen-khoan-hay-tien-mat/) đã so sánh ưu nhược của từng bên.
+Nếu bạn còn phân vân giữa hai hình thức, bài [đặt cọc bằng chuyển khoản hay tiền mặt](/thue-xe/2026/09/27/dat-coc-bang-chuyen-khoan-hay-tien-mat/) đã so sánh ưu nhược của từng bên.
 
 ## Vì sao đặt cọc xe máy tiền mặt phải đếm chậm và làm rõ
 
@@ -34,7 +34,7 @@ Sau lượt đếm đầu, hãy đếm lượt hai theo chiều ngược lại: 
 
 Sau khi đếm xong, hãy chụp ảnh từng xấp, rồi chụp một ảnh toàn cảnh số tiền nằm cạnh biên nhận đã viết số bằng chữ và số. Ảnh nên hiện rõ mặt số tờ và giá trị từng xấp. Có thể quay một đoạn video ngắn trong lúc đếm là càng tốt: video ghi được cả quá trình và âm thanh đếm, giá trị chứng cứ cao hơn ảnh tĩnh.
 
-Cách lưu bằng chứng này áp dụng được cho mọi hình thức thanh toán. Với khách thanh toán qua ứng dụng, thao tác tương tự đã được mô tả trong bài [cách giữ bằng chứng cọc khi đặt tiền thuê xe qua ứng dụng](/thue-xe/2026/10/07/cach-giu-bang-chung-coc-khi-at-tien-thue-xe-qua-ung-dung/), trong đó nguyên tắc là chụp lại màn hình xác nhận ngay thời điểm giao dịch.
+Cách lưu bằng chứng này áp dụng được cho mọi hình thức thanh toán. Với khách thanh toán qua ứng dụng, thao tác tương tự đã được mô tả trong bài [cách giữ bằng chứng cọc khi đặt tiền thuê xe qua ứng dụng](/thue-xe/2026/10/07/cach-giu-bang-chung-coc-khi-dat-tien-thue-xe-qua-ung-dung/), trong đó nguyên tắc là chụp lại màn hình xác nhận ngay thời điểm giao dịch.
 
 ## Bước ba: ghi rõ số tiền bằng số và bằng chữ
 
@@ -46,7 +46,7 @@ Nếu biên nhận viết tay, yêu cầu viết lại bản thứ hai và giữ
 
 Đếm và chụp chỉ là nửa đường; nửa còn lại là điều kiện hoàn. Trước khi giao tiền, hãy hỏi rõ: tiền cọc hoàn toàn đủ trong trường hợp nào, khấu trừ theo tiêu chí nào, và hoàn trong bao lâu sau khi trả xe. Những câu này nên được ghi vào biên nhận hoặc hợp đồng thuê.
 
-Hỏi trước còn hơn vấn sau, vì đa số tranh chấp khi hoàn cọc đều xuất phát từ khác biệt hiểu về điều kiện, không phải về con số. Ai từng đọc bài [đặt cọc khi thuê xe máy hoạt động thế nào](/thue-xe/2026/09/27/at-coc-khi-thue-xe-may-hoat-ong-the-nao/) sẽ nhận ra phần điều kiện hoàn là phần cần hỏi kỹ nhất, đúng như trình tự này.
+Hỏi trước còn hơn vấn sau, vì đa số tranh chấp khi hoàn cọc đều xuất phát từ khác biệt hiểu về điều kiện, không phải về con số. Ai từng đọc bài [đặt cọc khi thuê xe máy hoạt động thế nào](/thue-xe/2026/09/27/dat-coc-khi-thue-xe-may-hoat-dong-the-nao/) sẽ nhận ra phần điều kiện hoàn là phần cần hỏi kỹ nhất, đúng như trình tự này.
 
 ## Trường hợp cọc bằng ngoại tệ hoặc tài sản khác
 

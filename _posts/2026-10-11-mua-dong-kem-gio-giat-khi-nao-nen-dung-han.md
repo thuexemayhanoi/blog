@@ -40,14 +40,14 @@ Chạm tới hai trong ba mốc này, hãy tìm chỗ dừng ngay. Dừng không
 
 Nơi dừng tốt là chỗ có mái che và tường chắn: vỉa hè khu nhà cao tầng, mái hiên khu dân cư, trạm chờ xe buýt. Tránh tuyệt đối gốc cây to giữa trời trống, biển quảng cáo lớn, các tấm tôn lợp chưa buộc chặt và hàng cây gần đường điện, vì dông dễ quật gãy ngọn hoặc rơi đồ đạc xuống đầu. Mặt cầu vượt và tầng hầm mở cũng là chỗ gió xoáy mạnh, không nên đứng trú ở trục cầu trống. Giàn giáo công trình và hàng rào tôn chưa neo chắc cũng cần tránh xa như biển quảng cáo, vì một cú giật mạnh đủ làm đổ cả cụm giàn xuống vỉa hè.
 
-Khi buộc dừng ven đường vì chưa tìm được mái che, hãy bật cả đèn pha lẫn xi nhan, dựng xe sát lề theo chiều gió, và đứng cách xe một khoảng để tránh xe bị gió quật đè lên người. Nếu đi xe thuê và gặp sự cố giữa dông, bài [nhớ cứu hộ xe máy thuê ở Hà Nội](/thue-xe/2026/09/27/nho-cuu-ho-xe-may-thue-o-ha-noi) tổng hợp các thông tin cần chuẩn bị trước khi nhờ người tới hỗ trợ.
+Khi buộc dừng ven đường vì chưa tìm được mái che, hãy bật cả đèn pha lẫn xi nhan, dựng xe sát lề theo chiều gió, và đứng cách xe một khoảng để tránh xe bị gió quật đè lên người. Nếu đi xe thuê và gặp sự cố giữa dông, bài [nhớ cứu hộ xe máy thuê ở Hà Nội](/thue-xe/2026/09/27/nho-cuu-ho-xe-may-thue-o-ha-noi/) tổng hợp các thông tin cần chuẩn bị trước khi nhờ người tới hỗ trợ.
 
 ## Trở lại đường sau khi dông qua
 
 Sau dông, đường còn trơn thêm một lúc vì nước cuốn rác cát về rãnh. Chạy lại bằng tốc thấp, kiểm tra phanh ngay đầu chặng bằng một cú bóp nhè nhẹ, vì má phanh có thể bị ướt loang trong lúc dừng mưa. Kính mũ hai bên thường dính bùn loang, hãy lau trước khi ra đường lớn, và nới rộng khoảng cách theo dõi xe trước vì mặt đường còn nhiều vũng mới hình thành sau cơn nước.
 
-Sau mỗi cơn dông cũng là lúc nên quay lại các nguyên tắc giữ thăng bằng và thao tác ga phanh trên mặt trơn trong chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban), khi trí nhớ về mặt đường đã cũ nhưng điều kiện đường vẫn còn xấu hơn ngày thường.
+Sau mỗi cơn dông cũng là lúc nên quay lại các nguyên tắc giữ thăng bằng và thao tác ga phanh trên mặt trơn trong chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), khi trí nhớ về mặt đường đã cũ nhưng điều kiện đường vẫn còn xấu hơn ngày thường.
 
 ## Tổng kết
 
-Các mốc dừng khi gặp dông là tầm nhìn dưới vài chục mét, mặt đường vừa hứng mưa đầu, và gió hất lệch được xe. Dừng ở nơi có mái che tường chắn, tránh gốc to, biển lớn và chỗ trống gió xoáy. Sau dông, về lại đường bằng tốc thấp và kiểm tra phanh trước khi lên ga. Các điều kiện thời tiết khó khác được phân tích trong chuyên mục [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa), còn khung tổng thể của mọi kỹ năng nằm ở mục [kỹ năng](/ky-nang).
+Các mốc dừng khi gặp dông là tầm nhìn dưới vài chục mét, mặt đường vừa hứng mưa đầu, và gió hất lệch được xe. Dừng ở nơi có mái che tường chắn, tránh gốc to, biển lớn và chỗ trống gió xoáy. Sau dông, về lại đường bằng tốc thấp và kiểm tra phanh trước khi lên ga. Các điều kiện thời tiết khó khác được phân tích trong chuyên mục [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), còn khung tổng thể của mọi kỹ năng nằm ở mục [kỹ năng](/ky-nang/).

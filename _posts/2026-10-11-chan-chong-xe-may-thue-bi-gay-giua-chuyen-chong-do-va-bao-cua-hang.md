@@ -16,7 +16,7 @@ writer: W1
 
 Bạn vừa dựng xe sát mép vỉa hè phố Huế để vào quán ăn tối, chưa kịp ngồi xuống thì nghe đằng sau một tiếng rắc khe khẽ, quay lại thấy xe đang nghiêng dần rồi đổ hẳn vào mép tòa nhà bên cạnh. Chân chống xe thuê bị gãy giữa chuyến đi là sự cố chi phí không lớn nhưng hậu quả thì dây dưa: xước yên, gãy gương, móp cốp, thậm chí làm hỏng đồ của người khác nếu xe đổ vào hàng quán. Bài viết này hướng dẫn cách dựng xe an toàn khi không còn chân chống, cách chống đổ tạm và cách báo cửa hàng đúng để trách nhiệm được nhìn nhận rõ.
 
-Trước hết cần nói rõ: đây là một dạng hỏng giữa đường, nên tinh thần chung vẫn là ưu tiên an toàn và xử lý từng bước, tương tự bài [xe thuê bị hỏng giữa đường xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/).
+Trước hết cần nói rõ: đây là một dạng hỏng giữa đường, nên tinh thần chung vẫn là ưu tiên an toàn và xử lý từng bước, tương tự bài [xe thuê bị hỏng giữa đường xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-duong-xu-ly-tung-buoc/).
 
 ## Vì sao chân chống xe thuê bị gãy
 

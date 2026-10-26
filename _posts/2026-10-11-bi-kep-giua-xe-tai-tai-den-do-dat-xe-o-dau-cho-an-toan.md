@@ -44,8 +44,8 @@ Với ngã tư có vạch dừng cho xe máy riêng nằm trước vạch chung,
 
 Khi đèn xanh lên, đừng rời vạch cùng lúc với xe tải. Cho xe tải nhích trước một nhịp, quan sát đuôi xe vát về phía nào, rồi mới khởi hành. Với xe số, côn vào từ khi đèn sắp xanh, nhưng chỉ thả côn khi xe tải đã đi; với xe ga, phanh giữ cho tới khi khe phía trước mở đủ rộng. Nhịp chờ này chỉ mất hai giây nhưng loại bỏ gần hết rủi ro lúc giao cắt. Với các ngã tư có thời gian đèn xanh ngắn, nhịp chờ còn giúp bạn tránh các pha va chạm chéo từ hướng ngang vừa kịp đèn, vốn hay xảy ra ở khung tín hiệu đầu tiên.
 
-Trường hợp bị kẹp lúc xe tải đang quay đầu hoặc lùi, hãy xuống khỏi xe và dắt bộ theo khe thoát đã chọn, kể cả phải lùi vài bước. Xe có thể sửa được còn người thì khó phục hồi. Nếu xảy ra va chạm nhẹ, chụp hiện trạng hai bên trước khi di chuyển, trình tự này gần giống các bước ghi nhận khi [xe thuê bị hỏng giữa đường](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc) để tránh tranh cãi về sau.
+Trường hợp bị kẹp lúc xe tải đang quay đầu hoặc lùi, hãy xuống khỏi xe và dắt bộ theo khe thoát đã chọn, kể cả phải lùi vài bước. Xe có thể sửa được còn người thì khó phục hồi. Nếu xảy ra va chạm nhẹ, chụp hiện trạng hai bên trước khi di chuyển, trình tự này gần giống các bước ghi nhận khi [xe thuê bị hỏng giữa đường](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-duong-xu-ly-tung-buoc/) để tránh tranh cãi về sau.
 
 ## Tổng kết
 
-Không đứng giữa đầu xe tải, luôn giữ một khe thoát, và cho xe lớn nhích trước khi rời vạch là ba quy tắc sống còn tại đèn đỏ có xe tải. Xe máy sinh ra để lách, nhưng lách đúng chỗ chứ không lách vào kẽ chết. Đọc thêm các tình huống giao thông khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong) và theo dõi các hướng dẫn tại mục [kỹ năng](/ky-nang).
+Không đứng giữa đầu xe tải, luôn giữ một khe thoát, và cho xe lớn nhích trước khi rời vạch là ba quy tắc sống còn tại đèn đỏ có xe tải. Xe máy sinh ra để lách, nhưng lách đúng chỗ chứ không lách vào kẽ chết. Đọc thêm các tình huống giao thông khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/) và theo dõi các hướng dẫn tại mục [kỹ năng](/ky-nang/).

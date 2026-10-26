@@ -54,10 +54,10 @@ Trong mọi trường hợp, đừng giật tay lái hoặc phanh cứng khiến
 
 Xe thuê thường khác xe nhà ở độ cao yên, độ nặng tay lái và độ nhạy phanh, và điều đó ảnh hưởng trực tiếp tới bán kính quay. Trước khi cần quay đầu, hãy thử vài cú xi nhan và phanh nhẹ để cảm nhận phản ứng của xe. Nếu tay lái quá nặng, hãy chọn điểm quay rộng hơn bình thường để bù cho độ xoay thiếu.
 
-Người mới điều khiển xe số thuê nên tập gài côn về mo trước khi xoay, vì máy chết giữa vòng quay với xe lạ là lỗi rất hay gặp. Với xe ga, hãy chú ý ga tự do thường cao hơn khiến xe nhích nhanh hơn ý muốn khi xoay đầu. Khi nhận xe, đừng quên ghi rõ tình trạng gương và đèn xi nhan vào [biên bản giao nhận xe](/thue-xe/2026/09/27/bien-ban-giao-nhan-xe-chua-nhung-gi) để có căn cứ đối chiếu khi trả.
+Người mới điều khiển xe số thuê nên tập gài côn về mo trước khi xoay, vì máy chết giữa vòng quay với xe lạ là lỗi rất hay gặp. Với xe ga, hãy chú ý ga tự do thường cao hơn khiến xe nhích nhanh hơn ý muốn khi xoay đầu. Khi nhận xe, đừng quên ghi rõ tình trạng gương và đèn xi nhan vào [biên bản giao nhận xe](/thue-xe/2026/09/27/bien-ban-giao-nhan-xe-chua-nhung-gi/) để có căn cứ đối chiếu khi trả.
 
 ## Luyện tập trình tự thành phản xạ
 
 Hãy chọn một đoạn đường vắng vào sáng sớm cuối tuần, dựng hai vật đánh dấu giả lập mép đường rộng khoảng bốn mét, rồi tập lặp lại toàn bộ trình tự: xi nhan, quan sát, giảm tốc, quay, tắt xi nhan. Làm chậm rãi mười lần rồi mới tăng dần tốc độ xoay. Mục tiêu không phải quay đẹp, mà là mỗi vòng quay đều đủ nhịp quan sát.
 
-Sau khi thành thạo quay trên đường rộng, hãy tập thêm quay ba điểm trong chiều rộng hẹp dần. Kỹ năng này ăn khớp trực tiếp với các thao tác lùi và xoay xe trong không gian chật, vì thế bạn nên đọc thêm chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban) để luyện đồng bộ. Tổng quan các bài hướng dẫn lái an toàn khác đang được cập nhật trong mục [kỹ năng](/ky-nang).
+Sau khi thành thạo quay trên đường rộng, hãy tập thêm quay ba điểm trong chiều rộng hẹp dần. Kỹ năng này ăn khớp trực tiếp với các thao tác lùi và xoay xe trong không gian chật, vì thế bạn nên đọc thêm chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) để luyện đồng bộ. Tổng quan các bài hướng dẫn lái an toàn khác đang được cập nhật trong mục [kỹ năng](/ky-nang/).

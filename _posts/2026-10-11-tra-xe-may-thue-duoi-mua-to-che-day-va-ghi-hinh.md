@@ -16,7 +16,7 @@ writer: W1
 
 Mưa dông ở Hà Nội thường đến rất nhanh, và đôi khi nó chọn đúng lúc bạn phải trả xe. Trả xe thuê trời mưa là tình huống hiếm nhưng đầy rủi ro: xe ướt khiến khó soi vết trầy, nước che phần điện, và sau này mọi hỏng hóc đều có nguy cơ bị đổ cho việc trả xe trong mưa. Vì thế, buổi trả xe dưới mưa cần một trình tự riêng, trong đó hai việc đứng đầu là che đậy và ghi hình. Bài viết này đi từng bước, từ lúc mưa bắt đầu rơi tới lúc biên bản được ký.
 
-Trước khi đến giai đoạn này, bạn nên nắm trước trình tự trả chuẩn trong bài [trả xe đúng quy trình dễ tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/), vì dưới mưa mọi bước chuẩn vẫn cần đủ, chỉ thêm phần che đậy.
+Trước khi đến giai đoạn này, bạn nên nắm trước trình tự trả chuẩn trong bài [trả xe đúng quy trình dễ tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/), vì dưới mưa mọi bước chuẩn vẫn cần đủ, chỉ thêm phần che đậy.
 
 ## Trả xe thuê trời mưa: ghé tránh và che xe trước khi đến
 
@@ -28,7 +28,7 @@ Nếu mưa quá to và chưa tới được, hãy nhắn cho cửa hàng: em đa
 
 Với xe ướt, ảnh chụp dễ đánh lừa: vết trầy ướt thường trông như chỉ là nước. Vì thế, hãy lau nhanh phần thân trước khi soi, hoặc chụp hai lớp: một lớp ướt toàn cảnh ngay lúc giao, và một lớp sau khi nhân viên lau khô phần cần đối chiếu. Toàn cảnh ướt chứng minh thời tiết lúc giao, ảnh lau khô cho thấy tình trạng thật của vỏ xe.
 
-Quay thêm một đoạn video ngắn khi đẩy xe vào sân: xe đề được, đèn sáng, còi kêu, và không có giọt nước nhỏ sâu bên trong đồng hồ. Video này là bằng chứng xe vận hành bình thường ngay trước khi rời khỏi tay bạn. Cách ghi hình bằng chứng hai chiều đã có hướng dẫn chung trong bài [ghi hình xe khi nhận và trả để làm bằng chứng](/thue-xe/2026/09/27/ghi-hinh-xe-khi-nhan-va-tra-e-lam-bang-chung/), áp dụng nguyên cho mưa, chỉ khác là thêm lớp toàn cảnh ướt.
+Quay thêm một đoạn video ngắn khi đẩy xe vào sân: xe đề được, đèn sáng, còi kêu, và không có giọt nước nhỏ sâu bên trong đồng hồ. Video này là bằng chứng xe vận hành bình thường ngay trước khi rời khỏi tay bạn. Cách ghi hình bằng chứng hai chiều đã có hướng dẫn chung trong bài [ghi hình xe khi nhận và trả để làm bằng chứng](/thue-xe/2026/09/27/ghi-hinh-xe-khi-nhan-va-tra-de-lam-bang-chung/), áp dụng nguyên cho mưa, chỉ khác là thêm lớp toàn cảnh ướt.
 
 ## Giao xe: khu vực khô và ký trong nhà
 

@@ -26,7 +26,7 @@ Sương còn làm biến dạng thông tin trên đường: đèn xi nhan, đèn
 
 Công tác chuẩn bị từ trong nhà quyết định một nửa độ an toàn của buổi đi. Kiểm tra đèn pha và chuyển sẵn về chấm chiếu gần: cốt cao trong sương chỉ khiến các hạt nước lơ lửng phản chiếu thành bức tường trắng ngay trước mặt. Lau sạch kính mũ và hai gương, vì hơi ẩm ngoài đường sẽ làm kính mờ nhanh hơn bụi ngày thường, kính mũ có vết xước cũ càng nên thay sớm, trong sương vết xước tán xạ ánh đèn xe đối diện gấp nhiều lần ngày nắng.
 
-Siết và chỉnh gương đúng góc trước khi lăn bánh, bởi trong sương bạn phải liếc gương thường xuyên hơn hẳn ngày thường. Kiểm tra đèn hậu và xi nhan sáng đủ để các xe phía sau thấy bạn từ xa, thay vì chỉ nghe tiếng bạn. Trước khi ra vành đai, ôn nhanh tư thế ngồi, thao tác ga phanh và cách giữ thăng bằng trong chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban) cũng là một cách khởi động phản xạ cho buổi sớm khó.
+Siết và chỉnh gương đúng góc trước khi lăn bánh, bởi trong sương bạn phải liếc gương thường xuyên hơn hẳn ngày thường. Kiểm tra đèn hậu và xi nhan sáng đủ để các xe phía sau thấy bạn từ xa, thay vì chỉ nghe tiếng bạn. Trước khi ra vành đai, ôn nhanh tư thế ngồi, thao tác ga phanh và cách giữ thăng bằng trong chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) cũng là một cách khởi động phản xạ cho buổi sớm khó.
 
 ## Ba tầng thông tin cho tầm nhìn sương mù buổi sáng trên vành đai
 
@@ -48,8 +48,8 @@ Về phía sau, hãy bật xi nhan sớm và giảm tốc từ từ mỗi khi r�
 
 ## Về tới điểm đỗ: kiểm tra xe sau buổi sương
 
-Sương mang hơi ẩm ngấm khắp xe: kính mũ, gương, yên và cả khoang máy. Khi xuống xe, lau khô kính bằng khăn mềm, soi chóa đèn còn bám nước bụi hay không, và kiểm tra xích có bị ẩm để tra mỡ đúng lúc. Hơi ẩm buổi sớm đôi khi khiến máy nổ khó hơn với các xe cũ hoặc xe để qua đêm ngoài trời. Nếu bạn đi xe thuê và gặp hiện tượng máy chết giữa buổi sớm mù sương, trình tự xử lý từng bước trong bài [xe thuê chết máy khi trời mưa](/xe-may/2026/09/29/xe-thue-chet-may-khi-troi-mua-nguyen-nhan-thuong-gap) áp dụng được cho cả môi trường ẩm đọng tương tự.
+Sương mang hơi ẩm ngấm khắp xe: kính mũ, gương, yên và cả khoang máy. Khi xuống xe, lau khô kính bằng khăn mềm, soi chóa đèn còn bám nước bụi hay không, và kiểm tra xích có bị ẩm để tra mỡ đúng lúc. Hơi ẩm buổi sớm đôi khi khiến máy nổ khó hơn với các xe cũ hoặc xe để qua đêm ngoài trời. Nếu bạn đi xe thuê và gặp hiện tượng máy chết giữa buổi sớm mù sương, trình tự xử lý từng bước trong bài [xe thuê chết máy khi trời mưa](/xe-may/2026/09/29/xe-thue-chet-may-khi-troi-mua-nguyen-nhan-thuong-gap/) áp dụng được cho cả môi trường ẩm đọng tương tự.
 
 ## Tổng kết
 
-Đi trong sương sáng sớm trên vành đai dựa vào ba trụ cột: chiếu gần với kính sạch, tốc độ theo một nửa tầm nhìn, và đọc đường bằng đèn hậu cộng âm thanh. Xi nhan sớm, phanh sau trước và không bẻ lái khi chưa thấy rõ mép làn là những phản ứng cần luyện thành phản xạ. Các tình huống thời tiết khó khác được phân tích trong chuyên mục [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa), còn khung tổng thể của mọi kỹ năng nằm ở mục [kỹ năng](/ky-nang).
+Đi trong sương sáng sớm trên vành đai dựa vào ba trụ cột: chiếu gần với kính sạch, tốc độ theo một nửa tầm nhìn, và đọc đường bằng đèn hậu cộng âm thanh. Xi nhan sớm, phanh sau trước và không bẻ lái khi chưa thấy rõ mép làn là những phản ứng cần luyện thành phản xạ. Các tình huống thời tiết khó khác được phân tích trong chuyên mục [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), còn khung tổng thể của mọi kỹ năng nằm ở mục [kỹ năng](/ky-nang/).

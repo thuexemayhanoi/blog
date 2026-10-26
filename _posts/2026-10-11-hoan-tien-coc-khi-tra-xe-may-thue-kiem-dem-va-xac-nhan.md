@@ -16,7 +16,7 @@ writer: W1
 
 Ngày trả xe là ngày dễ vui nhất của kỳ thuê, nhưng cũng là ngày phát sinh tranh chấp nhiều nhất nếu hai bên không có trình tự rõ ràng. Hoàn tiền cọc thuê xe máy suôn sẻ cần ba việc làm đúng lúc: kiểm tra xe cùng nhau, kiểm đếm tiền ngay tại quầy, và xác nhận hoàn bằng văn bản. Bỏ một trong ba bước, phần còn lại đều có thể biến thành điểm nghẽn. Bài viết này đi theo đúng trình tự đó, từ lúc bạn đẩy xe vào cửa hàng tới lúc cầm tờ xác nhận hoàn trong tay.
 
-Trước khi đến ngày trả, bạn nên đọc trước bài [trả xe đúng quy trình dễ tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/) để chuẩn bị các bước từ hôm trước.
+Trước khi đến ngày trả, bạn nên đọc trước bài [trả xe đúng quy trình dễ tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/) để chuẩn bị các bước từ hôm trước.
 
 ## Hoàn tiền cọc thuê xe máy diễn ra theo trình tự nào
 
@@ -32,7 +32,7 @@ Nếu có vết trầy mới mà biên bản không có, hãy cùng xem lại �
 
 Không đếm tiền khi chưa chốt khấu trừ, vì đếm xong lại phải đếm lại là nguồn nhầm lẫn vô tận. Mọi khoản giữ lại cần được ghi rõ: giữ cho khoản gì, số bao nhiêu, và dựa trên báo giá nào. Không có báo giá, chỉ có con số nói miệng, thì bạn có quyền yêu cầu làm rõ trước khi đồng ý.
 
-Câu hỏi nên đặt ra là khoản khấu trừ này nằm trong điều kiện hoàn nào đã ghi trong hợp đồng. Nếu điều kiện hoàn cọc đã được ghi từ ngày thuê thì mọi khoản giữ lại đều dễ đối chiếu. Ai muốn hiểu trước các điều kiện phổ biến, bài [điều kiện nhận lại tiền cọc đó](/thue-xe/2026/09/27/ieu-kien-nhan-lai-tien-coc-u/) và bài [nhận lại tiền cọc khi trả xe điều kiện thường gặp](/thue-xe/2026/09/27/nhan-lai-tien-coc-khi-tra-xe-ieu-kien-thuong-gap/) là hai tư liệu nên đọc trước kỳ trả.
+Câu hỏi nên đặt ra là khoản khấu trừ này nằm trong điều kiện hoàn nào đã ghi trong hợp đồng. Nếu điều kiện hoàn cọc đã được ghi từ ngày thuê thì mọi khoản giữ lại đều dễ đối chiếu. Ai muốn hiểu trước các điều kiện phổ biến, bài [điều kiện nhận lại tiền cọc đó](/thue-xe/2026/09/27/dieu-kien-nhan-lai-tien-coc-du/) và bài [nhận lại tiền cọc khi trả xe điều kiện thường gặp](/thue-xe/2026/09/27/nhan-lai-tien-coc-khi-tra-xe-dieu-kien-thuong-gap/) là hai tư liệu nên đọc trước kỳ trả.
 
 ## Bước ba: kiểm đếm tiền hoàn ngay tại quầy
 
@@ -44,7 +44,7 @@ Nếu cọc hoàn bằng chuyển khoản thay vì tiền mặt, hãy kiểm tra
 
 Giấy xác nhận hoàn cọc chỉ cần vài dòng: tên hai bên, ngày giờ, số tiền đã hoàn, tình trạng xe đã trả, chữ ký nhận của bạn. Có tờ giấy này, hợp đồng thuê coi như đóng lại trọn vẹn, không còn khoản treo nào. Nếu cửa hàng chỉ trả tiền mà không viết xác nhận, hãy tự viết vài dòng và mời ký, việc này hợp lệ và bình thường.
 
-Nên hỏi thêm về mốc hoàn nếu cửa hàng không hoàn ngay tại quầy. Câu hỏi cọc được nhận lại khi nào đã được trả lời chi tiết trong bài [cọc thuê xe máy khi nào được nhận lại](/thue-xe/2026/10/07/coc-thue-xe-may-khi-nao-uoc-nhan-lai/): hoàn tại quầy, hoàn trong ngày, hay hoàn sau kiểm tra kỹ, mỗi cách cần mốc giờ rõ ràng.
+Nên hỏi thêm về mốc hoàn nếu cửa hàng không hoàn ngay tại quầy. Câu hỏi cọc được nhận lại khi nào đã được trả lời chi tiết trong bài [cọc thuê xe máy khi nào được nhận lại](/thue-xe/2026/10/07/coc-thue-xe-may-khi-nao-duoc-nhan-lai/): hoàn tại quầy, hoàn trong ngày, hay hoàn sau kiểm tra kỹ, mỗi cách cần mốc giờ rõ ràng.
 
 ## Nếu không thống nhất được ngay lúc trả xe
 

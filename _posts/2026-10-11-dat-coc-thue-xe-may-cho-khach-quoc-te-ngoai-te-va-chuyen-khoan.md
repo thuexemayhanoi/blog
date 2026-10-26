@@ -36,7 +36,7 @@ Nếu tỷ giá ngày hoàn khác tỷ giá ngày nhận, hai bên có thể lã
 
 Chuyển khoản quốc tế cho bằng chứng dạng số hóa rõ ràng: mã giao dịch, tên người gửi, giờ giao dịch. Đây là lợi thế lớn, vì không phải đếm tiền, không lo giả mạo. Tuy nhiên, chuyển khoản quốc tế có thể mất thời gian tới nơi vài giờ tới một ngày, tùy kênh. Vì thế, hình thức này phù hợp khi khách đặt xe trước vài ngày, chứ không hợp với khách đứng ở quầy chờ lấy xe ngay.
 
-Với khách đặt trước, quy trình gọn là: khách chuyển cọc trước, cửa hàng xác nhận số tiền đã tới tài khoản rồi mới tiến hành giao xe. Cách giữ bằng chứng cho giao dịch chuyển khoản đã được mô tả trong bài [đặt cọc thuê xe bằng chuyển khoản giữ lại bằng chứng nào](/thue-xe/2026/10/01/at-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/), áp dụng nguyên tắc chụp lại màn hình xác nhận và lưu mã giao dịch.
+Với khách đặt trước, quy trình gọn là: khách chuyển cọc trước, cửa hàng xác nhận số tiền đã tới tài khoản rồi mới tiến hành giao xe. Cách giữ bằng chứng cho giao dịch chuyển khoản đã được mô tả trong bài [đặt cọc thuê xe bằng chuyển khoản giữ lại bằng chứng nào](/thue-xe/2026/10/01/dat-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/), áp dụng nguyên tắc chụp lại màn hình xác nhận và lưu mã giao dịch.
 
 Điểm cần chốt với khách quốc tế là bên chịu phí chuyển khoản, vì chuyển tiền xuyên biên giới thường có phí trung gian. Ghi rõ ai chịu phí ngay trong trao đổi đầu tiên giúp tránh bất ngờ cho cả hai bên sau này.
 
@@ -48,6 +48,6 @@ Với khách thuê dài ngày, còn một cách giảm rủi ro nữa là chia n
 
 Dù cọc bằng kênh nào, tờ biên nhận nên có sáu dòng: họ tên và số hộ chiếu của khách, số tiền cọc bằng số và chữ, loại tiền và tỷ giá nếu có, kênh hoàn cọc, điều kiện hoàn đủ, và chữ ký hai bên kèm ngày giờ. Mỗi dòng thêm vào là một câu hỏi sẽ không phải trả lời lại sau này.
 
-Với cửa hàng hay phục vụ khách nước ngoài, chuẩn bị sẵn mẫu biên nhận in theo hai ngôn ngữ giúp buổi giao nhanh và chuẩn. Về câu hỏi chuyển khoản có được không và các biến thể của nó, bài [đặt cọc thuê xe máy bằng chuyển khoản có được không](/thue-xe/2026/10/07/at-coc-thue-xe-may-bang-chuyen-khoan-co-uoc-khong/) đã trả lời theo từng tình huống, còn tổng quan các kênh thanh toán không dùng tiền mặt nằm trong bài [thanh toán không tiền mặt khi thuê xe máy](/thue-xe/2026/09/30/thanh-toan-khong-tien-mat-khi-thue-xe-may/).
+Với cửa hàng hay phục vụ khách nước ngoài, chuẩn bị sẵn mẫu biên nhận in theo hai ngôn ngữ giúp buổi giao nhanh và chuẩn. Về câu hỏi chuyển khoản có được không và các biến thể của nó, bài [đặt cọc thuê xe máy bằng chuyển khoản có được không](/thue-xe/2026/10/07/dat-coc-thue-xe-may-bang-chuyen-khoan-co-duoc-khong/) đã trả lời theo từng tình huống, còn tổng quan các kênh thanh toán không dùng tiền mặt nằm trong bài [thanh toán không tiền mặt khi thuê xe máy](/thue-xe/2026/09/30/thanh-toan-khong-tien-mat-khi-thue-xe-may/).
 
 Tóm lại, đặt cọc cho khách quốc tế an toàn khi hai bên chốt trước kênh, tỷ lệ quy đổi, và kênh hoàn, rồi ghi toàn bộ bằng biên nhận song ngữ. Mọi hướng dẫn cho khách nước ngoài, bạn có thể xem trong chuyên mục [thuê xe cho khách quốc tế](/thue-xe/khach-quoc-te/) hoặc bắt đầu từ trang chủ [thuê xe máy Hà Nội](/thue-xe/) trước khi đặt xe cho khách.

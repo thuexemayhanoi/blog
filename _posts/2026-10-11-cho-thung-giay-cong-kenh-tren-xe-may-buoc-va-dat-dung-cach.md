@@ -26,11 +26,11 @@ Hàng nặng làm xe ì đi và phanh lâu dừng. Hàng cồng kềnh lại là
 
 Thử hình dung một bạn sinh viên chuyển phòng trọ từ Cầu Giấy sang Hà Đông, chất thùng chăn gối lên yên sau cao quá đầu và buộc bằng hai sợi dây chun. Quãng đường không dài nhưng đủ gặp gió, ổ gà và những lần phanh gấp, đủ để mọi điểm yếu của cách buộc ấy lộ ra.
 
-Gió là chuyện thật với mọi vật to và phẳng. Bài về [cách bọc góc và nghiêng khung tranh khi chở](/ky-nang/2026/10/10/cho-khung-tranh-lon-tren-xe-may-boc-goc-va-nghieng-ung/) cho thấy nguyên tắc chống gió cũng tương tự.
+Gió là chuyện thật với mọi vật to và phẳng. Bài về [cách bọc góc và nghiêng khung tranh khi chở](/ky-nang/2026/10/10/cho-khung-tranh-lon-tren-xe-may-boc-goc-va-nghieng-dung/) cho thấy nguyên tắc chống gió cũng tương tự.
 
 ## Đóng gói thùng carton chở xe: đầy, cứng và vừa tầm
 
-Chọn thùng còn cứng, thành không ẩm, không rách nếp, vì thùng mềm sẽ võng ngay khi dây siết. Phần lót và buộc cơ bản đã có trong bài [cách lót thùng và buộc dây khi chở thùng carton](/ky-nang/2026/10/10/cho-thung-carton-tren-xe-may-lot-buoc-va-i-cham/), ở đây ta chỉ nói những điều riêng cho thùng lớn.
+Chọn thùng còn cứng, thành không ẩm, không rách nếp, vì thùng mềm sẽ võng ngay khi dây siết. Phần lót và buộc cơ bản đã có trong bài [cách lót thùng và buộc dây khi chở thùng carton](/ky-nang/2026/10/10/cho-thung-carton-tren-xe-may-lot-buoc-va-di-cham/), ở đây ta chỉ nói những điều riêng cho thùng lớn.
 
 - Đóng đầy nhưng không nhồi quá. Chăn, gối, quần áo lấp kín khoảng trống để thùng không móp khi bị siết; thùng chỉ đầy một nửa sẽ xẹp giữa chặng.
 - Đồ nặng hơn xuống đáy, đồ nhẹ lên trên, mặt trên giữ phẳng để dây nằm đều.

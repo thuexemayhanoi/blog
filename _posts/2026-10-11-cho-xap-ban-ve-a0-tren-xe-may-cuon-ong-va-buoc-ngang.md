@@ -38,15 +38,15 @@ Xấp càng dày thì ống càng to và càng căng. Nếu không cuộn lỏng
 
 Ống cứng giữ cho cuộn giấy khỏi bị bẹp khi dây siết, nên đây là thứ đáng bỏ tiền nhất. Bạn có ba lựa chọn: ống đựng bản vẽ bán sẵn ở cửa hàng văn phòng phẩm, đoạn ống nhựa cắt dài hơn cuộn giấy một chút rồi bịt hai đầu bằng nắp, hoặc ống giấy cứng nếu chỉ đi quãng ngắn. Loại nào cũng cần hai đầu kín để mép giấy không thò ra va chạm.
 
-Hà Nội có những ngày nồm và mưa phùn đầu năm, giấy hút ẩm mềm đi và dễ cong mép, còn mưa rào mùa hè thì ập tới bất chợt. Vì thế hãy bỏ ống vào túi nilon dài, buộc kín miệng túi và để miệng túi quay về phía sau, hơi chúc xuống. Nilon rất trơn, nên bọc xong vẫn phải có dây buộc bên ngoài, đúng với nguyên tắc [chèn, bọc rồi mới buộc](/ky-nang/2026/10/10/cho-may-giat-tren-xe-may-chen-boc-va-buoc-ung-cach/) khi chở máy giặt.
+Hà Nội có những ngày nồm và mưa phùn đầu năm, giấy hút ẩm mềm đi và dễ cong mép, còn mưa rào mùa hè thì ập tới bất chợt. Vì thế hãy bỏ ống vào túi nilon dài, buộc kín miệng túi và để miệng túi quay về phía sau, hơi chúc xuống. Nilon rất trơn, nên bọc xong vẫn phải có dây buộc bên ngoài, đúng với nguyên tắc [chèn, bọc rồi mới buộc](/ky-nang/2026/10/10/cho-may-giat-tren-xe-may-chen-boc-va-buoc-dung-cach/) khi chở máy giặt.
 
 ## Buộc ống giấy lên xe máy: nằm ngang sau lưng, hai dây hai đầu
 
 Đặt ống nằm ngang trên giá sau, ngay sau lưng bạn, thấp và sát thân xe. Hai dây buộc gần hai đầu ống, càng xa nhau càng tốt, vì một dây ở giữa sẽ để ống xoay quanh nó như kim đồng hồ. Mỗi dây quấn hai vòng qua ống rồi qua thanh khung giá, khóa nút ở phía dưới.
 
-Dùng dây vải bản to hoặc dây có khóa, tránh dây mảnh vì nó cứa vào ống giấy và làm móp ống nhựa mỏng. Bài [chở hộp bánh kem](/ky-nang/2026/10/01/cho-hop-banh-kem-tren-xe-may-giu-thang-bang-va-buoc-ung/) cũng dùng đúng nguyên tắc ấy: dây mềm bản rộng, thêm một tấm bìa lót để hộp khỏi móp. Ống tròn và nhẵn nên dễ lăn lẫn trượt dọc, vì vậy lót một miếng xốp mỏng hoặc mảnh vải thô ở chỗ ống tựa lên khung để tăng ma sát.
+Dùng dây vải bản to hoặc dây có khóa, tránh dây mảnh vì nó cứa vào ống giấy và làm móp ống nhựa mỏng. Bài [chở hộp bánh kem](/ky-nang/2026/10/01/cho-hop-banh-kem-tren-xe-may-giu-thang-bang-va-buoc-dung/) cũng dùng đúng nguyên tắc ấy: dây mềm bản rộng, thêm một tấm bìa lót để hộp khỏi móp. Ống tròn và nhẵn nên dễ lăn lẫn trượt dọc, vì vậy lót một miếng xốp mỏng hoặc mảnh vải thô ở chỗ ống tựa lên khung để tăng ma sát.
 
-Buộc xong, nắm hai đầu ống lắc thử: ống không xoay, không trượt, và hai đầu thò ra khỏi mép xe càng ít càng tốt. Nếu ống nhô hai bên nhiều hơn mức bạn thấy thoải mái, hoặc cuộn dài gần 1,2 m, hãy đổi sang đặt dọc theo thân xe. Khi đó đầu phía trước không được vượt khỏi yên sau, còn đầu nhô ra phía sau càng ngắn càng tốt và không che đèn hậu. Cách xử lý phần nhô ra này được kể kỹ trong bài [chở đồ dài như ống nhựa](/ky-nang/2026/10/04/cho-o-dai-nhu-ong-nhua-tren-xe-may-ung-cach/).
+Buộc xong, nắm hai đầu ống lắc thử: ống không xoay, không trượt, và hai đầu thò ra khỏi mép xe càng ít càng tốt. Nếu ống nhô hai bên nhiều hơn mức bạn thấy thoải mái, hoặc cuộn dài gần 1,2 m, hãy đổi sang đặt dọc theo thân xe. Khi đó đầu phía trước không được vượt khỏi yên sau, còn đầu nhô ra phía sau càng ngắn càng tốt và không che đèn hậu. Cách xử lý phần nhô ra này được kể kỹ trong bài [chở đồ dài như ống nhựa](/ky-nang/2026/10/04/cho-do-dai-nhu-ong-nhua-tren-xe-may-dung-cach/).
 
 Đừng đeo ống chéo lưng khi đang chạy xe. Ống dài hất theo gió, kéo vai bạn về một bên và vướng khi cần xuống xe vội.
 

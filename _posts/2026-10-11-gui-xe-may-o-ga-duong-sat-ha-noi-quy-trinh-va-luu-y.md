@@ -52,7 +52,7 @@ Câu trả lời nào cũng nên chép lại cùng tên bãi và ngày gửi. Ti
 
 ## Xe thuê: tính trước chuyện đi tàu
 
-Nếu xe bạn đi là xe thuê, có thêm một câu hỏi nằm ngoài bãi gửi: những ngày xe nằm ở ga được tính vào thời gian thuê thế nào. Có người trả xe trước chuyến tàu rồi thuê lại khi về, có người giữ xe và gửi ở ga; cách nào gọn hơn tùy số ngày bạn vắng mặt. Nếu thuê xe của Nguyễn Tú (112 Nguyễn Văn Cừ, Bồ Đề, Long Biên; mở cửa 09:00–21:00; điện thoại 0942 467 674), hãy hỏi và xác nhận trước khi đặt xe về việc để xe nhiều ngày ở bãi ngoài và cách tính thời gian thuê. Phần trách nhiệm khi để xe thuê qua đêm có trong bài [lưu ý khi gửi xe thuê ở bãi qua đêm](/ky-nang/2026/10/07/gui-xe-may-thue-o-bai-giu-xe-qua-em-luu-y-gi/).
+Nếu xe bạn đi là xe thuê, có thêm một câu hỏi nằm ngoài bãi gửi: những ngày xe nằm ở ga được tính vào thời gian thuê thế nào. Có người trả xe trước chuyến tàu rồi thuê lại khi về, có người giữ xe và gửi ở ga; cách nào gọn hơn tùy số ngày bạn vắng mặt. Nếu thuê xe của Nguyễn Tú (112 Nguyễn Văn Cừ, Bồ Đề, Long Biên; mở cửa 09:00–21:00; điện thoại 0942 467 674), hãy hỏi và xác nhận trước khi đặt xe về việc để xe nhiều ngày ở bãi ngoài và cách tính thời gian thuê. Phần trách nhiệm khi để xe thuê qua đêm có trong bài [lưu ý khi gửi xe thuê ở bãi qua đêm](/ky-nang/2026/10/07/gui-xe-may-thue-o-bai-giu-xe-qua-dem-luu-y-gi/).
 
 ## Tàu về khuya hoặc trễ giờ: nhận xe thế nào
 

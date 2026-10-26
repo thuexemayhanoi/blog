@@ -34,7 +34,7 @@ Chụp thêm ảnh từng món nếu là đồ có giá trị: mũ, găng tay đ
 
 Giao đồ cho nhân viên ngay tại quầy và đề nghị hai dòng vào biên bản: cốp xe có đồ của khách trước gồm những gì, đã giao lại cho cửa hàng lúc mấy giờ. Hai dòng này là lớp cách ly trách nhiệm cho bạn trong suốt kỳ thuê còn lại. Nếu nhân viên bận, hãy nhắn kèm ảnh vừa chụp qua ứng dụng tin nhắn của cửa hàng, để có mốc thời gian độc lập.
 
-Với đồ giấy tờ nếu gặp, đừng đọc qua các trang ngoài trách nhiệm tối thiểu để liên hệ người mất; chỉ giao lại nguyên trạng. Câu chuyện xử lý khi đồ của bạn bị bỏ quên trên xe sau khi trả đã được mô tả từ phía khách trong bài [đồ quên trên xe thuê đã trả xử lý thế nào](/thue-xe/2026/10/10/e-quen-o-tren-xe-thue-a-tra-xu-ly-the-nao/); từ phía người nhận, quy tắc là báo ngay và giao nguyên.
+Với đồ giấy tờ nếu gặp, đừng đọc qua các trang ngoài trách nhiệm tối thiểu để liên hệ người mất; chỉ giao lại nguyên trạng. Câu chuyện xử lý khi đồ của bạn bị bỏ quên trên xe sau khi trả đã được mô tả từ phía khách trong bài [đồ quên trên xe thuê đã trả xử lý thế nào](/thue-xe/2026/10/10/de-quen-do-tren-xe-thue-da-tra-xu-ly-the-nao/); từ phía người nhận, quy tắc là báo ngay và giao nguyên.
 
 ## Bước ba: rà lại phụ kiện của chính bạn
 

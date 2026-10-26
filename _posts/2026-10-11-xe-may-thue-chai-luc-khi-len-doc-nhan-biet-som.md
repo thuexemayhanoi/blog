@@ -40,7 +40,7 @@ Hai việc bạn có thể tự làm mà không chạm vào kết cấu: đổ x
 
 Nhắn theo bốn dòng: xe yếu ở tình huống nào (đề, ga đầu, hay lên dốc), dốc hay đoạn nào, đã đổ xăng ở đâu loại gì, và xe đã chạy được bao nhiêu kilômét trong kỳ thuê. Bốn dòng này giúp cửa hàng đo đúng nguyên nhân qua điện thoại, từ lọc gió tới ly hợp. Nếu cửa hàng yêu cầu mang xe về, hãy hỏi có nên tiếp tục dùng ở chặng ngắn trong lúc chờ hay không, để không rơi vào vùng xám trách nhiệm.
 
-Với phần chi phí, chai lực không do va chạm thuộc nhóm hao mòn và bảo dưỡng, và cách phân định đã được bàn trong bài [hỏng nhẹ do sử dụng thông thường ai chịu](/thue-xe/2026/09/27/hong-nhe-do-su-dung-thong-thuong-ai-chiu/). Còn nếu xe đuối tới mức hỏng giữa đường, trình tự xử lý đã có sẵn trong bài [xe thuê bị hỏng giữa đường xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/), trong đó báo sớm luôn là bước đầu của mọi kịch bản.
+Với phần chi phí, chai lực không do va chạm thuộc nhóm hao mòn và bảo dưỡng, và cách phân định đã được bàn trong bài [hỏng nhẹ do sử dụng thông thường ai chịu](/thue-xe/2026/09/27/hong-nhe-do-su-dung-thong-thuong-ai-chiu/). Còn nếu xe đuối tới mức hỏng giữa đường, trình tự xử lý đã có sẵn trong bài [xe thuê bị hỏng giữa đường xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-duong-xu-ly-tung-buoc/), trong đó báo sớm luôn là bước đầu của mọi kịch bản.
 
 ## Khi nào nên đề nghị đổi xe
 

@@ -32,7 +32,7 @@ Cần phân biệt hai kiểu chở: hàng gác ngang chiếm chiều rộng, h�
 
 Sau khi đã vào đoạn mở, hãy giảm tốc về mức gần bằng tốc độ xe ba gánh, để khoảng cách hai xe ổn định trước khi nghiêng xe. Bật xi nhan trái, quan sát gương và góc vai, rồi ra xa theo cung rộng với nhịp ga đều. Trong lúc vượt, tay lái thả lỏng thay vì ghì chặt, và tuyệt đối không bấm còi dồn người đạp, vì phản ứng vội của họ dễ khiến xe lắc mạnh hơn. Về lại làn phải sau khi nhìn thấy trọn xe ba gánh trong gương.
 
-Nguyên tắc thời gian chỉ áp dụng khi tầm nhìn thông thoáng tới điểm về lại làn an toàn. Trên đường tỉnh có khúc cong hoặc đỉnh dốc, dù xe ba gánh đi rất chậm, cũng không vượt ở khúc không thấy hết phần đường phía trước. Người mới nên luyện trước các thao tác gương, xi nhan và quan sát vai theo các bài trong chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban), bởi trình tự vượt an toàn được dựng trên đúng các nền tảng đó.
+Nguyên tắc thời gian chỉ áp dụng khi tầm nhìn thông thoáng tới điểm về lại làn an toàn. Trên đường tỉnh có khúc cong hoặc đỉnh dốc, dù xe ba gánh đi rất chậm, cũng không vượt ở khúc không thấy hết phần đường phía trước. Người mới nên luyện trước các thao tác gương, xi nhan và quan sát vai theo các bài trong chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), bởi trình tự vượt an toàn được dựng trên đúng các nền tảng đó.
 
 ## Gặp xe ba gánh lúc mưa hoặc trời tối
 
@@ -48,4 +48,4 @@ Với chiều rộng chiếm chỗ bất thường, xe ba gánh còn tạo đi�
 
 ## Tổng kết
 
-Vượt xe ba gánh hàng dài an toàn là bài toán đọc hình khối từ xa, chờ đoạn mở và vượt theo cung rộng với tay lái thả lỏng. Khoảng cách với xe chở hàng thò ra luôn cần nới gấp đôi so với xe máy thường, và càng trời xấu càng kiên nhẫn. Vài phút chậm hơn trên đường tỉnh không đổi được kết quả chuyến đi, nhưng đổi được toàn bộ rủi ro. Đọc thêm các tình huống giao thông khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong) và theo dõi các hướng dẫn lái an toàn tại mục [kỹ năng](/ky-nang).
+Vượt xe ba gánh hàng dài an toàn là bài toán đọc hình khối từ xa, chờ đoạn mở và vượt theo cung rộng với tay lái thả lỏng. Khoảng cách với xe chở hàng thò ra luôn cần nới gấp đôi so với xe máy thường, và càng trời xấu càng kiên nhẫn. Vài phút chậm hơn trên đường tỉnh không đổi được kết quả chuyến đi, nhưng đổi được toàn bộ rủi ro. Đọc thêm các tình huống giao thông khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/) và theo dõi các hướng dẫn lái an toàn tại mục [kỹ năng](/ky-nang/).

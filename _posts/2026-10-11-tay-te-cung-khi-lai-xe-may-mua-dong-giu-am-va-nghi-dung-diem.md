@@ -48,7 +48,7 @@ Muốn giữ ấm tay khi đi xe, hãy làm từ trước lúc ra khỏi nhà. T
 
 Giữ ấm chỉ là một nửa, nửa còn lại là cách bạn nắm tay lái. Hãy nắm vừa đủ để điều khiển, như đang cầm quả trứng chứ không phải bóp một cục đá. Cổ tay giữ thẳng với cẳng tay, khuỷu hơi chùng, không khóa cứng, để rung xóc từ mặt đường không dồn hết lên bàn tay.
 
-Cứ vài phút, khi đường vắng và an toàn, bạn có thể duỗi nhẹ các ngón, đổi vị trí ngón cái, thả lỏng vai. Tư thế vai và lưng ảnh hưởng đến bàn tay hơn bạn nghĩ, bài [đau lưng khi chạy xe đường dài](/ky-nang/2026/10/04/au-lung-khi-chay-xe-may-uong-dai-tu-the-va-iem-nghi/) có phần nói rõ cách ngồi để vai không gồng. Nếu độ rộng hay độ nghiêng tay lái không hợp với bạn, hãy nói với người cho thuê hoặc thợ xe ngay từ đầu, đừng gồng suốt cả quãng đường.
+Cứ vài phút, khi đường vắng và an toàn, bạn có thể duỗi nhẹ các ngón, đổi vị trí ngón cái, thả lỏng vai. Tư thế vai và lưng ảnh hưởng đến bàn tay hơn bạn nghĩ, bài [đau lưng khi chạy xe đường dài](/ky-nang/2026/10/04/dau-lung-khi-chay-xe-may-duong-dai-tu-the-va-diem-nghi/) có phần nói rõ cách ngồi để vai không gồng. Nếu độ rộng hay độ nghiêng tay lái không hợp với bạn, hãy nói với người cho thuê hoặc thợ xe ngay từ đầu, đừng gồng suốt cả quãng đường.
 
 ## Chọn điểm nghỉ: dừng ở đâu, dừng lúc nào
 
@@ -58,7 +58,7 @@ Một điểm nghỉ tốt cần ba điều:
 
 1. **Dừng được an toàn.** Có chỗ để xe ngoài làn chạy, tầm nhìn thoáng. Đừng dừng ngay trên cầu hay chỗ khuất sau khúc cua.
 2. **Tránh gió.** Quán cà phê có mái che, bãi gửi xe sát tường nhà hoặc cây xăng đều ổn. Dừng trên đoạn đê ven sông Hồng lộng gió thì tay không kịp ấm lại.
-3. **Có chỗ ngồi và đồ uống ấm.** Chuyện uống nước và nhịp nghỉ đã có hướng dẫn riêng trong bài [uống nước và nghỉ đúng nhịp khi chạy xe đường dài](/ky-nang/2026-09-29/uong-nuoc-va-nghi-ung-nhip-khi-chay-xe-uong-dai/).
+3. **Có chỗ ngồi và đồ uống ấm.** Chuyện uống nước và nhịp nghỉ đã có hướng dẫn riêng trong bài [uống nước và nghỉ đúng nhịp khi chạy xe đường dài](/ky-nang/2026-09-29/uong-nuoc-va-nghi-dung-nhip-khi-chay-xe-duong-dai/).
 
 Với người đi làm trong nội thành, điểm nghỉ có thể chỉ là hiên một quán ăn sáng đầu ngõ. Với chuyến xa như lên Tam Đảo cuối năm, hãy dự tính trước điểm dừng ở chân dốc và giữa dốc.
 

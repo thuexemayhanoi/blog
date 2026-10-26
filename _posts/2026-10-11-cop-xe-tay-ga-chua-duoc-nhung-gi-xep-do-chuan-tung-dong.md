@@ -16,7 +16,7 @@ writer: W1
 
 Cuối tuần bạn thuê một chiếc xe tay ga cho chuyến dạo quanh Hồ Tây, Hà Nội, và câu hỏi đầu tiên lúc xếp đồ là cốp xe chở vừa những gì. Cốp xe tay ga chở đồ được bao nhiêu phụ thuộc từng dòng xe: xe ga nhỏ gọn thường vừa một nón bảo hiểm nửa đầu kèm áo mưa, trong khi nhóm xe ga cỡ lớn nhét được thêm áo khoác và vài món lặt vặt. Bài viết này so sánh cốp theo từng nhóm dòng xe phổ biến, hướng dẫn xếp đồ chuẩn để tận dụng hết khoảng trống mà không làm móp nắp hay rơi đồ lúc mở.
 
-Ngoài cốp dưới yên, nhiều dòng xe còn có két đồ nhỏ phía trước, hai vị trí này hay bị nhầm là một, bạn có thể xem thêm bài [khoang dưới yên xe ga chứa được gì](/xe-may/2026/09/27/khoang-e-o-duoi-yen-xe-ga-cho-uoc-gi/) và bài [khoang cốp của Honda Vision chứa được gì](/xe-may/2026/09/27/khoang-o-cua-honda-vision-chua-uoc-gi/) để hình dung rõ từng khoảng.
+Ngoài cốp dưới yên, nhiều dòng xe còn có két đồ nhỏ phía trước, hai vị trí này hay bị nhầm là một, bạn có thể xem thêm bài [khoang dưới yên xe ga chứa được gì](/xe-may/2026/09/27/khoang-de-do-duoi-yen-xe-ga-cho-duoc-gi/) và bài [khoang cốp của Honda Vision chứa được gì](/xe-may/2026/09/27/khoang-o-cua-honda-vision-chua-uoc-gi/) để hình dung rõ từng khoảng.
 
 ## Cốp xe tay ga chở đồ được bao nhiêu tùy từng dòng
 
