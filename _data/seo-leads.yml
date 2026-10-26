@@ -37,7 +37,7 @@ C-BIEN-BAO:
   u: /an-toan-phap-ly/2026/10/15/bien-tu-viet-o-dau-ngo-hay-trong-khu-do-thi-nhu-cam-do-xe-di-cham-co-hieu-luc-nh/
 C-CD-CUOI-TUAN:
 - t: Cung đường Hà Nội - Chùa Bái Đính - Tràng An cuối tuần
-  u: /cung-duong/2026/10/05/cung-uong-ha-noi-chua-bai-inh-trang-an-cuoi-tuan/
+  u: /cung-duong/2026/10/05/cung-duong-ha-noi-chua-bai-dinh-trang-an-cuoi-tuan/
 - t: 'Hà Nội đi Ba Vì bằng xe máy: cung đường cuối tuần'
   u: /cung-duong/2026/10/10/ha-noi-di-ba-vi-bang-xe-may-cung-duong-cuoi-tuan/
 - t: 'Đi một đường, về đường khác: ghép vòng tròn cho chuyến cuối tuần từ Hà Nội'
@@ -177,7 +177,7 @@ C-HONDA-WAVE:
 - t: Honda Wave cho hành trình dài ngày
   u: /xe-may/2026/09/27/honda-wave-cho-hanh-trinh-dai-ngay/
 - t: Honda Wave thuê cho người mới có dễ điều khiển không
-  u: /xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-ieu-khien-khong/
+  u: /xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-dieu-khien-khong/
 C-KY-NANG-CHO-DO:
 - t: Chở hành lý vali trên xe máy thuê khi chuyển chỗ, ra ga
   u: /kinh nghiệm/2026/09/19/cho-hanh-ly-vali-tren-xe-may-thue/
@@ -250,7 +250,7 @@ C-THUE-DAT-COC:
 - t: Đặt cọc qua ví điện tử khi thuê xe máy
   u: /thue-xe/2026/09/30/dat-coc-qua-vi-dien-tu-khi-thue-xe-may/
 - t: Đặt cọc thuê xe máy bằng chuyển khoản hoàn thế nào
-  u: /thue-xe/2026/10/05/at-coc-thue-xe-may-bang-chuyen-khoan-hoan-the-nao/
+  u: /thue-xe/2026/10/05/dat-coc-thue-xe-may-bang-chuyen-khoan-hoan-the-nao/
 C-THUE-DIA-DIEM:
 - t: 'Thuê xe máy gần Times City: chỗ nhận xe và lưu ý'
   u: /thue-xe/2026/10/01/thue-xe-may-gan-times-city-cho-nhan-xe-va-luu-y/
@@ -398,7 +398,7 @@ C-XE-GA:
 - t: Xe tay ga phù hợp với ai khi thuê
   u: /xe-may/2026/09/27/xe-tay-ga-phu-hop-voi-ai-khi-thue/
 - t: Xe tay ga bị sặc xăng sau khi đổ nhầm
-  u: /xe-may/2026/10/05/xe-tay-ga-bi-sac-xang-sau-khi-o-nham/
+  u: /xe-may/2026/10/05/xe-tay-ga-bi-sac-xang-sau-khi-do-nham/
 - t: 'Xe tay ga rung khi phanh gấp: kiểm tra gì trước'
   u: /xe-may/2026/10/11/xe-tay-ga-rung-khi-phanh-gap-kiem-tra-gi-truoc/
 - t: Xe tay ga thuê có cốp đủ chứa hai mũ bảo hiểm không
@@ -455,4 +455,4 @@ C-YAMAHA-SIRIUS:
 - t: Yamaha Sirius trong phố chợ đông người
   u: /xe-may/2026/10/03/yamaha-sirius-trong-pho-cho-dong-nguoi/
 - t: Yamaha Sirius thuê chạy giao đồ có bền không
-  u: /xe-may/2026/10/05/yamaha-sirius-thue-chay-giao-o-co-ben-khong/
+  u: /xe-may/2026/10/05/yamaha-sirius-thue-chay-giao-do-co-ben-khong/
