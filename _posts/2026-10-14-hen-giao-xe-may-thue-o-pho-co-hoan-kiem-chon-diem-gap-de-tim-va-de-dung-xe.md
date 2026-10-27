@@ -27,7 +27,7 @@ Khu phố cổ có những đặc điểm khiến một cuộc hẹn tưởng đ
 
 Và một lý do khách hay quên:
 
-- **Khu vực đi bộ theo khung giờ.** Quanh hồ Hoàn Kiếm và một số tuyến phố cổ có thời điểm dành cho người đi bộ, xe máy không được đi vào. Xem thêm bài về [biển báo khu vực phố đi bộ](/an-toan-phap-ly/2026/09/28/bien-bao-khu-vuc-pho-i-bo/) và tra lịch cụ thể trước ngày hẹn.
+- **Khu vực đi bộ theo khung giờ.** Quanh hồ Hoàn Kiếm và một số tuyến phố cổ có thời điểm dành cho người đi bộ, xe máy không được đi vào. Xem thêm bài về [biển báo khu vực phố đi bộ](/an-toan-phap-ly/2026/09/28/bien-bao-khu-vuc-pho-di-bo/) và tra lịch cụ thể trước ngày hẹn.
 
 Vì thế, thay vì chỉ gửi tên khách sạn, hãy chủ động đề xuất một điểm gặp được chọn kỹ.
 

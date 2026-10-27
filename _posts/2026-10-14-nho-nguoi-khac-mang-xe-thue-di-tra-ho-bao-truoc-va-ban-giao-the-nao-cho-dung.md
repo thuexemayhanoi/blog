@@ -69,7 +69,7 @@ Khi đến cửa hàng, người trả hộ nên:
 4. Nếu có điểm chưa khớp, gọi video cho bạn ngay tại chỗ thay vì tự đồng ý hay từ chối.
 5. Chụp ảnh xe lúc đã giao xong và gửi cho bạn.
 
-Người trả hộ chỉ ký những gì bạn đã cho phép. Nếu cửa hàng đề nghị ghi thêm khoản phát sinh mà bạn chưa biết, họ nên dừng lại để bạn trao đổi trực tiếp với cửa hàng. Thứ tự đối chiếu chung khi trả xe có trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/).
+Người trả hộ chỉ ký những gì bạn đã cho phép. Nếu cửa hàng đề nghị ghi thêm khoản phát sinh mà bạn chưa biết, họ nên dừng lại để bạn trao đổi trực tiếp với cửa hàng. Thứ tự đối chiếu chung khi trả xe có trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/).
 
 ## Đường đi và thời gian cho người trả hộ
 
@@ -83,7 +83,7 @@ Nếu không tìm được ai đi trả hộ, bạn có thể hỏi cửa hàng 
 
 Việc trả xe hộ chỉ thực sự xong khi bạn nhận được xác nhận từ cửa hàng. Hãy nhắn hỏi lại: xe đã nhận đủ, kỳ thuê kết thúc lúc mấy giờ, có khoản nào cần thanh toán thêm hay không. Giữ tin nhắn đó cùng ảnh người trả hộ gửi về.
 
-Nếu giấy tờ hoặc tiền cọc chưa được trả cho người đi hộ, hẹn luôn thời điểm bạn tự qua lấy hoặc cách hoàn lại. Các bước đối chiếu khi nhận lại cọc có trong bài [nhận lại tiền cọc khi trả xe thuê](/thue-xe/2026/10/14/nhan-lai-tien-coc-khi-tra-xe-thue-cac-buoc-doi-chieu-va-giay-to-can-mang/). Nếu không chỉ trả hộ mà còn để người khác chạy xe trong kỳ thuê, hãy đọc thêm bài [cho người khác sử dụng xe thuê của mình](/thue-xe/2026/10/11/cho-nguoi-khac-su-dung-xe-thue-cua-minh-hop-ong-can-noi-ro-gi/).
+Nếu giấy tờ hoặc tiền cọc chưa được trả cho người đi hộ, hẹn luôn thời điểm bạn tự qua lấy hoặc cách hoàn lại. Các bước đối chiếu khi nhận lại cọc có trong bài [nhận lại tiền cọc khi trả xe thuê](/thue-xe/2026/10/14/nhan-lai-tien-coc-khi-tra-xe-thue-cac-buoc-doi-chieu-va-giay-to-can-mang/). Nếu không chỉ trả hộ mà còn để người khác chạy xe trong kỳ thuê, hãy đọc thêm bài [cho người khác sử dụng xe thuê của mình](/thue-xe/2026/10/11/cho-nguoi-khac-su-dung-xe-thue-cua-minh-hop-dong-can-noi-ro-gi/).
 
 ## Tóm lại
 

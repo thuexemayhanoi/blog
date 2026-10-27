@@ -21,7 +21,7 @@ Nhóm bạn hoặc gia đình ba bốn người tới Hà Nội chơi vài ngày
 
 Hãy liệt kê những nơi nhóm định tới. Nếu phần lớn là phố cổ, Hồ Hoàn Kiếm, Văn Miếu, Hoàng thành Thăng Long, Hồ Tây, các quán ăn trong ngõ, thì đây là lịch trình nội đô với nhiều điểm dừng ngắn. Kiểu lịch trình này hợp với xe máy hơn hẳn.
 
-Nếu nhóm định dành phần lớn thời gian cho những chuyến ra ngoại thành, có trẻ nhỏ hoặc người lớn tuổi đi cùng, ô tô bắt đầu có lợi thế. Trường hợp cả nhà đi chơi ngoại thành trong một ngày đã được phân tích riêng ở bài [cả nhà đi chơi ngoại thành một ngày: thuê xe máy hay thuê ô tô](/thue-xe/2026/10/11/ca-nha-i-choi-ngoai-thanh-mot-ngay-thue-xe-may-hay-thue-o-to/). Ở đây ta tập trung vào vài ngày quanh nội thành.
+Nếu nhóm định dành phần lớn thời gian cho những chuyến ra ngoại thành, có trẻ nhỏ hoặc người lớn tuổi đi cùng, ô tô bắt đầu có lợi thế. Trường hợp cả nhà đi chơi ngoại thành trong một ngày đã được phân tích riêng ở bài [cả nhà đi chơi ngoại thành một ngày: thuê xe máy hay thuê ô tô](/thue-xe/2026/10/11/ca-nha-di-choi-ngoai-thanh-mot-ngay-thue-xe-may-hay-thue-o-to/). Ở đây ta tập trung vào vài ngày quanh nội thành.
 
 ## Linh hoạt trong phố: đường hẹp, một chiều và dừng nhanh
 
@@ -57,19 +57,19 @@ Mưa rào mùa hè ở Hà Nội thường đến nhanh và tạnh nhanh, nhóm 
 
 ## Tâm lý người lái: hai người lái xe máy hay một người lái ô tô
 
-Thuê hai xe máy nghĩa là nhóm cần ít nhất hai người tự tin chạy trong dòng xe đông, đủ điều kiện điều khiển xe theo quy định. Nếu chỉ một người quen lái còn người kia mới tập, chiếc xe thứ hai sẽ là điểm yếu của cả nhóm. Đi thành đôi cũng cần biết giữ khoảng cách và hẹn điểm gặp, xem thêm bài [giữ khoảng cách khi đi xe theo nhóm](/ky-nang/2026/10/10/giu-khoang-cach-khi-i-xe-theo-nhom/).
+Thuê hai xe máy nghĩa là nhóm cần ít nhất hai người tự tin chạy trong dòng xe đông, đủ điều kiện điều khiển xe theo quy định. Nếu chỉ một người quen lái còn người kia mới tập, chiếc xe thứ hai sẽ là điểm yếu của cả nhóm. Đi thành đôi cũng cần biết giữ khoảng cách và hẹn điểm gặp, xem thêm bài [giữ khoảng cách khi đi xe theo nhóm](/ky-nang/2026/10/10/giu-khoang-cach-khi-di-xe-theo-nhom/).
 
 Thuê ô tô thì chỉ cần một người lái, nhưng người đó gánh toàn bộ áp lực: xe máy vây quanh hai bên, đường một chiều, tìm chỗ đỗ, quay đầu trong phố chật. Người quen lái ô tô ở thành phố ít xe máy thường thấy Hà Nội căng thẳng hơn họ nghĩ.
 
 ## Độ thoải mái cho từng người trong nhóm
 
-Hai xe máy chở bốn người nghĩa là mỗi xe một người lái, một người ngồi sau. Người ngồi sau cần đội mũ bảo hiểm, ngồi vững, và không mang đồ cồng kềnh. Nhóm ba người thì gọn hơn: hai xe, một người đi riêng. Đừng tính chuyện dồn ba người lên một xe, hãy đọc kỹ [quy định chở người trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/) trước khi lên kế hoạch.
+Hai xe máy chở bốn người nghĩa là mỗi xe một người lái, một người ngồi sau. Người ngồi sau cần đội mũ bảo hiểm, ngồi vững, và không mang đồ cồng kềnh. Nhóm ba người thì gọn hơn: hai xe, một người đi riêng. Đừng tính chuyện dồn ba người lên một xe, hãy đọc kỹ [quy định chở người trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-dinh-hien-hanh/) trước khi lên kế hoạch.
 
 Nếu trong nhóm có trẻ nhỏ, người lớn tuổi hoặc người say nắng dễ mệt, ô tô cho họ một chỗ ngồi kín đáo, yên tĩnh. Còn với nhóm bạn trẻ, ngồi sau xe máy nhìn phố lại thường là phần vui nhất của chuyến đi.
 
 ## Gợi ý chọn theo kiểu nhóm
 
-**Nhóm bạn trẻ, có hai người lái vững, lịch trình chủ yếu trong phố:** thuê hai xe máy, gọi xe bốn bánh cho ngày đến và ngày đi. Danh sách chuẩn bị cho đoàn có trong bài [thuê xe máy cho đoàn nhóm ở Hà Nội cần chuẩn bị gì](/thue-xe/2026/09/30/thue-xe-may-cho-oan-nhom-o-ha-noi-can-chuan-bi-gi/).
+**Nhóm bạn trẻ, có hai người lái vững, lịch trình chủ yếu trong phố:** thuê hai xe máy, gọi xe bốn bánh cho ngày đến và ngày đi. Danh sách chuẩn bị cho đoàn có trong bài [thuê xe máy cho đoàn nhóm ở Hà Nội cần chuẩn bị gì](/thue-xe/2026/09/30/thue-xe-may-cho-doan-nhom-o-ha-noi-can-chuan-bi-gi/).
 
 **Gia đình có trẻ nhỏ hoặc người lớn tuổi, nhiều chuyến ngoại thành:** ô tô hợp hơn, miễn là chỗ ở có nơi đỗ.
 

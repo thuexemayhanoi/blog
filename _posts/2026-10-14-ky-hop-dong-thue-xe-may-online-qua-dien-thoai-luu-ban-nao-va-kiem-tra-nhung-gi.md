@@ -39,7 +39,7 @@ Màn hình điện thoại khiến người ta đọc lướt. Trước khi ký,
 5. **Giao nhận xe.** Nếu nhờ giao xe đến khách sạn ở Hoàn Kiếm hay Tây Hồ, thời gian và chi phí giao phải được xác nhận trước, ghi lại trong hợp đồng hoặc tin nhắn.
 6. **Phần để trống.** Ô nào còn trống thì hỏi lý do. Ô bỏ trống trong file gửi từ xa là chỗ dễ bị hiểu khác nhau nhất về sau.
 
-Với dạng ảnh chụp, kiểm tra thêm ảnh có đủ trang không, có bị cắt mép làm mất dòng cuối không. Phần câu hỏi nên đặt ra khi đặt từ xa đã được nói trong bài [đặt xe máy trước qua điện thoại hoặc Zalo](/thue-xe/2026/09/27/at-xe-may-truoc-qua-ien-thoai-hoac-zalo/).
+Với dạng ảnh chụp, kiểm tra thêm ảnh có đủ trang không, có bị cắt mép làm mất dòng cuối không. Phần câu hỏi nên đặt ra khi đặt từ xa đã được nói trong bài [đặt xe máy trước qua điện thoại hoặc Zalo](/thue-xe/2026/09/27/dat-xe-may-truoc-qua-dien-thoai-hoac-zalo/).
 
 ## Ký xong, lưu bản nào mới đúng
 
@@ -71,7 +71,7 @@ Ký từ xa tiện nhưng cũng là chỗ kẻ gian lợi dụng. Dừng lại v
 - File hợp đồng không có tên, địa chỉ tiệm, hoặc địa chỉ không khớp với nơi bạn sẽ đến nhận xe.
 - Nội dung trong file khác với những gì đã nhắn trước đó mà không có giải thích.
 
-Với tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, bạn có thể đối chiếu địa chỉ trên hợp đồng với địa chỉ thật khi đến nhận xe. Bài [đặt xe máy thuê qua Zalo chốt cọc sao](/hoi-dap/2026/10/09/at-xe-may-thue-qua-zalo-chot-coc-sao/) nói thêm về bằng chứng nên giữ khi chuyển cọc.
+Với tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, bạn có thể đối chiếu địa chỉ trên hợp đồng với địa chỉ thật khi đến nhận xe. Bài [đặt xe máy thuê qua Zalo chốt cọc sao](/hoi-dap/2026/10/09/dat-xe-may-thue-qua-zalo-chot-coc-sao/) nói thêm về bằng chứng nên giữ khi chuyển cọc.
 
 ## Tóm lại
 

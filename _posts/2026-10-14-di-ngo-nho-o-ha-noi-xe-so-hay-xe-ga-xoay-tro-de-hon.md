@@ -42,7 +42,7 @@ Mẹo thử nhanh: tắt máy, dắt xe vài bước rồi kéo lùi. Chiếc n�
 
 Xe ga thì bất lợi hơn ở một điểm: khi máy đang nổ, chỉ cần lỡ tay vặn ga lúc đang lúng túng quay đầu là bánh sau đẩy xe lao lên, rất dễ va vào tường hoặc người đi bộ. Vì vậy, với xe ga trong ngõ cụt, cách an toàn là tắt máy hẳn trước khi quay đầu hoặc lùi xe, rồi dùng chân đẩy.
 
-Muốn quay đầu gọn mà không phải dắt nhiều, bạn có thể xem thêm kỹ thuật trong bài [quay đầu xe máy trong ngõ cụt](/ky-nang/2026/10/10/quay-au-xe-may-trong-ngo-cut-ky-nang-it-nguoi-lam-ung/).
+Muốn quay đầu gọn mà không phải dắt nhiều, bạn có thể xem thêm kỹ thuật trong bài [quay đầu xe máy trong ngõ cụt](/ky-nang/2026/10/10/quay-dau-xe-may-trong-ngo-cut-ky-nang-it-nguoi-lam-dung/).
 
 ## Len ngõ, đi chậm ngang người đi bộ
 
@@ -83,6 +83,6 @@ Nếu ngõ rất hẹp mà bạn vẫn muốn xe ga, hãy ưu tiên dòng nhẹ 
 2. **Gập gương vào** khi phải len qua khe rất hẹp hoặc dắt xe qua cổng.
 3. **Đỗ xe quay đầu ra ngoài** từ tối hôm trước, sáng hôm sau chỉ việc dắt thẳng ra.
 
-Nếu bạn ở homestay trong ngõ, bài [homestay trong ngõ nhỏ Hà Nội: dắt xe vào ngõ và quay đầu an toàn](/thue-xe/2026/10/11/homestay-trong-ngo-nho-ha-noi-dat-xe-may-vao-ngo-va-quay-au-an-toan/) có thêm lưu ý về chỗ để xe qua đêm. Còn nếu bạn đã chắc chọn xe số, bài [xe số thuê cho đường ngõ nhỏ Hà Nội có lợi gì](/xe-may/2026/10/09/xe-so-thue-cho-uong-ngo-nho-ha-noi-co-loi-gi/) đi sâu hơn vào phía xe số.
+Nếu bạn ở homestay trong ngõ, bài [homestay trong ngõ nhỏ Hà Nội: dắt xe vào ngõ và quay đầu an toàn](/thue-xe/2026/10/11/homestay-trong-ngo-nho-ha-noi-dat-xe-may-vao-ngo-va-quay-dau-an-toan/) có thêm lưu ý về chỗ để xe qua đêm. Còn nếu bạn đã chắc chọn xe số, bài [xe số thuê cho đường ngõ nhỏ Hà Nội có lợi gì](/xe-may/2026/10/09/xe-so-thue-cho-duong-ngo-nho-ha-noi-co-loi-gi/) đi sâu hơn vào phía xe số.
 
 Tóm lại, ngõ càng chật và càng phải dắt xe, xe số càng tỏ ra dễ chịu; ngõ dài và chủ yếu là bò chậm, xe ga lại giúp bạn nhàn hơn. Các bài so sánh khác được gom ở mục [so sánh xe](/xe-may/so-sanh-xe/), còn thông tin chung về các dòng xe có trong chuyên mục [xe máy](/xe-may/).

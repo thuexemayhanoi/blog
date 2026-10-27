@@ -64,7 +64,7 @@ Kiểm tra xong, câu hỏi tiếp theo là để túi ở đâu. Không có câ
 
 **Tách khỏi ví tiền.** Để túi giấy tờ xe ở ngăn riêng trong balo, không chung với ví. Rơi ví thì giấy xe vẫn còn, và ngược lại.
 
-**Cố định một chỗ.** Dù chọn cốp hay balo, hãy giữ đúng một chỗ suốt kỳ thuê. Phần lớn các vụ "mất giấy" thực ra là quên mình để ở đâu. Nếu lỡ bỏ quên trên xe rồi trả hoặc đổi xe, xem bài [để quên giấy tờ trên xe thuê giữa kỳ](/an-toan-phap-ly/2026/10/09/e-quen-giay-to-tren-xe-thue-giua-ky-lay-lai-the-nao/).
+**Cố định một chỗ.** Dù chọn cốp hay balo, hãy giữ đúng một chỗ suốt kỳ thuê. Phần lớn các vụ "mất giấy" thực ra là quên mình để ở đâu. Nếu lỡ bỏ quên trên xe rồi trả hoặc đổi xe, xem bài [để quên giấy tờ trên xe thuê giữa kỳ](/an-toan-phap-ly/2026/10/09/de-quen-giay-to-tren-xe-thue-giua-ky-lay-lai-the-nao/).
 
 ## Khi phát hiện thiếu hoặc mất giấy giữa kỳ
 

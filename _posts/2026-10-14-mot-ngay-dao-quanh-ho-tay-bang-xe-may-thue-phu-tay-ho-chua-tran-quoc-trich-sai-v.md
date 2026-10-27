@@ -29,7 +29,7 @@ Thứ tự tôi hay gợi ý cho khách thuê theo ngày:
 4. **Đầu chiều: dải Trích Sài.**
 5. **Chiều: chùa Trấn Quốc trên đường Thanh Niên,** rồi kết thúc ngày ở phía Trúc Bạch hoặc Quán Thánh trước giờ cao điểm.
 
-Đi như vậy, bạn tới Phủ Tây Hồ khi còn yên và rời Thanh Niên trước giờ tan tầm. Bản đồ chi tiết của vòng hồ có trong bài [chạy vòng hồ Tây bằng xe máy thuê](/thue-xe/2026/09/29/chay-vong-ho-tay-bang-xe-may-thue-cung-uong-va-iem-dung/).
+Đi như vậy, bạn tới Phủ Tây Hồ khi còn yên và rời Thanh Niên trước giờ tan tầm. Bản đồ chi tiết của vòng hồ có trong bài [chạy vòng hồ Tây bằng xe máy thuê](/thue-xe/2026/09/29/chay-vong-ho-tay-bang-xe-may-thue-cung-duong-va-diem-dung/).
 
 ## Từ chỗ nhận xe tới hồ Tây: đường vào và giờ xuất phát
 
@@ -41,7 +41,7 @@ Nếu muốn tiệm mang xe tới khách sạn, việc giao nhận chỉ trong k
 
 **Phủ Tây Hồ** rất đông vào ngày rằm, mùng một âm lịch và các dịp đầu năm. Nếu ngày thuê xe của bạn rơi đúng rằm hoặc mùng một, hãy đổi thứ tự: đi Trấn Quốc và Trích Sài trước, để Phủ Tây Hồ tới chiều muộn hoặc bỏ hẳn cho ngày khác.
 
-**Chùa Trấn Quốc** nằm ngay trên đường Thanh Niên, giữa hồ Tây và hồ Trúc Bạch. Điều cần nhớ là không dừng xe tự do trên lòng đường Thanh Niên để chụp ảnh hay vào chùa. Hãy tìm điểm trông xe có người giữ, nhận vé, rồi đi bộ. Bài [đến chùa Trấn Quốc bằng xe máy](/du-lich/2026/09/28/en-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i/) nói kỹ hơn về lối vào. Nhớ ăn mặc kín đáo khi vào chùa.
+**Chùa Trấn Quốc** nằm ngay trên đường Thanh Niên, giữa hồ Tây và hồ Trúc Bạch. Điều cần nhớ là không dừng xe tự do trên lòng đường Thanh Niên để chụp ảnh hay vào chùa. Hãy tìm điểm trông xe có người giữ, nhận vé, rồi đi bộ. Bài [đến chùa Trấn Quốc bằng xe máy](/du-lich/2026/09/28/den-chua-tran-quoc-bang-xe-may-gui-xe-va-duong-di/) nói kỹ hơn về lối vào. Nhớ ăn mặc kín đáo khi vào chùa.
 
 ## Gửi xe ở hồ Tây: nguyên tắc chung cho mọi điểm dừng
 
@@ -53,7 +53,7 @@ Một ngày quanh hồ có thể dừng năm, sáu lần. Vài thói quen giúp 
 - **Không để mũ bảo hiểm, áo mưa trên yên.** Cất vào cốp hoặc mang theo, nhất là ở các đoạn vắng ven Trích Sài.
 - **Khóa cổ và nếu có khóa phụ thì dùng luôn,** kể cả khi chỉ dừng vài phút chụp ảnh.
 
-Chuyện gửi xe khi muốn xuống đi bộ một đoạn ven hồ được viết riêng trong bài [gửi xe khi đi dạo bờ hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/).
+Chuyện gửi xe khi muốn xuống đi bộ một đoạn ven hồ được viết riêng trong bài [gửi xe khi đi dạo bờ hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/).
 
 ## Trích Sài và các chỗ dừng ven nước
 

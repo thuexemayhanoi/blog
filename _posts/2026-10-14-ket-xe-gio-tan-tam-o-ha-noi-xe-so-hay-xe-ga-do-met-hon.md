@@ -73,7 +73,7 @@ Không có câu trả lời đúng cho tất cả, nhưng có thể chia khá r�
 - Bạn đã quen sang số đến mức không cần nghĩ, và thích cảm giác điều khiển trực tiếp.
 - Lộ trình chủ yếu là đường thông, chỉ kẹt một đoạn ngắn ở đầu cầu hay nút giao.
 
-Người mới tập lái nên đọc thêm bài [xe ga hay xe số cho người mới học lái](/xe-may/2026/10/01/xe-ga-hay-xe-so-cho-nguoi-moi-hoc-lai-nen-thue-dong-nao/), còn nếu bạn băn khoăn chuyện xăng xe khi chạy phố thì có bài [xe ga hay xe số tốn xăng hơn khi đi phố](/xe-may/2026/10/11/xe-ga-hay-xe-so-ton-xang-hon-khi-i-pho/).
+Người mới tập lái nên đọc thêm bài [xe ga hay xe số cho người mới học lái](/xe-may/2026/10/01/xe-ga-hay-xe-so-cho-nguoi-moi-hoc-lai-nen-thue-dong-nao/), còn nếu bạn băn khoăn chuyện xăng xe khi chạy phố thì có bài [xe ga hay xe số tốn xăng hơn khi đi phố](/xe-may/2026/10/11/xe-ga-hay-xe-so-ton-xang-hon-khi-di-pho/).
 
 ## Mẹo giảm mỏi cho cả hai loại xe
 

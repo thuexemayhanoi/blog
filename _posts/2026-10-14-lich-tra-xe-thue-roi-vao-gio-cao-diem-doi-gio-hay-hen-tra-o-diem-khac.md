@@ -25,7 +25,7 @@ Trước khi đổi lịch, hãy ước lượng lại quãng đường thực t
 - **Ở phía Phạm Văn Đồng, Cầu Giấy hoặc Bắc Từ Liêm.** Đường xa hơn, phải xuyên qua khu Cầu Giấy, Ba Đình rồi mới tới cầu. Đây là kiểu lịch dễ trễ nhất.
 - **Ở phố cổ Hoàn Kiếm.** Quãng ngắn, chỉ cần qua cầu Chương Dương hoặc cầu Long Biên. Kẹt vẫn có, nhưng thường chậm thêm ít phút chứ không lệch cả giờ.
 
-Nếu bạn thuộc nhóm thứ ba, có thể giữ nguyên giờ và xuất phát sớm hơn một chút. Hai nhóm đầu mới là lúc nên cân nhắc đổi lịch. Muốn hiểu khung giờ nào hay kẹt và hướng nào nên tránh, xem thêm bài [chọn giờ xuất phát và đường đi để đỡ kẹt](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/).
+Nếu bạn thuộc nhóm thứ ba, có thể giữ nguyên giờ và xuất phát sớm hơn một chút. Hai nhóm đầu mới là lúc nên cân nhắc đổi lịch. Muốn hiểu khung giờ nào hay kẹt và hướng nào nên tránh, xem thêm bài [chọn giờ xuất phát và đường đi để đỡ kẹt](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/).
 
 ## Phương án một: dời giờ trả xe
 
@@ -50,7 +50,7 @@ Những điểm cần chốt khi hẹn trả ở nơi khác:
 - **Khung giờ hẹn.** Việc nhận xe tận nơi chỉ diễn ra trong giờ hoạt động 09:00 đến 21:00, nên lịch hẹn vẫn phải nằm trong khung này.
 - **Cách bàn giao tại chỗ.** Ai đến nhận, kiểm xe ở đâu, xăng tính thế nào, giấy tờ và tiền cọc trả lại ra sao.
 
-Một lưu ý thực tế: điểm hẹn nên là chỗ dễ dừng xe, có vỉa hè rộng hoặc sảnh tòa nhà, tránh đúng mặt đường Nguyễn Trãi hay Phạm Văn Đồng giờ tan tầm, nơi đứng lại vài phút cũng khó. Việc kiểm xe cần ánh sáng và chỗ đứng an toàn, không nên làm vội ngay mép đường. Chi tiết các kiểu điểm trả khác có trong bài [trả xe máy thuê ở địa điểm khác nơi nhận](/thue-xe/2026/10/07/tra-xe-may-thue-o-ia-iem-khac-noi-nhan-co-uoc-khong/).
+Một lưu ý thực tế: điểm hẹn nên là chỗ dễ dừng xe, có vỉa hè rộng hoặc sảnh tòa nhà, tránh đúng mặt đường Nguyễn Trãi hay Phạm Văn Đồng giờ tan tầm, nơi đứng lại vài phút cũng khó. Việc kiểm xe cần ánh sáng và chỗ đứng an toàn, không nên làm vội ngay mép đường. Chi tiết các kiểu điểm trả khác có trong bài [trả xe máy thuê ở địa điểm khác nơi nhận](/thue-xe/2026/10/07/tra-xe-may-thue-o-dia-diem-khac-noi-nhan-co-duoc-khong/).
 
 ## So sánh nhanh hai cách
 

@@ -24,7 +24,7 @@ Chữ "tour xe máy" ở Hà Nội thật ra gồm hai trải nghiệm rất kh�
 - **Ngồi sau người lái.** Người dẫn hoặc tài xế cầm lái, bạn ngồi sau ngắm phố. Không cần biết lái, gần như không cần giấy phép.
 - **Tự lái theo đoàn.** Bạn tự điều khiển một chiếc xe, bám theo người dẫn chạy phía trước. Yêu cầu tay lái gần như ngang với tự đi, chỉ khác là có người chỉ đường.
 
-Còn tự thuê xe nghĩa là bạn nhận một chiếc xe, tự lên lộ trình, tự quyết chỗ dừng và tự xử lý mọi tình huống trên đường. Khi so sánh, hãy biết mình đang so tự đi với kiểu tour nào, vì kết luận sẽ khác hẳn. Một bài cùng chủ đề nhưng xoay quanh chuyến đi đúng một ngày và chi phí có ở [tự thuê xe máy đi một ngày hay đi tour có người dẫn](/thue-xe/2026/10/11/tu-thue-xe-may-i-mot-ngay-hay-i-tour-xe-may-co-nguoi-dan-nen-chon-gi/); bài này đi sâu vào phần con người: tay lái, hiểu biết và nhóm đi.
+Còn tự thuê xe nghĩa là bạn nhận một chiếc xe, tự lên lộ trình, tự quyết chỗ dừng và tự xử lý mọi tình huống trên đường. Khi so sánh, hãy biết mình đang so tự đi với kiểu tour nào, vì kết luận sẽ khác hẳn. Một bài cùng chủ đề nhưng xoay quanh chuyến đi đúng một ngày và chi phí có ở [tự thuê xe máy đi một ngày hay đi tour có người dẫn](/thue-xe/2026/10/11/tu-thue-xe-may-di-mot-ngay-hay-di-tour-xe-may-co-nguoi-dan-nen-chon-gi/); bài này đi sâu vào phần con người: tay lái, hiểu biết và nhóm đi.
 
 ## Độ tự do lịch trình: bạn cần linh hoạt đến đâu
 
@@ -40,9 +40,9 @@ Tự thuê xe hợp với người muốn tự xếp ngày của mình, chẳng 
 
 1. **Chạy thử ở chỗ thoáng.** Sau khi nhận xe, chạy vài vòng ở con đường ít xe, tập phanh dứt khoát, rẽ trái, rẽ phải và dừng hẳn. Nếu tay còn cứng, mắt chỉ nhìn sát bánh trước, bạn chưa sẵn sàng cho trung tâm.
 2. **Một đoạn ngắn có đèn tín hiệu.** Thử qua vài ngã tư vừa phải, để quen cảnh xe hai bên áp sát, xe máy đi chung làn với ô tô.
-3. **Tự hỏi về giấy tờ.** Bạn có giấy phép lái xe phù hợp không? Với khách nước ngoài, quy định về giấy phép được công nhận nên đọc kỹ ở bài [người nước ngoài dùng bằng lái nước ngoài có đi xe được không](/hoi-dap/2026/09/29/nguoi-nuoc-ngoai-bang-lai-nuoc-ngoai-i-xe-uoc-khong/) và kiểm tra văn bản mới nhất.
+3. **Tự hỏi về giấy tờ.** Bạn có giấy phép lái xe phù hợp không? Với khách nước ngoài, quy định về giấy phép được công nhận nên đọc kỹ ở bài [người nước ngoài dùng bằng lái nước ngoài có đi xe được không](/hoi-dap/2026/09/29/nguoi-nuoc-ngoai-bang-lai-nuoc-ngoai-di-xe-duoc-khong/) và kiểm tra văn bản mới nhất.
 
-Nếu vượt qua cả ba một cách thoải mái, tự đi là lựa chọn hợp lý. Nếu một bài khiến bạn căng thẳng, hãy chọn tour ngồi sau, hoặc tự đi nhưng chỉ trên những tuyến dễ trước. Gợi ý những đoạn phù hợp cho lần chạy đầu có trong bài [cung đường nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-au/).
+Nếu vượt qua cả ba một cách thoải mái, tự đi là lựa chọn hợp lý. Nếu một bài khiến bạn căng thẳng, hãy chọn tour ngồi sau, hoặc tự đi nhưng chỉ trên những tuyến dễ trước. Gợi ý những đoạn phù hợp cho lần chạy đầu có trong bài [cung đường nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-dau/).
 
 ## Hiểu đường và món ăn: thứ người dẫn bán thật sự
 
@@ -50,7 +50,7 @@ Nếu vượt qua cả ba một cách thoải mái, tự đi là lựa chọn h�
 
 Khi tự đi, bạn có thể bù phần lớn khoảng trống này bằng chuẩn bị:
 
-- **Lên danh sách món trước.** Chọn ba, bốn món muốn thử như bún chả, phở cuốn ở khu Ngũ Xã, bánh tôm hồ Tây, rồi đánh dấu vài quán trên bản đồ. Bài [ẩm thực Hà Nội theo cung đường xe máy](/du-lich/2026/09/28/am-thuc-ha-noi-theo-cung-uong-xe-may-i-au-an-gi/) có sẵn gợi ý theo từng khu.
+- **Lên danh sách món trước.** Chọn ba, bốn món muốn thử như bún chả, phở cuốn ở khu Ngũ Xã, bánh tôm hồ Tây, rồi đánh dấu vài quán trên bản đồ. Bài [ẩm thực Hà Nội theo cung đường xe máy](/du-lich/2026/09/28/am-thuc-ha-noi-theo-cung-duong-xe-may-di-dau-an-gi/) có sẵn gợi ý theo từng khu.
 - **Nắm giờ cao điểm.** Tránh xuất phát vào khung tan tầm buổi sáng và chiều tối, nhất là các trục qua cầu Chương Dương hay cầu Long Biên.
 - **Hỏi người địa phương.** Người trông xe, chủ quán nước thường là nguồn chỉ đường và gợi ý món ăn rất đáng tin.
 

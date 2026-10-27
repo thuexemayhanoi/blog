@@ -35,7 +35,7 @@ Trong phố cổ, bạn hiếm khi chạy quá vài chục mét liền mạch. T
 - **Sàn để chân và cốp.** Áo mưa, chai nước, túi đồ mua ở chợ Đồng Xuân có chỗ cất mà không treo lủng lẳng.
 - **Bò chậm êm.** Khi dòng xe nhích từng chút, xe ga giữ tốc độ đi bộ dễ hơn.
 
-Xe số vẫn đi phố cổ được với người quen tay, nhưng người mới sẽ thấy một buổi sáng ở Hoàn Kiếm trên xe số mệt hơn hẳn. Những mẹo giữ an toàn khi len trong phố đông được gom ở bài [lái xe ga trong phố đông](/xe-may/2026/09/27/lai-xe-ga-trong-pho-ong-meo-giu-an-toan/).
+Xe số vẫn đi phố cổ được với người quen tay, nhưng người mới sẽ thấy một buổi sáng ở Hoàn Kiếm trên xe số mệt hơn hẳn. Những mẹo giữ an toàn khi len trong phố đông được gom ở bài [lái xe ga trong phố đông](/xe-may/2026/09/27/lai-xe-ga-trong-pho-dong-meo-giu-an-toan/).
 
 ## Đường đê ven sông Hồng: cả hai đều đi được, nhưng khác cảm giác
 
@@ -55,7 +55,7 @@ Nếu ngày thuê của bạn là một chuyến lên Ba Vì, hay vòng qua vùn
 
 **Xe ga** không có số để ghìm, nên khi đổ dốc dài bạn phải phanh nhiều hơn. Cách đúng là phanh nhịp, bóp nhả xen kẽ cả phanh trước và sau, giữ tốc độ thấp ngay từ đầu dốc, không thả trôi rồi mới phanh gấp. Chở hai người lên dốc gắt, xe ga cũng sẽ đuối hơn.
 
-Vì vậy, người đã quen sang số nên chọn xe số cho lộ trình nhiều dốc. Chưa từng lái xe số thì đừng biến chuyến Ba Vì thành buổi tập sang số đầu tiên; xe ga cộng với phanh nhịp vẫn an toàn hơn. Bài [xe số đi đường đèo dốc có ổn không](/xe-may/2026/09/27/xe-so-i-uong-eo-doc-co-on-khong/) phân tích thêm khi nào xe số thật sự phát huy lợi thế.
+Vì vậy, người đã quen sang số nên chọn xe số cho lộ trình nhiều dốc. Chưa từng lái xe số thì đừng biến chuyến Ba Vì thành buổi tập sang số đầu tiên; xe ga cộng với phanh nhịp vẫn an toàn hơn. Bài [xe số đi đường đèo dốc có ổn không](/xe-may/2026/09/27/xe-so-di-duong-deo-doc-co-on-khong/) phân tích thêm khi nào xe số thật sự phát huy lợi thế.
 
 ## Ghép cả ngày lại: ba kịch bản thường gặp
 

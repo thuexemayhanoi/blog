@@ -19,7 +19,7 @@ Bạn sẽ ở Hà Nội chừng ba đến bốn tuần: một kỳ trao đổi 
 
 ## Vì sao ba bốn tuần khác với hai ba tuần
 
-Ở khoảng hai đến ba tuần, phần lớn cân nhắc xoay quanh ngưỡng chuyển sang gói tháng; bài [ở Hà Nội hai đến ba tuần](/thue-xe/2026/10/11/o-ha-noi-hai-en-ba-tuan-thue-theo-tuan-hay-chuyen-sang-goi-thang/) đã đi kỹ phần tự tính đó. Khi lịch đã dài ba, bốn tuần, bài toán đổi hướng. Gần như chắc chắn bạn đã vượt qua ngưỡng ấy, nên câu hỏi thật sự là: có lý do gì để vẫn giữ kiểu nối tuần không?
+Ở khoảng hai đến ba tuần, phần lớn cân nhắc xoay quanh ngưỡng chuyển sang gói tháng; bài [ở Hà Nội hai đến ba tuần](/thue-xe/2026/10/11/o-ha-noi-hai-den-ba-tuan-thue-theo-tuan-hay-chuyen-sang-goi-thang/) đã đi kỹ phần tự tính đó. Khi lịch đã dài ba, bốn tuần, bài toán đổi hướng. Gần như chắc chắn bạn đã vượt qua ngưỡng ấy, nên câu hỏi thật sự là: có lý do gì để vẫn giữ kiểu nối tuần không?
 
 Có, nhưng chỉ trong vài hoàn cảnh cụ thể. Phần dưới sẽ tách rõ từng hoàn cảnh.
 

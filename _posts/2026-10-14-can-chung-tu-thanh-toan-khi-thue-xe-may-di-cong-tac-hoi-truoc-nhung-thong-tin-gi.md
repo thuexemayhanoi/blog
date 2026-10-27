@@ -74,7 +74,7 @@ Nếu công ty tự chuyển khoản thay vì để bạn ứng tiền, chốt t
 - Chuyển trước ngày nhận xe bao lâu, và cửa hàng xác nhận đã nhận tiền bằng cách nào.
 - Tiền cọc có đi cùng khoản chuyển của công ty không, hay bạn tự đặt cọc khi nhận xe. Nếu công ty đặt cọc, khi trả xe tiền cọc sẽ hoàn về đâu.
 
-Gia hạn là tình huống hay làm rối chứng từ, vì kỳ thuê thực tế khác với kỳ trên giấy tờ ban đầu. Báo cửa hàng sớm và xin ghi kỳ thuê cuối cùng trên chứng từ. Cách báo gia hạn đúng lúc có trong bài [gia hạn thuê xe máy thêm ngày](/thue-xe/2026/10/11/gia-han-thue-xe-may-them-ngay-thong-bao-ung-luc/).
+Gia hạn là tình huống hay làm rối chứng từ, vì kỳ thuê thực tế khác với kỳ trên giấy tờ ban đầu. Báo cửa hàng sớm và xin ghi kỳ thuê cuối cùng trên chứng từ. Cách báo gia hạn đúng lúc có trong bài [gia hạn thuê xe máy thêm ngày](/thue-xe/2026/10/11/gia-han-thue-xe-may-them-ngay-thong-bao-dung-luc/).
 
 ## Mẫu tin nhắn gửi cửa hàng khi đặt xe
 
@@ -86,4 +86,4 @@ Nếu bạn nhận xe theo hình thức giao tận nơi, hãy hỏi luôn khung 
 
 ## Tóm lại trước chuyến công tác
 
-Chứng từ thanh toán gọn gàng là kết quả của việc hỏi đúng lúc: hỏi kế toán cần gì, gửi cửa hàng thông tin đơn vị bằng văn bản, hỏi cửa hàng cấp được gì và khi nào, rồi tách riêng tiền thuê với tiền cọc. Nếu bạn còn đang cân nhắc thuê bao lâu cho chuyến đi, xem thêm [thủ tục thuê xe máy cho người đến công tác ngắn hạn](/thue-xe/2026/10/04/thu-tuc-thue-xe-may-cho-nguoi-en-cong-tac-ngan-han/). Các bài khác về giấy tờ và quy trình thuê nằm ở mục [thủ tục thuê xe](/thue-xe/thu-tuc/), còn toàn bộ kinh nghiệm thuê xe máy ở Hà Nội có trong chuyên mục [thuê xe](/thue-xe/).
+Chứng từ thanh toán gọn gàng là kết quả của việc hỏi đúng lúc: hỏi kế toán cần gì, gửi cửa hàng thông tin đơn vị bằng văn bản, hỏi cửa hàng cấp được gì và khi nào, rồi tách riêng tiền thuê với tiền cọc. Nếu bạn còn đang cân nhắc thuê bao lâu cho chuyến đi, xem thêm [thủ tục thuê xe máy cho người đến công tác ngắn hạn](/thue-xe/2026/10/04/thu-tuc-thue-xe-may-cho-nguoi-den-cong-tac-ngan-han/). Các bài khác về giấy tờ và quy trình thuê nằm ở mục [thủ tục thuê xe](/thue-xe/thu-tuc/), còn toàn bộ kinh nghiệm thuê xe máy ở Hà Nội có trong chuyên mục [thuê xe](/thue-xe/).

@@ -31,7 +31,7 @@ Thời điểm tốt nhất để nhắn cửa hàng là hôm trước, trong gi
 
 Đừng để đến khi xe sắp vào bến mới bắt đầu hỏi. Trên những đoạn cửa ngõ như đường Phạm Hùng hay Giải Phóng giờ cao điểm, xe khách bò chậm, bạn ngồi trong xe đông người, vừa canh hành lý vừa nhắn tin là chuyện rất dễ sót thông tin.
 
-Cách nhắn đặt trước qua điện thoại hay Zalo được nói kỹ trong bài [đặt xe máy trước qua điện thoại hoặc Zalo](/thue-xe/2026/09/27/at-xe-may-truoc-qua-ien-thoai-hoac-zalo/).
+Cách nhắn đặt trước qua điện thoại hay Zalo được nói kỹ trong bài [đặt xe máy trước qua điện thoại hoặc Zalo](/thue-xe/2026/09/27/dat-xe-may-truoc-qua-dien-thoai-hoac-zalo/).
 
 ## Gửi thông tin gì để cửa hàng giữ xe đúng ý
 
@@ -44,7 +44,7 @@ Một tin nhắn rõ ràng giúp cửa hàng trả lời nhanh và giữ đúng 
 - **Hành lý mang theo**: chỉ một balo hay có thêm vali, thùng đồ quê, để cửa hàng gợi ý xe có sàn để chân hoặc cốp phù hợp.
 - **Cách nhận xe mong muốn**: tự đến cửa hàng hay hỏi về việc giao xe.
 
-Về giấy tờ, hãy hỏi trước cần mang gì và có phải để lại giấy tờ nào không. Nếu cửa hàng có giữ một loại giấy tờ nào đó, hãy hỏi rõ trực tiếp và nhớ xin biên nhận. Các loại giấy tờ thường cần chuẩn bị được liệt kê trong bài [chuẩn bị giấy tờ trước khi đến cửa hàng](/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-en-cua-hang-thue-xe/). Tiền cọc cũng hỏi trực tiếp theo dòng xe, kèm điều kiện hoàn lại.
+Về giấy tờ, hãy hỏi trước cần mang gì và có phải để lại giấy tờ nào không. Nếu cửa hàng có giữ một loại giấy tờ nào đó, hãy hỏi rõ trực tiếp và nhớ xin biên nhận. Các loại giấy tờ thường cần chuẩn bị được liệt kê trong bài [chuẩn bị giấy tờ trước khi đến cửa hàng](/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-den-cua-hang-thue-xe/). Tiền cọc cũng hỏi trực tiếp theo dòng xe, kèm điều kiện hoàn lại.
 
 ## Hẹn nhận xe: tự sang Long Biên hay hỏi giao xe
 
@@ -76,7 +76,7 @@ Giờ xe khách vào bến thường lệch với giờ nhà xe báo, nhất là
 
 Khi đã chốt mọi thứ qua tin nhắn, phần gặp mặt chỉ còn xuất trình giấy tờ, thống nhất lại số ngày thuê, giờ trả xe và khoản cọc, rồi cùng nhau kiểm tra xe. Xem phanh, đèn, còi, lốp, mức xăng và các vết trầy sẵn có, chụp ảnh quanh xe trước khi đi. Người vừa ngồi xe khách nhiều giờ thường mỏi lưng, buồn ngủ, nên đi chậm vài cây số đầu để làm quen tay lái.
 
-Nếu muốn tìm hiểu thêm về chuyện đi lại quanh bến sau khi có xe, có thể đọc bài [thuê xe máy gần bến xe Giáp Bát đi tuyến phía nam](/thue-xe/2026/10/11/thue-xe-may-gan-ben-xe-giap-bat-i-tuyen-phia-nam-thuan-tien/).
+Nếu muốn tìm hiểu thêm về chuyện đi lại quanh bến sau khi có xe, có thể đọc bài [thuê xe máy gần bến xe Giáp Bát đi tuyến phía nam](/thue-xe/2026/10/11/thue-xe-may-gan-ben-xe-giap-bat-di-tuyen-phia-nam-thuan-tien/).
 
 ## Tóm lại
 

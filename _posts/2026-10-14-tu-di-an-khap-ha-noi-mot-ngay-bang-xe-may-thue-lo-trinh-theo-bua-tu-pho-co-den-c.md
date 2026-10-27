@@ -28,7 +28,7 @@ Cách hợp lý hơn là chia ngày thành bốn cụm, mỗi cụm chỉ gửi 
 3. **Bữa xế ở Đống Đa, khu Văn Miếu và chợ Khâm Thiên.**
 4. **Bữa tối và ăn đêm quay về phố cổ.**
 
-Thứ tự này đi theo một vòng gọn quanh trung tâm, chặng nào cũng ngắn. Muốn so với cách chia theo cung đường dài hơn, bạn xem thêm bài [ẩm thực Hà Nội theo cung đường xe máy](/du-lich/2026/09/28/am-thuc-ha-noi-theo-cung-uong-xe-may-i-au-an-gi/). Bài này chỉ bàn chuyện xếp một ngày cho hợp xe thuê.
+Thứ tự này đi theo một vòng gọn quanh trung tâm, chặng nào cũng ngắn. Muốn so với cách chia theo cung đường dài hơn, bạn xem thêm bài [ẩm thực Hà Nội theo cung đường xe máy](/du-lich/2026/09/28/am-thuc-ha-noi-theo-cung-duong-xe-may-di-dau-an-gi/). Bài này chỉ bàn chuyện xếp một ngày cho hợp xe thuê.
 
 ## Nhận xe và bữa sáng: phố cổ đi bộ là chính
 
@@ -40,7 +40,7 @@ Từ Long Biên qua cầu Chương Dương là vào thẳng phía đông phố c
 - **Bánh cuốn, xôi, bún các loại** trong các ngõ quanh chợ Đồng Xuân.
 - **Cà phê trứng hoặc cà phê nâu** để kết thúc bữa sáng.
 
-Ngõ phố cổ hẹp, nhiều vỉa hè đã kín bàn ghế, chạy xe từ quán này sang quán kia vừa chậm vừa khó dừng. Đi bộ là cách ăn sáng nhanh nhất ở đây. Chuyện chọn chỗ gửi trong khu này được nói kỹ ở bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-e-xe-o-au/).
+Ngõ phố cổ hẹp, nhiều vỉa hè đã kín bàn ghế, chạy xe từ quán này sang quán kia vừa chậm vừa khó dừng. Đi bộ là cách ăn sáng nhanh nhất ở đây. Chuyện chọn chỗ gửi trong khu này được nói kỹ ở bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-de-xe-o-dau/).
 
 ## Bữa trưa sang Ba Đình: Trúc Bạch, Ngũ Xã và chợ Châu Long
 
@@ -64,7 +64,7 @@ Tối là lúc khu phố cổ sôi động nhất cho người mê ăn. Các ph�
 
 Cần nhớ hai chuyện:
 
-- **Tối cuối tuần có phố đi bộ quanh hồ Hoàn Kiếm** và một số phố trong khu phố cổ. Xe máy không được đi vào khu vực này, nên gửi xe ở ngoài vùng rồi đi bộ vào. Bài [phố đi bộ cuối tuần và xe máy để đâu](/du-lich/2026/09/28/pho-i-bo-cuoi-tuan-va-xe-may-e-au/) hướng dẫn cụ thể.
+- **Tối cuối tuần có phố đi bộ quanh hồ Hoàn Kiếm** và một số phố trong khu phố cổ. Xe máy không được đi vào khu vực này, nên gửi xe ở ngoài vùng rồi đi bộ vào. Bài [phố đi bộ cuối tuần và xe máy để đâu](/du-lich/2026/09/28/pho-di-bo-cuoi-tuan-va-xe-may-de-dau/) hướng dẫn cụ thể.
 - **Giờ trả xe.** Tiệm đóng cửa lúc 21:00 và không giao nhận ngoài giờ. Nếu kế hoạch của bạn kéo dài sau giờ đó, hãy trao đổi trước với tiệm về việc trả xe vào sáng hôm sau, thay vì vội vã chạy về giữa bữa tối.
 
 ## Gửi xe, giờ đông và chuyện bia rượu
@@ -76,7 +76,7 @@ Một ngày ăn uống bằng xe máy có thể có năm, sáu lần gửi xe. V
 - **Cất mũ bảo hiểm và áo mưa** vào cốp, không treo trên xe.
 - **Né giờ cao điểm sáng và chiều** khi chuyển cụm, dùng khoảng đó để ngồi ăn.
 
-Riêng bia rượu, câu trả lời đơn giản: đã uống thì không lái. Món ngon ở Hà Nội thường đi kèm bia hơi, nhưng quy định về nồng độ cồn với người lái xe máy rất nghiêm, đọc thêm ở bài [quy định nồng độ cồn khi lái xe](/an-toan-phap-ly/2026/09/28/quy-inh-nong-o-con-khi-lai-xe-hien-hanh/). Nếu muốn uống ở bữa tối, hãy gửi xe từ trước, về chỗ ở bằng taxi, rồi quay lại lấy xe sau.
+Riêng bia rượu, câu trả lời đơn giản: đã uống thì không lái. Món ngon ở Hà Nội thường đi kèm bia hơi, nhưng quy định về nồng độ cồn với người lái xe máy rất nghiêm, đọc thêm ở bài [quy định nồng độ cồn khi lái xe](/an-toan-phap-ly/2026/09/28/quy-dinh-nong-do-con-khi-lai-xe-hien-hanh/). Nếu muốn uống ở bữa tối, hãy gửi xe từ trước, về chỗ ở bằng taxi, rồi quay lại lấy xe sau.
 
 ## Chuẩn bị trước khi rời tiệm
 

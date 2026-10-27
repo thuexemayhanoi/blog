@@ -36,7 +36,7 @@ Lúc vội, thứ hay bị bỏ quên nhất là giấy tờ. Trước khi rời
 2. **Giấy phép lái xe** phù hợp với loại xe định thuê.
 3. **Điện thoại đã sạc, có tài khoản ngân hàng hoặc tiền mặt** để làm thủ tục đặt cọc theo cách cửa hàng xác nhận.
 
-Nếu lỡ quên thẻ căn cước ở quê, đừng vội đi thẳng đến quầy. Hãy nhắn hỏi trước cửa hàng có cách xác minh nào khác không, chẳng hạn xem tài khoản định danh điện tử trên điện thoại kèm một giấy tờ gốc khác, và việc đặt cọc khi đó làm thế nào. Câu trả lời mỗi nơi một khác, nên đừng tự đoán. Danh sách đầy đủ hơn nằm ở bài [chuẩn bị giấy tờ trước khi đến cửa hàng](/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-en-cua-hang-thue-xe/).
+Nếu lỡ quên thẻ căn cước ở quê, đừng vội đi thẳng đến quầy. Hãy nhắn hỏi trước cửa hàng có cách xác minh nào khác không, chẳng hạn xem tài khoản định danh điện tử trên điện thoại kèm một giấy tờ gốc khác, và việc đặt cọc khi đó làm thế nào. Câu trả lời mỗi nơi một khác, nên đừng tự đoán. Danh sách đầy đủ hơn nằm ở bài [chuẩn bị giấy tờ trước khi đến cửa hàng](/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-den-cua-hang-thue-xe/).
 
 Giấy tờ của bệnh nhân như hồ sơ bệnh án, thẻ bảo hiểm y tế thì để trong một túi riêng, không để lẫn với giấy tờ thuê xe. Lúc vào viện, bạn sẽ phải lấy chúng ra nhiều lần.
 
@@ -68,7 +68,7 @@ Chăm người nằm viện, khó có ai biết chắc ngày ra viện. Vì vậ
 - Nếu người nhà được cho về sớm, trả xe trước hạn thì tính thế nào.
 - Nếu phải chuyển từ Việt Đức sang Bạch Mai, hay từ Bạch Mai xuống K Tân Triều để điều trị tiếp, xe vẫn dùng bình thường, chỉ cần báo cửa hàng nơi bạn đang ở.
 
-Hãy hỏi những câu này ngay hôm nhận xe và lưu lại câu trả lời. Ai đã biết chắc phải ở lại nhiều tuần có thể đọc bài [thuê xe máy theo tháng khi chăm bệnh nhân điều trị dài ngày](/thue-xe/2026/10/11/nguoi-nha-cham-benh-nhan-ieu-tri-dai-ngay-o-ha-noi-thue-xe-may-theo-thang/).
+Hãy hỏi những câu này ngay hôm nhận xe và lưu lại câu trả lời. Ai đã biết chắc phải ở lại nhiều tuần có thể đọc bài [thuê xe máy theo tháng khi chăm bệnh nhân điều trị dài ngày](/thue-xe/2026/10/11/nguoi-nha-cham-benh-nhan-dieu-tri-dai-ngay-o-ha-noi-thue-xe-may-theo-thang/).
 
 ## Ba bệnh viện, ba kiểu đường đi khác nhau
 
@@ -78,7 +78,7 @@ Khi đã có xe, đường đi mỗi nơi một khác, và hiểu trước giúp
 - **Việt Đức:** nằm giữa khu phố cũ quanh Tràng Thi, Phủ Doãn, nhiều phố một chiều. Đi lần đầu nên bật bản đồ, chạy chậm, để ý biển cấm rẽ.
 - **K Tân Triều:** xa trung tâm hơn, phía nam thành phố. Nếu ở trọ trong nội thành, quãng đường mỗi lượt dài hơn hẳn, nên đổ đầy xăng từ đầu ngày.
 
-Chỗ gửi xe ở cả ba nơi đều đông vào buổi sáng; mẹo chọn bãi gần cổng có trong bài [gửi xe máy ở bệnh viện](/ky-nang/2026/10/05/gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-iem/). Còn cách chọn xe dễ dắt và sắp lịch đi chợ, đi hiệu thuốc hằng ngày thì xem bài [người nhà chăm bệnh nhân ở bệnh viện Hà Nội](/thue-xe/2026/10/14/nguoi-nha-cham-benh-nhan-o-benh-vien-ha-noi-thue-xe-may-di-lai-the-nao/).
+Chỗ gửi xe ở cả ba nơi đều đông vào buổi sáng; mẹo chọn bãi gần cổng có trong bài [gửi xe máy ở bệnh viện](/ky-nang/2026/10/05/gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-diem/). Còn cách chọn xe dễ dắt và sắp lịch đi chợ, đi hiệu thuốc hằng ngày thì xem bài [người nhà chăm bệnh nhân ở bệnh viện Hà Nội](/thue-xe/2026/10/14/nguoi-nha-cham-benh-nhan-o-benh-vien-ha-noi-thue-xe-may-di-lai-the-nao/).
 
 ## Lời kết
 
