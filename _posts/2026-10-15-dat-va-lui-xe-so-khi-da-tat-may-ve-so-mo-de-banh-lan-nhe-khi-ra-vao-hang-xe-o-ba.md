@@ -61,7 +61,7 @@ Trước khi kéo:
 2. **Gạt chân chống,** đứng bên trái, tay trái nắm tay lái trái, tay phải nắm tay lái phải với ngón tay đặt hờ trên tay phanh trước.
 3. **Hông tì vào yên,** kéo xe lùi từng đoạn ngắn, ghi đông giữ thẳng.
 
-Cách đứng và dồn lực khi kéo xe nặng ra khỏi hàng được viết kỹ trong bài [dắt lùi xe máy ra khỏi hàng xe chật](/ky-nang/2026/10/11/dat-lui-xe-may-ra-khoi-hang-xe-chat-ky-thuat-va-tu-the-o-xe-nang/). Điều khác biệt ở xe số chỉ là: chưa về N thì mọi kỹ thuật kéo đều nặng gấp bội.
+Cách đứng và dồn lực khi kéo xe nặng ra khỏi hàng được viết kỹ trong bài [dắt lùi xe máy ra khỏi hàng xe chật](/ky-nang/2026/10/11/dat-lui-xe-may-ra-khoi-hang-xe-chat-ky-thuat-va-tu-the-do-xe-nang/). Điều khác biệt ở xe số chỉ là: chưa về N thì mọi kỹ thuật kéo đều nặng gấp bội.
 
 ## Giữ phanh tay phải khi lùi trên dốc
 

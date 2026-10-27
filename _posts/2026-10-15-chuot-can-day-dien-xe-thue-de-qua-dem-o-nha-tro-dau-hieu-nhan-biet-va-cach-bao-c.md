@@ -71,7 +71,7 @@ Nếu bạn là khách du lịch ở homestay hay khách sạn nhỏ, báo luôn
 
 ## Những đêm sau
 
-Một khi chuột đã tìm tới xe, chúng hay quay lại. Đổi chỗ đỗ, để xe xa thùng rác và khu nấu ăn, giữ cốp và sàn xe sạch vụn đồ ăn. Các cách phòng chi tiết cho người thuê xe theo tháng ở nhà trọ được nói ở bài [chuột cắn dây điện xe máy để qua đêm ở nhà trọ: dấu hiệu nhận biết và cách phòng](/thue-xe/2026/10/15/chuot-can-day-dien-xe-may-de-qua-dem-o-nha-tro-dau-hieu-nhan-biet-va-cach-phong/ "Cách phòng chuột cắn dây điện xe máy"); còn thói quen đỗ xe an toàn ở nhà trọ có ở bài [chống trộm cho xe máy để qua đêm ở nhà trọ](/thue-xe/2026/10/11/chong-trom-cho-xe-may-o-qua-em-o-nha-tro-khoa-vi-tri-o-va-thoi-quen/ "Chống trộm cho xe máy để qua đêm ở nhà trọ").
+Một khi chuột đã tìm tới xe, chúng hay quay lại. Đổi chỗ đỗ, để xe xa thùng rác và khu nấu ăn, giữ cốp và sàn xe sạch vụn đồ ăn. Các cách phòng chi tiết cho người thuê xe theo tháng ở nhà trọ được nói ở bài [chuột cắn dây điện xe máy để qua đêm ở nhà trọ: dấu hiệu nhận biết và cách phòng](/thue-xe/2026/10/15/chuot-can-day-dien-xe-may-de-qua-dem-o-nha-tro-dau-hieu-nhan-biet-va-cach-phong/ "Cách phòng chuột cắn dây điện xe máy"); còn thói quen đỗ xe an toàn ở nhà trọ có ở bài [chống trộm cho xe máy để qua đêm ở nhà trọ](/thue-xe/2026/10/11/chong-trom-cho-xe-may-do-qua-dem-o-nha-tro-khoa-vi-tri-do-va-thoi-quen/ "Chống trộm cho xe máy để qua đêm ở nhà trọ").
 
 Nếu xe chết máy giữa đường vì lỗi điện chứ không phải ở chỗ đỗ, cách đưa xe vào lề và kiểm tra nhanh có ở bài [Honda Wave chết máy giữa ngã tư: dắt vào lề, kiểm tra xăng, số và gọi cửa hàng](/xe-may/2026/10/14/honda-wave-chet-may-giua-nga-tu-dat-vao-le-kiem-tra-xang-so-va-goi-cua-hang/ "Honda Wave chết máy giữa ngã tư").
 

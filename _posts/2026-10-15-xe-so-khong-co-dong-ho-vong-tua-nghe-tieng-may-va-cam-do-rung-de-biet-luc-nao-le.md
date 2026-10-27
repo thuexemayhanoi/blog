@@ -19,7 +19,7 @@ Câu hỏi xe số khi nào lên số làm khó người mới thuê xe nhiều 
 
 ## Vì sao xe số phổ thông không cần đồng hồ vòng tua
 
-Xe số đi phố được làm để dễ dùng: máy nhỏ, côn tự động lo phần cắt và nối truyền động, người lái đổi số theo cảm giác là đủ. Cũng vì thế không có một điểm đổi số cố định. Cùng một chiếc xe, chở một hay hai người, đi đường bằng hay lên dốc cầu, thời điểm đổi số đều xê dịch. Thay vì ghi nhớ "tới mức này thì lên số", hãy học cách nhận biết máy đang làm việc thoải mái hay đang bị ép. Nếu bạn cần biết mình đang ở số mấy trên chiếc xe không có đèn báo, xem thêm bài [cách biết đang ở số mấy khi xe số không có đèn báo số](/xe-may/2026/10/11/xe-so-khong-co-en-bao-so-cach-biet-ban-ang-o-so-may/).
+Xe số đi phố được làm để dễ dùng: máy nhỏ, côn tự động lo phần cắt và nối truyền động, người lái đổi số theo cảm giác là đủ. Cũng vì thế không có một điểm đổi số cố định. Cùng một chiếc xe, chở một hay hai người, đi đường bằng hay lên dốc cầu, thời điểm đổi số đều xê dịch. Thay vì ghi nhớ "tới mức này thì lên số", hãy học cách nhận biết máy đang làm việc thoải mái hay đang bị ép. Nếu bạn cần biết mình đang ở số mấy trên chiếc xe không có đèn báo, xem thêm bài [cách biết đang ở số mấy khi xe số không có đèn báo số](/xe-may/2026/10/11/xe-so-khong-co-den-bao-so-cach-biet-ban-dang-o-so-may/).
 
 ## Xe số khi nào lên số: tiếng rú, rung tê và đà hụt
 
@@ -49,7 +49,7 @@ Người mới dễ nhầm, nhất là khi đi qua những đoạn mặt đườ
 2. **Thử nhả ga một nhịp.** Nếu rung giảm ngay, đó là rung máy. Nếu không đổi, đó là rung từ đường hoặc lốp.
 3. **Tiếng gió dễ át tiếng máy** khi đi đường thoáng. Mũ có kính che kín cả mặt làm tiếng máy nhỏ đi, nên lúc mới tập, hãy mở hé kính để nghe rõ hơn và tuyệt đối không đeo tai nghe khi lái.
 
-Nếu tiếng máy to và lạ ngay cả khi bạn đã ở đúng số, chuyện không còn nằm ở thời điểm đổi số. Đọc bài [tiếng máy xe số nổ to hơn bình thường](/xe-may/2026/10/03/tieng-may-xe-so-no-to-hon-binh-thuong-can-e-y-gi/) và báo cửa hàng trước khi đi tiếp.
+Nếu tiếng máy to và lạ ngay cả khi bạn đã ở đúng số, chuyện không còn nằm ở thời điểm đổi số. Đọc bài [tiếng máy xe số nổ to hơn bình thường](/xe-may/2026/10/03/tieng-may-xe-so-no-to-hon-binh-thuong-can-de-y-gi/) và báo cửa hàng trước khi đi tiếp.
 
 ## Đọc tín hiệu trong vài tình huống quen ở Hà Nội
 

@@ -29,7 +29,7 @@ Xe 50cc dùng động cơ xăng có dung tích xi lanh nhỏ, theo cách phân l
 
 Mức 40 km/h là trần, không phải tốc độ được phép chạy ở mọi lúc. Thông tư yêu cầu người lái chấp hành tốc độ theo quy định, và ở nơi có biển hạn chế tốc độ thấp hơn thì phải đi theo con số ghi trên biển. Trong khu đông dân cư, gần trường học, chợ, bệnh viện hay đoạn đường đang thi công, biển báo thấp hơn khá phổ biến. Ngoài ra, khi trời mưa, đường trơn, tầm nhìn kém, người lái vẫn phải giảm tốc cho phù hợp dù chưa tới mức tối đa.
 
-Bài [quy định tốc độ xe máy trong đô thị và ngoài đô thị](/an-toan-phap-ly/2026/09/30/quy-inh-toc-o-xe-may-trong-o-thi-va-ngoai-o-thi/) giải thích cách đọc biển báo và thứ tự ưu tiên khi biển khác quy định chung, còn bài này tập trung vào xe gắn máy.
+Bài [quy định tốc độ xe máy trong đô thị và ngoài đô thị](/an-toan-phap-ly/2026/09/30/quy-dinh-toc-do-xe-may-trong-do-thi-va-ngoai-do-thi/) giải thích cách đọc biển báo và thứ tự ưu tiên khi biển khác quy định chung, còn bài này tập trung vào xe gắn máy.
 
 *Lưu ý: thông tin trong bài chỉ mang tính tham khảo, quy định có thể thay đổi. Hãy đối chiếu văn bản gốc của Thông tư 38/2024/TT-BGTVT trên [Cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=211873&classid=1&typegroupid=6) trước khi dựa vào để quyết định việc gì quan trọng.*
 
@@ -41,7 +41,7 @@ Nhiều người thắc mắc tại sao xe tay ga cùng chạy trên một con �
 - **Phanh và lốp nhỏ.** Nhiều mẫu xe 50cc dùng phanh cơ ở cả hai bánh, lốp hẹp, quãng phanh dài hơn khi đi nhanh.
 - **Xe nhẹ.** Gió ngang trên cầu hay luồng gió từ xe tải chạy qua dễ làm xe chao hơn so với xe tay ga nặng.
 
-Vì vậy mức 40 km/h không chỉ là chuyện quy định. Đó cũng là khoảng tốc độ mà xe nhỏ còn phanh kịp, đánh lái kịp. Bài [độ an toàn của xe 50cc trong phố Hà Nội](/xe-may/2026/09/27/o-an-toan-cua-xe-50cc-trong-pho-ha-noi/) nói kỹ hơn về giới hạn của loại xe này.
+Vì vậy mức 40 km/h không chỉ là chuyện quy định. Đó cũng là khoảng tốc độ mà xe nhỏ còn phanh kịp, đánh lái kịp. Bài [độ an toàn của xe 50cc trong phố Hà Nội](/xe-may/2026/09/27/do-an-toan-cua-xe-50cc-trong-pho-ha-noi/) nói kỹ hơn về giới hạn của loại xe này.
 
 ## Cách giữ tốc độ khi đi xe 50cc trong phố
 
@@ -49,7 +49,7 @@ Biết con số rồi, việc khó hơn là giữ được nó khi dòng xe xung
 
 ### Trong phố cổ và khu dân cư
 
-Ở các phố như Hàng Bạc, Hàng Bồ hay ngõ nhỏ quanh chợ Đồng Xuân, tốc độ thực tế thường thấp hơn nhiều so với mức tối đa vì người đi bộ, xe đẩy hàng và xe đỗ hai bên. Ở đây, giữ ga nhẹ, tay phải luôn sẵn trên phanh, và coi mỗi đầu ngõ là chỗ có thể có xe lao ra. Đặc điểm giao thông riêng của khu này có trong bài [tốc độ tối đa cho xe máy trong phố cũ Hà Nội](/an-toan-phap-ly/2026/10/09/toc-o-toi-a-cho-xe-may-trong-pho-cu-ha-noi/).
+Ở các phố như Hàng Bạc, Hàng Bồ hay ngõ nhỏ quanh chợ Đồng Xuân, tốc độ thực tế thường thấp hơn nhiều so với mức tối đa vì người đi bộ, xe đẩy hàng và xe đỗ hai bên. Ở đây, giữ ga nhẹ, tay phải luôn sẵn trên phanh, và coi mỗi đầu ngõ là chỗ có thể có xe lao ra. Đặc điểm giao thông riêng của khu này có trong bài [tốc độ tối đa cho xe máy trong phố cũ Hà Nội](/an-toan-phap-ly/2026/10/09/toc-do-toi-da-cho-xe-may-trong-pho-cu-ha-noi/).
 
 ### Trên trục đường lớn
 

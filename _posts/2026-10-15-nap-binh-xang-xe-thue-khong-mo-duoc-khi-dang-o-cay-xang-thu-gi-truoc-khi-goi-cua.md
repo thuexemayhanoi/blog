@@ -29,7 +29,7 @@ Trên các xe máy phổ thông ở Hà Nội, nắp bình xăng thường nằm
 - **Phía trước, sau ốp chắn chân.** Nhiều xe ga có một nắp đậy nhỏ ở mặt trong phía trước, mở bằng cách xoay ổ khóa hay núm xoay sang vị trí mở nắp xăng, hoặc bấm một nút riêng.
 - **Nắp ngoài có khóa riêng.** Một số xe có nắp xăng lộ ra ngoài, phải cắm chìa vào chính nắp để mở.
 
-Sau khi mở được nắp đậy bên ngoài, phía trong thường còn một nắp bình vặn: xoay ngược chiều kim đồng hồ để mở, cùng chiều để đóng. Hướng dẫn cụ thể theo dòng xe có ở các bài [đổ xăng cho xe tay ga thuê: nắp xăng ở đâu và thao tác tại trạm](/xe-may/2026/10/11/o-xang-cho-xe-tay-ga-thue-nap-xang-o-au-va-thao-tac-tai-tram/ "Đổ xăng cho xe tay ga thuê"), [đổ xăng Honda Air Blade thuê ở cây xăng Hà Nội](/xe-may/2026/10/14/do-xang-honda-air-blade-thue-o-cay-xang-ha-noi-chon-loai-xang-mo-nap-binh-va-do/ "Đổ xăng Honda Air Blade thuê") và [mở yên xe số để đổ xăng: vị trí nắp bình, khóa yên bằng chìa](/xe-may/2026/10/14/mo-yen-xe-so-de-do-xang-vi-tri-nap-binh-khoa-yen-bang-chia-va-dong-lai-cho-chac/ "Mở yên xe số để đổ xăng").
+Sau khi mở được nắp đậy bên ngoài, phía trong thường còn một nắp bình vặn: xoay ngược chiều kim đồng hồ để mở, cùng chiều để đóng. Hướng dẫn cụ thể theo dòng xe có ở các bài [đổ xăng cho xe tay ga thuê: nắp xăng ở đâu và thao tác tại trạm](/xe-may/2026/10/11/do-xang-cho-xe-tay-ga-thue-nap-xang-o-dau-va-thao-tac-tai-tram/ "Đổ xăng cho xe tay ga thuê"), [đổ xăng Honda Air Blade thuê ở cây xăng Hà Nội](/xe-may/2026/10/14/do-xang-honda-air-blade-thue-o-cay-xang-ha-noi-chon-loai-xang-mo-nap-binh-va-do/ "Đổ xăng Honda Air Blade thuê") và [mở yên xe số để đổ xăng: vị trí nắp bình, khóa yên bằng chìa](/xe-may/2026/10/14/mo-yen-xe-so-de-do-xang-vi-tri-nap-binh-khoa-yen-bang-chia-va-dong-lai-cho-chac/ "Mở yên xe số để đổ xăng").
 
 ## Không mở được nắp xăng xe ga: những lỗi thao tác hay gặp
 
@@ -42,7 +42,7 @@ Phần lớn các lần "kẹt nắp" là do một trong những thao tác sau:
 - **Nắp trong vặn sai chiều.** Vặn cùng chiều kim đồng hồ là đang siết chặt thêm.
 - **Nắp trong bị chặt.** Sau những ngày nắng nóng, nắp có thể chặt hơn; ấn nhẹ nắp xuống một chút rồi mới xoay.
 
-Khi nhận xe, hỏi người giao xe chỉ cho bạn cách mở nắp xăng một lần, tự làm lại một lần trước mặt họ. Bài [nhận xe tay ga lần đầu: mở cốp, đổ xăng, chân chống nên nhờ chỉ những gì](/thue-xe/2026/10/11/nhan-xe-tay-ga-lan-au-mo-cop-o-xang-chan-chong-nen-nho-chi-nhung-gi/ "Nhận xe tay ga lần đầu") liệt kê những điều nên nhờ chỉ.
+Khi nhận xe, hỏi người giao xe chỉ cho bạn cách mở nắp xăng một lần, tự làm lại một lần trước mặt họ. Bài [nhận xe tay ga lần đầu: mở cốp, đổ xăng, chân chống nên nhờ chỉ những gì](/thue-xe/2026/10/11/nhan-xe-tay-ga-lan-dau-mo-cop-do-xang-chan-chong-nen-nho-chi-nhung-gi/ "Nhận xe tay ga lần đầu") liệt kê những điều nên nhờ chỉ.
 
 ## Kẹt nắp bình xăng xe máy: vì sao không dùng lực bẩy
 
@@ -63,7 +63,7 @@ Nếu xe sắp cạn xăng và chưa mở được nắp, hỏi cửa hàng nên
 
 ## Khách nước ngoài lần đầu đổ xăng
 
-Nếu bạn là khách nước ngoài, nhân viên cây xăng thường sẵn lòng giúp, nhưng họ không được tự ý thao tác với ổ khóa xe của bạn. Hãy chỉ vào vị trí bạn nghĩ là nắp xăng và nói "mở nắp xăng" hoặc chìa điện thoại có ảnh nắp xăng cửa hàng đã gửi. Chụp sẵn ảnh vị trí nắp xăng ngay lúc nhận xe là cách đơn giản nhất để khỏi lúng túng ở trụ bơm. Những điều khác khi đổ xăng lần đầu ở Việt Nam, từ chọn loại xăng tới cách trả tiền, có ở bài [khách quốc tế đổ xăng lần đầu ở Việt Nam](/thue-xe/2026/10/03/khach-quoc-te-o-xang-lan-au-o-viet-nam/ "Khách quốc tế đổ xăng lần đầu").
+Nếu bạn là khách nước ngoài, nhân viên cây xăng thường sẵn lòng giúp, nhưng họ không được tự ý thao tác với ổ khóa xe của bạn. Hãy chỉ vào vị trí bạn nghĩ là nắp xăng và nói "mở nắp xăng" hoặc chìa điện thoại có ảnh nắp xăng cửa hàng đã gửi. Chụp sẵn ảnh vị trí nắp xăng ngay lúc nhận xe là cách đơn giản nhất để khỏi lúng túng ở trụ bơm. Những điều khác khi đổ xăng lần đầu ở Việt Nam, từ chọn loại xăng tới cách trả tiền, có ở bài [khách quốc tế đổ xăng lần đầu ở Việt Nam](/thue-xe/2026/10/03/khach-quoc-te-do-xang-lan-dau-o-viet-nam/ "Khách quốc tế đổ xăng lần đầu").
 
 ## Sau khi đổ xong
 

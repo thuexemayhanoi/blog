@@ -35,7 +35,7 @@ Không cần mở yếm hay tháo gì, chỉ cần quan sát và hỏi. Có ba c
 
 ### Đèn FI trên đồng hồ
 
-Xe phun xăng thường có một đèn báo lỗi động cơ, hình động cơ hoặc chữ FI, trên mặt đồng hồ. Bật chìa khóa mà chưa đề, đèn này thường sáng lên một lúc rồi tắt, đó là bước tự kiểm tra. Đi kèm có thể là tiếng rè nhỏ từ bơm xăng, chuyện này được giải thích trong bài [tiếng rè khi bật chìa xe phun xăng](/xe-may/2026/10/11/tieng-re-khi-bat-chia-xe-phun-xang-bom-xang-chay-binh-thuong-hay-co-van-e/). Xe chế hòa khí không có đèn này, bật chìa khá im lặng.
+Xe phun xăng thường có một đèn báo lỗi động cơ, hình động cơ hoặc chữ FI, trên mặt đồng hồ. Bật chìa khóa mà chưa đề, đèn này thường sáng lên một lúc rồi tắt, đó là bước tự kiểm tra. Đi kèm có thể là tiếng rè nhỏ từ bơm xăng, chuyện này được giải thích trong bài [tiếng rè khi bật chìa xe phun xăng](/xe-may/2026/10/11/tieng-re-khi-bat-chia-xe-phun-xang-bom-xang-chay-binh-thuong-hay-co-van-de/). Xe chế hòa khí không có đèn này, bật chìa khá im lặng.
 
 ### Tem và chữ FI trên thân xe
 
@@ -58,7 +58,7 @@ Cách chắc nhất vẫn là hỏi thẳng nhân viên lúc giao xe: xe này ph
 - **Quên trả e gió:** máy ồn, vòng tua không tải cao, có mùi xăng, xe tốn xăng hơn.
 - **Vặn ga mạnh khi đề:** dễ làm máy bị sặc xăng, càng khó nổ.
 
-Nếu sáng nào xe cũng khó nổ, đó là việc của cửa hàng chứ không phải lỗi của bạn. Bài [đề xe số trời lạnh: mẹo đề máy lần đầu thành công](/xe-may/2026/10/11/e-xe-so-troi-lanh-meo-e-may-lan-au-thanh-cong/) có thêm các bước xử lý tại chỗ.
+Nếu sáng nào xe cũng khó nổ, đó là việc của cửa hàng chứ không phải lỗi của bạn. Bài [đề xe số trời lạnh: mẹo đề máy lần đầu thành công](/xe-may/2026/10/11/de-xe-so-troi-lanh-meo-de-may-lan-dau-thanh-cong/) có thêm các bước xử lý tại chỗ.
 
 ## Lên ga trong phố và lúc lên đèo
 

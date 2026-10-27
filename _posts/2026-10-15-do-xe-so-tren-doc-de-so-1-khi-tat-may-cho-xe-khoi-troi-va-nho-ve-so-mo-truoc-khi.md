@@ -70,7 +70,7 @@ Trình tự nổ máy lại trên dốc:
 4. **Lúc này mới bấm đề.** Máy nổ, xe đứng yên.
 5. **Gạt chân chống lên, vào số 1 và nhả phanh từ từ** theo cách khởi hành trên dốc.
 
-Kỹ thuật bắt đầu lăn bánh trên dốc mà không bị trôi lùi được hướng dẫn riêng trong bài [đề xe số trên dốc nghiêng: chống trôi và giữ thăng bằng](/ky-nang/2026/10/11/e-xe-so-tren-doc-nghieng-chong-troi-va-giu-thang-bang/).
+Kỹ thuật bắt đầu lăn bánh trên dốc mà không bị trôi lùi được hướng dẫn riêng trong bài [đề xe số trên dốc nghiêng: chống trôi và giữ thăng bằng](/ky-nang/2026/10/11/de-xe-so-tren-doc-nghieng-chong-troi-va-giu-thang-bang/).
 
 Một mẹo giúp không quên: tập thói quen **liếc đèn N trước mỗi lần bấm đề**, dù bạn nghĩ xe đang ở số mo.
 

@@ -55,7 +55,7 @@ Cách dùng các công tắc trên tay lái, vị trí nút còi, xi nhan và đ
 Rút giắc hay cắt dây còi cho im có vẻ nhanh, nhưng lại sinh thêm chuyện:
 
 - Đầu dây bị cắt có thể chạm vào khung xe, gây chập lớn hơn.
-- Xe mất còi; còi là thiết bị xe cần có khi tham gia giao thông, và trong phố đông Hà Nội bạn sẽ cần tới nó. Quy định về còi và đèn tín hiệu có trong bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/en-tin-hieu-va-coi-xe-may-theo-quy-inh/ "Đèn tín hiệu và còi xe máy theo quy định").
+- Xe mất còi; còi là thiết bị xe cần có khi tham gia giao thông, và trong phố đông Hà Nội bạn sẽ cần tới nó. Quy định về còi và đèn tín hiệu có trong bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/den-tin-hieu-va-coi-xe-may-theo-quy-dinh/ "Đèn tín hiệu và còi xe máy theo quy định").
 - Xe là của cửa hàng; sửa đúng chỗ hỏng mới là cách xử lý dứt điểm.
 
 ## Báo cửa hàng những gì
@@ -85,4 +85,4 @@ Một chiếc còi hoạt động đúng không chỉ để tránh phiền phứ
 
 Còi kêu lúc nửa đêm trong ngõ nhà trọ làm phiền cả xóm. Tắt khóa điện ngay; nếu còi vẫn kêu vì chập trực tiếp, đừng cố tháo gì trong bóng tối, gọi cửa hàng và báo chủ nhà biết chuyện. Một lời xin lỗi hàng xóm cũng giúp mọi chuyện nhẹ nhàng hơn.
 
-Trường hợp ngược lại, còi không kêu khi cần, có ở bài [còi xe máy thuê không hoạt động: có nên tiếp tục hành trình](/thue-xe/2026/10/11/coi-xe-may-thue-khong-hoat-ong-co-nen-tiep-tuc-hanh-trinh/ "Còi xe máy thuê không hoạt động"). Các tình huống khác khi đang thuê xe có ở chuyên mục [sự cố khi thuê xe](/thue-xe/su-co/ "Sự cố khi thuê xe máy"), còn toàn bộ hướng dẫn thuê xe có ở mục [thuê xe máy](/thue-xe/ "Thuê xe máy Hà Nội").
+Trường hợp ngược lại, còi không kêu khi cần, có ở bài [còi xe máy thuê không hoạt động: có nên tiếp tục hành trình](/thue-xe/2026/10/11/coi-xe-may-thue-khong-hoat-dong-co-nen-tiep-tuc-hanh-trinh/ "Còi xe máy thuê không hoạt động"). Các tình huống khác khi đang thuê xe có ở chuyên mục [sự cố khi thuê xe](/thue-xe/su-co/ "Sự cố khi thuê xe máy"), còn toàn bộ hướng dẫn thuê xe có ở mục [thuê xe máy](/thue-xe/ "Thuê xe máy Hà Nội").

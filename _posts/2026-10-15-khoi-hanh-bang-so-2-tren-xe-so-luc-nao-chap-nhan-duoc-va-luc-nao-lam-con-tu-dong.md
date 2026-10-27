@@ -60,7 +60,7 @@ Cách sửa đơn giản nhất là biến việc về số 1 thành một phầ
 3. **Khởi hành số 1, lên số 2 sớm.** Xe vừa lăn bánh, đi một đoạn ngắn rồi nhả ga, lên số 2. Bạn vẫn có được cảm giác êm mà không bắt côn trượt lâu.
 4. **Nếu lỡ dừng ở số 2, về số 1 trước khi đi.** Xe đứng yên vẫn về số được, chỉ cần ấn cần số về một nấc.
 
-Nếu bạn quen xe ga và đang tập các bước này, bài [đề xe và vào số 1](/ky-nang/2026/09/29/e-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi/) là chỗ bắt đầu tốt.
+Nếu bạn quen xe ga và đang tập các bước này, bài [đề xe và vào số 1](/ky-nang/2026/09/29/de-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi/) là chỗ bắt đầu tốt.
 
 ## Dấu hiệu côn đã bị làm việc quá sức
 

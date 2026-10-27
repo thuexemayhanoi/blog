@@ -47,7 +47,7 @@ Cách nổ máy an toàn với xe có đề:
 2. Bật khóa điện, chờ một chút cho các đèn trên đồng hồ hiện lên.
 3. Bấm đề dứt khoát vài giây rồi buông. Nếu chưa nổ, nghỉ một lát rồi bấm lại, không đè liên tục.
 
-Cần đạp trên nhiều xe mới vẫn còn, nằm bên phải phía sau, dùng khi bình yếu. Nếu một sáng trời lạnh xe đề không ăn, cách đạp cần khởi động đúng có trong bài [đề điện không ăn, cách đạp cần khởi động xe số thuê](/thue-xe/2026/10/13/e-ien-khong-an-cach-ap-can-khoi-ong-xe-so-thue-cho-nguoi-chua-quen/). Một lưu ý cho người quen xe cũ: đừng nổ máy khi xe còn vào số, vì xe có thể nhảy về phía trước.
+Cần đạp trên nhiều xe mới vẫn còn, nằm bên phải phía sau, dùng khi bình yếu. Nếu một sáng trời lạnh xe đề không ăn, cách đạp cần khởi động đúng có trong bài [đề điện không ăn, cách đạp cần khởi động xe số thuê](/thue-xe/2026/10/13/de-dien-khong-an-cach-dap-can-khoi-dong-xe-so-thue-cho-nguoi-chua-quen/). Một lưu ý cho người quen xe cũ: đừng nổ máy khi xe còn vào số, vì xe có thể nhảy về phía trước.
 
 ## Phanh đĩa trước: nhạy hơn tang trống của Dream
 
@@ -59,7 +59,7 @@ Cách làm quen trong vài phút:
 - **Phối hợp với phanh chân.** Chân phải đạp phanh sau trước một nhịp, tay phải bóp phanh trước sau. Thói quen này giữ xe thẳng, nhất là trên mặt đường ẩm ở các phố nhỏ quanh chợ.
 - **Thử ở tốc độ thấp.** Chạy chậm trong ngõ vắng, bóp thử vài lần.
 
-Cũng có xe đời mới vẫn dùng tang trống phía trước, cảm giác gần với Dream hơn. Hỏi tiệm xem chiếc mình nhận dùng loại nào. Muốn hiểu thêm phanh đĩa cần kiểm tra gì khi nhận xe, xem bài [phanh xe máy đĩa và bố kiểm tra thế nào](/xe-may/2026/09/27/phanh-xe-may-ia-va-bo-kiem-tra-the-nao/).
+Cũng có xe đời mới vẫn dùng tang trống phía trước, cảm giác gần với Dream hơn. Hỏi tiệm xem chiếc mình nhận dùng loại nào. Muốn hiểu thêm phanh đĩa cần kiểm tra gì khi nhận xe, xem bài [phanh xe máy đĩa và bố kiểm tra thế nào](/xe-may/2026/09/27/phanh-xe-may-dia-va-bo-kiem-tra-the-nao/).
 
 ## Cần số hai đầu hay một đầu: đổi thói quen gót chân
 
@@ -80,7 +80,7 @@ Khi nhận xe, hãy để người giao xe chỉ lần lượt: đâu là đèn 
 
 ## Chọn xe và tập làm quen ở Hà Nội
 
-Với người quen Dream, Honda Wave thường là chiếc dễ chuyển nhất vì dáng xe và tư thế ngồi gần giống. Wave thuê theo ngày là 150.000 đồng; các mẫu xe số khác xin liên hệ cửa hàng để biết xe nào đang sẵn. Nếu phân vân giữa xe đời cũ và đời mới, bài [thuê xe đời cũ hay đời mới, chọn theo gì](/xe-may/2026/10/01/thue-xe-oi-cu-hay-oi-moi-chon-theo-gi-cho-ang/) giúp bạn cân nhắc.
+Với người quen Dream, Honda Wave thường là chiếc dễ chuyển nhất vì dáng xe và tư thế ngồi gần giống. Wave thuê theo ngày là 150.000 đồng; các mẫu xe số khác xin liên hệ cửa hàng để biết xe nào đang sẵn. Nếu phân vân giữa xe đời cũ và đời mới, bài [thuê xe đời cũ hay đời mới, chọn theo gì](/xe-may/2026/10/01/thue-xe-doi-cu-hay-doi-moi-chon-theo-gi-cho-dang/) giúp bạn cân nhắc.
 
 Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở từ 09:00 đến 21:00. Nhận xe tại tiệm có lợi là bạn được thử ngay trong các ngõ khu dân cư Bồ Đề, Ngọc Lâm vào giờ thưa người, trước khi qua cầu Chương Dương sang Hoàn Kiếm.
 

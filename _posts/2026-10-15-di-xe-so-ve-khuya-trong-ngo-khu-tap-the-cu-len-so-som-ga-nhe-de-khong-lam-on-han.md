@@ -55,7 +55,7 @@ Khi rẽ vào ngõ, giảm đà từ sớm bằng cách nhả ga và phanh nhẹ
 
 **Bật đèn cốt, không bật đèn pha.** Trong ngõ, đèn pha chiếu thẳng vào cửa sổ và mắt người đi ngược chiều. Đèn cốt đủ sáng để thấy ổ gà, bậc cửa, mèo chó chạy ngang. Đừng tắt hẳn đèn để "đi nhẹ", vì người khác cần thấy bạn.
 
-**Không bấm còi đêm trừ khi cần an toàn.** Ở khúc ngoặt khuất, thay vì còi, hãy giảm đà hẳn và để ánh đèn báo hiệu trước. Còi chỉ dùng khi có nguy cơ va chạm thật sự, ví dụ người bất ngờ bước ra từ cửa nhà. Quy định về còi và đèn tín hiệu được tóm lại trong bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/en-tin-hieu-va-coi-xe-may-theo-quy-inh/).
+**Không bấm còi đêm trừ khi cần an toàn.** Ở khúc ngoặt khuất, thay vì còi, hãy giảm đà hẳn và để ánh đèn báo hiệu trước. Còi chỉ dùng khi có nguy cơ va chạm thật sự, ví dụ người bất ngờ bước ra từ cửa nhà. Quy định về còi và đèn tín hiệu được tóm lại trong bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/den-tin-hieu-va-coi-xe-may-theo-quy-dinh/).
 
 **Xi nhan sớm.** Ngõ nhỏ ban đêm vẫn có người đi bộ, xe đạp, xe giao hàng. Bật xi nhan trước khúc rẽ để người khác biết bạn định làm gì.
 

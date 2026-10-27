@@ -26,7 +26,7 @@ Xe ga không có cần sang số. Thay vào đó là bộ truyền động tự 
 - **Bi nồi.** Mấy viên bi trong puly trước, văng ra khi máy quay nhanh để đẩy má puly khép lại. Bi mòn méo thường làm xe giật ở tốc độ thấp.
 - **Ly hợp ly tâm, hay "nồi sau".** Chỉ ăn khớp khi máy đủ vòng tua, vì vậy xe đứng yên khi nổ máy và chạy khi bạn vặn ga. Ly hợp mòn thì lúc khởi hành xe rung, giật cục.
 
-Dấu hiệu mòn của từng chi tiết có trong bài [dây curoa và bi nồi xe ga: dấu hiệu mòn qua cảm giác lái](/xe-may/2026/10/11/day-curoa-va-bi-noi-xe-ga-dau-hieu-mon-qua-cam-giac-lay-a-va-tieng-keu/).
+Dấu hiệu mòn của từng chi tiết có trong bài [dây curoa và bi nồi xe ga: dấu hiệu mòn qua cảm giác lái](/xe-may/2026/10/11/day-curoa-va-bi-noi-xe-ga-dau-hieu-mon-qua-cam-giac-lay-da-va-tieng-keu/).
 
 ## Nhớt láp là gì và khác nhớt máy ở chỗ nào
 

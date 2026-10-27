@@ -90,4 +90,4 @@ Trước khi xuất phát, kiểm tra nhanh:
 - Đèn pha, đèn xi nhan hoạt động, vì chiều về có thể trời tối.
 - Trong cốp có áo mưa, nước uống, găng tay mỏng.
 
-Nếu đi chơi cuối tuần chứ không đi việc, bài [Đại lộ Thăng Long chạy xe cuối tuần](/du-lich/2026/10/04/ai-lo-thang-long-chay-xe-cuoi-tuan-iem-dung-va-luu-y/) có gợi ý điểm dừng chân. Tóm lại: chỉ đi đường gom theo biển báo, giữ ga đều, hạ người khi gió ngang và đổ đầy xăng trước khi rời nội thành. Các bài khác về dòng xe này ở mục [xe tay ga](/xe-may/xe-ga/), còn kiến thức chung nằm ở trang [xe máy](/xe-may/).
+Nếu đi chơi cuối tuần chứ không đi việc, bài [Đại lộ Thăng Long chạy xe cuối tuần](/du-lich/2026/10/04/dai-lo-thang-long-chay-xe-cuoi-tuan-diem-dung-va-luu-y/) có gợi ý điểm dừng chân. Tóm lại: chỉ đi đường gom theo biển báo, giữ ga đều, hạ người khi gió ngang và đổ đầy xăng trước khi rời nội thành. Các bài khác về dòng xe này ở mục [xe tay ga](/xe-may/xe-ga/), còn kiến thức chung nằm ở trang [xe máy](/xe-may/).

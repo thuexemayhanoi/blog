@@ -57,7 +57,7 @@ Phản ánh không chỉ để làm rõ trách nhiệm cho vụ của bạn mà 
 - **Kênh phản ánh trực tuyến của thành phố.** Hà Nội có các kênh tiếp nhận phản ánh hiện trường qua ứng dụng và cổng thông tin chính thức. Tìm trên trang chính thức của thành phố để dùng đúng kênh, tránh các trang giả mạo.
 - **Đơn vị thi công,** nếu biển công trình có ghi số liên hệ.
 
-Khi phản ánh, gửi kèm ảnh toàn cảnh, ảnh cận, mốc vị trí, thời gian và mô tả ngắn: hố hay ổ gà, có rào hay không, bạn đã ngã thế nào. Nếu có người bị thương hoặc va chạm với xe khác, gọi 113 để công an tới ghi nhận hiện trường. Không chắc nên gọi số nào thì xem bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/).
+Khi phản ánh, gửi kèm ảnh toàn cảnh, ảnh cận, mốc vị trí, thời gian và mô tả ngắn: hố hay ổ gà, có rào hay không, bạn đã ngã thế nào. Nếu có người bị thương hoặc va chạm với xe khác, gọi 113 để công an tới ghi nhận hiện trường. Không chắc nên gọi số nào thì xem bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/).
 
 Việc ai phải chịu trách nhiệm về thiệt hại do hố đào hay mặt đường hư hỏng sẽ do cơ quan có thẩm quyền xem xét theo từng vụ việc. Thông tin trong bài là thông tin tham khảo, có thể thay đổi theo quy định mới. Hãy đối chiếu văn bản trên [Cổng văn bản Chính phủ](https://vanban.chinhphu.vn/) và thông tin từ [Bộ Công an](https://bocongan.gov.vn/).
 

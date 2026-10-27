@@ -21,7 +21,7 @@ writer_session: s-claude-w3
 
 **Vành nan** là kiểu vành truyền thống: một vòng vành kim loại nối với trục bánh bằng nhiều nan hoa căng đều. Bạn gặp kiểu này trên nhiều bản Wave Alpha và các xe số đời phổ thông.
 
-**Vành đúc** là bánh đúc liền một khối, thường có năm hoặc sáu chấu. Nhiều bản Wave RSX, Sirius hay Future có tùy chọn vành đúc. Nếu bạn muốn nhận biết bản xe qua vành và phanh, bài [phân biệt Wave Alpha và Wave RSX khi thuê](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-ang-thue-qua-phanh-va-vanh/) mô tả chi tiết hơn.
+**Vành đúc** là bánh đúc liền một khối, thường có năm hoặc sáu chấu. Nhiều bản Wave RSX, Sirius hay Future có tùy chọn vành đúc. Nếu bạn muốn nhận biết bản xe qua vành và phanh, bài [phân biệt Wave Alpha và Wave RSX khi thuê](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-dang-thue-qua-phanh-va-vanh/) mô tả chi tiết hơn.
 
 So sánh nhanh khi đi thực tế:
 

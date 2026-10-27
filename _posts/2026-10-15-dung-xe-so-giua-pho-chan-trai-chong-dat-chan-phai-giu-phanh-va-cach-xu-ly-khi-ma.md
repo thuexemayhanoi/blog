@@ -31,7 +31,7 @@ Làm như vậy, xe luôn có một điểm chống chắc chắn bên trái và
 
 Thói quen thả cả hai chân xuống đất mang từ xe ga sang có hai rủi ro. Thứ nhất, khi chân phải rời bàn đạp, xe chỉ còn phanh trước giữ, mà tay phải lại cũng là tay ga; đang giữ số 1, chỉ cần lỡ vặn nhẹ là xe chồm lên. Thứ hai, lúc xuất phát bạn phải đưa chân phải về đúng chỗ, dễ đạp hụt hoặc đạp trúng phanh khi xe đã chạy.
 
-Dừng lâu ở ngã tư lớn, nhiều người thấy mỏi chân trái vì phải đỡ cả xe. Cách xử lý là ngồi thẳng, để trọng lượng dồn xuống yên thay vì đè lên chân, và hơi nghiêng xe về bên trái một chút cho chân đỡ nhẹ hơn. Nếu cổ chân trái hay mỏi khi đi phố, bài [mỏi cổ chân trái khi đi xe số trong phố đông](/xe-may/2026/10/11/moi-co-chan-trai-khi-i-xe-so-trong-pho-ong-nguyen-nhan-va-cach-giam/) có thêm cách giảm.
+Dừng lâu ở ngã tư lớn, nhiều người thấy mỏi chân trái vì phải đỡ cả xe. Cách xử lý là ngồi thẳng, để trọng lượng dồn xuống yên thay vì đè lên chân, và hơi nghiêng xe về bên trái một chút cho chân đỡ nhẹ hơn. Nếu cổ chân trái hay mỏi khi đi phố, bài [mỏi cổ chân trái khi đi xe số trong phố đông](/xe-may/2026/10/11/moi-co-chan-trai-khi-di-xe-so-trong-pho-dong-nguyen-nhan-va-cach-giam/) có thêm cách giảm.
 
 ## Chống chân khi dừng xe số: trình tự từ lúc giảm tốc tới khi đứng yên
 
@@ -39,7 +39,7 @@ Việc chống chân đúng bắt đầu từ trước khi xe dừng hẳn. Mộ
 
 1. **Nhả ga sớm, phanh nhẹ cả hai phanh.** Chân phải đặt sẵn trên bàn đạp, tay phải bóp phanh trước nhẹ nhàng.
 2. **Giảm số dần khi xe chậm lại.** Về số thấp khi tốc độ giảm để lúc dừng không bị giật máy.
-3. **Chọn số khi gần dừng hẳn.** Về số mo hoặc giữ số 1, tùy độ dài đèn và thói quen của bạn. Hai cách này có ưu nhược riêng, đã phân tích kỹ trong bài [dừng đèn đỏ bằng xe số: về số mo hay giữ số 1](/xe-may/2026/10/11/dung-en-o-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-en-xanh/).
+3. **Chọn số khi gần dừng hẳn.** Về số mo hoặc giữ số 1, tùy độ dài đèn và thói quen của bạn. Hai cách này có ưu nhược riêng, đã phân tích kỹ trong bài [dừng đèn đỏ bằng xe số: về số mo hay giữ số 1](/xe-may/2026/10/11/dung-den-do-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-den-xanh/).
 4. **Hạ chân trái xuống đúng lúc xe đứng yên.** Đừng thả chân quá sớm khi xe còn trôi, giày sẽ quệt đất và kéo người lệch.
 5. **Giữ chân phải trên phanh suốt thời gian chờ.** Kể cả đang ở số mo, phanh sau giúp xe không lăn khi xe phía sau chạm nhẹ.
 
@@ -62,7 +62,7 @@ Khi dừng ở làn trong cạnh dải phân cách, hay ở đoạn đường m�
 3. Hạ chân phải xuống phía cao, chân trái đặt hờ trên gác chân.
 4. Khi sắp đi, đưa chân phải về bàn đạp phanh trước, rồi mới gạt số bằng chân trái.
 
-Nếu là dốc đứng thay vì nghiêng ngang, cách giữ xe khác hơn, xem bài [đề xe số trên dốc nghiêng](/ky-nang/2026/10/11/e-xe-so-tren-doc-nghieng-chong-troi-va-giu-thang-bang/).
+Nếu là dốc đứng thay vì nghiêng ngang, cách giữ xe khác hơn, xem bài [đề xe số trên dốc nghiêng](/ky-nang/2026/10/11/de-xe-so-tren-doc-nghieng-chong-troi-va-giu-thang-bang/).
 
 ## Chọn chỗ đặt chân: tránh rãnh, nắp cống và vạch sơn
 

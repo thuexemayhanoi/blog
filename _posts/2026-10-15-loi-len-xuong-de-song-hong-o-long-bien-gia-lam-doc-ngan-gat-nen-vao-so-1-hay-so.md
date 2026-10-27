@@ -65,7 +65,7 @@ Chiều ngược lại, từ mặt đê rẽ xuống ngõ, nhiều người ch�
 1. **Bật xi nhan sớm, giảm tốc trên mặt đê** trước khi tới đầu dốc. Liếc gương xem xe phía sau có bám sát không.
 2. **Về số 2 hoặc số 1 trước khi bánh trước qua mép dốc.** Số thấp tạo lực hãm của động cơ, xe không trôi nhanh dần.
 3. **Rà phanh đều cả hai phanh**, nhấn nhẹ rồi nhả, không bóp chết một phanh. Phanh trước bóp gấp trên mặt có cát là cách nhanh nhất để trượt bánh.
-4. **Không về số mo để thả trôi.** Mất lực hãm động cơ, bạn sẽ phải phanh nhiều hơn. Lý do được giải thích kỹ ở bài [vì sao không nên về số mo khi xuống dốc](/xe-may/2026/10/11/ve-so-mo-xuong-doc-cho-o-hao-xang-vi-sao-nen-bo-thoi-quen-nay/).
+4. **Không về số mo để thả trôi.** Mất lực hãm động cơ, bạn sẽ phải phanh nhiều hơn. Lý do được giải thích kỹ ở bài [vì sao không nên về số mo khi xuống dốc](/xe-may/2026/10/11/ve-so-mo-xuong-doc-cho-do-hao-xang-vi-sao-nen-bo-thoi-quen-nay/).
 5. **Nhường xe đang lên.** Dốc hẹp mà có xe đang leo, bạn dừng lại ở mặt đê chờ họ lên hết. Người đang leo dốc khó dừng hơn người sắp xuống.
 
 Chân dốc thường là ngõ có cổng nhà, trẻ con chơi hoặc hàng quán. Hãy coi chân dốc như một ngã ba nhỏ, đi chậm, sẵn sàng dừng.
