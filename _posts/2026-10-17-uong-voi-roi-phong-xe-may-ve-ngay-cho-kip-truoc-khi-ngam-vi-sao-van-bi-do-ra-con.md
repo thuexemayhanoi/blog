@@ -47,7 +47,7 @@ Gộp lại, có hai cái bẫy. Lên xe ngay khi cồn đang tăng nghĩa là m
 
 ## Luật không có khoảng "chưa ngấm"
 
-Luật Trật tự, an toàn giao thông đường bộ 2024, Điều 9 khoản 2, cấm điều khiển phương tiện khi trong máu hoặc hơi thở có nồng độ cồn, không có ngưỡng tối thiểu. Với xe máy, Nghị định 168/2024/NĐ-CP, Điều 7, chia ba mức: tới 0,25 mg/lít khí thở bị trừ 4 điểm giấy phép lái xe; trên 0,25 tới 0,4 mg/lít trừ 10 điểm; trên 0,4 mg/lít bị tước giấy phép 22 tới 24 tháng. Xe có thể bị tạm giữ trước khi ra quyết định xử phạt (Điều 48). Mức phạt tiền ở bài [mức phạt nồng độ cồn xe máy mới nhất](/an-toan-phap-ly/2026/09/28/muc-phat-nong-o-con-xe-may-moi-nhat/ "Mức phạt nồng độ cồn xe máy mới nhất").
+Luật Trật tự, an toàn giao thông đường bộ 2024, Điều 9 khoản 2, cấm điều khiển phương tiện khi trong máu hoặc hơi thở có nồng độ cồn, không có ngưỡng tối thiểu. Với xe máy, Nghị định 168/2024/NĐ-CP, Điều 7, chia ba mức: tới 0,25 mg/lít khí thở bị trừ 4 điểm giấy phép lái xe; trên 0,25 tới 0,4 mg/lít trừ 10 điểm; trên 0,4 mg/lít bị tước giấy phép 22 tới 24 tháng. Xe có thể bị tạm giữ trước khi ra quyết định xử phạt (Điều 48). Mức phạt tiền ở bài [mức phạt nồng độ cồn xe máy mới nhất](/an-toan-phap-ly/2026/09/28/muc-phat-nong-do-con-xe-may-moi-nhat/ "Mức phạt nồng độ cồn xe máy mới nhất").
 
 Từ chối hay cố tình thổi hời hợt để kéo dài thời gian cũng không giúp gì: hành vi không chấp hành yêu cầu kiểm tra nằm cùng khoản với mức ba và cũng bị tước giấy phép 22 tới 24 tháng. Chi tiết ở bài [thổi hời hợt, nín thở hay từ chối thổi máy đo](/an-toan-phap-ly/2026/10/15/thoi-hoi-hot-nin-tho-hay-tu-choi-thoi-may-do-vi-sao-bi-coi-la-khong-chap-hanh-ki/ "Thổi hời hợt hay từ chối thổi máy đo").
 
@@ -55,7 +55,7 @@ Từ chối hay cố tình thổi hời hợt để kéo dài thời gian cũng 
 
 - **Quyết định trước khi ngồi vào bàn.** Còn phải đi xe máy về thì không uống.
 - **Đã uống thì để xe lại.** Gửi xe ở bãi có người trông, gọi taxi, xe ôm công nghệ, hoặc dùng dịch vụ lái xe hộ đưa cả người và xe về.
-- **Không tự đặt mốc giờ.** Thời gian cồn hết hẳn tùy cơ thể và lượng uống, như bài [uống bia xong bao lâu mới được chạy xe máy](/an-toan-phap-ly/2026/10/07/uong-bia-xong-bao-lau-moi-uoc-chay-xe-may/ "Uống bia xong bao lâu mới được chạy xe máy") đã phân tích.
+- **Không tự đặt mốc giờ.** Thời gian cồn hết hẳn tùy cơ thể và lượng uống, như bài [uống bia xong bao lâu mới được chạy xe máy](/an-toan-phap-ly/2026/10/07/uong-bia-xong-bao-lau-moi-duoc-chay-xe-may/ "Uống bia xong bao lâu mới được chạy xe máy") đã phân tích.
 
 ## Ghi chú về nguồn
 

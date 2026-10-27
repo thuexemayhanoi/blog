@@ -77,9 +77,9 @@ Khi ra đường, hãy bắt đầu ở đoạn ít xe và chỉ chuyển một 
 
 - Tránh chuyển làn sát hông xe buýt, xe tải: xe lớn che điểm mù của bạn và cả tầm nhìn của người lái nó.
 
-- Người khác cũng đọc cái liếc của bạn: người ngoái đầu thường đang tìm khe, như bài [đọc ý định người đi xe xung quanh](/ky-nang/2026/10/11/oc-y-inh-nguoi-i-xe-xung-quanh-dau-hieu-sap-re-sap-tat-au-hay-sap-phanh/) mô tả.
+- Người khác cũng đọc cái liếc của bạn: người ngoái đầu thường đang tìm khe, như bài [đọc ý định người đi xe xung quanh](/ky-nang/2026/10/11/doc-y-dinh-nguoi-di-xe-xung-quanh-dau-hieu-sap-re-sap-tat-dau-hay-sap-phanh/) mô tả.
 
-Thứ tự gương, tín hiệu, ngoái còn nằm trong bài [chuyển làn an toàn: gương, xi nhan, vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-i-xe-may-guong-xi-nhan-vai/); tình huống khác xem ở nhóm [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
+Thứ tự gương, tín hiệu, ngoái còn nằm trong bài [chuyển làn an toàn: gương, xi nhan, vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-di-xe-may-guong-xi-nhan-vai/); tình huống khác xem ở nhóm [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 ## Xe thuê: khi nào nên dừng và hỏi tiệm
 

@@ -48,7 +48,7 @@ Về chọn mũ:
 - Mũ đạt chuẩn có dấu hợp quy CR. Mũ nửa đầu hoặc ba phần tư đầu ở ba cỡ nhỏ nhất không nặng quá 0,8 kg.
 - Mũ người lớn đội cho bé sẽ lỏng, xoay lệch khi xe phanh. Hỏi tiệm trước xem có mũ cỡ nhỏ không, hoặc mang theo mũ của bé.
 
-Cách cài quai: kéo quai sang hai bên, đội mũ rồi đóng khóa, quai phải khít cằm. Thử bằng cách kéo mũ từ sau ra trước và nâng phần trước trán kéo ra sau; mũ không được bật khỏi đầu. Thêm về mũ cho bé nhỏ có ở bài [đội mũ bảo hiểm cho trẻ em dưới sáu tuổi](/an-toan-phap-ly/2026/10/07/oi-mu-bao-hiem-cho-tre-em-duoi-sau-tuoi-khi-i-xe-may/ "Đội mũ bảo hiểm cho trẻ em dưới sáu tuổi").
+Cách cài quai: kéo quai sang hai bên, đội mũ rồi đóng khóa, quai phải khít cằm. Thử bằng cách kéo mũ từ sau ra trước và nâng phần trước trán kéo ra sau; mũ không được bật khỏi đầu. Thêm về mũ cho bé nhỏ có ở bài [đội mũ bảo hiểm cho trẻ em dưới sáu tuổi](/an-toan-phap-ly/2026/10/07/doi-mu-bao-hiem-cho-tre-em-duoi-sau-tuoi-khi-di-xe-may/ "Đội mũ bảo hiểm cho trẻ em dưới sáu tuổi").
 
 ## Nhả ga thật nhẹ khi xuất phát
 

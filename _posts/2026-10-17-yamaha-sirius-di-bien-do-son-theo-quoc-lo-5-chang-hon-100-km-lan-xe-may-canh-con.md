@@ -54,11 +54,11 @@ Mức tiêu hao xăng Yamaha công bố là số đo trong điều kiện thử 
 
 Theo VnExpress, tháng 5 tới tháng 8 là mùa tắm biển đẹp nhất ở Đồ Sơn; từ tháng 10 tới tháng 4 nước lạnh, không hợp để tắm. Bãi Khu 2 thường gió mạnh, sóng to. Khi có bão, chính quyền cấm tắm biển: ngày 4/7/2026, lúc bão Maysak đi qua, vùng ven biển Đồ Sơn có gió cấp 6, giật cấp 8.
 
-Trên đường ven biển, gió ngang có thể đẩy chiếc xe số nhẹ lệch hướng, nhất là lúc vừa ra khỏi chỗ khuất sau nhà hay xe tải. Giảm tốc, giữ tay lái chắc nhưng không gồng cứng, và lường trước luồng gió ở đầu cầu hay khoảng trống. Kinh nghiệm chạy ngược gió có ở bài [chạy xe máy gió ngược lớn](/ky-nang/2026/10/07/chay-xe-may-gio-nguoc-lon-can-giu-toc-o-the-nao/ "Chạy xe máy gió ngược lớn").
+Trên đường ven biển, gió ngang có thể đẩy chiếc xe số nhẹ lệch hướng, nhất là lúc vừa ra khỏi chỗ khuất sau nhà hay xe tải. Giảm tốc, giữ tay lái chắc nhưng không gồng cứng, và lường trước luồng gió ở đầu cầu hay khoảng trống. Kinh nghiệm chạy ngược gió có ở bài [chạy xe máy gió ngược lớn](/ky-nang/2026/10/07/chay-xe-may-gio-nguoc-lon-can-giu-toc-do-the-nao/ "Chạy xe máy gió ngược lớn").
 
 ## Tới Đồ Sơn: gửi xe và giờ về
 
-VnExpress lưu ý cuối tuần Đồ Sơn đông, đường vào Khu 2 và Khu 3 hay tắc; nên gửi xe ở bãi có quản lý, không đỗ tự phát. Lễ hội chọi trâu tổ chức ngày 9 tháng 8 âm lịch hằng năm. Nếu đi về trong ngày, tính giờ quay lại để không phải chạy quốc lộ 5 lúc trời tối cùng dòng container. Cung đường ven biển và điểm nghỉ có ở bài [đi biển Đồ Sơn bằng xe máy từ Hà Nội](/cung-duong/2026/10/04/i-bien-o-son-bang-xe-may-tu-ha-noi-cung-uong-va-iem-nghi/ "Đi biển Đồ Sơn bằng xe máy từ Hà Nội").
+VnExpress lưu ý cuối tuần Đồ Sơn đông, đường vào Khu 2 và Khu 3 hay tắc; nên gửi xe ở bãi có quản lý, không đỗ tự phát. Lễ hội chọi trâu tổ chức ngày 9 tháng 8 âm lịch hằng năm. Nếu đi về trong ngày, tính giờ quay lại để không phải chạy quốc lộ 5 lúc trời tối cùng dòng container. Cung đường ven biển và điểm nghỉ có ở bài [đi biển Đồ Sơn bằng xe máy từ Hà Nội](/cung-duong/2026/10/04/di-bien-do-son-bang-xe-may-tu-ha-noi-cung-duong-va-diem-nghi/ "Đi biển Đồ Sơn bằng xe máy từ Hà Nội").
 
 Yamaha Sirius không có trên bảng giá công bố của Cho Thuê Xe Máy Nguyễn Tú; hãy gọi hoặc nhắn Zalo 0942 467 674 để hỏi cửa hàng có xe, giá và tiền cọc. Trên bảng giá hiện có, Honda Wave và Honda Click có giá ngày 150.000 đồng, Honda Vision và Honda Air Blade có giá ngày 200.000 đồng; tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần.
 

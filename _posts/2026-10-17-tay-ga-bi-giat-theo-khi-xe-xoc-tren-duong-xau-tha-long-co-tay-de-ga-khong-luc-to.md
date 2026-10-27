@@ -43,7 +43,7 @@ Các tài liệu huấn luyện lái mô tô, như của tổ chức an toàn m�
 
 Tùy loại xe, có thêm vài điểm riêng:
 
-- **Với xe số, chọn số phù hợp**, thường là số 2 trên đường làng xóc, để không phải lên xuống số liên tục. Cách đi xe số trên đá dăm có ở bài [xe số đi đường đá dăm ở ngoại ô](/xe-may/2026/10/10/xe-so-i-uong-a-dam-o-ngoai-o/ "Xe số đi đường đá dăm ở ngoại ô").
+- **Với xe số, chọn số phù hợp**, thường là số 2 trên đường làng xóc, để không phải lên xuống số liên tục. Cách đi xe số trên đá dăm có ở bài [xe số đi đường đá dăm ở ngoại ô](/xe-may/2026/10/10/xe-so-di-duong-da-dam-o-ngoai-o/ "Xe số đi đường đá dăm ở ngoại ô").
 - **Với xe ga bánh nhỏ**, đi chậm hơn qua ổ gà, như bài [xe ga bánh nhỏ qua ổ gà, gờ giảm tốc và đường ray](/xe-may/2026/10/13/xe-ga-banh-nho-qua-o-ga-go-giam-toc-va-duong-ray-cach-di-cho-vung/ "Xe ga bánh nhỏ qua ổ gà, gờ giảm tốc") hướng dẫn.
 
 ## Qua một ổ gà hay gờ lớn

@@ -47,7 +47,7 @@ Một thí nghiệm năm 2006 trên 12 người cho thấy caffeine bù lại m�
 
 Luật Trật tự, an toàn giao thông đường bộ 2024, Điều 9 khoản 2, cấm điều khiển phương tiện khi trong máu hoặc hơi thở có nồng độ cồn, không có ngưỡng tối thiểu. Soju, cocktail, rượu pha nước tăng lực hay bia đều như nhau trước điều cấm này.
 
-Với xe máy, Nghị định 168/2024/NĐ-CP, Điều 7, chia vi phạm thành ba mức theo nồng độ: tới 0,25 mg/lít khí thở; trên 0,25 tới 0,4 mg/lít; và trên 0,4 mg/lít. Mức một bị trừ 4 điểm giấy phép lái xe, mức hai trừ 10 điểm; mức ba và hành vi không chấp hành kiểm tra bị tước giấy phép 22 tới 24 tháng. Xe có thể bị tạm giữ trước khi ra quyết định xử phạt (Điều 48). Mức phạt tiền ở bài [mức phạt nồng độ cồn xe máy mới nhất](/an-toan-phap-ly/2026/09/28/muc-phat-nong-o-con-xe-may-moi-nhat/ "Mức phạt nồng độ cồn xe máy mới nhất").
+Với xe máy, Nghị định 168/2024/NĐ-CP, Điều 7, chia vi phạm thành ba mức theo nồng độ: tới 0,25 mg/lít khí thở; trên 0,25 tới 0,4 mg/lít; và trên 0,4 mg/lít. Mức một bị trừ 4 điểm giấy phép lái xe, mức hai trừ 10 điểm; mức ba và hành vi không chấp hành kiểm tra bị tước giấy phép 22 tới 24 tháng. Xe có thể bị tạm giữ trước khi ra quyết định xử phạt (Điều 48). Mức phạt tiền ở bài [mức phạt nồng độ cồn xe máy mới nhất](/an-toan-phap-ly/2026/09/28/muc-phat-nong-do-con-xe-may-moi-nhat/ "Mức phạt nồng độ cồn xe máy mới nhất").
 
 ## Đi quán bar mà vẫn phải về bằng xe máy
 

@@ -36,13 +36,13 @@ Sách hướng dẫn sử dụng Air Blade không có mục chỉnh gương, nh�
 3. **Chiều dọc:** Honda Việt Nam không nêu quy tắc riêng. Một mẹo được VinFast và nhiều cửa hàng phụ tùng hướng dẫn là để khoảng hai phần ba phía dưới gương thấy mặt đường, một phần ba phía trên thấy đường chân trời.
 4. Nhờ người đi cùng đứng ở phía sau xe vài mét, xem bạn có thấy họ trong gương mà không phải nghiêng đầu không.
 
-Chỉnh bằng tay trên mặt gương, nhẹ nhàng, không bẻ cần gương. Đừng chỉnh khi xe đang chạy; nếu cần chỉnh lại giữa đường, làm khi đã dừng hẳn, như bài [chỉnh gương xe máy đúng cách khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-ung-cach-khi-dung-en-o/ "Chỉnh gương xe máy đúng cách khi dừng đèn đỏ") hướng dẫn.
+Chỉnh bằng tay trên mặt gương, nhẹ nhàng, không bẻ cần gương. Đừng chỉnh khi xe đang chạy; nếu cần chỉnh lại giữa đường, làm khi đã dừng hẳn, như bài [chỉnh gương xe máy đúng cách khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-dung-cach-khi-dung-den-do/ "Chỉnh gương xe máy đúng cách khi dừng đèn đỏ") hướng dẫn.
 
 ## Điểm mù khi đi Air Blade
 
 Gương nào cũng có vùng không thấy được, thường là hai bên hông, ngay sau vai bạn. Tài liệu của Honda Việt Nam hướng dẫn quan sát điểm mù bằng cách quay đầu qua vai nhìn trực tiếp; không quay cả người hay cả vai vì tay lái có thể quay theo.
 
-Trước khi chuyển làn hay vượt: nhìn gương, quay đầu qua vai kiểm tra điểm mù, bật xi nhan, rồi mới chuyển dần sang. Honda Việt Nam dặn tuyệt đối không đột ngột tạt ngang trước mặt xe bị vượt. Thói quen này được nói kỹ ở bài [chuyển làn an toàn khi đi xe máy: gương, xi nhan, vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-i-xe-may-guong-xi-nhan-vai/ "Chuyển làn an toàn khi đi xe máy").
+Trước khi chuyển làn hay vượt: nhìn gương, quay đầu qua vai kiểm tra điểm mù, bật xi nhan, rồi mới chuyển dần sang. Honda Việt Nam dặn tuyệt đối không đột ngột tạt ngang trước mặt xe bị vượt. Thói quen này được nói kỹ ở bài [chuyển làn an toàn khi đi xe máy: gương, xi nhan, vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-di-xe-may-guong-xi-nhan-vai/ "Chuyển làn an toàn khi đi xe máy").
 
 ## Điểm mù của xe tải lớn
 

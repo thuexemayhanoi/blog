@@ -34,7 +34,7 @@ Quốc lộ 18 có rất nhiều xe tải, container đi Quảng Ninh. Giữ là
 
 ## Nghỉ giữa đường và giữ số
 
-Với chặng khoảng 80 km, nghỉ một lần ở khoảng giữa, như Bắc Ninh hoặc Phả Lại, là vừa. Sirius có hộp số 4 cấp kiểu số tròn, ly hợp ly tâm tự động; hướng dẫn của Yamaha Việt Nam gợi ý số 4 từ khoảng 40 km/h và dặn không chạy chậm ở số cao. Trên quốc lộ đông xe tải, giữ số 3 khi dòng xe chậm, số 4 khi thoáng, nhả hẳn ga mỗi lần sang số. Chỗ đổ xăng và nghỉ dọc đường có ở bài [kinh nghiệm đường đến Côn Sơn – Kiếp Bạc](/cung-duong/2026/09/29/kinh-nghiem-uong-en-con-son-kiep-bac-xang-va-nghi/ "Kinh nghiệm đường đến Côn Sơn – Kiếp Bạc").
+Với chặng khoảng 80 km, nghỉ một lần ở khoảng giữa, như Bắc Ninh hoặc Phả Lại, là vừa. Sirius có hộp số 4 cấp kiểu số tròn, ly hợp ly tâm tự động; hướng dẫn của Yamaha Việt Nam gợi ý số 4 từ khoảng 40 km/h và dặn không chạy chậm ở số cao. Trên quốc lộ đông xe tải, giữ số 3 khi dòng xe chậm, số 4 khi thoáng, nhả hẳn ga mỗi lần sang số. Chỗ đổ xăng và nghỉ dọc đường có ở bài [kinh nghiệm đường đến Côn Sơn – Kiếp Bạc](/cung-duong/2026/09/29/kinh-nghiem-duong-den-con-son-kiep-bac-xang-va-nghi/ "Kinh nghiệm đường đến Côn Sơn – Kiếp Bạc").
 
 ## Mùa lễ hội: đông nhất trong năm
 

@@ -50,14 +50,14 @@ Các hướng dẫn kỹ năng lái mô tô quốc tế, như của tổ chức 
 Nếu đường có nhiều làn cùng chiều và làn xe máy ở bên phải, việc đi đúng làn của mình đã giữ bạn cách xa khe mở. Với đoạn xe máy và ô tô đi chung:
 
 - **Tránh đi sát dải phân cách** khi tới gần khe mở, vì đó là đường xe quay đầu lao ra đầu tiên.
-- **Giữ khoảng cách với xe phía trước ở làn trái**; nếu nó phanh để quay đầu, bạn còn chỗ để giảm tốc hoặc tránh sang phải. Cách giữ khoảng cách có ở bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-i-xe-may/ "Giữ khoảng cách an toàn khi đi xe máy").
+- **Giữ khoảng cách với xe phía trước ở làn trái**; nếu nó phanh để quay đầu, bạn còn chỗ để giảm tốc hoặc tránh sang phải. Cách giữ khoảng cách có ở bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-di-xe-may/ "Giữ khoảng cách an toàn khi đi xe máy").
 - **Đừng vượt bên phải một xe đang chậm lại gần khe mở.** Xe đó có thể đang dừng để nhường một chiếc xe quay đầu mà bạn không nhìn thấy.
 
 Nếu buộc phải phanh mạnh, giữ xe thẳng và phối hợp cả hai phanh như bài [phanh trước và phanh sau: phối hợp thế nào cho an toàn](/ky-nang/2026/10/10/phanh-truoc-va-phanh-sau-phoi-hop-the-nao-cho-an-toan/ "Phanh trước và phanh sau phối hợp thế nào").
 
 ## Khi chính bạn là người quay đầu
 
-Đổi vai một chút: khi bạn đi xe máy và cần quay đầu ở khe mở, hãy bật xi nhan sớm, giảm tốc dần và nhìn gương trước khi vào làn trái. Dừng hẳn trong khe, chờ khoảng trống đủ rộng ở chiều kia, rồi đi một mạch sang làn bên phải ngoài cùng của chiều mới, thay vì cắt chéo nhiều làn. Kỹ năng quay đầu trong phố có ở bài [quay đầu xe máy trong phố](/ky-nang/2026/09/29/quay-au-xe-may-trong-pho/ "Quay đầu xe máy trong phố"). Còn khi gặp xe ngược chiều lấn sang làn mình trên đường hai chiều, xem bài [xe đối diện vượt lấn sang làn của mình](/ky-nang/2026/10/11/xe-doi-dien-vuot-lan-sang-lan-cua-minh-tren-duong-hai-chieu-ne-the-nao/ "Xe đối diện vượt lấn sang làn của mình").
+Đổi vai một chút: khi bạn đi xe máy và cần quay đầu ở khe mở, hãy bật xi nhan sớm, giảm tốc dần và nhìn gương trước khi vào làn trái. Dừng hẳn trong khe, chờ khoảng trống đủ rộng ở chiều kia, rồi đi một mạch sang làn bên phải ngoài cùng của chiều mới, thay vì cắt chéo nhiều làn. Kỹ năng quay đầu trong phố có ở bài [quay đầu xe máy trong phố](/ky-nang/2026/09/29/quay-dau-xe-may-trong-pho/ "Quay đầu xe máy trong phố"). Còn khi gặp xe ngược chiều lấn sang làn mình trên đường hai chiều, xem bài [xe đối diện vượt lấn sang làn của mình](/ky-nang/2026/10/11/xe-doi-dien-vuot-lan-sang-lan-cua-minh-tren-duong-hai-chieu-ne-the-nao/ "Xe đối diện vượt lấn sang làn của mình").
 
 Cho Thuê Xe Máy Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần, điện thoại và Zalo 0942 467 674. Trên bảng giá, Honda Wave và Honda Click có giá ngày 150.000 đồng, Honda Vision và Honda Air Blade có giá ngày 200.000 đồng; tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt.
 

@@ -73,7 +73,7 @@ Nếu về muộn, nhớ rằng gió đêm khi xe chạy lạnh hơn lúc đứn
 
 ## Chuẩn bị tối hôm trước và việc báo cửa hàng
 
-Từ tối hôm trước, hãy xếp sẵn ba lớp, găng, khăn và áo mưa vào một chỗ để sáng khỏi lục tìm. Xem dự báo thời tiết, nếu có khả năng mưa thì áo mưa nằm trong túi chứ không nằm ở nhà. Mùa lạnh hơn, bài [mùa đông Hà Nội chạy xe máy: mặc gì cho ấm và tránh gió lạnh buổi sáng](/thue-xe/2026/10/12/mua-ong-ha-noi-chay-xe-may-mac-gi-cho-am-va-tranh-gio-lanh-buoi-sang/) có thêm gợi ý.
+Từ tối hôm trước, hãy xếp sẵn ba lớp, găng, khăn và áo mưa vào một chỗ để sáng khỏi lục tìm. Xem dự báo thời tiết, nếu có khả năng mưa thì áo mưa nằm trong túi chứ không nằm ở nhà. Mùa lạnh hơn, bài [mùa đông Hà Nội chạy xe máy: mặc gì cho ấm và tránh gió lạnh buổi sáng](/thue-xe/2026/10/12/mua-dong-ha-noi-chay-xe-may-mac-gi-cho-am-va-tranh-gio-lanh-buoi-sang/) có thêm gợi ý.
 
 Tiệm Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên; số liên hệ là 0942467674. Nếu bạn muốn hỏi xe có chỗ chứa đồ hay giá đỡ điện thoại không, hỏi lúc nhận xe; tiệm trả lời thế nào là điều xác nhận trực tiếp.
 

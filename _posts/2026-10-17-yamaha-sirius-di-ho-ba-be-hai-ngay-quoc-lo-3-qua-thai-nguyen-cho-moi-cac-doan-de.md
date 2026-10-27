@@ -32,7 +32,7 @@ Cách nhận biết lối lên cao tốc để tránh khi đi quốc lộ 3 có 
 - **Ngày 1:** xuất phát sớm, qua Thái Nguyên, Chợ Mới, Bắc Kạn, tới Ba Bể trước khi trời tối. Nghỉ đêm ở khu vực quanh hồ.
 - **Ngày 2:** buổi sáng dạo hồ, rồi quay về Hà Nội theo đúng tuyến cũ. Ai muốn đi thuyền lâu hoặc vào các hang động thì nên thêm một đêm.
 
-Hơn 200 km mỗi chiều trên xe số là quãng khá dài; chia mỗi chặng 50 tới 70 km, nghỉ ở các thị trấn lớn như Thái Nguyên, Chợ Mới, phường Bắc Kạn, Phủ Thông. Kinh nghiệm chạy và chỗ nghỉ trên tuyến này có ở bài [kinh nghiệm đường đến Ba Bể: xăng và nghỉ](/cung-duong/2026/09/29/kinh-nghiem-uong-en-ba-be-xang-va-nghi/ "Kinh nghiệm đường đến Ba Bể").
+Hơn 200 km mỗi chiều trên xe số là quãng khá dài; chia mỗi chặng 50 tới 70 km, nghỉ ở các thị trấn lớn như Thái Nguyên, Chợ Mới, phường Bắc Kạn, Phủ Thông. Kinh nghiệm chạy và chỗ nghỉ trên tuyến này có ở bài [kinh nghiệm đường đến Ba Bể: xăng và nghỉ](/cung-duong/2026/09/29/kinh-nghiem-duong-den-ba-be-xang-va-nghi/ "Kinh nghiệm đường đến Ba Bể").
 
 ## Đoạn dốc, cua liên tiếp và chỗ nghỉ máy
 

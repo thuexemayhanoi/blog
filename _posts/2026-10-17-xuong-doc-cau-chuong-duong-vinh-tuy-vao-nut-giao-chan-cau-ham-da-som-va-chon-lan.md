@@ -42,14 +42,14 @@ Biết trước mình sẽ đi thẳng, rẽ trái hay rẽ phải ở nút giao
 - **Điều 15:** trước khi chuyển hướng phải quan sát, giảm tốc, bật xi nhan và chuyển dần sang làn gần nhất với hướng rẽ.
 - **Điều 13:** trên đường có vạch phân làn, mỗi lần chỉ chuyển sang một làn liền kề, có tín hiệu báo trước và phải quan sát phía sau, hai bên.
 
-Trên dốc cầu, việc đổi làn nên làm sớm và từng bước, khi xe còn chạy đều. Cắt chéo nhiều làn ở mấy chục mét cuối, sát vạch dừng, là kiểu va chạm hay gặp nhất ở chân cầu. Cách chuyển làn an toàn có ở bài [chuyển làn đúng cách trên đường nhiều làn xe máy](/ky-nang/2026/10/04/chuyen-lan-ung-cach-tren-uong-nhieu-lan-xe-may/ "Chuyển làn đúng cách trên đường nhiều làn xe máy").
+Trên dốc cầu, việc đổi làn nên làm sớm và từng bước, khi xe còn chạy đều. Cắt chéo nhiều làn ở mấy chục mét cuối, sát vạch dừng, là kiểu va chạm hay gặp nhất ở chân cầu. Cách chuyển làn an toàn có ở bài [chuyển làn đúng cách trên đường nhiều làn xe máy](/ky-nang/2026/10/04/chuyen-lan-dung-cach-tren-duong-nhieu-lan-xe-may/ "Chuyển làn đúng cách trên đường nhiều làn xe máy").
 
 Lỡ đi sai làn thì đi theo làn đó qua nút giao rồi tìm chỗ quay lại, thay vì cố chen ngang. Mất vài phút còn hơn một cú va quẹt giữa dòng xe đông.
 
 ## Dừng êm khi gặp đèn đỏ và dòng xe dồn
 
 - **Nhìn xa xuống chân dốc:** thấy đèn đỏ hoặc đuôi dòng xe đã đứng thì giảm ga ngay, không chờ tới gần.
-- **Giữ khoảng cách:** đi sát đuôi xe trước trên dốc là hết chỗ để phanh. Khoảng cách theo tốc độ có ở bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-i-xe-may/ "Giữ khoảng cách an toàn khi đi xe máy").
+- **Giữ khoảng cách:** đi sát đuôi xe trước trên dốc là hết chỗ để phanh. Khoảng cách theo tốc độ có ở bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-di-xe-may/ "Giữ khoảng cách an toàn khi đi xe máy").
 - **Dừng hẳn bằng hai phanh, xe thẳng:** chân chống đất khi xe đã dừng, tay vẫn giữ phanh vì mặt đường chân cầu thường còn hơi dốc.
 - **Để ý xe buýt và ô tô chuyển làn:** ở cuối dốc, ô tô hay rẽ sang làn hỗn hợp để vào hướng rẽ phải; giữ vị trí dễ được nhìn thấy, tránh nằm trong điểm mù cạnh đuôi xe lớn.
 

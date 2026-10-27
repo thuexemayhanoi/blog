@@ -27,7 +27,7 @@ Lưu ý: Yamaha Sirius không nằm trong bảng giá đã công bố của cử
 
 **Cầu Thăng Long.** Cầu hai tầng: tầng trên cho ô tô trên trục Vành đai 3, tầng dưới cho đường sắt và xe máy. VnExpress cho biết cầu đón khoảng 100 tới 120 nghìn lượt xe mỗi ngày, gấp 6 tới 8 lần công suất thiết kế. Từ 9/10 tới hết 10/11/2026, cầu cấm xe tải từ 2 tấn và xe khách từ 16 chỗ từ 5 giờ tới 22 giờ để thi công trạm cân; xe máy không bị cấm. Sau cầu, đường Võ Văn Kiệt có làn xe máy riêng sát hộ lan bên phải ở cả hai chiều.
 
-Xe máy không được vào cao tốc, theo Luật Trật tự, an toàn giao thông đường bộ 2024, Điều 25, nên đừng theo lối lên cao tốc Nội Bài – Lào Cai hướng Phúc Yên. Các trang du lịch thường gợi ý hai hướng: qua cầu Nhật Tân, theo đường gom Võ Nguyên Giáp ra quốc lộ 2 rồi vào Phúc Yên; hoặc qua cầu Thăng Long hay Nhật Tân tới ngã tư Nội Bài, rồi theo đường tỉnh 301 lên Đại Lải. Mở bản đồ với chế độ tránh cao tốc để chọn đường cụ thể. Cung đường và thời gian có ở bài [Hà Nội đi hồ Đại Lải bằng xe máy](/cung-duong/2026/10/01/ha-noi-i-ho-ai-lai-bang-xe-may-cung-uong-va-thoi-gian/ "Hà Nội đi hồ Đại Lải bằng xe máy").
+Xe máy không được vào cao tốc, theo Luật Trật tự, an toàn giao thông đường bộ 2024, Điều 25, nên đừng theo lối lên cao tốc Nội Bài – Lào Cai hướng Phúc Yên. Các trang du lịch thường gợi ý hai hướng: qua cầu Nhật Tân, theo đường gom Võ Nguyên Giáp ra quốc lộ 2 rồi vào Phúc Yên; hoặc qua cầu Thăng Long hay Nhật Tân tới ngã tư Nội Bài, rồi theo đường tỉnh 301 lên Đại Lải. Mở bản đồ với chế độ tránh cao tốc để chọn đường cụ thể. Cung đường và thời gian có ở bài [Hà Nội đi hồ Đại Lải bằng xe máy](/cung-duong/2026/10/01/ha-noi-di-ho-dai-lai-bang-xe-may-cung-duong-va-thoi-gian/ "Hà Nội đi hồ Đại Lải bằng xe máy").
 
 ## Qua Mê Linh, Phúc Yên: tên mới trên bản đồ
 
@@ -43,7 +43,7 @@ Sirius có hộp số 4 cấp kiểu số tròn với ly hợp ly tâm tự đ�
 
 Gió ngang trên cầu lớn có thể đẩy xe số nhẹ lệch làn; cách giữ lái có ở bài [gió ngang trên cầu Nhật Tân, Vĩnh Tuy](/xe-may/2026/10/13/gio-ngang-tren-cau-nhat-tan-vinh-tuy-honda-click-nhe-co-bi-lang-khong/ "Gió ngang trên cầu Nhật Tân, Vĩnh Tuy").
 
-Hồ Đại Lải được đào từ năm 1959, theo Báo Phú Thọ dẫn qua Dân Việt; các trang du lịch ghi mặt hồ rộng khoảng 500 ha. Tỉnh đặt mục tiêu đưa Đại Lải thành khu du lịch quốc gia giai đoạn 2026 tới 2030 và đang mở rộng các tuyến đường quanh hồ, nên có thể gặp đoạn đang thi công; đi chậm, nhìn biển và rào chắn. Chỗ dừng chân dọc đường có ở bài [nghỉ chân trên đường đi hồ Đại Lải](/cung-duong/2026/10/01/nghi-chan-tren-uong-i-ho-ai-lai-bang-xe-may/ "Nghỉ chân trên đường đi hồ Đại Lải").
+Hồ Đại Lải được đào từ năm 1959, theo Báo Phú Thọ dẫn qua Dân Việt; các trang du lịch ghi mặt hồ rộng khoảng 500 ha. Tỉnh đặt mục tiêu đưa Đại Lải thành khu du lịch quốc gia giai đoạn 2026 tới 2030 và đang mở rộng các tuyến đường quanh hồ, nên có thể gặp đoạn đang thi công; đi chậm, nhìn biển và rào chắn. Chỗ dừng chân dọc đường có ở bài [nghỉ chân trên đường đi hồ Đại Lải](/cung-duong/2026/10/01/nghi-chan-tren-duong-di-ho-dai-lai-bang-xe-may/ "Nghỉ chân trên đường đi hồ Đại Lải").
 
 ## Giờ về tránh tắc cửa ngõ
 

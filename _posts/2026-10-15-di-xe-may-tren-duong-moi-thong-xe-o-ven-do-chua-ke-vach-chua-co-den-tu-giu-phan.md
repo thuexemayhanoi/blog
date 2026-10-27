@@ -67,7 +67,7 @@ Cách đi:
 
 - Khi phải tránh vật cản, nhìn gương và báo hiệu trước, đừng tạt ngang bất ngờ.
 
-Nguyên tắc dừng được trong đoạn đường nhìn rõ là trống, trong bài [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-o-theo-oan-uong-nhin-thay-dung-uoc-trong-tam-mat-khi-i-xe-may/), rất hợp ở những đoạn này.
+Nguyên tắc dừng được trong đoạn đường nhìn rõ là trống, trong bài [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-do-theo-doan-duong-nhin-thay-dung-duoc-trong-tam-mat-khi-di-xe-may/), rất hợp ở những đoạn này.
 
 ## Ban đêm khi chưa có đèn đường
 

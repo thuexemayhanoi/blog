@@ -60,7 +60,7 @@ Với xe thuê, Bộ luật Dân sự có thêm các quy định về hợp đ�
 - **Điều 479:** bên thuê phải bảo quản tài sản thuê; làm mất, hư hỏng thì phải bồi thường.
 - **Điều 480:** dùng tài sản không đúng công dụng, mục đích đã thỏa thuận thì bên cho thuê có quyền chấm dứt hợp đồng và đòi bồi thường.
 
-Theo Nghị quyết 02/2022, Điều 2, người thuê xe qua hợp đồng thuê hợp pháp là người chiếm hữu, sử dụng, và phải bồi thường thiệt hại do xe gây ra, trừ khi có thỏa thuận khác. Các văn bản chưa nói rõ trường hợp người thuê đưa tiếp xe cho bạn đã uống thì trách nhiệm phân chia ra sao; tòa án sẽ quyết định theo tình tiết. Với cửa hàng, bạn vẫn là người chịu trách nhiệm về chiếc xe theo hợp đồng thuê. Thêm về trình tự khi xe thuê bị xử lý có ở bài [trình tự với chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/ "Trình tự với chủ xe thuê khi bị xử lý nồng độ cồn").
+Theo Nghị quyết 02/2022, Điều 2, người thuê xe qua hợp đồng thuê hợp pháp là người chiếm hữu, sử dụng, và phải bồi thường thiệt hại do xe gây ra, trừ khi có thỏa thuận khác. Các văn bản chưa nói rõ trường hợp người thuê đưa tiếp xe cho bạn đã uống thì trách nhiệm phân chia ra sao; tòa án sẽ quyết định theo tình tiết. Với cửa hàng, bạn vẫn là người chịu trách nhiệm về chiếc xe theo hợp đồng thuê. Thêm về trình tự khi xe thuê bị xử lý có ở bài [trình tự với chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-do-con/ "Trình tự với chủ xe thuê khi bị xử lý nồng độ cồn").
 
 ## Bạn đã uống mà đòi lấy xe: làm gì
 

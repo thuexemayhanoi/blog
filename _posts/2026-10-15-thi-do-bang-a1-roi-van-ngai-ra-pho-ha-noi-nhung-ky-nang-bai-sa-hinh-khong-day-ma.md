@@ -49,7 +49,7 @@ Cách tập theo bậc:
 
 - Đã rẽ thì rẽ dứt khoát với ga đều, đừng dừng lưng chừng, và nhìn thêm nhánh đường vừa vào vì có thể có người đi bộ.
 
-Ở ngã tư có đèn, thói quen nhìn hai bên trước khi nhấc ga được phân tích trong bài [đèn xanh vừa bật vẫn nhìn hai bên](/ky-nang/2026/10/11/en-xanh-vua-bat-van-nhin-hai-ben-thoi-quen-mot-nhip-o-nga-tu-ong-xe/).
+Ở ngã tư có đèn, thói quen nhìn hai bên trước khi nhấc ga được phân tích trong bài [đèn xanh vừa bật vẫn nhìn hai bên](/ky-nang/2026/10/11/den-xanh-vua-bat-van-nhin-hai-ben-thoi-quen-mot-nhip-o-nga-tu-dong-xe/).
 
 ## Phanh gấp thật, trời mưa và buổi tối
 
