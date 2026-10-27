@@ -75,9 +75,9 @@ Khi gọi, hãy nói rõ loại xe, biển số, bạn đang ở đâu, tay ga k
 
 ## Kẹt ga xe ga và những triệu chứng nhìn giống
 
-Không phải xe ga có chuyện nào cũng là kẹt tay ga. Ngược hẳn là cảnh nổ máy nhưng vặn ga mà xe không chịu đi, thường nghiêng về [dấu hiệu hỏng bộ truyền động](/xe-may/2026/10/11/xe-ga-no-may-nhung-van-ga-khong-i-dau-hieu-hong-bo-truyen-ong/) và cách xử lý khác hẳn.
+Không phải xe ga có chuyện nào cũng là kẹt tay ga. Ngược hẳn là cảnh nổ máy nhưng vặn ga mà xe không chịu đi, thường nghiêng về [dấu hiệu hỏng bộ truyền động](/xe-may/2026/10/11/xe-ga-no-may-nhung-van-ga-khong-di-dau-hieu-hong-bo-truyen-dong/) và cách xử lý khác hẳn.
 
-Một tình huống nữa: bạn đã dùng công tắc tắt máy để dừng xe, giờ bấm đề không thấy phản ứng. Nhiều khi chỉ vì công tắc vẫn ở vị trí tắt. Hãy lướt lại [những công tắc an toàn hay bị quên](/xe-may/2026/10/11/bam-e-xe-ga-khong-phan-ung-nhung-cong-tac-an-toan-hay-bi-quen/) trước khi nghĩ xe hỏng nặng, nhưng chỉ khởi động lại khi tay ga đã kiểm tra xong và về dứt khoát.
+Một tình huống nữa: bạn đã dùng công tắc tắt máy để dừng xe, giờ bấm đề không thấy phản ứng. Nhiều khi chỉ vì công tắc vẫn ở vị trí tắt. Hãy lướt lại [những công tắc an toàn hay bị quên](/xe-may/2026/10/11/bam-de-xe-ga-khong-phan-ung-nhung-cong-tac-an-toan-hay-bi-quen/) trước khi nghĩ xe hỏng nặng, nhưng chỉ khởi động lại khi tay ga đã kiểm tra xong và về dứt khoát.
 
 ## Thói quen nửa phút trước khi lên xe
 
@@ -88,4 +88,4 @@ Trước khi lăn bánh, bạn chỉ cần bốn việc nhỏ:
 - Chạm thử công tắc tắt máy, biết xe mình có hay không.
 - Bỏ túi treo dây dài, gói áo mưa gọn, chọn găng vừa tay.
 
-Trước chuyến đi xa, hãy đưa các bước này vào danh sách chuẩn bị chung, như bài về [giữ máy và nghỉ đúng nhịp trên chặng dài](/xe-may/2026/10/10/xe-tay-ga-chay-chang-dai-ve-que-giu-may-va-nghi-ung-nhip/). Khi nhận xe, thử tay ga ngay tại chỗ; thấy nặng hoặc về chậm thì nói luôn với người giao xe trước khi đi. Muốn đọc thêm, bạn có thể xem chuyên mục [xe tay ga](/xe-may/xe-ga/) hoặc quay về mục [xe máy](/xe-may/) để chọn chủ đề cho chuyến đi sắp tới.
+Trước chuyến đi xa, hãy đưa các bước này vào danh sách chuẩn bị chung, như bài về [giữ máy và nghỉ đúng nhịp trên chặng dài](/xe-may/2026/10/10/xe-tay-ga-chay-chang-dai-ve-que-giu-may-va-nghi-dung-nhip/). Khi nhận xe, thử tay ga ngay tại chỗ; thấy nặng hoặc về chậm thì nói luôn với người giao xe trước khi đi. Muốn đọc thêm, bạn có thể xem chuyên mục [xe tay ga](/xe-may/xe-ga/) hoặc quay về mục [xe máy](/xe-may/) để chọn chủ đề cho chuyến đi sắp tới.

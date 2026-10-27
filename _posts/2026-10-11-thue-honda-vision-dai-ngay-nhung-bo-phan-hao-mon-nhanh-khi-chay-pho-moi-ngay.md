@@ -20,7 +20,7 @@ Honda Vision thuê dài ngày để đi làm sẽ hao ở những chỗ khác h�
 
 Chạy phố mỗi ngày khác một chuyến đi xa. Quãng đường không dài, nhưng mỗi chuyến có hàng chục lần phanh và hàng chục lần lấy ga lại từ đầu. Đoạn Nguyễn Văn Cừ lên cầu Chương Dương giờ tan tầm là ví dụ dễ hình dung: xe nhích từng đoạn, dừng, nhích tiếp, máy nóng dần mà gió làm mát lại ít.
 
-Ba yếu tố cùng làm xe hao: dừng rồi đi liên tục, nhiệt cùng bụi, và mặt đường xấu. [Dòng xe Honda Vision](/xe-may/honda-vision/) gọn nhẹ nên nhiều người chọn để chạy phố, như bài về [những lợi thế của xe ga nhỏ khi đi làm giữa phố](/xe-may/2026/10/09/honda-vision-thue-e-i-lam-giua-pho-co-loi-gi/) đã nói. Nhưng chính kiểu chạy ấy lại thử xe mỗi ngày.
+Ba yếu tố cùng làm xe hao: dừng rồi đi liên tục, nhiệt cùng bụi, và mặt đường xấu. [Dòng xe Honda Vision](/xe-may/honda-vision/) gọn nhẹ nên nhiều người chọn để chạy phố, như bài về [những lợi thế của xe ga nhỏ khi đi làm giữa phố](/xe-may/2026/10/09/honda-vision-thue-de-di-lam-giua-pho-co-loi-gi/) đã nói. Nhưng chính kiểu chạy ấy lại thử xe mỗi ngày.
 
 ## Lốp và phanh: hai thứ mòn trước tiên
 
@@ -56,7 +56,7 @@ Bụi mịn của Hà Nội đi thẳng vào lọc gió. Lọc gió bẩn khiế
 
 ## Phuộc, ắc quy và những chi tiết nhỏ hay bị bỏ quên
 
-Phuộc sau hấp thụ mọi cú nảy khi qua gờ giảm tốc, nhất là lúc chở người hoặc mang đồ nặng. Nhồi đầy đồ vào cốp mỗi ngày cũng dồn tải lên đây, nên hãy xem [cốp xe chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-uoc-nhung-gi/) cho vừa đủ. Phuộc mệt thì xe nhún sâu bất thường, kêu cộc khi qua gờ, hoặc có vệt dầu ướt quanh thân phuộc.
+Phuộc sau hấp thụ mọi cú nảy khi qua gờ giảm tốc, nhất là lúc chở người hoặc mang đồ nặng. Nhồi đầy đồ vào cốp mỗi ngày cũng dồn tải lên đây, nên hãy xem [cốp xe chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-duoc-nhung-gi/) cho vừa đủ. Phuộc mệt thì xe nhún sâu bất thường, kêu cộc khi qua gờ, hoặc có vệt dầu ướt quanh thân phuộc.
 
 Ắc quy thiệt vì quãng đi ngắn: đề máy nhiều lần trong ngày mà đường chạy không đủ dài để sạc lại. Khi đề ì ạch, đèn mờ đi lúc bấm đề hoặc còi yếu hẳn, đó là lúc nên báo.
 

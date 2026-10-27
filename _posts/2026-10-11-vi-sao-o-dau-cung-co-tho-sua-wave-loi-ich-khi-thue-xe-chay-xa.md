@@ -22,7 +22,7 @@ Wave là dòng xe số phổ thông đã chạy ở nước ta nhiều năm. Có
 
 Vì thế ở nhiều thị trấn và làng ngoại thành Hà Nội, biển "sửa xe máy" vẽ tay treo ngoài cổng là chuyện bình thường. Chủ tiệm thường đã sửa Wave cho hàng xóm nhiều lần, nghe tiếng máy là đoán được xe đang gặp gì. Đó là lợi thế thật sự khi bạn thuê xe đi xa khỏi trung tâm: sự cố nhỏ ít khi biến thành một buổi chiều bị kẹt lại.
 
-Nếu bạn quan tâm độ bền của dòng xe này khi dùng nhiều ngày, bài [điểm mạnh bền bỉ của Honda Wave khi thuê dài hạn](/xe-may/2026/09/27/iem-manh-ben-bi-cua-honda-wave-khi-thue-dai-han/) kể kỹ hơn phần đó.
+Nếu bạn quan tâm độ bền của dòng xe này khi dùng nhiều ngày, bài [điểm mạnh bền bỉ của Honda Wave khi thuê dài hạn](/xe-may/2026/09/27/diem-manh-ben-bi-cua-honda-wave-khi-thue-dai-han/) kể kỹ hơn phần đó.
 
 ## Xe Wave phổ biến dễ sửa vì cấu tạo quen thuộc
 
@@ -79,7 +79,7 @@ Có thợ gần không có nghĩa là khỏi chuẩn bị. Vài việc nhỏ tr�
 - **Đi từ sáng:** tiệm sửa xe vùng quê thường nghỉ sớm hơn trong thành phố.
 - **Tải sẵn bản đồ** khu vực bạn đi, phòng khi sóng yếu.
 
-Nếu lần đầu chạy đường trường bằng xe số, bài [Honda Wave thuê cho người hay chạy đường trường có bền không](/xe-may/2026/10/09/honda-wave-thue-cho-nguoi-hay-chay-uong-truong-ben-khong/) giúp bạn hình dung chuyến đi. Phần tổng hợp về dòng xe này nằm ở mục [Honda Wave](/xe-may/honda-wave/).
+Nếu lần đầu chạy đường trường bằng xe số, bài [Honda Wave thuê cho người hay chạy đường trường có bền không](/xe-may/2026/10/09/honda-wave-thue-cho-nguoi-hay-chay-duong-truong-ben-khong/) giúp bạn hình dung chuyến đi. Phần tổng hợp về dòng xe này nằm ở mục [Honda Wave](/xe-may/honda-wave/).
 
 ## Lưu số trước, đi xa sau
 

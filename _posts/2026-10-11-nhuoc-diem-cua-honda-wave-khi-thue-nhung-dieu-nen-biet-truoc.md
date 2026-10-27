@@ -20,7 +20,7 @@ Trước khi chốt thuê, câu hỏi thật thà nhất thường là: Honda Wa
 
 Wave là dòng xe số phổ thông, sinh ra để chạy đều, dễ sửa và ít kén người dùng. Cái giá của sự đơn giản là thiếu những tiện nghi mà xe tay ga có sẵn. Nên "tệ" hay không còn tùy bạn cần gì từ chiếc xe trong chuyến đi.
 
-Bốn điểm hay làm người thuê lần đầu khó chịu là chỗ cất đồ ít, phanh cơ, việc phải tự đổi số và đồng hồ không báo bạn đang ở số mấy. Điểm nào bạn chấp nhận được thì Wave vẫn là lựa chọn đáng cân nhắc. Nếu đang phân vân giữa hai xe cùng mức giá 150.000đ mỗi ngày, bài [đặt Wave cạnh Honda Click](/xe-may/2026/10/11/cung-gia-150000-moi-ngay-nen-thue-honda-wave-hay-honda-click/) sẽ giúp bạn nhìn rõ hơn.
+Bốn điểm hay làm người thuê lần đầu khó chịu là chỗ cất đồ ít, phanh cơ, việc phải tự đổi số và đồng hồ không báo bạn đang ở số mấy. Điểm nào bạn chấp nhận được thì Wave vẫn là lựa chọn đáng cân nhắc. Nếu đang phân vân giữa hai xe cùng mức giá 150.000đ mỗi ngày, bài [đặt Wave cạnh Honda Click](/xe-may/2026/10/11/cung-gia-150000d-moi-ngay-nen-thue-honda-wave-hay-honda-click/) sẽ giúp bạn nhìn rõ hơn.
 
 ## Ít chỗ cất đồ hơn bạn tưởng
 
@@ -56,7 +56,7 @@ Cần nhớ rằng Wave dùng ly hợp tự động nên không có tay côn. Vi
 2. Nhớ độ nặng của cần số và tiếng máy mỗi lần số vào đúng.
 3. Khi dừng hẳn, đạp cần số nhẹ để tìm số mo trước khi đứng chờ, tránh để xe ở số cao lúc dừng.
 
-Nếu bạn mới tập xe số, bài [Honda Wave cho người mới có dễ điều khiển không](/xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-ieu-khien-khong/) kể kỹ những bước làm quen đầu tiên.
+Nếu bạn mới tập xe số, bài [Honda Wave cho người mới có dễ điều khiển không](/xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-dieu-khien-khong/) kể kỹ những bước làm quen đầu tiên.
 
 ## Nhược điểm của Honda Wave khi kẹt xe: phải đổi số liên tục
 

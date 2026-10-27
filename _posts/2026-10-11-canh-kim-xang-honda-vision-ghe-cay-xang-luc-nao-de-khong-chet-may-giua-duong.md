@@ -55,7 +55,7 @@ Có vài tình huống mà kim xăng thấp một chút cũng thành chuyện l�
 
 **Cung đường ngoại thành như lên Ba Vì hay Sóc Sơn.** Có những đoạn khá dài chỉ thấy đồi, ruộng và nhà dân.
 
-**Trong nội thành,** cây xăng thường dày hơn nên kim thấp ít khi thành sự cố, nhất là khi bạn đang đi chiếc [xe ga nhỏ len phố nhẹ và tiện](/xe-may/2026/09/27/honda-vision-i-pho-nhe-va-tien-the-nao/). Nhưng cũng đừng chủ quan, vì đường cấm rẽ có thể khiến bạn phải đi vòng xa hơn dự tính.
+**Trong nội thành,** cây xăng thường dày hơn nên kim thấp ít khi thành sự cố, nhất là khi bạn đang đi chiếc [xe ga nhỏ len phố nhẹ và tiện](/xe-may/2026/09/27/honda-vision-di-pho-nhe-va-tien-the-nao/). Nhưng cũng đừng chủ quan, vì đường cấm rẽ có thể khiến bạn phải đi vòng xa hơn dự tính.
 
 ## Honda Vision hết xăng giữa đường thì xử lý ra sao
 

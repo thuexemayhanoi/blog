@@ -48,7 +48,7 @@ Wave là xe số nhưng không có tay côn, ly hợp hoạt động tự độn
 
 Ở chân trái, vấn đề thường là giày. Giày to, đế dày hoặc dép quai dày làm mũi chân khó luồn vào cần số. Giày đế mỏng, mũi vừa phải cho bạn cảm nhận cần số rõ hơn. Khi đổi số, nhả ga nhẹ rồi đổi dứt khoát, không cần đá mạnh.
 
-Ở chân phải, hãy đặt mũi giày gần cần phanh sau nhưng không đè lên nó. Nếu để chân lơ lửng cao hơn gác, đến lúc cần phanh bạn sẽ mất nhịp đi tìm. Trước khi ra đường lớn, hãy tập phanh sau vài lần ở đoạn đường vắng. Bạn lâu chưa đi xe số thì có thể đọc thêm bài về [Wave có dễ điều khiển với người mới hay không](/xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-ieu-khien-khong/) để làm quen thao tác trước.
+Ở chân phải, hãy đặt mũi giày gần cần phanh sau nhưng không đè lên nó. Nếu để chân lơ lửng cao hơn gác, đến lúc cần phanh bạn sẽ mất nhịp đi tìm. Trước khi ra đường lớn, hãy tập phanh sau vài lần ở đoạn đường vắng. Bạn lâu chưa đi xe số thì có thể đọc thêm bài về [Wave có dễ điều khiển với người mới hay không](/xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-dieu-khien-khong/) để làm quen thao tác trước.
 
 ## Người nặng ký đi Wave cần lưu ý gì
 
@@ -67,7 +67,7 @@ Wave không phù hợp với mọi vóc dáng. Bạn nên cân nhắc đổi xe 
 - Chạy một đoạn ngắn đã tê chân, đau lưng, hoặc phải dừng nhiều lần chỉ để duỗi người.
 - Tổng tải gồm bạn, người đi cùng và hành lý ở mức cao, lại muốn đi nhiều chặng dài.
 
-Nếu kế hoạch có nhiều chặng xa, bạn có thể đọc thêm về [độ bền của Wave trên đường trường](/xe-may/2026/10/09/honda-wave-thue-cho-nguoi-hay-chay-uong-truong-ben-khong/) để cân nhắc cả độ thoải mái lẫn độ bền. Với người cao to, xe tay ga như Honda Vision hay Honda Air Blade thường đáng thử: sàn để chân phẳng giúp duỗi chân tự do hơn, và không có cần số ở chân nên không lo giày vướng. Đổi xe không có nghĩa Wave kém, chỉ là mỗi vóc dáng hợp một kiểu xe.
+Nếu kế hoạch có nhiều chặng xa, bạn có thể đọc thêm về [độ bền của Wave trên đường trường](/xe-may/2026/10/09/honda-wave-thue-cho-nguoi-hay-chay-duong-truong-ben-khong/) để cân nhắc cả độ thoải mái lẫn độ bền. Với người cao to, xe tay ga như Honda Vision hay Honda Air Blade thường đáng thử: sàn để chân phẳng giúp duỗi chân tự do hơn, và không có cần số ở chân nên không lo giày vướng. Đổi xe không có nghĩa Wave kém, chỉ là mỗi vóc dáng hợp một kiểu xe.
 
 ## Thử xe vài phút trước khi quyết định
 

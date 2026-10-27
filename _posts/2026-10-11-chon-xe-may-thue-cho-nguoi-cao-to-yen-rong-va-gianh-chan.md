@@ -22,7 +22,7 @@ Một thân người lớn đặt lên chiếc xe nhỏ giống như ngồi gh�
 
 Chọn xe quá to cũng không hẳn là lời giải. Xe nặng và dài sẽ vất vả khi quay đầu trong ngõ nhỏ khu phố cổ. Mục tiêu là điểm giữa: đủ chỗ cho thân và chân, nhưng vẫn gọn để luồn lách.
 
-Nếu muốn đối chiếu theo chiều cao cụ thể, bài [chọn xe thuê theo chiều cao người lái](/xe-may/2026/10/09/chon-xe-thue-theo-chieu-cao-nguoi-lai-sao-cho-ung/) giải thích cách ước lượng độ cao yên so với chân. Bài này tập trung vào hai thứ người cao to hay bị thiệt nhất: mặt yên và khoảng để chân.
+Nếu muốn đối chiếu theo chiều cao cụ thể, bài [chọn xe thuê theo chiều cao người lái](/xe-may/2026/10/09/chon-xe-thue-theo-chieu-cao-nguoi-lai-sao-cho-dung/) giải thích cách ước lượng độ cao yên so với chân. Bài này tập trung vào hai thứ người cao to hay bị thiệt nhất: mặt yên và khoảng để chân.
 
 ## Yên rộng, yên dài: nhìn bằng mắt rồi ngồi bằng người
 

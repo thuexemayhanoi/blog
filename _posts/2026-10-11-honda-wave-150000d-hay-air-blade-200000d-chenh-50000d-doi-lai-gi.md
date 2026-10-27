@@ -30,7 +30,7 @@ Vì vậy câu hỏi hữu ích hơn là: với lịch trình của mình, 50.00
 
 ## Wave và Air Blade khác nhau khi cầm lái ở Hà Nội
 
-Khác biệt đầu tiên nằm ở cách điều khiển. Wave là xe số: bạn đổi số bằng cần số ở chân, theo thứ tự N–1–2–3–4, và nên nhả ga nhẹ lúc gạt cần để xe không giật. Ly hợp của dòng xe số phổ thông này là loại tự động, nên tay trái bạn không phải làm gì thêm. Air Blade là xe tay ga: không số, vặn ga là đi, nhả ga là chậm lại, phanh bằng cần ở hai tay. Nếu bạn lần đầu đụng xe số, bài về [Wave có dễ điều khiển với người mới không](/xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-ieu-khien-khong/) kể khá kỹ những lỗi hay gặp.
+Khác biệt đầu tiên nằm ở cách điều khiển. Wave là xe số: bạn đổi số bằng cần số ở chân, theo thứ tự N–1–2–3–4, và nên nhả ga nhẹ lúc gạt cần để xe không giật. Ly hợp của dòng xe số phổ thông này là loại tự động, nên tay trái bạn không phải làm gì thêm. Air Blade là xe tay ga: không số, vặn ga là đi, nhả ga là chậm lại, phanh bằng cần ở hai tay. Nếu bạn lần đầu đụng xe số, bài về [Wave có dễ điều khiển với người mới không](/xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-dieu-khien-khong/) kể khá kỹ những lỗi hay gặp.
 
 Thử hình dung chiều tan tầm ở khu phố cổ: xe nối xe, cứ đi hai mét lại dừng. Trên xe ga, bạn chỉ việc vặn ga và phanh, không phải tìm số, nên đỡ mỏi chân trái và đỡ rối. Ngược lại, khi cần dắt xe vào một ngõ nhỏ hoặc quay đầu ở chỗ chật, Wave thường nhẹ và gọn hơn nên xoay xở dễ hơn.
 
@@ -46,7 +46,7 @@ Chở hai người cũng vậy. Yên xe ga thường rộng, người ngồi sau
 
 ## Đi xa: đường trường, đèo dốc và độ mỏi
 
-Đi xa là chỗ hai xe bộc lộ khác nhau nhiều nhất, nhưng không phải theo kiểu một bên chạy được còn bên kia thì không. Wave vốn nổi tiếng bền, đi nhiều ngày liên tục vẫn ổn nếu bạn giữ nhịp đều và dừng nghỉ hợp lý; nếu bạn đang tính chạy đường dài, bài về [Wave chạy đường trường có bền không](/xe-may/2026/10/09/honda-wave-thue-cho-nguoi-hay-chay-uong-truong-ben-khong/) sẽ giúp bạn hình dung rõ hơn.
+Đi xa là chỗ hai xe bộc lộ khác nhau nhiều nhất, nhưng không phải theo kiểu một bên chạy được còn bên kia thì không. Wave vốn nổi tiếng bền, đi nhiều ngày liên tục vẫn ổn nếu bạn giữ nhịp đều và dừng nghỉ hợp lý; nếu bạn đang tính chạy đường dài, bài về [Wave chạy đường trường có bền không](/xe-may/2026/10/09/honda-wave-thue-cho-nguoi-hay-chay-duong-truong-ben-khong/) sẽ giúp bạn hình dung rõ hơn.
 
 Lấy ví dụ chuyến lên Tam Đảo. Cung đường dốc và cua liên tục. Trên xe số, bạn chủ động về số thấp khi lên dốc, rồi dùng số để hãm bớt khi xuống, đỡ phải bóp phanh liên tục. Trên Air Blade, máy khỏe hơn giúp bạn leo dốc nhẹ nhàng, nhất là khi chở hai người kèm hành lý. Xuống dốc thì bạn phải kiểm soát phanh cẩn thận hơn, nhả ga sớm và phanh nhẹ nhiều lần thay vì một lần thật mạnh.
 

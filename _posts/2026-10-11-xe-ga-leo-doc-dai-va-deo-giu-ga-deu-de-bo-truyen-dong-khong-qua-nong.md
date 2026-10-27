@@ -43,7 +43,7 @@ Cảm giác xe ga lên dốc bị mất lực không phải lúc nào cũng do x
 - Dây curoa, bi nồi hoặc nồi đã mòn sau nhiều năm chạy phố.
 - Máy và hộp truyền động đã nóng sau nhiều phút leo liên tục.
 
-Cách phân biệt là nhìn diễn biến. Xe yếu ngay từ chân dốc thường do tải nặng hoặc cần kiểm tra. Xe khỏe lúc đầu rồi yếu dần ở cùng một mức ga thì nhiều khả năng là nóng, và đó là lúc nên tìm chỗ dừng thay vì cố thêm. Còn nếu xe vẫn nổ nhưng vặn ga hầu như không đi nữa, hãy xem kỹ [dấu hiệu hỏng bộ truyền động](/xe-may/2026/10/11/xe-ga-no-may-nhung-van-ga-khong-i-dau-hieu-hong-bo-truyen-ong/) trước khi quyết định đi tiếp.
+Cách phân biệt là nhìn diễn biến. Xe yếu ngay từ chân dốc thường do tải nặng hoặc cần kiểm tra. Xe khỏe lúc đầu rồi yếu dần ở cùng một mức ga thì nhiều khả năng là nóng, và đó là lúc nên tìm chỗ dừng thay vì cố thêm. Còn nếu xe vẫn nổ nhưng vặn ga hầu như không đi nữa, hãy xem kỹ [dấu hiệu hỏng bộ truyền động](/xe-may/2026/10/11/xe-ga-no-may-nhung-van-ga-khong-di-dau-hieu-hong-bo-truyen-dong/) trước khi quyết định đi tiếp.
 
 ## Nghỉ giữa đèo cho xe ga nguội
 
@@ -59,7 +59,7 @@ Khi đã dừng:
 4. Uống nước, giãn bàn tay vặn ga và vai; tay mỏi cũng làm ga kém đều.
 5. Chỉ đi tiếp khi mùi nóng đã tan hẳn. Trời nắng thì nên nghỉ lâu hơn.
 
-Nhịp nghỉ cho cả hành trình còn liên quan tới cách bạn chạy trước và sau đèo, bài về [giữ máy và nghỉ đúng nhịp khi chạy chặng dài về quê](/xe-may/2026/10/10/xe-tay-ga-chay-chang-dai-ve-que-giu-may-va-nghi-ung-nhip/) bổ sung phần này.
+Nhịp nghỉ cho cả hành trình còn liên quan tới cách bạn chạy trước và sau đèo, bài về [giữ máy và nghỉ đúng nhịp khi chạy chặng dài về quê](/xe-may/2026/10/10/xe-tay-ga-chay-chang-dai-ve-que-giu-may-va-nghi-dung-nhip/) bổ sung phần này.
 
 ## Dấu hiệu xe ga đang quá tải trên đèo
 
@@ -75,7 +75,7 @@ Gặp một trong các dấu hiệu đó, hãy nhả ga từ từ, bật xi nhan
 
 ## Xuống đèo và chuẩn bị trước khi rời Hà Nội
 
-Phanh động cơ của xe ga yếu hơn xe số, nên xe dễ trôi nhanh hơn bạn tưởng. Hãy giữ tốc độ thấp ngay từ đầu dốc, bóp cả phanh trước lẫn phanh sau theo từng nhịp ngắn thay vì rà phanh liên tục, vì má phanh nóng thì hiệu quả giảm đúng lúc bạn cần nhất. Nếu phải dừng rồi đi lại giữa dốc, cách làm giống dốc cầu vượt quen thuộc: xem lại [cách giữ phanh và ga để không tụt lùi](/xe-may/2026/10/11/xe-ga-khoi-hanh-lai-giua-doc-cau-vuot-giu-phanh-va-ga-e-khong-tut-lui/), chỉ khác là đèo dài hơn và có xe sau nên cần xi nhan, gương cẩn thận hơn.
+Phanh động cơ của xe ga yếu hơn xe số, nên xe dễ trôi nhanh hơn bạn tưởng. Hãy giữ tốc độ thấp ngay từ đầu dốc, bóp cả phanh trước lẫn phanh sau theo từng nhịp ngắn thay vì rà phanh liên tục, vì má phanh nóng thì hiệu quả giảm đúng lúc bạn cần nhất. Nếu phải dừng rồi đi lại giữa dốc, cách làm giống dốc cầu vượt quen thuộc: xem lại [cách giữ phanh và ga để không tụt lùi](/xe-may/2026/10/11/xe-ga-khoi-hanh-lai-giua-doc-cau-vuot-giu-phanh-va-ga-de-khong-tut-lui/), chỉ khác là đèo dài hơn và có xe sau nên cần xi nhan, gương cẩn thận hơn.
 
 Phần lớn chuyện khó chịu giữa đèo có thể giảm từ hôm trước. Kiểm tra lốp, phanh trước và sau, đèn, xăng đủ cho cả chặng lên lẫn chặng về, và mức nước làm mát nếu xe dùng làm mát bằng nước. Xuất phát sớm để tránh nắng gắt khi leo. Nếu thuê xe, hãy nói rõ ý định lên Tam Đảo hay Ba Vì khi hỏi Nguyễn Tú (112 Nguyễn Văn Cừ, Bồ Đề, Long Biên) để trao đổi trước về dòng xe phù hợp.
 

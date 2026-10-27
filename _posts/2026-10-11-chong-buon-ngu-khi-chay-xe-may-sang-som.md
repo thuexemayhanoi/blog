@@ -33,7 +33,7 @@ Phần lớn cuộc chiến với cơn buồn ngủ được quyết định tr�
 - Soạn sẵn áo ấm, găng tay, nước uống.
 - Vạch trước các điểm dừng dự kiến như trạm xăng, quán ven đường, bãi đỗ rộng. Khi điểm nghỉ đã có sẵn trong đầu, bạn ít bị cám dỗ "cố thêm chút nữa".
 
-Nếu đêm qua ngủ ít hơn bình thường, đừng ép mình theo đúng giờ đã định. Bài về [rủi ro khi lên xe trong lúc thiếu ngủ](/ky-nang/2026-09-29-chay-xe-khi-ang-met-hay-thieu-ngu-rui-ro/) giải thích vì sao lùi giờ xuất phát vẫn tốt hơn cố chạy đúng lịch.
+Nếu đêm qua ngủ ít hơn bình thường, đừng ép mình theo đúng giờ đã định. Bài về [rủi ro khi lên xe trong lúc thiếu ngủ](/ky-nang/2026-09-29-chay-xe-khi-dang-met-hay-thieu-ngu-rui-ro/) giải thích vì sao lùi giờ xuất phát vẫn tốt hơn cố chạy đúng lịch.
 
 Với người thuê xe cho chuyến đi sớm, cửa hàng Nguyễn Tú mở từ 09:00 đến 21:00 và không giao xe ngoài giờ này, nên hãy hỏi trực tiếp về thời điểm nhận xe trước khi chốt kế hoạch.
 

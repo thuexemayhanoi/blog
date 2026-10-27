@@ -71,7 +71,7 @@ Khi lái xe, vai thường chúi và tròn về phía trước. Đứng thẳng,
 
 Tay phải duỗi thẳng ra trước, lòng bàn tay hướng xuống, tay trái kéo nhẹ các ngón về phía thân người. Giữ vài nhịp, rồi lật bàn tay ngửa lên và làm lại. Đổi sang tay kia. Cổ tay và cẳng tay phải giữ ga, phanh nên bài này giảm căng cho cả chuỗi từ tay lên vai.
 
-Nếu thấy chưa đủ, [chuỗi bài tập nghỉ dọc đường cho vai và lưng](/ky-nang/2026/10/04/moi-vai-lung-khi-chay-xe-uong-dai-bai-tap-nghi-doc-uong/) bổ sung thêm một bộ động tác khác để bạn xen kẽ.
+Nếu thấy chưa đủ, [chuỗi bài tập nghỉ dọc đường cho vai và lưng](/ky-nang/2026/10/04/moi-vai-lung-khi-chay-xe-duong-dai-bai-tap-nghi-doc-duong/) bổ sung thêm một bộ động tác khác để bạn xen kẽ.
 
 ## Nhịp nghỉ và những thói quen nhỏ trên đường
 

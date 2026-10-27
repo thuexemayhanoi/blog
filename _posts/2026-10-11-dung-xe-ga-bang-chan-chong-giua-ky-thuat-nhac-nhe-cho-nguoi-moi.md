@@ -30,7 +30,7 @@ Ba việc nhỏ này quyết định xe lên nhẹ hay nặng, nên làm trướ
 - **Dọn đồ nặng.** Cốp chất đầy áo mưa, laptop, chai nước hay túi mua sắm treo móc trước đều làm xe nặng thêm. Lấy ra trước, dựng xong để lại sau. Người ngồi sau cũng phải xuống xe.
 - **Nhìn nền và khoảng trống.** Khi bánh sau rời đất, xe nhích về phía trước một chút. Phía trước không nên sát tường, sát xe khác hay ngay mép bậc thềm.
 
-Nếu bạn hay chở thêm người hoặc đồ, xe càng nặng thì thao tác càng cần chuẩn. Bài [chọn xe ga thuê cho người hay đi hai người](/xe-may/2026/10/09/xe-ga-thue-cho-nguoi-hay-i-hai-nguoi-nen-chon-may-nao/) nói thêm về kiểu đi này.
+Nếu bạn hay chở thêm người hoặc đồ, xe càng nặng thì thao tác càng cần chuẩn. Bài [chọn xe ga thuê cho người hay đi hai người](/xe-may/2026/10/09/xe-ga-thue-cho-nguoi-hay-di-hai-nguoi-nen-chon-may-nao/) nói thêm về kiểu đi này.
 
 ## Cách dựng chân chống giữa xe tay ga theo từng bước
 

@@ -72,13 +72,13 @@ Nếu xe bắt đầu lạng, đừng phanh gấp. Hãy nhả ga từ từ, nhì
 
 ## Chở đồ phía sau: nhẹ càng dễ bị gió nắm
 
-Người thuê Wave hay chở thêm đồ: thùng hàng, bao đồ ở trọ, vali về quê. Đồ cồng kềnh buộc phía sau biến chiếc xe vốn nhẹ thành một tấm "cánh buồm", trọng tâm lại bị đẩy lên cao nên gió ngang càng dễ làm xe mất thăng bằng. Nếu bạn định [chở đồ về quê cuối tuần](/xe-may/2026/10/03/honda-wave-cho-o-ve-que-cuoi-tuan/) bằng Wave, hãy gom đồ gọn, thấp, sát thân xe, và đi chậm hơn bình thường ở những đoạn cầu hoặc đê trống.
+Người thuê Wave hay chở thêm đồ: thùng hàng, bao đồ ở trọ, vali về quê. Đồ cồng kềnh buộc phía sau biến chiếc xe vốn nhẹ thành một tấm "cánh buồm", trọng tâm lại bị đẩy lên cao nên gió ngang càng dễ làm xe mất thăng bằng. Nếu bạn định [chở đồ về quê cuối tuần](/xe-may/2026/10/03/honda-wave-cho-do-ve-que-cuoi-tuan/) bằng Wave, hãy gom đồ gọn, thấp, sát thân xe, và đi chậm hơn bình thường ở những đoạn cầu hoặc đê trống.
 
 Người ngồi sau thường làm xe bớt bồng bềnh nhờ thêm khối lượng, nhưng nếu họ ngồi lệch hay nghiêng ngược xe thì cảm giác lạng càng rõ. Hãy dặn người sau ngồi thẳng, bám chắc và nghiêng cùng bạn.
 
 ## Wave nhẹ có hợp với bạn không?
 
-Nếu bạn ở trong ngõ nhỏ, hay dắt xe vào sân hẹp và chủ yếu chạy nội thành, cái nhẹ của Wave là lợi thế thật. Nếu bạn thường qua cầu lớn, đi đê ven sông hoặc cùng làn với xe tải, Wave vẫn đáp ứng được, miễn là bạn nắm cách cầm lái ở trên. Bạn có thể đối chiếu thêm với bài [Honda Wave hợp với nhu cầu thuê nào](/xe-may/2026/09/27/honda-wave-hop-voi-nhu-cau-thue-nao/), còn nếu mới cầm xe số, hãy xem [thuê Honda Wave cho người mới](/xe-may/2026/09/27/thue-honda-wave-cho-nguoi-moi-vi-sao-hay-uoc-chon/).
+Nếu bạn ở trong ngõ nhỏ, hay dắt xe vào sân hẹp và chủ yếu chạy nội thành, cái nhẹ của Wave là lợi thế thật. Nếu bạn thường qua cầu lớn, đi đê ven sông hoặc cùng làn với xe tải, Wave vẫn đáp ứng được, miễn là bạn nắm cách cầm lái ở trên. Bạn có thể đối chiếu thêm với bài [Honda Wave hợp với nhu cầu thuê nào](/xe-may/2026/09/27/honda-wave-hop-voi-nhu-cau-thue-nao/), còn nếu mới cầm xe số, hãy xem [thuê Honda Wave cho người mới](/xe-may/2026/09/27/thue-honda-wave-cho-nguoi-moi-vi-sao-hay-duoc-chon/).
 
 Khi nhận xe tại Nguyễn Tú (112 Nguyễn Văn Cừ, Bồ Đề, Long Biên), bạn nên dắt thử xe vài mét, đạp thử cần số, chạy một đoạn ngắn lúc đường vắng để quen trọng lượng và độ nhạy tay lái trước khi ra tuyến lớn. Cần hỏi thêm, bạn gọi 0942 467 674 trong giờ 09:00 đến 21:00.
 

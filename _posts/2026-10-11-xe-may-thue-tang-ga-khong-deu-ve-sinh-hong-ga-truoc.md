@@ -74,7 +74,7 @@ Gặp xe hụt ga, nhiều người có phản xạ làm ngay những việc dư
 Ga không đều là triệu chứng chung, nhiều nguyên nhân cùng cho ra cảm giác ấy. Bugi mòn, lọc gió bí, hệ thống đánh lửa yếu cũng khiến ga giật. Vài dấu hiệu thường nghiêng về hướng khác:
 
 - Ga không đều kèm tiếng gõ lạ từ máy: đọc thêm về [máy kêu lục cục khi tăng ga](/xe-may/2026/10/09/xe-may-thue-may-keu-luc-cuc-khi-tang-ga/).
-- Cả xe rung giật rõ mỗi lần tăng tốc: xem [rung giật khi tăng tốc và có nên chạy tiếp](/xe-may/2026/09/29/xe-thue-rung-giat-khi-tang-toc-co-nen-tiep-tuc-i/).
+- Cả xe rung giật rõ mỗi lần tăng tốc: xem [rung giật khi tăng tốc và có nên chạy tiếp](/xe-may/2026/09/29/xe-thue-rung-giat-khi-tang-toc-co-nen-tiep-tuc-di/).
 - Triệu chứng bắt đầu sau khi đi qua đoạn ngập hoặc gặp mưa lớn: tham khảo [nguyên nhân xe chết máy khi trời mưa](/xe-may/2026/09/29/xe-thue-chet-may-khi-troi-mua-nguyen-nhan-thuong-gap/).
 - Đèn báo lỗi sáng trên bảng đồng hồ, có mùi khét hoặc khói lạ: dừng xe, tắt máy và gọi báo, đừng chạy tiếp.
 

@@ -48,7 +48,7 @@ Từ phố cổ, hãy lên Hồ Tây bằng đường Thanh Niên, con đường
 
 Đừng chủ quan vì đường rộng. Nhiều người dừng chụp ảnh sát lề, xe đạp thong thả, người đi bộ băng ngang bất ngờ. Xe nhẹ nên gió ngang từ mặt hồ cũng làm tay lái hơi chao, hãy giữ tốc độ vừa phải và hai tay chắc trên ghi đông.
 
-Đi tiếp theo hướng các đường Quảng An, Xuân Diệu, bạn gặp rất nhiều quán cà phê nhìn ra hồ. Với một ngày ngắn và tay lái còn mới, nửa vòng hồ là đủ. Chọn quán có chỗ gửi xe, ngồi ngắm nắng chiều đổ xuống mặt nước. Muốn biết thêm cảm giác lái xe này giữa phố đông, bài [Honda Vision đi phố nhẹ và tiện thế nào](/xe-may/2026/09/27/honda-vision-i-pho-nhe-va-tien-the-nao/) kể khá sát thực tế.
+Đi tiếp theo hướng các đường Quảng An, Xuân Diệu, bạn gặp rất nhiều quán cà phê nhìn ra hồ. Với một ngày ngắn và tay lái còn mới, nửa vòng hồ là đủ. Chọn quán có chỗ gửi xe, ngồi ngắm nắng chiều đổ xuống mặt nước. Muốn biết thêm cảm giác lái xe này giữa phố đông, bài [Honda Vision đi phố nhẹ và tiện thế nào](/xe-may/2026/09/27/honda-vision-di-pho-nhe-va-tien-the-nao/) kể khá sát thực tế.
 
 ## Những đoạn và giờ nên tránh
 

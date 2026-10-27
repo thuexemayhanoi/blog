@@ -60,7 +60,7 @@ Quan trọng nhất là thứ tự: ga có lực rồi mới nhả phanh hết. 
 
 - **Tay phanh quá nhạy hoặc quá lỏng.** Nếu thấy xe vẫn nhích dù đã bóp hết cỡ, hoặc tay phanh có cảm giác lạ, xe rung khi phanh mạnh, đừng cố chịu. Bạn có thể đọc thêm [kiểm tra gì trước khi xe tay ga rung lúc phanh gấp](/xe-may/2026/10/11/xe-tay-ga-rung-khi-phanh-gap-kiem-tra-gi-truoc/) để biết các điểm hay gặp.
 
-- **Ga bò chậm không đều.** Nếu xe cứ giật hoặc ì khi bạn vặn ga rất nhẹ, khó tìm được điểm ly hợp bắt, hãy xem bài về [dấu hiệu cần kiểm tra khi xe ga bò chậm](/xe-may/2026/10/11/xe-tay-ga-kho-giu-ga-eu-khi-bo-cham-dau-hieu-can-kiem-tra/). Khởi hành trên dốc rất cần ga mượt ở vòng tua thấp.
+- **Ga bò chậm không đều.** Nếu xe cứ giật hoặc ì khi bạn vặn ga rất nhẹ, khó tìm được điểm ly hợp bắt, hãy xem bài về [dấu hiệu cần kiểm tra khi xe ga bò chậm](/xe-may/2026/10/11/xe-tay-ga-kho-giu-ga-deu-khi-bo-cham-dau-hieu-can-kiem-tra/). Khởi hành trên dốc rất cần ga mượt ở vòng tua thấp.
 
 ## Một chiều mưa ở cầu vượt: khi mặt đường trơn và xe chết máy
 

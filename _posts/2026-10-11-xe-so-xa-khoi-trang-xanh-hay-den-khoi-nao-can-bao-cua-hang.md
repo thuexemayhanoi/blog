@@ -75,7 +75,7 @@ Khi nghi ngờ, đừng chỉ nhắn "xe có khói lạ". Câu đó khiến ngư
 - Thời điểm xuất hiện: sáng sớm, xe nguội hay đã chạy xa, vừa xuống dốc hay đang chở nặng.
 - Hoàn cảnh đi kèm: có mùi gì, máy ì hay giật không, và xe đã từng như vậy chưa.
 
-Gặp khói dày kèm tiếng máy lạ, rung giật hoặc mùi khét nặng, hãy tấp vào lề an toàn, tắt máy và gọi báo, thay vì cố chạy cho xong chuyến. Nếu tiếng máy cũng bất thường, bạn có thể đọc thêm [những điều cần để ý khi tiếng máy xe số nổ to hơn bình thường](/xe-may/2026/10/03/tieng-may-xe-so-no-to-hon-binh-thuong-can-e-y-gi/) để mô tả chính xác hơn.
+Gặp khói dày kèm tiếng máy lạ, rung giật hoặc mùi khét nặng, hãy tấp vào lề an toàn, tắt máy và gọi báo, thay vì cố chạy cho xong chuyến. Nếu tiếng máy cũng bất thường, bạn có thể đọc thêm [những điều cần để ý khi tiếng máy xe số nổ to hơn bình thường](/xe-may/2026/10/03/tieng-may-xe-so-no-to-hon-binh-thuong-can-de-y-gi/) để mô tả chính xác hơn.
 
 Điều quan trọng nhất: không tự tháo ống xả, lọc gió hay bất kỳ bộ phận nào để xem. Với xe thuê, tự mở máy có thể làm mất dấu triệu chứng và gây rắc rối không đáng có. Ai chịu chi phí xử lý trong từng trường hợp là điều nên hỏi và xác nhận với Nguyễn Tú trước khi đặt xe, để mọi việc rõ ràng ngay từ đầu.
 

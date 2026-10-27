@@ -36,7 +36,7 @@ Nếu phải chọn một hướng cho chuyến đầu tiên ra xa, mình sẽ n
 
 Một lịch trình thực tế: sáng rời nội đô, ghé Đường Lâm dạo trong làng và ăn trưa, đầu giờ chiều ghé thành cổ rồi quay về trước khi trời tối. Nhiều người dồn sức vào lúc đi, tới chiều thì mỏi, mà chặng về lại rơi đúng giờ đường vào thành phố đông nhất. Hãy giữ sức cho chặng về.
 
-Nếu định mua đặc sản làng cổ mang về, hãy xem trước [hộc đựng đồ của Vision rộng đến đâu](/xe-may/2026/10/07/thue-honda-vision-cho-o-mua-sam-co-rong-khong/) để khỏi treo túi lỉnh kỉnh lên tay lái.
+Nếu định mua đặc sản làng cổ mang về, hãy xem trước [hộc đựng đồ của Vision rộng đến đâu](/xe-may/2026/10/07/thue-honda-vision-cho-do-mua-sam-co-rong-khong/) để khỏi treo túi lỉnh kỉnh lên tay lái.
 
 ## Thuê Vision đi Ba Vì: đoạn nào nên cân nhắc
 

@@ -58,7 +58,7 @@ Chọn điểm dừng cũng quan trọng không kém việc dừng:
 - Tránh dừng sát lề đường lớn đông xe, dưới chân dốc hoặc ngay sau khúc cua khuất tầm nhìn.
 - Dừng ở chỗ xe ra vào dễ, chống xe trên mặt phẳng chắc.
 
-Về nhịp nghỉ và lượng nước, bài [uống nước và nghỉ đúng nhịp khi chạy xe đường dài](/ky-nang/2026-09-29/uong-nuoc-va-nghi-ung-nhip-khi-chay-xe-uong-dai/) có thêm gợi ý.
+Về nhịp nghỉ và lượng nước, bài [uống nước và nghỉ đúng nhịp khi chạy xe đường dài](/ky-nang/2026-09-29/uong-nuoc-va-nghi-dung-nhip-khi-chay-xe-duong-dai/) có thêm gợi ý.
 
 ## Giãn nhẹ tại điểm nghỉ để giảm đau lưng khi lái xe
 
@@ -68,7 +68,7 @@ Mười phút ở điểm dừng chân dùng đúng cách đáng giá hơn nửa
 2. **Xoay vai chậm.** Nhún vai lên, xoay ra sau vài lần để nới cơ vai gáy đã gồng suốt chặng.
 3. **Gập người về trước nhẹ nhàng.** Đứng thẳng chân, cúi xuống đưa hai tay về phía đầu gối hoặc ống chân, để mặt sau đùi và lưng dưới giãn ra.
 
-Mỗi động tác làm chậm, hít thở đều, thấy căng nhẹ là đủ. Nếu thấy nhói hoặc đau tăng lên thì dừng lại. Bài [tư thế và điểm nghỉ khi đi xe đường dài](/ky-nang/2026/10/04/au-lung-khi-chay-xe-may-uong-dai-tu-the-va-iem-nghi/) có thêm gợi ý chia chặng nếu bạn cần.
+Mỗi động tác làm chậm, hít thở đều, thấy căng nhẹ là đủ. Nếu thấy nhói hoặc đau tăng lên thì dừng lại. Bài [tư thế và điểm nghỉ khi đi xe đường dài](/ky-nang/2026/10/04/dau-lung-khi-chay-xe-may-duong-dai-tu-the-va-diem-nghi/) có thêm gợi ý chia chặng nếu bạn cần.
 
 ## Khi nào nên dừng chuyến đi
 

@@ -67,16 +67,16 @@ Cách xử lý là rê phanh: khi đường phía trước thoáng và phía sau
 
 ## Dốc cầu, ngã tư và ngõ nhỏ ở Hà Nội
 
-Dốc lên xuống cầu vượt sông Hồng là chỗ đầu tiên: xuống dốc trên mặt đường ướt mà chỉ trông vào phanh thì phanh sẽ nóng và yếu dần. Hãy về số thấp bằng cần số chân, nhả ga nhẹ khi đổi số để động cơ giữ bớt tốc độ, rồi dùng phanh bổ trợ. Bài về [chuẩn bị khi đi Wave qua đoạn đèo](/xe-may/2026/09/30/i-honda-wave-uong-eo-can-chuan-bi-gi/) nói kỹ thêm nguyên tắc xuống dốc này.
+Dốc lên xuống cầu vượt sông Hồng là chỗ đầu tiên: xuống dốc trên mặt đường ướt mà chỉ trông vào phanh thì phanh sẽ nóng và yếu dần. Hãy về số thấp bằng cần số chân, nhả ga nhẹ khi đổi số để động cơ giữ bớt tốc độ, rồi dùng phanh bổ trợ. Bài về [chuẩn bị khi đi Wave qua đoạn đèo](/xe-may/2026/09/30/di-honda-wave-duong-deo-can-chuan-bi-gi/) nói kỹ thêm nguyên tắc xuống dốc này.
 
 Ngã tư đông lúc tan tầm là chỗ thứ hai. Vạch sơn dành cho người đi bộ và nắp cống rất trơn khi ướt, nên hãy giảm tốc từ xa và tránh phanh ngay trên chúng. Mưa đầu mùa còn cuốn dầu nhớt đọng lên mặt đường, nên những phút đầu cơn mưa thường là lúc đường trơn nhất.
 
-Thứ ba là ngõ nhỏ khu phố cổ: đường hẹp, mặt gạch bóng, xe máy và người đi bộ đan xen. Hãy chạy thật chậm và dùng phanh sau là chính, vì ghì phanh trước trên gạch ướt dễ làm bánh trước trượt. Nếu rời phố ra vùng ven, bạn có thể tham khảo cách xử lý [đường đá dăm vùng ven](/xe-may/2026/10/03/honda-wave-tren-uong-a-dam-vung-ven/), nơi mặt đường lỏng lẻo kết hợp với nước làm phanh càng khó đoán.
+Thứ ba là ngõ nhỏ khu phố cổ: đường hẹp, mặt gạch bóng, xe máy và người đi bộ đan xen. Hãy chạy thật chậm và dùng phanh sau là chính, vì ghì phanh trước trên gạch ướt dễ làm bánh trước trượt. Nếu rời phố ra vùng ven, bạn có thể tham khảo cách xử lý [đường đá dăm vùng ven](/xe-may/2026/10/03/honda-wave-tren-duong-da-dam-vung-ven/), nơi mặt đường lỏng lẻo kết hợp với nước làm phanh càng khó đoán.
 
 ## Kiểm tra nhanh trước và sau cơn mưa
 
 Trước khi ra đường, hãy kiểm tra độ rơ của tay phanh và cần phanh: nếu phải bóp hoặc đạp gần hết hành trình mới có lực thì xe cần được chỉnh lại. Nhìn lốp xem còn gai rõ không, vì lốp mòn trên đường ướt là bất lợi lớn hơn cả phanh yếu.
 
-Sau cơn mưa, hãy chạy chậm, rê phanh vài lần cho khô rồi mới tăng tốc. Nếu đang đi xa, hãy tìm điểm nghỉ chờ mưa tạnh thay vì cố đi tiếp, đúng như hướng dẫn về [tốc độ thoải mái và điểm nghỉ khi đi đường dài](/xe-may/2026/10/11/i-honda-wave-uong-dai-toc-o-thoai-mai-va-iem-nghi/).
+Sau cơn mưa, hãy chạy chậm, rê phanh vài lần cho khô rồi mới tăng tốc. Nếu đang đi xa, hãy tìm điểm nghỉ chờ mưa tạnh thay vì cố đi tiếp, đúng như hướng dẫn về [tốc độ thoải mái và điểm nghỉ khi đi đường dài](/xe-may/2026/10/11/di-honda-wave-duong-dai-toc-do-thoai-mai-va-diem-nghi/).
 
 Nếu đang cân nhắc thuê xe số cho mùa mưa, hãy đọc thêm về [dòng xe Honda Wave](/xe-may/honda-wave/) và các lựa chọn khác ở mục [xe máy](/xe-may/) trước khi quyết định.

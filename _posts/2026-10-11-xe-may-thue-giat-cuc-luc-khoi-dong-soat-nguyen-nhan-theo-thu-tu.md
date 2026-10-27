@@ -62,7 +62,7 @@ Cả ba thứ này bạn chỉ nên nhận biết, không nên tự chỉnh. Đ�
 
 Nếu máy êm, đứng yên không sao, nhưng nhấp ga là xe giật cục như có ai ghì từ phía sau, thủ phạm thường nằm ở khâu truyền lực chứ không phải ở máy.
 
-- **Xe ga:** bộ nồi hoặc dây curoa mòn, bám dầu bụi khiến lực truyền không mượt, rõ nhất lúc vừa nhấp ga từ trạng thái đứng yên. Bài [xe ga thuê bị tuột dây côn, khởi động chậm](/xe-may/2026/10/09/xe-ga-thue-bi-tuot-day-con-khoi-ong-cham/) mô tả kỹ các dấu hiệu này.
+- **Xe ga:** bộ nồi hoặc dây curoa mòn, bám dầu bụi khiến lực truyền không mượt, rõ nhất lúc vừa nhấp ga từ trạng thái đứng yên. Bài [xe ga thuê bị tuột dây côn, khởi động chậm](/xe-may/2026/10/09/xe-ga-thue-bi-tuot-day-con-khoi-dong-cham/) mô tả kỹ các dấu hiệu này.
 - **Xe số:** côn mòn, xích khô hoặc chùng làm xe giật khi vào số. Hãy thử nhả côn thật từ từ, vì nhiều khi lỗi nằm ở thói quen tay chứ không phải ở xe.
 - **Chân máy:** bu lông lỏng hoặc cao su giảm chấn chai khiến cả khối máy rung truyền lên tay lái và yên.
 

@@ -66,7 +66,7 @@ Hình dung một ngày điển hình: bạn lấy xe ở Long Biên, qua cầu C
 3. Ngăn dưới yên (nếu còn chỗ): áo mưa gấp gọn trong túi nilon.
 4. Móc treo phía trước (nếu xe có): chỉ một túi nhẹ, không treo đồ nặng.
 
-Nếu chở thêm người ngồi sau, hãy để người đó đeo túi trước ngực thay vì sau lưng, vì xe chở hai người đã nặng đuôi, thêm túi to thì càng khó giữ thăng bằng. Cảm giác lái lúc đó được kể trong bài [Wave thuê có nhồi ì khi chở hai người không](/xe-may/2026/10/09/honda-wave-thue-co-nhoi-i-khi-cho-hai-nguoi-khong/). Còn nếu định chạy xa hơn, hãy giảm bớt đồ, và xem thêm bài [Wave chạy đường dài có bền không](/xe-may/2026/10/10/honda-wave-co-ben-khi-chay-uong-dai-khong/).
+Nếu chở thêm người ngồi sau, hãy để người đó đeo túi trước ngực thay vì sau lưng, vì xe chở hai người đã nặng đuôi, thêm túi to thì càng khó giữ thăng bằng. Cảm giác lái lúc đó được kể trong bài [Wave thuê có nhồi ì khi chở hai người không](/xe-may/2026/10/09/honda-wave-thue-co-nhoi-i-khi-cho-hai-nguoi-khong/). Còn nếu định chạy xa hơn, hãy giảm bớt đồ, và xem thêm bài [Wave chạy đường dài có bền không](/xe-may/2026/10/10/honda-wave-co-ben-khi-chay-duong-dai-khong/).
 
 ## Gửi xe giữa phố: đừng để đồ quý lại trên xe
 

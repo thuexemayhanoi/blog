@@ -26,7 +26,7 @@ Rủi ro chia làm ba nhóm. Thứ nhất là mệt mỏi: sau một đêm thứ
 
 Có một điểm lệch giờ mà người đi ca đêm hay bỏ sót: cửa hàng cho thuê thường chỉ làm việc ban ngày. Tại Thuê Xe Máy Hà Nội Nguyễn Tú (112 Nguyễn Văn Cừ, Bồ Đề, Long Biên), giờ làm việc là 09:00–21:00 và không giao xe ngoài giờ này, nên bạn cần hẹn nhận xe từ ban ngày, trước ca làm đầu tiên.
 
-Về loại xe, hãy chọn chiếc bạn quen tay và kiểm soát dễ khi đang mệt. Nếu ca đêm kéo dài nhiều tháng, bài [thuê xe máy dài hạn cho người đi làm trong nội thành](/thue-xe/2026/09/29/thue-xe-may-dai-han-cho-nguoi-i-lam-trong-noi-thanh/) giúp bạn tính cách thuê theo kỳ cho hợp túi tiền.
+Về loại xe, hãy chọn chiếc bạn quen tay và kiểm soát dễ khi đang mệt. Nếu ca đêm kéo dài nhiều tháng, bài [thuê xe máy dài hạn cho người đi làm trong nội thành](/thue-xe/2026/09/29/thue-xe-may-dai-han-cho-nguoi-di-lam-trong-noi-thanh/) giúp bạn tính cách thuê theo kỳ cho hợp túi tiền.
 
 Khi nhận xe, dành mười phút kiểm tra ngay ban ngày các hạng mục sống còn về đêm:
 
@@ -42,7 +42,7 @@ Có gì chưa ổn, hãy yêu cầu xử lý hoặc ghi lại ngay lúc nhận, 
 
 Thói quen nguy hiểm nhất là vừa chấm công xong đã vội lên xe. Hãy ngồi lại vài phút, rửa mặt, uống nước và kiểm tra điện thoại còn đủ pin. Nếu mắt cay, ngáp liên tục, hay vừa lơ đãng qua một đoạn đường mà không nhớ gì, đó là dấu hiệu nên dừng. Chợp mắt ngắn ở nơi an toàn, đi cùng đồng nghiệp cùng hướng hoặc đợi trời sáng hơn đều tốt hơn là cố về cho xong. Nếu kiệt sức hay mất ngủ kéo dài, hãy trao đổi với nhân viên y tế thay vì tự xoay xở.
 
-Vài chuẩn bị nhỏ nhưng có ích: mặc áo sáng màu hoặc có dải phản quang, đội mũ bảo hiểm cài quai đúng cách, đeo kính để tránh bụi và côn trùng, để sẵn áo mưa trong cốp. Nhắn cho người nhà giờ dự kiến về, đến nơi thì nhắn lại. Người trực đêm ở bệnh viện cũng có thói quen tương tự, bạn có thể tham khảo trong bài [thuê xe máy cho bác sĩ trực ca đêm cần lưu ý gì](/thue-xe/2026/10/09/thue-xe-may-cho-bac-si-truc-ca-em-can-luu-y-gi/).
+Vài chuẩn bị nhỏ nhưng có ích: mặc áo sáng màu hoặc có dải phản quang, đội mũ bảo hiểm cài quai đúng cách, đeo kính để tránh bụi và côn trùng, để sẵn áo mưa trong cốp. Nhắn cho người nhà giờ dự kiến về, đến nơi thì nhắn lại. Người trực đêm ở bệnh viện cũng có thói quen tương tự, bạn có thể tham khảo trong bài [thuê xe máy cho bác sĩ trực ca đêm cần lưu ý gì](/thue-xe/2026/10/09/thue-xe-may-cho-bac-si-truc-ca-dem-can-luu-y-gi/).
 
 ## Chọn tuyến để về nhà đêm an toàn
 
@@ -52,7 +52,7 @@ Thử hình dung một công nhân làm ở khu công nghiệp ngoại thành, �
 
 Một tình huống khác là nhân viên nhà hàng ở khu phố cổ tan ca khi phố đã vắng. Ngõ nhỏ lúc này tối, mặt đường có thể ướt do rửa phố, đôi khi có chó thả rông. Hãy ra các trục đường lớn sớm nhất có thể, thay vì cắt qua những con ngõ chưa từng đi.
 
-Mẹo nên làm: vào ngày nghỉ, khi chưa mệt, hãy chạy thử tuyến về lúc trời tối một lần để biết đoạn nào thiếu sáng, đoạn nào đông xe tải. Cách chia tuyến và thời gian đi lại mỗi ngày còn được kể thêm trong bài [đi lại hằng ngày an toàn cho người đi làm bằng xe thuê](/thue-xe/2026/10/01/thue-xe-may-cho-nguoi-i-lam-i-lai-hang-ngay-an-toan/).
+Mẹo nên làm: vào ngày nghỉ, khi chưa mệt, hãy chạy thử tuyến về lúc trời tối một lần để biết đoạn nào thiếu sáng, đoạn nào đông xe tải. Cách chia tuyến và thời gian đi lại mỗi ngày còn được kể thêm trong bài [đi lại hằng ngày an toàn cho người đi làm bằng xe thuê](/thue-xe/2026/10/01/thue-xe-may-cho-nguoi-di-lam-di-lai-hang-ngay-an-toan/).
 
 ## Lái xe ban đêm: vài thói quen nên giữ
 

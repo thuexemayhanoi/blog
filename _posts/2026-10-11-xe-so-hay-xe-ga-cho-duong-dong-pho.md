@@ -52,13 +52,13 @@ Xe số là lựa chọn hợp lý nếu bạn đi một mình, ít mang đồ v
 
 ### Bạn đi nhiều điểm trong ngày, mang đồ hoặc chở thêm người
 
-Xe ga thường hợp hơn nhờ chỗ để chân, cốp và tư thế ngồi ổn định. Nếu hay đi hai người, bài [chọn xe thuê cho người hay đi hai người](/xe-may/2026/10/07/chon-xe-may-thue-cho-nguoi-hay-i-hai-nguoi/) có thêm vài điểm cần cân nhắc.
+Xe ga thường hợp hơn nhờ chỗ để chân, cốp và tư thế ngồi ổn định. Nếu hay đi hai người, bài [chọn xe thuê cho người hay đi hai người](/xe-may/2026/10/07/chon-xe-may-thue-cho-nguoi-hay-di-hai-nguoi/) có thêm vài điểm cần cân nhắc.
 
 ## Ngõ nhỏ và chuyện dắt xe
 
 Đi phố không chỉ có chạy mà còn có dắt. Bạn sẽ có lúc rẽ vào ngõ nhỏ khu phố cổ, lùi xe vào chỗ gửi chật cứng hay đẩy xe qua đoạn vỉa hè hẹp. Những lúc đó, độ gọn và độ cao yên quan trọng hơn việc xe có số hay không.
 
-Cách kiểm tra đơn giản: ngồi lên xe, hai chân chạm đất vững là đạt. Nếu phải kiễng chân, bạn sẽ mệt mỗi lần dừng và dễ loạng choạng khi xe nghiêng. Về chuyện có nên chọn dòng đắt tiền cho khu phố cổ, bạn có thể đọc thêm bài [xe đắt tiền có đáng với phố cổ](/xe-may/2026/09/29/co-nen-thue-xe-cao-cap-khi-chi-i-pho-co/).
+Cách kiểm tra đơn giản: ngồi lên xe, hai chân chạm đất vững là đạt. Nếu phải kiễng chân, bạn sẽ mệt mỗi lần dừng và dễ loạng choạng khi xe nghiêng. Về chuyện có nên chọn dòng đắt tiền cho khu phố cổ, bạn có thể đọc thêm bài [xe đắt tiền có đáng với phố cổ](/xe-may/2026/09/29/co-nen-thue-xe-cao-cap-khi-chi-di-pho-co/).
 
 ## Cả ngày dài và những cơn mưa bất chợt
 
@@ -75,7 +75,7 @@ Ba phút ngồi lên xe đáng giá hơn bất kỳ bài so sánh nào. Trước
 - Thử phanh trước và phanh sau để biết xe ăn phanh thế nào.
 - Bật xi nhan, còi, đèn và nhìn gương xem tầm quan sát có ổn với dáng ngồi của bạn.
 
-Nếu trong vài phút đầu bạn đã thấy tay hoặc chân đang gồng, đó là tín hiệu nên đổi sang loại xe còn lại. Chuyến đi có đoạn ra ngoại ô thì bài về [chặng đường trường nên chọn xe số hay xe ga](/xe-may/2026/09/29/i-uong-truong-thue-xe-so-hay-xe-ga/) sẽ hữu ích hơn.
+Nếu trong vài phút đầu bạn đã thấy tay hoặc chân đang gồng, đó là tín hiệu nên đổi sang loại xe còn lại. Chuyến đi có đoạn ra ngoại ô thì bài về [chặng đường trường nên chọn xe số hay xe ga](/xe-may/2026/09/29/di-duong-truong-thue-xe-so-hay-xe-ga/) sẽ hữu ích hơn.
 
 ## Giá và việc cần hỏi trước khi đặt
 
