@@ -33,7 +33,7 @@ Người lớn tuổi cần xe thấp yên, nhẹ, dắt dễ và không phải 
 
 ### Honda Vision
 
-Vision là xe ga nhỏ, yên thấp, dắt vào hầm gửi xe chung cư hay ngõ hẹp đều nhẹ nhàng. Cốp đủ để áo mưa, sàn để chân phẳng. Những ưu điểm này được phân tích kỹ trong bài [người cao tuổi đi xe máy thuê nên chọn xe thế nào](/thue-xe/2026/09/29/nguoi-cao-tuoi-i-xe-may-thue-nen-chon-xe-nhu-the-nao/).
+Vision là xe ga nhỏ, yên thấp, dắt vào hầm gửi xe chung cư hay ngõ hẹp đều nhẹ nhàng. Cốp đủ để áo mưa, sàn để chân phẳng. Những ưu điểm này được phân tích kỹ trong bài [người cao tuổi đi xe máy thuê nên chọn xe thế nào](/thue-xe/2026/09/29/nguoi-cao-tuoi-di-xe-may-thue-nen-chon-xe-nhu-the-nao/).
 
 ### Honda Click hoặc Yamaha Mio
 
@@ -76,7 +76,7 @@ Số điện thoại tiệm là 0942467674, con cháu có thể gọi hộ ông 
 - **Tránh giờ cao điểm khi có thể.** Giờ đón cháu chiều hay trùng giờ tan tầm trên Nguyễn Văn Cừ, Ngọc Lâm hay quanh khu đô thị Việt Hưng. Đi sớm mười lăm phút sẽ đỡ chen.
 - **Không chở đồ chợ cùng lúc chở cháu.** Túi rau lủng lẳng ở móc xe khi cháu ngồi sau làm xe khó lái.
 
-Lời khuyên thêm cho gia đình có trẻ nhỏ ngồi xe máy có trong bài [thuê xe máy cho gia đình có trẻ nhỏ đi cùng](/thue-xe/2026/09/29/thue-xe-may-cho-gia-inh-co-tre-nho-i-cung/).
+Lời khuyên thêm cho gia đình có trẻ nhỏ ngồi xe máy có trong bài [thuê xe máy cho gia đình có trẻ nhỏ đi cùng](/thue-xe/2026/09/29/thue-xe-may-cho-gia-dinh-co-tre-nho-di-cung/).
 
 ## Đi chợ và các chuyến lặt vặt trong khu
 

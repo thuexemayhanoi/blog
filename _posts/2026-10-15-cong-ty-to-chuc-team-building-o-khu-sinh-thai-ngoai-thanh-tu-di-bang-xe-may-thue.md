@@ -40,7 +40,7 @@ Buổi sáng, đường ra khỏi nội thành qua Long Biên, Gia Lâm hay hư�
 
 1. **Người dẫn đầu** thuộc đường, chạy tốc độ vừa phải để người yếu tay lái theo kịp. Đường đi chọn theo chỉ dẫn bản đồ ở chế độ xe máy, tuyệt đối không đi vào cao tốc, Đại lộ Thăng Long làn chính hay cầu Thanh Trì, Vành đai 3 trên cao vì đều cấm xe máy.
 2. **Người khóa đuôi** đi sau cùng, không bao giờ vượt lên. Nếu có xe tụt lại hay hỏng, người khóa đuôi dừng cùng và báo cho cả nhóm.
-3. **Chạy hàng một, giữ khoảng cách**, không chạy hàng ngang tán chuyện. Cách giữ cự ly an toàn khi đi đoàn có trong bài [giữ khoảng cách khi đi xe theo nhóm](/ky-nang/2026/10/10/giu-khoang-cach-khi-i-xe-theo-nhom/).
+3. **Chạy hàng một, giữ khoảng cách**, không chạy hàng ngang tán chuyện. Cách giữ cự ly an toàn khi đi đoàn có trong bài [giữ khoảng cách khi đi xe theo nhóm](/ky-nang/2026/10/10/giu-khoang-cach-khi-di-xe-theo-nhom/).
 4. **Hẹn điểm gom quân** ở trạm xăng hoặc quán nước dễ nhận ra trước khi rẽ vào đường làng dẫn tới khu sinh thái.
 
 Lập một nhóm Zalo riêng cho những người đi xe máy, gửi vị trí điểm hẹn lên đó từ tối hôm trước.

@@ -34,7 +34,7 @@ Có khách hỏi tôi: "Xin số người nhà là để gọi mách bố mẹ �
 
 ## Số liên hệ phụ khi thuê xe không phải bảo lãnh
 
-Giấy tờ tùy thân và hợp đồng xác định ai là người thuê, ai chịu trách nhiệm với chiếc xe. Thông thường, người có số liên hệ phụ không ký, không đứng tên và không tự động phải gánh thay bạn; họ chỉ nhận một cuộc gọi khi cửa hàng không liên lạc được với bạn. Nơi nào muốn người đó ký bảo lãnh thì phải nói rõ và người đó phải tự đồng ý. Trách nhiệm của người đứng tên gồm những gì, xem bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/).
+Giấy tờ tùy thân và hợp đồng xác định ai là người thuê, ai chịu trách nhiệm với chiếc xe. Thông thường, người có số liên hệ phụ không ký, không đứng tên và không tự động phải gánh thay bạn; họ chỉ nhận một cuộc gọi khi cửa hàng không liên lạc được với bạn. Nơi nào muốn người đó ký bảo lãnh thì phải nói rõ và người đó phải tự đồng ý. Trách nhiệm của người đứng tên gồm những gì, xem bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/).
 
 ## Nên cho số của ai
 

@@ -70,7 +70,7 @@ Những câu nên hỏi:
 - Giấy tờ cần mang theo có khác gì so với khi nhận xe tại khách sạn không?
 - Đặt cọc làm tại tiệm như thế nào?
 
-Mọi điều về chi phí và cọc đều phải xác nhận trực tiếp với tiệm. Đừng dựa vào suy đoán hay kinh nghiệm thuê xe ở nơi khác. Câu trả lời nên nằm trong tin nhắn để sau này đối chiếu. Nếu trước đó bạn đã chuyển khoản một khoản nào đó, giữ lại ảnh chụp giao dịch và hỏi tiệm cách ghi nhận khoản đó trong lịch mới. Về cọc khi giao tận nơi, bài [đặt cọc khi nhận xe máy giao tận nơi](/thue-xe/2026/09/30/at-coc-khi-nhan-xe-may-giao-tan-noi/) giải thích thêm.
+Mọi điều về chi phí và cọc đều phải xác nhận trực tiếp với tiệm. Đừng dựa vào suy đoán hay kinh nghiệm thuê xe ở nơi khác. Câu trả lời nên nằm trong tin nhắn để sau này đối chiếu. Nếu trước đó bạn đã chuyển khoản một khoản nào đó, giữ lại ảnh chụp giao dịch và hỏi tiệm cách ghi nhận khoản đó trong lịch mới. Về cọc khi giao tận nơi, bài [đặt cọc khi nhận xe máy giao tận nơi](/thue-xe/2026/09/30/dat-coc-khi-nhan-xe-may-giao-tan-noi/) giải thích thêm.
 
 ## Chuẩn bị cho buổi nhận xe tại tiệm
 
@@ -92,7 +92,7 @@ Sau khi nhận xe, bạn chạy ra đường Nguyễn Văn Cừ. Nếu chưa que
 
 ## Nếu đổi ý lần nữa
 
-Lịch có thể đổi tiếp: bạn lại muốn được giao, hoặc muốn lùi ngày nhận. Cứ nhắn càng sớm càng tốt theo đúng cách trên, và hỏi tiệm còn sắp xếp được không. Đừng mặc định là được, vì xe và người giao có thể đã xếp cho khách khác. Bài [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-oi-lich-nhan-xe/) nói kỹ hơn về việc đổi ngày.
+Lịch có thể đổi tiếp: bạn lại muốn được giao, hoặc muốn lùi ngày nhận. Cứ nhắn càng sớm càng tốt theo đúng cách trên, và hỏi tiệm còn sắp xếp được không. Đừng mặc định là được, vì xe và người giao có thể đã xếp cho khách khác. Bài [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-doi-lich-nhan-xe/) nói kỹ hơn về việc đổi ngày.
 
 ## Tóm lại
 

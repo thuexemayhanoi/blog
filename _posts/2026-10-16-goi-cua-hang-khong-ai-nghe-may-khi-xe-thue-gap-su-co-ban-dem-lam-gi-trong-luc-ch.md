@@ -41,14 +41,14 @@ Bạn không cần là thợ, chỉ cần phân biệt lỗi tự xử lý đư�
 ### Lỗi thường tự xử lý được trong đêm
 
 - **Hết xăng**: đề nổ rồi tắt, kim báo về vạch đỏ. Dắt đến cây xăng gần nhất, lưu ý không phải cây xăng nào cũng mở khuya. Chi tiết trong bài [xe thuê hết xăng giữa phố](/hoi-dap/2026/10/03/xe-thue-het-xang-giua-pho-goi-ai-va-lam-gi/).
-- **Thủng lốp chậm**: lốp mềm dần nhưng chưa xẹp hẳn, có thể dắt đến tiệm vá còn mở. Xem thêm [xe máy thuê thủng lốp giữa đường](/hoi-dap/2026/10/10/xe-may-thue-thung-lop-giua-uong/).
+- **Thủng lốp chậm**: lốp mềm dần nhưng chưa xẹp hẳn, có thể dắt đến tiệm vá còn mở. Xem thêm [xe máy thuê thủng lốp giữa đường](/hoi-dap/2026/10/10/xe-may-thue-thung-lop-giua-duong/).
 
 ### Lỗi nên dừng hẳn, không cố đi tiếp
 
 - Phanh rất yếu, bóp hết tay mới dừng.
 - Lốp nổ, xe lắc mạnh khi chạy.
 - Có khói, mùi khét, dầu chảy thành vệt dưới gầm.
-- Xe chết máy liên tục dù còn xăng. Bài [xe thuê chết máy giữa đường gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-uong-goi-ai/) có thêm phần kiểm tra cơ bản.
+- Xe chết máy liên tục dù còn xăng. Bài [xe thuê chết máy giữa đường gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-duong-goi-ai/) có thêm phần kiểm tra cơ bản.
 
 Với nhóm lỗi này, đừng tự chạy về chỗ ở dù chỉ còn hai ba cây số. Xe hư thêm là chuyện nhỏ, bạn ngã giữa đêm mới là chuyện lớn.
 

@@ -35,7 +35,7 @@ Tóm lại, nếu đèn chỉ sáng khi máy nổ và tắt khi tắt máy, xe c
 - Xe để nhiều ngày liền không chạy.
 - Ắc quy đã cũ, vốn là chuyện của bảo dưỡng chứ không liên quan đến đèn.
 
-Nếu một buổi sáng bấm đề thấy máy quay yếu, xem cách nhận biết trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/) rồi báo tiệm, đừng vội đổ lỗi cho đèn.
+Nếu một buổi sáng bấm đề thấy máy quay yếu, xem cách nhận biết trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/) rồi báo tiệm, đừng vội đổ lỗi cho đèn.
 
 ## Xe thuê không có công tắc tắt đèn thì có tốn xăng hơn không
 
@@ -55,7 +55,7 @@ Cũng đừng dán băng dính đen lên mặt đèn, rút giắc hay tháo bón
 
 Đèn sáng theo máy là bình thường. Các dấu hiệu sau thì khác, bạn nên dừng ở chỗ an toàn và báo cửa hàng:
 
-- **Máy đã nổ nhưng đèn trước không sáng**, cả pha lẫn cốt. Bài [đèn pha xe thuê không sáng khi đi đêm](/xe-may/2026/09/29/en-pha-xe-thue-khong-sang-khi-i-em-kiem-tra-gi/) có danh sách kiểm tra bằng mắt mà không phải đụng vào dây điện.
+- **Máy đã nổ nhưng đèn trước không sáng**, cả pha lẫn cốt. Bài [đèn pha xe thuê không sáng khi đi đêm](/xe-may/2026/09/29/den-pha-xe-thue-khong-sang-khi-di-dem-kiem-tra-gi/) có danh sách kiểm tra bằng mắt mà không phải đụng vào dây điện.
 - **Đèn chập chờn** khi xe đi qua gờ giảm tốc hoặc đoạn đường xóc.
 - **Đèn rất mờ, vàng đục** so với lúc nhận xe.
 - **Công tắc gạt không đổi được** giữa pha và cốt, hoặc chỉ một chế độ sáng.

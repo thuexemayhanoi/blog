@@ -75,7 +75,7 @@ Nếu lắp lại pin mà xe lên nguồn bình thường, vẫn nên nhắn c�
 - Vỏ pin phồng, nứt, rỉ dịch.
 - Xe vừa lội qua đường ngập hoặc để ngoài mưa lớn rồi mới mất nguồn.
 
-Gặp mùi khét, khói hay nóng bất thường: không sạc, không bật khóa lại, dắt xe ra xa người và đồ dễ cháy nếu làm được an toàn, báo bảo vệ tòa nhà; có lửa thì gọi 114 trước, gọi cửa hàng sau. Xe bị nước thì đừng bật tắt khóa nhiều lần; nguyên tắc để xe khô trước khi thử lại có trong bài [xe máy ướt nước mưa ngập đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-e-khong-no/), còn xe điện thì chờ cửa hàng hướng dẫn cụ thể.
+Gặp mùi khét, khói hay nóng bất thường: không sạc, không bật khóa lại, dắt xe ra xa người và đồ dễ cháy nếu làm được an toàn, báo bảo vệ tòa nhà; có lửa thì gọi 114 trước, gọi cửa hàng sau. Xe bị nước thì đừng bật tắt khóa nhiều lần; nguyên tắc để xe khô trước khi thử lại có trong bài [xe máy ướt nước mưa ngập đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-de-khong-no/), còn xe điện thì chờ cửa hàng hướng dẫn cụ thể.
 
 ## Gọi cửa hàng: nói gì để được hỗ trợ nhanh
 

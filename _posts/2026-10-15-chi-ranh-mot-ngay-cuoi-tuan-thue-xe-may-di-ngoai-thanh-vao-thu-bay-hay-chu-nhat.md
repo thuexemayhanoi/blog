@@ -45,7 +45,7 @@ Dù đi ngày nào, hãy để bản đồ ở chế độ xe máy. Cao tốc, �
 
 Ở các điểm đi trong ngày gần Hà Nội như làng gốm Bát Tràng, làng cổ Đường Lâm, Cổ Loa hay bãi ven sông Hồng, Chủ nhật thường là ngày đông hơn, vì cả gia đình có con nhỏ cũng chọn ngày này. Bãi gửi xe đầy sớm, quán ăn phải chờ, ảnh chụp lúc nào cũng có người lọt khung.
 
-Thứ Bảy, đặc biệt là buổi sáng, các điểm này thường dễ thở hơn. Ngược lại, những chỗ xa hơn, nơi người ta hay ngủ lại một đêm, có khi lại đông từ chiều thứ Bảy. Mỗi nơi một kiểu, nên nếu đã chọn điểm đến cụ thể, hãy hỏi người quen từng đi hoặc xem phản hồi gần đây trước khi quyết định. Bài [đi xe máy ra ngoại thành cuối tuần chọn hướng nào](/du-lich/2026/09/28/i-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao/) giúp bạn khoanh vùng hướng đi.
+Thứ Bảy, đặc biệt là buổi sáng, các điểm này thường dễ thở hơn. Ngược lại, những chỗ xa hơn, nơi người ta hay ngủ lại một đêm, có khi lại đông từ chiều thứ Bảy. Mỗi nơi một kiểu, nên nếu đã chọn điểm đến cụ thể, hãy hỏi người quen từng đi hoặc xem phản hồi gần đây trước khi quyết định. Bài [đi xe máy ra ngoại thành cuối tuần chọn hướng nào](/du-lich/2026/09/28/di-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao/) giúp bạn khoanh vùng hướng đi.
 
 ## Giờ quay về: lý do lớn nhất khiến Chủ nhật mệt hơn
 
@@ -67,7 +67,7 @@ Dù chọn ngày nào, quy tắc chung vẫn là đi sớm và về sớm.
 3. **Về sớm, đừng đợi chiều muộn.** Chủ nhật, rời điểm đến từ đầu giờ chiều để vào thành phố trước đợt đông nhất. Thứ Bảy cũng nên về trước khi trời tối, vì đường ngoại thành thiếu đèn và nhiều xe tải.
 4. **Báo tiệm trước nếu đi xa** khỏi khu vực quen thuộc, để tiệm biết lịch và hỗ trợ khi cần.
 
-Mùa đông trời tối nhanh, khung giờ chơi ngắn lại, cách tính lịch được nói kỹ trong bài [mùa đông trời tối sớm, xếp một ngày thuê xe sao cho kịp về](/thue-xe/2026/10/11/mua-ong-troi-toi-som-xep-mot-ngay-thue-xe-may-sao-cho-kip-ve/).
+Mùa đông trời tối nhanh, khung giờ chơi ngắn lại, cách tính lịch được nói kỹ trong bài [mùa đông trời tối sớm, xếp một ngày thuê xe sao cho kịp về](/thue-xe/2026/10/11/mua-dong-troi-toi-som-xep-mot-ngay-thue-xe-may-sao-cho-kip-ve/).
 
 ## Đặt xe cuối tuần: thứ Bảy hay Chủ nhật đều nên hỏi sớm
 

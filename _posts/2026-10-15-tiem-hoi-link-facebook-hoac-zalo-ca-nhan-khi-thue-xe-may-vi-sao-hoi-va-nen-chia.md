@@ -69,7 +69,7 @@ Phần lớn trường hợp bị hỏi Zalo hay Facebook chỉ là thói quen l
 - Bị thúc giục chuyển tiền trước vào một tài khoản cá nhân lạ khi chưa xác nhận rõ xe nào, ngày nào, nhận ở đâu.
 - Câu hỏi về đời tư ngày càng xa chuyện thuê xe.
 
-Khi đó, đừng gửi thêm gì; gọi lại số điện thoại công bố của nơi cho thuê để kiểm tra. Cách chốt đặt xe và chuyện tiền giữ chỗ qua tin nhắn được bàn kỹ hơn trong bài [đặt xe máy thuê qua Zalo chốt cọc sao](/hoi-dap/2026/10/09/at-xe-may-thue-qua-zalo-chot-coc-sao/).
+Khi đó, đừng gửi thêm gì; gọi lại số điện thoại công bố của nơi cho thuê để kiểm tra. Cách chốt đặt xe và chuyện tiền giữ chỗ qua tin nhắn được bàn kỹ hơn trong bài [đặt xe máy thuê qua Zalo chốt cọc sao](/hoi-dap/2026/10/09/dat-xe-may-thue-qua-zalo-chot-coc-sao/).
 
 ## Ví dụ: đặt xe từ xa trước khi tới Hà Nội
 

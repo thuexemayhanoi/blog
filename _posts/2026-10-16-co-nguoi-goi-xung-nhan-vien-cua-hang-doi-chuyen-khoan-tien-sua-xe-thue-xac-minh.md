@@ -61,7 +61,7 @@ Có trường hợp bạn đã va quệt thật, đã báo cửa hàng, và vi�
 - Hỏi cách thanh toán, người nhận, và giữ lại tin nhắn xác nhận với số cửa hàng đã lưu.
 - Phí hư hỏng và cách xử lý cần xác nhận trực tiếp với cửa hàng, đừng nghe theo con số do người lạ đưa ra.
 
-Đang đi chơi xa thì hỏi cửa hàng xem có thể để đến lúc trả xe mới tính hay không. Cách báo sự cố cho rõ ràng có trong bài [xe thuê bị va chạm nhẹ khi đỗ: cần báo gì cho cửa hàng](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-o-can-bao-gi-cho-cua-hang/). Còn nếu người đòi tiền là một tiệm sửa ven đường, đọc thêm [thợ sửa xe ven đường bảo phải thay phụ tùng lớn](/hoi-dap/2026/10/11/tho-sua-xe-ven-duong-bao-phai-thay-phu-tung-lon-hoi-gi-va-bao-cua-hang-ra-sao/).
+Đang đi chơi xa thì hỏi cửa hàng xem có thể để đến lúc trả xe mới tính hay không. Cách báo sự cố cho rõ ràng có trong bài [xe thuê bị va chạm nhẹ khi đỗ: cần báo gì cho cửa hàng](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-do-can-bao-gi-cho-cua-hang/). Còn nếu người đòi tiền là một tiệm sửa ven đường, đọc thêm [thợ sửa xe ven đường bảo phải thay phụ tùng lớn](/hoi-dap/2026/10/11/tho-sua-xe-ven-duong-bao-phai-thay-phu-tung-lon-hoi-gi-va-bao-cua-hang-ra-sao/).
 
 ## Lỡ chuyển khoản rồi thì làm gì
 

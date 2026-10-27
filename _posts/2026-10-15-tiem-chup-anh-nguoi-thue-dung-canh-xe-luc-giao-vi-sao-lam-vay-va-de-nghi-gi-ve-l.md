@@ -64,7 +64,7 @@ Tấm ảnh của tiệm bảo vệ tiệm. Để bảo vệ chính mình, bạn
 4. **Quay một đoạn video ngắn đi vòng quanh xe**, vừa quay vừa nói ngày giờ nếu muốn chắc hơn.
 5. **Gửi bộ ảnh đó vào tin nhắn với tiệm** để cả hai bên cùng có một bản lưu cùng thời điểm.
 
-Cách làm chi tiết, kèm lý do từng góc chụp, có trong bài [chụp ảnh xe khi thuê xe để làm gì](/thue-xe/2026/10/07/chup-anh-xe-khi-thue-xe-e-lam-gi/). Bộ ảnh của bạn và tấm ảnh của tiệm bổ sung cho nhau: một bên ghi người nhận, một bên ghi tình trạng xe mà chính bạn đã kiểm.
+Cách làm chi tiết, kèm lý do từng góc chụp, có trong bài [chụp ảnh xe khi thuê xe để làm gì](/thue-xe/2026/10/07/chup-anh-xe-khi-thue-xe-de-lam-gi/). Bộ ảnh của bạn và tấm ảnh của tiệm bổ sung cho nhau: một bên ghi người nhận, một bên ghi tình trạng xe mà chính bạn đã kiểm.
 
 Nếu tiệm có biên bản bàn giao, hãy đối chiếu ảnh của mình với những gì được ghi trên giấy. Bài [biên bản giao nhận xe chứa những gì](/thue-xe/2026/09/27/bien-ban-giao-nhan-xe-chua-nhung-gi/) liệt kê các mục nên có.
 

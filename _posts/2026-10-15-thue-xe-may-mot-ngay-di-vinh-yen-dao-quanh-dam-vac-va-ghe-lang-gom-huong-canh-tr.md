@@ -28,7 +28,7 @@ Cách giữ đúng đường:
 - Ở mỗi nút giao lớn, nhìn biển trước rồi mới rẽ. Gặp biển cấm xe máy hay biển chỉ lối lên cao tốc thì đi thẳng.
 - Lỡ đi vào nhánh dẫn lên cao tốc, dừng sát lề an toàn, dắt xe quay ra, không cố chạy tiếp.
 
-Quy định chi tiết về chuyện xe máy và cao tốc có trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Quy định chi tiết về chuyện xe máy và cao tốc có trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 ## Từ Long Biên ra quốc lộ 2: chặng thoát phố
 
@@ -58,7 +58,7 @@ Làng gốm Hương Canh nổi tiếng với đồ sành màu nâu mộc: chum, 
 
 Đừng mua món to hơn khả năng chở của chiếc xe; chum lớn hay chậu nặng thì hỏi chủ xưởng có gửi hàng về Hà Nội được không.
 
-Nếu thích so sánh, bài [một ngày đi làng gốm Bát Tràng](/thue-xe/2026/10/07/thue-xe-may-mot-ngay-i-lang-gom-bat-trang/) cho bạn thấy một làng gốm khác hẳn: gần phố, đông khách và nhiều cửa hàng hơn.
+Nếu thích so sánh, bài [một ngày đi làng gốm Bát Tràng](/thue-xe/2026/10/07/thue-xe-may-mot-ngay-di-lang-gom-bat-trang/) cho bạn thấy một làng gốm khác hẳn: gần phố, đông khách và nhiều cửa hàng hơn.
 
 ## Chở gốm về Hà Nội: bọc kỹ, buộc chắc, không treo tay lái
 
@@ -81,6 +81,6 @@ Khung giờ gợi ý cho ngày thường, chỉ để hình dung:
 - **Đầu giờ chiều:** rời Vĩnh Yên, ghé Hương Canh.
 - **Giữa buổi chiều:** rời làng gốm, chạy thẳng về, nghỉ một lần ở cây xăng.
 
-Nếu tới giữa buổi chiều mà bạn vẫn còn đang ở đầm Vạc, hãy bỏ bớt thời gian ở làng gốm thay vì kéo dài cả chuyến tới lúc trời tối. Kinh nghiệm chia chặng và canh giờ cho một chuyến khác cùng hướng có trong bài [một ngày đi Tây Thiên](/thue-xe/2026/10/11/thue-xe-may-mot-ngay-i-tay-thien-vinh-phuc-uong-i-va-canh-gio-ve/).
+Nếu tới giữa buổi chiều mà bạn vẫn còn đang ở đầm Vạc, hãy bỏ bớt thời gian ở làng gốm thay vì kéo dài cả chuyến tới lúc trời tối. Kinh nghiệm chia chặng và canh giờ cho một chuyến khác cùng hướng có trong bài [một ngày đi Tây Thiên](/thue-xe/2026/10/11/thue-xe-may-mot-ngay-di-tay-thien-vinh-phuc-duong-di-va-canh-gio-ve/).
 
 Một chuyến đi Vĩnh Yên trong ngày gói gọn ba việc: bám quốc lộ 2 qua Phúc Yên và tránh xa cao tốc, dạo đầm Vạc thong thả, ghé Hương Canh rồi chở gốm về thật cẩn thận. Các gợi ý thuê xe cho chuyến đi trong ngày khác nằm ở mục [thuê xe theo ngày](/thue-xe/thue-ngay/), còn mọi thông tin thuê xe máy ở Hà Nội được gom tại chuyên mục [thuê xe](/thue-xe/).

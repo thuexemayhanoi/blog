@@ -61,7 +61,7 @@ Chỉ làm khi khóa đã tắt và tiếng đề đã dứt:
 - Xem cụm công tắc có ướt không, vì sau những trận mưa lớn ở Hà Nội, nước và bụi có thể lọt vào làm công tắc chập chờn.
 - Không xịt dầu, nước hay hóa chất vào cụm công tắc.
 
-Tình huống liên quan đến nước mưa có trong bài [xe máy ướt nước mưa đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-e-khong-no/).
+Tình huống liên quan đến nước mưa có trong bài [xe máy ướt nước mưa đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-de-khong-no/).
 
 ### Thử lại thế nào cho an toàn
 

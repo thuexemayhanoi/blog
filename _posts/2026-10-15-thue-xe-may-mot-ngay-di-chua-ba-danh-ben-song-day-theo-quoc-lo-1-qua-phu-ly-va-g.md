@@ -33,7 +33,7 @@ Lúc nhận xe, tự kiểm tra lốp, phanh, đèn, xi nhan, gương và mức 
 
 ## Đường đi chùa Bà Đanh: theo quốc lộ 1 qua Phủ Lý, không vào cao tốc
 
-Đây là phần quan trọng nhất. **Cao tốc Pháp Vân – Cầu Giẽ – Ninh Bình cấm xe máy**, xe ga hay xe số đều không được đi. Quy định này được giải thích trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Đây là phần quan trọng nhất. **Cao tốc Pháp Vân – Cầu Giẽ – Ninh Bình cấm xe máy**, xe ga hay xe số đều không được đi. Quy định này được giải thích trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 Lộ trình dành cho xe máy:
 

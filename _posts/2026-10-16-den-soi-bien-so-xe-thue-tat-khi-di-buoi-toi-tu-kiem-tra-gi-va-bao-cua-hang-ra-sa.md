@@ -50,7 +50,7 @@ Sau mưa hoặc đi qua đoạn đường đang thi công, kính đèn soi biể
 
 ### Kiểm tra đồ treo phía sau
 
-Túi đồ buộc trên baga, áo mưa vắt sau yên hay thùng hàng có thể che mất đèn hoặc biển số. Gỡ bớt ra rồi nhìn lại. Nếu biển số lỏng hoặc sắp rơi, xử lý theo bài [xe thuê bị rơi biển số giữa đường](/hoi-dap/2026/10/10/xe-thue-bi-roi-bien-so-giua-uong-xu-ly-the-nao/).
+Túi đồ buộc trên baga, áo mưa vắt sau yên hay thùng hàng có thể che mất đèn hoặc biển số. Gỡ bớt ra rồi nhìn lại. Nếu biển số lỏng hoặc sắp rơi, xử lý theo bài [xe thuê bị rơi biển số giữa đường](/hoi-dap/2026/10/10/xe-thue-bi-roi-bien-so-giua-duong-xu-ly-the-nao/).
 
 ## Những việc không nên tự làm với xe thuê
 

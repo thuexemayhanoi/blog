@@ -85,6 +85,6 @@ Nếu xe dừng trước cửa nhà ai đó, hãy dắt xe đi một đoạn ng�
 
 **Tôi có phải chịu chi phí sửa không?** Điều này phụ thuộc nguyên nhân và thỏa thuận thuê; hãy hỏi rõ trực tiếp với cửa hàng và nhắn lại qua tin nhắn để có ghi nhận.
 
-**Còi không kêu khi cần thì sao?** Đó là tình huống ngược lại, xem bài [còi xe thuê không kêu giữa phố đông](/thue-xe/2026/10/03/coi-xe-thue-khong-keu-giua-pho-ong/ "Còi xe thuê không kêu").
+**Còi không kêu khi cần thì sao?** Đó là tình huống ngược lại, xem bài [còi xe thuê không kêu giữa phố đông](/thue-xe/2026/10/03/coi-xe-thue-khong-keu-giua-pho-dong/ "Còi xe thuê không kêu").
 
 Các tình huống trục trặc khác khi đang thuê xe có ở chuyên mục [hỏi đáp sự cố](/hoi-dap/hoi-dap-su-co/ "Hỏi đáp sự cố"), còn toàn bộ câu hỏi thường gặp nằm ở mục [hỏi đáp](/hoi-dap/ "Hỏi đáp thuê xe máy").

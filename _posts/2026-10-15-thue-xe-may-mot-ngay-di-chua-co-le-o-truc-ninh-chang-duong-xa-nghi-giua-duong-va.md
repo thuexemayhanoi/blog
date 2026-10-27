@@ -33,7 +33,7 @@ Trước khi rời cửa hàng, thử phanh, xem lốp, đèn, còi và đổ đ
 
 ## Đi chùa Cổ Lễ bằng xe máy: quốc lộ 1 rồi quốc lộ 21, không vào cao tốc
 
-Điều cần nhớ đầu tiên: **cao tốc Pháp Vân – Cầu Giẽ – Ninh Bình và các tuyến cao tốc khác đều cấm xe máy**. Đi chùa Cổ Lễ bằng xe máy nghĩa là đi đường quốc lộ, chậm hơn nhưng đúng luật. Lý do và mức xử lý được giải thích trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Điều cần nhớ đầu tiên: **cao tốc Pháp Vân – Cầu Giẽ – Ninh Bình và các tuyến cao tốc khác đều cấm xe máy**. Đi chùa Cổ Lễ bằng xe máy nghĩa là đi đường quốc lộ, chậm hơn nhưng đúng luật. Lý do và mức xử lý được giải thích trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 Khung lộ trình gồm ba chặng:
 
@@ -71,7 +71,7 @@ Vài điều nên làm khi tới nơi:
 
 Chặng về luôn nặng hơn chặng đi: bạn đã ngồi xe nhiều giờ, đã đi bộ trong chùa, và gần tới Hà Nội lại gặp giờ tan tầm ở Ngọc Hồi, Giải Phóng. Hãy tính ngược từ lúc trời tối: bạn cần về tới rìa Hà Nội khi trời còn sáng, vậy mốc rời chùa phải nằm vào khoảng đầu giờ chiều. Mùa đông trời tối sớm, kéo mốc đó lên sớm hơn nữa.
 
-Trước khi nổ máy ra về, tự hỏi ba câu: đầu óc có còn minh mẫn không, lưng và cổ tay có đau không, người ngồi sau có còn khỏe không. Nếu một trong ba câu trả lời là "không", đừng cố. Ở lại Nam Định một đêm, sáng hôm sau về thong thả, an toàn hơn nhiều so với chạy quốc lộ trong bóng tối khi đã kiệt sức. Những dấu hiệu cần dừng hẳn được nói kỹ trong bài [mệt và buồn ngủ khi chạy xe chiều muộn](/ky-nang/2026/10/04/met-va-buon-ngu-khi-chay-xe-chieu-muon-xu-ly-ung-cach/).
+Trước khi nổ máy ra về, tự hỏi ba câu: đầu óc có còn minh mẫn không, lưng và cổ tay có đau không, người ngồi sau có còn khỏe không. Nếu một trong ba câu trả lời là "không", đừng cố. Ở lại Nam Định một đêm, sáng hôm sau về thong thả, an toàn hơn nhiều so với chạy quốc lộ trong bóng tối khi đã kiệt sức. Những dấu hiệu cần dừng hẳn được nói kỹ trong bài [mệt và buồn ngủ khi chạy xe chiều muộn](/ky-nang/2026/10/04/met-va-buon-ngu-khi-chay-xe-chieu-muon-xu-ly-dung-cach/).
 
 Khi quyết định ở lại, gọi cho cửa hàng qua số 0942467674 để báo và thống nhất giờ trả xe mới. Về trong ngày mà thấy sẽ trễ hẹn cũng gọi sớm. Cửa hàng nhận trả xe trong khung 09:00–21:00.
 

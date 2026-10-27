@@ -53,7 +53,7 @@ Ví dụ một tin nhắn mẫu:
 
 > Chào tiệm, tháng trước mình có thuê một chiếc Vision màu trắng, biển số ghi trong ảnh đính kèm. Mình quay lại Hà Nội từ thứ Sáu tuần sau đến hết Chủ nhật tuần sau nữa, muốn thuê lại đúng chiếc này. Tiệm xem giúp xe có trống khoảng đó không. Nếu xe bận thì tiệm còn xe Vision khác hoặc xe tương tự không ạ?
 
-Gửi kèm ảnh biển số giúp tiệm tra nhanh hơn là gõ tay, tránh nhầm một chữ số. Cách nhắn đặt xe trước nói chung, kể cả câu hỏi tiệm có giữ xe theo tin nhắn hay không, có trong bài [hỏi đặt xe trước qua tin nhắn có giữ xe không](/hoi-dap/2026/10/10/hoi-at-xe-truoc-qua-tin-nhan-co-giu-xe-khong/).
+Gửi kèm ảnh biển số giúp tiệm tra nhanh hơn là gõ tay, tránh nhầm một chữ số. Cách nhắn đặt xe trước nói chung, kể cả câu hỏi tiệm có giữ xe theo tin nhắn hay không, có trong bài [hỏi đặt xe trước qua tin nhắn có giữ xe không](/hoi-dap/2026/10/10/hoi-dat-xe-truoc-qua-tin-nhan-co-giu-xe-khong/).
 
 ## Những điều không nên mặc định
 
