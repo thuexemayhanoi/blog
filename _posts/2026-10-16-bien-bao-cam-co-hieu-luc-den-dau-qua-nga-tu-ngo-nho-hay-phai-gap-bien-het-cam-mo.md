@@ -68,7 +68,7 @@ Biển DP.135 "Hết tất cả các lệnh cấm" báo cho người lái biết
 
 Biển đường cấm, cấm đi ngược chiều hay cấm xe máy thường đặt ngay đầu đường để cấm đi vào tuyến phía sau; bạn đọc theo hướng mình đang đi vào. Cách phân biệt hai biển hay gặp có trong bài [biển đường cấm và biển cấm đi ngược chiều khác nhau thế nào](/an-toan-phap-ly/2026/10/16/bien-duong-cam-va-bien-cam-di-nguoc-chieu-khac-nhau-the-nao-xe-may-duoc-di-vao-t/).
 
-Với biển cấm dừng, cấm đỗ, nhiều phố ở Hà Nội còn có biển phụ ghi ngày chẵn, ngày lẻ hoặc khung giờ. Bài [đọc biển báo cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/oc-bien-bao-cam-o-va-cam-dung-tren-via-he/) hướng dẫn cách đọc từng trường hợp.
+Với biển cấm dừng, cấm đỗ, nhiều phố ở Hà Nội còn có biển phụ ghi ngày chẵn, ngày lẻ hoặc khung giờ. Bài [đọc biển báo cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/doc-bien-bao-cam-do-va-cam-dung-tren-via-he/) hướng dẫn cách đọc từng trường hợp.
 
 ## Năm bước tự kiểm tra trước khi dừng xe hoặc tăng tốc
 

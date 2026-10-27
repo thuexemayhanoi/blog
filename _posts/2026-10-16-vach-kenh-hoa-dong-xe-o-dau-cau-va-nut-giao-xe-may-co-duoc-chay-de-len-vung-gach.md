@@ -69,7 +69,7 @@ Tại nhiều nút giao lớn, vùng gạch chéo tạo thành đảo giao thôn
 4. **Bám mép vạch:** đi sát mép làn của mình, bánh xe không đè lên vùng sơn.
 5. **Lỡ nhánh thì đi tiếp:** chạy đến nút sau rồi quay lại, không phanh gấp hay dừng trong vùng kênh hóa.
 
-Nếu đường có làn hoặc phần đường riêng cho xe máy, hãy bám làn đó; cách đọc có trong bài [biển đường dành cho xe máy và biển làn dành cho xe máy](/an-toan-phap-ly/2026/10/16/bien-duong-danh-cho-xe-may-va-bien-lan-danh-cho-xe-may-di-dung-phan-duong-den-kh/). Các loại vạch khác được tổng hợp ở bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-uong-xe-may-phai-i-the-nao/).
+Nếu đường có làn hoặc phần đường riêng cho xe máy, hãy bám làn đó; cách đọc có trong bài [biển đường dành cho xe máy và biển làn dành cho xe máy](/an-toan-phap-ly/2026/10/16/bien-duong-danh-cho-xe-may-va-bien-lan-danh-cho-xe-may-di-dung-phan-duong-den-kh/). Các loại vạch khác được tổng hợp ở bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-duong-xe-may-phai-di-the-nao/).
 
 ## Khi nào được đi vào vùng kênh hóa
 

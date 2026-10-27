@@ -51,7 +51,7 @@ Biển kết thúc giữ hình xe máy như biển bắt đầu nhưng có thêm
 
 ### Những trường hợp được rời làn
 
-Quy chuẩn không cấm xe rẽ để ra vào cổng nhà, ngõ hay lối vào cơ quan trên đoạn có biển làn, và khi gần nơi đường giao nhau bạn được chuyển làn để đi theo hướng mình muốn. Dù vậy, chỉ chuyển ở đoạn vạch đứt, bật xi nhan sớm và nhìn gương; vạch liền thì phải chờ. Cách đọc vạch có trong bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-uong-xe-may-phai-i-the-nao/).
+Quy chuẩn không cấm xe rẽ để ra vào cổng nhà, ngõ hay lối vào cơ quan trên đoạn có biển làn, và khi gần nơi đường giao nhau bạn được chuyển làn để đi theo hướng mình muốn. Dù vậy, chỉ chuyển ở đoạn vạch đứt, bật xi nhan sớm và nhìn gương; vạch liền thì phải chờ. Cách đọc vạch có trong bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-duong-xe-may-phai-di-the-nao/).
 
 ## Tình huống trên cầu và trục hướng tâm Hà Nội
 
@@ -67,7 +67,7 @@ Từ Nguyễn Văn Cừ sang Hoàn Kiếm, nhiều khách đi cầu Chương Dư
 
 Trên Đại lộ Thăng Long, xe máy phải đi phần đường bố trí cho xe máy, không vào các làn ô tô ở giữa; báo chí từng đưa tin cảnh sát giao thông xử lý nhiều xe máy đi nhầm làn ở đây. Các trục hướng tâm khác cũng vậy: chọn làn có hình xe máy và đi đến khi gặp biển kết thúc.
 
-Tổ chức giao thông trên cầu có thể được điều chỉnh, nên đừng đi theo trí nhớ hay ứng dụng bản đồ; biển tại hiện trường mới là thứ phải chấp hành. Cách chọn làn ở đoạn đường ưu tiên có trong bài [đường ưu tiên và xe máy thuê đi đúng làn nào](/an-toan-phap-ly/2026/10/09/uong-uu-tien-va-xe-may-thue-i-ung-lan-nao/).
+Tổ chức giao thông trên cầu có thể được điều chỉnh, nên đừng đi theo trí nhớ hay ứng dụng bản đồ; biển tại hiện trường mới là thứ phải chấp hành. Cách chọn làn ở đoạn đường ưu tiên có trong bài [đường ưu tiên và xe máy thuê đi đúng làn nào](/an-toan-phap-ly/2026/10/09/duong-uu-tien-va-xe-may-thue-di-dung-lan-nao/).
 
 ## Biển kết thúc làn xe máy và những lỗi người thuê xe hay mắc
 

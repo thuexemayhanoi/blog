@@ -37,7 +37,7 @@ Biển cấm xe đạp là biển tròn, nền trắng, viền đỏ, hình xe �
 
 Với người đi xe máy, biển này không áp dụng cho bạn. Bạn vẫn đi tiếp nếu ở đó không có biển cấm xe máy hay biển cấm khác. Biển cấm xe đạp có thể đặt ở đầu đường dẫn có tốc độ cao hoặc đoạn đông xe cơ giới; khi đó người đi xe đạp phải tìm lối khác, không phải lời mời xe máy đi nhanh hơn.
 
-Nhiều điểm lại có biển phụ ghi loại xe hoặc ngoại lệ đặt dưới biển cấm. Cách đọc từng ô trên biển phụ có trong bài [biển phụ ghi loại xe dưới biển cấm](/an-toan-phap-ly/2026/10/16/bien-phu-ghi-loai-xe-va-bien-phu-ngoai-le-duoi-bien-cam-xe-may-thuoc-dien-bi-cam/). Nếu còn lẫn biển cấm xe đạp với biển cấm xe máy, xem lại bài [nhận biết biển cấm xe máy](/an-toan-phap-ly/2026/10/05/nhan-biet-bien-cam-xe-may-khi-chay-uong-ha-noi/).
+Nhiều điểm lại có biển phụ ghi loại xe hoặc ngoại lệ đặt dưới biển cấm. Cách đọc từng ô trên biển phụ có trong bài [biển phụ ghi loại xe dưới biển cấm](/an-toan-phap-ly/2026/10/16/bien-phu-ghi-loai-xe-va-bien-phu-ngoai-le-duoi-bien-cam-xe-may-thuoc-dien-bi-cam/). Nếu còn lẫn biển cấm xe đạp với biển cấm xe máy, xem lại bài [nhận biết biển cấm xe máy](/an-toan-phap-ly/2026/10/05/nhan-biet-bien-cam-xe-may-khi-chay-duong-ha-noi/).
 
 ## Xe máy đi vào đường xe thô sơ: được cắt ngang, không được chạy dọc
 

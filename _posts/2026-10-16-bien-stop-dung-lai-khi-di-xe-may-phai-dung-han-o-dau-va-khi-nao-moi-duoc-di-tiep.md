@@ -33,7 +33,7 @@ Nhiều nút giao đặt biển STOP kèm một vạch liền màu trắng kẻ 
 
 ### Khi không có vạch dừng
 
-Ở đường làng, đường bê tông nhỏ đổ ra đường lớn, vạch sơn thường đã mòn hoặc không có. Lúc đó căn cứ là cột biển: dừng khi xe chưa vượt qua vị trí cột, chứ không phải chạy lên sát mép đường chính rồi mới bóp phanh. Các loại vạch ngang, vạch liền khác được giải thích ở bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-uong-xe-may-phai-i-the-nao/).
+Ở đường làng, đường bê tông nhỏ đổ ra đường lớn, vạch sơn thường đã mòn hoặc không có. Lúc đó căn cứ là cột biển: dừng khi xe chưa vượt qua vị trí cột, chứ không phải chạy lên sát mép đường chính rồi mới bóp phanh. Các loại vạch ngang, vạch liền khác được giải thích ở bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-duong-xe-may-phai-di-the-nao/).
 
 ### Dừng rồi mà vẫn chưa nhìn rõ
 
@@ -67,7 +67,7 @@ Bạn nhận xe ở Nguyễn Văn Cừ, Long Biên, rồi chạy về các làng
 
 ### Đường nhánh nhập vào quốc lộ
 
-Trên các hướng ra Đông Anh, Sóc Sơn, nhiều đường nhánh và đường gom đổ thẳng vào quốc lộ. Gặp biển STOP ở đầu nhánh thì đừng vừa lăn bánh vừa ngó. Dừng, đợi một khoảng trống rõ ràng, rồi ra hẳn làn bên phải dành cho xe máy. Quyền ưu tiên của xe trên trục chính có trong bài [đường ưu tiên và xe máy thuê đi đúng làn nào](/an-toan-phap-ly/2026/10/09/uong-uu-tien-va-xe-may-thue-i-ung-lan-nao/).
+Trên các hướng ra Đông Anh, Sóc Sơn, nhiều đường nhánh và đường gom đổ thẳng vào quốc lộ. Gặp biển STOP ở đầu nhánh thì đừng vừa lăn bánh vừa ngó. Dừng, đợi một khoảng trống rõ ràng, rồi ra hẳn làn bên phải dành cho xe máy. Quyền ưu tiên của xe trên trục chính có trong bài [đường ưu tiên và xe máy thuê đi đúng làn nào](/an-toan-phap-ly/2026/10/09/duong-uu-tien-va-xe-may-thue-di-dung-lan-nao/).
 
 ### Ngã ba lạ trong đêm
 
@@ -79,7 +79,7 @@ Không dừng khi gặp biển R.122 là hành vi không chấp hành hiệu l�
 
 Trách nhiệm thuộc về người cầm lái, xe thuê hay xe nhà như nhau. Có va chạm hoặc bị lập biên bản khi dùng xe thuê, hãy báo Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, điện thoại 0942 467 674, mở cửa 09:00–21:00. Chi phí sửa chữa nếu có cần xác nhận trực tiếp với cửa hàng.
 
-Trước chuyến ra ngoại thành, ôn lại các [biển báo hiệu lệnh cần tuân thủ khi đi xe](/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe/), nhóm [biển báo giao thông](/an-toan-phap-ly/bien-bao/) và chuyên mục [an toàn và pháp lý khi thuê xe máy](/an-toan-phap-ly/).
+Trước chuyến ra ngoại thành, ôn lại các [biển báo hiệu lệnh cần tuân thủ khi đi xe](/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-di-xe/), nhóm [biển báo giao thông](/an-toan-phap-ly/bien-bao/) và chuyên mục [an toàn và pháp lý khi thuê xe máy](/an-toan-phap-ly/).
 
 ## Nguồn tham khảo
 

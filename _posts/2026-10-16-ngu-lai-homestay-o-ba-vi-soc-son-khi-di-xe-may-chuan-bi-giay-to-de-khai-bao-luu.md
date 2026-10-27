@@ -41,7 +41,7 @@ Từ nội thành ra chân núi Ba Vì khoảng sáu chục cây số, dừng ă
 
 - **Bạn nước ngoài trong nhóm:** mang hộ chiếu bản gốc. Khai báo tạm trú cho người nước ngoài theo luật riêng, cơ sở sẽ hỏi hộ chiếu và thị thực.
 
-Giấy tờ để lái xe là chuyện khác: bằng lái, giấy tờ xe, bảo hiểm bắt buộc phải có khi chạy đường. Danh sách đầy đủ có ở bài [giấy tờ cần mang khi thuê xe đi đường dài](/an-toan-phap-ly/2026/10/07/giay-to-can-mang-khi-thue-xe-i-uong-dai/).
+Giấy tờ để lái xe là chuyện khác: bằng lái, giấy tờ xe, bảo hiểm bắt buộc phải có khi chạy đường. Danh sách đầy đủ có ở bài [giấy tờ cần mang khi thuê xe đi đường dài](/an-toan-phap-ly/2026/10/07/giay-to-can-mang-khi-thue-xe-di-duong-dai/).
 
 ## Các bước chuẩn bị trước chuyến đi
 

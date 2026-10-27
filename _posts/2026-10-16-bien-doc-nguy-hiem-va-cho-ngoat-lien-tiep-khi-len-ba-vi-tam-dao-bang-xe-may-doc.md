@@ -68,7 +68,7 @@ Với xe tay ga không có số để chọn, phải giảm tốc từ trên đ�
 
 Ở đoạn có biển chỗ ngoặt nguy hiểm liên tiếp, nhìn xa theo hướng cua chứ không nhìn sát bánh trước. Luôn giữ bên phải, không cắt cua sang phần đường ngược chiều, vì xe từ trên xuống có thể xuất hiện bất ngờ ở cua khuất. Ngoài khu đông dân cư, một tiếng còi ngắn trước cua khuất giúp xe ngược chiều biết có bạn. Tuyệt đối không vượt trong chuỗi cua.
 
-Đi nhóm thì giãn khoảng cách hơn bình thường để mỗi người có chỗ phanh riêng. Các biển cua, dốc, đường trơn trên đường trường được tổng hợp ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-uong-truong/), còn cách đọc biển phụ ghi chiều dài, khoảng cách có ở bài [biển chỉ dẫn và biển phụ hiểu thế nào](/an-toan-phap-ly/2026/09/28/bien-chi-dan-va-bien-phu-hieu-the-nao/).
+Đi nhóm thì giãn khoảng cách hơn bình thường để mỗi người có chỗ phanh riêng. Các biển cua, dốc, đường trơn trên đường trường được tổng hợp ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-duong-truong/), còn cách đọc biển phụ ghi chiều dài, khoảng cách có ở bài [biển chỉ dẫn và biển phụ hiểu thế nào](/an-toan-phap-ly/2026/09/28/bien-chi-dan-va-bien-phu-hieu-the-nao/).
 
 ## Đường lên Ba Vì và Tam Đảo: những điều tôi hay dặn khách
 

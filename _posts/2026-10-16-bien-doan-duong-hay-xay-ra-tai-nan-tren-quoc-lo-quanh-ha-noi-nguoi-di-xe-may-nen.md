@@ -61,7 +61,7 @@ Khoảng cách nên tính bằng giây: xe trước qua một cột mốc, bạn
 
 Dấu chấm than không nói nguy hiểm gì, thông tin nằm ở biển phụ: đường đang sửa, đoạn hay sạt lở, mặt đường đọng nước hay một nguy cơ riêng của khu vực. Không kịp đọc chữ thì cứ giảm tốc và quan sát cho tới khi hiểu rõ phía trước.
 
-Cách đọc biển phụ có trong bài [biển chỉ dẫn và biển phụ hiểu thế nào](/an-toan-phap-ly/2026/09/28/bien-chi-dan-va-bien-phu-hieu-the-nao/); các biển tam giác khác như cua, dốc, đường trơn ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-uong-truong/).
+Cách đọc biển phụ có trong bài [biển chỉ dẫn và biển phụ hiểu thế nào](/an-toan-phap-ly/2026/09/28/bien-chi-dan-va-bien-phu-hieu-the-nao/); các biển tam giác khác như cua, dốc, đường trơn ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-duong-truong/).
 
 ## Tình huống thực tế khách thuê xe hay gặp
 

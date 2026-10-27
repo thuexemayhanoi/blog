@@ -86,7 +86,7 @@ Camera giám sát ở Hà Nội không chỉ đặt tại nút giao; theo báo c
 
 ## Đang đi xe thuê thì cần biết gì
 
-Thông báo vi phạm qua hình ảnh gửi tới người đứng tên xe, tức cửa hàng, rồi mới tìm tới người cầm lái. Quy trình này có trong bài [đi xe thuê dính phạt nguội ai nhận thông báo](/an-toan-phap-ly/2026/10/05/i-xe-thue-dinh-phat-nguoi-ai-nhan-thong-bao/). Điểm trừ gắn với giấy phép lái xe của người điều khiển, không phải của chủ xe.
+Thông báo vi phạm qua hình ảnh gửi tới người đứng tên xe, tức cửa hàng, rồi mới tìm tới người cầm lái. Quy trình này có trong bài [đi xe thuê dính phạt nguội ai nhận thông báo](/an-toan-phap-ly/2026/10/05/di-xe-thue-dinh-phat-nguoi-ai-nhan-thong-bao/). Điểm trừ gắn với giấy phép lái xe của người điều khiển, không phải của chủ xe.
 
 Nếu thuê xe tại Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, cách phối hợp khi có thông báo vi phạm xin xác nhận trực tiếp qua số 0942 467 674, trong giờ 09:00–21:00. Giữ ảnh có mốc giờ của chuyến đi để dễ đối chiếu.
 

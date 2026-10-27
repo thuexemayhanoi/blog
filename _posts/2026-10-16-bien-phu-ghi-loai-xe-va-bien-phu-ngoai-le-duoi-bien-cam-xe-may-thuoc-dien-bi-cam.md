@@ -66,7 +66,7 @@ Vẫn chưa chắc thì chọn cách hiểu chặt hơn và đi tuyến khác. �
 
 Trên biển, hình xe máy đại diện cho xe mô tô và xe gắn máy, tức là chính chiếc Vision, Wave hay Air Blade bạn đang thuê. Người thuê xe máy điện cũng đừng mặc định được miễn: theo luật hiện hành, xe máy điện vẫn được xếp vào nhóm xe mô tô hoặc xe gắn máy tùy thông số kỹ thuật. Nếu chưa rõ chiếc xe điện mình thuê thuộc nhóm nào, hỏi cửa hàng khi nhận xe.
 
-Biển cấm riêng cho xe máy và các dạng hay gặp đã có trong bài [nhận biết biển cấm xe máy khi chạy đường Hà Nội](/an-toan-phap-ly/2026/10/05/nhan-biet-bien-cam-xe-may-khi-chay-uong-ha-noi/).
+Biển cấm riêng cho xe máy và các dạng hay gặp đã có trong bài [nhận biết biển cấm xe máy khi chạy đường Hà Nội](/an-toan-phap-ly/2026/10/05/nhan-biet-bien-cam-xe-may-khi-chay-duong-ha-noi/).
 
 ## Tình huống ở nội thành và cửa ngõ Hà Nội
 

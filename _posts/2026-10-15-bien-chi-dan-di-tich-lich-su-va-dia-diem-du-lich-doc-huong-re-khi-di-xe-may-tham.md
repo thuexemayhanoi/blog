@@ -48,7 +48,7 @@ Tôi hay dặn khách đọc theo ba bước, khi còn cách nút giao một qu�
 
 Biển chỉ hướng vào di tích không có nghĩa con đường dẫn vào cho mọi loại xe đi lúc nào cũng được. Luật số 36 sắp thứ tự ưu tiên khi các báo hiệu khác ý nhau: hiệu lệnh của người điều khiển giao thông đứng đầu, rồi đến đèn tín hiệu, biển báo hiệu, vạch kẻ đường. Trên đường vào, nếu gặp biển cấm, biển hiệu lệnh hay người điều khiển giao thông phân luồng, bạn phải chấp hành những báo hiệu đó.
 
-Luật cũng quy định: cùng một vị trí có biển cố định và biển tạm thời khác ý nghĩa thì chấp hành biển tạm thời. Vào ngày đông khách, đường quanh điểm tham quan có thể được tổ chức lại bằng biển tạm thời; xem thêm bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-oan-uong-ang-sua/).
+Luật cũng quy định: cùng một vị trí có biển cố định và biển tạm thời khác ý nghĩa thì chấp hành biển tạm thời. Vào ngày đông khách, đường quanh điểm tham quan có thể được tổ chức lại bằng biển tạm thời; xem thêm bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-doan-duong-dang-sua/).
 
 ## Áp dụng khi đi Cổ Loa, Đường Lâm, chùa Thầy
 
@@ -56,7 +56,7 @@ Tôi không khẳng định đoạn nào có loại biển nào, vì vị trí b
 
 - **Ghi sẵn chuỗi tên** theo thứ tự sẽ gặp: tuyến chính, khu vực, rồi tên điểm tham quan. Gặp biển, chỉ cần dò xem tên nào khớp.
 - **Cổ Loa** nằm ở Đông Anh, phía bắc sông Hồng. Đi từ Long Biên, bạn bám tên Đông Anh trên biển chỉ hướng trước, gần tới mới tìm tên Cổ Loa. Lộ trình chi tiết có ở bài [Cổ Loa bằng xe máy từ nội thành](/du-lich/2026/10/13/co-loa-bang-xe-may-tu-noi-thanh-toi-khu-di-tich-di-duong-nao-va-ghe-diem-nao/).
-- **Đường Lâm** gần Sơn Tây, phía tây Hà Nội. Đừng theo làn chính Đại lộ Thăng Long vì xe máy không được đi; chọn quốc lộ theo chỉ dẫn bản đồ ở chế độ xe máy. Xem bài [Đường Lâm từ Hà Nội bằng xe máy](/cung-duong/2026/09/28/uong-lam-tu-ha-noi-bang-xe-may/).
+- **Đường Lâm** gần Sơn Tây, phía tây Hà Nội. Đừng theo làn chính Đại lộ Thăng Long vì xe máy không được đi; chọn quốc lộ theo chỉ dẫn bản đồ ở chế độ xe máy. Xem bài [Đường Lâm từ Hà Nội bằng xe máy](/cung-duong/2026/09/28/duong-lam-tu-ha-noi-bang-xe-may/).
 - **Chùa Thầy** ở vùng Quốc Oai. Đường làng ven Hà Nội thường hẹp, nên giảm tốc từ xa khi thấy tên chùa trên biển.
 
 Bản đồ điện thoại chỉ để tham khảo; biển tại hiện trường mới là căn cứ. Cần hỏi đường thì dừng hẳn sát lề phải, không vừa chạy vừa nhìn điện thoại.

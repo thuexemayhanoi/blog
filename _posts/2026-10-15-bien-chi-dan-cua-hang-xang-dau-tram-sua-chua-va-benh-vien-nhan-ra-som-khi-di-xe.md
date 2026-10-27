@@ -56,7 +56,7 @@ Xe tay ga khách hay thuê như Vision, Air Blade có bình xăng không lớn. 
 
 Lốp non dần, phanh ăn kém hay tiếng kêu lạ ở bánh sau là lúc biển trạm sửa chữa có ích nhất. Thấy biển, hãy giảm tốc, đi sát lề phải và dừng hẳn ở chỗ an toàn rồi mới xem xe.
 
-Với xe thuê, trước khi để thợ dọc đường tháo lắp gì, hãy gọi tiệm theo số 0942467674. Tiệm hỗ trợ ra sao trong từng trường hợp, chẳng hạn hướng dẫn qua điện thoại, sửa tại chỗ hay xử lý chi phí thế nào, đều cần xác nhận trực tiếp trong cuộc gọi đó. Nếu đã thống nhất cho sửa, bạn nên chụp ảnh chỗ hỏng và xin phiếu thu để đối chiếu khi trả xe. Tình huống thủng lốp giữa đường được nói kỹ ở bài [xe thuê bị thủng lốp giữa đường xử lý thế nào](/thue-xe/2026/09/30/xe-thue-bi-thung-lop-giua-uong-xu-ly-the-nao/).
+Với xe thuê, trước khi để thợ dọc đường tháo lắp gì, hãy gọi tiệm theo số 0942467674. Tiệm hỗ trợ ra sao trong từng trường hợp, chẳng hạn hướng dẫn qua điện thoại, sửa tại chỗ hay xử lý chi phí thế nào, đều cần xác nhận trực tiếp trong cuộc gọi đó. Nếu đã thống nhất cho sửa, bạn nên chụp ảnh chỗ hỏng và xin phiếu thu để đối chiếu khi trả xe. Tình huống thủng lốp giữa đường được nói kỹ ở bài [xe thuê bị thủng lốp giữa đường xử lý thế nào](/thue-xe/2026/09/30/xe-thue-bi-thung-lop-giua-duong-xu-ly-the-nao/).
 
 Mẹo nhỏ: lưu số tiệm vào danh bạ với tên dễ tìm, đồng thời ghi ra mảnh giấy cất trong cốp.
 

@@ -33,11 +33,11 @@ Thay ô bằng gì:
 
 ## Người ngồi sau xe máy bị cấm gì: danh sách theo Điều 33
 
-Hai điều kiện nền tảng nằm ở khoản 1 và khoản 2: xe chỉ chở một người ngồi sau, trừ vài trường hợp như chở người bệnh đi cấp cứu, trẻ em dưới 12 tuổi, người già yếu hoặc người khuyết tật; và cả hai phải đội mũ bảo hiểm cài quai đúng quy cách. Phần ngoại lệ có ở bài [chở người trên xe máy theo quy định hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/), cách chọn mũ ở bài [mũ bảo hiểm đạt chuẩn và quy định đội mũ](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-va-quy-inh-oi-mu/).
+Hai điều kiện nền tảng nằm ở khoản 1 và khoản 2: xe chỉ chở một người ngồi sau, trừ vài trường hợp như chở người bệnh đi cấp cứu, trẻ em dưới 12 tuổi, người già yếu hoặc người khuyết tật; và cả hai phải đội mũ bảo hiểm cài quai đúng quy cách. Phần ngoại lệ có ở bài [chở người trên xe máy theo quy định hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-dinh-hien-hanh/), cách chọn mũ ở bài [mũ bảo hiểm đạt chuẩn và quy định đội mũ](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-va-quy-dinh-doi-mu/).
 
 Khoản 4 liệt kê các hành vi người được chở không được thực hiện:
 
-1. **Mang, vác vật cồng kềnh.** Ôm thùng hàng hay túi đồ to vượt ra ngoài thân xe thuộc nhóm này; xem thêm bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/).
+1. **Mang, vác vật cồng kềnh.** Ôm thùng hàng hay túi đồ to vượt ra ngoài thân xe thuộc nhóm này; xem thêm bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/).
 2. **Sử dụng ô**, như đã nói ở trên.
 3. **Bám, kéo hoặc đẩy phương tiện khác.** Đi theo nhóm, người ngồi sau hay vịn vai bạn ở xe bên cạnh, hoặc duỗi chân đẩy xe bạn bị hết xăng. Cả hai đều rơi đúng vào điểm này.
 4. **Đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái.** Đứng hẳn lên yên để quay phố cho cao là vi phạm điểm này.
@@ -64,7 +64,7 @@ Theo khoản 3 Điều 33 và khoản 6 Điều 9, người lái cần nhớ:
 - Không sử dụng ô, không dùng tai nghe hay thiết bị âm thanh khi lái, trừ thiết bị trợ thính.
 - Không buông cả hai tay, không đi dàn hàng ngang với xe bạn để hai người ngồi sau tiện quay nhau.
 - Không cầm điện thoại khi xe đang di chuyển, kể cả để xem bản đồ; gắn máy lên giá đỡ và đặt lộ trình trước.
-- Giữ tốc độ chậm, đều trong phố cũ; bài [tốc độ tối đa cho xe máy trong phố cũ Hà Nội](/an-toan-phap-ly/2026/10/09/toc-o-toi-a-cho-xe-may-trong-pho-cu-ha-noi/) nói kỹ hơn.
+- Giữ tốc độ chậm, đều trong phố cũ; bài [tốc độ tối đa cho xe máy trong phố cũ Hà Nội](/an-toan-phap-ly/2026/10/09/toc-do-toi-da-cho-xe-may-trong-pho-cu-ha-noi/) nói kỹ hơn.
 
 ## Một buổi tối quanh Hồ Gươm: xử lý cho đúng
 

@@ -60,9 +60,9 @@ Khi đèn tắt vì mất điện hoặc chuyển sang vàng nhấp nháy về �
 
 Biển đứng trên vạch. Khi tổ chức lại làn, biển phân làn có thể được thay trước trong lúc vạch sơn cũ chưa kịp xóa. Mũi tên sơn bảo đi thẳng mà biển phía trên chỉ làn đó dành cho rẽ thì bạn theo biển.
 
-Biển tạm thời đứng trên biển cố định. Đoạn đường đang đào hè, biển cố định cho đi thẳng nhưng biển tạm thời cạnh rào chắn yêu cầu rẽ hướng khác: bạn theo biển tạm thời. Cách đọc nhóm biển này có trong bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-oan-uong-ang-sua/).
+Biển tạm thời đứng trên biển cố định. Đoạn đường đang đào hè, biển cố định cho đi thẳng nhưng biển tạm thời cạnh rào chắn yêu cầu rẽ hướng khác: bạn theo biển tạm thời. Cách đọc nhóm biển này có trong bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-doan-duong-dang-sua/).
 
-Khi biển và vạch không mâu thuẫn mà bổ sung cho nhau, bạn phải theo cả hai. Vạch liền giữa đường, vạch dừng, vạch người đi bộ qua đường vẫn có giá trị đầy đủ; ôn lại ở bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-uong-xe-may-phai-i-the-nao/).
+Khi biển và vạch không mâu thuẫn mà bổ sung cho nhau, bạn phải theo cả hai. Vạch liền giữa đường, vạch dừng, vạch người đi bộ qua đường vẫn có giá trị đầy đủ; ôn lại ở bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-duong-xe-may-phai-di-the-nao/).
 
 ## Năm bước xử lý khi báo hiệu chỉ dẫn khác nhau
 
