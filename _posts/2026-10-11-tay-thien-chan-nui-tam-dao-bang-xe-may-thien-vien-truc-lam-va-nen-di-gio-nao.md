@@ -20,7 +20,7 @@ Nhiều người ở Hà Nội muốn đi Tây Thiên bằng xe máy trong một
 
 Hai nơi cùng nằm trên dãy Tam Đảo nhưng khác hẳn nhau. Thị trấn Tam Đảo ở trên cao, đường đèo nhiều khúc cua, khách lên để hóng mát. Tây Thiên nằm ở sườn núi phía dưới, là quần thể đền chùa gắn với tín ngưỡng thờ Quốc Mẫu Tây Thiên, khách đến chủ yếu để đi lễ và tĩnh tâm.
 
-Với người chạy xe máy, đường vào Tây Thiên chủ yếu là đường đồng bằng rồi dốc thoải dần về chân núi, không có những đoạn đèo dài liên tục. Nếu định ghép cả hai điểm trong một ngày, bạn nên đọc thêm bài [chuẩn bị xe và đồ đạc khi lên Tam Đảo](/cung-duong/2026/10/09/ha-noi-i-tam-ao-bang-xe-may-can-chuan-bi-gi/).
+Với người chạy xe máy, đường vào Tây Thiên chủ yếu là đường đồng bằng rồi dốc thoải dần về chân núi, không có những đoạn đèo dài liên tục. Nếu định ghép cả hai điểm trong một ngày, bạn nên đọc thêm bài [chuẩn bị xe và đồ đạc khi lên Tam Đảo](/cung-duong/2026/10/09/ha-noi-di-tam-dao-bang-xe-may-can-chuan-bi-gi/).
 
 Trong quần thể, khách thường đi theo trục đền Hạ, đền Trung rồi lên đền Thượng cao hơn trên sườn núi. Thiền viện Trúc Lâm Tây Thiên là một điểm riêng, kiến trúc mới, nhiều bậc thang, khuôn viên rộng và yên hơn khu đền. Bạn không cần đi hết; chọn trước hai, ba nơi thật sự muốn đến sẽ thong thả hơn.
 
@@ -50,7 +50,7 @@ Vài đoạn cần chú ý:
 - **Đường vào khu di tích:** nhỏ hơn, có xe khách hành hương, xe tải và người dân đi lại, nhiều khúc cua khuất. Bấm còi nhẹ, đi chậm.
 - **Dốc thoải gần chân núi:** lúc mưa mặt đường có thể trơn vì lá và đất. Xe số về số thấp sớm, xe tay ga giữ ga đều, tránh phanh gấp.
 
-Ai từng đi [Bái Đính và Tràng An bằng xe máy](/cung-duong/2026/10/04/chua-bai-inh-trang-an-bang-xe-may-tu-ha-noi-cung-uong-va-luu-y/) sẽ thấy cảm giác khá giống: quốc lộ đông giờ cao điểm, đường vào điểm tâm linh nhỏ và nhiều người đi bộ.
+Ai từng đi [Bái Đính và Tràng An bằng xe máy](/cung-duong/2026/10/04/chua-bai-dinh-trang-an-bang-xe-may-tu-ha-noi-cung-duong-va-luu-y/) sẽ thấy cảm giác khá giống: quốc lộ đông giờ cao điểm, đường vào điểm tâm linh nhỏ và nhiều người đi bộ.
 
 ## Ghé thiền viện Trúc Lâm Tây Thiên sao cho trọn vẹn
 

@@ -46,7 +46,7 @@ Chờ là quyết định đúng, nhưng chờ thế nào cũng quan trọng. H�
 3. Quan sát gương, vì thường có người sốt ruột vượt lên từ bên trái hoặc bên phải.
 4. Theo dõi đuôi dòng xe phía trước; khi đã có đủ chỗ thoát và đèn vẫn còn xanh, bạn đi ngay, không cần chờ ai giục.
 
-Tiếng còi phía sau là chuyện bình thường giờ cao điểm, phần lớn chỉ là phản xạ. Bạn không cần quay lại giải thích, chỉ cần bình tĩnh đứng vững. Nếu có người cố chen lên rồi rẽ ngang trước mặt, cách xử lý tương tự như khi gặp [xe máy phía trước ngắt đầu](/ky-nang/2026-09-29/xu-ly-khi-xe-may-phia-truoc-ngat-au/): giảm tốc, giữ khoảng cách, không đua theo.
+Tiếng còi phía sau là chuyện bình thường giờ cao điểm, phần lớn chỉ là phản xạ. Bạn không cần quay lại giải thích, chỉ cần bình tĩnh đứng vững. Nếu có người cố chen lên rồi rẽ ngang trước mặt, cách xử lý tương tự như khi gặp [xe máy phía trước ngắt đầu](/ky-nang/2026-09-29/xu-ly-khi-xe-may-phia-truoc-ngat-dau/): giảm tốc, giữ khoảng cách, không đua theo.
 
 ## Những ngã tư dễ “bẫy” người mới đi giờ tan tầm
 
@@ -72,7 +72,7 @@ Khi dòng xe phía trước nhích lên, đi theo ngay và ưu tiên ra khỏi v
 
 Ở nút giao có lực lượng chức năng phân luồng, hãy làm theo tín hiệu của họ, kể cả khi đèn hiển thị khác.
 
-Nếu trong lúc kẹt mà xe tắt máy, đừng cố đề liên tục giữa luồng xe. Các bước bình tĩnh trong bài [xe chết máy giữa đèn đỏ](/ky-nang/2026/10/10/xe-may-chet-may-giua-en-o-cac-buoc-xu-ly/) áp dụng được cho tình huống này: bật xi nhan, dắt xe sát lề khi có khe hở rồi mới kiểm tra.
+Nếu trong lúc kẹt mà xe tắt máy, đừng cố đề liên tục giữa luồng xe. Các bước bình tĩnh trong bài [xe chết máy giữa đèn đỏ](/ky-nang/2026/10/10/xe-may-chet-may-giua-den-do-cac-buoc-xu-ly/) áp dụng được cho tình huống này: bật xi nhan, dắt xe sát lề khi có khe hở rồi mới kiểm tra.
 
 ## Thói quen nhỏ giúp bạn không phải đứng giữa giao lộ
 

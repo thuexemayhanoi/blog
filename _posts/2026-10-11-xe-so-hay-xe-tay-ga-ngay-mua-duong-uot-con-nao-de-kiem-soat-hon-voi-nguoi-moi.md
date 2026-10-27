@@ -60,7 +60,7 @@ Dù đi xe nào: ngồi thẳng, khuỷu tay hơi chùng, không gồng cứng t
 
 **Tình huống 1: tắc đường giờ tan tầm dưới mưa phùn.** Bạn đi từ phía Long Biên sang trung tâm, dòng xe dồn ứ ở dốc lên cầu. Ở đây xe tay ga dễ thở hơn hẳn: không đổi số, chống chân vững, chỉ cần giữ ga nhẹ và hai tay sẵn sàng trên phanh. Với xe số, bạn phải lên xuống số liên tục.
 
-**Tình huống 2: đường đê ven sông Hồng sau mưa lớn.** Mặt đường lồi lõm, đọng nước, đôi chỗ có bùn đất. Xe số với bánh lớn và phanh động cơ cho cảm giác chắc khi xuống dốc nhẹ; xe ga vẫn đi được nhưng phải phanh nhiều hơn. Cách qua đoạn đọng nước an toàn có trong bài [xử lý đường trơn và vũng nước](/ky-nang/2026-09-29/uong-tron-va-vung-nuoc-qua-the-nao/).
+**Tình huống 2: đường đê ven sông Hồng sau mưa lớn.** Mặt đường lồi lõm, đọng nước, đôi chỗ có bùn đất. Xe số với bánh lớn và phanh động cơ cho cảm giác chắc khi xuống dốc nhẹ; xe ga vẫn đi được nhưng phải phanh nhiều hơn. Cách qua đoạn đọng nước an toàn có trong bài [xử lý đường trơn và vũng nước](/ky-nang/2026-09-29/duong-tron-va-vung-nuoc-qua-the-nao/).
 
 Đường đã ngập sâu thì cả hai loại xe đều nên tránh; xem cách [đi xe thuê qua đường ngập nước sau mưa](/kinh%20nghi%E1%BB%87m/2026/09/19/di-xe-thue-qua-duong-ngap-nuoc-sau-mua/) trước khi liều lội.
 

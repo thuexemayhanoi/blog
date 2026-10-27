@@ -74,7 +74,7 @@ Lúc này hãy giảm tốc rất sớm, ngay khi thấy xe con lắc đầu nh�
 
 ### Trên đường làng có chợ
 
-Ở đoạn đường xuyên qua làng, xe máy đối diện hay vượt xe ba gác hay xe đạp chở hàng. Tốc độ thấp hơn nhưng khoảng trống hẹp hơn, lại có người đi bộ và trẻ con hai bên. Giảm tốc từ xa và bấm còi ngắn thường đủ để người kia nhận ra bạn. Kiểu đối đầu gần này khá giống tình huống [xe đi ngược chiều trong ngõ nhỏ](/ky-nang/2026/10/04/tinh-huong-xe-i-nguoc-chieu-trong-ngo-xu-ly-the-nao/), chỉ khác là bạn có ít thời gian hơn.
+Ở đoạn đường xuyên qua làng, xe máy đối diện hay vượt xe ba gác hay xe đạp chở hàng. Tốc độ thấp hơn nhưng khoảng trống hẹp hơn, lại có người đi bộ và trẻ con hai bên. Giảm tốc từ xa và bấm còi ngắn thường đủ để người kia nhận ra bạn. Kiểu đối đầu gần này khá giống tình huống [xe đi ngược chiều trong ngõ nhỏ](/ky-nang/2026/10/04/tinh-huong-xe-di-nguoc-chieu-trong-ngo-xu-ly-the-nao/), chỉ khác là bạn có ít thời gian hơn.
 
 ## Buổi tối, trời mưa và thói quen nên tập
 
@@ -87,7 +87,7 @@ Phần lớn kỹ năng né xe vượt nằm ở thói quen hằng ngày:
 3. **Bật đèn chiếu gần cả ban ngày** khi trời âm u để người vượt dễ thấy bạn.
 4. **Kiểm tra phanh, còi, đèn trước chuyến đi.** Với xe thuê, thử ngay lúc nhận xe; thấy gì chưa ổn thì báo cửa hàng trước khi lên đường.
 
-Gặp [xe container quay đầu trên đường hẹp](/ky-nang/2026/10/11/xe-container-quay-au-tren-uong-hep-xu-ly-the-nao-khi-i-xe-may/) cũng dùng chung nguyên tắc: giảm tốc sớm, không lách vào khe hẹp.
+Gặp [xe container quay đầu trên đường hẹp](/ky-nang/2026/10/11/xe-container-quay-dau-tren-duong-hep-xu-ly-the-nao-khi-di-xe-may/) cũng dùng chung nguyên tắc: giảm tốc sớm, không lách vào khe hẹp.
 
 Về quy định, vượt khi không đủ điều kiện an toàn là vi phạm, nhưng quy định và mức xử lý có thể thay đổi, bạn nên tra văn bản mới nhất khi cần. Trên đường, việc của bạn là tránh va chạm trước, chuyện đúng sai để sau.
 

@@ -49,7 +49,7 @@ Lúc đứng chờ, hãy nhìn theo một trình tự cố định:
 
 Khoảng trống đủ an toàn là khi xe gần nhất chiều kia còn đủ xa để bạn quay xong và lấy lại tốc độ mà họ không phải phanh hay đánh lái. Nếu bạn phải thầm nghĩ "chắc kịp", thường là chưa đủ.
 
-Với xe tải lớn hay xe container, hãy chờ chúng đi qua hẳn. Bài [xử lý khi xe container quay đầu trên đường hẹp](/ky-nang/2026/10/11/xe-container-quay-au-tren-uong-hep-xu-ly-the-nao-khi-i-xe-may/) giải thích vì sao không nên đứng gần những xe thân dài này.
+Với xe tải lớn hay xe container, hãy chờ chúng đi qua hẳn. Bài [xử lý khi xe container quay đầu trên đường hẹp](/ky-nang/2026/10/11/xe-container-quay-dau-tren-duong-hep-xu-ly-the-nao-khi-di-xe-may/) giải thích vì sao không nên đứng gần những xe thân dài này.
 
 ## Chờ quay đầu giữa đường đông xe giờ cao điểm
 

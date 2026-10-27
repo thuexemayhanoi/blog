@@ -53,7 +53,7 @@ Dụng cụ sơn tường nhìn nhẹ nhưng lại lắm hình dạng: con lăn,
 
 - **Đồ nhỏ** như cọ, giấy nhám, băng dính giấy, găng tay cho vào một túi rồi đặt trong cốp xe.
 - **Con lăn và khay** xếp chồng, lồng con lăn vào lòng khay rồi bọc túi. Nếu là con lăn đã dùng mang đi sơn tiếp ở nơi khác, bọc kín vài lớp vì lông lăn ướt sơn rất dễ dây ra.
-- **Cán nối dài** là món khó nhất. Rút ngắn hết cỡ, buộc dọc theo thân xe trên giá sau, không để chìa ra phía trước hay ngang hông. Cách cố định đồ dài được nói kỹ trong bài [chở đồ dài như ống nhựa trên xe máy đúng cách](/ky-nang/2026/10/04/cho-o-dai-nhu-ong-nhua-tren-xe-may-ung-cach/).
+- **Cán nối dài** là món khó nhất. Rút ngắn hết cỡ, buộc dọc theo thân xe trên giá sau, không để chìa ra phía trước hay ngang hông. Cách cố định đồ dài được nói kỹ trong bài [chở đồ dài như ống nhựa trên xe máy đúng cách](/ky-nang/2026/10/04/cho-do-dai-nhu-ong-nhua-tren-xe-may-dung-cach/).
 
 Thang nhôm gấp thì không nên chở bằng xe máy, kể cả loại nhỏ, vì nó dài, sắc cạnh và bắt gió. Mượn tại chỗ hoặc nhờ giao.
 

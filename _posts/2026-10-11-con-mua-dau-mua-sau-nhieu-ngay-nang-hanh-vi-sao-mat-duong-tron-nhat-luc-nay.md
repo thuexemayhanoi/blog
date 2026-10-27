@@ -22,7 +22,7 @@ Bài này giải thích vì sao mặt đường trơn nhất lúc này, và giú
 
 Suốt những ngày khô, mặt đường giống một tấm thớt chưa rửa. Dầu máy rỉ từ hàng nghìn chiếc xe, cao su mòn từ lốp, bụi đất từ công trình, bụi mịn từ khói xe cứ thế bám dần lên lớp nhựa. Trời khô thì lớp này nằm im, bánh xe vẫn bám khá tốt, nên ít ai để ý.
 
-Nếu bạn từng đọc về chuyện [mặt đường nhiều bụi trong mùa hanh khô](/ky-nang/2026/10/09/mua-hanh-kho-mat-uong-nhieu-bui-chay-xe-can-than-gi/), bạn sẽ hình dung được lớp bụi ấy dày đến mức nào ở các tuyến xe tải và quanh công trường. Đó chính là "nguyên liệu" cho cú trơn trượt khi mưa đến.
+Nếu bạn từng đọc về chuyện [mặt đường nhiều bụi trong mùa hanh khô](/ky-nang/2026/10/09/mua-hanh-kho-mat-duong-nhieu-bui-chay-xe-can-than-gi/), bạn sẽ hình dung được lớp bụi ấy dày đến mức nào ở các tuyến xe tải và quanh công trường. Đó chính là "nguyên liệu" cho cú trơn trượt khi mưa đến.
 
 ## Vì sao những phút đầu cơn mưa đường trơn nhất khi đi xe máy
 
@@ -49,7 +49,7 @@ Khi gặp mưa sau nhiều ngày nắng, chạy xe máy bạn nên dè chừng n
 - **Đường gần công trường, đường xe tải chở vật liệu**: bụi đất gặp nước thành bùn mỏng.
 - **Dốc lên cầu, dốc dẫn xuống hầm, ngõ lát gạch**: nghiêng xe hoặc phanh ở đây dễ mất lái hơn.
 
-Ví dụ quen thuộc ở phía Long Biên: chạy dọc đường Nguyễn Văn Cừ lúc mưa vừa lắc rắc, đoạn trước các nút giao đông xe thường loang dầu rõ. Hay ở những đoạn đường gom có xe tải ra vào công trường, chỉ vài phút mưa là bánh xe đã lấm bùn nhão. Tình huống này khác hẳn [mặt đường ẩm ngày nồm](/ky-nang/2026/10/01/chay-xe-may-ngay-nom-ha-noi-mat-uong-va-tam-nhin-khac-mua/), vốn trơn đều và kéo dài cả ngày chứ không trơn dồn vào một quãng ngắn.
+Ví dụ quen thuộc ở phía Long Biên: chạy dọc đường Nguyễn Văn Cừ lúc mưa vừa lắc rắc, đoạn trước các nút giao đông xe thường loang dầu rõ. Hay ở những đoạn đường gom có xe tải ra vào công trường, chỉ vài phút mưa là bánh xe đã lấm bùn nhão. Tình huống này khác hẳn [mặt đường ẩm ngày nồm](/ky-nang/2026/10/01/chay-xe-may-ngay-nom-ha-noi-mat-duong-va-tam-nhin-khac-mua/), vốn trơn đều và kéo dài cả ngày chứ không trơn dồn vào một quãng ngắn.
 
 ## Mưa đầu mùa: nên tấp vào chờ hay chạy chậm lại
 
@@ -85,7 +85,7 @@ Khi đó, hãy giảm tốc rõ rệt, giữ khoảng cách với xe trước xa
 
 Sau cơn mưa đầu mùa, mặt đường vẫn còn những chỗ chưa được rửa sạch: mép đường ít xe chạy, chỗ trũng đọng nước bẩn, lá cây và cành nhỏ bị gió quật xuống. Nắng lên nhanh làm đường khô loang lổ, chỗ khô chỗ ướt, bánh xe đổi độ bám liên tục.
 
-Nếu cơn mưa đầu mùa đến dữ dội, kèm gió giật và nước dâng ở các tuyến trũng, hãy xem thêm [những đoạn nên tránh khi chạy xe ngay sau mưa lớn](/ky-nang/2026/10/04/chay-xe-ngay-sau-mua-lon-nhung-oan-nen-tranh/) để chọn lộ trình về nhà an toàn hơn.
+Nếu cơn mưa đầu mùa đến dữ dội, kèm gió giật và nước dâng ở các tuyến trũng, hãy xem thêm [những đoạn nên tránh khi chạy xe ngay sau mưa lớn](/ky-nang/2026/10/04/chay-xe-ngay-sau-mua-lon-nhung-doan-nen-tranh/) để chọn lộ trình về nhà an toàn hơn.
 
 ## Chuẩn bị xe trước những cơn mưa đầu mùa
 

@@ -71,7 +71,7 @@ Nhà ở Gia Lâm, Đông Anh mà phải sang nội thành mượn nồi thì n�
 
 ## Mua nồi mới ở chợ: tận dụng hộp và nhờ người bán
 
-Mua nồi mới thì dễ hơn, vì nồi thường còn hộp giấy hoặc lớp xốp. Đừng vứt hộp ngay ở chợ: hộp giấy có đáy phẳng, có góc vuông, dễ buộc lên giá sau hơn hẳn chiếc nồi trần. Nhờ người bán quấn thêm băng dính quanh hộp và buộc giúp một vòng dây. Cách chở hộp vuông lên xe có thể tham khảo bài [chở thùng carton trên xe máy: lót, buộc và đi chậm](/ky-nang/2026/10/10/cho-thung-carton-tren-xe-may-lot-buoc-va-i-cham/).
+Mua nồi mới thì dễ hơn, vì nồi thường còn hộp giấy hoặc lớp xốp. Đừng vứt hộp ngay ở chợ: hộp giấy có đáy phẳng, có góc vuông, dễ buộc lên giá sau hơn hẳn chiếc nồi trần. Nhờ người bán quấn thêm băng dính quanh hộp và buộc giúp một vòng dây. Cách chở hộp vuông lên xe có thể tham khảo bài [chở thùng carton trên xe máy: lót, buộc và đi chậm](/ky-nang/2026/10/10/cho-thung-carton-tren-xe-may-lot-buoc-va-di-cham/).
 
 ## Trả nồi sau cỗ: rửa khô, lồng lại như lúc mượn
 

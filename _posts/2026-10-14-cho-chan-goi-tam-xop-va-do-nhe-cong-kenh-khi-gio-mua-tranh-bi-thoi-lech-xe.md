@@ -57,7 +57,7 @@ Người ngồi sau ôm một gói chăn trong lòng thì được, nhưng khôn
 - **Các cây cầu qua sông Hồng.** Cầu Nhật Tân, Thăng Long, Vĩnh Tuy, Thanh Trì là những đoạn dài, cao, hoàn toàn lộng gió. Cầu Chương Dương và cầu Long Biên thấp hơn nhưng vẫn hứng gió từ mặt sông.
 - **Đường đê và đường ven sông.** Đường Âu Cơ, Nghi Tàm phía Tây Hồ, đường Hồng Hà, đê Nguyễn Khoái, đường đê qua Long Biên và Gia Lâm đều thoáng ở một bên, gió thổi ngang khá đều.
 
-Nếu đang chở đồ bắt gió, hãy ưu tiên đường trong phố có hàng nhà hai bên dù phải đi vòng xa hơn một chút. Khi bắt buộc qua sông, chọn cầu thấp và ngắn hơn trong lộ trình của mình. Những ngày dự báo có gió mùa về, gió thường mạnh hơn vào buổi chiều và tối, nên mua đồ buổi sáng sẽ dễ chịu hơn. Kinh nghiệm xử lý chung khi trời nổi gió có trong bài [gió lớn và cơn giông giữa đường](/ky-nang/2026-09-29/gio-lon-va-con-giong-giua-uong/).
+Nếu đang chở đồ bắt gió, hãy ưu tiên đường trong phố có hàng nhà hai bên dù phải đi vòng xa hơn một chút. Khi bắt buộc qua sông, chọn cầu thấp và ngắn hơn trong lộ trình của mình. Những ngày dự báo có gió mùa về, gió thường mạnh hơn vào buổi chiều và tối, nên mua đồ buổi sáng sẽ dễ chịu hơn. Kinh nghiệm xử lý chung khi trời nổi gió có trong bài [gió lớn và cơn giông giữa đường](/ky-nang/2026-09-29/gio-lon-va-con-giong-giua-duong/).
 
 ## Lái xe thế nào khi đang chở đồ bắt gió
 

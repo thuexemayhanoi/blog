@@ -67,7 +67,7 @@ Khi ngang hàng đoàn, giữ tay lái thẳng, không rồ ga giật cục sát
 
 Đường quanh hồ Tây sáng cuối tuần là cảnh hỗn hợp: đoàn đạp xe, người chạy bộ, người dắt chó đi dạo, xe hàng rong và du khách dừng chụp ảnh. Vượt đoàn ở đây gần như không được gì vì vài trăm mét sau lại có vật cản khác. Hợp lý hơn là chạy chậm phía sau, đợi đoạn rộng hoặc đợi đoàn rẽ vào điểm nghỉ.
 
-Trên đoạn đê ven sông Hồng phía Long Biên, mặt đường hẹp và có xe tải nhỏ chạy ngược chiều. Giả sử bạn đang bám sau đoàn hàng đôi thì thấy xe tải xuất hiện phía xa: đừng tranh thủ vượt. Giữ khoảng cách, để xe tải đi qua đoàn trước rồi mới tính. Cách nghĩ này giống khi [gặp đoàn xe cưới trên đường](/ky-nang/2026/10/10/gap-oan-xe-cuoi-tren-uong-giu-khoang-cach-the-nao/): kiên nhẫn vài phút đổi lại một lần vượt gọn.
+Trên đoạn đê ven sông Hồng phía Long Biên, mặt đường hẹp và có xe tải nhỏ chạy ngược chiều. Giả sử bạn đang bám sau đoàn hàng đôi thì thấy xe tải xuất hiện phía xa: đừng tranh thủ vượt. Giữ khoảng cách, để xe tải đi qua đoàn trước rồi mới tính. Cách nghĩ này giống khi [gặp đoàn xe cưới trên đường](/ky-nang/2026/10/10/gap-doan-xe-cuoi-tren-duong-giu-khoang-cach-the-nao/): kiên nhẫn vài phút đổi lại một lần vượt gọn.
 
 Nếu bạn và đoàn cùng dừng đèn đỏ, khi đèn xanh các tay đạp cần vài giây để móc giày vào bàn đạp và lấy tốc độ, xe có thể chao nhẹ. Nhường họ đi trước một nhịp rồi mới vượt khi đoàn đã ổn định.
 
@@ -79,8 +79,8 @@ Nếu bạn và đoàn cùng dừng đèn đỏ, khi đèn xanh các tay đạp 
 - **Vừa đi vừa quay điện thoại** khi đang ngang hàng đoàn.
 - **Nẹt pô, lời qua tiếng lại khi bị chắn đường.** Thấy đoàn dàn hàng quá rộng, cứ chậm lại.
 
-Tinh thần chung giống khi [đi qua đoàn rước trên đường hẹp](/ky-nang/2026/09/30/gap-oan-ruoc-tren-uong-hep-xu-ly-the-nao/): bạn không cần thắng ai, chỉ cần qua đúng lúc. Quy định về đi hàng ngang hay vượt xe có thể thay đổi, nên hãy kiểm tra văn bản mới nhất thay vì nghe truyền miệng.
+Tinh thần chung giống khi [đi qua đoàn rước trên đường hẹp](/ky-nang/2026/09/30/gap-doan-ruoc-tren-duong-hep-xu-ly-the-nao/): bạn không cần thắng ai, chỉ cần qua đúng lúc. Quy định về đi hàng ngang hay vượt xe có thể thay đổi, nên hãy kiểm tra văn bản mới nhất thay vì nghe truyền miệng.
 
 ## Trước khi ra đường sáng cuối tuần
 
-Nếu thuê xe để đi vòng hồ hay ra ngoại thành, dành vài phút làm quen tay phanh, tay ga và còi trước khi lăn bánh, vì xe lạ tay gặp đoàn xe đạp ở khúc hẹp rất dễ phản ứng thừa. Đọc thêm các bài trong mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), như [khi trẻ nhỏ lao ra đường](/ky-nang/2026/10/07/chay-xe-may-thay-tre-lao-ra-uong-xu-ly-the-nao/), hoặc cả chuyên mục [kỹ năng lái xe máy](/ky-nang/). Cần xe cho chuyến sáng cuối tuần, bạn có thể gọi Nguyễn Tú qua số 0942 467 674 trong giờ 09:00–21:00. Lần tới gặp đoàn áo đồng phục phía trước, hãy làm đúng trình tự: nhả ga, đọc đoàn, chờ đoạn thẳng, rồi vượt rộng và dứt khoát.
+Nếu thuê xe để đi vòng hồ hay ra ngoại thành, dành vài phút làm quen tay phanh, tay ga và còi trước khi lăn bánh, vì xe lạ tay gặp đoàn xe đạp ở khúc hẹp rất dễ phản ứng thừa. Đọc thêm các bài trong mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), như [khi trẻ nhỏ lao ra đường](/ky-nang/2026/10/07/chay-xe-may-thay-tre-lao-ra-duong-xu-ly-the-nao/), hoặc cả chuyên mục [kỹ năng lái xe máy](/ky-nang/). Cần xe cho chuyến sáng cuối tuần, bạn có thể gọi Nguyễn Tú qua số 0942 467 674 trong giờ 09:00–21:00. Lần tới gặp đoàn áo đồng phục phía trước, hãy làm đúng trình tự: nhả ga, đọc đoàn, chờ đoạn thẳng, rồi vượt rộng và dứt khoát.

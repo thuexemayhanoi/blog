@@ -38,7 +38,7 @@ Dây điện, dây cáp viễn thông võng thấp rất khó thấy khi trời 
 
 ### Mặt đường
 
-Một đống lá ướt có thể che cành gãy, mảnh tôn hoặc đoạn dây bên dưới. Đừng cán thẳng qua thứ gì bạn không nhìn rõ. Cách xử lý lá ướt và vũng đọng giống như khi [đi qua đường trơn và vũng nước](/ky-nang/2026-09-29/uong-tron-va-vung-nuoc-qua-the-nao/): giảm tốc trước khi tới, giữ tay lái thẳng, tránh phanh gấp khi bánh đang trên lớp lá.
+Một đống lá ướt có thể che cành gãy, mảnh tôn hoặc đoạn dây bên dưới. Đừng cán thẳng qua thứ gì bạn không nhìn rõ. Cách xử lý lá ướt và vũng đọng giống như khi [đi qua đường trơn và vũng nước](/ky-nang/2026-09-29/duong-tron-va-vung-nuoc-qua-the-nao/): giảm tốc trước khi tới, giữ tay lái thẳng, tránh phanh gấp khi bánh đang trên lớp lá.
 
 ## Cành cây gãy chắn đường: ba câu hỏi trước khi vòng qua
 

@@ -20,7 +20,7 @@ writer: W2
 
 Quần thể nhà thờ ở thị trấn Phát Diệm, vùng Kim Sơn, được xây từ cuối thế kỷ 19 dưới sự chỉ huy của linh mục Trần Lục, người dân quen gọi là cụ Sáu. Điều đặc biệt là cả quần thể mang dáng đình chùa Việt: mái cong, cột gỗ lim lớn, tường và cửa đá chạm khắc hoa sen, cây trúc, nhưng bên trong vẫn là không gian Công giáo.
 
-Vì vậy, đây là nơi đáng đi chậm. Nhiều người đi Phát Diệm từ Hà Nội rồi chỉ đứng trước Phương Đình chụp ảnh và quay về, bỏ lỡ phần hay nhất là các chi tiết chạm đá và cách bố trí các nhà nguyện nhỏ quanh nhà thờ lớn. Nếu bạn đã từng đi [chùa Bái Đính và Tràng An bằng xe máy](/cung-duong/2026/10/04/chua-bai-inh-trang-an-bang-xe-may-tu-ha-noi-cung-uong-va-luu-y/), Phát Diệm sẽ cho bạn một trải nghiệm rất khác: nhỏ hơn, tĩnh hơn, và cần để mắt vào chi tiết.
+Vì vậy, đây là nơi đáng đi chậm. Nhiều người đi Phát Diệm từ Hà Nội rồi chỉ đứng trước Phương Đình chụp ảnh và quay về, bỏ lỡ phần hay nhất là các chi tiết chạm đá và cách bố trí các nhà nguyện nhỏ quanh nhà thờ lớn. Nếu bạn đã từng đi [chùa Bái Đính và Tràng An bằng xe máy](/cung-duong/2026/10/04/chua-bai-dinh-trang-an-bang-xe-may-tu-ha-noi-cung-duong-va-luu-y/), Phát Diệm sẽ cho bạn một trải nghiệm rất khác: nhỏ hơn, tĩnh hơn, và cần để mắt vào chi tiết.
 
 ## Đường đi nhà thờ đá Phát Diệm bằng xe máy từ Hà Nội
 
@@ -35,7 +35,7 @@ Quãng đường một chiều dài hơn trăm cây số, chủ yếu là quốc
 - Chặng một: từ Hà Nội tới khu vực Phủ Lý, dừng uống nước, duỗi lưng, kiểm tra xăng.
 - Chặng hai: từ Phủ Lý về Phát Diệm, đường bắt đầu thưa dần, có đoạn đi qua làng mạc và cánh đồng.
 
-Cách tính chuyện đổ xăng và nghỉ giữa chặng cũng giống như khi bạn chạy những cung xa khác, bạn có thể tham khảo thêm [kinh nghiệm xăng và nghỉ trên đường Kỳ Sơn - Hòa Bình](/cung-duong/2026/09/29/kinh-nghiem-uong-en-ky-son-va-hoa-binh-thuong-nguon-xang-va-nghi/) để áp dụng tương tự. Với cung này, xe tay ga như Vision hay Air Blade đi thoải mái, xe số như Wave cũng ổn nếu bạn quen ngồi lâu.
+Cách tính chuyện đổ xăng và nghỉ giữa chặng cũng giống như khi bạn chạy những cung xa khác, bạn có thể tham khảo thêm [kinh nghiệm xăng và nghỉ trên đường Kỳ Sơn - Hòa Bình](/cung-duong/2026/09/29/kinh-nghiem-duong-den-ky-son-va-hoa-binh-thuong-nguon-xang-va-nghi/) để áp dụng tương tự. Với cung này, xe tay ga như Vision hay Air Blade đi thoải mái, xe số như Wave cũng ổn nếu bạn quen ngồi lâu.
 
 ## Trang phục khi vào nhà thờ đá Phát Diệm
 

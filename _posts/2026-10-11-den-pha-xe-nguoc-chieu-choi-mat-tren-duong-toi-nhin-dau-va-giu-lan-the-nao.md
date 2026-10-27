@@ -58,7 +58,7 @@ Khi bị lóa, nhiều người vô thức lái về phía nguồn sáng, tức 
 - **Không vượt xe trước khi đang bị lóa.** Mọi pha vượt đều đợi mắt sáng lại.
 - **Coi chừng xe ngược chiều đang vượt nhau.** Trên đường hẹp, một chiếc xe có thể lao ra giữa đường ngay trong vùng sáng chói mà bạn không phân biệt được. Giảm tốc sớm là cách đỡ nhất.
 
-Một tình huống hay gặp ở vùng ven: bạn đang theo sau xe tải trên đoạn không đèn, xe tải rẽ vào bãi, đúng lúc đó ô tô ngược chiều bật pha. Phía trước vừa mất "tấm che" thì bạn bị lóa ngay. Cách xử lý vẫn là nhả ga, rà phanh, bám mép phải. Nếu hay đi đường nhiều xe lớn, bài về [xe container quay đầu trên đường hẹp](/ky-nang/2026/10/11/xe-container-quay-au-tren-uong-hep-xu-ly-the-nao-khi-i-xe-may/) giúp bạn đoán trước những pha chuyển hướng bất ngờ như vậy.
+Một tình huống hay gặp ở vùng ven: bạn đang theo sau xe tải trên đoạn không đèn, xe tải rẽ vào bãi, đúng lúc đó ô tô ngược chiều bật pha. Phía trước vừa mất "tấm che" thì bạn bị lóa ngay. Cách xử lý vẫn là nhả ga, rà phanh, bám mép phải. Nếu hay đi đường nhiều xe lớn, bài về [xe container quay đầu trên đường hẹp](/ky-nang/2026/10/11/xe-container-quay-dau-tren-duong-hep-xu-ly-the-nao-khi-di-xe-may/) giúp bạn đoán trước những pha chuyển hướng bất ngờ như vậy.
 
 ## Sau khi xe kia đi qua: đừng vội tăng ga
 
