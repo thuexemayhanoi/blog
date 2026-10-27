@@ -48,7 +48,7 @@ Phần này người mới hay làm sai nhất, vì với smartkey không có đ
 
 **Mở yên:** thường là một vị trí riêng trên núm hoặc một nút riêng, xe phải nhận remote mới thực hiện được. Lấy đồ xong, đậy yên bằng tay cho đến khi nghe tiếng chốt. Đừng để remote trong cốp rồi đóng yên, vì khi đó bạn khóa remote ở bên trong xe.
 
-Một thói quen đáng tập: tắt máy, khóa cổ, kiểm tra remote đang ở trong túi, rồi mới bước đi. Ba bước ấy làm thành phản xạ thì gửi xe ở ven Hồ Tây hay trước quán phở trên phố Ngọc Lâm đều yên tâm hơn. Đồ để dưới yên thì xem thêm bài [cốp dưới yên xe ga chở được gì](/xe-may/2026/09/27/khoang-e-o-duoi-yen-xe-ga-cho-uoc-gi/).
+Một thói quen đáng tập: tắt máy, khóa cổ, kiểm tra remote đang ở trong túi, rồi mới bước đi. Ba bước ấy làm thành phản xạ thì gửi xe ở ven Hồ Tây hay trước quán phở trên phố Ngọc Lâm đều yên tâm hơn. Đồ để dưới yên thì xem thêm bài [cốp dưới yên xe ga chở được gì](/xe-may/2026/09/27/khoang-de-do-duoi-yen-xe-ga-cho-duoc-gi/).
 
 ## Xe ga không nhận chìa thông minh: nhận ra sớm
 
@@ -59,7 +59,7 @@ Pin remote yếu dần chứ hiếm khi tắt ngay, nên người để ý sẽ 
 - Đèn nhỏ trên remote (nếu có) nháy yếu hoặc không nháy.
 - Trên một số đời xe, đồng hồ hiện biểu tượng chìa khóa hoặc đèn báo khác thường.
 
-Có những lần xe ga không nhận chìa thông minh dù pin vẫn còn. Trước khi kết luận, thử: rút remote khỏi túi đựng chung điện thoại hay sạc dự phòng, đưa remote lại sát núm; dắt xe ra khỏi chỗ nhiều thiết bị điện như hầm tòa nhà văn phòng; nhìn đồng hồ xem có sáng bình thường không, vì đèn mờ, còi yếu là chuyện ắc quy chứ không phải remote. Phần ắc quy có bài riêng về [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/).
+Có những lần xe ga không nhận chìa thông minh dù pin vẫn còn. Trước khi kết luận, thử: rút remote khỏi túi đựng chung điện thoại hay sạc dự phòng, đưa remote lại sát núm; dắt xe ra khỏi chỗ nhiều thiết bị điện như hầm tòa nhà văn phòng; nhìn đồng hồ xem có sáng bình thường không, vì đèn mờ, còi yếu là chuyện ắc quy chứ không phải remote. Phần ắc quy có bài riêng về [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/).
 
 ## Khi remote yếu pin: làm gì và không nên làm gì
 

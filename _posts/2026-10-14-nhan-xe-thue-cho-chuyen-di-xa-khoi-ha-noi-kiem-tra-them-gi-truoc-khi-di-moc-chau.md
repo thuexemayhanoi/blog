@@ -42,7 +42,7 @@ Hỏi thêm một câu: xe đi lốp có săm hay không săm. Điều này quy�
 
 ### Phanh
 
-Dắt xe ra khoảng trống trước cửa hàng, chạy chậm vài mét rồi bóp từng phanh riêng. Phanh trước và phanh sau đều phải ăn đều, không kêu rít, không phải bóp sát tay lái mới dừng. Với xe ga có phanh kết hợp, thử cả khi chỉ bóp tay phanh trái. Chuyến lên Mộc Châu có những dốc dài, phanh yếu từ đầu sẽ càng yếu khi nóng lên. Cách dùng phanh khi xuống dốc dài được nói kỹ trong bài về [đèo dốc trên đường Mộc Châu và cách vào số](/cung-duong/2026/09/28/eo-doc-tren-uong-moc-chau-va-cach-vao-so/).
+Dắt xe ra khoảng trống trước cửa hàng, chạy chậm vài mét rồi bóp từng phanh riêng. Phanh trước và phanh sau đều phải ăn đều, không kêu rít, không phải bóp sát tay lái mới dừng. Với xe ga có phanh kết hợp, thử cả khi chỉ bóp tay phanh trái. Chuyến lên Mộc Châu có những dốc dài, phanh yếu từ đầu sẽ càng yếu khi nóng lên. Cách dùng phanh khi xuống dốc dài được nói kỹ trong bài về [đèo dốc trên đường Mộc Châu và cách vào số](/cung-duong/2026/09/28/deo-doc-tren-duong-moc-chau-va-cach-vao-so/).
 
 ### Xích (với xe số)
 
@@ -50,7 +50,7 @@ Nếu thuê xe số cho chuyến đi xa, nhìn xích ở đoạn giữa hai nhô
 
 ### Nhớt
 
-Hỏi cửa hàng lần gần nhất xe được thay nhớt, và xem que thăm nhớt nếu được. Cách tự đọc tình trạng nhớt có trong bài [tự kiểm tra nhớt xe thuê trước chuyến đi xa](/xe-may/2026/10/10/tu-kiem-tra-nhot-xe-thue-truoc-chuyen-i-xa/).
+Hỏi cửa hàng lần gần nhất xe được thay nhớt, và xem que thăm nhớt nếu được. Cách tự đọc tình trạng nhớt có trong bài [tự kiểm tra nhớt xe thuê trước chuyến đi xa](/xe-may/2026/10/10/tu-kiem-tra-nhot-xe-thue-truoc-chuyen-di-xa/).
 
 ## Đèn, còi, gương và chân chống: chuẩn bị cho chặng về muộn
 
@@ -77,7 +77,7 @@ Nếu cửa hàng giữ giấy tờ gì của bạn trong lúc thuê, hỏi rõ 
 - Đi mấy ngày, dự kiến về Hà Nội hôm nào và khoảng giờ nào.
 - Đi mấy người trên xe, có chở hành lý nặng không.
 
-Từ đó, hỏi tiếp cửa hàng có lưu ý gì về dòng xe phù hợp, xe số hay xe ga, và nếu xe hỏng giữa đường thì nên xử lý thế nào: tự sửa ở tiệm gần nhất rồi giữ hóa đơn, hay phải báo trước khi sửa. Thống nhất điều này từ đầu giúp tránh hiểu lầm khi trả xe. Bài [xe thuê hỏng giữa chuyến đi, trách nhiệm thuộc về ai](/thue-xe/2026/09/27/xe-thue-hong-giua-chuyen-i-trach-nhiem-thuoc-ve-ai/) có thêm cách phân chia hợp lý.
+Từ đó, hỏi tiếp cửa hàng có lưu ý gì về dòng xe phù hợp, xe số hay xe ga, và nếu xe hỏng giữa đường thì nên xử lý thế nào: tự sửa ở tiệm gần nhất rồi giữ hóa đơn, hay phải báo trước khi sửa. Thống nhất điều này từ đầu giúp tránh hiểu lầm khi trả xe. Bài [xe thuê hỏng giữa chuyến đi, trách nhiệm thuộc về ai](/thue-xe/2026/09/27/xe-thue-hong-giua-chuyen-di-trach-nhiem-thuoc-ve-ai/) có thêm cách phân chia hợp lý.
 
 Một lưu ý về giờ giấc: cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00. Muốn xuất phát sớm thì nên hẹn nhận xe từ chiều hôm trước; nếu cần giao xe tận nơi, thời gian và chi phí phải xác nhận trước khi đặt, và chỉ trong giờ mở cửa. Tính ngày về sao cho kịp trả xe trước giờ đóng cửa.
 

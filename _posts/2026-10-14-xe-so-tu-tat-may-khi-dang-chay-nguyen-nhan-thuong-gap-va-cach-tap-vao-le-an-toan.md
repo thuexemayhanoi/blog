@@ -22,7 +22,7 @@ writer_session: s-claude-w2
 Trước hết cần phân biệt máy tắt với vài hiện tượng trông giống nó:
 
 - **Máy tắt thật:** tiếng nổ mất hẳn, vặn ga không có phản hồi, đèn báo trên đồng hồ có thể vẫn sáng nếu khóa còn ở vị trí bật. Nếu đang ở số, bạn sẽ thấy xe bị ghì lại nhẹ vì bánh sau phải kéo động cơ quay theo.
-- **Tuột số:** máy vẫn nổ, thậm chí rú lên khi bạn vặn ga, nhưng xe không có lực kéo. Trường hợp này có cách xử lý riêng trong bài [xe số thuê tự nhảy số khi đang chạy](/thue-xe/2026/10/13/xe-so-thue-tu-nhay-so-khi-ang-chay-dung-an-toan-va-bao-cua-hang/).
+- **Tuột số:** máy vẫn nổ, thậm chí rú lên khi bạn vặn ga, nhưng xe không có lực kéo. Trường hợp này có cách xử lý riêng trong bài [xe số thuê tự nhảy số khi đang chạy](/thue-xe/2026/10/13/xe-so-thue-tu-nhay-so-khi-dang-chay-dung-an-toan-va-bao-cua-hang/).
 - **Bánh sau khóa cứng, có tiếng kêu lớn:** xe bị kéo lết, bánh sau không lăn. Đây là dấu hiệu máy có thể bị bó, tuyệt đối không cố nổ lại.
 
 Nhận ra đúng giúp bạn không làm thừa: máy tắt thì về số mo và cho xe trôi, còn bánh sau khóa thì phải ưu tiên giữ thăng bằng và dừng hẳn.

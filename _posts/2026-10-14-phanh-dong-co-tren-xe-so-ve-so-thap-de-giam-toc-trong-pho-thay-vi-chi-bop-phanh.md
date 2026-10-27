@@ -34,7 +34,7 @@ Hà Nội có nhịp giao thông dừng và đi liên tục: đèn đỏ dày, n
 - **Sẵn sàng tăng tốc lại.** Khi dòng xe nhích lên, bạn đang ở số phù hợp, chỉ cần lên ga.
 - **Bớt lãng phí xăng.** Nhả ga sớm và để xe tự chậm thay cho thói quen giữ ga tới sát rồi mới phanh.
 
-Về chuyện tiết kiệm xăng nói chung, bài [đi xe số tiết kiệm xăng trong phố](/xe-may/2026/10/10/i-xe-so-tiet-kiem-xang-trong-pho/) có thêm vài thói quen đáng thử.
+Về chuyện tiết kiệm xăng nói chung, bài [đi xe số tiết kiệm xăng trong phố](/xe-may/2026/10/10/di-xe-so-tiet-kiem-xang-trong-pho/) có thêm vài thói quen đáng thử.
 
 ## Về số để giảm tốc từng nấc: trình tự đúng
 
@@ -52,7 +52,7 @@ Không cần thuộc mốc tốc độ cho từng số. Tai bạn là thước �
 
 ### Tới ngã tư có đèn
 
-Đi trên đường Nguyễn Văn Cừ về phía cầu Chương Dương, các ngã tư có đèn nối nhau khá gần. Khi thấy đèn chuyển vàng ở xa, nhả ga, về từ số bốn xuống số ba, để xe trôi, rồi về số hai khi đã gần vạch. Đoạn cuối chạm phanh nhẹ. Lúc đứng chờ, chuyện giữ số một hay về mo được bàn riêng trong bài [dừng đèn đỏ bằng xe số](/xe-may/2026/10/11/dung-en-o-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-en-xanh/).
+Đi trên đường Nguyễn Văn Cừ về phía cầu Chương Dương, các ngã tư có đèn nối nhau khá gần. Khi thấy đèn chuyển vàng ở xa, nhả ga, về từ số bốn xuống số ba, để xe trôi, rồi về số hai khi đã gần vạch. Đoạn cuối chạm phanh nhẹ. Lúc đứng chờ, chuyện giữ số một hay về mo được bàn riêng trong bài [dừng đèn đỏ bằng xe số](/xe-may/2026/10/11/dung-den-do-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-den-xanh/).
 
 ### Vào vòng xuyến
 
@@ -65,7 +65,7 @@ Giờ tan tầm trên phố Cầu Giấy hay đường Nguyễn Văn Linh phía 
 ## Những lỗi hay gặp khi mới tập về số giảm tốc
 
 - **Về dồn nhiều nấc liền.** Đạp liên tiếp từ số bốn xuống số một khi xe còn nhanh làm bánh sau ghì đột ngột, có thể trượt.
-- **Về số khi đường ướt hoặc có cát.** Trên mặt đường trơn, cú ghìm mạnh dễ làm bánh sau mất bám. Xem thêm bài [giảm số trên đường ướt](/xe-may/2026/10/11/giam-so-tren-uong-uot-vi-sao-banh-sau-de-giat-va-cach-giam-cho-muot/).
+- **Về số khi đường ướt hoặc có cát.** Trên mặt đường trơn, cú ghìm mạnh dễ làm bánh sau mất bám. Xem thêm bài [giảm số trên đường ướt](/xe-may/2026/10/11/giam-so-tren-duong-uot-vi-sao-banh-sau-de-giat-va-cach-giam-cho-muot/).
 - **Về số khi đang nghiêng cua.** Làm xong việc giảm tốc trước khi vào cua.
 - **Đạp không hết hành trình.** Cần số lưng chừng khiến số không ăn hẳn, có tiếng cạch khó chịu.
 - **Quên rằng xe không có đèn phanh khi về số.** Hãy chạm phanh để người phía sau thấy tín hiệu.

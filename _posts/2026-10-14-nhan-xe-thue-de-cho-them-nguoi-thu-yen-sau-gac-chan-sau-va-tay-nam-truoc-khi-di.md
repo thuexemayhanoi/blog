@@ -17,7 +17,7 @@ writer_session: s-claude-w2
 
 Hai người thuê chung một chiếc xe để đi phố, người lái thường chỉ thử phanh, ga, đèn rồi nổ máy, ít ai nhớ kiểm tra yên sau xe máy thuê cho người đồng hành. Phần đó chỉ được để ý khi chân bạn đồng hành không có chỗ đặt hoặc yên lỏng lẻo giữa đường. Bài này hướng dẫn thử yên, gác chân, tay nắm và những câu nên hỏi cửa hàng, tất cả làm trong vài phút ngay lúc nhận xe ở Hà Nội.
 
-Cách ngồi, cách ôm cua khi đi đôi là chuyện kỹ năng, đã có trong bài [chở người phía sau an toàn khi đi đôi](/ky-nang/2026-09-29/cho-nguoi-phia-sau-an-toan-khi-i-oi/). Ở đây ta chỉ nói về chiếc xe: những bộ phận nào cần còn tốt trước khi người thứ hai ngồi lên.
+Cách ngồi, cách ôm cua khi đi đôi là chuyện kỹ năng, đã có trong bài [chở người phía sau an toàn khi đi đôi](/ky-nang/2026-09-29/cho-nguoi-phia-sau-an-toan-khi-di-doi/). Ở đây ta chỉ nói về chiếc xe: những bộ phận nào cần còn tốt trước khi người thứ hai ngồi lên.
 
 ## Vì sao phải thử riêng phần dành cho người ngồi sau
 
@@ -51,7 +51,7 @@ Một điểm cần chỉ cho người ngồi sau: vị trí ống xả. Trên n
 
 Phần lớn xe tay ga có tay nắm hoặc khung baga phía sau yên để người ngồi sau bám. Thử bằng cách nắm chặt và lắc nhẹ theo các hướng. Tay nắm phải cứng, không có độ rơ ở chân ốc. Nếu xe gắn thêm baga, kiểm tra luôn xem baga có cạnh sắc chỗ người ngồi sẽ đặt tay hay không.
 
-Một số mẫu xe số có tay nắm nhỏ hoặc chỉ có dây đai ngang yên. Dây đai rách, lỏng thì người ngồi sau không có chỗ bám chắc. Nếu bạn định chở thêm người đi xa, có thể hỏi cửa hàng xem có xe khác phù hợp hơn cho hai người hay không. Bài [chọn xe máy thuê cho người hay đi hai người](/xe-may/2026/10/07/chon-xe-may-thue-cho-nguoi-hay-i-hai-nguoi/) so sánh các dòng xe theo tiêu chí này.
+Một số mẫu xe số có tay nắm nhỏ hoặc chỉ có dây đai ngang yên. Dây đai rách, lỏng thì người ngồi sau không có chỗ bám chắc. Nếu bạn định chở thêm người đi xa, có thể hỏi cửa hàng xem có xe khác phù hợp hơn cho hai người hay không. Bài [chọn xe máy thuê cho người hay đi hai người](/xe-may/2026/10/07/chon-xe-may-thue-cho-nguoi-hay-di-hai-nguoi/) so sánh các dòng xe theo tiêu chí này.
 
 ## Ngồi thử hai người trước khi rời cửa hàng
 
@@ -71,7 +71,7 @@ Phần kiểm tra cho bạn biết tình trạng xe, phần hỏi giúp tránh h
 - **Xe có phù hợp chở hai người đi quãng bạn dự định không.** Nếu định đi xa ra ngoại thành, nói rõ để cửa hàng tư vấn dòng xe.
 - **Nếu phần dành cho người ngồi sau hỏng giữa chừng thì báo ai, làm gì.** Hỏi trước để không phải loay hoay giữa đường.
 
-Về số người được chở và những trường hợp đặc biệt, xem bài [chở người trên xe máy theo quy định hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/) trước khi đi.
+Về số người được chở và những trường hợp đặc biệt, xem bài [chở người trên xe máy theo quy định hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-dinh-hien-hanh/) trước khi đi.
 
 ## Ghi lại trong lúc bàn giao
 

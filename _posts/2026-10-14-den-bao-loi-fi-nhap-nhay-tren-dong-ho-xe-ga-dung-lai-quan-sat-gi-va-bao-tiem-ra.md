@@ -81,7 +81,7 @@ Cửa hàng sẽ cho biết nên chạy chậm về, đứng chờ hay đưa xe 
 - **Không đổ thêm phụ gia** vào bình xăng với hy vọng đèn tắt.
 - **Không đợi đến lúc trả xe mới kể.** Chuyện này nói kỹ trong bài [xe thuê sáng đèn báo lỗi vài hôm trước ngày trả](/thue-xe/2026/10/14/xe-thue-sang-den-bao-loi-vai-hom-truoc-ngay-tra-bao-cua-hang-ngay-hay-doi-luc-tr/).
 
-Nếu xe không phải không chạy mà là bấm đề không phản ứng, hãy kiểm tra phanh và chân chống theo bài [bấm đề xe ga không phản ứng: những công tắc an toàn hay bị quên](/xe-may/2026/10/11/bam-e-xe-ga-khong-phan-ung-nhung-cong-tac-an-toan-hay-bi-quen/) trước khi kết luận là lỗi phun xăng.
+Nếu xe không phải không chạy mà là bấm đề không phản ứng, hãy kiểm tra phanh và chân chống theo bài [bấm đề xe ga không phản ứng: những công tắc an toàn hay bị quên](/xe-may/2026/10/11/bam-de-xe-ga-khong-phan-ung-nhung-cong-tac-an-toan-hay-bi-quen/) trước khi kết luận là lỗi phun xăng.
 
 ## Nhận xe xong, hỏi trước một câu về đồng hồ
 

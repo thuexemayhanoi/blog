@@ -60,7 +60,7 @@ Xích chùng hoặc khô dầu kêu theo vòng quay bánh sau, không theo thao 
 - Rõ nhất ở thời điểm vừa nhả ga đột ngột hoặc vừa lên ga lại, vì xích bị giật căng rồi chùng xuống, đập vào hộp xích.
 - Qua ổ gà thì có thêm một tiếng "bộp" từ phía sau bên trái, chỗ hộp xích.
 
-Muốn biết thêm về xích khô, xích mòn và chuyện bôi trơn, xem bài [tiếng kêu ở xích xe số thuê](/xe-may/2026/10/11/tieng-keu-o-xich-xe-so-thue-chinh-va-boi-tron-ung-luc/). Ở đây chỉ cần nhớ: tiếng xích thay đổi theo tốc độ, tiếng hộp số thay đổi theo số.
+Muốn biết thêm về xích khô, xích mòn và chuyện bôi trơn, xem bài [tiếng kêu ở xích xe số thuê](/xe-may/2026/10/11/tieng-keu-o-xich-xe-so-thue-chinh-va-boi-tron-dung-luc/). Ở đây chỉ cần nhớ: tiếng xích thay đổi theo tốc độ, tiếng hộp số thay đổi theo số.
 
 ## Ba phép thử an toàn, không cần tháo gì
 

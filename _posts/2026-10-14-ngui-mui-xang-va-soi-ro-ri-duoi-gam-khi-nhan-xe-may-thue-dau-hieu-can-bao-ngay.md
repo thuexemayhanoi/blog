@@ -80,7 +80,7 @@ Nếu được đổi xe, làm lại toàn bộ bước kiểm tra cho chiếc m
 - Đợi vài phút cho máy nguội bớt rồi mới cúi xuống nhìn. Không chạm vào ống xả.
 - Nếu thấy xăng nhỏ giọt, đừng cố chạy tiếp. Gọi cho cửa hàng, mô tả vị trí và gửi ảnh.
 
-Thời gian và cách hỗ trợ cần thống nhất trực tiếp với cửa hàng. Tiệm chỉ giao nhận xe trong giờ mở cửa 09:00–21:00, và mọi chi phí phát sinh nên được xác nhận trước khi ai đó lên đường. Bài [vừa rời cửa hàng thấy xe có tiếng lạ hoặc rung](/thue-xe/2026/10/12/vua-roi-cua-hang-thay-xe-co-tieng-la-hoac-rung-dung-au-va-bao-the-nao/) có thêm cách chọn chỗ dừng an toàn khi vừa đi được một đoạn ngắn.
+Thời gian và cách hỗ trợ cần thống nhất trực tiếp với cửa hàng. Tiệm chỉ giao nhận xe trong giờ mở cửa 09:00–21:00, và mọi chi phí phát sinh nên được xác nhận trước khi ai đó lên đường. Bài [vừa rời cửa hàng thấy xe có tiếng lạ hoặc rung](/thue-xe/2026/10/12/vua-roi-cua-hang-thay-xe-co-tieng-la-hoac-rung-dung-dau-va-bao-the-nao/) có thêm cách chọn chỗ dừng an toàn khi vừa đi được một đoạn ngắn.
 
 Còn nếu mùi chỉ thoáng qua lúc dừng đèn đỏ sau khi vừa đổ xăng, đó thường là xăng tràn nhẹ quanh miệng bình. Lau sạch, đóng nắp kỹ, theo dõi thêm. Chuyện xăng lúc nhận và lúc trả nói chung được giải thích trong bài [xăng khi nhận và khi trả xe xử lý thế nào](/thue-xe/2026/09/27/xang-khi-nhan-va-khi-tra-xe-xu-ly-the-nao/).
 

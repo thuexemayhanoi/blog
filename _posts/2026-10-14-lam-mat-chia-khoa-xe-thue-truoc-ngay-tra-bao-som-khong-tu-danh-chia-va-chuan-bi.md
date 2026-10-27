@@ -34,7 +34,7 @@ Nội dung tin nhắn nên gọn: mất từ khi nào, ở khu vực nào, xe hi
 Khi chưa có chìa, chiếc xe đứng yên ở đâu thì bạn chịu trách nhiệm giữ nó ở đó. Vài nguyên tắc:
 
 1. **Đưa xe vào nơi có người trông.** Xe đang đậu vỉa hè thì đưa vào bãi gửi có vé, sân chung cư hoặc nhà trọ có cổng khóa. Xe khóa cổ khó dắt, có thể nhờ bảo vệ hỗ trợ.
-2. **Thêm khóa phụ nếu có.** Khóa đĩa hay khóa chữ U giúp yên tâm hơn khi chìa mất gần nơi xe đậu. Xem thêm [chống trộm xe máy khi thuê: khóa và cách đỗ](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/).
+2. **Thêm khóa phụ nếu có.** Khóa đĩa hay khóa chữ U giúp yên tâm hơn khi chìa mất gần nơi xe đậu. Xem thêm [chống trộm xe máy khi thuê: khóa và cách đỗ](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/).
 3. **Chụp ảnh vị trí và tình trạng xe.** Chụp toàn xe, ổ khóa còn nguyên và biển hiệu bãi gửi. Ảnh có ngày giờ chứng minh xe được bảo quản tử tế.
 4. **Giữ vé gửi xe.** Gửi ở bãi trên phố Kim Mã hay chung cư ở Cầu Giấy thì vé là thứ cần khi người của cửa hàng đến nhận xe.
 

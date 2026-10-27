@@ -29,7 +29,7 @@ Thay vì mặc định trả chiều ngày cuối, cân nhắc ba lựa chọn s
 
 1. **Về Hà Nội từ hôm trước, trả xe sáng ngày cuối.** Đây là phương án nhẹ nhất. Đường sáng ngày cuối thường thoáng hơn chiều, quầy ít khách, bạn có thời gian kiểm tra xe cùng nhân viên mà không ai phải vội.
 2. **Rời điểm du lịch thật sớm, về tới tiệm trước trưa ngày cuối.** Hợp với người ở gần như Ninh Bình, Hà Nam hay Hòa Bình. Xuất phát lúc trời vừa sáng để vào nội thành trước khi dòng xe dày lên.
-3. **Hỏi gia hạn trả sang ngày đi làm đầu tiên.** Nếu bạn vẫn ở Hà Nội sau lễ, giữ xe thêm một ngày và trả vào buổi tối đi làm về có thể dễ chịu hơn chen chiều ngày cuối. Hỏi tiệm cách tính và xác nhận bằng tin nhắn trước, theo hướng dẫn trong bài [gia hạn thuê xe máy thêm ngày](/thue-xe/2026/10/11/gia-han-thue-xe-may-them-ngay-thong-bao-ung-luc/).
+3. **Hỏi gia hạn trả sang ngày đi làm đầu tiên.** Nếu bạn vẫn ở Hà Nội sau lễ, giữ xe thêm một ngày và trả vào buổi tối đi làm về có thể dễ chịu hơn chen chiều ngày cuối. Hỏi tiệm cách tính và xác nhận bằng tin nhắn trước, theo hướng dẫn trong bài [gia hạn thuê xe máy thêm ngày](/thue-xe/2026/10/11/gia-han-thue-xe-may-them-ngay-thong-bao-dung-luc/).
 
 Phương án nào cũng cần một điều: chốt giờ cụ thể với tiệm ngay từ lúc nhận xe, không để đến sát ngày mới hỏi. Nếu bạn thuê cả tuần quanh dịp 30/4, cách giữ xe và hẹn lịch từ đầu có trong bài [thuê xe máy theo tuần dịp nghỉ lễ 30/4](/thue-xe/2026/10/14/thue-xe-may-theo-tuan-dip-nghi-le-304-15-giu-xe-som-tranh-gio-cao-diem-ra-khoi-h/).
 
@@ -43,13 +43,13 @@ Một vài cách nghĩ để đỡ mất thời gian:
 - **Người về từ phía bắc và phía đông có lợi thế.** Đi theo hướng Bắc Ninh hay Hải Dương, bạn vào thẳng địa phận Long Biên, Gia Lâm mà không phải qua cầu, nên chỉ cần tránh mấy nút giao đông là tới tiệm khá nhanh.
 - **Về từ phía tây hay Hòa Lạc** thì quãng xuyên thành phố dài nhất, càng nên tính lùi giờ xuất phát.
 
-Dù đi lối nào, đừng chạy len lỏi lên vỉa hè hay lấn làn ngược chiều chỉ để kịp giờ. Một cú quẹt xe trong đoạn kẹt sẽ tốn thời gian hơn nhiều so với việc nhắn tiệm báo muộn. Bài [giờ cao điểm Hà Nội và hướng đường nên tránh](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-khung-gio-va-huong-uong-nen-tranh-khi-moi-chay-xe-may/) có thêm gợi ý về nhịp giao thông.
+Dù đi lối nào, đừng chạy len lỏi lên vỉa hè hay lấn làn ngược chiều chỉ để kịp giờ. Một cú quẹt xe trong đoạn kẹt sẽ tốn thời gian hơn nhiều so với việc nhắn tiệm báo muộn. Bài [giờ cao điểm Hà Nội và hướng đường nên tránh](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-khung-gio-va-huong-duong-nen-tranh-khi-moi-chay-xe-may/) có thêm gợi ý về nhịp giao thông.
 
 ## Biết sẽ về muộn: nhắn tiệm sớm, đừng đợi đến sát giờ
 
 Kẹt ở Pháp Vân lúc năm giờ chiều và còn cả chặng xuyên thành phố, bạn có thể ước lượng được mình tới tiệm lúc nào. Đó là lúc nên nhắn, chứ không phải lúc đã trễ một tiếng.
 
-Một tin nhắn gọn nên có: tên người thuê, mẫu xe, vị trí hiện tại, giờ dự kiến tới. Nếu nhìn thấy khả năng không kịp trước giờ đóng cửa, hỏi luôn tiệm muốn bạn trả xe sáng hôm sau hay có cách nào khác, và xác nhận lại cách tính cho phần giờ dôi ra. Đừng tự để xe lại trước cửa hay gửi người khác khi chưa được đồng ý. Cách xử lý trường hợp này có ở bài [trả xe khi cửa hàng sắp đóng](/thue-xe/2026/10/04/tra-xe-khi-cua-hang-sap-ong-canh-gio-the-nao/).
+Một tin nhắn gọn nên có: tên người thuê, mẫu xe, vị trí hiện tại, giờ dự kiến tới. Nếu nhìn thấy khả năng không kịp trước giờ đóng cửa, hỏi luôn tiệm muốn bạn trả xe sáng hôm sau hay có cách nào khác, và xác nhận lại cách tính cho phần giờ dôi ra. Đừng tự để xe lại trước cửa hay gửi người khác khi chưa được đồng ý. Cách xử lý trường hợp này có ở bài [trả xe khi cửa hàng sắp đóng](/thue-xe/2026/10/04/tra-xe-khi-cua-hang-sap-dong-canh-gio-the-nao/).
 
 ## Chuẩn bị xe trước khi tới quầy để trả nhanh
 

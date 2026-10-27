@@ -78,7 +78,7 @@ Ngày Tết, phố Hà Nội vắng vào sáng sớm nhưng đông dồn quanh H
 - Chạy chậm một đoạn trên đường quen để làm quen tay ga, tay phanh.
 - Nếu thấy tiếng lạ, phanh không ăn hay đèn cảnh báo bật lên, quay lại tiệm ngay trong ngày thay vì đợi hết lễ.
 
-Nếu bạn còn đang phân vân chuyện đặt xe trước bao lâu và hỏi lịch nghỉ lễ của tiệm, đọc thêm bài [thuê xe máy dịp lễ dài và Tết: đặt sớm và hỏi lịch nhận trả](/thue-xe/2026/10/11/thue-xe-may-dip-le-dai-va-tet-at-som-va-hoi-lich-nhan-tra-ra-sao/).
+Nếu bạn còn đang phân vân chuyện đặt xe trước bao lâu và hỏi lịch nghỉ lễ của tiệm, đọc thêm bài [thuê xe máy dịp lễ dài và Tết: đặt sớm và hỏi lịch nhận trả](/thue-xe/2026/10/11/thue-xe-may-dip-le-dai-va-tet-dat-som-va-hoi-lich-nhan-tra-ra-sao/).
 
 ## Tóm lại
 

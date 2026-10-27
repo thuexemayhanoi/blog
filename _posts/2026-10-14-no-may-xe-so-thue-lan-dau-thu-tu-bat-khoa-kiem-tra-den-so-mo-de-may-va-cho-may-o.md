@@ -37,7 +37,7 @@ Ngay khi bật khóa, nhìn bảng đồng hồ. Ba thứ cần để ý:
 2. **Đèn báo động cơ ở xe phun xăng điện tử.** Nhiều xe phun xăng có một đèn hình động cơ sáng lên khi vừa bật khóa rồi tự tắt sau chốc lát. Chờ nó tắt rồi mới đề, máy sẽ dễ nổ hơn.
 3. **Kim xăng.** Xe thuê thường được giao với mức xăng đã ghi trong biên bản. Nhìn kim để biết chắc xe không cạn, tránh đề mãi mà lý do chỉ là hết xăng.
 
-Nếu đèn N không sáng, xe đang nằm ở một số nào đó. Xem bài [xe số không có đèn báo số](/xe-may/2026/10/11/xe-so-khong-co-en-bao-so-cach-biet-ban-ang-o-so-may/) để hiểu đèn N cho biết gì và cách dò số bằng chân.
+Nếu đèn N không sáng, xe đang nằm ở một số nào đó. Xem bài [xe số không có đèn báo số](/xe-may/2026/10/11/xe-so-khong-co-den-bao-so-cach-biet-ban-dang-o-so-may/) để hiểu đèn N cho biết gì và cách dò số bằng chân.
 
 ## Tìm về số mo khi đèn N không sáng
 
@@ -65,7 +65,7 @@ Có những xe số dạng vòng tròn: đang ở số cao nhất mà đạp ti�
 3. Từ điểm nặng đó, đạp mạnh dứt khoát xuống hết hành trình, để cần tự trả về, đừng để nó bật ngược vào ống chân.
 4. Gập cần lại sát thân xe sau khi máy đã nổ.
 
-Với xe dùng chế hòa khí trong buổi sáng lạnh, có thể cần kéo e gió trước khi đề. Vị trí cần e gió khác nhau giữa các xe, nên hỏi tiệm lúc nhận xe. Mẹo riêng cho những sáng mùa đông nằm trong bài [đề xe số trời lạnh](/xe-may/2026/10/11/e-xe-so-troi-lanh-meo-e-may-lan-au-thanh-cong/).
+Với xe dùng chế hòa khí trong buổi sáng lạnh, có thể cần kéo e gió trước khi đề. Vị trí cần e gió khác nhau giữa các xe, nên hỏi tiệm lúc nhận xe. Mẹo riêng cho những sáng mùa đông nằm trong bài [đề xe số trời lạnh](/xe-may/2026/10/11/de-xe-so-troi-lanh-meo-de-may-lan-dau-thanh-cong/).
 
 ## Chờ máy ổn định trước khi vào số
 
@@ -76,7 +76,7 @@ Máy vừa nổ thì vòng tua chưa đều, nhất là khi xe để qua đêm. 
 - **Đội mũ bảo hiểm, chỉnh gương, cất giấy tờ.** Tận dụng chính khoảng chờ này để chuẩn bị.
 - **Thử nhả ga xem máy có tự tắt không.** Nếu máy cứ chết khi nhả ga, đừng cố đi; nếu đã kéo e gió thì đẩy về dần khi máy ấm.
 
-Khi máy đã đều, hạ xe xuống khỏi chân chống giữa, ngồi vững, bóp phanh, rồi mới đạp mũi chân vào số một. Thao tác vào số và nhả ga cho xe lăn bánh được viết kỹ trong bài [đề xe và vào số 1](/ky-nang/2026/09/29/e-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi/).
+Khi máy đã đều, hạ xe xuống khỏi chân chống giữa, ngồi vững, bóp phanh, rồi mới đạp mũi chân vào số một. Thao tác vào số và nhả ga cho xe lăn bánh được viết kỹ trong bài [đề xe và vào số 1](/ky-nang/2026/09/29/de-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi/).
 
 ## Khi đã làm đúng thứ tự mà máy vẫn không nổ
 

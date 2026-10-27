@@ -21,7 +21,7 @@ Lái xe số qua đường ray trong nội đô Hà Nội, nhiều người thu�
 
 Mọi kỹ thuật về số và ga bên dưới chỉ áp dụng khi đường ray đang trống và được phép qua. Khi đèn tín hiệu nhấp nháy, chuông báo kêu, barie đang hạ hoặc đã hạ, hay nhân viên gác chắn ra hiệu dừng, bạn dừng hẳn trước vạch dừng và chờ. Không lách qua khe barie, không vượt lên khi barie chưa nâng hết, không tin rằng "tàu còn xa". Không có ngoại lệ, kể cả khi thấy người khác cố vượt.
 
-Ở những điểm giao cắt dân sinh không có barie, bạn vẫn dừng lại quan sát hai phía trước khi qua. Cách nhìn và chờ ở các điểm này đã có trong bài [qua đoạn đường ray cắt ngang: chậm và quan sát](/ky-nang/2026/10/04/qua-oan-uong-ray-cat-ngang-cham-va-quan-sat/).
+Ở những điểm giao cắt dân sinh không có barie, bạn vẫn dừng lại quan sát hai phía trước khi qua. Cách nhìn và chờ ở các điểm này đã có trong bài [qua đoạn đường ray cắt ngang: chậm và quan sát](/ky-nang/2026/10/04/qua-doan-duong-ray-cat-ngang-cham-va-quan-sat/).
 
 ## Vì sao xe số qua đường ray dễ chết máy hơn xe ga
 
@@ -40,7 +40,7 @@ Không có một con số đúng cho mọi tình huống, nhưng có vài mốc 
 - **Mặt ray cao hơn mặt đường, có dốc nhẹ lên xuống:** chọn số một hoặc số hai, đừng giữ số ba. Đoạn dốc nhỏ trước ray là nơi số cao làm xe hụt hơi nhanh nhất.
 - **Chở thêm người hay đồ nặng:** ưu tiên số thấp hơn một bậc so với lúc đi một mình.
 
-Khi không chắc xe đang ở số mấy, cứ đạp về số thấp nhất rồi lên lại thay vì đoán; bài [xe số không có đèn báo số](/xe-may/2026/10/11/xe-so-khong-co-en-bao-so-cach-biet-ban-ang-o-so-may/) có mẹo nhận biết số bằng tiếng máy. Trời mưa, hãy coi mặt ray như mặt kính và về số sớm hơn.
+Khi không chắc xe đang ở số mấy, cứ đạp về số thấp nhất rồi lên lại thay vì đoán; bài [xe số không có đèn báo số](/xe-may/2026/10/11/xe-so-khong-co-den-bao-so-cach-biet-ban-dang-o-so-may/) có mẹo nhận biết số bằng tiếng máy. Trời mưa, hãy coi mặt ray như mặt kính và về số sớm hơn.
 
 ## Giữ đà cho đều khi bánh xe lăn trên ray
 

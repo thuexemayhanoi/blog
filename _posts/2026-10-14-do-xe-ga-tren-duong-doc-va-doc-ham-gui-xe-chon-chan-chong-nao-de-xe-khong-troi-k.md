@@ -41,7 +41,7 @@ Dốc dọc là khi mặt dốc chạy cùng hướng thân xe, như dốc vỉa
 - **Đầu xe hướng lên, chân chống giữa:** xe muốn lăn về phía đang tì lên chân chống nên đứng chắc. Dùng được trên dốc nhẹ, nền cứng.
 - **Đầu xe hướng xuống:** tránh cả hai. Chân chống nghiêng dễ bị kéo gập, còn chân chống giữa dễ bị dốc đẩy bánh trước trôi tới khi xe tuột xuống.
 
-Nếu buộc phải để đầu xe hướng xuống, cho bánh trước tựa sát một vật cố định như bó vỉa hay chân tường thấp, và hỏi bảo vệ có chỗ bằng phẳng hơn không. Bài [chống xe máy trên dốc không bị tuột chân chống](/ky-nang/2026/10/05/chong-xe-may-tren-doc-ung-cach-khong-bi-tuot-chan-chong/) có thêm mẹo kê bánh dùng chung cho mọi loại xe.
+Nếu buộc phải để đầu xe hướng xuống, cho bánh trước tựa sát một vật cố định như bó vỉa hay chân tường thấp, và hỏi bảo vệ có chỗ bằng phẳng hơn không. Bài [chống xe máy trên dốc không bị tuột chân chống](/ky-nang/2026/10/05/chong-xe-may-tren-doc-dung-cach-khong-bi-tuot-chan-chong/) có thêm mẹo kê bánh dùng chung cho mọi loại xe.
 
 ## Dốc ngang: dựng chân chống trên dốc nghiêng sang hai bên
 

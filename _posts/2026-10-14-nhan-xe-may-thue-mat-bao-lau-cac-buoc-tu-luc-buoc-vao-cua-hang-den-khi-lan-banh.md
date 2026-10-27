@@ -34,8 +34,8 @@ Trong sáu bước này, bước 1 đến 3 là phần "giấy tờ và quầy",
 
 Phần lớn thời gian chờ ở quầy không đến từ thủ tục, mà từ những thứ khách chưa sẵn sàng. Vài việc làm trước ở nhà hay khách sạn giúp phần này trôi chảy:
 
-- **Đặt trước và chốt bằng tin nhắn.** Ghi rõ loại xe, ngày nhận, ngày trả. Khi đến, cửa hàng chỉ cần đối chiếu thay vì bắt đầu từ đầu. Bài [đặt xe thuê qua tin nhắn, chốt những gì bằng văn bản](/thue-xe/2026/10/03/at-xe-thue-qua-tin-nhan-chot-nhung-gi-bang-van-ban/) có danh sách các điểm nên chốt.
-- **Mang đủ giấy tờ bản gốc và bản chụp.** Danh sách cụ thể nên hỏi cửa hàng từ trước; tham khảo thêm bài [chuẩn bị giấy tờ trước khi đến cửa hàng thuê xe](/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-en-cua-hang-thue-xe/).
+- **Đặt trước và chốt bằng tin nhắn.** Ghi rõ loại xe, ngày nhận, ngày trả. Khi đến, cửa hàng chỉ cần đối chiếu thay vì bắt đầu từ đầu. Bài [đặt xe thuê qua tin nhắn, chốt những gì bằng văn bản](/thue-xe/2026/10/03/dat-xe-thue-qua-tin-nhan-chot-nhung-gi-bang-van-ban/) có danh sách các điểm nên chốt.
+- **Mang đủ giấy tờ bản gốc và bản chụp.** Danh sách cụ thể nên hỏi cửa hàng từ trước; tham khảo thêm bài [chuẩn bị giấy tờ trước khi đến cửa hàng thuê xe](/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-den-cua-hang-thue-xe/).
 - **Hỏi rõ cách đặt cọc từ trước.** Đặt cọc bằng hình thức nào, có giữ giấy tờ gì không, đều nên hỏi rõ trực tiếp với cửa hàng trước khi đến, và nhớ xin biên nhận cho bất cứ thứ gì bạn để lại.
 
 Nếu cả ba việc đã xong, phần quầy chỉ còn là đối chiếu và ký, rất nhanh. Nếu chưa, đây là bước dễ kéo dài nhất vì phải hỏi đi hỏi lại, chờ chụp giấy tờ, hay trao đổi qua ứng dụng dịch.
@@ -77,7 +77,7 @@ Tiếp theo là đội thử mũ bảo hiểm cho vừa, cài quai chắc. Cuố
 Với người có lịch kín, giờ nhận xe quan trọng không kém việc chuẩn bị giấy tờ. Cửa hàng mở từ 09:00 đến 21:00, và có vài lưu ý:
 
 - **Đầu giờ sáng** thường có nhiều khách đến nhận cùng lúc, nên báo trước giờ bạn tới.
-- **Sát giờ đóng cửa** dễ khiến bạn kiểm tra xe vội vàng; nếu buộc phải nhận tối, đọc thêm bài [nhận xe máy thuê lúc cửa hàng sắp đóng cửa](/thue-xe/2026/10/05/nhan-xe-may-thue-luc-cua-hang-sap-ong-cua/).
+- **Sát giờ đóng cửa** dễ khiến bạn kiểm tra xe vội vàng; nếu buộc phải nhận tối, đọc thêm bài [nhận xe máy thuê lúc cửa hàng sắp đóng cửa](/thue-xe/2026/10/05/nhan-xe-may-thue-luc-cua-hang-sap-dong-cua/).
 - **Giao xe tận nơi** chỉ trong giờ 09:00–21:00, thời gian và chi phí cần xác nhận trước khi đặt. Các bước kiểm tra vẫn giữ nguyên dù nhận ở đâu.
 
 Mẹo đơn giản: đừng xếp lịch hẹn quan trọng ngay sau giờ nhận xe. Chừa một khoảng đệm để bước kiểm tra không bị ép.

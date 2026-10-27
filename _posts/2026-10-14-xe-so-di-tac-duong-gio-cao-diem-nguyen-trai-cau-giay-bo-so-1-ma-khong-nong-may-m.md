@@ -41,7 +41,7 @@ Dừng chỉ vài giây thì giữ số 1, nhả ga hết và bóp phanh. Xe s�
 
 ### Khi đứng cứng: về số mo
 
-Biết chắc dòng xe sẽ đứng lâu, như đèn đỏ dài ở nút lớn, thì về số mo. Tay được nghỉ phanh, chân trái được nghỉ, và máy chạy không tải êm hơn so với giữ số chờ. Chi tiết về hai cách chờ đèn có trong bài [dừng đèn đỏ bằng xe số: về số mo hay giữ số 1](/xe-may/2026/10/11/dung-en-o-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-en-xanh/).
+Biết chắc dòng xe sẽ đứng lâu, như đèn đỏ dài ở nút lớn, thì về số mo. Tay được nghỉ phanh, chân trái được nghỉ, và máy chạy không tải êm hơn so với giữ số chờ. Chi tiết về hai cách chờ đèn có trong bài [dừng đèn đỏ bằng xe số: về số mo hay giữ số 1](/xe-may/2026/10/11/dung-den-do-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-den-xanh/).
 
 ## Nhịp ga để máy không nóng: tránh vừa giữ ga vừa bóp phanh
 
@@ -59,7 +59,7 @@ Trên Nguyễn Trãi, nhiều đoạn dòng xe máy chạy sát xe buýt và ô 
 
 ### Dấu hiệu máy đang quá nóng
 
-Chân phải nóng rát từ phía lốc máy, mùi khét nhẹ, máy gằn rõ hơn bình thường, hoặc xe hụt hơi khi vặn ga. Gặp những dấu hiệu này, đừng cố len thêm. Tìm chỗ tạt vào lề đường hoặc lối vào một tòa nhà, chỗ không cản dòng xe, tắt máy và để máy nguội. Cách xử lý chi tiết có trong bài [xe máy nóng máy khi kẹt xe giữa trưa hè](/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-e-may-nguoi-an-toan/).
+Chân phải nóng rát từ phía lốc máy, mùi khét nhẹ, máy gằn rõ hơn bình thường, hoặc xe hụt hơi khi vặn ga. Gặp những dấu hiệu này, đừng cố len thêm. Tìm chỗ tạt vào lề đường hoặc lối vào một tòa nhà, chỗ không cản dòng xe, tắt máy và để máy nguội. Cách xử lý chi tiết có trong bài [xe máy nóng máy khi kẹt xe giữa trưa hè](/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-de-may-nguoi-an-toan/).
 
 ## Đỡ mỏi chân trên một quãng tắc dài
 
@@ -71,7 +71,7 @@ Một quãng tắc từ Hà Đông vào tới Ngã Tư Sở, hay từ Mai Dịch
 - **Đi giày, không đi dép lê.** Mũi giày giúp gạt số nhẹ, bảo vệ mu bàn chân khỏi mép cần số.
 - **Thả lỏng tay.** Cầm tay lái chặt quá làm vai và cẳng tay mỏi nhanh. Giữ khuỷu tay hơi chùng.
 
-Nếu cổ chân trái đau dù đã thử các cách trên, xem thêm bài [mỏi cổ chân trái khi đi xe số trong phố đông](/xe-may/2026/10/11/moi-co-chan-trai-khi-i-xe-so-trong-pho-ong-nguyen-nhan-va-cach-giam/), có phần chỉnh cần số và tư thế đặt chân.
+Nếu cổ chân trái đau dù đã thử các cách trên, xem thêm bài [mỏi cổ chân trái khi đi xe số trong phố đông](/xe-may/2026/10/11/moi-co-chan-trai-khi-di-xe-so-trong-pho-dong-nguyen-nhan-va-cach-giam/), có phần chỉnh cần số và tư thế đặt chân.
 
 ## Một vài điểm riêng trên trục Nguyễn Trãi, Xuân Thủy, Cầu Giấy
 

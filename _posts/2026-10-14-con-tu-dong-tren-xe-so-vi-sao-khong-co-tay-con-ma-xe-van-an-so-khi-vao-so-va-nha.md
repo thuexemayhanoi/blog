@@ -37,7 +37,7 @@ Côn ly tâm chỉ lo đứng yên và khởi hành. Khi xe đang chạy, côn l
 
 Trên xe số phổ thông, trục cần số nối với một cơ cấu nhả côn. Khi bạn bắt đầu đạp, bộ côn sang số được tách ra trước, cắt lực từ máy xuống bánh. Đạp tiếp, hộp số xoay sang cấp mới. Nhấc chân, lò xo đưa cần về chỗ cũ và côn đóng lại, lực truyền qua bánh răng của số mới. Nói cách khác, mỗi cú đạp cần số là một lần bóp và thả côn, bàn chân làm thay bàn tay.
 
-Vì vậy đừng gác chân lên cần số khi chạy. Một lực tì nhẹ cũng có thể làm côn tách hờ, lá côn trượt lên nhau liên tục, nóng và mòn nhanh. Bài [nhận xe số thuê và thử côn tự động trước khi đi](/thue-xe/2026/10/12/nhan-xe-so-thue-thu-can-so-xich-va-con-tu-ong-truoc-khi-i/) có cách cảm nhận côn còn tốt hay đã yếu ngay tại cửa hàng.
+Vì vậy đừng gác chân lên cần số khi chạy. Một lực tì nhẹ cũng có thể làm côn tách hờ, lá côn trượt lên nhau liên tục, nóng và mòn nhanh. Bài [nhận xe số thuê và thử côn tự động trước khi đi](/thue-xe/2026/10/12/nhan-xe-so-thue-thu-can-so-xich-va-con-tu-dong-truoc-khi-di/) có cách cảm nhận côn còn tốt hay đã yếu ngay tại cửa hàng.
 
 ## Vì sao phải nhả ga khi đổi số
 
@@ -68,7 +68,7 @@ So với xe côn tay như Exciter hay Winner, khác biệt rõ nhất khi đi ph
 3. **Ít thao tác hơn, nhưng phải nhả ga đúng lúc.** Nhả ga chính là nửa còn lại của việc bóp côn.
 4. **Không có tay côn để cảm nhận**, nên tiếng máy và cảm giác thân xe là cách để biết côn còn tốt.
 
-Nếu bạn mới chuyển từ xe ga sang, bài [quen xe ga lần đầu đi xe số và những phản xạ cần chỉnh lại](/xe-may/2026/10/11/quen-xe-ga-lan-au-i-xe-so-nhung-phan-xa-can-chinh-lai/) đi tiếp phần thói quen tay chân.
+Nếu bạn mới chuyển từ xe ga sang, bài [quen xe ga lần đầu đi xe số và những phản xạ cần chỉnh lại](/xe-may/2026/10/11/quen-xe-ga-lan-dau-di-xe-so-nhung-phan-xa-can-chinh-lai/) đi tiếp phần thói quen tay chân.
 
 ## Tóm lại
 

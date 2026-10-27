@@ -46,7 +46,7 @@ Dựng xe thẳng, ngồi đúng chỗ bạn sẽ ngồi khi lái, đặt hai b�
 
 Đặt bàn chân ở vị trí tự nhiên rồi dịch lên, lùi xuống. Hãy chú ý bàn chân có chỗ thay đổi tư thế không, có bị cấn vào mép sàn hay phần nhựa giữa thân. Nhìn chung Vision cho cảm giác sàn rộng và phẳng so với thân xe nhỏ, còn sàn Air Blade dài theo thân xe, người cao duỗi chân thoải mái hơn.
 
-Người cao nên đọc thêm bài [người cao thuê Air Blade: gối, tay lái và tư thế ngồi](/xe-may/2026/10/11/nguoi-cao-thue-honda-air-blade-goi-tay-lai-va-tu-the-ngoi-cho-o-moi/) để biết những điểm đau thường gặp sau một ngày dài.
+Người cao nên đọc thêm bài [người cao thuê Air Blade: gối, tay lái và tư thế ngồi](/xe-may/2026/10/11/nguoi-cao-thue-honda-air-blade-goi-tay-lai-va-tu-the-ngoi-cho-do-moi/) để biết những điểm đau thường gặp sau một ngày dài.
 
 ### Bài thử người ngồi sau
 

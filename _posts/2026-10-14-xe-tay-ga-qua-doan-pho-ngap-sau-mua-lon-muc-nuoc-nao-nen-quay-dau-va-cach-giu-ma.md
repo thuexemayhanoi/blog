@@ -50,7 +50,7 @@ Ngoài độ sâu, có mấy tình huống nên rẽ đi ngay dù nước trông
 - **Ô tô và xe buýt đang chạy qua liên tục.** Sóng chúng tạo ra có thể dâng nước cao hơn mức bạn vừa ước lượng.
 - **Bạn đang chở thêm người hoặc đồ nặng.** Xe chìm thấp hơn, khó giữ thăng bằng khi đáy trơn.
 
-Quay đầu sớm thường chỉ tốn thêm một đoạn đường. Ví dụ đoạn Nguyễn Khuyến ngập thì có thể vòng sang phố khác cao hơn quanh khu Văn Miếu; trên Phạm Văn Đồng, có thể tấp vào chỗ cao chờ nước rút thay vì cố len giữa dòng xe. Bài [đường ngập sau mưa lớn ở Hà Nội: khi nào nên dừng](/thue-xe/2026/10/12/uong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-uoc/) nói kỹ hơn chuyện chờ hay đi.
+Quay đầu sớm thường chỉ tốn thêm một đoạn đường. Ví dụ đoạn Nguyễn Khuyến ngập thì có thể vòng sang phố khác cao hơn quanh khu Văn Miếu; trên Phạm Văn Đồng, có thể tấp vào chỗ cao chờ nước rút thay vì cố len giữa dòng xe. Bài [đường ngập sau mưa lớn ở Hà Nội: khi nào nên dừng](/thue-xe/2026/10/12/duong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-duoc/) nói kỹ hơn chuyện chờ hay đi.
 
 ## Nếu buộc phải đi: giữ ga, tốc độ và khoảng cách
 
@@ -79,7 +79,7 @@ Dù làm đúng, máy vẫn có thể tắt. Khi đó:
 - **Ở chỗ khô, chờ một lúc rồi mới thử khởi động.** Nếu đề nhiều lần không nổ, máy kêu lạ hoặc có khói trắng bất thường, dừng lại.
 - **Với xe thuê, báo chủ xe sớm** kèm vị trí và mô tả chuyện xảy ra, đừng tự tháo bất cứ thứ gì.
 
-Danh sách điều cần kiểm tra sau đó có trong bài [xe thuê bị chết máy giữa đường nên kiểm tra gì](/xe-may/2026/10/07/xe-thue-bi-chet-may-giua-uong-nen-kiem-tra-gi/).
+Danh sách điều cần kiểm tra sau đó có trong bài [xe thuê bị chết máy giữa đường nên kiểm tra gì](/xe-may/2026/10/07/xe-thue-bi-chet-may-giua-duong-nen-kiem-tra-gi/).
 
 ## Sau khi lên bờ
 

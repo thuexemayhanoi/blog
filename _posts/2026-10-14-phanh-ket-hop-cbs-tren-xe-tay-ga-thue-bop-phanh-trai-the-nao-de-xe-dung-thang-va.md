@@ -25,7 +25,7 @@ Trên xe ga, tay phải điều khiển phanh bánh trước, tay trái điều 
 
 ## Ba phút làm quen tay phanh trái trước khi ra đường lớn
 
-Mỗi chiếc xe có độ rơ tay phanh, độ mòn má phanh và cảm giác khác nhau. Trước khi hòa vào dòng xe trên Nguyễn Văn Cừ hay lên cầu Chương Dương, hãy dành vài phút ở chỗ vắng, ví dụ một đoạn đường gom ít xe hoặc sân rộng gần chỗ ở. Nếu ở khu Long Biên, bạn có thể tham khảo các đoạn đường dễ chạy trong bài [người mới tập đi xe tay ga khu Long Biên](/du-lich/2026/10/11/nguoi-moi-tap-i-xe-tay-ga-khu-long-bien-co-oan-nao-de-chay/).
+Mỗi chiếc xe có độ rơ tay phanh, độ mòn má phanh và cảm giác khác nhau. Trước khi hòa vào dòng xe trên Nguyễn Văn Cừ hay lên cầu Chương Dương, hãy dành vài phút ở chỗ vắng, ví dụ một đoạn đường gom ít xe hoặc sân rộng gần chỗ ở. Nếu ở khu Long Biên, bạn có thể tham khảo các đoạn đường dễ chạy trong bài [người mới tập đi xe tay ga khu Long Biên](/du-lich/2026/10/11/nguoi-moi-tap-di-xe-tay-ga-khu-long-bien-co-doan-nao-de-chay/).
 
 Ba việc nên làm:
 
@@ -71,7 +71,7 @@ Tránh bóp tay phải đột ngột và mạnh khi xe chưa thẳng. Bánh trư
 
 Nhiều người nghĩ có CBS là không thể trượt. Thực tế, CBS không chống bó cứng phanh. Nếu lực bóp vượt quá độ bám của lốp, bánh vẫn khóa. Các bề mặt dễ làm điều này xảy ra ở Hà Nội:
 
-- **Vạch sơn và nắp cống ướt.** Ở các ngã tư lớn, vạch sơn trắng trơn hơn hẳn mặt nhựa khi có mưa. Cách đi qua những đoạn này có trong bài [đi xe máy trên vạch sơn đường ướt](/ky-nang/2026/10/11/i-xe-may-tren-vach-son-uong-uot-tranh-truot-banh/).
+- **Vạch sơn và nắp cống ướt.** Ở các ngã tư lớn, vạch sơn trắng trơn hơn hẳn mặt nhựa khi có mưa. Cách đi qua những đoạn này có trong bài [đi xe máy trên vạch sơn đường ướt](/ky-nang/2026/10/11/di-xe-may-tren-vach-son-duong-uot-tranh-truot-banh/).
 - **Mặt đường phủ bụi, cát gần công trình.** Các đoạn đang thi công thường có lớp cát mỏng khó nhìn thấy.
 - **Đường lát đá, gạch trong phố cổ.** Mặt đá nhẵn và có rãnh, bám kém hơn nhựa.
 

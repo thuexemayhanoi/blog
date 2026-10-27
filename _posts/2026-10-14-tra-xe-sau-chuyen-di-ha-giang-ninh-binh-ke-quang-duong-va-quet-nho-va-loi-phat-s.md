@@ -46,7 +46,7 @@ Mỗi lần sửa, hãy cố gắng có:
 3. **Phụ tùng cũ** nếu nhỏ gọn và thợ đồng ý đưa lại, như bóng đèn hay má phanh đã thay.
 4. **Tin nhắn đã báo cửa hàng** trước hoặc ngay sau khi sửa, nếu lúc thuê hai bên đã thống nhất như vậy.
 
-Khi trả xe, đưa tất cả cùng lúc, kể theo thứ tự thời gian. Ai trả chi phí cho những lần sửa này phụ thuộc vào nguyên nhân hỏng và thỏa thuận lúc thuê; bài [xe thuê hỏng giữa chuyến đi, trách nhiệm thuộc về ai](/thue-xe/2026/09/27/xe-thue-hong-giua-chuyen-i-trach-nhiem-thuoc-ve-ai/) có cách phân chia hợp lý để tham khảo.
+Khi trả xe, đưa tất cả cùng lúc, kể theo thứ tự thời gian. Ai trả chi phí cho những lần sửa này phụ thuộc vào nguyên nhân hỏng và thỏa thuận lúc thuê; bài [xe thuê hỏng giữa chuyến đi, trách nhiệm thuộc về ai](/thue-xe/2026/09/27/xe-thue-hong-giua-chuyen-di-trach-nhiem-thuoc-ve-ai/) có cách phân chia hợp lý để tham khảo.
 
 ## Báo sự cố khi trả xe thuê: va quệt nhỏ cũng nên kể trước
 
@@ -58,11 +58,11 @@ Trên đèo Hà Giang có những khúc cua hẹp, xe khách và xe tải đi ng
 - Bạn được coi là người trung thực, cuộc nói chuyện nhẹ nhàng hơn.
 - Những vết cũ không phải do bạn gây ra sẽ dễ phân biệt hơn, nhất là khi bạn có ảnh lúc nhận xe để đối chiếu.
 
-Với va quệt có người khác liên quan, hãy kể cả những gì đã thỏa thuận tại chỗ và giữ thông tin liên lạc của bên kia. Bài [bị va quệt nhẹ khi đang thuê xe máy thì báo ai](/thue-xe/2026/10/07/bi-va-quet-nhe-khi-ang-thue-xe-may-bao-ai/) nói kỹ phần xử lý ngay tại hiện trường. Cách tính chi phí cho các vết hư hỏng thì hỏi trực tiếp cửa hàng, không nên tự đoán.
+Với va quệt có người khác liên quan, hãy kể cả những gì đã thỏa thuận tại chỗ và giữ thông tin liên lạc của bên kia. Bài [bị va quệt nhẹ khi đang thuê xe máy thì báo ai](/thue-xe/2026/10/07/bi-va-quet-nhe-khi-dang-thue-xe-may-bao-ai/) nói kỹ phần xử lý ngay tại hiện trường. Cách tính chi phí cho các vết hư hỏng thì hỏi trực tiếp cửa hàng, không nên tự đoán.
 
 ## Trước khi tới cửa hàng: lau sơ và nhắn tin báo giờ
 
-Xe về từ đường đá và đường bùn thường bám đất dày ở gầm và chắn bùn, che mất những vết xước thật. Lau sơ hoặc rửa nhanh ở một tiệm rửa xe trên đường về giúp cả hai bên nhìn rõ thân xe. Đừng tự xịt nước áp lực mạnh vào ổ khóa hay khu vực điện. Cách lau và chụp ảnh trước khi trả có trong bài [xe lấm bùn bụi sau chuyến đi ngoại thành](/thue-xe/2026/10/12/xe-lam-bun-bui-sau-chuyen-i-ngoai-thanh-lau-so-va-chup-anh-truoc-khi-tra/).
+Xe về từ đường đá và đường bùn thường bám đất dày ở gầm và chắn bùn, che mất những vết xước thật. Lau sơ hoặc rửa nhanh ở một tiệm rửa xe trên đường về giúp cả hai bên nhìn rõ thân xe. Đừng tự xịt nước áp lực mạnh vào ổ khóa hay khu vực điện. Cách lau và chụp ảnh trước khi trả có trong bài [xe lấm bùn bụi sau chuyến đi ngoại thành](/thue-xe/2026/10/12/xe-lam-bun-bui-sau-chuyen-di-ngoai-thanh-lau-so-va-chup-anh-truoc-khi-tra/).
 
 Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00. Đường từ Hà Giang về Hà Nội dài và dễ trễ, nên tính giờ xuất phát để tới nơi trước giờ đóng cửa. Khi còn cách Hà Nội một đoạn, nhắn tin báo giờ dự kiến tới và tóm tắt ngắn: quãng đường, có sửa gì, có va quệt gì. Nhân viên chuẩn bị trước, buổi trả xe nhanh hơn nhiều.
 

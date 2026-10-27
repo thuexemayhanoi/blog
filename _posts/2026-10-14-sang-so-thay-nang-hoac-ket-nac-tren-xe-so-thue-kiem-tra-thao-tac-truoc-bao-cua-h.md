@@ -64,7 +64,7 @@ Có những biểu hiện mà dù thao tác đúng, cố đạp tiếp chỉ là
 - **Cần số cong hoặc chạm vỏ máy**, thường sau khi xe đổ hay bị va ở bãi gửi.
 - **Cần số lỏng hoặc không tự bật về giữa** sau khi đạp. Nếu cần số nằm yên ở vị trí vừa đạp, bộ phận hồi vị có vấn đề.
 - **Tiếng kim loại rít hoặc nghiến** mỗi lần vào số, dù tay ga đã về hết và xe chạy chậm.
-- **Xe tự nhảy số hoặc tuột về số mo** khi đang chạy. Cách xử lý tạm đã có trong bài [xe số thuê bị tuột số giữa đường](/xe-may/2026/10/07/xe-so-thue-bi-tuot-so-giua-uong-phai-lam-sao/).
+- **Xe tự nhảy số hoặc tuột về số mo** khi đang chạy. Cách xử lý tạm đã có trong bài [xe số thuê bị tuột số giữa đường](/xe-may/2026/10/07/xe-so-thue-bi-tuot-so-giua-duong-phai-lam-sao/).
 - **Không vào được một số nào đó** sau vài lần thử đúng trình tự, hoặc chỉ vào được khi dùng lực rất mạnh.
 
 Nếu triệu chứng là giật mạnh mỗi lần đổi số chứ không phải nặng, hãy đọc thêm bài [xe số giật cục khi vào số](/xe-may/2026/10/10/xe-so-giat-cuc-khi-vao-so-chinh-lai-tung-buoc/) để phân biệt hai hiện tượng.
