@@ -76,8 +76,8 @@ Cách tốt nhất để xử lý trượt bánh xe máy là không phải xử 
 
 Có những mặt đường mà ngay cả cú phanh vừa phải cũng đủ làm bánh sau lết:
 
-- **Vạch sơn kẻ đường, nắp cống, tấm thép phủ hố công trình** khi trời mưa. Phanh trước khi tới, đi thẳng qua, không phanh ngay trên đó. Chi tiết trong bài [đi trên vạch sơn đường ướt tránh trượt bánh](/ky-nang/2026/10/11/i-xe-may-tren-vach-son-uong-uot-tranh-truot-banh/).
-- **Cát, đất, sỏi rơi vãi** gần công trình và các tuyến đê có xe tải. Giảm tốc từ xa, giữ khoảng cách để kịp phanh nhẹ. Bài [đường phủ bụi đất sau mưa: giảm tốc và phanh sớm](/ky-nang/2026/10/11/uong-phu-bui-at-sau-mua-giam-toc-va-phanh-som/) mô tả kỹ các đoạn hay gặp.
+- **Vạch sơn kẻ đường, nắp cống, tấm thép phủ hố công trình** khi trời mưa. Phanh trước khi tới, đi thẳng qua, không phanh ngay trên đó. Chi tiết trong bài [đi trên vạch sơn đường ướt tránh trượt bánh](/ky-nang/2026/10/11/di-xe-may-tren-vach-son-duong-uot-tranh-truot-banh/).
+- **Cát, đất, sỏi rơi vãi** gần công trình và các tuyến đê có xe tải. Giảm tốc từ xa, giữ khoảng cách để kịp phanh nhẹ. Bài [đường phủ bụi đất sau mưa: giảm tốc và phanh sớm](/ky-nang/2026/10/11/duong-phu-bui-dat-sau-mua-giam-toc-va-phanh-som/) mô tả kỹ các đoạn hay gặp.
 - **Cơn mưa đầu mùa** sau nhiều ngày nắng, khi bụi và dầu nổi lên mặt nhựa, ví dụ quanh hồ Tây.
 
 Trên những mặt đường này, hãy chạy chậm hơn bình thường và giảm lực phanh sau, để bánh sau luôn còn lăn.

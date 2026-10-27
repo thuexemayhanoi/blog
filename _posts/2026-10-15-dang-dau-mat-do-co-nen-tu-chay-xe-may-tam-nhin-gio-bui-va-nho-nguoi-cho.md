@@ -58,7 +58,7 @@ Nếu đau mắt kèm sốt, mệt hoặc đang uống thuốc gây buồn ngủ
 Có hôm không tránh được: phải tái khám, đi lấy giấy tờ gấp, không ai chở. Khi đó hãy giảm rủi ro hết mức:
 
 - **Chọn giờ:** tránh giờ cao điểm và tránh chạy khi trời đã tối.
-- **Che mắt:** dùng mũ có kính chắn kín hoặc đeo kính râm ôm mặt. Người cận xem thêm cách [đeo kính cận dưới mũ bảo hiểm](/ky-nang/2026/10/11/eo-kinh-can-duoi-mu-bao-hiem-khi-i-xe-may-chon-kieu-nao/).
+- **Che mắt:** dùng mũ có kính chắn kín hoặc đeo kính râm ôm mặt. Người cận xem thêm cách [đeo kính cận dưới mũ bảo hiểm](/ky-nang/2026/10/11/deo-kinh-can-duoi-mu-bao-hiem-khi-di-xe-may-chon-kieu-nao/).
 - **Không đeo kính áp tròng** khi mắt đang viêm, trừ khi bác sĩ cho phép.
 - **Mang khăn giấy sạch và nước rửa tay:** mắt nhòe thì tấp vào lề, dừng hẳn rồi mới lau.
 - **Đi chậm, giữ khoảng cách xa hơn, không vượt ẩu,** vì mắt phản ứng chậm hơn ngày thường.

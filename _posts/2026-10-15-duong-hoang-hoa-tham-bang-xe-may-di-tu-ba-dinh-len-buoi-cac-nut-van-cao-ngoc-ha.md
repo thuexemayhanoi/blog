@@ -91,6 +91,6 @@ Nếu đang đi xe thuê và chưa quen tay, bóp thử phanh trước, phanh sa
 
 Một khách ở trọ khu Đội Cấn hỏi tôi muốn lên chợ Bưởi lúc tan tầm thì đi lối nào. Tôi chỉ: từ Đội Cấn đi lên Văn Cao, tới nút Hoàng Hoa Thám thì rẽ trái theo hướng Bưởi, đi một mạch qua dốc Tam Đa, Đốc Ngữ là tới chợ. Không cần vòng ra Thụy Khuê rồi men theo hồ.
 
-Đoạn mất thời gian nhất là chờ đèn ở nút Văn Cao. Ai mới làm quen khu này nên chạy thử [cung đường sáng sớm quanh Hồ Tây cho người mới](/cung-duong/2026/10/10/cung-uong-sang-som-quanh-ho-tay-cho-nguoi-moi-chay/) trước.
+Đoạn mất thời gian nhất là chờ đèn ở nút Văn Cao. Ai mới làm quen khu này nên chạy thử [cung đường sáng sớm quanh Hồ Tây cho người mới](/cung-duong/2026/10/10/cung-duong-sang-som-quanh-ho-tay-cho-nguoi-moi-chay/) trước.
 
 Muốn ghép thêm các tuyến trong phố, bạn xem mục [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) hoặc toàn bộ [cung đường xe máy](/cung-duong/) để chọn lộ trình hợp với ngày của mình.

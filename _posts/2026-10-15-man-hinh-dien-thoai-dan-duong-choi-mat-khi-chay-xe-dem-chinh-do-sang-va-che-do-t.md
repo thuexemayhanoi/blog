@@ -57,7 +57,7 @@ Màn hình đã chỉnh tối mà đặt sai chỗ vẫn khiến bạn phải c�
 - **Thử với kính mũ đã hạ xuống.** Thấy vệt sáng phản trên kính thì chỉnh góc hoặc giảm độ sáng thêm.
 - **Không để máy trên đùi hay trong túi áo.** Mỗi lần lấy ra xem là một lần rời tay lái.
 
-Người đeo kính cận nên xem thêm cách [đeo kính cận dưới mũ bảo hiểm](/ky-nang/2026/10/11/eo-kinh-can-duoi-mu-bao-hiem-khi-i-xe-may-chon-kieu-nao/) để tròng kính không gom thêm ánh sáng thừa.
+Người đeo kính cận nên xem thêm cách [đeo kính cận dưới mũ bảo hiểm](/ky-nang/2026/10/11/deo-kinh-can-duoi-mu-bao-hiem-khi-di-xe-may-chon-kieu-nao/) để tròng kính không gom thêm ánh sáng thừa.
 
 ## Liếc màn hình thế nào cho an toàn
 

@@ -32,7 +32,7 @@ Cách hiệu quả nhất là không để gió thổi thẳng vào da:
 - **Khăn quàng mỏng.** Che cổ, cằm vào sáng sớm và chiều tối, lúc gió lạnh và khô nhất.
 - **Găng tay.** Mu bàn tay cũng nứt nẻ như mặt; găng mỏng giữ ấm và giữ ẩm cho tay.
 
-Nếu đang đi làm hằng ngày bằng xe thuê và muốn chọn mũ phù hợp cho mùa này, bài [chọn mũ bảo hiểm cho người đi làm hằng ngày bằng xe thuê](/thue-xe/2026/10/14/chon-mu-bao-hiem-cho-nguoi-di-lam-hang-ngay-bang-xe-thue-mu-nua-dau-ba-phan-tu-v/ "Chọn mũ bảo hiểm cho người đi làm hằng ngày") so sánh các kiểu mũ và kính chắn. Còn chuyện giữ ấm tay cho buổi sáng lạnh có trong bài [tay tê cứng khi lái xe máy mùa đông](/ky-nang/2026/10/11/tay-te-cung-khi-lai-xe-may-mua-ong-giu-am-va-nghi-ung-iem/ "Tay tê cứng khi lái xe máy mùa đông").
+Nếu đang đi làm hằng ngày bằng xe thuê và muốn chọn mũ phù hợp cho mùa này, bài [chọn mũ bảo hiểm cho người đi làm hằng ngày bằng xe thuê](/thue-xe/2026/10/14/chon-mu-bao-hiem-cho-nguoi-di-lam-hang-ngay-bang-xe-thue-mu-nua-dau-ba-phan-tu-v/ "Chọn mũ bảo hiểm cho người đi làm hằng ngày") so sánh các kiểu mũ và kính chắn. Còn chuyện giữ ấm tay cho buổi sáng lạnh có trong bài [tay tê cứng khi lái xe máy mùa đông](/ky-nang/2026/10/11/tay-te-cung-khi-lai-xe-may-mua-dong-giu-am-va-nghi-dung-diem/ "Tay tê cứng khi lái xe máy mùa đông").
 
 ## Nứt môi khi đi xe máy mùa đông: giữ ẩm trước và sau mỗi chuyến
 
@@ -47,9 +47,9 @@ Nếu bạn có làn da nhạy cảm hay đang dùng sản phẩm điều trị 
 
 ## Những thói quen khiến da khô hơn
 
-Một số việc tưởng giúp được lại làm da khô thêm. Rửa mặt bằng nước thật nóng sau chuyến đi lạnh cho cảm giác dễ chịu nhưng cuốn trôi lớp dầu tự nhiên trên da. Chà khăn mạnh để lau bụi làm vùng má vốn đã căng càng rát. Đội mũ có lớp đệm bẩn, ẩm lâu ngày dễ làm vùng trán, thái dương kích ứng; cách vệ sinh mũ có ở bài [mũ bảo hiểm sạch và sức khỏe da đầu](/ky-nang/2026-09-29-mu-bao-hiem-sach-va-suc-khoe-da-au/ "Mũ bảo hiểm sạch và sức khỏe da đầu"). Khẩu trang dùng nhiều ngày không giặt cũng vậy.
+Một số việc tưởng giúp được lại làm da khô thêm. Rửa mặt bằng nước thật nóng sau chuyến đi lạnh cho cảm giác dễ chịu nhưng cuốn trôi lớp dầu tự nhiên trên da. Chà khăn mạnh để lau bụi làm vùng má vốn đã căng càng rát. Đội mũ có lớp đệm bẩn, ẩm lâu ngày dễ làm vùng trán, thái dương kích ứng; cách vệ sinh mũ có ở bài [mũ bảo hiểm sạch và sức khỏe da đầu](/ky-nang/2026-09-29-mu-bao-hiem-sach-va-suc-khoe-da-dau/ "Mũ bảo hiểm sạch và sức khỏe da đầu"). Khẩu trang dùng nhiều ngày không giặt cũng vậy.
 
-Mùa hanh khô cũng là mùa nhiều bụi trên mặt đường, mắt và mũi chịu chung cảnh với da; xem thêm bài [mùa hanh khô mặt đường nhiều bụi chạy xe cẩn thận gì](/ky-nang/2026/10/09/mua-hanh-kho-mat-uong-nhieu-bui-chay-xe-can-than-gi/ "Mùa hanh khô mặt đường nhiều bụi") để chuẩn bị đủ cho cả chuyến đi.
+Mùa hanh khô cũng là mùa nhiều bụi trên mặt đường, mắt và mũi chịu chung cảnh với da; xem thêm bài [mùa hanh khô mặt đường nhiều bụi chạy xe cẩn thận gì](/ky-nang/2026/10/09/mua-hanh-kho-mat-duong-nhieu-bui-chay-xe-can-than-gi/ "Mùa hanh khô mặt đường nhiều bụi") để chuẩn bị đủ cho cả chuyến đi.
 
 ## Khách du lịch thuê xe mùa hanh khô: mang gì theo
 

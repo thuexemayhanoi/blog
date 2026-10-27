@@ -43,13 +43,13 @@ Về tay, có hai chỗ bám an toàn: tay nắm phía sau yên hoặc giá đè
 
 Một nhịp dễ nhớ là dừng nghỉ sau khoảng bốn lăm phút tới một tiếng. Trên đường đi Ba Vì, có thể dừng quanh Hòa Lạc và Sơn Tây; đi Tam Đảo, dừng ở chân đèo trước khi bắt đầu leo dốc; đi Ninh Bình, chia chặng ở những thị trấn, cây xăng có quán nước dọc đường. Xuống xe, đi bộ vài phút, duỗi bắp chân, vươn vai, xoay thắt lưng nhẹ nhàng, uống nước.
 
-Hai người nên thống nhất trước một tín hiệu, chẳng hạn người ngồi sau vỗ nhẹ hai lần vào vai nghĩa là cần dừng sớm. Người ngồi sau thường ngại nói mình mỏi; một tín hiệu đơn giản giúp họ lên tiếng trước khi chân tê cứng tới mức xuống xe loạng choạng. Các điểm dừng và tư thế cho người lái được bàn kỹ trong bài [đau lưng trên chuyến xe máy dài: tư thế ngồi và điểm dừng chân](/ky-nang/2026/10/11/au-lung-tren-chuyen-xe-may-dai-tu-the-ngoi-va-iem-dung-chan/ "Đau lưng trên chuyến xe máy dài").
+Hai người nên thống nhất trước một tín hiệu, chẳng hạn người ngồi sau vỗ nhẹ hai lần vào vai nghĩa là cần dừng sớm. Người ngồi sau thường ngại nói mình mỏi; một tín hiệu đơn giản giúp họ lên tiếng trước khi chân tê cứng tới mức xuống xe loạng choạng. Các điểm dừng và tư thế cho người lái được bàn kỹ trong bài [đau lưng trên chuyến xe máy dài: tư thế ngồi và điểm dừng chân](/ky-nang/2026/10/11/dau-lung-tren-chuyen-xe-may-dai-tu-the-ngoi-va-diem-dung-chan/ "Đau lưng trên chuyến xe máy dài").
 
 ## Hành lý và quần áo cho người ngồi sau
 
 Đừng để người ngồi sau đeo ba lô nặng cả ngày. Buộc ba lô lên giá đèo hàng bằng dây chằng, hoặc đặt ở sàn để chân của xe tay ga nếu không vướng người lái. Ba lô nhỏ, nhẹ thì đeo được, nhưng thắt dây ngực cho ba lô áp sát lưng. Mặc quần dài thoải mái, không quá bó ở gối; áo khoác chắn gió vì người ngồi sau ít vận động nên lạnh nhanh hơn người lái, nhất là khi lên Tam Đảo buổi chiều.
 
-Với những chặng đường đèo dài hơn, kinh nghiệm cho người ngồi sau trên cung Mộc Châu ở bài [ngồi sau xe máy đường dài đi Mộc Châu: mẹo đỡ mỏi và giữ thăng bằng](/cung-duong/2026/10/11/ngoi-sau-xe-may-uong-dai-i-moc-chau-meo-o-moi-va-giu-thang-bang/ "Ngồi sau xe máy đường dài đi Mộc Châu") cũng áp dụng được.
+Với những chặng đường đèo dài hơn, kinh nghiệm cho người ngồi sau trên cung Mộc Châu ở bài [ngồi sau xe máy đường dài đi Mộc Châu: mẹo đỡ mỏi và giữ thăng bằng](/cung-duong/2026/10/11/ngoi-sau-xe-may-duong-dai-di-moc-chau-meo-do-moi-va-giu-thang-bang/ "Ngồi sau xe máy đường dài đi Mộc Châu") cũng áp dụng được.
 
 ## Người lái giúp được gì
 

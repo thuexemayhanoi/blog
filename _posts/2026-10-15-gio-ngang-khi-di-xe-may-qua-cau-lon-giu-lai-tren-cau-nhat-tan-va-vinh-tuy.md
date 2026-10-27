@@ -44,7 +44,7 @@ Cầu Vĩnh Tuy nối Hai Bà Trưng với Long Biên, gồm hai cầu song song
 
 ### Hạ trọng tâm và thu gọn người
 
-Ngồi sâu vào yên, lưng hơi đổ về trước, khuỷu tay hạ thấp và mềm. Thu người như vậy làm giảm diện tích hứng gió và đưa trọng tâm xuống gần xe. Hai gối kẹp nhẹ vào thân xe, bàn chân đặt chắc. Gối và hông giữ người, không phải hai cánh tay. Bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-ieu-khien-xe-may-chac-tay-at-tay-goi-va-ban-chan-the-nao/) mô tả kỹ cách đặt tay, gối và chân.
+Ngồi sâu vào yên, lưng hơi đổ về trước, khuỷu tay hạ thấp và mềm. Thu người như vậy làm giảm diện tích hứng gió và đưa trọng tâm xuống gần xe. Hai gối kẹp nhẹ vào thân xe, bàn chân đặt chắc. Gối và hông giữ người, không phải hai cánh tay. Bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-dieu-khien-xe-may-chac-tay-dat-tay-goi-va-ban-chan-the-nao/) mô tả kỹ cách đặt tay, gối và chân.
 
 ### Nới tay lái, để xe tự cân bằng
 

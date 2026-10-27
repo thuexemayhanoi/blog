@@ -40,13 +40,13 @@ Nếu bạn nhạy cảm với mùi hoa sữa, một vài điều chỉnh nhỏ 
 - **Không dừng chờ dưới gốc cây.** Gặp đèn đỏ ở đoạn trồng dày, dừng lùi lại vài mét nếu an toàn, đừng chen lên đứng ngay dưới tán.
 - **Không đỗ xe dưới hàng hoa sữa.** Hoa rụng bám lên yên, giỏ xe và mũ, mùi theo bạn cả quãng đường sau.
 
-Người thích ngắm hoa sữa thì ngược lại, có thể dùng chính danh sách này để lên lộ trình; bài [mùa thu Hà Nội bằng xe máy: cung đường ngắm hoa sữa và lá vàng](/du-lich/2026/10/11/mua-thu-ha-noi-bang-xe-may-cung-uong-ngam-hoa-sua-va-la-vang/ "Cung đường ngắm hoa sữa và lá vàng") gợi ý những đoạn đẹp nhất.
+Người thích ngắm hoa sữa thì ngược lại, có thể dùng chính danh sách này để lên lộ trình; bài [mùa thu Hà Nội bằng xe máy: cung đường ngắm hoa sữa và lá vàng](/du-lich/2026/10/11/mua-thu-ha-noi-bang-xe-may-cung-duong-ngam-hoa-sua-va-la-vang/ "Cung đường ngắm hoa sữa và lá vàng") gợi ý những đoạn đẹp nhất.
 
 ## Mùi hoa sữa nhức đầu: khẩu trang, kính chắn và vài thói quen
 
 Khẩu trang không chặn hết mùi nhưng làm luồng hương dịu đi đáng kể, nhất là khẩu trang nhiều lớp, ôm sát mặt. Hạ kính chắn của mũ khi chạy qua đoạn phố nhiều hoa, vì hoa và phấn hoa rơi có thể bay vào mắt. Nếu đang chạy mà hắt hơi, nhả ga, giữ hai tay trên tay lái và hắt hơi vào khẩu trang, đừng buông tay che miệng.
 
-Về tới nhà, rửa mặt, súc miệng, phủi hoa bám trên mũ và áo. Đừng dụi mắt khi tay vừa phủi hoa rụng trên yên xe. Nếu bạn vốn bị viêm mũi dị ứng hay hen, mùa hoa là lúc cần chuẩn bị kỹ hơn; những ngày không khí ô nhiễm trùng với mùa hoa, xem thêm bài [đi xe máy khi không khí ô nhiễm ở Hà Nội: khẩu trang, kính và giờ đi hợp lý](/thue-xe/2026/10/11/i-xe-may-khi-khong-khi-o-nhiem-o-ha-noi-khau-trang-kinh-va-gio-i-hop-ly/ "Đi xe máy khi không khí ô nhiễm") để chọn khẩu trang và giờ đi.
+Về tới nhà, rửa mặt, súc miệng, phủi hoa bám trên mũ và áo. Đừng dụi mắt khi tay vừa phủi hoa rụng trên yên xe. Nếu bạn vốn bị viêm mũi dị ứng hay hen, mùa hoa là lúc cần chuẩn bị kỹ hơn; những ngày không khí ô nhiễm trùng với mùa hoa, xem thêm bài [đi xe máy khi không khí ô nhiễm ở Hà Nội: khẩu trang, kính và giờ đi hợp lý](/thue-xe/2026/10/11/di-xe-may-khi-khong-khi-o-nhiem-o-ha-noi-khau-trang-kinh-va-gio-di-hop-ly/ "Đi xe máy khi không khí ô nhiễm") để chọn khẩu trang và giờ đi.
 
 ## Khách du lịch thuê xe đúng mùa hoa
 

@@ -45,7 +45,7 @@ Với mũ nửa đầu không có kính chắn, một chiếc kính bảo hộ c
 
 Khẩu trang chặn bụi cho mũi miệng, nhưng không giúp gì cho mắt. Đừng nghĩ đã đeo khẩu trang kín là đủ để đi qua đoạn đường bụi.
 
-Nếu bạn chưa chắc nên chọn mũ nào cho hợp với việc đeo kính, bài [đeo kính cận dưới mũ bảo hiểm](/ky-nang/2026/10/11/eo-kinh-can-duoi-mu-bao-hiem-khi-i-xe-may-chon-kieu-nao/) có phần so sánh các kiểu mũ, áp dụng được cho cả người đổi qua lại giữa kính gọng và kính áp tròng.
+Nếu bạn chưa chắc nên chọn mũ nào cho hợp với việc đeo kính, bài [đeo kính cận dưới mũ bảo hiểm](/ky-nang/2026/10/11/deo-kinh-can-duoi-mu-bao-hiem-khi-di-xe-may-chon-kieu-nao/) có phần so sánh các kiểu mũ, áp dụng được cho cả người đổi qua lại giữa kính gọng và kính áp tròng.
 
 ## Những thứ nên có trong cốp xe
 
@@ -77,7 +77,7 @@ Vài thói quen đơn giản giúp giảm số lần phải dừng giữa đư�
 
 - **Chọn tuyến ít bụi nếu có thể.** Từ Long Biên sang Hoàn Kiếm, đi cầu Chương Dương giờ thấp điểm thường dễ chịu hơn chen sau xe tải. Đường ven hồ Tây hay các phố trong Ba Đình ít công trình hơn trục cửa ngõ.
 - **Giữ khoảng cách xa hơn với xe tải và xe ben.** Bụi và đá dăm thường bay ra từ thùng xe phía trước.
-- **Ngày gió mùa về, cân nhắc đổi sang kính gọng.** Với những hôm gió bấc mạnh, xem thêm bài [chạy xe máy khi gió mạnh ở Hà Nội](/ky-nang/2026/10/10/chay-xe-may-khi-gio-manh-o-ha-noi-can-e-y-gi/) để biết đoạn nào nên tránh.
+- **Ngày gió mùa về, cân nhắc đổi sang kính gọng.** Với những hôm gió bấc mạnh, xem thêm bài [chạy xe máy khi gió mạnh ở Hà Nội](/ky-nang/2026/10/10/chay-xe-may-khi-gio-manh-o-ha-noi-can-de-y-gi/) để biết đoạn nào nên tránh.
 - **Chuyến dài thì nghỉ đều.** Mỗi lần dừng nghỉ là một lần mắt được chớp bình thường, tránh gió.
 
 Nếu bạn thuê xe ở tiệm, hãy hỏi mượn mũ có kính chắn khi nhận xe, và để túi đồ kính ngay trong cốp trước khi lăn bánh.

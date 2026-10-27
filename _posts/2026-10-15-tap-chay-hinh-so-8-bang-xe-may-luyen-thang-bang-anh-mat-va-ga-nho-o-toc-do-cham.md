@@ -82,6 +82,6 @@ Mỗi buổi chừng hai mươi đến ba mươi phút là đủ. Tập lâu d�
 
 ## Khi nào nên ra đường
 
-Khi bạn chạy được hình số 8 nhỏ, đổi chiều mượt và không chống chân trong vài phút liền, bạn đã có nền tảng kiểm soát xe ở tốc độ chậm. Bước tiếp theo là đường nội bộ ít xe, rồi phố vắng vào giờ thấp điểm, sau cùng mới tới các phố đông. Lộ trình này được nói kỹ trong bài [lộ trình luyện xe cho người mới ở Hà Nội](/hoi-dap/2026/10/04/lo-trinh-luyen-xe-cho-nguoi-moi-o-ha-noi-tu-vang-en-ong/).
+Khi bạn chạy được hình số 8 nhỏ, đổi chiều mượt và không chống chân trong vài phút liền, bạn đã có nền tảng kiểm soát xe ở tốc độ chậm. Bước tiếp theo là đường nội bộ ít xe, rồi phố vắng vào giờ thấp điểm, sau cùng mới tới các phố đông. Lộ trình này được nói kỹ trong bài [lộ trình luyện xe cho người mới ở Hà Nội](/hoi-dap/2026/10/04/lo-trinh-luyen-xe-cho-nguoi-moi-o-ha-noi-tu-vang-den-dong/).
 
 Nếu bạn thuê xe ở tiệm tại Long Biên để tập, hãy nói trước mình là người mới để được chọn xe nhẹ, dễ điều khiển và được chỉ các nút cơ bản. Xem thêm các bài nền tảng ở mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) và chuyên mục [kỹ năng](/ky-nang/).

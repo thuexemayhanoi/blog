@@ -72,7 +72,7 @@ Muốn mát đầu thì chọn mũ đạt chuẩn có khe thông gió và lớp 
 
 Ướt áo phần lớn chỉ là chuyện hình thức, nhưng có lúc nó báo hiệu cơ thể quá tải nhiệt: chóng mặt, buồn nôn, nhức đầu, tim đập nhanh, hoặc da nóng ran mà mồ hôi bỗng ít đi. Khi đó hãy tấp vào chỗ an toàn có bóng mát, uống nước, nghỉ tới khi người ổn hẳn; không đỡ thì nhờ người hỗ trợ hoặc tới cơ sở y tế.
 
-Đến muộn một cuộc hẹn vẫn hơn ngã xe giữa đường. Uống đủ nước trước và trong lúc đi cũng đỡ bức bối rõ rệt, xem thêm bài [uống nước đúng cách khi chạy xe trời nóng](/ky-nang/2026/10/04/uong-nuoc-ung-cach-khi-chay-xe-troi-nong/).
+Đến muộn một cuộc hẹn vẫn hơn ngã xe giữa đường. Uống đủ nước trước và trong lúc đi cũng đỡ bức bối rõ rệt, xem thêm bài [uống nước đúng cách khi chạy xe trời nóng](/ky-nang/2026/10/04/uong-nuoc-dung-cach-khi-chay-xe-troi-nong/).
 
 ## Nếu bạn thuê xe máy để đi làm ở Hà Nội
 

@@ -50,7 +50,7 @@ Nếu muốn biết số đo của mình để hỏi cỡ cho nhanh, dùng thư�
 
 Nói ngay với người giao xe rằng mũ chật hay rộng, và hỏi xem còn mũ cỡ khác hoặc kiểu khác để đội thử không. Đổi mũ lúc nhận xe chỉ mất vài phút, còn quay lại đổi giữa ngày thì mất cả buổi. Nên hỏi trước những đồ đi kèm khi đặt xe, như bài [mũ bảo hiểm, áo mưa, khóa phụ đi kèm xe thuê theo ngày: hỏi tiệm gì](/thue-xe/2026/10/14/mu-bao-hiem-ao-mua-khoa-phu-di-kem-xe-thue-theo-ngay-hoi-tiem-gi-truoc-khi-dat-x/ "Hỏi tiệm gì trước khi dắt xe đi") đã gợi ý. Với cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, bạn có thể gọi trước số 0942 467 674 để hỏi về mũ đi kèm và cỡ mũ.
 
-Nếu thuê dài ngày, đầu bạn thuộc loại khó vừa hoặc bạn đội mũ nhiều giờ mỗi ngày, cân nhắc mua một chiếc mũ riêng vừa đầu. Chọn mũ có tem hợp quy theo quy chuẩn QCVN 2:2021/BKHCN, nhãn rõ ràng; cách nhận biết mũ đạt chuẩn có trong bài [mũ bảo hiểm đạt chuẩn và quy định đội mũ](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-va-quy-inh-oi-mu/ "Mũ bảo hiểm đạt chuẩn và quy định đội mũ").
+Nếu thuê dài ngày, đầu bạn thuộc loại khó vừa hoặc bạn đội mũ nhiều giờ mỗi ngày, cân nhắc mua một chiếc mũ riêng vừa đầu. Chọn mũ có tem hợp quy theo quy chuẩn QCVN 2:2021/BKHCN, nhãn rõ ràng; cách nhận biết mũ đạt chuẩn có trong bài [mũ bảo hiểm đạt chuẩn và quy định đội mũ](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-va-quy-dinh-doi-mu/ "Mũ bảo hiểm đạt chuẩn và quy định đội mũ").
 
 Đừng tự khoét, cắt lớp xốp bên trong cho bớt chật, và đừng nhét khăn dày vào mũ rộng cho chặt. Lớp xốp là phần hấp thụ va đập; sửa nó là làm mũ mất tác dụng đúng lúc cần nhất. Khăn lót mỏng chống mồ hôi thì được, miễn mũ vẫn ngồi đúng vị trí.
 
