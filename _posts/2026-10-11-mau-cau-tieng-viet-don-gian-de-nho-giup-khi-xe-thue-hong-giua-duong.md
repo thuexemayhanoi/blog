@@ -20,7 +20,7 @@ Xe thuê chết máy giữa đường ở Hà Nội là lúc bạn cần vài c�
 
 Việc đầu tiên không phải là nói mà là dắt xe sát lề hoặc lên vỉa hè, tránh khúc cua và chỗ khuất tầm nhìn. Ở đoạn đê ven sông Hồng, nơi ít nhà cửa và ít người qua lại, hãy đứng hẳn ra ngoài mép đường thay vì đứng cạnh xe giữa làn. Sau đó chụp vài tấm ảnh: toàn cảnh xe, chỗ hỏng nếu thấy rõ, biển tên đường hoặc biển hiệu gần nhất.
 
-Mấy tấm ảnh ấy nói thay bạn khi tiếng Việt chưa đủ. Quy trình đầy đủ nằm trong [bài xử lý xe thuê hỏng giữa đường từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/), còn bài này chỉ lo phần lời nói. Nếu có người bị thương, hãy nhờ người xung quanh gọi cấp cứu trước.
+Mấy tấm ảnh ấy nói thay bạn khi tiếng Việt chưa đủ. Quy trình đầy đủ nằm trong [bài xử lý xe thuê hỏng giữa đường từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-duong-xu-ly-tung-buoc/), còn bài này chỉ lo phần lời nói. Nếu có người bị thương, hãy nhờ người xung quanh gọi cấp cứu trước.
 
 ## Mẹo đọc để câu tiếng Việt nhờ giúp khi xe hỏng nghe rõ hơn
 
@@ -41,7 +41,7 @@ Bắt đầu bằng "xin lỗi" để người ta quay lại nhìn bạn. Mỗi 
 - **Xe hết xăng rồi.** Đọc: *se het sang zoi.*
 - **Anh/chị nói chậm giúp tôi được không ạ?** Đọc: *anh/chi noi cham zup toi duoc khong a.*
 
-Với lỗi thủng lốp, thứ tự việc nên làm nằm trong [bài về xe thuê bị thủng lốp giữa đường](/thue-xe/2026/09/30/xe-thue-bi-thung-lop-giua-uong-xu-ly-the-nao/); ở đây bạn chỉ cần biết cách nói.
+Với lỗi thủng lốp, thứ tự việc nên làm nằm trong [bài về xe thuê bị thủng lốp giữa đường](/thue-xe/2026/09/30/xe-thue-bi-thung-lop-giua-duong-xu-ly-the-nao/); ở đây bạn chỉ cần biết cách nói.
 
 ## Mượn điện thoại hoặc nhờ người gọi giúp
 

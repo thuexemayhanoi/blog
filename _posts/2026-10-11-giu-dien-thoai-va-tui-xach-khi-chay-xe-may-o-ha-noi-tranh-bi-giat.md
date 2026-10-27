@@ -31,7 +31,7 @@ Túi xách đeo chéo qua vai và để nguyên về phía hông ngoài là các
 
 Trang phục cũng góp phần: áo khoác có túi trong khóa kéo là vị trí tốt cho ví và điện thoại; túi quần sau thường là chỗ dễ bị lấy vì ngoài tầm mắt. Đừng đeo dây chuyền lấp lánh bên ngoài áo: trang sức lóe lên dưới đèn pha là tín hiệu cho những người không tốt. Cứ nghĩ mỗi món đồ là một câu hỏi: nó nằm trước thân mình hay sau lưng mình.
 
-Chọn đường cũng là một lớp bảo vệ: các đoạn đường một chiều ít xe ngược chiều hơn hẳn các đoạn hai chiều hẹp, nơi xe máy có thể áp sát bạn từ phía đối diện. Bài [khung giờ và hướng nên tránh khi mới chạy xe máy](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-khung-gio-va-huong-uong-nen-tranh-khi-moi-chay-xe-may/) giúp bạn chọn giờ và hướng đường ít đông ngay từ đầu, còn với khu phố cổ thì nên đọc [có nên chạy xe máy vào phố cổ hay gửi ngoài](/thue-xe/2026/10/11/co-nen-chay-xe-may-vao-khu-pho-co-ha-noi-hay-gui-ngoai-roi-i-bo/) để cân nhắc gửi xe đi bộ, bớt hẳn mối lo giữ đồ.
+Chọn đường cũng là một lớp bảo vệ: các đoạn đường một chiều ít xe ngược chiều hơn hẳn các đoạn hai chiều hẹp, nơi xe máy có thể áp sát bạn từ phía đối diện. Bài [khung giờ và hướng nên tránh khi mới chạy xe máy](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-khung-gio-va-huong-duong-nen-tranh-khi-moi-chay-xe-may/) giúp bạn chọn giờ và hướng đường ít đông ngay từ đầu, còn với khu phố cổ thì nên đọc [có nên chạy xe máy vào phố cổ hay gửi ngoài](/thue-xe/2026/10/11/co-nen-chay-xe-may-vao-khu-pho-co-ha-noi-hay-gui-ngoai-roi-di-bo/) để cân nhắc gửi xe đi bộ, bớt hẳn mối lo giữ đồ.
 
 ## Thói quen nên bỏ khi dừng đèn đỏ
 
@@ -45,6 +45,6 @@ Hai tình huống kinh điển: một là xe máy áp sát từ phía trái đú
 
 Nếu chẳng may bị giật hoặc mất đồ, dừng ở chỗ an toàn gần nhất, gọi cho chủ xe nếu cần hỗ trợ và báo cơ quan công an khu vực; với điện thoại, đăng nhập tài khoản từ thiết bị khác để khóa máy từ xa và định vị. Làm nhanh thì khả năng phục hồi cao hơn, nhưng đừng đuổi theo xe đã giật giữa phố đông bằng mọi giá, vì rủi ro va chạm lớn hơn nhiều giá trị món đồ bị lấy.
 
-Nghe đây không phải để sợ mà để tỉnh: hàng nghìn lượt xe máy mỗi ngày đi qua trung tâm mà không có chuyện gì, vì phần lớn người ta giữ được thói quen gọn đồ. Ban tối, các tình huống nhìn thấy khó hơn, bài [đi xe máy buổi tối ở Hà Nội](/thue-xe/2026/10/11/i-xe-may-buoi-toi-o-ha-noi-lan-au-nhung-ieu-kho-thay-khi-troi-toi/) giải thích vì sao đêm nhân khó và cách giữ an toàn. Trang [thuê xe máy cho khách quốc tế](/thue-xe/khach-quoc-te/) và trang [thuê xe máy](/thue-xe/) là hai đọc thêm đáng giá trước chuyến đi đầu tiên.
+Nghe đây không phải để sợ mà để tỉnh: hàng nghìn lượt xe máy mỗi ngày đi qua trung tâm mà không có chuyện gì, vì phần lớn người ta giữ được thói quen gọn đồ. Ban tối, các tình huống nhìn thấy khó hơn, bài [đi xe máy buổi tối ở Hà Nội](/thue-xe/2026/10/11/di-xe-may-buoi-toi-o-ha-noi-lan-dau-nhung-dieu-kho-thay-khi-troi-toi/) giải thích vì sao đêm nhân khó và cách giữ an toàn. Trang [thuê xe máy cho khách quốc tế](/thue-xe/khach-quoc-te/) và trang [thuê xe máy](/thue-xe/) là hai đọc thêm đáng giá trước chuyến đi đầu tiên.
 
 Thuê Xe Máy Hà Nội Nguyễn Tú đặt tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội. Cửa hàng mở từ 09:00 tới 21:00 hằng ngày, nhắc khách quốc tế các thói quen giữ đồ an toàn khi chạy quanh trung tâm; khi cần thuê xe, hãy gọi 0942 467 674.

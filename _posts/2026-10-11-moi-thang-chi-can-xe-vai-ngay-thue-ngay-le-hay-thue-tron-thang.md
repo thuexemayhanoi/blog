@@ -22,7 +22,7 @@ Bạn không có xe riêng, ngày thường đi làm bằng xe buýt hay xe côn
 
 Lấy ví dụ bạn làm văn phòng quanh khu Cầu Giấy và đi làm bằng xe buýt. Mỗi tháng có một buổi gặp khách ở xa, một chuyến về thăm ông bà ngoại thành, thỉnh thoảng một sáng cuối tuần chạy vòng Hồ Tây hay ra đê sông Hồng cùng bạn bè. Ba nhóm việc đó cho bạn con số ngày dùng xe thật, thay vì con số bạn đoán.
 
-Kế đến, ghi chú các ngày ấy nằm liền nhau hay rải rác, vì hai ngày liền trong một tuần và hai ngày cách nhau hai tuần dẫn tới hai lựa chọn khác nhau. Hai việc nằm sát nhau thì thử gom vào một ngày để hạ số ngày thuê. Còn băn khoăn một ngày thuê có đủ cho cung đường dự định không, bài về [quãng đường đi được trong một ngày thuê](/thue-xe/2026/09/27/thue-xe-may-mot-ngay-i-uoc-bao-nhieu-km/) sẽ giúp bạn ước lượng.
+Kế đến, ghi chú các ngày ấy nằm liền nhau hay rải rác, vì hai ngày liền trong một tuần và hai ngày cách nhau hai tuần dẫn tới hai lựa chọn khác nhau. Hai việc nằm sát nhau thì thử gom vào một ngày để hạ số ngày thuê. Còn băn khoăn một ngày thuê có đủ cho cung đường dự định không, bài về [quãng đường đi được trong một ngày thuê](/thue-xe/2026/09/27/thue-xe-may-mot-ngay-di-duoc-bao-nhieu-km/) sẽ giúp bạn ước lượng.
 
 ## Bảng giá để bạn tự lắp vào phép tính
 

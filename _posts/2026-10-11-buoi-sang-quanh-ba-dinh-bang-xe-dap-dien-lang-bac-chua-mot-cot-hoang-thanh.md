@@ -73,4 +73,4 @@ Nếu có ông bà hoặc người lớn tuổi đi cùng, hãy rút lịch còn
 
 Tối hôm trước, hãy xem lại giờ mở cửa và lịch nghỉ của Lăng cùng Hoàng thành trên kênh chính thức, rồi ghi vào điện thoại thứ tự chính và phương án thay thế khi Lăng không mở. Nếu cần thuê xe, bạn có thể liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, điện thoại 0942 467 674, mở cửa 09:00–21:00, để xác nhận giá hiện tại và tình trạng xe trước khi đặt.
 
-Chiều hôm đó còn sức, [thuê xe đạp điện đi quanh phố cổ và hồ Gươm](/xe-may/2026/09/27/thue-xe-ap-ien-i-quanh-pho-co-va-ho-guom/) là chặng tiếp theo hợp lý, còn các loại xe khác cho cả chuyến nằm trong mục [thuê xe máy](/xe-may/).
+Chiều hôm đó còn sức, [thuê xe đạp điện đi quanh phố cổ và hồ Gươm](/xe-may/2026/09/27/thue-xe-dap-dien-di-quanh-pho-co-va-ho-guom/) là chặng tiếp theo hợp lý, còn các loại xe khác cho cả chuyến nằm trong mục [thuê xe máy](/xe-may/).

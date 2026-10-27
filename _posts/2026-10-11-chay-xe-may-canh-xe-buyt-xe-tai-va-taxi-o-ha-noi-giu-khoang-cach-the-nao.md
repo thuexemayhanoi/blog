@@ -27,7 +27,7 @@ Khoảng cách an toàn tối thiểu với xe lớn đi phía trước nên r�
 
 Xe tải và xe buýt có ba vùng điểm mù nguy hiểm nhất với xe máy: sát bên hông gần ngay sau cabin, sát đuôi, và phía trước cạp ngay sau đầu xe ở phía bên phụ. Nếu tài xế không nhìn thấy bạn trong gương, với anh ta bạn không tồn tại. Cách tự kiểm tra rất đơn giản: nếu bạn không nhìn thấy gương của xe lớn trong tầm mắt mình, thì gần như chắc chắn tài xế cũng không nhìn thấy bạn. Hãy dùng nguyên tắc đó mọi lúc: thấy gương thì mới an tâm đi cạnh, không thấy gương thì thoát khỏi vùng đó ngay.
 
-Đặc biệt cẩn trọng tại các nút giao và khi xe tải chuẩn bị rẽ: nếu xe tải bên cạnh bạn bật xi nhan rẽ, đừng cố chen lên bên trong, vì bạn sẽ rơi đúng vào vùng điểm mù và cung quét của đuôi xe. Chậm lại, để xe tải rẽ trọn, rồi mới đi tiếp. Đây là một trong những tình huống đã được cảnh báo trong bài [tự tính lên Hà Nội lần đầu đi xe máy](/thue-xe/2026/10/11/tu-tinh-len-ha-noi-lan-au-i-xe-may-nhung-tinh-huong-giao-thong-de-bo-ngo/).
+Đặc biệt cẩn trọng tại các nút giao và khi xe tải chuẩn bị rẽ: nếu xe tải bên cạnh bạn bật xi nhan rẽ, đừng cố chen lên bên trong, vì bạn sẽ rơi đúng vào vùng điểm mù và cung quét của đuôi xe. Chậm lại, để xe tải rẽ trọn, rồi mới đi tiếp. Đây là một trong những tình huống đã được cảnh báo trong bài [tự tính lên Hà Nội lần đầu đi xe máy](/thue-xe/2026/10/11/tu-tinh-len-ha-noi-lan-dau-di-xe-may-nhung-tinh-huong-giao-thong-de-bo-ngo/).
 
 ## Xe buýt tấp lề: dấu hiệu báo trước
 

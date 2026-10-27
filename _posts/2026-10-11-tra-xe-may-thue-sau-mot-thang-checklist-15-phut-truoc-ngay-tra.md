@@ -36,7 +36,7 @@ Khi đối chiếu tình trạng, mở lại video và biên bản nhận xe nga
 
 ## Buổi trả xe: đối chiếu biên bản và nhận lại tiền cọc
 
-Buổi trả nên hẹn vào giờ cửa hàng còn đông người làm việc, tránh sát giờ đóng cửa, để nếu có vướng mắc vẫn kịp xử trong ngày. Mang theo toàn bộ giấy tờ liên quan: hợp đồng, biên bản, chứng từ chuyển khoản cọc. Sau khi hai bên thống nhất tình trạng xe, xin trả lại biên bản có chữ ký xác nhận hoàn tất của hai bên, hoặc tối thiểu một tin nhắn xác nhận rằng xe đã trả và cọc đã xử lý xong. Các điều kiện thường gặp khi nhận lại cọc đã được kể trong bài [nhận lại tiền cọc khi trả xe](/thue-xe/2026/09/27/nhan-lai-tien-coc-khi-tra-xe-ieu-kien-thuong-gap/).
+Buổi trả nên hẹn vào giờ cửa hàng còn đông người làm việc, tránh sát giờ đóng cửa, để nếu có vướng mắc vẫn kịp xử trong ngày. Mang theo toàn bộ giấy tờ liên quan: hợp đồng, biên bản, chứng từ chuyển khoản cọc. Sau khi hai bên thống nhất tình trạng xe, xin trả lại biên bản có chữ ký xác nhận hoàn tất của hai bên, hoặc tối thiểu một tin nhắn xác nhận rằng xe đã trả và cọc đã xử lý xong. Các điều kiện thường gặp khi nhận lại cọc đã được kể trong bài [nhận lại tiền cọc khi trả xe](/thue-xe/2026/09/27/nhan-lai-tien-coc-khi-tra-xe-dieu-kien-thuong-gap/).
 
 Về thời điểm nhận cọc, hỏi ngay trong buổi trả chứ đừng để hôm sau: hoàn tại chỗ bằng tiền mặt, hay chuyển khoản trong bao nhiêu ngày, ai là người thực hiện. Nếu chuyển khoản, xin gửi lại bản ghi giao dịch. Trong trường hợp hai bên chưa thống nhất được một vết xước, hãy chụp ảnh vị trí đó trong buổi trả, ghi rõ vào biên bản là đang xem xét, hẹn thời hạn trả lời, và giữ liên lạc bằng tin nhắn thay vì trao đổi qua điện thoại cho khỏi lạc thông tin.
 

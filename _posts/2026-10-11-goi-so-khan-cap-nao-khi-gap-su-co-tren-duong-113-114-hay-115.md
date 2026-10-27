@@ -67,7 +67,7 @@ Nếu đầu dây không hiểu, hãy đưa điện thoại cho một người d
 
 Quy tắc gọn nhất: có người bị thương, có lửa hoặc khói, bạn bị đe dọa hay bị cướp giật, hoặc người và xe đang ở chỗ nguy hiểm thì gọi số khẩn cấp trước, báo cửa hàng sau, ngay khi có thể.
 
-Xe trục trặc mà mọi người đều an toàn thì gọi cửa hàng trước, như [xe thủng lốp giữa đường](/thue-xe/2026/10/10/xe-may-thue-bi-thung-lop-giua-uong-xu-ly-the-nao/), hết bình ắc quy, vỡ đèn hay rung tay lái. Các tình huống kiểu này nằm trong [mục sự cố khi thuê xe](/thue-xe/su-co/).
+Xe trục trặc mà mọi người đều an toàn thì gọi cửa hàng trước, như [xe thủng lốp giữa đường](/thue-xe/2026/10/10/xe-may-thue-bi-thung-lop-giua-duong-xu-ly-the-nao/), hết bình ắc quy, vỡ đèn hay rung tay lái. Các tình huống kiểu này nằm trong [mục sự cố khi thuê xe](/thue-xe/su-co/).
 
 Dù chọn bên nào, thứ tự an toàn vẫn giống nhau: dừng xe vào lề, đứng ở chỗ an toàn, gọi số khẩn cấp nếu cần, rồi chụp ảnh hoặc ghi lại sự việc và liên hệ cửa hàng. Số điện thoại của cửa hàng Nguyễn Tú là 0942 467 674, giờ hoạt động 09:00–21:00; ngoài giờ này, hãy ghi lại sự việc và báo khi liên lạc được.
 

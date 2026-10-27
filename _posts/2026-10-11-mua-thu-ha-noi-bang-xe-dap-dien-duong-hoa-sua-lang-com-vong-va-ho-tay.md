@@ -41,7 +41,7 @@ Gần tới làng, đường thu hẹp thành những ngõ nhỏ, và nhịp ch�
 
 Nhiều nhà làm cốm từ sớm nên buổi sáng thường dễ gặp cốm mới. Bạn có thể xin ăn thử một nhúm, hỏi người bán nên dùng trong bao lâu rồi mới mua, và mua vừa đủ vì cốm tươi không để được lâu. Mùa cốm mỗi năm một khác, thông tin có thể thay đổi, nên kiểm tra lại trước ngày đi.
 
-Trong ngõ hẹp, người đi bộ, xe máy và gánh hàng đan vào nhau, nên bạn giảm tốc và xuống dắt xe khi ngõ quá đông. Mặt ngõ nhỏ thường có chỗ lồi lõm, và bài viết về [xe đạp điện và đường ổ gà ven đô](/xe-may/2026/10/03/xe-ap-ien-va-uong-o-ga-ven-o/) nói thêm về chuyện đi trên mặt đường xấu. Túi cốm đừng treo nặng một bên ghi đông, vì xe dễ lệch khi bẻ lái.
+Trong ngõ hẹp, người đi bộ, xe máy và gánh hàng đan vào nhau, nên bạn giảm tốc và xuống dắt xe khi ngõ quá đông. Mặt ngõ nhỏ thường có chỗ lồi lõm, và bài viết về [xe đạp điện và đường ổ gà ven đô](/xe-may/2026/10/03/xe-dap-dien-va-duong-o-ga-ven-do/) nói thêm về chuyện đi trên mặt đường xấu. Túi cốm đừng treo nặng một bên ghi đông, vì xe dễ lệch khi bẻ lái.
 
 ## Dạo hồ Tây khi nắng đã xiên
 
@@ -49,7 +49,7 @@ Sau giờ nghỉ trưa, buổi chiều là lúc hồ Tây dễ chịu nhất: n�
 
 Xe điện lướt gần như không tiếng động, nên người đi bộ khó nghe thấy bạn tới gần. Ở đây bạn đi chậm hơn cả lúc ở làng, báo hiệu nhẹ bằng chuông hoặc lời chào khi vượt nhóm người đang chụp ảnh. Trẻ nhỏ có thể chạy ra bất chợt, nên ngón tay cần đặt sẵn trên phanh.
 
-Muốn có cung đường đầy đủ hơn, [gợi ý đường đi và chỗ dừng nghỉ khi đạp xe điện quanh hồ vào buổi chiều](/xe-may/2026/10/11/ap-xe-ien-quanh-ho-tay-buoi-chieu-i-uong-nao-dung-nghi-o-au/) đã xếp sẵn từng đoạn. Chỉ cần nhớ thêm một nguyên tắc: đừng cố đi trọn vòng hồ nếu pin hay sức không cho phép. Đi nửa vòng rồi nghỉ vẫn là một buổi chiều đẹp.
+Muốn có cung đường đầy đủ hơn, [gợi ý đường đi và chỗ dừng nghỉ khi đạp xe điện quanh hồ vào buổi chiều](/xe-may/2026/10/11/dap-xe-dien-quanh-ho-tay-buoi-chieu-di-duong-nao-dung-nghi-o-dau/) đã xếp sẵn từng đoạn. Chỉ cần nhớ thêm một nguyên tắc: đừng cố đi trọn vòng hồ nếu pin hay sức không cho phép. Đi nửa vòng rồi nghỉ vẫn là một buổi chiều đẹp.
 
 ## Xe đạp điện ngắm hoa sữa vào chiều muộn
 
@@ -64,7 +64,7 @@ Phố hoa sữa được nhắc nhiều nhất là Nguyễn Du, tiện nếu b�
 - **Kiểm tra xe lúc nhận:** thử phanh cả hai bánh, bật đèn trước và sau, bóp chuông và xem ghi đông có lỏng không. Thấy gì bất thường, nói với cửa hàng ngay thay vì tự chỉnh.
 - **Pin và đường lui:** tùy xe, tùy hãng, mỗi chiếc đi được xa gần khác nhau, nhất là khi trời gió, chở thêm đồ hay gặp đoạn dốc. Hỏi cách xem mức pin và đừng để pin yếu mới tính đường về. Nếu xe yếu bất thường hoặc có mùi lạ, dừng ở chỗ an toàn, không tự mở hay sửa pin, và báo cửa hàng cho thuê trước khi tự xử lý.
 - **Thời tiết:** đầu thu có ngày nắng dịu nhưng cũng có hôm mưa phùn bất chợt. Mang áo mưa mỏng, hỏi cách dùng xe khi trời mưa, và tìm chỗ trú nếu mưa to thay vì cố đi tiếp.
-- **Cọc, giấy tờ, mũ bảo hiểm:** cần xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe. Bài về [những điều cần lưu ý khi thuê xe đạp điện ở Hà Nội](/xe-may/2026/10/07/thue-xe-ap-ien-o-ha-noi-luu-y-gi/) gợi ý thêm vài điểm nên hỏi.
+- **Cọc, giấy tờ, mũ bảo hiểm:** cần xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe. Bài về [những điều cần lưu ý khi thuê xe đạp điện ở Hà Nội](/xe-may/2026/10/07/thue-xe-dap-dien-o-ha-noi-luu-y-gi/) gợi ý thêm vài điểm nên hỏi.
 
 ## Chốt kế hoạch cho một ngày thu cuối tuần
 

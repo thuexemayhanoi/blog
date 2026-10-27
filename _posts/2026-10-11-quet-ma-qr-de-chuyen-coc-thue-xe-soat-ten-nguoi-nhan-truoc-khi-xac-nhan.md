@@ -31,15 +31,15 @@ Với trường hợp nhận tiền là công ty, tên hiển thị thường d�
 
 ## Những điểm cần kiểm tra trên màn hình chuyển tiền
 
-Ngoài tên, còn ba điểm nữa trên màn hình cần soát. Thứ nhất là số tiền: cọc bao nhiêu thì bấm đúng bấy nhiêu, đừng nhập nhầm thêm số không. Thứ hai là nội dung chuyển khoản: nên ghi rõ họ tên người thuê, kèm cụm từ cọc thuê xe và ngày nhận xe, để cửa hàng không nhầm khoản của mình với khoản của khách khác; các điều kiện nên chốt trước đó đã có trong bài [đặt cọc khi thuê xe máy cần hỏi rõ điều kiện gì](/thue-xe/2026/09/27/at-coc-khi-thue-xe-may-can-hoi-ro-ieu-gi/). Thứ ba là tên ngân hàng và chi nhánh, vì có những số tài khoản trông giống nhau nhưng khác ngân hàng, chuyển sai ngân hàng thì tiền vẫn đi được nhưng thời gian đến lại chậm hơn bạn tưởng.
+Ngoài tên, còn ba điểm nữa trên màn hình cần soát. Thứ nhất là số tiền: cọc bao nhiêu thì bấm đúng bấy nhiêu, đừng nhập nhầm thêm số không. Thứ hai là nội dung chuyển khoản: nên ghi rõ họ tên người thuê, kèm cụm từ cọc thuê xe và ngày nhận xe, để cửa hàng không nhầm khoản của mình với khoản của khách khác; các điều kiện nên chốt trước đó đã có trong bài [đặt cọc khi thuê xe máy cần hỏi rõ điều kiện gì](/thue-xe/2026/09/27/dat-coc-khi-thue-xe-may-can-hoi-ro-dieu-gi/). Thứ ba là tên ngân hàng và chi nhánh, vì có những số tài khoản trông giống nhau nhưng khác ngân hàng, chuyển sai ngân hàng thì tiền vẫn đi được nhưng thời gian đến lại chậm hơn bạn tưởng.
 
-Sau khi bấm chuyển, màn hình kết quả thường hiện mã giao dịch. Hãy chụp lại toàn bộ màn hình đó, kể cả khi giao dịch chỉ ghi đang xử lý. Mã giao dịch chính là thứ bạn sẽ dùng nếu rủi ro xảy ra và cần nhờ ngân hàng kiểm tra, giống như cách phân biệt tiền cọc với tiền giữ chỗ trong bài [tiền cọc, tiền thuê trả trước và tiền giữ chỗ](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-e-khoi-hieu-nham/).
+Sau khi bấm chuyển, màn hình kết quả thường hiện mã giao dịch. Hãy chụp lại toàn bộ màn hình đó, kể cả khi giao dịch chỉ ghi đang xử lý. Mã giao dịch chính là thứ bạn sẽ dùng nếu rủi ro xảy ra và cần nhờ ngân hàng kiểm tra, giống như cách phân biệt tiền cọc với tiền giữ chỗ trong bài [tiền cọc, tiền thuê trả trước và tiền giữ chỗ](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-de-khoi-hieu-nham/).
 
 ## Khi phát hiện thông tin không khớp
 
 Nếu tên hiển thị không giống tên cửa hàng đã nói, hãy dừng lại ngay, đừng bấm xác nhận. Nhắn lại cho cửa hàng, hỏi rõ tài khoản nhận cọc đứng tên ai và nhờ gửi lại mã QR hoặc số tài khoản khác kèm ảnh chụp rõ. Nếu cửa hàng trả lời qua loa, kiểu ai nhận cũng được, đó là tín hiệu đáng lo, vì tiền của bạn sẽ về tay một người mà sau này khó truy vết khi có tranh chấp.
 
-Trường hợp xấu hơn là bạn đã bấm chuyển rồi mới thấy nghi ngờ. Lúc đó, việc đầu tiên là chụp màn hình giao dịch và nhắn ngay cho cửa hàng kèm mã giao dịch, hỏi xem tiền đã về chưa. Nếu cửa hàng xác nhận chưa thấy tiền, hãy làm theo trình tự kiểm tra từng bước như đã trình bày trong bài [chuyển cọc xong mà chủ xe báo chưa nhận được tiền](/thue-xe/2026/10/11/chu-xe-tra-loi-mo-ho-ve-tien-coc-en-roi-tinh-thi-nen-lam-gi/), tuyệt đối đừng vội chuyển lần hai để rồi chuyển trùng.
+Trường hợp xấu hơn là bạn đã bấm chuyển rồi mới thấy nghi ngờ. Lúc đó, việc đầu tiên là chụp màn hình giao dịch và nhắn ngay cho cửa hàng kèm mã giao dịch, hỏi xem tiền đã về chưa. Nếu cửa hàng xác nhận chưa thấy tiền, hãy làm theo trình tự kiểm tra từng bước như đã trình bày trong bài [chuyển cọc xong mà chủ xe báo chưa nhận được tiền](/thue-xe/2026/10/11/chu-xe-tra-loi-mo-ho-ve-tien-coc-den-roi-tinh-thi-nen-lam-gi/), tuyệt đối đừng vội chuyển lần hai để rồi chuyển trùng.
 
 ## Sau khi chuyển xong: lưu lại những gì
 

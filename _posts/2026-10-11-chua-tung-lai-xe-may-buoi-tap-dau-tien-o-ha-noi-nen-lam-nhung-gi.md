@@ -33,13 +33,13 @@ Người bạn đi cùng nên đứng ở góc bãi quan sát và hô khi bạn 
 
 ## Chỗ nào và giờ nào phù hợp để tập
 
-Ở Hà Nội, các bãi trống gần khu đô thị mới, sân chung cư vắng hoặc bãi xe cuối tuần thường là lựa chọn tốt. Tránh tập trên vỉa hè đường đông, vì người mới dễ văng sang phần đường xe chạy. Sáng sớm ngày thường là khung giờ lý tưởng: đường vắng, nắng chưa gắt và có thời gian nghỉ giữa buổi. Bài về [chọn giờ xuất phát và vòng quay khi đi lễ](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/) tuy nói về ngày lễ nhưng nguyên tắc chọn giờ vắng thì giống nhau.
+Ở Hà Nội, các bãi trống gần khu đô thị mới, sân chung cư vắng hoặc bãi xe cuối tuần thường là lựa chọn tốt. Tránh tập trên vỉa hè đường đông, vì người mới dễ văng sang phần đường xe chạy. Sáng sớm ngày thường là khung giờ lý tưởng: đường vắng, nắng chưa gắt và có thời gian nghỉ giữa buổi. Bài về [chọn giờ xuất phát và vòng quay khi đi lễ](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/) tuy nói về ngày lễ nhưng nguyên tắc chọn giờ vắng thì giống nhau.
 
 Chọn nơi có thể dừng ngay khi thấy chệt: bãi rộng, ít cột, không chậu cây. Ngày đầu không cần chạy nhiều, ba mươi phút tập trung đủ để não ghi nhận các động tác. Nghỉ giữa buổi còn quan trọng hơn luyện thêm, vì phản xạ được ghi trong lúc nghỉ, không phải trong lúc mệt.
 
 ## Khi nào nên hoãn buổi tập
 
-Mưa phùn, bê tông ướt, sương sớm làm mặt bãi trơn: hoãn. Người quá mệt sau chuyến bay đường dài, chưa ngủ đủ: hoãn. Ngày lễ đường đông, bãi trống bị chiếm làm chỗ họp: đổi lịch. Một buổi tập tệ có thể tạo nỗi sợ ăn sâu, khó sửa hơn là đợi thêm một ngày. Các tình huống dở dang khi mới lên đường đã được kể trong bài [tự đi lên Hà Nội lần đầu đi xe máy](/thue-xe/2026/10/11/tu-tinh-len-ha-noi-lan-au-i-xe-may-nhung-tinh-huong-giao-thong-de-bo-ngo/), bạn sẽ thấy hầu hết đều tránh được bằng việc tập đủ ở nơi vắng.
+Mưa phùn, bê tông ướt, sương sớm làm mặt bãi trơn: hoãn. Người quá mệt sau chuyến bay đường dài, chưa ngủ đủ: hoãn. Ngày lễ đường đông, bãi trống bị chiếm làm chỗ họp: đổi lịch. Một buổi tập tệ có thể tạo nỗi sợ ăn sâu, khó sửa hơn là đợi thêm một ngày. Các tình huống dở dang khi mới lên đường đã được kể trong bài [tự đi lên Hà Nội lần đầu đi xe máy](/thue-xe/2026/10/11/tu-tinh-len-ha-noi-lan-dau-di-xe-may-nhung-tinh-huong-giao-thong-de-bo-ngo/), bạn sẽ thấy hầu hết đều tránh được bằng việc tập đủ ở nơi vắng.
 
 Cũng nên nhớ ranh giới của buổi đầu: mục tiêu là đi, dừng và rẽ ở tốc độ thấp trong không gian kín, không phải chạy ra phố. Nếu sau hai buổi bạn vẫn thấy không kiểm soát được xe, cân nhắc đi taxi hoặc xe ôm công nghệ trong phần còn lại của chuyến đi, và dành việc tập cho một dịp khác an toàn hơn. Biết giới hạn của mình cũng là một kỹ năng của người đi đường.
 

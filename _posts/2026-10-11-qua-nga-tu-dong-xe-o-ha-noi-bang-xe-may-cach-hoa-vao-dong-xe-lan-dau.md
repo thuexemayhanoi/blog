@@ -21,7 +21,7 @@ Ngã tư là nơi kiểm tra bản lĩnh của mọi người lần đầu tự 
 
 Mọi thứ bắt đầu từ trước khi bạn đến mép giao lộ. Ngay từ khoảng cách vài trăm mét, hãy nhìn biển báo và vạch sơn để biết mình cần đi thẳng, rẽ trái hay rẽ phải, rồi chủ động ép về đúng làn từ sớm. Ép làn sát ngã tư là vùng cấm: chen giữa dòng xe dày đặc chỉ vài mét trước vạch dừng vừa nguy hiểm vừa khiến bạn bị kẹt ở lane sai. Nếu lỡ đi nhầm làn, cứ chấp nhận đi thẳng rồi quay lại vòng sau, đừng cố rẽ giữa ngã tư đông.
 
-Khi tới gần, giảm tốc nhẹ và nhìn xa. Quan sát trạng thái đèn tín hiệu từ xa giúp bạn quyết định giữ tốc hay thả dần: nếu đèn xanh vừa bật mà bạn còn cách vài chục mét, giữ tốc đều để hòa vào đầu dòng; nếu đèn đỏ còn lâu, thả nhẹ thay vì phanh gấp. Người mới hay mắc lỗi nhìn xuống ngay trước bánh xe; trong ngã tư, mắt phải đặt lên dòng xe phía trước ít nhất vài giây, như cách chuẩn bị tâm lý đã nói trong bài [tự tính lên Hà Nội lần đầu đi xe máy](/thue-xe/2026/10/11/tu-tinh-len-ha-noi-lan-au-i-xe-may-nhung-tinh-huong-giao-thong-de-bo-ngo/).
+Khi tới gần, giảm tốc nhẹ và nhìn xa. Quan sát trạng thái đèn tín hiệu từ xa giúp bạn quyết định giữ tốc hay thả dần: nếu đèn xanh vừa bật mà bạn còn cách vài chục mét, giữ tốc đều để hòa vào đầu dòng; nếu đèn đỏ còn lâu, thả nhẹ thay vì phanh gấp. Người mới hay mắc lỗi nhìn xuống ngay trước bánh xe; trong ngã tư, mắt phải đặt lên dòng xe phía trước ít nhất vài giây, như cách chuẩn bị tâm lý đã nói trong bài [tự tính lên Hà Nội lần đầu đi xe máy](/thue-xe/2026/10/11/tu-tinh-len-ha-noi-lan-dau-di-xe-may-nhung-tinh-huong-giao-thong-de-bo-ngo/).
 
 ## Cách hòa vào dòng xe lần đầu
 
@@ -33,7 +33,7 @@ Một nguyên tắc nhỏ giúp bạn đỡ bị chèn: nhìn xe phía trước 
 
 Ngã tư Hà Nội nhiều khi đèn xanh bật mà xe từ hướng khác vẫn chưa gột sạch, hoặc dòng xe phía trước còn kéo dài qua tâm giao lộ. Nếu bạn còn cách vạch dừng và thấy không kịp sang hết, hãy dừng lại đợi chu kỳ sau. Chậm một chu kỳ đèn chỉ mất vài chục giây, còn kẹt giữa tâm giao lộ thì vừa cản đường vừa đặt mình vào vị trí không ai nhường được. Ngược lại, nếu bạn đã ở trong dòng và dòng đang chảy, hãy đi tiếp với tốc độ của dòng, đừng phanh giữa giao lộ.
 
-Điều cần tuyệt đối tránh là dừng đột ngột giữa ngã tư. Xe phía sau bạn đang giữ nhịp và không đoán trước việc bạn đứng im. Nếu buộc phải chậm lại, hãy bóp phanh sớm và nhẹ nhàng, cùng lúc đó liếc gương để chắc xe sau đã theo kịp. Người lần đầu nên tập bài này ở các ngã tư vắng trước khi mang ra ngã tư đông, và nên tránh khung giờ tan tầm theo gợi ý của bài [giờ cao điểm Hà Nội](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/).
+Điều cần tuyệt đối tránh là dừng đột ngột giữa ngã tư. Xe phía sau bạn đang giữ nhịp và không đoán trước việc bạn đứng im. Nếu buộc phải chậm lại, hãy bóp phanh sớm và nhẹ nhàng, cùng lúc đó liếc gương để chắc xe sau đã theo kịp. Người lần đầu nên tập bài này ở các ngã tư vắng trước khi mang ra ngã tư đông, và nên tránh khung giờ tan tầm theo gợi ý của bài [giờ cao điểm Hà Nội](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/).
 
 ## Rẽ phải và rẽ trái ở ngã tư đông
 

@@ -24,7 +24,7 @@ Khi nhận được câu trả lời chưa rõ về mức cọc, đừng dừng 
 
 ## Xin chốt lại bằng chữ trước khi đến nơi
 
-Sau khi hỏi được các ý chính, hãy chủ động nhắn lại một tin tóm tắt ba đến bốn dòng: em hiểu là cọc khoảng chừng này, giữ tiền mặt, hoàn trong ba ngày sau trả xe, chỉ khấu trừ khi có hỏng hóc do mình. Kết tin bằng một câu xin anh chị xác nhận giúp em. Thói quen nhắn lại tóm tắt giúp hai bên cùng đọc một bản rõ ràng, và tin nhắn có chữ là bằng chứng mà sau này ai cũng đọc lại được. Cách khoản cọc hoạt động trong thực tế đã được kể trong bài [đặt cọc khi thuê xe máy hoạt động thế nào](/thue-xe/2026/09/27/at-coc-khi-thue-xe-may-hoat-ong-the-nao/), đọc trước khi hỏi giúp bạn biết mình đang hỏi gì.
+Sau khi hỏi được các ý chính, hãy chủ động nhắn lại một tin tóm tắt ba đến bốn dòng: em hiểu là cọc khoảng chừng này, giữ tiền mặt, hoàn trong ba ngày sau trả xe, chỉ khấu trừ khi có hỏng hóc do mình. Kết tin bằng một câu xin anh chị xác nhận giúp em. Thói quen nhắn lại tóm tắt giúp hai bên cùng đọc một bản rõ ràng, và tin nhắn có chữ là bằng chứng mà sau này ai cũng đọc lại được. Cách khoản cọc hoạt động trong thực tế đã được kể trong bài [đặt cọc khi thuê xe máy hoạt động thế nào](/thue-xe/2026/09/27/dat-coc-khi-thue-xe-may-hoat-dong-the-nao/), đọc trước khi hỏi giúp bạn biết mình đang hỏi gì.
 
 Nếu sau tin tóm tắt, chủ xe vẫn né trả lời bằng chữ, hoặc trả lời kiểu cứ đến rồi mọi thứ rõ, bạn nên coi đó là một tín hiệu đáng cân nhắc, chứ không chỉ là kiểu nói chuyện thoải mái. Một người làm ăn tử tế không mất gì khi xác nhận lại những điều mình vừa nói; việc né chữ hiếm khi vô tình.
 

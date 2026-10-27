@@ -35,7 +35,7 @@ Mỗi cuối tuần, ngồi xem lại lịch tuần mới một lần: lớp nà
 
 Đo thử một lần bằng ứng dụng bản đồ cho tất cả các cặp điểm liền kề trong tuần, rồi ghi lại khoảng cách và thời gian mỗi cặp. Con số thực tế lúc cao điểm thường gấp rưỡi thời gian dự đoán của bản đồ, nên hãy đo vào đúng khung giờ bạn sẽ chạy. Danh sách nhỏ này giúp bạn nhanh chóng nhận ra hai lớp nào ghép buổi được và hai lớp nào thì không bao giờ.
 
-Người chạy nhiều điểm còn nên chú ý các cung tránh kẹt quen thuộc cho từng cặp, vì các tuyến nhỏ song song thường nhanh hơn trục lớn mà bản đồ hay gợi ý. Bài viết về [chọn giờ xuất phát và đường đi giờ cao điểm](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/) đi sâu hơn vào cách né kẹt theo khung giờ, phần rất đáng đọc nếu tuần nào bạn cũng kẹt ở cùng một ngã tư.
+Người chạy nhiều điểm còn nên chú ý các cung tránh kẹt quen thuộc cho từng cặp, vì các tuyến nhỏ song song thường nhanh hơn trục lớn mà bản đồ hay gợi ý. Bài viết về [chọn giờ xuất phát và đường đi giờ cao điểm](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/) đi sâu hơn vào cách né kẹt theo khung giờ, phần rất đáng đọc nếu tuần nào bạn cũng kẹt ở cùng một ngã tư.
 
 ## Xe máy cho gia sư nên nhỏ gọn và đề máy nhẹ
 

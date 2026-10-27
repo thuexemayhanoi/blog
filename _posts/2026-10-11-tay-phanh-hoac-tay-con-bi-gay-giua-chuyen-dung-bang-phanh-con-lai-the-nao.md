@@ -54,7 +54,7 @@ Rồi đi chậm, cỡ ngang một chiếc xe đạp, và chậm hơn nữa khi 
 
 Chỗ tấp nên là đoạn thẳng, lề rộng, tầm nhìn thoáng như đoạn đê ven sông Hồng, tránh khúc cua, chân dốc hay ngay sau cầu vượt. Bật xi nhan sớm, nghiêng dần về phía lề thay vì cắt ngang dòng xe, và chỉ thả chân chạm đất khi xe đã chậm bằng tốc độ đi bộ.
 
-Dừng xong, kiểm tra chân chống trước khi dựng, vì cú đổ làm gãy cần phanh có thể làm cong cả chân chống; bài về [chân chống xe máy thuê bị gãy giữa chuyến](/thue-xe/2026/10/11/chan-chong-xe-may-thue-bi-gay-giua-chuyen-chong-o-va-bao-cua-hang/) bàn riêng cách chống đổ. Nếu chỗ dừng còn gần, hãy tắt máy và dắt xe sát lề tới đó, vì xe thiếu phanh không đáng để mạo hiểm.
+Dừng xong, kiểm tra chân chống trước khi dựng, vì cú đổ làm gãy cần phanh có thể làm cong cả chân chống; bài về [chân chống xe máy thuê bị gãy giữa chuyến](/thue-xe/2026/10/11/chan-chong-xe-may-thue-bi-gay-giua-chuyen-chong-do-va-bao-cua-hang/) bàn riêng cách chống đổ. Nếu chỗ dừng còn gần, hãy tắt máy và dắt xe sát lề tới đó, vì xe thiếu phanh không đáng để mạo hiểm.
 
 ## Gãy tay côn xe số giữa đường: chuyện của xe côn tay
 

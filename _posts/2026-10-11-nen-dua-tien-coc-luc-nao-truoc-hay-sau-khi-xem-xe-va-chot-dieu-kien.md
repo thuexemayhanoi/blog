@@ -41,13 +41,13 @@ Thứ tự này nghe có vẻ dài dòng, nhưng mỗi bước chỉ mất vài 
 
 ## Những điều kiện cần chốt trước khi chuyển tiền
 
-Ba nhóm điều kiện bắt buộc phải rõ trước khi tiền rời ví. Nhóm thứ nhất là điều kiện hoàn cọc: trả xe đúng giờ, giấy tờ trả đủ, xe không thêm hư hỏng thì cọc về đủ. Nhóm thứ hai là các khoản phát sinh: trễ giờ tính thế nào, xăng nhận và trả theo quy ước nào, xe hỏng giữa đường ai chịu phần nào. Nhóm thứ ba là điều kiện đổi xe: nếu xe hỏng nặng, cửa hàng đổi xe khác hay trả lại ngày thuê còn lại. Cách hỏi cho khéo từng điểm đã được chia sẻ trong bài [đặt cọc khi thuê xe máy cần hỏi rõ điều kiện gì](/thue-xe/2026/09/27/at-coc-khi-thue-xe-may-can-hoi-ro-ieu-gi/).
+Ba nhóm điều kiện bắt buộc phải rõ trước khi tiền rời ví. Nhóm thứ nhất là điều kiện hoàn cọc: trả xe đúng giờ, giấy tờ trả đủ, xe không thêm hư hỏng thì cọc về đủ. Nhóm thứ hai là các khoản phát sinh: trễ giờ tính thế nào, xăng nhận và trả theo quy ước nào, xe hỏng giữa đường ai chịu phần nào. Nhóm thứ ba là điều kiện đổi xe: nếu xe hỏng nặng, cửa hàng đổi xe khác hay trả lại ngày thuê còn lại. Cách hỏi cho khéo từng điểm đã được chia sẻ trong bài [đặt cọc khi thuê xe máy cần hỏi rõ điều kiện gì](/thue-xe/2026/09/27/dat-coc-khi-thue-xe-may-can-hoi-ro-dieu-gi/).
 
 Nếu cửa hàng chỉ trả lời kiểu chắc chắn rồi mà không chịu nói rõ từng điểm, bạn nên tự nhắc lại trong tin nhắn để bên kia xác nhận. Một đoạn chat có nội dung cụ thể chính là bản ghi nhớ rẻ tiền mà hiệu quả, giúp cả hai phía sau này không phải tranh luận lại những gì đã thống nhất.
 
 ## Sau khi chuyển cọc cần giữ lại bằng chứng gì
 
-Tối thiểu là ba thứ: ảnh chụp màn hình giao dịch có thấy thời gian và số tiền, đoạn tin nhắn xác nhận của cửa hàng, và biên nhận giấy nếu giao dịch trực tiếp. Bạn cũng nên hiểu rõ ranh giới giữa cọc và tiền thuê để khỏi hiểu lầm lúc hoàn trả, xem thêm bài [tiền cọc, tiền thuê trả trước và tiền giữ chỗ](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-e-khoi-hieu-nham/). Mọi bằng chứng này nên nằm gọn trong một album ảnh trên điện thoại để lúc nhận và trả xe chỉ cần mở ra trong vài giây.
+Tối thiểu là ba thứ: ảnh chụp màn hình giao dịch có thấy thời gian và số tiền, đoạn tin nhắn xác nhận của cửa hàng, và biên nhận giấy nếu giao dịch trực tiếp. Bạn cũng nên hiểu rõ ranh giới giữa cọc và tiền thuê để khỏi hiểu lầm lúc hoàn trả, xem thêm bài [tiền cọc, tiền thuê trả trước và tiền giữ chỗ](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-de-khoi-hieu-nham/). Mọi bằng chứng này nên nằm gọn trong một album ảnh trên điện thoại để lúc nhận và trả xe chỉ cần mở ra trong vài giây.
 
 Tóm lại, câu hỏi khi nào đưa cọc thực chất là câu hỏi bạn đã chắc chắn đến đâu. Xác nhận xe, chốt điều kiện, rồi mới chuyển tiền, theo đúng thứ tự đó thì dù gặp trực tiếp hay đặt từ xa, khoản cọc của bạn đều nằm trong vùng an toàn. Người mới thuê lần đầu nên đi chậm một nhịp ở bước quyết định và đừng ngại hỏi thêm, vì mỗi câu hỏi trước khi trả tiền đều rẻ hơn một rắc rối có thể xảy ra sau này.
 

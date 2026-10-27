@@ -33,13 +33,13 @@ Một mẹo nhỏ: hướng ánh nhìn của mắt theo mép phải của lane m
 
 Ban đêm, ổ gà chỉ hiện ra khi đèn pha quét sát, tức là khi bạn còn cách nó vài mét. Với tốc độ bình thường, vài mét chỉ đủ để giảm nhẹ chứ không đủ để tránh. Vậy nên chiến lược là đọc mặt đường từ xa: mặt đường loang bóng thường là chỗ vừa sửa, mép tối bất thường có thể là hố, và chỗ nước đọng phản chiếu ánh đèn chính là điểm cần né. Kinh nghiệm đọc mặt đường và giữ tay lái trên đường xấu là kỹ năng nền đã được tổng hợp trong mục [kỹ năng lái](/ky-nang/).
 
-Sau mưa, mọi ổ gà đều ngụy trang thành vũng nước phẳng lặng. Đừng đạp thẳng qua vũng lạ lúc tối, hãy chậm lại và vòng qua mép nếu có thể. Chuyện đường ngập và xử lý sau mưa to đã được nói kỹ trong bài [đường ngập sau mưa lớn có nên lội xe máy qua](/thue-xe/2026/10/11/uong-ngap-sau-mua-lon-co-nen-loi-xe-may-qua-va-xu-ly-the-nao-khi-xe-chet-may/), rất đáng đọc cho mùa mưa ở Hà Nội.
+Sau mưa, mọi ổ gà đều ngụy trang thành vũng nước phẳng lặng. Đừng đạp thẳng qua vũng lạ lúc tối, hãy chậm lại và vòng qua mép nếu có thể. Chuyện đường ngập và xử lý sau mưa to đã được nói kỹ trong bài [đường ngập sau mưa lớn có nên lội xe máy qua](/thue-xe/2026/10/11/duong-ngap-sau-mua-lon-co-nen-loi-xe-may-qua-va-xu-ly-the-nao-khi-xe-chet-may/), rất đáng đọc cho mùa mưa ở Hà Nội.
 
 ## Người đi bộ và xe không đèn trong đêm
 
 Nguy cơ ít ai ngờ nhất là người đi bộ mặc đồ tối màu đứng băng ngang giữa phố, hoặc nhóm người ngồi trên vỉa hè tràn ra lòng đường. Họ chỉ hiện ra ở khoảng cách rất ngắn. Đường quen ban ngày trở nên lạ vào buổi tối vì bạn không còn các mốc quen để ước lượng tốc độ. Vì thế ở khu đông người như quanh phố cổ, chợ đêm hoặc các khu ăn uống, hãy hạ tốc xuống mức chậm hẳn, và dự trù luôn cả phần ảo về khoảng cách: thứ bạn nhìn thấy cách năm mét thì coi như đang cách ba mét.
 
-Xe máy đi ngược chiều không bật đèn cũng là hiểm họa đặc trưng của đêm: bạn không thấy chúng cho tới khi cách vài mét. Hãy tập thói quen lượm khuya: nhìn cả phần đường bên trái của mình, vì xe ngược chiều không đèn thường len theo đó. Trong các đoạn đường hẹp một chiều mà nhiều xe vẫn đi ngược, chủ động bấm còi ngắn trước khi vào khúc cua. Những tình huống này hay xuất hiện vào khung giờ tan tầm, theo mô tả trong bài [giờ cao điểm: chọn giờ xuất phát](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/).
+Xe máy đi ngược chiều không bật đèn cũng là hiểm họa đặc trưng của đêm: bạn không thấy chúng cho tới khi cách vài mét. Hãy tập thói quen lượm khuya: nhìn cả phần đường bên trái của mình, vì xe ngược chiều không đèn thường len theo đó. Trong các đoạn đường hẹp một chiều mà nhiều xe vẫn đi ngược, chủ động bấm còi ngắn trước khi vào khúc cua. Những tình huống này hay xuất hiện vào khung giờ tan tầm, theo mô tả trong bài [giờ cao điểm: chọn giờ xuất phát](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/).
 
 ## Chuẩn bị trước chuyến đi tối
 
