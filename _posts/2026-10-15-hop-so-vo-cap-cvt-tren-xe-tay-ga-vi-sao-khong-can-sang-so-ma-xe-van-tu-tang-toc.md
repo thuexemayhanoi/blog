@@ -48,7 +48,7 @@ Hiểu nguyên lý rồi thì thao tác trở nên rất hợp lý:
 - **Vặn ga từ tốn nhưng dứt khoát.** Tay ga mở dần đều để ly hợp bám hẳn trong vài nhịp, xe lăn đi mượt. Vặn quá rụt rè, ly hợp cứ lưng chừng trượt; vặn giật mạnh, xe chồm lên trước.
 - **Không vừa giữ phanh vừa rồ ga.** Chờ đèn đỏ trên phố Nguyễn Văn Cừ mà bóp phanh rồi nhấp ga, ly hợp ma sát liên tục mà bánh không quay, chỉ sinh nhiệt.
 
-Nếu bạn đang làm quen xe ga lần đầu, bài [làm quen xe ga trước khi lên đường](/hoi-dap/2026/09/29/chua-quen-xe-ga-lam-quen-trong-30-phut-truoc-khi-len-uong/) có lộ trình tập theo từng bước.
+Nếu bạn đang làm quen xe ga lần đầu, bài [làm quen xe ga trước khi lên đường](/hoi-dap/2026/09/29/chua-quen-xe-ga-lam-quen-trong-30-phut-truoc-khi-len-duong/) có lộ trình tập theo từng bước.
 
 ## Leo dốc cầu: giữ ga đều, không cần "về số"
 
@@ -82,7 +82,7 @@ Dây curoa và bi văng là chi tiết hao mòn. Những dấu hiệu nên để
 - **Cảm giác trượt**: vặn ga máy rú to nhưng xe tăng tốc ì, như đang đạp xe tuột xích.
 - **Rung giật** rõ ở khoảnh khắc xe bắt đầu lăn bánh.
 
-Gặp những dấu hiệu này trên xe thuê, đừng cố chạy tiếp lên cầu hay đi xa. Tìm chỗ dừng an toàn và gọi cửa hàng theo số 0942467674 để được hướng dẫn, kể rõ dấu hiệu xuất hiện lúc nào. Cách phân biệt chi tiết từng kiểu mòn nằm ở bài [dây curoa và bi nồi xe ga](/xe-may/2026/10/11/day-curoa-va-bi-noi-xe-ga-dau-hieu-mon-qua-cam-giac-lay-a-va-tieng-keu/).
+Gặp những dấu hiệu này trên xe thuê, đừng cố chạy tiếp lên cầu hay đi xa. Tìm chỗ dừng an toàn và gọi cửa hàng theo số 0942467674 để được hướng dẫn, kể rõ dấu hiệu xuất hiện lúc nào. Cách phân biệt chi tiết từng kiểu mòn nằm ở bài [dây curoa và bi nồi xe ga](/xe-may/2026/10/11/day-curoa-va-bi-noi-xe-ga-dau-hieu-mon-qua-cam-giac-lay-da-va-tieng-keu/).
 
 ## Tóm lại
 

@@ -81,4 +81,4 @@ Trước khi chạy, dành vài phút với chiếc xe:
 
 Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00; khi nhận xe có thể nhờ kiểm tra lại chân chống và lốp. Muốn giao xe đến chỗ ở thì thời gian và chi phí cần xác nhận trước, trong giờ mở cửa.
 
-Tóm lại: phanh xong khi xe còn thẳng, giữ ga nhẹ và đều trong cua, nghiêng vừa đủ, mắt nhìn hướng ra, và đừng phanh gấp khi nghe tiếng cạ. Nếu muốn ôn thêm cách xử lý trong phố đông, xem [lái xe ga trong phố đông](/xe-may/2026/09/27/lai-xe-ga-trong-pho-ong-meo-giu-an-toan/). Các bài khác về dòng xe này ở mục [xe tay ga](/xe-may/xe-ga/), còn kiến thức chung về xe nằm ở trang [xe máy](/xe-may/).
+Tóm lại: phanh xong khi xe còn thẳng, giữ ga nhẹ và đều trong cua, nghiêng vừa đủ, mắt nhìn hướng ra, và đừng phanh gấp khi nghe tiếng cạ. Nếu muốn ôn thêm cách xử lý trong phố đông, xem [lái xe ga trong phố đông](/xe-may/2026/09/27/lai-xe-ga-trong-pho-dong-meo-giu-an-toan/). Các bài khác về dòng xe này ở mục [xe tay ga](/xe-may/xe-ga/), còn kiến thức chung về xe nằm ở trang [xe máy](/xe-may/).

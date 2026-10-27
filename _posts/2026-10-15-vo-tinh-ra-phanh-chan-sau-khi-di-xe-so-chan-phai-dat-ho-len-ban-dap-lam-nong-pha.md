@@ -69,7 +69,7 @@ Tư thế ngồi tổng thể, khoảng cách tới tay lái và vị trí mũi 
 
 ## Kiểm tra đèn phanh trước và trong chuyến đi
 
-Lúc nhận xe, nhờ nhân viên hoặc người đi cùng đứng phía sau, rồi bạn làm hai việc: đạp phanh chân, đèn phải sáng; nhấc chân ra hẳn, đèn phải tắt. Nếu nhấc chân mà đèn vẫn sáng, báo ngay cho cửa hàng. Các bước kiểm tra chi tiết có trong bài [kiểm tra đèn phanh xe máy thuê](/thue-xe/2026/10/11/kiem-tra-en-phanh-xe-may-thue-truoc-khi-nhan-xe/).
+Lúc nhận xe, nhờ nhân viên hoặc người đi cùng đứng phía sau, rồi bạn làm hai việc: đạp phanh chân, đèn phải sáng; nhấc chân ra hẳn, đèn phải tắt. Nếu nhấc chân mà đèn vẫn sáng, báo ngay cho cửa hàng. Các bước kiểm tra chi tiết có trong bài [kiểm tra đèn phanh xe máy thuê](/thue-xe/2026/10/11/kiem-tra-den-phanh-xe-may-thue-truoc-khi-nhan-xe/).
 
 Giữa chuyến, khi dừng ở chỗ có kính hoặc tường kính cửa hàng phía sau, bạn có thể liếc gương nhìn phản chiếu đèn hậu: nếu đèn phanh đang sáng mà bạn tưởng mình không đạp, chân đang rà phanh đấy.
 

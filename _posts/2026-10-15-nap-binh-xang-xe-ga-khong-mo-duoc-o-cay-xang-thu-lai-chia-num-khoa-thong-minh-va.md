@@ -25,7 +25,7 @@ Trên xe ga, nắp bình xăng thường nằm sau một nắp nhựa nhỏ ở 
 - **Xe dùng smartkey.** Thường có nút hoặc vị trí xoay riêng trên núm khóa để mở nắp xăng, và chỉ hoạt động khi xe nhận được chìa và núm ở đúng vị trí cho phép.
 - **Bình xăng dưới yên.** Phải mở yên trước, sau đó mới vặn nắp bình bên trong.
 
-Vì mỗi mẫu một khác, cách chắc nhất là xem lại hướng dẫn tiệm đưa khi nhận xe. Nếu bạn chưa biết nắp nằm ở đâu, hãy đọc trước bài [đổ xăng cho xe tay ga thuê: nắp xăng ở đâu và thao tác tại trạm](/xe-may/2026/10/11/o-xang-cho-xe-tay-ga-thue-nap-xang-o-au-va-thao-tac-tai-tram/). Bài hiện tại tập trung vào lúc bạn đã biết chỗ mà nắp vẫn không chịu bật.
+Vì mỗi mẫu một khác, cách chắc nhất là xem lại hướng dẫn tiệm đưa khi nhận xe. Nếu bạn chưa biết nắp nằm ở đâu, hãy đọc trước bài [đổ xăng cho xe tay ga thuê: nắp xăng ở đâu và thao tác tại trạm](/xe-may/2026/10/11/do-xang-cho-xe-tay-ga-thue-nap-xang-o-dau-va-thao-tac-tai-tram/). Bài hiện tại tập trung vào lúc bạn đã biết chỗ mà nắp vẫn không chịu bật.
 
 Những nguyên nhân phổ biến khi không có gì hỏng:
 

@@ -34,7 +34,7 @@ Bỏ qua chuyện luật, xe 50cc vẫn là chiếc kém nhất trong nhóm đ�
 - **Dốc cầu là chỗ khó nhất.** Lên dốc cầu Chương Dương, xe 50cc vốn đã chậm. Thêm một xe kéo phía sau, xe dễ khựng giữa dốc, đúng chỗ xe khác lao lên nhanh.
 - **Đẩy bằng chân làm lệch trọng tâm.** Gác một chân sang xe bên cạnh thì chỉ còn một chân trên xe mình, gặp ổ gà là đổ trước.
 
-Bài [đi nhóm khi một người chạy xe 50cc giữ nhịp với xe 110cc](/xe-may/2026/10/11/i-nhom-khi-mot-nguoi-chay-xe-50cc-giu-nhip-voi-xe-110cc-ma-khong-bi-lac/) đã nói về chênh lệch sức kéo giữa các xe trong nhóm; lúc có xe hỏng, chênh lệch đó càng rõ.
+Bài [đi nhóm khi một người chạy xe 50cc giữ nhịp với xe 110cc](/xe-may/2026/10/11/di-nhom-khi-mot-nguoi-chay-xe-50cc-giu-nhip-voi-xe-110cc-ma-khong-bi-lac/) đã nói về chênh lệch sức kéo giữa các xe trong nhóm; lúc có xe hỏng, chênh lệch đó càng rõ.
 
 ## Năm phút đầu sau khi xe bạn chết máy
 

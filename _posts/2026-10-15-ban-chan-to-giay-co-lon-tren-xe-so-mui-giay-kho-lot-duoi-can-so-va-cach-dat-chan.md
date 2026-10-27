@@ -74,7 +74,7 @@ Nếu bắt buộc phải mang giày bốt hay giày leo núi, ví dụ hôm đ�
 - Nhờ người giao xe cho ngồi thử trước khi ký nhận, nếu mũi giày vẫn vướng thì hỏi có xe khác phù hợp hơn không.
 - Hỏi chiều lên số của xe cụ thể, nhất là khi trước đó bạn quen một mẫu xe khác.
 
-Nếu đặt xe ở cửa hàng tại 112 Nguyễn Văn Cừ, Long Biên, bạn có thể nhắn trước để được chuẩn bị xe phù hợp; thời gian nhận xe trong giờ mở cửa 09:00 đến 21:00. Nếu đi xe ga quen rồi mà lần đầu thử xe số, bài [quen xe ga lần đầu đi xe số](/xe-may/2026/10/11/quen-xe-ga-lan-au-i-xe-so-nhung-phan-xa-can-chinh-lai/) giúp bạn biết trước những phản xạ cần chỉnh.
+Nếu đặt xe ở cửa hàng tại 112 Nguyễn Văn Cừ, Long Biên, bạn có thể nhắn trước để được chuẩn bị xe phù hợp; thời gian nhận xe trong giờ mở cửa 09:00 đến 21:00. Nếu đi xe ga quen rồi mà lần đầu thử xe số, bài [quen xe ga lần đầu đi xe số](/xe-may/2026/10/11/quen-xe-ga-lan-dau-di-xe-so-nhung-phan-xa-can-chinh-lai/) giúp bạn biết trước những phản xạ cần chỉnh.
 
 ## Tập vài vòng trước khi vào phố đông
 

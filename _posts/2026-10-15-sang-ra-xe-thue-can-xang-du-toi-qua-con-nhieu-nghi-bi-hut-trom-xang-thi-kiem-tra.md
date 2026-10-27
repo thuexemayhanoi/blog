@@ -73,6 +73,6 @@ Người quản lý bãi biết được sự việc cũng giúp những ngườ
 - Đổ xăng vừa đủ cho ngày hôm sau thay vì để đầy bình qua đêm ở chỗ không an toàn.
 - Tập thói quen nhìn kim xăng trước khi tắt máy buổi tối.
 
-Những cách giữ phụ tùng và xăng khi để xe qua đêm được tổng hợp ở bài [chống trộm phụ tùng khi gửi xe qua đêm](/ky-nang/2026/10/03/chong-trom-phu-tung-khi-gui-xe-qua-em/ "Chống trộm phụ tùng khi gửi xe qua đêm").
+Những cách giữ phụ tùng và xăng khi để xe qua đêm được tổng hợp ở bài [chống trộm phụ tùng khi gửi xe qua đêm](/ky-nang/2026/10/03/chong-trom-phu-tung-khi-gui-xe-qua-dem/ "Chống trộm phụ tùng khi gửi xe qua đêm").
 
 Các tình huống khác khi đang thuê xe có ở chuyên mục [sự cố khi thuê xe](/thue-xe/su-co/ "Sự cố khi thuê xe máy"), còn toàn bộ hướng dẫn thuê xe có ở mục [thuê xe máy](/thue-xe/ "Thuê xe máy Hà Nội").

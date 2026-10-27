@@ -61,7 +61,7 @@ Câu hỏi tìm chỗ gửi xe qua đêm ở khu phố cổ đã có bài riêng
 
 Với xe thuê, gửi xe lại một đêm hoàn toàn được, nhưng bạn nên nhắn cho tiệm biết xe đang gửi ở đâu, nhất là khi sáng hôm sau là ngày trả xe. Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa từ 09:00 đến 21:00, nên nếu cần thay đổi lịch trả hay hỏi cách lấy xe, hãy gọi số 0942467674 trong khung giờ này. Thời gian và chi phí nếu cần hỗ trợ giao nhận phải được xác nhận trước, không có giao nhận ngoài giờ hoạt động.
 
-Đừng lấy xe quá sớm vào sáng hôm sau chỉ vì vội trả. Cồn có thể còn trong hơi thở sau một đêm uống nhiều, chuyện này được phân tích kỹ trong bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/em-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-o-con-khong/). Còn nếu đã lỡ bị lập biên bản khi đang đi xe thuê, các bước cần báo cửa hàng nằm ở bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/).
+Đừng lấy xe quá sớm vào sáng hôm sau chỉ vì vội trả. Cồn có thể còn trong hơi thở sau một đêm uống nhiều, chuyện này được phân tích kỹ trong bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/dem-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-do-con-khong/). Còn nếu đã lỡ bị lập biên bản khi đang đi xe thuê, các bước cần báo cửa hàng nằm ở bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-do-con/).
 
 ## Ghi chú về thông tin trong bài
 

@@ -71,7 +71,7 @@ Ngay cả tư thế đúng cũng gây mỏi nếu giữ nguyên quá lâu. Khi �
 - **Trên đoạn đường thẳng, vắng**, nhích hông một chút trên yên để đổi điểm tì.
 - **Khoảng mỗi giờ chạy liên tục**, tìm chỗ an toàn để tấp vào, xuống xe, đi lại vài phút cho lưng và chân giãn ra.
 
-Chỗ nghỉ nên là nơi có lề rộng, quán nước hay bãi gửi xe, không phải giữa dải phân cách hay ngay chân dốc cầu. Những lưu ý về điểm nghỉ trên quãng dài có trong bài [đau lưng khi chạy xe máy đường dài](/ky-nang/2026/10/04/au-lung-khi-chay-xe-may-uong-dai-tu-the-va-iem-nghi/). Nếu bạn chở người phía sau, họ cũng cần đổi tư thế; xem thêm cách [người ngồi sau đỡ tê chân, mỏi lưng](/ky-nang/2026/10/15/nguoi-ngoi-sau-te-chan-moi-lung-tren-chuyen-xe-dai-tu-the-ngoi-gac-chan-va-cho-b/).
+Chỗ nghỉ nên là nơi có lề rộng, quán nước hay bãi gửi xe, không phải giữa dải phân cách hay ngay chân dốc cầu. Những lưu ý về điểm nghỉ trên quãng dài có trong bài [đau lưng khi chạy xe máy đường dài](/ky-nang/2026/10/04/dau-lung-khi-chay-xe-may-duong-dai-tu-the-va-diem-nghi/). Nếu bạn chở người phía sau, họ cũng cần đổi tư thế; xem thêm cách [người ngồi sau đỡ tê chân, mỏi lưng](/ky-nang/2026/10/15/nguoi-ngoi-sau-te-chan-moi-lung-tren-chuyen-xe-dai-tu-the-ngoi-gac-chan-va-cho-b/).
 
 ## Khi nào nên hỏi bác sĩ và khi nào nên báo cửa hàng
 

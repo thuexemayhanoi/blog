@@ -25,7 +25,7 @@ Mỗi lần lên hay xuống số, mũi giày phải tìm đúng cần, đẩy �
 - **Đế giày dày, mũi giày to.** Giày mùa đông thường có đế cao su dày, lót bông, mũi tròn bè. Đế càng dày thì lực gạt càng bị "đệm" lại, mũi càng to thì càng khó lọt xuống dưới cần để lên số.
 - **Cổ chân cứng.** Khi lạnh, người ta có xu hướng co cứng cả chân cho đỡ rét, động tác gạt thành giật cục chứ không còn dứt khoát.
 
-Cần phân biệt chuyện này với lỗi ở xe. Nếu chân vẫn cảm tốt mà cần số nặng, kẹt hoặc khó vào số lúc máy còn nguội, đó là chuyện của nhớt và hộp số, xem riêng ở bài [xe số khó vào số khi trời lạnh](/xe-may/2026/10/04/xe-so-kho-vao-so-khi-troi-lanh-xu-ly-ban-au/). Bài này bàn phần của người lái.
+Cần phân biệt chuyện này với lỗi ở xe. Nếu chân vẫn cảm tốt mà cần số nặng, kẹt hoặc khó vào số lúc máy còn nguội, đó là chuyện của nhớt và hộp số, xem riêng ở bài [xe số khó vào số khi trời lạnh](/xe-may/2026/10/04/xe-so-kho-vao-so-khi-troi-lanh-xu-ly-ban-dau/). Bài này bàn phần của người lái.
 
 ## Chọn giày mùa đông đi xe số: ấm nhưng mũi gọn
 

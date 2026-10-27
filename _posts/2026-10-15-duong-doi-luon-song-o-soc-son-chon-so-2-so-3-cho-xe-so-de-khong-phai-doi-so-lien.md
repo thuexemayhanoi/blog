@@ -21,7 +21,7 @@ Cầm lái xe số đi đường đồi lượn sóng lần đầu, nhiều ngư
 
 Vùng đồi phía bắc Hà Nội, từ quanh hồ Đồng Quan, hồ Đồng Đò tới chân núi Hàm Lợn và khu đền Sóc, có nhiều đoạn đường không leo hẳn một con dốc dài như đường đèo, mà nhấp nhô thành từng đợt. Mỗi đợt gồm một đoạn lên ngắn, một đỉnh tròn, một đoạn xuống ngắn rồi lại lên.
 
-Trên dốc dài, bạn về số thấp từ chân dốc rồi giữ nguyên tới đỉnh, chuyện đó đã được nói trong bài [xe số đi đường đèo dốc có ổn không](/xe-may/2026/09/27/xe-so-i-uong-eo-doc-co-on-khong/). Trên đường lượn sóng thì khác: nếu coi mỗi mô đất là một con dốc riêng, bạn sẽ về số ở chân dốc, lên số ở đỉnh, rồi lại về số ở chân dốc kế tiếp. Mỗi lần gạt số là một lần nhả ga, xe hụt đà; cái mệt nằm ở nhịp ngắt quãng đó chứ không ở độ dốc.
+Trên dốc dài, bạn về số thấp từ chân dốc rồi giữ nguyên tới đỉnh, chuyện đó đã được nói trong bài [xe số đi đường đèo dốc có ổn không](/xe-may/2026/09/27/xe-so-di-duong-deo-doc-co-on-khong/). Trên đường lượn sóng thì khác: nếu coi mỗi mô đất là một con dốc riêng, bạn sẽ về số ở chân dốc, lên số ở đỉnh, rồi lại về số ở chân dốc kế tiếp. Mỗi lần gạt số là một lần nhả ga, xe hụt đà; cái mệt nằm ở nhịp ngắt quãng đó chứ không ở độ dốc.
 
 Cách nghĩ đúng là nhìn cả cụm dốc như một đoạn đường duy nhất, và chọn một số đủ khỏe để lên đợt cao nhất trong cụm, đủ thoáng để xuống các đợt thấp mà máy không gào.
 

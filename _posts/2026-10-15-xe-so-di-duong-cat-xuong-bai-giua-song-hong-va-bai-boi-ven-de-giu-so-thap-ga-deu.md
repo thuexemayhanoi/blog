@@ -58,7 +58,7 @@ Trên cát, phanh trước bóp gấp làm bánh trước cắm và trượt nga
 
 Dừng giữa cát là cách chắc chắn nhất để bị sa. Khi xe đứng yên, sức nặng dồn xuống bánh sau, lúc khởi hành lại bánh quay tại chỗ và đào thành hố.
 
-Muốn chụp ảnh, nghe điện thoại hay chờ bạn đi sau, hãy đi tiếp tới chỗ đất cứng, bãi cỏ hoặc lối bê tông rồi mới dừng. Đi theo nhóm thì giữ khoảng cách đủ xa, để xe sau không phải phanh khi xe trước chậm lại giữa cát. Cách giữ nhịp khi đi nhóm có trong bài [đi nhóm lẫn xe số và xe ga](/xe-may/2026/10/11/i-nhom-lan-xe-so-va-xe-ga-giu-nhip-e-khong-bo-nhau-lai-phia-sau/).
+Muốn chụp ảnh, nghe điện thoại hay chờ bạn đi sau, hãy đi tiếp tới chỗ đất cứng, bãi cỏ hoặc lối bê tông rồi mới dừng. Đi theo nhóm thì giữ khoảng cách đủ xa, để xe sau không phải phanh khi xe trước chậm lại giữa cát. Cách giữ nhịp khi đi nhóm có trong bài [đi nhóm lẫn xe số và xe ga](/xe-may/2026/10/11/di-nhom-lan-xe-so-va-xe-ga-giu-nhip-de-khong-bo-nhau-lai-phia-sau/).
 
 ## Khi bánh sau bắt đầu sa: xuống dắt
 
@@ -76,7 +76,7 @@ Nếu lún nhẹ và bạn đã quen tay, có thể đứng bên xe, xe vẫn �
 
 ## Ra khỏi bãi rồi thì kiểm tra xe
 
-Cát bám vào xích, nhông và quanh phanh. Trước khi về, nhìn qua xích xem có dính nhiều cát không, thử bóp phanh trên nền cứng xem còn ăn đều. Nếu nghe tiếng rít lạ ở xích hay bánh sau, báo cho cửa hàng biết khi trả xe để được kiểm tra, đừng tự xịt nước áp lực vào xích. Những lưu ý chung khi đi đường xấu có trong bài [xe số đi đường đá dăm ở ngoại ô](/xe-may/2026/10/10/xe-so-i-uong-a-dam-o-ngoai-o/).
+Cát bám vào xích, nhông và quanh phanh. Trước khi về, nhìn qua xích xem có dính nhiều cát không, thử bóp phanh trên nền cứng xem còn ăn đều. Nếu nghe tiếng rít lạ ở xích hay bánh sau, báo cho cửa hàng biết khi trả xe để được kiểm tra, đừng tự xịt nước áp lực vào xích. Những lưu ý chung khi đi đường xấu có trong bài [xe số đi đường đá dăm ở ngoại ô](/xe-may/2026/10/10/xe-so-di-duong-da-dam-o-ngoai-o/).
 
 ## Tóm lại
 

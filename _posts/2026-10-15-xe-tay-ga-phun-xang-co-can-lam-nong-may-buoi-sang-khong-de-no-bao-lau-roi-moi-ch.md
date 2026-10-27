@@ -37,7 +37,7 @@ Những sáng gió mùa, xe để ở bãi trống ven đê hay sân nhà trọ 
 
 ### Xe để lâu ngày không chạy
 
-Nếu xe nằm yên nhiều ngày, nên kiểm tra lốp, phanh, xăng trước khi đề, và để máy chạy đều một lúc rồi đi thật nhẹ. Khi bấm đề mà xe không nổ, đừng đề liên tục; xem bài [xe ga không đề được buổi sáng](/thue-xe/2026/10/11/xe-ga-khong-e-uoc-buoi-sang-ac-quy-yeu-bugi-hay-do-e-lau-khong-chay/) để biết khi nào là ắc quy, khi nào cần gọi tiệm.
+Nếu xe nằm yên nhiều ngày, nên kiểm tra lốp, phanh, xăng trước khi đề, và để máy chạy đều một lúc rồi đi thật nhẹ. Khi bấm đề mà xe không nổ, đừng đề liên tục; xem bài [xe ga không đề được buổi sáng](/thue-xe/2026/10/11/xe-ga-khong-de-duoc-buoi-sang-ac-quy-yeu-bugi-hay-do-de-lau-khong-chay/) để biết khi nào là ắc quy, khi nào cần gọi tiệm.
 
 ## Để xe ga nổ máy bao lâu là thừa
 

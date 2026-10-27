@@ -48,7 +48,7 @@ Trình tự gọn nhất:
 
 - **Giảm tốc từ xa**, nhả ga sớm để xe trôi chậm dần, không phải phanh dồn vào sát vạch dừng.
 - **Chỉ hạ chân khi xe đã dừng hẳn.** Hạ chân lúc xe còn trôi thì gót bị kéo lê, rất dễ trượt.
-- **Nhìn chỗ đặt chân trước khi hạ.** Tránh vạch sơn trắng, nắp cống, nắp ga kỹ thuật và vệt dầu loang, nhất là sau mưa. Lý do vạch sơn ướt nguy hiểm được giải thích trong bài [đi xe máy trên vạch sơn đường ướt](/ky-nang/2026/10/11/i-xe-may-tren-vach-son-uong-uot-tranh-truot-banh/).
+- **Nhìn chỗ đặt chân trước khi hạ.** Tránh vạch sơn trắng, nắp cống, nắp ga kỹ thuật và vệt dầu loang, nhất là sau mưa. Lý do vạch sơn ướt nguy hiểm được giải thích trong bài [đi xe máy trên vạch sơn đường ướt](/ky-nang/2026/10/11/di-xe-may-tren-vach-son-duong-uot-tranh-truot-banh/).
 - **Chạm đất bằng cả bàn chân**, không chỉ bằng mũi hay chỉ bằng gót. Nếu chân không với tới đủ, nhích mông sang một bên yên một chút để một bàn chân đặt phẳng, chân kia vẫn để trên sàn.
 - **Bóp giữ phanh** trong suốt lúc chờ đèn, để xe không trôi dù mặt đường hơi dốc.
 

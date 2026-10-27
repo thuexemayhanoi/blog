@@ -77,7 +77,7 @@ Người quen xe điện thì quen cắm sạc ở nhà, chưa từng phải tí
 4. **Đổ loại xăng nào?** Làm theo hướng dẫn của chủ xe và nhân viên cửa hàng xăng. Nếu chưa chắc, hỏi tiệm lúc nhận xe để khỏi phân vân khi đứng ở trụ.
 5. **Đóng nắp chắc chắn rồi mới nổ máy.** Kiểm tra nắp bình đã vặn kín, yên đã đóng.
 
-Thao tác cụ thể tại trạm có trong bài [đổ xăng cho xe tay ga thuê](/xe-may/2026/10/11/o-xang-cho-xe-tay-ga-thue-nap-xang-o-au-va-thao-tac-tai-tram/).
+Thao tác cụ thể tại trạm có trong bài [đổ xăng cho xe tay ga thuê](/xe-may/2026/10/11/do-xang-cho-xe-tay-ga-thue-nap-xang-o-dau-va-thao-tac-tai-tram/).
 
 ## Tóm lại trước khi lên đường
 

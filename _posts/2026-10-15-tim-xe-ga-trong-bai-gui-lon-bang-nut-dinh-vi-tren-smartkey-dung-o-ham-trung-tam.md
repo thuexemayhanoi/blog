@@ -58,7 +58,7 @@ Nếu lỡ làm mất vé, đừng tự dắt xe ra. Làm theo các bước tron
 
 ## Áp dụng ở hầm trung tâm thương mại và bến xe
 
-**Hầm trung tâm thương mại.** Hầm AEON Mall Long Biên rộng, xe máy đông nhất vào cuối tuần và các dịp lễ. Đường vào và cách xuống hầm đã có bài [AEON Mall Long Biên bằng xe máy](/du-lich/2026/10/11/aeon-mall-long-bien-bang-xe-may-uong-i-va-vao-ham-gui-xe/). Ở những hầm kiểu này, chụp ảnh cột ngay khi dựng chân chống, rồi lúc về đi thẳng tới khu đó mới bấm nút. Dốc hầm thường xoắn và sàn sơn trơn, cách đi an toàn có trong bài [đi xe ga xuống hầm gửi xe](/xe-may/2026/10/14/di-xe-ga-xuong-ham-gui-xe-chung-cu-va-trung-tam-thuong-mai-doc-xoan-san-son-tron/).
+**Hầm trung tâm thương mại.** Hầm AEON Mall Long Biên rộng, xe máy đông nhất vào cuối tuần và các dịp lễ. Đường vào và cách xuống hầm đã có bài [AEON Mall Long Biên bằng xe máy](/du-lich/2026/10/11/aeon-mall-long-bien-bang-xe-may-duong-di-va-vao-ham-gui-xe/). Ở những hầm kiểu này, chụp ảnh cột ngay khi dựng chân chống, rồi lúc về đi thẳng tới khu đó mới bấm nút. Dốc hầm thường xoắn và sàn sơn trơn, cách đi an toàn có trong bài [đi xe ga xuống hầm gửi xe](/xe-may/2026/10/14/di-xe-ga-xuong-ham-gui-xe-chung-cu-va-trung-tam-thuong-mai-doc-xoan-san-son-tron/).
 
 **Bãi gửi xe ở bến xe.** Bãi quanh bến xe Gia Lâm thường là bãi ngoài trời hoặc mái che, ít bê tông hơn nên tín hiệu remote dễ tới hơn. Bù lại, xe gửi qua đêm hay gửi lâu bị xếp dồn rất chặt. Hỏi nhân viên khu nào dành cho xe gửi dài, chụp ảnh biển khu và giữ vé thật kỹ. Lúc quay về từ chuyến xe khách, trời tối, đèn xi nhan nháy là thứ dễ nhận ra nhất.
 
