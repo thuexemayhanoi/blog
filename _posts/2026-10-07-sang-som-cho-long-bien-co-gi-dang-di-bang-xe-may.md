@@ -7,7 +7,7 @@ description: "Sáng sớm chợ Long Biên xe máy chạy qua chợ đầu mối
 categories: [Kinh nghiệm]
 lang: vi
 tags: [sáng sớm chợ Long Biên xe máy, chợ Long Biên buổi sớm, đi chợ Long Biên, thuê xe máy Hà Nội]
-permalink: /du-lich/2026/10/07/sang-som-cho-long-bien-co-gi-ang-i-bang-xe-may/
+permalink: /du-lich/2026/10/07/sang-som-cho-long-bien-co-gi-dang-di-bang-xe-may/
 parent_id: P-DU-LICH
 child_id: C-LONG-BIEN
 article_id: BLG-01494
