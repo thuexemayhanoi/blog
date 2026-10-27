@@ -93,7 +93,9 @@ jobs:
               scope="full"
             fi
           elif [ "$EVENT_NAME" = "pull_request" ]; then
-            git fetch origin "$PR_BASE_SHA" --depth=1 >/dev/null 2>&1 || true
+            # Checkout đã có đủ lịch sử (fetch-depth: 0). KHÔNG fetch --depth: nó biến clone đầy đủ thành
+            # shallow, cắt tổ tiên của HEAD tại base PR và làm `merge-base --is-ancestor` (verify revise/reattest) sai.
+            git cat-file -e "$PR_BASE_SHA^{commit}" 2>/dev/null || git fetch origin "$PR_BASE_SHA" >/dev/null 2>&1 || true
             MB="$(git merge-base "$PR_BASE_SHA" "$SHA" 2>/dev/null || true)"
             if [ -n "$MB" ]; then
               git diff --name-only "$MB" "$SHA" -- data _drafts _posts _layouts _includes _data scripts docs .github _config.yml redirects reports/qa-audit > changed-files.txt || true
