@@ -61,11 +61,11 @@ Chọn một khoảng sân rộng, bãi đỗ xe vắng hoặc đường nội b
 4. **Đi thẳng, rẽ vòng rộng,** mắt nhìn xa theo hướng đi như khi đạp xe.
 5. **Ra đường nội bộ khu ở,** quãng ngắn, chưa chở người, về nhà trước khi trời tối.
 
-Mỗi buổi tập ngắn nhưng đều thì hiệu quả hơn một buổi dài; mệt là lúc dễ ngã. Bài [tập đi xe máy cho người mới biết lái](/hoi-dap/2026/10/10/tap-i-xe-may-cho-nguoi-moi-biet-lai/) có thêm các bài tập nâng dần.
+Mỗi buổi tập ngắn nhưng đều thì hiệu quả hơn một buổi dài; mệt là lúc dễ ngã. Bài [tập đi xe máy cho người mới biết lái](/hoi-dap/2026/10/10/tap-di-xe-may-cho-nguoi-moi-biet-lai/) có thêm các bài tập nâng dần.
 
 ## Chọn nhanh và những câu nên hỏi tiệm
 
-Không có đáp án chung. Chọn xe 50cc nếu bạn muốn có tiếng máy làm tín hiệu tốc độ và thấy tay ga xe điện quá nhạy khi thử. Chọn xe máy điện nếu bạn ngại mùi xăng, thích máy êm và có chỗ sạc an toàn. Xe đạp điện là lựa chọn thứ ba cho quãng rất ngắn; cách so với xe máy điện được nói ở bài [xe đạp điện hay xe máy điện: chọn loại nào để đi dạo quanh hồ](/xe-may/2026/10/11/xe-ap-ien-hay-xe-may-ien-chon-loai-nao-e-i-dao-quanh-ho/).
+Không có đáp án chung. Chọn xe 50cc nếu bạn muốn có tiếng máy làm tín hiệu tốc độ và thấy tay ga xe điện quá nhạy khi thử. Chọn xe máy điện nếu bạn ngại mùi xăng, thích máy êm và có chỗ sạc an toàn. Xe đạp điện là lựa chọn thứ ba cho quãng rất ngắn; cách so với xe máy điện được nói ở bài [xe đạp điện hay xe máy điện: chọn loại nào để đi dạo quanh hồ](/xe-may/2026/10/11/xe-dap-dien-hay-xe-may-dien-chon-loai-nao-de-di-dao-quanh-ho/).
 
 Khi gọi tiệm qua số 0942467674 hoặc đến 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên trong giờ 09:00 đến 21:00, hãy hỏi:
 

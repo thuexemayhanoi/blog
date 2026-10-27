@@ -58,7 +58,7 @@ Với Wave đi bùn:
 - Gặp vũng bùn sâu, xuống đi bộ thử trước rồi mới cho xe qua.
 - Dừng cạy bùn sớm và thường xuyên hơn là cố đi tới khi bánh bó.
 
-Kỹ năng giữ thăng bằng trên đường đất có ở bài [đi xe máy trên đường sỏi đá và đường đất ngoại thành](/ky-nang/2026/10/15/di-xe-may-tren-duong-soi-da-va-duong-dat-ngoai-thanh-toc-do-tu-the-va-tranh-phan/ "Đi xe máy trên đường sỏi đá và đường đất"). Nếu bánh đã sa lầy hẳn, xem bài [bánh xe sa lầy trên đường đất sau mưa](/thue-xe/2026/10/11/banh-xe-sa-lay-tren-uong-at-sau-mua-o-vung-ven-ay-ra-sao-cho-khoi-o/ "Bánh xe sa lầy trên đường đất sau mưa"). Lớp bùn mỏng trên đất đỏ ở gần Hà Nội cũng trơn không kém, như bài [đường đất đỏ ở đồi Sóc Sơn, chân núi Ba Vì sau mưa](/ky-nang/2026/10/16/duong-dat-do-o-doi-soc-son-chan-nui-ba-vi-sau-mua-lop-bun-mong-tron-hon-ban-nghi/ "Đường đất đỏ sau mưa") đã nói.
+Kỹ năng giữ thăng bằng trên đường đất có ở bài [đi xe máy trên đường sỏi đá và đường đất ngoại thành](/ky-nang/2026/10/15/di-xe-may-tren-duong-soi-da-va-duong-dat-ngoai-thanh-toc-do-tu-the-va-tranh-phan/ "Đi xe máy trên đường sỏi đá và đường đất"). Nếu bánh đã sa lầy hẳn, xem bài [bánh xe sa lầy trên đường đất sau mưa](/thue-xe/2026/10/11/banh-xe-sa-lay-tren-duong-dat-sau-mua-o-vung-ven-day-ra-sao-cho-khoi-do/ "Bánh xe sa lầy trên đường đất sau mưa"). Lớp bùn mỏng trên đất đỏ ở gần Hà Nội cũng trơn không kém, như bài [đường đất đỏ ở đồi Sóc Sơn, chân núi Ba Vì sau mưa](/ky-nang/2026/10/16/duong-dat-do-o-doi-soc-son-chan-nui-ba-vi-sau-mua-lop-bun-mong-tron-hon-ban-nghi/ "Đường đất đỏ sau mưa") đã nói.
 
 ## Khi nào nên quay lại
 

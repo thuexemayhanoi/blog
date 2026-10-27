@@ -40,7 +40,7 @@ Nhiều hướng dẫn dựng xe máy bị đổ cùng một nguyên tắc: lưn
 3. Xe nằm trên dốc thì nặng tay hơn: nhờ chủ nhà, bác trông xe hoặc người đi đường đỡ một bên. Thử một lần không lên thì dừng, đừng gồng bằng lưng.
 4. Xe đứng thẳng thì giữ chắc rồi mới gạt chân chống. Đừng để xe ở lại đúng chỗ dốc vừa đổ: dắt chậm sang nền phẳng gần nhất, không phải lên vỉa hè.
 
-Chi tiết từng tư thế có trong bài [dựng xe máy bị đổ một mình mà không đau lưng](/ky-nang/2026/10/11/xe-may-bi-o-nghieng-cach-mot-minh-dung-xe-len-ma-khong-au-lung/).
+Chi tiết từng tư thế có trong bài [dựng xe máy bị đổ một mình mà không đau lưng](/ky-nang/2026/10/11/xe-may-bi-do-nghieng-cach-mot-minh-dung-xe-len-ma-khong-dau-lung/).
 
 ## Xe wave bị đổ cong cần số: nhìn bằng mắt theo thứ tự
 

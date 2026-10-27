@@ -51,11 +51,11 @@ Ngừng ngay, không lắp, không sạc, giữ khoảng cách và gọi chủ x
 
 Nếu thấy khói, tia lửa hay tiếng nổ lách tách: đưa mọi người ra xa, gọi Cảnh sát PCCC và CNCH số 114. Hướng dẫn VinFast nói dập lửa trước bằng bình chữa cháy dạng bột rồi mới dùng các cách chữa cháy bằng nước khác; một thử nghiệm của VTV cho thấy pin xe điện đang cháy vẫn bùng lại sau khi xịt hết bình bột và bình khí. Đừng ôm pin đang bốc khói đi xuống cầu thang.
 
-Thêm về các dấu hiệu bất thường của pin có ở bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ](/xe-may/2026/10/11/pin-xe-ien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/ "Pin xe điện nóng bất thường, phồng hoặc có mùi lạ").
+Thêm về các dấu hiệu bất thường của pin có ở bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ](/xe-may/2026/10/11/pin-xe-dien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/ "Pin xe điện nóng bất thường, phồng hoặc có mùi lạ").
 
 ## Không thấy gì bất thường: vẫn báo chủ xe trước
 
-Kể cả khi pin trông lành lặn, hãy nhắn chủ xe trước khi lắp lại. Hướng dẫn VinFast yêu cầu đưa pin gặp sự cố tới trung tâm dịch vụ của hãng, không tự sửa, và ghi rõ pin bị lỗi, hỏng hóc có thể bị từ chối khi đổi pin ở trạm. Chủ xe biết pin đó là của xe hay pin thuê, và quyết định có cần mang đi kiểm tra không. Quy trình đổi pin giữa chuyến có ở bài [đổi pin xe máy điện thuê giữa chuyến](/xe-may/2026/10/11/oi-pin-xe-may-ien-thue-giua-chuyen-quy-trinh-va-chi-phi/ "Đổi pin xe máy điện thuê giữa chuyến").
+Kể cả khi pin trông lành lặn, hãy nhắn chủ xe trước khi lắp lại. Hướng dẫn VinFast yêu cầu đưa pin gặp sự cố tới trung tâm dịch vụ của hãng, không tự sửa, và ghi rõ pin bị lỗi, hỏng hóc có thể bị từ chối khi đổi pin ở trạm. Chủ xe biết pin đó là của xe hay pin thuê, và quyết định có cần mang đi kiểm tra không. Quy trình đổi pin giữa chuyến có ở bài [đổi pin xe máy điện thuê giữa chuyến](/xe-may/2026/10/11/doi-pin-xe-may-dien-thue-giua-chuyen-quy-trinh-va-chi-phi/ "Đổi pin xe máy điện thuê giữa chuyến").
 
 Khi nhắn, gửi kèm:
 
@@ -67,7 +67,7 @@ Nếu chủ xe đồng ý cho lắp lại, làm đúng các bước: tắt khóa
 
 ## Phòng làm rơi pin
 
-Pin Evo nặng khoảng 12,5 kg, pin Klara S khoảng 7,8 kg. Xách bằng tay nắm của pin, một tay vịn lan can, đi từng bậc. Đặt pin xuống sàn trước khi mở cửa phòng, đừng kẹp pin dưới nách. Nếu xe có ngã hay đổ khi đang dựng, xem thêm bài [xe máy điện bị đổ hoặc ngã nhẹ](/xe-may/2026/10/11/xe-may-ien-bi-o-hoac-nga-nhe-kiem-tra-gi-truoc-khi-i-tiep/ "Xe máy điện bị đổ hoặc ngã nhẹ").
+Pin Evo nặng khoảng 12,5 kg, pin Klara S khoảng 7,8 kg. Xách bằng tay nắm của pin, một tay vịn lan can, đi từng bậc. Đặt pin xuống sàn trước khi mở cửa phòng, đừng kẹp pin dưới nách. Nếu xe có ngã hay đổ khi đang dựng, xem thêm bài [xe máy điện bị đổ hoặc ngã nhẹ](/xe-may/2026/10/11/xe-may-dien-bi-do-hoac-nga-nhe-kiem-tra-gi-truoc-khi-di-tiep/ "Xe máy điện bị đổ hoặc ngã nhẹ").
 
 Trên bảng giá của Cho Thuê Xe Máy Nguyễn Tú, Honda Vision và Honda Air Blade có giá ngày 200.000 đồng, Honda Wave và Honda Click có giá ngày 150.000 đồng; xe máy điện chưa có giá ngày cố định nên bạn liên hệ Nguyễn Tú để kiểm tra giá hiện tại, tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần, điện thoại và Zalo 0942 467 674.
 

@@ -42,7 +42,7 @@ Sách hướng dẫn Air Blade dặn khi dựng chân chống nghiêng, từ t�
 
 Muốn dùng chân chống đứng, sách hướng dẫn đứng bên trái xe, giữ tay nắm bên trái và tay dắt sau, dùng chân phải đạp mũi chân chống xuống, đồng thời nhấc xe lên và kéo về phía sau. Honda không nêu góc dốc tối đa để đỗ xe an toàn, nên cách chắc nhất là dắt thêm vài mét tới chỗ bằng phẳng. Luật cũng cấm dừng, đỗ xe ở đoạn đường cong hoặc gần đầu dốc bị che khuất tầm nhìn.
 
-Cách dắt, quay đầu và dựng chân chống trong ngõ có ở bài [dắt bộ và dựng chân chống Honda Air Blade](/xe-may/2026/10/14/dat-bo-va-dung-chan-chong-honda-air-blade-len-via-he-quay-dau-xe-trong-ngo-ma-kh/ "Dắt bộ và dựng chân chống Honda Air Blade"). Người thấp, chân chạm đất không chắc nên đọc thêm bài [Honda Air Blade cho người thấp](/xe-may/2026/10/11/honda-air-blade-cho-nguoi-thap-kiem-tra-yen-chan-cham-at-va-cach-dung-xe/ "Honda Air Blade cho người thấp").
+Cách dắt, quay đầu và dựng chân chống trong ngõ có ở bài [dắt bộ và dựng chân chống Honda Air Blade](/xe-may/2026/10/14/dat-bo-va-dung-chan-chong-honda-air-blade-len-via-he-quay-dau-xe-trong-ngo-ma-kh/ "Dắt bộ và dựng chân chống Honda Air Blade"). Người thấp, chân chạm đất không chắc nên đọc thêm bài [Honda Air Blade cho người thấp](/xe-may/2026/10/11/honda-air-blade-cho-nguoi-thap-kiem-tra-yen-chan-cham-dat-va-cach-dung-xe/ "Honda Air Blade cho người thấp").
 
 ## Soát xe trước khi chạy tiếp
 
@@ -69,7 +69,7 @@ Sách hướng dẫn Air Blade lưu ý xe có thể hư hỏng ở bộ phận m
 2. Gọi tiệm, kể rõ xe đổ thế nào, đổ bên nào, đã kiểm tra những gì.
 3. Không tự mang xe ra tiệm sửa ven đường khi tiệm chưa đồng ý.
 
-Cách ghi lại hiện trường có ở bài [làm xước hoặc làm đổ xe thuê](/thue-xe/2026/10/12/lam-xuoc-hoac-lam-o-xe-thue-cach-bao-cua-hang-va-ghi-lai-hien-truong/ "Làm xước hoặc làm đổ xe thuê"). Báo sớm giúp hai bên cùng nhìn thấy tình trạng xe khi mọi thứ còn rõ ràng.
+Cách ghi lại hiện trường có ở bài [làm xước hoặc làm đổ xe thuê](/thue-xe/2026/10/12/lam-xuoc-hoac-lam-do-xe-thue-cach-bao-cua-hang-va-ghi-lai-hien-truong/ "Làm xước hoặc làm đổ xe thuê"). Báo sớm giúp hai bên cùng nhìn thấy tình trạng xe khi mọi thứ còn rõ ràng.
 
 Trên bảng giá của Cho Thuê Xe Máy Nguyễn Tú, Honda Vision và Honda Air Blade có giá ngày 200.000 đồng, Honda Wave và Honda Click có giá ngày 150.000 đồng; tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần, điện thoại và Zalo 0942 467 674.
 

@@ -25,7 +25,7 @@ Một hướng khác là đi qua Mộc Châu rồi theo quốc lộ 43 về Phù
 
 Về địa danh: từ 1/7/2025, ba xã Làng Chếu, Háng Đồng và Tà Xùa được nhập thành xã Tà Xùa, tỉnh Sơn La; thị trấn Bắc Yên cũ cùng vài xã lân cận nay là xã Bắc Yên. Bản đồ cũ còn ghi huyện Bắc Yên.
 
-**Đổ đầy xăng ở Bắc Yên.** Danh sách cửa hàng xăng dầu của Sơn La có cây xăng ở xã Bắc Yên, nhưng chúng tôi không xác nhận được cây xăng nào trong xã Tà Xùa. Bình xăng Wave Alpha chỉ chứa 3,7 lít, leo dốc lại tốn xăng hơn đường bằng. Nhịp nghỉ và tốc độ thoải mái cho chặng dài có ở bài [đi Honda Wave đường dài](/xe-may/2026/10/11/i-honda-wave-uong-dai-toc-o-thoai-mai-va-iem-nghi/ "Đi Honda Wave đường dài").
+**Đổ đầy xăng ở Bắc Yên.** Danh sách cửa hàng xăng dầu của Sơn La có cây xăng ở xã Bắc Yên, nhưng chúng tôi không xác nhận được cây xăng nào trong xã Tà Xùa. Bình xăng Wave Alpha chỉ chứa 3,7 lít, leo dốc lại tốn xăng hơn đường bằng. Nhịp nghỉ và tốc độ thoải mái cho chặng dài có ở bài [đi Honda Wave đường dài](/xe-may/2026/10/11/di-honda-wave-duong-dai-toc-do-thoai-mai-va-diem-nghi/ "Đi Honda Wave đường dài").
 
 ## Con dốc khoảng 13 km từ Bắc Yên
 

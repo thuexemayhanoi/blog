@@ -48,7 +48,7 @@ Nếu xe vẫn trôi lùi, giữ phanh, cho người ngồi sau xuống trước
 
 ## Người ngồi sau ngồi thế nào khi vẫn ở trên xe
 
-Sách hướng dẫn Wave dặn người ngồi sau nắm tay dắt sau hoặc ngang hông người lái, đặt chân lên thanh gác chân. Lên dốc, người ngồi sau ngồi sát về phía trước một chút, không ngả ra sau, không cựa quậy. Hai người nên thống nhất tín hiệu từ trước, ví dụ vỗ vai là muốn xuống; xem bài [chở người ngồi sau lần đầu: thống nhất tín hiệu trước khi lên xe](/ky-nang/2026/10/11/cho-nguoi-ngoi-sau-lan-au-thong-nhat-tin-hieu-truoc-khi-len-xe/ "Chở người ngồi sau lần đầu").
+Sách hướng dẫn Wave dặn người ngồi sau nắm tay dắt sau hoặc ngang hông người lái, đặt chân lên thanh gác chân. Lên dốc, người ngồi sau ngồi sát về phía trước một chút, không ngả ra sau, không cựa quậy. Hai người nên thống nhất tín hiệu từ trước, ví dụ vỗ vai là muốn xuống; xem bài [chở người ngồi sau lần đầu: thống nhất tín hiệu trước khi lên xe](/ky-nang/2026/10/11/cho-nguoi-ngoi-sau-lan-dau-thong-nhat-tin-hieu-truoc-khi-len-xe/ "Chở người ngồi sau lần đầu").
 
 Áp suất lốp cũng quan trọng: nhãn trên Wave RSX ghi lốp sau 280 kPa khi chở người ngồi sau, so với 225 kPa khi đi một mình. Trước chuyến đi xa, nhờ cửa hàng bơm lốp theo mức chở hai người.
 

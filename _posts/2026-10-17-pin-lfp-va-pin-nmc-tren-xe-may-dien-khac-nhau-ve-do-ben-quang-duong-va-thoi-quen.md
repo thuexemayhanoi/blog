@@ -36,18 +36,18 @@ VnExpress năm 2022 giải thích pin LFP rẻ hơn vì không dựa vào coban 
 
 Theo trang sản phẩm VinFast tháng 10/2026, Evo, Evo Grand, Feliz II và Viper đều dùng pin LFP. VinFast công bố từ năm 2022 đã chuyển các mẫu Feliz S, Klara S (2022), Vento S, Theon S và Evo 200 sang pin LFP.
 
-Sách hướng dẫn các đời cũ hơn, như Klara S năm 2019 hay Theon năm 2021, chỉ ghi "ắc quy li-ion" mà không nói loại nào. Feliz đời đầu dùng ắc quy chì, không phải lithium. Dat Bike công bố dung lượng pin, như Quantum S1 6,4 kWh, nhưng trang chính thức không ghi loại hóa học; báo Hà Tĩnh viết Quantum S1 dùng pin LFP. Nếu muốn biết chắc xe mình thuê dùng pin gì, hỏi chủ xe đời xe và năm sản xuất. So sánh pin lithium với ắc quy chì có ở bài [pin lithium hay ắc quy chì trên xe điện](/xe-may/2026/10/11/pin-lithium-hay-ac-quy-chi-tren-xe-ien-khac-gi-khi-thue-i-lai/ "Pin lithium hay ắc quy chì trên xe điện").
+Sách hướng dẫn các đời cũ hơn, như Klara S năm 2019 hay Theon năm 2021, chỉ ghi "ắc quy li-ion" mà không nói loại nào. Feliz đời đầu dùng ắc quy chì, không phải lithium. Dat Bike công bố dung lượng pin, như Quantum S1 6,4 kWh, nhưng trang chính thức không ghi loại hóa học; báo Hà Tĩnh viết Quantum S1 dùng pin LFP. Nếu muốn biết chắc xe mình thuê dùng pin gì, hỏi chủ xe đời xe và năm sản xuất. So sánh pin lithium với ắc quy chì có ở bài [pin lithium hay ắc quy chì trên xe điện](/xe-may/2026/10/11/pin-lithium-hay-ac-quy-chi-tren-xe-dien-khac-gi-khi-thue-di-lai/ "Pin lithium hay ắc quy chì trên xe điện").
 
 ## Độ bền theo công bố của hãng
 
 - VinFast công bố pin LFP sau hơn 2000 lần sạc, xả vẫn còn chứa được khoảng 70% năng lượng.
 - Dat Bike ghi tuổi thọ pin Weaver++ là 150 nghìn km hoặc 15 năm, sau đó pin còn 70% dung lượng.
 
-Đây là công bố của hãng, phụ thuộc cách dùng. Hướng dẫn VinFast Evo nói dung lượng pin giảm dần theo thời gian, và chở quá tải hay sạc khi pin nóng làm giảm tuổi thọ. Với xe thuê đã chạy nhiều, quãng đi thực tế có thể thấp hơn xe mới; dấu hiệu pin chai có ở bài [pin xe điện chai sau kỳ thuê dài](/xe-may/2026/10/05/pin-xe-ien-chai-sau-ky-thue-dai-dau-hieu-nhan-biet/ "Pin xe điện chai sau kỳ thuê dài").
+Đây là công bố của hãng, phụ thuộc cách dùng. Hướng dẫn VinFast Evo nói dung lượng pin giảm dần theo thời gian, và chở quá tải hay sạc khi pin nóng làm giảm tuổi thọ. Với xe thuê đã chạy nhiều, quãng đi thực tế có thể thấp hơn xe mới; dấu hiệu pin chai có ở bài [pin xe điện chai sau kỳ thuê dài](/xe-may/2026/10/05/pin-xe-dien-chai-sau-ky-thue-dai-dau-hieu-nhan-biet/ "Pin xe điện chai sau kỳ thuê dài").
 
 ## Quãng đường: đừng so riêng loại pin
 
-Pin NMC chứa nhiều điện hơn mỗi kg, nhưng quãng đường còn phụ thuộc dung lượng pin tính bằng kWh, số khối pin và mức tiêu hao của xe. Một xe pin LFP lắp hai khối vẫn có thể đi xa hơn một xe pin NMC nhỏ. Hãy đọc dung lượng kWh và quãng đường hãng công bố, kèm điều kiện thử. Cách đọc thông số pin có ở bài [đọc thông số xe máy điện](/xe-may/2026/10/11/oc-thong-so-xe-may-ien-ien-ap-ah-va-cong-suat-noi-gi-ve-quang-uong/ "Đọc thông số xe máy điện").
+Pin NMC chứa nhiều điện hơn mỗi kg, nhưng quãng đường còn phụ thuộc dung lượng pin tính bằng kWh, số khối pin và mức tiêu hao của xe. Một xe pin LFP lắp hai khối vẫn có thể đi xa hơn một xe pin NMC nhỏ. Hãy đọc dung lượng kWh và quãng đường hãng công bố, kèm điều kiện thử. Cách đọc thông số pin có ở bài [đọc thông số xe máy điện](/xe-may/2026/10/11/doc-thong-so-xe-may-dien-dien-ap-ah-va-cong-suat-noi-gi-ve-quang-duong/ "Đọc thông số xe máy điện").
 
 ## Thói quen sạc nên giữ, dù là loại pin nào
 
@@ -62,7 +62,7 @@ Nhiệt độ là yếu tố thứ hai cần để ý:
 4. **Tránh nắng nóng.** Battery University cho biết tình huống xấu nhất là giữ pin đầy ở nhiệt độ cao. Trưa hè Hà Nội, đừng đỗ xe giữa nắng gắt rồi cắm sạc ngay.
 5. **Trời lạnh, xe yếu hơn.** Evo giảm hiệu năng khi pin dưới 10 độ C; Flazz giảm khi dưới 0 độ C hoặc pin thấp lúc trời lạnh.
 
-Việc sạc đầy định kỳ mỗi tháng mà hướng dẫn VinFast nhắc tới là việc của chủ xe với xe thuê dài ngày; nếu thuê theo tháng, hỏi chủ xe có cần bạn làm không. Ảnh hưởng của nắng nóng lên pin có thêm ở bài [xe máy điện thuê khi trời quá nóng pin có sao không](/xe-may/2026/10/09/xe-may-ien-thue-khi-troi-qua-nong-pin-co-sao-khong/ "Xe máy điện thuê khi trời quá nóng").
+Việc sạc đầy định kỳ mỗi tháng mà hướng dẫn VinFast nhắc tới là việc của chủ xe với xe thuê dài ngày; nếu thuê theo tháng, hỏi chủ xe có cần bạn làm không. Ảnh hưởng của nắng nóng lên pin có thêm ở bài [xe máy điện thuê khi trời quá nóng pin có sao không](/xe-may/2026/10/09/xe-may-dien-thue-khi-troi-qua-nong-pin-co-sao-khong/ "Xe máy điện thuê khi trời quá nóng").
 
 Trên bảng giá của Cho Thuê Xe Máy Nguyễn Tú, Honda Vision và Honda Air Blade có giá ngày 200.000 đồng, Honda Wave và Honda Click có giá ngày 150.000 đồng; xe máy điện chưa có giá ngày cố định nên bạn liên hệ Nguyễn Tú để kiểm tra giá hiện tại, tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần, điện thoại và Zalo 0942 467 674.
 

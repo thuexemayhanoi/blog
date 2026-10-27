@@ -58,7 +58,7 @@ Bộ Công Thương khuyên nên tắt máy nếu chờ đèn đỏ hơn 30 giâ
 - Bấm đề không quá 3 giây mỗi lần, chờ 10 tới 20 giây giữa các lần để không hại máy đề và ắc quy, như lời khuyên trên báo Dân trí. Xe có cần đạp thì đạp nổ.
 - Nếu đèn xanh mà xe chưa nổ, dắt xe vào sát lề phải, đừng đứng giữa làn cố đề.
 
-Luật Trật tự, an toàn giao thông đường bộ 2024, Điều 18 khoản 7, yêu cầu xe phải dừng trên phần đường xe chạy vì sự cố kỹ thuật phải có báo hiệu, như bật đèn cảnh báo nguy hiểm hoặc đặt biển cảnh báo phía sau. Xe 50cc thường không có đèn khẩn cấp, nên đưa xe ra khỏi làn là cách an toàn nhất. Các bước xử lý chi tiết có ở bài [xử lý khi xe máy chết máy giữa đèn đỏ](/ky-nang/2026/10/04/xu-ly-khi-xe-may-chet-may-giua-en-o/ "Xử lý khi xe máy chết máy giữa đèn đỏ"), còn cách xuất phát lúc đèn xanh có ở bài [xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-ong-cach-xuat-phat-khi-en-xanh-bat/ "Xe 50cc tăng tốc chậm ở ngã tư đông").
+Luật Trật tự, an toàn giao thông đường bộ 2024, Điều 18 khoản 7, yêu cầu xe phải dừng trên phần đường xe chạy vì sự cố kỹ thuật phải có báo hiệu, như bật đèn cảnh báo nguy hiểm hoặc đặt biển cảnh báo phía sau. Xe 50cc thường không có đèn khẩn cấp, nên đưa xe ra khỏi làn là cách an toàn nhất. Các bước xử lý chi tiết có ở bài [xử lý khi xe máy chết máy giữa đèn đỏ](/ky-nang/2026/10/04/xu-ly-khi-xe-may-chet-may-giua-den-do/ "Xử lý khi xe máy chết máy giữa đèn đỏ"), còn cách xuất phát lúc đèn xanh có ở bài [xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-dong-cach-xuat-phat-khi-den-xanh-bat/ "Xe 50cc tăng tốc chậm ở ngã tư đông").
 
 ## Khi nào nhắn cửa hàng chỉnh lại
 

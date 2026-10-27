@@ -56,7 +56,7 @@ Mùa lễ hội đông hơn nhiều: hội chùa Thầy theo truyền thống t�
 - Nếu cần sạc nhờ ở quán ăn, quán cà phê, xin phép chủ quán, cắm vào ổ trong nhà, chỗ khô ráo, ngồi trông. Với bộ sạc tiêu chuẩn, Evo cần khoảng 4,5 giờ để sạc đầy, nên một giờ ngồi quán chỉ thêm được một phần.
 - Gọi chủ xe sớm, đừng chờ pin về 0. Trên Evo, nếu pin dưới 10% và để lâu, pin có thể tự tắt hẳn và cần cắm sạc mới hoạt động lại.
 
-Thêm cách xử lý khi hết pin có ở bài [xe máy điện hết pin giữa đường](/xe-may/2026/10/10/xe-may-ien-het-pin-giua-uong-xu-ly-the-nao/ "Xe máy điện hết pin giữa đường"), và cách cân nhắc giữa xe điện với xe xăng cho chuyến xa có ở bài [đi Ba Vì về trong ngày bằng xe máy điện](/xe-may/2026/10/15/di-ba-vi-ve-trong-ngay-thue-xe-may-dien-co-du-pin-khu-hoi-hay-chon-xe-ga-chay-xa/ "Đi Ba Vì về trong ngày bằng xe máy điện").
+Thêm cách xử lý khi hết pin có ở bài [xe máy điện hết pin giữa đường](/xe-may/2026/10/10/xe-may-dien-het-pin-giua-duong-xu-ly-the-nao/ "Xe máy điện hết pin giữa đường"), và cách cân nhắc giữa xe điện với xe xăng cho chuyến xa có ở bài [đi Ba Vì về trong ngày bằng xe máy điện](/xe-may/2026/10/15/di-ba-vi-ve-trong-ngay-thue-xe-may-dien-co-du-pin-khu-hoi-hay-chon-xe-ga-chay-xa/ "Đi Ba Vì về trong ngày bằng xe máy điện").
 
 Trên bảng giá của Cho Thuê Xe Máy Nguyễn Tú, Honda Vision và Honda Air Blade có giá ngày 200.000 đồng, Honda Wave và Honda Click có giá ngày 150.000 đồng; xe máy điện chưa có giá ngày cố định nên bạn liên hệ Nguyễn Tú để kiểm tra giá hiện tại, tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần, điện thoại và Zalo 0942 467 674.
 

@@ -63,7 +63,7 @@ Mỗi khu vực, mỗi chỗ làm có nhịp riêng, nên không có một giờ
 
 ## Mang gì theo: cốp nhỏ và đồ nên để ở chỗ làm
 
-Xe có cốp hay không, cốp rộng đến đâu thì mỗi xe một khác, nên hãy mở cốp xem khi nhận xe thay vì đoán. Nếu cốp vừa cho vài món gọn, hãy dành chỗ cho áo mưa gấp và sạc dự phòng. Đồ nặng như máy tính hay giày thay nên để ở chỗ làm hoặc đeo ba lô sát lưng, đừng treo túi nặng ở tay lái vì xe nhẹ rất dễ bị kéo lệch. Cách xếp đồ cho xe nhẹ được nói kỹ hơn trong bài [chở đồ đi chợ, siêu thị bằng xe 50cc](/xe-may/2026/10/11/cho-o-i-cho-sieu-thi-bang-xe-50cc-cop-nho-moc-treo-va-muc-cho-vua-suc/).
+Xe có cốp hay không, cốp rộng đến đâu thì mỗi xe một khác, nên hãy mở cốp xem khi nhận xe thay vì đoán. Nếu cốp vừa cho vài món gọn, hãy dành chỗ cho áo mưa gấp và sạc dự phòng. Đồ nặng như máy tính hay giày thay nên để ở chỗ làm hoặc đeo ba lô sát lưng, đừng treo túi nặng ở tay lái vì xe nhẹ rất dễ bị kéo lệch. Cách xếp đồ cho xe nhẹ được nói kỹ hơn trong bài [chở đồ đi chợ, siêu thị bằng xe 50cc](/xe-may/2026/10/11/cho-do-di-cho-sieu-thi-bang-xe-50cc-cop-nho-moc-treo-va-muc-cho-vua-suc/).
 
 ## Thuê xe 50cc đi làm dài ngày: hỏi tiệm những gì
 

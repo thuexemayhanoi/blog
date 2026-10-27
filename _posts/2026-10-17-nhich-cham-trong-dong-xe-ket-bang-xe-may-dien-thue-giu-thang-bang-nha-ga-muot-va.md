@@ -64,7 +64,7 @@ Luật 36/2024, Điều 13, yêu cầu xe chạy chậm hơn đi về bên phả
 
 ## Pin trong đoạn tắc
 
-Theo hướng dẫn Evo và Flazz, khi nhả ga, động cơ không tiêu thụ năng lượng. Nhưng khi pin dưới 20%, VinFast giảm hiệu năng xe để bảo vệ pin; trên Dat Bike, vặn ga mạnh lúc pin thấp có thể kích hoạt chế độ bảo vệ hình con rùa. Đi tắc với pin thấp thì càng phải nhẹ tay ga. Đứng chờ có hao pin nhiều không có ở bài [kẹt xe giờ cao điểm: xe máy điện có hao pin khi đứng chờ không](/xe-may/2026/10/11/ket-xe-gio-cao-iem-xe-may-ien-co-hao-pin-khi-ung-cho-khong/ "Kẹt xe giờ cao điểm: xe máy điện có hao pin không").
+Theo hướng dẫn Evo và Flazz, khi nhả ga, động cơ không tiêu thụ năng lượng. Nhưng khi pin dưới 20%, VinFast giảm hiệu năng xe để bảo vệ pin; trên Dat Bike, vặn ga mạnh lúc pin thấp có thể kích hoạt chế độ bảo vệ hình con rùa. Đi tắc với pin thấp thì càng phải nhẹ tay ga. Đứng chờ có hao pin nhiều không có ở bài [kẹt xe giờ cao điểm: xe máy điện có hao pin khi đứng chờ không](/xe-may/2026/10/11/ket-xe-gio-cao-diem-xe-may-dien-co-hao-pin-khi-dung-cho-khong/ "Kẹt xe giờ cao điểm: xe máy điện có hao pin không").
 
 Trên bảng giá của Cho Thuê Xe Máy Nguyễn Tú, Honda Vision và Honda Air Blade có giá ngày 200.000 đồng, Honda Wave và Honda Click có giá ngày 150.000 đồng; xe máy điện chưa có giá ngày cố định nên bạn liên hệ Nguyễn Tú để kiểm tra giá hiện tại, tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần, điện thoại và Zalo 0942 467 674.
 

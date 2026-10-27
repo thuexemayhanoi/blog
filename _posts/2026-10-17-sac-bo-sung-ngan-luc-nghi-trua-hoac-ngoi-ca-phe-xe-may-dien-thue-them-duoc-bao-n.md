@@ -61,7 +61,7 @@ Không có quy định nào buộc quán cho sạc. Nếu chủ quán đồng ý
 - Ngồi chỗ nhìn thấy xe; thấy mùi khét, khói hay bộ sạc nóng bất thường thì rút ngay.
 - Tiền điện, nếu có, thỏa thuận với chủ quán.
 
-Riêng bộ sạc Weaver++ cần ổ chịu được ít nhất 3000W, không phải ổ nào ở quán cũng đáp ứng. Kiểm tra bộ sạc trước khi mang theo có ở bài [bộ sạc đi kèm xe máy điện thuê](/xe-may/2026/10/14/bo-sac-di-kem-xe-may-dien-thue-kiem-tra-day-den-bao-dau-cam-va-vi-sao-khong-dung/ "Bộ sạc đi kèm xe máy điện thuê"). Trạm sạc công cộng là một lựa chọn khác, xem bài [sạc pin xe máy điện ở trạm công cộng](/xe-may/2026/10/10/sac-pin-xe-may-ien-o-tram-cong-cong-luu-y-an-toan/ "Sạc pin xe máy điện ở trạm công cộng"), còn khác biệt giữa sạc nhanh và sạc thường có ở bài [sạc nhanh hay sạc thường cho xe máy điện thuê](/xe-may/2026/10/15/sac-nhanh-hay-sac-thuong-cho-xe-may-dien-thue-khi-nao-nen-dung-tru-sac-nhanh-va/ "Sạc nhanh hay sạc thường").
+Riêng bộ sạc Weaver++ cần ổ chịu được ít nhất 3000W, không phải ổ nào ở quán cũng đáp ứng. Kiểm tra bộ sạc trước khi mang theo có ở bài [bộ sạc đi kèm xe máy điện thuê](/xe-may/2026/10/14/bo-sac-di-kem-xe-may-dien-thue-kiem-tra-day-den-bao-dau-cam-va-vi-sao-khong-dung/ "Bộ sạc đi kèm xe máy điện thuê"). Trạm sạc công cộng là một lựa chọn khác, xem bài [sạc pin xe máy điện ở trạm công cộng](/xe-may/2026/10/10/sac-pin-xe-may-dien-o-tram-cong-cong-luu-y-an-toan/ "Sạc pin xe máy điện ở trạm công cộng"), còn khác biệt giữa sạc nhanh và sạc thường có ở bài [sạc nhanh hay sạc thường cho xe máy điện thuê](/xe-may/2026/10/15/sac-nhanh-hay-sac-thuong-cho-xe-may-dien-thue-khi-nao-nen-dung-tru-sac-nhanh-va/ "Sạc nhanh hay sạc thường").
 
 ## Khi nào sạc bổ sung là đáng
 

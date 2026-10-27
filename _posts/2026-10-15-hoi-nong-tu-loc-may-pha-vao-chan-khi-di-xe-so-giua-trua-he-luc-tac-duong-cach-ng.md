@@ -41,7 +41,7 @@ Quần dài vải mỏng, thoáng và nhanh khô là lớp ngăn rẻ nhất: h�
 
 Chọn giày kín mũi cùng vớ thoáng. Dép xỏ ngón hở mu bàn chân và dễ tuột khi chân trái gạt số. Ống quần nên gọn, không quá rộng để chạm vào ống xả hay vướng xích; xắn hoặc kẹp gọn trước khi lên xe.
 
-Với xe thuê, đừng tự gắn tấm chắn, quấn vải, bọc nhựa hay buộc đồ gần khối máy và ống xả. Muốn có thêm đồ che chắn, hãy hỏi và xác nhận trực tiếp với cửa hàng. Cách lên xuống xe để khỏi chạm ống xả, kèm trang phục và việc cần làm khi lỡ bỏng, được nói kỹ ở bài [bỏng ống xả khi đi xe số](/xe-may/2026/10/11/bong-ong-xa-khi-i-xe-so-cach-len-xuong-xe-va-trang-phuc-e-tranh/).
+Với xe thuê, đừng tự gắn tấm chắn, quấn vải, bọc nhựa hay buộc đồ gần khối máy và ống xả. Muốn có thêm đồ che chắn, hãy hỏi và xác nhận trực tiếp với cửa hàng. Cách lên xuống xe để khỏi chạm ống xả, kèm trang phục và việc cần làm khi lỡ bỏng, được nói kỹ ở bài [bỏng ống xả khi đi xe số](/xe-may/2026/10/11/bong-ong-xa-khi-di-xe-so-cach-len-xuong-xe-va-trang-phuc-de-tranh/).
 
 ## Nhịp nghỉ, nước uống và giờ đi
 

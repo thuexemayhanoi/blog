@@ -60,7 +60,7 @@ Không phải vết nào cũng do người thuê gây ra. Ở những bãi đôn
 - Nhờ người trông xe xếp ở chỗ thoáng và cho họ biết đây là xe thuê.
 - Chụp một tấm ảnh lúc vừa gửi, thấy cả xe và biển số, để có mốc nếu về thấy xe có vết lạ.
 
-Cách dặn người trông xe cho kỹ hơn nằm trong bài [xe xếp sát nhau trong bãi gửi: dặn gì để tay lái và gương khỏi xước](/ky-nang/2026/10/11/xe-xep-sat-nhau-trong-bai-gui-dan-gi-e-tay-lai-va-guong-khoi-xuoc/). Còn nếu về thấy xe bị đổ hay trầy ngay trong bãi, hãy xem bài [xe thuê bị đổ hoặc trầy trong bãi gửi xe](/thue-xe/2026/10/14/xe-thue-bi-do-hoac-tray-trong-bai-gui-xe-ghi-nhan-voi-nguoi-trong-giu-va-bao-cua/).
+Cách dặn người trông xe cho kỹ hơn nằm trong bài [xe xếp sát nhau trong bãi gửi: dặn gì để tay lái và gương khỏi xước](/ky-nang/2026/10/11/xe-xep-sat-nhau-trong-bai-gui-dan-gi-de-tay-lai-va-guong-khoi-xuoc/). Còn nếu về thấy xe bị đổ hay trầy ngay trong bãi, hãy xem bài [xe thuê bị đổ hoặc trầy trong bãi gửi xe](/thue-xe/2026/10/14/xe-thue-bi-do-hoac-tray-trong-bai-gui-xe-ghi-nhan-voi-nguoi-trong-giu-va-bao-cua/).
 
 ## Giữ xe thuê không trầy: dùng ảnh lúc nhận làm mốc
 

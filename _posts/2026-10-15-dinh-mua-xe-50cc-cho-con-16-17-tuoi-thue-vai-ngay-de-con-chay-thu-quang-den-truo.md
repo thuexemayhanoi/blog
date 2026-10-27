@@ -64,7 +64,7 @@ Về kỹ năng, hãy để ý con có giữ thăng bằng khi đi chậm không
 
 Mũ bảo hiểm là điều không thương lượng. Khoản 2 Điều 33 ghi nguyên văn: "Người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách." Mũ phải vừa đầu con; tiệm có mũ không thì hỏi trực tiếp.
 
-Về nhu cầu thật, mỗi tối hãy ghi vài dòng: con đi bao lâu, đoạn nào khó, chỗ gửi xe ở trường ra sao, hôm mưa thì thế nào. Nhà trường có quy định riêng về phương tiện của học sinh không cũng nên hỏi. Cách ghi nhật ký có trong bài [thuê xe máy điện chạy thử trước khi quyết định mua](/xe-may/2026/10/11/thue-xe-may-ien-chay-thu-truoc-khi-quyet-inh-mua-nen-e-y-gi/), còn cách chấm điểm so sánh có trong bài [thuê thử Vision hoặc Air Blade vài ngày](/thue-xe/2026/10/11/thue-thu-vision-hoac-air-blade-vai-ngay-truoc-khi-quyet-inh-mua-xe/).
+Về nhu cầu thật, mỗi tối hãy ghi vài dòng: con đi bao lâu, đoạn nào khó, chỗ gửi xe ở trường ra sao, hôm mưa thì thế nào. Nhà trường có quy định riêng về phương tiện của học sinh không cũng nên hỏi. Cách ghi nhật ký có trong bài [thuê xe máy điện chạy thử trước khi quyết định mua](/xe-may/2026/10/11/thue-xe-may-dien-chay-thu-truoc-khi-quyet-dinh-mua-nen-de-y-gi/), còn cách chấm điểm so sánh có trong bài [thuê thử Vision hoặc Air Blade vài ngày](/thue-xe/2026/10/11/thue-thu-vision-hoac-air-blade-vai-ngay-truoc-khi-quyet-dinh-mua-xe/).
 
 ## Từ chạy thử đến quyết định mua: tiêu chí chung
 

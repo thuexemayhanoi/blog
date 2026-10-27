@@ -27,7 +27,7 @@ Hãy thống nhất với bạn ấy từ hôm trước, theo ba vai:
 
 Ba vai này có thể do hai người cùng đảm nhận, chỉ cần nói rõ trước. Giờ hẹn nên nằm trong giờ mở cửa 09:00–21:00 của cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, và nên chọn lúc bạn ấy đã nghỉ ngơi, không phải ngay sau chuyến bay dài. Nếu định nhờ giao xe tận nơi thì thời gian và chi phí giao nhận phải xác nhận trước, và cửa hàng không giao xe ngoài giờ hoạt động.
 
-Bài về [đặt hộ xe máy cho bạn nước ngoài](/thue-xe/2026/10/11/at-ho-xe-may-cho-ban-nuoc-ngoai-o-ha-noi-nhung-ieu-can-hoi-ho/) nói phần trước ngày nhận; bài này bắt đầu từ lúc hai người đã đứng trước quầy.
+Bài về [đặt hộ xe máy cho bạn nước ngoài](/thue-xe/2026/10/11/dat-ho-xe-may-cho-ban-nuoc-ngoai-o-ha-noi-nhung-dieu-can-hoi-ho/) nói phần trước ngày nhận; bài này bắt đầu từ lúc hai người đã đứng trước quầy.
 
 ## Ai đứng tên thuê: người trực tiếp lái
 
