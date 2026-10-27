@@ -33,7 +33,7 @@ Vì vậy bài không nói đoàn xe câu lạc bộ hay đoàn xe rước dâu 
 
 Điều 27 khoản 1 liệt kê xe ưu tiên, trong đó có đoàn xe có xe Cảnh sát giao thông dẫn đường và đoàn xe tang. Bài không thấy trong danh sách cụm đoàn xe cưới, đoàn xe câu lạc bộ hay đoàn xe diễu hành. Vì vậy nếu không có xe Cảnh sát giao thông dẫn đường, theo cách bài đọc thì đoàn xe máy của bạn không được hưởng quyền ưu tiên ở Điều 27.
 
-Hệ quả thực tế là từng xe trong đoàn vẫn phải theo đèn tín hiệu và quy tắc thường. Bài [nhường đường cho đoàn xe ưu tiên khi đi xe máy](/an-toan-phap-ly/2026/10/10/nhuong-uong-cho-oan-xe-uu-tien-khi-i-xe-may/) nói về phía người nhường đoàn ưu tiên.
+Hệ quả thực tế là từng xe trong đoàn vẫn phải theo đèn tín hiệu và quy tắc thường. Bài [nhường đường cho đoàn xe ưu tiên khi đi xe máy](/an-toan-phap-ly/2026/10/10/nhuong-duong-cho-doan-xe-uu-tien-khi-di-xe-may/) nói về phía người nhường đoàn ưu tiên.
 
 ## Từng xe trong đoàn vẫn theo quy tắc riêng: không dàn hàng ngang, giữ khoảng cách
 
@@ -49,7 +49,7 @@ Hãy chọn tuyến ít ngã tư, tránh giờ cao điểm, thống nhất cách
 
 ## Nếu bạn chỉ đi trong đoàn: tự chịu trách nhiệm với tay lái của chính bạn
 
-Người đi trong đoàn không nên coi người dẫn đầu là người quyết định thay. Theo Điều 11 khoản 4, đèn vàng là phải dừng trước vạch dừng nếu chưa đi qua vạch, nên đừng bám theo xe trước để vượt đèn. Bài [gặp đoàn xe cưới trên đường: giữ khoảng cách thế nào](/ky-nang/2026/10/10/gap-oan-xe-cuoi-tren-uong-giu-khoang-cach-the-nao/) nói về phía xe ngoài đoàn.
+Người đi trong đoàn không nên coi người dẫn đầu là người quyết định thay. Theo Điều 11 khoản 4, đèn vàng là phải dừng trước vạch dừng nếu chưa đi qua vạch, nên đừng bám theo xe trước để vượt đèn. Bài [gặp đoàn xe cưới trên đường: giữ khoảng cách thế nào](/ky-nang/2026/10/10/gap-doan-xe-cuoi-tren-duong-giu-khoang-cach-the-nao/) nói về phía xe ngoài đoàn.
 
 ## Xe thuê: hỏi tiệm trước khi đưa xe vào đoàn diễu hành
 

@@ -47,7 +47,7 @@ Cũng theo Dunlop, lốp xe máy được thiết kế khác nhau cho bánh trư
 
 Sách hướng dẫn Air Blade bản Việt Nam dặn thay lốp bằng loại khuyên dùng hoặc loại cùng kích cỡ, cấu trúc, dải tốc độ và giới hạn tải, và ghi xe này không được lắp săm bên trong lốp. Sách cũng dặn luôn dùng loại lốp trước và lốp sau khuyên dùng để hệ thống chống bó cứng phanh vận hành đúng cách.
 
-Những lời dặn này là của một đời xe cụ thể; xe của bạn có thể khác. Bài [đọc thông số trên lốp xe máy: 80/90-14 nghĩa là gì và vì sao không tự đổi cỡ](/xe-may/2026/10/11/oc-thong-so-tren-lop-xe-may-809014-nghia-la-gi-va-vi-sao-khong-tu-oi-co/) nói cách đọc cỡ in trên hông để đối chiếu với sách hoặc tem trên xe.
+Những lời dặn này là của một đời xe cụ thể; xe của bạn có thể khác. Bài [đọc thông số trên lốp xe máy: 80/90-14 nghĩa là gì và vì sao không tự đổi cỡ](/xe-may/2026/10/11/doc-thong-so-tren-lop-xe-may-809014-nghia-la-gi-va-vi-sao-khong-tu-doi-co/) nói cách đọc cỡ in trên hông để đối chiếu với sách hoặc tem trên xe.
 
 ## Cách tự kiểm tra sau khi thay lốp: ba điểm nhìn trong một phút
 

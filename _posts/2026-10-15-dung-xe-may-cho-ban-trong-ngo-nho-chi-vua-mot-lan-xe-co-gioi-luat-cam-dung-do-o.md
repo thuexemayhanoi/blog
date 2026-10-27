@@ -47,7 +47,7 @@ Thay vì dừng giữa ngõ chờ bạn, hãy hẹn ở đầu ngõ nơi đườ
 
 Nếu cần ở lại lâu, hãy tìm chỗ gửi xe có người trông ở phố lớn gần đó thay vì để xe trong ngõ. Chỗ gửi giúp giữ lối thông thoáng và giảm nguy cơ xe bị va quệt. Bài không biết chỗ gửi nào gần bạn và không nêu giá.
 
-Nếu bạn ở homestay hay nhà quen trong ngõ, hãy hỏi chủ nhà chỗ để xe được phép trước khi đến. Bài [quay đầu xe máy ở ngõ nhỏ có cách nào gọn](/ky-nang/2026/10/09/quay-au-xe-may-o-ngo-nho-co-cach-nao-gon/) nói thêm cách xoay xe khi cần.
+Nếu bạn ở homestay hay nhà quen trong ngõ, hãy hỏi chủ nhà chỗ để xe được phép trước khi đến. Bài [quay đầu xe máy ở ngõ nhỏ có cách nào gọn](/ky-nang/2026/10/09/quay-dau-xe-may-o-ngo-nho-co-cach-nao-gon/) nói thêm cách xoay xe khi cần.
 
 ## Ra khỏi ngõ: nhường đường và quan sát
 

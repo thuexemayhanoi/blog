@@ -70,7 +70,7 @@ Bài không biết tiệm trả lời thế nào. Nhưng chỉ cần bạn hỏi
 
 Sách Air Blade bản Việt Nam dặn bảo dưỡng phải tuân theo tiêu chuẩn của hãng và do kỹ thuật viên được đào tạo, có dụng cụ cần thiết thực hiện, và nên giữ lại tất cả phiếu bảo dưỡng. Tháo nắp lọc hay lưới trong máy là việc có nguy cơ làm rò nhớt hoặc lắp sai.
 
-Với xe thuê, bạn không tự làm việc này. Hãy chụp ảnh phiếu sau khi thay nhớt và gửi cho tiệm nếu tiệm muốn đối chiếu. Bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-inh-ky-xe-may-gom-nhung-gi/) liệt kê các nhóm việc thường gặp.
+Với xe thuê, bạn không tự làm việc này. Hãy chụp ảnh phiếu sau khi thay nhớt và gửi cho tiệm nếu tiệm muốn đối chiếu. Bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-dinh-ky-xe-may-gom-nhung-gi/) liệt kê các nhóm việc thường gặp.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

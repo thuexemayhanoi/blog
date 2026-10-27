@@ -51,7 +51,7 @@ Khi xe phía trước đổi hướng sát đầu, người đi sau thường b�
 
 Đây là gợi ý thực tế dựa trên các điều đã đọc, không phải lời khuyên pháp lý. Nhìn gương hoặc ngoái đầu quan sát xe phía sau và hai bên, bật xi nhan sớm và để nó nháy đủ lâu, giảm tốc, rồi mới chuyển dần sang làn gần hướng rẽ. Với ngõ nhỏ, hãy giảm tốc và chờ xe phía sau đi qua nếu khoảng cách không đủ.
 
-Nếu bạn chưa quen quan sát phía sau, hãy tập ở chỗ vắng. Bài [chuyển làn an toàn khi đi xe máy: gương, xi nhan, vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-i-xe-may-guong-xi-nhan-vai/) nói thêm cách dùng gương, xi nhan và cách nhìn qua vai.
+Nếu bạn chưa quen quan sát phía sau, hãy tập ở chỗ vắng. Bài [chuyển làn an toàn khi đi xe máy: gương, xi nhan, vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-di-xe-may-guong-xi-nhan-vai/) nói thêm cách dùng gương, xi nhan và cách nhìn qua vai.
 
 ## Xe thuê: nhắn tiệm nếu va chạm hoặc xe bị trầy sau cú tránh
 

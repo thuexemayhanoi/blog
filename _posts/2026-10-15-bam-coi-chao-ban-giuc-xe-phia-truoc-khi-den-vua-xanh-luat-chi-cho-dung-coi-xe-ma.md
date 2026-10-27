@@ -45,7 +45,7 @@ Theo cách đọc của bài, bấm còi chào người quen, bấm còi giục 
 
 ## Đèn vừa xanh: chờ nhìn hai bên thay vì bấm còi giục
 
-Đèn vừa chuyển xanh, xe phía trước chưa nhích là lúc dễ bấm còi nhất. Nhưng đó cũng là lúc xe từ hướng kia có thể còn đang qua nốt. Bài [đèn xanh vừa bật vẫn nhìn hai bên: thói quen một nhịp ở ngã tư đông xe](/ky-nang/2026/10/11/en-xanh-vua-bat-van-nhin-hai-ben-thoi-quen-mot-nhip-o-nga-tu-ong-xe/) nói thói quen nhìn hai bên trước khi đi.
+Đèn vừa chuyển xanh, xe phía trước chưa nhích là lúc dễ bấm còi nhất. Nhưng đó cũng là lúc xe từ hướng kia có thể còn đang qua nốt. Bài [đèn xanh vừa bật vẫn nhìn hai bên: thói quen một nhịp ở ngã tư đông xe](/ky-nang/2026/10/11/den-xanh-vua-bat-van-nhin-hai-ben-thoi-quen-mot-nhip-o-nga-tu-dong-xe/) nói thói quen nhìn hai bên trước khi đi.
 
 Nếu bạn là người bị bấm còi giục, hãy bình tĩnh. Bài [bị bấm còi liên tục từ phía sau: hiểu tiếng còi ở Hà Nội và phản ứng bình tĩnh](/ky-nang/2026/10/11/bi-bam-coi-lien-tuc-tu-phia-sau-hieu-tieng-coi-o-ha-noi-va-phan-ung-binh-tinh/) nói cách phản ứng.
 

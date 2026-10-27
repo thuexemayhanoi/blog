@@ -39,7 +39,7 @@ Các con số này chỉ minh họa cách tính, không phải giá thật của
 
 Ngoài tiền thuê, xăng và gửi xe, còn vài khoản dễ quên. Một là bảo dưỡng và vá lốp: chạy giao hàng nhiều km nên hao mòn nhanh, và việc ai chịu chi phí nào cần hỏi tiệm. Hai là mũ, áo mưa, túi giữ nhiệt. Ba là điện thoại và cước dữ liệu. Bốn là thời gian chờ đơn, thời gian di chuyển không có đơn.
 
-Bài [ngoài tiền thuê xe: ngân sách xăng, gửi xe, rửa xe mỗi tháng khi đi làm](/thue-xe/2026/10/11/ngoai-tien-thue-xe-ngan-sach-xang-gui-xe-rua-xe-moi-thang-khi-i-lam/) liệt kê những khoản phụ khi đi làm bằng xe thuê tháng. Bạn có thể cộng thêm các khoản này vào chi phí cố định để có con số hòa vốn sát thực hơn.
+Bài [ngoài tiền thuê xe: ngân sách xăng, gửi xe, rửa xe mỗi tháng khi đi làm](/thue-xe/2026/10/11/ngoai-tien-thue-xe-ngan-sach-xang-gui-xe-rua-xe-moi-thang-khi-di-lam/) liệt kê những khoản phụ khi đi làm bằng xe thuê tháng. Bạn có thể cộng thêm các khoản này vào chi phí cố định để có con số hòa vốn sát thực hơn.
 
 ## Chọn xe và gói thuê để giảm điểm hòa vốn
 

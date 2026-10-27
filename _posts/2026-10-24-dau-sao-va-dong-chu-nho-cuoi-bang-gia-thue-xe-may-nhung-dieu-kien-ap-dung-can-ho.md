@@ -39,7 +39,7 @@ Cũng hãy chú ý chữ nhỏ bên cạnh bảng, trong ảnh quảng cáo ho�
 
 Sau khi đã lập danh sách điều kiện, hãy nhắn hỏi tiệm từng điều một, ngắn gọn. Ví dụ: "Giá ngày này áp dụng từ mấy ngày thuê ạ? Em nhận lúc chín giờ sáng thì trả lúc mấy giờ hôm sau? Giá chưa gồm những khoản nào?" Hỏi bằng tin nhắn để có câu trả lời bằng chữ.
 
-Khi tiệm trả lời, hãy kiểm tra xem câu trả lời có khớp với ghi chú trên bảng giá không. Nếu khác, nhờ tiệm xác nhận lại điều nào là đúng. Bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-ien-thoai-nen-hoi-the-nao/) gợi ý cách hỏi khi gọi trực tiếp.
+Khi tiệm trả lời, hãy kiểm tra xem câu trả lời có khớp với ghi chú trên bảng giá không. Nếu khác, nhờ tiệm xác nhận lại điều nào là đúng. Bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-dien-thoai-nen-hoi-the-nao/) gợi ý cách hỏi khi gọi trực tiếp.
 
 ## Ô ghi "liên hệ" và "xác nhận trực tiếp": chưa phải là số
 

@@ -53,7 +53,7 @@ Với xe thuê, hãy hiểu rộng hơn: đừng mở nắp bình, đừng châm
 
 Hãy để ý các dấu hiệu sau: tay phanh mềm như bóp vào bông, phải bóp sâu hơn mới ăn, mức dầu tụt sát hoặc dưới vạch thấp, vệt dầu quanh cần phanh hay ống dầu. Nếu thấy phanh yếu, đừng đi tiếp quãng xa, nhất là trên đường dốc hay đường đông.
 
-Bài [kiểm tra dầu phanh xe thuê trước khi đi đèo](/xe-may/2026/10/09/kiem-tra-dau-phanh-xe-thue-truoc-khi-i-eo/) nói cách xem mức dầu và cảm giác tay phanh trước chuyến đi xa. Còn bài [thay dầu phanh xe máy: dấu hiệu và thời điểm đúng](/xe-may/2026/10/10/thay-dau-phanh-xe-may-dau-hieu-va-thoi-iem-ung/) nói về lúc nên thay.
+Bài [kiểm tra dầu phanh xe thuê trước khi đi đèo](/xe-may/2026/10/09/kiem-tra-dau-phanh-xe-thue-truoc-khi-di-deo/) nói cách xem mức dầu và cảm giác tay phanh trước chuyến đi xa. Còn bài [thay dầu phanh xe máy: dấu hiệu và thời điểm đúng](/xe-may/2026/10/10/thay-dau-phanh-xe-may-dau-hieu-va-thoi-diem-dung/) nói về lúc nên thay.
 
 ## Ghi lại và báo tiệm: ảnh nắp bình, mức dầu và cảm giác tay phanh
 

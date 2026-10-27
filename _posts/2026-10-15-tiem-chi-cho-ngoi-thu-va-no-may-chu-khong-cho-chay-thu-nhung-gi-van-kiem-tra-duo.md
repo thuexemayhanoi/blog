@@ -47,7 +47,7 @@ Sách cũng dặn kiểm tra xem bánh có quay tự do sau khi nhả phanh khô
 
 Bật khóa điện và thử đèn pha, đèn hậu, đèn phanh, xi nhan trái và phải, còi. Sách Wave Alpha liệt kê đèn và còi trong các mục cần kiểm tra trước khi lên xe, kèm đèn báo trên đồng hồ.
 
-Nhìn đồng hồ: mức xăng, đèn cảnh báo nào đang sáng, số km. Chụp ảnh đồng hồ làm mốc. Bài [đọc đồng hồ khi nhận xe thuê: số km, kim xăng và đèn cảnh báo](/thue-xe/2026/10/12/oc-ong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-en-canh-bao/) nói cách đọc.
+Nhìn đồng hồ: mức xăng, đèn cảnh báo nào đang sáng, số km. Chụp ảnh đồng hồ làm mốc. Bài [đọc đồng hồ khi nhận xe thuê: số km, kim xăng và đèn cảnh báo](/thue-xe/2026/10/12/doc-dong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-den-canh-bao/) nói cách đọc.
 
 ## Nhìn lốp và vết xước: chụp ảnh như thường lệ
 

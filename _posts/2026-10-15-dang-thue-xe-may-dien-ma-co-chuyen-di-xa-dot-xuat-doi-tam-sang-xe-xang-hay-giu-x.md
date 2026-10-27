@@ -21,7 +21,7 @@ Bài không nêu giá hay mức cọc, không biết tiệm của bạn có cho 
 
 ## Đổi xe điện sang xe xăng hay giữ xe điện: bắt đầu từ quãng đường và chỗ sạc
 
-Câu hỏi đầu tiên là chuyến đi dài bao nhiêu và có chỗ sạc dọc đường không. Bài không biết quãng đường một lần sạc của xe điện bạn thuê, vì phụ thuộc pin và cách đi. Bài [thuê xe máy điện chạy xa được bao nhiêu km](/xe-may/2026/09/30/thue-xe-may-ien-chay-xa-uoc-bao-nhieu-km/) nói thêm về quãng đường.
+Câu hỏi đầu tiên là chuyến đi dài bao nhiêu và có chỗ sạc dọc đường không. Bài không biết quãng đường một lần sạc của xe điện bạn thuê, vì phụ thuộc pin và cách đi. Bài [thuê xe máy điện chạy xa được bao nhiêu km](/xe-may/2026/09/30/thue-xe-may-dien-chay-xa-duoc-bao-nhieu-km/) nói thêm về quãng đường.
 
 Nếu quãng đường vừa tầm và có chỗ sạc an toàn, giữ xe điện có thể là lựa chọn. Nếu quãng đường dài, đường đèo dốc hay ít chỗ sạc, nhiều người thấy xe xăng yên tâm hơn. Bài không đưa nhận định chung vì còn tùy chuyến đi.
 

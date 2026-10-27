@@ -23,7 +23,7 @@ Bài không biết tiệm hay quán bạn ghé có đáng tin không, không bi�
 
 Xe điện thuê là tài sản của tiệm cho thuê. Bài không biết tiệm có cho phép sạc ở chỗ khác ngoài chỗ tiệm chỉ định hay không, có yêu cầu dùng đúng bộ sạc đi kèm xe hay không, và nếu pin hỏng khi sạc ở ngoài thì ai chịu. Đó là điều xác nhận trực tiếp với tiệm.
 
-Vì vậy hãy nhắn hỏi tiệm trước khi nhờ ai cắm sạc, nếu có thể, và nhờ tiệm trả lời bằng chữ. Bài [sạc xe máy điện thuê ở Hà Nội: trạm đổi pin và ổ sạc](/xe-may/2026/10/11/sac-xe-may-ien-thue-o-ha-noi-tram-oi-pin-va-o-sac/) nói thêm về các chỗ có thể sạc.
+Vì vậy hãy nhắn hỏi tiệm trước khi nhờ ai cắm sạc, nếu có thể, và nhờ tiệm trả lời bằng chữ. Bài [sạc xe máy điện thuê ở Hà Nội: trạm đổi pin và ổ sạc](/xe-may/2026/10/11/sac-xe-may-dien-thue-o-ha-noi-tram-doi-pin-va-o-sac/) nói thêm về các chỗ có thể sạc.
 
 ## Chỗ sạc: khô ráo, thoáng, xa vật dễ cháy
 

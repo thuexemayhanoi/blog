@@ -23,7 +23,7 @@ Bài không nêu giá thuê, không đánh giá riêng một chiếc xe hay mộ
 
 Bài không tìm thấy nguồn chính thức nói dòng xe nào đỡ mỏi hơn cho chặng Hà Nội đến Cúc Phương. Điều bài nêu được là khoảng cách, đường đi cho xe máy, quy định phương tiện mới của Vườn và giờ làm việc của tiệm.
 
-Bài khác: [Vườn quốc gia Cúc Phương bằng xe máy từ Hà Nội](/cung-duong/2026/10/04/vuon-quoc-gia-cuc-phuong-bang-xe-may-tu-ha-noi-chuan-bi-cung-uong/). Bài không biết xe tiệm có.
+Bài khác: [Vườn quốc gia Cúc Phương bằng xe máy từ Hà Nội](/cung-duong/2026/10/04/vuon-quoc-gia-cuc-phuong-bang-xe-may-tu-ha-noi-chuan-bi-cung-duong/). Bài không biết xe tiệm có.
 
 ## Cúc Phương cách Hà Nội bao xa
 

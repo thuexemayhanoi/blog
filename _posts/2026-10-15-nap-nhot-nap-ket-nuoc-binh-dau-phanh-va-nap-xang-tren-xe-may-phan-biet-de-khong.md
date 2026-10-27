@@ -59,7 +59,7 @@ Sách Air Blade bản Việt Nam ghi nếu lỡ đổ thêm dầu phanh thì đ�
 
 Sách Air Blade bản Việt Nam dặn kiểm tra mực dầu động cơ, mức dầu phanh trước và mức dung dịch làm mát trong bình dự trữ khi xe dựng trên nền phẳng và vững. Với dung dịch làm mát và dầu động cơ, hãy kiểm tra khi máy đã nguội.
 
-Việc người thuê tự làm chỉ nên dừng ở việc nhìn: nhìn vạch mức, nhìn que thăm, nhìn vết rỉ. Việc châm hay thay là việc của tiệm. Bài [kiểm tra dầu phanh xe thuê trước khi đi đèo](/xe-may/2026/10/09/kiem-tra-dau-phanh-xe-thue-truoc-khi-i-eo/) nói cách nhìn mức dầu phanh trước chuyến đi xa.
+Việc người thuê tự làm chỉ nên dừng ở việc nhìn: nhìn vạch mức, nhìn que thăm, nhìn vết rỉ. Việc châm hay thay là việc của tiệm. Bài [kiểm tra dầu phanh xe thuê trước khi đi đèo](/xe-may/2026/10/09/kiem-tra-dau-phanh-xe-thue-truoc-khi-di-deo/) nói cách nhìn mức dầu phanh trước chuyến đi xa.
 
 ## Ghi lại và nhắn tiệm: ảnh từng nắp, chữ in và mức
 

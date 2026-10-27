@@ -41,7 +41,7 @@ Bài không kết luận người thuê hay tiệm trả trong trường hợp x
 
 Điều 69 gắn việc di chuyển xe với những vi phạm đỗ gây cản trở, ùn tắc hoặc nguy cơ tai nạn. Bài không nói đỗ sai một chỗ không cản trở ai thì sẽ bị di chuyển hay không. Bài cũng không nêu cách cơ quan xác định mức cản trở.
 
-Điều bài khuyên là đừng đặt cược. Hãy chọn chỗ đỗ hợp lệ ngay từ đầu. Bài [biển báo cấm dừng đỗ và chỗ để xe hợp lệ](/an-toan-phap-ly/2026/10/10/bien-bao-cam-dung-o-va-cho-e-xe-hop-le/) và bài [vạch vàng sơn trên bó vỉa và mép đường](/an-toan-phap-ly/2026/10/16/vach-vang-son-tren-bo-via-va-mep-duong-nhan-biet-doan-cam-dung-cam-do-xe-may-ven/) nói cách nhận biết đoạn cấm dừng, cấm đỗ.
+Điều bài khuyên là đừng đặt cược. Hãy chọn chỗ đỗ hợp lệ ngay từ đầu. Bài [biển báo cấm dừng đỗ và chỗ để xe hợp lệ](/an-toan-phap-ly/2026/10/10/bien-bao-cam-dung-do-va-cho-de-xe-hop-le/) và bài [vạch vàng sơn trên bó vỉa và mép đường](/an-toan-phap-ly/2026/10/16/vach-vang-son-tren-bo-via-va-mep-duong-nhan-biet-doan-cam-dung-cam-do-xe-may-ven/) nói cách nhận biết đoạn cấm dừng, cấm đỗ.
 
 ## Nếu bạn có mặt: không cản trở việc di chuyển xe
 

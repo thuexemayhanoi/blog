@@ -41,7 +41,7 @@ Cách nghĩ thực tế là đừng đặt cược vào chuyện ngõ nhà bạn
 
 Luật yêu cầu cả hai: mũ theo đúng quy chuẩn kỹ thuật quốc gia và quai cài đúng quy cách. Đội mũ mà để quai thõng thì chưa chắc đã đáp ứng điều thứ hai, vì khi ngã mũ dễ văng khỏi đầu. Bài không có tiêu chí chi tiết thế nào là đúng quy cách và không đánh giá từng chiếc mũ.
 
-Hãy nhìn tem trên mũ và hỏi tiệm nếu bạn không rõ mũ có đạt quy chuẩn không. Bài [giữ mũ bảo hiểm khi xuống xe đi bộ](/ky-nang/2026-09-29/giu-mu-bao-hiem-khi-xuong-xe-i-bo/) nói thêm cách giữ mũ khi dừng.
+Hãy nhìn tem trên mũ và hỏi tiệm nếu bạn không rõ mũ có đạt quy chuẩn không. Bài [giữ mũ bảo hiểm khi xuống xe đi bộ](/ky-nang/2026-09-29/giu-mu-bao-hiem-khi-xuong-xe-di-bo/) nói thêm cách giữ mũ khi dừng.
 
 ## Người ngồi sau cũng thuộc câu chữ: không riêng người lái
 

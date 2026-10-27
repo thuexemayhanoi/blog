@@ -59,7 +59,7 @@ Mũ fullface đóng vai trò bảo vệ tốt, nhưng chỉ khi đội đúng v�
 
 Mũ fullface của riêng bạn có thể là món đồ đắt hơn cả tiền thuê một ngày. Khi gửi xe ở nơi đông người, hãy tránh để mũ lộ trên yên hay móc ở chỗ ai cũng với tới. Nếu tiệm có khóa mũ, hãy hỏi cách dùng.
 
-Bài [giữ mũ bảo hiểm khi xuống xe đi bộ](/ky-nang/2026-09-29/giu-mu-bao-hiem-khi-xuong-xe-i-bo/) nói thêm về cách giữ mũ khi rời xe. Bài không biết tiệm có chỗ cất mũ hay không.
+Bài [giữ mũ bảo hiểm khi xuống xe đi bộ](/ky-nang/2026-09-29/giu-mu-bao-hiem-khi-xuong-xe-di-bo/) nói thêm về cách giữ mũ khi rời xe. Bài không biết tiệm có chỗ cất mũ hay không.
 
 ## Nhắn tiệm trước khi đến: mô tả mũ và hỏi xe nào cất được
 

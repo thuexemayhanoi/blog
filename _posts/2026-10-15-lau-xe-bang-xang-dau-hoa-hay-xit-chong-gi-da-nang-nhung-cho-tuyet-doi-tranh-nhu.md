@@ -63,7 +63,7 @@ Nếu bạn dùng chất bảo quản hay bôi trơn, hãy chỉ bôi ở nơi s
 
 ## Với xe thuê: hỏi tiệm trước khi dùng hóa chất
 
-Với xe thuê dài hạn, hãy hỏi tiệm có cho tự lau xe không và cho dùng chất nào. Nếu tiệm đồng ý, hỏi luôn chỗ nào không được xịt. Bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-inh-ky-xe-may-gom-nhung-gi/) liệt kê những việc thường nằm trong một kỳ bảo dưỡng; những việc đó thuộc về thợ.
+Với xe thuê dài hạn, hãy hỏi tiệm có cho tự lau xe không và cho dùng chất nào. Nếu tiệm đồng ý, hỏi luôn chỗ nào không được xịt. Bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-dinh-ky-xe-may-gom-nhung-gi/) liệt kê những việc thường nằm trong một kỳ bảo dưỡng; những việc đó thuộc về thợ.
 
 Bài không biết tiệm theo quy định nào; đó là điều xác nhận trực tiếp.
 

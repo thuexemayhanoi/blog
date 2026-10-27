@@ -45,7 +45,7 @@ Từ đó có thể hiểu rằng đèn chớp xanh đỏ không phải màu mu�
 
 Điều 27 khoản 5 viết khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông phải giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường; bài diễn đạt lại. Nếu xe máy thường phát tín hiệu giả, người khác có thể giảm tốc, tấp vào, thậm chí phanh gấp cho một chiếc xe không cần nhường.
 
-Điều đó cũng làm giảm sự tin cậy với tín hiệu thật. Bài không có số liệu về tai nạn do tín hiệu giả; đây là lý do suy ra từ chính mục đích của quy định. Bài [nhường đường cho đoàn xe ưu tiên khi đi xe máy](/an-toan-phap-ly/2026/10/10/nhuong-uong-cho-oan-xe-uu-tien-khi-i-xe-may/) nói thêm cách nhường khi gặp tín hiệu thật.
+Điều đó cũng làm giảm sự tin cậy với tín hiệu thật. Bài không có số liệu về tai nạn do tín hiệu giả; đây là lý do suy ra từ chính mục đích của quy định. Bài [nhường đường cho đoàn xe ưu tiên khi đi xe máy](/an-toan-phap-ly/2026/10/10/nhuong-duong-cho-doan-xe-uu-tien-khi-di-xe-may/) nói thêm cách nhường khi gặp tín hiệu thật.
 
 ## Chở người bệnh đi cấp cứu bằng xe máy: không tự thành xe ưu tiên
 

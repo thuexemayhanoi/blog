@@ -33,7 +33,7 @@ Vì vậy tiêu chí chọn xe nên là: bạn đi đâu, chở ai, chở gì, v
 
 ## Chọn xe theo nhu cầu trước: quãng đường, người chở và hành lý
 
-Hãy bắt đầu từ chuyến đi: đi phố hay đi xa, một người hay hai người, nhiều hay ít đồ. Rồi mới xét đến chuyện xe nổi bật hay không. Bài [Vision, Air Blade hay Click: chọn xe ga thuê tháng theo dáng người, quãng đường](/thue-xe/2026/10/11/vision-air-blade-hay-click-chon-xe-ga-thue-thang-theo-dang-nguoi-quang-uong/) nói cách chọn theo nhu cầu.
+Hãy bắt đầu từ chuyến đi: đi phố hay đi xa, một người hay hai người, nhiều hay ít đồ. Rồi mới xét đến chuyện xe nổi bật hay không. Bài [Vision, Air Blade hay Click: chọn xe ga thuê tháng theo dáng người, quãng đường](/thue-xe/2026/10/11/vision-air-blade-hay-click-chon-xe-ga-thue-thang-theo-dang-nguoi-quang-duong/) nói cách chọn theo nhu cầu.
 
 Nếu cả hai xe đều hợp, bạn có thể chọn chiếc bạn thấy dễ dựng chân chống và dễ khóa hơn. Bài không đánh giá xe nào dễ khóa hơn.
 
@@ -41,7 +41,7 @@ Nếu cả hai xe đều hợp, bạn có thể chọn chiếc bạn thấy dễ
 
 Sách hướng dẫn Wave Alpha bản Việt Nam của Honda dặn để giảm thiểu nguy cơ mất trộm, luôn nhớ khóa tay lái, rút chìa khóa và đóng khóa an toàn khi rời khỏi xe. Sách còn dặn sử dụng thiết bị chống trộm được khuyến cáo.
 
-Đây là lớp thấp nhất và nên làm mỗi lần rời xe, dù xe mới hay cũ. Bài [chống trộm xe máy khi thuê: khóa và cách đỗ xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/) nói thêm về các lớp khóa.
+Đây là lớp thấp nhất và nên làm mỗi lần rời xe, dù xe mới hay cũ. Bài [chống trộm xe máy khi thuê: khóa và cách đỗ xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/) nói thêm về các lớp khóa.
 
 ## Khóa phụ: hỏi tiệm có khóa chữ U hoặc khóa bánh không
 

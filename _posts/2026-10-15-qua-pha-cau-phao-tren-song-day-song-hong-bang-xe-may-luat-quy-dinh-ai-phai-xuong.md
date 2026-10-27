@@ -53,7 +53,7 @@ Vì vậy trên cầu phao hãy đi một hàng, không vượt, không chạy d
 
 Luật không quy định chi tiết cách giữ xe trên phà, nên đây là gợi ý thực tế, không phải điều luật. Khi xe đã vào vị trí, hãy dựng chân chống, khóa cổ, hạ số hoặc đặt số theo thói quen, giữ chặt túi đồ và không để xe sát mép phà. Bài [qua phà sông Hồng bằng xe máy: xếp hàng và giữ xe trên phà](/ky-nang/2026/10/10/qua-pha-song-hong-bang-xe-may-xep-hang-va-giu-xe-tren-pha/) nói thêm cách giữ xe.
 
-Bài [đi phà với xe máy thuê: thủ tục và giữ xe trên phà](/ky-nang/2026/10/04/i-pha-voi-xe-may-thue-thu-tuc-va-giu-xe-tren-pha/) nhắc những điều riêng với xe thuê. Bài không biết tiệm có cho mang xe qua phà hay không; hãy hỏi.
+Bài [đi phà với xe máy thuê: thủ tục và giữ xe trên phà](/ky-nang/2026/10/04/di-pha-voi-xe-may-thue-thu-tuc-va-giu-xe-tren-pha/) nhắc những điều riêng với xe thuê. Bài không biết tiệm có cho mang xe qua phà hay không; hãy hỏi.
 
 ## Xe thuê qua phà: hỏi tiệm trước, nhắn bằng chữ
 

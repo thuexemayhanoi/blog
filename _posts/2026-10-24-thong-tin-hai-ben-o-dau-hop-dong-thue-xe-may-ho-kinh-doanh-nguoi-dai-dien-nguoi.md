@@ -33,19 +33,19 @@ Khi đọc, hãy để ý: bên cho thuê được ghi bằng tên cá nhân, t�
 
 Bước hữu ích nhất là so ba nguồn. Một là biển hiệu hoặc tên tiệm trên các kênh liên hệ. Hai là tin nhắn đặt xe, nơi tiệm thường xưng tên và số điện thoại. Ba là biên nhận tiền cọc và tiền thuê, nơi ghi người nhận tiền. Nếu cả ba nguồn cho ra cùng một đối tượng, bạn yên tâm hơn nhiều.
 
-Nếu có điểm không khớp, ví dụ số điện thoại trong hợp đồng khác số bạn vẫn nhắn, hoặc tên người nhận tiền khác tên bên cho thuê, hãy hỏi ngay trước khi ký hay trả tiền. Câu hỏi lịch sự như "em thấy số này khác số em nhắn, anh chị cho em hỏi lại để ghi đúng ạ" thường đủ. Bài [thuê xe máy cần hợp đồng không](/thue-xe/2026/09/27/thue-xe-may-can-hop-ong-khong/) giải thích vì sao hợp đồng có ích cho cả hai bên.
+Nếu có điểm không khớp, ví dụ số điện thoại trong hợp đồng khác số bạn vẫn nhắn, hoặc tên người nhận tiền khác tên bên cho thuê, hãy hỏi ngay trước khi ký hay trả tiền. Câu hỏi lịch sự như "em thấy số này khác số em nhắn, anh chị cho em hỏi lại để ghi đúng ạ" thường đủ. Bài [thuê xe máy cần hợp đồng không](/thue-xe/2026/09/27/thue-xe-may-can-hop-dong-khong/) giải thích vì sao hợp đồng có ích cho cả hai bên.
 
 ## Người ký ở cuối trang: chủ tiệm hay nhân viên
 
 Một điểm hay bị bỏ qua là người ký tên ở cuối hợp đồng. Nếu bên cho thuê là một cá nhân hoặc hộ kinh doanh, người ký nên là chủ hoặc người được ủy quyền. Nếu là doanh nghiệp, người ký nên là người đại diện hoặc người được ủy quyền hợp lệ. Bạn có thể hỏi người đang làm thủ tục với bạn có phải người ký không và có thẩm quyền ký không.
 
-Bài [thuê xe máy cần ai đi ký hợp đồng](/thue-xe/2026/10/07/thue-xe-may-can-ai-i-ky-hop-ong/) bàn kỹ hơn về chuyện ai ký. Nếu nhân viên ký thay chủ, hãy hỏi có giấy ủy quyền hay thông báo nào không; bài không có dữ kiện về cách làm của từng tiệm. Điều quan trọng là bạn hiểu mình đang ký với ai và ai chịu trách nhiệm về những gì ghi trong hợp đồng.
+Bài [thuê xe máy cần ai đi ký hợp đồng](/thue-xe/2026/10/07/thue-xe-may-can-ai-di-ky-hop-dong/) bàn kỹ hơn về chuyện ai ký. Nếu nhân viên ký thay chủ, hãy hỏi có giấy ủy quyền hay thông báo nào không; bài không có dữ kiện về cách làm của từng tiệm. Điều quan trọng là bạn hiểu mình đang ký với ai và ai chịu trách nhiệm về những gì ghi trong hợp đồng.
 
 ## Khi thông tin chưa khớp: hỏi gì và xin gì bằng văn bản
 
 Nếu thấy chưa khớp, hãy hỏi cụ thể: tên nào là tên pháp lý của bên cho thuê, địa chỉ nào là địa chỉ để gửi thông báo, số nào là số liên hệ chính, và ai là người đại diện. Nhờ tiệm sửa lại hợp đồng cho đúng trước khi ký, hoặc ghi chú thêm vào hợp đồng và có chữ ký xác nhận.
 
-Nếu tiệm trả lời qua tin nhắn, hãy lưu lại. Nếu tiệm từ chối giải thích những điều cơ bản như tên và địa chỉ của chính họ, đó là tín hiệu để bạn cân nhắc. Bài [đọc kỹ hợp đồng thuê xe máy: những mục nên dừng lại](/thue-xe/2026/10/04/oc-ky-hop-ong-thue-xe-may-nhung-muc-nen-dung-lai/) nêu những mục khác cần dừng lại hỏi.
+Nếu tiệm trả lời qua tin nhắn, hãy lưu lại. Nếu tiệm từ chối giải thích những điều cơ bản như tên và địa chỉ của chính họ, đó là tín hiệu để bạn cân nhắc. Bài [đọc kỹ hợp đồng thuê xe máy: những mục nên dừng lại](/thue-xe/2026/10/04/doc-ky-hop-dong-thue-xe-may-nhung-muc-nen-dung-lai/) nêu những mục khác cần dừng lại hỏi.
 
 ## Hợp đồng viết tay hay thiếu dấu: vẫn cần rõ hai bên
 

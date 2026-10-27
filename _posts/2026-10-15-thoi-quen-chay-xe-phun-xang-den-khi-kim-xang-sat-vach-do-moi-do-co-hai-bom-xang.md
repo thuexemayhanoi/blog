@@ -35,7 +35,7 @@ Khi đối chiếu, các nguồn ấy không dẫn thử nghiệm có kiểm so�
 
 Sách Air Blade bản Việt Nam ghi dung tích bình xăng bốn phẩy bốn lít, và ghi khi chỉ còn vạch E, vạch thứ nhất, nhấp nháy thì trong bình còn khoảng không phẩy sáu mươi tám lít. Tức là xe báo gần cạn khi vẫn còn một lượng nhỏ; sách không ghi bơm xăng chịu được bao lâu ở mức đó.
 
-Hãy hiểu vạch E nhấp nháy là lời nhắc đổ xăng sớm, không phải mức để chạy tiếp thoải mái. Bài [đọc đồng hồ khi nhận xe thuê: số km, kim xăng và đèn cảnh báo](/thue-xe/2026/10/12/oc-ong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-en-canh-bao/) nói cách đọc kim xăng ngay từ lúc nhận xe.
+Hãy hiểu vạch E nhấp nháy là lời nhắc đổ xăng sớm, không phải mức để chạy tiếp thoải mái. Bài [đọc đồng hồ khi nhận xe thuê: số km, kim xăng và đèn cảnh báo](/thue-xe/2026/10/12/doc-dong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-den-canh-bao/) nói cách đọc kim xăng ngay từ lúc nhận xe.
 
 ## Cặn đáy bình và lọc xăng: dấu hiệu động cơ chập chờn
 
