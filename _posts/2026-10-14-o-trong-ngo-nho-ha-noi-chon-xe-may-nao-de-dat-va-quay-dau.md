@@ -65,7 +65,7 @@ Ngay cả xe gọn nhất cũng cần kỹ thuật đúng. Trong ngõ không đ�
 - Đánh lái ngược lại, kéo xe lùi về, giữ phanh tay để xe không trôi.
 - Lặp lại một lần nữa nếu cần, rồi mới lên xe.
 
-Đừng cố quay đầu bằng cách vừa ngồi trên xe vừa vặn ga nhẹ trong ngõ chật, vì xe ga có thể giật về phía trước khi bạn lỡ tay. Những mẹo chi tiết cho từng kiểu ngõ phố cổ có trong bài [quay đầu xe trong ngõ phố cổ](/ky-nang/2026/09/29/quay-au-xe-trong-ngo-pho-co-meo-cho-xe-may/).
+Đừng cố quay đầu bằng cách vừa ngồi trên xe vừa vặn ga nhẹ trong ngõ chật, vì xe ga có thể giật về phía trước khi bạn lỡ tay. Những mẹo chi tiết cho từng kiểu ngõ phố cổ có trong bài [quay đầu xe trong ngõ phố cổ](/ky-nang/2026/09/29/quay-dau-xe-trong-ngo-pho-co-meo-cho-xe-may/).
 
 ## Xếp xe vào chỗ gửi chật của nhà nghỉ
 

@@ -35,7 +35,7 @@ Khi đứng trước dãy xe ở tiệm, bạn chỉ thấy những thứ nhìn 
 
 Một chiếc xe ga dáng thể thao, đầu to, yên dài nhìn rất hấp dẫn trong ảnh. Nhưng đẹp không có nghĩa là hợp. Người dáng nhỏ ngồi lên một chiếc xe yên cao có thể chỉ chạm đất bằng mũi chân, mỗi lần dừng đèn đỏ ở ngã tư đông là một lần chống chân chênh vênh. Xe thân to cũng khó lách trong ngõ nhỏ quanh phố cổ và nặng tay khi dắt vào chỗ gửi.
 
-**Cách tránh:** ngồi lên xe trước khi chốt. Hai bàn chân phải chạm đất chắc chắn, tay đặt lên ghi đông mà lưng vẫn thẳng. Nếu bạn đi chủ yếu trong phố cổ, bài [có nên thuê xe cao cấp khi chỉ đi phố cổ](/xe-may/2026/09/29/co-nen-thue-xe-cao-cap-khi-chi-i-pho-co/) phân tích kỹ hơn chuyện đẹp và tiện.
+**Cách tránh:** ngồi lên xe trước khi chốt. Hai bàn chân phải chạm đất chắc chắn, tay đặt lên ghi đông mà lưng vẫn thẳng. Nếu bạn đi chủ yếu trong phố cổ, bài [có nên thuê xe cao cấp khi chỉ đi phố cổ](/xe-may/2026/09/29/co-nen-thue-xe-cao-cap-khi-chi-di-pho-co/) phân tích kỹ hơn chuyện đẹp và tiện.
 
 ## Sai lầm thứ ba: tin rằng đời mới hơn là chắc chắn tốt hơn
 
@@ -43,7 +43,7 @@ Nhiều người mặc định xe càng mới càng an toàn, càng đáng tiề
 
 Ngược lại, có người lại chọn xe đời cũ chỉ vì nghĩ sẽ được giá tốt hơn, mà không kiểm tra gì. Cũng có người chọn xe mới vì thích màu sơn, nhưng không để ý gương chiếu hậu bị lệch hay đèn xi nhan nháy chậm, đến tối chạy trên đường Phạm Văn Đồng mới thấy bất tiện. Cả hai cách nghĩ đều bỏ qua phần quan trọng nhất là xe đang ở tình trạng nào lúc bạn nhận.
 
-**Cách tránh:** đánh giá chiếc xe trước mặt, không đánh giá năm sản xuất. Các tiêu chí cụ thể có trong bài [thuê xe đời cũ hay đời mới](/xe-may/2026/10/01/thue-xe-oi-cu-hay-oi-moi-chon-theo-gi-cho-ang/).
+**Cách tránh:** đánh giá chiếc xe trước mặt, không đánh giá năm sản xuất. Các tiêu chí cụ thể có trong bài [thuê xe đời cũ hay đời mới](/xe-may/2026/10/01/thue-xe-doi-cu-hay-doi-moi-chon-theo-gi-cho-dang/).
 
 ## Sai lầm thứ tư: chọn xe mạnh hơn tay lái của mình
 
@@ -75,7 +75,7 @@ Trước khi liên hệ đặt xe, hãy trả lời nhanh mấy câu này và n�
 - Có mang hành lý lớn hay chỉ túi nhỏ.
 - Chỗ ở trong ngõ hẹp hay mặt phố.
 
-Có những thông tin này, người giao xe sẽ gợi ý dòng phù hợp thay vì để bạn đoán. Nếu muốn nhận xe tại chỗ ở, việc giao nhận chỉ trong khung 09:00–21:00 và chi phí cần xác nhận trước khi đặt. Những lỗi khác của người mới, ngoài chuyện chọn xe, được tổng hợp trong bài [lần đầu thuê xe máy và những lỗi người mới hay mắc](/hoi-dap/2026/09/29/lan-au-thue-xe-may-nhung-loi-nguoi-moi-hay-mac/).
+Có những thông tin này, người giao xe sẽ gợi ý dòng phù hợp thay vì để bạn đoán. Nếu muốn nhận xe tại chỗ ở, việc giao nhận chỉ trong khung 09:00–21:00 và chi phí cần xác nhận trước khi đặt. Những lỗi khác của người mới, ngoài chuyện chọn xe, được tổng hợp trong bài [lần đầu thuê xe máy và những lỗi người mới hay mắc](/hoi-dap/2026/09/29/lan-dau-thue-xe-may-nhung-loi-nguoi-moi-hay-mac/).
 
 ## Tóm lại
 

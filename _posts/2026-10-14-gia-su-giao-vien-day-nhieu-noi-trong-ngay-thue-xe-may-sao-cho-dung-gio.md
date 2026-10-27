@@ -47,7 +47,7 @@ Với lịch dạy kéo dài cả học kỳ, thuê theo tuần hoặc theo thá
 
 Một lần thủng lốp giữa hai buổi dạy có thể làm hỏng cả buổi chiều. Phần lớn hỏng vặt có dấu hiệu báo trước nếu bạn chịu nhìn.
 
-- **Kiểm tra nhanh mỗi tuần**: hơi lốp, độ ăn của phanh, đèn trước, đèn xi nhan, còi. Năm phút sáng thứ hai là đủ, xem cách làm trong bài [kiểm tra xe năm phút mỗi tuần cho người thuê dài hạn](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-en-dau-cho-nguoi-thue-xe-dai-han/).
+- **Kiểm tra nhanh mỗi tuần**: hơi lốp, độ ăn của phanh, đèn trước, đèn xi nhan, còi. Năm phút sáng thứ hai là đủ, xem cách làm trong bài [kiểm tra xe năm phút mỗi tuần cho người thuê dài hạn](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-den-dau-cho-nguoi-thue-xe-dai-han/).
 - **Đổ xăng vào đầu ngày**, không để tới lúc đèn báo nháy giữa hai lớp. Cây xăng đông nhất là giờ tan tầm, đúng lúc bạn ít thời gian nhất.
 - **Báo chủ xe ngay khi thấy lạ**: tiếng kêu ở phanh, xe khó nổ buổi sáng, lốp mòn lệch. Xử lý sớm luôn nhanh hơn để xe chết máy giữa đường.
 
@@ -58,7 +58,7 @@ Luôn có sẵn phương án dự phòng: lưu số chủ xe, biết cách gọi
 Đúng giờ không đến từ chạy nhanh mà từ việc không phải dừng vì những chuyện vặt.
 
 - **Xem đường trước khi đi**, nhớ lộ trình rồi cất điện thoại. Không cầm điện thoại khi xe đang chạy, kể cả khi đang muộn.
-- **Để áo mưa trong cốp cả năm.** Hà Nội có những trận mưa rào bất chợt mùa hè, mất năm phút tìm chỗ trú là đủ trễ lớp. Kinh nghiệm chạy ngày mưa có trong bài [đi làm bằng xe máy ngày mưa ở Hà Nội](/thue-xe/2026/10/11/i-lam-bang-xe-may-ngay-mua-o-ha-noi-ao-mua-phanh-tron-va-vach-son-uot/).
+- **Để áo mưa trong cốp cả năm.** Hà Nội có những trận mưa rào bất chợt mùa hè, mất năm phút tìm chỗ trú là đủ trễ lớp. Kinh nghiệm chạy ngày mưa có trong bài [đi làm bằng xe máy ngày mưa ở Hà Nội](/thue-xe/2026/10/11/di-lam-bang-xe-may-ngay-mua-o-ha-noi-ao-mua-phanh-tron-va-vach-son-uot/).
 - **Hỏi trước chỗ để xe ở nhà học viên.** Nhiều nhà trong ngõ phố cổ hay khu tập thể Kim Liên không có sân, cần biết để xe trước cửa hay gửi ở bãi đầu ngõ. Ở trung tâm, hỏi lễ tân xem giáo viên gửi xe ở đâu.
 - **Mang bộ đồ dạy gọn**: một túi chống nước cho giáo án và máy tính, đặt trong cốp hoặc ở sàn để chân, không treo lủng lẳng ở móc.
 
@@ -66,4 +66,4 @@ Luôn có sẵn phương án dự phòng: lưu số chủ xe, biết cách gọi
 
 Thử hình dung một ngày của giáo viên dạy nhiều trung tâm đi xe máy. Sáng kiểm tra lốp và đổ xăng ở cây gần nhà. Ca sáng dạy ở Cầu Giấy, trưa nghỉ gần đó thay vì chạy về. Đầu giờ chiều sang Đống Đa, rồi ở lại cụm này cho lớp tiếp theo. Lớp tối cuối cùng đặt gần nhà, để chặng về ngắn khi đã mệt. Một ngày như vậy chạy ít hơn, ít căng thẳng hơn, và xe cũng bền hơn.
 
-Lập lịch theo cụm, chừa giờ đệm, chọn xe gọn và kiểm tra xe đều đặn là bốn điều giúp người dạy nhiều nơi luôn tới lớp đúng giờ. Bạn có thể xem cách thuê xe cho một nghề gần giống trong bài [thuê xe máy cho người làm nghề tự do đi gặp khách](/thue-xe/2026/10/04/thue-xe-may-cho-nguoi-lam-nghe-tu-do-i-gap-khach/), các gợi ý cho từng nhóm khách ở mục [thuê xe theo đối tượng](/thue-xe/thue-theo-doi-tuong/), và toàn bộ thông tin thuê xe máy ở Hà Nội tại chuyên mục [thuê xe](/thue-xe/).
+Lập lịch theo cụm, chừa giờ đệm, chọn xe gọn và kiểm tra xe đều đặn là bốn điều giúp người dạy nhiều nơi luôn tới lớp đúng giờ. Bạn có thể xem cách thuê xe cho một nghề gần giống trong bài [thuê xe máy cho người làm nghề tự do đi gặp khách](/thue-xe/2026/10/04/thue-xe-may-cho-nguoi-lam-nghe-tu-do-di-gap-khach/), các gợi ý cho từng nhóm khách ở mục [thuê xe theo đối tượng](/thue-xe/thue-theo-doi-tuong/), và toàn bộ thông tin thuê xe máy ở Hà Nội tại chuyên mục [thuê xe](/thue-xe/).

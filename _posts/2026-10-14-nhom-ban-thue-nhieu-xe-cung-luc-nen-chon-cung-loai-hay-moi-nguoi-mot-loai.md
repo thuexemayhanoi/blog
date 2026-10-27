@@ -87,6 +87,6 @@ Ba câu đều "không" và "phố đông" thì lấy chung một dòng; có m�
 
 ## Giữ đội hình sau khi đã chọn xong
 
-Dù xe giống hay khác, nhóm nên thống nhất người dẫn đầu, người chốt đoàn và điểm hẹn khi lạc. Người chắc tay nhất chốt đoàn; người yếu tay nhất đi ngay sau người dẫn đầu để cả đoàn theo nhịp của họ. Kỹ năng giãn cách được viết riêng ở bài [giữ khoảng cách khi đi xe theo nhóm](/ky-nang/2026/10/10/giu-khoang-cach-khi-i-xe-theo-nhom/).
+Dù xe giống hay khác, nhóm nên thống nhất người dẫn đầu, người chốt đoàn và điểm hẹn khi lạc. Người chắc tay nhất chốt đoàn; người yếu tay nhất đi ngay sau người dẫn đầu để cả đoàn theo nhịp của họ. Kỹ năng giãn cách được viết riêng ở bài [giữ khoảng cách khi đi xe theo nhóm](/ky-nang/2026/10/10/giu-khoang-cach-khi-di-xe-theo-nhom/).
 
 Tóm lại, cùng một dòng xe là lựa chọn mặc định giúp nhóm đi theo nhau dễ hơn. Chỉ tách dòng khi dáng người, tay lái hoặc việc chở đồ thực sự đòi hỏi, và đừng để đoàn có quá hai kiểu xe. Muốn xem thêm các tiêu chí chọn xe, bạn ghé chuyên mục [chọn loại xe khi thuê](/xe-may/chon-loai-xe/) hoặc trang tổng hợp [xe máy](/xe-may/).

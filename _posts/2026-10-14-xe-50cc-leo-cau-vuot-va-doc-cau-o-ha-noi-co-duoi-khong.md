@@ -59,7 +59,7 @@ Giữ ga đều từ đoạn đường bằng phía trước để xe có sẵn 
 
 Phần xuống mới là chỗ người mới dễ chủ quan. Xe tự trôi nhanh, nên hãy phanh nhẹ, đều cả hai bánh từ đầu dốc thay vì bóp gấp ở cuối cầu, nơi thường có đèn đỏ hoặc dòng xe rẽ.
 
-Trên cầu đông người, cách giữ khoảng cách và chọn làn để đi cho an toàn bạn có thể tham khảo thêm bài [độ an toàn của xe 50cc trong phố Hà Nội](/xe-may/2026/09/27/o-an-toan-cua-xe-50cc-trong-pho-ha-noi/).
+Trên cầu đông người, cách giữ khoảng cách và chọn làn để đi cho an toàn bạn có thể tham khảo thêm bài [độ an toàn của xe 50cc trong phố Hà Nội](/xe-may/2026/09/27/do-an-toan-cua-xe-50cc-trong-pho-ha-noi/).
 
 ## Chở thêm người hoặc đồ: lúc xe bắt đầu thật sự đuối
 
@@ -75,7 +75,7 @@ Nếu lịch của bạn chỉ quanh trường và phòng trọ trong một qu�
 
 ## Khi nào nên chọn xe lớn hơn thay vì xe 50cc
 
-Xe 50cc vẫn hợp nếu bạn chủ yếu đi trong phố, quãng ngắn, một mình, và chưa quen điều khiển xe nặng. Về giấy tờ, xe 50cc có quy định riêng về bằng lái; phần này đã được tổng hợp trong bài [có cần bằng lái khi đi xe 50cc không](/xe-may/2026/09/27/co-can-bang-lai-khi-i-xe-50cc-khong/), bạn nên đọc trước khi thuê.
+Xe 50cc vẫn hợp nếu bạn chủ yếu đi trong phố, quãng ngắn, một mình, và chưa quen điều khiển xe nặng. Về giấy tờ, xe 50cc có quy định riêng về bằng lái; phần này đã được tổng hợp trong bài [có cần bằng lái khi đi xe 50cc không](/xe-may/2026/09/27/co-can-bang-lai-khi-di-xe-50cc-khong/), bạn nên đọc trước khi thuê.
 
 Ngược lại, hãy cân nhắc xe số hoặc xe ga phổ thông khi:
 

@@ -31,7 +31,7 @@ Vì vậy, thói quen đầu tiên cần bỏ là cảm giác "mình được ba
 
 Người quen ô tô đánh giá khoảng cách theo mũi xe và gương chiếu hậu lớn. Trên xe máy, mọi thứ thu nhỏ lại và gần hơn.
 
-**Gương nhỏ, điểm mù lớn hơn bạn nghĩ.** Gương xe máy rung theo động cơ và chỉ thấy một phần phía sau. Trước khi chuyển hướng, ngoái đầu nhìn nhanh qua vai là bắt buộc, không thể chỉ dựa vào gương như khi ngồi sau vô lăng. Cách chỉnh gương cho đúng có trong bài [chỉnh gương xe máy đúng cách khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-ung-cach-khi-dung-en-o/).
+**Gương nhỏ, điểm mù lớn hơn bạn nghĩ.** Gương xe máy rung theo động cơ và chỉ thấy một phần phía sau. Trước khi chuyển hướng, ngoái đầu nhìn nhanh qua vai là bắt buộc, không thể chỉ dựa vào gương như khi ngồi sau vô lăng. Cách chỉnh gương cho đúng có trong bài [chỉnh gương xe máy đúng cách khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-dung-cach-khi-dung-den-do/).
 
 **Khoảng cách phía trước phải rộng hơn tốc độ gợi ý.** Ô tô có bốn bánh bám đường, xe máy chỉ có hai, và phanh gấp trên mặt đường ướt dễ trượt. Nhiều người lái ô tô quen bám sát xe trước khi tắc đường, lên xe máy vẫn giữ thói quen đó và không còn chỗ để né. Nguyên tắc giữ khoảng cách được nói kỹ ở bài [giữ khoảng cách an toàn với xe phía trước](/ky-nang/2026/10/07/giu-khoang-cach-an-toan-voi-xe-phia-truoc-the-nao/).
 

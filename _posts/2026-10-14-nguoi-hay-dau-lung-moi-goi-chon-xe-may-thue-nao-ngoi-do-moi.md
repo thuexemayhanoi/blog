@@ -78,7 +78,7 @@ Chiếc xe tốt đến đâu cũng không thay được việc nghỉ đúng l�
 - **Tránh giờ cao điểm khi có thể.** Kẹt xe trên cầu Chương Dương hay đường Giải Phóng lúc chiều muộn nghĩa là ngồi gồng lâu mà xe gần như không nhích.
 - **Chọn đường bằng phẳng.** Nếu có hai lối, ưu tiên đường lớn mặt nhựa tốt thay vì ngõ nhiều gờ và ổ gà.
 
-Nhịp nghỉ và uống nước cho chặng dài được nói kỹ trong bài [nghỉ đúng nhịp khi chạy xe đường dài](/ky-nang/2026-09-29/uong-nuoc-va-nghi-ung-nhip-khi-chay-xe-uong-dai/). Còn những dấu hiệu mỏi lưng, mỏi cổ khi lái lâu có trong bài [đau lưng và đau cổ khi chạy xe dài](/ky-nang/2026-09-29/au-lung-va-au-co-khi-chay-xe-dai/).
+Nhịp nghỉ và uống nước cho chặng dài được nói kỹ trong bài [nghỉ đúng nhịp khi chạy xe đường dài](/ky-nang/2026-09-29/uong-nuoc-va-nghi-dung-nhip-khi-chay-xe-duong-dai/). Còn những dấu hiệu mỏi lưng, mỏi cổ khi lái lâu có trong bài [đau lưng và đau cổ khi chạy xe dài](/ky-nang/2026-09-29/dau-lung-va-dau-co-khi-chay-xe-dai/).
 
 ## Những điều nên báo trước khi đặt xe
 
@@ -88,7 +88,7 @@ Nhịp nghỉ và uống nước cho chặng dài được nói kỹ trong bài 
 - Bạn đã quen xe ga hay xe số.
 - Lịch trình chủ yếu trong nội đô hay có chặng ra ngoại thành như Đông Anh, Sóc Sơn.
 
-Nếu người đi là bố mẹ lớn tuổi hay phải đi khám định kỳ, bài [chọn xe máy cho người cao tuổi đi khám bệnh](/xe-may/2026/10/05/chon-xe-may-cho-nguoi-cao-tuoi-i-kham-benh-inh-ky/) có thêm vài gợi ý riêng. Muốn nhận xe tại chỗ ở thì việc giao nhận chỉ trong khung 09:00–21:00 và chi phí cần xác nhận trước khi đặt.
+Nếu người đi là bố mẹ lớn tuổi hay phải đi khám định kỳ, bài [chọn xe máy cho người cao tuổi đi khám bệnh](/xe-may/2026/10/05/chon-xe-may-cho-nguoi-cao-tuoi-di-kham-benh-dinh-ky/) có thêm vài gợi ý riêng. Muốn nhận xe tại chỗ ở thì việc giao nhận chỉ trong khung 09:00–21:00 và chi phí cần xác nhận trước khi đặt.
 
 ## Tóm lại
 

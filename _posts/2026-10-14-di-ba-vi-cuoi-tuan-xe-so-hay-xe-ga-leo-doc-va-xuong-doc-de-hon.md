@@ -25,7 +25,7 @@ Hành trình cuối tuần lên Ba Vì có thể chia làm hai phần rất khá
 
 **Phần thứ hai là đường núi** từ cổng Vườn quốc gia lên các điểm tham quan phía trên. Đường hẹp, dốc nối dốc, cua gắt, mặt đường có chỗ ẩm rêu vào mùa mưa hoặc sáng sớm có sương. Chính đoạn này mới là nơi lựa chọn xe số hay xe ga tạo ra khác biệt rõ.
 
-Vì vậy, khi phân vân, hãy hỏi mình hai câu: nhóm có định chạy hết đường núi lên cao không, và người cầm lái quen loại xe nào. Lịch trình tổng thể cho chuyến đi đã có trong bài [Hà Nội đi Ba Vì cuối tuần bằng xe máy](/cung-duong/2026/09/28/ha-noi-i-ba-vi-cuoi-tuan-bang-xe-may/), còn ở đây chỉ tập trung vào chuyện chọn xe.
+Vì vậy, khi phân vân, hãy hỏi mình hai câu: nhóm có định chạy hết đường núi lên cao không, và người cầm lái quen loại xe nào. Lịch trình tổng thể cho chuyến đi đã có trong bài [Hà Nội đi Ba Vì cuối tuần bằng xe máy](/cung-duong/2026/09/28/ha-noi-di-ba-vi-cuoi-tuan-bang-xe-may/), còn ở đây chỉ tập trung vào chuyện chọn xe.
 
 ## Khi leo dốc: xe nào kéo khỏe và dễ điều khiển hơn
 
@@ -83,7 +83,7 @@ Với nhóm bạn đi nhiều xe, một mẹo đơn giản là đổi người l
 
 - **Honda Vision:** gọn nhẹ, dễ điều khiển, nhưng khi chở hai người leo đoạn dốc dài sẽ thấy rõ giới hạn. Phù hợp hơn nếu nhóm chỉ chạy đường chân núi, không lên cao.
 
-Bạn có thể đọc thêm bài [xe số đi đường đèo dốc có ổn không](/xe-may/2026/09/27/xe-so-i-uong-eo-doc-co-on-khong/) để hiểu kỹ hơn cách xe số xử lý đường núi.
+Bạn có thể đọc thêm bài [xe số đi đường đèo dốc có ổn không](/xe-may/2026/09/27/xe-so-di-duong-deo-doc-co-on-khong/) để hiểu kỹ hơn cách xe số xử lý đường núi.
 
 Khi nhận xe, kiểm tra phanh trước và phanh sau, độ mòn lốp, đèn và còi. Chụp ảnh tình trạng xe, mang đủ giấy tờ tùy thân và bằng lái đúng loại xe. Mức đặt cọc được xác nhận trực tiếp với cửa hàng. Nếu muốn nhận xe tận nơi cho kịp xuất phát sớm, nhớ rằng giao xe chỉ trong khung từ 09:00 đến 21:00 và chi phí cần được xác nhận trước, nên tốt nhất là nhận xe từ tối hôm trước.
 

@@ -84,7 +84,7 @@ Phóng to bản đồ quanh ghim và xem ghim có nằm đúng trên phố cần
 - **Tin hoàn toàn vào tên phường trên bản đồ.** Tên hành chính có thể chưa cập nhật, hãy bám số nhà và tên phố.
 - **Tới sát giờ đóng cửa.** Nếu đi lạc, bạn không còn thời gian xoay xở, nên tới sớm hơn giờ đóng cửa một khoảng thoải mái.
 
-Nếu sau khi nhận xe bạn phải chạy vào ngõ nhỏ ở phố cổ để về chỗ ở, bài [quay đầu xe trong ngõ phố cổ](/ky-nang/2026/09/29/quay-au-xe-trong-ngo-pho-co-meo-cho-xe-may/) có vài mẹo hữu ích. Khách nước ngoài có thể xem thêm [người nước ngoài thuê xe máy ở Hà Nội cần gì](/thue-xe/2026/09/27/nguoi-nuoc-ngoai-thue-xe-may-o-ha-noi-can-gi/) để chuẩn bị giấy tờ trước.
+Nếu sau khi nhận xe bạn phải chạy vào ngõ nhỏ ở phố cổ để về chỗ ở, bài [quay đầu xe trong ngõ phố cổ](/ky-nang/2026/09/29/quay-dau-xe-trong-ngo-pho-co-meo-cho-xe-may/) có vài mẹo hữu ích. Khách nước ngoài có thể xem thêm [người nước ngoài thuê xe máy ở Hà Nội cần gì](/thue-xe/2026/09/27/nguoi-nuoc-ngoai-thue-xe-may-o-ha-noi-can-gi/) để chuẩn bị giấy tờ trước.
 
 ## Chuẩn bị trước khi đi nhận xe
 

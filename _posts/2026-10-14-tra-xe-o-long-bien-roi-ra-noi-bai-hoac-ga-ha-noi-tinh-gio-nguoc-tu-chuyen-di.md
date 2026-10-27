@@ -54,7 +54,7 @@ Dù chọn cách nào, hãy kiểm tra thời gian di chuyển trên bản đồ
 
 Với khách đi tàu, việc đầu tiên là đọc kỹ tên ga trên vé. Hà Nội có nhiều ga hành khách như ga Hà Nội trên phố Lê Duẩn, ga Long Biên ở đầu cầu Long Biên phía Hoàn Kiếm, và ga Gia Lâm ở bờ đông. Đi nhầm ga là lỗi khó sửa khi chỉ còn ít thời gian.
 
-Nếu tàu đi từ ga Hà Nội, từ Bồ Đề bạn phải qua sông, thường qua cầu Chương Dương rồi đi vào trung tâm. Đây là tuyến đông xe vào giờ cao điểm sáng và chiều, nên đệm thời gian cần rộng hơn so với khi đi Nội Bài vào giờ thấp điểm. Taxi hoặc xe công nghệ vẫn là cách tiện nhất khi mang hành lý. Nếu bạn chưa quen khu nhà ga, bài [đến ga Hà Nội bằng xe máy, gửi xe và đường đi](/du-lich/2026/10/04/en-ga-ha-noi-bang-xe-may-gui-xe-va-uong-i/) mô tả lối vào và cách bố trí quanh ga.
+Nếu tàu đi từ ga Hà Nội, từ Bồ Đề bạn phải qua sông, thường qua cầu Chương Dương rồi đi vào trung tâm. Đây là tuyến đông xe vào giờ cao điểm sáng và chiều, nên đệm thời gian cần rộng hơn so với khi đi Nội Bài vào giờ thấp điểm. Taxi hoặc xe công nghệ vẫn là cách tiện nhất khi mang hành lý. Nếu bạn chưa quen khu nhà ga, bài [đến ga Hà Nội bằng xe máy, gửi xe và đường đi](/du-lich/2026/10/04/den-ga-ha-noi-bang-xe-may-gui-xe-va-duong-di/) mô tả lối vào và cách bố trí quanh ga.
 
 Với tàu đêm, kịch bản thường gặp là trả xe trong buổi chiều, gửi hành lý ở chỗ ở hoặc mang theo, ăn tối rồi mới ra ga. Đừng giữ xe đến tối chỉ để đi thêm vài vòng phố, vì sau 21:00 bạn không còn trả xe được nữa.
 

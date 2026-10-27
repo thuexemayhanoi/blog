@@ -59,7 +59,7 @@ Bạn không cần tự sửa, nhưng hiểu sơ nguyên nhân giúp mô tả ch
 - **Ống dẫn xăng nứt hoặc lỏng đầu nối.** Vết ướt nằm sâu bên dưới, nhỏ giọt đều và không tự hết.
 - **Va quẹt làm móp vùng quanh bình.** Nếu xe vừa bị đổ hoặc dựng nghiêng vào cột, hãy nói rõ điều đó.
 
-Chỉ trường hợp nắp bình là bạn có thể kiểm tra nhẹ nhàng: khi máy đã tắt và nguội, mở yên, nhìn nắp có vặn chặt chưa, gioăng có nằm đúng chỗ không. Nếu nắp đã kín mà vẫn ướt, hoặc giọt xăng xuất hiện ở chỗ khác, coi như phải chờ thợ. Nếu mùi lẫn với mùi khét nhựa hoặc mùi cháy, đọc thêm bài [đang đi xe thuê có mùi khét](/xe-may/2026/10/01/ang-i-xe-thue-co-mui-khet-dung-xe-va-kiem-tra-au/) để phân biệt hai tình huống.
+Chỉ trường hợp nắp bình là bạn có thể kiểm tra nhẹ nhàng: khi máy đã tắt và nguội, mở yên, nhìn nắp có vặn chặt chưa, gioăng có nằm đúng chỗ không. Nếu nắp đã kín mà vẫn ướt, hoặc giọt xăng xuất hiện ở chỗ khác, coi như phải chờ thợ. Nếu mùi lẫn với mùi khét nhựa hoặc mùi cháy, đọc thêm bài [đang đi xe thuê có mùi khét](/xe-may/2026/10/01/dang-di-xe-thue-co-mui-khet-dung-xe-va-kiem-tra-dau/) để phân biệt hai tình huống.
 
 ## Báo cửa hàng: nói gì để được hỗ trợ nhanh
 

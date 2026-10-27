@@ -66,11 +66,11 @@ Có xe trong tay, bạn không chỉ đi phỏng vấn mà còn tận dụng đ�
 - **Thử chạy giờ cao điểm** từ khu trọ dự định tới nơi có khả năng nhận việc. Một quãng đường mười phút buổi trưa có thể thành bốn mươi phút lúc tám giờ sáng.
 - **Kiểm tra lối đi trong ngõ**: ngõ có ngập khi mưa không, có chỗ để xe trong nhà trọ không, đường về buổi tối có đủ sáng không.
 
-Lưu ý, đường trên cao Vành đai 3 không dành cho xe máy, nên khi dùng bản đồ điện thoại hãy chọn chế độ dành cho xe máy để được dẫn xuống đường dưới. Nếu muốn làm quen trước với các tuyến phố trung tâm, bài [cung nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-au/) gợi ý vài lộ trình dễ đi.
+Lưu ý, đường trên cao Vành đai 3 không dành cho xe máy, nên khi dùng bản đồ điện thoại hãy chọn chế độ dành cho xe máy để được dẫn xuống đường dưới. Nếu muốn làm quen trước với các tuyến phố trung tâm, bài [cung nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-dau/) gợi ý vài lộ trình dễ đi.
 
 ## Thủ tục, giấy tờ và cách gia hạn khi chưa biết ở bao lâu
 
-Người mới ra Hà Nội thường mang theo ít đồ, nên hãy kiểm tra trước những giấy tờ cần có để không phải quay lại. Bài [thuê xe máy lần đầu: giấy tờ cần mang và câu nên hỏi](/thue-xe/2026/10/01/thue-xe-may-lan-au-giay-to-can-mang-va-cau-nen-hoi/) liệt kê khá đầy đủ.
+Người mới ra Hà Nội thường mang theo ít đồ, nên hãy kiểm tra trước những giấy tờ cần có để không phải quay lại. Bài [thuê xe máy lần đầu: giấy tờ cần mang và câu nên hỏi](/thue-xe/2026/10/01/thue-xe-may-lan-dau-giay-to-can-mang-va-cau-nen-hoi/) liệt kê khá đầy đủ.
 
 Một số điểm nên hỏi rõ khi liên hệ:
 

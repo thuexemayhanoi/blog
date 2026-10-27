@@ -44,7 +44,7 @@ Kết luận thực tế: với du khách thuê xe máy lần đầu và chưa c
 
 ## Trước khi thuê: giấy tờ và một câu hỏi thật lòng
 
-Hai việc nên làm trước khi đặt xe. Thứ nhất, tìm hiểu giấy phép lái xe của bạn có dùng được ở Việt Nam không; bài [người nước ngoài dùng bằng lái nước ngoài có đi xe được không](/hoi-dap/2026/09/29/nguoi-nuoc-ngoai-bang-lai-nuoc-ngoai-i-xe-uoc-khong/) giải thích các trường hợp thường gặp. Thứ hai, tự hỏi thật lòng: bạn đã từng giữ thăng bằng trên xe đạp tự tin chưa? Nếu chưa, hãy cân nhắc đi bộ, xe buýt hoặc ngồi sau người lái quen đường cho những ngày đầu.
+Hai việc nên làm trước khi đặt xe. Thứ nhất, tìm hiểu giấy phép lái xe của bạn có dùng được ở Việt Nam không; bài [người nước ngoài dùng bằng lái nước ngoài có đi xe được không](/hoi-dap/2026/09/29/nguoi-nuoc-ngoai-bang-lai-nuoc-ngoai-di-xe-duoc-khong/) giải thích các trường hợp thường gặp. Thứ hai, tự hỏi thật lòng: bạn đã từng giữ thăng bằng trên xe đạp tự tin chưa? Nếu chưa, hãy cân nhắc đi bộ, xe buýt hoặc ngồi sau người lái quen đường cho những ngày đầu.
 
 Khi nhắn đặt xe, hãy nói rõ bạn là người mới, ở khu nào và định đi đâu. Cửa hàng sẽ gợi ý mẫu xe nhẹ, kiểm tra phanh và chỉnh gương trước khi giao. Giá thuê và đặt cọc nên hỏi trực tiếp để biết điều kiện cụ thể; giao xe chỉ trong giờ 09:00 đến 21:00 và chi phí giao cần xác nhận trước.
 

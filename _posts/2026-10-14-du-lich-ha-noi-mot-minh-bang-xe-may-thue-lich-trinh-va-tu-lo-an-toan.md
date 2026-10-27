@@ -44,7 +44,7 @@ Sai lầm hay gặp nhất là xếp quá nhiều điểm. Đi một mình bạn
 
 **Chạng vạng, quay về gần chỗ ở.** Ăn tối ở khu bạn đã quen, chẳng hạn quanh hồ Hoàn Kiếm nếu bạn ở phố cổ. Đừng bắt đầu một chặng mới ra ngoại thành vào lúc trời sắp tối.
 
-Nếu chỉ có nửa ngày, bài [lịch trình nửa ngày đi Hà Nội bằng xe máy](/du-lich/2026/09/28/lich-trinh-nua-ngay-i-ha-noi-bang-xe-may-chon-lo-trinh-theo-gio/) gợi ý cách chọn lộ trình theo giờ.
+Nếu chỉ có nửa ngày, bài [lịch trình nửa ngày đi Hà Nội bằng xe máy](/du-lich/2026/09/28/lich-trinh-nua-ngay-di-ha-noi-bang-xe-may-chon-lo-trinh-theo-gio/) gợi ý cách chọn lộ trình theo giờ.
 
 ## Chia sẻ vị trí và để lại kế hoạch
 
