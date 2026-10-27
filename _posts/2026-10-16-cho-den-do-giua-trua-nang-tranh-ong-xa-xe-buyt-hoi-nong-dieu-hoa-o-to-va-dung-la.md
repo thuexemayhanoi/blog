@@ -32,7 +32,7 @@ Hà Nội đang thay dần xe buýt chạy dầu. Theo VietnamPlus, tới tháng
 - **Không đứng sát ngay sau ống xả** của xe buýt, xe tải; để một khoảng cách đủ xa.
 - **Nhìn ống xả nằm ở bên nào** của đuôi xe, rồi chọn vị trí trong làn của mình lệch khỏi luồng khí đó.
 - **Khi đèn xanh, để xe lớn đi trước** rồi mới bám theo ở khoảng cách an toàn, vì đó là lúc khí xả nóng và đậm nhất.
-- **Đeo khẩu trang** vào những ngày khói bụi; mẹo chọn khẩu trang, kính và giờ đi có ở bài [đi xe máy khi không khí ô nhiễm ở Hà Nội](/thue-xe/2026/10/11/i-xe-may-khi-khong-khi-o-nhiem-o-ha-noi-khau-trang-kinh-va-gio-i-hop-ly/ "Đi xe máy khi không khí ô nhiễm ở Hà Nội").
+- **Đeo khẩu trang** vào những ngày khói bụi; mẹo chọn khẩu trang, kính và giờ đi có ở bài [đi xe máy khi không khí ô nhiễm ở Hà Nội](/thue-xe/2026/10/11/di-xe-may-khi-khong-khi-o-nhiem-o-ha-noi-khau-trang-kinh-va-gio-di-hop-ly/ "Đi xe máy khi không khí ô nhiễm ở Hà Nội").
 
 ## Hơi nóng từ điều hòa ô tô
 

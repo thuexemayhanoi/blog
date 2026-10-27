@@ -43,7 +43,7 @@ Nếu chọn xe máy, hãy gửi ở bãi có người trông, hỏi giá trư�
 
 Đây là điểm xe buýt dễ làm bạn ngại nhất. Trên xe đông, bình cao hay thùng bát đĩa phải ôm trên đùi hoặc đặt giữa lối đi, mỗi lần phanh là một lần lo. Nếu bạn định mua nhiều, đi xe buýt kèm gọi thêm xe công nghệ lúc về, hoặc hỏi cửa hàng có nhận đóng thùng và gửi về hay không, thường hợp lý hơn.
 
-Xe máy có cốp và chỗ buộc đồ, nhưng cũng chỉ chở vừa phải: vài món nhỏ thì gọn, đồ lớn thì không. Dù cách nào, hãy mua vào cuối buổi, nhờ người bán bọc từng món, và đừng chất cao lên giỏ trước. Cách đóng gói, đặt và buộc gốm trên xe máy tôi đã viết riêng ở bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-o-gom-bat-trang-ve-bang-xe-may-cach-ong-goi-va-buoc-o/).
+Xe máy có cốp và chỗ buộc đồ, nhưng cũng chỉ chở vừa phải: vài món nhỏ thì gọn, đồ lớn thì không. Dù cách nào, hãy mua vào cuối buổi, nhờ người bán bọc từng món, và đừng chất cao lên giỏ trước. Cách đóng gói, đặt và buộc gốm trên xe máy tôi đã viết riêng ở bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-do-gom-bat-trang-ve-bang-xe-may-cach-dong-goi-va-buoc-do/).
 
 ## Sự chủ động giờ giấc: ai hợp xe buýt, ai hợp xe máy
 

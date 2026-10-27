@@ -21,7 +21,7 @@ Các tượng đài ở Hà Nội không chỉ là chỗ chụp ảnh mà còn k
 
 Từ ngày 1/7/2026, Hà Nội thí điểm vùng phát thải thấp ở trung tâm. Theo VnExpress và báo Nhân Dân, trong khu vực 1 quanh Hồ Gươm, giới hạn bởi các phố như Tràng Tiền, Hàng Khay, Lê Thái Tổ, Lý Thái Tổ, Ngô Quyền, Hàng Đào, mọi xe cơ giới gồm cả xe máy bị cấm từ 19 giờ tới 24 giờ các tối thứ Sáu, thứ Bảy và Chủ nhật, trừ xe ưu tiên. Đi vào khu vực cấm đối với loại xe đang điều khiển có mức phạt theo Nghị định 168/2024/NĐ-CP, Điều 7 khoản 6 điểm b.
 
-Vì vậy, vòng tượng đài này hợp nhất vào buổi chiều ngày thường, hoặc chiều cuối tuần nhưng kết thúc trước 19 giờ. Nếu ở lại dạo phố đi bộ buổi tối, hãy gửi xe ở ngoài khu vực cấm rồi đi bộ vào; xem bài [dạo phố đi bộ quanh Hồ Gươm cuối tuần](/ky-nang/2026/10/11/i-dao-pho-i-bo-quanh-ho-guom-cuoi-tuan-e-xe-may-o-au-roi-i-bo-vao/ "Dạo phố đi bộ Hồ Gươm cuối tuần").
+Vì vậy, vòng tượng đài này hợp nhất vào buổi chiều ngày thường, hoặc chiều cuối tuần nhưng kết thúc trước 19 giờ. Nếu ở lại dạo phố đi bộ buổi tối, hãy gửi xe ở ngoài khu vực cấm rồi đi bộ vào; xem bài [dạo phố đi bộ quanh Hồ Gươm cuối tuần](/ky-nang/2026/10/11/di-dao-pho-di-bo-quanh-ho-guom-cuoi-tuan-de-xe-may-o-dau-roi-di-bo-vao/ "Dạo phố đi bộ Hồ Gươm cuối tuần").
 
 ## Các tượng đài ở Hà Nội trên vòng này: thứ tự đi
 
@@ -37,7 +37,7 @@ Khu trung tâm có nhiều phố một chiều, nên hãy đặt từng điểm 
 
 Vườn hoa Lê Nin ở số 28A Điện Biên Phủ, trước đây là vườn hoa Chi Lăng, được người Pháp làm vào cuối thế kỷ XIX. Theo báo Sài Gòn Giải Phóng, tượng Lê Nin bằng đồng cao 5,2 m, đặt trên bệ đá granite cao 2,7 m, được dựng với sự giúp đỡ của Liên Xô như một biểu tượng hữu nghị và khánh thành ngày 20/8/1985.
 
-Đây là điểm dừng thoáng nhất trong ba nơi: vườn rộng, có lối đi bộ, phù hợp để nghỉ chân trước khi vào khu phố cổ đông hơn. Nếu còn thời gian, có thể ghép thêm các điểm quanh Ba Đình theo bài [nửa ngày quanh Ba Đình và Văn Miếu bằng xe máy](/thue-xe/2026/10/12/nua-ngay-quanh-ba-inh-va-van-mieu-bang-xe-may-thu-tu-tham-quan-hop-ly/ "Nửa ngày quanh Ba Đình và Văn Miếu").
+Đây là điểm dừng thoáng nhất trong ba nơi: vườn rộng, có lối đi bộ, phù hợp để nghỉ chân trước khi vào khu phố cổ đông hơn. Nếu còn thời gian, có thể ghép thêm các điểm quanh Ba Đình theo bài [nửa ngày quanh Ba Đình và Văn Miếu bằng xe máy](/thue-xe/2026/10/12/nua-ngay-quanh-ba-dinh-va-van-mieu-bang-xe-may-thu-tu-tham-quan-hop-ly/ "Nửa ngày quanh Ba Đình và Văn Miếu").
 
 ## Tượng đài Quyết tử để Tổ quốc quyết sinh
 

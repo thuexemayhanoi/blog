@@ -46,7 +46,7 @@ Chúng tôi chưa tìm thấy tài liệu hiện hành mô tả làn riêng cho 
 - Giữ khoảng cách với xe tải, xe container, nhất là khi lên dốc cầu.
 - Chuyển làn sớm và bật xi nhan trước khi xuống cầu nếu cần rẽ.
 
-Nguyên tắc chung khi qua nút lớn có ở bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/ung-lan-xe-may-khi-qua-nut-giao-lon/ "Đúng làn xe máy khi qua nút giao lớn").
+Nguyên tắc chung khi qua nút lớn có ở bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/dung-lan-xe-may-khi-qua-nut-giao-lon/ "Đúng làn xe máy khi qua nút giao lớn").
 
 ## Ngắm cầu vòm Đông Trù cho an toàn
 

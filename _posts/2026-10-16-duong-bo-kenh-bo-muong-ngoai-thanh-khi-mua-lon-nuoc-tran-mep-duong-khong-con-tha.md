@@ -52,7 +52,7 @@ Với đường sát ao mương trời mưa:
 - **Không đi nước sâu tới ống xả** hay quá nửa bánh xe; nếu xe chết máy giữa nước, đừng đề lại ngay.
 - **Qua khỏi chỗ ngập, thử phanh nhẹ** vài lần; Luật Giao thông của Anh lưu ý phanh có thể yếu sau khi lội nước sâu.
 
-Có nên lội qua hay chờ có ở bài [đường ngập sau mưa lớn có nên lội xe máy qua](/thue-xe/2026/10/11/uong-ngap-sau-mua-lon-co-nen-loi-xe-may-qua-va-xu-ly-the-nao-khi-xe-chet-may/ "Đường ngập có nên lội xe máy qua"); mùa lũ ở vùng sông Bùi, sông Tích có ở bài [Chương Mỹ, Quốc Oai mùa lũ](/ky-nang/2026/10/16/chuong-my-quoc-oai-mua-lu-song-bui-song-tich-duong-lang-ngap-nhieu-ngay-di-xe-ma/ "Chương Mỹ, Quốc Oai mùa lũ"). Sau khi lội nước, kiểm tra xe theo bài [xe máy thuê vừa lội qua đoạn phố ngập](/xe-may/2026/10/15/xe-may-thue-vua-loi-qua-doan-pho-ngap-kiem-tra-gi-truoc-khi-no-may-lai-va-khi-na/ "Xe máy thuê vừa lội qua phố ngập").
+Có nên lội qua hay chờ có ở bài [đường ngập sau mưa lớn có nên lội xe máy qua](/thue-xe/2026/10/11/duong-ngap-sau-mua-lon-co-nen-loi-xe-may-qua-va-xu-ly-the-nao-khi-xe-chet-may/ "Đường ngập có nên lội xe máy qua"); mùa lũ ở vùng sông Bùi, sông Tích có ở bài [Chương Mỹ, Quốc Oai mùa lũ](/ky-nang/2026/10/16/chuong-my-quoc-oai-mua-lu-song-bui-song-tich-duong-lang-ngap-nhieu-ngay-di-xe-ma/ "Chương Mỹ, Quốc Oai mùa lũ"). Sau khi lội nước, kiểm tra xe theo bài [xe máy thuê vừa lội qua đoạn phố ngập](/xe-may/2026/10/15/xe-may-thue-vua-loi-qua-doan-pho-ngap-kiem-tra-gi-truoc-khi-no-may-lai-va-khi-na/ "Xe máy thuê vừa lội qua phố ngập").
 
 ## Câu hỏi thường gặp
 

@@ -46,7 +46,7 @@ Theo báo chí năm 2025, bánh phu thê của vài cơ sở trong làng có tê
 
 ## Đi xe máy từ Long Biên
 
-Từ Long Biên, đi Ngô Gia Tự lên cầu Đuống, qua sông rồi theo quốc lộ 1 cũ hướng Từ Sơn; đây cũng là tuyến đi đền Đô, xem bài [từ Long Biên đi đền Đô Bắc Ninh bằng xe máy](/du-lich/2026/10/11/tu-long-bien-i-en-o-bac-ninh-bang-xe-may-quang-uong-va-thoi-gian-i-lai/ "Từ Long Biên đi đền Đô Bắc Ninh bằng xe máy"). Giữa tháng 10/2026, xe máy vẫn đi cầu Đuống cũ, mặt đường hẹp; cách đi có ở bài [qua cầu Đuống bằng xe máy](/du-lich/2026/10/15/qua-cau-duong-bang-xe-may-chon-cau-cu-hay-cau-moi-va-huong-re-ve-duc-giang-yen-v/ "Qua cầu Đuống bằng xe máy"). Xe máy không được đi vào đường cao tốc.
+Từ Long Biên, đi Ngô Gia Tự lên cầu Đuống, qua sông rồi theo quốc lộ 1 cũ hướng Từ Sơn; đây cũng là tuyến đi đền Đô, xem bài [từ Long Biên đi đền Đô Bắc Ninh bằng xe máy](/du-lich/2026/10/11/tu-long-bien-di-den-do-bac-ninh-bang-xe-may-quang-duong-va-thoi-gian-di-lai/ "Từ Long Biên đi đền Đô Bắc Ninh bằng xe máy"). Giữa tháng 10/2026, xe máy vẫn đi cầu Đuống cũ, mặt đường hẹp; cách đi có ở bài [qua cầu Đuống bằng xe máy](/du-lich/2026/10/15/qua-cau-duong-bang-xe-may-chon-cau-cu-hay-cau-moi-va-huong-re-ve-duc-giang-yen-v/ "Qua cầu Đuống bằng xe máy"). Xe máy không được đi vào đường cao tốc.
 
 Khi mua ở cửa hàng ven đường, tấp vào sát lề phải, không dừng giữa lòng đường hay ngay góc đường giao nhau.
 

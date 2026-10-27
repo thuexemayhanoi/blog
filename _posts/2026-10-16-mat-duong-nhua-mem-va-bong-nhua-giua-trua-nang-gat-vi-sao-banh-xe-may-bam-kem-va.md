@@ -46,7 +46,7 @@ Nhiệt cũng làm áp suất lốp tăng. Theo VnExpress, áp suất lốp tăn
 - **Mặt đường lượn sóng hoặc lún thành rãnh** dọc theo vệt bánh.
 - **Tiếng lốp dính nhẹ** khi đi qua, hoặc lốp có vết nhựa sau khi dừng.
 
-Ban đêm, vệt nhựa bóng dễ bị nhầm với vũng nước; cách phân biệt có ở bài [phân biệt vũng nước và vệt nhựa bóng lúc đêm](/ky-nang/2026/10/11/phan-biet-vung-nuoc-va-vet-nhua-bong-loang-luc-em/ "Phân biệt vũng nước và vệt nhựa bóng lúc đêm").
+Ban đêm, vệt nhựa bóng dễ bị nhầm với vũng nước; cách phân biệt có ở bài [phân biệt vũng nước và vệt nhựa bóng lúc đêm](/ky-nang/2026/10/11/phan-biet-vung-nuoc-va-vet-nhua-bong-loang-luc-dem/ "Phân biệt vũng nước và vệt nhựa bóng lúc đêm").
 
 ## Cách vào cua, phanh cho chắc
 
@@ -62,7 +62,7 @@ Không giữ khoảng cách an toàn để xảy ra va chạm có mức phạt t
 
 ## Chọn giờ đi và chăm lốp mùa nắng
 
-Theo VietNamNet, khoảng từ 12 giờ tới 14, 15 giờ là lúc nóng nhất; nếu có thể, hãy đi vào buổi sáng sớm hoặc chiều muộn. Sau khi qua đoạn nhựa dính, nhìn qua lốp xem có bám nhựa hay sỏi không; cách làm sạch có ở bài [xe thuê dính sơn, vữa hoặc nhựa đường](/thue-xe/2026/10/14/xe-thue-dinh-son-vua-xi-mang-hoac-nhua-duong-tu-cong-trinh-lam-sach-duoc-gi-va-n/ "Xe thuê dính nhựa đường"). Lốp, phanh và nhớt trong mùa nóng có ở bài [chăm xe máy mùa nắng nóng](/xe-may/2026/10/11/cham-xe-may-mua-nang-nong-ha-noi-lop-nhot-phanh-va-ac-quy-can-e-y-gi/ "Chăm xe máy mùa nắng nóng").
+Theo VietNamNet, khoảng từ 12 giờ tới 14, 15 giờ là lúc nóng nhất; nếu có thể, hãy đi vào buổi sáng sớm hoặc chiều muộn. Sau khi qua đoạn nhựa dính, nhìn qua lốp xem có bám nhựa hay sỏi không; cách làm sạch có ở bài [xe thuê dính sơn, vữa hoặc nhựa đường](/thue-xe/2026/10/14/xe-thue-dinh-son-vua-xi-mang-hoac-nhua-duong-tu-cong-trinh-lam-sach-duoc-gi-va-n/ "Xe thuê dính nhựa đường"). Lốp, phanh và nhớt trong mùa nóng có ở bài [chăm xe máy mùa nắng nóng](/xe-may/2026/10/11/cham-xe-may-mua-nang-nong-ha-noi-lop-nhot-phanh-va-ac-quy-can-de-y-gi/ "Chăm xe máy mùa nắng nóng").
 
 ## Câu hỏi thường gặp
 

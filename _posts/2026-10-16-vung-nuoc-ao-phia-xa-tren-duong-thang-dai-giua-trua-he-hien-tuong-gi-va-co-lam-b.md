@@ -44,7 +44,7 @@ Quanh Hà Nội, người đi xe máy hay gặp ở những đoạn đường th
 - **Phản chiếu ngược bầu trời và xe cộ** phía sau nó.
 - **Biến mất khi bạn tới gần** hoặc khi thay đổi độ cao mắt nhìn.
 
-Nước thật thì khác: đứng yên khi bạn tới gần, có mép rõ, xe phía trước đi qua thì bắn nước lên, và thường xuất hiện sau mưa, gần chỗ vỡ ống nước hay ở chỗ trũng quen thuộc. Ban đêm, vũng nước lại dễ bị nhầm với vệt nhựa bóng; cách phân biệt có ở bài [phân biệt vũng nước và vệt nhựa bóng lúc đêm](/ky-nang/2026/10/11/phan-biet-vung-nuoc-va-vet-nhua-bong-loang-luc-em/ "Phân biệt vũng nước và vệt nhựa bóng lúc đêm").
+Nước thật thì khác: đứng yên khi bạn tới gần, có mép rõ, xe phía trước đi qua thì bắn nước lên, và thường xuất hiện sau mưa, gần chỗ vỡ ống nước hay ở chỗ trũng quen thuộc. Ban đêm, vũng nước lại dễ bị nhầm với vệt nhựa bóng; cách phân biệt có ở bài [phân biệt vũng nước và vệt nhựa bóng lúc đêm](/ky-nang/2026/10/11/phan-biet-vung-nuoc-va-vet-nhua-bong-loang-luc-dem/ "Phân biệt vũng nước và vệt nhựa bóng lúc đêm").
 
 ## Có làm bạn phanh vô cớ không
 
@@ -61,7 +61,7 @@ Không giữ khoảng cách an toàn để xảy ra va chạm có mức phạt t
 - **Nhìn gương trước khi giảm tốc** để biết xe sau có bám sát không.
 - **Giữ khoảng cách đủ xa** để kịp phản ứng nếu đó là nước thật.
 - **Giữ tốc độ theo biển báo**: theo Thông tư 38/2024/TT-BGTVT, ngoài khu đông dân cư, xe mô tô chạy tối đa 70 km/h trên đường đôi và 60 km/h trên đường hai chiều; xe gắn máy tối đa 40 km/h.
-- **Che chắn mắt khỏi chói nắng** bằng kính hoặc tấm che mũ bảo hiểm; mẹo chống nắng có ở bài [đi xe máy ngày nắng gắt che nắng kiểu gì](/ky-nang/2026/10/07/i-xe-may-ngay-nang-gat-che-nang-kieu-gi/ "Đi xe máy ngày nắng gắt che nắng kiểu gì").
+- **Che chắn mắt khỏi chói nắng** bằng kính hoặc tấm che mũ bảo hiểm; mẹo chống nắng có ở bài [đi xe máy ngày nắng gắt che nắng kiểu gì](/ky-nang/2026/10/07/di-xe-may-ngay-nang-gat-che-nang-kieu-gi/ "Đi xe máy ngày nắng gắt che nắng kiểu gì").
 
 ## Câu hỏi thường gặp
 

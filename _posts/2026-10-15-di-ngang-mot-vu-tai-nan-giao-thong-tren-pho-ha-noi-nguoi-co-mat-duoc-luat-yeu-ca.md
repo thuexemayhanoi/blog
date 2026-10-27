@@ -33,7 +33,7 @@ Luật không định nghĩa thế nào là "có mặt"; cơ quan có thẩm quy
 
 Điều 81 khoản 1 viết: "Cơ quan, tổ chức, cá nhân khi phát hiện vụ tai nạn giao thông đường bộ phải báo ngay cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất." Chữ "cá nhân" cho thấy không chỉ người đứng lại lâu; ai phát hiện cũng nằm trong câu này. Sau tin báo, công an phải tổ chức ngay lực lượng đến hiện trường (khoản 2), còn cơ sở khám bệnh, chữa bệnh phải bố trí người và phương tiện để sơ cứu, vận chuyển, cấp cứu nạn nhân (Điều 82 khoản 2).
 
-Thực tế, 113 và 115 là hai số công khai của công an và cấp cứu. Khi gọi, nói tên phố, mốc dễ nhận, số người bị thương và họ còn tỉnh hay không. Cách nói vị trí có ở bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/).
+Thực tế, 113 và 115 là hai số công khai của công an và cấp cứu. Khi gọi, nói tên phố, mốc dễ nhận, số người bị thương và họ còn tỉnh hay không. Cách nói vị trí có ở bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/).
 
 ## Giúp người bị tai nạn giao thông: khoản 4 nói riêng với người đi qua
 

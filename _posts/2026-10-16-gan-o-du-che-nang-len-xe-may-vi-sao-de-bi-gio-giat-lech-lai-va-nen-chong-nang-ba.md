@@ -38,7 +38,7 @@ Câu trả lời là có. Tán ô rộng nằm cao trên một chiếc xe nhẹ:
 - **Che tầm nhìn**: vành ô có thể che đèn tín hiệu, biển báo đặt cao và gương chiếu hậu.
 - **Vướng xe khác** khi đi trong dòng xe đông, đi qua chỗ hẹp hay dưới cành cây thấp.
 
-Chúng tôi chưa thấy báo chí Việt Nam đưa tin về một vụ tai nạn cụ thể do ô gắn trên xe bị gió giật, nhưng Luật Giao thông của Anh cũng lưu ý gió giật mạnh có thể đẩy người đi mô tô lệch hướng ngay cả khi không mang theo gì. Mẹo giữ lái khi gió mạnh có ở bài [chạy xe máy khi gió mạnh ở Hà Nội](/ky-nang/2026/10/10/chay-xe-may-khi-gio-manh-o-ha-noi-can-e-y-gi/ "Chạy xe máy khi gió mạnh ở Hà Nội").
+Chúng tôi chưa thấy báo chí Việt Nam đưa tin về một vụ tai nạn cụ thể do ô gắn trên xe bị gió giật, nhưng Luật Giao thông của Anh cũng lưu ý gió giật mạnh có thể đẩy người đi mô tô lệch hướng ngay cả khi không mang theo gì. Mẹo giữ lái khi gió mạnh có ở bài [chạy xe máy khi gió mạnh ở Hà Nội](/ky-nang/2026/10/10/chay-xe-may-khi-gio-manh-o-ha-noi-can-de-y-gi/ "Chạy xe máy khi gió mạnh ở Hà Nội").
 
 ## Đi xe máy che ô: người ngồi sau cũng không được
 
@@ -54,7 +54,7 @@ Theo thang chỉ số tia cực tím của WHO, chỉ số từ 3 trở lên đ�
 - **Đội mũ bảo hiểm có kính chắn trong** hoặc đeo kính chống tia UV; theo Điều 33 của luật, cả người lái và người ngồi sau phải đội mũ bảo hiểm đạt chuẩn và cài quai đúng cách.
 - **Đổi giờ đi** sang sáng sớm hoặc chiều muộn.
 
-Áo chống nắng cũng có rủi ro nếu mặc sai. Theo các báo, Bệnh viện Trung ương Quân đội 108 từng nối lại cánh tay cho một bé gái bốn tuổi sau khi vạt áo chống nắng cuốn vào bánh xe; nhiều nơi khác cũng ghi nhận váy, áo chống nắng dài cuốn vào bánh hay xích. Cách phòng có ở bài [quai balo hoặc vạt áo cuốn vào bánh xe máy](/thue-xe/2026/10/13/quai-balo-hoac-vat-ao-mua-cuon-vao-banh-xe-may-xu-ly-va-cach-phong-tranh/ "Vạt áo cuốn vào bánh xe máy"); mẹo che nắng khác có ở bài [đi xe máy ngày nắng gắt che nắng kiểu gì](/ky-nang/2026/10/07/i-xe-may-ngay-nang-gat-che-nang-kieu-gi/ "Đi xe máy ngày nắng gắt che nắng kiểu gì").
+Áo chống nắng cũng có rủi ro nếu mặc sai. Theo các báo, Bệnh viện Trung ương Quân đội 108 từng nối lại cánh tay cho một bé gái bốn tuổi sau khi vạt áo chống nắng cuốn vào bánh xe; nhiều nơi khác cũng ghi nhận váy, áo chống nắng dài cuốn vào bánh hay xích. Cách phòng có ở bài [quai balo hoặc vạt áo cuốn vào bánh xe máy](/thue-xe/2026/10/13/quai-balo-hoac-vat-ao-mua-cuon-vao-banh-xe-may-xu-ly-va-cach-phong-tranh/ "Vạt áo cuốn vào bánh xe máy"); mẹo che nắng khác có ở bài [đi xe máy ngày nắng gắt che nắng kiểu gì](/ky-nang/2026/10/07/di-xe-may-ngay-nang-gat-che-nang-kieu-gi/ "Đi xe máy ngày nắng gắt che nắng kiểu gì").
 
 ## Câu hỏi thường gặp
 

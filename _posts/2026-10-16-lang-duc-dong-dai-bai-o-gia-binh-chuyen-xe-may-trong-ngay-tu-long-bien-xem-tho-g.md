@@ -68,7 +68,7 @@ Trên đường về có thể ghé Thuận Thành; xem bài [lăng và đền K
 - **Chỉ mua món nhỏ** vừa đặt ở sàn để chân xe ga hoặc buộc chắc trên yên sau; món lớn như tượng, chuông, đỉnh thì nhờ xưởng gửi xe chở hàng.
 - **Bọc kỹ** bằng giấy, khăn hoặc xốp để khỏi trầy và khỏi va vào chân.
 - **Đặt thấp và sát người lái**, để trọng tâm xe ổn định; xe nặng hơn thì quãng phanh dài hơn, nên phanh sớm và nhẹ.
-- **Người ngồi sau không ôm vác đồ cồng kềnh**, vì luật cấm; quy định chở hàng có ở bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/ "Quy định chở hàng cồng kềnh trên xe máy").
+- **Người ngồi sau không ôm vác đồ cồng kềnh**, vì luật cấm; quy định chở hàng có ở bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/ "Quy định chở hàng cồng kềnh trên xe máy").
 
 Muốn so sánh với một làng nghề khác ở Bắc Ninh, xem bài [làng đồ gỗ Đồng Kỵ](/du-lich/2026/10/16/lang-do-go-dong-ky-o-tu-son-tu-long-bien-qua-cau-duong-bang-xe-may-xem-xuong-go/ "Làng đồ gỗ Đồng Kỵ ở Từ Sơn").
 

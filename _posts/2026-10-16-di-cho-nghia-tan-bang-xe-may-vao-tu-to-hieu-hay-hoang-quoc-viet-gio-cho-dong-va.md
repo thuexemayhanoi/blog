@@ -63,7 +63,7 @@ Nếu định đi chợ lâu, hãy gửi xe ở chỗ có người trông và c�
 
 ## Ghép thêm điểm gần chợ
 
-Cùng trên phố Tô Hiệu có Công viên Nghĩa Đô, hợp cho một buổi đi dạo với trẻ nhỏ sau khi đi chợ; xem bài [dạo Công viên Nghĩa Đô nửa ngày bằng xe máy](/du-lich/2026/10/04/kinh-nghiem-dao-cong-vien-nghia-o-nua-ngay-bang-xe-may/ "Dạo Công viên Nghĩa Đô bằng xe máy"). Vào mùa thu, có thể ghé mua cốm theo bài [mùa cốm làng Vòng](/xe-may/2026/10/15/mua-com-lang-vong-bang-xe-50cc-tim-ngo-vao-dich-vong-hau-dung-xe-mua-com-va-giu/ "Mùa cốm làng Vòng bằng xe máy").
+Cùng trên phố Tô Hiệu có Công viên Nghĩa Đô, hợp cho một buổi đi dạo với trẻ nhỏ sau khi đi chợ; xem bài [dạo Công viên Nghĩa Đô nửa ngày bằng xe máy](/du-lich/2026/10/04/kinh-nghiem-dao-cong-vien-nghia-do-nua-ngay-bang-xe-may/ "Dạo Công viên Nghĩa Đô bằng xe máy"). Vào mùa thu, có thể ghé mua cốm theo bài [mùa cốm làng Vòng](/xe-may/2026/10/15/mua-com-lang-vong-bang-xe-50cc-tim-ngo-vao-dich-vong-hau-dung-xe-mua-com-va-giu/ "Mùa cốm làng Vòng bằng xe máy").
 
 ## Câu hỏi thường gặp
 

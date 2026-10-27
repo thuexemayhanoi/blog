@@ -41,7 +41,7 @@ Khi vào viếng, ăn mặc kín đáo, giữ trật tự, thắp hương ở n�
 
 - **Không đi vào đường cao tốc**, vì xe máy không được phép; nếu bản đồ dẫn lên cao tốc, hãy chọn tuyến khác.
 - **Quốc lộ và đường tỉnh nhiều xe tải**, đi sát bên phải, không chen giữa hai xe lớn.
-- **Đường làng gần di tích hẹp**, ngày hội có đoàn rước; gặp đoàn rước thì dừng sát lề, chờ đoàn đi qua. Cách xử lý có ở bài [gặp đoàn rước trên đường hẹp](/ky-nang/2026/09/30/gap-oan-ruoc-tren-uong-hep-xu-ly-the-nao/ "Gặp đoàn rước trên đường hẹp").
+- **Đường làng gần di tích hẹp**, ngày hội có đoàn rước; gặp đoàn rước thì dừng sát lề, chờ đoàn đi qua. Cách xử lý có ở bài [gặp đoàn rước trên đường hẹp](/ky-nang/2026/09/30/gap-doan-ruoc-tren-duong-hep-xu-ly-the-nao/ "Gặp đoàn rước trên đường hẹp").
 
 ## Lễ hội Kinh Dương Vương tháng Giêng
 
@@ -65,7 +65,7 @@ Theo các nguồn địa phương, phần lễ có dâng hương, rước nướ
 
 ## Ghép thêm chùa Dâu và Bút Tháp
 
-Thuận Thành còn có chùa Dâu và thành cổ Luy Lâu; lộ trình một buổi có ở bài [chùa Dâu và thành cổ Luy Lâu bằng xe máy](/cung-duong/2026/10/13/chua-dau-va-thanh-co-luy-lau-bang-xe-may-tu-ha-noi-mot-buoi-o-thuan-thanh/ "Chùa Dâu và thành cổ Luy Lâu bằng xe máy"). Nếu có cả ngày, xem gợi ý ghép chùa Bút Tháp và làng tranh Đông Hồ ở bài [thuê xe máy một ngày đi Bắc Ninh](/thue-xe/2026/10/11/thue-xe-may-mot-ngay-i-bac-ninh-en-o-chua-but-thap-lang-tranh-ong-ho/ "Thuê xe máy một ngày đi Bắc Ninh").
+Thuận Thành còn có chùa Dâu và thành cổ Luy Lâu; lộ trình một buổi có ở bài [chùa Dâu và thành cổ Luy Lâu bằng xe máy](/cung-duong/2026/10/13/chua-dau-va-thanh-co-luy-lau-bang-xe-may-tu-ha-noi-mot-buoi-o-thuan-thanh/ "Chùa Dâu và thành cổ Luy Lâu bằng xe máy"). Nếu có cả ngày, xem gợi ý ghép chùa Bút Tháp và làng tranh Đông Hồ ở bài [thuê xe máy một ngày đi Bắc Ninh](/thue-xe/2026/10/11/thue-xe-may-mot-ngay-di-bac-ninh-den-do-chua-but-thap-lang-tranh-dong-ho/ "Thuê xe máy một ngày đi Bắc Ninh").
 
 ## Câu hỏi thường gặp
 

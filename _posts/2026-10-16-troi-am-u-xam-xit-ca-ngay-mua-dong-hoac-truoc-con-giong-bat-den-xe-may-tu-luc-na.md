@@ -36,7 +36,7 @@ Trong nhiều vụ va chạm giữa ô tô và xe máy, người lái ô tô nó
 - **Khi có bão, gió lớn**: trước bão Yagi năm 2024, Công an Hà Nội khuyên chủ động bật đèn để nhìn rõ đường và báo hiệu cho xe đi ngược chiều.
 - **Trong hầm chui**: không dùng đèn chiếu gần trong hầm có mức phạt theo Điều 7 khoản 3 điểm h.
 
-Hãy dùng đèn chiếu gần. Luật yêu cầu chuyển sang đèn chiếu gần khi gặp xe ngược chiều, gặp người đi bộ qua đường, khi đi trong khu đô thị có đèn đường và khi chuyển hướng ở nút giao; dùng đèn chiếu xa sai trường hợp có mức phạt theo Điều 7 khoản 1 điểm h. Đèn khẩn cấp không thay được đèn chiếu sáng; xem bài [bật đèn khẩn cấp trên xe máy khi nào là đúng luật](/an-toan-phap-ly/2026/10/16/bat-den-khan-cap-tren-xe-may-khi-nao-la-dung-luat-xe-hong-phai-do-chiem-lan-mua/ "Bật đèn khẩn cấp trên xe máy"). Đường và tầm nhìn ngày nồm có ở bài [chạy xe máy ngày nồm Hà Nội](/ky-nang/2026/10/01/chay-xe-may-ngay-nom-ha-noi-mat-uong-va-tam-nhin-khac-mua/ "Chạy xe máy ngày nồm Hà Nội").
+Hãy dùng đèn chiếu gần. Luật yêu cầu chuyển sang đèn chiếu gần khi gặp xe ngược chiều, gặp người đi bộ qua đường, khi đi trong khu đô thị có đèn đường và khi chuyển hướng ở nút giao; dùng đèn chiếu xa sai trường hợp có mức phạt theo Điều 7 khoản 1 điểm h. Đèn khẩn cấp không thay được đèn chiếu sáng; xem bài [bật đèn khẩn cấp trên xe máy khi nào là đúng luật](/an-toan-phap-ly/2026/10/16/bat-den-khan-cap-tren-xe-may-khi-nao-la-dung-luat-xe-hong-phai-do-chiem-lan-mua/ "Bật đèn khẩn cấp trên xe máy"). Đường và tầm nhìn ngày nồm có ở bài [chạy xe máy ngày nồm Hà Nội](/ky-nang/2026/10/01/chay-xe-may-ngay-nom-ha-noi-mat-duong-va-tam-nhin-khac-mua/ "Chạy xe máy ngày nồm Hà Nội").
 
 ## Kiểm tra đèn trước khi đi
 
@@ -48,7 +48,7 @@ Sổ tay Ontario khuyên kiểm tra trước mỗi chuyến: đèn trước màu
 - **Không để áo mưa che đèn, xi nhan**; Ủy ban An toàn giao thông Quốc gia và cảnh sát giao thông Hà Nội đều khuyên điều này.
 - **Mặc áo sáng màu**, áo mưa có dải phản quang, vì đồ tối màu rất khó thấy trong trời âm u.
 
-Đèn không sáng thì kiểm tra theo bài [đèn pha xe máy không sáng ban đêm: kiểm tra nhanh](/xe-may/2026/10/04/en-pha-xe-may-khong-sang-ban-em-kiem-tra-nhanh/ "Đèn pha xe máy không sáng"); mặc áo mưa không che đèn có ở bài [áo mưa trùm che đèn hậu, xi nhan và biển số](/ky-nang/2026/10/16/ao-mua-trum-che-den-hau-xi-nhan-va-bien-so-mac-sao-de-xe-phia-sau-van-nhin-thay/ "Áo mưa che đèn hậu và biển số").
+Đèn không sáng thì kiểm tra theo bài [đèn pha xe máy không sáng ban đêm: kiểm tra nhanh](/xe-may/2026/10/04/den-pha-xe-may-khong-sang-ban-dem-kiem-tra-nhanh/ "Đèn pha xe máy không sáng"); mặc áo mưa không che đèn có ở bài [áo mưa trùm che đèn hậu, xi nhan và biển số](/ky-nang/2026/10/16/ao-mua-trum-che-den-hau-xi-nhan-va-bien-so-mac-sao-de-xe-phia-sau-van-nhin-thay/ "Áo mưa che đèn hậu và biển số").
 
 ## Câu hỏi thường gặp
 

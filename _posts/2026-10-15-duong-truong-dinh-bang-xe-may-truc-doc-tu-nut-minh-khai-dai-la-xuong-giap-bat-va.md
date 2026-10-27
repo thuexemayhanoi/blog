@@ -59,7 +59,7 @@ Mấy cách đi đỡ mệt:
 
 Khi Trương Định quá chậm, lối thoát quen thuộc là rẽ ở ngã tư Kim Đồng – Tân Mai, đi theo phố Kim Đồng về phía đường Giải Phóng, khu vực gần bến xe Giáp Bát. Nút Giải Phóng – Kim Đồng có hầm chui thuộc dự án Vành đai 2,5, được tổ chức thông xe trong năm 2026 và từng phải phân luồng tạm thời. Xe máy đi hầm hay đi mặt đường thì theo biển chỉ dẫn tại chỗ, vì cách tổ chức còn được điều chỉnh.
 
-Đây cũng là khu xe khách, taxi và xe buýt ra vào bến, nên đi đều tay, giữ khoảng cách và đừng đổi làn đột ngột. Muốn đi tiếp về trung tâm sau khi ra Giải Phóng, bài [từ bến xe Giáp Bát về phố cổ chạy xe máy đường nào](/cung-duong/2026/10/09/tu-ben-xe-giap-bat-ve-pho-co-chay-xe-may-uong-nao/) gợi ý hướng đi cho người lạ đường.
+Đây cũng là khu xe khách, taxi và xe buýt ra vào bến, nên đi đều tay, giữ khoảng cách và đừng đổi làn đột ngột. Muốn đi tiếp về trung tâm sau khi ra Giải Phóng, bài [từ bến xe Giáp Bát về phố cổ chạy xe máy đường nào](/cung-duong/2026/10/09/tu-ben-xe-giap-bat-ve-pho-co-chay-xe-may-duong-nao/) gợi ý hướng đi cho người lạ đường.
 
 ## Đỗ xe, vỉa hè và quay đầu trên phố hẹp
 

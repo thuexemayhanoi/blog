@@ -78,7 +78,7 @@ Giá mỗi nhà một khác, hỏi rõ trước khi chốt. Mua nhiều hoặc l
 
 Đi chậm, tránh ổ gà và gờ giảm tốc, nhất là các đoạn đang thi công trên quốc lộ 21B. Lồng bọc kín bắt gió như một tấm buồm, gặp đoạn thoáng có gió ngang thì giảm ga. Sau chặng đầu, dừng ở chỗ an toàn kiểm tra lại dây, vì dây chun giãn dần. Trời đổ mưa thì trùm thêm ni lông và tìm chỗ trú. Về tới nhà, tháo dây từ trên xuống, nhấc lồng bằng hai tay đỡ đáy, đừng nhấc bằng móc.
 
-Nếu lần sau bạn chở cả chim sống, cách che gió và giữ chim yên có trong bài [chở chim cảnh và cây kiểng bằng xe máy](/ky-nang/2026/10/09/cho-chim-canh-va-cay-kieng-bang-xe-may-uoc-khong/).
+Nếu lần sau bạn chở cả chim sống, cách che gió và giữ chim yên có trong bài [chở chim cảnh và cây kiểng bằng xe máy](/ky-nang/2026/10/09/cho-chim-canh-va-cay-kieng-bang-xe-may-duoc-khong/).
 
 ## Chuẩn bị trước chuyến đi
 

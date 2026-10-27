@@ -34,7 +34,7 @@ Pho tượng được công nhận bảo vật quốc gia theo Quyết định 2
 
 Theo truyền thuyết khắc trên bia, vua Lê Thánh Tông khi đi đánh Chiêm Thành từng dừng quân ở Cự Linh, mộng thấy Trấn Vũ nên cho lập đền. Đây là chuyện tương truyền.
 
-Pho tượng ở Thạch Bàn đúc sau pho tượng đền Quán Thánh khoảng một thế kỷ, và được giới nghiên cứu nhận xét có dáng vẻ dân dã, mềm mại hơn. Muốn so sánh, xem bài [đến đền Quán Thánh bằng xe máy](/du-lich/2026/10/04/en-en-quan-thanh-bang-xe-may-gui-xe-va-uong-i/ "Đến đền Quán Thánh bằng xe máy") hoặc bài [chùa Thần Quang trên phố Ngũ Xã](/du-lich/2026/10/16/chua-than-quang-tren-pho-ngu-xa-pho-tuong-phat-bang-dong-lon-va-cach-ghe-bang-xe/ "Chùa Thần Quang trên phố Ngũ Xã"), nơi có một pho tượng đồng lớn khác.
+Pho tượng ở Thạch Bàn đúc sau pho tượng đền Quán Thánh khoảng một thế kỷ, và được giới nghiên cứu nhận xét có dáng vẻ dân dã, mềm mại hơn. Muốn so sánh, xem bài [đến đền Quán Thánh bằng xe máy](/du-lich/2026/10/04/den-den-quan-thanh-bang-xe-may-gui-xe-va-duong-di/ "Đến đền Quán Thánh bằng xe máy") hoặc bài [chùa Thần Quang trên phố Ngũ Xã](/du-lich/2026/10/16/chua-than-quang-tren-pho-ngu-xa-pho-tuong-phat-bang-dong-lon-va-cach-ghe-bang-xe/ "Chùa Thần Quang trên phố Ngũ Xã"), nơi có một pho tượng đồng lớn khác.
 
 ## Đền Trấn Vũ Long Biên: còn gì để xem
 

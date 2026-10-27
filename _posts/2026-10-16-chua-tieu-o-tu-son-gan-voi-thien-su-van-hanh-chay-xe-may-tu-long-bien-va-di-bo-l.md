@@ -51,7 +51,7 @@ Theo Tạp chí Nghiên cứu Phật học, bên phải tòa Tam bảo là khu v
 
 Từ Long Biên, đi Ngô Gia Tự lên cầu Đuống, qua sông rồi theo quốc lộ 1 cũ hướng Từ Sơn. Theo báo Lao động Thủ đô, chùa nằm dọc quốc lộ 1A, từ chùa ra tới quốc lộ khoảng 600 m; khi tới gần, đặt điểm đến trên bản đồ là "chùa Tiêu". Giữa tháng 10/2026, xe máy vẫn qua cầu Đuống cũ, mặt đường hẹp; xem cách đi ở bài [qua cầu Đuống bằng xe máy](/du-lich/2026/10/15/qua-cau-duong-bang-xe-may-chon-cau-cu-hay-cau-moi-va-huong-re-ve-duc-giang-yen-v/ "Qua cầu Đuống bằng xe máy").
 
-Tới chân núi, gửi xe ở chỗ được bố trí hoặc theo hướng dẫn của người trông coi, rồi đi bộ lên chùa. Cùng hướng có đền Đô ở Đình Bảng thờ các vị vua nhà Lý; xem bài [từ Long Biên đi đền Đô Bắc Ninh bằng xe máy](/du-lich/2026/10/11/tu-long-bien-i-en-o-bac-ninh-bang-xe-may-quang-uong-va-thoi-gian-i-lai/ "Từ Long Biên đi đền Đô Bắc Ninh bằng xe máy") nếu muốn ghép thành một buổi về nhà Lý. Muốn tìm hiểu thêm về kinh đô mà Lý Công Uẩn dựng, có thể ghé [Hoàng thành Thăng Long](/du-lich/2026/09/28/en-hoang-thanh-thang-long-bang-xe-may-gui-xe-va-uong-i/ "Đến Hoàng thành Thăng Long bằng xe máy").
+Tới chân núi, gửi xe ở chỗ được bố trí hoặc theo hướng dẫn của người trông coi, rồi đi bộ lên chùa. Cùng hướng có đền Đô ở Đình Bảng thờ các vị vua nhà Lý; xem bài [từ Long Biên đi đền Đô Bắc Ninh bằng xe máy](/du-lich/2026/10/11/tu-long-bien-di-den-do-bac-ninh-bang-xe-may-quang-duong-va-thoi-gian-di-lai/ "Từ Long Biên đi đền Đô Bắc Ninh bằng xe máy") nếu muốn ghép thành một buổi về nhà Lý. Muốn tìm hiểu thêm về kinh đô mà Lý Công Uẩn dựng, có thể ghé [Hoàng thành Thăng Long](/du-lich/2026/09/28/den-hoang-thanh-thang-long-bang-xe-may-gui-xe-va-duong-di/ "Đến Hoàng thành Thăng Long bằng xe máy").
 
 ## Lễ chay, không vàng mã
 

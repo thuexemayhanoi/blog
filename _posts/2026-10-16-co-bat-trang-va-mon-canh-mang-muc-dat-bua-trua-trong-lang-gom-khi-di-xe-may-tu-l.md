@@ -54,7 +54,7 @@ Một buổi gọn có thể như sau:
 2. **Trưa**: dùng cỗ ở nhà đã đặt; một mâm nhiều món cần thời gian, nên dành hơn một tiếng.
 3. **Chiều**: đi bộ thăm đình, Văn Chỉ và ngõ cổ, hoặc ngồi nặn gốm, rồi về trước giờ tan tầm.
 
-Đường đi và chỗ gửi xe ở làng gốm có ở bài [làng gốm Bát Tràng bằng xe máy từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-uong-i-va-gui-xe/ "Làng gốm Bát Tràng bằng xe máy từ Long Biên"). Đi bộ trong lõi làng cổ sau bữa trưa thì xem bài [đình Bát Tràng, Văn Chỉ và nhà cổ](/du-lich/2026/10/16/dinh-bat-trang-van-chi-va-nha-co-trong-lang-goc-di-san-it-nguoi-ghe-khi-di-xe-ma/ "Đình Bát Tràng, Văn Chỉ và nhà cổ"); còn muốn tự tay làm gốm, xem bài [nặn gốm ở Bát Tràng nửa ngày](/du-lich/2026/10/15/nan-gom-o-bat-trang-nua-ngay-chon-xuong-trai-nghiem-mang-do-gi-va-chay-xe-ve-khi/ "Nặn gốm ở Bát Tràng nửa ngày").
+Đường đi và chỗ gửi xe ở làng gốm có ở bài [làng gốm Bát Tràng bằng xe máy từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-duong-di-va-gui-xe/ "Làng gốm Bát Tràng bằng xe máy từ Long Biên"). Đi bộ trong lõi làng cổ sau bữa trưa thì xem bài [đình Bát Tràng, Văn Chỉ và nhà cổ](/du-lich/2026/10/16/dinh-bat-trang-van-chi-va-nha-co-trong-lang-goc-di-san-it-nguoi-ghe-khi-di-xe-ma/ "Đình Bát Tràng, Văn Chỉ và nhà cổ"); còn muốn tự tay làm gốm, xem bài [nặn gốm ở Bát Tràng nửa ngày](/du-lich/2026/10/15/nan-gom-o-bat-trang-nua-ngay-chon-xuong-trai-nghiem-mang-do-gi-va-chay-xe-ve-khi/ "Nặn gốm ở Bát Tràng nửa ngày").
 
 ## Đặc sản làng Bát Tràng: để xe khi vào làng dùng bữa
 

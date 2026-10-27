@@ -60,6 +60,6 @@ Giả sử bạn làm ở một tòa văn phòng trên Phạm Hùng, nhà gần 
 
 ## Đọc thêm trước khi chọn lối
 
-Nếu điểm đến là trung tâm chứ không phải Mỹ Đình, xem bài [từ Hà Đông lên trung tâm bằng xe máy](/cung-duong/2026/10/11/tu-ha-dong-len-trung-tam-bang-xe-may-quang-trung-nguyen-trai-hay-to-huu/). Khu Mỹ Đình rộng ra sao có trong bài [từ phố cổ ra khu Mỹ Đình bằng xe máy](/cung-duong/2026/10/11/tu-pho-co-ra-khu-my-dinh-bang-xe-may-cac-huong-di-va-nen-chon-huong-nao/). Ai mới cầm lái ở Hà Nội có thể bắt đầu với [cung nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-au/).
+Nếu điểm đến là trung tâm chứ không phải Mỹ Đình, xem bài [từ Hà Đông lên trung tâm bằng xe máy](/cung-duong/2026/10/11/tu-ha-dong-len-trung-tam-bang-xe-may-quang-trung-nguyen-trai-hay-to-huu/). Khu Mỹ Đình rộng ra sao có trong bài [từ phố cổ ra khu Mỹ Đình bằng xe máy](/cung-duong/2026/10/11/tu-pho-co-ra-khu-my-dinh-bang-xe-may-cac-huong-di-va-nen-chon-huong-nao/). Ai mới cầm lái ở Hà Nội có thể bắt đầu với [cung nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-dau/).
 
 Cần xe cho quãng đi làm này, bạn có thể ghé Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00; giao nhận xe chỉ trong giờ mở cửa, thời gian và chi phí cần xác nhận trước. Các tuyến khác nằm ở trang [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) và chuyên mục [cung đường](/cung-duong/).
