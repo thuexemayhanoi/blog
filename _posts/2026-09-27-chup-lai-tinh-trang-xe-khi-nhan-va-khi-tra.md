@@ -31,7 +31,7 @@ Chụp xong mà ảnh nằm lẫn trong hàng nghìn tấm trong điện thoại
 
 Nếu muốn chắc chắn hơn, gửi toàn bộ bộ ảnh cho người thân qua tin nhắn, hoặc tự gửi vào một cuộc trò chuyện của riêng bạn. Mục đích là để bộ ảnh có thêm một bản sao mang dấu thời gian bên ngoài điện thoại, phòng khi máy hỏng hoặc ảnh bị xóa nhầm. Dấu thời gian do máy chụp tự ghi kèm trong thông tin tệp ảnh cũng là chi tiết nên bảo toàn, vì nó cho thấy ảnh được chụp trong khoảng thời gian bàn giao, không phải ảnh dựng lại sau đó.
 
-Tránh sử dụng ảnh đã qua chỉnh sửa hoặc ghép lại, kể cả chỉ làm sáng thêm. Khi có tranh chấp, một tấm ảnh gốc, hơi tối nhưng còn nguyên dữ liệu, có giá trị hơn nhiều so với một tấm ảnh đẹp đã qua xử lý. Nếu bạn nghiêng về quay video, tham khảo thêm cách [ghi hình xe khi nhận và trả để làm bằng chứng](/thue-xe/2026/09/27/ghi-hinh-xe-khi-nhan-va-tra-e-lam-bang-chung/), vì video giữ được góc quay liên tục và âm thanh xác nhận tại chỗ.
+Tránh sử dụng ảnh đã qua chỉnh sửa hoặc ghép lại, kể cả chỉ làm sáng thêm. Khi có tranh chấp, một tấm ảnh gốc, hơi tối nhưng còn nguyên dữ liệu, có giá trị hơn nhiều so với một tấm ảnh đẹp đã qua xử lý. Nếu bạn nghiêng về quay video, tham khảo thêm cách [ghi hình xe khi nhận và trả để làm bằng chứng](/thue-xe/2026/09/27/ghi-hinh-xe-khi-nhan-va-tra-de-lam-bang-chung/), vì video giữ được góc quay liên tục và âm thanh xác nhận tại chỗ.
 
 ## Dùng ảnh giải quyết tranh chấp lúc trả xe
 

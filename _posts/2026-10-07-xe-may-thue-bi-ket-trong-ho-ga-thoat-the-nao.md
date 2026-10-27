@@ -40,7 +40,7 @@ Sau khi thoát, đừng vội chạy tiếp. Kiểm tra vành xe có méo không
 
 ## Phòng tránh khi đi qua vùng nhiều hố ga
 
-Hà Nội có những đoạn đường nổi tiếng nhiều hố ga hở, nhất là sau đợt mưa lớn hoặc quanh khu đào đường. Cách phòng tránh đơn giản nhất là đi chậm ở vùng ngập, theo vệt bánh của xe phía trước, và không bám sát quá gần. Khi buộc phải đi qua nước đọng, giữ ga đều ở dải số thấp, hai chân sẵn sàng chống xuống khi bánh gặp chướng ngại. Nếu bạn mới lấy bằng A1, tham khảo [kinh nghiệm lái xe lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) để nắm thêm thói quen an toàn cơ bản.
+Hà Nội có những đoạn đường nổi tiếng nhiều hố ga hở, nhất là sau đợt mưa lớn hoặc quanh khu đào đường. Cách phòng tránh đơn giản nhất là đi chậm ở vùng ngập, theo vệt bánh của xe phía trước, và không bám sát quá gần. Khi buộc phải đi qua nước đọng, giữ ga đều ở dải số thấp, hai chân sẵn sàng chống xuống khi bánh gặp chướng ngại. Nếu bạn mới lấy bằng A1, tham khảo [kinh nghiệm lái xe lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/) để nắm thêm thói quen an toàn cơ bản.
 
 Một thói quen nữa đáng rèn là nhìn xa trước khoảng mười mét thay vì nhìn sát bánh trước. Ở tốc độ chậm, khoảng mười mét cho bạn đủ hai giây để né miệng hố. Đèn chiếu yếu cũng là nguyên nhân gián tiếp khiến người lái không nhận thấy hố từ xa, vì vậy kiểm tra đèn trước mỗi chuyến đi tối.
 

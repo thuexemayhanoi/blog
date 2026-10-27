@@ -48,7 +48,7 @@ Người mới đi xe, hoặc chở theo người ngồi sau mà chưa tự tin 
 
 Đừng dựng xe ở mép ruộng, trong lối mòn hay dưới bóng cây chuối chỉ vì thấy vắng. Xe chắn lối người làm vườn, đất mềm còn làm lún chân chống. Với xe thuê, thêm một thói quen nhỏ: chụp một tấm ảnh xe và chỗ gửi, khóa cổ xe, không để mũ bảo hiểm hay đồ đạc trên yên.
 
-Nếu không tìm được chỗ có người trông dưới bãi, phương án dễ hơn là gửi xe ở khu vực đầu cầu phía Long Biên hoặc phía Hoàn Kiếm rồi đi bộ. Cách gửi xe quanh hai đầu cầu được nói trong bài [đến cầu Long Biên bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/28/en-cau-long-bien-bang-xe-may-gui-xe-va-uong-i/).
+Nếu không tìm được chỗ có người trông dưới bãi, phương án dễ hơn là gửi xe ở khu vực đầu cầu phía Long Biên hoặc phía Hoàn Kiếm rồi đi bộ. Cách gửi xe quanh hai đầu cầu được nói trong bài [đến cầu Long Biên bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/28/den-cau-long-bien-bang-xe-may-gui-xe-va-duong-di/).
 
 ## Đi dạo vườn chuối bãi giữa sông Hồng: chụp ảnh mà không làm phiền
 
@@ -59,7 +59,7 @@ Vườn chuối là lý do nhiều người tìm xuống bãi: những hàng chu
 - **Không hái, không bẻ lá** làm đạo cụ chụp ảnh. Một tàu lá rách là mất mùa nhỏ của người trồng.
 - **Mang giày đế bám, quần dài**, vì lối đi có cỏ, gai và đất ẩm. Thêm chai nước và kem chống muỗi.
 
-Thời điểm ánh sáng đẹp là buổi sáng sớm và cuối chiều, khi nắng xiên và nhiệt độ dễ chịu. Nếu muốn chụp hoàng hôn trên cầu trước rồi mới xuống bãi, bài [đi cầu Long Biên ngắm hoàng hôn bằng xe máy](/du-lich/2026/10/07/i-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-uoc-khong/) gợi ý khung giờ.
+Thời điểm ánh sáng đẹp là buổi sáng sớm và cuối chiều, khi nắng xiên và nhiệt độ dễ chịu. Nếu muốn chụp hoàng hôn trên cầu trước rồi mới xuống bãi, bài [đi cầu Long Biên ngắm hoàng hôn bằng xe máy](/du-lich/2026/10/07/di-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-duoc-khong/) gợi ý khung giờ.
 
 ## Mùa nước lên và sau mưa: đường lầy thì không đi
 
@@ -83,7 +83,7 @@ Dòng sông Hồng nhìn từ bãi có vẻ hiền, nhưng nước chảy xiết
 - **Trông trẻ nhỏ sát bên** nếu đi cùng gia đình.
 - **Rời bãi trước khi trời tối**, vì lối mòn không có đèn và dốc lên cầu khó quan sát hơn nhiều khi thiếu sáng.
 
-Lúc quay lên cầu, dắt xe lên đoạn đầu dốc nếu bánh sau quay trượt, rồi mới ngồi lên tăng ga nhẹ. Trên mặt cầu, nhập làn từ từ, nhìn gương và xe đi tới trước khi rời lối rẽ. Nếu trời đổ mưa lúc bạn đang ở trên cầu, bài [cầu Long Biên ngày mưa](/du-lich/2026/10/11/cau-long-bien-ngay-mua-mat-cau-tron-uong-ray-va-cach-chay-xe-may/) có hướng dẫn xử lý mặt cầu trơn.
+Lúc quay lên cầu, dắt xe lên đoạn đầu dốc nếu bánh sau quay trượt, rồi mới ngồi lên tăng ga nhẹ. Trên mặt cầu, nhập làn từ từ, nhìn gương và xe đi tới trước khi rời lối rẽ. Nếu trời đổ mưa lúc bạn đang ở trên cầu, bài [cầu Long Biên ngày mưa](/du-lich/2026/10/11/cau-long-bien-ngay-mua-mat-cau-tron-duong-ray-va-cach-chay-xe-may/) có hướng dẫn xử lý mặt cầu trơn.
 
 ## Tóm lại
 

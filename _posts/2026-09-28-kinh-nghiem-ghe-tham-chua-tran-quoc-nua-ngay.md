@@ -24,7 +24,7 @@ Nửa ngày chiều chỉ nên chọn khi lịch trình cả ngày không còn c
 
 Vòng chính trong chùa nên đi theo thứ tự từ sân ngoài vào trong: dừng ở góc nhìn bảo tháp giữa vườn, đi qua các hành lang, rồi tới mép nước nhìn sang mặt Hồ Tây. Khu không rộng nhưng có nhiều lớp cảnh, nên đi chậm, đợi các khoảng lặng giữa dòng khách là cách lấy ảnh sạch. Trang phục kín đáo là bắt buộc trong khu thờ tự; giày đế mềm giúp đi trên sân gạch và bậc cửa thoải mái, nhất là khi mang theo trẻ nhỏ.
 
-Nửa tiếng đầu trong khu là phần tham quan chính, phần còn lại của buổi dành cho dạo quanh bán đảo: đường Thanh Niên hai bên mặt hồ cho các góc chụp toàn cảnh chùa, và mép Hồ Trúc Bạch phía bên kia đường có dải quán nhỏ ngồi ngắm nước. Ai thích sâu hơn lịch sử khu nên theo các đoàn có thuyết minh hoặc nghe trước tư liệu về nguồn gốc chùa được xem là một trong những chùa cổ nhất Thăng Long. Chi tiết tuyến đường, gửi xe cạnh cổng và các khung đẹp được kể trong bài [đến Đầm Sen Tây Hồ bằng xe máy](/du-lich/2026/09/28/en-am-sen-tay-ho-bang-xe-may-gui-xe-va-uong-i/), một điểm cùng mép Hồ Tây cho buổi ghép thêm dạo sen.
+Nửa tiếng đầu trong khu là phần tham quan chính, phần còn lại của buổi dành cho dạo quanh bán đảo: đường Thanh Niên hai bên mặt hồ cho các góc chụp toàn cảnh chùa, và mép Hồ Trúc Bạch phía bên kia đường có dải quán nhỏ ngồi ngắm nước. Ai thích sâu hơn lịch sử khu nên theo các đoàn có thuyết minh hoặc nghe trước tư liệu về nguồn gốc chùa được xem là một trong những chùa cổ nhất Thăng Long. Chi tiết tuyến đường, gửi xe cạnh cổng và các khung đẹp được kể trong bài [đến Đầm Sen Tây Hồ bằng xe máy](/du-lich/2026/09/28/den-dam-sen-tay-ho-bang-xe-may-gui-xe-va-duong-di/), một điểm cùng mép Hồ Tây cho buổi ghép thêm dạo sen.
 
 ## Ăn uống quanh bờ hồ
 

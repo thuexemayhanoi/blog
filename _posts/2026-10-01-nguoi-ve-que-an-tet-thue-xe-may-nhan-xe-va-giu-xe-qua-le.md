@@ -49,7 +49,7 @@ Về giấy tờ trên đường, nhớ mang theo giấy phép lái xe phù hợ
 
 Ba việc nên hỏi ngay lúc nhận xe, đừng để sau lễ: trả xe ngày nào trong kỳ nghỉ nơi cho thuê làm việc, nếu lỡ về trễ một ngày thì tính thế nào, và khi nào được gia hạn thêm nếu kế hoạch đổi. Trao đổi rõ từ đầu giúp hai bên yên tâm qua lễ, và bạn khỏi chạy gịp sáng mồng bốn giữa đường đông người trở thành phố.
 
-Tổng quan về thuê xe máy Hà Nội, từ dòng xe tới thủ tục, cập nhật trong mục [cho thuê xe máy](/thue-xe/). Khách muốn thêm cảm giác Tết giữa ngày thường có thể ghé đọc bài [chợ hoa Hàng Mã mùa Tết bằng xe máy](/du-lich/2026/10/01/cho-hoa-hang-ma-mua-tet-bang-xe-may-o-xe-va-thoi-iem-i/), cũng là một bài thực tế về đỗ xe mùa cao điểm.
+Tổng quan về thuê xe máy Hà Nội, từ dòng xe tới thủ tục, cập nhật trong mục [cho thuê xe máy](/thue-xe/). Khách muốn thêm cảm giác Tết giữa ngày thường có thể ghé đọc bài [chợ hoa Hàng Mã mùa Tết bằng xe máy](/du-lich/2026/10/01/cho-hoa-hang-ma-mua-tet-bang-xe-may-do-xe-va-thoi-diem-di/), cũng là một bài thực tế về đỗ xe mùa cao điểm.
 
 ## Kết lại
 

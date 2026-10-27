@@ -34,7 +34,7 @@ Hai chi tiết nữa đáng soi kỹ lúc tối là lốp và dây xích. Dùng 
 
 Lúc nhận tối, các chi tiết thủ tục dễ bị bỏ qua hơn vì mọi người muốn đi nhanh. Đối chiếu lại các gì đã trao đổi trước đó: dòng xe, mức giá đã báo, tiền cọc, giấy tờ để lại, và giờ trả xe. Kiểm tra mũ bảo hiểm đi kèm: mang đủ số mũ cho người đi, xem kính mũ còn trong không, vì kính mũ nứt trời tối khó thấy mà lại ảnh hưởng tầm nhìn. Nếu có áo mưa hoặc đồ đi kèm khác, đếm và chụp luôn cả đám.
 
-Một việc nhỏ nhưng nên làm: lưu số điện thoại hỗ trợ của cửa hàng vào máy trước khi rời đi. Nếu xe có sự cố gì trong tối, bạn sẽ không phải mò số giữa đường. Với khách lần đầu thuê, danh sách các câu hỏi nên hỏi cửa hàng qua tin nhắn trước khi tới trong bài [thuê xe máy lần đầu nên hỏi gì](/hoi-dap/2026/10/04/thue-xe-may-lan-au-nen-hoi-gi-cua-hang-qua-tin-nhan/) cũng nên đọc trước, vì nhiều mục hỏi giờ giấc và xăng dầu sẽ giúp buổi nhận xe tối gọn hơn. Còn nếu lịch cho phép, chọn khung giờ nhận xe còn ánh sáng tự nhiên vẫn là cách nhẹ nhàng nhất.
+Một việc nhỏ nhưng nên làm: lưu số điện thoại hỗ trợ của cửa hàng vào máy trước khi rời đi. Nếu xe có sự cố gì trong tối, bạn sẽ không phải mò số giữa đường. Với khách lần đầu thuê, danh sách các câu hỏi nên hỏi cửa hàng qua tin nhắn trước khi tới trong bài [thuê xe máy lần đầu nên hỏi gì](/hoi-dap/2026/10/04/thue-xe-may-lan-dau-nen-hoi-gi-cua-hang-qua-tin-nhan/) cũng nên đọc trước, vì nhiều mục hỏi giờ giấc và xăng dầu sẽ giúp buổi nhận xe tối gọn hơn. Còn nếu lịch cho phép, chọn khung giờ nhận xe còn ánh sáng tự nhiên vẫn là cách nhẹ nhàng nhất.
 
 ## Trường hợp nhận xe không phải tại cửa hàng
 

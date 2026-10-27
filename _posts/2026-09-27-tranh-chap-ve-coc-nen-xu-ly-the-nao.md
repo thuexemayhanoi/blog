@@ -47,7 +47,7 @@ Một điều nên tránh: đừng để cảm xúc dẫn dắt bạn qua các b
 Mọi tranh chấp về cọc đều dễ phòng hơn dễ xử. Lần thuê sau, hãy làm ba việc từ ngày đầu: chụp ảnh
  hiện trạng xe chi tiết theo đúng cách làm với [danh sách kiểm tra xe khi nhận xe thuê](/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/); yêu cầu biên nhận cọc ghi rõ số tiền, ngày, họ tên; và hỏi trước điều kiện hoàn cọc cũng như cách xử lý hư hỏng.
 
-Cơ chế đặt cọc vận hành ra sao nằm trong mục tổng hợp [đặt cọc và giữ giấy tờ](/thue-xe/dat-coc/), còn điều kiện để được hoàn đủ tiền cọc khi trả xe nằm trong trang quy trình [nhận và trả xe](/thue-xe/nhan-tra-xe/). Khi trả xe, làm đúng quy trình bàn giao cũng giúp bạn không tạo khe hở cho tranh chấp, xem [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/).
+Cơ chế đặt cọc vận hành ra sao nằm trong mục tổng hợp [đặt cọc và giữ giấy tờ](/thue-xe/dat-coc/), còn điều kiện để được hoàn đủ tiền cọc khi trả xe nằm trong trang quy trình [nhận và trả xe](/thue-xe/nhan-tra-xe/). Khi trả xe, làm đúng quy trình bàn giao cũng giúp bạn không tạo khe hở cho tranh chấp, xem [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/).
 
 Cần trao đổi với cửa hàng, thông tin nằm tại trang [liên hệ](/lien-he/) ghi địa chỉ 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, và mục [đặt cọc và giữ giấy tờ](/thue-xe/dat-coc/) tổng hợp đầy đủ các bài về bảo đảm khi thuê xe tại Hà Nội.
 

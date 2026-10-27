@@ -44,4 +44,4 @@ Với người thuê xe đi đường xa, hãy nhớ rằng mình đang ngồi t
 
 ## Tóm lại, cua góc chết xử bằng quy trình chứ không bằng may rủi
 
-Gặp cua mù trên đường xe máy, hãy lặp lại chuỗi ngắn: đọc cua từ xa, dàn tốc trước thân cua, bám mép phải, mở tầm nhìn, và chỉ tăng tốc khi nhìn thông. Gặp người ngược chiều thì giữ vệt của mình và nhường phần đường chung, đúng tinh thần của các [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong). Làm đủ các bước đó, khúc cua góc chết trở thành một khúc cua thường, chỉ chậm hơn một chút, và bạn tới đích với nguyên vẹn cả xe lẫn mình.
+Gặp cua mù trên đường xe máy, hãy lặp lại chuỗi ngắn: đọc cua từ xa, dàn tốc trước thân cua, bám mép phải, mở tầm nhìn, và chỉ tăng tốc khi nhìn thông. Gặp người ngược chiều thì giữ vệt của mình và nhường phần đường chung, đúng tinh thần của các [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/). Làm đủ các bước đó, khúc cua góc chết trở thành một khúc cua thường, chỉ chậm hơn một chút, và bạn tới đích với nguyên vẹn cả xe lẫn mình.

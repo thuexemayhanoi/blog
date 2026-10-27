@@ -47,7 +47,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-07-thue-xe-may-trong-ngay-tra-tre-co-bi-tinh-them-khong.md",
-  "content_sha256": "504c50e9fd6ef3a96d1f1de054d7faa7f4e9bfa7ef5ada5fd778d021e1045dd4",
+  "content_sha256": "6b06bd68d5899607c5e11655a58088dc42c4620b6a59f216cfae9a3a0ba9a58b",
   "matrix_row_sha256": "ce5131310c70446eab3f4d847ca3fd743cbd3ef5fcb2df16573df3e4d0f3b82b",
   "result": "PASS",
   "grade": "EXCELLENT",
@@ -77,5 +77,42 @@
     "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
     "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
     "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); chat diem doc lap xay ra luc rescored_at"
+  },
+  "revision": {
+    "schema": "revision/1",
+    "kind": "link-retarget",
+    "purpose": "internal-link-retarget",
+    "reason": "Tro lien ket noi bo thang toi URL moi (sau di tru slug d -> d, hoac them dau / cuoi) thay vi qua trang chuyen huong/301 cua may chu. Issue #77.",
+    "approval_ref": "chu-repo:chi-thi-2026-10-27-master-execution-finish-100-slug-migration-pricing/issue-77-pha-2 (session_01D88QamSe7ksLm1ZpE5Y7fT)",
+    "batch_id": "links-20261027-p46",
+    "revised_at": "2026-10-27T06:36:06+00:00",
+    "previous_evidence_sha256": "2a3f8b42b106730e952586397dda0cc5716de8115bd6453b92b3e471a984cfbf",
+    "previous_content_sha256": "504c50e9fd6ef3a96d1f1de054d7faa7f4e9bfa7ef5ada5fd778d021e1045dd4",
+    "previous_matrix_row_sha256": "ce5131310c70446eab3f4d847ca3fd743cbd3ef5fcb2df16573df3e4d0f3b82b",
+    "new_content_sha256": "6b06bd68d5899607c5e11655a58088dc42c4620b6a59f216cfae9a3a0ba9a58b",
+    "mapping_sha256": "2d8e3b4cec45c8f31e31c9ce93f8c5931578094a7a3c26351b319199a52eb170",
+    "links_retargeted": 1,
+    "targets": {
+      "/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/": 1
+    },
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/migrate-slug-urls.py links-apply",
+    "tool_commit": "06bc3a2fa2dbb94531415823e6f5e7f1a62c7f7f",
+    "scorer_code_sha256": "b4a8836fab455ec134ecb2a01ebaa1ebce70e7a503a12e3fb00265e671d73201",
+    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "migrate_tool_sha256": "ddd2be356a2f313bf991d56eab56c101545909274cab45dcbb11e2039f5bcefd",
+    "slugkit_sha256": "3ca830e9d1fe26935aafc87750f95908dbe3b5cb9aa92d2779157ef4e6b1ec4d",
+    "baseline_sha256": "6a91c1c7e18ad2b6c0a85d309ae9939cc91c06e54106bf22f46280194222197c",
+    "note": "chi doi DICH lien ket noi bo (chu lien ket, tieu de, # doan va moi byte khac giu nguyen); scored_at/published_at o cap tren giu moc lich su goc; cham diem doc lap luc revised_at"
   }
 }
