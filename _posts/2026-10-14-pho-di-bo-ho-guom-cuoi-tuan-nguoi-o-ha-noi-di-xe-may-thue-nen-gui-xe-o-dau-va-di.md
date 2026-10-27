@@ -31,7 +31,7 @@ Nguyên tắc chung là đến từ phía gần nhà nhất và dừng ở rìa 
 
 ### Từ Cầu Giấy, Đống Đa, Ba Đình
 
-Người ở phía tây nên tiếp cận từ phía tây và phía nam của hồ. Đi theo Xuân Thủy, Cầu Giấy rồi Kim Mã hoặc Nguyễn Thái Học, hướng về khu quanh Văn Miếu, Tràng Thi, Lý Thường Kiệt. Khu này nhiều phố rộng, ít ngõ ngoằn ngoèo hơn phố cổ, và cách vùng rào vừa đủ để đi bộ vào. Nếu bạn ở quanh Cầu Giấy và còn đang cân nhắc thuê xe, bài [thuê xe máy quanh Cầu Giấy đi nội thành](/thue-xe/2026/10/07/thue-xe-may-quanh-cau-giay-i-noi-thanh-co-thuan-tien-khong/) có thêm vài ý về quãng đường hằng ngày.
+Người ở phía tây nên tiếp cận từ phía tây và phía nam của hồ. Đi theo Xuân Thủy, Cầu Giấy rồi Kim Mã hoặc Nguyễn Thái Học, hướng về khu quanh Văn Miếu, Tràng Thi, Lý Thường Kiệt. Khu này nhiều phố rộng, ít ngõ ngoằn ngoèo hơn phố cổ, và cách vùng rào vừa đủ để đi bộ vào. Nếu bạn ở quanh Cầu Giấy và còn đang cân nhắc thuê xe, bài [thuê xe máy quanh Cầu Giấy đi nội thành](/thue-xe/2026/10/07/thue-xe-may-quanh-cau-giay-di-noi-thanh-co-thuan-tien-khong/) có thêm vài ý về quãng đường hằng ngày.
 
 ### Từ Hà Đông, Thanh Xuân
 
@@ -45,7 +45,7 @@ Sai lầm hay gặp nhất của người ở xa là cứ chạy vào rồi tín
 - **Gửi ở bãi có người trông và có vé.** Đừng để xe trên vỉa hè không người trông chỉ vì thấy nhiều xe khác đậu sẵn.
 - **Chụp ảnh vé gửi xe và biển phố gần đó.** Tối cuối tuần đông người, đi bộ một vòng quanh hồ xong rất dễ quên mình gửi ở góc nào.
 
-Muốn xem cụ thể từng khu gửi xe máy quanh hồ Hoàn Kiếm và kinh nghiệm chọn chỗ, hãy đọc bài [phố đi bộ Hồ Gươm cuối tuần xe máy gửi ở đâu](/du-lich/2026/10/09/pho-i-bo-ho-guom-cuoi-tuan-xe-may-gui-o-au/).
+Muốn xem cụ thể từng khu gửi xe máy quanh hồ Hoàn Kiếm và kinh nghiệm chọn chỗ, hãy đọc bài [phố đi bộ Hồ Gươm cuối tuần xe máy gửi ở đâu](/du-lich/2026/10/09/pho-di-bo-ho-guom-cuoi-tuan-xe-may-gui-o-dau/).
 
 ## Giờ đến và giờ về: tránh trùng dòng người
 

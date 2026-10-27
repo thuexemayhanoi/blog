@@ -23,7 +23,7 @@ Nguyên tắc đầu tiên rất đơn giản: không khoan, không bắt vít, 
 
 Khi nhận xe, nhắn cho tiệm vài dòng: bạn định gắn loại giá nào, kẹp ở đâu, có cần sạc trên xe hay không. Tiệm biết chỗ nào kẹp được, chỗ nào ốp mỏng dễ nứt trên chính chiếc xe đó. Giữ lại tin nhắn trả lời để lúc trả xe hai bên cùng nhớ đã thống nhất gì.
 
-Bài [gắn giá đỡ điện thoại lên xe máy thuê và tháo gọn khi trả](/thue-xe/2026/10/12/gan-gia-o-ien-thoai-len-xe-may-thue-hoi-cua-hang-va-thao-gon-khi-tra/) viết cho khách thuê ngắn ngày. Với thuê tháng, giá đỡ phải chịu rung xóc và nắng mưa liên tục, nên chọn kẹp khắt khe hơn.
+Bài [gắn giá đỡ điện thoại lên xe máy thuê và tháo gọn khi trả](/thue-xe/2026/10/12/gan-gia-do-dien-thoai-len-xe-may-thue-hoi-cua-hang-va-thao-gon-khi-tra/) viết cho khách thuê ngắn ngày. Với thuê tháng, giá đỡ phải chịu rung xóc và nắng mưa liên tục, nên chọn kẹp khắt khe hơn.
 
 ## Các loại giá kẹp điện thoại xe máy không cần khoan
 
@@ -78,6 +78,6 @@ Với người chạy giao hàng, bài [thuê xe tháng chạy ship: chọn xe b
 
 ## Khi trả xe hoặc đổi xe giữa kỳ
 
-Đến ngày trả hoặc khi đổi sang xe khác, tháo toàn bộ giá đỡ, túi đựng và dây sạc. Lau sạch vị trí đã kẹp, nhìn lại ốp và chân gương, chỉnh gương về đúng góc. Nếu trong tháng có vết trầy nhỏ do kẹp, nói thẳng với tiệm thay vì để tiệm tự phát hiện, hai bên trao đổi sẽ nhẹ nhàng hơn nhiều. Chuyện đổi xe giữa chừng được bàn kỹ ở bài [thuê xe máy ba tháng có được đổi xe giữa kỳ không](/thue-xe/2026/10/05/thue-xe-may-ba-thang-co-uoc-oi-xe-giua-ky-khong/).
+Đến ngày trả hoặc khi đổi sang xe khác, tháo toàn bộ giá đỡ, túi đựng và dây sạc. Lau sạch vị trí đã kẹp, nhìn lại ốp và chân gương, chỉnh gương về đúng góc. Nếu trong tháng có vết trầy nhỏ do kẹp, nói thẳng với tiệm thay vì để tiệm tự phát hiện, hai bên trao đổi sẽ nhẹ nhàng hơn nhiều. Chuyện đổi xe giữa chừng được bàn kỹ ở bài [thuê xe máy ba tháng có được đổi xe giữa kỳ không](/thue-xe/2026/10/05/thue-xe-may-ba-thang-co-duoc-doi-xe-giua-ky-khong/).
 
 Tóm lại, với xe thuê tháng: chọn kẹp cơ học tháo được, sạc bằng pin dự phòng hoặc ổ có sẵn, không khoan và không đấu điện khi chưa được tiệm đồng ý, và luôn để mắt cho đường trước màn hình. Các kinh nghiệm khác cho người dùng xe dài ngày nằm ở mục [thuê xe theo tháng](/thue-xe/thue-thang/), còn thông tin chung về dịch vụ ở chuyên mục [thuê xe máy](/thue-xe/).

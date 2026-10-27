@@ -43,7 +43,7 @@ Trước khi hỏi, hãy mở lại những gì bạn đã có lúc nhận xe: b
 2. Phần ngày còn lại được xử lý ra sao, có hoàn lại hay không, và nếu có thì theo hình thức nào.
 3. Giấy tờ, khoản cọc được trả lại ngay khi nhận xe hay cần thêm thời gian kiểm.
 
-Giữ giọng trao đổi bình thường; nếu câu trả lời khác điều bạn nghĩ, hỏi lại cho hiểu cách tính rồi tự cân nhắc. Bài [trả xe thuê sớm hơn dự kiến: hỏi trước điều gì](/thue-xe/2026/09/27/tra-xe-thue-som-hon-du-kien-hoi-truoc-ieu-gi/) phân tích vì sao mỗi nơi tính khác nhau, còn ở đây chỉ cần nhớ: hỏi trước, ghi lại, không tự kết luận.
+Giữ giọng trao đổi bình thường; nếu câu trả lời khác điều bạn nghĩ, hỏi lại cho hiểu cách tính rồi tự cân nhắc. Bài [trả xe thuê sớm hơn dự kiến: hỏi trước điều gì](/thue-xe/2026/09/27/tra-xe-thue-som-hon-du-kien-hoi-truoc-dieu-gi/) phân tích vì sao mỗi nơi tính khác nhau, còn ở đây chỉ cần nhớ: hỏi trước, ghi lại, không tự kết luận.
 
 ## Đổi kế hoạch khi thuê tuần: không phải lúc nào cũng nên trả ngay
 
@@ -70,7 +70,7 @@ Nếu bạn ở bên kia sông, như khu Hoàn Kiếm hay Ba Đình, hãy tính 
 
 Khi tới nơi, cùng nhân viên đi một vòng quanh xe, so với tình trạng lúc nhận. Nếu có điểm mới phát sinh trong tuần, cứ nói thẳng, kèm ảnh và hoàn cảnh xảy ra.
 
-Tiếp theo là phần quyết toán đã hỏi trong tin nhắn. Hãy để tiệm nói lại cách tính, đối chiếu với điều đã thống nhất, và hỏi ngay nếu có gì chưa khớp. Khi nhận lại giấy tờ hay khoản cọc, kiểm đủ tại chỗ rồi mới rời đi. Cuối cùng, xin một biên nhận hoặc một tin nhắn xác nhận đã nhận xe và đã quyết toán xong. Các bước trả xe nói chung có trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/).
+Tiếp theo là phần quyết toán đã hỏi trong tin nhắn. Hãy để tiệm nói lại cách tính, đối chiếu với điều đã thống nhất, và hỏi ngay nếu có gì chưa khớp. Khi nhận lại giấy tờ hay khoản cọc, kiểm đủ tại chỗ rồi mới rời đi. Cuối cùng, xin một biên nhận hoặc một tin nhắn xác nhận đã nhận xe và đã quyết toán xong. Các bước trả xe nói chung có trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/).
 
 ## Tóm lại
 

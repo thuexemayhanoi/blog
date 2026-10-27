@@ -64,7 +64,7 @@ Kính râm, khăn giấy, chai nước dở. Túi nilon treo ở móc cả tuầ
 
 Ngược lại, đối chiếu đủ đồ tiệm đã giao: chìa khóa, mũ bảo hiểm, áo mưa, giấy tờ xe nếu có. Nếu trong tuần bạn xin thêm dây chằng hay giá điện thoại, gom lại một chỗ để giao tận tay.
 
-Lỡ về rồi mới nhớ ra món đồ, xem bài [để quên đồ trên xe thuê đã trả](/thue-xe/2026/10/10/e-quen-o-tren-xe-thue-a-tra-xu-ly-the-nao/).
+Lỡ về rồi mới nhớ ra món đồ, xem bài [để quên đồ trên xe thuê đã trả](/thue-xe/2026/10/10/de-quen-do-tren-xe-thue-da-tra-xu-ly-the-nao/).
 
 ## Kiểm tra trước khi trả xe máy: những điều nên nói ra
 

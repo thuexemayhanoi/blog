@@ -41,7 +41,7 @@ Vào mùa hanh khô, đường đất ven các dự án lớn như những đo�
 
 ### Đường lầy sau mưa
 
-Sau một trận mưa, đất sét trên công trường dính vào lốp, lấp kín gai lốp và biến bánh xe thành một khối trơn. Nếu phải đi qua đoạn lầy, về số thấp, giữ ga nhẹ và đều, không chống chân lúc xe đang trôi. Đoạn nào nhìn thấy nước đọng sâu, hãy dắt bộ hoặc tìm đường khác. Cách xử lý khi xe đã kẹt bùn có trong bài [bánh xe sa lầy trên đường đất sau mưa](/thue-xe/2026/10/11/banh-xe-sa-lay-tren-uong-at-sau-mua-o-vung-ven-ay-ra-sao-cho-khoi-o/).
+Sau một trận mưa, đất sét trên công trường dính vào lốp, lấp kín gai lốp và biến bánh xe thành một khối trơn. Nếu phải đi qua đoạn lầy, về số thấp, giữ ga nhẹ và đều, không chống chân lúc xe đang trôi. Đoạn nào nhìn thấy nước đọng sâu, hãy dắt bộ hoặc tìm đường khác. Cách xử lý khi xe đã kẹt bùn có trong bài [bánh xe sa lầy trên đường đất sau mưa](/thue-xe/2026/10/11/banh-xe-sa-lay-tren-duong-dat-sau-mua-o-vung-ven-day-ra-sao-cho-khoi-do/).
 
 ### Ổ gà, tấm thép và đá văng
 
@@ -69,7 +69,7 @@ Xe đi công trường cần được chăm kỹ hơn xe đi phố. Đó không 
 - Xích và nhông với xe số: xích có khô, kêu hay chùng quá.
 - Đèn, còi, xi nhan còn hoạt động; ốc chắn bùn không bị lỏng vì rung.
 
-Đi nhiều đường bụi, lọc gió bẩn nhanh hơn bình thường. Khi chốt lịch bảo dưỡng với tiệm, hãy nói rõ bạn đi công trường để được kiểm tra lọc gió và dầu máy sớm hơn. Trước khi trả xe hoặc khi gia hạn, hãy lau sạch và chụp ảnh như hướng dẫn trong bài [xe lấm bùn bụi sau chuyến đi ngoại thành](/thue-xe/2026/10/12/xe-lam-bun-bui-sau-chuyen-i-ngoai-thanh-lau-so-va-chup-anh-truoc-khi-tra/).
+Đi nhiều đường bụi, lọc gió bẩn nhanh hơn bình thường. Khi chốt lịch bảo dưỡng với tiệm, hãy nói rõ bạn đi công trường để được kiểm tra lọc gió và dầu máy sớm hơn. Trước khi trả xe hoặc khi gia hạn, hãy lau sạch và chụp ảnh như hướng dẫn trong bài [xe lấm bùn bụi sau chuyến đi ngoại thành](/thue-xe/2026/10/12/xe-lam-bun-bui-sau-chuyen-di-ngoai-thanh-lau-so-va-chup-anh-truoc-khi-tra/).
 
 ## Khi nào báo cửa hàng
 

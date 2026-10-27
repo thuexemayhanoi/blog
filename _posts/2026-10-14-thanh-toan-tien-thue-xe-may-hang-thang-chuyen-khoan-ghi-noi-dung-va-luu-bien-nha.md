@@ -25,7 +25,7 @@ Thuê xe dài hạn ở Hà Nội thì chuyện thanh toán tiền thuê xe máy
 - **Trả trước hay trả sau mỗi kỳ.** Thông thường tiền thuê tháng được trả khi bắt đầu kỳ, nhưng hãy để cửa hàng nói rõ và ghi vào hợp đồng.
 - **Trả bằng cách nào.** Chuyển khoản, tiền mặt tại cửa hàng, hay cả hai đều được.
 
-Mức giá tháng của từng dòng xe nên đối chiếu với [bảng giá](/bang-gia/) và chốt bằng chữ trong hợp đồng ngay từ đầu, để kỳ nào cũng trả cùng một con số đã thống nhất. Những điều khoản khác nên có trong giấy tờ thuê tháng được tổng hợp ở bài [hợp đồng thuê xe máy theo tháng: điều khoản nên có](/thue-xe/2026/10/11/hop-ong-thue-xe-may-theo-thang-ieu-khoan-nen-co/).
+Mức giá tháng của từng dòng xe nên đối chiếu với [bảng giá](/bang-gia/) và chốt bằng chữ trong hợp đồng ngay từ đầu, để kỳ nào cũng trả cùng một con số đã thống nhất. Những điều khoản khác nên có trong giấy tờ thuê tháng được tổng hợp ở bài [hợp đồng thuê xe máy theo tháng: điều khoản nên có](/thue-xe/2026/10/11/hop-dong-thue-xe-may-theo-thang-dieu-khoan-nen-co/).
 
 Sau khi chốt, đặt một lời nhắc lặp lại trên điện thoại sớm hơn mốc trả một hai ngày. Người đi làm ở Cầu Giấy mà nhận xe bên Long Biên thường không tiện ghé cửa hàng, nên lời nhắc này rất đáng đặt.
 
@@ -74,7 +74,7 @@ Gia hạn là lúc dễ hiểu lầm nhất, nên hãy làm theo thứ tự:
 - Nếu đổi xe giữa chừng, ví dụ từ xe số sang xe ga, ghi rõ kỳ mới áp dụng cho xe nào, biển số nào.
 - Tiền cọc là khoản riêng, giữ nguyên theo thỏa thuận ban đầu, không trừ vào tiền thuê trừ khi hai bên đã thống nhất rõ.
 
-Quy trình gia hạn đầy đủ được nói trong bài [gia hạn hợp đồng thuê xe theo tháng](/thue-xe/2026/09/27/gia-han-hop-ong-thue-xe-theo-thang/).
+Quy trình gia hạn đầy đủ được nói trong bài [gia hạn hợp đồng thuê xe theo tháng](/thue-xe/2026/09/27/gia-han-hop-dong-thue-xe-theo-thang/).
 
 ## Chuyển nhầm, chuyển thiếu hoặc lỡ hạn: xử lý thế nào
 

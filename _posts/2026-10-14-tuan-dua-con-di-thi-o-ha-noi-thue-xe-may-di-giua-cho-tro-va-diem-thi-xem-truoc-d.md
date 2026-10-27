@@ -79,6 +79,6 @@ Chiều về, nếu được thì ngồi lại quán chờ qua giờ tan tầm, 
 
 Khi kỳ thi kết thúc sớm hơn dự tính, hoặc ngược lại con phải ở lại thêm vài hôm, hãy báo tiệm sớm để cùng chốt lại thời gian trả xe. Ngày trả xe, đổ xăng như lúc nhận, lau sơ yên xe và kiểm lại đồ để quên trong cốp, đặc biệt là giấy tờ của con. Trả xe trong giờ hoạt động của tiệm, nhận lại giấy tờ đã gửi và kiểm biên nhận trước khi ra về.
 
-Nếu cần thêm gợi ý về chuyện chọn xe êm và giữ bình tĩnh trong một ngày thi chuyển cấp, xem bài [thuê xe máy cho người đưa đón con thi chuyển cấp](/thue-xe/2026/10/04/thue-xe-may-cho-nguoi-ua-on-con-thi-chuyen-cap/).
+Nếu cần thêm gợi ý về chuyện chọn xe êm và giữ bình tĩnh trong một ngày thi chuyển cấp, xem bài [thuê xe máy cho người đưa đón con thi chuyển cấp](/thue-xe/2026/10/04/thue-xe-may-cho-nguoi-dua-don-con-thi-chuyen-cap/).
 
 Tóm lại, một tuần đưa con đi thi suôn sẻ hay không phụ thuộc phần lớn vào hai ngày đầu: nhận xe sớm, chạy thử đúng khung giờ, có tuyến dự phòng và chỗ gửi xe quen. Các bài khác về gói tuần nằm ở mục [thuê xe theo tuần](/thue-xe/thue-tuan/), còn toàn bộ kinh nghiệm thuê xe ở Hà Nội được gom trong chuyên mục [thuê xe](/thue-xe/).

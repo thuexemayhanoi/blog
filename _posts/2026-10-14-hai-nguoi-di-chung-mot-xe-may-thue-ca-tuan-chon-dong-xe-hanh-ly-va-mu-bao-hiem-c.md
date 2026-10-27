@@ -45,7 +45,7 @@ Một tuần thế nào cũng có ngày mua gốm ở Bát Tràng hay túi trái
 
 ## Mũ bảo hiểm cho cả hai: thử kỹ ngày đầu, giữ gìn cả tuần
 
-Mũ là thứ hai người dùng nhiều giờ nhất trong tuần, nên đừng nhận vội. Lúc nhận xe, mỗi người đội thử mũ của mình, cài quai, lắc đầu qua lại. Mũ vừa là mũ không xoay khi lắc và quai cài sát cằm mà vẫn nói chuyện được. Nếu chật hay rộng, xin đổi ngay tại tiệm, vì sang ngày thứ ba mới thấy đau đầu thì đã muộn. Về tiêu chuẩn mũ, xem thêm bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/).
+Mũ là thứ hai người dùng nhiều giờ nhất trong tuần, nên đừng nhận vội. Lúc nhận xe, mỗi người đội thử mũ của mình, cài quai, lắc đầu qua lại. Mũ vừa là mũ không xoay khi lắc và quai cài sát cằm mà vẫn nói chuyện được. Nếu chật hay rộng, xin đổi ngay tại tiệm, vì sang ngày thứ ba mới thấy đau đầu thì đã muộn. Về tiêu chuẩn mũ, xem thêm bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-khi-di-xe-may-chuan-nao/).
 
 Giữ hai chiếc mũ cả tuần cần vài thói quen nhỏ:
 

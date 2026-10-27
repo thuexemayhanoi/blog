@@ -68,7 +68,7 @@ Nếu một trong hai người mới quay lại lái xe sau thời gian dài, h�
 Một ngày dài trên một chiếc xe mệt hơn tưởng tượng, nhất là với người ngồi sau.
 
 - **Dừng nghỉ đều.** Sau mỗi quãng chạy chừng một giờ, dừng lại vài phút để duỗi chân, đi lại. Người sau thường tê đùi trước người lái.
-- **Người sau ngồi đúng tư thế.** Ngồi thẳng, hai chân đặt trên gác chân, nghiêng theo người lái khi vào cua chứ không ngả ngược. Cách ngồi sau an toàn được nói kỹ trong bài về [chở người trên xe máy và quy định hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/).
+- **Người sau ngồi đúng tư thế.** Ngồi thẳng, hai chân đặt trên gác chân, nghiêng theo người lái khi vào cua chứ không ngả ngược. Cách ngồi sau an toàn được nói kỹ trong bài về [chở người trên xe máy và quy định hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-dinh-hien-hanh/).
 - **Hai mũ bảo hiểm cài quai.** Xin đủ hai mũ vừa đầu và thử khóa quai cả hai chiếc.
 - **Ăn uống đúng bữa.** Người lái đói hay khát sẽ phản xạ chậm, mà chở thêm một người thì quãng phanh dài hơn lúc đi một mình.
 

@@ -74,7 +74,7 @@ Ngay cả ngày thường, chạy trong phố cổ cần nhịp khác ngoài đ�
 
 ### Cầu Long Biên
 
-Cầu sắt cũ chỉ dành cho xe máy, xe đạp và người đi bộ, không có ô tô. Lối lên cầu ở khu vực Hàng Đậu, gần đường Trần Nhật Duật. Trên cầu, xe máy đi bên trái, ngược với thói quen thường ngày, nên lần đầu hãy đi chậm và bám theo dòng xe. Mặt cầu hẹp, có đoạn gồ ghề, không hợp để vượt. Sang tới bờ kia là khu Ngọc Thụy, Bồ Đề, tiện đi tiếp lên đê hoặc ra chợ Long Biên. Trải nghiệm chạy trên cầu được kể chi tiết trong bài [cầu Long Biên và đường ven sông](/du-lich/2026/09/28/cau-long-bien-va-uong-ven-song-trai-nghiem-i-xe-may/).
+Cầu sắt cũ chỉ dành cho xe máy, xe đạp và người đi bộ, không có ô tô. Lối lên cầu ở khu vực Hàng Đậu, gần đường Trần Nhật Duật. Trên cầu, xe máy đi bên trái, ngược với thói quen thường ngày, nên lần đầu hãy đi chậm và bám theo dòng xe. Mặt cầu hẹp, có đoạn gồ ghề, không hợp để vượt. Sang tới bờ kia là khu Ngọc Thụy, Bồ Đề, tiện đi tiếp lên đê hoặc ra chợ Long Biên. Trải nghiệm chạy trên cầu được kể chi tiết trong bài [cầu Long Biên và đường ven sông](/du-lich/2026/09/28/cau-long-bien-va-duong-ven-song-trai-nghiem-di-xe-may/).
 
 ### Cầu Chương Dương
 

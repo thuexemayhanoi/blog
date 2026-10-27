@@ -59,7 +59,7 @@ Tám tiếng ở văn phòng là tám tiếng xe đứng một chỗ. Chọn ch�
 
 **Bãi có mái che hoặc có cây** là lựa chọn thứ hai. Để ý hướng nắng: bóng cây buổi sáng có thể biến mất lúc hai giờ chiều. Nếu được, chọn chỗ có bóng râm vào buổi chiều chứ không phải buổi sáng.
 
-**Vỉa hè trước cơ quan** là lựa chọn cuối cùng. Nếu buộc phải để ngoài trời, dựng xe sao cho yên quay khỏi hướng nắng chiều, phủ một tấm che yên mỏng, và đừng để gì dễ hỏng trong cốp. Danh sách đồ không nên để lại có trong bài [đồ không nên để trong cốp xe ga khi đỗ nắng nóng](/xe-may/2026/10/11/o-khong-nen-e-trong-cop-xe-ga-khi-o-nang-nong/).
+**Vỉa hè trước cơ quan** là lựa chọn cuối cùng. Nếu buộc phải để ngoài trời, dựng xe sao cho yên quay khỏi hướng nắng chiều, phủ một tấm che yên mỏng, và đừng để gì dễ hỏng trong cốp. Danh sách đồ không nên để lại có trong bài [đồ không nên để trong cốp xe ga khi đỗ nắng nóng](/xe-may/2026/10/11/do-khong-nen-de-trong-cop-xe-ga-khi-do-nang-nong/).
 
 Một chi tiết nhỏ: giờ nghỉ trưa đi ăn gần cơ quan, nếu quán chỉ cách vài trăm mét thì đi bộ còn hơn dắt xe ra khỏi bãi rồi lại tìm chỗ đỗ dưới nắng.
 
@@ -67,7 +67,7 @@ Một chi tiết nhỏ: giờ nghỉ trưa đi ăn gần cơ quan, nếu quán c
 
 Lúc tan làm, nếu xe đỗ ngoài trời, đừng vội ngồi xuống. Mở tấm che yên, sờ thử yên và tay lái trước. Nếu nóng, dắt xe vào chỗ có bóng râm, mở cốp vài phút cho hơi nóng thoát ra trong lúc bạn mặc áo chống nắng, đeo găng.
 
-Chọn giờ về cũng giúp nhiều. Về sớm hơn hay muộn hơn mười lăm, hai mươi phút có thể tránh được đỉnh kẹt xe, nghĩa là ít thời gian đứng giữa dòng xe nóng hừng hực. Gợi ý cụ thể về giờ xuất phát có trong bài [giờ cao điểm Hà Nội: chọn giờ và đường đi](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/).
+Chọn giờ về cũng giúp nhiều. Về sớm hơn hay muộn hơn mười lăm, hai mươi phút có thể tránh được đỉnh kẹt xe, nghĩa là ít thời gian đứng giữa dòng xe nóng hừng hực. Gợi ý cụ thể về giờ xuất phát có trong bài [giờ cao điểm Hà Nội: chọn giờ và đường đi](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/).
 
 Trên đường về, ưu tiên những đoạn có cây hai bên. Đường Hoàng Diệu, Phan Đình Phùng ở Ba Đình hay các tuyến ven hồ Tây mát hơn hẳn những trục rộng không bóng cây, dù có thể dài hơn một chút.
 

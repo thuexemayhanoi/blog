@@ -42,7 +42,7 @@ Nếu chỉ muốn đi nhẹ hơn, có thể bỏ chặng Sơn La và ở Mộc 
 - **Ngày nghỉ cũng là ngày dự phòng.** Nếu trời mưa to ngày 3, bạn ở lại Mai Châu thêm, rồi gộp ngày 4 vào ngày 3 khi tạnh.
 - **Chặng về không đặt sau một đêm ngủ kém.** Đêm áp chót nên ngủ ở chỗ quen, gần đường lớn, như Mộc Châu, thay vì một homestay xa trong bản.
 
-Muốn so sánh lịch này với một chuyến ngắn hơn, có thể xem bài [thuê xe máy đi Mai Châu cuối tuần](/cung-duong/2026/10/07/thue-xe-may-i-mai-chau-cuoi-tuan-lich-trinh-goi-y/), sẽ thấy rõ một tuần cho phép thong thả hơn ở đâu.
+Muốn so sánh lịch này với một chuyến ngắn hơn, có thể xem bài [thuê xe máy đi Mai Châu cuối tuần](/cung-duong/2026/10/07/thue-xe-may-di-mai-chau-cuoi-tuan-lich-trinh-goi-y/), sẽ thấy rõ một tuần cho phép thong thả hơn ở đâu.
 
 ## Những đoạn đèo dốc trên vòng Tây Bắc cần chú ý
 
@@ -50,11 +50,11 @@ Phượt Tây Bắc xe thuê không cần kỹ năng đặc biệt, nhưng có v
 
 ### Đèo Thung Khe
 
-Đây là con đèo đầu tiên bạn gặp, ngay ngày thứ nhất khi tay lái còn chưa quen xe. Đường uốn lượn, hay có sương vào sáng sớm và chiều muộn, xe tải lên xuống thường xuyên. Bài [đi Mai Châu qua đèo Thung Khe](/cung-duong/2026/10/01/i-mai-chau-qua-eo-thung-khe-chay-xe-an-toan-tren-eo/) hướng dẫn kỹ cách chạy qua đoạn này.
+Đây là con đèo đầu tiên bạn gặp, ngay ngày thứ nhất khi tay lái còn chưa quen xe. Đường uốn lượn, hay có sương vào sáng sớm và chiều muộn, xe tải lên xuống thường xuyên. Bài [đi Mai Châu qua đèo Thung Khe](/cung-duong/2026/10/01/di-mai-chau-qua-deo-thung-khe-chay-xe-an-toan-tren-deo/) hướng dẫn kỹ cách chạy qua đoạn này.
 
 ### Đường lên cao nguyên Mộc Châu
 
-Nhiều cua liên tiếp, có đoạn tầm nhìn hẹp. Lên dốc thì giữ số thấp và đều ga, xuống dốc thì dùng phanh động cơ thay vì bóp phanh liên tục. Cách vào số cho từng kiểu dốc có trong bài [đèo dốc trên đường Mộc Châu và cách vào số](/cung-duong/2026/09/28/eo-doc-tren-uong-moc-chau-va-cach-vao-so/).
+Nhiều cua liên tiếp, có đoạn tầm nhìn hẹp. Lên dốc thì giữ số thấp và đều ga, xuống dốc thì dùng phanh động cơ thay vì bóp phanh liên tục. Cách vào số cho từng kiểu dốc có trong bài [đèo dốc trên đường Mộc Châu và cách vào số](/cung-duong/2026/09/28/deo-doc-tren-duong-moc-chau-va-cach-vao-so/).
 
 ### Đèo Chiềng Đông và dốc Cò Nòi
 
@@ -75,9 +75,9 @@ Xe số giúp bạn chủ động hơn trên đèo, xe ga thì nhàn ở đoạn
 
 ## Xăng, chỗ nghỉ và hành lý cho cả tuần
 
-Trên quốc lộ 6, cây xăng khá đều ở các thị trấn như Lương Sơn, Mai Châu, Mộc Châu hay Yên Châu, nhưng giữa các đoạn đèo thì thưa hơn. Thói quen đơn giản là đổ đầy mỗi sáng trước khi rời chỗ nghỉ, và không để kim xăng xuống quá thấp trước khi vào đèo. Cách tính xăng và theo dõi lốp khi thuê xe cả tuần được gom trong bài [kế hoạch xăng và lốp cho tuần thuê xe máy đi nhiều](/thue-xe/2026/10/07/ke-hoach-xang-va-lop-cho-tuan-thue-xe-may-i-nhieu/).
+Trên quốc lộ 6, cây xăng khá đều ở các thị trấn như Lương Sơn, Mai Châu, Mộc Châu hay Yên Châu, nhưng giữa các đoạn đèo thì thưa hơn. Thói quen đơn giản là đổ đầy mỗi sáng trước khi rời chỗ nghỉ, và không để kim xăng xuống quá thấp trước khi vào đèo. Cách tính xăng và theo dõi lốp khi thuê xe cả tuần được gom trong bài [kế hoạch xăng và lốp cho tuần thuê xe máy đi nhiều](/thue-xe/2026/10/07/ke-hoach-xang-va-lop-cho-tuan-thue-xe-may-di-nhieu/).
 
-Về chỗ ngủ, Mai Châu có nhiều nhà sàn homestay trong bản, còn Mộc Châu có cả khách sạn ở thị trấn lẫn nhà nghỉ gần đồi chè. Hỏi trước chủ nhà có chỗ để xe trong nhà hoặc dưới mái che không, vì xe thuê để ngoài trời qua đêm sương ở cao nguyên dễ bị ướt yên, ướt bugi. Gợi ý khu nên ở có trong bài [chạy xe máy lên Mộc Châu nên nghỉ đêm ở đâu](/cung-duong/2026/10/05/chay-xe-may-len-moc-chau-nen-nghi-em-o-au/).
+Về chỗ ngủ, Mai Châu có nhiều nhà sàn homestay trong bản, còn Mộc Châu có cả khách sạn ở thị trấn lẫn nhà nghỉ gần đồi chè. Hỏi trước chủ nhà có chỗ để xe trong nhà hoặc dưới mái che không, vì xe thuê để ngoài trời qua đêm sương ở cao nguyên dễ bị ướt yên, ướt bugi. Gợi ý khu nên ở có trong bài [chạy xe máy lên Mộc Châu nên nghỉ đêm ở đâu](/cung-duong/2026/10/05/chay-xe-may-len-moc-chau-nen-nghi-dem-o-dau/).
 
 Hành lý cho bảy ngày nên gọn trong một ba lô chống nước và một túi buộc yên sau. Đừng treo túi nặng ở móc trước xe ga khi đi đèo, vì túi đung đưa làm tay lái nặng ở các cua liên tiếp. Áo mưa bộ, áo khoác giữ ấm cho buổi sáng trên cao nguyên và găng tay là ba món nên có sẵn ngay cả khi dự báo trời đẹp.
 

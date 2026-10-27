@@ -41,7 +41,7 @@ Hợp với người ở quanh Trung Hòa, Nhân Chính, cần vào Đống Đa,
 
 Hợp với người cần lên Tây Hồ, phố Thụy Khuê hay khu quanh hồ. Tuyến này tránh được nút Cầu Giấy, nhưng đường Bưởi hẹp, nhiều đoạn cong và hàng quán sát lề. Đi chậm, quan sát kỹ người đi bộ băng ngang và xe máy từ ngõ nhỏ lao ra.
 
-Bài [thuê xe máy quanh Cầu Giấy đi nội thành có thuận tiện không](/thue-xe/2026/10/07/thue-xe-may-quanh-cau-giay-i-noi-thanh-co-thuan-tien-khong/) phân tích chuyện chọn điểm lấy xe; ở đây bạn đã có xe trong tay, nên việc chính là cố định một tuyến cho cả tuần.
+Bài [thuê xe máy quanh Cầu Giấy đi nội thành có thuận tiện không](/thue-xe/2026/10/07/thue-xe-may-quanh-cau-giay-di-noi-thanh-co-thuan-tien-khong/) phân tích chuyện chọn điểm lấy xe; ở đây bạn đã có xe trong tay, nên việc chính là cố định một tuyến cho cả tuần.
 
 ## Đoạn hay tắc và giờ nên tránh khi vào trung tâm
 
@@ -63,7 +63,7 @@ Một tuần đủ để bạn đi từ người lạ thành người quen đư�
 - **Ngày ba tới ngày năm:** chốt một tuyến chính và một tuyến dự phòng. Đi đều một tuyến giúp bạn nhớ làn, nhớ đèn, bớt phải nhìn bản đồ khi đang lái.
 - **Ngày sáu, bảy:** dành cho việc riêng, đi chơi Hồ Tây hay phố cổ ngoài giờ cao điểm, và kiểm tra lại xe trước ngày trả.
 
-Nếu tuần này bạn chạy nhiều, bài [kế hoạch xăng và lốp cho tuần thuê xe máy đi nhiều](/thue-xe/2026/10/07/ke-hoach-xang-va-lop-cho-tuan-thue-xe-may-i-nhieu/) giúp bạn chia lịch đổ xăng và để ý lốp mà không phải lo giữa đường.
+Nếu tuần này bạn chạy nhiều, bài [kế hoạch xăng và lốp cho tuần thuê xe máy đi nhiều](/thue-xe/2026/10/07/ke-hoach-xang-va-lop-cho-tuan-thue-xe-may-di-nhieu/) giúp bạn chia lịch đổ xăng và để ý lốp mà không phải lo giữa đường.
 
 ## Gửi xe, nhận xe và trả xe khi ở khu Cầu Giấy
 

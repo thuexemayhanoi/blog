@@ -27,7 +27,7 @@ Việc đầu tiên không phải tìm chỗ gửi mà là nhắn cho tiệm. H�
 
 Mỗi tiệm có cách xử lý riêng cho chuyện tạm vắng, nên đừng đoán trước là được hay không. Hỏi rõ trực tiếp, rồi giữ lại tin nhắn trả lời làm căn cứ. Nếu chuyến đi kéo dài gần hết kỳ thuê còn lại, đây cũng là lúc bàn chuyện gia hạn hay kết thúc hợp đồng cho hợp lý.
 
-Nếu bạn là người mới tới Hà Nội công tác và đang cân nhắc thuê xe cho cả chuyến, bài [thuê xe máy theo tuần khi đi công tác dài ngày](/thue-xe/2026/10/10/thue-xe-may-theo-tuan-khi-i-cong-tac-dai-ngay/) phù hợp hơn. Bài này dành cho tình huống ngược lại: bạn sống ở Hà Nội, đang thuê tháng, và phải rời thành phố một thời gian.
+Nếu bạn là người mới tới Hà Nội công tác và đang cân nhắc thuê xe cho cả chuyến, bài [thuê xe máy theo tuần khi đi công tác dài ngày](/thue-xe/2026/10/10/thue-xe-may-theo-tuan-khi-di-cong-tac-dai-ngay/) phù hợp hơn. Bài này dành cho tình huống ngược lại: bạn sống ở Hà Nội, đang thuê tháng, và phải rời thành phố một thời gian.
 
 ## Ba lựa chọn cho chiếc xe trong những ngày vắng mặt
 
@@ -53,7 +53,7 @@ Nếu chọn để xe ở chỗ ở, vài việc nhỏ giảm rủi ro đáng k�
 4. **Che bạt nhẹ nếu để ngoài trời.** Che giúp đỡ bụi và nắng, đồng thời làm xe kín đáo hơn.
 5. **Nhờ một người tin cậy để ý.** Chủ nhà, bảo vệ tòa nhà hoặc đồng nghiệp ở gần, nhắn họ khi bạn đi và khi bạn về.
 
-Nếu đang để xe ở chung cư, bài [gửi xe máy thuê ở chung cư có cần báo chủ xe không](/ky-nang/2026/10/05/gui-xe-may-thue-o-chung-cu-co-can-bao-chu-xe-khong/) nói kỹ hơn về thẻ gửi xe và quy định của ban quản lý. Cách chọn khóa và chỗ dựng xe chống trộm có trong bài [chống trộm xe máy khi thuê](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/).
+Nếu đang để xe ở chung cư, bài [gửi xe máy thuê ở chung cư có cần báo chủ xe không](/ky-nang/2026/10/05/gui-xe-may-thue-o-chung-cu-co-can-bao-chu-xe-khong/) nói kỹ hơn về thẻ gửi xe và quy định của ban quản lý. Cách chọn khóa và chỗ dựng xe chống trộm có trong bài [chống trộm xe máy khi thuê](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/).
 
 ## Gửi xe máy dài ngày ở bãi: những gì cần hỏi
 
@@ -81,6 +81,6 @@ Không tự tháo dây ắc quy hay can thiệp vào hệ thống điện của 
 
 Đừng nổ máy rồi phóng đi ngay. Đi một vòng quanh xe: lốp có xẹp không, có vết lạ hay phụ tùng nào bị tháo không, gương và đèn còn nguyên không. Nổ máy, để chạy không tải một lúc, bóp thử phanh trước và sau, bật xi nhan, còi, đèn pha. Lần đầu ra đường, chạy chậm vài trăm mét ở đoạn vắng trước khi hòa vào dòng xe giờ cao điểm trên cầu Chương Dương hay Nguyễn Văn Cừ.
 
-Nếu xe không nổ, đừng đạp liên tục hay mang đi sửa tùy tiện. Nhắn tiệm mô tả tình trạng, vì xe thuê nên được xử lý theo hướng dẫn của chủ xe. Bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/) có các bước nhận biết ban đầu. Nếu phát hiện xe bị mất phụ tùng hoặc trầy xước trong thời gian gửi, chụp ảnh và báo tiệm ngay, đừng để đến cuối kỳ mới nói.
+Nếu xe không nổ, đừng đạp liên tục hay mang đi sửa tùy tiện. Nhắn tiệm mô tả tình trạng, vì xe thuê nên được xử lý theo hướng dẫn của chủ xe. Bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/) có các bước nhận biết ban đầu. Nếu phát hiện xe bị mất phụ tùng hoặc trầy xước trong thời gian gửi, chụp ảnh và báo tiệm ngay, đừng để đến cuối kỳ mới nói.
 
 Chuyến công tác không nên trở thành nỗi lo về chiếc xe ở nhà. Báo tiệm trước, chọn chỗ để an toàn, chuẩn bị xe đúng cách và kiểm tra kỹ khi về là đủ. Các tình huống khác của người dùng xe dài ngày nằm ở mục [thuê xe theo tháng](/thue-xe/thue-thang/), còn thông tin chung về dịch vụ ở chuyên mục [thuê xe máy](/thue-xe/).

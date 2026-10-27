@@ -36,7 +36,7 @@ Không phải lần nào remote xe ga không nhận cũng do pin. Trước khi k
 
 1. **Remote nằm chung với điện thoại, sạc dự phòng hay chùm chìa kim loại.** Rút remote ra cầm tay, đưa gần núm vặn rồi thử.
 2. **Remote nằm trong cốp hoặc trong túi người ngồi sau đã xuống xe.** Hay gặp với các cặp dùng chung một chiếc.
-3. **Ắc quy xe yếu chứ không phải remote.** Nếu đèn đồng hồ mờ, còi yếu, đề không lên dù núm đã mở, vấn đề nằm ở xe. Phần này được nói kỹ trong bài [xe ga không đề được buổi sáng](/thue-xe/2026/10/11/xe-ga-khong-e-uoc-buoi-sang-ac-quy-yeu-bugi-hay-do-e-lau-khong-chay/).
+3. **Ắc quy xe yếu chứ không phải remote.** Nếu đèn đồng hồ mờ, còi yếu, đề không lên dù núm đã mở, vấn đề nằm ở xe. Phần này được nói kỹ trong bài [xe ga không đề được buổi sáng](/thue-xe/2026/10/11/xe-ga-khong-de-duoc-buoi-sang-ac-quy-yeu-bugi-hay-do-de-lau-khong-chay/).
 4. **Nhiễu sóng.** Remote đôi khi chập chờn ở hầm tòa nhà văn phòng nhiều thiết bị điện. Dắt xe ra vài mét rồi thử lại.
 
 Loại trừ hết mà vẫn không được thì mới chuyển sang bước mở máy khẩn cấp.

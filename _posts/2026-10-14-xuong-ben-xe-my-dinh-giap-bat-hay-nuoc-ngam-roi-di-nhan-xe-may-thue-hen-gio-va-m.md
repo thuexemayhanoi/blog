@@ -29,7 +29,7 @@ Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, phường Bồ Đề, quậ
 
 **Bến xe Nước Ngầm** nằm xa hơn về phía nam, trên trục Ngọc Hồi, cũng thuộc quận Hoàng Mai. Từ đây có thể vòng lên đường Vành đai 3 qua cầu Thanh Trì sang phía Long Biên, hoặc đi ngược lên Giải Phóng rồi qua cầu Vĩnh Tuy. Đường xa nhưng bớt đèn đỏ hơn, phụ thuộc nhiều vào giờ trong ngày.
 
-Người từ các tỉnh phía đông bắc thường xuống bến xe Gia Lâm, cùng quận với tiệm, nên chặng nối rất ngắn. Trường hợp này xem thêm bài [xuống xe khách ở bến xe Gia Lâm rồi đi tiếp bằng xe máy](/du-lich/2026/10/11/xuong-xe-khach-o-ben-xe-gia-lam-roi-i-tiep-bang-xe-may-ve-noi-o/).
+Người từ các tỉnh phía đông bắc thường xuống bến xe Gia Lâm, cùng quận với tiệm, nên chặng nối rất ngắn. Trường hợp này xem thêm bài [xuống xe khách ở bến xe Gia Lâm rồi đi tiếp bằng xe máy](/du-lich/2026/10/11/xuong-xe-khach-o-ben-xe-gia-lam-roi-di-tiep-bang-xe-may-ve-noi-do/).
 
 ## Tính giờ hẹn trong khung 09:00–21:00
 
