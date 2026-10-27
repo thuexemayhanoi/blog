@@ -31,7 +31,7 @@ Ba điểm cần đọc kỹ:
 2. **Luật dùng cụm "trong cơ thể có"**, không đặt mức nào được phép.
 3. **Phạm vi gồm cả chất kích thích khác mà pháp luật cấm sử dụng.**
 
-Khoản 2 ngay trước đó cấm lái khi trong máu hoặc hơi thở có nồng độ cồn; phần này có ở bài [nồng độ cồn khi lái xe máy](/an-toan-phap-ly/2026/09/28/nong-o-con-khi-lai-xe-may-quy-inh-hien-hanh-can-nguon-chinh-thong/).
+Khoản 2 ngay trước đó cấm lái khi trong máu hoặc hơi thở có nồng độ cồn; phần này có ở bài [nồng độ cồn khi lái xe máy](/an-toan-phap-ly/2026/09/28/nong-do-con-khi-lai-xe-may-quy-dinh-hien-hanh-can-nguon-chinh-thong/).
 
 ## Kiểm tra ma túy người lái xe: căn cứ để dừng xe
 
@@ -75,6 +75,6 @@ Cách đọc hiệu lệnh dừng xe được giải thích ở bài [hiệu l�
 ## Nguồn tham khảo
 
 - Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15: [văn bản trên Cổng Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=211194); bản hợp nhất [55/VBHN-VPQH](https://vanban.chinhphu.vn/?docid=217295&pageid=27160). Đã đối chiếu nguyên văn Điều 2, khoản 2, 3, 4 Điều 9, Điều 65, Điều 66, Điều 72, Điều 73, khoản 3 Điều 81, khoản 2 Điều 83 và khoản 1 Điều 88.
-- Nghị định 168/2024/NĐ-CP về xử phạt: [văn bản trên Cổng Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2). Cách đọc khung xử phạt có ở bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-inh-xu-phat-vi-pham-giao-thong-xe-may/).
+- Nghị định 168/2024/NĐ-CP về xử phạt: [văn bản trên Cổng Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2). Cách đọc khung xử phạt có ở bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-dinh-xu-phat-vi-pham-giao-thong-xe-may/).
 
 Tóm lại: không lái khi trong người có chất cấm, và khi được yêu cầu kiểm tra thì chấp hành, hỏi rõ căn cứ, giữ quyền giải trình. Các bài khác nằm trong mục [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/) và chuyên đề [an toàn và pháp lý](/an-toan-phap-ly/).

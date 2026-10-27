@@ -64,7 +64,7 @@ Xem hầu có thể kéo dài nhiều giờ, nên:
 - Chọn bãi có người trông và vé, hỏi bãi giữ xe tới mấy giờ.
 - Nhớ vị trí xe, cất mũ bảo hiểm vào cốp hoặc mang theo.
 
-Đường vào và chỗ gửi xe ngày thường có ở bài [đến Phủ Tây Hồ bằng xe máy](/du-lich/2026/10/04/en-phu-tay-ho-bang-xe-may-gui-xe-va-uong-i/ "Đến Phủ Tây Hồ bằng xe máy: gửi xe và đường đi").
+Đường vào và chỗ gửi xe ngày thường có ở bài [đến Phủ Tây Hồ bằng xe máy](/du-lich/2026/10/04/den-phu-tay-ho-bang-xe-may-gui-xe-va-duong-di/ "Đến Phủ Tây Hồ bằng xe máy: gửi xe và đường đi").
 
 ## Câu hỏi thường gặp
 

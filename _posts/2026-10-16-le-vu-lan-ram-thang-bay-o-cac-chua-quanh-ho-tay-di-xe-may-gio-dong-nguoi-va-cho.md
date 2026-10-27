@@ -37,15 +37,15 @@ Vì cả tháng đều là mùa Vu Lan, bạn không nhất thiết phải đi �
 - **Ngày thường trong tháng Bảy:** thưa người hơn, hợp đi cùng người lớn tuổi, trẻ nhỏ.
 - **Buổi sáng sớm:** mát, chưa đông, dễ tìm chỗ để xe.
 
-Lịch tụng kinh, cầu siêu, nghi thức bông hồng cài áo ở mỗi chùa khác nhau và đổi theo từng năm, nên xem thông báo của chùa trước khi đi. Gợi ý chọn đi sáng hay chiều có ở bài [đi lễ chùa ngày rằm, mùng một ở Hà Nội bằng xe máy thuê](/thue-xe/2026/10/11/i-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-i-sang-hay-chieu/ "Đi lễ chùa ngày rằm, mùng một bằng xe máy thuê").
+Lịch tụng kinh, cầu siêu, nghi thức bông hồng cài áo ở mỗi chùa khác nhau và đổi theo từng năm, nên xem thông báo của chùa trước khi đi. Gợi ý chọn đi sáng hay chiều có ở bài [đi lễ chùa ngày rằm, mùng một ở Hà Nội bằng xe máy thuê](/thue-xe/2026/10/11/di-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-di-sang-hay-chieu/ "Đi lễ chùa ngày rằm, mùng một bằng xe máy thuê").
 
 ## Ba ngôi chùa quanh hồ dễ nối trong một buổi
 
-**Chùa Trấn Quốc** nằm trên đường Thanh Niên, phía Hồ Tây, nay thuộc phường Tây Hồ. Đường Thanh Niên vốn đông, ngày lễ càng đông; không dừng xe giữa đường để thả người. Năm 2019, theo báo Người Hà Nội, người đi lễ dịp Vu Lan được lưu ý không nên vào các gian nội điện khi đang tụng kinh, nhưng vẫn có thể đứng bên ngoài. Đường đi và chỗ gửi xe có ở bài [ghé chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i/ "Ghé chùa Trấn Quốc bằng xe máy: gửi xe và đường đi").
+**Chùa Trấn Quốc** nằm trên đường Thanh Niên, phía Hồ Tây, nay thuộc phường Tây Hồ. Đường Thanh Niên vốn đông, ngày lễ càng đông; không dừng xe giữa đường để thả người. Năm 2019, theo báo Người Hà Nội, người đi lễ dịp Vu Lan được lưu ý không nên vào các gian nội điện khi đang tụng kinh, nhưng vẫn có thể đứng bên ngoài. Đường đi và chỗ gửi xe có ở bài [ghé chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-duong-di/ "Ghé chùa Trấn Quốc bằng xe máy: gửi xe và đường đi").
 
 **Chùa Kim Liên** ở thôn Nghi Tàm, gần đường Âu Cơ, là di tích quốc gia, nay thuộc phường Tây Hồ. Đường vào chùa nhỏ, nên đi chậm và gửi xe theo hướng dẫn. Cách ghé chùa có ở bài [chùa Kim Liên và chùa Tứ Liên bên đường Âu Cơ](/du-lich/2026/10/13/chua-kim-lien-va-chua-tu-lien-ben-duong-au-co-ghe-ca-hai-trong-mot-buoi-sang/ "Chùa Kim Liên và chùa Tứ Liên bên đường Âu Cơ").
 
-**Chùa Vạn Niên** trên đường Lạc Long Quân, nay cũng thuộc phường Tây Hồ, nằm phía tây hồ. Giờ lễ và chỗ gửi xe có ở bài [đến chùa Vạn Niên ven hồ Tây bằng xe máy](/du-lich/2026/10/04/en-chua-van-nien-ven-ho-tay-bang-xe-may-gui-xe-va-gio-le/ "Đến chùa Vạn Niên ven hồ Tây bằng xe máy").
+**Chùa Vạn Niên** trên đường Lạc Long Quân, nay cũng thuộc phường Tây Hồ, nằm phía tây hồ. Giờ lễ và chỗ gửi xe có ở bài [đến chùa Vạn Niên ven hồ Tây bằng xe máy](/du-lich/2026/10/04/den-chua-van-nien-ven-ho-tay-bang-xe-may-gui-xe-va-gio-le/ "Đến chùa Vạn Niên ven hồ Tây bằng xe máy").
 
 Một lộ trình gợi ý: bắt đầu ở chùa Trấn Quốc từ sáng sớm, đi theo Yên Phụ, Nghi Tàm tới chùa Kim Liên, rồi vòng qua phía bắc hồ sang đường Lạc Long Quân viếng chùa Vạn Niên. Đi ngược lại cũng được, miễn là tới chùa đông nhất vào lúc sớm nhất.
 

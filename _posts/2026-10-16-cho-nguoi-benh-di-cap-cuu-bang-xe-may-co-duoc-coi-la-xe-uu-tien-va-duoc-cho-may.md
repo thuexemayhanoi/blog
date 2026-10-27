@@ -41,7 +41,7 @@ Hiểu theo câu chữ, khi chở người bệnh đi cấp cứu, bạn đượ
 
 ### Mũ bảo hiểm vẫn cần đội
 
-Khoản 2 Điều 33 viết: "Người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách." Câu chữ khoản này không có ngoại lệ riêng; phần xử phạt chi tiết do Nghị định 168/2024/NĐ-CP quy định. Thực tế, mũ là thứ bảo vệ đầu người bệnh nếu xe ngã, nên cứ đội khi người bệnh đội được. Cách chọn mũ đúng chuẩn có ở bài [mũ bảo hiểm đạt chuẩn và quy định đội mũ](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-va-quy-inh-oi-mu/).
+Khoản 2 Điều 33 viết: "Người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách." Câu chữ khoản này không có ngoại lệ riêng; phần xử phạt chi tiết do Nghị định 168/2024/NĐ-CP quy định. Thực tế, mũ là thứ bảo vệ đầu người bệnh nếu xe ngã, nên cứ đội khi người bệnh đội được. Cách chọn mũ đúng chuẩn có ở bài [mũ bảo hiểm đạt chuẩn và quy định đội mũ](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-va-quy-dinh-doi-mu/).
 
 ## Khi nào nên gọi 115 thay vì tự chở bằng xe máy
 

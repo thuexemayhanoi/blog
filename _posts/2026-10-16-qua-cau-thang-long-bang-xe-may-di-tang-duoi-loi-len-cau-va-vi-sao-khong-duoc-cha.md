@@ -45,7 +45,7 @@ Ngoài chuyện luật, mặt cầu ô tô không có chỗ cho xe máy: ô tô 
 3. **Không bám theo ô tô phía trước.** Xe con rẽ vào một nhánh dốc không có nghĩa là bạn được rẽ theo.
 4. **Giữ khoảng cách với xe tải**, vì trục này nhiều xe tải và container; xem bài [giữ khoảng cách với xe tải và xe container](/kinh%20nghi%E1%BB%87m/2026/09/19/giu-khoang-cach-voi-xe-tai-xe-container/).
 
-Kỹ năng chọn làn từ sớm có thêm trong bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/ung-lan-xe-may-khi-qua-nut-giao-lon/).
+Kỹ năng chọn làn từ sớm có thêm trong bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/dung-lan-xe-may-khi-qua-nut-giao-lon/).
 
 ## Lối lên cầu Thăng Long từ Đông Anh, Mê Linh
 
@@ -77,7 +77,7 @@ Phản xạ của nhiều người là phanh gấp rồi quay đầu, và đó l
 3. Giữ tốc độ đều, đi hết cầu theo đúng chiều xe chạy.
 4. Rời tuyến ở lối ra đầu tiên, dừng ở nơi an toàn rồi mới tìm đường quay lại.
 
-Nếu cảnh sát giao thông dừng xe, hãy hợp tác và xuất trình giấy tờ. Cách nhận biết các tuyến chỉ dành cho ô tô có thêm ở bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Nếu cảnh sát giao thông dừng xe, hãy hợp tác và xuất trình giấy tờ. Cách nhận biết các tuyến chỉ dành cho ô tô có thêm ở bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 ## Ví dụ một buổi sáng đi làm từ Đông Anh
 

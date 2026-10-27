@@ -65,7 +65,7 @@ Có những chỗ bạn nên chủ động dừng hoặc đi thật chậm để
 
 Muốn dừng ngắm hồ hay chụp ảnh, tấp hẳn vào chỗ có lề rộng, không dừng giữa lòng đường hay đè lên lối đi bộ. Trước khi dừng, bật xi nhan và nhìn gương. Khi quay lại đường, nhường người đạp xe và người chạy bộ đang tới rồi mới nhập làn.
 
-Cách tìm chỗ dừng xe hợp lệ ở một điểm chụp ảnh đông người được nói ở bài [cây cô đơn Hồ Tây: tìm đúng chỗ chụp và dừng xe không cản đường](/du-lich/2026/10/15/cay-co-don-ho-tay-tim-dung-cho-chup-anh-gio-anh-sang-dep-va-dung-xe-may-khong-ca/ "Cây cô đơn Hồ Tây: dừng xe máy không cản đường"). Nếu chính bạn ra hồ để chạy bộ, xem chỗ gửi xe ở bài [chạy bộ sáng sớm quanh Hồ Tây](/du-lich/2026/10/10/chay-bo-sang-som-quanh-ho-tay-iem-gui-xe-va-cung-uong/ "Chạy bộ sáng sớm quanh Hồ Tây: điểm gửi xe và cung đường").
+Cách tìm chỗ dừng xe hợp lệ ở một điểm chụp ảnh đông người được nói ở bài [cây cô đơn Hồ Tây: tìm đúng chỗ chụp và dừng xe không cản đường](/du-lich/2026/10/15/cay-co-don-ho-tay-tim-dung-cho-chup-anh-gio-anh-sang-dep-va-dung-xe-may-khong-ca/ "Cây cô đơn Hồ Tây: dừng xe máy không cản đường"). Nếu chính bạn ra hồ để chạy bộ, xem chỗ gửi xe ở bài [chạy bộ sáng sớm quanh Hồ Tây](/du-lich/2026/10/10/chay-bo-sang-som-quanh-ho-tay-diem-gui-xe-va-cung-duong/ "Chạy bộ sáng sớm quanh Hồ Tây: điểm gửi xe và cung đường").
 
 ## Ngày có giải chạy và đoạn đường đang thi công
 

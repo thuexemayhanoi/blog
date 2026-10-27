@@ -46,7 +46,7 @@ Theo báo Tuổi Trẻ, mỗi dịp rằm, mùng một và Tết Nguyên đán, 
 
 Ở đường Thanh Niên trước chùa Trấn Quốc, xe chạy liên tục, nên không dừng giữa lòng đường để thả người. Với Phủ Tây Hồ, đường vào chính qua phố Đặng Thai Mai đang thi công mở rộng; dịp đông như Tết 2026, khu vực từng phân luồng một chiều và bãi gửi miễn phí cách cổng hơn 1 km, theo báo Hà Nội Mới. Ngày đông như vậy, càng nên chọn ngày thường.
 
-Cách lên xuống xe để tránh bỏng có ở bài [bỏng ống xả khi đi xe số: cách lên xuống xe](/xe-may/2026/10/11/bong-ong-xa-khi-i-xe-so-cach-len-xuong-xe-va-trang-phuc-e-tranh/ "Bỏng ống xả khi đi xe số: cách lên xuống xe"), còn cách chọn xe chở người lớn tuổi có ở bài [chở bố mẹ lớn tuổi ngồi sau: nên thuê xe máy nào](/hoi-dap/2026/10/11/cho-bo-me-lon-tuoi-ngoi-sau-nen-thue-xe-may-nao-cho-em-va-de-len-xuong/ "Chở bố mẹ lớn tuổi ngồi sau: nên thuê xe máy nào").
+Cách lên xuống xe để tránh bỏng có ở bài [bỏng ống xả khi đi xe số: cách lên xuống xe](/xe-may/2026/10/11/bong-ong-xa-khi-di-xe-so-cach-len-xuong-xe-va-trang-phuc-de-tranh/ "Bỏng ống xả khi đi xe số: cách lên xuống xe"), còn cách chọn xe chở người lớn tuổi có ở bài [chở bố mẹ lớn tuổi ngồi sau: nên thuê xe máy nào](/hoi-dap/2026/10/11/cho-bo-me-lon-tuoi-ngoi-sau-nen-thue-xe-may-nao-cho-em-va-de-len-xuong/ "Chở bố mẹ lớn tuổi ngồi sau: nên thuê xe máy nào").
 
 ## Chạy xe êm cho người ngồi sau
 

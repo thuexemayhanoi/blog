@@ -74,7 +74,7 @@ Chúng tôi không thấy quy định riêng nào cho khu Hồ Tây trong luật
 
 ## Chụp ảnh ven Hồ Tây cho cả nhóm mà không chắn đường
 
-1. **Gửi xe trước, chụp sau.** Chọn điểm trông giữ xe gần đoạn định chụp rồi đi bộ ra bờ hồ. Cách chọn bãi theo từng đoạn bờ có trong bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/).
+1. **Gửi xe trước, chụp sau.** Chọn điểm trông giữ xe gần đoạn định chụp rồi đi bộ ra bờ hồ. Cách chọn bãi theo từng đoạn bờ có trong bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/).
 2. **Chỉ ghé nhanh thì nối đuôi một hàng**, sát lề phải, người lái ngồi nguyên trên xe, máy vẫn nổ; người ngồi sau xuống chụp từ vỉa hè.
 3. **Không đứng giữa lòng đường lấy góc**, kể cả lúc đường vắng.
 4. **Tránh tấp ở góc ngõ, trên vạch người đi bộ** và trước cổng chùa, khu đông người lên xuống.

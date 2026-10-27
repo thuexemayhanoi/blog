@@ -40,7 +40,7 @@ Nghị định 168/2024/NĐ-CP có chế tài với hành vi điều khiển xe 
 
 ### Lý do an toàn
 
-Làn chính có ô tô, xe khách, xe tải chạy nhanh, chênh lệch tốc độ với xe máy rất lớn. Luồng gió khi xe tải lướt qua đủ làm xe máy chao tay lái. Lọt vào đây, bạn không có chỗ dừng an toàn khi xe hỏng, còn các nhánh ra vào thiết kế cho tốc độ cao nên rất khó đổi hướng an toàn. Bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/) giải thích kỹ hơn.
+Làn chính có ô tô, xe khách, xe tải chạy nhanh, chênh lệch tốc độ với xe máy rất lớn. Luồng gió khi xe tải lướt qua đủ làm xe máy chao tay lái. Lọt vào đây, bạn không có chỗ dừng an toàn khi xe hỏng, còn các nhánh ra vào thiết kế cho tốc độ cao nên rất khó đổi hướng an toàn. Bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/) giải thích kỹ hơn.
 
 ## Nhận ra lối nhập chỉ dành cho ô tô
 
@@ -51,7 +51,7 @@ Chỗ dễ nhầm nhất là các nút giao, nơi lối lên phần đường ch
 3. Nhánh đi lên dốc, cong rộng, phía trước không còn chiếc xe máy nào.
 4. Xung quanh chỉ còn ô tô chạy nhanh.
 
-Ở đầu tuyến phía Trung Hòa còn có Vành đai 3 trên cao, cũng cấm xe máy. Đi đường dưới, giữ bên phải và tránh mọi lối lên dốc có biển cấm. Cách chọn làn sớm khi qua nút lớn có trong bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/ung-lan-xe-may-khi-qua-nut-giao-lon/).
+Ở đầu tuyến phía Trung Hòa còn có Vành đai 3 trên cao, cũng cấm xe máy. Đi đường dưới, giữ bên phải và tránh mọi lối lên dốc có biển cấm. Cách chọn làn sớm khi qua nút lớn có trong bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/dung-lan-xe-may-khi-qua-nut-giao-lon/).
 
 Trước khi đi, đặt ứng dụng bản đồ ở chế độ xe máy. Dù vậy, khi bản đồ và biển báo nói khác nhau, hãy đi theo biển.
 

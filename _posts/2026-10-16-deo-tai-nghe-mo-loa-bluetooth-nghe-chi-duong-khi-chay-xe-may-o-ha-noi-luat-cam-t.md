@@ -29,7 +29,7 @@ Câu chữ có ba yếu tố cần nắm:
 
 Điện thoại còn vướng khoản 6 Điều 9: nghiêm cấm dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác khi điều khiển phương tiện đang di chuyển. Ghép lại: tay không cầm máy, tai không dùng thiết bị âm thanh. Bài [cầm điện thoại xem tin nhắn lúc dừng chờ đèn đỏ](/an-toan-phap-ly/2026/10/16/cam-dien-thoai-xem-tin-nhan-luc-dung-cho-den-do-khi-di-xe-may-co-bi-coi-la-vi-ph/) phân tích kỹ chữ "tay cầm" và "đang di chuyển".
 
-Mức phạt tiền và trừ điểm giấy phép lái xe nằm ở Nghị định 168/2024/NĐ-CP; cách tra có trong bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-inh-xu-phat-vi-pham-giao-thong-xe-may/).
+Mức phạt tiền và trừ điểm giấy phép lái xe nằm ở Nghị định 168/2024/NĐ-CP; cách tra có trong bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-dinh-xu-phat-vi-pham-giao-thong-xe-may/).
 
 ## Tai nghe một bên, loa bluetooth trên xe máy và loa ngoài điện thoại
 

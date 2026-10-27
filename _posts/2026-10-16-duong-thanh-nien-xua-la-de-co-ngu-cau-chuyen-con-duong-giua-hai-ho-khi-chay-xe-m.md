@@ -47,7 +47,7 @@ Theo hồi ký của hai cựu cán bộ Thành đoàn Hà Nội đăng trên b�
 - **Đền Cẩu Nhi** trên một gò nhỏ giữa hồ Trúc Bạch, sát bên đường.
 - **Đền Quán Thánh** ở đầu đường phía Quán Thánh, nơi có pho tượng Huyền Thiên Trấn Vũ bằng đồng đúc năm 1677.
 
-Theo đề án cải tạo khu vực Hồ Tây, đường Thanh Niên giữ nguyên mặt cắt hiện tại, phần chỉnh trang chủ yếu ở vỉa hè và vườn hoa. Cách ghé đền Quán Thánh có ở bài [đến đền Quán Thánh bằng xe máy](/du-lich/2026/10/04/en-en-quan-thanh-bang-xe-may-gui-xe-va-uong-i/ "Đến đền Quán Thánh bằng xe máy: gửi xe và đường đi"), còn chùa Trấn Quốc ở bài [ghé chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i/ "Ghé chùa Trấn Quốc bằng xe máy").
+Theo đề án cải tạo khu vực Hồ Tây, đường Thanh Niên giữ nguyên mặt cắt hiện tại, phần chỉnh trang chủ yếu ở vỉa hè và vườn hoa. Cách ghé đền Quán Thánh có ở bài [đến đền Quán Thánh bằng xe máy](/du-lich/2026/10/04/den-den-quan-thanh-bang-xe-may-gui-xe-va-duong-di/ "Đến đền Quán Thánh bằng xe máy: gửi xe và đường đi"), còn chùa Trấn Quốc ở bài [ghé chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-duong-di/ "Ghé chùa Trấn Quốc bằng xe máy").
 
 ## Chạy xe máy qua đường Thanh Niên: vài lưu ý
 
@@ -56,7 +56,7 @@ Theo đề án cải tạo khu vực Hồ Tây, đường Thanh Niên giữ nguy
 - Để ý người đạp xe, người đi bộ băng sang mép hồ.
 - Gần cổng chùa Trấn Quốc, xe ra vào liên tục, nên giảm tốc từ xa.
 
-Vòng đi quanh hồ Trúc Bạch và chỗ gửi xe có ở bài [đi xe máy qua đường Thanh Niên và hồ Trúc Bạch](/du-lich/2026/10/04/i-xe-may-qua-uong-thanh-nien-va-ho-truc-bach-vong-i-va-gui-xe/ "Đi xe máy qua đường Thanh Niên và hồ Trúc Bạch"). Nếu muốn nghe thêm chuyện xưa quanh hồ, xem bài [truyền thuyết Hồ Tây trên đường xe chạy](/du-lich/2026/10/15/truyen-thuyet-ho-tay-tren-duong-xe-chay-trau-vang-dam-xac-cao-va-ten-duong-lac-l/ "Truyền thuyết Hồ Tây trên đường xe chạy").
+Vòng đi quanh hồ Trúc Bạch và chỗ gửi xe có ở bài [đi xe máy qua đường Thanh Niên và hồ Trúc Bạch](/du-lich/2026/10/04/di-xe-may-qua-duong-thanh-nien-va-ho-truc-bach-vong-di-va-gui-xe/ "Đi xe máy qua đường Thanh Niên và hồ Trúc Bạch"). Nếu muốn nghe thêm chuyện xưa quanh hồ, xem bài [truyền thuyết Hồ Tây trên đường xe chạy](/du-lich/2026/10/15/truyen-thuyet-ho-tay-tren-duong-xe-chay-trau-vang-dam-xac-cao-va-ten-duong-lac-l/ "Truyền thuyết Hồ Tây trên đường xe chạy").
 
 ## Câu hỏi thường gặp
 

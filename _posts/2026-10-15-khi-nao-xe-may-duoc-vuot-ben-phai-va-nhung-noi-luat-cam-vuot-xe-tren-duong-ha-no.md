@@ -81,7 +81,7 @@ Trong phố, đây là nhóm dễ vi phạm nhất, nhất là lách lên ngay m
 - Khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt.
 - Khi gặp xe ưu tiên.
 
-Mưa to, sương mù ven sông Hồng hay mặt đường trơn đều có thể thuộc trường hợp thời tiết, đường không bảo đảm an toàn. Gặp đoàn xe ưu tiên thì nhường đường, cách làm có trong bài [nhường đường cho đoàn xe ưu tiên](/an-toan-phap-ly/2026/10/10/nhuong-uong-cho-oan-xe-uu-tien-khi-i-xe-may/).
+Mưa to, sương mù ven sông Hồng hay mặt đường trơn đều có thể thuộc trường hợp thời tiết, đường không bảo đảm an toàn. Gặp đoàn xe ưu tiên thì nhường đường, cách làm có trong bài [nhường đường cho đoàn xe ưu tiên](/an-toan-phap-ly/2026/10/10/nhuong-duong-cho-doan-xe-uu-tien-khi-di-xe-may/).
 
 Ngoài mười trường hợp này còn có biển báo và vạch kẻ: biển cấm vượt, vạch liền giữa đường. Bài [biển cấm vượt trên quốc lộ ngoại thành](/an-toan-phap-ly/2026/10/16/bien-cam-vuot-tren-quoc-lo-ngoai-thanh-nguoi-di-xe-may-duoc-vuot-xe-nao-va-phai/) giải thích xe máy được vượt xe nào trong đoạn có biển, còn bài [vượt xe chậm bằng cách lấn qua vạch kẻ liền](/an-toan-phap-ly/2026/10/16/vuot-xe-cham-bang-cach-lan-qua-vach-ke-lien-giua-duong-loi-di-vao-phan-duong-ngu/) nói về lỗi lấn vạch.
 

@@ -25,7 +25,7 @@ Báo chí những năm gần đây cho thấy hai bức tranh khác nhau:
 - **Ngày 2/5/2025**, theo báo Tiền Phong, rất nhiều người đi bộ, đạp xe, đạp vịt và ngắm hoàng hôn. Ở hồ Trúc Bạch, khách xếp hàng 15 tới 30 phút để thuê đạp vịt; vỉa hè đường Thanh Niên đông từ khoảng 17 giờ.
 - **Dịp Quốc khánh 2/9/2024**, báo Tiền Phong ghi nhận hàng nghìn người tới công viên nước Hồ Tây ngay ngày nghỉ đầu tiên, càng về chiều càng đông.
 
-Khung giờ đông nhất hằng ngày là lúc hoàng hôn, khoảng 17 giờ tới 18 giờ 30, ở đường Thanh Niên và Nguyễn Đình Thi; xe chậm lại vì nhiều người dừng chụp ảnh. Cách chạy quanh hồ lúc hoàng hôn có ở bài [chạy xe quanh Hồ Tây lúc hoàng hôn](/du-lich/2026/09/30/chay-xe-quanh-ho-tay-luc-hoang-hon-cung-uong-va-an-toan/ "Chạy xe quanh Hồ Tây lúc hoàng hôn: cung đường và an toàn").
+Khung giờ đông nhất hằng ngày là lúc hoàng hôn, khoảng 17 giờ tới 18 giờ 30, ở đường Thanh Niên và Nguyễn Đình Thi; xe chậm lại vì nhiều người dừng chụp ảnh. Cách chạy quanh hồ lúc hoàng hôn có ở bài [chạy xe quanh Hồ Tây lúc hoàng hôn](/du-lich/2026/09/30/chay-xe-quanh-ho-tay-luc-hoang-hon-cung-duong-va-an-toan/ "Chạy xe quanh Hồ Tây lúc hoàng hôn: cung đường và an toàn").
 
 ## Đêm pháo hoa ở Hồ Tây
 
@@ -51,7 +51,7 @@ Vì vậy, đêm pháo hoa hãy tới trước 20 giờ, gửi xe xa hơn một 
 - Gửi ở điểm trông giữ có vé, hỏi giá trước khi dựng xe và giữ vé cẩn thận. Báo chí từng phản ánh các bãi giữ xe tự phát quanh chùa Trấn Quốc, đường Thanh Niên thu quá giá vào những dịp đông.
 - Bãi gần hồ kín thì gửi ở các phố phía trong rồi đi bộ ra, đỡ chen chúc lúc về.
 - Không dựng xe trên vỉa hè, lòng đường trái quy định; những đêm đông, lực lượng chức năng xử lý lỗi dừng đỗ sai.
-- Với các khu vui chơi như công viên nước, xem chỗ gửi xe trước ở bài [đến Công viên nước Hồ Tây bằng xe máy](/du-lich/2026/10/10/en-cong-vien-nuoc-ho-tay-bang-xe-may-gui-xe-va-uong-i/ "Đến Công viên nước Hồ Tây bằng xe máy").
+- Với các khu vui chơi như công viên nước, xem chỗ gửi xe trước ở bài [đến Công viên nước Hồ Tây bằng xe máy](/du-lich/2026/10/10/den-cong-vien-nuoc-ho-tay-bang-xe-may-gui-xe-va-duong-di/ "Đến Công viên nước Hồ Tây bằng xe máy").
 
 ## Đường vòng khi ven hồ ùn
 

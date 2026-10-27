@@ -31,7 +31,7 @@ Câu luật có ba yêu cầu gắn liền với nhau:
 2. **Chiếc mũ:** phải theo đúng quy chuẩn kỹ thuật quốc gia.
 3. **Cách đội:** phải cài quai đúng quy cách.
 
-Như vậy, đội mũ chỉ là một nửa nghĩa vụ: mũ đạt chuẩn nhưng quai buông vẫn chưa đáp ứng điều luật. Phần chọn mũ đạt chuẩn có trong bài [mũ bảo hiểm đạt chuẩn và quy định đội mũ](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-va-quy-inh-oi-mu/); bài này chỉ tập trung vào chiếc quai.
+Như vậy, đội mũ chỉ là một nửa nghĩa vụ: mũ đạt chuẩn nhưng quai buông vẫn chưa đáp ứng điều luật. Phần chọn mũ đạt chuẩn có trong bài [mũ bảo hiểm đạt chuẩn và quy định đội mũ](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-va-quy-dinh-doi-mu/); bài này chỉ tập trung vào chiếc quai.
 
 ## Không cài quai mũ bảo hiểm bị xử lý ra sao
 

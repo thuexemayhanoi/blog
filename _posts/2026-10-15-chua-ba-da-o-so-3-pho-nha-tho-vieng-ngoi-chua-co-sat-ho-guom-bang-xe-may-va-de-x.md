@@ -40,7 +40,7 @@ Nếu đi lần đầu, cách dễ nhất là gửi xe trước rồi đi bộ d
 
 Người ở bên Long Biên qua cầu Chương Dương hoặc cầu Long Biên rồi đi theo các phố ven hồ về phía Hàng Trống. Chi tiết từng hướng vào khu Nhà thờ Lớn, kể cả Ấu Triệu và Nhà Chung, đã có trong bài [Nhà thờ Lớn Hà Nội ngày thường bằng xe máy](/du-lich/2026/10/15/nha-tho-lon-ha-noi-ngay-thuong-bang-xe-may-pho-nha-tho-au-trieu-va-cho-de-xe/).
 
-Điều riêng cần lưu ý khi đi lễ chùa Bà Đá là lịch phố đi bộ. Tối cuối tuần, một số tuyến quanh Hồ Gươm cấm xe máy trong thời gian tổ chức, giờ cụ thể có thể điều chỉnh theo thông báo. Nếu bạn định đi lễ buổi tối thứ Sáu đến Chủ nhật, đọc trước bài [phố đi bộ Hồ Gươm cuối tuần xe máy gửi ở đâu](/du-lich/2026/10/09/pho-i-bo-ho-guom-cuoi-tuan-xe-may-gui-o-au/) và chọn hướng vào không cắt qua khu đi bộ.
+Điều riêng cần lưu ý khi đi lễ chùa Bà Đá là lịch phố đi bộ. Tối cuối tuần, một số tuyến quanh Hồ Gươm cấm xe máy trong thời gian tổ chức, giờ cụ thể có thể điều chỉnh theo thông báo. Nếu bạn định đi lễ buổi tối thứ Sáu đến Chủ nhật, đọc trước bài [phố đi bộ Hồ Gươm cuối tuần xe máy gửi ở đâu](/du-lich/2026/10/09/pho-di-bo-ho-guom-cuoi-tuan-xe-may-gui-o-dau/) và chọn hướng vào không cắt qua khu đi bộ.
 
 ## Để xe ở đâu khi khu Nhà thờ Lớn đông khách
 
