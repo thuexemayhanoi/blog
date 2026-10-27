@@ -28,7 +28,7 @@ Quy tắc gốc chỉ có hai chữ cái. Chữ **k** đứng sau số nghĩa l�
 
 Mẹo kiểm tra nhanh là đếm chữ số trước khi đếm tiền. Giá theo ngày cho xe máy phổ thông thường có sáu chữ số khi viết đủ, giá theo tháng có bảy chữ số. Nếu bạn thấy một giá theo ngày dài bảy chữ số, hoặc giá theo tháng chỉ có sáu chữ số, gần như chắc chắn bạn đang đọc nhầm đơn vị.
 
-Cách nói suồng sã như "trăm rưỡi" hay "một cây" được giải thích riêng trong bài [đọc giá thuê xe máy bằng tiếng Việt: 150k, 1tr8, một trăm rưỡi](/thue-xe/2026/10/11/oc-gia-thue-xe-may-bang-tieng-viet-150k-1tr8-mot-tram-ruoi-la-bao-nhieu/). Ở đây ta tập trung vào ký hiệu viết và dấu câu, phần mà người quen tiếng Anh hay đọc ngược.
+Cách nói suồng sã như "trăm rưỡi" hay "một cây" được giải thích riêng trong bài [đọc giá thuê xe máy bằng tiếng Việt: 150k, 1tr8, một trăm rưỡi](/thue-xe/2026/10/11/doc-gia-thue-xe-may-bang-tieng-viet-150k-1tr8-mot-tram-ruoi-la-bao-nhieu/). Ở đây ta tập trung vào ký hiệu viết và dấu câu, phần mà người quen tiếng Anh hay đọc ngược.
 
 ## Dấu chấm và dấu phẩy: ngược với thói quen tiếng Anh
 

@@ -40,7 +40,7 @@ Cách phân biệt theo độ dài và nhịp:
 - **Hai tiếng ngắn liền nhau**: nhắc mạnh hơn, kiểu "để ý giúp tôi". Thường do bạn đi chậm giữa làn.
 - **Còi dài hoặc bấm liên hồi**: lúc này mới là khó chịu, hoặc có nguy hiểm thật. Hãy nhìn gương ngay.
 
-Xe buýt, xe tải có còi to, nghe như quát nhưng thường chỉ là thói quen. Cách ứng xử với nhóm xe này được nói kỹ trong bài [nhường xe buýt và xe lớn khi chạy trong phố](/ky-nang/2026/10/04/nhuong-xe-bus-va-xe-lon-khi-chay-xe-may-trong-pho/). Về mặt quy định, còi chỉ nên dùng khi cần và hạn chế vào ban đêm trong khu dân cư; phần luật được tóm tắt ở bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/en-tin-hieu-va-coi-xe-may-theo-quy-inh/).
+Xe buýt, xe tải có còi to, nghe như quát nhưng thường chỉ là thói quen. Cách ứng xử với nhóm xe này được nói kỹ trong bài [nhường xe buýt và xe lớn khi chạy trong phố](/ky-nang/2026/10/04/nhuong-xe-bus-va-xe-lon-khi-chay-xe-may-trong-pho/). Về mặt quy định, còi chỉ nên dùng khi cần và hạn chế vào ban đêm trong khu dân cư; phần luật được tóm tắt ở bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/den-tin-hieu-va-coi-xe-may-theo-quy-dinh/).
 
 ## Vẫy tay khi đi xe máy nghĩa là gì
 

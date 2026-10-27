@@ -84,7 +84,7 @@ Lấy được xe ra rồi, đừng phóng đi ngay. Đi một vòng quanh xe v�
 
 Nếu xe có vết mới do bị va quẹt trong lúc đỗ, hoặc đã bị đổ, hãy chụp ảnh toàn cảnh chỗ đỗ, vết trên xe và cả chiếc xe liên quan nếu được. Sau đó gọi cửa hàng thuê xe để thông báo, trước khi tự đi sửa hay thỏa thuận gì với người khác.
 
-Bạn cũng nên báo cửa hàng khi xe không nổ được sau khi dắt ra, khi đã quá lâu mà không tìm được ai mở lối trong lúc sắp đến giờ trả xe, hoặc khi có tranh cãi về hư hỏng. Trường hợp xe không nổ, cách xử lý giống bài [xe thuê chết máy giữa đường](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-uong-goi-ai/).
+Bạn cũng nên báo cửa hàng khi xe không nổ được sau khi dắt ra, khi đã quá lâu mà không tìm được ai mở lối trong lúc sắp đến giờ trả xe, hoặc khi có tranh cãi về hư hỏng. Trường hợp xe không nổ, cách xử lý giống bài [xe thuê chết máy giữa đường](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-duong-goi-ai/).
 
 Nếu bạn thuê xe ở Nguyễn Tú, có thể gọi 0942 467 674 trong giờ 09:00–21:00 để được hướng dẫn và hỏi trực tiếp cách xử lý vết va quẹt trước khi làm gì thêm.
 

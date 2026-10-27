@@ -49,7 +49,7 @@ Một số kinh nghiệm thực tế:
 - Quán nhỏ ở tầng trệt phố cổ đôi khi chỉ có một phòng vệ sinh hẹp, nên chuỗi cà phê lớn hoặc quán có nhiều tầng thường thoải mái hơn.
 - Đừng chỉ ghé vào đi vệ sinh rồi đi ngay mà không gọi gì; mua một món là phép lịch sự tối thiểu.
 
-Chuyện gửi xe khi ghé quán trong phố cổ được nói kỹ trong bài [đi cà phê phố cổ bằng xe máy, gửi xe ở đâu cho tiện](/du-lich/2026/10/01/i-ca-phe-pho-co-bang-xe-may-gui-xe-o-au-cho-tien/).
+Chuyện gửi xe khi ghé quán trong phố cổ được nói kỹ trong bài [đi cà phê phố cổ bằng xe máy, gửi xe ở đâu cho tiện](/du-lich/2026/10/01/di-ca-phe-pho-co-bang-xe-may-gui-xe-o-dau-cho-tien/).
 
 ## Công viên, bảo tàng và điểm tham quan
 
@@ -67,7 +67,7 @@ Dù dừng ở đâu, những phút bạn ở trong là lúc chiếc xe và đ�
 4. **Không để điện thoại trên giá đỡ** hay túi đồ trong giỏ trước. Mang theo người mọi thứ có giá trị.
 5. **Ghi nhớ hoặc chụp lại chỗ đỗ** khi gửi ở bãi lớn của trung tâm thương mại, để khỏi mất thời gian đi tìm.
 
-Những cách khóa và đỗ xe thuê để hạn chế mất trộm được tổng hợp ở bài [chống trộm xe máy khi thuê: khóa và cách đỗ xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/).
+Những cách khóa và đỗ xe thuê để hạn chế mất trộm được tổng hợp ở bài [chống trộm xe máy khi thuê: khóa và cách đỗ xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/).
 
 ## Một ngày mẫu với các điểm dừng tính sẵn
 

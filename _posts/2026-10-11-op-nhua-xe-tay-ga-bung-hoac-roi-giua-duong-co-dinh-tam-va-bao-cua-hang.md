@@ -75,7 +75,7 @@ Dưới tấm ốp có thể là dây điện, giắc cắm đèn xi nhan, đèn
 - Có sợi dây nào lòng thòng gần bánh không.
 - Có ốc nào lỏng hẳn có thể rơi tiếp không.
 
-Nếu đèn phía sau tắt sau khi chắn bùn rơi, chạy buổi tối sẽ rủi ro hơn nhiều vì xe sau khó thấy bạn; nên hạn chế di chuyển và báo cửa hàng sớm. Nếu biển số cũng lỏng theo, xem thêm cách làm khi [biển số rơi giữa đường](/hoi-dap/2026/10/10/xe-thue-bi-roi-bien-so-giua-uong-xu-ly-the-nao/).
+Nếu đèn phía sau tắt sau khi chắn bùn rơi, chạy buổi tối sẽ rủi ro hơn nhiều vì xe sau khó thấy bạn; nên hạn chế di chuyển và báo cửa hàng sớm. Nếu biển số cũng lỏng theo, xem thêm cách làm khi [biển số rơi giữa đường](/hoi-dap/2026/10/10/xe-thue-bi-roi-bien-so-giua-duong-xu-ly-the-nao/).
 
 ## Báo cửa hàng: chụp gì, nói gì
 
@@ -88,7 +88,7 @@ Với xe thuê, báo sớm giúp cửa hàng nắm tình trạng xe ngay và hai
 
 Hỏi rõ cửa hàng muốn bạn làm gì tiếp: đi chậm về, ghé tiệm sửa xe gần đó, hay để nguyên chờ hướng dẫn. Đừng tự sửa ở tiệm ngoài khi chưa trao đổi. Chuyện chi phí hay trách nhiệm nên hỏi và xác nhận trực tiếp với cửa hàng thay vì đoán. Nếu bạn thuê ở Thuê Xe Máy Hà Nội Nguyễn Tú, gọi 0942 467 674 trong giờ 09:00–21:00 để được hướng dẫn theo từng trường hợp.
 
-Cách báo này gần giống khi xe bị [va chạm nhẹ lúc đỗ](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-o-can-bao-gi-cho-cua-hang/): ảnh rõ, mô tả trung thực, hỏi hướng xử lý trước khi làm gì thêm.
+Cách báo này gần giống khi xe bị [va chạm nhẹ lúc đỗ](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-do-can-bao-gi-cho-cua-hang/): ảnh rõ, mô tả trung thực, hỏi hướng xử lý trước khi làm gì thêm.
 
 ## Khi nào nên dừng hẳn, không đi tiếp
 
@@ -97,7 +97,7 @@ Cách báo này gần giống khi xe bị [va chạm nhẹ lúc đỗ](/hoi-dap/
 - Dây điện lộ ra, đèn phía sau không sáng mà trời đã tối.
 - Không giữ được mảnh lủng lẳng bằng cách tạm nào.
 
-Lúc này dắt xe vào chỗ an toàn, gọi cửa hàng và làm theo hướng dẫn. Nếu xe đồng thời không nổ máy, xem bài [xe thuê chết máy giữa đường nên gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-uong-goi-ai/). Các tình huống tương tự được gom ở mục [hỏi đáp sự cố xe thuê](/hoi-dap/hoi-dap-su-co/) và trang [hỏi đáp chung](/hoi-dap/).
+Lúc này dắt xe vào chỗ an toàn, gọi cửa hàng và làm theo hướng dẫn. Nếu xe đồng thời không nổ máy, xem bài [xe thuê chết máy giữa đường nên gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-duong-goi-ai/). Các tình huống tương tự được gom ở mục [hỏi đáp sự cố xe thuê](/hoi-dap/hoi-dap-su-co/) và trang [hỏi đáp chung](/hoi-dap/).
 
 ## Thói quen nhỏ để ốp nhựa không bung lần nữa
 

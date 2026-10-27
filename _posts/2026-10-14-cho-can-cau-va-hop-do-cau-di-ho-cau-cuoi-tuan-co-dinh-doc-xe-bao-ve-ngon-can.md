@@ -39,7 +39,7 @@ Một chiếc ống đựng cần hay bao cần có quai đeo, đeo chéo sau l�
 
 Nếu cần không có ống hoặc đi một mình mang nhiều đồ, buộc cần câu trên xe máy theo chiều dọc yên sau. Đặt bó cần nằm giữa yên, chuôi hướng về phía người lái, ngọn hướng ra sau và không vượt quá đuôi xe quá nhiều. Dùng hai điểm buộc: một ở phần chuôi gần giữa yên, một ở phần thân gần giá sau. Đừng buộc vào ngọn. Phần ngọn chìa ra sau cần được bọc kín, sẽ nói ở mục dưới.
 
-Với đồ dài kiểu ống nhựa, bài [chở đồ dài như ống nhựa trên xe máy](/ky-nang/2026/10/04/cho-o-dai-nhu-ong-nhua-tren-xe-may-ung-cach/) có thêm cách chia điểm buộc, áp dụng được cho bó cần dài.
+Với đồ dài kiểu ống nhựa, bài [chở đồ dài như ống nhựa trên xe máy](/ky-nang/2026/10/04/cho-do-dai-nhu-ong-nhua-tren-xe-may-dung-cach/) có thêm cách chia điểm buộc, áp dụng được cho bó cần dài.
 
 ### Những chỗ không được đặt cần
 
@@ -65,7 +65,7 @@ Ngọn cần là phần đắt và dễ hỏng nhất. Phần lớn ngọn gãy 
 - **Đồ nhỏ như phao, chì, lưỡi dự phòng:** gom vào một hộp nhiều ngăn, cho vào cốp hoặc ba lô.
 - **Vợt và ô che:** gập lại, buộc cùng bó cần theo chiều dọc, đừng treo riêng ở móc vì nó đung đưa vào đầu gối.
 
-Đi một mình thì ưu tiên ba lô đeo sau lưng cho đồ nhỏ, xem thêm bài [đeo ba lô khi chạy xe đường dài hay buộc sau](/ky-nang/2026-09-29/eo-ba-lo-khi-chay-xe-dai-hay-buoc-sau/).
+Đi một mình thì ưu tiên ba lô đeo sau lưng cho đồ nhỏ, xem thêm bài [đeo ba lô khi chạy xe đường dài hay buộc sau](/ky-nang/2026-09-29/deo-ba-lo-khi-chay-xe-dai-hay-buoc-sau/).
 
 ## Trên đường ra hồ câu: những đoạn cần để ý
 
@@ -75,6 +75,6 @@ Từ nội thành đi các hồ câu ven đô như hồ Đồng Mô ở Sơn Tâ
 - **Cầu và dốc lên cầu.** Lên cầu Thăng Long hay cầu Nhật Tân thường có gió ngang, bó cần dài hứng gió làm xe chao nhẹ. Giữ tay lái chắc và tốc độ đều.
 - **Ngõ vào hồ câu.** Đường đất, ổ gà, có khi phải dắt xe. Đặt bó cần vững trước khi xuống dắt.
 
-Bó cần chìa sau đuôi xe cũng thuộc loại hàng cần xếp gọn theo quy định chung. Phần này được giải thích trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/).
+Bó cần chìa sau đuôi xe cũng thuộc loại hàng cần xếp gọn theo quy định chung. Phần này được giải thích trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/).
 
 Tóm lại, chở cần câu bằng xe máy cho an toàn: thu cần ngắn nhất, đặt song song thân xe, bọc ngọn trong ống cứng, gỡ lưỡi, chia mồi và đồ nặng xuống thấp. Các kỹ năng chở đồ khác có ở mục [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/), còn kỹ năng lái xe ở Hà Nội nói chung nằm trong chuyên mục [kỹ năng](/ky-nang/).

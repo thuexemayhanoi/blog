@@ -30,7 +30,7 @@ Hãy hình dung một chiếc hộp vô hình bao quanh chiếc xe: rộng khôn
 - **Đồ đặt ở yên sau hoặc giá chở hàng**: không lấn sang hai bên quá thân xe, không che đèn hậu và biển số.
 - **Đồ đặt ở sàn để chân xe ga**: không cao quá đầu gối, không làm bạn phải dạng chân hay xoay người để lái.
 
-Một thùng carton đựng lò vi sóng thường qua được câu này. Một tấm nệm gấp đôi, khung giường hay tủ quần áo nguyên khối thì gần như chắc chắn không. Quy định về hàng cồng kềnh nhấn vào việc hàng không được che tầm nhìn, cản trở giao thông hay làm rơi vãi; chi tiết có trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/).
+Một thùng carton đựng lò vi sóng thường qua được câu này. Một tấm nệm gấp đôi, khung giường hay tủ quần áo nguyên khối thì gần như chắc chắn không. Quy định về hàng cồng kềnh nhấn vào việc hàng không được che tầm nhìn, cản trở giao thông hay làm rơi vãi; chi tiết có trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/).
 
 ## Câu 2: Bạn có tự nhấc và giữ nó một tay được không?
 
@@ -54,7 +54,7 @@ Hãy giả định xấu nhất: trên đường về, món đồ bị xóc mạ
 
 Đồ điện tử có màn hình, bát đĩa sứ, kính, gương và những món đã lắp ráp sẵn là nhóm đáng lo nhất. Màn hình tivi để nằm ngang trên yên sau, chịu rung suốt quãng đường dài, có thể hỏng dù vỏ hộp vẫn nguyên. Ngược lại, chăn ga, chảo chống dính, đồ nhựa gia dụng gần như không sợ gì ngoài bị rơi.
 
-Với đồ dễ vỡ, câu hỏi không chỉ là "có chở được không" mà là "có đáng mạo hiểm không". Một bộ bát đĩa giá trị cao mà cửa hàng có giao tận nhà thì không nên tự chở. Nếu vẫn quyết định mang về, đọc thêm cách lót và chèn trong bài [chở đồ dễ vỡ trên xe máy sao cho không hỏng](/ky-nang/2026/10/10/cho-o-de-vo-tren-xe-may-sao-cho-khong-hong/).
+Với đồ dễ vỡ, câu hỏi không chỉ là "có chở được không" mà là "có đáng mạo hiểm không". Một bộ bát đĩa giá trị cao mà cửa hàng có giao tận nhà thì không nên tự chở. Nếu vẫn quyết định mang về, đọc thêm cách lót và chèn trong bài [chở đồ dễ vỡ trên xe máy sao cho không hỏng](/ky-nang/2026/10/10/cho-do-de-vo-tren-xe-may-sao-cho-khong-hong/).
 
 ## Câu 5: Quãng đường về có những đoạn nào khó?
 

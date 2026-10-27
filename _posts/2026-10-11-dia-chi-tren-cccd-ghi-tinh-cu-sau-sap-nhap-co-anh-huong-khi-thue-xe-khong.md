@@ -56,7 +56,7 @@ Ghi nơi bạn thực sự ở trong thời gian thuê: phòng trọ, nhà ngư�
 - Giờ nhận, giờ trả xe dự kiến.
 - Biển số, dòng xe, tình trạng xe lúc nhận (trầy xước, mức xăng).
 
-Muốn đối chiếu đầy đủ trước khi ký, bạn có thể xem bài [những điều cần ghi rõ trong hợp đồng thuê xe máy](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/).
+Muốn đối chiếu đầy đủ trước khi ký, bạn có thể xem bài [những điều cần ghi rõ trong hợp đồng thuê xe máy](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/).
 
 ## Ba tình huống thường gặp khi đến Hà Nội thuê xe
 

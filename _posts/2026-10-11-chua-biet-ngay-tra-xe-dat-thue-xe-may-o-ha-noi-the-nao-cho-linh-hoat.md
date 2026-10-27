@@ -31,7 +31,7 @@ Khi nhắn hoặc gọi đặt xe, đừng chỉ ghi "thuê từ thứ Hai". Hã
 - Lý do chưa chốt, chỉ cần một câu như "đang chờ ký hợp đồng nhà".
 - Câu hỏi trực tiếp: "Nếu tôi muốn ở thêm thì cần báo trước bao lâu?".
 
-Câu hỏi cuối là quan trọng nhất, vì mỗi cửa hàng xử lý một khác. Nếu bạn đặt qua tin nhắn, hãy giữ lại đoạn trao đổi; bài [chốt đặt xe qua Zalo](/hoi-dap/2026/10/09/at-xe-may-thue-qua-zalo-chot-coc-sao/) có gợi ý cách để tin nhắn đặt xe rõ ràng, sau này đối chiếu không bị lệch ý.
+Câu hỏi cuối là quan trọng nhất, vì mỗi cửa hàng xử lý một khác. Nếu bạn đặt qua tin nhắn, hãy giữ lại đoạn trao đổi; bài [chốt đặt xe qua Zalo](/hoi-dap/2026/10/09/dat-xe-may-thue-qua-zalo-chot-coc-sao/) có gợi ý cách để tin nhắn đặt xe rõ ràng, sau này đối chiếu không bị lệch ý.
 
 Những điểm như tiền cọc, cách tính khi trả sớm hay trả muộn, giấy tờ cần mang, bạn nên hỏi và để cửa hàng xác nhận trực tiếp trước khi nhận xe.
 
@@ -79,7 +79,7 @@ Thời hạn càng mở thì thỏa thuận càng nên rõ. Trước khi nhận 
 - Tình trạng xe lúc giao, chụp ảnh các vết trầy có sẵn.
 - Ai chịu trách nhiệm khi xe hỏng hóc trong thời gian dài.
 
-Bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/) liệt kê kỹ hơn các mục nên có. Quan trọng là hai bên hiểu giống nhau về chuyện kéo dài.
+Bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/) liệt kê kỹ hơn các mục nên có. Quan trọng là hai bên hiểu giống nhau về chuyện kéo dài.
 
 Thuê lâu thì xe chạy nhiều hơn. Nếu thấy phanh kém, lốp non hay đèn chập chờn, hãy báo cửa hàng trước khi tự mang đi sửa, để hai bên thống nhất cách xử lý.
 

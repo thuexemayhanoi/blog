@@ -71,7 +71,7 @@ Quan sát đúng con đường bạn sắp đi có ích hơn quan sát chung chu
 
 Tình huống quen thuộc: người mới chạy trên cầu, đến chân cầu mới nhận ra lối mình cần nằm ở làn bên kia và phải cắt ngang dòng xe. Đã ngồi sau xe ôm qua đoạn đó một lần, bạn sẽ nhớ dịch làn sớm, đúng chỗ được phép.
 
-Với ngõ nhỏ và phố một chiều trong khu phố cổ, hãy để ý biển báo bác tài tuân theo và đoạn nào bác phải vòng xa. Nếu chưa chắc nên bắt đầu ở đâu, bài [lần đầu thuê xe nên đi đường nào để làm quen](/hoi-dap/2026/10/09/lan-au-thue-xe-may-nen-i-uong-nao-lam-quen/) gợi ý những đoạn dễ thở hơn cho buổi đầu.
+Với ngõ nhỏ và phố một chiều trong khu phố cổ, hãy để ý biển báo bác tài tuân theo và đoạn nào bác phải vòng xa. Nếu chưa chắc nên bắt đầu ở đâu, bài [lần đầu thuê xe nên đi đường nào để làm quen](/hoi-dap/2026/10/09/lan-dau-thue-xe-may-nen-di-duong-nao-lam-quen/) gợi ý những đoạn dễ thở hơn cho buổi đầu.
 
 ## Mang điều quan sát được vào lần tự lái đầu tiên
 
@@ -83,7 +83,7 @@ Trước buổi lái đầu, đọc lại ghi chú và chọn ra ba điều bạ
 
 Ba điều làm được tốt hơn mười điều chỉ nhớ lơ mơ. Và nhớ rằng nhìn không thay được tập: phản xạ phanh hay giữ thăng bằng khi chạy chậm chỉ đến từ việc tự lái.
 
-Trước khi ra phố, hãy làm quen chiếc xe ở chỗ vắng. Nếu thuê xe tay ga lần đầu, bài [làm quen xe ga trong 30 phút trước khi lên đường](/hoi-dap/2026/09/29/chua-quen-xe-ga-lam-quen-trong-30-phut-truoc-khi-len-uong/) có các bước tập ga, phanh, quay đầu. Khi tay đã quen xe, mắt đã quen đường, bạn mới rảnh trí áp dụng điều đã quan sát.
+Trước khi ra phố, hãy làm quen chiếc xe ở chỗ vắng. Nếu thuê xe tay ga lần đầu, bài [làm quen xe ga trong 30 phút trước khi lên đường](/hoi-dap/2026/09/29/chua-quen-xe-ga-lam-quen-trong-30-phut-truoc-khi-len-duong/) có các bước tập ga, phanh, quay đầu. Khi tay đã quen xe, mắt đã quen đường, bạn mới rảnh trí áp dụng điều đã quan sát.
 
 Buổi đầu nên chạy một mình, chưa chở ai. Bài [người mới có nên chở người ngồi sau](/hoi-dap/2026/10/07/nguoi-moi-chay-xe-may-co-nen-cho-nguoi-ngoi-sau/) phân tích lúc nào là phù hợp. Về luật lệ, điều bạn thấy trên đường không phải lúc nào cũng đúng quy định; hãy học từ nguồn chính thức, vì quy định có thể thay đổi.
 

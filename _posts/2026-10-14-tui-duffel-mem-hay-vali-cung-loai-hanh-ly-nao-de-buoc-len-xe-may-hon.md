@@ -56,10 +56,10 @@ Không loại nào chống mưa hoàn toàn chỉ nhờ vỏ ngoài. Duffel bằ
 ## Kết luận nhanh theo từng kiểu chuyến đi
 
 - **Đi dài ngày, đổi chỗ ngủ liên tục, như cung Hà Giang hay Mai Châu:** duffel mềm cỡ vừa, tốt nhất là loại chống nước, buộc trên giá sau. Thêm một ba lô nhỏ đeo người cho giấy tờ, ví và sạc.
-- **Đi ngắn, một hai đêm ở ngoại thành:** một ba lô cỡ vừa là đủ. Bài [đeo ba lô khi chạy xe dài hay buộc sau](/ky-nang/2026-09-29/eo-ba-lo-khi-chay-xe-dai-hay-buoc-sau/) giúp bạn quyết định đeo hay chằng lên xe.
+- **Đi ngắn, một hai đêm ở ngoại thành:** một ba lô cỡ vừa là đủ. Bài [đeo ba lô khi chạy xe dài hay buộc sau](/ky-nang/2026-09-29/deo-ba-lo-khi-chay-xe-dai-hay-buoc-sau/) giúp bạn quyết định đeo hay chằng lên xe.
 - **Bắt buộc mang vali, ví dụ từ sân bay về khách sạn rồi mới bắt đầu đi:** chỉ dùng vali cỡ xách tay, và tốt nhất là gửi vali lớn lại khách sạn, chuyển đồ cần thiết sang túi mềm cho chặng xe máy.
 
-Nếu buộc phải dùng vali, hãy cân nhắc loại xe: xe số có giá sau phẳng chịu vali ổn hơn xe ga có yên dốc; bài [đi chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) phân tích kỹ điểm này.
+Nếu buộc phải dùng vali, hãy cân nhắc loại xe: xe số có giá sau phẳng chịu vali ổn hơn xe ga có yên dốc; bài [đi chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/di-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) phân tích kỹ điểm này.
 
 ## Mẹo buộc riêng cho từng loại
 
@@ -75,7 +75,7 @@ Dù chọn loại nào, nguyên tắc chung trong bài [buộc đồ trên yên 
 
 Thời tiết Hà Nội và miền núi phía bắc thay đổi nhanh, nhất là mùa hè. Trước khi xuất phát từ Long Biên hay Tây Hồ, hãy cho quần áo vào từng túi ni lông có khóa zip hoặc túi khô, rồi mới cho vào duffel hay vali. Lớp lót bên trong này quan trọng hơn bất kỳ lớp vỏ ngoài nào, vì nó vẫn giữ đồ khô kể cả khi nước đã ngấm qua vải.
 
-Mang theo một tấm bạt nhỏ hoặc áo trùm hành lý vừa cỡ túi. Khi trời đổ mưa giữa đường, chỉ cần trùm lên và siết thêm một dây, khỏi phải tháo cả kiện. Cách bọc kín chi tiết có ở bài [chở đồ khi trời mưa: cách bọc kín](/ky-nang/2026-09-29/cho-o-khi-troi-mua-cach-boc-kin/).
+Mang theo một tấm bạt nhỏ hoặc áo trùm hành lý vừa cỡ túi. Khi trời đổ mưa giữa đường, chỉ cần trùm lên và siết thêm một dây, khỏi phải tháo cả kiện. Cách bọc kín chi tiết có ở bài [chở đồ khi trời mưa: cách bọc kín](/ky-nang/2026-09-29/cho-do-khi-troi-mua-cach-boc-kin/).
 
 ## Trước khi mua: thử ngay tại cửa hàng
 

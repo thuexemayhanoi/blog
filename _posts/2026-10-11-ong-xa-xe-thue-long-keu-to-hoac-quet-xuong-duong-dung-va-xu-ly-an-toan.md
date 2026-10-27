@@ -65,7 +65,7 @@ Khi đã đứng ở chỗ an toàn, dành hai phút ghi lại mọi thứ để
 - Video ngắn quay tiếng máy nổ vài giây, chỉ làm khi thấy ống không chạm đất.
 - Vị trí trên bản đồ điện thoại, kèm ghi chú gần cửa hàng hay ngõ nào.
 
-Cách làm này giống khi [biển số xe thuê bị rơi giữa đường](/hoi-dap/2026/10/10/xe-thue-bi-roi-bien-so-giua-uong-xu-ly-the-nao/): có ảnh, có vị trí thì trao đổi rõ ràng hơn nhiều.
+Cách làm này giống khi [biển số xe thuê bị rơi giữa đường](/hoi-dap/2026/10/10/xe-thue-bi-roi-bien-so-giua-duong-xu-ly-the-nao/): có ảnh, có vị trí thì trao đổi rõ ràng hơn nhiều.
 
 ## Vì sao không nên buộc tạm rồi chạy tiếp
 
@@ -81,7 +81,7 @@ Sau khi đã an toàn, hãy gọi cửa hàng nơi bạn thuê xe. Mô tả ng�
 
 Cửa hàng sẽ cho bạn biết bước tiếp theo, chẳng hạn dắt xe tới tiệm sửa gần nhất hay chờ hướng dẫn thêm. Hướng xử lý và chi phí cần được xác nhận trực tiếp với cửa hàng, đừng tự quyết rồi báo sau. Nếu thuê xe ở Nguyễn Tú, bạn có thể gọi 0942 467 674 trong khung giờ 09:00–21:00.
 
-Nếu xe chết máy hẳn sau cú va, hãy xem thêm [những ai nên gọi khi xe thuê chết máy giữa đường](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-uong-goi-ai/) để biết thứ tự liên hệ hợp lý.
+Nếu xe chết máy hẳn sau cú va, hãy xem thêm [những ai nên gọi khi xe thuê chết máy giữa đường](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-duong-goi-ai/) để biết thứ tự liên hệ hợp lý.
 
 ## Phòng tránh ống pô quệt đường trong phố Hà Nội
 

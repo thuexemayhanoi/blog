@@ -69,7 +69,7 @@ Khi đã chia xong, sửa lại danh sách chung theo dạng "xe nào mang món 
 
 Danh sách kiểu này có ba công dụng. Sáng hôm đi, mỗi xe tự kiểm đồ của mình, không ai phải nhớ hộ. Đến nơi, cần gì thì biết ngay ở xe nào. Lúc về, mỗi xe mang đúng món đã mang đi, không bỏ sót đồ thuê hay đồ mượn.
 
-Nếu nhóm thuê xe, nên chọn xe theo kế hoạch chia đồ ngay từ đầu, ví dụ có ít nhất một xe ga cốp rộng đi một người. Gợi ý cách chọn xe cho cả nhóm có trong bài [thuê xe máy cho đoàn nhóm ở Hà Nội](/thue-xe/2026/09/30/thue-xe-may-cho-oan-nhom-o-ha-noi-can-chuan-bi-gi/).
+Nếu nhóm thuê xe, nên chọn xe theo kế hoạch chia đồ ngay từ đầu, ví dụ có ít nhất một xe ga cốp rộng đi một người. Gợi ý cách chọn xe cho cả nhóm có trong bài [thuê xe máy cho đoàn nhóm ở Hà Nội](/thue-xe/2026/09/30/thue-xe-may-cho-doan-nhom-o-ha-noi-can-chuan-bi-gi/).
 
 ## Dọc đường và lúc về: cân lại tải
 
@@ -79,6 +79,6 @@ Nếu nhóm thuê xe, nên chọn xe theo kế hoạch chia đồ ngay từ đ�
 - **Xe nào trông mệt nhất.** Nếu một xe tụt lại liên tục, thử chuyển bớt một món sang xe khác.
 - **Đồ đã dùng hết.** Thùng đá đã tan, nước đã uống, đồ ăn đã hết thì xe đó nhẹ đi, có thể nhận thêm món từ xe khác.
 
-Lúc về thường mệt và trời tối hơn, đồ lại xếp vội. Hãy giữ nguyên bảng phân công, thêm một dòng cho túi rác mang về thành phố. Đi nhóm còn cần giữ khoảng cách giữa các xe, nhất là khi xe chất đồ khó phanh gấp, xem thêm cách [giữ khoảng cách khi đi xe theo nhóm](/ky-nang/2026/10/10/giu-khoang-cach-khi-i-xe-theo-nhom/).
+Lúc về thường mệt và trời tối hơn, đồ lại xếp vội. Hãy giữ nguyên bảng phân công, thêm một dòng cho túi rác mang về thành phố. Đi nhóm còn cần giữ khoảng cách giữa các xe, nhất là khi xe chất đồ khó phanh gấp, xem thêm cách [giữ khoảng cách khi đi xe theo nhóm](/ky-nang/2026/10/10/giu-khoang-cach-khi-di-xe-theo-nhom/).
 
 Một chuyến đi nhóm vui hơn khi không ai phải gánh hết đồ của cả nhóm. Lên danh sách sớm, chia món nặng cho xe khỏe, món nhẹ cho xe chở hai, ghi rõ ai mang gì và cân lại sau mỗi lần nghỉ. Những bài khác về chở đồ được gom trong mục [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/), còn kỹ năng lái xe máy nói chung nằm ở chuyên mục [kỹ năng](/ky-nang/).

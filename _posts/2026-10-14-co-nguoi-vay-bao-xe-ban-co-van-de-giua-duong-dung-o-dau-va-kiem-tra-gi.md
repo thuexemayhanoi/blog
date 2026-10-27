@@ -55,7 +55,7 @@ Bật khóa điện, thử bóp phanh trước và phanh sau, bật xi nhan hai 
 
 ### Lốp, chân chống và dây vướng
 
-Nhìn lốp sau và lốp trước xem có xẹp, có vật nhọn cắm vào không. Bóp thử thành lốp bằng tay: lốp đủ hơi thì cứng, lốp non thì lún rõ. Kiểm tra chân chống nghiêng đã gập hết chưa và có quai túi, dây chằng nào thòng xuống gần bánh xe không. Nếu lốp xẹp hẳn, xem cách xử lý trong bài [xe thuê bị thủng lốp giữa đường](/thue-xe/2026/09/30/xe-thue-bi-thung-lop-giua-uong-xu-ly-the-nao/).
+Nhìn lốp sau và lốp trước xem có xẹp, có vật nhọn cắm vào không. Bóp thử thành lốp bằng tay: lốp đủ hơi thì cứng, lốp non thì lún rõ. Kiểm tra chân chống nghiêng đã gập hết chưa và có quai túi, dây chằng nào thòng xuống gần bánh xe không. Nếu lốp xẹp hẳn, xem cách xử lý trong bài [xe thuê bị thủng lốp giữa đường](/thue-xe/2026/09/30/xe-thue-bi-thung-lop-giua-duong-xu-ly-the-nao/).
 
 ## Giữ chìa và đồ trong tầm tay suốt lúc dừng
 

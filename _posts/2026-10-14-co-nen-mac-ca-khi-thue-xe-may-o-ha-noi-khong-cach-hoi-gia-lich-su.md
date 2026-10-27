@@ -53,11 +53,11 @@ Nhiều người ngại hỏi giá vì sợ bị coi là kỳ kèo, hoặc sợ 
 
 - **Nói nhu cầu trước, hỏi giá sau.** "Em ở Hà Nội năm ngày, chủ yếu đi trong nội thành, anh chị tư vấn giúp em xe nào hợp và giá thế nào ạ?" Câu này cho người cho thuê đủ thông tin để gợi ý đúng, nghe cũng dễ chịu hơn nhiều so với một câu cụt lủn "bao nhiêu?".
 - **Hỏi dựa trên bảng.** "Bảng ghi Vision 200.000 đồng một ngày, nếu em thuê cả tuần thì chuyển sang gói tuần được không ạ?" Bạn cho thấy mình đã đọc bảng, và câu trả lời nhận được sẽ rõ ràng.
-- **Nhắc lại con số khi chưa chắc.** Nghe "một trăm rưỡi" hay "bảy trăm một tuần" mà chưa hiểu hết, cứ lặp lại để xác nhận. Cách nói giá tắt kiểu này được giải thích trong bài [đọc giá thuê xe máy bằng tiếng Việt](/thue-xe/2026/10/11/oc-gia-thue-xe-may-bang-tieng-viet-150k-1tr8-mot-tram-ruoi-la-bao-nhieu/).
+- **Nhắc lại con số khi chưa chắc.** Nghe "một trăm rưỡi" hay "bảy trăm một tuần" mà chưa hiểu hết, cứ lặp lại để xác nhận. Cách nói giá tắt kiểu này được giải thích trong bài [đọc giá thuê xe máy bằng tiếng Việt](/thue-xe/2026/10/11/doc-gia-thue-xe-may-bang-tieng-viet-150k-1tr8-mot-tram-ruoi-la-bao-nhieu/).
 
 Nên tránh kiểu "chỗ khác rẻ hơn, bớt đi anh" hay trả một con số tùy ý thấp hơn bảng: ở cửa hàng có bảng giá, câu đó chỉ làm cuộc trò chuyện ngượng ngập. Thấy nơi khác hợp hơn thì cứ cảm ơn rồi đi xem.
 
-Hỏi qua điện thoại hay tin nhắn trước khi đến cũng theo nguyên tắc ấy: nêu số ngày, số người, lộ trình dự kiến rồi mới hỏi giá. Gợi ý cụ thể có trong bài [hỏi giá thuê xe máy qua điện thoại](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-ien-thoai-nen-hoi-the-nao/).
+Hỏi qua điện thoại hay tin nhắn trước khi đến cũng theo nguyên tắc ấy: nêu số ngày, số người, lộ trình dự kiến rồi mới hỏi giá. Gợi ý cụ thể có trong bài [hỏi giá thuê xe máy qua điện thoại](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-dien-thoai-nen-hoi-the-nao/).
 
 ## Khi nào nên hỏi lại giá cho rõ
 

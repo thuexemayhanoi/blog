@@ -26,7 +26,7 @@ Khi người ngồi sau nặng hơn người lái, trọng tâm của cả xe l�
 
 ### Chiều cao và độ thon của yên
 
-Chân chạm đất chắc là điều kiện đầu tiên. Nếu chỉ chạm được mũi chân, khi xe nghiêng nhẹ vì sức nặng phía sau, bạn gần như không còn lực để đỡ. Phần yên phía trước nên thon để hai chân khép xuống thẳng. Nếu bạn thấp hẳn, bài về [chọn xe để chân chạm đất vững cho người dưới 1m55](/hoi-dap/2026/10/11/nguoi-duoi-1m55-nen-thue-xe-may-nao-e-chan-cham-at-vung/) phân tích kỹ hơn phần này.
+Chân chạm đất chắc là điều kiện đầu tiên. Nếu chỉ chạm được mũi chân, khi xe nghiêng nhẹ vì sức nặng phía sau, bạn gần như không còn lực để đỡ. Phần yên phía trước nên thon để hai chân khép xuống thẳng. Nếu bạn thấp hẳn, bài về [chọn xe để chân chạm đất vững cho người dưới 1m55](/hoi-dap/2026/10/11/nguoi-duoi-1m55-nen-thue-xe-may-nao-de-chan-cham-dat-vung/) phân tích kỹ hơn phần này.
 
 ### Trọng lượng xe so với sức của bạn
 

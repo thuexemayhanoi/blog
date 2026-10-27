@@ -30,7 +30,7 @@ Nếu chưa chắc mình cần mang những gì, bạn nên đọc lại danh s�
 
 ### Ảnh mờ, thẻ gãy, chữ bị bong
 
-Thẻ để trong ví lâu ngày dễ bị cong, trầy mặt ảnh hoặc mờ số. Khi cửa hàng không nhìn rõ mặt bạn trên thẻ, họ khó xác nhận đó là bạn. Tương tự, nếu bạn chỉ mang bản chụp hoặc bản sao, khả năng được chấp nhận phụ thuộc vào từng nơi; trường hợp này đã được phân tích riêng trong bài [chỉ có căn cước bản photo có thuê được không](/hoi-dap/2026-09-29-chi-co-cccd-photo-co-thue-uoc-xe-khong/).
+Thẻ để trong ví lâu ngày dễ bị cong, trầy mặt ảnh hoặc mờ số. Khi cửa hàng không nhìn rõ mặt bạn trên thẻ, họ khó xác nhận đó là bạn. Tương tự, nếu bạn chỉ mang bản chụp hoặc bản sao, khả năng được chấp nhận phụ thuộc vào từng nơi; trường hợp này đã được phân tích riêng trong bài [chỉ có căn cước bản photo có thuê được không](/hoi-dap/2026-09-29-chi-co-cccd-photo-co-thue-duoc-xe-khong/).
 
 ### Tên trên giấy không trùng người nhận xe
 
@@ -82,7 +82,7 @@ Dành mười phút rà danh sách này còn đỡ hơn mất một buổi đi l
 6. Không đến nhận xe khi vừa uống rượu bia hoặc quá mệt.
 7. Hỏi trước về tiền cọc và cách cửa hàng giữ thông tin giấy tờ; mỗi nơi một cách, cọc cần xác nhận trực tiếp.
 
-Khi nhận xe, hãy đọc kỹ những gì được ghi trên giấy giao nhận. Bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/) sẽ giúp bạn biết cần đọc phần nào.
+Khi nhận xe, hãy đọc kỹ những gì được ghi trên giấy giao nhận. Bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/) sẽ giúp bạn biết cần đọc phần nào.
 
 ## Đã bị từ chối cho thuê xe máy thì nên làm gì
 

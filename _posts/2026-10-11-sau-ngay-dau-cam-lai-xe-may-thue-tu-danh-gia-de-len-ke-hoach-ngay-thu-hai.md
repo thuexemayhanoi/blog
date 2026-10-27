@@ -48,7 +48,7 @@ Nhiều người mới thấy rẽ phải khá dễ nhưng rẽ trái qua ngã t
 
 Bạn có nhìn gương trước khi chuyển làn không, hay chỉ ngoái đầu? Có lần nào mải nhìn bản đồ trên điện thoại mà lạc làn?
 
-Nếu thấy mình mắc cùng một lỗi nhiều lần, bạn có thể đối chiếu với danh sách [những lỗi người mới hay mắc khi lần đầu thuê xe](/hoi-dap/2026/09/29/lan-au-thue-xe-may-nhung-loi-nguoi-moi-hay-mac/) để biết đó là chuyện phổ biến, không phải do bạn kém.
+Nếu thấy mình mắc cùng một lỗi nhiều lần, bạn có thể đối chiếu với danh sách [những lỗi người mới hay mắc khi lần đầu thuê xe](/hoi-dap/2026/09/29/lan-dau-thue-xe-may-nhung-loi-nguoi-moi-hay-mac/) để biết đó là chuyện phổ biến, không phải do bạn kém.
 
 ## Đọc lại tuyến đường hôm nay: đoạn nào vững, đoạn nào nên tránh
 
@@ -56,7 +56,7 @@ Mở lại lịch sử định vị hoặc tự vẽ lại tuyến đã đi, đ�
 
 Ví dụ, một bạn thuê xe ở phía Long Biên kể lại rằng đoạn đường lớn quanh khu Bồ Đề đi khá dễ vì đường rộng, làn rõ. Nhưng khi rẽ vào phố cổ lúc năm giờ chiều, ngõ hẹp, xe đỗ hai bên, người đi bộ tràn xuống lòng đường, bạn ấy phải dắt bộ một đoạn. Kết luận của bạn ấy không phải "mình không đi được phố cổ", mà là "mình chưa đi được phố cổ vào giờ tan tầm".
 
-Phần lớn nỗi sợ ngày đầu không nằm ở bản thân con đường, mà ở sự kết hợp giữa con đường, giờ giấc và mức mệt của bạn lúc đó. Nếu bạn muốn ôn lại cách xử lý phố đông, bài [người mới lái xe đi đường phố ngày đầu](/hoi-dap/2026/10/10/nguoi-moi-lai-xe-may-i-uong-pho-ngay-au/) có thêm vài gợi ý cụ thể.
+Phần lớn nỗi sợ ngày đầu không nằm ở bản thân con đường, mà ở sự kết hợp giữa con đường, giờ giấc và mức mệt của bạn lúc đó. Nếu bạn muốn ôn lại cách xử lý phố đông, bài [người mới lái xe đi đường phố ngày đầu](/hoi-dap/2026/10/10/nguoi-moi-lai-xe-may-di-duong-pho-ngay-dau/) có thêm vài gợi ý cụ thể.
 
 ## Lên kế hoạch ngày thứ hai thuê xe máy
 
@@ -87,7 +87,7 @@ Tự đánh giá không chỉ dành cho người lái mà cả chiếc xe. Trư�
 
 Nếu thấy bất kỳ điều gì bất thường, đừng tự tháo sửa. Hãy chụp ảnh, ghi lại và báo cho cửa hàng cho thuê trước khi lên đường ngày mai. Nếu bạn thuê ở Thuê Xe Máy Hà Nội Nguyễn Tú, có thể gọi số 0942 467 674 trong khung giờ 09:00 đến 21:00 để hỏi hướng xử lý.
 
-Đây cũng là lúc ghi lại những câu chưa kịp hỏi khi nhận xe, như cách khóa cổ xe hay gia hạn thêm ngày. Bài [lần đầu thuê xe ở Hà Nội nên hỏi gì](/hoi-dap/2026/09/30/lan-au-thue-xe-may-o-ha-noi-nen-hoi-gi/) có danh sách câu hỏi để bạn tham khảo. Nếu định thuê thêm, hãy tự tính số ngày cần dùng và xác nhận giá hiện tại trực tiếp với cửa hàng.
+Đây cũng là lúc ghi lại những câu chưa kịp hỏi khi nhận xe, như cách khóa cổ xe hay gia hạn thêm ngày. Bài [lần đầu thuê xe ở Hà Nội nên hỏi gì](/hoi-dap/2026/09/30/lan-dau-thue-xe-may-o-ha-noi-nen-hoi-gi/) có danh sách câu hỏi để bạn tham khảo. Nếu định thuê thêm, hãy tự tính số ngày cần dùng và xác nhận giá hiện tại trực tiếp với cửa hàng.
 
 ## Khi nào nên giảm tốc độ kế hoạch
 

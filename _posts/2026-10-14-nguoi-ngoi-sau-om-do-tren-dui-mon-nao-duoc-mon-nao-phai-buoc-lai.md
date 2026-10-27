@@ -68,7 +68,7 @@ Một tình huống hay gặp ở chợ Long Biên hay khu phố Hàng Mã dịp
 
 Khi người ngồi sau đang ôm đồ, người lái cần chạy khác đi một chút. Tăng ga từ từ khi xuất phát, phanh sớm và nhẹ, vào cua chậm hơn thường lệ. Gặp đoạn đường xấu như dưới chân dốc cầu Long Biên hay các ngõ sâu ở Đống Đa, người lái nên báo trước để người sau ghì chặt đồ.
 
-Người ngồi sau cũng có việc của mình: không đổi tay ôm đồ khi xe đang chạy nhanh, không cúi nhặt món rơi khi xe chưa dừng hẳn. Nếu một món tuột khỏi tay, cứ để nó rơi, báo người lái rồi tấp vào lề an toàn mới quay lại nhặt. Xem thêm cách thống nhất tín hiệu trong bài [chở người ngồi sau lần đầu](/ky-nang/2026/10/11/cho-nguoi-ngoi-sau-lan-au-thong-nhat-tin-hieu-truoc-khi-len-xe/).
+Người ngồi sau cũng có việc của mình: không đổi tay ôm đồ khi xe đang chạy nhanh, không cúi nhặt món rơi khi xe chưa dừng hẳn. Nếu một món tuột khỏi tay, cứ để nó rơi, báo người lái rồi tấp vào lề an toàn mới quay lại nhặt. Xem thêm cách thống nhất tín hiệu trong bài [chở người ngồi sau lần đầu](/ky-nang/2026/10/11/cho-nguoi-ngoi-sau-lan-dau-thong-nhat-tin-hieu-truoc-khi-len-xe/).
 
 Với khách thuê xe máy ở Hà Nội, nên hỏi trước loại xe có sàn để chân phẳng và cốp rộng nếu dự định đi chợ hay mua sắm nhiều. Xe ga có sàn cho phép đặt túi nặng dưới chân người lái, giảm hẳn số đồ người ngồi sau phải ôm.
 

@@ -58,7 +58,7 @@ Chở đào, quất một mình là cách khó nhất. Có người ngồi sau t
 
 **Người lái** chỉ lo giữ xe: hai tay trên tay lái, không quay lại nhìn cành, không với tay đỡ cây.
 
-**Người ngồi sau** giữ cành đào gần như thẳng đứng, gốc tì lên đùi hoặc kẹp giữa hai đầu gối, ngọn hơi nghiêng ra sau, không chĩa sang ngang. Một tay ôm bó cành, tay kia bám chắc vào xe. Nếu ôm chậu quất, ôm sát bụng, khuỷu tay khép, không để tán che mắt người lái. Người sau cũng là người báo "chậm lại" khi gió đẩy mạnh và "dừng" khi một nhánh bung khỏi lớp bọc. Lưu ý chung có trong bài [chở người phía sau an toàn khi đi đôi](/ky-nang/2026-09-29/cho-nguoi-phia-sau-an-toan-khi-i-oi/).
+**Người ngồi sau** giữ cành đào gần như thẳng đứng, gốc tì lên đùi hoặc kẹp giữa hai đầu gối, ngọn hơi nghiêng ra sau, không chĩa sang ngang. Một tay ôm bó cành, tay kia bám chắc vào xe. Nếu ôm chậu quất, ôm sát bụng, khuỷu tay khép, không để tán che mắt người lái. Người sau cũng là người báo "chậm lại" khi gió đẩy mạnh và "dừng" khi một nhánh bung khỏi lớp bọc. Lưu ý chung có trong bài [chở người phía sau an toàn khi đi đôi](/ky-nang/2026-09-29/cho-nguoi-phia-sau-an-toan-khi-di-doi/).
 
 Đi một mình thì chỉ nên mang một cành nhỏ hoặc một chậu quất để bàn, cành buộc dọc theo thân xe phía sau, ngọn không cao quá vai. Đừng một tay lái một tay cầm cành.
 
@@ -75,10 +75,10 @@ Khi chạy, nhả ga sớm trước đèn đỏ, phanh nhẹ và dài, qua gờ 
 
 ## Đừng để cành đào thành vật cản
 
-Cành chĩa ra hai bên có thể quẹt vào mặt người đi bên cạnh; bó cành che gương chiếu hậu hay tầm nhìn người lái là nguy hiểm thật. Hàng hóa trên xe máy còn phải nằm trong giới hạn kích thước quy định cho phép, vượt quá có thể bị xử phạt, chi tiết ở bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/). Dễ nhớ: cành và chậu gọn trong khoảng tay lái, không che gương, không che đèn.
+Cành chĩa ra hai bên có thể quẹt vào mặt người đi bên cạnh; bó cành che gương chiếu hậu hay tầm nhìn người lái là nguy hiểm thật. Hàng hóa trên xe máy còn phải nằm trong giới hạn kích thước quy định cho phép, vượt quá có thể bị xử phạt, chi tiết ở bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/). Dễ nhớ: cành và chậu gọn trong khoảng tay lái, không che gương, không che đèn.
 
 ## Về tới nhà
 
 Dựng chân chống chắc, nhấc cành đào ra trước rồi mới tới chậu quất. Mở bọc trong nhà, nơi kín gió. Cắt vát lại gốc đào một đoạn ngắn rồi cắm ngay vào bình nước sạch để nụ nở dần vào Tết. Chậu quất đặt chỗ sáng, thoáng, xa gió điều hòa và xa bếp.
 
-Tóm lại, chở đào Tết bằng xe máy hay mang quất nhỏ từ Tứ Liên chỉ cần ba điều: bọc gọn để cành không xòe và quả không lắc, giao hẳn việc giữ cây cho người ngồi sau, đi sớm và chạy đều tay. Muốn ghé làng hoa trước khi mua, xem bài [vườn đào Nhật Tân trước Tết bằng xe máy](/du-lich/2026/10/04/vuon-ao-nhat-tan-truoc-tet-bang-xe-may-uong-i-va-gui-xe/). Các kỹ năng chở đồ khác nằm ở mục [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/), còn kỹ năng lái xe ở Hà Nội nói chung có trong chuyên mục [kỹ năng](/ky-nang/).
+Tóm lại, chở đào Tết bằng xe máy hay mang quất nhỏ từ Tứ Liên chỉ cần ba điều: bọc gọn để cành không xòe và quả không lắc, giao hẳn việc giữ cây cho người ngồi sau, đi sớm và chạy đều tay. Muốn ghé làng hoa trước khi mua, xem bài [vườn đào Nhật Tân trước Tết bằng xe máy](/du-lich/2026/10/04/vuon-dao-nhat-tan-truoc-tet-bang-xe-may-duong-di-va-gui-xe/). Các kỹ năng chở đồ khác nằm ở mục [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/), còn kỹ năng lái xe ở Hà Nội nói chung có trong chuyên mục [kỹ năng](/ky-nang/).

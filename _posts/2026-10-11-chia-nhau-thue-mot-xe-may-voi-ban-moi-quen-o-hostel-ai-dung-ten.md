@@ -37,7 +37,7 @@ Nếu cả hai ở lại số ngày như nhau, cứ chọn người lái chính.
 
 Đây là chỗ nhiều nhóm bạn ở hostel hay bỏ qua. Người đứng tên có thể không phải người duy nhất lái, nhưng việc người thứ hai cầm lái nên được hỏi trước với cửa hàng, không phải tự quyết khi đã ra đường. Mỗi nơi có cách làm riêng, có nơi muốn ghi thêm tên người lái phụ vào giấy tờ.
 
-Điều quan trọng hơn là người cầm lái cần có bằng lái phù hợp với loại xe theo quy định hiện hành. Nếu bạn mới quen chưa có bằng, đừng nhường tay lái chỉ vì "đường phố cổ đi chậm thôi mà". Bài [không có bằng lái thì có thuê được xe máy không](/hoi-dap/2026-09-29-khong-co-bang-lai-co-thue-uoc-xe-may-khong/) giải thích kỹ hơn chuyện này. Quy định có thể thay đổi, nên hãy kiểm tra thông tin mới nhất trước chuyến đi.
+Điều quan trọng hơn là người cầm lái cần có bằng lái phù hợp với loại xe theo quy định hiện hành. Nếu bạn mới quen chưa có bằng, đừng nhường tay lái chỉ vì "đường phố cổ đi chậm thôi mà". Bài [không có bằng lái thì có thuê được xe máy không](/hoi-dap/2026-09-29-khong-co-bang-lai-co-thue-duoc-xe-may-khong/) giải thích kỹ hơn chuyện này. Quy định có thể thay đổi, nên hãy kiểm tra thông tin mới nhất trước chuyến đi.
 
 Một tình huống hay gặp: hai bạn chạy lên Tây Hồ buổi chiều, người đứng tên muốn ngồi sau chụp ảnh hoàng hôn nên đưa xe cho người kia lái về. Nếu chưa thống nhất với cửa hàng và người kia không đủ điều kiện, rắc rối phát sinh trên đường về thường đổ lên người đứng tên.
 
@@ -87,6 +87,6 @@ Khi hai người cùng tới nhận xe, hãy đi cùng nhau và hỏi thẳng:
 3. Trả xe sớm hơn dự kiến thì tính tiền thế nào?
 4. Khoản cọc cần bao nhiêu và trả lại cho ai?
 
-Nên đọc kỹ [những điều hợp đồng thuê xe cần ghi rõ](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/) để biết chỗ nào cần ghi tay thêm khi thuê chung. Nếu bạn thuê ở Nguyễn Tú (112 Nguyễn Văn Cừ, Long Biên, mở cửa 09:00–21:00), cứ gọi 0942 467 674 hỏi trước mấy câu trên để hai người chuẩn bị đúng giấy tờ.
+Nên đọc kỹ [những điều hợp đồng thuê xe cần ghi rõ](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/) để biết chỗ nào cần ghi tay thêm khi thuê chung. Nếu bạn thuê ở Nguyễn Tú (112 Nguyễn Văn Cừ, Long Biên, mở cửa 09:00–21:00), cứ gọi 0942 467 674 hỏi trước mấy câu trên để hai người chuẩn bị đúng giấy tờ.
 
 Thuê chung một chiếc xe với người mới quen hoàn toàn khả thi, miễn là hai bạn nói rõ từ đầu ba chuyện: tên ai, ai lái, ai trả xe. Tối nay, trước khi đặt xe, hãy cùng ngồi viết một tin nhắn chung chốt ba điều đó. Muốn xem thêm các câu hỏi thủ tục khác, ghé chuyên mục [hỏi đáp thủ tục thuê xe](/hoi-dap/hoi-dap-thu-tuc/) hoặc trang [hỏi đáp chung](/hoi-dap/) của blog.
