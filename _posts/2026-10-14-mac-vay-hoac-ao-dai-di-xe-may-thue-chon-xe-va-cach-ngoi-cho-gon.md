@@ -21,7 +21,7 @@ Sáng đi làm trong bộ váy công sở, chiều dự lễ tốt nghiệp củ
 
 Nếu biết trước mình sẽ mặc váy hay áo dài trong những ngày thuê, hãy nói ngay khi đặt xe. Kiểu xe quyết định một nửa sự gọn gàng.
 
-**Xe tay ga sàn phẳng là lựa chọn dễ nhất.** Honda Vision, Honda Click hay Yamaha Mio đều có phần sàn để chân phẳng phía trước yên. Bạn bước chân qua sàn rồi ngồi xuống, không phải vung chân qua yên như xe số, nên chân váy không bị kéo căng hay vén cao. Vision yên thấp, thân nhẹ, hợp người dáng nhỏ đi giày bệt; điểm này được nói thêm trong bài [Honda Vision với nữ giới đi làm hằng ngày](/xe-may/2026/09/27/honda-vision-voi-nu-gioi-i-lam-hang-ngay/).
+**Xe tay ga sàn phẳng là lựa chọn dễ nhất.** Honda Vision, Honda Click hay Yamaha Mio đều có phần sàn để chân phẳng phía trước yên. Bạn bước chân qua sàn rồi ngồi xuống, không phải vung chân qua yên như xe số, nên chân váy không bị kéo căng hay vén cao. Vision yên thấp, thân nhẹ, hợp người dáng nhỏ đi giày bệt; điểm này được nói thêm trong bài [Honda Vision với nữ giới đi làm hằng ngày](/xe-may/2026/09/27/honda-vision-voi-nu-gioi-di-lam-hang-ngay/).
 
 **Honda Air Blade cũng là xe tay ga**, nhưng yên cao và dài hơn một chút. Người cao vừa phải mặc quần hoặc váy suông thì thoải mái; người dáng nhỏ mặc váy bút chì ôm sát sẽ thấy khó chống chân hơn.
 

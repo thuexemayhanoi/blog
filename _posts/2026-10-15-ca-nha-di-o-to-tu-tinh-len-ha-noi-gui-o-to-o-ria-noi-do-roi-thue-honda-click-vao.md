@@ -50,7 +50,7 @@ Hai vợ chồng và hai con tuổi cấp hai xuất phát sáng thứ Bảy, đ
 
 Tính đơn giản: mỗi xe một người lái và một người ngồi sau. Nhà bốn người đi hai xe; nhà năm, sáu người thì ba xe, hoặc hai xe cho người trẻ còn ông bà đi taxi giữa các điểm. Không nên chở ba trên một chiếc xe ga nhỏ giữa phố đông, kể cả khi có trẻ nhỏ.
 
-Ghép người cũng có mẹo. Người lái vững nhất chở em nhỏ hoặc người lớn tuổi, người ít đi xe ga thì chở người nhẹ cân hoặc đi một mình. Click thân nhẹ nên người ngồi sau cần ngồi yên, nghiêng theo xe chứ không ngả người ngược lại khi vào cua; cách ngồi và để đồ khi chở hai người có ở bài [Honda Click chở hai người đi phố](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-i-pho-yen-va-cop/).
+Ghép người cũng có mẹo. Người lái vững nhất chở em nhỏ hoặc người lớn tuổi, người ít đi xe ga thì chở người nhẹ cân hoặc đi một mình. Click thân nhẹ nên người ngồi sau cần ngồi yên, nghiêng theo xe chứ không ngả người ngược lại khi vào cua; cách ngồi và để đồ khi chở hai người có ở bài [Honda Click chở hai người đi phố](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-di-pho-yen-va-cop/).
 
 Mũ bảo hiểm cho trẻ là thứ hay bị quên. Có ô tô thì tiện nhất là mang mũ vừa cỡ từ nhà; còn việc cửa hàng có kèm mũ và có cỡ cho trẻ hay không, hãy hỏi cửa hàng khi đặt xe.
 

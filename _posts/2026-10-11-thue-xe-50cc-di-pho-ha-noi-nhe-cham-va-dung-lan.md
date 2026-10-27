@@ -30,7 +30,7 @@ Giới hạn thứ hai là phanh và lốp cỡ nhỏ. Bánh xe bé nghĩa là d
 
 ## Chạy chậm và đúng làn trên đường nội thành
 
-Nguyên tắc chung khi đi phố đông đã quen thuộc: giữ ga đều, nhìn xa, rà phanh sớm. Với xe 50cc, giữ ga đều còn quan trọng hơn, vì xe tăng tốc chậm, mỗi lần phải phanh rồi tăng lại là một lần tụt khỏi dòng xe. Cách giữ ga êm trong phố đã được bàn trong bài [xe ga tiết kiệm xăng khi ì ở nơi nào là đúng](/xe-may/2026/09/29/xe-ga-tiet-kiem-xang-khi-i-noi-o-la-dong-nao/), nguyên tắc nhìn xa và rà sớm áp dụng y nguyên cho dòng xe nhỏ.
+Nguyên tắc chung khi đi phố đông đã quen thuộc: giữ ga đều, nhìn xa, rà phanh sớm. Với xe 50cc, giữ ga đều còn quan trọng hơn, vì xe tăng tốc chậm, mỗi lần phải phanh rồi tăng lại là một lần tụt khỏi dòng xe. Cách giữ ga êm trong phố đã được bàn trong bài [xe ga tiết kiệm xăng khi ì ở nơi nào là đúng](/xe-may/2026/09/29/xe-ga-tiet-kiem-xang-khi-di-noi-do-la-dong-nao/), nguyên tắc nhìn xa và rà sớm áp dụng y nguyên cho dòng xe nhỏ.
 
 Về làn đường, xe 50cc tuân theo làn của xe hai bánh, không phải làn xe đạp. Nhiều khách mới thuê lợi dụng độ nhỏ của xe để rẽ tắt qua làn đang dừng đèn hoặc bò lên vỉa hè vượt tắc. Cách đi đó nhanh hơn vài giây nhưng rủi ro va chạm cao, và ở các điểm có lực lượng điều tiết giao thông, lỗi làn và lỗi lên vỉa hè đều bị xử lý như mọi xe hai bánh khác.
 

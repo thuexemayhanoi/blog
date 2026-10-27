@@ -54,7 +54,7 @@ Với phần đông khách chỉ đi phố, câu trả lời thường là nhóm
 
 ### Chuyện xăng
 
-Về nguyên tắc, máy lớn hơn dễ tốn xăng hơn nếu chạy cùng một kiểu. Tuy nhiên, trong phố Hà Nội, cách bạn vặn ga và số lần dừng đèn ảnh hưởng tới mức tốn xăng nhiều hơn khác biệt giữa các nhóm cc. Một chiếc xe nhỏ bị vặn ga giật cục suốt ngày vẫn có thể tốn hơn chiếc lớn được lái nhẹ nhàng. Muốn tiết kiệm, hãy giữ ga đều, nhả ga sớm khi thấy đèn đỏ phía trước. Bài [xe ga tiết kiệm xăng khi đi nội đô](/xe-may/2026/09/29/xe-ga-tiet-kiem-xang-khi-i-noi-o-la-dong-nao/) có thêm vài thói quen hữu ích.
+Về nguyên tắc, máy lớn hơn dễ tốn xăng hơn nếu chạy cùng một kiểu. Tuy nhiên, trong phố Hà Nội, cách bạn vặn ga và số lần dừng đèn ảnh hưởng tới mức tốn xăng nhiều hơn khác biệt giữa các nhóm cc. Một chiếc xe nhỏ bị vặn ga giật cục suốt ngày vẫn có thể tốn hơn chiếc lớn được lái nhẹ nhàng. Muốn tiết kiệm, hãy giữ ga đều, nhả ga sớm khi thấy đèn đỏ phía trước. Bài [xe ga tiết kiệm xăng khi đi nội đô](/xe-may/2026/09/29/xe-ga-tiet-kiem-xang-khi-di-noi-do-la-dong-nao/) có thêm vài thói quen hữu ích.
 
 ### Chuyện nặng tay
 

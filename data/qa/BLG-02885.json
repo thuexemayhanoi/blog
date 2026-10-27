@@ -47,9 +47,46 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-14-mac-vay-hoac-ao-dai-di-xe-may-thue-chon-xe-va-cach-ngoi-cho-gon.md",
-  "content_sha256": "96a6fc046fba616eea0fa6d3345678498fe4d91d69d46b5339f590a3fad56809",
+  "content_sha256": "fcb577fa50921c920015ee0dbd29a5b008ba56e049074a8984f69e8a577ed1d7",
   "matrix_row_sha256": "64cb064fb02091cbccc9bd21c4f1faae0a6db3f11984bb76d977d7283c5b691e",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-14T16:23:55+00:00"
+  "published_at": "2026-10-14T16:23:55+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "link-retarget",
+    "purpose": "internal-link-retarget",
+    "reason": "Tro lien ket noi bo thang toi URL moi (sau di tru slug d -> d, hoac them dau / cuoi) thay vi qua trang chuyen huong/301 cua may chu. Issue #77.",
+    "approval_ref": "owner-chat-2026-10-28/issue-77",
+    "batch_id": "links-20261028-c02b-01",
+    "revised_at": "2026-10-27T19:02:46+00:00",
+    "previous_evidence_sha256": "94915d0f4dd90058837aa2fc4faeaa20915cf82ef768493b4de747813e7918eb",
+    "previous_content_sha256": "96a6fc046fba616eea0fa6d3345678498fe4d91d69d46b5339f590a3fad56809",
+    "previous_matrix_row_sha256": "64cb064fb02091cbccc9bd21c4f1faae0a6db3f11984bb76d977d7283c5b691e",
+    "new_content_sha256": "fcb577fa50921c920015ee0dbd29a5b008ba56e049074a8984f69e8a577ed1d7",
+    "mapping_sha256": "e537c2e65f0910b0b7de0188886fc822290aaca9b4792aaefe39a2decad1b3b3",
+    "links_retargeted": 1,
+    "targets": {
+      "/xe-may/2026/09/27/honda-vision-voi-nu-gioi-i-lam-hang-ngay/": 1
+    },
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/migrate-slug-urls.py links-apply",
+    "tool_commit": "bdc9846d27d396d923582606ab829e28ea1b72c5",
+    "scorer_code_sha256": "e75668446d2abd25738e25f75c2790e0a2208bc96e1266103665b0366b729497",
+    "business_facts_sha256": "7725c6795ff9b6e9e2988f2d298f660e6d97ba11eee84f43473468c1ecd05b04",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "migrate_tool_sha256": "ddd2be356a2f313bf991d56eab56c101545909274cab45dcbb11e2039f5bcefd",
+    "slugkit_sha256": "3ca830e9d1fe26935aafc87750f95908dbe3b5cb9aa92d2779157ef4e6b1ec4d",
+    "baseline_sha256": "6a91c1c7e18ad2b6c0a85d309ae9939cc91c06e54106bf22f46280194222197c",
+    "note": "chi doi DICH lien ket noi bo (chu lien ket, tieu de, # doan va moi byte khac giu nguyen); scored_at/published_at o cap tren giu moc lich su goc; cham diem doc lap luc revised_at"
+  }
 }

@@ -46,7 +46,7 @@ Một báo giá nói miệng qua điện thoại rất dễ bị hiểu khác nh
 - Tin nhắn xác nhận đặt xe, có câu trả lời về việc giữ giá.
 - Nếu có chuyển khoản đặt trước, ảnh chụp giao dịch và tin nhắn xác nhận đã nhận.
 
-Đánh dấu hoặc ghim đoạn hội thoại đó để tới ngày nhận xe mở ra ngay được. Cách đọc một báo giá để biết con số nào là con số thật cần trả có ở bài [cách đọc báo giá thuê xe máy: con số nào là con số thật](/thue-xe/2026/09/27/cach-oc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that/ "Cách đọc báo giá thuê xe máy").
+Đánh dấu hoặc ghim đoạn hội thoại đó để tới ngày nhận xe mở ra ngay được. Cách đọc một báo giá để biết con số nào là con số thật cần trả có ở bài [cách đọc báo giá thuê xe máy: con số nào là con số thật](/thue-xe/2026/09/27/cach-doc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that/ "Cách đọc báo giá thuê xe máy").
 
 ## Xác nhận lại trước ngày nhận
 
