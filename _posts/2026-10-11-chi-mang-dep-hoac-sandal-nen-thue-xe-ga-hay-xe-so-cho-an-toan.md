@@ -42,7 +42,7 @@ Xe ga bỏ hẳn khâu đổi số bằng chân. Bạn đặt cả hai bàn châ
 
 Có điều xe ga không biến dép lê thành giày. Ở chỗ dừng đèn đỏ sau cơn mưa phùn, bạn vẫn phải chống một chân xuống mặt nhựa ướt rồi nhích lên giữa cả đàn xe. Dép lê đế trơn có thể trượt đúng khoảnh khắc đó, còn sàn để chân ướt cũng không bám hơn. Chọn xe ga chỉ bớt đi một nguồn rủi ro.
 
-Nếu bạn còn mặc váy hoặc áo dài, phần trang phục ấy đã có bài riêng về [chọn xe ga hay xe số khi mặc váy hoặc áo dài](/hoi-dap/2026/10/11/mac-vay-hoac-ao-dai-i-xe-may-nen-thue-xe-ga-hay-xe-so/). Bài này chỉ nói về bàn chân.
+Nếu bạn còn mặc váy hoặc áo dài, phần trang phục ấy đã có bài riêng về [chọn xe ga hay xe số khi mặc váy hoặc áo dài](/hoi-dap/2026/10/11/mac-vay-hoac-ao-dai-di-xe-may-nen-thue-xe-ga-hay-xe-so/). Bài này chỉ nói về bàn chân.
 
 ## Đi dép lê thuê xe máy loại nào: ba nhóm dép và xe tương ứng
 
@@ -69,7 +69,7 @@ Bước nào làm bạn lúng túng thì hãy đổi xe hoặc đổi dép, đ�
 
 Dạo quanh Hồ Tây, dừng ngắm cảnh hay ghé quán nước ven đường là kiểu đi chậm, hợp với xe ga và đôi sandal quai hậu đã siết vừa chân. Bạn dừng và bước xuống nhiều, nên đôi dép phải bám tốt mỗi lần chân chạm vỉa hè.
 
-Loanh quanh trong nội thành, qua nhiều ngã tư và những đoạn phố cổ chật chội thì xe ga thường là lựa chọn mặc định vì dừng rồi đi liên tục. Xe số thì mỗi lần xuất phát thường kéo theo vài lần đổi số, đôi dép làm việc quá sức. Bài [gợi ý chọn xe khi chỉ đi trong nội thành](/hoi-dap/2026/09/29/chi-i-trong-noi-thanh-nen-thue-xe-may-loai-nao/) phân tích kỹ hơn phần đường phố.
+Loanh quanh trong nội thành, qua nhiều ngã tư và những đoạn phố cổ chật chội thì xe ga thường là lựa chọn mặc định vì dừng rồi đi liên tục. Xe số thì mỗi lần xuất phát thường kéo theo vài lần đổi số, đôi dép làm việc quá sức. Bài [gợi ý chọn xe khi chỉ đi trong nội thành](/hoi-dap/2026/09/29/chi-di-trong-noi-thanh-nen-thue-xe-may-loai-nao/) phân tích kỹ hơn phần đường phố.
 
 Đi xa hơn, chẳng hạn men đoạn đê ven sông Hồng hoặc ra vùng ngoại thành, quãng đường dài, mặt đường có lúc gồ ghề và thời tiết khó đoán. Nếu chỉ có dép, bạn nên rút ngắn kế hoạch hoặc mua một đôi giày ôm chân trước khi đi.
 

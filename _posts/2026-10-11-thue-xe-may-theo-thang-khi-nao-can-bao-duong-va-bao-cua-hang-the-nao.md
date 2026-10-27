@@ -31,7 +31,7 @@ Với mỗi dấu hiệu, một video mười giây quay cận cảnh thường 
 
 ## Thay nhớt giữa hợp đồng dài hạn: hỏi gì
 
-Nhớt là hạng mục chắc chắn phải bàn tới trong hợp đồng tháng, vì một tháng đi lại trong nội thành có khi vượt quãng đường ghi trên chai nhớt. Khi nhận xe, bạn hỏi lần thay gần nhất thực hiện ở km bao nhiêu, rồi ước lượng số km bạn đi mỗi tuần để biết có chạm mốc thay giữa tháng hay không. Nếu dự kiến đi nhiều, hỏi luôn ai chi tiền thay nhớt giữa kỳ, thay ở đâu, và có cần ghi vào biên bản hay chỉ cần hóa đơn. Danh mục đầy đủ của một lần bảo dưỡng định kỳ đã được liệt kê trong bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-inh-ky-xe-may-gom-nhung-gi/), giúp bạn biết hạng mục nào thuộc nhóm bắt buộc.
+Nhớt là hạng mục chắc chắn phải bàn tới trong hợp đồng tháng, vì một tháng đi lại trong nội thành có khi vượt quãng đường ghi trên chai nhớt. Khi nhận xe, bạn hỏi lần thay gần nhất thực hiện ở km bao nhiêu, rồi ước lượng số km bạn đi mỗi tuần để biết có chạm mốc thay giữa tháng hay không. Nếu dự kiến đi nhiều, hỏi luôn ai chi tiền thay nhớt giữa kỳ, thay ở đâu, và có cần ghi vào biên bản hay chỉ cần hóa đơn. Danh mục đầy đủ của một lần bảo dưỡng định kỳ đã được liệt kê trong bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-dinh-ky-xe-may-gom-nhung-gi/), giúp bạn biết hạng mục nào thuộc nhóm bắt buộc.
 
 Sau khi thay nhớt, bạn chụp ảnh đồng hồ km cùng chai nhớt ghi ngày thay, rồi nhắn lại cho cửa hàng một dòng ngắn gọn. Ghi chép nhỏ này giúp tháng sau hai bên biết chính xác xe đang ở kỳ nào, tránh việc thay nhầm kỳ hoặc tranh luận về trách nhiệm nhớt.
 

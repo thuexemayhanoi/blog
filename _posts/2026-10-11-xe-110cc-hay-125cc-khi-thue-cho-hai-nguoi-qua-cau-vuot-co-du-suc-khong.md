@@ -46,7 +46,7 @@ Hai người qua nhiều cầu vượt: nếu người sau nhẹ và dốc ngắ
 
 ## Xăng và cảm giác lái trong ngày
 
-Về xăng, chênh lệch giữa hai mức phân khối trong điều kiện phố thường nằm trong khoảng vài phần trăm bình mỗi ngày, chưa đủ để đổi lựa chọn. Cảm giác lái mới là thứ đáng cân: người thích nhẹ tay, vào ngõ dễ dắt thì nghiêng về 110; người hay chạy vành đai, chở người sau dài hơi thì nghiêng về 125. Nếu bạn cân nhác giữa một xe và hai xe cho hai người, bài [hai người thuê một xe hay hai xe](/hoi-dap/2026/10/11/hai-nguoi-i-choi-thue-mot-xe-chung-hay-hai-xe-rieng-cho-thoai-mai/) có ví dụ tính theo kiểu đi cụ thể.
+Về xăng, chênh lệch giữa hai mức phân khối trong điều kiện phố thường nằm trong khoảng vài phần trăm bình mỗi ngày, chưa đủ để đổi lựa chọn. Cảm giác lái mới là thứ đáng cân: người thích nhẹ tay, vào ngõ dễ dắt thì nghiêng về 110; người hay chạy vành đai, chở người sau dài hơi thì nghiêng về 125. Nếu bạn cân nhác giữa một xe và hai xe cho hai người, bài [hai người thuê một xe hay hai xe](/hoi-dap/2026/10/11/hai-nguoi-di-choi-thue-mot-xe-chung-hay-hai-xe-rieng-cho-thoai-mai/) có ví dụ tính theo kiểu đi cụ thể.
 
 Cuối cùng, đừng bỏ qua cảm giác ban đầu: nếu chiếc 110 cho bạn cảm giác nhẹ và vừa tay ngay vòng đầu, chiếc đó đáng lấy hơn một chiếc 125 chưa chắc tình trạng. Phân khối chỉ là số; tình trạng xe và cảm giác vừa người mới đi cùng bạn cả ngày.
 

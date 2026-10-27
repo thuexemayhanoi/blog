@@ -46,7 +46,7 @@ Và nếu vì lý do nào đó bạn trễ giờ đã hẹn, phụ phí trễ s�
 
 ## Những gì cần ghi lại trước khi trả
 
-Dù chọn phương án nào, ba thứ cần được ghi lại: ngày giờ bàn giao đã thống nhất, mức giá và số ngày tính cho kỳ thuê, và tình trạng xe lúc bàn giao. Ảnh chụp xe ở các góc, cùng tin nhắn xác nhận của hai bên, là bằng chứng mềm đủ dùng cho hầu hết tình huống. Bạn nên đọc thêm về [quy trình trả xe ứng để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/) trước khi thực hiện.
+Dù chọn phương án nào, ba thứ cần được ghi lại: ngày giờ bàn giao đã thống nhất, mức giá và số ngày tính cho kỳ thuê, và tình trạng xe lúc bàn giao. Ảnh chụp xe ở các góc, cùng tin nhắn xác nhận của hai bên, là bằng chứng mềm đủ dùng cho hầu hết tình huống. Bạn nên đọc thêm về [quy trình trả xe ứng để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/) trước khi thực hiện.
 
 Một điều nữa là công tơ mét và mức xăng: nếu bàn giao không trực tiếp, các con số này cần được ghi rõ trong tin nhắn, vì chúng là căn cứ cho khoản phát sinh nếu có. Kèm ảnh đồng hồ ngay trước lúc gửi xe là cách chuẩn nhất.
 

@@ -26,7 +26,7 @@ Loại thứ ba là tường cũ và rìa tường rào. Đoạn tường xây l
 
 Giữa phố đông, chỗ an toàn nhất thường là hẻm nhỏ hai bên nhà, lối đi có tường bao quanh ba phía, hoặc sát chân cột bê tông và gốc tường chịu lực. Những chỗ này giảm hẳn tốc độ gió quật trực diện vào xe. Ngược lại, khoảng trống giữa hai dãy nhà là nơi gió dồn qua như ống thổi, giao lộ rộng là nơi lốc xoáy nhỏ hình thành, còn bãi xe giữa sân trống trải là nơi mỗi cơn giật đều đánh trúng không che chắn.
 
-Nếu buộc phải gửi ở bãi rộng, hãy đỗ sát rìa có khối nhà phía đón gió, và ghép xe vào giữa hàng xe khác thay vì đứng lẻ loi một góc. Cả hàng xe chống nghiêng san sát nhau tạo thành khối cản gió tốt hơn nhiều so với một chiếc xe đơn độc. Tránh đỗ sát hàng rào kẽm và cổng sắt có bản lề cũ, vì cổng sắt hay bị gió đẩy ập mở liên hồi, và mỗi cú ập là một lần đánh vào hàng xe gần đó. Các ghi chú về chỗ gửi quanh bờ Hồ Tây đã có trong bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/), còn nhiều ghi chú đi đường theo mùa được tổng hợp trong mục [kinh nghiệm](/kinh-nghiem/).
+Nếu buộc phải gửi ở bãi rộng, hãy đỗ sát rìa có khối nhà phía đón gió, và ghép xe vào giữa hàng xe khác thay vì đứng lẻ loi một góc. Cả hàng xe chống nghiêng san sát nhau tạo thành khối cản gió tốt hơn nhiều so với một chiếc xe đơn độc. Tránh đỗ sát hàng rào kẽm và cổng sắt có bản lề cũ, vì cổng sắt hay bị gió đẩy ập mở liên hồi, và mỗi cú ập là một lần đánh vào hàng xe gần đó. Các ghi chú về chỗ gửi quanh bờ Hồ Tây đã có trong bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/), còn nhiều ghi chú đi đường theo mùa được tổng hợp trong mục [kinh nghiệm](/kinh-nghiem/).
 
 ## Xe máy đổ do gió lớn: cách chống để gió không quật
 

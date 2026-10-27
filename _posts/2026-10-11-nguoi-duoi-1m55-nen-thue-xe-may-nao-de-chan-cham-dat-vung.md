@@ -54,7 +54,7 @@ Nếu ghé Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (mở
 
 Ở khu phố cổ hay những ngõ nhỏ quanh Long Biên, bạn thường phải dắt xe vào chỗ đậu hẹp, lùi qua vỉa hè thấp hoặc đoạn dốc hầm. Đây là lúc độ nặng của xe lộ rõ hơn cả khi chạy. Thử hình dung buổi tối bạn đi ăn ở phố cổ, chủ quán chỉ chỗ gửi xe trong ngõ, mặt nền hơi nghiêng. Xe nặng, chân chống đặt lệch là xe dễ đổ nhất.
 
-Vì vậy hãy tập thói quen chọn mặt phẳng khi dừng và để ý chân chống đã chạm đất chắc chưa. Với dốc nhỏ, đừng cố lùi xe một mình bằng sức tay; nhờ người trông xe đỡ một lần cũng không mất gì. Nếu bạn chủ yếu loanh quanh trong thành phố, bài [chọn xe khi chỉ đi trong nội thành](/hoi-dap/2026/09/29/chi-i-trong-noi-thanh-nen-thue-xe-may-loai-nao/) sẽ giúp bạn cân nhắc thêm về độ gọn của xe.
+Vì vậy hãy tập thói quen chọn mặt phẳng khi dừng và để ý chân chống đã chạm đất chắc chưa. Với dốc nhỏ, đừng cố lùi xe một mình bằng sức tay; nhờ người trông xe đỡ một lần cũng không mất gì. Nếu bạn chủ yếu loanh quanh trong thành phố, bài [chọn xe khi chỉ đi trong nội thành](/hoi-dap/2026/09/29/chi-di-trong-noi-thanh-nen-thue-xe-may-loai-nao/) sẽ giúp bạn cân nhắc thêm về độ gọn của xe.
 
 ## Mẹo giữ vững khi dừng đèn đỏ
 

@@ -20,7 +20,7 @@ Thuê xe máy chở con nhỏ ở Hà Nội thì xe ga hay xe số đỡ lo hơn
 
 Một bé hai tuổi thiếp đi trên lưng bố khác hẳn một bé sáu tuổi cứ vài phút lại ngọ nguậy. Nếu bé còn quá nhỏ, chưa tự ngồi vững, bạn nên cân nhắc kỹ có nên đi xe máy hay không, thay vì cố tìm một chiếc xe "an toàn tuyệt đối" vốn không tồn tại.
 
-Trước khi so xe, hãy ghi ra ba điều: bé bao nhiêu tuổi và cao cỡ nào, bạn chở một hay hai bé, và mỗi chuyến đi dài hay ngắn. Đưa đón tới cổng trường tiểu học là những đoạn ngắn, nhiều lần dừng, nhiều lúc phải dắt xe giữa dòng phụ huynh giờ tan học. Vòng quanh hồ Tây cả buổi sáng cuối tuần lại khác: bé ngồi lâu, cần chỗ tựa và yên êm hơn. Nếu bạn chỉ loanh quanh trong phố, bài về [chỉ đi trong nội thành nên thuê loại xe nào](/hoi-dap/2026/09/29/chi-i-trong-noi-thanh-nen-thue-xe-may-loai-nao/) giúp khoanh vùng nhanh hơn.
+Trước khi so xe, hãy ghi ra ba điều: bé bao nhiêu tuổi và cao cỡ nào, bạn chở một hay hai bé, và mỗi chuyến đi dài hay ngắn. Đưa đón tới cổng trường tiểu học là những đoạn ngắn, nhiều lần dừng, nhiều lúc phải dắt xe giữa dòng phụ huynh giờ tan học. Vòng quanh hồ Tây cả buổi sáng cuối tuần lại khác: bé ngồi lâu, cần chỗ tựa và yên êm hơn. Nếu bạn chỉ loanh quanh trong phố, bài về [chỉ đi trong nội thành nên thuê loại xe nào](/hoi-dap/2026/09/29/chi-di-trong-noi-thanh-nen-thue-xe-may-loai-nao/) giúp khoanh vùng nhanh hơn.
 
 ## Yên sau và tay nắm: chỗ bé ngồi, chỗ bé bám
 

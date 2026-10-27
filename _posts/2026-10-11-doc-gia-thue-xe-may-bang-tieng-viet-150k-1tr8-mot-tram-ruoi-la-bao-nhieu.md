@@ -36,7 +36,7 @@ Cần phân biệt với cách dùng chữ nghìn trong đời sống thường 
 
 Hãy thử đọc một bảng giá tham khảo quanh Hà Nội. Dòng xe số như Wave, Sirius, Nero thường 150k một ngày; Vision hoặc Air Blade khoảng 200k một ngày. Thuê theo tuần, Click hoặc Mio khoảng 700.000 đồng, dòng tay ga lớn hơn tầm 1.000.000 đồng. Thuê tháng, Click hoặc Mio khoảng 900.000 đồng đến 1.200.000 đồng, Vision khoảng 1.800.000 đồng đến 2.000.000 đồng.
 
-Đọc bằng tai khá khó, nên cách an toàn là đề nghị chủ xe gửi lại một tin nhắn có đủ ba mức: theo ngày, theo tuần và theo tháng. So sánh ba mức trong cùng một tin nhắn, bạn sẽ thấy ngay đơn vị nào là k, đơn vị nào là tr. Đây cũng là bước đầu trong việc [so sánh giá thuê xe máy theo dòng xe trước khi đặt](/thue-xe/2026/10/10/so-sanh-gia-thue-xe-may-theo-dong-xe-truoc-khi-at/).
+Đọc bằng tai khá khó, nên cách an toàn là đề nghị chủ xe gửi lại một tin nhắn có đủ ba mức: theo ngày, theo tuần và theo tháng. So sánh ba mức trong cùng một tin nhắn, bạn sẽ thấy ngay đơn vị nào là k, đơn vị nào là tr. Đây cũng là bước đầu trong việc [so sánh giá thuê xe máy theo dòng xe trước khi đặt](/thue-xe/2026/10/10/so-sanh-gia-thue-xe-may-theo-dong-xe-truoc-khi-dat/).
 
 Giá niêm yết theo ngày giữa các dòng xe phổ thông có thể chênh nhau ít, nhưng cộng thêm phụ phí theo giờ hoặc theo km thì khác biệt rõ. Sau khi hiểu đúng mệnh giá, bạn nên xem thêm [cách so sánh giá theo ngày giữa các dòng xe phổ thông](/thue-xe/2026/10/07/so-sanh-gia-thue-xe-may-theo-ngay-giua-cac-dong-xe-pho-thong/) để biết mình đang giữ mức trung bình hay đang bị báo cao so với thị trường.
 

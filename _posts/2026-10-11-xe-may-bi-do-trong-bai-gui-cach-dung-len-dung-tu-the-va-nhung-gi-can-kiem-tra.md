@@ -45,7 +45,7 @@ Nói ngắn gọn, cụ thể và giữ bình tĩnh: cho họ biết bạn gửi
 
 Điều đầu tiên cần tránh là dựng xe theo bản năng kéo bổng với lưng cong. Thứ hai, tránh nổ máy chạy đi ngay khi xe vừa dựng: một số hỏng chỉ lộ ra sau khi xe lăn bánh vài chục mét. Thứ ba, đừng vuốt vội vùng bình xăng bằng tay không khi thấy loang dầu; dùng giấy hoặc vải khô để xem rõ vết loang mới hay cũ.
 
-Trong hàng xe chật, một chiếc xe đổ có thể kéo theo dây chuyền nếu bạn dựng vội và đụng xe khác. Hãy chờ dòng người qua thưa rồi thao tác, và nhớ rằng kỹ năng dắt lùi xe ra khỏi hàng cũng quan trọng không kém lúc bạn đưa xe ra giữa bãi đông. Bài viết về [chạy quanh Hồ Tây, điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/) có thêm vài gợi ý chọn bãi thông thoáng vào giờ cao điểm.
+Trong hàng xe chật, một chiếc xe đổ có thể kéo theo dây chuyền nếu bạn dựng vội và đụng xe khác. Hãy chờ dòng người qua thưa rồi thao tác, và nhớ rằng kỹ năng dắt lùi xe ra khỏi hàng cũng quan trọng không kém lúc bạn đưa xe ra giữa bãi đông. Bài viết về [chạy quanh Hồ Tây, điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-duong-chay-quanh-ho-tay-diem-dung-va-cho-gui-xe/) có thêm vài gợi ý chọn bãi thông thoáng vào giờ cao điểm.
 
 ## Ghi nhớ nhanh cho lần sau
 

@@ -73,7 +73,7 @@ Người chưa quen tay lái hai bánh có thể xem thêm bài [chọn xe cho n
 - Bóp cả hai phanh nhẹ ở tốc độ đi bộ, rồi tăng dần lực để biết xe dừng thế nào.
 - Chạy vòng rộng để quay đầu, tập liếc vai trước mỗi lần rẽ.
 
-Khi tay chân hết cứng, hãy sang những con đường nhỏ hơn rồi mới vào khung giờ đông dần. Ngõ nhỏ khu phố cổ là nơi nên dắt xe nếu bạn còn lưỡng lự. Nếu chủ yếu chạy trong nội thành, hãy đọc thêm bài [chọn xe máy cho người chỉ đi quanh nội thành](/hoi-dap/2026/09/29/chi-i-trong-noi-thanh-nen-thue-xe-may-loai-nao/).
+Khi tay chân hết cứng, hãy sang những con đường nhỏ hơn rồi mới vào khung giờ đông dần. Ngõ nhỏ khu phố cổ là nơi nên dắt xe nếu bạn còn lưỡng lự. Nếu chủ yếu chạy trong nội thành, hãy đọc thêm bài [chọn xe máy cho người chỉ đi quanh nội thành](/hoi-dap/2026/09/29/chi-di-trong-noi-thanh-nen-thue-xe-may-loai-nao/).
 
 ## Khi nào nên dừng lại và hỏi cửa hàng
 

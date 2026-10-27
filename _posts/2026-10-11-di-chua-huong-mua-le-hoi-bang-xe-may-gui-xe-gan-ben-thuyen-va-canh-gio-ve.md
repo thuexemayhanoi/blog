@@ -48,7 +48,7 @@ Trên người chỉ nên mang đồ nhẹ. Đồ thừa để lại trong cốp
 
 Lễ hội, thuyền thường ngừng chở khách vào chiều muộn, và bãi xe rộng nhất cũng chính là lúc khó tìm xe nhất khi trời bắt đầu tối. Kinh nghiệm của nhiều người là tính ngược từ giờ về: muốn về tới Hà Nội trước tối, phải rời bến chùa Hương trước năm giờ chiều. Lấy xe, đội mũ, kiểm tra nhanh đèn rồi khởi hành sớm chừng nào thoải mái chừng ấy.
 
-Đoạn về qua các thị trấn vào giờ tan làm rất đông, chạy chậm, giữ làn đường bên phải. Nếu muốn đọc thêm về cách xử lý khi xe có sự cố trên đường trường, xem bài [thủng lốp hay xì hết máy trên quốc lộ](/cung-duong/2026/10/11/thung-lop-hay-xe-chet-may-tren-oan-vang-quoc-lo-6-lam-gi-au-tien/).
+Đoạn về qua các thị trấn vào giờ tan làm rất đông, chạy chậm, giữ làn đường bên phải. Nếu muốn đọc thêm về cách xử lý khi xe có sự cố trên đường trường, xem bài [thủng lốp hay xì hết máy trên quốc lộ](/cung-duong/2026/10/11/thung-lop-hay-xe-chet-may-tren-doan-vang-quoc-lo-6-lam-gi-dau-tien/).
 
 ## Trời mưa giữa chừng thì tính sao
 

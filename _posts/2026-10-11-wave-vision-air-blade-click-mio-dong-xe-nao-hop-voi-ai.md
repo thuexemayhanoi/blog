@@ -56,6 +56,6 @@ So sánh cả năm xe trong một buổi vẫn là cách nhanh nhất: ghé cử
 
 ## Ngồi thử trước khi chốt
 
-Dù đã chốt tên gọi, hãy dành vài phút thử xe: đặt chân xuống xem có chạm đất vững, bóp phanh thử, chạy một vòng ngắn ở chỗ vắng. Xe nào làm tay chân bạn tự nhiên nhất là xe nên lấy, kể cả khi nó không phải dòng định hỏi lúc đầu. Ai cân nhắc giữa ba xe cùng giá ngày có thể xem thêm [so sánh Wave, Click và Mio theo từng chuyến đi](/hoi-dap/2026/10/11/cung-150000-mot-ngay-nen-thue-wave-click-hay-mio/); các tình huống chọn xe khác nằm ở mục [hỏi đáp chọn xe](/hoi-dap/hoi-dap-chon-xe/).
+Dù đã chốt tên gọi, hãy dành vài phút thử xe: đặt chân xuống xem có chạm đất vững, bóp phanh thử, chạy một vòng ngắn ở chỗ vắng. Xe nào làm tay chân bạn tự nhiên nhất là xe nên lấy, kể cả khi nó không phải dòng định hỏi lúc đầu. Ai cân nhắc giữa ba xe cùng giá ngày có thể xem thêm [so sánh Wave, Click và Mio theo từng chuyến đi](/hoi-dap/2026/10/11/cung-150000d-mot-ngay-nen-thue-wave-click-hay-mio/); các tình huống chọn xe khác nằm ở mục [hỏi đáp chọn xe](/hoi-dap/hoi-dap-chon-xe/).
 
 Muốn nhìn tận mắt cả năm dòng xe, bạn có thể ghé Nguyễn Tú ở 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội trong giờ mở cửa 09:00–21:00 hoặc gọi 0942 467 674 trước khi đi. Lên lịch sớm, bạn sẽ có đủ thời gian ngồi thử cả năm xe thay vì chọn vội một chiếc. Nếu sau bài này bạn vẫn còn câu hỏi, [chuyên mục hỏi đáp](/hoi-dap/) có thêm nhiều tình huống chọn xe theo dáng người, trang phục và điểm đến.

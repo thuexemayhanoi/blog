@@ -40,7 +40,7 @@ Trên xe số, bạn ngồi khá cao, lưng thẳng, hai chân gác hai bên th�
 
 Xe số cũng có điểm bất tiện: chân tay đều bận, và đúng lúc phải giảm tốc trước ổ gà thì người ít quen dễ lúng túng giữa cần số, phanh và ga. Xe số phổ thông đổi số bằng cần số ở chân, nhả ga nhẹ khi đổi; nếu chưa quen, hãy tập vài vòng trong ngõ vắng trước khi lên đê.
 
-Người hay mỏi lưng nên cân nhắc kỹ, vì xe ga dồn xóc lên cột sống còn gồng người lâu trên xe số cũng mệt; bài về [chọn xe máy cho người hay đau lưng khi đi xa](/hoi-dap/2026/10/04/chon-xe-may-khi-hay-bi-au-lung-khi-i-xa/) phân tích thêm. Người cao to cũng nên xem [cách chọn xe cho người cao to](/hoi-dap/2026/10/04/chon-xe-may-cho-nguoi-cao-to-yen-rong-va-tay-lai/), vì ngồi gò bó thì cơ thể không còn chỗ để hấp thụ cú xóc.
+Người hay mỏi lưng nên cân nhắc kỹ, vì xe ga dồn xóc lên cột sống còn gồng người lâu trên xe số cũng mệt; bài về [chọn xe máy cho người hay đau lưng khi đi xa](/hoi-dap/2026/10/04/chon-xe-may-khi-hay-bi-dau-lung-khi-di-xa/) phân tích thêm. Người cao to cũng nên xem [cách chọn xe cho người cao to](/hoi-dap/2026/10/04/chon-xe-may-cho-nguoi-cao-to-yen-rong-va-tay-lai/), vì ngồi gò bó thì cơ thể không còn chỗ để hấp thụ cú xóc.
 
 ## Xe số hay xe ga đường xấu: chọn theo từng hoàn cảnh
 

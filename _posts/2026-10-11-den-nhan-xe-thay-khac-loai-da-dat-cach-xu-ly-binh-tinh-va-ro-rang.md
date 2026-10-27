@@ -40,7 +40,7 @@ Trường hợp nên nhận: dòng thay thế tương đương hoặc cao hơn, 
 
 Trường hợp nên cân nhắc: dòng thấp hơn hẳn, xe cũ hơn nhiều năm, hoặc tình trạng kém như lốp mòn, đèn yếu, ắc quy chập chờn. Nếu vẫn muốn nhận cho tiện, đề nghị điều chỉnh giá cho tương xứng; nếu chênh lệch lớn, xin đổi lại hoặc hẹn chiếc khác.
 
-Trường hợp nên bỏ: cửa hàng không giải thích, không đưa phương án, và làm như bạn phải nhận bất kể chiếc nào có sẵn. Cách làm việc trước khi nhận xe thường báo trước cách làm việc sau đó, kể cả lúc xe gặp sự cố giữa kỳ thuê. Với tình huống nghiêm trọng hơn, bạn có thể xem [đổi xe giữa kỳ thuê khi xe gặp vấn đề](/thue-xe/2026/10/10/oi-xe-giua-ky-thue-khi-xe-gap-van-e/).
+Trường hợp nên bỏ: cửa hàng không giải thích, không đưa phương án, và làm như bạn phải nhận bất kể chiếc nào có sẵn. Cách làm việc trước khi nhận xe thường báo trước cách làm việc sau đó, kể cả lúc xe gặp sự cố giữa kỳ thuê. Với tình huống nghiêm trọng hơn, bạn có thể xem [đổi xe giữa kỳ thuê khi xe gặp vấn đề](/thue-xe/2026/10/10/doi-xe-giua-ky-thue-khi-xe-gap-van-de/).
 
 ## Quyền và trách nhiệm hai bên
 
@@ -54,7 +54,7 @@ Nếu bạn đã đặt cọc, hỏi trước cách xử lý khi đổi dòng ho
 
 Một thói quen nhỏ của khách thuê lâu năm: ghi biển số chiếc xe đã thuê mỗi kỳ. Chỉ cần lưu trong ghi chú điện thoại, lần sau đặt xe bạn có thể xin lại đúng chiếc đã quen tay lái, và cửa hàng dễ chuẩn bị hơn hẳn.
 
-Với lần đầu thuê, hãy đọc [thủ tục thuê xe máy cho người lần đầu đi thuê](/thue-xe/2026/10/10/thu-tuc-thue-xe-may-cho-nguoi-lan-au-i-thue/) để nắm các bước kiểm tra xe khi nhận, từ đó biết rõ mình cần gì ở chiếc xe được giao, đúng dòng hay không.
+Với lần đầu thuê, hãy đọc [thủ tục thuê xe máy cho người lần đầu đi thuê](/thue-xe/2026/10/10/thu-tuc-thue-xe-may-cho-nguoi-lan-dau-di-thue/) để nắm các bước kiểm tra xe khi nhận, từ đó biết rõ mình cần gì ở chiếc xe được giao, đúng dòng hay không.
 
 ## Tóm lại
 

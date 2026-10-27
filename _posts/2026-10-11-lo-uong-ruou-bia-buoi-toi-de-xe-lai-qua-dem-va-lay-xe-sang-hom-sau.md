@@ -29,7 +29,7 @@ Chỗ để xe tốt không nhất thiết là chỗ gần nhất. Hãy duyệt 
 - **Bãi giữ xe có người trông của quán hoặc tòa nhà.** Hỏi bãi còn nhận xe qua đêm không, đóng cửa và mở lại lúc nào, cách tính phí ra sao.
 - **Sân hoặc sảnh trong quán.** Nhiều quán nhỏ khu phố cổ cho dắt xe vào nhà, nhưng phải nhờ chủ quán trước khi họ dọn dẹp.
 - **Chỗ lưu trú gần đó.** Nếu ngủ lại khách sạn hay nhà nghỉ, hãy hỏi lễ tân về chỗ để xe.
-- **Nhà người quen gần quán.** Bài [qua đêm ở nhà người quen nên gửi xe đâu](/ky-nang/2026/10/09/qua-em-o-nha-nguoi-quen-nen-gui-xe-au/) có thêm gợi ý cho tình huống này.
+- **Nhà người quen gần quán.** Bài [qua đêm ở nhà người quen nên gửi xe đâu](/ky-nang/2026/10/09/qua-dem-o-nha-nguoi-quen-nen-gui-xe-dau/) có thêm gợi ý cho tình huống này.
 
 Hãy tránh lề đường vắng, đoạn đê ven sông Hồng tối, gốc cây không đèn, hoặc chắn cổng nhà dân và lối người đi bộ; xe để kiểu đó dễ bị nhắc dời hoặc mất phụ tùng. Một chỗ đáng tin thường có đèn sáng, có người thức hoặc camera, và không cản lối ai.
 
@@ -42,7 +42,7 @@ Lúc ngà ngà, trí nhớ là thứ đầu tiên xin nghỉ, nên đừng giao 
 3. Ghim vị trí trên bản đồ điện thoại rồi gửi cho một người bạn còn tỉnh táo. Sáng hôm sau bạn khỏi phải đoán mình đã quẹo vào con ngõ thứ hai hay thứ ba.
 4. Mang theo chìa khóa, mũ và đồ cá nhân; đừng bỏ đồ có giá trị trong cốp hay treo ở ghi đông.
 
-Chìa khóa nên nằm trong ngăn túi có khóa kéo thay vì túi quần, vì lúc ngồi nhậu nó rất dễ rơi. Muốn biết xe để ngoài trời qua đêm dễ bị nhắm vào bộ phận nào, hãy đọc bài về [cách giảm nguy cơ mất phụ tùng khi xe nằm lại ngoài đường](/ky-nang/2026/10/03/chong-trom-phu-tung-khi-gui-xe-qua-em/).
+Chìa khóa nên nằm trong ngăn túi có khóa kéo thay vì túi quần, vì lúc ngồi nhậu nó rất dễ rơi. Muốn biết xe để ngoài trời qua đêm dễ bị nhắm vào bộ phận nào, hãy đọc bài về [cách giảm nguy cơ mất phụ tùng khi xe nằm lại ngoài đường](/ky-nang/2026/10/03/chong-trom-phu-tung-khi-gui-xe-qua-dem/).
 
 ## Về nhà bằng taxi hay xe công nghệ cho trơn tru
 
@@ -60,7 +60,7 @@ Thử hình dung một tình huống quen: nhóm đồng nghiệp liên hoan ở
 
 Xe thuê có thêm một lớp việc, vì chiếc xe vẫn là tài sản của cửa hàng. Ngay tối đó hoặc sáng hôm sau, hãy báo cho cửa hàng biết xe đang để ở đâu và dự định lấy lúc nào, kèm ảnh vị trí và tình trạng xe. Với Nguyễn Tú, cửa hàng mở từ 09:00 đến 21:00, và chuyện để xe qua đêm ngoài bãi hay giờ trả xe nên hỏi, xác nhận trước khi đặt xe, đừng chờ đến đêm liên hoan mới đi tìm câu trả lời.
 
-Cũng không nên nhờ ai lái hộ xe về, nhất là người cũng đã uống; xe thuê thì còn phải hỏi cửa hàng xem ai được phép lái. Nếu cần chọn bãi, bài về [những điểm cần hỏi khi gửi xe thuê ở bãi qua đêm](/ky-nang/2026/10/07/gui-xe-may-thue-o-bai-giu-xe-qua-em-luu-y-gi/) liệt kê khá đủ.
+Cũng không nên nhờ ai lái hộ xe về, nhất là người cũng đã uống; xe thuê thì còn phải hỏi cửa hàng xem ai được phép lái. Nếu cần chọn bãi, bài về [những điểm cần hỏi khi gửi xe thuê ở bãi qua đêm](/ky-nang/2026/10/07/gui-xe-may-thue-o-bai-giu-xe-qua-dem-luu-y-gi/) liệt kê khá đủ.
 
 ## Sáng hôm sau: đừng vội ra lấy xe
 

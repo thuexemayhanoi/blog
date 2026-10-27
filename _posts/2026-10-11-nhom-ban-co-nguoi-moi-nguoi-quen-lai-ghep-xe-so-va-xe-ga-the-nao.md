@@ -43,7 +43,7 @@ Chọn xe cho nhóm đi cùng nhau, nguyên tắc ghép khá ngắn: người m�
 
 Đừng ép cả nhóm cùng một dòng xe nếu có người thật sự chỉ quen xe số; còn nếu ai cũng thấy ổn, một dòng xe cho cả nhóm là cách dễ canh nhịp nhất.
 
-Vóc dáng cũng ảnh hưởng chuyện ghép xe: người nhỏ người mà chân không chạm đất vững khi dừng sẽ căng thẳng ở mỗi ngã tư, nên hãy đọc thêm bài về [cách chọn xe cho người dưới 1m55 để chân chạm đất vững](/hoi-dap/2026/10/11/nguoi-duoi-1m55-nen-thue-xe-may-nao-e-chan-cham-at-vung/). Những tình huống chọn xe gần với bài này nằm trong chuyên mục [hỏi đáp chọn xe](/hoi-dap/hoi-dap-chon-xe/).
+Vóc dáng cũng ảnh hưởng chuyện ghép xe: người nhỏ người mà chân không chạm đất vững khi dừng sẽ căng thẳng ở mỗi ngã tư, nên hãy đọc thêm bài về [cách chọn xe cho người dưới 1m55 để chân chạm đất vững](/hoi-dap/2026/10/11/nguoi-duoi-1m55-nen-thue-xe-may-nao-de-chan-cham-dat-vung/). Những tình huống chọn xe gần với bài này nằm trong chuyên mục [hỏi đáp chọn xe](/hoi-dap/hoi-dap-chon-xe/).
 
 ## Cách xếp thứ tự đoàn xe để người mới và người quen lái đi cùng nhịp
 

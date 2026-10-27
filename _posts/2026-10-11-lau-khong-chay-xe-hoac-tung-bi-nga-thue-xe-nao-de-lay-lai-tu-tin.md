@@ -62,7 +62,7 @@ Một tình huống rất Hà Nội: sau khi nhận xe, bạn về khách sạn 
 
 **Buổi hai: rẽ và quan sát.** Chuyển sang những con phố nhỏ, ít xe trong khu dân cư. Tập bật xi nhan, liếc gương, rẽ trái rẽ phải, dừng trước vạch rồi đi tiếp. Đừng ngại tấp vào lề nghỉ giữa chừng, mỗi lần dừng ngắn là một lần cho tay thả lỏng.
 
-**Buổi ba: hòa vào dòng xe vừa phải.** Chọn giờ thấp điểm, tránh lúc tan tầm khi các ngã tư dồn xe. Nếu chỉ định đi loanh quanh trong thành phố, hãy xem thêm bài [chọn xe khi chỉ đi trong nội thành](/hoi-dap/2026/09/29/chi-i-trong-noi-thanh-nen-thue-xe-may-loai-nao/). Giữ khoảng cách xa hơn bình thường và để người khác vượt thay vì chạy đua cùng họ.
+**Buổi ba: hòa vào dòng xe vừa phải.** Chọn giờ thấp điểm, tránh lúc tan tầm khi các ngã tư dồn xe. Nếu chỉ định đi loanh quanh trong thành phố, hãy xem thêm bài [chọn xe khi chỉ đi trong nội thành](/hoi-dap/2026/09/29/chi-di-trong-noi-thanh-nen-thue-xe-may-loai-nao/). Giữ khoảng cách xa hơn bình thường và để người khác vượt thay vì chạy đua cùng họ.
 
 Mỗi buổi chỉ nên dài vừa đủ để bạn còn thấy dễ chịu, và nên nghỉ ngay khi bắt đầu mỏi.
 
