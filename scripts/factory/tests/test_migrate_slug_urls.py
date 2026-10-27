@@ -323,7 +323,8 @@ class TestApply(MigrateBase):
             for k in ('scored_at', 'published_at'):
                 self.assertEqual(ev.get(k), old_ev[a].get(k), k)
             self.assertIn('HTTP 200 + meta refresh', rv['redirect'])
-            self.assertNotIn('301', rv['redirect'].replace('khong phai HTTP 301', ''))
+            # Mô tả không được gọi stub là 301; bỏ đường dẫn stub trước khi kiểm vì ID như BLG-01301 chứa chuỗi '301'.
+            self.assertNotRegex(rv['redirect'].replace('khong phai HTTP 301', '').replace(SR.stub_relpath(a), ''), r'\b301\b')
             stub = (self.root / SR.stub_relpath(a)).read_text(encoding='utf-8')
             self.assertIn('permalink: %s\n' % old_url, stub)
             self.assertIn('redirect_to: %s\n' % row['expected_url'], stub)
