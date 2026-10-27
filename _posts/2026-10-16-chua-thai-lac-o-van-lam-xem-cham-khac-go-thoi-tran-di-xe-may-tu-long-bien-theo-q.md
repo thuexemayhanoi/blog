@@ -49,7 +49,7 @@ Theo truyền thuyết địa phương, bốn pho tượng Tứ Pháp vùng này
 
 Từ Nguyễn Văn Cừ, đi tới nút Cầu Chui rồi chuyển sang Nguyễn Văn Linh, tức quốc lộ 5, chạy về phía Hải Phòng qua Trâu Quỳ tới khu Như Quỳnh. Theo báo Hưng Yên, chùa cách quốc lộ 5 khoảng 2 km; khi tới gần, đặt điểm đến trên bản đồ là "chùa Thái Lạc". Cách chọn làn ở nút Cầu Chui có ở bài [khu Cầu Chui ở Long Biên](/du-lich/2026/10/16/khu-cau-chui-o-long-bien-chon-lan-xe-may-qua-nut-giao-nguyen-van-cu-ngo-gia-tu-n/ "Khu Cầu Chui ở Long Biên: chọn làn xe máy").
 
-Quốc lộ 5 nhiều xe tải, container. Đi sát bên phải, không chen giữa hai xe lớn và tránh điểm mù; xem thêm bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-iem-mu/ "Chạy xe máy cạnh xe tải và container ở Gia Lâm"). Nếu muốn ghép thêm một làng cổ cùng hướng, có thể tham khảo bài [đi làng cổ Nôm theo quốc lộ 5](/xe-may/2026/10/15/di-lang-co-nom-bang-honda-air-blade-thue-theo-quoc-lo-5-sang-van-lam-gui-xe-dau/ "Đi làng cổ Nôm theo quốc lộ 5").
+Quốc lộ 5 nhiều xe tải, container. Đi sát bên phải, không chen giữa hai xe lớn và tránh điểm mù; xem thêm bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-diem-mu/ "Chạy xe máy cạnh xe tải và container ở Gia Lâm"). Nếu muốn ghép thêm một làng cổ cùng hướng, có thể tham khảo bài [đi làng cổ Nôm theo quốc lộ 5](/xe-may/2026/10/15/di-lang-co-nom-bang-honda-air-blade-thue-theo-quoc-lo-5-sang-van-lam-gui-xe-dau/ "Đi làng cổ Nôm theo quốc lộ 5").
 
 ## Ứng xử khi vào chùa
 

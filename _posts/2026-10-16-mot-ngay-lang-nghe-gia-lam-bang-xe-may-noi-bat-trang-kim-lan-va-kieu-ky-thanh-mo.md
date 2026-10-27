@@ -31,9 +31,9 @@ Khi hỏi đường, cứ nói tên làng; người địa phương vẫn quen g
 
 ### Buổi sáng: Bát Tràng
 
-Từ Long Biên, đi theo đường đê Long Biên – Xuân Quan về phía Bát Tràng. Gửi xe ở bãi có người trông, rồi dành cả buổi sáng cho chợ gốm, các xưởng và bảo tàng. Đường vào làng và chỗ gửi xe có ở bài [làng gốm Bát Tràng bằng xe máy từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-uong-i-va-gui-xe/ "Làng gốm Bát Tràng bằng xe máy từ Long Biên"); nếu muốn xem trưng bày, đọc thêm bài [Bảo tàng gốm Bát Tràng bằng xe máy](/du-lich/2026/10/15/bao-tang-gom-bat-trang-bang-xe-may-tim-toa-nha-gui-xe-va-xem-trung-bay-trong-mot/ "Bảo tàng gốm Bát Tràng bằng xe máy").
+Từ Long Biên, đi theo đường đê Long Biên – Xuân Quan về phía Bát Tràng. Gửi xe ở bãi có người trông, rồi dành cả buổi sáng cho chợ gốm, các xưởng và bảo tàng. Đường vào làng và chỗ gửi xe có ở bài [làng gốm Bát Tràng bằng xe máy từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-duong-di-va-gui-xe/ "Làng gốm Bát Tràng bằng xe máy từ Long Biên"); nếu muốn xem trưng bày, đọc thêm bài [Bảo tàng gốm Bát Tràng bằng xe máy](/du-lich/2026/10/15/bao-tang-gom-bat-trang-bang-xe-may-tim-toa-nha-gui-xe-va-xem-trung-bay-trong-mot/ "Bảo tàng gốm Bát Tràng bằng xe máy").
 
-Mua đồ gốm thì để cuối ngày hoặc nhờ cửa hàng gửi về, đừng chở theo suốt vòng; cách gói đồ gốm trên xe máy có ở bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-o-gom-bat-trang-ve-bang-xe-may-cach-ong-goi-va-buoc-o/ "Chở đồ gốm Bát Tràng về bằng xe máy").
+Mua đồ gốm thì để cuối ngày hoặc nhờ cửa hàng gửi về, đừng chở theo suốt vòng; cách gói đồ gốm trên xe máy có ở bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-do-gom-bat-trang-ve-bang-xe-may-cach-dong-goi-va-buoc-do/ "Chở đồ gốm Bát Tràng về bằng xe máy").
 
 ### Cuối buổi sáng: Kim Lan
 

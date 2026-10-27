@@ -54,7 +54,7 @@ Cách an toàn nhất là không đi qua đoạn ngập sâu khi không nhìn th
 
 Nếu dắt xe qua nước, đừng đi sát lề hay sát song chắn rác, và đừng để trẻ nhỏ lội theo. Thấy nắp cống bị hở, hãy báo cho tổ dân phố, UBND phường hoặc đơn vị thoát nước để có người rào chắn.
 
-Hố ga không nắp ngày khô cũng nguy hiểm; cách tránh có ở bài [hố ga không nắp trên đường](/ky-nang/2026/10/10/ho-ga-khong-nap-tren-uong-tranh-va-giu-lai/ "Hố ga không nắp trên đường"). Nước ngập quanh tủ điện, cột điện là mối nguy khác cần tránh, xem bài [nước ngập quanh cột điện, tủ điện](/ky-nang/2026/10/15/nuoc-ngap-quanh-cot-dien-tu-dien-va-tram-bien-ap-vi-sao-khong-nen-di-hoac-dat-xe/ "Nước ngập quanh cột điện, tủ điện").
+Hố ga không nắp ngày khô cũng nguy hiểm; cách tránh có ở bài [hố ga không nắp trên đường](/ky-nang/2026/10/10/ho-ga-khong-nap-tren-duong-tranh-va-giu-lai/ "Hố ga không nắp trên đường"). Nước ngập quanh tủ điện, cột điện là mối nguy khác cần tránh, xem bài [nước ngập quanh cột điện, tủ điện](/ky-nang/2026/10/15/nuoc-ngap-quanh-cot-dien-tu-dien-va-tram-bien-ap-vi-sao-khong-nen-di-hoac-dat-xe/ "Nước ngập quanh cột điện, tủ điện").
 
 ## Những nơi hay ngập ở Hà Nội
 

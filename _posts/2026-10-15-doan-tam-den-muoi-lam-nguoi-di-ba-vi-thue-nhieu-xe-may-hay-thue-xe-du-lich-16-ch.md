@@ -62,9 +62,9 @@ Về mặt tổ chức, đoàn gần tám người thường gọn với bốn n
 
 Tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở từ 09:00 đến 21:00 và không giao xe ngoài khung giờ này. Muốn xuất phát sớm, hãy hỏi trước về việc nhận xe vào chiều hôm trước, trong giờ mở cửa; cách tính ngày thuê khi đó phải xác nhận trực tiếp. Thời gian và chi phí giao nhận cũng cần xác nhận trước khi đặt.
 
-Số xe tiệm có sẵn cho cả đoàn, việc đặt trước và cách nhận nhiều xe cùng lúc: bài này chưa có dữ liệu, hãy gọi 0942467674 để chốt rồi nhắn lại thành chữ. Việc người liên hệ chính nên làm có trong bài [thuê xe máy cho đoàn nhóm ở Hà Nội cần chuẩn bị gì](/thue-xe/2026/09/30/thue-xe-may-cho-oan-nhom-o-ha-noi-can-chuan-bi-gi/).
+Số xe tiệm có sẵn cho cả đoàn, việc đặt trước và cách nhận nhiều xe cùng lúc: bài này chưa có dữ liệu, hãy gọi 0942467674 để chốt rồi nhắn lại thành chữ. Việc người liên hệ chính nên làm có trong bài [thuê xe máy cho đoàn nhóm ở Hà Nội cần chuẩn bị gì](/thue-xe/2026/09/30/thue-xe-may-cho-doan-nhom-o-ha-noi-can-chuan-bi-gi/).
 
-Về điểm đến, đoàn thường chọn Vườn quốc gia Ba Vì hoặc khu hồ Suối Hai dưới chân núi. Đường vào khu núi có dốc, có cua, dễ gặp sương hoặc mưa, nên lịch cần khoảng đệm và đoàn xe máy phải về trước khi trời tối; có cảnh báo mưa bão thì hoãn chuyến. Đoàn đi xe máy nên đọc thêm [chạy xe máy cuối tuần đến Ba Vì cần chuẩn bị gì](/cung-duong/2026/10/05/chay-xe-may-cuoi-tuan-en-ba-vi-can-chuan-bi-gi/) về xe và cách chạy dốc.
+Về điểm đến, đoàn thường chọn Vườn quốc gia Ba Vì hoặc khu hồ Suối Hai dưới chân núi. Đường vào khu núi có dốc, có cua, dễ gặp sương hoặc mưa, nên lịch cần khoảng đệm và đoàn xe máy phải về trước khi trời tối; có cảnh báo mưa bão thì hoãn chuyến. Đoàn đi xe máy nên đọc thêm [chạy xe máy cuối tuần đến Ba Vì cần chuẩn bị gì](/cung-duong/2026/10/05/chay-xe-may-cuoi-tuan-den-ba-vi-can-chuan-bi-gi/) về xe và cách chạy dốc.
 
 ## Chọn theo kiểu đoàn
 

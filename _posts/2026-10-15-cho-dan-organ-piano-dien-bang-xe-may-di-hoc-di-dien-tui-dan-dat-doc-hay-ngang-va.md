@@ -39,7 +39,7 @@ Có ba tư thế hay gặp, mỗi tư thế một cái giá:
 - **Dọc, nằm theo thân xe.** Hẹp ngang, nhưng đầu đàn nhô ra sau, dễ vượt 0,5 mét sau giá, và đặt cao thì che đèn hậu, biển số. Đàn càng dài càng dễ vượt, đó là chuyện của thước dây.
 - **Dựng đứng, người ngồi sau ôm.** Loại bỏ. Khoản 4 điểm a cấm người được chở mang, vác vật cồng kềnh, còn đàn dựng đứng bắt gió như cánh buồm.
 
-Không có tư thế nào đúng cho mọi cây đàn. Hãy thử từng tư thế ngay cạnh xe, đo, rồi ngồi lên xe nhìn qua hai gương. Tư thế nào cũng vượt thì kết luận là không chở, đừng mất công tìm góc đặt khéo hơn. Bài [người ngồi sau ôm đồ trên đùi](/ky-nang/2026/10/14/nguoi-ngoi-sau-om-do-tren-dui-mon-nao-duoc-mon-nao-phai-buoc-lai/) nói rõ vì sao món lớn không nên nằm trong tay người sau. Với đàn guitar, hướng dẫn buộc riêng nằm trong bài [chở guitar buộc ngang lưng và chống ẩm](/ky-nang/2026/10/11/cho-an-guitar-tren-xe-may-buoc-ngang-lung-va-chong-am/).
+Không có tư thế nào đúng cho mọi cây đàn. Hãy thử từng tư thế ngay cạnh xe, đo, rồi ngồi lên xe nhìn qua hai gương. Tư thế nào cũng vượt thì kết luận là không chở, đừng mất công tìm góc đặt khéo hơn. Bài [người ngồi sau ôm đồ trên đùi](/ky-nang/2026/10/14/nguoi-ngoi-sau-om-do-tren-dui-mon-nao-duoc-mon-nao-phai-buoc-lai/) nói rõ vì sao món lớn không nên nằm trong tay người sau. Với đàn guitar, hướng dẫn buộc riêng nằm trong bài [chở guitar buộc ngang lưng và chống ẩm](/ky-nang/2026/10/11/cho-dan-guitar-tren-xe-may-buoc-ngang-lung-va-chong-am/).
 
 ## Chống rung phím, giữ màn hình, chân đàn và bộ nguồn
 

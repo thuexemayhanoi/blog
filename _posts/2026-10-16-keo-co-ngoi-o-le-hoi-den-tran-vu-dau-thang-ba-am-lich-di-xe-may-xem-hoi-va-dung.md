@@ -59,7 +59,7 @@ Chúng tôi chưa thấy nguồn nào nói về bãi giữ xe riêng cho hội, 
 
 - Gửi xe ở điểm có người trông, có vé, xa khu sân đền một chút rồi đi bộ vào.
 - Không dựng xe trong ngõ nhỏ hay trên mặt đê.
-- Gặp đoàn rước thì dừng sát lề, chờ đoàn đi qua; xem bài [gặp đoàn rước trên đường hẹp](/ky-nang/2026/09/30/gap-oan-ruoc-tren-uong-hep-xu-ly-the-nao/ "Gặp đoàn rước trên đường hẹp").
+- Gặp đoàn rước thì dừng sát lề, chờ đoàn đi qua; xem bài [gặp đoàn rước trên đường hẹp](/ky-nang/2026/09/30/gap-doan-ruoc-tren-duong-hep-xu-ly-the-nao/ "Gặp đoàn rước trên đường hẹp").
 
 ## Ghép thêm hội làng khác ở Long Biên
 

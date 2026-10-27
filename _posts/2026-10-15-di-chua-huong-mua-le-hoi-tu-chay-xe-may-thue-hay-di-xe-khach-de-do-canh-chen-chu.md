@@ -78,6 +78,6 @@ Mùa lễ hội rơi vào đầu xuân, trời có thể rét hoặc mưa phùn,
 
 **Nên thuê xe máy nếu:** nhóm nhỏ, ai cũng khỏe và quen lái ngoại thành, muốn tự quyết giờ về, và chịu khó xuất phát sớm.
 
-Nếu bạn còn phân vân giữa chùa Hương và những điểm khác trong ngày, bài [Ba Vì, Tam Đảo hay Chùa Hương, một ngày thuê xe nên chọn hướng nào](/thue-xe/2026/10/11/ba-vi-tam-ao-hay-chua-huong-mot-ngay-thue-xe-nen-chon-huong-nao/) giúp so sánh theo mùa và sức tay lái.
+Nếu bạn còn phân vân giữa chùa Hương và những điểm khác trong ngày, bài [Ba Vì, Tam Đảo hay Chùa Hương, một ngày thuê xe nên chọn hướng nào](/thue-xe/2026/10/11/ba-vi-tam-dao-hay-chua-huong-mot-ngay-thue-xe-nen-chon-huong-nao/) giúp so sánh theo mùa và sức tay lái.
 
 Dù chọn cách nào, hãy kiểm tra lịch lễ hội và thông báo giao thông của năm đó, xem dự báo thời tiết và chuẩn bị thêm áo ấm. Các bài so sánh khác nằm trong mục [so sánh khi thuê xe máy](/xe-may/so-sanh-xe/), còn kiến thức chung về xe ở chuyên mục [xe máy](/xe-may/).

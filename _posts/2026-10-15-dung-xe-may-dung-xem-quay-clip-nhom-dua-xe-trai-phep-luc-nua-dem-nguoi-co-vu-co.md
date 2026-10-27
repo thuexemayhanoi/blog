@@ -63,7 +63,7 @@ Nếu lỡ quay, đừng đăng lên mạng kèm lời cổ động, và đừng
 4. **Bật đèn chiếu sáng phía trước.** Điều 20 khoản 1 yêu cầu bật đèn từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau.
 5. **Cả nhóm bạn rời cùng nhau,** thống nhất trước điểm hẹn kế tiếp để không ai ở lại một mình.
 
-Nếu thấy nguy hiểm đang xảy ra, hãy tấp vào lề chỗ an toàn rồi gọi 113, số khẩn cấp công khai của công an. Nói tên đường, mốc gần nhất, hướng nhóm xe đi và điều bạn đang thấy; trả lời các câu hỏi của người tiếp nhận. Đừng gọi khi đang chạy. Bài này không mô tả cách xử lý ở phía sau cuộc gọi vì không có nguồn chính thức để dẫn. Các đầu số khác xem bài [gọi số khẩn cấp nào khi gặp sự cố trên đường: 113, 114 hay 115](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/).
+Nếu thấy nguy hiểm đang xảy ra, hãy tấp vào lề chỗ an toàn rồi gọi 113, số khẩn cấp công khai của công an. Nói tên đường, mốc gần nhất, hướng nhóm xe đi và điều bạn đang thấy; trả lời các câu hỏi của người tiếp nhận. Đừng gọi khi đang chạy. Bài này không mô tả cách xử lý ở phía sau cuộc gọi vì không có nguồn chính thức để dẫn. Các đầu số khác xem bài [gọi số khẩn cấp nào khi gặp sự cố trên đường: 113, 114 hay 115](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/).
 
 ## Đi cùng bạn bè và thuê xe dạo phố đêm
 

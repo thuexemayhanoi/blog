@@ -50,7 +50,7 @@ Tuyến đường sắt Hà Nội – Hải Phòng vẫn có tàu khách chạy,
 
 Điểm mạnh của tàu là bạn nghỉ được trên đường, đến nơi còn sức đi chơi hoặc làm việc. Người đi công tác mang máy tính, tài liệu thường thấy tàu hợp hơn. Điểm yếu là sự phụ thuộc: lỡ tàu thì không đổi chuyến tùy ý, chuyến về cũng cố định. Hãy hỏi trước giờ tàu chiều về, đừng để ra ga mới biết đã hết chuyến.
 
-Nếu đang giữ xe thuê theo tuần mà muốn đi tàu, bài [đi xa hai ngày bằng tàu hoặc xe khách giữa tuần thuê, xe máy để ở đâu](/thue-xe/2026/10/11/i-tinh-khac-hai-ngay-bang-tau-hoac-xe-khach-giua-tuan-thue-xe-may-e-o-au/) liệt kê những câu nên hỏi cửa hàng trước.
+Nếu đang giữ xe thuê theo tuần mà muốn đi tàu, bài [đi xa hai ngày bằng tàu hoặc xe khách giữa tuần thuê, xe máy để ở đâu](/thue-xe/2026/10/11/di-tinh-khac-hai-ngay-bang-tau-hoac-xe-khach-giua-tuan-thue-xe-may-de-o-dau/) liệt kê những câu nên hỏi cửa hàng trước.
 
 ## Xuống ga Hải Phòng rồi đi lại thế nào
 

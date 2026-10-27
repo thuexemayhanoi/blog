@@ -23,7 +23,7 @@ Với người chỉ có vài ngày nghỉ, thứ cần so đầu tiên là th�
 
 Đi xe giường nằm thì bạn có thể ngủ trên đường nếu chọn chuyến chạy đêm, tới nơi còn nhiều ngày cho Sa Pa. Đổi lại, bạn mất sự chủ động giữa đường và phải lo phương tiện đi lại khi đã đến. Giờ xuất bến, giờ đến và điểm trả khách tùy nhà xe và có thể thay đổi, nên hãy xem thông tin của nhà xe trước.
 
-Một điểm dễ nhầm: nhiều xe khách chạy cao tốc, còn xe máy thì không. Theo Điều 25 khoản 3 Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15, xe mô tô, xe gắn máy không được đi trên đường cao tốc, trừ phương tiện phục vụ việc quản lý, bảo trì đường cao tốc. Vì vậy đừng lấy thời gian của xe khách làm mốc cho xe máy; hãy mở bản đồ ở chế độ xe máy và xem thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Một điểm dễ nhầm: nhiều xe khách chạy cao tốc, còn xe máy thì không. Theo Điều 25 khoản 3 Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15, xe mô tô, xe gắn máy không được đi trên đường cao tốc, trừ phương tiện phục vụ việc quản lý, bảo trì đường cao tốc. Vì vậy đừng lấy thời gian của xe khách làm mốc cho xe máy; hãy mở bản đồ ở chế độ xe máy và xem thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 ## Cách một: chạy xe máy thuê suốt chặng
 

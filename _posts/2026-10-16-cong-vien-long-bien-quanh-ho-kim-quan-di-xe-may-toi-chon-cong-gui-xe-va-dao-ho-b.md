@@ -35,7 +35,7 @@ Theo VietNamNet và Hà Nội Mới năm 2023, công viên có năm cổng, mỗ
 
 - **Chọn cổng gần chỗ bạn gửi xe**, không cần tìm "cổng chính".
 - **Gửi xe ở điểm trông giữ có vé**; nếu chưa rõ, hỏi bảo vệ hoặc người trông coi công viên về chỗ để xe máy.
-- **Không dựng xe trên vỉa hè hay lòng đường** Vạn Hạnh, Đoàn Khuê; đỗ xe trên vỉa hè trái phép là lỗi bị xử lý, xem bài [đậu xe máy trên vỉa hè có bị xử lý không](/hoi-dap/2026/10/07/hoi-au-xe-may-tren-via-he-co-bi-xu-ly-khong/ "Đậu xe máy trên vỉa hè có bị xử lý không").
+- **Không dựng xe trên vỉa hè hay lòng đường** Vạn Hạnh, Đoàn Khuê; đỗ xe trên vỉa hè trái phép là lỗi bị xử lý, xem bài [đậu xe máy trên vỉa hè có bị xử lý không](/hoi-dap/2026/10/07/hoi-dau-xe-may-tren-via-he-co-bi-xu-ly-khong/ "Đậu xe máy trên vỉa hè có bị xử lý không").
 - **Không chạy xe vào lối dạo** trong công viên; đây là lối dành cho người đi bộ.
 
 Nếu định ăn tối quanh khu này sau khi dạo, chỗ ăn và gửi xe buổi tối có ở bài [khu Việt Hưng buổi tối bằng xe máy](/du-lich/2026/10/04/khu-viet-hung-buoi-toi-bang-xe-may-an-uong-va-gui-xe/ "Khu Việt Hưng buổi tối bằng xe máy").

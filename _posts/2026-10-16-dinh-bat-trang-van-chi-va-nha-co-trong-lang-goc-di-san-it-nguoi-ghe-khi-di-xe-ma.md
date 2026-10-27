@@ -56,7 +56,7 @@ Năm 2025, thành phố khảo sát đề án "Bảo tàng sinh thái Làng cổ
 4. **Đi bộ vào ngõ cổ**, đi chậm, nói nhỏ, không tì tay vào tường cũ.
 5. **Nếu còn sức**, ghé thêm chùa Kim Trúc và đền Mẫu, hai di tích cấp thành phố khác của làng, rồi mới quay ra lấy xe.
 
-Đường từ Long Biên tới làng và chỗ gửi xe có ở bài [làng gốm Bát Tràng bằng xe máy từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-uong-i-va-gui-xe/ "Làng gốm Bát Tràng bằng xe máy từ Long Biên"). Muốn xem thêm gốm, ghé [Bảo tàng gốm Bát Tràng](/du-lich/2026/10/15/bao-tang-gom-bat-trang-bang-xe-may-tim-toa-nha-gui-xe-va-xem-trung-bay-trong-mot/ "Bảo tàng gốm Bát Tràng bằng xe máy") hoặc [chùa Tiêu Dao ở thôn Giang Cao](/du-lich/2026/10/16/chua-tieu-dao-o-thon-giang-cao-ngoi-chua-op-gom-canh-bat-trang-va-cach-di-xe-may/ "Chùa Tiêu Dao ở thôn Giang Cao").
+Đường từ Long Biên tới làng và chỗ gửi xe có ở bài [làng gốm Bát Tràng bằng xe máy từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-duong-di-va-gui-xe/ "Làng gốm Bát Tràng bằng xe máy từ Long Biên"). Muốn xem thêm gốm, ghé [Bảo tàng gốm Bát Tràng](/du-lich/2026/10/15/bao-tang-gom-bat-trang-bang-xe-may-tim-toa-nha-gui-xe-va-xem-trung-bay-trong-mot/ "Bảo tàng gốm Bát Tràng bằng xe máy") hoặc [chùa Tiêu Dao ở thôn Giang Cao](/du-lich/2026/10/16/chua-tieu-dao-o-thon-giang-cao-ngoi-chua-op-gom-canh-bat-trang-va-cach-di-xe-may/ "Chùa Tiêu Dao ở thôn Giang Cao").
 
 ## Câu hỏi thường gặp
 

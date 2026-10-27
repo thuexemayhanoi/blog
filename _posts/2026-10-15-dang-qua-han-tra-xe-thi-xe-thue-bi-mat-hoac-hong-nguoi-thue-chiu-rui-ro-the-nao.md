@@ -66,7 +66,7 @@ Xe thuê có loại bảo hiểm nào khác hay không, cọc được xử lý 
 
 Cách giảm bất ngờ nhất là báo trước ngày hẹn, trong giờ cửa hàng mở từ 09:00 đến 21:00. Tin nhắn nên nêu tên, loại xe, biển số, ngày hẹn cũ, ngày trả mới và nơi xe đang để. Đề nghị chưa được trả lời thì chưa phải đã gia hạn. Cách ghi nhận gia hạn bằng tin nhắn hay phụ lục được giải thích ở bài [gia hạn thuê xe có phải ký lại hợp đồng không](/hoi-dap/2026/10/15/gia-han-thue-xe-may-co-phai-ky-lai-hop-dong-khong-tin-nhan-xac-nhan-phu-luc-hay/).
 
-Những câu nên hỏi thêm: nếu trả trễ thì ghi nhận thế nào, nếu xe mất hoặc hỏng trong thời gian đó thì hợp đồng ghi gì, cọc xử lý ra sao. Danh sách các mục thường có trong hợp đồng nằm ở bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/). Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên.
+Những câu nên hỏi thêm: nếu trả trễ thì ghi nhận thế nào, nếu xe mất hoặc hỏng trong thời gian đó thì hợp đồng ghi gì, cọc xử lý ra sao. Danh sách các mục thường có trong hợp đồng nằm ở bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/). Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên.
 
 ## Nguồn tham khảo và điểm chưa kiểm chứng
 

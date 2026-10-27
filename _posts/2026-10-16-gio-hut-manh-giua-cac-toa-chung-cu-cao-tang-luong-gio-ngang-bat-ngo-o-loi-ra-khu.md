@@ -47,7 +47,7 @@ Chúng tôi chưa thấy báo chí nêu tên các khu đô thị khác ở Hà N
 
 Bản tin thời tiết Việt Nam dùng thang sức gió Bô-pho, đo ở độ cao 10 m trên vùng trống. Theo báo Nhân Dân, gió cấp 6 vào khoảng 39 tới 49 km/h, cấp 7 khoảng 50 tới 61 km/h, cấp 8 khoảng 62 tới 74 km/h. "Gió giật cấp 6 tới 7" là những cơn gió ngắn đạt mức đó, còn gió thổi đều thường thấp hơn một, hai cấp.
 
-Mùa hè, dông lốc có thể đến rất nhanh. VnExpress từng ghi lại cảnh một cơn lốc giờ tan tầm ở Mỹ Đình buộc hàng nghìn người đi xe máy phải tấp vào lề. Khi bản tin báo gió giật mạnh, hãy cân nhắc hoãn chuyến đi, nhất là qua khu nhà cao tầng; mẹo chung có ở bài [chạy xe máy khi gió mạnh ở Hà Nội](/ky-nang/2026/10/10/chay-xe-may-khi-gio-manh-o-ha-noi-can-e-y-gi/ "Chạy xe máy khi gió mạnh ở Hà Nội").
+Mùa hè, dông lốc có thể đến rất nhanh. VnExpress từng ghi lại cảnh một cơn lốc giờ tan tầm ở Mỹ Đình buộc hàng nghìn người đi xe máy phải tấp vào lề. Khi bản tin báo gió giật mạnh, hãy cân nhắc hoãn chuyến đi, nhất là qua khu nhà cao tầng; mẹo chung có ở bài [chạy xe máy khi gió mạnh ở Hà Nội](/ky-nang/2026/10/10/chay-xe-may-khi-gio-manh-o-ha-noi-can-de-y-gi/ "Chạy xe máy khi gió mạnh ở Hà Nội").
 
 ## Xe máy bị gió lùa giữa tòa nhà: giữ lái thế nào
 

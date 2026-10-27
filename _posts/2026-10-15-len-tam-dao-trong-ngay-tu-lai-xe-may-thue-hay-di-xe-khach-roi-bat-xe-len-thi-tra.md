@@ -21,7 +21,7 @@ Bài này để chọn, không phải để chỉ đường. Nếu đã quyết 
 
 ## Tam Đảo xe máy hay xe khách: hai cách ghép một ngày
 
-**Tự lái xe máy thuê.** Bạn nhận xe ở Long Biên, ra phía Đông Anh rồi đi theo quốc lộ 2 hướng Vĩnh Yên, tới đó rẽ vào quốc lộ 2B để lên núi. Hãy mở Google Maps ở chế độ xe máy. Theo Điều 25 khoản 3 Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15, xe mô tô, xe gắn máy không được đi trên đường cao tốc, trừ phương tiện phục vụ việc quản lý, bảo trì đường cao tốc. Nếu bản đồ gợi ý một đoạn cao tốc cho nhanh, hãy bỏ qua; nội dung chi tiết có trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+**Tự lái xe máy thuê.** Bạn nhận xe ở Long Biên, ra phía Đông Anh rồi đi theo quốc lộ 2 hướng Vĩnh Yên, tới đó rẽ vào quốc lộ 2B để lên núi. Hãy mở Google Maps ở chế độ xe máy. Theo Điều 25 khoản 3 Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15, xe mô tô, xe gắn máy không được đi trên đường cao tốc, trừ phương tiện phục vụ việc quản lý, bảo trì đường cao tốc. Nếu bản đồ gợi ý một đoạn cao tốc cho nhanh, hãy bỏ qua; nội dung chi tiết có trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 **Xe khách rồi bắt xe lên thị trấn.** Cách quen thuộc là đi xe khách hoặc xe buýt từ Hà Nội tới Vĩnh Yên, rồi đổi sang taxi, xe ôm hoặc xe buýt để lên Tam Đảo. Cũng có thể có chuyến đi thẳng lên thị trấn, nhưng điểm đón trả tùy nhà xe và hay thay đổi, nên hãy hỏi trước khi đặt chỗ.
 
@@ -61,7 +61,7 @@ Xe khách có điểm yếu ở chuyến về. Hãy hỏi trước chuyến cu�
 
 **Nên đi xe khách rồi bắt xe lên thị trấn nếu:** chưa ai từng chạy đèo, hoặc dự báo có mưa dông và sương dày; cả nhóm muốn thoải mái ghé quán; bạn chỉ định dạo một khu và ngắm sương, không cần xe để đi lại.
 
-Còn nếu lưỡng lự giữa nhiều hướng đi trong ngày, hãy đọc bài [Ba Vì, Tam Đảo hay Chùa Hương: một ngày thuê xe nên chọn hướng nào](/thue-xe/2026/10/11/ba-vi-tam-ao-hay-chua-huong-mot-ngay-thue-xe-nen-chon-huong-nao/).
+Còn nếu lưỡng lự giữa nhiều hướng đi trong ngày, hãy đọc bài [Ba Vì, Tam Đảo hay Chùa Hương: một ngày thuê xe nên chọn hướng nào](/thue-xe/2026/10/11/ba-vi-tam-dao-hay-chua-huong-mot-ngay-thue-xe-nen-chon-huong-nao/).
 
 ## Nếu chọn xe máy: ba việc nên làm trước ngày đi
 

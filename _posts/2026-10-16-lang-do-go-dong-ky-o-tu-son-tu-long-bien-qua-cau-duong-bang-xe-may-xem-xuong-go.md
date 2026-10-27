@@ -25,7 +25,7 @@ Trên biển hiệu, hóa đơn hay bản đồ, bạn vẫn có thể gặp cá
 
 ## Đi Đồng Kỵ bằng xe máy từ Long Biên
 
-Từ Long Biên, đi Ngô Gia Tự lên cầu Đuống, qua sông sang phía Yên Viên rồi theo quốc lộ 1 cũ hướng Từ Sơn; đây cũng là tuyến nhiều người dùng để đi đền Đô ở Đình Bảng, xem bài [từ Long Biên đi đền Đô Bắc Ninh bằng xe máy](/du-lich/2026/10/11/tu-long-bien-i-en-o-bac-ninh-bang-xe-may-quang-uong-va-thoi-gian-i-lai/ "Từ Long Biên đi đền Đô Bắc Ninh bằng xe máy"). Gần tới nơi, đặt điểm đến trên bản đồ là "làng Đồng Kỵ" hoặc "đình Đồng Kỵ". Xe máy không được đi vào đường cao tốc, nên đừng đi theo gợi ý của bản đồ nếu nó dẫn lên cao tốc.
+Từ Long Biên, đi Ngô Gia Tự lên cầu Đuống, qua sông sang phía Yên Viên rồi theo quốc lộ 1 cũ hướng Từ Sơn; đây cũng là tuyến nhiều người dùng để đi đền Đô ở Đình Bảng, xem bài [từ Long Biên đi đền Đô Bắc Ninh bằng xe máy](/du-lich/2026/10/11/tu-long-bien-di-den-do-bac-ninh-bang-xe-may-quang-duong-va-thoi-gian-di-lai/ "Từ Long Biên đi đền Đô Bắc Ninh bằng xe máy"). Gần tới nơi, đặt điểm đến trên bản đồ là "làng Đồng Kỵ" hoặc "đình Đồng Kỵ". Xe máy không được đi vào đường cao tốc, nên đừng đi theo gợi ý của bản đồ nếu nó dẫn lên cao tốc.
 
 Lưu ý về cầu Đuống trong năm 2026:
 

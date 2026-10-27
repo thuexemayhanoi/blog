@@ -65,7 +65,7 @@ Luật Giao thông của Anh khuyên khi bị lóa vì nắng thì giảm tốc 
 - **Nhìn theo vạch kẻ đường và mép đường** để giữ làn khi mắt còn lóa.
 - **Không phanh gấp** ngay khi thấy đèn mờ; quan sát thêm các dấu hiệu ở trên rồi mới quyết định.
 
-Cách giữ tầm nhìn khi nắng chiều chiếu thẳng vào mặt có ở bài [nắng chiều chói mặt hướng tây](/ky-nang/2026/10/11/nang-chieu-choi-mat-huong-tay-giu-tam-nhin-khi-lai/ "Nắng chiều chói mặt hướng tây"); gặp đèn vàng ở nút đông, xem bài [đèn vàng tại ngã tư đông người](/ky-nang/2026/10/11/en-vang-tai-nga-tu-ong-nguoi-i-tiep-hay-dung-lai/ "Đèn vàng tại ngã tư đông người").
+Cách giữ tầm nhìn khi nắng chiều chiếu thẳng vào mặt có ở bài [nắng chiều chói mặt hướng tây](/ky-nang/2026/10/11/nang-chieu-choi-mat-huong-tay-giu-tam-nhin-khi-lai/ "Nắng chiều chói mặt hướng tây"); gặp đèn vàng ở nút đông, xem bài [đèn vàng tại ngã tư đông người](/ky-nang/2026/10/11/den-vang-tai-nga-tu-dong-nguoi-di-tiep-hay-dung-lai/ "Đèn vàng tại ngã tư đông người").
 
 ## Câu hỏi thường gặp
 

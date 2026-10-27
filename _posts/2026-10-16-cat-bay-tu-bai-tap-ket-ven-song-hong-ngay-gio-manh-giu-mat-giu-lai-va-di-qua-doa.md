@@ -47,7 +47,7 @@ Cát trên mặt nhựa giống như những viên bi nhỏ dưới bánh xe. Đ
 - **Đi theo vệt bánh xe đã sạch cát** nếu thấy rõ, thay vì đi sát mép đường nơi cát dồn lại.
 - **Giữ khoảng cách xa với xe tải chở cát**, nhất là xe không che bạt.
 
-Luật Trật tự, an toàn giao thông đường bộ 2024, Điều 12, yêu cầu giảm tốc độ hoặc dừng lại khi có gió, bụi, hoặc mặt đường có nhiều đất đá, vật liệu rơi vãi. Khoảng cách khi đi sau xe tải có ở bài [đi sau xe tải chở cát đá](/ky-nang/2026/10/11/i-sau-xe-tai-cho-cat-a-khoang-cach-va-vi-tri-an-toan/ "Đi sau xe tải chở cát đá"); cách đi đường đê có ở bài [đi xe máy trên đường đê sông Hồng](/ky-nang/2026/10/15/di-xe-may-tren-duong-de-song-hong-mat-duong-hep-doc-xuong-de-va-xe-tai/ "Đi xe máy trên đường đê sông Hồng"). Nếu định đi xuống bãi cát, xem bài [xe số đi đường cát xuống bãi giữa sông Hồng](/xe-may/2026/10/15/xe-so-di-duong-cat-xuong-bai-giua-song-hong-va-bai-boi-ven-de-giu-so-thap-ga-deu/ "Xe số đi đường cát xuống bãi sông Hồng").
+Luật Trật tự, an toàn giao thông đường bộ 2024, Điều 12, yêu cầu giảm tốc độ hoặc dừng lại khi có gió, bụi, hoặc mặt đường có nhiều đất đá, vật liệu rơi vãi. Khoảng cách khi đi sau xe tải có ở bài [đi sau xe tải chở cát đá](/ky-nang/2026/10/11/di-sau-xe-tai-cho-cat-da-khoang-cach-va-vi-tri-an-toan/ "Đi sau xe tải chở cát đá"); cách đi đường đê có ở bài [đi xe máy trên đường đê sông Hồng](/ky-nang/2026/10/15/di-xe-may-tren-duong-de-song-hong-mat-duong-hep-doc-xuong-de-va-xe-tai/ "Đi xe máy trên đường đê sông Hồng"). Nếu định đi xuống bãi cát, xem bài [xe số đi đường cát xuống bãi giữa sông Hồng](/xe-may/2026/10/15/xe-so-di-duong-cat-xuong-bai-giua-song-hong-va-bai-boi-ven-de-giu-so-thap-ga-deu/ "Xe số đi đường cát xuống bãi sông Hồng").
 
 ## Giữ mắt khi cát bay
 
