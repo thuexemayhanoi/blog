@@ -50,7 +50,7 @@ Danh sách gọn như sau:
 - điện thoại sạc đầy và sạc dự phòng
 - giấy tờ xe mang theo người, không để trong cốp xe
 
-Về giấy tờ, tôi đã có bài riêng liệt kê chi tiết trong [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), bạn đọc trước khi đi. Người mới chạy đường núi nên xem thêm các lưu ý trong bài [biển báo cấm xe máy thường gặp](/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/) để nhận diện nhanh biển báo trên đèo, và bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) nếu lần đầu đi xa.
+Về giấy tờ, tôi đã có bài riêng liệt kê chi tiết trong [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), bạn đọc trước khi đi. Người mới chạy đường núi nên xem thêm các lưu ý trong bài [biển báo cấm xe máy thường gặp](/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/) để nhận diện nhanh biển báo trên đèo, và bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/) nếu lần đầu đi xa.
 
 ## Thuê xe cho chặng Mộc Châu ở đâu
 

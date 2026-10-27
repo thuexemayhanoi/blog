@@ -36,7 +36,7 @@ Khi đặt xe, bạn cũng nên để ý lối ra vào của quán. Nhiều quá
 
 Nếu bạn có thời gian, đừng chạy một mạch từ đầu này sang đầu kia. Xuân Diệu có vài góc dừng được: bậc thềm kè ven hồ, một số đoạn có ghế đá và những ngách nhỏ nhìn thẳng ra mặt hồ. Buổi tối mặt hồ tối màu, phản chiếu đèn của các quán bên kia bờ, ngồi lại mười lăm phút cũng thấy đáng.
 
-Gần khu vực này còn có chùa Vạn Niên nằm ven hồ, một điểm dừng yên tĩnh trên cùng tuyến đường, và bên kia đường Thanh Niên là hồ Trúc Bạch nhỏ nhắn. Nếu muốn nối dài lộ trình quanh vùng hồ, bạn có thể xem thêm bài [đến hồ Trúc Bạch bằng xe máy](/du-lich/2026/10/04/en-ho-truc-bach-bang-xe-may-uong-i-quanh-ho/). Tổng quan về các điểm chơi quanh bờ hồ thì tham khảo [hồ Tây lân cận](/du-lich/ho-tay/), còn những kinh nghiệm chạy xe trong thành phố vào buổi tối được gom trong mục [kinh nghiệm](/kinh-nghiem/).
+Gần khu vực này còn có chùa Vạn Niên nằm ven hồ, một điểm dừng yên tĩnh trên cùng tuyến đường, và bên kia đường Thanh Niên là hồ Trúc Bạch nhỏ nhắn. Nếu muốn nối dài lộ trình quanh vùng hồ, bạn có thể xem thêm bài [đến hồ Trúc Bạch bằng xe máy](/du-lich/2026/10/04/den-ho-truc-bach-bang-xe-may-duong-di-quanh-ho/). Tổng quan về các điểm chơi quanh bờ hồ thì tham khảo [hồ Tây lân cận](/du-lich/ho-tay/), còn những kinh nghiệm chạy xe trong thành phố vào buổi tối được gom trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Đầu phía nam của Xuân Diệu nối sang khu Quảng An còn nhiều ngách nhỏ dẫn ra bờ hồ, chỗ dân địa phương hay đi. Buổi tối các ngách này đèn mờ, bạn hãy đi chậm và không rẽ vào nơi quá hẹp.
 

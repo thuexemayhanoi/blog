@@ -28,13 +28,13 @@ Cầu được xây dựng từ đầu thế kỷ hai mươi và đã qua nhiề
 
 Khung cảnh hoàng hôn cầu Long Biên đẹp nhất là khoảng ba mươi phút cuối cùng trước khi mặt trời khuất, khi ánh sáng ngả vàng và đổ dài lên mặt sông. Đứng ở khoảng giữa cầu, nhìn về phía thượng nguồn, bạn thấy mặt sông Hồng rộng loang màu; nhìn về phía hạ nguồn là các cây cầu mới nằm dài trên chân trời. Cuối mùa khô, bãi bồi lộ rộng và ánh nắng trên cát càng cho bức ảnh đẹp.
 
-Nếu đi buổi sáng sớm, cầu lại mang một gương mặt khác: sương, tiếng rao và nhịp sống phố cổ ven cầu. Quãng đi từ Bồ Đề sang phố cổ qua cầu Long Biên lúc sáng sớm được kể chi tiết trong bài [từ Bồ Đề sang phố cổ qua cầu Long Biên lúc sáng sớm](/du-lich/2026/10/04/tu-bo-e-sang-pho-co-qua-cau-long-bien-luc-sang-som/), cho bạn cái nhìn trước để rút ra khung giờ hợp với sở thích chụp ảnh của mình.
+Nếu đi buổi sáng sớm, cầu lại mang một gương mặt khác: sương, tiếng rao và nhịp sống phố cổ ven cầu. Quãng đi từ Bồ Đề sang phố cổ qua cầu Long Biên lúc sáng sớm được kể chi tiết trong bài [từ Bồ Đề sang phố cổ qua cầu Long Biên lúc sáng sớm](/du-lich/2026/10/04/tu-bo-de-sang-pho-co-qua-cau-long-bien-luc-sang-som/), cho bạn cái nhìn trước để rút ra khung giờ hợp với sở thích chụp ảnh của mình.
 
 ## Giờ vàng, thời tiết và những gì nên chuẩn bị
 
 Mùa thu và đầu xuân là hai thời điểm trời trong nhất ở Hà Nội, cho hoàng hôn có màu rõ nét; mùa hè mây dày nhưng cũng hay tạo các dải mây đỏ đẹp bất ngờ sau mưa rào. Gió trên cầu mạnh hơn dưới mặt đường, nên chiếc áo nhẹ là thứ bạn sẽ cảm ơn khi đứng ngắm chừng mười lăm phút. Kiểm tra dự báo trước khi đi, vì mưa gián đoạn vào buổi chiều cuối hạ rất phổ biến.
 
-Về phía người thuê xe, hai việc cần tính trước: nếu đi cùng bạn và chở thêm người, cách chở người đúng quy định được tổng hợp trong bài về [quy định chở người trên xe máy hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/); nếu định ở lại đến tối, chắc chắn về giờ trả xe với chủ cửa hàng, vì các cửa hàng quanh khu Long Biên thường đóng cửa trong giờ tối và việc trả xe trễ cần được thỏa thuận từ trước, thông tin cụ thể cần xác nhận trực tiếp khi nhận xe.
+Về phía người thuê xe, hai việc cần tính trước: nếu đi cùng bạn và chở thêm người, cách chở người đúng quy định được tổng hợp trong bài về [quy định chở người trên xe máy hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-dinh-hien-hanh/); nếu định ở lại đến tối, chắc chắn về giờ trả xe với chủ cửa hàng, vì các cửa hàng quanh khu Long Biên thường đóng cửa trong giờ tối và việc trả xe trễ cần được thỏa thuận từ trước, thông tin cụ thể cần xác nhận trực tiếp khi nhận xe.
 
 Một lưu ý nhỏ về điện thoại và máy ảnh: trên cầu thoáng gió, không thao tác máy một tay khi đang giữ lái. Hãy dừng hẳn ở khu vỉa hè đầu cầu rồi mới chỉnh góc, và chịu khó đi bộ một đoạn giữa cầu để tìm góc có khung dầm thép đẹp, thay vì cố chụp trên yên xe đang lăn chậm.
 

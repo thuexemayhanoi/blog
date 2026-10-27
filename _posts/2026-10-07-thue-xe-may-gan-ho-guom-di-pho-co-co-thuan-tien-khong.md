@@ -30,7 +30,7 @@ Thuận tiện không có nghĩa là không có nhưng trừ. Chỗ đỗ xe qua
 
 ## Lộ trình gợi ý quanh hồ Gươm
 
-Một buổi sáng dễ chịu có thể bắt đầu bằng [chạy qua cầu Long Biên sang phố cổ lúc sáng sớm](/du-lich/2026/10/04/tu-bo-e-sang-pho-co-qua-cau-long-bien-luc-sang-som/), tận hưởng gió sông và ánh sáng đầu ngày, rồi vòng về phía Hồ Gươm qua các phố Hàng Ngang, Hàng Đào. Sau đó ghé cà phê một vòng quanh hồ, và nếu vào đúng cuối tuần, để xe ở mép ngoài khu đi bộ rồi thong thả dạo chân. Trưa có thể phóng nhẹ ra phía hồ Tây ngắm không gian rộng, hoặc dạo các phố hiên quanh khu Tràng Tiền, tùy sức và tùy khẩu vị ẩm thực bạn muốn thử trong ngày.
+Một buổi sáng dễ chịu có thể bắt đầu bằng [chạy qua cầu Long Biên sang phố cổ lúc sáng sớm](/du-lich/2026/10/04/tu-bo-de-sang-pho-co-qua-cau-long-bien-luc-sang-som/), tận hưởng gió sông và ánh sáng đầu ngày, rồi vòng về phía Hồ Gươm qua các phố Hàng Ngang, Hàng Đào. Sau đó ghé cà phê một vòng quanh hồ, và nếu vào đúng cuối tuần, để xe ở mép ngoài khu đi bộ rồi thong thả dạo chân. Trưa có thể phóng nhẹ ra phía hồ Tây ngắm không gian rộng, hoặc dạo các phố hiên quanh khu Tràng Tiền, tùy sức và tùy khẩu vị ẩm thực bạn muốn thử trong ngày.
 
 Khoảng cách các điểm trong khu trung tâm đều ngắn, nên lời khuyên lớn nhất là đừng tham: mỗi buổi một hai hướng chính là đủ, chạy dồn dập giữa phố đông vừa mệt vừa dễ sa sút sự tập trung. Chụp lại bản đồ lịch trình trước khi lên đường, sạc đầy pin điện thoại, và lưu sẵn số của cửa hàng thuê đề phòng cần hỗ trợ giữa chừng chuyến đi.
 

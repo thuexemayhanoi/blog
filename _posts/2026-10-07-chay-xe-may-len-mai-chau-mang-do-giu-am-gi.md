@@ -46,7 +46,7 @@ Với bộ này, bạn yên tâm phần lớn điều kiện thời tiết ở M
 
 Ngoài đồ mặc, bạn nên mang theo bộ dụng cụ vá xe và bơm tay nhỏ, một áo mưa gấp gọn, dây tời mỏng phòng khi cần kéo xe. Điện thoại sạc đầy kèm sạc dự phòng vì chặng xa hao pin khi bật định tuyến. Trước chuyến đi, nhờ cửa hàng kiểm tra nhớt, lốp, thắng và đèn; chạy đường trường ba bốn tiếng liên tục, bất kỳ một chi tiết nhỏ nào yếu cũng thành vấn đề giữa đèo.
 
-Người lần đầu chạy chặng xa có thể xem trước các lưu ý trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) để hình dung nhịp chạy, nghỉ hợp lý. Về giấy tờ, mang theo đủ như khi đi trong phố; danh mục chi tiết tôi đã ghi trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/). Đường quốc lộ có nhiều điểm kiểm soát, thiếu giấy tờ là mất thời gian của chính bạn.
+Người lần đầu chạy chặng xa có thể xem trước các lưu ý trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/) để hình dung nhịp chạy, nghỉ hợp lý. Về giấy tờ, mang theo đủ như khi đi trong phố; danh mục chi tiết tôi đã ghi trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/). Đường quốc lộ có nhiều điểm kiểm soát, thiếu giấy tờ là mất thời gian của chính bạn.
 
 ## Thuê xe và lên kế hoạch như thế nào
 

@@ -40,7 +40,7 @@ Vùng cao các trạm xăng thưa hơn dưới xuôi, bạn nên đổ đầy m�
 
 ## Người mới đi xa cần chuẩn bị gì
 
-Người lần đầu đi chặng gần ba trăm cây số nên đọc trước các lưu ý trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/): nhịp chạy, nghỉ, giữ khoảng cách nhóm. Không chạy đêm trên đèo, kể cả với xe khỏe. Trước chuyến đi, kiểm tra xe kỹ và mang đủ giấy tờ, danh mục tôi đã ghi chi tiết trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/). Đi theo nhóm hai ba xe cũng an toàn hơn hẳn đi một xe giữa vùng núi.
+Người lần đầu đi chặng gần ba trăm cây số nên đọc trước các lưu ý trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/): nhịp chạy, nghỉ, giữ khoảng cách nhóm. Không chạy đêm trên đèo, kể cả với xe khỏe. Trước chuyến đi, kiểm tra xe kỹ và mang đủ giấy tờ, danh mục tôi đã ghi chi tiết trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/). Đi theo nhóm hai ba xe cũng an toàn hơn hẳn đi một xe giữa vùng núi.
 
 ## Thuê xe đi Hà Giang ở đâu
 

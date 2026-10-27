@@ -20,7 +20,7 @@ Bún chả là món ăn gắn liền với Hà Nội, và ăn bún chả ở khu
 
 Khu phố cổ gồm các con phố nhỏ như Hàng Mắm, Hàng Bùng, Nguyễn Hữu Huân, nơi tập trung nhiều hàng bún chả lâu đời cùng vô số quán ăn vặt khác. Ô tô vào đây thường phải đi vòng vài vòng tìm bãi, còn xe máy luồn qua các ngõ nhỏ được và dừng gần nơi cần đến. Vào giờ ăn trưa, vỉa hè quanh các phố ăn uống đông đặc, xe máy chọn được chỗ góc gần ngõ sẽ tiết kiệm chục phút đi bộ.
 
-Nếu bạn thuê xe máy để khám phá Hà Nội, việc kết hợp một bữa ăn ở phố cổ với buổi dạo quanh hồ Hoàn Kiếm là lịch trình hợp lý nhất. Đi buổi sáng sớm lúc các hàng vừa mở, đồ mới ra lò và phố vắng người, trải nghiệm được mô tả trong bài về [đi từ bến xe sang phố cổ qua cầu Long Biên lúc sáng sớm](/du-lich/2026/10/04/tu-bo-e-sang-pho-co-qua-cau-long-bien-luc-sang-som/), khi không khí và ánh sáng đẹp hơn hẳn giữa trưa.
+Nếu bạn thuê xe máy để khám phá Hà Nội, việc kết hợp một bữa ăn ở phố cổ với buổi dạo quanh hồ Hoàn Kiếm là lịch trình hợp lý nhất. Đi buổi sáng sớm lúc các hàng vừa mở, đồ mới ra lò và phố vắng người, trải nghiệm được mô tả trong bài về [đi từ bến xe sang phố cổ qua cầu Long Biên lúc sáng sớm](/du-lich/2026/10/04/tu-bo-de-sang-pho-co-qua-cau-long-bien-luc-sang-som/), khi không khí và ánh sáng đẹp hơn hẳn giữa trưa.
 
 ## Đỗ xe đi ăn phố cổ theo khung giờ nào
 

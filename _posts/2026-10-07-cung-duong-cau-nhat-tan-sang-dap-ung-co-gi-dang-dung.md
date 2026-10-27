@@ -48,6 +48,6 @@ Nếu bạn chưa có xe máy riêng hoặc xe cũ không yên tâm chạy đư�
 
 ## Kết hợp thêm chặng khác trong buổi chiều
 
-Tuyến cầu Nhật Tân sang Đáp Úng rất dễ ghép nối với các điểm khác. Nếu rảnh cả buổi sáng, bạn có thể khởi hành sớm đi chợ Long Biên theo lộ trình tôi từng chia sẻ trong bài [từ bờ E sang phố cổ qua cầu Long Biên lúc sáng sớm](/du-lich/2026/10/04/tu-bo-e-sang-pho-co-qua-cau-long-bien-luc-sang-som/), về nghỉ trưa rồi chiều mới chạy sang Đáp Úng ngắm hoàng hôn. Ai thích đi xa hơn có thể nối sang các tuyến ngoại thành khác trong chuyên mục [cung đường](/cung-duong/), nơi tôi đang bổ sung dần nhiều lộ trình quanh Hà Nội.
+Tuyến cầu Nhật Tân sang Đáp Úng rất dễ ghép nối với các điểm khác. Nếu rảnh cả buổi sáng, bạn có thể khởi hành sớm đi chợ Long Biên theo lộ trình tôi từng chia sẻ trong bài [từ bờ E sang phố cổ qua cầu Long Biên lúc sáng sớm](/du-lich/2026/10/04/tu-bo-de-sang-pho-co-qua-cau-long-bien-luc-sang-som/), về nghỉ trưa rồi chiều mới chạy sang Đáp Úng ngắm hoàng hôn. Ai thích đi xa hơn có thể nối sang các tuyến ngoại thành khác trong chuyên mục [cung đường](/cung-duong/), nơi tôi đang bổ sung dần nhiều lộ trình quanh Hà Nội.
 
 Tóm lại, đây là kiểu cung đường cho người bận: gần, đẹp, dễ đi và gần như chỉ tốn tiền xăng cùng đồ uống. Một chiếc xe máy khỏe, một buổi chiều rảnh và một người bạn cùng đi là đủ cho chuyến ngắm hoàng hôn ven sông Hồng. Chuẩn bị xe kỹ, giữ tốc độ vừa phải trên cầu, dừng đúng chỗ và giữ vệ sinh bãi sông, bạn sẽ có một buổi cuối tuần nhẹ nhàng mà đáng nhớ. Chúc bạn có chuyến đi vui vẻ và an toàn.

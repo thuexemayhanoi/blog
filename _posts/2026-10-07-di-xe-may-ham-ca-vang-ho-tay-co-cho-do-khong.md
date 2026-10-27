@@ -36,7 +36,7 @@ Một số đoạn quanh khu kè treo biển cấm dừng, cấm đỗ, xe để
 
 ## Chụp ảnh đẹp lúc nào và kết hợp điểm nào
 
-Ánh sáng đẹp nhất là sáng sớm từ bảy giờ, khi trời trong và mặt hồ phẳng, hoặc hoàng hôn lúc trời chiều xuống, khi nền trời ngả màu và ánh nắng dịu. Kinh nghiệm ngắm hoàng hôn trên xe máy được kể chi tiết trong bài về [đi cầu Long Biên ngắm hoàng hôn](/du-lich/2026/10/07/i-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-uoc-khong/), nếu bạn thích thể loại ảnh ngược sáng thì đó là tham khảo hợp. Cuối tuần nên canh trước khi đông, vì hàng chục nhóm chụp ảnh có thể xếp đợi ở các góc đẹp.
+Ánh sáng đẹp nhất là sáng sớm từ bảy giờ, khi trời trong và mặt hồ phẳng, hoặc hoàng hôn lúc trời chiều xuống, khi nền trời ngả màu và ánh nắng dịu. Kinh nghiệm ngắm hoàng hôn trên xe máy được kể chi tiết trong bài về [đi cầu Long Biên ngắm hoàng hôn](/du-lich/2026/10/07/di-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-duoc-khong/), nếu bạn thích thể loại ảnh ngược sáng thì đó là tham khảo hợp. Cuối tuần nên canh trước khi đông, vì hàng chục nhóm chụp ảnh có thể xếp đợi ở các góc đẹp.
 
 Sau khi chụp, bạn có thể chạy tiếp một vòng quanh hồ, ghé chùa Trấn Quốc, đền Quán Thánh hoặc dừng uống nước ở các quán ven Âu Cơ. Một số bãi gửi xe của các điểm viếng lân cận cũng nhận giữ xe ngoài giờ viếng, hỏi người trông là biết. Tổng quan các điểm đến khác nằm ở chuyên mục [du lịch Hà Nội bằng xe máy](/du-lich/), kết hợp nốt buổi chiều theo hướng về là hợp lý.
 
@@ -44,4 +44,4 @@ Sau khi chụp, bạn có thể chạy tiếp một vòng quanh hồ, ghé chùa
 
 Thuê Xe Máy Hà Nội Nguyễn Tú nhận khách ở 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, giờ mở cửa từ 09:00 đến 21:00 mỗi ngày. Bạn liên hệ 0942 467 674 để hỏi xe còn, hẹn giờ nhận và được tư vấn tuyến đi từ Long Biên sang Hồ Tây ngắn nhất. Nhận xe xong, thử đèn, còi, phanh và kiểm tra mức xăng, chụp vài vết xước có sẵn để dễ đối chiếu khi trả.
 
-Nếu bạn đi nhóm đông, nên đặt trước số xe cần để được giữ đủ, nhất là cuối tuần khi khách thuê dày đặc. Người mới lấy bằng A1 lần đầu đi thuê xe có thể xem thêm bài về [thuê xe máy cho người mới lấy bằng A1](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) để nắm các bước nhận xe an toàn. Ai chưa quen đường Tây Hồ thì mở sẵn bản đồ, chạy chậm và quan sát biển báo ở các vòng xoay. Chúc bạn tìm được chỗ đỗ gọn gàng và có bộ ảnh hàm cá vàng như ý.
+Nếu bạn đi nhóm đông, nên đặt trước số xe cần để được giữ đủ, nhất là cuối tuần khi khách thuê dày đặc. Người mới lấy bằng A1 lần đầu đi thuê xe có thể xem thêm bài về [thuê xe máy cho người mới lấy bằng A1](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/) để nắm các bước nhận xe an toàn. Ai chưa quen đường Tây Hồ thì mở sẵn bản đồ, chạy chậm và quan sát biển báo ở các vòng xoay. Chúc bạn tìm được chỗ đỗ gọn gàng và có bộ ảnh hàm cá vàng như ý.

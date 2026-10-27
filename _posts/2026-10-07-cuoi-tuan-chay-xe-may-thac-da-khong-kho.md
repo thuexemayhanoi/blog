@@ -20,7 +20,7 @@ Nói đến cuối tuần chạy xe máy Thác Đa, nhiều người hình dung 
 
 Thác Đa nằm trong khu vực núi Ba Vì, nước từ trên núi chảy xuống tạo thành thác và các hồ nhỏ quanh năm. Từ trung tâm Hà Nội, bạn chạy theo đại lộ Thăng Long hướng tây, qua khu Hòa Lạc rồi tiếp tục theo hướng Ba Vì. Ai xuất phát từ khu vực Cầu Giấy, Tây Hồ sẽ gần hơn so với người ở phía đông thành phố. Tổng thời gian một chiều khoảng một tiếng rưỡi cho người chạy vừa phải, chưa tính các lần dừng nghỉ, nên cả chuyến đi gói gọn trong một ngày là hoàn toàn khả thi.
 
-Đây không phải tuyến đèo dốc, cũng không phải đường vòng co khó. Độ khó nằm ở khoảng cách: chạy đường trường hơn một tiếng khiến mỏi lưng và dễ mất tập trung nếu bạn ít khi đi xa. Người lần đầu đi xa bằng xe máy có thể tham khảo bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) để nắm các lưu ý cơ bản trước khi lên đường. Tốt nhất là đi cùng bạn có tay lái vững, giữ khoảng cách giữa các xe và nghỉ đúng lúc thay vì cố chạy liền mạch.
+Đây không phải tuyến đèo dốc, cũng không phải đường vòng co khó. Độ khó nằm ở khoảng cách: chạy đường trường hơn một tiếng khiến mỏi lưng và dễ mất tập trung nếu bạn ít khi đi xa. Người lần đầu đi xa bằng xe máy có thể tham khảo bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/) để nắm các lưu ý cơ bản trước khi lên đường. Tốt nhất là đi cùng bạn có tay lái vững, giữ khoảng cách giữa các xe và nghỉ đúng lúc thay vì cố chạy liền mạch.
 
 ## Đánh giá cung đường thác Đa khó hay dễ
 

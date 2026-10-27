@@ -43,7 +43,7 @@ Không có con số cố định cho mọi con hẻm, nhưng bạn có thể t�
 
 ## Chuẩn bị từ khâu nhận xe thuê
 
-Trước khi ra đường, hãy kiểm tra phanh trước phanh sau, còi, gương và độ non của lốp ngay tại cửa hàng, vì các chi tiết này quyết định nhịp phản ứng của bạn trong tình huống gấp. Người mới lấy bằng A1 lần đầu nên tham khảo thêm [kinh nghiệm nhận xe máy thuê](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) để biết những điểm cần thử trước khi ký giấy tờ. Nếu bạn định chở theo em nhỏ, hãy xem lại [quy định chở người trên xe máy hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/) để biết điều kiện về độ tuổi và mũ bảo hiểm. Các tình huống giao thông thường gặp khác được nhóm trong [mục Kỹ năng](/ky-nang/), bạn có thể đọc trước để hình thành phản xạ sớm.
+Trước khi ra đường, hãy kiểm tra phanh trước phanh sau, còi, gương và độ non của lốp ngay tại cửa hàng, vì các chi tiết này quyết định nhịp phản ứng của bạn trong tình huống gấp. Người mới lấy bằng A1 lần đầu nên tham khảo thêm [kinh nghiệm nhận xe máy thuê](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/) để biết những điểm cần thử trước khi ký giấy tờ. Nếu bạn định chở theo em nhỏ, hãy xem lại [quy định chở người trên xe máy hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-dinh-hien-hanh/) để biết điều kiện về độ tuổi và mũ bảo hiểm. Các tình huống giao thông thường gặp khác được nhóm trong [mục Kỹ năng](/ky-nang/), bạn có thể đọc trước để hình thành phản xạ sớm.
 
 ## Nếu không may xảy ra va chạm
 

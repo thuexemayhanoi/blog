@@ -25,7 +25,7 @@ Nếu hộp quá to để kẹp chân hoặc không có ba ga, phương án kế
 
 Dây buộc tốt nhất cho hộp bánh là dây chun rộng hoặc dây gai mềm, vì chúng giữ hộp sát giá sau mà không siết nát thành hộp. Quấn dây chữ thập qua hộp, luồn dưới đáy giá hai vòng, buộc nút ra phía sau nút thắt để tiện tháo. Trước khi siết, đút hai ngón tay dưới dây để ước lượng: hộp không lật được là đủ, không cần cứng đờ như buộc thùng hàng.
 
-Điểm dễ sai nhất là dùng dây nilông mảnh siết hai vòng quanh thân hộp: lực cắt rát của dây đủ làm móp mép hộp, dồn kem sang một bên. Nếu bắt buộc dùng dây cứng, lót một tấm bìa giữa dây và hộp cho lực dàn đều. Nguyên tắc buộc đồ sau xe an toàn được phân tích kỹ trong bài [buộc đồ sau xe máy đúng cách](/ky-nang/2026-09-29/buoc-o-sau-xe-may-ung-cach/), và hộp bánh chỉ khác thùng hàng ở một điểm: cần giảm chấn nhiều hơn là ghì chết.
+Điểm dễ sai nhất là dùng dây nilông mảnh siết hai vòng quanh thân hộp: lực cắt rát của dây đủ làm móp mép hộp, dồn kem sang một bên. Nếu bắt buộc dùng dây cứng, lót một tấm bìa giữa dây và hộp cho lực dàn đều. Nguyên tắc buộc đồ sau xe an toàn được phân tích kỹ trong bài [buộc đồ sau xe máy đúng cách](/ky-nang/2026-09-29/buoc-do-sau-xe-may-dung-cach/), và hộp bánh chỉ khác thùng hàng ở một điểm: cần giảm chấn nhiều hơn là ghì chết.
 
 Người chở hai lượt một buổi — tiệm bánh gần nhà rồi sang thêm tiệm hoa — nên kiểm tra lại dây sau mỗi lần lên xuống xe, vì một lần buộc không giữ được hộp qua hai chặng va chạm khác nhau.
 
