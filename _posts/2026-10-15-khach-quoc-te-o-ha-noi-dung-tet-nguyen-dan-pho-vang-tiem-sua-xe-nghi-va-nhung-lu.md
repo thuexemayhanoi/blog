@@ -61,7 +61,7 @@ Gần điểm lễ hội thường có thêm bãi gửi tạm. Giữ vé cẩn t
 
 Đi lễ đầu năm là truyền thống của nhiều gia đình Hà Nội. Chùa Trấn Quốc, phủ Tây Hồ hay đền Ngọc Sơn thường rất đông, lối vào chật người và xe. Nếu muốn ghé:
 
-- **Gửi xe từ xa rồi đi bộ vào,** đừng len xe sát cổng. Bài [ghé chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i/) có gợi ý chỗ gửi.
+- **Gửi xe từ xa rồi đi bộ vào,** đừng len xe sát cổng. Bài [ghé chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-duong-di/) có gợi ý chỗ gửi.
 - **Ăn mặc kín đáo:** áo che vai, quần hoặc váy dài qua gối.
 - **Hỏi trước khi chụp ảnh người đang hành lễ,** tránh đứng chắn lối thắp hương.
 
@@ -71,7 +71,7 @@ Người Việt quan niệm người đầu tiên bước vào nhà ngày mùng 
 
 ## An toàn khi tự lái xe máy những ngày Tết
 
-- **Đã uống rượu bia thì không lái xe.** Lời mời nâng ly dịp Tết rất nhiều; hãy từ chối lịch sự hoặc gọi taxi về. Bài [nồng độ cồn khi lái xe máy](/an-toan-phap-ly/2026/09/28/nong-o-con-khi-lai-xe-may-quy-inh-hien-hanh-can-nguon-chinh-thong/) nói rõ vì sao không nên tin cảm giác tỉnh táo.
+- **Đã uống rượu bia thì không lái xe.** Lời mời nâng ly dịp Tết rất nhiều; hãy từ chối lịch sự hoặc gọi taxi về. Bài [nồng độ cồn khi lái xe máy](/an-toan-phap-ly/2026/09/28/nong-do-con-khi-lai-xe-may-quy-dinh-hien-hanh-can-nguon-chinh-thong/) nói rõ vì sao không nên tin cảm giác tỉnh táo.
 - **Đội mũ bảo hiểm cài quai** kể cả khi chỉ đi vài trăm mét.
 - **Giảm tốc ở giao lộ dù đường vắng;** xe từ ngõ nhỏ có thể lao ra bất ngờ.
 - **Tránh chạy đêm muộn ở đường lạ,** vì ít quán sáng đèn, gặp sự cố khó tìm người giúp.

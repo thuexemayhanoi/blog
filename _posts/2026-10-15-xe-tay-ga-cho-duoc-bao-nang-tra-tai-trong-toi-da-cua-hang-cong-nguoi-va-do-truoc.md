@@ -53,7 +53,7 @@ Cũng đừng quên trọng tâm. Đồ nặng nên để thấp và gần giữ
 
 Con số của hãng nói về sức nặng, còn luật nói về số người. Theo Điều 33 Luật Trật tự, an toàn giao thông đường bộ năm 2024 (Luật số 36/2024/QH15), người lái xe mô tô hai bánh, xe gắn máy chỉ được chở một người. Luật chỉ cho chở tối đa hai người trong các trường hợp: chở người bệnh đi cấp cứu, áp giải người có hành vi vi phạm pháp luật, trẻ em dưới 12 tuổi, người già yếu hoặc người khuyết tật.
 
-Với nhóm bạn hay cặp đôi đi chơi, nghĩa là một xe là hai người: người lái và một người ngồi sau, không chen thêm ai. Nếu nhóm ba người, phương án đúng là thuê thêm một xe. Chi tiết về những trường hợp luật cho phép chở thêm, bạn xem bài [chở người trên xe máy theo quy định hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/).
+Với nhóm bạn hay cặp đôi đi chơi, nghĩa là một xe là hai người: người lái và một người ngồi sau, không chen thêm ai. Nếu nhóm ba người, phương án đúng là thuê thêm một xe. Chi tiết về những trường hợp luật cho phép chở thêm, bạn xem bài [chở người trên xe máy theo quy định hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-dinh-hien-hanh/).
 
 Ngay cả khi chở đúng hai người, hãy kiểm tra chỗ ngồi sau trước khi đi xa: gác chân sau bật ra được không, tay nắm có chắc không, yên sau có đủ chỗ khi đã đặt ba lô. Bài [nhận xe thuê để chở thêm người](/thue-xe/2026/10/14/nhan-xe-thue-de-cho-them-nguoi-thu-yen-sau-gac-chan-sau-va-tay-nam-truoc-khi-di/) có danh sách thử từng phần ngay lúc nhận xe.
 

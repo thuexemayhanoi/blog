@@ -64,7 +64,7 @@ Bắt đầu từ giờ đã hẹn với cửa hàng rồi lùi dần:
 
 Buổi sáng xe thường dồn vào trung tâm, chiều tối dồn ra cửa ngõ, các cầu qua sông Hồng cũng vậy. Giữa buổi sáng hoặc đầu giờ chiều thường dễ thở hơn; nếu buộc đi lúc tan tầm, chấp nhận đi chậm.
 
-Thấy khó kịp thì đừng tăng ga: nhắn cửa hàng qua số 0942467674 báo giờ đến dự kiến, nhớ rằng cửa hàng chỉ nhận xe trong khung 09:00 đến 21:00. Cách canh giờ khi sát giờ đóng cửa có trong bài [trả xe khi cửa hàng sắp đóng](/thue-xe/2026/10/04/tra-xe-khi-cua-hang-sap-ong-canh-gio-the-nao/).
+Thấy khó kịp thì đừng tăng ga: nhắn cửa hàng qua số 0942467674 báo giờ đến dự kiến, nhớ rằng cửa hàng chỉ nhận xe trong khung 09:00 đến 21:00. Cách canh giờ khi sát giờ đóng cửa có trong bài [trả xe khi cửa hàng sắp đóng](/thue-xe/2026/10/04/tra-xe-khi-cua-hang-sap-dong-canh-gio-the-nao/).
 
 ## Vài việc nên làm trước khi rời chỗ ở
 

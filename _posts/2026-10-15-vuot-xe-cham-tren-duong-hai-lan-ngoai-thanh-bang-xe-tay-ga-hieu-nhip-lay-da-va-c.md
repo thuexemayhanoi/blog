@@ -45,7 +45,7 @@ Cùng điều luật đó liệt kê những nơi, những lúc **không đượ
 - Ở phần đường dành cho người đi bộ qua đường, hoặc khi có người đi bộ, xe lăn của người khuyết tật đang qua đường.
 - Khi thời tiết hoặc mặt đường không bảo đảm an toàn, khi gặp xe ưu tiên, trong hầm đường bộ.
 
-Chỗ có biển cấm vượt hay vạch liền giữa đường thì làm theo báo hiệu. Suốt cú vượt vẫn phải giữ trong tốc độ cho phép theo biển báo, vượt không phải lý do để chạy quá tốc độ. Nguyên tắc chung cho mọi loại xe có trong bài [kỹ thuật vượt xe an toàn trên đường](/ky-nang/2026/10/01/ky-thuat-vuot-xe-an-toan-tren-uong/); phần dưới chỉ bàn điều riêng với xe ga.
+Chỗ có biển cấm vượt hay vạch liền giữa đường thì làm theo báo hiệu. Suốt cú vượt vẫn phải giữ trong tốc độ cho phép theo biển báo, vượt không phải lý do để chạy quá tốc độ. Nguyên tắc chung cho mọi loại xe có trong bài [kỹ thuật vượt xe an toàn trên đường](/ky-nang/2026/10/01/ky-thuat-vuot-xe-an-toan-tren-duong/); phần dưới chỉ bàn điều riêng với xe ga.
 
 ## Chuẩn bị đà trước khi quyết định vượt
 

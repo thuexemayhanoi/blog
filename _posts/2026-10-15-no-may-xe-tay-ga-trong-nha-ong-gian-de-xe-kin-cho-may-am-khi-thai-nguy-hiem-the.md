@@ -35,7 +35,7 @@ Nhiều người nghĩ xe phải nổ máy đứng yên một lúc mới chạy 
 
 Tức là nếu muốn máy ấm lên, bạn hoàn toàn làm được ở ngoài ngõ, nơi không khí lưu thông. Nổ máy sẵn trong nhà chỉ tiện tay vài chục giây, đổi lại khí thải tích tụ trong chỗ cả nhà đang thở.
 
-Còn những sáng xe khó đề, phải bấm đi bấm lại nhiều lần, càng nên đẩy xe ra ngoài. Nguyên nhân xe khó nổ máy buổi sáng và cách kiểm tra nhanh có trong bài [xe thuê không nổ máy buổi sáng](/xe-may/2026/10/01/xe-thue-khong-no-may-buoi-sang-chan-oan-nhanh-truoc-khi-goi/).
+Còn những sáng xe khó đề, phải bấm đi bấm lại nhiều lần, càng nên đẩy xe ra ngoài. Nguyên nhân xe khó nổ máy buổi sáng và cách kiểm tra nhanh có trong bài [xe thuê không nổ máy buổi sáng](/xe-may/2026/10/01/xe-thue-khong-no-may-buoi-sang-chan-doan-nhanh-truoc-khi-goi/).
 
 ## Thói quen đúng: dắt ra chỗ thoáng rồi mới đề xe
 
@@ -58,7 +58,7 @@ Có vài cảnh quen thuộc khiến người ta lỡ để xe nổ máy trong c
 - **Hầm gửi xe chung cư mini.** Hầm thấp, ít quạt hút. Nổ máy rồi đi luôn ra cửa hầm, không đứng chờ máy ấm.
 - **Homestay để xe ở phòng khách tầng một.** Khách ở quanh Tây Hồ, Long Biên nên hỏi chủ nhà lối dắt xe ra và luôn nổ máy ở ngoài.
 
-Mùa đông là lúc thói quen này lặp lại nhiều nhất. Các lưu ý khác khi đi xe ga trời lạnh có trong bài [xe ga thuê đi mùa đông cần lưu ý gì](/xe-may/2026/10/07/xe-ga-thue-i-mua-dong-can-luu-y-gi/).
+Mùa đông là lúc thói quen này lặp lại nhiều nhất. Các lưu ý khác khi đi xe ga trời lạnh có trong bài [xe ga thuê đi mùa đông cần lưu ý gì](/xe-may/2026/10/07/xe-ga-thue-di-mua-dong-can-luu-y-gi/).
 
 ## Dấu hiệu nghi ngộ độc khí thải và việc cần làm ngay
 

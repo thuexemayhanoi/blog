@@ -19,7 +19,7 @@ Bạn là sinh viên cần một chiếc xe đi học vài tuần, là người 
 
 ## Kiểm tra xe đạp điện khi thuê khác gì nhận xe máy
 
-Đừng áp nguyên thói quen nhận xe máy sang xe đạp điện. Xe đạp điện có phanh nhẹ hơn, xích lộ ra ngoài, bàn đạp phải quay được, còn "bình xăng" là cục pin cần sạc nhiều giờ. Muốn hiểu rõ hai loại xe điện khác nhau ra sao, có thể đọc trước bài [xe đạp điện khác gì xe máy điện](/xe-may/2026/09/27/xe-ap-ien-khac-gi-xe-may-ien/).
+Đừng áp nguyên thói quen nhận xe máy sang xe đạp điện. Xe đạp điện có phanh nhẹ hơn, xích lộ ra ngoài, bàn đạp phải quay được, còn "bình xăng" là cục pin cần sạc nhiều giờ. Muốn hiểu rõ hai loại xe điện khác nhau ra sao, có thể đọc trước bài [xe đạp điện khác gì xe máy điện](/xe-may/2026/09/27/xe-dap-dien-khac-gi-xe-may-dien/).
 
 Xe đạp điện cho thuê qua tay nhiều người, nên các bộ phận nhỏ như chuông, chân chống, gác chân sau dễ bị lỏng. Đừng ngại xin vài phút để tự tay thử từng thứ.
 

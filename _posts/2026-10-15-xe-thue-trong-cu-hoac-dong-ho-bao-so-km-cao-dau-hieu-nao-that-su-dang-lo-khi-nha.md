@@ -26,7 +26,7 @@ Xe cho thuê ở Hà Nội chạy mỗi ngày, qua đủ loại đường từ p
 - Tem xe bong một góc, nắp cốp hơi lỏng khi đóng.
 - Đồng hồ hiển thị số km lớn.
 
-Về số km, không có một mốc chung nào để nói xe "còn mới" hay "đã cũ", và chúng tôi không đưa ra con số như vậy. Một chiếc xe chạy nhiều nhưng được bảo dưỡng đều đặn có thể chạy êm hơn chiếc xe ít đi mà bị bỏ bê. Việc của bạn là ghi lại con số đó, không phải dùng nó để đánh giá xe. Cách đọc đồng hồ và ghi số km đã có trong bài [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/oc-ong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-en-canh-bao/).
+Về số km, không có một mốc chung nào để nói xe "còn mới" hay "đã cũ", và chúng tôi không đưa ra con số như vậy. Một chiếc xe chạy nhiều nhưng được bảo dưỡng đều đặn có thể chạy êm hơn chiếc xe ít đi mà bị bỏ bê. Việc của bạn là ghi lại con số đó, không phải dùng nó để đánh giá xe. Cách đọc đồng hồ và ghi số km đã có trong bài [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/doc-dong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-den-canh-bao/).
 
 Dù chỉ là thẩm mỹ, các vết đó vẫn cần chụp ảnh và ghi vào biên bản, để khi trả xe không ai phải tranh luận vết nào có từ trước.
 

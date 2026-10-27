@@ -49,7 +49,7 @@ Nguyên tắc với xe thuê là trả lại đúng như lúc nhận. Vì thế 
 - Không dán keo hai mặt hay băng dính lên thân xe, yếm xe, gầm yên. Keo để lại vết, có khi bong cả lớp sơn.
 - Không buộc dây rút quanh dây điện, dây phanh hay khu vực gần ống xả.
 
-Nếu bạn định gắn thêm đồ khác như giá đỡ điện thoại, cách hỏi và tháo gọn đã có trong bài [gắn giá đỡ điện thoại lên xe máy thuê](/thue-xe/2026/10/12/gan-gia-o-ien-thoai-len-xe-may-thue-hoi-cua-hang-va-thao-gon-khi-tra/). Hai việc này nên hỏi cùng một lúc.
+Nếu bạn định gắn thêm đồ khác như giá đỡ điện thoại, cách hỏi và tháo gọn đã có trong bài [gắn giá đỡ điện thoại lên xe máy thuê](/thue-xe/2026/10/12/gan-gia-do-dien-thoai-len-xe-may-thue-hoi-cua-hang-va-thao-gon-khi-tra/). Hai việc này nên hỏi cùng một lúc.
 
 ## Dùng thiết bị định vị cho đúng mực: tôn trọng quyền riêng tư
 

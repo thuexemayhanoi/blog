@@ -74,7 +74,7 @@ Trên những vỉa hè cao như ở phố Huế, Bà Triệu hay các tuyến p
 
 ### Ngõ nhỏ có bậc thềm hoặc dốc
 
-Ngõ ở Long Biên, Tây Hồ hay các khu dân cư cũ hay có bậc thềm và dốc ngắn ra đường chính. Xe đỗ đầu chúc xuống dốc thì khi hạ sẽ lao nhanh. Có hai lựa chọn: quay đầu xe lên dốc trước khi dựng lần sau, hoặc hạ thật chậm, bóp phanh ngay từ lúc bắt đầu đẩy chứ không đợi bánh sau chạm đất. Cách chọn chỗ đỗ để chân chống không tuột trên dốc được nói thêm trong bài [chống xe máy trên dốc đứng](/ky-nang/2026/10/05/chong-xe-may-tren-doc-ung-cach-khong-bi-tuot-chan-chong/).
+Ngõ ở Long Biên, Tây Hồ hay các khu dân cư cũ hay có bậc thềm và dốc ngắn ra đường chính. Xe đỗ đầu chúc xuống dốc thì khi hạ sẽ lao nhanh. Có hai lựa chọn: quay đầu xe lên dốc trước khi dựng lần sau, hoặc hạ thật chậm, bóp phanh ngay từ lúc bắt đầu đẩy chứ không đợi bánh sau chạm đất. Cách chọn chỗ đỗ để chân chống không tuột trên dốc được nói thêm trong bài [chống xe máy trên dốc đứng](/ky-nang/2026/10/05/chong-xe-may-tren-doc-dung-cach-khong-bi-tuot-chan-chong/).
 
 ## Người nhỏ người: mượn sức thân thay vì sức tay
 
@@ -95,6 +95,6 @@ Người thấp hoặc nhẹ cân thường thấy xe ga trên chân chống gi�
 
 ## Tập trước khi cần dùng
 
-Nếu thuê xe tay ga lần đầu, hãy thử hạ chân chống ngay lúc nhận xe, trên nền phẳng và rộng. Thuê ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (mở 09:00–21:00), bạn có thể nhờ người giao xe làm mẫu một lần. Khi gặp tình huống xe kẹt cứng trên chân chống, xem bài [xe thuê bị kẹt chân chống giữa đường](/thue-xe/2026/10/07/xe-thue-bi-ket-chan-chong-giua-uong/) hoặc gọi 0942467674.
+Nếu thuê xe tay ga lần đầu, hãy thử hạ chân chống ngay lúc nhận xe, trên nền phẳng và rộng. Thuê ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (mở 09:00–21:00), bạn có thể nhờ người giao xe làm mẫu một lần. Khi gặp tình huống xe kẹt cứng trên chân chống, xem bài [xe thuê bị kẹt chân chống giữa đường](/thue-xe/2026/10/07/xe-thue-bi-ket-chan-chong-giua-duong/) hoặc gọi 0942467674.
 
 Hạ xe khỏi chân chống giữa chỉ cần nhớ ba việc: nhìn phía trước và dưới bánh, đẩy bằng thân người với đầu xe thẳng, bóp phanh ngay khi bánh sau chạm đất. Các bài khác về loại xe này có ở chuyên mục [xe tay ga](/xe-may/xe-ga/), còn kinh nghiệm chung về chọn và đi xe nằm ở chuyên mục [xe máy](/xe-may/).

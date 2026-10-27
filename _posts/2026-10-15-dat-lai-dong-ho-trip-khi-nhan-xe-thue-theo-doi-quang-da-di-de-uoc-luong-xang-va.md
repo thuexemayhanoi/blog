@@ -24,7 +24,7 @@ Trên phần lớn xe ga và nhiều xe số đời mới có đồng hồ đi�
 - **ODO (tổng quãng đường).** Con số tích lũy từ khi xe xuất xưởng, người dùng không đặt lại được. Đây là số mà cửa hàng và người thuê nên ghi vào biên bản lúc giao và nhận xe.
 - **Trip (quãng đường chuyến).** Bộ đếm phụ, người lái tự đưa về số không bất cứ lúc nào. Một số xe có hai bộ Trip, thường ký hiệu Trip A và Trip B, để đo song song hai quãng khác nhau.
 
-Xe số đời cũ có đồng hồ cơ đôi khi chỉ có ODO, không có Trip. Khi đó bạn vẫn theo dõi được quãng đường, chỉ là phải tự trừ hai lần đọc ODO. Nếu chưa quen đọc các ký hiệu và đèn báo trên mặt đồng hồ, bài [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/oc-ong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-en-canh-bao/) có giải thích từng phần.
+Xe số đời cũ có đồng hồ cơ đôi khi chỉ có ODO, không có Trip. Khi đó bạn vẫn theo dõi được quãng đường, chỉ là phải tự trừ hai lần đọc ODO. Nếu chưa quen đọc các ký hiệu và đèn báo trên mặt đồng hồ, bài [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/doc-dong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-den-canh-bao/) có giải thích từng phần.
 
 Trip chỉ là công cụ cá nhân; con số đối chiếu với cửa hàng luôn là ODO.
 
@@ -60,7 +60,7 @@ Cách làm đơn giản:
 3. **Ghi lại số trên Trip** tại thời điểm đó. Đây chính là quãng mà chiếc xe này đi được từ đầy tới gần cạn trong điều kiện bạn chạy.
 4. **Lần sau, khi Trip tiến gần con số ấy**, hãy tìm cây xăng sớm thay vì đợi đèn báo.
 
-Với người đi phượt ra Ba Vì, Sóc Sơn hay về phía Gia Lâm, Bát Tràng, cách này giúp tránh cảnh hết xăng giữa đoạn vắng cây xăng. Muốn lên kế hoạch xăng cho cả tuần chạy nhiều, xem thêm bài [kế hoạch xăng và lốp cho tuần thuê xe đi nhiều](/thue-xe/2026/10/07/ke-hoach-xang-va-lop-cho-tuan-thue-xe-may-i-nhieu/).
+Với người đi phượt ra Ba Vì, Sóc Sơn hay về phía Gia Lâm, Bát Tràng, cách này giúp tránh cảnh hết xăng giữa đoạn vắng cây xăng. Muốn lên kế hoạch xăng cho cả tuần chạy nhiều, xem thêm bài [kế hoạch xăng và lốp cho tuần thuê xe đi nhiều](/thue-xe/2026/10/07/ke-hoach-xang-va-lop-cho-tuan-thue-xe-may-di-nhieu/).
 
 Kim xăng trên nhiều xe không tụt đều, nên Trip là chỉ báo đáng tin hơn để quyết định khi nào ghé cây xăng.
 

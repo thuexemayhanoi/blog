@@ -78,7 +78,7 @@ Vì vậy, nên chốt lịch nộp hồ sơ trước rồi mới đi khám. N�
 
 ## Đi khám khi chưa có bằng: tính đường đi cho đúng
 
-Chưa có bằng A1 thì đừng tự lái xe mô tô đến nơi khám; đi xe buýt, nhờ người thân chở hoặc gọi xe. Các mức xử lý khi đi xe không có bằng được tổng hợp trong bài [đi xe máy không bằng lái bị xử lý thế nào](/an-toan-phap-ly/2026/09/28/i-xe-may-khong-bang-lai-bi-xu-ly-the-nao/). Sau khi có bằng, phạm vi xe được lái theo hạng A1 có trong bài [hạng A1 lái được những loại xe máy nào](/an-toan-phap-ly/2026/10/09/hang-a1-lai-uoc-nhung-loai-xe-may-nao/).
+Chưa có bằng A1 thì đừng tự lái xe mô tô đến nơi khám; đi xe buýt, nhờ người thân chở hoặc gọi xe. Các mức xử lý khi đi xe không có bằng được tổng hợp trong bài [đi xe máy không bằng lái bị xử lý thế nào](/an-toan-phap-ly/2026/09/28/di-xe-may-khong-bang-lai-bi-xu-ly-the-nao/). Sau khi có bằng, phạm vi xe được lái theo hạng A1 có trong bài [hạng A1 lái được những loại xe máy nào](/an-toan-phap-ly/2026/10/09/hang-a1-lai-duoc-nhung-loai-xe-may-nao/).
 
 Cửa hàng chúng tôi ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên chỉ cho thuê xe, không làm dịch vụ khám sức khỏe hay bằng lái. Khi đã có bằng hợp lệ và cần xe, liên hệ 0942467674 trong giờ 09:00 đến 21:00.
 

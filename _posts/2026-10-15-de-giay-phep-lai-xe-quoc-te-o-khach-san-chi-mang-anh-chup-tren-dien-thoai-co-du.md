@@ -25,7 +25,7 @@ Từ đầu năm 2025, Luật Trật tự, an toàn giao thông đường bộ (
 
 Riêng với người dùng giấy phép lái xe quốc tế, điểm b khoản 8 Điều 57 của cùng luật nói rõ hơn: người có giấy phép quốc tế do nước thành viên Công ước Viên năm 1968 cấp, khi lái xe trên lãnh thổ Việt Nam, phải mang theo **cả hai thứ**: giấy phép lái xe quốc tế và giấy phép lái xe quốc gia của nước cấp, phù hợp với hạng xe đang điều khiển và còn thời hạn sử dụng.
 
-Như vậy, chữ được dùng trong luật là "mang theo" giấy tờ, không phải "có ảnh của" giấy tờ. Nếu bạn chưa chắc giấy phép của mình có thuộc diện được công nhận hay không, hãy đọc trước bài [giấy phép quốc tế theo Công ước 1949 hay 1968](/thue-xe/2026/10/15/idp-theo-cong-uoc-1949-hay-1968-kiem-tra-giay-phep-lai-xe-quoc-te-truoc-khi-chay/) và bài [bằng lái quốc tế có dùng được khi thuê xe máy không](/thue-xe/2026/10/07/bang-lai-quoc-te-co-dung-uoc-khi-thue-xe-may-khong/).
+Như vậy, chữ được dùng trong luật là "mang theo" giấy tờ, không phải "có ảnh của" giấy tờ. Nếu bạn chưa chắc giấy phép của mình có thuộc diện được công nhận hay không, hãy đọc trước bài [giấy phép quốc tế theo Công ước 1949 hay 1968](/thue-xe/2026/10/15/idp-theo-cong-uoc-1949-hay-1968-kiem-tra-giay-phep-lai-xe-quoc-te-truoc-khi-chay/) và bài [bằng lái quốc tế có dùng được khi thuê xe máy không](/thue-xe/2026/10/07/bang-lai-quoc-te-co-dung-duoc-khi-thue-xe-may-khong/).
 
 ## Ảnh chụp bằng lái có hợp lệ không: vì sao ảnh trên điện thoại chưa đủ
 
@@ -37,7 +37,7 @@ Có thể bạn đã nghe người Việt nói rằng giờ chỉ cần mở đi
 - Việc tích hợp giấy phép lái xe vào VNeID gắn với giấy phép do cơ quan Việt Nam cấp, có dữ liệu trong hệ thống quốc gia. Giấy phép quốc tế và giấy phép nước nhà mà bạn mang sang không nằm trong dữ liệu đó.
 - Một tấm ảnh bạn tự chụp và lưu trong máy, hay gửi cho chính mình qua thư điện tử, không phải là giấy tờ "đã tích hợp vào tài khoản định danh điện tử" theo nghĩa của luật.
 
-Vì vậy, kết luận thận trọng của chúng tôi: ảnh chụp giấy phép quốc tế trên điện thoại không phải là giấy tờ gốc, và bạn không nên tính đến chuyện nó sẽ được chấp nhận khi bị dừng xe. Chúng tôi không bàn đến mức xử lý ở đây; nếu muốn hiểu thêm khía cạnh pháp lý của việc không mang bằng, xem bài [không mang bằng lái khi đang đi xe](/an-toan-phap-ly/2026/09/28/khong-mang-bang-lai-khi-ang-i-xe-co-bi-xu-ly-khong/).
+Vì vậy, kết luận thận trọng của chúng tôi: ảnh chụp giấy phép quốc tế trên điện thoại không phải là giấy tờ gốc, và bạn không nên tính đến chuyện nó sẽ được chấp nhận khi bị dừng xe. Chúng tôi không bàn đến mức xử lý ở đây; nếu muốn hiểu thêm khía cạnh pháp lý của việc không mang bằng, xem bài [không mang bằng lái khi đang đi xe](/an-toan-phap-ly/2026/09/28/khong-mang-bang-lai-khi-dang-di-xe-co-bi-xu-ly-khong/).
 
 ## Còn hộ chiếu thì sao
 
