@@ -73,7 +73,7 @@ Khi nói Ô Cầu Giấy, người Hà Nội thường nghĩ tới khu nút giao
 
 Sử sách nhắc tới Cầu Giấy qua hai trận phục kích quân Pháp năm 1873 và năm 1883, khi Francis Garnier rồi Henri Rivière tử trận ở khu vực này. Nay tuyến đường sắt đô thị chạy trên cao dọc đường Cầu Giấy.
 
-Đây là điểm cuối vòng. Còn sức thì nối sang [đoạn chạy dọc kênh Tô Lịch](/cung-duong/2026/10/10/chay-xe-doc-kenh-to-lich-sang-cuoi-tuan-oan-thong-tha/); lúc về phố cổ, xem bài [trục Kim Mã hay trục Láng](/cung-duong/2026/10/11/tu-pho-co-sang-cau-giay-bang-xe-may-truc-kim-ma-hay-truc-lang/) để chọn đường đỡ mệt.
+Đây là điểm cuối vòng. Còn sức thì nối sang [đoạn chạy dọc kênh Tô Lịch](/cung-duong/2026/10/10/chay-xe-doc-kenh-to-lich-sang-cuoi-tuan-doan-thong-tha/); lúc về phố cổ, xem bài [trục Kim Mã hay trục Láng](/cung-duong/2026/10/11/tu-pho-co-sang-cau-giay-bang-xe-may-truc-kim-ma-hay-truc-lang/) để chọn đường đỡ mệt.
 
 ## Lưu ý khi chạy qua các nút giao mang tên cửa ô
 
@@ -84,7 +84,7 @@ Sử sách nhắc tới Cầu Giấy qua hai trận phục kích quân Pháp nă
 - Gửi xe ở bãi có người trông, giữ vé cẩn thận, không đỗ chắn lối nhà dân.
 - Đội mũ bảo hiểm cài quai đúng cách.
 
-Chưa quen phố Hà Nội thì đọc trước [cung nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-au/).
+Chưa quen phố Hà Nội thì đọc trước [cung nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-dau/).
 
 ## Thuê xe cho vòng cửa ô
 

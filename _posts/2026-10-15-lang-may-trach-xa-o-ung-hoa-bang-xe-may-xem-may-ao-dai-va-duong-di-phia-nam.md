@@ -68,7 +68,7 @@ Nếu bạn định may áo ở Trạch Xá, chuẩn bị trước vài thứ đ
 3. **Hỏi giá trực tiếp tại nhà may.** Mỗi nhà một mức tùy vải, kiểu và độ cầu kỳ; nên so vài nhà.
 4. **Xin giấy hẹn hoặc biên nhận** ghi ngày lấy áo, phần tiền đã đặt trước nếu có, và số liên lạc của nhà may.
 
-Ai mặc áo dài đi xe máy về làng để thử hoặc chụp ảnh thì nên đọc bài [mặc váy hoặc áo dài đi xe máy nên thuê xe ga hay xe số](/hoi-dap/2026/10/11/mac-vay-hoac-ao-dai-i-xe-may-nen-thue-xe-ga-hay-xe-so/). Tà áo dài buông thõng gần bánh sau hay xích xe là chuyện rất nguy hiểm; gom tà lên đùi hoặc buộc gọn trước khi lên xe.
+Ai mặc áo dài đi xe máy về làng để thử hoặc chụp ảnh thì nên đọc bài [mặc váy hoặc áo dài đi xe máy nên thuê xe ga hay xe số](/hoi-dap/2026/10/11/mac-vay-hoac-ao-dai-di-xe-may-nen-thue-xe-ga-hay-xe-so/). Tà áo dài buông thõng gần bánh sau hay xích xe là chuyện rất nguy hiểm; gom tà lên đùi hoặc buộc gọn trước khi lên xe.
 
 ## Mang áo dài về bằng xe máy cho khỏi nhàu
 

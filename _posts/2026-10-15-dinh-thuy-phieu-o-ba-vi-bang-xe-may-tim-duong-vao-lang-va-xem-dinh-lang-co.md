@@ -90,8 +90,8 @@ Về lễ hội, tư liệu ghi hội đình Thụy Phiêu diễn ra mồng 1 t�
 Thụy Phiêu nằm ở vùng đồng bằng gần Sơn Tây và Tây Đằng, nên ghép rất thuận:
 
 1. **Đình Tây Đằng.** Cùng xã Quảng Oai mới, cũng là đình thời Mạc nổi tiếng về chạm khắc gỗ. Xem hai đình trong một buổi sáng là cách so sánh hay nhất: một đình nhỏ có niên đại rõ, một đình lớn với nhiều mảng chạm.
-2. **Lên núi Ba Vì.** Sau khi xem đình, chạy về phía chân núi để lên Vườn quốc gia. Ai chưa quen dốc nên đọc bài [chạy xe máy lên Ba Vì buổi sáng](/du-lich/2026/10/04/chay-xe-may-len-ba-vi-buoi-sang-uong-doc-va-luu-y/).
-3. **Khu suối phía nam.** Muốn tắm suối, xem thêm lộ trình [Thiên Sơn Suối Ngọc bằng xe máy](/du-lich/2026/10/01/i-thien-son-suoi-ngoc-bang-xe-may-tu-ha-noi-lo-trinh-mot-ngay/).
+2. **Lên núi Ba Vì.** Sau khi xem đình, chạy về phía chân núi để lên Vườn quốc gia. Ai chưa quen dốc nên đọc bài [chạy xe máy lên Ba Vì buổi sáng](/du-lich/2026/10/04/chay-xe-may-len-ba-vi-buoi-sang-duong-doc-va-luu-y/).
+3. **Khu suối phía nam.** Muốn tắm suối, xem thêm lộ trình [Thiên Sơn Suối Ngọc bằng xe máy](/du-lich/2026/10/01/di-thien-son-suoi-ngoc-bang-xe-may-tu-ha-noi-lo-trinh-mot-ngay/).
 4. **Sơn Tây trên đường về.** Thành cổ Sơn Tây và làng cổ Đường Lâm nằm sẵn trên hướng về phố, ghé lúc chiều khi nắng đã dịu.
 
 Ví dụ một ngày: 6 giờ rời Cầu Giấy, gần 8 giờ ăn sáng ở Sơn Tây, 9 giờ vào Thụy Phiêu, 10 giờ sang Tây Đằng, chiều chọn một trong hai hướng là lên núi hoặc ghé Đường Lâm để còn sức chạy về.

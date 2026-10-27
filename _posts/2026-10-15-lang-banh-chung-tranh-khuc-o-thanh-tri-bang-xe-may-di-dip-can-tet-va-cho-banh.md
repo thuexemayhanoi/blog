@@ -40,7 +40,7 @@ Nếu đi từ Long Biên, bạn qua cầu Vĩnh Tuy, xuống phía Lĩnh Nam r�
 - Xuống dốc đê vào làng nên về số thấp hoặc giữ phanh đều, nhất là khi sau xe đã có hàng.
 - Trời mưa phùn tháng Chạp làm mặt đường trơn và tối sớm; bật đèn, mặc áo mưa sáng màu.
 
-Muốn biết thêm từng đoạn đê và chỗ dừng chân, xem bài [khám phá đường đê sông Hồng bằng xe máy](/du-lich/2026/10/10/kham-pha-uong-e-song-hong-bang-xe-may/).
+Muốn biết thêm từng đoạn đê và chỗ dừng chân, xem bài [khám phá đường đê sông Hồng bằng xe máy](/du-lich/2026/10/10/kham-pha-duong-de-song-hong-bang-xe-may/).
 
 ## Giờ đông người dịp cận Tết
 

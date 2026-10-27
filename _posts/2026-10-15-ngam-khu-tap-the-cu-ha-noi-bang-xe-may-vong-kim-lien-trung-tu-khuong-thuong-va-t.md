@@ -35,7 +35,7 @@ Thứ tự hợp lý nhất là đi Kim Liên trước, sang Trung Tự, vòng x
 3. **Xuống Khương Thượng.** Ra Đông Tác hoặc Chùa Bộc, rẽ Tôn Thất Tùng về phía Trường Chinh.
 4. **Lên Thành Công.** Quay lại Chùa Bộc, theo Thái Hà sang Láng Hạ, đi tiếp về phía hồ Thành Công.
 
-Phần vòng giữa bốn khu chỉ khoảng chục cây số đường phố, nhưng nên dành trọn một buổi vì mỗi khu đáng dừng ít nhất nửa tiếng. Ít thời gian thì giữ cặp Kim Liên, Trung Tự. Một vòng phố khác để tham khảo là bài [cung đường nội thành qua Trần Phú, Ngọc Khánh buổi tối](/cung-duong/2026/10/04/cung-uong-noi-thanh-qua-uong-tran-phu-ngoc-khanh-buoi-toi/).
+Phần vòng giữa bốn khu chỉ khoảng chục cây số đường phố, nhưng nên dành trọn một buổi vì mỗi khu đáng dừng ít nhất nửa tiếng. Ít thời gian thì giữ cặp Kim Liên, Trung Tự. Một vòng phố khác để tham khảo là bài [cung đường nội thành qua Trần Phú, Ngọc Khánh buổi tối](/cung-duong/2026/10/04/cung-duong-noi-thanh-qua-duong-tran-phu-ngoc-khanh-buoi-toi/).
 
 ## Nên đi giờ nào để vừa đẹp vừa đỡ phiền
 

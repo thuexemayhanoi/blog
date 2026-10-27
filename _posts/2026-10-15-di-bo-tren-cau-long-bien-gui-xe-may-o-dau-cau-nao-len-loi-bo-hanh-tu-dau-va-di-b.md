@@ -21,7 +21,7 @@ Muốn đi bộ cầu Long Biên để ngắm sông Hồng cho thật chậm, b�
 
 Cầu Long Biên có đường ray ở giữa, hai làn xe máy hai bên, và mép ngoài cùng là lối đi bộ hẹp lát tấm bê tông, có lan can sắt ngăn với lòng sông. Đi bộ, bạn có thời gian nhìn những nhịp dầm thép cũ, bãi giữa với vườn chuối bên dưới và khu phố cổ Hoàn Kiếm phía sau lưng.
 
-Vì vậy, đi bộ cần một kế hoạch riêng: chỗ gửi xe đáng tin, lối lên không phải băng qua làn xe, và đủ thời gian đi rồi quay lại. Nếu muốn đọc trước về lịch sử những nhịp dầm mình sắp đi qua, xem bài [lịch sử cầu Long Biên và những điểm nên dừng](/du-lich/2026/10/11/lich-su-cau-long-bien-va-nhung-iem-nen-dung-khi-i-qua-bang-xe-may/).
+Vì vậy, đi bộ cần một kế hoạch riêng: chỗ gửi xe đáng tin, lối lên không phải băng qua làn xe, và đủ thời gian đi rồi quay lại. Nếu muốn đọc trước về lịch sử những nhịp dầm mình sắp đi qua, xem bài [lịch sử cầu Long Biên và những điểm nên dừng](/du-lich/2026/10/11/lich-su-cau-long-bien-va-nhung-diem-nen-dung-khi-di-qua-bang-xe-may/).
 
 ## Gửi xe đi bộ cầu Long Biên: chọn đầu cầu nào
 
@@ -39,7 +39,7 @@ Nếu bạn ở bên kia sông, hoặc thuê xe ở khu Bồ Đề, Ngọc Lâm,
 
 ### Nguyên tắc chung khi gửi
 
-Dù chọn đầu nào, chỉ gửi ở chỗ có người trông, có vé hoặc ghi biển số. Trước khi giao xe, hỏi rõ trông đến mấy giờ và chi phí bao nhiêu, vì mỗi điểm một khác. Chụp ảnh xe cùng biển hiệu điểm gửi để lúc quay lại dễ tìm, và đừng dựng xe trên vỉa hè sát chân dốc chỉ vì thấy xe khác để đó. Bài [đến cầu Long Biên bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/28/en-cau-long-bien-bang-xe-may-gui-xe-va-uong-i/) có thêm thông tin chung về khu vực hai đầu cầu.
+Dù chọn đầu nào, chỉ gửi ở chỗ có người trông, có vé hoặc ghi biển số. Trước khi giao xe, hỏi rõ trông đến mấy giờ và chi phí bao nhiêu, vì mỗi điểm một khác. Chụp ảnh xe cùng biển hiệu điểm gửi để lúc quay lại dễ tìm, và đừng dựng xe trên vỉa hè sát chân dốc chỉ vì thấy xe khác để đó. Bài [đến cầu Long Biên bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/28/den-cau-long-bien-bang-xe-may-gui-xe-va-duong-di/) có thêm thông tin chung về khu vực hai đầu cầu.
 
 ## Lối lên cầu Long Biên cho người đi bộ
 
@@ -64,7 +64,7 @@ Từ đó có ba cách đi hợp lý:
 2. **Đi hết một chiều rồi quay lại cùng đường.** Hợp với người khỏe, có cả buổi chiều.
 3. **Đi một chiều rồi nhờ người đón ở đầu bên kia.** Hẹn điểm gặp ở chỗ rộng, không dừng xe trên dốc dẫn.
 
-Mang theo nước, đội mũ hoặc mang ô nếu trời nắng, vì trên cầu gần như không có bóng mát. Nếu muốn canh giờ đẹp, bài [đi cầu Long Biên ngắm hoàng hôn bằng xe máy](/du-lich/2026/10/07/i-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-uoc-khong/) gợi ý khung chiều muộn.
+Mang theo nước, đội mũ hoặc mang ô nếu trời nắng, vì trên cầu gần như không có bóng mát. Nếu muốn canh giờ đẹp, bài [đi cầu Long Biên ngắm hoàng hôn bằng xe máy](/du-lich/2026/10/07/di-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-duoc-khong/) gợi ý khung chiều muộn.
 
 ## An toàn khi đi bộ trên cầu: lối hẹp và xe chạy sát
 

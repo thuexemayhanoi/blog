@@ -47,7 +47,7 @@ Hết Kim Ngưu là ngã tư với Trần Khát Chân và Lò Đúc. Đi thẳng
 
 Lối này dài hơn nhưng ít nút giao, hợp khi Minh Khai đã đứng từ cổng khu đô thị. Ra phía sông Hồng, nhập đường đê Nguyễn Khoái, chạy lên phía bắc, rồi theo các trục ven đê như Trần Khánh Dư, Trần Quang Khải vào phía đông Hồ Gươm.
 
-Đường đê có xe tải, xe khách chạy nhanh. Đi làn phải, không lạng lách, và bật đèn sớm khi trời chạng vạng. Ai mới cầm lái nên thử lối này vào sáng cuối tuần trước, cách làm quen giống cung [chạy xe sáng sớm qua cầu Vĩnh Tuy](/cung-duong/2026/10/01/chay-xe-sang-som-qua-cau-vinh-tuy-cung-uong-cho-nguoi-moi/) ngay gần đó.
+Đường đê có xe tải, xe khách chạy nhanh. Đi làn phải, không lạng lách, và bật đèn sớm khi trời chạng vạng. Ai mới cầm lái nên thử lối này vào sáng cuối tuần trước, cách làm quen giống cung [chạy xe sáng sớm qua cầu Vĩnh Tuy](/cung-duong/2026/10/01/chay-xe-sang-som-qua-cau-vinh-tuy-cung-duong-cho-nguoi-moi/) ngay gần đó.
 
 ## Những chỗ hay kẹt xe và cách xử lý
 
@@ -78,6 +78,6 @@ Muốn chạy một vòng quanh hồ sau khi tới, bạn xem thêm cách đi [q
 
 Đường về không đi ngược lại Phố Huế được, vì phố này chỉ cho đi lên phía bắc. Từ mép nam hồ, bạn vào Bà Triệu, phố song song chạy một chiều về phía nam, tới Đại Cồ Việt thì theo biển ở nút sang hướng Ô Cầu Dền, xuống Bạch Mai rồi ra Minh Khai rẽ trái. Từ phía đông hồ có thể về theo Lò Đúc, Kim Ngưu, nhìn biển chiều đi ở mỗi đoạn.
 
-Thuê xe vài ngày thì kiểm tra phanh, đèn, còi, xăng ngay khi nhận và chụp ảnh thân xe. Ai mới chạy ở Hà Nội lần đầu có thể đọc thêm [cung nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-au/). Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, mở cửa 09:00–21:00; giờ và cách giao nhận xe cần xác nhận trước qua số 0942 467 674.
+Thuê xe vài ngày thì kiểm tra phanh, đèn, còi, xăng ngay khi nhận và chụp ảnh thân xe. Ai mới chạy ở Hà Nội lần đầu có thể đọc thêm [cung nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-dau/). Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, mở cửa 09:00–21:00; giờ và cách giao nhận xe cần xác nhận trước qua số 0942 467 674.
 
 Lưu sẵn hai lộ trình trên điện thoại để đổi khi gặp tắc. Xem thêm các tuyến khác trong nhóm [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) và chuyên mục [cung đường xe máy quanh Hà Nội](/cung-duong/).

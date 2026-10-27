@@ -35,7 +35,7 @@ Người ở bờ bắc không phải qua cầu, tránh được dòng xe đông
 
 Thứ tự gợi ý là đi một chiều từ phía cầu Long Biên xuống phía cầu Chương Dương: chùa Ái Mộ trước, chùa Bồ Đề sau, đền Ghềnh cuối cùng. Đi như vậy không phải quay đầu trên đường đê đông xe, và điểm kết thúc ở gần lối lên cầu Chương Dương cho ai cần về nội đô. Trước hôm đi, mở bản đồ dò lối vào từng nơi, vì cả ba đều có đoạn ngõ hoặc dốc đê dễ bỏ qua.
 
-Các làng cũ ở Ngọc Thụy, phía trên cầu Long Biên, cũng có đình, chùa làng riêng. Nếu muốn ghé thêm, nên hỏi người trong làng về giờ mở cửa ngày Tết. Đường đê lên phía đó buổi sáng khá dễ chịu, có thể tham khảo bài [chạy xe buổi sớm dọc đê Ngọc Thụy](/du-lich/2026/10/04/chay-xe-buoi-som-doc-e-ngoc-thuy-o-long-bien/).
+Các làng cũ ở Ngọc Thụy, phía trên cầu Long Biên, cũng có đình, chùa làng riêng. Nếu muốn ghé thêm, nên hỏi người trong làng về giờ mở cửa ngày Tết. Đường đê lên phía đó buổi sáng khá dễ chịu, có thể tham khảo bài [chạy xe buổi sớm dọc đê Ngọc Thụy](/du-lich/2026/10/04/chay-xe-buoi-som-doc-de-ngoc-thuy-o-long-bien/).
 
 ## Xuất phát giờ vắng trong mùa lễ đầu năm
 
@@ -52,13 +52,13 @@ Ngày Tết, quanh các điểm lễ thường có thêm nhiều chỗ trông xe
 3. **Giữ vé cẩn thận và chụp ảnh lại.** Chụp vé cùng biển số xe, cất vé vào túi có khóa kéo. Mất vé giữa ngày đông là chuyện rất mất thời gian.
 4. **Khóa cổ, rút chìa, không để đồ trên xe.** Mũ bảo hiểm, áo mưa, túi đồ lễ đừng để lại trong giỏ.
 
-Với chùa Bồ Đề và đền Ghềnh, có thể gửi một chỗ rồi đi bộ sang điểm kia nếu người trong đoàn đi được, đỡ một lần gửi và lấy xe. Các cách khóa và chọn chỗ để xe an toàn hơn có trong bài [chống trộm xe máy khi để ngoài đường](/ky-nang/2026-09-29/chong-trom-xe-may-khi-e-ngoai-uong/).
+Với chùa Bồ Đề và đền Ghềnh, có thể gửi một chỗ rồi đi bộ sang điểm kia nếu người trong đoàn đi được, đỡ một lần gửi và lấy xe. Các cách khóa và chọn chỗ để xe an toàn hơn có trong bài [chống trộm xe máy khi để ngoài đường](/ky-nang/2026-09-29/chong-trom-xe-may-khi-de-ngoai-duong/).
 
 ## Trang phục và đồ lễ khi đi xe máy
 
 Trang phục đi lễ nên kín vai, kín gối, màu nhã. Trên xe máy, thêm vài điều thực tế: váy dài dễ cuốn vào bánh sau, nên chọn quần hoặc váy gọn; giày dép dễ tháo vì nhiều nơi để dép ngoài; áo khoác mỏng cho gió sông buổi sớm. Mũ bảo hiểm vẫn cài quai đầy đủ dù quãng đường chỉ vài phút.
 
-Đồ lễ nên gọn và nhẹ: một túi hoa quả, một bó hoa nhỏ, không cần mâm cao cồng kềnh. Cách buộc và đặt đồ lễ trên xe cho khỏi đổ đã có trong bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-o-i-le-chua-au-nam-tren-xe-may/).
+Đồ lễ nên gọn và nhẹ: một túi hoa quả, một bó hoa nhỏ, không cần mâm cao cồng kềnh. Cách buộc và đặt đồ lễ trên xe cho khỏi đổ đã có trong bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-do-di-le-chua-dau-nam-tren-xe-may/).
 
 ## Giữ đồ và giữ người khi đông
 

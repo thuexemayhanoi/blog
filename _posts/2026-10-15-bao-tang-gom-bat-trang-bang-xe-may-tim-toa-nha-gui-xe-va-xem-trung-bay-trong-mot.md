@@ -29,7 +29,7 @@ Cách nhận ra tòa nhà khi đã vào làng:
 - **Đừng nhầm với cửa hàng ghi chữ "bảo tàng".** Trong làng có nhiều xưởng, cửa hàng và phòng trưng bày tư nhân. Có nơi rất đáng ghé, nhưng nếu bạn muốn đến trung tâm có kiến trúc đặc biệt thì đối chiếu địa chỉ thôn 5 trên ứng dụng bản đồ.
 - **Đặt điểm đến bằng tên chính thức.** Gõ tên trung tâm vào ứng dụng bản đồ ở chế độ xe máy thường cho kết quả chính xác hơn gõ chung chung "bảo tàng gốm".
 
-Về đường đi, từ phía Long Biên bạn có thể theo đường đê ven sông Hồng xuống phía nam rồi rẽ vào làng; cách đi cụ thể có trong bài [làng gốm Bát Tràng bằng xe máy từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-uong-i-va-gui-xe/). Đường trong làng hẹp, có đoạn đông xe chở hàng, nên khi gần tới hãy giảm tốc và nhìn biển chỉ dẫn.
+Về đường đi, từ phía Long Biên bạn có thể theo đường đê ven sông Hồng xuống phía nam rồi rẽ vào làng; cách đi cụ thể có trong bài [làng gốm Bát Tràng bằng xe máy từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-duong-di-va-gui-xe/). Đường trong làng hẹp, có đoạn đông xe chở hàng, nên khi gần tới hãy giảm tốc và nhìn biển chỉ dẫn.
 
 ## Gửi xe khi tham quan bảo tàng gốm
 
@@ -75,7 +75,7 @@ Ra khỏi trung tâm, bạn còn có thể dạo một vòng trong làng mà kh�
 - **Những ngõ làng cổ** với tường gạch, nhà cũ và các lò gốm, trong đó có lò bầu cổ mà nhiều người tìm đến chụp ảnh.
 - **Các xưởng nhỏ** đang làm hàng, nếu chủ xưởng sẵn lòng cho đứng xem; hỏi trước và không chạm vào phôi đang phơi.
 
-Nếu mua gốm mang về, cách gói và buộc đồ dễ vỡ trên xe máy có trong bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-o-gom-bat-trang-ve-bang-xe-may-cach-ong-goi-va-buoc-o/). Đường ra khỏi làng lúc chiều thường đông xe tải nhỏ, đi chậm, giữ khoảng cách và không vượt ở chỗ khuất.
+Nếu mua gốm mang về, cách gói và buộc đồ dễ vỡ trên xe máy có trong bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-do-gom-bat-trang-ve-bang-xe-may-cach-dong-goi-va-buoc-do/). Đường ra khỏi làng lúc chiều thường đông xe tải nhỏ, đi chậm, giữ khoảng cách và không vượt ở chỗ khuất.
 
 ## Thuê xe từ Long Biên để đi Bát Tràng
 

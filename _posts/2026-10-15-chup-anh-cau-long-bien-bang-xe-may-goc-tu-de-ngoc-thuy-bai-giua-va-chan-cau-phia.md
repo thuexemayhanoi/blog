@@ -21,7 +21,7 @@ Phần lớn ảnh về cầu Long Biên được chụp từ phía phố cổ h
 
 Ánh sáng quyết định nhiều hơn ống kính. Từ bờ Long Biên nhìn về phía cầu, buổi chiều là lúc mặt trời xuống dần về phía bờ bên kia, khung thép thành bóng đậm trên nền trời ấm. Buổi sáng sớm thì nắng chiếu từ sau lưng bạn lên thân cầu, màu gỉ của dầm thép hiện rõ hơn, mặt sông thường có sương mỏng. Nên đến trước giờ đẹp chừng nửa tiếng để kịp tìm chỗ để xe và đi bộ ra vị trí.
 
-Mang đồ sao cho hai tay rảnh khi đi bộ: máy ảnh hoặc điện thoại trong túi đeo chéo, một chai nước, áo khoác mỏng vì gió sông, giày đế bám vì có đoạn đất cỏ. Nếu chưa quen giờ ánh sáng trên sông, bài [đi cầu Long Biên ngắm hoàng hôn](/du-lich/2026/10/07/i-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-uoc-khong/) có gợi ý khung giờ cụ thể.
+Mang đồ sao cho hai tay rảnh khi đi bộ: máy ảnh hoặc điện thoại trong túi đeo chéo, một chai nước, áo khoác mỏng vì gió sông, giày đế bám vì có đoạn đất cỏ. Nếu chưa quen giờ ánh sáng trên sông, bài [đi cầu Long Biên ngắm hoàng hôn](/du-lich/2026/10/07/di-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-duoc-khong/) có gợi ý khung giờ cụ thể.
 
 ## Góc chụp cầu Long Biên từ đê Ngọc Thụy
 
@@ -41,7 +41,7 @@ Mặt đường đê hẹp, có xe tải nhỏ, xe chở vật liệu và ngư�
 3. Không dựng xe ở khúc cua, đầu dốc lên xuống đê hay trước cổng nhà dân.
 4. Tắt máy, rút chìa, khóa cổ, rồi mới đi bộ ra triền đê.
 
-Chỗ nào có trông giữ xe thì gửi, chụp lâu cũng yên tâm hơn. Nếu lề đê có độ dốc, xem thêm cách dựng xe trong bài [dừng xe máy trên đường dốc để chụp ảnh](/ky-nang/2026/10/11/dung-xe-may-tren-uong-doc-e-chup-anh-giu-xe-the-nao/). Đường lên đê và khung giờ chạy buổi sớm có trong bài [chạy xe buổi sớm dọc đê Ngọc Thụy](/du-lich/2026/10/04/chay-xe-buoi-som-doc-e-ngoc-thuy-o-long-bien/).
+Chỗ nào có trông giữ xe thì gửi, chụp lâu cũng yên tâm hơn. Nếu lề đê có độ dốc, xem thêm cách dựng xe trong bài [dừng xe máy trên đường dốc để chụp ảnh](/ky-nang/2026/10/11/dung-xe-may-tren-duong-doc-de-chup-anh-giu-xe-the-nao/). Đường lên đê và khung giờ chạy buổi sớm có trong bài [chạy xe buổi sớm dọc đê Ngọc Thụy](/du-lich/2026/10/04/chay-xe-buoi-som-doc-de-ngoc-thuy-o-long-bien/).
 
 ## Điểm chụp ảnh Long Biên ở bãi giữa: nhìn cầu từ dưới lên
 

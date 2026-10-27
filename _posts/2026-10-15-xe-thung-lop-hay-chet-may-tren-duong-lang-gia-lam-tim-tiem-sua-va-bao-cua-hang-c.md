@@ -17,7 +17,7 @@ writer_session: s-claude-w3
 
 Đang chạy giữa cánh đồng giữa Bát Tràng và Kim Lan thì tay lái nặng dần, hoặc chiếc xe ga ho lên mấy tiếng rồi tắt hẳn trên con đường bê tông chỉ vừa hai xe tránh nhau. Tìm chỗ sửa xe máy Gia Lâm lúc ấy khác hẳn ở phố: không có biển hiệu sáng đèn mỗi trăm mét, bản đồ trên điện thoại chỉ hiện vài chấm thưa thớt, và bạn chưa chắc gọi tên được nơi mình đang đứng. Bài này dành cho khách thuê xe đi làng nghề phía đông sông Hồng, tập trung vào những việc riêng của đường làng và đường đê: dừng ở đâu cho an toàn, hỏi ai, mô tả vị trí thế nào để cửa hàng hiểu ngay.
 
-Nếu bạn cần nguyên tắc chung về việc báo trước hay tự sửa với xe thuê, bài [xe thuê thủng lốp hay chết máy giữa đường](/thue-xe/2026/10/11/xe-thue-thung-lop-hay-chet-may-giua-uong-bao-cua-hang-truoc-hay-tu-sua/) đã viết kỹ.
+Nếu bạn cần nguyên tắc chung về việc báo trước hay tự sửa với xe thuê, bài [xe thuê thủng lốp hay chết máy giữa đường](/thue-xe/2026/10/11/xe-thue-thung-lop-hay-chet-may-giua-duong-bao-cua-hang-truoc-hay-tu-sua/) đã viết kỹ.
 
 ## Sửa xe máy Gia Lâm: đường làng khác phố ở chỗ nào
 
@@ -83,6 +83,6 @@ Vài việc nhỏ trước khi rời Long Biên:
 - Đổ xăng đầy ngay từ đầu chuyến; cây xăng ven đường lớn nhiều hơn trong làng.
 - Đi đường đê vào ban ngày, tránh về muộn khi đường làng ít đèn.
 
-Nếu chưa rõ nên chọn hướng nào, bài [Gia Lâm và các làng nghề gần, chạy xe nửa ngày](/du-lich/2026/09/28/gia-lam-va-cac-lang-nghe-gan-o-chay-xe-nua-ngay/) gợi ý lộ trình, còn bài [chạy xe trên đường đê Gia Lâm buổi chiều](/du-lich/2026/10/04/chay-xe-may-tren-uong-e-gia-lam-buoi-chieu-loi-len-e-va-iem-dung/) chỉ các lối lên đê và điểm dừng.
+Nếu chưa rõ nên chọn hướng nào, bài [Gia Lâm và các làng nghề gần, chạy xe nửa ngày](/du-lich/2026/09/28/gia-lam-va-cac-lang-nghe-gan-do-chay-xe-nua-ngay/) gợi ý lộ trình, còn bài [chạy xe trên đường đê Gia Lâm buổi chiều](/du-lich/2026/10/04/chay-xe-may-tren-duong-de-gia-lam-buoi-chieu-loi-len-de-va-diem-dung/) chỉ các lối lên đê và điểm dừng.
 
 Tóm lại, khi xe thuê gặp sự cố ở đường làng Gia Lâm: tấp vào chỗ rộng, hỏi người dân tiệm sửa gần, gọi cửa hàng trước khi thợ bắt tay vào, chụp ảnh vị trí và xác nhận chi phí với cửa hàng. Các bài khác về khu vực này nằm ở mục [Long Biên và Gia Lâm](/du-lich/long-bien/), còn những cung đường khác quanh Hà Nội có trong chuyên mục [du lịch](/du-lich/).
