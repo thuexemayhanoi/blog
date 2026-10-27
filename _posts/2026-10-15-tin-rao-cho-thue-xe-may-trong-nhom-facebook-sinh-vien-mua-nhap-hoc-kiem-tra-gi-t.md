@@ -45,7 +45,7 @@ Khi gọi, hỏi vài câu cụ thể thay vì câu chung chung:
 3. Giấy đăng ký xe đứng tên ai, có mang ra cho em đối chiếu được không?
 4. Hai bên có làm hợp đồng hoặc biên nhận cọc bằng giấy không?
 
-Nếu người kia né gọi, viện cớ "đang bận, chuyển cọc đi rồi tối nói", hoặc mập mờ về chỗ để xe, bạn đã đủ lý do để thôi. Câu "đến rồi tính" về tiền cọc cũng nên hỏi lại cho rõ, như bài [chủ xe trả lời mơ hồ về tiền cọc](/thue-xe/2026/10/11/chu-xe-tra-loi-mo-ho-ve-tien-coc-en-roi-tinh-thi-nen-lam-gi/) đã phân tích.
+Nếu người kia né gọi, viện cớ "đang bận, chuyển cọc đi rồi tối nói", hoặc mập mờ về chỗ để xe, bạn đã đủ lý do để thôi. Câu "đến rồi tính" về tiền cọc cũng nên hỏi lại cho rõ, như bài [chủ xe trả lời mơ hồ về tiền cọc](/thue-xe/2026/10/11/chu-xe-tra-loi-mo-ho-ve-tien-coc-den-roi-tinh-thi-nen-lam-gi/) đã phân tích.
 
 ## Đến xem xe tận nơi trước khi chuyển cọc
 
@@ -57,7 +57,7 @@ Khi đến nơi, để ý:
 - Người giao xe có phải người đã nghe máy không, có lúng túng khi bạn hỏi về xe không.
 - Chỗ để xe là nhà ở, tiệm sửa xe hay chỉ là góc vỉa hè hẹn tạm. Hẹn ở quán nước rồi "người khác mang xe tới" là dấu hiệu cần cảnh giác.
 
-Chưa xuống Hà Nội thì nhờ người quen ở đây xem giúp, hoặc chờ nhập học rồi mới chốt. Thời điểm đưa tiền hợp lý đã có trong bài [nên đưa tiền cọc lúc nào](/thue-xe/2026/10/11/nen-ua-tien-coc-luc-nao-truoc-hay-sau-khi-xem-xe-va-chot-ieu-kien/): xem xe và chốt điều kiện trước, đưa cọc sau.
+Chưa xuống Hà Nội thì nhờ người quen ở đây xem giúp, hoặc chờ nhập học rồi mới chốt. Thời điểm đưa tiền hợp lý đã có trong bài [nên đưa tiền cọc lúc nào](/thue-xe/2026/10/11/nen-dua-tien-coc-luc-nao-truoc-hay-sau-khi-xem-xe-va-chot-dieu-kien/): xem xe và chốt điều kiện trước, đưa cọc sau.
 
 ## Giấy tờ xe và hợp đồng: đối chiếu từng dòng
 
@@ -74,7 +74,7 @@ Khung những dòng nên có trên giấy biên nhận được liệt kê kỹ 
 
 ## Lúc chuyển khoản: soát tên người nhận
 
-Chỉ khi đã gọi điện, xem xe và có giấy tờ rõ ràng mới nên chuyển cọc. Trước khi bấm xác nhận, nhìn kỹ tên chủ tài khoản hiện trên ứng dụng ngân hàng có trùng tên trên hợp đồng không; lệch mà giải thích không thuyết phục thì dừng. Ghi nội dung chuyển khoản kèm biển số xe và lưu ảnh màn hình giao dịch. Cách soát khi quét mã thanh toán có trong bài [quét mã QR để chuyển cọc](/thue-xe/2026/10/11/quet-ma-qr-e-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/).
+Chỉ khi đã gọi điện, xem xe và có giấy tờ rõ ràng mới nên chuyển cọc. Trước khi bấm xác nhận, nhìn kỹ tên chủ tài khoản hiện trên ứng dụng ngân hàng có trùng tên trên hợp đồng không; lệch mà giải thích không thuyết phục thì dừng. Ghi nội dung chuyển khoản kèm biển số xe và lưu ảnh màn hình giao dịch. Cách soát khi quét mã thanh toán có trong bài [quét mã QR để chuyển cọc](/thue-xe/2026/10/11/quet-ma-qr-de-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/).
 
 Nhiều ứng dụng ngân hàng hiện có tính năng cảnh báo khi số tài khoản nhận từng bị báo cáo nghi lừa đảo. Thấy cảnh báo như vậy, đừng cố chuyển cho bằng được.
 

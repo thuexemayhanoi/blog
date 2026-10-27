@@ -23,7 +23,7 @@ Bài này đọc điều khoản đó, giải thích hai loại xe bốn bánh t
 
 Điều 57 khoản 3 của luật nêu: người điều khiển xe chở hàng bốn bánh có gắn động cơ, xe chở người bốn bánh có gắn động cơ phải sử dụng giấy phép lái xe có hạng phù hợp với xe ô tô tải hoặc xe ô tô chở người tương ứng. Nghĩa là không dùng hạng A1 để lái các loại xe này. Hạng A1 theo luật chỉ cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc công suất động cơ điện đến 11 kW.
 
-Cần nhớ đây là điều khoản về loại xe có định nghĩa riêng trong luật, không phải về mọi chiếc xe điện có bốn bánh. Bài [các hạng bằng lái xe máy tại Việt Nam](/an-toan-phap-ly/2026/09/27/cac-hang-bang-lai-xe-may-tai-viet-nam/) và [hạng A1 lái được những loại xe máy nào](/an-toan-phap-ly/2026/10/09/hang-a1-lai-uoc-nhung-loai-xe-may-nao/) giúp bạn thấy ranh giới giữa nhóm xe máy và nhóm ô tô.
+Cần nhớ đây là điều khoản về loại xe có định nghĩa riêng trong luật, không phải về mọi chiếc xe điện có bốn bánh. Bài [các hạng bằng lái xe máy tại Việt Nam](/an-toan-phap-ly/2026/09/27/cac-hang-bang-lai-xe-may-tai-viet-nam/) và [hạng A1 lái được những loại xe máy nào](/an-toan-phap-ly/2026/10/09/hang-a1-lai-duoc-nhung-loai-xe-may-nao/) giúp bạn thấy ranh giới giữa nhóm xe máy và nhóm ô tô.
 
 ## Hai loại xe trong luật: chở người và chở hàng bốn bánh có gắn động cơ
 

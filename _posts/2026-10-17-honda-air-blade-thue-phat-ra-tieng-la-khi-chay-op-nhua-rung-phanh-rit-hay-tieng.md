@@ -56,7 +56,7 @@ Nhóm này cần dừng xe sớm, theo những dấu hiệu báo VOV mô tả ch
 - Tiếng hú, tiếng va đập ở phía sau lớn dần qua từng ngày: có thể liên quan tới hộp số cuối hoặc dầu hộp số.
 - Tiếng gõ to, đều và liên tục từ động cơ, máy nóng bất thường.
 
-Đây chỉ là các khả năng, chẩn đoán đúng là việc của thợ. Dấu hiệu mòn dây đai qua cảm giác lấy đà có ở bài [dây curoa và bi nồi xe ga](/xe-may/2026/10/11/day-curoa-va-bi-noi-xe-ga-dau-hieu-mon-qua-cam-giac-lay-a-va-tieng-keu/ "Dây curoa và bi nồi xe ga").
+Đây chỉ là các khả năng, chẩn đoán đúng là việc của thợ. Dấu hiệu mòn dây đai qua cảm giác lấy đà có ở bài [dây curoa và bi nồi xe ga](/xe-may/2026/10/11/day-curoa-va-bi-noi-xe-ga-dau-hieu-mon-qua-cam-giac-lay-da-va-tieng-keu/ "Dây curoa và bi nồi xe ga").
 
 Ngoài tiếng, hãy nhìn đồng hồ. Air Blade có đèn báo quá nhiệt dung dịch làm mát và đèn báo lỗi phun xăng PGM-FI. Đèn báo quá nhiệt sáng khi đang chạy thì dừng xe ở chỗ an toàn, tắt máy và gọi tiệm. Sách cũng dặn nếu đèn báo nào không hiển thị đúng chức năng, cần mang xe tới cửa hàng Honda ủy nhiệm kiểm tra.
 

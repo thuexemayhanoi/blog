@@ -37,7 +37,7 @@ Từ cổng, hoành phi, câu đối, ban thờ, cột cho tới đầu đao tr�
 
 ## Đi xe máy từ Long Biên
 
-Từ Long Biên, bạn có thể đi theo tuyến đê sông Hồng về phía Bát Tràng; tên chính thức của tuyến này là đường đê Long Biên – Xuân Quan. Hãy dùng bản đồ để rẽ đúng vào thôn Giang Cao. Đường gợi ý và chỗ gửi xe ở làng gốm có ở bài [làng gốm Bát Tràng bằng xe máy từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-uong-i-va-gui-xe/ "Làng gốm Bát Tràng bằng xe máy từ Long Biên").
+Từ Long Biên, bạn có thể đi theo tuyến đê sông Hồng về phía Bát Tràng; tên chính thức của tuyến này là đường đê Long Biên – Xuân Quan. Hãy dùng bản đồ để rẽ đúng vào thôn Giang Cao. Đường gợi ý và chỗ gửi xe ở làng gốm có ở bài [làng gốm Bát Tràng bằng xe máy từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-duong-di-va-gui-xe/ "Làng gốm Bát Tràng bằng xe máy từ Long Biên").
 
 Một lưu ý quan trọng trong năm nay: theo thông báo phân luồng của Hà Nội, từ ngày 25/9/2026 tới 25/2/2027, đoạn đê Long Biên – Xuân Quan qua khu hồ Lâm Du bị cấm xe từ 23 giờ tới 4 giờ sáng để thi công cầu Trần Hưng Đạo; xe được hướng dẫn đi đường Cổ Linh. Đi ban ngày thì không ảnh hưởng, nhưng đừng hẹn về muộn qua đoạn này.
 
@@ -59,7 +59,7 @@ Buổi sáng ngày thường là lúc chùa yên tĩnh, ánh sáng tự nhiên c
 
 ## Ghép thêm điểm ở Bát Tràng
 
-Sau khi viếng chùa, bạn có thể vào làng gốm xem [Bảo tàng gốm Bát Tràng](/du-lich/2026/10/15/bao-tang-gom-bat-trang-bang-xe-may-tim-toa-nha-gui-xe-va-xem-trung-bay-trong-mot/ "Bảo tàng gốm Bát Tràng bằng xe máy"), hoặc ngồi nặn gốm theo gợi ý ở bài [nặn gốm ở Bát Tràng nửa ngày](/du-lich/2026/10/15/nan-gom-o-bat-trang-nua-ngay-chon-xuong-trai-nghiem-mang-do-gi-va-chay-xe-ve-khi/ "Nặn gốm ở Bát Tràng nửa ngày"). Mua đồ gốm mang về bằng xe máy thì xem cách gói ở bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-o-gom-bat-trang-ve-bang-xe-may-cach-ong-goi-va-buoc-o/ "Chở đồ gốm Bát Tràng về bằng xe máy").
+Sau khi viếng chùa, bạn có thể vào làng gốm xem [Bảo tàng gốm Bát Tràng](/du-lich/2026/10/15/bao-tang-gom-bat-trang-bang-xe-may-tim-toa-nha-gui-xe-va-xem-trung-bay-trong-mot/ "Bảo tàng gốm Bát Tràng bằng xe máy"), hoặc ngồi nặn gốm theo gợi ý ở bài [nặn gốm ở Bát Tràng nửa ngày](/du-lich/2026/10/15/nan-gom-o-bat-trang-nua-ngay-chon-xuong-trai-nghiem-mang-do-gi-va-chay-xe-ve-khi/ "Nặn gốm ở Bát Tràng nửa ngày"). Mua đồ gốm mang về bằng xe máy thì xem cách gói ở bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-do-gom-bat-trang-ve-bang-xe-may-cach-dong-goi-va-buoc-do/ "Chở đồ gốm Bát Tràng về bằng xe máy").
 
 ## Câu hỏi thường gặp
 

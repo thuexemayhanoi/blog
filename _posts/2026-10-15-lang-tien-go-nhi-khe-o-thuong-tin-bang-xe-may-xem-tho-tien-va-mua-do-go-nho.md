@@ -27,7 +27,7 @@ Nghề tiện ở Nhị Khê đã có từ nhiều đời. Đồ tiện xưa ch�
 
 Đây là phần cần nói rõ nhất. Từ phía nam nội thành có hai trục song song cùng chạy về Thường Tín, nhưng chỉ một trục cho xe máy:
 
-- **Cao tốc Pháp Vân – Cầu Giẽ cấm xe máy.** Lối lên cao tốc ở khu Pháp Vân rất dễ cuốn theo dòng ô tô. Đọc kỹ biển trước nút giao và giữ làn phải. Nếu chưa rõ quy định, xem bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+- **Cao tốc Pháp Vân – Cầu Giẽ cấm xe máy.** Lối lên cao tốc ở khu Pháp Vân rất dễ cuốn theo dòng ô tô. Đọc kỹ biển trước nút giao và giữ làn phải. Nếu chưa rõ quy định, xem bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 - **Quốc lộ 1A cũ là đường của bạn.** Từ đường Giải Phóng đi thẳng xuống Văn Điển, qua đường Ngọc Hồi, chạy tiếp về phía thị trấn Thường Tín. Đường đông xe tải và xe khách, có nhiều đoạn qua khu dân cư, chợ ven đường.
 
 Nếu xuất phát từ Long Biên, qua cầu Vĩnh Tuy hoặc cầu Chương Dương rồi nhập vào trục Giải Phóng. Đường trên cao Vành đai 3 cũng cấm xe máy, nên khi tới khu Pháp Vân hãy đi dưới mặt đất. Tới gần thị trấn, mở Google Maps tìm "Nhị Khê" để xem lối rẽ vào làng; đường làng hẹp hơn hẳn quốc lộ.

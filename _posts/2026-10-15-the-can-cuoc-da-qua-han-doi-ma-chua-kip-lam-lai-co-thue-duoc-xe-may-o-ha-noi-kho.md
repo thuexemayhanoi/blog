@@ -70,7 +70,7 @@ Nên hỏi thêm:
 3. Đặt cọc và điều kiện thuê cụ thể, phần này xác nhận trực tiếp với cửa hàng.
 4. Nếu nhờ giao xe, thời gian và chi phí giao nhận là bao nhiêu; tiệm chỉ giao trong giờ hoạt động.
 
-Lưu lại câu trả lời bằng tin nhắn để có căn cứ khi nhận xe. Những câu hỏi về thẻ căn cước gắn chip khi thuê xe có ở bài [thuê xe máy bằng căn cước gắn chip](/thue-xe/2026/10/07/thue-xe-may-bang-can-cuoc-gan-chip-co-uoc-khong/); thẻ còn hạn nhưng bị hỏng thì xem bài [thẻ căn cước mất niêm phong có thuê xe được không](/an-toan-phap-ly/2026/10/07/the-can-cuoc-hop-le-nhung-mat-niem-phong-co-thue-xe-uoc-khong/).
+Lưu lại câu trả lời bằng tin nhắn để có căn cứ khi nhận xe. Những câu hỏi về thẻ căn cước gắn chip khi thuê xe có ở bài [thuê xe máy bằng căn cước gắn chip](/thue-xe/2026/10/07/thue-xe-may-bang-can-cuoc-gan-chip-co-duoc-khong/); thẻ còn hạn nhưng bị hỏng thì xem bài [thẻ căn cước mất niêm phong có thuê xe được không](/an-toan-phap-ly/2026/10/07/the-can-cuoc-hop-le-nhung-mat-niem-phong-co-thue-xe-duoc-khong/).
 
 ## Lên lịch đổi thẻ theo hướng dẫn của cơ quan công an
 

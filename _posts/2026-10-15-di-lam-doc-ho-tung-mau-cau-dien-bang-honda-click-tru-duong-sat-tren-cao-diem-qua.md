@@ -36,7 +36,7 @@ Như phần lớn cửa ngõ, buổi sáng dòng xe dồn theo hướng vào tru
 - **Để ý xe buýt dừng đỗ** sát lề phải; đừng vượt xe buýt bằng cách lách sát bên phải.
 - **Giữ khoảng cách** với xe phía trước, vì dòng xe ở đây hay dừng đột ngột ở nút giao.
 
-Cách chọn giờ xuất phát cho các trục đông có ở bài [giờ cao điểm Hà Nội: chọn giờ xuất phát và đường đi đỡ kẹt](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/ "Giờ cao điểm Hà Nội: chọn giờ xuất phát"). Nếu bạn là sinh viên đi lại giữa các trường, xem thêm bài [sinh viên đi giữa Bách Khoa và Xuân Thủy bằng xe máy](/cung-duong/2026/10/11/sinh-vien-di-giua-bach-khoa-va-xuan-thuy-bang-xe-may-duong-nao-do-dong/ "Sinh viên đi giữa Bách Khoa và Xuân Thủy").
+Cách chọn giờ xuất phát cho các trục đông có ở bài [giờ cao điểm Hà Nội: chọn giờ xuất phát và đường đi đỡ kẹt](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/ "Giờ cao điểm Hà Nội: chọn giờ xuất phát"). Nếu bạn là sinh viên đi lại giữa các trường, xem thêm bài [sinh viên đi giữa Bách Khoa và Xuân Thủy bằng xe máy](/cung-duong/2026/10/11/sinh-vien-di-giua-bach-khoa-va-xuan-thuy-bang-xe-may-duong-nao-do-dong/ "Sinh viên đi giữa Bách Khoa và Xuân Thủy").
 
 ## Quay đầu xe: chỉ ở chỗ cho phép
 
@@ -60,7 +60,7 @@ Từ trục Hồ Tùng Mậu, hai cách rẽ vào khu Mỹ Đình quen thuộc:
 
 ## Đoạn Cầu Diễn và hướng ra Nhổn
 
-Đi xa hơn về phía tây, qua cầu Diễn bắc qua sông Nhuệ, đường tiếp tục ra Phú Diễn, Minh Khai, Nhổn. Dốc cầu ngắn, Click lên dễ dàng; giữ ga đều, đừng tăng tốc vượt xe ngay trên dốc. Phía tây Nhổn, đường mở ra hướng quốc lộ 32 với nhiều xe tải, xe khách hơn. Nếu bạn ở trọ khu này và đi làm vào trung tâm hằng ngày, tính quãng đường cả đi lẫn về để chọn gói thuê phù hợp. Cảm nhận khi qua dốc cầu Diễn bằng xe nhỏ có ở bài [xe 50cc thuê leo dốc cầu Diễn được không](/xe-may/2026/10/09/xe-50cc-thue-leo-doc-cau-dien-uoc-khong/ "Xe 50cc thuê leo dốc cầu Diễn được không").
+Đi xa hơn về phía tây, qua cầu Diễn bắc qua sông Nhuệ, đường tiếp tục ra Phú Diễn, Minh Khai, Nhổn. Dốc cầu ngắn, Click lên dễ dàng; giữ ga đều, đừng tăng tốc vượt xe ngay trên dốc. Phía tây Nhổn, đường mở ra hướng quốc lộ 32 với nhiều xe tải, xe khách hơn. Nếu bạn ở trọ khu này và đi làm vào trung tâm hằng ngày, tính quãng đường cả đi lẫn về để chọn gói thuê phù hợp. Cảm nhận khi qua dốc cầu Diễn bằng xe nhỏ có ở bài [xe 50cc thuê leo dốc cầu Diễn được không](/xe-may/2026/10/09/xe-50cc-thue-leo-doc-cau-dien-duoc-khong/ "Xe 50cc thuê leo dốc cầu Diễn được không").
 
 ## Dừng xe quanh các nhà ga
 

@@ -51,7 +51,7 @@ Khi kẻ cướp đã rời đi, việc đầu tiên là đưa mình tới chỗ
 2. Vị trí cụ thể: tên đường, mốc gần nhất như số nhà, cột điện, cửa hàng, đầu cầu.
 3. Số người, đặc điểm, hướng chạy và thời điểm.
 
-Nếu có người bị thương thì gọi 115 trước hoặc nhờ người xung quanh gọi giúp. Nếu chưa rõ nên gọi số nào trong tình huống nào, xem thêm bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/).
+Nếu có người bị thương thì gọi 115 trước hoặc nhờ người xung quanh gọi giúp. Nếu chưa rõ nên gọi số nào trong tình huống nào, xem thêm bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/).
 
 Trường hợp điện thoại cũng bị lấy, hãy mượn máy của chủ quán hoặc bảo vệ gần nhất.
 
@@ -87,7 +87,7 @@ Không có cách nào loại bỏ hoàn toàn rủi ro, nhưng vài thói quen g
 
 **Không dừng khi bị ép xe.** Nếu có xe bám sát, ép vào lề hay ra hiệu bắt dừng ở chỗ vắng, đừng dừng. Giữ tốc độ vừa phải, không lạng lách liều lĩnh, chạy thẳng tới khu đông người, cây xăng hoặc trụ sở công an gần nhất rồi mới dừng.
 
-**Đừng mời gọi sự chú ý.** Không treo điện thoại trên giá ở chế độ sáng màn hình suốt đường vắng, không khoe đồ có giá trị, cất túi vào cốp. Nhiều mẹo về giữ đồ khi đi đường có trong bài [bị giật điện thoại hoặc túi khi đi xe máy](/thue-xe/2026/10/13/bi-giat-ien-thoai-hoac-tui-khi-i-xe-may-phan-ung-an-toan-viec-can-lam-tiep/).
+**Đừng mời gọi sự chú ý.** Không treo điện thoại trên giá ở chế độ sáng màn hình suốt đường vắng, không khoe đồ có giá trị, cất túi vào cốp. Nhiều mẹo về giữ đồ khi đi đường có trong bài [bị giật điện thoại hoặc túi khi đi xe máy](/thue-xe/2026/10/13/bi-giat-dien-thoai-hoac-tui-khi-di-xe-may-phan-ung-an-toan-viec-can-lam-tiep/).
 
 **Chia sẻ vị trí.** Bật chia sẻ vị trí với người thân khi về khuya, nhắn trước lộ trình và giờ dự kiến tới nơi.
 

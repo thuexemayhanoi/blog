@@ -97,9 +97,9 @@ Bạn có thể tra cứu tại [Hệ thống văn bản của Chính phủ](htt
 
 - Ăn tối đủ chất, uống đủ nước trong ngày, hạn chế rượu bia.
 - Ngủ sớm; lỡ ngủ muộn thì lùi giờ xuất phát thay vì cắt bớt giấc.
-- Giãn cơ lưng, vai, cổ tay theo [bài tập nghỉ dọc đường cho vai lưng](/ky-nang/2026/10/04/moi-vai-lung-khi-chay-xe-uong-dai-bai-tap-nghi-doc-uong/).
+- Giãn cơ lưng, vai, cổ tay theo [bài tập nghỉ dọc đường cho vai lưng](/ky-nang/2026/10/04/moi-vai-lung-khi-chay-xe-duong-dai-bai-tap-nghi-doc-duong/).
 
-Hay díp mắt buổi chiều thì xem cách xử lý [mệt và buồn ngủ khi chạy xe chiều muộn](/ky-nang/2026/10/04/met-va-buon-ngu-khi-chay-xe-chieu-muon-xu-ly-ung-cach/). Đau ngực, khó thở, sốt hay chóng mặt nhiều thì dừng chuyến và tìm cơ sở y tế gần nhất. Những gì tôi chia sẻ là kinh nghiệm phổ thông, không thay thế tư vấn y tế.
+Hay díp mắt buổi chiều thì xem cách xử lý [mệt và buồn ngủ khi chạy xe chiều muộn](/ky-nang/2026/10/04/met-va-buon-ngu-khi-chay-xe-chieu-muon-xu-ly-dung-cach/). Đau ngực, khó thở, sốt hay chóng mặt nhiều thì dừng chuyến và tìm cơ sở y tế gần nhất. Những gì tôi chia sẻ là kinh nghiệm phổ thông, không thay thế tư vấn y tế.
 
 ## Khi đang đi xe thuê mà muốn đổi lịch
 

@@ -31,7 +31,7 @@ Cầu đường bộ mới nằm cách cầu cũ khoảng 100 m về phía hạ 
 
 Từ tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, chạy về hướng đông tới vòng xuyến cầu Chui, chỗ giao với quốc lộ 5, rồi vào đường Ngô Gia Tự hướng bắc. Ngô Gia Tự vốn là một đoạn quốc lộ 1 cũ, dài chừng 3 km, chạy dọc khu Đức Giang tới chân cầu.
 
-Cả quãng chừng bốn, năm cây số, ngoài giờ cao điểm mất khoảng mười lăm đến hai mươi phút. Ngô Gia Tự nhiều xe tải, xe khách, xe buýt dừng đón khách ở lề phải, nên giữ khoảng cách và đừng bám đuôi xe lớn. Cách chọn vị trí khi chạy cạnh xe nặng có trong bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-iem-mu/). Thấy dàn thép của cầu hiện ra là bạn đã ở cuối khu Đức Giang: vào làn phải từ sớm, đừng đợi sát chân dốc mới lách.
+Cả quãng chừng bốn, năm cây số, ngoài giờ cao điểm mất khoảng mười lăm đến hai mươi phút. Ngô Gia Tự nhiều xe tải, xe khách, xe buýt dừng đón khách ở lề phải, nên giữ khoảng cách và đừng bám đuôi xe lớn. Cách chọn vị trí khi chạy cạnh xe nặng có trong bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-diem-mu/). Thấy dàn thép của cầu hiện ra là bạn đã ở cuối khu Đức Giang: vào làn phải từ sớm, đừng đợi sát chân dốc mới lách.
 
 ## Làn xe máy trên cầu cũ và cách chạy cho an toàn
 
@@ -46,7 +46,7 @@ Cầu cũ không có làn sơn riêng cho xe máy. Mỗi dải chỉ đủ một
 
 ### Chiều về từ Yên Viên xuống Long Biên
 
-Chiều về bạn đi dải đường bộ phía bên kia đường ray; ở chân cầu luồng xe tự tách theo chiều, cứ theo dòng xe và biển chỉ dẫn. Dốc phía Long Biên đổ thẳng vào Ngô Gia Tự, xe dồn ở chân cầu, nên nhả ga từ giữa cầu và phanh nhẹ đều hai bánh. Ngày mưa, mối nối thép trơn hơn hẳn; cách chạy giống kinh nghiệm ở [cầu Long Biên ngày mưa](/du-lich/2026/10/11/cau-long-bien-ngay-mua-mat-cau-tron-uong-ray-va-cach-chay-xe-may/): giảm tốc trước khi lên cầu, không phanh gấp trên vệt kim loại, mặc áo mưa bộ thay vì áo cánh dơi.
+Chiều về bạn đi dải đường bộ phía bên kia đường ray; ở chân cầu luồng xe tự tách theo chiều, cứ theo dòng xe và biển chỉ dẫn. Dốc phía Long Biên đổ thẳng vào Ngô Gia Tự, xe dồn ở chân cầu, nên nhả ga từ giữa cầu và phanh nhẹ đều hai bánh. Ngày mưa, mối nối thép trơn hơn hẳn; cách chạy giống kinh nghiệm ở [cầu Long Biên ngày mưa](/du-lich/2026/10/11/cau-long-bien-ngay-mua-mat-cau-tron-duong-ray-va-cach-chay-xe-may/): giảm tốc trước khi lên cầu, không phanh gấp trên vệt kim loại, mặc áo mưa bộ thay vì áo cánh dơi.
 
 ## Cầu Đuống đi Đức Giang, Yên Viên: rẽ ở đâu hai đầu cầu
 
@@ -54,7 +54,7 @@ Theo địa giới mới từ năm 2025, đầu cầu phía nam thuộc phườn
 
 **Đầu Yên Viên, bờ bắc:**
 
-1. Đi thẳng theo Hà Huy Tập là trục quốc lộ 1 cũ xuyên Yên Viên, nối sang Đặng Phúc Thông rồi về Từ Sơn, Bắc Ninh. Ai đi tiếp lên đền Đô xem bài [từ Long Biên đi Đền Đô Bắc Ninh bằng xe máy](/du-lich/2026/10/11/tu-long-bien-i-en-o-bac-ninh-bang-xe-may-quang-uong-va-thoi-gian-i-lai/).
+1. Đi thẳng theo Hà Huy Tập là trục quốc lộ 1 cũ xuyên Yên Viên, nối sang Đặng Phúc Thông rồi về Từ Sơn, Bắc Ninh. Ai đi tiếp lên đền Đô xem bài [từ Long Biên đi Đền Đô Bắc Ninh bằng xe máy](/du-lich/2026/10/11/tu-long-bien-di-den-do-bac-ninh-bang-xe-may-quang-duong-va-thoi-gian-di-lai/).
 2. Ngả đường Thiên Đức đi về phía tây, hướng Dốc Vân và quốc lộ 3, dành cho ai sang Đông Anh.
 3. Về Phù Đổng, khu đền thờ Thánh Gióng, thì rẽ phải theo biển chỉ dẫn rồi men đê tả Đuống về phía đông.
 

@@ -26,7 +26,7 @@ Theo các bản tóm tắt quy chuẩn mà tôi đọc được (chưa đối ch
 - **Biển lề đường nguy hiểm** đặt ở nơi lề đường không ổn định, bánh xe đi lấn ra lề dễ bị trượt, sa xuống hoặc làm văng đất đá.
 - **Biển đường trơn** báo trước đoạn mặt đường có thể trơn trượt, nhất là lúc mưa hoặc thời tiết xấu, người lái cần giảm tốc và thận trọng.
 
-Đây là biển cảnh báo, không phải biển cấm, nhưng Điều 10 khoản 1 yêu cầu người tham gia giao thông chấp hành báo hiệu đường bộ. Phần tổng quan các biển tam giác trên đường dài có ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-uong-truong/); bài này chỉ tập trung vào chuyện mặt đường và mép đường lúc mưa.
+Đây là biển cảnh báo, không phải biển cấm, nhưng Điều 10 khoản 1 yêu cầu người tham gia giao thông chấp hành báo hiệu đường bộ. Phần tổng quan các biển tam giác trên đường dài có ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-duong-truong/); bài này chỉ tập trung vào chuyện mặt đường và mép đường lúc mưa.
 
 ## Vì sao mép đường là chỗ dễ ngã nhất khi trời mưa
 
@@ -87,7 +87,7 @@ Nên tấp vào chỗ an toàn và chờ khi:
 - Mưa lớn tới mức không nhìn rõ mép đường, hoặc nước phủ kín ranh giới giữa đường và lề.
 - Đoạn đường có rào chắn, biển tạm thời báo sụt lề hoặc sửa chữa.
 
-Với trường hợp cuối, luật quy định nếu cùng một vị trí có biển cố định và biển tạm thời mang ý nghĩa khác nhau thì người lái chấp hành biển tạm thời (Điều 11 khoản 12). Cách đọc nhóm biển này có ở bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-oan-uong-ang-sua/).
+Với trường hợp cuối, luật quy định nếu cùng một vị trí có biển cố định và biển tạm thời mang ý nghĩa khác nhau thì người lái chấp hành biển tạm thời (Điều 11 khoản 12). Cách đọc nhóm biển này có ở bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-doan-duong-dang-sua/).
 
 ## Xử phạt và tốc độ: điều cần biết
 

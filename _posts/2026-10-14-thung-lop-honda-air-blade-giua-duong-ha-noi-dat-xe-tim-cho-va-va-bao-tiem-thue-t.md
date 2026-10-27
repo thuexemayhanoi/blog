@@ -80,7 +80,7 @@ Chiếc Air Blade là tài sản của tiệm, nên trước khi thợ vá, thay
 - Bánh nào bị, ảnh lốp, ảnh dị vật nếu có, ảnh vành nếu nghi bị móp.
 - Biển số xe và tình trạng lúc đó: đã ở điểm vá hay vẫn đang dắt.
 
-Tiệm có thể bảo bạn vá luôn, hoặc dặn chờ tiệm xử lý. Chi phí vá hay thay, và ai chịu phần nào, cần xác nhận với cửa hàng trước khi thợ bắt tay vào làm. Nếu được đồng ý vá tại chỗ, giữ biên nhận hoặc chụp ảnh để đối chiếu lúc trả xe. Chuyện ai trả tiền vá được bàn kỹ trong bài [xe thuê thủng lốp giữa đường ai chịu phí vá](/thue-xe/2026/10/05/xe-thue-bi-thung-lop-giua-uong-ai-chiu-phi-va/).
+Tiệm có thể bảo bạn vá luôn, hoặc dặn chờ tiệm xử lý. Chi phí vá hay thay, và ai chịu phần nào, cần xác nhận với cửa hàng trước khi thợ bắt tay vào làm. Nếu được đồng ý vá tại chỗ, giữ biên nhận hoặc chụp ảnh để đối chiếu lúc trả xe. Chuyện ai trả tiền vá được bàn kỹ trong bài [xe thuê thủng lốp giữa đường ai chịu phí vá](/thue-xe/2026/10/05/xe-thue-bi-thung-lop-giua-duong-ai-chiu-phi-va/).
 
 Tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, số điện thoại 0942467674. Sự cố ngoài khung giờ này thì cứ nhắn đủ thông tin, đưa xe về chỗ an toàn và giữ ảnh, sáng hôm sau trao đổi tiếp.
 

@@ -83,7 +83,7 @@ Muốn thưởng thức món có rượu mà không phải đắn đo lúc về,
 - **Hỏi quán món thay thế.** Một số quán có thể làm món không cho rượu nếu bạn đề nghị khi gọi.
 - **Hỏi bãi gửi xe** xem có thể để xe lại đến hôm sau không, nếu bạn đã lỡ dùng món có cồn.
 
-Nếu bạn đang đi xe thuê, nguyên tắc vẫn vậy: đã dùng món hay đồ uống có rượu thì không lái. Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00; các câu hỏi về chính sách cửa hàng xin xác nhận trực tiếp qua số 0942467674 trong khung giờ này. Nếu chẳng may có sự việc với xe thuê, xem bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/).
+Nếu bạn đang đi xe thuê, nguyên tắc vẫn vậy: đã dùng món hay đồ uống có rượu thì không lái. Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00; các câu hỏi về chính sách cửa hàng xin xác nhận trực tiếp qua số 0942467674 trong khung giờ này. Nếu chẳng may có sự việc với xe thuê, xem bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-do-con/).
 
 Những tình huống gần với bài này: [uống bia không cồn rồi lái xe máy](/an-toan-phap-ly/2026/10/15/uong-bia-khong-con-roi-lai-xe-may-loai-ghi-00-va-loai-duoi-05-co-khac-nhau-khi-d/) và [nước súc miệng, siro ho có cồn trước khi chạy xe](/an-toan-phap-ly/2026/10/15/nuoc-suc-mieng-siro-ho-va-thuoc-xit-hong-co-con-dung-truoc-khi-chay-xe-may-co-bi/).
 

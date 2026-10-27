@@ -34,7 +34,7 @@ Trước ngày thuê xe, nên làm mấy việc sau:
 
 Một ngày thoải mái thường gói trong bốn đến sáu điểm, nếu mỗi điểm bạn dành khoảng 40 phút đến một tiếng. Thời gian mất nhiều nhất không nằm ở chặng chạy xe mà ở việc tìm chỗ gửi, đi bộ từ bãi vào, xếp hàng và chụp ảnh. Nhồi tám, chín điểm thì cuối ngày bạn chỉ nhớ chuyện dắt xe ra vào bãi.
 
-Tháng 11 ở Hà Nội trời tối sớm, hơn 17 giờ đã nhá nhem. Sắp đặt ngoài trời hay ở ven sông nên đi lúc còn sáng; điểm có trình diễn ánh sáng buổi tối thì để cuối lịch, gần đường về. Cách tính giờ cho ngày ngắn có trong bài [xếp một ngày thuê xe máy mùa đông cho kịp về](/thue-xe/2026/10/11/mua-ong-troi-toi-som-xep-mot-ngay-thue-xe-may-sao-cho-kip-ve/).
+Tháng 11 ở Hà Nội trời tối sớm, hơn 17 giờ đã nhá nhem. Sắp đặt ngoài trời hay ở ven sông nên đi lúc còn sáng; điểm có trình diễn ánh sáng buổi tối thì để cuối lịch, gần đường về. Cách tính giờ cho ngày ngắn có trong bài [xếp một ngày thuê xe máy mùa đông cho kịp về](/thue-xe/2026/10/11/mua-dong-troi-toi-som-xep-mot-ngay-thue-xe-may-sao-cho-kip-ve/).
 
 ## Xếp thứ tự điểm: gom theo cụm, đi một chiều
 
@@ -56,7 +56,7 @@ Giả sử năm bạn đi có điểm ở cả ba cụm và bạn nhận xe ở 
 - **Buổi chiều:** về cụm Hoàn Kiếm, gửi xe một chỗ, đi bộ quanh hồ và phố cổ.
 - **Chiều muộn:** ghé điểm ven sông nếu còn, rồi qua cầu về Long Biên.
 
-Đi xa trước, gần sau giúp chặng cuối ngắn nhất, đúng lúc bạn đã mệt. Thời gian chạy giữa Long Biên và các khu trung tâm có thể tham khảo bài [từ Long Biên đi các khu chính của Hà Nội mất bao lâu](/thue-xe/2026/10/11/tu-long-bien-i-cac-khu-chinh-cua-ha-noi-bang-xe-may-mat-bao-lau/).
+Đi xa trước, gần sau giúp chặng cuối ngắn nhất, đúng lúc bạn đã mệt. Thời gian chạy giữa Long Biên và các khu trung tâm có thể tham khảo bài [từ Long Biên đi các khu chính của Hà Nội mất bao lâu](/thue-xe/2026/10/11/tu-long-bien-di-cac-khu-chinh-cua-ha-noi-bang-xe-may-mat-bao-lau/).
 
 ## Gửi xe ở khu phố đông khi đi lễ hội thiết kế sáng tạo bằng xe máy
 
@@ -92,6 +92,6 @@ Cần hỏi lịch xe, bạn gọi 0942 467 674 hoặc ghé 112 Nguyễn Văn C�
 - **Đổ xăng ngay từ đầu ngày.** Nhiều chặng ngắn trong phố tắc vẫn hao xăng.
 - **Cài quai mũ bảo hiểm ở mọi chặng**, kể cả chặng vài trăm mét.
 - **Không cầm lái sau khi uống rượu bia** ở các buổi khai mạc.
-- **Gặp mưa thì chuyển sang điểm trong nhà gần nhau**, như gợi ý trong bài [ngày mưa ở Hà Nội vẫn thuê xe máy](/thue-xe/2026/10/11/ngay-mua-o-ha-noi-van-thue-xe-may-chon-iem-trong-nha-gan-nhau/).
+- **Gặp mưa thì chuyển sang điểm trong nhà gần nhau**, như gợi ý trong bài [ngày mưa ở Hà Nội vẫn thuê xe máy](/thue-xe/2026/10/11/ngay-mua-o-ha-noi-van-thue-xe-may-chon-diem-trong-nha-gan-nhau/).
 
 Có danh sách điểm của đúng năm mình đi rồi, phần còn lại là gom cụm, chọn xe và hẹn giờ nhận xe. Các hình thức thuê khác của tiệm có ở trang [thuê xe máy Hà Nội](/thue-xe/).

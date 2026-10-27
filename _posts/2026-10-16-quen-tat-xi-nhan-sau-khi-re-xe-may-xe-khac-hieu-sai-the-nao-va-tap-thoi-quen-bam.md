@@ -47,7 +47,7 @@ Xe sau thấy bạn nháy phải, tưởng bạn sắp tấp vào lề hay rẽ,
 
 ### Tín hiệu của bạn mất giá
 
-Đi một đoạn dài mà đèn cứ nháy, người xung quanh nhận ra và thôi tin xi nhan của bạn. Đến lúc bạn rẽ thật, họ không phản ứng kịp. Cách người khác đọc xi nhan và tư thế xe có trong bài [đọc ý định người đi xe xung quanh](/ky-nang/2026/10/11/oc-y-inh-nguoi-i-xe-xung-quanh-dau-hieu-sap-re-sap-tat-au-hay-sap-phanh/).
+Đi một đoạn dài mà đèn cứ nháy, người xung quanh nhận ra và thôi tin xi nhan của bạn. Đến lúc bạn rẽ thật, họ không phản ứng kịp. Cách người khác đọc xi nhan và tư thế xe có trong bài [đọc ý định người đi xe xung quanh](/ky-nang/2026/10/11/doc-y-dinh-nguoi-di-xe-xung-quanh-dau-hieu-sap-re-sap-tat-dau-hay-sap-phanh/).
 
 ## Dấu hiệu xi nhan vẫn đang bật
 

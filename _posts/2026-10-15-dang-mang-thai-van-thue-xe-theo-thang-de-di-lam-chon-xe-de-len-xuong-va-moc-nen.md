@@ -65,11 +65,11 @@ Ngắn và êm quan trọng hơn nhanh. Một chị thuê xe ở Long Biên, là
 
 Vài nguyên tắc chung:
 
-- **Tránh giờ cao điểm** nếu chỗ làm cho linh hoạt. Xem thêm [chọn giờ xuất phát để đỡ kẹt](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/).
+- **Tránh giờ cao điểm** nếu chỗ làm cho linh hoạt. Xem thêm [chọn giờ xuất phát để đỡ kẹt](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/).
 - **Ưu tiên đường bằng phẳng**, tránh đoạn đang thi công, nhiều ổ gà, kể cả khi phải đi vòng một chút.
 - **Chia chặng nếu đường dài.** Đi từ Hoàng Mai lên Cầu Giấy chẳng hạn, nên có chỗ dừng nghỉ, uống nước.
-- **Ngày mưa to, ngập đường thì không đi xe máy.** Áo mưa, mặt đường trơn và nước ngập là ba rủi ro cộng lại; bài [đi làm ngày mưa ở Hà Nội](/thue-xe/2026/10/11/i-lam-bang-xe-may-ngay-mua-o-ha-noi-ao-mua-phanh-tron-va-vach-son-uot/) nói kỹ hơn.
-- **Hôm không khí ô nhiễm nặng**, đeo khẩu trang tốt hoặc đổi sang đi xe có mái che. Xem [đi xe máy khi không khí ô nhiễm](/thue-xe/2026/10/11/i-xe-may-khi-khong-khi-o-nhiem-o-ha-noi-khau-trang-kinh-va-gio-i-hop-ly/).
+- **Ngày mưa to, ngập đường thì không đi xe máy.** Áo mưa, mặt đường trơn và nước ngập là ba rủi ro cộng lại; bài [đi làm ngày mưa ở Hà Nội](/thue-xe/2026/10/11/di-lam-bang-xe-may-ngay-mua-o-ha-noi-ao-mua-phanh-tron-va-vach-son-uot/) nói kỹ hơn.
+- **Hôm không khí ô nhiễm nặng**, đeo khẩu trang tốt hoặc đổi sang đi xe có mái che. Xem [đi xe máy khi không khí ô nhiễm](/thue-xe/2026/10/11/di-xe-may-khi-khong-khi-o-nhiem-o-ha-noi-khau-trang-kinh-va-gio-di-hop-ly/).
 
 ## Mốc nên chuyển sang phương tiện khác
 

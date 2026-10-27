@@ -86,7 +86,7 @@ Quanh hồ có nhiều homestay, nhà nghỉ nhỏ, cảnh nhìn ra mặt nướ
 - **Xe để ở đâu ban đêm**: trong nhà, dưới mái che hay ngoài sân trống.
 - **Lối vào có dốc, đường đất hay cầu gỗ** không, vì sau mưa đường đất ven hồ trơn.
 
-Mỗi tối, khóa cổ xe và khóa thêm khóa phụ nếu có. Sáng ra, đi một vòng quanh xe trước khi nổ máy: nhìn lốp, bóp phanh, xem có rò rỉ gì dưới gầm không. Nếu chỗ nghỉ không rõ chỗ để xe, nên tham khảo bài [hỏi khách sạn, homestay về chỗ để xe trước khi chốt thuê](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-e-xe-truoc-khi-chot-thue-xe-may/).
+Mỗi tối, khóa cổ xe và khóa thêm khóa phụ nếu có. Sáng ra, đi một vòng quanh xe trước khi nổ máy: nhìn lốp, bóp phanh, xem có rò rỉ gì dưới gầm không. Nếu chỗ nghỉ không rõ chỗ để xe, nên tham khảo bài [hỏi khách sạn, homestay về chỗ để xe trước khi chốt thuê](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-de-xe-truoc-khi-chot-thue-xe-may/).
 
 ## Đường đồi quanh hồ: những điều cần để ý
 

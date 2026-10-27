@@ -23,7 +23,7 @@ Bài không biết tình trạng sức khỏe, thị lực và sức chân của
 
 Xe tay ga như Click không có cần số, ga và phanh đủ để vận hành, nên người lái đỡ phải phối hợp nhiều thao tác. Sách hướng dẫn Click160 của Honda ghi trọng lượng xe không tải 117 kg, thuộc loại nhẹ so với nhiều xe khác; đó là con số của bản sách Honda Campuchia, xe của bạn có thể khác. Xe nhẹ giúp dắt xe, đẩy xe và giữ xe lúc dừng dễ hơn.
 
-Nhưng xe nhẹ không có nghĩa là không cần cẩn thận. Người lớn tuổi có thể phản xạ chậm hơn, chân yếu hơn ở lúc giữ xe, và mỏi nhanh hơn. Hãy đặt sức khỏe lên trước. Bài [người cao tuổi đi xe máy thuê: nên chọn xe như thế nào](/thue-xe/2026/09/29/nguoi-cao-tuoi-i-xe-may-thue-nen-chon-xe-nhu-the-nao/) nói về cách chọn xe cho người cao tuổi nói chung.
+Nhưng xe nhẹ không có nghĩa là không cần cẩn thận. Người lớn tuổi có thể phản xạ chậm hơn, chân yếu hơn ở lúc giữ xe, và mỏi nhanh hơn. Hãy đặt sức khỏe lên trước. Bài [người cao tuổi đi xe máy thuê: nên chọn xe như thế nào](/thue-xe/2026/09/29/nguoi-cao-tuoi-di-xe-may-thue-nen-chon-xe-nhu-the-nao/) nói về cách chọn xe cho người cao tuổi nói chung.
 
 ## Lên xuống và dắt xe: lên từ bên trái, một chân chạm đất
 

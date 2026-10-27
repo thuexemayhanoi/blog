@@ -63,7 +63,7 @@ Cả cung chỉ vài cây số, nhưng nếu dừng ở từng cổng và đi b�
 4. **Cổng làng Yên Thái**, còn gọi là cổng Giếng, ở khoảng số 562. Trên cổng có bốn chữ "Mỹ tục khả phong", tương truyền vua Tự Đức ban năm 1867. Tên cổng Giếng gắn với giếng Long Tỉnh trước cổng theo lời kể của dân làng.
 5. **Chợ Bưởi ở cuối phố**, điểm hẹn của dân buôn giấy ngày trước. Chợ bây giờ chủ yếu bán hàng dân sinh, đừng mong tìm được giấy dó ở đây.
 
-Muốn đi thêm, từ khu Bưởi rẽ sang [làng Trích Sài với chùa Thiên Niên và dãy quán nhìn hồ](/du-lich/2026/10/13/lang-trich-sai-ben-ho-tay-chua-thien-nien-va-day-quan-nhin-ho-ghe-bang-xe-may/), rồi theo [đường Lạc Long Quân chạy ven hồ buổi chiều](/du-lich/2026/10/04/uong-lac-long-quan-chay-xe-buoi-chieu-iem-dung-ven-ho/) để khép một vòng nhẹ nhàng.
+Muốn đi thêm, từ khu Bưởi rẽ sang [làng Trích Sài với chùa Thiên Niên và dãy quán nhìn hồ](/du-lich/2026/10/13/lang-trich-sai-ben-ho-tay-chua-thien-nien-va-day-quan-nhin-ho-ghe-bang-xe-may/), rồi theo [đường Lạc Long Quân chạy ven hồ buổi chiều](/du-lich/2026/10/04/duong-lac-long-quan-chay-xe-buoi-chieu-diem-dung-ven-ho/) để khép một vòng nhẹ nhàng.
 
 ### Dừng xe thế nào cho đúng mực
 

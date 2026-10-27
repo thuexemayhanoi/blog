@@ -41,7 +41,7 @@ Vùng đất Diễn nằm dọc trục quốc lộ 32, khu vực Cầu Diễn, P
 - **Tìm khu vườn quả tập trung.** Theo trang Phổ biến pháp luật, Xí nghiệp Vườn quả Từ Liêm có khoảng 38 ha bưởi Diễn và sản phẩm được công nhận OCOP 3 sao năm 2023. Hỏi đường tới đây nếu bạn muốn mua ở nơi có nguồn gốc rõ.
 - **Đi chậm, quan sát biển hiệu** “bưởi Diễn” trước cửa nhà. Theo báo Tin Tức, khách có thể mua lẻ hoặc mua cả cây ngay tại vườn.
 
-Trục Hồ Tùng Mậu – Cầu Diễn giờ cao điểm rất đông và có tuyến đường sắt trên cao chạy phía trên; cách chạy và chỗ quay đầu được nói ở bài [đi làm dọc Hồ Tùng Mậu – Cầu Diễn bằng xe máy](/xe-may/2026/10/15/di-lam-doc-ho-tung-mau-cau-dien-bang-honda-click-tru-duong-sat-tren-cao-diem-qua/ "Đi dọc Hồ Tùng Mậu – Cầu Diễn bằng xe máy"). Nếu đi xe nhỏ, xem thêm bài [xe 50cc leo dốc cầu Diễn được không](/xe-may/2026/10/09/xe-50cc-thue-leo-doc-cau-dien-uoc-khong/ "Xe 50cc leo dốc cầu Diễn").
+Trục Hồ Tùng Mậu – Cầu Diễn giờ cao điểm rất đông và có tuyến đường sắt trên cao chạy phía trên; cách chạy và chỗ quay đầu được nói ở bài [đi làm dọc Hồ Tùng Mậu – Cầu Diễn bằng xe máy](/xe-may/2026/10/15/di-lam-doc-ho-tung-mau-cau-dien-bang-honda-click-tru-duong-sat-tren-cao-diem-qua/ "Đi dọc Hồ Tùng Mậu – Cầu Diễn bằng xe máy"). Nếu đi xe nhỏ, xem thêm bài [xe 50cc leo dốc cầu Diễn được không](/xe-may/2026/10/09/xe-50cc-thue-leo-doc-cau-dien-duoc-khong/ "Xe 50cc leo dốc cầu Diễn").
 
 ## Vào vườn: đi chậm, dừng xe đúng chỗ
 
@@ -72,7 +72,7 @@ Bưởi nặng, tròn, dễ lăn, nên cách chở quan trọng hơn bạn nghĩ
 - **Không chất quá cao, quá rộng** so với thân xe; thùng không được che đèn hậu, biển số.
 - **Chạy chậm, phanh sớm:** xe chở nặng phanh dài hơn, vào cua cần giảm tốc nhiều hơn.
 
-Kỹ thuật chằng thùng hàng nặng có ở bài [chở thùng hàng nặng trên xe máy an toàn](/ky-nang/2026/09/30/cho-thung-hang-nang-tren-xe-may-an-toan/ "Chở thùng hàng nặng trên xe máy"), còn quy định về hàng cồng kềnh có ở bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/ "Quy định chở hàng cồng kềnh trên xe máy").
+Kỹ thuật chằng thùng hàng nặng có ở bài [chở thùng hàng nặng trên xe máy an toàn](/ky-nang/2026/09/30/cho-thung-hang-nang-tren-xe-may-an-toan/ "Chở thùng hàng nặng trên xe máy"), còn quy định về hàng cồng kềnh có ở bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/ "Quy định chở hàng cồng kềnh trên xe máy").
 
 ## Đi mua bưởi dịp cận Tết: tránh giờ đông
 

@@ -67,13 +67,13 @@ Giờ mở và đóng cửa của từng quán có thể thay đổi, nên xem b
 4. Dựng chân chống giữa trên nền chắc, khóa cổ, rút chìa. Đồ quý không để trong cốp, nhận vé xe nếu quán có phát.
 5. Không để xe sát mép hồ, trên lối đi bộ, trước cửa nhà dân hay đầu ngõ.
 
-Quán đã kín thì đừng đỗ thành hàng thứ hai dưới lòng đường; tìm bãi có người trông gần đó rồi đi bộ vài phút, nhớ chụp lại vị trí xe. Bài [cung đường chạy quanh hồ Tây](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/) có thêm các điểm dừng và gửi xe dọc vòng hồ.
+Quán đã kín thì đừng đỗ thành hàng thứ hai dưới lòng đường; tìm bãi có người trông gần đó rồi đi bộ vài phút, nhớ chụp lại vị trí xe. Bài [cung đường chạy quanh hồ Tây](/du-lich/2026/09/28/cung-duong-chay-quanh-ho-tay-diem-dung-va-cho-gui-xe/) có thêm các điểm dừng và gửi xe dọc vòng hồ.
 
 ## Gợi ý một ngày ăn ốc Hồ Tây bằng xe máy
 
 Ví dụ một cặp khách nhận xe ở Long Biên lúc 9 giờ 30. Họ qua cầu Chương Dương, theo đường Yên Phụ rồi vào Xuân Diệu dọc mép hồ, tới khu Quảng An; quãng này thường mất chừng nửa tiếng, tùy giờ kẹt xe. Khoảng 10 giờ ăn bún ốc ở phố Quảng Khánh, rồi đi bộ sang Phủ Tây Hồ gần đó.
 
-Buổi chiều, hai người chạy theo hướng Âu Cơ, Lạc Long Quân sang phía Trích Sài để ngắm hồ, tầm 17 giờ dừng ăn ốc luộc. Ai thích không khí buổi tối có thể nối sang [đường Xuân Diệu với dãy quán ven hồ](/du-lich/2026/10/04/chay-xe-uong-xuan-dieu-buoi-toi-quan-ven-ho-va-gui-xe/) trước khi về.
+Buổi chiều, hai người chạy theo hướng Âu Cơ, Lạc Long Quân sang phía Trích Sài để ngắm hồ, tầm 17 giờ dừng ăn ốc luộc. Ai thích không khí buổi tối có thể nối sang [đường Xuân Diệu với dãy quán ven hồ](/du-lich/2026/10/04/chay-xe-duong-xuan-dieu-buoi-toi-quan-ven-ho-va-gui-xe/) trước khi về.
 
 ## Lưu ý riêng khi đi ăn ốc bằng xe máy thuê
 

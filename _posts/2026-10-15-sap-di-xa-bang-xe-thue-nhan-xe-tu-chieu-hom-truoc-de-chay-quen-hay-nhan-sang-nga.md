@@ -42,7 +42,7 @@ Buổi chiều đó nên dùng vào bốn việc:
 3. **Đổ xăng và nhìn lốp**, để sáng mai khỏi tìm cây xăng giữa lúc vội.
 4. **Chụp ảnh xe một vòng**, kể cả công tơ mét, rồi gửi cửa hàng bằng tin nhắn để có mốc thời gian.
 
-Khi nhận, đừng quên giấy tờ. Theo Điều 56 khoản 1 Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15, người lái xe phải mang theo chứng nhận đăng ký xe, giấy phép lái xe phù hợp loại xe và chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới. Hãy hỏi giấy tờ nào đi cùng xe; nếu cửa hàng giữ giấy tờ nào của bạn, hỏi rõ trực tiếp và xin biên nhận. Danh sách soát xe có trong bài [checklist nhận xe máy thuê](/thue-xe/2026/09/27/checklist-nhan-xe-may-thue-kiem-tra-gi-truoc-khi-roi-cua-hang/), phần đèn, xi nhan và còi nằm ở bài [kiểm tra xi nhan và còi trước chuyến đi xa](/xe-may/2026/10/03/kiem-tra-en-xi-nhan-va-coi-truoc-chuyen-i-xa/).
+Khi nhận, đừng quên giấy tờ. Theo Điều 56 khoản 1 Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15, người lái xe phải mang theo chứng nhận đăng ký xe, giấy phép lái xe phù hợp loại xe và chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới. Hãy hỏi giấy tờ nào đi cùng xe; nếu cửa hàng giữ giấy tờ nào của bạn, hỏi rõ trực tiếp và xin biên nhận. Danh sách soát xe có trong bài [checklist nhận xe máy thuê](/thue-xe/2026/09/27/checklist-nhan-xe-may-thue-kiem-tra-gi-truoc-khi-roi-cua-hang/), phần đèn, xi nhan và còi nằm ở bài [kiểm tra xi nhan và còi trước chuyến đi xa](/xe-may/2026/10/03/kiem-tra-den-xi-nhan-va-coi-truoc-chuyen-di-xa/).
 
 ## Cái giá của nhận sớm: ngày thuê, chỗ để xe, trách nhiệm qua đêm
 

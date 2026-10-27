@@ -62,7 +62,7 @@ Khi ra đường, hãy mang theo bản gốc sổ quốc tế, bằng gốc và 
 
 Trước khi đặt xe, chụp gửi cửa hàng bốn ảnh: trang có tên công ước và ngày ký, trang hạng xe, mặt trước và mặt sau bằng gốc. Cửa hàng có thể yêu cầu xuất trình bằng khi nhận xe; yêu cầu cụ thể thì xác nhận trực tiếp trước. Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, không giao xe ngoài giờ này. Nếu cần giữ giấy tờ nào trong kỳ thuê, hãy hỏi rõ trực tiếp và xin biên nhận.
 
-Bài [giấy phép lái xe quốc tế và giấy phép công nhận tại Việt Nam](/thue-xe/2026/09/27/giay-phep-lai-xe-quoc-te-va-giay-phep-cong-nhan-tai-viet-nam/) nói rộng hơn về các nhóm giấy phép, còn bài [bằng lái quốc tế có dùng được khi thuê xe máy không](/thue-xe/2026/10/07/bang-lai-quoc-te-co-dung-uoc-khi-thue-xe-may-khong/) đi vào góc nhìn của người thuê.
+Bài [giấy phép lái xe quốc tế và giấy phép công nhận tại Việt Nam](/thue-xe/2026/09/27/giay-phep-lai-xe-quoc-te-va-giay-phep-cong-nhan-tai-viet-nam/) nói rộng hơn về các nhóm giấy phép, còn bài [bằng lái quốc tế có dùng được khi thuê xe máy không](/thue-xe/2026/10/07/bang-lai-quoc-te-co-dung-duoc-khi-thue-xe-may-khong/) đi vào góc nhìn của người thuê.
 
 ## Ghi chú về nguồn quy định
 

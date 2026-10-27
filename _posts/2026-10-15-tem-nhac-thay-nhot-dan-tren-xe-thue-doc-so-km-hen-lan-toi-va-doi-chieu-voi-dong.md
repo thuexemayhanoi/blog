@@ -35,7 +35,7 @@ Sách hướng dẫn Air Blade bản Việt Nam của Honda có nhắc mốc tha
 
 ODO là tổng số ki-lô-mét xe đã chạy và thường không xóa được bằng nút bấm thông thường. Đồng hồ hành trình, hay ghi là A và B, là đồng hồ phụ có thể đặt về không bất cứ lúc nào; sách Air Blade bản Việt Nam cũng mô tả việc cài đặt lại đồng hồ hành trình A hoặc B. Tem nhắc thay nhớt phải đối chiếu với ODO, không phải với đồng hồ hành trình, vì số trên đồng hồ hành trình dễ bị xóa mà không ai để ý.
 
-Bài [đọc đồng hồ khi nhận xe thuê: số km, kim xăng và đèn cảnh báo](/thue-xe/2026/10/12/oc-ong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-en-canh-bao/) nói thêm cách đọc các số trên bảng đồng hồ lúc nhận xe.
+Bài [đọc đồng hồ khi nhận xe thuê: số km, kim xăng và đèn cảnh báo](/thue-xe/2026/10/12/doc-dong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-den-canh-bao/) nói thêm cách đọc các số trên bảng đồng hồ lúc nhận xe.
 
 ## Đối chiếu số km hẹn với ODO: còn bao nhiêu ki-lô-mét thì nên nhắn tiệm
 
@@ -61,7 +61,7 @@ Khi đèn và tem lệch nhau, hãy dựa vào điều xác nhận được vớ
 
 Thói quen hữu ích nhất là chụp tem và ODO ngay lúc nhận xe, rồi chụp lại mỗi tuần vào một ngày cố định. Chỉ cần hai ảnh: một ảnh tem, một ảnh bảng đồng hồ. Khi cần hẹn lịch, bạn có sẵn số ODO và ngày cụ thể để gửi tiệm, không phải nhớ.
 
-Bài [trước khi ký thuê xe máy theo tháng: xin xem lần bảo dưỡng, thay nhớt gần nhất và ghi vào hợp đồng](/thue-xe/2026/10/15/truoc-khi-ky-thue-xe-may-theo-thang-xin-xem-lan-bao-duong-thay-nhot-gan-nhat-va/) nói cách xin xem lần thay gần nhất ngay từ lúc ký. Còn danh mục việc của một kỳ bảo dưỡng thì xem bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-inh-ky-xe-may-gom-nhung-gi/).
+Bài [trước khi ký thuê xe máy theo tháng: xin xem lần bảo dưỡng, thay nhớt gần nhất và ghi vào hợp đồng](/thue-xe/2026/10/15/truoc-khi-ky-thue-xe-may-theo-thang-xin-xem-lan-bao-duong-thay-nhot-gan-nhat-va/) nói cách xin xem lần thay gần nhất ngay từ lúc ký. Còn danh mục việc của một kỳ bảo dưỡng thì xem bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-dinh-ky-xe-may-gom-nhung-gi/).
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

@@ -70,7 +70,7 @@ Không giảm tốc, không nhường đường cho người đi bộ ở nơi c
 
 **Vạch sang đường quanh Hồ Gươm.** Ở Hoàn Kiếm, khách du lịch đi bộ đông và thường vừa đi vừa nhìn điện thoại. Qua các vạch sang đường quanh hồ, hãy giảm tốc từ xa và dừng hẳn khi có người bước xuống.
 
-Ở một số điểm giữa phố còn có cột đèn cho người đi bộ; cách xử lý khi đèn chuyển đỏ có trong bài [đèn tín hiệu cho người đi bộ sang đường giữa phố Hà Nội](/an-toan-phap-ly/2026/10/16/den-tin-hieu-cho-nguoi-di-bo-sang-duong-giua-pho-ha-noi-xe-may-phai-dung-khi-den/). Các biển cảnh báo khác khi đi tỉnh được tổng hợp ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-uong-truong/).
+Ở một số điểm giữa phố còn có cột đèn cho người đi bộ; cách xử lý khi đèn chuyển đỏ có trong bài [đèn tín hiệu cho người đi bộ sang đường giữa phố Hà Nội](/an-toan-phap-ly/2026/10/16/den-tin-hieu-cho-nguoi-di-bo-sang-duong-giua-pho-ha-noi-xe-may-phai-dung-khi-den/). Các biển cảnh báo khác khi đi tỉnh được tổng hợp ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-duong-truong/).
 
 ## Khi có va chạm với người đi bộ
 

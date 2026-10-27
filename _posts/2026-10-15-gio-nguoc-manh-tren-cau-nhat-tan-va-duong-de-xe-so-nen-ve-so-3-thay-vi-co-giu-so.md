@@ -67,7 +67,7 @@ Về số xong mới là nửa việc. Nửa còn lại là cách cầm lái su�
 
 ## Cầu Nhật Tân và đường đê Tây Hồ, Long Biên: những đoạn hay gặp gió ngược
 
-**Cầu Nhật Tân.** Cầu dài, mặt cầu cao và thoáng hai bên, không có nhà cửa che chắn. Những ngày gió mùa đông bắc, chiều đi từ Tây Hồ sang Đông Anh thường là chiều gặp gió ngược nhiều hơn. Đi đúng làn dành cho xe máy theo biển và vạch kẻ, về số 3 ngay từ đoạn dốc dẫn lên cầu nếu thấy gió đã mạnh, thay vì đợi lên tới giữa cầu. Những lưu ý chung về đường lên cầu có trong bài [đến cầu Nhật Tân bằng xe máy](/du-lich/2026/10/04/en-cau-nhat-tan-bang-xe-may-uong-i-va-luu-y-chay-tren-cau/).
+**Cầu Nhật Tân.** Cầu dài, mặt cầu cao và thoáng hai bên, không có nhà cửa che chắn. Những ngày gió mùa đông bắc, chiều đi từ Tây Hồ sang Đông Anh thường là chiều gặp gió ngược nhiều hơn. Đi đúng làn dành cho xe máy theo biển và vạch kẻ, về số 3 ngay từ đoạn dốc dẫn lên cầu nếu thấy gió đã mạnh, thay vì đợi lên tới giữa cầu. Những lưu ý chung về đường lên cầu có trong bài [đến cầu Nhật Tân bằng xe máy](/du-lich/2026/10/04/den-cau-nhat-tan-bang-xe-may-duong-di-va-luu-y-chay-tren-cau/).
 
 **Đường đê đoạn Tây Hồ.** Đường Âu Cơ, Nghi Tàm chạy cao hơn khu dân cư, một bên là bãi sông trống. Gió đến từng đợt qua các khoảng trống giữa nhà; ở số 3 xe đủ sức để không khựng mỗi lần như vậy.
 

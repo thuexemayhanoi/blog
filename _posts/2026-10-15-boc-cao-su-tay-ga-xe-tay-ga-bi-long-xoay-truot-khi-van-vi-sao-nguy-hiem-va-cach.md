@@ -55,7 +55,7 @@ Nếu đang đi mà cảm thấy cao su xoay trượt hoặc ga thất thường
 3. **Dừng ở chỗ an toàn.** Lề đường rộng, cây xăng, bãi gửi xe hay sân một tòa nhà đều được. Tránh dừng giữa cầu, trên dốc hay sát ngã tư.
 4. **Tắt máy, dựng chân chống giữa.** Sau đó mới quan sát kỹ tay ga như phép thử ở trên.
 
-Nếu chỗ bạn dừng còn xa chỗ ở và bọc trượt rõ, đừng cố chạy tiếp. Dắt xe hoặc chờ tiệm hướng dẫn tiếp. Trình tự gọi hỗ trợ khi xe gặp sự cố giữa chuyến có trong bài [xe thuê bị hỏng giữa đường](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/).
+Nếu chỗ bạn dừng còn xa chỗ ở và bọc trượt rõ, đừng cố chạy tiếp. Dắt xe hoặc chờ tiệm hướng dẫn tiếp. Trình tự gọi hỗ trợ khi xe gặp sự cố giữa chuyến có trong bài [xe thuê bị hỏng giữa đường](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-duong-xu-ly-tung-buoc/).
 
 ## Không tự dán keo, quấn băng hay tháo bọc
 

@@ -48,7 +48,7 @@ Quay đầu hoặc đi đường khác nếu gặp một trong những trường
 4. **Xe phía trước đã chết máy, phải dắt.** Đó là tín hiệu rõ nhất rằng đoạn này quá sâu với xe ga.
 5. **Trời tối, không có đèn đường.** Bạn không đánh giá được độ sâu và chướng ngại.
 
-Quay đầu không phải là mất thời gian. Mở bản đồ, chọn đường vòng qua các trục cao hơn, chậm mười lăm phút vẫn hơn phải dắt xe giữa phố ngập. Nếu đã phải để xe lại vì mưa ngập, bài [mưa lớn đê ngập ở Hà Nội gửi xe chỗ nào](/ky-nang/2026/10/11/mua-lon-de-ngap-o-ha-noi-gui-xe-cho-nao-e-tranh-nuoc-vao-may/) có gợi ý chọn chỗ để xe.
+Quay đầu không phải là mất thời gian. Mở bản đồ, chọn đường vòng qua các trục cao hơn, chậm mười lăm phút vẫn hơn phải dắt xe giữa phố ngập. Nếu đã phải để xe lại vì mưa ngập, bài [mưa lớn đê ngập ở Hà Nội gửi xe chỗ nào](/ky-nang/2026/10/11/mua-lon-de-ngap-o-ha-noi-gui-xe-cho-nao-de-tranh-nuoc-vao-may/) có gợi ý chọn chỗ để xe.
 
 ## Nếu nước thấp và buộc phải đi qua
 
@@ -59,7 +59,7 @@ Khi nước còn thấp hơn hẳn ống xả, vẫn thấy mặt đường và 
 - **Giữ khoảng cách với xe trước.** Ô tô và xe tải tạo sóng lớn, chờ sóng lắng rồi mới đi tiếp.
 - **Không phanh gấp, không dừng giữa nước.**
 
-Kỹ thuật lội nước chung cho xe tay ga được nói kỹ trong bài [xe tay ga qua đoạn phố ngập sau mưa lớn](/xe-may/2026/10/14/xe-tay-ga-qua-doan-pho-ngap-sau-mua-lon-muc-nuoc-nao-nen-quay-dau-va-cach-giu-ma/). Còn nếu đi xe khác và muốn đọc về cách quan sát mức nước nói chung, xem [đường ngập sau mưa lớn ở Hà Nội: khi nào nên dừng](/thue-xe/2026/10/12/uong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-uoc/).
+Kỹ thuật lội nước chung cho xe tay ga được nói kỹ trong bài [xe tay ga qua đoạn phố ngập sau mưa lớn](/xe-may/2026/10/14/xe-tay-ga-qua-doan-pho-ngap-sau-mua-lon-muc-nuoc-nao-nen-quay-dau-va-cach-giu-ma/). Còn nếu đi xe khác và muốn đọc về cách quan sát mức nước nói chung, xem [đường ngập sau mưa lớn ở Hà Nội: khi nào nên dừng](/thue-xe/2026/10/12/duong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-duoc/).
 
 ## Air Blade chết máy giữa nước: vì sao không nên đề lại liên tục
 

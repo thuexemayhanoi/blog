@@ -53,7 +53,7 @@ Xã mới ở ngoại thành thường rộng gấp mấy lần xã cũ, trải 
 
 Lấy ví dụ một gia sư nhận lớp mới, địa chỉ ghi "phường Việt Hưng". Trước đây chị chỉ quen khu Việt Hưng cũ, nhưng phường mới còn gồm một phần Giang Biên, Phúc Đồng, Gia Thụy, Đức Giang và Thượng Thanh. Chị gõ số nhà và tên đường trước, thấy ghim nằm phía Giang Biên chứ không phải chỗ quen. Chị nhắn phụ huynh hỏi thêm mốc, được trả lời "gần trường tiểu học, đối diện cổng chợ", rồi ghim lại vị trí và lưu tên "Lớp thứ Ba, Năm".
 
-Cách làm này cũng hợp với người đi gặp khách nhiều điểm trong ngày. Bài [nhân viên kinh doanh xếp lộ trình bằng xe thuê tháng](/thue-xe/2026/10/11/nhan-vien-kinh-doanh-i-gap-khach-ca-ngay-thue-xe-may-thang-va-xep-lo-trinh/) và bài [gia sư dạy nhiều điểm trong ngày](/thue-xe/2026/10/11/gia-su-giao-vien-day-nhieu-iem-trong-ngay-thue-xe-may-theo-thang-e-kip-gio/) có thêm cách gom điểm theo khu để bớt chạy ngược.
+Cách làm này cũng hợp với người đi gặp khách nhiều điểm trong ngày. Bài [nhân viên kinh doanh xếp lộ trình bằng xe thuê tháng](/thue-xe/2026/10/11/nhan-vien-kinh-doanh-di-gap-khach-ca-ngay-thue-xe-may-thang-va-xep-lo-trinh/) và bài [gia sư dạy nhiều điểm trong ngày](/thue-xe/2026/10/11/gia-su-giao-vien-day-nhieu-diem-trong-ngay-thue-xe-may-theo-thang-de-kip-gio/) có thêm cách gom điểm theo khu để bớt chạy ngược.
 
 ## Lưu địa chỉ hay đi cho đỡ tra lại
 

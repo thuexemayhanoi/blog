@@ -53,11 +53,11 @@ Hãy làm theo đúng trình tự dưới đây, chậm rãi trong vài lần đ
 
 Mỗi người có một điểm khó riêng.
 
-**Người mặc váy** nên chọn xe khung thấp, gom vạt váy về một bên trước khi bước qua khung, để vạt váy không mắc vào yên hay bị kẹp dưới đùi khi ngồi. Chi tiết về trang phục có trong bài [mặc gì khi đạp xe điện: váy, dép lê, quần ống rộng](/xe-may/2026/10/11/mac-gi-khi-ap-xe-ien-vay-dep-le-quan-ong-rong-co-vuong-khong/).
+**Người mặc váy** nên chọn xe khung thấp, gom vạt váy về một bên trước khi bước qua khung, để vạt váy không mắc vào yên hay bị kẹp dưới đùi khi ngồi. Chi tiết về trang phục có trong bài [mặc gì khi đạp xe điện: váy, dép lê, quần ống rộng](/xe-may/2026/10/11/mac-gi-khi-dap-xe-dien-vay-dep-le-quan-ong-rong-co-vuong-khong/).
 
 **Người lớn tuổi** nên làm thật chậm ở chặng hai, lúc bước qua khung và gạt chân chống. Nếu cần, có thể nhờ người nhà giữ đuôi xe trong lúc bước qua khung. Đừng vừa bước lên vừa xoay người nhìn ra sau.
 
-**Người nhỏ con** nên xin tiệm hạ yên đủ thấp để chạm đất bằng cả hai mũi chân khi ngồi. Xe đạp điện nặng hơn xe đạp thường khá nhiều, nên khi xe nghiêng quá, rất khó đỡ lại. Cách dắt và dựng xe cho đỡ gồng sức có trong bài [dắt, dựng chân chống, quay đầu xe đạp điện nặng tay](/xe-may/2026/10/11/dat-dung-chan-chong-quay-au-xe-ap-ien-nang-tay-meo-cho-nguoi-nho-con/).
+**Người nhỏ con** nên xin tiệm hạ yên đủ thấp để chạm đất bằng cả hai mũi chân khi ngồi. Xe đạp điện nặng hơn xe đạp thường khá nhiều, nên khi xe nghiêng quá, rất khó đỡ lại. Cách dắt và dựng xe cho đỡ gồng sức có trong bài [dắt, dựng chân chống, quay đầu xe đạp điện nặng tay](/xe-may/2026/10/11/dat-dung-chan-chong-quay-dau-xe-dap-dien-nang-tay-meo-cho-nguoi-nho-con/).
 
 ## Xuống xe: tắt nguồn trước, chân chống sau
 

@@ -53,7 +53,7 @@ Nếu bạn cảm thấy đang gặp nguy hiểm trực tiếp, ưu tiên an to�
 
 Nếu biết sẽ về khuya, hãy chọn tuyến lớn có đèn, sạc đầy pin điện thoại, báo người thân giờ dự kiến về và đổ đủ xăng từ sớm. Chọn chỗ ở hoặc chỗ gửi xe gần đường sáng. Bài [trả xe thuê khi bay sớm hoặc về khuya: chốt cách bàn giao từ trước](/thue-xe/2026/10/11/tra-xe-thue-khi-bay-som-hoac-ve-khuya-chot-cach-ban-giao-tu-truoc/) nhắc việc chốt cách trả xe, vì tiệm không giao hay nhận xe ngoài khung 09:00–21:00.
 
-Bài [chạy xe ban đêm trong nội đô](/ky-nang/2026-09-29/chay-xe-ban-em-trong-noi-o/) nêu thêm lưu ý khi đi đêm. Nếu có thể, hãy tránh những đoạn vắng và dành giờ về sớm hơn dự định.
+Bài [chạy xe ban đêm trong nội đô](/ky-nang/2026-09-29/chay-xe-ban-dem-trong-noi-do/) nêu thêm lưu ý khi đi đêm. Nếu có thể, hãy tránh những đoạn vắng và dành giờ về sớm hơn dự định.
 
 ## Sau sự việc: ghi lại và nhắn tiệm nếu xe có liên quan
 

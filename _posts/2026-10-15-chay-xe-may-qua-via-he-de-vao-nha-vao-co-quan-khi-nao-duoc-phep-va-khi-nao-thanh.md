@@ -59,13 +59,13 @@ Rẽ từ lòng đường vào cổng là một lần chuyển hướng. Điều
 
 Mép hè cao, bậc dốc gồ thì xem kỹ thuật đưa xe lên trong bài [xe ga lên vỉa hè cao và dốc nhỏ trong phố](/xe-may/2026/10/03/xe-ga-len-via-he-cao-va-doc-nho-trong-pho/).
 
-Từ nhà đi ra cũng vậy: dừng ở mép hè, nhìn hai phía, chỉ xuống lòng đường khi không cắt mặt xe đang tới. Nếu nhà trong ngõ, bài [ra từ ngõ nhỏ vào đường lớn](/ky-nang/2026/10/10/ra-tu-ngo-nho-vao-uong-lon-quan-sat-va-nhac-nhanh/) nói kỹ cách quan sát.
+Từ nhà đi ra cũng vậy: dừng ở mép hè, nhìn hai phía, chỉ xuống lòng đường khi không cắt mặt xe đang tới. Nếu nhà trong ngõ, bài [ra từ ngõ nhỏ vào đường lớn](/ky-nang/2026/10/10/ra-tu-ngo-nho-vao-duong-lon-quan-sat-va-nhac-nhanh/) nói kỹ cách quan sát.
 
 ## Đừng biến chỗ đi qua thành chỗ đỗ
 
 Người ở nhà mặt phố hay dừng xe trên hè "một lát" trước cửa. Điều 18 khoản 4 điểm o cấm dừng, đỗ xe "trên lòng đường, vỉa hè trái quy định của pháp luật"; còn điểm k cấm dừng, đỗ "trước cổng và trong phạm vi 05 mét hai bên cổng trụ sở cơ quan, tổ chức có bố trí đường cho xe ra, vào". Nghĩa là dắt xe vào hẳn trong nhà, đừng để xe chắn lối hè hay chắn cổng cơ quan bên cạnh.
 
-Nhiều phố có vạch vàng trên bó vỉa báo đoạn cấm dừng, đỗ; cách đọc có ở bài [vạch vàng sơn trên bó vỉa và mép đường](/an-toan-phap-ly/2026/10/16/vach-vang-son-tren-bo-via-va-mep-duong-nhan-biet-doan-cam-dung-cam-do-xe-may-ven/). Chuyện để xe máy trên hè có được không được hỏi đáp riêng trong bài [đậu xe máy trên vỉa hè có bị xử lý không](/hoi-dap/2026/10/07/hoi-au-xe-may-tren-via-he-co-bi-xu-ly-khong/).
+Nhiều phố có vạch vàng trên bó vỉa báo đoạn cấm dừng, đỗ; cách đọc có ở bài [vạch vàng sơn trên bó vỉa và mép đường](/an-toan-phap-ly/2026/10/16/vach-vang-son-tren-bo-via-va-mep-duong-nhan-biet-doan-cam-dung-cam-do-xe-may-ven/). Chuyện để xe máy trên hè có được không được hỏi đáp riêng trong bài [đậu xe máy trên vỉa hè có bị xử lý không](/hoi-dap/2026/10/07/hoi-dau-xe-may-tren-via-he-co-bi-xu-ly-khong/).
 
 ## Người thuê xe theo tháng nên chuẩn bị gì
 

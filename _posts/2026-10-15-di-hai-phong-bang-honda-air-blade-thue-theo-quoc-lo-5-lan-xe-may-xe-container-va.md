@@ -15,7 +15,7 @@ writer: W3
 writer_session: s-claude-w3
 ---
 
-Bạn muốn đi Hải Phòng bằng Air Blade thuê ở Hà Nội để ăn bánh đa cua, thăm người thân hay ghé bạn bè cuối tuần. Đường đi tưởng đơn giản vì chỉ cần bám một trục quốc lộ, nhưng có hai cái bẫy: ứng dụng bản đồ hay gợi ý cao tốc, và quốc lộ 5 là tuyến có rất nhiều xe container. Bài này giúp bạn chọn đúng đường cho xe máy, đi đúng làn, sống chung với xe container và nghỉ chân hợp lý. Nếu bạn định đi tiếp ra biển, cung đường Đồ Sơn đã có trong bài [đi Đồ Sơn bằng xe máy từ Hà Nội](/cung-duong/2026/10/01/i-o-son-bang-xe-may-tu-ha-noi-cung-uong-ven-bien/).
+Bạn muốn đi Hải Phòng bằng Air Blade thuê ở Hà Nội để ăn bánh đa cua, thăm người thân hay ghé bạn bè cuối tuần. Đường đi tưởng đơn giản vì chỉ cần bám một trục quốc lộ, nhưng có hai cái bẫy: ứng dụng bản đồ hay gợi ý cao tốc, và quốc lộ 5 là tuyến có rất nhiều xe container. Bài này giúp bạn chọn đúng đường cho xe máy, đi đúng làn, sống chung với xe container và nghỉ chân hợp lý. Nếu bạn định đi tiếp ra biển, cung đường Đồ Sơn đã có trong bài [đi Đồ Sơn bằng xe máy từ Hà Nội](/cung-duong/2026/10/01/di-do-son-bang-xe-may-tu-ha-noi-cung-duong-ven-bien/).
 
 ## Đi Hải Phòng bằng Air Blade: quốc lộ 5, tuyệt đối không vào cao tốc
 
@@ -28,7 +28,7 @@ Cách tránh:
 - Ở các nút giao lớn, nhìn biển báo trước. Thấy biển cấm xe máy hoặc biển chỉ lối lên cao tốc thì đi thẳng, không rẽ theo dòng ô tô.
 - Lỡ đi nhầm vào lối dẫn, dừng sát lề an toàn và dắt xe quay ra, không cố chạy tiếp.
 
-Ngoài cao tốc, nhớ thêm cầu Thanh Trì và đường Vành đai 3 trên cao cũng cấm xe máy. Quy định cụ thể xem trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Ngoài cao tốc, nhớ thêm cầu Thanh Trì và đường Vành đai 3 trên cao cũng cấm xe máy. Quy định cụ thể xem trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 ## Ra khỏi Hà Nội: từ Long Biên lên quốc lộ 5
 
@@ -56,7 +56,7 @@ Quốc lộ 5 nối Hà Nội với cảng Hải Phòng, nên xe container, xe �
 - **Khi container rẽ**, phần đuôi rơ moóc ăn vào phía trong vòng cua. Đứng chờ cách xa, đừng chen vào khe giữa xe và lề.
 - **Khi bị vượt**, Air Blade bị gió hút và tạt. Giữ tay lái chắc, nhả ga nhẹ, không phanh gấp.
 
-Thêm cách xử lý trên đoạn hẹp có trong bài [gặp xe container trên đường hẹp](/ky-nang/2026/10/10/gap-xe-container-tren-uong-hep-giu-khoang-cach/). Người chạy quốc lộ 5 hằng ngày cũng chia sẻ kinh nghiệm trong bài [sống ở Long Biên, làm ở Phố Nối](/thue-xe/2026/10/15/song-o-long-bien-lam-o-khu-cong-nghiep-pho-noi-chay-quoc-lo-5-moi-ngay-bang-xe-m/).
+Thêm cách xử lý trên đoạn hẹp có trong bài [gặp xe container trên đường hẹp](/ky-nang/2026/10/10/gap-xe-container-tren-duong-hep-giu-khoang-cach/). Người chạy quốc lộ 5 hằng ngày cũng chia sẻ kinh nghiệm trong bài [sống ở Long Biên, làm ở Phố Nối](/thue-xe/2026/10/15/song-o-long-bien-lam-o-khu-cong-nghiep-pho-noi-chay-quoc-lo-5-moi-ngay-bang-xe-m/).
 
 ## Điểm nghỉ dọc đường: cây xăng và quán ven đường
 

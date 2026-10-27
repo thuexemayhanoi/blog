@@ -39,7 +39,7 @@ Theo Tiền Phong và VietnamPlus, năm 2026 tuyến đường có một số đ
 
 Theo Tuổi Trẻ và VietNamNet, sau trận mưa do hoàn lưu bão Bualoi ngày 30/9/2025, có đoạn trên Đại lộ Thăng Long ngập 30 tới 35 cm, nhiều xe máy chết máy; hầm chui số 5 và số 6 ở khoảng Km9 bị ngập, đường gom qua khu đô thị Nam An Khánh nước gần ngập bánh xe. VnExpress ghi nhận đường gom và các hầm chui ngập khoảng 0,5 tới 0,7 m. Báo Pháp luật Việt Nam cho biết Sở Xây dựng từng cấm xe qua những điểm ngập 0,7 tới 1 m ở khu vực Hạ Bằng – Hòa Lạc.
 
-Năm 2026, thành phố triển khai kế hoạch chống úng ngập theo Quyết định 2280/QĐ-UBND, trong đó có các công trình khẩn cấp dọc Đại lộ Thăng Long. Dù vậy, hầm chui dân sinh vẫn là chỗ trũng nhất; đừng đi qua nước khi không thấy độ sâu. Cách quyết định có nên lội có ở bài [đường ngập sau mưa lớn có nên lội xe máy qua](/thue-xe/2026/10/11/uong-ngap-sau-mua-lon-co-nen-loi-xe-may-qua-va-xu-ly-the-nao-khi-xe-chet-may/ "Đường ngập có nên lội xe máy qua").
+Năm 2026, thành phố triển khai kế hoạch chống úng ngập theo Quyết định 2280/QĐ-UBND, trong đó có các công trình khẩn cấp dọc Đại lộ Thăng Long. Dù vậy, hầm chui dân sinh vẫn là chỗ trũng nhất; đừng đi qua nước khi không thấy độ sâu. Cách quyết định có nên lội có ở bài [đường ngập sau mưa lớn có nên lội xe máy qua](/thue-xe/2026/10/11/duong-ngap-sau-mua-lon-co-nen-loi-xe-may-qua-va-xu-ly-the-nao-khi-xe-chet-may/ "Đường ngập có nên lội xe máy qua").
 
 ## Trú mưa Đại lộ Thăng Long: nên dừng ở đâu
 

@@ -62,7 +62,7 @@ Khoản 26 Điều 9 cấm lợi dụng tai nạn để hành hung, đe dọa, g
 
 ## Nếu đang đi xe thuê
 
-Báo cửa hàng ngay sau khi đã lo xong người bị thương và báo công an. Với cửa hàng Nguyễn Tú (112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00), giấy bảo hiểm của xe và trách nhiệm người thuê khi có sự cố cần xác nhận trực tiếp qua số 0942467674 trước khi nhận xe. Việc cần báo cho cửa hàng xem thêm bài [xe thuê bị va chạm nhẹ khi đỗ cần báo gì cho cửa hàng](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-o-can-bao-gi-cho-cua-hang/).
+Báo cửa hàng ngay sau khi đã lo xong người bị thương và báo công an. Với cửa hàng Nguyễn Tú (112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00), giấy bảo hiểm của xe và trách nhiệm người thuê khi có sự cố cần xác nhận trực tiếp qua số 0942467674 trước khi nhận xe. Việc cần báo cho cửa hàng xem thêm bài [xe thuê bị va chạm nhẹ khi đỗ cần báo gì cho cửa hàng](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-do-can-bao-gi-cho-cua-hang/).
 
 ## Nguồn tham khảo và lưu ý
 

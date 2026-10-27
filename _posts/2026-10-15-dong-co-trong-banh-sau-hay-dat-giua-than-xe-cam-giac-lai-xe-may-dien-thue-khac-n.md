@@ -37,11 +37,11 @@ Bạn không cần tháo gì cả. Ngồi xuống nhìn bánh sau từ bên cạ
 
 ## Tăng tốc và leo dốc: hai cách đẩy xe khác nhau
 
-Xe dùng động cơ trong bánh truyền lực thẳng vào bánh, nên khi vặn ga xe đi ngay, nhẹ và mượt. Ở tốc độ phố, như chạy dọc Trần Hưng Đạo hay vòng quanh Hồ Gươm, cảm giác rất êm. Cách xuất phát gọn ở ngã tư đông có trong bài [xe điện tăng tốc tức thì: xuất phát êm ở ngã tư](/xe-may/2026/10/11/xe-ien-tang-toc-tuc-thi-cach-xuat-phat-em-o-nga-tu-ong/).
+Xe dùng động cơ trong bánh truyền lực thẳng vào bánh, nên khi vặn ga xe đi ngay, nhẹ và mượt. Ở tốc độ phố, như chạy dọc Trần Hưng Đạo hay vòng quanh Hồ Gươm, cảm giác rất êm. Cách xuất phát gọn ở ngã tư đông có trong bài [xe điện tăng tốc tức thì: xuất phát êm ở ngã tư](/xe-may/2026/10/11/xe-dien-tang-toc-tuc-thi-cach-xuat-phat-em-o-nga-tu-dong/).
 
 Xe đặt động cơ ở thân có bộ truyền ở giữa, nên nhà sản xuất có thể chỉnh tỉ số truyền cho phù hợp mục đích. Nhiều người cảm thấy xe kiểu này kéo đều hơn khi lên dốc dài, nhưng điều đó tùy mẫu, không phải quy luật cứng. Có xe động cơ trong bánh vẫn leo dốc cầu tốt, có xe đặt giữa lại được chỉnh để ưu tiên đi êm.
 
-Cách lái chung khi lên dốc như cầu Long Biên, dốc lên cầu Chương Dương hay đường lên đê Yên Phụ thì giống nhau: lấy đà vừa phải từ chân dốc, giữ ga đều, không vặn giật. Chi tiết về pin và phanh trên dốc dài xem ở bài [xe máy điện leo dốc dài](/xe-may/2026/10/10/xe-may-ien-leo-doc-dai-giu-pin-va-phanh-the-nao/).
+Cách lái chung khi lên dốc như cầu Long Biên, dốc lên cầu Chương Dương hay đường lên đê Yên Phụ thì giống nhau: lấy đà vừa phải từ chân dốc, giữ ga đều, không vặn giật. Chi tiết về pin và phanh trên dốc dài xem ở bài [xe máy điện leo dốc dài](/xe-may/2026/10/10/xe-may-dien-leo-doc-dai-giu-pin-va-phanh-the-nao/).
 
 ## Qua ổ gà, gờ giảm tốc: khối lượng nằm ở bánh sau
 

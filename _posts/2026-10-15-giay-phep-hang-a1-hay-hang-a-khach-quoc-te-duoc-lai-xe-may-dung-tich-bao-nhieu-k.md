@@ -58,7 +58,7 @@ Với xe máy điện, mốc so sánh là công suất động cơ 11 kW chứ k
 
 **Giấy phép chỉ có A1, nhưng muốn chạy Air Blade 160 cho chuyến đi xa.** Hãy chọn Air Blade 125 hoặc Vision. Bản 125 vẫn đủ sức chạy các trục rộng như Nguyễn Văn Cừ, Võ Chí Công hay qua cầu Nhật Tân sang Đông Anh.
 
-**Giấy phép có hạng A đầy đủ.** Bạn có thể cân nhắc cả bản 160. Tuy vậy, xe mạnh hơn không có nghĩa là dễ đi hơn trong phố cổ Hoàn Kiếm hay các ngõ đông ở Cầu Giấy. Nếu đây là lần đầu chạy xe ở Hà Nội, bài [khách nước ngoài lần đầu chạy xe máy ở Hà Nội nên chọn xe nào](/hoi-dap/2026/10/11/khach-nuoc-ngoai-lan-au-chay-xe-may-o-ha-noi-nen-chon-xe-nao/) giúp bạn cân nhắc theo kinh nghiệm thay vì theo sức máy.
+**Giấy phép có hạng A đầy đủ.** Bạn có thể cân nhắc cả bản 160. Tuy vậy, xe mạnh hơn không có nghĩa là dễ đi hơn trong phố cổ Hoàn Kiếm hay các ngõ đông ở Cầu Giấy. Nếu đây là lần đầu chạy xe ở Hà Nội, bài [khách nước ngoài lần đầu chạy xe máy ở Hà Nội nên chọn xe nào](/hoi-dap/2026/10/11/khach-nuoc-ngoai-lan-dau-chay-xe-may-o-ha-noi-nen-chon-xe-nao/) giúp bạn cân nhắc theo kinh nghiệm thay vì theo sức máy.
 
 ## Những câu nên hỏi trước khi đặt xe
 

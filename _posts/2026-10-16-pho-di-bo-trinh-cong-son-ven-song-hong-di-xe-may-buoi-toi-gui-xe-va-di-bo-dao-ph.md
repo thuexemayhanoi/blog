@@ -62,7 +62,7 @@ Bãi gần đã kín thì lùi ra Lạc Long Quân tìm bãi xa hơn, đừng c�
 
 Từ chỗ gửi xe, đi dọc phố ngắm tượng và tranh tường, ghé sân khấu trung tâm xem có tiết mục gì, rồi đi hết đoạn đường đôi giữa hai hồ sen. Mùa hè sen nở đoạn này đẹp nhất, mùa thu thì gió mát. Từ cuối đường đôi ra mép Hồ Tây chỉ khoảng 400 m.
 
-Một buổi dạo mất chừng một đến một tiếng rưỡi. Muốn kéo dài buổi tối, hai bạn có thể ăn bánh tôm ở quán ven hồ rồi ghé [chợ hoa Quảng Bá về đêm](/du-lich/2026/10/11/cho-hoa-quang-ba-ve-em-bang-xe-may-gio-i-uong-vao-va-cho-dung-xe/) mua bó hoa. Đi ban ngày với nhóm bạn thì xem cách [gửi xe ở Công viên nước Hồ Tây](/du-lich/2026/10/10/en-cong-vien-nuoc-ho-tay-bang-xe-may-gui-xe-va-uong-i/) ngay bên cạnh.
+Một buổi dạo mất chừng một đến một tiếng rưỡi. Muốn kéo dài buổi tối, hai bạn có thể ăn bánh tôm ở quán ven hồ rồi ghé [chợ hoa Quảng Bá về đêm](/du-lich/2026/10/11/cho-hoa-quang-ba-ve-dem-bang-xe-may-gio-di-duong-vao-va-cho-dung-xe/) mua bó hoa. Đi ban ngày với nhóm bạn thì xem cách [gửi xe ở Công viên nước Hồ Tây](/du-lich/2026/10/10/den-cong-vien-nuoc-ho-tay-bang-xe-may-gui-xe-va-duong-di/) ngay bên cạnh.
 
 Ví dụ thực tế: một cặp khách thuê xe tối thứ Bảy, gửi xe đầu ngõ 612 lúc bảy giờ, dạo phố đến tám rưỡi, ra Hồ Tây ngồi một lúc rồi lấy xe. Họ về trước khi chương trình tan nên đường Âu Cơ rất thoáng.
 
@@ -74,7 +74,7 @@ Lúc dễ tắc nhất là khi sân khấu vừa tắt đèn: đám đông ra l�
 - Về Ba Đình, Cầu Giấy: theo Lạc Long Quân xuôi xuống khu Bưởi, rẽ Thụy Khuê hay Hoàng Hoa Thám tùy điểm đến.
 - Không nghe app dẫn tắt qua ngõ làng Nhật Tân, Quảng An: ngõ hẹp, nhiều khúc gấp, thiếu đèn.
 
-Đường đê Âu Cơ về khuya xe tải chạy nhiều, có đoạn lồi lõm. Giữ làn phải, tốc độ vừa phải và đi cách mép đê một khoảng. Muốn ngắm thêm phố lên đèn trên đường về, xem bài [chạy xe ngắm Hà Nội về đêm](/du-lich/2026/10/11/chay-xe-ngam-ha-noi-ve-em-nhung-iem-len-en-ep-va-cach-dung-xe-an-toan/).
+Đường đê Âu Cơ về khuya xe tải chạy nhiều, có đoạn lồi lõm. Giữ làn phải, tốc độ vừa phải và đi cách mép đê một khoảng. Muốn ngắm thêm phố lên đèn trên đường về, xem bài [chạy xe ngắm Hà Nội về đêm](/du-lich/2026/10/11/chay-xe-ngam-ha-noi-ve-dem-nhung-diem-len-den-dep-va-cach-dung-xe-an-toan/).
 
 ## Lưu ý cho người thuê xe máy đi chơi buổi tối
 
@@ -87,4 +87,4 @@ Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, B�
 
 Thủng lốp hay xe khó nổ trên đường về, tấp vào lề sáng đèn rồi gọi 0942 467 674 để được hướng dẫn.
 
-Chưa chắc tối nay có chương trình thì kiểm tra lịch trước, rồi chọn thêm điểm dự phòng trong bài [chạy xe một vòng Hồ Tây](/du-lich/2026/10/11/chay-xe-mot-vong-ho-tay-lo-trinh-iem-dung-va-oan-de-ket/) hoặc [danh sách điểm đến Hà Nội](/du-lich/diem-den/).
+Chưa chắc tối nay có chương trình thì kiểm tra lịch trước, rồi chọn thêm điểm dự phòng trong bài [chạy xe một vòng Hồ Tây](/du-lich/2026/10/11/chay-xe-mot-vong-ho-tay-lo-trinh-diem-dung-va-doan-de-ket/) hoặc [danh sách điểm đến Hà Nội](/du-lich/diem-den/).

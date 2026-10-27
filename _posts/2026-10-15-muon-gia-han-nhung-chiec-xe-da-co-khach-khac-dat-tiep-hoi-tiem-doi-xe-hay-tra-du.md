@@ -46,7 +46,7 @@ Nếu chiếc đang đi đã có lịch, câu cần hỏi tiếp là cửa hàng
 - **Cùng công năng:** nếu bạn chở thêm người hoặc có hành lý, hỏi xe có cốp, có chỗ để đồ tương tự.
 - **Giá theo bảng đã công bố:** nếu được đổi sang dòng xe khác, giá phần ngày thêm tính theo bảng giá của dòng xe mới. Xem tại [bảng giá thuê xe](/bang-gia/) và hỏi lại cửa hàng để chắc chắn, đừng tự suy đoán mức chênh.
 
-Nếu cửa hàng chỉ còn dòng xe khác hẳn so với chiếc bạn đang đi, bạn có thể tham khảo cách cân nhắc trong bài [đặt trước một dòng xe nhưng chỉ còn dòng khác: nhận hay đổi lịch](/hoi-dap/2026/10/11/at-truoc-mot-dong-xe-nhung-chi-con-dong-khac-nhan-hay-oi-lich/). Tình huống khác nhau, nhưng những câu tự hỏi về độ quen tay và nhu cầu chở đồ thì giống.
+Nếu cửa hàng chỉ còn dòng xe khác hẳn so với chiếc bạn đang đi, bạn có thể tham khảo cách cân nhắc trong bài [đặt trước một dòng xe nhưng chỉ còn dòng khác: nhận hay đổi lịch](/hoi-dap/2026/10/11/dat-truoc-mot-dong-xe-nhung-chi-con-dong-khac-nhan-hay-doi-lich/). Tình huống khác nhau, nhưng những câu tự hỏi về độ quen tay và nhu cầu chở đồ thì giống.
 
 ## Đổi xe khi gia hạn: hẹn bàn giao lại cho rõ ràng
 

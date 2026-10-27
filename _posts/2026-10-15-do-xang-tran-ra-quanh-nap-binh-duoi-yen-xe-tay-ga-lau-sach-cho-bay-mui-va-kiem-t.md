@@ -63,7 +63,7 @@ Lấy hết đồ ra và xem lần lượt:
 - **Đồ ăn, nước uống:** nếu túi đồ ăn bị dính xăng, an toàn nhất là không dùng nữa.
 - **Mũ bảo hiểm để trong cốp:** lau lớp vỏ ngoài; nếu lớp lót bên trong dính xăng thì nên giặt trước khi đội lại.
 
-Lau đáy cốp bằng khăn khô, để cốp mở cùng lúc với phần quanh nắp bình. Cách xếp gọn khoang chứa đồ được nói thêm trong bài [cốp Honda Vision thuê chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-uoc-nhung-gi/).
+Lau đáy cốp bằng khăn khô, để cốp mở cùng lúc với phần quanh nắp bình. Cách xếp gọn khoang chứa đồ được nói thêm trong bài [cốp Honda Vision thuê chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-duoc-nhung-gi/).
 
 ## Khi nào mới nổ máy và đi tiếp
 
@@ -85,7 +85,7 @@ Phần lớn các vụ tràn xăng đến từ việc đổ quá đầy. Vài th
 - **Lấy đồ dễ ngấm mùi ra khỏi cốp** hoặc ít nhất đẩy chúng ra xa phía nắp bình trước khi mở nắp.
 - **Mang theo một gói khăn giấy nhỏ** trong cốp, đặt trong túi kín, để lau kịp khi cần.
 
-Nếu bạn chưa quen vị trí nắp bình và thao tác tại trạm, xem lại bài [đổ xăng cho xe tay ga thuê](/xe-may/2026/10/11/o-xang-cho-xe-tay-ga-thue-nap-xang-o-au-va-thao-tac-tai-tram/) trước chuyến đi đầu tiên.
+Nếu bạn chưa quen vị trí nắp bình và thao tác tại trạm, xem lại bài [đổ xăng cho xe tay ga thuê](/xe-may/2026/10/11/do-xang-cho-xe-tay-ga-thue-nap-xang-o-dau-va-thao-tac-tai-tram/) trước chuyến đi đầu tiên.
 
 ## Kết lại
 

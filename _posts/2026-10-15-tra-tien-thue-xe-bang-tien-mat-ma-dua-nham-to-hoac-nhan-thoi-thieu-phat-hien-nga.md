@@ -23,7 +23,7 @@ Bài không nêu số tiền cụ thể, không biết cách tiệm xử lý khi
 
 Phần lớn nhầm lẫn khi trả tiền mặt đến từ việc chuẩn bị vội. Trước khi đến tiệm, hãy biết rõ số tiền cần trả theo tin nhắn mà tiệm đã xác nhận, rồi chuẩn bị đúng số hoặc tờ có mệnh giá tiện thối. Nếu tiệm chưa nêu tổng số tiền bằng chữ, hãy hỏi trước khi đưa.
 
-Bài [đặt cọc xe máy bằng tiền mặt: đếm và chụp lại thế nào](/thue-xe/2026/10/11/at-coc-xe-may-bang-tien-mat-em-va-chup-lai-the-nao/) nói cách đếm và chụp lại khi trả tiền mặt. Cách làm cũng áp dụng cho tiền thuê: đếm hai lần, đặt từng xấp rõ ràng và đừng đưa khi đang bận làm việc khác.
+Bài [đặt cọc xe máy bằng tiền mặt: đếm và chụp lại thế nào](/thue-xe/2026/10/11/dat-coc-xe-may-bang-tien-mat-dem-va-chup-lai-the-nao/) nói cách đếm và chụp lại khi trả tiền mặt. Cách làm cũng áp dụng cho tiền thuê: đếm hai lần, đặt từng xấp rõ ràng và đừng đưa khi đang bận làm việc khác.
 
 ## Đếm lại trước khi đưa và đưa ngay tại quầy
 

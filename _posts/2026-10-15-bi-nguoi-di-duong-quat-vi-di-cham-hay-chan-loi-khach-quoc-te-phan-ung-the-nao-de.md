@@ -46,7 +46,7 @@ Nếu người kia chạy chậm lại bên cạnh và vẫn nói, một cái gi
 Phần lớn cãi vã trên đường leo thang không phải vì lỗi ban đầu mà vì phản ứng sau đó. Hãy tránh:
 
 - **Đáp trả bằng lời hay cử chỉ.** Ngôn ngữ khác nhau dễ khiến một câu nói bình thường của bạn bị hiểu sai. Cử chỉ tay mang nghĩa xúc phạm ở nơi khác cũng có thể bị hiểu theo cách tương tự ở đây.
-- **Bấm còi đáp lại liên tục.** Tiếng còi kéo dài nghe như thách thức. Cách dùng còi cho đúng có trong bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/en-tin-hieu-va-coi-xe-may-theo-quy-inh/).
+- **Bấm còi đáp lại liên tục.** Tiếng còi kéo dài nghe như thách thức. Cách dùng còi cho đúng có trong bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/den-tin-hieu-va-coi-xe-may-theo-quy-dinh/).
 Hai sai lầm trên đến từ lời nói và tiếng còi; ba sai lầm dưới đây đến từ hành động:
 
 - **Đuổi theo để nói lý.** Bạn đang lái xe thuê ở thành phố lạ; đuổi theo vừa nguy hiểm vừa không mang lại gì.
@@ -71,7 +71,7 @@ Phòng ngừa luôn dễ hơn xử lý. Vài thói quen nhỏ giúp bạn hòa v
 
 ### Chọn đúng vị trí trên đường
 
-Khi chưa quen hoặc đang cần đi chậm, chạy sát bên phải. Phần giữa và bên trái để cho xe nhanh hơn vượt. Trên đường nhiều làn, chọn làn sớm, xem thêm bài [chuyển làn đúng cách trên đường nhiều làn](/ky-nang/2026/10/04/chuyen-lan-ung-cach-tren-uong-nhieu-lan-xe-may/).
+Khi chưa quen hoặc đang cần đi chậm, chạy sát bên phải. Phần giữa và bên trái để cho xe nhanh hơn vượt. Trên đường nhiều làn, chọn làn sớm, xem thêm bài [chuyển làn đúng cách trên đường nhiều làn](/ky-nang/2026/10/04/chuyen-lan-dung-cach-tren-duong-nhieu-lan-xe-may/).
 
 ### Xem bản đồ khi đã dừng hẳn
 

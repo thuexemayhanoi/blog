@@ -96,7 +96,7 @@ Một vài giới hạn nên giữ:
 - **Không bay flycam nếu chưa xin phép.** Hỏi kỹ nơi có thẩm quyền trước khi mang flycam theo.
 - **Người lái không cầm máy** và không nhìn màn hình khi xe đang chạy.
 
-Nếu muốn ghép thêm một ngày đi làng nghề theo nhịp chậm, tham khảo [một tuần đi làng nghề quanh Hà Nội](/thue-xe/2026/10/11/mot-tuan-i-lang-nghe-quanh-ha-noi-chia-bay-ngay-theo-huong-bang-xe-may-thue/) để chọn thêm điểm.
+Nếu muốn ghép thêm một ngày đi làng nghề theo nhịp chậm, tham khảo [một tuần đi làng nghề quanh Hà Nội](/thue-xe/2026/10/11/mot-tuan-di-lang-nghe-quanh-ha-noi-chia-bay-ngay-theo-huong-bang-xe-may-thue/) để chọn thêm điểm.
 
 ## Chốt lại trước tuần khảo sát
 

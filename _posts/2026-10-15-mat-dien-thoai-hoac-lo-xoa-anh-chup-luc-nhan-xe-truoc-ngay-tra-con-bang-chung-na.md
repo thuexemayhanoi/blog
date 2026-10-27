@@ -75,7 +75,7 @@ Những ngày còn lại, nếu xe có thêm vết mới, kể cả bị quệt 
 
 Khi kiểm tra cùng nhân viên, đi theo từng điểm: chỉ vết xước, đưa ảnh hoặc tin nhắn liên quan, hỏi bên kia ghi nhận ra sao. Chỗ nào hai bên nhìn khác, nói rõ bạn có gì và thiếu gì, tránh khẳng định điều không có bằng chứng.
 
-Cách xử lý từng hư hỏng, chi phí nếu có hay cách hoàn cọc đều cần hỏi và xác nhận trực tiếp, rồi ghi lại bằng tin nhắn hoặc giấy có chữ ký. Không ai hứa trước được kết quả, nhưng báo sớm và mang đủ nguồn đối chiếu giúp bạn ở vị thế rõ ràng hơn. Quy trình chung khi trả xe được tóm tắt ở bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/).
+Cách xử lý từng hư hỏng, chi phí nếu có hay cách hoàn cọc đều cần hỏi và xác nhận trực tiếp, rồi ghi lại bằng tin nhắn hoặc giấy có chữ ký. Không ai hứa trước được kết quả, nhưng báo sớm và mang đủ nguồn đối chiếu giúp bạn ở vị thế rõ ràng hơn. Quy trình chung khi trả xe được tóm tắt ở bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/).
 
 ## Lần sau: cách để không phụ thuộc vào một chiếc điện thoại
 

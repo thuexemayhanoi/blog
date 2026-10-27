@@ -39,7 +39,7 @@ Bạn dừng chờ đèn đỏ, nhìn gương và thấy một chiếc xe phía 
 
 Bạn đang đi song song cạnh một chiếc ô tô thì nó bật xi nhan muộn, hoặc không bật, và bắt đầu lấn sang. Nếu bạn ở ngang thân xe, đặc biệt là cạnh đuôi xe, bạn có thể đang nằm trong điểm mù của người lái. Lúc này có hai lựa chọn: phanh để lùi lại sau xe, hoặc tăng ga vượt lên khỏi vùng điểm mù, tùy bạn đang ở đâu so với chiếc xe và phía trước có trống hay không. Nếu đầu xe bạn đã ngang đầu ô tô và phía trước thông thoáng, dịch lên thường nhanh hơn. Nếu bạn đang ngang đuôi xe, phanh để lùi lại thường an toàn hơn.
 
-Tình huống tương tự với xe tải có ở bài [xe tải chiếu đèn chuyển làn ngay trước mặt: phản xạ](/ky-nang/2026/10/05/xe-tai-chieu-en-chuyen-lan-ngay-truoc-mat-phan-xa/ "Xe tải chiếu đèn chuyển làn ngay trước mặt").
+Tình huống tương tự với xe tải có ở bài [xe tải chiếu đèn chuyển làn ngay trước mặt: phản xạ](/ky-nang/2026/10/05/xe-tai-chieu-den-chuyen-lan-ngay-truoc-mat-phan-xa/ "Xe tải chiếu đèn chuyển làn ngay trước mặt").
 
 ## Kiểm tra khoảng trống trước khi tăng ga
 
@@ -65,8 +65,8 @@ Luật cũng yêu cầu khi chuyển làn phải có tín hiệu và quan sát (
 Tốt nhất là ít phải dùng đến tăng ga thoát hiểm. Ba thói quen giúp điều đó:
 
 1. **Không đi song song lâu cạnh ô tô, xe tải.** Hoặc vượt qua, hoặc lùi lại để người lái nhìn thấy bạn trong gương.
-2. **Giữ khoảng cách với xe phía trước**, như bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-i-xe-may/ "Giữ khoảng cách an toàn khi đi xe máy") hướng dẫn.
-3. **Chuyển làn đúng cách**, với gương, xi nhan và liếc qua vai, như bài [chuyển làn đúng cách trên đường nhiều làn xe máy](/ky-nang/2026/10/04/chuyen-lan-ung-cach-tren-uong-nhieu-lan-xe-may/ "Chuyển làn đúng cách trên đường nhiều làn").
+2. **Giữ khoảng cách với xe phía trước**, như bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-di-xe-may/ "Giữ khoảng cách an toàn khi đi xe máy") hướng dẫn.
+3. **Chuyển làn đúng cách**, với gương, xi nhan và liếc qua vai, như bài [chuyển làn đúng cách trên đường nhiều làn xe máy](/ky-nang/2026/10/04/chuyen-lan-dung-cach-tren-duong-nhieu-lan-xe-may/ "Chuyển làn đúng cách trên đường nhiều làn").
 
 Nếu bạn thuê xe lạ tay, hãy dành vài phút ở đoạn đường vắng để làm quen độ bốc của tay ga trước khi vào phố đông; xe ga phản ứng khác xe số, và cảm giác tay ga quen thuộc giúp bạn xử lý chính xác hơn khi cần.
 

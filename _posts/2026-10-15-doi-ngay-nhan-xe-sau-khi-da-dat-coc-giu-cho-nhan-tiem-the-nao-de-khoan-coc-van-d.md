@@ -20,7 +20,7 @@ Kế hoạch đi lại thay đổi là chuyện rất thường: chuyến bay l�
 
 Khi bạn đặt cọc giữ chỗ, chiếc xe đó được để riêng cho bạn vào đúng ngày đã hẹn. Trong lúc ấy, tiệm có thể đã từ chối một khách khác hỏi cùng mẫu xe. Báo dời lịch sớm một hai ngày, tiệm còn kịp sắp xếp lại và việc trao đổi thường dễ hơn. Báo khi đã quá giờ hẹn, chiếc xe nằm chờ không ai dùng, cuộc nói chuyện về khoản cọc sẽ khó hơn nhiều.
 
-Cũng nên nhớ: tiền cọc và tiền giữ chỗ không phải lúc nào cũng là một. Có nơi gọi khoản chuyển trước là tiền giữ chỗ, có nơi gọi là cọc, có nơi tính luôn là tiền thuê ngày đầu, và mỗi tên gọi kéo theo cách xử lý khác khi đổi lịch. Đọc lại bài [phân biệt tiền cọc, tiền thuê trả trước và tiền giữ chỗ](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-e-khoi-hieu-nham/) trước khi nhắn sẽ giúp bạn hỏi đúng trọng tâm.
+Cũng nên nhớ: tiền cọc và tiền giữ chỗ không phải lúc nào cũng là một. Có nơi gọi khoản chuyển trước là tiền giữ chỗ, có nơi gọi là cọc, có nơi tính luôn là tiền thuê ngày đầu, và mỗi tên gọi kéo theo cách xử lý khác khi đổi lịch. Đọc lại bài [phân biệt tiền cọc, tiền thuê trả trước và tiền giữ chỗ](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-de-khoi-hieu-nham/) trước khi nhắn sẽ giúp bạn hỏi đúng trọng tâm.
 
 ## Trước khi nhắn: xem lại mình đã thỏa thuận những gì
 
@@ -31,7 +31,7 @@ Cũng nên nhớ: tiền cọc và tiền giữ chỗ không phải lúc nào c�
 - Ngày giờ nhận xe ban đầu, mẫu xe và số ngày thuê đã chốt.
 - Lúc đặt, tiệm có nói gì về chuyện đổi hoặc hủy lịch hay chưa.
 
-Nếu đã chuyển khoản, hãy giữ ảnh màn hình giao dịch có mã giao dịch và nội dung chuyển. Bài [đặt cọc thuê xe bằng chuyển khoản: giữ lại bằng chứng nào](/thue-xe/2026/10/01/at-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/) liệt kê kỹ những thứ cần lưu, dùng luôn được cho lúc dời lịch.
+Nếu đã chuyển khoản, hãy giữ ảnh màn hình giao dịch có mã giao dịch và nội dung chuyển. Bài [đặt cọc thuê xe bằng chuyển khoản: giữ lại bằng chứng nào](/thue-xe/2026/10/01/dat-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/) liệt kê kỹ những thứ cần lưu, dùng luôn được cho lúc dời lịch.
 
 ## Cách nhắn tiệm khi đổi ngày thuê xe máy đã cọc
 
@@ -65,7 +65,7 @@ Mỗi tiệm có cách làm riêng, không có mẫu chung cho mọi nơi. Đi�
 
 Gọi điện là đúng khi đã sát giờ hẹn. Nhưng sau cuộc gọi, hãy nhắn thêm một tin tóm tắt, chẳng hạn: "Em ghi lại cho chắc: dời nhận xe sang sáng Chủ nhật, khoản cọc giữ nguyên cho lịch mới như anh vừa nói." Đợi tiệm trả lời đồng ý rồi chụp màn hình cả đoạn hội thoại.
 
-Lưu ảnh đó cùng biên lai trong một album riêng trên điện thoại. Đến ngày nhận xe, nếu người trực ca khác chưa nắm việc dời lịch, bạn chỉ cần đưa màn hình ra. Trường hợp tiệm chỉ đáp kiểu "cứ đến rồi tính", cách hỏi lại cho rõ nằm trong bài [chủ xe trả lời mơ hồ về tiền cọc](/thue-xe/2026/10/11/chu-xe-tra-loi-mo-ho-ve-tien-coc-en-roi-tinh-thi-nen-lam-gi/).
+Lưu ảnh đó cùng biên lai trong một album riêng trên điện thoại. Đến ngày nhận xe, nếu người trực ca khác chưa nắm việc dời lịch, bạn chỉ cần đưa màn hình ra. Trường hợp tiệm chỉ đáp kiểu "cứ đến rồi tính", cách hỏi lại cho rõ nằm trong bài [chủ xe trả lời mơ hồ về tiền cọc](/thue-xe/2026/10/11/chu-xe-tra-loi-mo-ho-ve-tien-coc-den-roi-tinh-thi-nen-lam-gi/).
 
 ## Vài tình huống dời lịch hay gặp ở Hà Nội
 

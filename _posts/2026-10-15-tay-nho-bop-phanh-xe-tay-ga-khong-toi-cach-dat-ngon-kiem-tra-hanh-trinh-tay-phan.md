@@ -75,7 +75,7 @@ Có những trường hợp không nên tự xoay xở:
 
 Với xe thuê, nguyên tắc là không tự tháo, không tự vặn ốc dây phanh hay tháo má phanh, kể cả khi có dụng cụ. Chỉnh sai có thể làm phanh bó hoặc mất phanh. Hãy dừng xe ở chỗ an toàn và gọi cửa hàng theo số 0942467674 để được hướng dẫn hoặc hẹn mang xe về kiểm tra. Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở từ 09:00 tới 21:00, nên tốt nhất báo trong giờ đó để được xử lý nhanh.
 
-Khi chọn xe, nói trước với tiệm về cỡ tay của mình; tham khảo thêm bài [xe ga cho nữ giới đi lại hằng ngày](/xe-may/2026/09/27/xe-ga-cho-nu-gioi-i-lai-hang-ngay/).
+Khi chọn xe, nói trước với tiệm về cỡ tay của mình; tham khảo thêm bài [xe ga cho nữ giới đi lại hằng ngày](/xe-may/2026/09/27/xe-ga-cho-nu-gioi-di-lai-hang-ngay/).
 
 ## Tóm lại
 

@@ -47,7 +47,7 @@ Móc trước được làm cho đồ nhẹ. Không cần nhớ con số nào, c
 - Đồ dễ móp, cần che nắng mưa: hộp bánh, mỹ phẩm, giấy tờ.
 - Túi mua sắm mềm mà bạn không muốn gió thổi phồng.
 
-Cốp Vision không quá rộng, nên xếp trước khi ra khỏi nhà để biết còn chỗ cho gì. Bài [cốp Honda Vision thuê chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-uoc-nhung-gi/) có gợi ý xếp cụ thể.
+Cốp Vision không quá rộng, nên xếp trước khi ra khỏi nhà để biết còn chỗ cho gì. Bài [cốp Honda Vision thuê chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-duoc-nhung-gi/) có gợi ý xếp cụ thể.
 
 ## Cách treo để túi không chạm đầu gối khi vào cua
 
@@ -86,7 +86,7 @@ Giả sử bạn ở trọ gần phố Ngọc Lâm, Long Biên, và đi chợ bu
 
 Trên đường về qua cầu Long Biên hay dốc lên cầu Chương Dương, đi đều ga, lên dốc không cần thốc ga, xuống dốc nhả ga sớm. Túi rau trên móc gần như không lắc, còn đồ nặng nằm thấp nên xe không bị kéo lệch.
 
-Nếu đi siêu thị mua nhiều hơn mức sàn và cốp chứa được, tốt nhất chia hai chuyến hoặc nhờ người ngồi sau ôm một túi. Bài [thuê Honda Vision chở đồ mua sắm có rộng không](/xe-may/2026/10/07/thue-honda-vision-cho-o-mua-sam-co-rong-khong/) giúp bạn ước lượng trước khi ra khỏi nhà.
+Nếu đi siêu thị mua nhiều hơn mức sàn và cốp chứa được, tốt nhất chia hai chuyến hoặc nhờ người ngồi sau ôm một túi. Bài [thuê Honda Vision chở đồ mua sắm có rộng không](/xe-may/2026/10/07/thue-honda-vision-cho-do-mua-sam-co-rong-khong/) giúp bạn ước lượng trước khi ra khỏi nhà.
 
 ## Khi nhận và trả xe thuê: để ý chiếc móc
 

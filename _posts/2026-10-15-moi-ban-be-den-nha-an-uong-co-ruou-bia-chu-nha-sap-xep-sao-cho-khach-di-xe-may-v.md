@@ -73,7 +73,7 @@ Khi khách muốn về nhà ngay trong đêm, gọi xe đưa khách say về là
 3. **Gửi thông tin chuyến xe** cho người nhà hoặc bạn cùng phòng của khách, nhắn họ ra đón.
 4. **Hẹn khách nhắn tin khi về đến nơi.** Nếu lâu không thấy, gọi lại hỏi.
 
-Xe máy của khách để lại nhà bạn. Sáng hôm sau, nếu đêm trước khách uống nhiều, đừng giục họ lái về sớm. Bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/em-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-o-con-khong/) giải thích vì sao. Các mẹo "giải rượu" như cà phê đặc hay nước chanh không làm giảm nồng độ cồn; chỉ có thời gian, và mỗi người một khác.
+Xe máy của khách để lại nhà bạn. Sáng hôm sau, nếu đêm trước khách uống nhiều, đừng giục họ lái về sớm. Bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/dem-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-do-con-khong/) giải thích vì sao. Các mẹo "giải rượu" như cà phê đặc hay nước chanh không làm giảm nồng độ cồn; chỉ có thời gian, và mỗi người một khác.
 
 ## Luật nói gì về người cầm lái sau bữa tiệc
 

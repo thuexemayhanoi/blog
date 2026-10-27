@@ -47,7 +47,7 @@ Vài cách làm nhẹ: giảm số lần đổi số bằng cách đi ở số v
 
 Một số người nói xe ga dễ hơn cho người mới vì không có cần số, một số khác nói xe số cho cảm giác kiểm soát tốt hơn. Cả hai ý kiến đều có người ủng hộ, và bài không kết luận xe nào dễ hơn cho bạn. Với người đã quen xe ga, xe số cần làm quen động tác mới; với người đã quen xe số, xe ga cần bỏ thói quen tìm cần số.
 
-Điều bài nói được là mức khó phụ thuộc vào kinh nghiệm trước đó, cách bắt đầu và độ thoải mái của chính bạn. Bài [lần đầu thuê xe máy nên chọn xe số hay xe tay ga](/hoi-dap/2026/10/10/lan-au-thue-xe-may-nen-chon-xe-so-hay-xe-tay-ga/) có thêm góc nhìn để cân nhắc.
+Điều bài nói được là mức khó phụ thuộc vào kinh nghiệm trước đó, cách bắt đầu và độ thoải mái của chính bạn. Bài [lần đầu thuê xe máy nên chọn xe số hay xe tay ga](/hoi-dap/2026/10/10/lan-dau-thue-xe-may-nen-chon-xe-so-hay-xe-tay-ga/) có thêm góc nhìn để cân nhắc.
 
 ## Mức khó thực tế: vài buổi làm quen, bắt đầu nhẹ nhàng
 

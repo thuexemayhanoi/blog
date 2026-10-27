@@ -71,7 +71,7 @@ Cách làm chắc chắn nhất:
 
 **Ăn trưa ở khu Vincom Bà Triệu, muốn quay lại Hồ Gươm.** Bạn đang ở trên Bà Triệu, phố chỉ cho đi xuống phía nam. Đừng quay đầu. Đi tiếp xuống, chọn một phố ngang cho phép rẽ sang Phố Huế, rồi theo Phố Huế – Hàng Bài đi lên hồ.
 
-**Ở khách sạn phố cổ, sáng muốn chạy xuống phía nam.** Đi về góc tây nam hồ, vào Bà Triệu và chạy thẳng. Đây là lối gọn nhất, ít phải rẽ, hợp với người đi lần đầu. Ai xuống bến xe phía nam có thể đọc ngược lại bài [từ bến xe Giáp Bát về phố cổ](/cung-duong/2026/10/09/tu-ben-xe-giap-bat-ve-pho-co-chay-xe-may-uong-nao/) để hình dung đoạn sau.
+**Ở khách sạn phố cổ, sáng muốn chạy xuống phía nam.** Đi về góc tây nam hồ, vào Bà Triệu và chạy thẳng. Đây là lối gọn nhất, ít phải rẽ, hợp với người đi lần đầu. Ai xuống bến xe phía nam có thể đọc ngược lại bài [từ bến xe Giáp Bát về phố cổ](/cung-duong/2026/10/09/tu-ben-xe-giap-bat-ve-pho-co-chay-xe-may-duong-nao/) để hình dung đoạn sau.
 
 **Tối thứ Bảy hẹn bạn ở Tràng Tiền.** Phố Huế – Hàng Bài vẫn là lối vào, nhưng gần hồ có thể gặp rào phân luồng phố đi bộ. Tìm bãi có người trông ở đoạn Hàng Bài hoặc các phố ngang trước khi tới rào, nhận vé, nhớ tên phố rồi đi bộ phần còn lại. Muốn biết thêm đoạn nào quanh hồ nên dắt bộ, xem bài [chạy xe máy quanh Hồ Gươm buổi tối cuối tuần](/cung-duong/2026/10/10/chay-xe-may-quanh-ho-guom-buoi-toi-cuoi-tuan/).
 
@@ -81,7 +81,7 @@ Cách làm chắc chắn nhất:
 - Tránh giờ cao điểm sáng và chiều nếu không gấp; hai phố này kẹt nhất lúc tan tầm.
 - Trời mưa, các phố nhiều cửa hàng hay có xe đỗ sát lề, đi chậm và phanh nhẹ sớm.
 
-Nếu bạn ở khu Đống Đa, xem thêm cách đi [từ khu Chùa Bộc – Thái Hà – Tây Sơn về Hồ Gươm](/cung-duong/2026/10/11/tu-khu-chua-boc-thai-ha-tay-son-ve-ho-guom-bang-xe-may-di-duong-nao/). Ai chưa quen tay lái phố đông nên chạy thử một vòng nhẹ trước theo [cung nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-au/).
+Nếu bạn ở khu Đống Đa, xem thêm cách đi [từ khu Chùa Bộc – Thái Hà – Tây Sơn về Hồ Gươm](/cung-duong/2026/10/11/tu-khu-chua-boc-thai-ha-tay-son-ve-ho-guom-bang-xe-may-di-duong-nao/). Ai chưa quen tay lái phố đông nên chạy thử một vòng nhẹ trước theo [cung nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-dau/).
 
 Cần xe để đi lại trong nội thành, bạn có thể gọi Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, số 0942 467 674, mở cửa 09:00–21:00, để hỏi xe, giá và thủ tục.
 

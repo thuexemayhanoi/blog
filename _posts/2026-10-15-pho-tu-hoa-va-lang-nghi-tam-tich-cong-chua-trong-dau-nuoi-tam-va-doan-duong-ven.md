@@ -42,7 +42,7 @@ Từ cửa hàng ở Bồ Đề, Long Biên, tuyến tôi hay gợi ý là qua c
 
 Đi một chiều vào, chiều kia ra, bạn có một vòng ngắn không lặp đường. Lối rẽ từ đê xuống thường dốc nhẹ và hẹp, nên giảm ga từ xa, bật xi nhan sớm, quan sát xe phía sau trước khi chuyển hướng. Đường đê buổi chiều có nhiều xe tải và ô tô, đừng rẽ ngoặt đột ngột.
 
-Người chưa quen hướng đi quanh hồ có thể đọc qua bài [chạy xe một vòng Hồ Tây: lộ trình và đoạn dễ kẹt](/du-lich/2026/10/11/chay-xe-mot-vong-ho-tay-lo-trinh-iem-dung-va-oan-de-ket/) để hình dung Từ Hoa nằm ở góc nào của vòng hồ.
+Người chưa quen hướng đi quanh hồ có thể đọc qua bài [chạy xe một vòng Hồ Tây: lộ trình và đoạn dễ kẹt](/du-lich/2026/10/11/chay-xe-mot-vong-ho-tay-lo-trinh-diem-dung-va-doan-de-ket/) để hình dung Từ Hoa nằm ở góc nào của vòng hồ.
 
 ## Những đoạn nên đi chậm trên phố ven hồ
 
@@ -64,7 +64,7 @@ Nguyên tắc chung: xe phải ở nơi có người trông hoặc ở chỗ đ�
 3. **Không chắn cổng nhà dân, cổng chùa.** Một chiếc xe đỗ lệch cũng đủ khiến ô tô hay xe cứu hỏa khó vào.
 4. **Dừng chụp nhanh thì tấp sát lề ở đoạn thẳng.** Bật xi nhan, tắt máy nếu xuống xe, không dừng ngay trên khúc cua.
 
-Vào chùa Kim Liên nên mặc kín vai, kín gối, nói nhỏ, không chụp ảnh trong chính điện khi có người đang lễ. Muốn biết thêm cách gửi xe dọc bờ hồ, xem bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/).
+Vào chùa Kim Liên nên mặc kín vai, kín gối, nói nhỏ, không chụp ảnh trong chính điện khi có người đang lễ. Muốn biết thêm cách gửi xe dọc bờ hồ, xem bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/).
 
 ## Một buổi chiều gợi ý quanh Nghi Tàm
 

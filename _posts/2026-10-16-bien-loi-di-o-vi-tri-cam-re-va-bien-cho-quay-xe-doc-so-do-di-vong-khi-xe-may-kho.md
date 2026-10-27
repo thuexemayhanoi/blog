@@ -76,7 +76,7 @@ Theo khoản 4 Điều 15 Luật Trật tự, an toàn giao thông đường b�
 4. Đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất.
 5. Trên đường cao tốc và trên đường một chiều.
 
-Các trường hợp này có ngoại lệ khi có hiệu lệnh của người điều khiển giao thông hoặc chỉ dẫn của biển báo hiệu tạm thời. Khoản 2 cùng điều yêu cầu trước khi chuyển hướng phải quan sát, giảm tốc độ, có tín hiệu báo hướng và chỉ chuyển hướng khi bảo đảm an toàn. Vạch liền giữa đường cũng không được cắt ngang để quay; xem bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-uong-xe-may-phai-i-the-nao/).
+Các trường hợp này có ngoại lệ khi có hiệu lệnh của người điều khiển giao thông hoặc chỉ dẫn của biển báo hiệu tạm thời. Khoản 2 cùng điều yêu cầu trước khi chuyển hướng phải quan sát, giảm tốc độ, có tín hiệu báo hướng và chỉ chuyển hướng khi bảo đảm an toàn. Vạch liền giữa đường cũng không được cắt ngang để quay; xem bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-duong-xe-may-phai-di-the-nao/).
 
 Với khách nhận xe ở Long Biên rồi qua sông vào nội thành, lỗi hay gặp là định quay đầu ngay ở đầu cầu khi đi nhầm hướng. Hãy đi tiếp đến nút giao hoặc chỗ quay xe gần nhất.
 

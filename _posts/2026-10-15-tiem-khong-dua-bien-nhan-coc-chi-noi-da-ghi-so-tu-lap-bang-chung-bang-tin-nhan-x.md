@@ -56,13 +56,13 @@ Cách đề nghị cũng quan trọng. Thay vì nói "tiệm phải đưa biên 
 - **Chụp đồng hồ xăng và đồng hồ km** khi đã bật khóa.
 - **Chụp mặt tiền tiệm** có biển hiệu, số nhà, để sau này đối chiếu đúng địa điểm.
 
-Nếu tiện, quay một đoạn video ngắn quanh xe thay cho nhiều ảnh rời. Cách đếm tiền và chụp lại khi đặt cọc tiền mặt được nói kỹ trong bài [đặt cọc xe máy bằng tiền mặt: đếm và chụp lại thế nào](/thue-xe/2026/10/11/at-coc-xe-may-bang-tien-mat-em-va-chup-lai-the-nao/).
+Nếu tiện, quay một đoạn video ngắn quanh xe thay cho nhiều ảnh rời. Cách đếm tiền và chụp lại khi đặt cọc tiền mặt được nói kỹ trong bài [đặt cọc xe máy bằng tiền mặt: đếm và chụp lại thế nào](/thue-xe/2026/10/11/dat-coc-xe-may-bang-tien-mat-dem-va-chup-lai-the-nao/).
 
 ## Chuyển khoản có nội dung rõ thay vì đưa tiền mặt
 
 Nếu tiệm nhận chuyển khoản, đây là cách để lại dấu vết rõ nhất mà không cần ai viết giấy. Lịch sử giao dịch trong ứng dụng ngân hàng ghi lại số tiền, thời gian, tên tài khoản nhận. Điều bạn cần làm là ghi nội dung chuyển khoản đủ ý, ví dụ "coc thue xe bien so [biển số] ngay [ngày]", thay vì để trống hoặc ghi tên mình.
 
-Đọc to tên chủ tài khoản để người ở quầy xác nhận trước khi chuyển, rồi gửi ảnh giao dịch thành công vào cuộc trò chuyện với tiệm. Những bằng chứng nên giữ khi đặt cọc bằng chuyển khoản có trong bài [đặt cọc thuê xe bằng chuyển khoản giữ lại bằng chứng nào](/thue-xe/2026/10/01/at-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/).
+Đọc to tên chủ tài khoản để người ở quầy xác nhận trước khi chuyển, rồi gửi ảnh giao dịch thành công vào cuộc trò chuyện với tiệm. Những bằng chứng nên giữ khi đặt cọc bằng chuyển khoản có trong bài [đặt cọc thuê xe bằng chuyển khoản giữ lại bằng chứng nào](/thue-xe/2026/10/01/dat-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/).
 
 ## Nếu tiệm ngại trả lời tin nhắn
 

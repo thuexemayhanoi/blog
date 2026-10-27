@@ -41,7 +41,7 @@ Với việc chở con kèm đồ thi đấu, xe ga có cốp và sàn để ch�
 
 ### Mũ bảo hiểm cho con là việc đầu tiên
 
-Con ngồi sau phải đội mũ bảo hiểm vừa đầu và cài quai đúng cách trên mọi chặng, kể cả quãng ngắn từ chỗ ở ra sân. Khi nhận xe, nhờ tiệm đưa mũ cỡ nhỏ để con thử ngay tại chỗ. Cách chọn mũ cho trẻ được nói kỹ ở bài [chọn mũ bảo hiểm cho trẻ đi cùng trên xe máy thuê](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-i-cung-tren-xe-may-thue/).
+Con ngồi sau phải đội mũ bảo hiểm vừa đầu và cài quai đúng cách trên mọi chặng, kể cả quãng ngắn từ chỗ ở ra sân. Khi nhận xe, nhờ tiệm đưa mũ cỡ nhỏ để con thử ngay tại chỗ. Cách chọn mũ cho trẻ được nói kỹ ở bài [chọn mũ bảo hiểm cho trẻ đi cùng trên xe máy thuê](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-di-cung-tren-xe-may-thue/).
 
 ### Dụng cụ thể thao: gọn, thấp và không để con ôm vướng
 
@@ -51,7 +51,7 @@ Con ngồi sau phải đội mũ bảo hiểm vừa đầu và cài quai đúng 
 2. Túi lớn hơn đặt ở sàn để chân, móc quai vào móc treo cho khỏi trượt.
 3. Dụng cụ dài hoặc cồng kềnh, đừng để chìa ra hai bên xe hay bắt con ôm vắt ngang. Nếu không gọn được, gửi theo xe của đội hoặc để lại chỗ ở.
 
-Cách đeo và buộc túi khi đi đường xa có thêm ở bài [đeo ba lô khi chạy xe dài hay buộc sau](/ky-nang/2026-09-29/eo-ba-lo-khi-chay-xe-dai-hay-buoc-sau/).
+Cách đeo và buộc túi khi đi đường xa có thêm ở bài [đeo ba lô khi chạy xe dài hay buộc sau](/ky-nang/2026-09-29/deo-ba-lo-khi-chay-xe-dai-hay-buoc-sau/).
 
 ## Ngày thi đấu: đi sớm và gửi xe ở nhà thi đấu
 

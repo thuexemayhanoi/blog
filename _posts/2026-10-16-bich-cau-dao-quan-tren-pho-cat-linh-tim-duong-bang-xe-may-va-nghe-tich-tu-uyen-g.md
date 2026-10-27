@@ -79,7 +79,7 @@ Bích Câu nhỏ, xem kỹ cũng chỉ chừng nửa giờ, nên ghép thêm đi
 - **Văn Miếu – Quốc Tử Giám buổi sáng,** sang Bích Câu trước trưa khi trời còn mát.
 - **Bảo tàng Mỹ thuật Việt Nam** trên phố Nguyễn Thái Học, rất gần Văn Miếu; thêm gợi ý ở bài [ghé bảo tàng trong trung tâm Hà Nội bằng xe máy](/du-lich/2026/10/10/ghe-bao-tang-trong-trung-tam-ha-noi-bang-xe-may/).
 - **Khu Cột Cờ buổi chiều,** dừng xe theo hướng dẫn trong bài [vườn hoa Lênin và Đài tưởng niệm Bắc Sơn](/du-lich/2026/10/16/vuon-hoa-lenin-va-dai-tuong-niem-bac-son-dung-xe-may-o-dau-khi-dao-quanh-khu-cot/).
-- Muốn nối thành cả ngày, tham khảo [một ngày ở nội đô Hà Nội bằng xe máy](/du-lich/2026/10/11/mot-ngay-o-noi-o-ha-noi-bang-xe-may-lich-trinh-tu-sang-en-toi/).
+- Muốn nối thành cả ngày, tham khảo [một ngày ở nội đô Hà Nội bằng xe máy](/du-lich/2026/10/11/mot-ngay-o-noi-do-ha-noi-bang-xe-may-lich-trinh-tu-sang-den-toi/).
 
 ## Thuê xe ở Long Biên để đi di tích nội thành
 

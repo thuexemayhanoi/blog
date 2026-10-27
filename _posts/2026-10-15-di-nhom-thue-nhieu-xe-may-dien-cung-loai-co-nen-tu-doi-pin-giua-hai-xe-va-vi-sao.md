@@ -35,7 +35,7 @@ Hướng dẫn của nhà sản xuất là tài liệu mà tiệm cho thuê hay 
 
 Cùng khuyến cáo nêu ắc quy, pin có dấu hiệu phù, nứt thì thay mới, và không sạc khi thiết bị sạc hoặc phương tiện gặp lỗi. Nếu một xe sắp hết pin vì pin có vấn đề, mang pin đó sang xe kia chỉ chuyển rủi ro.
 
-Hãy nhìn pin trước khi đổi: có phồng, nứt, nóng bất thường hay có mùi lạ không. Bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ: dừng dùng và làm gì](/xe-may/2026/10/11/pin-xe-ien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/) nói thêm cách xử lý khi gặp dấu hiệu này.
+Hãy nhìn pin trước khi đổi: có phồng, nứt, nóng bất thường hay có mùi lạ không. Bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ: dừng dùng và làm gì](/xe-may/2026/10/11/pin-xe-dien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/) nói thêm cách xử lý khi gặp dấu hiệu này.
 
 ## Pin vừa chạy xong thì còn nóng: chờ nguội trước khi sạc hoặc đổi
 
@@ -53,13 +53,13 @@ Bài [trả xe máy điện thuê: mức pin, cục sạc và dây sạc cần b
 
 Đây là gợi ý thực tế. Nếu một xe sắp hết pin, bạn có thể chia hành lý và người sang xe còn pin, đi chậm lại, hoặc dừng sạc ở chỗ an toàn. Hãy nhắn tiệm xin hướng dẫn, thay vì tự tháo đổi pin ở ven đường.
 
-Nếu xe của tiệm hỗ trợ đổi pin tại trạm, hãy hỏi tiệm. Bài [đổi pin xe máy điện thuê giữa chuyến: quy trình và chi phí](/xe-may/2026/10/11/oi-pin-xe-may-ien-thue-giua-chuyen-quy-trinh-va-chi-phi/) nói về chuyện đổi pin do tiệm hỗ trợ. Bài hôm nay không nêu chi phí.
+Nếu xe của tiệm hỗ trợ đổi pin tại trạm, hãy hỏi tiệm. Bài [đổi pin xe máy điện thuê giữa chuyến: quy trình và chi phí](/xe-may/2026/10/11/doi-pin-xe-may-dien-thue-giua-chuyen-quy-trinh-va-chi-phi/) nói về chuyện đổi pin do tiệm hỗ trợ. Bài hôm nay không nêu chi phí.
 
 ## Nếu pin tháo rời: tháo đúng cách và đặt vào đúng chỗ
 
 Bài không biết xe của bạn có pin tháo rời hay không. Nếu có, tiệm thường chỉ dẫn cách tháo và lắp. Hãy làm theo chỉ dẫn đó, tắt nguồn xe trước khi tháo, không dùng lực mạnh. Bài VOV ngày 07/08/2026 dẫn lời cán bộ Cảnh sát PCCC Hà Nội nêu không tác động lực mạnh vào pin.
 
-Bài [pin tháo rời hay pin cố định: chọn xe máy điện nào khi thuê ở Hà Nội](/xe-may/2026/10/11/pin-thao-roi-hay-pin-co-inh-chon-xe-may-ien-nao-khi-thue-o-ha-noi/) nói thêm về hai loại pin. Bài hôm nay không hướng dẫn kỹ thuật tháo lắp.
+Bài [pin tháo rời hay pin cố định: chọn xe máy điện nào khi thuê ở Hà Nội](/xe-may/2026/10/11/pin-thao-roi-hay-pin-co-dinh-chon-xe-may-dien-nao-khi-thue-o-ha-noi/) nói thêm về hai loại pin. Bài hôm nay không hướng dẫn kỹ thuật tháo lắp.
 
 ## Xe thuê: nhắn tiệm trước khi đổi, chụp ảnh nếu đã đổi
 

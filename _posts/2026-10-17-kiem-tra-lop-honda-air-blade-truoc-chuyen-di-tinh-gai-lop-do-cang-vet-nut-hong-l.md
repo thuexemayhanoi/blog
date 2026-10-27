@@ -32,7 +32,7 @@ Tài liệu kiểm tra xe trước khi đi của Honda Việt Nam cũng nhắc t
 
 Trong rãnh gai lốp có những gờ nhỏ gọi là dấu chỉ thị độ mòn gai lốp, viết tắt TWI. Khi mặt gai mòn tới ngang gờ này, sách hướng dẫn yêu cầu thay lốp ngay. Theo bảng thông số trong sách, với Air Blade 160, độ sâu gai tối thiểu là 1,5 mm cho lốp trước và 2,0 mm cho lốp sau.
 
-Cách xem nhanh: dựng xe chân chống giữa, xoay bánh từ từ, nhìn dọc rãnh gai ở giữa mặt lốp. Gai mòn sát dấu chỉ thị, hoặc mặt lốp bóng phẳng ở giữa, là lúc nên báo tiệm đổi xe hay thay lốp trước khi đi xa. Đi đường đèo, đường ướt với lốp mòn rất dễ trượt. Thêm về tuổi lốp có ở bài [lốp xe máy bao nhiêu tuổi: đọc mã ngày sản xuất trên hông lốp](/xe-may/2026/10/11/lop-xe-may-bao-nhieu-tuoi-oc-ma-ngay-san-xuat-tren-hong-lop/ "Lốp xe máy bao nhiêu tuổi").
+Cách xem nhanh: dựng xe chân chống giữa, xoay bánh từ từ, nhìn dọc rãnh gai ở giữa mặt lốp. Gai mòn sát dấu chỉ thị, hoặc mặt lốp bóng phẳng ở giữa, là lúc nên báo tiệm đổi xe hay thay lốp trước khi đi xa. Đi đường đèo, đường ướt với lốp mòn rất dễ trượt. Thêm về tuổi lốp có ở bài [lốp xe máy bao nhiêu tuổi: đọc mã ngày sản xuất trên hông lốp](/xe-may/2026/10/11/lop-xe-may-bao-nhieu-tuoi-doc-ma-ngay-san-xuat-tren-hong-lop/ "Lốp xe máy bao nhiêu tuổi").
 
 ## Độ căng: đo khi lốp nguội
 
@@ -56,7 +56,7 @@ Lốp không săm dính đinh thường không xì hơi ngay. VietNamNet khuyên
 - Sỏi nhỏ, mảnh vụn kẹt trong rãnh gai thì gỡ ra, như tài liệu của Honda Việt Nam hướng dẫn.
 - Đinh, vít đã cắm sâu vào lốp thì để nguyên, báo tiệm trước khi đi.
 
-Sách hướng dẫn ghi vá lốp cần dụng cụ đặc biệt và tay nghề, khuyến cáo để cửa hàng Honda ủy nhiệm làm. Lỗ nhỏ có thể sửa khẩn cấp bằng bộ dụng cụ vá lốp không săm theo hướng dẫn của bộ dụng cụ. Sau khi vá tạm, lái thật chậm, không quá 50 km/h, và thay lốp càng sớm càng tốt. Theo VietNamNet, vá dùi chỉ hợp với lỗ nhỏ ở giữa mặt lốp và là giải pháp tạm thời; muốn dùng lâu nên vá trong. So sánh các kiểu vá có ở bài [lốp không săm bị đinh: vá dùi, vá nấm khác gì](/xe-may/2026/10/11/lop-khong-sam-bi-inh-va-dui-va-nam-khac-gi-va-khi-nao-phai-thay-lop/ "Lốp không săm bị đinh: vá dùi, vá nấm"), còn khi thấy đinh mà lốp chưa xẹp, đọc bài [đinh ghim trong lốp xe thuê](/hoi-dap/2026/10/11/dinh-ghim-trong-lop-xe-thue-ma-lop-chua-xep-co-nen-rut-ra-khong/ "Đinh ghim trong lốp xe thuê").
+Sách hướng dẫn ghi vá lốp cần dụng cụ đặc biệt và tay nghề, khuyến cáo để cửa hàng Honda ủy nhiệm làm. Lỗ nhỏ có thể sửa khẩn cấp bằng bộ dụng cụ vá lốp không săm theo hướng dẫn của bộ dụng cụ. Sau khi vá tạm, lái thật chậm, không quá 50 km/h, và thay lốp càng sớm càng tốt. Theo VietNamNet, vá dùi chỉ hợp với lỗ nhỏ ở giữa mặt lốp và là giải pháp tạm thời; muốn dùng lâu nên vá trong. So sánh các kiểu vá có ở bài [lốp không săm bị đinh: vá dùi, vá nấm khác gì](/xe-may/2026/10/11/lop-khong-sam-bi-dinh-va-dui-va-nam-khac-gi-va-khi-nao-phai-thay-lop/ "Lốp không săm bị đinh: vá dùi, vá nấm"), còn khi thấy đinh mà lốp chưa xẹp, đọc bài [đinh ghim trong lốp xe thuê](/hoi-dap/2026/10/11/dinh-ghim-trong-lop-xe-thue-ma-lop-chua-xep-co-nen-rut-ra-khong/ "Đinh ghim trong lốp xe thuê").
 
 ## Thay lốp: để tiệm quyết định
 

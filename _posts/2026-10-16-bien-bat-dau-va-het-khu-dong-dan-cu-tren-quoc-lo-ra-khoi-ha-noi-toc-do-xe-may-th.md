@@ -50,7 +50,7 @@ Hai lưu ý thêm. Xe gắn máy loại 50cc chạy tối đa 40 km/h ở mọi 
 
 Qua R.421, các mức trong khu đông dân cư hết hiệu lực. Ngoài khu vực đông dân cư, Thông tư 38/2024/TT-BGTVT cho xe mô tô tối đa 70 km/h trên đường đôi hoặc đường một chiều từ hai làn xe cơ giới trở lên, 60 km/h trên đường hai chiều hoặc đường một chiều một làn.
 
-Hết khu đông dân cư không có nghĩa là vặn ga lên ngay 70 km/h. Hãy xem đoạn phía trước là đường đôi hay hai chiều, có biển P.127 nào không; trên quốc lộ hai chiều, trần của xe mô tô chỉ là 60 km/h. Các biển cảnh báo khúc cua, đoạn dốc hay giao nhau trên đường trường được giải thích ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-uong-truong/).
+Hết khu đông dân cư không có nghĩa là vặn ga lên ngay 70 km/h. Hãy xem đoạn phía trước là đường đôi hay hai chiều, có biển P.127 nào không; trên quốc lộ hai chiều, trần của xe mô tô chỉ là 60 km/h. Các biển cảnh báo khúc cua, đoạn dốc hay giao nhau trên đường trường được giải thích ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-duong-truong/).
 
 ## Biển hết khu đông dân cư trên các quốc lộ ra khỏi Hà Nội
 

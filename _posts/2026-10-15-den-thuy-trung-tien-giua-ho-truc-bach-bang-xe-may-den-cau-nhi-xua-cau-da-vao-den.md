@@ -41,7 +41,7 @@ Bài không đánh giá giá trị kiến trúc; hãy xem biển giới thiệu 
 
 Một nguồn ghi từ đường Thanh Niên đi qua một cầu đá vòng cung gồm năm nhịp rồi tới cổng tam quan của đền. Cầu dẫn thẳng vào đền, nên bạn sẽ phải đi bộ đoạn này. Bài không xác minh chỗ dừng xe máy gần cổng; không có nguồn nói rõ cho khách để xe ở đâu.
 
-Đường Thanh Niên có nhiều xe, nên đừng dừng giữa đường để chụp ảnh hay chờ người. Hãy đỗ ở chỗ được phép và có người trông rồi đi bộ tới. Bài [đi xe máy qua đường Thanh Niên và hồ Trúc Bạch: vòng đi và gửi xe](/du-lich/2026/10/04/i-xe-may-qua-uong-thanh-nien-va-ho-truc-bach-vong-i-va-gui-xe/) nói thêm về vòng đi và chỗ gửi. Khóa cổ, rút chìa và mang đồ giá trị theo người.
+Đường Thanh Niên có nhiều xe, nên đừng dừng giữa đường để chụp ảnh hay chờ người. Hãy đỗ ở chỗ được phép và có người trông rồi đi bộ tới. Bài [đi xe máy qua đường Thanh Niên và hồ Trúc Bạch: vòng đi và gửi xe](/du-lich/2026/10/04/di-xe-may-qua-duong-thanh-nien-va-ho-truc-bach-vong-di-va-gui-xe/) nói thêm về vòng đi và chỗ gửi. Khóa cổ, rút chìa và mang đồ giá trị theo người.
 
 ## Giờ mở cửa và vé: chưa xác minh
 

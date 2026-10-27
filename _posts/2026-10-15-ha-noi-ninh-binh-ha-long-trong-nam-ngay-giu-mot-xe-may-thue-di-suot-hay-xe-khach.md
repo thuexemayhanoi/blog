@@ -65,7 +65,7 @@ Cột xe khách gồm vé từng chặng của từng người, cộng tiền th
 
 **Người quen chạy đường dài, thích ghé điểm lẻ:** giữ một xe, chia chặng và chừa ngày đệm. **Người ít ra khỏi nội đô, muốn ngày tham quan nhiều hơn ngày di chuyển:** xe khách nối chặng hợp hơn. **Hai người, nhiều hành lý:** nghiêng về xe khách.
 
-Một cách ghép: thuê xe vài ngày cho Hà Nội và Ninh Bình, trả xe ở Long Biên rồi đi xe khách tới Hạ Long, nơi ngày đi tàu thăm vịnh không cần xe. Nếu định giữ xe thuê lúc đi vắng, hãy đọc [giữ xe thuê khi đi xa hai ngày bằng tàu hoặc xe khách giữa tuần thuê: xe máy để ở đâu](/thue-xe/2026/10/11/i-tinh-khac-hai-ngay-bang-tau-hoac-xe-khach-giua-tuan-thue-xe-may-e-o-au/). Bài [đi Sa Pa từ Hà Nội: chạy xe máy thuê suốt chặng hay xe giường nằm](/xe-may/2026/10/15/di-sa-pa-tu-ha-noi-chay-xe-may-thue-suot-chang-hay-di-xe-giuong-nam-roi-thue-xe/) cùng cách nghĩ ấy cho đường núi.
+Một cách ghép: thuê xe vài ngày cho Hà Nội và Ninh Bình, trả xe ở Long Biên rồi đi xe khách tới Hạ Long, nơi ngày đi tàu thăm vịnh không cần xe. Nếu định giữ xe thuê lúc đi vắng, hãy đọc [giữ xe thuê khi đi xa hai ngày bằng tàu hoặc xe khách giữa tuần thuê: xe máy để ở đâu](/thue-xe/2026/10/11/di-tinh-khac-hai-ngay-bang-tau-hoac-xe-khach-giua-tuan-thue-xe-may-de-o-dau/). Bài [đi Sa Pa từ Hà Nội: chạy xe máy thuê suốt chặng hay xe giường nằm](/xe-may/2026/10/15/di-sa-pa-tu-ha-noi-chay-xe-may-thue-suot-chang-hay-di-xe-giuong-nam-roi-thue-xe/) cùng cách nghĩ ấy cho đường núi.
 
 ## Xác nhận với cửa hàng trước khi chốt lịch
 

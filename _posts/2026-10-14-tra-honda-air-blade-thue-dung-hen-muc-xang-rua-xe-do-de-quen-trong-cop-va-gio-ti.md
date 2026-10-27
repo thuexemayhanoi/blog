@@ -37,7 +37,7 @@ Cách làm thực tế với Air Blade:
 - **Đổ xăng ở cây gần tiệm, không phải cây gần chỗ ở.** Đổ quá sớm rồi chạy thêm mấy chục phút qua cầu thì mức xăng lại tụt. Trên trục Nguyễn Văn Cừ và các phố quanh Bồ Đề có cây xăng ven đường, đổ ở đó rồi đi thẳng về tiệm là gọn nhất.
 - **Đổ vừa đủ theo thỏa thuận.** Không cần đổ tràn bình nếu tiệm không yêu cầu, cũng đừng để kim sát vạch đỏ khiến xe chết máy giữa đường.
 
-Nếu chưa quen tìm nắp bình xăng trên Air Blade, bài hướng dẫn [đổ xăng cho xe tay ga thuê](/xe-may/2026/10/11/o-xang-cho-xe-tay-ga-thue-nap-xang-o-au-va-thao-tac-tai-tram/) có các bước thao tác tại trạm.
+Nếu chưa quen tìm nắp bình xăng trên Air Blade, bài hướng dẫn [đổ xăng cho xe tay ga thuê](/xe-may/2026/10/11/do-xang-cho-xe-tay-ga-thue-nap-xang-o-dau-va-thao-tac-tai-tram/) có các bước thao tác tại trạm.
 
 ## Có cần rửa xe trước khi trả không?
 
@@ -60,7 +60,7 @@ Cốp Air Blade khá sâu, đủ chứa mũ bảo hiểm và một túi đồ nh
 - Hóa đơn, vé tham quan, giấy tờ cá nhân kẹp trong túi nhựa.
 - Áo mưa của chính bạn, dễ nhầm với áo mưa của tiệm.
 
-Ngoài cốp, kiểm tra cả hộc chứa đồ ở yếm trước và móc treo dưới cổ xe. Cách sắp đồ trong cốp cho hợp lý suốt thời gian thuê được nói ở bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-uoc-gi-va-o-nao-nen-e-cho-khac/). Còn nếu thuê dài ngày và muốn một danh sách soát đồ tổng quát, xem thêm bài [ngày trả xe sau một tuần thuê](/thue-xe/2026/10/14/ngay-tra-xe-sau-mot-tuan-thue-do-xang-lau-xe-va-soat-lai-do-de-quen-trong-cop/).
+Ngoài cốp, kiểm tra cả hộc chứa đồ ở yếm trước và móc treo dưới cổ xe. Cách sắp đồ trong cốp cho hợp lý suốt thời gian thuê được nói ở bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-duoc-gi-va-do-nao-nen-de-cho-khac/). Còn nếu thuê dài ngày và muốn một danh sách soát đồ tổng quát, xem thêm bài [ngày trả xe sau một tuần thuê](/thue-xe/2026/10/14/ngay-tra-xe-sau-mot-tuan-thue-do-xang-lau-xe-va-soat-lai-do-de-quen-trong-cop/).
 
 ## Remote, chìa khóa và đồ đi kèm
 

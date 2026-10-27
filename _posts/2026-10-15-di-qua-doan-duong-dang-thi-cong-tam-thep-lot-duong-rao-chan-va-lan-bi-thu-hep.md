@@ -59,7 +59,7 @@ Ra khỏi tấm thép, bạn thường gặp tiếp một vệt đất cát ho�
 
 - Ngày nắng, đất khô thành bụi mịn, hạt cát lăn như bi nhỏ dưới lốp. Đi chậm, phanh nhẹ bằng cả hai phanh, tránh phanh gấp.
 - Ngày mưa, đất thành bùn nhão. Coi cả đoạn như mặt sàn vừa lau: không phanh gấp, không nghiêng, giữ khoảng cách gấp đôi.
-- Đá dăm vương vãi có thể văng lên khi xe phía trước cán qua. Hạ kính mũ hoặc đeo kính mắt, không bám đuôi xe ben. Cách xử lý khi bụi che mắt có trong bài [đi sau xe tải hít bụi và chắn tầm nhìn](/ky-nang/2026/10/09/i-sau-xe-tai-hit-bui-va-chan-tam-nhin-xu-ly-sao/).
+- Đá dăm vương vãi có thể văng lên khi xe phía trước cán qua. Hạ kính mũ hoặc đeo kính mắt, không bám đuôi xe ben. Cách xử lý khi bụi che mắt có trong bài [đi sau xe tải hít bụi và chắn tầm nhìn](/ky-nang/2026/10/09/di-sau-xe-tai-hit-bui-va-chan-tam-nhin-xu-ly-sao/).
 
 ## Ra khỏi đoạn rào: đừng tăng ga ngay
 
@@ -71,7 +71,7 @@ Người đi làm nên đổi lối theo tình trạng công trường. Chẳng 
 
 Nếu bạn thuê xe và lần đầu đi qua công trường trên phố Hà Nội, hãy kiểm tra phanh và độ mòn lốp trước khi đi, vì lốp mòn bám rất kém trên thép và đất cát. Sau khi qua đoạn đường xấu mà thấy lốp non hơi hay tay lái lệch, dừng ở chỗ an toàn ngoài rào rồi gọi tiệm theo số 0942467674 để được hướng dẫn, đừng cố chạy tiếp.
 
-Bài [đi xe máy qua đoạn thi công đường có rào chắn tạm](/ky-nang/2026/10/11/i-xe-may-qua-oan-thi-cong-uong-co-rao-chan-tam/) nói về cách đọc biển báo và giữ khoảng cách với máy thi công; bài này tập trung vào mặt đường và làn hẹp mà bánh xe của bạn thật sự lăn qua.
+Bài [đi xe máy qua đoạn thi công đường có rào chắn tạm](/ky-nang/2026/10/11/di-xe-may-qua-doan-thi-cong-duong-co-rao-chan-tam/) nói về cách đọc biển báo và giữ khoảng cách với máy thi công; bài này tập trung vào mặt đường và làn hẹp mà bánh xe của bạn thật sự lăn qua.
 
 ## Tóm lại
 

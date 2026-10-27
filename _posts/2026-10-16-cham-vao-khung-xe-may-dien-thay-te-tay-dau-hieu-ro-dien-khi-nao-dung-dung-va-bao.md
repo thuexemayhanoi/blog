@@ -68,7 +68,7 @@ VinFast dặn không tự sửa pin khi có sự cố, không tự mở, tháo p
 - Sau khi đi, chờ pin nguội rồi mới sạc. Cục Cảnh sát PCCC khuyên chờ khoảng 20 phút; hướng dẫn VinFast Evo nói nếu pin từ 45 độ C trở lên thì nên chờ khoảng một giờ.
 - Không sạc qua đêm khi không có người trông, không để bộ sạc trong cốp khi đang sạc.
 
-Xe vừa đi mưa về thì chờ bao lâu mới sạc có ở bài [xe máy điện vừa đi mưa về có sạc ngay được không](/ky-nang/2026/10/11/xe-may-dien-vua-di-mua-ve-co-sac-ngay-duoc-khong-va-nen-cho-bao-lau/ "Xe máy điện vừa đi mưa về có sạc ngay được không"). Khi sạc ở nơi công cộng, xem thêm bài [sạc pin xe máy điện ở trạm công cộng](/xe-may/2026/10/10/sac-pin-xe-may-ien-o-tram-cong-cong-luu-y-an-toan/ "Sạc pin xe máy điện ở trạm công cộng"), còn chuyện chạy xe lúc trời mưa có ở bài [xe máy điện thuê chạy lúc mưa có an toàn không](/xe-may/2026/10/07/xe-may-ien-thue-chay-luc-mua-co-an-toan-khong/ "Xe máy điện thuê chạy lúc mưa có an toàn không").
+Xe vừa đi mưa về thì chờ bao lâu mới sạc có ở bài [xe máy điện vừa đi mưa về có sạc ngay được không](/ky-nang/2026/10/11/xe-may-dien-vua-di-mua-ve-co-sac-ngay-duoc-khong-va-nen-cho-bao-lau/ "Xe máy điện vừa đi mưa về có sạc ngay được không"). Khi sạc ở nơi công cộng, xem thêm bài [sạc pin xe máy điện ở trạm công cộng](/xe-may/2026/10/10/sac-pin-xe-may-dien-o-tram-cong-cong-luu-y-an-toan/ "Sạc pin xe máy điện ở trạm công cộng"), còn chuyện chạy xe lúc trời mưa có ở bài [xe máy điện thuê chạy lúc mưa có an toàn không](/xe-may/2026/10/07/xe-may-dien-thue-chay-luc-mua-co-an-toan-khong/ "Xe máy điện thuê chạy lúc mưa có an toàn không").
 
 ## Báo chủ xe thế nào
 

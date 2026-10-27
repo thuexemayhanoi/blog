@@ -67,7 +67,7 @@ Có hai kiểu chỗ dừng nên ưu tiên:
 - **Bãi trông giữ xe có vé.** Quanh Hồ Tây có những điểm trông giữ xe phát vé hoặc thẻ. Khi gửi, hỏi rõ giá vé và giờ bãi đóng cửa ngay lúc nhận vé, vì mỗi điểm một khác. Cất vé cẩn thận, chụp ảnh lại nếu là vé giấy.
 - **Quán cà phê, quán ăn có chỗ để xe.** Nhiều quán dọc Xuân Diệu, Quảng An hay đường Thanh Niên có người trông xe cho khách. Gọi một đồ uống, chọn bàn nhìn ra hồ, là cách vừa nghỉ chân vừa yên tâm về xe.
 
-Bài [gửi xe khi đi dạo bộ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/) có thêm gợi ý nếu bạn muốn để xe lại rồi đi bộ một đoạn dọc bờ hồ. Đừng gửi xe ở chỗ không có người trông chỉ vì thấy nhiều xe khác đang đậu ở đó.
+Bài [gửi xe khi đi dạo bộ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/) có thêm gợi ý nếu bạn muốn để xe lại rồi đi bộ một đoạn dọc bờ hồ. Đừng gửi xe ở chỗ không có người trông chỉ vì thấy nhiều xe khác đang đậu ở đó.
 
 Trước khi rời xe, rút chìa hoặc tắt hẳn khóa thông minh, khóa cổ, và đừng để mũ bảo hiểm, áo khoác hay giấy tờ trong cốp nếu không cần.
 

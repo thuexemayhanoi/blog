@@ -47,7 +47,7 @@ Thảm yoga là món đồ khiến nhiều người lúng túng nhất. Thảm c
 3. **Không chở quá số đồ an toàn.** Một hai thảm, một túi nhỏ là đủ. Nếu buổi dạy cần nhiều thảm cho cả nhóm, nên nhờ phòng tập hoặc học viên chuẩn bị sẵn tại chỗ.
 4. **Kiểm tra dây trước khi đi.** Lắc thử gói đồ, siết lại nếu thấy lỏng. Qua đoạn xóc thì dừng lại nhìn qua một lần.
 
-Cách buộc đồ dài và cồng kềnh nói chung được hướng dẫn kỹ trong bài [buộc đồ cồng kềnh lên xe máy thuê](/an-toan-phap-ly/2026/10/07/buoc-o-cong-kenh-len-xe-may-thue-the-nao-cho-an-toan/).
+Cách buộc đồ dài và cồng kềnh nói chung được hướng dẫn kỹ trong bài [buộc đồ cồng kềnh lên xe máy thuê](/an-toan-phap-ly/2026/10/07/buoc-do-cong-kenh-len-xe-may-thue-the-nao-cho-an-toan/).
 
 ### PT cá nhân đi dạy tại nhà mang dụng cụ gì
 
@@ -87,7 +87,7 @@ Sau ba, bốn buổi dạy liên tiếp, chân tay mỏi, có khi hơi choáng v
 - Nếu thấy chóng mặt, run tay hoặc díp mắt, đừng lên xe. Nghỉ thêm, hoặc gửi xe lại và về bằng phương tiện khác nếu cần.
 - Không vừa lái vừa trả lời tin nhắn đặt lịch của học viên. Tấp vào lề an toàn rồi mới cầm điện thoại.
 
-Vì sao lái xe khi mệt lại nguy hiểm được giải thích trong bài [chạy xe khi đang mệt hay thiếu ngủ](/ky-nang/2026-09-29-chay-xe-khi-ang-met-hay-thieu-ngu-rui-ro/).
+Vì sao lái xe khi mệt lại nguy hiểm được giải thích trong bài [chạy xe khi đang mệt hay thiếu ngủ](/ky-nang/2026-09-29-chay-xe-khi-dang-met-hay-thieu-ngu-rui-ro/).
 
 ## Nhận xe và liên hệ cửa hàng
 

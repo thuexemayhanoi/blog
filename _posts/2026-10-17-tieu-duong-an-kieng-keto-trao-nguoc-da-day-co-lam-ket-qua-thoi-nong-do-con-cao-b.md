@@ -53,7 +53,7 @@ Sau khi đã đề nghị kiểm tra lại, hãy:
 - **Nói rõ tình trạng bệnh, thuốc đang dùng** để cán bộ cân nhắc.
 - **Xem kết quả.** Thông tư 73/2024/TT-BCA, Điều 15, cho phép người bị kiểm tra đề nghị xem kết quả thu được.
 
-Về xét nghiệm máu, Thông tư liên tịch 26/2014/TTLT-BYT-BCA quy định việc xét nghiệm do cơ quan công an yêu cầu. Cục Cảnh sát giao thông cho biết kết quả tự đi xét nghiệm không được chấp nhận. Không đồng ý với quyết định xử phạt thì có quyền khiếu nại hoặc khởi kiện, như bài [không đồng ý quyết định xử phạt nồng độ cồn](/an-toan-phap-ly/2026/10/15/khong-dong-y-quyet-dinh-xu-phat-vi-pham-nong-do-con-khieu-nai-hoac-khoi-kien-the/ "Không đồng ý quyết định xử phạt nồng độ cồn") hướng dẫn. Trình tự đo chung có ở bài [đo nồng độ cồn: quyền và trình tự](/an-toan-phap-ly/2026/09/28/o-nong-o-con-quyen-va-trinh-tu/ "Đo nồng độ cồn: quyền và trình tự").
+Về xét nghiệm máu, Thông tư liên tịch 26/2014/TTLT-BYT-BCA quy định việc xét nghiệm do cơ quan công an yêu cầu. Cục Cảnh sát giao thông cho biết kết quả tự đi xét nghiệm không được chấp nhận. Không đồng ý với quyết định xử phạt thì có quyền khiếu nại hoặc khởi kiện, như bài [không đồng ý quyết định xử phạt nồng độ cồn](/an-toan-phap-ly/2026/10/15/khong-dong-y-quyet-dinh-xu-phat-vi-pham-nong-do-con-khieu-nai-hoac-khoi-kien-the/ "Không đồng ý quyết định xử phạt nồng độ cồn") hướng dẫn. Trình tự đo chung có ở bài [đo nồng độ cồn: quyền và trình tự](/an-toan-phap-ly/2026/09/28/do-nong-do-con-quyen-va-trinh-tu/ "Đo nồng độ cồn: quyền và trình tự").
 
 Nếu đang ăn keto, dùng thuốc tiểu đường hay có bệnh gan, tiêu hóa, hãy hỏi bác sĩ về nguy cơ này. Bài không thay cho lời khuyên y khoa hay tư vấn pháp lý.
 

@@ -80,10 +80,10 @@ Hoa mua ngay tại ruộng thường tươi hơn hoa đã qua nhiều chặng. V
 - **Không cầm hoa bằng tay khi lái.** Một tay ôm hoa, một tay lái là mất khả năng phanh và đánh lái khi cần. Đi hai người thì người ngồi sau ôm bó hoa, giữ chặt bằng hai tay.
 - **Mua nhiều thì chia chuyến hoặc gửi xe chở hàng.** Đừng chất cao quá yên hoặc buộc lủng lẳng hai bên.
 
-Cách chằng buộc cụ thể có ở bài [chở hoa, cây cảnh trên xe máy an toàn](/ky-nang/2026/10/04/cho-hoa-cay-canh-tren-xe-may-an-toan/), còn giới hạn kích thước khi chở đồ có trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/). Đường về vẫn qua tầng dưới cầu Thăng Long; mang hoa sau xe thì chạy chậm hơn lúc đi, nhất là đoạn có gió ngang trên cầu.
+Cách chằng buộc cụ thể có ở bài [chở hoa, cây cảnh trên xe máy an toàn](/ky-nang/2026/10/04/cho-hoa-cay-canh-tren-xe-may-an-toan/), còn giới hạn kích thước khi chở đồ có trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/). Đường về vẫn qua tầng dưới cầu Thăng Long; mang hoa sau xe thì chạy chậm hơn lúc đi, nhất là đoạn có gió ngang trên cầu.
 
 ## Chuẩn bị trước chuyến đi
 
-Kiểm tra lốp, phanh, xăng; mang dây chằng, giấy báo, áo mưa mỏng và nước uống. Ai muốn so với một vùng hoa gần phố hơn có thể đọc thêm về [làng hoa Tây Tựu mùa loa kèn](/du-lich/2026/10/11/lang-hoa-tay-tuu-mua-loa-ken-thang-tu-i-xe-may-buoi-nao-cho-ep/). Nếu thuê xe cho chuyến này, tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa từ 09:00 đến 21:00; giờ và chi phí giao nhận xe cần xác nhận trước khi đặt.
+Kiểm tra lốp, phanh, xăng; mang dây chằng, giấy báo, áo mưa mỏng và nước uống. Ai muốn so với một vùng hoa gần phố hơn có thể đọc thêm về [làng hoa Tây Tựu mùa loa kèn](/du-lich/2026/10/11/lang-hoa-tay-tuu-mua-loa-ken-thang-tu-di-xe-may-buoi-nao-cho-dep/). Nếu thuê xe cho chuyến này, tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa từ 09:00 đến 21:00; giờ và chi phí giao nhận xe cần xác nhận trước khi đặt.
 
 Các điểm đi trong ngày khác có ở chuyên mục [ngoại thành Hà Nội](/du-lich/ngoai-thanh/) và chuyên mục [du lịch](/du-lich/).

@@ -83,7 +83,7 @@ Và thường kéo dài khi:
 
 Vì không thể đoán chính xác buổi trả xe kéo dài bao lâu, nguyên tắc an toàn là chừa thời gian rộng. Hãy tính ngược từ giờ bạn phải có mặt ở sân bay hay bến xe: thời gian di chuyển từ Long Biên đến đó vào khung giờ đông, cộng thời gian chờ phương tiện, rồi cộng thêm một khoảng dư cho buổi trả xe. Đừng xếp buổi trả xe sát nút với giờ ra sân bay.
 
-Nếu lịch rất chặt, cân nhắc trả xe từ tối hôm trước, khi cửa hàng còn mở cửa, rồi đi taxi hoặc xe buýt vào ngày bay. Cũng có thể hỏi cửa hàng về việc giao nhận xe tại nơi ở trong giờ hoạt động; thời gian và chi phí phải xác nhận trước khi đặt. Liên hệ qua số 0942467674 để hẹn giờ cụ thể. Gợi ý chuẩn bị chung khi muốn trả đúng hẹn có trong bài [trả xe máy thuê đúng giờ hẹn](/thue-xe/2026/10/10/tra-xe-may-thue-ung-gio-hen-can-chuan-bi-gi/).
+Nếu lịch rất chặt, cân nhắc trả xe từ tối hôm trước, khi cửa hàng còn mở cửa, rồi đi taxi hoặc xe buýt vào ngày bay. Cũng có thể hỏi cửa hàng về việc giao nhận xe tại nơi ở trong giờ hoạt động; thời gian và chi phí phải xác nhận trước khi đặt. Liên hệ qua số 0942467674 để hẹn giờ cụ thể. Gợi ý chuẩn bị chung khi muốn trả đúng hẹn có trong bài [trả xe máy thuê đúng giờ hẹn](/thue-xe/2026/10/10/tra-xe-may-thue-dung-gio-hen-can-chuan-bi-gi/).
 
 Nếu bạn còn nhớ buổi nhận xe, sẽ thấy buổi trả là phiên bản ngược lại: nhận xe nặng phần giấy tờ và kiểm tra ban đầu, còn trả xe nặng phần đối chiếu. Trình tự lúc nhận được mô tả ở bài [nhận xe máy thuê mất bao lâu](/thue-xe/2026/10/14/nhan-xe-may-thue-mat-bao-lau-cac-buoc-tu-luc-buoc-vao-cua-hang-den-khi-lan-banh/).
 

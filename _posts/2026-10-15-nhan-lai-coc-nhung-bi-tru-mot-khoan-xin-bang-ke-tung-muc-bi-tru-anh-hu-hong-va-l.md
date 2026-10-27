@@ -47,7 +47,7 @@ Nếu tình trạng đã có sẵn trong ảnh hoặc biên bản nhận xe, b�
 
 Một số khoản trừ dựa trên hóa đơn sửa xe thật, một số dựa trên báo giá ước tính, một số là mức tiệm đã ghi sẵn trong hợp đồng. Hãy hỏi tiệm khoản nào thuộc loại nào và xin xem chứng từ nếu có.
 
-Bài không biết tiệm bạn tính theo cách nào và không nêu việc nào tiệm phải làm. Nếu chi phí là ước tính, bạn có thể hỏi khi nào có số thật và cách điều chỉnh nếu thực tế khác ước tính. Hãy ghi lại câu trả lời bằng tin nhắn. Bài về [hoàn tiền cọc khi trả xe máy thuê, kiểm đếm và xác nhận](/thue-xe/2026/10/11/hoan-tien-coc-khi-tra-xe-may-thue-kiem-em-va-xac-nhan/) nói thêm cách kiểm đếm và xác nhận khi nhận lại tiền.
+Bài không biết tiệm bạn tính theo cách nào và không nêu việc nào tiệm phải làm. Nếu chi phí là ước tính, bạn có thể hỏi khi nào có số thật và cách điều chỉnh nếu thực tế khác ước tính. Hãy ghi lại câu trả lời bằng tin nhắn. Bài về [hoàn tiền cọc khi trả xe máy thuê, kiểm đếm và xác nhận](/thue-xe/2026/10/11/hoan-tien-coc-khi-tra-xe-may-thue-kiem-dem-va-xac-nhan/) nói thêm cách kiểm đếm và xác nhận khi nhận lại tiền.
 
 ## Nếu thấy khoản trừ hợp lý: xác nhận và nhận phần còn lại
 

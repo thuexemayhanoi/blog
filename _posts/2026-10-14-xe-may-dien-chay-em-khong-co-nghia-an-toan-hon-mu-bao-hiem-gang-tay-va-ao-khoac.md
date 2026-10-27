@@ -38,7 +38,7 @@ Luật yêu cầu người lái và người ngồi sau xe máy điện đội m
 - **Quai cài chặt dưới cằm.** Quai lỏng thì khi va chạm mũ bật ra trước khi kịp bảo vệ bạn.
 - **Có kính chắn hoặc mang thêm kính.** Bụi, côn trùng và mưa phùn bay vào mắt là lý do nhiều người mất tập trung trên cầu Long Biên hay đường đê.
 
-Loại mũ nửa đầu mỏng như chiếc mũ thời trang treo ở các sạp ven đường thường không đủ. Nếu thuê xe, hãy kiểm tra mũ được giao kèm và đổi chiếc khác nếu thấy lỏng hay vỏ có vết nứt. Tiêu chí kỹ hơn có trong bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/).
+Loại mũ nửa đầu mỏng như chiếc mũ thời trang treo ở các sạp ven đường thường không đủ. Nếu thuê xe, hãy kiểm tra mũ được giao kèm và đổi chiếc khác nếu thấy lỏng hay vỏ có vết nứt. Tiêu chí kỹ hơn có trong bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-khi-di-xe-may-chuan-nao/).
 
 ## Đi xe điện có cần găng tay không
 
@@ -60,13 +60,13 @@ Chọn găng có đầu ngón vừa vặn, đủ mỏng để bạn vẫn cảm 
 
 **Quần dài.** Quần bò hoặc quần vải dày che được đầu gối, chỗ thường chạm đường đầu tiên khi xe đổ nghiêng. Tránh ống quần quá rộng dễ vướng.
 
-**Giày kín.** Dép lê và dép xỏ ngón tuột rất dễ khi bạn chống chân trên mặt đường trơn hay sỏi, và ngón chân trần là phần đầu tiên bị kẹt khi xe đổ. Một đôi giày thể thao buộc dây chắc là lựa chọn hợp lý nhất cho đi phố. Nếu bạn đi xe đạp điện và lo trang phục vướng bàn đạp, xem thêm bài [mặc gì khi đạp xe điện](/xe-may/2026/10/11/mac-gi-khi-ap-xe-ien-vay-dep-le-quan-ong-rong-co-vuong-khong/).
+**Giày kín.** Dép lê và dép xỏ ngón tuột rất dễ khi bạn chống chân trên mặt đường trơn hay sỏi, và ngón chân trần là phần đầu tiên bị kẹt khi xe đổ. Một đôi giày thể thao buộc dây chắc là lựa chọn hợp lý nhất cho đi phố. Nếu bạn đi xe đạp điện và lo trang phục vướng bàn đạp, xem thêm bài [mặc gì khi đạp xe điện](/xe-may/2026/10/11/mac-gi-khi-dap-xe-dien-vay-dep-le-quan-ong-rong-co-vuong-khong/).
 
 ## Xe êm nên người đi bộ không nghe thấy: dùng còi nhẹ
 
 Đồ bảo hộ giảm hậu quả khi có chuyện, còn tránh được chuyện thì phụ thuộc vào việc người khác có biết bạn đang ở đó không. Xe xăng tự "báo" bằng tiếng máy, xe điện thì im lặng. Ở phố Hàng Bông, chợ Long Biên hay các ngõ quanh Văn Miếu, người đi bộ có thể bước ngang trước đầu xe mà không hề quay lại.
 
-Cách xử lý đơn giản là bấm còi nhẹ, ngắn, từ khoảng cách đủ xa. Một tiếng còi ngắn khi còn cách vài thân xe giúp người phía trước có thời gian nhận ra bạn, trong khi bấm dài hoặc bấm sát lưng chỉ khiến họ giật mình và có thể bước sai hướng. Kết hợp với giảm tốc ở đầu ngõ và để ý ánh mắt người đi đường. Bài [báo hiệu cho người đi bộ khi xe điện chạy êm trong ngõ](/xe-may/2026/10/11/xe-ien-chay-em-trong-ngo-nho-bao-hieu-cho-nguoi-i-bo-the-nao/) có ví dụ chi tiết theo từng kiểu ngõ.
+Cách xử lý đơn giản là bấm còi nhẹ, ngắn, từ khoảng cách đủ xa. Một tiếng còi ngắn khi còn cách vài thân xe giúp người phía trước có thời gian nhận ra bạn, trong khi bấm dài hoặc bấm sát lưng chỉ khiến họ giật mình và có thể bước sai hướng. Kết hợp với giảm tốc ở đầu ngõ và để ý ánh mắt người đi đường. Bài [báo hiệu cho người đi bộ khi xe điện chạy êm trong ngõ](/xe-may/2026/10/11/xe-dien-chay-em-trong-ngo-nho-bao-hieu-cho-nguoi-di-bo-the-nao/) có ví dụ chi tiết theo từng kiểu ngõ.
 
 ## Chuẩn bị nhanh trước khi rời chỗ ở
 

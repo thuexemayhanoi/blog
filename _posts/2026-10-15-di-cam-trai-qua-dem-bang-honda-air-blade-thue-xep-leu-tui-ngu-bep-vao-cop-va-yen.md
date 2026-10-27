@@ -31,7 +31,7 @@ Hai người đi một xe nên thống nhất trước: mỗi người một ba 
 
 Nguyên tắc: đồ nặng, nhỏ, dễ vỡ vào cốp; đồ nhẹ, cồng kềnh, mềm buộc phía sau; đồ quý và giấy tờ đeo theo người.
 
-**Vào cốp:** nồi nhỏ xếp lồng nhau với đũa thìa, bật lửa, khăn lau bên trong; đồ ăn khô và chai nước nằm sát đáy; bộ sơ cứu; áo mưa gấp gọn trên cùng để lấy ngay khi trời đổ mưa. Cốp nằm gần khu vực động cơ nên ấm lên sau quãng dài, đừng dồn sô cô la, bơ hay đồ tươi vào đó. Dung tích cốp và món không nên để cốp có trong bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-uoc-gi-va-o-nao-nen-e-cho-khac/).
+**Vào cốp:** nồi nhỏ xếp lồng nhau với đũa thìa, bật lửa, khăn lau bên trong; đồ ăn khô và chai nước nằm sát đáy; bộ sơ cứu; áo mưa gấp gọn trên cùng để lấy ngay khi trời đổ mưa. Cốp nằm gần khu vực động cơ nên ấm lên sau quãng dài, đừng dồn sô cô la, bơ hay đồ tươi vào đó. Dung tích cốp và món không nên để cốp có trong bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-duoc-gi-va-do-nao-nen-de-cho-khac/).
 
 **Buộc phía sau:** lều cuộn chặt trong túi, cọc lều bọc khăn để không đâm thủng túi; hai túi ngủ nén nhỏ trong túi chống nước; tấm trải cuộn tròn.
 

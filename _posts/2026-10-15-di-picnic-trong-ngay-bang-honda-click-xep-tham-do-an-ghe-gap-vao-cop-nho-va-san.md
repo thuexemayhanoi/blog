@@ -47,7 +47,7 @@ Sách Click dặn người lái giữ tay trên tay lái và chân trên sàn đ
 
 Thảm cuộn và ghế gấp là những món cồng kềnh nhất. Hãy buộc chắc vào chỗ buộc phía sau hay vào tay dắt sau bằng dây chun bản rộng, nén chúng gọn và không để thò ra hai bên quá bề ngang của xe. Đừng để chúng che đèn hậu hay biển số.
 
-Kiểm tra lại dây sau vài trăm mét đầu, vì dây có thể chùng. Về quy định chở hàng cồng kềnh, xem bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/); bài này không kết luận pháp lý cho từng trường hợp.
+Kiểm tra lại dây sau vài trăm mét đầu, vì dây có thể chùng. Về quy định chở hàng cồng kềnh, xem bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/); bài này không kết luận pháp lý cho từng trường hợp.
 
 ## Đồ ăn và nước: hộp kín, giữ mát gọn và không để đổ
 

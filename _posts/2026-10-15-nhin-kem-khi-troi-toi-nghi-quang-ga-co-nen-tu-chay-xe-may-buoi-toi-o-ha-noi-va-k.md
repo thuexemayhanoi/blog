@@ -47,7 +47,7 @@ Bài không nêu tiêu chuẩn thị lực cụ thể và không kết luận ng
 
 MedlinePlus khuyên tránh lái xe ban đêm trừ khi được bác sĩ mắt đồng ý. Với người đi xe máy ở Hà Nội, nghĩa là hãy lên lịch đi lại vào ban ngày, tránh những đoạn đường tối như đê, đường vắng và ngõ ít đèn, và đừng nhận chạy xa buổi tối khi chưa khám.
 
-Nếu buộc phải di chuyển buổi tối, hãy nhờ người chở, gọi xe công nghệ hoặc taxi. Nếu bạn thuê xe, hãy chọn lịch trả xe sớm trong ngày thay vì chạy lúc trời tối. Bài [chọn tốc độ theo đoạn đường nhìn thấy: dừng được trong tầm mắt khi đi xe máy](/ky-nang/2026/10/11/chon-toc-o-theo-oan-uong-nhin-thay-dung-uoc-trong-tam-mat-khi-i-xe-may/) cho thấy vì sao tầm nhìn quyết định tốc độ an toàn.
+Nếu buộc phải di chuyển buổi tối, hãy nhờ người chở, gọi xe công nghệ hoặc taxi. Nếu bạn thuê xe, hãy chọn lịch trả xe sớm trong ngày thay vì chạy lúc trời tối. Bài [chọn tốc độ theo đoạn đường nhìn thấy: dừng được trong tầm mắt khi đi xe máy](/ky-nang/2026/10/11/chon-toc-do-theo-doan-duong-nhin-thay-dung-duoc-trong-tam-mat-khi-di-xe-may/) cho thấy vì sao tầm nhìn quyết định tốc độ an toàn.
 
 ## Khi nào nên đi khám mắt: ba mức để tham khảo
 
@@ -61,7 +61,7 @@ Mức thứ ba là lời khuyên thận trọng chung, không trích từ các n
 
 ## Kính cận, đèn xe và gương: những việc bạn tự kiểm tra được
 
-Nếu bạn đã đeo kính, hãy dùng đúng kính đã được chỉnh độ khi đi buổi tối và giữ kính sạch, không xước. Bài [đeo kính cận dưới mũ bảo hiểm khi đi xe máy: chọn kiểu nào](/ky-nang/2026/10/11/eo-kinh-can-duoi-mu-bao-hiem-khi-i-xe-may-chon-kieu-nao/) nói cách chọn kiểu kính hợp với mũ.
+Nếu bạn đã đeo kính, hãy dùng đúng kính đã được chỉnh độ khi đi buổi tối và giữ kính sạch, không xước. Bài [đeo kính cận dưới mũ bảo hiểm khi đi xe máy: chọn kiểu nào](/ky-nang/2026/10/11/deo-kinh-can-duoi-mu-bao-hiem-khi-di-xe-may-chon-kieu-nao/) nói cách chọn kiểu kính hợp với mũ.
 
 Với xe thuê, hãy kiểm tra đèn pha và đèn hậu khi nhận, và hỏi tiệm xe nào có đèn pha sáng rõ. Nếu đèn yếu, báo tiệm trước khi đi. Bài không có dữ kiện về từng xe; đó là điều xác nhận trực tiếp.
 

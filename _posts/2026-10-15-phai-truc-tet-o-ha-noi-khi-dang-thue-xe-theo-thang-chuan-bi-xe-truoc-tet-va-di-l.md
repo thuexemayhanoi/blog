@@ -29,7 +29,7 @@ Dành một buổi chiều rảnh tuần trước Tết để xem kỹ chiếc x
 
 1. **Lốp.** Ấn tay xem lốp có căng không, nhìn gai lốp có mòn trơn hay nứt chân chim. Lốp non nên bơm ngay; lốp mòn nhiều thì báo cửa hàng để được hướng dẫn thay. Dấu hiệu lốp cần thay có trong bài [lốp xe máy khi nào cần thay](/xe-may/2026/09/27/lop-xe-may-khi-nao-can-thay/).
 2. **Phanh.** Bóp thử phanh trước, phanh sau khi dắt xe. Tay phanh phải có độ nặng rõ, không bóp sát vào tay lái, không có tiếng rít kim loại.
-3. **Đèn và còi.** Bật đèn pha cả chế độ chiếu gần và chiếu xa, bật xi nhan hai bên, bóp còi. Ca trực đêm hay sáng sớm mùa đông, đèn là thứ bạn cần nhất. Cách kiểm tra từng bộ phận có trong bài [kiểm tra đèn, xi nhan và còi trước chuyến đi xa](/xe-may/2026/10/03/kiem-tra-en-xi-nhan-va-coi-truoc-chuyen-i-xa/).
+3. **Đèn và còi.** Bật đèn pha cả chế độ chiếu gần và chiếu xa, bật xi nhan hai bên, bóp còi. Ca trực đêm hay sáng sớm mùa đông, đèn là thứ bạn cần nhất. Cách kiểm tra từng bộ phận có trong bài [kiểm tra đèn, xi nhan và còi trước chuyến đi xa](/xe-may/2026/10/03/kiem-tra-den-xi-nhan-va-coi-truoc-chuyen-di-xa/).
 4. **Gương và khóa.** Gương chỉnh đúng góc, ổ khóa và khóa cổ hoạt động trơn tru.
 
 Nếu phát hiện vấn đề, báo cửa hàng ngay trong tuần đó. Xe thuê tháng thường đã có lịch bảo dưỡng, nhưng sửa trước Tết luôn nhẹ nhàng hơn chờ đến khi mọi tiệm đã nghỉ.

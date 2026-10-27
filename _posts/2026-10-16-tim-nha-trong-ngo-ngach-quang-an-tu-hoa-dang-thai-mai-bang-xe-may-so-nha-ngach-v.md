@@ -56,7 +56,7 @@ Dấu hiệu ngõ cụt: thấy mép nước, tường rào kín hay cổng sắ
 2. Tắt máy nếu phải dắt lùi, tay giữ phanh.
 3. Quay đầu từng chút, nhìn kỹ hai bên, tránh chạm xe dựng trước cửa nhà dân.
 
-Với ngõ dừng ở mép hồ, đừng tiến sát mép nước để quay đầu, nhất là buổi tối khi khó nhìn rõ mép kè. Kỹ thuật quay đầu trong ngõ hẹp có ở bài [quay đầu xe máy trong ngõ cụt](/ky-nang/2026/10/10/quay-au-xe-may-trong-ngo-cut-ky-nang-it-nguoi-lam-ung/ "Quay đầu xe máy trong ngõ cụt"), còn cách dắt xe vào homestay có ở bài [homestay trong ngõ nhỏ Hà Nội](/thue-xe/2026/10/11/homestay-trong-ngo-nho-ha-noi-dat-xe-may-vao-ngo-va-quay-au-an-toan/ "Homestay trong ngõ nhỏ Hà Nội: dắt xe máy vào ngõ").
+Với ngõ dừng ở mép hồ, đừng tiến sát mép nước để quay đầu, nhất là buổi tối khi khó nhìn rõ mép kè. Kỹ thuật quay đầu trong ngõ hẹp có ở bài [quay đầu xe máy trong ngõ cụt](/ky-nang/2026/10/10/quay-dau-xe-may-trong-ngo-cut-ky-nang-it-nguoi-lam-dung/ "Quay đầu xe máy trong ngõ cụt"), còn cách dắt xe vào homestay có ở bài [homestay trong ngõ nhỏ Hà Nội](/thue-xe/2026/10/11/homestay-trong-ngo-nho-ha-noi-dat-xe-may-vao-ngo-va-quay-dau-an-toan/ "Homestay trong ngõ nhỏ Hà Nội: dắt xe máy vào ngõ").
 
 ## Khi đã lạc: hỏi ai, hỏi thế nào
 

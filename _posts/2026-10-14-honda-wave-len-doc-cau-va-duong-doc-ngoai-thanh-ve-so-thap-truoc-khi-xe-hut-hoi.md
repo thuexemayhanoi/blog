@@ -58,7 +58,7 @@ Xuống dốc cầu ở cả ba nơi, giữ nguyên số đang đi, rà phanh nh
 
 Ra khỏi nội thành, dốc không còn là những đoạn ngắn vài chục mét mà có thể kéo dài, kèm cua gấp.
 
-**Ba Vì.** Đường trong khu vườn quốc gia lên các điểm tham quan có nhiều đoạn dốc dài, cua tay áo, mặt đường có chỗ ẩm rêu khi trời sương. Ở đây số 2 là số làm việc chính, số 1 dành cho cua gắt đang lên dốc. Đừng cố đi số 3 ở đoạn dốc rồi phải về số ngay trong cua. Trước khi đi, kiểm tra quy định phương tiện tại cổng vườn và tham khảo bài [Hà Nội đi Ba Vì cuối tuần bằng xe máy](/cung-duong/2026/09/28/ha-noi-i-ba-vi-cuoi-tuan-bang-xe-may/) để chuẩn bị lộ trình.
+**Ba Vì.** Đường trong khu vườn quốc gia lên các điểm tham quan có nhiều đoạn dốc dài, cua tay áo, mặt đường có chỗ ẩm rêu khi trời sương. Ở đây số 2 là số làm việc chính, số 1 dành cho cua gắt đang lên dốc. Đừng cố đi số 3 ở đoạn dốc rồi phải về số ngay trong cua. Trước khi đi, kiểm tra quy định phương tiện tại cổng vườn và tham khảo bài [Hà Nội đi Ba Vì cuối tuần bằng xe máy](/cung-duong/2026/09/28/ha-noi-di-ba-vi-cuoi-tuan-bang-xe-may/) để chuẩn bị lộ trình.
 
 **Sóc Sơn.** Quanh khu đền Sóc và các hồ phía bắc huyện, đường thường là những con dốc ngắn nối tiếp nhau, lên rồi xuống liên tục. Kiểu đường này dễ làm người lái lười đổi số. Cách gọn nhất là ở số 2 suốt những đoạn dốc nối tiếp, chỉ lên số 3 khi gặp đoạn bằng đủ dài.
 

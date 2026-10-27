@@ -29,7 +29,7 @@ Bài không biết trường hợp của bạn thuộc loại nào. Điều có 
 
 ODO là tổng số ki-lô-mét xe đã chạy. Đồng hồ hành trình là đồng hồ phụ, thường có A và B, đặt về không được. Sách hướng dẫn Air Blade bản Việt Nam ghi đồng hồ hành trình hồi về 0,0 khi quãng đường vượt 999,9, và khi được cài đặt lại thì màn hình hiển thị dấu gạch.
 
-Vì vậy hai con số trên cùng một bảng đồng hồ có thể rất khác nhau. Nếu biên bản ghi một con số nhỏ so với ODO, hãy xem có phải số hành trình không. Bài [đọc đồng hồ khi nhận xe thuê: số km, kim xăng và đèn cảnh báo](/thue-xe/2026/10/12/oc-ong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-en-canh-bao/) nói cách đọc đúng.
+Vì vậy hai con số trên cùng một bảng đồng hồ có thể rất khác nhau. Nếu biên bản ghi một con số nhỏ so với ODO, hãy xem có phải số hành trình không. Bài [đọc đồng hồ khi nhận xe thuê: số km, kim xăng và đèn cảnh báo](/thue-xe/2026/10/12/doc-dong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-den-canh-bao/) nói cách đọc đúng.
 
 ## Mức xăng ghi sai: vạch và kim đọc khác nhau theo góc nhìn
 

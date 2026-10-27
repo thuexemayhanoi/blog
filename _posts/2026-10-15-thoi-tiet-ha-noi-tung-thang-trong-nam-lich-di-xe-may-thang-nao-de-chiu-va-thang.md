@@ -37,7 +37,7 @@ Có thể chia năm thành năm giai đoạn, ranh giới thường xê dịch v
 
 Đây thường là quãng lạnh nhất năm. Gió mùa đông bắc tràn về từng đợt, mỗi đợt kéo theo vài ngày rét, có đợt rét đậm kéo dài. Ngày hanh thì trời khô, nắng nhạt, sáng sớm và tối gió buốt; ngày âm u thì mưa phùn lất phất cả buổi. Sương mù hay xuất hiện vào sáng sớm ở vùng ven như Gia Lâm, Đông Anh và trên các tuyến đê.
 
-Trên xe máy, cái lạnh thấm nhanh hơn đi bộ vì gió ngược. Cần áo khoác chắn gió, găng tay, khăn ống và giày kín. Dốc lên cầu Nhật Tân, cầu Chương Dương hay đường Thanh Niên ven Hồ Tây thường lộng gió nhất. Sương dày thì bật đèn, giữ khoảng cách xa hơn. Gợi ý mặc gì có trong bài [ngày đầu đông gió lạnh về chạy xe mặc gì](/ky-nang/2026/10/09/ngay-au-ong-gio-lanh-ve-chay-xe-mac-gi/).
+Trên xe máy, cái lạnh thấm nhanh hơn đi bộ vì gió ngược. Cần áo khoác chắn gió, găng tay, khăn ống và giày kín. Dốc lên cầu Nhật Tân, cầu Chương Dương hay đường Thanh Niên ven Hồ Tây thường lộng gió nhất. Sương dày thì bật đèn, giữ khoảng cách xa hơn. Gợi ý mặc gì có trong bài [ngày đầu đông gió lạnh về chạy xe mặc gì](/ky-nang/2026/10/09/ngay-dau-dong-gio-lanh-ve-chay-xe-mac-gi/).
 
 ### Tháng Hai
 
@@ -71,13 +71,13 @@ Chọn giờ và chống nắng chi tiết hơn ở bài [chạy xe máy ngày n
 
 Đây là giai đoạn dễ có mưa lớn kéo dài nhiều giờ, nhất là khi bão hoặc áp thấp nhiệt đới vào ven biển phía Bắc rồi gây mưa diện rộng. Sau những trận như vậy, một số phố trũng, hầm chui và đường gom có thể ngập cục bộ, cây đổ, cành gãy. Đây là lúc cần theo dõi tin thời tiết sát nhất.
 
-Nên hoãn chuyến đi xa khi có tin bão, không cố vượt đoạn ngập không rõ độ sâu, và sau mưa lớn thì tránh bãi ven sông, chân đê, khu đang thi công. Cách xử lý khi gặp ngập có trong bài [đi xe máy qua đoạn đường ngập nước](/ky-nang/2026/10/10/i-xe-may-qua-oan-uong-ngap-nuoc/).
+Nên hoãn chuyến đi xa khi có tin bão, không cố vượt đoạn ngập không rõ độ sâu, và sau mưa lớn thì tránh bãi ven sông, chân đê, khu đang thi công. Cách xử lý khi gặp ngập có trong bài [đi xe máy qua đoạn đường ngập nước](/ky-nang/2026/10/10/di-xe-may-qua-doan-duong-ngap-nuoc/).
 
 ## Tháng Chín và tháng Mười: tháng nào đi xe máy Hà Nội dễ chịu nhất
 
 Nếu hỏi tháng nào đi xe máy Hà Nội dễ chịu, phần đông người sống ở đây sẽ chỉ vào mùa thu. Cuối tháng Chín, nắng dịu dần, buổi sáng bắt đầu có gió heo may mát và khô. Tháng Mười thường được coi là đẹp nhất: trời trong, ít mưa, không nóng không lạnh, hợp để chạy quanh Hồ Tây, lên đê sông Hồng phía Long Biên hay đi ngoại thành trong ngày.
 
-Cần để ý: đây là mùa gặt ở vùng ven, có nơi đốt rơm rạ làm khói che tầm nhìn lúc chiều tối. Gió heo may đầu mùa có thể làm xe chao nhẹ khi qua cầu, xem bài [đi xe máy khi gió heo may về](/ky-nang/2026/10/10/i-xe-may-khi-gio-heo-may-ve-giu-huong-va-mac-am-ung/).
+Cần để ý: đây là mùa gặt ở vùng ven, có nơi đốt rơm rạ làm khói che tầm nhìn lúc chiều tối. Gió heo may đầu mùa có thể làm xe chao nhẹ khi qua cầu, xem bài [đi xe máy khi gió heo may về](/ky-nang/2026/10/10/di-xe-may-khi-gio-heo-may-ve-giu-huong-va-mac-am-dung/).
 
 ## Tháng Mười Một: hanh khô và đợt lạnh đầu đông
 

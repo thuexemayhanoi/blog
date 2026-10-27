@@ -35,7 +35,7 @@ Khấu trừ khác cả ba: nó áp lên mọi vụ được chấp nhận, kể
 
 Trên một chiếc xe máy thường có hai lớp tách biệt. Bảo hiểm bắt buộc trách nhiệm dân sự theo Nghị định 67/2023/NĐ-CP lo cho thiệt hại xe gây ra cho người khác, không chi cho hư hỏng của chính xe bạn. Bảo hiểm vật chất xe là lớp tự nguyện, bạn mua thêm để được xem xét chi sửa chữa hoặc mất xe theo hợp đồng.
 
-Bài này nói về lớp thứ hai. Bảo hiểm tự nguyện là thỏa thuận giữa bạn và doanh nghiệp trong khuôn khổ Luật Kinh doanh bảo hiểm số 08/2022/QH15, nên mỗi sản phẩm tự đặt mức khấu trừ và cách tính. Không có một con số chung cho mọi nơi. Muốn biết lớp tự nguyện có đáng mua không, xem bài [bảo hiểm tự nguyện xe máy có đáng mua thêm không](/an-toan-phap-ly/2026/10/10/bao-hiem-tu-nguyen-xe-may-co-ang-mua-them-khong/).
+Bài này nói về lớp thứ hai. Bảo hiểm tự nguyện là thỏa thuận giữa bạn và doanh nghiệp trong khuôn khổ Luật Kinh doanh bảo hiểm số 08/2022/QH15, nên mỗi sản phẩm tự đặt mức khấu trừ và cách tính. Không có một con số chung cho mọi nơi. Muốn biết lớp tự nguyện có đáng mua không, xem bài [bảo hiểm tự nguyện xe máy có đáng mua thêm không](/an-toan-phap-ly/2026/10/10/bao-hiem-tu-nguyen-xe-may-co-dang-mua-them-khong/).
 
 ## Tìm mục mức khấu trừ ở đâu trong giấy tờ
 

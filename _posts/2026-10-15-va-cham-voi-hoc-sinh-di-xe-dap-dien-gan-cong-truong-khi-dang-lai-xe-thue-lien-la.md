@@ -69,7 +69,7 @@ Ví dụ tham khảo, hãy chỉnh theo thực tế:
 
 > Chào tiệm. Lúc 16:50, khi chạy qua cổng trường giờ tan học, xe thuê va vào một em học sinh đi xe đạp điện. Em đã được hỗ trợ và phụ huynh đã đến. Đã trao đổi cách liên lạc. Ảnh hai xe gửi kèm. Nhờ tiệm hướng dẫn bước tiếp theo.
 
-Bài [ngã xe nhẹ khi đi chơi ở Hà Nội: việc đầu tiên nên làm và nhờ ai giúp](/thue-xe/2026/10/12/nga-xe-nhe-khi-i-choi-o-ha-noi-viec-au-tien-nen-lam-va-nho-ai-giup/) nói thêm về bước đầu tiên sau một sự cố.
+Bài [ngã xe nhẹ khi đi chơi ở Hà Nội: việc đầu tiên nên làm và nhờ ai giúp](/thue-xe/2026/10/12/nga-xe-nhe-khi-di-choi-o-ha-noi-viec-dau-tien-nen-lam-va-nho-ai-giup/) nói thêm về bước đầu tiên sau một sự cố.
 
 ## Phòng tránh giờ tan trường: giảm tốc và chừa khoảng cách
 

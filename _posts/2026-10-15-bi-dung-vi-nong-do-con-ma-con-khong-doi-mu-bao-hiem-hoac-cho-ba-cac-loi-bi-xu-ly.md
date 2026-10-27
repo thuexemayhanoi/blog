@@ -39,7 +39,7 @@ Ba người lớn khỏe mạnh đi chơi về không thuộc trường hợp ng
 
 > "Người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách."
 
-Lưu ý câu chữ: nghĩa vụ đội mũ đặt lên cả người lái lẫn người được chở. Người ngồi sau không thể nói "tôi chỉ đi nhờ". Còn ai bị xử lý về hành vi nào, ở mức ra sao, do Nghị định 168/2024/NĐ-CP quy định chi tiết; bài này không suy diễn phần đó. Muốn biết mũ thế nào là đúng quy chuẩn, đọc bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/).
+Lưu ý câu chữ: nghĩa vụ đội mũ đặt lên cả người lái lẫn người được chở. Người ngồi sau không thể nói "tôi chỉ đi nhờ". Còn ai bị xử lý về hành vi nào, ở mức ra sao, do Nghị định 168/2024/NĐ-CP quy định chi tiết; bài này không suy diễn phần đó. Muốn biết mũ thế nào là đúng quy chuẩn, đọc bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-khi-di-xe-may-chuan-nao/).
 
 ## Nguyên tắc xử phạt khi một người có nhiều hành vi
 

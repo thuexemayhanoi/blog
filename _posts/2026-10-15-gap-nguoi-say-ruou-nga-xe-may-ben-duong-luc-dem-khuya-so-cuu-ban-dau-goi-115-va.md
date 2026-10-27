@@ -60,7 +60,7 @@ Mũ đang giữ cố định phần đầu, tháo sai cách có thể làm chấ
 
 ## Gọi 115, báo 113: nói gì cho tổng đài
 
-Gọi 115 khi có người bị thương, nhất là khi họ bất tỉnh, lơ mơ, khó thở, chảy máu nhiều. Không chắc thì cứ gọi. Sau đó báo 113 hoặc nhờ người khác báo công an. Cách phân biệt các số khẩn cấp có ở bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/).
+Gọi 115 khi có người bị thương, nhất là khi họ bất tỉnh, lơ mơ, khó thở, chảy máu nhiều. Không chắc thì cứ gọi. Sau đó báo 113 hoặc nhờ người khác báo công an. Cách phân biệt các số khẩn cấp có ở bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/).
 
 - **Vị trí:** tên phố hoặc tuyến đê, số nhà, hàng quán gần nhất. Trên đường đê Long Biên hay Gia Lâm ban đêm, tả mốc dễ thấy như cổng chùa, trạm bơm, lối xuống bãi.
 - **Tình trạng:** còn tỉnh không, có thở không, chảy máu ở đâu.

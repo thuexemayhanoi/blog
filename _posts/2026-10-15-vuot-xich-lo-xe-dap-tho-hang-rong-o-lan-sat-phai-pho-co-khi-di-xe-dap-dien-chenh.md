@@ -64,7 +64,7 @@ Khi đã chắc chắn có thể vượt, làm theo thứ tự:
 - **Còi chỉ một tiếng ngắn khi cần báo**, không bấm còi dồn dập. Người đạp xích lô và người bán hàng rong nghe còi suốt ngày, còi liên tục chỉ khiến họ giật mình chứ không giúp gì.
 - **Trở lại làn sát phải khi đã cách xa đủ**, nhìn lại một lần để chắc không cắt mặt xe vừa vượt.
 
-Nguyên tắc chung về vượt xe trên đường được viết trong bài [kỹ thuật vượt xe an toàn trên đường](/ky-nang/2026/10/01/ky-thuat-vuot-xe-an-toan-tren-uong/). Nếu đang vượt mà có người bất ngờ bước ra, xem cách xử lý trong bài [phanh xe đạp điện êm khi có người băng ngang bất ngờ](/xe-may/2026/10/11/phanh-xe-ap-ien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/).
+Nguyên tắc chung về vượt xe trên đường được viết trong bài [kỹ thuật vượt xe an toàn trên đường](/ky-nang/2026/10/01/ky-thuat-vuot-xe-an-toan-tren-duong/). Nếu đang vượt mà có người bất ngờ bước ra, xem cách xử lý trong bài [phanh xe đạp điện êm khi có người băng ngang bất ngờ](/xe-may/2026/10/11/phanh-xe-dap-dien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/).
 
 ## Tôn trọng người bán hàng rong và người đạp xích lô
 
@@ -76,7 +76,7 @@ Với bạn, đó là một chiếc xe chậm phía trước. Với họ, đó l
 
 ## Ven hồ và phố lớn hơn: Đinh Tiên Hoàng
 
-Đinh Tiên Hoàng ven hồ Hoàn Kiếm rộng hơn các phố trong lõi phố cổ, nên khoảng trống để vượt cũng dễ có hơn. Nhưng cũng chính vì rộng, xe máy và ô tô ở đây đi nhanh hơn, nên bước quan sát phía sau càng quan trọng. Vào những khung giờ phố đi bộ quanh hồ, một số đoạn có rào chắn và không cho xe đi vào: để ý biển và hướng dẫn tại chỗ, dắt xe hoặc đi vòng. Bạn có thể đọc thêm cảm nhận chung về chuyện [thuê xe đạp điện đi phố cổ có tiện không](/xe-may/2026/10/10/thue-xe-ap-ien-i-pho-co-co-tien-khong/).
+Đinh Tiên Hoàng ven hồ Hoàn Kiếm rộng hơn các phố trong lõi phố cổ, nên khoảng trống để vượt cũng dễ có hơn. Nhưng cũng chính vì rộng, xe máy và ô tô ở đây đi nhanh hơn, nên bước quan sát phía sau càng quan trọng. Vào những khung giờ phố đi bộ quanh hồ, một số đoạn có rào chắn và không cho xe đi vào: để ý biển và hướng dẫn tại chỗ, dắt xe hoặc đi vòng. Bạn có thể đọc thêm cảm nhận chung về chuyện [thuê xe đạp điện đi phố cổ có tiện không](/xe-may/2026/10/10/thue-xe-dap-dien-di-pho-co-co-tien-khong/).
 
 ## Kết luận
 

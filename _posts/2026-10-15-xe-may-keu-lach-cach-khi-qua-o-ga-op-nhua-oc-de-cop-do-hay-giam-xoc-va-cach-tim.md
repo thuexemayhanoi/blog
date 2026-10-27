@@ -63,7 +63,7 @@ Tiếng nhựa thường giòn và nhẹ, tiếng ốc kim loại đanh và khô
 Phần lớn tiếng lạch cạch qua ổ gà là chuyện nhỏ, nhưng có những dấu hiệu cho thấy không nên chạy thêm dù chỉ một đoạn:
 
 - Tiếng cộc nặng ở giảm xóc kèm cảm giác xe nảy mạnh, tay lái bị giật hoặc đuôi xe dội liên tục sau mỗi ổ gà.
-- Thấy dầu rỉ ra ở ống phuộc trước hoặc ướt nhẫy quanh giảm xóc sau. Bài [giảm xóc xe máy yếu hoặc chảy dầu](/xe-may/2026/10/11/giam-xoc-xe-may-yeu-hoac-chay-dau-cach-tu-nhan-biet-truoc-khi-i-uong-xau/) mô tả kỹ dấu hiệu này.
+- Thấy dầu rỉ ra ở ống phuộc trước hoặc ướt nhẫy quanh giảm xóc sau. Bài [giảm xóc xe máy yếu hoặc chảy dầu](/xe-may/2026/10/11/giam-xoc-xe-may-yeu-hoac-chay-dau-cach-tu-nhan-biet-truoc-khi-di-duong-xau/) mô tả kỹ dấu hiệu này.
 - Tay lái rơ, có độ lắc khi bóp phanh trước, hoặc xe kéo lệch về một bên.
 - Một chi tiết kim loại đang chạm hay cọ vào bánh xe, hoặc dè chắn bùn sụt xuống gần lốp.
 - Tiếng kêu đi kèm mùi khét, khói, hay phanh có cảm giác khác thường.

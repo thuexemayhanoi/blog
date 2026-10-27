@@ -41,7 +41,7 @@ Ngõ không có bãi xe cho khách, nên hãy gửi ở một điểm trông gi�
 - **Không gửi nhờ trước cửa nhà dân ở đầu ngõ.**
 - **Chụp ảnh vé và vị trí xe** cùng một biển hiệu gần đó.
 
-Cách nhận ra chỗ trông xe đàng hoàng có trong bài [gửi xe máy trong ngõ phố cổ](/du-lich/2026/10/04/gui-xe-may-trong-ngo-pho-co-cach-chon-cho-quen/); còn phân vân chạy vào hay để ngoài thì xem bài [có nên chạy xe máy vào khu phố cổ hay gửi ngoài rồi đi bộ](/thue-xe/2026/10/11/co-nen-chay-xe-may-vao-khu-pho-co-ha-noi-hay-gui-ngoai-roi-i-bo/).
+Cách nhận ra chỗ trông xe đàng hoàng có trong bài [gửi xe máy trong ngõ phố cổ](/du-lich/2026/10/04/gui-xe-may-trong-ngo-pho-co-cach-chon-cho-quen/); còn phân vân chạy vào hay để ngoài thì xem bài [có nên chạy xe máy vào khu phố cổ hay gửi ngoài rồi đi bộ](/thue-xe/2026/10/11/co-nen-chay-xe-may-vao-khu-pho-co-ha-noi-hay-gui-ngoai-roi-di-bo/).
 
 Lưu ý giờ cuối tuần: từ tháng Bảy năm 2026, Hà Nội thí điểm vùng phát thải thấp ở lõi phường Hoàn Kiếm; khu vực bao bởi các phố như Hàng Đào, Hàng Buồm, Hàng Bạc, Hàng Mắm, Nguyễn Hữu Huân cấm xe máy, ô tô từ 19 giờ đến 24 giờ các tối thứ Sáu, thứ Bảy, Chủ nhật. Quy định đang thí điểm nên có thể thay đổi, hãy xem thông báo mới nhất. Dạo ngõ ban ngày thì không vướng, nhưng nếu ở lại tới tối cuối tuần, hãy gửi xe ngoài vùng hạn chế ngay từ đầu.
 

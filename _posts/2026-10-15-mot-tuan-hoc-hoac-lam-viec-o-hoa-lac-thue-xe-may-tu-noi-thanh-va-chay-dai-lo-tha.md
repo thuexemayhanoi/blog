@@ -27,7 +27,7 @@ Hai cách đều làm được, nhưng mệt theo hai kiểu rất khác nhau.
 
 Cách chọn nhanh: nếu lịch có từ hai hôm kết thúc muộn hoặc phải có mặt rất sớm, ở lại gần Hòa Lạc thường hợp lý hơn. Nhiều người chọn cách lai: ở lại vài đêm giữa tuần, về nội thành một tối để đổi không khí.
 
-Nếu bạn đang cân nhắc ở lâu hơn, đi làm cả tháng, thì bài [đi làm xa ngoại thành bằng xe máy thuê tháng](/thue-xe/2026/10/11/i-lam-xa-ngoai-thanh-bang-xe-may-thue-thang-hoa-lac-soc-son-me-linh/) nói kỹ về chuyện tính xăng và hư hỏng khi chạy nhiều; bài này chỉ tập trung vào một tuần.
+Nếu bạn đang cân nhắc ở lâu hơn, đi làm cả tháng, thì bài [đi làm xa ngoại thành bằng xe máy thuê tháng](/thue-xe/2026/10/11/di-lam-xa-ngoai-thanh-bang-xe-may-thue-thang-hoa-lac-soc-son-me-linh/) nói kỹ về chuyện tính xăng và hư hỏng khi chạy nhiều; bài này chỉ tập trung vào một tuần.
 
 ## Chọn xe và nhận xe cho một tuần chạy đường dài
 
@@ -58,11 +58,11 @@ Vài cách để không đi nhầm:
 
 Ba thứ làm người đi Hòa Lạc mỗi ngày mệt nhất không phải là đường xấu.
 
-**Gió ngang.** Hai bên trục có nhiều đoạn trống, ruộng và đất chưa xây. Gió thổi ngang có thể đẩy xe lệch khỏi đường đi, nhất là khi vừa ra khỏi chỗ có nhà che. Giữ tay lái chắc, khép gối vào thân xe, giảm ga khi thấy cây ven đường nghiêng mạnh. Bài [gió lớn và cơn giông giữa đường](/ky-nang/2026-09-29/gio-lon-va-con-giong-giua-uong/) có thêm cách xử lý khi trời đổi nhanh.
+**Gió ngang.** Hai bên trục có nhiều đoạn trống, ruộng và đất chưa xây. Gió thổi ngang có thể đẩy xe lệch khỏi đường đi, nhất là khi vừa ra khỏi chỗ có nhà che. Giữ tay lái chắc, khép gối vào thân xe, giảm ga khi thấy cây ven đường nghiêng mạnh. Bài [gió lớn và cơn giông giữa đường](/ky-nang/2026-09-29/gio-lon-va-con-giong-giua-duong/) có thêm cách xử lý khi trời đổi nhanh.
 
 **Xe tải và xe khách.** Dọc tuyến có nhiều khu công nghiệp, nên xe tải ra vào thường xuyên, cả ở đường gom và các nút giao. Đừng bám đuôi xe tải, đừng ở góc khuất bên phải khi nó chuẩn bị rẽ, và giữ khoảng cách ngang rộng vì luồng gió hút có thể kéo xe bạn.
 
-**Buồn ngủ vì đường dài và thẳng.** Đây là rủi ro bị đánh giá thấp nhất. Đường thẳng, cảnh lặp lại, sau một ngày làm việc mắt rất dễ díp lại. Dấu hiệu cần dừng ngay: ngáp liên tục, không nhớ vài trăm mét vừa qua, tay lái hơi lạc. Lúc đó tấp vào chỗ an toàn, rửa mặt, nghỉ đủ rồi mới đi tiếp. Bài [mệt và buồn ngủ khi chạy xe chiều muộn](/ky-nang/2026/10/04/met-va-buon-ngu-khi-chay-xe-chieu-muon-xu-ly-ung-cach/) nói kỹ hơn cách nhận biết và xử lý.
+**Buồn ngủ vì đường dài và thẳng.** Đây là rủi ro bị đánh giá thấp nhất. Đường thẳng, cảnh lặp lại, sau một ngày làm việc mắt rất dễ díp lại. Dấu hiệu cần dừng ngay: ngáp liên tục, không nhớ vài trăm mét vừa qua, tay lái hơi lạc. Lúc đó tấp vào chỗ an toàn, rửa mặt, nghỉ đủ rồi mới đi tiếp. Bài [mệt và buồn ngủ khi chạy xe chiều muộn](/ky-nang/2026/10/04/met-va-buon-ngu-khi-chay-xe-chieu-muon-xu-ly-dung-cach/) nói kỹ hơn cách nhận biết và xử lý.
 
 ## Đi tối về nội thành: đèn và tầm nhìn
 

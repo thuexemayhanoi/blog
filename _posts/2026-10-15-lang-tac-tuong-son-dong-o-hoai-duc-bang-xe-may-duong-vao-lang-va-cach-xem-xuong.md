@@ -44,7 +44,7 @@ Từ Cầu Giấy đi theo Xuân Thủy, Hồ Tùng Mậu, qua Cầu Diễn, Nh�
 - Một số nút giao đang thi công, phân luồng có thể thay đổi; mưa lớn có lúc hầm chui ngập. Xem tin phân luồng trước khi đi.
 - Lối rẽ từ đường gom vào phía Sơn Đồng đi qua đường xã, hãy dò trên Google Maps trước khi xuất phát và kiểm lại ở mỗi ngã rẽ.
 
-Nếu chưa rõ xe máy được vào loại đường nào, đọc thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/). Xuất phát từ Long Biên thì qua cầu Chương Dương hoặc cầu Long Biên, đi xuyên nội thành về Cầu Giấy, tính thêm thời gian cho đoạn phố này.
+Nếu chưa rõ xe máy được vào loại đường nào, đọc thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/). Xuất phát từ Long Biên thì qua cầu Chương Dương hoặc cầu Long Biên, đi xuyên nội thành về Cầu Giấy, tính thêm thời gian cho đoạn phố này.
 
 ## Dừng xe ở đâu khi tới làng
 
@@ -74,10 +74,10 @@ Người đi xem xưởng đôi khi muốn đặt một pho tượng hay một b
 - **Món nhỏ** như tượng để bàn, đồ thờ cỡ nhỏ, khay, đài nến có thể xin xưởng bọc kỹ bằng xốp, cho vào ba lô hoặc buộc chắc lên giá sau. Bọc riêng từng món, không để món nọ cọ vào món kia làm tróc lớp thếp.
 - **Tượng lớn, bệ, hoành phi, câu đối** thì không chở bằng xe máy. Hàng nặng, dài vượt khỏi thân xe vừa nguy hiểm vừa vi phạm quy định chở hàng, lại dễ hỏng lớp sơn thếp nếu va đập. Hãy hỏi xưởng về cách giao hàng bằng ô tô; chi phí và thời gian do hai bên thỏa thuận trực tiếp.
 
-Quy định chung về hàng cồng kềnh trên xe máy có trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/). Về đồ thờ, nhiều nhà còn muốn chọn ngày rước tượng về, nên hẹn lịch giao với xưởng là cách tiện nhất.
+Quy định chung về hàng cồng kềnh trên xe máy có trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/). Về đồ thờ, nhiều nhà còn muốn chọn ngày rước tượng về, nên hẹn lịch giao với xưởng là cách tiện nhất.
 
 ## Ghép lịch và đường về
 
-Một buổi sáng ở Sơn Đồng là đủ để đi vài xưởng. Nếu còn thời gian, có thể ghép một làng nghề gỗ khác phía tây như [làng mộc Chàng Sơn](/du-lich/2026/10/04/lang-moc-chang-son-bang-xe-may-cuoi-tuan-uong-i-va-gui-xe/), nhưng nên chọn một làng làm chính để không vội. Đường về, nếu đi quốc lộ 32 thì tránh khung cuối giờ chiều; nếu đi đường gom Đại lộ Thăng Long thì về trước khi trời tối vì có đoạn đèn đường thưa.
+Một buổi sáng ở Sơn Đồng là đủ để đi vài xưởng. Nếu còn thời gian, có thể ghép một làng nghề gỗ khác phía tây như [làng mộc Chàng Sơn](/du-lich/2026/10/04/lang-moc-chang-son-bang-xe-may-cuoi-tuan-duong-di-va-gui-xe/), nhưng nên chọn một làng làm chính để không vội. Đường về, nếu đi quốc lộ 32 thì tránh khung cuối giờ chiều; nếu đi đường gom Đại lộ Thăng Long thì về trước khi trời tối vì có đoạn đèn đường thưa.
 
 Thuê xe ở Long Biên cho chuyến này thì hỏi tiệm giờ nhận trả trong khung 09:00–21:00 để tính giờ quay về cho thong thả. Các làng nghề và điểm đến khác quanh thủ đô nằm trong mục [ngoại thành Hà Nội](/du-lich/ngoai-thanh/), toàn bộ gợi ý dạo chơi có ở chuyên mục [du lịch](/du-lich/).

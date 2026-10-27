@@ -77,6 +77,6 @@ Chở một người lớn và một trẻ nhỏ thì Honda Vision giá 200.000 
 
 ## Ghép thêm điểm trên đường về
 
-Đào Thục cùng vùng với đền Sái ở thôn Thụy Lôi, cụm di tích trên núi Sái thờ Huyền Thiên Trấn Vũ, nên có thể ghép hai điểm trong một buổi. Trên đường về phía cầu Nhật Tân, nhiều người ghé [thành Cổ Loa](/du-lich/2026/10/01/i-thanh-co-loa-bang-xe-may-cung-uong-va-luu-y-chay-xe/). Đi vào Chủ nhật thì nên rời làng sớm, mẹo chọn giờ có trong bài [về phố chiều Chủ nhật cho đỡ tắc](/du-lich/2026/10/13/tu-ngoai-thanh-ve-pho-chieu-chu-nhat-xuat-phat-gio-nao-va-di-huong-nao-do-tac/).
+Đào Thục cùng vùng với đền Sái ở thôn Thụy Lôi, cụm di tích trên núi Sái thờ Huyền Thiên Trấn Vũ, nên có thể ghép hai điểm trong một buổi. Trên đường về phía cầu Nhật Tân, nhiều người ghé [thành Cổ Loa](/du-lich/2026/10/01/di-thanh-co-loa-bang-xe-may-cung-duong-va-luu-y-chay-xe/). Đi vào Chủ nhật thì nên rời làng sớm, mẹo chọn giờ có trong bài [về phố chiều Chủ nhật cho đỡ tắc](/du-lich/2026/10/13/tu-ngoai-thanh-ve-pho-chieu-chu-nhat-xuat-phat-gio-nao-va-di-huong-nao-do-tac/).
 
 Xem thêm các cung ngắn ở mục [ngoại thành Hà Nội](/du-lich/ngoai-thanh/) hoặc trang [du lịch Hà Nội](/du-lich/). Cần xe cho chuyến xem rối, gọi Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, số 0942 467 674, mở cửa 09:00–21:00.

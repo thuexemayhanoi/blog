@@ -69,7 +69,7 @@ Bài không biết tiệm trả lời thế nào; đó là điều xác nhận t
 
 Với xe thuê, hãy hỏi tiệm có đồng ý cho rửa không và rửa cách nào, vì tiệm có thể có hướng dẫn riêng. Nếu rửa, tránh xịt thẳng vào ống xả, ổ khóa, lọc gió và dưới yên như sách dặn.
 
-Bài [rửa xe ga thuê tháng đúng cách: tránh xịt nước vào ổ khóa, hộp điện và lọc gió](/thue-xe/2026/10/14/rua-xe-ga-thue-thang-dung-cach-tranh-xit-nuoc-vao-o-khoa-hop-dien-va-loc-gio/) nói thêm về cách rửa. Bài [xe máy ướt nước mưa ngập đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-e-khong-no/) nói về trường hợp xe bị ướt nước mưa.
+Bài [rửa xe ga thuê tháng đúng cách: tránh xịt nước vào ổ khóa, hộp điện và lọc gió](/thue-xe/2026/10/14/rua-xe-ga-thue-thang-dung-cach-tranh-xit-nuoc-vao-o-khoa-hop-dien-va-loc-gio/) nói thêm về cách rửa. Bài [xe máy ướt nước mưa ngập đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-de-khong-no/) nói về trường hợp xe bị ướt nước mưa.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

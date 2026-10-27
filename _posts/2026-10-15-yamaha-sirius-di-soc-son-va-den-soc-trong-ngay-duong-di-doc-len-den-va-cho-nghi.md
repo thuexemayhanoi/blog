@@ -63,7 +63,7 @@ Cách gửi xe cho yên tâm:
 3. Chụp ảnh vé, ảnh xe và lối vào bãi để lúc về dễ tìm.
 4. Dựng chân chống giữa trên nền phẳng, khóa cổ, rút chìa, mang theo giấy tờ và ví.
 
-Cốp dưới yên Sirius rất nhỏ, chỉ nên để áo mưa. Nước uống, đồ lễ cho vào ba lô mang theo người. Đi giày bám tốt, vì bậc đá có chỗ trơn sau mưa. Muốn biết thêm các kiểu bãi gửi quanh đền và khung giờ vắng, xem bài [đền Sóc ở Sóc Sơn bằng xe máy](/du-lich/2026/10/04/en-soc-o-soc-son-bang-xe-may-cung-uong-va-gui-xe/).
+Cốp dưới yên Sirius rất nhỏ, chỉ nên để áo mưa. Nước uống, đồ lễ cho vào ba lô mang theo người. Đi giày bám tốt, vì bậc đá có chỗ trơn sau mưa. Muốn biết thêm các kiểu bãi gửi quanh đền và khung giờ vắng, xem bài [đền Sóc ở Sóc Sơn bằng xe máy](/du-lich/2026/10/04/den-soc-o-soc-son-bang-xe-may-cung-duong-va-gui-xe/).
 
 Dịp hội Gióng đầu tháng Giêng âm lịch, khu đền rất đông, bãi gần cổng đầy sớm. Lúc đó nên đến từ sáng sớm, hoặc chấp nhận gửi xa hơn rồi đi bộ.
 

@@ -33,7 +33,7 @@ Chùa nằm trên một bán đảo nhỏ phía đông Hồ Tây, ngay bên đư
 - **Cây bồ đề trong sân** được chiết từ cây bồ đề ở Bodh Gaya, Ấn Độ, do Tổng thống Ấn Độ Rajendra Prasad tặng khi thăm Việt Nam năm 1959.
 - **Chùa là di tích quốc gia** từ đợt xếp hạng đầu tiên năm 1962. Năm 2016, báo Daily Mail của Anh xếp chùa vào danh sách 16 ngôi chùa đẹp nhất thế giới.
 
-Theo nhiều trang hướng dẫn du lịch, vào chùa không mất vé. Cách gửi xe và đường vào chùa có ở bài [ghé chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i/ "Ghé chùa Trấn Quốc bằng xe máy: gửi xe và đường đi").
+Theo nhiều trang hướng dẫn du lịch, vào chùa không mất vé. Cách gửi xe và đường vào chùa có ở bài [ghé chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-duong-di/ "Ghé chùa Trấn Quốc bằng xe máy: gửi xe và đường đi").
 
 ## Phủ Tây Hồ: giải thích chùa khác phủ thế nào
 
@@ -47,7 +47,7 @@ Khi vào phủ, bạn có thể chỉ cho khách:
 - **Điện Sơn Trang**, nơi thờ chúa Thượng Ngàn và các vị trong Sơn Trang.
 - **Lầu Cô, lầu Cậu** hai bên sân, và cây si cổ đã được công nhận Cây di sản Việt Nam.
 
-Theo một lãnh đạo ban quản lý Phủ từng chia sẻ với báo chí, người đi lễ thường lễ Phật trước, lễ Mẫu sau. Đường vào phủ có ở bài [đến Phủ Tây Hồ bằng xe máy](/du-lich/2026/10/04/en-phu-tay-ho-bang-xe-may-gui-xe-va-uong-i/ "Đến Phủ Tây Hồ bằng xe máy: gửi xe và đường đi").
+Theo một lãnh đạo ban quản lý Phủ từng chia sẻ với báo chí, người đi lễ thường lễ Phật trước, lễ Mẫu sau. Đường vào phủ có ở bài [đến Phủ Tây Hồ bằng xe máy](/du-lich/2026/10/04/den-phu-tay-ho-bang-xe-may-gui-xe-va-duong-di/ "Đến Phủ Tây Hồ bằng xe máy: gửi xe và đường đi").
 
 ## Lễ nghi cơ bản nên dặn khách
 

@@ -55,7 +55,7 @@ Trong chợ, nguy hiểm thường đến từ hai bên chứ không phải phí
 
 ### Khe hở giữa các sạp và xe đang đỗ
 
-Những khe trống giữa hai quầy hàng, đầu ngõ nhỏ hay khoảng giữa hai xe chở hàng đang đỗ là nơi người bước ra mà bạn không kịp thấy. Hãy chạy cách xa những khe đó hơn bình thường nếu đường đủ rộng. Tình huống này khá giống khi đi qua dãy ô tô đỗ ven đường, đã được phân tích trong bài [đi qua hàng ô tô đỗ ven đường](/ky-nang/2026/10/11/i-qua-hang-o-to-o-ven-uong-cua-xe-bat-mo-va-nguoi-buoc-ra-giua-cac-xe/).
+Những khe trống giữa hai quầy hàng, đầu ngõ nhỏ hay khoảng giữa hai xe chở hàng đang đỗ là nơi người bước ra mà bạn không kịp thấy. Hãy chạy cách xa những khe đó hơn bình thường nếu đường đủ rộng. Tình huống này khá giống khi đi qua dãy ô tô đỗ ven đường, đã được phân tích trong bài [đi qua hàng ô tô đỗ ven đường](/ky-nang/2026/10/11/di-qua-hang-o-to-do-ven-duong-cua-xe-bat-mo-va-nguoi-buoc-ra-giua-cac-xe/).
 
 ## Phanh sẵn tay: phản xạ khi có người bất ngờ bước ra
 
@@ -66,7 +66,7 @@ Khi đi qua chợ, hãy đặt sẵn hai ngón tay lên tay phanh trước suố
 3. **Chuẩn bị chân chống xuống đất** khi xe sắp dừng, giữ thân xe thẳng đứng.
 4. **Chờ người đi qua hẳn rồi mới đi tiếp**, vì người vừa giật mình thường hay lùi lại một bước.
 
-Cách phản ứng chung với người đi bộ xuất hiện đột ngột, kể cả ngoài phố, được nói thêm trong bài [người đi bộ bỗng xuất hiện](/ky-nang/2026-09-29/nguoi-i-bo-bong-xuat-hien-cach-phan-ung/).
+Cách phản ứng chung với người đi bộ xuất hiện đột ngột, kể cả ngoài phố, được nói thêm trong bài [người đi bộ bỗng xuất hiện](/ky-nang/2026-09-29/nguoi-di-bo-bong-xuat-hien-cach-phan-ung/).
 
 ## Bấm còi ít và đúng lúc, đừng bấm liên tục
 
@@ -88,7 +88,7 @@ Có những lúc cách an toàn nhất là không đi xe vào trong. Nên tìm c
 - Bạn vừa thuê xe, chưa quen phanh và ga của chiếc xe lạ.
 - Mặt đường ướt và trơn sau mưa hoặc ở khu bán thủy sản.
 
-Hầu hết các chợ lớn đều có bãi trông xe xung quanh. Hãy giữ kỹ vé xe và hỏi giá gửi trước khi để xe. Kinh nghiệm cụ thể về chỗ đỗ ở chợ Long Biên có trong bài [chợ Long Biên và chỗ để xe](/du-lich/2026/09/28/cho-em-long-bien-va-cho-e-xe/). Nếu định vào phố cổ, bạn cũng nên xem trước [giờ nào nên tránh khi chạy xe máy trong phố cổ](/du-lich/2026/09/28/chay-xe-may-trong-pho-co-gio-nao-nen-tranh/).
+Hầu hết các chợ lớn đều có bãi trông xe xung quanh. Hãy giữ kỹ vé xe và hỏi giá gửi trước khi để xe. Kinh nghiệm cụ thể về chỗ đỗ ở chợ Long Biên có trong bài [chợ Long Biên và chỗ để xe](/du-lich/2026/09/28/cho-dem-long-bien-va-cho-de-xe/). Nếu định vào phố cổ, bạn cũng nên xem trước [giờ nào nên tránh khi chạy xe máy trong phố cổ](/du-lich/2026/09/28/chay-xe-may-trong-pho-co-gio-nao-nen-tranh/).
 
 ## Tóm lại
 

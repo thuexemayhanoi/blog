@@ -7,7 +7,7 @@ description: "Gửi xe máy qua đêm ở Hà Nội: cách chọn bãi gửi xe 
 categories: [Kinh nghiệm]
 lang: vi
 tags: [gửi xe máy qua đêm ở Hà Nội, bãi gửi xe qua đêm, giữ xe qua đêm, lưu ý gửi xe máy]
-permalink: /ky-nang/2026/10/04/gui-xe-may-qua-em-o-ha-noi-chon-bai-va-luu-y/
+permalink: /ky-nang/2026/10/04/gui-xe-may-qua-dem-o-ha-noi-chon-bai-va-luu-y/
 parent_id: P-KY-NANG
 child_id: C-KY-NANG-GUI-XE
 article_id: BLG-01301

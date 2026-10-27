@@ -52,7 +52,7 @@ Chúng tôi chưa thấy nguồn nào nói chùa có bãi gửi xe riêng, nên 
 - Song song với xe khác đang dừng, đỗ.
 - Trên lòng đường, vỉa hè trái quy định.
 
-Nếu không có chỗ trong sân, gửi xe ở điểm trông giữ có vé gần đó rồi đi bộ lại, đừng dựng xe trên vỉa hè. Chuyện đỗ xe trên vỉa hè bị xử lý thế nào có ở bài [hỏi đậu xe máy trên vỉa hè có bị xử lý không](/hoi-dap/2026/10/07/hoi-au-xe-may-tren-via-he-co-bi-xu-ly-khong/ "Đậu xe máy trên vỉa hè có bị xử lý không").
+Nếu không có chỗ trong sân, gửi xe ở điểm trông giữ có vé gần đó rồi đi bộ lại, đừng dựng xe trên vỉa hè. Chuyện đỗ xe trên vỉa hè bị xử lý thế nào có ở bài [hỏi đậu xe máy trên vỉa hè có bị xử lý không](/hoi-dap/2026/10/07/hoi-dau-xe-may-tren-via-he-co-bi-xu-ly-khong/ "Đậu xe máy trên vỉa hè có bị xử lý không").
 
 ## Giờ nên tránh và lưu ý cuối năm 2026
 

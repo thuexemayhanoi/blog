@@ -32,7 +32,7 @@ Vị trí của người lớn phụ thuộc vào chỗ xe cộ qua lại. Có h
 - **Đi phía ngoài, lùi nhẹ nửa thân xe.** Trên đường nội bộ có xe máy và ô tô thỉnh thoảng đi qua, bạn đi song song ở phía có xe qua lại, còn con đi phía trong sát lề. Lùi lại khoảng nửa thân xe để vẫn nhìn thấy tay lái và bánh trước của con, đồng thời xe phía sau phải tránh bạn trước khi tới gần con.
 - **Đi ngay phía sau con.** Khi đường hẹp, chỉ đủ một hàng, hoặc khi đi trên lối dạo ven hồ, bạn bám ngay sau con. Từ phía sau bạn thấy được con có đạp đều, có lệch về mép hồ hay không.
 
-Điều nên tránh là để con đi phía ngoài còn mình nép sát lề, hoặc vọt lên trước rồi ngoái đầu lại nhìn. Ngoái đầu làm xe lạng và mất tầm nhìn phía trước. Nếu đi theo nhóm nhiều người lớn và nhiều trẻ, cách xếp hàng và giữ khoảng cách có thể tham khảo thêm bài [đi nhóm bằng xe đạp điện xếp hàng thế nào](/xe-may/2026/10/11/i-nhom-ban-bang-xe-ap-ien-xep-hang-the-nao-giu-khoang-cach-cho-nhau-ra-sao/), rồi đặt mỗi bé giữa hai người lớn.
+Điều nên tránh là để con đi phía ngoài còn mình nép sát lề, hoặc vọt lên trước rồi ngoái đầu lại nhìn. Ngoái đầu làm xe lạng và mất tầm nhìn phía trước. Nếu đi theo nhóm nhiều người lớn và nhiều trẻ, cách xếp hàng và giữ khoảng cách có thể tham khảo thêm bài [đi nhóm bằng xe đạp điện xếp hàng thế nào](/xe-may/2026/10/11/di-nhom-ban-bang-xe-dap-dien-xep-hang-the-nao-giu-khoang-cach-cho-nhau-ra-sao/), rồi đặt mỗi bé giữa hai người lớn.
 
 ## Giữ tốc độ theo con, không để con đuổi theo mình
 
@@ -41,7 +41,7 @@ Lỗi phổ biến nhất là người lớn đi theo nhịp của xe điện, c
 Một vài cách làm cụ thể:
 
 - Tắt trợ lực hoặc để ở mức thấp nhất, chủ yếu đạp nhẹ bằng chân. Như vậy bạn khó vô tình vượt lên trước con.
-- Đặt sẵn hai ngón tay lên phanh trong suốt chặng đường. Khi con dừng đột ngột, bạn chỉ cần bóp nhẹ chứ không phải với tay. Cách phối hợp hai phanh cho êm được nói kỹ ở bài [phanh xe đạp điện êm khi có người băng ngang](/xe-may/2026/10/11/phanh-xe-ap-ien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/).
+- Đặt sẵn hai ngón tay lên phanh trong suốt chặng đường. Khi con dừng đột ngột, bạn chỉ cần bóp nhẹ chứ không phải với tay. Cách phối hợp hai phanh cho êm được nói kỹ ở bài [phanh xe đạp điện êm khi có người băng ngang](/xe-may/2026/10/11/phanh-xe-dap-dien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/).
 - Báo trước bằng câu ngắn: "Sắp rẽ phải nhé", "Phía trước có gờ, đạp chậm lại".
 - Con muốn đi nhanh hơn thì chỉ ở đoạn thẳng, thoáng; gần ngã ba hay cổng tòa nhà thì nhắc con chậm lại.
 
@@ -75,7 +75,7 @@ Khi dắt, người lớn dắt xe đạp điện ở phía có xe qua lại, co
 
 ## Mũ bảo hiểm và chuẩn bị trước khi ra khỏi nhà
 
-Cả người lớn và con đều nên đội mũ bảo hiểm vừa đầu, cài quai chắc. Mũ của con phải đúng cỡ, không xoay khi lắc đầu. Nếu bạn thuê xe, có thể đọc thêm bài [xe đạp điện thuê có cần đội mũ bảo hiểm không](/xe-may/2026/10/09/xe-ap-ien-thue-co-can-oi-mu-bao-hiem-khong/) để chuẩn bị mũ cho cả nhà.
+Cả người lớn và con đều nên đội mũ bảo hiểm vừa đầu, cài quai chắc. Mũ của con phải đúng cỡ, không xoay khi lắc đầu. Nếu bạn thuê xe, có thể đọc thêm bài [xe đạp điện thuê có cần đội mũ bảo hiểm không](/xe-may/2026/10/09/xe-dap-dien-thue-co-can-doi-mu-bao-hiem-khong/) để chuẩn bị mũ cho cả nhà.
 
 Trước khi đi, kiểm tra nhanh:
 

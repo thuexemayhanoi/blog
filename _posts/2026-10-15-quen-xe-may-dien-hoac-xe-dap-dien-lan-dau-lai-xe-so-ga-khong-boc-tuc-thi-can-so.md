@@ -59,7 +59,7 @@ Nếu xe chồm hoặc giật khi nhả phanh, thường là do vặn ga quá ta
 
 Trên xe điện, dừng chỉ cần buông ga và bóp phanh. Trên xe số, khi sắp dừng lâu, bạn đưa xe về số mo. Giảm tốc từ xa, bóp phanh dần, xuống số thấp khi tốc độ còn lại thấp, rồi dừng và đưa về số mo khi đã đứng yên, nhìn đèn N trên bảng đồng hồ.
 
-Khi chờ đèn hoặc dừng ngắn trong dòng xe, để máy nổ ở số mo và giữ phanh. Chuyện chờ đèn ở số mo hay giữ số 1 được nói trong bài [dừng đèn đỏ bằng xe số: về số mo hay giữ số 1 chờ đèn xanh](/xe-may/2026/10/11/dung-en-o-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-en-xanh/). Khi đã đỗ xe và rời xe, bạn mới tắt máy, dựng chân chống và khóa cổ.
+Khi chờ đèn hoặc dừng ngắn trong dòng xe, để máy nổ ở số mo và giữ phanh. Chuyện chờ đèn ở số mo hay giữ số 1 được nói trong bài [dừng đèn đỏ bằng xe số: về số mo hay giữ số 1 chờ đèn xanh](/xe-may/2026/10/11/dung-den-do-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-den-xanh/). Khi đã đỗ xe và rời xe, bạn mới tắt máy, dựng chân chống và khóa cổ.
 
 ## Tiếng máy và độ rung: không phải lúc nào cũng báo lỗi
 

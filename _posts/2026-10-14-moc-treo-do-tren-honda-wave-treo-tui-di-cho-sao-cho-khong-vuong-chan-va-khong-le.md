@@ -48,7 +48,7 @@ Wave có lợi thế mà nhiều xe ga không có: rổ trước khá rộng và
 
 **Yên sau** dành cho thùng đồ, két nước, bao lớn. Dùng dây chun có móc, buộc chéo hình chữ X qua đồ rồi móc vào khung sau, giữ đồ sát yên, không nhô ra hai bên quá thân xe. Kỹ thuật buộc chi tiết có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 
-Nếu đi chợ với người ngồi sau, người ấy có thể ôm túi đứng thẳng trên đùi thay cho buộc yên. Ngoài móc và rổ, Wave còn vài chỗ nhỏ để áo mưa, chai nước, sạc dự phòng, được liệt kê trong bài [Honda Wave ít chỗ cất đồ](/xe-may/2026/10/11/honda-wave-it-cho-cat-o-e-ao-mua-nuoc-va-sac-du-phong-o-au/).
+Nếu đi chợ với người ngồi sau, người ấy có thể ôm túi đứng thẳng trên đùi thay cho buộc yên. Ngoài móc và rổ, Wave còn vài chỗ nhỏ để áo mưa, chai nước, sạc dự phòng, được liệt kê trong bài [Honda Wave ít chỗ cất đồ](/xe-may/2026/10/11/honda-wave-it-cho-cat-do-de-ao-mua-nuoc-va-sac-du-phong-o-dau/).
 
 ## Chia đồ hai bên để xe không lệch khi rẽ
 

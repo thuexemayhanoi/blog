@@ -72,7 +72,7 @@ Kỳ ở hơn một tháng hay đổi kế hoạch: dự án gia hạn, chuyến
 - Nhắn tin để có câu trả lời bằng chữ, tránh hiểu nhầm.
 - Báo sớm ngay khi biết lịch thay đổi.
 
-Nếu bạn đang phân vân ở khoảng ngắn hơn, bài [ở Hà Nội hai đến ba tuần: thuê theo tuần hay chuyển sang gói tháng](/thue-xe/2026/10/11/o-ha-noi-hai-en-ba-tuan-thue-theo-tuan-hay-chuyen-sang-goi-thang/) đi kỹ vào ngưỡng đó.
+Nếu bạn đang phân vân ở khoảng ngắn hơn, bài [ở Hà Nội hai đến ba tuần: thuê theo tuần hay chuyển sang gói tháng](/thue-xe/2026/10/11/o-ha-noi-hai-den-ba-tuan-thue-theo-tuan-hay-chuyen-sang-goi-thang/) đi kỹ vào ngưỡng đó.
 
 ## Câu nên hỏi cửa hàng trước khi chốt
 

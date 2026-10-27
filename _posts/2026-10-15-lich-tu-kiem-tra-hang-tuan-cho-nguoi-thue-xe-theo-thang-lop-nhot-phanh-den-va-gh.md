@@ -55,7 +55,7 @@ Bật khóa điện, thử đèn pha cả chế độ gần và xa, đèn hậu,
 
 ### Xích với xe số
 
-Xe ga không có mục này. Với xe số, nhìn xích có khô, có rỉ đỏ hay bám bùn sau những ngày mưa không, và ấn nhẹ vào đoạn giữa xích xem có chùng hơn hẳn tuần trước. Không tự tăng xích hay tra dầu nếu chưa hỏi cửa hàng. Cách nhận biết xích chùng được nói kỹ trong bài [độ căng xích xe máy thế nào là đúng](/xe-may/2026/09/27/o-kim-va-xich-xe-may-cang-ung-cach/).
+Xe ga không có mục này. Với xe số, nhìn xích có khô, có rỉ đỏ hay bám bùn sau những ngày mưa không, và ấn nhẹ vào đoạn giữa xích xem có chùng hơn hẳn tuần trước. Không tự tăng xích hay tra dầu nếu chưa hỏi cửa hàng. Cách nhận biết xích chùng được nói kỹ trong bài [độ căng xích xe máy thế nào là đúng](/xe-may/2026/09/27/o-kim-va-xich-xe-may-cang-dung-cach/).
 
 ## Ghi chép tình trạng: ngày, số km và ảnh
 
@@ -91,4 +91,4 @@ Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00
 
 ## Kết lại
 
-Mười phút mỗi tuần, cùng một thứ tự, cùng một cuốn sổ, là đủ để người thuê tháng nắm được tình trạng xe mà không cần biết sửa xe. Nếu muốn so sánh với bản kiểm tra ngắn hơn, xem thêm bài [kiểm tra xe năm phút mỗi tuần cho người thuê dài hạn](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-en-dau-cho-nguoi-thue-xe-dai-han/). Các bài khác về chăm xe nằm ở chuyên mục [bảo dưỡng xe máy](/xe-may/bao-duong-xe/), và toàn bộ kiến thức về các dòng xe ở trang [xe máy](/xe-may/).
+Mười phút mỗi tuần, cùng một thứ tự, cùng một cuốn sổ, là đủ để người thuê tháng nắm được tình trạng xe mà không cần biết sửa xe. Nếu muốn so sánh với bản kiểm tra ngắn hơn, xem thêm bài [kiểm tra xe năm phút mỗi tuần cho người thuê dài hạn](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-den-dau-cho-nguoi-thue-xe-dai-han/). Các bài khác về chăm xe nằm ở chuyên mục [bảo dưỡng xe máy](/xe-may/bao-duong-xe/), và toàn bộ kiến thức về các dòng xe ở trang [xe máy](/xe-may/).

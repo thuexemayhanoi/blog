@@ -80,7 +80,7 @@ Nếu nhóm thuê xe ở Hà Nội, Honda Wave 150.000 đ/ngày hợp đoạn đ
 
 ## Ghép thêm điểm quanh Sơn Tây, Ba Vì và giờ về phố
 
-Hồ nằm ngay trên hướng đi Ba Vì, nhóm khỏe có thể ghép buổi sáng [chạy xe máy lên Ba Vì](/du-lich/2026/10/04/chay-xe-may-len-ba-vi-buoi-sang-uong-doc-va-luu-y/) rồi chiều xuống hồ nghỉ. Ai thích mặt nước rộng có thể so với [hồ Đồng Mô](/du-lich/2026/10/04/i-xe-may-ra-ho-ong-mo-cuoi-tuan-uong-i-va-gui-xe/) cùng khu Sơn Tây. Đừng nhồi quá hai điểm một ngày.
+Hồ nằm ngay trên hướng đi Ba Vì, nhóm khỏe có thể ghép buổi sáng [chạy xe máy lên Ba Vì](/du-lich/2026/10/04/chay-xe-may-len-ba-vi-buoi-sang-duong-doc-va-luu-y/) rồi chiều xuống hồ nghỉ. Ai thích mặt nước rộng có thể so với [hồ Đồng Mô](/du-lich/2026/10/04/di-xe-may-ra-ho-dong-mo-cuoi-tuan-duong-di-va-gui-xe/) cùng khu Sơn Tây. Đừng nhồi quá hai điểm một ngày.
 
 Chặng về dễ sai nhất: người mệt, trời tối, đường đông. Chiều Chủ nhật xe dồn về cửa ngõ phía tây; cách chọn giờ có trong bài [về phố chiều Chủ nhật đỡ tắc](/du-lich/2026/10/13/tu-ngoai-thanh-ve-pho-chieu-chu-nhat-xuat-phat-gio-nao-va-di-huong-nao-do-tac/).
 

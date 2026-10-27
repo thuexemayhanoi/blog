@@ -84,7 +84,7 @@ Chuyện này hiếm khi xảy ra nếu bạn chạy đúng luật, nhưng vài 
 - Chụp ảnh biển số và đồng hồ xe lúc nhận và lúc trả, để có mốc thời gian chắc chắn.
 - Hỏi rõ điều khoản về vi phạm qua camera trước khi ký nhận xe.
 - Lưu số liên lạc của cửa hàng và để lại một cách liên lạc với bạn sau chuyến đi.
-- Trước khi trả xe, có thể tự tra cứu theo biển số, như hướng dẫn trong bài [kiểm tra phạt nguội xe thuê trước khi trả](/an-toan-phap-ly/2026/10/07/kiem-tra-phat-nguoi-xe-thue-truoc-khi-tra-o-au/).
+- Trước khi trả xe, có thể tự tra cứu theo biển số, như hướng dẫn trong bài [kiểm tra phạt nguội xe thuê trước khi trả](/an-toan-phap-ly/2026/10/07/kiem-tra-phat-nguoi-xe-thue-truoc-khi-tra-o-dau/).
 
 ## Tóm lại
 

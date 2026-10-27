@@ -33,7 +33,7 @@ Phạm Văn Đồng là trục vành đai lớn, phía trên có đường trên
 - Trục này nhiều xe tải, xe container; giữ khoảng cách, không bám đuôi xe lớn, không cố vượt. Cách giữ thăng bằng khi xe tải chạy sát có ở bài [xe 50cc nhẹ khi gió ngang và xe tải vượt sát](/xe-may/2026/10/11/xe-50cc-nhe-khi-gio-ngang-va-xe-tai-vuot-sat-giu-thang-bang-o-cau-lon/ "Xe 50cc nhẹ khi xe tải vượt sát").
 - Tránh giờ cao điểm sáng và chiều; buổi sáng muộn ngày thường là lúc dễ chịu nhất.
 
-Một cung đường sớm sáng trên trục này được mô tả ở bài [cung đường Phạm Văn Đồng lên Nội Bài chạy xe sớm sáng](/cung-duong/2026/10/04/cung-uong-pham-van-ong-len-noi-bai-chay-xe-som-sang/ "Cung đường Phạm Văn Đồng"). Từ phố cổ, quãng đường chừng mười cây số; với xe 50cc, tính khoảng bốn mươi tới năm mươi phút ngoài giờ cao điểm.
+Một cung đường sớm sáng trên trục này được mô tả ở bài [cung đường Phạm Văn Đồng lên Nội Bài chạy xe sớm sáng](/cung-duong/2026/10/04/cung-duong-pham-van-dong-len-noi-bai-chay-xe-som-sang/ "Cung đường Phạm Văn Đồng"). Từ phố cổ, quãng đường chừng mười cây số; với xe 50cc, tính khoảng bốn mươi tới năm mươi phút ngoài giờ cao điểm.
 
 ## Đi trong ngõ làng: chậm và nhường
 
@@ -58,6 +58,6 @@ Một chai nước, mũ hoặc ô che nắng cho lúc đi bộ trong làng, áo 
 
 ## Gợi ý một buổi
 
-Xuất phát khoảng chín giờ sáng, tới Đông Ngạc gửi xe, đi bộ trong làng khoảng một tiếng rưỡi, ghé đình Vẽ và các ngõ có cổng cổ. Lấy xe chạy sang đình Chèm, cách đó không xa, dành nửa tiếng ở đình và ngắm sông Hồng từ nền đình cao. Về trước giờ tan tầm chiều. Cả buổi chỉ chạy khoảng hai mươi cây số đi và về, nằm trong sức của xe nhỏ; xem thêm bài [xe 50cc thuê chạy được quãng đường nào trong ngày](/xe-may/2026/10/09/xe-50cc-thue-chay-uoc-quang-uong-nao-trong-ngay/ "Xe 50cc thuê chạy được quãng đường nào trong ngày").
+Xuất phát khoảng chín giờ sáng, tới Đông Ngạc gửi xe, đi bộ trong làng khoảng một tiếng rưỡi, ghé đình Vẽ và các ngõ có cổng cổ. Lấy xe chạy sang đình Chèm, cách đó không xa, dành nửa tiếng ở đình và ngắm sông Hồng từ nền đình cao. Về trước giờ tan tầm chiều. Cả buổi chỉ chạy khoảng hai mươi cây số đi và về, nằm trong sức của xe nhỏ; xem thêm bài [xe 50cc thuê chạy được quãng đường nào trong ngày](/xe-may/2026/10/09/xe-50cc-thue-chay-duoc-quang-duong-nao-trong-ngay/ "Xe 50cc thuê chạy được quãng đường nào trong ngày").
 
 Các bài khác về dòng xe này có ở chuyên mục [xe 50cc](/xe-may/xe-50cc/ "Xe 50cc"), còn toàn bộ thông tin về các dòng xe ở mục [xe máy](/xe-may/ "Xe máy cho thuê ở Hà Nội").

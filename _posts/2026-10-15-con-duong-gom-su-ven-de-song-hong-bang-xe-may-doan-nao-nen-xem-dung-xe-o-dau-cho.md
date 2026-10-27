@@ -37,7 +37,7 @@ Một lưu ý để khỏi tìm hụt: tháng 6 năm 2020, khoảng sáu trăm m
 
 ### Đoạn hai: Trần Nhật Duật, qua gầm cầu Long Biên
 
-Khúc này đông và hỗn hợp hơn vì sát chợ Long Biên, xe tải nhỏ, xe ba gác chở hàng ra vào liên tục, nhất là sáng sớm. Tranh đoạn này vẫn đẹp nhưng không phải chỗ để đi rề rề. Nếu muốn kết hợp ngắm cầu Long Biên, có thể đọc thêm bài [chạy xe dọc sông Hồng nội đô](/cung-duong/2026/09/28/chay-xe-doc-song-hong-noi-o/) để nối tuyến.
+Khúc này đông và hỗn hợp hơn vì sát chợ Long Biên, xe tải nhỏ, xe ba gác chở hàng ra vào liên tục, nhất là sáng sớm. Tranh đoạn này vẫn đẹp nhưng không phải chỗ để đi rề rề. Nếu muốn kết hợp ngắm cầu Long Biên, có thể đọc thêm bài [chạy xe dọc sông Hồng nội đô](/cung-duong/2026/09/28/chay-xe-doc-song-hong-noi-do/) để nối tuyến.
 
 ### Đoạn ba: Yên Phụ, phía gần Hồ Tây
 
@@ -66,11 +66,11 @@ Một vài mẹo cho người cầm máy:
 
 1. **Chụp từ vỉa hè đối diện** để lấy trọn chiều dài một mảng tranh, thay vì đứng sát tường. Chờ khoảng trống giữa hai đợt đèn xanh để khung hình không bị xe che.
 2. **Chụp cận chi tiết** khi đi bộ dọc chân tường ở đoạn có vỉa hè: mảnh gốm vỡ, men rạn, chữ ký nghệ nhân thường đẹp hơn ảnh toàn cảnh.
-3. **Không đặt chân máy, không kê xe làm đạo cụ** ở chỗ hẹp. Ảnh chụp với chiếc xe chỉ nên làm ở điểm đã dừng hợp lệ; gợi ý bố cục xe với phố có trong bài [chụp ảnh phố cổ với xe máy](/du-lich/2026/09/28/chup-anh-pho-co-voi-xe-may-ep-o-au/).
+3. **Không đặt chân máy, không kê xe làm đạo cụ** ở chỗ hẹp. Ảnh chụp với chiếc xe chỉ nên làm ở điểm đã dừng hợp lệ; gợi ý bố cục xe với phố có trong bài [chụp ảnh phố cổ với xe máy](/du-lich/2026/09/28/chup-anh-pho-co-voi-xe-may-dep-o-dau/).
 4. **Tôn trọng công trình**: một số mảng đã bong tróc dù từng được tu sửa, không bóc, không leo lên tường để lấy góc cao.
 
 ## Kết hợp với một buổi chạy ven sông
 
-Con đường tranh gốm là phần phía trong đê. Nếu muốn thấy chính dòng sông, bãi bồi và mặt đê ngoài thành phố, hãy nối thêm lịch trình trong bài [khám phá đường đê sông Hồng bằng xe máy](/du-lich/2026/10/10/kham-pha-uong-e-song-hong-bang-xe-may/). Còn nếu chỉ có một buổi chiều, đi một lượt từ Trần Khánh Dư lên Yên Phụ, dừng hai ba lần ở chỗ rộng, rồi kết thúc bên Hồ Tây là vừa đẹp.
+Con đường tranh gốm là phần phía trong đê. Nếu muốn thấy chính dòng sông, bãi bồi và mặt đê ngoài thành phố, hãy nối thêm lịch trình trong bài [khám phá đường đê sông Hồng bằng xe máy](/du-lich/2026/10/10/kham-pha-duong-de-song-hong-bang-xe-may/). Còn nếu chỉ có một buổi chiều, đi một lượt từ Trần Khánh Dư lên Yên Phụ, dừng hai ba lần ở chỗ rộng, rồi kết thúc bên Hồ Tây là vừa đẹp.
 
 Mang theo áo chống nắng, nước uống và đổ xăng trước khi vào tuyến, vì dừng giữa đường để xử lý xe ở khu này rất khó. Xem thêm các tuyến khác trong chuyên mục [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) và toàn bộ gợi ý lộ trình tại [cung đường Hà Nội bằng xe máy](/cung-duong/).

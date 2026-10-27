@@ -49,7 +49,7 @@ Lúc nhận xe, tự kiểm tra lốp, phanh, đèn, xi nhan và mức xăng the
 2. Đến Xuân Mai, chuyển sang đường Hồ Chí Minh ở đoạn cho xe máy đi, hướng về phía nam.
 3. Sau đó theo chỉ dẫn bản đồ ở chế độ xe máy để vào khu chùa Tiên.
 
-Đường lớn, dễ tìm cây xăng và quán nghỉ. Đoạn quốc lộ 6 về Xuân Mai có lúc đông xe tải, xem thêm cách chạy ở bài [đoạn Hà Đông – Xuân Mai trên quốc lộ 6](/cung-duong/2026/10/11/oan-ha-ong-xuan-mai-hoa-binh-tren-quoc-lo-6-gio-ket-va-cach-chay/).
+Đường lớn, dễ tìm cây xăng và quán nghỉ. Đoạn quốc lộ 6 về Xuân Mai có lúc đông xe tải, xem thêm cách chạy ở bài [đoạn Hà Đông – Xuân Mai trên quốc lộ 6](/cung-duong/2026/10/11/doan-ha-dong-xuan-mai-hoa-binh-tren-quoc-lo-6-gio-ket-va-cach-chay/).
 
 ### Hướng phía chùa Hương
 
@@ -60,7 +60,7 @@ Vì khu chùa Tiên gần chùa Hương, bản đồ đôi khi gợi ý một h�
 - **Cao tốc Hòa Lạc – Hòa Bình:** gặp biển cấm xe máy thì tuyệt đối không vào.
 - **Làn chính Đại lộ Thăng Long:** dành cho ô tô, xe máy chỉ đi đường gom.
 
-Chi tiết quy định có trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/). Lỡ rẽ nhầm lối lên cao tốc thì tấp lề, bật xi nhan, chờ thoáng rồi quay ra.
+Chi tiết quy định có trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/). Lỡ rẽ nhầm lối lên cao tốc thì tấp lề, bật xi nhan, chờ thoáng rồi quay ra.
 
 ## Đến nơi: gửi xe và đoạn leo bậc lên chùa
 

@@ -75,6 +75,6 @@ Nếu hai bên vẫn chưa thống nhất, đề nghị để chủ cửa hàng 
 
 ## Chuẩn bị cho lần thuê sau để khỏi lặp lại
 
-Lần tới khi nhận xe, chụp thêm cận cảnh những chỗ hay bị hỏi như ốp sườn, yên, gương, đèn và vành; danh sách góc chụp đầy đủ có trong bài [chụp lại tình trạng xe khi nhận: các góc ảnh nên có](/thue-xe/2026/10/04/chup-lai-tinh-trang-xe-khi-nhan-cac-goc-anh-nen-co/). Khi trả, hãy cùng nhân viên đi một vòng trước khi giao chìa khóa, theo trình tự trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/).
+Lần tới khi nhận xe, chụp thêm cận cảnh những chỗ hay bị hỏi như ốp sườn, yên, gương, đèn và vành; danh sách góc chụp đầy đủ có trong bài [chụp lại tình trạng xe khi nhận: các góc ảnh nên có](/thue-xe/2026/10/04/chup-lai-tinh-trang-xe-khi-nhan-cac-goc-anh-nen-co/). Khi trả, hãy cùng nhân viên đi một vòng trước khi giao chìa khóa, theo trình tự trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/).
 
 Tóm lại, khi bị cho là làm hỏng xe mà bạn không gây ra, hãy chậm lại, mở ảnh nhận xe, đối chiếu đúng mốc đúng góc và xin ghi kết quả vào biên nhận. Các tình huống khác trong lúc thuê được gom ở mục [sự cố khi thuê xe](/thue-xe/su-co/), còn kinh nghiệm thuê xe máy ở Hà Nội nói chung nằm trong chuyên mục [thuê xe](/thue-xe/).

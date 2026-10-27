@@ -48,7 +48,7 @@ Trên những trục đi ra ngoại thành như hướng Gia Lâm sang Bắc Nin
 
 **Chuyến trong ngày, đi về trước tối.** Nếu quãng đường không quá dài và có nhiều điểm dừng tham quan, Sirius thường là lựa chọn thoải mái. Mỗi lần dừng chụp ảnh, ghé quán nước hay dắt xe vào bãi đỗ đều nhẹ nhàng.
 
-**Chuyến nhiều ngày, mỗi ngày chạy nhiều giờ.** Khi phải ngồi trên yên liên tục từ sáng tới chiều, độ êm của yên và sự ổn định của xe bắt đầu quan trọng. Yên Future rộng và dày hơn, nhiều người thấy đỡ ê mông và đỡ mỏi lưng hơn sau vài ngày. Sirius vẫn đi được chuyến dài, nhưng nên lên kế hoạch nghỉ đều đặn hơn, đứng dậy vươn vai, đi lại vài phút mỗi lần dừng. Nếu bạn vốn hay đau lưng, đọc thêm bài [chọn xe máy khi hay bị đau lưng khi đi xa](/hoi-dap/2026/10/04/chon-xe-may-khi-hay-bi-au-lung-khi-i-xa/).
+**Chuyến nhiều ngày, mỗi ngày chạy nhiều giờ.** Khi phải ngồi trên yên liên tục từ sáng tới chiều, độ êm của yên và sự ổn định của xe bắt đầu quan trọng. Yên Future rộng và dày hơn, nhiều người thấy đỡ ê mông và đỡ mỏi lưng hơn sau vài ngày. Sirius vẫn đi được chuyến dài, nhưng nên lên kế hoạch nghỉ đều đặn hơn, đứng dậy vươn vai, đi lại vài phút mỗi lần dừng. Nếu bạn vốn hay đau lưng, đọc thêm bài [chọn xe máy khi hay bị đau lưng khi đi xa](/hoi-dap/2026/10/04/chon-xe-may-khi-hay-bi-dau-lung-khi-di-xa/).
 
 Một điều ít người để ý: chuyến nhiều ngày thường mang nhiều đồ. Cả hai xe đều không có cốp kiểu xe ga, nên hành lý phải buộc lên yên sau hoặc đeo trên lưng. Xe đầm hơn chịu được ba lô buộc phía sau mà ít bị ảnh hưởng tới cảm giác lái, còn xe nhẹ sẽ thấy đuôi xe nặng rõ hơn khi vào cua.
 

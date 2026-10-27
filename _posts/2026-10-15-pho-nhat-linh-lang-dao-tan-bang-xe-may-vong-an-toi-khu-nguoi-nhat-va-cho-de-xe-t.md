@@ -36,7 +36,7 @@ Từ khu Hồ Gươm, phố cổ, cách dễ nhớ nhất là đi theo trục Ki
 
 Kim Mã có dải phân cách giữa, muốn sang bên kia phải đi tới nút có đèn, nên xem bản đồ để vào đúng làn từ sớm. Trục này đông xe buýt và có đoạn rào chắn thi công, phân làn thay đổi theo giai đoạn. Còn phân vân thì đọc bài [chọn trục Kim Mã hay trục Láng khi đi từ phố cổ](/cung-duong/2026/10/11/tu-pho-co-sang-cau-giay-bang-xe-may-truc-kim-ma-hay-truc-lang/).
 
-Nhận xe ở phía Long Biên thì qua sông vào trung tâm trước rồi nối theo trục trên; lượt về tham khảo [cung đường Nguyễn Văn Cừ về Long Biên](/cung-duong/2026/10/05/cung-uong-nguyen-van-cu-ve-long-bien-co-gi-ang-dung/).
+Nhận xe ở phía Long Biên thì qua sông vào trung tâm trước rồi nối theo trục trên; lượt về tham khảo [cung đường Nguyễn Văn Cừ về Long Biên](/cung-duong/2026/10/05/cung-duong-nguyen-van-cu-ve-long-bien-co-gi-dang-dung/).
 
 ## Vòng ăn tối gợi ý quanh phố Nhật Linh Lang
 

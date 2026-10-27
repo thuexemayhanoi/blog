@@ -34,7 +34,7 @@ Một số xe ga đời mới có cảm biến vị trí bướm ga; khi lỗi, 
 
 ## Cách kiểm tra nhanh khi nhận xe
 
-Trước khi rời cửa hàng, hãy dành vài phút thử xe theo ba bước. Bước một: chống chân, giữ phanh, vặn ga nhẹ nhàng ba lần và quan sát vòng tua tăng giảm có mượt không. Bước hai: đẩy xe ra đoạn vắng, chạy thử ga nhỏ rồi ga vừa, chú ý xem cánh tay ga có khoảng trống hay không. Bước ba: giữ ga ổn định ở vòng tua trung bình và lắng nghe tiếng động cơ; nếu nghe ngắt quãng như sụp đồng thì nên đổi xe tại chỗ. Với người mới, phần [kinh nghiệm thuê xe lần đầu cho người vừa có bằng](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) cũng nêu các điểm cần thử trước khi nhận xe.
+Trước khi rời cửa hàng, hãy dành vài phút thử xe theo ba bước. Bước một: chống chân, giữ phanh, vặn ga nhẹ nhàng ba lần và quan sát vòng tua tăng giảm có mượt không. Bước hai: đẩy xe ra đoạn vắng, chạy thử ga nhỏ rồi ga vừa, chú ý xem cánh tay ga có khoảng trống hay không. Bước ba: giữ ga ổn định ở vòng tua trung bình và lắng nghe tiếng động cơ; nếu nghe ngắt quãng như sụp đồng thì nên đổi xe tại chỗ. Với người mới, phần [kinh nghiệm thuê xe lần đầu cho người vừa có bằng](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/) cũng nêu các điểm cần thử trước khi nhận xe.
 
 ## Khi nào nên yêu cầu đổi xe ngay
 

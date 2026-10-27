@@ -74,11 +74,11 @@ Nếu cảm thấy xe lắc đầu hoặc tay lái nặng bất thường, tấp
 
 ## Từ ga, bến xe về phố cổ và Long Biên
 
-Từ ga Hà Nội về phố cổ, quãng đường ngắn nhưng nhiều ngã tư và phố một chiều; chọn đường dọc các phố lớn, tránh ngõ nhỏ khi đang chở vali. Gửi xe, dắt xe quanh ga có lưu ý riêng, xem bài [đến ga Hà Nội bằng xe máy](/du-lich/2026/10/04/en-ga-ha-noi-bang-xe-may-gui-xe-va-uong-i/).
+Từ ga Hà Nội về phố cổ, quãng đường ngắn nhưng nhiều ngã tư và phố một chiều; chọn đường dọc các phố lớn, tránh ngõ nhỏ khi đang chở vali. Gửi xe, dắt xe quanh ga có lưu ý riêng, xem bài [đến ga Hà Nội bằng xe máy](/du-lich/2026/10/04/den-ga-ha-noi-bang-xe-may-gui-xe-va-duong-di/).
 
 Từ phố cổ sang Long Biên, xe máy qua cầu Chương Dương hoặc cầu Long Biên. Cầu Long Biên mặt đường hẹp, có khe nối, nên khi chở vali sau yên hãy đi chậm và giữ làn bên phải. Từ bến xe Gia Lâm về khu Bồ Đề, Ngọc Lâm quãng đường gần, nhưng đường Nguyễn Văn Cừ giờ cao điểm khá đông, nên giữ cự ly và đừng lách.
 
-Nếu đi xe số, cách xếp đồ khác hẳn vì không có sàn phẳng; so sánh với bài [Honda Wave không có sàn để chân](/xe-may/2026/10/15/honda-wave-khong-co-san-de-chan-cho-vali-balo-du-lich-tu-ben-xe-san-bay-ve-cho-o/). Đồ nhỏ nên cho vào cốp, xem [cốp Honda Vision chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-uoc-nhung-gi/).
+Nếu đi xe số, cách xếp đồ khác hẳn vì không có sàn phẳng; so sánh với bài [Honda Wave không có sàn để chân](/xe-may/2026/10/15/honda-wave-khong-co-san-de-chan-cho-vali-balo-du-lich-tu-ben-xe-san-bay-ve-cho-o/). Đồ nhỏ nên cho vào cốp, xem [cốp Honda Vision chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-duoc-nhung-gi/).
 
 ## Nhận xe ở tiệm khi có hành lý
 

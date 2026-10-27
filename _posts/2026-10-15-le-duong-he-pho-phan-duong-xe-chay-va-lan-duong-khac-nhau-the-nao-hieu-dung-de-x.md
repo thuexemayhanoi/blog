@@ -31,7 +31,7 @@ Bài đọc phần giải thích từ ngữ ở Điều 2 và không thấy đ�
 
 Điều 77 khoản 1 viết lòng đường được sử dụng cho mục đích giao thông, vỉa hè được sử dụng cho người đi bộ, và việc sử dụng tạm thời lòng đường, vỉa hè cho mục đích khác phải được cơ quan có thẩm quyền cho phép. Điều này tách hai nơi theo công dụng: một nơi cho xe, một nơi cho người.
 
-Điều 18 khoản 4 điểm o còn liệt kê trong các chỗ không được dừng xe, đỗ xe: lòng đường, vỉa hè trái quy định của pháp luật. Bài diễn đạt lại và không biết trường hợp nào được coi là đúng quy định. Bài [đọc biển báo cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/oc-bien-bao-cam-o-va-cam-dung-tren-via-he/) nói thêm cách nhận biết biển.
+Điều 18 khoản 4 điểm o còn liệt kê trong các chỗ không được dừng xe, đỗ xe: lòng đường, vỉa hè trái quy định của pháp luật. Bài diễn đạt lại và không biết trường hợp nào được coi là đúng quy định. Bài [đọc biển báo cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/doc-bien-bao-cam-do-va-cam-dung-tren-via-he/) nói thêm cách nhận biết biển.
 
 ## Người đi bộ đi trên vỉa hè, lề đường: Điều 30 khoản 1 điểm a
 

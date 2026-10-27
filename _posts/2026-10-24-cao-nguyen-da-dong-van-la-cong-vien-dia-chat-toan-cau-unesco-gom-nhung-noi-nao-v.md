@@ -29,7 +29,7 @@ Giá trị của vùng không chỉ nằm ở đá. Nơi đây còn là quê hư
 
 Vùng công viên địa chất trải qua bốn huyện cũ: Quản Bạ, Yên Minh, Đồng Văn và Mèo Vạc, nay thuộc tỉnh Tuyên Quang. Từ thành phố Hà Giang đi lên, bạn thường qua Quản Bạ với Cổng Trời và núi đôi, tiếp đến Yên Minh, rồi lên Đồng Văn và Mèo Vạc, nơi có đèo Mã Pí Lèng và sông Nho Quế.
 
-Cách chia theo bốn vùng giúp bạn lập kế hoạch dễ hơn. Mỗi vùng có những điểm nổi bật khác nhau, và việc chia chặng theo vùng giúp bạn không phải chạy quá dài mỗi ngày. Bài không liệt kê hết mọi điểm vì danh sách rất dài và thay đổi theo từng thời kỳ; hãy xem thêm các bài chi tiết như [chạy đèo Mã Pí Lèng bằng xe số an toàn](/cung-duong/2026/09/28/chay-eo-ma-pi-leng-bang-xe-so-an-toan/) cho từng điểm.
+Cách chia theo bốn vùng giúp bạn lập kế hoạch dễ hơn. Mỗi vùng có những điểm nổi bật khác nhau, và việc chia chặng theo vùng giúp bạn không phải chạy quá dài mỗi ngày. Bài không liệt kê hết mọi điểm vì danh sách rất dài và thay đổi theo từng thời kỳ; hãy xem thêm các bài chi tiết như [chạy đèo Mã Pí Lèng bằng xe số an toàn](/cung-duong/2026/09/28/chay-deo-ma-pi-leng-bang-xe-so-an-toan/) cho từng điểm.
 
 ## Dừng xe ngắm đá ở đâu cho hợp lệ và an toàn
 
@@ -45,13 +45,13 @@ Với ruộng, nương và nhà dân dọc đường, hãy coi đó là tài s�
 
 ## Chợ phiên, hang động và những điểm có phí: hỏi trước, đi đúng lịch
 
-Một số điểm trong vùng có lịch riêng, như chợ phiên họp vào những ngày nhất định, hoặc hang động và điểm tham quan có giờ mở cửa và vé. Bài không có dữ kiện về lịch và giá vé hiện hành, nên hãy hỏi nơi lưu trú hoặc xem thông tin chính thức. Bài [chợ phiên Đồng Văn bằng xe máy cuối tuần](/cung-duong/2026/10/01/cho-phien-ong-van-bang-xe-may-cuoi-tuan/) nói thêm về chợ phiên.
+Một số điểm trong vùng có lịch riêng, như chợ phiên họp vào những ngày nhất định, hoặc hang động và điểm tham quan có giờ mở cửa và vé. Bài không có dữ kiện về lịch và giá vé hiện hành, nên hãy hỏi nơi lưu trú hoặc xem thông tin chính thức. Bài [chợ phiên Đồng Văn bằng xe máy cuối tuần](/cung-duong/2026/10/01/cho-phien-dong-van-bang-xe-may-cuoi-tuan/) nói thêm về chợ phiên.
 
 Khi vào khu có người trông xe, hãy lấy vé gửi và giữ lại. Mang tiền lẻ vì ở vùng cao, nhiều nơi không nhận chuyển khoản. Đi vào ban ngày, vì đường tối và sương mù ở vùng núi rất nguy hiểm. Đừng cố nhồi nhiều điểm vào một ngày; chọn ít điểm và đi kỹ thường để lại nhiều ấn tượng hơn.
 
 ## Chuẩn bị xe và người cho chuyến đi lên cao nguyên đá
 
-Đường lên cao nguyên đá có nhiều đèo dốc, cua gấp và đoạn hẹp. Kiểm tra phanh, lốp, đèn trước khi đi và mang đủ đồ giữ ấm, áo mưa. Người mới nên cân nhắc kỹ trước khi tự lái xe máy; bài [thuê xe máy đi Hà Giang người mới có nên tự lái không](/cung-duong/2026/10/05/thue-xe-may-i-ha-giang-nguoi-moi-co-nen-tu-lai-khong/) nói về chuyện này.
+Đường lên cao nguyên đá có nhiều đèo dốc, cua gấp và đoạn hẹp. Kiểm tra phanh, lốp, đèn trước khi đi và mang đủ đồ giữ ấm, áo mưa. Người mới nên cân nhắc kỹ trước khi tự lái xe máy; bài [thuê xe máy đi Hà Giang người mới có nên tự lái không](/cung-duong/2026/10/05/thue-xe-may-di-ha-giang-nguoi-moi-co-nen-tu-lai-khong/) nói về chuyện này.
 
 Nếu bạn thuê xe ở Hà Nội, hãy hỏi tiệm về xe phù hợp đi đèo và chính sách đi xa; bài không có dữ kiện về chính sách này. Tiệm Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, số liên hệ 0942467674. Giá thuê và tiền cọc là thông tin tham khảo, cần xác nhận trực tiếp trước khi đặt xe. Xem thêm các bài khác trong chuyên mục [cung đường Hà Giang](/cung-duong/ha-giang/) và trang [cung đường](/cung-duong/).
 

@@ -42,7 +42,7 @@ Hợp với ai ở phía bắc phố cổ, quanh Hàng Mã, Đồng Xuân. Bạn
 
 Hợp với ai ở phía nam phố cổ hoặc quanh Hồ Gươm. Đi Hàng Bông ra Cửa Nam, rẽ vào Điện Biên Phủ, qua Cột cờ Hà Nội, hướng về Đài tưởng niệm các Anh hùng liệt sĩ trên phố Bắc Sơn, quảng trường nằm ngay phía trước. Đoạn này nhiều nút giao, hãy đọc biển ở từng đầu phố.
 
-Nếu chưa từng chạy phố cổ lúc sớm, đọc trước bài [chạy xe phố cổ sáng sớm và các điểm dừng](/cung-duong/2026/10/10/chay-xe-pho-co-sang-som-cung-i-va-iem-dung/) để quen hướng các phố một chiều.
+Nếu chưa từng chạy phố cổ lúc sớm, đọc trước bài [chạy xe phố cổ sáng sớm và các điểm dừng](/cung-duong/2026/10/10/chay-xe-pho-co-sang-som-cung-di-va-diem-dung/) để quen hướng các phố một chiều.
 
 ## Chạy xe lúc trời còn tối: những thứ hay bị bỏ qua
 
@@ -86,7 +86,7 @@ Với trẻ nhỏ, kể trước cho bé nghe sẽ thấy gì: các chú bộ đ
 
 Lễ chỉ diễn ra trong ít phút. Xong lễ, nhiều gia đình đi bộ quanh khu vực hoặc sang Chùa Một Cột gần đó. Lăng thường đón khách vào buổi sáng một số ngày trong tuần và có đợt tạm đóng để bảo dưỡng, nên kiểm tra thông báo chính thức nếu muốn vào viếng.
 
-Từ khoảng 7 giờ, đường bắt đầu đông. Muốn chạy thong thả, hãy lấy xe sớm, nối sang [vòng trung tâm Hà Nội lúc sáng sớm](/cung-duong/2026/09/28/cung-uong-chay-xe-vong-trung-tam-ha-noi-sang-som/) rồi về phố cổ ăn sáng.
+Từ khoảng 7 giờ, đường bắt đầu đông. Muốn chạy thong thả, hãy lấy xe sớm, nối sang [vòng trung tâm Hà Nội lúc sáng sớm](/cung-duong/2026/09/28/cung-duong-chay-xe-vong-trung-tam-ha-noi-sang-som/) rồi về phố cổ ăn sáng.
 
 ## Thuê xe thì nhận xe từ hôm trước
 

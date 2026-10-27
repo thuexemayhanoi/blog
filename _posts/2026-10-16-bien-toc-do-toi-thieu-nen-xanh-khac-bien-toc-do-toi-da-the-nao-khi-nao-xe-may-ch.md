@@ -24,7 +24,7 @@ Báo hiệu đường bộ hiện áp dụng QCVN 41:2024/BGTVT, ban hành kèm 
 - **R.306 "Tốc độ tối thiểu cho phép":** tròn, nền xanh lam, số trắng. Biển bắt buộc xe cơ giới chạy không nhỏ hơn trị số ghi trên biển khi điều kiện giao thông thuận lợi và an toàn.
 - **R.307 "Hết tốc độ tối thiểu":** báo đoạn áp dụng tốc độ tối thiểu đã kết thúc; vẫn nền xanh và con số, thêm vạch chéo đỏ.
 
-Biển hiệu lệnh là mệnh lệnh phải làm theo, không phải lời khuyên. Xe máy cũng là xe cơ giới, nên vào đoạn có R.306 thì người cầm lái Wave hay Vision chịu cùng yêu cầu như ô tô. Các biển hiệu lệnh khác có ở bài [biển báo hiệu lệnh cần tuân thủ khi đi xe](/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe/).
+Biển hiệu lệnh là mệnh lệnh phải làm theo, không phải lời khuyên. Xe máy cũng là xe cơ giới, nên vào đoạn có R.306 thì người cầm lái Wave hay Vision chịu cùng yêu cầu như ô tô. Các biển hiệu lệnh khác có ở bài [biển báo hiệu lệnh cần tuân thủ khi đi xe](/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-di-xe/).
 
 ## Phân biệt biển tốc độ tối đa và tối thiểu: nhìn màu nền trước
 

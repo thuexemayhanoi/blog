@@ -46,7 +46,7 @@ Vi phạm kiểu này thường đến rất tự nhiên:
 2. Thuê hai xe, một chiếc nhàn rỗi nên cho đồng nghiệp đi theo ngày.
 3. Chạy xe công nghệ, rồi để người khác chạy ca tối bằng tài khoản của họ.
 
-Cả ba đều là giao xe cho người cửa hàng chưa biết mặt, chưa xem bằng lái. Người đó gây tai nạn hay bị phạt, người đứng tên hợp đồng vẫn là bạn. Muốn thêm người lái thì báo trước, như hướng dẫn trong bài [hai người thay nhau lái một xe máy thuê](/thue-xe/2026/10/15/hai-nguoi-thay-nhau-lai-mot-xe-may-thue-gia-co-khac-khong-va-can-bao-cua-hang-nh/). Định chạy giao hàng thì khai rõ từ đầu, xem bài [thuê xe máy để chạy giao hàng hay xe công nghệ](/thue-xe/2026/10/11/thue-xe-may-e-chay-giao-hang-hay-xe-cong-nghe-hoi-ro-muc-ich-su-dung/).
+Cả ba đều là giao xe cho người cửa hàng chưa biết mặt, chưa xem bằng lái. Người đó gây tai nạn hay bị phạt, người đứng tên hợp đồng vẫn là bạn. Muốn thêm người lái thì báo trước, như hướng dẫn trong bài [hai người thay nhau lái một xe máy thuê](/thue-xe/2026/10/15/hai-nguoi-thay-nhau-lai-mot-xe-may-thue-gia-co-khac-khong-va-can-bao-cua-hang-nh/). Định chạy giao hàng thì khai rõ từ đầu, xem bài [thuê xe máy để chạy giao hàng hay xe công nghệ](/thue-xe/2026/10/11/thue-xe-may-de-chay-giao-hang-hay-xe-cong-nghe-hoi-ro-muc-dich-su-dung/).
 
 ## Đua xe, bốc đầu và chạy "thử máy"
 

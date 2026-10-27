@@ -54,7 +54,7 @@ Trong phố cổ, các phố như Hàng Bạc, Hàng Buồm có mặt đường 
 
 Đây là phần nhiều người cần làm quen nhất. Xe ga lớn nặng hơn, nên bạn quen bóp phanh khá mạnh mới thấy xe chậm lại. Sang xe nhỏ và nhẹ, cùng thói quen đó khiến xe giảm tốc gắt hơn dự tính, nhất là khi chỉ bóp phanh trước.
 
-Hệ thống phanh trên mỗi chiếc xe cho thuê tùy đời và phiên bản. Khi nhận xe, hãy hỏi tiệm chiếc xe của bạn dùng loại phanh gì và tự thử ngay tại chỗ. Bài [kiểm tra phanh trước khi nhận xe thuê](/xe-may/2026/10/01/en-phanh-xe-thue-yeu-kiem-tra-truoc-khi-nhan-xe/) có các bước kiểm tra cụ thể.
+Hệ thống phanh trên mỗi chiếc xe cho thuê tùy đời và phiên bản. Khi nhận xe, hãy hỏi tiệm chiếc xe của bạn dùng loại phanh gì và tự thử ngay tại chỗ. Bài [kiểm tra phanh trước khi nhận xe thuê](/xe-may/2026/10/01/den-phanh-xe-thue-yeu-kiem-tra-truoc-khi-nhan-xe/) có các bước kiểm tra cụ thể.
 
 Tập lại lực phanh theo thứ tự:
 

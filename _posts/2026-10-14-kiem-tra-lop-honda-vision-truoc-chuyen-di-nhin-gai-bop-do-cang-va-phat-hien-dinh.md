@@ -31,7 +31,7 @@ Dựng xe trên nền phẳng, tắt máy, rồi ngồi xổm trước bánh tr�
 - **Hông lốp.** Nhìn kỹ phần cao su ở thành bên. Vết nứt chân chim mảnh như sợi tóc thường là dấu hiệu lốp đã lâu năm, cao su khô. Vết nứt sâu, có chỗ phồng lên như cục u, hay vết rách thì không nên đi xa.
 - **Vết vá cũ.** Miếng vá gọn không đáng ngại, nhưng nhớ vị trí để lát nữa xem có rỉ hơi không.
 
-Sau đó ra phía sau xe, ngồi xuống thấp ngang chắn bùn và lặp lại với bánh sau. Bánh sau của xe ga chịu sức nặng của động cơ, người lái và người ngồi sau, nên thường mòn nhanh hơn bánh trước. Thấy mòn rõ, nứt sâu hay phồng hông thì báo cửa hàng trước khi lên đường. Cách soát lốp lúc ký nhận xe được viết kỹ trong bài [kiểm tra lốp xe máy thuê khi nhận xe](/thue-xe/2026/10/12/kiem-tra-lop-xe-may-thue-khi-nhan-xe-mon-nut-va-o-cang/), còn bài này tập trung vào buổi sáng trước chuyến đi.
+Sau đó ra phía sau xe, ngồi xuống thấp ngang chắn bùn và lặp lại với bánh sau. Bánh sau của xe ga chịu sức nặng của động cơ, người lái và người ngồi sau, nên thường mòn nhanh hơn bánh trước. Thấy mòn rõ, nứt sâu hay phồng hông thì báo cửa hàng trước khi lên đường. Cách soát lốp lúc ký nhận xe được viết kỹ trong bài [kiểm tra lốp xe máy thuê khi nhận xe](/thue-xe/2026/10/12/kiem-tra-lop-xe-may-thue-khi-nhan-xe-mon-nut-va-do-cang/), còn bài này tập trung vào buổi sáng trước chuyến đi.
 
 ## Bóp độ căng bằng tay khi không có đồng hồ đo
 

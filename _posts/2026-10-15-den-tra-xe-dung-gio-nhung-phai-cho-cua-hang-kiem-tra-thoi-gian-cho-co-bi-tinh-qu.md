@@ -56,13 +56,13 @@ Khi vừa dựng xe trước cửa hàng, làm ngay hai việc:
 - **Chụp một tấm ảnh xe đang đỗ trước biển hiệu.** Điện thoại tự lưu giờ chụp, đây là bằng chứng bạn đã có mặt. Chụp thêm đồng hồ xăng và công-tơ-mét để tiện đối chiếu.
 - **Nhắn một dòng "Em đã đến cửa hàng".** Tin nhắn có giờ gửi, bổ sung cho tấm ảnh.
 
-Sau đó báo trực tiếp với nhân viên hoặc người đang trực: "Em đến trả xe theo lịch hẹn lúc bốn giờ, anh chị ghi nhận giúp em giờ đến". Đề nghị này hoàn toàn bình thường, nói nhẹ nhàng thì không ai phật lòng. Cách chụp ảnh hiện trạng đầy đủ hơn có trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/).
+Sau đó báo trực tiếp với nhân viên hoặc người đang trực: "Em đến trả xe theo lịch hẹn lúc bốn giờ, anh chị ghi nhận giúp em giờ đến". Đề nghị này hoàn toàn bình thường, nói nhẹ nhàng thì không ai phật lòng. Cách chụp ảnh hiện trạng đầy đủ hơn có trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/).
 
 ## Khi phải chờ lâu: trao đổi lịch sự, không nóng vội
 
 Đang vội mà phải ngồi đợi thì dễ bực. Vài cách giữ mọi việc nhẹ nhàng:
 
-- **Dùng thời gian chờ để tự kiểm tra.** Lấy hết đồ trong cốp, móc treo, giỏ trước; gấp sẵn áo mưa; để mũ bảo hiểm lên yên. Danh sách gọn có trong bài [kiểm tra đồ đạc trước khi trả xe](/thue-xe/2026/10/04/kiem-tra-o-ac-truoc-khi-tra-xe-checklist-hai-phut/).
+- **Dùng thời gian chờ để tự kiểm tra.** Lấy hết đồ trong cốp, móc treo, giỏ trước; gấp sẵn áo mưa; để mũ bảo hiểm lên yên. Danh sách gọn có trong bài [kiểm tra đồ đạc trước khi trả xe](/thue-xe/2026/10/04/kiem-tra-do-dac-truoc-khi-tra-xe-checklist-hai-phut/).
 - **Hỏi thứ tự một cách lịch sự.** "Em đang có chuyến tàu lúc sáu giờ, anh chị xem giúp em có thể kiểm tra trước được không" nghe dễ chịu hơn nhiều so với lời phàn nàn.
 - **Nếu có thắc mắc về giờ, đưa ra bằng chứng nhẹ nhàng.** Mở tin nhắn hẹn giờ và ảnh lúc đến, đề nghị hai bên cùng xem. Không cần tranh cãi, chỉ cần đối chiếu.
 

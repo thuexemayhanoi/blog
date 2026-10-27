@@ -76,7 +76,7 @@ Tin tóm tắt phát huy tác dụng ở hai thời điểm. Lúc nhận xe, m�
 
 Ví dụ, bạn gọi đặt xe ở cửa hàng trên phố Nguyễn Văn Cừ, Long Biên, hẹn nhận buổi chiều để kịp chạy sang Cầu Giấy; tối hôm trước chỉ cần nhắn thêm một câu "mai em qua đúng giờ đã hẹn ạ". Với cửa hàng mở cửa từ 09:00 đến 21:00, giờ nhận và trả xe nên nằm trong khung đó; muốn nhận sớm hay trả muộn hơn thì hỏi trước, không mặc định.
 
-Những thông tin cần chốt trước trong cuộc gọi được nói kỹ trong bài [quy trình đặt xe trước qua điện thoại](/thue-xe/2026/09/27/quy-trinh-at-xe-truoc-qua-ien-thoai-chot-truoc-ieu-gi/). Nếu bạn quen nhắn tin từ đầu thay vì gọi, bài [đặt xe thuê qua tin nhắn và chốt bằng văn bản](/thue-xe/2026/10/03/at-xe-thue-qua-tin-nhan-chot-nhung-gi-bang-van-ban/) sẽ hợp hơn. Còn khi cọc bằng chuyển khoản, xem thêm [cách giữ bằng chứng khi đặt cọc qua ứng dụng](/thue-xe/2026/10/07/cach-giu-bang-chung-coc-khi-at-tien-thue-xe-qua-ung-dung/).
+Những thông tin cần chốt trước trong cuộc gọi được nói kỹ trong bài [quy trình đặt xe trước qua điện thoại](/thue-xe/2026/09/27/quy-trinh-dat-xe-truoc-qua-dien-thoai-chot-truoc-dieu-gi/). Nếu bạn quen nhắn tin từ đầu thay vì gọi, bài [đặt xe thuê qua tin nhắn và chốt bằng văn bản](/thue-xe/2026/10/03/dat-xe-thue-qua-tin-nhan-chot-nhung-gi-bang-van-ban/) sẽ hợp hơn. Còn khi cọc bằng chuyển khoản, xem thêm [cách giữ bằng chứng khi đặt cọc qua ứng dụng](/thue-xe/2026/10/07/cach-giu-bang-chung-coc-khi-dat-tien-thue-xe-qua-ung-dung/).
 
 ## Tóm lại
 

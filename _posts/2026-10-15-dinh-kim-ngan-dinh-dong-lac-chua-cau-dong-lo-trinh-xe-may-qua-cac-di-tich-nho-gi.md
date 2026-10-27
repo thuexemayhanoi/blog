@@ -69,7 +69,7 @@ Phố cổ đông, vỉa hè hay bị chiếm chỗ, nên đi một hàng, nhìn
 - **Không chạm vào đồ thờ, không ngồi lên bậc hậu cung.** Nếu có dây ngăn hay cửa khép, coi đó là ranh giới.
 - **Công đức tự nguyện, bỏ vào hòm.** Không nhét tiền lẻ vào tay tượng hay kẽ đồ thờ.
 
-Người đi lễ đầu tháng nên chuẩn bị lễ gọn: hoa, quả, hương vừa đủ, mua sẵn trước khi vào phố để khỏi xách lâu. Cách cột đồ lễ trên xe cho khỏi dập có trong bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-o-i-le-chua-au-nam-tren-xe-may/).
+Người đi lễ đầu tháng nên chuẩn bị lễ gọn: hoa, quả, hương vừa đủ, mua sẵn trước khi vào phố để khỏi xách lâu. Cách cột đồ lễ trên xe cho khỏi dập có trong bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-do-di-le-chua-dau-nam-tren-xe-may/).
 
 ## Nếu đi cùng người lớn tuổi hoặc trời mưa
 

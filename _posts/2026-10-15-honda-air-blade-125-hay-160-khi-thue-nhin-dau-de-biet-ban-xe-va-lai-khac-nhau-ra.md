@@ -49,7 +49,7 @@ Chắc chắn nhất là dòng dung tích ghi bằng số cm3 trên giấy đăn
 
 Theo Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15, bằng A1 cấp từ ngày 01/01/2025 chỉ cho phép lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3. Như vậy Air Blade 160 vượt phạm vi của bằng A1 cấp theo luật mới, người lái cần bằng hạng A. Nếu bằng của bạn được cấp trước thời điểm đó, phạm vi được xác định theo quy định chuyển tiếp, hãy đối chiếu lại hạng ghi trên bằng.
 
-Phạm vi từng hạng được giải thích kỹ trong bài [bằng lái A1 điều khiển xe máy phạm vi nào](/an-toan-phap-ly/2026/09/28/bang-lai-a1-ieu-khien-xe-may-pham-vi-nao/). Nếu bằng của bạn không khớp với bản xe, nói ngay với tiệm lúc nhận để đổi sang xe phù hợp.
+Phạm vi từng hạng được giải thích kỹ trong bài [bằng lái A1 điều khiển xe máy phạm vi nào](/an-toan-phap-ly/2026/09/28/bang-lai-a1-dieu-khien-xe-may-pham-vi-nao/). Nếu bằng của bạn không khớp với bản xe, nói ngay với tiệm lúc nhận để đổi sang xe phù hợp.
 
 Ghi chú: phần này là thông tin tham khảo, quy định có thể được sửa đổi, bổ sung. Văn bản gốc xem tại [Công báo Chính phủ](https://congbao.chinhphu.vn/van-ban/luat-so-36-2024-qh15-42555.htm).
 

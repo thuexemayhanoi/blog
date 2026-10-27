@@ -70,7 +70,7 @@ Trách nhiệm khi xe thuê gặp sự cố mất cắp là chuyện cần hỏi
 
 Cuối tuần đầu, bạn sẽ hình dung rõ hơn mình còn cần xe thuê bao lâu. Chưa có tin tức gì và cũng chưa định mua ngay thì gia hạn thêm một tuần, nhớ báo tiệm trước một hai hôm như trong bài [gia hạn thuê xe máy theo tuần](/thue-xe/2026/10/14/gia-han-thue-xe-may-theo-tuan-bao-tiem-luc-nao-co-can-mang-xe-ve-kiem-tra-lai-kh/).
 
-Nếu đã thấy chắc phải từ hai, ba tuần trở lên, hãy so với gói tháng: Vision 1.800.000–2.000.000 đ, Air Blade 1.500.000 đ, Click hoặc Mio 900.000–1.200.000 đ. Cách tính cụ thể có trong bài [thuê theo tuần hay chuyển sang gói tháng](/thue-xe/2026/10/11/o-ha-noi-hai-en-ba-tuan-thue-theo-tuan-hay-chuyen-sang-goi-thang/).
+Nếu đã thấy chắc phải từ hai, ba tuần trở lên, hãy so với gói tháng: Vision 1.800.000–2.000.000 đ, Air Blade 1.500.000 đ, Click hoặc Mio 900.000–1.200.000 đ. Cách tính cụ thể có trong bài [thuê theo tuần hay chuyển sang gói tháng](/thue-xe/2026/10/11/o-ha-noi-hai-den-ba-tuan-thue-theo-tuan-hay-chuyen-sang-goi-thang/).
 
 ## Lúc nào nên tính chuyện mua xe khác
 

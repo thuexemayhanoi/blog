@@ -32,7 +32,7 @@ Lưu ý: hiện tượng xe giật mạnh khi lên ga, máy rú nhưng xe vẫn 
 
 Khó vào số có hai dạng. Dạng thứ nhất là lúc xe đứng yên, bạn đạp từ N vào số một mà cần cứng, đạp xuống không có tiếng tách, hoặc vào được nhưng xe chồm nhẹ. Dạng thứ hai là đang chạy mà không lên hoặc không xuống được số, cần số như bị chặn giữa chừng.
 
-Với dạng đứng yên, nguyên nhân hay gặp nhất lại rất đơn giản: bánh răng trong hộp số chưa nằm đúng vị trí ăn khớp. Vào sáng lạnh, dầu máy còn đặc cũng làm cần nặng hơn, chuyện này được nói riêng trong bài [xe số khó vào số khi trời lạnh](/xe-may/2026/10/04/xe-so-kho-vao-so-khi-troi-lanh-xu-ly-ban-au/). Còn khi đang chạy mà cần số bị chặn, hoặc vừa vào số đã bật ra, khả năng cao là có vấn đề cần thợ xem.
+Với dạng đứng yên, nguyên nhân hay gặp nhất lại rất đơn giản: bánh răng trong hộp số chưa nằm đúng vị trí ăn khớp. Vào sáng lạnh, dầu máy còn đặc cũng làm cần nặng hơn, chuyện này được nói riêng trong bài [xe số khó vào số khi trời lạnh](/xe-may/2026/10/04/xe-so-kho-vao-so-khi-troi-lanh-xu-ly-ban-dau/). Còn khi đang chạy mà cần số bị chặn, hoặc vừa vào số đã bật ra, khả năng cao là có vấn đề cần thợ xem.
 
 ## Vì sao người lái mới hay gặp hơn
 

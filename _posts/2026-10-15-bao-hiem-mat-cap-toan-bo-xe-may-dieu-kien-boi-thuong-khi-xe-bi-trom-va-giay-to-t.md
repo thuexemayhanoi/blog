@@ -24,7 +24,7 @@ Tờ bảo hiểm mua khi đăng ký xe không lo chuyện mất xe. Có hai l�
 - **Bảo hiểm bắt buộc trách nhiệm dân sự (TNDS)** theo Nghị định 67/2023/NĐ-CP. Lớp này chi cho thiệt hại mà xe của bạn gây ra cho người khác. Nó không chi cho chính chiếc xe của bạn, nên xe bị trộm thì lớp này không liên quan.
 - **Bảo hiểm vật chất xe tự nguyện**, do chủ xe mua thêm theo thỏa thuận với doanh nghiệp bảo hiểm, trên khung của Luật Kinh doanh bảo hiểm năm 2022. Quyền lợi mất cắp, mất cướp toàn bộ xe nếu có sẽ nằm ở đây.
 
-Tùy sản phẩm, quyền lợi mất cắp có thể nằm sẵn trong phạm vi bảo hiểm, cũng có thể là một điều khoản bổ sung phải chọn riêng. Chỗ trả lời chắc chắn là giấy chứng nhận và bản quy tắc bạn được giao. Nếu đang cân nhắc có nên mua lớp này, đọc bài [bảo hiểm tự nguyện xe máy có đáng mua thêm không](/an-toan-phap-ly/2026/10/10/bao-hiem-tu-nguyen-xe-may-co-ang-mua-them-khong/).
+Tùy sản phẩm, quyền lợi mất cắp có thể nằm sẵn trong phạm vi bảo hiểm, cũng có thể là một điều khoản bổ sung phải chọn riêng. Chỗ trả lời chắc chắn là giấy chứng nhận và bản quy tắc bạn được giao. Nếu đang cân nhắc có nên mua lớp này, đọc bài [bảo hiểm tự nguyện xe máy có đáng mua thêm không](/an-toan-phap-ly/2026/10/10/bao-hiem-tu-nguyen-xe-may-co-dang-mua-them-khong/).
 
 ## Điều kiện chung của bảo hiểm trộm cắp xe máy
 
@@ -90,7 +90,7 @@ Người hay gửi xe ở chợ Đồng Xuân, cổng bệnh viện hay vỉa h�
 - Khóa cổ và thêm khóa đĩa, nhất là khi đỗ lâu.
 - Cất chìa dự phòng ở nhà, đừng treo cùng chùm chìa trên xe.
 
-Trách nhiệm của bãi giữ xe khi xe mất là chuyện riêng, phụ thuộc thỏa thuận gửi giữ; vé xe là bằng chứng ban đầu. Mẹo đỗ xe an toàn hơn có ở bài [chống trộm xe máy khi để ngoài đường](/ky-nang/2026-09-29/chong-trom-xe-may-khi-e-ngoai-uong/).
+Trách nhiệm của bãi giữ xe khi xe mất là chuyện riêng, phụ thuộc thỏa thuận gửi giữ; vé xe là bằng chứng ban đầu. Mẹo đỗ xe an toàn hơn có ở bài [chống trộm xe máy khi để ngoài đường](/ky-nang/2026-09-29/chong-trom-xe-may-khi-de-ngoai-duong/).
 
 ## Nếu xe bị mất là xe thuê
 

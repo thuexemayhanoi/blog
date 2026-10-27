@@ -53,7 +53,7 @@ Hướng dẫn Evo cho biết xe giảm hiệu suất khi nhiệt độ pin dư�
 
 Dat Bike có chế độ bảo vệ hình con rùa, tự bật khi xe kéo dòng lớn lúc pin yếu để pin không tụt đột ngột về 0%. Muốn thoát, nhả ga rồi nhấn công tắc đa chức năng.
 
-Trưa hè Hà Nội, leo dốc cầu Vĩnh Tuy hay chở nặng đường dài là lúc dễ gặp cảnh báo nhiệt. Khi thấy biểu tượng nhiệt, tìm chỗ râm dừng xe, tắt nguồn chờ xe nguội rồi mới đi tiếp với tốc độ đều. Cách đọc vạch pin có ở bài [pin xe máy điện thuê báo sập ở đâu trên bảng đồng hồ](/xe-may/2026/10/07/pin-xe-may-ien-thue-bao-sap-o-au-tren-bang-ong-ho/ "Pin xe máy điện thuê báo sập ở đâu trên bảng đồng hồ").
+Trưa hè Hà Nội, leo dốc cầu Vĩnh Tuy hay chở nặng đường dài là lúc dễ gặp cảnh báo nhiệt. Khi thấy biểu tượng nhiệt, tìm chỗ râm dừng xe, tắt nguồn chờ xe nguội rồi mới đi tiếp với tốc độ đều. Cách đọc vạch pin có ở bài [pin xe máy điện thuê báo sập ở đâu trên bảng đồng hồ](/xe-may/2026/10/07/pin-xe-may-dien-thue-bao-sap-o-dau-tren-bang-dong-ho/ "Pin xe máy điện thuê báo sập ở đâu trên bảng đồng hồ").
 
 ## Khi nào báo chủ xe
 
@@ -64,7 +64,7 @@ Hãy gọi hoặc nhắn chủ xe khi:
 - Tiếng kêu không dừng dù đã tắt xi nhan, đã gạt chân chống, đã mở khóa đúng thứ tự.
 - Bạn không biết mẫu xe mình đang đi có những cảnh báo âm thanh nào.
 
-Gửi kèm ảnh màn hình và một đoạn video ngắn có tiếng. Chủ xe nghe tiếng bíp và nhìn biểu tượng sẽ đoán đúng nhanh hơn nhiều so với lời tả. Ý nghĩa các biểu tượng thường gặp có ở bài [đèn báo lỗi và biểu tượng trên đồng hồ xe máy điện](/xe-may/2026/10/11/en-bao-loi-va-bieu-tuong-tren-ong-ho-xe-may-ien-oc-the-nao/ "Đèn báo lỗi trên đồng hồ xe máy điện"). Tốt nhất, lúc nhận xe hãy hỏi luôn: xe này kêu bíp trong những trường hợp nào.
+Gửi kèm ảnh màn hình và một đoạn video ngắn có tiếng. Chủ xe nghe tiếng bíp và nhìn biểu tượng sẽ đoán đúng nhanh hơn nhiều so với lời tả. Ý nghĩa các biểu tượng thường gặp có ở bài [đèn báo lỗi và biểu tượng trên đồng hồ xe máy điện](/xe-may/2026/10/11/den-bao-loi-va-bieu-tuong-tren-dong-ho-xe-may-dien-doc-the-nao/ "Đèn báo lỗi trên đồng hồ xe máy điện"). Tốt nhất, lúc nhận xe hãy hỏi luôn: xe này kêu bíp trong những trường hợp nào.
 
 Trên bảng giá của Cho Thuê Xe Máy Nguyễn Tú, Honda Vision và Honda Air Blade có giá ngày 200.000 đồng, Honda Wave và Honda Click có giá ngày 150.000 đồng; xe máy điện chưa có giá ngày cố định nên bạn liên hệ Nguyễn Tú để kiểm tra giá hiện tại, tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần, điện thoại và Zalo 0942 467 674.
 

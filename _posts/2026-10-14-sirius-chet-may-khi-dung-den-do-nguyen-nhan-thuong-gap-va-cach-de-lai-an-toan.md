@@ -53,7 +53,7 @@ Khi máy vừa tắt, làm lần lượt từng bước, không vội:
 5. **Bấm đề, không vặn ga.** Giữ nút đề ngắn, buông ra rồi đợi vài giây mới thử lại. Xe có cần đạp thì dùng khi bấm đề không ăn.
 6. **Vào số 1 khi máy đã nổ đều.** Chờ tiếng máy ổn định rồi mới vào số 1, lên ga nhẹ lúc đèn xanh.
 
-Nếu đèn đã xanh mà máy vẫn chưa nổ, đừng cố bấm đề giữa dòng xe đang lăn bánh. Giữ xi nhan, dắt xe sát lề phải hoặc vào vỉa hè gần nhất rồi mới thử tiếp. Về chuyện an toàn ở ngã tư đông khi xe tắt nhiều lần, bài [xe thuê tự tắt máy mỗi lần dừng đèn đỏ](/thue-xe/2026/10/13/xe-thue-tu-tat-may-moi-lan-dung-en-o-giu-an-toan-giua-nga-tu-ong/) có thêm hướng dẫn chọn chỗ đứng.
+Nếu đèn đã xanh mà máy vẫn chưa nổ, đừng cố bấm đề giữa dòng xe đang lăn bánh. Giữ xi nhan, dắt xe sát lề phải hoặc vào vỉa hè gần nhất rồi mới thử tiếp. Về chuyện an toàn ở ngã tư đông khi xe tắt nhiều lần, bài [xe thuê tự tắt máy mỗi lần dừng đèn đỏ](/thue-xe/2026/10/13/xe-thue-tu-tat-may-moi-lan-dung-den-do-giu-an-toan-giua-nga-tu-dong/) có thêm hướng dẫn chọn chỗ đứng.
 
 ## Thói quen để Sirius không tắt máy ở ngã tư
 
@@ -62,7 +62,7 @@ Phòng bệnh luôn nhẹ hơn chữa. Vài thói quen dưới đây gần như 
 - **Nhìn đèn từ xa, trả ga sớm.** Thấy đèn đỏ hay đồng hồ đếm ngược sắp hết, nhả ga và để xe chậm dần thay vì giữ ga tới sát vạch.
 - **Về số theo nhịp giảm tốc.** Mỗi lần xe chậm thêm một mức, về một số. Đến khi xe dừng, bạn đã ở số 1 hoặc N.
 - **Phanh dài, nhẹ tay.** Một cú phanh gấp ở số cao là cách nhanh nhất để máy khựng rồi tắt.
-- **Chờ đèn lâu thì về N.** Đèn đỏ dài ở các nút lớn như Kim Mã hay Phố Huế, về N đỡ mỏi chân và máy chạy không tải ổn định hơn. Cân nhắc giữa giữ số 1 và về N được bàn kỹ trong bài [dừng đèn đỏ bằng xe số](/xe-may/2026/10/11/dung-en-o-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-en-xanh/).
+- **Chờ đèn lâu thì về N.** Đèn đỏ dài ở các nút lớn như Kim Mã hay Phố Huế, về N đỡ mỏi chân và máy chạy không tải ổn định hơn. Cân nhắc giữa giữ số 1 và về N được bàn kỹ trong bài [dừng đèn đỏ bằng xe số](/xe-may/2026/10/11/dung-den-do-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-den-xanh/).
 - **Để ý tiếng máy.** Máy rung mạnh, tiếng gằn xuống là dấu hiệu số đang quá cao so với tốc độ; về ngay một số.
 
 ## Khi nào báo cửa hàng, và điều không nên tự làm

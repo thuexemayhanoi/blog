@@ -40,7 +40,7 @@ Khi thấy bất kỳ vết trầy, móp hay nứt nào, chụp ảnh ngay và �
 
 Nổ máy và để động cơ chạy không tải khoảng ba mươi giây, lắng nghe tiếng máy có đều hay có tiếng kêu bất thường. Vặn ga nhẹ để cảm nhận độ phản hồi, rồi bóp phanh trước và phanh sau khi xe đang đứng yên. Phanh kêu, ăn không đều hay tay phanh quá chùng là những điểm cần ghi rõ vào biên bản. Nếu xe dùng đề điện, bấm thử vài lần để chắc chắn bộ đề hoạt động ổn.
 
-Chú ý thêm mặt đồng hồ nhiên liệu, vì đây thường là căn cứ khi trả xe. Chụp một tấm ảnh rõ nét mặt đồng hồ, kèm số kilomet hiện tại nếu xe có hiển thị. Nếu bạn định chở nhiều đồ, kiểm tra chắc chắn độ rộng cốp, hoặc tham khảo [gợi ý chọn xe chở hành lý](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để chọn dòng có cốp đủ rộng ngay từ đầu thay vì nhận rồi mới thấy chật.
+Chú ý thêm mặt đồng hồ nhiên liệu, vì đây thường là căn cứ khi trả xe. Chụp một tấm ảnh rõ nét mặt đồng hồ, kèm số kilomet hiện tại nếu xe có hiển thị. Nếu bạn định chở nhiều đồ, kiểm tra chắc chắn độ rộng cốp, hoặc tham khảo [gợi ý chọn xe chở hành lý](/xe-may/2026/09/29/di-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để chọn dòng có cốp đủ rộng ngay từ đầu thay vì nhận rồi mới thấy chật.
 
 ## Đối chiếu giấy tờ và thông tin hợp đồng
 

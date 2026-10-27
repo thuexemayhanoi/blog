@@ -29,7 +29,7 @@ Vì vậy hãy nghĩ riêng cho từng người. Dòng xe có thể khác nhau, 
 
 Với người cao, hãy ngồi lên xe và nhìn ba chỗ. Thứ nhất là yên: đủ dài để ngồi không bị đẩy ra sau, và độ cao yên có khiến đầu gối co quá không. Thứ hai là tay lái: khoảng với tay có tự nhiên không, hay phải gập người. Thứ ba là chỗ để chân: có đủ chỗ cho chân dài không, hay chân bị gập sát.
 
-Nếu xe quá nhỏ với bạn, bạn có thể mỏi lưng và đầu gối sau vài giờ. Bài [chọn xe thuê theo chiều cao người lái sao cho đúng](/xe-may/2026/10/09/chon-xe-thue-theo-chieu-cao-nguoi-lai-sao-cho-ung/) nói thêm cách chọn xe theo chiều cao. Hãy hỏi tiệm có xe nào rộng rãi hơn không.
+Nếu xe quá nhỏ với bạn, bạn có thể mỏi lưng và đầu gối sau vài giờ. Bài [chọn xe thuê theo chiều cao người lái sao cho đúng](/xe-may/2026/10/09/chon-xe-thue-theo-chieu-cao-nguoi-lai-sao-cho-dung/) nói thêm cách chọn xe theo chiều cao. Hãy hỏi tiệm có xe nào rộng rãi hơn không.
 
 ## Người nhỏ con: kiểm tra chân chạm đất và độ nặng khi dắt
 

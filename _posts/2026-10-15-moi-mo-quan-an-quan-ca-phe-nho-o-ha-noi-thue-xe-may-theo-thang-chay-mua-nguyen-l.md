@@ -43,7 +43,7 @@ Nhớ rằng xe thuê không phải xe chở hàng chuyên dụng. Đừng tự 
 
 ## Chợ đầu mối hoạt động sớm: vì sao xe nên ở bên mình
 
-Chợ đầu mối Long Biên dưới chân cầu Long Biên là nơi nhiều chủ quán tìm đến để lấy rau củ, hoa quả với số lượng lớn hơn chợ dân sinh. Chợ đầu mối nhộn nhịp từ khuya tới rạng sáng, khi hàng vừa về và người buôn đang chia hàng. Muốn chọn được hàng tươi, chủ quán thường phải có mặt từ rất sớm, trước khi trời sáng hẳn. Cảnh chợ lúc này và chỗ gửi xe quanh đó được tả kỹ trong bài [sáng sớm ở chợ đầu mối Long Biên](/du-lich/2026/10/01/sang-som-o-cho-au-moi-long-bien-i-xe-may-va-gui-xe/).
+Chợ đầu mối Long Biên dưới chân cầu Long Biên là nơi nhiều chủ quán tìm đến để lấy rau củ, hoa quả với số lượng lớn hơn chợ dân sinh. Chợ đầu mối nhộn nhịp từ khuya tới rạng sáng, khi hàng vừa về và người buôn đang chia hàng. Muốn chọn được hàng tươi, chủ quán thường phải có mặt từ rất sớm, trước khi trời sáng hẳn. Cảnh chợ lúc này và chỗ gửi xe quanh đó được tả kỹ trong bài [sáng sớm ở chợ đầu mối Long Biên](/du-lich/2026/10/01/sang-som-o-cho-dau-moi-long-bien-di-xe-may-va-gui-xe/).
 
 Đây là lý do thuê tháng hợp hơn thuê ngày với chủ quán. Cửa hàng chúng tôi ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên chỉ giao nhận xe trong giờ 09:00–21:00, không giao ngoài giờ. Nếu thuê lẻ từng ngày, bạn khó có xe đúng lúc ba bốn giờ sáng. Còn khi thuê theo tháng, xe đã nằm sẵn ở quán hoặc ở nhà bạn, sáng nào cũng nổ máy đi được ngay. Việc nhận xe ban đầu, đổi xe hay gia hạn thì sắp xếp trong giờ mở cửa; thời gian và chi phí giao nhận cần xác nhận trước khi đặt.
 
@@ -62,7 +62,7 @@ Khi quán đã đông, nhiều nhà cung cấp nhận giao tận nơi. Lúc đó
 
 ## Chở nguyên liệu gọn gàng và đúng giới hạn an toàn
 
-Phần dễ sai nhất là cố chở thật nhiều trong một chuyến. Xe máy chỉ an toàn khi hàng gọn, chắc và không che tầm nhìn hay vướng tay lái. Những quy định về hàng cồng kềnh được tổng hợp trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/); nguyên tắc chung là không chở vượt quá khả năng giữ thăng bằng của mình và của xe.
+Phần dễ sai nhất là cố chở thật nhiều trong một chuyến. Xe máy chỉ an toàn khi hàng gọn, chắc và không che tầm nhìn hay vướng tay lái. Những quy định về hàng cồng kềnh được tổng hợp trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/); nguyên tắc chung là không chở vượt quá khả năng giữ thăng bằng của mình và của xe.
 
 Vài thói quen nên giữ:
 

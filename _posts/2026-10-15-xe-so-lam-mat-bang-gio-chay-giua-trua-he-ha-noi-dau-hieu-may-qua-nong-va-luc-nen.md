@@ -45,7 +45,7 @@ Tay ga vẫn vặn như cũ mà xe lên tốc chậm hẳn, lên dốc cầu ph�
 
 ### Tiếng gõ lạ
 
-Tiếng lách cách, lụp bụp hoặc tiếng gõ kim loại nhỏ phát ra từ lốc máy, rõ nhất khi tăng ga ở số cao. Nếu trước đó máy êm mà giờ xuất hiện tiếng gõ, đừng chạy cố. Bài [tiếng máy xe số nổ to hơn bình thường](/xe-may/2026/10/03/tieng-may-xe-so-no-to-hon-binh-thuong-can-e-y-gi/) giúp bạn phân biệt thêm các loại tiếng.
+Tiếng lách cách, lụp bụp hoặc tiếng gõ kim loại nhỏ phát ra từ lốc máy, rõ nhất khi tăng ga ở số cao. Nếu trước đó máy êm mà giờ xuất hiện tiếng gõ, đừng chạy cố. Bài [tiếng máy xe số nổ to hơn bình thường](/xe-may/2026/10/03/tieng-may-xe-so-no-to-hon-binh-thuong-can-de-y-gi/) giúp bạn phân biệt thêm các loại tiếng.
 
 ## Chạy đều tay, tránh ì máy ở số cao
 

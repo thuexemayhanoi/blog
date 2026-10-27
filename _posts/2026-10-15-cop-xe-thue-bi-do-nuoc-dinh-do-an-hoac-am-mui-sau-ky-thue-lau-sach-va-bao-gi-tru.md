@@ -94,7 +94,7 @@ Cách đơn giản nhất để cốp không bẩn là đừng biến nó thành
 - Không để đồ ăn, chai dầu, bật lửa, bình gas mini hay bất kỳ chất dễ cháy nào trong cốp, vì cốp nóng lên khi xe chạy.
 - Áo mưa ướt treo khô trước rồi mới gấp vào.
 
-Nếu bạn hay đi siêu thị bằng xe ga, bài [cốp Honda Click đựng gì cho chuyến siêu thị](/xe-may/2026/10/03/honda-click-cop-o-cho-chuyen-sieu-thi/) có gợi ý xếp đồ. Trường hợp cốp kẹt không mở được lúc trả xe thì xem bài [cốp xe ga không mở được lúc trả xe](/thue-xe/2026/10/03/cop-xe-ga-khong-mo-uoc-luc-tra-xe/).
+Nếu bạn hay đi siêu thị bằng xe ga, bài [cốp Honda Click đựng gì cho chuyến siêu thị](/xe-may/2026/10/03/honda-click-cop-do-cho-chuyen-sieu-thi/) có gợi ý xếp đồ. Trường hợp cốp kẹt không mở được lúc trả xe thì xem bài [cốp xe ga không mở được lúc trả xe](/thue-xe/2026/10/03/cop-xe-ga-khong-mo-duoc-luc-tra-xe/).
 
 ## Chốt lại
 

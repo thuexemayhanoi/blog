@@ -63,7 +63,7 @@ Không để đồ giá trị trong giỏ trước hay móc treo khi gửi bãi.
 - Đặt xe sát mép, không chắn lối vào nhà dân hay cửa hàng.
 - Không để chìa cắm ổ dù chỉ chạy vào trả tiền. Đây là lỗi phổ biến nhất của người mới thuê xe.
 
-Nếu muốn biết thêm chỗ gửi xe quanh khu trung tâm, bài [gửi xe qua đêm ở phố cổ Hà Nội](/ky-nang/2026/09/30/gui-xe-qua-em-o-pho-co-ha-noi-gia-va-luu-y/) tổng hợp các lưu ý khi để xe lâu hơn vài phút.
+Nếu muốn biết thêm chỗ gửi xe quanh khu trung tâm, bài [gửi xe qua đêm ở phố cổ Hà Nội](/ky-nang/2026/09/30/gui-xe-qua-dem-o-pho-co-ha-noi-gia-va-luu-y/) tổng hợp các lưu ý khi để xe lâu hơn vài phút.
 
 ## Khóa đĩa: chỉ dùng khi cửa hàng giao kèm
 

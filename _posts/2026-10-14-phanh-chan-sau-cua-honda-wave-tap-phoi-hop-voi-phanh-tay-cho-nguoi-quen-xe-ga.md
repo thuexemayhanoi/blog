@@ -37,7 +37,7 @@ Với người quen bóp tay, phanh đùm có mấy điểm cần biết:
 
 - **Bàn đạp có một đoạn chạy không ở đầu.** Đạp vào chưa thấy gì, sâu thêm một chút mới bắt đầu ăn. Đó là bình thường, đừng vì vậy mà đạp mạnh dồn.
 - **Lực tăng từ từ, không cắn ngay.** Phanh đùm êm và dễ kiểm soát ở tốc độ thấp, đó là lợi thế khi tập.
-- **Khi ướt sẽ yếu đi một lúc.** Sau mưa hay qua vũng nước, cần đạp sớm hơn và nhẹ nhiều lần để phanh khô dần. Chuyện này được nói kỹ trong bài [phanh cơ của Honda Wave khi đường ướt](/xe-may/2026/10/11/honda-wave-phanh-co-khi-uong-uot-phanh-som-hon-va-re-phanh-cho-kho/).
+- **Khi ướt sẽ yếu đi một lúc.** Sau mưa hay qua vũng nước, cần đạp sớm hơn và nhẹ nhiều lần để phanh khô dần. Chuyện này được nói kỹ trong bài [phanh cơ của Honda Wave khi đường ướt](/xe-may/2026/10/11/honda-wave-phanh-co-khi-duong-uot-phanh-som-hon-va-re-phanh-cho-kho/).
 - **Bàn chân thô hơn ngón tay.** Đi giày bít mũi dễ cảm lực hơn dép tông hay dép lê.
 
 Đai ốc chỉnh phanh nằm ở đuôi thanh nối phía bánh sau. Đừng tự vặn trên đường; thấy bàn đạp sâu bất thường hay phanh yếu thì báo tiệm.

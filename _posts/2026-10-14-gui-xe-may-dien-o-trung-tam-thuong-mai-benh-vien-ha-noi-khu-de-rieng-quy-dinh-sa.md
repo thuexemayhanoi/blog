@@ -36,7 +36,7 @@ Vài việc nên làm khi đưa người nhà đi khám bằng xe điện thuê:
 - **Hỏi giờ đóng bãi.** Nếu phải ở lại chờ kết quả hoặc nằm viện, có bãi nhận gửi qua đêm, có bãi không.
 - **Hỏi rõ bãi có người trông liên tục không.** Bãi ngoài trời tạm bợ thì cân nhắc kỹ khi phải để xe cả ngày.
 
-Kinh nghiệm chung về chọn bãi gần cổng và tránh giờ cao điểm khám có trong bài [gửi xe máy ở bệnh viện: chọn bãi gần cổng](/ky-nang/2026/10/05/gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-iem/). Phần dưới đây tập trung vào những điều riêng của xe điện.
+Kinh nghiệm chung về chọn bãi gần cổng và tránh giờ cao điểm khám có trong bài [gửi xe máy ở bệnh viện: chọn bãi gần cổng](/ky-nang/2026/10/05/gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-diem/). Phần dưới đây tập trung vào những điều riêng của xe điện.
 
 ## Quy định sạc: đừng cắm khi chưa hỏi
 
@@ -49,7 +49,7 @@ Những câu nên hỏi nhân viên bãi trước khi để xe:
 3. Có được mang bộ sạc của mình vào cắm không, hay chỉ dùng trụ sạc có sẵn?
 4. Sạc xong có người rút giúp không, hay khách phải tự quay xuống?
 
-Quy định và mức phí, nếu có, là của từng nơi, nên chỉ tin câu trả lời tại chỗ. Cách an toàn nhất với xe thuê là **sạc đầy trước khi đi** và không trông vào việc sạc ở bãi. Nếu chẳng may phải sạc ở trạm công cộng, đọc thêm bài [sạc pin xe máy điện ở trạm công cộng: lưu ý an toàn](/xe-may/2026/10/10/sac-pin-xe-may-ien-o-tram-cong-cong-luu-y-an-toan/).
+Quy định và mức phí, nếu có, là của từng nơi, nên chỉ tin câu trả lời tại chỗ. Cách an toàn nhất với xe thuê là **sạc đầy trước khi đi** và không trông vào việc sạc ở bãi. Nếu chẳng may phải sạc ở trạm công cộng, đọc thêm bài [sạc pin xe máy điện ở trạm công cộng: lưu ý an toàn](/xe-may/2026/10/10/sac-pin-xe-may-dien-o-tram-cong-cong-luu-y-an-toan/).
 
 ## Khu để xe điện trung tâm thương mại: dựng xe thế nào cho gọn
 

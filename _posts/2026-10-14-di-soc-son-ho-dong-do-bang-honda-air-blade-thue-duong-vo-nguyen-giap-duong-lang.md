@@ -15,7 +15,7 @@ writer: W2
 writer_session: s-claude-w2
 ---
 
-Một nhóm bạn hay một cặp đôi muốn đi Sóc Sơn bằng Air Blade thuê vào cuối tuần thường hỏi cùng mấy câu: xe ga có đủ sức cho đoạn đồi không, đi trục Võ Nguyên Giáp thì chạy làn nào, và vào tới đường làng quanh hồ Đồng Đò thì cần cẩn thận gì. Bài này không nhắc lại toàn bộ cung đường (đã có trong bài [đi Sóc Sơn bằng xe máy qua núi Hàm Lợn, hồ Đồng Quan](/du-lich/2026/10/11/i-soc-son-bang-xe-may-nui-ham-lon-ho-ong-quan-va-en-soc/)), mà nhìn chuyến đi từ góc của người cầm lái chiếc Air Blade: chiếc xe hợp ở đâu, cần chỉnh cách chạy ở đâu, và nên dừng nghỉ thế nào để về tới Hà Nội vẫn còn sức.
+Một nhóm bạn hay một cặp đôi muốn đi Sóc Sơn bằng Air Blade thuê vào cuối tuần thường hỏi cùng mấy câu: xe ga có đủ sức cho đoạn đồi không, đi trục Võ Nguyên Giáp thì chạy làn nào, và vào tới đường làng quanh hồ Đồng Đò thì cần cẩn thận gì. Bài này không nhắc lại toàn bộ cung đường (đã có trong bài [đi Sóc Sơn bằng xe máy qua núi Hàm Lợn, hồ Đồng Quan](/du-lich/2026/10/11/di-soc-son-bang-xe-may-nui-ham-lon-ho-dong-quan-va-den-soc/)), mà nhìn chuyến đi từ góc của người cầm lái chiếc Air Blade: chiếc xe hợp ở đâu, cần chỉnh cách chạy ở đâu, và nên dừng nghỉ thế nào để về tới Hà Nội vẫn còn sức.
 
 ## Vì sao nên đi Sóc Sơn bằng Air Blade thay vì xe ga nhỏ
 
@@ -70,7 +70,7 @@ Cách xử lý chi tiết khi đổ dốc với dòng xe này nằm trong bài [
 
 Xe ga êm nên người lái hay chạy một mạch rồi mới thấy mỏi. Nên chia chuyến làm vài chặng: một lần nghỉ sau khi qua hết đoạn trục rộng, một lần khi tới khu hồ, và một lần trước khi quay về.
 
-Dọc đường và quanh hồ có các quán nước ven đường, hàng chè, quán cơm bình dân. Chọn quán có chỗ dựng xe trên nền phẳng, trong tầm mắt. Khi dựng Air Blade trên đất mềm hoặc cỏ, kiểm tra chân chống không bị lún, mở khóa cổ, rút chìa hoặc tắt hẳn hệ thống chìa thông minh. Gợi ý về các điểm dừng và cách chọn quán có trong bài [điểm nghỉ chân trên đường đi hồ Đồng Đò](/cung-duong/2026/10/04/iem-nghi-chan-tren-uong-i-ho-ong-o-bang-xe-may/).
+Dọc đường và quanh hồ có các quán nước ven đường, hàng chè, quán cơm bình dân. Chọn quán có chỗ dựng xe trên nền phẳng, trong tầm mắt. Khi dựng Air Blade trên đất mềm hoặc cỏ, kiểm tra chân chống không bị lún, mở khóa cổ, rút chìa hoặc tắt hẳn hệ thống chìa thông minh. Gợi ý về các điểm dừng và cách chọn quán có trong bài [điểm nghỉ chân trên đường đi hồ Đồng Đò](/cung-duong/2026/10/04/diem-nghi-chan-tren-duong-di-ho-dong-do-bang-xe-may/).
 
 Một số khu vui chơi quanh hồ có thu vé hoặc phí gửi xe. Mức thu thay đổi theo từng nơi và từng thời điểm, nên hỏi trực tiếp tại cổng và giữ vé gửi xe cẩn thận.
 

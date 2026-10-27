@@ -67,11 +67,11 @@ Kể cả khi đã chọn đúng số, vẫn có lúc cần phanh: trước khú
 
 **Phanh xong trước khi vào cua.** Giảm tốc khi xe còn đi thẳng, vào cua với tay ga đóng và phanh đã nhả, ra khỏi cua mới tiếp tục. Phanh giữa cua trên xe nhẹ như Wave dễ làm xe đứng thẳng lên và trôi ra ngoài.
 
-Nếu mặt đường ướt hoặc vừa mưa, phanh cơ của Wave kém ăn hơn lúc khô, cách xử lý được nói trong bài [Honda Wave phanh cơ khi đường ướt](/xe-may/2026/10/11/honda-wave-phanh-co-khi-uong-uot-phanh-som-hon-va-re-phanh-cho-kho/).
+Nếu mặt đường ướt hoặc vừa mưa, phanh cơ của Wave kém ăn hơn lúc khô, cách xử lý được nói trong bài [Honda Wave phanh cơ khi đường ướt](/xe-may/2026/10/11/honda-wave-phanh-co-khi-duong-uot-phanh-som-hon-va-re-phanh-cho-kho/).
 
 ## Ví dụ thực tế trên dốc ngoại thành
 
-**Tam Đảo.** Chặng từ thị trấn Tam Đảo đổ xuống chân núi dài, nhiều cua gấp, hay có sương và mặt đường ẩm vào buổi sáng. Với Wave, về số 2 ngay khi rời thị trấn, gặp các cua gắt thì về số 1. Nghỉ ở một chỗ tránh rộng giữa chặng để phanh nguội bớt. Bài [Tam Đảo bằng xe máy từ Hà Nội](/du-lich/2026/10/01/tam-ao-bang-xe-may-tu-ha-noi-eo-suong-va-chay-xuong/) có thêm chi tiết về sương và lộ trình.
+**Tam Đảo.** Chặng từ thị trấn Tam Đảo đổ xuống chân núi dài, nhiều cua gấp, hay có sương và mặt đường ẩm vào buổi sáng. Với Wave, về số 2 ngay khi rời thị trấn, gặp các cua gắt thì về số 1. Nghỉ ở một chỗ tránh rộng giữa chặng để phanh nguội bớt. Bài [Tam Đảo bằng xe máy từ Hà Nội](/du-lich/2026/10/01/tam-dao-bang-xe-may-tu-ha-noi-deo-suong-va-chay-xuong/) có thêm chi tiết về sương và lộ trình.
 
 **Ba Vì.** Đường trong khu vườn quốc gia hẹp, nhiều đoạn dốc ngắn nối tiếp và có cả xe khách đi lên. Ở đây số 2 là lựa chọn chính, chú ý giữ bên phải và không lấn làn ở cua khuất.
 

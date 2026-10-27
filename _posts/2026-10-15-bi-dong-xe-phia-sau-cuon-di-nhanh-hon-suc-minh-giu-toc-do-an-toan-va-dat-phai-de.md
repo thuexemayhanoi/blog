@@ -33,7 +33,7 @@ Luật không lấy dòng xe làm thước đo. Điều 12 khoản 2 của Luậ
 
 - Vai và cánh tay cứng, tay nắm lái chặt hơn lúc mới ra đường.
 
-Gặp những dấu hiệu này, hãy tự hỏi: tốc độ lúc này do ai chọn, bạn có dừng được trong đoạn đường đang thấy rõ là trống không, và bên phải còn chỗ để nhường không? Câu thứ hai được phân tích riêng trong bài [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-o-theo-oan-uong-nhin-thay-dung-uoc-trong-tam-mat-khi-i-xe-may/).
+Gặp những dấu hiệu này, hãy tự hỏi: tốc độ lúc này do ai chọn, bạn có dừng được trong đoạn đường đang thấy rõ là trống không, và bên phải còn chỗ để nhường không? Câu thứ hai được phân tích riêng trong bài [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-do-theo-doan-duong-nhin-thay-dung-duoc-trong-tam-mat-khi-di-xe-may/).
 
 ## Giữ tốc độ bạn kiểm soát được
 

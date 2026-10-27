@@ -62,7 +62,7 @@ Nếu mực nước đã ngang miệng ống xả, có dòng chảy kéo rác tr
 - **Vòng đường khác.** Mở bản đồ, chọn phố lân cận cao hơn để đi vòng, chấp nhận thêm một đoạn đường. Từ hướng Long Biên về phía Văn Miếu, nhiều khi chỉ cần đổi sang một trục khác là tránh được hẳn khúc trũng.
 - **Tắt máy và dắt.** Nếu đoạn ngập ngắn và bắt buộc phải qua, tắt máy trước khi xuống nước, đạp về số mo để bánh sau quay tự do, rồi dắt xe đi sát phần giữa đường. Wave khá nhẹ, nên dắt qua một quãng ngắn không quá vất vả.
 
-Chờ thêm cho nước rút cũng hợp lý; bài [đường ngập sau mưa lớn ở Hà Nội: khi nào nên dừng, khi nào mới qua được](/thue-xe/2026/10/12/uong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-uoc/) có thêm các dấu hiệu để quyết định.
+Chờ thêm cho nước rút cũng hợp lý; bài [đường ngập sau mưa lớn ở Hà Nội: khi nào nên dừng, khi nào mới qua được](/thue-xe/2026/10/12/duong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-duoc/) có thêm các dấu hiệu để quyết định.
 
 ## Sau khi qua: phanh, máy và báo cửa hàng
 

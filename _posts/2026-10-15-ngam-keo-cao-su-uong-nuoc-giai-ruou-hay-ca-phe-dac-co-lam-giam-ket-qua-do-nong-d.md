@@ -57,7 +57,7 @@ Những cách này có thể làm bạn thấy khác đi trong chốc lát, như
 
 Trên mạng có nhiều bài chia sẻ mẹo qua máy đo nồng độ cồn, từ nín thở, thổi nhẹ đến ngậm vật gì đó trong miệng. Đặt câu hỏi kiểu đó là đã đi sai hướng. Mục đích của quy định là để người có cồn trong người không điều khiển xe, chứ không phải để xem ai khéo né được máy. Dù mẹo nào đó có tác động tới một lần thổi, lượng cồn trong máu vẫn vậy, rủi ro trên đường vẫn còn nguyên.
 
-Trình tự kiểm tra và quyền của người được kiểm tra có trong bài [đo nồng độ cồn: quyền và trình tự](/an-toan-phap-ly/2026/09/28/o-nong-o-con-quyen-va-trinh-tu/). Cố tình gian dối hay chống đối khi bị kiểm tra không phải là lối thoát.
+Trình tự kiểm tra và quyền của người được kiểm tra có trong bài [đo nồng độ cồn: quyền và trình tự](/an-toan-phap-ly/2026/09/28/do-nong-do-con-quyen-va-trinh-tu/). Cố tình gian dối hay chống đối khi bị kiểm tra không phải là lối thoát.
 
 ## Muốn về sớm sau bữa nhậu: làm gì thay vì tìm mẹo
 
@@ -65,7 +65,7 @@ Nếu bạn đã uống bia rượu, dù ít, hãy tách chuyện "về nhà" kh
 
 1. **Gọi xe về.** Taxi, xe ôm công nghệ hay nhờ một người chưa uống chở về đều là lựa chọn quen thuộc ở mọi khu từ Hoàn Kiếm, Cầu Giấy đến Gia Lâm.
 2. **Gửi xe lại.** Hỏi quán chỗ để qua đêm hoặc tìm bãi gửi gần đó, chụp lại vé gửi.
-3. **Hẹn lấy xe khi đã thật sự tỉnh.** Đừng vội vàng từ sáng sớm hôm sau; tình huống cồn còn sót lại buổi sáng được bàn trong bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/em-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-o-con-khong/).
+3. **Hẹn lấy xe khi đã thật sự tỉnh.** Đừng vội vàng từ sáng sớm hôm sau; tình huống cồn còn sót lại buổi sáng được bàn trong bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/dem-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-do-con-khong/).
 4. **Lần sau tính trước.** Biết mình phải chạy xe về thì không uống từ đầu buổi.
 
 Nếu chiếc xe bạn đi là xe thuê, hãy nhắn cho cửa hàng biết xe đang gửi ở đâu, nhất là khi hôm sau là ngày trả. Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa từ 09:00 đến 21:00; mọi trao đổi về lịch trả xe hay cách lấy xe, liên hệ số 0942467674 trong khung giờ này để được xác nhận trực tiếp. Nguyên tắc chung không đổi: đã uống thì không lái.

@@ -29,7 +29,7 @@ Những kiểu trục trặc hay tái diễn trên xe thuê gồm:
 - Phanh kêu hoặc bó trở lại dù đã được chỉnh.
 - Khóa thông minh lúc nhận lúc không.
 
-Nếu trục trặc đầu tiên vừa xảy ra, bài [xe thuê bị hỏng giữa đường: xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/) phù hợp hơn. Bài này dành cho lúc bạn đã gặp lại cùng một lỗi.
+Nếu trục trặc đầu tiên vừa xảy ra, bài [xe thuê bị hỏng giữa đường: xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-duong-xu-ly-tung-buoc/) phù hợp hơn. Bài này dành cho lúc bạn đã gặp lại cùng một lỗi.
 
 ## Ghi nhật ký lỗi: bằng chứng để cửa hàng nhìn ra quy luật
 
@@ -59,7 +59,7 @@ Thứ tự hợp lý là đề nghị kiểm tra lại trước. Một lần ki�
 - Mất khoảng bao lâu, trong lúc đó bạn đi lại thế nào.
 - Nếu kiểm tra xong lỗi vẫn quay lại thì bước tiếp theo là gì.
 
-Chuyện đổi xe thuê giữa kỳ phụ thuộc vào việc cửa hàng có xe phù hợp tại thời điểm đó hay không, và vào đánh giá của thợ sau khi xem xe. Không nên coi đó là điều chắc chắn sẽ được đáp ứng ngay. Hãy hỏi rõ trước: nếu đổi thì đổi sang xe nào, giấy tờ và thời hạn thuê có thay đổi gì không, có khoản chênh lệch nào không. Mọi điều đã thống nhất nên được nhắn lại qua tin nhắn để hai bên cùng giữ. Các bước khi đổi xe được trình bày đầy đủ trong bài [đổi xe giữa kỳ thuê khi xe gặp vấn đề](/thue-xe/2026/10/10/oi-xe-giua-ky-thue-khi-xe-gap-van-e/).
+Chuyện đổi xe thuê giữa kỳ phụ thuộc vào việc cửa hàng có xe phù hợp tại thời điểm đó hay không, và vào đánh giá của thợ sau khi xem xe. Không nên coi đó là điều chắc chắn sẽ được đáp ứng ngay. Hãy hỏi rõ trước: nếu đổi thì đổi sang xe nào, giấy tờ và thời hạn thuê có thay đổi gì không, có khoản chênh lệch nào không. Mọi điều đã thống nhất nên được nhắn lại qua tin nhắn để hai bên cùng giữ. Các bước khi đổi xe được trình bày đầy đủ trong bài [đổi xe giữa kỳ thuê khi xe gặp vấn đề](/thue-xe/2026/10/10/doi-xe-giua-ky-thue-khi-xe-gap-van-de/).
 
 Việc mang xe tới hay nhận xe tại chỗ chỉ diễn ra trong giờ mở cửa từ 09:00 đến 21:00, và thời gian, chi phí giao nhận cần được xác nhận trước khi hẹn.
 

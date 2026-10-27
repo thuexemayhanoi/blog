@@ -80,6 +80,6 @@ Nếu chỉ đi xuyên từ Ô Chợ Dừa sang phía Cầu Giấy mà không v�
 
 ## Cho người mới: tập dần rồi hẵng đi giờ đông
 
-Lần đầu, chạy Đê La Thành một chiều vào giờ thoáng, ghi nhớ các khúc cua, cổng bệnh viện và các nhánh của nút. Muốn luyện tay trước, hãy thử [cung nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-au/), rồi một trục đông tương tự như [đoạn Trường Chinh từ Ngã Tư Vọng tới Ngã Tư Sở](/cung-duong/2026/10/11/chay-xe-duong-truong-chinh-tu-nga-tu-vong-toi-nga-tu-so-doan-dong-nut-giao/).
+Lần đầu, chạy Đê La Thành một chiều vào giờ thoáng, ghi nhớ các khúc cua, cổng bệnh viện và các nhánh của nút. Muốn luyện tay trước, hãy thử [cung nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-dau/), rồi một trục đông tương tự như [đoạn Trường Chinh từ Ngã Tư Vọng tới Ngã Tư Sở](/cung-duong/2026/10/11/chay-xe-duong-truong-chinh-tu-nga-tu-vong-toi-nga-tu-so-doan-dong-nut-giao/).
 
 Muốn chọn thêm tuyến cho tuần tới, xem [tổng hợp cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) hoặc trang [cung đường chạy xe máy Hà Nội](/cung-duong/).

@@ -47,7 +47,7 @@ Câu trả lời ngắn: không. Điều này đúng với mọi dạng giấy, 
 - Biên nhận viết tay mới có tên và chữ ký, chưa có nội dung.
 - Mẫu điện tử trên điện thoại mà phần số tiền còn trống khi bạn bấm xác nhận.
 
-Nếu người đối diện nói "ai cũng ký thế mà", bạn vẫn có quyền chờ. Năm phút điền giấy rẻ hơn rất nhiều so với một buổi trả xe kéo dài. Khi chủ xe trả lời lấp lửng về khoản cọc, bài [chủ xe trả lời mơ hồ về tiền cọc](/thue-xe/2026/10/11/chu-xe-tra-loi-mo-ho-ve-tien-coc-en-roi-tinh-thi-nen-lam-gi/) có cách xử lý cụ thể.
+Nếu người đối diện nói "ai cũng ký thế mà", bạn vẫn có quyền chờ. Năm phút điền giấy rẻ hơn rất nhiều so với một buổi trả xe kéo dài. Khi chủ xe trả lời lấp lửng về khoản cọc, bài [chủ xe trả lời mơ hồ về tiền cọc](/thue-xe/2026/10/11/chu-xe-tra-loi-mo-ho-ve-tien-coc-den-roi-tinh-thi-nen-lam-gi/) có cách xử lý cụ thể.
 
 ## Cách đề nghị điền đủ mà không mất lòng
 
@@ -61,7 +61,7 @@ Không cần nói nặng. Một câu như "anh ghi luôn số cọc với ngày 
 4. Ghi điều kiện hoàn: hoàn lúc nào, bằng tiền mặt hay chuyển khoản về tài khoản nào.
 5. Đọc lại từng dòng một lượt trước khi đặt bút.
 
-Thứ tự đưa tiền và chốt điều kiện được bàn kỹ ở bài [nên đưa tiền cọc lúc nào](/thue-xe/2026/10/11/nen-ua-tien-coc-luc-nao-truoc-hay-sau-khi-xem-xe-va-chot-ieu-kien/).
+Thứ tự đưa tiền và chốt điều kiện được bàn kỹ ở bài [nên đưa tiền cọc lúc nào](/thue-xe/2026/10/11/nen-dua-tien-coc-luc-nao-truoc-hay-sau-khi-xem-xe-va-chot-dieu-kien/).
 
 ### Gạch chỗ trống còn lại
 

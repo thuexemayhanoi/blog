@@ -76,7 +76,7 @@ Khi thấy tay lái nặng, xe lắc ở bánh sau hay lốp xẹp, dừng lại
 2. Đừng tự rút đinh nếu lốp chưa xẹp hẳn.
 3. Gọi cửa hàng theo số 0942467674 trong giờ mở cửa, nói rõ chỗ bạn đang ở và tình trạng xe để được hướng dẫn cách xử lý.
 
-Trình tự chi tiết hơn có trong bài [xe thuê thủng lốp hay chết máy giữa đường](/thue-xe/2026/10/11/xe-thue-thung-lop-hay-chet-may-giua-uong-bao-cua-hang-truoc-hay-tu-sua/).
+Trình tự chi tiết hơn có trong bài [xe thuê thủng lốp hay chết máy giữa đường](/thue-xe/2026/10/11/xe-thue-thung-lop-hay-chet-may-giua-duong-bao-cua-hang-truoc-hay-tu-sua/).
 
 ## Nhận xe và trả xe trong tuần giám sát
 

@@ -55,7 +55,7 @@ Ngoại lệ "được đi tiếp" chỉ gắn với đèn vàng và chỉ dành
 - **"Đếm ngược còn một giây là vẫn kịp."** Số đếm chỉ báo thời gian còn lại, không phải giấy phép tăng ga.
 - **"Xe máy được rẽ phải khi đèn đỏ."** Chỉ khi biển báo hoặc đèn mũi tên tại chính nút đó cho phép.
 
-Riêng đèn vàng nhấp nháy, điểm b cho đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường người đi bộ, xe lăn của người khuyết tật qua đường và các phương tiện khác. Ý nghĩa từng loại đèn có trong bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/en-tin-hieu-va-coi-xe-may-theo-quy-inh/).
+Riêng đèn vàng nhấp nháy, điểm b cho đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường người đi bộ, xe lăn của người khuyết tật qua đường và các phương tiện khác. Ý nghĩa từng loại đèn có trong bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/den-tin-hieu-va-coi-xe-may-theo-quy-dinh/).
 
 ## Căn khoảng cách khi tới gần ngã tư để dừng kịp
 
@@ -70,7 +70,7 @@ Cách tôi dặn khách mới nhận xe:
 
 Ví dụ giả định: chiều tan tầm trên Nguyễn Văn Cừ ở Long Biên, đèn xanh phía trước còn vài giây, sau lưng là ô tô. Nếu còn cách vạch một quãng dài, nhả ga ngay và dừng đều; đã giảm tốc từ xa thì đèn vàng bật lên cũng không làm bạn giật mình.
 
-Xe thuê có độ ăn phanh khác xe bạn quen, nên thử phanh vài lần ở đoạn vắng trước khi vào phố đông. Chọn làn từ sớm để khỏi lách phút cuối, xem bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/ung-lan-xe-may-khi-qua-nut-giao-lon/).
+Xe thuê có độ ăn phanh khác xe bạn quen, nên thử phanh vài lần ở đoạn vắng trước khi vào phố đông. Chọn làn từ sớm để khỏi lách phút cuối, xem bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/dung-lan-xe-may-khi-qua-nut-giao-lon/).
 
 ## Lỡ ở sát vạch hoặc đã qua vạch khi đèn đổi màu
 
@@ -80,7 +80,7 @@ Xe thuê có độ ăn phanh khác xe bạn quen, nên thử phanh vài lần �
 
 ## Bị ghi lỗi thì sao, nhất là khi đi xe thuê
 
-Nghị định 168/2024/NĐ-CP, điểm c khoản 7 Điều 7, xử phạt người điều khiển xe mô tô, xe gắn máy "không chấp hành hiệu lệnh của đèn tín hiệu giao thông", kèm trừ điểm giấy phép lái xe. Các nhóm lỗi khác có trong bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-inh-xu-phat-vi-pham-giao-thong-xe-may/).
+Nghị định 168/2024/NĐ-CP, điểm c khoản 7 Điều 7, xử phạt người điều khiển xe mô tô, xe gắn máy "không chấp hành hiệu lệnh của đèn tín hiệu giao thông", kèm trừ điểm giấy phép lái xe. Các nhóm lỗi khác có trong bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-dinh-xu-phat-vi-pham-giao-thong-xe-may/).
 
 Nhiều nút giao ở Hà Nội có camera, nên thông báo vi phạm có thể tới sau nhiều ngày, gửi cho người đứng tên xe, tức cửa hàng. Với Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, cách phối hợp khi có thông báo xin xác nhận trực tiếp qua số 0942 467 674 trong giờ 09:00–21:00.
 

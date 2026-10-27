@@ -42,7 +42,7 @@ Trường hợp buộc phải dừng giữa dốc, chẳng hạn đèn đỏ ở
 
 Khi chở người hoặc hàng nặng, hãy chủ động về số thấp hơn thói quen một bậc và tăng ga sớm trước khi bánh vào độ dốc. Đợi xe đuối mới về số thường khiến việc về số nặng, giật côn. Ngồi chúi nhẹ về phía trước giúp tay lái chắc hơn, còn người ngồi sau giữ yên tư thế để xe không bị đè lệch một bên.
 
-Nếu bạn thường xuyên chở nhiều đồ, dòng xe và kích thước cốp cũng đáng cân nhắc từ đầu; tham khảo [gợi ý chọn xe chở hành lý](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để chọn dòng phù hợp thay vì chịu đựng chặng dốc nặng nề với xe nhỏ.
+Nếu bạn thường xuyên chở nhiều đồ, dòng xe và kích thước cốp cũng đáng cân nhắc từ đầu; tham khảo [gợi ý chọn xe chở hành lý](/xe-may/2026/09/29/di-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để chọn dòng phù hợp thay vì chịu đựng chặng dốc nặng nề với xe nhỏ.
 
 ## Câu hỏi thường gặp
 

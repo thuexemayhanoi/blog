@@ -45,7 +45,7 @@ Từ phía Long Biên, chẳng hạn khu Bồ Đề, bạn qua cầu Chương D�
 - Không dừng trên mặt đê để chụp ảnh sông hay gọi điện; muốn dừng thì xuống hẳn đường gom hoặc vào ngõ.
 - Mùa hoa cuối năm, đoạn qua Quảng An, Nhật Tân đông người mua hoa, xe đỗ lấn đường; đi chậm và chừa khoảng trống phía trước.
 
-Ai muốn chạy dài hơn theo đê có thể tham khảo bài [khám phá đường đê sông Hồng bằng xe máy](/du-lich/2026/10/10/kham-pha-uong-e-song-hong-bang-xe-may/) để nối thêm các đoạn khác.
+Ai muốn chạy dài hơn theo đê có thể tham khảo bài [khám phá đường đê sông Hồng bằng xe máy](/du-lich/2026/10/10/kham-pha-duong-de-song-hong-bang-xe-may/) để nối thêm các đoạn khác.
 
 ## Gửi xe ở đình Chèm ngày thường và ngày rằm
 

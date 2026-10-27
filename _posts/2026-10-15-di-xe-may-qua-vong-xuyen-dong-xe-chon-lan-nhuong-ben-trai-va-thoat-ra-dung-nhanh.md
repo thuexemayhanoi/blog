@@ -23,7 +23,7 @@ Vòng xuyến là chỗ nhiều người mới lái xe máy ở nội đô ngạ
 
 Hiểu đơn giản: xe đã ở trong vòng và đang tới từ bên trái được đi trước, bạn chờ khoảng trống rồi mới nhập vào. Nhiều vòng xuyến nội thành có đèn tín hiệu hoặc cảnh sát giao thông điều tiết giờ cao điểm. Khi đó, hiệu lệnh của người điều khiển giao thông và đèn tín hiệu được ưu tiên hơn biển báo.
 
-Ai quen đi bên trái đường ở nước mình cần đặc biệt chú ý, vì chiều vòng ở đây ngược hẳn. Xem thêm [những phản xạ cần đổi khi lần đầu đi xe máy ở Hà Nội](/ky-nang/2026/10/11/quen-i-ben-trai-uong-lan-au-i-xe-may-o-ha-noi-nhung-phan-xa-can-oi/).
+Ai quen đi bên trái đường ở nước mình cần đặc biệt chú ý, vì chiều vòng ở đây ngược hẳn. Xem thêm [những phản xạ cần đổi khi lần đầu đi xe máy ở Hà Nội](/ky-nang/2026/10/11/quen-di-ben-trai-duong-lan-dau-di-xe-may-o-ha-noi-nhung-phan-xa-can-doi/).
 
 ## Trước khi tới vòng xuyến: biết mình ra nhánh thứ mấy
 
@@ -46,11 +46,11 @@ Với vòng xuyến bốn nhánh cân đối, có một mẹo đếm dễ nhớ:
 
 Xe máy nên đi phía ngoài vòng, tức là bên phải, gần mép nhưng không ép sát lề. Ở làn ngoài, bạn ra nhánh nào cũng chỉ cần nghiêng nhẹ sang phải, không phải cắt ngang dòng xe. Lấn sâu vào phía trong để đi tắt là cách nhanh nhất để bị kẹt giữa ô tô mà không có đường ra.
 
-Giữ tốc độ đều, ngang dòng xe. Để ý ô tô và xe buýt ở phía trong: khi chuẩn bị ra nhánh, họ sẽ cắt chéo qua làn ngoài, nên đừng đi song song sát thân xe lớn. Biết đọc [dấu hiệu người đi xe xung quanh sắp rẽ hay sắp tạt đầu](/ky-nang/2026/10/11/oc-y-inh-nguoi-i-xe-xung-quanh-dau-hieu-sap-re-sap-tat-au-hay-sap-phanh/) giúp bạn nhường đúng lúc.
+Giữ tốc độ đều, ngang dòng xe. Để ý ô tô và xe buýt ở phía trong: khi chuẩn bị ra nhánh, họ sẽ cắt chéo qua làn ngoài, nên đừng đi song song sát thân xe lớn. Biết đọc [dấu hiệu người đi xe xung quanh sắp rẽ hay sắp tạt đầu](/ky-nang/2026/10/11/doc-y-dinh-nguoi-di-xe-xung-quanh-dau-hieu-sap-re-sap-tat-dau-hay-sap-phanh/) giúp bạn nhường đúng lúc.
 
 ### Bước 3: Thoát ra đúng nhánh
 
-Khi vừa đi qua nhánh ngay trước lối ra của mình, bật xi nhan phải. Nhìn gương phải rồi ngoái nhanh qua vai phải, vì xe máy, xe đạp điện hay lách lên ở phía đó. Sau đó nghiêng xe vào nhánh, giữ tốc độ vừa phải vì đầu nhánh thường có người sang đường hoặc xe đang đỗ. Vào hẳn nhánh rồi mới tắt xi nhan. Thời điểm bật đèn chi tiết hơn có trong bài [xi nhan đúng thời điểm khi đi xe máy](/ky-nang/2026/10/11/xi-nhan-ung-thoi-iem-khi-i-xe-may/).
+Khi vừa đi qua nhánh ngay trước lối ra của mình, bật xi nhan phải. Nhìn gương phải rồi ngoái nhanh qua vai phải, vì xe máy, xe đạp điện hay lách lên ở phía đó. Sau đó nghiêng xe vào nhánh, giữ tốc độ vừa phải vì đầu nhánh thường có người sang đường hoặc xe đang đỗ. Vào hẳn nhánh rồi mới tắt xi nhan. Thời điểm bật đèn chi tiết hơn có trong bài [xi nhan đúng thời điểm khi đi xe máy](/ky-nang/2026/10/11/xi-nhan-dung-thoi-diem-khi-di-xe-may/).
 
 ## Lỡ nhánh cần rẽ thì làm gì
 
@@ -71,7 +71,7 @@ Một số tình huống cần phản xạ sẵn:
 3. Trời mưa, mặt đường có vạch sơn và nắp cống: giảm tốc trước khi vào, không nghiêng xe gấp trên vạch sơn.
 4. Ban đêm: đèn pha xe đi vòng quét ngang, khó đoán khoảng cách, nên vào chậm hơn ban ngày.
 
-Nếu phải đổi từ phía trong ra làn ngoài, làm đúng trình tự [chuyển làn an toàn: gương, xi nhan, vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-i-xe-may-guong-xi-nhan-vai/), và chỉ đổi khi chắc chắn không ai ở điểm mù.
+Nếu phải đổi từ phía trong ra làn ngoài, làm đúng trình tự [chuyển làn an toàn: gương, xi nhan, vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-di-xe-may-guong-xi-nhan-vai/), và chỉ đổi khi chắc chắn không ai ở điểm mù.
 
 ## Lưu ý riêng khi đi xe máy thuê
 

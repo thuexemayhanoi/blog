@@ -54,7 +54,7 @@ Cần lưu ý: Lễ hội Thiết kế Sáng tạo năm 2024 diễn ra ở khu H
 Một vòng ngắn để ngắm khu di sản này từ bên ngoài:
 
 1. **Chạy chậm qua đoạn 551 Nguyễn Văn Cừ**, nhìn cổng và tường nhà máy từ làn đường của mình. Không dừng xe dưới lòng đường để chụp ảnh; muốn chụp, gửi xe ở chỗ hợp lệ rồi đi bộ trên vỉa hè.
-2. **Nối sang phố Ngọc Lâm**, con phố dài nối khu chân cầu Long Biên với hướng Nguyễn Văn Cừ, qua khu ga Gia Lâm. Cách đi khi đón người ở ga có ở bài [xuống tàu ở ga Gia Lâm](/du-lich/2026/10/11/xuong-tau-o-ga-gia-lam-i-xe-may-ve-pho-co-the-nao/ "Xuống tàu ở ga Gia Lâm: đi xe máy về phố cổ").
+2. **Nối sang phố Ngọc Lâm**, con phố dài nối khu chân cầu Long Biên với hướng Nguyễn Văn Cừ, qua khu ga Gia Lâm. Cách đi khi đón người ở ga có ở bài [xuống tàu ở ga Gia Lâm](/du-lich/2026/10/11/xuong-tau-o-ga-gia-lam-di-xe-may-ve-pho-co-the-nao/ "Xuống tàu ở ga Gia Lâm: đi xe máy về phố cổ").
 3. **Dừng ăn vặt buổi chiều** theo gợi ý ở bài [ăn vặt phố Ngọc Lâm bằng xe máy](/du-lich/2026/10/15/an-vat-pho-ngoc-lam-buoi-chieu-bang-xe-may-dao-quan-ven-pho-va-dung-xe-sao-cho-g/ "Ăn vặt phố Ngọc Lâm buổi chiều bằng xe máy").
 
 Nguyễn Văn Cừ đông vào giờ tan tầm; cách chọn làn và giờ đi có ở bài [Nguyễn Văn Cừ giờ tan tầm](/du-lich/2026/10/04/nguyen-van-cu-gio-tan-tam-cach-chay-xe-khoi-ach-tac/ "Nguyễn Văn Cừ giờ tan tầm: cách chạy xe khỏi ách tắc"). Ngày có sự kiện ở nhà máy, đường quanh cổng thường đông người hơn, nên đến sớm và gửi xe theo hướng dẫn của ban tổ chức.

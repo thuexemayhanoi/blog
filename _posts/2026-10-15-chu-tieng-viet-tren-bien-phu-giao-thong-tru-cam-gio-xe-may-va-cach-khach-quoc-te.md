@@ -85,7 +85,7 @@ Khi đến gần một cột biển có biển phụ, đọc theo thứ tự:
 4. **Có giờ, có ngày không?** Kiểm tra lúc này có nằm trong khung đó không.
 5. **Có khoảng cách, hướng hay phạm vi không?** Biết biển áp dụng từ đâu đến đâu.
 
-Ví dụ quen thuộc ở Hà Nội: lối lên đường Vành đai 3 trên cao và cầu Thanh Trì là nơi xe máy không được đi, còn các cầu như Long Biên, Chương Dương, Vĩnh Tuy hay Nhật Tân thì xe máy được qua. Khi bạn đi quanh phố cổ Hoàn Kiếm, khu Tây Hồ hay các trục lớn ở Cầu Giấy, gặp biển phụ ghi khung giờ là chuyện thường. Bài [lái xe trong phố cổ giờ cấm](/du-lich/2026/09/28/lai-xe-trong-pho-co-gio-cam-can-biet-gi-truoc-khi-i/) có thêm cách lên tuyến vòng cho khu vực này.
+Ví dụ quen thuộc ở Hà Nội: lối lên đường Vành đai 3 trên cao và cầu Thanh Trì là nơi xe máy không được đi, còn các cầu như Long Biên, Chương Dương, Vĩnh Tuy hay Nhật Tân thì xe máy được qua. Khi bạn đi quanh phố cổ Hoàn Kiếm, khu Tây Hồ hay các trục lớn ở Cầu Giấy, gặp biển phụ ghi khung giờ là chuyện thường. Bài [lái xe trong phố cổ giờ cấm](/du-lich/2026/09/28/lai-xe-trong-pho-co-gio-cam-can-biet-gi-truoc-khi-di/) có thêm cách lên tuyến vòng cho khu vực này.
 
 ## Dịch nhanh mà vẫn an toàn
 

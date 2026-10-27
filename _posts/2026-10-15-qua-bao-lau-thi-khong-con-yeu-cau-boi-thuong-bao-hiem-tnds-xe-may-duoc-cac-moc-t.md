@@ -62,7 +62,7 @@ Theo bản tóm tắt điểm mới trên cơ sở dữ liệu pháp luật, Lu�
 - **Những ngày sau**: gửi thông báo bằng văn bản, hỏi danh mục giấy tờ, gom hóa đơn sửa xe, viện phí.
 - **Khi đã nộp**: xin xác nhận hồ sơ đủ, theo dõi bằng số hồ sơ.
 
-Trình tự chuẩn bị giấy tờ chi tiết có ở bài [thủ tục bồi thường bảo hiểm TNDS khi va chạm](/an-toan-phap-ly/2026/09/30/thu-tuc-boi-thuong-bao-hiem-tnds-khi-va-cham/). Nếu chưa chắc giấy chứng nhận đang ở đâu, xem bài [mang theo giấy bảo hiểm xe máy khi đi đường](/an-toan-phap-ly/2026/10/10/mang-theo-giay-bao-hiem-xe-may-khi-i-uong/).
+Trình tự chuẩn bị giấy tờ chi tiết có ở bài [thủ tục bồi thường bảo hiểm TNDS khi va chạm](/an-toan-phap-ly/2026/09/30/thu-tuc-boi-thuong-bao-hiem-tnds-khi-va-cham/). Nếu chưa chắc giấy chứng nhận đang ở đâu, xem bài [mang theo giấy bảo hiểm xe máy khi đi đường](/an-toan-phap-ly/2026/10/10/mang-theo-giay-bao-hiem-xe-may-khi-di-duong/).
 
 ## Nếu bạn đang đi xe thuê
 

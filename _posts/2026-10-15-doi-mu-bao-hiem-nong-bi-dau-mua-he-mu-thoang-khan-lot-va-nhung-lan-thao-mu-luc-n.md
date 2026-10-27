@@ -43,7 +43,7 @@ Mũ nửa đầu thoáng hơn mũ ba phần tư nhưng che ít hơn; đi phố n
 
 Một chiếc khăn lót mỏng giữa đầu và mũ thấm mồ hôi, giữ lớp lót mũ sạch lâu hơn và đặc biệt hữu ích khi bạn đội mũ đi kèm xe thuê. Chọn khăn vải mỏng, thấm hút tốt như vải cotton hay vải thể thao, đủ phủ đỉnh đầu và trán. Khăn quá dày làm mũ ngồi cao, lỏng, và chính nó cũng nóng thêm.
 
-Mang hai chiếc để thay giữa ngày: một chiếc ướt đẫm mồ hôi sau buổi sáng thì đổi sang chiếc khô cho buổi chiều, chiếc ướt phơi trên giỏ xe hay ba lô. Tối về giặt sạch. Cách giữ mũ sạch nói chung, kể cả lau lớp lót và phơi mũ, có ở bài [mũ bảo hiểm sạch và sức khỏe da đầu](/ky-nang/2026-09-29-mu-bao-hiem-sach-va-suc-khoe-da-au/ "Mũ bảo hiểm sạch và sức khỏe da đầu").
+Mang hai chiếc để thay giữa ngày: một chiếc ướt đẫm mồ hôi sau buổi sáng thì đổi sang chiếc khô cho buổi chiều, chiếc ướt phơi trên giỏ xe hay ba lô. Tối về giặt sạch. Cách giữ mũ sạch nói chung, kể cả lau lớp lót và phơi mũ, có ở bài [mũ bảo hiểm sạch và sức khỏe da đầu](/ky-nang/2026-09-29-mu-bao-hiem-sach-va-suc-khoe-da-dau/ "Mũ bảo hiểm sạch và sức khỏe da đầu").
 
 ## Đổ mồ hôi đầu khi đội mũ bảo hiểm: tận dụng những lần tháo mũ lúc nghỉ
 

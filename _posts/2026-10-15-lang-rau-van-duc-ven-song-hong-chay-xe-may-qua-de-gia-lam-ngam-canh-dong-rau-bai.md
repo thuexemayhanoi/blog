@@ -32,12 +32,12 @@ Thời gian đẹp thường từ khoảng tháng mười đến mùa xuân, khi
 Từ tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, lộ trình tôi hay chỉ khách khá đơn giản:
 
 1. Chạy về phía nam, hướng cầu Vĩnh Tuy, qua khu Thạch Bàn và Cự Khối.
-2. Bắt vào đường Long Biên – Xuân Quan, trục chạy dọc đê tả ngạn sông Hồng. Ai từng đi [làng gốm Bát Tràng từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-uong-i-va-gui-xe/) thì đây chính là con đường đó.
+2. Bắt vào đường Long Biên – Xuân Quan, trục chạy dọc đê tả ngạn sông Hồng. Ai từng đi [làng gốm Bát Tràng từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-duong-di-va-gui-xe/) thì đây chính là con đường đó.
 3. Qua Bát Tràng, giữ hướng theo đê đi tiếp qua Kim Lan. Khi một bên là làng, một bên là bãi rau trải rộng ra phía sông thì bạn đã ở Văn Đức.
 
 Tùy giờ và số lần dừng, quãng này thường mất khoảng bốn mươi phút đến một tiếng. Đoạn qua Bát Tràng cuối tuần có ô tô du lịch và xe khách, cứ chạy chậm, đừng sốt ruột vượt.
 
-Trên đê có xe tải chở vật liệu và những khúc cua bám theo thân đê, nên giữ sát bên phải, không vượt ở chỗ cua khuất. Ai chưa quen đường đê nên đọc trước kinh nghiệm [chạy xe trên đê Gia Lâm buổi chiều](/du-lich/2026/10/04/chay-xe-may-tren-uong-e-gia-lam-buoi-chieu-loi-len-e-va-iem-dung/) để biết lối lên xuống và chỗ dừng an toàn.
+Trên đê có xe tải chở vật liệu và những khúc cua bám theo thân đê, nên giữ sát bên phải, không vượt ở chỗ cua khuất. Ai chưa quen đường đê nên đọc trước kinh nghiệm [chạy xe trên đê Gia Lâm buổi chiều](/du-lich/2026/10/04/chay-xe-may-tren-duong-de-gia-lam-buoi-chieu-loi-len-de-va-diem-dung/) để biết lối lên xuống và chỗ dừng an toàn.
 
 ## Xuống cánh đồng rau ven sông Hồng: đường bê tông nhỏ giữa ruộng
 
@@ -71,11 +71,11 @@ Ví dụ một buổi tôi hay gợi ý: hai bạn nhận xe từ chiều hôm t
 
 Mùa hè, trên bãi gần như không có bóng cây, nhớ áo chống nắng và đủ nước. Mùa đông, gió sông thổi lạnh, nên mặc thêm áo gió.
 
-Đường đê tiếp tục về phía Xuân Quan, sang địa phận Hưng Yên. Ai còn sức có thể ghép thêm điểm đến theo gợi ý trong bài [đi Ecopark từ Long Biên](/du-lich/2026/10/11/tu-long-bien-i-ecopark-bang-xe-may-cung-uong-va-cach-tranh-gio-ong/), nhưng nên về trước khi trời tối vì đường bãi không có đèn.
+Đường đê tiếp tục về phía Xuân Quan, sang địa phận Hưng Yên. Ai còn sức có thể ghép thêm điểm đến theo gợi ý trong bài [đi Ecopark từ Long Biên](/du-lich/2026/10/11/tu-long-bien-di-ecopark-bang-xe-may-cung-duong-va-cach-tranh-gio-dong/), nhưng nên về trước khi trời tối vì đường bãi không có đèn.
 
 ## Chọn xe và chuẩn bị trước khi xuống bãi
 
-Đường bãi hẹp, dốc ngắn và hay phải dắt quay đầu, nên xe gọn nhẹ có lợi. Honda Wave giá 150.000 đ/ngày, dễ xoay xở trên bê tông nhỏ. Ai chưa quen xe số có thể chọn Honda Vision, 200.000 đ/ngày. Tôi có viết riêng chuyện [chọn Wave hay Vision cho đường làng Gia Lâm](/du-lich/2026/10/11/i-lang-nghe-va-uong-lang-gia-lam-nen-chon-wave-hay-vision/) nếu bạn còn phân vân.
+Đường bãi hẹp, dốc ngắn và hay phải dắt quay đầu, nên xe gọn nhẹ có lợi. Honda Wave giá 150.000 đ/ngày, dễ xoay xở trên bê tông nhỏ. Ai chưa quen xe số có thể chọn Honda Vision, 200.000 đ/ngày. Tôi có viết riêng chuyện [chọn Wave hay Vision cho đường làng Gia Lâm](/du-lich/2026/10/11/di-lang-nghe-va-duong-lang-gia-lam-nen-chon-wave-hay-vision/) nếu bạn còn phân vân.
 
 Danh sách chuẩn bị ngắn gọn:
 

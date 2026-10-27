@@ -25,7 +25,7 @@ Danh sách việc chính đáng ngắn hơn nhiều người nghĩ.
 - **Gạt nước hoặc bụi trên kính mũ.** Mưa phùn hay hạt mưa đầu cơn giông che mất tầm nhìn; một cái gạt nhanh bằng mu bàn tay trái là chấp nhận được.
 - **Chỉnh mũ hoặc khẩu trang đang che mắt.** Quai lỏng làm mũ trượt xuống trán; đây là chuyện tầm nhìn, cần xử lý ngay.
 
-Những việc như chỉnh gương, nghe điện thoại, uống nước hay cầm đồ không nằm trong danh sách này. Gương lệch thì chỉnh lúc chờ đèn đỏ, theo cách trong bài [chỉnh gương xe máy đúng cách khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-ung-cach-khi-dung-en-o/).
+Những việc như chỉnh gương, nghe điện thoại, uống nước hay cầm đồ không nằm trong danh sách này. Gương lệch thì chỉnh lúc chờ đèn đỏ, theo cách trong bài [chỉnh gương xe máy đúng cách khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-dung-cach-khi-dung-den-do/).
 
 ## Tay nào được rời, tay nào phải ở lại
 
@@ -59,7 +59,7 @@ Cách giữ ga ổn định:
 - **Khuỷu tay phải hơi gập, thả lỏng.** Tay căng cứng sẽ truyền mọi rung lắc của người vào tay lái.
 - **Mắt nhìn xa phía trước**, chỉ liếc nhanh sang bên rồi trở lại đường.
 
-Tư thế đặt tay, gối và bàn chân nói chung có trong bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-ieu-khien-xe-may-chac-tay-at-tay-goi-va-ban-chan-the-nao/).
+Tư thế đặt tay, gối và bàn chân nói chung có trong bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-dieu-khien-xe-may-chac-tay-dat-tay-goi-va-ban-chan-the-nao/).
 
 ## Đặt tay lại thật nhanh và đúng chỗ
 

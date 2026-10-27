@@ -52,7 +52,7 @@ Theo các thợ sửa xe được VietNamNet phỏng vấn, xe máy chết máy 
 - **Nếu xe chết máy giữa nước**, không đề máy nhiều lần; dắt xe lên chỗ khô, vì đề máy khi nước còn trong máy có thể làm hỏng động cơ.
 - **Xe thuê bị chết máy do nước**, hãy gọi cửa hàng trước khi tự xử lý; các bước kiểm tra có ở bài [xe máy thuê vừa lội qua đoạn phố ngập](/xe-may/2026/10/15/xe-may-thue-vua-loi-qua-doan-pho-ngap-kiem-tra-gi-truoc-khi-no-may-lai-va-khi-na/ "Xe máy thuê vừa lội qua phố ngập").
 
-Có nên lội qua hay chờ nước rút được bàn kỹ ở bài [đường ngập sau mưa lớn có nên lội xe máy qua](/thue-xe/2026/10/11/uong-ngap-sau-mua-lon-co-nen-loi-xe-may-qua-va-xu-ly-the-nao-khi-xe-chet-may/ "Đường ngập sau mưa lớn có nên lội xe máy qua").
+Có nên lội qua hay chờ nước rút được bàn kỹ ở bài [đường ngập sau mưa lớn có nên lội xe máy qua](/thue-xe/2026/10/11/duong-ngap-sau-mua-lon-co-nen-loi-xe-may-qua-va-xu-ly-the-nao-khi-xe-chet-may/ "Đường ngập sau mưa lớn có nên lội xe máy qua").
 
 ## Chọn vị trí đứng chờ
 

@@ -47,7 +47,7 @@ Dấu hiệu thường gặp:
 - Nhìn từ phía sau, bánh trước và bánh sau không nằm trên cùng một đường thẳng.
 - Có tiếng cọ nhẹ ở chắn bùn hoặc phanh khi bánh quay.
 
-Với những dấu hiệu này, bạn không thể sửa tại chỗ. Ghi nhớ lúc nào và ở đâu xảy ra va chạm, chụp ảnh bánh xe để báo cửa hàng. Nếu va chạm có liên quan đến người hoặc xe khác, bài [xe thuê bị va chạm nhẹ: cần báo gì cho cửa hàng](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-o-can-bao-gi-cho-cua-hang/) giúp bạn chuẩn bị thông tin.
+Với những dấu hiệu này, bạn không thể sửa tại chỗ. Ghi nhớ lúc nào và ở đâu xảy ra va chạm, chụp ảnh bánh xe để báo cửa hàng. Nếu va chạm có liên quan đến người hoặc xe khác, bài [xe thuê bị va chạm nhẹ: cần báo gì cho cửa hàng](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-do-can-bao-gi-cho-cua-hang/) giúp bạn chuẩn bị thông tin.
 
 ## Tay lái lệch so với bánh trước
 

@@ -27,7 +27,7 @@ TNDS lo cho trách nhiệm của chủ xe khi xe gây thiệt hại cho người
 
 Phần tai nạn cho người lái và người ngồi trên xe không nằm trong diện bảo hiểm bắt buộc của Nghị định 67. Đây là sản phẩm tự nguyện, tức là một hợp đồng riêng mà bạn có thể mua hoặc không, do doanh nghiệp tự thiết kế phạm vi, quyền lợi và phí.
 
-Tự nguyện không có nghĩa là vô ích. Chính vì lớp bắt buộc bỏ trống phần thương tích của người trên xe, nhiều người đi xe hằng ngày vẫn chọn mua thêm. Điều quan trọng là bạn quyết định sau khi đọc điều khoản, không phải vì được bảo rằng không mua thì không được cấp giấy. Muốn cân nhắc có nên mua, xem bài [bảo hiểm tai nạn cho người đi xe máy thuê nên mua không](/an-toan-phap-ly/2026/10/07/bao-hiem-tai-nan-cho-nguoi-i-xe-may-thue-nen-mua-khong/).
+Tự nguyện không có nghĩa là vô ích. Chính vì lớp bắt buộc bỏ trống phần thương tích của người trên xe, nhiều người đi xe hằng ngày vẫn chọn mua thêm. Điều quan trọng là bạn quyết định sau khi đọc điều khoản, không phải vì được bảo rằng không mua thì không được cấp giấy. Muốn cân nhắc có nên mua, xem bài [bảo hiểm tai nạn cho người đi xe máy thuê nên mua không](/an-toan-phap-ly/2026/10/07/bao-hiem-tai-nan-cho-nguoi-di-xe-may-thue-nen-mua-khong/).
 
 ## Có bị bắt buộc mua kèm bảo hiểm tai nạn không
 

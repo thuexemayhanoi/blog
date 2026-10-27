@@ -43,7 +43,7 @@ Sau đó kiểm tra hai phía:
 4. **Phần trầy trên xe máy thuê** và biển số xe máy.
 5. Một tấm có **biển tên ngõ hoặc số nhà** gần đó để xác định địa điểm.
 
-Điện thoại tự ghi thời gian trong ảnh, nên không cần ghi chép thêm. Cách chụp ghi lại hiện trường khi làm xước chính xe thuê đã có hướng dẫn chi tiết trong bài [làm xước hoặc làm đổ xe thuê](/thue-xe/2026/10/12/lam-xuoc-hoac-lam-o-xe-thue-cach-bao-cua-hang-va-ghi-lai-hien-truong/); ở đây trọng tâm là tài sản của người khác.
+Điện thoại tự ghi thời gian trong ảnh, nên không cần ghi chép thêm. Cách chụp ghi lại hiện trường khi làm xước chính xe thuê đã có hướng dẫn chi tiết trong bài [làm xước hoặc làm đổ xe thuê](/thue-xe/2026/10/12/lam-xuoc-hoac-lam-do-xe-thue-cach-bao-cua-hang-va-ghi-lai-hien-truong/); ở đây trọng tâm là tài sản của người khác.
 
 ## Bước ba: tìm chủ xe hoặc để lại liên lạc
 

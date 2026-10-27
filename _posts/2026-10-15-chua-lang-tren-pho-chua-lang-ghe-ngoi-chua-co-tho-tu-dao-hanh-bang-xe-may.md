@@ -48,9 +48,9 @@ Khó nhất ở chùa Láng là dừng xe. Phố có nhiều trường học, qu
 - **Không đỗ xe dưới lòng đường hay chặn cổng nhà dân.** Đoạn gần chùa hẹp, một chiếc xe để lệch cũng đủ làm ùn dòng.
 - **Tránh giờ tan học.** Trưa và cuối chiều sinh viên ra vào rất đông; sáng sớm hoặc giữa buổi chiều dễ dừng xe hơn.
 
-Nếu gặp chỗ có biển cấm dừng, cấm đỗ, hãy đi tiếp tìm chỗ khác. Cách đọc các biển này được giải thích kỹ trong bài [biển cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/oc-bien-bao-cam-o-va-cam-dung-tren-via-he/).
+Nếu gặp chỗ có biển cấm dừng, cấm đỗ, hãy đi tiếp tìm chỗ khác. Cách đọc các biển này được giải thích kỹ trong bài [biển cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/doc-bien-bao-cam-do-va-cam-dung-tren-via-he/).
 
-Ngày rằm, mùng một hay lễ hội, người đi lễ đông hơn hẳn, nên đi sớm hoặc gửi xe xa một chút rồi đi bộ vào. Bài [đi lễ chùa ngày rằm, mùng một bằng xe máy thuê](/thue-xe/2026/10/11/i-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-i-sang-hay-chieu/) có thêm gợi ý chọn giờ cho những ngày này.
+Ngày rằm, mùng một hay lễ hội, người đi lễ đông hơn hẳn, nên đi sớm hoặc gửi xe xa một chút rồi đi bộ vào. Bài [đi lễ chùa ngày rằm, mùng một bằng xe máy thuê](/thue-xe/2026/10/11/di-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-di-sang-hay-chieu/) có thêm gợi ý chọn giờ cho những ngày này.
 
 ## Bên trong chùa: đọc kiến trúc theo trục dọc
 
@@ -79,6 +79,6 @@ Chùa Láng là nơi thờ tự đang hoạt động, người dân đến lễ 
 
 Một buổi sáng nhẹ: xuất phát sớm theo đường Láng, rẽ vào phố trước giờ vào học, gửi xe, dành chừng một giờ thăm chùa. Sau đó ăn sáng quanh phố rồi về hướng Nguyễn Chí Thanh để khỏi quay đầu trên đường Láng.
 
-Nếu còn thời gian, bạn có thể ghép thêm một điểm ở Ba Đình hoặc khu Tây Hồ như [chùa Trấn Quốc](/du-lich/2026/09/28/en-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i/), cùng là chùa cổ nhưng không gian ven hồ rất khác.
+Nếu còn thời gian, bạn có thể ghép thêm một điểm ở Ba Đình hoặc khu Tây Hồ như [chùa Trấn Quốc](/du-lich/2026/09/28/den-chua-tran-quoc-bang-xe-may-gui-xe-va-duong-di/), cùng là chùa cổ nhưng không gian ven hồ rất khác.
 
 Chùa Láng không lớn, nhưng chiều sâu lịch sử và bố cục trục dọc của nó đáng để dành một buổi. Muốn ghé những di tích, bảo tàng khác trong nội thành bằng xe máy, xem thêm mục [bảo tàng và di tích](/du-lich/bao-tang/) và các gợi ý chung trong chuyên mục [du lịch](/du-lich/).

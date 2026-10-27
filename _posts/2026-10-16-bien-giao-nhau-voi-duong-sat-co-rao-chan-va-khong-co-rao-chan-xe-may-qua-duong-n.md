@@ -29,7 +29,7 @@ Biển vẽ hình hàng rào chắn. Nó báo phía trước là đường ngang
 
 Biển vẽ đầu máy tàu hỏa, báo phía trước là đường ngang không có rào chắn, không có người điều khiển. Không ai hạ chắn giúp bạn; an toàn phụ thuộc vào việc bạn dừng lại, nhìn và nghe.
 
-Cách nhớ của tôi khi dặn khách: **thấy hàng rào là có người gác, thấy đầu tàu là phải tự lo**. Các biển tam giác khác trên đường trường được giải thích trong bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-uong-truong/).
+Cách nhớ của tôi khi dặn khách: **thấy hàng rào là có người gác, thấy đầu tàu là phải tự lo**. Các biển tam giác khác trên đường trường được giải thích trong bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-duong-truong/).
 
 ## Biển chữ thập đường sắt giao đường bộ: đặt sát đường ray
 

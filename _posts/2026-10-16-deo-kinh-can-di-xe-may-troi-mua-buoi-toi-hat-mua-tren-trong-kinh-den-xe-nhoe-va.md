@@ -79,7 +79,7 @@ Khi xe đối diện chiếu đèn, hãy đưa mắt sang mép phải làn đư�
 
 ### Cẩn thận với mặt đường loang loáng
 
-Mặt đường ướt dưới đèn đường và đèn biển hiệu phản chiếu thành từng mảng sáng, rất khó phân biệt vũng nước với vệt nhựa bóng. Bài [phân biệt vũng nước và vệt nhựa bóng loáng lúc đêm](/ky-nang/2026/10/11/phan-biet-vung-nuoc-va-vet-nhua-bong-loang-luc-em/) giải thích cách đọc các mảng sáng này.
+Mặt đường ướt dưới đèn đường và đèn biển hiệu phản chiếu thành từng mảng sáng, rất khó phân biệt vũng nước với vệt nhựa bóng. Bài [phân biệt vũng nước và vệt nhựa bóng loáng lúc đêm](/ky-nang/2026/10/11/phan-biet-vung-nuoc-va-vet-nhua-bong-loang-luc-dem/) giải thích cách đọc các mảng sáng này.
 
 Ví dụ thực tế: tối mưa trên đường Nguyễn Văn Cừ ở Long Biên hay đường Láng, xe đông, đèn ô tô ngược chiều liên tục. Người đeo kính cận nên đi làn bên phải, không lạng lách vượt xe, và chọn tuyến có đèn đường sáng thay vì đường tắt qua ngõ tối.
 

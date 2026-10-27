@@ -70,7 +70,7 @@ Trên các trục đông xe ở Cầu Giấy, Đống Đa hay Thanh Xuân, bạn
 
 ### Khu vực phố đi bộ quanh hồ Hoàn Kiếm
 
-Khu phố đi bộ quanh hồ Hoàn Kiếm thường hoạt động vào các tối cuối tuần, các phố lân cận được rào và gắn biển theo khung giờ. Lịch có thể điều chỉnh theo từng đợt, nên đọc biển tại chỗ thay vì nhớ theo lần trước. Cách tìm chỗ để xe trước khi đi bộ vào có trong bài [biển báo khu vực phố đi bộ](/an-toan-phap-ly/2026/09/28/bien-bao-khu-vuc-pho-i-bo/).
+Khu phố đi bộ quanh hồ Hoàn Kiếm thường hoạt động vào các tối cuối tuần, các phố lân cận được rào và gắn biển theo khung giờ. Lịch có thể điều chỉnh theo từng đợt, nên đọc biển tại chỗ thay vì nhớ theo lần trước. Cách tìm chỗ để xe trước khi đi bộ vào có trong bài [biển báo khu vực phố đi bộ](/an-toan-phap-ly/2026/09/28/bien-bao-khu-vuc-pho-di-bo/).
 
 ### Người đi làm từ Long Biên sang trung tâm
 

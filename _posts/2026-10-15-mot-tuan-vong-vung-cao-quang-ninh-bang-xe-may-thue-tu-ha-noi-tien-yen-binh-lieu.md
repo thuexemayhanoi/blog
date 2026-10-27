@@ -38,7 +38,7 @@ Từ Bồ Đề, bạn theo Ngô Gia Tự qua cầu Đuống, đi quốc lộ 1 
 - **Cao tốc Hạ Long – Vân Đồn – Móng Cái**, chạy gần song song với quốc lộ 18 ở nửa phía đông.
 - **Đoạn Bắc Ninh – Hạ Long** ở chỗ nào có biển cấm xe máy thì không vào, đi theo đường gom hoặc lối được chỉ dẫn.
 
-Một số đoạn quốc lộ 18 có làn riêng cho xe máy, tách khỏi làn ô tô bằng dải phân cách hoặc vạch kẻ. Hãy đi đúng làn xe máy theo biển báo, nhìn biển ở mỗi nút giao trước khi rẽ, và đặt ứng dụng bản đồ ở chế độ xe máy. Nếu thấy mình đang ở lối lên có biển cấm, dừng lại an toàn và quay về đường được phép. Giải thích kỹ hơn có trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Một số đoạn quốc lộ 18 có làn riêng cho xe máy, tách khỏi làn ô tô bằng dải phân cách hoặc vạch kẻ. Hãy đi đúng làn xe máy theo biển báo, nhìn biển ở mỗi nút giao trước khi rẽ, và đặt ứng dụng bản đồ ở chế độ xe máy. Nếu thấy mình đang ở lối lên có biển cấm, dừng lại an toàn và quay về đường được phép. Giải thích kỹ hơn có trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 Quốc lộ 18 có nhiều xe tải, nhất là quanh khu Cẩm Phả, Cửa Ông. Giữ khoảng cách, không len giữa hai xe lớn và bật đèn khi trời mù.
 

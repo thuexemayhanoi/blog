@@ -75,7 +75,7 @@ Nếu có người bị thương, gọi cấp cứu 115 trước, sau đó mới
 - **Chia sẻ hành trình** cho người thân nếu ứng dụng có tính năng này.
 - **Cân nhắc taxi bốn bánh** cho chuyến đêm muộn, nhất là khi trời mưa hoặc đi xa như từ Hoàn Kiếm sang Long Biên, Gia Lâm.
 
-Cách so sánh đi xe ôm công nghệ với tự thuê xe trong nội đô có ở bài [thuê xe tự lái hay đi xe ôm công nghệ trong nội đô](/xe-may/2026/09/29/thue-xe-tu-lai-hay-i-xe-om-cong-nghe-trong-noi-o/).
+Cách so sánh đi xe ôm công nghệ với tự thuê xe trong nội đô có ở bài [thuê xe tự lái hay đi xe ôm công nghệ trong nội đô](/xe-may/2026/09/29/thue-xe-tu-lai-hay-di-xe-om-cong-nghe-trong-noi-do/).
 
 ## Phản ánh tài xế uống rượu bia qua ứng dụng
 

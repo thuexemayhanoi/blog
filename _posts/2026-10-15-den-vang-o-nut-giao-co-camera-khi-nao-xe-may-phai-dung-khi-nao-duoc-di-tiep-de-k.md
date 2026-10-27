@@ -65,7 +65,7 @@ Tình huống khó nhất là khi bánh trước chỉ còn cách vạch rất n
 
 Đèn vàng nhấp nháy khác hẳn đèn vàng sáng liên tục. Theo điểm b, bạn được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác. Bạn có thể gặp chế độ này ở một số nút giao, chẳng hạn khi đi muộn trong đêm. Lúc đó không có đèn xanh đỏ phân luồng, nên tốc độ và quan sát của chính bạn là thứ giữ an toàn.
 
-Cách đi: giảm ga trước giao lộ, nhìn hai bên, nhường người đi bộ và xe đã vào giao lộ trước. Cách chọn làn khi đi qua giao lộ rộng có trong bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/ung-lan-xe-may-khi-qua-nut-giao-lon/).
+Cách đi: giảm ga trước giao lộ, nhìn hai bên, nhường người đi bộ và xe đã vào giao lộ trước. Cách chọn làn khi đi qua giao lộ rộng có trong bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/dung-lan-xe-may-khi-qua-nut-giao-lon/).
 
 ## Lưu ý khi có cảnh sát điều khiển
 

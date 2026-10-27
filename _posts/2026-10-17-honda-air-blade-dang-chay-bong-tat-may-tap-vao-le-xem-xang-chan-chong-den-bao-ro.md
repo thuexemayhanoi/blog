@@ -25,7 +25,7 @@ Xe tay ga mất máy vẫn còn trớn vài chục mét. Tận dụng quãng đ�
 2. Bật xi nhan phải, lướt dần vào sát lề, bóp phanh nhẹ cả hai tay.
 3. Dừng hẳn rồi mới thử đề lại, đừng vừa lướt vừa bấm nút đề.
 
-Luật Trật tự, an toàn giao thông đường bộ 2024, Điều 18, yêu cầu khi dừng xe phải có tín hiệu cho xe khác biết, trên đường phố dừng sát lề phải, bánh xe gần nhất không cách lề quá 0,25 m. Luật cấm dừng xe trên cầu, ở đoạn đường cong hoặc gần đầu dốc khuất tầm nhìn, nơi giao nhau và trong phạm vi 5 m từ mép đường giao nhau. Nếu sự cố buộc xe phải đỗ chiếm một phần đường hoặc ở nơi không được đỗ, phải có báo hiệu bằng đèn khẩn cấp hoặc biển cảnh báo phía sau xe. Ở những chỗ đó, dắt xe ra tới nơi an toàn rồi mới kiểm tra; cách làm khi xe tắt trong hầm chui hay trên cầu vượt có ở bài [xe tắt máy trong hầm chui hoặc trên cầu vượt](/thue-xe/2026/10/13/xe-tat-may-trong-ham-chui-hoac-tren-cau-vuot-ua-xe-ra-cho-an-toan-the-nao/ "Xe tắt máy trong hầm chui hoặc trên cầu vượt").
+Luật Trật tự, an toàn giao thông đường bộ 2024, Điều 18, yêu cầu khi dừng xe phải có tín hiệu cho xe khác biết, trên đường phố dừng sát lề phải, bánh xe gần nhất không cách lề quá 0,25 m. Luật cấm dừng xe trên cầu, ở đoạn đường cong hoặc gần đầu dốc khuất tầm nhìn, nơi giao nhau và trong phạm vi 5 m từ mép đường giao nhau. Nếu sự cố buộc xe phải đỗ chiếm một phần đường hoặc ở nơi không được đỗ, phải có báo hiệu bằng đèn khẩn cấp hoặc biển cảnh báo phía sau xe. Ở những chỗ đó, dắt xe ra tới nơi an toàn rồi mới kiểm tra; cách làm khi xe tắt trong hầm chui hay trên cầu vượt có ở bài [xe tắt máy trong hầm chui hoặc trên cầu vượt](/thue-xe/2026/10/13/xe-tat-may-trong-ham-chui-hoac-tren-cau-vuot-dua-xe-ra-cho-an-toan-the-nao/ "Xe tắt máy trong hầm chui hoặc trên cầu vượt").
 
 ## Tắt máy vì ngắt động cơ tạm thời hay chết máy thật
 
@@ -33,7 +33,7 @@ Air Blade có hệ thống ngắt động cơ tạm thời, Honda gọi là Idli
 
 Sách hướng dẫn xe tay ga cùng hệ của Honda Việt Nam cho biết đèn báo ngắt động cơ tạm thời nháy khi động cơ đang được hệ thống tạm ngắt. Muốn đi tiếp, kiểm tra đèn có nháy không rồi mở ga. Nếu đèn không nháy, mở ga sẽ không nổ lại được bằng hệ thống này. Sách cũng dặn không rời khỏi xe khi đèn đang nháy, và khi rời xe luôn vặn khóa điện về vị trí tắt.
 
-Như vậy, máy tắt lúc xe đã đứng yên và đèn báo đang nháy là hoạt động bình thường. Máy tắt khi xe đang lăn bánh là chuyện khác, cần kiểm tra tiếp. Ai thấy bất tiện khi máy ngắt, bật liên tục lúc tắc đường có thể gạt công tắc sang chế độ nổ máy liên tục. Thêm về chức năng này ở bài [xe thuê tự tắt máy mỗi lần dừng đèn đỏ](/thue-xe/2026/10/13/xe-thue-tu-tat-may-moi-lan-dung-en-o-giu-an-toan-giua-nga-tu-ong/ "Xe thuê tự tắt máy mỗi lần dừng đèn đỏ").
+Như vậy, máy tắt lúc xe đã đứng yên và đèn báo đang nháy là hoạt động bình thường. Máy tắt khi xe đang lăn bánh là chuyện khác, cần kiểm tra tiếp. Ai thấy bất tiện khi máy ngắt, bật liên tục lúc tắc đường có thể gạt công tắc sang chế độ nổ máy liên tục. Thêm về chức năng này ở bài [xe thuê tự tắt máy mỗi lần dừng đèn đỏ](/thue-xe/2026/10/13/xe-thue-tu-tat-may-moi-lan-dung-den-do-giu-an-toan-giua-nga-tu-dong/ "Xe thuê tự tắt máy mỗi lần dừng đèn đỏ").
 
 ## Xem xăng và chân chống
 

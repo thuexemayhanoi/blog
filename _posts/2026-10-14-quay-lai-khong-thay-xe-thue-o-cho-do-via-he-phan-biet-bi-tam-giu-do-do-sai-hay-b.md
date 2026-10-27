@@ -35,7 +35,7 @@ Trước khi làm gì khác, hãy mở lại ảnh trong điện thoại. Nếu 
 2. **Có biển cấm hoặc vạch kẻ ở gần.** Hãy nhìn lại biển báo đầu đoạn phố, vạch sơn trên vỉa hè. Một số đoạn chỉ cho để xe ở phần vỉa hè được kẻ ô, một số đoạn không cho để.
 3. **Người bán hàng xung quanh biết chuyện.** Hàng nước, quầy tạp hóa ngồi đó cả ngày thường thấy rõ có xe chuyên dụng đến hay không.
 
-Khi thấy các dấu hiệu này, việc nên làm là hỏi rõ nơi xe đang được giữ và trình tự nhận lại, rồi báo tiệm ngay. Không tự đoán mức xử lý hay giấy tờ cần nộp, vì quy định có thể thay đổi; hãy nghe đúng hướng dẫn của cơ quan đang giữ xe. Chi tiết các bước sau đó có trong bài [xe thuê bị CSGT giữ và thủ tục lấy lại](/thue-xe/2026/09/27/xe-thue-bi-csgt-giu-thu-tuc-lay-lai/). Nếu bạn còn băn khoăn về chuyện đậu trên vỉa hè có được hay không, đọc thêm phần [hỏi đáp về đậu xe máy trên vỉa hè](/hoi-dap/2026/10/07/hoi-au-xe-may-tren-via-he-co-bi-xu-ly-khong/).
+Khi thấy các dấu hiệu này, việc nên làm là hỏi rõ nơi xe đang được giữ và trình tự nhận lại, rồi báo tiệm ngay. Không tự đoán mức xử lý hay giấy tờ cần nộp, vì quy định có thể thay đổi; hãy nghe đúng hướng dẫn của cơ quan đang giữ xe. Chi tiết các bước sau đó có trong bài [xe thuê bị CSGT giữ và thủ tục lấy lại](/thue-xe/2026/09/27/xe-thue-bi-csgt-giu-thu-tuc-lay-lai/). Nếu bạn còn băn khoăn về chuyện đậu trên vỉa hè có được hay không, đọc thêm phần [hỏi đáp về đậu xe máy trên vỉa hè](/hoi-dap/2026/10/07/hoi-dau-xe-may-tren-via-he-co-bi-xu-ly-khong/).
 
 ## Dấu hiệu nghiêng về khả năng xe bị trộm
 
@@ -68,7 +68,7 @@ Một trường hợp khác: khách đỗ xe trên vỉa hè gần chợ Đồng
 
 Phần lớn rắc rối có thể tránh được bằng vài thói quen nhỏ:
 
-- **Gửi xe ở bãi trông giữ có vé** thay vì dựng tạm trên vỉa hè, nhất là khi định ở lại lâu. Cách chọn bãi và giữ vé có trong bài [gửi xe máy qua đêm ở bãi trông giữ](/ky-nang/2026/10/11/gui-xe-may-qua-em-o-bai-trong-giu/).
+- **Gửi xe ở bãi trông giữ có vé** thay vì dựng tạm trên vỉa hè, nhất là khi định ở lại lâu. Cách chọn bãi và giữ vé có trong bài [gửi xe máy qua đêm ở bãi trông giữ](/ky-nang/2026/10/11/gui-xe-may-qua-dem-o-bai-trong-giu/).
 - **Chụp ảnh chỗ đỗ** kèm biển số và biển hiệu cửa hàng bên cạnh.
 - **Khóa cổ, dùng khóa đĩa** nếu tiệm có cho mượn.
 - **Lưu sẵn cách liên hệ của tiệm** trong Zalo và ghi chú địa chỉ tiệm: 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00.

@@ -35,7 +35,7 @@ Nếu bạn đi hai người, người ngồi sau đeo balo nhỏ và không man
 
 Với Sóc Sơn, đường thường đi theo hướng bắc qua Đông Anh; với Ba Vì, đường đi hướng tây. Cả hai đều có đoạn quốc lộ đông xe tải, rồi rẽ vào đường nhỏ vào khu nghỉ. Hãy xem trước bản đồ, chọn tuyến dễ đi và đi vào ban ngày, vì đường vào khu nghỉ ven đồi có thể hẹp, nhiều dốc và vắng đèn.
 
-Hãy hỏi khu nghỉ về đường vào: mặt đường có tốt không, có đoạn dốc đứng hay đường đất không, xe máy có vào được tới nơi không. Bài [kinh nghiệm ghé thăm K9 và Đường Hồ Chí Minh tại Ba Vì nửa ngày](/du-lich/2026/09/28/kinh-nghiem-ghe-tham-k9-va-uong-ho-chi-minh-tai-ba-vi-nua-ngay/) nói về chuyến đi Ba Vì trong ngày; còn bài [đi Sóc Sơn bằng xe máy: núi Hàm Lợn, hồ Đồng Quan và đền Sóc](/du-lich/2026/10/11/i-soc-son-bang-xe-may-nui-ham-lon-ho-ong-quan-va-en-soc/) nói về khu vực phía bắc. Chọn giờ xuất phát tránh cao điểm để đỡ đông xe tải.
+Hãy hỏi khu nghỉ về đường vào: mặt đường có tốt không, có đoạn dốc đứng hay đường đất không, xe máy có vào được tới nơi không. Bài [kinh nghiệm ghé thăm K9 và Đường Hồ Chí Minh tại Ba Vì nửa ngày](/du-lich/2026/09/28/kinh-nghiem-ghe-tham-k9-va-duong-ho-chi-minh-tai-ba-vi-nua-ngay/) nói về chuyến đi Ba Vì trong ngày; còn bài [đi Sóc Sơn bằng xe máy: núi Hàm Lợn, hồ Đồng Quan và đền Sóc](/du-lich/2026/10/11/di-soc-son-bang-xe-may-nui-ham-lon-ho-dong-quan-va-den-soc/) nói về khu vực phía bắc. Chọn giờ xuất phát tránh cao điểm để đỡ đông xe tải.
 
 ## Hỏi khu nghỉ về chỗ gửi xe và giờ nhận phòng
 

@@ -32,7 +32,7 @@ Mỗi xưởng có thế mạnh riêng, có nhà chuyên lược, có nhà làm 
 
 ## Đường xe máy tới làng sừng: quốc lộ 1A cũ, không vào cao tốc
 
-Hướng nam Hà Nội có hai trục song song: quốc lộ 1A cũ đi qua khu dân cư và cao tốc Pháp Vân – Cầu Giẽ. Cao tốc cấm xe máy. Nếu bản đồ đang để chế độ ô tô, ứng dụng rất hay đẩy bạn lên cao tốc vì nhanh hơn, nên chuyển sang chế độ xe máy trước khi đi. Quy định chi tiết xem bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Hướng nam Hà Nội có hai trục song song: quốc lộ 1A cũ đi qua khu dân cư và cao tốc Pháp Vân – Cầu Giẽ. Cao tốc cấm xe máy. Nếu bản đồ đang để chế độ ô tô, ứng dụng rất hay đẩy bạn lên cao tốc vì nhanh hơn, nên chuyển sang chế độ xe máy trước khi đi. Quy định chi tiết xem bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 Lộ trình gợi ý:
 

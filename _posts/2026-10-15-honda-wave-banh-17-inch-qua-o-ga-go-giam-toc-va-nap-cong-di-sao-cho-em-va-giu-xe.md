@@ -21,7 +21,7 @@ Bạn thuê Honda Wave để len vào các ngõ phố cũ hay chạy về nhữn
 
 Bánh xe càng lớn thì góc mà lốp gặp mép ổ gà hay mép gờ càng thoải. Thay vì đâm thẳng vào thành ổ gà rồi rơi hẳn xuống đáy, bánh lớn có xu hướng lăn trượt qua miệng hố, nhất là với những hố nông và hẹp. Kết quả là cú dội truyền lên tay lái và yên nhẹ hơn, tay lái ít bị giật lệch hơn.
 
-So với các xe ga bánh nhỏ hay xe 50cc, đó là khác biệt dễ cảm nhận. Nếu bạn từng đọc bài [bánh nhỏ của xe 50cc qua ổ gà và nắp cống](/xe-may/2026/10/11/banh-nho-cua-xe-50cc-qua-o-ga-nap-cong-va-go-giam-toc-cach-i-cho-em/) hay bài [xe ga bánh nhỏ qua ổ gà và đường ray](/xe-may/2026/10/13/xe-ga-banh-nho-qua-o-ga-go-giam-toc-va-duong-ray-cach-di-cho-vung/), sẽ thấy với Wave mọi thứ dễ thở hơn một bậc.
+So với các xe ga bánh nhỏ hay xe 50cc, đó là khác biệt dễ cảm nhận. Nếu bạn từng đọc bài [bánh nhỏ của xe 50cc qua ổ gà và nắp cống](/xe-may/2026/10/11/banh-nho-cua-xe-50cc-qua-o-ga-nap-cong-va-go-giam-toc-cach-di-cho-em/) hay bài [xe ga bánh nhỏ qua ổ gà và đường ray](/xe-may/2026/10/13/xe-ga-banh-nho-qua-o-ga-go-giam-toc-va-duong-ray-cach-di-cho-vung/), sẽ thấy với Wave mọi thứ dễ thở hơn một bậc.
 
 Nhưng có ba điều bánh lớn không làm thay bạn:
 
@@ -62,7 +62,7 @@ Cách đi:
 - **Không vào cua ngay trên nắp cống.** Nắp cống hay nằm ở ngã ba ngõ, chỗ bạn định rẽ. Đổi hướng sớm một chút.
 - **Chú ý mép nắp lệch.** Mép cao vài phân đủ làm bánh trước trượt nếu bạn đi chéo qua.
 
-Phanh của Wave trên mặt ướt cũng cần làm quen thêm, bài [phanh Honda Wave khi đường ướt](/xe-may/2026/10/11/honda-wave-phanh-co-khi-uong-uot-phanh-som-hon-va-re-phanh-cho-kho/) có hướng dẫn cụ thể.
+Phanh của Wave trên mặt ướt cũng cần làm quen thêm, bài [phanh Honda Wave khi đường ướt](/xe-may/2026/10/11/honda-wave-phanh-co-khi-duong-uot-phanh-som-hon-va-re-phanh-cho-kho/) có hướng dẫn cụ thể.
 
 ## Chọn số khi đi đường xấu để xe không dội
 

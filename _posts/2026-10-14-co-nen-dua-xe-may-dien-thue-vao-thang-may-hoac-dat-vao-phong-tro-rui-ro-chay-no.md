@@ -58,7 +58,7 @@ Các khu dân cư đông như Cầu Giấy, Đống Đa, Thanh Xuân hay quanh c
 
 ### Sạc ở khu quy định, không mang pin lên phòng
 
-Với xe có pin tháo rời, nhiều người có thói quen xách pin lên phòng sạc. Hãy hỏi chủ nhà trước, vì không ít nơi cấm cả việc này. Nếu được phép, sạc ở chỗ thoáng, trên nền cứng, xa giường và đồ vải, có người thức trông, và rút sạc khi đầy. Những lưu ý về ổ điện và giờ sạc có trong bài [sạc pin qua đêm nơi trọ](/xe-may/2026/10/03/sac-pin-qua-em-noi-tro-an-toan-the-nao/). Tốt hơn nữa là sạc tại trạm sạc hoặc khu sạc mà tòa nhà đã bố trí riêng.
+Với xe có pin tháo rời, nhiều người có thói quen xách pin lên phòng sạc. Hãy hỏi chủ nhà trước, vì không ít nơi cấm cả việc này. Nếu được phép, sạc ở chỗ thoáng, trên nền cứng, xa giường và đồ vải, có người thức trông, và rút sạc khi đầy. Những lưu ý về ổ điện và giờ sạc có trong bài [sạc pin qua đêm nơi trọ](/xe-may/2026/10/03/sac-pin-qua-dem-noi-tro-an-toan-the-nao/). Tốt hơn nữa là sạc tại trạm sạc hoặc khu sạc mà tòa nhà đã bố trí riêng.
 
 ### Cân nhắc lại loại xe
 
@@ -66,7 +66,7 @@ Nếu nơi ở hoàn toàn không có chỗ để và sạc xe điện an toàn,
 
 ## Dấu hiệu pin bất thường: phản ứng thế nào
 
-Dù để xe ở đâu, hãy để ý những dấu hiệu sau: vỏ hộp pin nóng hơn hẳn mọi khi, phồng hoặc biến dạng, có mùi khét hay mùi hóa chất lạ, có tiếng xì nhỏ. Gặp một trong số đó, ngừng sạc, không dắt xe vào nhà, đưa mọi người ra xa và báo ngay cho ban quản lý cùng cửa hàng cho thuê. Trường hợp có khói hay lửa, gọi lực lượng cứu hỏa và ưu tiên thoát ra ngoài. Bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ](/xe-may/2026/10/11/pin-xe-ien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/) nói kỹ từng bước.
+Dù để xe ở đâu, hãy để ý những dấu hiệu sau: vỏ hộp pin nóng hơn hẳn mọi khi, phồng hoặc biến dạng, có mùi khét hay mùi hóa chất lạ, có tiếng xì nhỏ. Gặp một trong số đó, ngừng sạc, không dắt xe vào nhà, đưa mọi người ra xa và báo ngay cho ban quản lý cùng cửa hàng cho thuê. Trường hợp có khói hay lửa, gọi lực lượng cứu hỏa và ưu tiên thoát ra ngoài. Bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ](/xe-may/2026/10/11/pin-xe-dien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/) nói kỹ từng bước.
 
 ## Hỏi cửa hàng khi nhận xe
 

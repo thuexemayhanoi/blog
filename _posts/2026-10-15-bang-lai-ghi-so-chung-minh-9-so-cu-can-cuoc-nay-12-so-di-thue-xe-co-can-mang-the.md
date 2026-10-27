@@ -28,7 +28,7 @@ Luật Căn cước số 26/2023/QH15 được Quốc hội thông qua ngày 27/
 - **Chứng minh nhân dân chỉ còn được dùng đến hết ngày 31/12/2024**, kể cả khi hạn in trên giấy dài hơn. Từ năm 2025, tờ chứng minh 9 số không còn là giấy tờ tùy thân để xuất trình.
 - **Giấy tờ có giá trị pháp lý đã phát hành có sử dụng thông tin chứng minh nhân dân, căn cước công dân được giữ nguyên giá trị sử dụng**; cơ quan nhà nước không được yêu cầu công dân điều chỉnh thông tin đó trong giấy tờ đã cấp.
 
-Áp vào bằng lái: bằng còn hạn không mất giá trị chỉ vì gắn với số chứng minh cũ, và bạn không bắt buộc đi đổi bằng chỉ vì dãy số đã khác. Hạn của bằng vẫn tính theo thời hạn ghi trên bằng; nếu bằng sắp đến hạn, xem bài [giấy phép lái sắp hết hạn có thuê được xe máy không](/an-toan-phap-ly/2026/10/07/giay-phep-lai-sap-het-han-co-thue-uoc-xe-may-khong/).
+Áp vào bằng lái: bằng còn hạn không mất giá trị chỉ vì gắn với số chứng minh cũ, và bạn không bắt buộc đi đổi bằng chỉ vì dãy số đã khác. Hạn của bằng vẫn tính theo thời hạn ghi trên bằng; nếu bằng sắp đến hạn, xem bài [giấy phép lái sắp hết hạn có thuê được xe máy không](/an-toan-phap-ly/2026/10/07/giay-phep-lai-sap-het-han-co-thue-duoc-xe-may-khong/).
 
 Cần phân biệt: quy định trên ràng buộc cơ quan nhà nước. Cửa hàng cho thuê xe là bên giao tài sản, có quy trình nhận giấy tờ riêng và có thể hỏi thêm cho chắc. Hiểu luật giúp bạn bình tĩnh, còn giấy đối chiếu giúp buổi nhận xe suôn sẻ.
 

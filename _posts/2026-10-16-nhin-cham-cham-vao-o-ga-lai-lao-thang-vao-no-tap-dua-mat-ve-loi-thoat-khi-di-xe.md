@@ -41,7 +41,7 @@ Nếu bạn gật đầu với hai ý trở lên, phần tập dưới đây dà
 
 ### Nhịp một: thấy sớm
 
-Mọi thứ bắt đầu từ việc nhìn đủ xa. Thấy chướng ngại sớm thì bạn còn thời gian bình tĩnh chuyển mắt, thấy muộn thì chỉ còn phản xạ giật mình. Cách đặt tầm nhìn trong phố có trong bài [nhìn xa khi đi xe máy trong phố](/ky-nang/2026/10/11/nhin-xa-khi-i-xe-may-trong-pho-mat-nhin-au-e-kip-xu-ly-tinh-huong/).
+Mọi thứ bắt đầu từ việc nhìn đủ xa. Thấy chướng ngại sớm thì bạn còn thời gian bình tĩnh chuyển mắt, thấy muộn thì chỉ còn phản xạ giật mình. Cách đặt tầm nhìn trong phố có trong bài [nhìn xa khi đi xe máy trong phố](/ky-nang/2026/10/11/nhin-xa-khi-di-xe-may-trong-pho-mat-nhin-dau-de-kip-xu-ly-tinh-huong/).
 
 ### Nhịp hai: chủ động chuyển mắt
 
@@ -71,7 +71,7 @@ Trên đường vắng ven đô, mỗi khi thấy vết vá hay vũng nước, h
 
 **Đường ven đô sau mưa:** trên những đoạn đường ven đô phía Gia Lâm hay Long Biên đang sửa chữa, ổ gà thường đọng nước nên khó đoán độ sâu. Thấy vũng nước từ xa, giảm ga, rồi nhìn vào vệt mặt đường khô bên cạnh chứ không nhìn vào vũng.
 
-**Phố cổ Hoàn Kiếm đông xe:** xe đỗ lệch, gánh hàng, cửa ô tô bật mở. Ánh mắt nên đặt vào khe trống giữa dòng xe thay vì vào chiếc xe đỗ, xem thêm bài [đi qua hàng ô tô đỗ ven đường](/ky-nang/2026/10/11/i-qua-hang-o-to-o-ven-uong-cua-xe-bat-mo-va-nguoi-buoc-ra-giua-cac-xe/).
+**Phố cổ Hoàn Kiếm đông xe:** xe đỗ lệch, gánh hàng, cửa ô tô bật mở. Ánh mắt nên đặt vào khe trống giữa dòng xe thay vì vào chiếc xe đỗ, xem thêm bài [đi qua hàng ô tô đỗ ven đường](/ky-nang/2026/10/11/di-qua-hang-o-to-do-ven-duong-cua-xe-bat-mo-va-nguoi-buoc-ra-giua-cac-xe/).
 
 **Xe phía trước phanh gấp:** vừa phanh, vừa nhìn vào khoảng trống bên cạnh xe đó. Nếu không kịp dừng, xe của bạn sẽ có hướng đi sẵn thay vì đâm thẳng vào đèn hậu bạn đang nhìn.
 
@@ -79,7 +79,7 @@ Trên đường vắng ven đô, mỗi khi thấy vết vá hay vũng nước, h
 
 **Ban đêm trên đường thiếu đèn:** đèn xe chỉ soi được một khoảng ngắn, ổ gà hiện ra muộn hơn ban ngày. Giảm tốc để còn kịp làm đủ ba nhịp. Khi bị chói đèn xe ngược chiều, đưa mắt về mép đường bên phải thay vì nhìn thẳng vào luồng sáng, như bài [bị chói đèn pha xe ngược chiều](/ky-nang/2026/10/15/bi-choi-den-pha-xe-nguoc-chieu-khi-di-xe-may-ban-dem-nhin-dau-va-giam-toc-the-na/) hướng dẫn.
 
-Nhìn lối thoát không thay cho phanh và giảm tốc. Đi chậm vừa đủ để luôn dừng được trong đoạn đường mắt thấy, như bài [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-o-theo-oan-uong-nhin-thay-dung-uoc-trong-tam-mat-khi-i-xe-may/) đã phân tích.
+Nhìn lối thoát không thay cho phanh và giảm tốc. Đi chậm vừa đủ để luôn dừng được trong đoạn đường mắt thấy, như bài [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-do-theo-doan-duong-nhin-thay-dung-duoc-trong-tam-mat-khi-di-xe-may/) đã phân tích.
 
 ## Khi không có lối thoát
 

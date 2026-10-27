@@ -62,7 +62,7 @@ Với thuốc gây buồn ngủ mà không có bia, hãy theo tờ hướng dẫ
 Cách an toàn nhất là quyết định trước khi ra khỏi nhà, chứ không phải lúc đã ngồi trong quán:
 
 - **Đang uống thuốc cảm hay thuốc dị ứng, lại có hẹn liên hoan:** để xe ở nhà, đi taxi, xe ôm công nghệ hoặc nhờ người nhà đưa đón.
-- **Đã lỡ đi xe đến quán và đã uống:** gửi xe lại nơi có trông giữ, về bằng phương tiện khác. Có thể tham khảo thêm bài [uống bia xong bao lâu mới được chạy xe máy](/an-toan-phap-ly/2026/10/07/uong-bia-xong-bao-lau-moi-uoc-chay-xe-may/).
+- **Đã lỡ đi xe đến quán và đã uống:** gửi xe lại nơi có trông giữ, về bằng phương tiện khác. Có thể tham khảo thêm bài [uống bia xong bao lâu mới được chạy xe máy](/an-toan-phap-ly/2026/10/07/uong-bia-xong-bao-lau-moi-duoc-chay-xe-may/).
 - **Không uống bia nhưng thuốc làm buồn ngủ:** cũng nên tránh tự lái, nhất là đoạn đường đông như cầu Chương Dương giờ tan tầm hay đường Võ Chí Công buổi tối.
 - **Không tự ý bỏ thuốc để được uống bia.** Đổi hay ngừng thuốc cần hỏi bác sĩ hoặc dược sĩ.
 

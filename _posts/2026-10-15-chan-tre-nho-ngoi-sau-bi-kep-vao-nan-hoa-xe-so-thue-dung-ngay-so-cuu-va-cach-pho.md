@@ -83,7 +83,7 @@ Phần lớn ca kẹp chân bắt nguồn từ việc chân bé không có chỗ
 
 ### Cân nhắc loại xe khi thuê
 
-Xe số có bánh nan hoa lộ ra hai bên là kiểu dễ xảy ra sự cố này nhất. Khi đặt thuê xe để chở con, hãy nói rõ với tiệm để được tư vấn xe có phần che chắn bánh sau tốt hơn, chẳng hạn xe ga có sàn để chân rộng cho bé. So sánh chi tiết hai lựa chọn có trong bài [chở con nhỏ: chọn xe ga hay xe số](/hoi-dap/2026/10/11/cho-con-nho-bang-xe-may-thue-chon-xe-ga-hay-xe-so-cho-o-lo/). Về mũ và cách ngồi khi đưa con đi học hằng ngày, xem thêm [chở con đi học bằng xe máy thuê tháng](/thue-xe/2026/10/14/cho-con-di-hoc-bang-xe-may-thue-thang-mu-tre-em-cach-ngoi-va-gio-don-o-cong-truo/). Điều kiện để trẻ ngồi trên xe máy theo quy định hiện hành có trong bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-ieu-kien-gi/).
+Xe số có bánh nan hoa lộ ra hai bên là kiểu dễ xảy ra sự cố này nhất. Khi đặt thuê xe để chở con, hãy nói rõ với tiệm để được tư vấn xe có phần che chắn bánh sau tốt hơn, chẳng hạn xe ga có sàn để chân rộng cho bé. So sánh chi tiết hai lựa chọn có trong bài [chở con nhỏ: chọn xe ga hay xe số](/hoi-dap/2026/10/11/cho-con-nho-bang-xe-may-thue-chon-xe-ga-hay-xe-so-cho-do-lo/). Về mũ và cách ngồi khi đưa con đi học hằng ngày, xem thêm [chở con đi học bằng xe máy thuê tháng](/thue-xe/2026/10/14/cho-con-di-hoc-bang-xe-may-thue-thang-mu-tre-em-cach-ngoi-va-gio-don-o-cong-truo/). Điều kiện để trẻ ngồi trên xe máy theo quy định hiện hành có trong bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-dieu-kien-gi/).
 
 ## Tóm lại
 

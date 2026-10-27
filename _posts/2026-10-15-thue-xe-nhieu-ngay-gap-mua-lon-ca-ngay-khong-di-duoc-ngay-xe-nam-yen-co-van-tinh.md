@@ -53,7 +53,7 @@ Nếu tiệm chỉ trả lời bằng cuộc gọi, hãy nhắn lại một dòn
 
 ## Sắp xếp ngày mưa: điểm trong nhà gần nhau, hoặc đổi lịch
 
-Nếu mưa không quá to, bạn có thể dùng xe đi các điểm trong nhà gần nhau thay vì bỏ trống cả ngày, như bảo tàng, quán cà phê hay trung tâm thương mại. Bài [ngày mưa ở Hà Nội vẫn thuê xe máy: chọn điểm trong nhà gần nhau](/thue-xe/2026/10/11/ngay-mua-o-ha-noi-van-thue-xe-may-chon-iem-trong-nha-gan-nhau/) gợi ý cách chọn điểm và cách đi.
+Nếu mưa không quá to, bạn có thể dùng xe đi các điểm trong nhà gần nhau thay vì bỏ trống cả ngày, như bảo tàng, quán cà phê hay trung tâm thương mại. Bài [ngày mưa ở Hà Nội vẫn thuê xe máy: chọn điểm trong nhà gần nhau](/thue-xe/2026/10/11/ngay-mua-o-ha-noi-van-thue-xe-may-chon-diem-trong-nha-gan-nhau/) gợi ý cách chọn điểm và cách đi.
 
 Nếu mưa quá to hoặc có ngập, đừng cố chạy. Bài [mùa mưa ngập ở Hà Nội: xe máy điện, xe số hay xe ga ít rủi ro hơn khi buộc phải đi](/xe-may/2026/10/15/mua-mua-ngap-o-ha-noi-xe-may-dien-xe-so-hay-xe-ga-it-rui-ro-hon-khi-buoc-phai-di/) nói về việc chọn xe khi buộc phải đi. An toàn quan trọng hơn việc tận dụng ngày thuê.
 

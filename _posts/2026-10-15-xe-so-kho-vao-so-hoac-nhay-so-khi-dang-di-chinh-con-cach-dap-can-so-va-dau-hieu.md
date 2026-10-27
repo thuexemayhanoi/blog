@@ -76,7 +76,7 @@ Xe côn tay thì độ rơ tay côn chỉnh bằng núm ở gốc tay côn. Quá
 - **Cần số cong, chạm vỏ máy** sau khi xe bị đổ. Xem bài [lỡ đổ xe máy thuê khi dắt hoặc quay đầu](/xe-may/2026/10/15/lo-do-xe-may-thue-khi-dat-hoac-quay-dau-kiem-tra-tay-phanh-can-so-guong-va-den-t/).
 - **Tiếng rít, nghiến kim loại** từ máy ở một số nhất định.
 - **Không tìm được N** hoặc đèn báo N không sáng.
-- **Nhớt thấp hoặc quá đen**, vào số nặng dần trên chặng dài. Loại nhớt hợp xe số có trong bài [đọc nhãn nhớt 10W-30, 10W-40 và JASO MA, MB](/xe-may/2026/10/11/oc-nhan-nhot-xe-may-10w30-10w40-va-jaso-ma-mb-nghia-la-gi/).
+- **Nhớt thấp hoặc quá đen**, vào số nặng dần trên chặng dài. Loại nhớt hợp xe số có trong bài [đọc nhãn nhớt 10W-30, 10W-40 và JASO MA, MB](/xe-may/2026/10/11/doc-nhan-nhot-xe-may-10w30-10w40-va-jaso-ma-mb-nghia-la-gi/).
 
 Những lỗi này không sửa được bên lề đường, cố chạy xa chỉ hỏng nặng thêm.
 

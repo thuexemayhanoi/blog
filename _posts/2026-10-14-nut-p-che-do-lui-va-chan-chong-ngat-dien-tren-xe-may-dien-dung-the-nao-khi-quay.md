@@ -61,7 +61,7 @@ Khi lùi xe ra khỏi hàng xe đỗ sát nhau, như trong hầm gửi xe chung 
 3. **Hai chân chạm đất, sẵn sàng phanh**, lùi từng đoạn ngắn.
 4. **Thoát chế độ lùi ngay khi xong**, nhìn đồng hồ xác nhận, kẻo lúc vặn ga đi tiến xe lại lùi.
 
-Xe không có số lùi thì đừng cố tìm. Chuyển về P hoặc tắt nguồn, xuống xe, dắt lùi bằng tay. Cách đặt tay và đứng khi dắt xe nặng có trong bài [dắt xe và quay đầu xe máy điện nặng trong ngõ hẹp](/xe-may/2026/10/11/xe-may-ien-nang-dat-xe-quay-au-va-dung-chan-chong-trong-ngo-hep/).
+Xe không có số lùi thì đừng cố tìm. Chuyển về P hoặc tắt nguồn, xuống xe, dắt lùi bằng tay. Cách đặt tay và đứng khi dắt xe nặng có trong bài [dắt xe và quay đầu xe máy điện nặng trong ngõ hẹp](/xe-may/2026/10/11/xe-may-dien-nang-dat-xe-quay-dau-va-dung-chan-chong-trong-ngo-hep/).
 
 ## Quay đầu trong ngõ Hà Nội: phối hợp cả ba chức năng
 
@@ -73,14 +73,14 @@ Ngõ quanh phố Bạch Mai hay sâu trong khu Bồ Đề bên Long Biên nhiề
 4. Đánh lái về phía cần quay, đi tiến chậm, dừng, lặp lại nếu cần.
 5. Xe không có số lùi: xuống dắt ở nhịp lùi, rồi lên xe đi tiến.
 
-Đừng vặn ga khi tay lái đang bẻ gắt hết cỡ; xe điện kéo mạnh ngay, dễ chồm về một bên. Đánh lái lúc xe đứng yên rồi mới nhả phanh. Nếu xe có chế độ Eco, dùng nó trong ngõ để ga mềm hơn, xem bài [chế độ lái Eco, Normal, Sport trên xe máy điện](/xe-may/2026/10/11/che-o-lai-eco-normal-sport-tren-xe-may-ien-khi-nao-dung-che-o-nao/).
+Đừng vặn ga khi tay lái đang bẻ gắt hết cỡ; xe điện kéo mạnh ngay, dễ chồm về một bên. Đánh lái lúc xe đứng yên rồi mới nhả phanh. Nếu xe có chế độ Eco, dùng nó trong ngõ để ga mềm hơn, xem bài [chế độ lái Eco, Normal, Sport trên xe máy điện](/xe-may/2026/10/11/che-do-lai-eco-normal-sport-tren-xe-may-dien-khi-nao-dung-che-do-nao/).
 
 ## Lỗi hay gặp với người mới dùng xe điện
 
 - **Tưởng xe hỏng vì đang ở P.** Nhìn đồng hồ trước khi kết luận.
 - **Xử lý chân chống khi tay ga còn mở.** Gạt chân chống lên là xe giật ngay.
 - **Để xe ở chế độ sẵn sàng khi xuống dắt.** Tay áo hay túi đồ quệt vào tay ga là xe chạy không người lái.
-- **Nhầm phanh tái sinh với lỗi.** Một số xe hãm nhẹ khi nhả ga, đó là bình thường, xem bài [xe điện và phanh tái sinh](/xe-may/2026/10/03/xe-ien-va-phanh-tai-sinh-lam-quen-lan-au/).
+- **Nhầm phanh tái sinh với lỗi.** Một số xe hãm nhẹ khi nhả ga, đó là bình thường, xem bài [xe điện và phanh tái sinh](/xe-may/2026/10/03/xe-dien-va-phanh-tai-sinh-lam-quen-lan-dau/).
 
 ## Khi nhận xe: hỏi cửa hàng những gì
 

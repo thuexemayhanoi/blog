@@ -35,7 +35,7 @@ Thay đổi đến từ Luật Trật tự, an toàn giao thông đường bộ 
 - **Hạng A1** cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3, hoặc có công suất động cơ điện đến 11 kW.
 - **Hạng A** cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3, hoặc có công suất động cơ điện trên 11 kW, và được lái cả các loại xe của hạng A1.
 
-Với bằng cấp theo luật mới, mốc phân chia là 125 cm3: muốn lái Air Blade 160 thì cần hạng A. Hỏi đáp chung về phạm vi của hạng A1 theo luật mới có trong bài [bằng lái A1 điều khiển xe máy phạm vi nào](/an-toan-phap-ly/2026/09/28/bang-lai-a1-ieu-khien-xe-may-pham-vi-nao/).
+Với bằng cấp theo luật mới, mốc phân chia là 125 cm3: muốn lái Air Blade 160 thì cần hạng A. Hỏi đáp chung về phạm vi của hạng A1 theo luật mới có trong bài [bằng lái A1 điều khiển xe máy phạm vi nào](/an-toan-phap-ly/2026/09/28/bang-lai-a1-dieu-khien-xe-may-pham-vi-nao/).
 
 ## Bằng A1 cấp trước năm 2025 vẫn được dùng theo phạm vi cũ
 
@@ -57,7 +57,7 @@ Trước khi đến cửa hàng, hãy cầm tấm bằng lên và kiểm tra l�
 - **Ngày cấp.** Đây là thông tin quyết định. Ngày cấp trước 01/01/2025 hay từ ngày đó trở đi sẽ cho ra hai phạm vi xe khác nhau dù cùng chữ A1.
 - **Điều kiện hạn chế, nếu có.** Bằng đổi từ A1 cũ sang hạng A có kèm giới hạn dưới 175 cm3. Nếu bạn không chắc tấm bằng mình đang cầm thuộc trường hợp nào, hãy hỏi cơ quan đã cấp hoặc đổi bằng.
 
-Sau đó kiểm tra chiếc xe: hỏi rõ cửa hàng đang giao bản Air Blade nào, và xem dung tích xi-lanh trên giấy đăng ký xe. Đối chiếu hai thông tin này là đủ. Nếu bạn chưa quen cách thuê xe khi mới có bằng, bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) đi kỹ hơn qua các bước nhận xe.
+Sau đó kiểm tra chiếc xe: hỏi rõ cửa hàng đang giao bản Air Blade nào, và xem dung tích xi-lanh trên giấy đăng ký xe. Đối chiếu hai thông tin này là đủ. Nếu bạn chưa quen cách thuê xe khi mới có bằng, bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/) đi kỹ hơn qua các bước nhận xe.
 
 ## Có bằng A1 mới thì nên thuê xe nào khi ở Hà Nội
 

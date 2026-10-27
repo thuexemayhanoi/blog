@@ -41,7 +41,7 @@ Bài không có số liệu về tốc độ gỉ của từng xe, chỉ nêu c�
 
 Mỗi lần đề tiêu một lượng điện, còn chuyến ngắn không đủ lâu để máy nạp lại. Hãng Yuasa lưu ý rằng chạy xe bình thường có thể không nạp đầy lại ắc quy đã cạn, và ắc quy loại kín vẫn cần nạp định kỳ khi để lâu không dùng.
 
-Nếu xe hay khó đề sau vài ngày nằm yên, bài [ắc quy xe thuê yếu, đề không nổ: nhận biết và xử lý](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/) nói cách nhận biết và xử lý ban đầu. Bài không khuyên tự mua máy nạp cho xe thuê; hãy hỏi tiệm.
+Nếu xe hay khó đề sau vài ngày nằm yên, bài [ắc quy xe thuê yếu, đề không nổ: nhận biết và xử lý](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/) nói cách nhận biết và xử lý ban đầu. Bài không khuyên tự mua máy nạp cho xe thuê; hãy hỏi tiệm.
 
 ## Đừng nổ máy tại chỗ thật lâu để làm nóng: sách dặn gì
 
@@ -59,7 +59,7 @@ Cách thực tế ở Hà Nội: gộp các việc vặt thành một chuyến, 
 
 Các nguồn kỹ thuật nêu vài dấu hiệu: nhớt đục như sữa, có bọt, mùi xăng, hoặc hơi nước đọng ở mặt trong nắp đổ nhớt. Bài không hướng dẫn tự mở nắp xe thuê. Nếu tiệm cho bạn xem que thăm và bạn thấy nhớt đục hoặc có mùi xăng, hãy chụp ảnh và nhắn tiệm.
 
-Bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-inh-ky-xe-may-gom-nhung-gi/) liệt kê việc thay nhớt trong một kỳ bảo dưỡng.
+Bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-dinh-ky-xe-may-gom-nhung-gi/) liệt kê việc thay nhớt trong một kỳ bảo dưỡng.
 
 ## Thuê xe đi chợ, đưa đón: nói với tiệm thói quen dùng xe
 

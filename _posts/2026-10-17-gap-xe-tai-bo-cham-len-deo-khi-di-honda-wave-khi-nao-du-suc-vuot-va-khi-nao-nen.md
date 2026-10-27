@@ -32,7 +32,7 @@ Trên đèo, gần như mọi khúc cua đều khuất tầm nhìn. Vượt xe �
 
 Theo Honda Việt Nam, Wave Alpha 110 có công suất tối đa 6,12 kW ở 7 500 vòng/phút, mô-men xoắn 8,44 Nm ở 5 500 vòng/phút, nặng 96 kg; Wave RSX FI có 6,46 kW và 8,70 Nm. Đó là xe số 4 cấp, không có tay côn. Hướng dẫn sử dụng dặn luôn giảm ga trước khi sang số, nên mỗi lần chuyển số xe hụt lực trong một nhịp.
 
-Với một người lái trên đường bằng, Wave đủ sức vượt một xe tải đang bò. Nhưng lên dốc, chở thêm người và hành lý, xe tăng tốc chậm hơn nhiều, nghĩa là bạn phải chạy song song với xe tải lâu hơn, trên đoạn đường dài hơn. Honda không công bố xe cần bao nhiêu giây để vượt trên dốc, nên hãy tự đánh giá thật khắt khe. Cách cân nhắc giữa xe 110cc và 125cc khi chở hai người có ở bài [xe 110cc hay 125cc khi thuê](/hoi-dap/2026/10/11/xe-110cc-hay-125cc-khi-thue-cho-hai-nguoi-qua-cau-vuot-co-u-suc-khong/ "Xe 110cc hay 125cc khi thuê").
+Với một người lái trên đường bằng, Wave đủ sức vượt một xe tải đang bò. Nhưng lên dốc, chở thêm người và hành lý, xe tăng tốc chậm hơn nhiều, nghĩa là bạn phải chạy song song với xe tải lâu hơn, trên đoạn đường dài hơn. Honda không công bố xe cần bao nhiêu giây để vượt trên dốc, nên hãy tự đánh giá thật khắt khe. Cách cân nhắc giữa xe 110cc và 125cc khi chở hai người có ở bài [xe 110cc hay 125cc khi thuê](/hoi-dap/2026/10/11/xe-110cc-hay-125cc-khi-thue-cho-hai-nguoi-qua-cau-vuot-co-du-suc-khong/ "Xe 110cc hay 125cc khi thuê").
 
 ## Khi nào nên bám sau chờ
 
@@ -59,7 +59,7 @@ Tài liệu "Vượt xe an toàn" của Honda Việt Nam hướng dẫn:
 6. Tăng ga dứt khoát để rút ngắn thời gian chạy song song, giữ khoảng cách ngang khoảng 2 m với xe bị vượt.
 7. Vượt xong, bật xi nhan phải, kiểm tra rồi nhập lại làn từ từ; tuyệt đối không tạt ngang ngay trước đầu xe tải.
 
-Trên Wave, hãy chọn số trước khi bắt đầu vượt để không phải sang số khi đang chạy song song. Kinh nghiệm vượt khi đi xe nhỏ hơn có ở bài [vượt xe khác bằng xe 50cc](/xe-may/2026/10/15/vuot-xe-khac-bang-xe-50cc-khi-nao-du-luc-de-vuot-va-khi-nao-nen-bam-sau-cho-doan/ "Vượt xe khác bằng xe 50cc"), còn tình huống thực tế trên quốc lộ 6 có ở bài [xe tải, xe khách trên quốc lộ 6](/cung-duong/2026/10/11/xe-tai-xe-khach-tren-quoc-lo-6-cach-vuot-va-nhuong-uong-o-oan-eo/ "Xe tải, xe khách trên quốc lộ 6").
+Trên Wave, hãy chọn số trước khi bắt đầu vượt để không phải sang số khi đang chạy song song. Kinh nghiệm vượt khi đi xe nhỏ hơn có ở bài [vượt xe khác bằng xe 50cc](/xe-may/2026/10/15/vuot-xe-khac-bang-xe-50cc-khi-nao-du-luc-de-vuot-va-khi-nao-nen-bam-sau-cho-doan/ "Vượt xe khác bằng xe 50cc"), còn tình huống thực tế trên quốc lộ 6 có ở bài [xe tải, xe khách trên quốc lộ 6](/cung-duong/2026/10/11/xe-tai-xe-khach-tren-quoc-lo-6-cach-vuot-va-nhuong-duong-o-doan-deo/ "Xe tải, xe khách trên quốc lộ 6").
 
 ## Khi xe tải đi xuống, bạn đi lên
 

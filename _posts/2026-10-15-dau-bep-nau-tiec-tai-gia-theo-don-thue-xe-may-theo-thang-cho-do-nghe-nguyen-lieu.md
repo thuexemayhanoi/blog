@@ -43,7 +43,7 @@ Một con dao bọc sơ sài có thể trượt ra khi bạn phanh gấp, vừa 
 - **Bếp mang theo** như bếp từ đặt trong hộp hoặc túi có đệm, buộc chắc trên giá chở hàng.
 - **Không chở bình gas lớn trên xe máy.** Bình gas cồng kềnh, nặng và nguy hiểm khi va chạm. Nếu nhà khách cần thêm gas, hãy nhờ khách đặt dịch vụ giao gas mang đến tận nơi.
 
-Đồ chở phía sau phải gọn trong phạm vi xe, không che đèn, không che biển số, không chìa ra hai bên làm vướng xe khác. Những quy định chung về hàng cồng kềnh được tóm tắt ở bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/). Đồ quá lớn như bàn gấp, nồi nấu cỗ cỡ to thì để xe tải nhỏ hoặc dịch vụ giao hàng chở.
+Đồ chở phía sau phải gọn trong phạm vi xe, không che đèn, không che biển số, không chìa ra hai bên làm vướng xe khác. Những quy định chung về hàng cồng kềnh được tóm tắt ở bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/). Đồ quá lớn như bàn gấp, nồi nấu cỗ cỡ to thì để xe tải nhỏ hoặc dịch vụ giao hàng chở.
 
 ## Giữ nguyên liệu tươi khi chở bằng xe máy
 

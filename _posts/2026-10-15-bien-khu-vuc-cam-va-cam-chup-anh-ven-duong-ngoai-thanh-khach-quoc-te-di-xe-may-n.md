@@ -48,7 +48,7 @@ Cảnh đẹp không biến mất chỉ vì một đoạn tường rào. Bạn c
 - **Không zoom về phía khu vực cấm**, kể cả khi đứng ở xa. Ống kính dài hướng vào tường rào dễ gây hiểu lầm hơn bạn nghĩ.
 - **Hạn chế đăng ảnh có gắn vị trí chính xác** nếu khung hình vô tình có một góc công trình mà bạn không chắc là gì.
 
-Khi dừng xe để chụp, chọn chỗ an toàn về giao thông trước đã: lề đủ rộng, xe tắt máy, dựng chân chống chắc, không đứng giữa làn. Với những cung đường có dốc, cách giữ xe khi dừng chụp được nói kỹ trong bài [dừng xe máy trên đường dốc để chụp ảnh](/ky-nang/2026/10/11/dung-xe-may-tren-uong-doc-e-chup-anh-giu-xe-the-nao/). Nếu bạn đang lên lịch một ngày chuyên đi săn ảnh, bài [thuê xe máy đi chụp ảnh ngoại thành cuối tuần](/hoi-dap/2026/10/10/thue-xe-may-i-chup-anh-ngoai-thanh-cuoi-tuan/) gợi ý cách chuẩn bị xe và lịch trình.
+Khi dừng xe để chụp, chọn chỗ an toàn về giao thông trước đã: lề đủ rộng, xe tắt máy, dựng chân chống chắc, không đứng giữa làn. Với những cung đường có dốc, cách giữ xe khi dừng chụp được nói kỹ trong bài [dừng xe máy trên đường dốc để chụp ảnh](/ky-nang/2026/10/11/dung-xe-may-tren-duong-doc-de-chup-anh-giu-xe-the-nao/). Nếu bạn đang lên lịch một ngày chuyên đi săn ảnh, bài [thuê xe máy đi chụp ảnh ngoại thành cuối tuần](/hoi-dap/2026/10/10/thue-xe-may-di-chup-anh-ngoai-thanh-cuoi-tuan/) gợi ý cách chuẩn bị xe và lịch trình.
 
 ## Khu quân sự cấm chụp ảnh: nếu được nhắc nhở thì làm gì
 
@@ -69,7 +69,7 @@ Bạn không cần biết trước khu vực cấm nằm ở đâu, chỉ cần 
 - **Để ý vùng màu khác trên bản đồ vệ tinh** hoặc những đoạn bản đồ không hiển thị chi tiết bên trong tường rào; khi đi qua những đoạn như vậy, coi như đoạn chỉ chạy qua.
 - **Thống nhất luật chụp ảnh trong nhóm** trước khi xuất phát: ai cầm máy, chỉ dừng ở điểm đã hẹn, không ai tự ý tấp vào lề.
 
-Bên cạnh hai loại biển trên, đường ngoại thành còn nhiều biển giao thông thông thường cần đọc đúng. Bài [khách quốc tế đọc biển báo và luật giao thông cơ bản](/thue-xe/2026/09/27/khach-quoc-te-oc-bien-bao-va-luat-giao-thong-co-ban/) tóm tắt nhóm biển nên nhận ra trước tiên, còn chuyện chọn chỗ dừng hợp lệ nằm trong bài [biển cấm dừng đỗ và chỗ để xe hợp lệ](/an-toan-phap-ly/2026/10/10/bien-bao-cam-dung-o-va-cho-e-xe-hop-le/).
+Bên cạnh hai loại biển trên, đường ngoại thành còn nhiều biển giao thông thông thường cần đọc đúng. Bài [khách quốc tế đọc biển báo và luật giao thông cơ bản](/thue-xe/2026/09/27/khach-quoc-te-doc-bien-bao-va-luat-giao-thong-co-ban/) tóm tắt nhóm biển nên nhận ra trước tiên, còn chuyện chọn chỗ dừng hợp lệ nằm trong bài [biển cấm dừng đỗ và chỗ để xe hợp lệ](/an-toan-phap-ly/2026/10/10/bien-bao-cam-dung-do-va-cho-de-xe-hop-le/).
 
 ## Ghi nhớ nhanh trước khi rời Hà Nội
 

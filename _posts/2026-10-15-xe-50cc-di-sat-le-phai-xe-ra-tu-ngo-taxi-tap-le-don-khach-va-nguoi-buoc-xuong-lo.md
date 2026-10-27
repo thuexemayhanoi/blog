@@ -31,7 +31,7 @@ Cách sống chung với dải này không phải là tránh nó, mà là đi đ
 - Đủ chỗ để không va vào cửa ô tô bất ngờ mở ra.
 - Tránh được nắp cống, rãnh dọc và mép đường vỡ, những thứ bánh nhỏ của xe 50cc rất ngại.
 
-Cách đi qua ổ gà, nắp cống với bánh xe nhỏ có ở bài [bánh nhỏ của xe 50cc qua ổ gà, nắp cống và gờ giảm tốc](/xe-may/2026/10/11/banh-nho-cua-xe-50cc-qua-o-ga-nap-cong-va-go-giam-toc-cach-i-cho-em/ "Bánh nhỏ của xe 50cc qua ổ gà, nắp cống").
+Cách đi qua ổ gà, nắp cống với bánh xe nhỏ có ở bài [bánh nhỏ của xe 50cc qua ổ gà, nắp cống và gờ giảm tốc](/xe-may/2026/10/11/banh-nho-cua-xe-50cc-qua-o-ga-nap-cong-va-go-giam-toc-cach-di-cho-em/ "Bánh nhỏ của xe 50cc qua ổ gà, nắp cống").
 
 ## Xe ra từ ngõ
 
@@ -59,7 +59,7 @@ Xe buýt tấp vào điểm dừng sẽ chiếm hết dải sát lề. Khi thấ
 
 ## Tốc độ và tầm nhìn
 
-Ở dải sát lề, tốc độ an toàn là tốc độ mà bạn dừng kịp trong khoảng nhìn thấy trước mặt. Phố càng nhiều ngõ, càng nhiều xe đỗ, tốc độ càng phải thấp. Nhìn xa ít nhất hai, ba chiếc xe phía trước thay vì chỉ nhìn đuôi xe gần nhất. Buổi tối, xe 50cc có đèn nhỏ và thấp, càng phải giảm tốc ở đoạn tối; cách để xe khác thấy mình có ở bài [đi xe 50cc buổi tối: đèn nhỏ, tốc độ thấp và cách để xe sau thấy mình](/xe-may/2026/10/11/i-xe-50cc-buoi-toi-en-nho-toc-o-thap-va-cach-e-xe-sau-thay-minh/ "Đi xe 50cc buổi tối").
+Ở dải sát lề, tốc độ an toàn là tốc độ mà bạn dừng kịp trong khoảng nhìn thấy trước mặt. Phố càng nhiều ngõ, càng nhiều xe đỗ, tốc độ càng phải thấp. Nhìn xa ít nhất hai, ba chiếc xe phía trước thay vì chỉ nhìn đuôi xe gần nhất. Buổi tối, xe 50cc có đèn nhỏ và thấp, càng phải giảm tốc ở đoạn tối; cách để xe khác thấy mình có ở bài [đi xe 50cc buổi tối: đèn nhỏ, tốc độ thấp và cách để xe sau thấy mình](/xe-may/2026/10/11/di-xe-50cc-buoi-toi-den-nho-toc-do-thap-va-cach-de-xe-sau-thay-minh/ "Đi xe 50cc buổi tối").
 
 ## Khi bị kẹp giữa xe lớn và lề
 

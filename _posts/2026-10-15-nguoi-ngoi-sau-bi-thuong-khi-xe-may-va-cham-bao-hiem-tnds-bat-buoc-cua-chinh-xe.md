@@ -47,7 +47,7 @@ Trình tự làm hồ sơ và các giấy tờ cần chuẩn bị có trong bài
 
 Nếu bảo hiểm bắt buộc của chính xe không áp dụng, người ngồi sau vẫn còn vài hướng để rà lại.
 
-**Bảo hiểm tự nguyện cho người ngồi trên xe.** Đây là sản phẩm chủ xe tự quyết định mua thêm. Quyền lợi, điều kiện chi trả và trường hợp loại trừ khác nhau tùy hợp đồng, nên đọc điều khoản thay vì đoán. So sánh lớp tự nguyện cho người lái và người đi cùng có trong bài [bảo hiểm tai nạn cho người đi xe máy thuê](/an-toan-phap-ly/2026/10/07/bao-hiem-tai-nan-cho-nguoi-i-xe-may-thue-nen-mua-khong/).
+**Bảo hiểm tự nguyện cho người ngồi trên xe.** Đây là sản phẩm chủ xe tự quyết định mua thêm. Quyền lợi, điều kiện chi trả và trường hợp loại trừ khác nhau tùy hợp đồng, nên đọc điều khoản thay vì đoán. So sánh lớp tự nguyện cho người lái và người đi cùng có trong bài [bảo hiểm tai nạn cho người đi xe máy thuê](/an-toan-phap-ly/2026/10/07/bao-hiem-tai-nan-cho-nguoi-di-xe-may-thue-nen-mua-khong/).
 
 **Bảo hiểm cá nhân của chính người ngồi sau.** Bảo hiểm y tế, bảo hiểm tai nạn qua nơi làm việc, hay hợp đồng nhân thọ có quyền lợi tai nạn đều có thể liên quan. Mỗi loại có phạm vi riêng, cần hỏi đơn vị phát hành. Riêng nhân thọ đã có bài [bảo hiểm nhân thọ có chi trả tai nạn xe máy không](/an-toan-phap-ly/2026/10/05/bao-hiem-nhan-tho-co-chi-tra-tai-nan-xe-may-khong/).
 

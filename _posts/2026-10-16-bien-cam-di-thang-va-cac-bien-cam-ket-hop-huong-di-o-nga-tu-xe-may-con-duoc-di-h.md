@@ -53,7 +53,7 @@ Nhiều khách nhầm biển cấm hướng với biển hiệu lệnh hướng 
 - **Biển cấm (P):** tròn, nền trắng, viền đỏ, mũi tên đen có vạch chéo đỏ. Mũi tên vẽ trên biển là hướng KHÔNG được đi.
 - **Biển hiệu lệnh (R):** tròn, nền xanh, mũi tên trắng, không có vạch chéo. Mũi tên vẽ trên biển là hướng PHẢI đi.
 
-Thứ tự đọc tôi hay dặn khách: nhìn màu nền trước, đếm mũi tên sau, cuối cùng đọc biển phụ. Cách ghi nhớ nhóm biển xanh có ở bài [biển báo hiệu lệnh cần tuân thủ khi đi xe](/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe/).
+Thứ tự đọc tôi hay dặn khách: nhìn màu nền trước, đếm mũi tên sau, cuối cùng đọc biển phụ. Cách ghi nhớ nhóm biển xanh có ở bài [biển báo hiệu lệnh cần tuân thủ khi đi xe](/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-di-xe/).
 
 ## Quay đầu và biển phụ: hai chỗ hay hiểu sai
 

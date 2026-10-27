@@ -23,7 +23,7 @@ Bài không phải hướng dẫn chữa cháy, không biết cấu trúc nhà c
 
 Khuyến cáo của Cục Cảnh sát PCCC và CNCH, được Chinhphu.vn đăng ngày 26/07/2023, nêu không sạc cho phương tiện khi thiết bị sạc hoặc phương tiện gặp lỗi, và khi ắc quy hay pin có dấu hiệu phù, nứt thì cần thay mới. Cảnh sát PCCC Hà Nội, trong bài của VOV Giao thông ngày 07/08/2026, dặn khi xe có dấu hiệu như sạc điện không vào hay có mùi khét thì mang xe đến cơ sở uy tín kiểm tra.
 
-Vì vậy, thấy pin nóng hơn hẳn thường lệ, vỏ phồng, nứt hay có mùi khét, hãy rút sạc và dừng dùng. Bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ: dừng dùng và làm gì](/xe-may/2026/10/11/pin-xe-ien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/) nói thêm cách nhận biết.
+Vì vậy, thấy pin nóng hơn hẳn thường lệ, vỏ phồng, nứt hay có mùi khét, hãy rút sạc và dừng dùng. Bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ: dừng dùng và làm gì](/xe-may/2026/10/11/pin-xe-dien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/) nói thêm cách nhận biết.
 
 ## Khi đã thấy khói hoặc lửa: hô hoán trước
 

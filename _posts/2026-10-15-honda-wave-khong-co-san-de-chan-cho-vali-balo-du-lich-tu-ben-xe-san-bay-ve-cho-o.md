@@ -84,7 +84,7 @@ Mỗi điểm đến có đặc điểm riêng:
 
 - **Bến xe Gia Lâm** cùng phía Long Biên với cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, nên quãng đường nhận xe ngắn. Muốn vào khu phố cổ, chỉ qua sông Hồng bằng các cầu cho xe máy như Chương Dương hay Long Biên.
 - **Bến xe Mỹ Đình** nằm bên trục Phạm Hùng đông xe. Ra khỏi bến chậm rãi, đi làn sát lề phải, đừng vội chen khi mới quen chiếc xe chở đồ.
-- **Sân bay Nội Bài** xa trung tâm nhất. Không đi lên cao tốc hay các đoạn cấm xe máy; đi theo làn và tuyến xe máy được phép, theo biển chỉ dẫn. Nếu dùng ứng dụng bản đồ, chọn chế độ dẫn đường cho xe máy và vẫn ưu tiên biển báo. Bài [đi xe máy từ sân bay Nội Bài về phố cổ có xa không](/thue-xe/2026/10/09/i-xe-may-tu-san-bay-noi-bai-ve-pho-co-xa-khong/) giúp bạn cân nhắc quãng đường này.
+- **Sân bay Nội Bài** xa trung tâm nhất. Không đi lên cao tốc hay các đoạn cấm xe máy; đi theo làn và tuyến xe máy được phép, theo biển chỉ dẫn. Nếu dùng ứng dụng bản đồ, chọn chế độ dẫn đường cho xe máy và vẫn ưu tiên biển báo. Bài [đi xe máy từ sân bay Nội Bài về phố cổ có xa không](/thue-xe/2026/10/09/di-xe-may-tu-san-bay-noi-bai-ve-pho-co-xa-khong/) giúp bạn cân nhắc quãng đường này.
 
 Khi xe đã chở balo phía sau, đuôi xe nặng hơn: xuất phát nhẹ ga, phanh sớm và vào cua rộng. Mỗi lần dừng đèn đỏ lâu, liếc nhanh ra sau xem dây có lỏng không; muốn chỉnh thì tấp hẳn vào lề.
 

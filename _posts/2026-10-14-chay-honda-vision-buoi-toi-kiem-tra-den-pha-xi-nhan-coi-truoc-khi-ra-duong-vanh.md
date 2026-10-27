@@ -21,7 +21,7 @@ Tan ca lúc tám, chín giờ tối, dắt chiếc Vision thuê ra khỏi hầm 
 
 Ban ngày, đèn cháy một bên hay còi rè gần như không ai để ý. Buổi tối, đèn pha là thứ duy nhất giúp bạn nhìn ổ gà, nắp cống, vệt dầu, còn đèn hậu, đèn phanh và xi nhan là thứ duy nhất giúp người phía sau đoán bạn định làm gì. Trên các trục lớn như Trường Chinh, Đường Láng hay Nguyễn Văn Linh bên Long Biên, xe đi sau bạn thường nhanh hơn trong phố cổ nhiều, nên một tín hiệu thiếu là một khoảng phản ứng bị mất.
 
-Với xe thuê, một bóng xi nhan lỏng chân sau mấy hôm mưa hay một công tắc pha cốt hơi kẹt là lỗi rất nhỏ, ban ngày không lộ ra. Danh sách tổng quát cho chuyến dài đã có trong bài [kiểm tra đèn xi nhan và còi trước chuyến đi xa](/xe-may/2026/10/03/kiem-tra-en-xi-nhan-va-coi-truoc-chuyen-i-xa/); ở đây chỉ tập trung vào chiếc Vision và quãng đường tối trong thành phố.
+Với xe thuê, một bóng xi nhan lỏng chân sau mấy hôm mưa hay một công tắc pha cốt hơi kẹt là lỗi rất nhỏ, ban ngày không lộ ra. Danh sách tổng quát cho chuyến dài đã có trong bài [kiểm tra đèn xi nhan và còi trước chuyến đi xa](/xe-may/2026/10/03/kiem-tra-den-xi-nhan-va-coi-truoc-chuyen-di-xa/); ở đây chỉ tập trung vào chiếc Vision và quãng đường tối trong thành phố.
 
 ## Kiểm tra đèn Honda Vision trong hai phút trước khi rời chỗ đỗ
 
@@ -43,7 +43,7 @@ Bật xi nhan trái, đi một vòng quanh xe: đèn trước và đèn sau bên
 
 ### Đèn hậu và đèn phanh
 
-Đèn hậu phải sáng ngay khi máy nổ. Sau đó bóp lần lượt tay phanh phải rồi tay phanh trái, mỗi lần nhìn ra sau xem đèn phanh có sáng rõ hơn hẳn đèn hậu không. Đứng một mình thì nhìn phản chiếu trên cửa kính, tường kính tòa nhà hoặc thân một chiếc ô tô đỗ gần đó. Chi tiết về lỗi đèn phanh lúc nhận xe có trong bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-en-phanh-xe-may-thue-truoc-khi-nhan-xe/).
+Đèn hậu phải sáng ngay khi máy nổ. Sau đó bóp lần lượt tay phanh phải rồi tay phanh trái, mỗi lần nhìn ra sau xem đèn phanh có sáng rõ hơn hẳn đèn hậu không. Đứng một mình thì nhìn phản chiếu trên cửa kính, tường kính tòa nhà hoặc thân một chiếc ô tô đỗ gần đó. Chi tiết về lỗi đèn phanh lúc nhận xe có trong bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-den-phanh-xe-may-thue-truoc-khi-nhan-xe/).
 
 ### Còi
 

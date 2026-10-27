@@ -40,7 +40,7 @@ Theo tuyến Cát Linh – Hà Đông có các ga như Láng, Thượng Đình, 
 - **Giảm tốc từ trước khi tới ga**, đặt sẵn ngón tay lên phanh. Ở tốc độ đi chậm, bạn có thể dừng gọn khi có người bước ra.
 - **Nhìn xa, quét hai bên vỉa hè.** Dấu hiệu một đợt khách sắp đổ xuống là dòng người trên cầu thang, thang cuốn, hoặc tiếng tàu vào ga.
 - **Đi cách mép lề phải một khoảng**, không sát hàng xe đỗ chờ khách, để có thêm chút thời gian khi có người bước ra hoặc xe mở cửa.
-- **Không bám đuôi xe phía trước.** Xe trước phanh vì người sang đường thì bạn còn chỗ dừng; cách giữ khoảng cách có ở bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-i-xe-may/ "Giữ khoảng cách an toàn khi đi xe máy").
+- **Không bám đuôi xe phía trước.** Xe trước phanh vì người sang đường thì bạn còn chỗ dừng; cách giữ khoảng cách có ở bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-di-xe-may/ "Giữ khoảng cách an toàn khi đi xe máy").
 - **Dùng còi ngắn, đúng lúc**, khi thấy người sắp bước ra mà chưa nhìn về phía mình; không bấm liên tục.
 
 ## Khi chính bạn đi đón người ở ga

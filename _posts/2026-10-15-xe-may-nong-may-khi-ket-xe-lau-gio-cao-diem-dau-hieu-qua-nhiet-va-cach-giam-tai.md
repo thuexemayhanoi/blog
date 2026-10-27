@@ -82,7 +82,7 @@ Khi thấy dấu hiệu quá nhiệt, tấp vào lề hoặc vỉa hè rộng, n
 - Không chạm tay vào ống xả, thân máy.
 - Nhìn quanh xem có vết chất lỏng dưới gầm không.
 
-Nếu nghỉ xong, nổ lại máy thấy êm, đèn báo tắt, không còn mùi lạ, có thể đi tiếp chậm rãi về nhà và báo cho tiệm biết. Bài [xe máy nóng máy khi kẹt xe giữa trưa hè](/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-e-may-nguoi-an-toan/) có thêm cách chọn chỗ mát để nghỉ trong những ngày nắng gắt.
+Nếu nghỉ xong, nổ lại máy thấy êm, đèn báo tắt, không còn mùi lạ, có thể đi tiếp chậm rãi về nhà và báo cho tiệm biết. Bài [xe máy nóng máy khi kẹt xe giữa trưa hè](/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-de-may-nguoi-an-toan/) có thêm cách chọn chỗ mát để nghỉ trong những ngày nắng gắt.
 
 ## Khi nào báo tiệm
 

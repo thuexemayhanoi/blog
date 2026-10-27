@@ -38,7 +38,7 @@ Về chỗ trú, dọc các tuyến quen có quán và nhà nghỉ ven đường
 
 ## Chuẩn bị xe và đồ cho khung giờ sáng sớm
 
-Chạy sớm có cái giá của nó: sáng vùng cao lạnh và có sương, bạn cần áo gió, găng tay và mũ lót. Đèn xe phải sáng rõ vì một phần đầu chặng có thể còn tối. Kiểm tra nhớt, lốp và thắng trước khi đi; dưới đây là chặng dài liên tục, xe yếu giữa đèo là rắc rối lớn. Về giấy tờ, mang theo đủ như mọi khi theo danh mục trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), trên quốc lộ lên phía Bắc có nhiều trạm kiểm soát. Người mới chạy chặng xa nên đọc thêm nhịp chạy nhóm trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/).
+Chạy sớm có cái giá của nó: sáng vùng cao lạnh và có sương, bạn cần áo gió, găng tay và mũ lót. Đèn xe phải sáng rõ vì một phần đầu chặng có thể còn tối. Kiểm tra nhớt, lốp và thắng trước khi đi; dưới đây là chặng dài liên tục, xe yếu giữa đèo là rắc rối lớn. Về giấy tờ, mang theo đủ như mọi khi theo danh mục trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), trên quốc lộ lên phía Bắc có nhiều trạm kiểm soát. Người mới chạy chặng xa nên đọc thêm nhịp chạy nhóm trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/).
 
 ## Thuê xe cho chuyến đi sớm ở đâu
 

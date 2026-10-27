@@ -38,11 +38,11 @@ Ai đã quen leo có thể đổi thứ tự, nhưng đừng xếp hai ngày leo
 
 ### Lên Sóc Sơn tới núi Hàm Lợn
 
-Từ Long Biên, nhiều người chạy theo quốc lộ 3 qua Đông Anh rồi lên Sóc Sơn, đi theo chỉ dẫn bản đồ ở chế độ xe máy. Không đi vào cao tốc Nội Bài – Lào Cai hay Hà Nội – Thái Nguyên, cả hai đều cấm xe máy. Núi Hàm Lợn thuộc dãy núi Sóc Sơn, chân núi có hồ Hàm Lợn. Đoạn cuối vào chân núi là đường làng nhỏ, chạy chậm. Chi tiết cung đường có trong bài [Hà Nội đi núi Hàm Lợn bằng xe máy](/cung-duong/2026/10/04/ha-noi-i-nui-ham-lon-bang-xe-may-cung-uong-va-thoi-gian/).
+Từ Long Biên, nhiều người chạy theo quốc lộ 3 qua Đông Anh rồi lên Sóc Sơn, đi theo chỉ dẫn bản đồ ở chế độ xe máy. Không đi vào cao tốc Nội Bài – Lào Cai hay Hà Nội – Thái Nguyên, cả hai đều cấm xe máy. Núi Hàm Lợn thuộc dãy núi Sóc Sơn, chân núi có hồ Hàm Lợn. Đoạn cuối vào chân núi là đường làng nhỏ, chạy chậm. Chi tiết cung đường có trong bài [Hà Nội đi núi Hàm Lợn bằng xe máy](/cung-duong/2026/10/04/ha-noi-di-nui-ham-lon-bang-xe-may-cung-duong-va-thoi-gian/).
 
 ### Sang Chương Mỹ tới núi Trầm và Đồi Bù
 
-Từ Long Biên qua cầu Chương Dương hoặc cầu Vĩnh Tuy vào nội thành, đi về phía Hà Đông rồi bám quốc lộ 6 về Chương Mỹ. Đừng chạy vào làn chính Đại lộ Thăng Long vì làn này cấm xe máy. Núi Trầm là núi đá vôi thấp, nổi tiếng với chùa Trầm, phần đường vào được mô tả trong bài [chùa Trầm ở Chương Mỹ bằng xe máy](/du-lich/2026/10/04/chua-tram-o-chuong-my-bang-xe-may-cung-uong-va-luu-y/). Đồi Bù xa hơn, quen thuộc với dân bay dù lượn; đoạn dốc cuối lên đồi có trong bài [đi Đồi Bù bằng xe máy thuê](/thue-xe/2026/10/15/thue-xe-may-mot-ngay-di-bay-du-luon-o-doi-bu-chuong-my-duong-len-diem-bay-va-lic/).
+Từ Long Biên qua cầu Chương Dương hoặc cầu Vĩnh Tuy vào nội thành, đi về phía Hà Đông rồi bám quốc lộ 6 về Chương Mỹ. Đừng chạy vào làn chính Đại lộ Thăng Long vì làn này cấm xe máy. Núi Trầm là núi đá vôi thấp, nổi tiếng với chùa Trầm, phần đường vào được mô tả trong bài [chùa Trầm ở Chương Mỹ bằng xe máy](/du-lich/2026/10/04/chua-tram-o-chuong-my-bang-xe-may-cung-duong-va-luu-y/). Đồi Bù xa hơn, quen thuộc với dân bay dù lượn; đoạn dốc cuối lên đồi có trong bài [đi Đồi Bù bằng xe máy thuê](/thue-xe/2026/10/15/thue-xe-may-mot-ngay-di-bay-du-luon-o-doi-bu-chuong-my-duong-len-diem-bay-va-lic/).
 
 ### Giờ xuất phát
 
@@ -58,7 +58,7 @@ Leo núi nên bắt đầu khi trời đã sáng rõ, tránh nắng trưa và xu
 - **Không để giấy tờ xe, ví, điện thoại dự phòng trong cốp.** Giấy tờ mang theo người, trong túi chống nước.
 - **Mũ bảo hiểm:** hỏi chủ nhà có treo giữ hộ không, hoặc khóa vào xe.
 
-Cách chọn chỗ dựng xe và đường mòn lên Hàm Lợn còn được nói thêm ở bài [điểm nghỉ chân trên đường đi núi Hàm Lợn](/cung-duong/2026/10/04/iem-nghi-chan-tren-uong-i-nui-ham-lon-bang-xe-may/).
+Cách chọn chỗ dựng xe và đường mòn lên Hàm Lợn còn được nói thêm ở bài [điểm nghỉ chân trên đường đi núi Hàm Lợn](/cung-duong/2026/10/04/diem-nghi-chan-tren-duong-di-nui-ham-lon-bang-xe-may/).
 
 ## Chở ba lô, nước và đồ leo trên xe máy
 

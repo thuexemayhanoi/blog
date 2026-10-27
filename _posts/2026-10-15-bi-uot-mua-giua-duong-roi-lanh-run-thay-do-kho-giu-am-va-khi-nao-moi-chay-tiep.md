@@ -53,7 +53,7 @@ Cũng luật này, tại Điều 33, yêu cầu người lái và người ngồ
 
 ### Giữ ấm tay chân
 
-Bàn tay là bộ phận cần hồi lại sớm nhất vì nó điều khiển phanh, ga và xi nhan. Ôm cốc nước ấm, xoa hai bàn tay, nắm vào mở ra nhiều lần cho máu lưu thông. Nếu đã có găng tay chống nước thì lau khô trong lòng găng trước khi đeo lại. Cách giữ tay ấm khi trời rét và chỗ nghỉ hợp lý có trong bài [tay tê cứng khi lái xe máy mùa đông](/ky-nang/2026/10/11/tay-te-cung-khi-lai-xe-may-mua-ong-giu-am-va-nghi-ung-iem/).
+Bàn tay là bộ phận cần hồi lại sớm nhất vì nó điều khiển phanh, ga và xi nhan. Ôm cốc nước ấm, xoa hai bàn tay, nắm vào mở ra nhiều lần cho máu lưu thông. Nếu đã có găng tay chống nước thì lau khô trong lòng găng trước khi đeo lại. Cách giữ tay ấm khi trời rét và chỗ nghỉ hợp lý có trong bài [tay tê cứng khi lái xe máy mùa đông](/ky-nang/2026/10/11/tay-te-cung-khi-lai-xe-may-mua-dong-giu-am-va-nghi-dung-diem/).
 
 ### Bộ đồ dự phòng nên để sẵn trong cốp
 

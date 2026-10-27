@@ -47,7 +47,7 @@ Một xe có đèn nhấp nháy hay còi hú vẫn có thể là xe làm nhiệm
 
 Đây là gợi ý thực tế, không phải lời khuyên pháp lý. Nhìn gương, giảm tốc và tấp sang bên phải khi có chỗ, bật xi nhan phải để xe phía sau biết bạn nhường. Nếu đang dừng đèn đỏ, đừng vượt đèn để nhường; hãy giữ nguyên chỗ nếu xe kia có thể đi vòng.
 
-Đừng phanh gấp giữa làn vì xe phía sau có thể không kịp. Bài [nhường đường cho đoàn xe ưu tiên khi đi xe máy](/an-toan-phap-ly/2026/10/10/nhuong-uong-cho-oan-xe-uu-tien-khi-i-xe-may/) nói thêm cách nhường khi có đoàn xe.
+Đừng phanh gấp giữa làn vì xe phía sau có thể không kịp. Bài [nhường đường cho đoàn xe ưu tiên khi đi xe máy](/an-toan-phap-ly/2026/10/10/nhuong-duong-cho-doan-xe-uu-tien-khi-di-xe-may/) nói thêm cách nhường khi có đoàn xe.
 
 ## Nếu xe kia ép sát hoặc đe dọa: giữ bình tĩnh, đừng đối đầu
 

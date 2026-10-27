@@ -41,7 +41,7 @@ Gửi ảnh vào nhóm chat chung để mọi người có cùng một bộ. Ả
 
 Giữa nhóm bạn, chuyện ai sai dễ thành chuyện giận nhau. Hãy kể điều quan sát được: xe nào đi trước, xe nào đi sau, khoảng cách ra sao, ai phanh, chuyện gì xảy ra. Tránh những câu quy kết như là do bạn.
 
-Bài không kết luận ai chịu trách nhiệm. Bài [giữ khoảng cách khi đi xe theo nhóm](/ky-nang/2026/10/10/giu-khoang-cach-khi-i-xe-theo-nhom/) nói thêm về khoảng cách giữa các xe, như một bài học cho lần sau chứ không phải để quy lỗi.
+Bài không kết luận ai chịu trách nhiệm. Bài [giữ khoảng cách khi đi xe theo nhóm](/ky-nang/2026/10/10/giu-khoang-cach-khi-di-xe-theo-nhom/) nói thêm về khoảng cách giữa các xe, như một bài học cho lần sau chứ không phải để quy lỗi.
 
 ## Hai xe thuê ở đâu: một tiệm hay hai tiệm
 

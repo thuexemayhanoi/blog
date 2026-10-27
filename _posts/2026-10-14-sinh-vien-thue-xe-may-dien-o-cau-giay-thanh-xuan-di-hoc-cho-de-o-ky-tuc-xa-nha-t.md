@@ -27,7 +27,7 @@ Hãy lấy thời khóa biểu cả tuần ra và đếm thật:
 - **Chặng làm thêm.** Quán cà phê, trung tâm gia sư hay cửa hàng làm ca tối có khi nằm ở quận khác.
 - **Ngày cuối tuần.** Về quê, đi chơi xa hay sang bờ Long Biên thăm người quen là những chặng dài hơn hẳn ngày thường.
 
-Cộng lại, nhân thêm phần dự phòng, rồi so với quãng đi được sau một lần sạc mà cửa hàng cho biết với mẫu xe bạn định thuê. Đừng lấy con số lý tưởng trên mạng. Bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-uong-mot-lan-sac-cua-xe-may-ien/) giải thích vì sao số thực tế thường thấp hơn.
+Cộng lại, nhân thêm phần dự phòng, rồi so với quãng đi được sau một lần sạc mà cửa hàng cho biết với mẫu xe bạn định thuê. Đừng lấy con số lý tưởng trên mạng. Bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-duong-mot-lan-sac-cua-xe-may-dien/) giải thích vì sao số thực tế thường thấp hơn.
 
 ## Các tuyến quen thuộc quanh Xuân Thủy và Nguyễn Trãi
 
@@ -59,7 +59,7 @@ Ghi lại câu trả lời, nếu có văn bản nội quy thì chụp lại. Kh
 - **Tiền điện sạc tính thế nào**, gộp vào hóa đơn phòng hay khoán thêm.
 - **Có giới hạn giờ sạc không.** Nhiều chủ trọ chỉ muốn thấy xe sạc trong giờ có người trông.
 
-Nếu chủ trọ không cho sạc, xe điện có thể không còn hợp, trừ khi gần đó có điểm sạc bạn dùng được đều đặn. Bài [xe máy điện thuê theo tháng khi ở trọ](/thue-xe/2026/10/11/xe-may-ien-thue-theo-thang-khi-o-tro-cho-sac-an-toan-va-quang-uong/) bàn kỹ về thỏa thuận sạc và an toàn khi ở trọ dài ngày.
+Nếu chủ trọ không cho sạc, xe điện có thể không còn hợp, trừ khi gần đó có điểm sạc bạn dùng được đều đặn. Bài [xe máy điện thuê theo tháng khi ở trọ](/thue-xe/2026/10/11/xe-may-dien-thue-theo-thang-khi-o-tro-cho-sac-an-toan-va-quang-duong/) bàn kỹ về thỏa thuận sạc và an toàn khi ở trọ dài ngày.
 
 ## Thói quen sạc an toàn khi ở chung
 

@@ -30,7 +30,7 @@ Khi có bản để đọc từ hôm trước, bạn được lợi ở chỗ:
 - Chuẩn bị đúng giấy tờ mà mẫu yêu cầu, tránh phải quay về chỗ ở lấy thêm.
 - Buổi nhận xe ngắn hơn, dành thời gian cho việc kiểm tra xe thực tế.
 
-Nếu chưa rõ một hợp đồng thuê xe thường có những mục gì, đọc trước bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/) để có khung so sánh.
+Nếu chưa rõ một hợp đồng thuê xe thường có những mục gì, đọc trước bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/) để có khung so sánh.
 
 ## Hỏi thế nào để tiệm dễ đáp ứng
 
@@ -59,7 +59,7 @@ Xem mẫu ghi thời hạn theo ngày, theo giờ hay theo mốc nhận và tr�
 
 ### Đặt cọc và cách nhận lại
 
-Đọc xem cọc được ghi bằng tiền hay giấy tờ, ghi ở dòng nào, khi nào và bằng cách nào bạn nhận lại. Mức cọc cụ thể là chuyện xác nhận trực tiếp với tiệm khi đặt xe; điều bạn cần chắc chắn là cách ghi trong giấy khớp với điều hai bên đã nói. Bài [hỏi về đặt cọc thuê xe máy và cách nhận lại](/hoi-dap/2026/10/10/hoi-at-coc-thue-xe-may-bao-nhieu-va-nhan-lai-the-nao/) có thêm các câu nên hỏi.
+Đọc xem cọc được ghi bằng tiền hay giấy tờ, ghi ở dòng nào, khi nào và bằng cách nào bạn nhận lại. Mức cọc cụ thể là chuyện xác nhận trực tiếp với tiệm khi đặt xe; điều bạn cần chắc chắn là cách ghi trong giấy khớp với điều hai bên đã nói. Bài [hỏi về đặt cọc thuê xe máy và cách nhận lại](/hoi-dap/2026/10/10/hoi-dat-coc-thue-xe-may-bao-nhieu-va-nhan-lai-the-nao/) có thêm các câu nên hỏi.
 
 ### Trách nhiệm khi xe hư hỏng hoặc mất
 

@@ -37,7 +37,7 @@ Nếu máy còn đang chạy lúc xe nằm xuống, hoặc đồng hồ còn sá
 
 ### Bước 2: Dựng xe lên và đặt ở chỗ phẳng
 
-Đứng sát xe, hai tay giữ tay lái và phần đuôi, dùng lực chân để đẩy lên chứ đừng gập lưng kéo. Kỹ thuật chi tiết có trong bài [cách một mình dựng xe bị đổ nghiêng](/ky-nang/2026/10/11/xe-may-bi-o-nghieng-cach-mot-minh-dung-xe-len-ma-khong-au-lung/). Khi xe đã đứng, dắt ra chỗ bằng phẳng, tránh mép dốc ngõ hay nền gạch ướt, rồi dựng chân chống giữa.
+Đứng sát xe, hai tay giữ tay lái và phần đuôi, dùng lực chân để đẩy lên chứ đừng gập lưng kéo. Kỹ thuật chi tiết có trong bài [cách một mình dựng xe bị đổ nghiêng](/ky-nang/2026/10/11/xe-may-bi-do-nghieng-cach-mot-minh-dung-xe-len-ma-khong-dau-lung/). Khi xe đã đứng, dắt ra chỗ bằng phẳng, tránh mép dốc ngõ hay nền gạch ướt, rồi dựng chân chống giữa.
 
 ### Bước 3: Kiểm tra nhanh xung quanh xe
 
@@ -62,7 +62,7 @@ Bóp một tay phanh, không vặn ga, bấm đề trong vài giây. Nếu chưa
 Nếu xe ga đổ xong đề không nổ dù đã làm đủ các bước trên, có thể nguyên nhân nằm ở chỗ khác:
 
 - **Công tắc tắt máy khẩn cấp** ở tay lái phải bị va vào lúc xe đổ và gạt sang vị trí tắt.
-- **Ắc quy yếu** sau nhiều lần bấm đề, đề quay chậm hoặc chỉ nghe tạch tạch. Dấu hiệu có trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/).
+- **Ắc quy yếu** sau nhiều lần bấm đề, đề quay chậm hoặc chỉ nghe tạch tạch. Dấu hiệu có trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/).
 - **Xe không có cảm biến nghiêng hoặc xử lý khác** so với mô tả ở trên, vì tính năng này tùy mẫu.
 
 Các điểm kiểm tra chung khi bấm đề không nổ, như phanh, chân chống, công tắc và ắc quy, đã được gom trong bài [xe ga thuê bấm đề không nổ](/xe-may/2026/10/15/xe-ga-thue-bam-de-khong-no-chan-chong-nghieng-bop-phanh-cong-tac-may-va-ac-quy-t/). Bài này chỉ tập trung vào trường hợp vừa đổ xe.

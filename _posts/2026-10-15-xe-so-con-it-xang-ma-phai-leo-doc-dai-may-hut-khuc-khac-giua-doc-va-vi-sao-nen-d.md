@@ -47,7 +47,7 @@ Bài [xe số thuê nên vào số mấy khi lên dốc dài](/xe-may/2026/10/07
 
 Máy chết giữa dốc nguy hiểm vì xe có thể tụt lùi. Hãy giữ chặt phanh trước, bóp thêm phanh sau, rồi dừng sát lề ở chỗ có thể dừng an toàn. Dựng xe bằng chân chống đứng nếu nền đủ cứng và phẳng, và nhớ đầu xe hướng lên dốc nếu phải dựng trên nền nghiêng.
 
-Đừng đề liên tục khi xăng đã cạn, vì đề nhiều làm yếu bình điện. Nếu xe chết, hãy nhắn tiệm, nêu rõ vị trí, rồi tính cách về. Bài [Hà Nội đi Tam Đảo bằng xe máy: lên dốc cần chuẩn bị gì](/cung-duong/2026/09/28/ha-noi-i-tam-ao-bang-xe-may-len-doc-can-chuan-bi-gi/) nhắc những điều cần chuẩn bị cho đoạn lên dốc.
+Đừng đề liên tục khi xăng đã cạn, vì đề nhiều làm yếu bình điện. Nếu xe chết, hãy nhắn tiệm, nêu rõ vị trí, rồi tính cách về. Bài [Hà Nội đi Tam Đảo bằng xe máy: lên dốc cần chuẩn bị gì](/cung-duong/2026/09/28/ha-noi-di-tam-dao-bang-xe-may-len-doc-can-chuan-bi-gi/) nhắc những điều cần chuẩn bị cho đoạn lên dốc.
 
 ## Mua xăng ven đường: cẩn thận với xăng không rõ nguồn
 

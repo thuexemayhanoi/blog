@@ -83,7 +83,7 @@ Cách gọn nhất là hỏi cửa hàng chỗ để xe: nhiều nơi có chỗ 
 
 - Sáng ngày thường phố thoáng, thử hàng thong thả nhất.
 - Chiều muộn và các tuần sát Tết đông, chờ cân khá lâu.
-- Tối thứ Sáu đến Chủ nhật, trục Hàng Đào, Hàng Ngang, Hàng Đường thường thuộc khu phố đi bộ, chợ đêm, xe máy không vào được. Giờ cấm theo thông báo của quận và có thể thay đổi; xem bài [phố đi bộ cuối tuần và xe máy để đâu](/du-lich/2026/09/28/pho-i-bo-cuoi-tuan-va-xe-may-e-au/).
+- Tối thứ Sáu đến Chủ nhật, trục Hàng Đào, Hàng Ngang, Hàng Đường thường thuộc khu phố đi bộ, chợ đêm, xe máy không vào được. Giờ cấm theo thông báo của quận và có thể thay đổi; xem bài [phố đi bộ cuối tuần và xe máy để đâu](/du-lich/2026/09/28/pho-di-bo-cuoi-tuan-va-xe-may-de-dau/).
 
 ## Từ Long Biên sang và mang quà về quê
 

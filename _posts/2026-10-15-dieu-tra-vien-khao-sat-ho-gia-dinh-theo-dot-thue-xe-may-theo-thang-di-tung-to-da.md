@@ -35,7 +35,7 @@ Phần lớn thời gian bạn không chạy đường lớn mà len lỏi trong
 - **Honda Wave:** thân mảnh, bền, hợp với người quen xe số và hay vào đường làng.
 - **Honda Air Blade:** cốp rộng, để vừa túi phiếu, áo mưa bộ và sạc dự phòng.
 
-Nếu chưa quen quay đầu trong không gian chật, đọc trước bài [quay đầu xe trong ngõ phố cổ](/ky-nang/2026/09/29/quay-au-xe-trong-ngo-pho-co-meo-cho-xe-may/). Khi nhận xe, thử còi, phanh và đèn, vì ngõ tối và khúc cua khuất là chuyện hằng ngày của nghề này.
+Nếu chưa quen quay đầu trong không gian chật, đọc trước bài [quay đầu xe trong ngõ phố cổ](/ky-nang/2026/09/29/quay-dau-xe-trong-ngo-pho-co-meo-cho-xe-may/). Khi nhận xe, thử còi, phanh và đèn, vì ngõ tối và khúc cua khuất là chuyện hằng ngày của nghề này.
 
 ## Tìm nhà trong ngõ ngách: đi chậm, dắt xe khi cần
 
@@ -46,7 +46,7 @@ Nếu chưa quen quay đầu trong không gian chật, đọc trước bài [qua
 3. **Dừng hẳn rồi mới xem bản đồ.** Không vừa lái vừa nhìn máy tính bảng hay điện thoại.
 4. **Gửi xe ở đầu ngõ, đi bộ vào ngách sâu.** Ở những ngõ chỉ vừa một người, như nhiều lối nhỏ quanh khu Kim Liên hay Khâm Thiên, dắt hoặc để xe ngoài sẽ đỡ vất vả cho cả bạn lẫn người trong ngõ.
 
-Khi chạy trong ngõ, đi chậm, bấm còi nhẹ trước khúc cua khuất, nhường trẻ con và người già. Ngõ quá đông người hoặc trơn trượt thì tắt máy, xuống dắt. Gặp xe đi ngược chiều, xem cách xử lý trong bài [tình huống xe đi ngược chiều trong ngõ](/ky-nang/2026/10/04/tinh-huong-xe-i-nguoc-chieu-trong-ngo-xu-ly-the-nao/).
+Khi chạy trong ngõ, đi chậm, bấm còi nhẹ trước khúc cua khuất, nhường trẻ con và người già. Ngõ quá đông người hoặc trơn trượt thì tắt máy, xuống dắt. Gặp xe đi ngược chiều, xem cách xử lý trong bài [tình huống xe đi ngược chiều trong ngõ](/ky-nang/2026/10/04/tinh-huong-xe-di-nguoc-chieu-trong-ngo-xu-ly-the-nao/).
 
 ## Dừng và gửi xe không chắn lối
 
@@ -69,7 +69,7 @@ Phiếu giấy ướt nhòe hay máy tính bảng vào nước là mất công c
 - **Áo mưa bộ luôn để sẵn trong cốp.** Áo mưa cánh dơi dễ bay vướng tay lái trong ngõ hẹp.
 - **Không ngồi điền phiếu trên yên xe dưới mưa.** Xin trú ở hiên nhà hoặc đợi tạnh.
 
-Cách bọc đồ khi gặp mưa được nói chi tiết trong bài [chở đồ khi trời mưa](/ky-nang/2026-09-29/cho-o-khi-troi-mua-cach-boc-kin/).
+Cách bọc đồ khi gặp mưa được nói chi tiết trong bài [chở đồ khi trời mưa](/ky-nang/2026-09-29/cho-do-khi-troi-mua-cach-boc-kin/).
 
 ## Giấy tờ và cách cư xử với hộ gia đình
 

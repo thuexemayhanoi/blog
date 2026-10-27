@@ -35,13 +35,13 @@ Theo nguyên tắc của Điều 328, khi hợp đồng được giao kết và 
 
 Theo nguyên tắc của Điều 329, nếu tài sản thuê được trả lại thì bên thuê được nhận lại tài sản ký cược sau khi trả tiền thuê. Nghĩa là về nguyên tắc, khoản ký cược là để bảo đảm bạn trả xe, và khi bạn trả xe và thanh toán tiền thuê xong thì khoản đó được hoàn lại. Nếu bên thuê không trả lại tài sản thuê thì bên cho thuê có những quyền theo điều luật.
 
-Cũng cần nhớ rằng Bộ luật Dân sự còn có quy định về nghĩa vụ của bên thuê, ví dụ trả lại tài sản trong tình trạng như khi nhận, trừ hao mòn tự nhiên, và về bồi thường nếu giá trị tài sản bị giảm sút. Vì vậy khi bạn trả xe, tiệm có thể kiểm tra tình trạng xe trước khi hoàn cọc. Bài [điều kiện nhận lại tiền cọc đủ](/thue-xe/2026/09/27/ieu-kien-nhan-lai-tien-coc-u/) đi qua những điều kiện thường gặp ở góc nhìn người thuê.
+Cũng cần nhớ rằng Bộ luật Dân sự còn có quy định về nghĩa vụ của bên thuê, ví dụ trả lại tài sản trong tình trạng như khi nhận, trừ hao mòn tự nhiên, và về bồi thường nếu giá trị tài sản bị giảm sút. Vì vậy khi bạn trả xe, tiệm có thể kiểm tra tình trạng xe trước khi hoàn cọc. Bài [điều kiện nhận lại tiền cọc đủ](/thue-xe/2026/09/27/dieu-kien-nhan-lai-tien-coc-du/) đi qua những điều kiện thường gặp ở góc nhìn người thuê.
 
 ## Hai khoản cọc có thể xuất hiện cùng lúc: hỏi rõ từng khoản
 
 Nhiều tiệm yêu cầu một khoản giữ chỗ lúc đặt online rồi thêm một khoản lúc nhận xe, hoặc coi khoản giữ chỗ là một phần của khoản lúc nhận. Cách làm nào cũng có thể hợp lý, nhưng điều quan trọng là bạn biết rõ: khoản giữ chỗ có được cộng vào khoản lúc nhận không, khoản nào hoàn khi nào, và có khoản nào sẽ không hoàn nếu bạn không đến.
 
-Bài [tiền cọc, tiền thuê trả trước và tiền giữ chỗ: phân biệt để khỏi hiểu nhầm](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-e-khoi-hieu-nham/) giúp bạn gọi tên từng khoản cho đúng. Bài không có dữ kiện về cách tính từng tiệm, nên hãy hỏi và ghi lại. Đừng để câu trả lời chung chung như "đến rồi tính" khiến bạn không biết khoản nào là khoản nào.
+Bài [tiền cọc, tiền thuê trả trước và tiền giữ chỗ: phân biệt để khỏi hiểu nhầm](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-de-khoi-hieu-nham/) giúp bạn gọi tên từng khoản cho đúng. Bài không có dữ kiện về cách tính từng tiệm, nên hãy hỏi và ghi lại. Đừng để câu trả lời chung chung như "đến rồi tính" khiến bạn không biết khoản nào là khoản nào.
 
 ## Biên nhận nên ghi gì để dùng được khi cần
 

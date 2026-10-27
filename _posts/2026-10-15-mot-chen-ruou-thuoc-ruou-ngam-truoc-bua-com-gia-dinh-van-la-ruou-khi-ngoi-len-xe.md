@@ -70,7 +70,7 @@ Có người dùng rượu ngâm theo lời mách hoặc theo thầy thuốc, u�
 
 ## Khi bạn đang đi xe thuê
 
-Vi phạm nồng độ cồn gắn với người cầm lái, kể cả khi xe là xe thuê. Đã uống thì để xe ở nơi an toàn, đi phương tiện khác. Nếu cần trao đổi về việc gửi hoặc nhận lại xe, gọi cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên qua số 0942467674 trong giờ 09:00 đến 21:00; điều kiện cụ thể xác nhận trực tiếp. Nếu đã bị lập biên bản, đọc bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/).
+Vi phạm nồng độ cồn gắn với người cầm lái, kể cả khi xe là xe thuê. Đã uống thì để xe ở nơi an toàn, đi phương tiện khác. Nếu cần trao đổi về việc gửi hoặc nhận lại xe, gọi cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên qua số 0942467674 trong giờ 09:00 đến 21:00; điều kiện cụ thể xác nhận trực tiếp. Nếu đã bị lập biên bản, đọc bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-do-con/).
 
 ## Ghi chú về thông tin trong bài
 

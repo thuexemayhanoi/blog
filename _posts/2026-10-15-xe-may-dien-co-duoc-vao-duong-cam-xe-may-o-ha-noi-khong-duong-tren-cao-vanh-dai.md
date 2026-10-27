@@ -41,7 +41,7 @@ Khoản 2 điểm b viết xe đạp máy, gồm cả xe đạp điện, là xe 
 
 Điều 25 khoản 3 viết xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô, xe gắn máy, xe thô sơ và người đi bộ không được đi trên đường cao tốc, trừ người, phương tiện và thiết bị phục vụ quản lý, bảo trì đường cao tốc. Bài diễn đạt lại.
 
-Theo câu chữ, cả xe gắn máy điện lẫn xe đạp điện, tức xe thô sơ, đều không được vào cao tốc. Bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/) nói riêng về cao tốc. Bài không biết đoạn đường trên cao Vành đai 3 bạn gặp có được tổ chức như cao tốc hay không.
+Theo câu chữ, cả xe gắn máy điện lẫn xe đạp điện, tức xe thô sơ, đều không được vào cao tốc. Bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/) nói riêng về cao tốc. Bài không biết đoạn đường trên cao Vành đai 3 bạn gặp có được tổ chức như cao tốc hay không.
 
 ## Đường trên cao Vành đai 3, cầu Thanh Trì: hãy đọc biển tại chỗ
 

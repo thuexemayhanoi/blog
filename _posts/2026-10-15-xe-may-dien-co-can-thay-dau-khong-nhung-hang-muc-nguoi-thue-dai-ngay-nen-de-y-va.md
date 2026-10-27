@@ -70,7 +70,7 @@ Mỗi lần cắm sạc, nhìn đầu giắc và cổng sạc: có bị cháy x�
 
 ### Pin và hộp pin
 
-Đây là hạng mục quan trọng nhất. Dấu hiệu bất thường gồm: vỏ hộp pin phồng, nóng hơn hẳn mọi ngày dù không chạy nhiều, có mùi khét hoặc mùi hóa chất lạ, hay pin tụt nhanh bất thường so với tuần trước. Gặp những dấu hiệu này thì ngừng sạc, không đi tiếp, để xe ở chỗ thoáng, xa người và đồ dễ cháy rồi gọi chủ xe. Bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ](/xe-may/2026/10/11/pin-xe-ien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/) nói rõ các bước xử lý.
+Đây là hạng mục quan trọng nhất. Dấu hiệu bất thường gồm: vỏ hộp pin phồng, nóng hơn hẳn mọi ngày dù không chạy nhiều, có mùi khét hoặc mùi hóa chất lạ, hay pin tụt nhanh bất thường so với tuần trước. Gặp những dấu hiệu này thì ngừng sạc, không đi tiếp, để xe ở chỗ thoáng, xa người và đồ dễ cháy rồi gọi chủ xe. Bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ](/xe-may/2026/10/11/pin-xe-dien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/) nói rõ các bước xử lý.
 
 ## Khi nào nên báo chủ xe kiểm tra
 

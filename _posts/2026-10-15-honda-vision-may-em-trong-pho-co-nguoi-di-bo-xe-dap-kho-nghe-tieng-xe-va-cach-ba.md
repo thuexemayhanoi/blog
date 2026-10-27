@@ -53,7 +53,7 @@ Khi nào không nên bấm:
 - Bấm liên tục, bấm giữ lâu: làm người đi trước giật mình, có người theo phản xạ nhảy sang ngang, đúng hướng bạn đang đi.
 - Bấm sát ngay sau lưng người đi bộ: hãy bấm khi còn cách một khoảng để họ có thời gian quay lại nhìn.
 
-Nếu sau một tiếng còi mà người phía trước chưa phản ứng, đừng bấm thêm ngay. Đi chậm lại, chờ, rồi mới báo thêm một tiếng nhẹ. Quy định chung về tín hiệu và sử dụng còi bạn có thể xem trong bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/en-tin-hieu-va-coi-xe-may-theo-quy-inh/).
+Nếu sau một tiếng còi mà người phía trước chưa phản ứng, đừng bấm thêm ngay. Đi chậm lại, chờ, rồi mới báo thêm một tiếng nhẹ. Quy định chung về tín hiệu và sử dụng còi bạn có thể xem trong bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/den-tin-hieu-va-coi-xe-may-theo-quy-dinh/).
 
 ## Đèn, xi nhan và vị trí xe: báo hiệu không cần âm thanh
 
@@ -61,7 +61,7 @@ Tiếng còi không phải cách duy nhất để người khác thấy bạn. �
 
 Vị trí xe cũng là một kiểu báo hiệu: nép sát sau một chiếc xe đạp, bạn gần như vô hình, nên hãy giữ xe ở chỗ người phía trước thấy được bằng khóe mắt.
 
-Kinh nghiệm báo hiệu trong ngõ nhỏ cho xe chạy êm nói chung được trình bày thêm trong bài [xe điện chạy êm trong ngõ nhỏ](/xe-may/2026/10/11/xe-ien-chay-em-trong-ngo-nho-bao-hieu-cho-nguoi-i-bo-the-nao/).
+Kinh nghiệm báo hiệu trong ngõ nhỏ cho xe chạy êm nói chung được trình bày thêm trong bài [xe điện chạy êm trong ngõ nhỏ](/xe-may/2026/10/11/xe-dien-chay-em-trong-ngo-nho-bao-hieu-cho-nguoi-di-bo-the-nao/).
 
 ## Giữ khoảng cách với người đi bộ và xe đạp
 
@@ -75,7 +75,7 @@ Khoảng cách là thứ cứu bạn khi mọi tín hiệu khác thất bại. V
 
 Phố cổ có nhiều phố một chiều. Đi theo ứng dụng bản đồ, người mới rất dễ vô tình đi ngược chiều. Hãy để ý biển báo ở đầu mỗi phố trước khi rẽ vào, và khi không chắc thì đỗ xe lại, xem biển rồi mới đi tiếp.
 
-Khu phố đi bộ quanh Hồ Gươm và một số tuyến trong phố cổ cấm xe máy theo khung giờ vào cuối tuần. Đừng dựa vào trí nhớ hay lời kể, hãy nhìn rào chắn và biển báo tại chỗ. Khi gặp rào, quay đầu tìm đường khác hoặc gửi xe rồi đi bộ. Bài [phố đi bộ cuối tuần và chỗ để xe máy](/du-lich/2026/09/28/pho-i-bo-cuoi-tuan-va-xe-may-e-au/) có thêm gợi ý về chỗ gửi xe quanh khu này.
+Khu phố đi bộ quanh Hồ Gươm và một số tuyến trong phố cổ cấm xe máy theo khung giờ vào cuối tuần. Đừng dựa vào trí nhớ hay lời kể, hãy nhìn rào chắn và biển báo tại chỗ. Khi gặp rào, quay đầu tìm đường khác hoặc gửi xe rồi đi bộ. Bài [phố đi bộ cuối tuần và chỗ để xe máy](/du-lich/2026/09/28/pho-di-bo-cuoi-tuan-va-xe-may-de-dau/) có thêm gợi ý về chỗ gửi xe quanh khu này.
 
 Cách nhàn nhất cho khách du lịch: gửi Vision ở bãi có vé ở rìa phố cổ rồi đi bộ vào trong.
 

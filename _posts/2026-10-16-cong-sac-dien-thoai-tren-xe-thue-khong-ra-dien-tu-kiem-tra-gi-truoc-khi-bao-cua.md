@@ -55,7 +55,7 @@ Mùa mưa ở Hà Nội, nước tạt vào hộc trước hoặc ổ sạc gắ
 - Lau phía ngoài bằng khăn giấy khô, không hơ nóng, không xịt dung dịch gì vào.
 - Chờ khô hẳn rồi mới thử lại với một sợi dây khô.
 
-Đã khô mà vẫn không vào điện, hoặc thấy vệt xanh, vệt đen quanh chân tiếp xúc, thì coi như lỗi của xe. Xe lội đoạn ngập rồi đề không nổ là chuyện khác, xem bài [xe máy ướt nước mưa ngập đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-e-khong-no/).
+Đã khô mà vẫn không vào điện, hoặc thấy vệt xanh, vệt đen quanh chân tiếp xúc, thì coi như lỗi của xe. Xe lội đoạn ngập rồi đề không nổ là chuyện khác, xem bài [xe máy ướt nước mưa ngập đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-de-khong-no/).
 
 ## Những việc không nên tự làm với xe thuê
 

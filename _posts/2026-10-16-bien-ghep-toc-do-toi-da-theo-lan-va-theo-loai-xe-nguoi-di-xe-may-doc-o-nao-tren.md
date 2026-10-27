@@ -30,7 +30,7 @@ Biển ghép thường hình chữ nhật nền xanh, đặt bên phải đườ
 
 P.127b không phân biệt loại xe: con số ở cột nào áp dụng cho làn ngay dưới cột đó. Hay gặp nhất là biển ba cột, số giảm dần từ trái sang phải. Xe chạy chậm hơn đi về bên phải, nên trên đường nhiều làn xe máy thường ở làn ngoài cùng bên phải, và con số cột ngoài cùng bên phải mới là số bạn cần nhìn.
 
-Lỗi hiểu sai phổ biến: thấy cột trái ghi số lớn, nghĩ cứ lấn sang là được chạy nhanh. P.127b không cho phép xe máy vào làn không dành cho mình; xe máy đi làn nào vẫn do biển phân làn, vạch kẻ đường và quy tắc sử dụng làn trong Luật Trật tự, an toàn giao thông đường bộ 2024 (Luật số 36/2024/QH15) quyết định. Cách nhìn vạch chia làn có ở bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-uong-xe-may-phai-i-the-nao/).
+Lỗi hiểu sai phổ biến: thấy cột trái ghi số lớn, nghĩ cứ lấn sang là được chạy nhanh. P.127b không cho phép xe máy vào làn không dành cho mình; xe máy đi làn nào vẫn do biển phân làn, vạch kẻ đường và quy tắc sử dụng làn trong Luật Trật tự, an toàn giao thông đường bộ 2024 (Luật số 36/2024/QH15) quyết định. Cách nhìn vạch chia làn có ở bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-duong-xe-may-phai-di-the-nao/).
 
 ## Đọc biển P.127c: tìm cột có hình xe máy trước
 

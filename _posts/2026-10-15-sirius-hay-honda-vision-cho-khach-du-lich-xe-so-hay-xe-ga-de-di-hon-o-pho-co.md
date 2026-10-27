@@ -47,7 +47,7 @@ Một ngày dạo phố thường có áo mưa, chai nước, sạc dự phòng,
 
 Với Sirius, mọi thứ phải nằm trên người hoặc trong giỏ phía trước. Ba lô đeo cả ngày khá mệt khi trời nóng, còn đồ để trong giỏ thì không nên rời mắt khi gửi xe. Bạn nên dặn rõ với tiệm nếu cần thêm móc hay dây buộc.
 
-Cốp Vision không quá rộng, mũ bảo hiểm cả đầu thường không vừa. Danh sách đồ nên và không nên để trong cốp có ở bài [cốp Honda Vision thuê chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-uoc-nhung-gi/).
+Cốp Vision không quá rộng, mũ bảo hiểm cả đầu thường không vừa. Danh sách đồ nên và không nên để trong cốp có ở bài [cốp Honda Vision thuê chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-duoc-nhung-gi/).
 
 ## Gửi xe, dắt xe và dựng chân chống
 

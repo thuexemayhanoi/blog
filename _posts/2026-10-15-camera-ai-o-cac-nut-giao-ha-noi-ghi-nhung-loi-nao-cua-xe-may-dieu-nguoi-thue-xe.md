@@ -37,7 +37,7 @@ Báo chí về đợt thí điểm từ tháng 9/2025 và các đợt tổng h�
 
 ### Không đội mũ bảo hiểm
 
-Điều 33 khoản 2: người lái xe, người được chở trên xe mô tô hai bánh, xe gắn máy "phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách". Quy định áp cho cả người ngồi sau, nên đừng nghĩ chạy một đoạn ngắn từ Bồ Đề sang chợ Long Biên thì không sao. Cách chọn mũ đúng chuẩn có trong bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/).
+Điều 33 khoản 2: người lái xe, người được chở trên xe mô tô hai bánh, xe gắn máy "phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách". Quy định áp cho cả người ngồi sau, nên đừng nghĩ chạy một đoạn ngắn từ Bồ Đề sang chợ Long Biên thì không sao. Cách chọn mũ đúng chuẩn có trong bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-khi-di-xe-may-chuan-nao/).
 
 ### Đi sai làn, đi vào làn dành riêng
 

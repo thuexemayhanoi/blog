@@ -55,7 +55,7 @@ Kiểu này thường tự hết khi máy đã nóng. Nếu chạy hơn chục p
 
 Lọc gió bị bụi bám dày làm máy thiếu gió, hỗn hợp cháy không chuẩn. Dấu hiệu thường đi kèm là xe bốc kém khi tăng tốc, có lúc nghe máy nặng, và khi đứng chờ đèn thì vòng tua không đều trước khi tắt.
 
-Người thuê không cần tháo hộp lọc. Chỉ cần nhắc tiệm kiểm tra khi báo lỗi. Muốn hiểu kỹ hơn về bộ phận này, xem bài [lọc gió xe máy bẩn: dấu hiệu khi đi xe](/xe-may/2026/10/11/loc-gio-xe-may-ban-dau-hieu-khi-i-xe-va-luc-nao-can-ve-sinh-hay-thay/).
+Người thuê không cần tháo hộp lọc. Chỉ cần nhắc tiệm kiểm tra khi báo lỗi. Muốn hiểu kỹ hơn về bộ phận này, xem bài [lọc gió xe máy bẩn: dấu hiệu khi đi xe](/xe-may/2026/10/11/loc-gio-xe-may-ban-dau-hieu-khi-di-xe-va-luc-nao-can-ve-sinh-hay-thay/).
 
 ## Idling Stop tự ngắt: bình thường, đừng nhầm là hỏng
 
@@ -70,7 +70,7 @@ Dù nguyên nhân là gì, an toàn đặt lên trước. Những việc nên t�
 1. **Xe số: về số N trước khi dừng hẳn.** Dừng ở số cao rồi nhả côn hay bóp phanh gấp là cách nhanh nhất làm xe số tắt máy.
 2. **Bóp phanh rồi mới đề lại.** Với xe ga, hầu hết các đời đều yêu cầu bóp phanh khi bấm đề. Bật xi nhan nếu cần để người sau biết bạn đang xử lý.
 3. **Giữ ga nhẹ trong vài phút đầu sau khi khởi động.** Đặc biệt ở những lần dừng đầu tiên trong ngày.
-4. **Không cố đề liên tục.** Đề ba bốn lần không nổ thì dắt xe vào lề, đừng đứng giữa làn. Các bước xử lý ngay tại chỗ có trong bài [xử lý khi xe máy chết máy giữa đèn đỏ](/ky-nang/2026/10/04/xu-ly-khi-xe-may-chet-may-giua-en-o/).
+4. **Không cố đề liên tục.** Đề ba bốn lần không nổ thì dắt xe vào lề, đừng đứng giữa làn. Các bước xử lý ngay tại chỗ có trong bài [xử lý khi xe máy chết máy giữa đèn đỏ](/ky-nang/2026/10/04/xu-ly-khi-xe-may-chet-may-giua-den-do/).
 5. **Kiểm tra xăng.** Kim xăng sát vạch cuối cũng có thể làm máy tắt khi dừng.
 
 ## Khi nào báo cửa hàng

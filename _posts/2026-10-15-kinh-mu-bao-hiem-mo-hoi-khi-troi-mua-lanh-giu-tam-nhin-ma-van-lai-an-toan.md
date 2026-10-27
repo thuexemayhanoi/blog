@@ -27,7 +27,7 @@ Có ba lúc kính mờ nhanh nhất:
 - **Khi kính đóng kín hoàn toàn.** Không khí bên trong không có lối ra, mỗi hơi thở lại thêm một lớp ẩm.
 - **Khi bạn thở gấp.** Leo dốc cầu, vội vàng, hay căng thẳng vì đường đông khiến nhịp thở nhanh hơn, hơi ẩm tăng lên.
 
-Cần phân biệt với mờ do mưa bên ngoài. Hơi đọng ở mặt trong thì lau ngoài không ăn thua, trong khi màng nước mưa ở mặt ngoài lại cần xử lý khác. Trường hợp mưa phùn bám thành màng đục ở mặt ngoài được nói riêng trong bài [mưa phùn làm mờ kính mũ bảo hiểm](/ky-nang/2026/10/11/mua-phun-lam-mo-kinh-mu-bao-hiem-giu-tam-nhin-khi-i-xe-may/).
+Cần phân biệt với mờ do mưa bên ngoài. Hơi đọng ở mặt trong thì lau ngoài không ăn thua, trong khi màng nước mưa ở mặt ngoài lại cần xử lý khác. Trường hợp mưa phùn bám thành màng đục ở mặt ngoài được nói riêng trong bài [mưa phùn làm mờ kính mũ bảo hiểm](/ky-nang/2026/10/11/mua-phun-lam-mo-kinh-mu-bao-hiem-giu-tam-nhin-khi-di-xe-may/).
 
 ## Hé kính đúng lúc: cho hơi thở có lối thoát
 

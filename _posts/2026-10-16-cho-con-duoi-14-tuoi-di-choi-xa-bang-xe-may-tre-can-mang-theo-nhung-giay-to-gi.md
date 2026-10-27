@@ -67,7 +67,7 @@ Giấy tờ của con chỉ là một nửa. Người lái vẫn phải mang đ�
 
 Điều 33 của cùng luật quy định người lái xe mô tô hai bánh, xe gắn máy chỉ được chở một người, trừ một số trường hợp được chở tối đa hai người, trong đó có trẻ em dưới 12 tuổi. Con từ 12 tuổi trở lên được tính như người ngồi sau bình thường. Người được chở, kể cả trẻ nhỏ, phải đội mũ bảo hiểm đúng quy chuẩn và cài quai đúng quy cách.
 
-Nếu thuê xe máy ở Hà Nội cho chuyến đi, hãy báo trước là có chở trẻ để chọn xe yên sau rộng, và hỏi cửa hàng khi đặt xe về mũ bảo hiểm cỡ cho trẻ. Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, điện thoại 0942 467 674. Giấy tờ khi thuê xe đi xa xem thêm bài [giấy tờ cần mang khi thuê xe đi đường dài](/an-toan-phap-ly/2026/10/07/giay-to-can-mang-khi-thue-xe-i-uong-dai/).
+Nếu thuê xe máy ở Hà Nội cho chuyến đi, hãy báo trước là có chở trẻ để chọn xe yên sau rộng, và hỏi cửa hàng khi đặt xe về mũ bảo hiểm cỡ cho trẻ. Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, điện thoại 0942 467 674. Giấy tờ khi thuê xe đi xa xem thêm bài [giấy tờ cần mang khi thuê xe đi đường dài](/an-toan-phap-ly/2026/10/07/giay-to-can-mang-khi-thue-xe-di-duong-dai/).
 
 ## Danh sách kiểm tra trước khi rời Hà Nội
 

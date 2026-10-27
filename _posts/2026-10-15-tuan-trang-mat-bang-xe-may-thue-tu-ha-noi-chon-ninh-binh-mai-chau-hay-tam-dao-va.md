@@ -35,7 +35,7 @@ Hợp với cặp đôi mà một người chưa quen đường dài. Đường 
 
 ### Tam Đảo: mát, sương, nhưng dốc nhiều
 
-Từ Hà Nội đi về phía Đông Anh, theo quốc lộ 2 về hướng Vĩnh Yên rồi rẽ quốc lộ 2B lên núi. Cao tốc Nội Bài – Lào Cai cấm xe máy, đừng để bản đồ dẫn lên đó. Tam Đảo hợp với cặp đôi thích khí hậu mát và những buổi sáng sương mù, nhưng đèo lên thị trấn dốc liên tục, chở hai người cần tay lái vững. Các lưu ý khi chạy đèo có trong bài [Tam Đảo bằng xe máy từ Hà Nội](/du-lich/2026/10/01/tam-ao-bang-xe-may-tu-ha-noi-eo-suong-va-chay-xuong/).
+Từ Hà Nội đi về phía Đông Anh, theo quốc lộ 2 về hướng Vĩnh Yên rồi rẽ quốc lộ 2B lên núi. Cao tốc Nội Bài – Lào Cai cấm xe máy, đừng để bản đồ dẫn lên đó. Tam Đảo hợp với cặp đôi thích khí hậu mát và những buổi sáng sương mù, nhưng đèo lên thị trấn dốc liên tục, chở hai người cần tay lái vững. Các lưu ý khi chạy đèo có trong bài [Tam Đảo bằng xe máy từ Hà Nội](/du-lich/2026/10/01/tam-dao-bang-xe-may-tu-ha-noi-deo-suong-va-chay-xuong/).
 
 Tóm lại: người lái còn mới thì Ninh Bình dễ chịu nhất; muốn yên tĩnh, ít dùng xe khi đã tới nơi thì Mai Châu; thích mát và chịu được dốc thì Tam Đảo.
 

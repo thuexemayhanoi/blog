@@ -57,7 +57,7 @@ Ba điểm này đi liền một mạch được, chi tiết thứ tự và gi�
 
 Khu Ba Đình đôi khi được phân luồng quanh quảng trường. Gặp barie hay biển cấm, vòng theo đường khác, đừng lách. Lịch trình mẫu cho cụm này nằm ở bài [nửa ngày ở Ba Đình bằng xe máy](/du-lich/2026/10/13/nua-ngay-o-ba-dinh-bang-xe-may-bao-tang-ho-chi-minh-hoang-thanh-b52/).
 
-Ai muốn đi cụm Cầu Giấy, hoặc Bảo tàng Hà Nội trên đường Phạm Hùng, nên để sang một ngày khác. Đường tới đó và chỗ gửi xe được viết trong bài [đến Bảo tàng Hà Nội bằng xe máy](/du-lich/2026/10/01/en-bao-tang-ha-noi-bang-xe-may-gui-xe-va-uong-i/).
+Ai muốn đi cụm Cầu Giấy, hoặc Bảo tàng Hà Nội trên đường Phạm Hùng, nên để sang một ngày khác. Đường tới đó và chỗ gửi xe được viết trong bài [đến Bảo tàng Hà Nội bằng xe máy](/du-lich/2026/10/01/den-bao-tang-ha-noi-bang-xe-may-gui-xe-va-duong-di/).
 
 ## Gửi xe ở từng điểm trong ngày đông khách
 

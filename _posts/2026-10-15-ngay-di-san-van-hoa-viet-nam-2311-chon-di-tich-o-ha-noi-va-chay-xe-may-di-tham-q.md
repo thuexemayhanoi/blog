@@ -43,7 +43,7 @@ Lỗi hay gặp nhất là chọn những nơi mình thích mà không nhìn b�
 - **Hoàng thành Thăng Long** với cổng phía đường Hoàng Diệu, quận Ba Đình: khu khảo cổ, Đoan Môn, điện Kính Thiên.
 - **Cột cờ Hà Nội** trên đường Điện Biên Phủ, nằm ngay giữa hai điểm trên.
 
-Ba nơi này cách nhau chỉ vài cây số, đi xe máy theo Tôn Đức Thắng, Nguyễn Thái Học hoặc Điện Biên Phủ đều gần. Chi tiết đường vào và chỗ gửi xe có ở bài [đến Văn Miếu - Quốc Tử Giám bằng xe máy](/du-lich/2026/09/28/en-van-mieu-quoc-tu-giam-bang-xe-may-gui-xe-va-uong-i/) và bài [đến Hoàng thành Thăng Long bằng xe máy](/du-lich/2026/09/28/en-hoang-thanh-thang-long-bang-xe-may-gui-xe-va-uong-i/).
+Ba nơi này cách nhau chỉ vài cây số, đi xe máy theo Tôn Đức Thắng, Nguyễn Thái Học hoặc Điện Biên Phủ đều gần. Chi tiết đường vào và chỗ gửi xe có ở bài [đến Văn Miếu - Quốc Tử Giám bằng xe máy](/du-lich/2026/09/28/den-van-mieu-quoc-tu-giam-bang-xe-may-gui-xe-va-duong-di/) và bài [đến Hoàng thành Thăng Long bằng xe máy](/du-lich/2026/09/28/den-hoang-thanh-thang-long-bang-xe-may-gui-xe-va-duong-di/).
 
 ### Cụm Hoàn Kiếm
 
@@ -51,7 +51,7 @@ Ba nơi này cách nhau chỉ vài cây số, đi xe máy theo Tôn Đức Thắ
 - **Nhà thờ Lớn** và **đền Lý Quốc Sư** trên phố Lý Quốc Sư ngay cạnh đó, đi bộ vài phút là tới.
 - **Đền Ngọc Sơn** giữa hồ Hoàn Kiếm, và vài di tích trong phố cổ như đền Bạch Mã trên phố Hàng Buồm hay nhà số 48 Hàng Ngang.
 
-Cụm này đặc biệt ở chỗ các điểm gần nhau tới mức không cần dắt xe đi lại. Gửi xe một lần rồi đi bộ là cách nhàn nhất. Đường vào khu Hỏa Lò được viết trong bài [đến Bảo tàng Hỏa Lò bằng xe máy](/du-lich/2026/09/30/en-bao-tang-hoa-lo-bang-xe-may-gui-xe-va-uong-i/).
+Cụm này đặc biệt ở chỗ các điểm gần nhau tới mức không cần dắt xe đi lại. Gửi xe một lần rồi đi bộ là cách nhàn nhất. Đường vào khu Hỏa Lò được viết trong bài [đến Bảo tàng Hỏa Lò bằng xe máy](/du-lich/2026/09/30/den-bao-tang-hoa-lo-bang-xe-may-gui-xe-va-duong-di/).
 
 ## Lộ trình xe máy một buổi không bị vội
 

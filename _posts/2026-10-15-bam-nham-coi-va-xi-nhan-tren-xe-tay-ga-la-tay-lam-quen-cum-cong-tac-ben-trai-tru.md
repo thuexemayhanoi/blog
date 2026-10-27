@@ -44,7 +44,7 @@ Thêm vào đó, hai nút này thường nằm sát nhau, hình dạng gần gi�
 4. **Lặp lại mà không nhìn tay.** Mắt nhìn thẳng ra trước, chỉ dùng cảm giác ngón cái để tìm nút. Làm vài lượt đến khi ngón tay tự tìm đúng.
 5. **Thử khi bốn ngón đặt trên cần phanh.** Giữ hờ phanh sau, chỉ dùng ngón cái thao tác. Đây là tư thế bạn sẽ dùng ngoài đường.
 
-Nếu thấy một nút không phản hồi, xi nhan nháy quá nhanh hoặc còi yếu, báo ngay khi còn ở cửa hàng. Bài [kiểm tra đèn, xi nhan và còi trước chuyến đi xa](/xe-may/2026/10/03/kiem-tra-en-xi-nhan-va-coi-truoc-chuyen-i-xa/) có danh sách kiểm tra đầy đủ hơn.
+Nếu thấy một nút không phản hồi, xi nhan nháy quá nhanh hoặc còi yếu, báo ngay khi còn ở cửa hàng. Bài [kiểm tra đèn, xi nhan và còi trước chuyến đi xa](/xe-may/2026/10/03/kiem-tra-den-xi-nhan-va-coi-truoc-chuyen-di-xa/) có danh sách kiểm tra đầy đủ hơn.
 
 ## Tắt xi nhan xe tay ga bằng nút ấn
 
@@ -66,7 +66,7 @@ Ai cũng có lần bấm sai trong mấy ngày đầu. Điều quan trọng là 
 - **Bật nhầm xi nhan ngược hướng:** ấn tắt ngay, gạt lại đúng phía, rồi mới quan sát gương và chuyển hướng. Đừng rẽ vội theo hướng đèn đang báo.
 - **Bật nhầm đèn pha trong phố:** gạt về cos ngay, nhất là khi có dòng xe đi ngược chiều vào buổi tối.
 
-Nếu cảm thấy rối, hãy giảm tốc, đi sát bên phải rồi mới chỉnh lại. Ở ngã tư đông quanh hồ Hoàn Kiếm, xi nhan nên bật trước khi tới điểm rẽ, đủ sớm để người phía sau kịp nhận ra. Cách quan sát gương và vai khi đổi làn có trong bài [chuyển làn an toàn khi đi xe máy](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-i-xe-may-guong-xi-nhan-vai/).
+Nếu cảm thấy rối, hãy giảm tốc, đi sát bên phải rồi mới chỉnh lại. Ở ngã tư đông quanh hồ Hoàn Kiếm, xi nhan nên bật trước khi tới điểm rẽ, đủ sớm để người phía sau kịp nhận ra. Cách quan sát gương và vai khi đổi làn có trong bài [chuyển làn an toàn khi đi xe máy](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-di-xe-may-guong-xi-nhan-vai/).
 
 ## Bấm còi đúng lúc trong phố đông
 

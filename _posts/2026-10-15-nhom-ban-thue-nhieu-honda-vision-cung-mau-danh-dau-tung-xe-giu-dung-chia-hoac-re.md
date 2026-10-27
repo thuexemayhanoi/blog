@@ -75,7 +75,7 @@ Bãi gửi quanh hồ Hoàn Kiếm, các ngõ phố cổ hay dọc đường ven
 - Đưa vé cho người trông xe, để họ đối chiếu vé với biển số.
 - Chỉ cắm chìa hoặc mở khóa khi đã chắc chắn là xe mình.
 
-Nếu nhóm đi tham quan vùng Hồ Tây, bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/) gợi ý thêm chỗ đỗ quen thuộc.
+Nếu nhóm đi tham quan vùng Hồ Tây, bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/) gợi ý thêm chỗ đỗ quen thuộc.
 
 ## Lỡ lấy nhầm xe hoặc cầm nhầm chìa thì làm gì
 

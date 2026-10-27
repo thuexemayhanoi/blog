@@ -46,7 +46,7 @@ Biên nhận của những bên này không phải giấy xác nhận của tổ
 
 Bên cho vay thường giữ bản gốc đăng ký tới lúc tất toán, nên bản sao chứng thực phải làm từ bản gốc trước hoặc ngay lúc nộp. Có nơi giao sẵn bản sao cùng giấy xác nhận, có nơi hẹn khách mang bản gốc đi chứng thực rồi mới nhận giữ. Hãy hỏi quy trình khi ký hồ sơ, đừng đợi bị dừng xe mới tìm.
 
-Chứng thực bản sao từ bản chính thường làm ở ủy ban nhân dân phường, xã; nên gọi hỏi trước giấy cần mang. Nhiều người gọi đăng ký là cà vạt, xem thêm bài [cà vạt xe và đăng ký xe khác nhau thế nào](/an-toan-phap-ly/2026/09/28/ca-vat-xe-va-ang-ky-xe-khac-nhau-the-nao/).
+Chứng thực bản sao từ bản chính thường làm ở ủy ban nhân dân phường, xã; nên gọi hỏi trước giấy cần mang. Nhiều người gọi đăng ký là cà vạt, xem thêm bài [cà vạt xe và đăng ký xe khác nhau thế nào](/an-toan-phap-ly/2026/09/28/ca-vat-xe-va-dang-ky-xe-khac-nhau-the-nao/).
 
 Cầm bản sao về, soát ngay:
 

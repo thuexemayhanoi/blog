@@ -73,7 +73,7 @@ Lệ phí thu theo mức hiện hành; mức cụ thể hiện ở bước thanh
 
 **Số điểm đi theo bạn.** Khoản 4 Điều 58 quy định giấy phép lái xe sau khi đổi, cấp lại được giữ nguyên số điểm của giấy phép trước đó.
 
-**Mất bằng là cấp lại, không phải đổi.** Các bước cơ bản có trong bài [mất bằng lái xe máy xin cấp lại thế nào](/an-toan-phap-ly/2026/09/28/mat-bang-lai-xe-may-xin-cap-lai-the-nao/); hạng bằng có thời hạn thì đọc thêm [đổi bằng lái khi giấy hết hạn](/an-toan-phap-ly/2026/09/28/oi-bang-lai-khi-giay-het-han/).
+**Mất bằng là cấp lại, không phải đổi.** Các bước cơ bản có trong bài [mất bằng lái xe máy xin cấp lại thế nào](/an-toan-phap-ly/2026/09/28/mat-bang-lai-xe-may-xin-cap-lai-the-nao/); hạng bằng có thời hạn thì đọc thêm [đổi bằng lái khi giấy hết hạn](/an-toan-phap-ly/2026/09/28/doi-bang-lai-khi-giay-het-han/).
 
 ## Thuê xe máy trong lúc đang đổi bằng
 

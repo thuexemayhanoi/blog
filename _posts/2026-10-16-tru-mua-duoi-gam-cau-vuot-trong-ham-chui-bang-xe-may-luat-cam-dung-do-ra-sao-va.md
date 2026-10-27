@@ -38,7 +38,7 @@ Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15, hiệ
 
 Riêng hầm, Luật 36/2024 có quy định riêng về giao thông trong hầm đường bộ; theo các bản tóm tắt chúng tôi đọc được, người lái phải bật đèn và chỉ được dừng, đỗ ở nơi quy định. Chúng tôi chưa đối chiếu số điều cụ thể, bạn nên tra văn bản gốc ở phần nguồn bên dưới.
 
-Về xử phạt, Nghị định 168/2024/NĐ-CP, Điều 7, quy định với người điều khiển xe mô tô, xe gắn máy có nhóm hành vi dừng, đỗ xe không đúng quy định. Bài không nêu mức phạt; nhóm lỗi xe máy được tóm lược ở bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-inh-xu-phat-vi-pham-giao-thong-xe-may/).
+Về xử phạt, Nghị định 168/2024/NĐ-CP, Điều 7, quy định với người điều khiển xe mô tô, xe gắn máy có nhóm hành vi dừng, đỗ xe không đúng quy định. Bài không nêu mức phạt; nhóm lỗi xe máy được tóm lược ở bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-dinh-xu-phat-vi-pham-giao-thong-xe-may/).
 
 Có nơi gầm cầu được tổ chức thành bãi gửi xe có rào và người trông. Đó là chỗ được phép, đi vào qua lối của bãi, khác hẳn việc đứng giữa làn dưới gầm cầu.
 
@@ -52,7 +52,7 @@ Với hầm cho xe máy, mưa làm mọi thứ khó hơn:
 - **Lòng hầm hẹp**, dừng lại là chắn luôn lối của xe sau, không có lề để né.
 - **Chênh sáng ở cửa hầm** cộng với kính mũ ướt khiến người sau thấy bạn muộn hơn.
 
-Vào hầm thì bật đèn, giữ làn, đi đều cho tới khi ra hẳn bên ngoài. Kỹ năng qua hầm có thêm trong bài [chạy xe máy trong hầm có quy định riêng gì](/an-toan-phap-ly/2026/10/07/chay-xe-may-trong-ham-co-quy-inh-rieng-gi/).
+Vào hầm thì bật đèn, giữ làn, đi đều cho tới khi ra hẳn bên ngoài. Kỹ năng qua hầm có thêm trong bài [chạy xe máy trong hầm có quy định riêng gì](/an-toan-phap-ly/2026/10/07/chay-xe-may-trong-ham-co-quy-dinh-rieng-gi/).
 
 ## Nên tấp vào đâu để mặc áo mưa
 

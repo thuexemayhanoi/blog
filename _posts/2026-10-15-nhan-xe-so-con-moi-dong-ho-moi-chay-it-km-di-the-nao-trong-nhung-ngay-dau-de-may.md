@@ -57,7 +57,7 @@ Nếu chiếc xe thuê của bạn đã được tiệm chạy rà, những lo n
 
 ## Nghe và cảm nhận: xe mới vẫn có thể có tiếng lạ
 
-Xe mới vẫn có thể có tiếng máy hay cảm giác lạ: côn tự động chưa êm, phanh chưa ăn đều, xích chưa ổn định. Hãy ghi lại những gì bạn nghe và cảm nhận, nhắn tiệm nếu thấy bất thường. Bài [nhận xe số thuê: thử cần số, xích và côn tự động trước khi đi](/thue-xe/2026/10/12/nhan-xe-so-thue-thu-can-so-xich-va-con-tu-ong-truoc-khi-i/) nói cách thử xe khi nhận.
+Xe mới vẫn có thể có tiếng máy hay cảm giác lạ: côn tự động chưa êm, phanh chưa ăn đều, xích chưa ổn định. Hãy ghi lại những gì bạn nghe và cảm nhận, nhắn tiệm nếu thấy bất thường. Bài [nhận xe số thuê: thử cần số, xích và côn tự động trước khi đi](/thue-xe/2026/10/12/nhan-xe-so-thue-thu-can-so-xich-va-con-tu-dong-truoc-khi-di/) nói cách thử xe khi nhận.
 
 ## Hỏi tiệm khi nhận xe mới: xe đã chạy rà chưa và đi thế nào cho êm
 

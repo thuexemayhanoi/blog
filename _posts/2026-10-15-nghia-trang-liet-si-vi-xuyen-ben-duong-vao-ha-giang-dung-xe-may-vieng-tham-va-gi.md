@@ -57,7 +57,7 @@ Hãy đến sớm và đừng cố nhích xe lên sát cổng khi đông.
 
 ## Khách nước ngoài và giấy tờ: xin phép khi vào khu biên giới
 
-Theo hướng dẫn của cơ quan địa phương năm 2026, người nước ngoài vào khu vực biên giới ở Việt Nam phải xin giấy phép. Bài không xác định nghĩa trang Vị Xuyên hay các điểm khác trên tuyến có thuộc khu vực này không, nên nếu bạn là khách nước ngoài, hãy hỏi cơ quan có thẩm quyền hoặc nơi lưu trú trước khi đi. Bài [thẻ thông hành và giấy tờ khi đi Hà Giang](/cung-duong/2026/09/28/the-thong-hanh-va-giay-to-khi-i-ha-giang/) nêu thêm bối cảnh chung.
+Theo hướng dẫn của cơ quan địa phương năm 2026, người nước ngoài vào khu vực biên giới ở Việt Nam phải xin giấy phép. Bài không xác định nghĩa trang Vị Xuyên hay các điểm khác trên tuyến có thuộc khu vực này không, nên nếu bạn là khách nước ngoài, hãy hỏi cơ quan có thẩm quyền hoặc nơi lưu trú trước khi đi. Bài [thẻ thông hành và giấy tờ khi đi Hà Giang](/cung-duong/2026/09/28/the-thong-hanh-va-giay-to-khi-di-ha-giang/) nêu thêm bối cảnh chung.
 
 Bộ quy tắc ứng xử của Hà Giang cũng nhắc không thuê xe tự lái khi chưa có giấy phép lái xe. Hãy chuẩn bị giấy tờ lái xe phù hợp trước khi lên đường.
 
@@ -65,7 +65,7 @@ Bộ quy tắc ứng xử của Hà Giang cũng nhắc không thuê xe tự lái
 
 Vì nghĩa trang nằm trước thành phố, bạn có thể ghé vào cuối chặng ngày đầu. Hãy đến khi trời còn sáng; đừng ghé lúc tối, vừa không hợp với không khí trang nghiêm vừa không an toàn trên quốc lộ.
 
-Bài [từ Hà Nội lên Hà Giang nên nghỉ đêm đầu ở đâu](/cung-duong/2026/10/09/tu-ha-noi-len-ha-giang-nen-nghi-em-au-o-au/) giúp bạn cân nhắc điểm nghỉ. Bài không biết tình trạng quốc lộ hay thời tiết trong ngày bạn đi; hãy tra dự báo trước.
+Bài [từ Hà Nội lên Hà Giang nên nghỉ đêm đầu ở đâu](/cung-duong/2026/10/09/tu-ha-noi-len-ha-giang-nen-nghi-dem-dau-o-dau/) giúp bạn cân nhắc điểm nghỉ. Bài không biết tình trạng quốc lộ hay thời tiết trong ngày bạn đi; hãy tra dự báo trước.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

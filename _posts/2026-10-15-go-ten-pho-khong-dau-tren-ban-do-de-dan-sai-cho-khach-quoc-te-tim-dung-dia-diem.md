@@ -59,12 +59,12 @@ Sau khi chọn kết quả, phóng to bản đồ và nhìn vị trí ghim:
 
 Đừng vừa chạy vừa sửa địa chỉ trên điện thoại. Hãy tìm chỗ dừng an toàn: lề rộng, vỉa hè có chỗ để xe, cây xăng hoặc bãi gửi xe. Tắt máy, rồi mới kiểm tra lại ghim. Nếu vẫn không chắc, gọi hoặc nhắn cho nơi bạn đến và gửi vị trí hiện tại của mình để họ chỉ đường.
 
-Một lưu ý cho khách quốc tế: dữ liệu di động ổn định giúp bạn nhận vị trí ghim và mở bản đồ nhanh, nên hãy chuẩn bị SIM theo gợi ý trong bài [SIM du lịch và dữ liệu di động để dùng bản đồ](/thue-xe/2026/10/14/sim-du-lich-va-du-lieu-di-dong-de-dung-ban-do-khi-chay-xe-may-thue-o-ha-noi/). Cách chọn và cài ứng dụng bản đồ trước khi nhận xe có trong bài [ứng dụng bản đồ cho khách quốc tế thuê xe máy](/thue-xe/2026/09/30/ung-dung-ban-o-tieng-anh-cho-khach-quoc-te-thue-xe-may/).
+Một lưu ý cho khách quốc tế: dữ liệu di động ổn định giúp bạn nhận vị trí ghim và mở bản đồ nhanh, nên hãy chuẩn bị SIM theo gợi ý trong bài [SIM du lịch và dữ liệu di động để dùng bản đồ](/thue-xe/2026/10/14/sim-du-lich-va-du-lieu-di-dong-de-dung-ban-do-khi-chay-xe-may-thue-o-ha-noi/). Cách chọn và cài ứng dụng bản đồ trước khi nhận xe có trong bài [ứng dụng bản đồ cho khách quốc tế thuê xe máy](/thue-xe/2026/09/30/ung-dung-ban-do-tieng-anh-cho-khach-quoc-te-thue-xe-may/).
 
 ## Tìm đúng cửa hàng khi đến nhận xe
 
 Cửa hàng ở 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, mở từ 09:00 đến 21:00. Khi gõ địa chỉ, hãy thêm "Bồ Đề, Long Biên, Hà Nội" để bản đồ không gợi ý đường Nguyễn Văn Cừ ở thành phố khác. Cách đơn giản nhất là nhắn cửa hàng qua Zalo hoặc gọi 0942467674 để nhận vị trí ghim, rồi kiểm tra lại ghim nằm ở bờ Long Biên, phía bên kia sông Hồng so với phố cổ.
 
-Ngược lại, nếu xe gặp sự cố giữa đường, việc gửi đúng vị trí cho chủ xe cũng quan trọng không kém. Bài [nhắn chủ xe khi xe có vấn đề](/thue-xe/2026/10/11/nhan-chu-xe-khi-xe-co-van-e-gui-vi-tri-anh-va-thong-tin-gi-e-xu-ly-nhanh/) hướng dẫn gửi vị trí và ảnh sao cho rõ.
+Ngược lại, nếu xe gặp sự cố giữa đường, việc gửi đúng vị trí cho chủ xe cũng quan trọng không kém. Bài [nhắn chủ xe khi xe có vấn đề](/thue-xe/2026/10/11/nhan-chu-xe-khi-xe-co-van-de-gui-vi-tri-anh-va-thong-tin-gi-de-xu-ly-nhanh/) hướng dẫn gửi vị trí và ảnh sao cho rõ.
 
 Tóm lại: gõ có dấu, thêm phường hoặc khu và chữ Hà Nội, kiểm tra ghim trên bản đồ, và tốt nhất là xin vị trí ghim từ nơi bạn đến. Các hướng dẫn khác cho người nước ngoài nằm trong mục [thuê xe cho khách quốc tế](/thue-xe/khach-quoc-te/) và trang chủ đề [thuê xe máy Hà Nội](/thue-xe/).

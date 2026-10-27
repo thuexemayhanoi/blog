@@ -56,7 +56,7 @@ Về độ sáng, ngoài nắng bạn cần đủ sáng để đọc, nên đừ
 
 ## Pin dự phòng và dây sạc: cất ở đâu khi xe ít chỗ
 
-Wave ít chỗ cất đồ, nên pin dự phòng nên nằm trong túi đeo chéo hoặc túi áo, không để lâu ngoài nắng hay trong ngăn dưới yên nếu xe có. Cách sắp đồ khác có trong bài [Honda Wave ít chỗ cất đồ](/xe-may/2026/10/11/honda-wave-it-cho-cat-o-e-ao-mua-nuoc-va-sac-du-phong-o-au/).
+Wave ít chỗ cất đồ, nên pin dự phòng nên nằm trong túi đeo chéo hoặc túi áo, không để lâu ngoài nắng hay trong ngăn dưới yên nếu xe có. Cách sắp đồ khác có trong bài [Honda Wave ít chỗ cất đồ](/xe-may/2026/10/11/honda-wave-it-cho-cat-do-de-ao-mua-nuoc-va-sac-du-phong-o-dau/).
 
 Đừng vắt dây sạc từ túi lên tay lái khi đang chạy. Dây dễ vướng lúc đánh lái và có thể kéo điện thoại bật khỏi giá. Cắm sạc khi đã dừng, như bữa trưa hay lúc nghỉ chân quanh Hồ Tây, sẽ gọn và an toàn hơn.
 

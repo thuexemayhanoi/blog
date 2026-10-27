@@ -54,7 +54,7 @@ Với cả ba kiểu, nguyên tắc chung là giảm dần, không phanh dồn. 
 
 Bị chói, nhiều người phản xạ bằng cách bật pha lên chiếu lại. Kết quả là cả hai cùng lóa, và đó là lúc hai xe đang ở gần nhau nhất. Nháy pha một lần thật ngắn từ xa để nhắc người kia chuyển cốt có thể chấp nhận, còn bật pha giữ nguyên để trả đũa thì không bao giờ.
 
-Cũng nên tự hỏi chiều ngược lại: đèn xe mình có đang chiếu quá cao không. Nếu người đi ngược chiều liên tục nháy đèn vào bạn dù bạn đã để cốt, có thể chóa đèn bị lệch. Bài [chỉnh góc chiếu đèn pha xe máy](/xe-may/2026/10/11/chinh-goc-chieu-en-pha-xe-may-vi-sao-pha-choi-nguoi-oi-dien-hoac-soi-khong-xa/) giải thích vì sao và cách kiểm tra.
+Cũng nên tự hỏi chiều ngược lại: đèn xe mình có đang chiếu quá cao không. Nếu người đi ngược chiều liên tục nháy đèn vào bạn dù bạn đã để cốt, có thể chóa đèn bị lệch. Bài [chỉnh góc chiếu đèn pha xe máy](/xe-may/2026/10/11/chinh-goc-chieu-den-pha-xe-may-vi-sao-pha-choi-nguoi-doi-dien-hoac-soi-khong-xa/) giải thích vì sao và cách kiểm tra.
 
 ## Kính mũ sạch và đôi mắt sau một ca làm
 
@@ -65,7 +65,7 @@ Mức độ lóa không chỉ phụ thuộc đèn xe kia mà còn ở những g�
 - **Người đeo kính cận nên giữ tròng kính sạch**, và nếu hay đi đêm có thể hỏi chỗ làm kính về loại tròng hợp với việc lái ban đêm.
 - **Mắt mỏi sau ca làm lóa lâu hơn.** Nếu đã nhìn màn hình hay ánh đèn xưởng cả ca, hãy ngồi nghỉ vài phút, rửa mặt rồi mới lên xe.
 
-Mưa phùn và hơi sương làm kính mũ mờ thêm và khiến đèn ngược chiều càng nhòe; bài [mưa phùn làm mờ kính mũ bảo hiểm](/ky-nang/2026/10/11/mua-phun-lam-mo-kinh-mu-bao-hiem-giu-tam-nhin-khi-i-xe-may/) có cách xử lý riêng cho tình huống này.
+Mưa phùn và hơi sương làm kính mũ mờ thêm và khiến đèn ngược chiều càng nhòe; bài [mưa phùn làm mờ kính mũ bảo hiểm](/ky-nang/2026/10/11/mua-phun-lam-mo-kinh-mu-bao-hiem-giu-tam-nhin-khi-di-xe-may/) có cách xử lý riêng cho tình huống này.
 
 ## Sau khi xe kia đi qua: chờ mắt quen lại bóng tối
 

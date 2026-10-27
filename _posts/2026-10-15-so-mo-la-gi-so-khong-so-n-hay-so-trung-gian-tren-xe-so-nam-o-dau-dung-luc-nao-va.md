@@ -56,7 +56,7 @@ Với từng tình huống, chi tiết khác nhau; bài chỉ nêu danh sách đ
 
 ## Không nên dùng số mo lúc nào: xuống dốc và giữa đường chạy
 
-Có những lúc không nên về mo. Điển hình là khi đang xuống dốc hoặc đang chạy để tiết kiệm xăng: về mo rồi để xe lăn làm bạn mất phanh động cơ và mất kiểm soát hơn. Bài [về số mo xuống dốc cho đỡ hao xăng: vì sao nên bỏ thói quen này](/xe-may/2026/10/11/ve-so-mo-xuong-doc-cho-o-hao-xang-vi-sao-nen-bo-thoi-quen-nay/) nói kỹ về chuyện này.
+Có những lúc không nên về mo. Điển hình là khi đang xuống dốc hoặc đang chạy để tiết kiệm xăng: về mo rồi để xe lăn làm bạn mất phanh động cơ và mất kiểm soát hơn. Bài [về số mo xuống dốc cho đỡ hao xăng: vì sao nên bỏ thói quen này](/xe-may/2026/10/11/ve-so-mo-xuong-doc-cho-do-hao-xang-vi-sao-nen-bo-thoi-quen-nay/) nói kỹ về chuyện này.
 
 Cũng đừng về mo khi đang đi giữa dòng xe chỉ vì hơi chậm; giữ số phù hợp để có thể tăng tốc khi cần. Về mo là cho lúc dừng, không phải lúc chạy. Bài không nêu đoạn đường cụ thể; hãy dùng phán đoán và giữ khoảng cách an toàn.
 

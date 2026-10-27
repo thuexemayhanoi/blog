@@ -1,0 +1,27 @@
+{
+ "schema": "reattest-reviewed/1",
+ "approval_note": "Owner MASTER EXECUTION 27/10/2026 (Issue #77, nhóm B): khôi phục provenance hợp lệ hoặc reattest hợp lệ, không làm giả bằng chứng. Chuỗi commit do SEO Developer US duyệt từng dòng diff.",
+ "entries": {
+  "BLG-01279": {
+   "bound_commit": "6091d01ea5735539287c75a51b6827929327c412",
+   "reviewed_commits": [
+    "45342291848b7a3d6ef1e21126301e38ff111bbb"
+   ],
+   "review": "45342291 (chủ xe): đổi DUY NHẤT dòng front matter parent_id P-DU-LICH -> P-CUNG-DUONG cho khớp taxonomy + matrix (sửa breadcrumb 404); không đổi thân bài, title, permalink."
+  },
+  "BLG-01494": {
+   "bound_commit": "1d185b81feee20fc68382fb692cc10790ef101a7",
+   "reviewed_commits": [
+    "9ca552bd60fba68e1f66b0e91c5afdf5ce905e55"
+   ],
+   "review": "9ca552bd (chủ xe): sửa DUY NHẤT một từ thiếu dấu 'sat vach' -> 'sát vách' trong thân bài; không đổi số liệu, liên kết, heading."
+  },
+  "BLG-01722": {
+   "bound_commit": "6f258b56512f5c5a9adbff1df1193f11407d475f",
+   "reviewed_commits": [
+    "ee38654ae913d503f564385c63c57bf828d96007"
+   ],
+   "review": "ee38654a (chủ xe): thay mẩu chữ dở 'Trưa nồm...' (lỗi soạn thảo) bằng một câu hoàn chỉnh về nghỉ trưa tránh nắng; không có số liệu, liên kết, heading mới; URL không đổi; draft BLG-01722 của writer chứa đúng bản sửa này."
+  }
+ }
+}

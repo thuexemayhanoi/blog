@@ -80,7 +80,7 @@ Lên bờ, cho bé nghỉ vài phút và kiểm tra quần áo có ướt không
 
 ## Đạp vịt xong ghé đâu quanh Trúc Bạch, Tây Hồ
 
-Bạn có thể đi bộ một đoạn để [ăn phở cuốn Ngũ Xã](/du-lich/2026/10/13/an-pho-cuon-ngu-xa-khi-chay-xe-ho-tay-truc-bach-di-gio-nao-de-xe-o-dau/) bên kia hồ Trúc Bạch, hoặc sang phía Hồ Tây [ăn bánh tôm ven đường Thanh Niên](/du-lich/2026/10/13/an-banh-tom-ho-tay-ven-duong-thanh-nien-ghe-bang-xe-may-luc-nao-gui-xe-ra-sao/). Cặp đôi đi buổi chiều có thể ghé [chùa Trấn Quốc](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i/) rồi ngồi ven hồ chờ hoàng hôn. Điểm ghé chỉ cách vài trăm mét thì đi bộ nhanh hơn lấy xe ra rồi tìm chỗ gửi mới.
+Bạn có thể đi bộ một đoạn để [ăn phở cuốn Ngũ Xã](/du-lich/2026/10/13/an-pho-cuon-ngu-xa-khi-chay-xe-ho-tay-truc-bach-di-gio-nao-de-xe-o-dau/) bên kia hồ Trúc Bạch, hoặc sang phía Hồ Tây [ăn bánh tôm ven đường Thanh Niên](/du-lich/2026/10/13/an-banh-tom-ho-tay-ven-duong-thanh-nien-ghe-bang-xe-may-luc-nao-gui-xe-ra-sao/). Cặp đôi đi buổi chiều có thể ghé [chùa Trấn Quốc](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-duong-di/) rồi ngồi ven hồ chờ hoàng hôn. Điểm ghé chỉ cách vài trăm mét thì đi bộ nhanh hơn lấy xe ra rồi tìm chỗ gửi mới.
 
 ## Thuê xe máy cho buổi đạp vịt cùng gia đình
 

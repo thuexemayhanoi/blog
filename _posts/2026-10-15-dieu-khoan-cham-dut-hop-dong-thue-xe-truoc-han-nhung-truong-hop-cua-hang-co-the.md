@@ -29,7 +29,7 @@ Hợp đồng thuê xe máy là một dạng hợp đồng thuê tài sản theo
 
 ### Dùng xe sai mục đích đã thỏa thuận
 
-Điều 480 yêu cầu bên thuê dùng tài sản đúng công dụng và đúng mục đích đã thỏa thuận; dùng sai thì bên cho thuê có quyền đơn phương chấm dứt và yêu cầu bồi thường thiệt hại. Ví dụ hay gặp: khai thuê để đi làm ở Cầu Giấy nhưng thực tế chạy giao hàng cả ngày. Định chạy giao hàng thì nói rõ từ đầu, như bài [hỏi rõ mục đích sử dụng khi thuê xe chạy giao hàng](/thue-xe/2026/10/11/thue-xe-may-e-chay-giao-hang-hay-xe-cong-nghe-hoi-ro-muc-ich-su-dung/) đã phân tích.
+Điều 480 yêu cầu bên thuê dùng tài sản đúng công dụng và đúng mục đích đã thỏa thuận; dùng sai thì bên cho thuê có quyền đơn phương chấm dứt và yêu cầu bồi thường thiệt hại. Ví dụ hay gặp: khai thuê để đi làm ở Cầu Giấy nhưng thực tế chạy giao hàng cả ngày. Định chạy giao hàng thì nói rõ từ đầu, như bài [hỏi rõ mục đích sử dụng khi thuê xe chạy giao hàng](/thue-xe/2026/10/11/thue-xe-may-de-chay-giao-hang-hay-xe-cong-nghe-hoi-ro-muc-dich-su-dung/) đã phân tích.
 
 ### Chậm trả tiền thuê theo kỳ
 

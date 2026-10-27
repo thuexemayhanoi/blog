@@ -46,7 +46,7 @@ Sirius đổ sang trái thì cần số là thứ chạm đất đầu tiên. Nh
 
 ### Tay phanh và cần phanh chân
 
-Đổ sang phải thì tay phanh trước và cần phanh chân sau chịu va chạm. Bóp tay phanh: hành trình phải giống lúc nhận xe, không lỏng lẻo, không chạm sát tay nắm. Nhìn đầu tay phanh có gãy mẻ không. Ấn cần phanh chân, rồi dắt xe vài mét và đạp thử để biết bánh sau có ăn phanh. Bài [nhận xe số thuê: thử cần số, xích và côn tự động](/thue-xe/2026/10/12/nhan-xe-so-thue-thu-can-so-xich-va-con-tu-ong-truoc-khi-i/) mô tả cảm giác bình thường của các bộ phận này, dùng làm mốc so sánh rất tiện.
+Đổ sang phải thì tay phanh trước và cần phanh chân sau chịu va chạm. Bóp tay phanh: hành trình phải giống lúc nhận xe, không lỏng lẻo, không chạm sát tay nắm. Nhìn đầu tay phanh có gãy mẻ không. Ấn cần phanh chân, rồi dắt xe vài mét và đạp thử để biết bánh sau có ăn phanh. Bài [nhận xe số thuê: thử cần số, xích và côn tự động](/thue-xe/2026/10/12/nhan-xe-so-thue-thu-can-so-xich-va-con-tu-dong-truoc-khi-di/) mô tả cảm giác bình thường của các bộ phận này, dùng làm mốc so sánh rất tiện.
 
 ### Gương chiếu hậu
 
@@ -73,7 +73,7 @@ Dù hư hỏng chỉ là một vết xước, hãy chụp vài tấm ảnh: toà
 
 Nếu có bất kỳ hư hỏng nào ảnh hưởng tới việc lái như cần số cong, phanh lạ, tay lái lệch hay mùi xăng, hãy báo cửa hàng trước khi đi tiếp. Gọi số 0942467674, mô tả ngắn: ngã ở đâu, ngã bên nào, bộ phận nào bị ảnh hưởng, và gửi ảnh qua Zalo. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở từ 09:00 đến 21:00. Việc mang xe về hay xử lý ở đâu, và chi phí sửa nếu có, đều cần xác nhận trực tiếp với cửa hàng trước khi làm. Đừng tự mang xe ra tiệm sửa ngoài khi chưa trao đổi, và xin tin nhắn ghi lại những gì đã thống nhất.
 
-Nói thật từ đầu luôn dễ hơn để tới lúc trả xe mới giải thích. Nếu va chạm có người hoặc xe khác liên quan, hãy làm theo bài [tai nạn nhẹ với xe thuê: các bước xử lý ngay](/thue-xe/2026/09/27/tai-nan-nhe-voi-xe-thue-cac-buoc-xu-ly-ngay/). Người thuê xe điện có thể xem thêm cách kiểm tra riêng trong bài [xe máy điện bị đổ hoặc ngã nhẹ](/xe-may/2026/10/11/xe-may-ien-bi-o-hoac-nga-nhe-kiem-tra-gi-truoc-khi-i-tiep/).
+Nói thật từ đầu luôn dễ hơn để tới lúc trả xe mới giải thích. Nếu va chạm có người hoặc xe khác liên quan, hãy làm theo bài [tai nạn nhẹ với xe thuê: các bước xử lý ngay](/thue-xe/2026/09/27/tai-nan-nhe-voi-xe-thue-cac-buoc-xu-ly-ngay/). Người thuê xe điện có thể xem thêm cách kiểm tra riêng trong bài [xe máy điện bị đổ hoặc ngã nhẹ](/xe-may/2026/10/11/xe-may-dien-bi-do-hoac-nga-nhe-kiem-tra-gi-truoc-khi-di-tiep/).
 
 ## Để lần sau không ngã khi dắt Sirius
 

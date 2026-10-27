@@ -39,7 +39,7 @@ Khoản 2 Điều 16 liệt kê những nơi không được lùi xe, trong đó
 
 - **Phần đường dành cho người đi bộ qua đường.** Ở phố cổ, vạch kẻ cho người đi bộ thường nằm sát đầu phố.
 - **Nơi đường bộ giao nhau.** Phố cổ là mạng ô phố ngắn, ngã tư, ngã ba nối nhau dày đặc; số nhà bạn tìm rất hay nằm ngay sát góc phố.
-- **Trong hầm đường bộ.** Xem thêm bài [chạy xe máy trong hầm có quy định riêng gì](/an-toan-phap-ly/2026/10/07/chay-xe-may-trong-ham-co-quy-inh-rieng-gi/).
+- **Trong hầm đường bộ.** Xem thêm bài [chạy xe máy trong hầm có quy định riêng gì](/an-toan-phap-ly/2026/10/07/chay-xe-may-trong-ham-co-quy-dinh-rieng-gi/).
 
 Danh sách đầy đủ còn một số vị trí khác; hãy đọc nguyên văn khoản 2 Điều 16 trong văn bản hợp nhất ở cuối bài. Bài [đèn chuyển đỏ khi bánh xe vừa chạm vạch dừng](/an-toan-phap-ly/2026/10/16/den-chuyen-do-khi-banh-xe-vua-cham-vach-dung-the-nao-moi-bi-coi-la-vuot-den-do-k/) có một tình huống hay gặp: lỡ đè vạch thì đứng yên, không lùi.
 
@@ -81,7 +81,7 @@ Mất thêm mấy phút, đổi lại không ai phải phanh gấp sau lưng b�
 ## Mẹo để khỏi đi quá số nhà
 
 - Xem trước số nhà nằm ở đoạn đầu, giữa hay cuối phố, và ở bên chẵn hay bên lẻ.
-- Chạy chậm, bám bên phải; bài [tốc độ tối đa cho xe máy trong phố cũ Hà Nội](/an-toan-phap-ly/2026/10/09/toc-o-toi-a-cho-xe-may-trong-pho-cu-ha-noi/) nói rõ giới hạn.
+- Chạy chậm, bám bên phải; bài [tốc độ tối đa cho xe máy trong phố cũ Hà Nội](/an-toan-phap-ly/2026/10/09/toc-do-toi-da-cho-xe-may-trong-pho-cu-ha-noi/) nói rõ giới hạn.
 - Đi hai người thì để người ngồi sau đọc số nhà, người lái chỉ nhìn đường.
 
 ## Khi thuê xe ở cửa hàng Nguyễn Tú
@@ -91,7 +91,7 @@ Nhận xe ở Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ
 ## Văn bản để tự đối chiếu
 
 - [Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15](https://vanban.chinhphu.vn/?pageid=27160&docid=211194): khoản 1 Điều 10, khoản 4 Điều 15, khoản 1 và 2 Điều 16, khoản 6 Điều 18; đối chiếu thêm [Văn bản hợp nhất số 55/VBHN-VPQH](https://vanban.chinhphu.vn/?docid=217295&pageid=27160).
-- [Nghị định 168/2024/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2) về xử phạt vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ; cách tra có ở bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-inh-xu-phat-vi-pham-giao-thong-xe-may/).
+- [Nghị định 168/2024/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2) về xử phạt vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ; cách tra có ở bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-dinh-xu-phat-vi-pham-giao-thong-xe-may/).
 
 Đây là thông tin tham khảo từ góc nhìn người cho thuê xe, không thay tư vấn pháp lý. Mức phạt và quy định có thể thay đổi, hãy kiểm tra văn bản mới nhất trước chuyến đi.
 

@@ -36,7 +36,7 @@ Dù cửa hàng có cho mượn hay không, chuyến đi nhiều ngày trên đ�
 
 ### Mũ bảo hiểm đạt chuẩn
 
-Đây là món quan trọng nhất và cũng là món dễ bị xem nhẹ nhất. Mũ đi kèm xe thường là loại nửa đầu, đủ cho chạy phố nhưng chưa chắc hợp với nhiều giờ trên đèo gió. Khi nhận mũ, kiểm tra tem hợp quy, quai cài còn chắc, lớp xốp bên trong không bị vỡ hay xẹp. Chạy đường dài, nhiều người tự mang mũ ba phần tư có kính. Cách phân biệt mũ đạt chuẩn có trong bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/), còn chuyện mũ có nằm trong giá thuê hay không thì xem [giá thuê xe máy có gồm mũ bảo hiểm không](/hoi-dap/2026-09-29-gia-thue-xe-may-co-gom-mu-bao-hiem-khong/).
+Đây là món quan trọng nhất và cũng là món dễ bị xem nhẹ nhất. Mũ đi kèm xe thường là loại nửa đầu, đủ cho chạy phố nhưng chưa chắc hợp với nhiều giờ trên đèo gió. Khi nhận mũ, kiểm tra tem hợp quy, quai cài còn chắc, lớp xốp bên trong không bị vỡ hay xẹp. Chạy đường dài, nhiều người tự mang mũ ba phần tư có kính. Cách phân biệt mũ đạt chuẩn có trong bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-khi-di-xe-may-chuan-nao/), còn chuyện mũ có nằm trong giá thuê hay không thì xem [giá thuê xe máy có gồm mũ bảo hiểm không](/hoi-dap/2026-09-29-gia-thue-xe-may-co-gom-mu-bao-hiem-khong/).
 
 ### Găng tay
 
@@ -89,7 +89,7 @@ Nếu cửa hàng có giao thêm món nào, hãy làm như với chiếc xe:
 
 Nếu bạn nhận xe ở cửa hàng tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, cửa hàng mở từ 09:00 đến 21:00, nên hẹn nhận sớm trong ngày để kịp kiểm tra kỹ.
 
-Chuẩn bị xe cho cung đường dài là một phần việc riêng, xem thêm [chuẩn bị xe máy đi Hà Giang từ nhà xe thuê](/cung-duong/2026/09/28/chuan-bi-xe-may-i-ha-giang-tu-nha-xe-thue/). Với người đi xe điện quãng ngắn, bài [xe máy điện chạy êm không có nghĩa an toàn hơn](/xe-may/2026/10/14/xe-may-dien-chay-em-khong-co-nghia-an-toan-hon-mu-bao-hiem-gang-tay-va-ao-khoac/) nói về mũ, găng và áo khoác cho đi phố.
+Chuẩn bị xe cho cung đường dài là một phần việc riêng, xem thêm [chuẩn bị xe máy đi Hà Giang từ nhà xe thuê](/cung-duong/2026/09/28/chuan-bi-xe-may-di-ha-giang-tu-nha-xe-thue/). Với người đi xe điện quãng ngắn, bài [xe máy điện chạy êm không có nghĩa an toàn hơn](/xe-may/2026/10/14/xe-may-dien-chay-em-khong-co-nghia-an-toan-hon-mu-bao-hiem-gang-tay-va-ao-khoac/) nói về mũ, găng và áo khoác cho đi phố.
 
 ## Tóm lại
 

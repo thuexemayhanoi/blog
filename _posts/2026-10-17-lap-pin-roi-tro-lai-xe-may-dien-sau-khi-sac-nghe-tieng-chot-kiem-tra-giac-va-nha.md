@@ -66,7 +66,7 @@ Hướng dẫn Evo cho biết đi nhiều đường xóc có thể ảnh hưởn
 - Xe mất nguồn hoặc màn hình chớp tắt khi qua ổ gà, gờ giảm tốc.
 - Màn hình báo mã lỗi liên quan tới pin ngay sau khi lắp.
 
-Khi gặp, dừng xe chỗ an toàn, tắt khóa điện và gọi chủ xe. Đừng cố ấn mạnh pin hay nhét giấy, xốp vào khay cho chặt. Sau một cú xóc mạnh, xem thêm bài [xe thuê vừa va mạnh vào ổ gà](/hoi-dap/2026/10/11/xe-thue-vua-va-manh-vao-o-ga-hoac-via-he-kiem-tra-gi-truoc-khi-di-tiep/ "Xe thuê vừa va mạnh vào ổ gà"), còn khi xe không nhận sạc, xem bài [xe điện không nhận sạc](/xe-may/2026/10/04/xe-ien-khong-nhan-sac-cac-buoc-kiem-tra-ban-au/ "Xe điện không nhận sạc").
+Khi gặp, dừng xe chỗ an toàn, tắt khóa điện và gọi chủ xe. Đừng cố ấn mạnh pin hay nhét giấy, xốp vào khay cho chặt. Sau một cú xóc mạnh, xem thêm bài [xe thuê vừa va mạnh vào ổ gà](/hoi-dap/2026/10/11/xe-thue-vua-va-manh-vao-o-ga-hoac-via-he-kiem-tra-gi-truoc-khi-di-tiep/ "Xe thuê vừa va mạnh vào ổ gà"), còn khi xe không nhận sạc, xem bài [xe điện không nhận sạc](/xe-may/2026/10/04/xe-dien-khong-nhan-sac-cac-buoc-kiem-tra-ban-dau/ "Xe điện không nhận sạc").
 
 ## Mang pin lên phòng và sạc ngoài xe
 

@@ -51,7 +51,7 @@ Tôi thường gợi ý chạy theo chiều kim đồng hồ, qua những đoạ
 3. Khoảng tám giờ, chạy tiếp lên phía bắc theo Lạc Long Quân rồi vào Nhật Chiêu, dừng lần hai ngắm trăng cao.
 4. Về theo Âu Cơ, Nghi Tàm, Yên Phụ, không quay lại Thanh Niên.
 
-Cả vòng, tính hai lần dừng, mất khoảng ba tiếng. Ai muốn đi lễ thì ghé phủ từ chiều rồi mới vào vòng ngắm trăng; cách vào ngõ và để xe có trong bài [đến Phủ Tây Hồ bằng xe máy](/du-lich/2026/10/04/en-phu-tay-ho-bang-xe-may-gui-xe-va-uong-i/).
+Cả vòng, tính hai lần dừng, mất khoảng ba tiếng. Ai muốn đi lễ thì ghé phủ từ chiều rồi mới vào vòng ngắm trăng; cách vào ngõ và để xe có trong bài [đến Phủ Tây Hồ bằng xe máy](/du-lich/2026/10/04/den-phu-tay-ho-bang-xe-may-gui-xe-va-duong-di/).
 
 ## Gửi xe đêm rằm: đừng mất nửa buổi đi tìm xe
 
@@ -62,7 +62,7 @@ Quanh hồ có nhiều điểm trông xe theo quán, theo nhà dân, dịp lễ 
 - Không đỗ lên mép kè, thảm cỏ hay chắn lối đi bộ.
 - Khóa cổ, rút chìa, không để điện thoại hay ví trong cốp.
 
-Các điểm dừng quen trên vòng hồ kèm cách để xe nằm trong bài [cung đường chạy quanh hồ Tây và chỗ gửi xe](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/).
+Các điểm dừng quen trên vòng hồ kèm cách để xe nằm trong bài [cung đường chạy quanh hồ Tây và chỗ gửi xe](/du-lich/2026/09/28/cung-duong-chay-quanh-ho-tay-diem-dung-va-cho-gui-xe/).
 
 ## Đưa trẻ đi chơi Trung thu Hồ Tây an toàn giữa đám đông
 

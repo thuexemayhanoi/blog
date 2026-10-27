@@ -49,7 +49,7 @@ Về mặt luật, nguyên tắc chung là đèn vàng báo hiệu phải dừng
 
 Trên các trục lớn như Giải Phóng, Nguyễn Trãi hay Xuân Thủy, ngã tư rộng, đèn xanh thường dài và dòng xe đông, nên người lái dễ chủ quan. Có ba thói quen cần để ý. Một là xe sau bám sát: khi bạn nhả ga sớm, xe sau có thể không chuẩn bị, nên hãy nhả từ từ và dùng đèn phanh sớm để báo hiệu. Hai là xe lách: một số xe máy lách sang làn bên cạnh để vượt trước vạch ngay lúc đèn vàng, nên hãy chừa khoảng trống hai bên.
 
-Ba là hiện tượng "đoàn xe": khi một nhóm xe phía trước cùng nhả ga, cả nhóm chậm lại gần như cùng lúc và phía sau dễ dồn đột ngột. Giữ khoảng cách đủ rộng sẽ cho bạn thời gian để phản ứng; bài [giữ khoảng cách với xe phía trước: quy tắc hai giây](/ky-nang/2026/10/11/giu-khoang-cach-voi-xe-phia-truoc-quy-tac-hai-giay/) mô tả một cách đo đơn giản. Khi đèn chuyển xanh, đừng vội vặn ga ngay; bài [đèn xanh vừa bật vẫn nhìn hai bên](/ky-nang/2026/10/11/en-xanh-vua-bat-van-nhin-hai-ben-thoi-quen-mot-nhip-o-nga-tu-ong-xe/) nói lý do nên chờ một nhịp.
+Ba là hiện tượng "đoàn xe": khi một nhóm xe phía trước cùng nhả ga, cả nhóm chậm lại gần như cùng lúc và phía sau dễ dồn đột ngột. Giữ khoảng cách đủ rộng sẽ cho bạn thời gian để phản ứng; bài [giữ khoảng cách với xe phía trước: quy tắc hai giây](/ky-nang/2026/10/11/giu-khoang-cach-voi-xe-phia-truoc-quy-tac-hai-giay/) mô tả một cách đo đơn giản. Khi đèn chuyển xanh, đừng vội vặn ga ngay; bài [đèn xanh vừa bật vẫn nhìn hai bên](/ky-nang/2026/10/11/den-xanh-vua-bat-van-nhin-hai-ben-thoi-quen-mot-nhip-o-nga-tu-dong-xe/) nói lý do nên chờ một nhịp.
 
 ## Tập cho quen: ba bài tập nhỏ khi đi trong thành phố
 

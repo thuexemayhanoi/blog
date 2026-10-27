@@ -36,7 +36,7 @@ Từ Hồ Gươm hay khu phố cổ Hoàn Kiếm có hai cách qua sông. Ai h�
 3. Xuống hết dốc cầu phía Long Biên, giảm tốc sớm, để ý lối rẽ về phía bờ sông hướng Phú Viên. Mở sẵn bản đồ trước khi lên cầu.
 4. Vào khu dân cư thì đi số thấp, nhường người đi bộ và trẻ con.
 
-Ngoài giờ cao điểm, cả quãng thường mất khoảng mười lăm đến hai mươi phút; giờ tan tầm chiều, đầu cầu phía Long Biên rất đông. So sánh các cây cầu có trong bài [chọn cầu Long Biên, Chương Dương hay Vĩnh Tuy](/du-lich/2026/10/11/tu-long-bien-sang-noi-o-chon-cau-long-bien-chuong-duong-hay-vinh-tuy/), kinh nghiệm chạy riêng trên cầu này xem bài [qua cầu Chương Dương lúc sáng sớm](/du-lich/2026/10/04/i-xe-may-qua-cau-chuong-duong-luc-sang-som-uong-va-luu-y/).
+Ngoài giờ cao điểm, cả quãng thường mất khoảng mười lăm đến hai mươi phút; giờ tan tầm chiều, đầu cầu phía Long Biên rất đông. So sánh các cây cầu có trong bài [chọn cầu Long Biên, Chương Dương hay Vĩnh Tuy](/du-lich/2026/10/11/tu-long-bien-sang-noi-do-chon-cau-long-bien-chuong-duong-hay-vinh-tuy/), kinh nghiệm chạy riêng trên cầu này xem bài [qua cầu Chương Dương lúc sáng sớm](/du-lich/2026/10/04/di-xe-may-qua-cau-chuong-duong-luc-sang-som-duong-va-luu-y/).
 
 ### Qua cầu Long Biên: chậm hơn mà đẹp
 
@@ -95,7 +95,7 @@ Viếng chùa không bắt buộc phải sắm lễ. Ai muốn dâng lễ thì h
 
 ## Ghép buổi viếng chùa với khu Bồ Đề
 
-Viếng xong mà còn sớm, bạn có thể ăn sáng quanh khu theo gợi ý trong bài [phở Bồ Đề buổi sáng](/du-lich/2026/10/04/pho-bo-e-buoi-sang-i-xe-may-va-gui-xe-the-nao/), hoặc ghé thêm một điểm tín ngưỡng gần đó là [Đền Cả Bồ Đề](/du-lich/2026/10/04/en-ca-bo-e-bang-xe-may-ngay-le-uong-i-va-gui-xe/). Các điểm này chỉ cách nhau vài phút chạy xe, đủ cho một buổi sáng thong thả mà không phải qua lại sông nhiều lần.
+Viếng xong mà còn sớm, bạn có thể ăn sáng quanh khu theo gợi ý trong bài [phở Bồ Đề buổi sáng](/du-lich/2026/10/04/pho-bo-de-buoi-sang-di-xe-may-va-gui-xe-the-nao/), hoặc ghé thêm một điểm tín ngưỡng gần đó là [Đền Cả Bồ Đề](/du-lich/2026/10/04/den-ca-bo-de-bang-xe-may-ngay-le-duong-di-va-gui-xe/). Các điểm này chỉ cách nhau vài phút chạy xe, đủ cho một buổi sáng thong thả mà không phải qua lại sông nhiều lần.
 
 ## Thuê xe gần chùa ở Long Biên
 

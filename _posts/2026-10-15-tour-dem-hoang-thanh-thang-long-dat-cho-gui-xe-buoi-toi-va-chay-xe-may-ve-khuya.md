@@ -42,7 +42,7 @@ Giờ tập trung rơi đúng lúc tan tầm cuối tuần. Đi từ Long Biên,
 - **Bám các trục lớn** hướng Phan Đình Phùng, Hoàng Diệu, Nguyễn Tri Phương, và đọc biển ở từng nút, vì khu Ba Đình có nhiều đoạn một chiều và đoạn cấm dừng, cấm đỗ.
 - **Hẹn nhóm ở một điểm rõ ràng** cách cổng một đoạn, không tụ xe trước cổng di tích.
 
-Đường đi ban ngày và các điểm tham quan chính có trong bài [đến Hoàng thành Thăng Long bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/28/en-hoang-thanh-thang-long-bang-xe-may-gui-xe-va-uong-i/); bài này chỉ tập trung vào chuyện buổi tối.
+Đường đi ban ngày và các điểm tham quan chính có trong bài [đến Hoàng thành Thăng Long bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/28/den-hoang-thanh-thang-long-bang-xe-may-gui-xe-va-duong-di/); bài này chỉ tập trung vào chuyện buổi tối.
 
 ## Gửi xe buổi tối gần cổng: hỏi giờ nhận xe cuối
 
@@ -63,7 +63,7 @@ Sau tour, cộng thêm thời gian uống trà, chụp ảnh và lấy xe, bạn
 
 **Mệt.** Một tiếng rưỡi đi bộ và đứng xem biểu diễn sau cả ngày làm việc khiến phản xạ chậm hơn bạn nghĩ. Uống nước, ngồi nghỉ vài phút trước khi nổ máy. Nếu ghé ăn khuya, tuyệt đối không uống rượu bia khi còn cầm lái.
 
-**Đường vắng.** Phố thoáng làm nhiều người chạy nhanh hơn, có người vượt đèn vàng ở nút ít xe. Giữ tốc độ vừa phải, quan sát kỹ ở ngã tư, nhường xe đi ra từ ngõ tối, và đi thành nhóm nếu có thể. Các kỹ năng lái trong phố lúc tối có ở bài [chạy xe ban đêm trong nội đô](/ky-nang/2026-09-29/chay-xe-ban-em-trong-noi-o/).
+**Đường vắng.** Phố thoáng làm nhiều người chạy nhanh hơn, có người vượt đèn vàng ở nút ít xe. Giữ tốc độ vừa phải, quan sát kỹ ở ngã tư, nhường xe đi ra từ ngõ tối, và đi thành nhóm nếu có thể. Các kỹ năng lái trong phố lúc tối có ở bài [chạy xe ban đêm trong nội đô](/ky-nang/2026-09-29/chay-xe-ban-dem-trong-noi-do/).
 
 ## Xe thuê: tính giờ trả và thống nhất trước với cửa hàng
 

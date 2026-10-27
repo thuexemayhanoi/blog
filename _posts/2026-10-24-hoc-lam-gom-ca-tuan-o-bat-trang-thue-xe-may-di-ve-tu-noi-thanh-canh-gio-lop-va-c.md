@@ -45,7 +45,7 @@ Với xe máy, cách an toàn nhất là để hộp gốm ở nơi cố định
 
 Với lộ trình lặp lại mỗi ngày, một chiếc xe ổn định, êm và dễ chằng đồ là hợp lý. Xe tay ga có cốp, xe số có thể gắn thêm giá chở nhưng bạn cần hỏi tiệm có cho gắn không. Bài không biết xe nào ở tiệm hợp nhất; hãy hỏi và để ý chỗ để đồ khi nhận xe.
 
-Bài [một tuần đi làng nghề quanh Hà Nội: chia bảy ngày theo hướng bằng xe máy thuê](/thue-xe/2026/10/11/mot-tuan-i-lang-nghe-quanh-ha-noi-chia-bay-ngay-theo-huong-bang-xe-may-thue/) gợi ý thêm cách chia tuần nếu bạn muốn kết hợp ghé các làng nghề khác. Nên kiểm tra xe giữa tuần như bài [thuê xe máy một tuần nên kiểm tra xe ở giữa kỳ không](/thue-xe/2026/10/07/thue-xe-may-mot-tuan-nen-kiem-tra-xe-o-giua-ky-khong/) gợi ý. Giá thuê và tiền cọc là thông tin tham khảo, cần xác nhận trực tiếp trước khi đặt xe.
+Bài [một tuần đi làng nghề quanh Hà Nội: chia bảy ngày theo hướng bằng xe máy thuê](/thue-xe/2026/10/11/mot-tuan-di-lang-nghe-quanh-ha-noi-chia-bay-ngay-theo-huong-bang-xe-may-thue/) gợi ý thêm cách chia tuần nếu bạn muốn kết hợp ghé các làng nghề khác. Nên kiểm tra xe giữa tuần như bài [thuê xe máy một tuần nên kiểm tra xe ở giữa kỳ không](/thue-xe/2026/10/07/thue-xe-may-mot-tuan-nen-kiem-tra-xe-o-giua-ky-khong/) gợi ý. Giá thuê và tiền cọc là thông tin tham khảo, cần xác nhận trực tiếp trước khi đặt xe.
 
 ## Những lưu ý khác: nắng, mưa, quần áo và vệ sinh
 

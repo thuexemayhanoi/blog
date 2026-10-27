@@ -27,7 +27,7 @@ Xe ga thì khác, chỉ cần vặn ga là đi một mạch. Vì vậy ở nhị
 - **Giữ số 1 quá lâu,** máy gào to mà xe chẳng nhanh thêm.
 - **Lên số mà không nhả ga,** xe giật, người ngồi sau xô về phía trước.
 
-Nếu bạn đi xe 50cc thì nhịp xuất phát lại khác, bài [xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-ong-cach-xuat-phat-khi-en-xanh-bat/) nói riêng cho dòng xe đó.
+Nếu bạn đi xe 50cc thì nhịp xuất phát lại khác, bài [xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-dong-cach-xuat-phat-khi-den-xanh-bat/) nói riêng cho dòng xe đó.
 
 ## Xuất phát xe Wave khi đèn xanh: chuẩn bị từ lúc đèn đỏ
 
@@ -37,7 +37,7 @@ Nhịp xuất phát tốt được quyết định trước khi đèn chuyển m
 2. **Chọn chỗ đứng bên phải làn xe máy.** Đứng lệch phải để xe ga muốn bứt lên thì có khoảng trống vượt bên trái, bạn không bị ép giữa hai luồng xe.
 3. **Nhìn đèn và nhìn xe trước mặt.** Khi đèn xanh, đợi xe phía trước nhích lên rồi mới đi, đừng nhìn đèn mà quên chiếc xe ngay đầu bánh.
 
-Lúc đi: nhả phanh, vặn ga đều tay. Đừng vặn hết ga ngay, xe sẽ chồm và bánh sau dễ trượt trên mặt đường có vệt sơn hoặc nắp cống. Bài [dắt xe và vào số 1, thao tác cơ bản cho người mới](/ky-nang/2026/09/29/e-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi/) có phần tập vào số chậm nếu bạn chưa quen chân.
+Lúc đi: nhả phanh, vặn ga đều tay. Đừng vặn hết ga ngay, xe sẽ chồm và bánh sau dễ trượt trên mặt đường có vệt sơn hoặc nắp cống. Bài [dắt xe và vào số 1, thao tác cơ bản cho người mới](/ky-nang/2026/09/29/de-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi/) có phần tập vào số chậm nếu bạn chưa quen chân.
 
 ## Lên số xe Wave nhập dòng: nghe máy chứ đừng đoán
 
@@ -60,7 +60,7 @@ Kẹt giữa làn thường xảy ra khi bạn rẽ từ phố nhỏ ra trục l
 - **Bật xi nhan sớm,** đi thẳng vào làn sát lề phải, rồi mới lên số 2, số 3 trong lúc đi sát phải.
 - **Đừng cắt ngang chéo** sang làn giữa khi xe còn chưa có đà. Đó chính là cách bị kẹt giữa hai luồng xe nhanh.
 
-Khi đã có đà và cần chuyển làn, nhìn gương, xi nhan, ngoái qua vai rồi mới chuyển, theo cách trong bài [chuyển làn an toàn: gương, xi nhan và ngoái vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-i-xe-may-guong-xi-nhan-vai/). Không lạng lách giữa các xe để bù cho nhịp xuất phát chậm.
+Khi đã có đà và cần chuyển làn, nhìn gương, xi nhan, ngoái qua vai rồi mới chuyển, theo cách trong bài [chuyển làn an toàn: gương, xi nhan và ngoái vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-di-xe-may-guong-xi-nhan-vai/). Không lạng lách giữa các xe để bù cho nhịp xuất phát chậm.
 
 Với đoạn đường dẫn lên cầu, như lên cầu Chương Dương hay cầu Vĩnh Tuy, việc nhập dòng có đặc thù riêng vì đường dốc và hẹp, bài [nhập dòng xe từ đường dẫn lên cầu](/ky-nang/2026/10/15/nhap-dong-xe-tu-duong-dan-len-cau-tang-toc-nhin-guong-va-tim-khe-trong/) phân tích kỹ.
 

@@ -33,7 +33,7 @@ Cũng theo trang chính thức, bảo tàng mở cửa hằng ngày từ 8 giờ
 
 Nếu chạy xe, cách dễ nhất là theo phố Hàng Bài đi về hướng nam, qua ngã tư Hai Bà Trưng, tới ngã tư Lý Thường Kiệt thì rẽ vào và để ý số nhà. Khu này có nhiều phố một chiều, nên xem biển ở từng ngã tư thay vì nghe máy chỉ đường bảo rẽ ngay. Lý Thường Kiệt có nhiều cơ quan, hàng cây lớn và vỉa hè hẹp, đi chậm và tấp vào lề trước khi dừng hỏi đường.
 
-Hai khung nên tránh chạy xe quanh đây: giờ tan tầm chiều ngày thường, và tối cuối tuần khi quanh Hồ Gươm có phố đi bộ, một số đoạn bị chặn xe. Nếu bạn xuất phát từ phía Long Biên chứ không phải từ hồ, tuyến qua cầu Chương Dương đã được kể kỹ trong bài [đến Bảo tàng Phụ nữ Việt Nam bằng xe máy](/du-lich/2026/10/04/en-bao-tang-phu-nu-viet-nam-bang-xe-may-gui-xe-va-uong-i/).
+Hai khung nên tránh chạy xe quanh đây: giờ tan tầm chiều ngày thường, và tối cuối tuần khi quanh Hồ Gươm có phố đi bộ, một số đoạn bị chặn xe. Nếu bạn xuất phát từ phía Long Biên chứ không phải từ hồ, tuyến qua cầu Chương Dương đã được kể kỹ trong bài [đến Bảo tàng Phụ nữ Việt Nam bằng xe máy](/du-lich/2026/10/04/den-bao-tang-phu-nu-viet-nam-bang-xe-may-gui-xe-va-duong-di/).
 
 ## Bảo tàng Phụ nữ gửi xe ở đâu
 

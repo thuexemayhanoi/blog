@@ -21,7 +21,7 @@ writer_session: s-claude-sonnet-w4
 
 Trước hết cần phân biệt hai trường hợp. Nếu chỉ mặt đồng hồ tối còn đèn pha, đèn hậu và xi nhan vẫn hoạt động, đây thường là hỏng riêng phần đèn chiếu sáng của đồng hồ, ví dụ bóng hay đèn LED nền, đầu nối lỏng hoặc cầu chì riêng. Nó không làm xe mất khả năng đi, nhưng bạn mất thông tin về xăng, tốc độ và đèn báo.
 
-Nếu cả đèn pha và đèn xe cũng tắt cùng lúc, đó là một sự cố điện lớn hơn, và bạn nên đọc bài [đang chạy bỗng tắt hết đèn đồng hồ và đèn xe: xe thuê mất điện thì làm gì](/xe-may/2026/10/14/dang-chay-bong-tat-het-den-dong-ho-va-den-xe-xe-thue-mat-dien-thi-lam-gi/). Nếu chỉ đèn pha không sáng còn đồng hồ vẫn sáng, hãy xem bài [đèn pha xe thuê không sáng khi đi đêm: kiểm tra gì](/xe-may/2026/09/29/en-pha-xe-thue-khong-sang-khi-i-em-kiem-tra-gi/).
+Nếu cả đèn pha và đèn xe cũng tắt cùng lúc, đó là một sự cố điện lớn hơn, và bạn nên đọc bài [đang chạy bỗng tắt hết đèn đồng hồ và đèn xe: xe thuê mất điện thì làm gì](/xe-may/2026/10/14/dang-chay-bong-tat-het-den-dong-ho-va-den-xe-xe-thue-mat-dien-thi-lam-gi/). Nếu chỉ đèn pha không sáng còn đồng hồ vẫn sáng, hãy xem bài [đèn pha xe thuê không sáng khi đi đêm: kiểm tra gì](/xe-may/2026/09/29/den-pha-xe-thue-khong-sang-khi-di-dem-kiem-tra-gi/).
 
 ## Việc đầu tiên: tấp vào chỗ sáng và nhìn kỹ mặt đồng hồ
 

@@ -67,7 +67,7 @@ Vẫn nâng chén, vẫn chạm chén, vẫn nói lời chúc. Điều họ hàn
 
 - **"Uống một chén rồi ngồi chơi lâu là hết."** Không có mốc giờ nào chung cho mọi người, và trà, cà phê không làm cồn giảm nhanh hơn. Chỉ có thời gian.
 - **"Nhà cuối cùng, gần lắm."** Chặng ngắn nhất cuối ngày lại là lúc người lái mệt nhất. Điều luật cũng không phân biệt gần hay xa.
-- **"Tối qua uống, sáng nay đi chúc Tết tiếp."** Cồn có thể còn đến hôm sau; xem bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/em-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-o-con-khong/).
+- **"Tối qua uống, sáng nay đi chúc Tết tiếp."** Cồn có thể còn đến hôm sau; xem bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/dem-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-do-con-khong/).
 - **"Lỡ uống rồi thì đi chậm."** Đi chậm không làm hơi thở hết cồn. Lỡ uống thì để xe lại.
 
 Nếu người lái đã lỡ nhận chén rượu, hãy đổi phương án ngay. Dựng xe trong sân nhà họ hàng, nhờ chủ nhà trông giúp, gọi xe về hoặc ngủ lại. Hôm sau, khi đã thực sự tỉnh, quay lại lấy xe.
@@ -80,7 +80,7 @@ Khi qua sông bằng xe máy, chỉ đi các cầu cho xe máy như Long Biên, 
 
 ## Nếu đi chúc Tết bằng xe máy thuê
 
-Vi phạm nồng độ cồn gắn với người cầm lái, xe thuê hay xe nhà đều như nhau. Đã uống thì không lái, để xe ở nơi an toàn và đi phương tiện khác. Lịch làm việc của cửa hàng dịp Tết, việc nhận lại xe hay đổi lịch trả xe đều cần xác nhận trực tiếp với cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên qua số 0942467674, trong giờ 09:00 đến 21:00. Nếu đã bị lập biên bản khi đang đi xe thuê, xem bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/).
+Vi phạm nồng độ cồn gắn với người cầm lái, xe thuê hay xe nhà đều như nhau. Đã uống thì không lái, để xe ở nơi an toàn và đi phương tiện khác. Lịch làm việc của cửa hàng dịp Tết, việc nhận lại xe hay đổi lịch trả xe đều cần xác nhận trực tiếp với cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên qua số 0942467674, trong giờ 09:00 đến 21:00. Nếu đã bị lập biên bản khi đang đi xe thuê, xem bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-do-con/).
 
 ## Ghi chú về thông tin trong bài
 

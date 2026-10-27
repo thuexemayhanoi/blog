@@ -31,7 +31,7 @@ Vài chia sẻ gần đây của người hay ra khu này còn cho thấy bãi c
 
 Cách chắc nhất là đặt điểm đến trên bản đồ là Phủ Tây Hồ. Phủ nằm trên dải đất nhô ra hồ, đường vào thường đi theo phố Đặng Thai Mai rẽ từ Xuân Diệu. Bãi đất có cây nằm ngay cạnh khu Phủ, quay mặt ra phía hồ rộng.
 
-Từ tiệm tôi ở Long Biên, khách thường qua cầu Chương Dương, chạy theo phía Yên Phụ lên khu Tây Hồ, men Xuân Diệu rồi rẽ vào Đặng Thai Mai. Đoạn cuối đường dẫn có người đi bộ, khách đi lễ băng qua, nên giảm tốc sớm. Cần xem bản đồ thì dừng hẳn vào chỗ an toàn, đừng vừa chạy vừa nhìn điện thoại. Chỗ gửi xe ngày lễ quanh khu đền có trong bài [đến Phủ Tây Hồ bằng xe máy](/du-lich/2026/10/04/en-phu-tay-ho-bang-xe-may-gui-xe-va-uong-i/).
+Từ tiệm tôi ở Long Biên, khách thường qua cầu Chương Dương, chạy theo phía Yên Phụ lên khu Tây Hồ, men Xuân Diệu rồi rẽ vào Đặng Thai Mai. Đoạn cuối đường dẫn có người đi bộ, khách đi lễ băng qua, nên giảm tốc sớm. Cần xem bản đồ thì dừng hẳn vào chỗ an toàn, đừng vừa chạy vừa nhìn điện thoại. Chỗ gửi xe ngày lễ quanh khu đền có trong bài [đến Phủ Tây Hồ bằng xe máy](/du-lich/2026/10/04/den-phu-tay-ho-bang-xe-may-gui-xe-va-duong-di/).
 
 ## Giờ ánh sáng đẹp cho chụp ảnh cây cô đơn Hồ Tây
 
@@ -80,7 +80,7 @@ Tình huống tôi gặp nhiều: một cặp đôi muốn chụp ảnh kỷ ni�
 1. Nhận xe đầu giờ chiều, kiểm tra đèn pha, đèn hậu, phanh, còi.
 2. Qua cầu Chương Dương lên Tây Hồ, gửi xe, đi bộ ra bãi trước giờ lặn khoảng một tiếng.
 3. Chụp hai đợt: nắng xiên trước hoàng hôn, rồi khung trời xanh tím sau đó.
-4. Muốn chạy thêm một vòng hồ thì xem bài [chạy xe quanh Hồ Tây lúc hoàng hôn](/du-lich/2026/09/30/chay-xe-quanh-ho-tay-luc-hoang-hon-cung-uong-va-an-toan/).
+4. Muốn chạy thêm một vòng hồ thì xem bài [chạy xe quanh Hồ Tây lúc hoàng hôn](/du-lich/2026/09/30/chay-xe-quanh-ho-tay-luc-hoang-hon-cung-duong-va-an-toan/).
 
 Tiệm Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, điện thoại 0942 467 674. Tiệm không giao nhận xe ngoài giờ mở cửa; thời gian, chi phí giao nhận và đặt cọc xác nhận trực tiếp với cửa hàng khi đặt xe.
 

@@ -65,7 +65,7 @@ Bài không biết tiệm sẽ trả lời ra sao. Nếu hai bên chưa thống 
 
 Dù đồng ý hay đề xuất khác, hãy kết thúc bằng một tin tóm tắt: lịch trả mới, điều đã thống nhất, và xin tiệm nhắn lại đã nhận. Ảnh chụp màn hình cuộc trò chuyện sau đó là mốc đủ để đối chiếu nếu về sau có hiểu lầm.
 
-Đừng coi điều nói qua điện thoại là đã chốt. Nếu có gọi, hãy nhắn lại một tin tóm tắt những gì vừa nói. Bài [đặt trước một dòng xe nhưng chỉ còn dòng khác: nhận hay đổi lịch](/hoi-dap/2026/10/11/at-truoc-mot-dong-xe-nhung-chi-con-dong-khac-nhan-hay-oi-lich/) nói thêm về việc chốt lại lịch bằng văn bản khi tiệm đổi phương án.
+Đừng coi điều nói qua điện thoại là đã chốt. Nếu có gọi, hãy nhắn lại một tin tóm tắt những gì vừa nói. Bài [đặt trước một dòng xe nhưng chỉ còn dòng khác: nhận hay đổi lịch](/hoi-dap/2026/10/11/dat-truoc-mot-dong-xe-nhung-chi-con-dong-khac-nhan-hay-doi-lich/) nói thêm về việc chốt lại lịch bằng văn bản khi tiệm đổi phương án.
 
 ## Khi trả xe sớm: kiểm xe và chụp ảnh như lúc trả bình thường
 

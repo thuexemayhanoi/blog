@@ -28,7 +28,7 @@ Vài cách để không đi nhầm:
 - **Thấy biển xanh lá báo lối vào cao tốc thì đi tiếp, không rẽ.**
 - **Lỡ đi vào nhánh dẫn lên cao tốc:** dừng sát lề an toàn khi chưa nhập làn chính, dắt xe quay lại theo lề, không chạy ngược chiều trên làn xe.
 
-Vì sao xe máy không được vào cao tốc và nên làm gì khi đi lạc vào đường cấm, bạn đọc thêm ở bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/) và bài [lỡ đi vào đường cấm xe máy, cách thoát ra an toàn](/thue-xe/2026/10/14/lo-di-vao-duong-cam-xe-may-nhu-duong-tren-cao-vanh-dai-3-cach-thoat-ra-an-toan-v/).
+Vì sao xe máy không được vào cao tốc và nên làm gì khi đi lạc vào đường cấm, bạn đọc thêm ở bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/) và bài [lỡ đi vào đường cấm xe máy, cách thoát ra an toàn](/thue-xe/2026/10/14/lo-di-vao-duong-cam-xe-may-nhu-duong-tren-cao-vanh-dai-3-cach-thoat-ra-an-toan-v/).
 
 ## Từ nội thành xuống Thường Tín: Giải Phóng, Ngọc Hồi rồi thẳng hướng nam
 
@@ -54,7 +54,7 @@ Hết Giải Phóng, đường đổi tên thành Ngọc Hồi, đi qua Văn Đi
 
 Ngày thường, khách đến không đông, bạn hỏi người trông coi hoặc người dân quanh cổng chỗ được để xe, đừng tự dựng xe sát tam quan hay chắn lối đi. Ngày rằm, mùng một, và nhất là dịp hội tháng Giêng, các nguồn ghi hội chính diễn ra khoảng mùng tám đến mùng mười tháng Giêng âm lịch. Lúc ấy chỗ để xe do làng sắp xếp, cứ theo người hướng dẫn và hỏi giá gửi trước.
 
-Trước khi rời xe, khóa cổ, rút chìa, mang mũ bảo hiểm theo hoặc khóa vào xe. Đồ lễ gọn gàng đặt trong cốp hoặc túi buộc chắc, cách sắp xếp được nói kỹ trong bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-o-i-le-chua-au-nam-tren-xe-may/). Nên mang theo áo dài tay hoặc khăn choàng mỏng, chai nước, ít tiền lẻ.
+Trước khi rời xe, khóa cổ, rút chìa, mang mũ bảo hiểm theo hoặc khóa vào xe. Đồ lễ gọn gàng đặt trong cốp hoặc túi buộc chắc, cách sắp xếp được nói kỹ trong bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-do-di-le-chua-dau-nam-tren-xe-may/). Nên mang theo áo dài tay hoặc khăn choàng mỏng, chai nước, ít tiền lẻ.
 
 ## Chùa Đậu ở đâu trong lịch sử và nét đặc biệt nên biết trước
 

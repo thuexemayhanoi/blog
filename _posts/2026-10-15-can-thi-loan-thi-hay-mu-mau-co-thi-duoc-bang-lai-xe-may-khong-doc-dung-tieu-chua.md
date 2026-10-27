@@ -83,7 +83,7 @@ Có bằng rồi, thói quen đeo kính khi lái mới là điều giữ an toà
 
 - Trời mưa và ban đêm, kính dễ đọng nước và lóa đèn; giảm tốc độ, giữ khoảng cách xa hơn.
 
-Cách chọn kính đeo vừa dưới mũ bảo hiểm có trong bài [đeo kính cận dưới mũ bảo hiểm khi đi xe máy](/ky-nang/2026/10/11/eo-kinh-can-duoi-mu-bao-hiem-khi-i-xe-may-chon-kieu-nao/). Phạm vi xe được lái theo hạng A1 có trong bài [hạng A1 lái được những loại xe máy nào](/an-toan-phap-ly/2026/10/09/hang-a1-lai-uoc-nhung-loai-xe-may-nao/).
+Cách chọn kính đeo vừa dưới mũ bảo hiểm có trong bài [đeo kính cận dưới mũ bảo hiểm khi đi xe máy](/ky-nang/2026/10/11/deo-kinh-can-duoi-mu-bao-hiem-khi-di-xe-may-chon-kieu-nao/). Phạm vi xe được lái theo hạng A1 có trong bài [hạng A1 lái được những loại xe máy nào](/an-toan-phap-ly/2026/10/09/hang-a1-lai-duoc-nhung-loai-xe-may-nao/).
 
 Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên chỉ cho thuê xe, không làm dịch vụ khám hay bằng lái. Khi cần thuê xe với bằng hợp lệ, gọi 0942467674 trong giờ 09:00 đến 21:00.
 

@@ -87,7 +87,7 @@ Chi tiết hơn có ở bài [dừng xe máy giữa phố để hỏi đường,
 
 ## Xe thuê và giá đỡ điện thoại
 
-Nếu bạn thuê xe ở Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, hãy hỏi trước khi tự gắn giá đỡ lên tay lái hay gương. Xem thêm bài [hỏi cửa hàng trước khi gắn giá đỡ lên xe thuê](/thue-xe/2026/10/12/gan-gia-o-ien-thoai-len-xe-may-thue-hoi-cua-hang-va-thao-gon-khi-tra/). Cần hỏi thêm, gọi 0942467674 trong giờ 09:00–21:00.
+Nếu bạn thuê xe ở Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, hãy hỏi trước khi tự gắn giá đỡ lên tay lái hay gương. Xem thêm bài [hỏi cửa hàng trước khi gắn giá đỡ lên xe thuê](/thue-xe/2026/10/12/gan-gia-do-dien-thoai-len-xe-may-thue-hoi-cua-hang-va-thao-gon-khi-tra/). Cần hỏi thêm, gọi 0942467674 trong giờ 09:00–21:00.
 
 ## Nguồn tham khảo
 

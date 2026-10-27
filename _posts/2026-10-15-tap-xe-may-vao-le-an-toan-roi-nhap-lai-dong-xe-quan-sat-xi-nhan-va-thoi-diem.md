@@ -64,7 +64,7 @@ Dừng hẳn rồi mới cầm máy. Vừa chạy vừa nghe điện thoại là
 
 ### Đứng ở đâu khi xuống xe
 
-Nếu xuống xe, đứng về phía vỉa hè, không đứng giữa xe và dòng xe. Đi nhóm vài xe thì xếp hàng dọc theo lề, không dàn hàng ngang chiếm nửa làn. Khi dừng gần hàng ô tô đỗ, để ý cửa xe có thể bật mở bất cứ lúc nào, đọc thêm [đi qua hàng ô tô đỗ ven đường](/ky-nang/2026/10/11/i-qua-hang-o-to-o-ven-uong-cua-xe-bat-mo-va-nguoi-buoc-ra-giua-cac-xe/).
+Nếu xuống xe, đứng về phía vỉa hè, không đứng giữa xe và dòng xe. Đi nhóm vài xe thì xếp hàng dọc theo lề, không dàn hàng ngang chiếm nửa làn. Khi dừng gần hàng ô tô đỗ, để ý cửa xe có thể bật mở bất cứ lúc nào, đọc thêm [đi qua hàng ô tô đỗ ven đường](/ky-nang/2026/10/11/di-qua-hang-o-to-do-ven-duong-cua-xe-bat-mo-va-nguoi-buoc-ra-giua-cac-xe/).
 
 ## Nhập lại dòng xe máy đúng lúc
 
@@ -82,7 +82,7 @@ Gạt chân chống, nổ máy, chỉnh lại gương nếu lúc dừng lỡ va 
 4. Chạy sát lề một đoạn ngắn cho có đà, rồi mới nhích dần vào giữa làn.
 5. Tắt xi nhan khi đã hòa vào dòng xe.
 
-Xi nhan không cho bạn quyền chen vào. Nó chỉ báo ý định, còn quyền đi thuộc về xe đang chạy trên làn. Cách phối hợp gương, xi nhan và ngoái vai được nói kỹ hơn trong bài [chuyển làn an toàn khi đi xe máy](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-i-xe-may-guong-xi-nhan-vai/).
+Xi nhan không cho bạn quyền chen vào. Nó chỉ báo ý định, còn quyền đi thuộc về xe đang chạy trên làn. Cách phối hợp gương, xi nhan và ngoái vai được nói kỹ hơn trong bài [chuyển làn an toàn khi đi xe máy](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-di-xe-may-guong-xi-nhan-vai/).
 
 ### Khi dòng xe không ngớt
 
@@ -92,7 +92,7 @@ Giờ tan tầm trên các trục như Cầu Giấy, Kim Mã hay Nguyễn Văn C
 
 - Lạc đường ở phố cổ: nhiều phố là đường một chiều. Dừng xem bản đồ xong, đừng quay đầu chạy ngược chiều cho nhanh; đi tiếp một vòng quanh khu phố sẽ an toàn hơn.
 - Trời đổ mưa giữa đường: tấp vào chỗ có mái hiên ở đoạn lề rộng để mặc áo mưa, không dừng dưới gầm cầu vượt hay ngay đầu cầu.
-- Quen lái bên trái: khách từ những nước đi bên trái thường theo phản xạ nhìn sai gương khi tấp vào và khi rời lề. Đọc thêm [những phản xạ cần đổi khi lần đầu đi xe máy ở Hà Nội](/ky-nang/2026/10/11/quen-i-ben-trai-uong-lan-au-i-xe-may-o-ha-noi-nhung-phan-xa-can-oi/).
+- Quen lái bên trái: khách từ những nước đi bên trái thường theo phản xạ nhìn sai gương khi tấp vào và khi rời lề. Đọc thêm [những phản xạ cần đổi khi lần đầu đi xe máy ở Hà Nội](/ky-nang/2026/10/11/quen-di-ben-trai-duong-lan-dau-di-xe-may-o-ha-noi-nhung-phan-xa-can-doi/).
 - Đi trên đường lớn có vạch tách làn xe máy: tấp vào lề vẫn phải đi qua làn xe máy bên phải, nên quan sát vai phải càng quan trọng.
 
 ## Lưu ý riêng khi đi xe thuê

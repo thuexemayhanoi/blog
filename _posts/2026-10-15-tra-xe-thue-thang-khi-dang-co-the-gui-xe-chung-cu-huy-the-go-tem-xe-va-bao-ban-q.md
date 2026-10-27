@@ -53,13 +53,13 @@ Nếu cửa hàng đồng ý để bạn tự gỡ, vài nguyên tắc nên gi�
 - **Bóc chậm, kéo sát mặt sơn** theo một góc thấp, không giật lên.
 - **Vệt keo còn sót** chỉ nên lau bằng khăn mềm và nước ấm pha chút xà phòng. Còn dính nhiều thì để nguyên và báo cửa hàng.
 
-Chụp ảnh vị trí dán tem trước và sau khi gỡ. Ảnh này cùng ảnh lúc nhận xe là bằng chứng gọn nhất cho tình trạng sơn. Các mục nên đối chiếu khi bàn giao được tổng hợp trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/).
+Chụp ảnh vị trí dán tem trước và sau khi gỡ. Ảnh này cùng ảnh lúc nhận xe là bằng chứng gọn nhất cho tình trạng sơn. Các mục nên đối chiếu khi bàn giao được tổng hợp trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/).
 
 ## Lịch ngược từ ngày trả xe thuê tháng ở chung cư
 
 Đặt ngày trả xe làm mốc rồi tính ngược, bạn sẽ không phải dồn hết việc vào buổi cuối:
 
-**Khoảng mười ngày trước:** xem lại hợp đồng thuê, xác nhận ngày trả với cửa hàng. Bài [nhắc lịch trả xe thuê theo tháng](/thue-xe/2026/10/07/nhac-lich-tra-xe-may-thue-theo-thang-the-nao-cho-eu/) có cách đặt nhắc việc trên điện thoại. Kiểm tra hạn chót báo hủy thẻ của tòa nhà.
+**Khoảng mười ngày trước:** xem lại hợp đồng thuê, xác nhận ngày trả với cửa hàng. Bài [nhắc lịch trả xe thuê theo tháng](/thue-xe/2026/10/07/nhac-lich-tra-xe-may-thue-theo-thang-the-nao-cho-deu/) có cách đặt nhắc việc trên điện thoại. Kiểm tra hạn chót báo hủy thẻ của tòa nhà.
 
 **Khoảng một tuần trước:** lên quầy quản lý hỏi theo danh sách ở trên. Nếu sẽ thuê tiếp xe khác, hỏi luôn thủ tục chuyển thẻ.
 
@@ -83,6 +83,6 @@ Nếu quầy quản lý chỉ làm giờ hành chính mà bạn trả xe buổi 
 
 Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00. Người ở chung cư quanh Việt Hưng, Sài Đồng hay bên kia sông ở Hoàn Kiếm đều có thể sắp giờ trả trong khung này. Nếu muốn nhân viên tới nhận xe tại chung cư, thời gian và chi phí cần xác nhận với cửa hàng trước, và việc giao nhận chỉ diễn ra trong giờ hoạt động.
 
-Khi tới nơi, nói luôn với nhân viên là xe vừa gửi ở chung cư, tem đã gỡ hay chưa. Các bước nhận lại tiền cọc và đối chiếu tình trạng xe có trong bài [nhận lại tiền cọc khi trả xe](/thue-xe/2026/09/27/nhan-lai-tien-coc-khi-tra-xe-ieu-kien-thuong-gap/). Mức cọc cụ thể do cửa hàng xác nhận trực tiếp. Có câu hỏi trước ngày trả, gọi 0942467674.
+Khi tới nơi, nói luôn với nhân viên là xe vừa gửi ở chung cư, tem đã gỡ hay chưa. Các bước nhận lại tiền cọc và đối chiếu tình trạng xe có trong bài [nhận lại tiền cọc khi trả xe](/thue-xe/2026/09/27/nhan-lai-tien-coc-khi-tra-xe-dieu-kien-thuong-gap/). Mức cọc cụ thể do cửa hàng xác nhận trực tiếp. Có câu hỏi trước ngày trả, gọi 0942467674.
 
 Tóm lại, trả xe thuê tháng ở chung cư gồm hai việc song song: khép lại với bãi xe của tòa nhà và bàn giao xe với cửa hàng. Hỏi ban quản lý sớm, xin xác nhận bằng chữ, hỏi cửa hàng trước khi gỡ tem, mọi chuyện sẽ gọn trong một buổi. Các bài khác về giao và trả xe nằm ở mục [nhận xe và trả xe](/thue-xe/nhan-tra-xe/), còn kinh nghiệm thuê xe nói chung có trong chuyên mục [thuê xe](/thue-xe/).

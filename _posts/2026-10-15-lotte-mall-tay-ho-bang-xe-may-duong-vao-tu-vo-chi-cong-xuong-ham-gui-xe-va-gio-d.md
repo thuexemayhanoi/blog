@@ -25,7 +25,7 @@ Vì khu này có hai mặt đường, việc đầu tiên là quyết định m�
 
 **Từ phía phố cổ, Long Biên.** Từ bên kia sông Hồng, nhiều người đi qua cầu Chương Dương hoặc cầu Long Biên, theo Trần Nhật Duật, Yên Phụ, Nghi Tàm lên Âu Cơ, rồi vào Lạc Long Quân để tiếp cận mặt sau của khu. Phố này hẹp hơn, giờ tan tầm khá chật, nên đi chậm và để ý xe rẽ ra từ các ngõ.
 
-**Từ Đông Anh hoặc sân bay về.** Cầu Nhật Tân cho xe máy đi theo làn riêng. Xuống cầu phía Tây Hồ là vào thẳng Võ Chí Công, trung tâm nằm không xa đầu cầu. Đoạn này có nhiều nhánh đường dẫn tách nhập, nên đọc biển chỉ hướng dành cho xe máy và đừng chuyển làn đột ngột. Nếu chưa quen cầu, xem thêm bài [đến cầu Nhật Tân bằng xe máy](/du-lich/2026/10/04/en-cau-nhat-tan-bang-xe-may-uong-i-va-luu-y-chay-tren-cau/).
+**Từ Đông Anh hoặc sân bay về.** Cầu Nhật Tân cho xe máy đi theo làn riêng. Xuống cầu phía Tây Hồ là vào thẳng Võ Chí Công, trung tâm nằm không xa đầu cầu. Đoạn này có nhiều nhánh đường dẫn tách nhập, nên đọc biển chỉ hướng dành cho xe máy và đừng chuyển làn đột ngột. Nếu chưa quen cầu, xem thêm bài [đến cầu Nhật Tân bằng xe máy](/du-lich/2026/10/04/den-cau-nhat-tan-bang-xe-may-duong-di-va-luu-y-chay-tren-cau/).
 
 Một nguyên tắc chung: nếu đã lỡ lối rẽ, cứ đi tiếp tới chỗ được phép quay đầu hoặc vòng theo phố nhánh, tuyệt đối không quay xe giữa dòng hay đi ngược chiều trên làn sát vỉa hè.
 
@@ -52,7 +52,7 @@ Bãi xe máy ở đây rộng, chia thành nhiều khu, nhiều hàng trông g�
 
 **Nhớ lối thang máy hoặc thang bộ mình vừa đi lên.** Lúc về, quay lại đúng cửa đó, bạn sẽ ra gần xe hơn.
 
-Trước khi rời xe, khóa cổ, rút chìa hoặc tắt Smartkey, và nhớ một chi tiết riêng như biển số hay miếng dán để khỏi nhầm với xe cùng mẫu cùng màu. Các mẹo cho bãi đông người có trong bài [gửi xe máy ở trung tâm thương mại giờ cao điểm](/ky-nang/2026/10/11/gui-xe-may-o-trung-tam-thuong-mai-gio-cao-iem/).
+Trước khi rời xe, khóa cổ, rút chìa hoặc tắt Smartkey, và nhớ một chi tiết riêng như biển số hay miếng dán để khỏi nhầm với xe cùng mẫu cùng màu. Các mẹo cho bãi đông người có trong bài [gửi xe máy ở trung tâm thương mại giờ cao điểm](/ky-nang/2026/10/11/gui-xe-may-o-trung-tam-thuong-mai-gio-cao-diem/).
 
 ## Giờ đông: khi nào nên đi, khi nào nên tránh
 
@@ -68,7 +68,7 @@ Nếu chỉ rảnh cuối tuần, hãy tới sớm hơn giờ cao điểm một 
 
 Đến lúc về, mở ảnh vị trí xe trước khi xuống hầm, đi đúng thang đã ghi nhớ. Kiểm tra lại gương, đèn, mũ và đồ trong cốp. Lên dốc ra, giữ ga đều, không dừng giữa dốc nếu không bắt buộc.
 
-Ra tới mặt đường, nhìn biển chỉ hướng trước khi nhập dòng. Muốn về Cầu Giấy thì nhập làn xe máy phía vỉa hè trên Võ Chí Công. Muốn dạo ven hồ thì nối sang Lạc Long Quân, ghé thêm vài điểm theo gợi ý trong bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/uong-lac-long-quan-chay-xe-buoi-chieu-iem-dung-ven-ho/). Trời tối, bật đèn cốt và đi chậm qua các đoạn đông người đi bộ quanh khu ăn uống.
+Ra tới mặt đường, nhìn biển chỉ hướng trước khi nhập dòng. Muốn về Cầu Giấy thì nhập làn xe máy phía vỉa hè trên Võ Chí Công. Muốn dạo ven hồ thì nối sang Lạc Long Quân, ghé thêm vài điểm theo gợi ý trong bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/duong-lac-long-quan-chay-xe-buoi-chieu-diem-dung-ven-ho/). Trời tối, bật đèn cốt và đi chậm qua các đoạn đông người đi bộ quanh khu ăn uống.
 
 ## Gợi ý ngắn trước khi đi
 

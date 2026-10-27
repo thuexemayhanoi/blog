@@ -73,7 +73,7 @@ Nếu xe gây tai nạn được tìm thấy và có bảo hiểm, hướng xử
 
 ## Nếu bạn đang đi xe thuê ở Hà Nội
 
-Khách thuê xe hay chạy qua cầu Chương Dương, Vĩnh Tuy hay lên Gia Lâm, Đông Anh vào buổi tối. Nếu bị tông khi đang lái xe thuê, hãy lo sức khỏe và báo công an trước, rồi báo cửa hàng để ghi nhận tình trạng xe. Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (mở cửa 09:00 đến 21:00): bảo hiểm của từng xe và trách nhiệm của người thuê khi có sự cố cần xác nhận trực tiếp qua số 0942467674 trước khi nhận xe. Sản phẩm bảo hiểm tai nạn tự nguyện cho chính người lái được bàn ở bài [bảo hiểm tai nạn cho người đi xe máy thuê](/an-toan-phap-ly/2026/10/07/bao-hiem-tai-nan-cho-nguoi-i-xe-may-thue-nen-mua-khong/).
+Khách thuê xe hay chạy qua cầu Chương Dương, Vĩnh Tuy hay lên Gia Lâm, Đông Anh vào buổi tối. Nếu bị tông khi đang lái xe thuê, hãy lo sức khỏe và báo công an trước, rồi báo cửa hàng để ghi nhận tình trạng xe. Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (mở cửa 09:00 đến 21:00): bảo hiểm của từng xe và trách nhiệm của người thuê khi có sự cố cần xác nhận trực tiếp qua số 0942467674 trước khi nhận xe. Sản phẩm bảo hiểm tai nạn tự nguyện cho chính người lái được bàn ở bài [bảo hiểm tai nạn cho người đi xe máy thuê](/an-toan-phap-ly/2026/10/07/bao-hiem-tai-nan-cho-nguoi-di-xe-may-thue-nen-mua-khong/).
 
 ## Nguồn tham khảo và lưu ý
 

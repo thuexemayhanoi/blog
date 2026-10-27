@@ -51,7 +51,7 @@ Từ cổng trở lên, đường hẹp, quanh co, dốc liên tục, nhiều kh
 
 Chiều về khó hơn lúc lên. Không tắt máy hay về số mo để thả trôi. Với xe số, giữ số thấp để động cơ ghìm xe; với xe ga, bóp phanh trước và sau nhẹ theo nhịp, nhả ra rồi bóp lại, tránh bóp chết một mạch khiến phanh nóng và kém ăn. Thấy tay mỏi thì tấp vào chỗ rộng nghỉ vài phút.
 
-Kỹ thuật chạy dốc buổi sáng, khi sương còn đọng trên mặt đường, có trong bài [chạy xe máy lên Ba Vì buổi sáng](/du-lich/2026/10/04/chay-xe-may-len-ba-vi-buoi-sang-uong-doc-va-luu-y/).
+Kỹ thuật chạy dốc buổi sáng, khi sương còn đọng trên mặt đường, có trong bài [chạy xe máy lên Ba Vì buổi sáng](/du-lich/2026/10/04/chay-xe-may-len-ba-vi-buoi-sang-duong-doc-va-luu-y/).
 
 ## Gửi xe ở cốt 400
 

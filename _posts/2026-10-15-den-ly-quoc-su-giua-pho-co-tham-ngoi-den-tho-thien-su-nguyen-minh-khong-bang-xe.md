@@ -33,7 +33,7 @@ Cách đi tôi hay dặn khách:
 
 1. **Chọn một trục lớn để tới gần**, như Hàng Bông, Hàng Trống hoặc Lê Thái Tổ bên hồ Hoàn Kiếm, thay vì theo bản đồ luồn từng ngõ nhỏ.
 2. **Đặt đích đến là chỗ gửi xe, không phải cổng đền.** Phố Lý Quốc Sư hẹp và đông khách đi bộ, chạy xe tới tận cổng rồi mới tìm chỗ dựng là cách nhanh nhất để kẹt giữa phố.
-3. **Đọc biển báo ở đầu mỗi phố.** Phố cổ có đoạn một chiều, có đoạn hạn chế xe máy theo giờ hoặc vào các tối cuối tuần. Gặp biển cấm thì vòng ra trục khác, không lách. Bài [biển báo cấm xe máy hay gặp khi đi phố cổ](/an-toan-phap-ly/2026/10/09/bien-bao-cam-xe-may-gap-khi-i-pho-co-xu-ly-sao/) giải thích kỹ từng loại.
+3. **Đọc biển báo ở đầu mỗi phố.** Phố cổ có đoạn một chiều, có đoạn hạn chế xe máy theo giờ hoặc vào các tối cuối tuần. Gặp biển cấm thì vòng ra trục khác, không lách. Bài [biển báo cấm xe máy hay gặp khi đi phố cổ](/an-toan-phap-ly/2026/10/09/bien-bao-cam-xe-may-gap-khi-di-pho-co-xu-ly-sao/) giải thích kỹ từng loại.
 
 Người ở Long Biên vào phố cổ có thể đi cầu Chương Dương hoặc cầu Long Biên, rồi theo các trục quanh hồ để tới khu Nhà thờ. Khung giờ dễ chạy nhất là giữa buổi sáng ngày thường. Chiều tối và cuối tuần, cả khu đông lên rõ, như đã nói trong bài [chạy xe máy trong phố cổ giờ nào nên tránh](/du-lich/2026/09/28/chay-xe-may-trong-pho-co-gio-nao-nen-tranh/).
 
@@ -46,7 +46,7 @@ Tôi không giới thiệu một bãi cụ thể nào quanh đền, vì chỗ tr
 - **Hỏi giờ chỗ gửi đóng cửa** nếu bạn định đi tiếp ăn tối quanh Nhà thờ Lớn hay Hàng Bông.
 - **Khóa cổ, rút chìa, chụp ảnh vé và vị trí xe.** Phố cổ nhiều bãi na ná nhau, chụp lại tên phố đỡ phải đi tìm.
 
-Gửi xe một lần cho cả buổi rồi đi bộ là cách hợp nhất. Từ chỗ gửi tới đền chỉ vài phút, và cùng chuyến đó bạn ghé luôn Nhà thờ Lớn, dạo Hàng Trống ra hồ Hoàn Kiếm. Cách vào khu Nhà thờ và chỗ dựng xe quanh đó có trong bài [đến Nhà thờ Lớn Hà Nội bằng xe máy](/du-lich/2026/09/30/en-nha-tho-lon-ha-noi-bang-xe-may-gui-xe-va-uong-i/).
+Gửi xe một lần cho cả buổi rồi đi bộ là cách hợp nhất. Từ chỗ gửi tới đền chỉ vài phút, và cùng chuyến đó bạn ghé luôn Nhà thờ Lớn, dạo Hàng Trống ra hồ Hoàn Kiếm. Cách vào khu Nhà thờ và chỗ dựng xe quanh đó có trong bài [đến Nhà thờ Lớn Hà Nội bằng xe máy](/du-lich/2026/09/30/den-nha-tho-lon-ha-noi-bang-xe-may-gui-xe-va-duong-di/).
 
 ## Vào thăm đền: giữ lễ và để ý giờ
 

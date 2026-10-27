@@ -64,7 +64,7 @@ Leo lên, chụp ảnh rồi xuống thường mất một tiếng rưỡi đế
 3. Khóa cổ, rút chìa mang theo người. Giấy tờ xe tiệm đưa kèm cũng để trong túi mình, không bỏ trong cốp.
 4. Cốp xe tay ga thường vừa mũ nửa đầu; mũ không vừa cốp thì hỏi người trông xe chỗ gửi, đừng treo lủng lẳng trên gương.
 
-Lỡ mất vé thì báo ngay người trông xe và xuất trình giấy tờ để đối chiếu. Muốn xem cách gửi xe ở khu bến thuyền gần đó, đọc thêm bài [đi khu Tràng An bằng xe máy thuê đỗ xe ở đâu](/cung-duong/2026/10/07/i-khu-trang-an-bang-xe-may-thue-o-xe-o-au/).
+Lỡ mất vé thì báo ngay người trông xe và xuất trình giấy tờ để đối chiếu. Muốn xem cách gửi xe ở khu bến thuyền gần đó, đọc thêm bài [đi khu Tràng An bằng xe máy thuê đỗ xe ở đâu](/cung-duong/2026/10/07/di-khu-trang-an-bang-xe-may-thue-do-xe-o-dau/).
 
 ## Một ngày mẫu và giờ chạy về Hà Nội
 

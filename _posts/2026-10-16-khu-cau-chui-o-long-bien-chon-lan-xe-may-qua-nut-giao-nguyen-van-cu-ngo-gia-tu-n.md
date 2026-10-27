@@ -43,7 +43,7 @@ Chúng tôi chưa tìm thấy tài liệu chính thức nào mô tả làn riên
 - **Nguyễn Văn Linh đi cầu Đông Trù**: đây là trục của cầu vượt; trong đợt sửa cầu cuối năm 2026, xe máy phải đi đường song hành bên dưới.
 - **Lỡ nhánh rẽ**: đi tiếp hết vòng xuyến để quay lại nhánh cần ra, không quay đầu hay lùi xe giữa nút.
 
-Khi vào vòng xuyến, nhường xe đang đi trong vòng tới từ bên trái; cách nhập vòng và thoát ra đúng nhánh có ở bài [đi xe máy qua vòng xuyến đông xe](/ky-nang/2026/10/15/di-xe-may-qua-vong-xuyen-dong-xe-chon-lan-nhuong-ben-trai-va-thoat-ra-dung-nhanh/ "Đi xe máy qua vòng xuyến đông xe"). Nguyên tắc đi đúng làn ở nút lớn có ở bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/ung-lan-xe-may-khi-qua-nut-giao-lon/ "Đúng làn xe máy khi qua nút giao lớn").
+Khi vào vòng xuyến, nhường xe đang đi trong vòng tới từ bên trái; cách nhập vòng và thoát ra đúng nhánh có ở bài [đi xe máy qua vòng xuyến đông xe](/ky-nang/2026/10/15/di-xe-may-qua-vong-xuyen-dong-xe-chon-lan-nhuong-ben-trai-va-thoat-ra-dung-nhanh/ "Đi xe máy qua vòng xuyến đông xe"). Nguyên tắc đi đúng làn ở nút lớn có ở bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/dung-lan-xe-may-khi-qua-nut-giao-lon/ "Đúng làn xe máy khi qua nút giao lớn").
 
 Một lưu ý pháp lý: Luật Trật tự, an toàn giao thông đường bộ cấm dừng, đỗ xe dưới gầm cầu vượt, trừ nơi được phép. Muốn xem lại bản đồ, hãy tấp vào chỗ an toàn cách xa nút giao.
 

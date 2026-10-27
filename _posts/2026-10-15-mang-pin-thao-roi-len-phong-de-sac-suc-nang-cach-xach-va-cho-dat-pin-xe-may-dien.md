@@ -74,7 +74,7 @@ Trong lúc sạc, thỉnh thoảng để ý:
 - Khi rút, rút phích khỏi ổ tường trước, sau đó mới tháo đầu sạc khỏi pin.
 - Sạc đầy thì rút, không cắm mãi cho tiện.
 
-Nếu pin không nhận sạc hoặc đèn báo hiện khác lúc chủ xe hướng dẫn, xem thêm các bước trong bài [xe điện không nhận sạc](/xe-may/2026/10/04/xe-ien-khong-nhan-sac-cac-buoc-kiem-tra-ban-au/) rồi gọi chủ xe, đừng tự xử lý sâu hơn.
+Nếu pin không nhận sạc hoặc đèn báo hiện khác lúc chủ xe hướng dẫn, xem thêm các bước trong bài [xe điện không nhận sạc](/xe-may/2026/10/04/xe-dien-khong-nhan-sac-cac-buoc-kiem-tra-ban-dau/) rồi gọi chủ xe, đừng tự xử lý sâu hơn.
 
 ## Lắp pin lại trước khi đi
 
@@ -89,4 +89,4 @@ Nếu đồng hồ báo lỗi, tắt nguồn, lắp lại một lần; vẫn l�
 
 ## Tóm lại
 
-Mang pin lên phòng sạc là cách hợp lý cho người không dắt được xe vào nhà, miễn là làm đúng bốn việc: tháo pin khi đã tắt nguồn, xách bằng quai với tư thế gập gối, đặt pin sạc ở chỗ cứng, khô, thoáng và xa đồ dễ cháy, và chỉ sạc khi có người trông. Người thuê xe theo tháng ở trọ có thể đọc thêm [xe máy điện thuê theo tháng khi ở trọ](/thue-xe/2026/10/11/xe-may-ien-thue-theo-thang-khi-o-tro-cho-sac-an-toan-va-quang-uong/). Các bài khác về xe điện nằm ở chuyên mục [xe máy điện](/xe-may/xe-dien/), còn kinh nghiệm chung về xe thuê có ở mục [xe máy](/xe-may/).
+Mang pin lên phòng sạc là cách hợp lý cho người không dắt được xe vào nhà, miễn là làm đúng bốn việc: tháo pin khi đã tắt nguồn, xách bằng quai với tư thế gập gối, đặt pin sạc ở chỗ cứng, khô, thoáng và xa đồ dễ cháy, và chỉ sạc khi có người trông. Người thuê xe theo tháng ở trọ có thể đọc thêm [xe máy điện thuê theo tháng khi ở trọ](/thue-xe/2026/10/11/xe-may-dien-thue-theo-thang-khi-o-tro-cho-sac-an-toan-va-quang-duong/). Các bài khác về xe điện nằm ở chuyên mục [xe máy điện](/xe-may/xe-dien/), còn kinh nghiệm chung về xe thuê có ở mục [xe máy](/xe-may/).

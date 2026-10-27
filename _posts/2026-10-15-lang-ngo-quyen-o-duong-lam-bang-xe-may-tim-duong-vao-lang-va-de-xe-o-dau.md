@@ -34,7 +34,7 @@ Có hai lối quen:
 1. **Quốc lộ 32.** Từ Cầu Giấy theo Xuân Thủy, Hồ Tùng Mậu ra Nhổn, rồi bám quốc lộ qua Trạm Trôi, Phùng, Phúc Thọ vào Sơn Tây. Đường qua nhiều chợ nên chậm, bù lại dễ tìm quán ăn và cây xăng. Ai mê lịch sử có thể rẽ thêm một đoạn ghé [đền Hát Môn ở Phúc Thọ](/du-lich/2026/10/13/den-hat-mon-o-phuc-tho-bang-xe-may-cung-duong-va-gui-xe-ngay-le-hoi/) trên đường đi hoặc lúc về.
 2. **Đường gom Đại lộ Thăng Long.** Hợp với người xuất phát từ Mỹ Đình, Thanh Xuân. Xe máy chỉ được chạy đường gom hai bên, không lên làn chính. Tới gần Hòa Lạc thì rẽ theo biển chỉ hướng Sơn Tây.
 
-Phân vân chọn hướng nào cho ngày cuối tuần thì bài [đi xe máy ra ngoại thành Hà Nội cuối tuần](/du-lich/2026/09/28/i-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao/) so sánh kỹ hơn.
+Phân vân chọn hướng nào cho ngày cuối tuần thì bài [đi xe máy ra ngoại thành Hà Nội cuối tuần](/du-lich/2026/09/28/di-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao/) so sánh kỹ hơn.
 
 ## Tìm đường vào lăng: đừng chỉ tin bản đồ
 

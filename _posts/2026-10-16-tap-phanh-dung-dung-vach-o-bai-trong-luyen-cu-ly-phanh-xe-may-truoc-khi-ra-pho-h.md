@@ -93,7 +93,7 @@ Muốn luyện phản xạ cho tình huống bất ngờ, đọc thêm bài [pha
 
 Giả sử ở 30 km/h bạn cần chừng mười bước chân để dừng hẳn. Khi chạy sau xe buýt trên phố Nguyễn Văn Cừ, khoảng cách phải dài hơn thế, cộng thêm đoạn xe đi trong lúc bạn phản ứng. Đường đông quá không giữ được khoảng ấy thì giảm tốc độ.
 
-Ở các ngã tư có đèn tại Hoàn Kiếm hay Ba Đình, tập thói quen tính mốc phanh từ xa: đèn xanh đếm ngược còn vài giây thì nhả ga, rà phanh sớm thay vì cố vượt rồi bóp gấp sát vạch. Cách chọn tốc độ theo tầm nhìn có trong bài [dừng được trong tầm mắt khi đi xe máy](/ky-nang/2026/10/11/chon-toc-o-theo-oan-uong-nhin-thay-dung-uoc-trong-tam-mat-khi-i-xe-may/).
+Ở các ngã tư có đèn tại Hoàn Kiếm hay Ba Đình, tập thói quen tính mốc phanh từ xa: đèn xanh đếm ngược còn vài giây thì nhả ga, rà phanh sớm thay vì cố vượt rồi bóp gấp sát vạch. Cách chọn tốc độ theo tầm nhìn có trong bài [dừng được trong tầm mắt khi đi xe máy](/ky-nang/2026/10/11/chon-toc-do-theo-doan-duong-nhin-thay-dung-duoc-trong-tam-mat-khi-di-xe-may/).
 
 Nhận xe ở cửa hàng tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, bạn có thể nói trước mình là người mới để được chỉ rõ loại phanh trên xe. Trong lúc tập mà thấy phanh có dấu hiệu lạ, gọi 0942 467 674 trong giờ mở cửa từ 09:00 đến 21:00.
 

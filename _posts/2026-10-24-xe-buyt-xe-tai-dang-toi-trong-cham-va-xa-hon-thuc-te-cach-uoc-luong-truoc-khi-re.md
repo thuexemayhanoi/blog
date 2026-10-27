@@ -27,7 +27,7 @@ Chiếc xe lớn cũng thường chạy với tốc độ không thấp. Khi b�
 
 Thay vì nhìn cảm giác, hãy dùng một vật mốc cố định ở đường, ví dụ cột đèn, biển báo hoặc vạch kẻ. Khi đầu xe lớn đi ngang qua vật mốc thứ nhất, bạn bắt đầu đếm thầm một, hai, ba. Khi nó đến vật mốc thứ hai, bạn biết xe cần bao nhiêu giây cho đoạn đó. Con số này thật hơn cảm giác của bạn.
 
-Một mẹo nữa là quan sát tốc độ phình to của xe: nếu hình ảnh xe lớn dần rất nhanh, nó đang tới nhanh. Nếu bạn không chắc, hãy chờ thêm một nhịp, vì chờ chỉ tốn vài giây còn sai thì tốn rất nhiều. Bài [gương cầu lồi ở góc ngõ và lối ra hầm: đọc đúng khoảng cách xe đang tới](/ky-nang/2026/10/11/guong-cau-loi-o-goc-ngo-va-loi-ra-ham-oc-ung-khoang-cach-xe-ang-toi/) cũng nhắc rằng khoảng cách trong gương và ngoài đời lệch nhau.
+Một mẹo nữa là quan sát tốc độ phình to của xe: nếu hình ảnh xe lớn dần rất nhanh, nó đang tới nhanh. Nếu bạn không chắc, hãy chờ thêm một nhịp, vì chờ chỉ tốn vài giây còn sai thì tốn rất nhiều. Bài [gương cầu lồi ở góc ngõ và lối ra hầm: đọc đúng khoảng cách xe đang tới](/ky-nang/2026/10/11/guong-cau-loi-o-goc-ngo-va-loi-ra-ham-doc-dung-khoang-cach-xe-dang-toi/) cũng nhắc rằng khoảng cách trong gương và ngoài đời lệch nhau.
 
 ## Bốn bước trước khi rẽ ngang qua dòng có xe lớn
 
@@ -53,7 +53,7 @@ Bài [rẽ trái ở ngã tư lớn bằng xe máy](/ky-nang/2026/10/15/re-trai-
 
 ## Giữ khoảng cách khi xe lớn ở phía trước hoặc phía sau
 
-Khi bạn đi trước hoặc sau xe lớn, hãy chừa khoảng cách rộng hơn bình thường, vì tầm nhìn của bạn bị che và phản ứng của xe lớn chậm hơn. Bài [giữ khoảng cách với xe container trong nội đô](/ky-nang/2026/09/29/giu-khoang-cach-voi-xe-container-trong-noi-o/) bàn thêm về chuyện này. Nếu bị xe lớn bám sát phía sau, hãy tìm chỗ để nhường đường thay vì cố tăng tốc.
+Khi bạn đi trước hoặc sau xe lớn, hãy chừa khoảng cách rộng hơn bình thường, vì tầm nhìn của bạn bị che và phản ứng của xe lớn chậm hơn. Bài [giữ khoảng cách với xe container trong nội đô](/ky-nang/2026/09/29/giu-khoang-cach-voi-xe-container-trong-noi-do/) bàn thêm về chuyện này. Nếu bị xe lớn bám sát phía sau, hãy tìm chỗ để nhường đường thay vì cố tăng tốc.
 
 Một nguyên tắc đáng nhớ nữa: nếu bạn thấy xe lớn bật đèn xi nhan hay nhấp phanh, hãy tạm hiểu rằng nó sắp đổi hướng hoặc dừng, và hãy chừa chỗ chứ đừng chen qua.
 

@@ -68,12 +68,12 @@ Khi đã tới cửa hàng sửa:
 2. Chờ tiệm đồng ý rồi mới để thợ làm, nhất là khi phải thay phụ tùng.
 3. Giữ hóa đơn, chụp ảnh phụ tùng cũ để tiệm đối chiếu.
 
-Trên đường, nếu có người tự nhận là thợ và đòi sửa ngay giá cao, cứ lịch sự từ chối và gọi tiệm. Nguyên tắc chung khi xe thuê hỏng giữa đường có ở bài [xe thuê thủng lốp hay chết máy: báo cửa hàng trước hay tự sửa](/thue-xe/2026/10/11/xe-thue-thung-lop-hay-chet-may-giua-uong-bao-cua-hang-truoc-hay-tu-sua/ "Xe thuê thủng lốp hay chết máy giữa đường").
+Trên đường, nếu có người tự nhận là thợ và đòi sửa ngay giá cao, cứ lịch sự từ chối và gọi tiệm. Nguyên tắc chung khi xe thuê hỏng giữa đường có ở bài [xe thuê thủng lốp hay chết máy: báo cửa hàng trước hay tự sửa](/thue-xe/2026/10/11/xe-thue-thung-lop-hay-chet-may-giua-duong-bao-cua-hang-truoc-hay-tu-sua/ "Xe thuê thủng lốp hay chết máy giữa đường").
 
 ## Chuẩn bị trước chuyến đi tỉnh
 
 - Lưu số tiệm thuê trong danh bạ và cài sẵn ứng dụng My Honda+.
-- Hỏi tiệm thủ tục, giấy tờ khi mang xe ra khỏi Hà Nội; xem bài [thuê xe máy đi tỉnh khác cần thủ tục thêm gì](/thue-xe/2026/10/07/thue-xe-may-i-tinh-khac-can-thu-tuc-them-gi/ "Thuê xe máy đi tỉnh khác").
+- Hỏi tiệm thủ tục, giấy tờ khi mang xe ra khỏi Hà Nội; xem bài [thuê xe máy đi tỉnh khác cần thủ tục thêm gì](/thue-xe/2026/10/07/thue-xe-may-di-tinh-khac-can-thu-tuc-them-gi/ "Thuê xe máy đi tỉnh khác").
 - Nhắn lịch trình cho người thân; một số vùng núi mất sóng điện thoại.
 - Vùng núi phía Bắc ít tiệm sửa; mẹo xử lý dọc đường có ở bài [đi xa qua vùng ít tiệm sửa](/xe-may/2026/10/15/di-xa-qua-vung-it-tiem-sua-xe-so-hay-xe-ga-de-tim-tho-de-xu-ly-hong-vat-doc-duon/ "Đi xa qua vùng ít tiệm sửa").
 

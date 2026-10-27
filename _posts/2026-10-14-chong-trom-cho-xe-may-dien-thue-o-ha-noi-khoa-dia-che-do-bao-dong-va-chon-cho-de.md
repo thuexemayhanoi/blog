@@ -25,7 +25,7 @@ Xe điện có vài đặc điểm khiến thói quen giữ xe xăng không còn
 - **Xe chạy êm.** Một chiếc xe điện bị dắt hay bị đẩy đi gần như không phát ra tiếng gì, người xung quanh khó nhận ra.
 - **Xe thường được để lâu một chỗ để sạc.** Một chiếc xe cắm sạc ngoài hiên cả đêm, dây sạc thò ra ngoài, là dấu hiệu rõ rằng chủ xe sẽ không quay lại sớm.
 
-Thêm nữa, xe thuê không phải của bạn. Mất pin hay mất xe đều kéo theo thủ tục với cửa hàng và cơ quan chức năng, nên phòng từ đầu vẫn nhẹ nhàng hơn nhiều. Các nguyên tắc chung cho mọi loại xe thuê có trong bài [chống trộm xe máy khi thuê: khóa và cách đỗ xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/); phần dưới đây chỉ đi sâu vào những gì riêng của xe điện.
+Thêm nữa, xe thuê không phải của bạn. Mất pin hay mất xe đều kéo theo thủ tục với cửa hàng và cơ quan chức năng, nên phòng từ đầu vẫn nhẹ nhàng hơn nhiều. Các nguyên tắc chung cho mọi loại xe thuê có trong bài [chống trộm xe máy khi thuê: khóa và cách đỗ xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/); phần dưới đây chỉ đi sâu vào những gì riêng của xe điện.
 
 ## Hỏi cửa hàng ba điều ngay lúc nhận xe
 
@@ -61,7 +61,7 @@ Nếu xe có chế độ báo động, hãy tập thành thói quen bật nó m�
 
 Với xe dùng pin tháo rời, nguy cơ trộm pin xe máy điện thường cao hơn nguy cơ mất cả xe. Cách đơn giản nhất là tháo pin mang theo khi để xe qua đêm hoặc để lâu ở nơi không có người trông, sau đó sạc pin trong phòng. Nếu pin quá nặng để xách lên cầu thang nhà trọ, ít nhất phải chắc hộc pin đã khóa và khóa chìa không còn cắm ở xe.
 
-Không để dây sạc nối từ xe ra ổ điện ngoài hiên qua đêm: vừa là dấu hiệu cho kẻ gian, vừa dễ bị cắt hoặc mang đi cả bộ sạc. So sánh hai kiểu pin khi thuê có trong bài [pin tháo rời hay pin cố định](/xe-may/2026/10/11/pin-thao-roi-hay-pin-co-inh-chon-xe-may-ien-nao-khi-thue-o-ha-noi/).
+Không để dây sạc nối từ xe ra ổ điện ngoài hiên qua đêm: vừa là dấu hiệu cho kẻ gian, vừa dễ bị cắt hoặc mang đi cả bộ sạc. So sánh hai kiểu pin khi thuê có trong bài [pin tháo rời hay pin cố định](/xe-may/2026/10/11/pin-thao-roi-hay-pin-co-dinh-chon-xe-may-dien-nao-khi-thue-o-ha-noi/).
 
 ## Chọn chỗ để xe ở phố đông và nhà trọ
 
@@ -71,7 +71,7 @@ Chỗ để xe quyết định phần lớn rủi ro. Thứ tự ưu tiên:
 2. **Nhà xe tòa nhà hoặc sân nhà trọ có cổng khóa.** Hỏi bảo vệ hay chủ nhà trước xem có cho để xe điện, có cho sạc ở đó không, vì nhiều nơi có quy định riêng.
 3. **Trước cửa hàng quán đang mở, trong tầm mắt bạn**, khi chỉ dừng ngắn. Chọn chỗ có đèn sáng, tránh cuối ngõ tối.
 
-Tránh để xe điện dọc vỉa hè vắng qua đêm, kể cả ở những con ngõ trông có vẻ yên tĩnh ven Hồ Tây. Nếu ở khách sạn trong phố cổ, bài [hỏi lễ tân gì về chỗ để xe, ổ sạc](/xe-may/2026/10/11/khach-san-pho-co-va-xe-ien-thue-hoi-le-tan-gi-ve-cho-e-xe-o-sac/) gợi ý các câu nên hỏi trước khi nhận phòng.
+Tránh để xe điện dọc vỉa hè vắng qua đêm, kể cả ở những con ngõ trông có vẻ yên tĩnh ven Hồ Tây. Nếu ở khách sạn trong phố cổ, bài [hỏi lễ tân gì về chỗ để xe, ổ sạc](/xe-may/2026/10/11/khach-san-pho-co-va-xe-dien-thue-hoi-le-tan-gi-ve-cho-de-xe-o-sac/) gợi ý các câu nên hỏi trước khi nhận phòng.
 
 ## Nếu sáng ra mất xe hoặc mất pin
 

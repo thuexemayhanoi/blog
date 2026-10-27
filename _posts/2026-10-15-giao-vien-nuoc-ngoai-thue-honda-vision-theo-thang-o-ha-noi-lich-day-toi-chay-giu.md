@@ -79,7 +79,7 @@ Với mọi chỗ gửi, khóa cổ xe, không để máy tính hay đồ có gi
 
 ## Giấy tờ khi chạy hằng ngày
 
-Khi đi dạy mỗi ngày, luôn mang theo giấy phép lái xe hợp lệ và giấy tờ xe mà tiệm giao. Việc bằng lái nước ngoài có dùng được ở Việt Nam hay không phụ thuộc loại bằng và quy định hiện hành; bạn nên đọc bài [người nước ngoài có bằng lái nước ngoài đi xe được không](/hoi-dap/2026/09/29/nguoi-nuoc-ngoai-bang-lai-nuoc-ngoai-i-xe-uoc-khong/) và hỏi rõ tiệm trước khi nhận xe.
+Khi đi dạy mỗi ngày, luôn mang theo giấy phép lái xe hợp lệ và giấy tờ xe mà tiệm giao. Việc bằng lái nước ngoài có dùng được ở Việt Nam hay không phụ thuộc loại bằng và quy định hiện hành; bạn nên đọc bài [người nước ngoài có bằng lái nước ngoài đi xe được không](/hoi-dap/2026/09/29/nguoi-nuoc-ngoai-bang-lai-nuoc-ngoai-di-xe-duoc-khong/) và hỏi rõ tiệm trước khi nhận xe.
 
 ## Kết lại
 

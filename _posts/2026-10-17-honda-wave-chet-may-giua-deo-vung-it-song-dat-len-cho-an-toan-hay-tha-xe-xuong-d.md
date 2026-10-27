@@ -66,7 +66,7 @@ Nếu không gọi được, đi bộ lên chỗ cao, thoáng hơn để tìm s�
 - Nhắn lịch trình và giờ dự kiến tới nơi cho người thân hoặc chủ xe.
 - Xuất phát sớm để không phải xử lý sự cố khi trời tối.
 
-Kinh nghiệm chạy đèo gần Hà Nội có ở bài [đi Mai Châu qua đèo Thung Khe](/cung-duong/2026/10/01/i-mai-chau-qua-eo-thung-khe-chay-xe-an-toan-tren-eo/ "Đi Mai Châu qua đèo Thung Khe").
+Kinh nghiệm chạy đèo gần Hà Nội có ở bài [đi Mai Châu qua đèo Thung Khe](/cung-duong/2026/10/01/di-mai-chau-qua-deo-thung-khe-chay-xe-an-toan-tren-deo/ "Đi Mai Châu qua đèo Thung Khe").
 
 Trên bảng giá của Cho Thuê Xe Máy Nguyễn Tú, Honda Vision và Honda Air Blade có giá ngày 200.000 đồng, Honda Wave và Honda Click có giá ngày 150.000 đồng; tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần, điện thoại và Zalo 0942 467 674.
 

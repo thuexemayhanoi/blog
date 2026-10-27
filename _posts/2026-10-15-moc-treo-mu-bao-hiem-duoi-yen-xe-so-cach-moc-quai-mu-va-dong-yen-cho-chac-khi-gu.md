@@ -68,7 +68,7 @@ Nên mang mũ theo hoặc gửi riêng khi:
 - **Bạn để xe lâu**, ví dụ dạo bộ quanh hồ Tây cả buổi chiều hay đi bộ khắp phố cổ buổi tối.
 - **Đỗ xe ở lề đường, vỉa hè** hay chỗ không có người trông.
 
-Nhiều bãi gửi xe ở khu du lịch nhận giữ mũ cùng xe. Bạn có thể hỏi người trông xe có cho để mũ ở chỗ của họ không trước khi đi. Nếu cầm mũ theo, móc quai vào quai ba lô hoặc xỏ tay vào quai để tay còn lại rảnh. Các cách giữ mũ khi rời xe đi bộ được so sánh kỹ hơn trong bài [giữ mũ bảo hiểm khi xuống xe đi bộ](/ky-nang/2026-09-29/giu-mu-bao-hiem-khi-xuong-xe-i-bo/).
+Nhiều bãi gửi xe ở khu du lịch nhận giữ mũ cùng xe. Bạn có thể hỏi người trông xe có cho để mũ ở chỗ của họ không trước khi đi. Nếu cầm mũ theo, móc quai vào quai ba lô hoặc xỏ tay vào quai để tay còn lại rảnh. Các cách giữ mũ khi rời xe đi bộ được so sánh kỹ hơn trong bài [giữ mũ bảo hiểm khi xuống xe đi bộ](/ky-nang/2026-09-29/giu-mu-bao-hiem-khi-xuong-xe-di-bo/).
 
 ## Hai chiếc mũ cho người đi cùng
 

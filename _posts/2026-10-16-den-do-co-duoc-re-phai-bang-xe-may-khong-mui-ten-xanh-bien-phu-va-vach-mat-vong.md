@@ -66,7 +66,7 @@ Hai cách hiểu sai tôi gặp nhiều ở khách mới:
 
 ## Chọn làn từ xa để không bị dồn vào thế khó
 
-Khoản 2 Điều 13 yêu cầu đi trong một làn trên đường có vạch phân làn, chỉ chuyển làn ở nơi cho phép. Khoản 2 Điều 15 yêu cầu trước khi chuyển hướng phải chuyển dần sang làn gần nhất với hướng rẽ. Chi tiết xem bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/ung-lan-xe-may-khi-qua-nut-giao-lon/).
+Khoản 2 Điều 13 yêu cầu đi trong một làn trên đường có vạch phân làn, chỉ chuyển làn ở nơi cho phép. Khoản 2 Điều 15 yêu cầu trước khi chuyển hướng phải chuyển dần sang làn gần nhất với hướng rẽ. Chi tiết xem bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/dung-lan-xe-may-khi-qua-nut-giao-lon/).
 
 Ví dụ trên Nguyễn Văn Cừ hướng về cầu Chương Dương, hay trục Xuân Thủy ở Cầu Giấy, mỗi đoạn có nhiều nút đèn sát nhau. Nhìn mũi tên trên mặt đường từ xa, đi thẳng thì vào làn đi thẳng trước vạch liền, đừng đứng chờ ở làn sát lề chặn người rẽ hợp lệ.
 
@@ -81,7 +81,7 @@ Còn lưỡng lự thì dừng, mất một chu kỳ đèn vẫn hơn.
 
 ## Rẽ sai khi đèn đỏ: hậu quả với người lái xe thuê
 
-Nghị định 168/2024/NĐ-CP quy định xử phạt hành vi không chấp hành hiệu lệnh của đèn tín hiệu giao thông, có thể kèm trừ điểm giấy phép lái xe. Bài không nêu mức phạt; các nhóm lỗi xe máy được tóm lược ở bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-inh-xu-phat-vi-pham-giao-thong-xe-may/).
+Nghị định 168/2024/NĐ-CP quy định xử phạt hành vi không chấp hành hiệu lệnh của đèn tín hiệu giao thông, có thể kèm trừ điểm giấy phép lái xe. Bài không nêu mức phạt; các nhóm lỗi xe máy được tóm lược ở bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-dinh-xu-phat-vi-pham-giao-thong-xe-may/).
 
 Khoản 1 Điều 67 Luật 36/2024 cho phép dùng camera trong đô thị để phát hiện vi phạm, nên cú rẽ vội có thể bị ghi lại dù không ai dừng xe bạn. Với xe thuê, thông báo đi theo biển số về phía chủ xe. Nếu nghi mình đã rẽ sai trong kỳ thuê, hãy báo sớm cho Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (09:00–21:00), qua 0942 467 674 để cùng tra cứu và xác nhận trực tiếp cách xử lý.
 

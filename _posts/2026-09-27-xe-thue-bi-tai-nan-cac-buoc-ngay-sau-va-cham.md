@@ -45,6 +45,6 @@ Sau khi hiện trường đã được giải quyết, việc còn lại là qu�
 
 Chi phí sửa chữa xe thường là điểm cần bàn kỹ nhất. Nguyên tắc phổ biến là trách nhiệm theo mức độ lỗi, do cơ quan có thẩm quyền kết luận, và phần còn lại tùy thỏa thuận với cửa hàng trong hợp đồng thuê. Vì vậy, giữ hóa đơn, báo giá và hình ảnh hư hỏng, đừng sửa xe ở nơi không xuất được chứng từ. Nếu xe hỏng nặng phải thay bộ phận lớn, yêu cầu báo giá trước và thông báo cho cửa hàng trước khi tiến hành, trừ trường hợp cấp bách do an toàn.
 
-Khi trả xe sau sự cố, quay lại quy trình bàn giao chuẩn: kiểm tra xe cùng người nhận, lập biên bản ghi rõ hiện trạng sau sửa chữa, và đối chiếu với [các điều cần hỏi trước khi trả xe sớm hoặc kết thúc kỳ thuê](/thue-xe/2026/09/27/tra-xe-thue-som-hon-du-kien-hoi-truoc-ieu-gi/). Một tai nạn nhỏ xử lý đủ hồ sơ thì kết thúc trong vài ngày; thiếu hồ sơ thì kéo dài thành tranh chấp không cần thiết.
+Khi trả xe sau sự cố, quay lại quy trình bàn giao chuẩn: kiểm tra xe cùng người nhận, lập biên bản ghi rõ hiện trạng sau sửa chữa, và đối chiếu với [các điều cần hỏi trước khi trả xe sớm hoặc kết thúc kỳ thuê](/thue-xe/2026/09/27/tra-xe-thue-som-hon-du-kien-hoi-truoc-dieu-gi/). Một tai nạn nhỏ xử lý đủ hồ sơ thì kết thúc trong vài ngày; thiếu hồ sơ thì kéo dài thành tranh chấp không cần thiết.
 
 Cuối cùng, rút kinh nghiệm từ chính sự việc: tốc độ vào khúc cua, khoảng cách với xe phía trước, hoặc chỗ đậu xe che tầm nhìn. Sau tai nạn, nhiều người thuê xe lại càng cẩn thận hơn, và đó là điều tích cực duy nhất mà một va chạm mang lại.

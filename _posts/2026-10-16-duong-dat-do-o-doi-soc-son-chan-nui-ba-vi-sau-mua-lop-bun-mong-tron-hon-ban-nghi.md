@@ -27,7 +27,7 @@ Ba điều khiến người đi xe máy dễ chủ quan:
 - **Mưa nhỏ, mưa đầu cơn trơn nhất.** Lượng nước chỉ đủ làm nhão lớp đất chứ chưa đủ rửa trôi.
 - **Gai lốp bị bùn lèn kín.** Đi một đoạn trong bùn, lốp gần như thành lốp trơn, kể cả khi đã ra tới mặt đường sạch.
 
-Hiện tượng này giống mặt đường phủ bụi đất ở nội thành, chỉ là ở vùng đồi nặng hơn nhiều; xem thêm bài [đường phủ bụi đất sau mưa](/ky-nang/2026/10/11/uong-phu-bui-at-sau-mua-giam-toc-va-phanh-som/) và lý do [cơn mưa đầu mùa làm mặt đường trơn nhất](/ky-nang/2026/10/11/con-mua-dau-mua-sau-nhieu-ngay-nang-hanh-vi-sao-mat-duong-tron-nhat-luc-nay/).
+Hiện tượng này giống mặt đường phủ bụi đất ở nội thành, chỉ là ở vùng đồi nặng hơn nhiều; xem thêm bài [đường phủ bụi đất sau mưa](/ky-nang/2026/10/11/duong-phu-bui-dat-sau-mua-giam-toc-va-phanh-som/) và lý do [cơn mưa đầu mùa làm mặt đường trơn nhất](/ky-nang/2026/10/11/con-mua-dau-mua-sau-nhieu-ngay-nang-hanh-vi-sao-mat-duong-tron-nhat-luc-nay/).
 
 ## Những đoạn hay gặp ở Sóc Sơn và Ba Vì
 

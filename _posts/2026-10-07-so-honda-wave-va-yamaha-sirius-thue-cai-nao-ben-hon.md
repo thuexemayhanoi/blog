@@ -42,7 +42,7 @@ Về nhiên liệu, cả hai dòng đều thuộc nhóm tiết kiệm của phâ
 
 ## Chọn theo nhu cầu và chạy thử trước khi quyết định
 
-Nếu bạn đi nhiều tuyến xa, ưu tiên dòng có mạng lưới phụ tùng dày và động cơ đã được bảo dưỡng đều; nếu bạn chủ yếu bon trong phố và ngõ nhỏ, sự gọn nhẹ sẽ mang lại thoải mái mỗi ngày. Nếu cả hai dòng đều còn sẵn tại cửa hàng, hãy ưu tiên chiếc nào vừa được bảo dưỡng gần nhất, vì đó mới là chỉ số bền đáng tin hơn cả thương hiệu in trên thân xe. Cách chọn xe theo nhu cầu chở đồ được tóm tắt trong bài [chọn loại xe khi chở hành lý cồng kềnh](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/), cùng nguyên tắc thử xe trước khi ký. Nhiều mẫu so sánh dòng xe khác được nhóm trong [mục xe máy](/xe-may/).
+Nếu bạn đi nhiều tuyến xa, ưu tiên dòng có mạng lưới phụ tùng dày và động cơ đã được bảo dưỡng đều; nếu bạn chủ yếu bon trong phố và ngõ nhỏ, sự gọn nhẹ sẽ mang lại thoải mái mỗi ngày. Nếu cả hai dòng đều còn sẵn tại cửa hàng, hãy ưu tiên chiếc nào vừa được bảo dưỡng gần nhất, vì đó mới là chỉ số bền đáng tin hơn cả thương hiệu in trên thân xe. Cách chọn xe theo nhu cầu chở đồ được tóm tắt trong bài [chọn loại xe khi chở hành lý cồng kềnh](/xe-may/2026/09/29/di-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/), cùng nguyên tắc thử xe trước khi ký. Nhiều mẫu so sánh dòng xe khác được nhóm trong [mục xe máy](/xe-may/).
 
 Chạy thử là khâu quyết định: năm mười phút trên đoạn vắng nói lên nhiều hơn mọi lời quảng cáo về độ bền. Nếu máy đề nhẹ, ga đều, số vào êm, phanh chắc, thì bất kể nhãn nào, chiếc đó xứng đáng được bạn chọn. Thắc mắc thêm về chọn dòng, bạn có hỏi thêm trong [mục xe máy](/xe-may/).
 

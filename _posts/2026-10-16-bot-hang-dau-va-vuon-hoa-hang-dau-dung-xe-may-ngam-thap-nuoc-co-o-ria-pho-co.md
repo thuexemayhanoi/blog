@@ -70,13 +70,13 @@ Khi chụp, giữ mấy điều sau:
 - Không dựng chân máy chắn lối đi bộ, không trèo rào để lấy góc lạ.
 - Nắng xiên buổi sáng sớm và cuối chiều làm bề mặt tường nổi khối, xe cũng thưa hơn giờ cao điểm.
 
-Muốn tìm thêm những điểm vắng người lúc bình minh, xem bài [Hà Nội trước 8 giờ sáng bằng xe máy](/du-lich/2026/10/11/ha-noi-truoc-8-gio-sang-bang-xe-may-nhung-iem-vang-va-ep-nhat/).
+Muốn tìm thêm những điểm vắng người lúc bình minh, xem bài [Hà Nội trước 8 giờ sáng bằng xe máy](/du-lich/2026/10/11/ha-noi-truoc-8-gio-sang-bang-xe-may-nhung-diem-vang-va-dep-nhat/).
 
 ## Chọn giờ và mùa để ghé bốt Hàng Đậu
 
 - **Sáng ngày thường, trước giờ đi làm:** nút giao còn thoáng, dễ tìm chỗ gửi.
 - **Chiều tan tầm:** xe từ cầu Long Biên và Yên Phụ dồn về, không nên dừng chụp lúc này.
-- **Mùa thu:** cây trên Phan Đình Phùng đổi màu, chạy chậm từ Ba Đình về tháp rất đẹp; cung đường này có trong bài [mùa thu Hà Nội bằng xe máy](/du-lich/2026/10/11/mua-thu-ha-noi-bang-xe-may-cung-uong-ngam-hoa-sua-va-la-vang/).
+- **Mùa thu:** cây trên Phan Đình Phùng đổi màu, chạy chậm từ Ba Đình về tháp rất đẹp; cung đường này có trong bài [mùa thu Hà Nội bằng xe máy](/du-lich/2026/10/11/mua-thu-ha-noi-bang-xe-may-cung-duong-ngam-hoa-sua-va-la-vang/).
 - **Cận Tết:** phố Hàng Lược ngay cạnh có chợ hoa truyền thống, khu này rất đông, nên gửi xe xa hơn rồi đi bộ.
 
 Tiệm tôi mở cửa từ 09:00, nên ai muốn chụp tháp lúc sáng sớm thì nhận xe từ chiều hôm trước cho chủ động.
@@ -86,7 +86,7 @@ Tiệm tôi mở cửa từ 09:00, nên ai muốn chụp tháp lúc sáng sớm 
 Dễ nối tháp nước thành một buổi đi chậm:
 
 - **Chùa Hòe Nhai trên phố Hàng Than:** chạy thêm một đoạn ngắn, chi tiết trong bài [chùa Hòe Nhai ở phố Hàng Than](/du-lich/2026/10/16/chua-hoe-nhai-o-pho-hang-than-ghe-ngoi-chua-co-sat-ria-pho-co-bang-xe-may-va-gui/).
-- **Đi bộ vào phố cổ:** gửi xe một chỗ rồi đi bộ sang chợ Đồng Xuân; xem bài [dạo phố cổ, đỗ xe ngoài rìa rồi đi bộ](/du-lich/2026/10/11/dao-pho-co-ha-noi-nen-o-xe-ngoai-ria-roi-i-bo-36-pho-phuong/).
+- **Đi bộ vào phố cổ:** gửi xe một chỗ rồi đi bộ sang chợ Đồng Xuân; xem bài [dạo phố cổ, đỗ xe ngoài rìa rồi đi bộ](/du-lich/2026/10/11/dao-pho-co-ha-noi-nen-do-xe-ngoai-ria-roi-di-bo-36-pho-phuong/).
 - **Theo Phan Đình Phùng về Ba Đình:** Cửa Bắc, nhà thờ Cửa Bắc, xa hơn là khu Lăng Bác.
 
 ## Thuê xe ở Long Biên để dạo phố

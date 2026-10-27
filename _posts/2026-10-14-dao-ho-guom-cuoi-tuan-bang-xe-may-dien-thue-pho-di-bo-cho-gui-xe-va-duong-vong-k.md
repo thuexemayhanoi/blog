@@ -36,9 +36,9 @@ Cách tính đơn giản:
 
 1. **Ước quãng đường khứ hồi.** Từ khu Bồ Đề, Long Biên qua cầu Chương Dương vào phố Trần Quang Khải là một quãng ngắn, nhưng nếu bạn ở Cầu Giấy hay Hà Đông thì gấp nhiều lần. Cộng thêm phần đi vòng khi gặp rào.
 2. **Cộng dư cho tắc đường.** Tối cuối tuần, xe đi chậm, dừng nhiều, bật đèn suốt, pin tụt nhanh hơn ước tính.
-3. **Ra khỏi nhà khi pin còn nhiều.** Đừng đi khi đồng hồ đã báo dưới một nửa, đặc biệt nếu bạn chưa quen chiếc xe. Cách đọc mức pin trên đồng hồ có trong bài [pin xe máy điện thuê báo sắp hết ở đâu trên bảng đồng hồ](/xe-may/2026/10/07/pin-xe-may-ien-thue-bao-sap-o-au-tren-bang-ong-ho/).
+3. **Ra khỏi nhà khi pin còn nhiều.** Đừng đi khi đồng hồ đã báo dưới một nửa, đặc biệt nếu bạn chưa quen chiếc xe. Cách đọc mức pin trên đồng hồ có trong bài [pin xe máy điện thuê báo sắp hết ở đâu trên bảng đồng hồ](/xe-may/2026/10/07/pin-xe-may-dien-thue-bao-sap-o-dau-tren-bang-dong-ho/).
 
-Nếu muốn tính kỹ hơn cho những chuyến dài, bài [xe máy điện chạy đường dài: tính pin thế nào](/xe-may/2026/10/03/xe-may-ien-chay-uong-e-dai-tinh-pin-the-nao/) có cách ước lượng chi tiết.
+Nếu muốn tính kỹ hơn cho những chuyến dài, bài [xe máy điện chạy đường dài: tính pin thế nào](/xe-may/2026/10/03/xe-may-dien-chay-duong-de-dai-tinh-pin-the-nao/) có cách ước lượng chi tiết.
 
 ## Gửi xe gần phố đi bộ Hồ Gươm rồi đi bộ vào
 
@@ -59,7 +59,7 @@ Không cần biết trước tên bãi cụ thể. Chỉ cần xác định cụ
 - **Rút chìa, giữ điều khiển,** đậy nắp cổng sạc, không để túi đồ trong giỏ trước.
 - **Chụp ảnh vé và biển phố gần bãi.** Đi dạo một vòng quanh hồ xong rất dễ quên mình gửi ở góc nào.
 
-Giá gửi xe mỗi nơi một khác, hãy hỏi rõ khi nhận vé. Danh sách các khu vực gửi xe quanh hồ đã được tổng hợp trong bài [phố đi bộ Hồ Gươm cuối tuần xe máy gửi ở đâu](/du-lich/2026/10/09/pho-i-bo-ho-guom-cuoi-tuan-xe-may-gui-o-au/).
+Giá gửi xe mỗi nơi một khác, hãy hỏi rõ khi nhận vé. Danh sách các khu vực gửi xe quanh hồ đã được tổng hợp trong bài [phố đi bộ Hồ Gươm cuối tuần xe máy gửi ở đâu](/du-lich/2026/10/09/pho-di-bo-ho-guom-cuoi-tuan-xe-may-gui-o-dau/).
 
 ## Đường cấm cuối tuần Hồ Gươm: cách đi vòng khi bị chặn
 

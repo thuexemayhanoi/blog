@@ -70,7 +70,7 @@ Vì vai lốp mới còn trơn nhất, hãy vào cua rộng, giảm tốc trư�
 
 ### Cẩn thận gấp đôi khi đường ướt
 
-Mưa phùn Hà Nội đủ để làm mặt đường có lớp nước mỏng rất trơn. Với lốp mới thay, hãy tránh đè bánh lên vạch sơn kẻ đường, nắp cống, nắp hố ga bằng kim loại và những đoạn có vệt dầu. Đây là các bề mặt trơn ngay cả với lốp cũ. Gợi ý xử lý đường trơn có trong bài [đường trơn và vũng nước qua thế nào](/ky-nang/2026-09-29/uong-tron-va-vung-nuoc-qua-the-nao/).
+Mưa phùn Hà Nội đủ để làm mặt đường có lớp nước mỏng rất trơn. Với lốp mới thay, hãy tránh đè bánh lên vạch sơn kẻ đường, nắp cống, nắp hố ga bằng kim loại và những đoạn có vệt dầu. Đây là các bề mặt trơn ngay cả với lốp cũ. Gợi ý xử lý đường trơn có trong bài [đường trơn và vũng nước qua thế nào](/ky-nang/2026-09-29/duong-tron-va-vung-nuoc-qua-the-nao/).
 
 ## Khi nào cảm giác lạ không còn là chuyện bình thường
 

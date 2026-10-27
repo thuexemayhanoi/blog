@@ -25,7 +25,7 @@ Chiều 19/10 và cả ngày 20/10, cũng như dịp 8/3, vỉa hè nhiều ph�
 - **Đặt trước ở cửa hàng quen.** Nếu cần bó hoa lớn, nhờ cửa hàng bó sẵn và hẹn giờ lấy. Bạn chỉ cần dừng xe một lúc ngắn.
 - **Tránh đi đúng giờ tan tầm** nếu đường từ chỗ làm tới hàng hoa phải qua trục lớn.
 
-Nếu bạn muốn hoa nhiều và giá đầu mối, chợ hoa Quảng Bá ở Tây Hồ họp từ khuya tới sáng sớm. Cách đi và chỗ dừng xe có ở bài [chợ hoa Quảng Bá về đêm bằng xe máy](/du-lich/2026/10/11/cho-hoa-quang-ba-ve-em-bang-xe-may-gio-i-uong-vao-va-cho-dung-xe/ "Chợ hoa Quảng Bá về đêm bằng xe máy").
+Nếu bạn muốn hoa nhiều và giá đầu mối, chợ hoa Quảng Bá ở Tây Hồ họp từ khuya tới sáng sớm. Cách đi và chỗ dừng xe có ở bài [chợ hoa Quảng Bá về đêm bằng xe máy](/du-lich/2026/10/11/cho-hoa-quang-ba-ve-dem-bang-xe-may-gio-di-duong-vao-va-cho-dung-xe/ "Chợ hoa Quảng Bá về đêm bằng xe máy").
 
 ## Mua ở hàng hoa vỉa hè: dừng xe sao cho đúng
 
@@ -48,7 +48,7 @@ Bó hoa ngày lễ thường to, bọc giấy, có khi kèm hộp hoặc giỏ. 
 - **Không để bó hoa trong cốp.** Cốp kín, nóng và chật, hoa sẽ dập và héo nhanh.
 - **Không treo hoa ở tay lái hay gương.** Bó hoa đung đưa làm lệch hướng lái và che xi nhan.
 
-Kinh nghiệm bọc hoa để chở về không dập có ở bài [mua hoa ở chợ hoa Quảng Bá sáng sớm, chở hoa về không dập](/xe-may/2026/10/11/mua-hoa-o-cho-hoa-quang-ba-sang-som-bang-xe-ap-ien-cho-hoa-ve-khong-dap/ "Chở hoa về không dập"). Nếu đi hai người, cách xếp người và đồ trên Click có ở bài [Honda Click chở hai người đi phố: yên và cốp](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-i-pho-yen-va-cop/ "Honda Click chở hai người đi phố").
+Kinh nghiệm bọc hoa để chở về không dập có ở bài [mua hoa ở chợ hoa Quảng Bá sáng sớm, chở hoa về không dập](/xe-may/2026/10/11/mua-hoa-o-cho-hoa-quang-ba-sang-som-bang-xe-dap-dien-cho-hoa-ve-khong-dap/ "Chở hoa về không dập"). Nếu đi hai người, cách xếp người và đồ trên Click có ở bài [Honda Click chở hai người đi phố: yên và cốp](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-i-pho-yen-va-cop/ "Honda Click chở hai người đi phố").
 
 ## Lái xe khi đang chở hoa
 
@@ -61,7 +61,7 @@ Chở hoa, xe vẫn chạy như bình thường, nhưng người lái cần cẩ
 
 ## Đi tặng hoa buổi tối: chỗ dừng và giờ về
 
-Tối 20/10 nhiều người đi tặng hoa mẹ, vợ, cô giáo hay đồng nghiệp, kết hợp ăn tối. Đường phố đông hơn ngày thường, nhất là quanh các nhà hàng, trung tâm thương mại. Hẹn giờ sớm hơn một chút, tìm chỗ gửi xe trước khi tới nơi, đừng dựng xe trên vỉa hè trước nhà hàng. Nếu có uống bia rượu trong bữa tối, để xe lại bãi và về bằng xe công nghệ. Cách chọn giờ đi để tránh kẹt có ở bài [giờ cao điểm Hà Nội: chọn giờ xuất phát và đường đi đỡ kẹt](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/ "Giờ cao điểm Hà Nội: chọn giờ xuất phát").
+Tối 20/10 nhiều người đi tặng hoa mẹ, vợ, cô giáo hay đồng nghiệp, kết hợp ăn tối. Đường phố đông hơn ngày thường, nhất là quanh các nhà hàng, trung tâm thương mại. Hẹn giờ sớm hơn một chút, tìm chỗ gửi xe trước khi tới nơi, đừng dựng xe trên vỉa hè trước nhà hàng. Nếu có uống bia rượu trong bữa tối, để xe lại bãi và về bằng xe công nghệ. Cách chọn giờ đi để tránh kẹt có ở bài [giờ cao điểm Hà Nội: chọn giờ xuất phát và đường đi đỡ kẹt](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/ "Giờ cao điểm Hà Nội: chọn giờ xuất phát").
 
 ## Người bán hoa cần thêm xe dịp lễ
 

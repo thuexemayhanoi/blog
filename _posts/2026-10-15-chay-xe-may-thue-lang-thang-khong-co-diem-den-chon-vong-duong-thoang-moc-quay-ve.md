@@ -31,7 +31,7 @@ Ba mốc này chỉ mất một phút để đặt, nhưng là thứ giữ buổ
 
 ## Chọn vòng đường quen và thoáng, không chọn đường thẳng
 
-Với chạy lang thang, nên ưu tiên các vòng thay vì đường thẳng: vòng cho phép bạn quay lại điểm xuất phát mà không phải đi lại đúng con đường cũ. Hãy chọn vài vòng ở khu vực bạn đã quen, có đường rộng, ít ngã ba ngã tư phức tạp và có nhiều chỗ dừng xe. Bạn có thể xem lại gợi ý về một vòng quen thuộc trong bài [chạy vòng Hồ Tây bằng xe máy thuê: cung đường và điểm dừng](/thue-xe/2026/09/29/chay-vong-ho-tay-bang-xe-may-thue-cung-uong-va-iem-dung/).
+Với chạy lang thang, nên ưu tiên các vòng thay vì đường thẳng: vòng cho phép bạn quay lại điểm xuất phát mà không phải đi lại đúng con đường cũ. Hãy chọn vài vòng ở khu vực bạn đã quen, có đường rộng, ít ngã ba ngã tư phức tạp và có nhiều chỗ dừng xe. Bạn có thể xem lại gợi ý về một vòng quen thuộc trong bài [chạy vòng Hồ Tây bằng xe máy thuê: cung đường và điểm dừng](/thue-xe/2026/09/29/chay-vong-ho-tay-bang-xe-may-thue-cung-duong-va-diem-dung/).
 
 Cũng nên chọn vòng có đường tắt về: những chỗ rẽ để rút ngắn khi bạn thấy mệt hoặc trời đổi. Mở bản đồ trước, nhìn xem vòng có những lối nào để thoát ra đường chính. Bài không biết vòng nào của bạn thoáng, và không nêu giờ đông vắng, vì mỗi nơi mỗi khác.
 

@@ -52,7 +52,7 @@ Cách liếc gọn tôi hay chỉ cho người mới:
 3. Đọc xong thì đưa mắt lên ngay, về đúng điểm xa vừa nhìn.
 4. Chưa đọc kịp thì nhìn đường thêm vài giây rồi liếc lại, không cố nhìn lâu.
 
-Hai lần liếc ngắn an toàn hơn một lần nhìn dài. Người cúi nhìn lâu còn hay vô thức vặn thêm ga hoặc kéo lệch tay lái. Bước một chính là thói quen [nhìn xa khi đi xe máy trong phố](/ky-nang/2026/10/11/nhin-xa-khi-i-xe-may-trong-pho-mat-nhin-au-e-kip-xu-ly-tinh-huong/).
+Hai lần liếc ngắn an toàn hơn một lần nhìn dài. Người cúi nhìn lâu còn hay vô thức vặn thêm ga hoặc kéo lệch tay lái. Bước một chính là thói quen [nhìn xa khi đi xe máy trong phố](/ky-nang/2026/10/11/nhin-xa-khi-di-xe-may-trong-pho-mat-nhin-dau-de-kip-xu-ly-tinh-huong/).
 
 ### Làm quen mặt đồng hồ ngay khi nhận xe
 
@@ -92,7 +92,7 @@ Trong phố cổ hay các phố đông như Hàng Bài, Bà Triệu, dòng xe g�
 
 Trên các trục vành đai như Trường Chinh, Đại La, Minh Khai hay đường dưới vành đai 3, xe chạy nhanh hơn và biển hạn chế tốc độ có thể khác nhau giữa các đoạn. Mỗi lần qua một biển báo tốc độ là lúc tốt để liếc kiểm tra. Làn đường trên cao của vành đai không dành cho xe máy, hãy đi theo biển chỉ dẫn ở đường dưới.
 
-Thấy mình nhanh hơn biển báo thì nhả ga từ từ, đừng phanh gấp, vì xe sau không biết bạn vừa nhìn đồng hồ. Tốc độ tối đa luôn theo biển báo tại từng đoạn; xem thêm cách [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-o-theo-oan-uong-nhin-thay-dung-uoc-trong-tam-mat-khi-i-xe-may/).
+Thấy mình nhanh hơn biển báo thì nhả ga từ từ, đừng phanh gấp, vì xe sau không biết bạn vừa nhìn đồng hồ. Tốc độ tối đa luôn theo biển báo tại từng đoạn; xem thêm cách [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-do-theo-doan-duong-nhin-thay-dung-duoc-trong-tam-mat-khi-di-xe-may/).
 
 ## Lưu ý riêng khi đi xe thuê
 

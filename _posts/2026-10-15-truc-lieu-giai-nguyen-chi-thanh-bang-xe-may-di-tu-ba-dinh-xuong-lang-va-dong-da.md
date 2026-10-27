@@ -87,6 +87,6 @@ Nếu thuê xe ở Nguyễn Tú, 112 Nguyễn Văn Cừ, Long Biên, cứ nói r
 
 ## Đi tiếp từ trục này
 
-Đã quen trục Liễu Giai – Nguyễn Chí Thanh, bạn có thể so với lối khác trong bài [đi từ phố cổ sang Cầu Giấy theo trục Kim Mã hay trục Láng](/cung-duong/2026/10/11/tu-pho-co-sang-cau-giay-bang-xe-may-truc-kim-ma-hay-truc-lang/). Buổi tối muốn đi dạo khu Ngọc Khánh thì có [cung nội thành qua Trần Phú – Ngọc Khánh](/cung-duong/2026/10/04/cung-uong-noi-thanh-qua-uong-tran-phu-ngoc-khanh-buoi-toi/), còn nếu đi tiếp sang Trần Duy Hưng thì đọc [các hướng từ phố cổ ra Mỹ Đình](/cung-duong/2026/10/11/tu-pho-co-ra-khu-my-dinh-bang-xe-may-cac-huong-di-va-nen-chon-huong-nao/).
+Đã quen trục Liễu Giai – Nguyễn Chí Thanh, bạn có thể so với lối khác trong bài [đi từ phố cổ sang Cầu Giấy theo trục Kim Mã hay trục Láng](/cung-duong/2026/10/11/tu-pho-co-sang-cau-giay-bang-xe-may-truc-kim-ma-hay-truc-lang/). Buổi tối muốn đi dạo khu Ngọc Khánh thì có [cung nội thành qua Trần Phú – Ngọc Khánh](/cung-duong/2026/10/04/cung-duong-noi-thanh-qua-duong-tran-phu-ngoc-khanh-buoi-toi/), còn nếu đi tiếp sang Trần Duy Hưng thì đọc [các hướng từ phố cổ ra Mỹ Đình](/cung-duong/2026/10/11/tu-pho-co-ra-khu-my-dinh-bang-xe-may-cac-huong-di-va-nen-chon-huong-nao/).
 
 Muốn tìm thêm tuyến, xem [tổng hợp cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) hoặc trang [cung đường chạy xe máy Hà Nội](/cung-duong/).

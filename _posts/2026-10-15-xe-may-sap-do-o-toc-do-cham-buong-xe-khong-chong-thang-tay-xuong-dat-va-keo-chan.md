@@ -59,7 +59,7 @@ Cách xử lý:
 - **Với xe số, để ý cần số và gác chân.** Đây là những phần nhô ra, dễ móc vào ống quần hay mũi giày.
 - **Tránh ống xả.** Ngay cả khi xe chỉ chạy một quãng ngắn, ống xả đã nóng. Hãy bước ra phía không có ống xả nếu còn chọn được.
 
-Nếu xe đã đổ xuống và chân bị đè, đừng giật mạnh. Cách thoát ra từng bước và dựng xe lên bằng lực đùi được nói kỹ trong bài [xe đổ nghiêng đè lên chân: thoát ra và dựng xe lên an toàn](/thue-xe/2026/10/11/xe-o-nghieng-e-len-chan-thoat-ra-va-dung-xe-len-an-toan-the-nao/).
+Nếu xe đã đổ xuống và chân bị đè, đừng giật mạnh. Cách thoát ra từng bước và dựng xe lên bằng lực đùi được nói kỹ trong bài [xe đổ nghiêng đè lên chân: thoát ra và dựng xe lên an toàn](/thue-xe/2026/10/11/xe-do-nghieng-de-len-chan-thoat-ra-va-dung-xe-len-an-toan-the-nao/).
 
 ## Sau khi xe đổ: tắt máy rồi mới tính chuyện dựng xe
 

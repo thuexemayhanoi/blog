@@ -38,7 +38,7 @@ Người ở Long Biên qua cầu Chương Dương, xuống Trần Nhật Duật
 
 ### Chặng hai: Bạch Mã lên đền Quán Thánh
 
-Ra khỏi phố cổ về phía tây, đi tới khu Hàng Cót, Hàng Than rồi theo phố Quán Thánh chạy thẳng về phía hồ Tây; đền nằm ở cuối phố. Chặng này ngắn, ước chừng hai, ba cây số trên bản đồ, nhưng mất thời gian ở các nút trong phố cổ. Gần tới đền, đường Thanh Niên có đoạn cong ven hồ, chiều cuối tuần nhiều người dạo bộ, đi chậm từ xa. Xem thêm bài [đến đền Quán Thánh bằng xe máy](/du-lich/2026/10/04/en-en-quan-thanh-bang-xe-may-gui-xe-va-uong-i/).
+Ra khỏi phố cổ về phía tây, đi tới khu Hàng Cót, Hàng Than rồi theo phố Quán Thánh chạy thẳng về phía hồ Tây; đền nằm ở cuối phố. Chặng này ngắn, ước chừng hai, ba cây số trên bản đồ, nhưng mất thời gian ở các nút trong phố cổ. Gần tới đền, đường Thanh Niên có đoạn cong ven hồ, chiều cuối tuần nhiều người dạo bộ, đi chậm từ xa. Xem thêm bài [đến đền Quán Thánh bằng xe máy](/du-lich/2026/10/04/den-den-quan-thanh-bang-xe-may-gui-xe-va-duong-di/).
 
 ### Chặng ba: Quán Thánh sang đền Voi Phục
 

@@ -68,7 +68,7 @@ Cách xử lý thực tế:
 1. **Giảm tốc, dừng sát lề theo hướng dẫn,** tắt máy.
 2. **Lịch sự hỏi căn cứ dừng** nếu chưa được thông báo.
 3. **Xuất trình giấy tờ theo Điều 56 khoản 1;** khoản 3 cho phép xuất trình qua tài khoản định danh điện tử nếu giấy tờ đã tích hợp.
-4. **Hợp tác khi được yêu cầu đo,** trình tự đo có ở bài [đo nồng độ cồn: quyền và trình tự](/an-toan-phap-ly/2026/09/28/o-nong-o-con-quyen-va-trinh-tu/).
+4. **Hợp tác khi được yêu cầu đo,** trình tự đo có ở bài [đo nồng độ cồn: quyền và trình tự](/an-toan-phap-ly/2026/09/28/do-nong-do-con-quyen-va-trinh-tu/).
 5. **Thấy chưa đúng thì giải trình, khiếu nại,** không cự cãi hay bỏ đi.
 
 Điều 9 khoản 4 cấm cản trở, chống đối, không chấp hành yêu cầu kiểm tra; Điều 73 khoản 2 cho phép truy đuổi người không dừng xe mà bỏ chạy.

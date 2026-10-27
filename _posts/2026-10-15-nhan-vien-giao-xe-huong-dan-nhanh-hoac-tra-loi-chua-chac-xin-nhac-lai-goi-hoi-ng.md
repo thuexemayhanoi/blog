@@ -36,7 +36,7 @@ Trước khi rời tiệm, hãy chắc rằng bạn đã nghe rõ sáu điều s
 5. **Giờ và địa điểm trả xe,** kể cả khi bạn muốn trả sớm hay muộn.
 6. **Số liên hệ khi có sự cố** và cách báo.
 
-Bài không nêu câu trả lời đúng cho từng mục vì tùy xe và tiệm. Với xe lạ, bạn có thể xem thêm bài về [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/oc-ong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-en-canh-bao/) để biết nên chú ý gì trên bảng đồng hồ.
+Bài không nêu câu trả lời đúng cho từng mục vì tùy xe và tiệm. Với xe lạ, bạn có thể xem thêm bài về [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/doc-dong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-den-canh-bao/) để biết nên chú ý gì trên bảng đồng hồ.
 
 ## Khi hướng dẫn quá nhanh: xin nhắc lại từng bước và làm thử
 

@@ -39,7 +39,7 @@ Giả sử bạn ở Bồ Đề, Long Biên và muốn vừa xem đình vừa l�
 4. Từ Tây Đằng đi về phía chân núi, lên các đoạn dốc khi sương đã tan bớt.
 5. Xuống núi trước khi trời tối, về qua Sơn Tây, tránh khung chiều Chủ nhật.
 
-Quãng từ Long Biên lên Tây Đằng thường mất chừng hai tiếng, tính cả đoạn thoát ra khỏi phố. Ai chưa quen dốc nên đọc trước bài [chạy xe máy lên Ba Vì buổi sáng](/du-lich/2026/10/04/chay-xe-may-len-ba-vi-buoi-sang-uong-doc-va-luu-y/) để biết cách giữ số và phanh khi xuống.
+Quãng từ Long Biên lên Tây Đằng thường mất chừng hai tiếng, tính cả đoạn thoát ra khỏi phố. Ai chưa quen dốc nên đọc trước bài [chạy xe máy lên Ba Vì buổi sáng](/du-lich/2026/10/04/chay-xe-may-len-ba-vi-buoi-sang-duong-doc-va-luu-y/) để biết cách giữ số và phanh khi xuống.
 
 ## Chỗ dừng xe khi ghé đình
 

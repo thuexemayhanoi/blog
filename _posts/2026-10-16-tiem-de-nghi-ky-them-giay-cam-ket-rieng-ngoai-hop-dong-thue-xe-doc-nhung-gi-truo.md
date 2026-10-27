@@ -56,12 +56,12 @@ Tờ cam kết là giấy đi kèm, nên nội dung phải khớp với hợp đ
 
 - Ngày giờ nhận và trả có giống nhau không.
 - Giá thuê, nếu có ghi, có trùng với hợp đồng và tin nhắn báo giá không.
-- Khoản cọc được xác nhận trực tiếp khi làm thủ tục, nên hình thức và mức cọc trên giấy phải đúng như vừa thống nhất tại quầy. Chuyện nhận lại cọc có trong bài [hỏi về đặt cọc thuê xe máy và nhận lại thế nào](/hoi-dap/2026/10/10/hoi-at-coc-thue-xe-may-bao-nhieu-va-nhan-lai-the-nao/).
+- Khoản cọc được xác nhận trực tiếp khi làm thủ tục, nên hình thức và mức cọc trên giấy phải đúng như vừa thống nhất tại quầy. Chuyện nhận lại cọc có trong bài [hỏi về đặt cọc thuê xe máy và nhận lại thế nào](/hoi-dap/2026/10/10/hoi-dat-coc-thue-xe-may-bao-nhieu-va-nhan-lai-the-nao/).
 - Giấy tờ để lại cửa hàng, nếu có, được ghi đúng loại.
 
 Mở lại tin nhắn lúc đặt xe để so, thấy lệch thì nói ngay: "Hôm trước anh chị báo thế này, sao trên giấy lại ghi khác ạ?". Lệch thì sửa trước khi ký, đừng để "về rồi tính".
 
-Nếu tờ cam kết và hợp đồng nói hai điều khác nhau về cùng một việc, hỏi tờ nào được áp dụng và đề nghị ghi câu trả lời lên giấy. Bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/) có danh sách để đối chiếu.
+Nếu tờ cam kết và hợp đồng nói hai điều khác nhau về cùng một việc, hỏi tờ nào được áp dụng và đề nghị ghi câu trả lời lên giấy. Bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/) có danh sách để đối chiếu.
 
 ## Một tình huống hay gặp ở Hà Nội
 

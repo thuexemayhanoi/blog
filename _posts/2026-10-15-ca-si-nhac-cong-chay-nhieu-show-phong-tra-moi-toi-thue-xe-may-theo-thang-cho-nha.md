@@ -52,7 +52,7 @@ Nguyên tắc đơn giản nhất: nhạc cụ đi xe máy phải được đeo 
 
 ### Phụ kiện để trong cốp
 
-Bộ pedal hiệu ứng, micro riêng, dây cáp, giá nhạc gấp nên để trong cốp hoặc một túi đeo chéo nhỏ. Không treo túi nặng ở móc phía trước khiến tay lái bị kéo lệch. Cách mang ba lô cho đỡ mỏi vai đã có trong bài [đeo ba lô khi chạy xe dài hay buộc sau](/ky-nang/2026-09-29/eo-ba-lo-khi-chay-xe-dai-hay-buoc-sau/).
+Bộ pedal hiệu ứng, micro riêng, dây cáp, giá nhạc gấp nên để trong cốp hoặc một túi đeo chéo nhỏ. Không treo túi nặng ở móc phía trước khiến tay lái bị kéo lệch. Cách mang ba lô cho đỡ mỏi vai đã có trong bài [đeo ba lô khi chạy xe dài hay buộc sau](/ky-nang/2026-09-29/deo-ba-lo-khi-chay-xe-dai-hay-buoc-sau/).
 
 ### Nhạc cụ lớn thì đi taxi hoặc xe tải
 
@@ -81,7 +81,7 @@ Suất cuối thường xong muộn, đường vắng nhưng có xe tải chạy
 - **Mệt, buồn ngủ thì nghỉ.** Diễn mấy giờ liền dưới đèn sân khấu dễ kiệt sức hơn mình nghĩ. Uống nước, ăn nhẹ rồi mới đi; vẫn díp mắt thì gọi xe công nghệ.
 - **Sau những suất loa lớn, tai có thể còn ù.** Giảm tốc, nhìn gương nhiều hơn, đừng chỉ dựa vào tiếng còi phía sau.
 
-Những lưu ý chung khi đi đêm có trong bài [chạy xe ban đêm trong nội đô](/ky-nang/2026-09-29/chay-xe-ban-em-trong-noi-o/). Nếu phải gửi xe lại qua đêm, xem thêm [gửi xe khi về khuya](/ky-nang/2026/10/01/gui-xe-khi-ve-khuya-cho-giu-tan-noi-va-luu-y-an-toan/).
+Những lưu ý chung khi đi đêm có trong bài [chạy xe ban đêm trong nội đô](/ky-nang/2026-09-29/chay-xe-ban-dem-trong-noi-do/). Nếu phải gửi xe lại qua đêm, xem thêm [gửi xe khi về khuya](/ky-nang/2026/10/01/gui-xe-khi-ve-khuya-cho-giu-tan-noi-va-luu-y-an-toan/).
 
 ## Trời mưa thì sao
 

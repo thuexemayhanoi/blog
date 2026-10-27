@@ -87,7 +87,7 @@ Vài phút kiểm tra lúc nhận xe rất đáng:
 - Bóp thử phanh khi dắt xe, cảm nhận lực phanh có đều không.
 - Bóp nhẹ vài cặp nan bằng tay, nan nào lỏng hẳn thì báo ngay.
 
-Khi đi, tránh lao thẳng vào ổ gà, giảm tốc trước gờ và lên xuống vỉa hè ở chỗ có dốc thoải. Cách bóp phanh trước, phanh sau sao cho êm khi có người cắt ngang được nói kỹ trong bài [phanh xe đạp điện êm khi có người băng ngang](/xe-may/2026/10/11/phanh-xe-ap-ien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/).
+Khi đi, tránh lao thẳng vào ổ gà, giảm tốc trước gờ và lên xuống vỉa hè ở chỗ có dốc thoải. Cách bóp phanh trước, phanh sau sao cho êm khi có người cắt ngang được nói kỹ trong bài [phanh xe đạp điện êm khi có người băng ngang](/xe-may/2026/10/11/phanh-xe-dap-dien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/).
 
 ## Tóm lại
 

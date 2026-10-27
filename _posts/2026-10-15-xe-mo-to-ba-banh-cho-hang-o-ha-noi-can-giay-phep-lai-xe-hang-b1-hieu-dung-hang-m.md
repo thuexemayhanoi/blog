@@ -74,7 +74,7 @@ Mua xe cũ thì đối chiếu số khung, số máy và biển số với giấ
 
 ## Chở hàng trong phố Hà Nội
 
-Xe ba bánh đầy hàng rộng và nặng hơn xe hai bánh. Quanh chợ Long Biên hay chợ Đồng Xuân, hãy giữ làn bên phải và đi chậm khi rẽ. Hàng phải gọn, buộc chắc; quy định về hàng cồng kềnh có ở bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/). Cầu Thanh Trì cấm xe máy; sang sông có thể đi cầu Chương Dương hoặc Vĩnh Tuy. Giờ, tuyến hạn chế cho xe chở hàng, hãy hỏi lực lượng chức năng.
+Xe ba bánh đầy hàng rộng và nặng hơn xe hai bánh. Quanh chợ Long Biên hay chợ Đồng Xuân, hãy giữ làn bên phải và đi chậm khi rẽ. Hàng phải gọn, buộc chắc; quy định về hàng cồng kềnh có ở bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/). Cầu Thanh Trì cấm xe máy; sang sông có thể đi cầu Chương Dương hoặc Vĩnh Tuy. Giờ, tuyến hạn chế cho xe chở hàng, hãy hỏi lực lượng chức năng.
 
 Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00. Chúng tôi không cho thuê xe ba bánh và không làm dịch vụ bằng lái; cần xe hai bánh trong lúc chờ học, bạn hỏi qua số 0942467674.
 

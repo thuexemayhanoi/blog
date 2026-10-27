@@ -62,7 +62,7 @@ Cả ba nơi đều là chốn thờ cúng đang hoạt động, người dân �
 - Đội mũ bảo hiểm khi chạy, nhưng tháo mũ và khẩu trang khi vào gian thờ; đừng đặt mũ lên bệ thờ hay bậc thềm.
 - Nói nhỏ, tắt chuông điện thoại, không đứng chắn lối người đang khấn.
 - Hỏi người trông coi trước khi chụp ảnh trong điện, không chạm vào tượng, bia và đồ thờ.
-- Đồ lễ để ở sàn để chân hoặc trong cốp, không treo lủng lẳng ở tay lái; cách chở có trong bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-o-i-le-chua-au-nam-tren-xe-may/).
+- Đồ lễ để ở sàn để chân hoặc trong cốp, không treo lủng lẳng ở tay lái; cách chở có trong bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-do-di-le-chua-dau-nam-tren-xe-may/).
 
 Ở chùa Bộc, nơi thờ cả các nghĩa sĩ, không cười đùa lớn và không chụp ảnh người đang lễ.
 

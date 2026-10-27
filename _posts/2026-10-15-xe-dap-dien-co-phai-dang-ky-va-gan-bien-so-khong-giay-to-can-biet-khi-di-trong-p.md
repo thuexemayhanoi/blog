@@ -47,7 +47,7 @@ Nhiều mẫu xe có dáng gọn, có cả bàn đạp, nên được gọi chun
 3. Xe vẫn được trợ lực khi đã vượt mốc 25 km/h.
 4. Giấy tờ kỹ thuật hoặc hóa đơn ghi loại xe khác.
 
-Chúng tôi không tự kết luận thay bạn cho từng mẫu. Hãy xem giấy tờ kỹ thuật, hỏi nơi bán, và khi còn băn khoăn thì hỏi cơ quan đăng ký xe. Khác biệt khi sử dụng hai dòng có ở bài [xe đạp điện khác gì xe máy điện](/xe-may/2026/09/27/xe-ap-ien-khac-gi-xe-may-ien/).
+Chúng tôi không tự kết luận thay bạn cho từng mẫu. Hãy xem giấy tờ kỹ thuật, hỏi nơi bán, và khi còn băn khoăn thì hỏi cơ quan đăng ký xe. Khác biệt khi sử dụng hai dòng có ở bài [xe đạp điện khác gì xe máy điện](/xe-may/2026/09/27/xe-dap-dien-khac-gi-xe-may-dien/).
 
 Nếu xe thực chất là xe gắn máy, người lái phải đủ 16 tuổi (điểm a khoản 1 Điều 59) và mang giấy tờ của xe theo khoản 1 Điều 56. Phần bảo hiểm bắt buộc được phân tích riêng ở bài [xe máy điện có phải mua bảo hiểm TNDS bắt buộc không](/an-toan-phap-ly/2026/10/15/xe-may-dien-co-phai-mua-bao-hiem-tnds-bat-buoc-khong-phan-biet-voi-xe-dap-dien-k/).
 
@@ -59,7 +59,7 @@ Danh mục ở khoản 1 Điều 56 viết cho người lái xe: chứng nhận 
 - **Giấy tờ chứng minh xe:** hóa đơn mua, giấy tờ kỹ thuật ghi thông số.
 - **Với xe thuê:** hợp đồng hoặc tin nhắn xác nhận thuê, ghi ngày thuê và loại xe.
 
-Luật cũng có ba yêu cầu riêng ở Điều 31. Khoản 3: người điều khiển và người được chở trên xe đạp máy phải đội mũ bảo hiểm đúng quy chuẩn, cài quai đúng cách. Khoản 1: chỉ chở một người, trừ khi chở thêm một trẻ em dưới 07 tuổi. Khoản 4: từ 18 giờ hôm trước đến 06 giờ hôm sau phải dùng đèn hoặc có báo hiệu phía trước và phía sau. Chuyện mũ khi thuê xe có ở bài [xe đạp điện thuê có cần đội mũ bảo hiểm không](/xe-may/2026/10/09/xe-ap-ien-thue-co-can-oi-mu-bao-hiem-khong/).
+Luật cũng có ba yêu cầu riêng ở Điều 31. Khoản 3: người điều khiển và người được chở trên xe đạp máy phải đội mũ bảo hiểm đúng quy chuẩn, cài quai đúng cách. Khoản 1: chỉ chở một người, trừ khi chở thêm một trẻ em dưới 07 tuổi. Khoản 4: từ 18 giờ hôm trước đến 06 giờ hôm sau phải dùng đèn hoặc có báo hiệu phía trước và phía sau. Chuyện mũ khi thuê xe có ở bài [xe đạp điện thuê có cần đội mũ bảo hiểm không](/xe-may/2026/10/09/xe-dap-dien-thue-co-can-doi-mu-bao-hiem-khong/).
 
 ## Đi phố Hà Nội bằng xe đạp điện: vài tình huống
 

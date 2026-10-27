@@ -19,7 +19,7 @@ writer_session: s-claude-w2
 
 ## Va chạm xe máy bỏ chạy: lo cho người trước, đừng đuổi theo
 
-Việc đầu tiên không phải là biển số mà là chính bạn. Đưa xe vào lề nếu còn dắt được, đứng lên vỉa hè, xa dòng xe. Kiểm tra đầu, cổ, tay chân, và cả người ngồi sau nếu có. Sau va chạm, cơ thể đang căng thẳng nên đau có thể chưa thấy ngay; nếu chóng mặt, đau đầu hay đau ngực, hãy nhờ người gọi cấp cứu 115. Số nào gọi trong tình huống nào được nói rõ trong bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/).
+Việc đầu tiên không phải là biển số mà là chính bạn. Đưa xe vào lề nếu còn dắt được, đứng lên vỉa hè, xa dòng xe. Kiểm tra đầu, cổ, tay chân, và cả người ngồi sau nếu có. Sau va chạm, cơ thể đang căng thẳng nên đau có thể chưa thấy ngay; nếu chóng mặt, đau đầu hay đau ngực, hãy nhờ người gọi cấp cứu 115. Số nào gọi trong tình huống nào được nói rõ trong bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/).
 
 Đừng đuổi theo người bỏ chạy. Lao xe đuổi giữa giờ cao điểm trên đường Cầu Giấy hay Trường Chinh dễ gây thêm một vụ va chạm nữa, lần này có thể do chính bạn. Một chiếc xe hỏng có thể sửa, còn chấn thương thứ hai thì không đáng.
 

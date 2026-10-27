@@ -88,7 +88,7 @@ Bài này không nêu mức phạt vì quy định có thể thay đổi. Phần
 - **Không đi theo người vượt.** Nếu ai đó cố đi khi đã có lệnh dừng, việc của bạn vẫn là dừng.
 - **Đi theo nhóm vẫn mỗi người tự nhìn.** Người đi sau không nên bám theo xe bạn đi trước khi lượt đã đổi.
 
-Những kỹ năng chọn làn, hòa vào dòng xe khi không có người điều khiển nằm trong bài [qua ngã tư đông xe ở Hà Nội bằng xe máy](/thue-xe/2026/10/11/qua-nga-tu-ong-xe-o-ha-noi-bang-xe-may-cach-hoa-vao-dong-xe-lan-au/), còn nhóm biển báo thường gặp có ở bài [khách quốc tế đọc biển báo và luật giao thông cơ bản](/thue-xe/2026/09/27/khach-quoc-te-oc-bien-bao-va-luat-giao-thong-co-ban/).
+Những kỹ năng chọn làn, hòa vào dòng xe khi không có người điều khiển nằm trong bài [qua ngã tư đông xe ở Hà Nội bằng xe máy](/thue-xe/2026/10/11/qua-nga-tu-dong-xe-o-ha-noi-bang-xe-may-cach-hoa-vao-dong-xe-lan-dau/), còn nhóm biển báo thường gặp có ở bài [khách quốc tế đọc biển báo và luật giao thông cơ bản](/thue-xe/2026/09/27/khach-quoc-te-doc-bien-bao-va-luat-giao-thong-co-ban/).
 
 ## Tóm lại
 

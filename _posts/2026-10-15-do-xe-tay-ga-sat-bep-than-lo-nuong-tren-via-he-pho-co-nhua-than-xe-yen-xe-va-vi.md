@@ -44,18 +44,18 @@ Không có một khoảng cách cố định áp dụng cho mọi quán, vì b�
 
 Thứ tự ưu tiên khi chọn chỗ:
 
-- **Tốt nhất: gửi xe ở điểm có người trông giữ.** Bãi giữ xe trong phố cổ thường cách các quán ăn chỉ vài phút đi bộ. Xe được xếp xa bếp, có người trông, bạn ăn yên tâm hơn. Kinh nghiệm chọn bãi khi ăn tối trong khu này có trong bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-e-xe-o-au/).
+- **Tốt nhất: gửi xe ở điểm có người trông giữ.** Bãi giữ xe trong phố cổ thường cách các quán ăn chỉ vài phút đi bộ. Xe được xếp xa bếp, có người trông, bạn ăn yên tâm hơn. Kinh nghiệm chọn bãi khi ăn tối trong khu này có trong bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-de-xe-o-dau/).
 - **Nếu quán có người trông xe:** nhờ xếp xe ra xa bếp.
 - **Nếu buộc phải tự đỗ:** chọn phía đầu hướng gió, dựng xe sao cho đuôi xe hướng ra xa bếp, vì ống xả và vè sau vốn đã nóng sau khi chạy.
 
-Khi vỉa hè đã kín chỗ và bạn đang phân vân giữa đỗ tạm hay đi tìm bãi, hãy chọn đi tìm bãi. Cách xử lý khi hè phố hết chỗ được viết kỹ hơn trong bài [đỗ xe trên hè phố khi vỉa hè đã kín](/ky-nang/2026/10/04/o-xe-tren-he-pho-khi-via-he-a-kin/).
+Khi vỉa hè đã kín chỗ và bạn đang phân vân giữa đỗ tạm hay đi tìm bãi, hãy chọn đi tìm bãi. Cách xử lý khi hè phố hết chỗ được viết kỹ hơn trong bài [đỗ xe trên hè phố khi vỉa hè đã kín](/ky-nang/2026/10/04/do-xe-tren-he-pho-khi-via-he-da-kin/).
 
 ## Che chắn và chuẩn bị trước khi ngồi vào bàn
 
 Vài thao tác nhỏ giúp giảm hại cho xe trong lúc bạn ăn:
 
 - **Tắt máy, rút chìa hoặc tắt khóa thông minh, khóa cổ.** Máy nóng cộng nhiệt từ bếp là hai nguồn nhiệt cùng lúc.
-- **Không để đồ dễ chảy trong cốp hoặc giỏ.** Cốp xe ga không cách nhiệt tốt như nhiều người nghĩ; xem thêm về [khoang để đồ dưới yên xe ga chở được gì](/xe-may/2026/09/27/khoang-e-o-duoi-yen-xe-ga-cho-uoc-gi/).
+- **Không để đồ dễ chảy trong cốp hoặc giỏ.** Cốp xe ga không cách nhiệt tốt như nhiều người nghĩ; xem thêm về [khoang để đồ dưới yên xe ga chở được gì](/xe-may/2026/09/27/khoang-de-do-duoi-yen-xe-ga-cho-duoc-gi/).
 - **Không trùm ni lông, áo mưa lên xe.** Nếu muốn che khói, cách duy nhất hiệu quả là đưa xe ra xa.
 
 ## Kiểm tra xe trước khi lên xe về

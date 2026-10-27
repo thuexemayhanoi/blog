@@ -61,7 +61,7 @@ Bài [xe đạp công cộng quét mã hay thuê xe đạp điện theo buổi �
 
 ## Chở trẻ em dưới 7 tuổi: chỗ ngồi, chỗ bám và độ vững
 
-Nếu bạn chở một bé dưới 7 tuổi, hãy chọn xe có chỗ ngồi sau chắc, có chỗ để chân hoặc gác chân, và bé đủ lớn để ngồi thẳng. Ngồi thử trước. Bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-ieu-kien-gi/) nêu thêm cách chở trẻ trên xe hai bánh nói chung.
+Nếu bạn chở một bé dưới 7 tuổi, hãy chọn xe có chỗ ngồi sau chắc, có chỗ để chân hoặc gác chân, và bé đủ lớn để ngồi thẳng. Ngồi thử trước. Bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-dieu-kien-gi/) nêu thêm cách chở trẻ trên xe hai bánh nói chung.
 
 Đừng cho bé đứng ở phía trước hay ngồi trên tay lái, và đừng để bé ngủ gật khi xe đang chạy. Đi chậm ở đoạn đường xấu và dừng khi bé thấy khó chịu. An toàn của bé quan trọng hơn quãng đường bạn định đi.
 

@@ -33,13 +33,13 @@ Lên từ bên nào thì tùy thói quen và loại xe, nhiều người lên t�
 
 Khi bạn đã ngồi vững và giữ phanh, hãy dùng chân đạp hoặc gạt chân chống lên, rồi xác nhận xe đã đứng vững bằng hai chân và phanh. Chỉ khi đó bạn mới nói với người ngồi sau là có thể lên. Đừng để người sau lên trước khi chân chống chưa gạt hoặc khi bạn chưa ngồi vững, vì trọng lượng thêm vào có thể làm xe đổ.
 
-Hãy dặn người sau lên từ cùng một bên, đặt chân lên gác chân, bám vào tay nắm hoặc vai bạn, và không nhún nhảy khi ngồi. Bài [chở người ngồi sau lần đầu: thống nhất tín hiệu trước khi lên xe](/ky-nang/2026/10/11/cho-nguoi-ngoi-sau-lan-au-thong-nhat-tin-hieu-truoc-khi-len-xe/) nói thêm về cách thống nhất tín hiệu giữa hai người, ví dụ chờ một cái vỗ vai trước khi xuất phát.
+Hãy dặn người sau lên từ cùng một bên, đặt chân lên gác chân, bám vào tay nắm hoặc vai bạn, và không nhún nhảy khi ngồi. Bài [chở người ngồi sau lần đầu: thống nhất tín hiệu trước khi lên xe](/ky-nang/2026/10/11/cho-nguoi-ngoi-sau-lan-dau-thong-nhat-tin-hieu-truoc-khi-len-xe/) nói thêm về cách thống nhất tín hiệu giữa hai người, ví dụ chờ một cái vỗ vai trước khi xuất phát.
 
 ## Khi xuống: dừng hẳn, đặt chân chống rồi mới rời xe
 
 Khi xuống xe, hãy dừng hẳn ở chỗ bằng phẳng, giữ phanh, rồi mới đặt chân chống hoặc dựng xe bằng chân chống giữa nếu xe có. Báo cho người sau biết bạn sắp dừng và đang giữ phanh. Người sau chỉ nên xuống khi xe đã đứng vững và bạn vẫn giữ phanh, hoặc đợi bạn nói xuống, tránh nhảy xuống đột ngột khiến xe lắc.
 
-Sau khi người sau đã xuống, bạn mới tắt máy, rút chìa nếu cần, và xuống xe. Đừng vội rời tay khỏi tay lái cho đến khi xe tựa chắc vào chân chống. Nếu cần để xe trên dốc, hãy xem bài [chống xe máy trên dốc đúng cách không bị tuột chân chống](/ky-nang/2026/10/05/chong-xe-may-tren-doc-ung-cach-khong-bi-tuot-chan-chong/). Bài [cách bỏ chân chống xe máy thuê không bị kẹp](/ky-nang/2026/10/07/cach-bo-chan-chong-xe-may-thue-khong-bi-kep/) cũng hữu ích cho thao tác này.
+Sau khi người sau đã xuống, bạn mới tắt máy, rút chìa nếu cần, và xuống xe. Đừng vội rời tay khỏi tay lái cho đến khi xe tựa chắc vào chân chống. Nếu cần để xe trên dốc, hãy xem bài [chống xe máy trên dốc đúng cách không bị tuột chân chống](/ky-nang/2026/10/05/chong-xe-may-tren-doc-dung-cach-khong-bi-tuot-chan-chong/). Bài [cách bỏ chân chống xe máy thuê không bị kẹp](/ky-nang/2026/10/07/cach-bo-chan-chong-xe-may-thue-khong-bi-kep/) cũng hữu ích cho thao tác này.
 
 ## Xe ga, xe số và chỗ gửi xe: vài khác biệt đáng biết
 

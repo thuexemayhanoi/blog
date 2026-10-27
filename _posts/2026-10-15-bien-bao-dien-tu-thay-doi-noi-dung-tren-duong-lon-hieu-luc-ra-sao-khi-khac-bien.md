@@ -37,7 +37,7 @@ Luật số 36/2024/QH15 không nhắc trực tiếp đến biển điện tử.
 
 > "Khi ở một vị trí vừa có biển báo hiệu đặt cố định vừa có biển báo hiệu tạm thời mà hai biển có ý nghĩa khác nhau, người tham gia giao thông đường bộ phải chấp hành hiệu lệnh của biển báo hiệu tạm thời."
 
-Khoản này chỉ so sánh biển tạm thời với biển cố định. Đừng tự suy rằng mọi bảng điện tử đều là "biển tạm thời", hay ngược lại. Căn cứ cho biển điện tử là quy chuẩn kỹ thuật mà Điều 11 khoản 13 giao Bộ trưởng Bộ Xây dựng ban hành. Về biển tạm thời ở đoạn thi công, xem bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-oan-uong-ang-sua/).
+Khoản này chỉ so sánh biển tạm thời với biển cố định. Đừng tự suy rằng mọi bảng điện tử đều là "biển tạm thời", hay ngược lại. Căn cứ cho biển điện tử là quy chuẩn kỹ thuật mà Điều 11 khoản 13 giao Bộ trưởng Bộ Xây dựng ban hành. Về biển tạm thời ở đoạn thi công, xem bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-doan-duong-dang-sua/).
 
 ### Thứ tự ưu tiên chung vẫn giữ nguyên
 

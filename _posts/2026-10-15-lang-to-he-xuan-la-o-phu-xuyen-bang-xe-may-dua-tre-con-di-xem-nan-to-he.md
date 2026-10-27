@@ -27,7 +27,7 @@ Nếu con còn quá nhỏ để chịu một chặng dài, có phương án nh�
 
 ## Đi Xuân La Phú Xuyên: chọn quốc lộ 1A cũ, không vào cao tốc
 
-Từ phía Long Biên, qua sông bằng cầu Vĩnh Tuy hoặc cầu Chương Dương, rồi đi về phía Giải Phóng. Tới khu Pháp Vân, phải để ý kỹ: lối thẳng vào cao tốc Pháp Vân – Cầu Giẽ là đường cấm xe máy. Bạn đi theo quốc lộ 1A cũ qua Văn Điển, Ngọc Hồi, xuyên qua Thường Tín rồi xuống Phú Xuyên. Hai tuyến chạy gần song song nên ứng dụng bản đồ đôi khi gợi ý cao tốc; hãy chọn chế độ xe máy và nhìn biển trước mỗi nút giao. Xem thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Từ phía Long Biên, qua sông bằng cầu Vĩnh Tuy hoặc cầu Chương Dương, rồi đi về phía Giải Phóng. Tới khu Pháp Vân, phải để ý kỹ: lối thẳng vào cao tốc Pháp Vân – Cầu Giẽ là đường cấm xe máy. Bạn đi theo quốc lộ 1A cũ qua Văn Điển, Ngọc Hồi, xuyên qua Thường Tín rồi xuống Phú Xuyên. Hai tuyến chạy gần song song nên ứng dụng bản đồ đôi khi gợi ý cao tốc; hãy chọn chế độ xe máy và nhìn biển trước mỗi nút giao. Xem thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 Gần tới Phú Xuyên, rẽ phải sang hướng tây theo đường tỉnh, đi thêm vài cây số đường làng vào vùng Phượng Dực rồi hỏi đường vào thôn Xuân La. Một chiều thường mất khoảng một giờ nếu chạy đều; có trẻ con đi cùng, hãy tính dư ra nửa tiếng.
 
@@ -37,7 +37,7 @@ Quốc lộ 1A cũ nhiều xe tải và xe khách, nhất là đoạn qua Thư�
 
 Với trẻ nhỏ, cái mệt nhất là phải ngồi yên quá lâu. Vài nguyên tắc nên giữ:
 
-- **Mũ vừa đầu, không phải mũ người lớn đội tạm.** Mũ phải ôm vừa, cài quai dưới cằm, lách được khoảng một ngón tay. Mũ rộng sẽ xoay, trượt che mắt khi xe xóc. Cách chọn có trong bài [chọn mũ bảo hiểm cho trẻ đi cùng trên xe máy thuê](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-i-cung-tren-xe-may-thue/).
+- **Mũ vừa đầu, không phải mũ người lớn đội tạm.** Mũ phải ôm vừa, cài quai dưới cằm, lách được khoảng một ngón tay. Mũ rộng sẽ xoay, trượt che mắt khi xe xóc. Cách chọn có trong bài [chọn mũ bảo hiểm cho trẻ đi cùng trên xe máy thuê](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-di-cung-tren-xe-may-thue/).
 - **Trẻ ngồi giữa hai người lớn.** Người lái phía trước, một người lớn ngồi sau cùng ôm giữ bé. Không cho trẻ đứng ở sàn để chân hay ngồi trước tay lái trên chặng dài.
 - **Quần áo kín, giày có quai hậu.** Chân bé cần tránh xa ống xả.
 - **Dừng ngay khi bé buồn ngủ.** Trẻ ngủ gật trên xe rất dễ ngả người sang bên. Thấy con lim dim, tìm chỗ an toàn ven đường cho nghỉ, đừng cố chạy thêm.

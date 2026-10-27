@@ -67,7 +67,7 @@ Một thỏa thuận tử tế không cần dài, nhưng phải đủ những ý
 
 Nếu phải gửi ảnh giấy tờ, làm theo cách trong bài [gửi ảnh CCCD qua Zalo cho an toàn](/hoi-dap/2026/10/14/gui-anh-cccd-qua-zalo-de-dat-xe-may-thue-cach-gui-cho-an-toan/).
 
-Những ý này cũng nên khớp với nội dung trên phiếu thuê. Danh sách các mục một hợp đồng cần có nằm trong bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/).
+Những ý này cũng nên khớp với nội dung trên phiếu thuê. Danh sách các mục một hợp đồng cần có nằm trong bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/).
 
 ## Hẹn bổ sung giấy tờ thuê xe: ghi lại bằng tin nhắn
 

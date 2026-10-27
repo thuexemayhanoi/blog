@@ -37,7 +37,7 @@ Dùng một ngón tay hoặc đầu bút nhấc nhẹ đoạn xích đó lên, r
 - **Chùng:** nhấc lên rất dễ, xích lắc lư, võng sâu, có khi chạm vào tấm chắn hoặc mép hộp che.
 - **Quá căng:** gần như không nhấc lên được, sợi xích cứng như một thanh thẳng.
 
-Đừng chỉ thử ở một điểm. Quay bánh sau bằng tay khoảng nửa vòng rồi nhấc thử lại, làm hai ba lần. Một bộ xích mòn không đều sẽ có chỗ căng, chỗ chùng. Nếu độ võng thay đổi rõ giữa các lần thử, đó là thông tin nên kể với người giao xe. Bộ nhông xích đã tới lúc cần thay cả bộ hay chưa thì có bài riêng về [nhông xích đĩa xe số](/xe-may/2026/10/11/nhong-xich-ia-xe-so-khi-nao-phai-thay-ca-bo-thay-vi-chi-cang-xich/).
+Đừng chỉ thử ở một điểm. Quay bánh sau bằng tay khoảng nửa vòng rồi nhấc thử lại, làm hai ba lần. Một bộ xích mòn không đều sẽ có chỗ căng, chỗ chùng. Nếu độ võng thay đổi rõ giữa các lần thử, đó là thông tin nên kể với người giao xe. Bộ nhông xích đã tới lúc cần thay cả bộ hay chưa thì có bài riêng về [nhông xích đĩa xe số](/xe-may/2026/10/11/nhong-xich-dia-xe-so-khi-nao-phai-thay-ca-bo-thay-vi-chi-cang-xich/).
 
 Trong lúc nhấc, nhìn thêm màu xích. Xích có dầu thường sẫm, hơi bóng. Xích khô ngả nâu gỉ, có mắt xích cứng không gập đều theo nhông, là dấu hiệu cần bảo dưỡng.
 
@@ -96,7 +96,7 @@ Với kỳ thuê dài, hãy tập một thói quen nhỏ: mỗi sáng nhấc th�
 
 - Tiếng va mạnh, đều, nghe rõ cả trên đường phẳng.
 - Xích như trượt răng, xe giật mạnh khi lên ga.
-- Xích tuột khỏi nhông, khi đó làm theo bài [xe máy bị tuột xích giữa đường](/xe-may/2026/10/05/xe-may-bi-tuot-xich-giua-uong-chon-cho-dung-an-toan/).
+- Xích tuột khỏi nhông, khi đó làm theo bài [xe máy bị tuột xích giữa đường](/xe-may/2026/10/05/xe-may-bi-tuot-xich-giua-duong-chon-cho-dung-an-toan/).
 
 Bạn có thể mang xe ghé cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên trong giờ mở cửa 09:00–21:00 để người của cửa hàng xem, hoặc gọi số chính thức 0942467674 nếu đang ở xa. Mọi chi phí phát sinh nên được xác nhận trước khi sửa.
 

@@ -59,7 +59,7 @@ Hội đình diễn ra vào giữa tháng Hai âm lịch; các nguồn ghi khác
 
 ## Ghép với đền Đô và chùa Tiêu
 
-Đền Đô thờ các vị vua nhà Lý cũng ở khu Đình Bảng cũ, nên có thể viếng cả hai trong một buổi; đường đi và chỗ gửi xe ở đền có ở bài [từ Long Biên đi đền Đô Bắc Ninh bằng xe máy](/du-lich/2026/10/11/tu-long-bien-i-en-o-bac-ninh-bang-xe-may-quang-uong-va-thoi-gian-i-lai/ "Từ Long Biên đi đền Đô Bắc Ninh bằng xe máy"). Còn thời gian, ghé [chùa Tiêu gắn với thiền sư Vạn Hạnh](/du-lich/2026/10/16/chua-tieu-o-tu-son-gan-voi-thien-su-van-hanh-chay-xe-may-tu-long-bien-va-di-bo-l/ "Chùa Tiêu ở Từ Sơn") hoặc [làng đồ gỗ Đồng Kỵ](/du-lich/2026/10/16/lang-do-go-dong-ky-o-tu-son-tu-long-bien-qua-cau-duong-bang-xe-may-xem-xuong-go/ "Làng đồ gỗ Đồng Kỵ ở Từ Sơn").
+Đền Đô thờ các vị vua nhà Lý cũng ở khu Đình Bảng cũ, nên có thể viếng cả hai trong một buổi; đường đi và chỗ gửi xe ở đền có ở bài [từ Long Biên đi đền Đô Bắc Ninh bằng xe máy](/du-lich/2026/10/11/tu-long-bien-di-den-do-bac-ninh-bang-xe-may-quang-duong-va-thoi-gian-di-lai/ "Từ Long Biên đi đền Đô Bắc Ninh bằng xe máy"). Còn thời gian, ghé [chùa Tiêu gắn với thiền sư Vạn Hạnh](/du-lich/2026/10/16/chua-tieu-o-tu-son-gan-voi-thien-su-van-hanh-chay-xe-may-tu-long-bien-va-di-bo-l/ "Chùa Tiêu ở Từ Sơn") hoặc [làng đồ gỗ Đồng Kỵ](/du-lich/2026/10/16/lang-do-go-dong-ky-o-tu-son-tu-long-bien-qua-cau-duong-bang-xe-may-xem-xuong-go/ "Làng đồ gỗ Đồng Kỵ ở Từ Sơn").
 
 ## Câu hỏi thường gặp
 

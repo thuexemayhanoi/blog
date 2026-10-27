@@ -21,7 +21,7 @@ Người lớn tuổi có sức phản xạ chậm hơn, khớp gối khó co du
 
 Thứ hai là khối lượng xe. Xe số nhỏ gọn thường nhẹ hơn xe ga, nhưng lại đòi hỏi thao tác côn và chuyển số mà không phải cụ nào còn giữ phản xạ. Xe ga loại nhỏ như Vision hoặc Click lại có ưu điểm không cần chuyển số, đề điện nhẹ nhàng, chỉ đảo qua lại giữa ga và phanh. Với đa số người trên sáu mươi tuổi chưa từng dùng xe ga, hãy cho cụ thử đề xe và cảm giác phanh tay trước khi quyết định.
 
-Thứ ba là tốc độ và chế độ vận hành. Người cao tuổi thường chỉ đi trong bán kính ngắn: đi chợ, đi công viên, đi nhà chùa. Xe quá mạnh không mang lại lợi ích gì trong phố, ngược lại ga nhạy còn khiến xe giật khi cụ vặn nhẹ. Nếu gia đình vẫn băn khoăn về việc chọn dòng xe cụ thể, bài [người cao tuổi đi xe máy thuê nên chọn xe như thế nào](/thue-xe/2026/09/29/nguoi-cao-tuoi-i-xe-may-thue-nen-chon-xe-nhu-the-nao/) đã phân tích chi tiết từng dòng.
+Thứ ba là tốc độ và chế độ vận hành. Người cao tuổi thường chỉ đi trong bán kính ngắn: đi chợ, đi công viên, đi nhà chùa. Xe quá mạnh không mang lại lợi ích gì trong phố, ngược lại ga nhạy còn khiến xe giật khi cụ vặn nhẹ. Nếu gia đình vẫn băn khoăn về việc chọn dòng xe cụ thể, bài [người cao tuổi đi xe máy thuê nên chọn xe như thế nào](/thue-xe/2026/09/29/nguoi-cao-tuoi-di-xe-may-thue-nen-chon-xe-nhu-the-nao/) đã phân tích chi tiết từng dòng.
 
 ## Người thân thuê hộ xe cho bố mẹ: thủ tục thế nào
 
@@ -37,7 +37,7 @@ Thuê xe cho người lớn tuổi không chỉ là chuyện xe, mà còn là ch
 
 Về quãng đường, người cao tuổi chỉ nên chạy tuyến quen thuộc, đường vắng, ít xe tải. Những tuyến nội đô khu Long Biên, đường ven sông утром sớm thường phù hợp: đường phẳng, không dốc, xe thưa. Ngược lại, giờ tan tầm trên các trục lớn như đầu cầu hoặc vòng xuyến là lúc không nên để cụ tự mình ra đường, dù cụ từng rất thạo đường Hà Nội.
 
-Nhiên liệu cũng cần tính trước: cụ thường đi ít mỗi ngày, nên thuê theo ngày với mức giá phổ thông khoảng 150.000đ/ngày cho dòng xe nhỏ là hợp lý hơn thuê trọn gói nhiều ngày mà để xe đỗ không. Nếu cả nhà đi cùng như khi [thuê xe cho gia đình có trẻ nhỏ](/thue-xe/2026/09/29/thue-xe-may-cho-gia-inh-co-tre-nho-i-cung/), hãy để một người trẻ đi sau cụ để kịp ứng phó khi cần.
+Nhiên liệu cũng cần tính trước: cụ thường đi ít mỗi ngày, nên thuê theo ngày với mức giá phổ thông khoảng 150.000đ/ngày cho dòng xe nhỏ là hợp lý hơn thuê trọn gói nhiều ngày mà để xe đỗ không. Nếu cả nhà đi cùng như khi [thuê xe cho gia đình có trẻ nhỏ](/thue-xe/2026/09/29/thue-xe-may-cho-gia-dinh-co-tre-nho-di-cung/), hãy để một người trẻ đi sau cụ để kịp ứng phó khi cần.
 
 ## Giao nhận xe và những hỗ trợ nên yêu cầu
 

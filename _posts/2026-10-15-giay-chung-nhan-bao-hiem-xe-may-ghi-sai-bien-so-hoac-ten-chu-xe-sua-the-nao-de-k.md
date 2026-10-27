@@ -80,7 +80,7 @@ Bộ chứng từ này không thay được giấy chứng nhận đúng, nhưng
 
 Mua lại xe cũ kèm giấy bảo hiểm của chủ trước thì tên trên giấy sẽ khác tên bạn. Theo các tóm tắt khoản 3 Điều 9 Nghị định 67/2023/NĐ-CP, khi xe được chuyển quyền sở hữu trong thời hạn bảo hiểm, chủ xe cũ có quyền chấm dứt hợp đồng bảo hiểm. Nghĩa là bạn không nên mặc định hợp đồng đó vẫn chạy tiếp cho mình.
 
-Sau khi làm thủ tục đăng ký xe đứng tên mình, hãy hỏi doanh nghiệp bảo hiểm của chủ cũ xem hợp đồng còn hiệu lực không và có chuyển tên được không. Kênh mua và cách xác định hiệu lực có trong bài [mua bảo hiểm xe máy ở đâu và hiệu lực ra sao](/an-toan-phap-ly/2026/09/28/mua-bao-hiem-xe-may-o-au-va-hieu-luc-ra-sao/).
+Sau khi làm thủ tục đăng ký xe đứng tên mình, hãy hỏi doanh nghiệp bảo hiểm của chủ cũ xem hợp đồng còn hiệu lực không và có chuyển tên được không. Kênh mua và cách xác định hiệu lực có trong bài [mua bảo hiểm xe máy ở đâu và hiệu lực ra sao](/an-toan-phap-ly/2026/09/28/mua-bao-hiem-xe-may-o-dau-va-hieu-luc-ra-sao/).
 
 ## Với xe máy thuê: kiểm tra trước khi đi
 

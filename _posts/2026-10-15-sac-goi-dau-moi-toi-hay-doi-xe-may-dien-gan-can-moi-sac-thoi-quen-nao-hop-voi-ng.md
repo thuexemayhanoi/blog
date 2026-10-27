@@ -33,7 +33,7 @@ Cảnh sát PCCC Hà Nội, trong bài của VOV Giao thông ngày 07/08/2026, c
 
 Phần được cảnh báo nhiều nhất không phải chuyện cắm thường xuyên mà là sạc khi không ai trông. Công an TP Hà Nội, trong bài của VOV ngày 26/05/2024, dặn tuyệt đối không sạc qua đêm khi không kiểm soát được các thiết bị đang sạc, và không dùng nhiều thiết bị công suất lớn vào cùng một ổ cắm.
 
-Vì vậy nếu bạn thích giữ xe đầy, hãy gối đầu theo một cách khác: cắm vào buổi tối khi bạn còn thức và ở gần, rồi rút khi đã đủ hoặc trước khi đi ngủ, thay vì để cả đêm. Bài [sạc pin qua đêm nơi trọ: an toàn thế nào](/xe-may/2026/10/03/sac-pin-qua-em-noi-tro-an-toan-the-nao/) nói thêm về chuyện ở trọ.
+Vì vậy nếu bạn thích giữ xe đầy, hãy gối đầu theo một cách khác: cắm vào buổi tối khi bạn còn thức và ở gần, rồi rút khi đã đủ hoặc trước khi đi ngủ, thay vì để cả đêm. Bài [sạc pin qua đêm nơi trọ: an toàn thế nào](/xe-may/2026/10/03/sac-pin-qua-dem-noi-tro-an-toan-the-nao/) nói thêm về chuyện ở trọ.
 
 ## Ba nhịp sạc cho người đi lại mỗi ngày: chọn theo chỗ ở và giờ giấc
 
@@ -49,7 +49,7 @@ Hãy tạo một ghi chú trong điện thoại: ngày, giờ cắm, giờ rút,
 
 Dù bạn chọn nhịp nào, hãy dừng sạc khi thấy dấu hiệu bất thường. Khuyến cáo nêu không sạc cho phương tiện khi phát hiện thiết bị sạc hoặc phương tiện gặp lỗi, và khi ắc quy hay pin có dấu hiệu phù, nứt thì cần thay mới. Theo Cảnh sát PCCC Hà Nội, khi xe có dấu hiệu như sạc điện không vào hay có mùi khét, hãy mang xe đến cơ sở mua bán hoặc sửa chữa uy tín để kiểm tra.
 
-Với xe thuê, người đó thường là tiệm cho thuê; hãy báo tiệm thay vì tự xử lý. Bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ: dừng dùng và làm gì](/xe-may/2026/10/11/pin-xe-ien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/) nói thêm cách nhận biết.
+Với xe thuê, người đó thường là tiệm cho thuê; hãy báo tiệm thay vì tự xử lý. Bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ: dừng dùng và làm gì](/xe-may/2026/10/11/pin-xe-dien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/) nói thêm cách nhận biết.
 
 ## Hỏi tiệm cho thuê: loại pin, nhịp sạc nên dùng và chỗ sạc
 

@@ -21,7 +21,7 @@ Lần đầu tự đổ xăng Honda Vision thuê, nhiều người dừng trư�
 
 Khi nâng yên Vision lên, bạn sẽ thấy khoang cốp chứa đồ và nắp bình xăng hình tròn nằm cùng dưới yên. Không cần tháo gì, chỉ cần mở yên và giữ yên ở tư thế dựng lên trong lúc đổ.
 
-Vì nắp bình nằm ngay cạnh cốp, hãy để ý đồ trong cốp. Áo mưa, giấy tờ, túi vải nên được dồn gọn sang một bên, không đè lên hoặc che nắp bình. Nếu xăng lỡ tràn, đồ để sát nắp sẽ thấm mùi và bị bẩn. Bài [cốp Honda Vision ngày nắng gắt](/xe-may/2026/10/11/cop-honda-vision-ngay-nang-gat-nhung-mon-o-khong-nen-e-lai-trong-cop/) có thêm gợi ý những món không nên để lâu trong cốp.
+Vì nắp bình nằm ngay cạnh cốp, hãy để ý đồ trong cốp. Áo mưa, giấy tờ, túi vải nên được dồn gọn sang một bên, không đè lên hoặc che nắp bình. Nếu xăng lỡ tràn, đồ để sát nắp sẽ thấm mùi và bị bẩn. Bài [cốp Honda Vision ngày nắng gắt](/xe-may/2026/10/11/cop-honda-vision-ngay-nang-gat-nhung-mon-do-khong-nen-de-lai-trong-cop/) có thêm gợi ý những món không nên để lâu trong cốp.
 
 ## Mở yên Vision để đổ xăng: tùy bản xe
 
@@ -63,7 +63,7 @@ Vài điều nên làm:
 - Nếu nhân viên đổ, nói rõ "đổ vừa thôi, đừng tràn". Câu này rất bình thường ở cây xăng.
 - Lỡ có xăng tràn, xin nhân viên giấy hoặc khăn lau sạch quanh nắp và trên thân xe trước khi đóng yên.
 
-Muốn biết lúc nào nên ghé cây xăng để không cạn giữa đường, xem bài [canh kim xăng Honda Vision](/xe-may/2026/10/11/canh-kim-xang-honda-vision-ghe-cay-xang-luc-nao-e-khong-chet-may-giua-uong/).
+Muốn biết lúc nào nên ghé cây xăng để không cạn giữa đường, xem bài [canh kim xăng Honda Vision](/xe-may/2026/10/11/canh-kim-xang-honda-vision-ghe-cay-xang-luc-nao-de-khong-chet-may-giua-duong/).
 
 ## Chọn loại xăng cho Vision thuê
 

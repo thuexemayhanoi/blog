@@ -47,7 +47,7 @@ Ngày thường không có sự kiện, khu vực quanh Cung khá yên. Ngày c�
 - **Giữ vé cẩn thận và chụp ảnh vị trí xe.** Ngày đông, hàng trăm chiếc xe ga cùng màu xếp sát nhau. Chụp một tấm có biển số kèm cột mốc gần đó, lúc về sẽ đỡ đi tìm.
 - **Hỏi giờ đóng bãi.** Bãi gửi cho sự kiện có thể đóng theo giờ kết thúc hội chợ. Nếu định ở lại muộn, hỏi trước lúc gửi.
 
-Giá gửi do bên trông xe quy định và có thể khác giữa các sự kiện, nên hỏi trực tiếp khi nhận vé. Kinh nghiệm chung khi gửi xe ở nơi đông người, như ghi số vé, khóa cổ xe, không để đồ giá trị trong cốp, được nói kỹ hơn trong bài [gửi xe máy khi đi hội chợ đông người](/ky-nang/2026/10/11/gui-xe-may-khi-i-hoi-cho-ong-nguoi-tranh-nham-ve-xe/).
+Giá gửi do bên trông xe quy định và có thể khác giữa các sự kiện, nên hỏi trực tiếp khi nhận vé. Kinh nghiệm chung khi gửi xe ở nơi đông người, như ghi số vé, khóa cổ xe, không để đồ giá trị trong cốp, được nói kỹ hơn trong bài [gửi xe máy khi đi hội chợ đông người](/ky-nang/2026/10/11/gui-xe-may-khi-di-hoi-cho-dong-nguoi-tranh-nham-ve-xe/).
 
 ## Giờ vắng: đi lúc nào để xem cho thong thả
 

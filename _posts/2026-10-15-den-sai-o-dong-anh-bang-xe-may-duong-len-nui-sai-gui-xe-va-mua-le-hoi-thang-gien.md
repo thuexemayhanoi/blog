@@ -81,7 +81,7 @@ Chuẩn bị cho chuyến đi lễ đầu năm bằng xe máy:
 - Bật đèn khi trời mù sương, giữ khoảng cách vì đường làng dễ có người sang ngang.
 - Đồ lễ gói gọn trong túi, buộc chắc ở móc xe hoặc để trong cốp, không treo lủng lẳng hai bên tay lái.
 
-Nếu muốn đi một vòng hội xuân, có thể tham khảo thêm cách đi [đền Sóc ở Sóc Sơn](/du-lich/2026/10/04/en-soc-o-soc-son-bang-xe-may-cung-uong-va-gui-xe/) hoặc lịch trình [đi lễ đầu năm ở Long Biên](/du-lich/2026/10/15/di-le-dau-nam-o-long-bien-bang-xe-may-noi-cac-den-chua-gan-nhau-va-gui-xe-ngay-t/) gần tiệm tôi.
+Nếu muốn đi một vòng hội xuân, có thể tham khảo thêm cách đi [đền Sóc ở Sóc Sơn](/du-lich/2026/10/04/den-soc-o-soc-son-bang-xe-may-cung-duong-va-gui-xe/) hoặc lịch trình [đi lễ đầu năm ở Long Biên](/du-lich/2026/10/15/di-le-dau-nam-o-long-bien-bang-xe-may-noi-cac-den-chua-gan-nhau-va-gui-xe-ngay-t/) gần tiệm tôi.
 
 ## Chọn xe và khi xe gặp sự cố
 
@@ -89,4 +89,4 @@ Cung đường bằng phẳng, chủ yếu đường lớn rồi đường làng
 
 Nếu xe thuê bị thủng lốp hay khó nổ máy trên đường, dắt xe vào lề an toàn rồi gọi cửa hàng theo số 0942 467 674 để được hướng dẫn. Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00.
 
-Trên đường về, ghé [thành Cổ Loa](/du-lich/2026/10/01/i-thanh-co-loa-bang-xe-may-cung-uong-va-luu-y-chay-xe/) là hợp nhất, vì đền Sái gắn với cùng một tích xây thành. Các cung khác quanh thủ đô có ở mục [ngoại thành Hà Nội](/du-lich/ngoai-thanh/) và trang [du lịch Hà Nội](/du-lich/).
+Trên đường về, ghé [thành Cổ Loa](/du-lich/2026/10/01/di-thanh-co-loa-bang-xe-may-cung-duong-va-luu-y-chay-xe/) là hợp nhất, vì đền Sái gắn với cùng một tích xây thành. Các cung khác quanh thủ đô có ở mục [ngoại thành Hà Nội](/du-lich/ngoai-thanh/) và trang [du lịch Hà Nội](/du-lich/).

@@ -85,7 +85,7 @@ Súc miệng và chờ đợi không phải cách bảo đảm kết quả đo. 
 
 Giữ bình tĩnh, hợp tác, nói rõ bạn vừa ăn quả gì và cách đây bao lâu, hỏi rõ các bước tiếp theo. Đọc kỹ giấy tờ trước khi ký và giữ bản được giao.
 
-Nếu đang đi xe thuê, đừng cầm lái khi hơi thở có thể còn cồn, và báo cho cửa hàng sớm nếu có sự việc. Các bước cụ thể nằm trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/). Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa từ 09:00 đến 21:00; mọi câu hỏi về chính sách cửa hàng xin xác nhận trực tiếp qua số 0942467674 trong khung giờ này. Với trường hợp đã uống rượu bia tối hôm trước, xem thêm [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/em-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-o-con-khong/).
+Nếu đang đi xe thuê, đừng cầm lái khi hơi thở có thể còn cồn, và báo cho cửa hàng sớm nếu có sự việc. Các bước cụ thể nằm trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-do-con/). Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa từ 09:00 đến 21:00; mọi câu hỏi về chính sách cửa hàng xin xác nhận trực tiếp qua số 0942467674 trong khung giờ này. Với trường hợp đã uống rượu bia tối hôm trước, xem thêm [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/dem-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-do-con-khong/).
 
 ## Ghi chú về nguồn và giới hạn của bài
 

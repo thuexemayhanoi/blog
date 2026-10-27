@@ -39,7 +39,7 @@ Hãy nhắn địa chỉ ngay khi bạn nhận phòng, và nhớ nhắn lại n�
 
 Nếu bạn ở nhà bạn bè hay người thân, hãy cung cấp địa chỉ nhà đó, kèm tên người ở cùng nếu tiệm hỏi và bạn thấy thoải mái. Đó cũng là một địa chỉ hợp lệ để tiệm liên lạc. Cân nhắc xin phép chủ nhà trước khi đưa địa chỉ của họ cho người lạ.
 
-Nếu bạn sẽ đổi chỗ ở giữa kỳ thuê, ví dụ từ khách sạn này sang khách sạn khác hoặc đi tỉnh rồi quay về, hãy nhắn cho tiệm khi đổi. Chỉ cần một tin nhắn ngắn: tên nơi mới, ngày chuyển. Việc này hiếm khi gây rắc rối nhưng giúp tránh hiểu lầm nếu tiệm cần tìm bạn. Bài [thuê xe máy lần đầu: giấy tờ cần mang và câu nên hỏi](/thue-xe/2026/10/01/thue-xe-may-lan-au-giay-to-can-mang-va-cau-nen-hoi/) liệt kê những câu nên hỏi trong lần làm thủ tục đầu tiên.
+Nếu bạn sẽ đổi chỗ ở giữa kỳ thuê, ví dụ từ khách sạn này sang khách sạn khác hoặc đi tỉnh rồi quay về, hãy nhắn cho tiệm khi đổi. Chỉ cần một tin nhắn ngắn: tên nơi mới, ngày chuyển. Việc này hiếm khi gây rắc rối nhưng giúp tránh hiểu lầm nếu tiệm cần tìm bạn. Bài [thuê xe máy lần đầu: giấy tờ cần mang và câu nên hỏi](/thue-xe/2026/10/01/thue-xe-may-lan-dau-giay-to-can-mang-va-cau-nen-hoi/) liệt kê những câu nên hỏi trong lần làm thủ tục đầu tiên.
 
 ## Chỉ đưa thông tin cần thiết và hỏi cách tiệm bảo quản
 
@@ -51,7 +51,7 @@ Hãy hỏi tiệm lưu thông tin ở đâu, ai xem được và có chia sẻ c
 
 Trước khi đến tiệm, hãy chuẩn bị tên và địa chỉ nơi ở ở dạng dễ đọc: ảnh đơn đặt phòng, hoặc ghi chú trên điện thoại. Nếu bạn chưa có, hãy chuẩn bị sẵn câu trả lời trung thực như đã nói ở trên. Chuẩn bị sẵn giúp thủ tục diễn ra nhanh và giảm khả năng nhầm.
 
-Bài [chuẩn bị giấy tờ gì trước khi đến cửa hàng thuê xe](/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-en-cua-hang-thue-xe/) nêu những thứ nên mang. Tiệm Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, số liên hệ 0942467674; yêu cầu cụ thể về thông tin nơi ở bài không có dữ kiện, hãy hỏi và xác nhận trực tiếp. Xem thêm các bài khác trong chuyên mục [thủ tục thuê xe](/thue-xe/thu-tuc/) và trang [thuê xe](/thue-xe/).
+Bài [chuẩn bị giấy tờ gì trước khi đến cửa hàng thuê xe](/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-den-cua-hang-thue-xe/) nêu những thứ nên mang. Tiệm Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, số liên hệ 0942467674; yêu cầu cụ thể về thông tin nơi ở bài không có dữ kiện, hãy hỏi và xác nhận trực tiếp. Xem thêm các bài khác trong chuyên mục [thủ tục thuê xe](/thue-xe/thu-tuc/) và trang [thuê xe](/thue-xe/).
 
 ## Tóm lại
 

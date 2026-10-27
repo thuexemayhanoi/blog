@@ -49,7 +49,7 @@ Về chuyện vượt, hãy tự đặt cho mình mấy điều kiện cứng:
 
 Điều cuối cùng hay bị bỏ qua. Xe tải chở vật liệu thường rẽ khỏi đê để vào bến bãi hoặc công trình ven sông, và nhiều xe giảm tốc trước khi bật xi nhan. Nếu bạn vừa lúc vượt bên phải hay bên trái đúng khi nó rẽ, bạn sẽ ở ngay trong góc khuất. Khi thấy xe tải chậm lại bất thường, hãy chậm theo và chờ.
 
-Bài [đi sau xe tải hít bụi và chắn tầm nhìn](/ky-nang/2026/10/09/i-sau-xe-tai-hit-bui-va-chan-tam-nhin-xu-ly-sao/) có thêm cách chọn vị trí khi phải bám sau xe lớn một quãng dài.
+Bài [đi sau xe tải hít bụi và chắn tầm nhìn](/ky-nang/2026/10/09/di-sau-xe-tai-hit-bui-va-chan-tam-nhin-xu-ly-sao/) có thêm cách chọn vị trí khi phải bám sau xe lớn một quãng dài.
 
 ## Ổ gà, cát sỏi rơi vãi và vệt bùn: đọc mặt đường từ xa
 
@@ -59,7 +59,7 @@ Mặt đê chịu tải nặng nên xuống cấp nhanh, nhất là những đo�
 - **Cát sỏi rơi vãi.** Thường dồn ở mép đường, ở chỗ xe tải rẽ vào bãi và ở chân dốc đê.
 - **Vệt bùn từ bánh xe tải.** Xe ra khỏi bến bãi kéo theo bùn đất, khô thì thành bụi, gặp chút nước tưới đường thì trơn như bôi mỡ.
 
-Cách xử lý với Air Blade là nhìn xa, chọn đường sớm và giữ xe thẳng khi đi qua. Nếu không né kịp ổ gà, đừng bóp phanh ngay trên miệng hố; giảm tốc trước, nhả phanh, để xe lăn qua với tay lái thẳng, hơi nhấc người khỏi yên một chút cho đỡ dằn. Trên lớp cát, tuyệt đối không vặn ga mạnh và không đánh lái gắt. Cảm thấy bánh sau hơi trôi thì giữ ga đều, đừng hoảng mà nhả ga đột ngột. Xem thêm bài [gặp ổ gà khi đang chạy nhanh](/ky-nang/2026/10/07/gap-o-ga-khi-ang-chay-nhanh-xu-ly-the-nao/).
+Cách xử lý với Air Blade là nhìn xa, chọn đường sớm và giữ xe thẳng khi đi qua. Nếu không né kịp ổ gà, đừng bóp phanh ngay trên miệng hố; giảm tốc trước, nhả phanh, để xe lăn qua với tay lái thẳng, hơi nhấc người khỏi yên một chút cho đỡ dằn. Trên lớp cát, tuyệt đối không vặn ga mạnh và không đánh lái gắt. Cảm thấy bánh sau hơi trôi thì giữ ga đều, đừng hoảng mà nhả ga đột ngột. Xem thêm bài [gặp ổ gà khi đang chạy nhanh](/ky-nang/2026/10/07/gap-o-ga-khi-dang-chay-nhanh-xu-ly-the-nao/).
 
 ## Bụi đất ban ngày: giữ mắt và tầm nhìn
 

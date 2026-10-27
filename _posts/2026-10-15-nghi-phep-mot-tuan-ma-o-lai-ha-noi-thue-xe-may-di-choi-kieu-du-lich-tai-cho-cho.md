@@ -35,7 +35,7 @@ Sau đó, đừng vội lao ra trục đường lớn. Tìm một chỗ vắng g
 - **Một đoạn đường gom ven đê ít xe** vào lúc không phải giờ tan tầm.
 - **Bãi đất trống hoặc sân rộng** nếu chỗ bạn ở có, chỉ cần đủ để đi vòng chậm và tập phanh.
 
-Ở đó, chạy chậm vài vòng, tập bóp phanh nhẹ rồi dứt khoát, tập quay đầu xe, tập liếc gương trước khi đổi hướng. Chỉnh gương cho vừa tầm, chỉnh tư thế ngồi cho thoải mái. Những bước kiểm tra kỹ hơn được viết trong bài [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-uong/). Chiều ngày đầu, nếu thấy đã quen tay, thử một vòng ngắn quanh khu mình ở.
+Ở đó, chạy chậm vài vòng, tập bóp phanh nhẹ rồi dứt khoát, tập quay đầu xe, tập liếc gương trước khi đổi hướng. Chỉnh gương cho vừa tầm, chỉnh tư thế ngồi cho thoải mái. Những bước kiểm tra kỹ hơn được viết trong bài [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-duong/). Chiều ngày đầu, nếu thấy đã quen tay, thử một vòng ngắn quanh khu mình ở.
 
 ## Chia bảy ngày: phố, ven sông, ngoại thành và ngày nghỉ hẳn
 
@@ -49,7 +49,7 @@ Nguyên tắc chung là mỗi ngày chỉ một vùng, đi xa thì xen một ng�
 6. **Ngày sáu:** Cổ Loa ở Đông Anh, qua cầu Nhật Tân hoặc cầu Long Biên tùy chỗ ở, về trước khi trời tối.
 7. **Ngày bảy:** ghé lại nơi thích nhất trong tuần, đổ xăng, lau xe và chuẩn bị trả.
 
-Lịch này cố ý không nêu giờ mở cửa hay vé vào những nơi tham quan; trước khi đi, hãy xem thông tin mới nhất của từng nơi. Nếu muốn so thêm hướng đi ngoại thành, bài [đi xe máy ra ngoại thành Hà Nội cuối tuần chọn hướng nào](/du-lich/2026/09/28/i-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao/) có thêm vài gợi ý.
+Lịch này cố ý không nêu giờ mở cửa hay vé vào những nơi tham quan; trước khi đi, hãy xem thông tin mới nhất của từng nơi. Nếu muốn so thêm hướng đi ngoại thành, bài [đi xe máy ra ngoại thành Hà Nội cuối tuần chọn hướng nào](/du-lich/2026/09/28/di-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao/) có thêm vài gợi ý.
 
 ## Thói quen xe buýt cần đổi khi tự cầm lái
 

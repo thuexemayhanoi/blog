@@ -49,7 +49,7 @@ Nguyên tắc của tôi rất đơn giản: chừng nào chưa nhìn rõ mặt 
 4. **Không đánh lái gấp, không nghiêng sâu khi vào cua.** Qua vạch sơn hay nắp cống thì giữ xe thẳng, không phanh, không thốc ga.
 5. **Tránh vũng nước không thấy đáy.** Vũng trông nông dưới nắng có thể là một ổ gà sâu.
 
-Thao tác bóp phanh khi má còn ướt được nói kỹ trong bài [phanh xe máy khi má phanh còn ướt](/ky-nang/2026/10/11/phanh-xe-may-khi-ma-phanh-con-uot-bop-som-bop-nhe-de-phanh-kho-dan/), còn cách đi qua vạch kẻ đường có trong bài [đi xe máy trên vạch sơn đường ướt](/ky-nang/2026/10/11/i-xe-may-tren-vach-son-uong-uot-tranh-truot-banh/).
+Thao tác bóp phanh khi má còn ướt được nói kỹ trong bài [phanh xe máy khi má phanh còn ướt](/ky-nang/2026/10/11/phanh-xe-may-khi-ma-phanh-con-uot-bop-som-bop-nhe-de-phanh-kho-dan/), còn cách đi qua vạch kẻ đường có trong bài [đi xe máy trên vạch sơn đường ướt](/ky-nang/2026/10/11/di-xe-may-tren-vach-son-duong-uot-tranh-truot-banh/).
 
 ## Chỉnh tầm nhìn khi mặt đường lóa nắng
 

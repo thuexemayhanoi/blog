@@ -79,7 +79,7 @@ Một lượt gọn có thể như sau:
 3. Đi bộ theo Hoàng Diệu lên Bắc Sơn, dừng ở đài tưởng niệm khoảng 20 phút.
 4. Quay lại lấy xe, chạy tiếp sang điểm khác.
 
-Từ đây, ghé Hoàng Thành là hợp nhất, cách nối các cổng và chỗ gửi xe có trong bài [di chuyển giữa các di tích Hoàng thành bằng xe máy](/du-lich/2026/10/09/di-chuyen-giua-cac-di-tich-hoang-thanh-bang-xe-may/). Ai quan tâm lịch sử kháng chiến có thể nối thêm theo [tuyến di tích chiến tranh ở Hà Nội](/du-lich/2026/10/11/tuyen-di-tich-chien-tranh-o-ha-noi-bang-xe-may-noi-cac-iem-trong-mot-ngay/). Nếu đi cùng ông bà, bố mẹ, xem thêm bài [đi chơi Hà Nội cùng bố mẹ lớn tuổi](/du-lich/2026/10/11/i-choi-ha-noi-cung-bo-me-lon-tuoi-iem-en-it-bac-thang-va-de-dung-xe/) để chọn điểm ít bậc thang.
+Từ đây, ghé Hoàng Thành là hợp nhất, cách nối các cổng và chỗ gửi xe có trong bài [di chuyển giữa các di tích Hoàng thành bằng xe máy](/du-lich/2026/10/09/di-chuyen-giua-cac-di-tich-hoang-thanh-bang-xe-may/). Ai quan tâm lịch sử kháng chiến có thể nối thêm theo [tuyến di tích chiến tranh ở Hà Nội](/du-lich/2026/10/11/tuyen-di-tich-chien-tranh-o-ha-noi-bang-xe-may-noi-cac-diem-trong-mot-ngay/). Nếu đi cùng ông bà, bố mẹ, xem thêm bài [đi chơi Hà Nội cùng bố mẹ lớn tuổi](/du-lich/2026/10/11/di-choi-ha-noi-cung-bo-me-lon-tuoi-diem-den-it-bac-thang-va-de-dung-xe/) để chọn điểm ít bậc thang.
 
 ## Lưu ý cho người thuê xe máy
 

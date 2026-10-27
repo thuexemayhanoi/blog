@@ -34,7 +34,7 @@ Với ô tô, hãy để ý thêm đèn phanh thứ ba gắn cao ở kính sau. 
 - **Một loạt đèn phanh sáng lên phía xa.** Trên trục dài như Nguyễn Văn Cừ hướng ra cầu Chương Dương hay Giải Phóng về đêm, khi thấy cả dãy đèn đỏ phía trước rực lên cùng lúc, hãy nhả ga ngay dù xe sát bạn chưa phanh.
 - **Xi nhan nháy kèm đèn phanh.** Xe sắp rẽ hoặc tấp vào lề, thường đi chậm và có thể dừng đột ngột.
 
-Đọc tín hiệu từ những người xung quanh vào ban ngày được nói kỹ trong bài [đọc ý định người đi xe xung quanh](/ky-nang/2026/10/11/oc-y-inh-nguoi-i-xe-xung-quanh-dau-hieu-sap-re-sap-tat-au-hay-sap-phanh/); ban đêm bạn chỉ còn ánh đèn để đọc nên càng phải tập trung.
+Đọc tín hiệu từ những người xung quanh vào ban ngày được nói kỹ trong bài [đọc ý định người đi xe xung quanh](/ky-nang/2026/10/11/doc-y-dinh-nguoi-di-xe-xung-quanh-dau-hieu-sap-re-sap-tat-dau-hay-sap-phanh/); ban đêm bạn chỉ còn ánh đèn để đọc nên càng phải tập trung.
 
 ## Ước lượng khoảng cách ban đêm bằng thời gian, không bằng mắt
 
@@ -69,6 +69,6 @@ Bạn đọc đèn hậu của người khác thì người phía sau cũng đan
 - Lau sạch bụi bám trên chụp đèn sau.
 - Xem đèn chiếu sáng và xi nhan có hoạt động.
 
-Với xe thuê, nên làm việc này ngay lúc nhận xe theo hướng dẫn trong bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-en-phanh-xe-may-thue-truoc-khi-nhan-xe/). Nếu thấy đèn yếu hay không sáng, báo tiệm để đổi hoặc sửa trước khi đi.
+Với xe thuê, nên làm việc này ngay lúc nhận xe theo hướng dẫn trong bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-den-phanh-xe-may-thue-truoc-khi-nhan-xe/). Nếu thấy đèn yếu hay không sáng, báo tiệm để đổi hoặc sửa trước khi đi.
 
 Tóm lại, ban đêm hãy biết mức sáng nền của đèn hậu xe trước, nhả ga ngay khi nó rực lên, đếm nhịp thay vì đoán mét, nghi ngờ mọi chấm đỏ mờ và giữ khoảng đủ để phanh. Các bài nền khác có ở mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) và chuyên mục [kỹ năng](/ky-nang/).

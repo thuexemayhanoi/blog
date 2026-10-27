@@ -25,7 +25,7 @@ Né không phải lúc nào cũng là lựa chọn tốt nhất. Theo tài liệ
 - **Bên cạnh vật cản có khoảng trống không?** Né sang một làn đang có xe chạy tới có thể nguy hiểm hơn chính vật cản.
 - **Vật cản có đủ nhỏ để đi qua không?** Với vật thấp, đi thẳng qua với tốc độ đã giảm, giữ chắc tay lái, đôi khi ít rủi ro hơn né gấp.
 
-Thói quen nhìn xa và giữ khoảng cách giúp bạn hiếm khi phải đứng trước câu hỏi này. Cách giữ khoảng cách có ở bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-i-xe-may/ "Giữ khoảng cách an toàn khi đi xe máy").
+Thói quen nhìn xa và giữ khoảng cách giúp bạn hiếm khi phải đứng trước câu hỏi này. Cách giữ khoảng cách có ở bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-di-xe-may/ "Giữ khoảng cách an toàn khi đi xe máy").
 
 ## Đánh lái né vật cản: ấn tay lái về phía muốn đi
 
@@ -46,7 +46,7 @@ Với xe tay ga như Honda Vision, Air Blade, Click hay xe số như Wave, Siriu
 - **Phanh trước cú né:** nếu còn chút thời gian, giảm tốc trên đường thẳng trước, rồi nhả phanh và né.
 - **Phanh sau cú né:** khi xe đã qua vật cản và thẳng lại, lúc đó mới phanh để dừng hoặc giảm tốc tiếp.
 
-Cách phối hợp hai phanh khi xe thẳng có ở bài [phanh trước và phanh sau: phối hợp thế nào cho an toàn](/ky-nang/2026/10/10/phanh-truoc-va-phanh-sau-phoi-hop-the-nao-cho-an-toan/ "Phanh trước và phanh sau phối hợp thế nào"). Với vệt dầu hay mặt đường trơn, cần nhẹ tay hơn nữa, như bài [gặp vệt dầu loang trên mặt đường sau xe tải](/ky-nang/2026/10/10/gap-vet-dau-loang-tren-mat-uong-sau-xe-tai-ne-va-phanh-the-nao/ "Gặp vệt dầu loang trên mặt đường") hướng dẫn.
+Cách phối hợp hai phanh khi xe thẳng có ở bài [phanh trước và phanh sau: phối hợp thế nào cho an toàn](/ky-nang/2026/10/10/phanh-truoc-va-phanh-sau-phoi-hop-the-nao-cho-an-toan/ "Phanh trước và phanh sau phối hợp thế nào"). Với vệt dầu hay mặt đường trơn, cần nhẹ tay hơn nữa, như bài [gặp vệt dầu loang trên mặt đường sau xe tải](/ky-nang/2026/10/10/gap-vet-dau-loang-tren-mat-duong-sau-xe-tai-ne-va-phanh-the-nao/ "Gặp vệt dầu loang trên mặt đường") hướng dẫn.
 
 ## Né để tránh, không phải lạng lách
 

@@ -78,7 +78,7 @@ Giữ số 2 cũng giúp người ngồi sau dễ chịu hơn nhiều: không c�
 - **Hạn chế bấm còi** trong khu dân cư, nhất là buổi tối và gần trường học.
 - **Gửi xe đúng nơi quy định** khi dừng chơi, không dựng xe trên vỉa hè hay bãi cỏ.
 
-Nếu chưa quen đường vào hai khu này từ phía Long Biên, hai bài [đi Vinhomes Ocean Park bằng xe máy](/du-lich/2026/10/11/vinhomes-ocean-park-bang-xe-may-tu-long-bien-uong-vao-va-gio-nen-i/) và [đi Ecopark bằng xe máy từ Long Biên](/du-lich/2026/10/11/tu-long-bien-i-ecopark-bang-xe-may-cung-uong-va-cach-tranh-gio-ong/) có gợi ý cung đường và giờ nên đi.
+Nếu chưa quen đường vào hai khu này từ phía Long Biên, hai bài [đi Vinhomes Ocean Park bằng xe máy](/du-lich/2026/10/11/vinhomes-ocean-park-bang-xe-may-tu-long-bien-duong-vao-va-gio-nen-di/) và [đi Ecopark bằng xe máy từ Long Biên](/du-lich/2026/10/11/tu-long-bien-di-ecopark-bang-xe-may-cung-duong-va-cach-tranh-gio-dong/) có gợi ý cung đường và giờ nên đi.
 
 ## Tóm lại
 

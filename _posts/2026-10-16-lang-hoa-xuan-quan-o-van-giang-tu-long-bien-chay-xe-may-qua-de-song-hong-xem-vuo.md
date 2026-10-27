@@ -21,7 +21,7 @@ Làng hoa Xuân Quan Văn Giang nằm trên bãi ven sông Hồng, là nơi nhi�
 
 Từ ngày 1/7/2025, cấp huyện không còn, và theo Nghị quyết 1666/NQ-UBTVQH15, ba xã Xuân Quan, Cửu Cao và Phụng Công cũ được gộp thành xã Phụng Công. Tỉnh Hưng Yên cũng được hợp nhất với tỉnh Thái Bình thành tỉnh Hưng Yên mới. Vì vậy báo chí năm 2026 viết "làng hoa Xuân Quan (xã Phụng Công, tỉnh Hưng Yên)". Người ta vẫn quen gọi theo tên cũ "Xuân Quan, Văn Giang", nhưng khi tra bản đồ hay hỏi đường, hãy nhớ cả tên xã mới.
 
-Làng nằm ngay cạnh khu đô thị Ecopark; một cư dân Ecopark từng nói với báo Đảng Cộng sản Việt Nam rằng làng hoa chỉ cách nhà mình "vài bước chân". Đường đi Ecopark có ở bài [từ Long Biên đi Ecopark bằng xe máy](/du-lich/2026/10/11/tu-long-bien-i-ecopark-bang-xe-may-cung-uong-va-cach-tranh-gio-ong/ "Từ Long Biên đi Ecopark bằng xe máy").
+Làng nằm ngay cạnh khu đô thị Ecopark; một cư dân Ecopark từng nói với báo Đảng Cộng sản Việt Nam rằng làng hoa chỉ cách nhà mình "vài bước chân". Đường đi Ecopark có ở bài [từ Long Biên đi Ecopark bằng xe máy](/du-lich/2026/10/11/tu-long-bien-di-ecopark-bang-xe-may-cung-duong-va-cach-tranh-gio-dong/ "Từ Long Biên đi Ecopark bằng xe máy").
 
 ## Xuân Quan trồng hoa gì
 
@@ -49,7 +49,7 @@ Tên chính thức của tuyến đường ven sông là đường đê Long Bi�
 - **Mùa lũ**: khi có báo động lũ, chính quyền có thể cấm xe cơ giới lên đê; tháng 9/2024, Hưng Yên từng đề xuất cấm phương tiện trên tuyến đê tả sông Hồng khi báo động cấp II.
 - **Xe tải**: đê hẹp, có xe chở vật liệu; đi sát bên phải, không vượt ở khúc cua. Cách chạy an toàn có ở bài [chạy xe trên đường đê sông Hồng](/xe-may/2026/10/14/chay-honda-air-blade-tren-duong-de-song-hong-mat-duong-hep-xe-tai-cho-vat-lieu-v/ "Chạy xe trên đường đê sông Hồng").
 
-Muốn ghép thêm điểm, Bát Tràng nằm trên đường đi; đường vào làng gốm và chỗ gửi xe có ở bài [làng gốm Bát Tràng bằng xe máy từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-uong-i-va-gui-xe/ "Làng gốm Bát Tràng bằng xe máy từ Long Biên").
+Muốn ghép thêm điểm, Bát Tràng nằm trên đường đi; đường vào làng gốm và chỗ gửi xe có ở bài [làng gốm Bát Tràng bằng xe máy từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-duong-di-va-gui-xe/ "Làng gốm Bát Tràng bằng xe máy từ Long Biên").
 
 ## Dạo vườn cho lịch sự
 
@@ -67,7 +67,7 @@ Luật Trật tự, an toàn giao thông đường bộ cấm người ngồi sa
 - Chậu lớn, cây cao thì nhờ vườn giao hoặc gửi xe chở hàng, đừng cố chất lên xe máy.
 - Về theo đê thì đi chậm qua đoạn mặt đường xấu, phanh sớm.
 
-Cách cố định chậu lớn hơn có ở bài [chở cây kiểng chậu lớn trên xe máy](/ky-nang/2026/10/04/cho-cay-kieng-chau-lon-tren-xe-may-meo-co-inh/ "Chở cây kiểng chậu lớn trên xe máy").
+Cách cố định chậu lớn hơn có ở bài [chở cây kiểng chậu lớn trên xe máy](/ky-nang/2026/10/04/cho-cay-kieng-chau-lon-tren-xe-may-meo-co-dinh/ "Chở cây kiểng chậu lớn trên xe máy").
 
 ## Câu hỏi thường gặp
 

@@ -21,7 +21,7 @@ Nhiều phụ huynh chọn chở trẻ em bằng xe máy điện thuê vì xe ê
 
 Xe xăng tăng tốc từ từ, còn xe máy điện cho lực kéo gần như ngay lập tức, cổ tay hơi mạnh là xe vọt lên. Người lớn ngồi sau có thể tự bám, còn một đứa trẻ nhỏ người nhẹ, tay chưa đủ lực, dễ bị ngả ra sau hoặc va đầu vào lưng người lái.
 
-Nhiều xe điện còn hãm khi nhả ga, nên nhả đột ngột thì bé bị dồn về phía trước. Lần đầu cầm xe, hãy đọc thêm bài [xuất phát êm với xe điện ở ngã tư đông](/xe-may/2026/10/11/xe-ien-tang-toc-tuc-thi-cach-xuat-phat-em-o-nga-tu-ong/) và tự chạy vài vòng một mình trước khi đón con.
+Nhiều xe điện còn hãm khi nhả ga, nên nhả đột ngột thì bé bị dồn về phía trước. Lần đầu cầm xe, hãy đọc thêm bài [xuất phát êm với xe điện ở ngã tư đông](/xe-may/2026/10/11/xe-dien-tang-toc-tuc-thi-cach-xuat-phat-em-o-nga-tu-dong/) và tự chạy vài vòng một mình trước khi đón con.
 
 Điểm thứ ba là trọng lượng. Xe điện mang khối pin nặng, khi thêm một người lớn và một trẻ thì cảm giác lái ở tốc độ thấp khác hẳn lúc chạy một mình. Mỗi mẫu xe có giới hạn tải riêng, nên đừng tự đoán: khi nhận xe, hãy hỏi thẳng cửa hàng chiếc xe này chở được mấy người và tải bao nhiêu là phù hợp.
 
@@ -36,7 +36,7 @@ Luật giao thông yêu cầu người ngồi trên xe máy, kể cả xe máy �
 - **Quai cài dưới cằm vừa khít.** Nhét vừa một hai ngón tay giữa quai và cằm là ổn.
 - **Mũ nhẹ, có lỗ thoáng.** Mũ nặng làm bé mỏi cổ.
 
-Nếu thuê xe ở cửa hàng, hãy hỏi trước có mũ trẻ em không, và mang theo mũ riêng của con nếu có. Chi tiết về tiêu chí chọn mũ có trong bài [chọn mũ bảo hiểm cho trẻ đi cùng trên xe máy thuê](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-i-cung-tren-xe-may-thue/).
+Nếu thuê xe ở cửa hàng, hãy hỏi trước có mũ trẻ em không, và mang theo mũ riêng của con nếu có. Chi tiết về tiêu chí chọn mũ có trong bài [chọn mũ bảo hiểm cho trẻ đi cùng trên xe máy thuê](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-di-cung-tren-xe-may-thue/).
 
 ## Bé ngồi trước hay sau xe máy điện
 

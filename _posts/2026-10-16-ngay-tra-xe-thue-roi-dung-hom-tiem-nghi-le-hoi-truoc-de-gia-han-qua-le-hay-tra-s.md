@@ -74,7 +74,7 @@ Một tin nhắn mẫu đủ ý:
 
 > Chào anh/chị, em thuê Honda Vision, nhận xe hôm 25 tháng Chạp, hẹn trả mùng 2. Em vừa biết tiệm nghỉ Tết. Em muốn gia hạn đến ngày tiệm mở lại, khoảng mấy giờ em mang xe đến được ạ? Tiền gia hạn tính thế nào, em chuyển trước hay trả khi trả xe?
 
-Sau khi tiệm trả lời, bạn nhắn lại một câu tóm tắt: ngày giờ trả, số tiền, cách thanh toán. Chụp màn hình đoạn chat. Nếu bạn đặt xe qua tin nhắn từ đầu, bài [đặt xe trước qua tin nhắn có giữ xe không](/hoi-dap/2026/10/10/hoi-at-xe-truoc-qua-tin-nhan-co-giu-xe-khong/) có thêm cách giữ lại thỏa thuận cho rõ.
+Sau khi tiệm trả lời, bạn nhắn lại một câu tóm tắt: ngày giờ trả, số tiền, cách thanh toán. Chụp màn hình đoạn chat. Nếu bạn đặt xe qua tin nhắn từ đầu, bài [đặt xe trước qua tin nhắn có giữ xe không](/hoi-dap/2026/10/10/hoi-dat-xe-truoc-qua-tin-nhan-co-giu-xe-khong/) có thêm cách giữ lại thỏa thuận cho rõ.
 
 ## Vài tình huống hay gặp ở Hà Nội dịp lễ
 

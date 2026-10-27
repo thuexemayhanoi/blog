@@ -57,7 +57,7 @@ Cách xử lý khi vạt áo, quai ba lô cuốn vào bánh có ở bài [quai b
 - **Không treo túi ni lông lỏng lẻo** trên tay lái hay móc treo khi trời gió.
 - **Giữ khoảng cách xa** với xe tải phủ bạt không buộc kín.
 
-Luật cấm làm rơi vãi hàng hóa, phế thải trên đường bộ, và yêu cầu xe tải chằng buộc hàng chắc chắn, che đậy kín hàng rời. Luật Giao thông của Anh còn ghi rõ không được ném túi đựng đồ ra khỏi xe vì gây nguy hiểm, nhất là cho người đi mô tô và xe đạp. Đồ nhẹ, cồng kềnh chở ngày gió có ở bài [chở chăn gối, đồ nhẹ cồng kềnh khi gió mùa](/ky-nang/2026/10/14/cho-chan-goi-tam-xop-va-do-nhe-cong-kenh-khi-gio-mua-tranh-bi-thoi-lech-xe/ "Chở đồ nhẹ cồng kềnh khi gió mùa"); khoảng cách với xe tải có ở bài [đi sau xe tải chở cát đá](/ky-nang/2026/10/11/i-sau-xe-tai-cho-cat-a-khoang-cach-va-vi-tri-an-toan/ "Đi sau xe tải chở cát đá").
+Luật cấm làm rơi vãi hàng hóa, phế thải trên đường bộ, và yêu cầu xe tải chằng buộc hàng chắc chắn, che đậy kín hàng rời. Luật Giao thông của Anh còn ghi rõ không được ném túi đựng đồ ra khỏi xe vì gây nguy hiểm, nhất là cho người đi mô tô và xe đạp. Đồ nhẹ, cồng kềnh chở ngày gió có ở bài [chở chăn gối, đồ nhẹ cồng kềnh khi gió mùa](/ky-nang/2026/10/14/cho-chan-goi-tam-xop-va-do-nhe-cong-kenh-khi-gio-mua-tranh-bi-thoi-lech-xe/ "Chở đồ nhẹ cồng kềnh khi gió mùa"); khoảng cách với xe tải có ở bài [đi sau xe tải chở cát đá](/ky-nang/2026/10/11/di-sau-xe-tai-cho-cat-da-khoang-cach-va-vi-tri-an-toan/ "Đi sau xe tải chở cát đá").
 
 ## Câu hỏi thường gặp
 

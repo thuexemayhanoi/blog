@@ -52,7 +52,7 @@ Quanh phủ có dãy hàng bán đồ lễ; theo báo Tuổi Trẻ đầu năm 2
 - **Chọn lễ vừa đủ**: một đĩa quả, bó hoa, nén hương là trang trọng rồi; không cần mâm lớn.
 - **Tránh mua đồ mã**, vì không được mang vào phủ.
 
-Đường vào phủ và chỗ gửi xe có ở bài [đến Phủ Tây Hồ bằng xe máy](/du-lich/2026/10/04/en-phu-tay-ho-bang-xe-may-gui-xe-va-uong-i/ "Đến Phủ Tây Hồ bằng xe máy: gửi xe và đường đi").
+Đường vào phủ và chỗ gửi xe có ở bài [đến Phủ Tây Hồ bằng xe máy](/du-lich/2026/10/04/den-phu-tay-ho-bang-xe-may-gui-xe-va-duong-di/ "Đến Phủ Tây Hồ bằng xe máy: gửi xe và đường đi").
 
 ## Chở lễ trên xe máy không đổ
 
@@ -67,7 +67,7 @@ Cách chở đồ lễ và gửi xe ngày rằm có ở bài [đi lễ rằm, m�
 
 ## Ngày đông: lễ ở ngoài sân
 
-Những ngày rằm, mùng một, Tết và mùa hội tháng Ba, phủ rất đông. Mùng 1 Tết 2025, theo báo Tuổi Trẻ, người dân chỉ được đứng lễ ngoài sân. Ngày như vậy, mang lễ thật gọn, lễ xong nhường chỗ cho người sau. Gợi ý đi những ngày này có ở bài [Phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một](/du-lich/2026/10/11/phu-tay-ho-va-chua-kim-lien-ngay-ram-mung-mot-i-xe-may-the-nao-cho-o-ong/ "Phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một") và bài [hội Phủ Tây Hồ mùng 3 tháng Ba](/du-lich/2026/10/13/hoi-phu-tay-ho-mung-3-thang-ba-am-lich-ruoc-kieu-dong-nguoi-va-de-xe-may-o-dau/ "Hội Phủ Tây Hồ mùng 3 tháng Ba âm lịch").
+Những ngày rằm, mùng một, Tết và mùa hội tháng Ba, phủ rất đông. Mùng 1 Tết 2025, theo báo Tuổi Trẻ, người dân chỉ được đứng lễ ngoài sân. Ngày như vậy, mang lễ thật gọn, lễ xong nhường chỗ cho người sau. Gợi ý đi những ngày này có ở bài [Phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một](/du-lich/2026/10/11/phu-tay-ho-va-chua-kim-lien-ngay-ram-mung-mot-di-xe-may-the-nao-cho-do-dong/ "Phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một") và bài [hội Phủ Tây Hồ mùng 3 tháng Ba](/du-lich/2026/10/13/hoi-phu-tay-ho-mung-3-thang-ba-am-lich-ruoc-kieu-dong-nguoi-va-de-xe-may-o-dau/ "Hội Phủ Tây Hồ mùng 3 tháng Ba âm lịch").
 
 ## Câu hỏi thường gặp
 

@@ -53,7 +53,7 @@ Khi nhận xe, hãy làm ba việc:
 2. **Tự kiểm tra:** dắt xe chậm, bóp từng tay phanh và để ý bánh nào bị giữ lại.
 3. **Thử phanh trên đoạn vắng** trước khi ra phố, kể cả phanh hơi gấp, để tay quen độ ăn của phanh.
 
-Một số mẫu có công tắc ở tay phanh để ngắt motor khi bóp phanh, một số mẫu thì không. Đừng giả định, hỏi cho chắc. Muốn hiểu thêm cách phối hợp hai phanh khi có người băng ngang, xem bài [phanh xe đạp điện êm khi có người băng ngang](/xe-may/2026/10/11/phanh-xe-ap-ien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/).
+Một số mẫu có công tắc ở tay phanh để ngắt motor khi bóp phanh, một số mẫu thì không. Đừng giả định, hỏi cho chắc. Muốn hiểu thêm cách phối hợp hai phanh khi có người băng ngang, xem bài [phanh xe đạp điện êm khi có người băng ngang](/xe-may/2026/10/11/phanh-xe-dap-dien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/).
 
 ## Giao thông hỗn hợp: xe máy là chủ đạo
 
@@ -63,7 +63,7 @@ Vài điểm cần chuẩn bị tinh thần:
 
 - **Đi bên phải đường.** Việt Nam lưu thông bên phải. Nếu bạn đến từ Nhật Bản hay nước đi bên trái, hãy đặc biệt chú ý lúc rẽ và lúc ra khỏi ngõ, vì phản xạ cũ dễ kéo bạn sang sai làn.
 - **Xe máy đi sát và vượt cả hai bên.** Giữ hướng đi đều, không đánh lái đột ngột, để người phía sau đoán được bạn định làm gì.
-- **Rẽ trái là lúc khó nhất.** Trên những phố như Thanh Niên hay đường ven Hồ Tây, rẽ trái giữa dòng xe đòi hỏi quan sát kỹ. Bài [rẽ trái giữa dòng xe máy đông bằng xe đạp điện](/xe-may/2026/10/11/re-trai-giua-dong-xe-may-ong-bang-xe-ap-ien-quan-sat-ra-hieu-chon-luc/) nói cụ thể cách làm.
+- **Rẽ trái là lúc khó nhất.** Trên những phố như Thanh Niên hay đường ven Hồ Tây, rẽ trái giữa dòng xe đòi hỏi quan sát kỹ. Bài [rẽ trái giữa dòng xe máy đông bằng xe đạp điện](/xe-may/2026/10/11/re-trai-giua-dong-xe-may-dong-bang-xe-dap-dien-quan-sat-ra-hieu-chon-luc/) nói cụ thể cách làm.
 - **Còi là để báo, không phải để mắng.** Người Hà Nội bấm còi nhiều để báo mình đang tới. Đừng giật mình phanh gấp khi nghe còi phía sau.
 
 Ở phố cổ Hoàn Kiếm, phố hẹp, đông người đi bộ và hàng quán lấn vỉa hè. Đi chậm, sẵn sàng dừng, và luôn đội mũ bảo hiểm cài quai.
@@ -78,7 +78,7 @@ Trước khi rời tiệm, dành vài phút làm quen với chiếc xe ngay tạ
 - Đèn, còi, chân chống, khóa xe.
 - Pin có đủ cho lịch trình trong ngày không, hỏi cách sạc nếu cần.
 
-Nếu thuê ở tiệm tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, tiệm mở cửa từ 09:00 đến 21:00. Giá thuê xe đạp điện vui lòng liên hệ để được báo cụ thể. Nếu muốn giao xe tới khách sạn, thời gian và chi phí giao cần xác nhận trước khi đặt. Những lưu ý chung khi thuê loại xe này có trong bài [thuê xe đạp điện ở Hà Nội lưu ý gì](/xe-may/2026/10/07/thue-xe-ap-ien-o-ha-noi-luu-y-gi/).
+Nếu thuê ở tiệm tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, tiệm mở cửa từ 09:00 đến 21:00. Giá thuê xe đạp điện vui lòng liên hệ để được báo cụ thể. Nếu muốn giao xe tới khách sạn, thời gian và chi phí giao cần xác nhận trước khi đặt. Những lưu ý chung khi thuê loại xe này có trong bài [thuê xe đạp điện ở Hà Nội lưu ý gì](/xe-may/2026/10/07/thue-xe-dap-dien-o-ha-noi-luu-y-gi/).
 
 ## Tóm lại
 

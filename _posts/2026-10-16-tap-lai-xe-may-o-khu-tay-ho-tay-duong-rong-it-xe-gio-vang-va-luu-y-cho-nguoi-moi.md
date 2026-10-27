@@ -62,7 +62,7 @@ Bạn có thể bắt đầu đi ra các trục đông hơn khi:
 - Nhìn gương, xi nhan đã thành thói quen.
 - Đi vài buổi liền không còn giật mình khi xe lớn vượt.
 
-Bước tiếp theo là một đoạn trục lớn gần đó vào giờ thấp điểm, như đường Võ Chí Công hay Lạc Long Quân, rồi mới tới phố cũ. Chưa nên chở người ngồi sau ngay; lời khuyên cho lần chở đầu tiên có ở bài [lần đầu chở người ngồi sau: tập ở đâu và làm sao](/hoi-dap/2026/10/04/lan-au-cho-nguoi-ngoi-sau-tap-o-au-va-lam-sao/ "Lần đầu chở người ngồi sau: tập ở đâu và làm sao").
+Bước tiếp theo là một đoạn trục lớn gần đó vào giờ thấp điểm, như đường Võ Chí Công hay Lạc Long Quân, rồi mới tới phố cũ. Chưa nên chở người ngồi sau ngay; lời khuyên cho lần chở đầu tiên có ở bài [lần đầu chở người ngồi sau: tập ở đâu và làm sao](/hoi-dap/2026/10/04/lan-dau-cho-nguoi-ngoi-sau-tap-o-dau-va-lam-sao/ "Lần đầu chở người ngồi sau: tập ở đâu và làm sao").
 
 ## Câu hỏi thường gặp
 

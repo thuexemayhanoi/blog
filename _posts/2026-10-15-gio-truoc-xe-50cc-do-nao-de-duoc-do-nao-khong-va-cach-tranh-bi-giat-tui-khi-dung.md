@@ -88,4 +88,4 @@ Cú giật mạnh có thể làm bạn mất thăng bằng, nên chiếc túi kh
 
 ## Kết lại
 
-Giỏ trước hợp với đồ nhẹ, kín, rẻ, còn điện thoại, ví và giấy tờ nên ở trong người. Chuyện chở đồ đi chợ bằng xe nhỏ có thêm trong bài [chở đồ đi chợ, siêu thị bằng xe 50cc](/xe-may/2026/10/11/cho-o-i-cho-sieu-thi-bang-xe-50cc-cop-nho-moc-treo-va-muc-cho-vua-suc/), các kỹ năng chở đồ khác nằm ở mục [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/). Các bài khác về loại xe này có ở mục [xe 50cc](/xe-may/xe-50cc/), còn kinh nghiệm chọn xe nói chung trong chuyên mục [xe máy](/xe-may/).
+Giỏ trước hợp với đồ nhẹ, kín, rẻ, còn điện thoại, ví và giấy tờ nên ở trong người. Chuyện chở đồ đi chợ bằng xe nhỏ có thêm trong bài [chở đồ đi chợ, siêu thị bằng xe 50cc](/xe-may/2026/10/11/cho-do-di-cho-sieu-thi-bang-xe-50cc-cop-nho-moc-treo-va-muc-cho-vua-suc/), các kỹ năng chở đồ khác nằm ở mục [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/). Các bài khác về loại xe này có ở mục [xe 50cc](/xe-may/xe-50cc/), còn kinh nghiệm chọn xe nói chung trong chuyên mục [xe máy](/xe-may/).

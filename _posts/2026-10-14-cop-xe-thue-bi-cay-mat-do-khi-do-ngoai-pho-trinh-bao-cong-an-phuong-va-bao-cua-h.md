@@ -80,7 +80,7 @@ Cốp xe ga tiện để mũ bảo hiểm và áo mưa, nhưng ổ khóa của n
 - **Đỗ ở nơi sáng, đông người, trong tầm camera** nếu buộc phải đỗ ven đường, tránh ngõ vắng và gốc cây khuất.
 - **Không mở cốp lấy đồ trước mặt nhiều người lạ**, nhất là khi vừa cất một món đáng giá vào.
 
-Thêm vài mẹo khóa xe, khóa phụ khi đỗ ngoài phố được tổng hợp trong bài [chống trộm xe máy khi để ngoài đường](/ky-nang/2026-09-29/chong-trom-xe-may-khi-e-ngoai-uong/).
+Thêm vài mẹo khóa xe, khóa phụ khi đỗ ngoài phố được tổng hợp trong bài [chống trộm xe máy khi để ngoài đường](/ky-nang/2026-09-29/chong-trom-xe-may-khi-de-ngoai-duong/).
 
 ## Lời kết
 

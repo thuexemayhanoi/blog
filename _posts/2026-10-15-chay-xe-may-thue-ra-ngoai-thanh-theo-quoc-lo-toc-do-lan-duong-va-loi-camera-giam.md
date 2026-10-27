@@ -28,7 +28,7 @@ Một vài điểm cần nhớ khi ra khỏi thành phố:
 - **Đặt bản đồ ở chế độ xe máy** và xem lại toàn tuyến trước khi xuất phát.
 - **Cầu Thanh Trì và Vành đai 3 trên cao cấm xe máy.** Khi đi từ Long Biên sang phía tây, dùng cầu Long Biên, Chương Dương, Vĩnh Tuy, Nhật Tân hoặc tầng dưới cầu Thăng Long.
 - **Đại lộ Thăng Long:** xe máy chỉ chạy đường gom hai bên theo biển chỉ dẫn, không vào làn chính.
-- **Thấy biển cấm xe máy ở lối nhập thì không vào**, kể cả chỉ "một đoạn ngắn"; xem bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+- **Thấy biển cấm xe máy ở lối nhập thì không vào**, kể cả chỉ "một đoạn ngắn"; xem bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 ## Tốc độ xe máy trên quốc lộ: biển báo là mốc quyết định
 

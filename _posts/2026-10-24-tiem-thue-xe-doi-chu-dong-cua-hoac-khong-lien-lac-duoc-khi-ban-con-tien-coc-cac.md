@@ -23,7 +23,7 @@ Bài không bình luận về một tiệm cụ thể nào và không khẳng đ
 
 Hãy thử từng kênh một cách bình tĩnh. Gọi điện vào các giờ khác nhau trong ngày, nhắn tin, nhắn qua Zalo hoặc ứng dụng bạn dùng để đặt xe, gửi thư điện tử nếu có. Ghi lại thời điểm từng lần liên hệ. Nếu tiệm có trang mạng xã hội hoặc trang đánh giá, bạn có thể nhắn ở đó, nhưng hãy giữ giọng lịch sự và chỉ nêu sự việc.
 
-Nếu tiệm trả lời hẹn thời gian, hãy ghi lại thời gian đó bằng tin nhắn và hỏi hoàn cọc bằng cách nào, ngày nào. Bài [chuyển cọc xong mà chủ xe báo chưa nhận được tiền](/thue-xe/2026/10/11/chuyen-coc-xong-ma-chu-xe-bao-chua-nhan-uoc-tien-cac-buoc-kiem-tra/) nói cách kiểm tra khi có sự chênh lệch giữa hai bên về việc tiền đã chuyển. Bài không biết lý do cụ thể trong trường hợp của bạn, nên hãy bắt đầu bằng việc hỏi.
+Nếu tiệm trả lời hẹn thời gian, hãy ghi lại thời gian đó bằng tin nhắn và hỏi hoàn cọc bằng cách nào, ngày nào. Bài [chuyển cọc xong mà chủ xe báo chưa nhận được tiền](/thue-xe/2026/10/11/chuyen-coc-xong-ma-chu-xe-bao-chua-nhan-duoc-tien-cac-buoc-kiem-tra/) nói cách kiểm tra khi có sự chênh lệch giữa hai bên về việc tiền đã chuyển. Bài không biết lý do cụ thể trong trường hợp của bạn, nên hãy bắt đầu bằng việc hỏi.
 
 ## Đến địa chỉ ghi trên biên nhận và hỏi người đang ở đó
 
@@ -35,13 +35,13 @@ Hỏi nhẹ nhàng người ở cạnh hoặc người đang kinh doanh tại đ
 
 Khi tiệm đổi chủ, người mới có thể có hoặc không có thông tin về khoản cọc của khách cũ. Hãy trình bày ngắn gọn: bạn thuê xe ngày nào, trả ngày nào, đưa cọc bao nhiêu (nếu bạn nhớ) và có biên nhận. Hỏi họ có sổ sách hay thông tin liên hệ chủ cũ không. Một số trường hợp người mới giúp kết nối với chủ cũ, một số trường hợp thì không.
 
-Bài không khẳng định trách nhiệm hoàn cọc thuộc về ai khi tiệm chuyển nhượng; điều đó phụ thuộc vào thỏa thuận và giấy tờ. Nếu người tiếp quản đồng ý hoàn, hãy xin họ viết lại xác nhận; nếu không, hãy ghi lại câu trả lời và chuyển sang bước giữ bằng chứng. Bài [điều kiện nhận lại tiền cọc đủ](/thue-xe/2026/09/27/ieu-kien-nhan-lai-tien-coc-u/) liệt kê các điều kiện thường gặp bạn cần đối chiếu.
+Bài không khẳng định trách nhiệm hoàn cọc thuộc về ai khi tiệm chuyển nhượng; điều đó phụ thuộc vào thỏa thuận và giấy tờ. Nếu người tiếp quản đồng ý hoàn, hãy xin họ viết lại xác nhận; nếu không, hãy ghi lại câu trả lời và chuyển sang bước giữ bằng chứng. Bài [điều kiện nhận lại tiền cọc đủ](/thue-xe/2026/09/27/dieu-kien-nhan-lai-tien-coc-du/) liệt kê các điều kiện thường gặp bạn cần đối chiếu.
 
 ## Giữ nguyên bằng chứng chuyển tiền và biên nhận
 
 Từ đầu, hãy gom và giữ nguyên: biên nhận giấy hoặc ảnh chụp, sao kê hoặc ảnh chuyển khoản, tin nhắn trao đổi với tiệm, hóa đơn, ảnh xe lúc nhận và lúc trả. Đừng xóa tin nhắn, đừng chỉnh sửa ảnh. Sao lưu lên một nơi an toàn như email hoặc dịch vụ lưu trữ của bạn.
 
-Bài [đặt cọc thuê xe bằng chuyển khoản: giữ lại bằng chứng nào](/thue-xe/2026/10/01/at-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/) gợi ý chi tiết các bằng chứng nên giữ khi chuyển khoản. Nếu bạn đưa tiền mặt, ảnh biên nhận và lời nhắn xác nhận có ý nghĩa đặc biệt vì khó tra lại bằng sao kê. Với cả hai cách, hãy ghi lại ngày giờ bạn trả xe và người nhận xe.
+Bài [đặt cọc thuê xe bằng chuyển khoản: giữ lại bằng chứng nào](/thue-xe/2026/10/01/dat-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/) gợi ý chi tiết các bằng chứng nên giữ khi chuyển khoản. Nếu bạn đưa tiền mặt, ảnh biên nhận và lời nhắn xác nhận có ý nghĩa đặc biệt vì khó tra lại bằng sao kê. Với cả hai cách, hãy ghi lại ngày giờ bạn trả xe và người nhận xe.
 
 ## Khi nào cân nhắc hòa giải, khiếu nại hoặc hỏi người có chuyên môn
 

@@ -89,7 +89,7 @@ Muốn chụp mặt tiền Chu Quyến có nắng thì để đình này sang đ
 ## Ứng xử và chuẩn bị cho người thuê xe
 
 - Mặc kín đáo, nói khẽ, xin phép trước khi chụp khu vực ban thờ.
-- Honda Vision hay Honda Air Blade (200.000 đ/ngày) đi êm, cốp chứa được áo mưa; quen đề số thì Honda Wave (150.000 đ/ngày) là đủ. Còn phân vân, đọc bài [xe số hay xe ga cho chuyến Ba Vì](/du-lich/2026/10/11/xe-so-hay-xe-ga-cho-chuyen-ba-vi-tam-ao-nen-chon-loai-nao/); giá từng mẫu có ở [bảng giá thuê xe](/bang-gia/).
+- Honda Vision hay Honda Air Blade (200.000 đ/ngày) đi êm, cốp chứa được áo mưa; quen đề số thì Honda Wave (150.000 đ/ngày) là đủ. Còn phân vân, đọc bài [xe số hay xe ga cho chuyến Ba Vì](/du-lich/2026/10/11/xe-so-hay-xe-ga-cho-chuyen-ba-vi-tam-dao-nen-chon-loai-nao/); giá từng mẫu có ở [bảng giá thuê xe](/bang-gia/).
 - Kiểm tra phanh, đèn, còi; áp suất lốp bơm theo tem hoặc sổ hướng dẫn của xe.
 - Đặt cọc, giấy tờ, mũ bảo hiểm kèm xe: hỏi cửa hàng khi đặt xe.
 - Xe trục trặc giữa đường thì dắt vào lề an toàn rồi gọi 0942 467 674 trước khi tự sửa.

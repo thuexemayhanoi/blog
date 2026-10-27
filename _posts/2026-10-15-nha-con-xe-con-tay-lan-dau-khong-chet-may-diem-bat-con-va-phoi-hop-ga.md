@@ -21,7 +21,7 @@ Lần đầu nhả côn xe côn tay, gần như ai cũng gặp một trong hai c
 
 Không phải cửa hàng cho thuê xe máy nào cũng có sẵn xe côn tay, và mỗi xe lại có tay côn nặng nhẹ, sơ đồ số khác nhau. Nếu bạn muốn thuê loại xe này, hãy hỏi trực tiếp cửa hàng xem hiện có xe côn tay hay không, xe đó vào số theo kiểu nào và tay côn đã được chỉnh ra sao.
 
-Chuyện giấy phép lái cũng cần làm rõ trước khi nổ máy. Hạng bằng phải phù hợp với loại xe và dung tích xe bạn định đi; điều này tùy vào chính chiếc xe, nên cách chắc nhất là hỏi cửa hàng thông số xe rồi đối chiếu với bài [các hạng bằng lái xe máy tại Việt Nam](/an-toan-phap-ly/2026/09/27/cac-hang-bang-lai-xe-may-tai-viet-nam/). Nếu còn phân vân giữa xe côn tay, xe số và xe ga cho chuyến đầu, bài [lần đầu thuê xe máy nên chọn xe số hay xe tay ga](/hoi-dap/2026/10/10/lan-au-thue-xe-may-nen-chon-xe-so-hay-xe-tay-ga/) giúp bạn cân nhắc trước.
+Chuyện giấy phép lái cũng cần làm rõ trước khi nổ máy. Hạng bằng phải phù hợp với loại xe và dung tích xe bạn định đi; điều này tùy vào chính chiếc xe, nên cách chắc nhất là hỏi cửa hàng thông số xe rồi đối chiếu với bài [các hạng bằng lái xe máy tại Việt Nam](/an-toan-phap-ly/2026/09/27/cac-hang-bang-lai-xe-may-tai-viet-nam/). Nếu còn phân vân giữa xe côn tay, xe số và xe ga cho chuyến đầu, bài [lần đầu thuê xe máy nên chọn xe số hay xe tay ga](/hoi-dap/2026/10/10/lan-dau-thue-xe-may-nen-chon-xe-so-hay-xe-tay-ga/) giúp bạn cân nhắc trước.
 
 ## Điểm bắt côn là gì và vì sao nhả côn xe côn tay hay chết máy
 
@@ -62,7 +62,7 @@ Buổi tập đầu không cần xa xôi, chỉ cần một mặt đường ph�
 
 Trình tự gọn cho một buổi: tìm điểm bắt côn khi đứng yên, cho xe tự bò bằng côn, rồi khởi hành có ga và dừng lại, lặp tới khi ba lần liền không chết máy.
 
-Tránh tập ngay ở những nơi đông xe như phố cổ Hàng Bạc, Hàng Đào hay dốc lên cầu Long Biên. Giữa dòng xe, một lần chết máy kéo theo tiếng còi và áp lực, khiến tay càng luống cuống. Khởi hành trên dốc là bài khó hơn, nên để sau khi đã chắc trên mặt phẳng; cách giữ chân và tay ở dốc được nói trong bài [để chân đúng côn khi ngang dốc xe số thuê](/ky-nang/2026/10/09/e-chan-ung-con-khi-ngang-doc-xe-so-thue/).
+Tránh tập ngay ở những nơi đông xe như phố cổ Hàng Bạc, Hàng Đào hay dốc lên cầu Long Biên. Giữa dòng xe, một lần chết máy kéo theo tiếng còi và áp lực, khiến tay càng luống cuống. Khởi hành trên dốc là bài khó hơn, nên để sau khi đã chắc trên mặt phẳng; cách giữ chân và tay ở dốc được nói trong bài [để chân đúng côn khi ngang dốc xe số thuê](/ky-nang/2026/10/09/de-chan-dung-con-khi-ngang-doc-xe-so-thue/).
 
 ## Khi chết máy giữa đường: làm lại theo thứ tự
 

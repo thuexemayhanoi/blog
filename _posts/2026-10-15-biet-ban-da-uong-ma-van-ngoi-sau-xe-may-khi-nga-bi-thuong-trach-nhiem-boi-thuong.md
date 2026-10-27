@@ -69,7 +69,7 @@ Nếu là xe thuê, hư hỏng của xe và trách nhiệm người thuê cần 
 Mọi phân tích ở trên diễn ra khi đã có người nằm viện. Lời từ chối ở cửa quán rẻ hơn nhiều:
 
 - **Nói thẳng:** "Tối nay mình gọi xe, mai qua lấy xe với cậu."
-- **Gọi taxi hoặc xe ôm** cho cả hai, gửi xe qua đêm; xem bài [để xe lại qua đêm khi đã uống](/ky-nang/2026/10/11/lo-uong-ruou-bia-buoi-toi-e-xe-lai-qua-em-va-lay-xe-sang-hom-sau/).
+- **Gọi taxi hoặc xe ôm** cho cả hai, gửi xe qua đêm; xem bài [để xe lại qua đêm khi đã uống](/ky-nang/2026/10/11/lo-uong-ruou-bia-buoi-toi-de-xe-lai-qua-dem-va-lay-xe-sang-hom-sau/).
 - **Nhờ người không uống** có giấy phép lái xe phù hợp đưa về.
 - **Bạn cứ đòi tự chạy:** tham khảo bài [bạn đi cùng đã say nhưng nhất quyết tự chạy xe về](/an-toan-phap-ly/2026/10/15/ban-di-cung-da-say-nhung-nhat-quyet-tu-chay-xe-may-ve-lam-gi-de-ngan-ma-khong-xo/).
 

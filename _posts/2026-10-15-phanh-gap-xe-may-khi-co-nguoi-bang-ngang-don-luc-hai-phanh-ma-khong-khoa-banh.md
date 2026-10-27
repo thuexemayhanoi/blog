@@ -77,7 +77,7 @@ Phanh gấp giỏi đến đâu cũng không bằng việc không phải phanh g
 - Đoạn có xe buýt đỗ đón khách, người xuống xe thường vòng qua đầu xe buýt.
 - Cổng chợ và các ngõ đổ ra đường lớn ở Long Biên, Đống Đa, Thanh Xuân.
 
-Giữ khoảng cách đủ xa với xe phía trước theo [quy tắc hai giây](/ky-nang/2026/10/11/giu-khoang-cach-voi-xe-phia-truoc-quy-tac-hai-giay/), đi chậm lại khi chạy dọc [hàng ô tô đỗ ven đường](/ky-nang/2026/10/11/i-qua-hang-o-to-o-ven-uong-cua-xe-bat-mo-va-nguoi-buoc-ra-giua-cac-xe/), và [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-o-theo-oan-uong-nhin-thay-dung-uoc-trong-tam-mat-khi-i-xe-may/). Ở vạch kẻ đường dành cho người đi bộ, hãy giảm tốc và nhường từ xa.
+Giữ khoảng cách đủ xa với xe phía trước theo [quy tắc hai giây](/ky-nang/2026/10/11/giu-khoang-cach-voi-xe-phia-truoc-quy-tac-hai-giay/), đi chậm lại khi chạy dọc [hàng ô tô đỗ ven đường](/ky-nang/2026/10/11/di-qua-hang-o-to-do-ven-duong-cua-xe-bat-mo-va-nguoi-buoc-ra-giua-cac-xe/), và [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-do-theo-doan-duong-nhin-thay-dung-duoc-trong-tam-mat-khi-di-xe-may/). Ở vạch kẻ đường dành cho người đi bộ, hãy giảm tốc và nhường từ xa.
 
 ## Tập phanh gấp trước khi cần đến
 

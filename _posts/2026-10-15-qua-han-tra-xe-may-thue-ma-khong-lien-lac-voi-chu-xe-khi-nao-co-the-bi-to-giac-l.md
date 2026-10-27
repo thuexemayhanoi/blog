@@ -63,7 +63,7 @@ Hãy đứng ở chỗ chủ xe: đã qua ngày hẹn, không ai trả lời tin
 
 7. **Không đưa xe cho người khác giữ hộ** khi cửa hàng chưa đồng ý bằng tin nhắn.
 
-Các điều khoản hay gặp về trả trễ, cọc và bàn giao được liệt kê ở bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/).
+Các điều khoản hay gặp về trả trễ, cọc và bàn giao được liệt kê ở bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/).
 
 ## Khi đã có người nhắc đến tố giác hoặc giấy mời
 

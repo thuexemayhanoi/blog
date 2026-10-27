@@ -64,7 +64,7 @@ Chuyện để tạm hành lý hay hỗ trợ đưa ra bến, bạn cần xác n
 Hôm có chuyến xe khách, bạn muốn bàn giao gọn nhưng không được qua loa. Vài thứ cần làm:
 
 - **Chụp ảnh xe và đồng hồ xăng** ngay khi dừng trước cửa hàng.
-- **Mở cốp kiểm tra lần cuối:** vé xe, sạc điện thoại, áo mưa, giấy tờ cá nhân hay bị bỏ quên trong cốp. Danh sách nhanh có trong bài [kiểm tra đồ đạc trước khi trả xe](/thue-xe/2026/10/04/kiem-tra-o-ac-truoc-khi-tra-xe-checklist-hai-phut/).
+- **Mở cốp kiểm tra lần cuối:** vé xe, sạc điện thoại, áo mưa, giấy tờ cá nhân hay bị bỏ quên trong cốp. Danh sách nhanh có trong bài [kiểm tra đồ đạc trước khi trả xe](/thue-xe/2026/10/04/kiem-tra-do-dac-truoc-khi-tra-xe-checklist-hai-phut/).
 - **Nhận lại đủ giấy tờ gốc và biên nhận** trước khi rời đi, cách đếm có trong bài [nhận lại giấy tờ gốc khi trả xe thuê](/thue-xe/2026/10/14/nhan-lai-giay-to-goc-khi-tra-xe-thue-dem-du-cccd-ho-chieu-va-bien-nhan-truoc-khi/).
 - **Xin xác nhận đã trả xe** bằng tin nhắn, ghi rõ giờ trả.
 

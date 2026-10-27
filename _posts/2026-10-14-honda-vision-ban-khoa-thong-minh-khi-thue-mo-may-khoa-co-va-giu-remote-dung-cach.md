@@ -46,7 +46,7 @@ Khi dừng xe gửi ở trước quán ăn trên phố Ngọc Lâm hay dựng xe
 - **Khóa cổ:** đánh lái hết về một phía, thường là bên trái, rồi ấn núm và xoay sang vị trí khóa. Lắc nhẹ ghi đông, thấy cứng là đã khóa. Nếu đánh lái chưa hết, núm sẽ không vào được vị trí khóa.
 - **Kiểm tra remote:** sờ túi, chắc chắn remote đang ở trên người bạn chứ không nằm trong giỏ xe hay trên yên.
 
-Chỉ tắt máy mà quên khóa cổ là lỗi hay gặp nhất với bản khóa thông minh. Các cách đỗ và khóa thêm khi gửi xe dọc đường có trong bài [chống trộm xe máy khi thuê](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/).
+Chỉ tắt máy mà quên khóa cổ là lỗi hay gặp nhất với bản khóa thông minh. Các cách đỗ và khóa thêm khi gửi xe dọc đường có trong bài [chống trộm xe máy khi thuê](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/).
 
 ## Mở yên, nắp xăng và nút định vị trên remote
 
@@ -55,7 +55,7 @@ Trên Vision bản khóa thông minh, mở yên và mở nắp bình xăng thư�
 Vài lưu ý khi dùng:
 
 - **Đổ xăng:** tắt máy trước, rồi mới xoay núm mở nắp xăng. Đổ xong, đóng nắp bằng tay cho tới khi nghe tiếng chốt, kéo thử một lần.
-- **Mở yên:** lấy đồ xong ấn yên xuống dứt khoát. Trước khi ấn, liếc xem remote có nằm trong túi đồ vừa cất vào cốp không. Khoảng chứa đồ dưới yên rộng tới đâu thì xem bài [cốp Honda Vision thuê chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-uoc-nhung-gi/).
+- **Mở yên:** lấy đồ xong ấn yên xuống dứt khoát. Trước khi ấn, liếc xem remote có nằm trong túi đồ vừa cất vào cốp không. Khoảng chứa đồ dưới yên rộng tới đâu thì xem bài [cốp Honda Vision thuê chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-duoc-nhung-gi/).
 
 Remote của Vision thường có **nút định vị xe**. Bấm nút, xe nháy đèn xi nhan và có tiếng bíp để bạn nhận ra giữa cả dãy xe giống hệt nhau. Chức năng này rất hữu ích ở bãi gửi xe đông như trong trung tâm thương mại ở Cầu Giấy hay bãi xe cạnh chợ Long Biên, nơi một hàng dài xe Vision cùng màu xếp sát nhau. Phạm vi nút có hạn, hãy đi tới khu vực mình nhớ rồi mới bấm.
 

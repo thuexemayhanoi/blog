@@ -44,7 +44,7 @@ Hiện tượng này giống với xe đạp điện, vốn cũng có công tắ
 
 ## Phanh tái sinh: cảm giác xe ghì lại không phải là lỗi
 
-Một số xe có phanh tái sinh khiến bạn cảm thấy xe ghì lại khi nhả ga hay chạm phanh. Theo hướng dẫn, trên Theon có thể vặn tay ga theo chiều ngược để phanh tái sinh; trên Dat Bike, nhả ga từ từ thì xe tự phanh nhẹ, nhả càng nhiều xe ghì càng mạnh. Không phải mẫu nào cũng có tính năng này, và phanh tái sinh chỉ hỗ trợ, không thay được phanh chính. Lái đều tay, nhả ga sớm trước chỗ cần dừng cũng giúp tiết kiệm pin, như bài [cách lái tiết kiệm pin xe máy điện](/xe-may/2026/10/11/cach-lai-tiet-kiem-pin-xe-may-ien-toc-o-eu-phanh-som-lop-u-hoi/ "Cách lái tiết kiệm pin xe máy điện") đã nói.
+Một số xe có phanh tái sinh khiến bạn cảm thấy xe ghì lại khi nhả ga hay chạm phanh. Theo hướng dẫn, trên Theon có thể vặn tay ga theo chiều ngược để phanh tái sinh; trên Dat Bike, nhả ga từ từ thì xe tự phanh nhẹ, nhả càng nhiều xe ghì càng mạnh. Không phải mẫu nào cũng có tính năng này, và phanh tái sinh chỉ hỗ trợ, không thay được phanh chính. Lái đều tay, nhả ga sớm trước chỗ cần dừng cũng giúp tiết kiệm pin, như bài [cách lái tiết kiệm pin xe máy điện](/xe-may/2026/10/11/cach-lai-tiet-kiem-pin-xe-may-dien-toc-do-deu-phanh-som-lop-du-hoi/ "Cách lái tiết kiệm pin xe máy điện") đã nói.
 
 ## Khi nào là công tắc phanh bị kẹt
 
@@ -64,7 +64,7 @@ Khi gặp, làm theo thứ tự:
 4. Kiểm tra chân chống cạnh đã gạt lên hết chưa, vì chân chống hạ cũng ngắt lực đẩy.
 5. Nếu vẫn không được, gọi chủ xe, nói rõ đèn phanh có sáng không và màn hình báo gì.
 
-Đừng tự tháo vỏ công tắc hay nối tắt dây để "chữa cháy". Làm vậy là bỏ đi một lớp an toàn của xe. Các bước kiểm tra khi xe có nguồn mà không nhận ga có thêm ở bài [xe điện thuê bật nguồn nhưng không nhận tay ga](/thue-xe/2026/10/11/xe-ien-thue-bat-nguon-nhung-khong-nhan-tay-ga-cach-xu-ly-an-toan/ "Xe điện thuê bật nguồn nhưng không nhận tay ga"), còn cách dùng nút P và chân chống có ở bài [nút P, chế độ lùi và chân chống ngắt điện trên xe máy điện](/xe-may/2026/10/14/nut-p-che-do-lui-va-chan-chong-ngat-dien-tren-xe-may-dien-dung-the-nao-khi-quay/ "Nút P và chân chống ngắt điện trên xe máy điện").
+Đừng tự tháo vỏ công tắc hay nối tắt dây để "chữa cháy". Làm vậy là bỏ đi một lớp an toàn của xe. Các bước kiểm tra khi xe có nguồn mà không nhận ga có thêm ở bài [xe điện thuê bật nguồn nhưng không nhận tay ga](/thue-xe/2026/10/11/xe-dien-thue-bat-nguon-nhung-khong-nhan-tay-ga-cach-xu-ly-an-toan/ "Xe điện thuê bật nguồn nhưng không nhận tay ga"), còn cách dùng nút P và chân chống có ở bài [nút P, chế độ lùi và chân chống ngắt điện trên xe máy điện](/xe-may/2026/10/14/nut-p-che-do-lui-va-chan-chong-ngat-dien-tren-xe-may-dien-dung-the-nao-khi-quay/ "Nút P và chân chống ngắt điện trên xe máy điện").
 
 ## Thử công tắc phanh ngay khi nhận xe
 

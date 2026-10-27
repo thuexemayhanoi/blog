@@ -53,7 +53,7 @@ Cách nghỉ cho đúng:
 3. **Nhìn nhanh quanh xe.** Lốp có bị đinh, xích có chùng thêm, có giọt dầu nào dưới gầm không.
 4. **Đổ thêm xăng.** Lên tới vùng đồi, cây xăng thưa hơn, nên rời Sơn Tây với bình xăng đầy là thói quen an toàn.
 
-Nếu còn thời gian, khi về có thể ghé làng cổ Đường Lâm ngay gần đó; gợi ý đường đi và chỗ để xe có trong bài [thành cổ Sơn Tây và làng cổ Đường Lâm bằng xe máy](/du-lich/2026/10/05/thanh-co-son-tay-va-lang-co-uong-lam-bang-xe-may/).
+Nếu còn thời gian, khi về có thể ghé làng cổ Đường Lâm ngay gần đó; gợi ý đường đi và chỗ để xe có trong bài [thành cổ Sơn Tây và làng cổ Đường Lâm bằng xe máy](/du-lich/2026/10/05/thanh-co-son-tay-va-lang-co-duong-lam-bang-xe-may/).
 
 ## Từ Sơn Tây lên đường núi trong vườn quốc gia
 
@@ -81,4 +81,4 @@ Một vài lưu ý cho chặng cuối:
 
 ## Góc khác với các bài Ba Vì đã có
 
-Blog đã có nhiều bài về Ba Vì: bài [Yamaha Sirius đi Ba Vì trong ngày](/xe-may/2026/10/13/yamaha-sirius-di-ba-vi-trong-ngay-duong-len-nui-diem-nghi-va-gio-xuat-phat/) tập trung vào giờ xuất phát và lượng xăng, còn bài [Ba Vì bằng xe máy: đèo lên cao và điểm nghỉ](/du-lich/2026/10/01/ba-vi-bang-xe-may-eo-len-cao-va-iem-nghi/) nói chung cho mọi loại xe. Bài này dành riêng cho người thuê Wave: nhận xe sớm, đi tuyến QL32, nghỉ ở Sơn Tây cho xe nguội, và giữ số thấp trên đường núi. Xem thêm các dòng xe khác ở trang [xe máy](/xe-may/), hoặc quay về trang [Honda Wave](/xe-may/honda-wave/) để so sánh trước khi đặt.
+Blog đã có nhiều bài về Ba Vì: bài [Yamaha Sirius đi Ba Vì trong ngày](/xe-may/2026/10/13/yamaha-sirius-di-ba-vi-trong-ngay-duong-len-nui-diem-nghi-va-gio-xuat-phat/) tập trung vào giờ xuất phát và lượng xăng, còn bài [Ba Vì bằng xe máy: đèo lên cao và điểm nghỉ](/du-lich/2026/10/01/ba-vi-bang-xe-may-deo-len-cao-va-diem-nghi/) nói chung cho mọi loại xe. Bài này dành riêng cho người thuê Wave: nhận xe sớm, đi tuyến QL32, nghỉ ở Sơn Tây cho xe nguội, và giữ số thấp trên đường núi. Xem thêm các dòng xe khác ở trang [xe máy](/xe-may/), hoặc quay về trang [Honda Wave](/xe-may/honda-wave/) để so sánh trước khi đặt.

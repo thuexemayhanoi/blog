@@ -31,7 +31,7 @@ Quanh hồ có rất nhiều quán, đổi chủ, đổi tên khá nhanh, nên t
 
 ### Quán sát mép nước
 
-Phần lớn có người trông xe ngay trước cửa. Báo chí từng phản ánh nhiều điểm trông xe quanh Phủ Tây Hồ, chùa Trấn Quốc thu cao hơn mức quy định, nên hãy hỏi giá trước khi dựng xe, nhận vé và giữ vé tới lúc lấy xe. Không dựng xe trên lối đi bộ sát lan can hồ hay lấn ra lòng đường ven hồ. Tối cuối tuần, dãy quán đông, chỗ để xe kín nhanh; khi đó gửi ở điểm trông giữ có vé gần đó rồi đi bộ quay lại. Các điểm gửi quen thuộc quanh hồ có ở bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/ "Gửi xe khi đi dạo bờ Hồ Tây").
+Phần lớn có người trông xe ngay trước cửa. Báo chí từng phản ánh nhiều điểm trông xe quanh Phủ Tây Hồ, chùa Trấn Quốc thu cao hơn mức quy định, nên hãy hỏi giá trước khi dựng xe, nhận vé và giữ vé tới lúc lấy xe. Không dựng xe trên lối đi bộ sát lan can hồ hay lấn ra lòng đường ven hồ. Tối cuối tuần, dãy quán đông, chỗ để xe kín nhanh; khi đó gửi ở điểm trông giữ có vé gần đó rồi đi bộ quay lại. Các điểm gửi quen thuộc quanh hồ có ở bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/ "Gửi xe khi đi dạo bờ Hồ Tây").
 
 ### Quán trên tầng cao
 

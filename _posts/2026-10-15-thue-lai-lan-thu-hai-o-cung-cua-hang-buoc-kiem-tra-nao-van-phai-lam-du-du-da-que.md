@@ -44,7 +44,7 @@ Sự tin tưởng là điều tốt, nhưng nó không thay được tờ biên 
 
 ### Số km và mức xăng
 
-Chụp rõ mặt đồng hồ ngay khi bật khóa: số km và vạch xăng nằm chung trong một tấm ảnh. Hai con số này là căn cứ khi trả xe, nhất là nếu lần trước bạn nhớ quy ước xăng theo một kiểu và lần này lại khác. Nếu chưa quen cách đọc trên mẫu xe mới, xem bài [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/oc-ong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-en-canh-bao/).
+Chụp rõ mặt đồng hồ ngay khi bật khóa: số km và vạch xăng nằm chung trong một tấm ảnh. Hai con số này là căn cứ khi trả xe, nhất là nếu lần trước bạn nhớ quy ước xăng theo một kiểu và lần này lại khác. Nếu chưa quen cách đọc trên mẫu xe mới, xem bài [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/doc-dong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-den-canh-bao/).
 
 ### Vết xước và ảnh chụp
 
@@ -70,7 +70,7 @@ Lần trước đi một chiếc Vision rất ưng, lần này có thể nhận 
 2. **Khác mẫu xe thì thử lại thao tác.** Nhờ nhân viên chỉ chỗ mở yên, cách dùng chìa thông minh nếu có.
 3. **Chỉ ghi tình trạng của chiếc trước mặt.** Câu như "lần trước xe không bị thế này" không giúp gì cho biên bản. Hãy ghi đúng vết nào, ở đâu, trên chiếc xe biển số nào.
 
-Nếu xe giao ra khác với loại đã hẹn qua tin nhắn, hãy hỏi rõ trước khi nhận theo gợi ý trong bài [cửa hàng đưa mẫu xe khác lúc hẹn](/thue-xe/2026/10/12/cua-hang-ua-mau-xe-khac-luc-hen-nen-hoi-va-xac-nhan-gi-truoc-khi-nhan/).
+Nếu xe giao ra khác với loại đã hẹn qua tin nhắn, hãy hỏi rõ trước khi nhận theo gợi ý trong bài [cửa hàng đưa mẫu xe khác lúc hẹn](/thue-xe/2026/10/12/cua-hang-dua-mau-xe-khac-luc-hen-nen-hoi-va-xac-nhan-gi-truoc-khi-nhan/).
 
 ## Thói quen quen tay dễ dẫn đến sơ suất
 

@@ -50,7 +50,7 @@ Thói quen nhỏ đi kèm: mỗi lần dừng đèn đỏ ở các thị trấn 
 
 Ngồi lùi ra sau một chút trên yên, chân có thêm chỗ duỗi về phía trước và gối mở rộng hơn. Chỉ lùi tới mức tay vẫn cầm lái thoải mái, khuỷu tay hơi chùng, không phải với người ra trước.
 
-Khi chở người, người ngồi sau thường đẩy người lái dồn lên trước. Nhắc họ ngồi lùi về giữa yên sau và đặt chân lên gác chân của họ. Các bước giữ lưng và đổi tư thế khi ngồi lâu có trong bài [đi xe máy nhiều giờ liền: giữ lưng và đổi tư thế](/ky-nang/2026/10/10/i-xe-may-nhieu-gio-lien-giu-lung-va-oi-tu-the/).
+Khi chở người, người ngồi sau thường đẩy người lái dồn lên trước. Nhắc họ ngồi lùi về giữa yên sau và đặt chân lên gác chân của họ. Các bước giữ lưng và đổi tư thế khi ngồi lâu có trong bài [đi xe máy nhiều giờ liền: giữ lưng và đổi tư thế](/ky-nang/2026/10/10/di-xe-may-nhieu-gio-lien-giu-lung-va-doi-tu-the/).
 
 Với sàn để chân, hãy để trống càng nhiều càng tốt. Túi đồ, thùng nước hay can dầu nên buộc lên giá sau hoặc cho vào cốp. Bài [để túi và hộp nhỏ ở sàn để chân xe ga](/ky-nang/2026/10/14/de-tui-va-hop-nho-o-san-de-chan-xe-ga-do-nao-duoc-do-nao-de-vuong-chan-phanh/) chỉ rõ món nào để được, món nào làm vướng chân.
 
@@ -66,7 +66,7 @@ Mỗi lần dừng, bỏ ra vài phút cho chân:
 4. Đặt gót lên bậc thấp, chân duỗi thẳng, hơi cúi người để giãn bắp chân và mặt sau đùi.
 5. Xoay cổ chân và gập duỗi gối nhẹ nhàng, không bật nhún mạnh.
 
-Mỏi lưng, mỏi vai đi kèm thì xem thêm các [bài tập nghỉ dọc đường cho vai lưng](/ky-nang/2026/10/04/moi-vai-lung-khi-chay-xe-uong-dai-bai-tap-nghi-doc-uong/).
+Mỏi lưng, mỏi vai đi kèm thì xem thêm các [bài tập nghỉ dọc đường cho vai lưng](/ky-nang/2026/10/04/moi-vai-lung-khi-chay-xe-duong-dai-bai-tap-nghi-doc-duong/).
 
 Mùa đông, gió bấc lùa vào đầu gối suốt chặng làm khớp cứng nhanh hơn. Quần dày, tấm chắn gió hoặc áo mưa trùm qua gối giúp giữ ấm khá nhiều.
 

@@ -77,7 +77,7 @@ Sau ba bốn chuyến ngắn, bạn có thể thử thêm cầu, đường đôn
 
 Ưu tiên một chiếc nhẹ, yên vừa tầm chân, tay ga không quá nhạy. Những mẫu xe ga phổ thông cỡ nhỏ như Honda Vision hay Honda Click thường hợp với người mới hơn xe ga lớn, nặng. Khi đặt xe, cứ nói thẳng là bạn mới có bằng và trước giờ chỉ đi xe đạp, để được tư vấn chiếc phù hợp với chiều cao và cân nặng. Giá từng loại xem ở [bảng giá](/bang-gia/), giấy tờ cần mang hãy hỏi rõ trực tiếp trước khi đến.
 
-Về điều kiện bằng lái, bằng mới cấp có dùng được để thuê không, bài [bằng A1 mới cấp có đủ điều kiện thuê xe máy không](/an-toan-phap-ly/2026/10/05/bang-a1-moi-cap-co-u-ieu-kien-thue-xe-may-khong/) giải thích kỹ hơn.
+Về điều kiện bằng lái, bằng mới cấp có dùng được để thuê không, bài [bằng A1 mới cấp có đủ điều kiện thuê xe máy không](/an-toan-phap-ly/2026/10/05/bang-a1-moi-cap-co-du-dieu-kien-thue-xe-may-khong/) giải thích kỹ hơn.
 
 ## Từ xe đạp chuyển sang xe ga: những điều cần nhớ
 

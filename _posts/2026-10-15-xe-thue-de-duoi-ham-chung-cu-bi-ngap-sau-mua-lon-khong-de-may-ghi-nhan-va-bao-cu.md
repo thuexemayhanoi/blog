@@ -94,6 +94,6 @@ Hà Nội vào mùa mưa có những trận mưa rất lớn trong thời gian n
 - Ưu tiên để xe ở tầng hầm trên hoặc khu cao hơn trong hầm, tránh chỗ gần rãnh thu nước, chân dốc.
 - Nếu tòa nhà có bãi nổi, chấp nhận đỗ tạm ở đó trong mấy đêm mưa.
 
-Bài [mưa lớn dễ ngập ở Hà Nội: gửi xe chỗ nào](/ky-nang/2026/10/11/mua-lon-de-ngap-o-ha-noi-gui-xe-cho-nao-e-tranh-nuoc-vao-may/) có thêm gợi ý chọn chỗ gửi. Còn nếu bạn đang ngồi trên xe và vừa lội qua phố ngập, các bước kiểm tra lại khác, xem bài [xe máy thuê vừa lội qua đoạn phố ngập](/xe-may/2026/10/15/xe-may-thue-vua-loi-qua-doan-pho-ngap-kiem-tra-gi-truoc-khi-no-may-lai-va-khi-na/).
+Bài [mưa lớn dễ ngập ở Hà Nội: gửi xe chỗ nào](/ky-nang/2026/10/11/mua-lon-de-ngap-o-ha-noi-gui-xe-cho-nao-de-tranh-nuoc-vao-may/) có thêm gợi ý chọn chỗ gửi. Còn nếu bạn đang ngồi trên xe và vừa lội qua phố ngập, các bước kiểm tra lại khác, xem bài [xe máy thuê vừa lội qua đoạn phố ngập](/xe-may/2026/10/15/xe-may-thue-vua-loi-qua-doan-pho-ngap-kiem-tra-gi-truoc-khi-no-may-lai-va-khi-na/).
 
 Gói gọn lại: khi xe thuê ngâm nước dưới hầm, đừng bật khóa hay đề máy, chờ nước rút mới đưa xe lên, chụp ảnh mức nước và vị trí, rồi báo ban quản lý cùng cửa hàng. Các tình huống phát sinh khác được gom ở mục [sự cố khi thuê xe](/thue-xe/su-co/), còn mọi thông tin chung về thuê xe nằm trong chuyên mục [thuê xe](/thue-xe/).

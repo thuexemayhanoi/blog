@@ -23,7 +23,7 @@ Khi bạn nhả hết ga trên xe tay ga, động cơ chỉ còn quay ở chế 
 
 Ngược lại, mỗi lần đề lại máy, xe cần một chút điện từ ắc quy và một chút xăng để nổ lại. Làm như vậy nhiều lần trong ngày, cộng thêm lúc vội tăng ga mạnh cho xe bắt kịp dòng xe sau khi đề, phần lợi ít ỏi kia gần như bị xóa sạch.
 
-Bài [về số mo xuống dốc cho đỡ hao xăng](/xe-may/2026/10/11/ve-so-mo-xuong-doc-cho-o-hao-xang-vi-sao-nen-bo-thoi-quen-nay/) đã phân tích thói quen này ở xe số. Với xe ga, câu chuyện có vài điểm khác, và có điểm còn đáng lo hơn.
+Bài [về số mo xuống dốc cho đỡ hao xăng](/xe-may/2026/10/11/ve-so-mo-xuong-doc-cho-do-hao-xang-vi-sao-nen-bo-thoi-quen-nay/) đã phân tích thói quen này ở xe số. Với xe ga, câu chuyện có vài điểm khác, và có điểm còn đáng lo hơn.
 
 ## Tắt máy xuống dốc xe tay ga: bạn mất những gì
 

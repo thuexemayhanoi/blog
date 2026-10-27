@@ -30,7 +30,7 @@ Khi lướt ảnh, để ý ba điều: quán có chỗ để xe riêng không, 
 
 ## Đường lên đê từ Bồ Đề và từ nội đô
 
-Từ khu Bồ Đề, Nguyễn Văn Cừ, bạn đi theo đường Ngọc Thụy rồi lên đê bằng các lối dốc bê tông; dốc thoải, chỉ cần giữ ga đều là lên tới mặt đê. Từ phố cổ thì qua cầu Long Biên hoặc cầu Chương Dương sang Long Biên, rồi rẽ về phía Ngọc Thụy. Chi tiết lối lên đê và hướng chạy tôi đã viết trong bài [chạy xe buổi sớm dọc đê Ngọc Thụy](/du-lich/2026/10/04/chay-xe-buoi-som-doc-e-ngoc-thuy-o-long-bien/).
+Từ khu Bồ Đề, Nguyễn Văn Cừ, bạn đi theo đường Ngọc Thụy rồi lên đê bằng các lối dốc bê tông; dốc thoải, chỉ cần giữ ga đều là lên tới mặt đê. Từ phố cổ thì qua cầu Long Biên hoặc cầu Chương Dương sang Long Biên, rồi rẽ về phía Ngọc Thụy. Chi tiết lối lên đê và hướng chạy tôi đã viết trong bài [chạy xe buổi sớm dọc đê Ngọc Thụy](/du-lich/2026/10/04/chay-xe-buoi-som-doc-de-ngoc-thuy-o-long-bien/).
 
 Khi đã lên đê và bắt đầu tìm quán, cách chạy nên khác lúc đi đường:
 
@@ -63,11 +63,11 @@ Từ đê Ngọc Thụy, hướng nhìn ra sông thường quay về phía tây,
 - **Giữa trưa:** nắng gắt, chỗ ngồi ngoài trời thường bị bỏ trống, chỉ hợp nếu quán có tầng trong mát.
 - **Chiều muộn đến chạng vạng:** đẹp nhất, nhưng khi về đèn trên đê thưa, phải bật đèn ngay khi rời quán và chạy chậm hơn lúc đi.
 
-Theo mùa, tháng mười và tháng mười một trời thường trong, gió nhẹ, ngồi ngoài rất dễ chịu. Mùa hè dễ có mưa giông bất chợt, mùa nước lên thì bãi ngoài đê có thể ngập, quán phía sông tạm nghỉ hoặc thu hẹp chỗ ngồi. Mùa đông gió sông lạnh hơn trong phố rõ rệt, cách mặc khi chạy xe lúc đó có trong bài [sáng mùa đông ở Long Biên](/du-lich/2026/10/11/sang-mua-ong-o-long-bien-gio-song-suong-mu-va-cach-mac-khi-i-xe-may/).
+Theo mùa, tháng mười và tháng mười một trời thường trong, gió nhẹ, ngồi ngoài rất dễ chịu. Mùa hè dễ có mưa giông bất chợt, mùa nước lên thì bãi ngoài đê có thể ngập, quán phía sông tạm nghỉ hoặc thu hẹp chỗ ngồi. Mùa đông gió sông lạnh hơn trong phố rõ rệt, cách mặc khi chạy xe lúc đó có trong bài [sáng mùa đông ở Long Biên](/du-lich/2026/10/11/sang-mua-dong-o-long-bien-gio-song-suong-mu-va-cach-mac-khi-di-xe-may/).
 
 ## Ghép một buổi chiều: chạy đê rồi ngồi quán
 
-Một lịch trình gọn cho người trẻ đi đôi hoặc nhóm nhỏ: khoảng giữa chiều chạy dọc đê về phía Gia Lâm để ngắm bãi bồi, quay lại quán đã chọn trước khi mặt trời xuống, ngồi đến chạng vạng rồi về. Đoạn đường đê phía Gia Lâm và các điểm dừng buổi chiều có trong bài [chạy xe máy trên đường đê Gia Lâm buổi chiều](/du-lich/2026/10/04/chay-xe-may-tren-uong-e-gia-lam-buoi-chieu-loi-len-e-va-iem-dung/).
+Một lịch trình gọn cho người trẻ đi đôi hoặc nhóm nhỏ: khoảng giữa chiều chạy dọc đê về phía Gia Lâm để ngắm bãi bồi, quay lại quán đã chọn trước khi mặt trời xuống, ngồi đến chạng vạng rồi về. Đoạn đường đê phía Gia Lâm và các điểm dừng buổi chiều có trong bài [chạy xe máy trên đường đê Gia Lâm buổi chiều](/du-lich/2026/10/04/chay-xe-may-tren-duong-de-gia-lam-buoi-chieu-loi-len-de-va-diem-dung/).
 
 Đi nhóm hai ba xe thì hẹn thẳng ở quán, không dừng giữa đê chờ nhau. Đến nơi, xếp xe sát nhau trong khu để xe của quán cho gọn lối.
 

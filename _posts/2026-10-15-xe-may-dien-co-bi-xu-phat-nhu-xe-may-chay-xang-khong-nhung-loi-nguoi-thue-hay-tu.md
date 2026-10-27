@@ -53,7 +53,7 @@ Xe điện lặng lẽ có thể làm người đi bộ không nghe thấy bạn
 
 Điều 59 khoản 1 điểm a viết người đủ 16 tuổi trở lên được điều khiển xe gắn máy. Điều 56 khoản 1 yêu cầu giấy phép lái xe phù hợp loại xe, trừ người lái xe gắn máy nêu ở khoản 4, và khoản 4 viết người lái xe gắn máy phải hiểu biết quy tắc giao thông, có kỹ năng điều khiển, đủ tuổi và sức khỏe.
 
-Bài không biết xe điện bạn thuê là xe gắn máy hay xe mô tô nên không nêu bạn cần giấy phép gì. Hãy hỏi tiệm loại xe và giấy tờ cần mang, rồi nhờ tiệm trả lời bằng chữ. Bài [xe máy điện và quy định quản lý phương tiện](/an-toan-phap-ly/2026/09/28/xe-may-ien-va-quy-inh-quan-ly-phuong-tien/) nói thêm về cách quản lý xe điện.
+Bài không biết xe điện bạn thuê là xe gắn máy hay xe mô tô nên không nêu bạn cần giấy phép gì. Hãy hỏi tiệm loại xe và giấy tờ cần mang, rồi nhờ tiệm trả lời bằng chữ. Bài [xe máy điện và quy định quản lý phương tiện](/an-toan-phap-ly/2026/09/28/xe-may-dien-va-quy-dinh-quan-ly-phuong-tien/) nói thêm về cách quản lý xe điện.
 
 ## Nguồn đối chiếu và điều bài chưa kiểm chứng
 

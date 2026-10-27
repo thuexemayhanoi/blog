@@ -62,7 +62,7 @@ Với đèn chung pha, cách làm an toàn là nhích lên vừa đủ qua vạc
 
 Một khoảng trống thật là khi xe đi thẳng gần nhất đã qua hẳn, xe kế tiếp còn ở xa và đang chạy đều, không phải đang tăng tốc lao tới cho kịp đèn. Hãy cẩn thận với xe máy chạy khuất sau ô tô hay xe buýt ngược chiều: ô tô vừa qua không có nghĩa là làn bên cạnh nó trống. Góc nhìn ngược lại, từ phía người đi thẳng, được phân tích trong bài [xe ngược chiều rẽ trái cắt mặt tại ngã tư](/ky-nang/2026/10/11/xe-nguoc-chieu-re-trai-cat-mat-tai-nga-tu-nhan-biet-som-va-giam-toc-kip/), đọc để hiểu họ nhìn thấy bạn thế nào.
 
-Khi đã quyết định đi, rẽ dứt khoát với ga đều, đừng dừng giữa chừng. Nếu đèn chuyển vàng khi bạn đã ở trong giao lộ, hoàn tất lượt rẽ để giải phóng ngã tư, đừng lùi lại. Còn nếu đèn đã vàng mà bạn vẫn đứng sau vạch, cứ chờ pha sau. Bài [đèn vàng tại ngã tư đông người](/ky-nang/2026/10/11/en-vang-tai-nga-tu-ong-nguoi-i-tiep-hay-dung-lai/) nói kỹ hơn về khoảnh khắc này.
+Khi đã quyết định đi, rẽ dứt khoát với ga đều, đừng dừng giữa chừng. Nếu đèn chuyển vàng khi bạn đã ở trong giao lộ, hoàn tất lượt rẽ để giải phóng ngã tư, đừng lùi lại. Còn nếu đèn đã vàng mà bạn vẫn đứng sau vạch, cứ chờ pha sau. Bài [đèn vàng tại ngã tư đông người](/ky-nang/2026/10/11/den-vang-tai-nga-tu-dong-nguoi-di-tiep-hay-dung-lai/) nói kỹ hơn về khoảnh khắc này.
 
 ## Người đi bộ ở nhánh đường bạn rẽ vào
 

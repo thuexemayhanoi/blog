@@ -70,7 +70,7 @@ Vì chùa và làng gần nhau, cách hợp lý là gửi xe một lần rồi �
 - **Đầu chiều:** đi bộ sang Mông Phụ xem nhà cổ, đình làng, giếng và những bức tường đá ong.
 - **Giữa chiều:** lấy xe, rời Sơn Tây để chạy phần lớn quãng đường về lúc trời còn sáng.
 
-Ai muốn thêm thành cổ Sơn Tây vào cùng ngày có thể tham khảo bài [thành cổ Sơn Tây và làng cổ Đường Lâm bằng xe máy](/du-lich/2026/10/05/thanh-co-son-tay-va-lang-co-uong-lam-bang-xe-may/), nhưng ba điểm trong một ngày sẽ khá vội cho người thích ngắm tượng kỹ. Các mốc dừng trong làng được nói trong bài [làng cổ Đường Lâm bằng xe máy từ Hà Nội](/cung-duong/2026/10/04/lang-co-uong-lam-bang-xe-may-tu-ha-noi-cung-uong-va-gui-xe/).
+Ai muốn thêm thành cổ Sơn Tây vào cùng ngày có thể tham khảo bài [thành cổ Sơn Tây và làng cổ Đường Lâm bằng xe máy](/du-lich/2026/10/05/thanh-co-son-tay-va-lang-co-duong-lam-bang-xe-may/), nhưng ba điểm trong một ngày sẽ khá vội cho người thích ngắm tượng kỹ. Các mốc dừng trong làng được nói trong bài [làng cổ Đường Lâm bằng xe máy từ Hà Nội](/cung-duong/2026/10/04/lang-co-duong-lam-bang-xe-may-tu-ha-noi-cung-duong-va-gui-xe/).
 
 ## Chuẩn bị xe và giờ về
 

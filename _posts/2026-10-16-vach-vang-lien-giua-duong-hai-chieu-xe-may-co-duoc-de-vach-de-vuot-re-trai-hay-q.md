@@ -60,7 +60,7 @@ Nơi có biển cấm quay đầu thì càng không. Cách phân biệt các bi�
 
 **Quán ăn bên trái, đoạn vạch liền.** Trên đường mỗi chiều một làn ra Sóc Sơn hay Ba Vì, quán nằm ở cả hai phía. Đừng phanh gấp rồi cắt ngang. Đi tiếp tới đoạn vạch đứt hoặc ngã ba có vạch ngắt, quay đầu ở đó rồi quay lại tấp vào bên phải.
 
-**Đoạn đang sửa, vạch cũ mờ, có biển tạm thời.** Khi biển tạm thời, rào chắn hoặc người điều khiển giao thông hướng dẫn khác với vạch sơn cũ, làm theo hướng dẫn đó. Xem bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-oan-uong-ang-sua/).
+**Đoạn đang sửa, vạch cũ mờ, có biển tạm thời.** Khi biển tạm thời, rào chắn hoặc người điều khiển giao thông hướng dẫn khác với vạch sơn cũ, làm theo hướng dẫn đó. Xem bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-doan-duong-dang-sua/).
 
 **Đầu cầu có vùng gạch chéo.** Gần cầu và nút giao lớn, vạch vàng liền hay đi cùng vùng vạch kênh hóa, không phải làn để lách, như bài [vạch kênh hóa dòng xe ở đầu cầu và nút giao](/an-toan-phap-ly/2026/10/16/vach-kenh-hoa-dong-xe-o-dau-cau-va-nut-giao-xe-may-co-duoc-chay-de-len-vung-gach/) đã phân tích.
 

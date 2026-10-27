@@ -44,7 +44,7 @@ Nếu giờ cũ quan trọng hơn mẫu xe, bạn có thể chủ động đề 
 - Tình trạng ổn: xin ảnh xe trước khi giao, hỏi về lốp, phanh và đèn.
 - Giá thuê: hỏi rõ có giữ như đã thỏa thuận hay thay đổi, và xin xác nhận bằng chữ.
 
-Cách kiểm và xác nhận khi nhận một mẫu xe khác dự kiến được nói kỹ trong bài [cửa hàng đưa mẫu xe khác lúc hẹn](/thue-xe/2026/10/12/cua-hang-ua-mau-xe-khac-luc-hen-nen-hoi-va-xac-nhan-gi-truoc-khi-nhan/). Bài này chỉ nhắc một điều: đừng đồng ý đổi xe qua một cuộc gọi vội rồi đến lúc nhận mới thấy không hợp.
+Cách kiểm và xác nhận khi nhận một mẫu xe khác dự kiến được nói kỹ trong bài [cửa hàng đưa mẫu xe khác lúc hẹn](/thue-xe/2026/10/12/cua-hang-dua-mau-xe-khac-luc-hen-nen-hoi-va-xac-nhan-gi-truoc-khi-nhan/). Bài này chỉ nhắc một điều: đừng đồng ý đổi xe qua một cuộc gọi vội rồi đến lúc nhận mới thấy không hợp.
 
 ## Xác nhận lại bằng tin nhắn trước khi gác máy
 
@@ -54,7 +54,7 @@ Dù trao đổi qua điện thoại, hãy chốt lại bằng một tin nhắn Z
 
 Tin nhắn này có ba tác dụng. Thứ nhất, cả hai bên cùng nhìn một nội dung, không ai nhớ nhầm. Thứ hai, nếu lịch lại trục trặc, bạn có căn cứ để trao đổi. Thứ ba, nó là chỗ ghi lại những gì đã thỏa thuận về tiền đặt cọc hay tiền đã chuyển, nếu có.
 
-Về chuyện tiền: chính sách khi cửa hàng là bên đổi lịch, chẳng hạn giữ cọc cho lần hẹn mới, trả lại cọc hay trừ vào tiền thuê, không giống nhau giữa các nơi. Bài này không đưa ra con số hay mức đền bù nào. Cách đúng là hỏi trực tiếp: "Nếu em không chờ được giờ mới thì tiền cọc em đã chuyển xử lý thế nào ạ?" và xin câu trả lời bằng tin nhắn. Bài [đặt cọc thuê xe máy và cách nhận lại](/hoi-dap/2026/10/10/hoi-at-coc-thue-xe-may-bao-nhieu-va-nhan-lai-the-nao/) có thêm các câu nên hỏi về cọc.
+Về chuyện tiền: chính sách khi cửa hàng là bên đổi lịch, chẳng hạn giữ cọc cho lần hẹn mới, trả lại cọc hay trừ vào tiền thuê, không giống nhau giữa các nơi. Bài này không đưa ra con số hay mức đền bù nào. Cách đúng là hỏi trực tiếp: "Nếu em không chờ được giờ mới thì tiền cọc em đã chuyển xử lý thế nào ạ?" và xin câu trả lời bằng tin nhắn. Bài [đặt cọc thuê xe máy và cách nhận lại](/hoi-dap/2026/10/10/hoi-dat-coc-thue-xe-may-bao-nhieu-va-nhan-lai-the-nao/) có thêm các câu nên hỏi về cọc.
 
 ## Khi nào nên tìm phương án khác thay vì chờ
 
@@ -85,7 +85,7 @@ Khi giờ mới vẫn chấp nhận được, hãy tận dụng khoảng chờ:
 3. Hẹn một cuộc gọi hoặc tin nhắn nhắc trước giờ giao chừng ba mươi phút.
 4. Lên sẵn danh sách kiểm xe để khi nhận chỉ mất vài phút, xem bài [checklist nhận xe máy thuê](/thue-xe/2026/09/27/checklist-nhan-xe-may-thue-kiem-tra-gi-truoc-khi-roi-cua-hang/).
 
-Ngược lại, nếu chính bạn mới là người cần đổi lịch nhận xe, cách nhắn và những gì nên hỏi sẽ khác một chút, có trong bài [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-oi-lich-nhan-xe/).
+Ngược lại, nếu chính bạn mới là người cần đổi lịch nhận xe, cách nhắn và những gì nên hỏi sẽ khác một chút, có trong bài [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-doi-lich-nhan-xe/).
 
 ## Tóm lại
 

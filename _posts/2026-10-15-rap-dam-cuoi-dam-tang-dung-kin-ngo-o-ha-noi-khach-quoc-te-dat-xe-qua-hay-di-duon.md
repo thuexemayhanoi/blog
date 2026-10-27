@@ -43,7 +43,7 @@ Khi đã được gật đầu, hãy **tắt máy và dắt bộ**, không ngồ
 - Không cắt ngang lúc gia đình đang làm lễ, chụp ảnh cô dâu chú rể hay đón đoàn nhà trai; chờ một lát cho xong.
 - Nói lời cảm ơn khi qua khỏi.
 
-Nếu bạn quay ngược ra, kỹ thuật dắt và quay đầu xe trong ngõ hẹp được hướng dẫn kỹ ở bài [dắt xe máy vào ngõ nhỏ và quay đầu an toàn](/thue-xe/2026/10/11/homestay-trong-ngo-nho-ha-noi-dat-xe-may-vao-ngo-va-quay-au-an-toan/).
+Nếu bạn quay ngược ra, kỹ thuật dắt và quay đầu xe trong ngõ hẹp được hướng dẫn kỹ ở bài [dắt xe máy vào ngõ nhỏ và quay đầu an toàn](/thue-xe/2026/10/11/homestay-trong-ngo-nho-ha-noi-dat-xe-may-vao-ngo-va-quay-dau-an-toan/).
 
 ## Đám tang trong ngõ: đi xe máy thế nào cho phải đạo
 
@@ -77,7 +77,7 @@ Có những lúc dắt qua không phải lựa chọn hợp lý: giờ cao đi�
 
 Một tình huống hay gặp nữa là về muộn buổi tối, tiệc đã tan nhưng rạp vẫn để nguyên, bàn ghế xếp chồng và có người ngủ lại trông đồ. Lúc này càng nên tắt máy từ đầu ngõ, dắt xe thật khẽ và tắt bớt đèn pha để không rọi thẳng vào trong rạp. Nếu đi cùng bạn bè, nhắc nhau nói nhỏ cho tới khi vào hẳn trong nhà. Sáng hôm sau ra lấy xe, nhìn trước xem gia đình có đang dọn rạp hay không, khung sắt và tấm bạt khi tháo xuống có thể rơi chắn lối bất ngờ.
 
-Nếu lạc trong khu ngõ chằng chịt, bài [lạc đường khi đi xe máy và hỏi người địa phương](/thue-xe/2026/10/11/lac-uong-khi-i-xe-may-o-ha-noi-dung-o-au-va-hoi-nguoi-ia-phuong-the-nao/) sẽ giúp bạn.
+Nếu lạc trong khu ngõ chằng chịt, bài [lạc đường khi đi xe máy và hỏi người địa phương](/thue-xe/2026/10/11/lac-duong-khi-di-xe-may-o-ha-noi-dung-o-dau-va-hoi-nguoi-dia-phuong-the-nao/) sẽ giúp bạn.
 
 ## Ghi nhớ nhanh
 

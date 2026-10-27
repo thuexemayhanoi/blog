@@ -7,7 +7,7 @@ description: "Chạy xe đường Võ Nguyên Giáp buổi sáng: trải nghiệ
 categories: [Du lịch]
 lang: vi
 tags: [chạy xe đường Võ Nguyên Giáp, đường ven sông Hồng chạy xe, chạy xe buổi sáng Hà Nội, cung đường ven sông]
-permalink: /cung-duong/2026/10/04/chay-xe-doc-uong-vo-nguyen-giap-ven-song-hong-buoi-sang/
+permalink: /cung-duong/2026/10/04/chay-xe-doc-duong-vo-nguyen-giap-ven-song-hong-buoi-sang/
 parent_id: P-CUNG-DUONG
 child_id: C-CD-NOI-THANH
 article_id: BLG-01279

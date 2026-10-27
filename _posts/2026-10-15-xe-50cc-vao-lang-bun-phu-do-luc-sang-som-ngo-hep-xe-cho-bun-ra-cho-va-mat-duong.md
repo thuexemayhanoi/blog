@@ -27,7 +27,7 @@ Phú Đô nằm phía tây trung tâm, gần khu Mỹ Đình, trong vùng ngư�
 
 Đi lúc trời còn tối, trên một chiếc xe có đèn nhỏ và tốc độ thấp, việc chuẩn bị quan trọng hơn bình thường:
 
-- **Kiểm tra đèn pha, đèn hậu, xi nhan và còi.** Đèn 50cc vốn không quá sáng, nếu có bóng mờ hay chập chờn thì nên báo tiệm đổi xe. Bài [đi xe 50cc buổi tối](/xe-may/2026/10/11/i-xe-50cc-buoi-toi-en-nho-toc-o-thap-va-cach-e-xe-sau-thay-minh/) có thêm mẹo để xe sau dễ thấy mình.
+- **Kiểm tra đèn pha, đèn hậu, xi nhan và còi.** Đèn 50cc vốn không quá sáng, nếu có bóng mờ hay chập chờn thì nên báo tiệm đổi xe. Bài [đi xe 50cc buổi tối](/xe-may/2026/10/11/di-xe-50cc-buoi-toi-den-nho-toc-do-thap-va-cach-de-xe-sau-thay-minh/) có thêm mẹo để xe sau dễ thấy mình.
 - **Mặc áo sáng màu hoặc có dải phản quang.** Trong ngõ tối, người chở hàng cần thấy bạn từ xa.
 - **Đi giày bám, không đi dép tông.** Bạn sẽ phải chống chân xuống mặt đường ướt nhiều lần.
 - **Xem bản đồ từ trước.** Lúc rạng sáng ít người để hỏi đường, và dừng giữa ngõ để dò điện thoại sẽ chắn lối người làng.
@@ -64,7 +64,7 @@ Mặt ngõ ở làng bún hay ướt, có nơi đọng nước, có nơi trơn n
 - **Giữ ga đều, không vặn mạnh.** Bánh sau dễ quay trượt nếu tăng ga đột ngột trên nền ướt.
 - **Chống chân vững khi dừng.** Đặt cả bàn chân lên chỗ khô nếu có, không đặt lên nắp cống.
 
-Nguyên tắc đi đường ướt buổi sớm cũng được bàn trong bài [xe điện đi chợ buổi sớm và đường ướt](/xe-may/2026/10/10/xe-ien-i-cho-buoi-som-giu-pin-va-uong-uot/), hữu ích nếu lần sau bạn đi loại xe khác.
+Nguyên tắc đi đường ướt buổi sớm cũng được bàn trong bài [xe điện đi chợ buổi sớm và đường ướt](/xe-may/2026/10/10/xe-dien-di-cho-buoi-som-giu-pin-va-duong-uot/), hữu ích nếu lần sau bạn đi loại xe khác.
 
 ## Xem làm bún và dừng xe lịch sự
 

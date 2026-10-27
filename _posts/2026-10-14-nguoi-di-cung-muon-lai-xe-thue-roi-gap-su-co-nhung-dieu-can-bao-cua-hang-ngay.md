@@ -17,7 +17,7 @@ writer_session: s-claude-w2
 
 Đi chơi theo cặp hay theo nhóm, chuyện cho người khác lái xe thuê thường xảy ra rất tự nhiên: bạn mỏi tay sau một buổi chạy ra Sóc Sơn, người đi cùng bảo để mình cầm lái đoạn về. Rồi đúng đoạn đó xe va quẹt ở vòng xuyến, hoặc đổ trên con dốc lên đê. Lúc này câu hỏi không còn là có nên cho mượn hay không, mà là phải báo gì với cửa hàng, báo thế nào cho đúng sự thật mà không làm mọi việc rối thêm.
 
-Bài này dành cho tình huống đã xảy ra rồi. Nếu bạn đang cân nhắc trước khi giao chìa khóa, phần chuẩn bị đã có trong bài [cho người khác mượn xe máy đang thuê theo tháng](/thue-xe/2026/10/14/cho-nguoi-khac-muon-xe-may-dang-thue-theo-thang-duoc-khong-va-rui-ro-khi-xay-ra/) và bài [hợp đồng cần nói rõ gì khi cho người khác sử dụng xe thuê](/thue-xe/2026/10/11/cho-nguoi-khac-su-dung-xe-thue-cua-minh-hop-ong-can-noi-ro-gi/).
+Bài này dành cho tình huống đã xảy ra rồi. Nếu bạn đang cân nhắc trước khi giao chìa khóa, phần chuẩn bị đã có trong bài [cho người khác mượn xe máy đang thuê theo tháng](/thue-xe/2026/10/14/cho-nguoi-khac-muon-xe-may-dang-thue-theo-thang-duoc-khong-va-rui-ro-khi-xay-ra/) và bài [hợp đồng cần nói rõ gì khi cho người khác sử dụng xe thuê](/thue-xe/2026/10/11/cho-nguoi-khac-su-dung-xe-thue-cua-minh-hop-dong-can-noi-ro-gi/).
 
 ## Trước khi gọi cửa hàng: an toàn người là việc đầu tiên
 

@@ -27,7 +27,7 @@ Kiểu này hợp nhất với:
 - **Người lớn tuổi, người đau khớp gối hoặc hông.** Động tác vắt chân cao qua yên là lúc dễ mất thăng bằng nhất. Khung thấp bỏ được động tác đó.
 - **Người nhỏ con, chân ngắn.** Khi dừng đèn đỏ, chỉ việc trượt người về trước một chút là chân chạm đất, không phải nghiêng cả xe.
 
-Điểm cần biết: khi chở nặng phía sau, xe khung thấp có thể hơi lắc hơn một chút, nhưng đi phố, đi chợ thông thường thì không đáng lo. Chuyện ăn mặc khi đạp xe được nói kỹ hơn trong bài [mặc váy, dép lê, quần ống rộng có vướng không](/xe-may/2026/10/11/mac-gi-khi-ap-xe-ien-vay-dep-le-quan-ong-rong-co-vuong-khong/).
+Điểm cần biết: khi chở nặng phía sau, xe khung thấp có thể hơi lắc hơn một chút, nhưng đi phố, đi chợ thông thường thì không đáng lo. Chuyện ăn mặc khi đạp xe được nói kỹ hơn trong bài [mặc váy, dép lê, quần ống rộng có vướng không](/xe-may/2026/10/11/mac-gi-khi-dap-xe-dien-vay-dep-le-quan-ong-rong-co-vuong-khong/).
 
 ## Khung ngang: chắc tay hơn nhưng phải vắt chân
 
@@ -52,11 +52,11 @@ Xe bánh nhỏ thường có thân ngắn và yên thấp hơn. Lợi ích dễ 
 - Quay đầu trong ngõ nhỏ khu tập thể Kim Liên, Thành Công hay các ngách ở Đống Đa gọn hơn nhiều.
 - Người thấp ngồi lên vẫn chống chân được, không phải nhón.
 
-Đổi lại, bánh nhỏ **kém êm khi gặp ổ gà, nắp cống lệch, gờ giảm tốc**. Mỗi cú xóc truyền thẳng lên tay và lưng. Trên những đoạn đường ven đô đang sửa, bạn phải đi chậm hơn và chọn đường kỹ hơn. Bài [xe đạp điện và đường ổ gà ven đô](/xe-may/2026/10/03/xe-ap-ien-va-uong-o-ga-ven-o/) có thêm cách đi qua những đoạn như vậy.
+Đổi lại, bánh nhỏ **kém êm khi gặp ổ gà, nắp cống lệch, gờ giảm tốc**. Mỗi cú xóc truyền thẳng lên tay và lưng. Trên những đoạn đường ven đô đang sửa, bạn phải đi chậm hơn và chọn đường kỹ hơn. Bài [xe đạp điện và đường ổ gà ven đô](/xe-may/2026/10/03/xe-dap-dien-va-duong-o-ga-ven-do/) có thêm cách đi qua những đoạn như vậy.
 
 ### Bánh lớn: êm hơn, cần chỗ rộng hơn
 
-Bánh lớn lăn qua chỗ gồ ghề êm hơn, giữ hướng ổn định hơn khi đi thẳng trên phố dài như Láng Hạ hay Nguyễn Chí Thanh. Nhưng xe thường dài và yên cao hơn, người nhỏ con có thể phải nghiêng xe mới chạm đất khi dừng. Nếu chọn bánh lớn mà thấy yên cao, hãy nhờ tiệm hạ yên trước khi đi; cách chỉnh cho vừa người có trong bài [chỉnh yên và tay lái cho người thấp, người cao](/xe-may/2026/10/11/chinh-yen-va-tay-lai-xe-ap-ien-cho-nguoi-thap-nguoi-cao-o-moi-goi-moi-lung/).
+Bánh lớn lăn qua chỗ gồ ghề êm hơn, giữ hướng ổn định hơn khi đi thẳng trên phố dài như Láng Hạ hay Nguyễn Chí Thanh. Nhưng xe thường dài và yên cao hơn, người nhỏ con có thể phải nghiêng xe mới chạm đất khi dừng. Nếu chọn bánh lớn mà thấy yên cao, hãy nhờ tiệm hạ yên trước khi đi; cách chỉnh cho vừa người có trong bài [chỉnh yên và tay lái cho người thấp, người cao](/xe-may/2026/10/11/chinh-yen-va-tay-lai-xe-dap-dien-cho-nguoi-thap-nguoi-cao-do-moi-goi-moi-lung/).
 
 Tóm gọn: hay vào ngõ nhỏ, người thấp thì nghiêng về bánh nhỏ; đi đường dài, đường xấu thì nghiêng về bánh lớn.
 
@@ -73,7 +73,7 @@ Nếu bạn định đi chợ Long Biên mua hoa quả, ghé siêu thị hay man
 - **Không để đồ thò ra hai bên** quá rộng, dễ quệt vào xe khác ở chỗ đông.
 - **Không để dây buộc lòng thòng** gần bánh sau và nan hoa.
 
-Nếu có ý định chở nhiều bao đồ cùng lúc, đọc thêm bài [xe đạp điện thuê có chở được hai bao đồ không](/xe-may/2026/10/09/xe-ap-ien-thue-co-cho-uoc-hai-bao-o-khong/) để biết khi nào nên tách chuyến.
+Nếu có ý định chở nhiều bao đồ cùng lúc, đọc thêm bài [xe đạp điện thuê có chở được hai bao đồ không](/xe-may/2026/10/09/xe-dap-dien-thue-co-cho-duoc-hai-bao-do-khong/) để biết khi nào nên tách chuyến.
 
 ## Ghép lại: kiểu xe đạp điện nên thuê theo từng người
 

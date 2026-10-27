@@ -42,7 +42,7 @@ Phần lớn người đi xe máy có thói quen bám sát lề phải. Ở đo�
 
 - **Dịch vào phía trong phần làn của mình một chút,** cách mép lề thêm một khoảng. Mỗi mét cách xa miệng ngõ là thêm chút thời gian để phản ứng, và người trong ngõ cũng dễ nhìn thấy bạn hơn.
 - **Không lấn sang làn ô tô hay phần đường ngược chiều.** Dịch vị trí là trong phần đường của mình. Các hướng dẫn kỹ năng lái mô tô như của tổ chức an toàn mô tô Mỹ MSF cũng khuyên chọn vị trí trong làn để tăng khoảng cách với nguy hiểm và tăng khả năng được nhìn thấy.
-- **Không đi song song sát cạnh ô tô** ở đoạn nhiều ngõ: nếu có xe lao ra, bạn không còn chỗ để tránh. Cách giữ khoảng cách có ở bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-i-xe-may/ "Giữ khoảng cách an toàn khi đi xe máy").
+- **Không đi song song sát cạnh ô tô** ở đoạn nhiều ngõ: nếu có xe lao ra, bạn không còn chỗ để tránh. Cách giữ khoảng cách có ở bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-di-xe-may/ "Giữ khoảng cách an toàn khi đi xe máy").
 
 ## Giữ tốc độ để kịp xử lý
 

@@ -58,7 +58,7 @@ Hãy hỏi: *Chè này dùng được trong bao lâu, nên để ở đâu, có 
 
 Để chè không nát hay chảy trên đường, hãy chọn cách đóng gói chắc. Nếu người bán không đóng sẵn, hãy mang theo hộp cứng hoặc nhờ họ đóng vào hộp. Đặt hộp trong túi, rồi trong túi giữ lạnh nếu trời nóng và bạn có.
 
-Đặt túi ở chỗ phẳng, không bị đè bởi đồ nặng và tránh xa ống xả hoặc yên xe nóng. Không treo tòng teng trên tay lái vì xe xóc sẽ làm chè dồn lại. Nếu đi xa hoặc trời nóng, hãy về ngay sau khi mua thay vì ghé thêm nhiều điểm. Bài về [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-o-gom-bat-trang-ve-bang-xe-may-cach-ong-goi-va-buoc-o/) có thêm cách đóng gói và buộc đồ.
+Đặt túi ở chỗ phẳng, không bị đè bởi đồ nặng và tránh xa ống xả hoặc yên xe nóng. Không treo tòng teng trên tay lái vì xe xóc sẽ làm chè dồn lại. Nếu đi xa hoặc trời nóng, hãy về ngay sau khi mua thay vì ghé thêm nhiều điểm. Bài về [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-do-gom-bat-trang-ve-bang-xe-may-cach-dong-goi-va-buoc-do/) có thêm cách đóng gói và buộc đồ.
 
 ## Những điều chưa xác minh: giá, giờ mở cửa và chỗ để xe
 

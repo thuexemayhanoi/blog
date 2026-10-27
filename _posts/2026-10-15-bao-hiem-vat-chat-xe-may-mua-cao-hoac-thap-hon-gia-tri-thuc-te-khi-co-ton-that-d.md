@@ -65,7 +65,7 @@ Mục tiêu là số tiền bảo hiểm sát giá trị thực tế nhất có 
 - Với điều khoản mất cắp, xem tiền chi trả tính theo giá trị nào; điều kiện riêng có ở bài [bảo hiểm mất cắp toàn bộ xe máy](/an-toan-phap-ly/2026/10/15/bao-hiem-mat-cap-toan-bo-xe-may-dieu-kien-boi-thuong-khi-xe-bi-trom-va-giay-to-t/).
 - Hỏi qua tin nhắn hoặc thư điện tử để có câu trả lời lưu lại.
 
-Chút phí tiết kiệm nhờ khai thấp thường không bù được phần tự gánh khi có sự cố. Còn phân vân có nên mua lớp tự nguyện, đọc bài [bảo hiểm tự nguyện xe máy có đáng mua thêm không](/an-toan-phap-ly/2026/10/10/bao-hiem-tu-nguyen-xe-may-co-ang-mua-them-khong/).
+Chút phí tiết kiệm nhờ khai thấp thường không bù được phần tự gánh khi có sự cố. Còn phân vân có nên mua lớp tự nguyện, đọc bài [bảo hiểm tự nguyện xe máy có đáng mua thêm không](/an-toan-phap-ly/2026/10/10/bao-hiem-tu-nguyen-xe-may-co-dang-mua-them-khong/).
 
 ## Nếu bạn đang đi xe thuê
 

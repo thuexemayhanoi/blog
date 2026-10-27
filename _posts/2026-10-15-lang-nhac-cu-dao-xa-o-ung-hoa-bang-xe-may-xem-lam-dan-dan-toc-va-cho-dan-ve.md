@@ -56,7 +56,7 @@ Hỏi thêm nghệ nhân có nên hạ bớt độ căng dây khi chở đi xa h
 
 Đây là phần quyết định cây đàn về tới nhà còn nguyên hay không.
 
-**Đàn nhỏ, như đàn nguyệt, tỳ bà:** bắt buộc phải có hộp cứng hoặc bao cứng có lót đệm. Bao vải mỏng không đỡ được va đập khi xe qua ổ gà. Nhét thêm khăn mềm vào chỗ trống trong hộp để đàn không xê dịch. Cách tốt nhất là người ngồi sau ôm hộp đàn dựng đứng, cần đàn hướng lên. Đi một mình thì buộc hộp dọc yên sau, ít nhất hai điểm chằng, dây không đè lên chỗ khóa hộp. Nguyên tắc buộc đồ dễ hỏng có trong bài [chở đồ dễ vỡ trên xe máy sao cho không hỏng](/ky-nang/2026/10/10/cho-o-de-vo-tren-xe-may-sao-cho-khong-hong/).
+**Đàn nhỏ, như đàn nguyệt, tỳ bà:** bắt buộc phải có hộp cứng hoặc bao cứng có lót đệm. Bao vải mỏng không đỡ được va đập khi xe qua ổ gà. Nhét thêm khăn mềm vào chỗ trống trong hộp để đàn không xê dịch. Cách tốt nhất là người ngồi sau ôm hộp đàn dựng đứng, cần đàn hướng lên. Đi một mình thì buộc hộp dọc yên sau, ít nhất hai điểm chằng, dây không đè lên chỗ khóa hộp. Nguyên tắc buộc đồ dễ hỏng có trong bài [chở đồ dễ vỡ trên xe máy sao cho không hỏng](/ky-nang/2026/10/10/cho-do-de-vo-tren-xe-may-sao-cho-khong-hong/).
 
 **Không đeo đàn lớn sau lưng khi lái.** Một hộp đàn dài đeo chéo lưng sẽ hứng gió như cánh buồm, kéo vai người lái mỗi khi xe tải vượt qua. Đầu hộp chĩa ra ngoài thân xe dễ quệt vào xe bên cạnh, lại che mất tầm quay đầu nhìn phía sau. Ngã xe với cây đàn trên lưng thì cả người lẫn đàn đều chịu trận.
 

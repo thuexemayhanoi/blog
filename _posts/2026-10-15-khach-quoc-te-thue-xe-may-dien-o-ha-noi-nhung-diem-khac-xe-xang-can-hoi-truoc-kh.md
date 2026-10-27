@@ -27,7 +27,7 @@ Vì vậy, hãy hỏi cửa hàng ba điều:
 - Với bằng lái mình đang có, mình có được phép điều khiển nhóm xe đó không.
 - Cửa hàng cần xem những giấy tờ gì khi giao xe, và giữ hay chỉ đối chiếu.
 
-Đừng tự suy ra rằng xe điện nhỏ thì không cần bằng. Đọc thêm bài [người nước ngoài dùng bằng lái nước ngoài có đi xe được không](/hoi-dap/2026/09/29/nguoi-nuoc-ngoai-bang-lai-nuoc-ngoai-i-xe-uoc-khong/) và bài [bằng lái xe máy điện cần giấy phép nào khi thuê](/an-toan-phap-ly/2026/10/10/bang-lai-xe-may-ien-can-giay-phep-nao-khi-thue/) trước chuyến bay; quy định có thể thay đổi nên hãy hỏi lại cửa hàng. Về đặt cọc và giấy tờ gốc, hãy hỏi rõ trực tiếp rồi xin biên nhận khi giao bất cứ thứ gì.
+Đừng tự suy ra rằng xe điện nhỏ thì không cần bằng. Đọc thêm bài [người nước ngoài dùng bằng lái nước ngoài có đi xe được không](/hoi-dap/2026/09/29/nguoi-nuoc-ngoai-bang-lai-nuoc-ngoai-di-xe-duoc-khong/) và bài [bằng lái xe máy điện cần giấy phép nào khi thuê](/an-toan-phap-ly/2026/10/10/bang-lai-xe-may-dien-can-giay-phep-nao-khi-thue/) trước chuyến bay; quy định có thể thay đổi nên hãy hỏi lại cửa hàng. Về đặt cọc và giấy tờ gốc, hãy hỏi rõ trực tiếp rồi xin biên nhận khi giao bất cứ thứ gì.
 
 ## Quãng đường thực tế: đừng tin con số trên tờ giới thiệu
 
@@ -40,7 +40,7 @@ Hãy kể lịch trình dự kiến, ví dụ sáng quanh hồ Hoàn Kiếm, chi
 - Chạy nhanh trên đường rộng như Võ Chí Công hay đường ven hồ Tây.
 - Thời tiết nóng hoặc lạnh, ảnh hưởng tới pin.
 
-Bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-uong-mot-lan-sac-cua-xe-may-ien/) giải thích vì sao con số quảng cáo thường cao hơn thực tế. Luôn để dư pin cho đường về chỗ ở.
+Bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-duong-mot-lan-sac-cua-xe-may-dien/) giải thích vì sao con số quảng cáo thường cao hơn thực tế. Luôn để dư pin cho đường về chỗ ở.
 
 ## Sạc ở đâu, bằng gì: câu hỏi xe xăng không bao giờ có
 
@@ -51,7 +51,7 @@ Bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/
 3. **Nếu dùng trạm sạc công cộng thì thanh toán thế nào.** Có trạm yêu cầu ứng dụng hoặc tài khoản trong nước, du khách có thể không tự kích hoạt được.
 4. **Sạc mất bao lâu từ mức thấp lên mức đủ dùng.** Biết vậy để cắm sạc lúc nghỉ trưa.
 
-Xem thêm bài [sạc xe máy điện khi thuê ở đâu và mất bao lâu](/xe-may/2026/09/27/sac-xe-may-ien-khi-thue-o-au-va-mat-bao-lau/).
+Xem thêm bài [sạc xe máy điện khi thuê ở đâu và mất bao lâu](/xe-may/2026/09/27/sac-xe-may-dien-khi-thue-o-dau-va-mat-bao-lau/).
 
 ## Đọc đồng hồ, chế độ lái và tiếng xe im lặng
 
@@ -63,7 +63,7 @@ Xem thêm bài [sạc xe máy điện khi thuê ở đâu và mất bao lâu](/x
 
 Chế độ lái là thứ khách quen xe xăng hay bỏ qua. Ở chế độ mạnh, xe bốc nhanh ngay khi vặn ga, dễ giật mình trong ngõ hẹp quanh chợ Đồng Xuân. Nên tập vài vòng ở chỗ vắng trước khi ra phố.
 
-Xe điện gần như không có tiếng máy, người đi bộ ở phố cổ có thể không nghe thấy bạn, nên đi chậm và dùng còi nhẹ ở góc khuất. Bài [thay đổi cách lái từ xe xăng sang xe điện thuê](/xe-may/2026/10/09/thay-oi-cach-lai-tu-xe-xang-sang-xe-ien-thue/) có bài tập ngắn cho tuần đầu.
+Xe điện gần như không có tiếng máy, người đi bộ ở phố cổ có thể không nghe thấy bạn, nên đi chậm và dùng còi nhẹ ở góc khuất. Bài [thay đổi cách lái từ xe xăng sang xe điện thuê](/xe-may/2026/10/09/thay-doi-cach-lai-tu-xe-xang-sang-xe-dien-thue/) có bài tập ngắn cho tuần đầu.
 
 ## Chống trộm, khóa xe và đổi pin
 

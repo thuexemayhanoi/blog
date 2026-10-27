@@ -47,7 +47,7 @@ Phản xạ tự nhiên là cúi xuống xoay lại núm ngay. Đừng làm vậ
 4. **Phanh nhẹ, đều, dùng cả hai phanh.** Không bóp gấp.
 5. **Dừng hẳn ở chỗ an toàn.** Ưu tiên lề rộng, cửa hàng có vỉa hè thấp, tránh dừng ngay giữa cầu, đầu dốc hay khúc cua.
 
-Nếu chuyện xảy ra trên cầu Chương Dương hay cầu Vĩnh Tuy, nơi lề hẹp và xe chạy nhanh, hãy giữ làn sát bên phải, để xe trôi tới chân cầu rồi mới dừng, thay vì dừng giữa cầu. Bài [xử lý khi ga bị kẹt không nhả](/ky-nang/2026/10/11/ga-bi-ket-khong-nha-khi-ang-chay-tat-may-bop-phanh-va-dung-xe-an-toan/) có cùng tinh thần giữ lái và dừng có kiểm soát, bạn có thể đọc thêm để luyện phản xạ.
+Nếu chuyện xảy ra trên cầu Chương Dương hay cầu Vĩnh Tuy, nơi lề hẹp và xe chạy nhanh, hãy giữ làn sát bên phải, để xe trôi tới chân cầu rồi mới dừng, thay vì dừng giữa cầu. Bài [xử lý khi ga bị kẹt không nhả](/ky-nang/2026/10/11/ga-bi-ket-khong-nha-khi-dang-chay-tat-may-bop-phanh-va-dung-xe-an-toan/) có cùng tinh thần giữ lái và dừng có kiểm soát, bạn có thể đọc thêm để luyện phản xạ.
 
 ## Nổ máy lại đúng thứ tự khi xe đã dừng hẳn
 
@@ -58,7 +58,7 @@ Chỉ khi xe đã đứng yên ở lề, chân chạm đất, bạn mới xử l
 - Bóp giữ một bên phanh, bấm nút đề. Nhiều xe tay ga không cho đề nếu chưa bóp phanh, hoặc nếu chân chống bên còn hạ.
 - Máy nổ đều rồi mới quan sát và nhập lại dòng xe.
 
-Nếu xe không đề được, đừng xoay núm qua lại liên tục. Đọc lại các bước trong bài [bấm đề xe ga không phản ứng](/xe-may/2026/10/11/bam-e-xe-ga-khong-phan-ung-nhung-cong-tac-an-toan-hay-bi-quen/) trước khi gọi cửa hàng.
+Nếu xe không đề được, đừng xoay núm qua lại liên tục. Đọc lại các bước trong bài [bấm đề xe ga không phản ứng](/xe-may/2026/10/11/bam-de-xe-ga-khong-phan-ung-nhung-cong-tac-an-toan-hay-bi-quen/) trước khi gọi cửa hàng.
 
 ## Vì sao núm lại bị chạm và cách phòng tránh
 

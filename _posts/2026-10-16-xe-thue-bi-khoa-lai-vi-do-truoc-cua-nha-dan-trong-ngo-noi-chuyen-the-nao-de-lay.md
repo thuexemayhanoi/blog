@@ -80,7 +80,7 @@ Lấy được xe rồi, đừng vội phóng đi. Dắt ra chỗ rộng, nhìn 
 - Cắm chìa có xoay được bình thường không.
 - Phanh, đèn, còi vẫn ổn chứ.
 
-Nếu thấy ổ khóa bị chọc ngoáy, xử lý theo bài [ổ khóa xe thuê bị cạy dở](/hoi-dap/2026/10/16/quay-lai-thay-o-khoa-xe-thue-bi-cay-do-khong-cam-duoc-chia-xu-ly-tai-cho-va-bao/). Thấy vết va quệt mới thì đọc thêm [xe thuê bị va chạm nhẹ khi đỗ](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-o-can-bao-gi-cho-cua-hang/).
+Nếu thấy ổ khóa bị chọc ngoáy, xử lý theo bài [ổ khóa xe thuê bị cạy dở](/hoi-dap/2026/10/16/quay-lai-thay-o-khoa-xe-thue-bi-cay-do-khong-cam-duoc-chia-xu-ly-tai-cho-va-bao/). Thấy vết va quệt mới thì đọc thêm [xe thuê bị va chạm nhẹ khi đỗ](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-do-can-bao-gi-cho-cua-hang/).
 
 Báo cửa hàng cả khi mọi thứ đã xong, đặc biệt nếu xe bị xả hơi lốp, trầy xước hoặc bạn phải nhờ công an hỗ trợ. Tin nhắn nên có biển số, vị trí ngõ, ảnh hiện trạng lúc phát hiện và tình trạng xe hiện tại. Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, điện thoại 0942 467 674, mở cửa 09:00–21:00. Chi phí sửa chữa nếu có cần xác nhận trực tiếp với cửa hàng.
 

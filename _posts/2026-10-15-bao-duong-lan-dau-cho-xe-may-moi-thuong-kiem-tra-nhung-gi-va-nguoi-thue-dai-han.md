@@ -29,7 +29,7 @@ Với người thuê dài hạn, điều này có nghĩa lần bảo dưỡng đ
 
 Sách Air Blade bản Việt Nam ghi lịch bảo dưỡng đưa ra những yêu cầu cần thiết cho an toàn và độ tin cậy của xe, và bảo dưỡng phải do kỹ thuật viên được đào tạo, có dụng cụ cần thiết thực hiện. Sách cũng khuyên giữ lại tất cả phiếu bảo dưỡng.
 
-Mỗi đời xe có bảng riêng. Chiếc xe bạn nhận có thể có mốc đầu ở con số khác, hoặc tính cả theo thời gian. Hãy chụp trang bảng trong sách của đúng xe, hoặc xin tiệm bản chụp, rồi dùng bảng ấy làm gốc. Bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-inh-ky-xe-may-gom-nhung-gi/) liệt kê các nhóm việc thường gặp trong một kỳ bảo dưỡng.
+Mỗi đời xe có bảng riêng. Chiếc xe bạn nhận có thể có mốc đầu ở con số khác, hoặc tính cả theo thời gian. Hãy chụp trang bảng trong sách của đúng xe, hoặc xin tiệm bản chụp, rồi dùng bảng ấy làm gốc. Bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-dinh-ky-xe-may-gom-nhung-gi/) liệt kê các nhóm việc thường gặp trong một kỳ bảo dưỡng.
 
 ## Năm trăm ki-lô-mét đầu: chạy rà và những điều nên tránh
 

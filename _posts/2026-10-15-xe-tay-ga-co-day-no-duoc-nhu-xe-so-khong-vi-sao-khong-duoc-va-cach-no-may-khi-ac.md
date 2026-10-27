@@ -42,7 +42,7 @@ Nhiều lần xe ga không nổ chẳng phải vì ắc quy. Trước khi loay h
 4. **Còn xăng không.** Nhìn đồng hồ xăng sau khi bật khóa điện.
 5. **Đèn và còi có sáng, kêu rõ không.** Đèn mờ, còi rè, củ đề quay yếu rồi tắt là dấu hiệu ắc quy yếu thật sự.
 
-Nếu đã đúng hết bốn điểm đầu mà củ đề vẫn ì ạch hoặc chỉ nghe tiếng tạch, khả năng cao là ắc quy không đủ điện. Các dấu hiệu chi tiết hơn có trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/).
+Nếu đã đúng hết bốn điểm đầu mà củ đề vẫn ì ạch hoặc chỉ nghe tiếng tạch, khả năng cao là ắc quy không đủ điện. Các dấu hiệu chi tiết hơn có trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/).
 
 ## Xe ga ắc quy yếu nổ máy thế nào: dùng cần đạp nếu xe có
 
@@ -56,7 +56,7 @@ Cách đạp an toàn trên xe ga:
 - **Đạp vài lần nếu chưa nổ**, nghỉ giữa các lần, đừng đạp liên tục quá lâu.
 - **Khi máy đã nổ**, bóp phanh sau giữ bánh rồi mới hạ xe khỏi chân chống giữa.
 
-Kỹ thuật đạp chân trên xe số được hướng dẫn riêng trong bài [khởi động xe máy bằng đạp chân khi ắc quy yếu](/ky-nang/2026/10/05/bat-au-xe-may-bang-ap-chan-khi-ac-quy-yeu/). Trên xe ga, điểm khác là luôn dùng chân chống giữa.
+Kỹ thuật đạp chân trên xe số được hướng dẫn riêng trong bài [khởi động xe máy bằng đạp chân khi ắc quy yếu](/ky-nang/2026/10/05/bat-dau-xe-may-bang-dap-chan-khi-ac-quy-yeu/). Trên xe ga, điểm khác là luôn dùng chân chống giữa.
 
 ## Câu ắc quy: chỉ làm khi biết cách
 

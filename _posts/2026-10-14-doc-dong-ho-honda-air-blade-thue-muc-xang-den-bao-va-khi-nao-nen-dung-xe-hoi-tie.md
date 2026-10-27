@@ -65,7 +65,7 @@ Màn hình Air Blade đời mới thường hiển thị số km tổng (ODO) v�
 
 Đồng hồ trên Air Blade có thể hiện cả giờ. Giờ này có thể lệch, chẳng hạn sau khi xe được thay ắc quy, nên đừng dựa vào nó để canh giờ trả xe; hãy xem điện thoại.
 
-So với cách đọc đồng hồ trên xe số, bạn có thể tham khảo bài [đọc đồng hồ Honda Wave](/xe-may/2026/10/14/doc-dong-ho-honda-wave-den-bao-so-kim-xang-va-so-km-de-ghi-luc-nhan-tra-xe/); còn cách ghi đồng hồ chung khi nhận bất kỳ chiếc xe thuê nào có trong bài [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/oc-ong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-en-canh-bao/).
+So với cách đọc đồng hồ trên xe số, bạn có thể tham khảo bài [đọc đồng hồ Honda Wave](/xe-may/2026/10/14/doc-dong-ho-honda-wave-den-bao-so-kim-xang-va-so-km-de-ghi-luc-nhan-tra-xe/); còn cách ghi đồng hồ chung khi nhận bất kỳ chiếc xe thuê nào có trong bài [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/doc-dong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-den-canh-bao/).
 
 ## Khi nào nên dừng xe hỏi tiệm
 
@@ -75,7 +75,7 @@ Phần lớn thời gian, bạn chỉ cần liếc mức xăng và tốc độ. 
 2. **Đèn hoặc ký hiệu nhiệt độ báo cao.** Tắt máy, để xe nguội, không mở nắp két nước.
 3. **Đèn ABS sáng mãi** trên bản có ABS. Xe vẫn phanh được nhưng nên đi chậm và báo tiệm.
 4. **Đồng hồ tắt ngúm hoặc chập chờn** khi đang chạy.
-5. **Đèn báo đi kèm mùi khét, tiếng lạ hoặc xe hụt ga.** Xem thêm bài [đang đi xe thuê có mùi khét](/xe-may/2026/10/01/ang-i-xe-thue-co-mui-khet-dung-xe-va-kiem-tra-au/).
+5. **Đèn báo đi kèm mùi khét, tiếng lạ hoặc xe hụt ga.** Xem thêm bài [đang đi xe thuê có mùi khét](/xe-may/2026/10/01/dang-di-xe-thue-co-mui-khet-dung-xe-va-kiem-tra-dau/).
 
 Khi dừng, chọn chỗ có vỉa hè hoặc lối vào ngõ, tránh dừng ngay trên cầu như Long Biên hay Vĩnh Tuy. Chụp ảnh mặt đồng hồ đang báo đèn, rồi gọi tiệm theo số 0942467674. Mô tả đèn gì, màu gì, sáng liên tục hay nhấp nháy, xe đang chạy bình thường hay yếu đi. Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, làm việc từ 09:00 đến 21:00; nếu cần hỗ trợ tại chỗ, thời gian và chi phí sẽ được trao đổi rõ khi gọi.
 

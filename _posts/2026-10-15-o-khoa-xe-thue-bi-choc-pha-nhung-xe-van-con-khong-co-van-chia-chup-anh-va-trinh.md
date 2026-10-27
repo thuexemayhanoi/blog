@@ -64,6 +64,6 @@ Kẻ gian bỏ dở có thể quay lại vào đêm sau. Trong lúc chờ xử l
 
 ## Phòng cho những đêm sau
 
-Nhiều vụ phá khóa xảy ra vào khoảng gần sáng ở những chỗ đỗ tối, khuất tầm nhìn. Đỗ xe ở chỗ sáng, có camera hoặc có người qua lại; luôn đóng nắp chống trộm của ổ khóa từ; dùng thêm khóa phụ khi để xe qua đêm ngoài trời. Thói quen đỗ và khóa xe ở nhà trọ được nói chi tiết ở bài [chống trộm cho xe máy để qua đêm ở nhà trọ](/thue-xe/2026/10/11/chong-trom-cho-xe-may-o-qua-em-o-nha-tro-khoa-vi-tri-o-va-thoi-quen/ "Chống trộm cho xe máy để qua đêm ở nhà trọ"); nếu không may xe đã bị lấy mất, xem trình tự ở bài [xe thuê bị mất trộm: trình tự cần làm](/thue-xe/2026/09/27/xe-thue-bi-mat-trom-trinh-tu-can-lam/ "Xe thuê bị mất trộm").
+Nhiều vụ phá khóa xảy ra vào khoảng gần sáng ở những chỗ đỗ tối, khuất tầm nhìn. Đỗ xe ở chỗ sáng, có camera hoặc có người qua lại; luôn đóng nắp chống trộm của ổ khóa từ; dùng thêm khóa phụ khi để xe qua đêm ngoài trời. Thói quen đỗ và khóa xe ở nhà trọ được nói chi tiết ở bài [chống trộm cho xe máy để qua đêm ở nhà trọ](/thue-xe/2026/10/11/chong-trom-cho-xe-may-do-qua-dem-o-nha-tro-khoa-vi-tri-do-va-thoi-quen/ "Chống trộm cho xe máy để qua đêm ở nhà trọ"); nếu không may xe đã bị lấy mất, xem trình tự ở bài [xe thuê bị mất trộm: trình tự cần làm](/thue-xe/2026/09/27/xe-thue-bi-mat-trom-trinh-tu-can-lam/ "Xe thuê bị mất trộm").
 
 Các tình huống khác khi đang thuê xe có ở chuyên mục [sự cố khi thuê xe](/thue-xe/su-co/ "Sự cố khi thuê xe máy"), còn toàn bộ hướng dẫn thuê xe có ở mục [thuê xe máy](/thue-xe/ "Thuê xe máy Hà Nội").

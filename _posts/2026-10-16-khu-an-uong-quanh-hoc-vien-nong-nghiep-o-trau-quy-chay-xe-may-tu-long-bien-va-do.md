@@ -57,13 +57,13 @@ Vì vậy, khi đi ăn ở khu này:
 - **Không dựng xe trên vỉa hè** khi không có chỗ được phép, không đỗ ở góc phố hay sát nơi đường giao nhau.
 - **Dừng sát lề phải** nếu chỉ ghé mua mang về, không đứng song song với xe khác.
 
-Cách thỏa thuận chỗ để xe với quán quen có ở bài [gửi xe ở quán ăn quen thuộc](/ky-nang/2026/10/04/gui-xe-o-quan-an-quen-thuoc-thoa-thuan-nho/ "Gửi xe ở quán ăn quen thuộc"). Chuyện đỗ xe trên vỉa hè bị xử lý thế nào có ở bài [hỏi đậu xe máy trên vỉa hè có bị xử lý không](/hoi-dap/2026/10/07/hoi-au-xe-may-tren-via-he-co-bi-xu-ly-khong/ "Đậu xe máy trên vỉa hè có bị xử lý không").
+Cách thỏa thuận chỗ để xe với quán quen có ở bài [gửi xe ở quán ăn quen thuộc](/ky-nang/2026/10/04/gui-xe-o-quan-an-quen-thuoc-thoa-thuan-nho/ "Gửi xe ở quán ăn quen thuộc"). Chuyện đỗ xe trên vỉa hè bị xử lý thế nào có ở bài [hỏi đậu xe máy trên vỉa hè có bị xử lý không](/hoi-dap/2026/10/07/hoi-dau-xe-may-tren-via-he-co-bi-xu-ly-khong/ "Đậu xe máy trên vỉa hè có bị xử lý không").
 
 ## Đi xe máy từ Long Biên sang Trâu Quỳ
 
 Từ phía Nguyễn Văn Cừ, đi tới nút Cầu Chui rồi chuyển sang Nguyễn Văn Linh, tức quốc lộ 5, hướng về Trâu Quỳ; Học viện nằm trên phố Ngô Xuân Quảng. Cách chọn làn ở nút Cầu Chui có ở bài [khu Cầu Chui ở Long Biên](/du-lich/2026/10/16/khu-cau-chui-o-long-bien-chon-lan-xe-may-qua-nut-giao-nguyen-van-cu-ngo-gia-tu-n/ "Khu Cầu Chui ở Long Biên: chọn làn xe máy").
 
-Quốc lộ 5 có nhiều xe tải và container. Đi sát bên phải, không chen giữa hai xe lớn và tránh điểm mù của xe tải; xem thêm bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-iem-mu/ "Chạy xe máy cạnh xe tải và container ở Gia Lâm").
+Quốc lộ 5 có nhiều xe tải và container. Đi sát bên phải, không chen giữa hai xe lớn và tránh điểm mù của xe tải; xem thêm bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-diem-mu/ "Chạy xe máy cạnh xe tải và container ở Gia Lâm").
 
 ## Câu hỏi thường gặp
 

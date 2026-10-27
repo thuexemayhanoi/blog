@@ -47,10 +47,10 @@ Thay vì chạy theo cuộc gọi, hãy chia khách theo cụm khu vực. Ví d�
 Vài nguyên tắc giúp lịch đỡ vỡ:
 
 1. **Nhắn khách hẹn trước một ngày.** Hỏi rõ người giao chứng từ có mặt không, tránh tới nơi rồi phải quay lại.
-2. **Tránh giờ cao điểm cầu và trục lớn.** Nếu phải qua sông, đi qua cầu Long Biên, Chương Dương hay Vĩnh Tuy ngoài khung sáng sớm và chiều tan tầm. Kinh nghiệm luồn qua giờ đông được nói kỹ trong bài [kẹt xe giờ cao điểm nội thành](/ky-nang/2026-09-29/ket-xe-gio-cao-iem-noi-thanh-ky-nang-i-xe-may-an-toan/).
+2. **Tránh giờ cao điểm cầu và trục lớn.** Nếu phải qua sông, đi qua cầu Long Biên, Chương Dương hay Vĩnh Tuy ngoài khung sáng sớm và chiều tan tầm. Kinh nghiệm luồn qua giờ đông được nói kỹ trong bài [kẹt xe giờ cao điểm nội thành](/ky-nang/2026-09-29/ket-xe-gio-cao-diem-noi-thanh-ky-nang-di-xe-may-an-toan/).
 3. **Ghép ngân hàng vào cuối buổi.** Nộp chứng từ ngân hàng hay đối chiếu sao kê để ở điểm cuối của cụm, đỡ phải chạy riêng.
 
-Người làm kinh doanh đi gặp khách cả ngày cũng có cách xếp lộ trình riêng; nếu muốn tham khảo thêm góc nhìn đó, đọc bài [nhân viên kinh doanh đi gặp khách cả ngày](/thue-xe/2026/10/11/nhan-vien-kinh-doanh-i-gap-khach-ca-ngay-thue-xe-may-thang-va-xep-lo-trinh/).
+Người làm kinh doanh đi gặp khách cả ngày cũng có cách xếp lộ trình riêng; nếu muốn tham khảo thêm góc nhìn đó, đọc bài [nhân viên kinh doanh đi gặp khách cả ngày](/thue-xe/2026/10/11/nhan-vien-kinh-doanh-di-gap-khach-ca-ngay-thue-xe-may-thang-va-xep-lo-trinh/).
 
 ## Mang chứng từ bằng xe máy cho khô ráo và không thất lạc
 
@@ -61,7 +61,7 @@ Hóa đơn, bảng kê, biên bản có chữ ký là thứ khó làm lại nế
 - **Không để chứng từ trên xe khi rời đi.** Dừng ở văn phòng khách hay quán ăn trưa, mang cả cặp theo người.
 - **Chụp ảnh khi nhận.** Nhận bộ chứng từ nào thì chụp nhanh trang đầu, nhắn lại cho khách xác nhận đã nhận đủ.
 
-Khi trời đổ mưa giữa đường, tấp vào chỗ có mái che rồi mới mặc áo mưa, kiểm tra túi tài liệu đã đóng kín. Bài [mùa mưa Hà Nội chuẩn bị gì khi đi xe máy thuê](/ky-nang/2026-09-29/mua-mua-ha-noi-chuan-bi-gi-khi-i-xe-may-thue/) có danh sách áo mưa và đồ che chắn nên để sẵn trong cốp.
+Khi trời đổ mưa giữa đường, tấp vào chỗ có mái che rồi mới mặc áo mưa, kiểm tra túi tài liệu đã đóng kín. Bài [mùa mưa Hà Nội chuẩn bị gì khi đi xe máy thuê](/ky-nang/2026-09-29/mua-mua-ha-noi-chuan-bi-gi-khi-di-xe-may-thue/) có danh sách áo mưa và đồ che chắn nên để sẵn trong cốp.
 
 ## Nộp hồ sơ đúng hạn: ít chuyến hơn, nhưng đừng để dồn cuối kỳ
 

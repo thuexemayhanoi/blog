@@ -73,7 +73,7 @@ Trước khi đi, kiểm tra lốp còn gai, áp suất đủ, phanh sau ăn đ�
 
 ## Tránh đường đất lầy sau mưa
 
-Đường đất khô đã khó, đường đất sau mưa còn khó hơn nhiều. Lớp đất nhão bám vào lốp, lấp hết rãnh gai, khiến bánh xe gần như không còn độ bám; những vũng nước có thể che hố sâu bên dưới. Ngay cả đoạn đường nhựa phủ đất sau mưa cũng trơn bất ngờ, như trong bài [đường phủ bụi đất sau mưa](/ky-nang/2026/10/11/uong-phu-bui-at-sau-mua-giam-toc-va-phanh-som/).
+Đường đất khô đã khó, đường đất sau mưa còn khó hơn nhiều. Lớp đất nhão bám vào lốp, lấp hết rãnh gai, khiến bánh xe gần như không còn độ bám; những vũng nước có thể che hố sâu bên dưới. Ngay cả đoạn đường nhựa phủ đất sau mưa cũng trơn bất ngờ, như trong bài [đường phủ bụi đất sau mưa](/ky-nang/2026/10/11/duong-phu-bui-dat-sau-mua-giam-toc-va-phanh-som/).
 
 Nếu trời vừa mưa to và đoạn phía trước là đường đất, lựa chọn an toàn nhất là quay lại, chờ đường se hoặc tìm đường nhựa vòng. Khi buộc phải qua một đoạn ngắn, hãy đi số thấp, ga đều, chân sẵn sàng chống đất, hoặc xuống dắt xe.
 

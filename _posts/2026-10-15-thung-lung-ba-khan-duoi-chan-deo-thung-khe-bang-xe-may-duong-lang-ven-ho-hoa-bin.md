@@ -29,7 +29,7 @@ Thung lũng nằm ở đuôi hồ Hòa Bình, tức vùng lòng hồ sông Đà.
 
 Theo các nguồn, có hai cách vào Ba Khan. Cách thứ nhất là rẽ ở chân đèo Thung Khe phía Tân Lạc, nơi một số nguồn nhắc ngã ba gần chợ Phú Cường và biển chỉ dẫn khoảng mười cây số tới Ba Khan. Cách thứ hai là đi qua đèo tới ngã ba Tòng Đậu, rẽ trái theo hướng Mộc Châu khoảng bảy cây số rồi vào Bãi Sang khoảng tám cây số nữa. Các con số này theo nguồn tham khảo, không phải do bài đo.
 
-Dù chọn cách nào, hãy đi theo quốc lộ và dùng bản đồ ở chế độ xe hai bánh. Một số bài cũ gợi ý lộ trình qua đường cao tốc; xe máy không được vào đường cao tốc, nên đừng chép theo những lộ trình ấy. Bài [chạy xe máy qua đèo Thung Khe an toàn thế nào](/cung-duong/2026/09/28/chay-xe-may-qua-eo-thung-khe-an-toan-the-nao/) bàn về đoạn đèo, còn bài [từ ngã ba Tòng Đậu vào Mai Châu](/cung-duong/2026/10/13/tu-nga-ba-tong-dau-vao-mai-chau-re-khoi-quoc-lo-6-qua-thi-tran-toi-ban-lac/) nói thêm về ngã ba này.
+Dù chọn cách nào, hãy đi theo quốc lộ và dùng bản đồ ở chế độ xe hai bánh. Một số bài cũ gợi ý lộ trình qua đường cao tốc; xe máy không được vào đường cao tốc, nên đừng chép theo những lộ trình ấy. Bài [chạy xe máy qua đèo Thung Khe an toàn thế nào](/cung-duong/2026/09/28/chay-xe-may-qua-deo-thung-khe-an-toan-the-nao/) bàn về đoạn đèo, còn bài [từ ngã ba Tòng Đậu vào Mai Châu](/cung-duong/2026/10/13/tu-nga-ba-tong-dau-vao-mai-chau-re-khoi-quoc-lo-6-qua-thi-tran-toi-ban-lac/) nói thêm về ngã ba này.
 
 ## Gọi là dưới chân đèo Thung Khe: khoảng cách thật
 

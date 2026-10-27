@@ -31,7 +31,7 @@ Trước khi rời cửa hàng, hãy làm mấy việc sau:
 
 ## Quốc lộ 5 cho xe máy: đi đúng làn, không vào cao tốc
 
-Có hai tuyến đi về hướng Hải Dương cũ và Hải Phòng, chỉ một tuyến dành cho bạn. **Cao tốc Hà Nội – Hải Phòng cấm xe máy**, dù ứng dụng bản đồ đôi khi gợi ý vì nhanh hơn. Hãy mở Google Maps ở chế độ xe máy, đặt điểm đến là Văn Miếu Mao Điền và kiểm tra lộ trình đi theo quốc lộ 5. Thấy biển cấm xe máy hay biển chỉ lối lên cao tốc thì đi thẳng, không rẽ theo ô tô. Quy định chi tiết có trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Có hai tuyến đi về hướng Hải Dương cũ và Hải Phòng, chỉ một tuyến dành cho bạn. **Cao tốc Hà Nội – Hải Phòng cấm xe máy**, dù ứng dụng bản đồ đôi khi gợi ý vì nhanh hơn. Hãy mở Google Maps ở chế độ xe máy, đặt điểm đến là Văn Miếu Mao Điền và kiểm tra lộ trình đi theo quốc lộ 5. Thấy biển cấm xe máy hay biển chỉ lối lên cao tốc thì đi thẳng, không rẽ theo ô tô. Quy định chi tiết có trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 Từ Bồ Đề, bạn đi qua Long Biên và Gia Lâm rồi bắt vào quốc lộ 5, chạy qua Như Quỳnh, Phố Nối trước khi tới vùng Cẩm Giàng. Đoạn đầu trong Gia Lâm đông xe đi làm; ra khỏi nội thành đường thoáng hơn nhưng dòng xe cũng nhanh hơn.
 
@@ -50,7 +50,7 @@ Người chở con nhỏ phía sau nên dặn con ngồi yên, ôm chắc, khôn
 
 ## Gửi xe và tham quan Văn Miếu Mao Điền
 
-Văn Miếu Mao Điền là nơi thờ Khổng Tử và tôn vinh truyền thống hiếu học, khoa bảng của xứ Đông, từng gắn với việc học hành thi cử của vùng này. Khu nhà bia khắc tên các vị đỗ tiến sĩ người xứ Đông là phần nhiều người tìm đến nhất. Nếu đã đến Văn Miếu – Quốc Tử Giám ở Đống Đa, bạn sẽ thấy cách bày trí quen thuộc nhưng không gian ở đây yên tĩnh hơn hẳn; kinh nghiệm gửi xe ở Văn Miếu trong phố có trong bài [đến Văn Miếu – Quốc Tử Giám bằng xe máy](/du-lich/2026/09/28/en-van-mieu-quoc-tu-giam-bang-xe-may-gui-xe-va-uong-i/).
+Văn Miếu Mao Điền là nơi thờ Khổng Tử và tôn vinh truyền thống hiếu học, khoa bảng của xứ Đông, từng gắn với việc học hành thi cử của vùng này. Khu nhà bia khắc tên các vị đỗ tiến sĩ người xứ Đông là phần nhiều người tìm đến nhất. Nếu đã đến Văn Miếu – Quốc Tử Giám ở Đống Đa, bạn sẽ thấy cách bày trí quen thuộc nhưng không gian ở đây yên tĩnh hơn hẳn; kinh nghiệm gửi xe ở Văn Miếu trong phố có trong bài [đến Văn Miếu – Quốc Tử Giám bằng xe máy](/du-lich/2026/09/28/den-van-mieu-quoc-tu-giam-bang-xe-may-gui-xe-va-duong-di/).
 
 Khi tới nơi, rẽ khỏi quốc lộ 5 theo chỉ dẫn bản đồ, đi chậm và bật xi nhan sớm, vì xe phía sau thường chạy nhanh. Gửi xe ở chỗ có người trông giữ, lấy vé hoặc biên nhận, khóa cổ xe và cất mũ vào cốp. Hỏi người trông xe về giá gửi trước khi đi vào.
 

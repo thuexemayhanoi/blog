@@ -23,7 +23,7 @@ Sirius nhỏ và nhẹ, đó là ưu điểm khi luồn qua phố hẹp, nhưng 
 
 Ngoài ra, người lái xe số có nhiều thao tác hơn xe ga hay [xe máy điện chở người ngồi sau](/xe-may/2026/10/14/cho-nguoi-ngoi-sau-tren-xe-may-dien-giu-thang-bang-phanh-som-va-tu-the-ngoi-cho/). Chân trái phải gẩy số, chân phải phải đạp phanh sau, tay phải vừa giữ ga vừa bóp phanh trước. Khi đi chậm trong phố cổ, bạn thường xuyên về số một, lên số hai, rồi lại xuống. Nếu người ngồi sau cựa quậy đúng lúc chuyển số, xe giật nhẹ và rất dễ mất thăng bằng.
 
-Vì thế với Sirius, người sau không chỉ là hành khách mà là một nửa của chiếc xe. Nguyên tắc chung về ngồi sau có trong bài [ngồi sau xe máy ở Hà Nội](/thue-xe/2026/10/11/ngoi-sau-xe-may-o-ha-noi-cach-ngoi-at-chan-va-giu-thang-bang-cho-ban-i-cung/); phần dưới đây nói riêng cho xe số trong phố cổ.
+Vì thế với Sirius, người sau không chỉ là hành khách mà là một nửa của chiếc xe. Nguyên tắc chung về ngồi sau có trong bài [ngồi sau xe máy ở Hà Nội](/thue-xe/2026/10/11/ngoi-sau-xe-may-o-ha-noi-cach-ngoi-dat-chan-va-giu-thang-bang-cho-ban-di-cung/); phần dưới đây nói riêng cho xe số trong phố cổ.
 
 ## Chỗ ngồi: người sau ngồi giữa yên, sát người lái vừa phải
 
@@ -68,7 +68,7 @@ Phố cổ buổi tối, nhất là quanh Tạ Hiện, Hàng Buồm, Mã Mây ha
 - **Không quay người chụp ảnh, không vẫy tay** khi xe đang chạy trong phố đông. Muốn chụp thì bảo người lái dừng hẳn vào lề.
 - **Báo trước bằng lời** khi cần dừng, đừng đột ngột kéo áo hay vỗ vai.
 
-Những đoạn đông người đi bộ như vòng quanh Hồ Gươm cuối tuần, hãy cân nhắc gửi xe và đi bộ. Cách quan sát và giữ khoảng cách ở nơi đông người có trong bài [Yamaha Sirius trong phố chợ đông người](/xe-may/2026/10/03/yamaha-sirius-trong-pho-cho-ong-nguoi/).
+Những đoạn đông người đi bộ như vòng quanh Hồ Gươm cuối tuần, hãy cân nhắc gửi xe và đi bộ. Cách quan sát và giữ khoảng cách ở nơi đông người có trong bài [Yamaha Sirius trong phố chợ đông người](/xe-may/2026/10/03/yamaha-sirius-trong-pho-cho-dong-nguoi/).
 
 ## Rẽ gấp và quay đầu ở góc phố
 
@@ -83,7 +83,7 @@ Nếu phải quay đầu trong phố quá hẹp, an toàn nhất là người sa
 
 ## Mũ bảo hiểm và vài điều trước khi lăn bánh
 
-Cả hai người đều phải **đội mũ bảo hiểm cài quai** kể cả khi chỉ đi vài trăm mét quanh phố cổ. Khi thuê xe, hãy hỏi tiệm đủ hai mũ vừa đầu. Kiến thức chọn mũ đạt chuẩn có trong bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/), còn quy định chở người hiện hành có trong bài [chở người trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/).
+Cả hai người đều phải **đội mũ bảo hiểm cài quai** kể cả khi chỉ đi vài trăm mét quanh phố cổ. Khi thuê xe, hãy hỏi tiệm đủ hai mũ vừa đầu. Kiến thức chọn mũ đạt chuẩn có trong bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-khi-di-xe-may-chuan-nao/), còn quy định chở người hiện hành có trong bài [chở người trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-dinh-hien-hanh/).
 
 Trước khi đi, kiểm tra nhanh lốp sau vì chở hai người lốp phải đủ hơi, và tập một vòng ở đoạn đường vắng. Nếu thuê ở tiệm tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, từ đây vào phố cổ qua cầu Chương Dương khá thuận; giá thuê Sirius vui lòng liên hệ cửa hàng. Tiệm mở từ 09:00 tới 21:00.
 

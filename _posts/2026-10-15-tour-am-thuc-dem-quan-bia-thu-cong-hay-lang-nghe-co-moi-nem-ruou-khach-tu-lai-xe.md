@@ -47,7 +47,7 @@ Nhiều tour ăn đêm quanh Hoàn Kiếm và phố cổ có món đi kèm bia h
 
 Tour đi bộ hoặc tour mà người lái là nhân viên không uống là phù hợp nhất. Kiểu "khách tự chạy xe theo hướng dẫn viên rồi dừng ăn uống từng điểm" là kiểu nên tránh nếu thực đơn có cồn: bạn vừa ăn vừa phải lái tiếp sang điểm sau.
 
-Muốn tự đi ăn, hãy gửi xe ở bãi có trông giữ gần chỗ ở trước khi bắt đầu, rồi đi bộ trong phạm vi phố cổ. Gợi ý chỗ để xe khi ăn uống quanh khu này có trong bài [ăn uống quanh phố cổ, để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-e-xe-o-au/). Nếu đang phân vân giữa tự lái và đi tour có người dẫn, xem thêm bài [tự thuê xe đi một ngày hay đi tour có người dẫn](/thue-xe/2026/10/11/tu-thue-xe-may-i-mot-ngay-hay-i-tour-xe-may-co-nguoi-dan-nen-chon-gi/).
+Muốn tự đi ăn, hãy gửi xe ở bãi có trông giữ gần chỗ ở trước khi bắt đầu, rồi đi bộ trong phạm vi phố cổ. Gợi ý chỗ để xe khi ăn uống quanh khu này có trong bài [ăn uống quanh phố cổ, để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-de-xe-o-dau/). Nếu đang phân vân giữa tự lái và đi tour có người dẫn, xem thêm bài [tự thuê xe đi một ngày hay đi tour có người dẫn](/thue-xe/2026/10/11/tu-thue-xe-may-di-mot-ngay-hay-di-tour-xe-may-co-nguoi-dan-nen-chon-gi/).
 
 ## Quán bia thủ công đi xe máy: quyết định trước ly đầu tiên
 

@@ -52,7 +52,7 @@ Một số mạng khác như EBOOST cũng có trạm cho cả ô tô và xe máy
 - Nếu trụ hay xe có mùi khét, VinFast hướng dẫn nhấn nút dừng khẩn cấp trên trụ và gọi cứu hộ.
 - Trời mưa to, sấm sét, VinFast khuyên cân nhắc việc sử dụng trạm sạc.
 
-Thêm lưu ý khi sạc ở nơi công cộng có ở bài [sạc pin xe máy điện ở trạm công cộng](/xe-may/2026/10/10/sac-pin-xe-may-ien-o-tram-cong-cong-luu-y-an-toan/ "Sạc pin xe máy điện ở trạm công cộng"). Các lựa chọn trạm đổi pin và ổ sạc ở Hà Nội có ở bài [sạc xe máy điện thuê ở Hà Nội: trạm đổi pin và ổ sạc](/xe-may/2026/10/11/sac-xe-may-ien-thue-o-ha-noi-tram-oi-pin-va-o-sac/ "Sạc xe máy điện thuê ở Hà Nội"). Nếu lỡ làm mất bộ sạc giữa chuyến, xem bài [làm mất hoặc làm hỏng bộ sạc đi kèm xe máy điện thuê](/hoi-dap/2026/10/16/lam-mat-hoac-lam-hong-bo-sac-di-kem-xe-may-dien-thue-bao-cua-hang-va-sac-tam-o-d/ "Làm mất hoặc làm hỏng bộ sạc đi kèm").
+Thêm lưu ý khi sạc ở nơi công cộng có ở bài [sạc pin xe máy điện ở trạm công cộng](/xe-may/2026/10/10/sac-pin-xe-may-dien-o-tram-cong-cong-luu-y-an-toan/ "Sạc pin xe máy điện ở trạm công cộng"). Các lựa chọn trạm đổi pin và ổ sạc ở Hà Nội có ở bài [sạc xe máy điện thuê ở Hà Nội: trạm đổi pin và ổ sạc](/xe-may/2026/10/11/sac-xe-may-dien-thue-o-ha-noi-tram-doi-pin-va-o-sac/ "Sạc xe máy điện thuê ở Hà Nội"). Nếu lỡ làm mất bộ sạc giữa chuyến, xem bài [làm mất hoặc làm hỏng bộ sạc đi kèm xe máy điện thuê](/hoi-dap/2026/10/16/lam-mat-hoac-lam-hong-bo-sac-di-kem-xe-may-dien-thue-bao-cua-hang-va-sac-tam-o-d/ "Làm mất hoặc làm hỏng bộ sạc đi kèm").
 
 ## Tủ đổi pin là loại thứ ba
 

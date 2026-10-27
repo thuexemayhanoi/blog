@@ -36,7 +36,7 @@ Báo cửa hàng là bạn đi Kinh Môn trong ngày để hai bên thống nh�
 
 ## Đi động Kính Chủ theo quốc lộ 5, không vào cao tốc Hà Nội – Hải Phòng
 
-**Cao tốc Hà Nội – Hải Phòng cấm xe máy.** Tuyến này chạy song song với quốc lộ 5 về phía đông, và ở phía Long Biên có các đường dẫn lên cao tốc cũng như lên Vành đai 3 trên cao, nơi xe máy không được đi. Muốn hiểu rõ quy định, đọc bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+**Cao tốc Hà Nội – Hải Phòng cấm xe máy.** Tuyến này chạy song song với quốc lộ 5 về phía đông, và ở phía Long Biên có các đường dẫn lên cao tốc cũng như lên Vành đai 3 trên cao, nơi xe máy không được đi. Muốn hiểu rõ quy định, đọc bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 Lộ trình dành cho xe máy:
 
@@ -73,7 +73,7 @@ Leo chậm và đều, nghỉ ở các khúc bằng thay vì cố một mạch. 
 
 ## Giờ quay về: rời Kinh Môn sớm để tránh tối trên quốc lộ 5
 
-Sau khi leo bậc, chân và vai đều mỏi, trong khi chặng về vẫn dài như chặng đi. Chiều muộn, quốc lộ 5 càng đông xe tải, gần Hà Nội lại vào giờ tan tầm quanh Long Biên, Gia Lâm. Hãy tính ngược từ lúc trời tối và đặt mốc rời chân núi vào đầu giờ chiều, coi đó là giờ cứng. Mùa đông trời tối sớm hơn, nên kéo mốc lên sớm hơn; cách xếp lịch cho mùa này có trong bài [mùa đông trời tối sớm, xếp một ngày thuê xe sao cho kịp về](/thue-xe/2026/10/11/mua-ong-troi-toi-som-xep-mot-ngay-thue-xe-may-sao-cho-kip-ve/).
+Sau khi leo bậc, chân và vai đều mỏi, trong khi chặng về vẫn dài như chặng đi. Chiều muộn, quốc lộ 5 càng đông xe tải, gần Hà Nội lại vào giờ tan tầm quanh Long Biên, Gia Lâm. Hãy tính ngược từ lúc trời tối và đặt mốc rời chân núi vào đầu giờ chiều, coi đó là giờ cứng. Mùa đông trời tối sớm hơn, nên kéo mốc lên sớm hơn; cách xếp lịch cho mùa này có trong bài [mùa đông trời tối sớm, xếp một ngày thuê xe sao cho kịp về](/thue-xe/2026/10/11/mua-dong-troi-toi-som-xep-mot-ngay-thue-xe-may-sao-cho-kip-ve/).
 
 Trên đường về, nghỉ một lần ở cây xăng lớn, uống nước và rửa mặt. Nếu bị tối giữa đường, bật đèn chiếu gần, giảm tốc, không cố vượt xe tải. Thấy sẽ trễ so với giờ hẹn trả xe, gọi cửa hàng sớm qua số 0942467674; cửa hàng nhận xe trong khung 09:00–21:00.
 

@@ -60,13 +60,13 @@ Gặp một trong các dấu hiệu trên thì quay lại, đừng nghe ai đó 
 
 ## Nếu buộc phải qua một đoạn ngập ngắn
 
-Nếu chỉ còn một đoạn ngắn, nước nông, người trong thôn vẫn đi lại bình thường, hãy đứng ở mép nước quan sát xe khác qua trước, đi đúng vệt họ đi, giữ ga đều, không phanh gấp và không dừng giữa chừng. Trình tự chi tiết từng bước có trong bài [đi xe máy qua đoạn đường ngập nước](/ky-nang/2026/10/10/i-xe-may-qua-oan-uong-ngap-nuoc/).
+Nếu chỉ còn một đoạn ngắn, nước nông, người trong thôn vẫn đi lại bình thường, hãy đứng ở mép nước quan sát xe khác qua trước, đi đúng vệt họ đi, giữ ga đều, không phanh gấp và không dừng giữa chừng. Trình tự chi tiết từng bước có trong bài [đi xe máy qua đoạn đường ngập nước](/ky-nang/2026/10/10/di-xe-may-qua-doan-duong-ngap-nuoc/).
 
 Nước lũ ở vùng ven sông khác nước mưa đọng trong phố: nó đục, mang bùn và có thể đã làm xói mặt đường bên dưới. Bên dưới có thể là chỗ bê tông bị khoét hổng mà nhìn từ trên không thấy. Nếu không chắc, xuống dắt xe đi sát phía mép cao, có người đi kèm thì càng tốt.
 
 ## Sau khi qua vùng ngập: bùn, phanh và xe thuê
 
-Ra khỏi vùng ngập, mặt đường thường phủ một lớp bùn non rất trơn. Giảm tốc, phanh sớm và nhẹ, đặc biệt ở khúc cua và dốc lên đê; bài [đường phủ bụi đất sau mưa](/ky-nang/2026/10/11/uong-phu-bui-at-sau-mua-giam-toc-va-phanh-som/) nói kỹ hơn cách chạy trên lớp đất này. Bóp thử phanh vài nhịp ở đoạn vắng cho má phanh khô dần trước khi tăng tốc trở lại.
+Ra khỏi vùng ngập, mặt đường thường phủ một lớp bùn non rất trơn. Giảm tốc, phanh sớm và nhẹ, đặc biệt ở khúc cua và dốc lên đê; bài [đường phủ bụi đất sau mưa](/ky-nang/2026/10/11/duong-phu-bui-dat-sau-mua-giam-toc-va-phanh-som/) nói kỹ hơn cách chạy trên lớp đất này. Bóp thử phanh vài nhịp ở đoạn vắng cho má phanh khô dần trước khi tăng tốc trở lại.
 
 Nếu đang đi xe thuê, hãy báo cửa hàng ngay khi xe đã lội nước sâu hoặc chết máy, đừng day đề liên tục. Với tiệm tôi ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, bạn gọi 0942 467 674 trong giờ mở cửa 09:00–21:00 để được hướng dẫn, thông tin khác có ở trang [liên hệ](/lien-he/). Chi phí sửa chữa, nếu phát sinh, cần xác nhận trực tiếp với cửa hàng; hãy chụp ảnh tình trạng xe và kể rõ đoạn đường đã đi.
 

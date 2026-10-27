@@ -48,7 +48,7 @@ Hãng thường in tên dòng xe trên tem hoặc chữ nổi ở ốp sườn, 
 Có hai điều cần nhớ khi đọc tem trên xe cho thuê:
 
 - **Tem có thể bong hoặc được dán lại.** Xe chạy lâu năm, qua nhiều lần thay ốp, tem đôi khi mờ, mất chữ, hoặc là tem thay thế.
-- **Tên phiên bản không đổi được dòng xe.** Thấy chữ RSX thì đó vẫn là một bản của Wave. Muốn biết rõ hơn bản Alpha hay RSX, xem bài [Wave Alpha hay Wave RSX](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-ang-thue-qua-phanh-va-vanh/).
+- **Tên phiên bản không đổi được dòng xe.** Thấy chữ RSX thì đó vẫn là một bản của Wave. Muốn biết rõ hơn bản Alpha hay RSX, xem bài [Wave Alpha hay Wave RSX](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-dang-thue-qua-phanh-va-vanh/).
 
 ## Giấy đăng ký xe: mục số loại nói rõ nhất
 
@@ -60,7 +60,7 @@ Giấy tờ xe khi đi thuê được giữ thế nào thì mỗi nơi một cá
 
 Khi có hai ba chiếc xe số đứng gần nhau ở tiệm hay trong bãi, hãy lùi lại vài bước và nhìn từ bên hông. Wave thường trông thấp và thon nhất, Future thường trông dài và to hơn, còn Blade nằm ở giữa với dáng góc cạnh. Đây chỉ là cảm nhận bằng mắt, không phải số đo, nhưng đủ để bạn không chọn nhầm một chiếc khác hẳn với chiếc mình đã đặt.
 
-Ngồi thử cũng giúp ích. Nếu bạn từng đi Wave trước đó, ngồi lên một chiếc to hơn hẳn, yên dày hơn hoặc tay lái cảm giác khác, đó là lúc nên dừng lại hỏi xem có đúng xe không. Người cao to quan tâm tư thế ngồi trên Wave có thể đọc bài [người cao to đi Honda Wave](/xe-may/2026/10/11/nguoi-cao-to-i-honda-wave-ngoi-co-go-goi-co-vuong-tay-lai-khong/).
+Ngồi thử cũng giúp ích. Nếu bạn từng đi Wave trước đó, ngồi lên một chiếc to hơn hẳn, yên dày hơn hoặc tay lái cảm giác khác, đó là lúc nên dừng lại hỏi xem có đúng xe không. Người cao to quan tâm tư thế ngồi trên Wave có thể đọc bài [người cao to đi Honda Wave](/xe-may/2026/10/11/nguoi-cao-to-di-honda-wave-ngoi-co-go-goi-co-vuong-tay-lai-khong/).
 
 Một mẹo nhỏ cho khách du lịch: chụp lại ảnh chiếc xe mình nhận từ bên hông và từ phía sau ngay tại tiệm. Tấm ảnh này dùng được ở mọi bước sau, từ khi tìm xe trong bãi tới lúc trả xe và đối chiếu tình trạng.
 

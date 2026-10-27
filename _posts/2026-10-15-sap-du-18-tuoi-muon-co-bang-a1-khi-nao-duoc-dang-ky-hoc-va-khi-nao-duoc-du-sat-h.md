@@ -86,7 +86,7 @@ Trong lúc chờ, xe đạp và xe buýt vẫn ổn cho quãng đường đi h�
 
 ## Khi đã cầm bằng A1 trong tay
 
-Nếu nhà chưa có xe và bạn muốn thuê một thời gian để quen tay, bài [thi bằng lái A1 trong lúc chưa có xe có nên thuê không](/an-toan-phap-ly/2026/10/09/thi-bang-lai-a1-trong-luc-chua-co-xe-co-nen-thue-khong/) phân tích kỹ hơn. Với người còn băn khoăn về tuổi khi thuê xe, xem thêm [thuê xe máy cho người dưới 18 tuổi được không](/thue-xe/2026/10/07/thue-xe-may-cho-nguoi-duoi-18-tuoi-uoc-khong/).
+Nếu nhà chưa có xe và bạn muốn thuê một thời gian để quen tay, bài [thi bằng lái A1 trong lúc chưa có xe có nên thuê không](/an-toan-phap-ly/2026/10/09/thi-bang-lai-a1-trong-luc-chua-co-xe-co-nen-thue-khong/) phân tích kỹ hơn. Với người còn băn khoăn về tuổi khi thuê xe, xem thêm [thuê xe máy cho người dưới 18 tuổi được không](/thue-xe/2026/10/07/thue-xe-may-cho-nguoi-duoi-18-tuoi-duoc-khong/).
 
 Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, không làm dịch vụ đào tạo hay thi bằng; hỏi điều kiện thuê xe qua số 0942467674.
 

@@ -47,7 +47,7 @@ Cách đi cho gọn:
 3. Bật xi nhan nếu phải nhập làn, nhìn gương và quay đầu nhìn nhanh qua vai.
 4. Lên tới mặt cầu thì giữ yên vị trí, không đổi làn qua lại.
 
-Bạn quen lái bên trái ở nước mình thì đọc thêm bài [quen đi bên trái, lần đầu đi xe máy ở Hà Nội](/ky-nang/2026/10/11/quen-i-ben-trai-uong-lan-au-i-xe-may-o-ha-noi-nhung-phan-xa-can-oi/), vì xuống cầu là phải đổi phản xạ ngay.
+Bạn quen lái bên trái ở nước mình thì đọc thêm bài [quen đi bên trái, lần đầu đi xe máy ở Hà Nội](/ky-nang/2026/10/11/quen-di-ben-trai-duong-lan-dau-di-xe-may-o-ha-noi-nhung-phan-xa-can-doi/), vì xuống cầu là phải đổi phản xạ ngay.
 
 ## Giữ lái thẳng trên mặt cầu hẹp
 
@@ -57,7 +57,7 @@ Làn xe trên cầu Long Biên khá hẹp, giờ đông xe máy đi thành hai h
 - **Tay thả lỏng.** Nắm ghi đông chắc nhưng khuỷu tay hơi chùng. Tay cứng thì mỗi lần bánh xe chạm khe nối, rung động truyền thẳng lên tay và xe lắc theo.
 - **Gối và chân giữ xe.** Hai gối khép nhẹ vào thân xe, bàn chân đặt chắc trên sàn hoặc gác chân. Phần thân dưới giữ thăng bằng, tay chỉ việc điều hướng.
 
-Ai muốn tập kỹ tư thế thì xem bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-ieu-khien-xe-may-chac-tay-at-tay-goi-va-ban-chan-the-nao/). Khi tàu chạy qua ngay bên cạnh, tiếng ồn và độ rung khá lớn; đừng giật mình bẻ lái, cứ giữ ga đều và nhìn thẳng.
+Ai muốn tập kỹ tư thế thì xem bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-dieu-khien-xe-may-chac-tay-dat-tay-goi-va-ban-chan-the-nao/). Khi tàu chạy qua ngay bên cạnh, tiếng ồn và độ rung khá lớn; đừng giật mình bẻ lái, cứ giữ ga đều và nhìn thẳng.
 
 ## Qua khe nối và đoạn vá mặt cầu
 

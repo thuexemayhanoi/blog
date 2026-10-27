@@ -56,7 +56,7 @@ Vài thói quen giúp đỡ mất thời gian lúc về:
 - Hỏi người trông xe điểm đó mở đến mấy giờ nếu định ngồi muộn.
 - Mang tiền lẻ; phí gửi theo bảng niêm yết của từng điểm và có thể khác giữa ban ngày với buổi tối.
 
-Muốn so sánh thêm các chỗ gửi khi đi ăn khắp khu này, bạn xem bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-e-xe-o-au/). Lúc phố đông, giữ điện thoại và túi sát người, vài thói quen cụ thể có trong bài [giữ điện thoại và túi xách khi qua phố cổ đông người](/du-lich/2026/10/13/giu-dien-thoai-va-tui-xach-khi-chay-xe-qua-pho-co-dong-nguoi-thoi-quen-nen-co/).
+Muốn so sánh thêm các chỗ gửi khi đi ăn khắp khu này, bạn xem bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-de-xe-o-dau/). Lúc phố đông, giữ điện thoại và túi sát người, vài thói quen cụ thể có trong bài [giữ điện thoại và túi xách khi qua phố cổ đông người](/du-lich/2026/10/13/giu-dien-thoai-va-tui-xach-khi-chay-xe-qua-pho-co-dong-nguoi-thoi-quen-nen-co/).
 
 ## Lúc nào phố đông nhất và nên đến giờ nào
 

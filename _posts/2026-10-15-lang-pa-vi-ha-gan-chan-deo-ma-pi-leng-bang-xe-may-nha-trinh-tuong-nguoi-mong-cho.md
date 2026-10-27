@@ -29,7 +29,7 @@ Vì làng được dựng theo đề án du lịch cộng đồng từ năm 2016
 
 Các nguồn ghi làng nằm dưới chân đèo Mã Pí Lèng, ngay trên quốc lộ 4C, nên người đi xe máy chạy tuyến Đồng Văn sang Mèo Vạc sẽ đi qua. Mốc dễ nhận là cổng làng hình hai chiếc khèn của người Mông cùng hàng rào đá hai bên đường. Khoảng cách tới trung tâm Mèo Vạc được ghi khoảng bốn cây số ở nguồn này và sáu cây số ở nguồn khác, nên bài không ghi số kilômét cố định.
 
-Hãy bật bản đồ ở chế độ xe hai bánh và nhìn kỹ biển và cổng làng để không đi quá. Bài [chạy đèo Mã Pí Lèng bằng xe số an toàn](/cung-duong/2026/09/28/chay-eo-ma-pi-leng-bang-xe-so-an-toan/) nói về đoạn đèo ngay phía trên làng.
+Hãy bật bản đồ ở chế độ xe hai bánh và nhìn kỹ biển và cổng làng để không đi quá. Bài [chạy đèo Mã Pí Lèng bằng xe số an toàn](/cung-duong/2026/09/28/chay-deo-ma-pi-leng-bang-xe-so-an-toan/) nói về đoạn đèo ngay phía trên làng.
 
 ## Đỗ xe máy ở đầu làng: chưa xác minh, hãy hỏi trước
 

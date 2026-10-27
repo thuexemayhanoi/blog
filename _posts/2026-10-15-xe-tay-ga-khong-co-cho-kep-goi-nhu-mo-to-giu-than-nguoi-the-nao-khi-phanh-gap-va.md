@@ -67,7 +67,7 @@ Phần lớn những lần phải phanh gấp là do nhìn quá gần, chỉ th�
 
 ## Khi chở người ngồi sau
 
-Người ngồi sau cũng bị lực quán tính đẩy về trước, đè lên lưng người lái. Hãy dặn họ ngồi sát, hai chân đặt chắc trên gác chân sau, tay bám vào tay nắm sau yên hoặc ôm hông người lái, và gồng nhẹ khi thấy bạn giảm tốc. Khi chở người, giữ khoảng cách xa hơn và giảm tốc sớm hơn bình thường. Mẹo đi phố đông có thêm trong bài [lái xe ga trong phố đông](/xe-may/2026/09/27/lai-xe-ga-trong-pho-ong-meo-giu-an-toan/).
+Người ngồi sau cũng bị lực quán tính đẩy về trước, đè lên lưng người lái. Hãy dặn họ ngồi sát, hai chân đặt chắc trên gác chân sau, tay bám vào tay nắm sau yên hoặc ôm hông người lái, và gồng nhẹ khi thấy bạn giảm tốc. Khi chở người, giữ khoảng cách xa hơn và giảm tốc sớm hơn bình thường. Mẹo đi phố đông có thêm trong bài [lái xe ga trong phố đông](/xe-may/2026/09/27/lai-xe-ga-trong-pho-dong-meo-giu-an-toan/).
 
 ## Tập trước khi ra phố
 

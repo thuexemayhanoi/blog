@@ -50,7 +50,7 @@ Khi đứng chờ đèn đỏ ở các nút đông như Nguyễn Văn Cừ hay �
 
 ## Chỉnh góc gương để tận dụng phần còn nhìn rõ
 
-Trời mưa nhỏ, nước thường đọng dày ở mép ngoài gương, còn phần giữa và phần sát tay lái đỡ hơn một chút vì được thân người che bớt. Khi dừng xe để lau, hãy chỉnh góc sao cho phần giữa gương thấy được làn xe phía sau bên cạnh bạn, chỉ thấy một chút mép vai mình ở rìa trong. Cách chỉnh gương cơ bản được trình bày kỹ trong bài [chỉnh gương xe máy đúng cách](/ky-nang/2026/10/05/chinh-guong-xe-may-ung-cach-khi-dung-en-o/), trời mưa chỉ cần chú ý thêm hai điều:
+Trời mưa nhỏ, nước thường đọng dày ở mép ngoài gương, còn phần giữa và phần sát tay lái đỡ hơn một chút vì được thân người che bớt. Khi dừng xe để lau, hãy chỉnh góc sao cho phần giữa gương thấy được làn xe phía sau bên cạnh bạn, chỉ thấy một chút mép vai mình ở rìa trong. Cách chỉnh gương cơ bản được trình bày kỹ trong bài [chỉnh gương xe máy đúng cách](/ky-nang/2026/10/05/chinh-guong-xe-may-dung-cach-khi-dung-den-do/), trời mưa chỉ cần chú ý thêm hai điều:
 
 - Đừng xoay gương quá xa ra ngoài chỉ để né chỗ đọng nước. Gương lệch góc sẽ tạo điểm mù mới, nguy hiểm hơn cả gương mờ.
 - Sau mỗi lần lau, nhìn thử một xe phía sau để chắc gương vẫn đúng góc.

@@ -41,7 +41,7 @@ Cách đọc mây được nói kỹ ở bài [dấu hiệu sắp có giông khi
 
 **Đoạn trống, ít mái che** như đường Thanh Niên hay quãng ven hồ chạy sát mặt nước: thấy trời chuyển thì quyết định sớm, đi tiếp tới đoạn có nhà cửa hoặc quay lại, đừng dừng giữa chừng.
 
-**Khu phía tây hồ**: nếu đang ở gần trung tâm thương mại, hầm gửi xe là chỗ trú khô ráo; đường vào hầm có ở bài [Lotte Mall Tây Hồ bằng xe máy](/du-lich/2026/10/15/lotte-mall-tay-ho-bang-xe-may-duong-vao-tu-vo-chi-cong-xuong-ham-gui-xe-va-gio-d/ "Lotte Mall Tây Hồ bằng xe máy: xuống hầm gửi xe"). Các điểm dừng quen thuộc trên vòng hồ có ở bài [cung đường chạy quanh hồ Tây](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/ "Cung đường chạy quanh hồ Tây: điểm dừng và chỗ gửi xe").
+**Khu phía tây hồ**: nếu đang ở gần trung tâm thương mại, hầm gửi xe là chỗ trú khô ráo; đường vào hầm có ở bài [Lotte Mall Tây Hồ bằng xe máy](/du-lich/2026/10/15/lotte-mall-tay-ho-bang-xe-may-duong-vao-tu-vo-chi-cong-xuong-ham-gui-xe-va-gio-d/ "Lotte Mall Tây Hồ bằng xe máy: xuống hầm gửi xe"). Các điểm dừng quen thuộc trên vòng hồ có ở bài [cung đường chạy quanh hồ Tây](/du-lich/2026/09/28/cung-duong-chay-quanh-ho-tay-diem-dung-va-cho-gui-xe/ "Cung đường chạy quanh hồ Tây: điểm dừng và chỗ gửi xe").
 
 ## Những chỗ không nên trú
 

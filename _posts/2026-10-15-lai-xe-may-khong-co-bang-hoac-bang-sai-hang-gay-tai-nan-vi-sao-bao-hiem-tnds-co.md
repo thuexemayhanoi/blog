@@ -52,7 +52,7 @@ Những phần người lái thường tự lo:
 1. **Thiệt hại về người và tài sản của bên kia** khi hồ sơ rơi vào điểm loại trừ.
 2. **Hư hỏng chiếc xe đang lái**, vốn ngoài phạm vi bảo hiểm bắt buộc; với xe thuê là phần phải giải quyết với cửa hàng.
 3. **Thương tích của chính mình và người ngồi sau.**
-4. **Xử lý vi phạm hành chính**, xem bài [đi xe máy không bằng lái bị xử lý thế nào](/an-toan-phap-ly/2026/09/28/i-xe-may-khong-bang-lai-bi-xu-ly-the-nao/).
+4. **Xử lý vi phạm hành chính**, xem bài [đi xe máy không bằng lái bị xử lý thế nào](/an-toan-phap-ly/2026/09/28/di-xe-may-khong-bang-lai-bi-xu-ly-the-nao/).
 
 Nếu người lái còn uống rượu bia, hồ sơ có thể dính thêm điểm loại trừ khác, xem bài [lái xe máy có nồng độ cồn gây va chạm](/an-toan-phap-ly/2026/10/15/lai-xe-may-co-nong-do-con-gay-va-cham-bao-hiem-tnds-xu-ly-thiet-hai-ve-nguoi-va/).
 

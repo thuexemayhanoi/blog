@@ -83,7 +83,7 @@ Cách né đơn giản nhất là đi ngược dòng: chiều 31/12 đừng ra c
 - Khi nhận xe, bật thử đèn pha, xi nhan và bóp phanh.
 - Đặt mốc quay đầu để về tới nội thành trước khi trời tối hẳn.
 
-Cách xếp giờ cho ngày ngắn có ở bài [mùa đông trời tối sớm](/thue-xe/2026/10/11/mua-ong-troi-toi-som-xep-mot-ngay-thue-xe-may-sao-cho-kip-ve/).
+Cách xếp giờ cho ngày ngắn có ở bài [mùa đông trời tối sớm](/thue-xe/2026/10/11/mua-dong-troi-toi-som-xep-mot-ngay-thue-xe-may-sao-cho-kip-ve/).
 
 ## Chọn xe và giá thuê một ngày
 

@@ -72,7 +72,7 @@ Khi đọc dung tích cốp, cần nhớ:
 - **Mũ bảo hiểm của cửa hàng có thể khác cỡ.** Hãy thử bỏ chính chiếc mũ bạn sẽ dùng vào cốp trước khi nhận xe.
 - **Cốp nằm gần động cơ** nên ấm lên khi chạy lâu, tránh để đồ dễ chảy hay điện thoại quá lâu.
 
-Bài [khoang để đồ dưới yên xe ga chở được gì](/xe-may/2026/09/27/khoang-e-o-duoi-yen-xe-ga-cho-uoc-gi/) đi sâu vào cách xếp đồ trong cốp cho gọn.
+Bài [khoang để đồ dưới yên xe ga chở được gì](/xe-may/2026/09/27/khoang-de-do-duoi-yen-xe-ga-cho-duoc-gi/) đi sâu vào cách xếp đồ trong cốp cho gọn.
 
 ## Dung tích xi-lanh và kiểu làm mát: đọc cho đúng nhu cầu
 

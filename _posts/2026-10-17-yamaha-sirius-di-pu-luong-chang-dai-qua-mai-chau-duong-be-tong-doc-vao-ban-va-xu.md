@@ -33,7 +33,7 @@ Kinh nghiệm riêng cho Sirius trên quốc lộ 6 có ở bài [Yamaha Sirius 
 
 Theo Báo Đầu tư năm 2021, đoạn nguy hiểm của đèo Thung Khe dài khoảng 18 km, có 106 khúc cua, tốc độ thiết kế 60 km/h nhưng thực tế xe chỉ chạy khoảng 40 km/h; từ 2017 tới 2020 xảy ra 71 vụ tai nạn, 8 người chết. Báo Hòa Bình cho biết sương mù dày gần như ngày nào cũng có trên quốc lộ 6, nhất là đèo Thung Khe và dốc Cun, tầm nhìn có lúc chỉ 5 tới 7 m, nhiều nhất từ Tết tới hết tháng 3. Khuyến cáo: đi chậm, không tăng tốc hay phanh gấp, bật đèn chiếu gần, sương quá dày thì dừng ở chỗ an toàn, không dừng giữa lòng đường.
 
-Đèo còn có nguy cơ sạt lở: ngày 14/12/2025, hơn 1 000 m³ đất đá đổ xuống Km124+300 quốc lộ 6, vùi một người đi xe máy và hai công nhân, cả ba tử vong. Đơn vị quản lý đường cho biết sạt taluy trên quốc lộ 6 thường xảy ra trong mùa mưa từ tháng 6 tới tháng 11. Thêm về đoạn đèo có ở bài [đèo Thung Khe chạy xe máy cần cẩn thận gì](/cung-duong/2026/10/09/eo-thung-khe-moc-chau-chay-xe-may-can-than-gi/ "Đèo Thung Khe chạy xe máy").
+Đèo còn có nguy cơ sạt lở: ngày 14/12/2025, hơn 1 000 m³ đất đá đổ xuống Km124+300 quốc lộ 6, vùi một người đi xe máy và hai công nhân, cả ba tử vong. Đơn vị quản lý đường cho biết sạt taluy trên quốc lộ 6 thường xảy ra trong mùa mưa từ tháng 6 tới tháng 11. Thêm về đoạn đèo có ở bài [đèo Thung Khe chạy xe máy cần cẩn thận gì](/cung-duong/2026/10/09/deo-thung-khe-moc-chau-chay-xe-may-can-than-gi/ "Đèo Thung Khe chạy xe máy").
 
 ## Từ Mai Châu vào khu bảo tồn
 
@@ -51,7 +51,7 @@ Tháng 9/2026, mưa lớn gây 99 điểm sạt trên quốc lộ 15C, nhưng c�
 
 Sách hướng dẫn của Honda Việt Nam bổ sung: tránh phanh liên tục khi xuống dốc dài, dùng phanh động cơ kết hợp phanh ngắt quãng, tránh phanh và về số quá gấp. Khi phanh bị ướt, bóp phanh nhẹ lúc đang chạy chậm để làm khô phanh.
 
-Trên dốc bê tông ướt, tránh những chỗ có rêu, bùn hay lá cây, bóp hai phanh đều tay và không đánh lái gấp. Cách tránh xe ngược chiều trên đường một làn và đỗ xe ở homestay có ở bài [chạy Honda Wave vào các bản ở Pù Luông](/xe-may/2026/10/17/chay-honda-wave-vao-cac-ban-o-pu-luong-duong-be-tong-mot-lan-doc-gat-va-tranh-xe/ "Chạy Honda Wave vào các bản ở Pù Luông"), còn lưu ý mùa mưa ở bài [chọn xe máy đi Pù Luông mùa mưa](/cung-duong/2026/10/01/chon-xe-may-i-pu-luong-mua-mua-luu-y-uong-tron/ "Chọn xe máy đi Pù Luông mùa mưa").
+Trên dốc bê tông ướt, tránh những chỗ có rêu, bùn hay lá cây, bóp hai phanh đều tay và không đánh lái gấp. Cách tránh xe ngược chiều trên đường một làn và đỗ xe ở homestay có ở bài [chạy Honda Wave vào các bản ở Pù Luông](/xe-may/2026/10/17/chay-honda-wave-vao-cac-ban-o-pu-luong-duong-be-tong-mot-lan-doc-gat-va-tranh-xe/ "Chạy Honda Wave vào các bản ở Pù Luông"), còn lưu ý mùa mưa ở bài [chọn xe máy đi Pù Luông mùa mưa](/cung-duong/2026/10/01/chon-xe-may-di-pu-luong-mua-mua-luu-y-duong-tron/ "Chọn xe máy đi Pù Luông mùa mưa").
 
 ## Chọn thời điểm và nhịp đi
 

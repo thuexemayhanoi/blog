@@ -53,7 +53,7 @@ Khi khách sạn ở xa, đã gần tối, hoặc bạn còn lịch hẹn khác 
 3. **Thời gian thuê tính từ lúc nào.** Hỏi rõ tiền thuê tính lại theo giờ nhận mới hay giữ như cũ; phần này do tiệm xác nhận trực tiếp.
 4. **Nhắn lại thỏa thuận** để cả hai cùng nhìn một nội dung.
 
-Cách tiệm giữ chỗ khi bạn đặt qua tin nhắn được nói rõ hơn trong bài [đặt xe trước qua tin nhắn có giữ xe không](/hoi-dap/2026/10/10/hoi-at-xe-truoc-qua-tin-nhan-co-giu-xe-khong/).
+Cách tiệm giữ chỗ khi bạn đặt qua tin nhắn được nói rõ hơn trong bài [đặt xe trước qua tin nhắn có giữ xe không](/hoi-dap/2026/10/10/hoi-dat-xe-truoc-qua-tin-nhan-co-giu-xe-khong/).
 
 ## Cách 3: Dùng giấy tờ khác nếu tiệm chấp nhận
 

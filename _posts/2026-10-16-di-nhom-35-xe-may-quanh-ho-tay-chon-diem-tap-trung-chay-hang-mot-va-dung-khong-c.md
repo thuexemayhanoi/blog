@@ -56,7 +56,7 @@ Một nhóm năm xe dừng cùng lúc chiếm khá nhiều chỗ. Khi người d
 3. Không đứng tụm dưới lòng đường để chụp ảnh nhóm; vào hẳn trong lề hoặc sân rộng.
 4. Khi đi tiếp, từng xe một nhập làn, người đi cuối nhập sau cùng.
 
-Gợi ý những điểm dừng và chỗ gửi xe trên vòng hồ có ở bài [cung đường chạy quanh hồ Tây: điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/ "Cung đường chạy quanh hồ Tây: điểm dừng và chỗ gửi xe").
+Gợi ý những điểm dừng và chỗ gửi xe trên vòng hồ có ở bài [cung đường chạy quanh hồ Tây: điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-duong-chay-quanh-ho-tay-diem-dung-va-cho-gui-xe/ "Cung đường chạy quanh hồ Tây: điểm dừng và chỗ gửi xe").
 
 ## Lộ trình gợi ý cho một buổi chiều
 

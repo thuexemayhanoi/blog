@@ -46,7 +46,7 @@ Hướng dẫn VinFast nói vận hành xe với lốp không đúng tiêu chu�
 | VinFast Theon | 190 kPa | 210 kPa |
 | Dat Bike Quantum S | 310 kPa | 310 kPa |
 
-Flazz dùng mức thấp khi đi một người, mức cao khi đi hai người. Hãy đọc tem dán trên xe hoặc hỏi chủ xe đúng con số cho xe bạn đang thuê; đừng bơm theo một con số chung cho mọi xe. Lốp đủ hơi còn giúp tiết kiệm pin, như bài [cách lái tiết kiệm pin xe máy điện](/xe-may/2026/10/11/cach-lai-tiet-kiem-pin-xe-may-ien-toc-o-eu-phanh-som-lop-u-hoi/ "Cách lái tiết kiệm pin xe máy điện") đã nói.
+Flazz dùng mức thấp khi đi một người, mức cao khi đi hai người. Hãy đọc tem dán trên xe hoặc hỏi chủ xe đúng con số cho xe bạn đang thuê; đừng bơm theo một con số chung cho mọi xe. Lốp đủ hơi còn giúp tiết kiệm pin, như bài [cách lái tiết kiệm pin xe máy điện](/xe-may/2026/10/11/cach-lai-tiet-kiem-pin-xe-may-dien-toc-do-deu-phanh-som-lop-du-hoi/ "Cách lái tiết kiệm pin xe máy điện") đã nói.
 
 ## Dừng xe rồi kiểm tra những gì
 
@@ -62,7 +62,7 @@ Nếu xe vừa sập ổ gà mạnh, xem thêm bài [xe thuê vừa va mạnh v�
 
 ## Khi nào gọi chủ xe, không đi tiếp
 
-Gọi ngay nếu thấy vành cong, nứt, lốp phồng, cổ lái rơ, bánh xe quay không trơn, hoặc rung lắc vẫn còn sau khi đã bơm đúng áp suất. Hướng dẫn VinFast nói việc thay bánh xe, kiểm tra ổ bi, cổ phốt là việc của xưởng dịch vụ. Sổ tay SGI cũng mô tả: lốp trước xẹp thì tay lái nặng, lốp sau xẹp thì đuôi xe lắc qua lại; gặp thì giữ thẳng tay lái, không phanh, nhả ga cho xe trôi chậm rồi tấp vào lề. Sau khi xe bị đổ, dù nhẹ, xem thêm bài [xe máy điện bị đổ hoặc ngã nhẹ](/xe-may/2026/10/11/xe-may-ien-bi-o-hoac-nga-nhe-kiem-tra-gi-truoc-khi-i-tiep/ "Xe máy điện bị đổ hoặc ngã nhẹ").
+Gọi ngay nếu thấy vành cong, nứt, lốp phồng, cổ lái rơ, bánh xe quay không trơn, hoặc rung lắc vẫn còn sau khi đã bơm đúng áp suất. Hướng dẫn VinFast nói việc thay bánh xe, kiểm tra ổ bi, cổ phốt là việc của xưởng dịch vụ. Sổ tay SGI cũng mô tả: lốp trước xẹp thì tay lái nặng, lốp sau xẹp thì đuôi xe lắc qua lại; gặp thì giữ thẳng tay lái, không phanh, nhả ga cho xe trôi chậm rồi tấp vào lề. Sau khi xe bị đổ, dù nhẹ, xem thêm bài [xe máy điện bị đổ hoặc ngã nhẹ](/xe-may/2026/10/11/xe-may-dien-bi-do-hoac-nga-nhe-kiem-tra-gi-truoc-khi-di-tiep/ "Xe máy điện bị đổ hoặc ngã nhẹ").
 
 ## Chạy nhanh cũng phải đúng tốc độ cho phép
 

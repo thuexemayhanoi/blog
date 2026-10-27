@@ -65,7 +65,7 @@ Bài không có hướng dẫn chi tiết về xử lý sự cố hóa chất v�
 
 Điều 12 khoản 3 cũng yêu cầu giảm tốc khi trời mưa, gió, sương, bụi hay mặt đường trơn. Nếu gặp xe bồn trong điều kiện ấy, hãy chừa khoảng cách rộng hơn nữa và tránh vượt. Đường đê ven sông Hồng ở Long Biên buổi tối khó nhìn hơn ban ngày, và xe lớn có thể chạy chậm không đèn rõ.
 
-Nếu thuê xe, hãy kiểm tra đèn pha, đèn hậu và phanh khi nhận. Bài [đi sau xe tải hít bụi và chắn tầm nhìn xử lý sao](/ky-nang/2026/10/09/i-sau-xe-tai-hit-bui-va-chan-tam-nhin-xu-ly-sao/) nói thêm về đi sau xe lớn.
+Nếu thuê xe, hãy kiểm tra đèn pha, đèn hậu và phanh khi nhận. Bài [đi sau xe tải hít bụi và chắn tầm nhìn xử lý sao](/ky-nang/2026/10/09/di-sau-xe-tai-hit-bui-va-chan-tam-nhin-xu-ly-sao/) nói thêm về đi sau xe lớn.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

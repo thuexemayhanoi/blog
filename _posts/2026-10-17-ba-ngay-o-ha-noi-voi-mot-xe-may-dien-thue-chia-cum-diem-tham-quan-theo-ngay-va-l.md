@@ -31,7 +31,7 @@ Quãng đường VinFast công bố cho mỗi lần sạc khá dài: Evo khoản
 - Chỗ nghỉ của bạn có cho sạc xe không, ổ cắm ở đâu?
 - Màn hình báo lỗi thì gọi ai?
 
-Thêm gợi ý khi thuê xe máy điện đi phố cổ có ở bài [thuê xe máy điện đi phố cổ nên biết gì](/xe-may/2026/10/10/thue-xe-may-ien-i-pho-co-nen-biet-gi/ "Thuê xe máy điện đi phố cổ nên biết gì").
+Thêm gợi ý khi thuê xe máy điện đi phố cổ có ở bài [thuê xe máy điện đi phố cổ nên biết gì](/xe-may/2026/10/10/thue-xe-may-dien-di-pho-co-nen-biet-gi/ "Thuê xe máy điện đi phố cổ nên biết gì").
 
 ## Ngày 1: Hồ Gươm và phố cổ, gửi xe rồi đi bộ
 
@@ -47,7 +47,7 @@ Mỗi điểm gửi xe một lần ở bãi có vé, đi bộ giữa các điể
 
 ## Ngày 3: Hồ Tây, thêm Bát Tràng nếu còn sức
 
-Hồ Tây hợp để chạy xe chậm, dừng nghỉ nhiều. Lưu ý: dự án cải tạo Hồ Tây khởi công ngày 28/8/2026, nâng cấp khoảng 13,5 km đường ven hồ qua các tuyến Nguyễn Đình Thi, Trích Sài, Vệ Hồ, Nhật Chiêu và một phần Quảng Bá, Quảng Khánh, Quảng An, nên có thể gặp rào công trường. Chỗ sạc quanh hồ có ở bài [xe điện thuê sạc ở đâu khi đi quanh Hồ Tây](/xe-may/2026/10/05/xe-ien-thue-sac-o-au-khi-i-quanh-ho-tay/ "Xe điện thuê sạc ở đâu khi đi quanh Hồ Tây").
+Hồ Tây hợp để chạy xe chậm, dừng nghỉ nhiều. Lưu ý: dự án cải tạo Hồ Tây khởi công ngày 28/8/2026, nâng cấp khoảng 13,5 km đường ven hồ qua các tuyến Nguyễn Đình Thi, Trích Sài, Vệ Hồ, Nhật Chiêu và một phần Quảng Bá, Quảng Khánh, Quảng An, nên có thể gặp rào công trường. Chỗ sạc quanh hồ có ở bài [xe điện thuê sạc ở đâu khi đi quanh Hồ Tây](/xe-may/2026/10/05/xe-dien-thue-sac-o-dau-khi-di-quanh-ho-tay/ "Xe điện thuê sạc ở đâu khi đi quanh Hồ Tây").
 
 Nếu còn thời gian, làng gốm Bát Tràng cách trung tâm hơn 10 km theo báo Nhân Dân. Với chặng xa hơn này, xuất phát khi pin đầy và tính cả đường về.
 
@@ -60,7 +60,7 @@ Thời gian sạc với bộ sạc tiêu chuẩn theo hướng dẫn: Evo khoả
 3. Đi ăn tối gần đó, quay về kiểm tra trước giờ ngủ; không để sạc qua đêm khi không có ai trông và không sạc liên tục quá 8 giờ.
 4. Rút sạc đúng thứ tự: tắt xe, rút phích điện, rồi rút giắc sạc khỏi xe.
 
-Khi pin dưới 20%, VinFast giảm hiệu năng xe để bảo vệ pin, nên đừng để pin tụt quá thấp rồi mới sạc. Gợi ý thêm khi sạc ở khách sạn, homestay có ở bài [sạc xe điện khi đi du lịch](/ky-nang/2026/10/11/sac-xe-ien-qua-em-khi-i-du-lich-noi-nao-cho-sac-va-cach-sac-an-toan/ "Sạc xe điện khi đi du lịch").
+Khi pin dưới 20%, VinFast giảm hiệu năng xe để bảo vệ pin, nên đừng để pin tụt quá thấp rồi mới sạc. Gợi ý thêm khi sạc ở khách sạn, homestay có ở bài [sạc xe điện khi đi du lịch](/ky-nang/2026/10/11/sac-xe-dien-qua-dem-khi-di-du-lich-noi-nao-cho-sac-va-cach-sac-an-toan/ "Sạc xe điện khi đi du lịch").
 
 ## Xe đổi pin thì sao
 

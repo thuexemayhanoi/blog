@@ -44,7 +44,7 @@ Kiểm tra mặt sân dọc hàng cọc: không cát, không sỏi, không vệt
 
 **Xe số** như Wave: đi số 1, giữ ga thấp, rà phanh chân sau thật nhẹ. Nhả ga đột ngột ở số 1 làm xe ghìm giật lại, dễ mất nhịp.
 
-Tư thế: ngồi thẳng lưng, khuỷu tay chùng, hai đầu gối kẹp nhẹ thân xe hoặc khép vào sàn để chân. Ở tốc độ này, để xe nghiêng dưới người còn thân trên giữ gần thẳng đứng. Hai bàn chân đặt trên sàn hoặc gác chân, không thả lơ lửng chờ chống. Cách đặt tay và gối được nói kỹ trong bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-ieu-khien-xe-may-chac-tay-at-tay-goi-va-ban-chan-the-nao/).
+Tư thế: ngồi thẳng lưng, khuỷu tay chùng, hai đầu gối kẹp nhẹ thân xe hoặc khép vào sàn để chân. Ở tốc độ này, để xe nghiêng dưới người còn thân trên giữ gần thẳng đứng. Hai bàn chân đặt trên sàn hoặc gác chân, không thả lơ lửng chờ chống. Cách đặt tay và gối được nói kỹ trong bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-dieu-khien-xe-may-chac-tay-dat-tay-goi-va-ban-chan-the-nao/).
 
 ## Nhìn trước hai cọc: phần quyết định đường đi
 
@@ -78,7 +78,7 @@ Mỗi buổi chừng hai mươi đến ba mươi phút là đủ. Tay mỏi thì
 - **Bóp phanh trước khi xe đang nghiêng**: ở tốc độ chậm, xe đổ ngay vào phía trong. Thấy mất kiểm soát thì dựng xe thẳng rồi mới phanh.
 - **Vai gồng cứng**: tay cứng làm tay lái phản ứng quá mức. Thả lỏng khuỷu tay, để xe tự nghiêng.
 
-Nếu lỡ đổ xe trên sân, đừng vội nhấc bằng lưng. Cách dựng xe đúng có trong bài [xe máy bị đổ nghiêng](/ky-nang/2026/10/11/xe-may-bi-o-nghieng-cach-mot-minh-dung-xe-len-ma-khong-au-lung/).
+Nếu lỡ đổ xe trên sân, đừng vội nhấc bằng lưng. Cách dựng xe đúng có trong bài [xe máy bị đổ nghiêng](/ky-nang/2026/10/11/xe-may-bi-do-nghieng-cach-mot-minh-dung-xe-len-ma-khong-dau-lung/).
 
 ## Đưa kỹ năng lượn vào ngõ phố Hà Nội
 

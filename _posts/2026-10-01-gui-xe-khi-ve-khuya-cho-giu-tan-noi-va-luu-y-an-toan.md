@@ -27,13 +27,13 @@ Dạng thứ ba là nhờ quán ăn, tiệm tạp hóa quen biết trông hộ �
 
 Trước khi giao xe vào bãi đêm, khoá cổ xe và kiểm tra hai lần, kể cả khi bãi có người trông. Mũ bảo hiểm mang theo lên nhà hoặc gửi kèm người giữ xe và ghi rõ trong vé. Đồ cá nhân, giấy tờ và thẻ ngân hàng tuyệt đối không để trong cốp xe qua đêm, kể cả xe thuê: cốp khóa bằng chìa khóa vẫn không phải nơi để giấy tờ quan trọng.
 
-Giao xe xong, chụp một tấm ảnh vị trí xe cùng biển số chỗ gửi, và giữ vé cẩn thận. Vé mất thì có bãi bắt làm giấy tờ tùy thân và ký xác nhận, vừa mất thời gian buổi sáng, vừa có bãi phạt lệ phí mất vé. Chi tiết về việc gửi xe qua đêm được trả lời cụ thể trong bài [gửi xe qua đêm có được không](/ky-nang/2026-09-29/gui-xe-qua-em-co-uoc-khong/).
+Giao xe xong, chụp một tấm ảnh vị trí xe cùng biển số chỗ gửi, và giữ vé cẩn thận. Vé mất thì có bãi bắt làm giấy tờ tùy thân và ký xác nhận, vừa mất thời gian buổi sáng, vừa có bãi phạt lệ phí mất vé. Chi tiết về việc gửi xe qua đêm được trả lời cụ thể trong bài [gửi xe qua đêm có được không](/ky-nang/2026-09-29/gui-xe-qua-dem-co-duoc-khong/).
 
 ## Lưu ý an toàn khi phải để xe ngoài đường qua đêm
 
 Không đêm nào cũng may mắn tìm được bãi mở cửa, nhất là khu phố đông như quanh chợ Long Biên hay các phố cổ. Nếu buộc phải để ngoài đường, chọn chỗ có đèn đường sáng, có camera hành lang, gần nhà còn mở cửa hoặc quán còn khách. Tránh hẻm tối, tránh góc vắng và tránh đỗ chắn cửa nhà người khác, vì sáng ra có thể xe đã bị khiêng đi mở lối.
 
-Với xe để ngoài đường, đừng tiết kiệm một phút khóa: khóa cổ kèm khóa đĩa hoặc khóa bánh sau, kể cả bãi có người trông. Mỗi lớp khóa là một rào cản thời gian với kẻ ngó nghiêng. Cách chọn khóa và vị trí đỗ an toàn được phân tích trong bài [chống trộm xe máy khi để ngoài đường](/ky-nang/2026-09-29/chong-trom-xe-may-khi-e-ngoai-uong/).
+Với xe để ngoài đường, đừng tiết kiệm một phút khóa: khóa cổ kèm khóa đĩa hoặc khóa bánh sau, kể cả bãi có người trông. Mỗi lớp khóa là một rào cản thời gian với kẻ ngó nghiêng. Cách chọn khóa và vị trí đỗ an toàn được phân tích trong bài [chống trộm xe máy khi để ngoài đường](/ky-nang/2026-09-29/chong-trom-xe-may-khi-de-ngoai-duong/).
 
 Buổi sáng, kiểm tra nhanh quanh xe trước khi nổ máy: dây điện, ống xăng, lốp đủ căng chưa. Nếu thấy bất thường, gọi ngay cho nơi cho thuê thay vì tự chạy một đoạn dài, vì sự cố nhỏ phát hiện sớm luôn rẻ hơn hỏng giữa đường.
 

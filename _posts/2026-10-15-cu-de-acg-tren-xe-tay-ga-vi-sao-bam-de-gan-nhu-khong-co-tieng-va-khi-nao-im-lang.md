@@ -55,7 +55,7 @@ Nếu mọi bước như vậy, xe ga đề không có tiếng là hoàn toàn b
 
 ### Đèn đồng hồ yếu hoặc tắt khi bấm đề
 
-Đồng hồ mờ hẳn, hoặc tắt luôn khi bấm nút, thường là ắc quy không đủ điện. Củ đề ACG cũng cần một lượng điện lớn để kéo máy, ắc quy yếu thì nó không quay nổi. Xem thêm dấu hiệu trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/).
+Đồng hồ mờ hẳn, hoặc tắt luôn khi bấm nút, thường là ắc quy không đủ điện. Củ đề ACG cũng cần một lượng điện lớn để kéo máy, ắc quy yếu thì nó không quay nổi. Xem thêm dấu hiệu trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/).
 
 ### Nghe tiếng "tạch tạch" liên tục
 

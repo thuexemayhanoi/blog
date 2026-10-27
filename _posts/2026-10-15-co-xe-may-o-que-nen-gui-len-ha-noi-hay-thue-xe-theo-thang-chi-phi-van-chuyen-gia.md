@@ -89,7 +89,7 @@ Mức thuê theo tháng ở cửa hàng tôi: Honda Vision khoảng 1.800.000 đ
 
 Một bạn tân sinh viên quê Thanh Hóa ở trọ gần Cầu Giấy. Nhà có một chiếc xe số cũ bố vẫn đi làm hằng ngày. Cộng tiền gửi tàu lên ga Hà Nội, tiền thay lốp, thay má phanh và những ngày bố không có xe đi, cả nhà thấy không đáng. Bạn thuê một chiếc xe ga theo tháng cho học kỳ đầu.
 
-Đến Tết, khi đã quen đường và biết chắc mình cần xe mỗi ngày, gia đình mới bàn chuyện mang xe lên hay mua xe khác. Cách "thuê trước, quyết sau" giúp bạn không chốt khoản lớn khi chưa rõ lịch học và chỗ trọ. Đang thuê mà đến Tết thì xem bài [về quê ăn Tết khi đang thuê xe tháng](/thue-xe/2026/10/11/ve-que-an-tet-khi-ang-thue-xe-thang-giu-xe-tra-xe-hay-hen-thue-lai-sau-tet/).
+Đến Tết, khi đã quen đường và biết chắc mình cần xe mỗi ngày, gia đình mới bàn chuyện mang xe lên hay mua xe khác. Cách "thuê trước, quyết sau" giúp bạn không chốt khoản lớn khi chưa rõ lịch học và chỗ trọ. Đang thuê mà đến Tết thì xem bài [về quê ăn Tết khi đang thuê xe tháng](/thue-xe/2026/10/11/ve-que-an-tet-khi-dang-thue-xe-thang-giu-xe-tra-xe-hay-hen-thue-lai-sau-tet/).
 
 ## Liên hệ cửa hàng trước khi quyết định thuê
 

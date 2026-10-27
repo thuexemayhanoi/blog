@@ -44,7 +44,7 @@ Trước khi nổ máy, thành thật trả lời vài câu:
 - Tay chân có còn bủn rủn, cầm chìa khóa có chắc tay không?
 - Nói chuyện với người đi cùng có thấy mình trả lời chậm, lơ đãng không?
 
-Có một dấu hiệu là nên nghỉ thêm. Có từ hai dấu hiệu trở lên, hay bạn vừa uống chút rượu, bia trong lúc thư giãn, thì đừng tự lái. Buồn ngủ khi cầm lái nguy hiểm theo cách rất khó lường, như bài [mệt và buồn ngủ khi chạy xe chiều muộn: xử lý đúng cách](/ky-nang/2026/10/04/met-va-buon-ngu-khi-chay-xe-chieu-muon-xu-ly-ung-cach/ "Mệt và buồn ngủ khi chạy xe chiều muộn") đã phân tích; còn chóng mặt khi vừa đứng lên thì xem bài [chóng mặt khi xuống xe sau chuyến dài: nguyên nhân và xử lý](/ky-nang/2026/10/05/chong-mat-khi-xuong-xe-sau-chuyen-dai-nguyen-nhan-va-xu-ly/ "Chóng mặt khi xuống xe sau chuyến dài").
+Có một dấu hiệu là nên nghỉ thêm. Có từ hai dấu hiệu trở lên, hay bạn vừa uống chút rượu, bia trong lúc thư giãn, thì đừng tự lái. Buồn ngủ khi cầm lái nguy hiểm theo cách rất khó lường, như bài [mệt và buồn ngủ khi chạy xe chiều muộn: xử lý đúng cách](/ky-nang/2026/10/04/met-va-buon-ngu-khi-chay-xe-chieu-muon-xu-ly-dung-cach/ "Mệt và buồn ngủ khi chạy xe chiều muộn") đã phân tích; còn chóng mặt khi vừa đứng lên thì xem bài [chóng mặt khi xuống xe sau chuyến dài: nguyên nhân và xử lý](/ky-nang/2026/10/05/chong-mat-khi-xuong-xe-sau-chuyen-dai-nguyen-nhan-va-xu-ly/ "Chóng mặt khi xuống xe sau chuyến dài").
 
 ## Dầu massage trên tay, chân: rửa sạch trước khi cầm lái
 

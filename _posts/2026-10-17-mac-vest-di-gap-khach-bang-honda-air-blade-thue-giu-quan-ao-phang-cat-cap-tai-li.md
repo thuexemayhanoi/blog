@@ -51,7 +51,7 @@ Cách cất đồ hợp lý:
 3. **Remote Smart Key và điện thoại:** luôn mang theo người. Sách cấm để remote trong cốp và dặn không để điện thoại trong cốp vì có thể làm gián đoạn hệ thống Smart Key.
 4. **Mũ bảo hiểm khi gửi xe:** cất trong cốp, mặt trước mũ hướng về phía đầu xe. Móc giữ mũ dưới yên chỉ dùng khi dựng xe; sách cảnh báo không lái xe khi mũ vẫn treo ở móc.
 
-Sách cũng dặn hành lý phải buộc chặt, cân bằng và càng gần tâm xe càng tốt, không để đồ gần đèn hoặc ống xả. Những món nên và không nên để trong cốp có ở bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-uoc-gi-va-o-nao-nen-e-cho-khac/ "Cốp Honda Air Blade thuê chứa được gì").
+Sách cũng dặn hành lý phải buộc chặt, cân bằng và càng gần tâm xe càng tốt, không để đồ gần đèn hoặc ống xả. Những món nên và không nên để trong cốp có ở bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-duoc-gi-va-do-nao-nen-de-cho-khac/ "Cốp Honda Air Blade thuê chứa được gì").
 
 ## Gửi xe ở hầm tòa nhà
 
@@ -66,7 +66,7 @@ Dốc xuống hầm thường hẹp và xoắn; cách đi chậm và tìm lại 
 
 ## Căn giờ cho buổi gặp quan trọng
 
-Hãy cộng thêm thời gian cho ba việc ít ai tính: xếp hàng vào hầm giờ cao điểm, tìm thang máy từ hầm lên sảnh, và vài phút thay áo, chỉnh tóc sau khi tháo mũ. Đi sớm hơn dự định 15 tới 20 phút là vừa. Nếu thường xuyên di chuyển gặp khách, đọc thêm bài [thuê xe máy cho người làm nghề tự do đi gặp khách](/thue-xe/2026/10/04/thue-xe-may-cho-nguoi-lam-nghe-tu-do-i-gap-khach/ "Thuê xe máy cho người làm nghề tự do") và bài [thuê xe theo tháng đi làm văn phòng: Vision hay Air Blade](/xe-may/2026/10/14/thue-xe-theo-thang-di-lam-van-phong-vision-hay-air-blade-tien-hon/ "Thuê xe theo tháng đi làm văn phòng").
+Hãy cộng thêm thời gian cho ba việc ít ai tính: xếp hàng vào hầm giờ cao điểm, tìm thang máy từ hầm lên sảnh, và vài phút thay áo, chỉnh tóc sau khi tháo mũ. Đi sớm hơn dự định 15 tới 20 phút là vừa. Nếu thường xuyên di chuyển gặp khách, đọc thêm bài [thuê xe máy cho người làm nghề tự do đi gặp khách](/thue-xe/2026/10/04/thue-xe-may-cho-nguoi-lam-nghe-tu-do-di-gap-khach/ "Thuê xe máy cho người làm nghề tự do") và bài [thuê xe theo tháng đi làm văn phòng: Vision hay Air Blade](/xe-may/2026/10/14/thue-xe-theo-thang-di-lam-van-phong-vision-hay-air-blade-tien-hon/ "Thuê xe theo tháng đi làm văn phòng").
 
 Trên bảng giá của Cho Thuê Xe Máy Nguyễn Tú, Honda Vision và Honda Air Blade có giá ngày 200.000 đồng, Honda Wave và Honda Click có giá ngày 150.000 đồng; tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần, điện thoại và Zalo 0942 467 674.
 

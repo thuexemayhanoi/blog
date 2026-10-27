@@ -41,7 +41,7 @@ Bài không xác minh lịch chương trình ngoại khóa hay việc nặn gố
 
 Hai nguồn ghi đi từ chân cầu Chương Dương hoặc cầu Vĩnh Tuy, men theo đê Long Biên – Xuân Quan rồi theo biển Bát Tràng, mất khoảng ba mươi phút. Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên; bài không đo quãng đường từ tiệm tới chân cầu nên hãy xem bản đồ ở chế độ xe hai bánh.
 
-Đường đê có gió, xe tải và đoạn mặt đường xấu tùy chỗ; hãy đi chậm, giữ khoảng cách và tránh chạy sát lề. Bài [làng gốm Bát Tràng bằng xe máy từ Long Biên: đường đi và gửi xe](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-uong-i-va-gui-xe/) nói chi tiết hơn về đường đi và chỗ gửi xe trong làng.
+Đường đê có gió, xe tải và đoạn mặt đường xấu tùy chỗ; hãy đi chậm, giữ khoảng cách và tránh chạy sát lề. Bài [làng gốm Bát Tràng bằng xe máy từ Long Biên: đường đi và gửi xe](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-duong-di-va-gui-xe/) nói chi tiết hơn về đường đi và chỗ gửi xe trong làng.
 
 ## Vé và gửi xe: làng không thu vé, còn lò thì chưa xác minh
 
@@ -57,7 +57,7 @@ Trong làng gốm, ngõ hẹp và nhiều người đi bộ, nên cách dễ nh�
 
 ## Mua đồ gốm và chở về bằng xe máy
 
-Nếu bạn mua đồ gốm ở chợ hay cửa hàng trong làng, hãy chọn món gọn, nhờ bọc kỹ và buộc chắc. Đồ gốm dễ vỡ khi xóc, nhất là trên đường đê. Bài [chở đồ gốm Bát Tràng về bằng xe máy: cách đóng gói và buộc đồ](/du-lich/2026/10/11/cho-o-gom-bat-trang-ve-bang-xe-may-cach-ong-goi-va-buoc-o/) nói cách đóng gói và buộc đồ cho an toàn.
+Nếu bạn mua đồ gốm ở chợ hay cửa hàng trong làng, hãy chọn món gọn, nhờ bọc kỹ và buộc chắc. Đồ gốm dễ vỡ khi xóc, nhất là trên đường đê. Bài [chở đồ gốm Bát Tràng về bằng xe máy: cách đóng gói và buộc đồ](/du-lich/2026/10/11/cho-do-gom-bat-trang-ve-bang-xe-may-cach-dong-goi-va-buoc-do/) nói cách đóng gói và buộc đồ cho an toàn.
 
 Đừng treo túi nặng lên tay lái, và đừng để đồ che đèn hay biển số. Nếu bạn thuê xe, hãy hỏi tiệm xe có chỗ cất đồ và cách buộc hàng phù hợp ra sao.
 

@@ -31,7 +31,7 @@ Tuyến hợp với xe nhỏ là quốc lộ 32, đi qua Nhổn, Phùng rồi S�
 
 Với Tam Đảo, hãy đi theo quốc lộ và tuyệt đối không rẽ vào đường cao tốc, kể cả khi ứng dụng chỉ đường chọn cao tốc vì nhanh hơn. Trước khi đi, đặt chế độ tránh cao tốc trên điện thoại và xem lại toàn tuyến một lượt.
 
-Chặng đồng bằng này mới là phần ngốn sức nhất của người lái xe 50cc: gió tạt từ xe tải vượt qua, ngồi lâu một tư thế, và cảm giác mình luôn chậm hơn mọi người. Bài [xe 50cc có chạy đường trường ổn không](/xe-may/2026/10/11/xe-50cc-co-chay-uong-truong-on-khong-gioi-han-toc-o-thuc-te/) nói kỹ cách giữ tốc trên quốc lộ.
+Chặng đồng bằng này mới là phần ngốn sức nhất của người lái xe 50cc: gió tạt từ xe tải vượt qua, ngồi lâu một tư thế, và cảm giác mình luôn chậm hơn mọi người. Bài [xe 50cc có chạy đường trường ổn không](/xe-may/2026/10/11/xe-50cc-co-chay-duong-truong-on-khong-gioi-han-toc-do-thuc-te/) nói kỹ cách giữ tốc trên quốc lộ.
 
 ## Xe 50cc leo dốc núi: đuối ở đâu và vì sao
 

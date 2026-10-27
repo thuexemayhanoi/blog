@@ -21,7 +21,7 @@ Mỗi độ thu về, nhiều người ở Hà Nội muốn tự tay mua cốm t
 
 Làng Vòng nằm trong khu Dịch Vọng Hậu, phía tây trung tâm, thuộc vùng người Hà Nội quen gọi là Cầu Giấy. Cốm được làm từ lúa nếp non, nên mùa cốm ngon nhất thường rơi vào mùa thu, khi lúa nếp vừa vào độ chắc hạt. Ngoài mùa này vẫn có cốm bán, nhưng nếu muốn ngửi mùi lúa rang, nhìn người làng giã và sàng cốm thì nên chọn những tuần thu, đi vào buổi sáng.
 
-Xe 50cc hợp với chuyến này: quãng đường không quá xa, ngõ làng cũ hẹp và nhiều khúc ngoặt nên xe nhẹ dễ dắt bộ, quay đầu, mà bạn cũng chỉ chở vài gói cốm. Nếu bạn còn phân vân về giấy tờ khi lái loại xe này, hãy đọc bài [có cần bằng lái khi đi xe 50cc không](/xe-may/2026/09/27/co-can-bang-lai-khi-i-xe-50cc-khong/), kiểm tra quy định hiện hành và hỏi lại tiệm trước khi thuê.
+Xe 50cc hợp với chuyến này: quãng đường không quá xa, ngõ làng cũ hẹp và nhiều khúc ngoặt nên xe nhẹ dễ dắt bộ, quay đầu, mà bạn cũng chỉ chở vài gói cốm. Nếu bạn còn phân vân về giấy tờ khi lái loại xe này, hãy đọc bài [có cần bằng lái khi đi xe 50cc không](/xe-may/2026/09/27/co-can-bang-lai-khi-di-xe-50cc-khong/), kiểm tra quy định hiện hành và hỏi lại tiệm trước khi thuê.
 
 ## Xe 50cc đi làng cốm Vòng: chọn đường và giữ tốc độ
 
@@ -68,7 +68,7 @@ Cốp xe 50cc nhỏ, lại hay có mũ bảo hiểm, áo mưa nhét vào. Gói c
 - **Người ngồi sau ôm hộp.** Nếu đi hai người, đây là cách êm nhất.
 - **Không treo túi lủng lẳng ở móc.** Túi đung đưa đập vào đầu gối và yếm xe, gói cốm dễ bẹp.
 
-Trên đường về, chạy đều tay, nhả ga sớm trước đèn đỏ và đi chậm qua gờ giảm tốc. Nếu muốn ghép thêm điểm dừng mua đặc sản khác, bài [làng xôi Phú Thượng sáng sớm bằng xe máy](/du-lich/2026/10/15/lang-xoi-phu-thuong-sang-som-bang-xe-may-duong-vao-lang-mua-xoi-va-cho-ve-khong/) có cách chở đồ ăn mềm tương tự, còn bài [mùa thu Hà Nội bằng xe đạp điện](/xe-may/2026/10/11/mua-thu-ha-noi-bang-xe-ap-ien-uong-hoa-sua-lang-com-vong-va-ho-tay/) gợi ý ghép làng cốm với hồ Tây nếu bạn đi loại xe khác.
+Trên đường về, chạy đều tay, nhả ga sớm trước đèn đỏ và đi chậm qua gờ giảm tốc. Nếu muốn ghép thêm điểm dừng mua đặc sản khác, bài [làng xôi Phú Thượng sáng sớm bằng xe máy](/du-lich/2026/10/15/lang-xoi-phu-thuong-sang-som-bang-xe-may-duong-vao-lang-mua-xoi-va-cho-ve-khong/) có cách chở đồ ăn mềm tương tự, còn bài [mùa thu Hà Nội bằng xe đạp điện](/xe-may/2026/10/11/mua-thu-ha-noi-bang-xe-dap-dien-duong-hoa-sua-lang-com-vong-va-ho-tay/) gợi ý ghép làng cốm với hồ Tây nếu bạn đi loại xe khác.
 
 ## Vài lưu ý nhỏ cho buổi đi mua cốm
 

@@ -26,7 +26,7 @@ Chỗ để xe quyết định phần lớn sự an toàn của cả buổi tố
 - **Tránh góc tối, gốc cây lớn sát mép hồ.** Chỗ khuất vừa khó trông, vừa có nguy cơ cành cây gãy khi trời nổi gió.
 - **Không dựng xe chắn lối đi ven hồ** hay cổng nhà dân. Xe dựng sai chỗ có thể bị lực lượng chức năng xử lý, và lúc về bạn sẽ mất thời gian tìm xe.
 
-Nếu quán không có chỗ để xe, gửi ở điểm trông giữ có vé gần đó rồi đi bộ một đoạn. Các điểm gửi quen thuộc khi dạo bờ hồ có ở bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/ "Gửi xe khi đi dạo bờ Hồ Tây"), còn không khí dãy quán Xuân Diệu buổi tối được kể ở bài [chạy xe đường Xuân Diệu buổi tối](/du-lich/2026/10/04/chay-xe-uong-xuan-dieu-buoi-toi-quan-ven-ho-va-gui-xe/ "Chạy xe đường Xuân Diệu buổi tối: quán ven hồ và gửi xe").
+Nếu quán không có chỗ để xe, gửi ở điểm trông giữ có vé gần đó rồi đi bộ một đoạn. Các điểm gửi quen thuộc khi dạo bờ hồ có ở bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/ "Gửi xe khi đi dạo bờ Hồ Tây"), còn không khí dãy quán Xuân Diệu buổi tối được kể ở bài [chạy xe đường Xuân Diệu buổi tối](/du-lich/2026/10/04/chay-xe-duong-xuan-dieu-buoi-toi-quan-ven-ho-va-gui-xe/ "Chạy xe đường Xuân Diệu buổi tối: quán ven hồ và gửi xe").
 
 ## Khóa xe đúng cách trước khi vào quán
 
@@ -37,7 +37,7 @@ Kể cả khi đã gửi xe có người trông, đừng bỏ qua bước khóa 
 - **Khóa đĩa nếu có.** Ổ khóa đĩa nhỏ, gọn, làm kẻ gian khó dắt xe đi. Móc chìa khóa đĩa chung với chìa xe để không quên tháo trước khi chạy.
 - **Bật chống trộm nếu xe có chức năng này,** và hỏi trước cửa hàng cách tắt khi còi kêu nhầm.
 
-Khóa tốt vẫn chưa đủ. Tháng 10/2024, Công an Hà Nội triệt phá một đường dây trộm xe máy chuyên đi đêm tìm xe dựng ngoài đường không người trông, dùng kìm thủy lực cắt cả khóa chữ U. Vì vậy, hãy kết hợp khóa với chỗ gửi có người trông. Xem thêm bài [chống trộm xe máy khi để ngoài đường](/ky-nang/2026-09-29/chong-trom-xe-may-khi-e-ngoai-uong/ "Chống trộm xe máy khi để ngoài đường").
+Khóa tốt vẫn chưa đủ. Tháng 10/2024, Công an Hà Nội triệt phá một đường dây trộm xe máy chuyên đi đêm tìm xe dựng ngoài đường không người trông, dùng kìm thủy lực cắt cả khóa chữ U. Vì vậy, hãy kết hợp khóa với chỗ gửi có người trông. Xem thêm bài [chống trộm xe máy khi để ngoài đường](/ky-nang/2026-09-29/chong-trom-xe-may-khi-de-ngoai-duong/ "Chống trộm xe máy khi để ngoài đường").
 
 ## Mũ bảo hiểm: cất vào cốp hay mang theo
 
@@ -46,7 +46,7 @@ Mũ bảo hiểm treo trên gương hay móc trước là thứ dễ thất lạ
 - Cất mũ vào cốp nếu cốp đủ chỗ. Nhiều xe ga cỡ nhỏ chỉ vừa một mũ nửa đầu.
 - Đi hai người mà cốp chỉ vừa một mũ, hãy mang chiếc còn lại vào quán, đặt dưới gầm bàn hoặc trên ghế trống.
 
-Các cách giữ mũ khi xuống xe đi bộ có ở bài [giữ mũ bảo hiểm khi xuống xe đi bộ](/ky-nang/2026-09-29/giu-mu-bao-hiem-khi-xuong-xe-i-bo/ "Giữ mũ bảo hiểm khi xuống xe đi bộ").
+Các cách giữ mũ khi xuống xe đi bộ có ở bài [giữ mũ bảo hiểm khi xuống xe đi bộ](/ky-nang/2026-09-29/giu-mu-bao-hiem-khi-xuong-xe-di-bo/ "Giữ mũ bảo hiểm khi xuống xe đi bộ").
 
 ## Cốp xe giữ được gì, không nên để gì
 

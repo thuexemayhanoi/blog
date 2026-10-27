@@ -67,7 +67,7 @@ Nếu cửa hàng lập biên bản, mỗi xe nên có biên bản riêng ghi bi
 
 ### Câu chốt cho phần việc còn lại
 
-Trước khi rời cửa hàng, người trả xe nên hỏi rõ: phần của xe mình đã xong chưa, còn gì cần làm thêm không. Quy trình chi tiết cho từng lần trả có thể đối chiếu với bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/).
+Trước khi rời cửa hàng, người trả xe nên hỏi rõ: phần của xe mình đã xong chưa, còn gì cần làm thêm không. Quy trình chi tiết cho từng lần trả có thể đối chiếu với bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/).
 
 ## Tiền thuê và tiền cọc khi trả lẻ: hỏi trước, đừng tự tính
 

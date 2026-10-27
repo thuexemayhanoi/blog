@@ -78,6 +78,6 @@ Nếu bạn đang phân vân giữa áo cánh dơi và bộ áo quần, xem thê
 
 ## Sau chuyến đi mưa: vài việc nhỏ cho chiếc Vision thuê
 
-Về tới nơi, dựng xe ở chỗ cao, mở cốp kiểm tra xem nước có lọt vào không, lau khô giấy tờ để trong cốp. Khi trời tạnh, đi chậm một đoạn và bóp phanh nhẹ vài lần cho má phanh ráo. Nếu thấy tay phanh mềm khác thường, có tiếng rít ở cụm truyền động hay xe ì lúc tăng ga, hãy báo tiệm sớm thay vì cố đi tiếp. Kinh nghiệm chung cho người đi làm ngày mưa, từ chuẩn bị đồ tới giờ xuất phát, có trong bài [đi làm bằng xe máy ngày mưa ở Hà Nội](/thue-xe/2026/10/11/i-lam-bang-xe-may-ngay-mua-o-ha-noi-ao-mua-phanh-tron-va-vach-son-uot/).
+Về tới nơi, dựng xe ở chỗ cao, mở cốp kiểm tra xem nước có lọt vào không, lau khô giấy tờ để trong cốp. Khi trời tạnh, đi chậm một đoạn và bóp phanh nhẹ vài lần cho má phanh ráo. Nếu thấy tay phanh mềm khác thường, có tiếng rít ở cụm truyền động hay xe ì lúc tăng ga, hãy báo tiệm sớm thay vì cố đi tiếp. Kinh nghiệm chung cho người đi làm ngày mưa, từ chuẩn bị đồ tới giờ xuất phát, có trong bài [đi làm bằng xe máy ngày mưa ở Hà Nội](/thue-xe/2026/10/11/di-lam-bang-xe-may-ngay-mua-o-ha-noi-ao-mua-phanh-tron-va-vach-son-uot/).
 
 Tóm lại, trên chiếc Vision khi trời mưa: nhả ga sớm, giữ khoảng cách gấp đôi, phanh nhẹ bằng cả hai tay, đi thẳng qua sơn, thép và ray, và mặc áo mưa sao cho đèn, biển số luôn lộ ra. Các bài khác về dòng xe này nằm ở mục [Honda Vision](/xe-may/honda-vision/), còn kinh nghiệm chọn và dùng xe máy nói chung ở chuyên mục [xe máy](/xe-may/).

@@ -68,7 +68,7 @@ Người thuê xe thường muốn tự xử lý cho nhanh, nhưng vài việc s
 - **Nghiêng hoặc lật xe để dốc nước.** Làm vậy có thể khiến xăng và dầu chảy sai chỗ.
 - **Chạy nhanh để thử.** Khi xe đang có dấu hiệu lạ, chạy nhanh chỉ làm hỏng thêm.
 
-Nếu muốn hiểu thêm về lọc gió và dây curoa để mô tả triệu chứng chính xác, có thể đọc bài [lọc gió xe máy bẩn](/xe-may/2026/10/11/loc-gio-xe-may-ban-dau-hieu-khi-i-xe-va-luc-nao-can-ve-sinh-hay-thay/) và bài [dây curoa và bi nồi xe ga](/xe-may/2026/10/11/day-curoa-va-bi-noi-xe-ga-dau-hieu-mon-qua-cam-giac-lay-a-va-tieng-keu/), nhưng đọc để hiểu, không phải để tự tháo.
+Nếu muốn hiểu thêm về lọc gió và dây curoa để mô tả triệu chứng chính xác, có thể đọc bài [lọc gió xe máy bẩn](/xe-may/2026/10/11/loc-gio-xe-may-ban-dau-hieu-khi-di-xe-va-luc-nao-can-ve-sinh-hay-thay/) và bài [dây curoa và bi nồi xe ga](/xe-may/2026/10/11/day-curoa-va-bi-noi-xe-ga-dau-hieu-mon-qua-cam-giac-lay-da-va-tieng-keu/), nhưng đọc để hiểu, không phải để tự tháo.
 
 ## Báo tiệm thế nào và chuyện chi phí
 

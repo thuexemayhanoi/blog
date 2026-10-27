@@ -33,7 +33,7 @@ Hãy chừa thời gian đệm giữa các điểm, nhất là khi phải qua đ
 
 Các bệnh viện lớn thường đông xe, bãi gửi xa cổng và đôi khi đầy vào buổi sáng. Hãy tính thêm thời gian để tìm chỗ gửi, nhất là những buổi sáng đầu tuần. Một số nơi có khu gửi xe riêng cho nhân viên, nhưng bài không có dữ kiện về quy định của từng viện, nên hãy hỏi người quen hoặc bảo vệ.
 
-Luôn lấy vé và chụp ảnh biển số cùng vị trí xe, nhất là ở bãi lớn nhiều xe giống nhau. Khóa cổ, khóa bánh nếu có và đừng để tài liệu hay đồ có giá trị trên xe. Bài [ngoài tiền thuê xe: ngân sách xăng, gửi xe, rửa xe mỗi tháng khi đi làm](/thue-xe/2026/10/11/ngoai-tien-thue-xe-ngan-sach-xang-gui-xe-rua-xe-moi-thang-khi-i-lam/) giúp bạn dự trù các khoản phụ ấy.
+Luôn lấy vé và chụp ảnh biển số cùng vị trí xe, nhất là ở bãi lớn nhiều xe giống nhau. Khóa cổ, khóa bánh nếu có và đừng để tài liệu hay đồ có giá trị trên xe. Bài [ngoài tiền thuê xe: ngân sách xăng, gửi xe, rửa xe mỗi tháng khi đi làm](/thue-xe/2026/10/11/ngoai-tien-thue-xe-ngan-sach-xang-gui-xe-rua-xe-moi-thang-khi-di-lam/) giúp bạn dự trù các khoản phụ ấy.
 
 ## Mang tài liệu mẫu gọn và khô khi trời mưa
 

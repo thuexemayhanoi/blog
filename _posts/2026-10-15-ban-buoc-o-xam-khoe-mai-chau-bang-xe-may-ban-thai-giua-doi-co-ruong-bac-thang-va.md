@@ -41,11 +41,11 @@ Vì bản Bước nằm xa hơn các bản quanh trung tâm, đi trong ngày t�
 
 Nhiều nguồn nhắc đồi cọ và ruộng bậc thang quanh bản; một nguồn còn nói dân làm nông và trồng cọ để lấy lá. Nhưng cũng chính nguồn ấy nhận xét ruộng ở đây không hùng vĩ như vùng ruộng bậc thang nổi tiếng nơi khác, nên hãy hiểu đây là cảnh làng yên với những thửa ruộng nhỏ.
 
-Một nguồn ghi lúa chín vào khoảng tháng Năm và tháng Chín. Vì bài không có số liệu thêm, bạn nên hỏi chủ nhà về thời điểm ruộng đang vàng hay đang đổ nước. Bài [Mai Châu mùa lúa chín đi xe máy lúc nào đẹp](/cung-duong/2026/10/05/mai-chau-mua-lua-chin-i-xe-may-luc-nao-ep/) có thêm thông tin về mùa vụ ở vùng Mai Châu.
+Một nguồn ghi lúa chín vào khoảng tháng Năm và tháng Chín. Vì bài không có số liệu thêm, bạn nên hỏi chủ nhà về thời điểm ruộng đang vàng hay đang đổ nước. Bài [Mai Châu mùa lúa chín đi xe máy lúc nào đẹp](/cung-duong/2026/10/05/mai-chau-mua-lua-chin-di-xe-may-luc-nao-dep/) có thêm thông tin về mùa vụ ở vùng Mai Châu.
 
 ## Bản Bước hay bản Lác: chọn theo nhu cầu
 
-Bản Lác nổi tiếng hơn, đông khách và gần trung tâm, trong khi bản Bước yên hơn nhưng xa và đường vào khó đoán hơn. Nếu bạn muốn dễ đi, nhiều dịch vụ và gần đường chính, bản Lác hợp hơn; bài [bản Lác Mai Châu đi bằng xe máy](/cung-duong/2026/10/01/ban-lac-mai-chau-i-bang-xe-may-trai-nghiem-ban-lang/) nêu chi tiết hơn. Nếu bạn thích không khí làng yên và chấp nhận đi xa, bản Bước đáng cân nhắc.
+Bản Lác nổi tiếng hơn, đông khách và gần trung tâm, trong khi bản Bước yên hơn nhưng xa và đường vào khó đoán hơn. Nếu bạn muốn dễ đi, nhiều dịch vụ và gần đường chính, bản Lác hợp hơn; bài [bản Lác Mai Châu đi bằng xe máy](/cung-duong/2026/10/01/ban-lac-mai-chau-di-bang-xe-may-trai-nghiem-ban-lang/) nêu chi tiết hơn. Nếu bạn thích không khí làng yên và chấp nhận đi xa, bản Bước đáng cân nhắc.
 
 Điều này không phải xếp hạng; đó là sự khác nhau về mục đích. Bài không đánh giá bản nào đẹp hơn.
 

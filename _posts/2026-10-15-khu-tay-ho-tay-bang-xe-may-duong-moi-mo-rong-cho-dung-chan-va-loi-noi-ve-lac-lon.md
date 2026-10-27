@@ -21,7 +21,7 @@ writer_session: s-claude-w3
 
 Khu đô thị Tây Hồ Tây nằm ở phía tây bắc Hồ Tây, kẹp giữa trục Võ Chí Công ở phía đông và đường Phạm Văn Đồng ở phía tây, giáp các khu Xuân La, Xuân Đỉnh, Nghĩa Đô. Bên trong nay là các lô nhà cao tầng, trường học, khu văn phòng và những dải đất trống chờ xây.
 
-Điều cần hiểu ngay: đây không phải đường ven hồ. Từ trong khu, bạn không nhìn thấy mặt nước Hồ Tây. Ai muốn chạy sát hồ, ngắm hoàng hôn trên mặt nước thì nên chọn vòng hồ theo bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/uong-lac-long-quan-chay-xe-buoi-chieu-iem-dung-ven-ho/). Khu Tây Hồ Tây hợp với người ở hoặc làm việc quanh đây, người muốn xem một khu phố mới đang thành hình, hoặc cần một lối đi thoáng để tránh phố đông.
+Điều cần hiểu ngay: đây không phải đường ven hồ. Từ trong khu, bạn không nhìn thấy mặt nước Hồ Tây. Ai muốn chạy sát hồ, ngắm hoàng hôn trên mặt nước thì nên chọn vòng hồ theo bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/duong-lac-long-quan-chay-xe-buoi-chieu-diem-dung-ven-ho/). Khu Tây Hồ Tây hợp với người ở hoặc làm việc quanh đây, người muốn xem một khu phố mới đang thành hình, hoặc cần một lối đi thoáng để tránh phố đông.
 
 Sau đợt sắp xếp đơn vị hành chính gần đây, tên phường trên giấy tờ đã đổi. Khi tìm đường, cứ gõ "khu đô thị Tây Hồ Tây" hoặc tên tòa nhà cụ thể trên Google Maps, và nhớ chọn bản đồ cập nhật mới nhất.
 
@@ -36,7 +36,7 @@ Theo bản đồ hiện tại, khung đường trong khu gồm vài trục chín
 - **Quay đầu đúng chỗ có điểm mở dải phân cách.** Không leo qua dải phân cách, không chạy ngược chiều một đoạn ngắn cho nhanh.
 - **Để ý ô tô tập lái.** Đường mới vắng là nơi nhiều người chọn để luyện tay lái; họ có thể dừng hoặc chuyển hướng bất ngờ.
 
-Nếu bạn đi từ phía Cầu Giấy lên, có thể ghé [bảo tàng Dân tộc học Việt Nam trên đường Nguyễn Văn Huyên](/du-lich/2026/10/10/en-bao-tang-dan-toc-hoc-viet-nam-bang-xe-may-uong-i-va-gui-xe/) trước khi vào khu.
+Nếu bạn đi từ phía Cầu Giấy lên, có thể ghé [bảo tàng Dân tộc học Việt Nam trên đường Nguyễn Văn Huyên](/du-lich/2026/10/10/den-bao-tang-dan-toc-hoc-viet-nam-bang-xe-may-duong-di-va-gui-xe/) trước khi vào khu.
 
 ## Đoạn còn công trình: nhận biết và né từ xa
 
@@ -47,7 +47,7 @@ Nhiều lô vẫn đang xây, nên trong khu luôn có những đoạn mặt đ�
 3. **Mép bê tông chênh, nắp hố ga nhô.** Ở đoạn chưa hoàn thiện, mặt đường có thể chênh một gờ; đi thẳng góc qua gờ thay vì cắt chéo.
 4. **Rào chắn, biển cấm tạm.** Không cố đi vào lối đang rào dù bản đồ vẫn hiện đường thông. Bản đồ thường chậm hơn thực tế ở khu đang xây.
 
-Chạy sau xe tải chở vật liệu, giữ khoảng cách đủ xa để không hít bụi và không bị đá văng; cách xử lý chi tiết có trong bài [đi sau xe tải hít bụi và bị che tầm nhìn](/ky-nang/2026/10/09/i-sau-xe-tai-hit-bui-va-chan-tam-nhin-xu-ly-sao/). Đeo khẩu trang và kính mũ kín là đủ cho một buổi chạy ngắn.
+Chạy sau xe tải chở vật liệu, giữ khoảng cách đủ xa để không hít bụi và không bị đá văng; cách xử lý chi tiết có trong bài [đi sau xe tải hít bụi và bị che tầm nhìn](/ky-nang/2026/10/09/di-sau-xe-tai-hit-bui-va-chan-tam-nhin-xu-ly-sao/). Đeo khẩu trang và kính mũ kín là đủ cho một buổi chạy ngắn.
 
 ## Chỗ dừng chân buổi chiều hợp lệ
 

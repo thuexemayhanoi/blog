@@ -84,7 +84,7 @@ Nguyên tắc chung, không thay cho hướng dẫn của nhà sản xuất:
 - Chỉ sạc ở khu vực tòa nhà bố trí, không câu dây nối dài qua nhiều ổ.
 - Pin phồng, có mùi khét, sạc nóng bất thường thì ngừng dùng và mang đi kiểm tra.
 
-Thói quen sạc ở nơi ở có thêm ở bài [sạc pin qua đêm nơi trọ an toàn thế nào](/xe-may/2026/10/03/sac-pin-qua-em-noi-tro-an-toan-the-nao/).
+Thói quen sạc ở nơi ở có thêm ở bài [sạc pin qua đêm nơi trọ an toàn thế nào](/xe-may/2026/10/03/sac-pin-qua-dem-noi-tro-an-toan-the-nao/).
 
 ## Nếu chiếc xe bị cháy là xe thuê
 

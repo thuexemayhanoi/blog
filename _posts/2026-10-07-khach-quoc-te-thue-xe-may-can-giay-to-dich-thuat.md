@@ -36,7 +36,7 @@ Một lưu ý thực tế là bản dịch nên chuẩn bị trước khi đến
 
 ## Kinh nghiệm chuẩn bị trước khi đến cửa hàng
 
-Danh mục chuẩn bị gọn gồm: hộ chiếu bản gốc kèm bản dịch tiếng Việt, giấy phép lái bản gốc kèm bản dịch, và một bản photo của mỗi tài liệu để cửa hàng lưu hồ sơ. Nên gửi ảnh các tài liệu này cho cửa hàng trước một hai ngày để bộ phận nhận xe soát trước thông tin. Khi đến, xuất trình bản gốc để đối chiếu, và giữ bản dịch trong bộ hồ sơ của mình suốt kỳ thuê. Với khách lần đầu đi quanh Hà Nội, đọc trước bài [quy định hiện hành cho người ngồi trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/) cũng giúp việc di chuyển an toàn hơn.
+Danh mục chuẩn bị gọn gồm: hộ chiếu bản gốc kèm bản dịch tiếng Việt, giấy phép lái bản gốc kèm bản dịch, và một bản photo của mỗi tài liệu để cửa hàng lưu hồ sơ. Nên gửi ảnh các tài liệu này cho cửa hàng trước một hai ngày để bộ phận nhận xe soát trước thông tin. Khi đến, xuất trình bản gốc để đối chiếu, và giữ bản dịch trong bộ hồ sơ của mình suốt kỳ thuê. Với khách lần đầu đi quanh Hà Nội, đọc trước bài [quy định hiện hành cho người ngồi trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-dinh-hien-hanh/) cũng giúp việc di chuyển an toàn hơn.
 
 ## Trao đổi với cửa hàng thế nào cho rõ
 

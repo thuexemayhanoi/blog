@@ -41,7 +41,7 @@ Leo dốc dài là lúc xe điện hao pin nhanh nhất. Các cầu cho xe máy 
 - Chọn cầu có quãng dốc ngắn hơn trong các tuyến bản đồ gợi ý.
 - Tránh những tuyến phải lên xuống nhiều cầu vượt liên tiếp trong nội đô.
 
-Một lưu ý khác: ứng dụng ở chế độ ô tô có thể dẫn lên cầu Thanh Trì hay đường Vành đai 3 trên cao, nơi xe máy bị cấm. Chế độ xe hai bánh giúp tránh điều này, nhưng vẫn nên nhìn biển báo ở chân cầu. Cách giữ ga, giữ pin khi đã lên dốc có trong bài [xe máy điện leo cầu vượt dốc dài](/xe-may/2026/10/10/xe-may-ien-leo-cau-vuot-doc-dai/).
+Một lưu ý khác: ứng dụng ở chế độ ô tô có thể dẫn lên cầu Thanh Trì hay đường Vành đai 3 trên cao, nơi xe máy bị cấm. Chế độ xe hai bánh giúp tránh điều này, nhưng vẫn nên nhìn biển báo ở chân cầu. Cách giữ ga, giữ pin khi đã lên dốc có trong bài [xe máy điện leo cầu vượt dốc dài](/xe-may/2026/10/10/xe-may-dien-leo-cau-vuot-doc-dai/).
 
 ## Phố hay ngập sau mưa: chủ động đổi tuyến
 
@@ -66,7 +66,7 @@ Một vài mẹo:
 - Chuyển sang chế độ vệ tinh để xem ngõ rộng hay hẹp, có mái che, có bậc thềm hay không.
 - Gọi trước cho chủ nhà hoặc người hẹn để hỏi chỗ để xe gần nhất.
 
-Nếu lỡ đi vào ngõ cụt, hãy tắt chế độ chạy, xuống dắt xe quay đầu chậm rãi. Kỹ năng này được hướng dẫn trong bài [quay đầu xe máy trong ngõ cụt](/ky-nang/2026/10/10/quay-au-xe-may-trong-ngo-cut-ky-nang-it-nguoi-lam-ung/).
+Nếu lỡ đi vào ngõ cụt, hãy tắt chế độ chạy, xuống dắt xe quay đầu chậm rãi. Kỹ năng này được hướng dẫn trong bài [quay đầu xe máy trong ngõ cụt](/ky-nang/2026/10/10/quay-dau-xe-may-trong-ngo-cut-ky-nang-it-nguoi-lam-dung/).
 
 ## Giá đỡ điện thoại và cách xem khi đang đi
 

@@ -71,7 +71,7 @@ Dù cẩn thận, đôi khi bạn vẫn nghe một tiếng cạch dưới sàn. 
 - **Khi nước có vẻ ngập tới sàn để chân, quay lại hoặc tìm đường khác.** Đi vòng vài cây số còn hơn để pin ngâm nước.
 - **Nếu buộc phải qua đoạn nước nông,** đi chậm, đều ga, không tạo sóng, không dừng giữa vũng.
 
-Cách bảo vệ pin và tiếp điểm khi trời nồm ẩm có trong bài [xe máy điện trời nồm ẩm](/xe-may/2026/10/03/xe-may-ien-troi-nom-am-pin-va-tiep-iem-can-e-y/), rất nên đọc nếu bạn hay đi đường ướt.
+Cách bảo vệ pin và tiếp điểm khi trời nồm ẩm có trong bài [xe máy điện trời nồm ẩm](/xe-may/2026/10/03/xe-may-dien-troi-nom-am-pin-va-tiep-diem-can-de-y/), rất nên đọc nếu bạn hay đi đường ướt.
 
 ## Chuẩn bị trước chuyến về làng nghề
 

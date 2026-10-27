@@ -47,7 +47,7 @@ Ngoài ba món trên, một số vật dụng nhỏ cũng không nên nằm tron
 - **Bật lửa, bình xịt, dung dịch sát khuẩn, lon nước có ga, kính mắt.** Phòng Cảnh sát phòng cháy, chữa cháy Công an TP Hồ Chí Minh khuyến cáo không để những thứ này tiếp xúc trực tiếp với nắng nóng.
 - **Giấy tờ, tiền mặt.** Báo chí khuyên không để giấy tờ quan trọng trong cốp ngày nóng.
 
-Danh sách tương tự cho chiếc xe ga nhỏ hơn có ở bài [cốp Honda Vision ngày nắng gắt](/xe-may/2026/10/11/cop-honda-vision-ngay-nang-gat-nhung-mon-o-khong-nen-e-lai-trong-cop/ "Cốp Honda Vision ngày nắng gắt").
+Danh sách tương tự cho chiếc xe ga nhỏ hơn có ở bài [cốp Honda Vision ngày nắng gắt](/xe-may/2026/10/11/cop-honda-vision-ngay-nang-gat-nhung-mon-do-khong-nen-de-lai-trong-cop/ "Cốp Honda Vision ngày nắng gắt").
 
 ## Chọn chỗ đỗ râm mà không phạm luật
 

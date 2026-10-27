@@ -35,13 +35,13 @@ Nhắn tiệm báo giờ dự kiến đến để họ chuẩn bị xe. Khi tớ
 
 Đây là câu hỏi quan trọng nhất khi ở khách sạn nhỏ. Hãy hỏi lễ tân: có chỗ gửi xe máy không, có người trông không, cổng đóng lúc mấy giờ, có thu phí gửi xe không và có mái che hay không. Một số nhà nghỉ trong ngõ nhỏ có thể không có chỗ riêng hoặc phải dắt xe vào ngõ hẹp.
 
-Bài [hỏi khách sạn hoặc homestay về chỗ để xe trước khi chốt thuê xe máy](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-e-xe-truoc-khi-chot-thue-xe-may/) nêu các câu nên hỏi. Nếu khách sạn không có chỗ, hãy hỏi tiệm hoặc tìm bãi gửi xe có người trông gần đó và giữ vé. Bài không biết giá hay chỗ gửi cụ thể.
+Bài [hỏi khách sạn hoặc homestay về chỗ để xe trước khi chốt thuê xe máy](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-de-xe-truoc-khi-chot-thue-xe-may/) nêu các câu nên hỏi. Nếu khách sạn không có chỗ, hãy hỏi tiệm hoặc tìm bãi gửi xe có người trông gần đó và giữ vé. Bài không biết giá hay chỗ gửi cụ thể.
 
 ## Gửi xe qua đêm: khóa cổ, rút chìa và không để đồ trên xe
 
 Khi gửi xe qua đêm, hãy khóa cổ xe, rút chìa và mang theo mũ bảo hiểm cùng đồ có giá trị. Chụp ảnh xe tại chỗ gửi, kèm biển số và chỗ đỗ, để đối chiếu nếu cần. Nếu khách sạn giữ chìa thay bạn, hãy hỏi cách họ lưu giữ và ghi tên người nhận.
 
-Đừng để đồ trong hộc đựng đồ hay trên xe qua đêm. Nếu xe bị xê dịch hay có vết lạ khi lấy ra, hãy chụp ngay tại chỗ và báo tiệm. Bài [gửi xe máy ở khách sạn và nhà nghỉ khi đi xe máy](/ky-nang/2026/10/01/gui-xe-o-khach-san-va-nha-nghi-khi-i-xe-may/) có thêm cách chọn chỗ và giữ vé.
+Đừng để đồ trong hộc đựng đồ hay trên xe qua đêm. Nếu xe bị xê dịch hay có vết lạ khi lấy ra, hãy chụp ngay tại chỗ và báo tiệm. Bài [gửi xe máy ở khách sạn và nhà nghỉ khi đi xe máy](/ky-nang/2026/10/01/gui-xe-o-khach-san-va-nha-nghi-khi-di-xe-may/) có thêm cách chọn chỗ và giữ vé.
 
 ## Hẹn giờ trả xe: tính ngược từ giờ đóng cửa và chuyến đi tiếp theo
 

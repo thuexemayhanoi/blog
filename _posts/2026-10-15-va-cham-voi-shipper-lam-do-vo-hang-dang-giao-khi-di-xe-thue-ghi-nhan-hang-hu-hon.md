@@ -73,7 +73,7 @@ Sau đó nhắn tiệm: lúc nào, ở đâu, va chạm với shipper, hàng b�
 
 Sách Wave Alpha dặn luôn chú ý đến các phương tiện xung quanh và đừng cho rằng người khác đều nhìn thấy bạn. Sách cũng dặn chở quá trọng tải sẽ cản trở khả năng điều khiển, khả năng phanh và tính ổn định của xe. Xe chở nhiều hàng có thể phản ứng chậm và khó đoán.
 
-Giờ cao điểm, hãy chừa khoảng cách với những xe chở hàng cồng kềnh và đừng cố vượt sát. Bài [ngã xe nhẹ khi đi chơi ở Hà Nội: việc đầu tiên nên làm và nhờ ai giúp](/thue-xe/2026/10/12/nga-xe-nhe-khi-i-choi-o-ha-noi-viec-au-tien-nen-lam-va-nho-ai-giup/) nói thêm về cách xử lý ngay sau một sự cố.
+Giờ cao điểm, hãy chừa khoảng cách với những xe chở hàng cồng kềnh và đừng cố vượt sát. Bài [ngã xe nhẹ khi đi chơi ở Hà Nội: việc đầu tiên nên làm và nhờ ai giúp](/thue-xe/2026/10/12/nga-xe-nhe-khi-di-choi-o-ha-noi-viec-dau-tien-nen-lam-va-nho-ai-giup/) nói thêm về cách xử lý ngay sau một sự cố.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

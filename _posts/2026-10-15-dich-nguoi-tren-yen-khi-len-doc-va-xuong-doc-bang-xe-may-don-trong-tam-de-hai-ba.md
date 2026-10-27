@@ -66,7 +66,7 @@ Người ngồi sau thường nặng gần bằng người lái, nên nếu ch�
 - **Không đè lên lưng người lái khi xuống dốc.** Người sau tì chân vào gác chân và tự giữ thân mình.
 - **Báo bằng lời.** Một câu ngắn như "sắp xuống dốc" là đủ để người sau kịp chuẩn bị.
 
-Cách thống nhất tín hiệu với người ngồi sau có trong bài [chở người ngồi sau lần đầu](/ky-nang/2026/10/11/cho-nguoi-ngoi-sau-lan-au-thong-nhat-tin-hieu-truoc-khi-len-xe/).
+Cách thống nhất tín hiệu với người ngồi sau có trong bài [chở người ngồi sau lần đầu](/ky-nang/2026/10/11/cho-nguoi-ngoi-sau-lan-dau-thong-nhat-tin-hieu-truoc-khi-len-xe/).
 
 ## Áp dụng vào từng loại dốc ở Hà Nội và ven đô
 

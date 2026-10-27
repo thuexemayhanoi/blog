@@ -43,7 +43,7 @@ Nếu dự báo mưa dầm, đổi ngày 5 và ngày 6 để chặng Phủ Giầ
 
 ### Đền Sóc ở Sóc Sơn, nơi thờ Thánh Gióng
 
-Từ Long Biên, đi về phía cầu Đuống rồi theo quốc lộ 3 lên Sóc Sơn; đoạn cuối vào khu di tích theo chỉ dẫn bản đồ ở chế độ xe máy. Khu đền trải trên sườn núi, nhiều bậc dốc, người lớn tuổi nên đi chậm. Phần đường và chỗ gửi xe được tả kỹ trong bài [đền Sóc ở Sóc Sơn bằng xe máy](/du-lich/2026/10/04/en-soc-o-soc-son-bang-xe-may-cung-uong-va-gui-xe/).
+Từ Long Biên, đi về phía cầu Đuống rồi theo quốc lộ 3 lên Sóc Sơn; đoạn cuối vào khu di tích theo chỉ dẫn bản đồ ở chế độ xe máy. Khu đền trải trên sườn núi, nhiều bậc dốc, người lớn tuổi nên đi chậm. Phần đường và chỗ gửi xe được tả kỹ trong bài [đền Sóc ở Sóc Sơn bằng xe máy](/du-lich/2026/10/04/den-soc-o-soc-son-bang-xe-may-cung-duong-va-gui-xe/).
 
 ### Đền Và ở Sơn Tây, nơi thờ Tản Viên Sơn Thánh
 

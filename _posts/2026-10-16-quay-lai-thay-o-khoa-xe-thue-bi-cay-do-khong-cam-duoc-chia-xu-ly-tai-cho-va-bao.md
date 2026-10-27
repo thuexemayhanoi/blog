@@ -54,7 +54,7 @@ Trước khi gọi bất kỳ ai đến xử lý, dành vài phút ghi lại:
 5. Một video ngắn quay chậm một vòng quanh xe.
 6. Ghim vị trí trên bản đồ điện thoại, ghi giờ bạn đỗ và giờ phát hiện.
 
-Bộ ảnh này dùng để gửi cửa hàng, đưa công an nếu trình báo, và phân biệt vết mới với vết cũ lúc nhận xe. Bài [xe thuê bị va chạm nhẹ khi đỗ](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-o-can-bao-gi-cho-cua-hang/) có thêm gợi ý về góc chụp.
+Bộ ảnh này dùng để gửi cửa hàng, đưa công an nếu trình báo, và phân biệt vết mới với vết cũ lúc nhận xe. Bài [xe thuê bị va chạm nhẹ khi đỗ](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-do-can-bao-gi-cho-cua-hang/) có thêm gợi ý về góc chụp.
 
 ## Báo người trông xe và gọi cửa hàng cho thuê
 

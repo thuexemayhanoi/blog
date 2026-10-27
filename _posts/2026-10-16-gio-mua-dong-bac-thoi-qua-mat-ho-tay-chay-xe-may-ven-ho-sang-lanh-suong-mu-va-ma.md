@@ -39,7 +39,7 @@ Nguy hiểm nhất không phải gió đều mà là những cơn gió giật b�
 - **Chừa khoảng cách rộng với người đạp xe.** Xe đạp nhẹ, dễ bị gió đẩy lảo đảo sang làn của bạn.
 - **Cẩn thận khi vượt hoặc đi cạnh xe buýt, xe tải.** Luồng gió quanh xe lớn cộng với gió mùa có thể làm xe máy chao mạnh.
 
-Tư thế ghì người và những điểm gió đổi đột ngột trong thành phố có ở bài [đi xe máy khi gió mùa về: giữ xe thẳng hướng](/ky-nang/2026/10/04/i-xe-may-khi-gio-mua-ve-giu-xe-thang-huong/ "Đi xe máy khi gió mùa về: giữ xe thẳng hướng").
+Tư thế ghì người và những điểm gió đổi đột ngột trong thành phố có ở bài [đi xe máy khi gió mùa về: giữ xe thẳng hướng](/ky-nang/2026/10/04/di-xe-may-khi-gio-mua-ve-giu-xe-thang-huong/ "Đi xe máy khi gió mùa về: giữ xe thẳng hướng").
 
 ## Sương mù Hồ Tây buổi sáng: đi chậm, nhìn xa
 
@@ -50,7 +50,7 @@ Theo Trung tâm Dự báo khí tượng thủy văn quốc gia, sương mù thư
 - Lau kính mũ bảo hiểm thường xuyên; hơi thở dễ làm mờ mặt kính bên trong.
 - Để ý người chạy bộ mặc đồ tối màu, khó thấy trong sương.
 
-Từ tháng 2 tới tháng 4 là mùa nồm ẩm, mưa phùn và sương làm giảm tầm nhìn lúc sáng sớm và chiều tối; báo VOV khuyến cáo người đi đường giảm tốc độ, giữ khoảng cách an toàn. Cách giữ khoảng cách và đọc đường khi sương dày được nói kỹ ở bài [đi xe máy trong sương mù buổi sớm mùa đông](/ky-nang/2026/10/04/i-xe-may-trong-suong-mu-buoi-som-mua-ong-giu-khoang-cach/ "Đi xe máy trong sương mù buổi sớm mùa đông").
+Từ tháng 2 tới tháng 4 là mùa nồm ẩm, mưa phùn và sương làm giảm tầm nhìn lúc sáng sớm và chiều tối; báo VOV khuyến cáo người đi đường giảm tốc độ, giữ khoảng cách an toàn. Cách giữ khoảng cách và đọc đường khi sương dày được nói kỹ ở bài [đi xe máy trong sương mù buổi sớm mùa đông](/ky-nang/2026/10/04/di-xe-may-trong-suong-mu-buoi-som-mua-dong-giu-khoang-cach/ "Đi xe máy trong sương mù buổi sớm mùa đông").
 
 ## Mặc gì cho ấm khi chạy xe ven hồ
 
@@ -62,7 +62,7 @@ Nguyên tắc chung là mặc nhiều lớp vừa phải, lớp ngoài cùng ch�
 
 Thêm vào đó: khăn ống hoặc khăn ngắn che cổ, găng tay vừa đủ dày để vẫn bóp phanh nhạy, tất và giày kín mũi. Tránh khăn quàng dài tua rua hay vạt áo quá rộng, vì có thể bị cuốn vào bánh xe hoặc vướng tay lái. Người ngồi sau cũng cần mặc đủ ấm như người lái, vì ngồi im lâu còn lạnh hơn.
 
-Cách phối lớp áo không vướng tay lái khi đi qua vùng gió sông có ở bài [sáng mùa đông ở Long Biên: gió sông, sương mù và cách mặc](/du-lich/2026/10/11/sang-mua-ong-o-long-bien-gio-song-suong-mu-va-cach-mac-khi-i-xe-may/ "Sáng mùa đông ở Long Biên: gió sông, sương mù và cách mặc").
+Cách phối lớp áo không vướng tay lái khi đi qua vùng gió sông có ở bài [sáng mùa đông ở Long Biên: gió sông, sương mù và cách mặc](/du-lich/2026/10/11/sang-mua-dong-o-long-bien-gio-song-suong-mu-va-cach-mac-khi-di-xe-may/ "Sáng mùa đông ở Long Biên: gió sông, sương mù và cách mặc").
 
 ## Chọn giờ và cung đường đỡ lạnh
 
@@ -70,7 +70,7 @@ Cách phối lớp áo không vướng tay lái khi đi qua vùng gió sông có
 - **Muốn đỡ lạnh:** đi muộn hơn một chút, khi nắng lên và sương tan.
 - **Tránh chạy liền một mạch quanh hồ**; chia vòng hồ thành vài chặng, mỗi chặng nghỉ một lần.
 
-Gợi ý những điểm dừng buổi sáng quanh hồ có ở bài [chạy vòng Hồ Tây sáng sớm nên dừng ở đâu](/du-lich/2026/10/05/chay-vong-ho-tay-sang-som-nen-dung-o-au/ "Chạy vòng Hồ Tây sáng sớm nên dừng ở đâu").
+Gợi ý những điểm dừng buổi sáng quanh hồ có ở bài [chạy vòng Hồ Tây sáng sớm nên dừng ở đâu](/du-lich/2026/10/05/chay-vong-ho-tay-sang-som-nen-dung-o-dau/ "Chạy vòng Hồ Tây sáng sớm nên dừng ở đâu").
 
 ## Xe máy trong buổi sáng lạnh
 
@@ -78,7 +78,7 @@ Gợi ý những điểm dừng buổi sáng quanh hồ có ở bài [chạy vò
 - Lốp xe lạnh có thể non hơn bình thường, nhìn và bóp thử lốp trước chuyến đi.
 - Ác quy yếu hơn khi trời lạnh; nếu đề không nổ, đừng đề liên tục quá lâu.
 
-Xe số khó nổ buổi sáng lạnh có mẹo riêng ở bài [đề xe số trời lạnh](/xe-may/2026/10/11/e-xe-so-troi-lanh-meo-e-may-lan-au-thanh-cong/ "Đề xe số trời lạnh: mẹo đề máy lần đầu thành công").
+Xe số khó nổ buổi sáng lạnh có mẹo riêng ở bài [đề xe số trời lạnh](/xe-may/2026/10/11/de-xe-so-troi-lanh-meo-de-may-lan-dau-thanh-cong/ "Đề xe số trời lạnh: mẹo đề máy lần đầu thành công").
 
 ## Câu hỏi thường gặp
 

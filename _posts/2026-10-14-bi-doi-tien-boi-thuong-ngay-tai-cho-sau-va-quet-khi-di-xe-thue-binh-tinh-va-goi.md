@@ -21,7 +21,7 @@ Bị đòi tiền sau va quẹt là tình huống khiến nhiều người đi x
 
 Một va quẹt nhẹ diễn ra trong một hai giây. Ngay sau đó, không ai trong hai bên biết chắc lỗi thuộc về ai, vết xước nào là mới, vết nào đã có từ trước. Đưa tiền lúc ấy gần như là ngầm nhận lỗi, và khoản đó rất khó đòi lại.
 
-Với xe thuê còn một lý do nữa: chiếc xe bạn đang đi không phải của bạn. Hư hỏng trên xe thuê, nếu có, được tính theo thỏa thuận giữa bạn và cửa hàng. Tự trả cho bên kia một khoản rồi mới báo cửa hàng nghĩa là bạn phải giải thích hai lần với hai người khác nhau. Phần trách nhiệm này được nói kỹ trong bài [điều khoản bồi thường trong hợp đồng thuê xe máy](/thue-xe/2026/09/30/ieu-khoan-boi-thuong-trong-hop-ong-thue-xe-may/). Chưa trả ngay không phải là trốn tránh.
+Với xe thuê còn một lý do nữa: chiếc xe bạn đang đi không phải của bạn. Hư hỏng trên xe thuê, nếu có, được tính theo thỏa thuận giữa bạn và cửa hàng. Tự trả cho bên kia một khoản rồi mới báo cửa hàng nghĩa là bạn phải giải thích hai lần với hai người khác nhau. Phần trách nhiệm này được nói kỹ trong bài [điều khoản bồi thường trong hợp đồng thuê xe máy](/thue-xe/2026/09/30/dieu-khoan-boi-thuong-trong-hop-dong-thue-xe-may/). Chưa trả ngay không phải là trốn tránh.
 
 ## Bị đòi tiền sau va quẹt: năm phút đầu nên làm gì
 
@@ -61,7 +61,7 @@ Sau đó gửi ảnh và video qua tin nhắn để cửa hàng cùng xem. Cửa
 
 ## Khi nào nên đề nghị gọi cơ quan chức năng
 
-Nếu bên kia không chịu chờ, lớn tiếng, kéo thêm người tới hoặc giữ xe của bạn, đó là lúc không nên tự xử lý nữa. Nói rõ bạn muốn có công an hoặc cảnh sát giao thông đến ghi nhận, rồi gọi số khẩn cấp phù hợp. Bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/) giúp bạn chọn đúng số.
+Nếu bên kia không chịu chờ, lớn tiếng, kéo thêm người tới hoặc giữ xe của bạn, đó là lúc không nên tự xử lý nữa. Nói rõ bạn muốn có công an hoặc cảnh sát giao thông đến ghi nhận, rồi gọi số khẩn cấp phù hợp. Bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/) giúp bạn chọn đúng số.
 
 Khi có người bị thương, hư hỏng có vẻ lớn hoặc hai bên kể trái ngược nhau, việc có người có thẩm quyền ghi nhận bảo vệ cả hai phía. Trong lúc chờ, đứng ở chỗ an toàn, không giằng co. Các bước sau va chạm có người bị ảnh hưởng có trong bài [xe thuê bị tai nạn: các bước ngay sau va chạm](/thue-xe/2026/09/27/xe-thue-bi-tai-nan-cac-buoc-ngay-sau-va-cham/).
 

@@ -23,7 +23,7 @@ Bài không biết xe bạn thuộc hãng hay đời nào, không nêu chu kỳ 
 
 Xe máy điện không có động cơ đốt trong nên không cần thay nhớt máy hay vệ sinh lọc gió như xe xăng. Nhưng xe vẫn có phanh, lốp, giảm xóc, vòng bi, dây điện và các đầu nối, những bộ phận chịu mài mòn và rung lắc như xe nào khác.
 
-Bài mô tả chung vì mỗi hãng và mỗi đời xe có hạng mục khác nhau. Danh sách chính xác nằm trong sổ bảo dưỡng hoặc hướng dẫn của hãng. Danh sách chung cho xe xăng nằm ở bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-inh-ky-xe-may-gom-nhung-gi/).
+Bài mô tả chung vì mỗi hãng và mỗi đời xe có hạng mục khác nhau. Danh sách chính xác nằm trong sổ bảo dưỡng hoặc hướng dẫn của hãng. Danh sách chung cho xe xăng nằm ở bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-dinh-ky-xe-may-gom-nhung-gi/).
 
 ## Phanh: hạng mục an toàn cần để ý nhất
 

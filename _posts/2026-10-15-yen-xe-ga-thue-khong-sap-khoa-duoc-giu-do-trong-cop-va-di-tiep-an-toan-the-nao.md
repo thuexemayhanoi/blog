@@ -36,7 +36,7 @@ Yên xe ga khóa lại nhờ một ngàm ở mặt dưới yên cài vào chốt
 3. Nhìn chốt khóa xem có cát, đất, mảnh rác không; lau bằng khăn hoặc giấy.
 4. Hạ yên xuống, đặt lòng bàn tay ở phần đuôi yên, gần chốt, ấn đều tay một cái dứt khoát.
 
-Nếu yên sập và kéo thử không bật lên, xong việc. Cách xếp đồ trong cốp từng dòng xe cho gọn có ở bài [cốp xe tay ga chứa được những gì: xếp đồ chuẩn từng dòng](/xe-may/2026/10/11/cop-xe-tay-ga-chua-uoc-nhung-gi-xep-o-chuan-tung-dong/ "Cốp xe tay ga chứa được những gì").
+Nếu yên sập và kéo thử không bật lên, xong việc. Cách xếp đồ trong cốp từng dòng xe cho gọn có ở bài [cốp xe tay ga chứa được những gì: xếp đồ chuẩn từng dòng](/xe-may/2026/10/11/cop-xe-tay-ga-chua-duoc-nhung-gi-xep-do-chuan-tung-dong/ "Cốp xe tay ga chứa được những gì").
 
 ## Ở cây xăng hay chỗ đông người: dắt xe ra rồi mới xử lý
 
@@ -52,7 +52,7 @@ Nếu đã dọn chốt, bớt đồ mà yên vẫn không khóa, nhiều khả 
 - Đồ không quan trọng có thể để lại, nhưng hiểu rằng cốp không khóa thì ai cũng mở được.
 - Khi rời xe ở quán hay bãi, chọn chỗ có người trông, nói với người trông là yên xe chưa khóa.
 
-Những món không nên để lại trong cốp khi rời xe nói chung có ở bài [để đồ trong cốp, giỏ và móc treo khi rời xe: món nào nên, món nào không](/ky-nang/2026/10/11/e-o-trong-cop-gio-va-moc-treo-khi-roi-xe-mon-nao-nen-mon-nao-khong/ "Để đồ trong cốp, giỏ và móc treo khi rời xe").
+Những món không nên để lại trong cốp khi rời xe nói chung có ở bài [để đồ trong cốp, giỏ và móc treo khi rời xe: món nào nên, món nào không](/ky-nang/2026/10/11/de-do-trong-cop-gio-va-moc-treo-khi-roi-xe-mon-nao-nen-mon-nao-khong/ "Để đồ trong cốp, giỏ và móc treo khi rời xe").
 
 ## Báo cửa hàng trước khi đi tiếp
 

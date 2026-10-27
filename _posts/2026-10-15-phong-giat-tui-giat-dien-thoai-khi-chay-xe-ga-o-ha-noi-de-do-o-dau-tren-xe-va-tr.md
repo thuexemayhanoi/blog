@@ -27,7 +27,7 @@ Hãy nhìn chiếc xe ga như một tủ đồ có nhiều ngăn, mỗi ngăn c�
 
 Cốp xe ga khóa được, nằm dưới người lái, muốn mở phải tắt máy và mở yên. Đây là chỗ nên cất ví dự phòng, giấy tờ, sạc dự phòng, túi xách nhỏ khi bạn không cần dùng dọc đường.
 
-Lưu ý nhỏ: cốp xe ga hấp nhiệt từ máy, nên đừng để điện thoại đang sạc hay đồ dễ chảy trong đó lâu giữa trưa hè. Muốn biết cốp chứa được gì, bài [chỗ để đồ dưới yên xe ga thuê](/xe-may/2026/10/07/cho-e-o-duoi-yen-xe-ga-thue-cho-uoc-nhung-gi/) có mô tả kích thước và cách xếp.
+Lưu ý nhỏ: cốp xe ga hấp nhiệt từ máy, nên đừng để điện thoại đang sạc hay đồ dễ chảy trong đó lâu giữa trưa hè. Muốn biết cốp chứa được gì, bài [chỗ để đồ dưới yên xe ga thuê](/xe-may/2026/10/07/cho-de-do-duoi-yen-xe-ga-thue-cho-duoc-nhung-gi/) có mô tả kích thước và cách xếp.
 
 ### Hộc đồ phía trước: chỉ cho thứ rẻ tiền
 
@@ -77,7 +77,7 @@ Thứ tự nên làm:
 4. **Khóa điện thoại từ xa** bằng tài khoản trên thiết bị khác, gọi ngân hàng khóa thẻ nếu mất ví.
 5. **Nếu đang đi xe thuê,** gọi cho cửa hàng qua số 0942467674 để được hướng dẫn, nhất là khi giấy tờ xe hay chìa khóa nằm trong túi bị giật.
 
-Các thói quen giữ đồ cho người mới đến, kể cả lúc đi bộ và dừng chân, có thêm trong bài [giữ điện thoại và túi xách khi chạy xe máy ở Hà Nội](/thue-xe/2026/10/11/giu-ien-thoai-va-tui-xach-khi-chay-xe-may-o-ha-noi-tranh-bi-giat/).
+Các thói quen giữ đồ cho người mới đến, kể cả lúc đi bộ và dừng chân, có thêm trong bài [giữ điện thoại và túi xách khi chạy xe máy ở Hà Nội](/thue-xe/2026/10/11/giu-dien-thoai-va-tui-xach-khi-chay-xe-may-o-ha-noi-tranh-bi-giat/).
 
 ## Danh sách kiểm tra nhanh trước khi lên xe
 

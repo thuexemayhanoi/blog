@@ -31,7 +31,7 @@ Theo Trung tâm Dự báo khí tượng thủy văn quốc gia, các tháng nắ
 
 **Những đoạn trống nắng.** Các quãng đường ven hồ mới mở rộng, các trục lớn phía tây hồ như Võ Chí Công, và những khoảng ven nước không có nhà, không có cây thường nắng gắt suốt buổi trưa. Nếu phải đi qua, đi một mạch, đừng dừng lại giữa nắng để chụp ảnh.
 
-Gợi ý những điểm có nhiều bóng mát khắp Hà Nội có ở bài [Hà Nội nắng nóng đi xe máy: điểm đến nhiều bóng mát](/du-lich/2026/10/11/ha-noi-nang-nong-i-xe-may-iem-en-nhieu-bong-mat-va-cach-chia-gio-trong-ngay/ "Hà Nội nắng nóng đi xe máy: điểm đến nhiều bóng mát").
+Gợi ý những điểm có nhiều bóng mát khắp Hà Nội có ở bài [Hà Nội nắng nóng đi xe máy: điểm đến nhiều bóng mát](/du-lich/2026/10/11/ha-noi-nang-nong-di-xe-may-diem-den-nhieu-bong-mat-va-cach-chia-gio-trong-ngay/ "Hà Nội nắng nóng đi xe máy: điểm đến nhiều bóng mát").
 
 ## Giờ nên tránh chạy xe
 

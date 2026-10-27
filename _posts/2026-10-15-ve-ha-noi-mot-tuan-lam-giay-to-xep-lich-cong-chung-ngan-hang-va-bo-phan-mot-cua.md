@@ -64,7 +64,7 @@ Những nơi ở trung tâm có khi bãi đã kín. Khi đó, tìm điểm giữ
 
 Bản gốc sổ, hợp đồng hay giấy chứng nhận rất khó làm lại nếu ướt, rách hay thất lạc. Đừng để túi hồ sơ lủng lẳng ở móc xe hay kẹp trên giỏ trước, vừa dễ rơi vừa dễ bị giật. Cất bản gốc trong bìa nhựa có khóa kéo, cho vào túi đeo sát người hoặc ba lô, còn cốp xe chỉ để áo mưa và bản sao.
 
-Hà Nội có thể mưa bất chợt, nên luôn mang áo mưa trong cốp và bọc thêm một lớp túi ni lông ngoài bìa hồ sơ. Cách bọc đồ kín khi trời mưa được nói kỹ trong bài [chở đồ khi trời mưa](/ky-nang/2026-09-29/cho-o-khi-troi-mua-cach-boc-kin/). Mỗi tối, kiểm lại tập giấy theo danh sách, rút những gì đã xong ra cất riêng.
+Hà Nội có thể mưa bất chợt, nên luôn mang áo mưa trong cốp và bọc thêm một lớp túi ni lông ngoài bìa hồ sơ. Cách bọc đồ kín khi trời mưa được nói kỹ trong bài [chở đồ khi trời mưa](/ky-nang/2026-09-29/cho-do-khi-troi-mua-cach-boc-kin/). Mỗi tối, kiểm lại tập giấy theo danh sách, rút những gì đã xong ra cất riêng.
 
 ## Giấy tờ khi thuê xe và lúc lưu thông
 

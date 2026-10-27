@@ -93,8 +93,8 @@ Phòng tránh luôn đơn giản hơn xử lý. Trước mỗi chuyến chở ng
 
 Riêng với trẻ nhỏ và người lần đầu ngồi sau:
 
-- **Trẻ em cần chú ý đặc biệt**: chân bé không với tới gác chân thì không nên cho ngồi sau. Bài [thuê xe máy cho gia đình có trẻ nhỏ](/thue-xe/2026/09/29/thue-xe-may-cho-gia-inh-co-tre-nho-i-cung/) có thêm gợi ý.
-- **Dặn trước một câu**: thấy chân vướng thì kêu to để người lái dừng ngay. Người lần đầu ngồi sau có thể đọc [hướng dẫn cho người ngồi sau đặt chân đâu, làm sao](/hoi-dap/2026/10/04/lan-au-cho-nguoi-ngoi-sau-tap-o-au-va-lam-sao/).
+- **Trẻ em cần chú ý đặc biệt**: chân bé không với tới gác chân thì không nên cho ngồi sau. Bài [thuê xe máy cho gia đình có trẻ nhỏ](/thue-xe/2026/09/29/thue-xe-may-cho-gia-dinh-co-tre-nho-di-cung/) có thêm gợi ý.
+- **Dặn trước một câu**: thấy chân vướng thì kêu to để người lái dừng ngay. Người lần đầu ngồi sau có thể đọc [hướng dẫn cho người ngồi sau đặt chân đâu, làm sao](/hoi-dap/2026/10/04/lan-dau-cho-nguoi-ngoi-sau-tap-o-dau-va-lam-sao/).
 - **Chạy chậm và đều** ở các ngõ nhiều ổ gà quanh Long Biên, Đống Đa hay phố cổ, nơi chân dễ bị xóc văng khỏi gác chân.
 
 ## Tóm lại

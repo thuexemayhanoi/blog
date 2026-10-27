@@ -63,7 +63,7 @@ Bộ chứng cứ gần như giống nhau ở mọi bước:
 - **Chứng từ thanh toán** và báo giá sửa xe nếu tranh chấp về hư hỏng.
 - **Một trang ghi chú theo thời gian:** ngày nào, ai nói gì.
 
-Đây là khuyến nghị thực tế, không phải điều luật: lưu bản sao ngoài điện thoại, không ghép ảnh, xin biên nhận khi đưa giấy tờ gốc. Xem thêm bài [đọc gì trong biên nhận bàn giao xe máy thuê](/hoi-dap/2026/10/10/oc-gi-trong-bien-nhan-ban-giao-xe-may-thue/), bài [chụp lại tình trạng xe khi nhận và khi trả](/thue-xe/2026/09/27/chup-lai-tinh-trang-xe-khi-nhan-va-khi-tra/) và bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/).
+Đây là khuyến nghị thực tế, không phải điều luật: lưu bản sao ngoài điện thoại, không ghép ảnh, xin biên nhận khi đưa giấy tờ gốc. Xem thêm bài [đọc gì trong biên nhận bàn giao xe máy thuê](/hoi-dap/2026/10/10/doc-gi-trong-bien-nhan-ban-giao-xe-may-thue/), bài [chụp lại tình trạng xe khi nhận và khi trả](/thue-xe/2026/09/27/chup-lai-tinh-trang-xe-khi-nhan-va-khi-tra/) và bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/).
 
 Nếu xe vẫn ở chỗ bạn, hãy liên hệ cửa hàng sớm để thống nhất cách trả xe và xin biên nhận. Ranh giới giữa tranh chấp dân sự và trách nhiệm khác do cơ quan có thẩm quyền xác định.
 

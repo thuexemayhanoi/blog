@@ -82,7 +82,7 @@ Sau cuộc gọi, nhắn lại một tin tóm tắt để hai bên cùng có b�
 
 ## Sau khi chọn được xe
 
-Lần đầu đi tay ga, hôm nhận xe hãy nhờ chỉ cách mở cốp, đổ xăng, dựng chân chống; các điểm cần hỏi có trong bài [nhận xe tay ga lần đầu](/thue-xe/2026/10/11/nhan-xe-tay-ga-lan-au-mo-cop-o-xang-chan-chong-nen-nho-chi-nhung-gi/). Chuyện xe có kèm mũ bảo hiểm hay không, giấy tờ cần mang, tiền cọc bao nhiêu thì hỏi cửa hàng khi đặt xe, vì các khoản này được xác nhận trực tiếp.
+Lần đầu đi tay ga, hôm nhận xe hãy nhờ chỉ cách mở cốp, đổ xăng, dựng chân chống; các điểm cần hỏi có trong bài [nhận xe tay ga lần đầu](/thue-xe/2026/10/11/nhan-xe-tay-ga-lan-dau-mo-cop-do-xang-chan-chong-nen-nho-chi-nhung-gi/). Chuyện xe có kèm mũ bảo hiểm hay không, giấy tờ cần mang, tiền cọc bao nhiêu thì hỏi cửa hàng khi đặt xe, vì các khoản này được xác nhận trực tiếp.
 
 ## Gọi tiệm Nguyễn Tú để được tư vấn
 

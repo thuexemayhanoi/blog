@@ -36,7 +36,7 @@ Từ Bồ Đề hay nội đô sang, đường quen nhất là theo Nguyễn Vă
 
 Ngô Gia Tự là trục giao thông lớn chứ không phải phố nhỏ để dạo. Vài điều nên biết trước:
 
-1. **Có nhiều xe tải, xe khách và xe buýt** chạy suốt buổi tối. Đừng chạy song song sát thùng xe tải, tránh vùng khuất tầm nhìn của tài xế. Bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-iem-mu/) nói rõ vị trí nên giữ.
+1. **Có nhiều xe tải, xe khách và xe buýt** chạy suốt buổi tối. Đừng chạy song song sát thùng xe tải, tránh vùng khuất tầm nhìn của tài xế. Bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-diem-mu/) nói rõ vị trí nên giữ.
 2. **Nhiều đoạn có dải phân cách giữa.** Quán ưng ý ở bên kia đường thì chạy tới chỗ quay đầu hợp lệ, đừng cắt ngang hay đi ngược chiều sát lề.
 
 3. **Chạy làn phải, tốc độ vừa phải.** Không vừa lái vừa xem bản đồ; muốn tra lại thì tấp hẳn vào chỗ rộng.

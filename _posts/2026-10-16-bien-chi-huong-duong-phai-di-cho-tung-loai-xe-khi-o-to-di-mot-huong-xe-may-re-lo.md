@@ -76,4 +76,4 @@ Bị lập biên bản hoặc gặp sự cố với xe thuê, gọi Thuê Xe Má
 - Nghị định 168/2024/NĐ-CP, Điều 7: [văn bản trên LuatVietnam](https://luatvietnam.vn/giao-thong/tai-nghi-dinh-168-nd-cp-2024-pdf-xu-phat-hanh-chinh-ve-giao-thong-863-103957-article.html).
 - Tổ chức giao thông tại từng cầu, nút giao có thể thay đổi; luôn chấp hành biển tại hiện trường.
 
-Trước khi qua sông, đọc thêm cách [nhận biết biển cấm xe máy khi chạy đường Hà Nội](/an-toan-phap-ly/2026/10/05/nhan-biet-bien-cam-xe-may-khi-chay-uong-ha-noi/), nhóm [biển báo giao thông](/an-toan-phap-ly/bien-bao/) và chuyên mục [an toàn và pháp lý khi thuê xe máy](/an-toan-phap-ly/).
+Trước khi qua sông, đọc thêm cách [nhận biết biển cấm xe máy khi chạy đường Hà Nội](/an-toan-phap-ly/2026/10/05/nhan-biet-bien-cam-xe-may-khi-chay-duong-ha-noi/), nhóm [biển báo giao thông](/an-toan-phap-ly/bien-bao/) và chuyên mục [an toàn và pháp lý khi thuê xe máy](/an-toan-phap-ly/).

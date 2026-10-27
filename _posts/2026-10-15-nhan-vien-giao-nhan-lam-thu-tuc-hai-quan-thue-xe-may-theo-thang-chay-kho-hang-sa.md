@@ -30,7 +30,7 @@ Khi hỏi thuê, hãy nói rõ bạn chạy hằng ngày giữa nội thành, kh
 
 Khu kho hàng hóa sân bay nằm ở phía bắc, nên từ Long Biên hay trung tâm, phần lớn người đi xe máy sẽ qua sông Hồng bằng cầu Nhật Tân hoặc tầng dưới cầu Thăng Long, rồi đi tiếp qua Đông Anh, Sóc Sơn. Vài điều cần nhớ:
 
-- **Xe máy không được vào cao tốc.** Không đi lên cao tốc Nội Bài – Lào Cai, Hà Nội – Thái Nguyên, không chạy làn chính Đại lộ Thăng Long, không qua cầu Thanh Trì hay Vành đai 3 trên cao. Bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/) giải thích rõ hơn.
+- **Xe máy không được vào cao tốc.** Không đi lên cao tốc Nội Bài – Lào Cai, Hà Nội – Thái Nguyên, không chạy làn chính Đại lộ Thăng Long, không qua cầu Thanh Trì hay Vành đai 3 trên cao. Bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/) giải thích rõ hơn.
 - **Đi theo biển báo làn dành cho xe máy.** Trên các trục lớn hướng sân bay, xe máy thường được bố trí làn riêng hoặc đường gom. Gặp biển cấm xe máy, rẽ theo hướng chỉ dẫn, không cố đi tiếp vì thấy đường thoáng.
 - **Mở bản đồ ở chế độ xe máy.** Chế độ ô tô hay gợi ý lên cao tốc. Lần đầu đi, hãy xem trước toàn bộ lộ trình khi còn ngồi ở văn phòng, đánh dấu chỗ rẽ vào khu kho để không phải dừng giữa đường tra điện thoại.
 
@@ -61,11 +61,11 @@ Bài [cốp nhỏ dưới yên: xếp giấy tờ, áo mưa và đồ cá nhân]
 
 - **Nhớ quy tắc gương.** Nếu bạn không nhìn thấy mặt tài xế qua gương chiếu hậu của họ, tài xế cũng không thấy bạn.
 - **Không chạy song song cạnh thùng container**, nhất là bên phải. Hoặc vượt hẳn khi đường đủ rộng, hoặc lùi lại phía sau một khoảng xa.
-- **Không chen vào khoảng trống khi xe đang rẽ hay quay đầu.** Khoảng trống đó sẽ bị thùng xe quét qua trong vài giây. Bài [xe container quay đầu trên đường hẹp](/ky-nang/2026/10/11/xe-container-quay-au-tren-uong-hep-xu-ly-the-nao-khi-i-xe-may/) chỉ rõ chỗ nên dừng.
+- **Không chen vào khoảng trống khi xe đang rẽ hay quay đầu.** Khoảng trống đó sẽ bị thùng xe quét qua trong vài giây. Bài [xe container quay đầu trên đường hẹp](/ky-nang/2026/10/11/xe-container-quay-dau-tren-duong-hep-xu-ly-the-nao-khi-di-xe-may/) chỉ rõ chỗ nên dừng.
 - **Coi chừng xe lùi ra khỏi bãi.** Nghe tiếng còi lùi hay thấy đèn lùi, dừng hẳn và chờ.
 - **Đứng chờ ở vị trí dễ thấy.** Khi dừng đèn đỏ cạnh xe đầu kéo, đứng hẳn phía trước hoặc phía sau, không đứng ngay cạnh bánh xe.
 
-Những tình huống tương tự quanh khu kho bên kia sông được viết trong bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-iem-mu/).
+Những tình huống tương tự quanh khu kho bên kia sông được viết trong bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-diem-mu/).
 
 ## Ca dài, về khuya và giữ xe cả tháng
 

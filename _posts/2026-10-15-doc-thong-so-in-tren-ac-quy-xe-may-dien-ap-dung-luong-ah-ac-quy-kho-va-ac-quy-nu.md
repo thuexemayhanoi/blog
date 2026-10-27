@@ -72,7 +72,7 @@ Bài không biết tiệm trả lời thế nào; đó là điều xác nhận t
 
 Nếu thấy được nhãn trên ắc quy mà không phải tháo gì, hãy chụp lại. Nếu không thấy, xin tiệm nhắn mã ắc quy sau khi thay. Hai thứ này giúp bạn so lại nếu ắc quy yếu sớm.
 
-Bài [đọc thông số xe máy điện: điện áp, Ah và công suất nói gì về quãng đường](/xe-may/2026/10/11/oc-thong-so-xe-may-ien-ien-ap-ah-va-cong-suat-noi-gi-ve-quang-uong/) giải thích thêm cách hiểu điện áp và Ah ở xe điện, nhiều ý dùng được để hiểu thông số ắc quy xe xăng.
+Bài [đọc thông số xe máy điện: điện áp, Ah và công suất nói gì về quãng đường](/xe-may/2026/10/11/doc-thong-so-xe-may-dien-dien-ap-ah-va-cong-suat-noi-gi-ve-quang-duong/) giải thích thêm cách hiểu điện áp và Ah ở xe điện, nhiều ý dùng được để hiểu thông số ắc quy xe xăng.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

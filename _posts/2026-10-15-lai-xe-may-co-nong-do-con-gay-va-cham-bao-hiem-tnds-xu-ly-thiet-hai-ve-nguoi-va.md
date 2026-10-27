@@ -21,7 +21,7 @@ Sau buổi liên hoan ở phố cổ, có người nghĩ "mới vài cốc, đi 
 
 Khoản 2 Điều 9 Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (hiệu lực từ ngày 01/01/2025) liệt kê trong các hành vi bị nghiêm cấm: "Điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn."
 
-Luật không đặt ngưỡng cho phép. Có cồn khi cầm lái là vi phạm, bất kể bảo hiểm xử lý ra sao. Mức xử phạt cụ thể nằm ở văn bản xử phạt vi phạm hành chính đang hiệu lực, bài này không nêu bằng con số. Tình huống cồn còn sót lại sáng hôm sau được phân tích ở bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/em-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-o-con-khong/).
+Luật không đặt ngưỡng cho phép. Có cồn khi cầm lái là vi phạm, bất kể bảo hiểm xử lý ra sao. Mức xử phạt cụ thể nằm ở văn bản xử phạt vi phạm hành chính đang hiệu lực, bài này không nêu bằng con số. Tình huống cồn còn sót lại sáng hôm sau được phân tích ở bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/dem-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-do-con-khong/).
 
 ## Uống rượu gây tai nạn bảo hiểm xử lý theo hai phần
 
@@ -50,7 +50,7 @@ Dù bảo hiểm chi trả phần nào, người lái có cồn vẫn đối m�
 
 1. **Thiệt hại tài sản của người khác** khi rơi vào điểm loại trừ, bồi thường theo pháp luật dân sự.
 2. **Phần vượt giới hạn trách nhiệm bảo hiểm** với thiệt hại về người, nếu có.
-3. **Thương tích của chính mình và người ngồi sau**, vốn thường không thuộc phạm vi bảo hiểm bắt buộc của chính xe; lớp bảo vệ cho người trên xe nằm ở sản phẩm tự nguyện, xem bài [bảo hiểm tai nạn cho người đi xe máy thuê](/an-toan-phap-ly/2026/10/07/bao-hiem-tai-nan-cho-nguoi-i-xe-may-thue-nen-mua-khong/).
+3. **Thương tích của chính mình và người ngồi sau**, vốn thường không thuộc phạm vi bảo hiểm bắt buộc của chính xe; lớp bảo vệ cho người trên xe nằm ở sản phẩm tự nguyện, xem bài [bảo hiểm tai nạn cho người đi xe máy thuê](/an-toan-phap-ly/2026/10/07/bao-hiem-tai-nan-cho-nguoi-di-xe-may-thue-nen-mua-khong/).
 4. **Hư hỏng của chiếc xe đang lái**, không thuộc phạm vi bảo hiểm bắt buộc.
 5. **Xử phạt hành chính** và có thể trách nhiệm nặng hơn nếu hậu quả nghiêm trọng.
 

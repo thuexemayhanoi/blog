@@ -71,12 +71,12 @@ Khi xe đã dừng, hoặc chờ phía sau đến khi khách lên xuống xong, 
 
 ## Phố đi bộ cuối tuần và lúc nên tránh trục quanh hồ
 
-Cuối tuần, các phố quanh hồ thành không gian đi bộ và cấm xe theo khung giờ. Lúc đó bạn không được đạp xe điện vào khu vực cấm, kể cả khi thấy có phương tiện khác bên trong. Hãy gửi xe bên ngoài rồi đi bộ vào; cách làm được viết trong bài [đi dạo phố đi bộ quanh Hồ Gươm cuối tuần](/ky-nang/2026/10/11/i-dao-pho-i-bo-quanh-ho-guom-cuoi-tuan-e-xe-may-o-au-roi-i-bo-vao/). Khung giờ có thể thay đổi, nên xem biển báo tại chỗ.
+Cuối tuần, các phố quanh hồ thành không gian đi bộ và cấm xe theo khung giờ. Lúc đó bạn không được đạp xe điện vào khu vực cấm, kể cả khi thấy có phương tiện khác bên trong. Hãy gửi xe bên ngoài rồi đi bộ vào; cách làm được viết trong bài [đi dạo phố đi bộ quanh Hồ Gươm cuối tuần](/ky-nang/2026/10/11/di-dao-pho-di-bo-quanh-ho-guom-cuoi-tuan-de-xe-may-o-dau-roi-di-bo-vao/). Khung giờ có thể thay đổi, nên xem biển báo tại chỗ.
 
 Ngày thường, buổi sáng thường vắng xe chở khách hơn, chiều tối đông dần. Muốn một vòng hồ thong thả, hãy đi lúc vắng. Vài thói quen nhỏ cũng giúp ích: không đeo tai nghe, không vừa đi vừa quay phim, giữ tay lái bằng cả hai tay khi đi cạnh xe điện, và nếu đi nhóm thì đi một hàng dọc, người đầu quyết định có vượt hay không.
 
 ## Tóm lại
 
-Người lần đầu đạp xe điện dạo trung tâm có thể đọc bài [thuê xe đạp điện đi quanh phố cổ và hồ Gươm](/xe-may/2026/09/27/thue-xe-ap-ien-i-quanh-pho-co-va-ho-guom/) để có lịch trình chung; bài này chỉ tập trung vào chuyện chia đường với xe chở khách tham quan. Nếu thuê xe ở tiệm bên Long Biên, quãng qua cầu Chương Dương vào Trần Quang Khải là lúc tốt để làm quen tay ga trước khi vào khu hồ đông đúc.
+Người lần đầu đạp xe điện dạo trung tâm có thể đọc bài [thuê xe đạp điện đi quanh phố cổ và hồ Gươm](/xe-may/2026/09/27/thue-xe-dap-dien-di-quanh-pho-co-va-ho-guom/) để có lịch trình chung; bài này chỉ tập trung vào chuyện chia đường với xe chở khách tham quan. Nếu thuê xe ở tiệm bên Long Biên, quãng qua cầu Chương Dương vào Trần Quang Khải là lúc tốt để làm quen tay ga trước khi vào khu hồ đông đúc.
 
 Nhớ bốn điều: đi sau là mặc định, vượt bên trái chỉ khi thật thoáng, không chen vào giữa đoàn, và luôn dè chừng chỗ xe dừng cho khách lên xuống. Các bài khác về cách đi xe đạp điện nằm trong chuyên mục [xe đạp điện](/xe-may/xe-dap-dien/), còn kinh nghiệm chung về các dòng xe cho thuê có ở mục [xe máy](/xe-may/).

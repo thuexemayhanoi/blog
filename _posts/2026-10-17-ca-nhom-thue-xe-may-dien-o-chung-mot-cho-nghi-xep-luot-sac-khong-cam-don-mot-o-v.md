@@ -44,7 +44,7 @@ Một chi tiết hay bị bỏ qua: nhiều ổ cắm trên cùng một bức t�
 - Có khung giờ không cho sạc không? Một số nơi cấm sạc sau 22 giờ.
 - Có người trông khi sạc buổi tối không?
 
-Thêm câu hỏi khi đi du lịch có ở bài [sạc xe điện khi đi du lịch: nơi nào cho sạc và cách sạc an toàn](/ky-nang/2026/10/11/sac-xe-ien-qua-em-khi-i-du-lich-noi-nao-cho-sac-va-cach-sac-an-toan/ "Sạc xe điện khi đi du lịch").
+Thêm câu hỏi khi đi du lịch có ở bài [sạc xe điện khi đi du lịch: nơi nào cho sạc và cách sạc an toàn](/ky-nang/2026/10/11/sac-xe-dien-qua-dem-khi-di-du-lich-noi-nao-cho-sac-va-cach-sac-an-toan/ "Sạc xe điện khi đi du lịch").
 
 ## Xếp lượt sạc buổi tối
 

@@ -35,7 +35,7 @@ Hãy hỏi từng điều một thay vì hỏi chung chung "giá bao nhiêu", v�
 
 Cách thiết thực nhất để dùng quyền được biết giá là xin câu trả lời bằng chữ. Sau khi trao đổi bằng lời, hãy nhắn lại tóm tắt: "Em xác nhận thuê xe này, từ ngày này đến ngày này, giá đã gồm những gì, cọc như thế nào, anh chị xác nhận giúp em ạ." Khi tiệm trả lời đồng ý hoặc chỉnh lại, bạn có văn bản để đối chiếu.
 
-Nếu tiệm báo giá qua điện thoại, hãy nhờ gửi lại qua tin nhắn. Bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-ien-thoai-nen-hoi-the-nao/) gợi ý cách hỏi khi gọi. Chụp lại màn hình bảng giá hoặc bài đăng khi bạn xem, ghi ngày xem. Nếu sau đó giá thay đổi, bạn có căn cứ để hỏi lý do.
+Nếu tiệm báo giá qua điện thoại, hãy nhờ gửi lại qua tin nhắn. Bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-dien-thoai-nen-hoi-the-nao/) gợi ý cách hỏi khi gọi. Chụp lại màn hình bảng giá hoặc bài đăng khi bạn xem, ghi ngày xem. Nếu sau đó giá thay đổi, bạn có căn cứ để hỏi lý do.
 
 ## Lưu lại và đối chiếu với biên nhận khi trả tiền
 

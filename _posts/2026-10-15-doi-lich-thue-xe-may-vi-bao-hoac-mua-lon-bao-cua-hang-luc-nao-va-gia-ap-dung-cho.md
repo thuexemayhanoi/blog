@@ -47,7 +47,7 @@ Một tin nhắn đầy đủ giúp hai bên chốt nhanh. Nên gồm:
 4. Hình thức nhận xe: tới cửa hàng hay nhờ giao, nếu đã hẹn giao.
 5. Câu hỏi về giá và tiền cọc cho lịch mới.
 
-Nếu ban đầu bạn hẹn giao xe tận nơi, nhớ rằng cửa hàng không giao xe ngoài giờ hoạt động, và thời gian, chi phí giao nhận cho ngày mới cũng cần xác nhận lại trước, đừng mặc định giống lần đặt đầu. Quy trình đổi lịch nói chung, không riêng chuyện thời tiết, có ở bài [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-oi-lich-nhan-xe/).
+Nếu ban đầu bạn hẹn giao xe tận nơi, nhớ rằng cửa hàng không giao xe ngoài giờ hoạt động, và thời gian, chi phí giao nhận cho ngày mới cũng cần xác nhận lại trước, đừng mặc định giống lần đặt đầu. Quy trình đổi lịch nói chung, không riêng chuyện thời tiết, có ở bài [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-doi-lich-nhan-xe/).
 
 ## Giá áp dụng cho ngày mới: xác nhận lại dòng xe, gói giá, số ngày
 

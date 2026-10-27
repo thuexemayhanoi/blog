@@ -77,7 +77,7 @@ Khi diều đã đứng gió trên cao, hãy cho bé đứng yên nghe tiếng s
 
 ## Chở trẻ nhỏ và tính giờ về
 
-Luật Trật tự, an toàn giao thông đường bộ, Điều 33 khoản 1, cho người lái xe máy chở tối đa hai người trong một số trường hợp, trong đó có chở trẻ em dưới 12 tuổi. Khoản 2 yêu cầu cả người lái lẫn người được chở đội mũ bảo hiểm đúng quy chuẩn và cài quai đúng quy cách. Mũ của bé phải vừa đầu; cách chọn có trong bài [chọn mũ bảo hiểm cho trẻ](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-i-cung-tren-xe-may-thue/). Cho bé ngồi giữa hai người lớn và nghỉ chân một lần giữa đường.
+Luật Trật tự, an toàn giao thông đường bộ, Điều 33 khoản 1, cho người lái xe máy chở tối đa hai người trong một số trường hợp, trong đó có chở trẻ em dưới 12 tuổi. Khoản 2 yêu cầu cả người lái lẫn người được chở đội mũ bảo hiểm đúng quy chuẩn và cài quai đúng quy cách. Mũ của bé phải vừa đầu; cách chọn có trong bài [chọn mũ bảo hiểm cho trẻ](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-di-cung-tren-xe-may-thue/). Cho bé ngồi giữa hai người lớn và nghỉ chân một lần giữa đường.
 
 Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa 09:00–21:00 và không giao xe ngoài giờ. Muốn có mặt ở làng từ sáng, hãy nhận xe từ chiều hôm trước. Rời làng khi trời còn sáng, và để sẵn áo mưa trong cốp vì mùa này hay có mưa rào. Báo cửa hàng trước khi đi xa và lưu số 0942467674. Tiền cọc, thời gian và chi phí giao nhận xe đều được xác nhận trực tiếp khi đặt.
 
