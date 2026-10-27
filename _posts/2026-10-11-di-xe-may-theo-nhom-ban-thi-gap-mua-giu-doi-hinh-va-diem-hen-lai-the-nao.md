@@ -51,7 +51,7 @@ Nguyên tắc chung là giãn khoảng cách rộng hơn hẳn ngày khô, đủ
 - Người dẫn thỉnh thoảng nhìn gương, không còn thấy đèn xe cuối thì chủ động chậm lại.
 - Tránh vạch sơn, nắp cống, đoạn có lá rụng hay bùn đất, nhất là khi vào cua.
 
-Nếu nhóm còn gặp gió mạnh trên đê, bài [chạy xe máy gió ngược lớn cần giữ tốc độ thế nào](/ky-nang/2026/10/07/chay-xe-may-gio-nguoc-lon-can-giu-toc-o-the-nao/) nói kỹ cách giữ tay lái và ga đều.
+Nếu nhóm còn gặp gió mạnh trên đê, bài [chạy xe máy gió ngược lớn cần giữ tốc độ thế nào](/ky-nang/2026/10/07/chay-xe-may-gio-nguoc-lon-can-giu-toc-do-the-nao/) nói kỹ cách giữ tay lái và ga đều.
 
 ## Điểm hẹn khi đi nhóm bị mưa: chia theo chặng
 
@@ -86,7 +86,7 @@ Nhóm không cố "dính" vào nhau bằng mọi giá, mà chấp nhận tách r
 - Không cầm điện thoại xem bản đồ khi xe đang chạy, muốn xem thì tấp hẳn vào lề.
 - Ở mỗi điểm hẹn, người chốt đếm đủ xe rồi mới báo người dẫn xuất phát.
 
-Bài [chạy xe máy ngày mưa dầm giữ khô đồ cách nào](/ky-nang/2026/10/09/chay-xe-may-ngay-mua-dam-giu-kho-o-cach-nao/) có vài mẹo gói điện thoại, giấy tờ đơn giản mà hiệu quả.
+Bài [chạy xe máy ngày mưa dầm giữ khô đồ cách nào](/ky-nang/2026/10/09/chay-xe-may-ngay-mua-dam-giu-kho-do-cach-nao/) có vài mẹo gói điện thoại, giấy tờ đơn giản mà hiệu quả.
 
 ## Khi nào nên dừng hẳn, không cố đi tiếp
 

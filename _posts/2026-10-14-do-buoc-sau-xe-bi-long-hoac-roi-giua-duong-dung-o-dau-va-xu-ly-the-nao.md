@@ -75,7 +75,7 @@ Cách buộc lại:
 3. Kéo căng từng dây, nhét gọn đầu thừa để không còn đoạn nào thòng xuống bánh.
 4. Lắc mạnh đồ bằng tay. Nếu đồ còn xê dịch, buộc lại.
 
-Nguyên tắc chi tiết hơn có trong bài [buộc đồ sau xe máy đúng cách](/ky-nang/2026-09-29/buoc-o-sau-xe-may-ung-cach/), còn riêng với thùng giấy thì xem [buộc thùng giấy lên yên sau cho chắc](/ky-nang/2026/10/07/buoc-thung-giay-len-yen-sau-kieu-gi-cho-chac/).
+Nguyên tắc chi tiết hơn có trong bài [buộc đồ sau xe máy đúng cách](/ky-nang/2026-09-29/buoc-do-sau-xe-may-dung-cach/), còn riêng với thùng giấy thì xem [buộc thùng giấy lên yên sau cho chắc](/ky-nang/2026/10/07/buoc-thung-giay-len-yen-sau-kieu-gi-cho-chac/).
 
 ## Phòng trước: vì sao đồ hay lỏng sau vài cây số
 

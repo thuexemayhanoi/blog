@@ -68,7 +68,7 @@ Nếu buộc lên yên sau là bắt buộc, hãy đẩy món nặng nhất về
 
 Chỉ nên dành cho đồ nhẹ mà cồng kềnh, như túi chăn gối hay thùng giấy rỗng. Đồ nặng đặt ở đây là nguyên nhân phổ biến nhất của hiện tượng đầu xe nhẹ.
 
-Khi có nhiều món, hãy chia lại: phần nặng nhất xuống sàn để chân, phần nặng vừa ở đầu yên sau, phần nhẹ cồng kềnh lên cao hoặc ra đuôi. Với hành lý về quê, cách tách thành hai túi cân đối trong bài [chia hành lý làm hai túi](/ky-nang/2026/10/09/hanh-ly-ve-que-chia-lam-hai-tui-can-oi/) cũng giúp giảm sức nặng dồn về một chỗ.
+Khi có nhiều món, hãy chia lại: phần nặng nhất xuống sàn để chân, phần nặng vừa ở đầu yên sau, phần nhẹ cồng kềnh lên cao hoặc ra đuôi. Với hành lý về quê, cách tách thành hai túi cân đối trong bài [chia hành lý làm hai túi](/ky-nang/2026/10/09/hanh-ly-ve-que-chia-lam-hai-tui-can-doi/) cũng giúp giảm sức nặng dồn về một chỗ.
 
 ## Đừng sửa quá tay: giỏ trước và móc treo cũng có giới hạn
 
@@ -88,7 +88,7 @@ Có lúc đã xếp lại hết cách mà xe vẫn hơi nhẹ đầu, ví dụ k
 - **Cẩn thận gió ngang** trên cầu Nhật Tân hay cầu Thanh Trì, đồ cồng kềnh phía sau dễ khiến xe bị đẩy lệch làn.
 - **Dùng đèn chiếu gần khi có xe ngược chiều.** Với xe thuê, nếu đèn chiếu quá cao, nhờ cửa hàng xem giúp thay vì tự vặn ốc chỉnh.
 
-Lốp sau non hơi càng làm đuôi xe lún, nên kiểm tra áp suất trước chuyến chở nặng theo tem trên xe; bài [áp suất lốp xe số khi chạy đường trường](/xe-may/2026/10/05/xe-so-chay-uong-truong-nen-e-ap-suat-lop-bao-nhieu/) có cách đọc và đo cụ thể.
+Lốp sau non hơi càng làm đuôi xe lún, nên kiểm tra áp suất trước chuyến chở nặng theo tem trên xe; bài [áp suất lốp xe số khi chạy đường trường](/xe-may/2026/10/05/xe-so-chay-duong-truong-nen-de-ap-suat-lop-bao-nhieu/) có cách đọc và đo cụ thể.
 
 ## Tóm lại trước khi lên xe
 

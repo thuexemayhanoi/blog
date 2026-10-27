@@ -62,7 +62,7 @@ Hình dung giờ tan tầm trên cầu Chương Dương hướng về Long Biên
 
 Mưa là lúc dễ có người ngã nhất và cũng là lúc bạn khó phản ứng nhất: mặt đường trơn, kính mũ mờ nước khiến bạn thấy muộn hơn. Những ngày này nên nới khoảng cách rộng hơn hẳn bình thường và hạn chế đi đè lên vạch sơn, nắp cống.
 
-Buổi tối ở những tuyến đèn đường yếu, như một số đoạn đê ven sông Hồng hay đường gom ven các khu đô thị mới, xe phía trước ngã thường vì ổ gà, hố ga hoặc đá vụn bạn không nhìn thấy. Khi thấy người trước bất ngờ lạng tay lái, hãy coi đó là dấu hiệu mặt đường có vấn đề và giảm tốc ngay. Cách nhận diện và vượt qua chướng ngại kiểu này có trong bài [tránh hố ga không nắp và giữ lái](/ky-nang/2026/10/10/ho-ga-khong-nap-tren-uong-tranh-va-giu-lai/).
+Buổi tối ở những tuyến đèn đường yếu, như một số đoạn đê ven sông Hồng hay đường gom ven các khu đô thị mới, xe phía trước ngã thường vì ổ gà, hố ga hoặc đá vụn bạn không nhìn thấy. Khi thấy người trước bất ngờ lạng tay lái, hãy coi đó là dấu hiệu mặt đường có vấn đề và giảm tốc ngay. Cách nhận diện và vượt qua chướng ngại kiểu này có trong bài [tránh hố ga không nắp và giữ lái](/ky-nang/2026/10/10/ho-ga-khong-nap-tren-duong-tranh-va-giu-lai/).
 
 ## Sau khi đã an toàn: giúp người ngã thế nào cho đúng
 

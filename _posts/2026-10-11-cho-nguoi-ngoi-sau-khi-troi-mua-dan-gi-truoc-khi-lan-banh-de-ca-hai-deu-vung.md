@@ -22,7 +22,7 @@ Ngày khô, người ngồi sau có lệch người một chút thì xe vẫn b�
 
 Khi mưa to, hai người gần như không nghe được nhau, nên những gì quan trọng cần nói xong khi xe còn đứng yên.
 
-Nguyên tắc chung về tốc độ và đèn khi mưa nặng hạt có trong bài [giảm tốc và bật đèn khi chạy xe dưới mưa lớn](/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-en/); ở đây ta tập trung vào chuyện có hai người trên xe.
+Nguyên tắc chung về tốc độ và đèn khi mưa nặng hạt có trong bài [giảm tốc và bật đèn khi chạy xe dưới mưa lớn](/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-den/); ở đây ta tập trung vào chuyện có hai người trên xe.
 
 ## Mặc áo mưa cho người ngồi sau: chọn loại nào, kéo vạt ra sao
 
@@ -51,7 +51,7 @@ Trước khi mặc áo mưa, nhớ lau yên. Mặt yên ướt làm người ng�
 
 **"Chân đặt lên gác chân, đừng thả xuống đường."** Thò chân chống khi xe chậm lại dễ làm xe lắc, chân còn có thể chạm ống xả nóng.
 
-**"Đồ cầm tay thì để vào cốp hoặc đeo chéo."** Tay bận cầm túi thì người ngồi sau gần như không bám được. Nếu mang nhiều đồ, tham khảo cách [giữ khô đồ khi chạy xe ngày mưa dầm](/ky-nang/2026/10/09/chay-xe-may-ngay-mua-dam-giu-kho-o-cach-nao/) để sắp xếp gọn trước khi đi.
+**"Đồ cầm tay thì để vào cốp hoặc đeo chéo."** Tay bận cầm túi thì người ngồi sau gần như không bám được. Nếu mang nhiều đồ, tham khảo cách [giữ khô đồ khi chạy xe ngày mưa dầm](/ky-nang/2026/10/09/chay-xe-may-ngay-mua-dam-giu-kho-do-cach-nao/) để sắp xếp gọn trước khi đi.
 
 ## Thống nhất cách phản ứng khi phanh và khi xe trơn
 

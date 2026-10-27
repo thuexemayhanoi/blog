@@ -67,7 +67,7 @@ Kênh Gà Vân Trình thường được nhắc cùng nhau: làng ven sông và 
 
 Ngồi thuyền trên sông mùa đông khá lạnh, nên mặc áo gió kín cổ và mang găng tay mỏng. Thời gian đi thuyền và giá vé có thể thay đổi theo mùa, hãy hỏi tại bến trước khi lên.
 
-Nếu thấy lịch quá dày, hãy bỏ bớt một điểm thay vì rút ngắn khoảng nghỉ sau khi ngâm. Nhóm muốn chơi kỹ cả hai thì chuyến hai ngày có ngủ lại sẽ thoải mái hơn; cách xếp lịch tương tự bài [lộ trình hai ngày đi biển Hải Tiến](/cung-duong/2026/10/01/chay-xe-may-tu-ha-noi-i-bien-hai-tien-lo-trinh-hai-ngay/), chỉ là đổi biển lấy nước khoáng.
+Nếu thấy lịch quá dày, hãy bỏ bớt một điểm thay vì rút ngắn khoảng nghỉ sau khi ngâm. Nhóm muốn chơi kỹ cả hai thì chuyến hai ngày có ngủ lại sẽ thoải mái hơn; cách xếp lịch tương tự bài [lộ trình hai ngày đi biển Hải Tiến](/cung-duong/2026/10/01/chay-xe-may-tu-ha-noi-di-bien-hai-tien-lo-trinh-hai-ngay/), chỉ là đổi biển lấy nước khoáng.
 
 ## Đồ mang theo và chọn xe cho ngày lạnh
 
@@ -78,7 +78,7 @@ Bạn cần đồ cho cả hai trạng thái: lạnh trên đường và ướt 
 - Khăn tắm nhỏ, mũ len đội lúc về khi tóc chưa khô hẳn.
 - Bình nước, đồ ăn nhẹ, sạc dự phòng, áo mưa mỏng phòng mưa phùn.
 
-Đường chủ yếu bằng phẳng, thường chở hai người, nên xe tay ga có cốp như Honda Vision hay Air Blade khá tiện để cất đồ thay. Trước khi đi, kiểm tra đèn, phanh, lốp và còi; dù định về trước khi tối, vẫn nên có đèn tốt phòng khi bị muộn. Muốn biết thêm tiêu chí chọn xe đi tỉnh, xem bài [chọn xe đi Pù Luông mùa mưa](/cung-duong/2026/10/01/chon-xe-may-i-pu-luong-mua-mua-luu-y-uong-tron/).
+Đường chủ yếu bằng phẳng, thường chở hai người, nên xe tay ga có cốp như Honda Vision hay Air Blade khá tiện để cất đồ thay. Trước khi đi, kiểm tra đèn, phanh, lốp và còi; dù định về trước khi tối, vẫn nên có đèn tốt phòng khi bị muộn. Muốn biết thêm tiêu chí chọn xe đi tỉnh, xem bài [chọn xe đi Pù Luông mùa mưa](/cung-duong/2026/10/01/chon-xe-may-di-pu-luong-mua-mua-luu-y-duong-tron/).
 
 Nếu cần thuê xe, bạn có thể ghé Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (0942 467 674, mở cửa 09:00–21:00); vì chuyến đi bắt đầu sớm hơn giờ mở cửa, hãy hỏi trước việc nhận xe từ hôm trước, còn chuyện cọc cần xác nhận trực tiếp khi đặt.
 

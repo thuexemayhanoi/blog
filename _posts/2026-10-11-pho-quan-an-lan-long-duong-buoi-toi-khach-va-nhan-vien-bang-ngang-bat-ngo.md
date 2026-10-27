@@ -91,7 +91,7 @@ Về nguyên tắc chung, bày bàn ghế lấn lòng đường thường không
 4. Không xem điện thoại tìm quán khi xe còn chạy.
 5. Kiểm tra phanh và đèn trước khi đi tối.
 
-Kỹ năng "nhìn trước, chậm trước" này cũng giống như khi bạn [băng qua đoạn đường ray cắt ngang](/ky-nang/2026/10/04/qua-oan-uong-ray-cat-ngang-cham-va-quan-sat/): chậm lại không làm bạn trễ, nó cho bạn thời gian phản ứng.
+Kỹ năng "nhìn trước, chậm trước" này cũng giống như khi bạn [băng qua đoạn đường ray cắt ngang](/ky-nang/2026/10/04/qua-doan-duong-ray-cat-ngang-cham-va-quan-sat/): chậm lại không làm bạn trễ, nó cho bạn thời gian phản ứng.
 
 ## Lần tới đi ăn tối, thử áp dụng ngay
 

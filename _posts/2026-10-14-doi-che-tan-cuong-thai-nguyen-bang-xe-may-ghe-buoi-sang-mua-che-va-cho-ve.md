@@ -25,7 +25,7 @@ Về đường: từ Hà Nội chạy trục hướng Thái Nguyên, đường t
 
 ## Trên đồi chè: chỗ đỗ xe và ảnh không dẫm luống
 
-Đồi chè là đất làm ăn của dân, không phải công viên, nên phép lịch sự đầu tiên là hỏi: phần lớn các đồi có nhà chủ ở cạnh, hỏi một tiếng xin vào chụp, người ta chỉ cho luôn góc đẹp và góc có luống mới gieo cần tránh. Đỗ xe theo đúng chỗ chủ chỉ, hoặc nếu dừng ven đường thì áp đủ các quy tắc dừng xe an toàn đã bàn trong bài [dừng xe máy trên đường đèo để chụp ảnh](/ky-nang/2026/10/11/dung-xe-may-tren-uong-doc-e-chup-anh-giu-xe-the-nao/): không sau khúc cua che tầm nhìn, không chắn lối đi, và khóa xe trước khi bước lên đồi.
+Đồi chè là đất làm ăn của dân, không phải công viên, nên phép lịch sự đầu tiên là hỏi: phần lớn các đồi có nhà chủ ở cạnh, hỏi một tiếng xin vào chụp, người ta chỉ cho luôn góc đẹp và góc có luống mới gieo cần tránh. Đỗ xe theo đúng chỗ chủ chỉ, hoặc nếu dừng ven đường thì áp đủ các quy tắc dừng xe an toàn đã bàn trong bài [dừng xe máy trên đường đèo để chụp ảnh](/ky-nang/2026/10/11/dung-xe-may-tren-duong-doc-de-chup-anh-giu-xe-the-nao/): không sau khúc cua che tầm nhìn, không chắn lối đi, và khóa xe trước khi bước lên đồi.
 
 Đi trên đồi chỉ đi theo mép luống hoặc lối mòn, không dẫm lên hàng chè, kể cả hàng trông như bỏ hoang, vì nhiều luống vừa tỉa xong. Cúi xuống chụp búp tôm ở tầm thấp cho thấy dãy đồi sau lưng, đừng giẫm vào giữa bãi để lấy cảnh lớn. Nếu trúng ngày dân hái chè, đứng xa quan sát rồi xin chụp gần, người hái có khi còn chỉ cho đúng khung đẹp nhất, hỏi một câu được hơn hơn mười lần đoán.
 

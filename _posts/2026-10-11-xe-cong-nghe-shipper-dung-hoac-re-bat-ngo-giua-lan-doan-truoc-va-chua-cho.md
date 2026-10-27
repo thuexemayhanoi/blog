@@ -83,7 +83,7 @@ Khu văn phòng quanh phố Duy Tân ở Cầu Giấy vào giờ cơm trưa là 
 
 Phố cổ là kiểu thử thách khác. Ngõ nhỏ, số nhà khó nhìn, tài xế phải đi rất chậm để dò, khách du lịch vẫy xe ngay mép đường chật. Đi sau một chiếc xe như vậy, đừng bóp còi liên tục ép họ, hãy lùi xa và chờ chỗ vượt hợp lý.
 
-Các tuyến như Xã Đàn, Thái Hà hay quanh các khu chung cư lớn lúc tan tầm cũng vậy, vì giờ về nhà trùng giờ đặt đồ ăn tối. Nếu mới đi xe ở Hà Nội, hãy coi đây là nơi luyện quan sát, giống như khi bạn tập [phản ứng với người đi bộ băng qua đường bất ngờ](/ky-nang/2026/10/11/nguoi-i-bo-bang-uong-ot-ngot-phan-ung-an-toan/).
+Các tuyến như Xã Đàn, Thái Hà hay quanh các khu chung cư lớn lúc tan tầm cũng vậy, vì giờ về nhà trùng giờ đặt đồ ăn tối. Nếu mới đi xe ở Hà Nội, hãy coi đây là nơi luyện quan sát, giống như khi bạn tập [phản ứng với người đi bộ băng qua đường bất ngờ](/ky-nang/2026/10/11/nguoi-di-bo-bang-duong-dot-ngot-phan-ung-an-toan/).
 
 ## Sai lầm khiến bạn dễ va chạm
 
@@ -93,7 +93,7 @@ Các tuyến như Xã Đàn, Thái Hà hay quanh các khu chung cư lớn lúc t
 - **Bóp còi rồi vẫn lao lên.** Còi chỉ là tín hiệu, không có nghĩa người phía trước đã thấy và nhường.
 - **Phản ứng bằng cảm xúc.** Tức giận rồi tăng ga vượt ép chỉ làm rủi ro cao hơn.
 
-Nếu từng gặp cảnh [xe tải chuyển làn đột ngột](/ky-nang/2026-09-29/xe-tai-chuyen-lan-ot-ngot-tranh-sao/), bạn sẽ thấy nguyên tắc giống nhau: giữ khoảng trống, tránh nằm trong điểm mù và đừng đặt cược vào việc người khác sẽ đi đúng ý mình.
+Nếu từng gặp cảnh [xe tải chuyển làn đột ngột](/ky-nang/2026-09-29/xe-tai-chuyen-lan-dot-ngot-tranh-sao/), bạn sẽ thấy nguyên tắc giống nhau: giữ khoảng trống, tránh nằm trong điểm mù và đừng đặt cược vào việc người khác sẽ đi đúng ý mình.
 
 ## Tập đoán sớm thay vì phản ứng nhanh
 

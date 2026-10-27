@@ -33,7 +33,7 @@ Sương muối buổi sớm còn quyết định giờ lên đường: càng lê
 
 Mùa hoa ban là mùa đèo đẹp nhất trong năm, và cũng là mùa đèo đông nhất. Quy tắc chạy đèo mùa hoa là ba chữ: chậm, đèn, nhường. Chậm vì các khúc cua gắt quanh vùng, kể cả quen, vẫn là cua gắt. Đèn bật cả sáng sớm lẫn chiều muộn vì sương dày bất chợt, đèn của bạn giúp xe ngược chiều thấy bạn trước. Nhường vì nhóm đi chụp thường dừng đông ở các khúc đẹp, và đoạn đèo Pha Đin gần như chắc chắn sẽ qua trong hành trình, các quy tắc [chạy xe máy qua đèo Pha Đin đoạn sương và cua gắt](/cung-duong/2026/10/14/deo-pha-din-tren-duong-len-dien-bien-chay-xe-may-qua-doan-suong-va-cua-gat/) áp dụng trọn cho mùa này, thậm chí còn cần gắt hơn vì xe nhiều.
 
-Dừng chụp hoa ven đèo cũng có nếp riêng: dừng ở đoạn thẳng thoáng, đỗ hết cỡ vào trong, không dừng ngay sau cua, và đứng chụp trong lề, mọi chi tiết [dừng xe máy trên đường đèo để chụp ảnh](/ky-nang/2026/10/11/dung-xe-may-tren-uong-doc-e-chup-anh-giu-xe-the-nao/) đã bàn từng bước. Mùa hoa hay có xe khách du lịch cũng dừng chụp, xe khách to chiếm lề rộng, nên tính ngay từ đầu: chỗ nào xe khách đỗ được, xe máy nên đỗ sát hơn vào trong để nhường nửa lề cho người đi đường.
+Dừng chụp hoa ven đèo cũng có nếp riêng: dừng ở đoạn thẳng thoáng, đỗ hết cỡ vào trong, không dừng ngay sau cua, và đứng chụp trong lề, mọi chi tiết [dừng xe máy trên đường đèo để chụp ảnh](/ky-nang/2026/10/11/dung-xe-may-tren-duong-doc-de-chup-anh-giu-xe-the-nao/) đã bàn từng bước. Mùa hoa hay có xe khách du lịch cũng dừng chụp, xe khách to chiếm lề rộng, nên tính ngay từ đầu: chỗ nào xe khách đỗ được, xe máy nên đỗ sát hơn vào trong để nhường nửa lề cho người đi đường.
 
 ## Ngày lễ hội: tính giờ, chỗ ngủ và chỗ để xe
 

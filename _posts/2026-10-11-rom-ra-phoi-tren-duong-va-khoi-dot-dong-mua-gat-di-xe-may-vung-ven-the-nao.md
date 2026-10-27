@@ -45,7 +45,7 @@ Hãy coi lớp rơm như đoạn đường ướt có cát.
 3. Ga đều, nhẹ. Tăng ga đột ngột khiến bánh sau quay trượt, giảm ga đột ngột lại làm trọng lượng dồn lên bánh trước.
 4. Nếu cần phanh trên rơm, bóp nhẹ cả hai phanh cùng lúc, tăng dần. Đừng bóp chết phanh trước.
 
-Với xe số như Honda Wave, nên về số thấp trước khi vào đoạn rơm dày để xe đi chậm mà vẫn có lực kéo đều, không phải nhấp ga liên tục. Cách xử lý mặt đường mất bám này khá giống với khi bạn [gặp vệt dầu loang sau xe tải](/ky-nang/2026/10/10/gap-vet-dau-loang-tren-mat-uong-sau-xe-tai-ne-va-phanh-the-nao/): giữ thẳng, tránh thao tác đột ngột.
+Với xe số như Honda Wave, nên về số thấp trước khi vào đoạn rơm dày để xe đi chậm mà vẫn có lực kéo đều, không phải nhấp ga liên tục. Cách xử lý mặt đường mất bám này khá giống với khi bạn [gặp vệt dầu loang sau xe tải](/ky-nang/2026/10/10/gap-vet-dau-loang-tren-mat-duong-sau-xe-tai-ne-va-phanh-the-nao/): giữ thẳng, tránh thao tác đột ngột.
 
 Đi qua rồi thì dừng ở chỗ an toàn, nhìn nhanh quanh bánh và gầm xem có rơm quấn không. Gỡ bằng tay khi máy đã tắt, nếu rơm kẹt sâu vào khu vực phanh hay truyền động thì đừng tự tháo mà nhờ thợ xem giúp.
 

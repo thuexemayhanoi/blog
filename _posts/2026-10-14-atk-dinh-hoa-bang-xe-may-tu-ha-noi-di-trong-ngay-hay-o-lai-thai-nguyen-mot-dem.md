@@ -33,13 +33,13 @@ Trước khi vào khu di tích, chỉnh lại trang phục và cả thái độ:
 
 Phương án một đêm chia làm hai kiểu. Kiểu thứ nhất ngủ lại gần Chợ Chu hoặc các homestay ven khu di tích: buổi sáng hôm sau thăm tiếp các điểm còn lại lúc vắng khách, chợ quê họp sớm, và toàn bộ vùng đồi lên đến giờ ăn trưa. Kiểu thứ hai về lại thành phố Thái Nguyên ngủ: tiện ăn uống, tối có phố, và sáng sau có thể ghé thêm vùng chè ven đường về trước khi chạy trục lớn về Hà Nội, nhưng mất phần khung sáng ở di tích. Nhóm thích sâu lịch sử chọn kiểu một, nhóm đi kèm người nhỏ hoặc người lớn tuổi chọn kiểu hai cho dễ thở.
 
-Dù ngủ đâu, đặt chỗ nào cũng hỏi chuyện xe như hỏi chuyện phòng, các câu hỏi mẫu khi [hỏi khách sạn hoặc homestay về chỗ để xe](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-e-xe-truoc-khi-chot-thue-xe-may/) dùng được cho cả nhà nghỉ huyện lẫn khách sạn thành phố: đêm xe trong nhà hay ngoài hiên, sáng sớm lấy xe thế nào, có chỗ sạc điện thoại không. Vùng Chợ Chu đêm se lạnh hơn Hà Nội, có một lớp áo nhẹ trong ba lô bao giờ cũng dùng được.
+Dù ngủ đâu, đặt chỗ nào cũng hỏi chuyện xe như hỏi chuyện phòng, các câu hỏi mẫu khi [hỏi khách sạn hoặc homestay về chỗ để xe](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-de-xe-truoc-khi-chot-thue-xe-may/) dùng được cho cả nhà nghỉ huyện lẫn khách sạn thành phố: đêm xe trong nhà hay ngoài hiên, sáng sớm lấy xe thế nào, có chỗ sạc điện thoại không. Vùng Chợ Chu đêm se lạnh hơn Hà Nội, có một lớp áo nhẹ trong ba lô bao giờ cũng dùng được.
 
 ## Đường tỉnh lên Định Hóa: chạy theo khung, đổ xăng theo quãng
 
 Đường lên trung tâm huyện đa phần qua vùng đồi chè và rừng thông thoáng, đẹp nhưng dễ khiến người ta ra ga quá đà, vì dốc thoải dài hợp gu máy hơn các đèo gắt. Quy tắc đường tỉnh: giữ tốc độ đều, bóp ga theo từng khúc tầm nhìn, và canh xăng theo quãng, vì trạm dầu ven các đoạn thưa có giờ mở theo hộ dân, không phải giờ khách. Trước ngày đi, tra dự báo thời tiết Thái Nguyên, mùa mưa đường đồi rửa trơn nhanh, và buổi sáng sớm sương trên các khúc rừng thông đã có sẵn các dấu hiệu nhận biết trong bài về [chạy xe máy lúc sương muối buổi sớm miền Bắc](/ky-nang/2026/10/07/chay-xe-may-luc-suong-muoi-buoi-som-mien-bac/).
 
-Trên đường huyện, gặp đoàn xe, hội làng hoặc lễ tại đình thì thong thả nhường và giảm tốc đi qua, khu di tích quanh năm có ngày lễ tưởng niệm, đúng lịch tiết nghiêm túc thì tránh thêm vào, xin dừng xe ở nơi quy định và hỏi người coi việc [đỗ xe hợp lệ theo biển báo](/an-toan-phap-ly/2026/10/10/bien-bao-cam-dung-o-va-cho-e-xe-hop-le/) thay vì làm theo quán tính cũ.
+Trên đường huyện, gặp đoàn xe, hội làng hoặc lễ tại đình thì thong thả nhường và giảm tốc đi qua, khu di tích quanh năm có ngày lễ tưởng niệm, đúng lịch tiết nghiêm túc thì tránh thêm vào, xin dừng xe ở nơi quy định và hỏi người coi việc [đỗ xe hợp lệ theo biển báo](/an-toan-phap-ly/2026/10/10/bien-bao-cam-dung-do-va-cho-de-xe-hop-le/) thay vì làm theo quán tính cũ.
 
 ## Tóm lại: đi trong ngày cho người chắc chân, một đêm cho người muốn sâu
 

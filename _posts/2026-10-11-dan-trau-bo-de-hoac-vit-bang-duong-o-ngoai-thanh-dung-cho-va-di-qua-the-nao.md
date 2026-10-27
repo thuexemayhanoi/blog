@@ -34,7 +34,7 @@ Rất hiếm khi đàn gia súc xuất hiện hoàn toàn bất ngờ. Thường
 - Tiếng người hô gọi từ phía trong ngõ.
 - Sáng sớm và chiều muộn, giờ người dân dắt trâu bò ra bãi hoặc lùa về chuồng.
 
-Thấy một trong những dấu hiệu trên, hãy nhả ga và đặt hờ tay lên phanh ngay. Khúc cua có bụi tre hay tường nhà sát đường là chỗ nên đi chậm nhất, vì đàn có thể ở ngay sau góc khuất. Kiểu quan sát này giống cách bạn đề phòng một đứa trẻ chạy ra từ ngõ, tôi đã viết kỹ hơn trong bài [xử lý khi trẻ lao ra đường](/ky-nang/2026/10/07/chay-xe-may-thay-tre-lao-ra-uong-xu-ly-the-nao/).
+Thấy một trong những dấu hiệu trên, hãy nhả ga và đặt hờ tay lên phanh ngay. Khúc cua có bụi tre hay tường nhà sát đường là chỗ nên đi chậm nhất, vì đàn có thể ở ngay sau góc khuất. Kiểu quan sát này giống cách bạn đề phòng một đứa trẻ chạy ra từ ngõ, tôi đã viết kỹ hơn trong bài [xử lý khi trẻ lao ra đường](/ky-nang/2026/10/07/chay-xe-may-thay-tre-lao-ra-duong-xu-ly-the-nao/).
 
 ## Dừng chờ đúng cách: vị trí, tiếng máy và chiếc còi
 
@@ -74,7 +74,7 @@ Khi thấy vịt chạy ngang đường khi đi xe máy, hãy giảm tốc từ 
 
 ## Sau khi đàn đi qua: mặt đường còn để lại gì
 
-Đàn đi rồi nhưng mặt đường chưa sạch. Phân, bùn từ móng chân, nước tràn từ ruộng có thể làm đoạn đường trơn hơn hẳn, nhất là sau mưa hoặc lúc sương sớm. Đi qua chậm, giữ thẳng tay lái, tránh phanh hay đánh lái gấp trên vệt bẩn, giống khi bạn [gặp vệt dầu loang trên mặt đường](/ky-nang/2026/10/10/gap-vet-dau-loang-tren-mat-uong-sau-xe-tai-ne-va-phanh-the-nao/).
+Đàn đi rồi nhưng mặt đường chưa sạch. Phân, bùn từ móng chân, nước tràn từ ruộng có thể làm đoạn đường trơn hơn hẳn, nhất là sau mưa hoặc lúc sương sớm. Đi qua chậm, giữ thẳng tay lái, tránh phanh hay đánh lái gấp trên vệt bẩn, giống khi bạn [gặp vệt dầu loang trên mặt đường](/ky-nang/2026/10/10/gap-vet-dau-loang-tren-mat-duong-sau-xe-tai-ne-va-phanh-the-nao/).
 
 Cũng đừng vội tăng tốc, có khi còn con chậm chân sau bụi cây hoặc người chăn đang lùa thêm nhóm khác ra.
 
@@ -84,7 +84,7 @@ Phản ứng tốt với gia súc bắt đầu từ chiếc xe ổn định. Tr�
 
 Hãy tính giờ về trước khi trời tối hẳn, vì đó cũng là giờ trâu bò được lùa về chuồng. Nếu thuê xe ở Nguyễn Tú, bạn có thể hỏi trước loại xe dễ điều khiển ở tốc độ chậm trên đường làng.
 
-Đường làng là lối đi chung của người, xe và cả con vật. Nhường đàn gia súc vài phút, gật đầu chào người chăn, bạn vừa an toàn vừa không gây khó chịu cho người địa phương, giống tinh thần kiên nhẫn khi [gặp đoàn rước trên đường hẹp](/ky-nang/2026/09/30/gap-oan-ruoc-tren-uong-hep-xu-ly-the-nao/).
+Đường làng là lối đi chung của người, xe và cả con vật. Nhường đàn gia súc vài phút, gật đầu chào người chăn, bạn vừa an toàn vừa không gây khó chịu cho người địa phương, giống tinh thần kiên nhẫn khi [gặp đoàn rước trên đường hẹp](/ky-nang/2026/09/30/gap-doan-ruoc-tren-duong-hep-xu-ly-the-nao/).
 
 ## Ghi nhớ trước chuyến đi tới
 

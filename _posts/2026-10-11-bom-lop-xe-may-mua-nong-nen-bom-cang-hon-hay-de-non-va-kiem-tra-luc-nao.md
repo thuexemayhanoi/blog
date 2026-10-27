@@ -78,7 +78,7 @@ Khi không có đồng hồ, để ý vài dấu hiệu sau:
 
 Tình huống quen thuộc: bạn chạy dọc đoạn đê ven sông Hồng đầu giờ chiều, trời hầm hập, chở thêm người và đồ, tay lái nặng dần. Cách an toàn hơn là dừng trong bóng râm, quan sát lốp rồi ghé tiệm gần nhất nhờ kiểm tra. Nếu lốp phồng, rách hông hay xẹp nhanh, đừng cố chạy; dắt xe hoặc gọi cứu hộ sẽ hạn chế rủi ro.
 
-Lốp chỉ là một phần của chuyện đi xe giữa mùa nắng; bạn có thể đọc thêm [những lưu ý khi đi xe máy trong nắng nóng Hà Nội](/ky-nang/2026-09-29/nang-nong-mua-he-ha-noi-i-xe-may-can-chu-y-gi/) để chuẩn bị cho cả người lẫn xe.
+Lốp chỉ là một phần của chuyện đi xe giữa mùa nắng; bạn có thể đọc thêm [những lưu ý khi đi xe máy trong nắng nóng Hà Nội](/ky-nang/2026-09-29/nang-nong-mua-he-ha-noi-di-xe-may-can-chu-y-gi/) để chuẩn bị cho cả người lẫn xe.
 
 ## Đi xe thuê mùa hè: để ý lốp từ lúc nhận
 

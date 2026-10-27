@@ -21,7 +21,7 @@ Chuyến đi Lục Ngạn mùa vải xe máy là kiểu đi theo mùa hiếm hoi
 
 Vải thiều Lục Ngạn vào chính vụ quanh tháng Sáu, trước đó là vải sớm, sau đó là vải muộn, và cả ba khung đan nhau suốt hơn một tháng, nên nếu chỉ đi một ngày cuối tuần thì cứ chốt đầu tháng Sáu là an toàn nhất. Khung trong ngày quan trọng hơn khung trong mùa: sáng sớm trong vườn còn mát, trái còn đọng sương, hái tay không bị nhựa dính chùm, còn trưa nắng lên vỏ nóng trái mềm, hái nhanh nhưng tay cứng và trái về dễ chín đen. Xuất phát từ Hà Nội trước sáu giờ để lên tới vườn trong khung bảy tám giờ là công thức đứng vững với mọi nhóm.
 
-Về đường: trục quốc lộ 1 lên hướng Bắc Giang rồi rẽ theo đường lên Lục Ngạn, phần lớn đường to, chỉ khúc cuối vào các xã vườn vải là đường nhỏ qua thôn, dân buôn vải đi lại sớm bằng xe nhỏ và xe thùng. Mùa vải, các bãi gom hàng ven đường đông từ khung sáng, đi chậm qua các đoạn đó, và đừng dừng xe ngang dòng xe chờ gom, đó là các quy tắc [đỗ xe hợp lệ theo biển báo](/an-toan-phap-ly/2026/10/10/bien-bao-cam-dung-o-va-cho-e-xe-hop-le/) áp cho cả mùa vải.
+Về đường: trục quốc lộ 1 lên hướng Bắc Giang rồi rẽ theo đường lên Lục Ngạn, phần lớn đường to, chỉ khúc cuối vào các xã vườn vải là đường nhỏ qua thôn, dân buôn vải đi lại sớm bằng xe nhỏ và xe thùng. Mùa vải, các bãi gom hàng ven đường đông từ khung sáng, đi chậm qua các đoạn đó, và đừng dừng xe ngang dòng xe chờ gom, đó là các quy tắc [đỗ xe hợp lệ theo biển báo](/an-toan-phap-ly/2026/10/10/bien-bao-cam-dung-do-va-cho-de-xe-hop-le/) áp cho cả mùa vải.
 
 ## Hái vải thiều trong vườn: hỏi chủ vườn, hái theo nếp
 
@@ -37,9 +37,9 @@ Giờ về phải canh theo nắng: rời vùng vườn trước mười một g
 
 ## Ăn trưa, về chiều: dừng ở Chũ và các điểm quanh vùng
 
-Ai muốn dừng nghỉ trưa thì thị trấn Chũ có quán ăn quanh chợ, ngồi tránh nắng trưa rồi mới lên đường, và nếu nhóm muốn kéo dài thành hai ngày, quanh Lục Ngạn còn vùng hồ Cam Sơn xanh mát phía trên huyện, đáng tính nếu đi kèm người lớn tuổi. Ngủ lại thì hỏi homestay đầy đủ chuyện xe qua đêm theo bộ câu hỏi mẫu khi [hỏi khách sạn hoặc homestay về chỗ để xe](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-e-xe-truoc-khi-chot-thue-xe-may/), đặc biệt là chuyện sáng sớm mở cổng, vì mùa vải nhiều nhóm dậy từ tờ mờ để kịp khung hái đẹp.
+Ai muốn dừng nghỉ trưa thì thị trấn Chũ có quán ăn quanh chợ, ngồi tránh nắng trưa rồi mới lên đường, và nếu nhóm muốn kéo dài thành hai ngày, quanh Lục Ngạn còn vùng hồ Cam Sơn xanh mát phía trên huyện, đáng tính nếu đi kèm người lớn tuổi. Ngủ lại thì hỏi homestay đầy đủ chuyện xe qua đêm theo bộ câu hỏi mẫu khi [hỏi khách sạn hoặc homestay về chỗ để xe](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-de-xe-truoc-khi-chot-thue-xe-may/), đặc biệt là chuyện sáng sớm mở cổng, vì mùa vải nhiều nhóm dậy từ tờ mờ để kịp khung hái đẹp.
 
-Mùa vải cũng là mùa đường đông xe tải chở hàng, trên trục về nếu vượt xe thùng thì nhớ các quy tắc giữ khoảng cách đã bàn trong bài [gặp xe container trên đường hẹp](/ky-nang/2026/10/10/gap-xe-container-tren-uong-hep-giu-khoang-cach/), chọn đoạn thẳng thoáng mới vượt, đừng chen sát khi xe tải dừng gom dọc bãi.
+Mùa vải cũng là mùa đường đông xe tải chở hàng, trên trục về nếu vượt xe thùng thì nhớ các quy tắc giữ khoảng cách đã bàn trong bài [gặp xe container trên đường hẹp](/ky-nang/2026/10/10/gap-xe-container-tren-duong-hep-giu-khoang-cach/), chọn đoạn thẳng thoáng mới vượt, đừng chen sát khi xe tải dừng gom dọc bãi.
 
 ## Tóm lại: đúng khung, đúng nếp, vải về nguyên vẹn
 

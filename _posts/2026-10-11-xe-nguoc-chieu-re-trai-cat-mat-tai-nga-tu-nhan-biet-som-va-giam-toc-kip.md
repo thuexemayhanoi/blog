@@ -42,7 +42,7 @@ Người đang canh để rẽ thường liên tục ngó về dòng xe của b�
 
 ### Ô tô chờ rẽ che khuất xe máy phía sau
 
-Ô tô đứng chờ rẽ trái phía đối diện tạo ra vùng khuất lớn, và xe máy hay luồn sau ô tô rồi bất ngờ trồi ra. Cách nghĩ giống như khi [nhận diện vùng khuất lúc đi cạnh xe tải](/ky-nang/2026/10/11/i-xe-may-canh-xe-tai-ang-om-cua-nhan-dien-vung-khuat/): chỗ nào bạn không thấy, hãy giả định có một xe máy ở đó.
+Ô tô đứng chờ rẽ trái phía đối diện tạo ra vùng khuất lớn, và xe máy hay luồn sau ô tô rồi bất ngờ trồi ra. Cách nghĩ giống như khi [nhận diện vùng khuất lúc đi cạnh xe tải](/ky-nang/2026/10/11/di-xe-may-canh-xe-tai-dang-om-cua-nhan-dien-vung-khuat/): chỗ nào bạn không thấy, hãy giả định có một xe máy ở đó.
 
 ## Thời điểm nguy hiểm nhất trong một pha đèn xanh
 
@@ -87,6 +87,6 @@ Nếu đã có va chạm khi đi xe thuê, hãy đưa xe vào lề, kiểm tra n
 
 Phản xạ đọc xe đối diện cần thời gian luyện. Nếu bạn mới thuê xe hoặc mới đến Hà Nội, hãy đứng quan sát một ngã tư lớn vài phút để thấy xe rẽ trái thường nhích vào ra sao, rồi đi thử qua đó vào giờ vắng trước khi đi giờ đông.
 
-Khi chính bạn là người rẽ trái, hãy làm ngược lại: bật xi nhan sớm, chờ khe hở thật sự và nhìn vào mắt người đi thẳng. Bạn có thể đọc thêm [trình tự quan sát khi quẹo trái ở ngã tư không đèn](/ky-nang/2026/10/11/queo-trai-tai-nga-tu-khong-en-tin-hieu-trinh-tu-quan-sat-ung/) và các [tình huống giao thông thường gặp](/ky-nang/tinh-huong-giao-thong/) khác trong chuyên mục [kỹ năng đi xe máy](/ky-nang/).
+Khi chính bạn là người rẽ trái, hãy làm ngược lại: bật xi nhan sớm, chờ khe hở thật sự và nhìn vào mắt người đi thẳng. Bạn có thể đọc thêm [trình tự quan sát khi quẹo trái ở ngã tư không đèn](/ky-nang/2026/10/11/queo-trai-tai-nga-tu-khong-den-tin-hieu-trinh-tu-quan-sat-dung/) và các [tình huống giao thông thường gặp](/ky-nang/tinh-huong-giao-thong/) khác trong chuyên mục [kỹ năng đi xe máy](/ky-nang/).
 
 Lần tới khi đèn xanh bật, trước khi vặn ga, hãy dành một giây nhìn sang phía đối diện và tự hỏi: chiếc xe nào ở đó có thể rẽ ngang qua mình?

@@ -46,11 +46,11 @@ Chuyến đầu nên nhẹ. Mang theo chổi, giẻ lau, túi rác, bóng đèn 
 
 ### Các chuyến giữa: đồ đóng thùng
 
-Đây là phần nặng nhất. Xếp thùng nặng như sách ở sàn để chân, thùng nhẹ hơn như quần áo ở yên sau, buộc bằng dây chằng có móc thay vì dây ni lông. Mỗi thùng ghi rõ bên ngoài nó chứa gì và để ở góc nào trong phòng mới. Cách chằng một thùng to cho khỏi xô lệch được nói kỹ trong bài [chở thùng giấy cồng kềnh trên xe máy](/ky-nang/2026/10/11/cho-thung-giay-cong-kenh-tren-xe-may-buoc-va-at-ung-cach/).
+Đây là phần nặng nhất. Xếp thùng nặng như sách ở sàn để chân, thùng nhẹ hơn như quần áo ở yên sau, buộc bằng dây chằng có móc thay vì dây ni lông. Mỗi thùng ghi rõ bên ngoài nó chứa gì và để ở góc nào trong phòng mới. Cách chằng một thùng to cho khỏi xô lệch được nói kỹ trong bài [chở thùng giấy cồng kềnh trên xe máy](/ky-nang/2026/10/11/cho-thung-giay-cong-kenh-tren-xe-may-buoc-va-dat-dung-cach/).
 
 ### Chuyến riêng cho đồ dễ vỡ
 
-Đồ dễ vỡ nên đi một chuyến riêng, khi bạn còn tỉnh táo và đường còn vắng, thường là buổi sáng trước giờ cao điểm hoặc giữa trưa. Bát đĩa gói từng chiếc bằng giấy báo, xếp đứng trong thùng nhỏ có lót quần áo. Gương và màn hình để dựng đứng, kẹp giữa hai lớp chăn mỏng. Tuyệt đối không chất chung với thùng sách nặng, vì chỉ một lần phanh gấp là thùng nặng trượt đè lên thùng nhẹ. Bài [chở đồ dễ vỡ trên xe máy](/ky-nang/2026/10/10/cho-o-de-vo-tren-xe-may-sao-cho-khong-hong/) có thêm cách gói từng loại.
+Đồ dễ vỡ nên đi một chuyến riêng, khi bạn còn tỉnh táo và đường còn vắng, thường là buổi sáng trước giờ cao điểm hoặc giữa trưa. Bát đĩa gói từng chiếc bằng giấy báo, xếp đứng trong thùng nhỏ có lót quần áo. Gương và màn hình để dựng đứng, kẹp giữa hai lớp chăn mỏng. Tuyệt đối không chất chung với thùng sách nặng, vì chỉ một lần phanh gấp là thùng nặng trượt đè lên thùng nhẹ. Bài [chở đồ dễ vỡ trên xe máy](/ky-nang/2026/10/10/cho-do-de-vo-tren-xe-may-sao-cho-khong-hong/) có thêm cách gói từng loại.
 
 ### Chuyến cuối: đồ lỉnh kỉnh và dọn phòng cũ
 

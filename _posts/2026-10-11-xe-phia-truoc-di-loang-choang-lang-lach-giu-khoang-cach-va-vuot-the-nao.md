@@ -41,7 +41,7 @@ Trong lúc giữ khoảng cách, nên làm thêm vài việc:
 3. **Dùng đèn chiếu gần**. Đèn pha rọi thẳng vào gương làm người đang mệt dễ chói và lắc mạnh hơn.
 4. **Không bấm còi dồn dập**. Một tiếng ngắn để báo có xe phía sau là đủ; còi liên tục dễ khiến họ giật mình đánh lái.
 
-Nếu đi theo nhóm, hãy ra hiệu cho cả nhóm cùng giãn ra, tương tự cách nhường không gian khi [gặp đoàn xe cưới chạy chậm trên đường](/ky-nang/2026/10/10/gap-oan-xe-cuoi-tren-uong-giu-khoang-cach-the-nao/).
+Nếu đi theo nhóm, hãy ra hiệu cho cả nhóm cùng giãn ra, tương tự cách nhường không gian khi [gặp đoàn xe cưới chạy chậm trên đường](/ky-nang/2026/10/10/gap-doan-xe-cuoi-tren-duong-giu-khoang-cach-the-nao/).
 
 ## Có nên vượt xe đi không ổn định không?
 
@@ -67,7 +67,7 @@ Vượt xong, họ đã ở sau lưng bạn. Thỉnh thoảng liếc gương đ�
 
 ## Tình huống quen thuộc trên đường Hà Nội buổi tối
 
-**Đoạn đê ven sông Hồng lúc khuya.** Đường thoáng, ít đèn, có cả xe tải chạy nhanh. Phía trước là một xe số chở bao hàng, lắc theo nhịp mặt đường gồ ghề. Vượt ở đây khá rủi ro vì có xe ngược chiều và mép đường nhiều ổ gà. Tốt hơn là giãn khoảng cách, đi chậm theo tới đoạn sáng và rộng hơn. Nếu phải để mắt cả mặt đường, bạn có thể xem cách [né hố ga không nắp mà vẫn giữ được tay lái](/ky-nang/2026/10/10/ho-ga-khong-nap-tren-uong-tranh-va-giu-lai/).
+**Đoạn đê ven sông Hồng lúc khuya.** Đường thoáng, ít đèn, có cả xe tải chạy nhanh. Phía trước là một xe số chở bao hàng, lắc theo nhịp mặt đường gồ ghề. Vượt ở đây khá rủi ro vì có xe ngược chiều và mép đường nhiều ổ gà. Tốt hơn là giãn khoảng cách, đi chậm theo tới đoạn sáng và rộng hơn. Nếu phải để mắt cả mặt đường, bạn có thể xem cách [né hố ga không nắp mà vẫn giữ được tay lái](/ky-nang/2026/10/10/ho-ga-khong-nap-tren-duong-tranh-va-giu-lai/).
 
 **Đường lớn bên Long Biên sau giờ tan tiệc.** Trên một trục như Nguyễn Văn Cừ buổi tối, bạn gặp một xe tay ga đi chậm, người lái liên tục cúi nhìn điện thoại, xe trôi dần ra giữa đường. Đường nhiều làn, tầm nhìn tốt, nên chờ lúc họ dạt về bên phải rồi vượt gọn bên trái thường an toàn hơn lẽo đẽo phía sau. Vẫn nên báo còi nhẹ và giữ khoảng cách ngang rộng.
 

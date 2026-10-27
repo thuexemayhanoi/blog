@@ -54,11 +54,11 @@ Nếu mưa ập xuống mà bạn không có kính, đừng hoảng. Có vài th
 
 ## Mưa tạt mắt khi đội mũ nửa đầu và gió: ghép hai yếu tố lại
 
-Mưa tạt khó chịu nhất khi đi kèm gió mạnh. Gió ngang khiến hạt mưa quất chéo vào mặt từ một bên, còn gió ngược thổi thẳng vào mắt. Trường hợp này, bạn nên giảm tốc nhiều hơn mức bình thường. Bài viết về cách [giữ tốc độ khi chạy xe gió ngược lớn](/ky-nang/2026/10/07/chay-xe-may-gio-nguoc-lon-can-giu-toc-o-the-nao/) có thêm mẹo giữ thăng bằng mà bạn có thể áp dụng cùng lúc.
+Mưa tạt khó chịu nhất khi đi kèm gió mạnh. Gió ngang khiến hạt mưa quất chéo vào mặt từ một bên, còn gió ngược thổi thẳng vào mắt. Trường hợp này, bạn nên giảm tốc nhiều hơn mức bình thường. Bài viết về cách [giữ tốc độ khi chạy xe gió ngược lớn](/ky-nang/2026/10/07/chay-xe-may-gio-nguoc-lon-can-giu-toc-do-the-nao/) có thêm mẹo giữ thăng bằng mà bạn có thể áp dụng cùng lúc.
 
 Một tình huống quen thuộc: bạn đi dọc đoạn đê ven sông Hồng lúc chiều muộn, trời tối sầm, mưa và gió cùng thổi từ phía sông vào. Đường đê thường hẹp, có xe tải ngược chiều, hai bên ít chỗ trú. Lúc này, cách hợp lý là giảm tốc hẳn, đi sát phần đường bên phải, bật đèn chiếu gần để xe khác dễ thấy bạn, và tìm điểm dừng an toàn sớm nhất có thể chứ đừng cố về nhà một mạch.
 
-Nếu bạn đội mũ có kính nhưng kính bị đọng hơi nước và mờ, đó lại là chuyện khác. Bạn có thể tham khảo cách [xử lý kính mũ bị mờ khi mưa phùn](/ky-nang/2026/10/11/mua-phun-lam-mo-kinh-mu-bao-hiem-giu-tam-nhin-khi-i-xe-may/) vì nguyên nhân và cách làm không giống mưa tạt.
+Nếu bạn đội mũ có kính nhưng kính bị đọng hơi nước và mờ, đó lại là chuyện khác. Bạn có thể tham khảo cách [xử lý kính mũ bị mờ khi mưa phùn](/ky-nang/2026/10/11/mua-phun-lam-mo-kinh-mu-bao-hiem-giu-tam-nhin-khi-di-xe-may/) vì nguyên nhân và cách làm không giống mưa tạt.
 
 ## Khi nào nên tấp vào lề thay vì cố đi tiếp
 

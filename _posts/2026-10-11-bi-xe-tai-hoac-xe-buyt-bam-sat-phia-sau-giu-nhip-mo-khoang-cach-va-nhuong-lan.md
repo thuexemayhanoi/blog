@@ -53,7 +53,7 @@ Tăng tốc chỉ kéo cả hai xe lên tốc độ cao hơn, còn khoảng các
 
 Khi bị bám sát, hãy lùi xa xe đi trước thêm một chút so với bình thường. Nếu phía trước có tình huống bất ngờ, bạn đủ chỗ để giảm tốc dần thay vì phanh dúi, và xe phía sau cũng có thời gian giảm theo. Khoảng trống phía trước chính là đệm an toàn cho cả phía sau.
 
-Cách làm là nhả ga nhẹ vài giây để xe trước đi xa dần, không cần phanh. Nếu xe trước lại là xe chở vật liệu, xem thêm cách chọn [vị trí an toàn khi đi sau xe tải chở cát đá](/ky-nang/2026/10/11/i-sau-xe-tai-cho-cat-a-khoang-cach-va-vi-tri-an-toan/), vì lúc đó bạn đang bị kẹp giữa hai xe lớn.
+Cách làm là nhả ga nhẹ vài giây để xe trước đi xa dần, không cần phanh. Nếu xe trước lại là xe chở vật liệu, xem thêm cách chọn [vị trí an toàn khi đi sau xe tải chở cát đá](/ky-nang/2026/10/11/di-sau-xe-tai-cho-cat-da-khoang-cach-va-vi-tri-an-toan/), vì lúc đó bạn đang bị kẹp giữa hai xe lớn.
 
 ## Bước 3: Nhường làn cho xe lớn phía sau khi có chỗ
 
@@ -78,7 +78,7 @@ Mỗi tuyến có biển báo phân làn riêng và quy định có thể thay �
 
 ## Tình huống quen thuộc trên đường Hà Nội
 
-**Đường Giải Phóng giờ tan tầm.** Bạn đi trong dòng xe hỗn hợp, phía sau là chiếc xe buýt đang chạy giữa hai điểm dừng. Hãy giữ nhịp, liếc gương, đến đoạn bên phải thoáng và không có xe đỗ thì xi nhan để xe buýt vượt lên. Gần điểm dừng thì đừng chen vào khoảng giữa xe buýt và lề. Sau đó đừng bám đuôi nó quá sát; bài [đi sau xe buýt đúng khoảng cách](/ky-nang/2026-09-29/i-sau-xe-buyt-ung-khoang-cach/) giải thích rõ vì sao.
+**Đường Giải Phóng giờ tan tầm.** Bạn đi trong dòng xe hỗn hợp, phía sau là chiếc xe buýt đang chạy giữa hai điểm dừng. Hãy giữ nhịp, liếc gương, đến đoạn bên phải thoáng và không có xe đỗ thì xi nhan để xe buýt vượt lên. Gần điểm dừng thì đừng chen vào khoảng giữa xe buýt và lề. Sau đó đừng bám đuôi nó quá sát; bài [đi sau xe buýt đúng khoảng cách](/ky-nang/2026-09-29/di-sau-xe-buyt-dung-khoang-cach/) giải thích rõ vì sao.
 
 **Trục Nguyễn Văn Cừ phía Long Biên.** Có lúc xe tải nhỏ chở hàng chạy xen trong dòng xe máy. Nếu một chiếc bám sau bạn ở đoạn thẳng, hãy nhả ga mở thêm khoảng trống phía trước, chờ làn phải thoáng mới nhường. Ở đoạn dốc, giữ tay ga đều vì xe tải lên dốc thường cố giữ đà.
 

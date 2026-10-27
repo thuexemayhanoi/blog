@@ -67,15 +67,15 @@ Khi đi sát lề trong mưa, hạn chế đặt bánh lên lưới và không �
 - **Bám đuôi xe trước quá sát**, không thấy mặt đường và bị buộc phải phanh trên tấm thép.
 - **Lốp mòn, áp suất không phù hợp.** Nên kiểm tra gai lốp và hơi lốp theo khuyến nghị của nhà sản xuất trước mùa mưa.
 
-Giống như cách xử lý trên [vạch sơn đường khi ướt](/ky-nang/2026/10/11/i-xe-may-tren-vach-son-uong-uot-tranh-truot-banh/), nguyên lý ở đây không phức tạp: bề mặt càng nhẵn thì bạn càng phải làm ít thao tác trên nó.
+Giống như cách xử lý trên [vạch sơn đường khi ướt](/ky-nang/2026/10/11/di-xe-may-tren-vach-son-duong-uot-tranh-truot-banh/), nguyên lý ở đây không phức tạp: bề mặt càng nhẵn thì bạn càng phải làm ít thao tác trên nó.
 
 ## Kết hợp với kỹ năng đi mưa trong phố
 
-Nắp cống và tấm thép chỉ là một phần của bức tranh đi mưa ở Hà Nội. Khi mưa to, tầm nhìn giảm và nước che khuất nhiều nắp cống, nên tốc độ chung phải chậm lại rõ rệt; bạn có thể tham khảo thêm cách [giảm tốc và dùng đèn khi mưa lớn](/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-en/).
+Nắp cống và tấm thép chỉ là một phần của bức tranh đi mưa ở Hà Nội. Khi mưa to, tầm nhìn giảm và nước che khuất nhiều nắp cống, nên tốc độ chung phải chậm lại rõ rệt; bạn có thể tham khảo thêm cách [giảm tốc và dùng đèn khi mưa lớn](/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-den/).
 
 Với khách nước ngoài hoặc người mới lên Hà Nội, các tuyến thi công thay đổi khá nhanh. Khi trời mưa, nếu có thể, chọn tuyến ít công trường hơn dù phải đi vòng một chút. Ngõ nhỏ khu phố cổ cũng có nhiều nắp cống nhỏ nằm sát nhau, nên khi rẽ vào ngõ lúc trời ướt, hãy rẽ xong rồi mới đi qua nắp, không vừa rẽ vừa cán lên chúng.
 
-Trước khi ra đường trong ngày mưa nhẹ, việc [chuẩn bị áo mưa, giày và xe khi trời mưa nhỏ](/ky-nang/2026/10/10/i-xe-may-luc-troi-mua-nho-can-chuan-bi-gi/) cũng giúp bạn đi tự tin hơn.
+Trước khi ra đường trong ngày mưa nhẹ, việc [chuẩn bị áo mưa, giày và xe khi trời mưa nhỏ](/ky-nang/2026/10/10/di-xe-may-luc-troi-mua-nho-can-chuan-bi-gi/) cũng giúp bạn đi tự tin hơn.
 
 ## Lưu ý với xe máy thuê
 

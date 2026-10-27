@@ -53,7 +53,7 @@ Nếu được, hãy chạy theo vệt bánh xe trước để lại, nơi thóc
 
 Với xe số như Honda Wave, về số thấp trước đoạn phơi, nhả ga nhẹ khi đổi số rồi giữ nguyên số tới khi qua hết. Xe tay ga chỉ cần giữ ga ổn định, không nhấp nhả.
 
-Cảm giác bánh “bồng bềnh” này cũng gặp trên [vạch sơn đường ướt dễ trượt bánh](/ky-nang/2026/10/11/i-xe-may-tren-vach-son-uong-uot-tranh-truot-banh/): mặt tiếp xúc kém, nên mọi thao tác càng nhẹ càng an toàn.
+Cảm giác bánh “bồng bềnh” này cũng gặp trên [vạch sơn đường ướt dễ trượt bánh](/ky-nang/2026/10/11/di-xe-may-tren-vach-son-duong-uot-tranh-truot-banh/): mặt tiếp xúc kém, nên mọi thao tác càng nhẹ càng an toàn.
 
 ## Rơm cuốn vào bánh xe máy: phòng trước, xử lý sau
 
@@ -84,7 +84,7 @@ Cách xử lý an toàn:
 - Khi vượt, bấm còi nhẹ báo hiệu, để ý người lái có thể không nghe thấy vì tiếng máy ồn.
 - Cẩn thận bùn đất rơi từ bánh máy gặt xuống mặt đường, đặc biệt đoạn đường dẫn từ ruộng ra.
 
-Nhiều máy nông nghiệp rất ít đèn, nên về muộn thì chạy chậm hẳn và để ý khối tối đỗ bên lề. Bụi rơm, bụi đất cũng làm tầm nhìn kém, xem thêm cách [chạy xe khi mặt đường nhiều bụi mùa hanh khô](/ky-nang/2026/10/09/mua-hanh-kho-mat-uong-nhieu-bui-chay-xe-can-than-gi/).
+Nhiều máy nông nghiệp rất ít đèn, nên về muộn thì chạy chậm hẳn và để ý khối tối đỗ bên lề. Bụi rơm, bụi đất cũng làm tầm nhìn kém, xem thêm cách [chạy xe khi mặt đường nhiều bụi mùa hanh khô](/ky-nang/2026/10/09/mua-hanh-kho-mat-duong-nhieu-bui-chay-xe-can-than-gi/).
 
 ## Đi qua sân phơi thóc sao cho phải phép
 
