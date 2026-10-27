@@ -48,7 +48,7 @@ Nổ máy, bóp giữ phanh sau, rồi:
 - **Chạy thẳng giữ ga đều:** chọn một đoạn chừng vài chục mét, chạy ở tốc độ đi bộ nhanh, mắt nhìn xa về phía trước chứ không nhìn bánh xe.
 - **Nhả ga và tăng ga lại:** tập nhả ga cho xe trôi, rồi vặn lại từ từ, để cảm nhận độ trễ của máy nhỏ.
 
-Với xe ga 50cc, lỗi hay gặp là vặn ga giật khiến xe chồm lên. Với xe số 50cc, hãy tập vào số 1, nhả phanh rồi tăng ga, sau đó lên số khi xe đã chạy ổn. Nếu bạn thấy xe tăng tốc chậm hơn mình nghĩ, đó là đặc điểm bình thường của máy nhỏ; cách xử lý khi ra ngã tư có trong bài [xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-ong-cach-xuat-phat-khi-en-xanh-bat/).
+Với xe ga 50cc, lỗi hay gặp là vặn ga giật khiến xe chồm lên. Với xe số 50cc, hãy tập vào số 1, nhả phanh rồi tăng ga, sau đó lên số khi xe đã chạy ổn. Nếu bạn thấy xe tăng tốc chậm hơn mình nghĩ, đó là đặc điểm bình thường của máy nhỏ; cách xử lý khi ra ngã tư có trong bài [xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-dong-cach-xuat-phat-khi-den-xanh-bat/).
 
 ## Bài 3: phanh và dừng đúng điểm
 

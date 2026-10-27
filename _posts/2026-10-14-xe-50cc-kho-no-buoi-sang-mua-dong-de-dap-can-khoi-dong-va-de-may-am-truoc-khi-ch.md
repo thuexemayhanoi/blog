@@ -77,7 +77,7 @@ Cố đề thêm không phải lúc nào cũng tốt. Gọi tiệm khi gặp m�
 - Cần đạp cứng đơ hoặc trượt tự do, không có lực nén.
 - Máy nổ nhưng có tiếng gõ lạ hoặc khói dày kéo dài, hoặc tắt đi tắt lại nhiều lần trong vài phút đầu.
 
-Khi gọi, hãy tả hiện tượng: tiếng đề ra sao, đèn sáng hay mờ, đã đạp cần chưa, xe đỗ ở đâu. Bài [xe thuê không nổ máy buổi sáng: chẩn đoán nhanh trước khi gọi](/xe-may/2026/10/01/xe-thue-khong-no-may-buoi-sang-chan-oan-nhanh-truoc-khi-goi/) liệt kê thêm cách mô tả triệu chứng. Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, hoạt động từ 09:00 đến 21:00; việc hỗ trợ ngoài giờ không có, và thời gian, chi phí nếu cần người tới xem xe sẽ được xác nhận với bạn trước.
+Khi gọi, hãy tả hiện tượng: tiếng đề ra sao, đèn sáng hay mờ, đã đạp cần chưa, xe đỗ ở đâu. Bài [xe thuê không nổ máy buổi sáng: chẩn đoán nhanh trước khi gọi](/xe-may/2026/10/01/xe-thue-khong-no-may-buoi-sang-chan-doan-nhanh-truoc-khi-goi/) liệt kê thêm cách mô tả triệu chứng. Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, hoạt động từ 09:00 đến 21:00; việc hỗ trợ ngoài giờ không có, và thời gian, chi phí nếu cần người tới xem xe sẽ được xác nhận với bạn trước.
 
 Nếu bạn cần xe cho chuyến sớm hơn giờ tiệm mở cửa, hãy thử khởi động từ tối hôm trước để biết xe đang khỏe hay yếu, còn kịp báo trong giờ làm việc.
 

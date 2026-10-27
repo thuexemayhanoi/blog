@@ -50,7 +50,7 @@ Với xe 50cc dạng tay ga có sàn để chân phẳng, bạn có nhiều lự
 - Khi chạy đường thẳng thông thoáng, có thể nhích bàn chân lên phía trước sàn một lúc cho gối duỗi ra.
 - Không để chân thò ra ngoài mép sàn hay gác lên chỗ không dành cho chân, nhất là khi đi qua ngõ hẹp hoặc chợ đông.
 
-Một bài thử nhanh ngay ở tiệm: ngồi lên xe, đánh lái hết sang trái rồi hết sang phải. Nếu gối vẫn chạm, hãy lùi thêm hoặc hỏi tiệm đổi một chiếc khác. Cách thử độ cao yên và chạm chân được nói kỹ hơn trong bài [chọn xe thuê theo chiều cao người lái](/xe-may/2026/10/09/chon-xe-thue-theo-chieu-cao-nguoi-lai-sao-cho-ung/).
+Một bài thử nhanh ngay ở tiệm: ngồi lên xe, đánh lái hết sang trái rồi hết sang phải. Nếu gối vẫn chạm, hãy lùi thêm hoặc hỏi tiệm đổi một chiếc khác. Cách thử độ cao yên và chạm chân được nói kỹ hơn trong bài [chọn xe thuê theo chiều cao người lái](/xe-may/2026/10/09/chon-xe-thue-theo-chieu-cao-nguoi-lai-sao-cho-dung/).
 
 ## Khi chạy xa hơn thường lệ: đổi tư thế và chia chặng
 
@@ -61,11 +61,11 @@ Một bài thử nhanh ngay ở tiệm: ngồi lên xe, đánh lái hết sang t
 - **Xoay vai, nghiêng cổ nhẹ ở các điểm dừng.** Những ngã tư chờ lâu là lúc tốt để thả lỏng cổ và vai.
 - **Chia quãng đường thành chặng ngắn.** Với xe nhỏ, người cao nên dừng sớm hơn so với khi đi xe lớn, đứng dậy đi bộ vài phút rồi mới chạy tiếp.
 
-Nếu lưng đã nhức, đừng cố đi nốt quãng còn lại. Các bài giãn cơ và cách chọn điểm dừng chân có trong bài [đau lưng trên chuyến xe máy dài](/ky-nang/2026/10/11/au-lung-tren-chuyen-xe-may-dai-tu-the-ngoi-va-iem-dung-chan/).
+Nếu lưng đã nhức, đừng cố đi nốt quãng còn lại. Các bài giãn cơ và cách chọn điểm dừng chân có trong bài [đau lưng trên chuyến xe máy dài](/ky-nang/2026/10/11/dau-lung-tren-chuyen-xe-may-dai-tu-the-ngoi-va-diem-dung-chan/).
 
 ## Chở thêm người và đồ: người cao cần tính thêm
 
-Khi người cao ngồi lùi về sau yên, phần yên còn lại cho người ngồi sau bị thu hẹp. Trên xe 50cc vốn đã ngắn, chở thêm một người sẽ đẩy người lái về trước, quay lại đúng tư thế gò bó vừa tránh. Nếu định đi hai người, hãy ngồi thử cả hai ngay tại tiệm và xem bài [xe 50cc chở hai người được không](/xe-may/2026/10/07/xe-50cc-cho-hai-nguoi-co-uoc-khong/) trước khi quyết định.
+Khi người cao ngồi lùi về sau yên, phần yên còn lại cho người ngồi sau bị thu hẹp. Trên xe 50cc vốn đã ngắn, chở thêm một người sẽ đẩy người lái về trước, quay lại đúng tư thế gò bó vừa tránh. Nếu định đi hai người, hãy ngồi thử cả hai ngay tại tiệm và xem bài [xe 50cc chở hai người được không](/xe-may/2026/10/07/xe-50cc-cho-hai-nguoi-co-duoc-khong/) trước khi quyết định.
 
 Về đồ đạc, đừng nhét túi to vào sàn để chân vì nó chiếm đúng chỗ người cao cần để đặt chân. Ba lô đeo sau lưng cũng kéo vai ra sau và làm lưng mỏi nhanh hơn. Đồ nhỏ nên để trong cốp, đồ lớn cân nhắc buộc gọn hoặc mang ít lại.
 

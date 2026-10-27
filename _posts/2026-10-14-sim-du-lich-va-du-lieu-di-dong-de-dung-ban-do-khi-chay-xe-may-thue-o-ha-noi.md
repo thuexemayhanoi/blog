@@ -60,7 +60,7 @@ Dẫn đường tốn ít dữ liệu hơn bạn nghĩ, thứ ngốn dữ liệu
 
 ### Tải bản đồ ngoại tuyến làm phương án dự phòng
 
-Kể cả khi có mạng, hãy tải trước bản đồ khu vực Hà Nội vào máy. Ở những ngõ hẹp nhà cao san sát trong phố cổ, quanh Hàng Bạc hay Hàng Đào, định vị có thể lệch vài chục mét; ra ven đê sông Hồng hay các bãi giữa sông, sóng có thể chập chờn. Bản đồ ngoại tuyến giúp bạn vẫn thấy mình đang ở đâu khi mạng yếu. Cách chọn và cài ứng dụng bản đồ có tiếng Anh có trong bài [ứng dụng bản đồ tiếng Anh cho khách quốc tế](/thue-xe/2026/09/30/ung-dung-ban-o-tieng-anh-cho-khach-quoc-te-thue-xe-may/).
+Kể cả khi có mạng, hãy tải trước bản đồ khu vực Hà Nội vào máy. Ở những ngõ hẹp nhà cao san sát trong phố cổ, quanh Hàng Bạc hay Hàng Đào, định vị có thể lệch vài chục mét; ra ven đê sông Hồng hay các bãi giữa sông, sóng có thể chập chờn. Bản đồ ngoại tuyến giúp bạn vẫn thấy mình đang ở đâu khi mạng yếu. Cách chọn và cài ứng dụng bản đồ có tiếng Anh có trong bài [ứng dụng bản đồ tiếng Anh cho khách quốc tế](/thue-xe/2026/09/30/ung-dung-ban-do-tieng-anh-cho-khach-quoc-te-thue-xe-may/).
 
 ### Đặt lộ trình trước, không thao tác khi đang chạy
 
@@ -82,6 +82,6 @@ Tiệm làm việc trong giờ 09:00–21:00. Nếu bạn cần nhận xe tận 
 
 ## Đi theo nhóm hai xe: mỗi máy một kết nối
 
-Khi hai người đi hai xe, nhiều nhóm chỉ mua một SIM rồi phát wifi cho máy còn lại. Cách này tiết kiệm nhưng rủi ro: hai xe tách nhau qua một ngã tư là máy thứ hai mất mạng ngay, và máy phát wifi hao pin rất nhanh. Tốt hơn là mỗi người một kết nối riêng, cùng tải bản đồ ngoại tuyến và thống nhất điểm hẹn nếu lạc nhau. Bài [hai xe đi cùng nhau ở Hà Nội](/thue-xe/2026/10/11/hai-xe-i-cung-nhau-o-ha-noi-giu-lien-lac-va-khong-lac-nhau-giua-dong-xe/) có thêm cách giữ liên lạc giữa dòng xe.
+Khi hai người đi hai xe, nhiều nhóm chỉ mua một SIM rồi phát wifi cho máy còn lại. Cách này tiết kiệm nhưng rủi ro: hai xe tách nhau qua một ngã tư là máy thứ hai mất mạng ngay, và máy phát wifi hao pin rất nhanh. Tốt hơn là mỗi người một kết nối riêng, cùng tải bản đồ ngoại tuyến và thống nhất điểm hẹn nếu lạc nhau. Bài [hai xe đi cùng nhau ở Hà Nội](/thue-xe/2026/10/11/hai-xe-di-cung-nhau-o-ha-noi-giu-lien-lac-va-khong-lac-nhau-giua-dong-xe/) có thêm cách giữ liên lạc giữa dòng xe.
 
 Chuẩn bị kết nối đúng từ đầu, bạn sẽ dùng bản đồ thoải mái, nhắn được cho chủ xe và gọi được trợ giúp khi cần. Các hướng dẫn khác cho khách nước ngoài tự lái có ở mục [thuê xe cho khách quốc tế](/thue-xe/khach-quoc-te/), còn toàn bộ kinh nghiệm thuê xe nằm trong chuyên mục [thuê xe](/thue-xe/).

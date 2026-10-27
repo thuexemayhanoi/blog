@@ -38,7 +38,7 @@ Về lựa chọn xe, xe số cho phép bạn về số thấp để máy hãm b
 
 ## Từ Hà Nội lên Tam Đảo: nhịp đi và giờ xuất phát
 
-Hướng phổ biến từ Hà Nội lên Tam Đảo là qua cầu Nhật Tân hoặc tầng dưới cầu Thăng Long sang Đông Anh, Mê Linh, rồi theo quốc lộ qua Phúc Yên, Vĩnh Yên và rẽ lên thị trấn Hợp Châu ở chân núi. Lưu ý không đi lên đường Vành đai 3 trên cao và cầu Thanh Trì vì hai tuyến này cấm xe máy. Phần mô tả từng chặng, thời gian và điểm dừng đã có trong bài [cung đường và thời gian lên Tam Đảo](/cung-duong/2026/10/10/ha-noi-i-tam-ao-bang-xe-may-cung-uong-va-thoi-gian/).
+Hướng phổ biến từ Hà Nội lên Tam Đảo là qua cầu Nhật Tân hoặc tầng dưới cầu Thăng Long sang Đông Anh, Mê Linh, rồi theo quốc lộ qua Phúc Yên, Vĩnh Yên và rẽ lên thị trấn Hợp Châu ở chân núi. Lưu ý không đi lên đường Vành đai 3 trên cao và cầu Thanh Trì vì hai tuyến này cấm xe máy. Phần mô tả từng chặng, thời gian và điểm dừng đã có trong bài [cung đường và thời gian lên Tam Đảo](/cung-duong/2026/10/10/ha-noi-di-tam-dao-bang-xe-may-cung-duong-va-thoi-gian/).
 
 Với khách quốc tế, lời khuyên quan trọng nhất về giờ giấc là xuất phát sớm và tính đường về rộng rãi. Tiệm mở cửa từ 09:00 đến 21:00, nên nếu thuê theo ngày, hãy hỏi trước giờ nhận và trả xe để lịch trình không bị kẹt. Đừng lên kế hoạch xuống đèo khi trời đã tối: đường núi không có đèn chiếu sáng liên tục, và sương buổi chiều thường dày hơn buổi sáng.
 
@@ -66,7 +66,7 @@ Sương mù có thể phủ đèo chỉ trong vài phút. Khi gặp sương:
 - Giảm tốc đến mức bạn dừng kịp trong khoảng mình nhìn thấy.
 - Bám vạch kẻ đường hoặc mép đường phía phải, bóp còi ngắn trước những khúc cua khuất.
 
-Mặt đường trong sương thường ướt và trơn hơn vẻ ngoài, đặc biệt ở đoạn có lá rụng hoặc rêu. Bài [sương mù sáng sớm trên đường đèo](/ky-nang/2026-09-29/suong-mu-sang-som-tren-uong-eo/) có thêm tình huống cụ thể.
+Mặt đường trong sương thường ướt và trơn hơn vẻ ngoài, đặc biệt ở đoạn có lá rụng hoặc rêu. Bài [sương mù sáng sớm trên đường đèo](/ky-nang/2026-09-29/suong-mu-sang-som-tren-duong-deo/) có thêm tình huống cụ thể.
 
 ## Đồ mang theo cho khách quốc tế
 

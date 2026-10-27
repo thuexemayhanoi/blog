@@ -49,7 +49,7 @@ Con số cọc là chuyện hai bên xác nhận trực tiếp, bài này không
 - **"Trường hợp nào bị trừ cọc?"**
 - **"Đặt cọc bằng đô được không?"**
 
-Đừng tự giả định hộ chiếu có bị giữ hay không. Mỗi nơi làm một kiểu, nên hỏi rõ và xin biên nhận cho mọi thứ bạn để lại. Phần ngoại tệ và chuyển khoản đã có bài [đặt cọc thuê xe máy cho khách quốc tế](/thue-xe/2026/10/11/at-coc-thue-xe-may-cho-khach-quoc-te-ngoai-te-va-chuyen-khoan/).
+Đừng tự giả định hộ chiếu có bị giữ hay không. Mỗi nơi làm một kiểu, nên hỏi rõ và xin biên nhận cho mọi thứ bạn để lại. Phần ngoại tệ và chuyển khoản đã có bài [đặt cọc thuê xe máy cho khách quốc tế](/thue-xe/2026/10/11/dat-coc-thue-xe-may-cho-khach-quoc-te-ngoai-te-va-chuyen-khoan/).
 
 ## Hỏi về trầy xước, hỏng hóc và va quệt
 

@@ -27,7 +27,7 @@ Xe 50cc đáp ứng gần hết những điều đó. Bù lại, nó có vài đ
 - **Bánh nhỏ, nhạy với nắp cống và gạch lát lồi lõm**, rất hay gặp ở các phố như Tạ Hiện hay đoạn gần chợ Đồng Xuân.
 - **Còi và đèn nhỏ**, người đi bộ quay lưng lại ít khi nghe thấy, nên bạn phải chủ động giảm tốc thay vì trông chờ họ tránh.
 
-Cách chạy trên đường lớn có trong bài [thuê xe 50cc đi phố Hà Nội: nhẹ, chậm và đúng làn](/xe-may/2026/10/11/thue-xe-50cc-i-pho-ha-noi-nhe-cham-va-ung-lan/).
+Cách chạy trên đường lớn có trong bài [thuê xe 50cc đi phố Hà Nội: nhẹ, chậm và đúng làn](/xe-may/2026/10/11/thue-xe-50cc-di-pho-ha-noi-nhe-cham-va-dung-lan/).
 
 ## Trước khi vào phố: chuẩn bị ở ngoài rìa khu phố cổ
 
@@ -35,7 +35,7 @@ Cách chạy trên đường lớn có trong bài [thuê xe 50cc đi phố Hà N
 
 1. **Xác định điểm đến và nơi gửi xe.** Nhiều hàng quán không có chỗ để xe trước cửa, gửi xe rồi đi bộ quãng cuối thường nhanh hơn chạy vòng tìm chỗ.
 2. **Xem trước hướng lộ trình.** Bản đồ trên điện thoại chỉ để tham khảo, biển báo ngoài thực tế mới là căn cứ.
-3. **Kiểm tra giờ phố đi bộ.** Tối cuối tuần, quanh hồ Hoàn Kiếm và một số phố trong khu cổ được tổ chức thành không gian đi bộ, xe máy không được vào. Chi tiết về khung giờ xem bài [lái xe trong phố cổ: giờ cấm cần biết trước khi đi](/du-lich/2026/09/28/lai-xe-trong-pho-co-gio-cam-can-biet-gi-truoc-khi-i/).
+3. **Kiểm tra giờ phố đi bộ.** Tối cuối tuần, quanh hồ Hoàn Kiếm và một số phố trong khu cổ được tổ chức thành không gian đi bộ, xe máy không được vào. Chi tiết về khung giờ xem bài [lái xe trong phố cổ: giờ cấm cần biết trước khi đi](/du-lich/2026/09/28/lai-xe-trong-pho-co-gio-cam-can-biet-gi-truoc-khi-di/).
 
 Về giấy tờ và điều kiện người lái xe 50cc, quy định đã có thay đổi theo luật mới, nên hãy kiểm tra quy định hiện hành và hỏi lại tiệm lúc nhận xe thay vì dựa vào thông tin cũ trên mạng.
 
@@ -52,7 +52,7 @@ Biển thường gắn trên cột điện, đôi khi bị biển hiệu cửa h
 
 ### Lỡ vào ngược chiều thì làm gì
 
-Nếu nhận ra mình đang đi ngược, đừng cố chạy cho hết phố. Tấp sát lề, tắt máy và dắt bộ xe về đầu phố hoặc tới ngã rẽ gần nhất. Đây chính là lúc lợi thế của xe 50cc phát huy: xe nhẹ, dắt quay đầu trong phố hẹp không tốn sức. Mẹo xoay xe trong không gian chật có thêm ở bài [quay đầu xe trong ngõ phố cổ](/ky-nang/2026/09/29/quay-au-xe-trong-ngo-pho-co-meo-cho-xe-may/).
+Nếu nhận ra mình đang đi ngược, đừng cố chạy cho hết phố. Tấp sát lề, tắt máy và dắt bộ xe về đầu phố hoặc tới ngã rẽ gần nhất. Đây chính là lúc lợi thế của xe 50cc phát huy: xe nhẹ, dắt quay đầu trong phố hẹp không tốn sức. Mẹo xoay xe trong không gian chật có thêm ở bài [quay đầu xe trong ngõ phố cổ](/ky-nang/2026/09/29/quay-dau-xe-trong-ngo-pho-co-meo-cho-xe-may/).
 
 ## Đi xe máy trong phố cổ qua ngõ hẹp và đoạn đông hàng quán
 

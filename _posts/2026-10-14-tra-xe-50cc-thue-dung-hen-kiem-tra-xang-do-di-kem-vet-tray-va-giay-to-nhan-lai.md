@@ -21,7 +21,7 @@ Sắp hết hạn thuê và chuẩn bị trả xe 50cc thuê, nhiều người c
 
 Mở lại tin nhắn hoặc giấy biên nhận lúc thuê xe, xem ba điều: giờ hẹn trả, mức xăng khi nhận, và danh sách đồ đi kèm. Nếu lúc nhận xe bạn đã chụp ảnh đồng hồ xăng và thân xe như bài [nhận xe 50cc thuê trong năm phút](/xe-may/2026/10/14/nhan-xe-50cc-thue-kiem-tra-phanh-lop-den-coi-va-guong-trong-nam-phut-truoc-khi-d/) gợi ý, hãy để sẵn các ảnh đó trong điện thoại.
 
-Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa từ 09:00 đến 21:00. Nếu giờ hẹn rơi sát lúc đóng cửa, hãy nhắn trước để thống nhất lại, đừng để tới phút cuối. Muốn trả ở nơi khác hay nhờ người tới nhận xe thì phải hỏi trước, vì thời gian và chi phí giao nhận cần được xác nhận trước, và không có nhận xe ngoài giờ hoạt động. Cách tính giờ đi ngược từ giờ hẹn có trong bài [trả xe máy thuê đúng giờ hẹn](/thue-xe/2026/10/10/tra-xe-may-thue-ung-gio-hen-can-chuan-bi-gi/).
+Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa từ 09:00 đến 21:00. Nếu giờ hẹn rơi sát lúc đóng cửa, hãy nhắn trước để thống nhất lại, đừng để tới phút cuối. Muốn trả ở nơi khác hay nhờ người tới nhận xe thì phải hỏi trước, vì thời gian và chi phí giao nhận cần được xác nhận trước, và không có nhận xe ngoài giờ hoạt động. Cách tính giờ đi ngược từ giờ hẹn có trong bài [trả xe máy thuê đúng giờ hẹn](/thue-xe/2026/10/10/tra-xe-may-thue-dung-gio-hen-can-chuan-bi-gi/).
 
 ## Xăng: bình nhỏ của xe 50cc tụt nhanh hơn bạn nghĩ
 

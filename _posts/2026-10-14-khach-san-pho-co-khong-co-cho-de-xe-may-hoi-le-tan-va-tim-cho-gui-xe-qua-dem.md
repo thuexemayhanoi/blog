@@ -35,7 +35,7 @@ Hỏi theo thứ tự này:
 4. **"Ai đi gửi: tôi tự đi hay nhân viên giúp?"** Có khách sạn nhận chìa khóa và cho nhân viên dắt xe đi gửi. Nếu vậy, hãy hỏi rõ ai giữ chìa và vé gửi.
 5. **"Có cần mang theo giấy tờ gì khi lấy xe không?"**
 
-Nếu bạn thuê xe điện, cần hỏi thêm chuyện sạc pin, xem bài [khách sạn phố cổ và xe điện thuê](/xe-may/2026/10/11/khach-san-pho-co-va-xe-ien-thue-hoi-le-tan-gi-ve-cho-e-xe-o-sac/). Đừng ngại hỏi lại khi câu trả lời mơ hồ. Bạn chỉ cần đủ thông tin để biết đêm nay xe ở đâu, ai chịu trách nhiệm, và sáng mai lấy lúc nào.
+Nếu bạn thuê xe điện, cần hỏi thêm chuyện sạc pin, xem bài [khách sạn phố cổ và xe điện thuê](/xe-may/2026/10/11/khach-san-pho-co-va-xe-dien-thue-hoi-le-tan-gi-ve-cho-de-xe-o-sac/). Đừng ngại hỏi lại khi câu trả lời mơ hồ. Bạn chỉ cần đủ thông tin để biết đêm nay xe ở đâu, ai chịu trách nhiệm, và sáng mai lấy lúc nào.
 
 Một lưu ý về chi phí: chúng tôi không nêu giá gửi xe vì mỗi bãi mỗi khác và có thay đổi theo thời gian. Hãy hỏi trực tiếp và nhận vé trước khi giao xe.
 
@@ -48,7 +48,7 @@ Nếu khách sạn không giúp được, bạn tự tìm. Một số gợi ý t
 - **Ưu tiên bãi gần đường lớn**, ví dụ phía Hàng Đào, Lương Văn Can hay quanh chợ Đồng Xuân, nếu sáng mai bạn định đi xa. Lấy xe xong không phải dắt qua nhiều ngõ nhỏ.
 - **Tránh dựng xe ở vỉa hè không người trông.** Ngoài nguy cơ mất trộm, xe để sai chỗ có thể bị lực lượng chức năng xử lý, và khách thuê xe là người phải đi giải quyết.
 
-Tìm kiếm trên Google Maps với từ "gửi xe" cũng cho ra vài kết quả, nhưng thông tin giờ mở cửa trên đó không phải lúc nào cũng đúng. Hãy đi bộ tới tận nơi hỏi trước khi trời tối. Bài [gửi xe qua đêm ở phố cổ Hà Nội và lưu ý](/ky-nang/2026/09/30/gui-xe-qua-em-o-pho-co-ha-noi-gia-va-luu-y/) có thêm tiêu chí chọn bãi.
+Tìm kiếm trên Google Maps với từ "gửi xe" cũng cho ra vài kết quả, nhưng thông tin giờ mở cửa trên đó không phải lúc nào cũng đúng. Hãy đi bộ tới tận nơi hỏi trước khi trời tối. Bài [gửi xe qua đêm ở phố cổ Hà Nội và lưu ý](/ky-nang/2026/09/30/gui-xe-qua-dem-o-pho-co-ha-noi-gia-va-luu-y/) có thêm tiêu chí chọn bãi.
 
 ## Khi giao xe cho bãi: giữ vé và ghi lại
 
@@ -66,7 +66,7 @@ Nếu bạn nhờ lễ tân gửi hộ, hãy xin họ chụp vé gửi cho bạn
 
 Đây là chỗ hay vấp. Nhiều bãi phố cổ mở cửa muộn hơn bạn nghĩ, hoặc người trông đang ngủ khi bạn đến lúc trời vừa sáng. Nếu bạn có chuyến đi sớm, ví dụ ra Ninh Bình hay sang Long Biên trước giờ cao điểm, hãy nói trước với người trông xe từ tối hôm trước và hỏi rõ giờ có thể lấy.
 
-Cũng lưu ý rằng phố đi bộ quanh hồ Hoàn Kiếm vào buổi tối cuối tuần sẽ chặn xe ở một số tuyến. Nếu bãi của bạn nằm trong khu vực này, kiểm tra trước đường dắt xe ra. Bài [lái xe trong phố cổ giờ cấm](/du-lich/2026/09/28/lai-xe-trong-pho-co-gio-cam-can-biet-gi-truoc-khi-i/) giải thích khung giờ cần tránh.
+Cũng lưu ý rằng phố đi bộ quanh hồ Hoàn Kiếm vào buổi tối cuối tuần sẽ chặn xe ở một số tuyến. Nếu bãi của bạn nằm trong khu vực này, kiểm tra trước đường dắt xe ra. Bài [lái xe trong phố cổ giờ cấm](/du-lich/2026/09/28/lai-xe-trong-pho-co-gio-cam-can-biet-gi-truoc-khi-di/) giải thích khung giờ cần tránh.
 
 ## Báo cho tiệm thuê xe biết bạn gửi xe ở đâu
 

@@ -61,7 +61,7 @@ Khi đã biết xe cần loại nào, phần còn lại khá đơn giản:
 4. **Nhìn vòi bơm trong lúc đổ.** Xác nhận nhân viên cầm đúng vòi. Đây là lúc dễ phát hiện nhầm lẫn nhất.
 5. **Đóng nắp chắc, khép yên, kiểm tra không có xăng tràn quanh miệng bình** rồi mới nổ máy.
 
-Bình xăng xe 50cc nhỏ, đầy rất nhanh. Bảo nhân viên dừng khi xăng gần chạm cổ bình, đừng ép đổ tràn. Cách đọc kim xăng và tính thời điểm ghé trạm được nói kỹ trong bài [xe 50cc bình xăng nhỏ: đọc đồng hồ xăng, đổ khi nào](/xe-may/2026/10/11/xe-50cc-binh-xang-nho-oc-ong-ho-xang-o-khi-nao-va-het-xang-thi-lam-gi/).
+Bình xăng xe 50cc nhỏ, đầy rất nhanh. Bảo nhân viên dừng khi xăng gần chạm cổ bình, đừng ép đổ tràn. Cách đọc kim xăng và tính thời điểm ghé trạm được nói kỹ trong bài [xe 50cc bình xăng nhỏ: đọc đồng hồ xăng, đổ khi nào](/xe-may/2026/10/11/xe-50cc-binh-xang-nho-doc-dong-ho-xang-do-khi-nao-va-het-xang-thi-lam-gi/).
 
 ## Lưu ý riêng khi xe 50cc là xe đang thuê
 

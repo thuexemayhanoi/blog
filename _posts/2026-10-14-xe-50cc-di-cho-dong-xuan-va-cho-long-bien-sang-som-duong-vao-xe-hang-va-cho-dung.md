@@ -47,7 +47,7 @@ Lúc rạng sáng, quanh chợ Long Biên và các phố Trần Nhật Duật, P
 
 Với xe 50cc, quy tắc là đừng chen. Xe nhỏ không có sức bứt lên để thoát khỏi khe hẹp giữa hai xe hàng. Đi sát bên phải, giữ khoảng cách đủ để phanh, nhường hẳn khi thấy xe tải đang lùi. Mặt đường quanh chợ thường ướt vì nước rửa rau và vương lá rau, vỏ quả, nên phanh nhẹ, sớm và tránh ôm cua gắt.
 
-Khung giờ và nhịp hoạt động của chợ đầu mối được nói kỹ trong bài [chợ đầu mối Long Biên buổi sáng sớm bằng xe máy](/du-lich/2026/10/11/cho-au-moi-long-bien-buoi-sang-som-bang-xe-may-i-gio-nao-va-dung-xe-o-au/). Ở đây chỉ cần nhớ: càng gần lúc trời sáng hẳn, xe hàng càng thưa.
+Khung giờ và nhịp hoạt động của chợ đầu mối được nói kỹ trong bài [chợ đầu mối Long Biên buổi sáng sớm bằng xe máy](/du-lich/2026/10/11/cho-dau-moi-long-bien-buoi-sang-som-bang-xe-may-di-gio-nao-va-dung-xe-o-dau/). Ở đây chỉ cần nhớ: càng gần lúc trời sáng hẳn, xe hàng càng thưa.
 
 ## Chỗ dừng: gửi xe có người trông rồi đi bộ
 
@@ -59,7 +59,7 @@ Cách làm an toàn hơn:
 2. **Dựng xe trên nền phẳng, khóa cổ.** Xe 50cc nhẹ, dễ bị xô khi người khác dắt xe ra vào.
 3. **Đi bộ vào chợ.** Một vòng chợ đầu mối hay các dãy hàng quanh Đồng Xuân đều đi bộ thoải mái hơn ngồi trên xe.
 
-Với chợ Đồng Xuân, câu hỏi chợ Đồng Xuân gửi xe ở đâu thường được giải quyết ở các điểm trông xe quanh tòa nhà chợ và phố lân cận. Bài [đến chợ Đồng Xuân bằng xe máy](/du-lich/2026/09/30/en-cho-ong-xuan-bang-xe-may-gui-xe-va-uong-i/) mô tả thêm các tuyến phố quanh chợ.
+Với chợ Đồng Xuân, câu hỏi chợ Đồng Xuân gửi xe ở đâu thường được giải quyết ở các điểm trông xe quanh tòa nhà chợ và phố lân cận. Bài [đến chợ Đồng Xuân bằng xe máy](/du-lich/2026/09/30/den-cho-dong-xuan-bang-xe-may-gui-xe-va-duong-di/) mô tả thêm các tuyến phố quanh chợ.
 
 ## Thứ tự gợi ý cho một buổi sáng
 
@@ -80,7 +80,7 @@ Xe 50cc hợp với chuyến chợ nhỏ: vài túi trái cây, ít đồ khô, 
 - **Không cầm túi trên tay khi lái,** không buộc đồ cao trên yên sau che đèn hậu.
 - **Trái cây mềm để trên cùng,** đồ cứng, đồ đóng hộp để dưới.
 
-Mức chở thế nào là vừa sức cho xe nhỏ được phân tích trong bài [chở đồ đi chợ, siêu thị bằng xe 50cc](/xe-may/2026/10/11/cho-o-i-cho-sieu-thi-bang-xe-50cc-cop-nho-moc-treo-va-muc-cho-vua-suc/).
+Mức chở thế nào là vừa sức cho xe nhỏ được phân tích trong bài [chở đồ đi chợ, siêu thị bằng xe 50cc](/xe-may/2026/10/11/cho-do-di-cho-sieu-thi-bang-xe-50cc-cop-nho-moc-treo-va-muc-cho-vua-suc/).
 
 Đường về Long Biên, nếu đã chở đồ, bạn có thể chọn cầu Chương Dương, mặt đường phẳng hơn cầu Long Biên. Đi lúc phố còn thưa xe, trước giờ cao điểm buổi sáng, sẽ nhẹ nhàng nhất.
 

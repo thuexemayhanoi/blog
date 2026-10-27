@@ -49,7 +49,7 @@ Một số hiện tượng ít gấp hơn, nhưng vẫn cần báo cửa hàng t
 
 - **Hụt ga nhẹ, xe ì hơn bình thường** nhưng vẫn giữ được tốc độ thấp ổn định.
 - **Tiếng lạch cạch nhỏ ở ốp nhựa, giỏ hay gương** khi đi qua gờ giảm tốc, không thay đổi theo tốc độ máy.
-- **Đèn báo xăng sáng và xe bắt đầu ngập ngừng.** Rất có thể chỉ là sắp hết xăng; xem cách xử lý trong bài [xe 50cc bình xăng nhỏ và cách đổ xăng](/xe-may/2026/10/11/xe-50cc-binh-xang-nho-oc-ong-ho-xang-o-khi-nao-va-het-xang-thi-lam-gi/).
+- **Đèn báo xăng sáng và xe bắt đầu ngập ngừng.** Rất có thể chỉ là sắp hết xăng; xem cách xử lý trong bài [xe 50cc bình xăng nhỏ và cách đổ xăng](/xe-may/2026/10/11/xe-50cc-binh-xang-nho-doc-dong-ho-xang-do-khi-nao-va-het-xang-thi-lam-gi/).
 - **Xe hơi giật sau khi chạy qua đoạn nước ngập**, rồi êm dần. Trường hợp này có cách xử lý riêng trong bài [xe 50cc gặp mưa lớn và phố ngập](/xe-may/2026/10/14/xe-50cc-gap-mua-lon-va-pho-ngap-di-qua-nuoc-the-nao-de-xe-khong-chet-may/).
 
 "Chạy chậm về" nghĩa là đi sát lề phải, bật xi nhan, không vượt, và dừng ở chỗ an toàn gần nhất để nhắn cửa hàng. Nếu triệu chứng nặng hơn trên đường đi, chuyển sang xử lý như nhóm phải dừng ngay.
@@ -89,7 +89,7 @@ Một tin nhắn rõ ràng giúp cửa hàng đánh giá nhanh và hướng dẫ
 
 Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00. Cách hỗ trợ cụ thể, chẳng hạn hướng dẫn qua điện thoại hay hẹn xử lý, sẽ được xác nhận trực tiếp tùy tình huống và vị trí của bạn. Hãy chờ hướng dẫn trước khi tự quyết định đưa xe đi đâu.
 
-Tình huống giật cục khi vừa ra ga ở ngã tư trên xe ga cỡ lớn hơn có điểm khác, được phân tích trong bài [xe ga thuê giật cục khi vừa bóp ga](/thue-xe/2026/10/13/xe-ga-thue-giat-cuc-khi-vua-bop-ga-luc-en-xanh-bat-dau-hieu-can-bao-cua-hang/).
+Tình huống giật cục khi vừa ra ga ở ngã tư trên xe ga cỡ lớn hơn có điểm khác, được phân tích trong bài [xe ga thuê giật cục khi vừa bóp ga](/thue-xe/2026/10/13/xe-ga-thue-giat-cuc-khi-vua-bop-ga-luc-den-xanh-bat-dau-hieu-can-bao-cua-hang/).
 
 ## Tóm lại
 

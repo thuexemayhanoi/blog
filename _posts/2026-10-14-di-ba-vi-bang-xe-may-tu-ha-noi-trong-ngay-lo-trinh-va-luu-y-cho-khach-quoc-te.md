@@ -39,7 +39,7 @@ Từ trung tâm, Ba Vì nằm về phía tây, chạy chừng hai tiếng tùy g
 
 **Quốc lộ 32 qua Nhổn, Phùng và Sơn Tây.** Đường qua nhiều khu dân cư, chợ và ngã ba nên chậm hơn, bù lại đi ngang thị xã Sơn Tây và làng cổ Đường Lâm, hai chỗ dừng chân đáng ghé.
 
-Một vòng hợp lý là đi đường này, về đường kia. Dù chọn hướng nào, hãy đặt Google Maps ở chế độ xe máy, tải bản đồ ngoại tuyến vùng Ba Vì vì sóng điện thoại trên núi có lúc yếu, và gắn điện thoại vào giá đỡ chắc chắn thay vì cầm tay. Bài [ứng dụng bản đồ cho khách quốc tế thuê xe máy](/thue-xe/2026/09/30/ung-dung-ban-o-tieng-anh-cho-khach-quoc-te-thue-xe-may/) có thêm mẹo dùng bản đồ.
+Một vòng hợp lý là đi đường này, về đường kia. Dù chọn hướng nào, hãy đặt Google Maps ở chế độ xe máy, tải bản đồ ngoại tuyến vùng Ba Vì vì sóng điện thoại trên núi có lúc yếu, và gắn điện thoại vào giá đỡ chắc chắn thay vì cầm tay. Bài [ứng dụng bản đồ cho khách quốc tế thuê xe máy](/thue-xe/2026/09/30/ung-dung-ban-do-tieng-anh-cho-khach-quoc-te-thue-xe-may/) có thêm mẹo dùng bản đồ.
 
 Nếu ở bên Long Biên, bạn qua sông bằng cầu Chương Dương hoặc cầu Long Biên rồi đi xuyên phố về phía tây; tránh khung giờ đi làm buổi sáng nếu được.
 
@@ -89,4 +89,4 @@ Nếu xe hỏng giữa đường, dắt xe vào lề an toàn, nhắn cho tiệm
 
 Về tới Hà Nội, nếu định trả xe ngay trong ngày, hãy nhớ tiệm nhận xe trong giờ mở cửa đến 21:00. Nếu về muộn vì kẹt xe, nhắn trước cho tiệm để hẹn trả sáng hôm sau.
 
-Sau Ba Vì, nếu đã tự tin hơn, chuyến xa tiếp theo nhiều khách chọn là [tự lái xe máy từ Hà Nội đi Ninh Bình](/thue-xe/2026/09/30/khach-quoc-te-tu-lai-xe-may-tu-ha-noi-i-ninh-binh/). Các bài khác dành cho người nước ngoài có ở mục [thuê xe cho khách quốc tế](/thue-xe/khach-quoc-te/), còn thủ tục và thông tin chung ở chuyên mục [thuê xe](/thue-xe/).
+Sau Ba Vì, nếu đã tự tin hơn, chuyến xa tiếp theo nhiều khách chọn là [tự lái xe máy từ Hà Nội đi Ninh Bình](/thue-xe/2026/09/30/khach-quoc-te-tu-lai-xe-may-tu-ha-noi-di-ninh-binh/). Các bài khác dành cho người nước ngoài có ở mục [thuê xe cho khách quốc tế](/thue-xe/khach-quoc-te/), còn thủ tục và thông tin chung ở chuyên mục [thuê xe](/thue-xe/).

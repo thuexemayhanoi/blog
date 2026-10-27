@@ -54,14 +54,14 @@ Nếu kính mũ tiệm đưa đã xước làm nhòe đèn xe ngược chiều, 
 Chạy xe máy trời nồm không cần kỹ năng đặc biệt, chỉ cần chủ động chậm hơn ngày khô:
 
 - **Đi chậm hơn dòng xe một chút.** Người Hà Nội quen đường và quen cảm giác bánh xe khi trơn; bạn thì chưa. Đi sát bên phải để người khác vượt.
-- **Giãn khoảng cách gấp đôi.** Quãng phanh trên mặt ẩm dài hơn rõ rệt, nên nguyên tắc [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-i-xe-may/) càng quan trọng.
+- **Giãn khoảng cách gấp đôi.** Quãng phanh trên mặt ẩm dài hơn rõ rệt, nên nguyên tắc [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-di-xe-may/) càng quan trọng.
 - **Phanh sớm, bóp từ từ, dùng cả hai phanh**, không giật phanh trước.
 - **Giảm tốc trước khi vào cua**, ít nghiêng xe, nhất là ở vòng xuyến đầu cầu Long Biên phía Gia Lâm.
 - **Tránh dải đường loáng hơn xung quanh**, thường là chỗ đọng nước hoặc dầu.
 
 Còn một thói quen giao thông mà khách nước ngoài cần biết: xe máy ở Hà Nội hay chuyển làn, rẽ hoặc dừng mà không báo trước. Ngày khô bạn còn né kịp; ngày nồm, phản xạ muộn một chút là thành va chạm. Vì vậy hãy chừa khoảng trống cả với người chạy song song hai bên.
 
-Nồm thường nặng nhất vào sáng sớm và chiều tối. Nếu chọn được giờ, dời những đoạn đường lạ sang giữa ngày. Đường ven nước như Âu Cơ, đê Yên Phụ hay Thanh Niên giữa Hồ Tây và hồ Trúc Bạch thường ẩm hơn, đôi khi có sương; bật đèn chiếu gần và đừng dừng đột ngột giữa dòng xe để chụp ảnh. Gặp sương dày, xem thêm bài [sương mù sáng sớm trên đường đê](/ky-nang/2026-09-29/suong-mu-sang-som-tren-uong-eo/).
+Nồm thường nặng nhất vào sáng sớm và chiều tối. Nếu chọn được giờ, dời những đoạn đường lạ sang giữa ngày. Đường ven nước như Âu Cơ, đê Yên Phụ hay Thanh Niên giữa Hồ Tây và hồ Trúc Bạch thường ẩm hơn, đôi khi có sương; bật đèn chiếu gần và đừng dừng đột ngột giữa dòng xe để chụp ảnh. Gặp sương dày, xem thêm bài [sương mù sáng sớm trên đường đê](/ky-nang/2026-09-29/suong-mu-sang-som-tren-duong-deo/).
 
 ## Khi cần hỏi tiệm: trao đổi đơn giản, có ảnh
 

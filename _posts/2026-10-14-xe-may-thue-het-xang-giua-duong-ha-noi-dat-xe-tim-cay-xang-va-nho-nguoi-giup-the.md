@@ -51,7 +51,7 @@ Vài điều về địa hình Hà Nội giúp bạn đoán nhanh:
 - **Các trục lớn** như Nguyễn Văn Cừ bên Long Biên, đường Láng hay Giải Phóng dễ gặp cây xăng hơn phố nhỏ.
 - **Ven đê và khu ngoại thành** như bãi giữa sông Hồng hay các xã ở Gia Lâm, Đông Anh, khoảng cách giữa hai cây xăng có thể xa hơn nhiều so với nội thành.
 
-Nếu điện thoại hết mạng, bản đồ ngoại tuyến tải sẵn sẽ cứu bạn; cách chuẩn bị có trong bài [ứng dụng bản đồ cho khách quốc tế thuê xe máy](/thue-xe/2026/09/30/ung-dung-ban-o-tieng-anh-cho-khach-quoc-te-thue-xe-may/). Lần đầu đổ xăng ở Việt Nam mà còn ngại, xem thêm [khách quốc tế đổ xăng lần đầu ở Việt Nam](/thue-xe/2026/10/03/khach-quoc-te-o-xang-lan-au-o-viet-nam/).
+Nếu điện thoại hết mạng, bản đồ ngoại tuyến tải sẵn sẽ cứu bạn; cách chuẩn bị có trong bài [ứng dụng bản đồ cho khách quốc tế thuê xe máy](/thue-xe/2026/09/30/ung-dung-ban-do-tieng-anh-cho-khach-quoc-te-thue-xe-may/). Lần đầu đổ xăng ở Việt Nam mà còn ngại, xem thêm [khách quốc tế đổ xăng lần đầu ở Việt Nam](/thue-xe/2026/10/03/khach-quoc-te-do-xang-lan-dau-o-viet-nam/).
 
 ## Dắt xe máy hết xăng: tư thế và sức của bạn
 
@@ -75,7 +75,7 @@ Bạn chỉ cần vài câu:
 - "Ở đây có bán xăng không ạ?" Dùng khi thấy tiệm sửa xe hay tạp hóa.
 - "Bao nhiêu tiền ạ?" Hỏi trước khi người ta đổ xăng cho bạn, để hai bên rõ ràng.
 
-Nếu phát âm khó, gõ câu vào ứng dụng dịch rồi đưa màn hình ra. Danh sách câu dài hơn cho các tình huống hỏng xe có trong bài [mẫu câu tiếng Việt đơn giản để nhờ giúp khi xe thuê hỏng](/thue-xe/2026/10/11/mau-cau-tieng-viet-on-gian-e-nho-giup-khi-xe-thue-hong-giua-uong/).
+Nếu phát âm khó, gõ câu vào ứng dụng dịch rồi đưa màn hình ra. Danh sách câu dài hơn cho các tình huống hỏng xe có trong bài [mẫu câu tiếng Việt đơn giản để nhờ giúp khi xe thuê hỏng](/thue-xe/2026/10/11/mau-cau-tieng-viet-don-gian-de-nho-giup-khi-xe-thue-hong-giua-duong/).
 
 Đôi khi một người đi xe máy sẽ đề nghị đặt chân lên gác chân sau xe bạn rồi vừa chạy vừa đẩy tới cây xăng. Đây là cách giúp quen thuộc ở Việt Nam, nhưng đòi hỏi bạn giữ lái thẳng và bình tĩnh. Nếu không tự tin, cứ cảm ơn và từ chối, dắt bộ vẫn an toàn hơn.
 

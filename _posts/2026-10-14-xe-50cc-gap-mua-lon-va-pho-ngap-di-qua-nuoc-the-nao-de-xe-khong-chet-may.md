@@ -73,7 +73,7 @@ Kể cả khi đã cẩn thận, xe nhỏ vẫn có thể tắt máy. Lúc đó,
 3. **Chờ nước rút khỏi xe.** Khi đã ở chỗ khô, để xe đứng một lúc cho nước chảy ra khỏi ống xả. Không tự tháo bugi hay mở hộp lọc gió nếu bạn không quen việc này.
 4. **Báo tiệm cho thuê sớm.** Xe thuê bị ngập nước nên được kiểm tra trước khi chạy tiếp; tiệm sẽ hướng dẫn bước tiếp theo phù hợp với tình trạng xe.
 
-Cách xử lý chi tiết hơn sau khi xe tắt giữa đường ngập có trong bài [đường ngập sau mưa lớn và cách xử lý khi xe chết máy](/thue-xe/2026/10/11/uong-ngap-sau-mua-lon-co-nen-loi-xe-may-qua-va-xu-ly-the-nao-khi-xe-chet-may/).
+Cách xử lý chi tiết hơn sau khi xe tắt giữa đường ngập có trong bài [đường ngập sau mưa lớn và cách xử lý khi xe chết máy](/thue-xe/2026/10/11/duong-ngap-sau-mua-lon-co-nen-loi-xe-may-qua-va-xu-ly-the-nao-khi-xe-chet-may/).
 
 ## Sau chuyến đi mưa: kiểm tra nhanh xe 50cc
 

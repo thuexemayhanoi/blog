@@ -25,7 +25,7 @@ Khách thuê dài ngày có thể lắp chắc chắn hơn, như trong bài [l�
 - **Kẹp chân gương** gắn vào ren dưới gương, đưa màn hình lên gần tầm mắt. Hợp với xe ga, nhưng phải hỏi tiệm trước khi tháo ốc gương.
 - **Túi có màn nhựa** che được mưa phùn nhưng dễ lóa nắng, chỉ nên dùng vào mùa mưa.
 
-Mang giá đỡ từ nhà sang là tiện nhất. Nếu mua ở Hà Nội, thử kẹp chính chiếc máy của mình, cả khi có ốp lưng, rồi mới trả tiền. Trước khi gắn, nhắn hỏi tiệm một câu; cách xin phép và tháo trả có trong bài [gắn giá đỡ lên xe thuê: hỏi cửa hàng và tháo gọn khi trả](/thue-xe/2026/10/12/gan-gia-o-ien-thoai-len-xe-may-thue-hoi-cua-hang-va-thao-gon-khi-tra/).
+Mang giá đỡ từ nhà sang là tiện nhất. Nếu mua ở Hà Nội, thử kẹp chính chiếc máy của mình, cả khi có ốp lưng, rồi mới trả tiền. Trước khi gắn, nhắn hỏi tiệm một câu; cách xin phép và tháo trả có trong bài [gắn giá đỡ lên xe thuê: hỏi cửa hàng và tháo gọn khi trả](/thue-xe/2026/10/12/gan-gia-do-dien-thoai-len-xe-may-thue-hoi-cua-hang-va-thao-gon-khi-tra/).
 
 ## Vị trí đặt máy: liếc thấy đường mà không cúi đầu
 
@@ -50,7 +50,7 @@ Xe máy rung liên tục, cộng thêm những cú dằn ở gờ giảm tốc v
 
 ## Tránh bị giật máy ở chỗ đông
 
-Giật điện thoại thường xảy ra lúc dừng đèn đỏ, lúc tấp lề xem đường hay đi chậm qua phố đông. Máy trên giá đỡ, màn hình sáng rõ, rất dễ bị nhìn thấy. Thói quen chung khi giữ đồ có trong bài [giữ điện thoại và túi xách khi chạy xe máy ở Hà Nội](/thue-xe/2026/10/11/giu-ien-thoai-va-tui-xach-khi-chay-xe-may-o-ha-noi-tranh-bi-giat/); riêng với giá đỡ:
+Giật điện thoại thường xảy ra lúc dừng đèn đỏ, lúc tấp lề xem đường hay đi chậm qua phố đông. Máy trên giá đỡ, màn hình sáng rõ, rất dễ bị nhìn thấy. Thói quen chung khi giữ đồ có trong bài [giữ điện thoại và túi xách khi chạy xe máy ở Hà Nội](/thue-xe/2026/10/11/giu-dien-thoai-va-tui-xach-khi-chay-xe-may-o-ha-noi-tranh-bi-giat/); riêng với giá đỡ:
 
 1. **Buộc dây giữ** từ ốp lưng vào tay lái. Nếu bị giật hay kẹp bung, máy chỉ treo lại chứ không rơi.
 2. **Giữ máy ở phía trong**, không chìa ra phía lề hay phía làn xe bên cạnh.
@@ -63,7 +63,7 @@ Giật điện thoại thường xảy ra lúc dừng đèn đỏ, lúc tấp l�
 Giá đỡ để liếc nhanh, không để thao tác. Đừng cầm hay bấm điện thoại khi xe đang chạy; hãy kiểm tra quy định giao thông hiện hành và nghe hướng dẫn của tiệm. Muốn đổi tuyến, tấp vào chỗ an toàn sát lề rồi mới chạm màn hình. Chuẩn bị trước để ít phải chạm:
 
 - **Nhập điểm đến ngay tại chỗ ở** và xem qua cả tuyến trước khi lên xe.
-- **Tải bản đồ ngoại tuyến** để không mất đường khi sóng yếu dưới gầm cầu hay trong ngõ sâu. Bài [ứng dụng bản đồ tiếng Anh cho khách quốc tế](/thue-xe/2026/09/30/ung-dung-ban-o-tieng-anh-cho-khach-quoc-te-thue-xe-may/) gợi ý cách chọn.
+- **Tải bản đồ ngoại tuyến** để không mất đường khi sóng yếu dưới gầm cầu hay trong ngõ sâu. Bài [ứng dụng bản đồ tiếng Anh cho khách quốc tế](/thue-xe/2026/09/30/ung-dung-ban-do-tieng-anh-cho-khach-quoc-te-thue-xe-may/) gợi ý cách chọn.
 - **Chọn chế độ xe máy** nếu ứng dụng có, để tránh bị dẫn lên cầu Thanh Trì hay Vành đai 3 trên cao, nơi cấm xe máy.
 - **Để màn hình luôn sáng** khi dẫn đường, mỗi lần liếc là đọc được ngay.
 

@@ -43,7 +43,7 @@ Quanh Bách Khoa, Kinh tế Quốc dân và Xây dựng, các phố Đại Cồ 
 
 Trục Nguyễn Trãi có tuyến đường sắt trên cao chạy phía trên, dải phân cách giữa dài, muốn quay đầu thường phải đi một đoạn khá xa. Hãy tính sẵn chỗ quay đầu, đừng quyết định gấp giữa dòng. Chặng từ khu Khương Trung, Khương Đình lên các trường dọc Nguyễn Trãi đi bằng phố nhỏ song song thường dễ chịu hơn bám trục chính.
 
-Nguyên tắc chung: với xe tăng tốc chậm, tuyến ít ngã tư không đèn và ít chỗ chuyển làn quan trọng hơn tuyến ngắn nhất trên bản đồ. Các kỹ năng chạy xe 50cc trong phố có ở bài [thuê xe 50cc đi phố Hà Nội](/xe-may/2026/10/11/thue-xe-50cc-i-pho-ha-noi-nhe-cham-va-ung-lan/).
+Nguyên tắc chung: với xe tăng tốc chậm, tuyến ít ngã tư không đèn và ít chỗ chuyển làn quan trọng hơn tuyến ngắn nhất trên bản đồ. Các kỹ năng chạy xe 50cc trong phố có ở bài [thuê xe 50cc đi phố Hà Nội](/xe-may/2026/10/11/thue-xe-50cc-di-pho-ha-noi-nhe-cham-va-dung-lan/).
 
 ## Chỗ làm thêm buổi tối: chặng về khuya cần tính riêng
 
@@ -61,7 +61,7 @@ Chặng khó nhất trong ngày của nhiều sinh viên không phải đi học
 - **Hỏi ban quản lý ký túc xá về nhà xe.** Mỗi khu có cách quản lý riêng: vé tháng, thẻ gửi xe, giờ đóng mở. Hãy hỏi rõ trước khi nhận xe để không phải để xe ngoài cổng qua đêm.
 - **Nhà trọ:** hỏi chủ nhà xe để ở đâu, có khóa cổng không, có người trông không. Xe để trong nhà xe chung nên dùng thêm khóa đĩa hoặc khóa dây.
 - **Ở trường:** gửi vào bãi xe của trường thay vì dựng ở vỉa hè gần cổng.
-- **Dựng xe cho chắc.** Xe 50cc nhẹ, dễ bị xô đổ khi nhà xe chật. Cách chọn chỗ đỗ cho xe nhẹ có trong bài [xe 50cc nhẹ dễ đổ khi dừng](/xe-may/2026/10/11/xe-50cc-nhe-de-o-khi-dung-chon-cho-o-chong-nghieng-va-chong-ung/).
+- **Dựng xe cho chắc.** Xe 50cc nhẹ, dễ bị xô đổ khi nhà xe chật. Cách chọn chỗ đỗ cho xe nhẹ có trong bài [xe 50cc nhẹ dễ đổ khi dừng](/xe-may/2026/10/11/xe-50cc-nhe-de-do-khi-dung-chon-cho-do-chong-nghieng-va-chong-dung/).
 
 Giữ chìa khóa dự phòng (nếu tiệm giao) ở chỗ riêng, không để chung với chìa khóa phòng. Mất chìa trong tháng thuê là chuyện phiền nhất.
 

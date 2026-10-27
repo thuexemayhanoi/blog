@@ -58,10 +58,10 @@ Trên cầu Long Biên, bạn sẽ thấy ngay vì sao nhiều người gọi đ
 
 Thêm hai điều nữa khi đã ở trên cầu:
 
-- **Đừng dừng giữa làn để chụp ảnh.** Phía sau luôn có xe. Nếu muốn chụp, gửi xe ở bãi gần đầu cầu rồi đi bộ lên lối dành cho người đi bộ, như gợi ý trong bài [đến cầu Long Biên bằng xe máy, gửi xe và đường đi](/du-lich/2026/09/28/en-cau-long-bien-bang-xe-may-gui-xe-va-uong-i/).
+- **Đừng dừng giữa làn để chụp ảnh.** Phía sau luôn có xe. Nếu muốn chụp, gửi xe ở bãi gần đầu cầu rồi đi bộ lên lối dành cho người đi bộ, như gợi ý trong bài [đến cầu Long Biên bằng xe máy, gửi xe và đường đi](/du-lich/2026/09/28/den-cau-long-bien-bang-xe-may-gui-xe-va-duong-di/).
 - **Tàu chạy qua.** Thỉnh thoảng có tàu hỏa chạy trên đường ray giữa cầu, tiếng ồn lớn và rung nhẹ. Cứ giữ làn và đi đều, không cần dừng.
 
-Nếu bạn muốn chọn khung giờ đẹp để ngắm sông từ cầu, xem thêm bài [đi xe máy qua cầu Long Biên lúc nào đẹp nhất](/du-lich/2026/09/30/i-xe-may-qua-cau-long-bien-luc-nao-ep-nhat/).
+Nếu bạn muốn chọn khung giờ đẹp để ngắm sông từ cầu, xem thêm bài [đi xe máy qua cầu Long Biên lúc nào đẹp nhất](/du-lich/2026/09/30/di-xe-may-qua-cau-long-bien-luc-nao-dep-nhat/).
 
 ## Đi cầu Chương Dương xe máy: làn, gió và dốc xuống
 

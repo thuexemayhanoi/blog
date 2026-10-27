@@ -71,7 +71,7 @@ Nền hầm thường sơn bóng, đọng nước vào ngày mưa hoặc ngày n
 - **Nếu phải dừng giữa dốc**, bóp cả hai phanh, chống chân. Khi đi tiếp, giữ phanh sau, vặn ga từ từ đến khi cảm thấy xe muốn tiến, rồi nhả phanh sau dần.
 - **Nếu xe không lên nổi**, đừng cố vặn hết ga làm bánh quay trượt. Bóp phanh, tắt máy, dắt xe sát mép bên phải và đi lên chậm rãi, hoặc nhờ bảo vệ hỗ trợ.
 
-Ở nhiều tòa nhà, chốt soát vé hoặc barie nằm ngay đầu dốc ra. Dừng lại đó bằng cả hai phanh, chống chân chắc chắn, chuẩn bị sẵn thẻ gửi xe để thao tác nhanh. Lúc khởi hành lại, làm như cách khởi hành trên dốc nêu trên. Bài [xe 50cc thuê leo dốc cầu Diễn được không](/xe-may/2026/10/09/xe-50cc-thue-leo-doc-cau-dien-uoc-khong/) có thêm kinh nghiệm cho xe máy nhỏ khi gặp dốc dài.
+Ở nhiều tòa nhà, chốt soát vé hoặc barie nằm ngay đầu dốc ra. Dừng lại đó bằng cả hai phanh, chống chân chắc chắn, chuẩn bị sẵn thẻ gửi xe để thao tác nhanh. Lúc khởi hành lại, làm như cách khởi hành trên dốc nêu trên. Bài [xe 50cc thuê leo dốc cầu Diễn được không](/xe-may/2026/10/09/xe-50cc-thue-leo-doc-cau-dien-duoc-khong/) có thêm kinh nghiệm cho xe máy nhỏ khi gặp dốc dài.
 
 ## Chở người và chọn giờ đi
 

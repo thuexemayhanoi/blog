@@ -60,7 +60,7 @@ Dàn nồi là bộ truyền động vô cấp nằm trong hộp kín phía sau,
 - **Lạch xạch khi nổ máy cầm chừng,** đổi tiếng hoặc mất khi vừa vặn ga.
 - **Xe rung, giật hoặc ì lúc bắt đầu lăn bánh,** đi kèm tiếng lạ phía sau bên trái.
 
-Những tiếng này không phải lúc nào cũng nguy hiểm ngay, nhưng là dấu hiệu bộ truyền động cần được thợ xem. Đọc thêm bài về [dây curoa và bi nồi xe ga](/xe-may/2026/10/11/day-curoa-va-bi-noi-xe-ga-dau-hieu-mon-qua-cam-giac-lay-a-va-tieng-keu/) để hiểu cảm giác lấy đà khi các chi tiết này mòn.
+Những tiếng này không phải lúc nào cũng nguy hiểm ngay, nhưng là dấu hiệu bộ truyền động cần được thợ xem. Đọc thêm bài về [dây curoa và bi nồi xe ga](/xe-may/2026/10/11/day-curoa-va-bi-noi-xe-ga-dau-hieu-mon-qua-cam-giac-lay-da-va-tieng-keu/) để hiểu cảm giác lấy đà khi các chi tiết này mòn.
 
 Đừng mở nắp hộp dàn nồi hay chạm vào vỏ hộp ngay sau khi chạy, vì khu vực này nóng. Việc kiểm tra bên trong cần dụng cụ và người có chuyên môn.
 

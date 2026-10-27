@@ -63,7 +63,7 @@ Một thói quen khác ít người để ý: dắt xe khi máy đang nổ. Xe s
 
 ## Tập lại cho quen trong vài buổi
 
-Bài [làm quen xe ga trong ba mươi phút](/hoi-dap/2026/09/29/chua-quen-xe-ga-lam-quen-trong-30-phut-truoc-khi-len-uong/) có khung tập tổng quát; dưới đây là phần dành riêng cho việc xóa phản xạ xe số:
+Bài [làm quen xe ga trong ba mươi phút](/hoi-dap/2026/09/29/chua-quen-xe-ga-lam-quen-trong-30-phut-truoc-khi-len-duong/) có khung tập tổng quát; dưới đây là phần dành riêng cho việc xóa phản xạ xe số:
 
 1. **Buổi đầu, tập phanh không chân.** Chạy chậm, dừng hẳn nhiều lần, chân đặt phẳng, chỉ dùng hai tay phanh.
 2. **Tập bóp tay trái mềm.** Mỗi lần dừng, bóp tay trái tăng dần trong khoảng hai nhịp đếm, không giật.
@@ -73,7 +73,7 @@ Bài [làm quen xe ga trong ba mươi phút](/hoi-dap/2026/09/29/chua-quen-xe-ga
 
 Những ngày đầu, giữ khoảng cách với xe trước rộng hơn và đi chậm hơn một nhịp để phản xạ mới có thời gian làm việc.
 
-Nếu bạn muốn so sánh các thói quen cần sửa theo cả hai chiều, từ ga về số và ngược lại, có thể xem thêm bài [thói quen cần sửa trong tuần đầu đổi dòng xe](/thue-xe/2026/10/11/tu-xe-so-sang-xe-ga-hoac-nguoc-lai-thoi-quen-can-sua-trong-tuan-au/).
+Nếu bạn muốn so sánh các thói quen cần sửa theo cả hai chiều, từ ga về số và ngược lại, có thể xem thêm bài [thói quen cần sửa trong tuần đầu đổi dòng xe](/thue-xe/2026/10/11/tu-xe-so-sang-xe-ga-hoac-nguoc-lai-thoi-quen-can-sua-trong-tuan-dau/).
 
 ## Khi thuê xe ga lần đầu ở tiệm
 

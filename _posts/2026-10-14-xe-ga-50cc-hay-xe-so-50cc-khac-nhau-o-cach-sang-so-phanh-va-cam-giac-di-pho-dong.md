@@ -74,7 +74,7 @@ Phố đông ở Hà Nội không phải đường thẳng mà là chuỗi dừn
 
 **Đống Đa** quanh Xã Đàn, Tôn Đức Thắng, Chùa Bộc, Thái Hà: giờ cao điểm dòng xe đặc, len lỏi và dừng lâu ở đèn đỏ. Sau nửa tiếng dừng đi liên tục, người lái xe số thường mỏi chân trái vì đổi số, còn xe ga chỉ mỏi tay phải.
 
-Một điểm chung: xe 50cc tăng tốc nhẹ hơn xe phổ thông, nên dù chọn loại nào cũng nên đi làn bên phải, nhường xe lớn vượt, và không cố chen vào khe hẹp. Bài [độ an toàn của xe 50cc trong phố Hà Nội](/xe-may/2026/09/27/o-an-toan-cua-xe-50cc-trong-pho-ha-noi/) có thêm thói quen giảm rủi ro.
+Một điểm chung: xe 50cc tăng tốc nhẹ hơn xe phổ thông, nên dù chọn loại nào cũng nên đi làn bên phải, nhường xe lớn vượt, và không cố chen vào khe hẹp. Bài [độ an toàn của xe 50cc trong phố Hà Nội](/xe-may/2026/09/27/do-an-toan-cua-xe-50cc-trong-pho-ha-noi/) có thêm thói quen giảm rủi ro.
 
 ## Chọn xe nào theo kiểu người lái
 
@@ -83,7 +83,7 @@ Một điểm chung: xe 50cc tăng tốc nhẹ hơn xe phổ thông, nên dù ch
 - **Chở đồ ít, cần chỗ để túi:** xe ga có sàn để chân và thường có cốp dưới yên, tiện hơn.
 - **Hay đi đường có dốc, cầu vượt:** người quen xe số có thể chọn số phù hợp, nhưng xe 50cc nào cũng nên đi chậm và tránh chở nặng.
 
-Nếu muốn so sánh xe số và xe ga ở cỡ máy phổ thông, xem thêm bài [xe số hay xe ga cho đường đông phố](/xe-may/2026/10/11/xe-so-hay-xe-ga-cho-uong-ong-pho/). Bài này chỉ tập trung vào cỡ 50cc với người mới.
+Nếu muốn so sánh xe số và xe ga ở cỡ máy phổ thông, xem thêm bài [xe số hay xe ga cho đường đông phố](/xe-may/2026/10/11/xe-so-hay-xe-ga-cho-duong-dong-pho/). Bài này chỉ tập trung vào cỡ 50cc với người mới.
 
 ## Thử trước khi chốt và giấy tờ cần hỏi
 

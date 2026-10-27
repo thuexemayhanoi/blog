@@ -25,7 +25,7 @@ Xe 50cc có động cơ nhỏ, nên khi chở thêm người, xe lên tốc ch�
 - **Xe yếu ở dốc.** Các dốc lên cầu hay dốc vào hầm chung cư sẽ khiến xe chậm hẳn, dễ bị xe phía sau áp sát.
 - **Xe nhẹ dễ chao khi có gió ngang hoặc xe tải vượt.** Một đứa trẻ cựa quậy phía sau cũng làm xe lệch nhiều hơn so với xe lớn.
 
-Vì thế, xe 50cc hợp với những chuyến ngắn trong khu dân cư hơn là chuyến dài băng qua nhiều quận. Nếu bạn còn phân vân về việc xe nhỏ chở thêm người, bài [xe 50cc chở hai người có được không](/xe-may/2026/10/07/xe-50cc-cho-hai-nguoi-co-uoc-khong/) nói kỹ hơn về sức xe.
+Vì thế, xe 50cc hợp với những chuyến ngắn trong khu dân cư hơn là chuyến dài băng qua nhiều quận. Nếu bạn còn phân vân về việc xe nhỏ chở thêm người, bài [xe 50cc chở hai người có được không](/xe-may/2026/10/07/xe-50cc-cho-hai-nguoi-co-duoc-khong/) nói kỹ hơn về sức xe.
 
 ## Chỗ ngồi của bé trên yên xe nhỏ
 
@@ -36,7 +36,7 @@ Phần lớn phụ huynh cho con ngồi phía sau, ôm lấy người lái. Trê
 3. **Dặn bé ôm eo, không ôm cổ.** Ôm cổ làm người lái khó xoay đầu quan sát và mất thăng bằng.
 4. **Đồ của bé để trong cốp hoặc giỏ, không đeo trên lưng bé.** Cặp nặng kéo bé ngả về sau mỗi lần xe tăng tốc.
 
-Về ghế phụ gắn trên xe hay đai đeo nối bé với người lái, mỗi loại phù hợp với kiểu xe khác nhau. Hãy hỏi tiệm xem xe có lắp được không, và tự kiểm tra quy định hiện hành về chở người trên xe máy trước khi dùng, ví dụ đọc bài [chở người trên xe máy theo quy định hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/). Chúng tôi không khẳng định thay bạn tư thế nào được phép trong mọi trường hợp; khi chưa chắc, hãy hỏi cơ quan chức năng hoặc người có chuyên môn.
+Về ghế phụ gắn trên xe hay đai đeo nối bé với người lái, mỗi loại phù hợp với kiểu xe khác nhau. Hãy hỏi tiệm xem xe có lắp được không, và tự kiểm tra quy định hiện hành về chở người trên xe máy trước khi dùng, ví dụ đọc bài [chở người trên xe máy theo quy định hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-dinh-hien-hanh/). Chúng tôi không khẳng định thay bạn tư thế nào được phép trong mọi trường hợp; khi chưa chắc, hãy hỏi cơ quan chức năng hoặc người có chuyên môn.
 
 ## Mũ bảo hiểm trẻ em: vừa đầu mới có tác dụng
 
@@ -47,7 +47,7 @@ Mũ người lớn đội lên đầu trẻ con là sai lầm phổ biến nhấ
 - Quai cài vừa khít, luồn được khoảng một ngón tay dưới cằm.
 - Lớp xốp bên trong còn nguyên, vỏ không nứt. Mũ từng bị rơi mạnh nên thay.
 
-Trẻ lớn nhanh, nên mỗi mùa hãy thử lại xem mũ còn vừa không. Nếu thuê xe, hỏi tiệm xem có mũ trẻ em kèm theo không và kiểm tra kỹ theo các bước trên; tốt nhất vẫn là mang mũ riêng của bé, đã quen cỡ và quen đội. Thông tin về chuẩn mũ có trong bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/).
+Trẻ lớn nhanh, nên mỗi mùa hãy thử lại xem mũ còn vừa không. Nếu thuê xe, hỏi tiệm xem có mũ trẻ em kèm theo không và kiểm tra kỹ theo các bước trên; tốt nhất vẫn là mang mũ riêng của bé, đã quen cỡ và quen đội. Thông tin về chuẩn mũ có trong bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-khi-di-xe-may-chuan-nao/).
 
 ## Quãng đường và cách chạy khi có trẻ phía sau
 
