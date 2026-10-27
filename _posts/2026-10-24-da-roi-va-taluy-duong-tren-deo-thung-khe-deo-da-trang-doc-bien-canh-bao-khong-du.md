@@ -35,7 +35,7 @@ Các đoạn có hàng rào lưới thép, lưới chắn đá hay biển cảnh
 
 Khi gặp biển cảnh báo nguy hiểm trên đèo, hãy giảm tốc từ xa và chạy đều qua đoạn đó, không rồ ga mạnh cũng không phanh gấp trong vùng nguy cơ. Giữ khoảng cách đủ rộng với xe trước, vì nếu có đất đá rơi, xe trước bị chặn sẽ khiến bạn phải dừng ngay trong vùng nguy hiểm. Tránh đi sát vào vách, đi theo làn đường của mình và để mắt lên phía trên sườn núi.
 
-Nếu bạn nghe tiếng đá lăn lạch cạch hoặc thấy đất đá dịch chuyển phía trên, đừng dừng ngay dưới chân vách. Hãy rời khỏi khu vực theo hướng an toàn nếu còn nhìn rõ đường, hoặc dừng ở khoảng cách xa hơn vị trí nghi ngờ khi chưa vào vùng nguy cơ. Quyết định trong vài giây này khó, nên cách tốt nhất vẫn là chạy chậm, tỉnh táo và không dừng ở những đoạn vách cao. Bài [chạy xe máy qua đèo Thung Khe an toàn thế nào](/cung-duong/2026/09/28/chay-xe-may-qua-eo-thung-khe-an-toan-the-nao/) nêu thêm những nguyên tắc chung khi qua đèo này.
+Nếu bạn nghe tiếng đá lăn lạch cạch hoặc thấy đất đá dịch chuyển phía trên, đừng dừng ngay dưới chân vách. Hãy rời khỏi khu vực theo hướng an toàn nếu còn nhìn rõ đường, hoặc dừng ở khoảng cách xa hơn vị trí nghi ngờ khi chưa vào vùng nguy cơ. Quyết định trong vài giây này khó, nên cách tốt nhất vẫn là chạy chậm, tỉnh táo và không dừng ở những đoạn vách cao. Bài [chạy xe máy qua đèo Thung Khe an toàn thế nào](/cung-duong/2026/09/28/chay-xe-may-qua-deo-thung-khe-an-toan-the-nao/) nêu thêm những nguyên tắc chung khi qua đèo này.
 
 ## Chọn chỗ dừng nghỉ và chụp ảnh xa chân vách
 
@@ -53,7 +53,7 @@ Cũng nên theo dõi dự báo thời tiết và thông tin giao thông từ ngu
 
 Trước khi lên đèo, hãy kiểm tra phanh, lốp, đèn và còi của xe. Trên đường đèo xuống dốc dài, phanh yếu rất nguy hiểm. Hãy đổ đủ xăng ở thị trấn trước đèo, mang áo mưa và đồ giữ ấm, vì thời tiết trên núi thay đổi nhanh. Báo cho người thân lịch trình và giờ dự kiến về, và đi vào ban ngày.
 
-Nếu bạn thuê xe từ Hà Nội, hãy hỏi tiệm xem xe có phù hợp đi đường đèo không, nhận xe và thử phanh kỹ. Việc tiệm có cho đi xa hay hỗ trợ khi xe hỏng ở vùng núi bài không có dữ kiện; hãy hỏi và xác nhận trực tiếp trước khi đi. Bài [Hà Nội đi Mai Châu bằng xe máy: chuẩn bị cung đường](/cung-duong/2026/09/28/ha-noi-i-mai-chau-bang-xe-may-chuan-bi-cung-uong/) liệt kê những việc nên làm.
+Nếu bạn thuê xe từ Hà Nội, hãy hỏi tiệm xem xe có phù hợp đi đường đèo không, nhận xe và thử phanh kỹ. Việc tiệm có cho đi xa hay hỗ trợ khi xe hỏng ở vùng núi bài không có dữ kiện; hãy hỏi và xác nhận trực tiếp trước khi đi. Bài [Hà Nội đi Mai Châu bằng xe máy: chuẩn bị cung đường](/cung-duong/2026/09/28/ha-noi-di-mai-chau-bang-xe-may-chuan-bi-cung-duong/) liệt kê những việc nên làm.
 
 ## Liên hệ tiệm và cập nhật thông tin đường
 

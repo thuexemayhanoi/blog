@@ -41,13 +41,13 @@ Nếu có từ hai câu trả lời không thuận lợi, hãy chọn chờ ho�
 
 Nếu bạn quyết định đi vòng, hãy hỏi người địa phương về tình trạng thật của đường, vì ứng dụng bản đồ có thể không phản ánh đúng chất lượng mặt đường hay đoạn đang hỏng. Chạy chậm, giữ khoảng cách rộng, và đi gần nhau nếu đi nhóm để giúp nhau khi có sự cố. Tránh chạy một mình vào đường vắng lúc chiều muộn.
 
-Đổ đủ xăng trước khi vào đường vòng, vì khu vực này có thể ít trạm xăng. Mang đủ nước, áo mưa và đèn pin. Báo người thân vị trí và hướng đi. Nếu thấy mặt đường quá xấu hoặc dốc đứng vượt khả năng, hãy quay lại thay vì cố đi tiếp. Bài [chuẩn bị xe máy cho cung đường dài](/cung-duong/2026/09/28/ha-noi-i-mai-chau-bang-xe-may-chuan-bi-cung-uong/) nói thêm về chuẩn bị xe và đồ đạc.
+Đổ đủ xăng trước khi vào đường vòng, vì khu vực này có thể ít trạm xăng. Mang đủ nước, áo mưa và đèn pin. Báo người thân vị trí và hướng đi. Nếu thấy mặt đường quá xấu hoặc dốc đứng vượt khả năng, hãy quay lại thay vì cố đi tiếp. Bài [chuẩn bị xe máy cho cung đường dài](/cung-duong/2026/09/28/ha-noi-di-mai-chau-bang-xe-may-chuan-bi-cung-duong/) nói thêm về chuẩn bị xe và đồ đạc.
 
 ## Nếu chọn chờ thông xe: chờ ở đâu và làm gì
 
 Khi chờ, hãy đứng ở chỗ an toàn, xa vách núi và xa vùng sạt lở, không đứng sát mép đường hẹp. Tắt máy xe để tiết kiệm xăng và tránh khói, bật đèn cảnh báo nếu xe đang dừng trên đường. Tìm bóng râm hoặc chỗ trú mưa. Nếu có thể, hãy dắt xe vào chỗ rộng để không cản đường xe cứu hộ và máy xúc đang làm việc.
 
-Theo dõi thông tin cập nhật từ lực lượng chức năng. Khi được phép đi, hãy đi chậm qua đoạn mới thông vì mặt đường có thể còn đất đá và bùn. Giữ khoảng cách với xe lớn vì nhiều xe cùng lúc dồn lại. Bài [nghỉ ở Mai Châu khi đi bằng xe máy](/cung-duong/2026/09/28/nghi-o-mai-chau-khi-i-bang-xe-may/) gợi ý chỗ nghỉ nếu bạn cần ở lại.
+Theo dõi thông tin cập nhật từ lực lượng chức năng. Khi được phép đi, hãy đi chậm qua đoạn mới thông vì mặt đường có thể còn đất đá và bùn. Giữ khoảng cách với xe lớn vì nhiều xe cùng lúc dồn lại. Bài [nghỉ ở Mai Châu khi đi bằng xe máy](/cung-duong/2026/09/28/nghi-o-mai-chau-khi-di-bang-xe-may/) gợi ý chỗ nghỉ nếu bạn cần ở lại.
 
 ## Thuê xe từ Hà Nội và báo tiệm khi kế hoạch thay đổi
 

@@ -41,7 +41,7 @@ Nghị định 168/2024 xử phạt người điều khiển xe mô tô, xe gắ
 
 Điều 69 của luật nêu khi xe dừng, đỗ vi phạm gây cản trở, ùn tắc hoặc nguy cơ tai nạn mà người điều khiển hoặc chủ phương tiện không có mặt hoặc không chấp hành yêu cầu, lực lượng chức năng có thể di chuyển phương tiện ra khỏi vị trí đó. Người điều khiển hoặc chủ phương tiện vi phạm phải trả chi phí cho việc di chuyển hoặc thuê di chuyển.
 
-Với người thuê xe, đây là một rủi ro thực tế: xe thuê bị chuyển đi khi bạn đang đứng ở xa, rồi bạn phải đi tìm xe và trả chi phí. Hãy tránh bằng cách chọn chỗ đứng đúng ngay từ đầu. Bài [đọc biển báo cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/oc-bien-bao-cam-o-va-cam-dung-tren-via-he/) và bài [vạch vàng sơn trên bó vỉa và mép đường](/an-toan-phap-ly/2026/10/16/vach-vang-son-tren-bo-via-va-mep-duong-nhan-biet-doan-cam-dung-cam-do-xe-may-ven/) giúp bạn nhận biết đoạn cấm.
+Với người thuê xe, đây là một rủi ro thực tế: xe thuê bị chuyển đi khi bạn đang đứng ở xa, rồi bạn phải đi tìm xe và trả chi phí. Hãy tránh bằng cách chọn chỗ đứng đúng ngay từ đầu. Bài [đọc biển báo cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/doc-bien-bao-cam-do-va-cam-dung-tren-via-he/) và bài [vạch vàng sơn trên bó vỉa và mép đường](/an-toan-phap-ly/2026/10/16/vach-vang-son-tren-bo-via-va-mep-duong-nhan-biet-doan-cam-dung-cam-do-xe-may-ven/) giúp bạn nhận biết đoạn cấm.
 
 ## Cách chọn chỗ dựng xe máy gần ngã tư ở Hà Nội
 

@@ -23,13 +23,13 @@ Bài này đọc các điều khoản đó, gợi ý cách buộc hàng khi đi 
 
 Điều 9 khoản 20 của luật liệt kê các hành vi bị nghiêm cấm, trong đó có làm rơi vãi đất đá, hàng hóa, vật liệu xây dựng, phế thải trên đường bộ. Câu chữ nói về hàng hóa nói chung, không giới hạn theo loại xe, nên người đi xe máy cũng thuộc diện này. Điều đó nghĩa là hàng của bạn rơi xuống đường không chỉ là chuyện mất đồ mà còn là hành vi luật cấm.
 
-Luật nêu thêm các giới hạn khi chở hàng. Điều 33 khoản 3 điểm đ cấm người lái xe mô tô, xe gắn máy mang, vác và chở vật cồng kềnh, và xếp hàng hóa trên xe quá giới hạn quy định. Bài không định nghĩa thế nào là "vật cồng kềnh", vì luật không định nghĩa; bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/) nói thêm cách hiểu thực tế.
+Luật nêu thêm các giới hạn khi chở hàng. Điều 33 khoản 3 điểm đ cấm người lái xe mô tô, xe gắn máy mang, vác và chở vật cồng kềnh, và xếp hàng hóa trên xe quá giới hạn quy định. Bài không định nghĩa thế nào là "vật cồng kềnh", vì luật không định nghĩa; bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/) nói thêm cách hiểu thực tế.
 
 ## Giới hạn xếp hàng trên xe máy: 0,3 mét, 0,5 mét và 02 mét
 
 Điều 33 khoản 5 của luật nêu xe mô tô, xe gắn máy không được xếp hàng hóa vượt quá chiều rộng giá đèo hàng về mỗi bên 0,3 mét, vượt quá về phía sau giá đèo hàng 0,5 mét theo thiết kế của nhà sản xuất, và chiều cao xếp hàng tính từ mặt đường xe chạy không vượt quá 02 mét. Cụm "theo thiết kế của nhà sản xuất" áp dụng cho kích thước giá đèo hàng, nên đừng chỉ nhớ các con số mà quên điều kiện đó.
 
-Khi thuê xe tay ga, nhiều xe không có giá đèo hàng như xe số, nên hàng thường để ở cốp hoặc đặt trước chân. Hãy hỏi tiệm chiếc xe của bạn có giá đèo hàng không, và đừng buộc thêm đồ ngoài khả năng của xe. Bài [buộc đồ sau xe máy đúng cách](/ky-nang/2026-09-29/buoc-o-sau-xe-may-ung-cach/) và bài [buộc đồ trên yên sau: nguyên tắc không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/) gợi ý cách buộc.
+Khi thuê xe tay ga, nhiều xe không có giá đèo hàng như xe số, nên hàng thường để ở cốp hoặc đặt trước chân. Hãy hỏi tiệm chiếc xe của bạn có giá đèo hàng không, và đừng buộc thêm đồ ngoài khả năng của xe. Bài [buộc đồ sau xe máy đúng cách](/ky-nang/2026-09-29/buoc-do-sau-xe-may-dung-cach/) và bài [buộc đồ trên yên sau: nguyên tắc không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/) gợi ý cách buộc.
 
 ## Nghị định xử phạt: hàng sắp xếp không an toàn và để rơi xuống đường
 
@@ -47,7 +47,7 @@ Vì vậy bài không khẳng định mức bồi thường cụ thể, trườn
 
 Hãy đặt hàng nặng thấp và gần tâm xe, buộc ít nhất hai điểm chắc, và kéo thử bằng tay trước khi chạy. Dùng dây chằng có độ đàn hồi phù hợp hoặc lưới, kiểm tra các góc túi và quai xách. Đừng treo túi nặng lên tay lái, đừng để hàng che đèn hậu hoặc biển số, và không để hàng vượt ra hai bên quá giới hạn.
 
-Sau khoảng vài trăm mét đầu hoặc khi xóc mạnh qua gờ giảm tốc, hãy dừng ở chỗ an toàn kiểm tra lại dây. Nếu chở đồ dễ vỡ hoặc đồ dễ bay như giấy, hãy dùng thùng hoặc túi kín. Khi chở nhiều đồ, hãy cân nhắc đi hai chuyến thay vì chất đầy một chuyến. Bài [chở két bia hộp khi đi hai người trên xe máy](/ky-nang/2026/10/04/cho-ket-bia-hop-khi-i-hai-nguoi-tren-xe-may-cach-chang-an-toan/) minh họa một trường hợp chằng buộc.
+Sau khoảng vài trăm mét đầu hoặc khi xóc mạnh qua gờ giảm tốc, hãy dừng ở chỗ an toàn kiểm tra lại dây. Nếu chở đồ dễ vỡ hoặc đồ dễ bay như giấy, hãy dùng thùng hoặc túi kín. Khi chở nhiều đồ, hãy cân nhắc đi hai chuyến thay vì chất đầy một chuyến. Bài [chở két bia hộp khi đi hai người trên xe máy](/ky-nang/2026/10/04/cho-ket-bia-hop-khi-di-hai-nguoi-tren-xe-may-cach-chang-an-toan/) minh họa một trường hợp chằng buộc.
 
 ## Điều bài không khẳng định
 

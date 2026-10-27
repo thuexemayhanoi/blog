@@ -51,7 +51,7 @@ Một cách khác là giảm tốc từ khi còn ở đoạn thoáng, ngay khi n
 
 Mắt chịu ảnh hưởng của nền cảnh, nhưng bạn có thể làm bài kiểm tra riêng bằng vật mốc. Chọn các cột đèn, cột điện hoặc cây ven đường cách đều nhau, rồi đếm xem bạn đi qua hai cột liên tiếp trong bao nhiêu giây. Nếu số giây ngắn, bạn đang đi nhanh, dù cảm giác không báo như vậy.
 
-Cách này tiện ở chỗ không cần nhìn đồng hồ nhiều lần. Bạn cũng có thể dùng tiếng máy và gió thổi vào mũ bảo hiểm làm tín hiệu phụ: gió và tiếng ồn tăng nghĩa là tốc độ đang cao. Bài [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-o-theo-oan-uong-nhin-thay-dung-uoc-trong-tam-mat-khi-i-xe-may/) nhắc một nguyên tắc liên quan: chọn tốc độ sao cho dừng được trong đoạn đường bạn nhìn thấy.
+Cách này tiện ở chỗ không cần nhìn đồng hồ nhiều lần. Bạn cũng có thể dùng tiếng máy và gió thổi vào mũ bảo hiểm làm tín hiệu phụ: gió và tiếng ồn tăng nghĩa là tốc độ đang cao. Bài [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-do-theo-doan-duong-nhin-thay-dung-duoc-trong-tam-mat-khi-di-xe-may/) nhắc một nguyên tắc liên quan: chọn tốc độ sao cho dừng được trong đoạn đường bạn nhìn thấy.
 
 ## Thói quen cho người thuê xe và người chạy đường dài
 

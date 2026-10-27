@@ -51,7 +51,7 @@ Nếu đang chở người ngồi sau, hãy cho họ xuống trước khi kiểm
 
 Dốc cầu vượt và cầu qua sông Hồng như Vĩnh Tuy, Chương Dương đòi hỏi xe giữ lực đều trong thời gian dài hơn đường bằng. Hãy tăng ga nhẹ và sớm từ chân dốc, thay vì vặn mạnh giữa chừng. Giữ khoảng cách với xe phía trước để không phải giảm tốc đột ngột giữa dốc.
 
-Bài [Honda Vision lên dốc dài: giữ tốc và phanh đúng](/xe-may/2026/10/11/honda-vision-len-doc-dai-giu-toc-va-phanh-ung/) nêu những nguyên tắc cụ thể hơn. Nếu chở thêm người hoặc hành lý nặng, xe sẽ phản ứng chậm hơn, nên hãy tăng ga sớm hơn. Nếu bạn vẫn thấy hụt ga dù đã làm đúng, đó là dấu hiệu cần báo tiệm.
+Bài [Honda Vision lên dốc dài: giữ tốc và phanh đúng](/xe-may/2026/10/11/honda-vision-len-doc-dai-giu-toc-va-phanh-dung/) nêu những nguyên tắc cụ thể hơn. Nếu chở thêm người hoặc hành lý nặng, xe sẽ phản ứng chậm hơn, nên hãy tăng ga sớm hơn. Nếu bạn vẫn thấy hụt ga dù đã làm đúng, đó là dấu hiệu cần báo tiệm.
 
 ## Báo tiệm trước khi đi xa
 

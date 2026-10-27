@@ -23,7 +23,7 @@ Bài này không nêu số ngày hay số tiền nào, vì thời hạn và đi�
 
 Khi tiệm nói "sau vài ngày làm việc", hãy hỏi ba điều. Thứ nhất, ngày đầu tiên tính từ lúc nào: từ ngày bạn trả xe, từ ngày tiệm kiểm tra xong, hay từ ngày tiệm nhận đủ thông tin tài khoản. Thứ hai, ngày làm việc gồm những ngày nào: thứ Bảy, Chủ nhật và ngày lễ có tính hay không. Thứ ba, hoàn bằng cách nào và trong khung giờ nào.
 
-Hãy hỏi bằng lời lịch sự, ví dụ "cho em hỏi ba ngày làm việc tính từ hôm em trả xe hay từ lúc anh kiểm tra xong ạ, và thứ Bảy, Chủ nhật có tính không ạ". Câu hỏi cụ thể như vậy thường nhận được câu trả lời cụ thể. Bài [cọc thuê xe máy khi nào được nhận lại](/thue-xe/2026/10/07/coc-thue-xe-may-khi-nao-uoc-nhan-lai/) nói thêm về các mốc thường gặp.
+Hãy hỏi bằng lời lịch sự, ví dụ "cho em hỏi ba ngày làm việc tính từ hôm em trả xe hay từ lúc anh kiểm tra xong ạ, và thứ Bảy, Chủ nhật có tính không ạ". Câu hỏi cụ thể như vậy thường nhận được câu trả lời cụ thể. Bài [cọc thuê xe máy khi nào được nhận lại](/thue-xe/2026/10/07/coc-thue-xe-may-khi-nao-duoc-nhan-lai/) nói thêm về các mốc thường gặp.
 
 ## Cuối tuần và ngày lễ: nguyên nhân hay làm mốc ngày bị lệch
 
@@ -35,11 +35,11 @@ Một việc nên làm là lấy lịch ra và cùng tiệm nhẩm lại một l
 
 Cách chắc chắn nhất là xin một ngày cụ thể thay vì một khoảng. Ví dụ nhắn: "Em trả xe hôm nay, tiệm xác nhận hoàn cọc vào ngày này bằng chuyển khoản, đúng không ạ?" Khi tiệm trả lời đồng ý, bạn có một dòng chữ để đối chiếu. Nếu tiệm chỉ trả lời bằng lời, hãy xin họ nhắn lại.
 
-Nếu tiệm chưa chốt được ngày vì còn phải kiểm tra xe, hãy hỏi khi nào kiểm tra xong và kiểm tra những gì, rồi chốt ngày hoàn sau đó. Bài [hoàn tiền cọc khi trả xe máy thuê: kiểm đếm và xác nhận](/thue-xe/2026/10/11/hoan-tien-coc-khi-tra-xe-may-thue-kiem-em-va-xac-nhan/) gợi ý cách kiểm và xác nhận ngay lúc trả xe. Bài không biết thời gian kiểm tra của tiệm, nên hãy hỏi và ghi lại.
+Nếu tiệm chưa chốt được ngày vì còn phải kiểm tra xe, hãy hỏi khi nào kiểm tra xong và kiểm tra những gì, rồi chốt ngày hoàn sau đó. Bài [hoàn tiền cọc khi trả xe máy thuê: kiểm đếm và xác nhận](/thue-xe/2026/10/11/hoan-tien-coc-khi-tra-xe-may-thue-kiem-dem-va-xac-nhan/) gợi ý cách kiểm và xác nhận ngay lúc trả xe. Bài không biết thời gian kiểm tra của tiệm, nên hãy hỏi và ghi lại.
 
 ## Hình thức nhận lại: tiền mặt, chuyển khoản và thông tin tài khoản
 
-Hãy chốt luôn cách nhận: tiền mặt tại tiệm, chuyển khoản hay ví điện tử. Nếu chuyển khoản, đưa đúng tên chủ tài khoản, số tài khoản và ngân hàng bằng tin nhắn, và kiểm tra lại số trước khi gửi. Tên chủ tài khoản nên khớp tên bạn đã đưa cọc để tránh nhầm. Bài [đặt cọc thuê xe máy bằng chuyển khoản hoàn thế nào](/thue-xe/2026/10/05/at-coc-thue-xe-may-bang-chuyen-khoan-hoan-the-nao/) nói thêm về cách hoàn khi cọc đã chuyển khoản.
+Hãy chốt luôn cách nhận: tiền mặt tại tiệm, chuyển khoản hay ví điện tử. Nếu chuyển khoản, đưa đúng tên chủ tài khoản, số tài khoản và ngân hàng bằng tin nhắn, và kiểm tra lại số trước khi gửi. Tên chủ tài khoản nên khớp tên bạn đã đưa cọc để tránh nhầm. Bài [đặt cọc thuê xe máy bằng chuyển khoản hoàn thế nào](/thue-xe/2026/10/05/dat-coc-thue-xe-may-bang-chuyen-khoan-hoan-the-nao/) nói thêm về cách hoàn khi cọc đã chuyển khoản.
 
 Nếu bạn sắp rời Hà Nội hoặc ra nước ngoài, hãy nói trước để chọn cách nhận phù hợp. Chuyển khoản quốc tế hay vào tài khoản khác có thể mất thêm thời gian và có thể có phí; bài không có dữ kiện về việc đó nên hãy hỏi tiệm và ngân hàng của bạn. Lưu lại ảnh màn hình tin nhắn xác nhận.
 

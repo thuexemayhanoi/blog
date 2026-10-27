@@ -23,7 +23,7 @@ Bài này đọc điều khoản đó, nêu quy chuẩn hiện hành và dấu h
 
 Điều 33 khoản 2 của luật nêu người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách. Điều 87 khoản 6 giao Bộ Khoa học và Công nghệ ban hành quy chuẩn kỹ thuật quốc gia về mũ bảo hiểm cho người đi xe mô tô, xe gắn máy, xe đạp máy.
 
-Như vậy tiêu chí trong luật không phải "mũ có hình dạng như mũ bảo hiểm" mà là mũ đáp ứng quy chuẩn kỹ thuật quốc gia dành cho loại mũ này, và được cài quai đúng. Bài không tìm thấy văn bản nào gọi tên mũ bảo hộ công trình, mũ xe đạp hay mũ lưỡi trai là không hợp lệ, nên bài không viết như vậy; đây chỉ là suy luận thận trọng từ yêu cầu của luật. Bài [mũ bảo hiểm đạt chuẩn và quy định đội mũ](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-va-quy-inh-oi-mu/) nói về cách chọn mũ.
+Như vậy tiêu chí trong luật không phải "mũ có hình dạng như mũ bảo hiểm" mà là mũ đáp ứng quy chuẩn kỹ thuật quốc gia dành cho loại mũ này, và được cài quai đúng. Bài không tìm thấy văn bản nào gọi tên mũ bảo hộ công trình, mũ xe đạp hay mũ lưỡi trai là không hợp lệ, nên bài không viết như vậy; đây chỉ là suy luận thận trọng từ yêu cầu của luật. Bài [mũ bảo hiểm đạt chuẩn và quy định đội mũ](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-va-quy-dinh-doi-mu/) nói về cách chọn mũ.
 
 ## Quy chuẩn hiện hành về mũ bảo hiểm và dấu hợp quy CR
 
@@ -47,13 +47,13 @@ Bài không nêu số tiền phạt. Bài cũng không khẳng định có mức
 
 Hãy chọn mũ có thể hiện rõ là mũ dành cho người đi mô tô, xe máy, có dấu hợp quy, quai chắc và chốt cài hoạt động tốt. Mũ phải vừa đầu: đội lên, lắc nhẹ không bị xoay hay tuột. Cài quai đúng quy cách, khít dưới cằm, và nhắc cả người ngồi sau cài quai. Đừng đội mũ nửa vời, đội ngược hoặc để quai thả lỏng.
 
-Nếu tiệm đưa mũ cho bạn khi thuê xe, hãy kiểm tra mũ trước khi lên xe: vỏ không nứt, quai không sờn, chốt cài chắc, có dấu hợp quy. Nếu mũ hỏng, hãy báo tiệm để đổi. Bài [xe máy thuê được chở trẻ em dưới bao nhiêu tuổi](/an-toan-phap-ly/2026/10/09/xe-may-thue-uoc-cho-tre-em-duoi-bao-nhieu-tuoi/) nói về chở trẻ em và mũ cho trẻ.
+Nếu tiệm đưa mũ cho bạn khi thuê xe, hãy kiểm tra mũ trước khi lên xe: vỏ không nứt, quai không sờn, chốt cài chắc, có dấu hợp quy. Nếu mũ hỏng, hãy báo tiệm để đổi. Bài [xe máy thuê được chở trẻ em dưới bao nhiêu tuổi](/an-toan-phap-ly/2026/10/09/xe-may-thue-duoc-cho-tre-em-duoi-bao-nhieu-tuoi/) nói về chở trẻ em và mũ cho trẻ.
 
 ## Điều bài không khẳng định
 
 Bài không khẳng định mũ nào cụ thể hợp lệ hay không hợp lệ ngoài những gì văn bản nêu. Bài không dẫn quy chuẩn và nghị định cũ đã hết hiệu lực, vì nhiều trang tuyên truyền cũ vẫn còn trên mạng. Bài không có đường dẫn chính thức đã kiểm tra đến toàn văn quy chuẩn; nếu cần đối chiếu, hãy tra trên cơ sở dữ liệu quốc gia về văn bản pháp luật.
 
-Nếu bạn bị yêu cầu dừng xe vì mũ, hãy bình tĩnh trình bày và hỏi về căn cứ, theo quyền được thông báo về hành vi vi phạm và biện pháp xử lý. Bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-inh-xu-phat-vi-pham-giao-thong-xe-may/) nêu khung chung.
+Nếu bạn bị yêu cầu dừng xe vì mũ, hãy bình tĩnh trình bày và hỏi về căn cứ, theo quyền được thông báo về hành vi vi phạm và biện pháp xử lý. Bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-dinh-xu-phat-vi-pham-giao-thong-xe-may/) nêu khung chung.
 
 ## Liên hệ tiệm
 

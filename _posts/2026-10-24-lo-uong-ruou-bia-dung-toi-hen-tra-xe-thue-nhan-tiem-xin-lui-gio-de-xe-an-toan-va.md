@@ -35,7 +35,7 @@ Với xe mô tô, nghị định còn cho phép người có thẩm quyền tạ
 
 Điều đầu tiên là nhắn tiệm ngay khi bạn nhận ra mình không thể lái xe về, thay vì để đến sát giờ. Tin nhắn nên ngắn, lịch sự và rõ: bạn đã uống rượu bia nên không lái xe, bạn xin trả xe muộn hoặc sáng hôm sau, xe đang để ở đâu và bạn sẽ liên hệ lại lúc nào. Ví dụ: "Em đã uống nên không lái xe nữa ạ, em xin phép trả xe vào sáng mai, xe em đang gửi ở chỗ này, em nhắn vị trí cho anh chị."
 
-Tiệm Thuê Xe Máy Hà Nội Nguyễn Tú mở cửa 09:00–21:00. Chính sách trả xe muộn và cách tính cho trường hợp này bài không có dữ kiện; hãy hỏi và xác nhận trực tiếp bằng tin nhắn. Bài [trả xe máy thuê sau giờ đóng cửa của hàng](/thue-xe/2026/10/11/tra-xe-may-thue-sau-gio-ong-cua-cua-hang/) và bài [bàn giao xe khi trả muộn vài tiếng](/thue-xe/2026/10/03/ban-giao-xe-khi-tra-muon-vai-tieng-xu-ly-lich-su/) nói thêm về cách nhắn lịch sự khi trả muộn.
+Tiệm Thuê Xe Máy Hà Nội Nguyễn Tú mở cửa 09:00–21:00. Chính sách trả xe muộn và cách tính cho trường hợp này bài không có dữ kiện; hãy hỏi và xác nhận trực tiếp bằng tin nhắn. Bài [trả xe máy thuê sau giờ đóng cửa của hàng](/thue-xe/2026/10/11/tra-xe-may-thue-sau-gio-dong-cua-cua-hang/) và bài [bàn giao xe khi trả muộn vài tiếng](/thue-xe/2026/10/03/ban-giao-xe-khi-tra-muon-vai-tieng-xu-ly-lich-su/) nói thêm về cách nhắn lịch sự khi trả muộn.
 
 ## Để xe an toàn khi bạn không lái được
 

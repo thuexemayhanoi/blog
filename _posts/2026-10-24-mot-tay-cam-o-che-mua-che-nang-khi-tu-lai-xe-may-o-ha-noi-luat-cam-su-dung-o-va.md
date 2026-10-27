@@ -35,13 +35,13 @@ Nghị định 168/2024/NĐ-CP còn nêu hành vi chở người ngồi trên xe
 
 Điều 7 khoản 4 điểm đ của nghị định xử phạt người đang điều khiển xe sử dụng ô (dù), thiết bị âm thanh trừ thiết bị trợ thính, dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác. Nghĩa là việc cầm ô được xếp cùng nhóm với việc dùng điện thoại khi lái, vì cả hai đều làm rời tay hoặc phân tán sự chú ý. Hành vi này còn kèm hình thức trừ điểm giấy phép lái xe, theo quy định riêng của nghị định.
 
-Bài không khẳng định mức trừ điểm áp dụng ra sao với người lái chưa có giấy phép, vì chưa đối chiếu. Bài cũng không dùng điều khoản về người được chở trên xe đạp, xe đạp máy sử dụng ô, vì đó là loại xe khác. Bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-inh-xu-phat-vi-pham-giao-thong-xe-may/) nêu khung chung.
+Bài không khẳng định mức trừ điểm áp dụng ra sao với người lái chưa có giấy phép, vì chưa đối chiếu. Bài cũng không dùng điều khoản về người được chở trên xe đạp, xe đạp máy sử dụng ô, vì đó là loại xe khác. Bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-dinh-xu-phat-vi-pham-giao-thong-xe-may/) nêu khung chung.
 
 ## Áo mưa không do luật quy định, nhưng là cách che chắn thực tế
 
 Các văn bản bài đã đọc không có từ "áo mưa", nên bài không viết luật cho phép hay quy định áo mưa thay ô. Đây chỉ là lời khuyên thực tế: áo mưa bộ hoặc áo mưa trùm ôm gọn người, không phập phồng như ô, để cả hai tay giữ tay lái. Chọn áo mưa không quá dài để không vướng chân vào bàn đạp hay bánh xe, và không che đèn hậu hay biển số.
 
-Với mũ bảo hiểm, hãy dùng kính chắn gió hoặc kính mũ để chống nước vào mắt, và lau sạch kính trước khi đi. Nếu mưa quá to, tầm nhìn kém, hãy dừng ở chỗ an toàn và đúng luật thay vì cố chạy. Luật yêu cầu bật đèn chiếu sáng phía trước khi trời mưa và thời tiết xấu làm hạn chế tầm nhìn. Bài [gió lớn và cơn giông giữa đường](/ky-nang/2026-09-29/gio-lon-va-con-giong-giua-uong/) nói thêm về cách xử lý khi thời tiết xấu.
+Với mũ bảo hiểm, hãy dùng kính chắn gió hoặc kính mũ để chống nước vào mắt, và lau sạch kính trước khi đi. Nếu mưa quá to, tầm nhìn kém, hãy dừng ở chỗ an toàn và đúng luật thay vì cố chạy. Luật yêu cầu bật đèn chiếu sáng phía trước khi trời mưa và thời tiết xấu làm hạn chế tầm nhìn. Bài [gió lớn và cơn giông giữa đường](/ky-nang/2026-09-29/gio-lon-va-con-giong-giua-duong/) nói thêm về cách xử lý khi thời tiết xấu.
 
 ## Che nắng không cần ô
 

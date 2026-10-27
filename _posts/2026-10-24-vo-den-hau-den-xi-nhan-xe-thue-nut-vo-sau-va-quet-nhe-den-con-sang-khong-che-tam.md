@@ -27,7 +27,7 @@ Hãy chụp ảnh từ nhiều góc ngay lúc này, cả cận cảnh chỗ vỡ
 
 Bật khóa và kiểm tra từng đèn: đèn hậu có sáng khi bật đèn xe không, đèn phanh có sáng khi bóp phanh không, xi nhan phải và trái có nhấp nháy bình thường không. Nếu đứng một mình, bạn có thể nhờ người đứng phía sau nhìn, hoặc đặt điện thoại ghi hình đèn sau trong khi bóp phanh.
 
-Đèn phanh là chi tiết quan trọng nhất vì nó báo cho xe phía sau biết bạn đang giảm tốc. Bài [đèn phanh xe thuê yếu: kiểm tra trước khi nhận xe](/xe-may/2026/10/01/en-phanh-xe-thue-yeu-kiem-tra-truoc-khi-nhan-xe/) giải thích vì sao nên thử đèn phanh ngay từ lúc nhận. Nếu đèn phanh hoặc đèn hậu không sáng, không nên chạy đêm; nếu chỉ nhựa nứt mà đèn vẫn sáng bình thường, vẫn cần báo tiệm trước khi đi tiếp.
+Đèn phanh là chi tiết quan trọng nhất vì nó báo cho xe phía sau biết bạn đang giảm tốc. Bài [đèn phanh xe thuê yếu: kiểm tra trước khi nhận xe](/xe-may/2026/10/01/den-phanh-xe-thue-yeu-kiem-tra-truoc-khi-nhan-xe/) giải thích vì sao nên thử đèn phanh ngay từ lúc nhận. Nếu đèn phanh hoặc đèn hậu không sáng, không nên chạy đêm; nếu chỉ nhựa nứt mà đèn vẫn sáng bình thường, vẫn cần báo tiệm trước khi đi tiếp.
 
 ## Che tạm chống nước: băng keo trong và những điều không nên làm
 
