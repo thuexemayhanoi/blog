@@ -37,7 +37,7 @@ Dù tiệm có thiện chí đến đâu, việc đối chiếu sẽ nhanh hơn 
 2. **Ảnh lịch sử giao dịch** trong ngày, để thấy hai lệnh nằm cạnh nhau, cách nhau vài phút.
 3. **Ảnh đoạn tin nhắn** tiệm báo mức cọc và gửi số tài khoản, để hai bên cùng nhìn vào một con số gốc.
 
-Đừng chỉ chụp màn hình thông báo đẩy trên điện thoại, vì thông báo thường bị cắt mất mã giao dịch. Cách lưu bằng chứng khi đặt cọc qua ứng dụng được hướng dẫn kỹ hơn trong bài [giữ bằng chứng cọc khi đặt tiền thuê xe qua ứng dụng](/thue-xe/2026/10/07/cach-giu-bang-chung-coc-khi-at-tien-thue-xe-qua-ung-dung/), và các loại giấy tờ nên giữ lại có trong bài [đặt cọc thuê xe bằng chuyển khoản: giữ lại bằng chứng nào](/thue-xe/2026/10/01/at-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/).
+Đừng chỉ chụp màn hình thông báo đẩy trên điện thoại, vì thông báo thường bị cắt mất mã giao dịch. Cách lưu bằng chứng khi đặt cọc qua ứng dụng được hướng dẫn kỹ hơn trong bài [giữ bằng chứng cọc khi đặt tiền thuê xe qua ứng dụng](/thue-xe/2026/10/07/cach-giu-bang-chung-coc-khi-dat-tien-thue-xe-qua-ung-dung/), và các loại giấy tờ nên giữ lại có trong bài [đặt cọc thuê xe bằng chuyển khoản: giữ lại bằng chứng nào](/thue-xe/2026/10/01/dat-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/).
 
 ## Nhắn tiệm thế nào để được đối chiếu nhanh
 

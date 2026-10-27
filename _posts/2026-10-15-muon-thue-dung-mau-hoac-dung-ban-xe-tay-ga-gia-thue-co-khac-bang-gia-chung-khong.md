@@ -36,7 +36,7 @@ Bảng giá của tiệm niêm yết theo dòng xe, không chia theo màu sơn. 
 - Honda Click hoặc Yamaha Mio: 150.000 đ/ngày, tuần 700.000 đ, tháng 900.000–1.200.000 đ.
 - Honda Wave: 150.000 đ/ngày.
 
-Chênh lệch giá bạn thấy rõ nhất là giữa các dòng xe, ví dụ Click so với Vision hay Air Blade. Muốn so kỹ từng dòng trước khi chọn, xem bài [so sánh giá thuê xe máy theo dòng xe trước khi đặt](/thue-xe/2026/10/10/so-sanh-gia-thue-xe-may-theo-dong-xe-truoc-khi-at/).
+Chênh lệch giá bạn thấy rõ nhất là giữa các dòng xe, ví dụ Click so với Vision hay Air Blade. Muốn so kỹ từng dòng trước khi chọn, xem bài [so sánh giá thuê xe máy theo dòng xe trước khi đặt](/thue-xe/2026/10/10/so-sanh-gia-thue-xe-may-theo-dong-xe-truoc-khi-dat/).
 
 Còn phiên bản trong cùng một dòng, như bản chìa cơ và bản khóa thông minh, thì đừng tự suy ra giá. Hãy hỏi thẳng: "Bản này có tính khác giá ngày của dòng xe không?" và nhờ cửa hàng nhắn lại giá đã chốt. Nếu yêu cầu của bạn khiến tiệm phải giữ riêng một chiếc cụ thể từ trước, hỏi luôn việc giữ xe có phát sinh gì không. Mọi khoản như đặt cọc hay phí liên quan đều xác nhận trực tiếp với cửa hàng.
 
@@ -79,7 +79,7 @@ Gọi hoặc nhắn tiệm theo số 0942 467 674, ghi gọn trong một tin:
 4. Mục đích: chụp ảnh, đi lại hằng ngày hay đi xa, để cửa hàng gợi ý chiếc phù hợp.
 5. Câu hỏi về giá ngày của chiếc xe đó, đặt cọc, giấy tờ và mũ bảo hiểm.
 
-Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên. Nếu cần giao xe tới khách sạn, thời gian và chi phí giao nhận phải xác nhận trước, và không giao ngoài giờ mở cửa. Cách đặt câu hỏi qua điện thoại cho rõ ràng có trong bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-ien-thoai-nen-hoi-the-nao/).
+Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên. Nếu cần giao xe tới khách sạn, thời gian và chi phí giao nhận phải xác nhận trước, và không giao ngoài giờ mở cửa. Cách đặt câu hỏi qua điện thoại cho rõ ràng có trong bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-dien-thoai-nen-hoi-the-nao/).
 
 ## Khi không còn đúng xe bạn muốn
 

@@ -70,7 +70,7 @@ Xe chạy thị trường đi nhiều hơn xe đi làm thông thường, nên ki
 - Đèn, còi, xi nhan: bật thử từng cái.
 - Tiếng máy và số km: nghe tiếng lạ, ghi số km để biết khi nào gần mốc thay nhớt.
 
-Cách xem từng hạng mục có ở bài [kiểm tra xe 5 phút mỗi tuần](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-en-dau-cho-nguoi-thue-xe-dai-han/). Người đầu mối đọc báo cáo, thấy mục bất thường thì gọi cửa hàng sắp lịch xem xe, không để nhân viên tự đưa xe vào tiệm ngoài.
+Cách xem từng hạng mục có ở bài [kiểm tra xe 5 phút mỗi tuần](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-den-dau-cho-nguoi-thue-xe-dai-han/). Người đầu mối đọc báo cáo, thấy mục bất thường thì gọi cửa hàng sắp lịch xem xe, không để nhân viên tự đưa xe vào tiệm ngoài.
 
 ## Quy định nội bộ cho những tình huống hay phát sinh
 

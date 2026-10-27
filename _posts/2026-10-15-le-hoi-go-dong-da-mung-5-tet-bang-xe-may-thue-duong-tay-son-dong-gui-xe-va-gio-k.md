@@ -60,7 +60,7 @@ Với xe thuê, mất vé hay mất xe đều phiền hơn xe nhà rất nhiều
 
 ## Trong lễ hội: đi bộ và giữ đồ
 
-Khu công viên sáng mùng 5 rất đông, nhất là quanh tượng đài và lối rước. Điện thoại, ví nên để túi trước ngực. Đi cùng trẻ nhỏ hay người lớn tuổi thì hẹn sẵn một điểm gặp lại dễ nhận ra, phòng khi lạc nhau. Nếu chỉ muốn dâng hương mà ngại chen, có thể đến muộn hơn một chút khi phần rước đã xong. Kinh nghiệm chọn giờ đi lễ đầu năm có ở bài [đi lễ chùa ngày rằm, mùng một bằng xe máy thuê](/thue-xe/2026/10/11/i-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-i-sang-hay-chieu/).
+Khu công viên sáng mùng 5 rất đông, nhất là quanh tượng đài và lối rước. Điện thoại, ví nên để túi trước ngực. Đi cùng trẻ nhỏ hay người lớn tuổi thì hẹn sẵn một điểm gặp lại dễ nhận ra, phòng khi lạc nhau. Nếu chỉ muốn dâng hương mà ngại chen, có thể đến muộn hơn một chút khi phần rước đã xong. Kinh nghiệm chọn giờ đi lễ đầu năm có ở bài [đi lễ chùa ngày rằm, mùng một bằng xe máy thuê](/thue-xe/2026/10/11/di-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-di-sang-hay-chieu/).
 
 ## Về trước giờ trả xe
 

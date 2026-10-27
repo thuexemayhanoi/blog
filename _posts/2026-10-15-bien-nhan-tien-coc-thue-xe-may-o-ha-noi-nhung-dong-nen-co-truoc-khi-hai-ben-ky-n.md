@@ -21,7 +21,7 @@ Khi thuê xe máy ở Hà Nội, khoản cọc thường được giao nhận r�
 
 Tờ biên nhận cọc chỉ làm một việc: ghi lại rằng người thuê đã giao cho bên cho thuê một khoản tiền hoặc một loại giấy tờ, giao lúc nào, cho chiếc xe nào, và với điều kiện gì thì được nhận lại. Nó không thay cho biên bản bàn giao tình trạng xe, cũng không phải hóa đơn tiền thuê. Nhiều nơi gộp cả ba vào một tờ giấy, gộp cũng được, miễn phần cọc là dòng riêng.
 
-Lý do phải tách rõ: tiền thuê là khoản bạn trả cho số ngày dùng xe, còn tiền cọc là khoản được hoàn khi đủ điều kiện. Giấy chỉ ghi một con số chung thì lúc trả xe rất khó tách phần nào là cọc. Bài [phân biệt tiền cọc, tiền thuê trả trước và tiền giữ chỗ](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-e-khoi-hieu-nham/) giải thích kỹ chỗ hay nhầm này.
+Lý do phải tách rõ: tiền thuê là khoản bạn trả cho số ngày dùng xe, còn tiền cọc là khoản được hoàn khi đủ điều kiện. Giấy chỉ ghi một con số chung thì lúc trả xe rất khó tách phần nào là cọc. Bài [phân biệt tiền cọc, tiền thuê trả trước và tiền giữ chỗ](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-de-khoi-hieu-nham/) giải thích kỹ chỗ hay nhầm này.
 
 ## Biên nhận cọc ghi những gì: từng dòng một
 
@@ -80,7 +80,7 @@ Một khách từ miền Nam ra, ở gần hồ Hoàn Kiếm, thuê xe cả tu�
 
 Một sinh viên ở Long Biên cọc tiền mặt, biên nhận ghi số tiền bằng số nhưng không có phần bằng chữ, nét viết tay lại hơi nhòe. Lúc trả, một chữ số đọc được hai kiểu. Ghi thêm bằng chữ là cách đơn giản nhất để khỏi phải đoán.
 
-Với cọc chuyển khoản, bài [giữ lại bằng chứng nào khi chuyển khoản cọc](/thue-xe/2026/10/01/at-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/) có danh sách những thứ nên lưu.
+Với cọc chuyển khoản, bài [giữ lại bằng chứng nào khi chuyển khoản cọc](/thue-xe/2026/10/01/dat-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/) có danh sách những thứ nên lưu.
 
 ## Ký nhận theo thứ tự này
 
@@ -96,7 +96,7 @@ Thứ tự này tránh cảnh đưa tiền xong mới thấy xe không đúng nh
 
 Mang theo liên của bạn hoặc mở ảnh đã chụp. Đối chiếu lần lượt: đúng xe, đúng khoản cọc, đúng cách hoàn đã ghi. Nếu có khoản bị trừ, đề nghị cửa hàng nói rõ lý do dựa trên biên bản bàn giao và ghi lại ngay trên biên nhận, có chữ ký.
 
-Nhận đủ tiền hoặc giấy tờ rồi thì hai bên ghi "đã hoàn cọc" lên tờ giấy, hoặc hủy biên nhận tại chỗ. Cách kiểm đếm khi nhận lại tiền được trình bày kỹ ở bài [hoàn tiền cọc khi trả xe máy thuê](/thue-xe/2026/10/11/hoan-tien-coc-khi-tra-xe-may-thue-kiem-em-va-xac-nhan/).
+Nhận đủ tiền hoặc giấy tờ rồi thì hai bên ghi "đã hoàn cọc" lên tờ giấy, hoặc hủy biên nhận tại chỗ. Cách kiểm đếm khi nhận lại tiền được trình bày kỹ ở bài [hoàn tiền cọc khi trả xe máy thuê](/thue-xe/2026/10/11/hoan-tien-coc-khi-tra-xe-may-thue-kiem-dem-va-xac-nhan/).
 
 ## Thuê xe ở cửa hàng Nguyễn Tú
 

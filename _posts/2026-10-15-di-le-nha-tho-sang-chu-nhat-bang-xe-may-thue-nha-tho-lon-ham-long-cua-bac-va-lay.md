@@ -92,7 +92,7 @@ Chuyện gửi xe nhà thờ Cửa Bắc, cách chắc nhất là hỏi người
 
 - **Chiều thứ Bảy**: nhận xe ở Long Biên, kiểm tra, chạy về chỗ ở, hỏi lễ tân giờ mở cửa sảnh.
 - **Sáng Chủ nhật**: ra khỏi chỗ ở sớm, gửi xe, vào nhà thờ trước giờ lễ.
-- **Sau lễ**: ăn sáng gần đó, ghé thêm một nhà thờ; muốn ghép điểm tâm linh khác thì xem bài [đi lễ chùa ngày rằm, mùng một bằng xe máy thuê](/thue-xe/2026/10/11/i-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-i-sang-hay-chieu/).
+- **Sau lễ**: ăn sáng gần đó, ghé thêm một nhà thờ; muốn ghép điểm tâm linh khác thì xem bài [đi lễ chùa ngày rằm, mùng một bằng xe máy thuê](/thue-xe/2026/10/11/di-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-di-sang-hay-chieu/).
 - **Chiều Chủ nhật**: đổ xăng, trả xe trong giờ cửa hàng mở.
 
 Cần đặt xe cho cuối tuần, bạn gọi 0942 467 674 và nói rõ giờ nhận chiều thứ Bảy, giờ trả hôm sau; các lựa chọn khác xem ở trang [dịch vụ thuê xe máy](/thue-xe/).

@@ -84,7 +84,7 @@ Tiền thuê chỉ là một phần chi phí đi lại. Lương về, nên tách
 
 Đổi công ty thường kéo theo đổi ngày lương. Hãy báo cửa hàng sớm, hỏi có dời được mốc gia hạn cho khớp lịch mới không và phần chênh lệch tính thế nào. Chuyện hoàn tiền ngày chưa dùng cũng cần hỏi cửa hàng, đừng tự mặc định.
 
-Tết là lúc lịch lương xáo trộn nhất. Nếu định về quê dài ngày, đọc thêm bài [về quê ăn Tết khi đang thuê xe tháng](/thue-xe/2026/10/11/ve-que-an-tet-khi-ang-thue-xe-thang-giu-xe-tra-xe-hay-hen-thue-lai-sau-tet/) để quyết định giữ xe hay trả. Khi dừng hẳn, nên để kỳ cuối kết thúc đúng ngày trả xe và chuẩn bị theo [checklist trả xe sau một tháng](/thue-xe/2026/10/11/tra-xe-may-thue-sau-mot-thang-checklist-15-phut-truoc-ngay-tra/).
+Tết là lúc lịch lương xáo trộn nhất. Nếu định về quê dài ngày, đọc thêm bài [về quê ăn Tết khi đang thuê xe tháng](/thue-xe/2026/10/11/ve-que-an-tet-khi-dang-thue-xe-thang-giu-xe-tra-xe-hay-hen-thue-lai-sau-tet/) để quyết định giữ xe hay trả. Khi dừng hẳn, nên để kỳ cuối kết thúc đúng ngày trả xe và chuẩn bị theo [checklist trả xe sau một tháng](/thue-xe/2026/10/11/tra-xe-may-thue-sau-mot-thang-checklist-15-phut-truoc-ngay-tra/).
 
 ## Chốt ngày với cửa hàng trước khi nhận xe
 

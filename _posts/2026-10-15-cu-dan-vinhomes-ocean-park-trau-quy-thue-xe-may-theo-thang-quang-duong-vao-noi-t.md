@@ -68,7 +68,7 @@ Với quãng đường dài và nhiều đoạn chạy cùng xe tải, nên ưu 
 
 Mức tiêu hao và áp suất lốp của từng xe xem theo tem và sổ hướng dẫn đi kèm, đừng đoán.
 
-Chạy gần một nghìn cây số mỗi tháng thì xe mòn nhanh hơn người chỉ đi quanh phố. Mỗi cuối tuần dành vài phút xem lốp, phanh, đèn và dầu theo bài [kiểm tra xe 5 phút mỗi tuần](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-en-dau-cho-nguoi-thue-xe-dai-han/). Thấy dấu hiệu lạ hoặc sắp tới mốc thay dầu, báo cửa hàng để hẹn lịch; chi phí do bên nào chịu thì xác nhận trực tiếp.
+Chạy gần một nghìn cây số mỗi tháng thì xe mòn nhanh hơn người chỉ đi quanh phố. Mỗi cuối tuần dành vài phút xem lốp, phanh, đèn và dầu theo bài [kiểm tra xe 5 phút mỗi tuần](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-den-dau-cho-nguoi-thue-xe-dai-han/). Thấy dấu hiệu lạ hoặc sắp tới mốc thay dầu, báo cửa hàng để hẹn lịch; chi phí do bên nào chịu thì xác nhận trực tiếp.
 
 ## Gửi xe ở chung cư và chỗ làm
 
@@ -80,7 +80,7 @@ Hầm các tòa ở Ocean Park thường quản lý xe bằng thẻ. Muốn gử
 
 Chị Hà ở phân khu gần cổng Quốc lộ 5, làm văn phòng ở phố Bà Triệu. Tuần đầu chị thử ba khung giờ: đi sớm trước cao điểm, đi đúng giờ đông và đi muộn hơn một chút. Chị đi cầu Chương Dương hai hôm, cầu Vĩnh Tuy hai hôm, rồi ghi lại thời gian từng lần. Đến cuối tuần, chị chọn được giờ và cầu ít tắc nhất cho mình.
 
-Bạn có thể làm y như vậy. Mẹo chọn giờ xuất phát có trong bài [giờ cao điểm Hà Nội](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/). Ngày mưa to, nên tính thêm thời gian và luôn để sẵn áo mưa trong cốp.
+Bạn có thể làm y như vậy. Mẹo chọn giờ xuất phát có trong bài [giờ cao điểm Hà Nội](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/). Ngày mưa to, nên tính thêm thời gian và luôn để sẵn áo mưa trong cốp.
 
 ## Nhận xe và hẹn với cửa hàng
 

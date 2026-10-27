@@ -63,7 +63,7 @@ Người ở trọ khu Cầu Giấy, Bắc Từ Liêm thường đi qua cầu Th
 
 Người ở Tây Hồ hoặc Ba Đình hay chọn cầu Nhật Tân rồi theo hướng sân bay Nội Bài để vào khu công nghiệp. Trên các trục lớn này, luôn đi đúng làn xe máy theo biển báo. Mặt cầu thoáng, gió ngang mạnh lúc trời giông, cầm lái chắc tay.
 
-Nếu ở gần cửa hàng phía Long Biên, quãng lên Đông Anh không qua hai cầu trên, nhưng vẫn nên đo số km thật. Bài [chi phí xăng khi thuê xe máy đi ngoại thành](/thue-xe/2026/10/11/chi-phi-xang-khi-thue-xe-may-i-ngoai-thanh/) có thêm mẹo đổ xăng cho quãng dài.
+Nếu ở gần cửa hàng phía Long Biên, quãng lên Đông Anh không qua hai cầu trên, nhưng vẫn nên đo số km thật. Bài [chi phí xăng khi thuê xe máy đi ngoại thành](/thue-xe/2026/10/11/chi-phi-xang-khi-thue-xe-may-di-ngoai-thanh/) có thêm mẹo đổ xăng cho quãng dài.
 
 ## Tiền gửi xe ở nhà trọ và ở nhà máy
 

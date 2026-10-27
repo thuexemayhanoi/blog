@@ -66,7 +66,7 @@ Chọn hai trường nặng ký nhất và đi thử cả lượt sáng lẫn l�
 
 Nếu trong tuần có một buổi chiều mưa, đừng ngại chạy lại lượt đón con đúng lúc đó. Mưa làm đường chậm hơn hẳn, và bạn sẽ biết mình cần đi sớm thêm bao lâu vào những ngày như vậy.
 
-Nếu quãng đưa đón buổi chiều quá vất vả, có khi nên đổi khu ở thay vì đổi trường. Bài [tuần chuyển đến Hà Nội đi xem phòng trọ và chốt chỗ ở](/thue-xe/2026/10/11/tuan-chuyen-en-ha-noi-thue-xe-may-i-xem-phong-tro-va-chot-cho-o/) gợi ý cách gom lịch xem nhà vào cùng tuần.
+Nếu quãng đưa đón buổi chiều quá vất vả, có khi nên đổi khu ở thay vì đổi trường. Bài [tuần chuyển đến Hà Nội đi xem phòng trọ và chốt chỗ ở](/thue-xe/2026/10/11/tuan-chuyen-den-ha-noi-thue-xe-may-di-xem-phong-tro-va-chot-cho-o/) gợi ý cách gom lịch xem nhà vào cùng tuần.
 
 ## Tìm chỗ dừng xe đón con trước cổng trường
 

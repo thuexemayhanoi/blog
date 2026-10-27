@@ -56,7 +56,7 @@ Cách tôi hay dặn các bạn mới lên:
 3. Tìm sẵn một đường dự phòng, nhất là khi phải qua cầu Chương Dương hay cầu Vĩnh Tuy.
 4. Hỏi chỗ làm nơi để xe của nhân viên, có người trông và có vé xe hay không.
 
-Ví dụ một bạn trọ ở Bồ Đề, làm ca chiều ở siêu thị phía Đống Đa. Đi qua cầu Chương Dương lúc 13 giờ khá thoáng, nhưng về lúc 22 giờ sau ca thì gió trên cầu rất lạnh, cần áo khoác đủ ấm và găng tay. Chi tiết chọn giờ xuất phát có trong bài [giờ cao điểm Hà Nội](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/).
+Ví dụ một bạn trọ ở Bồ Đề, làm ca chiều ở siêu thị phía Đống Đa. Đi qua cầu Chương Dương lúc 13 giờ khá thoáng, nhưng về lúc 22 giờ sau ca thì gió trên cầu rất lạnh, cần áo khoác đủ ấm và găng tay. Chi tiết chọn giờ xuất phát có trong bài [giờ cao điểm Hà Nội](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/).
 
 Sáng sớm tháng Mười hai thường có sương mù và rét buốt; bài [mùa đông Hà Nội đi làm sớm bằng xe máy](/thue-xe/2026/10/14/mua-dong-ha-noi-di-lam-som-bang-xe-may-ret-buot-suong-mu-va-xe-kho-no-buoi-sang/) có cách chuẩn bị đồ ấm và khởi động xe.
 
@@ -93,7 +93,7 @@ Buổi chiều trước ngày trả, làm mấy việc sau:
 4. Gom chìa khóa, giấy tờ xe và biên nhận vào một túi.
 5. Gọi cửa hàng hẹn giờ trả trong khung giờ mở cửa.
 
-Danh sách đầy đủ nằm trong bài [trả xe máy thuê sau một tháng](/thue-xe/2026/10/11/tra-xe-may-thue-sau-mot-thang-checklist-15-phut-truoc-ngay-tra/). Nếu định ra Giêng quay lại làm tiếp, hãy đọc thêm [về quê ăn Tết khi đang thuê xe tháng](/thue-xe/2026/10/11/ve-que-an-tet-khi-ang-thue-xe-thang-giu-xe-tra-xe-hay-hen-thue-lai-sau-tet/) để chọn giữa giữ xe, trả xe hay hẹn thuê lại.
+Danh sách đầy đủ nằm trong bài [trả xe máy thuê sau một tháng](/thue-xe/2026/10/11/tra-xe-may-thue-sau-mot-thang-checklist-15-phut-truoc-ngay-tra/). Nếu định ra Giêng quay lại làm tiếp, hãy đọc thêm [về quê ăn Tết khi đang thuê xe tháng](/thue-xe/2026/10/11/ve-que-an-tet-khi-dang-thue-xe-thang-giu-xe-tra-xe-hay-hen-thue-lai-sau-tet/) để chọn giữa giữ xe, trả xe hay hẹn thuê lại.
 
 ## Bước tiếp theo
 

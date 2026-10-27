@@ -46,7 +46,7 @@ Con chỉ học một đợt bơi ngắn thì gói tuần là gọn nhất. Hai 
 
 ### Cả kỳ nghỉ hai, ba tháng
 
-Nhân giá tháng của dòng xe với số tháng, rồi hỏi cửa hàng có cách tính riêng khi thuê liền nhiều tháng không. Thuê kéo dài qua lúc bảng giá điều chỉnh thì tháng sau tính ra sao, xem bài [gia hạn thuê xe tháng khi bảng giá vừa điều chỉnh](/thue-xe/2026/10/15/gia-han-thue-xe-thang-khi-bang-gia-vua-dieu-chinh-thang-tiep-theo-tinh-gia-cu-ha/). Hè cũng là lúc nhu cầu thuê xe tăng, nên đọc thêm bài [giá thuê xe máy cao điểm hè có tăng mạnh không](/thue-xe/2026/10/07/gia-thue-xe-may-cao-iem-he-co-tang-manh-khong/) và hỏi giá đúng thời điểm bạn nhận xe.
+Nhân giá tháng của dòng xe với số tháng, rồi hỏi cửa hàng có cách tính riêng khi thuê liền nhiều tháng không. Thuê kéo dài qua lúc bảng giá điều chỉnh thì tháng sau tính ra sao, xem bài [gia hạn thuê xe tháng khi bảng giá vừa điều chỉnh](/thue-xe/2026/10/15/gia-han-thue-xe-thang-khi-bang-gia-vua-dieu-chinh-thang-tiep-theo-tinh-gia-cu-ha/). Hè cũng là lúc nhu cầu thuê xe tăng, nên đọc thêm bài [giá thuê xe máy cao điểm hè có tăng mạnh không](/thue-xe/2026/10/07/gia-thue-xe-may-cao-diem-he-co-tang-manh-khong/) và hỏi giá đúng thời điểm bạn nhận xe.
 
 ## Tuần cả nhà đi nghỉ: giữ xe hay trả xe
 

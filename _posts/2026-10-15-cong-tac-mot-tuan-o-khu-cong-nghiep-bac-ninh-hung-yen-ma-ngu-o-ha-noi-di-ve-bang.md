@@ -68,7 +68,7 @@ Quãng đi về hằng ngày dài hơn đi lại trong phố khá nhiều, nên 
 - **Honda Click, Yamaha Mio:** 150.000 đ một ngày, gói tuần 700.000 đ, hợp ai muốn tiết kiệm.
 - **Honda Wave:** 150.000 đ một ngày, cho người quen xe số.
 
-Nếu đợt công tác có thể kéo dài, bài [thuê theo tuần hay chuyển sang gói tháng](/thue-xe/2026/10/11/o-ha-noi-hai-en-ba-tuan-thue-theo-tuan-hay-chuyen-sang-goi-thang/) giúp bạn tính trước. Đặt cọc và giấy tờ cần mang xác nhận trực tiếp với cửa hàng khi đặt xe; nhớ mang bằng lái hợp lệ cho loại xe bạn thuê.
+Nếu đợt công tác có thể kéo dài, bài [thuê theo tuần hay chuyển sang gói tháng](/thue-xe/2026/10/11/o-ha-noi-hai-den-ba-tuan-thue-theo-tuan-hay-chuyen-sang-goi-thang/) giúp bạn tính trước. Đặt cọc và giấy tờ cần mang xác nhận trực tiếp với cửa hàng khi đặt xe; nhớ mang bằng lái hợp lệ cho loại xe bạn thuê.
 
 ## Chuẩn bị cho quốc lộ: bụi, mưa và gửi xe ở nhà máy
 

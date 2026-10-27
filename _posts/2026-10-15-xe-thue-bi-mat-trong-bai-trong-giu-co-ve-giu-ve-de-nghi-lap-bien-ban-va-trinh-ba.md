@@ -75,6 +75,6 @@ Những chỗ trông xe tự phát trên vỉa hè không phát vé là nơi r�
 - Chụp ảnh vị trí xe và chiếc vé ngay khi gửi.
 - Không để giấy tờ xe, ví hay đồ giá trị trong cốp.
 
-Ở bệnh viện và trung tâm thương mại, bãi thường đông vào giờ cao điểm; cách chọn bãi gần cổng và giữ xe được bàn ở bài [gửi xe máy ở bệnh viện: chọn bãi gần cổng và canh giờ cao điểm](/ky-nang/2026/10/05/gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-iem/ "Gửi xe máy ở bệnh viện") và bài [gửi xe máy ở trung tâm thương mại giờ cao điểm](/ky-nang/2026/10/11/gui-xe-may-o-trung-tam-thuong-mai-gio-cao-iem/ "Gửi xe máy ở trung tâm thương mại").
+Ở bệnh viện và trung tâm thương mại, bãi thường đông vào giờ cao điểm; cách chọn bãi gần cổng và giữ xe được bàn ở bài [gửi xe máy ở bệnh viện: chọn bãi gần cổng và canh giờ cao điểm](/ky-nang/2026/10/05/gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-diem/ "Gửi xe máy ở bệnh viện") và bài [gửi xe máy ở trung tâm thương mại giờ cao điểm](/ky-nang/2026/10/11/gui-xe-may-o-trung-tam-thuong-mai-gio-cao-diem/ "Gửi xe máy ở trung tâm thương mại").
 
 Các tình huống khác khi đang thuê xe được tổng hợp ở chuyên mục [sự cố khi thuê xe](/thue-xe/su-co/ "Sự cố khi thuê xe máy"), còn toàn bộ hướng dẫn thuê xe có ở mục [thuê xe máy](/thue-xe/ "Thuê xe máy Hà Nội").

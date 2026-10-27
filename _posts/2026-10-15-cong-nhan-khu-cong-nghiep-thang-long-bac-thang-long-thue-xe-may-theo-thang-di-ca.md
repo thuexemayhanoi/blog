@@ -81,9 +81,9 @@ Nếu gửi ngoài, chọn bãi có người trông, có vé xe hoặc vé thán
 
 ## Giữ xe an toàn ở phòng trọ và chăm xe trong tháng
 
-Xóm trọ đông người ra vào là nơi dễ mất xe nếu chủ quan. Dắt xe vào trong nhà hoặc khu để xe có khóa cổng, không để qua đêm ngoài ngõ. Cách chọn chỗ đỗ và thói quen khóa xe có trong bài [chống trộm cho xe máy đỗ qua đêm ở nhà trọ](/thue-xe/2026/10/11/chong-trom-cho-xe-may-o-qua-em-o-nha-tro-khoa-vi-tri-o-va-thoi-quen/).
+Xóm trọ đông người ra vào là nơi dễ mất xe nếu chủ quan. Dắt xe vào trong nhà hoặc khu để xe có khóa cổng, không để qua đêm ngoài ngõ. Cách chọn chỗ đỗ và thói quen khóa xe có trong bài [chống trộm cho xe máy đỗ qua đêm ở nhà trọ](/thue-xe/2026/10/11/chong-trom-cho-xe-may-do-qua-dem-o-nha-tro-khoa-vi-tri-do-va-thoi-quen/).
 
-Mỗi tuần dành ít phút nhìn lốp, bóp thử phanh, bật đèn và nghe tiếng máy, theo bài [kiểm tra xe 5 phút mỗi tuần](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-en-dau-cho-nguoi-thue-xe-dai-han/). Áp suất lốp hay loại dầu thì làm theo tem và sổ hướng dẫn của xe, đừng tự đoán. Thấy tiếng kêu lạ hay phanh kém, báo tiệm sớm chứ đừng tự mang ra hàng sửa ven đường.
+Mỗi tuần dành ít phút nhìn lốp, bóp thử phanh, bật đèn và nghe tiếng máy, theo bài [kiểm tra xe 5 phút mỗi tuần](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-den-dau-cho-nguoi-thue-xe-dai-han/). Áp suất lốp hay loại dầu thì làm theo tem và sổ hướng dẫn của xe, đừng tự đoán. Thấy tiếng kêu lạ hay phanh kém, báo tiệm sớm chứ đừng tự mang ra hàng sửa ven đường.
 
 ## Nhận xe, đặt cọc và liên hệ tiệm
 

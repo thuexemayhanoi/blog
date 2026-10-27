@@ -19,7 +19,7 @@ Cuối tháng năm nào cũng có phụ huynh gọi hỏi tôi chuyện 1/6 đư
 
 ## 1/6 đưa con đi đâu Hà Nội: ba công viên quen thuộc
 
-Ba điểm dưới đây đều trong nội thành, đi xe máy từ Long Biên không quá xa. Muốn ước thời gian chạy từng chặng, xem bài [từ Long Biên đi các khu chính của Hà Nội mất bao lâu](/thue-xe/2026/10/11/tu-long-bien-i-cac-khu-chinh-cua-ha-noi-bang-xe-may-mat-bao-lau/).
+Ba điểm dưới đây đều trong nội thành, đi xe máy từ Long Biên không quá xa. Muốn ước thời gian chạy từng chặng, xem bài [từ Long Biên đi các khu chính của Hà Nội mất bao lâu](/thue-xe/2026/10/11/tu-long-bien-di-cac-khu-chinh-cua-ha-noi-bang-xe-may-mat-bao-lau/).
 
 ### Công viên Thống Nhất
 
@@ -73,7 +73,7 @@ Chi phí gửi xe, xăng và ăn uống trong ngày có thể ước trước th
 - **Đợt chiều:** ra lại sau khoảng bốn giờ chiều, khi bóng cây đã che bớt, chơi đến chạng vạng.
 - **Trả xe:** về Long Biên trước giờ đóng cửa, chừa thêm thời gian vì đường lên cầu giờ tan tầm rất đông.
 
-Muốn ra công viên lúc sáng sớm cho mát, bạn có thể hỏi cửa hàng việc nhận xe từ tối hôm trước và cách tính tiền cho khoảng thời gian đó. Yên xe đỗ ngoài nắng có thể rất nóng, nên sờ thử trước khi cho bé ngồi và lót khăn nếu cần. Đầu hè Hà Nội hay có mưa giông buổi chiều; nếu trời xấu, đổi sang điểm vui chơi trong nhà theo gợi ý ở bài [ngày mưa vẫn thuê xe máy ở Hà Nội](/thue-xe/2026/10/11/ngay-mua-o-ha-noi-van-thue-xe-may-chon-iem-trong-nha-gan-nhau/).
+Muốn ra công viên lúc sáng sớm cho mát, bạn có thể hỏi cửa hàng việc nhận xe từ tối hôm trước và cách tính tiền cho khoảng thời gian đó. Yên xe đỗ ngoài nắng có thể rất nóng, nên sờ thử trước khi cho bé ngồi và lót khăn nếu cần. Đầu hè Hà Nội hay có mưa giông buổi chiều; nếu trời xấu, đổi sang điểm vui chơi trong nhà theo gợi ý ở bài [ngày mưa vẫn thuê xe máy ở Hà Nội](/thue-xe/2026/10/11/ngay-mua-o-ha-noi-van-thue-xe-may-chon-diem-trong-nha-gan-nhau/).
 
 ## Giữ an toàn cho bé ở chỗ đông người
 

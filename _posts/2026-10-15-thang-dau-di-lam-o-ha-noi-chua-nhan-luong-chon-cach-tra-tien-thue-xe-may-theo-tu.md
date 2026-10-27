@@ -57,7 +57,7 @@ Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở 
 
 Ngoài tiền thuê và tiền cọc, hãy dự trù thêm tiền xăng cho quãng đường đi làm mỗi ngày và tiền gửi xe ở chỗ làm nếu công ty không có chỗ để xe miễn phí. Ở các tòa văn phòng trong nội đô, vé gửi xe tháng là khoản không nhỏ, hãy hỏi lễ tân hay đồng nghiệp ngay tuần đầu. Ghi tất cả vào một bảng nhỏ: tiền thuê, cọc, xăng, gửi xe. Nhìn tổng con số, bạn sẽ biết cách trả nào hợp với túi tiền tháng đầu.
 
-So sánh chung giữa giá tuần và giá tháng có ở bài [giá thuê xe máy theo tuần ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-tuan-o-ha-noi/ "Giá thuê xe máy theo tuần ở Hà Nội"), còn cách chọn xe ga thuê tháng theo dáng người và quãng đường có ở bài [Vision, Air Blade hay Click: chọn xe ga thuê tháng](/thue-xe/2026/10/11/vision-air-blade-hay-click-chon-xe-ga-thue-thang-theo-dang-nguoi-quang-uong/ "Chọn xe ga thuê tháng").
+So sánh chung giữa giá tuần và giá tháng có ở bài [giá thuê xe máy theo tuần ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-tuan-o-ha-noi/ "Giá thuê xe máy theo tuần ở Hà Nội"), còn cách chọn xe ga thuê tháng theo dáng người và quãng đường có ở bài [Vision, Air Blade hay Click: chọn xe ga thuê tháng](/thue-xe/2026/10/11/vision-air-blade-hay-click-chon-xe-ga-thue-thang-theo-dang-nguoi-quang-duong/ "Chọn xe ga thuê tháng").
 
 ## Khi lương tháng đầu đã về
 

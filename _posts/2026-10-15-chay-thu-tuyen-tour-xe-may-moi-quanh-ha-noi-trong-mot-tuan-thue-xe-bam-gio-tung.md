@@ -35,7 +35,7 @@ Giá gói tuần ở tiệm hiện tại: Honda Click hoặc Yamaha Mio 700.000 
 6. Ngày sáu: rủ một người quen chạy theo sau như khách, đi đúng tốc độ của đoàn.
 7. Ngày bảy: chạy lại riêng những đoạn còn nghi ngờ, chiều mang xe về trả.
 
-Tuyến kéo xa ra ngoại thành thì có thể ghép ngày bốn với ngày năm, nhưng đừng bỏ ngày sáu. Cách chia ngày theo hướng cũng giống bài [một tuần đi làng nghề quanh Hà Nội](/thue-xe/2026/10/11/mot-tuan-i-lang-nghe-quanh-ha-noi-chia-bay-ngay-theo-huong-bang-xe-may-thue/).
+Tuyến kéo xa ra ngoại thành thì có thể ghép ngày bốn với ngày năm, nhưng đừng bỏ ngày sáu. Cách chia ngày theo hướng cũng giống bài [một tuần đi làng nghề quanh Hà Nội](/thue-xe/2026/10/11/mot-tuan-di-lang-nghe-quanh-ha-noi-chia-bay-ngay-theo-huong-bang-xe-may-thue/).
 
 ## Bấm giờ từng chặng sao cho số liệu dùng được
 

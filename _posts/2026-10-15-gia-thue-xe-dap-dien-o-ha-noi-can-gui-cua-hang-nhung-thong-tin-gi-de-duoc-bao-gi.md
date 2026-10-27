@@ -51,7 +51,7 @@ Tin nhắn như vậy thường được trả lời nhanh và đủ, không ph�
 
 Nếu người dùng xe chưa từng đi xe đạp điện, hãy hỏi cửa hàng có thể hướng dẫn cách bật, cách tăng giảm tốc và cách sạc khi nhận xe không, và xin vài phút đi thử ở chỗ rộng trước khi ra đường. Hỏi xe đi được khoảng bao xa sau một lần sạc đầy khi đi phố, và dấu hiệu nào trên đồng hồ báo pin sắp hết. Những người thuê cho bố mẹ lớn tuổi nên hỏi thêm về độ cao yên và trọng lượng xe, vì xe nhẹ, yên thấp dễ chống chân hơn khi dừng đèn đỏ.
 
-Chuyện đội mũ bảo hiểm khi đi xe đạp điện được nói rõ ở bài [xe đạp điện thuê có cần đội mũ bảo hiểm không](/xe-may/2026/10/09/xe-ap-ien-thue-co-can-oi-mu-bao-hiem-khong/ "Xe đạp điện thuê có cần đội mũ bảo hiểm không"); thông tin chung về dòng xe này có ở trang [xe đạp điện](/xe-may/xe-dap-dien/ "Xe đạp điện").
+Chuyện đội mũ bảo hiểm khi đi xe đạp điện được nói rõ ở bài [xe đạp điện thuê có cần đội mũ bảo hiểm không](/xe-may/2026/10/09/xe-dap-dien-thue-co-can-doi-mu-bao-hiem-khong/ "Xe đạp điện thuê có cần đội mũ bảo hiểm không"); thông tin chung về dòng xe này có ở trang [xe đạp điện](/xe-may/xe-dap-dien/ "Xe đạp điện").
 
 ## Khi nào nên hỏi luôn giá xe máy điện hay xe xăng để so
 

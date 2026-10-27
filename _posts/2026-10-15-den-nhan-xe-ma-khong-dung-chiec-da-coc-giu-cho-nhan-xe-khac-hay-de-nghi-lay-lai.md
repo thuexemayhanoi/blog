@@ -26,7 +26,7 @@ Ghi nhận cụ thể chỗ khác biệt, đừng chỉ nói chung chung "xe kh�
 - **Khác loại hẳn:** đặt xe ga, được đưa xe số như Honda Wave.
 - **Không có xe:** tiệm báo chiếc giữ cho bạn đang có khách khác dùng, đang sửa, hoặc chưa về kịp.
 
-Mỗi kiểu có cách xử lý khác nhau. Nếu khoản đã chuyển được gọi là tiền giữ chỗ chứ không phải cọc, xem lại bài [phân biệt tiền cọc, tiền thuê trả trước và tiền giữ chỗ](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-e-khoi-hieu-nham/) để biết mình đang đòi lại khoản nào.
+Mỗi kiểu có cách xử lý khác nhau. Nếu khoản đã chuyển được gọi là tiền giữ chỗ chứ không phải cọc, xem lại bài [phân biệt tiền cọc, tiền thuê trả trước và tiền giữ chỗ](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-de-khoi-hieu-nham/) để biết mình đang đòi lại khoản nào.
 
 ## Có nên nhận xe thay thế không
 
@@ -68,7 +68,7 @@ Khi đã quyết không nhận xe khác, nói ngắn gọn và đưa bằng ch�
 - Nếu chuyển khoản, đề nghị chuyển về đúng tài khoản đã chuyển cọc và hỏi mốc thời gian.
 - Xin tiệm xác nhận việc hoàn lại bằng tin nhắn.
 
-Nhận tiền mặt thì đếm ngay trước mặt người trực. Nhận chuyển khoản thì giữ lại tin nhắn hẹn và kiểm tra tài khoản đúng mốc đã nói; các bước cụ thể có trong bài [đặt cọc thuê xe máy bằng chuyển khoản hoàn thế nào](/thue-xe/2026/10/05/at-coc-thue-xe-may-bang-chuyen-khoan-hoan-the-nao/). Nếu tiệm từ chối hoặc kéo dài không rõ lý do, đừng tranh cãi tại chỗ; giữ toàn bộ bằng chứng và xem cách làm tiếp ở bài [tranh chấp về cọc nên xử lý thế nào](/thue-xe/2026/09/27/tranh-chap-ve-coc-nen-xu-ly-the-nao/).
+Nhận tiền mặt thì đếm ngay trước mặt người trực. Nhận chuyển khoản thì giữ lại tin nhắn hẹn và kiểm tra tài khoản đúng mốc đã nói; các bước cụ thể có trong bài [đặt cọc thuê xe máy bằng chuyển khoản hoàn thế nào](/thue-xe/2026/10/05/dat-coc-thue-xe-may-bang-chuyen-khoan-hoan-the-nao/). Nếu tiệm từ chối hoặc kéo dài không rõ lý do, đừng tranh cãi tại chỗ; giữ toàn bộ bằng chứng và xem cách làm tiếp ở bài [tranh chấp về cọc nên xử lý thế nào](/thue-xe/2026/09/27/tranh-chap-ve-coc-nen-xu-ly-the-nao/).
 
 ## Phòng trước ngay từ lúc đặt cọc
 
@@ -79,7 +79,7 @@ Phần lớn rắc rối kiểu này tránh được nếu lúc đặt hỏi k�
 - Xin ảnh chiếc xe dự kiến giao nếu bạn cần đúng một mẫu.
 - Nhắn xác nhận lại với tiệm một ngày trước giờ nhận.
 
-Về thời điểm đưa cọc, bài [nên đưa tiền cọc lúc nào: trước hay sau khi xem xe](/thue-xe/2026/10/11/nen-ua-tien-coc-luc-nao-truoc-hay-sau-khi-xem-xe-va-chot-ieu-kien/) phân tích kỹ ưu nhược điểm của từng cách.
+Về thời điểm đưa cọc, bài [nên đưa tiền cọc lúc nào: trước hay sau khi xem xe](/thue-xe/2026/10/11/nen-dua-tien-coc-luc-nao-truoc-hay-sau-khi-xem-xe-va-chot-dieu-kien/) phân tích kỹ ưu nhược điểm của từng cách.
 
 ## Khi đặt xe ở Thuê Xe Máy Hà Nội Nguyễn Tú
 

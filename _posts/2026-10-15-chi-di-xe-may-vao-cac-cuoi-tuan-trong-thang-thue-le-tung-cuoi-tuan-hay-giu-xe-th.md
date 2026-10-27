@@ -60,6 +60,6 @@ Lịch của nhiều người thay đổi theo thời tiết, công việc hay s
 - Thích Vision và chỉ đi cuối tuần: thuê lẻ thường nhẹ tiền hơn giữ cả tháng.
 - Click, Mio: tiền thuê hai cách gần ngang nhau, chọn theo chỗ gửi xe và công đi lại.
 
-Dù chọn cách nào, hãy hỏi cửa hàng về tiền cọc, vì cột cọc ghi xác nhận trực tiếp cho mọi dòng xe. Cách tính chi phí cho một cuối tuần đơn lẻ có ở bài [chi phí thuê xe máy hai ngày cuối tuần: tính thế nào cho đủ](/thue-xe/2026/10/04/chi-phi-thue-xe-may-hai-ngay-cuoi-tuan-tinh-the-nao-cho-u/ "Chi phí thuê xe máy hai ngày cuối tuần"), còn những điều cần biết khi thuê theo tháng có ở bài [giá thuê xe máy theo tháng ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/ "Giá thuê xe máy theo tháng ở Hà Nội").
+Dù chọn cách nào, hãy hỏi cửa hàng về tiền cọc, vì cột cọc ghi xác nhận trực tiếp cho mọi dòng xe. Cách tính chi phí cho một cuối tuần đơn lẻ có ở bài [chi phí thuê xe máy hai ngày cuối tuần: tính thế nào cho đủ](/thue-xe/2026/10/04/chi-phi-thue-xe-may-hai-ngay-cuoi-tuan-tinh-the-nao-cho-du/ "Chi phí thuê xe máy hai ngày cuối tuần"), còn những điều cần biết khi thuê theo tháng có ở bài [giá thuê xe máy theo tháng ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/ "Giá thuê xe máy theo tháng ở Hà Nội").
 
 Liên hệ cửa hàng qua số 0942 467 674 để có báo giá cho đúng lịch của bạn. Các bài khác về cách tính giá nằm ở chuyên mục [giá thuê xe](/thue-xe/gia-thue/ "Giá thuê xe máy"), còn toàn bộ hướng dẫn thuê xe có ở mục [thuê xe máy](/thue-xe/ "Thuê xe máy Hà Nội").

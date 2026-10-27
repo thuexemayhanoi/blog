@@ -70,7 +70,7 @@ Hãy để cửa hàng chốt phương án, thời gian và chi phí trước kh
 
 ## Lưu ý riêng từng tuyến: Ninh Bình và Mộc Châu
 
-**Tuyến Ninh Bình.** Cao tốc Pháp Vân – Cầu Giẽ – Ninh Bình không dành cho xe máy, kể cả khi đang vội về hay đang dắt xe hỏng. Nếu nhóm phải đi tiếp hoặc quay về, hãy đi đường dành cho xe máy theo hướng dẫn biển báo; xem thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/). Quanh Tràng An, Tam Cốc có nhiều homestay, nhờ chủ nhà giữ xe tạm qua đêm thường dễ hơn ở đèo.
+**Tuyến Ninh Bình.** Cao tốc Pháp Vân – Cầu Giẽ – Ninh Bình không dành cho xe máy, kể cả khi đang vội về hay đang dắt xe hỏng. Nếu nhóm phải đi tiếp hoặc quay về, hãy đi đường dành cho xe máy theo hướng dẫn biển báo; xem thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/). Quanh Tràng An, Tam Cốc có nhiều homestay, nhờ chủ nhà giữ xe tạm qua đêm thường dễ hơn ở đèo.
 
 **Tuyến Mộc Châu.** Quốc lộ 6 nhiều đèo dốc và xe tải lớn, sóng điện thoại có chỗ yếu. Nếu va chạm ở đoạn vắng, ưu tiên đưa người và xe ra khỏi đường, nhắn tin cho cửa hàng ngay khi có sóng. Đặc điểm cung đường có trong bài [cung Hà Nội – Mộc Châu qua Quốc lộ 6](/cung-duong/2026/09/28/cung-ha-noi-moc-chau-qua-quoc-lo-6/).
 
