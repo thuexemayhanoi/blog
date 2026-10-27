@@ -40,7 +40,7 @@ Khoản 3 Điều 13 quy định chung về thứ tự làn giữa xe thô sơ v
 
 Khoản 6 Điều 11 định nghĩa: "Vạch kẻ đường là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại." Theo quy chuẩn báo hiệu đường bộ (chúng tôi dựa trên tóm tắt, chưa đối chiếu toàn văn), vạch đứt cho phép chuyển làn khi an toàn, còn vạch liền thì không được đè lên để chuyển làn. Gần nút giao, vạch thường chuyển từ đứt sang liền, kèm mũi tên chỉ hướng trên mặt đường.
 
-Chi tiết từng loại vạch có trong bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-uong-xe-may-phai-i-the-nao/).
+Chi tiết từng loại vạch có trong bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-duong-xe-may-phai-di-the-nao/).
 
 ### Biển phân làn theo loại xe
 
@@ -71,7 +71,7 @@ Phần lớn lỗi sai làn xảy ra khi người lái cần rẽ trái hoặc q
 3. **Lỡ qua đoạn vạch liền thì bỏ lượt rẽ.** Đi thẳng qua nút giao, tìm chỗ rẽ tiếp theo hoặc vòng ô phố.
 4. **Rẽ xong thì về lại làn xe máy** ngay khi vạch cho phép.
 
-Kỹ năng thao tác chuyển làn được nói kỹ trong bài [chuyển làn đúng cách trên đường nhiều làn](/ky-nang/2026/10/04/chuyen-lan-ung-cach-tren-uong-nhieu-lan-xe-may/).
+Kỹ năng thao tác chuyển làn được nói kỹ trong bài [chuyển làn đúng cách trên đường nhiều làn](/ky-nang/2026/10/04/chuyen-lan-dung-cach-tren-duong-nhieu-lan-xe-may/).
 
 ## Thói quen cho người thuê xe theo tuần, theo tháng
 

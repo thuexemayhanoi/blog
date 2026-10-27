@@ -75,7 +75,7 @@ Buồn ngủ thì tấp vào chỗ an toàn nghỉ, đừng cố thêm vài chuy
 
 ## Nếu định dùng xe thuê để chạy dịch vụ
 
-Xe thuê có giấy bảo hiểm bắt buộc đứng tên cửa hàng. Dùng xe thuê để chạy dịch vụ và trách nhiệm của người thuê khi có sự cố cần xác nhận trực tiếp trước khi nhận xe. Ở cửa hàng Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (mở cửa 09:00 đến 21:00), bạn gọi 0942467674 và nói rõ mục đích sử dụng. Gợi ý cách hỏi có trong bài [thuê xe máy để chạy giao hàng: hỏi rõ mục đích sử dụng](/thue-xe/2026/10/11/thue-xe-may-e-chay-giao-hang-hay-xe-cong-nghe-hoi-ro-muc-ich-su-dung/).
+Xe thuê có giấy bảo hiểm bắt buộc đứng tên cửa hàng. Dùng xe thuê để chạy dịch vụ và trách nhiệm của người thuê khi có sự cố cần xác nhận trực tiếp trước khi nhận xe. Ở cửa hàng Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (mở cửa 09:00 đến 21:00), bạn gọi 0942467674 và nói rõ mục đích sử dụng. Gợi ý cách hỏi có trong bài [thuê xe máy để chạy giao hàng: hỏi rõ mục đích sử dụng](/thue-xe/2026/10/11/thue-xe-may-de-chay-giao-hang-hay-xe-cong-nghe-hoi-ro-muc-dich-su-dung/).
 
 ## Nguồn tham khảo và lưu ý
 

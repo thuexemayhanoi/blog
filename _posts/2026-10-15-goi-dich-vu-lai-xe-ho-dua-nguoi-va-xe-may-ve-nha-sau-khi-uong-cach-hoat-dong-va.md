@@ -83,7 +83,7 @@ Với xe thuê tại cửa hàng Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đ�
 
 Đêm muộn hay ngày lễ có thể khó đặt chuyến. Đừng vì thế mà tự lái "chỉ vài cây số":
 
-- Gọi taxi hoặc xe ôm, để xe tại bãi gửi có vé; cách gửi và lấy xe sáng hôm sau có ở bài [để xe lại qua đêm khi đã uống](/ky-nang/2026/10/11/lo-uong-ruou-bia-buoi-toi-e-xe-lai-qua-em-va-lay-xe-sang-hom-sau/).
+- Gọi taxi hoặc xe ôm, để xe tại bãi gửi có vé; cách gửi và lấy xe sáng hôm sau có ở bài [để xe lại qua đêm khi đã uống](/ky-nang/2026/10/11/lo-uong-ruou-bia-buoi-toi-de-xe-lai-qua-dem-va-lay-xe-sang-hom-sau/).
 - Nhờ một người không uống, có giấy phép lái xe phù hợp, đưa về.
 - Ngủ lại nhà bạn gần quán nếu được.
 

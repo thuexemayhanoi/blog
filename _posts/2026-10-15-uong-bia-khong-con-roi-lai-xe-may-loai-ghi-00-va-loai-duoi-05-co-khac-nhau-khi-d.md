@@ -64,7 +64,7 @@ Muốn chắc chắn, cách đơn giản nhất là không uống bia, kể cả
 3. **Nếu gọi bia không cồn, yêu cầu mang nguyên lon chưa khui.** Tự đọc nhãn, tự rót, giữ lon cạnh mình và không để ai châm thêm vào cốc.
 4. **Đã nghi ngờ là không lái.** Không nhớ rõ mình đã uống gì thì coi như đã uống bia thường.
 
-Nếu đã uống, hãy gửi xe lại và gọi xe về. Các bước chọn chỗ gửi, giờ lấy xe và những lưu ý khi đó đã có trong bài [uống bia xong bao lâu mới được chạy xe máy](/an-toan-phap-ly/2026/10/07/uong-bia-xong-bao-lau-moi-uoc-chay-xe-may/), còn mùa liên hoan cuối năm thì xem bài [tuần tất niên dày lịch tiệc, để xe máy thuê ở đâu](/thue-xe/2026/10/15/tuan-tat-nien-day-lich-tiec-o-ha-noi-de-xe-may-thue-o-dau-khi-da-uong-ruou-bia-v/).
+Nếu đã uống, hãy gửi xe lại và gọi xe về. Các bước chọn chỗ gửi, giờ lấy xe và những lưu ý khi đó đã có trong bài [uống bia xong bao lâu mới được chạy xe máy](/an-toan-phap-ly/2026/10/07/uong-bia-xong-bao-lau-moi-duoc-chay-xe-may/), còn mùa liên hoan cuối năm thì xem bài [tuần tất niên dày lịch tiệc, để xe máy thuê ở đâu](/thue-xe/2026/10/15/tuan-tat-nien-day-lich-tiec-o-ha-noi-de-xe-may-thue-o-dau-khi-da-uong-ruou-bia-v/).
 
 ## Nếu chiếc xe bạn đang đi là xe thuê
 

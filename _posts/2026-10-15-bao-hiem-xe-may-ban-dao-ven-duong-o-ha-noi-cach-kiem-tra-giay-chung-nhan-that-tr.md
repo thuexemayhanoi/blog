@@ -69,7 +69,7 @@ Không dấu hiệu nào tự chứng minh giấy giả, nhưng gặp một tron
 3. Giục trả tiền trước, không cho đọc giấy trước.
 4. Nói giấy này thay được mọi loại bảo hiểm.
 
-Cứ lịch sự từ chối, rồi mua qua văn phòng, đại lý có địa chỉ cố định hoặc kênh trực tuyến chính thức. Cách so sánh các kênh có trong bài [mua bảo hiểm xe máy ở đâu và hiệu lực ra sao](/an-toan-phap-ly/2026/09/28/mua-bao-hiem-xe-may-o-au-va-hieu-luc-ra-sao/).
+Cứ lịch sự từ chối, rồi mua qua văn phòng, đại lý có địa chỉ cố định hoặc kênh trực tuyến chính thức. Cách so sánh các kênh có trong bài [mua bảo hiểm xe máy ở đâu và hiệu lực ra sao](/an-toan-phap-ly/2026/09/28/mua-bao-hiem-xe-may-o-dau-va-hieu-luc-ra-sao/).
 
 ## Sau khi mua: lưu giữ và kiểm tra lại
 
@@ -77,11 +77,11 @@ Cứ lịch sự từ chối, rồi mua qua văn phòng, đại lý có địa c
 - Một hai ngày sau, tra cứu lại trên kênh chính thức của doanh nghiệp.
 - Lưu số đường dây nóng đã đối chiếu vào danh bạ.
 
-Nếu phát hiện giấy có vấn đề, hỏi doanh nghiệp có tên trên giấy và trình báo công an nơi gần nhất nếu có dấu hiệu bị lừa. Thói quen mang giấy khi lái được nói ở bài [mang theo giấy bảo hiểm xe máy khi đi đường](/an-toan-phap-ly/2026/10/10/mang-theo-giay-bao-hiem-xe-may-khi-i-uong/).
+Nếu phát hiện giấy có vấn đề, hỏi doanh nghiệp có tên trên giấy và trình báo công an nơi gần nhất nếu có dấu hiệu bị lừa. Thói quen mang giấy khi lái được nói ở bài [mang theo giấy bảo hiểm xe máy khi đi đường](/an-toan-phap-ly/2026/10/10/mang-theo-giay-bao-hiem-xe-may-khi-di-duong/).
 
 ## Nếu bạn đang đi xe thuê
 
-Bảo hiểm bắt buộc của xe thuê đứng tên chủ xe, tức cửa hàng. Bạn không cần mua thêm tờ bảo hiểm bắt buộc ở lề đường cho xe đó, mà nên hỏi giấy của xe ở đâu và còn hạn đến ngày nào. Những câu nên hỏi có trong bài [xe máy thuê đã có bảo hiểm dân sự bắt buộc chưa](/an-toan-phap-ly/2026/10/05/xe-may-thue-a-co-bao-hiem-dan-su-bat-buoc-chua/).
+Bảo hiểm bắt buộc của xe thuê đứng tên chủ xe, tức cửa hàng. Bạn không cần mua thêm tờ bảo hiểm bắt buộc ở lề đường cho xe đó, mà nên hỏi giấy của xe ở đâu và còn hạn đến ngày nào. Những câu nên hỏi có trong bài [xe máy thuê đã có bảo hiểm dân sự bắt buộc chưa](/an-toan-phap-ly/2026/10/05/xe-may-thue-da-co-bao-hiem-dan-su-bat-buoc-chua/).
 
 Ở cửa hàng Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (mở cửa 09:00 đến 21:00), bảo hiểm của từng xe và trách nhiệm khi có sự cố cần xác nhận trực tiếp qua số 0942467674 trước khi nhận xe, tốt nhất bằng tin nhắn để có bằng chứng.
 

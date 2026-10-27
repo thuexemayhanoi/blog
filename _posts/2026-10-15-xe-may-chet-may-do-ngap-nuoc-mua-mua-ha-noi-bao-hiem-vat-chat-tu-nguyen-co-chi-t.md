@@ -24,7 +24,7 @@ Trên một chiếc xe máy thường có hai lớp bảo hiểm khác nhau:
 - **Bảo hiểm bắt buộc trách nhiệm dân sự (TNDS)** theo Nghị định 67/2023/NĐ-CP. Lớp này dành cho thiệt hại xe gây ra cho người thứ ba, không chi cho hư hỏng của chính chiếc xe. Động cơ bị nước vào nằm ngoài phạm vi lớp này.
 - **Bảo hiểm vật chất xe tự nguyện**, do chủ xe mua thêm. Đây là lớp duy nhất có thể chi cho việc sửa chính chiếc xe, nếu rủi ro ngập nước nằm trong phạm vi hợp đồng.
 
-Bảo hiểm tự nguyện là thỏa thuận giữa bên mua và doanh nghiệp, theo Luật Kinh doanh bảo hiểm năm 2022. Không có một mẫu chung cho mọi doanh nghiệp, nên mọi kết luận phải dựa trên chính bản quy tắc và giấy chứng nhận của bạn. Nếu chưa chắc có nên mua lớp này, xem bài [bảo hiểm tự nguyện xe máy có đáng mua thêm không](/an-toan-phap-ly/2026/10/10/bao-hiem-tu-nguyen-xe-may-co-ang-mua-them-khong/).
+Bảo hiểm tự nguyện là thỏa thuận giữa bên mua và doanh nghiệp, theo Luật Kinh doanh bảo hiểm năm 2022. Không có một mẫu chung cho mọi doanh nghiệp, nên mọi kết luận phải dựa trên chính bản quy tắc và giấy chứng nhận của bạn. Nếu chưa chắc có nên mua lớp này, xem bài [bảo hiểm tự nguyện xe máy có đáng mua thêm không](/an-toan-phap-ly/2026/10/10/bao-hiem-tu-nguyen-xe-may-co-dang-mua-them-khong/).
 
 ## Bảo hiểm thủy kích xe máy: tìm ở đâu trong hợp đồng
 
@@ -52,7 +52,7 @@ Khi xe chết máy giữa đoạn ngập:
 - Không đề, không đạp cần khởi động, kể cả khi người xung quanh khuyên thử.
 - Gọi thợ hoặc cứu hộ đến kiểm tra, hoặc dắt xe tới tiệm sửa gần nhất.
 
-Cách xử lý kỹ thuật sau khi xe ướt có ở bài [xe máy ướt nước mưa ngập đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-e-khong-no/). Còn nên vượt hay chờ nước rút thì đọc bài [chạy xe qua ngập nước sau mưa to ở Hà Nội](/ky-nang/2026/10/04/chay-xe-qua-ngap-nuoc-sau-mua-to-o-ha-noi-vuot-hay-cho/).
+Cách xử lý kỹ thuật sau khi xe ướt có ở bài [xe máy ướt nước mưa ngập đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-de-khong-no/). Còn nên vượt hay chờ nước rút thì đọc bài [chạy xe qua ngập nước sau mưa to ở Hà Nội](/ky-nang/2026/10/04/chay-xe-qua-ngap-nuoc-sau-mua-to-o-ha-noi-vuot-hay-cho/).
 
 ## Giữ bằng chứng và báo doanh nghiệp trước khi sửa
 
@@ -78,7 +78,7 @@ Một lần kiểm tra trước giúp bạn không phải đoán giữa đườn
 
 ## Nếu chiếc xe ngập là xe thuê
 
-Xe thuê đứng tên cửa hàng, nên bảo hiểm gắn với xe không do người thuê tự quyết. Khi xe thuê của Nguyễn Tú bị ngập, hãy dắt xe lên chỗ cao, không đề nổ, chụp ảnh và gọi ngay cửa hàng qua số 0942467674 (112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00). Không tự đem xe đi sửa khi chưa trao đổi. Trách nhiệm của người thuê và chi phí phát sinh, nếu có, cần xác nhận trực tiếp với cửa hàng. Tình huống tương tự được kể ở bài [xe máy thuê bị ngập nước khi đi qua đường ngập](/thue-xe/2026/10/07/xe-may-thue-bi-ngap-nuoc-khi-i-qua-uong-flooded/).
+Xe thuê đứng tên cửa hàng, nên bảo hiểm gắn với xe không do người thuê tự quyết. Khi xe thuê của Nguyễn Tú bị ngập, hãy dắt xe lên chỗ cao, không đề nổ, chụp ảnh và gọi ngay cửa hàng qua số 0942467674 (112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00). Không tự đem xe đi sửa khi chưa trao đổi. Trách nhiệm của người thuê và chi phí phát sinh, nếu có, cần xác nhận trực tiếp với cửa hàng. Tình huống tương tự được kể ở bài [xe máy thuê bị ngập nước khi đi qua đường ngập](/thue-xe/2026/10/07/xe-may-thue-bi-ngap-nuoc-khi-di-qua-duong-flooded/).
 
 ## Nguồn tham khảo và lưu ý
 

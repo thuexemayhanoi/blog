@@ -43,7 +43,7 @@ Nếu bảo hiểm bắt buộc không lo cho bạn, hãy mở từng hợp đ�
 
 ### Bảo hiểm tai nạn người ngồi trên xe
 
-Đây là sản phẩm tự nguyện, thường bán kèm khi mua bảo hiểm bắt buộc. Có hợp đồng gồm cả người lái, có hợp đồng tính theo chỗ ngồi. Xem giấy chứng nhận có ghi quyền lợi này không, và mục loại trừ có nhắc tới nồng độ cồn, không có giấy phép lái xe hay không đội mũ bảo hiểm không. So sánh kỹ hơn ở bài [bảo hiểm tai nạn cho người đi xe máy thuê](/an-toan-phap-ly/2026/10/07/bao-hiem-tai-nan-cho-nguoi-i-xe-may-thue-nen-mua-khong/).
+Đây là sản phẩm tự nguyện, thường bán kèm khi mua bảo hiểm bắt buộc. Có hợp đồng gồm cả người lái, có hợp đồng tính theo chỗ ngồi. Xem giấy chứng nhận có ghi quyền lợi này không, và mục loại trừ có nhắc tới nồng độ cồn, không có giấy phép lái xe hay không đội mũ bảo hiểm không. So sánh kỹ hơn ở bài [bảo hiểm tai nạn cho người đi xe máy thuê](/an-toan-phap-ly/2026/10/07/bao-hiem-tai-nan-cho-nguoi-di-xe-may-thue-nen-mua-khong/).
 
 ### Bảo hiểm sức khỏe, tai nạn cá nhân và bảo hiểm y tế
 
@@ -70,7 +70,7 @@ Vài thói quen giúp giữ bám đường:
 4. Giữ khoảng cách xa hơn với xe phía trước.
 5. Kiểm tra lốp: lốp mòn gai hay non hơi đều dễ trượt hơn.
 
-Mũ bảo hiểm đạt quy chuẩn, cài quai đúng cách là yêu cầu của khoản 2 Điều 33 Luật 36/2024/QH15 và góp phần giảm chấn thương đầu khi lỡ ngã. Kỹ năng chi tiết hơn có ở bài [chạy xe máy ngày nồm ở Hà Nội](/ky-nang/2026/10/01/chay-xe-may-ngay-nom-ha-noi-mat-uong-va-tam-nhin-khac-mua/).
+Mũ bảo hiểm đạt quy chuẩn, cài quai đúng cách là yêu cầu của khoản 2 Điều 33 Luật 36/2024/QH15 và góp phần giảm chấn thương đầu khi lỡ ngã. Kỹ năng chi tiết hơn có ở bài [chạy xe máy ngày nồm ở Hà Nội](/ky-nang/2026/10/01/chay-xe-may-ngay-nom-ha-noi-mat-duong-va-tam-nhin-khac-mua/).
 
 ## Nếu chiếc xe bị ngã là xe thuê
 

@@ -73,7 +73,7 @@ Với người ngang hàng, có thể thẳng hơn một chút: "Tớ đi xe, h�
 
 Nếu bàn nhậu không chịu dừng, bạn có quyền về sớm: cảm ơn chủ tiệc, nói "em xin phép về trước", gọi xe và rời đi.
 
-Nếu đã lỡ uống, dù chỉ một ly, đừng tự nhủ "đi chậm là được". Để xe lại ở bãi gửi có người trông, giữ vé, chụp ảnh biển số, gọi xe về và quay lại lấy xe khi đã thực sự tỉnh. Không ngồi sau xe của người cũng đã uống. Cách sắp xếp gửi xe và về nhà trong tuần nhiều tiệc có ở bài [tuần tất niên dày lịch tiệc ở Hà Nội](/thue-xe/2026/10/15/tuan-tat-nien-day-lich-tiec-o-ha-noi-de-xe-may-thue-o-dau-khi-da-uong-ruou-bia-v/). Nếu băn khoăn về chuyện đi làm sáng hôm sau, đọc thêm bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/em-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-o-con-khong/).
+Nếu đã lỡ uống, dù chỉ một ly, đừng tự nhủ "đi chậm là được". Để xe lại ở bãi gửi có người trông, giữ vé, chụp ảnh biển số, gọi xe về và quay lại lấy xe khi đã thực sự tỉnh. Không ngồi sau xe của người cũng đã uống. Cách sắp xếp gửi xe và về nhà trong tuần nhiều tiệc có ở bài [tuần tất niên dày lịch tiệc ở Hà Nội](/thue-xe/2026/10/15/tuan-tat-nien-day-lich-tiec-o-ha-noi-de-xe-may-thue-o-dau-khi-da-uong-ruou-bia-v/). Nếu băn khoăn về chuyện đi làm sáng hôm sau, đọc thêm bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/dem-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-do-con-khong/).
 
 ## Nếu bạn là người chủ trì bữa tiệc
 

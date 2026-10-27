@@ -43,7 +43,7 @@ Ghép lại, xe thô sơ đang chạy trên đường là phương tiện tham g
 
 > "b) Xe đạp máy, gồm cả xe đạp điện, là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h;"
 
-Không phải chiếc xe điện nào có bàn đạp cũng là xe đạp điện theo luật. Loại xe chạy bằng tay ga, không cần đạp vẫn đi được, không còn khớp định nghĩa xe đạp máy ở trên mà thuộc nhóm xe cơ giới theo Điều 34 khoản 1 (xe gắn máy hoặc xe mô tô, tùy thông số của xe). Khi thuê, hãy hỏi rõ mình nhận xe đạp điện hay xe máy điện. Bài [xe đạp điện khác gì xe máy điện](/xe-may/2026/09/27/xe-ap-ien-khac-gi-xe-may-ien/) giải thích cách phân biệt chi tiết hơn.
+Không phải chiếc xe điện nào có bàn đạp cũng là xe đạp điện theo luật. Loại xe chạy bằng tay ga, không cần đạp vẫn đi được, không còn khớp định nghĩa xe đạp máy ở trên mà thuộc nhóm xe cơ giới theo Điều 34 khoản 1 (xe gắn máy hoặc xe mô tô, tùy thông số của xe). Khi thuê, hãy hỏi rõ mình nhận xe đạp điện hay xe máy điện. Bài [xe đạp điện khác gì xe máy điện](/xe-may/2026/09/27/xe-dap-dien-khac-gi-xe-may-dien/) giải thích cách phân biệt chi tiết hơn.
 
 Dù là loại nào, lệnh cấm có nồng độ cồn vẫn như nhau. Phân loại chỉ ảnh hưởng đến các nghĩa vụ khác như độ tuổi, giấy tờ, mũ bảo hiểm hay mức xử lý cụ thể.
 
@@ -74,7 +74,7 @@ Hãy quyết định cách về trước khi gọi ly đầu tiên:
 3. **Gọi taxi hoặc xe ôm công nghệ.** Gửi xe ở bãi có người trông, sáng hôm sau quay lại lấy.
 4. **Nhờ người không uống.** Trong nhóm nên có một người không uống, lo việc di chuyển.
 
-Đừng tin các mẹo "giải rượu" bằng cà phê, nước chanh hay ăn thật no. Chúng không làm giảm nồng độ cồn; chỉ có thời gian mới giúp cơ thể đào thải, và mỗi người một khác. Nếu lo cồn còn trong hơi thở hôm sau, xem bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/em-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-o-con-khong/).
+Đừng tin các mẹo "giải rượu" bằng cà phê, nước chanh hay ăn thật no. Chúng không làm giảm nồng độ cồn; chỉ có thời gian mới giúp cơ thể đào thải, và mỗi người một khác. Nếu lo cồn còn trong hơi thở hôm sau, xem bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/dem-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-do-con-khong/).
 
 ## Nếu chiếc xe đạp điện là xe thuê
 

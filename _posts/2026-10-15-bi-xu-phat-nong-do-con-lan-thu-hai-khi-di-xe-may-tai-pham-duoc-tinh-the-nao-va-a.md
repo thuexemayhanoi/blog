@@ -70,7 +70,7 @@ Lần thứ hai thường đến từ thói quen nghĩ "chạy gần thôi". Và
 
 1. **Lưu lại quyết định xử phạt** và biên lai nộp phạt, ghi ngày chấp hành xong để tự biết mốc thời gian của mình.
 2. **Đặt quy tắc cứng**: hôm nào có liên hoan thì không mang xe máy đi. Đi làm ở Cầu Giấy mà tối ăn uống ở Hoàn Kiếm, hãy đi xe buýt hoặc gọi xe về.
-3. **Cẩn thận buổi sáng hôm sau.** Cồn có thể vẫn còn trong cơ thể sau một đêm uống nhiều; xem bài [đêm trước uống nhiều sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/em-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-o-con-khong/).
+3. **Cẩn thận buổi sáng hôm sau.** Cồn có thể vẫn còn trong cơ thể sau một đêm uống nhiều; xem bài [đêm trước uống nhiều sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/dem-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-do-con-khong/).
 
 Nếu bạn định thuê xe máy trong thời gian giấy phép còn bị ảnh hưởng, hãy nói rõ tình trạng và xác nhận trực tiếp với cửa hàng qua số 0942467674; tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00. Đã uống rượu bia thì không lái, kể cả xe thuê.
 

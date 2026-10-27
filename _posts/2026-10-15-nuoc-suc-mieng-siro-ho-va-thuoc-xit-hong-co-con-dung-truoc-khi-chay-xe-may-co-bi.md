@@ -69,7 +69,7 @@ Hãy giữ bình tĩnh và hợp tác. Nói rõ ngay với lực lượng chức
 
 Đọc kỹ mọi giấy tờ trước khi ký và giữ lại bản được giao.
 
-Nếu đang đi xe thuê và bị lập biên bản, báo cho cửa hàng biết sớm. Các việc cần làm được trình bày trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/). Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa từ 09:00 đến 21:00, liên hệ số 0942467674 trong khung giờ này. Một tình huống gần với bài này là cồn còn trong hơi thở vào sáng hôm sau, xem bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/em-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-o-con-khong/).
+Nếu đang đi xe thuê và bị lập biên bản, báo cho cửa hàng biết sớm. Các việc cần làm được trình bày trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-do-con/). Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa từ 09:00 đến 21:00, liên hệ số 0942467674 trong khung giờ này. Một tình huống gần với bài này là cồn còn trong hơi thở vào sáng hôm sau, xem bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/dem-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-do-con-khong/).
 
 ## Ghi chú về thông tin trong bài
 

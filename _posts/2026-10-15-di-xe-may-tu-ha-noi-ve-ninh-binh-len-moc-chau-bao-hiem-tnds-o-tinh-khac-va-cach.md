@@ -40,7 +40,7 @@ Thêm vào đó, mang giấy phép lái xe phù hợp và không uống rượu 
 
 ## Chọn đường: xe máy không được đi cao tốc
 
-Khoản 3 Điều 25 Luật số 36/2024/QH15 quy định xe mô tô, xe gắn máy không được đi trên đường cao tốc. Các tuyến Pháp Vân – Cầu Giẽ – Ninh Bình hay Nội Bài – Lào Cai đều thuộc loại này. Hãy đặt bản đồ ở chế độ xe máy và đi theo biển chỉ dẫn trên quốc lộ. Chúng tôi không đưa quãng đường hay thời gian vì còn tùy điểm xuất phát và thời tiết. Xem thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Khoản 3 Điều 25 Luật số 36/2024/QH15 quy định xe mô tô, xe gắn máy không được đi trên đường cao tốc. Các tuyến Pháp Vân – Cầu Giẽ – Ninh Bình hay Nội Bài – Lào Cai đều thuộc loại này. Hãy đặt bản đồ ở chế độ xe máy và đi theo biển chỉ dẫn trên quốc lộ. Chúng tôi không đưa quãng đường hay thời gian vì còn tùy điểm xuất phát và thời tiết. Xem thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 ## Khi va chạm xa Hà Nội: thứ tự việc cần làm
 

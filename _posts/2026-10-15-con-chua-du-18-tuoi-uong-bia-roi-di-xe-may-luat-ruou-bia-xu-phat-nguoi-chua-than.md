@@ -90,7 +90,7 @@ Cà phê, nước chanh hay ăn thật no không làm giảm nồng độ cồn;
 
 ## Về phía cửa hàng cho thuê xe
 
-Xe thuê cũng vậy: người cầm lái phải đủ tuổi, có giấy phép phù hợp và không có cồn; bố mẹ đứng tên thuê không thay được điều kiện đó. Xem thêm bài [thuê xe máy cho người dưới 18 tuổi được không](/thue-xe/2026/10/07/thue-xe-may-cho-nguoi-duoi-18-tuoi-uoc-khong/). Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa từ 09:00 đến 21:00; mọi thắc mắc về giấy tờ, vui lòng hỏi trực tiếp qua số 0942467674.
+Xe thuê cũng vậy: người cầm lái phải đủ tuổi, có giấy phép phù hợp và không có cồn; bố mẹ đứng tên thuê không thay được điều kiện đó. Xem thêm bài [thuê xe máy cho người dưới 18 tuổi được không](/thue-xe/2026/10/07/thue-xe-may-cho-nguoi-duoi-18-tuoi-duoc-khong/). Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa từ 09:00 đến 21:00; mọi thắc mắc về giấy tờ, vui lòng hỏi trực tiếp qua số 0942467674.
 
 ## Nguồn đối chiếu và lưu ý
 

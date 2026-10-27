@@ -60,7 +60,7 @@ Vài việc nên làm:
 1. **Dừng xe, giữ bình tĩnh, hợp tác.** Chuẩn bị sẵn giấy phép lái xe và giấy tờ xe.
 2. **Nếu không hiểu tiếng Việt,** hãy đề nghị được giải thích rõ, có thể dùng ứng dụng dịch trên điện thoại.
 3. **Đọc kỹ trước khi ký,** giữ lại bản được giao và chụp ảnh giấy tờ.
-4. **Báo cho cửa hàng cho thuê xe** sớm, xem bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/).
+4. **Báo cho cửa hàng cho thuê xe** sớm, xem bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-do-con/).
 
 Trình tự nghiệp vụ cụ thể do lực lượng chức năng thực hiện theo quy định chuyên ngành; bài viết không thay thế hướng dẫn của họ.
 
@@ -73,7 +73,7 @@ Phố cổ quanh Tạ Hiện và các phố quán bar ở Tây Hồ là nơi kh�
 - **Không đưa xe cho bạn đồng hành lái thay khi người đó đã uống,** và cũng đừng đưa cho người không có giấy phép phù hợp: Điều 9 khoản 7 cấm giao xe cơ giới cho người không đủ điều kiện điều khiển theo quy định.
 - **Đừng tin mẹo giải rượu.** Cà phê, nước lạnh hay ăn no không làm giảm nồng độ cồn; chỉ có thời gian, và mỗi người cần thời gian khác nhau.
 
-Nếu tối hôm trước uống nhiều, sáng sau vẫn có thể còn cồn trong hơi thở. Xem bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/em-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-o-con-khong/).
+Nếu tối hôm trước uống nhiều, sáng sau vẫn có thể còn cồn trong hơi thở. Xem bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/dem-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-do-con-khong/).
 
 ## Xe thuê của chúng tôi
 

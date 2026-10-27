@@ -77,7 +77,7 @@ Tại cửa hàng Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (
 
 ## Phòng trước lần sau
 
-Chụp giấy chứng nhận ngay khi mua, giữ một bản điện tử song song và không kẹp bản giấy chung với tiền trong ví. Cách cất giấy cho bền có trong bài [mang theo giấy bảo hiểm xe máy khi đi đường](/an-toan-phap-ly/2026/10/10/mang-theo-giay-bao-hiem-xe-may-khi-i-uong/).
+Chụp giấy chứng nhận ngay khi mua, giữ một bản điện tử song song và không kẹp bản giấy chung với tiền trong ví. Cách cất giấy cho bền có trong bài [mang theo giấy bảo hiểm xe máy khi đi đường](/an-toan-phap-ly/2026/10/10/mang-theo-giay-bao-hiem-xe-may-khi-di-duong/).
 
 ## Nguồn tham khảo và lưu ý
 

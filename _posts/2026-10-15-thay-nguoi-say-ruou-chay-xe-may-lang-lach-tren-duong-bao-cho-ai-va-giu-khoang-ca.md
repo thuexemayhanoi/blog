@@ -50,7 +50,7 @@ Số 113 là số khẩn cấp của lực lượng công an, kênh nhanh nhất
 - **Biển số nếu đã ghi nhận được một cách an toàn.** Không có biển số vẫn cứ báo; vị trí và hướng đi thường quan trọng hơn.
 - **Trả lời câu hỏi của tổng đài viên và làm theo hướng dẫn.**
 
-Nếu đã xảy ra va chạm, có người bị thương, gọi cấp cứu 115 trước. Bài [gọi số khẩn cấp nào khi gặp sự cố trên đường: 113, 114 hay 115](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/) giải thích rõ từng đầu số.
+Nếu đã xảy ra va chạm, có người bị thương, gọi cấp cứu 115 trước. Bài [gọi số khẩn cấp nào khi gặp sự cố trên đường: 113, 114 hay 115](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/) giải thích rõ từng đầu số.
 
 ## Ghi nhận biển số và thông tin: chỉ khi an toàn
 

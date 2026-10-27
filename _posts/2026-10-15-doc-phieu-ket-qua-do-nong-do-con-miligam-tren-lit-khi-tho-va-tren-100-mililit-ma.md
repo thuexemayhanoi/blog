@@ -59,7 +59,7 @@ Mẫu giấy tờ có thể khác nhau tùy thiết bị, nhưng nên tìm nhữ
 4. **Thông tin người được đo:** họ tên hoặc phần để ghi tay.
 5. **Chữ ký:** của người đo, người được đo, có khi có người chứng kiến.
 
-Biên bản vi phạm hành chính, nếu được lập, là giấy tờ riêng, thường ghi hành vi bị cho là vi phạm và có phần để người vi phạm trình bày ý kiến. Hãy đọc hết trước khi ký. Điều 72 khoản 1 điểm b của Luật ghi người điều khiển phương tiện có quyền "được thông báo về căn cứ dừng phương tiện tham gia giao thông đường bộ để kiểm tra, kiểm soát; nội dung và kết quả kiểm tra, kiểm soát". Không hiểu chỗ nào, hãy hỏi lại bình tĩnh. Trình tự khi bị dừng kiểm tra đã có trong bài [đo nồng độ cồn: quyền và trình tự](/an-toan-phap-ly/2026/09/28/o-nong-o-con-quyen-va-trinh-tu/).
+Biên bản vi phạm hành chính, nếu được lập, là giấy tờ riêng, thường ghi hành vi bị cho là vi phạm và có phần để người vi phạm trình bày ý kiến. Hãy đọc hết trước khi ký. Điều 72 khoản 1 điểm b của Luật ghi người điều khiển phương tiện có quyền "được thông báo về căn cứ dừng phương tiện tham gia giao thông đường bộ để kiểm tra, kiểm soát; nội dung và kết quả kiểm tra, kiểm soát". Không hiểu chỗ nào, hãy hỏi lại bình tĩnh. Trình tự khi bị dừng kiểm tra đã có trong bài [đo nồng độ cồn: quyền và trình tự](/an-toan-phap-ly/2026/09/28/do-nong-do-con-quyen-va-trinh-tu/).
 
 ## Những hiểu nhầm hay gặp khi nhìn con số
 
@@ -71,7 +71,7 @@ Biên bản vi phạm hành chính, nếu được lập, là giấy tờ riêng
 
 ## Nếu bạn đang đi xe thuê ở Hà Nội
 
-Sau bữa tối ở Tạ Hiện, Tống Duy Tân hay quanh hồ Tây, hãy gửi xe tại bãi có người trông và gọi taxi, xe ôm hoặc nhờ người không uống chở về. Mọi chính sách của cửa hàng liên quan đến xe thuê trong tình huống này cần được xác nhận trực tiếp qua số 0942467674, trong giờ mở cửa 09:00 đến 21:00 tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên. Nếu chẳng may đã bị lập biên bản, các bước báo cho chủ xe nằm ở bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/).
+Sau bữa tối ở Tạ Hiện, Tống Duy Tân hay quanh hồ Tây, hãy gửi xe tại bãi có người trông và gọi taxi, xe ôm hoặc nhờ người không uống chở về. Mọi chính sách của cửa hàng liên quan đến xe thuê trong tình huống này cần được xác nhận trực tiếp qua số 0942467674, trong giờ mở cửa 09:00 đến 21:00 tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên. Nếu chẳng may đã bị lập biên bản, các bước báo cho chủ xe nằm ở bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-do-con/).
 
 ## Ghi chú về nguồn
 
