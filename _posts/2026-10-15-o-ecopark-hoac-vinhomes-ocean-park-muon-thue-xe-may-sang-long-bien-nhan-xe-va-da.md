@@ -73,7 +73,7 @@ Nhà thấp tầng thường để xe trong nhà. Đừng dựng xe qua đêm tr
 
 ### Ở thuê ngắn ngày
 
-Khách lưu trú ngắn ngày nên hỏi chủ nhà hoặc homestay về chỗ để xe trước khi chốt thuê, xem bài [hỏi khách sạn hoặc homestay về chỗ để xe](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-e-xe-truoc-khi-chot-thue-xe-may/).
+Khách lưu trú ngắn ngày nên hỏi chủ nhà hoặc homestay về chỗ để xe trước khi chốt thuê, xem bài [hỏi khách sạn hoặc homestay về chỗ để xe](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-de-xe-truoc-khi-chot-thue-xe-may/).
 
 ### Nếu định thuê xe máy điện
 

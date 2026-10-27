@@ -45,7 +45,7 @@ Bạn gửi xe trong bãi có người trông ở Ba Đình, đêm đó gió bã
 
 ### Xe ngập trong hầm gửi xe chung cư
 
-Hầm gửi xe ở khu bạn ở từng ngập nhiều lần, bản tin đã cảnh báo mưa rất to mà bạn vẫn để xe dưới hầm, thì yếu tố không lường trước khó đứng vững. Một chỗ gửi chưa từng ngập bị nước tràn bất ngờ lại là chuyện khác. Trước khi chốt chỗ ở, nên [hỏi khách sạn hoặc homestay về chỗ để xe](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-e-xe-truoc-khi-chot-thue-xe-may/), kể cả chuyện mùa mưa có ngập không.
+Hầm gửi xe ở khu bạn ở từng ngập nhiều lần, bản tin đã cảnh báo mưa rất to mà bạn vẫn để xe dưới hầm, thì yếu tố không lường trước khó đứng vững. Một chỗ gửi chưa từng ngập bị nước tràn bất ngờ lại là chuyện khác. Trước khi chốt chỗ ở, nên [hỏi khách sạn hoặc homestay về chỗ để xe](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-de-xe-truoc-khi-chot-thue-xe-may/), kể cả chuyện mùa mưa có ngập không.
 
 ### Đường bị chặn, không trả xe đúng hẹn
 

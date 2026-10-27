@@ -36,7 +36,7 @@ Những điểm nên có câu trả lời:
 - Đổi ngày nhận, đổi số ngày thuê thì giá tính lại thế nào.
 - Đúng mẫu xe bạn chọn có được giữ không, hay có thể đổi sang mẫu khác cùng mức giá.
 
-Cách đặt câu hỏi qua điện thoại cho đủ ý có ở bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-ien-thoai-nen-hoi-the-nao/ "Hỏi giá thuê xe máy qua điện thoại").
+Cách đặt câu hỏi qua điện thoại cho đủ ý có ở bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-dien-thoai-nen-hoi-the-nao/ "Hỏi giá thuê xe máy qua điện thoại").
 
 ## Lưu báo giá thuê xe máy: thứ cần giữ trong điện thoại
 

@@ -34,7 +34,7 @@ Theo những gì tôi thấy qua nhiều mùa giải, sau một trận thắng q
 
 Nếu trận rơi vào tối cuối tuần, quanh hồ vốn là phố đi bộ nên dòng người dồn ra các phố bao quanh. Lực lượng chức năng có thể phân luồng hoặc rào thêm một số đoạn tùy tình hình, vì vậy biển báo và người điều tiết tại chỗ mới là thông tin đúng nhất tối đó. Cách tìm chỗ gửi xe cuối tuần quanh hồ có trong bài [đi phố đi bộ Hồ Gươm bằng xe máy thuê](/thue-xe/2026/10/14/thue-xe-may-buoi-toi-cuoi-tuan-di-pho-di-bo-ho-guom-gui-xe-o-dau-va-tranh-cac-tu/).
 
-Cầu Chương Dương và cầu Long Biên cũng đông không kém, vì người bên kia sông kéo sang và người trong phố kéo về cùng lúc. Nếu bạn có vé xem trực tiếp, đọc thêm bài [thuê xe cả ngày đi xem bóng đá ở Mỹ Đình](/thue-xe/2026/10/11/thue-xe-may-ca-ngay-i-xem-bong-a-hoac-ca-nhac-o-my-inh/).
+Cầu Chương Dương và cầu Long Biên cũng đông không kém, vì người bên kia sông kéo sang và người trong phố kéo về cùng lúc. Nếu bạn có vé xem trực tiếp, đọc thêm bài [thuê xe cả ngày đi xem bóng đá ở Mỹ Đình](/thue-xe/2026/10/11/thue-xe-may-ca-ngay-di-xem-bong-da-hoac-ca-nhac-o-my-dinh/).
 
 ## Chuẩn bị trước giờ bóng lăn
 

@@ -71,7 +71,7 @@ Buổi sáng, gọi kho xác nhận xe đã về. Sau đó trả xe thuê tại 
 
 ### Cách 2: đi cùng một người
 
-Hai người chạy xe thuê ra ga. Nhận xe xong, một người dắt xe nhà đi đổ xăng rồi chạy về, người kia lái xe thuê về Long Biên trả trước 21:00. Từ ga Hà Nội về Long Biên có thể đi cầu Chương Dương hoặc cầu Long Biên; thời gian di chuyển tham khảo bài [từ Long Biên đi các khu chính của Hà Nội](/thue-xe/2026/10/11/tu-long-bien-i-cac-khu-chinh-cua-ha-noi-bang-xe-may-mat-bao-lau/).
+Hai người chạy xe thuê ra ga. Nhận xe xong, một người dắt xe nhà đi đổ xăng rồi chạy về, người kia lái xe thuê về Long Biên trả trước 21:00. Từ ga Hà Nội về Long Biên có thể đi cầu Chương Dương hoặc cầu Long Biên; thời gian di chuyển tham khảo bài [từ Long Biên đi các khu chính của Hà Nội](/thue-xe/2026/10/11/tu-long-bien-di-cac-khu-chinh-cua-ha-noi-bang-xe-may-mat-bao-lau/).
 
 ### Cách 3: nhận xe trước, trả xe thuê hôm sau
 

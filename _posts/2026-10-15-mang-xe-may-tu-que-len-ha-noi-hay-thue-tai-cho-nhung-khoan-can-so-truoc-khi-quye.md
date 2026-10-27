@@ -86,7 +86,7 @@ Nhiều người chọn cách lai: thuê một tháng đầu để quen đườn
 
 ## Gọi hỏi giá cho đúng
 
-Khi gọi cửa hàng, nói rõ ba điều: bạn cần xe bao nhiêu tháng, đi chủ yếu tuyến nào ở Hà Nội, có chở người hay chở đồ không. Có đủ thông tin, cửa hàng báo đúng dòng xe và gói giá. Bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-ien-thoai-nen-hoi-the-nao/) có sẵn danh sách câu hỏi.
+Khi gọi cửa hàng, nói rõ ba điều: bạn cần xe bao nhiêu tháng, đi chủ yếu tuyến nào ở Hà Nội, có chở người hay chở đồ không. Có đủ thông tin, cửa hàng báo đúng dòng xe và gói giá. Bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-dien-thoai-nen-hoi-the-nao/) có sẵn danh sách câu hỏi.
 
 Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Cửa hàng không giao xe ngoài giờ mở cửa, còn thời gian và chi phí giao nhận cần xác nhận trước khi chốt.
 

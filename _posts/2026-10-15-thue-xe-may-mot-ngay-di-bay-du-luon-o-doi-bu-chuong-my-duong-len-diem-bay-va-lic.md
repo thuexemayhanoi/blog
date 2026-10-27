@@ -90,7 +90,7 @@ Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, B�
 - **Chiều**: bay nếu gió cho phép, hoặc chuyển sang phương án dự phòng.
 - **Trước khi trời tối**: rời đồi, về nội thành, trả xe trong giờ cửa hàng mở.
 
-Không nên chạy Quốc lộ 6 lúc trời tối khi mắt đã mỏi, xe tải bật đèn pha chói. Mùa đông trời tối nhanh hơn bạn tưởng, bài [xếp một ngày thuê xe sao cho kịp về](/thue-xe/2026/10/11/mua-ong-troi-toi-som-xep-mot-ngay-thue-xe-may-sao-cho-kip-ve/) có cách lùi giờ.
+Không nên chạy Quốc lộ 6 lúc trời tối khi mắt đã mỏi, xe tải bật đèn pha chói. Mùa đông trời tối nhanh hơn bạn tưởng, bài [xếp một ngày thuê xe sao cho kịp về](/thue-xe/2026/10/11/mua-dong-troi-toi-som-xep-mot-ngay-thue-xe-may-sao-cho-kip-ve/) có cách lùi giờ.
 
 ### Chọn xe và giá thuê
 

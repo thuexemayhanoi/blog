@@ -24,7 +24,7 @@ Chuyện khách gửi ảnh bảng giá rồi hỏi "sao trên mạng ghi khác"
 - **Nhầm cửa hàng.** Ở Hà Nội có nhiều tiệm dùng tên gần giống nhau kiểu "thuê xe máy Hà Nội", hai bảng giá có thể thuộc hai nơi khác nhau.
 - **Khác đơn vị tính.** Bảng này ghi giá theo ngày, bảng kia ghi giá tuần hoặc tháng, nhìn lướt tưởng chênh lệch lớn.
 - **Giá là một khoảng.** Có dòng xe được báo từ mức này đến mức kia, người chép lại chỉ giữ một đầu.
-- **Thời điểm khác nhau.** Giá có thể điều chỉnh theo mùa, bạn xem thêm bài [giá thuê xe máy theo mùa ở Hà Nội thay đổi ra sao](/thue-xe/2026/10/07/gia-thue-xe-may-theo-mua-o-ha-noi-thay-oi-ra-sao/).
+- **Thời điểm khác nhau.** Giá có thể điều chỉnh theo mùa, bạn xem thêm bài [giá thuê xe máy theo mùa ở Hà Nội thay đổi ra sao](/thue-xe/2026/10/07/gia-thue-xe-may-theo-mua-o-ha-noi-thay-doi-ra-sao/).
 
 ## Dấu hiệu nhận ra bảng giá thuê xe máy cũ
 
@@ -36,7 +36,7 @@ Trước khi tin một bảng giá, hãy soát nhanh năm điểm:
 4. **Đơn vị và ghi chú.** Giá theo ngày, tuần hay tháng; đã gồm những gì; tiền cọc ghi thế nào.
 5. **Ảnh bị cắt, mờ hoặc chèn chữ.** Ảnh mất phần đầu hay chân trang thường mất luôn phần ghi chú quan trọng.
 
-Nếu bảng dùng cách viết tắt như 150k hay 1tr8 mà bạn chưa quen, bài [đọc giá thuê xe máy bằng tiếng Việt](/thue-xe/2026/10/11/oc-gia-thue-xe-may-bang-tieng-viet-150k-1tr8-mot-tram-ruoi-la-bao-nhieu/) giải thích cách đọc cho đúng.
+Nếu bảng dùng cách viết tắt như 150k hay 1tr8 mà bạn chưa quen, bài [đọc giá thuê xe máy bằng tiếng Việt](/thue-xe/2026/10/11/doc-gia-thue-xe-may-bang-tieng-viet-150k-1tr8-mot-tram-ruoi-la-bao-nhieu/) giải thích cách đọc cho đúng.
 
 ## Kiểm tra giá thuê xe máy hiện hành ở đâu
 
@@ -46,7 +46,7 @@ Nguồn đầu tiên nên xem là trang giá do chính cửa hàng đăng và c�
 
 ### Gọi hoặc nhắn đúng số của cửa hàng
 
-Lấy số điện thoại từ trang chính thức, không lấy từ ảnh chia sẻ lại. Số của Thuê Xe Máy Hà Nội Nguyễn Tú là 0942 467 674; ảnh bảng giá mang một số khác là dấu hiệu bạn đang xem thông tin của nơi khác. Cách hỏi cho gọn có trong bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-ien-thoai-nen-hoi-the-nao/).
+Lấy số điện thoại từ trang chính thức, không lấy từ ảnh chia sẻ lại. Số của Thuê Xe Máy Hà Nội Nguyễn Tú là 0942 467 674; ảnh bảng giá mang một số khác là dấu hiệu bạn đang xem thông tin của nơi khác. Cách hỏi cho gọn có trong bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-dien-thoai-nen-hoi-the-nao/).
 
 ### Xin xác nhận bằng tin nhắn
 

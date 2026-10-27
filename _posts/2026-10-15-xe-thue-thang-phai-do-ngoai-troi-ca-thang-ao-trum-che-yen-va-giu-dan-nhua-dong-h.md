@@ -49,7 +49,7 @@ Có áo tốt mà trùm sai thì xe vẫn xuống cấp. Mỗi tối về, làm 
 4. **Kéo áo từ đầu xuống đuôi**, kín đồng hồ và yên, cài chun dưới bánh, buộc dây gầm.
 5. **Luồn khóa qua khoen** vào bánh trước, vừa giữ áo vừa thêm một lớp chống trộm.
 
-Bài [chống trộm cho xe máy đỗ qua đêm ở nhà trọ](/thue-xe/2026/10/11/chong-trom-cho-xe-may-o-qua-em-o-nha-tro-khoa-vi-tri-o-va-thoi-quen/) có thêm cách chọn vị trí đỗ trong khu trọ.
+Bài [chống trộm cho xe máy đỗ qua đêm ở nhà trọ](/thue-xe/2026/10/11/chong-trom-cho-xe-may-do-qua-dem-o-nha-tro-khoa-vi-tri-do-va-thoi-quen/) có thêm cách chọn vị trí đỗ trong khu trọ.
 
 ## Che yên và đồng hồ khi chưa kịp trùm cả xe
 
@@ -85,7 +85,7 @@ Vệ sinh chỉ cần khăn mềm, nước sạch và nước rửa xe trung tí
 
 ## Thói quen mỗi tuần và lúc nhận, trả xe
 
-Cuối tuần, mở áo trùm ra xem xe dưới ánh sáng ban ngày: yên có rạn không, đồng hồ có hơi nước không, nút đèn và còi còn ăn không. Gộp việc này vào lần [kiểm tra xe 5 phút mỗi tuần](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-en-dau-cho-nguoi-thue-xe-dai-han/) cho đỡ quên.
+Cuối tuần, mở áo trùm ra xem xe dưới ánh sáng ban ngày: yên có rạn không, đồng hồ có hơi nước không, nút đèn và còi còn ăn không. Gộp việc này vào lần [kiểm tra xe 5 phút mỗi tuần](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-den-dau-cho-nguoi-thue-xe-dai-han/) cho đỡ quên.
 
 Khi nhận xe, nói trước với cửa hàng rằng xe sẽ đỗ ngoài trời và chụp ảnh yên, đồng hồ, dàn nhựa từ nhiều góc. Ngày trả, ảnh giúp hai bên phân biệt hao mòn bình thường với hư hỏng phát sinh; cách tính nếu có hư hỏng thì xác nhận trực tiếp với cửa hàng.
 

@@ -36,7 +36,7 @@ Một cuộc gọi đủ ý giúp bạn khỏi mất công đến nơi mới bi�
 5. Khi trả xe có phải tháo ra, trả về nguyên trạng không.
 6. Chở hàng thường xuyên có ảnh hưởng gì đến điều kiện thuê không.
 
-Câu thứ ba và thứ tư là chỗ hay hiểu lầm nhất. Phụ kiện đi kèm có tính thêm hay không, và việc lắp thêm có phát sinh chi phí gì, đều phải xác nhận trực tiếp với cửa hàng, tôi không nêu con số chung ở đây. Cách hỏi giá qua điện thoại cho nhanh và đủ có trong bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-ien-thoai-nen-hoi-the-nao/).
+Câu thứ ba và thứ tư là chỗ hay hiểu lầm nhất. Phụ kiện đi kèm có tính thêm hay không, và việc lắp thêm có phát sinh chi phí gì, đều phải xác nhận trực tiếp với cửa hàng, tôi không nêu con số chung ở đây. Cách hỏi giá qua điện thoại cho nhanh và đủ có trong bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-dien-thoai-nen-hoi-the-nao/).
 
 ## Muốn lắp thêm baga hoặc thùng: xin phép trước
 

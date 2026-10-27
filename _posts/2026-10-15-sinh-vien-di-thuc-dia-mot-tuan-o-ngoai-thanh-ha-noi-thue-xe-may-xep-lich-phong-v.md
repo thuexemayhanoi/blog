@@ -21,7 +21,7 @@ writer_session: s-claudeb-w2
 
 Một tuần thực địa hiếm khi đều đặn. Có hôm hẹn được ba hộ, có hôm cán bộ xã bận họp và bạn phải quay lại buổi chiều. Thuê lẻ từng ngày thì sáng nào cũng mất công nhận xe, ký giấy. Thuê trọn tuần, xe ở với bạn, lịch có lệch thì chỉ việc đổi giờ xuất phát.
 
-Gói tuần ở tiệm hiện tính thế này: Honda Click hoặc Yamaha Mio 700.000 đ, Honda Air Blade 1.000.000 đ, Honda Vision 1.000.000 đ. Cần vài ngày lẻ thì Honda Wave là 150.000 đ một ngày. Bài [ngân sách một tuần thuê được dòng xe nào](/thue-xe/2026/10/11/ngan-sach-mot-tuan-600000-800000-hay-1-trieu-thue-uoc-dong-xe-nao/) giúp bạn so nhanh, còn điều kiện gói tuần xem ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
+Gói tuần ở tiệm hiện tính thế này: Honda Click hoặc Yamaha Mio 700.000 đ, Honda Air Blade 1.000.000 đ, Honda Vision 1.000.000 đ. Cần vài ngày lẻ thì Honda Wave là 150.000 đ một ngày. Bài [ngân sách một tuần thuê được dòng xe nào](/thue-xe/2026/10/11/ngan-sach-mot-tuan-600000d-800000d-hay-1-trieu-thue-duoc-dong-xe-nao/) giúp bạn so nhanh, còn điều kiện gói tuần xem ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/).
 
 Hai bạn đi chung một xe, một người hỏi và một người ghi, là cách làm rất hợp. Tiền xe, tiền xăng nên ghi sổ từ ngày đầu, cách chia có trong bài [chia tiền thuê xe máy cả tuần cho nhóm bạn](/thue-xe/2026/10/11/chia-tien-thue-xe-may-ca-tuan-cho-nhom-ban-ai-tra-gi-ghi-so-the-nao/).
 

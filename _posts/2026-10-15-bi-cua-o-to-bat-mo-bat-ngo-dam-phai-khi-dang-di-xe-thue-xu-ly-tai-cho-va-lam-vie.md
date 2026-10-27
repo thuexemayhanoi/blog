@@ -31,7 +31,7 @@ Nếu bạn thấy đau mạnh ở cổ, lưng hoặc không cử động đư�
 
 Khi đã an toàn bên lề, dành một phút kiểm tra chính mình và người ngồi sau nếu có. Những chỗ hay bị khi va với cửa ô tô là vai, cánh tay, đầu gối và bàn tay cầm lái. Mũ bảo hiểm có thể đã đập vào khung cửa, nên để ý dấu hiệu chóng mặt, buồn nôn hay nhìn mờ.
 
-Chấn thương do va đập đôi khi chỉ rõ sau một lúc, khi người hết run. Nếu có bất kỳ dấu hiệu bất thường nào, ưu tiên đi khám, mọi chuyện xe cộ và tiền nong để sau. Chọn đúng số khẩn cấp cho từng trường hợp có trong bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/).
+Chấn thương do va đập đôi khi chỉ rõ sau một lúc, khi người hết run. Nếu có bất kỳ dấu hiệu bất thường nào, ưu tiên đi khám, mọi chuyện xe cộ và tiền nong để sau. Chọn đúng số khẩn cấp cho từng trường hợp có trong bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/).
 
 Sau đó mới nhìn đến xe thuê: tay lái có lệch không, gương, đèn xi nhan, ốp nhựa bên hông, phanh trước còn ăn không. Đừng thử phóng đi một vòng để kiểm tra.
 
@@ -79,7 +79,7 @@ Cách tốt nhất để không bị cửa ô tô đâm là không chạy trong 
 - **Để ý taxi và xe công nghệ dừng đón trả khách**, cửa sau phía lề có thể bật ra bất cứ lúc nào.
 - **Giảm tốc** trên phố hẹp có xe đỗ hai bên, để còn thời gian phanh.
 
-Thói quen giữ khoảng cách nói chung được bàn trong bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-i-xe-may/).
+Thói quen giữ khoảng cách nói chung được bàn trong bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-di-xe-may/).
 
 ## Tóm lại
 

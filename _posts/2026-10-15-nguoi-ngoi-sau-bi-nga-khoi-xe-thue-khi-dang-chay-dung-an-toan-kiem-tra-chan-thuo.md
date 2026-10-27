@@ -75,11 +75,11 @@ Phần lớn cú ngã có thể tránh nếu thống nhất vài điều trướ
 
 - **Ngồi đúng tư thế.** Ngồi thẳng, hai chân đặt lên gác chân sau, không ngồi nghiêng một bên, không để chân lơ lửng.
 - **Bám chắc.** Một tay vịn tay nắm sau hoặc ôm eo người lái, không cầm điện thoại bằng cả hai tay khi xe chạy. Túi đồ nên để trong cốp hoặc đeo chéo.
-- **Đội mũ bảo hiểm cài quai.** Mũ không cài quai sẽ văng ra ngay khi ngã. Xem thêm về [mũ bảo hiểm đạt chuẩn](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/).
+- **Đội mũ bảo hiểm cài quai.** Mũ không cài quai sẽ văng ra ngay khi ngã. Xem thêm về [mũ bảo hiểm đạt chuẩn](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-khi-di-xe-may-chuan-nao/).
 - **Người lái tăng ga, phanh từ tốn.** Báo trước khi qua gờ giảm tốc hay ổ gà, đi chậm hẳn qua đoạn xấu.
 - **Nghỉ khi người sau buồn ngủ.** Trên chặng về muộn, dừng nghỉ vài phút thay vì cố chạy tiếp.
 
-Bài [chở người phía sau an toàn khi đi đôi](/ky-nang/2026-09-29/cho-nguoi-phia-sau-an-toan-khi-i-oi/) có thêm mẹo cho cả người lái và người ngồi sau.
+Bài [chở người phía sau an toàn khi đi đôi](/ky-nang/2026-09-29/cho-nguoi-phia-sau-an-toan-khi-di-doi/) có thêm mẹo cho cả người lái và người ngồi sau.
 
 ## Kết lại
 

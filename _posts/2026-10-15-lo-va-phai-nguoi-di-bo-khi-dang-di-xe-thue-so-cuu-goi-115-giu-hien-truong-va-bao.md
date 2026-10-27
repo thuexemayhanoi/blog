@@ -33,7 +33,7 @@ Hãy nhìn và hỏi trước khi chạm vào. Người bị va còn tỉnh khô
 
 ### Khi nào gọi 115
 
-Gọi ngay 115 nếu người bị va bất tỉnh, lơ mơ, khó thở, chảy máu nhiều, đau ở đầu, cổ hoặc lưng, không cử động được tay chân, hoặc là người già, trẻ nhỏ. Nếu chưa chắc, cứ gọi. Khi gọi, nói rõ địa điểm: tên phố, số nhà gần nhất, hoặc mốc dễ nhận ra như "cổng chính chợ Đồng Xuân". Cách chọn đúng số khẩn cấp có ở bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/).
+Gọi ngay 115 nếu người bị va bất tỉnh, lơ mơ, khó thở, chảy máu nhiều, đau ở đầu, cổ hoặc lưng, không cử động được tay chân, hoặc là người già, trẻ nhỏ. Nếu chưa chắc, cứ gọi. Khi gọi, nói rõ địa điểm: tên phố, số nhà gần nhất, hoặc mốc dễ nhận ra như "cổng chính chợ Đồng Xuân". Cách chọn đúng số khẩn cấp có ở bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/).
 
 ### Không tự di chuyển người bị thương nặng
 
@@ -100,7 +100,7 @@ Phần lớn va chạm với người đi bộ xảy ra ở chỗ phố hẹp, �
 - Không vừa đi vừa xem bản đồ trên điện thoại; dừng hẳn vào lề rồi mới xem.
 - Nhường người đi bộ ở vạch kẻ đường, kể cả khi họ đi chậm.
 
-Kỹ năng phản ứng khi có người băng ngang bất ngờ được nói kỹ ở bài [người đi bộ băng đường đột ngột](/ky-nang/2026/10/11/nguoi-i-bo-bang-uong-ot-ngot-phan-ung-an-toan/).
+Kỹ năng phản ứng khi có người băng ngang bất ngờ được nói kỹ ở bài [người đi bộ băng đường đột ngột](/ky-nang/2026/10/11/nguoi-di-bo-bang-duong-dot-ngot-phan-ung-an-toan/).
 
 ## Tóm lại
 
