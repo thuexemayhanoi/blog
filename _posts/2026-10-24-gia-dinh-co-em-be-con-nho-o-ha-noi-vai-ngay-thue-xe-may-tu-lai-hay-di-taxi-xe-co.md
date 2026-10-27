@@ -33,7 +33,7 @@ Cách này tận dụng ưu điểm của cả hai: ô tô cho chặng có bé, 
 
 Ô tô cho bé ngồi trong xe, tránh nắng mưa và gió. Nhưng khi đi với em bé nhỏ, hãy nghĩ đến ghế an toàn: xe công nghệ hay taxi có thể không sẵn ghế cho trẻ, và bài không có dữ kiện về từng hãng. Nếu cần ghế, hãy hỏi hoặc tự mang ghế gọn nếu có thể.
 
-Cũng nên tính thời gian chờ xe, nhất là vào giờ cao điểm hoặc ngày mưa, khi xe khó gọi và giá thay đổi. Với em bé, việc chờ ngoài trời có thể mệt hơn người lớn nghĩ. Bài [thuê xe máy và đi taxi hoặc ứng dụng: chi phí đi lại nội thành](/xe-may/2026/09/29/thue-xe-may-va-i-taxiung-dung-chi-phi-i-lai-noi-thanh/) bàn thêm về cách so hai hình thức.
+Cũng nên tính thời gian chờ xe, nhất là vào giờ cao điểm hoặc ngày mưa, khi xe khó gọi và giá thay đổi. Với em bé, việc chờ ngoài trời có thể mệt hơn người lớn nghĩ. Bài [thuê xe máy và đi taxi hoặc ứng dụng: chi phí đi lại nội thành](/xe-may/2026/09/29/thue-xe-may-va-di-taxiung-dung-chi-phi-di-lai-noi-thanh/) bàn thêm về cách so hai hình thức.
 
 ## Giờ giấc và thời tiết: yếu tố quyết định với em bé nhỏ
 

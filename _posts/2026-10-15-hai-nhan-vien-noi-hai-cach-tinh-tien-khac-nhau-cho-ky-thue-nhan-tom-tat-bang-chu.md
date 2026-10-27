@@ -41,7 +41,7 @@ Nếu tiệm có bảng giá, hãy xin xem hoặc chụp lại. Bài không bi�
 
 Mở lại tin nhắn đặt xe và biên nhận nếu có: cách tính nào được ghi, gói nào, số ngày nào, giờ trả nào. Văn bản có từ trước thường là mốc rõ nhất để đối chiếu.
 
-Bài [cách đọc báo giá thuê xe máy: con số nào là con số thật](/thue-xe/2026/09/27/cach-oc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that/) nói cách đọc báo giá, và [thấy hai bảng giá thuê xe máy khác nhau trên mạng: kiểm tra giá hiện hành của cửa hàng ở đâu](/thue-xe/2026/10/15/thay-hai-bang-gia-thue-xe-may-khac-nhau-tren-mang-kiem-tra-gia-hien-hanh-cua-cua/) nói về trường hợp thấy hai bảng giá khác nhau.
+Bài [cách đọc báo giá thuê xe máy: con số nào là con số thật](/thue-xe/2026/09/27/cach-doc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that/) nói cách đọc báo giá, và [thấy hai bảng giá thuê xe máy khác nhau trên mạng: kiểm tra giá hiện hành của cửa hàng ở đâu](/thue-xe/2026/10/15/thay-hai-bang-gia-thue-xe-may-khac-nhau-tren-mang-kiem-tra-gia-hien-hanh-cua-cua/) nói về trường hợp thấy hai bảng giá khác nhau.
 
 ## Nhắn tóm tắt bằng chữ: một tin để chốt trước khi trả
 
