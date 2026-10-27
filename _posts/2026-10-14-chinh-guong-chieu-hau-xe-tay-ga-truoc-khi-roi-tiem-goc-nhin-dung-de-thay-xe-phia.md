@@ -15,7 +15,7 @@ writer: W2
 writer_session: s-claude-w2
 ---
 
-Vừa nhận chiếc xe ga thuê, dắt ra khỏi tiệm ở Long Biên là đã phải nhập vào dòng xe trên đường Nguyễn Văn Cừ. Đây là lúc nhiều người mới phát hiện hai chiếc gương đang chỉ vào trời, vào khuỷu tay mình hoặc vào lề đường. Chỉnh gương xe tay ga ngay khi còn đứng trong sân tiệm chỉ mất vài phút, nhưng nó quyết định bạn có thấy chiếc xe đang lao lên từ phía sau hay không. Bài này không nhắc lại toàn bộ các bước [chỉnh gương, ngồi thử và dắt xe khi nhận xe thuê](/thue-xe/2026/10/12/chinh-guong-ngoi-thu-va-dat-xe-lam-xe-thue-vua-tam-voc-truoc-khi-i/), mà đi sâu vào một việc: tìm đúng góc nhìn cho hai gương theo vóc người của bạn, rồi tập thói quen liếc gương cho phố đông Hà Nội.
+Vừa nhận chiếc xe ga thuê, dắt ra khỏi tiệm ở Long Biên là đã phải nhập vào dòng xe trên đường Nguyễn Văn Cừ. Đây là lúc nhiều người mới phát hiện hai chiếc gương đang chỉ vào trời, vào khuỷu tay mình hoặc vào lề đường. Chỉnh gương xe tay ga ngay khi còn đứng trong sân tiệm chỉ mất vài phút, nhưng nó quyết định bạn có thấy chiếc xe đang lao lên từ phía sau hay không. Bài này không nhắc lại toàn bộ các bước [chỉnh gương, ngồi thử và dắt xe khi nhận xe thuê](/thue-xe/2026/10/12/chinh-guong-ngoi-thu-va-dat-xe-lam-xe-thue-vua-tam-voc-truoc-khi-di/), mà đi sâu vào một việc: tìm đúng góc nhìn cho hai gương theo vóc người của bạn, rồi tập thói quen liếc gương cho phố đông Hà Nội.
 
 ## Vì sao gương xe ga thuê thường bị lệch khi bạn nhận
 
@@ -65,7 +65,7 @@ Cách khắc phục không phải là chỉnh gương thật rộng, mà là gh�
 2. Ngoái đầu thật nhanh qua vai về phía định chuyển sang để kiểm tra điểm mù.
 3. Bật xi nhan, chờ một nhịp, rồi mới chuyển hướng từ từ.
 
-Bài [chuyển làn an toàn với gương, xi nhan và cái ngoái vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-i-xe-may-guong-xi-nhan-vai/) phân tích kỹ trình tự này nếu bạn muốn luyện thêm.
+Bài [chuyển làn an toàn với gương, xi nhan và cái ngoái vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-di-xe-may-guong-xi-nhan-vai/) phân tích kỹ trình tự này nếu bạn muốn luyện thêm.
 
 ## Thói quen liếc gương khi chuyển làn và rẽ trái trong phố đông
 
@@ -76,7 +76,7 @@ Gương chỉ có ích khi bạn nhìn vào nó đúng lúc. Với người mớ
 - **Trước khi rẽ trái.** Đây là thao tác nguy hiểm nhất trong phố, vì bạn phải cắt sang phía có xe vượt. Liếc gương trái, ngoái đầu, bật xi nhan sớm, rồi mới nhích dần vào làn rẽ, như khi rẽ từ đường Nguyễn Văn Cừ vào các ngõ phía Bồ Đề hay đi về phía cầu Long Biên.
 - **Khi dừng đèn đỏ và lúc xuất phát lại.** Kiểm tra có xe nào đang len lên bên cạnh không trước khi bạn bắt đầu tăng ga.
 
-Một nhịp liếc gương chỉ nên ngắn, khoảng một cái chớp mắt, rồi đưa mắt về phía trước. Bài [chỉnh gương xe máy đúng cách khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-ung-cach-khi-dung-en-o/) có thêm mẹo xử lý khi gương bị xô lệch giữa đường.
+Một nhịp liếc gương chỉ nên ngắn, khoảng một cái chớp mắt, rồi đưa mắt về phía trước. Bài [chỉnh gương xe máy đúng cách khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-dung-cach-khi-dung-den-do/) có thêm mẹo xử lý khi gương bị xô lệch giữa đường.
 
 ## Giữ gương đúng góc suốt những ngày thuê
 

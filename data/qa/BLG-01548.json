@@ -47,9 +47,35 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-07-xe-50cc-thue-co-can-giay-phep-lai-khong.md",
-  "content_sha256": "c9d5fd844ea2979048f5ed0bed16ce779d42b5b31cada12bdc8b1ebeec3460fa",
-  "matrix_row_sha256": "63bd06359e87472a57785d31c4156e84e1ba70ef7685858f21294106344ad01c",
+  "content_sha256": "67581d6a54752f043dcb8de0ef18b5f0e03e29347846a2d2ca4ffa5fd6e73b4a",
+  "matrix_row_sha256": "16f92dfbd77a1fee280053e8e123841c1eef1c22f2c45c2f8b2068c3e0df9623",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-07T13:07:39+00:00"
+  "published_at": "2026-10-07T13:07:39+00:00",
+  "reattestation": {
+    "schema": "reattestation/1",
+    "kind": "domain-migration-v3",
+    "classification": "DOMAIN_ONLY_PROVEN",
+    "proof": "hash cu trong evidence buoc dung byte bai + hang matrix cua baseline bat bien; exact-transform v3 (doi domain + bo /blog/) cua baseline == byte/truong hien tai",
+    "approval_ref": "chu-repo:chi-thi-2026-10-26-master-task-hoan-thanh-1410-url-dung-reattest-hop-le/issue-77 (session_01D88QamSe7ksLm1ZpE5Y7fT)",
+    "batch_id": "reattest-20261027-R15",
+    "rescored_at": "2026-10-27T03:25:54+00:00",
+    "baseline_commit": "1b55bd810aac85dc919eb2a43d71de30ad8d4595",
+    "previous_evidence_path": "data/qa/BLG-01548.json",
+    "previous_evidence_sha256": "28a80b4a6d1249f05a528c4c5701e360a45477d4dc453d54e26918205d360ed3",
+    "previous_content_sha256": "c9d5fd844ea2979048f5ed0bed16ce779d42b5b31cada12bdc8b1ebeec3460fa",
+    "previous_matrix_row_sha256": "63bd06359e87472a57785d31c4156e84e1ba70ef7685858f21294106344ad01c",
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/reattest-legacy-qa.py",
+    "tool_commit": "261670932e9b74fc2330516c64024695d78ea27d",
+    "tool_sha256": "2c44bcf42e75f99ef84d1770a6fec433adca157019a788440d1cb5d76e25a751",
+    "scorer_code_sha256": "b4a8836fab455ec134ecb2a01ebaa1ebce70e7a503a12e3fb00265e671d73201",
+    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); chat diem doc lap xay ra luc rescored_at"
+  }
 }

@@ -68,11 +68,11 @@ Nếu thời gian còn rộng và tiệm sửa xe nằm ngay trước mặt, b�
 2. Cửa hàng cho thuê đã biết và đồng ý.
 3. Sau khi sửa vẫn còn dư thời gian, kể cả khi đường ra Nội Bài bị ùn.
 
-Nếu thiếu một trong ba điều đó, hãy chọn phương án an toàn: gửi xe, gọi xe khác. Xe vừa sửa xong cũng cần chạy thử chậm trước khi lên đường lớn, bước mà người đang vội hay bỏ qua. Cách xử lý ban đầu khi xe dừng giữa đường được nói kỹ trong bài [xe thuê chết máy giữa đường: tự xử hay gọi chủ xe](/xe-may/2026/09/30/xe-thue-chet-may-giua-uong-tu-xu-hay-goi-chu-xe/).
+Nếu thiếu một trong ba điều đó, hãy chọn phương án an toàn: gửi xe, gọi xe khác. Xe vừa sửa xong cũng cần chạy thử chậm trước khi lên đường lớn, bước mà người đang vội hay bỏ qua. Cách xử lý ban đầu khi xe dừng giữa đường được nói kỹ trong bài [xe thuê chết máy giữa đường: tự xử hay gọi chủ xe](/xe-may/2026/09/30/xe-thue-chet-may-giua-duong-tu-xu-hay-goi-chu-xe/).
 
 ## Tình huống cụ thể: trên đường ra Nội Bài và gần ga Hà Nội
 
-**Trên đường ra sân bay.** Lộ trình qua cầu Nhật Tân rồi theo đường Võ Nguyên Giáp có nhiều đoạn xe chạy nhanh, ô tô và xe khách đông. Nếu xe có vấn đề trên cầu, đừng dừng giữa cầu; giữ lề phải, đi chậm hết cầu rồi mới tấp vào. Chỉ đứng chờ xe đón ở nơi tài xế có thể dừng an toàn. Nếu bạn định đi xe máy thuê ra sân bay, nên đọc trước bài [đi xe máy từ Hà Nội ra Nội Bài hoặc các tỉnh lân cận](/thue-xe/2026/09/27/i-xe-may-tu-ha-noi-ra-noi-bai-hoac-cac-tinh-lan-can/).
+**Trên đường ra sân bay.** Lộ trình qua cầu Nhật Tân rồi theo đường Võ Nguyên Giáp có nhiều đoạn xe chạy nhanh, ô tô và xe khách đông. Nếu xe có vấn đề trên cầu, đừng dừng giữa cầu; giữ lề phải, đi chậm hết cầu rồi mới tấp vào. Chỉ đứng chờ xe đón ở nơi tài xế có thể dừng an toàn. Nếu bạn định đi xe máy thuê ra sân bay, nên đọc trước bài [đi xe máy từ Hà Nội ra Nội Bài hoặc các tỉnh lân cận](/thue-xe/2026/09/27/di-xe-may-tu-ha-noi-ra-noi-bai-hoac-cac-tinh-lan-can/).
 
 **Gần ga Hà Nội.** Phố Lê Duẩn, Trần Hưng Đạo thường đông, vỉa hè hẹp. Gửi xe có vé ở bãi quanh ga rồi đi bộ vào; giờ lên tàu là mốc cứng.
 

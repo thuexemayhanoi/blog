@@ -19,7 +19,7 @@ Xe máy đang chạy bị mất điện là tình huống ít gặp nhưng khi�
 
 ## Nhận ra xe máy đang chạy bị mất điện
 
-Mất điện toàn bộ khác với cháy một bóng đèn. Nếu chỉ đèn pha tắt mà đồng hồ vẫn sáng, đó là lỗi riêng của đèn, xem thêm bài [đèn pha xe thuê không sáng khi đi đêm](/xe-may/2026/09/29/en-pha-xe-thue-khong-sang-khi-i-em-kiem-tra-gi/). Còn khi mất nguồn điện đột ngột, các dấu hiệu thường đến cùng lúc:
+Mất điện toàn bộ khác với cháy một bóng đèn. Nếu chỉ đèn pha tắt mà đồng hồ vẫn sáng, đó là lỗi riêng của đèn, xem thêm bài [đèn pha xe thuê không sáng khi đi đêm](/xe-may/2026/09/29/den-pha-xe-thue-khong-sang-khi-di-dem-kiem-tra-gi/). Còn khi mất nguồn điện đột ngột, các dấu hiệu thường đến cùng lúc:
 
 - Mặt đồng hồ tắt hẳn: kim hoặc màn hình xăng, tốc độ, đèn báo đều tối.
 - Đèn pha, đèn hậu, đèn xi nhan cùng không hoạt động.
@@ -53,7 +53,7 @@ Có, nhưng chỉ thử một lần và làm đúng cách. Đôi khi nguồn m�
 
 Nếu xoay chìa mà đồng hồ vẫn tối, đừng vặn đi vặn lại nhiều lần, cũng đừng đề liên tục. Điện đã mất thì đề thêm không giúp gì.
 
-Trường hợp có điện trở lại nhưng đèn yếu hoặc thỉnh thoảng lại tắt, coi như xe chưa an toàn để đi đêm. Hãy báo cửa hàng trước khi quyết định đi tiếp, và nếu được thì chỉ đi đoạn ngắn đến chỗ sáng gần nhất. Dấu hiệu bình điện yếu dần được nói kỹ trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/).
+Trường hợp có điện trở lại nhưng đèn yếu hoặc thỉnh thoảng lại tắt, coi như xe chưa an toàn để đi đêm. Hãy báo cửa hàng trước khi quyết định đi tiếp, và nếu được thì chỉ đi đoạn ngắn đến chỗ sáng gần nhất. Dấu hiệu bình điện yếu dần được nói kỹ trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/).
 
 ## Vì sao không tự tháo bình điện hay cầu chì
 
@@ -64,7 +64,7 @@ Trên mạng có nhiều video hướng dẫn mở yếm, rút cầu chì, siế
 - **Thay cầu chì sai loại rất nguy hiểm.** Cầu chì cháy thường là dấu hiệu có chỗ chập. Thay bằng dây đồng hay cầu chì lớn hơn có thể khiến dây điện nóng chảy.
 - **Cửa hàng cần thấy xe nguyên trạng.** Thợ tìm nguyên nhân nhanh hơn khi xe chưa bị tháo lắp.
 
-Điều bạn có thể làm là nhìn bằng mắt: có dây nào lủng lẳng, có mùi khét, có khói hay chỗ nào nóng bất thường không. Nếu có mùi khét hoặc khói, tránh xa xe một khoảng và báo ngay, như hướng dẫn trong bài [đang đi xe thuê có mùi khét](/xe-may/2026/10/01/ang-i-xe-thue-co-mui-khet-dung-xe-va-kiem-tra-au/).
+Điều bạn có thể làm là nhìn bằng mắt: có dây nào lủng lẳng, có mùi khét, có khói hay chỗ nào nóng bất thường không. Nếu có mùi khét hoặc khói, tránh xa xe một khoảng và báo ngay, như hướng dẫn trong bài [đang đi xe thuê có mùi khét](/xe-may/2026/10/01/dang-di-xe-thue-co-mui-khet-dung-xe-va-kiem-tra-dau/).
 
 ## Báo cửa hàng: nói gì để được hỗ trợ nhanh
 

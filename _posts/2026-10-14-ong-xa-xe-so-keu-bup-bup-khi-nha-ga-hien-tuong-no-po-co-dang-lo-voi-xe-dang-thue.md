@@ -39,7 +39,7 @@ Bạn có thể yên tâm hơn khi tiếng nổ có những đặc điểm này:
 
 Trong trường hợp này, tiếng bụp thường chỉ phản ánh cách máy đang được điều khiển, chẳng hạn nhả ga quá gắt hoặc đi số quá thấp khi xuống dốc. Một số xe chạy tốt vẫn có tiếng nổ nhẹ như vậy, nhất là khi thời tiết đổi hoặc máy vừa đi xa.
 
-Bạn có thể giảm tiếng nổ bằng cách nhả ga từ từ thay vì buông hẳn, đi đúng số theo tốc độ và kết hợp phanh khi xuống dốc. Bài [về số mo xuống dốc cho đỡ hao xăng](/xe-may/2026/10/11/ve-so-mo-xuong-doc-cho-o-hao-xang-vi-sao-nen-bo-thoi-quen-nay/) giải thích vì sao vẫn nên giữ xe trong số khi đổ dốc, chỉ cần chọn số hợp lý và không ghì máy quá lâu.
+Bạn có thể giảm tiếng nổ bằng cách nhả ga từ từ thay vì buông hẳn, đi đúng số theo tốc độ và kết hợp phanh khi xuống dốc. Bài [về số mo xuống dốc cho đỡ hao xăng](/xe-may/2026/10/11/ve-so-mo-xuong-doc-cho-do-hao-xang-vi-sao-nen-bo-thoi-quen-nay/) giải thích vì sao vẫn nên giữ xe trong số khi đổ dốc, chỉ cần chọn số hợp lý và không ghì máy quá lâu.
 
 ## Dấu hiệu cho thấy nên dừng kiểm tra
 
@@ -55,7 +55,7 @@ Tiếng nổ trở thành chuyện đáng lo khi nó đi kèm thay đổi khác 
 
 Những dấu hiệu này có thể liên quan đến hỗn hợp xăng gió không đúng, đánh lửa yếu, hoặc chỗ nối đường xả bị hở. Đó là việc của thợ, không phải của người thuê. Đừng cố chạy tiếp quãng xa để xem có tự hết không, vì xe hụt ga giữa dòng xe đông trên cầu hay đường lớn còn nguy hiểm hơn tiếng nổ.
 
-Nếu trên đồng hồ có đèn báo sáng, bài [đèn kiểm tra động cơ sáng trên xe số thuê](/xe-may/2026/10/14/den-kiem-tra-dong-co-sang-tren-xe-so-thue-luc-nao-la-binh-thuong-luc-nao-phai-du/) giúp bạn đọc tín hiệu đó. Còn màu khói thì có thể đối chiếu với bài [xe số xả khói trắng, xanh hay đen](/xe-may/2026/10/11/xe-so-xa-khoi-trang-xanh-hay-en-khoi-nao-can-bao-cua-hang/).
+Nếu trên đồng hồ có đèn báo sáng, bài [đèn kiểm tra động cơ sáng trên xe số thuê](/xe-may/2026/10/14/den-kiem-tra-dong-co-sang-tren-xe-so-thue-luc-nao-la-binh-thuong-luc-nao-phai-du/) giúp bạn đọc tín hiệu đó. Còn màu khói thì có thể đối chiếu với bài [xe số xả khói trắng, xanh hay đen](/xe-may/2026/10/11/xe-so-xa-khoi-trang-xanh-hay-den-khoi-nao-can-bao-cua-hang/).
 
 ## Người thuê không nên tự xử lý gì
 
@@ -77,7 +77,7 @@ Thông tin càng rõ thì người ở cửa hàng càng dễ đoán tình trạ
 3. Dấu hiệu kèm theo: hụt ga, tắt máy, mùi xăng, khói, đèn báo.
 4. Vị trí của bạn và quãng đường đã đi trong ngày.
 
-Một đoạn ghi âm ngắn lúc xe đang nổ máy rồi nhả ga thường nói được nhiều hơn mô tả bằng lời. Nếu được, quay thêm vài giây ở đuôi ống xả khi trời tối để thấy có ánh lửa hay không. Bài [tiếng máy xe số nổ to hơn bình thường](/xe-may/2026/10/03/tieng-may-xe-so-no-to-hon-binh-thuong-can-e-y-gi/) có thêm cách phân biệt tiếng từ ống xả với tiếng từ lốc máy.
+Một đoạn ghi âm ngắn lúc xe đang nổ máy rồi nhả ga thường nói được nhiều hơn mô tả bằng lời. Nếu được, quay thêm vài giây ở đuôi ống xả khi trời tối để thấy có ánh lửa hay không. Bài [tiếng máy xe số nổ to hơn bình thường](/xe-may/2026/10/03/tieng-may-xe-so-no-to-hon-binh-thuong-can-de-y-gi/) có thêm cách phân biệt tiếng từ ống xả với tiếng từ lốc máy.
 
 ## Một ví dụ trên đường Hà Nội
 

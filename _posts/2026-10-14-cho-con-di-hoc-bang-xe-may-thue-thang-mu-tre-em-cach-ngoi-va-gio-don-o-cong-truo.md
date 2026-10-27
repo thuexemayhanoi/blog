@@ -28,7 +28,7 @@ Thói quen nên làm mỗi sáng, chỉ mất chưa tới một phút:
 - **Kiểm tra vành mũ.** Vành nằm ngay trên lông mày, không che mắt.
 - **Buộc gọn tóc dài.** Tóc buộc cao quá đỉnh đầu khiến mũ bị đẩy lệch, nên buộc thấp ra sau gáy.
 
-Trẻ lớn rất nhanh, nên cứ vài tuần hãy thử lại độ vừa của mũ. Cách chọn mũ cho trẻ từ đầu được hướng dẫn kỹ trong bài [chọn mũ bảo hiểm cho trẻ đi cùng trên xe máy thuê](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-i-cung-tren-xe-may-thue/). Khi thuê xe tháng, nếu tiệm có sẵn mũ trẻ em thì hỏi thử cỡ ngay lúc nhận xe; nếu không vừa, tốt nhất mua cho con một chiếc riêng để dùng suốt năm học.
+Trẻ lớn rất nhanh, nên cứ vài tuần hãy thử lại độ vừa của mũ. Cách chọn mũ cho trẻ từ đầu được hướng dẫn kỹ trong bài [chọn mũ bảo hiểm cho trẻ đi cùng trên xe máy thuê](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-di-cung-tren-xe-may-thue/). Khi thuê xe tháng, nếu tiệm có sẵn mũ trẻ em thì hỏi thử cỡ ngay lúc nhận xe; nếu không vừa, tốt nhất mua cho con một chiếc riêng để dùng suốt năm học.
 
 ## Cách con ngồi trên xe khi chở con đi học bằng xe máy
 
@@ -51,7 +51,7 @@ Cặp nặng đeo trên lưng con sẽ kéo con ngả về sau mỗi lần xe t�
 
 Khi chở con, mục tiêu không phải đến nhanh mà là đến êm. Con không đoán trước được cú phanh như người lớn, nên mọi thao tác cần nhẹ nhàng hơn bình thường:
 
-- **Xuất phát sớm hơn vài phút.** Đi muộn là lý do khiến bố mẹ luồn lách và phanh gấp. Xem thêm cách chọn giờ đi trong bài [giờ cao điểm Hà Nội và cách chọn giờ xuất phát](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/).
+- **Xuất phát sớm hơn vài phút.** Đi muộn là lý do khiến bố mẹ luồn lách và phanh gấp. Xem thêm cách chọn giờ đi trong bài [giờ cao điểm Hà Nội và cách chọn giờ xuất phát](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/).
 - **Phanh sớm, phanh đều cả hai phanh.** Nhả ga từ xa trước đèn đỏ, trước gờ giảm tốc.
 - **Qua gờ, ổ gà thật chậm.** Báo trước cho con một câu "sắp qua gờ" để con ôm chặt.
 - **Đi làn bên phải, tránh luồn giữa hai hàng xe.** Chân con có thể chạm vào xe bên cạnh khi khe hẹp.
@@ -69,7 +69,7 @@ Một vài thói quen giúp việc thả con nhanh và an toàn hơn:
 - **Không dừng ngay trước cổng nếu đã có hàng xe.** Dừng xa hơn vài chục bước rồi dắt con đi bộ vào còn nhanh hơn chen vào giữa.
 - **Mũ của con mang về hoặc để cố định một chỗ.** Thống nhất trước để chiều đón không bị quên mũ ở lớp.
 
-Nếu trường nằm trong ngõ chật không có chỗ dừng, hãy tìm một điểm gửi xe gần đó. Bài [gửi xe ở trường học ngõ nhỏ khi đưa đón con](/ky-nang/2026/10/04/gui-xe-o-truong-hoc-ngo-nho-khi-ua-on-con/) có các cách chọn chỗ gửi không chắn lối.
+Nếu trường nằm trong ngõ chật không có chỗ dừng, hãy tìm một điểm gửi xe gần đó. Bài [gửi xe ở trường học ngõ nhỏ khi đưa đón con](/ky-nang/2026/10/04/gui-xe-o-truong-hoc-ngo-nho-khi-dua-don-con/) có các cách chọn chỗ gửi không chắn lối.
 
 ## Giờ đón con: chờ ở đâu và hẹn con thế nào
 

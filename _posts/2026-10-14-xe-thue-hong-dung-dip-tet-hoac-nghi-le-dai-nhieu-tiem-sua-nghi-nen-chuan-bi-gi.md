@@ -68,7 +68,7 @@ Khi xe đã hỏng, thứ tự xử lý vẫn giống ngày thường: tấp và
 
 ### Lốp xịt
 
-Đây là lỗi hay gặp nhất. Nếu lốp chỉ non hơi, dắt hoặc chạy thật chậm tới tiệm vá gần nhất. Nếu lốp xẹp hẳn, đừng cố chạy xa vì dễ hỏng săm, lốp và vành. Các bước chi tiết có ở bài [đang đi xe thuê bị xịt lốp: làm gì ngay](/xe-may/2026/09/29/ang-i-xe-thue-bi-xit-lop-lam-gi-ngay/).
+Đây là lỗi hay gặp nhất. Nếu lốp chỉ non hơi, dắt hoặc chạy thật chậm tới tiệm vá gần nhất. Nếu lốp xẹp hẳn, đừng cố chạy xa vì dễ hỏng săm, lốp và vành. Các bước chi tiết có ở bài [đang đi xe thuê bị xịt lốp: làm gì ngay](/xe-may/2026/09/29/dang-di-xe-thue-bi-xit-lop-lam-gi-ngay/).
 
 ### Hết xăng hoặc xe chết máy
 

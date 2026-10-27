@@ -32,7 +32,7 @@ Tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở c�
 Một vài lưu ý cho hướng này:
 
 - Quốc lộ 5 có rất nhiều xe container và xe tải ra vào các khu công nghiệp. Đi sát lề phải, tránh đứng sau đuôi xe lớn và hạn chế vượt khi tầm nhìn bị che.
-- Đường cao tốc Hà Nội – Hải Phòng không dành cho xe máy. Hãy bám quốc lộ, xem kỹ biển báo ở các nút giao để không đi nhầm vào lối lên cao tốc. Bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/) giải thích cách nhận biết biển cấm.
+- Đường cao tốc Hà Nội – Hải Phòng không dành cho xe máy. Hãy bám quốc lộ, xem kỹ biển báo ở các nút giao để không đi nhầm vào lối lên cao tốc. Bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/) giải thích cách nhận biết biển cấm.
 - Nếu đi Hạ Long, nhiều người chọn rẽ lên phía Bắc Ninh rồi theo quốc lộ 18. Hãy xem bản đồ trước và quyết định tuyến ngay từ khi còn ở nhà, đừng đổi ý giữa đường.
 
 ## Hướng Bắc: Bắc Ninh, Thái Nguyên, Vĩnh Phúc không cần qua sông Hồng
@@ -64,7 +64,7 @@ Cuối tuần và dịp lễ, dòng xe rời Hà Nội rất đông ở mọi c�
 Chuyến đi dài cần kiểm tra xe kỹ hơn một vòng đi phố. Khi nhận xe ở Long Biên, hãy dành thời gian làm mấy việc:
 
 - Thử phanh trước, phanh sau, xem độ mòn lốp và hỏi áp suất lốp nên giữ ở mức nào khi chở thêm hành lý.
-- Bật đèn pha, đèn cốt, xi nhan và còi. Bài [kiểm tra đèn, xi nhan và còi trước chuyến đi xa](/xe-may/2026/10/03/kiem-tra-en-xi-nhan-va-coi-truoc-chuyen-i-xa/) có danh sách chi tiết.
+- Bật đèn pha, đèn cốt, xi nhan và còi. Bài [kiểm tra đèn, xi nhan và còi trước chuyến đi xa](/xe-may/2026/10/03/kiem-tra-den-xi-nhan-va-coi-truoc-chuyen-di-xa/) có danh sách chi tiết.
 - Hỏi rõ giấy tờ xe sẽ để ở đâu, cách liên hệ khi xe gặp sự cố ở tỉnh, và giờ trả xe khi quay về.
 - Chụp ảnh tình trạng xe, mức xăng lúc nhận để tránh hiểu lầm lúc trả.
 
@@ -72,4 +72,4 @@ Chuyến đi dài cần kiểm tra xe kỹ hơn một vòng đi phố. Khi nhậ
 
 Nếu bạn đi về phía Đông hay phía Bắc, nhận xe ở Long Biên gần như là lựa chọn gọn nhất, vì bạn đứng sẵn ở bờ trái sông Hồng và chỉ cần bám quốc lộ là ra khỏi thành phố. Nếu đi phía Nam hay phía Tây, vẫn có thể nhận xe ở đây khi bạn ở bờ đông, miễn là chọn cầu đúng và tránh giờ cao điểm.
 
-Muốn so sánh thêm các khu khác, xem chuyên mục [thuê xe theo địa điểm](/thue-xe/thue-theo-dia-diem/), hoặc bài [thuê xe máy khu Long Biên tiện qua sông và đường tỉnh](/thue-xe/2026/10/11/thue-xe-may-khu-long-bien-tien-qua-song-va-uong-tinh/). Các kinh nghiệm khác về thuê xe có trong mục [thuê xe máy](/thue-xe/).
+Muốn so sánh thêm các khu khác, xem chuyên mục [thuê xe theo địa điểm](/thue-xe/thue-theo-dia-diem/), hoặc bài [thuê xe máy khu Long Biên tiện qua sông và đường tỉnh](/thue-xe/2026/10/11/thue-xe-may-khu-long-bien-tien-qua-song-va-duong-tinh/). Các kinh nghiệm khác về thuê xe có trong mục [thuê xe máy](/thue-xe/).

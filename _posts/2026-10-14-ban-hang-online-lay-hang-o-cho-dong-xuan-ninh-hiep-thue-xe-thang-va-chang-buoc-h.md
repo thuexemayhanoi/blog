@@ -23,7 +23,7 @@ Với shop nhỏ, lịch nhập hàng hiếm khi cố định. Có tuần đi ha
 
 Thêm nữa, sau vài chuyến bạn quen tay với đúng một chiếc xe: cốp chứa được bao nhiêu túi, giá sau chịu kiểu bao nào, xe phản ứng ra sao khi chở nặng qua dốc cầu.
 
-Nếu bạn còn phân vân giữa các gói, xem tổng quan ở mục [thuê xe theo tháng](/thue-xe/thue-thang/) và bài [thuê xe máy theo tháng cho người đi giao hàng nhỏ lẻ](/thue-xe/2026/10/10/thue-xe-may-theo-thang-cho-nguoi-i-giao-hang-nho-le/), vì nhiều chủ shop vừa nhập hàng vừa tự giao đơn gần.
+Nếu bạn còn phân vân giữa các gói, xem tổng quan ở mục [thuê xe theo tháng](/thue-xe/thue-thang/) và bài [thuê xe máy theo tháng cho người đi giao hàng nhỏ lẻ](/thue-xe/2026/10/10/thue-xe-may-theo-thang-cho-nguoi-di-giao-hang-nho-le/), vì nhiều chủ shop vừa nhập hàng vừa tự giao đơn gần.
 
 ## Chọn xe theo kiểu hàng bạn nhập
 
@@ -47,7 +47,7 @@ Ra tới chợ mới nhớ thiếu dây là chuyện rất hay gặp. Để sẵ
 
 ## Đến chợ Đồng Xuân và Ninh Hiệp: đường đi, gửi xe, giờ giấc
 
-**Chợ Đồng Xuân** nằm trong phố cổ Hoàn Kiếm, xung quanh là các phố Hàng Chiếu, Hàng Khoai, Đồng Xuân với lòng đường hẹp và rất đông xe chở hàng. Từ phía Long Biên, bạn qua cầu Chương Dương rồi vào Trần Nhật Duật là gần chợ. Đừng cố len xe vào sâu các ngõ, hãy gửi xe ở bãi giữ xe quanh chợ, lấy vé và nhớ vị trí, rồi đi bộ vào các sạp. Hướng dẫn chi tiết đường vào và chỗ gửi có ở bài [đến chợ Đồng Xuân bằng xe máy](/du-lich/2026/09/30/en-cho-ong-xuan-bang-xe-may-gui-xe-va-uong-i/).
+**Chợ Đồng Xuân** nằm trong phố cổ Hoàn Kiếm, xung quanh là các phố Hàng Chiếu, Hàng Khoai, Đồng Xuân với lòng đường hẹp và rất đông xe chở hàng. Từ phía Long Biên, bạn qua cầu Chương Dương rồi vào Trần Nhật Duật là gần chợ. Đừng cố len xe vào sâu các ngõ, hãy gửi xe ở bãi giữ xe quanh chợ, lấy vé và nhớ vị trí, rồi đi bộ vào các sạp. Hướng dẫn chi tiết đường vào và chỗ gửi có ở bài [đến chợ Đồng Xuân bằng xe máy](/du-lich/2026/09/30/den-cho-dong-xuan-bang-xe-may-gui-xe-va-duong-di/).
 
 **Chợ Ninh Hiệp** thuộc huyện Gia Lâm, phía bắc Long Biên, nổi tiếng với vải và quần áo sỉ. Đường đi thường theo Ngô Gia Tự hướng Yên Viên rồi rẽ vào khu chợ. Đường xa hơn, có xe tải chạy nhanh, nên khi chở hàng về hãy đi sát lề phải. Tại Ninh Hiệp, nhiều cửa hàng có chỗ dựng xe trước cửa hoặc bãi gửi gần dãy hàng, hỏi người bán trước khi dựng để không chắn lối xe khác.
 
@@ -63,7 +63,7 @@ Phần này quyết định chuyến về an toàn hay không. Nguyên tắc chu
 - **Không để hàng chìa ra hai bên quá thân xe.** Khu phố cổ hẹp, một bao vải chìa ngang dễ quệt vào xe bên cạnh hoặc gương ô tô.
 - **Không treo bao nặng ở móc trước.** Hàng treo đung đưa làm lệch tay lái, nhất là khi ôm cua.
 
-Cách đặt và buộc hàng cồng kềnh được phân tích kỹ trong bài [chở thùng giấy cồng kềnh trên xe máy](/ky-nang/2026/10/11/cho-thung-giay-cong-kenh-tren-xe-may-buoc-va-at-ung-cach/), áp dụng tốt cho cả thùng hàng nhập. Nếu lượng hàng vượt sức một chiếc xe, hãy chia hai lượt hoặc nhờ người bán gửi xe hàng, đừng cố chất cao.
+Cách đặt và buộc hàng cồng kềnh được phân tích kỹ trong bài [chở thùng giấy cồng kềnh trên xe máy](/ky-nang/2026/10/11/cho-thung-giay-cong-kenh-tren-xe-may-buoc-va-dat-dung-cach/), áp dụng tốt cho cả thùng hàng nhập. Nếu lượng hàng vượt sức một chiếc xe, hãy chia hai lượt hoặc nhờ người bán gửi xe hàng, đừng cố chất cao.
 
 ## Giữ xe tháng bền khi chở hàng thường xuyên
 

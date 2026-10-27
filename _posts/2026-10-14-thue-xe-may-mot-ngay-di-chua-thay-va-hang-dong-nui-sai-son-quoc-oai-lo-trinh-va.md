@@ -40,7 +40,7 @@ Gần tới cổng chùa, thường có người đứng ven đường vẫy m�
 - **Mang theo người giấy tờ xe, ví và điện thoại.** Cốp xe chỉ để áo mưa, mũ bảo hiểm và đồ không giá trị.
 - **Khóa cổ xe và ghi nhớ vị trí bãi**, vì từ trên núi xuống bạn có thể đi ra một lối khác.
 
-Một số bãi gửi xe xin giữ chìa để tiện xếp xe. Nếu không muốn, cứ nói rõ, hoặc chọn bãi cho tự khóa và cầm chìa theo. Bài [chạy xe đi chùa Thầy: gửi xe và thời điểm đẹp](/du-lich/2026/10/01/chay-xe-i-chua-thay-gui-xe-va-thoi-iem-ep/) có thêm gợi ý về mùa đi đẹp nếu bạn còn đang chọn ngày.
+Một số bãi gửi xe xin giữ chìa để tiện xếp xe. Nếu không muốn, cứ nói rõ, hoặc chọn bãi cho tự khóa và cầm chìa theo. Bài [chạy xe đi chùa Thầy: gửi xe và thời điểm đẹp](/du-lich/2026/10/01/chay-xe-di-chua-thay-gui-xe-va-thoi-diem-dep/) có thêm gợi ý về mùa đi đẹp nếu bạn còn đang chọn ngày.
 
 ## Leo núi Sài Sơn và các hang động
 

@@ -38,7 +38,7 @@ Khác biệt lớn nhất của tuần thuê dịp Tết là lịch làm việc 
 3. **Có giao xe tận nơi không.** Việc giao chỉ trong giờ hoạt động; thời gian và chi phí giao nhận phải xác nhận trước khi đặt.
 4. **Muốn gia hạn thì báo trước bao lâu,** và xe trục trặc giữa tuần, đúng hôm tiệm nghỉ, thì liên hệ thế nào.
 
-Cách hẹn nhận trả trong các kỳ nghỉ dài nói chung có ở bài [thuê xe máy dịp lễ dài và Tết: đặt sớm và hỏi lịch nhận trả](/thue-xe/2026/10/11/thue-xe-may-dip-le-dai-va-tet-at-som-va-hoi-lich-nhan-tra-ra-sao/). Với xe thuê tuần, ngày trả quan trọng không kém ngày nhận.
+Cách hẹn nhận trả trong các kỳ nghỉ dài nói chung có ở bài [thuê xe máy dịp lễ dài và Tết: đặt sớm và hỏi lịch nhận trả](/thue-xe/2026/10/11/thue-xe-may-dip-le-dai-va-tet-dat-som-va-hoi-lich-nhan-tra-ra-sao/). Với xe thuê tuần, ngày trả quan trọng không kém ngày nhận.
 
 ## Xếp tuần Tết thành ba chặng để dùng xe cho trọn
 

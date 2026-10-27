@@ -88,7 +88,7 @@ Ngày trả xe, hãy chủ động làm theo đúng thứ tự trên biên bản
 6. **Nhận lại giấy tờ hoặc khoản đảm bảo** theo đúng điều kiện đã ghi, kiểm tra trước khi rời đi.
 7. **Hai bên ký phần trả** và bạn chụp lại toàn bộ biên bản.
 
-Nếu bạn ở xa, ví dụ từ phố cổ Hoàn Kiếm qua cầu Chương Dương sang Long Biên, hãy tính dư thời gian để không phải vội ở bước cuối. Quy trình trả xe đầy đủ hơn, gồm cả những việc nên làm trước khi đến cửa hàng, có trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/).
+Nếu bạn ở xa, ví dụ từ phố cổ Hoàn Kiếm qua cầu Chương Dương sang Long Biên, hãy tính dư thời gian để không phải vội ở bước cuối. Quy trình trả xe đầy đủ hơn, gồm cả những việc nên làm trước khi đến cửa hàng, có trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/).
 
 ## Những lỗi khiến biên bản mất tác dụng khi đối chiếu
 

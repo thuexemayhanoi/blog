@@ -39,7 +39,7 @@ Bạch Mai nằm trên trục Giải Phóng, quận Đống Đa, đoạn gần P
 
 ### Bệnh viện Việt Đức ở khu Hoàn Kiếm
 
-Việt Đức nằm ở khu phố Phủ Doãn, Tràng Thi, quận Hoàn Kiếm, sát phố cổ. Từ Long Biên, qua cầu Chương Dương rồi theo Trần Quang Khải vào trung tâm là tuyến dễ nhớ. Khu này phố nhỏ, nhiều phố một chiều và vỉa hè hẹp, nên đi chậm, đọc biển trước mỗi lần rẽ. Những lưu ý riêng quanh viện này có trong bài [thuê xe máy gần Bệnh viện Việt Đức](/thue-xe/2026/10/10/thue-xe-may-gan-benh-vien-viet-uc-luu-y-khi-en-kham-benh/).
+Việt Đức nằm ở khu phố Phủ Doãn, Tràng Thi, quận Hoàn Kiếm, sát phố cổ. Từ Long Biên, qua cầu Chương Dương rồi theo Trần Quang Khải vào trung tâm là tuyến dễ nhớ. Khu này phố nhỏ, nhiều phố một chiều và vỉa hè hẹp, nên đi chậm, đọc biển trước mỗi lần rẽ. Những lưu ý riêng quanh viện này có trong bài [thuê xe máy gần Bệnh viện Việt Đức](/thue-xe/2026/10/10/thue-xe-may-gan-benh-vien-viet-duc-luu-y-khi-den-kham-benh/).
 
 ### Bệnh viện K cơ sở Tân Triều
 
@@ -53,7 +53,7 @@ Quanh các viện lớn thường có hai kiểu chỗ gửi: bãi trong khuôn 
 - Khóa cổ xe, không để giấy tờ hay đồ giá trị trong cốp.
 - Hỏi người trông xe giờ bãi đóng cửa nếu định ở lại tới tối.
 
-Cách chọn bãi khi sáng sớm đông có ở bài [gửi xe ở bệnh viện lúc giờ khám cao điểm](/ky-nang/2026/10/10/gui-xe-o-benh-vien-luc-gio-kham-cao-iem/).
+Cách chọn bãi khi sáng sớm đông có ở bài [gửi xe ở bệnh viện lúc giờ khám cao điểm](/ky-nang/2026/10/10/gui-xe-o-benh-vien-luc-gio-kham-cao-diem/).
 
 ## Giờ đi bớt đông và quy định thăm của khoa
 

@@ -68,7 +68,7 @@ Giữ vé xe cẩn thận như giữ chìa. Các mẹo chọn bãi và vị trí
 - Áp chìa thẳng, khít vào hốc rồi xoay nhẹ, không xoay mạnh khi chưa khớp.
 - Thử chìa dự phòng nếu cửa hàng giao hai chìa.
 
-Đừng dùng tua vít, dao hay chìa khác để cạy nắp. Nắp che hỏng thì ổ lộ ra suốt phần còn lại của kỳ thuê, và việc sửa cần cửa hàng đồng ý. Nếu khóa cổ kẹt không xoay, các bước gỡ nhẹ tay đã có trong bài [khóa cổ xe máy bị kẹt không xoay được](/ky-nang/2026/10/11/khoa-co-xe-may-bi-ket-khong-xoay-uoc-nguyen-nhan-va-cach-go-nhe-nhang/). Thử vài lần không được thì dừng lại, chụp ảnh ổ khóa và báo cửa hàng.
+Đừng dùng tua vít, dao hay chìa khác để cạy nắp. Nắp che hỏng thì ổ lộ ra suốt phần còn lại của kỳ thuê, và việc sửa cần cửa hàng đồng ý. Nếu khóa cổ kẹt không xoay, các bước gỡ nhẹ tay đã có trong bài [khóa cổ xe máy bị kẹt không xoay được](/ky-nang/2026/10/11/khoa-co-xe-may-bi-ket-khong-xoay-duoc-nguyen-nhan-va-cach-go-nhe-nhang/). Thử vài lần không được thì dừng lại, chụp ảnh ổ khóa và báo cửa hàng.
 
 ## Những thói quen làm hỏng ổ khóa từ trong vài ngày
 

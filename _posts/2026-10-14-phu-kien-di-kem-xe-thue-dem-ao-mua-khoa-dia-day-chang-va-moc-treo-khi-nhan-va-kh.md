@@ -47,7 +47,7 @@ Một mẹo nhỏ: gửi tấm ảnh toàn cảnh kèm danh sách cho tiệm qua
 
 Khóa đĩa thường có chìa riêng, tách khỏi chìa xe. Hãy đếm số chìa của khóa đĩa, móc chung vào chùm chìa xe nếu được, và thử khóa mở một lần ngay tại quầy. Hỏi luôn nên cất khóa đĩa ở đâu khi chạy, vì để lỏng trong cốp có thể kêu lạch cạch.
 
-Quan trọng hơn chuyện đếm: luôn tháo khóa đĩa trước khi dắt xe đi. Quên tháo mà cho xe chạy có thể làm hỏng đĩa phanh và gây ngã. Một số người buộc một sợi dây màu từ khóa đĩa lên tay lái để nhắc mình. Cách dùng khóa khi đỗ xe ở chỗ lạ có trong bài [chống trộm xe máy khi thuê: khóa và cách đỗ xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/).
+Quan trọng hơn chuyện đếm: luôn tháo khóa đĩa trước khi dắt xe đi. Quên tháo mà cho xe chạy có thể làm hỏng đĩa phanh và gây ngã. Một số người buộc một sợi dây màu từ khóa đĩa lên tay lái để nhắc mình. Cách dùng khóa khi đỗ xe ở chỗ lạ có trong bài [chống trộm xe máy khi thuê: khóa và cách đỗ xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/).
 
 ### Dây chằng: đếm sợi và kiểm hai đầu móc
 
@@ -71,7 +71,7 @@ Người thuê theo tuần nên đếm lại một lần vào giữa kỳ, ví d
 
 Đến tiệm, trải phụ kiện ra như lúc nhận, mở tấm ảnh toàn cảnh cũ và đối chiếu theo đúng danh sách. Người nhận xe và bạn cùng nhìn một danh sách, việc này thường chỉ mất vài phút. Chụp thêm một tấm toàn cảnh lúc trả để khép lại hồ sơ.
 
-Trước khi rời chỗ ở, nên đi một vòng phòng và cốp xe theo kiểu [kiểm tra đồ đạc trước khi trả xe](/thue-xe/2026/10/04/kiem-tra-o-ac-truoc-khi-tra-xe-checklist-hai-phut/), vì áo mưa phơi trong nhà tắm hay dây chằng ở góc phòng rất dễ bị bỏ lại.
+Trước khi rời chỗ ở, nên đi một vòng phòng và cốp xe theo kiểu [kiểm tra đồ đạc trước khi trả xe](/thue-xe/2026/10/04/kiem-tra-do-dac-truoc-khi-tra-xe-checklist-hai-phut/), vì áo mưa phơi trong nhà tắm hay dây chằng ở góc phòng rất dễ bị bỏ lại.
 
 ## Nếu thiếu hoặc hỏng một món
 

@@ -41,7 +41,7 @@ Tóm gọn: xe ga có chỗ kín, xe số có chỗ mở.
 
 Cốp xe ga là chỗ lý tưởng cho những món bạn cần mang theo nhưng không cần cầm trên tay suốt ngày: áo mưa, áo khoác mỏng, mũ bảo hiểm khi gửi xe, túi đồ ăn vặt, sạc dự phòng.
 
-Tuy vậy, cốp không phải két sắt và cũng không mát. Cốp nằm ngay trên khối động cơ, giữa trưa nắng ở bãi gửi ngoài trời sẽ khá nóng. Máy tính xách tay, máy ảnh, thuốc men hay mỹ phẩm không nên để lại trong cốp hàng giờ. Bài [cốp xe tay ga chứa được những gì](/xe-may/2026/10/11/cop-xe-tay-ga-chua-uoc-nhung-gi-xep-o-chuan-tung-dong/) có cách xếp theo từng dòng xe, ở đây chỉ cần nhớ nguyên tắc: cốp giữ đồ khô và đồ ít giá trị, còn đồ đắt tiền đi theo người.
+Tuy vậy, cốp không phải két sắt và cũng không mát. Cốp nằm ngay trên khối động cơ, giữa trưa nắng ở bãi gửi ngoài trời sẽ khá nóng. Máy tính xách tay, máy ảnh, thuốc men hay mỹ phẩm không nên để lại trong cốp hàng giờ. Bài [cốp xe tay ga chứa được những gì](/xe-may/2026/10/11/cop-xe-tay-ga-chua-duoc-nhung-gi-xep-do-chuan-tung-dong/) có cách xếp theo từng dòng xe, ở đây chỉ cần nhớ nguyên tắc: cốp giữ đồ khô và đồ ít giá trị, còn đồ đắt tiền đi theo người.
 
 Một điểm hay bị bỏ qua: balo cỡ đi làm thường không nhét vừa cốp khi đã có mũ bảo hiểm trong đó. Nếu bạn định gửi mũ vào cốp lúc đỗ xe, hãy chừa chỗ, đừng nhồi kín từ sáng.
 
@@ -53,7 +53,7 @@ Người đi xe số phải chấp nhận một thực tế: đồ để trên x
 2. **Áo mưa, túi nhẹ cho vào rổ trước**, có túi ni lông bọc ngoài khi trời âm u.
 3. **Đồ cồng kềnh hơn buộc lên giá sau**, dây thun quấn chéo, đầu móc quay vào trong.
 
-Nếu một ngày của bạn có đoạn đi chợ sớm hay chở đồ khối lớn, xe số với giá sau chắc chắn lại có ưu thế, cách buộc có trong bài [xe số thuê đi chợ sớm chở đồ nên buộc thế nào](/xe-may/2026/10/07/xe-so-thue-i-cho-som-cho-o-nen-buoc-the-nao/). Nhưng với kiểu ngày đi làm, ghé quán cà phê, rồi tạt qua phố mua sắm, việc không có chỗ kín khiến bạn phải xách mọi thứ theo mỗi lần xuống xe.
+Nếu một ngày của bạn có đoạn đi chợ sớm hay chở đồ khối lớn, xe số với giá sau chắc chắn lại có ưu thế, cách buộc có trong bài [xe số thuê đi chợ sớm chở đồ nên buộc thế nào](/xe-may/2026/10/07/xe-so-thue-di-cho-som-cho-do-nen-buoc-the-nao/). Nhưng với kiểu ngày đi làm, ghé quán cà phê, rồi tạt qua phố mua sắm, việc không có chỗ kín khiến bạn phải xách mọi thứ theo mỗi lần xuống xe.
 
 ## Mức yên tâm khi rời xe giữa ngày
 
@@ -63,7 +63,7 @@ Nếu một ngày của bạn có đoạn đi chợ sớm hay chở đồ khối
 
 **Với xe số**, mỗi lần dừng bạn phải gom mọi thứ trong rổ trước mang theo, vì rổ mở hoàn toàn. Sau vài điểm dừng, người ta hay chủ quan để lại áo mưa hay túi đồ trong rổ.
 
-Dù đi xe nào, đồ để ngoài móc treo, trong rổ hay trên giá sau đều không nên để lại khi rời xe. Danh sách món nên và không nên để lại được phân tích kỹ trong bài [để đồ trong cốp, giỏ và móc treo khi rời xe](/ky-nang/2026/10/11/e-o-trong-cop-gio-va-moc-treo-khi-roi-xe-mon-nao-nen-mon-nao-khong/).
+Dù đi xe nào, đồ để ngoài móc treo, trong rổ hay trên giá sau đều không nên để lại khi rời xe. Danh sách món nên và không nên để lại được phân tích kỹ trong bài [để đồ trong cốp, giỏ và móc treo khi rời xe](/ky-nang/2026/10/11/de-do-trong-cop-gio-va-moc-treo-khi-roi-xe-mon-nao-nen-mon-nao-khong/).
 
 ## Đồ đạc ảnh hưởng tay lái thế nào trên từng loại xe
 

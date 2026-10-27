@@ -52,7 +52,7 @@ Một tin nhắn gọn gàng thường gồm:
 - Bộ ảnh và video vừa chụp.
 - Tình trạng hiện tại: xe còn chạy bình thường không, có tiếng lạ, có rung tay lái không.
 
-Sau đó hỏi tiệm muốn bạn làm gì tiếp: đưa xe về kiểm tra, tiếp tục đi rồi ghé sau, hay chờ hướng dẫn. Tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00; nếu va chạm xảy ra ngoài giờ, cứ nhắn tin kèm ảnh và hẹn mang xe qua trong giờ mở cửa hôm sau. Bài [bị va quệt nhẹ khi đang thuê xe máy báo ai](/thue-xe/2026/10/07/bi-va-quet-nhe-khi-ang-thue-xe-may-bao-ai/) nói thêm về thứ tự liên lạc khi có người thứ ba liên quan.
+Sau đó hỏi tiệm muốn bạn làm gì tiếp: đưa xe về kiểm tra, tiếp tục đi rồi ghé sau, hay chờ hướng dẫn. Tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00; nếu va chạm xảy ra ngoài giờ, cứ nhắn tin kèm ảnh và hẹn mang xe qua trong giờ mở cửa hôm sau. Bài [bị va quệt nhẹ khi đang thuê xe máy báo ai](/thue-xe/2026/10/07/bi-va-quet-nhe-khi-dang-thue-xe-may-bao-ai/) nói thêm về thứ tự liên lạc khi có người thứ ba liên quan.
 
 ## Vì sao không nên tự mang xe ra tiệm sửa ngoài
 

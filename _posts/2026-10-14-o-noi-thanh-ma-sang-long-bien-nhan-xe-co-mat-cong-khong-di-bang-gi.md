@@ -87,7 +87,7 @@ Nhận xe ở Long Biên nghĩa là trả xe cũng ở đó, và sau khi trả b
 - Nếu ngày cuối bạn có chuyến bay, xem thử đi từ Long Biên ra sân bay Nội Bài theo hướng nào thuận hơn thay vì quay về phố cổ rồi mới đi.
 - Nếu muốn trả xe ở chỗ khác hoặc nhờ người tới nhận, hỏi trước khi thuê để cửa hàng xác nhận được hay không.
 
-Với người hay đi về phía Đông, bài [thuê xe máy khu Long Biên: tiện qua sông và đường tỉnh](/thue-xe/2026/10/11/thue-xe-may-khu-long-bien-tien-qua-song-va-uong-tinh/) có thêm gợi ý chọn cầu theo hướng đi.
+Với người hay đi về phía Đông, bài [thuê xe máy khu Long Biên: tiện qua sông và đường tỉnh](/thue-xe/2026/10/11/thue-xe-may-khu-long-bien-tien-qua-song-va-duong-tinh/) có thêm gợi ý chọn cầu theo hướng đi.
 
 ## Kết luận: một chuyến qua sông, nhiều ngày chủ động
 

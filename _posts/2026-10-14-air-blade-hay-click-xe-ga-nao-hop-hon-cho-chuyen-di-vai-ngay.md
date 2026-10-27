@@ -23,7 +23,7 @@ Trước hết nên hiểu hai xe được làm ra cho hai kiểu người. Hond
 
 Không xe nào tốt hơn tuyệt đối. Air Blade thắng ở những đoạn đường thoáng và những ngày chở nặng. Click thắng ở phố hẹp, chỗ gửi chật và với người dáng nhỏ. Với chuyến vài ngày, điều quan trọng là bạn sẽ dành phần lớn thời gian ở đâu.
 
-Nếu bạn quan tâm phần chênh lệch chi phí giữa hai xe, bài [Air Blade hay Honda Click khi thuê: khoản chênh mua thêm được gì](/xe-may/2026/10/11/air-blade-hay-honda-click-khi-thue-50000-moi-ngay-mua-them-uoc-gi/) đã tách riêng chuyện đó. Ở đây chỉ bàn trải nghiệm.
+Nếu bạn quan tâm phần chênh lệch chi phí giữa hai xe, bài [Air Blade hay Honda Click khi thuê: khoản chênh mua thêm được gì](/xe-may/2026/10/11/air-blade-hay-honda-click-khi-thue-50000d-moi-ngay-mua-them-duoc-gi/) đã tách riêng chuyện đó. Ở đây chỉ bàn trải nghiệm.
 
 ## Dáng ngồi qua nhiều ngày: chỗ mỏi lộ ra từ hôm thứ hai
 
@@ -63,7 +63,7 @@ Cốp **Air Blade** thường rộng hơn, đủ cho áo mưa cùng vài món l�
 
 Cốp **Click** nhỏ hơn, thường chỉ vừa áo mưa và vài vật dụng. Sàn để chân đủ cho một túi gọn. Nếu bạn quen mang ba lô lớn, người ngồi sau sẽ phải đeo, hoặc phải buộc lên giá sau.
 
-Vì đời xe khác nhau, cách chắc nhất là mở cốp ngay khi nhận xe và thử đặt đúng những món bạn định mang hằng ngày. Bài [cốp Honda Air Blade chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-uoc-gi-va-o-nao-nen-e-cho-khac/) gợi ý cách xếp gọn.
+Vì đời xe khác nhau, cách chắc nhất là mở cốp ngay khi nhận xe và thử đặt đúng những món bạn định mang hằng ngày. Bài [cốp Honda Air Blade chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-duoc-gi-va-do-nao-nen-de-cho-khac/) gợi ý cách xếp gọn.
 
 ## Chọn theo kiểu chuyến đi của bạn
 

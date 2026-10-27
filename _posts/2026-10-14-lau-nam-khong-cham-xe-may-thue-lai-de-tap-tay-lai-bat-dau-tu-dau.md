@@ -56,7 +56,7 @@ Tăng độ khó theo từng nấc, mỗi nấc một hai buổi:
 - **Nấc ba:** một cây cầu hoặc nút giao lớn. Lên dốc cầu Chương Dương sang phía Hoàn Kiếm vào giữa buổi sáng là bài tập tốt về giữ tốc độ đều và chọn làn.
 - **Nấc bốn:** vòng hồ, phố đông người đi bộ như quanh Hồ Gươm hay phố cổ, nơi phải phanh nhẹ liên tục và để ý người qua đường.
 
-Nếu chưa quen tuyến, bài [cung đường nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-au/) gợi ý vài lộ trình ít áp lực để ghép vào các nấc trên.
+Nếu chưa quen tuyến, bài [cung đường nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-dau/) gợi ý vài lộ trình ít áp lực để ghép vào các nấc trên.
 
 ## Những thói quen cũ cần sửa khi quay lại
 

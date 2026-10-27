@@ -67,7 +67,7 @@ Cách lùi xe tay ga khỏi hàng khác với quay đầu: mục tiêu là kéo 
 - Nếu đuôi lệch về một bên, đừng chỉnh bằng cách kéo đuôi. Bẻ nhẹ tay lái về phía ngược lại, bánh trước sẽ tự đẩy đầu xe về đúng hướng.
 - Khi bánh sau đã ra khỏi hàng, giữ phanh, rồi mới bắt đầu quay đầu.
 
-Phần lùi khỏi hàng xe số và xe nặng nói chung có trong bài [dắt lùi xe máy ra khỏi hàng xe chật](/ky-nang/2026/10/11/dat-lui-xe-may-ra-khoi-hang-xe-chat-ky-thuat-va-tu-the-o-xe-nang/). Điểm riêng của xe ga là đuôi dài và thân sau nặng hơn đầu, nên cần chừa khoảng phía sau rộng hơn.
+Phần lùi khỏi hàng xe số và xe nặng nói chung có trong bài [dắt lùi xe máy ra khỏi hàng xe chật](/ky-nang/2026/10/11/dat-lui-xe-may-ra-khoi-hang-xe-chat-ky-thuat-va-tu-the-do-xe-nang/). Điểm riêng của xe ga là đuôi dài và thân sau nặng hơn đầu, nên cần chừa khoảng phía sau rộng hơn.
 
 ## Ba chỗ chật quen thuộc ở Hà Nội và cách xử lý
 

@@ -57,7 +57,7 @@ Hàng vá lốp ven đường ở Hà Nội khá nhiều nhưng không đều. M
 - **Hỏi người bán hàng nước, xe ôm hoặc bảo vệ** gần đó. Họ biết hàng vá nào đang mở hơn bất kỳ bản đồ nào.
 - **Ưu tiên hàng có dụng cụ cho lốp không săm** như dùi vá, keo, máy bơm hơi. Hàng chỉ quen thay săm xe số có thể đề nghị lắp săm vào lốp không săm, điều bạn nên hỏi tiệm thuê trước khi đồng ý.
 
-Nếu buộc phải dắt xa, đi trên vỉa hè hoặc sát lề, tắt máy, giữ phanh trái khi xuống dốc. Khi xe ga thủng lốp không săm ở bánh sau, xe dắt nặng hơn hẳn vì bánh sau nằm ngay dưới cụm động cơ. Đứng bên trái, tựa hông vào sườn yên, giữ xe thẳng đứng và đi bước ngắn. Đừng cố đẩy nhanh, vì lốp xẹp dễ vặn khỏi vành khi xe bị nghiêng. Phần khác nhau giữa vá dùi và vá nấm, và lúc nào phải thay lốp, có trong bài [lốp không săm bị đinh: vá dùi, vá nấm khác gì](/xe-may/2026/10/11/lop-khong-sam-bi-inh-va-dui-va-nam-khac-gi-va-khi-nao-phai-thay-lop/).
+Nếu buộc phải dắt xa, đi trên vỉa hè hoặc sát lề, tắt máy, giữ phanh trái khi xuống dốc. Khi xe ga thủng lốp không săm ở bánh sau, xe dắt nặng hơn hẳn vì bánh sau nằm ngay dưới cụm động cơ. Đứng bên trái, tựa hông vào sườn yên, giữ xe thẳng đứng và đi bước ngắn. Đừng cố đẩy nhanh, vì lốp xẹp dễ vặn khỏi vành khi xe bị nghiêng. Phần khác nhau giữa vá dùi và vá nấm, và lúc nào phải thay lốp, có trong bài [lốp không săm bị đinh: vá dùi, vá nấm khác gì](/xe-may/2026/10/11/lop-khong-sam-bi-dinh-va-dui-va-nam-khac-gi-va-khi-nao-phai-thay-lop/).
 
 ## Báo tiệm cho thuê trước khi vá
 
@@ -69,7 +69,7 @@ Một vài điều nên hỏi rõ ngay lúc đó:
 - Chi phí vá do ai chịu. Hãy xác nhận trước, đừng tự suy đoán.
 - Nếu cần tiệm hỗ trợ đến tận nơi, thời gian và chi phí phải được thỏa thuận trước. Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên chỉ hoạt động từ 09:00 đến 21:00, nên ngoài giờ này không có hỗ trợ giao nhận xe.
 
-Vá xong, xin thợ biên nhận hoặc ít nhất chụp ảnh chiếc đinh và vết vá. Những bước gọi ai, báo gì khi thủng lốp nói chung được viết kỹ trong bài [xe thuê bị thủng lốp giữa đường: gọi ai và làm gì](/thue-xe/2026/10/10/xe-thue-bi-thung-lop-giua-uong-goi-ai-va-lam-gi/).
+Vá xong, xin thợ biên nhận hoặc ít nhất chụp ảnh chiếc đinh và vết vá. Những bước gọi ai, báo gì khi thủng lốp nói chung được viết kỹ trong bài [xe thuê bị thủng lốp giữa đường: gọi ai và làm gì](/thue-xe/2026/10/10/xe-thue-bi-thung-lop-giua-duong-goi-ai-va-lam-gi/).
 
 ## Sau khi vá: chạy thử và để ý thêm
 

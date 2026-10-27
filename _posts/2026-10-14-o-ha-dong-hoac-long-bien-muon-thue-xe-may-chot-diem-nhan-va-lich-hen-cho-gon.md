@@ -72,7 +72,7 @@ Người ở xa trung tâm hay quên rằng trả xe cũng là một chuyến đ
 
 - Ngày trả rơi vào thứ mấy, giờ nào trong khung 09:00–21:00 là thoáng nhất.
 - Nếu muốn hỏi phương án nhận lại xe tại chỗ ở, nêu luôn lúc đặt để cửa hàng xác nhận thời gian và chi phí.
-- Nếu kế hoạch có thể thay đổi, hỏi trước cách báo dời lịch. Bài [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-oi-lich-nhan-xe/) có các tình huống thường gặp.
+- Nếu kế hoạch có thể thay đổi, hỏi trước cách báo dời lịch. Bài [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-doi-lich-nhan-xe/) có các tình huống thường gặp.
 
 ## Lúc gặp: nhận xe nhanh mà không bỏ bước nào
 

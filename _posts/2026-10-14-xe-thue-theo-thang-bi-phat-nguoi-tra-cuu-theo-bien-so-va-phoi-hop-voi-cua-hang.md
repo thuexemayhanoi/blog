@@ -72,7 +72,7 @@ Nhắn cửa hàng ngay qua kênh liên lạc đã thống nhất, gửi kèm �
 
 ### Trách nhiệm do thỏa thuận, hãy hỏi rõ
 
-Phạt nguội xe thuê ai chịu, ai đi làm thủ tục, chi phí đi lại tính thế nào là chuyện thỏa thuận giữa người thuê và cửa hàng. Hãy hỏi rõ ngay từ lúc ký hợp đồng thuê tháng và đề nghị ghi thành điều khoản cụ thể, đừng dựa vào lời hứa miệng. Gợi ý các điều khoản nên có nằm trong bài [hợp đồng thuê xe máy theo tháng](/thue-xe/2026/10/11/hop-ong-thue-xe-may-theo-thang-ieu-khoan-nen-co/), còn góc nhìn chung về trách nhiệm trong kỳ thuê có ở bài [vi phạm phạt nguội của xe thuê ai chịu trong kỳ thuê](/an-toan-phap-ly/2026/10/09/vi-phat-nguoi-cua-xe-thue-ai-chiu-trong-ky-thue/).
+Phạt nguội xe thuê ai chịu, ai đi làm thủ tục, chi phí đi lại tính thế nào là chuyện thỏa thuận giữa người thuê và cửa hàng. Hãy hỏi rõ ngay từ lúc ký hợp đồng thuê tháng và đề nghị ghi thành điều khoản cụ thể, đừng dựa vào lời hứa miệng. Gợi ý các điều khoản nên có nằm trong bài [hợp đồng thuê xe máy theo tháng](/thue-xe/2026/10/11/hop-dong-thue-xe-may-theo-thang-dieu-khoan-nen-co/), còn góc nhìn chung về trách nhiệm trong kỳ thuê có ở bài [vi phạm phạt nguội của xe thuê ai chịu trong kỳ thuê](/an-toan-phap-ly/2026/10/09/vi-phat-nguoi-cua-xe-thue-ai-chiu-trong-ky-thue/).
 
 Bài này không nêu mức phạt hay thời hạn xử lý, vì những con số đó phụ thuộc vào hành vi cụ thể và văn bản pháp luật đang áp dụng. Hãy đọc trực tiếp trên kết quả tra cứu và thông báo chính thức.
 

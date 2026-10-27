@@ -39,7 +39,7 @@ Cách thử an toàn, làm ngay khi nhận xe:
 3. Ấn đầu sau một nấc, xem số quay về đâu.
 4. Hỏi cửa hàng xe có số tròn không, tức là đứng yên ở số cao nhất ấn thêm thì về N.
 
-Nếu xe không có đèn báo số, hỏi người giao xe chỉ trực tiếp. Bài [xe số không có đèn báo số](/xe-may/2026/10/11/xe-so-khong-co-en-bao-so-cach-biet-ban-ang-o-so-may/) giúp bạn đoán số bằng tiếng máy và cảm giác.
+Nếu xe không có đèn báo số, hỏi người giao xe chỉ trực tiếp. Bài [xe số không có đèn báo số](/xe-may/2026/10/11/xe-so-khong-co-den-bao-so-cach-biet-ban-dang-o-so-may/) giúp bạn đoán số bằng tiếng máy và cảm giác.
 
 ## Khi nào dùng gót, khi nào mũi giày là đủ
 
@@ -82,7 +82,7 @@ Nếu chiếc xe của bạn bố trí ngược lại, chỉ cần đảo vai tr
 - **Nhìn đèn báo sau mỗi lần dừng lâu:** sau khi dắt xe qua ngõ hay chờ đèn đỏ ở các nút đông như Kim Liên, Ngã Tư Sở, hãy nhìn lại số trước khi vặn ga.
 - **Không gác gót lên đầu sau khi xuống dốc:** sức nặng của chân có thể đẩy cần số tách côn một phần, xe trôi mà bạn không biết.
 
-Nếu đi phố lâu bị mỏi cổ chân trái, cách đặt chân và đổi số ít lần hơn có trong bài [mỏi cổ chân trái khi đi xe số](/xe-may/2026/10/11/moi-co-chan-trai-khi-i-xe-so-trong-pho-ong-nguyen-nhan-va-cach-giam/).
+Nếu đi phố lâu bị mỏi cổ chân trái, cách đặt chân và đổi số ít lần hơn có trong bài [mỏi cổ chân trái khi đi xe số](/xe-may/2026/10/11/moi-co-chan-trai-khi-di-xe-so-trong-pho-dong-nguyen-nhan-va-cach-giam/).
 
 ## Khi cần số có vấn đề thì báo cửa hàng
 

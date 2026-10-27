@@ -62,7 +62,7 @@ Danh sách kiểm tra đầy đủ hơn nằm trong bài [kiểm tra xe trước
 - **Xe số:** buộc balo nằm trên giá sau bằng dây chun, phần nặng sát yên, không để lệch hẳn một bên.
 - **Không treo túi nặng ở tay lái.** Túi đung đưa sẽ kéo tay lái khi vào cua.
 
-Nếu mang hành lý cồng kềnh, đọc thêm bài [chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/). Khi đặt xe, hãy báo trước bạn sẽ chở bao nhiêu đồ để tiệm kiểm tra lốp và giảm xóc phù hợp.
+Nếu mang hành lý cồng kềnh, đọc thêm bài [chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/di-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/). Khi đặt xe, hãy báo trước bạn sẽ chở bao nhiêu đồ để tiệm kiểm tra lốp và giảm xóc phù hợp.
 
 ## Chạy xe chở nặng trong Hà Nội
 

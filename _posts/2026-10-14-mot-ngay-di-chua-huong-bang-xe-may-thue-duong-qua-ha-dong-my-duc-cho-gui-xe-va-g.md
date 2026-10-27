@@ -50,7 +50,7 @@ Qua Hà Đông, phần lớn người đi theo quốc lộ hướng về Vân Đ
 - **Dừng nghỉ một lần ở giữa chặng.** Uống nước, duỗi tay, kiểm tra lại đồ buộc sau xe.
 - **Bật bản đồ trên điện thoại gắn ở giá đỡ**, đừng cầm tay vừa đi vừa xem.
 
-Tôi không đưa con số quãng đường hay thời gian cố định, vì nó thay đổi theo điểm xuất phát và mật độ xe hôm đó. Hãy mở bản đồ từ tối hôm trước, tính từ đúng chỗ bạn nhận xe. Bài [chạy xe máy từ Hà Nội lên Chùa Hương, Mỹ Đức](/cung-duong/2026/09/29/chay-xe-may-tu-ha-noi-len-chua-huong-my-uc/) mô tả kỹ hơn từng đoạn đường.
+Tôi không đưa con số quãng đường hay thời gian cố định, vì nó thay đổi theo điểm xuất phát và mật độ xe hôm đó. Hãy mở bản đồ từ tối hôm trước, tính từ đúng chỗ bạn nhận xe. Bài [chạy xe máy từ Hà Nội lên Chùa Hương, Mỹ Đức](/cung-duong/2026/09/29/chay-xe-may-tu-ha-noi-len-chua-huong-my-duc/) mô tả kỹ hơn từng đoạn đường.
 
 ## Gửi xe ở chùa Hương: chọn bãi trước khi tới bến
 
@@ -61,7 +61,7 @@ Khi gần tới khu bến Yến, bạn sẽ gặp người đứng ven đường
 3. **Nhận vé, đối chiếu biển số ghi trên vé.** Chụp ảnh vé, ảnh xe đang đỗ và cổng bãi để lúc về dễ tìm.
 4. **Khóa cổ xe, mang theo chìa và giấy tờ xe.** Không để túi xách, áo khoác có giấy tờ trong cốp.
 
-Mùa lễ hội đầu năm, cảnh gửi xe khác hẳn ngày thường, bài [gửi xe gần bến thuyền mùa lễ hội](/ky-nang/2026/10/11/i-chua-huong-mua-le-hoi-bang-xe-may-gui-xe-gan-ben-thuyen-va-canh-gio-ve/) nói riêng chuyện đó. Phần đò, phần cáp treo và phí tham quan bạn nên hỏi tại quầy chính thức của khu di tích, không mua qua người lạ mời chào.
+Mùa lễ hội đầu năm, cảnh gửi xe khác hẳn ngày thường, bài [gửi xe gần bến thuyền mùa lễ hội](/ky-nang/2026/10/11/di-chua-huong-mua-le-hoi-bang-xe-may-gui-xe-gan-ben-thuyen-va-canh-gio-ve/) nói riêng chuyện đó. Phần đò, phần cáp treo và phí tham quan bạn nên hỏi tại quầy chính thức của khu di tích, không mua qua người lạ mời chào.
 
 ## Giờ xuất phát và giờ về: tính ngược từ lúc trả xe
 

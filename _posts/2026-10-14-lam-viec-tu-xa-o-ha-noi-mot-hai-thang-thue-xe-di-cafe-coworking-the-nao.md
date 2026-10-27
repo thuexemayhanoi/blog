@@ -70,7 +70,7 @@ Không gian làm việc chung thường có bãi giữ xe riêng trong tòa nhà
 - **Túi chống nước hoặc áo trùm ba lô**, để sẵn trong cốp, kèm vài túi zip nhỏ cho điện thoại, sạc và ổ cứng.
 - **Giá đỡ điện thoại** để xem bản đồ, nhưng hỏi tiệm thuê trước khi gắn và tháo ra khi trả xe.
 
-Cách gói đồ cho khỏi ướt khi trời mưa được hướng dẫn chi tiết trong bài [chở đồ khi trời mưa và cách bọc kín](/ky-nang/2026-09-29/cho-o-khi-troi-mua-cach-boc-kin/).
+Cách gói đồ cho khỏi ướt khi trời mưa được hướng dẫn chi tiết trong bài [chở đồ khi trời mưa và cách bọc kín](/ky-nang/2026-09-29/cho-do-khi-troi-mua-cach-boc-kin/).
 
 ## Mưa bất chợt: chuẩn bị gì để không lỡ việc
 
@@ -81,7 +81,7 @@ Hà Nội có mùa mưa rào vào khoảng giữa năm, thường là những c�
 3. **Gặp mưa to giữa đường thì tấp vào trú**, giảm tốc, tránh đi qua chỗ nước đọng sâu vì không biết bên dưới có ổ gà hay nắp cống hở.
 4. **Mang theo khăn nhỏ** để lau tay, lau điện thoại trước khi mở máy ở quán.
 
-Kỹ năng điều khiển xe khi trời mưa lớn có ở bài [chạy xe máy trời mưa lớn](/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-en/).
+Kỹ năng điều khiển xe khi trời mưa lớn có ở bài [chạy xe máy trời mưa lớn](/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-den/).
 
 ## Nhận xe, giao xe và trả xe
 

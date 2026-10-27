@@ -66,7 +66,7 @@ Trên xe số, nhả ga ở số thấp là xe ghì lại khá rõ. Xe tay ga nh
 4. **Tập rẽ và quay đầu chậm.** Xe tay ga có bánh nhỏ, trọng tâm thấp, cua cảm giác khác xe số. Ở tốc độ đi bộ, giữ ga nhẹ và rà phanh sau sẽ giúp xe vững.
 5. **Ra phố vào giờ thưa.** Chọn khung giữa buổi sáng hoặc đầu giờ chiều, đi một vòng ngắn rồi mới thử các trục đông như Nguyễn Trãi, Giải Phóng hay lên cầu Vĩnh Tuy.
 
-Nếu bạn cần một danh sách gói gọn hơn để kiểm tra trước khi đi đường dài, bài [chưa quen xe ga: làm quen trong 30 phút](/hoi-dap/2026/09/29/chua-quen-xe-ga-lam-quen-trong-30-phut-truoc-khi-len-uong/) là bản tóm tắt nhanh.
+Nếu bạn cần một danh sách gói gọn hơn để kiểm tra trước khi đi đường dài, bài [chưa quen xe ga: làm quen trong 30 phút](/hoi-dap/2026/09/29/chua-quen-xe-ga-lam-quen-trong-30-phut-truoc-khi-len-duong/) là bản tóm tắt nhanh.
 
 ## Chọn xe tay ga nào khi vừa chuyển từ xe số
 

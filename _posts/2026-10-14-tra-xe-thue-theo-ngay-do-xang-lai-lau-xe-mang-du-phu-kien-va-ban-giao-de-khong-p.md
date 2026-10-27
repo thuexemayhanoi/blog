@@ -59,7 +59,7 @@ Nếu trời mưa và xe bám bùn đặc, nhắn tiệm trước một câu. Ph
 - Giấy tờ xe tiệm giao kèm, nếu có.
 - Giá đỡ điện thoại, dây chằng đồ hay móc treo bạn mượn thêm.
 
-Ngược lại, soát luôn đồ của chính bạn: sạc dự phòng trong cốp, kính râm trong hộc trước, túi nilon treo ở móc. Nếu bạn tự gắn giá điện thoại, tháo gọn theo bài [gắn giá điện thoại lên xe thuê và tháo gọn khi trả](/thue-xe/2026/10/12/gan-gia-o-ien-thoai-len-xe-may-thue-hoi-cua-hang-va-thao-gon-khi-tra/). Lỡ để quên đồ rồi mới nhớ ra, xem cách xử lý trong bài [để quên đồ trên xe thuê đã trả](/thue-xe/2026/10/10/e-quen-o-tren-xe-thue-a-tra-xu-ly-the-nao/).
+Ngược lại, soát luôn đồ của chính bạn: sạc dự phòng trong cốp, kính râm trong hộc trước, túi nilon treo ở móc. Nếu bạn tự gắn giá điện thoại, tháo gọn theo bài [gắn giá điện thoại lên xe thuê và tháo gọn khi trả](/thue-xe/2026/10/12/gan-gia-do-dien-thoai-len-xe-may-thue-hoi-cua-hang-va-thao-gon-khi-tra/). Lỡ để quên đồ rồi mới nhớ ra, xem cách xử lý trong bài [để quên đồ trên xe thuê đã trả](/thue-xe/2026/10/10/de-quen-do-tren-xe-thue-da-tra-xu-ly-the-nao/).
 
 ## Bàn giao xe máy thuê tại tiệm: đi một vòng cùng người nhận
 
@@ -83,6 +83,6 @@ Trong một ngày chạy xe, quẹt nhẹ vào cột khi dắt xe ra khỏi bãi
 - **Nếu là vết mới, hỏi tiệm cách xử lý** và đề nghị ghi lại rõ ràng. Đừng tự đoán chi phí, cũng đừng đồng ý vội khi chưa hiểu rõ.
 - **Lưu lại toàn bộ tin nhắn trao đổi.**
 
-Thái độ thẳng thắn giúp mọi chuyện nhẹ đi nhiều. Cách ghi lại hiện trường khi lỡ làm xước xe có trong bài [làm xước hoặc làm đổ xe thuê](/thue-xe/2026/10/12/lam-xuoc-hoac-lam-o-xe-thue-cach-bao-cua-hang-va-ghi-lai-hien-truong/).
+Thái độ thẳng thắn giúp mọi chuyện nhẹ đi nhiều. Cách ghi lại hiện trường khi lỡ làm xước xe có trong bài [làm xước hoặc làm đổ xe thuê](/thue-xe/2026/10/12/lam-xuoc-hoac-lam-do-xe-thue-cach-bao-cua-hang-va-ghi-lai-hien-truong/).
 
 Trả xe theo ngày gọn gàng chỉ cần nhớ năm việc: đổ xăng đúng mức, lau sơ thân xe, gom đủ phụ kiện, đi một vòng bàn giao cùng người nhận và nói trước nếu có vết xước. Các kinh nghiệm khác cho khách thuê ngắn ngày nằm ở mục [thuê xe theo ngày](/thue-xe/thue-ngay/), còn toàn bộ hướng dẫn thủ tục thuê xe máy ở Hà Nội có trong chuyên mục [thuê xe](/thue-xe/).

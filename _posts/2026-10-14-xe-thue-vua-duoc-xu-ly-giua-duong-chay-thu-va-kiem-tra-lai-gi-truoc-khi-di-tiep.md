@@ -77,7 +77,7 @@ Báo cửa hàng ngay, và cân nhắc dừng hẳn, nếu bạn gặp một tro
 - Đèn hoặc còi vẫn chập chờn, hay có mùi khét quanh cụm điện.
 - Thợ đề nghị thay thêm phụ tùng lớn mà bạn không chắc có cần không.
 
-Khi báo, gửi kèm ảnh chỗ sửa, ảnh hóa đơn hoặc ghi chú của thợ nếu có, và mô tả cảm giác lái sau khi chạy thử. Cửa hàng Nguyễn Tú hoạt động từ 09:00 đến 21:00, nên nếu sự cố xảy ra trong khung giờ này bạn sẽ được hướng dẫn nhanh hơn. Việc thay thế lớn nên chờ cửa hàng xác nhận trước khi làm. Các bước xử lý ban đầu khi lốp xịt trên đường có ở bài [đang đi xe thuê bị xịt lốp: làm gì ngay](/xe-may/2026/09/29/ang-i-xe-thue-bi-xit-lop-lam-gi-ngay/).
+Khi báo, gửi kèm ảnh chỗ sửa, ảnh hóa đơn hoặc ghi chú của thợ nếu có, và mô tả cảm giác lái sau khi chạy thử. Cửa hàng Nguyễn Tú hoạt động từ 09:00 đến 21:00, nên nếu sự cố xảy ra trong khung giờ này bạn sẽ được hướng dẫn nhanh hơn. Việc thay thế lớn nên chờ cửa hàng xác nhận trước khi làm. Các bước xử lý ban đầu khi lốp xịt trên đường có ở bài [đang đi xe thuê bị xịt lốp: làm gì ngay](/xe-may/2026/09/29/dang-di-xe-thue-bi-xit-lop-lam-gi-ngay/).
 
 ## Giữ lại thông tin cho lúc trả xe
 

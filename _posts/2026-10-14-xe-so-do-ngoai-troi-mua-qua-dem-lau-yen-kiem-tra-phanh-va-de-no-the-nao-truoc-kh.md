@@ -37,7 +37,7 @@ Mặt yên lau khô rất nhanh, nhưng lớp mút bên dưới có thể đã n
 3. Lau tay nắm, tay phanh trước, cần số và bàn để chân. Tay nắm trơn và đế giày ướt trượt khỏi cần số là hai thứ dễ gây mất kiểm soát nhất buổi sáng.
 4. Lau mặt đồng hồ và gương để nhìn rõ đèn báo số mo cùng xe phía sau.
 
-Phần che yên, chọn hướng đỗ và xử lý cốp ngấm nước đã có ở bài [gửi xe ngoài trời ngày mưa](/ky-nang/2026/10/11/gui-xe-ngoai-troi-ngay-mua-nuoc-vao-cop-yen-uot-va-cach-lau-truoc-khi-i/), ở đây chỉ tập trung vào việc xe số cần gì để chạy an toàn ngay sau đó.
+Phần che yên, chọn hướng đỗ và xử lý cốp ngấm nước đã có ở bài [gửi xe ngoài trời ngày mưa](/ky-nang/2026/10/11/gui-xe-ngoai-troi-ngay-mua-nuoc-vao-cop-yen-uot-va-cach-lau-truoc-khi-di/), ở đây chỉ tập trung vào việc xe số cần gì để chạy an toàn ngay sau đó.
 
 ## Thử phanh ướt trước khi ra đường lớn
 
@@ -79,6 +79,6 @@ Gặp các dấu hiệu này, đừng cố chạy qua cầu Chương Dương san
 
 ## Chuẩn bị tối hôm trước cho sáng hôm sau đỡ vất
 
-Nếu biết đêm nay sẽ mưa, vài việc nhỏ trước khi đi ngủ giúp buổi sáng nhẹ hơn: trùm túi ni lông lên yên và cụm đồng hồ, quay đầu xe vào phía tường hoặc mái che, kê miếng gỗ phẳng dưới chân chống nếu nền đất mềm, và để sẵn một chiếc khăn khô ở cửa phòng. Trình tự kiểm tra nhanh buổi sáng cho mọi kiểu gửi xe qua đêm có trong bài [lấy xe sau một đêm gửi](/ky-nang/2026/10/11/lay-xe-sau-mot-em-gui-kiem-tra-2-phut-truoc-khi-no-may/).
+Nếu biết đêm nay sẽ mưa, vài việc nhỏ trước khi đi ngủ giúp buổi sáng nhẹ hơn: trùm túi ni lông lên yên và cụm đồng hồ, quay đầu xe vào phía tường hoặc mái che, kê miếng gỗ phẳng dưới chân chống nếu nền đất mềm, và để sẵn một chiếc khăn khô ở cửa phòng. Trình tự kiểm tra nhanh buổi sáng cho mọi kiểu gửi xe qua đêm có trong bài [lấy xe sau một đêm gửi](/ky-nang/2026/10/11/lay-xe-sau-mot-dem-gui-kiem-tra-2-phut-truoc-khi-no-may/).
 
 Tóm lại, sau đêm mưa hãy làm theo thứ tự: nhìn quanh xe, lau yên và tay nắm, thử phanh khi dắt và khi chạy chậm, kiểm tra số mo rồi đề ngắn từng lần, nghe máy trước khi ra đường lớn. Các bài khác về cách đi và chăm xe số có ở chuyên mục [xe số](/xe-may/xe-so/), còn các dòng xe máy cho thuê ở Hà Nội nói chung nằm trong mục [xe máy](/xe-may/).

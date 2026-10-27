@@ -33,7 +33,7 @@ Vision thường là lựa chọn an toàn hơn. Yên thấp vừa phải, thân
 
 ### Người cao, chân dài hoặc vai rộng
 
-Air Blade cho tư thế ngồi thoải mái hơn: yên dài, khoảng để chân rộng, người cao không bị co gối. Ngồi trên Vision lâu, người cao đôi khi thấy đầu gối gần tay lái hơn mong muốn. Nếu bạn thuộc nhóm thấp người nhưng vẫn thích Air Blade, bài [Air Blade cho người thấp: kiểm tra yên và cách dừng xe](/xe-may/2026/10/11/honda-air-blade-cho-nguoi-thap-kiem-tra-yen-chan-cham-at-va-cach-dung-xe/) chỉ cách thử trước khi chốt.
+Air Blade cho tư thế ngồi thoải mái hơn: yên dài, khoảng để chân rộng, người cao không bị co gối. Ngồi trên Vision lâu, người cao đôi khi thấy đầu gối gần tay lái hơn mong muốn. Nếu bạn thuộc nhóm thấp người nhưng vẫn thích Air Blade, bài [Air Blade cho người thấp: kiểm tra yên và cách dừng xe](/xe-may/2026/10/11/honda-air-blade-cho-nguoi-thap-kiem-tra-yen-chan-cham-dat-va-cach-dung-xe/) chỉ cách thử trước khi chốt.
 
 Mẹo nhanh: ngồi lên từng chiếc, dựng xe thẳng, đặt cả hai chân xuống. Chiếc nào cho bạn đứng vững bằng cả bàn chân hoặc gần cả bàn chân thì đó là ứng viên số một.
 

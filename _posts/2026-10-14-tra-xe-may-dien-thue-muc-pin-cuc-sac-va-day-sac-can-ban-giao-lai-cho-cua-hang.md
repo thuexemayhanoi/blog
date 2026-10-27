@@ -27,7 +27,7 @@ Mỗi tiệm có cách quy ước riêng về pin khi trả, và cách duy nhấ
 
 Câu thứ ba quan trọng hơn người ta nghĩ. Hãy chụp một tấm ảnh màn hình đồng hồ ngay khi bật khóa lần đầu, thấy rõ biểu tượng pin và quãng còn lại nếu xe có hiển thị. Ảnh này cùng với dòng ghi chú về mức pin trong [biên bản bàn giao xe thuê](/thue-xe/2026/10/14/bien-ban-ban-giao-xe-thue-cac-muc-can-ghi-khi-nhan-xe-va-khi-tra-xe/) là mốc để hai bên đối chiếu khi trả, thay vì mỗi người nhớ một kiểu.
 
-Nếu chưa quen đọc các vạch và biểu tượng pin, bài [pin xe máy điện thuê báo sắp hết ở đâu trên bảng đồng hồ](/xe-may/2026/10/07/pin-xe-may-ien-thue-bao-sap-o-au-tren-bang-ong-ho/) giải thích kỹ từng loại hiển thị.
+Nếu chưa quen đọc các vạch và biểu tượng pin, bài [pin xe máy điện thuê báo sắp hết ở đâu trên bảng đồng hồ](/xe-may/2026/10/07/pin-xe-may-dien-thue-bao-sap-o-dau-tren-bang-dong-ho/) giải thích kỹ từng loại hiển thị.
 
 ## Canh lịch sạc mấy ngày cuối để không trả xe gần cạn
 
@@ -35,7 +35,7 @@ Lỗi phổ biến nhất là dùng xe hết công suất tới buổi cuối, r
 
 Cách làm đơn giản nhất là coi đêm trước ngày trả là đêm sạc bắt buộc. Cắm sạc ngay khi về chỗ ở, để qua đêm ở nơi khô ráo, thoáng, có người trông. Sáng hôm sau, rút sạc, xem lại mức pin trên đồng hồ và so với yêu cầu của tiệm. Nếu còn thiếu, bạn vẫn có buổi sáng để sạc thêm thay vì cuống lên vào phút cuối.
 
-Nếu ngày cuối bạn vẫn phải chạy nhiều, ví dụ đi làm ở Cầu Giấy rồi mới vòng về Long Biên trả xe, hãy tính ngược: quãng đường cả ngày cộng với đoạn về tiệm phải nằm gọn trong lượng pin sau đêm sạc. Không chắc thì hỏi tiệm trước một ngày xem có thể trả muộn hơn trong giờ mở cửa để kịp sạc không. Trường hợp pin báo yếu khi đang trên đường, đọc thêm cách [ước lượng quãng còn lại khi xe điện thuê báo pin yếu](/thue-xe/2026/10/13/xe-ien-thue-bao-pin-yeu-giua-uong-uoc-luong-quang-con-lai-va-xu-ly/).
+Nếu ngày cuối bạn vẫn phải chạy nhiều, ví dụ đi làm ở Cầu Giấy rồi mới vòng về Long Biên trả xe, hãy tính ngược: quãng đường cả ngày cộng với đoạn về tiệm phải nằm gọn trong lượng pin sau đêm sạc. Không chắc thì hỏi tiệm trước một ngày xem có thể trả muộn hơn trong giờ mở cửa để kịp sạc không. Trường hợp pin báo yếu khi đang trên đường, đọc thêm cách [ước lượng quãng còn lại khi xe điện thuê báo pin yếu](/thue-xe/2026/10/13/xe-dien-thue-bao-pin-yeu-giua-duong-uoc-luong-quang-con-lai-va-xu-ly/).
 
 ## Gom đủ cục sạc, dây sạc và phụ kiện đi kèm
 

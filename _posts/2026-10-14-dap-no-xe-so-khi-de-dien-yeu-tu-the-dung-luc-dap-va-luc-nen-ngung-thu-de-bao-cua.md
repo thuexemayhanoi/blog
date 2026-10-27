@@ -17,7 +17,7 @@ writer_session: s-claude-w2
 
 Bấm đề mà máy chỉ quay rề rề vài vòng rồi im, nhiều người thuê xe số lần đầu mới biết chiếc xe còn một cái cần đạp nhỏ gập sát bên phải. Đạp nổ xe số không khó, nhưng người chưa quen hay mắc hai chuyện: đạp bằng mũi chân nên trượt, hoặc dồn lực sai khiến cổ chân, đầu gối đau âm ỉ cả buổi. Bài này không nhắc lại toàn bộ quy trình khởi động, mà tập trung vào phần cơ thể: đứng ở đâu, đặt chân thế nào, dồn lực ra sao, và những tín hiệu cho biết bạn nên ngừng thử để nhắn cửa hàng.
 
-Nếu bạn cần thứ tự kiểm tra trước khi đạp, như khóa điện, số mo, công tắc tắt máy, hãy đọc trước bài [đề điện không ăn: cách đạp cần khởi động xe số thuê](/thue-xe/2026/10/13/e-ien-khong-an-cach-ap-can-khoi-ong-xe-so-thue-cho-nguoi-chua-quen/). Phần dưới đây giả định bạn đã về số mo và mở khóa điện.
+Nếu bạn cần thứ tự kiểm tra trước khi đạp, như khóa điện, số mo, công tắc tắt máy, hãy đọc trước bài [đề điện không ăn: cách đạp cần khởi động xe số thuê](/thue-xe/2026/10/13/de-dien-khong-an-cach-dap-can-khoi-dong-xe-so-thue-cho-nguoi-chua-quen/). Phần dưới đây giả định bạn đã về số mo và mở khóa điện.
 
 ## Đạp nổ xe số bắt đầu từ chỗ đứng, không phải từ cái chân
 
@@ -59,7 +59,7 @@ Dù chọn tư thế nào, hông và vai nên thẳng hàng với xe. Người n
 
 Cú đạp đầu thường nặng nhất khi máy còn nguội, nhất là sáng sớm mùa đông ở Hà Nội. Đạp một cú, chờ vài nhịp thở, nghe máy có bén lụp bụp không rồi mới đạp tiếp. Đạp liên tục không nghỉ vừa mỏi chân vừa dễ làm máy ngộp xăng.
 
-Với xe dùng chế hòa khí có cần le gió, hỏi người giao xe cách dùng cần này trên đúng chiếc bạn thuê. Xe phun xăng điện tử thường không có cần le gió, bạn không phải chỉnh gì thêm. Cách đề và đạp vào ngày lạnh có bài riêng: [đề xe số trời lạnh](/xe-may/2026/10/11/e-xe-so-troi-lanh-meo-e-may-lan-au-thanh-cong/).
+Với xe dùng chế hòa khí có cần le gió, hỏi người giao xe cách dùng cần này trên đúng chiếc bạn thuê. Xe phun xăng điện tử thường không có cần le gió, bạn không phải chỉnh gì thêm. Cách đề và đạp vào ngày lạnh có bài riêng: [đề xe số trời lạnh](/xe-may/2026/10/11/de-xe-so-troi-lanh-meo-de-may-lan-dau-thanh-cong/).
 
 Khi máy đã nổ, đừng rồ ga ngay. Để máy chạy êm một lúc, ngồi vững rồi mới vào số. Nhớ gập cần đạp lại về sát thân xe, cần để bung ra có thể vướng ống quần hoặc quẹt vào chân người đi bên cạnh.
 

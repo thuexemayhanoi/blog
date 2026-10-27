@@ -7,7 +7,7 @@ description: "Chân chống xe máy bị lún trên nhựa nóng, đất ẩm ha
 categories: [Kỹ năng]
 lang: vi
 tags: [chân chống xe máy bị lún, xe máy đổ do chân chống lún, đỗ xe trên nền nhựa đường mềm, gửi xe giữ xe, thuê xe máy Hà Nội]
-permalink: /ky-nang/2026/10/11/chan-chong-bi-lun-tren-nhua-nong-at-am-va-gach-lat-e-xe-khoi-o/
+permalink: /ky-nang/2026/10/11/chan-chong-bi-lun-tren-nhua-nong-dat-am-va-gach-lat-de-xe-khoi-do/
 parent_id: P-KY-NANG
 child_id: C-KY-NANG-GUI-XE
 article_id: BLG-02349

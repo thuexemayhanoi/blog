@@ -85,7 +85,7 @@ Khi báo tiệm, nói rõ:
 - Hiện tượng: tắt máy đột ngột, đề không lên, xịt lốp, kêu lạ hay có mùi khét.
 - Bạn đang ở đâu so với dòng xe: đã lên vỉa hè hay vẫn sát lòng đường.
 
-Nếu tiệm đồng ý để bạn tự đưa xe vào tiệm sửa gần đó, hãy giữ lại hóa đơn và đừng tự ý thay phụ tùng lớn khi chưa trao đổi. Nhiều tình huống thường gặp được nói kỹ trong bài [xe thuê chết máy giữa đường: tự xử hay gọi chủ xe](/xe-may/2026/09/30/xe-thue-chet-may-giua-uong-tu-xu-hay-goi-chu-xe/) và bài [đang đi xe thuê bị xịt lốp](/xe-may/2026/09/29/ang-i-xe-thue-bi-xit-lop-lam-gi-ngay/).
+Nếu tiệm đồng ý để bạn tự đưa xe vào tiệm sửa gần đó, hãy giữ lại hóa đơn và đừng tự ý thay phụ tùng lớn khi chưa trao đổi. Nhiều tình huống thường gặp được nói kỹ trong bài [xe thuê chết máy giữa đường: tự xử hay gọi chủ xe](/xe-may/2026/09/30/xe-thue-chet-may-giua-duong-tu-xu-hay-goi-chu-xe/) và bài [đang đi xe thuê bị xịt lốp](/xe-may/2026/09/29/dang-di-xe-thue-bi-xit-lop-lam-gi-ngay/).
 
 ## Những việc không nên làm khi xe hỏng giữa phố
 

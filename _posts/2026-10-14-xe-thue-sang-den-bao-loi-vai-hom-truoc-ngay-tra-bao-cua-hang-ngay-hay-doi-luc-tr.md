@@ -81,7 +81,7 @@ Sau khi đã báo, còn vài việc nhỏ để buổi trả xe gọn:
 - **Giữ lại toàn bộ tin nhắn và ảnh** cho tới khi bàn giao xong.
 - **Đề nghị ghi chú về đèn báo vào biên bản trả xe**, kể cả khi đèn đã tắt.
 
-Người thuê dài hạn có thể tránh phần lớn chuyện bất ngờ sát ngày trả bằng một vòng kiểm tra ngắn mỗi tuần, như gợi ý trong bài [kiểm tra xe năm phút mỗi tuần cho người thuê xe dài hạn](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-en-dau-cho-nguoi-thue-xe-dai-han/).
+Người thuê dài hạn có thể tránh phần lớn chuyện bất ngờ sát ngày trả bằng một vòng kiểm tra ngắn mỗi tuần, như gợi ý trong bài [kiểm tra xe năm phút mỗi tuần cho người thuê xe dài hạn](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-den-dau-cho-nguoi-thue-xe-dai-han/).
 
 ## Tóm lại
 

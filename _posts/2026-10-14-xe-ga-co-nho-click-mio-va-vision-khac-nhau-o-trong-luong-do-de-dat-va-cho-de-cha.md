@@ -38,7 +38,7 @@ Phần lớn khu trọ của sinh viên ở Cầu Giấy, Thanh Xuân hay quanh 
 3. **Xoay đầu khi dắt.** Bẻ tay lái hết cỡ rồi dắt vòng. Thân ngắn và tay lái gọn giúp vòng quay hẹp, rất cần ở những ngõ chỉ vừa một xe.
 4. **Đẩy qua bậc hoặc dốc ngắn.** Nhà ống Hà Nội thường có bậc cửa hoặc tấm ván dắt xe. Nếu tiệm có chỗ dốc nhỏ, thử đẩy xe lên rồi giữ xe đứng lại giữa dốc.
 
-Về xu hướng chung, Vision có thân gọn và yên thấp nên nhiều người nhỏ người thấy dễ đứng sát xe khi dắt. Click thon gọn, tay lái không rộng, luồn giữa hai hàng xe dễ ước lượng. Mio nhỏ gọn, đầu xe nhẹ, người mới thường thấy dễ xoay. Mỗi đời xe khác một chút, nên kết quả thử của bạn mới là đáp án. Mẹo xoay xở trong ngõ hẹp có thêm ở bài [quay đầu xe trong ngõ phố cổ](/ky-nang/2026/09/29/quay-au-xe-trong-ngo-pho-co-meo-cho-xe-may/).
+Về xu hướng chung, Vision có thân gọn và yên thấp nên nhiều người nhỏ người thấy dễ đứng sát xe khi dắt. Click thon gọn, tay lái không rộng, luồn giữa hai hàng xe dễ ước lượng. Mio nhỏ gọn, đầu xe nhẹ, người mới thường thấy dễ xoay. Mỗi đời xe khác một chút, nên kết quả thử của bạn mới là đáp án. Mẹo xoay xở trong ngõ hẹp có thêm ở bài [quay đầu xe trong ngõ phố cổ](/ky-nang/2026/09/29/quay-dau-xe-trong-ngo-pho-co-meo-cho-xe-may/).
 
 ## Dựng chống và đỡ xe khi lỡ nghiêng
 

@@ -75,7 +75,7 @@ Thanh toán xong mới bắt đầu đóng lại, đừng vừa trả tiền v�
 Những tình huống dưới đây khá quen ở các cây xăng trong phố:
 
 - **Đồ dưới yên đè lên nắp bình.** Mở yên ra phải bê từng món xuống đất. Khi xếp đồ, chừa trống phần quanh nắp bình. Giấy tờ nên để trong túi khóa kéo riêng, xếp sang một bên để mở nắp bình không phải dọn cả khoang.
-- **Nhầm thao tác với xe ga.** Người quen xe ga thường tìm nắp bình ở phía trước hoặc dưới sàn. Nếu bạn thuê cả hai loại, xem thêm bài [đổ xăng cho xe tay ga thuê](/xe-may/2026/10/11/o-xang-cho-xe-tay-ga-thue-nap-xang-o-au-va-thao-tac-tai-tram/) để khỏi lẫn.
+- **Nhầm thao tác với xe ga.** Người quen xe ga thường tìm nắp bình ở phía trước hoặc dưới sàn. Nếu bạn thuê cả hai loại, xem thêm bài [đổ xăng cho xe tay ga thuê](/xe-may/2026/10/11/do-xang-cho-xe-tay-ga-thue-nap-xang-o-dau-va-thao-tac-tai-tram/) để khỏi lẫn.
 - **Đổ quá đầy.** Xăng sát miệng bình dễ trào khi xe nghiêng hoặc khi trời nắng.
 
 Thêm hai lỗi nữa hay gặp vào mùa mưa và với người thuê dài ngày:

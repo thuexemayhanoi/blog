@@ -92,7 +92,7 @@ Thuê một tháng khác thuê vài ngày ở chỗ bạn sống chung với chi
 
 1. Lịch thay dầu và kiểm tra xe trong tháng do ai lo, mang xe đến đâu.
 2. Nếu xe hỏng giữa đường đi làm thì liên hệ thế nào và có xe thay không.
-3. Hết tháng muốn thuê tiếp thì báo trước bao lâu. Bài [gia hạn hợp đồng thuê xe theo tháng](/thue-xe/2026/09/27/gia-han-hop-ong-thue-xe-theo-thang/) có danh sách những điểm cần ghi lại.
+3. Hết tháng muốn thuê tiếp thì báo trước bao lâu. Bài [gia hạn hợp đồng thuê xe theo tháng](/thue-xe/2026/09/27/gia-han-hop-dong-thue-xe-theo-thang/) có danh sách những điểm cần ghi lại.
 4. Nhận xe tại cửa hàng hay cần giao. Việc giao nhận chỉ diễn ra trong giờ 09:00–21:00, chi phí giao nhận phải xác nhận trước khi đặt.
 
 Chụp ảnh và quay video tình trạng xe lúc nhận, ghi lại số công-tơ-mét, để cuối tháng trả xe nhẹ nhàng.

@@ -39,7 +39,7 @@ Với ngày nhận xe khoảng chín giờ, một lịch dễ chịu cho cả nh
 4. **Đầu giờ chiều:** ra bờ hồ nghỉ, chụp ảnh, cho bọn trẻ chơi trên bãi cỏ.
 5. **Giữa chiều:** quay đầu về Hà Nội.
 
-Bạn nên kiểm tra lại lộ trình trên bản đồ trước hôm đi, vì các nhánh rẽ quanh Sơn Tây có thể đổi khi đường đang thi công. Bài [Hà Nội đi hồ Đồng Mô bằng xe máy: cung đường một ngày](/cung-duong/2026/10/10/ha-noi-i-ho-ong-mo-bang-xe-may-cung-uong-mot-ngay/) phân tích kỹ hai hướng đi nếu nhóm còn phân vân.
+Bạn nên kiểm tra lại lộ trình trên bản đồ trước hôm đi, vì các nhánh rẽ quanh Sơn Tây có thể đổi khi đường đang thi công. Bài [Hà Nội đi hồ Đồng Mô bằng xe máy: cung đường một ngày](/cung-duong/2026/10/10/ha-noi-di-ho-dong-mo-bang-xe-may-cung-duong-mot-ngay/) phân tích kỹ hai hướng đi nếu nhóm còn phân vân.
 
 ## Ghé làng văn hóa dân tộc Đồng Mô: đi lại bên trong
 

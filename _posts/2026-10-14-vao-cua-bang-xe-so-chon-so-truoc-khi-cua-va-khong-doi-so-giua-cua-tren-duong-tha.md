@@ -39,7 +39,7 @@ Khi còn đi thẳng, nhìn xa về phía khúc lượn để ước độ gắt
 
 Không có con số đúng cho mọi khúc cua, nhưng có cách tự kiểm: số đúng là số mà khi giữ ga nhẹ, máy vẫn kéo xe đi đều, không gằn, không rú. Trong phố và ven hồ, khúc cua tốc độ thấp thường hợp với số hai hoặc số ba trên xe số bốn cấp. Nếu đã về số mà máy vẫn rú cao, bạn đang dùng số quá thấp so với tốc độ, nên đi chậm hơn ở đoạn tiếp cận lần sau thay vì đạp lên số giữa chừng.
 
-Nếu chưa chắc mình đang ở số mấy, bài [cách biết xe đang ở số mấy khi không có đèn báo](/xe-may/2026/10/11/xe-so-khong-co-en-bao-so-cach-biet-ban-ang-o-so-may/) có vài mẹo nghe máy và cảm cần số.
+Nếu chưa chắc mình đang ở số mấy, bài [cách biết xe đang ở số mấy khi không có đèn báo](/xe-may/2026/10/11/xe-so-khong-co-den-bao-so-cach-biet-ban-dang-o-so-may/) có vài mẹo nghe máy và cảm cần số.
 
 ## Giữ ga đều trong cua
 
@@ -58,7 +58,7 @@ Thao tác lên số đúng cách, nhịp nhả ga và đạp cần, đã có tro
 
 ## Áp dụng trên đường Thanh Niên và vòng ven Hồ Tây
 
-Đường Thanh Niên nằm giữa Hồ Tây và hồ Trúc Bạch, mặt đường rộng, đoạn gần chùa Trấn Quốc có khúc lượn nhẹ. Khúc lượn này không gắt, nên lỗi hay gặp không phải là cua quá nhanh mà là vừa ngắm cảnh vừa đổi số. Cách đi gọn là chọn một số vừa phải ngay từ đầu đường phía Quán Thánh rồi giữ nguyên qua khúc lượn, chỉ tăng giảm ga nhẹ. Nếu định dừng ngắm hồ hay gửi xe, xem trước bài [vòng đi và gửi xe qua đường Thanh Niên, hồ Trúc Bạch](/du-lich/2026/10/04/i-xe-may-qua-uong-thanh-nien-va-ho-truc-bach-vong-i-va-gui-xe/) để biết chỗ dừng hợp lý.
+Đường Thanh Niên nằm giữa Hồ Tây và hồ Trúc Bạch, mặt đường rộng, đoạn gần chùa Trấn Quốc có khúc lượn nhẹ. Khúc lượn này không gắt, nên lỗi hay gặp không phải là cua quá nhanh mà là vừa ngắm cảnh vừa đổi số. Cách đi gọn là chọn một số vừa phải ngay từ đầu đường phía Quán Thánh rồi giữ nguyên qua khúc lượn, chỉ tăng giảm ga nhẹ. Nếu định dừng ngắm hồ hay gửi xe, xem trước bài [vòng đi và gửi xe qua đường Thanh Niên, hồ Trúc Bạch](/du-lich/2026/10/04/di-xe-may-qua-duong-thanh-nien-va-ho-truc-bach-vong-di-va-gui-xe/) để biết chỗ dừng hợp lý.
 
 Vòng ven hồ phía Tây Hồ, qua các đoạn như Trích Sài, Nguyễn Đình Thi hay Âu Cơ, có nhiều khúc lượn nối nhau, xen lẫn ngõ cắt ngang và quán xá lấn ra mép đường. Ở những đoạn này:
 
@@ -66,7 +66,7 @@ Vòng ven hồ phía Tây Hồ, qua các đoạn như Trích Sài, Nguyễn Đì
 - Đi sát phần đường bên phải, không ôm sát tim đường khi khuất tầm nhìn.
 - Buổi tối và cuối tuần người đi bộ, xe đạp, người chụp ảnh đứng sát mép hồ đông hơn, nên đi chậm hẳn và sẵn sàng phanh trên đoạn thẳng.
 
-Mặt đường sát hồ đôi khi đọng nước sau mưa hoặc có lá rụng. Gặp đoạn ướt, giảm tốc sớm hơn nữa và về số êm từng cấp; bài [giảm số trên đường ướt](/xe-may/2026/10/11/giam-so-tren-uong-uot-vi-sao-banh-sau-de-giat-va-cach-giam-cho-muot/) giải thích vì sao bánh sau dễ giật nếu về số vội.
+Mặt đường sát hồ đôi khi đọng nước sau mưa hoặc có lá rụng. Gặp đoạn ướt, giảm tốc sớm hơn nữa và về số êm từng cấp; bài [giảm số trên đường ướt](/xe-may/2026/10/11/giam-so-tren-duong-uot-vi-sao-banh-sau-de-giat-va-cach-giam-cho-muot/) giải thích vì sao bánh sau dễ giật nếu về số vội.
 
 ## Lỗi hay gặp và cách sửa nhanh
 

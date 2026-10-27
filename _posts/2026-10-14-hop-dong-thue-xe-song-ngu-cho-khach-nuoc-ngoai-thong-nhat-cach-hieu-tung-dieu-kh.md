@@ -37,7 +37,7 @@ Hãy đặt hợp đồng nằm ngang trên quầy, dò từng điều khoản �
 2. Có con số, ngày giờ hay biển số nào lệch giữa hai cột không? Lỗi hay gặp là người Việt ghi ngày trước tháng, còn khách quen đọc tháng trước ngày.
 3. Có từ nào mình hiểu được từng chữ nhưng không chắc nghĩa thực tế không? Ví dụ "full responsibility" hay "reasonable wear".
 
-Khách không đọc được tiếng Việt có thể dùng ứng dụng dịch chụp ảnh cột tiếng Việt để so với cột tiếng Anh. Bản dịch máy chỉ dùng để phát hiện chỗ hai cột có vẻ nói khác nhau. Chỗ nào nghi ngờ, đánh dấu bằng bút chì rồi hỏi một lượt sau khi đọc hết. Bài [đọc kỹ hợp đồng thuê xe máy và những mục nên dừng lại](/thue-xe/2026/10/04/oc-ky-hop-ong-thue-xe-may-nhung-muc-nen-dung-lai/) có danh sách mục đáng dừng lâu; ở đây ta tập trung vào chỗ hai ngôn ngữ dễ tách nghĩa.
+Khách không đọc được tiếng Việt có thể dùng ứng dụng dịch chụp ảnh cột tiếng Việt để so với cột tiếng Anh. Bản dịch máy chỉ dùng để phát hiện chỗ hai cột có vẻ nói khác nhau. Chỗ nào nghi ngờ, đánh dấu bằng bút chì rồi hỏi một lượt sau khi đọc hết. Bài [đọc kỹ hợp đồng thuê xe máy và những mục nên dừng lại](/thue-xe/2026/10/04/doc-ky-hop-dong-thue-xe-may-nhung-muc-nen-dung-lai/) có danh sách mục đáng dừng lâu; ở đây ta tập trung vào chỗ hai ngôn ngữ dễ tách nghĩa.
 
 ## Những điều khoản hay lệch nghĩa khi dịch sang tiếng Anh
 

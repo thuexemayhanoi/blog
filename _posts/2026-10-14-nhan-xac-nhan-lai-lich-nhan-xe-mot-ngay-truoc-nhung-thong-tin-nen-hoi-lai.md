@@ -37,7 +37,7 @@ Một tin xác nhận gọn nhất là nhắc lại những gì bạn hiểu, r�
 
 ### Mẫu xe và tình trạng giữ xe
 
-Nhắc tên mẫu xe đã chốt, ví dụ Honda Vision hay Honda Wave, và hỏi xe đã được giữ cho bạn chưa. Nếu bạn có yêu cầu riêng như xe yên thấp, xe có cốp rộng để chở vali, hãy nhắc lại luôn. Trường hợp cửa hàng báo đổi sang mẫu khác, bạn còn thời gian cân nhắc tối nay thay vì quyết vội lúc nhận. Cách xử lý tình huống này có trong bài [cửa hàng đưa mẫu xe khác lúc hẹn](/thue-xe/2026/10/12/cua-hang-ua-mau-xe-khac-luc-hen-nen-hoi-va-xac-nhan-gi-truoc-khi-nhan/).
+Nhắc tên mẫu xe đã chốt, ví dụ Honda Vision hay Honda Wave, và hỏi xe đã được giữ cho bạn chưa. Nếu bạn có yêu cầu riêng như xe yên thấp, xe có cốp rộng để chở vali, hãy nhắc lại luôn. Trường hợp cửa hàng báo đổi sang mẫu khác, bạn còn thời gian cân nhắc tối nay thay vì quyết vội lúc nhận. Cách xử lý tình huống này có trong bài [cửa hàng đưa mẫu xe khác lúc hẹn](/thue-xe/2026/10/12/cua-hang-dua-mau-xe-khac-luc-hen-nen-hoi-va-xac-nhan-gi-truoc-khi-nhan/).
 
 ### Giờ hẹn và số ngày thuê
 
@@ -78,7 +78,7 @@ Hãy để ý những dấu hiệu cần hỏi thêm:
 - Cửa hàng yêu cầu một loại giấy tờ mà trước đó chưa nói đến.
 - Có thay đổi về cách giao xe hoặc địa điểm gặp.
 
-Gặp một trong các trường hợp trên, trả lời ngay trong tối để chốt lại. Nếu bạn cần đổi hẳn ngày nhận, xem thêm cách [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-oi-lich-nhan-xe/) để hai bên thống nhất rõ ràng.
+Gặp một trong các trường hợp trên, trả lời ngay trong tối để chốt lại. Nếu bạn cần đổi hẳn ngày nhận, xem thêm cách [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-doi-lich-nhan-xe/) để hai bên thống nhất rõ ràng.
 
 Cuối cùng, chụp lại màn hình đoạn xác nhận hoặc ghim tin nhắn. Sáng hôm sau, trên đường qua cầu Chương Dương hay cầu Vĩnh Tuy sang Long Biên, bạn chỉ cần mở lại là biết giờ hẹn và những gì phải mang.
 

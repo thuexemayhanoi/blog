@@ -17,7 +17,7 @@ writer_session: s-claude-w2
 
 Hai người đến Hà Nội ở bốn, năm ngày, đã quyết đi lại bằng xe máy, và câu cuối cùng còn lại là thuê một xe hay hai xe. Khi chuyến đi kéo dài nhiều ngày, mọi thứ khác hẳn một buổi chiều dạo Hồ Tây: tiền thuê có thể tính theo tuần, cơn mỏi lưng dồn lại từ hôm trước, và chuyện lạc nhau giữa phố không còn hiếm. Bài này so sánh hai phương án trên đúng bốn trục: chi phí theo bảng giá, độ thoải mái qua nhiều ngày, rủi ro lạc nhau và thói quen lái của từng người.
 
-Nếu chỉ cần quyết cho một ngày đi chơi, xem bài [hai người đi chơi thuê một xe chung hay hai xe riêng](/hoi-dap/2026/10/11/hai-nguoi-i-choi-thue-mot-xe-chung-hay-hai-xe-rieng-cho-thoai-mai/).
+Nếu chỉ cần quyết cho một ngày đi chơi, xem bài [hai người đi chơi thuê một xe chung hay hai xe riêng](/hoi-dap/2026/10/11/hai-nguoi-di-choi-thue-mot-xe-chung-hay-hai-xe-rieng-cho-thoai-mai/).
 
 ## Thuê một xe hay hai xe: bốn trục để so cho chuyến vài ngày
 
@@ -62,7 +62,7 @@ Hãy thống nhất vài quy tắc từ hôm đầu:
 3. **Bật chia sẻ vị trí trên điện thoại** cho nhau suốt kỳ ở lại, và chỉ xem bản đồ khi đã tấp hẳn vào lề.
 4. **Lạc thì dừng, đừng đuổi.** Người trước tấp vào chỗ an toàn chờ, người sau gọi điện khi đã dừng.
 
-Kỹ năng giữ khoảng cách khi đi nhiều xe cùng nhau được nói kỹ hơn trong bài [giữ khoảng cách khi đi xe theo nhóm](/ky-nang/2026/10/10/giu-khoang-cach-khi-i-xe-theo-nhom/). Với một xe chung, rủi ro này bằng không.
+Kỹ năng giữ khoảng cách khi đi nhiều xe cùng nhau được nói kỹ hơn trong bài [giữ khoảng cách khi đi xe theo nhóm](/ky-nang/2026/10/10/giu-khoang-cach-khi-di-xe-theo-nhom/). Với một xe chung, rủi ro này bằng không.
 
 ## Thói quen lái của mỗi người quyết định nhiều hơn giá
 

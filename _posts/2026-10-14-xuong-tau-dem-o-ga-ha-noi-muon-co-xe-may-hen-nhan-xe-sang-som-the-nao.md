@@ -39,7 +39,7 @@ Một tin nhắn hẹn đầy đủ nên có:
 
 Nếu chọn giao xe, hãy hỏi thẳng hai điều: giờ giao cụ thể trong khung 09:00 đến 21:00 và chi phí giao nhận. Hai thông tin này phải được xác nhận rõ trước khi đặt, không tự suy đoán và cũng đừng mặc định là không tốn phí. Về tiền cọc, hãy hỏi trực tiếp mức áp dụng cho dòng xe bạn chọn và cách hoàn lại khi trả xe.
 
-Quy trình đặt trước qua tin nhắn được hướng dẫn chi tiết trong bài [đặt xe máy trước qua điện thoại hoặc Zalo](/thue-xe/2026/09/27/at-xe-may-truoc-qua-ien-thoai-hoac-zalo/).
+Quy trình đặt trước qua tin nhắn được hướng dẫn chi tiết trong bài [đặt xe máy trước qua điện thoại hoặc Zalo](/thue-xe/2026/09/27/dat-xe-may-truoc-qua-dien-thoai-hoac-zalo/).
 
 ## Khoảng chờ buổi sáng: gửi đồ, ăn sáng, nghỉ ngơi
 

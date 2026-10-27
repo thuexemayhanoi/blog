@@ -51,7 +51,7 @@ Người ở quanh Nguyễn Trãi, Khuất Duy Tiến có thể đi Lê Văn Lư
 
 ### Từ Mỹ Đình về nhà buổi chiều
 
-Chiều tối, dòng xe dưới cầu cạn Phạm Hùng thường đặc nhất quanh bến xe Mỹ Đình và các ngã tư lớn. Có thể rời văn phòng sớm hoặc muộn hơn một chút, hoặc đi đường song song như Lê Đức Thọ, Hồ Tùng Mậu tùy hướng về. Bài về [giờ cao điểm và chọn giờ xuất phát khi đi làm](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/) có thêm cách tính giờ đi cho đỡ kẹt.
+Chiều tối, dòng xe dưới cầu cạn Phạm Hùng thường đặc nhất quanh bến xe Mỹ Đình và các ngã tư lớn. Có thể rời văn phòng sớm hoặc muộn hơn một chút, hoặc đi đường song song như Lê Đức Thọ, Hồ Tùng Mậu tùy hướng về. Bài về [giờ cao điểm và chọn giờ xuất phát khi đi làm](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/) có thêm cách tính giờ đi cho đỡ kẹt.
 
 ## Đi dưới cầu cạn: làn, đèn và xe buýt
 

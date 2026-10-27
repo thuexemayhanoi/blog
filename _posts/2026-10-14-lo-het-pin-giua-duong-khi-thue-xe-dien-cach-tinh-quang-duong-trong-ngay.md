@@ -26,7 +26,7 @@ Trên mạng có rất nhiều con số kiểu "xe điện đi được bao xa",
 - **Tuổi pin.** Pin đã dùng lâu giữ điện kém hơn pin mới, dù đồng hồ vẫn báo đầy khi giao xe.
 - **Thời tiết và cách vặn ga.** Trời lạnh, gió ngược, hay thói quen vặn ga mạnh từ chỗ dừng đều làm quãng đường ngắn lại.
 
-Vì vậy, thay vì nhớ một con số, hãy nhớ một phương pháp. Bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-uong-mot-lan-sac-cua-xe-may-ien/) giải thích kỹ hơn từng yếu tố ảnh hưởng.
+Vì vậy, thay vì nhớ một con số, hãy nhớ một phương pháp. Bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-duong-mot-lan-sac-cua-xe-may-dien/) giải thích kỹ hơn từng yếu tố ảnh hưởng.
 
 ## Hỏi tiệm đúng câu khi nhận xe
 
@@ -66,7 +66,7 @@ Một mẹo giúp người đi xe điện không bao giờ bị động là chia
 
 Kèm theo đó là **điểm quay về**: mức pin mà khi đồng hồ chạm tới, bạn thôi đi thêm và hướng thẳng về chỗ ở hoặc chỗ sạc. Nên chọn mức này còn khá nhiều, vì lúc pin thấp nhiều xe tự giảm sức kéo, đi chậm và khó leo dốc cầu. Nếu chỗ ở bên Gia Lâm hay Long Biên mà bạn đang ở bên Cầu Giấy, hãy nhớ đường về còn phải qua cầu, nên điểm quay về cần cao hơn so với người ở ngay phố cổ.
 
-Với lịch trình dài, bữa trưa là cơ hội tốt để sạc bổ sung nếu chỗ ăn hoặc chỗ ở cho phép cắm sạc an toàn. Chỉ cắm ở ổ điện chủ nhà đồng ý, khô ráo và có người trông. Bài [sạc xe máy điện khi thuê ở đâu và mất bao lâu](/xe-may/2026/09/27/sac-xe-may-ien-khi-thue-o-au-va-mat-bao-lau/) có thêm gợi ý về chỗ sạc.
+Với lịch trình dài, bữa trưa là cơ hội tốt để sạc bổ sung nếu chỗ ăn hoặc chỗ ở cho phép cắm sạc an toàn. Chỉ cắm ở ổ điện chủ nhà đồng ý, khô ráo và có người trông. Bài [sạc xe máy điện khi thuê ở đâu và mất bao lâu](/xe-may/2026/09/27/sac-xe-may-dien-khi-thue-o-dau-va-mat-bao-lau/) có thêm gợi ý về chỗ sạc.
 
 ## Lái xe sao cho pin đi xa hơn
 
@@ -81,7 +81,7 @@ Cách lái cũng góp phần không nhỏ vào quãng đường:
 
 Dù tính kỹ, đôi khi pin vẫn tụt nhanh hơn dự kiến, có thể vì pin đã yếu hay vì đường tắc kéo dài. Khi đó, đừng cố đi tiếp tới điểm kế hoạch. Hãy rút ngắn lịch trình, hướng về chỗ ở hoặc chỗ sạc gần nhất, đi chậm và đều để kéo dài phần pin còn lại. Nếu thấy xe yếu bất thường so với mức đồng hồ báo, hãy báo tiệm sớm thay vì đợi cạn hẳn.
 
-Nếu lịch trình của bạn thường xuyên dài và khó đoán, có lẽ xe xăng sẽ hợp hơn. Bài [thuê xe điện hay xe xăng khi đi trong nội đô Hà Nội](/xe-may/2026/09/29/thue-xe-ien-hay-xe-xang-khi-i-trong-noi-o-ha-noi/) giúp bạn cân nhắc lựa chọn này.
+Nếu lịch trình của bạn thường xuyên dài và khó đoán, có lẽ xe xăng sẽ hợp hơn. Bài [thuê xe điện hay xe xăng khi đi trong nội đô Hà Nội](/xe-may/2026/09/29/thue-xe-dien-hay-xe-xang-khi-di-trong-noi-do-ha-noi/) giúp bạn cân nhắc lựa chọn này.
 
 ## Tóm lại
 

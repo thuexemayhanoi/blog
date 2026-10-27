@@ -84,6 +84,6 @@ Mất chưa tới một phút, nhưng tránh được tình huống phải cúi 
 
 **Ghé mua nước giữa đường.** Chai nước có nắp cho vào hộc, cốc trà đá hay cà phê không nắp thì uống xong rồi hãy đi.
 
-**Gửi xe ở bãi.** Trước khi rời xe, gỡ hết túi treo và lấy đồ khỏi hộc. Bài [để đồ trong cốp, giỏ và móc treo khi rời xe](/ky-nang/2026/10/11/e-o-trong-cop-gio-va-moc-treo-khi-roi-xe-mon-nao-nen-mon-nao-khong/) đã liệt kê kỹ món nào nên mang theo người.
+**Gửi xe ở bãi.** Trước khi rời xe, gỡ hết túi treo và lấy đồ khỏi hộc. Bài [để đồ trong cốp, giỏ và móc treo khi rời xe](/ky-nang/2026/10/11/de-do-trong-cop-gio-va-moc-treo-khi-roi-xe-mon-nao-nen-mon-nao-khong/) đã liệt kê kỹ món nào nên mang theo người.
 
 Dùng móc treo đồ xe tay ga và hộc phía trước đúng việc giúp chuyến đi chợ, đi làm gọn hơn mà vẫn giữ chân và tay lái luôn tự do. Xem thêm đặc điểm các mẫu [xe tay ga](/xe-may/xe-ga/) và chuyên mục [xe máy và dòng xe](/xe-may/) trước khi chọn xe thuê.

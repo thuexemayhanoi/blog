@@ -7,7 +7,7 @@ description: "Đi Đường Lâm bằng xe máy một ngày từ Hà Nội: xu�
 categories: [Du lịch]
 lang: vi
 tags: [đi đường lâm bằng xe máy, làng cổ đường lâm một ngày, đi sơn tây bằng xe máy, thuê xe máy Hà Nội]
-permalink: /thue-xe/2026/10/12/lang-co-uong-lam-bang-xe-may-i-tu-ha-noi-mot-ngay-the-nao/
+permalink: /thue-xe/2026/10/12/lang-co-duong-lam-bang-xe-may-di-tu-ha-noi-mot-ngay-the-nao/
 parent_id: P-THUE-XE
 child_id: C-THUE-QUOC-TE
 article_id: BLG-02470

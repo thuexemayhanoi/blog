@@ -55,7 +55,7 @@ Cách nhiều người chọn là vào phố trước bằng taxi hoặc xe buý
 - **Tại cửa hàng ở Long Biên.** Đi từ phố cổ sang qua cầu Chương Dương không xa. Bạn được xem nhiều xe, chọn trực tiếp.
 - **Tại chỗ ở, nếu cửa hàng xác nhận giao được.** Tiện cho người không muốn di chuyển thêm, nhưng nhớ chốt giờ và phí trước.
 
-Quãng đường và lộ trình từ sân bay vào trung tâm được phân tích riêng trong bài [đi xe máy từ sân bay Nội Bài về phố có xa không](/thue-xe/2026/10/09/i-xe-may-tu-san-bay-noi-bai-ve-pho-co-xa-khong/).
+Quãng đường và lộ trình từ sân bay vào trung tâm được phân tích riêng trong bài [đi xe máy từ sân bay Nội Bài về phố có xa không](/thue-xe/2026/10/09/di-xe-may-tu-san-bay-noi-bai-ve-pho-co-xa-khong/).
 
 ## Khi đã hạ cánh: nhắn gì, lúc nào
 

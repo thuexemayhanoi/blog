@@ -44,7 +44,7 @@ Khi ABS hoạt động, bạn có thể cảm thấy tay phanh rung lên từng 
 
 Ba giới hạn còn lại liên quan tới mặt đường và cách bạn chạy:
 
-- **ABS không xử lý được mọi bề mặt.** Vạch sơn, nắp cống, tấm thép che hố công trình và vệt dầu loang đều rất trơn khi ướt. Cách đi qua những đoạn này có trong bài [đi xe máy trên vạch sơn đường ướt](/ky-nang/2026/10/11/i-xe-may-tren-vach-son-uong-uot-tranh-truot-banh/).
+- **ABS không xử lý được mọi bề mặt.** Vạch sơn, nắp cống, tấm thép che hố công trình và vệt dầu loang đều rất trơn khi ướt. Cách đi qua những đoạn này có trong bài [đi xe máy trên vạch sơn đường ướt](/ky-nang/2026/10/11/di-xe-may-tren-vach-son-duong-uot-tranh-truot-banh/).
 - **ABS không biến cú phanh trong cua thành an toàn.** Phanh mạnh khi xe đang nghiêng vẫn làm xe mất ổn định. Hãy giảm tốc xong trên đoạn thẳng rồi mới vào cua.
 - **ABS không cứu được khi bạn bám đuôi quá sát.** Nếu khoảng cách không đủ, không hệ thống phanh nào kịp.
 

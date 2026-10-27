@@ -54,7 +54,7 @@ Dù chọn xe nào, nguyên tắc vẫn là chạy chậm hơn ngày thường, 
 
 **Cốp xe ga** là lợi thế rất rõ. Áo mưa để sẵn trong cốp, gặp mưa chỉ cần dừng sát lề, mở yên, mặc vào. Ví và điện thoại cho vào túi ni lông kín rồi đặt trong cốp. Lưu ý cốp không hoàn toàn kín nước khi mưa to kéo dài hoặc khi gửi xe ngoài trời, nên vẫn bọc thêm một lớp.
 
-**Xe số** thường chỉ có móc treo đồ hoặc hộc nhỏ. Áo mưa phải mang theo người hoặc buộc ở giá sau, đồ có giá trị nên để trong túi chống nước đeo trước ngực, bên dưới áo mưa. Cách bọc đồ nhiều lớp được nói kỹ trong bài [chở đồ khi trời mưa, cách bọc kín](/ky-nang/2026-09-29/cho-o-khi-troi-mua-cach-boc-kin/).
+**Xe số** thường chỉ có móc treo đồ hoặc hộc nhỏ. Áo mưa phải mang theo người hoặc buộc ở giá sau, đồ có giá trị nên để trong túi chống nước đeo trước ngực, bên dưới áo mưa. Cách bọc đồ nhiều lớp được nói kỹ trong bài [chở đồ khi trời mưa, cách bọc kín](/ky-nang/2026-09-29/cho-do-khi-troi-mua-cach-boc-kin/).
 
 ## Khi gặp đoạn đường ngập
 

@@ -71,7 +71,7 @@ Chọn đúng xe mới là một nửa. Cách lái quyết định nửa còn l�
 - **Giảm tốc trước khi tới gờ, không phanh ngay trên gờ.** Phanh lúc bánh trước đang leo gờ làm phuộc trước bị ép sâu, cú dằn mạnh hơn. Nhả phanh, để xe lăn qua đều.
 - **Đi thẳng góc với gờ.** Qua gờ chéo dễ làm bánh trượt, nhất là khi mặt đường có cát sỏi từ công trường.
 - **Hơi nhổm người, dồn lực xuống chân.** Đầu gối hơi chùng như lò xo, tay nắm lái vừa phải.
-- **Nhìn xa để né ổ gà sớm.** Đổi làn đột ngột vì phát hiện ổ gà muộn nguy hiểm hơn đi chậm qua nó. Nếu lỡ gặp ổ gà khi đang nhanh, xem bài [gặp ổ gà khi đang chạy nhanh xử lý thế nào](/ky-nang/2026/10/07/gap-o-ga-khi-ang-chay-nhanh-xu-ly-the-nao/).
+- **Nhìn xa để né ổ gà sớm.** Đổi làn đột ngột vì phát hiện ổ gà muộn nguy hiểm hơn đi chậm qua nó. Nếu lỡ gặp ổ gà khi đang nhanh, xem bài [gặp ổ gà khi đang chạy nhanh xử lý thế nào](/ky-nang/2026/10/07/gap-o-ga-khi-dang-chay-nhanh-xu-ly-the-nao/).
 
 Ở các đoạn đang thi công như những công trường đường sắt đô thị, đường vành đai hay các tuyến đang mở rộng, mặt đường thay đổi theo tuần. Đoạn hôm qua phẳng, hôm nay có thể đã bị cào bóc hoặc rải đá. Đi chậm, bám theo vệt xe phía trước và tránh đi sát rào chắn.
 

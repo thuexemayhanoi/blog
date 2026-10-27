@@ -41,7 +41,7 @@ Chỗ đứng an toàn khi xe hỏng nên có các điểm sau:
 
 Trẻ thường tò mò và muốn lại gần xem xe. Hãy giao cho con một việc nhỏ: cầm mũ bảo hiểm, giữ chai nước, hoặc ngồi trông túi đồ. Nếu có người lớn thứ hai, một người chỉ trông con, một người lo xe. Nếu bạn đi một mình với con, đừng vừa kiểm tra máy vừa để con đứng sau lưng: cho con ngồi trong quán gần đó, nơi bạn nhìn thấy được, rồi mới quay lại với xe.
 
-Giữ mũ bảo hiểm trên đầu con cho tới khi con đã đứng trên vỉa hè, vì đây là lúc con ở gần dòng xe nhất. Khi lên xe trở lại, kiểm tra quai mũ đã cài chưa và con đã ngồi đúng chỗ chưa. Những điều cần lưu ý khi cho trẻ ngồi xe máy được nói trong bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-ieu-kien-gi/).
+Giữ mũ bảo hiểm trên đầu con cho tới khi con đã đứng trên vỉa hè, vì đây là lúc con ở gần dòng xe nhất. Khi lên xe trở lại, kiểm tra quai mũ đã cài chưa và con đã ngồi đúng chỗ chưa. Những điều cần lưu ý khi cho trẻ ngồi xe máy được nói trong bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-dieu-kien-gi/).
 
 ## Khi chở người lớn tuổi: đỡ xuống và cho ngồi nghỉ
 

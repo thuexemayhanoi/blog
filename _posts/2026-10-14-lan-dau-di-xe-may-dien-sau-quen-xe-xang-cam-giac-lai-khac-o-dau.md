@@ -37,7 +37,7 @@ Trên xe ga chạy xăng, từ lúc vặn ga tới lúc xe thực sự bốc có
 2. Nếu xe có chế độ lái tiết kiệm hoặc chế độ êm, dùng chế độ đó trong những ngày đầu.
 3. Giữ khoảng cách với xe trước rộng hơn bình thường khi chờ đèn.
 
-Cách luyện xuất phát êm chi tiết hơn có trong bài [xe điện tăng tốc tức thì](/xe-may/2026/10/11/xe-ien-tang-toc-tuc-thi-cach-xuat-phat-em-o-nga-tu-ong/).
+Cách luyện xuất phát êm chi tiết hơn có trong bài [xe điện tăng tốc tức thì](/xe-may/2026/10/11/xe-dien-tang-toc-tuc-thi-cach-xuat-phat-em-o-nga-tu-dong/).
 
 ## Nhả ga: xe chậm lại theo kiểu khác
 
@@ -45,7 +45,7 @@ Khi nhả ga, xe xăng trôi theo quán tính khá lâu, xe số còn có lực 
 
 Người quen xe xăng thường nhả ga sớm rồi để xe trôi tới đèn đỏ. Trên xe hãm mạnh, xe dừng sớm hơn dự tính, còn người ngồi sau bị đẩy nhẹ về phía trước. Trên xe trôi nhiều, bạn lại cần phanh sớm hơn vì xe điện thường nặng hơn xe xăng cùng cỡ.
 
-Cách nhanh nhất để biết xe mình thuộc kiểu nào: ở một đoạn đường vắng, chạy chậm đều rồi nhả hẳn ga, xem xe chậm lại nhanh hay từ từ. Làm vài lần trước khi ra phố. Bài [xe điện và phanh tái sinh](/xe-may/2026/10/03/xe-ien-va-phanh-tai-sinh-lam-quen-lan-au/) giải thích kỹ hơn về cơ chế hãm này.
+Cách nhanh nhất để biết xe mình thuộc kiểu nào: ở một đoạn đường vắng, chạy chậm đều rồi nhả hẳn ga, xem xe chậm lại nhanh hay từ từ. Làm vài lần trước khi ra phố. Bài [xe điện và phanh tái sinh](/xe-may/2026/10/03/xe-dien-va-phanh-tai-sinh-lam-quen-lan-dau/) giải thích kỹ hơn về cơ chế hãm này.
 
 ## Im lặng nghĩa là người khác không nghe thấy bạn
 
@@ -57,7 +57,7 @@ Khi chạy xe xăng, bạn để tiếng máy làm phần báo hiệu thay mình
 - Bấm còi ngắn, nhẹ khi sắp vượt người đi bộ hoặc người đạp xe, nhất là trẻ con và người lớn tuổi.
 - Buổi tối bật đèn chiếu gần sớm để người phía trước thấy ánh đèn trước khi thấy xe.
 
-Mẹo báo hiệu trong ngõ hẹp được viết riêng ở bài [xe điện chạy êm trong ngõ nhỏ](/xe-may/2026/10/11/xe-ien-chay-em-trong-ngo-nho-bao-hieu-cho-nguoi-i-bo-the-nao/).
+Mẹo báo hiệu trong ngõ hẹp được viết riêng ở bài [xe điện chạy êm trong ngõ nhỏ](/xe-may/2026/10/11/xe-dien-chay-em-trong-ngo-nho-bao-hieu-cho-nguoi-di-bo-the-nao/).
 
 Mặt khác, bạn cũng mất đi tiếng máy làm thước đo tốc độ. Không có tiếng máy gào lên, xe điện chạy nhanh mà cảm giác vẫn chậm. Liếc đồng hồ tốc độ thường xuyên hơn, đặc biệt trên các đoạn thoáng như đường Võ Chí Công hay đê Âu Cơ.
 
@@ -83,4 +83,4 @@ Nếu có thể, hãy dành nửa tiếng đầu ở một đoạn đường r�
 
 Khi thuê, cứ nói thẳng với cửa hàng rằng bạn mới đi xe điện lần đầu để được chỉ các nút, chế độ lái và đèn báo. Giá thuê xe điện cần liên hệ cửa hàng để xác nhận trước.
 
-Phần lớn người quen xe xăng làm quen xe điện khá nhanh, chỉ cần chỉnh lại tay ga và thói quen báo hiệu. Nếu còn phân vân nên chọn loại nào, xem bài [xe máy điện với xe xăng chọn nào khi thuê](/xe-may/2026/09/27/xe-may-ien-voi-xe-xang-chon-nao-khi-thue/), mục [so sánh khi thuê xe máy](/xe-may/so-sanh-xe/) và chuyên mục [xe máy](/xe-may/).
+Phần lớn người quen xe xăng làm quen xe điện khá nhanh, chỉ cần chỉnh lại tay ga và thói quen báo hiệu. Nếu còn phân vân nên chọn loại nào, xem bài [xe máy điện với xe xăng chọn nào khi thuê](/xe-may/2026/09/27/xe-may-dien-voi-xe-xang-chon-nao-khi-thue/), mục [so sánh khi thuê xe máy](/xe-may/so-sanh-xe/) và chuyên mục [xe máy](/xe-may/).

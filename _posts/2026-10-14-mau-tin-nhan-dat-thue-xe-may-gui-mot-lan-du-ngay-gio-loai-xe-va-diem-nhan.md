@@ -61,7 +61,7 @@ Ghi dòng xe bạn muốn, nhưng thêm một lựa chọn dự phòng. Ví dụ
 
 ### Giấy tờ
 
-Ghi bạn đang có giấy tờ gì, không cần gửi ảnh ngay trong tin đầu. Tiệm sẽ cho biết cần mang bản nào khi nhận xe. Danh sách cụ thể nên chuẩn bị có trong bài [chuẩn bị giấy tờ gì trước khi đến cửa hàng thuê xe](/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-en-cua-hang-thue-xe/).
+Ghi bạn đang có giấy tờ gì, không cần gửi ảnh ngay trong tin đầu. Tiệm sẽ cho biết cần mang bản nào khi nhận xe. Danh sách cụ thể nên chuẩn bị có trong bài [chuẩn bị giấy tờ gì trước khi đến cửa hàng thuê xe](/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-den-cua-hang-thue-xe/).
 
 ## Biến thể cho vài tình huống thường gặp
 
@@ -83,8 +83,8 @@ Ghi bạn đang có giấy tờ gì, không cần gửi ảnh ngay trong tin đ�
 
 ## Sau khi gửi: đọc kỹ tin trả lời và chốt bằng chữ
 
-Khi tiệm trả lời, đọc lại từng điểm: ngày giờ, dòng xe, điểm nhận, giấy tờ cần mang. Nếu có điểm khác với yêu cầu, ví dụ tiệm đề nghị đổi sang xe khác, hãy nhắn xác nhận đồng ý hoặc không, đừng chỉ thả biểu tượng cảm xúc. Những điểm nên chốt bằng văn bản được nói kỹ trong bài [đặt xe thuê qua tin nhắn: chốt những gì bằng văn bản](/thue-xe/2026/10/03/at-xe-thue-qua-tin-nhan-chot-nhung-gi-bang-van-ban/).
+Khi tiệm trả lời, đọc lại từng điểm: ngày giờ, dòng xe, điểm nhận, giấy tờ cần mang. Nếu có điểm khác với yêu cầu, ví dụ tiệm đề nghị đổi sang xe khác, hãy nhắn xác nhận đồng ý hoặc không, đừng chỉ thả biểu tượng cảm xúc. Những điểm nên chốt bằng văn bản được nói kỹ trong bài [đặt xe thuê qua tin nhắn: chốt những gì bằng văn bản](/thue-xe/2026/10/03/dat-xe-thue-qua-tin-nhan-chot-nhung-gi-bang-van-ban/).
 
-Nếu sau một thời gian vẫn chưa thấy hồi âm, xem cách xử lý trong bài [đã đặt xe nhưng cửa hàng chưa trả lời](/thue-xe/2026/10/11/a-at-xe-may-thue-nhung-cua-hang-chua-tra-loi-cho-bao-lau-va-lam-gi/). Trước giờ nhận một buổi, nhắn lại một dòng ngắn để tiệm chuẩn bị xe.
+Nếu sau một thời gian vẫn chưa thấy hồi âm, xem cách xử lý trong bài [đã đặt xe nhưng cửa hàng chưa trả lời](/thue-xe/2026/10/11/da-dat-xe-may-thue-nhung-cua-hang-chua-tra-loi-cho-bao-lau-va-lam-gi/). Trước giờ nhận một buổi, nhắn lại một dòng ngắn để tiệm chuẩn bị xe.
 
 Một tin nhắn đủ ngày giờ, loại xe, điểm nhận và giấy tờ là cách nhanh nhất để đặt được xe đúng ý mà không phải hỏi qua lại. Các bước khác của quá trình thuê có ở mục [thủ tục thuê xe](/thue-xe/thu-tuc/), còn kinh nghiệm thuê xe máy ở Hà Nội nói chung nằm trong chuyên mục [thuê xe](/thue-xe/).

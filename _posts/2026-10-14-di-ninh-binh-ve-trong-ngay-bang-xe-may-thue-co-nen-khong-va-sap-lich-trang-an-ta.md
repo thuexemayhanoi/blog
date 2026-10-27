@@ -51,7 +51,7 @@ Phương án này hợp với người thích cảnh hang động, sông nước
 - **Đầu giờ chiều:** điểm phụ là đền vua Đinh, vua Lê ở Hoa Lư. Đi bộ nhẹ trong khuôn viên đền, mất ít thời gian, gần Tràng An nên không phải chạy thêm nhiều.
 - **Giữa chiều:** đến giờ cứng thì lên xe về, nghỉ một lần ở chặng giữa.
 
-Cách ghép Hoa Lư với Tràng An được viết riêng trong bài [cố đô Hoa Lư bằng xe máy](/cung-duong/2026/10/13/co-do-hoa-lu-bang-xe-may-den-vua-dinh-vua-le-va-cach-ghep-voi-trang-an/). Muốn biết gửi xe ở đâu quanh bến thuyền, xem bài [đi khu Tràng An bằng xe máy thuê đỗ xe ở đâu](/cung-duong/2026/10/07/i-khu-trang-an-bang-xe-may-thue-o-xe-o-au/).
+Cách ghép Hoa Lư với Tràng An được viết riêng trong bài [cố đô Hoa Lư bằng xe máy](/cung-duong/2026/10/13/co-do-hoa-lu-bang-xe-may-den-vua-dinh-vua-le-va-cach-ghep-voi-trang-an/). Muốn biết gửi xe ở đâu quanh bến thuyền, xem bài [đi khu Tràng An bằng xe máy thuê đỗ xe ở đâu](/cung-duong/2026/10/07/di-khu-trang-an-bang-xe-may-thue-do-xe-o-dau/).
 
 ## Lịch B: lấy Tam Cốc làm trục chính
 
@@ -73,7 +73,7 @@ Có những nơi rất đáng đi nhưng không hợp với lịch về trong ng
 - **Vườn quốc gia Cúc Phương:** đường vào xa hơn, hợp đi riêng hoặc ở lại.
 - **Nhà thờ đá Phát Diệm, đầm Vân Long:** nằm khác hướng với cụm Tràng An, Tam Cốc.
 
-Muốn đi trọn những nơi này, hãy tham khảo cách chia lộ trình trong bài [Hà Nội đi Ninh Bình bằng xe máy hai ngày](/cung-duong/2026/10/01/ha-noi-i-ninh-binh-bang-xe-may-hai-ngay-chia-lo-trinh/).
+Muốn đi trọn những nơi này, hãy tham khảo cách chia lộ trình trong bài [Hà Nội đi Ninh Bình bằng xe máy hai ngày](/cung-duong/2026/10/01/ha-noi-di-ninh-binh-bang-xe-may-hai-ngay-chia-lo-trinh/).
 
 ## Mốc giờ quay về và phương án dự phòng
 

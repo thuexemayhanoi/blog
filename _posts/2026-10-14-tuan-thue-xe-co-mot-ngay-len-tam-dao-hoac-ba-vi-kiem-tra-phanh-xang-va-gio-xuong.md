@@ -55,7 +55,7 @@ Sau mấy ngày chạy phố, bình xăng thường chỉ còn một nửa. Ngà
 - **Đi Tam Đảo:** từ Long Biên thường theo hướng Đông Anh, qua cầu Nhật Tân hoặc đi phía Nội Bài, nhập quốc lộ 2 lên Vĩnh Yên. Đổ lại xăng ở khu vực Vĩnh Yên hoặc chân đèo.
 - **Đi Ba Vì:** từ nội thành chạy đường gom Đại lộ Thăng Long hoặc hướng Sơn Tây. Xe máy không được vào cao tốc và làn chính dành cho ô tô, nên đi đúng đường gom. Đổ đầy ở Sơn Tây hoặc quanh Tản Lĩnh trước khi vào cổng vườn quốc gia.
 
-Leo dốc ăn xăng hơn chạy phố rõ rệt, nhất là khi chở hai người. Cứ coi nửa bình như sắp cạn để đổ sớm. Bạn có thể tham khảo bài [kế hoạch xăng và lốp cho tuần thuê xe máy đi nhiều](/thue-xe/2026/10/07/ke-hoach-xang-va-lop-cho-tuan-thue-xe-may-i-nhieu/) để tính cả những ngày còn lại.
+Leo dốc ăn xăng hơn chạy phố rõ rệt, nhất là khi chở hai người. Cứ coi nửa bình như sắp cạn để đổ sớm. Bạn có thể tham khảo bài [kế hoạch xăng và lốp cho tuần thuê xe máy đi nhiều](/thue-xe/2026/10/07/ke-hoach-xang-va-lop-cho-tuan-thue-xe-may-di-nhieu/) để tính cả những ngày còn lại.
 
 ## Canh giờ xuống núi để về trước khi trời tối
 

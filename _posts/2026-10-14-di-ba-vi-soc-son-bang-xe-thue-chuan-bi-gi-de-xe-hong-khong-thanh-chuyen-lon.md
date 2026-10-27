@@ -41,7 +41,7 @@ Lúc nhận xe hoặc tối hôm trước chuyến đi, dành mười lăm phút
 
 ### Hỏi cửa hàng trước khi đi
 
-Hãy nói thẳng với cửa hàng là bạn định đi Ba Vì hoặc Sóc Sơn trong ngày. Hỏi xem xe đang nhận có hợp chạy đường đèo không, nếu xe có điểm nào cần lưu ý thì sẽ được dặn trước. Cửa hàng làm việc trong khung giờ 09:00–21:00, vì vậy hãy tính lịch trình để nếu có chuyện thì bạn vẫn liên lạc được trong giờ này. Danh sách kiểm tra đầy đủ hơn có trong bài [những gì nên kiểm tra khi nhận xe](/xe-may/2026/10/01/en-phanh-xe-thue-yeu-kiem-tra-truoc-khi-nhan-xe/).
+Hãy nói thẳng với cửa hàng là bạn định đi Ba Vì hoặc Sóc Sơn trong ngày. Hỏi xem xe đang nhận có hợp chạy đường đèo không, nếu xe có điểm nào cần lưu ý thì sẽ được dặn trước. Cửa hàng làm việc trong khung giờ 09:00–21:00, vì vậy hãy tính lịch trình để nếu có chuyện thì bạn vẫn liên lạc được trong giờ này. Danh sách kiểm tra đầy đủ hơn có trong bài [những gì nên kiểm tra khi nhận xe](/xe-may/2026/10/01/den-phanh-xe-thue-yeu-kiem-tra-truoc-khi-nhan-xe/).
 
 ## Mang theo gì để không bị động
 
@@ -53,7 +53,7 @@ Không cần mang đồ nghề như thợ. Mục tiêu chỉ là đủ để gi�
 - **Nước uống, áo mưa, áo khoác mỏng.** Trên núi Ba Vì trời trở lạnh và sương xuống nhanh hơn trong phố.
 - **Một ít tiền mặt**, vì tiệm sửa nhỏ ở vùng ven chưa chắc nhận chuyển khoản lúc bạn cần.
 
-Trước khi đi, mở bản đồ xem trước tuyến đường, ghi lại vài mốc dễ nhận như ngã ba, cây xăng, cổng vườn quốc gia, đền Sóc. Khi gặp sự cố, mô tả vị trí theo mốc nhanh hơn nhiều so với "đang ở đâu đó trên đường núi". Gợi ý tuyến và điểm dừng có trong bài [đi Ba Vì cuối tuần bằng xe máy](/cung-duong/2026/09/28/ha-noi-i-ba-vi-cuoi-tuan-bang-xe-may/).
+Trước khi đi, mở bản đồ xem trước tuyến đường, ghi lại vài mốc dễ nhận như ngã ba, cây xăng, cổng vườn quốc gia, đền Sóc. Khi gặp sự cố, mô tả vị trí theo mốc nhanh hơn nhiều so với "đang ở đâu đó trên đường núi". Gợi ý tuyến và điểm dừng có trong bài [đi Ba Vì cuối tuần bằng xe máy](/cung-duong/2026/09/28/ha-noi-di-ba-vi-cuoi-tuan-bang-xe-may/).
 
 ## Xe hỏng ở Ba Vì hoặc đường vắng Sóc Sơn: dừng ở đâu cho an toàn
 
@@ -70,7 +70,7 @@ Trên đường xe hỏng ở Ba Vì, đoạn đổ dốc là chỗ cần cẩn 
 
 Sau khi dừng an toàn, hãy quan sát trước rồi mới quyết định. Một vài tình huống thường gặp:
 
-- **Lốp xịt hoặc thủng:** đừng chạy tiếp trên lốp xẹp, nhất là đường dốc. Hỏi người dân gần nhất về tiệm vá lốp, rồi dắt xe tới. Bài [đang đi xe thuê bị xịt lốp](/xe-may/2026/09/29/ang-i-xe-thue-bi-xit-lop-lam-gi-ngay/) có thêm chi tiết.
+- **Lốp xịt hoặc thủng:** đừng chạy tiếp trên lốp xẹp, nhất là đường dốc. Hỏi người dân gần nhất về tiệm vá lốp, rồi dắt xe tới. Bài [đang đi xe thuê bị xịt lốp](/xe-may/2026/09/29/dang-di-xe-thue-bi-xit-lop-lam-gi-ngay/) có thêm chi tiết.
 - **Máy tắt và không nổ lại:** kiểm tra khóa điện, công tắc tắt máy, mức xăng. Không đề liên tục quá nhiều lần vì dễ làm yếu ắc quy.
 - **Phanh yếu, tay phanh bóp sâu:** không chạy tiếp, dù chỉ một đoạn ngắn xuống dốc.
 - **Mùi khét, khói, rò xăng:** tắt máy, đứng xa xe, tránh lửa và báo cửa hàng ngay.

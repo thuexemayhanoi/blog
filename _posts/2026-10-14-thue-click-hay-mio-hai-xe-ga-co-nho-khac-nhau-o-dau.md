@@ -48,7 +48,7 @@ Mio thường có mặt yên phẳng, liền một khối, ngồi êm ở tốc 
 
 Đây là điểm khách hỏi nhiều nhất và cũng dễ hiểu lầm nhất. Cả hai xe ga cỡ nhỏ đều có cốp dưới yên đủ để một mũ bảo hiểm nửa đầu hoặc áo mưa, ví, sạc điện thoại. Mũ cả đầu thì tùy đời xe, có chiếc vừa, có chiếc không đóng được yên.
 
-Khác biệt thật nằm ở sàn để chân. Click thường có sàn phẳng gọn, đặt được một túi đồ nhỏ giữa hai chân. Mio có sàn rộng vừa phải và thường có móc treo đồ ở yếm trước, tiện cho túi đồ ăn sáng hay túi rau từ chợ Long Biên. Nếu bạn định đi siêu thị hay chợ thường xuyên, bài [cốp Honda Click cho chuyến siêu thị](/xe-may/2026/10/03/honda-click-cop-o-cho-chuyen-sieu-thi/) có cách xếp đồ thực tế. Muốn hiểu chung về cốp xe ga, xem thêm [khoảng để đồ dưới yên xe ga chở được gì](/xe-may/2026/09/27/khoang-e-o-duoi-yen-xe-ga-cho-uoc-gi/).
+Khác biệt thật nằm ở sàn để chân. Click thường có sàn phẳng gọn, đặt được một túi đồ nhỏ giữa hai chân. Mio có sàn rộng vừa phải và thường có móc treo đồ ở yếm trước, tiện cho túi đồ ăn sáng hay túi rau từ chợ Long Biên. Nếu bạn định đi siêu thị hay chợ thường xuyên, bài [cốp Honda Click cho chuyến siêu thị](/xe-may/2026/10/03/honda-click-cop-do-cho-chuyen-sieu-thi/) có cách xếp đồ thực tế. Muốn hiểu chung về cốp xe ga, xem thêm [khoảng để đồ dưới yên xe ga chở được gì](/xe-may/2026/09/27/khoang-de-do-duoi-yen-xe-ga-cho-duoc-gi/).
 
 ## Cảm giác lái: lanh lợi hay êm đều
 

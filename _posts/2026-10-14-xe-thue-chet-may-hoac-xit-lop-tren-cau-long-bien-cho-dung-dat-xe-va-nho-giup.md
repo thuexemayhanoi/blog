@@ -48,13 +48,13 @@ Với chết máy, hãy cho mình đúng một lượt thử nhanh khi xe đã n
 - Kiểm tra chìa khóa còn ở vị trí bật, nếu tay lái có công tắc tắt máy thì xem nó có bị gạt nhầm không.
 - Với xe ga, bóp phanh rồi đề lại. Với xe số, về số không trước khi đề hoặc đạp.
 
-Nếu thử một hai lần mà máy không nổ, dừng lại. Đừng ngồi đề liên tục giữa làn hẹp, vừa hao ắc quy vừa khiến bạn bất động quá lâu ở chỗ nguy hiểm. Lúc này cách an toàn nhất là dắt xe đi tiếp. Những bước chẩn đoán kỹ hơn có trong bài [xe thuê chết máy giữa đường, tự xử hay gọi chủ xe](/xe-may/2026/09/30/xe-thue-chet-may-giua-uong-tu-xu-hay-goi-chu-xe/), nhưng nên làm khi đã ra khỏi cầu.
+Nếu thử một hai lần mà máy không nổ, dừng lại. Đừng ngồi đề liên tục giữa làn hẹp, vừa hao ắc quy vừa khiến bạn bất động quá lâu ở chỗ nguy hiểm. Lúc này cách an toàn nhất là dắt xe đi tiếp. Những bước chẩn đoán kỹ hơn có trong bài [xe thuê chết máy giữa đường, tự xử hay gọi chủ xe](/xe-may/2026/09/30/xe-thue-chet-may-giua-duong-tu-xu-hay-goi-chu-xe/), nhưng nên làm khi đã ra khỏi cầu.
 
 ## Xịt lốp trên cầu Long Biên: đừng cố chạy, cũng đừng sửa tại chỗ
 
 Khi xịt lốp trên cầu Long Biên, nhiều người muốn chạy cố cho nhanh qua cầu. Đi chậm sát mép vài mét để tìm chỗ dừng là được, nhưng chạy tiếp cả đoạn dài trên lốp bẹp làm xe lắc khó giữ, dễ hỏng vành và ruột.
 
-Cũng đừng tháo bánh hay tự vá ngay trên cầu. Không có chỗ để làm, và bạn sẽ phải ngồi xổm sát làn xe chạy. Hãy xuống xe, tắt máy và dắt. Nếu lốp vừa xịt mà bạn chưa quen cách giữ xe khi đang chạy, đọc thêm bài [đang đi xe thuê bị xịt lốp: làm gì ngay](/xe-may/2026/09/29/ang-i-xe-thue-bi-xit-lop-lam-gi-ngay/).
+Cũng đừng tháo bánh hay tự vá ngay trên cầu. Không có chỗ để làm, và bạn sẽ phải ngồi xổm sát làn xe chạy. Hãy xuống xe, tắt máy và dắt. Nếu lốp vừa xịt mà bạn chưa quen cách giữ xe khi đang chạy, đọc thêm bài [đang đi xe thuê bị xịt lốp: làm gì ngay](/xe-may/2026/09/29/dang-di-xe-thue-bi-xit-lop-lam-gi-ngay/).
 
 ## Dắt xe ra chân cầu cho đúng cách
 
@@ -79,6 +79,6 @@ Phần lớn sự cố trên cầu có thể tránh hoặc nhẹ đi nhờ vài 
 
 - Đổ xăng trước khi đi chơi, đừng chờ kim chạm vạch đỏ.
 - Bóp thử hai lốp trước khi lên cầu. Lốp mềm thì bơm hơi trước.
-- Muốn chụp ảnh thì gửi xe ở chân cầu rồi đi bộ lên, thay vì dừng xe giữa làn. Gợi ý gửi xe và lối lên có trong bài [đến cầu Long Biên bằng xe máy](/du-lich/2026/09/28/en-cau-long-bien-bang-xe-may-gui-xe-va-uong-i/).
+- Muốn chụp ảnh thì gửi xe ở chân cầu rồi đi bộ lên, thay vì dừng xe giữa làn. Gợi ý gửi xe và lối lên có trong bài [đến cầu Long Biên bằng xe máy](/du-lich/2026/09/28/den-cau-long-bien-bang-xe-may-gui-xe-va-duong-di/).
 
 Tóm lại: giữ xe thẳng và giảm tốc từ từ, dừng sát mép, xuống xe về phía mép ngoài, không bước sang đường ray, dắt xe cùng chiều ra chân cầu rồi mới gọi cửa hàng. Các tình huống hỏng hóc khác được gom ở mục [xử lý sự cố xe](/xe-may/xu-ly-su-co-xe/), còn kiến thức chung về xe nằm trong chuyên mục [xe máy](/xe-may/).

@@ -46,7 +46,7 @@ Xe điện mui trần chạy theo tuyến cố định quanh hồ và qua một 
 
 ### Thuê xe máy: linh hoạt nhưng cần biết chỗ dừng
 
-Xe máy giúp bạn nối phố cổ với những điểm xa hơn như Văn Miếu, Hoàng thành Thăng Long hay hồ Tây trong cùng một buổi. Bên trong lõi phố cổ, xe máy lại là phương tiện kém thoải mái nhất: phải dò hướng đường một chiều, chen giữa người đi bộ, tìm chỗ gửi. Nếu muốn một chiếc nhỏ gọn, đi chậm êm cho đoạn phố hẹp, xe đạp điện là phương án nên cân nhắc, xem thêm bài [thuê xe đạp điện đi quanh phố cổ và hồ Gươm](/xe-may/2026/09/27/thue-xe-ap-ien-i-quanh-pho-co-va-ho-guom/).
+Xe máy giúp bạn nối phố cổ với những điểm xa hơn như Văn Miếu, Hoàng thành Thăng Long hay hồ Tây trong cùng một buổi. Bên trong lõi phố cổ, xe máy lại là phương tiện kém thoải mái nhất: phải dò hướng đường một chiều, chen giữa người đi bộ, tìm chỗ gửi. Nếu muốn một chiếc nhỏ gọn, đi chậm êm cho đoạn phố hẹp, xe đạp điện là phương án nên cân nhắc, xem thêm bài [thuê xe đạp điện đi quanh phố cổ và hồ Gươm](/xe-may/2026/09/27/thue-xe-dap-dien-di-quanh-pho-co-va-ho-guom/).
 
 ## Đi phố cổ Hà Nội bằng xe máy hay đi bộ: so theo tình huống
 
