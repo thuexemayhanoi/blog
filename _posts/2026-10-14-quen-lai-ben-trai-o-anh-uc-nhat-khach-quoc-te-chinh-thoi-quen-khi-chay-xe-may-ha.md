@@ -27,13 +27,13 @@ Vì vậy ba thời điểm nguy hiểm nhất không nằm ở giữa dòng xe,
 - **Ngay sau một cú rẽ.** Phố mới trống, tay lái dễ đưa xe vào làn quen thuộc ở quê nhà.
 - **Cuối ngày.** Mệt, đói, trời tối, đầu óc thôi canh chừng.
 
-Những phản xạ nhìn đường, rẽ và vào vòng xuyến được phân tích chi tiết trong bài [quen đi bên trái đường, những phản xạ cần đổi](/ky-nang/2026/10/11/quen-i-ben-trai-uong-lan-au-i-xe-may-o-ha-noi-nhung-phan-xa-can-oi/). Phần dưới đây tập trung vào cách đưa các phản xạ đó vào lịch trình thuê xe thực tế.
+Những phản xạ nhìn đường, rẽ và vào vòng xuyến được phân tích chi tiết trong bài [quen đi bên trái đường, những phản xạ cần đổi](/ky-nang/2026/10/11/quen-di-ben-trai-duong-lan-dau-di-xe-may-o-ha-noi-nhung-phan-xa-can-doi/). Phần dưới đây tập trung vào cách đưa các phản xạ đó vào lịch trình thuê xe thực tế.
 
 ## Trước khi nhận xe: tập trong đầu và hỏi đúng câu
 
 Bạn có thể bắt đầu từ tối hôm trước. Mở Google Maps ở chế độ nhìn đường phố, đi "ảo" một vòng quanh khu sẽ nhận xe và tự nói thành lời: nhìn trái trước, rẽ trái đi rộng qua giữa ngã tư, rẽ phải bám lề. Nghe có vẻ trẻ con, nhưng tập trong đầu giúp phản xạ mới có sẵn một lối mòn.
 
-Khi nhận xe, đừng chỉ ký giấy rồi đi. Nhờ người bàn giao chỉ cho bạn nút xi nhan, còi, công tắc đèn, và đi thử một vòng ngắn trong ngõ hay sân trước. Những câu nên hỏi lúc bàn giao có trong bài [bàn giao xe máy cho khách quốc tế](/thue-xe/2026/10/11/ban-giao-xe-may-cho-khach-quoc-te-nhung-iem-can-dan-ky/). Nếu tiệm có thể chỉ một vòng tập gần đó, hãy hỏi; tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, nên nhận xe vào buổi sáng sau giờ cao điểm sẽ dễ tập hơn chiều tối.
+Khi nhận xe, đừng chỉ ký giấy rồi đi. Nhờ người bàn giao chỉ cho bạn nút xi nhan, còi, công tắc đèn, và đi thử một vòng ngắn trong ngõ hay sân trước. Những câu nên hỏi lúc bàn giao có trong bài [bàn giao xe máy cho khách quốc tế](/thue-xe/2026/10/11/ban-giao-xe-may-cho-khach-quoc-te-nhung-diem-can-dan-ky/). Nếu tiệm có thể chỉ một vòng tập gần đó, hãy hỏi; tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, nên nhận xe vào buổi sáng sau giờ cao điểm sẽ dễ tập hơn chiều tối.
 
 Một mẹo nhỏ: đặt màn hình khóa điện thoại là một dòng chữ "Đi bên phải, nhìn trái trước". Mỗi lần mở điện thoại xem bản đồ, bạn lại được nhắc một lần.
 
@@ -43,7 +43,7 @@ Ngày đầu tiên chỉ nên có một mục tiêu là để tay chân quen v�
 
 Ở phía Long Biên, các trục rộng như Nguyễn Văn Cừ hay Nguyễn Văn Linh có dải phân cách rõ ràng, thích hợp để chạy vài vòng ngoài giờ cao điểm. Hạn chế đi vào phố cổ Hoàn Kiếm ngay hôm đầu: phố hẹp, nhiều phố một chiều, xe máy và người đi bộ đan xen, đúng kiểu tình huống khiến phản xạ cũ quay lại.
 
-Khi tập rẽ, chọn những ngã tư có đèn tín hiệu và đi chậm. Ở Việt Nam, đừng mặc định được rẽ phải khi đèn đỏ như thói quen ở một số nơi; chỉ đi khi có biển hoặc đèn cho phép. Nếu chưa chắc về biển báo, xem bài [khách quốc tế đọc biển báo và luật giao thông cơ bản](/thue-xe/2026/09/27/khach-quoc-te-oc-bien-bao-va-luat-giao-thong-co-ban/).
+Khi tập rẽ, chọn những ngã tư có đèn tín hiệu và đi chậm. Ở Việt Nam, đừng mặc định được rẽ phải khi đèn đỏ như thói quen ở một số nơi; chỉ đi khi có biển hoặc đèn cho phép. Nếu chưa chắc về biển báo, xem bài [khách quốc tế đọc biển báo và luật giao thông cơ bản](/thue-xe/2026/09/27/khach-quoc-te-doc-bien-bao-va-luat-giao-thong-co-ban/).
 
 ## Quay đầu và vòng xuyến: hai chỗ cần làm chậm có chủ đích
 

@@ -73,7 +73,7 @@ Nếu mùi xuất hiện sau đoạn dốc hay quãng kẹt xe, xe vẫn chạy 
 4. Nhìn quanh xe bằng mắt, không chạm tay: dưới gầm có giọt dầu không, quanh bánh có vết lạ không.
 5. Khi chạy lại, đi chậm, tránh vặn ga mạnh và bóp phanh liên tục.
 
-Nếu chạy lại mà mùi quay về nhanh, coi như mùi đó không còn là "nóng tạm thời" nữa. Bài [đang đi xe thuê có mùi khét: dừng xe và kiểm tra đâu](/xe-may/2026/10/01/ang-i-xe-thue-co-mui-khet-dung-xe-va-kiem-tra-au/) có thêm các điểm quan sát chung cho mọi loại xe. Nếu mùi khét đi cùng cảm giác máy nóng hầm khi kẹt xe buổi trưa, xem thêm cách [để máy nguội an toàn khi kẹt xe giữa trưa hè](/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-e-may-nguoi-an-toan/).
+Nếu chạy lại mà mùi quay về nhanh, coi như mùi đó không còn là "nóng tạm thời" nữa. Bài [đang đi xe thuê có mùi khét: dừng xe và kiểm tra đâu](/xe-may/2026/10/01/dang-di-xe-thue-co-mui-khet-dung-xe-va-kiem-tra-dau/) có thêm các điểm quan sát chung cho mọi loại xe. Nếu mùi khét đi cùng cảm giác máy nóng hầm khi kẹt xe buổi trưa, xem thêm cách [để máy nguội an toàn khi kẹt xe giữa trưa hè](/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-de-may-nguoi-an-toan/).
 
 ## Phòng mùi khét trên những cung đường dễ gặp ở Hà Nội
 

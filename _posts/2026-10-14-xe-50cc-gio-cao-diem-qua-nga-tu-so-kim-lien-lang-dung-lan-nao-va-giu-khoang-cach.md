@@ -25,7 +25,7 @@ Vào giờ đi làm buổi sáng và giờ tan tầm chiều muộn, tốc độ
 - **Khoảng trống bị lấp ngay.** Bạn chừa một quãng an toàn, lập tức có xe khác chen vào. Nhiều người vì thế bỏ luôn thói quen giữ khoảng cách, và đó là lúc va quẹt xảy ra.
 - **Xe lớn chuyển làn bất ngờ.** Xe buýt tấp vào điểm dừng, ô tô đổi làn để rẽ, xe máy phía sau vượt sát hông.
 
-Vì vậy với xe 50cc, mục tiêu không phải là đi nhanh hơn dòng xe, mà là đi đều, dễ đoán và luôn có đường thoát. Nếu bạn còn lúng túng ở nhịp vặn ga khi đèn xanh bật, hãy đọc trước bài [xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-ong-cach-xuat-phat-khi-en-xanh-bat/); bài này tập trung vào cả quãng đường đông chứ không chỉ khoảnh khắc ở vạch dừng.
+Vì vậy với xe 50cc, mục tiêu không phải là đi nhanh hơn dòng xe, mà là đi đều, dễ đoán và luôn có đường thoát. Nếu bạn còn lúng túng ở nhịp vặn ga khi đèn xanh bật, hãy đọc trước bài [xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-dong-cach-xuat-phat-khi-den-xanh-bat/); bài này tập trung vào cả quãng đường đông chứ không chỉ khoảnh khắc ở vạch dừng.
 
 ## Đứng làn nào: chọn theo hướng đi chứ không theo chỗ trống
 
@@ -35,7 +35,7 @@ Nguyên tắc chung trên các trục lớn của Hà Nội là xe máy đi làn
 - **Rẽ phải:** dịch sát lề từ sớm, chú ý người đi bộ và xe đạp ở góc phố.
 - **Rẽ trái:** đây là đoạn khó nhất cho xe nhỏ. Bật xi nhan và dịch dần sang trái từ xa, khoảng một đến hai dãy nhà trước nút, khi dòng xe còn chậm. Đừng đợi tới sát vạch dừng mới cắt chéo qua mấy làn xe.
 
-Ở những nút có cầu vượt, hầm chui hoặc đường trên cao, phần lớn các công trình này có biển quy định loại xe được đi. Người đi xe 50cc nên đi mặt đường cho chắc chắn, chỉ lên cầu khi biển báo cho phép xe máy. Nếu chưa quen cách đọc vạch và làn trong phố, bài [thuê xe 50cc đi phố Hà Nội: nhẹ, chậm và đúng làn](/xe-may/2026/10/11/thue-xe-50cc-i-pho-ha-noi-nhe-cham-va-ung-lan/) có phần giải thích cơ bản.
+Ở những nút có cầu vượt, hầm chui hoặc đường trên cao, phần lớn các công trình này có biển quy định loại xe được đi. Người đi xe 50cc nên đi mặt đường cho chắc chắn, chỉ lên cầu khi biển báo cho phép xe máy. Nếu chưa quen cách đọc vạch và làn trong phố, bài [thuê xe 50cc đi phố Hà Nội: nhẹ, chậm và đúng làn](/xe-may/2026/10/11/thue-xe-50cc-di-pho-ha-noi-nhe-cham-va-dung-lan/) có phần giải thích cơ bản.
 
 ## Giữ khoảng cách khi dòng xe dừng rồi đi liên tục
 

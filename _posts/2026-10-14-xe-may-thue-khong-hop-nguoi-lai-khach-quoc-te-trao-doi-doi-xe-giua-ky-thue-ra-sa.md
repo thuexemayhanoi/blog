@@ -53,7 +53,7 @@ Mỗi tiệm có cách xử lý riêng, và việc đổi được hay không c�
 - **Hợp đồng và giấy tờ.** Biển số mới cần được ghi lại, những gì bạn đã giao lúc đầu vẫn giữ như cũ hay có thay đổi, hãy hỏi rõ trực tiếp và xin biên nhận.
 - **Mốc trả xe.** Đổi xe không có nghĩa kỳ thuê bắt đầu lại, nhưng nên xác nhận để tránh hiểu nhầm.
 
-Với khách thuê dài theo tháng, câu chuyện đổi xe gắn với hợp đồng nhiều hơn, xem thêm bài [thuê xe máy ba tháng có được đổi xe giữa kỳ không](/thue-xe/2026/10/05/thue-xe-may-ba-thang-co-uoc-oi-xe-giua-ky-khong/).
+Với khách thuê dài theo tháng, câu chuyện đổi xe gắn với hợp đồng nhiều hơn, xem thêm bài [thuê xe máy ba tháng có được đổi xe giữa kỳ không](/thue-xe/2026/10/05/thue-xe-may-ba-thang-co-duoc-doi-xe-giua-ky-khong/).
 
 ## Sắp xếp đổi xe theo lịch trình chuyến đi
 
@@ -65,7 +65,7 @@ Khách quốc tế thường có lịch chặt: hôm nay phố cổ, mai đi Nin
 
 **Đang ở ngoài Hà Nội thì sao.** Nếu đã đi xa mới thấy xe không hợp, đừng cố chạy nhanh cho kịp về. Hạ tốc độ, nghỉ nhiều hơn, chọn quãng đường bằng phẳng, và nhắn tiệm từ chỗ còn sóng điện thoại để hẹn ngày đổi khi quay lại.
 
-**Còn một hai ngày là bay.** Lúc đó đổi xe có khi tốn thời gian hơn lợi ích. Bạn có thể hỏi tiệm về việc trả sớm và đi lại bằng phương tiện khác trong ngày cuối, xem bài [trả xe thuê sớm hơn dự kiến cần hỏi trước điều gì](/thue-xe/2026/09/27/tra-xe-thue-som-hon-du-kien-hoi-truoc-ieu-gi/).
+**Còn một hai ngày là bay.** Lúc đó đổi xe có khi tốn thời gian hơn lợi ích. Bạn có thể hỏi tiệm về việc trả sớm và đi lại bằng phương tiện khác trong ngày cuối, xem bài [trả xe thuê sớm hơn dự kiến cần hỏi trước điều gì](/thue-xe/2026/09/27/tra-xe-thue-som-hon-du-kien-hoi-truoc-dieu-gi/).
 
 ## Nhận xe mới: kiểm tra lại như ngày đầu
 

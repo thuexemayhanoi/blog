@@ -23,7 +23,7 @@ Trên phần lớn xe tay ga phổ thông như Honda Vision, Air Blade hay Click
 
 Khác với xe số, ống xả xe ga không chạy dọc sát chỗ để chân người lái mà nằm lùi về sau, gần đúng vị trí bắp chân người ngồi sau. Vì vậy người ngồi sau và người đi ngang đuôi xe dễ chạm vào hơn người lái. Ống xả cũng không nguội ngay khi tắt máy.
 
-Khi nhận xe, hãy nhờ nhân viên chỉ rõ ống xả nằm bên nào, tấm chắn nhiệt có lỏng hay móp không. Nếu bạn đã quen xe số, bài [bỏng ống xả khi đi xe số](/xe-may/2026/10/11/bong-ong-xa-khi-i-xe-so-cach-len-xuong-xe-va-trang-phuc-e-tranh/) giải thích khác biệt về vị trí và trang phục.
+Khi nhận xe, hãy nhờ nhân viên chỉ rõ ống xả nằm bên nào, tấm chắn nhiệt có lỏng hay móp không. Nếu bạn đã quen xe số, bài [bỏng ống xả khi đi xe số](/xe-may/2026/10/11/bong-ong-xa-khi-di-xe-so-cach-len-xuong-xe-va-trang-phuc-de-tranh/) giải thích khác biệt về vị trí và trang phục.
 
 ## Tránh bỏng ống xả xe ga khi lên xuống xe phía vỉa hè
 
@@ -47,7 +47,7 @@ Cách dắt an toàn hơn:
 3. Khi lách qua giữa hai xe, nhớ rằng ống xả của xe bên cạnh có thể còn nóng. Đi nghiêng người, nhìn xuống phía bên phải các xe.
 4. Ở bãi gửi xe chật, nhờ người trông xe kéo xe ra thay vì len chân vào khe giữa các đuôi xe.
 
-Nếu xe nặng tay hoặc bạn nhỏ người, bài [chỉnh gương, ngồi thử và dắt xe cho vừa tầm vóc](/thue-xe/2026/10/12/chinh-guong-ngoi-thu-va-dat-xe-lam-xe-thue-vua-tam-voc-truoc-khi-i/) có thêm mẹo giữ xe khi dắt.
+Nếu xe nặng tay hoặc bạn nhỏ người, bài [chỉnh gương, ngồi thử và dắt xe cho vừa tầm vóc](/thue-xe/2026/10/12/chinh-guong-ngoi-thu-va-dat-xe-lam-xe-thue-vua-tam-voc-truoc-khi-di/) có thêm mẹo giữ xe khi dắt.
 
 ## Dừng đèn đỏ và lúc xe đứng yên
 

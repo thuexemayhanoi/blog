@@ -44,7 +44,7 @@ Phản xạ chậm đi một nhịp không đáng ngại khi đường thoáng; 
 - **Buổi sáng sau giờ đi học, đi làm.** Khi học sinh đã vào lớp và dòng xe công sở thưa dần, các phố như Nguyễn Văn Cừ, Ngọc Lâm bên Long Biên hay Kim Mã, Đội Cấn bên Ba Đình dễ đi hơn hẳn.
 - **Đầu giờ chiều.** Đây thường là khoảng vắng nhất trong ngày, hợp để đi khám, đi ngân hàng hay đi thăm họ hàng.
 - **Tránh giờ tan tầm chiều.** Dòng xe dày, nhiều người vội, xe buýt dừng đỗ liên tục; xe 50cc đi giữa dòng này rất mệt.
-- **Hạn chế đi tối.** Đèn xe nhỏ, mắt người lớn tuổi lại kém thích nghi với đèn pha ngược chiều. Nếu buộc phải đi, xem thêm cách để xe sau nhìn thấy mình trong bài [đi xe 50cc buổi tối](/xe-may/2026/10/11/i-xe-50cc-buoi-toi-en-nho-toc-o-thap-va-cach-e-xe-sau-thay-minh/).
+- **Hạn chế đi tối.** Đèn xe nhỏ, mắt người lớn tuổi lại kém thích nghi với đèn pha ngược chiều. Nếu buộc phải đi, xem thêm cách để xe sau nhìn thấy mình trong bài [đi xe 50cc buổi tối](/xe-may/2026/10/11/di-xe-50cc-buoi-toi-den-nho-toc-do-thap-va-cach-de-xe-sau-thay-minh/).
 
 Những hôm mưa lớn hay sáng sương mù đầu đông cũng nên để xe ở nhà, vì đường trơn và tầm nhìn kém là hai bất lợi mà tốc độ chậm không gỡ được.
 
@@ -58,7 +58,7 @@ Với người lớn tuổi, tuyến tốt là tuyến **ít quyết định g�
 
 4. **Biết trước chỗ dừng nghỉ.** Một quán nước quen hay sân nhà văn hóa phường giữa đường giúp người đi không phải cố chạy liền một mạch.
 
-Những đặc điểm chung khi xe 50cc đi phố, như đi làn nào và giữ tốc độ ra sao, có ở bài [thuê xe 50cc đi phố Hà Nội](/xe-may/2026/10/11/thue-xe-50cc-i-pho-ha-noi-nhe-cham-va-ung-lan/); bài này chỉ nhấn vào phần áp dụng cho người có tuổi.
+Những đặc điểm chung khi xe 50cc đi phố, như đi làn nào và giữ tốc độ ra sao, có ở bài [thuê xe 50cc đi phố Hà Nội](/xe-may/2026/10/11/thue-xe-50cc-di-pho-ha-noi-nhe-cham-va-dung-lan/); bài này chỉ nhấn vào phần áp dụng cho người có tuổi.
 
 ## Giữ an toàn khi phản xạ chậm hơn: thói quen nhỏ, hiệu quả lớn
 

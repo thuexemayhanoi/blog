@@ -36,7 +36,7 @@ Biển báo ở Việt Nam có hình dạng và màu sắc khá giống nhiều 
 - **Biển cấm đi ngược chiều:** hình tròn, nền đỏ, một vạch trắng nằm ngang ở giữa. Biển đặt ở đầu phố mà bạn không được đi vào: đó là cửa ra của phố, không phải cửa vào.
 - **Biển đường một chiều:** hình vuông hoặc chữ nhật nền xanh, có mũi tên trắng. Mũi tên chỉ hướng được phép đi.
 
-Chi tiết người mới hay bỏ qua: nếu chỉ thấy mặt sau của một biển tròn, biển đó dành cho người đi từ hướng ngược lại. Khi mặt đỏ có vạch trắng quay về phía mình, dừng lại và tìm đường khác. Dưới biển chính đôi khi có biển phụ ghi khung giờ hoặc loại xe bằng tiếng Việt; nếu không chắc, cứ coi như biển áp dụng cho bạn. Phần giải thích các nhóm biển cơ bản khác có trong bài [khách quốc tế đọc biển báo và luật giao thông cơ bản](/thue-xe/2026/09/27/khach-quoc-te-oc-bien-bao-va-luat-giao-thong-co-ban/).
+Chi tiết người mới hay bỏ qua: nếu chỉ thấy mặt sau của một biển tròn, biển đó dành cho người đi từ hướng ngược lại. Khi mặt đỏ có vạch trắng quay về phía mình, dừng lại và tìm đường khác. Dưới biển chính đôi khi có biển phụ ghi khung giờ hoặc loại xe bằng tiếng Việt; nếu không chắc, cứ coi như biển áp dụng cho bạn. Phần giải thích các nhóm biển cơ bản khác có trong bài [khách quốc tế đọc biển báo và luật giao thông cơ bản](/thue-xe/2026/09/27/khach-quoc-te-doc-bien-bao-va-luat-giao-thong-co-ban/).
 
 ## Đọc hướng trên bản đồ trước khi vào phố
 
@@ -50,7 +50,7 @@ Khi phóng to tới mức xem từng con phố, một số ứng dụng hiển t
 
 ### Chia lộ trình thành hai phần
 
-Cách an toàn cho người mới là chạy theo các trục bao quanh phố cổ như Trần Quang Khải, Phùng Hưng, Hàng Đậu hay Đinh Tiên Hoàng, gửi xe ở rìa rồi đi bộ phần còn lại. Bài [có nên chạy xe máy vào khu phố cổ hay gửi ngoài rồi đi bộ](/thue-xe/2026/10/11/co-nen-chay-xe-may-vao-khu-pho-co-ha-noi-hay-gui-ngoai-roi-i-bo/) so sánh kỹ hai cách này.
+Cách an toàn cho người mới là chạy theo các trục bao quanh phố cổ như Trần Quang Khải, Phùng Hưng, Hàng Đậu hay Đinh Tiên Hoàng, gửi xe ở rìa rồi đi bộ phần còn lại. Bài [có nên chạy xe máy vào khu phố cổ hay gửi ngoài rồi đi bộ](/thue-xe/2026/10/11/co-nen-chay-xe-may-vao-khu-pho-co-ha-noi-hay-gui-ngoai-roi-di-bo/) so sánh kỹ hai cách này.
 
 ## Đọc dòng xe khi biển bị che
 
@@ -68,7 +68,7 @@ Ai cũng có thể nhầm một lần, miễn là không biến lỗi nhỏ thà
 
 1. **Giảm tốc và tấp sát lề phải ngay.** Đừng tăng ga cho nhanh hết phố.
 2. **Tắt máy và xuống dắt bộ.** Dắt xe chiếm ít chỗ và dễ nhường đường hơn.
-3. **Quay về đầu phố hoặc tới ngã rẽ gần nhất.** Kỹ thuật xoay xe trong không gian hẹp có trong bài [quay đầu xe trong ngõ phố cổ](/ky-nang/2026/09/29/quay-au-xe-trong-ngo-pho-co-meo-cho-xe-may/).
+3. **Quay về đầu phố hoặc tới ngã rẽ gần nhất.** Kỹ thuật xoay xe trong không gian hẹp có trong bài [quay đầu xe trong ngõ phố cổ](/ky-nang/2026/09/29/quay-dau-xe-trong-ngo-pho-co-meo-cho-xe-may/).
 4. **Kiểm tra lại bản đồ ở chỗ an toàn.** Đổi sang chế độ xe máy hoặc ô tô và tìm lộ trình mới.
 
 Nếu cảnh sát giao thông yêu cầu dừng, hãy bình tĩnh, xuất trình giấy tờ và dùng ứng dụng dịch nếu cần; có thắc mắc về xe thuê thì nhắn chủ xe.

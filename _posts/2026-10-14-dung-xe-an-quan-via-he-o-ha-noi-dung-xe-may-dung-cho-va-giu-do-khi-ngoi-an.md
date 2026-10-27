@@ -25,7 +25,7 @@ Ngồi ghế nhựa thấp bên một nồi nước dùng bốc khói là trải
 - **Có người trông xe hay không.** Ở nhiều quán đông khách trong phố cổ, như dọc Tống Duy Tân, Đinh Liệt hay quanh chợ Đồng Xuân, thường có một người đứng ngoài xếp xe và phát vé. Thấy người cầm xấp vé nhỏ là dấu hiệu tốt.
 - **Vỉa hè còn lối đi không.** Nếu bàn ghế đã kín, đừng cố nhét thêm xe lên. Phần vỉa hè còn trống thường là lối đi dành cho người đi bộ.
 
-Nếu không thấy chỗ hợp lý, đi tiếp vài chục mét tìm điểm giữ xe gần đó rồi quay lại bằng chân. Bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-e-xe-o-au/) liệt kê cách chọn bãi khi định ăn nhiều điểm trong một tối.
+Nếu không thấy chỗ hợp lý, đi tiếp vài chục mét tìm điểm giữ xe gần đó rồi quay lại bằng chân. Bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-de-xe-o-dau/) liệt kê cách chọn bãi khi định ăn nhiều điểm trong một tối.
 
 ## Dựng xe máy khi ăn quán vỉa hè: đặt xe sao cho đúng
 
@@ -43,7 +43,7 @@ Khi có người trông xe, cứ dắt xe tới, nhìn họ và chỉ tay vào x
 
 Khóa cổ là thói quen tốt mỗi lần rời xe, kể cả chỉ vài phút. Với xe dùng chìa thường, vặn tay lái hết sang trái rồi xoay chìa về vị trí khóa cổ, rút chìa ra và lắc nhẹ tay lái để chắc đã ăn khóa. Với xe dùng Smartkey, tắt máy, xoay núm về vị trí khóa, rồi mang chìa điều khiển theo người, đừng để trong cốp hay móc ở xe.
 
-Trường hợp duy nhất nên cân nhắc không khóa cổ là khi người trông xe của quán yêu cầu để họ xếp xe. Khi đó, xe vẫn phải tắt máy, rút chìa, và bạn ngồi ở vị trí quan sát được. Nếu quán không có người trông và xe đậu ngoài tầm mắt, hãy luôn khóa cổ, thêm khóa đĩa nếu tiệm thuê xe có đưa kèm. Các lớp phòng vệ khác được tổng hợp trong bài [chống trộm xe máy khi để ngoài đường](/ky-nang/2026-09-29/chong-trom-xe-may-khi-e-ngoai-uong/).
+Trường hợp duy nhất nên cân nhắc không khóa cổ là khi người trông xe của quán yêu cầu để họ xếp xe. Khi đó, xe vẫn phải tắt máy, rút chìa, và bạn ngồi ở vị trí quan sát được. Nếu quán không có người trông và xe đậu ngoài tầm mắt, hãy luôn khóa cổ, thêm khóa đĩa nếu tiệm thuê xe có đưa kèm. Các lớp phòng vệ khác được tổng hợp trong bài [chống trộm xe máy khi để ngoài đường](/ky-nang/2026-09-29/chong-trom-xe-may-khi-de-ngoai-duong/).
 
 ## Giữ đồ khi ngồi ăn
 

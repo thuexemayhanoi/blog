@@ -23,7 +23,7 @@ Người ta hay nghĩ đi chậm thì đỡ gió. Đúng là gió táp vào mặ
 
 Thêm vào đó, xe nhỏ thường không có kính chắn gió, yếm trước thấp, nên ống quyển và đầu gối hứng gió trực tiếp. Khi tay đã cóng, bạn vặn ga và bóp phanh kém nhạy, trong khi xe 50cc vốn cần thao tác nhẹ nhàng, đều tay. Vì vậy với dòng xe này, giữ ấm không chỉ để dễ chịu mà là để giữ tay lái chắc.
 
-Nếu bạn cần một bài tổng quát về nguyên tắc xếp lớp áo khi đi xe máy trời lạnh, xem [mùa đông Hà Nội chạy xe máy: mặc gì cho ấm](/thue-xe/2026/10/12/mua-ong-ha-noi-chay-xe-may-mac-gi-cho-am-va-tranh-gio-lanh-buoi-sang/). Phần dưới đây chỉ nói những gì riêng cho người lái xe nhỏ, chạy chậm.
+Nếu bạn cần một bài tổng quát về nguyên tắc xếp lớp áo khi đi xe máy trời lạnh, xem [mùa đông Hà Nội chạy xe máy: mặc gì cho ấm](/thue-xe/2026/10/12/mua-dong-ha-noi-chay-xe-may-mac-gi-cho-am-va-tranh-gio-lanh-buoi-sang/). Phần dưới đây chỉ nói những gì riêng cho người lái xe nhỏ, chạy chậm.
 
 ## Trang phục cho người chạy chậm: ưu tiên tay, gối và cổ
 
@@ -47,7 +47,7 @@ Sương mù buổi sáng ở Hà Nội đặc nhất quanh mặt nước và ven
 - **Giữ sát lề phải, không lấn làn**, đi đều tốc độ để xe sau đoán được bạn sẽ làm gì.
 - **Lau kính mũ trước khi đi**, và nếu kính mờ hơi thở thì hé kính một chút ở tốc độ thấp thay vì cúi đầu lau khi đang chạy.
 
-Về đèn và cách để xe phía sau nhận ra mình, bài [đi xe 50cc buổi tối](/xe-may/2026/10/11/i-xe-50cc-buoi-toi-en-nho-toc-o-thap-va-cach-e-xe-sau-thay-minh/) có hướng dẫn kỹ, áp dụng được cho cả buổi sáng nhiều sương.
+Về đèn và cách để xe phía sau nhận ra mình, bài [đi xe 50cc buổi tối](/xe-may/2026/10/11/di-xe-50cc-buoi-toi-den-nho-toc-do-thap-va-cach-de-xe-sau-thay-minh/) có hướng dẫn kỹ, áp dụng được cho cả buổi sáng nhiều sương.
 
 ## Mưa phùn: đường trơn và bánh xe nhỏ
 
@@ -58,7 +58,7 @@ Mưa phùn là kiểu thời tiết dễ chủ quan nhất. Không ướt sũng 
 - **Mặc áo mưa bộ hoặc áo mưa vừa người**, không dùng áo mưa cánh dơi rộng thùng thình. Áo mưa rộng bị gió bấc thổi phồng, kéo xe nhỏ lệch hướng.
 - **Mang thêm đôi găng dự phòng** trong cốp. Găng ướt trong gió lạnh làm tay cóng nhanh hơn hẳn găng khô.
 
-Mặt đường gồ ghề trong ngõ khi ẩm ướt lại càng khó đi. Cách xử lý ổ gà, gờ giảm tốc với bánh nhỏ có ở bài [bánh nhỏ của xe 50cc qua ổ gà, nắp cống](/xe-may/2026/10/11/banh-nho-cua-xe-50cc-qua-o-ga-nap-cong-va-go-giam-toc-cach-i-cho-em/).
+Mặt đường gồ ghề trong ngõ khi ẩm ướt lại càng khó đi. Cách xử lý ổ gà, gờ giảm tốc với bánh nhỏ có ở bài [bánh nhỏ của xe 50cc qua ổ gà, nắp cống](/xe-may/2026/10/11/banh-nho-cua-xe-50cc-qua-o-ga-nap-cong-va-go-giam-toc-cach-di-cho-em/).
 
 ## Ven Hồ Tây và đê sông Hồng: những đoạn nên đi chậm hơn nữa
 

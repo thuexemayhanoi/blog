@@ -25,7 +25,7 @@ Cách kiểm tra đơn giản:
 
 - Nhìn sang bên trái thân xe, phía sau sàn để chân, gần khối động cơ. Nếu có cần đạp, nó thường được gập sát vào thân xe và có thể bật ra ngoài bằng tay.
 - Nếu không chắc chi tiết đó là gì, hỏi ngay lúc nhận xe. Người giao xe chỉ cho bạn trong vài giây, đỡ phải đoán mò khi đang đứng giữa sân chung cư lúc trời còn tối.
-- Nếu xe không có cần đạp, phần còn lại của bài không áp dụng. Khi đó hãy đọc bài [xe ga không đề được buổi sáng](/thue-xe/2026/10/11/xe-ga-khong-e-uoc-buoi-sang-ac-quy-yeu-bugi-hay-do-e-lau-khong-chay/) để khoanh vùng nguyên nhân.
+- Nếu xe không có cần đạp, phần còn lại của bài không áp dụng. Khi đó hãy đọc bài [xe ga không đề được buổi sáng](/thue-xe/2026/10/11/xe-ga-khong-de-duoc-buoi-sang-ac-quy-yeu-bugi-hay-do-de-lau-khong-chay/) để khoanh vùng nguyên nhân.
 
 Với người thuê xe, câu hỏi "xe này có đạp được không" nên nằm trong danh sách kiểm tra khi nhận xe, nhất là nếu bạn ở xa và hay ra đường sớm.
 
@@ -86,7 +86,7 @@ Khi máy đã nổ, để xe chạy không tải một lúc cho máy ấm và ch
 
 ## Lưu ý riêng cho người thuê xe ga ở Hà Nội
 
-Đạp nổ chỉ là cách tạm thời. Nếu đề điện yếu nhiều buổi sáng liên tiếp, ắc quy hoặc hệ thống sạc có vấn đề, và bạn nên báo cho tiệm thay vì cố xoay xở mỗi ngày. Bài [đạp chân khởi động khi ắc quy yếu](/ky-nang/2026/10/05/bat-au-xe-may-bang-ap-chan-khi-ac-quy-yeu/) giải thích vì sao ắc quy yếu dần trong mùa lạnh, áp dụng cho cả xe số.
+Đạp nổ chỉ là cách tạm thời. Nếu đề điện yếu nhiều buổi sáng liên tiếp, ắc quy hoặc hệ thống sạc có vấn đề, và bạn nên báo cho tiệm thay vì cố xoay xở mỗi ngày. Bài [đạp chân khởi động khi ắc quy yếu](/ky-nang/2026/10/05/bat-dau-xe-may-bang-dap-chan-khi-ac-quy-yeu/) giải thích vì sao ắc quy yếu dần trong mùa lạnh, áp dụng cho cả xe số.
 
 Tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00. Vì không hỗ trợ ngoài giờ, nếu bạn hay đi từ rất sớm, hãy thử đề máy từ tối hôm trước. Nghe tiếng đề yếu thì báo trong giờ mở cửa để được kiểm tra hoặc đổi xe. Thời gian và chi phí giao nhận xe cần xác nhận trước với tiệm.
 

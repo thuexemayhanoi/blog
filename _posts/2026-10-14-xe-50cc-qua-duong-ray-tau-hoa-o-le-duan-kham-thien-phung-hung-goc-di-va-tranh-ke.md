@@ -21,7 +21,7 @@ Cho xe 50cc qua đường ray ở nội thành Hà Nội không khó, nhưng kh�
 
 Mọi mẹo về góc đi và tay ga bên dưới chỉ dùng khi đường tàu đang trống và bạn được phép qua. Đèn đỏ nhấp nháy, chuông kêu, barie đang hạ hoặc nhân viên gác chắn giơ tay ra hiệu thì bạn dừng trước vạch, chân chống đất, chờ đến khi barie nâng hết. Không lách qua khe barie, không bám đuôi xe khác để vượt.
 
-Xe 50cc tăng tốc chậm, cần nhiều thời gian hơn để rời khỏi khu vực ray, nên càng không có chỗ cho việc "cố qua cho kịp". Cách chờ đúng vị trí khi gác chắn đang hạ được nói kỹ trong bài [gặp gác chắn đường sắt đang hạ](/ky-nang/2026/10/11/gap-gac-chan-uong-sat-ang-ha-khi-i-xe-may-cho-ung-vi-tri/).
+Xe 50cc tăng tốc chậm, cần nhiều thời gian hơn để rời khỏi khu vực ray, nên càng không có chỗ cho việc "cố qua cho kịp". Cách chờ đúng vị trí khi gác chắn đang hạ được nói kỹ trong bài [gặp gác chắn đường sắt đang hạ](/ky-nang/2026/10/11/gap-gac-chan-duong-sat-dang-ha-khi-di-xe-may-cho-dung-vi-tri/).
 
 ## Vì sao xe 50cc qua đường ray dễ bị kẹt bánh
 
@@ -33,7 +33,7 @@ Xe 50cc còn có thêm bất lợi:
 - **Máy yếu:** bánh trước va gờ là xe chậm hẳn, máy nhỏ cần thời gian kéo lại.
 - **Xe nhẹ:** một cú nảy nhỏ cũng làm thân xe lắc, người mới lái dễ bóp phanh hoặc thò chân xuống.
 
-Bài [bánh nhỏ của xe 50cc qua ổ gà, nắp cống và gờ giảm tốc](/xe-may/2026/10/11/banh-nho-cua-xe-50cc-qua-o-ga-nap-cong-va-go-giam-toc-cach-i-cho-em/) có thêm phần tư thế ngồi.
+Bài [bánh nhỏ của xe 50cc qua ổ gà, nắp cống và gờ giảm tốc](/xe-may/2026/10/11/banh-nho-cua-xe-50cc-qua-o-ga-nap-cong-va-go-giam-toc-cach-di-cho-em/) có thêm phần tư thế ngồi.
 
 ## Góc đi gần vuông: căn hướng từ xa, không bẻ lái trên ray
 

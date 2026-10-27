@@ -57,7 +57,7 @@ Cầu Vĩnh Tuy nối phía Hai Bà Trưng, khu Minh Khai, Vĩnh Tuy sang phía 
 
 Trên đường dẫn dài, xe nhỏ dễ bị tụt tốc độ khi chở hai người hoặc chở thêm đồ. Gió ở giữa sông thổi mạnh hơn hẳn trong phố, và dòng ô tô, xe tải tốc độ cao chạy sát làn bên cạnh. Nếu bạn đi một mình, xe khỏe, trời lặng gió thì đi được bình thường. Nếu chở thêm người, trời gió hoặc bạn còn mới với xe, hãy cân nhắc vòng về Chương Dương dù quãng đường dài hơn một chút.
 
-Vĩnh Tuy hợp nhất khi điểm xuất phát ở phía nam Hai Bà Trưng, Hoàng Mai và điểm đến ở phía nam Long Biên hoặc hướng Gia Lâm, Bát Tràng. Ai muốn ghé làng gốm có thể xem thêm bài [đưa xe 50cc đi làng gốm Bát Tràng](/xe-may/2026/10/11/xe-50cc-i-lang-gom-bat-trang-quang-uong-mat-uong-va-gio-nen-i/) để biết đoạn đường đê phía sau cầu.
+Vĩnh Tuy hợp nhất khi điểm xuất phát ở phía nam Hai Bà Trưng, Hoàng Mai và điểm đến ở phía nam Long Biên hoặc hướng Gia Lâm, Bát Tràng. Ai muốn ghé làng gốm có thể xem thêm bài [đưa xe 50cc đi làng gốm Bát Tràng](/xe-may/2026/10/11/xe-50cc-di-lang-gom-bat-trang-quang-duong-mat-duong-va-gio-nen-di/) để biết đoạn đường đê phía sau cầu.
 
 ## Chọn cầu theo điểm đến và giờ trong ngày
 

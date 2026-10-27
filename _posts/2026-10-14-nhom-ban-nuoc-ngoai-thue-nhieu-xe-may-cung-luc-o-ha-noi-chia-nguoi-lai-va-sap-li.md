@@ -23,7 +23,7 @@ Số xe của nhóm nên bằng số người đủ điều kiện lái, không 
 
 Trước khi đặt xe, mỗi người tự trả lời ba câu:
 
-1. **Có giấy phép lái xe máy hợp lệ không?** Thông thường là giấy phép quốc gia kèm giấy phép lái xe quốc tế còn hạn, đúng hạng xe máy. Giấy phép chỉ có hạng ô tô không thay được hạng xe máy. Chi tiết về loại giấy tờ được công nhận có trong bài [giấy phép lái xe quốc tế có dùng được khi thuê xe máy không](/thue-xe/2026/10/07/bang-lai-quoc-te-co-dung-uoc-khi-thue-xe-may-khong/).
+1. **Có giấy phép lái xe máy hợp lệ không?** Thông thường là giấy phép quốc gia kèm giấy phép lái xe quốc tế còn hạn, đúng hạng xe máy. Giấy phép chỉ có hạng ô tô không thay được hạng xe máy. Chi tiết về loại giấy tờ được công nhận có trong bài [giấy phép lái xe quốc tế có dùng được khi thuê xe máy không](/thue-xe/2026/10/07/bang-lai-quoc-te-co-dung-duoc-khi-thue-xe-may-khong/).
 2. **Đã từng lái xe máy trên đường đông chưa?** Có giấy phép nhưng chỉ lái vài lần ở quê nhà thì nên tập ở đường vắng trước, chưa nên chở ai.
 3. **Có thoải mái lái sau chuyến bay dài, lệch múi giờ không?** Ngày đầu tiên mệt mỏi là ngày dễ có va quệt nhất.
 
@@ -72,7 +72,7 @@ Ba, bốn chiếc xe đi cùng nhau giữa dòng xe Hà Nội rất dễ lạc s
 - **Chia sẻ vị trí trực tiếp** trong nhóm chat, nhưng chỉ xem khi đã dừng hẳn bên lề.
 - **Không chạy song song** để nói chuyện, không vượt nhau trong đoàn.
 
-Mẹo chi tiết hơn về đi nhiều xe có trong bài [hai xe đi cùng nhau ở Hà Nội: giữ liên lạc và không lạc nhau](/thue-xe/2026/10/11/hai-xe-i-cung-nhau-o-ha-noi-giu-lien-lac-va-khong-lac-nhau-giua-dong-xe/). Nếu nhóm định đi phượt bằng xe máy ra ngoại thành như Ba Vì hay Sóc Sơn, hãy chạy thử một vòng nội thành ngày đầu để mọi người quen xe và quen nhịp đi đoàn.
+Mẹo chi tiết hơn về đi nhiều xe có trong bài [hai xe đi cùng nhau ở Hà Nội: giữ liên lạc và không lạc nhau](/thue-xe/2026/10/11/hai-xe-di-cung-nhau-o-ha-noi-giu-lien-lac-va-khong-lac-nhau-giua-dong-xe/). Nếu nhóm định đi phượt bằng xe máy ra ngoại thành như Ba Vì hay Sóc Sơn, hãy chạy thử một vòng nội thành ngày đầu để mọi người quen xe và quen nhịp đi đoàn.
 
 ## Kết lại
 

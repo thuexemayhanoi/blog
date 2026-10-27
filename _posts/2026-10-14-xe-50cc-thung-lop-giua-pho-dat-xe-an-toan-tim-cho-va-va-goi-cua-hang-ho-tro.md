@@ -25,7 +25,7 @@ Với bánh nhỏ, cảm giác lốp non đến sớm và rõ:
 - **Bánh sau xẹp:** đuôi xe lắc nhẹ như đi trên đường đá dăm, mỗi lần qua gờ giảm tốc nghe tiếng vành chạm đất đánh "cộp".
 - **Xì từ từ:** buổi sáng xe vẫn ổn, chiều về thấy xe ì, đi chậm hơn dù vẫn vặn ga như cũ.
 
-Khi đã nghi ngờ, đừng cố chạy tiếp "cho tới chỗ quen". Lốp xẹp mà vẫn chạy sẽ làm săm bị cắt nát bên trong, vành bị móp, và quan trọng hơn là xe mất ổn định khi phanh. Nếu lốp xì đột ngột thì việc giữ thăng bằng và phanh được nói kỹ trong bài [nổ lốp xe máy khi đang chạy](/xe-may/2026/10/04/no-lop-xe-may-khi-ang-chay-phanh-va-giu-thang-bang/); ở đây ta tập trung vào những gì làm sau khi xe đã chậm lại.
+Khi đã nghi ngờ, đừng cố chạy tiếp "cho tới chỗ quen". Lốp xẹp mà vẫn chạy sẽ làm săm bị cắt nát bên trong, vành bị móp, và quan trọng hơn là xe mất ổn định khi phanh. Nếu lốp xì đột ngột thì việc giữ thăng bằng và phanh được nói kỹ trong bài [nổ lốp xe máy khi đang chạy](/xe-may/2026/10/04/no-lop-xe-may-khi-dang-chay-phanh-va-giu-thang-bang/); ở đây ta tập trung vào những gì làm sau khi xe đã chậm lại.
 
 ## Dừng vào lề đúng chỗ, không dừng giữa dòng xe
 

@@ -25,7 +25,7 @@ Lời khuyên chống trộm thường viết cho xe nặng, nơi kẻ gian ph�
 - **Khiêng lên xe khác.** Hai người và một chiếc xe ba gác là đủ. Khóa đĩa lúc này gần như vô dụng vì bánh xe không cần quay.
 - **Lấy đồ trên xe.** Gương, mũ bảo hiểm, áo mưa trong cốp là thứ dễ mất nhất.
 
-Vì vậy chỗ đỗ và việc buộc xe vào vật cố định quan trọng hơn mua thêm một cái khóa thật đắt. Nếu bạn ở dài ngày và muốn đọc về khóa chữ U, thói quen ở nhà trọ nói chung, xem bài [chống trộm cho xe máy đỗ qua đêm ở nhà trọ](/thue-xe/2026/10/11/chong-trom-cho-xe-may-o-qua-em-o-nha-tro-khoa-vi-tri-o-va-thoi-quen/). Ở đây ta tập trung vào chiếc xe nhỏ và kỳ lưu trú ngắn.
+Vì vậy chỗ đỗ và việc buộc xe vào vật cố định quan trọng hơn mua thêm một cái khóa thật đắt. Nếu bạn ở dài ngày và muốn đọc về khóa chữ U, thói quen ở nhà trọ nói chung, xem bài [chống trộm cho xe máy đỗ qua đêm ở nhà trọ](/thue-xe/2026/10/11/chong-trom-cho-xe-may-do-qua-dem-o-nha-tro-khoa-vi-tri-do-va-thoi-quen/). Ở đây ta tập trung vào chiếc xe nhỏ và kỳ lưu trú ngắn.
 
 ## Chọn chỗ để xe ở homestay, nhà trọ và ngõ nhỏ
 
@@ -53,7 +53,7 @@ Không cái khóa nào tự nó đủ. Cách hiệu quả là xếp lớp, mỗi
 
 Cốp xe 50cc thường đủ cho một khóa đĩa nhưng không đủ cho xích dày; một sợi dây cáp bọc nhựa cuộn gọn trong ba lô là vừa sức. Trước khi mua, hãy hỏi tiệm cho thuê xem họ có kèm khóa phụ theo xe không.
 
-Xe nhẹ cũng dễ đổ khi dựng sai chỗ, nhất là khi bị xích kéo lệch. Dựng chân chống giữa trên nền phẳng, để xích chùng vừa phải. Cách chọn nền và chống xe có trong bài [xe 50cc nhẹ dễ đổ khi dựng](/xe-may/2026/10/11/xe-50cc-nhe-de-o-khi-dung-chon-cho-o-chong-nghieng-va-chong-ung/).
+Xe nhẹ cũng dễ đổ khi dựng sai chỗ, nhất là khi bị xích kéo lệch. Dựng chân chống giữa trên nền phẳng, để xích chùng vừa phải. Cách chọn nền và chống xe có trong bài [xe 50cc nhẹ dễ đổ khi dựng](/xe-may/2026/10/11/xe-50cc-nhe-de-do-khi-dung-chon-cho-do-chong-nghieng-va-chong-dung/).
 
 ## Năm phút trước khi ngủ: để xe máy qua đêm an toàn
 

@@ -70,7 +70,7 @@ Hầm thường có những đoạn đèn hỏng, hoặc ánh sáng chỉ tập 
 
 Lúc lên, xe ga lại có lợi thế: chỉ cần ga đều là xe leo dốc êm. Đừng vặn ga giật cục ở chân dốc, nhất là trên sàn sơn, vì bánh sau dễ trượt. Giữ ga đều, đi chậm, để khoảng cách với xe trước đủ để không phải dừng giữa vòng xoắn.
 
-Chốt trả vé hay đặt ngay trên dốc. Khi dừng, bóp giữ phanh và chống một chân xuống đất. Lúc cần đưa thẻ bằng tay trái, chuyển sang giữ chắc phanh tay phải rồi mới buông tay trái. Khởi hành lại: vặn ga nhẹ cho tới khi cảm thấy xe muốn đi lên, rồi nhả phanh từ từ. Thao tác chi tiết có trong bài [xe ga khởi hành lại giữa dốc cầu vượt](/xe-may/2026/10/11/xe-ga-khoi-hanh-lai-giua-doc-cau-vuot-giu-phanh-va-ga-e-khong-tut-lui/).
+Chốt trả vé hay đặt ngay trên dốc. Khi dừng, bóp giữ phanh và chống một chân xuống đất. Lúc cần đưa thẻ bằng tay trái, chuyển sang giữ chắc phanh tay phải rồi mới buông tay trái. Khởi hành lại: vặn ga nhẹ cho tới khi cảm thấy xe muốn đi lên, rồi nhả phanh từ từ. Thao tác chi tiết có trong bài [xe ga khởi hành lại giữa dốc cầu vượt](/xe-may/2026/10/11/xe-ga-khoi-hanh-lai-giua-doc-cau-vuot-giu-phanh-va-ga-de-khong-tut-lui/).
 
 ## Tóm lại
 

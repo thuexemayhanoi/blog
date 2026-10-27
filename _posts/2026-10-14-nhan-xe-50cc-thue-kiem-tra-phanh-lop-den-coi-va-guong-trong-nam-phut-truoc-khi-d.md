@@ -37,7 +37,7 @@ Phanh là thứ kiểm tra đầu tiên vì nó quyết định bạn có nên �
 3. **Làm tương tự với phanh sau.** Nhiều mẫu 50cc dùng phanh đùm ở bánh sau, cảm giác mềm hơn phanh đĩa, nhưng vẫn phải giữ được bánh khi bạn dắt.
 4. **Nghe tiếng.** Tiếng rít kim loại, tiếng lạch cạch khi bóp phanh là dấu hiệu cần báo nhân viên.
 
-Đèn phanh cũng nằm trong bước này: nhờ người đứng phía sau, hoặc nhìn bóng đèn hắt lên tường, khi bóp lần lượt hai tay phanh. Cách soi đèn phanh kỹ hơn có trong bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-en-phanh-xe-may-thue-truoc-khi-nhan-xe/).
+Đèn phanh cũng nằm trong bước này: nhờ người đứng phía sau, hoặc nhìn bóng đèn hắt lên tường, khi bóp lần lượt hai tay phanh. Cách soi đèn phanh kỹ hơn có trong bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-den-phanh-xe-may-thue-truoc-khi-nhan-xe/).
 
 ## Phút thứ hai: lốp bánh nhỏ, nhìn và bóp
 
@@ -48,7 +48,7 @@ Phanh là thứ kiểm tra đầu tiên vì nó quyết định bạn có nên �
 - **Xoay nhẹ bánh khi xe dựng chân chống giữa** để xem gai lốp còn rõ, không có vết nứt, phồng hay đinh găm.
 - **Để ý vành bánh.** Vành nhỏ mà bị móp sẽ làm xe rung ở tốc độ thấp.
 
-Bánh nhỏ của xe 50cc rất nhạy với ổ gà và nắp cống, nên lốp tốt là điều kiện để bạn đi êm trong phố. Cách đi qua mặt đường xấu được nói riêng trong bài [bánh nhỏ của xe 50cc qua ổ gà, nắp cống và gờ giảm tốc](/xe-may/2026/10/11/banh-nho-cua-xe-50cc-qua-o-ga-nap-cong-va-go-giam-toc-cach-i-cho-em/).
+Bánh nhỏ của xe 50cc rất nhạy với ổ gà và nắp cống, nên lốp tốt là điều kiện để bạn đi êm trong phố. Cách đi qua mặt đường xấu được nói riêng trong bài [bánh nhỏ của xe 50cc qua ổ gà, nắp cống và gờ giảm tốc](/xe-may/2026/10/11/banh-nho-cua-xe-50cc-qua-o-ga-nap-cong-va-go-giam-toc-cach-di-cho-em/).
 
 ## Phút thứ ba: đèn và còi, bật một lượt
 

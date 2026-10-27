@@ -77,7 +77,7 @@ Người ngồi sau chỉ cần không làm ngược với người lái:
 
 **Qua ổ gà, gờ giảm tốc.** Tì chân, để đùi đỡ cú xóc. Thấy ổ gà thì báo ngắn, không chỉ tay.
 
-Cách giữ thăng bằng chung cho người ngồi sau trên mọi loại xe đã có trong bài [ngồi sau xe máy ở Hà Nội](/thue-xe/2026/10/11/ngoi-sau-xe-may-o-ha-noi-cach-ngoi-at-chan-va-giu-thang-bang-cho-ban-i-cung/).
+Cách giữ thăng bằng chung cho người ngồi sau trên mọi loại xe đã có trong bài [ngồi sau xe máy ở Hà Nội](/thue-xe/2026/10/11/ngoi-sau-xe-may-o-ha-noi-cach-ngoi-dat-chan-va-giu-thang-bang-cho-ban-di-cung/).
 
 ## Xuống xe an toàn, nhất là ở phố cổ
 

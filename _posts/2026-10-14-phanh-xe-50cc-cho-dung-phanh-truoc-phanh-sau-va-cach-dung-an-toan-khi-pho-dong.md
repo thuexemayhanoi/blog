@@ -62,7 +62,7 @@ Hoàn tất việc giảm tốc trước khi vào cua. Nếu đang nghiêng xe m
 
 ### Tránh phanh trên vạch sơn và nắp cống
 
-Nhìn trước mặt đường, chọn điểm phanh trên nhựa đường chứ không phải trên vạch sơn trắng hay nắp cống. Những chỗ này còn khiến bánh xe nhỏ bị xóc mạnh; bài [bánh nhỏ của xe 50cc qua ổ gà, nắp cống và gờ giảm tốc](/xe-may/2026/10/11/banh-nho-cua-xe-50cc-qua-o-ga-nap-cong-va-go-giam-toc-cach-i-cho-em/) có hướng dẫn chi tiết cách đi qua.
+Nhìn trước mặt đường, chọn điểm phanh trên nhựa đường chứ không phải trên vạch sơn trắng hay nắp cống. Những chỗ này còn khiến bánh xe nhỏ bị xóc mạnh; bài [bánh nhỏ của xe 50cc qua ổ gà, nắp cống và gờ giảm tốc](/xe-may/2026/10/11/banh-nho-cua-xe-50cc-qua-o-ga-nap-cong-va-go-giam-toc-cach-di-cho-em/) có hướng dẫn chi tiết cách đi qua.
 
 ## Nếu bánh xe bị khóa: xử lý trong vài giây
 

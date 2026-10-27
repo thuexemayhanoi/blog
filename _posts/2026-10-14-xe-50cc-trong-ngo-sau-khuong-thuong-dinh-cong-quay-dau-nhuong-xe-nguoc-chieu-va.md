@@ -48,7 +48,7 @@ Khi phải lùi, đừng lùi bằng cách vừa ngồi vừa đẩy chân. Hãy
 
 Bản đồ trên điện thoại hay vẽ các ngách thông nhau trong khi thực tế đã bị xây bít, nên chuyện đi vào ngõ cụt ở khu Định Công hay Khương Đình không hiếm. Khi nhận ra phía trước là tường, dừng lại sớm, đừng cố chạy sát tận cùng mới quay.
 
-Với ngõ rộng hơn chiều dài xe một chút, có thể quay theo kiểu ba điểm: đánh lái hết về một bên, nhích xe lên sát mép, xuống xe dắt lùi chéo, rồi lại đánh lái và đi ra. Với ngách quá hẹp, cách an toàn nhất là tắt máy, dựng chân chống giữa, rồi nhấc nhẹ đuôi xe xoay từng chút. Xe 50cc đủ nhẹ để nhiều người làm được việc này, nhưng nếu thấy nặng tay thì đừng cố, nhờ người trong ngõ phụ một tay là chuyện bình thường. Kỹ thuật chi tiết từng bước có trong bài [quay đầu xe máy trong ngõ cụt](/ky-nang/2026/10/10/quay-au-xe-may-trong-ngo-cut-ky-nang-it-nguoi-lam-ung/).
+Với ngõ rộng hơn chiều dài xe một chút, có thể quay theo kiểu ba điểm: đánh lái hết về một bên, nhích xe lên sát mép, xuống xe dắt lùi chéo, rồi lại đánh lái và đi ra. Với ngách quá hẹp, cách an toàn nhất là tắt máy, dựng chân chống giữa, rồi nhấc nhẹ đuôi xe xoay từng chút. Xe 50cc đủ nhẹ để nhiều người làm được việc này, nhưng nếu thấy nặng tay thì đừng cố, nhờ người trong ngõ phụ một tay là chuyện bình thường. Kỹ thuật chi tiết từng bước có trong bài [quay đầu xe máy trong ngõ cụt](/ky-nang/2026/10/10/quay-dau-xe-may-trong-ngo-cut-ky-nang-it-nguoi-lam-dung/).
 
 Khi quay, đừng xoay đuôi xe về phía chỗ có người ngồi, vì ống xả còn nóng.
 
@@ -66,7 +66,7 @@ Dắt xe đúng cách: đứng bên trái, tay phải không chạm ga, giữ ta
 
 Đi ngõ an toàn rồi, còn chuyện để xe. Ở các dãy trọ quanh Khương Thượng hay Văn Chương, chỗ để xe thường là một khoảng sân hẹp hoặc tầng một chung, xe xếp sát nhau. Nên hỏi chủ nhà xem xe dựng chân chống giữa hay chân chống nghiêng, xếp theo hàng nào, giờ đóng cổng là mấy giờ.
 
-Nếu bạn còn đang cân nhắc giữa xe 50cc và các dòng xe khác cho cuộc sống trong ngõ, bài [chọn xe máy dễ dắt và quay đầu khi ở ngõ nhỏ](/xe-may/2026/10/14/o-trong-ngo-nho-ha-noi-chon-xe-may-nao-de-dat-va-quay-dau/) so sánh từng loại. Còn đoạn từ đầu ngõ ra đường lớn như Trường Chinh, Giải Phóng hay đường Định Công, xem thêm cách [ra từ ngõ nhỏ vào đường lớn](/ky-nang/2026/10/10/ra-tu-ngo-nho-vao-uong-lon-quan-sat-va-nhac-nhanh/). Về điều kiện người lái xe 50cc, hãy kiểm tra quy định hiện hành và hỏi tiệm trước khi thuê, vì quy định có thể đã thay đổi.
+Nếu bạn còn đang cân nhắc giữa xe 50cc và các dòng xe khác cho cuộc sống trong ngõ, bài [chọn xe máy dễ dắt và quay đầu khi ở ngõ nhỏ](/xe-may/2026/10/14/o-trong-ngo-nho-ha-noi-chon-xe-may-nao-de-dat-va-quay-dau/) so sánh từng loại. Còn đoạn từ đầu ngõ ra đường lớn như Trường Chinh, Giải Phóng hay đường Định Công, xem thêm cách [ra từ ngõ nhỏ vào đường lớn](/ky-nang/2026/10/10/ra-tu-ngo-nho-vao-duong-lon-quan-sat-va-nhac-nhanh/). Về điều kiện người lái xe 50cc, hãy kiểm tra quy định hiện hành và hỏi tiệm trước khi thuê, vì quy định có thể đã thay đổi.
 
 ## Tóm lại
 

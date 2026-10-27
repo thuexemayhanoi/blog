@@ -80,7 +80,7 @@ Có kênh liên lạc rồi, việc tiếp theo là dùng nó cho hiệu quả. 
 4. **Nhắn một câu ngắn** mô tả chuyện gì xảy ra.
 5. **Gọi** nếu sau một lúc chưa thấy phản hồi.
 
-Chi tiết từng tình huống có trong bài [nhắn chủ xe khi xe có vấn đề](/thue-xe/2026/10/11/nhan-chu-xe-khi-xe-co-van-e-gui-vi-tri-anh-va-thong-tin-gi-e-xu-ly-nhanh/).
+Chi tiết từng tình huống có trong bài [nhắn chủ xe khi xe có vấn đề](/thue-xe/2026/10/11/nhan-chu-xe-khi-xe-co-van-de-gui-vi-tri-anh-va-thong-tin-gi-de-xu-ly-nhanh/).
 
 ## Vượt rào ngôn ngữ trong tin nhắn
 

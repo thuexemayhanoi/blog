@@ -45,7 +45,7 @@ Phanh đứng đầu vì bạn cần nó ngay từ mét đầu tiên khi rời t
 
 - **Bóp tay phanh trước và phanh sau.** Trên xe ga, tay phải là phanh trước, tay trái là phanh sau; trên xe số, phanh sau là bàn đạp dưới chân phải. Tay phanh phải có hành trình rõ ràng rồi cứng lại, không bóp sát tận tay nắm.
 - **Dắt xe đi vài bước rồi bóp từng phanh.** Bánh phải dừng gọn, không rít to, không giật.
-- **Nhìn đèn phanh phía sau** khi bóp mỗi phanh, nhờ chủ xe hoặc bạn đồng hành đứng phía sau xác nhận. Đèn phanh yếu là lỗi hay gặp; cách nhận biết có trong bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-en-phanh-xe-may-thue-truoc-khi-nhan-xe/).
+- **Nhìn đèn phanh phía sau** khi bóp mỗi phanh, nhờ chủ xe hoặc bạn đồng hành đứng phía sau xác nhận. Đèn phanh yếu là lỗi hay gặp; cách nhận biết có trong bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-den-phanh-xe-may-thue-truoc-khi-nhan-xe/).
 
 Xe tay ga đời mới thường có phanh liên hợp CBS, một số xe có ABS. Hỏi chủ xe chiếc của bạn dùng loại nào, và nếu tay phanh quá lỏng thì đề nghị chỉnh ngay.
 
@@ -57,7 +57,7 @@ Lốp xe ở Hà Nội chịu nhiều ổ gà, nắp cống và gờ giảm tố
 - **Bóp mạnh hông lốp bằng ngón tay cái.** Lốp đủ hơi thì lún rất ít; nếu lún sâu, nhờ chủ xe bơm thêm trước khi đi.
 - **Dắt xe để bánh quay hết một vòng**, tìm đinh, mảnh kính hoặc miếng vá lồi lên.
 
-Bạn không cần nhớ áp suất chuẩn; chỉ cần so hai bánh với nhau và hỏi chủ xe nếu thấy một bánh mềm hơn rõ rệt. Bài [kiểm tra lốp xe máy thuê khi nhận xe](/thue-xe/2026/10/12/kiem-tra-lop-xe-may-thue-khi-nhan-xe-mon-nut-va-o-cang/) giải thích kỹ cách đọc độ mòn.
+Bạn không cần nhớ áp suất chuẩn; chỉ cần so hai bánh với nhau và hỏi chủ xe nếu thấy một bánh mềm hơn rõ rệt. Bài [kiểm tra lốp xe máy thuê khi nhận xe](/thue-xe/2026/10/12/kiem-tra-lop-xe-may-thue-khi-nhan-xe-mon-nut-va-do-cang/) giải thích kỹ cách đọc độ mòn.
 
 ## Đèn, còi và gương: bật lần lượt từng thứ
 

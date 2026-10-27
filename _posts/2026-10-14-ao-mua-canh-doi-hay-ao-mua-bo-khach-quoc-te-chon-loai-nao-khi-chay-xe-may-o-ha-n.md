@@ -38,7 +38,7 @@ Nếu chỉ tính chuyện khô người, áo mưa bộ thắng rõ. Áo bám th
 - **Vạt trước che đèn pha và đồng hồ.** Bạn không thấy kim xăng, người đi ngược chiều khó thấy xe bạn. Kéo vạt lên trên đèn, hoặc chọn loại có ô nhựa trong phía trước.
 - **Vạt sau che đèn hậu và biển số.** Xe phía sau khó thấy bạn phanh, nhất là trên trục đông như Nguyễn Văn Cừ lúc trời tối. Nhét gọn vạt sau dưới đùi.
 - **Gió lật áo lên mặt.** Trên cầu Nhật Tân, gió ngang có thể lật cả tấm áo che tầm nhìn. Chỗ thoáng gió thì giảm tốc trước.
-- **Vạt áo cuốn vào xích.** Xe số có xích hở dễ hút vạt áo, xem bài [áo mưa, ống quần vướng vào xích khi đi xe số](/xe-may/2026/10/11/ao-mua-ong-quan-va-vay-de-vuong-po-xich-khi-i-xe-so-cach-xu-ly/).
+- **Vạt áo cuốn vào xích.** Xe số có xích hở dễ hút vạt áo, xem bài [áo mưa, ống quần vướng vào xích khi đi xe số](/xe-may/2026/10/11/ao-mua-ong-quan-va-vay-de-vuong-po-xich-khi-di-xe-so-cach-xu-ly/).
 
 Áo mưa bộ ít rủi ro kiểu này hơn vì không có tấm vải thừa. Điều cần để ý chỉ là mũ áo: mũ trùm bên trong mũ bảo hiểm làm bạn khó quay đầu nhìn gương và nhìn sau. Đội mũ áo ra ngoài, hoặc kéo dây mũ thật gọn rồi mới cài quai mũ bảo hiểm.
 

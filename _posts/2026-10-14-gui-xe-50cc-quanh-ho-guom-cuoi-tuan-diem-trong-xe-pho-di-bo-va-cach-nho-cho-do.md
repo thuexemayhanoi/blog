@@ -23,14 +23,14 @@ Vào cuối tuần, các tuyến quanh hồ Hoàn Kiếm như Đinh Tiên Hoàng
 
 Hệ quả rất rõ: bạn không thể chạy vòng quanh hồ để tìm chỗ, mà phải dừng ở các phố vòng ngoài rồi đi bộ vào. Hãy tính chỗ gửi trước khi tới gần hồ, không đợi thấy hàng rào mới bắt đầu tìm.
 
-Tổng quan các kiểu bãi quanh khu hồ và cách canh giờ về có trong bài [đi dạo phố đi bộ quanh Hồ Gươm cuối tuần và để xe ở đâu](/ky-nang/2026/10/11/i-dao-pho-i-bo-quanh-ho-guom-cuoi-tuan-e-xe-may-o-au-roi-i-bo-vao/). Phần dưới đây dành riêng cho người cầm lái một chiếc 50cc.
+Tổng quan các kiểu bãi quanh khu hồ và cách canh giờ về có trong bài [đi dạo phố đi bộ quanh Hồ Gươm cuối tuần và để xe ở đâu](/ky-nang/2026/10/11/di-dao-pho-di-bo-quanh-ho-guom-cuoi-tuan-de-xe-may-o-dau-roi-di-bo-vao/). Phần dưới đây dành riêng cho người cầm lái một chiếc 50cc.
 
 ## Gửi xe 50cc hồ Gươm: chọn điểm trông xe nào
 
 Nguyên tắc chung là chọn điểm có người trông, có phát vé và nằm trên phố bạn đọc được tên rõ ràng. Với xe 50cc, thêm vài tiêu chí nhỏ nhưng quan trọng:
 
 - **Ưu tiên điểm trông xe có hàng lối rõ.** Nơi xếp xe theo dãy ít khi để chiếc xe nhẹ bị đẩy lệch hay kẹp giữa hai xe tay ga lớn.
-- **Chọn chỗ mặt đường bằng phẳng.** Vỉa hè dốc hoặc lát gạch lồi lõm dễ làm xe nhỏ đổ khi người khác dắt xe ra vào. Cách dựng chân chống trên nền yếu được nói trong bài [xe 50cc nhẹ dễ đổ khi dừng](/xe-may/2026/10/11/xe-50cc-nhe-de-o-khi-dung-chon-cho-o-chong-nghieng-va-chong-ung/).
+- **Chọn chỗ mặt đường bằng phẳng.** Vỉa hè dốc hoặc lát gạch lồi lõm dễ làm xe nhỏ đổ khi người khác dắt xe ra vào. Cách dựng chân chống trên nền yếu được nói trong bài [xe 50cc nhẹ dễ đổ khi dừng](/xe-may/2026/10/11/xe-50cc-nhe-de-do-khi-dung-chon-cho-do-chong-nghieng-va-chong-dung/).
 - **Không dừng tự phát dưới lòng đường.** Xe nhỏ để cạnh gốc cây trông không vướng ai, nhưng không được trông giữ và có thể bị xử lý vi phạm.
 - **Hỏi trước điểm đó trông đến mấy giờ đêm.** Mức gửi do từng điểm niêm yết, cứ hỏi thẳng và nhận vé rồi mới rời đi.
 

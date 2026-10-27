@@ -42,7 +42,7 @@ Yên xe để ngoài nắng chừng một giờ có thể nóng đến mức ng�
 1. **Che yên khi đỗ.** Một tấm khăn sáng màu hoặc áo mưa gấp gọn trùm lên yên đã giảm đáng kể độ nóng.
 2. **Dắt xe vào bóng râm vài phút trước khi đi.** Trong lúc chờ, mở cốp cho hơi nóng thoát ra.
 3. **Thử bằng mu bàn tay.** Chạm nhẹ vào yên và tay lái trước khi ngồi, nóng quá thì lót khăn.
-4. **Nhìn nhanh lốp và mức xăng.** Lốp non làm xe ì, máy càng phải gắng. Bình xăng xe 50cc nhỏ, đừng để phải dắt bộ giữa nắng, xem bài [đọc đồng hồ xăng xe 50cc](/xe-may/2026/10/11/xe-50cc-binh-xang-nho-oc-ong-ho-xang-o-khi-nao-va-het-xang-thi-lam-gi/).
+4. **Nhìn nhanh lốp và mức xăng.** Lốp non làm xe ì, máy càng phải gắng. Bình xăng xe 50cc nhỏ, đừng để phải dắt bộ giữa nắng, xem bài [đọc đồng hồ xăng xe 50cc](/xe-may/2026/10/11/xe-50cc-binh-xang-nho-doc-dong-ho-xang-do-khi-nao-va-het-xang-thi-lam-gi/).
 
 Đừng dội nước lạnh lên yên hay lên máy đang nóng. Nước sẽ thấm vào đệm, còn tạt nước lên máy nóng không phải cách làm mát hợp lý.
 
@@ -53,17 +53,17 @@ Phần lớn chuyện xe máy nóng máy giữa hè đến từ thói quen ga. V
 - **Giữ ga ổn định thay vì vặn hết rồi nhả.** Chạy ở tốc độ xe duy trì được dễ dàng thì máy đỡ nóng hơn lúc nào cũng ép kim lên mức cao nhất.
 - **Đi làn bên phải, không cố bám xe lớn.** Để xe 110cc vượt, bạn vừa an toàn vừa không phải ép máy.
 - **Khi đứng đèn đỏ lâu, cân nhắc tắt máy.** Ở những ngã tư chờ lâu như Ngã Tư Sở hay nút giao đầu cầu Chương Dương, tắt máy giúp động cơ không hầm thêm nhiệt.
-- **Lên dốc cầu thì lấy đà từ trước.** Tăng tốc nhẹ trước chân dốc, giữ ga đều khi lên. Bài [xe 50cc leo dốc cầu](/xe-may/2026/10/09/xe-50cc-thue-leo-doc-cau-dien-uoc-khong/) nói kỹ hơn về đoạn này.
+- **Lên dốc cầu thì lấy đà từ trước.** Tăng tốc nhẹ trước chân dốc, giữ ga đều khi lên. Bài [xe 50cc leo dốc cầu](/xe-may/2026/10/09/xe-50cc-thue-leo-doc-cau-dien-duoc-khong/) nói kỹ hơn về đoạn này.
 
-Nếu thấy xe yếu hẳn đi, có mùi khét lạ hoặc tiếng máy khác thường, hãy tấp vào chỗ mát và dừng hẳn. Dấu hiệu và cách để máy nguội an toàn có trong bài [xe máy nóng máy khi kẹt xe giữa trưa hè](/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-e-may-nguoi-an-toan/). Nếu xe vẫn không ổn sau khi nghỉ, hãy liên hệ tiệm để được hướng dẫn thay vì cố chạy tiếp.
+Nếu thấy xe yếu hẳn đi, có mùi khét lạ hoặc tiếng máy khác thường, hãy tấp vào chỗ mát và dừng hẳn. Dấu hiệu và cách để máy nguội an toàn có trong bài [xe máy nóng máy khi kẹt xe giữa trưa hè](/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-de-may-nguoi-an-toan/). Nếu xe vẫn không ổn sau khi nghỉ, hãy liên hệ tiệm để được hướng dẫn thay vì cố chạy tiếp.
 
 ## Đỗ xe dưới bóng râm và nhịp nghỉ cho người lẫn xe
 
 Chỗ đỗ quyết định chuyến về sẽ dễ chịu hay khổ sở. Khi gửi xe ở bãi quanh hồ Hoàn Kiếm hay hồ Tây, hãy hỏi người trông xe chỗ có mái che. Để ý hướng nắng: một góc đang râm lúc mười giờ có thể bị nắng chiếu thẳng lúc hai giờ chiều.
 
-Xe 50cc nhẹ nên dễ dắt vào khe nhỏ dưới mái hiên, nhưng cũng dễ bị xô đổ. Cách chọn chỗ dựng vững có trong bài [xe 50cc nhẹ dễ đổ khi dừng](/xe-may/2026/10/11/xe-50cc-nhe-de-o-khi-dung-chon-cho-o-chong-nghieng-va-chong-ung/).
+Xe 50cc nhẹ nên dễ dắt vào khe nhỏ dưới mái hiên, nhưng cũng dễ bị xô đổ. Cách chọn chỗ dựng vững có trong bài [xe 50cc nhẹ dễ đổ khi dừng](/xe-may/2026/10/11/xe-50cc-nhe-de-do-khi-dung-chon-cho-do-chong-nghieng-va-chong-dung/).
 
-Về nhịp nghỉ, một gợi ý thực tế cho ngày nắng là cứ chạy một chặng ngắn thì dừng ở chỗ râm vài phút, uống nước và để máy dịu lại. Với những vòng dạo quanh Tây Hồ, có sẵn nhiều điểm nghỉ ven hồ, xem cách chia chặng trong bài [chạy vòng Hồ Tây bằng xe 50cc](/xe-may/2026/10/11/chay-vong-ho-tay-bang-xe-50cc-bao-lau-nghi-o-au-oan-nao-nen-i-cham/). Lúc nghỉ, đừng ngồi ngay cạnh xe vừa tắt máy, và nhớ tránh để chân chạm vào ống xả.
+Về nhịp nghỉ, một gợi ý thực tế cho ngày nắng là cứ chạy một chặng ngắn thì dừng ở chỗ râm vài phút, uống nước và để máy dịu lại. Với những vòng dạo quanh Tây Hồ, có sẵn nhiều điểm nghỉ ven hồ, xem cách chia chặng trong bài [chạy vòng Hồ Tây bằng xe 50cc](/xe-may/2026/10/11/chay-vong-ho-tay-bang-xe-50cc-bao-lau-nghi-o-dau-doan-nao-nen-di-cham/). Lúc nghỉ, đừng ngồi ngay cạnh xe vừa tắt máy, và nhớ tránh để chân chạm vào ống xả.
 
 ## Giữ sức người lái: nước, trang phục và dấu hiệu say nắng
 
