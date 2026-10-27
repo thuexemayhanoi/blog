@@ -25,7 +25,7 @@ Vision là một trong những mẫu xe ga phổ biến nhất trên đường p
 - **Phụ tùng hao mòn thông dụng dễ kiếm.** Săm lốp, bóng đèn, bugi, má phanh của Vision thường có sẵn ở cửa hàng phụ tùng thị trấn, hoặc lấy được trong ngày.
 - **Bạn dễ mô tả lỗi.** Chỉ cần nói xe Vision đề không lên máy, thợ đã hình dung ngay các khả năng thường gặp.
 
-Lợi thế này giống với xe số phổ thông, như đã phân tích trong bài [vì sao ở đâu cũng có thợ sửa Wave](/xe-may/2026/10/11/vi-sao-o-au-cung-co-tho-sua-wave-loi-ich-khi-thue-xe-chay-xa/). Điểm khác là Vision là xe ga: bộ truyền động gồm dây curoa và bộ nồi nằm trong hộp kín bên hông, cần đồ nghề và kinh nghiệm riêng; một số phiên bản còn dùng khóa thông minh Smartkey. Vì thế, dễ tìm thợ chỉ đúng với các hỏng vặt bên ngoài, còn những phần nằm sâu thì không nên mở ra giữa đường.
+Lợi thế này giống với xe số phổ thông, như đã phân tích trong bài [vì sao ở đâu cũng có thợ sửa Wave](/xe-may/2026/10/11/vi-sao-o-dau-cung-co-tho-sua-wave-loi-ich-khi-thue-xe-chay-xa/). Điểm khác là Vision là xe ga: bộ truyền động gồm dây curoa và bộ nồi nằm trong hộp kín bên hông, cần đồ nghề và kinh nghiệm riêng; một số phiên bản còn dùng khóa thông minh Smartkey. Vì thế, dễ tìm thợ chỉ đúng với các hỏng vặt bên ngoài, còn những phần nằm sâu thì không nên mở ra giữa đường.
 
 ## Những hỏng vặt hay gặp với Vision trên đường xa
 
@@ -76,7 +76,7 @@ Nếu không có hóa đơn, ít nhất phải có ảnh và tên tiệm sửa.
 
 Một nhóm hai người thuê Vision lên Ba Vì, chiều về qua Sơn Tây thì lốp sau xẹp. Họ dắt xe vào một tiệm ven đường, thợ xem nhanh và nói lốp dính đinh, đề nghị thay lốp mới cho chắc. Thay vì gật đầu, một người gọi cho tiệm cho thuê, gửi ảnh vết thủng và ảnh mặt lốp. Hai bên thống nhất cách xử lý và ai trả qua điện thoại, rồi mới để thợ làm. Họ xin giấy ghi tay của thợ, chụp ảnh lốp sau khi xong, và về trả xe ở Long Biên trước giờ tiệm đóng cửa.
 
-Nếu sự cố nặng hơn, các bước xử lý theo thứ tự có trong bài [xe thuê bị hỏng giữa đường: xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/).
+Nếu sự cố nặng hơn, các bước xử lý theo thứ tự có trong bài [xe thuê bị hỏng giữa đường: xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-duong-xu-ly-tung-buoc/).
 
 ## Chuẩn bị trước khi chạy Vision ra ngoại thành
 

@@ -70,7 +70,7 @@ Trên Vision bản chìa cơ, yên không có ổ riêng ở đuôi xe như nhi�
 
 Lấy đồ xong, ấn yên xuống dứt khoát cho tới khi nghe tiếng cạch, rồi kéo thử mép yên. Việc quan trọng nhất lúc này là **rút chìa khỏi ổ ngay**. Mở yên xong, tay bận cầm áo mưa và mũ, rất dễ quên chiếc chìa vẫn đang cắm ở cổ xe. Ngược lại, đừng bao giờ thả chìa vào cốp rồi mới đóng yên, vì bản chìa cơ không có cách nào mở yên mà không có chìa.
 
-Cốp rộng tới đâu và nên để gì trong đó thì xem bài [cốp Honda Vision thuê chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-uoc-nhung-gi/).
+Cốp rộng tới đâu và nên để gì trong đó thì xem bài [cốp Honda Vision thuê chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-duoc-nhung-gi/).
 
 ## Thứ tự mỗi lần gửi xe ở phố cổ và chợ
 

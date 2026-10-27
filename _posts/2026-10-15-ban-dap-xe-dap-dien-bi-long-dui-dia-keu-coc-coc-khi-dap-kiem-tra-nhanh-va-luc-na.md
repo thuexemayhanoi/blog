@@ -25,7 +25,7 @@ Cụm truyền động bàn đạp trên xe đạp điện gồm ba phần chín
 - **Đùi đĩa (tay quay)**: thanh kim loại nối bàn đạp với trục giữa. Khi lỏng ở chỗ bắt vào trục, thường nghe tiếng "cộc" khô và đều, lặp lại đúng một hoặc hai lần mỗi vòng đạp, rõ nhất lúc đạp mạnh.
 - **Trục giữa (cốt giữa)**: ổ trục nằm trong khung. Khi có vấn đề, tiếng kêu nghe như từ trong lòng xe, kèm cảm giác lạo xạo hoặc nặng chân.
 
-Phân biệt sơ bộ với các tiếng khác cũng quan trọng. Tiếng phát ra khi xóc qua ổ gà mà không đạp thường đến từ giỏ, chắn bùn hay yên; bài [xe đạp điện có tiếng lạch cạch ở giỏ trước](/xe-may/2026/10/11/xe-ap-ien-co-tieng-lach-cach-o-gio-truoc-kiem-tra-gi/) nói riêng về loại này. Tiếng rít khi bóp phanh lại là chuyện của má phanh, xem bài [xe thuê bị phanh kêu](/xe-may/2026/10/04/xe-thue-bi-phanh-keu-nhan-biet-va-khi-nao-bao-cua-hang/).
+Phân biệt sơ bộ với các tiếng khác cũng quan trọng. Tiếng phát ra khi xóc qua ổ gà mà không đạp thường đến từ giỏ, chắn bùn hay yên; bài [xe đạp điện có tiếng lạch cạch ở giỏ trước](/xe-may/2026/10/11/xe-dap-dien-co-tieng-lach-cach-o-gio-truoc-kiem-tra-gi/) nói riêng về loại này. Tiếng rít khi bóp phanh lại là chuyện của má phanh, xem bài [xe thuê bị phanh kêu](/xe-may/2026/10/04/xe-thue-bi-phanh-keu-nhan-biet-va-khi-nao-bao-cua-hang/).
 
 ## Xe đạp điện kêu khi đạp: dừng lại trước khi kiểm tra
 

@@ -29,7 +29,7 @@ Honda Wave là xe số phổ thông, khung gọn, nhẹ, bánh nhỏ, nên trọ
 
 ### Xe Wave chịu tải bao nhiêu?
 
-Nhiều người tìm con số xe wave chịu tải bao nhiêu trước khi thuê. Bài này không đưa con số chung, vì mức tải phụ thuộc đời xe, tình trạng giảm xóc, lốp và tổng khối lượng người lẫn hành lý. Cách đúng là nói thật cân nặng của mình khi đặt xe để cửa hàng chọn chiếc phù hợp, kiểm tra trước và tư vấn trực tiếp. Nếu bạn cao to và băn khoăn thêm về tư thế ngồi, bài [người cao to đi Honda Wave có gò bó không](/xe-may/2026/10/11/nguoi-cao-to-i-honda-wave-ngoi-co-go-goi-co-vuong-tay-lai-khong/) nói kỹ về chỗ để chân và tay lái.
+Nhiều người tìm con số xe wave chịu tải bao nhiêu trước khi thuê. Bài này không đưa con số chung, vì mức tải phụ thuộc đời xe, tình trạng giảm xóc, lốp và tổng khối lượng người lẫn hành lý. Cách đúng là nói thật cân nặng của mình khi đặt xe để cửa hàng chọn chiếc phù hợp, kiểm tra trước và tư vấn trực tiếp. Nếu bạn cao to và băn khoăn thêm về tư thế ngồi, bài [người cao to đi Honda Wave có gò bó không](/xe-may/2026/10/11/nguoi-cao-to-di-honda-wave-ngoi-co-go-goi-co-vuong-tay-lai-khong/) nói kỹ về chỗ để chân và tay lái.
 
 ## Giảm xóc sau xe Wave bị lún: nhận biết ngay lúc nhận xe
 
@@ -39,7 +39,7 @@ Giảm xóc sau là bộ phận "chịu" cân nặng của người lái nhiều
 2. Ngồi lên xe ở tư thế lái bình thường, nhờ nhân viên nhìn lại khoảng cách đó.
 3. Nhún nhẹ người vài lần. Đuôi xe nên hạ xuống rồi trở lại nhanh, không nhún dập dềnh nhiều nhịp.
 
-Nếu xe lún sâu đến mức lốp gần chạm chắn bùn, hoặc đuôi xe nhún mãi mới dừng, hãy nói ngay với cửa hàng. Đó là dấu hiệu giảm xóc sau xe Wave bị lún so với cân nặng của bạn, hoặc giảm xóc đã yếu. Bài [giảm xóc xe máy yếu hoặc chảy dầu](/xe-may/2026/10/11/giam-xoc-xe-may-yeu-hoac-chay-dau-cach-tu-nhan-biet-truoc-khi-i-uong-xau/) có thêm cách nhìn vết dầu và nghe tiếng kêu.
+Nếu xe lún sâu đến mức lốp gần chạm chắn bùn, hoặc đuôi xe nhún mãi mới dừng, hãy nói ngay với cửa hàng. Đó là dấu hiệu giảm xóc sau xe Wave bị lún so với cân nặng của bạn, hoặc giảm xóc đã yếu. Bài [giảm xóc xe máy yếu hoặc chảy dầu](/xe-may/2026/10/11/giam-xoc-xe-may-yeu-hoac-chay-dau-cach-tu-nhan-biet-truoc-khi-di-duong-xau/) có thêm cách nhìn vết dầu và nghe tiếng kêu.
 
 ### Chỉnh nấc giảm xóc: để cửa hàng làm
 
@@ -78,7 +78,7 @@ Một vài lựa chọn hợp lý hơn:
 
 - Đi hai người: cân nhắc thuê hai xe, hoặc hỏi cửa hàng về một mẫu xe khác hợp hơn với tổng cân nặng.
 - Hành lý cồng kềnh: gửi lại chỗ ở, chỉ mang theo túi nhỏ đeo người hoặc buộc gọn.
-- Nếu bắt buộc chở người: xem lại [quy định chở người trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/), chạy chậm hơn bình thường và tránh các đoạn dốc dài.
+- Nếu bắt buộc chở người: xem lại [quy định chở người trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-dinh-hien-hanh/), chạy chậm hơn bình thường và tránh các đoạn dốc dài.
 
 Đừng để đồ nặng trên đuôi xe hoặc treo hai bên tay lái, vì xe sẽ lệch trọng tâm và khó giữ thăng bằng khi phanh.
 

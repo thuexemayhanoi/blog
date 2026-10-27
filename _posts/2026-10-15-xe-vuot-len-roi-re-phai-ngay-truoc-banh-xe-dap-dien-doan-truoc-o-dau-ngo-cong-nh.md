@@ -51,7 +51,7 @@ Phản xạ tốt nhất không phải là phanh gấp khi xe đã cắt mặt, 
 
 1. **Nhả ga trước mỗi lối rẽ có thể nhìn thấy.** Không cần dừng hẳn, chỉ cần chậm lại so với lúc đi trên đoạn thẳng không có lối rẽ.
 2. **Đặt ngón tay hờ lên tay phanh.** Thời gian di chuyển tay tới phanh bị cắt bớt. Lưu ý trên nhiều xe đạp điện, chạm tay phanh có thể ngắt điện motor; bài [tay phanh có công tắc ngắt điện](/xe-may/2026/10/15/tay-phanh-xe-dap-dien-co-cong-tac-ngat-dien-vi-sao-xe-hut-luc-khi-de-ngon-tay-ho/) giải thích cảm giác hụt lực này, và ở các đoạn nhiều lối rẽ đó lại là điều có lợi.
-3. **Bóp cả hai phanh đều tay.** Nếu phải dừng, bóp phanh sau trước một nhịp rồi tới phanh trước, tránh khóa bánh trước. Bài [bóp phanh nào trước khi có người băng ngang](/xe-may/2026/10/11/phanh-xe-ap-ien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/) đi sâu hơn vào kỹ thuật này.
+3. **Bóp cả hai phanh đều tay.** Nếu phải dừng, bóp phanh sau trước một nhịp rồi tới phanh trước, tránh khóa bánh trước. Bài [bóp phanh nào trước khi có người băng ngang](/xe-may/2026/10/11/phanh-xe-dap-dien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/) đi sâu hơn vào kỹ thuật này.
 
 ## Đọc xe vừa vượt: dấu hiệu sắp rẽ
 
@@ -68,7 +68,7 @@ Gặp bất kỳ dấu hiệu nào trong số này, hãy giảm tốc ngay để
 
 Nếu có thể, hãy nhìn vào gương chiếu hậu hoặc mặt người lái xe đang ở cạnh bạn. Khi hai bên chạm mắt, khả năng họ nhận ra bạn và chờ cao hơn nhiều. Nếu không bắt được ánh mắt, coi như họ chưa thấy bạn.
 
-Trước một lối rẽ có xe đang chuẩn bị vào, đừng cố lách lên đi song song bên phải chiếc xe đó. Hãy lùi lại phía sau hẳn, để họ rẽ xong rồi mới đi tiếp. Vị trí trong làn cũng quan trọng: đi quá sát mép khiến bạn khuất khỏi tầm nhìn của người lái phía trước. Bài [đi xe máy sát lề hay giữa làn](/ky-nang/2026/10/11/i-xe-may-sat-le-hay-giua-lan-chon-vi-tri-trong-lan-theo-tung-oan-uong/) phân tích cách chọn vị trí theo từng đoạn đường.
+Trước một lối rẽ có xe đang chuẩn bị vào, đừng cố lách lên đi song song bên phải chiếc xe đó. Hãy lùi lại phía sau hẳn, để họ rẽ xong rồi mới đi tiếp. Vị trí trong làn cũng quan trọng: đi quá sát mép khiến bạn khuất khỏi tầm nhìn của người lái phía trước. Bài [đi xe máy sát lề hay giữa làn](/ky-nang/2026/10/11/di-xe-may-sat-le-hay-giua-lan-chon-vi-tri-trong-lan-theo-tung-doan-duong/) phân tích cách chọn vị trí theo từng đoạn đường.
 
 Một tiếng còi ngắn khi thấy xe chuẩn bị rẽ mà chưa nhìn thấy bạn cũng giúp người lái chú ý. Không cần bấm dài hay tỏ ra bực bội.
 
@@ -80,7 +80,7 @@ Dù chuẩn bị tốt, đôi khi vẫn có xe rẽ quá gấp. Lúc đó:
 - **Dừng hẳn nếu cần.** Chống chân xuống, chờ xe kia vào hết rồi mới đi tiếp.
 - **Bình tĩnh, không đuổi theo tranh luận.** Việc quan trọng là bạn an toàn, chứ không phải ai đúng ai sai.
 
-Sau một lần bị cắt mặt, nên dừng nghỉ một chút ở chỗ rộng để bình tĩnh lại. Nhiều người sau cú giật mình hay đi quá dè dặt hoặc ngược lại quá vội. Nếu cũng cần ra từ ngõ vào đường lớn, bài [ra từ ngõ nhỏ vào đường lớn](/ky-nang/2026/10/10/ra-tu-ngo-nho-vao-uong-lon-quan-sat-va-nhac-nhanh/) nhắc cách quan sát từ phía người đang rẽ.
+Sau một lần bị cắt mặt, nên dừng nghỉ một chút ở chỗ rộng để bình tĩnh lại. Nhiều người sau cú giật mình hay đi quá dè dặt hoặc ngược lại quá vội. Nếu cũng cần ra từ ngõ vào đường lớn, bài [ra từ ngõ nhỏ vào đường lớn](/ky-nang/2026/10/10/ra-tu-ngo-nho-vao-duong-lon-quan-sat-va-nhac-nhanh/) nhắc cách quan sát từ phía người đang rẽ.
 
 ## Tóm lại
 

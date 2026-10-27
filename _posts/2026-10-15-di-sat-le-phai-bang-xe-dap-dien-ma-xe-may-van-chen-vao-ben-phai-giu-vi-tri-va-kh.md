@@ -39,13 +39,13 @@ Một vài nguyên tắc dễ nhớ khi đi trên các trục đông:
 2. **Tránh xa phần mép có nắp cống, mép nhựa bong và rãnh thoát nước.** Đó là khu vực bạn không muốn bị dồn vào nhất, nên đừng chủ động đi trên nó.
 3. **Giữ vị trí ổn định khi dừng đèn đỏ.** Khi dừng ở ngã tư Tây Sơn – Thái Hà, đừng nép hẳn vào vỉa hè. Khoảng cách vừa phải giúp bạn khởi hành mà không bị xe bên phải ép tạt ngang.
 
-Bài [đi xe máy sát lề hay giữa làn](/ky-nang/2026/10/11/i-xe-may-sat-le-hay-giua-lan-chon-vi-tri-trong-lan-theo-tung-oan-uong/) nói kỹ hơn về chọn vị trí trong làn theo từng đoạn đường; với xe đạp điện, nguyên tắc tương tự nhưng biên độ nhỏ hơn vì xe nhẹ và chậm hơn.
+Bài [đi xe máy sát lề hay giữa làn](/ky-nang/2026/10/11/di-xe-may-sat-le-hay-giua-lan-chon-vi-tri-trong-lan-theo-tung-doan-duong/) nói kỹ hơn về chọn vị trí trong làn theo từng đoạn đường; với xe đạp điện, nguyên tắc tương tự nhưng biên độ nhỏ hơn vì xe nhẹ và chậm hơn.
 
 ## Đọc trước những đoạn hay bị ép vào lề
 
 Phần lớn các lần bị ép lề khi đi xe đạp điện không xảy ra ngẫu nhiên. Chúng tập trung ở vài kiểu đoạn đường mà bạn có thể đoán trước:
 
-- **Trước điểm dừng xe buýt.** Xe buýt tấp vào, xe máy phía sau dạt sang phải để tránh, và bạn bị kẹp giữa. Khi thấy biển điểm dừng phía trước, giảm tốc sớm. Bài [xe buýt dừng đón khách: vượt hay chờ](/ky-nang/2026/10/04/xe-buyt-dung-on-khach-vuot-hay-cho/) mô tả cách chọn lúc rõ hơn.
+- **Trước điểm dừng xe buýt.** Xe buýt tấp vào, xe máy phía sau dạt sang phải để tránh, và bạn bị kẹp giữa. Khi thấy biển điểm dừng phía trước, giảm tốc sớm. Bài [xe buýt dừng đón khách: vượt hay chờ](/ky-nang/2026/10/04/xe-buyt-dung-don-khach-vuot-hay-cho/) mô tả cách chọn lúc rõ hơn.
 - **Đoạn có xe đỗ dọc mép đường.** Taxi, xe giao hàng, xe chở hàng dừng sát lề buộc bạn phải ra giữa. Đây là lúc dễ có người chen bên phải ngay sau khi bạn vượt xong chiếc xe đỗ.
 - **Chỗ đường thu hẹp hoặc có rào chắn công trình.** Làn xe hẹp lại đột ngột, ai cũng tìm khe, nên bạn càng cần giữ đường đi rõ ràng.
 - **Sát ngã tư khi đèn sắp chuyển.** Xe máy muốn rẽ phải sớm thường lách vào sát lề để chiếm vị trí đầu.
@@ -66,7 +66,7 @@ Dù giữ vị trí tốt, thỉnh thoảng vẫn có người chen. Điều qua
 
 Giữ vị trí không có nghĩa là cố thủ. Trước mỗi đoạn bạn biết là hẹp, liếc gương hoặc ngoái nhanh để xem phía sau bên phải có ai đang áp sát không. Nếu có, hãy giảm tốc cho họ đi trước khi bạn vào đoạn hẹp, thay vì để cả hai cùng chen vào một khe.
 
-Ở những đoạn quá đông, như dốc lên cầu vượt hay đoạn Xã Đàn gần các ngã ba lớn giờ cao điểm, có khi lựa chọn tốt nhất là tấp vào một khoảng rộng, đứng chờ dòng xe thưa bớt rồi đi tiếp. Nếu thường xuyên phải đi giờ đông, bài [Hà Nội giờ cao điểm: đạp xe điện lúc nào, đường nào đỡ tắc](/xe-may/2026/10/11/ha-noi-gio-cao-iem-ap-xe-ien-luc-nao-uong-nao-o-tac/) gợi ý cách chọn giờ và tuyến đường.
+Ở những đoạn quá đông, như dốc lên cầu vượt hay đoạn Xã Đàn gần các ngã ba lớn giờ cao điểm, có khi lựa chọn tốt nhất là tấp vào một khoảng rộng, đứng chờ dòng xe thưa bớt rồi đi tiếp. Nếu thường xuyên phải đi giờ đông, bài [Hà Nội giờ cao điểm: đạp xe điện lúc nào, đường nào đỡ tắc](/xe-may/2026/10/11/ha-noi-gio-cao-diem-dap-xe-dien-luc-nao-duong-nao-do-tac/) gợi ý cách chọn giờ và tuyến đường.
 
 Khi cần lượn ra để tránh chướng ngại, bật xi nhan và giơ tay sớm để người phía sau biết.
 

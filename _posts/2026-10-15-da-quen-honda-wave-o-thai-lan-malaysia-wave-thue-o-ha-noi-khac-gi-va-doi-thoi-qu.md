@@ -71,7 +71,7 @@ Khi muốn vượt, hãy vượt bên trái xe phía trước. Trong thực tế
 - **Buổi thứ hai:** qua cầu Chương Dương sang Hoàn Kiếm vào khung giữa buổi sáng, đi những trục rộng trước khi vào ngõ nhỏ.
 - **Sau đó:** khi đã không còn phải nghĩ về chiều đường, mới đi tới các khu như Tây Hồ hay ra các cung đường xa.
 
-Về giấy phép lái xe, quy định cho người nước ngoài phụ thuộc vào loại giấy phép bạn đang có, nên hãy tìm hiểu trước chuyến đi và hỏi rõ cửa hàng khi đặt xe. Bài [người nước ngoài dùng bằng lái nước ngoài có đi xe được không](/hoi-dap/2026/09/29/nguoi-nuoc-ngoai-bang-lai-nuoc-ngoai-i-xe-uoc-khong/) là điểm bắt đầu tốt. Nếu là lần đầu chạy xe số ở phố cổ, xem thêm [làm quen Honda Wave trước khi ra đường lớn](/xe-may/2026/10/14/khach-nuoc-ngoai-thue-honda-wave-o-pho-co-lam-quen-xe-so-truoc-khi-ra-duong-lon/).
+Về giấy phép lái xe, quy định cho người nước ngoài phụ thuộc vào loại giấy phép bạn đang có, nên hãy tìm hiểu trước chuyến đi và hỏi rõ cửa hàng khi đặt xe. Bài [người nước ngoài dùng bằng lái nước ngoài có đi xe được không](/hoi-dap/2026/09/29/nguoi-nuoc-ngoai-bang-lai-nuoc-ngoai-di-xe-duoc-khong/) là điểm bắt đầu tốt. Nếu là lần đầu chạy xe số ở phố cổ, xem thêm [làm quen Honda Wave trước khi ra đường lớn](/xe-may/2026/10/14/khach-nuoc-ngoai-thue-honda-wave-o-pho-co-lam-quen-xe-so-truoc-khi-ra-duong-lon/).
 
 ## Lời kết
 

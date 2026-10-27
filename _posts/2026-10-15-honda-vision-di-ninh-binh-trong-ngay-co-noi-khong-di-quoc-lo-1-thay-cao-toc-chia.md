@@ -33,7 +33,7 @@ Nếu bạn còn cân nhắc giữa Vision và một xe khác cho chuyến này,
 
 ## Xe máy đi Ninh Bình đường nào: quốc lộ 1 qua Phủ Lý
 
-Điều phải nhớ trước mọi thứ: **cao tốc Pháp Vân – Cầu Giẽ – Ninh Bình cấm xe máy**. Vision hay bất kỳ xe máy nào cũng không được đi vào, kể cả khi ứng dụng bản đồ gợi ý vì đó là đường ngắn nhất. Quy định này được giải thích trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Điều phải nhớ trước mọi thứ: **cao tốc Pháp Vân – Cầu Giẽ – Ninh Bình cấm xe máy**. Vision hay bất kỳ xe máy nào cũng không được đi vào, kể cả khi ứng dụng bản đồ gợi ý vì đó là đường ngắn nhất. Quy định này được giải thích trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 Tuyến cho xe máy là quốc lộ 1. Từ nội thành, bạn ra đường Giải Phóng, qua Ngọc Hồi, Thường Tín, Phú Xuyên, rồi đi tiếp qua Phủ Lý để vào Ninh Bình. Nếu nhận xe ở phía Long Biên, qua sông bằng cầu Vĩnh Tuy hoặc cầu Chương Dương; không đi cầu Thanh Trì vì cầu này cấm xe máy.
 
@@ -51,7 +51,7 @@ Với Vision, nhịp nghỉ đều quan trọng hơn tốc độ. Một cách ch
 2. **Chặng hai, tới Phủ Lý.** Đường mở hơn nhưng xe khách chạy nhanh. Tới quanh Phủ Lý thì nghỉ lâu hơn một chút ở quán nước có chỗ dựng xe trong bóng râm, tắt máy cho máy nguội bớt.
 3. **Chặng ba, vào Ninh Bình.** Đổ xăng thêm một lần trước khi vào khu tham quan để chiều về không phải lo kim xăng. Tới nơi thì gửi xe ở bãi có người trông, nhớ giữ vé và chụp lại vị trí xe trong bãi.
 
-Chọn điểm dừng có lề rộng, dễ dắt xe vào ra, tránh dừng ngay mép đường nơi xe tải đang chạy. Nếu đi nhiều xe, hẹn trước tên cây xăng hay quán nước sẽ dừng, để người đi chậm không phải đuổi theo. Cách canh kim xăng trên xe này có trong bài [canh kim xăng Honda Vision](/xe-may/2026/10/11/canh-kim-xang-honda-vision-ghe-cay-xang-luc-nao-e-khong-chet-may-giua-uong/).
+Chọn điểm dừng có lề rộng, dễ dắt xe vào ra, tránh dừng ngay mép đường nơi xe tải đang chạy. Nếu đi nhiều xe, hẹn trước tên cây xăng hay quán nước sẽ dừng, để người đi chậm không phải đuổi theo. Cách canh kim xăng trên xe này có trong bài [canh kim xăng Honda Vision](/xe-may/2026/10/11/canh-kim-xang-honda-vision-ghe-cay-xang-luc-nao-de-khong-chet-may-giua-duong/).
 
 ## Trước khi đi: kiểm tra xe và báo cửa hàng
 

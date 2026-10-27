@@ -65,7 +65,7 @@ Cách giảm mệt khi chọn hai xe: nghỉ sau mỗi chặng khoảng một ti
 
 Cả nhóm cần thống nhất đường đi từ trước, vì ứng dụng chỉ đường đôi khi gợi ý tuyến dành cho ô tô:
 
-1. **Không đi cao tốc.** Xe máy không được vào đường cao tốc, kể cả khi bản đồ vẽ đó là đường ngắn nhất. Xem thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+1. **Không đi cao tốc.** Xe máy không được vào đường cao tốc, kể cả khi bản đồ vẽ đó là đường ngắn nhất. Xem thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 2. **Cầu Thanh Trì và đường Vành đai 3 trên cao cấm xe máy.** Nhóm đi từ phía Long Biên sang bờ bên kia nên chọn cầu Long Biên, Chương Dương, Vĩnh Tuy, Nhật Tân hoặc tầng dưới cầu Thăng Long.
 3. **Chọn chế độ chỉ đường cho xe máy** trên Google Maps và xem trước toàn tuyến.
 
@@ -85,6 +85,6 @@ Trước khi gọi đặt xe, cả nhóm trả lời nhanh ba câu:
 - **Lịch trình có nhiều dốc dài không?** Có thì nghiêng về bốn xe, không thì hai xe là đủ.
 - **Nhóm muốn đi nhàn hay muốn tiết kiệm?** Độ thoải mái lúc chiều về khác rõ.
 
-Nếu chỉ có hai người trong nhóm, cách cân nhắc tương tự nhưng gọn hơn nằm trong bài [hai người đi chơi: thuê một xe chung hay hai xe riêng](/hoi-dap/2026/10/11/hai-nguoi-i-choi-thue-mot-xe-chung-hay-hai-xe-rieng-cho-thoai-mai/).
+Nếu chỉ có hai người trong nhóm, cách cân nhắc tương tự nhưng gọn hơn nằm trong bài [hai người đi chơi: thuê một xe chung hay hai xe riêng](/hoi-dap/2026/10/11/hai-nguoi-di-choi-thue-mot-xe-chung-hay-hai-xe-rieng-cho-thoai-mai/).
 
 Tóm lại, hai chiếc Wave chở đôi hợp với nhóm chỉ có hai người lái, đi đường bằng và muốn gọn chi phí; bốn chiếc đi riêng hợp với nhóm cả bốn đều lái vững và lịch trình nhiều dốc. Đọc thêm về dòng xe này ở mục [Honda Wave](/xe-may/honda-wave/), hoặc so sánh các mẫu khác trong chuyên mục [xe máy](/xe-may/).

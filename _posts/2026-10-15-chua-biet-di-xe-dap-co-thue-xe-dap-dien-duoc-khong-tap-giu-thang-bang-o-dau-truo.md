@@ -27,7 +27,7 @@ Có ba lý do khiến xe đạp điện khó hơn với người mới tinh:
 - **Xe có thể chạy khi không đạp.** Nhiều mẫu xe đạp điện ở Việt Nam có tay ga. Người đang hoảng hay nắm chặt tay lái, vô tình vặn ga, xe vọt lên đúng lúc cần dừng.
 - **Phố Hà Nội không cho thời gian để lúng túng.** Trên những trục như Nguyễn Văn Cừ ở Long Biên hay quanh Hồ Gươm ở Hoàn Kiếm, xe máy đi sát hai bên, người đi bộ băng ngang bất ngờ.
 
-Vì vậy lời khuyên của tiệm là: hãy tập xe đạp thường cho vững trước, rồi mới làm quen xe đạp điện, và không ra phố đông khi chưa tự giữ được thăng bằng. Bài [người chưa từng lái xe có được thuê xe máy không](/hoi-dap/2026/10/07/nguoi-chua-tung-lai-xe-co-uoc-thue-xe-may-khong/) cũng đi theo đúng tinh thần đó cho xe máy.
+Vì vậy lời khuyên của tiệm là: hãy tập xe đạp thường cho vững trước, rồi mới làm quen xe đạp điện, và không ra phố đông khi chưa tự giữ được thăng bằng. Bài [người chưa từng lái xe có được thuê xe máy không](/hoi-dap/2026/10/07/nguoi-chua-tung-lai-xe-co-duoc-thue-xe-may-khong/) cũng đi theo đúng tinh thần đó cho xe máy.
 
 ## Tập với xe đạp thường trước: học ba việc cơ bản
 
@@ -57,7 +57,7 @@ Chọn giờ vắng: sáng sớm, trưa hoặc chiều tối ngày thường tù
 
 Đồ cần có khi tập:
 
-- **Mũ bảo hiểm cài quai ngay từ buổi đầu**, kể cả khi chỉ tập trong sân. Ngã lúc mới học thường là ngã chậm nhưng đầu vẫn có thể đập xuống nền cứng. Thói quen đội mũ cũng nên giữ khi đã đi được xe, xem thêm bài [xe đạp điện thuê có cần đội mũ bảo hiểm không](/xe-may/2026/10/09/xe-ap-ien-thue-co-can-oi-mu-bao-hiem-khong/).
+- **Mũ bảo hiểm cài quai ngay từ buổi đầu**, kể cả khi chỉ tập trong sân. Ngã lúc mới học thường là ngã chậm nhưng đầu vẫn có thể đập xuống nền cứng. Thói quen đội mũ cũng nên giữ khi đã đi được xe, xem thêm bài [xe đạp điện thuê có cần đội mũ bảo hiểm không](/xe-may/2026/10/09/xe-dap-dien-thue-co-can-doi-mu-bao-hiem-khong/).
 - **Giày đế bám, buộc dây gọn.** Không đi dép lê vì dễ tuột khi chống chân.
 
 ## Chuyển sang xe đạp điện: làm quen ở chỗ vắng trước
@@ -72,7 +72,7 @@ Chỉ ra phố khi bạn tự tin dừng xe đột ngột mà không lảo đả
 
 ## Khi nào nên chọn cách đi lại khác
 
-Không phải ai cũng cần học đi xe để đi lại ở Hà Nội. Nếu bạn chỉ ở vài ngày, chưa có thời gian tập, hoặc tập rồi mà vẫn thấy sợ khi xe nghiêng, thì đi bộ, xe buýt, taxi hay xe ôm công nghệ là lựa chọn an toàn và hợp lý hơn. Đi một vòng phố cổ bằng xe đạp điện có thú vị không còn tùy người, bài [thuê xe đạp điện đi phố cổ có tiện không](/xe-may/2026/10/10/thue-xe-ap-ien-i-pho-co-co-tien-khong/) phân tích kỹ phần này.
+Không phải ai cũng cần học đi xe để đi lại ở Hà Nội. Nếu bạn chỉ ở vài ngày, chưa có thời gian tập, hoặc tập rồi mà vẫn thấy sợ khi xe nghiêng, thì đi bộ, xe buýt, taxi hay xe ôm công nghệ là lựa chọn an toàn và hợp lý hơn. Đi một vòng phố cổ bằng xe đạp điện có thú vị không còn tùy người, bài [thuê xe đạp điện đi phố cổ có tiện không](/xe-may/2026/10/10/thue-xe-dap-dien-di-pho-co-co-tien-khong/) phân tích kỹ phần này.
 
 Nếu muốn thử khi đã tập vững, bạn có thể hỏi tiệm tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00. Giá thuê xe đạp điện vui lòng liên hệ để được báo cụ thể. Cứ nói thật là mình mới tập để được hướng dẫn kỹ.
 

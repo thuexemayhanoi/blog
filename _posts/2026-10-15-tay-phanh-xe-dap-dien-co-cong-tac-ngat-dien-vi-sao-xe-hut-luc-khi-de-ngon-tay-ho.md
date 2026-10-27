@@ -46,7 +46,7 @@ Mục tiêu là sẵn sàng phanh nhưng không làm tay phanh nhúc nhích. Cá
 3. **Cổ tay thẳng, khuỷu tay hơi chùng.** Cổ tay gập xuống là ngón tay tự nhiên đè lên tay phanh.
 4. **Đường thoáng thì rút ngón về tay nắm.** Trên đoạn rộng, vắng như đường Thanh Niên buổi trưa, không cần đặt sẵn ngón trên tay phanh. Gần ngã tư, đầu ngõ, chỗ đông người mới đưa ngón ra.
 
-Mùa đông đeo găng dày, cảm giác ngón tay kém hẳn, rất dễ đè phanh mà không biết. Nếu đeo găng, thử vài lần ở chỗ vắng để quen lực tay trước khi ra phố. Khi cần phanh thật, cách bóp phanh trước sau cho êm có trong bài [phanh xe đạp điện êm khi có người băng ngang](/xe-may/2026/10/11/phanh-xe-ap-ien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/).
+Mùa đông đeo găng dày, cảm giác ngón tay kém hẳn, rất dễ đè phanh mà không biết. Nếu đeo găng, thử vài lần ở chỗ vắng để quen lực tay trước khi ra phố. Khi cần phanh thật, cách bóp phanh trước sau cho êm có trong bài [phanh xe đạp điện êm khi có người băng ngang](/xe-may/2026/10/11/phanh-xe-dap-dien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/).
 
 ## Tự kiểm tra: do ngón tay hay tay phanh không nhả hết
 
@@ -67,7 +67,7 @@ Vài phút kiểm tra lúc nhận xe giúp bạn biết chiếc xe mình đang �
 - Nhả tay phanh ra hết. Motor phải kéo lại bình thường, tay phanh tự bật về chỗ cũ.
 - Hỏi người giao xe bên nào có công tắc, nhất là khi xe chỉ có một bên.
 
-Các bước kiểm tra khác khi thuê có trong bài [thuê xe đạp điện ở Hà Nội lưu ý gì](/xe-may/2026/10/07/thue-xe-ap-ien-o-ha-noi-luu-y-gi/).
+Các bước kiểm tra khác khi thuê có trong bài [thuê xe đạp điện ở Hà Nội lưu ý gì](/xe-may/2026/10/07/thue-xe-dap-dien-o-ha-noi-luu-y-gi/).
 
 ## Khi nào nên báo chủ xe kiểm tra
 

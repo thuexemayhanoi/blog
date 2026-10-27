@@ -64,7 +64,7 @@ Bạn không cần thuê thêm nếu:
 - Bạn chưa từng đi xe số và không có thời gian tập. Lúc đó, đi chiếc xe ga quen tay, kiểm tra kỹ phanh, lốp, chạy chậm và phanh ngắt quãng khi xuống dốc là lựa chọn an toàn hơn.
 - Bạn mang nhiều hành lý mà không có cách buộc gọn trên xe số.
 
-Thêm một điểm cần nói rõ: nếu đi xe ga lên núi, đừng giữ phanh liên tục suốt dốc dài; giảm tốc trước dốc, phanh từng nhịp, và dừng nghỉ cho phanh nguội. Những lưu ý riêng cho xe ga trên cung khó có ở bài [xe ga đi được Hà Giang không](/cung-duong/2026/09/28/xe-ga-i-uoc-ha-giang-khong/).
+Thêm một điểm cần nói rõ: nếu đi xe ga lên núi, đừng giữ phanh liên tục suốt dốc dài; giảm tốc trước dốc, phanh từng nhịp, và dừng nghỉ cho phanh nguội. Những lưu ý riêng cho xe ga trên cung khó có ở bài [xe ga đi được Hà Giang không](/cung-duong/2026/09/28/xe-ga-di-duoc-ha-giang-khong/).
 
 ## Thuê Wave cho chuyến đi núi: giá và thủ tục cần biết
 

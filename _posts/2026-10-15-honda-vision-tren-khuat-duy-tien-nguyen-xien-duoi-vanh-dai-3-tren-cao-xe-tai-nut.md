@@ -51,7 +51,7 @@ Cách đi an toàn bên cạnh xe lớn:
 3. **Giữ cự ly phía sau đủ xa** để nhìn được qua cạnh thùng xe và kịp phanh.
 4. **Cẩn thận gió hút.** Khi container vượt qua, luồng gió đẩy rồi hút chiếc xe ga nhẹ. Giữ tay lái chắc, không giật ga hay phanh gấp.
 
-Nếu bị kẹp giữa hai xe lớn khi dừng đèn đỏ, xem thêm cách chọn chỗ đứng trong bài [bị kẹp giữa xe tải tại đèn đỏ](/ky-nang/2026/10/11/bi-kep-giua-xe-tai-tai-en-o-at-xe-o-au-cho-an-toan/).
+Nếu bị kẹp giữa hai xe lớn khi dừng đèn đỏ, xem thêm cách chọn chỗ đứng trong bài [bị kẹp giữa xe tải tại đèn đỏ](/ky-nang/2026/10/11/bi-kep-giua-xe-tai-tai-den-do-dat-xe-o-dau-cho-an-toan/).
 
 ## Qua nút giao Lê Văn Lương và Nguyễn Trãi
 

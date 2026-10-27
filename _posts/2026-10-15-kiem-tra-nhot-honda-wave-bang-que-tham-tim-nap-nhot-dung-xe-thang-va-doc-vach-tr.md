@@ -27,7 +27,7 @@ Những lúc nên kiểm tra:
 - Khi thuê dài ngày, mỗi tuần nhìn một lần.
 - Khi thấy vệt dầu dưới chỗ đỗ, máy kêu khác thường hoặc có mùi khét.
 
-Nếu bạn muốn một danh sách kiểm tra rộng hơn cho chuyến xa, bài [tự kiểm tra nhớt xe thuê trước chuyến đi xa](/xe-may/2026/10/10/tu-kiem-tra-nhot-xe-thue-truoc-chuyen-i-xa/) nói thêm về màu nhớt và cách hỏi lịch thay. Bài này chỉ tập trung vào thao tác với que thăm trên Honda Wave.
+Nếu bạn muốn một danh sách kiểm tra rộng hơn cho chuyến xa, bài [tự kiểm tra nhớt xe thuê trước chuyến đi xa](/xe-may/2026/10/10/tu-kiem-tra-nhot-xe-thue-truoc-chuyen-di-xa/) nói thêm về màu nhớt và cách hỏi lịch thay. Bài này chỉ tập trung vào thao tác với que thăm trên Honda Wave.
 
 ## Bước một: tìm nắp nhớt và que thăm nhớt xe Wave
 

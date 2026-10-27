@@ -68,7 +68,7 @@ Phòng khách tầng trệt của nhà ống thường vừa là lối đi, vừ
 - **Xếp sát tường, để bên trái quay vào tường.** Khi đó ống xả hướng ra lối đi, nên nhớ chừa khoảng trống; chủ nhà muốn xếp khác thì cứ theo cách của nhà.
 - **Không dựa xe vào tường.** Gương chạm tường dễ làm trầy cả xe lẫn sơn.
 
-- **Khóa cổ.** Bẻ lái hết sang một bên, xoay chìa sang vị trí khóa cổ, rút chìa mang theo. Có thêm ổ khóa đĩa thì càng yên tâm, xem các cách khóa trong bài [chống trộm xe máy khi thuê](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/).
+- **Khóa cổ.** Bẻ lái hết sang một bên, xoay chìa sang vị trí khóa cổ, rút chìa mang theo. Có thêm ổ khóa đĩa thì càng yên tâm, xem các cách khóa trong bài [chống trộm xe máy khi thuê](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/).
 - **Không để đồ trong giỏ hay móc xe.** Mang mũ bảo hiểm, áo mưa và túi lên phòng.
 
 Sáng hôm sau, quy trình đảo ngược: mở khóa cổ, gạt chân chống, kiểm tra vẫn ở số N, dắt xe xuống tấm dắt chậm rãi, bóp phanh trước để giữ tốc độ, rồi mới nổ máy ngoài vỉa hè. Cách quay đầu xe trong không gian hẹp để sáng ra dắt thuận hơn có trong bài [dắt xe máy bằng tay khi tắt máy](/ky-nang/2026/10/15/dat-xe-may-bang-tay-khi-tat-may-dat-qua-cua-hep-quay-xe-trong-nha-va-len-bac/).

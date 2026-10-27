@@ -19,7 +19,7 @@ Nhiều phụ huynh thuê xe số để đưa đón con trong lúc ở Hà Nội
 
 ## Chở trẻ nhỏ bằng xe Wave: điểm khác với xe ga
 
-Nếu bạn đang phân vân giữa hai loại xe, bài [chở con nhỏ bằng xe máy thuê: chọn xe ga hay xe số](/hoi-dap/2026/10/11/cho-con-nho-bang-xe-may-thue-chon-xe-ga-hay-xe-so-cho-o-lo/) là bước đầu. Riêng với Wave, có mấy điểm cần để ý:
+Nếu bạn đang phân vân giữa hai loại xe, bài [chở con nhỏ bằng xe máy thuê: chọn xe ga hay xe số](/hoi-dap/2026/10/11/cho-con-nho-bang-xe-may-thue-chon-xe-ga-hay-xe-so-cho-do-lo/) là bước đầu. Riêng với Wave, có mấy điểm cần để ý:
 
 - **Không có sàn phẳng phía trước.** Bé không có chỗ đứng hay ngồi ở phía trước nếu không có ghế chuyên dụng. Đừng để bé ngồi vắt trên khung xe hay bình xăng.
 - **Gác chân sau nằm gần bánh xe.** Chân trẻ ngắn, dễ buông thõng và quờ vào bánh sau. Những ca chân bé bị kẹp vào nan hoa xe số được nói kỹ trong bài [chân trẻ nhỏ ngồi sau bị kẹp vào nan hoa](/thue-xe/2026/10/15/chan-tre-nho-ngoi-sau-bi-kep-vao-nan-hoa-xe-so-thue-dung-ngay-so-cuu-va-cach-pho/).
@@ -61,7 +61,7 @@ Mũ người lớn đội cho bé sẽ xoay, trùm mắt, văng ra khi xe xóc. 
 3. **Quai cằm luồn vừa một ngón tay người lớn.** Quai lỏng thì mũ tuột khi bé ngủ gật.
 4. **Vỏ mũ không nứt**, lớp xốp bên trong không bị bóp méo.
 
-Khi đặt xe, hỏi cửa hàng có mũ trẻ em vừa cỡ không. Nếu thuê dài ngày, mua riêng cho con một chiếc là đáng. Cách chọn cỡ mũ có trong bài [chọn mũ bảo hiểm cho trẻ đi cùng trên xe máy thuê](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-i-cung-tren-xe-may-thue/).
+Khi đặt xe, hỏi cửa hàng có mũ trẻ em vừa cỡ không. Nếu thuê dài ngày, mua riêng cho con một chiếc là đáng. Cách chọn cỡ mũ có trong bài [chọn mũ bảo hiểm cho trẻ đi cùng trên xe máy thuê](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-di-cung-tren-xe-may-thue/).
 
 ## Tốc độ, sang số và phanh khi có bé trên Wave
 

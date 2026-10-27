@@ -34,7 +34,7 @@ Khi nhận xe ở cửa hàng, ngồi lên yên, nhìn vào gương và tự h�
 
 Nếu gương lệch, lỏng hoặc quá nhỏ, cứ hỏi cửa hàng xem có chỉnh lại được không, hoặc có lắp thêm gương cho chiếc xe bạn thuê không. Chuyện xe đạp điện có buộc phải có gương hay không là việc bạn nên tự kiểm tra theo quy định hiện hành; còn về mặt an toàn, có thêm một chiếc gương chỉnh đúng luôn tốt hơn là không có.
 
-Cách chỉnh gương chi tiết có trong bài [chuyển làn an toàn khi đi xe máy: gương, xi nhan, vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-i-xe-may-guong-xi-nhan-vai/), áp dụng được cho cả xe đạp điện. Dù vậy, gương nhỏ vẫn có điểm mù lớn, nên kỹ năng ngoái nhìn vẫn cần thiết.
+Cách chỉnh gương chi tiết có trong bài [chuyển làn an toàn khi đi xe máy: gương, xi nhan, vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-di-xe-may-guong-xi-nhan-vai/), áp dụng được cho cả xe đạp điện. Dù vậy, gương nhỏ vẫn có điểm mù lớn, nên kỹ năng ngoái nhìn vẫn cần thiết.
 
 ## Ngoái đầu khi đi xe đạp mà tay lái vẫn thẳng
 
@@ -69,7 +69,7 @@ Nếu lần nhìn cuối thấy có xe sát phía sau, cứ chờ. Dừng hẳn 
 
 Bạn đi dọc Nguyễn Văn Cừ hướng về cầu Chương Dương, phía trước có chiếc xe tải nhỏ đỗ sát lề bốc hàng. Từ xa, bạn ngừng đạp cho xe chậm lại, ngoái một lần thấy hai xe máy đang đến gần. Bạn đi chậm hẳn, chờ hai xe qua, ngoái thêm lần nữa thấy trống, đưa tay trái ra hiệu, rồi mới tách ra vòng qua xe tải và trở lại sát lề ngay sau đó.
 
-Rẽ trái là tình huống khó hơn vì bạn phải cắt qua dòng xe. Bài [rẽ trái giữa dòng xe máy đông bằng xe đạp điện](/xe-may/2026/10/11/re-trai-giua-dong-xe-may-ong-bang-xe-ap-ien-quan-sat-ra-hieu-chon-luc/) nói riêng về cách chọn lúc và chọn chỗ để rẽ.
+Rẽ trái là tình huống khó hơn vì bạn phải cắt qua dòng xe. Bài [rẽ trái giữa dòng xe máy đông bằng xe đạp điện](/xe-may/2026/10/11/re-trai-giua-dong-xe-may-dong-bang-xe-dap-dien-quan-sat-ra-hieu-chon-luc/) nói riêng về cách chọn lúc và chọn chỗ để rẽ.
 
 ## Những lúc không nên ngoái nhìn
 

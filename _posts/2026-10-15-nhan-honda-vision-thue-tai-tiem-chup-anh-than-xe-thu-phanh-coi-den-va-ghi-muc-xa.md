@@ -43,7 +43,7 @@ Mở khóa điện cho đồng hồ sáng, chưa cần nổ máy. Chụp một t
 - **Mức xăng**: ghi lại đang ở vạch nào, rồi hỏi tiệm khi trả cần để lại mức nào. Thỏa thuận này nói ra lời ngay từ đầu thì cuối chuyến không ai phải đoán.
 - **ODO**: với khách thuê theo tuần, con số này giúp bạn tự theo dõi quãng đường đã chạy và nhớ lịch đổ xăng.
 
-Cách đọc kim xăng và ghé cây xăng lúc nào cho hợp lý có trong bài [canh kim xăng Honda Vision](/xe-may/2026/10/11/canh-kim-xang-honda-vision-ghe-cay-xang-luc-nao-e-khong-chet-may-giua-uong/).
+Cách đọc kim xăng và ghé cây xăng lúc nào cho hợp lý có trong bài [canh kim xăng Honda Vision](/xe-may/2026/10/11/canh-kim-xang-honda-vision-ghe-cay-xang-luc-nao-de-khong-chet-may-giua-duong/).
 
 ## Thử phanh, còi, đèn và xi nhan ngay ở sân tiệm
 
