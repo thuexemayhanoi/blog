@@ -7,7 +7,7 @@ description: "Đi Bát Tràng bằng xe máy nửa ngày từ Hà Nội: đườ
 categories: [Du lịch]
 lang: vi
 tags: [đi bát tràng bằng xe máy, làng gốm bát tràng nửa ngày, đường đi bát tràng từ hà nội, thuê xe máy Hà Nội]
-permalink: /thue-xe/2026/10/12/i-lang-gom-bat-trang-bang-xe-may-nua-ngay-uong-i-va-luu-y-khi-tham-quan/
+permalink: /thue-xe/2026/10/12/di-lang-gom-bat-trang-bang-xe-may-nua-ngay-duong-di-va-luu-y-khi-tham-quan/
 parent_id: P-THUE-XE
 child_id: C-THUE-QUOC-TE
 article_id: BLG-02469
