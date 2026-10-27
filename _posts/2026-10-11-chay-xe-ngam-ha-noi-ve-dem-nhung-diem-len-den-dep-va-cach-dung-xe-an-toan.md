@@ -22,7 +22,7 @@ Khung dễ chịu nhất của một đêm Hà Nội là sau tám giờ, khi dò
 
 Sau mười giờ rưỡi, phố bắt đầu vắng, hợp cho ai thích chạy thong dong chụp đêm, nhưng cần chọn tuyến lớn có đèn chứ không nên len ngõ nhỏ lúc đó. Giữa hai khung đó, khoảng tám giờ rưỡi tới mười giờ thường là cân bằng nhất: đèn đã lên đủ mà đường còn thoáng.
 
-Cuối tuần có phố đi bộ quanh Hồ Gươm, khi khu vực đi bộ cấm xe, nên người đi xe máy phải gửi xe ở mép ngoài rồi bộ vào; kinh nghiệm [đi phố đi bộ Hồ Gươm cuối tuần](/du-lich/2026/10/09/pho-i-bo-ho-guom-cuoi-tuan-xe-may-gui-o-au/) chỉ rõ chỗ gửi và đường vào. Ngày thường, [đi Hồ Gươm và vỉa hồ buổi tối](/du-lich/2026/10/09/i-ho-guom-va-vinh-biet-bang-xe-may-buoi-toi-hop-khong/) vẫn đẹp, tháp Rùa lên đèn in trên mặt nước.
+Cuối tuần có phố đi bộ quanh Hồ Gươm, khi khu vực đi bộ cấm xe, nên người đi xe máy phải gửi xe ở mép ngoài rồi bộ vào; kinh nghiệm [đi phố đi bộ Hồ Gươm cuối tuần](/du-lich/2026/10/09/pho-di-bo-ho-guom-cuoi-tuan-xe-may-gui-o-dau/) chỉ rõ chỗ gửi và đường vào. Ngày thường, [đi Hồ Gươm và vỉa hồ buổi tối](/du-lich/2026/10/09/di-ho-guom-va-vinh-biet-bang-xe-may-buoi-toi-hop-khong/) vẫn đẹp, tháp Rùa lên đèn in trên mặt nước.
 
 ## Những điểm lên đèn đẹp đáng chạy tới
 

@@ -34,7 +34,7 @@ Dựng xe trên chân chống, vặn tay ga nhẹ rồi tăng dần cho bánh sa
 - Đèn báo nhấp nháy hoặc đồng hồ tắt rồi sáng lại khi vặn ga là điều đáng ghi lại ngay.
 - Có mùi khét, thân pin nóng bất thường hay tiếng lạch cạch từ khoang pin thì dừng ngay, không thử tiếp.
 
-Nếu xe vừa được dắt ra từ chỗ nắng gắt, pin nóng hơn bình thường và số hiển thị dễ lệch. Bài [xe máy điện để ngoài nắng lâu và việc kiểm tra pin trước khi đi](/xe-may/2026/10/11/xe-may-ien-e-ngoai-nang-lau-kiem-tra-pin-truoc-khi-i/) giải thích vì sao nên đưa xe vào bóng râm một lúc rồi hãy đánh giá.
+Nếu xe vừa được dắt ra từ chỗ nắng gắt, pin nóng hơn bình thường và số hiển thị dễ lệch. Bài [xe máy điện để ngoài nắng lâu và việc kiểm tra pin trước khi đi](/xe-may/2026/10/11/xe-may-dien-de-ngoai-nang-lau-kiem-tra-pin-truoc-khi-di/) giải thích vì sao nên đưa xe vào bóng râm một lúc rồi hãy đánh giá.
 
 ## Thử xe máy điện lúc nhận xe: ba chặng trong mười phút
 
@@ -62,7 +62,7 @@ Hai lỗi này gây nguy hiểm trực tiếp nên đáng thử riêng, dù pin 
 
 Với phanh, bóp thử từng tay khi xe chạy chậm. Tay phanh không nên chạm sát tay lái mới ăn, và xe không nên trôi thêm nhiều sau khi đã bóp. Nghe xem có tiếng cọ kim loại hay tiếng rít kéo dài không. Nhiều dòng xe điện có cơ chế ngắt ga khi bóp phanh, nhưng tùy xe, hãy hỏi lại cửa hàng thay vì đoán.
 
-Với tay ga, vặn từ từ và xem xe phản ứng. Nếu xe chỉ nhích sau một nhịp trễ rồi lao lên bất ngờ, hoặc tay ga kẹt không tự trả về khi nhả, hãy dừng thử và báo ngay. Tay ga trễ trong ngõ nhỏ đông người là tình huống không nên chấp nhận. Nếu xe bật khóa mà không phản hồi, bài [xe máy điện bật khóa mà không chạy, kiểm tra gì trước khi gọi chủ xe](/xe-may/2026/10/11/xe-may-ien-bat-khoa-ma-khong-chay-kiem-tra-gi-truoc-khi-goi-chu-xe/) liệt kê vài việc nên xem trước.
+Với tay ga, vặn từ từ và xem xe phản ứng. Nếu xe chỉ nhích sau một nhịp trễ rồi lao lên bất ngờ, hoặc tay ga kẹt không tự trả về khi nhả, hãy dừng thử và báo ngay. Tay ga trễ trong ngõ nhỏ đông người là tình huống không nên chấp nhận. Nếu xe bật khóa mà không phản hồi, bài [xe máy điện bật khóa mà không chạy, kiểm tra gì trước khi gọi chủ xe](/xe-may/2026/10/11/xe-may-dien-bat-khoa-ma-khong-chay-kiem-tra-gi-truoc-khi-goi-chu-xe/) liệt kê vài việc nên xem trước.
 
 ## Khi kết quả thử không ổn thì xử lý thế nào
 

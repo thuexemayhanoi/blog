@@ -26,11 +26,11 @@ Mặt đường quanh hồ nhìn chung bằng phẳng, nhưng mép dải Thanh N
 
 ## Lộ trình quanh Hồ Tây: những điểm dừng đáng giá
 
-Chặng đẹp nhất là dải Thanh Niên: một bên là mặt Trúc Bạch lặng gió với những nhà thuyền ven bờ, một bên là Hồ Tây rộng thênh thang, hàng liễu và phượng vĩ hai bên tạo khung ảnh rất tốt. Giữa dải có vệt néo nhỏ dẫn sang gầm cây trên bán đảo, chỗ chùa Trấn Quốc nằm trên doi đất nhô ra mặt hồ; nếu muốn vào thăm, bạn nên xem trước kinh nghiệm [ghé chùa Trấn Quốc bằng xe máy](/du-lich/2026/09/28/en-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i/) vì giờ đóng cửa chiều muộn và chỗ gửi xe ở cổng khá hẹp.
+Chặng đẹp nhất là dải Thanh Niên: một bên là mặt Trúc Bạch lặng gió với những nhà thuyền ven bờ, một bên là Hồ Tây rộng thênh thang, hàng liễu và phượng vĩ hai bên tạo khung ảnh rất tốt. Giữa dải có vệt néo nhỏ dẫn sang gầm cây trên bán đảo, chỗ chùa Trấn Quốc nằm trên doi đất nhô ra mặt hồ; nếu muốn vào thăm, bạn nên xem trước kinh nghiệm [ghé chùa Trấn Quốc bằng xe máy](/du-lich/2026/09/28/den-chua-tran-quoc-bang-xe-may-gui-xe-va-duong-di/) vì giờ đóng cửa chiều muộn và chỗ gửi xe ở cổng khá hẹp.
 
-Chặng tiếp theo ven Âu Cơ đáng dừng ở khu Sen Hồ Tây, nơi có sân cỏ nhìn thẳng mặt nước; nếu muốn kết hợp ăn uống, xem trước bài về [Sen Hồ Tây và cách đi bằng xe máy](/du-lich/2026/09/28/en-am-sen-tay-ho-bang-xe-may-gui-xe-va-uong-i/) để chọn giờ và vị trí gửi xe. Trước đó, bạn cũng nên đọc lối chạy [quanh Hồ Tây cho người mới](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/) nếu đây là lần đầu chạy hồ lớn.
+Chặng tiếp theo ven Âu Cơ đáng dừng ở khu Sen Hồ Tây, nơi có sân cỏ nhìn thẳng mặt nước; nếu muốn kết hợp ăn uống, xem trước bài về [Sen Hồ Tây và cách đi bằng xe máy](/du-lich/2026/09/28/den-dam-sen-tay-ho-bang-xe-may-gui-xe-va-duong-di/) để chọn giờ và vị trí gửi xe. Trước đó, bạn cũng nên đọc lối chạy [quanh Hồ Tây cho người mới](/du-lich/2026/09/28/cung-duong-chay-quanh-ho-tay-diem-dung-va-cho-gui-xe/) nếu đây là lần đầu chạy hồ lớn.
 
-Cuối vòng, khu Quảng An với Phủ Tây Hồ và dải quán ven đường là điểm neo về, hợp để ăn khuya hoặc uống nước trước khi trở về. Ai thích khởi hành sớm và về sớm, nên xem bài về [chạy vòng Hồ Tây buổi sáng](/du-lich/2026/09/28/chay-vong-ho-tay-cung-uong-va-iem-dung/) rồi chọn khung giờ tương tự để tránh nắng và đông.
+Cuối vòng, khu Quảng An với Phủ Tây Hồ và dải quán ven đường là điểm neo về, hợp để ăn khuya hoặc uống nước trước khi trở về. Ai thích khởi hành sớm và về sớm, nên xem bài về [chạy vòng Hồ Tây buổi sáng](/du-lich/2026/09/28/chay-vong-ho-tay-cung-duong-va-diem-dung/) rồi chọn khung giờ tương tự để tránh nắng và đông.
 
 ## Những đoạn dễ kẹt và khung giờ nên tránh
 
@@ -42,6 +42,6 @@ Gặp đoàn cưới hoặc đám tang đi qua trên trục quanh hồ, cách x�
 
 ## Gửi xe và vài lỗi nên tránh quanh bờ hồ
 
-Chỗ gửi xe quanh Hồ Tây có ba dạng: bãi có người trông tại các điểm tham quan, lối gửi trước quán ở dải Quảng An, và mép đường vắng ở các khúc cây. Nếu định xuống xe chơi lâu, luôn chọn bãi có người trông dù phải đi bộ thêm một đoạn; cách chọn vị trí gửi an toàn đã được tách riêng trong bài về [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/), nên đọc trước khi đi.
+Chỗ gửi xe quanh Hồ Tây có ba dạng: bãi có người trông tại các điểm tham quan, lối gửi trước quán ở dải Quảng An, và mép đường vắng ở các khúc cây. Nếu định xuống xe chơi lâu, luôn chọn bãi có người trông dù phải đi bộ thêm một đoạn; cách chọn vị trí gửi an toàn đã được tách riêng trong bài về [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/), nên đọc trước khi đi.
 
 Ba lỗi hay gặp của người lần đầu chạy vòng hồ: dừng xe ngay khúc cong để chụp ảnh, gửi xe ở khúc vắng rồi đi lâu, và tin vào app chỉ đường bám sát mép hồ mà bị dẫn vào ngõ làng chỉ rộng hai mét. Cả ba đều tránh được nếu giữ nguyên tắc: dừng ở vịnh có chỗ né, gửi ở chỗ có người trông, và chủ đi theo các trục lớn quanh hồ thay vì đường ven ngõ nhỏ. Chạy vòng Hồ Tây xong, nếu còn buổi, bạn có thể nối sang khu Trúc Bạch ăn tối rồi về qua Yên Phụ, vừa khép trọn một vòng mà không phải quay lại đường cũ.

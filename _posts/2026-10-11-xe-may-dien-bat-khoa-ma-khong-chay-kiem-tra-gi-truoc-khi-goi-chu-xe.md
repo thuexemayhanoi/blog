@@ -46,11 +46,11 @@ Nhiều xe có các vị trí như tiến, lùi, đỗ hoặc các mức công s
 
 ## Xe điện không đi được vì pin: đồng hồ sáng chưa có nghĩa là đủ điện
 
-Đồng hồ vẫn sáng nhưng pin có thể đã xuống thấp tới mức xe giảm công suất hoặc không chịu chạy. Hãy nhìn vạch pin trên đồng hồ và so với lúc nhận xe. Nếu xe vừa đứng nắng gắt nhiều giờ, hãy đọc thêm bài về [xe điện để ngoài nắng lâu và việc kiểm tra pin trước khi đi](/xe-may/2026/10/11/xe-may-ien-e-ngoai-nang-lau-kiem-tra-pin-truoc-khi-i/).
+Đồng hồ vẫn sáng nhưng pin có thể đã xuống thấp tới mức xe giảm công suất hoặc không chịu chạy. Hãy nhìn vạch pin trên đồng hồ và so với lúc nhận xe. Nếu xe vừa đứng nắng gắt nhiều giờ, hãy đọc thêm bài về [xe điện để ngoài nắng lâu và việc kiểm tra pin trước khi đi](/xe-may/2026/10/11/xe-may-dien-de-ngoai-nang-lau-kiem-tra-pin-truoc-khi-di/).
 
 Một điểm khác là xe vừa sạc xong. Có xe không cho chạy khi dây sạc còn nối, nên hãy kiểm tra đã rút sạc đúng cách theo hướng dẫn của cửa hàng hoặc nhà sản xuất chưa. Riêng pin thì đừng tự mở hay tháo lắp giắc nối, vừa dễ hỏng vừa có rủi ro cho chính bạn.
 
-Định đi chặng dài thì nên xem thêm [cách ước lượng quãng đường theo mức pin](/xe-may/2026/09/30/thue-xe-may-ien-chay-xa-uoc-bao-nhieu-km/) trước khi rời tiệm.
+Định đi chặng dài thì nên xem thêm [cách ước lượng quãng đường theo mức pin](/xe-may/2026/09/30/thue-xe-may-dien-chay-xa-duoc-bao-nhieu-km/) trước khi rời tiệm.
 
 ## Xe điện bấm ga không chạy: xem tay ga và đèn báo lỗi
 
@@ -58,7 +58,7 @@ Khi đã loại các nguyên nhân trên mà xe điện bấm ga không chạy, 
 
 Tiếp đến là các biểu tượng cảnh báo trên đồng hồ. Mỗi hãng dùng một kiểu ký hiệu riêng và bạn không cần hiểu hết. Việc hữu ích nhất là chụp ảnh đồng hồ gửi cho cửa hàng, đừng tra mã lỗi rồi tự đoán cách sửa.
 
-Nếu xe vừa đi qua đoạn nước ngập hoặc gặp trận mưa lớn trước khi dừng, hãy xem bài [xe điện chạy trời mưa lớn có bị chập không](/xe-may/2026/10/05/xe-may-ien-chay-troi-mua-lon-co-bi-chap-khong/). Còn nếu ngửi thấy mùi khét, thấy vùng nào của xe nóng bất thường hoặc nghe tiếng lạ, hãy dừng hẳn, đứng cách xa và báo cửa hàng ngay. Đừng tháo ốp, đừng đụng vào dây điện hay cầu chì.
+Nếu xe vừa đi qua đoạn nước ngập hoặc gặp trận mưa lớn trước khi dừng, hãy xem bài [xe điện chạy trời mưa lớn có bị chập không](/xe-may/2026/10/05/xe-may-dien-chay-troi-mua-lon-co-bi-chap-khong/). Còn nếu ngửi thấy mùi khét, thấy vùng nào của xe nóng bất thường hoặc nghe tiếng lạ, hãy dừng hẳn, đứng cách xa và báo cửa hàng ngay. Đừng tháo ốp, đừng đụng vào dây điện hay cầu chì.
 
 ## Gọi chủ xe thế nào cho gọn và có ích
 

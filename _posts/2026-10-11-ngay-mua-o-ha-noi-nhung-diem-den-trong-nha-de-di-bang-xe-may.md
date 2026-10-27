@@ -22,9 +22,9 @@ Nếu đúng mùa mưa mà bạn vẫn muốn giữ lịch ngoài trời, ghép 
 
 Vòng bảo tàng trung tâm là lựa chọn an toàn nhất, vì các điểm nằm sát nhau trong nội đô nên mỗi lần dầm mưa di chuyển chỉ vài phút. Bài [ghé các bảo tàng trong trung tâm Hà Nội](/du-lich/2026/10/10/ghe-bao-tang-trong-trung-tam-ha-noi-bang-xe-may/) xếp sẵn trục di chuyển giữa các bảo tàng, giúp bạn chọn hai ba điểm trong cùng một buổi mà không phải chạy xa.
 
-Bảo tàng Mỹ thuật nằm trong cung cũ, [đến bảo tàng Mỹ thuật Việt Nam](/du-lich/2026/10/10/en-bao-tang-my-thuat-viet-nam-bang-xe-may-uong-i-va-gui-xe/) có lối gửi xe có mái, một điểm cộng lớn ngày mưa. Bảo tàng Hỏa Lò nằm góc phố cổ, đi trong nhà nhưng rất đáng xem; xem trước [đến bảo tàng Hỏa Lò buổi chiều muộn có kịp không](/du-lich/2026/10/09/i-bao-tang-hoa-lo-buoi-chieu-muon-co-kip-khong/) để canh giờ đóng cửa.
+Bảo tàng Mỹ thuật nằm trong cung cũ, [đến bảo tàng Mỹ thuật Việt Nam](/du-lich/2026/10/10/den-bao-tang-my-thuat-viet-nam-bang-xe-may-duong-di-va-gui-xe/) có lối gửi xe có mái, một điểm cộng lớn ngày mưa. Bảo tàng Hỏa Lò nằm góc phố cổ, đi trong nhà nhưng rất đáng xem; xem trước [đến bảo tàng Hỏa Lò buổi chiều muộn có kịp không](/du-lich/2026/10/09/di-bao-tang-hoa-lo-buoi-chieu-muon-co-kip-khong/) để canh giờ đóng cửa.
 
-Nếu mưa dầm cả ngày và bạn muốn đổi không khí hẳn, đuổi sang khu cầu Giấy xem [bảo tàng Dân tộc học](/du-lich/2026/10/10/en-bao-tang-dan-toc-hoc-viet-nam-bang-xe-may-uong-i-va-gui-xe/): nhà trưng bày trong nhà rộng, ngồi được lâu, và mùa mưa vườn nhà rông ngoài trời tuy ướt nhưng nhìn từ trong vẫn đẹp. Cách gửi xe khi tới đó đã được ghi chi tiết trong bài [gửi xe khi thăm bảo tàng Dân tộc học](/du-lich/2026/10/09/gui-xe-khi-tham-bao-tang-dan-toc-hoc-nhu-the-nao/), nên đầu mưa không phải lóng ngóng tìm chỗ che.
+Nếu mưa dầm cả ngày và bạn muốn đổi không khí hẳn, đuổi sang khu cầu Giấy xem [bảo tàng Dân tộc học](/du-lich/2026/10/10/den-bao-tang-dan-toc-hoc-viet-nam-bang-xe-may-duong-di-va-gui-xe/): nhà trưng bày trong nhà rộng, ngồi được lâu, và mùa mưa vườn nhà rông ngoài trời tuy ướt nhưng nhìn từ trong vẫn đẹp. Cách gửi xe khi tới đó đã được ghi chi tiết trong bài [gửi xe khi thăm bảo tàng Dân tộc học](/du-lich/2026/10/09/gui-xe-khi-tham-bao-tang-dan-toc-hoc-nhu-the-nao/), nên đầu mưa không phải lóng ngóng tìm chỗ che.
 
 ## Chạy xe máy trong mưa vừa: tốc độ và khoảng cách
 

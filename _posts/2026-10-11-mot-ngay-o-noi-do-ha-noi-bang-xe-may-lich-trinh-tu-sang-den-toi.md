@@ -18,15 +18,15 @@ Lịch trình một ngày ở Hà Nội bằng xe máy là cách tận dụng qu
 
 ## Lịch trình một ngày ở Hà Nội: khung sáng từ bảy giờ
 
-Sáng là khung quý nhất của ngày, nên đừng tiêu vào việc ngủ nướng. Bảy giờ, phố còn thoáng, nên tranh thủ chạy một vòng quanh [khu Hồ Gươm và tháp Rùa](/du-lich/2026/09/28/en-khu-ho-guom-va-thap-rua-bang-xe-may-gui-xe-va-uong-i/): gửi xe ven hồ, dạo một vòng bộ lúc mặt hồ còn phẳng, chụp vài khung rồi ăn sáng phở ở khu gần đó. Kịch bản này xong trước tám giờ rưỡi, đúng lúc phố bắt đầu đông.
+Sáng là khung quý nhất của ngày, nên đừng tiêu vào việc ngủ nướng. Bảy giờ, phố còn thoáng, nên tranh thủ chạy một vòng quanh [khu Hồ Gươm và tháp Rùa](/du-lich/2026/09/28/den-khu-ho-guom-va-thap-rua-bang-xe-may-gui-xe-va-duong-di/): gửi xe ven hồ, dạo một vòng bộ lúc mặt hồ còn phẳng, chụp vài khung rồi ăn sáng phở ở khu gần đó. Kịch bản này xong trước tám giờ rưỡi, đúng lúc phố bắt đầu đông.
 
-Ăn xong, chuyển sang một điểm sáng thứ hai: hoặc chùa Một Cột với khu vuông cổ kính, hoặc [Văn Miếu với giờ vào và chỗ gửi xe](/du-lich/2026/10/10/en-van-mieu-quoc-tu-giam-bang-xe-may-gio-i-va-gui-xe/), nơi sân gạch rộng rãi dễ đi lại chậm rãi. Văn Miếu mở từ sớm và vắng nhất trước chín giờ, nên ai đi mùa hè càng nên đi khung này để tránh nắng trưa.
+Ăn xong, chuyển sang một điểm sáng thứ hai: hoặc chùa Một Cột với khu vuông cổ kính, hoặc [Văn Miếu với giờ vào và chỗ gửi xe](/du-lich/2026/10/10/den-van-mieu-quoc-tu-giam-bang-xe-may-gio-di-va-gui-xe/), nơi sân gạch rộng rãi dễ đi lại chậm rãi. Văn Miếu mở từ sớm và vắng nhất trước chín giờ, nên ai đi mùa hè càng nên đi khung này để tránh nắng trưa.
 
-Ai muốn buổi sáng thảnh thơi hơn, xem bài [lịch trình nửa ngày đi Hà Nội chọn lộ trình theo giờ](/du-lich/2026/09/28/lich-trinh-nua-ngay-i-ha-noi-bang-xe-may-chon-lo-trinh-theo-gio/) để thay khung sáng bằng một chuyến nửa ngày gọn, rồi dồn sức cho buổi chiều.
+Ai muốn buổi sáng thảnh thơi hơn, xem bài [lịch trình nửa ngày đi Hà Nội chọn lộ trình theo giờ](/du-lich/2026/09/28/lich-trinh-nua-ngay-di-ha-noi-bang-xe-may-chon-lo-trinh-theo-gio/) để thay khung sáng bằng một chuyến nửa ngày gọn, rồi dồn sức cho buổi chiều.
 
 ## Khung trưa: ăn uống và nghỉ giữa thành phố
 
-Mười một giờ trưa, nắng lên và các điểm tham quan bắt đầu đông, nên chuyển sang ăn uống. Khu phố cổ quanh chợ có vô số lựa chọn từ bún chả đến bún thang; cách chọn quán và chặng ăn theo cung đường đã được xếp sẵn trong bài [ẩm thực Hà Nội theo cung đường xe máy](/du-lich/2026/09/28/am-thuc-ha-noi-theo-cung-uong-xe-may-i-au-an-gi/). Ăn xong, nên nghỉ một tiếng ở quán cà phê: một ngày dồn cả ngày vào việc đi sẽ khiến buổi chiều mất sức.
+Mười một giờ trưa, nắng lên và các điểm tham quan bắt đầu đông, nên chuyển sang ăn uống. Khu phố cổ quanh chợ có vô số lựa chọn từ bún chả đến bún thang; cách chọn quán và chặng ăn theo cung đường đã được xếp sẵn trong bài [ẩm thực Hà Nội theo cung đường xe máy](/du-lich/2026/09/28/am-thuc-ha-noi-theo-cung-duong-xe-may-di-dau-an-gi/). Ăn xong, nên nghỉ một tiếng ở quán cà phê: một ngày dồn cả ngày vào việc đi sẽ khiến buổi chiều mất sức.
 
 Trưa cũng là lúc gửi xe dài nhất trong ngày, nên chọn quán có bãi gửi tin cậy ngay từ đầu, khỏi phải di chuyển lại giữa nắng. Nếu nhóm có người lớn tuổi hoặc trẻ nhỏ, khung trưa nghỉ càng cần kéo dài hơn, đổi lại các chặng chiều rút ngắn lại cho hợp sức.
 
@@ -52,7 +52,7 @@ Nếu chỉ có nửa ngày, giữ khung sáng và khung tối, cắt hẳn ph�
 
 ## Khung tối: Hồ Gươm lên đèn
 
-Tối là khung thư giãn nhất của lịch trình một ngày. Sau bảy giờ rưỡi, khi dòng xe tan việc hết, chạy lại quanh Hồ Gươm: tháp Rùa và cầu Thê Húc lên đèn, mặt nước phản chiếu vàng, người đi bộ đông vui mà không chật. Kinh nghiệm [đi Hồ Gươm và vỉa hồ buổi tối](/du-lich/2026/10/09/i-ho-guom-va-vinh-biet-bang-xe-may-buoi-toi-hop-khong/) cho thấy khung này đẹp nhất sau tám giờ, khi đèn đã lên đủ.
+Tối là khung thư giãn nhất của lịch trình một ngày. Sau bảy giờ rưỡi, khi dòng xe tan việc hết, chạy lại quanh Hồ Gươm: tháp Rùa và cầu Thê Húc lên đèn, mặt nước phản chiếu vàng, người đi bộ đông vui mà không chật. Kinh nghiệm [đi Hồ Gươm và vỉa hồ buổi tối](/du-lich/2026/10/09/di-ho-guom-va-vinh-biet-bang-xe-may-buoi-toi-hop-khong/) cho thấy khung này đẹp nhất sau tám giờ, khi đèn đã lên đủ.
 
 Kết ngày bằng một bát ăn khuya ở khu phố cổ, rồi về trước mười giờ nếu ngày mai còn lịch. Ai đi tối thứ bảy, có thể ghé phố đi bộ quanh hồ, nơi xe bị cấm vào khúc trung tâm nên gửi xe mép ngoài rồi bộ dạo cho thoải mái.
 

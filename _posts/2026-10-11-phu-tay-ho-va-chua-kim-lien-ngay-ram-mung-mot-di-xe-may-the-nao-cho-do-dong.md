@@ -14,7 +14,7 @@ article_id: BLG-02273
 writer: W1
 ---
 
-Đi lễ Phủ Tây Hồ ngày rằm hay mùng một bằng xe máy muốn đỡ đông thì mọi thứ đều phải chọn trước: khung giờ xuất hành, đường vào và chỗ gửi xe, vì cả ba quyết định buổi lễ có mát hay không. Phủ nằm trên trục Âu Cơ thuộc Quảng An, ngay mép đông Hồ Tây, nên ngày vía dòng người từ nội thành và các quận ven đổ về dồn cả vào vài nút giao quanh hồ. Bài viết này xếp lịch trình đi lễ hai chặng, ghé Phủ Tây Hồ rồi sang chùa Kim Liên ở làng Nghi Tàm kề bên, kèm đường vào né kẹt và lối giữ xe đúng chỗ. Các điểm đến khác quanh khu này nằm ở [mục điểm đến](/du-lich/diem-den/), còn lịch sử và đường tới Phủ đã có bài [ghé Phủ Tây Hồ bằng xe máy](/du-lich/2026/10/04/en-phu-tay-ho-bang-xe-may-gui-xe-va-uong-i/) nên bài này chỉ tập trung phần ngày đông.
+Đi lễ Phủ Tây Hồ ngày rằm hay mùng một bằng xe máy muốn đỡ đông thì mọi thứ đều phải chọn trước: khung giờ xuất hành, đường vào và chỗ gửi xe, vì cả ba quyết định buổi lễ có mát hay không. Phủ nằm trên trục Âu Cơ thuộc Quảng An, ngay mép đông Hồ Tây, nên ngày vía dòng người từ nội thành và các quận ven đổ về dồn cả vào vài nút giao quanh hồ. Bài viết này xếp lịch trình đi lễ hai chặng, ghé Phủ Tây Hồ rồi sang chùa Kim Liên ở làng Nghi Tàm kề bên, kèm đường vào né kẹt và lối giữ xe đúng chỗ. Các điểm đến khác quanh khu này nằm ở [mục điểm đến](/du-lich/diem-den/), còn lịch sử và đường tới Phủ đã có bài [ghé Phủ Tây Hồ bằng xe máy](/du-lich/2026/10/04/den-phu-tay-ho-bang-xe-may-gui-xe-va-duong-di/) nên bài này chỉ tập trung phần ngày đông.
 
 ## Đi lễ Phủ Tây Hồ ngày rằm: chọn khung giờ
 
@@ -22,7 +22,7 @@ Ngày rằm và mùng một đông nhất vào hai khung: sáng sớm trước b
 
 Cuối tuần cùng ngày rằm là kịch bản đông nhất, dòng xe máy đỗ chồng ba lớp quanh cổng từ rất sớm. Nếu chẳng thể đổi ngày, hãy đổi giờ: đi sau tám giờ tối, khi phần lớn người đã làm xong lễ, khu vực gửi xe xẹp dần và đường Âu Cơ thoáng lại. Đi đêm cần bật đèn từ lúc ra khỏi phố lớn và mặc thêm áo vì gió quanh hồ tối về nhanh lạnh.
 
-Ngày thường sau lễ, kết hợp thêm một vòng quanh hồ hoặc ghé chùa Trấn Quốc cách đó chưa đầy một cây số theo hướng dải Thanh Niên; đường đi và chỗ gửi xe ở chùa đã được ghi chi tiết trong bài [ghé chùa Trấn Quốc](/du-lich/2026/09/28/en-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i/).
+Ngày thường sau lễ, kết hợp thêm một vòng quanh hồ hoặc ghé chùa Trấn Quốc cách đó chưa đầy một cây số theo hướng dải Thanh Niên; đường đi và chỗ gửi xe ở chùa đã được ghi chi tiết trong bài [ghé chùa Trấn Quốc](/du-lich/2026/09/28/den-chua-tran-quoc-bang-xe-may-gui-xe-va-duong-di/).
 
 ## Đường vào Phủ Tây Hồ và chặng sang chùa Kim Liên Nghi Tàm
 
@@ -30,7 +30,7 @@ Từ nội thành, đường vào thẳng nhất là theo trục ven phía nam H
 
 Chùa Kim Liên nằm trong ngõ làng Nghi Tàm, cách Phủ một quãng ngắn men theo đường ven hồ. Đoạn vào chùa đi trong ngõ làng nhỏ, người đi lễ nên về số thấp, chú ý góc khuất vì hai chiều không nhìn thấy nhau. Ngày rằm, ngõ vẫn một chiều đi vào từ đầu Nghi Tàm, nên ai không quen dễ chạy ngược gây tắc; cứ bám theo dòng xe đi lễ là đúng hướng. Làm lễ xong, chùa có góc sân nhìn sang mặt Hồ rất thoáng, hợp dừng nghỉ uống nước trước khi về.
 
-Nếu cả buổi còn dư giờ, dải ven Hồ Tây phía Nghi Tàm, Võ Chí Công là chỗ dạo đẹp, nhưng nên xem trước kinh nghiệm [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/) vì khúc đó ngày vía xe đỗ kín sớm.
+Nếu cả buổi còn dư giờ, dải ven Hồ Tây phía Nghi Tàm, Võ Chí Công là chỗ dạo đẹp, nhưng nên xem trước kinh nghiệm [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/) vì khúc đó ngày vía xe đỗ kín sớm.
 
 Chuẩn bị trước buổi lễ cũng quyết định phần êm ả của buổi đi. Ngày vía nên mặc đồ kín gọn gàng, đi giày bệt vì sân chùa và lối vào bãi gửi hay ướt nước rưới; đồ dâng nên gói gọn trong một túi để một tay xách được, tay kia bám lái cho vững. Nếu đi cả nhà có trẻ nhỏ, mang theo nước lọc và áo mưa mỏng, vì quanh khu Phủ khó tìm chỗ nghỉ chân thoáng giữa trưa, mà trẻ dễ khát và chán khi phải xếp hàng chờ lâu. Trời hay đổ cơn mưa chợt vào mùa giao mùa, nên gài nilon trùm yên xe sẵn trong cốp: đi lễ xong ra lấy xe mà yên ướt nhẹp là mất hẳn cảm giác buổi thờ.
 

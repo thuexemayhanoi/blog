@@ -20,7 +20,7 @@ Xe 50cc đi làng gốm Bát Tràng có ổn không? Nỗi lo thường không n
 
 Câu trả lời thận trọng của mình là: ổn nếu bạn chấp nhận đi chậm và chọn đúng giờ. Đây là chuyến một buổi, không có đèo dốc hay cung đường hiểm, nhưng lại có ba kiểu mặt đường khác nhau: phố đông, cầu lớn và đường đê. Xe nhẹ xoay trở trong phố rất gọn, còn hai kiểu sau mới là chỗ cần để ý.
 
-Cái giá của sự nhẹ nhàng là xe dễ bị ảnh hưởng bởi những thứ to hơn nó: gió ngang, luồng hơi của xe tải chạy sát, ổ gà lớn. Ai hay vội hoặc muốn nhồi nhiều điểm vào một ngày nên cân nhắc loại xe khác. Bài [xe 50cc thuê chạy được quãng đường nào trong ngày](/xe-may/2026/10/09/xe-50cc-thue-chay-uoc-quang-uong-nao-trong-ngay/) giúp bạn hình dung sức của một chiếc xe nhỏ.
+Cái giá của sự nhẹ nhàng là xe dễ bị ảnh hưởng bởi những thứ to hơn nó: gió ngang, luồng hơi của xe tải chạy sát, ổ gà lớn. Ai hay vội hoặc muốn nhồi nhiều điểm vào một ngày nên cân nhắc loại xe khác. Bài [xe 50cc thuê chạy được quãng đường nào trong ngày](/xe-may/2026/10/09/xe-50cc-thue-chay-duoc-quang-duong-nao-trong-ngay/) giúp bạn hình dung sức của một chiếc xe nhỏ.
 
 ## Chia chuyến đi thành ba chặng
 
@@ -74,6 +74,6 @@ Xe nhỏ chạy liên tục cả buổi cũng cần nghỉ, và người lái c�
 
 ## Đồ gốm mua về: nhẹ tay khi chở
 
-Đến làng gốm khó mà ra về tay không, trong khi bình hoa, bộ chén, đĩa men đều dễ vỡ còn xe 50cc thường có cốp nhỏ. Đừng treo túi nặng lủng lẳng vào móc xe vì nó làm xe lệch, nhất là khi qua cầu lớn. Chọn món gọn, nhờ cửa hàng gói kỹ rồi đặt sát người. Bài [chở đồ đi chợ, siêu thị bằng xe 50cc](/xe-may/2026/10/11/cho-o-i-cho-sieu-thi-bang-xe-50cc-cop-nho-moc-treo-va-muc-cho-vua-suc/) nói kỹ hơn về mức chở vừa sức. Món lớn thì nên gửi vận chuyển riêng.
+Đến làng gốm khó mà ra về tay không, trong khi bình hoa, bộ chén, đĩa men đều dễ vỡ còn xe 50cc thường có cốp nhỏ. Đừng treo túi nặng lủng lẳng vào móc xe vì nó làm xe lệch, nhất là khi qua cầu lớn. Chọn món gọn, nhờ cửa hàng gói kỹ rồi đặt sát người. Bài [chở đồ đi chợ, siêu thị bằng xe 50cc](/xe-may/2026/10/11/cho-do-di-cho-sieu-thi-bang-xe-50cc-cop-nho-moc-treo-va-muc-cho-vua-suc/) nói kỹ hơn về mức chở vừa sức. Món lớn thì nên gửi vận chuyển riêng.
 
 Để bắt tay vào, bạn có thể dùng khung này: xuất phát sáng muộn, đổ xăng trước khi rời phố, nghỉ một nhịp sau cầu, đi thong thả dọc đê, dạo làng rồi về sớm. Thông tin về đường, cầu đang sửa và hoạt động trong làng có thể thay đổi, hãy kiểm tra thêm trước khi đi. Muốn so sánh loại xe trước khi quyết định, mời bạn xem các bài về [xe 50cc](/xe-may/xe-50cc/) và [thuê xe máy](/xe-may/).

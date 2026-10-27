@@ -20,7 +20,7 @@ writer: W1
 
 Làng gốm nằm ở Gia Lâm, bên kia sông Hồng so với khu phố cổ. Nghĩa là chuyến nào cũng có một đoạn lên cầu, một đoạn chạy dọc đường ven sông, rồi mới rẽ vào làng. Bạn nên mở bản đồ trước và chọn tuyến theo biển báo hiện hành. Mình không chỉ tên cây cầu cụ thể vì tuyến dành cho xe máy có thể thay đổi theo từng thời điểm.
 
-Hai đoạn này ăn pin khác với đường phố nội thành. Dốc cầu là chỗ xe điện phải gồng nhất, nhất là khi xe chở hai người hoặc ba lô nặng thêm đồ gốm mua trong làng. Đoạn ven sông thì thoáng, ít đèn đỏ, dễ giữ tay ga đều, nhưng gió ngược từ mặt nước cũng lấy đi một phần pin đáng kể. Nếu bạn định chạy dài trên đường đê, hãy đọc thêm [cách tính pin khi chạy đường đê dài](/xe-may/2026/10/03/xe-may-ien-chay-uong-e-dai-tinh-pin-the-nao/) để có thêm cảm giác về chặng này.
+Hai đoạn này ăn pin khác với đường phố nội thành. Dốc cầu là chỗ xe điện phải gồng nhất, nhất là khi xe chở hai người hoặc ba lô nặng thêm đồ gốm mua trong làng. Đoạn ven sông thì thoáng, ít đèn đỏ, dễ giữ tay ga đều, nhưng gió ngược từ mặt nước cũng lấy đi một phần pin đáng kể. Nếu bạn định chạy dài trên đường đê, hãy đọc thêm [cách tính pin khi chạy đường đê dài](/xe-may/2026/10/03/xe-may-dien-chay-duong-de-dai-tinh-pin-the-nao/) để có thêm cảm giác về chặng này.
 
 ## Tính pin xe điện đi Bát Tràng theo ba chặng thay vì nhìn số km
 
@@ -54,7 +54,7 @@ Nếu muốn nắm thêm chuyện quãng đường và sạc pin khi thuê xe đ
 - **Đầu hoặc giữa buổi chiều:** rời làng để qua cầu trước giờ tan tầm. Kẹt xe giữa lúc xe điện bò chậm vẫn tốn pin, mà người lái cũng mất kiên nhẫn.
 - **Trước tối:** trả xe với khoảng dư thoải mái, đừng sát giờ đóng cửa của cửa hàng.
 
-Đoạn đê ven sông về chiều tối có thể ít đèn chiếu sáng, nên hạn chế để lượt về dồn vào lúc trời đã sập. Trưa nắng cũng đáng cân nhắc: xe đậu ngoài trời hàng giờ thì nóng lên cả thân xe lẫn pin. Bạn có thể xem thêm [xe máy điện thuê khi trời quá nóng pin có sao không](/xe-may/2026/10/09/xe-may-ien-thue-khi-troi-qua-nong-pin-co-sao-khong/) để biết nên đỗ xe thế nào.
+Đoạn đê ven sông về chiều tối có thể ít đèn chiếu sáng, nên hạn chế để lượt về dồn vào lúc trời đã sập. Trưa nắng cũng đáng cân nhắc: xe đậu ngoài trời hàng giờ thì nóng lên cả thân xe lẫn pin. Bạn có thể xem thêm [xe máy điện thuê khi trời quá nóng pin có sao không](/xe-may/2026/10/09/xe-may-dien-thue-khi-troi-qua-nong-pin-co-sao-khong/) để biết nên đỗ xe thế nào.
 
 ## Trong làng gốm Bát Tràng: gửi xe, dạo bộ và chuyện sạc pin
 
@@ -68,6 +68,6 @@ Chuyện sạc pin thì đừng mặc định. Bạn không nên cho rằng ch�
 
 Giả sử bạn đang ở làng, mới qua giữa buổi chiều mà đồng hồ báo pin đã thấp. Đừng cố ghé thêm một xưởng nữa. Hãy bỏ điểm cuối trong kế hoạch, giữ tay ga đều, tránh rồ ga và tránh lên dốc cầu bằng pin cạn. Nếu thấy lượt về quá sát, hãy nghĩ trước phương án về bằng taxi hoặc xe công nghệ, thay vì ép xe đi tới cùng.
 
-Nếu xe yếu hẳn giữa đường, hãy tấp vào chỗ an toàn, tắt xe, không tự mở hay sửa pin, rồi báo cho cửa hàng cho thuê. Còn việc cửa hàng hỗ trợ được tới đâu thì cần hỏi và xác nhận trước với Nguyễn Tú, không nên chờ đến lúc giữa đường mới tìm hiểu. Bài [xe máy điện thuê hết pin giữa đường xử lý thế nào](/xe-may/2026/10/10/xe-may-ien-thue-het-pin-giua-uong-xu-ly-the-nao/) nói kỹ hơn về từng bước nên làm.
+Nếu xe yếu hẳn giữa đường, hãy tấp vào chỗ an toàn, tắt xe, không tự mở hay sửa pin, rồi báo cho cửa hàng cho thuê. Còn việc cửa hàng hỗ trợ được tới đâu thì cần hỏi và xác nhận trước với Nguyễn Tú, không nên chờ đến lúc giữa đường mới tìm hiểu. Bài [xe máy điện thuê hết pin giữa đường xử lý thế nào](/xe-may/2026/10/10/xe-may-dien-thue-het-pin-giua-duong-xu-ly-the-nao/) nói kỹ hơn về từng bước nên làm.
 
 Trước ngày đi, hãy gọi Nguyễn Tú theo số 0942 467 674 (cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở 09:00–21:00 và không giao xe ngoài giờ) để hỏi xe điện còn hay không, giá hiện tại và tuyến nên đi. Nếu muốn so sánh thêm các lựa chọn, bạn có thể xem [mục xe máy điện cho thuê](/xe-may/xe-dien/) hoặc quay về [trang tổng hợp xe máy cho thuê ở Hà Nội](/xe-may/).

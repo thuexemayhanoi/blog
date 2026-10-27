@@ -49,7 +49,7 @@ Dấu hiệu đáng lo:
 
 Chỉ cần một dấu hiệu trong số này, đừng bật khóa, đừng cắm sạc, đừng tự tháo pin hay nhét lại cho khít. Hãy đứng cách xe một đoạn, tránh xa vật dễ cháy và gọi chủ xe.
 
-Nếu xe đổ lúc đường ướt hoặc trời nồm, nước có thể len qua khe vỏ tới các tiếp điểm. Bài về [pin và tiếp điểm khi trời nồm ẩm](/xe-may/2026/10/03/xe-may-ien-troi-nom-am-pin-va-tiep-iem-can-e-y/) nói rõ hơn chuyện này.
+Nếu xe đổ lúc đường ướt hoặc trời nồm, nước có thể len qua khe vỏ tới các tiếp điểm. Bài về [pin và tiếp điểm khi trời nồm ẩm](/xe-may/2026/10/03/xe-may-dien-troi-nom-am-pin-va-tiep-diem-can-de-y/) nói rõ hơn chuyện này.
 
 ## Dây điện, giắc cắm, đèn và còi
 
@@ -57,7 +57,7 @@ Phần này chỉ nhìn và sờ nhẹ, không cắm hay rút gì. Chỗ dễ b�
 
 Hãy xem vỏ dây có trầy sâu, lộ lõi đồng hoặc bị kẹt giữa hai mảnh nhựa không, giắc cắm có hở hay tuột khỏi ngàm không. Rồi bật khóa, thử đèn pha, xi nhan hai bên, đèn phanh khi bóp từng tay phanh và còi. Đèn phanh không sáng nghĩa là xe sau lưng khó thấy bạn khi giảm tốc, nên không phải lỗi nhỏ.
 
-Thấy dây lòi lõi đồng thì đừng quấn băng keo để đi tiếp. Nếu bật khóa mà xe không lên điện, bạn có thể xem [những việc nên nhìn khi xe bật khóa mà không chạy](/xe-may/2026/10/11/xe-may-ien-bat-khoa-ma-khong-chay-kiem-tra-gi-truoc-khi-goi-chu-xe/), nhưng sau cú ngã hãy thận trọng hơn: đừng bật tắt khóa liên tục để thử vận may.
+Thấy dây lòi lõi đồng thì đừng quấn băng keo để đi tiếp. Nếu bật khóa mà xe không lên điện, bạn có thể xem [những việc nên nhìn khi xe bật khóa mà không chạy](/xe-may/2026/10/11/xe-may-dien-bat-khoa-ma-khong-chay-kiem-tra-gi-truoc-khi-goi-chu-xe/), nhưng sau cú ngã hãy thận trọng hơn: đừng bật tắt khóa liên tục để thử vận may.
 
 ## Phanh, tay ga và tay lái quyết định bạn có dừng được không
 

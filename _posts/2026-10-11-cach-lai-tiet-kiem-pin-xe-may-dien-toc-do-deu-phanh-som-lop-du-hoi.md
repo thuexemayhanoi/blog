@@ -56,9 +56,9 @@ Chở thêm người là nhu cầu có thật, chỉ cần tính trước rằng
 
 ## Lên dốc và đi đường dài: tính trước, đừng đoán
 
-Dốc là chỗ pin tụt nhanh nhất. Với cầu vượt hay dốc cầu, hãy vào dốc bằng nhịp ổn định, đừng vặn ga gấp giữa chừng. Nếu hay phải qua nhiều dốc liên tiếp, bài về [xe máy điện leo dốc dài, giữ pin và phanh thế nào](/xe-may/2026/10/10/xe-may-ien-leo-doc-dai-giu-pin-va-phanh-the-nao/) sẽ giúp bạn xử lý kỹ hơn.
+Dốc là chỗ pin tụt nhanh nhất. Với cầu vượt hay dốc cầu, hãy vào dốc bằng nhịp ổn định, đừng vặn ga gấp giữa chừng. Nếu hay phải qua nhiều dốc liên tiếp, bài về [xe máy điện leo dốc dài, giữ pin và phanh thế nào](/xe-may/2026/10/10/xe-may-dien-leo-doc-dai-giu-pin-va-phanh-the-nao/) sẽ giúp bạn xử lý kỹ hơn.
 
-Với chuyến dài, hãy dành vài phút trước khi đi để nhìn lại lộ trình, chia thành từng chặng và chọn chỗ nghỉ. Quãng đường mỗi lần sạc phụ thuộc vào xe, hãng, tải, thời tiết lẫn cách lái, nên đừng lấy con số người khác kể làm mốc. Bạn có thể đọc thêm về [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-uong-mot-lan-sac-cua-xe-may-ien/) để hiểu vì sao mỗi người một khác.
+Với chuyến dài, hãy dành vài phút trước khi đi để nhìn lại lộ trình, chia thành từng chặng và chọn chỗ nghỉ. Quãng đường mỗi lần sạc phụ thuộc vào xe, hãng, tải, thời tiết lẫn cách lái, nên đừng lấy con số người khác kể làm mốc. Bạn có thể đọc thêm về [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-duong-mot-lan-sac-cua-xe-may-dien/) để hiểu vì sao mỗi người một khác.
 
 Hãy đặt mốc quay về từ sớm, khi pin còn kha khá, thay vì chờ tới lúc chỉ còn rất ít.
 
@@ -71,7 +71,7 @@ Nếu đang ở xa mà vạch pin tụt nhanh hơn bạn nghĩ, đừng hoảng 
 3. Tìm chỗ dừng an toàn, xem lại vị trí để quyết định đi tiếp hay quay về.
 4. Nếu xe có chế độ tiết kiệm, chỉ dùng theo hướng dẫn của cửa hàng hoặc nhà sản xuất, vì chế độ này tùy xe.
 
-Khi xe yếu hẳn, có cảnh báo lạ hoặc pin nóng bất thường, hãy dừng ở nơi an toàn và báo cửa hàng cho thuê trước khi làm bất cứ việc gì khác. Bạn không tự mở pin, không tự sửa, còn việc sạc thì làm đúng hướng dẫn của cửa hàng hoặc nhà sản xuất. Nếu lỡ hết pin giữa đường, hãy đọc thêm [cách xử lý khi xe máy điện hết pin giữa đường](/xe-may/2026/10/10/xe-may-ien-het-pin-giua-uong-xu-ly-the-nao/).
+Khi xe yếu hẳn, có cảnh báo lạ hoặc pin nóng bất thường, hãy dừng ở nơi an toàn và báo cửa hàng cho thuê trước khi làm bất cứ việc gì khác. Bạn không tự mở pin, không tự sửa, còn việc sạc thì làm đúng hướng dẫn của cửa hàng hoặc nhà sản xuất. Nếu lỡ hết pin giữa đường, hãy đọc thêm [cách xử lý khi xe máy điện hết pin giữa đường](/xe-may/2026/10/10/xe-may-dien-het-pin-giua-duong-xu-ly-the-nao/).
 
 ## Bắt đầu từ một vòng thử ngắn
 

@@ -20,7 +20,7 @@ Bạn chỉ cần đi vài cây số mỗi ngày: từ nhà ra chỗ làm, ghé 
 
 Trước khi so sánh xe, hãy so sánh chuyến đi. Hình dung hai người cùng ở khu Bồ Đề. Người thứ nhất sáng ra chợ, trưa đón người nhà, chiều ghé quán nước quen, ngày nào cũng lên xuống xe bảy tám lần. Người thứ hai đi làm ở khu phố cổ, gửi xe rồi đi bộ nốt đoạn cuối. Cả hai đều chỉ chạy quãng ngắn, nhưng người đầu cần chiếc xe lúc nào cũng sẵn sàng, còn người sau cần chiếc xe gọn, dễ gửi, dễ dắt.
 
-Hãy ghi ra giấy ba việc: mỗi ngày đi mấy chuyến, có phải chở đồ hay chở thêm người không, và có hôm nào buộc đi xa hơn thường lệ không. Nếu những hôm "đi xa hơn" xuất hiện đều đặn, bài về [quãng đường mà một chiếc xe nhỏ chạy được trong ngày](/xe-may/2026/10/09/xe-50cc-thue-chay-uoc-quang-uong-nao-trong-ngay/) sẽ giúp bạn hình dung giới hạn trước khi quyết định.
+Hãy ghi ra giấy ba việc: mỗi ngày đi mấy chuyến, có phải chở đồ hay chở thêm người không, và có hôm nào buộc đi xa hơn thường lệ không. Nếu những hôm "đi xa hơn" xuất hiện đều đặn, bài về [quãng đường mà một chiếc xe nhỏ chạy được trong ngày](/xe-may/2026/10/09/xe-50cc-thue-chay-duoc-quang-duong-nao-trong-ngay/) sẽ giúp bạn hình dung giới hạn trước khi quyết định.
 
 ## So sánh xe 50cc và xe đạp điện về cảm giác lái và tốc độ thực tế
 
@@ -28,7 +28,7 @@ Xe 50cc thường nhẹ, bánh nhỏ, tăng tốc êm hơn các dòng xe lớn. 
 
 Xe đạp điện lại gần như im lặng. Vặn ga là xe đi ngay, không có độ trễ của máy nổ, nhiều người lúc đầu thấy hơi giật. Sự yên tĩnh này dễ chịu, nhưng người đi bộ và xe khác cũng không nghe thấy bạn đến gần, nhất là trong ngõ hẹp. Bạn nên bấm chuông hoặc còi sớm hơn thường lệ.
 
-Còn tốc độ thực tế? Giờ cao điểm trong nội thành, nhịp đi do dòng xe chung quyết định, xe nào cũng ít khi được chạy nhanh hơn người phía trước. Xe đạp điện thường kém đà hơn khi ngược gió hoặc lên dốc, xe 50cc thường nhỉnh hơn một chút khi cần bắt nhịp theo dòng xe, nhưng cả hai đều hợp với kiểu đi thong thả. Mỗi mẫu một khác, nên hãy chạy thử trên đúng cung đường bạn hay đi. Về cách giữ nhịp nhẹ nhàng giữa phố đông, bạn có thể đọc thêm bài [đi xe nhẹ, chậm giữa phố Hà Nội](/xe-may/2026/10/11/thue-xe-50cc-i-pho-ha-noi-nhe-cham-va-ung-lan/).
+Còn tốc độ thực tế? Giờ cao điểm trong nội thành, nhịp đi do dòng xe chung quyết định, xe nào cũng ít khi được chạy nhanh hơn người phía trước. Xe đạp điện thường kém đà hơn khi ngược gió hoặc lên dốc, xe 50cc thường nhỉnh hơn một chút khi cần bắt nhịp theo dòng xe, nhưng cả hai đều hợp với kiểu đi thong thả. Mỗi mẫu một khác, nên hãy chạy thử trên đúng cung đường bạn hay đi. Về cách giữ nhịp nhẹ nhàng giữa phố đông, bạn có thể đọc thêm bài [đi xe nhẹ, chậm giữa phố Hà Nội](/xe-may/2026/10/11/thue-xe-50cc-di-pho-ha-noi-nhe-cham-va-dung-lan/).
 
 ## Trọng lượng: chuyện dắt xe, dựng xe và vào ngõ
 
@@ -46,7 +46,7 @@ Quên đổ xăng thì bạn vẫn dắt xe ra cây xăng gần nhất được.
 
 ## Đi mưa và chở đồ khi dùng xe nhỏ
 
-Mưa đầu thu ở Hà Nội thường ập đến rất nhanh. Mặt đường lúc mưa vừa tạnh trơn hơn bạn nghĩ, nhất là vạch sơn, nắp cống và lá rụng dưới gốc cây ven phố. Cả hai loại xe đều cần phanh sớm, giảm tốc trước khi vào cua và giữ khoảng cách rộng hơn. Bài về [độ an toàn của dòng xe nhỏ trong phố Hà Nội](/xe-may/2026/09/27/o-an-toan-cua-xe-50cc-trong-pho-ha-noi/) có thêm vài nguyên tắc cho những hôm trời ướt.
+Mưa đầu thu ở Hà Nội thường ập đến rất nhanh. Mặt đường lúc mưa vừa tạnh trơn hơn bạn nghĩ, nhất là vạch sơn, nắp cống và lá rụng dưới gốc cây ven phố. Cả hai loại xe đều cần phanh sớm, giảm tốc trước khi vào cua và giữ khoảng cách rộng hơn. Bài về [độ an toàn của dòng xe nhỏ trong phố Hà Nội](/xe-may/2026/09/27/do-an-toan-cua-xe-50cc-trong-pho-ha-noi/) có thêm vài nguyên tắc cho những hôm trời ướt.
 
 Xe đạp điện còn phải để ý chuyện nước vào hệ thống điện. Khả năng chống nước tùy từng mẫu, nên hãy hỏi người bán hoặc cửa hàng cho thuê trước khi lội qua đoạn ngập. Xe 50cc cũng không ưa nước sâu: nước tạt vào ống xả hay bộ phận đánh lửa có thể làm xe chết máy giữa đường. Nếu không chắc, hãy dừng lại, tìm chỗ khô. Xe có dấu hiệu lạ sau khi lội nước thì nhờ thợ kiểm tra, và với xe thuê thì báo cửa hàng trước khi tự xử lý.
 

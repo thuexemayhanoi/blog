@@ -43,7 +43,7 @@ Với lễ tân, bạn có thể hỏi gọn như sau:
 - Ai được cắm và rút sạc, khách tự làm hay nhờ nhân viên?
 - Khách có được mang pin lên phòng không, hay chỉ sạc ở khu vực chung?
 
-Hãy xem câu trả lời "không" là một thông tin bình thường. Nhiều nơi có lý do riêng về an toàn cháy nổ và hệ thống điện của tòa nhà, và việc tự cắm vào ổ cắm không dành cho sạc xe là điều nên tránh. Nếu được phép sạc, nguyên tắc chung là chọn chỗ thoáng, xa chăn, rèm và đồ dễ cháy, hạn chế dây nối tạm bợ, tránh để sạc khi không có ai ở gần. Phần chi tiết hơn nằm trong bài về [sạc pin qua đêm ở nơi trọ](/xe-may/2026/10/03/sac-pin-qua-em-noi-tro-an-toan-the-nao/).
+Hãy xem câu trả lời "không" là một thông tin bình thường. Nhiều nơi có lý do riêng về an toàn cháy nổ và hệ thống điện của tòa nhà, và việc tự cắm vào ổ cắm không dành cho sạc xe là điều nên tránh. Nếu được phép sạc, nguyên tắc chung là chọn chỗ thoáng, xa chăn, rèm và đồ dễ cháy, hạn chế dây nối tạm bợ, tránh để sạc khi không có ai ở gần. Phần chi tiết hơn nằm trong bài về [sạc pin qua đêm ở nơi trọ](/xe-may/2026/10/03/sac-pin-qua-dem-noi-tro-an-toan-the-nao/).
 
 Nếu pin nóng bất thường, có mùi lạ, phồng lên hoặc bốc khói, hãy ngắt sạc nếu làm được một cách an toàn, tránh xa, báo ngay cho lễ tân và cửa hàng cho thuê. Đừng tự mở hay sửa pin.
 
@@ -63,7 +63,7 @@ Với xe điện tại Thuê Xe Máy Hà Nội Nguyễn Tú (112 Nguyễn Văn C
 
 Tình huống thứ nhất: bạn ở homestay trong một ngõ nhỏ gần chợ Đồng Xuân, chủ nhà ở cùng. Lễ tân bảo chỗ dắt xe chỉ vừa vài chiếc xe máy, chưa từng có khách để xe điện. Đừng vội bỏ cuộc: xin xem chỗ để, chụp ảnh gửi chủ xe, và hỏi xem có thể nhận xe vào sáng hôm sau thay vì chiều tối. Nếu chỗ quá chật, ngày đầu bạn đi bộ quanh phố cổ rồi nhận xe sau cũng không mất gì.
 
-Tình huống thứ hai: bạn ở khách sạn nhỏ gần hồ Hoàn Kiếm, xe để được trong sảnh nhưng không có ổ sạc cho khách và không cho mang pin lên phòng. Lúc này kế hoạch sạc phải chuyển ra ngoài. Hãy tính trước lịch đi trong ngày để pin không cạn đúng lúc ở xa, và xem bài về [sạc xe điện thuê ở trạm sạc công cộng](/xe-may/2026/10/09/sac-xe-may-ien-thue-o-tram-sac-cong-cong-nhu-the-nao/). Thông tin về điểm sạc có thể thay đổi, nên hãy kiểm tra lại trước khi đi.
+Tình huống thứ hai: bạn ở khách sạn nhỏ gần hồ Hoàn Kiếm, xe để được trong sảnh nhưng không có ổ sạc cho khách và không cho mang pin lên phòng. Lúc này kế hoạch sạc phải chuyển ra ngoài. Hãy tính trước lịch đi trong ngày để pin không cạn đúng lúc ở xa, và xem bài về [sạc xe điện thuê ở trạm sạc công cộng](/xe-may/2026/10/09/sac-xe-may-dien-thue-o-tram-sac-cong-cong-nhu-the-nao/). Thông tin về điểm sạc có thể thay đổi, nên hãy kiểm tra lại trước khi đi.
 
 ## Một tin nhắn mẫu gửi trước ngày nhận phòng
 

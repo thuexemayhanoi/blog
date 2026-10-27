@@ -46,7 +46,7 @@ Về an toàn khi sạc, chỉ nên theo nguyên tắc chung: dùng đúng bộ 
 
 Pin lithium thường chịu được nhiều lần sạc hơn và giữ sức kéo khá đều cho tới khi gần cạn. Nhưng nó cũng chai theo thời gian, và chịu ảnh hưởng của nhiệt độ lẫn cách sạc. Một hộp pin đã qua nhiều kỳ thuê vẫn có thể yếu hơn hộp còn mới dù cùng loại.
 
-Với xe thuê, điều đáng hỏi không phải loại nào bền hơn trên lý thuyết, mà là bình trên chiếc xe bạn sắp nhận đã dùng lâu chưa và gần đây có được kiểm tra không. Dấu hiệu chai được mô tả trong bài [pin xe điện chai sau kỳ thuê dài](/xe-may/2026/10/05/pin-xe-ien-chai-sau-ky-thue-dai-dau-hieu-nhan-biet/), còn chuyện pin tụt nhanh khi trời lạnh có trong bài [xe máy điện thuê đi mùa lạnh](/kinh%20nghi%E1%BB%87m/2026/09/19/xe-may-dien-thue-di-mua-lanh-pin-tu-nhanh/).
+Với xe thuê, điều đáng hỏi không phải loại nào bền hơn trên lý thuyết, mà là bình trên chiếc xe bạn sắp nhận đã dùng lâu chưa và gần đây có được kiểm tra không. Dấu hiệu chai được mô tả trong bài [pin xe điện chai sau kỳ thuê dài](/xe-may/2026/10/05/pin-xe-dien-chai-sau-ky-thue-dai-dau-hieu-nhan-biet/), còn chuyện pin tụt nhanh khi trời lạnh có trong bài [xe máy điện thuê đi mùa lạnh](/kinh%20nghi%E1%BB%87m/2026/09/19/xe-may-dien-thue-di-mua-lanh-pin-tu-nhanh/).
 
 ## Nhận biết pin lithium hay ắc quy chì ngay trên xe
 
@@ -69,7 +69,7 @@ Bạn có thể chụp lại danh sách ngắn này để dùng ở bất kỳ n
 4. Nếu pin yếu giữa chuyến thì liên hệ ai, xử lý ra sao?
 5. Chi phí phát sinh khi có sự cố về pin hoặc bộ sạc được tính thế nào?
 
-Hai câu cuối nên được trả lời rõ trước khi đặt xe, vì ra đường rồi bạn không còn nhiều lựa chọn. Tình huống đồng hồ báo thấp pin có bài riêng về [pin xe máy điện báo sập trên bảng đồng hồ](/xe-may/2026/10/07/pin-xe-may-ien-thue-bao-sap-o-au-tren-bang-ong-ho/).
+Hai câu cuối nên được trả lời rõ trước khi đặt xe, vì ra đường rồi bạn không còn nhiều lựa chọn. Tình huống đồng hồ báo thấp pin có bài riêng về [pin xe máy điện báo sập trên bảng đồng hồ](/xe-may/2026/10/07/pin-xe-may-dien-thue-bao-sap-o-dau-tren-bang-dong-ho/).
 
 Với xe điện tại cửa hàng của Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, bạn nên liên hệ 0942 467 674 (09:00–21:00) để xác nhận loại pin và giá hiện tại.
 

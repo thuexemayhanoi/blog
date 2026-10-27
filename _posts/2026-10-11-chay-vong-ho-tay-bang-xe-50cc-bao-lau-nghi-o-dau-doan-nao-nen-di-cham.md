@@ -20,7 +20,7 @@ Nhìn trên bản đồ, Hồ Tây chỉ là một vòng tròn lớn, nhưng ch�
 
 Câu trả lời thật thà là tùy nhịp đi. Phần chạy xe thuần túy không ngốn nhiều thời gian nhất. Thời gian nằm ở những lần dừng chụp ảnh, uống nước, đi bộ ra sát mép hồ và những đoạn xe nối đuôi nhau.
 
-Cách tính dễ nhất là coi vòng hồ là cả một buổi, không phải việc cần làm cho xong. Chia vòng hồ thành vài chặng, mỗi chặng chạy một đoạn rồi dừng. Đừng ép mình theo một con số, vì chiều cuối tuần đông và sáng ngày thường thoáng cho hai kết quả rất khác nhau. Muốn biết một chiếc xe nhẹ hợp với tầm đi nào, bài về [quãng đường xe 50cc thuê đi được trong một ngày](/xe-may/2026/10/09/xe-50cc-thue-chay-uoc-quang-uong-nao-trong-ngay/) cho bạn khung tham khảo.
+Cách tính dễ nhất là coi vòng hồ là cả một buổi, không phải việc cần làm cho xong. Chia vòng hồ thành vài chặng, mỗi chặng chạy một đoạn rồi dừng. Đừng ép mình theo một con số, vì chiều cuối tuần đông và sáng ngày thường thoáng cho hai kết quả rất khác nhau. Muốn biết một chiếc xe nhẹ hợp với tầm đi nào, bài về [quãng đường xe 50cc thuê đi được trong một ngày](/xe-may/2026/10/09/xe-50cc-thue-chay-duoc-quang-duong-nao-trong-ngay/) cho bạn khung tham khảo.
 
 ## Chọn giờ xuất phát: sáng muộn hay chiều muộn
 
@@ -58,11 +58,11 @@ Nghỉ cũng là để giữ sức người lái. Khi tay mỏi, mắt cay vì n
 
 ## Giữ nhịp cho chiếc xe nhẹ giữa dòng xe quanh hồ
 
-Xe 50cc thường nhẹ và dễ xoay trở, nhưng tăng tốc hiền hơn các xe lớn. Vì vậy đừng chờ khe hở nhỏ để lách, hãy đợi khoảng trống rộng rồi mới nhập dòng. Ở các ngã tư đông dẫn ra đường quanh hồ, bài về [cách xuất phát khi đèn xanh vừa bật](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-ong-cach-xuat-phat-khi-en-xanh-bat/) giải thích kỹ nhịp ga và quan sát cho xe nhẹ.
+Xe 50cc thường nhẹ và dễ xoay trở, nhưng tăng tốc hiền hơn các xe lớn. Vì vậy đừng chờ khe hở nhỏ để lách, hãy đợi khoảng trống rộng rồi mới nhập dòng. Ở các ngã tư đông dẫn ra đường quanh hồ, bài về [cách xuất phát khi đèn xanh vừa bật](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-dong-cach-xuat-phat-khi-den-xanh-bat/) giải thích kỹ nhịp ga và quan sát cho xe nhẹ.
 
 Hãy giữ khoảng cách với xe phía trước rộng hơn bình thường ở những khúc có người chụp ảnh, vì họ có thể dừng hoặc quay đầu mà không báo trước. Khi mặt đường ẩm, vạch kẻ và nắp cống trơn hơn nên phanh nhẹ và sớm hơn. Muốn chụp ảnh thì dừng hẳn rồi mới lấy điện thoại ra.
 
-Nếu mới làm quen xe nhẹ giữa phố, bài về [nhịp đi nhẹ và chậm giữa phố Hà Nội](/xe-may/2026/10/11/thue-xe-50cc-i-pho-ha-noi-nhe-cham-va-ung-lan/) là bước tập tốt trước khi ra hồ.
+Nếu mới làm quen xe nhẹ giữa phố, bài về [nhịp đi nhẹ và chậm giữa phố Hà Nội](/xe-may/2026/10/11/thue-xe-50cc-di-pho-ha-noi-nhe-cham-va-dung-lan/) là bước tập tốt trước khi ra hồ.
 
 ## Kiểm tra nhanh trước khi rời cửa hàng
 

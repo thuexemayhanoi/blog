@@ -32,11 +32,11 @@ Tối thứ bảy, nếu còn sức, thêm một khúc chạy vòng quanh dải 
 
 ## Ngày hai: chọn một trong ba hướng ngoại thành
 
-Hướng bắc: cụm [thành Cổ Loa bằng xe máy từ nội thành](/du-lich/2026/10/11/thanh-co-loa-bang-xe-may-tu-noi-thanh-uong-i-va-nen-ghe-nhung-iem-nao/), rồi nối sang [Sóc Sơn với núi Hàm Lồng và hồ Đồng Đò](/du-lich/2026/10/11/i-soc-son-bang-xe-may-nui-ham-lon-ho-ong-quan-va-en-soc/). Tuyến này ngắn nhất, đường rộng, hợp cho người mới chạy xa.
+Hướng bắc: cụm [thành Cổ Loa bằng xe máy từ nội thành](/du-lich/2026/10/11/thanh-co-loa-bang-xe-may-tu-noi-thanh-duong-di-va-nen-ghe-nhung-diem-nao/), rồi nối sang [Sóc Sơn với núi Hàm Lồng và hồ Đồng Đò](/du-lich/2026/10/11/di-soc-son-bang-xe-may-nui-ham-lon-ho-dong-quan-va-den-soc/). Tuyến này ngắn nhất, đường rộng, hợp cho người mới chạy xa.
 
-Hướng đông: băng cầu sang Gia Lâm với các làng nghề gần phố hoặc [rắn Lê Mát](/du-lich/2026/10/11/ghe-lang-ran-le-mat-bang-xe-may-lo-trinh-va-luu-y-i-lai/). Tuyến này hợp ai muốn xem nghề thủ công và ăn món làng, quãng chạy ngắn.
+Hướng đông: băng cầu sang Gia Lâm với các làng nghề gần phố hoặc [rắn Lê Mát](/du-lich/2026/10/11/ghe-lang-ran-le-mat-bang-xe-may-lo-trinh-va-luu-y-di-lai/). Tuyến này hợp ai muốn xem nghề thủ công và ăn món làng, quãng chạy ngắn.
 
-Hướng tây: lên [Ba Vì nửa ngày](/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/) hoặc [Đồng Mô cuối tuần](/cung-duong/2026/09/28/chay-xe-tu-ha-noi-en-khu-du-lich-ong-mo-cuoi-tuan/). Tuyến này dài nhất và đẹp nhất, hợp nhóm thích cung đường và cảnh rừng núi, nhưng cần xuất phát sớm và tính xăng kỹ. Ai lần đầu đi ngoại thành nên đọc bài [đi xe máy ra ngoại thành Hà Nội cuối tuần chọn hướng nào](/du-lich/2026/09/28/i-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao/) trước khi chốt hướng.
+Hướng tây: lên [Ba Vì nửa ngày](/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/) hoặc [Đồng Mô cuối tuần](/cung-duong/2026/09/28/chay-xe-tu-ha-noi-den-khu-du-lich-dong-mo-cuoi-tuan/). Tuyến này dài nhất và đẹp nhất, hợp nhóm thích cung đường và cảnh rừng núi, nhưng cần xuất phát sớm và tính xăng kỹ. Ai lần đầu đi ngoại thành nên đọc bài [đi xe máy ra ngoại thành Hà Nội cuối tuần chọn hướng nào](/du-lich/2026/09/28/di-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao/) trước khi chốt hướng.
 
 Chọn hướng cũng nên theo mùa: hè nắng gắt thì hướng bắc và đông ngắn, về được trước nắng chiều; thu đông trời mát thì hướng tây lên vùng núi đẹp nhất, sương sớm và nắng xiên chiều rất đáng giá công chạy. Mùa mưa bão thì giữ mọi hướng ở mức nửa ngày, vì đường đê trơn và sông ngòi lên nhanh.
 

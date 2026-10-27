@@ -32,7 +32,7 @@ Tiếp theo là tư thế. Đứng ở một bên thân xe, một tay giữ tay 
 
 Vài chi tiết nhỏ hay bị bỏ qua:
 
-- Tháo túi xách, bịch đồ khỏi móc trước và tay lái, vì đồ nặng treo lệch làm xe kéo bạn đi hướng khác. Hành lý nặng còn ảnh hưởng đến pin, xem thêm [những điều cần quan sát khi pin giảm nhanh lúc chở nặng](/xe-may/2026/10/11/xe-may-ien-bao-pin-giam-nhanh-khi-cho-nang-can-quan-sat-gi/).
+- Tháo túi xách, bịch đồ khỏi móc trước và tay lái, vì đồ nặng treo lệch làm xe kéo bạn đi hướng khác. Hành lý nặng còn ảnh hưởng đến pin, xem thêm [những điều cần quan sát khi pin giảm nhanh lúc chở nặng](/xe-may/2026/10/11/xe-may-dien-bao-pin-giam-nhanh-khi-cho-nang-can-quan-sat-gi/).
 - Đi giày hoặc dép có quai, bước ngắn, đẩy đều, không giật.
 
 ## Dắt xe lên vỉa hè: chọn chỗ thấp, đi thẳng, đừng cố

@@ -40,7 +40,7 @@ Nguyên tắc phổ thông là đừng để pin cạn sát đáy rồi bỏ xe 
 
 Hình dung chiều thứ Sáu bạn về quê, chiều Chủ nhật tuần sau mới lên, xe nằm trong tầng hầm một chung cư ở Long Biên. Nếu đồng hồ đang báo còn rất ít, hãy sạc lên mức vừa phải trước khi đi, đừng để xe cạn pin suốt mấy hôm. Nếu pin còn khá nhiều thì cứ để nguyên, không cần cố xả bớt.
 
-Có một điều nên tránh: cắm sạc suốt những ngày vắng nhà. Sạc nên diễn ra khi có người ở gần, bằng đúng bộ sạc dành cho xe và theo hướng dẫn của cửa hàng. Nếu chưa rõ sạc ở đâu, mất bao lâu, bạn có thể đọc [chuyện sạc xe điện khi đang thuê](/xe-may/2026/09/27/sac-xe-may-ien-khi-thue-o-au-va-mat-bao-lau/) trước khi lên đường.
+Có một điều nên tránh: cắm sạc suốt những ngày vắng nhà. Sạc nên diễn ra khi có người ở gần, bằng đúng bộ sạc dành cho xe và theo hướng dẫn của cửa hàng. Nếu chưa rõ sạc ở đâu, mất bao lâu, bạn có thể đọc [chuyện sạc xe điện khi đang thuê](/xe-may/2026/09/27/sac-xe-may-dien-khi-thue-o-dau-va-mat-bao-lau/) trước khi lên đường.
 
 ## Đi tỉnh vài hôm, có cần rút nguồn không
 
@@ -56,7 +56,7 @@ Trước khi khóa xe đi xa, bạn có thể làm theo thứ tự sau:
 
 ## Chọn chỗ đỗ cho xe nghỉ vài ngày
 
-Chỗ đỗ ảnh hưởng không kém mức pin. Hãy ưu tiên nơi khô ráo, thoáng, có mái che; tránh nắng gắt trực tiếp và tránh chỗ nước dễ tràn vào sau cơn mưa lớn, nhất là tầng hầm thấp. Hà Nội có những đợt nồm ẩm kéo dài, nền nhà ống tầng trệt đọng hơi nước nhiều ngày, nên kê xe xa góc ẩm nhất và đừng để bộ sạc nằm sát nền ướt. Nếu xe buộc phải đỗ ngoài trời giữa mùa nắng, hãy đọc trước [chuyện pin gặp trời nóng](/xe-may/2026/10/09/xe-may-ien-thue-khi-troi-qua-nong-pin-co-sao-khong/).
+Chỗ đỗ ảnh hưởng không kém mức pin. Hãy ưu tiên nơi khô ráo, thoáng, có mái che; tránh nắng gắt trực tiếp và tránh chỗ nước dễ tràn vào sau cơn mưa lớn, nhất là tầng hầm thấp. Hà Nội có những đợt nồm ẩm kéo dài, nền nhà ống tầng trệt đọng hơi nước nhiều ngày, nên kê xe xa góc ẩm nhất và đừng để bộ sạc nằm sát nền ướt. Nếu xe buộc phải đỗ ngoài trời giữa mùa nắng, hãy đọc trước [chuyện pin gặp trời nóng](/xe-may/2026/10/09/xe-may-dien-thue-khi-troi-qua-nong-pin-co-sao-khong/).
 
 Cũng đừng đặt xe cạnh đồ dễ cháy như đống giấy, bìa cứng, can xăng, và đừng chắn lối đi chung hay cầu thang thoát hiểm. Xe đỗ nhiều ngày mà thành vật cản trong hành lang thì phiền cả hàng xóm lẫn ban quản lý.
 

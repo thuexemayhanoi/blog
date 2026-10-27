@@ -32,7 +32,7 @@ Từ cụm đền, hãy chạy chậm theo đường làng vòng ra các đoạn
 
 Cuốihành trình nên ghé chùa Cổ Loa cạnh hồ nước: chùa cổ, sân vắng, hợp làm điểm nghỉ trước khi lên đường về. Vào dịp lễ hội Cổ Loa đầu năm, cả khu di tích đông từ sáng sớm, các ngõ tạm thành bãi xe, và khi đó kinh nghiệm là gửi xe ở bãi quy hoạch xa cổng chính rồi đi bộ vào. Ngày thường vắng, bạn có thể dừng từng điểm thoải mái.
 
-Tổng thời gian trong khu: đi kỹ hết các điểm cần khoảng hai đến ba tiếng với tốc độ thong thả, hoặc một tiếng rưỡi nếu chỉ ghé đền Thượng, am Bà Chúa và giếng Ngọc. Xem thêm các gợi ý điểm đến khác trong [chuyên mục điểm đến](/du-lich/diem-den/), hoặc trải nghiệm [chạy xe dọc bãi sông Hồng quanh cầu Long Biên](/du-lich/2026/09/28/cau-long-bien-va-uong-ven-song-trai-nghiem-i-xe-may/) nếu bạn muốn nối chuyến đi bằng một quãng ven sông chiều.
+Tổng thời gian trong khu: đi kỹ hết các điểm cần khoảng hai đến ba tiếng với tốc độ thong thả, hoặc một tiếng rưỡi nếu chỉ ghé đền Thượng, am Bà Chúa và giếng Ngọc. Xem thêm các gợi ý điểm đến khác trong [chuyên mục điểm đến](/du-lich/diem-den/), hoặc trải nghiệm [chạy xe dọc bãi sông Hồng quanh cầu Long Biên](/du-lich/2026/09/28/cau-long-bien-va-duong-ven-song-trai-nghiem-di-xe-may/) nếu bạn muốn nối chuyến đi bằng một quãng ven sông chiều.
 
 ## Khung giờ và mùa đi đẹp
 

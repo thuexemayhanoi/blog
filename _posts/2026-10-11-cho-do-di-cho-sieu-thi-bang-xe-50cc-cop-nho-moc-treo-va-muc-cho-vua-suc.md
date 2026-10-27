@@ -22,7 +22,7 @@ Xe 50cc nhẹ, bánh nhỏ, tăng tốc êm hơn các dòng xe lớn. Những đ
 
 Phần khó lái còn đến từ chỗ đặt đồ. Túi nặng treo lệch một bên khiến xe có xu hướng kéo về phía đó mỗi khi rẽ. Túi nặng treo sát tay lái kéo cả cụm lái xuống, bạn phải giữ tay lái chặt hơn mới đi thẳng. Bánh nhỏ lại bắt từng gờ giảm tốc, từng ổ gà rõ hơn, khiến túi đồ nảy lên rồi đung đưa.
 
-Nếu tò mò xe nhẹ phản ứng ra sao khi gặp dốc, bài về [chuyện leo dốc cầu Diễn bằng xe 50cc thuê](/xe-may/2026/10/09/xe-50cc-thue-leo-doc-cau-dien-uoc-khong/) có phần phân tích riêng. Ở đây chỉ cần nhớ: thêm đồ nặng thì đoạn dốc nào cũng thành ì hơn.
+Nếu tò mò xe nhẹ phản ứng ra sao khi gặp dốc, bài về [chuyện leo dốc cầu Diễn bằng xe 50cc thuê](/xe-may/2026/10/09/xe-50cc-thue-leo-doc-cau-dien-duoc-khong/) có phần phân tích riêng. Ở đây chỉ cần nhớ: thêm đồ nặng thì đoạn dốc nào cũng thành ì hơn.
 
 ## Cốp xe 50cc để được gì và nên tránh nhét gì
 
@@ -63,7 +63,7 @@ Trước khi nổ máy, đẩy nhẹ xe một đoạn ngắn, nghiêng thử hai
 
 **Siêu thị cuối tuần trong khu đô thị.** Dễ mua nhiều hơn dự định vì xe đẩy to, hàng bày đầy kệ. Hãy nghĩ trước xe chở được bao nhiêu và chỉ mua từng ấy. Dắt xe ra chỗ thoáng rồi mới treo túi, vì giữa hai hàng xe sát nhau, tay lái nặng một bên rất khó xoay. Qua đoạn dốc hầm gửi xe, hãy kiểm tra lại quai và miệng túi.
 
-**Những đoạn đường thoáng, nhiều gió.** Túi to, bao nilon phồng lên dễ thành cánh buồm khi gió lùa ngang, làm xe lắc nhẹ. Hãy giữ tốc độ vừa phải, siết túi lại và tránh treo món cồng kềnh. Nếu buổi đi mua kéo dài thành cả ngày rong ruổi, xem thêm bài về [quãng đường nên đi trong ngày với xe 50cc thuê](/xe-may/2026/10/09/xe-50cc-thue-chay-uoc-quang-uong-nao-trong-ngay/) để chia sức hợp lý.
+**Những đoạn đường thoáng, nhiều gió.** Túi to, bao nilon phồng lên dễ thành cánh buồm khi gió lùa ngang, làm xe lắc nhẹ. Hãy giữ tốc độ vừa phải, siết túi lại và tránh treo món cồng kềnh. Nếu buổi đi mua kéo dài thành cả ngày rong ruổi, xem thêm bài về [quãng đường nên đi trong ngày với xe 50cc thuê](/xe-may/2026/10/09/xe-50cc-thue-chay-duoc-quang-duong-nao-trong-ngay/) để chia sức hợp lý.
 
 ## Khi nào nên chia hai chuyến thay vì ép xe
 

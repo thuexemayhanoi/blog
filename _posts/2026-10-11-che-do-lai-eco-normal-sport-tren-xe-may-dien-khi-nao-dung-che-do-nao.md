@@ -55,11 +55,11 @@ Trong ngõ nhỏ khu phố cổ hay những tuyến nội đô tắc nhích từ
 
 ### Đường đê ven sông Hồng
 
-Đoạn đê dài, thoáng, ít đèn đỏ là nơi pin hao đều mà người lái dễ chủ quan. Gió ngang trên đê cũng làm xe tốn thêm sức. Normal hoặc Eco với tay ga đều là lựa chọn ổn; đừng phóng Sport ở đầu đê rồi mới lo khi còn nửa chặng. Nếu định chạy một quãng dài, bạn nên đọc thêm [cách ước tính pin khi chạy đường đê dài](/xe-may/2026/10/03/xe-may-ien-chay-uong-e-dai-tinh-pin-the-nao/) để chia chặng cho hợp lý.
+Đoạn đê dài, thoáng, ít đèn đỏ là nơi pin hao đều mà người lái dễ chủ quan. Gió ngang trên đê cũng làm xe tốn thêm sức. Normal hoặc Eco với tay ga đều là lựa chọn ổn; đừng phóng Sport ở đầu đê rồi mới lo khi còn nửa chặng. Nếu định chạy một quãng dài, bạn nên đọc thêm [cách ước tính pin khi chạy đường đê dài](/xe-may/2026/10/03/xe-may-dien-chay-duong-de-dai-tinh-pin-the-nao/) để chia chặng cho hợp lý.
 
 ### Cầu dốc và những đoạn lên xuống
 
-Chân cầu vượt hay dốc lên cầu bắc qua sông Hồng đòi hỏi lực kéo. Nếu Eco làm xe yếu, hãy chuyển sang Normal trước khi vào dốc thay vì đợi xe đuối mới đổi. Sport chỉ nên dùng ở đoạn ngắn thật cần thiết. Với dốc dài, pin và phanh đều bị thử thách, bài về [leo dốc dài giữ pin và phanh](/xe-may/2026/10/10/xe-may-ien-leo-doc-dai-giu-pin-va-phanh-the-nao/) nói rõ hơn cách xử lý. Khi xuống dốc, bạn không cần chế độ mạnh: để Eco, nhả ga cho xe lăn và phanh vừa đủ.
+Chân cầu vượt hay dốc lên cầu bắc qua sông Hồng đòi hỏi lực kéo. Nếu Eco làm xe yếu, hãy chuyển sang Normal trước khi vào dốc thay vì đợi xe đuối mới đổi. Sport chỉ nên dùng ở đoạn ngắn thật cần thiết. Với dốc dài, pin và phanh đều bị thử thách, bài về [leo dốc dài giữ pin và phanh](/xe-may/2026/10/10/xe-may-dien-leo-doc-dai-giu-pin-va-phanh-the-nao/) nói rõ hơn cách xử lý. Khi xuống dốc, bạn không cần chế độ mạnh: để Eco, nhả ga cho xe lăn và phanh vừa đủ.
 
 ## Những nhầm lẫn hay gặp khi đổi chế độ
 
@@ -73,6 +73,6 @@ Trước khi rời cửa hàng, hãy hỏi chiếc xe cụ thể bạn nhận c�
 
 Sau đó, tìm một đoạn đường vắng và thử từng chế độ trong vài phút với tay ga nhẹ. Bạn sẽ thấy ngay xe phản hồi khác nhau thế nào, mà chưa phải xử lý giữa dòng xe đông.
 
-Nếu giữa đường xe mất lực bất thường, đồng hồ báo lạ, hoặc đổi chế độ mà xe không phản hồi, hãy giảm tốc, dừng xe an toàn vào lề rồi báo cửa hàng. Đừng tự mở hay tự sửa pin, bộ điều khiển. Còn khi pin tụt thấp thật sự, bài [xử lý khi xe máy điện hết pin giữa đường](/xe-may/2026/10/10/xe-may-ien-het-pin-giua-uong-xu-ly-the-nao/) sẽ giúp bạn bình tĩnh hơn.
+Nếu giữa đường xe mất lực bất thường, đồng hồ báo lạ, hoặc đổi chế độ mà xe không phản hồi, hãy giảm tốc, dừng xe an toàn vào lề rồi báo cửa hàng. Đừng tự mở hay tự sửa pin, bộ điều khiển. Còn khi pin tụt thấp thật sự, bài [xử lý khi xe máy điện hết pin giữa đường](/xe-may/2026/10/10/xe-may-dien-het-pin-giua-duong-xu-ly-the-nao/) sẽ giúp bạn bình tĩnh hơn.
 
 Chuyến tới, hãy bắt đầu ở Normal, chuyển Eco khi vào đoạn êm hoặc pin xuống thấp, chỉ bật Sport khi thật cần lực. Muốn đọc thêm về pin, sạc và các tình huống trên đường, ghé mục [xe máy điện](/xe-may/xe-dien/) hoặc [chuyên mục xe máy](/xe-may/) của blog.

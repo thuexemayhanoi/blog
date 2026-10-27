@@ -30,7 +30,7 @@ Con đường chính của làng là một dãy cửa hiệu nối nhau: vải l
 
 Một vòng ngách vào các ngõ phía trong làng, bạn sẽ thấy thêm phần nghề: nhà còn khung cửi, sân phơi tơ, và những xưởng gia đình may áo dài, khăn lụa. Đây là phần thú vị nhất của Vạn Phúc mà khách vội thường bỏ sót, và cũng là chỗ để đặt may áo dài theo số đo nếu bạn có thời gian quay lại lấy sau vài ngày. Rời làng trước khi đói, hoặc ăn nhẹ ở các quán phở, quán chè quanh khu chợ Hà Đông gần đó.
 
-Nếu muốn nối chuyến thành nửa ngày, gần Vạn Phúc có các điểm đáng ghé thêm như [làng nghề Lễ Mát bằng xe máy](/du-lich/2026/10/11/ghe-lang-ran-le-mat-bang-xe-may-lo-trinh-va-luu-y-i-lai/) cùng khu phía tây nam thành phố, hoặc các gợi ý khác trong [chuyên mục điểm đến](/du-lich/diem-den/).
+Nếu muốn nối chuyến thành nửa ngày, gần Vạn Phúc có các điểm đáng ghé thêm như [làng nghề Lễ Mát bằng xe máy](/du-lich/2026/10/11/ghe-lang-ran-le-mat-bang-xe-may-lo-trinh-va-luu-y-di-lai/) cùng khu phía tây nam thành phố, hoặc các gợi ý khác trong [chuyên mục điểm đến](/du-lich/diem-den/).
 
 ## Chọn mua lụa: cách phân biệt lụa thật
 

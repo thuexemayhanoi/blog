@@ -50,7 +50,7 @@ Pin cố định không có chuyện bê vác, nên hợp với người ngại 
 
 Tình huống thường gặp: bạn ở khách sạn nhỏ trong khu phố cổ, xe gửi ở chỗ giữ xe của khách sạn hoặc bãi gần đó. Lúc đặt phòng, hãy hỏi lễ tân có chỗ nào cho xe điện cắm sạc không, ai trông coi, và có cho phép không. Nếu không có chỗ sạc, xe pin cố định sẽ khiến bạn mất công tìm nơi khác, còn pin tháo rời có thể giải quyết bằng cách mang pin lên phòng nếu khách sạn đồng ý.
 
-Nếu bạn cần phương án không phụ thuộc ổ điện nơi ở, hãy đọc thêm về [trạm đổi pin và ổ sạc](/xe-may/2026/10/11/sac-xe-may-ien-thue-o-ha-noi-tram-oi-pin-va-o-sac/) cho xe thuê, nhớ rằng mỗi hãng một kiểu nên cần hỏi lại cửa hàng.
+Nếu bạn cần phương án không phụ thuộc ổ điện nơi ở, hãy đọc thêm về [trạm đổi pin và ổ sạc](/xe-may/2026/10/11/sac-xe-may-dien-thue-o-ha-noi-tram-doi-pin-va-o-sac/) cho xe thuê, nhớ rằng mỗi hãng một kiểu nên cần hỏi lại cửa hàng.
 
 ## Sạc trong phòng: vài nguyên tắc an toàn
 
@@ -71,7 +71,7 @@ Không có loại pin nào tốt hơn tuyệt đối, chỉ có loại hợp ho�
 - Chung cư có thang máy, chủ nhà cho sạc trong phòng: pin tháo rời thường tiện hơn.
 - Nhà trọ nhiều tầng không thang máy: cân nhắc kỹ, vì bê pin hằng ngày dễ thành việc nặng nhọc.
 - Có chỗ đỗ xe riêng kèm ổ điện dành cho xe: loại nào cũng ổn.
-- Không cho mang pin lên phòng và cũng không có ổ sạc: hỏi cửa hàng phương án đổi pin, hoặc cân nhắc [xe điện hay xe xăng](/xe-may/2026/09/27/xe-may-ien-voi-xe-xang-chon-nao-khi-thue/) cho chuyến này.
+- Không cho mang pin lên phòng và cũng không có ổ sạc: hỏi cửa hàng phương án đổi pin, hoặc cân nhắc [xe điện hay xe xăng](/xe-may/2026/09/27/xe-may-dien-voi-xe-xang-chon-nao-khi-thue/) cho chuyến này.
 
 Nếu hay đi nhiều chặng trong ngày, hãy [lập kế hoạch pin](/kinh%20nghi%E1%BB%87m/2026/09/19/lap-ke-hoach-pin-xe-dien-hang-ngay/) trước để không phải loay hoay tìm chỗ sạc giữa chừng.
 
