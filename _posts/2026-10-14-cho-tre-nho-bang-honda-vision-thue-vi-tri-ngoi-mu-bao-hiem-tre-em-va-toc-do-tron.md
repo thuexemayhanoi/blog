@@ -37,7 +37,7 @@ Cách thử mũ nhanh ngay tại chỗ:
 3. **Quai cằm.** Cài chặt vừa đủ để luồn khoảng một ngón tay người lớn. Quai lỏng là mũ tuột khi bé ngủ gật.
 4. **Mũ còn nguyên vẹn.** Không nứt vỏ, lớp xốp bên trong không bị bóp méo.
 
-Cách chọn cỡ và chất liệu mũ cho bé được nói kỹ trong bài [chọn mũ bảo hiểm cho trẻ đi cùng trên xe máy thuê](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-i-cung-tren-xe-may-thue/). Những điều kiện pháp lý khi chở trẻ, bạn nên tự kiểm tra theo quy định hiện hành; bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-ieu-kien-gi/) là điểm bắt đầu.
+Cách chọn cỡ và chất liệu mũ cho bé được nói kỹ trong bài [chọn mũ bảo hiểm cho trẻ đi cùng trên xe máy thuê](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-di-cung-tren-xe-may-thue/). Những điều kiện pháp lý khi chở trẻ, bạn nên tự kiểm tra theo quy định hiện hành; bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-dieu-kien-gi/) là điểm bắt đầu.
 
 ## Bé ngồi ở đâu trên Vision
 

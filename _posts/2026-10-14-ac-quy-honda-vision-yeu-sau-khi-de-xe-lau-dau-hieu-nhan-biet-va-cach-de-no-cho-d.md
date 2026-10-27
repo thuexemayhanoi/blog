@@ -31,7 +31,7 @@ Trước khi bấm đề, hãy bật khóa và quan sát vài giây. Ba dấu hi
 - **Đèn mờ.** Đèn đồng hồ, đèn xi nhan sáng yếu hơn mọi khi, hoặc tối hẳn đi khi bạn bấm đề. Có xe màn hình đồng hồ chập chờn hay tự đặt lại giờ.
 - **Còi nhỏ.** Bấm còi nghe rè, nhỏ, hoặc tắt tiếng giữa chừng. Đây là cách thử nhanh nhất: còi to và rõ thì bình thường còn ổn, còi yếu thì nên cẩn thận khi đề.
 
-Nếu gặp từ hai dấu hiệu trở lên, đừng bấm đề liên tục. Bạn đang có một bình điện yếu, mỗi lần đề dài là một lần rút nó sâu thêm. Một bài tổng quát hơn cho mọi dòng xe thuê là [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/); còn nếu nghi do quên tắt đèn, xem bài [xe máy không đề được sau vài ngày đứng yên](/ky-nang/2026/10/11/xe-may-khong-e-uoc-sau-vai-ngay-ung-yen-ac-quy-yeu-hay-quen-tat-en/).
+Nếu gặp từ hai dấu hiệu trở lên, đừng bấm đề liên tục. Bạn đang có một bình điện yếu, mỗi lần đề dài là một lần rút nó sâu thêm. Một bài tổng quát hơn cho mọi dòng xe thuê là [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/); còn nếu nghi do quên tắt đèn, xem bài [xe máy không đề được sau vài ngày đứng yên](/ky-nang/2026/10/11/xe-may-khong-de-duoc-sau-vai-ngay-dung-yen-ac-quy-yeu-hay-quen-tat-den/).
 
 ## Cách đề nổ cho đúng khi bình đang yếu
 

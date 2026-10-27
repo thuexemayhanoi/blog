@@ -45,7 +45,7 @@ Cổ tay giữ thẳng hàng với cẳng tay, đặt tay sao cho các ngón ch�
 
 Hai bàn chân đặt phẳng trên sàn để chân, đầu gối khép nhẹ vào thân xe. Đừng gác chân lên phần yếm phía trước hay để một chân thõng ra ngoài. Đặt chân trên sàn giúp thân dưới vững, phần trên mới thả lỏng được.
 
-Người cao hoặc người thấp sẽ gặp chuyện riêng về gối và chiều cao yên. Nếu bạn cao, bài [người cao thuê Honda Vision ngồi thế nào cho đỡ mỏi](/xe-may/2026/10/11/nguoi-cao-thue-honda-vision-chan-co-chat-khong-va-nen-ngoi-the-nao-cho-o-moi/) nói kỹ hơn phần đặt chân.
+Người cao hoặc người thấp sẽ gặp chuyện riêng về gối và chiều cao yên. Nếu bạn cao, bài [người cao thuê Honda Vision ngồi thế nào cho đỡ mỏi](/xe-may/2026/10/11/nguoi-cao-thue-honda-vision-chan-co-chat-khong-va-nen-ngoi-the-nao-cho-do-moi/) nói kỹ hơn phần đặt chân.
 
 ## Chỉnh gương honda vision khi xe đứng yên
 

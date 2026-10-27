@@ -19,7 +19,7 @@ Bánh Wave nhỏ và hẹp, nên lốp xe Wave thuê phản ánh tình trạng x
 
 ## Lốp xe Wave thuê: biết xe mình đi lốp loại nào
 
-Wave đang cho thuê ở Hà Nội có hai kiểu vành phổ biến: vành nan hoa và vành đúc. Xe vành nan hoa thường dùng lốp có săm. Xe vành đúc có thể dùng lốp không săm, nhưng không phải chiếc nào cũng vậy, vì nhiều xe đã được thay lốp theo thói quen của chủ trước. Nếu chưa phân biệt được, bài [nhận biết Wave Alpha hay Wave RSX qua phanh và vành](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-ang-thue-qua-phanh-va-vanh/) giúp bạn nhìn ra trong một phút.
+Wave đang cho thuê ở Hà Nội có hai kiểu vành phổ biến: vành nan hoa và vành đúc. Xe vành nan hoa thường dùng lốp có săm. Xe vành đúc có thể dùng lốp không săm, nhưng không phải chiếc nào cũng vậy, vì nhiều xe đã được thay lốp theo thói quen của chủ trước. Nếu chưa phân biệt được, bài [nhận biết Wave Alpha hay Wave RSX qua phanh và vành](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-dang-thue-qua-phanh-va-vanh/) giúp bạn nhìn ra trong một phút.
 
 Biết loại lốp quan trọng vì nó quyết định chuyện gì xảy ra khi thủng:
 
@@ -30,7 +30,7 @@ Cứ hỏi thẳng người giao xe: "Xe này lốp có săm hay không săm?". 
 
 ## Xem gai mòn và vết nứt lúc nhận xe
 
-Kiểm tra lốp chung cho mọi loại xe thuê đã có trong bài [kiểm tra lốp xe máy thuê khi nhận xe](/thue-xe/2026/10/12/kiem-tra-lop-xe-may-thue-khi-nhan-xe-mon-nut-va-o-cang/). Với Wave, có vài điểm cần soi kỹ hơn.
+Kiểm tra lốp chung cho mọi loại xe thuê đã có trong bài [kiểm tra lốp xe máy thuê khi nhận xe](/thue-xe/2026/10/12/kiem-tra-lop-xe-may-thue-khi-nhan-xe-mon-nut-va-do-cang/). Với Wave, có vài điểm cần soi kỹ hơn.
 
 ### Lốp sau mòn nhanh hơn lốp trước
 
@@ -56,7 +56,7 @@ Hãy bóp thử vào buổi sáng trước khi xe chạy, lúc lốp còn nguộ
 
 ## Xử lý khi Wave thủng lốp giữa đường
 
-Quy trình đầy đủ cho mọi xe thuê nằm ở bài [xe máy thuê bị thủng lốp giữa đường](/thue-xe/2026/10/10/xe-may-thue-bi-thung-lop-giua-uong-xu-ly-the-nao/). Phần dưới đây là những điều riêng khi bạn đang đi Wave.
+Quy trình đầy đủ cho mọi xe thuê nằm ở bài [xe máy thuê bị thủng lốp giữa đường](/thue-xe/2026/10/10/xe-may-thue-bi-thung-lop-giua-duong-xu-ly-the-nao/). Phần dưới đây là những điều riêng khi bạn đang đi Wave.
 
 ### Nhận ra sớm và đưa xe vào lề
 

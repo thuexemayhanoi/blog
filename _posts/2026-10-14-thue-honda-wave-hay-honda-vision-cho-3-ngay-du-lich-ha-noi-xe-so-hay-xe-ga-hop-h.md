@@ -25,7 +25,7 @@ Bạn có ba ngày ở Hà Nội, định tự chạy xe máy đi phố cổ, H�
 
 **Honda Wave** là xe số côn tự động. Không phải bóp côn, nhưng bạn phải nhả ga, đạp cần số bằng chân trái rồi mới vặn ga lại. Với người đã quen thì đây là thao tác vô thức. Với người lần đầu, những lúc dừng đèn đỏ, đi chậm sau xe buýt hay lên dốc cầu dễ bị chết máy hoặc giật xe vì quên về số.
 
-Ba ngày du lịch là quá ngắn để vừa học xe số vừa tìm đường trong phố lạ. Nếu bạn chưa quen xe số, Vision là lựa chọn an toàn hơn. Nếu bạn vẫn muốn thử xe ga lần đầu, đọc trước bài [chưa quen xe ga, làm quen trong 30 phút trước khi lên đường](/hoi-dap/2026/09/29/chua-quen-xe-ga-lam-quen-trong-30-phut-truoc-khi-len-uong/).
+Ba ngày du lịch là quá ngắn để vừa học xe số vừa tìm đường trong phố lạ. Nếu bạn chưa quen xe số, Vision là lựa chọn an toàn hơn. Nếu bạn vẫn muốn thử xe ga lần đầu, đọc trước bài [chưa quen xe ga, làm quen trong 30 phút trước khi lên đường](/hoi-dap/2026/09/29/chua-quen-xe-ga-lam-quen-trong-30-phut-truoc-khi-len-duong/).
 
 ## Ngày đầu trong phố cổ: chen đông, dừng nhiều, gửi xe liên tục
 

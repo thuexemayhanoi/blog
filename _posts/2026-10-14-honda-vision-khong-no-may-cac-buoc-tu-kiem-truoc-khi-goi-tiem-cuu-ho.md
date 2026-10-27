@@ -17,7 +17,7 @@ writer_session: s-claude-w2
 
 Bạn vừa ăn xong bát bún chả ở phố Hàng Mành, quay ra bãi gửi, ngồi lên chiếc Vision thuê, bấm đề và không có gì xảy ra. Hoặc máy đề quay ro ro mà mãi không nổ. Honda Vision không nổ máy là tình huống làm người thuê xe lúng túng nhất, nhất là khi đang ở giữa phố lạ. Phần lớn trường hợp nguyên nhân rất đơn giản và tự kiểm được trong vài phút. Bài này đi theo đúng thứ tự nên kiểm trên một chiếc Vision, từ việc dễ nhất tới việc nên dừng lại để tiệm xử lý.
 
-Nếu bạn muốn một danh sách chung cho mọi dòng xe, xem bài [xe máy thuê không đề được: các điều tự kiểm tra](/thue-xe/2026/10/12/xe-may-thue-khong-e-uoc-cac-ieu-tu-kiem-tra-truoc-khi-goi-chu-xe/). Còn nếu xe khó nổ vào buổi sáng lạnh ở nhà, bài [khởi động Honda Vision sáng mùa đông](/xe-may/2026/10/14/khoi-dong-honda-vision-sang-mua-dong-ha-noi-bop-phanh-cho-may-em-va-khong-van-ga/) sát hơn. Ở đây tập trung vào lúc xe đang dừng giữa đường và bạn cần quyết định nhanh.
+Nếu bạn muốn một danh sách chung cho mọi dòng xe, xem bài [xe máy thuê không đề được: các điều tự kiểm tra](/thue-xe/2026/10/12/xe-may-thue-khong-de-duoc-cac-dieu-tu-kiem-tra-truoc-khi-goi-chu-xe/). Còn nếu xe khó nổ vào buổi sáng lạnh ở nhà, bài [khởi động Honda Vision sáng mùa đông](/xe-may/2026/10/14/khoi-dong-honda-vision-sang-mua-dong-ha-noi-bop-phanh-cho-may-em-va-khong-van-ga/) sát hơn. Ở đây tập trung vào lúc xe đang dừng giữa đường và bạn cần quyết định nhanh.
 
 ## Đầu tiên: nghe xem xe phản ứng thế nào khi bấm đề
 
@@ -49,7 +49,7 @@ Một số xe ga có công tắc tắt máy ở cụm tay lái bên phải, thư
 
 ### Bước bốn: còn xăng không
 
-Nhìn đồng hồ xăng sau khi bật khóa. Kim chạm vạch đỏ, hoặc đèn báo xăng nhấp nháy, thì gần như chắc chắn xe cạn. Vision bơm xăng bằng điện, khi bình gần cạn xe có thể nổ rồi tắt sau vài giây, hoặc máy đề quay mà không bắt. Lúc đó đừng đề tiếp. Dắt xe tới cây xăng gần nhất; trong nội thành như Hoàn Kiếm, Ba Đình hay Long Biên, cây xăng thường không xa. Cách canh kim để không gặp lại chuyện này có trong bài [canh kim xăng Honda Vision](/xe-may/2026/10/11/canh-kim-xang-honda-vision-ghe-cay-xang-luc-nao-e-khong-chet-may-giua-uong/).
+Nhìn đồng hồ xăng sau khi bật khóa. Kim chạm vạch đỏ, hoặc đèn báo xăng nhấp nháy, thì gần như chắc chắn xe cạn. Vision bơm xăng bằng điện, khi bình gần cạn xe có thể nổ rồi tắt sau vài giây, hoặc máy đề quay mà không bắt. Lúc đó đừng đề tiếp. Dắt xe tới cây xăng gần nhất; trong nội thành như Hoàn Kiếm, Ba Đình hay Long Biên, cây xăng thường không xa. Cách canh kim để không gặp lại chuyện này có trong bài [canh kim xăng Honda Vision](/xe-may/2026/10/11/canh-kim-xang-honda-vision-ghe-cay-xang-luc-nao-de-khong-chet-may-giua-duong/).
 
 ### Bước năm: chìa khóa hoặc khóa thông minh
 

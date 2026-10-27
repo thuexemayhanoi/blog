@@ -59,7 +59,7 @@ Vỉa hè ở nhiều phố Hà Nội có dốc dắt xe, lối vào nhà trong 
 - **Đỗ ngang dốc** chỉ nên làm khi phía thấp nằm ở bên trái, tức phía chân chống nghiêng. Nếu phía thấp ở bên phải, xe đứng gần như thẳng và dễ đổ sang phải.
 - **Trên dốc, ưu tiên chân chống nghiêng**, để dành chân chống giữa cho nền phẳng. Dốc gắt quá thì đừng đỗ, tìm chỗ khác bằng hơn, kể cả phải dắt thêm vài chục mét.
 
-Có một điểm Wave khác xe ga: khi đã tắt máy, nhiều người quen gạt vào số 1 trước khi rời xe trên dốc nhẹ. Việc này có thể làm bánh sau khó lăn hơn, nhưng Wave dùng côn tự động nên đừng coi số 1 là "phanh tay". Hãy xem nó là một lớp phụ thêm, còn hướng đỗ và chân chống mới là chính. Trước khi nổ máy lần sau, nhớ đạp về số mo, nhìn đèn báo N sáng rồi mới đề, để xe không chồm tới. Mẹo kê bánh và chọn chỗ đỗ dốc dùng chung cho mọi loại xe có trong bài [chống xe máy trên dốc không bị tuột chân chống](/ky-nang/2026/10/05/chong-xe-may-tren-doc-ung-cach-khong-bi-tuot-chan-chong/).
+Có một điểm Wave khác xe ga: khi đã tắt máy, nhiều người quen gạt vào số 1 trước khi rời xe trên dốc nhẹ. Việc này có thể làm bánh sau khó lăn hơn, nhưng Wave dùng côn tự động nên đừng coi số 1 là "phanh tay". Hãy xem nó là một lớp phụ thêm, còn hướng đỗ và chân chống mới là chính. Trước khi nổ máy lần sau, nhớ đạp về số mo, nhìn đèn báo N sáng rồi mới đề, để xe không chồm tới. Mẹo kê bánh và chọn chỗ đỗ dốc dùng chung cho mọi loại xe có trong bài [chống xe máy trên dốc không bị tuột chân chống](/ky-nang/2026/10/05/chong-xe-may-tren-doc-dung-cach-khong-bi-tuot-chan-chong/).
 
 ## Trước khi rời xe: thử lại một lần
 

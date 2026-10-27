@@ -46,14 +46,14 @@ Ngã tư lớn như Ngã Tư Sở hay nút giao Cầu Giấy thường có pha �
 
 - **Hai chân chống đất**, đặt ngang hoặc hơi lùi so với yên, bàn chân bám đều. Đừng chỉ chống một chân trong khi chân kia vẫn để trên sàn, vì khi có người va nhẹ vào xe, một chân không đủ đỡ.
 - **Ngồi thẳng, lưng không đổ về phía trước.** Đổ người tới trước làm trọng lượng dồn lên hai tay, tay phải dễ ấn xuống cổ ga.
-- **Người thấp chiều** chạm đất bằng mũi chân thì nên ngồi lùi một chút về phía trước yên cho hai bàn chân chạm đất chắc hơn. Cách chọn tư thế cho dáng người nhỏ có trong bài [Honda Vision với người thấp chiều](/xe-may/2026/10/11/honda-vision-voi-nguoi-thap-chieu-ke-yen-va-tu-the-at-chan/).
+- **Người thấp chiều** chạm đất bằng mũi chân thì nên ngồi lùi một chút về phía trước yên cho hai bàn chân chạm đất chắc hơn. Cách chọn tư thế cho dáng người nhỏ có trong bài [Honda Vision với người thấp chiều](/xe-may/2026/10/11/honda-vision-voi-nguoi-thap-chieu-ke-yen-va-tu-the-dat-chan/).
 - **Giữ thẳng tay lái.** Bánh trước thẳng thì khi đèn xanh xe đi thẳng, không bị cua lệch sang xe bên cạnh.
 
 ## Một số đời Vision tự ngắt máy khi dừng
 
 Nếu xe có chức năng ngắt động cơ tạm thời Idling Stop, khi dừng đủ lâu máy sẽ tự tắt và đèn báo trên đồng hồ nháy. Xe trông như tắt hẳn, nhưng chỉ cần vặn ga là máy nổ lại và xe đi ngay. Đây đúng là lúc dễ quên: thấy xe im lặng, người mới tưởng an toàn, tay phải đặt lên ga thoải mái, rồi xe bất ngờ nổ và tiến lên.
 
-Vì vậy dù máy đang tắt tạm thời, vẫn giữ nguyên thói quen: tay trái giữ phanh, tay phải rời ga. Cách bật tắt và khi nào nên dùng chức năng này được giải thích kỹ trong bài [chức năng ngắt động cơ tạm thời Idling Stop](/xe-may/2026/10/14/chuc-nang-ngat-dong-co-tam-thoi-idling-stop-bat-tat-va-dung-sao-cho-hop-khi-ket/). Xe không có chức năng này mà tự tắt máy liên tục mỗi lần dừng lại là chuyện khác, đó là lỗi cần báo tiệm, xem thêm [xe thuê tự tắt máy mỗi lần dừng đèn đỏ](/thue-xe/2026/10/13/xe-thue-tu-tat-may-moi-lan-dung-en-o-giu-an-toan-giua-nga-tu-ong/).
+Vì vậy dù máy đang tắt tạm thời, vẫn giữ nguyên thói quen: tay trái giữ phanh, tay phải rời ga. Cách bật tắt và khi nào nên dùng chức năng này được giải thích kỹ trong bài [chức năng ngắt động cơ tạm thời Idling Stop](/xe-may/2026/10/14/chuc-nang-ngat-dong-co-tam-thoi-idling-stop-bat-tat-va-dung-sao-cho-hop-khi-ket/). Xe không có chức năng này mà tự tắt máy liên tục mỗi lần dừng lại là chuyện khác, đó là lỗi cần báo tiệm, xem thêm [xe thuê tự tắt máy mỗi lần dừng đèn đỏ](/thue-xe/2026/10/13/xe-thue-tu-tat-may-moi-lan-dung-den-do-giu-an-toan-giua-nga-tu-dong/).
 
 ## Những tình huống dễ vặn ga nhầm nhất
 

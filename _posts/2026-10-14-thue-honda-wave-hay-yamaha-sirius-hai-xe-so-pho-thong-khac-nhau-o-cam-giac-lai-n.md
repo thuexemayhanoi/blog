@@ -72,7 +72,7 @@ Dưới đây là cách gợi ý nhanh, dựa trên những gì khách hay hỏi
 
 - **Đi phố là chính, người mới, dáng người nhỏ**: Wave thường dễ làm quen hơn nhờ tư thế ngồi thẳng và tay lái nhẹ.
 - **Người cao, thích cảm giác thể thao, hay chạy đường thoáng**: Sirius có thể hợp hơn.
-- **Đi xa ra ngoại thành như Đông Anh, Gia Lâm hay xa hơn**: cả hai đều ổn; chọn chiếc mà sau mười lăm phút ngồi thử bạn thấy lưng và cổ tay dễ chịu hơn. Bài [Sirius cho chặng đường trường quãng ngắn](/xe-may/2026/09/27/sirius-cho-chang-uong-truong-quang-ngan/) có thêm kinh nghiệm cho kiểu chuyến này.
+- **Đi xa ra ngoại thành như Đông Anh, Gia Lâm hay xa hơn**: cả hai đều ổn; chọn chiếc mà sau mười lăm phút ngồi thử bạn thấy lưng và cổ tay dễ chịu hơn. Bài [Sirius cho chặng đường trường quãng ngắn](/xe-may/2026/09/27/sirius-cho-chang-duong-truong-quang-ngan/) có thêm kinh nghiệm cho kiểu chuyến này.
 - **Hai người chở nhau**: để người ngồi sau thử ngồi cùng, vì cảm giác yên sau của mỗi chiếc cũng khác.
 
 ## Giá thuê và việc thử xe ở tiệm

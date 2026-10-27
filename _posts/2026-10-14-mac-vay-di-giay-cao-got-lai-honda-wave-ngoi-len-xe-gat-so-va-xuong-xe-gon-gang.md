@@ -48,7 +48,7 @@ Váy ngang gối ít rắc rối. Váy dài chấm gót, váy xòe hay váy xẻ
 3. **Cài túi xách lên móc, đừng để đè lên váy.** Túi treo lệch kéo theo vải, vừa vướng vừa khó gạt số.
 4. **Áo chống nắng dài kiểu váy:** kéo khóa và buộc vạt lại, đừng để vạt bay phía sau yên.
 
-Trước khi chạy, nhìn xuống hai bên chân một lượt. Chuyện vải vướng pô và xích trên xe số nói chung có trong bài [áo mưa, ống quần và váy dễ vướng pô, xích khi đi xe số](/xe-may/2026/10/11/ao-mua-ong-quan-va-vay-de-vuong-po-xich-khi-i-xe-so-cach-xu-ly/).
+Trước khi chạy, nhìn xuống hai bên chân một lượt. Chuyện vải vướng pô và xích trên xe số nói chung có trong bài [áo mưa, ống quần và váy dễ vướng pô, xích khi đi xe số](/xe-may/2026/10/11/ao-mua-ong-quan-va-vay-de-vuong-po-xich-khi-di-xe-so-cach-xu-ly/).
 
 ## Ngồi lên xe từ bên trái, tránh ống xả bên phải
 
@@ -61,7 +61,7 @@ Trình tự gọn gàng khi mặc váy:
 3. Bước chân phải qua yên theo lối thấp, qua phía trước yên chứ không vung chân qua phía sau như khi mặc quần. Wave có khung thấp ở giữa nên lối này khá dễ.
 4. Ngồi xuống, kéo váy cho phẳng rồi mới dựng xe khỏi chân chống.
 
-Người ngồi sau cũng lên từ bên trái, đặt chân lên gác chân sau và tránh để bắp chân phải chạm ống xả, nhất là lúc vội xuống xe. Bài [bỏng ống xả khi đi xe số: cách lên xuống xe](/xe-may/2026/10/11/bong-ong-xa-khi-i-xe-so-cach-len-xuong-xe-va-trang-phuc-e-tranh/) có thêm chi tiết về điểm này.
+Người ngồi sau cũng lên từ bên trái, đặt chân lên gác chân sau và tránh để bắp chân phải chạm ống xả, nhất là lúc vội xuống xe. Bài [bỏng ống xả khi đi xe số: cách lên xuống xe](/xe-may/2026/10/11/bong-ong-xa-khi-di-xe-so-cach-len-xuong-xe-va-trang-phuc-de-tranh/) có thêm chi tiết về điểm này.
 
 ## Gạt số và phanh khi mặc váy: giữ đầu gối khép
 

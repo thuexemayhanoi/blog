@@ -22,7 +22,7 @@ Nhiều bạn sinh viên thuê Honda Vision theo tháng khi vừa chuyển về 
 Nếu bạn đang phân vân giữa xe số và xe ga, hãy nhìn vào lịch đi lại thật của mình trong tuần, không phải cảm giác chung. Bài [sinh viên thuê Honda Wave theo tháng ở Cầu Giấy, Bách Khoa](/xe-may/2026/10/14/sinh-vien-thue-honda-wave-theo-thang-o-cau-giay-bach-khoa-di-hoc-gui-xe-va-giu-x/) đã nói kỹ về phương án xe số tiết kiệm, ở đây chỉ tập trung vào những điểm Vision làm tốt hơn với người học quanh Xuân Thủy:
 
 - **Đường hay tắc, phải dừng liên tục.** Đoạn Xuân Thủy, Hồ Tùng Mậu giờ tan học thường nhích từng chút. Xe ga chỉ cần vặn ga và bóp phanh, không phải về số, đỡ mỏi tay.
-- **Mang nhiều đồ lặt vặt.** Cốp dưới yên chứa vừa mũ bảo hiểm và bộ áo mưa gấp gọn, không phải ôm mũ lên giảng đường. Cách xếp cốp có trong bài [cốp Honda Vision thuê chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-uoc-nhung-gi/).
+- **Mang nhiều đồ lặt vặt.** Cốp dưới yên chứa vừa mũ bảo hiểm và bộ áo mưa gấp gọn, không phải ôm mũ lên giảng đường. Cách xếp cốp có trong bài [cốp Honda Vision thuê chứa được những gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-duoc-nhung-gi/).
 - **Sàn để chân phẳng.** Balo hoặc túi đồ đi chợ đặt được ở sàn, kẹp giữa hai chân.
 - **Người mới đi xe.** Bạn nào ở quê chủ yếu đi xe đạp thường làm quen với xe ga nhẹ nhanh hơn xe số.
 

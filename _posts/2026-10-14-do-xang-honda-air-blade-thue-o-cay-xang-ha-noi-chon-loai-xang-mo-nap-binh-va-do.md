@@ -17,7 +17,7 @@ writer_session: s-claude-w2
 
 Lần đầu đổ xăng Air Blade thuê, nhiều người dừng ở cây xăng rồi lúng túng: mở yên ra không thấy bình xăng, nhân viên đứng chờ, xe phía sau bấm còi. Người quen xe số hay nghĩ nắp xăng nào cũng nằm dưới yên, còn khách nước ngoài thì thêm một băn khoăn nữa là nên chọn cột xăng nào. Bài này dành riêng cho chiếc Air Blade bạn đang thuê ở Hà Nội: nắp bình nằm đâu tùy đời xe, chọn loại xăng ra sao, thao tác ở trạm thế nào và đổ bao nhiêu là đủ cho lịch đi của mình.
 
-Nếu bạn đang đi xe số Wave, cách làm khác hẳn vì phải mở yên bằng chìa, xem bài [đổ xăng Honda Wave](/xe-may/2026/10/14/do-xang-honda-wave-mo-yen-bang-chia-tim-nap-binh-xang-va-thoi-quen-do-vua-du/). Còn nếu muốn nắm nguyên tắc chung cho mọi dòng tay ga, có bài [đổ xăng cho xe tay ga thuê](/xe-may/2026/10/11/o-xang-cho-xe-tay-ga-thue-nap-xang-o-au-va-thao-tac-tai-tram/).
+Nếu bạn đang đi xe số Wave, cách làm khác hẳn vì phải mở yên bằng chìa, xem bài [đổ xăng Honda Wave](/xe-may/2026/10/14/do-xang-honda-wave-mo-yen-bang-chia-tim-nap-binh-xang-va-thoi-quen-do-vua-du/). Còn nếu muốn nắm nguyên tắc chung cho mọi dòng tay ga, có bài [đổ xăng cho xe tay ga thuê](/xe-may/2026/10/11/do-xang-cho-xe-tay-ga-thue-nap-xang-o-dau-va-thao-tac-tai-tram/).
 
 ## Nắp bình xăng Air Blade nằm ở đâu: khác nhau theo đời xe
 

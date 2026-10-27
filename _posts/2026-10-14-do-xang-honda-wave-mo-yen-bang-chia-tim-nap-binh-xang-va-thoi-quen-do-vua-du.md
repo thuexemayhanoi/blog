@@ -23,7 +23,7 @@ Trên các đời Wave phổ thông, nắp bình xăng nằm ngay dưới yên. 
 
 Khi đã mở được yên, bạn sẽ thấy nắp bình xăng hình tròn, thường là loại xoay. Không cần tháo yên ra khỏi xe, chỉ cần nâng yên lên và giữ cho yên không sập xuống trong lúc đổ.
 
-Nếu chiếc Wave của bạn có kiểu ổ khóa khác thường, hoặc yên mở rất cứng, bài [mở yên xe số để đổ xăng](/xe-may/2026/10/14/mo-yen-xe-so-de-do-xang-vi-tri-nap-binh-khoa-yen-bang-chia-va-dong-lai-cho-chac/) đi sâu vào các kiểu khóa yên và cách xử lý khi yên kẹt. Còn người vừa chuyển từ xe ga sang có thể so với bài [đổ xăng cho xe tay ga thuê](/xe-may/2026/10/11/o-xang-cho-xe-tay-ga-thue-nap-xang-o-au-va-thao-tac-tai-tram/) để thấy khác biệt.
+Nếu chiếc Wave của bạn có kiểu ổ khóa khác thường, hoặc yên mở rất cứng, bài [mở yên xe số để đổ xăng](/xe-may/2026/10/14/mo-yen-xe-so-de-do-xang-vi-tri-nap-binh-khoa-yen-bang-chia-va-dong-lai-cho-chac/) đi sâu vào các kiểu khóa yên và cách xử lý khi yên kẹt. Còn người vừa chuyển từ xe ga sang có thể so với bài [đổ xăng cho xe tay ga thuê](/xe-may/2026/10/11/do-xang-cho-xe-tay-ga-thue-nap-xang-o-dau-va-thao-tac-tai-tram/) để thấy khác biệt.
 
 ## Trước khi vào cây xăng: nhìn đồng hồ và chọn trạm
 

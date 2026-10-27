@@ -53,7 +53,7 @@ Tắt máy trước khi dắt vào hàng, vì ga nhạy dễ làm xe vọt khi b
 
 ### Đồ trong cốp và mũ bảo hiểm
 
-Cốp Air Blade khá rộng, dễ khiến bạn để lại nhiều thứ. Đừng để điện thoại, ví, giấy tờ hay máy ảnh trong cốp khi gửi. Áo mưa và mũ bảo hiểm có thể để lại, nhưng nên hỏi người trông cách họ giữ mũ. Xem thêm bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-uoc-gi-va-o-nao-nen-e-cho-khac/) để biết món nào nên mang theo người.
+Cốp Air Blade khá rộng, dễ khiến bạn để lại nhiều thứ. Đừng để điện thoại, ví, giấy tờ hay máy ảnh trong cốp khi gửi. Áo mưa và mũ bảo hiểm có thể để lại, nhưng nên hỏi người trông cách họ giữ mũ. Xem thêm bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-duoc-gi-va-do-nao-nen-de-cho-khac/) để biết món nào nên mang theo người.
 
 ## Giữ vé, chụp vị trí rồi đi bộ vào trung tâm
 

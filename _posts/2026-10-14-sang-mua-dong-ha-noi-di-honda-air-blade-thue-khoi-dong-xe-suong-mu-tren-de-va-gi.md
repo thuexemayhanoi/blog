@@ -56,7 +56,7 @@ Chọn tốc độ để luôn dừng được trong phạm vi mình nhìn thấ
 
 Bám theo vạch kẻ bên phải hoặc mép đường thay vì bám đèn hậu xe trước: xe trước có thể dừng bất ngờ, còn mép đường thì không. Bật xi nhan sớm trước khi rẽ vào các dốc xuống phố, để người phía sau có thêm vài giây nhận ra. Kính chắn mũ bảo hiểm hay bị mờ hơi thở; hé kính một chút hoặc lau nhanh khi dừng đèn.
 
-Khi sương dày tới mức chỉ thấy vài thân xe phía trước, cách an toàn nhất là tấp vào một quán nước ven đường, đợi trời sáng thêm. Thêm kỹ năng đi trong sương có trong bài [chạy xe máy trong sương mù buổi sớm ở Hà Nội](/ky-nang/2026/10/04/chay-xe-may-trong-suong-mu-buoi-som-o-ha-noi/), còn cách mặc khi qua gió sông phía Long Biên xem ở bài [sáng mùa đông ở Long Biên](/du-lich/2026/10/11/sang-mua-ong-o-long-bien-gio-song-suong-mu-va-cach-mac-khi-i-xe-may/).
+Khi sương dày tới mức chỉ thấy vài thân xe phía trước, cách an toàn nhất là tấp vào một quán nước ven đường, đợi trời sáng thêm. Thêm kỹ năng đi trong sương có trong bài [chạy xe máy trong sương mù buổi sớm ở Hà Nội](/ky-nang/2026/10/04/chay-xe-may-trong-suong-mu-buoi-som-o-ha-noi/), còn cách mặc khi qua gió sông phía Long Biên xem ở bài [sáng mùa đông ở Long Biên](/du-lich/2026/10/11/sang-mua-dong-o-long-bien-gio-song-suong-mu-va-cach-mac-khi-di-xe-may/).
 
 ## Giữ ấm tay lái: găng tay và áo gió
 
@@ -68,7 +68,7 @@ Trên xe ga, đôi tay đón gió trực tiếp suốt quãng đường. Tay tê
 
 **Áo gió cài kín cổ.** Mặt nạ trước của Air Blade che được phần chân, nhưng ngực và cổ vẫn đón gió. Áo gió có cổ cao, khăn mỏng quàng cổ và khẩu trang vải giữ ấm tốt hơn một chiếc áo len dày không cản gió.
 
-Nếu thấy tay bắt đầu tê, hãy dừng ở chỗ an toàn, xoa tay, nắm mở vài lần cho máu lưu thông rồi mới đi tiếp. Cách nhận biết và xử lý tay cóng được nói kỹ ở bài [tay tê cứng khi lái xe máy mùa đông](/ky-nang/2026/10/11/tay-te-cung-khi-lai-xe-may-mua-ong-giu-am-va-nghi-ung-iem/).
+Nếu thấy tay bắt đầu tê, hãy dừng ở chỗ an toàn, xoa tay, nắm mở vài lần cho máu lưu thông rồi mới đi tiếp. Cách nhận biết và xử lý tay cóng được nói kỹ ở bài [tay tê cứng khi lái xe máy mùa đông](/ky-nang/2026/10/11/tay-te-cung-khi-lai-xe-may-mua-dong-giu-am-va-nghi-dung-diem/).
 
 ## Một lộ trình sáng sớm gợi ý
 

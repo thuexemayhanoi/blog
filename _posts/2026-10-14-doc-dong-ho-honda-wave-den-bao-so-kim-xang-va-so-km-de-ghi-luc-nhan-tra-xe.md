@@ -17,7 +17,7 @@ writer_session: s-claude-w2
 
 Lần đầu thuê Honda Wave, nhiều người nhìn vào đồng hồ xe Wave và chỉ thấy một chiếc kim tốc độ to, vài ô đèn nhỏ và một dãy số không rõ để làm gì. Thực ra mặt đồng hồ này chứa đúng ba thông tin bạn cần ghi lại khi nhận và trả xe: xe đang ở số nào, trong bình còn bao nhiêu xăng, và xe đã chạy tổng cộng bao nhiêu cây số. Bài này không nói chung về mọi loại xe máy, mà đi vào riêng mặt đồng hồ Wave, cách đọc từng phần và cách chụp lại sao cho lúc trả xe ở Long Biên hai bên nhìn vào là khớp ngay.
 
-Phần đèn cảnh báo chung cho mọi loại xe có ở bài [đọc đồng hồ xe máy thuê: tốc độ, kim xăng và các đèn báo](/thue-xe/2026/10/14/doc-dong-ho-xe-may-thue-o-viet-nam-toc-do-kmh-kim-xang-va-cac-den-bao-tren-mat-d/). Thứ tự xem đồng hồ ngay lúc nhận xe, áp dụng cho mọi dòng xe, có trong bài [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/oc-ong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-en-canh-bao/).
+Phần đèn cảnh báo chung cho mọi loại xe có ở bài [đọc đồng hồ xe máy thuê: tốc độ, kim xăng và các đèn báo](/thue-xe/2026/10/14/doc-dong-ho-xe-may-thue-o-viet-nam-toc-do-kmh-kim-xang-va-cac-den-bao-tren-mat-d/). Thứ tự xem đồng hồ ngay lúc nhận xe, áp dụng cho mọi dòng xe, có trong bài [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/doc-dong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-den-canh-bao/).
 
 ## Đồng hồ xe Wave gồm những gì
 
