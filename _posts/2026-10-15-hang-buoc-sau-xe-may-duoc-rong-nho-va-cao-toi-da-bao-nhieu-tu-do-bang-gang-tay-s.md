@@ -53,7 +53,7 @@ Nếu không có dây, hãy đo gang tay của bạn một lần bằng thước
 
 Nếu kiện hàng vượt, đừng cố buộc thêm cho chắc. Hãy chia thành hai kiện nhỏ cùng buộc gọn, hoặc dùng túi đựng đặt ở sàn để chân và yên sau thay vì xếp cao. Với hàng dài như ống, ván, thang, hãy chọn cách đi khác: nhờ cửa hàng giao, đi xe công nghệ chở hàng hoặc thuê phương tiện phù hợp.
 
-Bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/) nói thêm về hành vi chở vật cồng kềnh. Điều 33 khoản 3 điểm đ cấm sử dụng xe để “mang, vác và chở vật cồng kềnh”, nên cũng đừng nghĩ cứ đủ ba con số là chở được mọi thứ.
+Bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/) nói thêm về hành vi chở vật cồng kềnh. Điều 33 khoản 3 điểm đ cấm sử dụng xe để “mang, vác và chở vật cồng kềnh”, nên cũng đừng nghĩ cứ đủ ba con số là chở được mọi thứ.
 
 ## Đừng nhờ người ngồi sau ôm hay vác hàng
 
@@ -65,7 +65,7 @@ Buộc chắc ở ít nhất vài điểm, kiểm tra sau một quãng ngắn v�
 
 Nếu bạn thuê xe, hãy hỏi tiệm xe có giá đèo hàng không và rộng cỡ nào, có sẵn dây buộc hay không, và có hạn chế gì về việc chở hàng. Bài không có dữ kiện về chính sách của tiệm, và nhiều xe tay ga có chỗ cất đồ dưới yên thay cho giá đèo hàng.
 
-Nếu bạn định chở đồ cồng kềnh hoặc hành lý nhiều, hãy nói trước với tiệm để chọn xe hợp. Bài [đi chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) có thêm gợi ý chọn xe.
+Nếu bạn định chở đồ cồng kềnh hoặc hành lý nhiều, hãy nói trước với tiệm để chọn xe hợp. Bài [đi chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/di-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) có thêm gợi ý chọn xe.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

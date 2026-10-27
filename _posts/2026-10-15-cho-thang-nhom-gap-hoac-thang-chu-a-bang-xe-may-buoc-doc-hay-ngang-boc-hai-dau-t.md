@@ -53,7 +53,7 @@ Sau khi buộc, hãy lay thử thang bằng tay: nếu thang xê dịch hay xoay
 
 Thang nhôm có diện tích hứng gió lớn. Khi đi qua cầu lớn như cầu Nhật Tân hay các đoạn đê sông Hồng, gió ngang có thể đẩy thang và làm xe lệch hướng. Hãy đi chậm, giữ tay lái chắc và tránh vượt xe lớn khi có gió.
 
-Nếu hôm đó gió mạnh, hãy hoãn việc chở thang hoặc chọn đường khác ít gió. Khi gặp xe tải đi ngược chiều, hãy chú ý vì luồng khí của xe lớn cũng làm thang rung. Bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/) nói thêm về chở vật cồng kềnh.
+Nếu hôm đó gió mạnh, hãy hoãn việc chở thang hoặc chọn đường khác ít gió. Khi gặp xe tải đi ngược chiều, hãy chú ý vì luồng khí của xe lớn cũng làm thang rung. Bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/) nói thêm về chở vật cồng kềnh.
 
 ## Thang quá dài hoặc quá nặng: nhờ cửa hàng giao
 

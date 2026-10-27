@@ -29,7 +29,7 @@ Hai bến được nhắc là Tà Làng và Xín Cái, trước đây thuộc c�
 
 Theo các nguồn, bến Tà Làng có biển rẽ trên đèo Mã Pí Lèng, phía Đồng Văn, rồi đi xuống chừng tám cây số trên đường dốc, nhiều khúc cua tay áo. Một nguồn của công ty du lịch ghi đoạn này có bốn mươi bảy khúc cua và dốc từ mười lăm đến hai mươi phần trăm, và khuyên đi xe số; bài chỉ có một nguồn nên không khẳng định con số.
 
-Bến Xín Cái có biển rẽ ở cuối đèo phía Mèo Vạc. Theo các nguồn, từ chỗ rẽ đi hơn năm cây số tới gần cầu Tràng Hương, rồi phải đi bộ thêm khoảng hai cây số. Bài [chạy đèo Mã Pí Lèng bằng xe số an toàn](/cung-duong/2026/09/28/chay-eo-ma-pi-leng-bang-xe-so-an-toan/) nói về đoạn đèo phía trên.
+Bến Xín Cái có biển rẽ ở cuối đèo phía Mèo Vạc. Theo các nguồn, từ chỗ rẽ đi hơn năm cây số tới gần cầu Tràng Hương, rồi phải đi bộ thêm khoảng hai cây số. Bài [chạy đèo Mã Pí Lèng bằng xe số an toàn](/cung-duong/2026/09/28/chay-deo-ma-pi-leng-bang-xe-so-an-toan/) nói về đoạn đèo phía trên.
 
 ## Bến nào đang đón khách: nguồn mâu thuẫn, hãy hỏi trước
 
@@ -39,7 +39,7 @@ Vì các nguồn không đồng nhất, bài khuyên bạn hỏi chủ homestay 
 
 ## Dốc nhiều cua: xe số, phanh động cơ và khi nào nên nhờ người địa phương chở
 
-Dù đi bến nào, đoạn xuống là đường dốc và nhiều cua. Hãy kiểm tra phanh trước khi xuống, đi số thấp để dùng phanh động cơ, giữ tốc độ thấp và không phanh gấp trên khúc cua. Xe số dễ giữ tốc độ hơn khi xuống dài; bài [xe ga đi được Hà Giang không](/cung-duong/2026/09/28/xe-ga-i-uoc-ha-giang-khong/) bàn về xe ga ở cung đường này.
+Dù đi bến nào, đoạn xuống là đường dốc và nhiều cua. Hãy kiểm tra phanh trước khi xuống, đi số thấp để dùng phanh động cơ, giữ tốc độ thấp và không phanh gấp trên khúc cua. Xe số dễ giữ tốc độ hơn khi xuống dài; bài [xe ga đi được Hà Giang không](/cung-duong/2026/09/28/xe-ga-di-duoc-ha-giang-khong/) bàn về xe ga ở cung đường này.
 
 Nếu bạn chưa tự tin với dốc và cua, xe còn lạ tay, hoặc trời mưa, hãy cân nhắc đi bằng phương tiện khác. Bài không xác minh dịch vụ chở khách ở địa phương và không biết giá, nhưng bạn có thể hỏi chủ homestay xem có cách nào đi xuống bến an toàn hơn. Đừng cố đi nếu thấy phanh nóng, phanh yếu hay tay mỏi.
 

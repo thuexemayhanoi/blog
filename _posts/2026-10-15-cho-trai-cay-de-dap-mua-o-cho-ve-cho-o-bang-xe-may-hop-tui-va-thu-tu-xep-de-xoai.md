@@ -35,7 +35,7 @@ Hãy tránh mua quá nhiều so với khả năng chở và ăn. Một hộp v�
 
 Hộp cứng là cách tốt nhất: hộp nhựa có nắp, hộp xốp hoặc thùng giấy chắc. Hãy lót đáy bằng lá, giấy hoặc khăn sạch, rồi xếp quả thành một lớp, không chồng lên nhau. Với xoài chín và dâu, nên mỗi quả cách nhau một lớp giấy.
 
-Với vải và nhãn, giữ nguyên chùm có cuống để quả ít bị bầm; xếp chùm nằm, không đè. Lấp khoảng trống bằng giấy vo tròn để quả không xê dịch. Bài không khuyên loại hộp nào cụ thể; hãy dùng thứ bạn có và đủ cứng. Bạn có thể xem thêm bài về [chở đồ dễ vỡ trên xe máy](/ky-nang/2026/10/10/cho-o-de-vo-tren-xe-may-sao-cho-khong-hong/) để biết thêm cách lót và chèn.
+Với vải và nhãn, giữ nguyên chùm có cuống để quả ít bị bầm; xếp chùm nằm, không đè. Lấp khoảng trống bằng giấy vo tròn để quả không xê dịch. Bài không khuyên loại hộp nào cụ thể; hãy dùng thứ bạn có và đủ cứng. Bạn có thể xem thêm bài về [chở đồ dễ vỡ trên xe máy](/ky-nang/2026/10/10/cho-do-de-vo-tren-xe-may-sao-cho-khong-hong/) để biết thêm cách lót và chèn.
 
 ## Chia túi và thứ tự xếp: nặng ở dưới, nhẹ ở trên
 
@@ -65,7 +65,7 @@ Nếu bạn thấy hộp xê dịch hay dây buộc lỏng, hãy dừng ở ch�
 
 Khi về đến chỗ ở, hãy lấy trái cây ra, kiểm tra và để ở nơi mát, tránh nắng. Trái cây chín mềm nên ăn sớm trong vài ngày vì dễ hỏng. Quả đã dập nên ăn trước, đừng để chung với quả lành vì có thể làm hỏng lây.
 
-Nếu bạn ở khách sạn hay nhà trọ, hỏi xem có chỗ để lạnh không và nhớ bảo quản đúng cách. Bài không hướng dẫn bảo quản chi tiết cho từng loại; hãy hỏi người bán. Bạn cũng có thể xem bài về [chở thùng carton trên xe máy](/ky-nang/2026/10/10/cho-thung-carton-tren-xe-may-lot-buoc-va-i-cham/) nếu bạn mua nhiều và dùng thùng giấy.
+Nếu bạn ở khách sạn hay nhà trọ, hỏi xem có chỗ để lạnh không và nhớ bảo quản đúng cách. Bài không hướng dẫn bảo quản chi tiết cho từng loại; hãy hỏi người bán. Bạn cũng có thể xem bài về [chở thùng carton trên xe máy](/ky-nang/2026/10/10/cho-thung-carton-tren-xe-may-lot-buoc-va-di-cham/) nếu bạn mua nhiều và dùng thùng giấy.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

@@ -41,7 +41,7 @@ Bạn có thể hỏi thêm: có đoạn đường vắng nào gần tiệm đ�
 
 Nếu bạn muốn thử lại, hãy chia nhỏ. Bước một là dắt xe ra chỗ rộng và tập khởi hành, phanh và dừng vài lần. Bước hai là chạy chậm một đoạn ngắn ở chỗ ít xe rồi quay lại. Bước ba là thêm việc rẽ và nhìn gương. Chỉ tăng bước khi bạn thấy thoải mái ở bước trước.
 
-Bài không biết chỗ vắng cụ thể ở khu Long Biên, nên hãy hỏi tiệm. Mỗi lần tập chỉ nên mười lăm đến ba mươi phút rồi nghỉ; sợ mà ép tập lâu thường làm bạn mệt và rối hơn. Bài [lộ trình luyện xe cho người mới ở Hà Nội](/hoi-dap/2026/10/04/lo-trinh-luyen-xe-cho-nguoi-moi-o-ha-noi-tu-vang-en-ong/) gợi ý cách đi từ đoạn vắng đến đoạn đông.
+Bài không biết chỗ vắng cụ thể ở khu Long Biên, nên hãy hỏi tiệm. Mỗi lần tập chỉ nên mười lăm đến ba mươi phút rồi nghỉ; sợ mà ép tập lâu thường làm bạn mệt và rối hơn. Bài [lộ trình luyện xe cho người mới ở Hà Nội](/hoi-dap/2026/10/04/lo-trinh-luyen-xe-cho-nguoi-moi-o-ha-noi-tu-vang-den-dong/) gợi ý cách đi từ đoạn vắng đến đoạn đông.
 
 ## Nhờ người quen đi cùng hoặc đi sau: cách chia việc
 

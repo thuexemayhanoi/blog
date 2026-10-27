@@ -59,19 +59,19 @@ Nếu bạn chưa từng lái xe máy trên đường, hãy cân nhắc kỹ tr�
 
 Sau khi khai, hãy nhờ tiệm gợi ý: *Với tay lái như vậy, ngày đầu nên chọn xe nào ạ?* Ngồi thử xe được gợi ý: chân có chạm đất vững không, dắt xe có nặng không, tay có với tới tay phanh không. Nếu có hai lựa chọn, hãy ngồi thử cả hai.
 
-Bài [người mới nên thuê xe số hay xe ga lần đầu](/hoi-dap/2026/10/04/nguoi-moi-nen-thue-xe-so-hay-xe-ga-lan-au/) và bài [lần đầu thuê xe máy nên chọn xe số hay xe tay ga](/hoi-dap/2026/10/10/lan-au-thue-xe-may-nen-chon-xe-so-hay-xe-tay-ga/) nêu cách cân nhắc giữa hai loại xe. Quyết định cuối cùng là của bạn; hãy chọn xe mà bạn thấy yên tâm khi ngồi.
+Bài [người mới nên thuê xe số hay xe ga lần đầu](/hoi-dap/2026/10/04/nguoi-moi-nen-thue-xe-so-hay-xe-ga-lan-dau/) và bài [lần đầu thuê xe máy nên chọn xe số hay xe tay ga](/hoi-dap/2026/10/10/lan-dau-thue-xe-may-nen-chon-xe-so-hay-xe-tay-ga/) nêu cách cân nhắc giữa hai loại xe. Quyết định cuối cùng là của bạn; hãy chọn xe mà bạn thấy yên tâm khi ngồi.
 
 ## Xin một buổi làm quen ngày đầu: tập ở đâu và bao lâu
 
 Nếu bạn ít kinh nghiệm, hãy hỏi tiệm xem có thể tập vài chục phút ở chỗ vắng gần tiệm không. Bài không biết nơi cụ thể ở khu Long Biên, nên hãy hỏi tiệm hoặc chọn đoạn đường rộng, ít xe. Hãy tập khởi hành, phanh, rẽ, dừng và dắt xe trước khi ra đường lớn.
 
-Bài [lộ trình luyện xe cho người mới ở Hà Nội](/hoi-dap/2026/10/04/lo-trinh-luyen-xe-cho-nguoi-moi-o-ha-noi-tu-vang-en-ong/) gợi ý đi từ đoạn vắng đến đoạn đông. Đừng ra phố đông khi chưa thấy quen tay; chạy chậm và nghỉ giữa chừng là điều bình thường.
+Bài [lộ trình luyện xe cho người mới ở Hà Nội](/hoi-dap/2026/10/04/lo-trinh-luyen-xe-cho-nguoi-moi-o-ha-noi-tu-vang-den-dong/) gợi ý đi từ đoạn vắng đến đoạn đông. Đừng ra phố đông khi chưa thấy quen tay; chạy chậm và nghỉ giữa chừng là điều bình thường.
 
 ## Nếu tiệm không hỏi gì: tự khai trước
 
 Không phải tiệm nào cũng hỏi. Nếu họ không hỏi, bạn nên tự nói: *Trước khi nhận xe, xin nói trước là tay lái thế này, nhờ tiệm gợi ý và dặn giúp ạ.* Làm vậy bạn không mất gì, và nếu tiệm chỉ đưa xe nhanh, bạn vẫn có cơ hội hỏi thêm.
 
-Hãy ghi lại những lời dặn quan trọng bằng ảnh chụp màn hình hoặc ghi chú, nhất là về phanh, ga và các nút điều khiển. Bài [thuê xe máy lần đầu nên hỏi cửa hàng những gì](/hoi-dap/2026/10/10/thue-xe-may-lan-au-nen-hoi-cua-hang-nhung-gi/) nêu thêm những câu nên hỏi lúc nhận xe.
+Hãy ghi lại những lời dặn quan trọng bằng ảnh chụp màn hình hoặc ghi chú, nhất là về phanh, ga và các nút điều khiển. Bài [thuê xe máy lần đầu nên hỏi cửa hàng những gì](/hoi-dap/2026/10/10/thue-xe-may-lan-dau-nen-hoi-cua-hang-nhung-gi/) nêu thêm những câu nên hỏi lúc nhận xe.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

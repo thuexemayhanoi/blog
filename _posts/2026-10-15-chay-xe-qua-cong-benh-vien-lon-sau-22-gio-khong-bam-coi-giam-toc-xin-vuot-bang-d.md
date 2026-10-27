@@ -41,11 +41,11 @@ Hãy giảm tốc từ xa, đi sát lề phải của phần đường của b�
 
 Xe cứu thương là xe ưu tiên khi đi làm nhiệm vụ cấp cứu. Điều 27 khoản 5 quy định khi có tín hiệu của xe ưu tiên thì người và phương tiện tham gia giao thông phải giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường. Ngay cả lúc ban đêm, xe ưu tiên là ngoại lệ của quy định cấm còi.
 
-Hãy nghe và nhìn kỹ phía sau khi gần bệnh viện: xe cấp cứu thường vào ra cổng. Đừng đỗ xe chắn lối vào cấp cứu, và đừng đứng dừng giữa lối đi chỉ để nghe điện thoại. Bài [nhường đường cho đoàn xe ưu tiên khi đi xe máy](/an-toan-phap-ly/2026/10/10/nhuong-uong-cho-oan-xe-uu-tien-khi-i-xe-may/) nói thêm về cách nhường.
+Hãy nghe và nhìn kỹ phía sau khi gần bệnh viện: xe cấp cứu thường vào ra cổng. Đừng đỗ xe chắn lối vào cấp cứu, và đừng đứng dừng giữa lối đi chỉ để nghe điện thoại. Bài [nhường đường cho đoàn xe ưu tiên khi đi xe máy](/an-toan-phap-ly/2026/10/10/nhuong-duong-cho-doan-xe-uu-tien-khi-di-xe-may/) nói thêm về cách nhường.
 
 ## Đừng dừng đỗ chắn cổng và lối xe: chọn chỗ gửi xe có người trông
 
-Nếu bạn đến thăm người nhà ban đêm, hãy tìm chỗ gửi xe có người trông thay vì đỗ sát cổng. Chỗ gửi ở bệnh viện thường đông vào giờ cao điểm, và bài này không có thông tin về từng bệnh viện cụ thể. Bài [gửi xe máy ở bệnh viện: chọn bãi gần cổng và canh giờ cao điểm](/ky-nang/2026/10/05/gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-iem/) có thêm gợi ý.
+Nếu bạn đến thăm người nhà ban đêm, hãy tìm chỗ gửi xe có người trông thay vì đỗ sát cổng. Chỗ gửi ở bệnh viện thường đông vào giờ cao điểm, và bài này không có thông tin về từng bệnh viện cụ thể. Bài [gửi xe máy ở bệnh viện: chọn bãi gần cổng và canh giờ cao điểm](/ky-nang/2026/10/05/gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-diem/) có thêm gợi ý.
 
 Khi đi bộ vào trong, hãy nói nhỏ, nhất là gần các khu điều trị. Nếu bạn phải gọi điện, hãy ra xa cổng, tránh gọi to ngay lối vào. Giữ yên tĩnh cũng là cách tôn trọng người bệnh.
 

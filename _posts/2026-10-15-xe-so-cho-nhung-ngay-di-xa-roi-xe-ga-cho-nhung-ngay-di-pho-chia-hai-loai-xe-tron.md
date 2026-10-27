@@ -29,7 +29,7 @@ Bài không biết tiệm có cho đổi xe giữa kỳ thuê hay không, không
 
 Ngày đi xa như lên Ba Vì hay ra ngoại thành, xe số cho bạn cách kiểm soát tốc độ ở đoạn dốc xuống bằng việc về số thấp, không chỉ dựa vào phanh. Ngày đi phố, xe ga giúp bạn khỏi phải sang số liên tục ở đoạn đông xe và đèn đỏ dày. Người quen cả hai loại thường thấy rõ khác biệt này.
 
-Bài [đi Ba Vì cuối tuần: xe số hay xe ga leo dốc và xuống dốc dễ hơn](/xe-may/2026/10/14/di-ba-vi-cuoi-tuan-xe-so-hay-xe-ga-leo-doc-va-xuong-doc-de-hon/) và bài [xe số hay xe ga cho đường đông phố](/xe-may/2026/10/11/xe-so-hay-xe-ga-cho-uong-ong-pho/) nêu hai mặt của câu hỏi. Nếu bạn thật sự quen cả hai loại, cách chia này có lý; nếu chỉ quen một loại, cái được nhỏ hơn nhiều.
+Bài [đi Ba Vì cuối tuần: xe số hay xe ga leo dốc và xuống dốc dễ hơn](/xe-may/2026/10/14/di-ba-vi-cuoi-tuan-xe-so-hay-xe-ga-leo-doc-va-xuong-doc-de-hon/) và bài [xe số hay xe ga cho đường đông phố](/xe-may/2026/10/11/xe-so-hay-xe-ga-cho-duong-dong-pho/) nêu hai mặt của câu hỏi. Nếu bạn thật sự quen cả hai loại, cách chia này có lý; nếu chỉ quen một loại, cái được nhỏ hơn nhiều.
 
 ## Cái mất: làm quen tay hai lần và thêm một lần bàn giao
 

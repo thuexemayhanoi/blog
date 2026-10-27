@@ -41,7 +41,7 @@ Hãy tìm bằng cả hai tên, vì bản đồ có thể chưa cập nhật.
 
 Một nguồn có độ tin cậy thấp ghi đi qua Đại lộ Thăng Long tới ngã ba Tản Lĩnh rồi theo biển chỉ dẫn, có đoạn dốc. Bài không coi đây là chỉ dẫn chính xác và không đo quãng đường từ Long Biên. Hãy dùng bản đồ ở chế độ xe hai bánh, đi theo làn và biển báo dành cho xe máy vì xe máy có thể không được đi trên một số đoạn đại lộ.
 
-Đoạn dốc ở Ba Vì cần thao tác phanh và số cho đúng. Bài [chạy xe máy lên Ba Vì buổi sáng: đường dốc và lưu ý](/du-lich/2026/10/04/chay-xe-may-len-ba-vi-buoi-sang-uong-doc-va-luu-y/) và bài [đi Ba Vì cuối tuần: xe số hay xe ga leo dốc và xuống dốc dễ hơn](/xe-may/2026/10/14/di-ba-vi-cuoi-tuan-xe-so-hay-xe-ga-leo-doc-va-xuong-doc-de-hon/) nói thêm về cách chạy.
+Đoạn dốc ở Ba Vì cần thao tác phanh và số cho đúng. Bài [chạy xe máy lên Ba Vì buổi sáng: đường dốc và lưu ý](/du-lich/2026/10/04/chay-xe-may-len-ba-vi-buoi-sang-duong-doc-va-luu-y/) và bài [đi Ba Vì cuối tuần: xe số hay xe ga leo dốc và xuống dốc dễ hơn](/xe-may/2026/10/14/di-ba-vi-cuoi-tuan-xe-so-hay-xe-ga-leo-doc-va-xuong-doc-de-hon/) nói thêm về cách chạy.
 
 ## Lễ hội đầu năm: rước nước sông Đà đêm 13 tháng Giêng
 
@@ -69,7 +69,7 @@ Hãy hỏi người trông đền hoặc xem biển thông báo khi tới. Nếu
 
 ## Nếu ngủ lại Ba Vì: xe để ngoài trời cần lưu ý
 
-Nếu bạn đi Ba Vì dịp hội và ngủ lại, chỗ gửi xe ở nơi nghỉ có thể là sân đất ngoài trời. Bài [ngủ homestay ở Ba Vì hay Sơn Tây: xe để sân đất ngoài trời cần liệu những gì](/ky-nang/2026/10/11/ngu-homestay-o-ba-vi-hay-son-tay-xe-e-san-at-ngoai-troi-can-lieu-nhung-gi/) nêu những điều nên hỏi và cách khóa xe.
+Nếu bạn đi Ba Vì dịp hội và ngủ lại, chỗ gửi xe ở nơi nghỉ có thể là sân đất ngoài trời. Bài [ngủ homestay ở Ba Vì hay Sơn Tây: xe để sân đất ngoài trời cần liệu những gì](/ky-nang/2026/10/11/ngu-homestay-o-ba-vi-hay-son-tay-xe-de-san-dat-ngoai-troi-can-lieu-nhung-gi/) nêu những điều nên hỏi và cách khóa xe.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

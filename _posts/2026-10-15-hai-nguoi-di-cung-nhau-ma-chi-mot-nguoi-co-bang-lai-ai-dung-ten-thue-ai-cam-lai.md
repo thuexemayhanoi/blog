@@ -29,7 +29,7 @@ Bài không đi vào việc xe gắn máy dung tích nhỏ có quy định riên
 
 Có người nghĩ chỉ đổi lái một đoạn ngắn, ở chỗ vắng, thì không sao. Nhưng nếu người không có giấy phép cầm lái, họ không đáp ứng điều kiện của người lái xe, và nếu xảy ra va chạm hay bị kiểm tra, mọi chuyện sẽ phức tạp cho cả hai bên. Bài không đánh giá hậu quả cụ thể về bảo hiểm hay trách nhiệm vì tùy từng trường hợp, nhưng việc đổi lái như vậy rủi ro hơn nhiều so với lợi ích.
 
-Ngoài ra, hợp đồng thuê thường gắn với người đứng tên; việc người khác lái có thể trái thỏa thuận với tiệm. Bài không biết hợp đồng của tiệm bạn thuê, nên hãy hỏi trước. Bài [đi xe máy thuê không có GPLX bị xử lý ra sao](/hoi-dap/2026/09/30/i-xe-may-thue-khong-co-gplx-bi-xu-ly-ra-sao/) nói thêm về chuyện thiếu giấy phép.
+Ngoài ra, hợp đồng thuê thường gắn với người đứng tên; việc người khác lái có thể trái thỏa thuận với tiệm. Bài không biết hợp đồng của tiệm bạn thuê, nên hãy hỏi trước. Bài [đi xe máy thuê không có GPLX bị xử lý ra sao](/hoi-dap/2026/09/30/di-xe-may-thue-khong-co-gplx-bi-xu-ly-ra-sao/) nói thêm về chuyện thiếu giấy phép.
 
 ## Ai đứng tên hợp đồng: hỏi tiệm cho rõ
 
@@ -41,13 +41,13 @@ Hãy hỏi thêm: người ngồi sau có cần để lại giấy tờ gì khô
 
 Người ngồi sau không chỉ ngồi cho đỡ chật; họ có thể lo bản đồ, nhìn đường giúp, báo khi có xe sát và chụp ảnh khi xe đã dừng. Khi ngồi, hãy nắm chắc, ngồi sát người lái, nghiêng theo xe khi vào cua và không đứng hay quay người đột ngột. Đừng đeo túi lớn trước ngực khiến lệch trọng tâm.
 
-Nếu bạn là người ngồi sau và không có bằng, hãy tôn trọng quyết định của người lái khi họ muốn dừng nghỉ hoặc đổi tuyến. Bài [lần đầu chở người ngồi sau: tập ở đâu và làm sao](/hoi-dap/2026/10/04/lan-au-cho-nguoi-ngoi-sau-tap-o-au-va-lam-sao/) nêu cách chở người cho vững.
+Nếu bạn là người ngồi sau và không có bằng, hãy tôn trọng quyết định của người lái khi họ muốn dừng nghỉ hoặc đổi tuyến. Bài [lần đầu chở người ngồi sau: tập ở đâu và làm sao](/hoi-dap/2026/10/04/lan-dau-cho-nguoi-ngoi-sau-tap-o-dau-va-lam-sao/) nêu cách chở người cho vững.
 
 ## Chia lịch trình và giờ nghỉ: người lái không nên chạy quá nhiều
 
 Vì chỉ một người lái, người ấy mệt trước. Hãy xếp lịch ngắn hơn bình thường, nghỉ sau mỗi một đến hai giờ và dừng khi thấy mỏi. Chọn tuyến vừa sức: quanh phố cổ, hồ Gươm, hồ Tây thay vì chặng dài. Nếu muốn đi xa, hãy chia làm nhiều ngày.
 
-Người ngồi sau có thể chủ động đề nghị nghỉ khi thấy người lái mệt. Thống nhất từ đầu rằng bất kỳ ai cũng có thể đề nghị dừng. Bài [thuê xe máy cho cặp đôi đi chơi cuối tuần](/thue-xe/2026/09/29/thue-xe-may-cho-cap-oi-i-choi-cuoi-tuan/) có thêm gợi ý lịch trình cho hai người.
+Người ngồi sau có thể chủ động đề nghị nghỉ khi thấy người lái mệt. Thống nhất từ đầu rằng bất kỳ ai cũng có thể đề nghị dừng. Bài [thuê xe máy cho cặp đôi đi chơi cuối tuần](/thue-xe/2026/09/29/thue-xe-may-cho-cap-doi-di-choi-cuoi-tuan/) có thêm gợi ý lịch trình cho hai người.
 
 ## Chọn xe cho hai người nhưng một người lái: dễ lái và chỗ ngồi sau thoải mái
 

@@ -68,7 +68,7 @@ Nếu bạn đi sau xe lớn, tầm nhìn bị che nên hãy tăng khoảng các
 
 ## Khi bạn cũng muốn chụp ảnh: chọn chỗ dừng an toàn
 
-Nếu bạn cũng muốn chụp ảnh cho chuyến đi, hãy dừng ở chỗ hợp lệ và an toàn thay vì dừng giữa đường. Bạn có thể xem bài về [dừng xe máy trên đường dốc để chụp ảnh](/ky-nang/2026/10/11/dung-xe-may-tren-uong-doc-e-chup-anh-giu-xe-the-nao/) để biết cách giữ xe khi dừng.
+Nếu bạn cũng muốn chụp ảnh cho chuyến đi, hãy dừng ở chỗ hợp lệ và an toàn thay vì dừng giữa đường. Bạn có thể xem bài về [dừng xe máy trên đường dốc để chụp ảnh](/ky-nang/2026/10/11/dung-xe-may-tren-duong-doc-de-chup-anh-giu-xe-the-nao/) để biết cách giữ xe khi dừng.
 
 Hãy chọn chỗ rộng, không chắn lối đi, không đứng giữa lòng đường và quan sát xe cộ trước khi đưa máy lên. Nếu có nhiều người chờ chụp, hãy nhường chỗ. Đừng bắt chước hành động đứng giữa đường dù người khác làm vậy.
 

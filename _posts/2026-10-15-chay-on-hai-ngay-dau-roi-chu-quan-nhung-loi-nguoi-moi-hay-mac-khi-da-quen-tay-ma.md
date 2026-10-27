@@ -49,7 +49,7 @@ Ghi các giới hạn ấy vào ghi chú điện thoại hay nói với người
 
 ## Kiểm tra xe mỗi sáng: ba phút trước khi lăn bánh
 
-Một thói quen đơn giản giúp bạn luôn cẩn trọng là kiểm tra xe mỗi sáng: nhìn lốp, bóp thử phanh, thử đèn và còi, xem mức xăng. Mất ba phút nhưng ngăn nhiều chuyện bất ngờ. Bài [nhận xe máy thuê giờ cao điểm: kiểm tra nhanh, không bỏ sót](/thue-xe/2026/10/11/nhan-xe-may-thue-gio-cao-iem-kiem-tra-nhanh-khong-bo-sot/) có danh sách kiểm tra gọn, dùng được cả lúc nhận xe lẫn mỗi sáng sau đó.
+Một thói quen đơn giản giúp bạn luôn cẩn trọng là kiểm tra xe mỗi sáng: nhìn lốp, bóp thử phanh, thử đèn và còi, xem mức xăng. Mất ba phút nhưng ngăn nhiều chuyện bất ngờ. Bài [nhận xe máy thuê giờ cao điểm: kiểm tra nhanh, không bỏ sót](/thue-xe/2026/10/11/nhan-xe-may-thue-gio-cao-diem-kiem-tra-nhanh-khong-bo-sot/) có danh sách kiểm tra gọn, dùng được cả lúc nhận xe lẫn mỗi sáng sau đó.
 
 Nếu thấy điều gì khác thường, như phanh mềm hơn hôm trước hay lốp non hơi, hãy báo tiệm thay vì chạy tiếp rồi tính sau.
 
@@ -63,7 +63,7 @@ Sau vài ngày đi chơi, người dễ mệt hơn bạn nghĩ. Ngủ đủ, u�
 
 Từ ngày thứ ba, nhiều người mới tự tin đi qua các cây cầu lớn và đường đê ở Hà Nội. Những nơi này có thể có gió bên, xe tải qua lại và đoạn mặt đường xấu, tùy từng chỗ. Bài không có thông tin về từng đoạn, nên hãy hỏi tiệm hoặc người quen đường, giảm tốc ở chỗ gió và giữ khoảng cách với xe lớn.
 
-Nếu chưa chắc về một đoạn, hãy bỏ qua hoặc đi vào giờ vắng thay vì thử cho biết. Bài [người mới biết tự tin chạy xe máy khi nào là đủ](/hoi-dap/2026/10/05/nguoi-moi-biet-tu-tin-chay-xe-may-khi-nao-la-u/) nêu cách phân biệt tự tin thật và chủ quan.
+Nếu chưa chắc về một đoạn, hãy bỏ qua hoặc đi vào giờ vắng thay vì thử cho biết. Bài [người mới biết tự tin chạy xe máy khi nào là đủ](/hoi-dap/2026/10/05/nguoi-moi-biet-tu-tin-chay-xe-may-khi-nao-la-du/) nêu cách phân biệt tự tin thật và chủ quan.
 
 ## Nhờ người ngoài nhìn giúp: hỏi tiệm hoặc bạn đi cùng nhận xét
 

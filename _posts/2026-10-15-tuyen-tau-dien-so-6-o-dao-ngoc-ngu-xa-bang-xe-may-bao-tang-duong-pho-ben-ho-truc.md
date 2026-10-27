@@ -59,7 +59,7 @@ Nghề đúc đồng gắn với khu Ngũ Xã ngay cạnh hồ; đây cũng là 
 
 Bài không tìm được nguồn nói lối vào từ phía nào hay chỗ dừng xe máy của khách. Khu vực quanh hồ buổi tối khá đông người đi bộ và xe, nên đừng dừng giữa đường để tìm chỗ. Hãy đi một vòng, tìm chỗ được phép đỗ và có người trông rồi đi bộ tới cổng.
 
-Bài [đến hồ Trúc Bạch bằng xe máy: đường đi quanh hồ](/du-lich/2026/10/04/en-ho-truc-bach-bang-xe-may-uong-i-quanh-ho/) nói về cách đi quanh hồ và các điểm dừng. Khóa cổ, rút chìa và mang đồ giá trị theo người; chụp ảnh xe và chỗ đỗ trước khi đi.
+Bài [đến hồ Trúc Bạch bằng xe máy: đường đi quanh hồ](/du-lich/2026/10/04/den-ho-truc-bach-bang-xe-may-duong-di-quanh-ho/) nói về cách đi quanh hồ và các điểm dừng. Khóa cổ, rút chìa và mang đồ giá trị theo người; chụp ảnh xe và chỗ đỗ trước khi đi.
 
 ## Ghép buổi tối: phở cuốn Ngũ Xã và các điểm quanh hồ
 

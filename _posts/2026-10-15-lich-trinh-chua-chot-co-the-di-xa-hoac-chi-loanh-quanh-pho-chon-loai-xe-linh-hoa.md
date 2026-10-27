@@ -39,7 +39,7 @@ Bài không đặt tiêu chí về dung tích hay công suất vì phụ thuộc
 
 Xe ga dễ dùng khi dừng đi liên tục ở phố vì không phải sang số; xe số có phanh động cơ giúp xuống dốc ổn định hơn và nhiều người thấy chắc tay hơn ở đoạn đồi. Điều quyết định không phải loại xe nào tốt hơn mà là loại nào bạn quen. Người quen xe ga thường nên giữ xe ga; người quen xe số nên giữ xe số.
 
-Bài [xe số hay xe ga cho đường đông phố](/xe-may/2026/10/11/xe-so-hay-xe-ga-cho-uong-ong-pho/) và bài [đi Ba Vì cuối tuần: xe số hay xe ga leo dốc và xuống dốc dễ hơn](/xe-may/2026/10/14/di-ba-vi-cuoi-tuan-xe-so-hay-xe-ga-leo-doc-va-xuong-doc-de-hon/) nêu hai mặt của câu hỏi này. Nếu bạn chưa quen cả hai, hãy chọn loại bạn thấy dễ dùng ở phố, vì phố là nơi bạn sẽ dành nhiều thời gian nhất.
+Bài [xe số hay xe ga cho đường đông phố](/xe-may/2026/10/11/xe-so-hay-xe-ga-cho-duong-dong-pho/) và bài [đi Ba Vì cuối tuần: xe số hay xe ga leo dốc và xuống dốc dễ hơn](/xe-may/2026/10/14/di-ba-vi-cuoi-tuan-xe-so-hay-xe-ga-leo-doc-va-xuong-doc-de-hon/) nêu hai mặt của câu hỏi này. Nếu bạn chưa quen cả hai, hãy chọn loại bạn thấy dễ dùng ở phố, vì phố là nơi bạn sẽ dành nhiều thời gian nhất.
 
 ## Quyết định sớm hay chờ kế hoạch rõ hơn
 

@@ -41,7 +41,7 @@ Hãy đặt chân đế sát vào yên sau hoặc giá đèo hàng, thân hoa d�
 
 Dùng ít nhất ba điểm buộc: chân đế, thân khung và phần trên của vòng hoa nếu có chỗ chắc. Dùng dây đủ chắc, không dùng dây chun yếu. Buộc xong, hãy lay thử: hoa có xoay, nghiêng hay lỏng chân đế không.
 
-Chạy thử một đoạn ngắn rồi dừng kiểm tra lại. Nếu hoa tươi, hãy bọc nilon quanh phần dễ gãy khi trời mưa hoặc có gió. Bài [chở hộp bánh kem trên xe máy: giữ thăng bằng và buộc đúng](/ky-nang/2026/10/01/cho-hop-banh-kem-tren-xe-may-giu-thang-bang-va-buoc-ung/) nêu cách giữ thăng bằng khi chở đồ dễ vỡ.
+Chạy thử một đoạn ngắn rồi dừng kiểm tra lại. Nếu hoa tươi, hãy bọc nilon quanh phần dễ gãy khi trời mưa hoặc có gió. Bài [chở hộp bánh kem trên xe máy: giữ thăng bằng và buộc đúng](/ky-nang/2026/10/01/cho-hop-banh-kem-tren-xe-may-giu-thang-bang-va-buoc-dung/) nêu cách giữ thăng bằng khi chở đồ dễ vỡ.
 
 ## Cuộn gọn dải băng để không vướng bánh xe
 

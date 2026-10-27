@@ -47,7 +47,7 @@ Làm theo thứ tự đơn giản:
 
 Nếu xe vừa đi qua đoạn ngập hay chịu mưa rất lớn, hãy nói điều đó với tiệm, vì đó là thông tin có thể giúp thợ nhìn đúng chỗ. Bài không khẳng định nước từ đâu vào và không đánh giá. Chỉ nói rằng hoàn cảnh quan trọng ngang với hiện tượng.
 
-Bài [đường ngập sau mưa lớn: có nên lội xe máy qua và xử lý thế nào khi xe chết máy](/thue-xe/2026/10/11/uong-ngap-sau-mua-lon-co-nen-loi-xe-may-qua-va-xu-ly-the-nao-khi-xe-chet-may/) nói thêm về chuyện đi qua đoạn ngập. Đừng thử nổ máy nhiều lần sau khi qua nước; hỏi tiệm trước.
+Bài [đường ngập sau mưa lớn: có nên lội xe máy qua và xử lý thế nào khi xe chết máy](/thue-xe/2026/10/11/duong-ngap-sau-mua-lon-co-nen-loi-xe-may-qua-va-xu-ly-the-nao-khi-xe-chet-may/) nói thêm về chuyện đi qua đoạn ngập. Đừng thử nổ máy nhiều lần sau khi qua nước; hỏi tiệm trước.
 
 ## Đừng tự xử lý, đừng nhờ người lạ kéo xe
 

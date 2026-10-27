@@ -51,7 +51,7 @@ Bài [một ngày chạy từ Hà Giang lên Đồng Văn, chia giờ qua Quản
 
 Các nguồn ghi chợ họp rất sớm và tan vào khoảng quá trưa, nên giờ đẹp để xem thường là buổi sáng. Bài không có giờ cụ thể từng chợ. Hãy hỏi chủ homestay giờ chợ đông nhất và giờ tan, rồi xếp đêm nghỉ ở gần để sáng ra bạn đi bộ hoặc chạy ngắn tới chợ.
 
-Nếu bạn nghỉ ở Đồng Văn hay Mèo Vạc, bài [nghỉ đêm thứ hai ở Đồng Văn hay Mèo Vạc](/cung-duong/2026/10/14/nghi-dem-thu-hai-o-dong-van-hay-meo-vac-chon-theo-lich-chay-the-nao/) giúp bạn chọn theo lịch chạy. Bài [chợ phiên Đồng Văn bằng xe máy cuối tuần](/cung-duong/2026/10/01/cho-phien-ong-van-bang-xe-may-cuoi-tuan/) nói về chợ phiên cố định để bạn so với chợ lùi.
+Nếu bạn nghỉ ở Đồng Văn hay Mèo Vạc, bài [nghỉ đêm thứ hai ở Đồng Văn hay Mèo Vạc](/cung-duong/2026/10/14/nghi-dem-thu-hai-o-dong-van-hay-meo-vac-chon-theo-lich-chay-the-nao/) giúp bạn chọn theo lịch chạy. Bài [chợ phiên Đồng Văn bằng xe máy cuối tuần](/cung-duong/2026/10/01/cho-phien-dong-van-bang-xe-may-cuoi-tuan/) nói về chợ phiên cố định để bạn so với chợ lùi.
 
 ## Chỗ đỗ xe quanh chợ: chưa xác minh
 

@@ -71,7 +71,7 @@ Khi đến tiệm ở Long Biên nhận xe, đối chiếu biển số trên xe 
 
 Đôi khi bản hợp đồng ghi khác tin nhắn trước đó, chẳng hạn giờ trả, loại xe hay cách tính ngày. Hãy nhắn nêu rõ chỗ khác, kèm ảnh chụp hai tin cần so, và nhờ tiệm gửi bản đã sửa. Chỉ trả lời đồng ý khi đã nhận bản mới.
 
-Một mẫu tham khảo: *Hợp đồng ghi giờ trả 18:00, trong khi tin nhắn ngày 14/10 là 20:00. Nhờ tiệm kiểm tra và gửi lại bản đã sửa ạ.* Bài [đặt xe máy thuê qua Zalo chốt cọc sao](/hoi-dap/2026/10/09/at-xe-may-thue-qua-zalo-chot-coc-sao/) bàn thêm về việc chốt các thỏa thuận qua tin nhắn trước khi nhận xe.
+Một mẫu tham khảo: *Hợp đồng ghi giờ trả 18:00, trong khi tin nhắn ngày 14/10 là 20:00. Nhờ tiệm kiểm tra và gửi lại bản đã sửa ạ.* Bài [đặt xe máy thuê qua Zalo chốt cọc sao](/hoi-dap/2026/10/09/dat-xe-may-thue-qua-zalo-chot-coc-sao/) bàn thêm về việc chốt các thỏa thuận qua tin nhắn trước khi nhận xe.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

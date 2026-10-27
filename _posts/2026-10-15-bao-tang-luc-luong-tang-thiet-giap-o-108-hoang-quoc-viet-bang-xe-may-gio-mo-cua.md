@@ -41,7 +41,7 @@ Nếu bạn đi cùng trẻ nhỏ hoặc đi nhóm học sinh, hãy hỏi trư�
 
 Hai nguồn ghi xe tăng T-59 mang số hiệu 390 được công nhận là bảo vật quốc gia năm 2012 và được lưu giữ ở bảo tàng. Với nhiều người đi xem, đây là hiện vật đáng tìm đầu tiên. Bài không mô tả chi tiết quân sự của xe tăng mà để bạn xem tại chỗ và đọc biển giới thiệu.
 
-Một số nguồn nói về xe tăng số hiệu 843 nhưng nói không giống nhau về nơi lưu giữ: có nguồn ghi ở Bảo tàng Lịch sử Quân sự, có nguồn ghi ở bảo tàng này. Vì các nguồn mâu thuẫn, bài không khẳng định xe 843 đang ở đâu. Bài [đến bảo tàng Lịch sử Quân sự Việt Nam bằng xe máy](/du-lich/2026/10/01/en-bao-tang-lich-su-quan-su-viet-nam-bang-xe-may-gui-xe-va-uong-i/) nói về bảo tàng còn lại.
+Một số nguồn nói về xe tăng số hiệu 843 nhưng nói không giống nhau về nơi lưu giữ: có nguồn ghi ở Bảo tàng Lịch sử Quân sự, có nguồn ghi ở bảo tàng này. Vì các nguồn mâu thuẫn, bài không khẳng định xe 843 đang ở đâu. Bài [đến bảo tàng Lịch sử Quân sự Việt Nam bằng xe máy](/du-lich/2026/10/01/den-bao-tang-lich-su-quan-su-viet-nam-bang-xe-may-gui-xe-va-duong-di/) nói về bảo tàng còn lại.
 
 ## Một buổi xem gì: trưng bày theo giai đoạn
 

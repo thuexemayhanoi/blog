@@ -59,7 +59,7 @@ Vì thú bông ăn gió, hãy tránh chở khi trời gió mạnh. Nếu buộc 
 
 Trước khi xuất phát, kiểm tra lần cuối: gương chiếu hậu thấy rõ, đèn hậu và đèn xi nhan không bị che, biển số nhìn thấy được, không có phần nào của thú bông hay dây thò gần bánh xe, xích hay ống xả. Nếu có người đi cùng, nhờ họ nhìn từ phía sau.
 
-Nếu có điều bất thường như xe bị lệch hay thú bông cọ vào bánh, dừng lại ngay ở chỗ an toàn. Hãy báo tiệm nếu xe thuê bị dính nilon hay hư hại. Bài về [chở đồ dễ vỡ trên xe máy](/ky-nang/2026/10/10/cho-o-de-vo-tren-xe-may-sao-cho-khong-hong/) có thêm điều nên kiểm tra khi chở đồ cồng kềnh.
+Nếu có điều bất thường như xe bị lệch hay thú bông cọ vào bánh, dừng lại ngay ở chỗ an toàn. Hãy báo tiệm nếu xe thuê bị dính nilon hay hư hại. Bài về [chở đồ dễ vỡ trên xe máy](/ky-nang/2026/10/10/cho-do-de-vo-tren-xe-may-sao-cho-khong-hong/) có thêm điều nên kiểm tra khi chở đồ cồng kềnh.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

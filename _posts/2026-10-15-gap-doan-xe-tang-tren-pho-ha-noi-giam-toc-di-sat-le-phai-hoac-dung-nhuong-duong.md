@@ -41,7 +41,7 @@ Hãy dừng ở chỗ an toàn, không chắn lối rẽ hay lối ra vào nhà 
 
 Điều 14 khoản 6 điểm g cấm vượt xe “Khi gặp xe ưu tiên”. Vì đoàn xe tang thuộc nhóm xe ưu tiên, bạn không nên vượt lên trong lúc đoàn đang đi. Chen vào giữa hai xe của đoàn cũng làm đoàn bị cắt đứt, dễ gây chậm trễ và nguy hiểm cho người đi theo.
 
-Đừng bấm còi giục hay nháy đèn. Tiếng còi trong lúc đoàn đưa tang đi qua là thiếu tôn trọng, còn làm người đi bộ và người lái xe trong đoàn khó chịu. Hãy kiên nhẫn: thường đoàn chỉ chiếm vài phút. Bài [nhường đường cho đoàn xe ưu tiên khi đi xe máy](/an-toan-phap-ly/2026/10/10/nhuong-uong-cho-oan-xe-uu-tien-khi-i-xe-may/) nói thêm về cách nhường.
+Đừng bấm còi giục hay nháy đèn. Tiếng còi trong lúc đoàn đưa tang đi qua là thiếu tôn trọng, còn làm người đi bộ và người lái xe trong đoàn khó chịu. Hãy kiên nhẫn: thường đoàn chỉ chiếm vài phút. Bài [nhường đường cho đoàn xe ưu tiên khi đi xe máy](/an-toan-phap-ly/2026/10/10/nhuong-duong-cho-doan-xe-uu-tien-khi-di-xe-may/) nói thêm về cách nhường.
 
 ## Ở ngã tư và phố hẹp: chờ cho đoàn đi hết
 

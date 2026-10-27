@@ -59,7 +59,7 @@ Làng cổ vẫn là nơi người dân sinh sống. Đừng vào sân nhà hay 
 
 Một nguồn ghi làng có hàng trăm ngôi nhà truyền thống, nhiều nhà vẫn có người ở. Ngoài đình, bạn có thể đi bộ qua các ngõ đá ong và xem cổng làng. Bài không xác minh nhà nào mở cửa đón khách hay có thu phí vào xem.
 
-Bài [thành cổ Sơn Tây và làng cổ Đường Lâm bằng xe máy](/du-lich/2026/10/05/thanh-co-son-tay-va-lang-co-uong-lam-bang-xe-may/) có thêm gợi ý ghép làng cổ với thành cổ Sơn Tây. Hãy đi bộ trong làng thay vì chạy xe vào từng ngõ.
+Bài [thành cổ Sơn Tây và làng cổ Đường Lâm bằng xe máy](/du-lich/2026/10/05/thanh-co-son-tay-va-lang-co-duong-lam-bang-xe-may/) có thêm gợi ý ghép làng cổ với thành cổ Sơn Tây. Hãy đi bộ trong làng thay vì chạy xe vào từng ngõ.
 
 ## Ghép với đền Phùng Hưng, lăng Ngô Quyền và chùa Mía
 
