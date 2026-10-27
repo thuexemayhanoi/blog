@@ -7,7 +7,7 @@ description: "Chi phí xe điện và xe xăng khi thuê theo tháng: giá thuê
 categories: [Thuê xe]
 lang: vi
 tags: [xe-dien, xe-xang, thue-thang]
-permalink: /xe-may/2026/09/29/chi-phi-chay-xe-ien-va-xe-xang-khi-thue-theo-thang/
+permalink: /xe-may/2026/09/29/chi-phi-chay-xe-dien-va-xe-xang-khi-thue-theo-thang/
 parent_id: P-XE-MAY
 child_id: C-XE-SO-SANH
 article_id: BLG-00942

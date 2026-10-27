@@ -7,7 +7,7 @@ description: "Thuê Air Blade đường trường có đáng không: phân tích
 categories: [Kinh nghiệm]
 lang: vi
 tags: [thuê air blade đường trường, air blade chạy trường, air blade có đáng thuê, xe ga đường trường]
-permalink: /xe-may/2026/09/27/thue-honda-air-blade-chay-uong-truong-co-ang-khong/
+permalink: /xe-may/2026/09/27/thue-honda-air-blade-chay-duong-truong-co-dang-khong/
 parent_id: P-XE-MAY
 child_id: C-HONDA-AIR-BLADE
 article_id: BLG-00599

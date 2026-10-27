@@ -7,7 +7,7 @@ description: "Đi sân bay Nội Bài bằng xe máy cần chọn giờ xuất p
 categories: [Thuê xe]
 lang: vi
 tags: [noi-bai, san-bay, thue-xe-may]
-permalink: /thue-xe/2026/09/29/i-san-bay-noi-bai-nen-thue-xe-may-tu-au-va-luc-nao/
+permalink: /thue-xe/2026/09/29/di-san-bay-noi-bai-nen-thue-xe-may-tu-dau-va-luc-nao/
 parent_id: P-THUE-XE
 child_id: C-THUE-DIA-DIEM
 article_id: BLG-00906
