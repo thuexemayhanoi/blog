@@ -876,6 +876,119 @@ class TestHardening(ReattestBase):
         self.assertEqual(pathlib.Path(tmp).read_bytes(), R.evidence_text(obj).encode('utf-8'))
 
 
+class TestReviewedChain(ReattestBase):
+    """--reviewed (REVIEWED_CHAIN_PROVEN): bài bị sửa tay sau xuất bản. Tool chỉ nhận khi git chứng minh byte hiện tại
+    = byte đã chấm lúc xuất bản + ĐÚNG các commit được duyệt (+ migration v3), evidence không đổi từ lúc xuất bản,
+    rồi vẫn chấm lại độc lập; thiếu/thừa/sai commit hoặc không có --reviewed thì từ chối."""
+
+    ENV = dict(os.environ, GIT_AUTHOR_NAME='t', GIT_AUTHOR_EMAIL='t@t',
+               GIT_COMMITTER_NAME='t', GIT_COMMITTER_EMAIL='t@t')
+
+    def git(self, *a, inp=None, env=None):
+        r = subprocess.run(['git'] + list(a), cwd=self.fx, input=inp, capture_output=True, env=env or self.ENV)
+        self.assertEqual(r.returncode, 0, r.stderr)
+        return r.stdout.decode().strip()
+
+    def tree_commit(self, files, parent=None, msg='c'):
+        idx = dict(self.ENV, GIT_INDEX_FILE=os.path.join(self.fx, '.git', 'chain-test-index'))
+        if os.path.exists(idx['GIT_INDEX_FILE']):
+            os.remove(idx['GIT_INDEX_FILE'])
+        for path, data in files.items():
+            blob = self.git('hash-object', '-w', '--stdin', inp=data)
+            self.git('update-index', '--add', '--cacheinfo', '100644,%s,%s' % (blob, path), env=idx)
+        tree = self.git('write-tree', env=idx)
+        return self.git(*(['commit-tree', tree, '-m', msg] + (['-p', parent] if parent else [])))
+
+    def build_chain(self):
+        """Bài `a` xuất bản ở commit P (byte có dòng thừa cuối bài; evidence buộc byte đó), chủ sửa ở commit F
+        (bỏ dòng thừa = byte hiện tại), HEAD = cây fixture với cha F. Trả (a, P, F)."""
+        a, = self.good_ids(1)
+        row = next(r for r in matrix_rows(self.fx) if r['id'] == a)
+        post = self.root / row['output_path']
+        current = post.read_bytes()
+        published = current + b'\nDong thua luc xuat ban.\n'
+        ev_path = self.root / 'data/qa' / (a + '.json')
+        ev = json.loads(ev_path.read_text(encoding='utf-8'))
+        ev['content_sha256'] = sha(published)                  # evidence buoc byte LUC XUAT BAN
+        ev_bytes = self.evidence_bytes(ev)
+        ev_path.write_bytes(ev_bytes)
+        matrix = (self.root / 'data/content-matrix.csv').read_bytes()
+        self.git('init', '-q')
+        P = self.tree_commit({row['output_path']: published, 'data/qa/%s.json' % a: ev_bytes,
+                              'data/content-matrix.csv': matrix}, msg='publish')
+        F = self.tree_commit({row['output_path']: current, 'data/qa/%s.json' % a: ev_bytes,
+                              'data/content-matrix.csv': matrix}, parent=P, msg='owner fix')
+        self.git('add', '-A')
+        head = self.git('commit-tree', self.git('write-tree'), '-m', 'fixture HEAD', '-p', F)
+        self.git('update-ref', 'HEAD', head)
+        return a, P, F
+
+    def reviewed(self, a, bound, commits):
+        return {'schema': R.REVIEWED_SCHEMA, 'entries': {a: {
+            'bound_commit': bound, 'reviewed_commits': commits, 'review': 'nguoi duyet: sua tay hop le (test)'}}}
+
+    def rctx(self, reviewed, approval='owner authorization (test)', batch=None):
+        return R.make_ctx(self.root, 'fixture-baseline', approval, batch, history=self.history, reviewed=reviewed)
+
+    def test_01_reviewed_chain_is_attested_with_independent_rescore(self):
+        a, P, F = self.build_chain()
+        # khong co --reviewed: van la ca can xem tay (khong buoc baseline)
+        m0 = R.make_plan(self.ctx(), ids={a})
+        self.assertEqual(m0['entries'][a]['decision'], 'MANUAL_REVIEW_REQUIRED')
+        rv = self.reviewed(a, P, [F])
+        m = R.make_plan(self.rctx(rv), ids={a})
+        e = m['entries'][a]
+        self.assertEqual(e['classification'], R.REVIEWED_CHAIN)
+        self.assertEqual(e['decision'], R.ELIGIBLE)
+        self.assertEqual(e['chain']['bound_commit'], P)
+        self.assertEqual(e['chain']['reviewed_commits'], [F])
+        self.assertEqual(m['reviewed_sha256'], self.rctx(rv).reviewed_sha256)
+        old = self.evidence(a)
+        ctx = self.rctx(rv, batch='chain-1')
+        rep = R.apply_batch(ctx, m, [a])
+        self.assertEqual(rep['written'], [a])
+        ev = self.evidence(a)
+        row = next(r for r in matrix_rows(self.fx) if r['id'] == a)
+        self.assertEqual(ev['content_sha256'], sha((self.root / row['output_path']).read_bytes()))
+        prov = ev['reattestation']
+        self.assertEqual((prov['kind'], prov['classification']), ('reviewed-post-publish-chain', R.REVIEWED_CHAIN))
+        self.assertEqual(prov['chain']['bound_commit'], P)
+        self.assertEqual(prov['previous_content_sha256'], old['content_sha256'])
+        self.assertEqual(ev.get('scored_at'), old.get('scored_at'))
+        backup = json.loads((self.root / rep['backup']).read_text(encoding='utf-8'))
+        self.assertEqual(R.verify_backup(ctx, backup), [])
+        # apply ma khong dung cung file --reviewed => tu choi
+        with self.assertRaises(R.Refuse) as ex:
+            R.apply_batch(self.ctx(batch='chain-2'), m, [a])
+        self.assertEqual(ex.exception.code, 'REVIEWED_MISMATCH')
+
+    def test_02_wrong_or_incomplete_chains_are_refused(self):
+        a, P, F = self.build_chain()
+        cases = (
+            (P, [P], 'chua duoc duyet'),           # F cham vao bai nhung khong duoc duyet
+            (F, [F], 'khong buoc byte bai'),       # bound sai: evidence khong buoc byte tai F
+            (P, [F, P], 'khong cham vao bai'),     # liet ke thua mot commit khong cham vao bai
+        )
+        for bound, commits, why in cases:
+            m = R.make_plan(self.rctx(self.reviewed(a, bound, commits)), ids={a})
+            e = m['entries'][a]
+            self.assertEqual(e['decision'], 'MANUAL_REVIEW_REQUIRED', (bound, commits))
+            self.assertIn(why, e.get('chain_refused', ''), (bound, commits))
+        # evidence doi sau luc xuat ban => tu choi
+        evp = self.root / 'data/qa' / (a + '.json')
+        evp.write_bytes(evp.read_bytes() + b'\n')
+        m = R.make_plan(self.rctx(self.reviewed(a, P, [F])), ids={a})
+        self.assertIn('evidence da doi', m['entries'][a].get('chain_refused', ''))
+
+    def test_03_reviewed_file_is_validated(self):
+        for bad in ({'schema': 'x', 'entries': {}},
+                    {'schema': R.REVIEWED_SCHEMA, 'entries': {'BLG-1': {'bound_commit': 'abc', 'reviewed_commits': ['abc'], 'review': 'r'}}},
+                    {'schema': R.REVIEWED_SCHEMA, 'entries': {'BLG-1': {'bound_commit': 'a' * 40, 'reviewed_commits': ['b' * 40], 'review': ''}}}):
+            with self.assertRaises(R.Refuse) as ex:
+                R.load_reviewed(bad)
+            self.assertEqual(ex.exception.code, 'BAD_REVIEWED')
+
+
 class TestCliEndToEnd(ReattestBase):
     """Đường CLI thật: lịch sử baseline nằm trong GIT (plumbing, không đụng HEAD),
     chạy bản sao của tool trong fixture bằng subprocess."""
