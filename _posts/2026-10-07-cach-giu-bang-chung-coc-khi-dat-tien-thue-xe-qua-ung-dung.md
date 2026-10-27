@@ -16,7 +16,7 @@ writer: W1
 
 Bằng chứng cọc qua ví điện tử là kiểu bằng chứng dễ mất nhất trong mọi hồ sơ thuê xe: nó nằm trong ứng dụng trên điện thoại, người dùng tin rằng "đã chuyển là tự lưu lại", rồi một lần đổi máy, xóa ứng dụng hay dọn bộ nhớ là toàn bộ lịch sử biến mất đúng vào tuần cần đến nó. Chuyển tiền qua ứng dụng thì bước chuyển chỉ mất vài giây, nhưng phần chứng minh đã chuyển là thứ phải sống sót suốt cả kỳ thuê. Bài này nói rõ cần giữ lại những gì, giữ ở đâu, và cách đối chiếu để đến ngày trả xe thì bộ hồ sơ cọc của bạn tự nói thay bạn.
 
-Chuyên đề cọc nằm ở bài [đặt cọc](/thue-xe/dat-coc/), tổng quan về thuê xe máy ở bài [thuê xe máy](/thue-xe/), và phần phương án cho người chưa có tài khoản ngân hàng ở bài [đặt cọc cho người chưa có tài khoản](/thue-xe/2026/10/07/at-coc-thue-xe-may-cho-nguoi-chua-co-tai-khoan-ngan-hang/).
+Chuyên đề cọc nằm ở bài [đặt cọc](/thue-xe/dat-coc/), tổng quan về thuê xe máy ở bài [thuê xe máy](/thue-xe/), và phần phương án cho người chưa có tài khoản ngân hàng ở bài [đặt cọc cho người chưa có tài khoản](/thue-xe/2026/10/07/dat-coc-thue-xe-may-cho-nguoi-chua-co-tai-khoan-ngan-hang/).
 
 ## Một giao dịch cọc tạo ra ba lớp bằng chứng
 

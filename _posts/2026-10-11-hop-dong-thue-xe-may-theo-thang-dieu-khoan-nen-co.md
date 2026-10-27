@@ -16,7 +16,7 @@ writer: W1
 
 Thuê xe theo tháng khác thuê theo ngày ở một điểm cốt lõi: ràng buộc dài, rủi ro cộng dồn. Một điều khoản thiếu sót tưởng như nhỏ trong hợp đồng thuê xe máy theo tháng có thể trở thành tranh chấp lớn khi xe hỏng giữa kỳ hoặc khi bạn phải rời Hà Nội đột xuất. Vì thế, trước khi ký, hãy coi bản hợp đồng như một tấm bản đồ cho cả chặng dài, trong đó mỗi điều khoản là một lối thoát đã được thắp đèn sẵn. Bài viết này điểm lại những nhóm điều khoản đáng có trong hợp đồng thuê tháng để cả hai bên đều an tâm.
 
-Nếu bạn còn băn khoăn xem thuê dài hạn liệu có cần giấy tờ chính thức, bài [thuê xe máy cần hợp đồng không](/thue-xe/2026/09/27/thue-xe-may-can-hop-ong-khong/) đã phân tích kỹ câu hỏi này.
+Nếu bạn còn băn khoăn xem thuê dài hạn liệu có cần giấy tờ chính thức, bài [thuê xe máy cần hợp đồng không](/thue-xe/2026/09/27/thue-xe-may-can-hop-dong-khong/) đã phân tích kỹ câu hỏi này.
 
 ## Hợp đồng thuê xe máy theo tháng cần những nhóm điều khoản nào
 
@@ -44,7 +44,7 @@ Tiền cọc là nguồn tranh chấp nhiều nhất trong thuê dài hạn, nê
 
 Với gói tháng, xe không tránh khỏi hao mòn tự nhiên: dầu máy, lốp mòn, ắc quy yếu. Hợp đồng tốt sẽ phân định rõ phần hao mòn tự nhiên do cửa hàng lo, còn hư hỏng do va chạm hay sử dụng bất cẩn do khách lo. Câu hỏi nên hỏi là: nếu xe hỏng nhẹ giữa tháng, tôi có được đổi xe tạm trong thời gian sửa không, và ai trả tiền sửa.
 
-Cũng nên hỏi về thời gian sửa chữa tối đa mà cửa hàng cam kết trong hợp đồng, vì mỗi ngày xe nằm sửa là một ngày bạn phải tự xoay xở đi làm. Chi tiết về mức bồi thường khi có hư hỏng đã có sẵn trong bài [điều khoản bồi thường trong hợp đồng thuê xe máy](/thue-xe/2026/09/30/ieu-khoan-boi-thuong-trong-hop-ong-thue-xe-may/), bạn nên đối chiếu trước khi ký.
+Cũng nên hỏi về thời gian sửa chữa tối đa mà cửa hàng cam kết trong hợp đồng, vì mỗi ngày xe nằm sửa là một ngày bạn phải tự xoay xở đi làm. Chi tiết về mức bồi thường khi có hư hỏng đã có sẵn trong bài [điều khoản bồi thường trong hợp đồng thuê xe máy](/thue-xe/2026/09/30/dieu-khoan-boi-thuong-trong-hop-dong-thue-xe-may/), bạn nên đối chiếu trước khi ký.
 
 ## Ba câu nên hỏi trước khi đặt bút ký
 
@@ -56,8 +56,8 @@ Câu thứ ba: hợp đồng có ghi rõ danh mục phụ kiện không, và n�
 
 ## Chấm dứt sớm và gia hạn hợp đồng
 
-Cuối cùng là nhóm điều khoản về việc rời hợp đồng trước hạn: báo trước bao lâu, mất bao nhiêu phần cọc, và có được hoàn tiền thuê phần thời gian còn lại không. Nhóm ngược lại cũng quan trọng: điều kiện gia hạn theo tháng, giá có giữ nguyên hay điều chỉnh, và ưu tiên giữ xe cho bạn nếu bạn muốn thuê tiếp. Với ai cần kéo dài thời hạn, bài [gia hạn hợp đồng thuê xe theo tháng](/thue-xe/2026/09/27/gia-han-hop-ong-thue-xe-theo-thang/) tóm tắt các bước làm gọn gàng.
+Cuối cùng là nhóm điều khoản về việc rời hợp đồng trước hạn: báo trước bao lâu, mất bao nhiêu phần cọc, và có được hoàn tiền thuê phần thời gian còn lại không. Nhóm ngược lại cũng quan trọng: điều kiện gia hạn theo tháng, giá có giữ nguyên hay điều chỉnh, và ưu tiên giữ xe cho bạn nếu bạn muốn thuê tiếp. Với ai cần kéo dài thời hạn, bài [gia hạn hợp đồng thuê xe theo tháng](/thue-xe/2026/09/27/gia-han-hop-dong-thue-xe-theo-thang/) tóm tắt các bước làm gọn gàng.
 
-Một câu hỏi phụ đáng thêm vào: hợp đồng có cần công chứng không. Trong đa số tình huống thuê xe máy, câu trả lời là không bắt buộc, nhưng vẫn nên tham khảo [hợp đồng thuê xe máy có cần công chứng không](/thue-xe/2026/10/07/hop-ong-thue-xe-may-co-can-cong-chung-khong/) để hiểu rõ giới hạn pháp lý của hai bên.
+Một câu hỏi phụ đáng thêm vào: hợp đồng có cần công chứng không. Trong đa số tình huống thuê xe máy, câu trả lời là không bắt buộc, nhưng vẫn nên tham khảo [hợp đồng thuê xe máy có cần công chứng không](/thue-xe/2026/10/07/hop-dong-thue-xe-may-co-can-cong-chung-khong/) để hiểu rõ giới hạn pháp lý của hai bên.
 
 Tóm lại, một hợp đồng thuê tháng tốt không cần dài, chỉ cần đủ năm nhóm điều khoản trên và được hai bên đọc kỹ từng con số. Trước khi ký bất kỳ gói nào, bạn cũng nên tham khảo tổng quan tại chuyên mục [thuê xe theo tháng](/thue-xe/thue-thang/) hoặc bắt đầu từ trang chủ [thuê xe máy Hà Nội](/thue-xe/) để nắm bối cảnh giá và quy trình chung.

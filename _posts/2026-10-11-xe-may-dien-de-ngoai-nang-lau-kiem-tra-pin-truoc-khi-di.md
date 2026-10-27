@@ -60,9 +60,9 @@ Phòng luôn dễ hơn kiểm tra, và bốn thói quen sau giữ xe điện thu
 
 2. Trùm bạt che yên và táp-lô nếu phải đổ ngoài trời: chiếc bạt mỏng giữ yên không thành bàn ủi và giữ mặt yên khỏi lão hóa nhanh.
 
-3. Tránh sạc ngay sau khi xe vừa phơi nắng: sạc khi pin đang nóng là tổ hợp nhiệt kép; cho xe nghỉ mát chừng mười lăm phút rồi mới cắm sạc. Các lưu ý an toàn khi sạc ở trạm công cộng đã được mô tả trong bài [sạc pin xe máy điện ở trạm công cộng lưu ý an toàn](/xe-may/2026/10/10/sac-pin-xe-may-ien-o-tram-cong-cong-luu-y-an-toan/), kể cả chọn giờ và chọn chỗ.
+3. Tránh sạc ngay sau khi xe vừa phơi nắng: sạc khi pin đang nóng là tổ hợp nhiệt kép; cho xe nghỉ mát chừng mười lăm phút rồi mới cắm sạc. Các lưu ý an toàn khi sạc ở trạm công cộng đã được mô tả trong bài [sạc pin xe máy điện ở trạm công cộng lưu ý an toàn](/xe-may/2026/10/10/sac-pin-xe-may-dien-o-tram-cong-cong-luu-y-an-toan/), kể cả chọn giờ và chọn chỗ.
 
-4. Với chuyến đi dài trong nắng, tính điểm nghỉ có bóng râm giữa đường: vừa nghỉ người, vừa cho pin hạ nhiệt, quãng đường thực tế còn lại cũng đọc chuẩn hơn. Cách giữ pin trên các cung đường dài, dốc đã có bài riêng [xe máy điện leo dốc dài: giữ pin và phanh thế nào](/xe-may/2026/10/10/xe-may-ien-leo-doc-dai-giu-pin-va-phanh-the-nao/), kết hợp được cho hành trình nhiều nắng.
+4. Với chuyến đi dài trong nắng, tính điểm nghỉ có bóng râm giữa đường: vừa nghỉ người, vừa cho pin hạ nhiệt, quãng đường thực tế còn lại cũng đọc chuẩn hơn. Cách giữ pin trên các cung đường dài, dốc đã có bài riêng [xe máy điện leo dốc dài: giữ pin và phanh thế nào](/xe-may/2026/10/10/xe-may-dien-leo-doc-dai-giu-pin-va-phanh-the-nao/), kết hợp được cho hành trình nhiều nắng.
 
 ## Ghi nhớ
 

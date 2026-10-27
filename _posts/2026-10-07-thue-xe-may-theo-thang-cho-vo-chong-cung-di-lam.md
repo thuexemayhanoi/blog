@@ -38,7 +38,7 @@ Thuê hai xe thì chi phí nhân đôi, nhưng cách chia của vợ chồng nê
 
 Một cách thực tế nhiều gia đình dùng: mở một cuốn sổ chung ghi chi phí hai xe, ghi vào đầu tuần, đối chiếu vào cuối tuần. Mười phút mỗi tuần, không cần ứng dụng phức tạp, và mọi khoản rõ ràng từng phần — cách này giúp khi đàm phán gia hạn hoặc đổi xe, cả hai đều nắm rõ tổng chi thực thay vì ước lượng trong đầu.
 
-Người từng thuê cho một người trong nhà đi làm ca đêm có thể tham khảo thêm kinh nghiệm ở bài [thuê xe tháng cho người đi làm ca đêm](/thue-xe/2026/10/05/thue-xe-may-theo-thang-cho-nguoi-i-lam-ca-em/), vì lịch lệch ca cũng tạo ra bài toán chia lịch giống hệt của hai vợ chồng khác giờ.
+Người từng thuê cho một người trong nhà đi làm ca đêm có thể tham khảo thêm kinh nghiệm ở bài [thuê xe tháng cho người đi làm ca đêm](/thue-xe/2026/10/05/thue-xe-may-theo-thang-cho-nguoi-di-lam-ca-dem/), vì lịch lệch ca cũng tạo ra bài toán chia lịch giống hệt của hai vợ chồng khác giờ.
 
 ## Lịch nhận trả hai xe: đồng bộ về thời gian, tách về thủ tục
 

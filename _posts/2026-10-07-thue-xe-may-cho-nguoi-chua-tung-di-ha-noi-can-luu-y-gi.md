@@ -42,6 +42,6 @@ Chuẩn bị thêm cho phần đường: điện thoại gắn giá, bản đồ
 
 Lạc ở phố mới không phải dấu hiệu bạn kém, mà là phần chính của trải nghiệm. Ba việc giảm lạc: lập tuyến trước trên bản đồ rồi nghe chỉ dẫn bằng tai, dừng hẳn vào vỉa hè rộng khi cần xem lại đường, và chọn mốc quen làm trạm neo, ví dụ ga, hồ, hoặc chợ gần chỗ ở. Nếu chuyến của bạn cần giữ liên lạc với tiệm về giờ trả, hãy báo sớm khi thấy có thể trễ vì lạc, phần lớn tiệm thông cảm khi được báo trước.
 
-Cuối cùng, cách đặt xe cho lần đầu nên là đặt từ trước qua điện thoại, nói rõ bạn là khách mới đến, và hỏi tiệm chốt lại ba thứ: loại xe, mốc cọc, và giờ nhận. Bài về [đặt xe máy trước qua điện thoại hoặc zalo](/thue-xe/2026/09/27/at-xe-may-truoc-qua-ien-thoai-hoac-zalo/) mô tả gọn cách chốt như vậy bằng tin nhắn.
+Cuối cùng, cách đặt xe cho lần đầu nên là đặt từ trước qua điện thoại, nói rõ bạn là khách mới đến, và hỏi tiệm chốt lại ba thứ: loại xe, mốc cọc, và giờ nhận. Bài về [đặt xe máy trước qua điện thoại hoặc zalo](/thue-xe/2026/09/27/dat-xe-may-truoc-qua-dien-thoai-hoac-zalo/) mô tả gọn cách chốt như vậy bằng tin nhắn.
 
 Tóm lại, người lần đầu đến Hà Nội thuê xe cần chuẩn bị giấy tờ và bằng lái, chọn xe theo thao tác mình thuộc nhất, thuộc vài quy tắc bản địa trước khi ra đường, và đặt xe từ trước cho chắc lịch. Chuẩn bị đúng, chuyến đi đầu tiên của bạn sẽ là câu chuyện vui chứ không phải bài học đắt.

@@ -16,7 +16,7 @@ writer: W1
 
 Khi thuê xe máy theo tháng, sớm hay muộn chiếc xe cũng sẽ cần bảo dưỡng: dầu máy tới hạn, lốp mòn, ắc quy yếu. Câu hỏi bảo dưỡng xe thuê dài hạn ai chịu phần nào không có đáp án mặc định theo luật, mà phụ thuộc hoàn toàn vào thỏa thuận giữa bạn và cửa hàng. Vấn đề là phần lớn khách chỉ hỏi giá thuê, quên hỏi chi phí giữ xe trong trạng thái tốt, rồi khi hóa đơn sửa chữa xuất hiện thì tranh cãi. Bài viết này phân định các nhóm chi phí phổ biến và cách ghi rõ trách nhiệm ngay từ đầu.
 
-Nếu bạn thuê để chạy công việc hàng ngày trong nội thành, nên đọc thêm bài [thuê xe máy dài hạn cho người đi làm trong nội thành](/thue-xe/2026/09/29/thue-xe-may-dai-han-cho-nguoi-i-lam-trong-noi-thanh/) để hiểu tổng quan gói dài hạn.
+Nếu bạn thuê để chạy công việc hàng ngày trong nội thành, nên đọc thêm bài [thuê xe máy dài hạn cho người đi làm trong nội thành](/thue-xe/2026/09/29/thue-xe-may-dai-han-cho-nguoi-di-lam-trong-noi-thanh/) để hiểu tổng quan gói dài hạn.
 
 ## Bảo dưỡng xe thuê dài hạn gồm những nhóm chi phí nào
 
@@ -32,7 +32,7 @@ Câu trả lời tốt là có lịch bảo dưỡng rõ ràng và không tính 
 
 Một số cửa hàng ghi giá thuê tháng rẻ, nhưng tính riêng phần thay dầu và lốp. Cách này không sai, miễn là công khai từ đầu. Điểm mấu chốt là bạn cần biết trước đơn giá ước tính cho mỗi lần bảo dưỡng, thay vì nhận hóa đơn sau khi xe đã nằm trên kệ sửa.
 
-Trường hợp hay gặp nữa là xe của bạn vào kỳ thay dầu đúng lúc bận công việc. Hỏi trước xem cửa hàng có nhận xe và trả trong ngày không, hoặc có cho mượn xe tạm trong vài giờ bảo dưỡng không. Chi tiết về việc ai trả tiền thay dầu định kỳ đã được bàn kỹ trong bài [thuê xe máy theo tháng ai chịu phí thay dầu định kỳ](/thue-xe/2026/10/05/thue-xe-may-theo-thang-ai-chiu-phi-thay-dau-inh-ky/), trong đó câu trả lời phụ thuộc vào khung giá bạn chọn.
+Trường hợp hay gặp nữa là xe của bạn vào kỳ thay dầu đúng lúc bận công việc. Hỏi trước xem cửa hàng có nhận xe và trả trong ngày không, hoặc có cho mượn xe tạm trong vài giờ bảo dưỡng không. Chi tiết về việc ai trả tiền thay dầu định kỳ đã được bàn kỹ trong bài [thuê xe máy theo tháng ai chịu phí thay dầu định kỳ](/thue-xe/2026/10/05/thue-xe-may-theo-thang-ai-chiu-phi-thay-dau-dinh-ky/), trong đó câu trả lời phụ thuộc vào khung giá bạn chọn.
 
 ## Hư hỏng nhẹ trong quá trình sử dụng: phần khách nên gánh
 
@@ -44,7 +44,7 @@ Vết xước vì đổ xe trong ngõ, gãy gương, đứt cần đề do để
 
 Với hỏng lớn như va chạm hoặc ngập nước, chi phí không phải điều đáng lo nhất. Điều đáng lo là trong thời gian xe sửa, bạn không có xe để đi. Hãy hỏi cửa hàng chính sách xe thay thế trong thời gian sửa chữa, ai chọn xưởng sửa, và cách trừ phần tiền thuê cho ngày xe nằm sửa.
 
-Nếu bạn thuê dài hạn vì xe nhà đang sửa, tình huống càng cần chính sách rõ ràng, giống như bài [thuê xe máy theo tháng khi cho xe cũ lên đời](/thue-xe/2026/10/07/thue-xe-may-theo-thang-khi-cho-xe-cu-len-oi/) đã mô tả: kế hoạch rõ từ đầu thì mọi phát sinh đều có chỗ đứng.
+Nếu bạn thuê dài hạn vì xe nhà đang sửa, tình huống càng cần chính sách rõ ràng, giống như bài [thuê xe máy theo tháng khi cho xe cũ lên đời](/thue-xe/2026/10/07/thue-xe-may-theo-thang-khi-cho-xe-cu-len-doi/) đã mô tả: kế hoạch rõ từ đầu thì mọi phát sinh đều có chỗ đứng.
 
 ## Ba dấu hiệu cửa hàng phân định chi phí minh bạch
 

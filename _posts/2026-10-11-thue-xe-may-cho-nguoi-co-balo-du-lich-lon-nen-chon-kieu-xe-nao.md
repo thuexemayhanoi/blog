@@ -16,7 +16,7 @@ writer: W1
 
 Thuê xe máy mang balo du lịch lớn là tình huống rất hay gặp của khách du lịch tới Hà Nội: balo trang bị đầy đủ cho mấy ngày đi, tới nơi nhận xe mới phát hiện cốp xe ga chỉ nhét được nửa balo, còn xe số thì không có cốp mà chỉ có giá sau. Chọn xe máy thuê có hành lý to không đơn giản là chọn xe mạnh, mà là chọn kiểu xe mà khối hành lý của bạn được xếp vừa, an toàn và không đổi cách lái của xe. Bài viết này so sánh ba lựa chọn phổ biến theo từng tình huống balo, từ balo ngày cuối tuần tới balo kỹ thuật cỡ lớn, kèm vài gợi ý xếp hành lý thực tế.
 
-Nếu bạn còn phân vân giữa xe số và xe ga nói chung, bài [lần đầu thuê xe máy nên chọn xe số hay xe tay ga](/hoi-dap/2026/10/10/lan-au-thue-xe-may-nen-chon-xe-so-hay-xe-tay-ga/) trả lời trực tiếp câu hỏi nền tảng đó, phần dưới đây chỉ tập trung vào khía cạnh hành lý.
+Nếu bạn còn phân vân giữa xe số và xe ga nói chung, bài [lần đầu thuê xe máy nên chọn xe số hay xe tay ga](/hoi-dap/2026/10/10/lan-dau-thue-xe-may-nen-chon-xe-so-hay-xe-tay-ga/) trả lời trực tiếp câu hỏi nền tảng đó, phần dưới đây chỉ tập trung vào khía cạnh hành lý.
 
 ## Xác định loại balo trước khi thuê xe máy mang balo du lịch lớn
 

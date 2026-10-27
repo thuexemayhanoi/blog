@@ -16,7 +16,7 @@ writer: W1
 
 Buộc túi máy ảnh lên xe máy thuê nghe như việc một phút, nhưng với người chở máy ảnh trên xe máy đường xóc, đây là ranh giới giữa buổi chụp trọn vẹn và một thân máy nảy xuống mặt đường. Túi máy ảnh nặng, cứng, có nhiều khóa kéo và quai lỏng, lên xe máy là trở thành một khối vật lý lắc liên tục: mỗi ổ gà là một cú va, mỗi cú phanh là một đà nghiêng về phía trước. Với xe máy thuê, bạn lại không có giá lắp sẵn như xe riêng, mọi thứ đều dựa vào cách buộc và vị trí đặt. Bài viết này đi qua chọn vị trí đặt túi, các kiểu buộc chuẩn, và thói quen kiểm tra giữa chặng cho các cung đường xóc quanh Hà Nội.
 
-Nếu chuyến đi của bạn là buổi chụp ảnh ngoại thành, đọc thêm kinh nghiệm [thuê xe máy đi chụp ảnh ngoại thành cuối tuần](/hoi-dap/2026/10/10/thue-xe-may-i-chup-anh-ngoai-thanh-cuoi-tuan/) để kết hợp lịch trình với phần chuẩn bị hành lý dưới đây.
+Nếu chuyến đi của bạn là buổi chụp ảnh ngoại thành, đọc thêm kinh nghiệm [thuê xe máy đi chụp ảnh ngoại thành cuối tuần](/hoi-dap/2026/10/10/thue-xe-may-di-chup-anh-ngoai-thanh-cuoi-tuan/) để kết hợp lịch trình với phần chuẩn bị hành lý dưới đây.
 
 ## Chọn vị trí đặt túi máy ảnh trên xe máy thuê
 

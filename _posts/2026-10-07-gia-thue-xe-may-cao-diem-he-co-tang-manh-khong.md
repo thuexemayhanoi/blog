@@ -32,7 +32,7 @@ Về nhóm xe, thứ tự nhạy cảm là: xe ga tầm trung tăng rõ nhất v
 
 ## Mùa hè còn làm tăng chi phí kiểu nào khác ngoài giá ngày
 
-Ngoài con số niêm yết, hè có hai khoản dễ lọt khỏi dự tính. Thứ nhất là đổi lịch: thời tiết hè mưa dông bất chợt, chuyến hủy hoặc lùi nhiều hơn mùa khác, nên hỏi kỹ điều kiện đổi lịch trước khi đặt cọc. Bài về [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-oi-lich-nhan-xe/) nói rõ cách hỏi để không mất tiền cọc khi đổi giờ giấc.
+Ngoài con số niêm yết, hè có hai khoản dễ lọt khỏi dự tính. Thứ nhất là đổi lịch: thời tiết hè mưa dông bất chợt, chuyến hủy hoặc lùi nhiều hơn mùa khác, nên hỏi kỹ điều kiện đổi lịch trước khi đặt cọc. Bài về [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-doi-lich-nhan-xe/) nói rõ cách hỏi để không mất tiền cọc khi đổi giờ giấc.
 
 Thứ hai là các khoản theo chuyến đi xa: gửi xe qua đêm, thuê thêm mũ cho người thứ hai, phụ phí trả muộn khi chuyến bị giữ lại vì mưa. Mỗi khoản nhỏ, nhưng cộng vào cuối chuyến thì thấy ngay. Câu hỏi một phút lúc gọi đặt xe: giá hè này đã gồm những gì, và phần nào tính thêm. Về tổng thể, hãy để một phần dự phòng trong ngân sách cho hai khoản này, thay vì cố nhồi mọi chi phí về đúng con số giá ngày niêm yết.
 

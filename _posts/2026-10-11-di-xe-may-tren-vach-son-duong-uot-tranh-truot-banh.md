@@ -16,7 +16,7 @@ writer: W1
 
 Đi xe máy trên vạch sơn đường ướt là một trong những cạm bẫy thường bị xem nhẹ nhất: vạch sơn vẽ phân làn, mũi tên chỉ hướng và vạch qua đường trông vô hại lúc trời khô, nhưng khi mặt đường ướt, lớp sơn lại nhẵn hơn hẳn mặt nhựa xung quanh, hệ số ma sát giảm rõ rệt. Xe máy trượt vạch sơn khi mưa thường xảy ra ngay giữa ngã tư, đúng lúc bạn nghiêng xe vào cua hoặc phanh gấp, và chỉ một nhịp trượt bánh trước là đủ để ngã giữa dòng xe đang chạy. Bài viết này đi qua cách đọc mặt đường ướt, chọn hướng đi quanh các vạch sơn, và kỹ thuật ga, phanh đúng để đi qua đoạn nhiều vạch sơn an toàn trong điều kiện mưa Hà Nội.
 
-Trước khi vào chi tiết, nếu bạn muốn tổng quan kỹ năng đi xe máy mùa mưa, bài [đi xe máy trong mưa to, giữ bình tĩnh và tránh va chạm](/ky-nang/2026/10/10/i-xe-may-trong-mua-a-giu-binh-tinh-va-tranh-va-cham/) là nền tảng nên đọc trước, vì phần dưới đây tập trung riêng vào tương tác bánh xe với vạch sơn.
+Trước khi vào chi tiết, nếu bạn muốn tổng quan kỹ năng đi xe máy mùa mưa, bài [đi xe máy trong mưa to, giữ bình tĩnh và tránh va chạm](/ky-nang/2026/10/10/di-xe-may-trong-mua-da-giu-binh-tinh-va-tranh-va-cham/) là nền tảng nên đọc trước, vì phần dưới đây tập trung riêng vào tương tác bánh xe với vạch sơn.
 
 ## Vì sao đi xe máy trên vạch sơn đường ướt dễ trượt
 
@@ -56,7 +56,7 @@ Khi buộc phải đi qua, kỹ thuật đúng quyết định bánh có trượ
 
 - Nếu cảm giác xe chồm nhẹ khi qua vạch: đó là bánh trước nảy rồi giảm ma sát, giữ nhẹ tay ga, không đánh lái chỉnh, để bánh tự bám trở lại mặt nhựa.
 
-Trường hợp gặp vùng sơn loang lớn trơn như dầu, cách xử lý giống hệt tình huống [gặp vết dầu loang trên mặt đường, né và phanh thế nào](/ky-nang/2026/10/10/gap-vet-dau-loang-tren-mat-uong-sau-xe-tai-ne-va-phanh-the-nao/): đi thẳng, tốc độ thấp, không thay đổi hướng tới khi qua khỏi vùng trơn.
+Trường hợp gặp vùng sơn loang lớn trơn như dầu, cách xử lý giống hệt tình huống [gặp vết dầu loang trên mặt đường, né và phanh thế nào](/ky-nang/2026/10/10/gap-vet-dau-loang-tren-mat-duong-sau-xe-tai-ne-va-phanh-the-nao/): đi thẳng, tốc độ thấp, không thay đổi hướng tới khi qua khỏi vùng trơn.
 
 ## Phòng tránh theo khung giờ và tuyến đường
 

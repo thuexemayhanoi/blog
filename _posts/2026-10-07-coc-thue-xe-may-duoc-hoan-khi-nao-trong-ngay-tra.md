@@ -16,7 +16,7 @@ writer: W1
 
 Thời điểm hoàn cọc thuê xe không phải là một con số đồng hồ cố định, mà là một mốc trong chuỗi việc của buổi trả: kiểm tra hiện trạng, đối chiếu hợp đồng, tính phần phát sinh nếu có, và chỉ khi cả ba bước đó khép lại thì tiền cọc mới về tay người thuê. Nhiều người đến trả xe với câu hỏi "bao giờ nhận lại tiền" ngay từ đầu buổi, và câu trả lời đúng luôn là "xong phần kiểm tra đã" — không phải vì tiệm chần chừ, mà vì cọc là khoản bảo đảm, và bảo đảm chỉ buông khi thấy xe trở về đúng trạng thái đã cho. Bài này đi theo từng bước của buổi trả xe để trả lời rõ mốc hoàn cọc nằm ở đâu, tại sao có khi nhanh có khi chậm, và cách sắp để buổi trả xe ở Hà Nội không kéo dài.
 
-Chuyên đề cọc nằm ở bài [đặt cọc](/thue-xe/dat-coc/), quy trình nhận trả chuẩn ở bài [nhận xe & trả xe](/thue-xe/nhan-tra-xe/), và so sánh hai đường cọc phổ biến ở bài [đặt cọc bằng chuyển khoản hay tiền mặt](/thue-xe/2026/09/27/at-coc-bang-chuyen-khoan-hay-tien-mat/).
+Chuyên đề cọc nằm ở bài [đặt cọc](/thue-xe/dat-coc/), quy trình nhận trả chuẩn ở bài [nhận xe & trả xe](/thue-xe/nhan-tra-xe/), và so sánh hai đường cọc phổ biến ở bài [đặt cọc bằng chuyển khoản hay tiền mặt](/thue-xe/2026/09/27/dat-coc-bang-chuyen-khoan-hay-tien-mat/).
 
 ## Thời điểm hoàn cọc thuê xe: sau đối chiếu, không phải lúc giao xe
 

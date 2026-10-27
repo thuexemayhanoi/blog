@@ -16,7 +16,7 @@ writer: W1
 
 Đi xe máy cạnh xe tải ôm cua là vị trí rủi ro cao nhất trên đường: xe tải có bán kính quay lớn và điểm mù rộng, khi xe tải đang vào cua, đầu xe thường lấn sang phía đối diện, đuôi xe quét ngược về phía trong, và người chạy song song đúng lúc ấy dễ bị kẹp vào vùng tài xế không thể nhìn thấy. Nhiều vụ va chạm trên các nút giao khu Nguyễn Văn Cừ, đoạn đường 5 hay các vòng xuyến phía nam Hà Nội đều bắt nguồn từ việc xe máy đi cùng nhịp cua với xe tải mà không nhận ra mình đang đứng trong vùng khuất. Bài viết này giúp bạn nhận diện điểm mù xe tải khi rẽ, đọc tín hiệu chuẩn bị vào cua của tài xế, và chọn vị trí chờ an toàn thay vì cố đi cùng.
 
-Nếu bạn hay đi đường lớn mỗi ngày, bài [xe tải chiếu đèn, chuyển làn ngay trước mặt phản xạ sao](/ky-nang/2026/10/05/xe-tai-chieu-en-chuyen-lan-ngay-truoc-mat-phan-xa/) là phần bổ sung hữu ích cho kỹ năng đọc tín hiệu của xe tải.
+Nếu bạn hay đi đường lớn mỗi ngày, bài [xe tải chiếu đèn, chuyển làn ngay trước mặt phản xạ sao](/ky-nang/2026/10/05/xe-tai-chieu-den-chuyen-lan-ngay-truoc-mat-phan-xa/) là phần bổ sung hữu ích cho kỹ năng đọc tín hiệu của xe tải.
 
 ## Vùng khuất hình thành khi xe máy cạnh xe tải ôm cua
 

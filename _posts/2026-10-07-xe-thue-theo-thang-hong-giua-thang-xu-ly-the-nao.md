@@ -16,7 +16,7 @@ writer: W1
 
 Xe thuê tháng hỏng giữa kỳ là tình huống không ai muốn nhưng gần như ai thuê dài hạn cũng gặp: sáng ra đề máy không nổ, giữa buổi chiều phanh kêu lạ, hoặc tối về đèn chớp tắt. Cách xử lý ngay phút đầu quyết định phần lớn kết quả: im lặng tự sửa là mất quyền, hoảng loạn gọi loạn người là mất thời gian, còn báo đúng người theo đúng bước thì một buổi chiều là xe chạy lại bình thường. Bài này đi theo đúng trình tự một người thuê ở Hà Nội nên đi khi chiếc xe tháng của mình đột nhiên hỏng giữa chừng.
 
-Chuyên đề thuê dài hạn nằm ở bài [thuê xe theo tháng](/thue-xe/thue-thang/), quy trình xử lý sự cố với xe thuê ở bài [sự cố khi thuê xe](/thue-xe/su-co/), phần ai chịu phí thay dầu giữa kỳ ở bài [ai chịu phí thay dầu trong kỳ thuê](/thue-xe/2026/10/05/thue-xe-may-theo-thang-ai-chiu-phi-thay-dau-inh-ky/).
+Chuyên đề thuê dài hạn nằm ở bài [thuê xe theo tháng](/thue-xe/thue-thang/), quy trình xử lý sự cố với xe thuê ở bài [sự cố khi thuê xe](/thue-xe/su-co/), phần ai chịu phí thay dầu giữa kỳ ở bài [ai chịu phí thay dầu trong kỳ thuê](/thue-xe/2026/10/05/thue-xe-may-theo-thang-ai-chiu-phi-thay-dau-dinh-ky/).
 
 ## Xe thuê tháng hỏng giữa kỳ: phân loại lỗi trước khi làm gì
 

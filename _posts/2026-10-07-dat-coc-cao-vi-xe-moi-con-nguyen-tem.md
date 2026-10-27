@@ -16,7 +16,7 @@ writer: W1
 
 Cọc cao xe mới nguyên là tình huống nhiều khách đầu tiên gặp và ngay lập tức thấy khó chịu: chiếc xe ga còn nguyên tem, biển số sáng bóng, và khoản cọc yêu cầu cao hơn hẳn các xe cũ cùng loại trong tiệm. Nhưng khoản cọc cao đó không phải cách tính khó tính — nó phản chiếu đúng phần rủi ro mà bên cho thuê gánh khi đưa một tài sản mới ra đường. Hiểu cấu trúc của khoản cọc này giúp bạn chọn được: chấp nhận và giữ xe cẩn thận, đàm phán xuống bằng cách chọn xe khác, hoặc tách cọc thành hình thức nhẹ hơn. Bài này đi qua cả ba lựa chọn, kèm phần vì sao xe mới luôn kéo cọc cao.
 
-Chuyên đề cọc nằm ở bài [đặt cọc](/thue-xe/dat-coc/), cấu trúc giá thuê nằm ở bài [giá thuê xe máy](/thue-xe/gia-thue/), và phần phương án cho người chưa có tài khoản ở bài [đặt cọc không cần tài khoản](/thue-xe/2026/10/07/at-coc-thue-xe-may-cho-nguoi-chua-co-tai-khoan-ngan-hang/).
+Chuyên đề cọc nằm ở bài [đặt cọc](/thue-xe/dat-coc/), cấu trúc giá thuê nằm ở bài [giá thuê xe máy](/thue-xe/gia-thue/), và phần phương án cho người chưa có tài khoản ở bài [đặt cọc không cần tài khoản](/thue-xe/2026/10/07/dat-coc-thue-xe-may-cho-nguoi-chua-co-tai-khoan-ngan-hang/).
 
 ## Vì sao cọc xe mới luôn cao hơn xe cũ cùng loại
 

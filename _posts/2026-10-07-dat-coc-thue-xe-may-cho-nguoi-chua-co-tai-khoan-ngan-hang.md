@@ -16,7 +16,7 @@ writer: W1
 
 Đặt cọc không chuyển khoản là rào cản mà nhiều người mới gặp khi thuê xe máy: người mới đủ tuổi làm giấy tờ nhưng chưa mở tài khoản ngân hàng, người mới chuyển đến Hà Nội chưa kịp lo việc ngân hàng, hoặc người chỉ quen dùng tiền mặt vì chưa thấy cần thẻ. Tin tốt là chuyển khoản không phải con đường duy nhất để đặt cọc — hầu hết tiệm cho thuê đều có cách khác, và vấn đề thật sự không nằm ở hình thức cọc, mà ở việc hồ sơ cọc có rõ ràng hay không. Bài này đi qua từng phương án cho người chưa có tài khoản, kèm phần giữ hồ sơ để lúc hoàn cọc không phải cãi nhau từng dòng.
 
-Chuyên đề cọc và giữ giấy tờ nằm ở bài [đặt cọc](/thue-xe/dat-coc/), tổng quan mọi việc cần biết trước khi đến tiệm ở bài [thuê xe máy](/thue-xe/), thủ tục thuê xe chuẩn ở bài [thủ tục thuê xe](/thue-xe/thu-tuc/), và so sánh hai đường cọc phổ biến nhất ở bài [đặt cọc bằng chuyển khoản hay tiền mặt](/thue-xe/2026/09/27/at-coc-bang-chuyen-khoan-hay-tien-mat/).
+Chuyên đề cọc và giữ giấy tờ nằm ở bài [đặt cọc](/thue-xe/dat-coc/), tổng quan mọi việc cần biết trước khi đến tiệm ở bài [thuê xe máy](/thue-xe/), thủ tục thuê xe chuẩn ở bài [thủ tục thuê xe](/thue-xe/thu-tuc/), và so sánh hai đường cọc phổ biến nhất ở bài [đặt cọc bằng chuyển khoản hay tiền mặt](/thue-xe/2026/09/27/dat-coc-bang-chuyen-khoan-hay-tien-mat/).
 
 ## Cọc tiền mặt: phương án phổ biến nhất và điều bắt buộc kèm theo
 

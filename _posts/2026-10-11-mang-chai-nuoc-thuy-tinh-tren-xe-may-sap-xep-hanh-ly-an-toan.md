@@ -62,7 +62,7 @@ Chai đóng gói tốt vẫn cần cách lái hiền hoà để về nguyên v�
 
 5. Dừng giữa chặng dài: mở kiểm tra sau mỗi chặng hai mươi cây số, siết lại dây, lau ẩm nếu có rỉ nhỏ.
 
-Kinh nghiệm chở hàng nặng và rung trên xe được tách riêng trong bài [chở thùng cá cảnh trên xe máy, giữ nước không văng](/ky-nang/2026/10/10/cho-thung-ca-canh-song-tren-xe-may-giu-nuoc-khong-vang/): nguyên tắc buộc bốn điểm, chèn đệm và kiểm tra giữa chặng dùng nguyên cho chai thủy tinh. Với các chuyến đi chợ cuối tuần, cách gửi xe và sắp hàng lúc mua cũng ảnh hưởng tới chặng về, đọc thêm tại [gửi xe ở siêu thị khi đi chợ cuối tuần](/ky-nang/2026/10/10/gui-xe-o-sieu-thi-khi-i-cho-cuoi-tuan/).
+Kinh nghiệm chở hàng nặng và rung trên xe được tách riêng trong bài [chở thùng cá cảnh trên xe máy, giữ nước không văng](/ky-nang/2026/10/10/cho-thung-ca-canh-song-tren-xe-may-giu-nuoc-khong-vang/): nguyên tắc buộc bốn điểm, chèn đệm và kiểm tra giữa chặng dùng nguyên cho chai thủy tinh. Với các chuyến đi chợ cuối tuần, cách gửi xe và sắp hàng lúc mua cũng ảnh hưởng tới chặng về, đọc thêm tại [gửi xe ở siêu thị khi đi chợ cuối tuần](/ky-nang/2026/10/10/gui-xe-o-sieu-thi-khi-di-cho-cuoi-tuan/).
 
 ## Xử lý khi chai vỡ giữa đường
 

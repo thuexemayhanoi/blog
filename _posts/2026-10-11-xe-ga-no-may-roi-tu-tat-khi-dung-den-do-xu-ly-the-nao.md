@@ -72,7 +72,7 @@ Gọi cửa hàng khi có một trong ba tín hiệu sau, kể cả khi xe đã 
 
 Khi gọi, mô tả theo đúng bộ tứ: hiện tượng (tắt lúc dừng, nổ lại được hay không), điều kiện (chạy bao lâu trước đó, có bật nhiều tải không), các bước đã thử (đề bao nhiêu nhát), và vị trí hiện tại. Nếu xe đang ở xa và không nổ lại được, hỏi phương án hỗ trợ thay vì đẩy xe đi từng đoạn: xe ga chết máy kéo đẩy qua đường trường dài có thể làm hỏng thêm.
 
-Các lỗi liên quan nhóm đề nổ và chạy đục đã có bài tách riêng: [xe ga e không nổ khi trời lạnh: nguyên nhân và cách khắc phục](/xe-may/2026/10/10/xe-ga-e-khong-no-khi-troi-lanh-nguyen-nhan-va-cach-khac-phuc/) cho nhóm đề nổ khó, và [xe ga rung nhẹ khi tăng tốc: hiểu nguyên nhân](/xe-may/2026/10/10/xe-ga-rung-nhe-khi-tang-toc-hieu-nguyen-nhan/) cho nhóm truyền lực. Đối chiếu giúp bạn mô tả đúng nhóm lỗi cho cửa hàng.
+Các lỗi liên quan nhóm đề nổ và chạy đục đã có bài tách riêng: [xe ga e không nổ khi trời lạnh: nguyên nhân và cách khắc phục](/xe-may/2026/10/10/xe-ga-de-khong-no-khi-troi-lanh-nguyen-nhan-va-cach-khac-phuc/) cho nhóm đề nổ khó, và [xe ga rung nhẹ khi tăng tốc: hiểu nguyên nhân](/xe-may/2026/10/10/xe-ga-rung-nhe-khi-tang-toc-hieu-nguyen-nhan/) cho nhóm truyền lực. Đối chiếu giúp bạn mô tả đúng nhóm lỗi cho cửa hàng.
 
 ## Ghi nhớ
 

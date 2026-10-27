@@ -52,6 +52,6 @@ Hiểu lầm thứ ba là quên rằng gói dài hơn ràng buộc lịch trình
 
 ## Chốt gói đúng cách
 
-Sau khi chọn được gói, việc còn lại là ghi rõ vào giấy nhận xe: thời hạn gói, giá gói, khung giờ nhận và trả, và các điều kiện đi kèm như mức nhiên liệu trả. Một dòng chữ rõ ràng lúc nhận xe đáng giá hơn một buổi tranh luận lúc trả xe. Ai từng đọc [thuê xe máy một ngày đi được bao nhiêu km](/thue-xe/2026/09/27/thue-xe-may-mot-ngay-i-uoc-bao-nhieu-km/) sẽ nhớ rằng hạn mức quãng đường cũng cần được ghi cùng giá gói, vì gói dài ngày đôi khi kèm hạn mức rộng hơn.
+Sau khi chọn được gói, việc còn lại là ghi rõ vào giấy nhận xe: thời hạn gói, giá gói, khung giờ nhận và trả, và các điều kiện đi kèm như mức nhiên liệu trả. Một dòng chữ rõ ràng lúc nhận xe đáng giá hơn một buổi tranh luận lúc trả xe. Ai từng đọc [thuê xe máy một ngày đi được bao nhiêu km](/thue-xe/2026/09/27/thue-xe-may-mot-ngay-di-duoc-bao-nhieu-km/) sẽ nhớ rằng hạn mức quãng đường cũng cần được ghi cùng giá gói, vì gói dài ngày đôi khi kèm hạn mức rộng hơn.
 
 Tóm lại, mức giá theo số ngày giảm theo một cấu trúc có thể dự đoán được, và khách nắm cấu trúc đó luôn trả ít hơn khách chỉ hỏi giá ngày. Hỏi gói ba ngày, gói tuần và gói tháng ngay từ đầu, đặt câu theo thời hạn thật, và ghi rõ mọi con số vào biên bản. Danh sách gói hiện hành của từng loại xe được cập nhật tại chuyên mục [giá thuê xe máy](/thue-xe/gia-thue/) trên trang chủ [thuê xe máy Hà Nội](/thue-xe/).

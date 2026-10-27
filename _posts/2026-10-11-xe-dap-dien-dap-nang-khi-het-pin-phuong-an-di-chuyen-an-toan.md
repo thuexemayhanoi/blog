@@ -24,7 +24,7 @@ Khác với xe đạp thường, xe đạp điện mang theo bộ pin, động c
 
 Một điểm nữa cần biết: nhiều dòng xe điện khi pin về mức thấp sẽ tự giới hạn tốc độ hoặc ngắt trợ lực đột ngột. Tín hiệu này thường xuất hiện khi đồng hồ còn một vạch pin. Nếu bỏ qua, chỉ vài trăm mét sau bạn sẽ phải đạp bằng sức người hoàn toàn. Trong điều kiện phố Hà Nội đông, chờ đèn đỏ liên tục, đạp xe điện nặng khiến bạn mướt mồ hôi và mất tập trung, hai thứ dễ dẫn tới va chạm nhỏ ở vỉa hè chật chội.
 
-Thời tiết cũng góp phần: ngược gió trên cầu hoặc đoạn đường rửa mặt Long Biên cát bụi, trời nắng gắt khiến việc đạp nặng thêm kiệt sức. Hãy đọc tình huống xe máy hết bình ắc quy giữa đường để thấy cách xử lý chung cho mọi loại xe chạy điện tại [xử lý hết bình ắc quy giữa đường](/thue-xe/2026/10/10/xe-may-thue-het-binh-ac-quy-giua-uong-xu-ly-the-nao/).
+Thời tiết cũng góp phần: ngược gió trên cầu hoặc đoạn đường rửa mặt Long Biên cát bụi, trời nắng gắt khiến việc đạp nặng thêm kiệt sức. Hãy đọc tình huống xe máy hết bình ắc quy giữa đường để thấy cách xử lý chung cho mọi loại xe chạy điện tại [xử lý hết bình ắc quy giữa đường](/thue-xe/2026/10/10/xe-may-thue-het-binh-ac-quy-giua-duong-xu-ly-the-nao/).
 
 ## Còn đạp được bao xa khi xe đạp điện hết pin
 

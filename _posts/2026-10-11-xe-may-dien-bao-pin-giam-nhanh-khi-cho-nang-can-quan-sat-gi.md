@@ -50,7 +50,7 @@ Bốn điều chỉnh cho hiệu quả rõ nhất, không cần đổi lộ trì
 
 - Chọn làn và nhịp đường: tránh lượn lách liên tục giữa các xe, mỗi lần lách là một lần tăng giảm tốc, và tăng giảm tốc là tiêu pin.
 
-Với các chuyến đi dài hơn quãng đường một lần sạc, kể cả khi đã tiết kiệm, bạn vẫn cần tính điểm sạc giữa đường. Cách giữ pin và phanh trên đường đèo dốc dài đã được viết riêng trong bài [xe máy điện leo dốc dài: giữ pin và phanh thế nào](/xe-may/2026/10/10/xe-may-ien-leo-doc-dai-giu-pin-va-phanh-the-nao/); còn khi cần sạc ngoài nhà, các lưu ý an toàn khi dùng trạm công cộng đã có trong bài [sạc pin xe máy điện ở trạm công cộng lưu ý an toàn](/xe-may/2026/10/10/sac-pin-xe-may-ien-o-tram-cong-cong-luu-y-an-toan/).
+Với các chuyến đi dài hơn quãng đường một lần sạc, kể cả khi đã tiết kiệm, bạn vẫn cần tính điểm sạc giữa đường. Cách giữ pin và phanh trên đường đèo dốc dài đã được viết riêng trong bài [xe máy điện leo dốc dài: giữ pin và phanh thế nào](/xe-may/2026/10/10/xe-may-dien-leo-doc-dai-giu-pin-va-phanh-the-nao/); còn khi cần sạc ngoài nhà, các lưu ý an toàn khi dùng trạm công cộng đã có trong bài [sạc pin xe máy điện ở trạm công cộng lưu ý an toàn](/xe-may/2026/10/10/sac-pin-xe-may-dien-o-tram-cong-cong-luu-y-an-toan/).
 
 ## Khi nào hiện tượng vượt khỏi giải thích được
 

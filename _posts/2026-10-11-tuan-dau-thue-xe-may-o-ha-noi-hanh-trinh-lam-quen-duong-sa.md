@@ -26,7 +26,7 @@ Nguyên tắc chung rất đơn giản: mở rộng dần theo vòng tròn. Ngà
 
 Hai ngày đầu, hãy dành cho việc làm quen chiếc xe và khu vực xung quanh chỗ ở. Buổi sáng, khi đường vắng, hãy chạy vài vòng quanh phố, thử phanh trước, phanh sau, cảm giác ga của xe số hoặc tay ga của xe tay ga. Buổi trưa, thử một chuyến ngắn tới chợ hoặc cửa hàng tạp hóa gần nhất. Mục tiêu không phải đi xa, mà là để mọi thao tác trở thành phản xạ: bật xi nhan, soi gương, giảm tốc trước ngõ.
 
-Hai ngày này cũng là lúc ghi lại những địa điểm thiết thực: trạm xăng gần nhất, tiệm vá lốp, bãi giữ xe mà bạn cảm giác tin cậy. Người mới đến nên tham khảo thêm bài [thuê xe máy cho người chưa từng đi Hà Nội cần lưu ý gì](/thue-xe/2026/10/07/thue-xe-may-cho-nguoi-chua-tung-i-ha-noi-can-luu-y-gi/) để tránh những sai lầm phổ biến ngay từ ngày nhận xe.
+Hai ngày này cũng là lúc ghi lại những địa điểm thiết thực: trạm xăng gần nhất, tiệm vá lốp, bãi giữ xe mà bạn cảm giác tin cậy. Người mới đến nên tham khảo thêm bài [thuê xe máy cho người chưa từng đi Hà Nội cần lưu ý gì](/thue-xe/2026/10/07/thue-xe-may-cho-nguoi-chua-tung-di-ha-noi-can-luu-y-gi/) để tránh những sai lầm phổ biến ngay từ ngày nhận xe.
 
 ## Ngày ba và ngày bốn: làm quen các trục lớn
 
@@ -36,7 +36,7 @@ Một thói quen hữu ích là trước khi xuất phát, mở ứng dụng b�
 
 ## Cuối tuần: thử một chuyến dài hơn
 
-Ngày thứ sáu và chủ nhật là thời điểm tốt cho chuyến dài đầu tiên. Một lộ trình dễ chịu là chạy dọc sông Hồng qua khu Long Biên rồi vào phố cổ nếu bạn ở phía đông, hoặc vòng qua Hồ Gươm rồi lên khu Tây Hồ nếu bạn ở giữa thành phố. Nếu muốn tham khảo tổng thể các tuyến quanh Hà Nội, bài [kế hoạch chuyến đi 7 ngày quanh Hà Nội bằng xe máy](/thue-xe/2026/09/27/ke-hoach-chuyen-i-7-ngay-quanh-ha-noi-bang-xe-may/) là tư liệu nên đọc trước khi vạch lộ trình.
+Ngày thứ sáu và chủ nhật là thời điểm tốt cho chuyến dài đầu tiên. Một lộ trình dễ chịu là chạy dọc sông Hồng qua khu Long Biên rồi vào phố cổ nếu bạn ở phía đông, hoặc vòng qua Hồ Gươm rồi lên khu Tây Hồ nếu bạn ở giữa thành phố. Nếu muốn tham khảo tổng thể các tuyến quanh Hà Nội, bài [kế hoạch chuyến đi 7 ngày quanh Hà Nội bằng xe máy](/thue-xe/2026/09/27/ke-hoach-chuyen-di-7-ngay-quanh-ha-noi-bang-xe-may/) là tư liệu nên đọc trước khi vạch lộ trình.
 
 Trở về, hãy chậm lại trước khi vào ngõ, vì cuối tuần ngõ thường có trẻ chơi và xe đậu hai bên. Một chuyến dài đầu tiên trọn vẹn sẽ cho bạn sự tự tin rất thật cho những tuần tiếp theo.
 

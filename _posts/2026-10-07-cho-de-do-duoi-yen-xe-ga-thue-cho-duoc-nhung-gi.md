@@ -30,7 +30,7 @@ Khi xếp, hãy đặt vật nặng xuống đáy cốp, vật nhẹ và mềm l
 
 ## Những thứ không nên để trong cốp
 
-Điện thoại, ví, giấy tờ gốc không nên để trong cốp khi rời xe, vì đây là vị trí kẻ trộm dễ đoán nhất. Bình xăng dự phòng không nên chất trong cốp: mùi xăng ám lâu và tiềm ẩn rủi ro cháy. Thức ăn nóng, đồ nhiều mùi như mắm, nem để lâu cũng khiến cốp ám mùi khó làm sạch. Vật quá nặng hoặc chất cao vượt mép cốp có thể làm vênh nắp theo thời gian. Nếu định chở nhiều đồ hơn bình thường, xem thêm [kinh nghiệm chọn loại xe khi chở hành lý cồng kềnh](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để chọn đúng dòng xe ngay từ đầu.
+Điện thoại, ví, giấy tờ gốc không nên để trong cốp khi rời xe, vì đây là vị trí kẻ trộm dễ đoán nhất. Bình xăng dự phòng không nên chất trong cốp: mùi xăng ám lâu và tiềm ẩn rủi ro cháy. Thức ăn nóng, đồ nhiều mùi như mắm, nem để lâu cũng khiến cốp ám mùi khó làm sạch. Vật quá nặng hoặc chất cao vượt mép cốp có thể làm vênh nắp theo thời gian. Nếu định chở nhiều đồ hơn bình thường, xem thêm [kinh nghiệm chọn loại xe khi chở hành lý cồng kềnh](/xe-may/2026/09/29/di-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để chọn đúng dòng xe ngay từ đầu.
 
 ## Thói quen dọn cốp trước khi trả xe
 

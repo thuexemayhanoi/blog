@@ -34,7 +34,7 @@ Một thao tác nhỏ có thể cứu tình huống: chỉnh lại ốc căng d�
 
 Khi gọi, mô tả đúng triệu chứng: tuột ở số mấy, tiếng máy thế nào, đã thử chỉnh côn chưa. Thông tin chuẩn giúp chủ xe đoán được nguyên nhân và quyết định bạn nên tiếp tục dùng xe, ghé về kiểm tra, hay cần hỗ trợ đổi xe. Nếu chặng còn dài hoặc phải qua nhiều dốc, đề nghị hỗ trợ đổi xe sớm thay vì cố chạy.
 
-Nếu xe được đổi, hãy tranh thủ chạy thử nhanh trước khi rời cửa hàng: lên số, về số, bóp côn và ga nhẹ, để xác nhận trục trặc đã hết. Với xe thuê, chạy thử lúc nhận là bước quan trọng nhất để tránh nhận lấy chiếc xe đang có sẵn vấn đề; xem thêm [gợi ý chọn xe chở hành lý](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) nếu bạn định chở nhiều đồ trên chuyến tới.
+Nếu xe được đổi, hãy tranh thủ chạy thử nhanh trước khi rời cửa hàng: lên số, về số, bóp côn và ga nhẹ, để xác nhận trục trặc đã hết. Với xe thuê, chạy thử lúc nhận là bước quan trọng nhất để tránh nhận lấy chiếc xe đang có sẵn vấn đề; xem thêm [gợi ý chọn xe chở hành lý](/xe-may/2026/09/29/di-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) nếu bạn định chở nhiều đồ trên chuyến tới.
 
 ## Cách giảm rủi ro gặp xe tuột số
 

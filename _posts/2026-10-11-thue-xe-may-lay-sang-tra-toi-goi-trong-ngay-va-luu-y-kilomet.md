@@ -40,7 +40,7 @@ Gói trong ngày thường kèm một hạn mức quãng đường, và cách qu
 
 Một mẹo thực tế cho khách Hà Nội: phần lớn quãng đường tích luỹ không đến từ các chuyến chính mà đến từ các đoạn ngắn xuyên suốt trong ngày, kiểu đi ăn trưa hai cây số, đi cà phê ba cây số, đón người hai cây số nữa. Rơi vào kiểu di chuyển này, tốt nhất bật ứng dụng bản đồ ghi lịch sử vị trí cả ngày, và buổi chiều ngước xem tổng số trước khi quyết định chạy tiếp điểm cuối xa hay không.
 
-Nếu nhận ra lịch trình sẽ vượt hạn mức, bạn có hai lựa chọn gọn gàng: một là gọi cửa hàng hỏi giá phần vượt trước khi chạy tiếp, hai là cắt bớt một điểm xa trong lịch để quay về đúng khung. Chọn lựa nào cũng tốt hơn việc để công tơ vượt ngưỡng mà không ai biết con số sẽ được tính thế nào. Cách hỏi hạn mức chuẩn đã có trong bài [thuê xe máy một ngày đi được bao nhiêu km](/thue-xe/2026/09/27/thue-xe-may-mot-ngay-i-uoc-bao-nhieu-km/), nên đọc trước khi thuê gói sáng tối.
+Nếu nhận ra lịch trình sẽ vượt hạn mức, bạn có hai lựa chọn gọn gàng: một là gọi cửa hàng hỏi giá phần vượt trước khi chạy tiếp, hai là cắt bớt một điểm xa trong lịch để quay về đúng khung. Chọn lựa nào cũng tốt hơn việc để công tơ vượt ngưỡng mà không ai biết con số sẽ được tính thế nào. Cách hỏi hạn mức chuẩn đã có trong bài [thuê xe máy một ngày đi được bao nhiêu km](/thue-xe/2026/09/27/thue-xe-may-mot-ngay-di-duoc-bao-nhieu-km/), nên đọc trước khi thuê gói sáng tối.
 
 ## Nhận và trả trong một ngày: giữ bằng chứng hai đầu
 
