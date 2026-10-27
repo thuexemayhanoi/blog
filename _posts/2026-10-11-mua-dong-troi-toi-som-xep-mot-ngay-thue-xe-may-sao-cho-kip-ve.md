@@ -50,7 +50,7 @@ Quy tắc dễ nhớ: một điểm chính buổi sáng, một điểm nhẹ bu�
 
 Hãy sắp các điểm theo ánh sáng. Chỗ cần trời sáng để ngắm hoặc chụp ảnh, như ven sông hay làng nghề, đặt vào buổi sáng đến đầu giờ chiều. Chỗ trong nhà hoặc gần phố, như quán cà phê hay ngõ nhỏ khu phố cổ, để cuối chiều, khi bạn đã bắt đầu đường về.
 
-Về khoảng cách, mùa đông hợp với những nơi không quá xa Long Biên. Một buổi ở [làng gốm Bát Tràng](/thue-xe/2026/10/07/thue-xe-may-mot-ngay-i-lang-gom-bat-trang/) là ví dụ hợp lý: đến sớm, dạo qua các xưởng, ăn trưa rồi về trước khi sương xuống. Cung đường dài như [Ba Vì](/du%20l%E1%BB%8Bch/2026/09/19/thue-xe-may-di-ba-vi-mot-ngay/) thì khác. Nếu vẫn muốn đi vào mùa lạnh, hãy coi đó là điểm duy nhất của cả ngày và quay đầu thật sớm. Thông tin của từng điểm đến có thể thay đổi, hãy kiểm tra kênh chính thức của địa điểm trước khi đi.
+Về khoảng cách, mùa đông hợp với những nơi không quá xa Long Biên. Một buổi ở [làng gốm Bát Tràng](/thue-xe/2026/10/07/thue-xe-may-mot-ngay-di-lang-gom-bat-trang/) là ví dụ hợp lý: đến sớm, dạo qua các xưởng, ăn trưa rồi về trước khi sương xuống. Cung đường dài như [Ba Vì](/du%20l%E1%BB%8Bch/2026/09/19/thue-xe-may-di-ba-vi-mot-ngay/) thì khác. Nếu vẫn muốn đi vào mùa lạnh, hãy coi đó là điểm duy nhất của cả ngày và quay đầu thật sớm. Thông tin của từng điểm đến có thể thay đổi, hãy kiểm tra kênh chính thức của địa điểm trước khi đi.
 
 ## Khung giờ mẫu: xuất phát, điểm dừng, giờ quay về
 

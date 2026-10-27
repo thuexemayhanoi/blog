@@ -63,7 +63,7 @@ Nguyên tắc chung là đừng để việc di chuyển rơi vào lúc đườn
 - Khi dòng xe đi làm đã thưa, hãy sang khu làm việc của ngày hôm đó.
 - Cuối giờ chiều, ở lại quán thêm một lúc, ăn tối rồi về khi đường nhẹ hơn.
 
-Mưa là yếu tố cần tính trước. Trời mưa, đường vốn đông càng ùn và trơn hơn, nên hãy chừa một khung giờ dự phòng và sẵn sàng đổi sang quán gần hơn thay vì cố chạy xa. Hai ngày đầu, nên chạy thử những đoạn gần chỗ ở để quen tay lái; bài [tuần đầu thuê xe máy làm quen đường sá](/thue-xe/2026/10/11/tuan-au-thue-xe-may-o-ha-noi-hanh-trinh-lam-quen-uong-sa/) kể khá kỹ cách làm quen này.
+Mưa là yếu tố cần tính trước. Trời mưa, đường vốn đông càng ùn và trơn hơn, nên hãy chừa một khung giờ dự phòng và sẵn sàng đổi sang quán gần hơn thay vì cố chạy xa. Hai ngày đầu, nên chạy thử những đoạn gần chỗ ở để quen tay lái; bài [tuần đầu thuê xe máy làm quen đường sá](/thue-xe/2026/10/11/tuan-dau-thue-xe-may-o-ha-noi-hanh-trinh-lam-quen-duong-sa/) kể khá kỹ cách làm quen này.
 
 ## Chọn xe và chốt thuê cho cả tuần
 

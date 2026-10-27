@@ -72,7 +72,7 @@ Nắng gắt làm bạn mệt nhanh hơn bạn nghĩ, mà người mệt dễ nh
 
 Mưa thì cần phương án B từ tối hôm trước. Xem dự báo thời tiết, nếu có dấu hiệu mưa lớn thì làm trước các việc ở khu gần, hoãn việc phải chạy xa. Khi mưa, đường trơn nên giảm tốc và giữ khoảng cách rộng hơn thường lệ. Gặp trận quá to, tấp vào mái hiên chờ cũng không phải mất thời gian.
 
-Với điểm ở khu chưa quen đường, hãy [đi thử tuyến một lượt vào ngày trước đó](/thue-xe/2026/10/11/thue-xe-may-mot-ngay-e-chay-thu-tuyen-i-lam-truoc-ngay-nhan-viec/) để ngày chính thức không phải dò đường.
+Với điểm ở khu chưa quen đường, hãy [đi thử tuyến một lượt vào ngày trước đó](/thue-xe/2026/10/11/thue-xe-may-mot-ngay-de-chay-thu-tuyen-di-lam-truoc-ngay-nhan-viec/) để ngày chính thức không phải dò đường.
 
 ## Chọn xe và gói thuê cho ngày chạy việc
 

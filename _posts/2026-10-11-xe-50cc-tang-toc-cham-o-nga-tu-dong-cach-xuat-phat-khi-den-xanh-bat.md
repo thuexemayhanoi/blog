@@ -33,7 +33,7 @@ Nhiều người mới nghĩ phải chen lên hàng đầu mới an toàn. Thự
 - **Dừng sau vạch, chừa chỗ cho xe ngang đi qua.** Đừng nhích dần lên giữa ngã tư chỉ để được đi trước một nhịp.
 - **Nhìn cả đèn của hướng vuông góc.** Khi đèn bên kia chuyển vàng, bạn biết đèn mình sắp xanh, đỡ giật mình.
 
-Về tư thế, chân trái chạm đất, tay phải giữ phanh, người ngồi thẳng. Nếu xe có số, hãy vào số 1 trước khi đèn chuyển. Bạn có thể đọc thêm về cách [đi xe nhẹ trong phố và chọn làn cho đúng](/xe-may/2026/10/11/thue-xe-50cc-i-pho-ha-noi-nhe-cham-va-ung-lan/) để biết xe nhỏ nên đi ở đâu giữa dòng xe thường ngày.
+Về tư thế, chân trái chạm đất, tay phải giữ phanh, người ngồi thẳng. Nếu xe có số, hãy vào số 1 trước khi đèn chuyển. Bạn có thể đọc thêm về cách [đi xe nhẹ trong phố và chọn làn cho đúng](/xe-may/2026/10/11/thue-xe-50cc-di-pho-ha-noi-nhe-cham-va-dung-lan/) để biết xe nhỏ nên đi ở đâu giữa dòng xe thường ngày.
 
 ## Xe 50cc xuất phát đèn xanh: từng bước một
 

@@ -45,7 +45,7 @@ Lốp xe máy nhỏ, lượng khí ít, còn tải trên bánh thì đổi liên
 
 - **Không thay việc kiểm tra áp suất.** Nitơ chỉ làm lốp tụt hơi chậm hơn chút, không biến lốp thành kín tuyệt đối. Cái đồng hồ đo vẫn cần có mặt, và cách dùng nó bạn có thể xem lại ở bài về [kiểm tra áp suất lốp xe máy](/chia%20s%E1%BA%BB/2026/09/18/ap-suat-lop-xe-may-kiem-tra-the-nao/).
 
-- **Không chống đinh.** Đi qua đoạn đường đang đào hay đoạn đê ven sông Hồng nhiều mảnh vụn, đinh vẫn đâm xuyên lốp như thường. Khi gặp chuyện đó, hãy đọc cách xử lý trong bài về [vá dùi, vá nấm khi lốp không săm bị đinh](/xe-may/2026/10/11/lop-khong-sam-bi-inh-va-dui-va-nam-khac-gi-va-khi-nao-phai-thay-lop/).
+- **Không chống đinh.** Đi qua đoạn đường đang đào hay đoạn đê ven sông Hồng nhiều mảnh vụn, đinh vẫn đâm xuyên lốp như thường. Khi gặp chuyện đó, hãy đọc cách xử lý trong bài về [vá dùi, vá nấm khi lốp không săm bị đinh](/xe-may/2026/10/11/lop-khong-sam-bi-dinh-va-dui-va-nam-khac-gi-va-khi-nao-phai-thay-lop/).
 
 - **Không cứu được lốp mòn hay lốp nứt.** Gai đã mòn hết, cao su đã chai nứt thì dù bơm loại khí nào cũng nên thay lốp.
 

@@ -51,7 +51,7 @@ Cách ước lượng xăng không cần công thức phức tạp:
 3. Hỏi cửa hàng cho thuê xem dòng xe bạn chọn thường đi được bao xa với một bình đầy, vì mỗi dòng xe tiết kiệm xăng khác nhau.
 4. Từ đó đoán số lần đổ, nhân với giá xăng bạn thấy ở trạm hôm đó.
 
-Muốn biết một ngày đi tới đâu thì vừa sức, bạn có thể đọc thêm bài về [quãng đường hợp lý cho một ngày thuê xe](/thue-xe/2026/09/27/thue-xe-may-mot-ngay-i-uoc-bao-nhieu-km/) trước khi chốt điểm đến.
+Muốn biết một ngày đi tới đâu thì vừa sức, bạn có thể đọc thêm bài về [quãng đường hợp lý cho một ngày thuê xe](/thue-xe/2026/09/27/thue-xe-may-mot-ngay-di-duoc-bao-nhieu-km/) trước khi chốt điểm đến.
 Gửi xe ngoại thành thường ít điểm dừng hơn nội thành, có khi chỉ một hoặc hai chỗ như điểm tham quan và quán ăn. Ở dòng ăn uống, nên tính cả nước và đồ ăn nhẹ, vì đoạn đường vắng không phải chỗ nào cũng có quán để ghé.
 
 ## Kiểu đi xa cả ngày: xăng và bữa ăn chiếm phần lớn ngân sách

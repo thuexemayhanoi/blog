@@ -80,7 +80,7 @@ Vài ngày đầu, hãy chạy vừa phải và giữ khoảng cách rộng hơn
 
 Kiểm tra hơi lốp sau vài giờ và vào sáng hôm sau. Nếu bánh vừa vá mềm hơn rõ rệt so với bánh còn lại, có thể chỗ vá đang rỉ hơi, hãy quay lại tiệm. Áp suất phù hợp tùy dòng xe, thường dán trên xe hoặc ghi trong sách hướng dẫn. Bạn có thể xem [cách kiểm tra áp suất lốp xe máy](/chia%20s%E1%BA%BB/2026/09/18/ap-suat-lop-xe-may-kiem-tra-the-nao/) để biết nên nhìn gì.
 
-Những tuần sau, thỉnh thoảng nhìn lại bánh vừa vá: mặt gai mòn có đều không, có vết phồng hay nứt gần chỗ vá không. Lốp mòn lệch cũng là dấu hiệu đáng để ý, xem thêm bài về [lốp xe máy mòn không đều](/xe-may/2026/10/04/lop-xe-may-mon-khong-eu-nguyen-nhan-va-cach-e-y/).
+Những tuần sau, thỉnh thoảng nhìn lại bánh vừa vá: mặt gai mòn có đều không, có vết phồng hay nứt gần chỗ vá không. Lốp mòn lệch cũng là dấu hiệu đáng để ý, xem thêm bài về [lốp xe máy mòn không đều](/xe-may/2026/10/04/lop-xe-may-mon-khong-deu-nguyen-nhan-va-cach-de-y/).
 
 ## Xe thuê bị đinh: báo ai và hỏi gì tiệm vá
 

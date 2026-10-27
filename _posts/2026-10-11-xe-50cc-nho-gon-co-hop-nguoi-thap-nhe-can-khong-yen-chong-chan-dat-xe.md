@@ -51,7 +51,7 @@ Dắt xe là việc bạn làm nhiều hơn mình nghĩ. Lùi xe ra khỏi chỗ
 3. Lùi xe, tay giữ ghi đông, một ngón tay hờ trên phanh. Lùi là lúc người nhẹ cân dễ mất kiểm soát nhất vì phải cùng lúc đẩy xe và giữ thăng bằng.
 4. Nếu chỗ thử có đoạn dốc nhẹ hoặc bậc vỉa hè thấp, dắt thử một lần để biết xe nặng tay ở đâu.
 
-Nếu giữa chừng bạn phải gồng hết sức hoặc xe chao qua chao lại, xe này chưa hợp với mình. Phần làm quen tay lái ban đầu bạn có thể đọc thêm trong [những lưu ý cho người mới bắt đầu lái](/xe-may/2026/10/10/thue-xe-50cc-cho-nguoi-moi-bat-au-lai/).
+Nếu giữa chừng bạn phải gồng hết sức hoặc xe chao qua chao lại, xe này chưa hợp với mình. Phần làm quen tay lái ban đầu bạn có thể đọc thêm trong [những lưu ý cho người mới bắt đầu lái](/xe-may/2026/10/10/thue-xe-50cc-cho-nguoi-moi-bat-dau-lai/).
 
 ## Dựng chống và nhấc xe: thử đúng sức của mình
 
@@ -75,7 +75,7 @@ Muốn xem xe nhẹ có hợp nhu cầu đi lại của mình hay không, bạn 
 
 ## Nhận xe thế nào cho yên tâm
 
-Trước khi lăn bánh, hãy làm đủ bốn việc: ngồi thử và chạm chân hai bên, nghiêng xe chống một chân, dắt và lùi một đoạn, dựng rồi rút chống hai lần. Thử ở chỗ rộng, còn sáng, rồi chạy chậm vài vòng trước khi ra đường lớn. Khi ra phố, bạn có thể xem thêm cách [chạy nhẹ, chậm và đúng làn giữa dòng xe Hà Nội](/xe-may/2026/10/11/thue-xe-50cc-i-pho-ha-noi-nhe-cham-va-ung-lan/).
+Trước khi lăn bánh, hãy làm đủ bốn việc: ngồi thử và chạm chân hai bên, nghiêng xe chống một chân, dắt và lùi một đoạn, dựng rồi rút chống hai lần. Thử ở chỗ rộng, còn sáng, rồi chạy chậm vài vòng trước khi ra đường lớn. Khi ra phố, bạn có thể xem thêm cách [chạy nhẹ, chậm và đúng làn giữa dòng xe Hà Nội](/xe-may/2026/10/11/thue-xe-50cc-di-pho-ha-noi-nhe-cham-va-dung-lan/).
 
 Nếu bạn nhận xe tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, hãy gọi Nguyễn Tú theo số 0942 467 674 trong giờ 09:00–21:00 để xác nhận xe và giá hiện tại, rồi dành vài phút thử đủ bốn việc ngay tại chỗ.
 

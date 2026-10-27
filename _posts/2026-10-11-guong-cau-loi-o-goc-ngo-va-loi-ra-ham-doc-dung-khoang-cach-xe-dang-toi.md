@@ -24,7 +24,7 @@ Hình ở mép gương còn bị méo nhiều hơn ở giữa, nên chiếc xe s
 
 Vì vậy gương cầu lồi trả lời tốt hai câu hỏi: có ai ở đó không, và họ đến từ hướng nào. Câu hỏi "còn cách bao xa" thì nó trả lời kém. Muốn biết xe tới gần cỡ nào, hãy dựa vào sự thay đổi của hình ảnh chứ không dựa vào kích thước.
 
-Gương này khác gương chiếu hậu trên xe, thứ bạn tự chỉnh được như trong bài [chỉnh gương xe máy khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-ung-cach-khi-dung-en-o/). Gương ở góc ngõ là của khu phố, bạn chỉ có thể đọc nó cho đúng.
+Gương này khác gương chiếu hậu trên xe, thứ bạn tự chỉnh được như trong bài [chỉnh gương xe máy khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-dung-cach-khi-dung-den-do/). Gương ở góc ngõ là của khu phố, bạn chỉ có thể đọc nó cho đúng.
 
 ## Đọc gương cầu lồi khi đi xe máy: ba điều cần nhìn để biết xe đang tới
 
@@ -51,7 +51,7 @@ Từng bước khi gặp góc khuất có gương:
 3. Nếu gương trống, nhích đầu xe ra từng chút và nhìn thẳng bằng mắt, tay vẫn giữ phanh.
 4. Chỉ tăng tốc khi đã nhìn được cả hai hướng bằng mắt, không chỉ qua gương.
 
-Mặt ngõ cũ thường có gạch ẩm và rãnh nước, nên nếu phải hãm, hãy bóp phanh nhẹ và đều. Tinh thần của việc [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-i-xe-may/) vẫn đúng trong ngõ hẹp: càng ít chỗ, càng phải đi chậm.
+Mặt ngõ cũ thường có gạch ẩm và rãnh nước, nên nếu phải hãm, hãy bóp phanh nhẹ và đều. Tinh thần của việc [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-di-xe-may/) vẫn đúng trong ngõ hẹp: càng ít chỗ, càng phải đi chậm.
 
 ## Gương cầu lồi lối ra hầm chung cư: dừng ở đâu, nhìn gì
 
@@ -81,7 +81,7 @@ Gương ngoài ngõ ít ai lau: hơi nước bám sau cơn mưa, bụi bám lâu
 
 **Mở tai ra.** Tắt nhạc, bỏ tai nghe khi vào ngõ. Xe đạp điện êm nên bạn phải dựa nhiều hơn vào mắt.
 
-Nếu ngõ quá hẹp, quá đông, hoặc bạn chưa đủ tự tin, dắt xe qua đoạn khuất là lựa chọn hoàn toàn bình thường. Còn nếu đã lỡ vào nhầm ngõ, đừng cua gấp giữa đoạn đông; xem cách [quay đầu xe máy ở ngõ nhỏ](/ky-nang/2026/10/09/quay-au-xe-may-o-ngo-nho-co-cach-nao-gon/) để quay đầu gọn hơn.
+Nếu ngõ quá hẹp, quá đông, hoặc bạn chưa đủ tự tin, dắt xe qua đoạn khuất là lựa chọn hoàn toàn bình thường. Còn nếu đã lỡ vào nhầm ngõ, đừng cua gấp giữa đoạn đông; xem cách [quay đầu xe máy ở ngõ nhỏ](/ky-nang/2026/10/09/quay-dau-xe-may-o-ngo-nho-co-cach-nao-gon/) để quay đầu gọn hơn.
 
 ## Tập đọc gương cho thành thói quen
 

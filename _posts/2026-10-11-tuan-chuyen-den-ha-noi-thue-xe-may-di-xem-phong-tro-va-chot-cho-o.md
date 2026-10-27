@@ -20,7 +20,7 @@ Bạn vừa đến Hà Nội với vài lịch hẹn xem phòng, một hai buổ
 
 Hai ba ngày thường quá ngắn. Ngày đầu bạn còn lơ ngơ, chưa phân biệt được phố nào một chiều, đến ngày thứ ba mới quen thì đã phải trả xe. Ngược lại, thuê nguyên một tháng khi chưa có việc, chưa biết chỗ ở nằm về hướng nào thì dễ trả tiền cho những ngày xe đứng yên.
 
-Một tuần đủ cho khá nhiều buổi hẹn nếu bạn xếp theo khu, đủ để chạy thử đường từ phòng ứng viên tới chỗ làm vào đúng giờ đi làm, và đủ để bạn thấy mình cần xe đến mức nào. Nếu muốn hình dung cảm giác những ngày đầu, bài [hành trình làm quen đường sá của tuần đầu thuê xe](/thue-xe/2026/10/11/tuan-au-thue-xe-may-o-ha-noi-hanh-trinh-lam-quen-uong-sa/) kể khá kỹ.
+Một tuần đủ cho khá nhiều buổi hẹn nếu bạn xếp theo khu, đủ để chạy thử đường từ phòng ứng viên tới chỗ làm vào đúng giờ đi làm, và đủ để bạn thấy mình cần xe đến mức nào. Nếu muốn hình dung cảm giác những ngày đầu, bài [hành trình làm quen đường sá của tuần đầu thuê xe](/thue-xe/2026/10/11/tuan-dau-thue-xe-may-o-ha-noi-hanh-trinh-lam-quen-duong-sa/) kể khá kỹ.
 
 ## Xếp lịch bảy ngày cho tuần đầu chuyển đến Hà Nội tìm nhà
 
@@ -67,7 +67,7 @@ Tiền xe là khoản dễ bị bỏ quên khi lập ngân sách. Giá ngày đ�
 
 Mình không cộng sẵn thành tổng, vì số ngày cần xe và dòng xe mỗi người một khác. Hãy lấy giá ngày đặt cạnh giá tuần, nhân với số ngày dự kiến rồi so sánh. Ngoài tiền thuê còn có xăng và tiền gửi xe khi đi khu đông. Về cọc, giấy tờ, trả xe hay gia hạn, bạn xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe, cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở 09:00–21:00, điện thoại 0942 467 674.
 
-Nếu lịch dày đến mức xe trục trặc là rắc rối lớn, bài về [chuyện thêm xe dự phòng khi thuê theo tuần](/thue-xe/2026/10/05/thue-xe-may-mot-tuan-co-uoc-them-xe-du-phong-khong/) giúp bạn biết nên hỏi gì.
+Nếu lịch dày đến mức xe trục trặc là rắc rối lớn, bài về [chuyện thêm xe dự phòng khi thuê theo tuần](/thue-xe/2026/10/05/thue-xe-may-mot-tuan-co-duoc-them-xe-du-phong-khong/) giúp bạn biết nên hỏi gì.
 
 ## Hết tuần: có nên thuê dài hạn không
 

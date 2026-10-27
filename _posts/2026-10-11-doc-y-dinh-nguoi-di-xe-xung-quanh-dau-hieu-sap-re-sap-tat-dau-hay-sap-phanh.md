@@ -20,7 +20,7 @@ writer: W1
 
 Người mới thường dán mắt vào đuôi chiếc xe ngay phía trước. Tầm nhìn thu hẹp lại, nên bạn chỉ nhận ra xe bên cạnh khi nó đã chen vào. Thật ra người kia thường đã lộ ý định từ hai, ba nhịp trước, chỉ là tín hiệu nằm ở chỗ bạn không nhìn.
 
-Đừng ngồi chờ xi nhan. Trên phố Hà Nội, nhiều người rẽ mà không bật, bật mà không rẽ, hoặc quên tắt từ ngã tư trước. Ngay cả hai người đi chung một xe còn phải [thống nhất tín hiệu trước khi lên xe](/ky-nang/2026/10/11/cho-nguoi-ngoi-sau-lan-au-thong-nhat-tin-hieu-truoc-khi-len-xe/), thì với người lạ giữa đường, bạn càng không nên trông vào việc họ báo đủ. Cơ thể và chiếc xe của họ mới là nơi nói thật.
+Đừng ngồi chờ xi nhan. Trên phố Hà Nội, nhiều người rẽ mà không bật, bật mà không rẽ, hoặc quên tắt từ ngã tư trước. Ngay cả hai người đi chung một xe còn phải [thống nhất tín hiệu trước khi lên xe](/ky-nang/2026/10/11/cho-nguoi-ngoi-sau-lan-dau-thong-nhat-tin-hieu-truoc-khi-len-xe/), thì với người lạ giữa đường, bạn càng không nên trông vào việc họ báo đủ. Cơ thể và chiếc xe của họ mới là nơi nói thật.
 
 ## Vai, đầu và ánh mắt: những tín hiệu đến sớm nhất
 
@@ -70,6 +70,6 @@ Khi trời mưa hoặc tối, dấu hiệu khó thấy hơn và xe cần quãng 
 
 Kỹ năng này lên nhanh nếu bạn tập có chủ đích. Mỗi lần dừng đèn đỏ, hãy đoán xem xe bên cạnh sẽ đi hướng nào khi đèn xanh, rồi so với thực tế. Khi chạy, chọn chiếc xe thứ ba phía trước làm điểm nhìn thay vì chiếc ngay trước mũi xe, và đảo mắt đều đặn giữa gương, phía trước xa, hai bên và mặt đường.
 
-Nếu vừa nhận một chiếc xe thuê, đừng vội ra đường đông ngay. Hãy dành thời gian để [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-uong/), vì khi tay phanh và tay ga đã bớt xa lạ, bạn mới còn đủ tâm trí quan sát người khác. Nếu bạn thuê xe ở Nguyễn Tú (112 Nguyễn Văn Cừ, Bồ Đề, Long Biên), cũng có thể chạy chậm vài vòng quanh khu vực đó trước khi vào phố đông.
+Nếu vừa nhận một chiếc xe thuê, đừng vội ra đường đông ngay. Hãy dành thời gian để [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-duong/), vì khi tay phanh và tay ga đã bớt xa lạ, bạn mới còn đủ tâm trí quan sát người khác. Nếu bạn thuê xe ở Nguyễn Tú (112 Nguyễn Văn Cừ, Bồ Đề, Long Biên), cũng có thể chạy chậm vài vòng quanh khu vực đó trước khi vào phố đông.
 
 Tuần này, hãy thử bài tập đoán xe ở mỗi cột đèn đỏ bạn dừng. Muốn đọc tiếp các bài về quan sát và giữ khoảng cách, ghé chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) hoặc xem toàn bộ hướng dẫn tại mục [kỹ năng](/ky-nang/).

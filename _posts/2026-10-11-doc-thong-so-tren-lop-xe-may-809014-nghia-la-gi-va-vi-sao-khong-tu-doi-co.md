@@ -58,7 +58,7 @@ Hai ký tự này quan trọng nhất khi bạn chở nặng. Chở thêm một 
 
 **TL hay TT.** TL là lốp không săm, TT là lốp có săm. Loại lốp phải khớp với vành và cách lắp van của xe, nếu không rõ hãy để thợ kiểm tra trực tiếp.
 
-**Dấu chỉ báo mòn.** Tam giác trên vai lốp chỉ vị trí gờ báo mòn trong rãnh gai; gai mòn tới ngang gờ thì lốp đã hết thời. Muốn biết lúc nào nên báo, hãy đọc bài [khi nào nên báo cho cửa hàng thuê về lốp mòn](/kinh%20nghi%E1%BB%87m/2026/09/19/doc-dau-hieu-lop-xe-may-mon-khi-nao-can-bao-cua-hang-thue/). Còn khi lốp mòn lệch một bên, nguyên nhân thường nằm chỗ khác, xem thêm ở bài về [lốp mòn không đều](/xe-may/2026/10/04/lop-xe-may-mon-khong-eu-nguyen-nhan-va-cach-e-y/).
+**Dấu chỉ báo mòn.** Tam giác trên vai lốp chỉ vị trí gờ báo mòn trong rãnh gai; gai mòn tới ngang gờ thì lốp đã hết thời. Muốn biết lúc nào nên báo, hãy đọc bài [khi nào nên báo cho cửa hàng thuê về lốp mòn](/kinh%20nghi%E1%BB%87m/2026/09/19/doc-dau-hieu-lop-xe-may-mon-khi-nao-can-bao-cua-hang-thue/). Còn khi lốp mòn lệch một bên, nguyên nhân thường nằm chỗ khác, xem thêm ở bài về [lốp mòn không đều](/xe-may/2026/10/04/lop-xe-may-mon-khong-deu-nguyen-nhan-va-cach-de-y/).
 
 ## Đổi cỡ lốp xe máy có sao không? Ba chuyện có thể xảy ra
 

@@ -52,7 +52,7 @@ Nếu vệt sáng hắt cao gần ngang tâm đèn, hoặc gần như rơi ngay 
 
 Đèn không tự dưng lệch. Chở người đèo sau hay balo hành lý nặng làm đầu xe hếch lên, pha tự cao hơn, và lúc này vấn đề không nằm ở đèn mà ở cách bạn chất tải. Lốp sau non làm đuôi xe chúi xuống, đầu xe nhô lên theo; bạn có thể xem lại cách [kiểm tra áp suất lốp xe máy](/chia%20s%E1%BA%BB/2026/09/18/ap-suat-lop-xe-may-kiem-tra-the-nao/) để loại trừ nguyên nhân này.
 
-Một cú xóc mạnh qua ổ gà, lên xuống vỉa hè hay va chạm nhẹ cũng có thể làm giá đỡ đèn xê dịch. Nếu đèn lắc lư khi xe nổ máy hoặc qua gờ giảm tốc, đừng tự vặn, hãy xem thêm về [kiểm tra vít ốc lỏng lẻo định kỳ](/xe-may/2026/10/03/vit-oc-long-leo-tren-xe-may-thue-dai-han-kiem-tra-inh-ky/) rồi báo thợ. Bóng đèn thay không đúng loại cũng làm chùm sáng tản ra, gây chói dù góc chiếu không lệch.
+Một cú xóc mạnh qua ổ gà, lên xuống vỉa hè hay va chạm nhẹ cũng có thể làm giá đỡ đèn xê dịch. Nếu đèn lắc lư khi xe nổ máy hoặc qua gờ giảm tốc, đừng tự vặn, hãy xem thêm về [kiểm tra vít ốc lỏng lẻo định kỳ](/xe-may/2026/10/03/vit-oc-long-leo-tren-xe-may-thue-dai-han-kiem-tra-dinh-ky/) rồi báo thợ. Bóng đèn thay không đúng loại cũng làm chùm sáng tản ra, gây chói dù góc chiếu không lệch.
 
 Với xe thuê còn thêm một yếu tố: người lái đổi tay. Người nhẹ cân thay người nặng cân có thể làm vệt sáng thay đổi, nên đèn từng ổn với khách trước chưa chắc ổn với bạn.
 
@@ -60,7 +60,7 @@ Với xe thuê còn thêm một yếu tố: người lái đổi tay. Người n
 
 Hệ thống đèn vừa là mạch điện vừa là phần cơ gắn ở đầu xe, nên bạn đừng tự tháo vỏ đèn hay vặn ốc điều chỉnh nếu không có kinh nghiệm. Hãy nhờ thợ hoặc cửa hàng khi đã loại trừ tải và áp suất lốp mà vệt sáng vẫn lệch rõ, khi đèn rung lắc hoặc nghiêng sau va chạm, khi vẫn bị chớp pha dù đã gạt về cốt, hay khi chùm sáng loang lổ, không có ranh giới rõ.
 
-Với xe thuê, hãy báo cửa hàng cho thuê trước khi tự xử lý. Nếu thuê của Nguyễn Tú, bạn gọi 0942 467 674 trong giờ 09:00–21:00 để mô tả tình trạng đèn và hỏi hướng xử lý. Tốt nhất là thử đèn ngay lúc nhận xe, thay vì phát hiện khi đã chạy giữa đường tối. Bạn có thể gộp bước này với việc [bật thử xi nhan và còi trước chuyến đi xa](/xe-may/2026/10/03/kiem-tra-en-xi-nhan-va-coi-truoc-chuyen-i-xa/), cùng các hạng mục khác trong [mục bảo dưỡng xe máy](/xe-may/bao-duong-xe/).
+Với xe thuê, hãy báo cửa hàng cho thuê trước khi tự xử lý. Nếu thuê của Nguyễn Tú, bạn gọi 0942 467 674 trong giờ 09:00–21:00 để mô tả tình trạng đèn và hỏi hướng xử lý. Tốt nhất là thử đèn ngay lúc nhận xe, thay vì phát hiện khi đã chạy giữa đường tối. Bạn có thể gộp bước này với việc [bật thử xi nhan và còi trước chuyến đi xa](/xe-may/2026/10/03/kiem-tra-den-xi-nhan-va-coi-truoc-chuyen-di-xa/), cùng các hạng mục khác trong [mục bảo dưỡng xe máy](/xe-may/bao-duong-xe/).
 
 Nếu đang chạy mà thấy pha bất thường, hãy giảm tốc, tấp vào chỗ an toàn rồi mới kiểm tra, đừng cố đi tiếp trong đoạn quá tối.
 

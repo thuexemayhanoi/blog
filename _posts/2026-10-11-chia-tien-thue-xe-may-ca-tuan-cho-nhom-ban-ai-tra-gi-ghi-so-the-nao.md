@@ -35,7 +35,7 @@ Cách gọn nhất là một người đứng ra làm việc và trả cho cửa
 
 Nếu hai người dùng chung một xe, chia đôi là hợp lý nhất, kể cả khi một người cầm lái nhiều hơn, vì người ngồi sau cũng đi trọn từng quãng đường. Nếu ba người thuê hai xe thì có hai hướng. Hướng thứ nhất là cộng tiền thuê của hai xe rồi chia đều ba phần, hợp khi cả nhóm đổi xe liên tục. Hướng thứ hai là xe nào có chủ cố định thì người đó trả, xe còn lại chia cho những người dùng chung. Hướng nào cũng được, miễn là nói ra từ trước.
 
-Nếu nhóm bạn vốn mỗi người một lịch riêng, bài về [thuê xe máy nguyên tuần cho đoàn bạn đi lẻ](/thue-xe/2026/10/07/thue-xe-may-nguyen-tuan-cho-oan-ban-i-le/) bàn thêm cách sắp xếp xe cho gọn.
+Nếu nhóm bạn vốn mỗi người một lịch riêng, bài về [thuê xe máy nguyên tuần cho đoàn bạn đi lẻ](/thue-xe/2026/10/07/thue-xe-may-nguyen-tuan-cho-doan-ban-di-le/) bàn thêm cách sắp xếp xe cho gọn.
 
 Để bạn hình dung về con số, giá thuê tuần Honda Vision hiện ở mức 1 triệu đồng, còn tiền cọc và các khoản liên quan hãy hỏi và xác nhận trước với Nguyễn Tú. Dù khoản đó do ai đưa, hãy ghi ngay vào sổ để biết ai đang ứng trước. Nếu còn đang cân nhắc cách thuê, mục [thuê xe máy theo tuần](/thue-xe/thue-tuan/) và trang tổng hợp [dịch vụ thuê xe máy ở Hà Nội](/thue-xe/) gom khá đủ các bài hướng dẫn.
 
@@ -53,7 +53,7 @@ Dù chọn cách nào, hãy thêm một quy tắc: chuyến chung chia chung, ch
 
 Ở khu phố cổ hay quanh những điểm đông khách, gửi xe ngày nào cũng có. Vì tính theo từng xe, đi hai xe tức là hai lượt gửi. Quy tắc nên thống nhất ngay: đi chung thì tính vào quỹ chung, ai đi riêng thì tự trả. Lấy xe ra là ghi sổ luôn, đừng để tối về mới nhớ, vì khoản nhỏ dồn lại thì chẳng ai nhớ nổi đã gửi mấy lần.
 
-Muốn bớt cả tiền gửi lẫn việc loay hoay tìm chỗ đậu, bạn có thể tính trước những ngày để xe nằm yên và đi bằng cách khác. Bài [ngày nào nên để xe nghỉ trong tuần thuê](/thue-xe/2026/10/11/tuan-thue-xe-may-ngay-nao-nen-e-xe-nghi-va-i-bang-cach-khac/) gợi ý cách chọn những ngày đó.
+Muốn bớt cả tiền gửi lẫn việc loay hoay tìm chỗ đậu, bạn có thể tính trước những ngày để xe nằm yên và đi bằng cách khác. Bài [ngày nào nên để xe nghỉ trong tuần thuê](/thue-xe/2026/10/11/tuan-thue-xe-may-ngay-nao-nen-de-xe-nghi-va-di-bang-cach-khac/) gợi ý cách chọn những ngày đó.
 
 ## Phát sinh giữa tuần: ai làm người đó chịu
 

@@ -59,7 +59,7 @@ Thông tin về từng chùa, từ giờ mở cửa tới lối vào, có thể 
 - **Chiều**: chùa Trấn Quốc rồi chùa Kim Liên, chạy chậm theo đường ven hồ.
 - **Trước tối**: quay về trả xe trong giờ cửa hàng hoạt động, hỏi rõ giờ trả khi nhận xe.
 
-Nên xếp tối đa ba hoặc bốn chùa cho một ngày. Chạy vội cho đủ số chùa thì chẳng còn bụng dạ nào mà khấn. Nếu thích một chuyến lễ xa phố hơn vào ngày khác, bạn có thể tham khảo kinh nghiệm [đi chùa Tây Phương trong ngày](/thue-xe/2026/09/30/thue-xe-may-mot-ngay-i-chua-tay-phuong/).
+Nên xếp tối đa ba hoặc bốn chùa cho một ngày. Chạy vội cho đủ số chùa thì chẳng còn bụng dạ nào mà khấn. Nếu thích một chuyến lễ xa phố hơn vào ngày khác, bạn có thể tham khảo kinh nghiệm [đi chùa Tây Phương trong ngày](/thue-xe/2026/09/30/thue-xe-may-mot-ngay-di-chua-tay-phuong/).
 
 ## Gửi xe quanh chùa ngày rằm, mùng một
 

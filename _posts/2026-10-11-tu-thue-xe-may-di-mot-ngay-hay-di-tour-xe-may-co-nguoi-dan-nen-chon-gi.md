@@ -38,7 +38,7 @@ Tự lái gồm tiền thuê xe, xăng, gửi xe và ăn uống do bạn tự ch
 
 Vì vậy đừng đặt giá thuê xe cạnh giá tour rồi kết luận ngay. Hãy hỏi đơn vị tour "đã gồm gì, chưa gồm gì", rồi cộng mọi khoản của cả hai cách cho cùng một ngày và chia theo đầu người. Con số cuối cùng mới là thứ đáng so.
 
-Còn một khoản ẩn mà ít ai tính: thời gian. Chạy lạc, hoặc xếp lịch quá xa so với sức mình, sẽ ngốn đúng cái mà một ngày vốn đã ngắn. Muốn biết lịch trình tự đi có vừa sức hay không, bạn có thể xem [một ngày chạy xa tới đâu thì vừa](/thue-xe/2026/09/27/thue-xe-may-mot-ngay-i-uoc-bao-nhieu-km/).
+Còn một khoản ẩn mà ít ai tính: thời gian. Chạy lạc, hoặc xếp lịch quá xa so với sức mình, sẽ ngốn đúng cái mà một ngày vốn đã ngắn. Muốn biết lịch trình tự đi có vừa sức hay không, bạn có thể xem [một ngày chạy xa tới đâu thì vừa](/thue-xe/2026/09/27/thue-xe-may-mot-ngay-di-duoc-bao-nhieu-km/).
 
 ## Kinh nghiệm lái: thước đo trung thực nhất
 

@@ -37,7 +37,7 @@ Bạn nên nghĩ đến kim phun khi có từ hai dấu hiệu trở lên xuất
 
 Hụt ga, hao xăng và nổ không đều là "bệnh chung" của khá nhiều bộ phận. Trước khi bỏ tiền súc kim phun, hãy nhờ thợ loại trừ những nguyên nhân đơn giản hơn.
 
-Bugi mòn hoặc bẩn làm đánh lửa yếu, xe giật và tốn xăng. Chuyện có nên tự làm hay giao thợ được phân tích trong bài về [vệ sinh bugi định kỳ tại nhà](/xe-may/2026/10/05/ve-sinh-bugi-xe-may-inh-ky-tai-nha-uoc-khong/). Lọc gió bí khiến máy hít thiếu khí, xe nặng nề và ì, bạn có thể đối chiếu với bài về [dấu hiệu lọc gió bẩn khi đi xe](/xe-may/2026/10/11/loc-gio-xe-may-ban-dau-hieu-khi-i-xe-va-luc-nao-can-ve-sinh-hay-thay/). Ngoài ra còn có ắc quy yếu, cảm biến trục trặc, bơm xăng hoặc lọc xăng xuống cấp, tùy dòng xe.
+Bugi mòn hoặc bẩn làm đánh lửa yếu, xe giật và tốn xăng. Chuyện có nên tự làm hay giao thợ được phân tích trong bài về [vệ sinh bugi định kỳ tại nhà](/xe-may/2026/10/05/ve-sinh-bugi-xe-may-dinh-ky-tai-nha-duoc-khong/). Lọc gió bí khiến máy hít thiếu khí, xe nặng nề và ì, bạn có thể đối chiếu với bài về [dấu hiệu lọc gió bẩn khi đi xe](/xe-may/2026/10/11/loc-gio-xe-may-ban-dau-hieu-khi-di-xe-va-luc-nao-can-ve-sinh-hay-thay/). Ngoài ra còn có ắc quy yếu, cảm biến trục trặc, bơm xăng hoặc lọc xăng xuống cấp, tùy dòng xe.
 
 Hình dung chiều tan tầm, xe nhích từng chút trên cầu Chương Dương, máy nóng, dừng rồi đi liên tục. Bạn thấy xe nặng và ì, nhưng phần lớn là hệ quả của nhiệt độ và kẹt xe chứ chưa chắc kim phun bẩn. Còn chuyện để máy nổ chờ lâu có tốn xăng không, bạn xem thêm trong bài [xe thuê rét máy lâu có hao xăng không](/xe-may/2026/10/09/xe-thue-ret-may-lau-co-hao-xang-khong/).
 

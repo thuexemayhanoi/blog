@@ -83,6 +83,6 @@ Phản xạ chỉ có khi lặp lại đủ nhiều. Vài cách đơn giản đ�
 - **Tập ở ngã tư ít xe trước.** Khi nhịp nhìn đã quen tay, mang nó vào ngã tư đông sẽ nhẹ nhàng hơn.
 - **Tự chấm điểm.** Qua mỗi ngã tư, hỏi mình đã nhìn trước khi nhấc ga chưa.
 
-Nếu bạn đang chạy một chiếc xe mới thuê, ga và phanh có thể nhạy hơn xe quen. Hãy [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-uong/) để tay không lúng túng đúng lúc cần nhìn. Khách thuê tại Thuê Xe Máy Hà Nội Nguyễn Tú cũng có thể hỏi thêm cách làm quen xe trước khi ra phố đông.
+Nếu bạn đang chạy một chiếc xe mới thuê, ga và phanh có thể nhạy hơn xe quen. Hãy [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-duong/) để tay không lúng túng đúng lúc cần nhìn. Khách thuê tại Thuê Xe Máy Hà Nội Nguyễn Tú cũng có thể hỏi thêm cách làm quen xe trước khi ra phố đông.
 
 Lần tới dừng đèn đỏ, hãy thử nhẩm "trái, phải, đi" ngay từ ngã tư đầu tiên. Muốn đọc nối tiếp, bạn có thể xem các bài trong nhóm [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) hoặc quay về [trang tổng hợp kỹ năng lái xe](/ky-nang/).

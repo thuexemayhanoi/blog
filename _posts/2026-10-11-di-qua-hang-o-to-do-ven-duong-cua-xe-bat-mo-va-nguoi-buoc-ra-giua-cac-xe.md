@@ -42,7 +42,7 @@ Một quy tắc dễ nhớ: đi cách thân xe đỗ ít nhất bằng độ m�
 
 Nhiều người đi sát xe đỗ ven đường vì thấy như vậy tránh xa dòng xe chạy. Thực ra đó là đổi nguy cơ này lấy nguy cơ khác, và nguy cơ sát thân xe lại khó thấy trước hơn. Nếu lòng đường đủ rộng, cứ nhích ra xa hàng xe đỗ. Nếu không đủ chỗ để vừa giữ khoảng cách này vừa tránh xe ngược chiều, vấn đề không nằm ở chuyện lách khéo mà ở chỗ bạn cần chậm lại.
 
-Trên đường nhiều làn, hãy rời dải sát xe đỗ từ sớm, trước khi tới hàng xe, thay vì né vào phút chót. Nhịp dịch ra cho mượt có trong bài [chuyển làn đúng cách trên đường nhiều làn xe máy](/ky-nang/2026/10/04/chuyen-lan-ung-cach-tren-uong-nhieu-lan-xe-may/).
+Trên đường nhiều làn, hãy rời dải sát xe đỗ từ sớm, trước khi tới hàng xe, thay vì né vào phút chót. Nhịp dịch ra cho mượt có trong bài [chuyển làn đúng cách trên đường nhiều làn xe máy](/ky-nang/2026/10/04/chuyen-lan-dung-cach-tren-duong-nhieu-lan-xe-may/).
 
 ## Tốc độ khi lướt qua: đủ chậm để dừng trong tầm nhìn
 
@@ -55,7 +55,7 @@ Vài thói quen nhỏ giúp phép thử này dễ đạt hơn:
 - Bóp một tiếng còi ngắn khi thấy bóng người ngồi trong xe, như lời báo "có xe máy đang tới".
 - Giảm tốc trước khe hở giữa hai xe đỗ, đừng đợi người bước ra mới giảm.
 
-Nếu đang chạy xe mới thuê, cảm giác phanh có thể khác xe quen tay, nên hãy xem bài [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-uong/) để thử phanh ở chỗ vắng trước khi vào phố đông.
+Nếu đang chạy xe mới thuê, cảm giác phanh có thể khác xe quen tay, nên hãy xem bài [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-duong/) để thử phanh ở chỗ vắng trước khi vào phố đông.
 
 ## Đọc dấu hiệu bằng ánh mắt trước khi tới gần
 

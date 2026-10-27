@@ -60,7 +60,7 @@ Khăn ẩm lau yên, tay lái, gương và đèn biển số là đủ cho phầ
 
 Câu trả lời ngắn là không nên, và với xe thuê thì càng không. Những việc dưới đây trông gọn nhưng đều nên để thợ hoặc cửa hàng quyết định:
 
-- **Phanh:** chỉnh, thay má hoặc bố, châm dầu. Đây là hệ thống an toàn trực tiếp, làm sai thì hậu quả xảy ra đúng lúc bạn cần phanh nhất. Bạn chỉ nên quan sát theo hướng dẫn trong bài [kiểm tra phanh đĩa và phanh bố](/xe-may/2026/09/27/phanh-xe-may-ia-va-bo-kiem-tra-the-nao/).
+- **Phanh:** chỉnh, thay má hoặc bố, châm dầu. Đây là hệ thống an toàn trực tiếp, làm sai thì hậu quả xảy ra đúng lúc bạn cần phanh nhất. Bạn chỉ nên quan sát theo hướng dẫn trong bài [kiểm tra phanh đĩa và phanh bố](/xe-may/2026/09/27/phanh-xe-may-dia-va-bo-kiem-tra-the-nao/).
 
 - **Truyền động:** xích, nhông, dây curoa, bi nồi. Siết, chỉnh hay thay đều cần đồ nghề và kinh nghiệm; tùy dòng xe, hãy xem sách hướng dẫn hoặc hỏi thợ.
 

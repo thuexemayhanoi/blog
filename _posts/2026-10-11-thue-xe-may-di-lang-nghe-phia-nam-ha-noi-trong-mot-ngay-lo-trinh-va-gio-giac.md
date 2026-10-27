@@ -20,7 +20,7 @@ Bạn muốn tự tay chọn một chiếc nón lá, một tấm tranh thêu hay
 
 Làng Chuông thuộc vùng Thanh Oai, nơi người dân vẫn chằm nón lá bằng tay: lá được ủi phẳng, xếp lên khung tre rồi khâu từng mũi chỉ. Hai làng còn lại nằm ở Thường Tín. Quất Động nổi tiếng với nghề thêu, còn Hạ Thái giữ nghề sơn mài, nơi một món đồ phải qua nhiều lớp sơn, chờ khô rồi mài nhẵn mới có mặt bóng.
 
-Ba nghề khác nhau nhưng cùng nằm về một hướng, nên gom vào một ngày là hợp lý. Vì các làng không sát nhau, bạn cần xe riêng để dừng đâu cũng được, rẽ vào ngõ nhỏ chụp một góc sân phơi lá hay một dãy khung thêu. Nếu từng đi [chuyến Làng gốm Bát Tràng](/thue-xe/2026/10/07/thue-xe-may-mot-ngay-i-lang-gom-bat-trang/), bạn sẽ thấy vòng này dài hơn và rải hơn, nên giờ giấc quan trọng hơn hẳn.
+Ba nghề khác nhau nhưng cùng nằm về một hướng, nên gom vào một ngày là hợp lý. Vì các làng không sát nhau, bạn cần xe riêng để dừng đâu cũng được, rẽ vào ngõ nhỏ chụp một góc sân phơi lá hay một dãy khung thêu. Nếu từng đi [chuyến Làng gốm Bát Tràng](/thue-xe/2026/10/07/thue-xe-may-mot-ngay-di-lang-gom-bat-trang/), bạn sẽ thấy vòng này dài hơn và rải hơn, nên giờ giấc quan trọng hơn hẳn.
 
 ## Sắp lộ trình theo khoảng cách và giờ thợ làm việc
 

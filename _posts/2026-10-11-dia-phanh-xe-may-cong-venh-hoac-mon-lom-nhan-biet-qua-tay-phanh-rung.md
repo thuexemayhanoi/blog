@@ -52,7 +52,7 @@ Tiếng rít kéo dài, đều đều, không theo nhịp thì thường liên q
 
 - **Lốp**: lốp mòn lệch, phồng hoặc bánh mất cân bằng làm cả đầu xe rung, kể cả khi không phanh, và thường tăng theo tốc độ.
 - **Vòng bi bánh**: bánh ù kéo dài, tay lái rơ. Nếu giống vậy, hãy đọc bài về [vòng bi bánh và cổ phuộc](/xe-may/2026/10/11/banh-xe-may-keu-u-hoac-tay-lai-ro-nghi-ngo-vong-bi-banh-va-co-phuoc/) để phân biệt.
-- **Má phanh bám bẩn hoặc mòn lệch**: phanh giật cục, như "ăn rồi nhả". Phần kiểm tra nằm trong bài [phanh đĩa và má phanh kiểm tra thế nào](/xe-may/2026/09/27/phanh-xe-may-ia-va-bo-kiem-tra-the-nao/).
+- **Má phanh bám bẩn hoặc mòn lệch**: phanh giật cục, như "ăn rồi nhả". Phần kiểm tra nằm trong bài [phanh đĩa và má phanh kiểm tra thế nào](/xe-may/2026/09/27/phanh-xe-may-dia-va-bo-kiem-tra-the-nao/).
 
 Quy tắc nhanh: rung chỉ khi phanh và đúng nhịp bánh thì nghi đĩa hoặc má phanh; rung cả lúc không phanh thì nghĩ tới lốp và vòng bi trước.
 

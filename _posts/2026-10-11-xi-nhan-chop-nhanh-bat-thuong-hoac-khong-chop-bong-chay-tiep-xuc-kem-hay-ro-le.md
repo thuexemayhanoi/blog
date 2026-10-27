@@ -40,7 +40,7 @@ Nếu cả hai bên đều không chớp, bóng cháy không còn là nghi phạ
 
 **Cầu chì.** Đây là bộ phận bảo vệ mạch điện. Cầu chì đứt thì cả nhánh mất điện, đèn không sáng chút nào. Nếu thay cầu chì mà nó lại đứt tiếp, mạch có thể đang chập, hãy dừng ở đó và nhờ thợ.
 
-**Công tắc và nguồn điện.** Cần gạt dùng lâu bị mòn tiếp điểm, cảm giác gạt không còn dứt khoát. Ắc quy yếu hay dây tiếp mát lỏng làm nhịp chớp chậm, mờ, thất thường. Xe nằm lâu không chạy dễ gặp tình trạng này, và bài [kiểm tra trước khi nổ máy khi xe để lâu](/xe-may/2026/10/10/xe-may-e-lau-khong-chay-kiem-tra-truoc-khi-no-may/) gợi ý những thứ nên nhìn qua trước khi lên đường.
+**Công tắc và nguồn điện.** Cần gạt dùng lâu bị mòn tiếp điểm, cảm giác gạt không còn dứt khoát. Ắc quy yếu hay dây tiếp mát lỏng làm nhịp chớp chậm, mờ, thất thường. Xe nằm lâu không chạy dễ gặp tình trạng này, và bài [kiểm tra trước khi nổ máy khi xe để lâu](/xe-may/2026/10/10/xe-may-de-lau-khong-chay-kiem-tra-truoc-khi-no-may/) gợi ý những thứ nên nhìn qua trước khi lên đường.
 
 ## Rơ le xi nhan xe máy làm gì và khi nào mới nghi ngờ nó
 

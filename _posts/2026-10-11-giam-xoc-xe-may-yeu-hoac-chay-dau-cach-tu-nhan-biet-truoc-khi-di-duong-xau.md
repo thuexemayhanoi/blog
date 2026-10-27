@@ -62,7 +62,7 @@ Bước ba, thử với tải thật. Giả sử cuối tuần bạn thuê xe �
 
 Với phanh, tác hại rõ nhất xuất hiện khi bạn bóp phanh gấp. Phuộc trước yếu nén gần hết một lần, đầu xe chúi sâu rồi dội ngược lên, khiến xe mất ổn định đúng lúc cần dừng. Trên mặt đường xóc như những đoạn đê vá chằng chịt, bánh trước còn có thể nảy khỏi mặt đường giữa chừng, nên quãng dừng thường dài hơn bạn tưởng.
 
-Nặng hơn nữa, nếu dầu rỉ bám tới đĩa hoặc má phanh thì lực phanh có thể giảm đột ngột. Dầu phanh là hệ thống khác hẳn dầu phuộc, bạn có thể đọc thêm [cách kiểm tra dầu phanh khi nhận xe thuê](/xe-may/2026/10/09/kiem-tra-dau-phanh-xe-thue-truoc-khi-i-eo/) để phân biệt hai loại dầu này.
+Nặng hơn nữa, nếu dầu rỉ bám tới đĩa hoặc má phanh thì lực phanh có thể giảm đột ngột. Dầu phanh là hệ thống khác hẳn dầu phuộc, bạn có thể đọc thêm [cách kiểm tra dầu phanh khi nhận xe thuê](/xe-may/2026/10/09/kiem-tra-dau-phanh-xe-thue-truoc-khi-di-deo/) để phân biệt hai loại dầu này.
 
 Với tay lái, phuộc hai bên không đồng đều khiến tay lái nặng, có xu hướng kéo lệch và rung khi qua ổ gà. Phuộc sau yếu thì đuôi xe nảy ngang khi qua gờ, người ngồi sau xóc mạnh, còn người lái có cảm giác xe "bơi" mỗi khi vào cua.
 
