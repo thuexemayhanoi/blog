@@ -191,6 +191,19 @@ class OperatorQATest(unittest.TestCase):
             self.assertIn(v, op.APPROVED_AMOUNTS)
         self.assertNotIn(50000, op.APPROVED_AMOUNTS)
 
+    def test_approved_deposits_whitelisted_as_listed(self):
+        # Cọc đã duyệt (approved_pricing.*.deposit) được nêu được: mức đơn và hai đầu khoảng; mức giữa khoảng thì không.
+        pricing = dict(BIZ['approved_pricing'])
+        pricing['Honda Wave'] = dict(pricing['Honda Wave'], deposit='2000000 - 3000000')
+        pricing['Honda Air Blade'] = {'day': 200000, 'week': 1000000, 'month': 1500000, 'deposit': 3000000}
+        pricing['Xe máy điện'] = {'day': None, 'week': None, 'month': None, 'deposit': 'Xác nhận theo mẫu xe'}
+        op.APPROVED_AMOUNTS.clear()
+        op.build_amount_whitelist(dict(BIZ, approved_pricing=pricing))
+        for v in (2000000, 3000000):
+            self.assertIn(v, op.APPROVED_AMOUNTS)
+        self.assertNotIn(2500000, op.APPROVED_AMOUNTS)
+        self.assertNotIn(4000000, op.APPROVED_AMOUNTS)
+
     def test_verified_legal_amount_only_in_fine_sentence_of_a_citing_post(self):
         # Mức phạt đã đối chiếu văn bản (verified_legal_amounts) KHÔNG phải số liệu kinh doanh: chỉ được chấp nhận trong
         # câu nói về mức phạt của bài có trích đúng văn bản; giá thuê/phí không bao giờ hợp thức hóa qua đường này.

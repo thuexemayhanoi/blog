@@ -367,6 +367,16 @@ def build_amount_whitelist(biz):
                         APPROVED_AMOUNTS.add(n)
                 except ValueError:
                     pass
+        # Tiền cọc đã duyệt theo dòng xe: mức đơn hoặc hai đầu khoảng (không rải bước 50.000 như giá thuê);
+        # chuỗi không phải số ("Xác nhận theo mẫu xe") bị bỏ qua.
+        dep = rates.get('deposit')
+        if isinstance(dep, int) and not isinstance(dep, bool):
+            APPROVED_AMOUNTS.add(dep)
+        elif isinstance(dep, str) and '-' in dep:
+            try:
+                APPROVED_AMOUNTS.update(int(x) for x in dep.split('-'))
+            except ValueError:
+                pass
     # thêm số 0 và các mốc phạm vi lề cho an toàn hiển thị
     APPROVED_AMOUNTS.add(0)
     LEGAL_AMOUNTS.clear()
