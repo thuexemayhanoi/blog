@@ -34,7 +34,7 @@ Mức che xích khác nhau theo từng xe, nên bài này không khẳng định
 
 Giặt sạch được thì chỉ mất công. Điều đáng ngại hơn là phần vải thừa ở gần bộ phận đang quay. Báo chí từng cảnh báo các vụ ngã khi váy chống nắng, vạt áo dài hoặc áo mưa bị cuốn vào bánh xe máy. Ống quần thùng thình, gấu rách hay tua rua gần xích và bánh sau cũng cùng nguyên lý.
 
-Vì thế xắn và kẹp ống quần trước hết là chuyện an toàn, đỡ bẩn chỉ là phần thưởng đi kèm. Với áo mưa và váy, xem bài [áo mưa, ống quần và váy dễ vướng pô, xích khi đi xe số](/xe-may/2026/10/11/ao-mua-ong-quan-va-vay-de-vuong-po-xich-khi-i-xe-so-cach-xu-ly/); bài này nói về ống quần của người đi làm.
+Vì thế xắn và kẹp ống quần trước hết là chuyện an toàn, đỡ bẩn chỉ là phần thưởng đi kèm. Với áo mưa và váy, xem bài [áo mưa, ống quần và váy dễ vướng pô, xích khi đi xe số](/xe-may/2026/10/11/ao-mua-ong-quan-va-vay-de-vuong-po-xich-khi-di-xe-so-cach-xu-ly/); bài này nói về ống quần của người đi làm.
 
 ## Xắn và kẹp ống quần trước khi lên xe
 
@@ -51,7 +51,7 @@ Quần ống đứng hoặc ôm vừa phải thường gọn hơn ống loe hay 
 
 Khi lên xe, nhấc chân qua yên đủ cao, một tay giữ tay lái, không kéo lê gấu quần xuống thân xe. Khi xuống, dừng hẳn, đặt một chân xuống đất vững rồi mới rút chân kia, đừng nhảy xuống kiểu quệt chân dọc thân xe.
 
-Ống xả cũng nằm sát một bên thân xe và rất nóng. Vì vậy đừng đổi phía lên xuống chỉ để tránh vết dầu, tránh bỏng quan trọng hơn tránh vết bẩn; cách lên xuống an toàn có trong bài [bỏng ống xả khi đi xe số](/xe-may/2026/10/11/bong-ong-xa-khi-i-xe-so-cach-len-xuong-xe-va-trang-phuc-e-tranh/).
+Ống xả cũng nằm sát một bên thân xe và rất nóng. Vì vậy đừng đổi phía lên xuống chỉ để tránh vết dầu, tránh bỏng quan trọng hơn tránh vết bẩn; cách lên xuống an toàn có trong bài [bỏng ống xả khi đi xe số](/xe-may/2026/10/11/bong-ong-xa-khi-di-xe-so-cach-len-xuong-xe-va-trang-phuc-de-tranh/).
 
 Khi dắt xe qua ngõ nhỏ quanh khu Bồ Đề, hầm gửi xe chung cư hay đoạn đông người ở phố cổ Hoàn Kiếm, chân dễ lướt qua xích nhiều lần. Xắn gấu quần trước khi dắt và đi chậm.
 

@@ -58,7 +58,7 @@ Nếu chỉ có hai tiếng, bỏ bước một và dành thời gian cho hồ v
 
 ## Gửi xe ở đâu cho đúng
 
-Chúng tôi chưa tìm được danh sách chính thức các điểm trông giữ xe quanh hồ, cổng công viên hay đền. Nguyên tắc là gửi ở điểm trông giữ có biển, có vé, và không đỗ xe tùy tiện. Luật Trật tự, an toàn giao thông đường bộ 2024, Điều 18, cấm dừng, đỗ xe trên phần đường dành cho người đi bộ qua đường, trong phạm vi 5 m tính từ mép đường giao nhau, tại điểm đón trả khách của xe buýt, và trên lòng đường, vỉa hè trái quy định. Gợi ý thêm về chỗ gửi xe có ở bài [đến Hồ Thiền Quang bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/30/en-ho-thien-quang-bang-xe-may-gui-xe-va-uong-i/ "Đến Hồ Thiền Quang bằng xe máy").
+Chúng tôi chưa tìm được danh sách chính thức các điểm trông giữ xe quanh hồ, cổng công viên hay đền. Nguyên tắc là gửi ở điểm trông giữ có biển, có vé, và không đỗ xe tùy tiện. Luật Trật tự, an toàn giao thông đường bộ 2024, Điều 18, cấm dừng, đỗ xe trên phần đường dành cho người đi bộ qua đường, trong phạm vi 5 m tính từ mép đường giao nhau, tại điểm đón trả khách của xe buýt, và trên lòng đường, vỉa hè trái quy định. Gợi ý thêm về chỗ gửi xe có ở bài [đến Hồ Thiền Quang bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/30/den-ho-thien-quang-bang-xe-may-gui-xe-va-duong-di/ "Đến Hồ Thiền Quang bằng xe máy").
 
 Trên bảng giá của Cho Thuê Xe Máy Nguyễn Tú, Honda Vision và Honda Air Blade có giá ngày 200.000 đồng, Honda Wave và Honda Click có giá ngày 150.000 đồng; giá xe 50cc chưa có trên bảng giá công khai nên bạn liên hệ cửa hàng để kiểm tra, tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần, điện thoại và Zalo 0942 467 674.
 

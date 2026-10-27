@@ -56,7 +56,7 @@ Hãy chọn một điểm gửi xe ngoài vòng khu vực 1, gần hướng bạ
 2. Hỏi người trông xe giờ đóng bãi, chụp ảnh vé và biển tên phố.
 3. Sắp các quán thành vòng khép kín: món mặn trước, chè và đồ ngọt cuối vòng, gần bãi xe.
 
-Ban ngày các ngày trong tuần, khi không có giờ cấm, đi xe giữa hai điểm cách xa nhau vẫn hợp lý, miễn mỗi chặng là một lần gửi xe có vé chứ không đỗ tạm trước cửa quán. Muốn gửi tới khuya, xem thêm bài [gửi xe qua đêm ở phố cổ Hà Nội](/ky-nang/2026/09/30/gui-xe-qua-em-o-pho-co-ha-noi-gia-va-luu-y/ "Gửi xe qua đêm ở phố cổ Hà Nội").
+Ban ngày các ngày trong tuần, khi không có giờ cấm, đi xe giữa hai điểm cách xa nhau vẫn hợp lý, miễn mỗi chặng là một lần gửi xe có vé chứ không đỗ tạm trước cửa quán. Muốn gửi tới khuya, xem thêm bài [gửi xe qua đêm ở phố cổ Hà Nội](/ky-nang/2026/09/30/gui-xe-qua-dem-o-pho-co-ha-noi-gia-va-luu-y/ "Gửi xe qua đêm ở phố cổ Hà Nội").
 
 ## Giữ xe và đồ khi mải ăn
 

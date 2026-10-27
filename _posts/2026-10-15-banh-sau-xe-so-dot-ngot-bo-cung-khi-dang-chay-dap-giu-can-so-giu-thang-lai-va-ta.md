@@ -21,7 +21,7 @@ Xe số bị bó máy là cách nhiều người gọi một tình huống hiế
 
 "Bó máy" là cách gọi dân gian, thường chỉ động cơ bị kẹt cứng, hay gặp khi thiếu nhớt hoặc quá nhiệt theo các trang xe máy và sách hướng dẫn lái xe tìm được. Khi động cơ kẹt, người lái thấy như bánh sau bị khóa. Nhưng chữ "bó" còn dùng cho chuyện khác có cảm giác tương tự: má phanh sau bị kẹt, xích hoặc nhông bị kẹt, ổ bi bánh hỏng. Ngoài đường không ai phân biệt được các khả năng này, nên bài không khẳng định nguyên nhân và không quy lỗi cho người thuê hay cho xe.
 
-Bài cũng không bàn hai tình huống khác: bánh sau khóa vì chính bạn đạp phanh sau quá tay, xem [phanh chân sau và phanh tay trước trên xe số](/xe-may/2026/10/14/phanh-chan-sau-va-phanh-tay-truoc-tren-xe-so-phoi-hop-the-nao-khi-phai-dung-gap/); và bánh sau giật khi về số gấp trên đường ướt, xem [giảm số trên đường ướt](/xe-may/2026/10/11/giam-so-tren-uong-uot-vi-sao-banh-sau-de-giat-va-cach-giam-cho-muot/).
+Bài cũng không bàn hai tình huống khác: bánh sau khóa vì chính bạn đạp phanh sau quá tay, xem [phanh chân sau và phanh tay trước trên xe số](/xe-may/2026/10/14/phanh-chan-sau-va-phanh-tay-truoc-tren-xe-so-phoi-hop-the-nao-khi-phai-dung-gap/); và bánh sau giật khi về số gấp trên đường ướt, xem [giảm số trên đường ướt](/xe-may/2026/10/11/giam-so-tren-duong-uot-vi-sao-banh-sau-de-giat-va-cach-giam-cho-muot/).
 
 ## Dấu hiệu báo trước: dừng sớm tốt hơn chờ bánh cứng
 

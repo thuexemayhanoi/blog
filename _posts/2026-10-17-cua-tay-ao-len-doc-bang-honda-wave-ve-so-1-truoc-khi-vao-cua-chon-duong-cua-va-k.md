@@ -54,7 +54,7 @@ Tài liệu của Honda hướng dẫn dắt xe khi tắt máy: giữ xe thẳng
 
 ## Xuống cua tay áo
 
-Lúc xuống, sách hướng dẫn Wave dặn tránh phanh liên tục trên dốc dài vì phanh có thể quá nóng; nên dùng phanh động cơ kết hợp phanh ngắt quãng, và về số thấp để chạy chậm hơn. Về số trước khúc cua, không phải giữa cua. Kinh nghiệm vào số trên đèo Mộc Châu có ở bài [đèo dốc trên đường Mộc Châu và cách vào số](/cung-duong/2026/09/28/eo-doc-tren-uong-moc-chau-va-cach-vao-so/ "Đèo dốc trên đường Mộc Châu").
+Lúc xuống, sách hướng dẫn Wave dặn tránh phanh liên tục trên dốc dài vì phanh có thể quá nóng; nên dùng phanh động cơ kết hợp phanh ngắt quãng, và về số thấp để chạy chậm hơn. Về số trước khúc cua, không phải giữa cua. Kinh nghiệm vào số trên đèo Mộc Châu có ở bài [đèo dốc trên đường Mộc Châu và cách vào số](/cung-duong/2026/09/28/deo-doc-tren-duong-moc-chau-va-cach-vao-so/ "Đèo dốc trên đường Mộc Châu").
 
 Một lưu ý về địa danh: từ 1/7/2025, Hà Giang nhập vào tỉnh Tuyên Quang, Yên Bái nhập vào tỉnh Lào Cai, nên Mã Pí Lèng nay thuộc Tuyên Quang, Khau Phạ thuộc Lào Cai.
 

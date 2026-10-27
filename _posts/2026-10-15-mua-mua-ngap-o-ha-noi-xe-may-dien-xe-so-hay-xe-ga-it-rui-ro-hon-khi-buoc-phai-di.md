@@ -38,7 +38,7 @@ Vì thế, xe ít rủi ro hơn thường là xe bạn đã quen tay, không ph�
 
 Có người cho rằng xe điện không có ống xả nên không sợ nước. Có người lại tin xe điện hễ gặp nước là hỏng. Cả hai đều là suy đoán chung chung. Điều chắc chắn chỉ có một: xe điện có bộ phận điện như pin, bộ điều khiển và ổ sạc, và mỗi dòng xe có hướng dẫn riêng của nhà sản xuất về việc đi mưa, đi nước. Bài này không đưa mức nước an toàn cho dòng xe nào, vì không con số nào đáng tin nếu không có tài liệu của đúng chiếc xe bạn cầm lái.
 
-Khi thuê xe điện trong mùa ngập, hãy hỏi tiệm hướng dẫn đi mưa của đúng chiếc xe đó và đừng tự mở pin hay hộp điện. Xe ướt thì đừng sạc ngay khi ổ sạc còn ẩm; bài [sạc pin xe máy điện ở trạm công cộng](/xe-may/2026/10/10/sac-pin-xe-may-ien-o-tram-cong-cong-luu-y-an-toan/) cũng nhắc tránh cắm sạc ở nơi nước đọng. Tổng quan các dòng này có ở mục [xe máy điện](/xe-may/xe-dien/).
+Khi thuê xe điện trong mùa ngập, hãy hỏi tiệm hướng dẫn đi mưa của đúng chiếc xe đó và đừng tự mở pin hay hộp điện. Xe ướt thì đừng sạc ngay khi ổ sạc còn ẩm; bài [sạc pin xe máy điện ở trạm công cộng](/xe-may/2026/10/10/sac-pin-xe-may-dien-o-tram-cong-cong-luu-y-an-toan/) cũng nhắc tránh cắm sạc ở nơi nước đọng. Tổng quan các dòng này có ở mục [xe máy điện](/xe-may/xe-dien/).
 
 ## Dấu hiệu nên quay đầu khi gặp đoạn nước
 
@@ -68,7 +68,7 @@ Thay vì tìm dòng xe "không sợ ngập", hãy mang ba câu hỏi khi đến 
 - **Nếu xe bị nước vào trong lúc tôi đi, quy định ra sao?** Hỏi trực tiếp, rồi nhắn lại bằng tin nhắn để hai bên cùng có bằng chứng; đừng tự suy ra là có hay không có đền bù.
 - **Xe điện có hướng dẫn đi mưa và sạc khi ẩm không?** Nếu chưa rõ, chọn xe xăng quen tay thay vì liều.
 
-Hãy nhìn kỹ hai bánh trước chuyến thuê theo bài [độ mòn lốp xe máy: kiểm tra trước mùa mưa](/xe-may/2026/10/10/o-mon-lop-xe-may-kiem-tra-truoc-mua-mua/). Nếu cần giao xe, thời gian và chi phí giao nhận phải xác nhận trước, và tiệm chỉ giao trong giờ hoạt động 09:00 đến 21:00. Ngày có cảnh báo mưa lớn hoặc ngập từ cơ quan có thẩm quyền, hãy cân nhắc hoãn chuyến thay vì cố đi cho kịp lịch.
+Hãy nhìn kỹ hai bánh trước chuyến thuê theo bài [độ mòn lốp xe máy: kiểm tra trước mùa mưa](/xe-may/2026/10/10/do-mon-lop-xe-may-kiem-tra-truoc-mua-mua/). Nếu cần giao xe, thời gian và chi phí giao nhận phải xác nhận trước, và tiệm chỉ giao trong giờ hoạt động 09:00 đến 21:00. Ngày có cảnh báo mưa lớn hoặc ngập từ cơ quan có thẩm quyền, hãy cân nhắc hoãn chuyến thay vì cố đi cho kịp lịch.
 
 ## Kết lại
 

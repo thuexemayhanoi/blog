@@ -58,7 +58,7 @@ Trên đò, hãy:
 - Ngồi ổn định ở chỗ được chỉ, không đứng giữa xe và mép đò.
 - Mặc áo phao suốt chuyến, kể cả khi quãng sông rất ngắn.
 
-Với phà chở xe trên sông lớn, Luật Trật tự, an toàn giao thông đường bộ 2024, Điều 23, quy định thứ tự xuống phà, lên bến và chỉ người lái được ở trên xe; cách làm ở các bến phà có ở bài [đi phà với xe máy thuê](/ky-nang/2026/10/04/i-pha-voi-xe-may-thue-thu-tuc-va-giu-xe-tren-pha/ "Đi phà với xe máy thuê").
+Với phà chở xe trên sông lớn, Luật Trật tự, an toàn giao thông đường bộ 2024, Điều 23, quy định thứ tự xuống phà, lên bến và chỉ người lái được ở trên xe; cách làm ở các bến phà có ở bài [đi phà với xe máy thuê](/ky-nang/2026/10/04/di-pha-voi-xe-may-thue-thu-tuc-va-giu-xe-tren-pha/ "Đi phà với xe máy thuê").
 
 ## Lên bờ dốc trơn bên kia
 

@@ -55,7 +55,7 @@ Ghi câu trả lời vào điện thoại. Trên xe VinFast dùng chìa cơ, dã
 
 ## Đừng cạy cốp, đừng tự kích pin
 
-Nếu cốp không mở được, đừng dùng tua vít cạy yên hay cố bẻ khóa cổ. Đừng tìm cách "kích" pin lithium bằng bình ắc quy khác như với xe xăng. Hướng dẫn VinFast còn nói bộ quản lý pin có thể từ chối phản hồi và cắt điện đầu ra để tự bảo vệ, nên can thiệp sai có thể làm hỏng thêm. Gọi chủ xe, nói rõ loại khóa, mức pin cuối cùng bạn thấy và màn hình hiện gì. Cách xử lý khi pin cạn giữa đường có ở bài [xe máy điện hết pin giữa đường](/xe-may/2026/10/10/xe-may-ien-het-pin-giua-uong-xu-ly-the-nao/ "Xe máy điện hết pin giữa đường"), còn khi bật khóa mà màn hình tối, xem bài [xe máy điện thuê bật khóa nhưng không lên nguồn](/hoi-dap/2026/10/16/xe-may-dien-thue-bat-khoa-nhung-khong-len-nguon-man-hinh-toi-den-kiem-tra-theo-t/ "Xe máy điện thuê bật khóa nhưng không lên nguồn").
+Nếu cốp không mở được, đừng dùng tua vít cạy yên hay cố bẻ khóa cổ. Đừng tìm cách "kích" pin lithium bằng bình ắc quy khác như với xe xăng. Hướng dẫn VinFast còn nói bộ quản lý pin có thể từ chối phản hồi và cắt điện đầu ra để tự bảo vệ, nên can thiệp sai có thể làm hỏng thêm. Gọi chủ xe, nói rõ loại khóa, mức pin cuối cùng bạn thấy và màn hình hiện gì. Cách xử lý khi pin cạn giữa đường có ở bài [xe máy điện hết pin giữa đường](/xe-may/2026/10/10/xe-may-dien-het-pin-giua-duong-xu-ly-the-nao/ "Xe máy điện hết pin giữa đường"), còn khi bật khóa mà màn hình tối, xem bài [xe máy điện thuê bật khóa nhưng không lên nguồn](/hoi-dap/2026/10/16/xe-may-dien-thue-bat-khoa-nhung-khong-len-nguon-man-hinh-toi-den-kiem-tra-theo-t/ "Xe máy điện thuê bật khóa nhưng không lên nguồn").
 
 ## Cất đồ thế nào để không bị kẹt
 

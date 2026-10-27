@@ -68,9 +68,9 @@ Theo hướng dẫn xe VinFast Evo, xe tự vào chế độ đỗ nếu đứng
 
 ## Thử tay ga trước khi đi
 
-Hướng dẫn VinFast có bước kiểm tra trước khi chạy: tắt xe, vặn rồi thả tay ga, xem tay ga có trơn và tự trả về vị trí ban đầu không. Làm việc này mỗi sáng chỉ mất vài giây. Nếu tay ga rít hoặc chậm trả về, báo cửa hàng trước khi lăn bánh. Trường hợp ngược lại, xe có nguồn mà vặn ga không chạy, xem bài [xe điện thuê bật nguồn nhưng không nhận tay ga](/thue-xe/2026/10/11/xe-ien-thue-bat-nguon-nhung-khong-nhan-tay-ga-cach-xu-ly-an-toan/ "Xe điện thuê bật nguồn nhưng không nhận tay ga").
+Hướng dẫn VinFast có bước kiểm tra trước khi chạy: tắt xe, vặn rồi thả tay ga, xem tay ga có trơn và tự trả về vị trí ban đầu không. Làm việc này mỗi sáng chỉ mất vài giây. Nếu tay ga rít hoặc chậm trả về, báo cửa hàng trước khi lăn bánh. Trường hợp ngược lại, xe có nguồn mà vặn ga không chạy, xem bài [xe điện thuê bật nguồn nhưng không nhận tay ga](/thue-xe/2026/10/11/xe-dien-thue-bat-nguon-nhung-khong-nhan-tay-ga-cach-xu-ly-an-toan/ "Xe điện thuê bật nguồn nhưng không nhận tay ga").
 
-Khi gọi chủ xe, nói rõ xe tự kéo lúc nào, ở tốc độ bao nhiêu, màn hình có biểu tượng gì hay mã lỗi nào, và trước đó xe có đi qua nước không. Ý nghĩa các biểu tượng có ở bài [đèn báo lỗi và biểu tượng trên đồng hồ xe máy điện](/xe-may/2026/10/11/en-bao-loi-va-bieu-tuong-tren-ong-ho-xe-may-ien-oc-the-nao/ "Đèn báo lỗi trên đồng hồ xe máy điện").
+Khi gọi chủ xe, nói rõ xe tự kéo lúc nào, ở tốc độ bao nhiêu, màn hình có biểu tượng gì hay mã lỗi nào, và trước đó xe có đi qua nước không. Ý nghĩa các biểu tượng có ở bài [đèn báo lỗi và biểu tượng trên đồng hồ xe máy điện](/xe-may/2026/10/11/den-bao-loi-va-bieu-tuong-tren-dong-ho-xe-may-dien-doc-the-nao/ "Đèn báo lỗi trên đồng hồ xe máy điện").
 
 Trên bảng giá của Cho Thuê Xe Máy Nguyễn Tú, Honda Vision và Honda Air Blade có giá ngày 200.000 đồng, Honda Wave và Honda Click có giá ngày 150.000 đồng; xe máy điện chưa có giá ngày cố định nên bạn liên hệ Nguyễn Tú để kiểm tra giá hiện tại, tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần, điện thoại và Zalo 0942 467 674.
 

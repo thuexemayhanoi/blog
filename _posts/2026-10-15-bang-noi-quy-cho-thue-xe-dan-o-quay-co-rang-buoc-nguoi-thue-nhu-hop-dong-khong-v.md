@@ -42,7 +42,7 @@ Vì vậy, "ràng buộc hay không" thường tùy bốn điểm ấy cùng ho�
 
 Bảng trên tường và tờ hợp đồng có thể nói khác nhau ở giờ trả, phụ thu hay cọc. Điều bạn đã ký tên thường là bằng chứng rõ hơn về điều bạn đồng ý, nên mục nào quan trọng mà chỉ nằm trên bảng, hãy nhờ ghi một dòng vào hợp đồng hoặc phiếu. Hợp đồng có câu "người thuê đã đọc và đồng ý nội quy" thì đọc nội quy trước khi ký câu đó.
 
-Hai nơi nói khác nhau thì hỏi thẳng nơi nào được áp dụng, rồi xin một tin nhắn xác nhận. Cách đọc từng mục hợp đồng có trong bài [đọc kỹ hợp đồng thuê xe máy](/thue-xe/2026/10/04/oc-ky-hop-ong-thue-xe-may-nhung-muc-nen-dung-lai/); tờ hợp đồng viết tay hoặc mới một bên ký thì xem thêm bài [hợp đồng thuê xe máy viết tay](/thue-xe/2026/10/15/hop-dong-thue-xe-may-viet-tay-khong-dong-dau-hoac-chi-mot-ben-ky-co-gia-tri-khon/).
+Hai nơi nói khác nhau thì hỏi thẳng nơi nào được áp dụng, rồi xin một tin nhắn xác nhận. Cách đọc từng mục hợp đồng có trong bài [đọc kỹ hợp đồng thuê xe máy](/thue-xe/2026/10/04/doc-ky-hop-dong-thue-xe-may-nhung-muc-nen-dung-lai/); tờ hợp đồng viết tay hoặc mới một bên ký thì xem thêm bài [hợp đồng thuê xe máy viết tay](/thue-xe/2026/10/15/hop-dong-thue-xe-may-viet-tay-khong-dong-dau-hoac-chi-mot-ben-ky-co-gia-tri-khon/).
 
 ## Những mục nên đọc kỹ trên bảng nội quy cho thuê xe máy
 

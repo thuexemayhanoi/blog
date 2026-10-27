@@ -17,7 +17,7 @@ writer_session: s-claude-w3
 
 Phanh sau xe số kêu két két mỗi lần đạp bàn đạp là tiếng khiến người thuê xe lo ngay: xe có hỏng không, có nguy hiểm không, có phải báo cửa hàng không. Bài này nói cách nghe, cách nhìn vạch chỉ thị mòn má phanh bằng mắt mà không tháo gì, và lúc nào nên dừng đi để gọi cửa hàng.
 
-Bài chỉ áp dụng nếu bánh sau dùng phanh tang trống, còn gọi là phanh đùm. Xe bạn cầm dùng kiểu phanh nào ở từng bánh thì nhìn trực tiếp hoặc hỏi cửa hàng; bài [nhận biết Wave Alpha hay Wave RSX qua phanh và vành](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-ang-thue-qua-phanh-va-vanh/) có cách nhìn. Đây là mô tả chung, không thay hướng dẫn của hãng và thợ. Người thuê chỉ nhìn và nghe, không tự tháo, siết hay chỉnh.
+Bài chỉ áp dụng nếu bánh sau dùng phanh tang trống, còn gọi là phanh đùm. Xe bạn cầm dùng kiểu phanh nào ở từng bánh thì nhìn trực tiếp hoặc hỏi cửa hàng; bài [nhận biết Wave Alpha hay Wave RSX qua phanh và vành](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-dang-thue-qua-phanh-va-vanh/) có cách nhìn. Đây là mô tả chung, không thay hướng dẫn của hãng và thợ. Người thuê chỉ nhìn và nghe, không tự tháo, siết hay chỉnh.
 
 ## Phanh sau xe số kêu két két: nghe cho đúng trước khi kết luận
 
