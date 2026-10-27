@@ -47,9 +47,46 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-04-chay-xe-doc-uong-vo-nguyen-giap-ven-song-hong-buoi-sang.md",
-  "content_sha256": "e96bb60fac7920bcd308ae010ec9be54835c571ad5495e5f8a98869da17f0277",
-  "matrix_row_sha256": "248791868e4ca0e926bf5e48c2ba9a5cf08af5522fdd7a2ec117f16bb91f5409",
+  "content_sha256": "395f2116a62387cdada472c50d69febb36205afd3d617571fb0d6f507eaa72c8",
+  "matrix_row_sha256": "79b5597d2f8235c73974c66d0cb5925a7e9c54a061f0d62c0d190be5c5af2282",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-04T08:55:48+00:00"
+  "published_at": "2026-10-04T08:55:48+00:00",
+  "reattestation": {
+    "schema": "reattestation/1",
+    "kind": "reviewed-post-publish-chain",
+    "classification": "REVIEWED_CHAIN_PROVEN",
+    "proof": "hash cu trong evidence buoc dung byte bai + hang matrix tai commit xuat ban; evidence khong doi tu do; moi commit cham vao bai sau do thuoc danh sach nguoi duyet ky (+ migration v3); cham lai doc lap byte hien tai",
+    "approval_ref": "chu-repo:chi-thi-2026-10-27-master-execution-finish-100-slug-migration-pricing/issue-77-nhom-B-va-00874 (session_01D88QamSe7ksLm1ZpE5Y7fT)",
+    "batch_id": "reattest-20261027-R17",
+    "rescored_at": "2026-10-27T14:50:45+00:00",
+    "baseline_commit": "1b55bd810aac85dc919eb2a43d71de30ad8d4595",
+    "previous_evidence_path": "data/qa/BLG-01279.json",
+    "previous_evidence_sha256": "cffc4f39c1f1cdd1d08eaeb4d244102822c3f1a46a75b373c739a7ccf5208c4e",
+    "previous_content_sha256": "e96bb60fac7920bcd308ae010ec9be54835c571ad5495e5f8a98869da17f0277",
+    "previous_matrix_row_sha256": "248791868e4ca0e926bf5e48c2ba9a5cf08af5522fdd7a2ec117f16bb91f5409",
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/reattest-legacy-qa.py",
+    "tool_commit": "2f2d20525663dc8bc0e28420a28cfa715d3527a3",
+    "tool_sha256": "b220c3d462ecd504d2be645d4d2c39b668fdd8cad5a98145e066132cd5fb3dc4",
+    "scorer_code_sha256": "e75668446d2abd25738e25f75c2790e0a2208bc96e1266103665b0366b729497",
+    "business_facts_sha256": "7725c6795ff9b6e9e2988f2d298f660e6d97ba11eee84f43473468c1ecd05b04",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); chat diem doc lap xay ra luc rescored_at",
+    "chain": {
+      "bound_commit": "6091d01ea5735539287c75a51b6827929327c412",
+      "bound_content_sha256": "e96bb60fac7920bcd308ae010ec9be54835c571ad5495e5f8a98869da17f0277",
+      "bound_matrix_sha256": "248791868e4ca0e926bf5e48c2ba9a5cf08af5522fdd7a2ec117f16bb91f5409",
+      "current_content_sha256": "395f2116a62387cdada472c50d69febb36205afd3d617571fb0d6f507eaa72c8",
+      "migration_commit": "04d46bef1b176f1a92c7c474015e0860b9b015af",
+      "review": "45342291 (chủ xe): đổi DUY NHẤT dòng front matter parent_id P-DU-LICH -> P-CUNG-DUONG cho khớp taxonomy + matrix (sửa breadcrumb 404); không đổi thân bài, title, permalink.",
+      "reviewed_commits": [
+        "45342291848b7a3d6ef1e21126301e38ff111bbb"
+      ]
+    }
+  }
 }

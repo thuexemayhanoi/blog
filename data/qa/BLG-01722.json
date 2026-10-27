@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1159,
+  "word_count": 1201,
   "word_target": 1300,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,9 +47,46 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-09-i-tram-chang-thuan-my-bang-xe-may-trong-ngay.md",
-  "content_sha256": "736006327bc23b33d2d4fb805e212feb13a91086b8c71ce57861fbb51c203cd5",
+  "content_sha256": "54dc61b33eeac966e3a3dfd9c9272ec134f71ad2f034f539495fb8ac479549ad",
   "matrix_row_sha256": "3e6217729beb160d81aea43a2e134715f00478a8810e9ba95545a62070ae1734",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-09T15:03:34+00:00"
+  "published_at": "2026-10-09T15:03:34+00:00",
+  "reattestation": {
+    "schema": "reattestation/1",
+    "kind": "reviewed-post-publish-chain",
+    "classification": "REVIEWED_CHAIN_PROVEN",
+    "proof": "hash cu trong evidence buoc dung byte bai + hang matrix tai commit xuat ban; evidence khong doi tu do; moi commit cham vao bai sau do thuoc danh sach nguoi duyet ky (+ migration v3); cham lai doc lap byte hien tai",
+    "approval_ref": "chu-repo:chi-thi-2026-10-27-master-execution-finish-100-slug-migration-pricing/issue-77-nhom-B-va-00874 (session_01D88QamSe7ksLm1ZpE5Y7fT)",
+    "batch_id": "reattest-20261027-R17",
+    "rescored_at": "2026-10-27T14:50:49+00:00",
+    "baseline_commit": "1b55bd810aac85dc919eb2a43d71de30ad8d4595",
+    "previous_evidence_path": "data/qa/BLG-01722.json",
+    "previous_evidence_sha256": "1258ba9c04c9f2dc671727cc1383dfa8faddaab8f19a018feb63deda86254ac6",
+    "previous_content_sha256": "736006327bc23b33d2d4fb805e212feb13a91086b8c71ce57861fbb51c203cd5",
+    "previous_matrix_row_sha256": "3e6217729beb160d81aea43a2e134715f00478a8810e9ba95545a62070ae1734",
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/reattest-legacy-qa.py",
+    "tool_commit": "2f2d20525663dc8bc0e28420a28cfa715d3527a3",
+    "tool_sha256": "b220c3d462ecd504d2be645d4d2c39b668fdd8cad5a98145e066132cd5fb3dc4",
+    "scorer_code_sha256": "e75668446d2abd25738e25f75c2790e0a2208bc96e1266103665b0366b729497",
+    "business_facts_sha256": "7725c6795ff9b6e9e2988f2d298f660e6d97ba11eee84f43473468c1ecd05b04",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); chat diem doc lap xay ra luc rescored_at",
+    "chain": {
+      "bound_commit": "6f258b56512f5c5a9adbff1df1193f11407d475f",
+      "bound_content_sha256": "736006327bc23b33d2d4fb805e212feb13a91086b8c71ce57861fbb51c203cd5",
+      "bound_matrix_sha256": "3e6217729beb160d81aea43a2e134715f00478a8810e9ba95545a62070ae1734",
+      "current_content_sha256": "54dc61b33eeac966e3a3dfd9c9272ec134f71ad2f034f539495fb8ac479549ad",
+      "migration_commit": null,
+      "review": "ee38654a (chủ xe): thay mẩu chữ dở 'Trưa nồm...' (lỗi soạn thảo) bằng một câu hoàn chỉnh về nghỉ trưa tránh nắng; không có số liệu, liên kết, heading mới; URL không đổi; draft BLG-01722 của writer chứa đúng bản sửa này.",
+      "reviewed_commits": [
+        "ee38654ae913d503f564385c63c57bf828d96007"
+      ]
+    }
+  }
 }
