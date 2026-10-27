@@ -35,7 +35,7 @@ Dù tiệm có nói gì, đừng đưa mã PIN, mã OTP hay mật khẩu ứng d
 
 Thay vì đưa thẻ, hãy hỏi tiệm có những cách đặt cọc nào khác và cách nào bạn thấy yên tâm hơn. Tiệm có thể có nhiều lựa chọn khác nhau; bài không biết tiệm nào áp dụng cách nào, hãy hỏi trực tiếp và nhờ ghi rõ trên biên nhận cách đã thỏa thuận cùng cách hoàn lại.
 
-Bài [so sánh đặt cọc giữa các hình thức thuê xe máy](/xe-may/2026/09/29/so-sanh-at-coc-giua-cac-hinh-thuc-thue-xe-may/) nêu những hình thức thường gặp và điểm cần để ý của từng hình thức. Hãy chọn cách bạn có thể kiểm soát và có bằng chứng rõ ràng.
+Bài [so sánh đặt cọc giữa các hình thức thuê xe máy](/xe-may/2026/09/29/so-sanh-dat-coc-giua-cac-hinh-thuc-thue-xe-may/) nêu những hình thức thường gặp và điểm cần để ý của từng hình thức. Hãy chọn cách bạn có thể kiểm soát và có bằng chứng rõ ràng.
 
 ## Nếu tiệm vẫn muốn giữ thứ gì đó: hỏi vì sao và ghi rõ trên biên nhận
 

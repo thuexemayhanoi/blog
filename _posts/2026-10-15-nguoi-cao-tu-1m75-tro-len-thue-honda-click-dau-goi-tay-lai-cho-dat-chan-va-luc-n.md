@@ -29,7 +29,7 @@ Sách hướng dẫn Click160 của Honda dặn lên xe từ bên trái và gi�
 
 Bước một: lên xe từ bên trái, chân phải đặt lên sàn, hai tay đặt đúng tay nắm, tay lái thẳng. Xem gối có chạm ốp trước hay tay lái không. Bước hai: bẻ tay lái hết sang trái rồi hết sang phải, xem gối và đùi có vướng không; nhiều người chỉ thấy vướng ở bước này, khi quay đầu hay vào ngõ.
 
-Bước ba: đặt hai chân lên sàn như khi chạy, xem gót chân và mũi chân nằm ở đâu, gối có gập quá nhiều không. Bước bốn: nhìn hai gương, xem khuỷu tay có che gương không và gương còn thấy xe phía sau không. Bài [chỉnh gương, ngồi thử và dắt xe: làm xe thuê vừa tầm vóc trước khi đi](/thue-xe/2026/10/12/chinh-guong-ngoi-thu-va-dat-xe-lam-xe-thue-vua-tam-voc-truoc-khi-i/) có thêm các bước thử.
+Bước ba: đặt hai chân lên sàn như khi chạy, xem gót chân và mũi chân nằm ở đâu, gối có gập quá nhiều không. Bước bốn: nhìn hai gương, xem khuỷu tay có che gương không và gương còn thấy xe phía sau không. Bài [chỉnh gương, ngồi thử và dắt xe: làm xe thuê vừa tầm vóc trước khi đi](/thue-xe/2026/10/12/chinh-guong-ngoi-thu-va-dat-xe-lam-xe-thue-vua-tam-voc-truoc-khi-di/) có thêm các bước thử.
 
 ## Đầu gối vướng tay lái khi bẻ lái: nhích người về sau và mở gối
 
@@ -51,7 +51,7 @@ Nếu bạn cao và người ngồi sau cũng cao, hãy cân nhắc xe rộng h�
 
 ## Khi nào nên chọn xe rộng hơn: gối vẫn vướng, chân vẫn gò, tay vẫn mỏi
 
-Hãy chọn xe khác nếu sau khi ngồi thử, gối vẫn vướng tay lái khi quay đầu, chân vẫn gò sau vài phút, hoặc khuỷu tay chạm gương. Bài [người cao thuê Honda Air Blade: gối, tay lái và tư thế ngồi cho đỡ mỏi](/xe-may/2026/10/11/nguoi-cao-thue-honda-air-blade-goi-tay-lai-va-tu-the-ngoi-cho-o-moi/) so sánh một dòng xe tay ga rộng hơn.
+Hãy chọn xe khác nếu sau khi ngồi thử, gối vẫn vướng tay lái khi quay đầu, chân vẫn gò sau vài phút, hoặc khuỷu tay chạm gương. Bài [người cao thuê Honda Air Blade: gối, tay lái và tư thế ngồi cho đỡ mỏi](/xe-may/2026/10/11/nguoi-cao-thue-honda-air-blade-goi-tay-lai-va-tu-the-ngoi-cho-do-moi/) so sánh một dòng xe tay ga rộng hơn.
 
 Bài không biết tiệm còn xe nào rộng hơn; đó là điều xác nhận trực tiếp. Hãy nhắn hỏi trước khi đến để có xe phù hợp.
 

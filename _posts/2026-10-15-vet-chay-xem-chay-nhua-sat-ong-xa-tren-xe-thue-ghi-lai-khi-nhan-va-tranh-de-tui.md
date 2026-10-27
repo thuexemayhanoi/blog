@@ -47,7 +47,7 @@ Nhờ nhân viên xác nhận. Bài [tem, decal và miếng dán có sẵn trên
 
 Ở Hà Nội mưa đến bất chợt, người đi xe vội khoác áo mưa và vạt áo dài chạm ống quần, rồi chạm cả pô khi dừng đèn đỏ. Túi nilon treo móc đung đưa theo gió cũng dễ quệt vào pô. Dây buộc đồ sau xe chùng xuống thì rơi gần pô.
 
-Bài [áo mưa, ống quần và váy dễ vướng pô, xích khi đi xe số: cách xử lý](/xe-may/2026/10/11/ao-mua-ong-quan-va-vay-de-vuong-po-xich-khi-i-xe-so-cach-xu-ly/) nói cách chọn và mặc áo mưa để không chạm pô.
+Bài [áo mưa, ống quần và váy dễ vướng pô, xích khi đi xe số: cách xử lý](/xe-may/2026/10/11/ao-mua-ong-quan-va-vay-de-vuong-po-xich-khi-di-xe-so-cach-xu-ly/) nói cách chọn và mặc áo mưa để không chạm pô.
 
 ## Treo và cất đồ đúng chỗ: tránh hẳn khu vực pô
 

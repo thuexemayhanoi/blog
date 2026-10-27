@@ -47,7 +47,7 @@ Nhưng sách lưu ý: đèn pha vẫn sáng sau khi động cơ ngừng bởi h�
 
 ## Dấu hiệu bình điện đang yếu: đề ì, đèn mờ, phải đề nhiều lần mới nổ
 
-Bình điện yếu thường biểu hiện bằng tiếng đề ì ạch, đèn mờ đi khi đề hay phải đề nhiều lần mới nổ. Đừng chờ tới lúc xe không đề được giữa đường; bài [ắc quy xe thuê yếu, đề không nổ: nhận biết và xử lý](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/) nói thêm về cách nhận biết.
+Bình điện yếu thường biểu hiện bằng tiếng đề ì ạch, đèn mờ đi khi đề hay phải đề nhiều lần mới nổ. Đừng chờ tới lúc xe không đề được giữa đường; bài [ắc quy xe thuê yếu, đề không nổ: nhận biết và xử lý](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/) nói thêm về cách nhận biết.
 
 Sách Air Blade khuyến cáo không dùng bình điện ô tô để mồi khởi động vì có thể hỏng hệ thống điện trên xe; đừng nhờ người lạ mồi bằng bình ô tô khi chưa hỏi tiệm.
 

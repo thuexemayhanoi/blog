@@ -57,7 +57,7 @@ Ví dụ tham khảo, hãy chỉnh theo thực tế:
 
 > Chào tiệm. Lúc 15:10, lốp sau xe thuê xẹp trên đoạn đường có nhiều xe khác cũng thủng lốp, nghi có vật nhọn trên mặt đường. Đang dắt xe tới một tiệm vá gần đó. Ảnh lốp và vị trí gửi kèm. Nhờ tiệm hướng dẫn trước khi đồng ý thêm việc gì.
 
-Bài [xe thuê thủng lốp hay chết máy giữa đường: báo cửa hàng trước hay tự sửa](/thue-xe/2026/10/11/xe-thue-thung-lop-hay-chet-may-giua-uong-bao-cua-hang-truoc-hay-tu-sua/) nói thêm về thứ tự báo và sửa.
+Bài [xe thuê thủng lốp hay chết máy giữa đường: báo cửa hàng trước hay tự sửa](/thue-xe/2026/10/11/xe-thue-thung-lop-hay-chet-may-giua-duong-bao-cua-hang-truoc-hay-tu-sua/) nói thêm về thứ tự báo và sửa.
 
 ## Báo ai về đoạn đường có đinh: lực lượng chức năng và người quanh đó
 

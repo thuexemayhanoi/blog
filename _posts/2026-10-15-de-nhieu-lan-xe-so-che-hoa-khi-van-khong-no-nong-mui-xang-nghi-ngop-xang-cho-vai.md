@@ -47,7 +47,7 @@ Nếu thấy xăng chảy ướt quanh bình hoặc dưới gầm xe, đó là c
 
 Có người mách cách tháo bugi để hong khô hay chỉnh chế hòa khí. Bài không hướng dẫn việc này vì cần dụng cụ và kinh nghiệm, và xe là xe thuê. Tự tháo có thể làm hỏng ren, làm rò xăng hoặc gây thêm lỗi, và có thể ảnh hưởng đến trách nhiệm của bạn với tiệm.
 
-Nếu xe không nổ sau khi đã làm theo hướng dẫn, hãy gọi tiệm. Bài [xe ga không đề được buổi sáng: ắc quy yếu, bugi hay do để lâu không chạy](/thue-xe/2026/10/11/xe-ga-khong-e-uoc-buoi-sang-ac-quy-yeu-bugi-hay-do-e-lau-khong-chay/) liệt kê các nguyên nhân thường gặp khiến xe không đề được, giúp bạn hiểu vì sao cần thợ kiểm tra.
+Nếu xe không nổ sau khi đã làm theo hướng dẫn, hãy gọi tiệm. Bài [xe ga không đề được buổi sáng: ắc quy yếu, bugi hay do để lâu không chạy](/thue-xe/2026/10/11/xe-ga-khong-de-duoc-buoi-sang-ac-quy-yeu-bugi-hay-do-de-lau-khong-chay/) liệt kê các nguyên nhân thường gặp khiến xe không đề được, giúp bạn hiểu vì sao cần thợ kiểm tra.
 
 ## Khi nào gọi tiệm: sau vài lần thử theo hướng dẫn mà xe vẫn không nổ
 

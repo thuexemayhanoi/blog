@@ -79,7 +79,7 @@ Ví dụ tham khảo, hãy chỉnh theo thực tế:
 
 Sách Wave Alpha dặn giảm tốc trước khi rẽ, tránh phanh gấp và đặc biệt chú ý khi đi trên bề mặt ít ma sát, vì lốp rất dễ trượt trên những bề mặt như vậy. Đường làng và đường đê thường hẹp, mép đường mềm, có bùn hoặc lá rụng, nên hãy đi chậm và chừa khoảng cách với mép.
 
-Nếu trời mưa hoặc tối, hãy đi chậm hơn nữa hoặc dừng nghỉ. Bài [ngã xe nhẹ khi đi chơi ở Hà Nội: việc đầu tiên nên làm và nhờ ai giúp](/thue-xe/2026/10/12/nga-xe-nhe-khi-i-choi-o-ha-noi-viec-au-tien-nen-lam-va-nho-ai-giup/) nói thêm về cách xử lý ngay sau một cú ngã.
+Nếu trời mưa hoặc tối, hãy đi chậm hơn nữa hoặc dừng nghỉ. Bài [ngã xe nhẹ khi đi chơi ở Hà Nội: việc đầu tiên nên làm và nhờ ai giúp](/thue-xe/2026/10/12/nga-xe-nhe-khi-di-choi-o-ha-noi-viec-dau-tien-nen-lam-va-nho-ai-giup/) nói thêm về cách xử lý ngay sau một cú ngã.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

@@ -55,7 +55,7 @@ Nhắn tiệm càng sớm càng tốt, kèm ảnh chụp trước khi động v�
 
 ## Phòng trước khi gửi: chụp xe lúc gửi và chọn chỗ gửi
 
-Cách phòng đơn giản là chụp xe trước khi giao cho người trông xe: toàn xe và vài ảnh gần ở các chỗ dễ xước. Bài [chụp ảnh xe trước và sau khi gửi](/ky-nang/2026/10/11/chup-anh-xe-truoc-va-sau-khi-gui-nhung-goc-nen-luu-lai-tren-ien-thoai/) nói những góc nên lưu. Nếu có thể, hãy chọn bãi có người trông xe rõ ràng, tránh đầu hàng hay cuối hàng dễ bị xe khác va, và gập gương nếu bãi yêu cầu.
+Cách phòng đơn giản là chụp xe trước khi giao cho người trông xe: toàn xe và vài ảnh gần ở các chỗ dễ xước. Bài [chụp ảnh xe trước và sau khi gửi](/ky-nang/2026/10/11/chup-anh-xe-truoc-va-sau-khi-gui-nhung-goc-nen-luu-lai-tren-dien-thoai/) nói những góc nên lưu. Nếu có thể, hãy chọn bãi có người trông xe rõ ràng, tránh đầu hàng hay cuối hàng dễ bị xe khác va, và gập gương nếu bãi yêu cầu.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

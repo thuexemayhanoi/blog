@@ -41,7 +41,7 @@ Ngay trong sách của hãng cũng có lời thận trọng. Sách Wave Alpha d�
 
 Sách Wave Alpha viết rằng vá lốp bị thủng hoặc tháo bánh xe đòi hỏi phải có dụng cụ đặc biệt và tay nghề kỹ thuật, và khuyến cáo để cửa hàng Honda ủy nhiệm thực hiện. Bốn món trong bộ đồ nghề không phải là bộ dụng cụ đặc biệt đó.
 
-Vì vậy, thủng lốp dọc đường là lúc gọi tiệm cho thuê và nhờ thợ, không phải lúc lấy bộ đồ nghề ra tháo bánh. Bài [xe máy thuê bị thủng lốp giữa đường xử lý thế nào](/thue-xe/2026/10/10/xe-may-thue-bi-thung-lop-giua-uong-xu-ly-the-nao/) nói các bước xử lý.
+Vì vậy, thủng lốp dọc đường là lúc gọi tiệm cho thuê và nhờ thợ, không phải lúc lấy bộ đồ nghề ra tháo bánh. Bài [xe máy thuê bị thủng lốp giữa đường xử lý thế nào](/thue-xe/2026/10/10/xe-may-thue-bi-thung-lop-giua-duong-xu-ly-the-nao/) nói các bước xử lý.
 
 ## Chỉnh xích và phanh: sách có cách làm nhưng cũng dặn mang xe đến cửa hàng
 
@@ -65,7 +65,7 @@ Nếu đèn hỏng giữa đường, hãy tìm chỗ dừng an toàn, chụp ả
 
 Khi nhận xe, hãy mở yên cùng nhân viên và nhìn: có bộ dụng cụ không, đủ mấy món, có túi đựng tài liệu không. Sách Wave 110 ghi túi đựng tài liệu nằm trong ngăn dưới yên, có thể cất sách hướng dẫn, đăng ký xe và bảo hiểm xe máy. Bài không biết tiệm để giấy tờ ở đâu; hãy hỏi.
 
-Chụp ảnh hộp đựng đồ khi đang mở và ghi vào biên bản những gì có hoặc thiếu. Bài [nhận xe hỏi kèm đồ nghề vá lốp: cần không](/thue-xe/2026/10/03/nhan-xe-hoi-kem-o-nghe-va-lop-can-khong/) nói thêm về việc hỏi kèm đồ nghề.
+Chụp ảnh hộp đựng đồ khi đang mở và ghi vào biên bản những gì có hoặc thiếu. Bài [nhận xe hỏi kèm đồ nghề vá lốp: cần không](/thue-xe/2026/10/03/nhan-xe-hoi-kem-do-nghe-va-lop-can-khong/) nói thêm về việc hỏi kèm đồ nghề.
 
 ## Khi trả xe: để đồ nghề đúng chỗ
 

@@ -29,7 +29,7 @@ Hiểu đơn giản: ở nhiều trạm thu phí trên quốc lộ do trung ươ
 
 Điều 25 khoản 3 của Luật Trật tự, an toàn giao thông đường bộ quy định “xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô, xe gắn máy, xe thô sơ, người đi bộ không được đi trên đường cao tốc”, trừ người, phương tiện giao thông đường bộ và thiết bị phục vụ việc quản lý, bảo trì đường cao tốc. Nguồn: [bản hợp nhất Luật 36/2024](https://vanban.chinhphu.vn/?docid=217295&pageid=27160). Điều luật có thể được sửa đổi sau này, hãy kiểm tra bản hiện hành.
 
-Vì vậy nếu ứng dụng chỉ đường dẫn bạn tới lối lên cao tốc, hãy đổi tuyến sang quốc lộ. Bài [biển đường cao tốc phía trước và lối lên cao tốc: cách người đi xe máy nhận ra](/an-toan-phap-ly/2026/10/16/bien-duong-cao-toc-phia-truoc-va-loi-len-cao-toc-cach-nguoi-di-xe-may-nhan-ra-de/) và bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/) nói thêm cách nhận biết lối lên cao tốc để tránh.
+Vì vậy nếu ứng dụng chỉ đường dẫn bạn tới lối lên cao tốc, hãy đổi tuyến sang quốc lộ. Bài [biển đường cao tốc phía trước và lối lên cao tốc: cách người đi xe máy nhận ra](/an-toan-phap-ly/2026/10/16/bien-duong-cao-toc-phia-truoc-va-loi-len-cao-toc-cach-nguoi-di-xe-may-nhan-ra-de/) và bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/) nói thêm cách nhận biết lối lên cao tốc để tránh.
 
 ## Đi làn nào khi tới trạm: làm theo biển báo, không chen vào làn ô tô
 

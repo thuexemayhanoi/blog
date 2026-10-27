@@ -53,7 +53,7 @@ Với một điểm nằm xa trung tâm, hãy tính thời gian đi và về th�
 
 Bảo tàng đóng cửa lúc 16 giờ 30 theo nguồn, nên nếu đi buổi chiều bạn cần tới sớm để còn thời gian xem. Với một điểm xa, hãy ưu tiên đi buổi sáng nếu thời tiết cho phép, và đừng dồn quá nhiều điểm trong cùng ngày.
 
-Tiệm mở cửa 09:00 và nhận giao xe trong khung 09:00–21:00, nên nếu bạn muốn tới bảo tàng trong khung buổi sáng, hãy tính giờ nhận xe sớm nhất và thời gian di chuyển. Bài [đến bảo tàng Lịch sử Quân sự Việt Nam bằng xe máy: gửi xe và đường đi](/du-lich/2026/10/01/en-bao-tang-lich-su-quan-su-viet-nam-bang-xe-may-gui-xe-va-uong-i/) nhắc việc gửi xe và đường đi khi đến một bảo tàng quân sự.
+Tiệm mở cửa 09:00 và nhận giao xe trong khung 09:00–21:00, nên nếu bạn muốn tới bảo tàng trong khung buổi sáng, hãy tính giờ nhận xe sớm nhất và thời gian di chuyển. Bài [đến bảo tàng Lịch sử Quân sự Việt Nam bằng xe máy: gửi xe và đường đi](/du-lich/2026/10/01/den-bao-tang-lich-su-quan-su-viet-nam-bang-xe-may-gui-xe-va-duong-di/) nhắc việc gửi xe và đường đi khi đến một bảo tàng quân sự.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

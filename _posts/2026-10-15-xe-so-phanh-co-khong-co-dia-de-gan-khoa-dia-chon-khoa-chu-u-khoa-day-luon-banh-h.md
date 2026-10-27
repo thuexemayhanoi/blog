@@ -59,7 +59,7 @@ Nếu chỗ ở không có chỗ để xe, hãy hỏi gửi bãi gần đó, ho�
 
 Không có khóa nào là tuyệt đối. Cách thực tế là ghép nhiều lớp: khóa cổ lái và khóa an toàn trên xe, khóa chữ U luồn bánh, và chỗ đỗ có người trông hoặc ánh sáng. Mỗi lớp làm xe khó bị lấy hơn và tốn thêm thời gian của kẻ trộm.
 
-Bài [chống trộm xe máy khi thuê: khóa và cách đỗ xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/) nói thêm về cách ghép khóa với chỗ đỗ cho xe thuê.
+Bài [chống trộm xe máy khi thuê: khóa và cách đỗ xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/) nói thêm về cách ghép khóa với chỗ đỗ cho xe thuê.
 
 ## Chìa khóa: cất ở đâu và mất thì sao
 

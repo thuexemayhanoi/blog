@@ -55,7 +55,7 @@ Nếu có gió mạnh, cành đào hoạt động như một cánh buồm. Hãy 
 
 ## Quy định chở hàng cồng kềnh: tra trước khi chở
 
-Hàng cồng kềnh có thể có quy định riêng về kích thước khi chở bằng xe máy. Bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/) nói về điều này; bài này không kết luận pháp lý cho từng trường hợp. Hãy chọn cây vừa phải để không vượt giới hạn.
+Hàng cồng kềnh có thể có quy định riêng về kích thước khi chở bằng xe máy. Bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/) nói về điều này; bài này không kết luận pháp lý cho từng trường hợp. Hãy chọn cây vừa phải để không vượt giới hạn.
 
 ## Nếu cành gãy, nụ rụng hoặc xe dính nhựa, đất: lau và báo tiệm
 

@@ -49,7 +49,7 @@ Một tin đầy đủ tốt hơn nhiều tin ngắn rời rạc. Hãy giữ gi�
 
 Tiệm có thể chọn một trong ba hướng. Với sửa lại, hãy hỏi mang xe tới đâu, vào giờ nào và ai lo việc đưa xe đi. Với đổi xe, hỏi xe thay là xe nào, giao ở đâu và tình trạng xe thay được ghi thế nào. Với điều chỉnh thời gian thuê, hỏi thời gian xe nằm sửa có được tính vào kỳ thuê hay không. Bài không biết tiệm chọn hướng nào; đó là điều xác nhận trực tiếp.
 
-Nhớ rằng tiệm nhận và giao xe trong khung 09:00–21:00. Bài [đổi xe giữa kỳ thuê khi xe gặp vấn đề](/thue-xe/2026/10/10/oi-xe-giua-ky-thue-khi-xe-gap-van-e/) và bài [xe thuê trục trặc lặp đi lặp lại: cách đề nghị cửa hàng kiểm tra lại hoặc đổi xe](/thue-xe/2026/10/14/xe-thue-truc-trac-lap-di-lap-lai-cach-de-nghi-cua-hang-kiem-tra-lai-hoac-doi-xe/) nói thêm về hướng đổi xe.
+Nhớ rằng tiệm nhận và giao xe trong khung 09:00–21:00. Bài [đổi xe giữa kỳ thuê khi xe gặp vấn đề](/thue-xe/2026/10/10/doi-xe-giua-ky-thue-khi-xe-gap-van-de/) và bài [xe thuê trục trặc lặp đi lặp lại: cách đề nghị cửa hàng kiểm tra lại hoặc đổi xe](/thue-xe/2026/10/14/xe-thue-truc-trac-lap-di-lap-lai-cach-de-nghi-cua-hang-kiem-tra-lai-hoac-doi-xe/) nói thêm về hướng đổi xe.
 
 ## Trong lúc chờ tiệm trả lời: có nên tiếp tục chạy xe không
 

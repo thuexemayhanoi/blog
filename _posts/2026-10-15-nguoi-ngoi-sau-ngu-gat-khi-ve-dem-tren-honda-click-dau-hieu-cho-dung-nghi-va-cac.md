@@ -41,7 +41,7 @@ Nếu người ngồi sau đã ngủ gật nặng, hãy xuống xe trước, gi�
 
 Hãy gọi tên và vỗ nhẹ vai, đừng lay mạnh. Cho người ngồi sau xuống xe, đi lại vài phút, uống nước. Một chút nghỉ ngơi và hít thở không khí giúp đỡ buồn ngủ hơn, nhưng nếu người ấy vẫn mệt, đừng ép tiếp tục. Bài không đưa lời khuyên y tế; nếu người ngồi sau có dấu hiệu bất thường như lịm đi, khó thở hay không đáp lại, hãy gọi hỗ trợ khẩn cấp.
 
-Bài [mệt và buồn ngủ khi chạy xe chiều muộn: xử lý đúng cách](/ky-nang/2026/10/04/met-va-buon-ngu-khi-chay-xe-chieu-muon-xu-ly-ung-cach/) có thêm cách xử lý khi buồn ngủ trong lúc đi xe.
+Bài [mệt và buồn ngủ khi chạy xe chiều muộn: xử lý đúng cách](/ky-nang/2026/10/04/met-va-buon-ngu-khi-chay-xe-chieu-muon-xu-ly-dung-cach/) có thêm cách xử lý khi buồn ngủ trong lúc đi xe.
 
 ## Giữ người ngồi sau vững khi chạy tiếp: chỉ khi họ đã hết buồn ngủ
 

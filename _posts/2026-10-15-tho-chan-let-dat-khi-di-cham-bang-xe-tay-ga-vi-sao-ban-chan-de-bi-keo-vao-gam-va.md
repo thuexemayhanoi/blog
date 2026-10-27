@@ -57,7 +57,7 @@ Trong đoạn kẹt xe giờ tan tầm, dừng hẳn và đặt chân khi cần 
 
 ## Người nhỏ con hoặc yên cao: giữ thăng bằng khi dừng mà không cần lết chân
 
-Nếu chân bạn chỉ chạm đất bằng mũi chân, hãy dịch người về phía mép yên khi dừng để chân chạm đất vững hơn, thay vì cố vươn chân khi xe đang chạy. Bài [chỉnh gương, ngồi thử và dắt xe: làm xe thuê vừa tầm vóc](/thue-xe/2026/10/12/chinh-guong-ngoi-thu-va-dat-xe-lam-xe-thue-vua-tam-voc-truoc-khi-i/) nói cách thử tư thế ngồi và dắt xe ngay lúc nhận.
+Nếu chân bạn chỉ chạm đất bằng mũi chân, hãy dịch người về phía mép yên khi dừng để chân chạm đất vững hơn, thay vì cố vươn chân khi xe đang chạy. Bài [chỉnh gương, ngồi thử và dắt xe: làm xe thuê vừa tầm vóc](/thue-xe/2026/10/12/chinh-guong-ngoi-thu-va-dat-xe-lam-xe-thue-vua-tam-voc-truoc-khi-di/) nói cách thử tư thế ngồi và dắt xe ngay lúc nhận.
 
 Nếu sau khi thử mà bạn vẫn thấy xe quá cao hay quá nặng để dừng vững, hãy hỏi tiệm có xe thấp hơn hay nhẹ hơn không. Bài không biết tiệm còn xe nào phù hợp; đó là điều xác nhận trực tiếp.
 
