@@ -24,9 +24,9 @@ Bù lại, wifi và eSIM đủ để nhắn tin, gọi qua ứng dụng và mở
 
 ## Nhắn tin đặt xe khi không có SIM: một tin đủ ý
 
-Khi chưa gọi được, tin nhắn là cuộc trò chuyện chính, nên mỗi tin phải đủ ý để người đọc trả lời ngay. Một tin đặt xe tốt thường có tên bạn, ngày giờ nhận và trả xe theo giờ Hà Nội, dòng xe quan tâm, số ngày thuê, nơi bạn ở, và một câu nói thẳng rằng bạn chưa có số điện thoại Việt Nam. Cuối tin, ghi kênh bạn mở thường xuyên nhất để cửa hàng biết trả lời ở đâu. Bạn có thể đối chiếu thêm với [những thông tin cửa hàng cần khi khách gọi đặt](/thue-xe/2026/10/07/cua-hang-cho-thue-xe-can-thong-tin-gi-khi-khach-goi-at/) trước khi gửi.
+Khi chưa gọi được, tin nhắn là cuộc trò chuyện chính, nên mỗi tin phải đủ ý để người đọc trả lời ngay. Một tin đặt xe tốt thường có tên bạn, ngày giờ nhận và trả xe theo giờ Hà Nội, dòng xe quan tâm, số ngày thuê, nơi bạn ở, và một câu nói thẳng rằng bạn chưa có số điện thoại Việt Nam. Cuối tin, ghi kênh bạn mở thường xuyên nhất để cửa hàng biết trả lời ở đâu. Bạn có thể đối chiếu thêm với [những thông tin cửa hàng cần khi khách gọi đặt](/thue-xe/2026/10/07/cua-hang-cho-thue-xe-can-thong-tin-gi-khi-khach-goi-dat/) trước khi gửi.
 
-Hãy viết câu ngắn, tránh viết tắt và tiếng lóng, vì cả hai bên có thể đang dùng ngoại ngữ. Những điều như cọc, giấy tờ cần mang hay giờ trả xe nên được hỏi và xác nhận với Nguyễn Tú trước khi đặt xe, đừng tự suy ra từ kinh nghiệm ở nơi khác. Khi cửa hàng trả lời, bạn nhắn lại một câu xác nhận, và xem thêm cách [chốt những điều cần thiết bằng văn bản khi đặt xe qua tin nhắn](/thue-xe/2026/10/03/at-xe-thue-qua-tin-nhan-chot-nhung-gi-bang-van-ban/).
+Hãy viết câu ngắn, tránh viết tắt và tiếng lóng, vì cả hai bên có thể đang dùng ngoại ngữ. Những điều như cọc, giấy tờ cần mang hay giờ trả xe nên được hỏi và xác nhận với Nguyễn Tú trước khi đặt xe, đừng tự suy ra từ kinh nghiệm ở nơi khác. Khi cửa hàng trả lời, bạn nhắn lại một câu xác nhận, và xem thêm cách [chốt những điều cần thiết bằng văn bản khi đặt xe qua tin nhắn](/thue-xe/2026/10/03/dat-xe-thue-qua-tin-nhan-chot-nhung-gi-bang-van-ban/).
 
 ## Liên lạc với cửa hàng thuê xe bằng wifi: tin đã đi chưa
 

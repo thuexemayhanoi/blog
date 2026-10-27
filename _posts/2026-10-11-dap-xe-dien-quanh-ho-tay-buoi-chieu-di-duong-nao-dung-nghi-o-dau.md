@@ -76,4 +76,4 @@ Nếu xe có biểu hiện lạ như nóng bất thường, mùi khét, mất l�
 
 Khi đã chọn được một ngày dễ chịu, nếu thuê xe của Nguyễn Tú (0942 467 674, mở cửa từ 09:00 đến 21:00), hãy liên hệ để xác nhận giá và tình trạng xe hiện tại trước khi đặt xe.
 
-Lần sau, nếu thích đổi cảnh, hãy thử [thuê xe đạp điện đi quanh phố cổ và Hồ Gươm](/xe-may/2026/09/27/thue-xe-ap-ien-i-quanh-pho-co-va-ho-guom/), một buổi chiều rất khác. Còn khi cần đi xa hơn vòng hồ, chuyên mục [xe máy](/xe-may/) sẽ gợi ý loại xe phù hợp.
+Lần sau, nếu thích đổi cảnh, hãy thử [thuê xe đạp điện đi quanh phố cổ và Hồ Gươm](/xe-may/2026/09/27/thue-xe-dap-dien-di-quanh-pho-co-va-ho-guom/), một buổi chiều rất khác. Còn khi cần đi xa hơn vòng hồ, chuyên mục [xe máy](/xe-may/) sẽ gợi ý loại xe phù hợp.

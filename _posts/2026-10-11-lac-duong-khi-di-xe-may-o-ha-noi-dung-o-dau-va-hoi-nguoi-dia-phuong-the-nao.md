@@ -23,7 +23,7 @@ Khi nhận ra mình không còn biết đang ở đâu, việc đầu tiên là 
 
 Một lỗi khác khi bị lạc là quay đầu giữa đường đông: thay vì vậy, chạy tới đoạn có điểm rộng như miệng ngõ hoặc đầu dải phân cách có khoảng chờ, giảm tốc, nhường hết xe xuôi chiều rồi mới quay. Nếu không tìm được chỗ quay trong vài trăm mét, cứ đi tiếp tới ngã tư có đèn, quay trong khu vực đèn đỏ dành cho người rẽ là sạch nhất.
 
-Điểm dừng lý tưởng còn là chỗ có bóng mát và đông người qua lại vừa phải, như đầu dãy bán hàng rong hoặc sân một cửa hàng: bạn có thể hỏi ngay mà không phải di chuyển thêm. Ban đêm, chọn nơi có đèn đường sáng rõ, tránh các đoạn đường vắng và tối quanh khu đất trống. Nếu đường đang đông giờ tan tầm, tốt nhất là rẽ hẳn vào một đường phụ vắng trước khi dừng, tham khảo thêm [khung giờ và hướng nên tránh](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-khung-gio-va-huong-uong-nen-tranh-khi-moi-chay-xe-may/) để chọn lúc ra đường ngay từ đầu.
+Điểm dừng lý tưởng còn là chỗ có bóng mát và đông người qua lại vừa phải, như đầu dãy bán hàng rong hoặc sân một cửa hàng: bạn có thể hỏi ngay mà không phải di chuyển thêm. Ban đêm, chọn nơi có đèn đường sáng rõ, tránh các đoạn đường vắng và tối quanh khu đất trống. Nếu đường đang đông giờ tan tầm, tốt nhất là rẽ hẳn vào một đường phụ vắng trước khi dừng, tham khảo thêm [khung giờ và hướng nên tránh](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-khung-gio-va-huong-duong-nen-tranh-khi-moi-chay-xe-may/) để chọn lúc ra đường ngay từ đầu.
 
 ## Hỏi ai và hỏi thế nào
 
@@ -35,7 +35,7 @@ Tên phố Hà Nội đôi khi nghe gần giống nhau, nên khi người đư�
 
 Trước mỗi buổi đi, ghi lại địa chỉ về bằng tiếng Việt vào giấy hoặc ảnh chụp màn hình điện thoại, kèm số điện thoại của chủ homestay hoặc của nơi thuê xe. Khi lạc sâu, gọi về cho người quen đường nhờ họ tra hướng dẫn bạn từng đoạn là cách nhiều khách quốc tế dùng, an toàn hơn là mò trong đêm. Mẩu giấy phát huy tác dụng gấp đôi khi điện thoại hết pin.
 
-Lưu ý là ghi địa chỉ kèm cả tên đường lớn gần nhất chứ không chỉ số nhà trong ngõ, vì người được hỏi thường định vị theo ngã lớn mà bạn cũng dễ tìm. Cập nhật vị trí cho bạn cùng nhóm nếu đi hai xe để tránh cả nhóm tách hai hướng khác nhau, và đọc thêm các tình huống dễ bỏ ngỏ trong bài [tự đi lên Hà Nội lần đầu đi xe máy](/thue-xe/2026/10/11/tu-tinh-len-ha-noi-lan-au-i-xe-may-nhung-tinh-huong-giao-thong-de-bo-ngo/).
+Lưu ý là ghi địa chỉ kèm cả tên đường lớn gần nhất chứ không chỉ số nhà trong ngõ, vì người được hỏi thường định vị theo ngã lớn mà bạn cũng dễ tìm. Cập nhật vị trí cho bạn cùng nhóm nếu đi hai xe để tránh cả nhóm tách hai hướng khác nhau, và đọc thêm các tình huống dễ bỏ ngỏ trong bài [tự đi lên Hà Nội lần đầu đi xe máy](/thue-xe/2026/10/11/tu-tinh-len-ha-noi-lan-dau-di-xe-may-nhung-tinh-huong-giao-thong-de-bo-ngo/).
 
 ## Dùng điện thoại đúng lúc
 
@@ -43,7 +43,7 @@ Lưu ý là ghi địa chỉ kèm cả tên đường lớn gần nhất chứ k
 
 Trường hợp bản đồ chỉ đường vào lối cấm hoặc đường hẹp quá mức: đừng cố, quay lại theo đúng lối đã tới, dù xa hơn vài chục mét. Các lối mà xe tải nhỏ và xe đẩy không nên đi thì xe máy du lịch càng không nên; đây là nguyên tắc chọn đường an toàn cho cả người mới lẫn người quen.
 
-Ban đêm, màn hình điện thoại còn làm ảnh hưởng tầm nhìn khi chuyển từ sáng chói sang tối: nếu định dựa vào bản đồ, dừng hẳn để xem, đừng cố nhìn liếc lúc đang chạy. Bài [đi xe máy buổi tối ở Hà Nội](/thue-xe/2026/10/11/i-xe-may-buoi-toi-o-ha-noi-lan-au-nhung-ieu-kho-thay-khi-troi-toi/) giải thích chi tiết vì sao các khó khăn của đêm nhân lên với người mới. Và nếu chỉ cần định hướng bắc nam: mặt trời buổi sáng nghiêng đông, buổi chiều nghiêng tây, một mốc tự nhiên rẻ mà đắt giá.
+Ban đêm, màn hình điện thoại còn làm ảnh hưởng tầm nhìn khi chuyển từ sáng chói sang tối: nếu định dựa vào bản đồ, dừng hẳn để xem, đừng cố nhìn liếc lúc đang chạy. Bài [đi xe máy buổi tối ở Hà Nội](/thue-xe/2026/10/11/di-xe-may-buoi-toi-o-ha-noi-lan-dau-nhung-dieu-kho-thay-khi-troi-toi/) giải thích chi tiết vì sao các khó khăn của đêm nhân lên với người mới. Và nếu chỉ cần định hướng bắc nam: mặt trời buổi sáng nghiêng đông, buổi chiều nghiêng tây, một mốc tự nhiên rẻ mà đắt giá.
 
 ## Rút kinh nghiệm sau mỗi lần lạc
 

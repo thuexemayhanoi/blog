@@ -29,7 +29,7 @@ Trước khi lên xe, thống nhất vài nguyên tắc: lên xuống cùng bên
 
 Khi người lái phanh, lực kéo người về phía trước; nhiệm vụ của người sau là ép nhẹ lưng và tay để giữ trọng tâm, không ngả người theo đà. Vào cua, người sau giữ thân song song với người lái và xe, mắt nhìn về hướng xe đang rẽ. Ngả người ngược lại để ngắm cảnh là lỗi rất hay gặp của khách quốc tế đi chở nhau lần đầu: xe lệch một nửa độ nghiêng là người lái phải gắng gấp để giữ đường.
 
-Hai người nên tập thử trong khu vắng: phanh gấp nhẹ, vào cua chậm, dừng xuất phát, để người sau cảm nhận nhịp của xe trước khi ra đường đông. Bài [qua ngã tư đông xe ở Hà Nội](/thue-xe/2026/10/11/qua-nga-tu-ong-xe-o-ha-noi-bang-xe-may-cach-hoa-vao-dong-xe-lan-au/) sẽ cho bạn biết chuyện gì chờ ở các giao lộ lớn, còn nếu định đi ban đêm thì đọc trước [đi xe máy buổi tối ở Hà Nội](/thue-xe/2026/10/11/i-xe-may-buoi-toi-o-ha-noi-lan-au-nhung-ieu-kho-thay-khi-troi-toi/) vì phanh và thăng bằng trong bóng tối khó hơn hẳn.
+Hai người nên tập thử trong khu vắng: phanh gấp nhẹ, vào cua chậm, dừng xuất phát, để người sau cảm nhận nhịp của xe trước khi ra đường đông. Bài [qua ngã tư đông xe ở Hà Nội](/thue-xe/2026/10/11/qua-nga-tu-dong-xe-o-ha-noi-bang-xe-may-cach-hoa-vao-dong-xe-lan-dau/) sẽ cho bạn biết chuyện gì chờ ở các giao lộ lớn, còn nếu định đi ban đêm thì đọc trước [đi xe máy buổi tối ở Hà Nội](/thue-xe/2026/10/11/di-xe-may-buoi-toi-o-ha-noi-lan-dau-nhung-dieu-kho-thay-khi-troi-toi/) vì phanh và thăng bằng trong bóng tối khó hơn hẳn.
 
 ## Báo hiệu cho người lái khi cần dừng
 

@@ -37,7 +37,7 @@ Cuối tuần có lễ hội, một số bãi quanh hồ được trưng dụng 
 
 Tối thứ Bảy và tối Chủ nhật là lúc quanh hồ đông nhất: người đi bộ dày đặc, các bãi gửi xe xếp hàng dài. Nếu mục đích của bạn chỉ là ngắm hồ và chụp ảnh, sáng Chủ nhật sớm hoặc chiều muộn dễ chịu hơn hẳn. Còn nếu muốn cảm nhận không khí phố đi bộ thì chính buổi tối mới là lúc đáng đi, chỉ cần gửi xe sớm và đi bộ trọn vòng thay vì cố chạy vòng quanh nhiều lần.
 
-Với người mới chạy xe, lúc khu vực quanh hồ đông người đi bộ cũng là lúc các đường vòng quanh bị dồn xe. Khung giờ nên tránh đã được kể kỹ trong bài về [giờ cao điểm Hà Nội](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-khung-gio-va-huong-uong-nen-tranh-khi-moi-chay-xe-may/), còn nếu bạn định kết hợp tham quan khu phố cổ thì nên đọc trước bài [chạy xe máy trong phố cổ giờ nào nên tránh](/du-lich/2026/09/28/chay-xe-may-trong-pho-co-gio-nao-nen-tranh/) để xếp lịch cho hợp lý.
+Với người mới chạy xe, lúc khu vực quanh hồ đông người đi bộ cũng là lúc các đường vòng quanh bị dồn xe. Khung giờ nên tránh đã được kể kỹ trong bài về [giờ cao điểm Hà Nội](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-khung-gio-va-huong-duong-nen-tranh-khi-moi-chay-xe-may/), còn nếu bạn định kết hợp tham quan khu phố cổ thì nên đọc trước bài [chạy xe máy trong phố cổ giờ nào nên tránh](/du-lich/2026/09/28/chay-xe-may-trong-pho-co-gio-nao-nen-tranh/) để xếp lịch cho hợp lý.
 
 Một lưu ý nhỏ: chiều Chủ nhật, các chốt bắt đầu dỡ một phần rào sau chín giờ tối, nhưng đừng vì thế mà cố chen xe vào trước khi rào hẳn; thời điểm đó người đi bộ vẫn đông và các tình nguyện viên chưa rời hết vị trí. Nhìn thấy thùng rào còn nằm đó là cứ coi như khu vực vẫn cấm, chọn lối vòng đã chạy quen từ hôm trước.
 

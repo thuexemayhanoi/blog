@@ -43,7 +43,7 @@ Nếu chẳng may lạc nhau giữa đường: người đi lạc dừng ở ch�
 
 Mỗi chặng nên có điểm hẹn dự phòng: nếu lạc nhau và không liên lạc được, cả hai tới điểm đó trong vòng bao nhiêu phút. Chọn điểm dễ nhận như đầu cầu, cổng chợ lớn hoặc một quán quen có tên rõ. Với các tuyến quanh Long Biên và bờ hồ, chọn điểm hẹn trước khi rẽ ra khỏi trục chính, vì đường một chiều quanh khu cầu khiến việc quay lại rất lâu.
 
-Ba lỗi hay gặp của nhóm hai xe: dừng giữa dòng xe để chờ bạn, chạy ngược chiều để quay lại tìm nhau, và phóng nhanh vượt đèn để theo kịp xe dẫn. Cả ba đều nguy hiểm hơn việc lạc nhau vài phút. Khi cần quay lại, rẽ vào đường phụ, đi vòng theo đường một chiều và hẹn tại điểm dự phòng. Khung giờ đông đường càng tránh chạy theo kiểu đuổi; bài về [khung giờ và hướng nên tránh](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-khung-gio-va-huong-uong-nen-tranh-khi-moi-chay-xe-may/) giúp nhóm chọn giờ ít xe ngay từ đầu.
+Ba lỗi hay gặp của nhóm hai xe: dừng giữa dòng xe để chờ bạn, chạy ngược chiều để quay lại tìm nhau, và phóng nhanh vượt đèn để theo kịp xe dẫn. Cả ba đều nguy hiểm hơn việc lạc nhau vài phút. Khi cần quay lại, rẽ vào đường phụ, đi vòng theo đường một chiều và hẹn tại điểm dự phòng. Khung giờ đông đường càng tránh chạy theo kiểu đuổi; bài về [khung giờ và hướng nên tránh](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-khung-gio-va-huong-duong-nen-tranh-khi-moi-chay-xe-may/) giúp nhóm chọn giờ ít xe ngay từ đầu.
 
 Chuẩn bị trước bằng cách đọc trang [thuê xe máy cho khách quốc tế](/thue-xe/khach-quoc-te/) và trang [thuê xe máy](/thue-xe/), nhóm bạn sẽ có chung một khung hiểu biết trước khi chia hai chiếc xe ra đường. Đi cùng nhau vui là đi mà không phải hối, không phải cuống và không phải đoán ý nhau giữa dòng xe.
 

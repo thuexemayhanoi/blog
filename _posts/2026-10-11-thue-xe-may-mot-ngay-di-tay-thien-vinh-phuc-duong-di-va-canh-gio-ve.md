@@ -58,7 +58,7 @@ Về xăng, hãy đổ thêm ở chặng hai, trước khi vào đoạn chân n�
 
 Nếu bạn tra lịch trình bằng cụm "thiền viện Trúc Lâm Tây Thiên thác Bạc", hãy nhớ cả hai nơi thường có đoạn đi bộ, bậc thang, và tốn sức hơn khi trời nóng hoặc đường ẩm ướt. Hãy xếp điểm bạn muốn đi nhất vào đầu giờ chiều, khi còn khỏe, và coi điểm còn lại là phần nếu còn giờ. Nếu đến khoảng 15 giờ mà bạn vẫn đang ở điểm đầu, bỏ điểm sau là quyết định hợp lý.
 
-Những ngày đông người như rằm, mùng một hay dịp đầu năm, đường vào và chỗ gửi xe thường đông hơn, nên hãy trừ hao thêm. Cách cân nhắc đi sáng hay chiều cho những ngày này có thể đối chiếu với bài về [đi lễ chùa ngày rằm, mùng một](/thue-xe/2026/10/11/i-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-i-sang-hay-chieu/) ở Hà Nội.
+Những ngày đông người như rằm, mùng một hay dịp đầu năm, đường vào và chỗ gửi xe thường đông hơn, nên hãy trừ hao thêm. Cách cân nhắc đi sáng hay chiều cho những ngày này có thể đối chiếu với bài về [đi lễ chùa ngày rằm, mùng một](/thue-xe/2026/10/11/di-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-di-sang-hay-chieu/) ở Hà Nội.
 
 Về giờ mở cửa, vé vào cổng hay lối đi trong khu, thông tin có thể thay đổi, hãy kiểm tra kênh chính thức của địa điểm trước khi đi. Mang theo áo khoác mỏng và áo mưa vì thời tiết vùng chân núi đổi nhanh.
 

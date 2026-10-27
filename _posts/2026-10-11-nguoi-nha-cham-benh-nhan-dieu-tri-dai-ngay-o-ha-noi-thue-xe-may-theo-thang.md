@@ -47,7 +47,7 @@ Một mẹo nhỏ: chọn trọ ở cùng phía với cổng viện bạn hay ra
 
 Người chăm bệnh thường ngủ chập chờn, và sự mệt mỏi trên xe là rủi ro thật. Không chạy xe ngay sau những đêm trực dài; nếu thấy lơ mơ, hãy đi bộ chặng ngắn đầu tiên để tỉnh hẳn. Mỗi lần dừng đèn đỏ, tự hỏi mình đang định đi đâu tiếp theo: thói quen nhỏ này chống lại sự đãng trí vì thiếu ngủ tốt hơn mọi lời hứa sẽ cẩn thận.
 
-Để sẵn trong cốp áo mưa mỏng, khăn và một đôi dép, vì chạy giữa chợm trời mưa ở khu vực bệnh viện rất dễ bị ủi lạnh, và người chăm bệnh ốm thêm là điều không ai muốn. Kiểm tra lốp và đèn mỗi vài ngày theo [cách tự kiểm tra xe hằng tuần](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-en-dau-cho-nguoi-thue-xe-dai-han/) cũng giữ cho chặng đi lại bớt phát sinh sự cố.
+Để sẵn trong cốp áo mưa mỏng, khăn và một đôi dép, vì chạy giữa chợm trời mưa ở khu vực bệnh viện rất dễ bị ủi lạnh, và người chăm bệnh ốm thêm là điều không ai muốn. Kiểm tra lốp và đèn mỗi vài ngày theo [cách tự kiểm tra xe hằng tuần](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-den-dau-cho-nguoi-thue-xe-dai-han/) cũng giữ cho chặng đi lại bớt phát sinh sự cố.
 
 Một vài buổi trong tuần, nếu có người thân thay trực, hãy tranh thủ ngủ bù và đừng dùng khoảng nghỉ đó chạy thêm việc. Sức khỏe của người lái là một phần của việc chăm bệnh, và chiếc xe chỉ hữu dụng khi tay lái còn tỉnh táo.
 

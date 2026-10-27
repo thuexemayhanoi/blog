@@ -37,7 +37,7 @@ Ngoài ra, đừng phanh chỉ bằng phanh trước trên đường ướt, k�
 
 Vạch sơn trắng trên mặt đường, nắp cống tròn và cụm lá cây mục là ba chỗ trượt nhiều nhất sau mưa. Chúng thường nằm đúng vị trí người lái hay bám: giữa làn, đầu khúc cua, mép đường. Khi tới gần các chỗ đó, giữ xe thẳng, không bóp phanh, không bẻ gắt, để xe lướt qua tự nhiên. Ngược lại, các đoạn bê tông mòn có độ bám tốt hơn tưởng tượng; thứ đánh lừa cảm giác lái là lớp lá mục dày dưới chân cây phố cổ.
 
-Ống cống tràn và mép vỉa hè cũng là hai điểm nên tránh dừng đỗ, vì nước đọng che mất chân ống và độ sâu của mép đường. Nếu buộc phải đi qua vũng nước, vào chậm, thẳng hướng, và đừng bốc gấp ga ra; nhiều người ngã ngay khoảnh khắc ga nhảy khi bánh sau còn nằm trên lớp nước mỏng. Những chuẩn bị dài hạn cho mùa mưa được gom trong bài [mùa mưa Hà Nội chuẩn bị gì khi đi xe máy thuê](/ky-nang/2026-09-29/mua-mua-ha-noi-chuan-bi-gi-khi-i-xe-may-thue/).
+Ống cống tràn và mép vỉa hè cũng là hai điểm nên tránh dừng đỗ, vì nước đọng che mất chân ống và độ sâu của mép đường. Nếu buộc phải đi qua vũng nước, vào chậm, thẳng hướng, và đừng bốc gấp ga ra; nhiều người ngã ngay khoảnh khắc ga nhảy khi bánh sau còn nằm trên lớp nước mỏng. Những chuẩn bị dài hạn cho mùa mưa được gom trong bài [mùa mưa Hà Nội chuẩn bị gì khi đi xe máy thuê](/ky-nang/2026-09-29/mua-mua-ha-noi-chuan-bi-gi-khi-di-xe-may-thue/).
 
 Giấy tờ tùy thân và điện thoại nên nằm trong túi nilon kín, cột miệng lại trước khi ra vào cơn mưa. Người đi làm bằng xe máy thường để giấy tờ trong cốp, nhưng cốp xe ga không kín nước tuyệt đối; một túi nilon mỏng cứu được cả buổi chiều so với việc phải xin nghỉ chạy lại giấy tờ. Nếu đi ngang công trường, hãy để ý bùn non trơn hơn cả lớp lá ướt.
 

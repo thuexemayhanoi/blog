@@ -30,7 +30,7 @@ Hình dung một cặp bạn trẻ dạo hồ Gươm bằng xe đạp điện, n
 
 Chọn đường ra đê chỉ cần giữ hai tiêu chí: tránh trục đông xe nhất giờ tan tầm và chọn đường đủ quen để chạy chậm. Bản đồ trên điện thoại giúp định hướng, nhưng cần xem lại thì dừng sát lề, đừng vừa lái vừa cầm máy.
 
-Từ phố cổ và hồ Gươm là hướng gần nhất. Nếu đã dạo khu này bằng xe đạp điện (bài [thuê xe đạp điện đi quanh phố cổ và hồ Gươm](/xe-may/2026/09/27/thue-xe-ap-ien-i-quanh-pho-co-va-ho-guom/) có gợi ý cung đường), ra sông là chặng nối tiếp tự nhiên. Đoạn cuối thường nhiều người đi bộ và xe chở hàng, nên giữ tốc độ như lúc dạo phố và đi những phố rộng hơn thay vì luồn ngõ nhỏ khi trời sắp tối.
+Từ phố cổ và hồ Gươm là hướng gần nhất. Nếu đã dạo khu này bằng xe đạp điện (bài [thuê xe đạp điện đi quanh phố cổ và hồ Gươm](/xe-may/2026/09/27/thue-xe-dap-dien-di-quanh-pho-co-va-ho-guom/) có gợi ý cung đường), ra sông là chặng nối tiếp tự nhiên. Đoạn cuối thường nhiều người đi bộ và xe chở hàng, nên giữ tốc độ như lúc dạo phố và đi những phố rộng hơn thay vì luồn ngõ nhỏ khi trời sắp tối.
 
 Từ Ba Đình hoặc Hồ Tây, bạn có thể chọn những đoạn đường chạy trên mặt đê, thoáng và ít giao cắt hơn trong phố. Đổi lại, đường đê nhiều gió, có chỗ bụi và đoạn vắng hơn bạn nghĩ lúc nhá nhem. Nếu chưa rõ đường, đi thử một buổi sáng để biết chỗ nào hẹp, lối nào lên đê; đừng thử đường tắt lần đầu vào đúng chiều muộn.
 
@@ -62,7 +62,7 @@ Quay lại nội thành thường có đoạn chạy về phía tây, gần hư�
 
 ## Khi trời không đẹp hoặc xe có dấu hiệu lạ
 
-Trời nhiều mây vẫn cho một buổi chiều dễ chịu bên sông, chỉ là hoàng hôn không rực. Nếu mây quá dày, bạn có thể đổi kế hoạch sang một vòng ven hồ với gợi ý [đạp xe điện quanh Hồ Tây buổi chiều](/xe-may/2026/10/11/ap-xe-ien-quanh-ho-tay-buoi-chieu-i-uong-nao-dung-nghi-o-au/). Còn mưa hay mặt đường ướt thì nên hoãn: đường đê trơn, tầm nhìn kém, và mức chịu nước của xe điện tùy xe/tùy hãng, nên hỏi cửa hàng cho thuê thay vì đoán.
+Trời nhiều mây vẫn cho một buổi chiều dễ chịu bên sông, chỉ là hoàng hôn không rực. Nếu mây quá dày, bạn có thể đổi kế hoạch sang một vòng ven hồ với gợi ý [đạp xe điện quanh Hồ Tây buổi chiều](/xe-may/2026/10/11/dap-xe-dien-quanh-ho-tay-buoi-chieu-di-duong-nao-dung-nghi-o-dau/). Còn mưa hay mặt đường ướt thì nên hoãn: đường đê trơn, tầm nhìn kém, và mức chịu nước của xe điện tùy xe/tùy hãng, nên hỏi cửa hàng cho thuê thay vì đoán.
 
 Nếu xe có biểu hiện lạ như mùi khét, nóng bất thường, mất điện đột ngột hoặc tiếng kêu lạ, hãy giảm tốc, dừng ở chỗ an toàn và tắt xe. Đừng tự mở hay sửa bộ pin; báo cho cửa hàng cho thuê trước khi tự xử lý.
 

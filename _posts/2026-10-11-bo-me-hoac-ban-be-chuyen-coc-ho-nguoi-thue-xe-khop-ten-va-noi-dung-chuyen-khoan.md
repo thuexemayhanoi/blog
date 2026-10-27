@@ -27,7 +27,7 @@ Vì vậy, trước khi nhờ ai đó chuyển hộ, hãy báo trước cho cử
 
 Nội dung chuyển khoản là thứ cửa hàng nhìn vào đầu tiên, nên hãy nhờ người chuyển hộ ghi rõ ràng: họ tên người thuê thật, cụm cọc thuê xe, và ngày nhận xe nếu ghi được. Khi ba thông tin này có mặt, dù tên người chuyển là bố, mẹ hay bạn cùng phòng, nhân viên vẫn hiểu ngay tiền này thuộc hợp đồng của bạn. Tránh ghi chung chung kiểu cọc xe, hoặc ghi tên người chuyển mà không nhắc tên người thuê, vì đó là cách nhanh nhất để sinh ra khoản tiền mồ côi không ai nhận diện.
 
-Ngoài ra, số tiền cũng nên đúng như đã chốt. Nếu người chuyển hộ thêm bớt để tiện số, ví dụ làm tròn lên, hãy nhắn báo lại cho cửa hàng ngay, kèm dòng tiền thực nhận được để hai bên khớp sổ. Mọi điều kiện của khoản cọc, từ thời gian hoàn trả cho tới hình thức giữ tiền, vẫn nên được chốt như một giao dịch thông thường, tham khảo thêm bài [đặt cọc khi thuê xe máy cần hỏi rõ điều kiện gì](/thue-xe/2026/09/27/at-coc-khi-thue-xe-may-can-hoi-ro-ieu-gi/) trước khi nhờ người thân chuyển.
+Ngoài ra, số tiền cũng nên đúng như đã chốt. Nếu người chuyển hộ thêm bớt để tiện số, ví dụ làm tròn lên, hãy nhắn báo lại cho cửa hàng ngay, kèm dòng tiền thực nhận được để hai bên khớp sổ. Mọi điều kiện của khoản cọc, từ thời gian hoàn trả cho tới hình thức giữ tiền, vẫn nên được chốt như một giao dịch thông thường, tham khảo thêm bài [đặt cọc khi thuê xe máy cần hỏi rõ điều kiện gì](/thue-xe/2026/09/27/dat-coc-khi-thue-xe-may-can-hoi-ro-dieu-gi/) trước khi nhờ người thân chuyển.
 
 ## Nhắn lại cho cửa hàng để khỏi nhầm khoản
 

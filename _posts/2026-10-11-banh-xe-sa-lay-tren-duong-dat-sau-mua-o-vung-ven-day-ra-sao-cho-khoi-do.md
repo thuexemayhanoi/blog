@@ -59,7 +59,7 @@ Xe ra khỏi bùn mới chỉ là nửa chặng. Dùng que gỗ hoặc cành câ
 
 Rồi chạy thử ở tốc độ đi bộ, dùng phanh trước và phanh sau vài lần, vì phanh dính bùn thường ăn yếu và kêu. Lốp còn bùn sẽ trơn khi lên mặt nhựa, nên đoạn đầu hãy chạy chậm, phanh nhẹ. Nếu bánh quay nặng, phanh không nhả, xe lệch hướng hoặc có tiếng lạ, hãy dừng chứ đừng ráng chạy tiếp.
 
-Tay lái rung bất thường thì xem thêm bài về [tay lái rung trên đường xấu](/thue-xe/2026/10/11/xe-may-thue-rung-tay-lai-tren-uong-xau-nen-lam-gi/). Kiểm tra hay sửa bộ phận quan trọng như phanh nên để thợ làm, và với xe thuê thì báo cửa hàng trước khi tự xử lý.
+Tay lái rung bất thường thì xem thêm bài về [tay lái rung trên đường xấu](/thue-xe/2026/10/11/xe-may-thue-rung-tay-lai-tren-duong-xau-nen-lam-gi/). Kiểm tra hay sửa bộ phận quan trọng như phanh nên để thợ làm, và với xe thuê thì báo cửa hàng trước khi tự xử lý.
 
 ## Báo cửa hàng, ghi lại hiện trường rồi mới lên đường
 

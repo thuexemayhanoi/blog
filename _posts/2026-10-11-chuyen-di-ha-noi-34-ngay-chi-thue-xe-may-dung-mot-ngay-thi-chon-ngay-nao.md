@@ -47,7 +47,7 @@ Chuyến ba ngày thì ngày thứ hai gần như là lựa chọn mặc định
 
 Lợi thế ít người để ý là ngày thuê xe nằm giữa, hai bên đều là ngày đệm. Hôm định thuê mà trời đổ mưa, bạn đổi chỗ hai ngày cho nhau, lịch không vỡ; còn nếu ngày thuê là ngày đầu hay ngày cuối, bạn không còn đường lùi.
 
-Nếu lịch cho phép, hãy đặt ngày thuê xe vào một hôm trong tuần, vì cuối tuần và dịp nghỉ lễ thường đông hơn, nhất là đường ra ngoại thành. Nếu ngày thuê xe dành cho ngoại thành, bài [Ba Vì, Tam Đảo hay Chùa Hương](/thue-xe/2026/10/11/ba-vi-tam-ao-hay-chua-huong-mot-ngay-thue-xe-nen-chon-huong-nao/) giúp bạn cân nhắc hướng hợp với sức và thời gian của mình.
+Nếu lịch cho phép, hãy đặt ngày thuê xe vào một hôm trong tuần, vì cuối tuần và dịp nghỉ lễ thường đông hơn, nhất là đường ra ngoại thành. Nếu ngày thuê xe dành cho ngoại thành, bài [Ba Vì, Tam Đảo hay Chùa Hương](/thue-xe/2026/10/11/ba-vi-tam-dao-hay-chua-huong-mot-ngay-thue-xe-nen-chon-huong-nao/) giúp bạn cân nhắc hướng hợp với sức và thời gian của mình.
 
 ## Thời tiết: chốt ngày muộn nhất có thể rồi mới đặt xe
 

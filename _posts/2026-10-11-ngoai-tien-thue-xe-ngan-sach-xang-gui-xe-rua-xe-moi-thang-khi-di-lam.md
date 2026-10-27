@@ -37,7 +37,7 @@ Một khoản hay bị quên nữa là phí gửi khi đi việc lẻ: gửi xe 
 
 ## Rửa xe và các khoản lặt vặt hay bị quên
 
-Rửa xe định kỳ cần thiết với xe thuê, nhất là sau những ngày mưa bùn: gửi hai ba lần mỗi tháng là đủ cho người đi làm thường. Chi phí này nhỏ, nhưng vẫn nên có trong danh mục; và nếu bạn gần ngày trả xe, đọc thêm phần [rửa xe trước khi trả xe thuê có cần không](/thue-xe/2026/10/11/rua-xe-truoc-khi-tra-xe-thue-co-can-khong-va-nen-hoi-gi-tu-au/) để biết rửa sạch ảnh hưởng thế nào tới buổi kiểm tra xe. Các khoản lặt vặt khác gồm vá lốp gấp, thay ắc quy khẩn cấp hay tiền mũ bảo hiểm mua thêm: không phải hàng tháng nào cũng có, nhưng nên để một quỹ dự phòng nhỏ cho sự cố vì chắc chắn tháng nào đó sẽ dùng tới.
+Rửa xe định kỳ cần thiết với xe thuê, nhất là sau những ngày mưa bùn: gửi hai ba lần mỗi tháng là đủ cho người đi làm thường. Chi phí này nhỏ, nhưng vẫn nên có trong danh mục; và nếu bạn gần ngày trả xe, đọc thêm phần [rửa xe trước khi trả xe thuê có cần không](/thue-xe/2026/10/11/rua-xe-truoc-khi-tra-xe-thue-co-can-khong-va-nen-hoi-gi-tu-dau/) để biết rửa sạch ảnh hưởng thế nào tới buổi kiểm tra xe. Các khoản lặt vặt khác gồm vá lốp gấp, thay ắc quy khẩn cấp hay tiền mũ bảo hiểm mua thêm: không phải hàng tháng nào cũng có, nhưng nên để một quỹ dự phòng nhỏ cho sự cố vì chắc chắn tháng nào đó sẽ dùng tới.
 
 ## Cắt chi phí ở đâu khi cần thắt chặt
 

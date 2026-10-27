@@ -74,7 +74,7 @@ Xe đứng thẳng chưa có nghĩa là xe đã ổn. Trước khi nổ máy, h�
 - Gương, đèn xi nhan, đèn phanh, đèn pha: còn nguyên và vẫn sáng.
 - Bánh xe: dắt vài mét, bánh quay trơn, không có tiếng cọ lạ, lốp không xẹp.
 
-Có mục nào bất thường, nhất là phanh, tay lái hoặc bánh xe, thì đừng chạy tiếp mà làm theo [các bước xử lý an toàn khi xe thuê hỏng giữa đường](/kinh%20nghi%E1%BB%87m/2026/09/19/xe-hong-giua-duong-xu-ly-an-toan/); đừng tự tháo hay chỉnh phanh, dây điện bên đường. Gương hoặc đèn vỡ thì xem thêm bài về [đèn xe thuê bị vỡ giữa đường](/thue-xe/2026/10/10/bi-a-vang-lam-vo-en-xe-thue-tren-uong-truong-xu-ly-the-nao/).
+Có mục nào bất thường, nhất là phanh, tay lái hoặc bánh xe, thì đừng chạy tiếp mà làm theo [các bước xử lý an toàn khi xe thuê hỏng giữa đường](/kinh%20nghi%E1%BB%87m/2026/09/19/xe-hong-giua-duong-xu-ly-an-toan/); đừng tự tháo hay chỉnh phanh, dây điện bên đường. Gương hoặc đèn vỡ thì xem thêm bài về [đèn xe thuê bị vỡ giữa đường](/thue-xe/2026/10/10/bi-da-vang-lam-vo-den-xe-thue-tren-duong-truong-xu-ly-the-nao/).
 
 Với xe thuê, nếu chỗ đứng đủ an toàn, hãy chụp ảnh nơi xe đổ và các chỗ hư hại trước khi dắt xe đi, rồi báo cửa hàng trước khi nhờ thợ chạm vào xe. Nếu thuê xe của Nguyễn Tú, bạn gọi 0942 467 674 trong khung 09:00–21:00 để báo tình trạng và hỏi hướng xử lý.
 

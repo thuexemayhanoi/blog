@@ -26,13 +26,13 @@ Tiền thuê trả trước thì ngược lại: đó là thanh toán phí thuê
 
 Khoản giữ chỗ xuất hiện khi bạn đặt xe từ xa: xin xe cho ngày mai, xin giữ chiếc xe cụ thể trong hai ngày tới. Chủ xe nhận một khoản nhỏ để cam kết giữ xe đó cho riêng bạn, và không cho ai khác thuê lấy mất cơ hội. Câu cần hỏi ngay khi nghe tới khoản này: sau khi nhận xe, khoản giữ chỗ được trừ vào tiền thuê hay vào cọc, hay hoàn lại riêng. Ba phương án đều có thể xảy ra, và giá trị của khoản đó sau buổi nhận xe phụ thuộc hoàn toàn vào câu trả lời này. Nếu khoản giữ chỗ lớn gần bằng cọc, hỏi thẳng liệu đó có thực chất là cọc gọi tên khác đi, để khỏi lúng túng lúc nhận lại.
 
-Khi trao đổi, hãy nhờ chủ xe ghi rõ tên khoản trong tin nhắn thay vì chỉ nói miệng. Một tin nhắn có dòng chữ tiền giữ chỗ, số tiền, và phương án xử lý sau này là bằng chứng đủ để hai bên đọc lại cùng nhau nếu có lệch hiểu. Các câu hỏi nên đặt ra trước khi quyết định mức cọc đã được gợi ý trong bài [đặt cọc khi thuê xe máy cần hỏi rõ điều gì](/thue-xe/2026/09/27/at-coc-khi-thue-xe-may-can-hoi-ro-ieu-gi/), dùng được cho cả khoản giữ chỗ.
+Khi trao đổi, hãy nhờ chủ xe ghi rõ tên khoản trong tin nhắn thay vì chỉ nói miệng. Một tin nhắn có dòng chữ tiền giữ chỗ, số tiền, và phương án xử lý sau này là bằng chứng đủ để hai bên đọc lại cùng nhau nếu có lệch hiểu. Các câu hỏi nên đặt ra trước khi quyết định mức cọc đã được gợi ý trong bài [đặt cọc khi thuê xe máy cần hỏi rõ điều gì](/thue-xe/2026/09/27/dat-coc-khi-thue-xe-may-can-hoi-ro-dieu-gi/), dùng được cho cả khoản giữ chỗ.
 
 ## Trả trước tiền thuê xe có phải đặt cọc không
 
 Câu này hay gặp ở hợp đồng dài hạn, nơi một số nơi nhận tiền thuê kỳ đầu ngay khi giao xe. Trả trước tiền thuê không phải đặt cọc: khoản này đổi lấy quyền sử dụng xe trong kỳ đó, còn cọc đổi lấy trách nhiệm giữ xe nguyên vẹn. Một số nơi dùng luôn một khoản cho cả hai vai trò, ghi chung là tiền đưa trước, và chính cách ghi này là mầm tranh luận. Nếu thấy biên nhận ghi chung chung, hãy đề nghị tách dòng: một dòng ghi tiền thuê kỳ đầu, một dòng ghi tiền cọc, mỗi dòng con số riêng.
 
-Điều kiện nhận lại cọc đáng đọc kỹ hơn cả con số: trong bao lâu sau ngày trả xe, hoàn bằng tiền mặt hay chuyển khoản, và ai là người ký xác nhận. Những tình huống thường gặp quanh việc nhận lại cọc đã được kể trong bài [điều kiện nhận lại tiền cọc](/thue-xe/2026/09/27/ieu-kien-nhan-lai-tien-coc-u/), đáng đọc trước ngày nhận xe thay vì sau ngày trả.
+Điều kiện nhận lại cọc đáng đọc kỹ hơn cả con số: trong bao lâu sau ngày trả xe, hoàn bằng tiền mặt hay chuyển khoản, và ai là người ký xác nhận. Những tình huống thường gặp quanh việc nhận lại cọc đã được kể trong bài [điều kiện nhận lại tiền cọc](/thue-xe/2026/09/27/dieu-kien-nhan-lai-tien-coc-du/), đáng đọc trước ngày nhận xe thay vì sau ngày trả.
 
 ## Ghi đúng tên khoản tiền vào biên nhận và tin nhắn
 

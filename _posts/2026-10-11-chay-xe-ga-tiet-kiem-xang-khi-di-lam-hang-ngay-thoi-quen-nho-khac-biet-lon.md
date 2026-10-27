@@ -43,7 +43,7 @@ Nếu quãng đường của bạn có hai ba phương án tuyến, hãy thử m
 
 ## Tuần đầu với xe ga thuê: làm quen trước, tiết kiệm sau
 
-Mọi thói quen trên đều cần một tuần đầu để vào guồng, và tuần đầu cũng là lúc nên làm quen kỹ chiếc xe: cảm giác ga nhạy tới đâu, phanh trước sau ăn ra sao, vòng tua cao lúc nổ ra sao. Hướng dẫn khi [nhận xe tay ga lần đầu](/thue-xe/2026/10/11/nhan-xe-tay-ga-lan-au-mo-cop-o-xang-chan-chong-nen-nho-chi-nhung-gi/) đáng đọc trước ngày lấy xe. Sau tuần đầu, bạn sẽ biết mức xăng trung bình mỗi ngày của chính mình, và từ đó nhận ra ngay thói quen nào đang kéo số lít lên.
+Mọi thói quen trên đều cần một tuần đầu để vào guồng, và tuần đầu cũng là lúc nên làm quen kỹ chiếc xe: cảm giác ga nhạy tới đâu, phanh trước sau ăn ra sao, vòng tua cao lúc nổ ra sao. Hướng dẫn khi [nhận xe tay ga lần đầu](/thue-xe/2026/10/11/nhan-xe-tay-ga-lan-dau-mo-cop-do-xang-chan-chong-nen-nho-chi-nhung-gi/) đáng đọc trước ngày lấy xe. Sau tuần đầu, bạn sẽ biết mức xăng trung bình mỗi ngày của chính mình, và từ đó nhận ra ngay thói quen nào đang kéo số lít lên.
 
 Người thuê xe đi làm dài hạn nên xem qua các chủ đề trong nhóm [thuê xe theo tháng](/thue-xe/thue-thang/) để nắm thêm về bảo dưỡng giữa kỳ và đổi xe khi cần, cùng các bài kinh nghiệm khác trên trang chủ [thuê xe máy](/thue-xe/).
 

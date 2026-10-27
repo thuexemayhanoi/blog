@@ -24,7 +24,7 @@ So với mua xe cũ, thuê theo tháng giúp người mới vào nghề không p
 
 ## Xếp lộ trình gặp khách trong ngày
 
-Quy tắc đầu tiên khi xếp lịch là nhóm các điểm hẹn theo khu vực: sáng gom hết các điểm phía Tây, chiều mới sang phía Đông, đừng bắt chiếc xe phải băng qua trung tâm nhiều lần trong ngày. Cuộc hẹn xa nên đặt vào khung sớm khi đường còn thoáng, các cuộc gặp gần văn phòng để dành cho giờ cao điểm, khi di chuyển xa rất mất thời gian. Cách chọn khung giờ xuất phát và tuyến chính phụ đã được bàn kỹ trong bài [giờ cao điểm Hà Nội](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/), áp được ngay vào lịch gặp khách.
+Quy tắc đầu tiên khi xếp lịch là nhóm các điểm hẹn theo khu vực: sáng gom hết các điểm phía Tây, chiều mới sang phía Đông, đừng bắt chiếc xe phải băng qua trung tâm nhiều lần trong ngày. Cuộc hẹn xa nên đặt vào khung sớm khi đường còn thoáng, các cuộc gặp gần văn phòng để dành cho giờ cao điểm, khi di chuyển xa rất mất thời gian. Cách chọn khung giờ xuất phát và tuyến chính phụ đã được bàn kỹ trong bài [giờ cao điểm Hà Nội](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/), áp được ngay vào lịch gặp khách.
 
 Khi xếp lịch, hãy cộng thêm phần dự phòng mười lăm phút cho mỗi chặng, và một quỹ dự phòng chung ba mươi phút cho cả ngày. Nếu ngày quá nhiều điểm, cân nhắc chuyển bớt một cuộc sang sáng hôm sau thay vì để cả chuỗi trễ nhau. Cuộc gặp quan trọng nhất nên đặt vào khung sáng, lúc bạn còn tươi và đường còn dễ chạy, thay vì để cuối ngày khi mọi rủi ro đã kịp cộng dồn.
 
@@ -36,7 +36,7 @@ Bộ đồ nghề nên chuẩn bị sẵn trên xe: hộp tài liệu cứng đ�
 
 ## Giữ chiếc xe ổn định giữa tuần bận
 
-Càng chạy nhiều điểm, xe càng cần được soi thường xuyên hơn. Riêng một phút đầu mỗi tuần đủ để ép lốp, thử phanh, xem đèn và nghe tiếng máy: quy trình ngắn đã có trong bài [kiểm tra xe 5 phút mỗi tuần](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-en-dau-cho-nguoi-thue-xe-dai-han/). Nếu giữa tuần nghe tiếng lạ hoặc cảm giác phanh khác thường, báo cửa hàng ngay trong ngày, đừng để tới khi hỏng hẳn giữa đường đi gặp khách.
+Càng chạy nhiều điểm, xe càng cần được soi thường xuyên hơn. Riêng một phút đầu mỗi tuần đủ để ép lốp, thử phanh, xem đèn và nghe tiếng máy: quy trình ngắn đã có trong bài [kiểm tra xe 5 phút mỗi tuần](/thue-xe/2026/10/11/kiem-tra-xe-5-phut-moi-tuan-lop-phanh-den-dau-cho-nguoi-thue-xe-dai-han/). Nếu giữa tuần nghe tiếng lạ hoặc cảm giác phanh khác thường, báo cửa hàng ngay trong ngày, đừng để tới khi hỏng hẳn giữa đường đi gặp khách.
 
 Cứ mỗi vài tuần, tranh thủ sáng thứ bảy sớm đưa xe đi rửa và tự soi lại một vòng sau khi rửa. Xe sạch làm hình ảnh chuyên nghiệp của bạn tốt hơn trước khách, và buổi soi xe cũng là lúc bạn phát hiện sớm những vết xước mới để báo đúng thời điểm, tránh tranh cãi lúc trả xe sau chu kỳ thuê.
 
