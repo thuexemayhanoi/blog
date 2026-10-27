@@ -9,7 +9,7 @@ lang: vi
 tags: ["click chở hai người", "honda click chở hai người", "click yên rộng"]
 parent_id: P-XE-MAY
 child_id: C-HONDA-CLICK
-permalink: /xe-may/2026/10/02/honda-click-cho-hai-nguoi-i-pho-yen-va-cop/
+permalink: /xe-may/2026/10/02/honda-click-cho-hai-nguoi-di-pho-yen-va-cop/
 article_id: BLG-01097
 writer: W2
 ---

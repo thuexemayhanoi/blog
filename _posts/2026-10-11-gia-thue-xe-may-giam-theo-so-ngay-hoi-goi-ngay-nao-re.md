@@ -44,7 +44,7 @@ Nếu lịch trình còn mơ hồ, ví dụ chưa chắc đi bốn hay năm ngà
 
 ## Tránh ba hiểu lầm khi so sánh gói
 
-Hiểu lầm thứ nhất là gộp mọi chi phí vào giá thuê. Hai cửa hàng báo cùng một gói ba ngày nhưng một nơi đã gồm hỗ trợ vá lốp hoặc cứu hộ sự cố, nơi kia tính từng dịch vụ riêng. Cách so là liệt kê toàn bộ dịch vụ cần thiết rồi cộng tổng từng bên, như bài [cách đọc báo giá thuê xe máy: con số nào là con số thật](/thue-xe/2026/09/27/cach-oc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that/) đã chỉ rõ.
+Hiểu lầm thứ nhất là gộp mọi chi phí vào giá thuê. Hai cửa hàng báo cùng một gói ba ngày nhưng một nơi đã gồm hỗ trợ vá lốp hoặc cứu hộ sự cố, nơi kia tính từng dịch vụ riêng. Cách so là liệt kê toàn bộ dịch vụ cần thiết rồi cộng tổng từng bên, như bài [cách đọc báo giá thuê xe máy: con số nào là con số thật](/thue-xe/2026/09/27/cach-doc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that/) đã chỉ rõ.
 
 Hiểu lầm thứ hai là mặc định thuê càng lâu càng rẻ ở mọi cửa hàng. Một số nơi không có gói tuần, chỉ có giá ngày trơn, khi đó thuê mười ngày vẫn đúng mười lần giá ngày. Câu hỏi gói rẻ nhất cho thời hạn của bạn chính là để phát hiện kiểu bảng giá này.
 

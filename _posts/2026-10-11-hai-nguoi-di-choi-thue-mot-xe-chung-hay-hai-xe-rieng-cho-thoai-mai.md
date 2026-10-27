@@ -48,7 +48,7 @@ Vài việc nhỏ giúp một xe chở hai người đỡ mệt hơn:
 - Dừng nghỉ giữa các chặng ở chỗ có bóng râm, xuống xe, uống nước, duỗi chân.
 - Hành lý nặng nên để thấp, gần giữa xe, đừng bắt người ngồi sau đeo balo nặng; ai mang balo du lịch cỡ lớn có thể xem thêm [gợi ý chọn kiểu xe cho người có balo lớn](/hoi-dap/2026/10/11/thue-xe-may-cho-nguoi-co-balo-du-lich-lon-nen-chon-kieu-xe-nao/).
 
-Nếu hai bạn đã chốt đi chung và chỉ còn băn khoăn nên lấy dòng xe nào, [cách chọn xe cho chuyến du lịch của hai người](/hoi-dap/2026/09/29/hai-nguoi-i-du-lich-nen-thue-xe-nao/) đi thẳng vào phần đó.
+Nếu hai bạn đã chốt đi chung và chỉ còn băn khoăn nên lấy dòng xe nào, [cách chọn xe cho chuyến du lịch của hai người](/hoi-dap/2026/09/29/hai-nguoi-di-du-lich-nen-thue-xe-nao/) đi thẳng vào phần đó.
 
 ## Khi nhịp đi lệch nhau, hai xe riêng đáng tiền hơn
 

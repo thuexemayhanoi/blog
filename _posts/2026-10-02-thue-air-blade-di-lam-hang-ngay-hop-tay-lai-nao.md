@@ -9,7 +9,7 @@ lang: vi
 tags: ["thuê air blade đi làm", "air blade đi làm hằng ngày", "air blade chạy phố"]
 parent_id: P-XE-MAY
 child_id: C-HONDA-AIR-BLADE
-permalink: /xe-may/2026/10/02/thue-air-blade-i-lam-hang-ngay-hop-tay-lai-nao/
+permalink: /xe-may/2026/10/02/thue-air-blade-di-lam-hang-ngay-hop-tay-lai-nao/
 article_id: BLG-01096
 writer: W2
 ---
@@ -38,7 +38,7 @@ Với người đi làm, thuê theo tháng thường hợp hơn tính theo ngày
 
 Tiền đặt cọc cần xác nhận trực tiếp với chủ xe, vì mức cọc tùy dòng xe đời xe và cách thuê. Khi nhận xe nên hỏi rõ cọc đặt bằng tiền mặt hay chuyển khoản, và khi trả xe cọc được hoàn theo cách nào, mất bao lâu, để tránh hiểu lầm sau này.
 
-Ngoài tiền thuê, chi phí xăng thường do người thuê tự trả; Air Blade là xe ga nên ăn xăng vừa phải khi chạy phố, và tiết kiệm hơn khi chạy đều trên đường lớn. Người đi làm nên tính thêm phần xăng mỗi tháng để so sánh với phương án khác như xe điện, tương tự cách đã phân tích trong bài [thuê Honda Air Blade chạy đường trường có đáng không](/xe-may/2026/09/27/thue-honda-air-blade-chay-uong-truong-co-ang-khong/) cho tuyến dài.
+Ngoài tiền thuê, chi phí xăng thường do người thuê tự trả; Air Blade là xe ga nên ăn xăng vừa phải khi chạy phố, và tiết kiệm hơn khi chạy đều trên đường lớn. Người đi làm nên tính thêm phần xăng mỗi tháng để so sánh với phương án khác như xe điện, tương tự cách đã phân tích trong bài [thuê Honda Air Blade chạy đường trường có đáng không](/xe-may/2026/09/27/thue-honda-air-blade-chay-duong-truong-co-dang-khong/) cho tuyến dài.
 
 ## Kiểm tra xe trước khi nhận và trước khi trả
 

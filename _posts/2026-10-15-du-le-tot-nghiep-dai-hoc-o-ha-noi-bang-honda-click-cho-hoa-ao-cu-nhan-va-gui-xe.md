@@ -43,7 +43,7 @@ Nếu bạn mặc váy, áo dài hay giày cao gót để chụp ảnh, mang the
 
 ## Chở hai người và đồ đạc
 
-Ngày lễ, bạn thường chở thêm bố mẹ hay bạn bè, kèm hoa, túi quà, áo lễ phục. Click chở hai người được, nhưng đừng cố chở thêm quá nhiều đồ. Xếp đồ vào cốp, túi nhỏ đeo trước ngực, hoa cho người ngồi sau ôm. Giới hạn chở của Click và cách xếp đồ có ở bài [Honda Click chở hai người đi phố: yên và cốp](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-i-pho-yen-va-cop/ "Honda Click chở hai người đi phố"). Nếu cả nhà đông, chia ra đi hai xe hoặc người lớn tuổi đi xe công nghệ.
+Ngày lễ, bạn thường chở thêm bố mẹ hay bạn bè, kèm hoa, túi quà, áo lễ phục. Click chở hai người được, nhưng đừng cố chở thêm quá nhiều đồ. Xếp đồ vào cốp, túi nhỏ đeo trước ngực, hoa cho người ngồi sau ôm. Giới hạn chở của Click và cách xếp đồ có ở bài [Honda Click chở hai người đi phố: yên và cốp](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-di-pho-yen-va-cop/ "Honda Click chở hai người đi phố"). Nếu cả nhà đông, chia ra đi hai xe hoặc người lớn tuổi đi xe công nghệ.
 
 ## Gửi xe ngày trường đông
 

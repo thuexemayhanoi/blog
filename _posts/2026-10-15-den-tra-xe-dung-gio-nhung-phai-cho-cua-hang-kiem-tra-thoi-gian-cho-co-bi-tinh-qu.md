@@ -78,7 +78,7 @@ Vài gợi ý cụ thể:
 - Không chọn giờ trả rơi vào cuối buổi tối, vì gần 21:00 là lúc dễ đông.
 - Đặt trước phương tiện đi tiếp sau khi trả xe, nhưng đừng hẹn tài xế đến đúng phút trả xe.
 
-Nếu bạn đang tính thuê xe để chạy ra Nội Bài, đọc thêm bài [đi sân bay Nội Bài nên thuê xe máy từ đâu và lúc nào](/thue-xe/2026/09/29/i-san-bay-noi-bai-nen-thue-xe-may-tu-au-va-luc-nao/).
+Nếu bạn đang tính thuê xe để chạy ra Nội Bài, đọc thêm bài [đi sân bay Nội Bài nên thuê xe máy từ đâu và lúc nào](/thue-xe/2026/09/29/di-san-bay-noi-bai-nen-thue-xe-may-tu-dau-va-luc-nao/).
 
 ## Kết luận
 

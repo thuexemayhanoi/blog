@@ -7,7 +7,7 @@ description: "Honda Vision thuê đi làm tiết kiệm xăng không: mức tiê
 categories: [Kinh nghiệm]
 lang: vi
 tags: [Honda Vision thuê đi làm tiết kiệm, xe Vision đi lại hằng ngày, thuê Honda Vision, chi phí xăng đi làm]
-permalink: /xe-may/2026/10/07/honda-vision-thue-i-lam-hang-ngay-co-ton-xang-khong/
+permalink: /xe-may/2026/10/07/honda-vision-thue-di-lam-hang-ngay-co-ton-xang-khong/
 parent_id: P-XE-MAY
 child_id: C-HONDA-VISION
 article_id: BLG-01477

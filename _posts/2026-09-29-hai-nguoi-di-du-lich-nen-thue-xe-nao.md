@@ -7,7 +7,7 @@ description: "Hai người đi du lịch nên thuê xe nào cho thoải mái? G�
 categories: [Hỏi đáp]
 lang: vi
 tags: [thue-xe-2-nguoi, du-lich-doi, chon-xe]
-permalink: /hoi-dap/2026/09/29/hai-nguoi-i-du-lich-nen-thue-xe-nao/
+permalink: /hoi-dap/2026/09/29/hai-nguoi-di-du-lich-nen-thue-xe-nao/
 parent_id: P-HOI-DAP
 child_id: C-HD-CHON-XE
 article_id: BLG-00880

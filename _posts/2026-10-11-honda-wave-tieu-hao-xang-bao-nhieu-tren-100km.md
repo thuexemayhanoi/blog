@@ -32,7 +32,7 @@ Một nguyên nhân nữa đặc thù xe thuê: xe để lâu không chạy. Má
 
 ## Xe wave tiện xăng không khi so với xe ga
 
-So với xe ga cùng tầm, Wave tiện xăng hơn ở phần lớn tình huống, vì hệ truyền động bằng xích cơ khí đỡ hao lực hơn bộ truyền vô lục. Xe ga bù lại ở chỗ phố đông: không thắt cổ chân, không về số, nên người đi gần liên tục trong giờ cao điểm thấy xe ga đỡ mỏi. Người cân nhắc giữa hai dòng có thể đọc thêm bài [xe ga tiết kiệm xăng khi ì ở nơi nào là đúng](/xe-may/2026/09/29/xe-ga-tiet-kiem-xang-khi-i-noi-o-la-dong-nao/) để hiểu vì sao hai dòng tiêu hao khác nhau theo cảnh, hoặc xem bài [xe số tiết kiệm xăng thế nào](/xe-may/2026/09/27/xe-so-tiet-kiem-xang-the-nao/) cho góc nhìn của dòng số.
+So với xe ga cùng tầm, Wave tiện xăng hơn ở phần lớn tình huống, vì hệ truyền động bằng xích cơ khí đỡ hao lực hơn bộ truyền vô lục. Xe ga bù lại ở chỗ phố đông: không thắt cổ chân, không về số, nên người đi gần liên tục trong giờ cao điểm thấy xe ga đỡ mỏi. Người cân nhắc giữa hai dòng có thể đọc thêm bài [xe ga tiết kiệm xăng khi ì ở nơi nào là đúng](/xe-may/2026/09/29/xe-ga-tiet-kiem-xang-khi-di-noi-do-la-dong-nao/) để hiểu vì sao hai dòng tiêu hao khác nhau theo cảnh, hoặc xem bài [xe số tiết kiệm xăng thế nào](/xe-may/2026/09/27/xe-so-tiet-kiem-xang-the-nao/) cho góc nhìn của dòng số.
 
 Tóm phần so sánh: chạy dài và nhiều tải thì Wave nhỉnh hơn; phố ngắn nghỉ liên tục thì chênh lệch thu hẹp, và sự tiện của xe ga bắt đầu đáng giá. Chọn theo cung đường bạn thực sự đi nhiều trong kỳ thuê, không theo cảm giác chung chung.
 

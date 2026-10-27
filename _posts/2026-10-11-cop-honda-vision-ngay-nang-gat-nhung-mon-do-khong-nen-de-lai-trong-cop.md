@@ -24,7 +24,7 @@ Người mới thuê xe ga thường coi cốp là cái túi thứ hai. Cốp n�
 
 Trước khi nổ máy, hãy đứng cạnh xe một phút và tự hỏi: trưa nay mình có đỗ xe ngoài trời không? Nếu có, mọi thứ trong cốp sẽ nằm trong một khoang kín dưới yên suốt nhiều tiếng, trong lúc bạn ngồi quán mát.
 
-Hãy chuẩn bị sẵn túi vải hoặc ba lô nhỏ đeo chéo cho những thứ không muốn xa tay. Với các bạn nữ đi làm hằng ngày bằng Vision, như trong bài [Honda Vision với nữ giới đi làm hằng ngày](/xe-may/2026/09/27/honda-vision-voi-nu-gioi-i-lam-hang-ngay/), cái túi này gần như là bắt buộc. Nó vừa là chỗ cất đồ quý, vừa giúp bạn khỏi chạy ra xe mỗi lần cần món gì.
+Hãy chuẩn bị sẵn túi vải hoặc ba lô nhỏ đeo chéo cho những thứ không muốn xa tay. Với các bạn nữ đi làm hằng ngày bằng Vision, như trong bài [Honda Vision với nữ giới đi làm hằng ngày](/xe-may/2026/09/27/honda-vision-voi-nu-gioi-di-lam-hang-ngay/), cái túi này gần như là bắt buộc. Nó vừa là chỗ cất đồ quý, vừa giúp bạn khỏi chạy ra xe mỗi lần cần món gì.
 
 ## Giữa trưa ở Hồ Tây: vì sao cốp xe ga bị nóng nhanh hơn bạn nghĩ
 

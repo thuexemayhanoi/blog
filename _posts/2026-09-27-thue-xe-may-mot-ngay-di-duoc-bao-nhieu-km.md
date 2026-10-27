@@ -39,7 +39,7 @@ Xe cho thuê mỗi ngày đều được chủ cửa hàng kiểm tra, nhưng m�
 
 Nếu mục tiêu chỉ là phố cổ, Hồ Gươm, Hồ Tây và vài điểm ngắm hoàng hôn, một ngày 40 đến 60 km là quá đủ, kể cả đi kèm vòng qua Long Biên qua cầu. Nếu muốn ra vùng ven như dọc bờ sông Hồng, các hồ lớn vành đai ngoài, hoặc phố cổ Sơn Tây trong ngày, hãy đặt mức 100 đến 150 km và nghỉ giữa buổi trưa. Tuyến tỉnh một ngày kiểu Ninh Bình hoặc Thái Nguyên hợp khoảng 200 km khứ hồi từ Hà Nội, xuất phát sớm để tránh về khuya.
 
-Người đi phượt kinh nghiệm thường xếp ngày xa nhất vào giữa kỳ thuê, không phải ngày cuối, để nếu xe có trục trặc nhỏ vẫn còn thời gian xử lý trước giờ trả. Cách tính chi phí cho cả chuyến nhiều ngày được mô tả trong bài [dự toán chi phí thuê xe máy cho chuyến 3 ngày 2 đêm](/thue-xe/2026/09/27/du-toan-chi-phi-thue-xe-may-cho-chuyen-3-ngay-2-em/), hữu ích khi bạn cân nhắc thuê theo ngày hay theo tuần.
+Người đi phượt kinh nghiệm thường xếp ngày xa nhất vào giữa kỳ thuê, không phải ngày cuối, để nếu xe có trục trặc nhỏ vẫn còn thời gian xử lý trước giờ trả. Cách tính chi phí cho cả chuyến nhiều ngày được mô tả trong bài [dự toán chi phí thuê xe máy cho chuyến 3 ngày 2 đêm](/thue-xe/2026/09/27/du-toan-chi-phi-thue-xe-may-cho-chuyen-3-ngay-2-dem/), hữu ích khi bạn cân nhắc thuê theo ngày hay theo tuần.
 
 ## Kết hợp quãng đường với thời gian di chuyển
 

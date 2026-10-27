@@ -7,7 +7,7 @@ description: "Nên thuê Vision hay Air Blade khi đi phố? So sánh hai dòng 
 categories: [Hỏi đáp]
 lang: vi
 tags: [vision, air-blade, chon-xe]
-permalink: /hoi-dap/2026/09/30/nen-thue-vision-hay-air-blade-khi-i-pho/
+permalink: /hoi-dap/2026/09/30/nen-thue-vision-hay-air-blade-khi-di-pho/
 parent_id: P-HOI-DAP
 child_id: C-HD-CHON-XE
 article_id: BLG-00966

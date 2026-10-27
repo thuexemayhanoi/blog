@@ -48,7 +48,7 @@ Bó hoa ngày lễ thường to, bọc giấy, có khi kèm hộp hoặc giỏ. 
 - **Không để bó hoa trong cốp.** Cốp kín, nóng và chật, hoa sẽ dập và héo nhanh.
 - **Không treo hoa ở tay lái hay gương.** Bó hoa đung đưa làm lệch hướng lái và che xi nhan.
 
-Kinh nghiệm bọc hoa để chở về không dập có ở bài [mua hoa ở chợ hoa Quảng Bá sáng sớm, chở hoa về không dập](/xe-may/2026/10/11/mua-hoa-o-cho-hoa-quang-ba-sang-som-bang-xe-dap-dien-cho-hoa-ve-khong-dap/ "Chở hoa về không dập"). Nếu đi hai người, cách xếp người và đồ trên Click có ở bài [Honda Click chở hai người đi phố: yên và cốp](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-i-pho-yen-va-cop/ "Honda Click chở hai người đi phố").
+Kinh nghiệm bọc hoa để chở về không dập có ở bài [mua hoa ở chợ hoa Quảng Bá sáng sớm, chở hoa về không dập](/xe-may/2026/10/11/mua-hoa-o-cho-hoa-quang-ba-sang-som-bang-xe-dap-dien-cho-hoa-ve-khong-dap/ "Chở hoa về không dập"). Nếu đi hai người, cách xếp người và đồ trên Click có ở bài [Honda Click chở hai người đi phố: yên và cốp](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-di-pho-yen-va-cop/ "Honda Click chở hai người đi phố").
 
 ## Lái xe khi đang chở hoa
 

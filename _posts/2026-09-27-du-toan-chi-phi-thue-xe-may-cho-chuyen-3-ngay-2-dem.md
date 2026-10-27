@@ -7,7 +7,7 @@ description: "Chi phí thuê xe máy 3 ngày phụ thuộc dòng xe, cách tính
 categories: [Kinh nghiệm]
 lang: vi
 tags: [chi phí thuê xe máy 3 ngày, thuê xe 3 ngày bao nhiêu, dự toán tiền thuê xe du lịch]
-permalink: /thue-xe/2026/09/27/du-toan-chi-phi-thue-xe-may-cho-chuyen-3-ngay-2-em/
+permalink: /thue-xe/2026/09/27/du-toan-chi-phi-thue-xe-may-cho-chuyen-3-ngay-2-dem/
 parent_id: P-THUE-XE
 child_id: C-THUE-GIA
 article_id: BLG-00496

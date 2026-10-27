@@ -44,7 +44,7 @@ Lead cũng đi phố tốt, nhưng thân xe dài và nặng hơn khiến bạn c
 
 Nếu chỉ chọn một lý do để thuê Lead, thì đó là cốp. Khoang dưới yên của Lead nổi tiếng rộng, đủ để cất mũ bảo hiểm cùng áo mưa, túi xách và vài món đồ lặt vặt mà không phải xếp ép. Người đi chợ, người mang theo laptop và túi đồ thay, hay cha mẹ chở theo bỉm sữa cho con đều thấy cái tiện này ngay ngày đầu.
 
-Cốp Vision nhỏ hơn rõ. Nó vẫn đủ cho áo mưa, giấy tờ và đồ cá nhân gọn, nhưng nhiều loại mũ không cất vừa và gần như không còn chỗ cho túi lớn. Những gì cốp Vision chứa được trong thực tế đã được thử kỹ ở bài [khoang để đồ của Honda Vision chứa được gì](/xe-may/2026/09/27/khoang-o-cua-honda-vision-chua-uoc-gi/).
+Cốp Vision nhỏ hơn rõ. Nó vẫn đủ cho áo mưa, giấy tờ và đồ cá nhân gọn, nhưng nhiều loại mũ không cất vừa và gần như không còn chỗ cho túi lớn. Những gì cốp Vision chứa được trong thực tế đã được thử kỹ ở bài [khoang để đồ của Honda Vision chứa được gì](/xe-may/2026/09/27/khoang-do-cua-honda-vision-chua-duoc-gi/).
 
 ### Sàn để chân phẳng
 

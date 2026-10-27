@@ -41,7 +41,7 @@ Với tuần phượt, danh sách đồ nên theo nguyên tắc gọn nhẹ: áo
 
 Về chỗ ngủ, chốt trước khách sạn hoặc homestay cho những đêm ở tuyến xa, nhất là cuối tuần khi các điểm nghỉ đông khách. Gần nơi lưu trú nên có chỗ để xe an toàn qua đêm; hỏi rõ trước khi đặt để không phải dời chỗ giữa chừng.
 
-Giấy tờ cần mang theo khi thuê xe đã được nêu trong bài [thủ tục thuê xe máy ở Hà Nội](/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au/): đọc trước để ngày nhận xe không bị chậm vì thiếu hồ sơ.
+Giấy tờ cần mang theo khi thuê xe đã được nêu trong bài [thủ tục thuê xe máy ở Hà Nội](/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-dau/): đọc trước để ngày nhận xe không bị chậm vì thiếu hồ sơ.
 
 ## Quản lý rủi ro trong suốt tuần
 

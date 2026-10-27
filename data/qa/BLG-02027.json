@@ -47,7 +47,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-11-gia-thue-xe-may-giam-theo-so-ngay-hoi-goi-ngay-nao-re.md",
-  "content_sha256": "44e1c070081c51b6742daeed4a5f98c49f80b5ac0cce87b5ba96aa3bf8b2d7e6",
+  "content_sha256": "2ab2f3d66052bd295d34788248cba9f449b5ff9e3bd867100f3d2585f8c3ba24",
   "matrix_row_sha256": "9344550cb22c700e623a63d97d1e7cf2bf66dee42ced4a9faeafe4a440e43b74",
   "result": "PASS",
   "grade": "EXCELLENT",
@@ -57,17 +57,17 @@
     "kind": "link-retarget",
     "purpose": "internal-link-retarget",
     "reason": "Tro lien ket noi bo thang toi URL moi (sau di tru slug d -> d, hoac them dau / cuoi) thay vi qua trang chuyen huong/301 cua may chu. Issue #77.",
-    "approval_ref": "chu-repo:chi-thi-2026-10-26-master-task-hoan-thanh-1410-url/issue-77 (session_01D88QamSe7ksLm1ZpE5Y7fT)",
-    "batch_id": "links-20261027-p03",
-    "revised_at": "2026-10-26T23:57:08+00:00",
-    "previous_evidence_sha256": "78611b1ff1a79d98bdc3e86b20f11164930db39789bec5efbd31ec073bde241f",
-    "previous_content_sha256": "e1457b50b4a6fa961c5445ac1af0e262878efb68a0363c25c1e728e860501631",
+    "approval_ref": "owner-chat-2026-10-28/issue-77",
+    "batch_id": "links-20261028-c02b-01",
+    "revised_at": "2026-10-27T19:02:46+00:00",
+    "previous_evidence_sha256": "8f3f8a1088a27cd9f62c97bfbe2eaeffde78752d8b02dafce7c4ca59ccd53ea1",
+    "previous_content_sha256": "44e1c070081c51b6742daeed4a5f98c49f80b5ac0cce87b5ba96aa3bf8b2d7e6",
     "previous_matrix_row_sha256": "9344550cb22c700e623a63d97d1e7cf2bf66dee42ced4a9faeafe4a440e43b74",
-    "new_content_sha256": "44e1c070081c51b6742daeed4a5f98c49f80b5ac0cce87b5ba96aa3bf8b2d7e6",
-    "mapping_sha256": "2d8e3b4cec45c8f31e31c9ce93f8c5931578094a7a3c26351b319199a52eb170",
+    "new_content_sha256": "2ab2f3d66052bd295d34788248cba9f449b5ff9e3bd867100f3d2585f8c3ba24",
+    "mapping_sha256": "e537c2e65f0910b0b7de0188886fc822290aaca9b4792aaefe39a2decad1b3b3",
     "links_retargeted": 1,
     "targets": {
-      "/thue-xe/2026/09/27/thue-xe-may-mot-ngay-i-uoc-bao-nhieu-km/": 1
+      "/thue-xe/2026/09/27/cach-oc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that/": 1
     },
     "previous_scores": {
       "quality": 100,
@@ -80,13 +80,52 @@
       "seo_min": 70
     },
     "tool": "scripts/factory/migrate-slug-urls.py links-apply",
-    "tool_commit": "df50694d09de3b87c269d7e31d5b67d08302bcea",
-    "scorer_code_sha256": "b4a8836fab455ec134ecb2a01ebaa1ebce70e7a503a12e3fb00265e671d73201",
-    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "tool_commit": "bdc9846d27d396d923582606ab829e28ea1b72c5",
+    "scorer_code_sha256": "e75668446d2abd25738e25f75c2790e0a2208bc96e1266103665b0366b729497",
+    "business_facts_sha256": "7725c6795ff9b6e9e2988f2d298f660e6d97ba11eee84f43473468c1ecd05b04",
     "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
     "migrate_tool_sha256": "ddd2be356a2f313bf991d56eab56c101545909274cab45dcbb11e2039f5bcefd",
     "slugkit_sha256": "3ca830e9d1fe26935aafc87750f95908dbe3b5cb9aa92d2779157ef4e6b1ec4d",
     "baseline_sha256": "6a91c1c7e18ad2b6c0a85d309ae9939cc91c06e54106bf22f46280194222197c",
-    "note": "chi doi DICH lien ket noi bo (chu lien ket, tieu de, # doan va moi byte khac giu nguyen); scored_at/published_at o cap tren giu moc lich su goc; cham diem doc lap luc revised_at"
+    "note": "chi doi DICH lien ket noi bo (chu lien ket, tieu de, # doan va moi byte khac giu nguyen); scored_at/published_at o cap tren giu moc lich su goc; cham diem doc lap luc revised_at",
+    "history": [
+      {
+        "schema": "revision/1",
+        "kind": "link-retarget",
+        "purpose": "internal-link-retarget",
+        "reason": "Tro lien ket noi bo thang toi URL moi (sau di tru slug d -> d, hoac them dau / cuoi) thay vi qua trang chuyen huong/301 cua may chu. Issue #77.",
+        "approval_ref": "chu-repo:chi-thi-2026-10-26-master-task-hoan-thanh-1410-url/issue-77 (session_01D88QamSe7ksLm1ZpE5Y7fT)",
+        "batch_id": "links-20261027-p03",
+        "revised_at": "2026-10-26T23:57:08+00:00",
+        "previous_evidence_sha256": "78611b1ff1a79d98bdc3e86b20f11164930db39789bec5efbd31ec073bde241f",
+        "previous_content_sha256": "e1457b50b4a6fa961c5445ac1af0e262878efb68a0363c25c1e728e860501631",
+        "previous_matrix_row_sha256": "9344550cb22c700e623a63d97d1e7cf2bf66dee42ced4a9faeafe4a440e43b74",
+        "new_content_sha256": "44e1c070081c51b6742daeed4a5f98c49f80b5ac0cce87b5ba96aa3bf8b2d7e6",
+        "mapping_sha256": "2d8e3b4cec45c8f31e31c9ce93f8c5931578094a7a3c26351b319199a52eb170",
+        "links_retargeted": 1,
+        "targets": {
+          "/thue-xe/2026/09/27/thue-xe-may-mot-ngay-i-uoc-bao-nhieu-km/": 1
+        },
+        "previous_scores": {
+          "quality": 100,
+          "seo": 100,
+          "grade": "EXCELLENT"
+        },
+        "scorer": "operator-qa-deterministic-v1",
+        "thresholds": {
+          "quality_min": 75,
+          "seo_min": 70
+        },
+        "tool": "scripts/factory/migrate-slug-urls.py links-apply",
+        "tool_commit": "df50694d09de3b87c269d7e31d5b67d08302bcea",
+        "scorer_code_sha256": "b4a8836fab455ec134ecb2a01ebaa1ebce70e7a503a12e3fb00265e671d73201",
+        "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+        "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+        "migrate_tool_sha256": "ddd2be356a2f313bf991d56eab56c101545909274cab45dcbb11e2039f5bcefd",
+        "slugkit_sha256": "3ca830e9d1fe26935aafc87750f95908dbe3b5cb9aa92d2779157ef4e6b1ec4d",
+        "baseline_sha256": "6a91c1c7e18ad2b6c0a85d309ae9939cc91c06e54106bf22f46280194222197c",
+        "note": "chi doi DICH lien ket noi bo (chu lien ket, tieu de, # doan va moi byte khac giu nguyen); scored_at/published_at o cap tren giu moc lich su goc; cham diem doc lap luc revised_at"
+      }
+    ]
   }
 }

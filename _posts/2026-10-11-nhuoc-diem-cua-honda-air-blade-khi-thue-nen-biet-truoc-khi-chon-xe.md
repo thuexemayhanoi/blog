@@ -58,7 +58,7 @@ Gom bốn điểm trên lại, Air Blade thường kém hợp với những ngư
 - Người có chiều cao khiêm tốn, ngồi lên thấy chân chạm đất chưa vững.
 - Người ưu tiên giá ngày thấp nhất và chỉ đi những quãng ngắn trong nội thành.
 
-Ngược lại, nếu bạn đã quen xe ga, đi gọn đồ và hay chạy ra những đoạn thoáng như đê ven sông Hồng thì các nhược điểm trên khá nhẹ. Thuê để đi làm hằng ngày là kịch bản nên cân nhắc kỹ hơn; bài [thuê Air Blade đi làm hằng ngày](/xe-may/2026/10/02/thue-air-blade-i-lam-hang-ngay-hop-tay-lai-nao/) giúp bạn xem tay lái của mình thuộc nhóm nào.
+Ngược lại, nếu bạn đã quen xe ga, đi gọn đồ và hay chạy ra những đoạn thoáng như đê ven sông Hồng thì các nhược điểm trên khá nhẹ. Thuê để đi làm hằng ngày là kịch bản nên cân nhắc kỹ hơn; bài [thuê Air Blade đi làm hằng ngày](/xe-may/2026/10/02/thue-air-blade-di-lam-hang-ngay-hop-tay-lai-nao/) giúp bạn xem tay lái của mình thuộc nhóm nào.
 
 ## Chuyển sang dòng nào khi Air Blade chưa vừa
 

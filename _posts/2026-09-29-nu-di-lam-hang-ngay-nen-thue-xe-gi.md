@@ -7,7 +7,7 @@ description: "Đi làm mỗi ngày thì xe máy cho nữ đi làm nên chọn xe
 categories: [Hỏi đáp]
 lang: vi
 tags: [xe-ga, di-lam, chon-xe]
-permalink: /hoi-dap/2026/09/29/nu-i-lam-hang-ngay-nen-thue-xe-gi/
+permalink: /hoi-dap/2026/09/29/nu-di-lam-hang-ngay-nen-thue-xe-gi/
 parent_id: P-HOI-DAP
 child_id: C-HD-CHON-XE
 article_id: BLG-00879
