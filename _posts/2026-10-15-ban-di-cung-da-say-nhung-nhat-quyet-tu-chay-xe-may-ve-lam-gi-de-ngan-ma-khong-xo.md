@@ -72,7 +72,7 @@ Thuyết phục chỉ thành công khi có sẵn phương án thay thế:
 - **Gọi người nhà đến đón.** Một cuộc điện thoại thường nhanh hơn mọi lời khuyên.
 - **Xe để lại thì gửi bãi có người trông,** chụp vé và biển số gửi cho chủ xe.
 
-Hôm sau cũng chưa chắc đã lái được ngay. Người uống nhiều đêm trước, sáng hôm sau vẫn có thể còn cồn trong hơi thở, xem thêm bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/em-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-o-con-khong/).
+Hôm sau cũng chưa chắc đã lái được ngay. Người uống nhiều đêm trước, sáng hôm sau vẫn có thể còn cồn trong hơi thở, xem thêm bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/dem-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-do-con-khong/).
 
 ## Khi chiếc xe là xe đang thuê
 
@@ -82,7 +82,7 @@ Người thuê đã say thì có đưa xe cho người khác chở về không?
 - **Không ai đủ điều kiện thì để xe lại,** gửi bãi có người trông và giữ vé cẩn thận.
 - **Liên hệ cửa hàng** để hỏi cách xử lý xe để lại qua đêm. Với xe thuê từ tiệm chúng tôi ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, hãy gọi 0942467674 trong giờ mở cửa 09:00 đến 21:00; mọi phương án cụ thể cần xác nhận trực tiếp.
 
-Nếu chẳng may bị xử lý khi đang đi xe thuê, xem bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/).
+Nếu chẳng may bị xử lý khi đang đi xe thuê, xem bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-do-con/).
 
 ## Khi tình huống vượt khỏi tầm tay
 

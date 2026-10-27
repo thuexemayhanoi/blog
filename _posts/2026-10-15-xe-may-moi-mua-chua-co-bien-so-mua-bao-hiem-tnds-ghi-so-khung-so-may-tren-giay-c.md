@@ -72,11 +72,11 @@ Khi đã có chứng nhận đăng ký và biển số:
 
 ## Xe máy mới mua cần bảo hiểm gì
 
-Bắt buộc theo luật là bảo hiểm trách nhiệm dân sự của chủ xe cơ giới. Các gói tự nguyện như bảo hiểm người ngồi trên xe hay thân xe là lựa chọn thêm, không phải điều kiện để lưu thông. Cân nhắc có nên mua thêm có ở bài [bảo hiểm tự nguyện xe máy có đáng mua thêm không](/an-toan-phap-ly/2026/10/10/bao-hiem-tu-nguyen-xe-may-co-ang-mua-them-khong/); nơi mua và cách xem hiệu lực có ở bài [mua bảo hiểm xe máy ở đâu và hiệu lực ra sao](/an-toan-phap-ly/2026/09/28/mua-bao-hiem-xe-may-o-au-va-hieu-luc-ra-sao/).
+Bắt buộc theo luật là bảo hiểm trách nhiệm dân sự của chủ xe cơ giới. Các gói tự nguyện như bảo hiểm người ngồi trên xe hay thân xe là lựa chọn thêm, không phải điều kiện để lưu thông. Cân nhắc có nên mua thêm có ở bài [bảo hiểm tự nguyện xe máy có đáng mua thêm không](/an-toan-phap-ly/2026/10/10/bao-hiem-tu-nguyen-xe-may-co-dang-mua-them-khong/); nơi mua và cách xem hiệu lực có ở bài [mua bảo hiểm xe máy ở đâu và hiệu lực ra sao](/an-toan-phap-ly/2026/09/28/mua-bao-hiem-xe-may-o-dau-va-hieu-luc-ra-sao/).
 
 ## Một tình huống ở Hà Nội
 
-Bạn mua xe ở một đại lý tại Cầu Giấy, nhà ở Long Biên. Đừng tranh thủ chạy chiếc xe chưa biển qua cầu Chương Dương về nhà. Hãy hỏi đại lý cách đưa xe đến nơi đăng ký đúng quy định, giữ giấy bảo hiểm cùng hóa đơn, và chỉ chạy xe ra đường khi đã có đăng ký, biển số hoặc thuộc trường hợp luật cho phép. Cách mang giấy khi đi đường có ở bài [mang theo giấy bảo hiểm xe máy khi đi đường](/an-toan-phap-ly/2026/10/10/mang-theo-giay-bao-hiem-xe-may-khi-i-uong/).
+Bạn mua xe ở một đại lý tại Cầu Giấy, nhà ở Long Biên. Đừng tranh thủ chạy chiếc xe chưa biển qua cầu Chương Dương về nhà. Hãy hỏi đại lý cách đưa xe đến nơi đăng ký đúng quy định, giữ giấy bảo hiểm cùng hóa đơn, và chỉ chạy xe ra đường khi đã có đăng ký, biển số hoặc thuộc trường hợp luật cho phép. Cách mang giấy khi đi đường có ở bài [mang theo giấy bảo hiểm xe máy khi đi đường](/an-toan-phap-ly/2026/10/10/mang-theo-giay-bao-hiem-xe-may-khi-di-duong/).
 
 ## Nguồn tham khảo và lưu ý
 

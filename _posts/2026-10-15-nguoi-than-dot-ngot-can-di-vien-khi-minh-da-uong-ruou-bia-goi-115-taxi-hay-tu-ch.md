@@ -55,7 +55,7 @@ Không chắc có nặng hay không thì cứ gọi; tổng đài viên sẽ gi�
 2. **Tình trạng:** còn tỉnh không, thở thế nào, xảy ra từ lúc nào.
 3. **Số điện thoại** để xe cấp cứu gọi lại khi tìm đường.
 
-Sau đó cử một người tỉnh táo ra đầu ngõ đón xe, mở sẵn cửa, dọn lối đi. Phân biệt 113, 114, 115 có ở bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/).
+Sau đó cử một người tỉnh táo ra đầu ngõ đón xe, mở sẵn cửa, dọn lối đi. Phân biệt 113, 114, 115 có ở bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/).
 
 ## Khi nào gọi taxi hoặc nhờ người không uống
 

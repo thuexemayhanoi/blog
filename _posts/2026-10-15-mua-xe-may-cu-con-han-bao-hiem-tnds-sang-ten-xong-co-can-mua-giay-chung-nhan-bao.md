@@ -56,7 +56,7 @@ Câu nên hỏi người bán, xin trả lời qua tin nhắn để có bằng c
 
 Nếu câu trả lời không rõ, hoặc người bán đã chấm dứt hợp đồng, cách an toàn là mua giấy chứng nhận mới đứng tên mình. Các bản tóm tắt cũng nhắc mỗi xe được cấp một giấy chứng nhận, nên khi mua mới hãy báo doanh nghiệp về hợp đồng cũ để được hướng dẫn.
 
-Khi đi đường, điểm d khoản 1 Điều 56 Luật số 36/2024/QH15 yêu cầu người lái mang theo chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới. Cách mang bản giấy hay bản điện tử có ở bài [mang theo giấy bảo hiểm xe máy khi đi đường](/an-toan-phap-ly/2026/10/10/mang-theo-giay-bao-hiem-xe-may-khi-i-uong/); nơi mua và cách xem hiệu lực có ở bài [mua bảo hiểm xe máy ở đâu và hiệu lực ra sao](/an-toan-phap-ly/2026/09/28/mua-bao-hiem-xe-may-o-au-va-hieu-luc-ra-sao/).
+Khi đi đường, điểm d khoản 1 Điều 56 Luật số 36/2024/QH15 yêu cầu người lái mang theo chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới. Cách mang bản giấy hay bản điện tử có ở bài [mang theo giấy bảo hiểm xe máy khi đi đường](/an-toan-phap-ly/2026/10/10/mang-theo-giay-bao-hiem-xe-may-khi-di-duong/); nơi mua và cách xem hiệu lực có ở bài [mua bảo hiểm xe máy ở đâu và hiệu lực ra sao](/an-toan-phap-ly/2026/09/28/mua-bao-hiem-xe-may-o-dau-va-hieu-luc-ra-sao/).
 
 ## Thủ tục sang tên: chỉ nên nắm nguyên tắc
 

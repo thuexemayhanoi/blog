@@ -82,7 +82,7 @@ Với xe thuê, chia thành hai trường hợp:
 
 **Biển cong, nứt, mờ chữ, lỏng ốc hoặc gắn lệch.** Đây là chuyện của cửa hàng. Đừng tự uốn, tự tháo, tự bắt thêm ốc hay gắn khung trang trí. Tự uốn có thể làm nứt biển; tự tháo lắp có thể khiến biển bị gắn không đúng vị trí, chính là hành vi bị cấm ở Điều 9 khoản 17. Chụp ảnh tấm biển rồi báo cửa hàng.
 
-Nếu thuê ở cửa hàng Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, bạn gọi 0942467674 trong giờ 09:00–21:00 để cửa hàng xem và xử lý. Cách hỗ trợ cụ thể, thời gian và chi phí nếu cần đổi xe hay giao nhận, hãy xác nhận trực tiếp trước. Nếu biển rơi hẳn giữa đường, xem thêm [xe máy thuê rơi biển số khi đang chạy](/thue-xe/2026/10/09/xe-may-thue-roi-bien-so-khi-ang-chay/).
+Nếu thuê ở cửa hàng Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, bạn gọi 0942467674 trong giờ 09:00–21:00 để cửa hàng xem và xử lý. Cách hỗ trợ cụ thể, thời gian và chi phí nếu cần đổi xe hay giao nhận, hãy xác nhận trực tiếp trước. Nếu biển rơi hẳn giữa đường, xem thêm [xe máy thuê rơi biển số khi đang chạy](/thue-xe/2026/10/09/xe-may-thue-roi-bien-so-khi-dang-chay/).
 
 ## Nguồn đối chiếu
 

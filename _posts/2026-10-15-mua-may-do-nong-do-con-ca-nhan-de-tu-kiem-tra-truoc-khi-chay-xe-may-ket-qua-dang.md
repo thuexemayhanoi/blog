@@ -50,14 +50,14 @@ Luật không đặt ra một mức "uống vừa đủ" để bạn nhắm tớ
 2. **Việc xác định nồng độ cồn có quy định riêng.** Luật giao Bộ Y tế quy định về xác định nồng độ cồn và nồng độ cồn nội sinh trong máu (Điều 87 khoản 5).
 3. **Cồn ảnh hưởng tới phán đoán.** Người đã uống thường đánh giá thấp mức độ ảnh hưởng của mình, kể cả khi đọc con số trên màn hình.
 
-Mức xử phạt cụ thể thuộc Nghị định 168/2024/NĐ-CP; bài này không nêu con số. Trình tự khi bị kiểm tra được trình bày ở bài [đo nồng độ cồn: quyền và trình tự](/an-toan-phap-ly/2026/09/28/o-nong-o-con-quyen-va-trinh-tu/).
+Mức xử phạt cụ thể thuộc Nghị định 168/2024/NĐ-CP; bài này không nêu con số. Trình tự khi bị kiểm tra được trình bày ở bài [đo nồng độ cồn: quyền và trình tự](/an-toan-phap-ly/2026/09/28/do-nong-do-con-quyen-va-trinh-tu/).
 
 ## Tự đo nồng độ cồn tại nhà: dùng vào việc gì thì hợp lý
 
 Nếu đã mua máy, hãy coi nó là công cụ nhắc nhở, không phải giấy cho phép lái.
 
 - **Một chiều duy nhất.** Máy báo có cồn thì đó là lý do rõ ràng để không lái. Máy báo không có cồn thì chưa đủ để kết luận chắc chắn, nhất là khi bạn vừa uống.
-- **Buổi sáng hôm sau.** Sau một đêm uống nhiều, kết quả có cồn lúc sáng sớm là lời cảnh báo nên đi xe ôm, taxi hoặc xe buýt đi làm. Xem thêm bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/em-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-o-con-khong/).
+- **Buổi sáng hôm sau.** Sau một đêm uống nhiều, kết quả có cồn lúc sáng sớm là lời cảnh báo nên đi xe ôm, taxi hoặc xe buýt đi làm. Xem thêm bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/dem-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-do-con-khong/).
 - **Làm theo hướng dẫn của nhà sản xuất** về thời gian chờ trước khi thổi, cách bảo quản, lịch hiệu chuẩn. Máy không có hướng dẫn rõ ràng thì càng phải thận trọng với kết quả.
 
 - **Không dùng để thử đồ uống.** Thổi thử sau một lon bia không cồn hay một chén rượu để xem máy báo gì là biến thiết bị thành trò chơi canh uống. Nếu băn khoăn về bia không cồn, xem bài [bia không cồn: loại ghi 0,0% và loại dưới 0,5%](/an-toan-phap-ly/2026/10/15/uong-bia-khong-con-roi-lai-xe-may-loai-ghi-00-va-loai-duoi-05-co-khac-nhau-khi-d/).

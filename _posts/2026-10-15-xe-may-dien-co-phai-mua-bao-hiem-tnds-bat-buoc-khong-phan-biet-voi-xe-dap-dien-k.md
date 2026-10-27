@@ -45,13 +45,13 @@ Xe đạp điện đúng định nghĩa là xe thô sơ, không thuộc nhóm xe
 
 Không bắt buộc không có nghĩa là không có trách nhiệm. Nếu va vào người khác trên phố Trần Duy Hưng hay dọc đê Long Biên, người gây thiệt hại vẫn có thể phải bồi thường theo pháp luật dân sự. Muốn có lớp bảo vệ, gia đình có thể tìm hiểu bảo hiểm tự nguyện, đọc kỹ phạm vi và loại trừ.
 
-Luật cũng có yêu cầu riêng cho xe đạp điện: người điều khiển và người được chở trên xe đạp máy phải đội mũ bảo hiểm đúng quy chuẩn và cài quai đúng quy cách (khoản 3 Điều 31). Chi tiết có trong bài [xe đạp điện thuê có cần đội mũ bảo hiểm không](/xe-may/2026/10/09/xe-ap-ien-thue-co-can-oi-mu-bao-hiem-khong/).
+Luật cũng có yêu cầu riêng cho xe đạp điện: người điều khiển và người được chở trên xe đạp máy phải đội mũ bảo hiểm đúng quy chuẩn và cài quai đúng quy cách (khoản 3 Điều 31). Chi tiết có trong bài [xe đạp điện thuê có cần đội mũ bảo hiểm không](/xe-may/2026/10/09/xe-dap-dien-thue-co-can-doi-mu-bao-hiem-khong/).
 
 ## Cẩn thận với xe gọi là xe đạp điện nhưng chạy như xe máy
 
 Tên trên biển quảng cáo không quyết định loại xe. Theo định nghĩa trong luật, xe đạp điện phải là xe đạp có trợ lực, động lực ngắt khi dừng đạp hoặc khi đạt 25 km/h. Nếu chiếc xe con bạn đi chạy hoàn toàn bằng tay ga, không cần đạp, hoặc vượt mốc tốc độ đó, nó có thể không còn là xe đạp máy theo luật, và khi đó nghĩa vụ đăng ký, bảo hiểm sẽ khác.
 
-Chúng tôi không tự kết luận thay bạn cho từng mẫu xe. Hãy xem giấy tờ kỹ thuật đi kèm, hỏi nơi bán xe đó được xếp loại gì, và khi còn băn khoăn thì hỏi cơ quan đăng ký xe. So sánh thực tế hai dòng xe có ở bài [xe đạp điện khác gì xe máy điện](/xe-may/2026/09/27/xe-ap-ien-khac-gi-xe-may-ien/).
+Chúng tôi không tự kết luận thay bạn cho từng mẫu xe. Hãy xem giấy tờ kỹ thuật đi kèm, hỏi nơi bán xe đó được xếp loại gì, và khi còn băn khoăn thì hỏi cơ quan đăng ký xe. So sánh thực tế hai dòng xe có ở bài [xe đạp điện khác gì xe máy điện](/xe-may/2026/09/27/xe-dap-dien-khac-gi-xe-may-dien/).
 
 ## Học sinh đi xe máy điện: phụ huynh nên kiểm tra gì
 

@@ -65,7 +65,7 @@ Lịch trình quá dày khiến mọi người mệt và dễ sa vào bia rượ
 - **Ăn trưa nhẹ, không gọi bia.** Trưởng đoàn chủ động gọi đồ uống không cồn.
 
 - **Nghỉ qua đêm rồi mới chạy tiếp** nếu đoàn muốn có bữa liên hoan; không xếp liên hoan ở điểm dừng giữa chặng.
-- **Đi theo quốc lộ và đường cho phép xe máy.** Điều 25 khoản 3 của Luật quy định xe mô tô, xe gắn máy không được đi trên đường cao tốc. Xem thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+- **Đi theo quốc lộ và đường cho phép xe máy.** Điều 25 khoản 3 của Luật quy định xe mô tô, xe gắn máy không được đi trên đường cao tốc. Xem thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 - **Đường đèo Hà Giang, Mộc Châu** cần người lái tỉnh táo hoàn toàn; đừng xếp chặng đèo vào buổi sáng sau đêm liên hoan.
 
 Khi nhận lời mời ở nhà dân hay nhà hàng, trưởng đoàn có thể nói trước với chủ nhà: "Đoàn còn chạy xe, xin phép chỉ uống nước." Đa số chủ nhà sẽ thông cảm.
@@ -95,7 +95,7 @@ Nhiều đoàn thuê xe trước khi đi. Một vài điểm cần làm:
 - **Ghi danh sách người lái từng xe,** để khi đổi người lái vẫn là người đủ điều kiện.
 - **Có sự cố thì báo ngay,** xem bài [báo cửa hàng ngay khi nào trong lúc thuê xe](/xe-may/2026/09/29/bao-cua-hang-ngay-khi-nao-trong-luc-thue-xe/).
 
-Với xe thuê từ tiệm chúng tôi ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, hãy gọi 0942467674 trước ngày đi để trao đổi. Phần chuẩn bị chung cho cả nhóm có ở bài [thuê xe máy cho đoàn nhóm ở Hà Nội cần chuẩn bị gì](/thue-xe/2026/09/30/thue-xe-may-cho-oan-nhom-o-ha-noi-can-chuan-bi-gi/).
+Với xe thuê từ tiệm chúng tôi ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, hãy gọi 0942467674 trước ngày đi để trao đổi. Phần chuẩn bị chung cho cả nhóm có ở bài [thuê xe máy cho đoàn nhóm ở Hà Nội cần chuẩn bị gì](/thue-xe/2026/09/30/thue-xe-may-cho-doan-nhom-o-ha-noi-can-chuan-bi-gi/).
 
 ## Ghi chú về thông tin trong bài
 

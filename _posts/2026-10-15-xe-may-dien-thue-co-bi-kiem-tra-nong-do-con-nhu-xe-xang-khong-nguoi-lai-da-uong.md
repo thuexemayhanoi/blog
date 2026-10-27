@@ -59,7 +59,7 @@ Việc duy nhất cần làm là không lái. Các bước gợi ý:
 - **Tắt nguồn, khóa xe cẩn thận** và gửi tại bãi có người trông giữ. Nhiều nơi có khu để riêng hoặc quy định riêng cho xe điện, hãy hỏi người trông xe; tham khảo thêm bài [gửi xe máy điện ở trung tâm thương mại, bệnh viện](/xe-may/2026/10/14/gui-xe-may-dien-o-trung-tam-thuong-mai-benh-vien-ha-noi-khu-de-rieng-quy-dinh-sa/).
 - **Chụp ảnh vé và vị trí bãi** để hôm sau tìm lại nhanh.
 - **Gọi taxi, xe ôm hoặc nhờ người không uống** đưa về. Đừng dắt xe dọc lòng đường trong lúc đã có cồn.
-- **Không vội lấy xe từ sáng sớm.** Chuyện cồn còn trong cơ thể sau một đêm uống nhiều có bài riêng: [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/em-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-o-con-khong/).
+- **Không vội lấy xe từ sáng sớm.** Chuyện cồn còn trong cơ thể sau một đêm uống nhiều có bài riêng: [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/dem-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-do-con-khong/).
 
 Cách lập luận ở đây cũng giống trường hợp xe nhỏ chạy xăng trong bài [uống bia rồi đi xe 50cc](/xe-may/2026/10/15/uong-bia-roi-di-xe-50cc-co-bi-xu-ly-nhu-xe-may-lon-khong-quy-dinh-nong-do-con-vo/): xe nhỏ hay xe điện đều không được miễn.
 

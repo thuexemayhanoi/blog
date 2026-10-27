@@ -73,7 +73,7 @@ Nếu còn cách nút giao xa, vạch giữa các làn vẫn là vạch đứt, 
 - **Đi theo dòng xe máy cùng hướng,** nhưng vẫn tự nhìn mũi tên; người phía trước có thể cũng đang đi sai.
 - **Nghe chỉ đường bằng tai nghe một bên** hoặc dừng xe xem bản đồ, thay vì cúi nhìn điện thoại khi đang chạy.
 
-Kỹ năng đứng làn khi qua nút giao lớn có thêm trong bài [đứng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/ung-lan-xe-may-khi-qua-nut-giao-lon/), và với hướng rẽ phải có bài [rẽ phải khi đèn đỏ](/an-toan-phap-ly/2026/10/15/re-phai-khi-den-do-bang-xe-may-o-ha-noi-nhan-biet-bien-phu-va-den-mui-ten-xanh-t/).
+Kỹ năng đứng làn khi qua nút giao lớn có thêm trong bài [đứng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/dung-lan-xe-may-khi-qua-nut-giao-lon/), và với hướng rẽ phải có bài [rẽ phải khi đèn đỏ](/an-toan-phap-ly/2026/10/15/re-phai-khi-den-do-bang-xe-may-o-ha-noi-nhan-biet-bien-phu-va-den-mui-ten-xanh-t/).
 
 ## Khi đi xe thuê
 

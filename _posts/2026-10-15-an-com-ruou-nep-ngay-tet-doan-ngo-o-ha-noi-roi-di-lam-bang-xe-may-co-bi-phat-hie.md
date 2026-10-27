@@ -68,7 +68,7 @@ Một tình huống gần với bài này là cồn từ các sản phẩm khôn
 
 ## Khi chiếc xe bạn đi là xe thuê
 
-Vi phạm nồng độ cồn gắn với người cầm lái, kể cả khi xe là xe thuê. Đã ăn uống thứ có cồn thì đừng lái chiếc xe đó, hãy để xe ở nơi an toàn và đi phương tiện khác. Nếu cần trao đổi về việc nhận lại hoặc gửi xe, gọi cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên qua số 0942467674 trong giờ 09:00 đến 21:00; mọi điều kiện cụ thể xác nhận trực tiếp. Nếu đã bị lập biên bản, các việc nên làm có trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/).
+Vi phạm nồng độ cồn gắn với người cầm lái, kể cả khi xe là xe thuê. Đã ăn uống thứ có cồn thì đừng lái chiếc xe đó, hãy để xe ở nơi an toàn và đi phương tiện khác. Nếu cần trao đổi về việc nhận lại hoặc gửi xe, gọi cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên qua số 0942467674 trong giờ 09:00 đến 21:00; mọi điều kiện cụ thể xác nhận trực tiếp. Nếu đã bị lập biên bản, các việc nên làm có trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-do-con/).
 
 ## Ghi chú về thông tin trong bài
 
