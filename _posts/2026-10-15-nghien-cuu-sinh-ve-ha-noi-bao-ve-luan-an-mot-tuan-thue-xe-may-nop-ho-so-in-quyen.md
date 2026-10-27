@@ -21,7 +21,7 @@ Nhiều nghiên cứu sinh, học viên cao học sống và làm việc xa Hà 
 
 Nên nhận xe ngay khi vừa tới Hà Nội, trước những ngày bận nhất. Ở tiệm Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, giờ nhận và trả xe nằm trong khung 09:00–21:00. Nếu muốn giao xe tới chỗ ở, thời gian và chi phí cần xác nhận trước khi đặt, và không có giao xe ngoài giờ hoạt động.
 
-Với việc chở tài liệu, xe ga có cốp và sàn để chân phẳng thường tiện hơn xe số. Cốp đủ chỗ cho túi hồ sơ, áo mưa và chai nước; sàn để chân đặt được một thùng giấy nhỏ. Khi nhận xe, kiểm tra nắp cốp đóng kín, khóa cổ hoạt động tốt, và hỏi kèm áo mưa nếu có. Giấy tờ cần mang khi thuê có trong bài [giấy tờ cần mang khi đi thuê xe máy](/thue-xe/2026/09/27/giay-to-can-mang-khi-i-thue-xe-may/); chuyện cọc thì hỏi rõ trực tiếp và xin biên nhận.
+Với việc chở tài liệu, xe ga có cốp và sàn để chân phẳng thường tiện hơn xe số. Cốp đủ chỗ cho túi hồ sơ, áo mưa và chai nước; sàn để chân đặt được một thùng giấy nhỏ. Khi nhận xe, kiểm tra nắp cốp đóng kín, khóa cổ hoạt động tốt, và hỏi kèm áo mưa nếu có. Giấy tờ cần mang khi thuê có trong bài [giấy tờ cần mang khi đi thuê xe máy](/thue-xe/2026/09/27/giay-to-can-mang-khi-di-thue-xe-may/); chuyện cọc thì hỏi rõ trực tiếp và xin biên nhận.
 
 ## Xếp lịch cả tuần theo khu vực
 

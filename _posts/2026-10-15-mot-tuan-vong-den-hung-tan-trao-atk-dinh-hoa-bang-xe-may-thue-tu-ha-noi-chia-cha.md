@@ -17,7 +17,7 @@ writer_session: s-claude-w3
 
 Một chuyến về nguồn qua Phú Thọ, Tuyên Quang và Thái Nguyên nghe thì gần, nhưng nhóm bạn hay gia đình đi cùng nhau thường vướng ở chỗ chia ngày: đi dồn thì mệt, đi thưa thì lỡ hẹn trả xe. Bài này gợi ý cách xếp vòng Đền Hùng Tân Trào ATK xe máy thuê trong bảy ngày, xuất phát và kết thúc ở Long Biên: mỗi chặng đi đường nào, nghỉ đêm ở khu vực nào, ngày nào để xe nghỉ, và vì sao phải báo cửa hàng trước khi lăn bánh.
 
-Nếu bạn mới chỉ định đi Đền Hùng trong ngày, bài [Hà Nội đi Đền Hùng bằng xe máy](/cung-duong/2026/10/10/ha-noi-i-en-hung-bang-xe-may-cung-uong-phu-tho/) đã đủ. Bài này dành cho người muốn nối tiếp lên Tân Trào và ATK Định Hóa.
+Nếu bạn mới chỉ định đi Đền Hùng trong ngày, bài [Hà Nội đi Đền Hùng bằng xe máy](/cung-duong/2026/10/10/ha-noi-di-den-hung-bang-xe-may-cung-duong-phu-tho/) đã đủ. Bài này dành cho người muốn nối tiếp lên Tân Trào và ATK Định Hóa.
 
 ## Trước khi đi: báo cửa hàng và chốt hai mốc nhận, trả xe
 
@@ -33,7 +33,7 @@ Việc bắt buộc trước chuyến đi xa nhiều ngày là báo cửa hàng.
 
 ## Chia chặng vòng Đền Hùng Tân Trào ATK xe máy trong bảy ngày
 
-Nguyên tắc chung: chạy ban ngày, mỗi ngày dừng sớm, và cứ hai ngày chạy thì có một buổi cho xe nghỉ, người đi bộ tham quan. Về đường đi, chỉ dùng quốc lộ và đường được phép cho xe máy. **Tuyệt đối không vào cao tốc Nội Bài – Lào Cai hay cao tốc Hà Nội – Thái Nguyên**, kể cả khi bản đồ chỉ đó là đường nhanh nhất. Luôn bật chế độ xe máy trên ứng dụng bản đồ, và đọc thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/) nếu còn phân vân trước một lối rẽ.
+Nguyên tắc chung: chạy ban ngày, mỗi ngày dừng sớm, và cứ hai ngày chạy thì có một buổi cho xe nghỉ, người đi bộ tham quan. Về đường đi, chỉ dùng quốc lộ và đường được phép cho xe máy. **Tuyệt đối không vào cao tốc Nội Bài – Lào Cai hay cao tốc Hà Nội – Thái Nguyên**, kể cả khi bản đồ chỉ đó là đường nhanh nhất. Luôn bật chế độ xe máy trên ứng dụng bản đồ, và đọc thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/) nếu còn phân vân trước một lối rẽ.
 
 ### Ngày 1: Long Biên đi Việt Trì theo QL2
 

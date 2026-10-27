@@ -52,7 +52,7 @@ Ngã tư Xuân Mai là nơi quốc lộ 6 giao với đường Hồ Chí Minh, n
 2. **Tránh góc khuất của xe lớn:** khi xe tải đang rẽ, đừng đứng sát bên phải hay ngay sau đuôi xe.
 3. **Không vội khi đèn vừa xanh:** để xe lớn chuyển bánh trước, quan sát hướng ngang rồi mới đi.
 
-Trên quốc lộ 6, xe tải chạy nhiều cả ngày. Giữ khoảng cách đủ để nhìn thấy gương của tài xế, không bám đuôi để tránh bụi và đá văng, và chỉ vượt ở đoạn thẳng, thoáng. Cách đứng và giữ khoảng cách sau xe lớn có trong bài [đi sau xe tải chở cát đá](/ky-nang/2026/10/11/i-sau-xe-tai-cho-cat-a-khoang-cach-va-vi-tri-an-toan/). Còn nếu tò mò về chặng quốc lộ 6 tiếp tục lên dốc phía tây, đọc bài [chặng quốc lộ 6 sau Xuân Mai](/cung-duong/2026/10/09/chang-quoc-lo-6-sau-xuan-mai-chay-xe-may-luu-y-gi/).
+Trên quốc lộ 6, xe tải chạy nhiều cả ngày. Giữ khoảng cách đủ để nhìn thấy gương của tài xế, không bám đuôi để tránh bụi và đá văng, và chỉ vượt ở đoạn thẳng, thoáng. Cách đứng và giữ khoảng cách sau xe lớn có trong bài [đi sau xe tải chở cát đá](/ky-nang/2026/10/11/di-sau-xe-tai-cho-cat-da-khoang-cach-va-vi-tri-an-toan/). Còn nếu tò mò về chặng quốc lộ 6 tiếp tục lên dốc phía tây, đọc bài [chặng quốc lộ 6 sau Xuân Mai](/cung-duong/2026/10/09/chang-quoc-lo-6-sau-xuan-mai-chay-xe-may-luu-y-gi/).
 
 ## Đi quốc lộ 6 bằng xe máy hằng ngày: chọn giờ
 
@@ -63,13 +63,13 @@ Nếu phải đi về nội thành nhiều hôm, giờ đi quyết định bạn
 - **Về trước khi trời tối:** quốc lộ có đoạn ánh sáng không đều, xe tải bật đèn pha chói; bật đèn từ lúc chạng vạng.
 - **Mưa lớn:** mặt đường nhiều xe nặng dễ trơn, có đoạn đọng nước. Nếu mưa kèm gió, ở lại Xuân Mai thay vì cố về.
 
-Một tuần đi nhiều như vậy, nhớ kiểm lốp và xăng định kỳ; bài [kế hoạch xăng và lốp cho tuần thuê xe đi nhiều](/thue-xe/2026/10/07/ke-hoach-xang-va-lop-cho-tuan-thue-xe-may-i-nhieu/) có danh sách kiểm tra ngắn.
+Một tuần đi nhiều như vậy, nhớ kiểm lốp và xăng định kỳ; bài [kế hoạch xăng và lốp cho tuần thuê xe đi nhiều](/thue-xe/2026/10/07/ke-hoach-xang-va-lop-cho-tuan-thue-xe-may-di-nhieu/) có danh sách kiểm tra ngắn.
 
 ## Quanh Xuân Mai, Chương Mỹ có gì đáng ghé
 
 Buổi chiều rảnh hay cuối tuần, bạn không cần chạy xa:
 
-- **Chùa Trầm:** ngôi chùa trong hang núi đá gần Chúc Sơn, tiện ghé trên đường về nội thành. Đường vào và lưu ý có trong bài [chùa Trầm bằng xe máy](/du-lich/2026/10/04/chua-tram-o-chuong-my-bang-xe-may-cung-uong-va-luu-y/).
+- **Chùa Trầm:** ngôi chùa trong hang núi đá gần Chúc Sơn, tiện ghé trên đường về nội thành. Đường vào và lưu ý có trong bài [chùa Trầm bằng xe máy](/du-lich/2026/10/04/chua-tram-o-chuong-my-bang-xe-may-cung-duong-va-luu-y/).
 - **Chùa Trăm Gian:** chùa cổ trên đồi, cây cối nhiều, hợp một buổi đi thong thả.
 - **Làng mây tre đan Phú Vinh:** xem người làng đan đồ thủ công, mua ít quà mang về.
 

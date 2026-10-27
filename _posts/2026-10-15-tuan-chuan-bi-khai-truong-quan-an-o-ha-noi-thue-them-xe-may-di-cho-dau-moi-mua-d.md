@@ -35,7 +35,7 @@ Vài lưu ý khi đi chợ đầu mối bằng xe máy:
 
 - **Đi lấy mẫu, đừng chở cả mẻ.** Chợ đầu mối hợp để tìm mối và mua thử. Hàng số lượng lớn nên thỏa thuận để người bán giao tận quán.
 - **Chú ý xe tải, xe ba gác.** Lối ra vào chợ chật, xe chở hàng quay đầu liên tục. Đi chậm, quan sát gương, nhường xe lớn.
-- **Gửi xe đúng chỗ.** Dừng sai chỗ giữa lối đi vừa cản xe hàng vừa dễ mất đồ. Kinh nghiệm gửi xe ở chợ Long Biên có trong bài [chợ đầu mối Long Biên buổi sáng sớm](/du-lich/2026/10/11/cho-au-moi-long-bien-buoi-sang-som-bang-xe-may-i-gio-nao-va-dung-xe-o-au/).
+- **Gửi xe đúng chỗ.** Dừng sai chỗ giữa lối đi vừa cản xe hàng vừa dễ mất đồ. Kinh nghiệm gửi xe ở chợ Long Biên có trong bài [chợ đầu mối Long Biên buổi sáng sớm](/du-lich/2026/10/11/cho-dau-moi-long-bien-buoi-sang-som-bang-xe-may-di-gio-nao-va-dung-xe-o-dau/).
 - **Thức khuya thì đừng cố lái.** Nếu đi chợ sau một ngày làm việc dài, hãy để người đã ngủ đủ cầm lái.
 
 ## Mua đồ bếp, bát đĩa: chia nhiều chuyến nhỏ
@@ -70,7 +70,7 @@ Tuần chuẩn bị là lúc người ta hay chở quá tải vì sốt ruột. 
 - **Buộc ít nhất hai dây chéo nhau** và kéo thử trước khi đi.
 - **Phanh sớm, cua rộng.** Xe chở nặng cần quãng phanh dài hơn.
 
-Giới hạn hàng hóa trên xe máy có quy định riêng, nằm trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/). Kỹ thuật cố định thùng nặng xem thêm bài [chở thùng hàng nặng trên xe máy an toàn](/ky-nang/2026/09/30/cho-thung-hang-nang-tren-xe-may-an-toan/).
+Giới hạn hàng hóa trên xe máy có quy định riêng, nằm trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/). Kỹ thuật cố định thùng nặng xem thêm bài [chở thùng hàng nặng trên xe máy an toàn](/ky-nang/2026/09/30/cho-thung-hang-nang-tren-xe-may-an-toan/).
 
 ## Lịch mẫu cho tuần trước ngày khai trương
 

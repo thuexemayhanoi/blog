@@ -35,7 +35,7 @@ Vài thói quen nên tập ngay từ ngày đầu:
 
 1. **Nhìn biển trước, nhìn bản đồ sau.** Ứng dụng dẫn đường đôi khi gợi ý lối đi ngược chiều. Khi biển và bản đồ khác nhau, theo biển.
 2. **Để ý biển cấm theo giờ.** Có phố cấm rẽ hoặc hạn chế xe vào một khung giờ. Đọc hết dòng chữ phụ dưới biển.
-3. **Đi nhầm vào phố một chiều thì dừng lại sát lề, dắt bộ ra.** Đừng quay đầu giữa dòng hay chạy ngược. Cách quay xe gọn trong lòng phố hẹp có trong bài [quay đầu xe trong ngõ phố cổ](/ky-nang/2026/09/29/quay-au-xe-trong-ngo-pho-co-meo-cho-xe-may/).
+3. **Đi nhầm vào phố một chiều thì dừng lại sát lề, dắt bộ ra.** Đừng quay đầu giữa dòng hay chạy ngược. Cách quay xe gọn trong lòng phố hẹp có trong bài [quay đầu xe trong ngõ phố cổ](/ky-nang/2026/09/29/quay-dau-xe-trong-ngo-pho-co-meo-cho-xe-may/).
 4. **Ghi lại lộ trình đã đi đúng.** Sau một hai ngày, lưu lại tuyến từ chỗ trọ tới nơi làm việc và lối về, rồi cứ dùng đúng tuyến đó.
 
 Ví dụ thực tế ở khu lân cận: Phố Huế bên Hai Bà Trưng là phố một chiều nổi tiếng, người đi Chợ Giời thường phải tính đường vòng khi về, như bài [săn đồ cũ ở Chợ Giời bằng xe máy thuê](/thue-xe/2026/10/15/san-do-cu-o-cho-gioi-bang-xe-may-thue-pho-hue-mot-chieu-gui-xe-trong-ngo-va-cho/) có kể. Ở Đống Đa, Ba Đình, cách xử lý cũng vậy: biết trước lối về.

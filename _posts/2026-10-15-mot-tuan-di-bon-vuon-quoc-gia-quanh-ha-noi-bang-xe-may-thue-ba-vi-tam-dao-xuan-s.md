@@ -41,9 +41,9 @@ Nguyên tắc đơn giản: mỗi cụm một chuyến, giữa hai chuyến có 
 
 Đường lên Ba Vì quen thuộc nhất là QL32. Từ phía Cầu Giấy, con đường này chạy qua Cầu Diễn, Nhổn rồi ra khỏi nội thành, đi tiếp qua Sơn Tây và theo biển chỉ dẫn vào khu vườn quốc gia. Nếu bạn nhận xe ở Long Biên, hãy qua sông bằng cầu Chương Dương hoặc cầu Long Biên, sau đó đặt điểm đến trên bản đồ ở chế độ xe máy để ứng dụng dẫn ra QL32. Đừng đi theo gợi ý đường ô tô, vì có đoạn không cho xe máy vào.
 
-Khi đã qua cổng vườn, đường lên cao hẹp, quanh co dưới tán rừng, nhiều khúc cua gấp liền nhau. Bài [thuê xe máy một ngày đi Vườn quốc gia Ba Vì](/thue-xe/2026/10/07/thue-xe-may-mot-ngay-i-vuon-quoc-gia-ba-vi/) có thêm gợi ý nếu bạn chỉ muốn thử Ba Vì trước khi cam kết cả tuần.
+Khi đã qua cổng vườn, đường lên cao hẹp, quanh co dưới tán rừng, nhiều khúc cua gấp liền nhau. Bài [thuê xe máy một ngày đi Vườn quốc gia Ba Vì](/thue-xe/2026/10/07/thue-xe-may-mot-ngay-di-vuon-quoc-gia-ba-vi/) có thêm gợi ý nếu bạn chỉ muốn thử Ba Vì trước khi cam kết cả tuần.
 
-Sáng hôm sau, từ Ba Vì đi Xuân Sơn hướng Phú Thọ. Đoạn này nên mở bản đồ ở chế độ xe máy và đi theo chỉ dẫn, kiểm tra lại toàn tuyến trước khi xuất phát để chắc không có đoạn cao tốc. Gần Xuân Sơn đường vắng, sóng yếu. Đổ đầy bình xăng ở khu dân cư cuối cùng bạn đi qua, tải sẵn bản đồ ngoại tuyến. Kinh nghiệm riêng về cung đường này có trong bài [Hà Nội đi vườn quốc gia Xuân Sơn bằng xe máy](/cung-duong/2026/10/04/ha-noi-i-vuon-quoc-gia-xuan-son-bang-xe-may-cung-uong-va-thoi-gian/).
+Sáng hôm sau, từ Ba Vì đi Xuân Sơn hướng Phú Thọ. Đoạn này nên mở bản đồ ở chế độ xe máy và đi theo chỉ dẫn, kiểm tra lại toàn tuyến trước khi xuất phát để chắc không có đoạn cao tốc. Gần Xuân Sơn đường vắng, sóng yếu. Đổ đầy bình xăng ở khu dân cư cuối cùng bạn đi qua, tải sẵn bản đồ ngoại tuyến. Kinh nghiệm riêng về cung đường này có trong bài [Hà Nội đi vườn quốc gia Xuân Sơn bằng xe máy](/cung-duong/2026/10/04/ha-noi-di-vuon-quoc-gia-xuan-son-bang-xe-may-cung-duong-va-thoi-gian/).
 
 Ngày thứ ba dành buổi sáng cho rừng và bản làng quanh Xuân Sơn, rồi lên đường về sớm. Chặng về dài nhất tuần, nên khởi hành lúc trời còn sáng rõ, nghỉ giữa chặng ở thị trấn có hàng quán, và vào Hà Nội trước khi tối.
 
@@ -67,7 +67,7 @@ Hướng bắc, bạn qua sông bằng cầu Nhật Tân hoặc tầng dưới c
 
 Hướng nam, đi QL1 qua Thường Tín, Phú Xuyên về phía Phủ Lý, sau đó theo chỉ dẫn bản đồ chế độ xe máy để vào Cúc Phương. Tuyến QL1 đông xe tải, nên giữ làn bên phải và tránh điểm mù của xe lớn.
 
-Ở Cúc Phương nên nghỉ một đêm để buổi sáng ngày cuối được dạo rừng khi trời còn mát. Bài [vườn quốc gia Cúc Phương bằng xe máy từ Hà Nội](/cung-duong/2026/10/04/vuon-quoc-gia-cuc-phuong-bang-xe-may-tu-ha-noi-chuan-bi-cung-uong/) nói chi tiết phần chuẩn bị cho riêng cung này. Buổi chiều ngày thứ bảy, khởi hành về sớm để trả xe trong giờ cửa hàng mở, không phải chạy QL1 lúc đêm.
+Ở Cúc Phương nên nghỉ một đêm để buổi sáng ngày cuối được dạo rừng khi trời còn mát. Bài [vườn quốc gia Cúc Phương bằng xe máy từ Hà Nội](/cung-duong/2026/10/04/vuon-quoc-gia-cuc-phuong-bang-xe-may-tu-ha-noi-chuan-bi-cung-duong/) nói chi tiết phần chuẩn bị cho riêng cung này. Buổi chiều ngày thứ bảy, khởi hành về sớm để trả xe trong giờ cửa hàng mở, không phải chạy QL1 lúc đêm.
 
 ## Chạy dốc núi và đường rừng cho an toàn
 

@@ -23,7 +23,7 @@ Mùa thu Hà Nội đẹp nhất ở những khung giờ ngắn. Sáng sớm tr�
 
 Cách đơn giản là chia mỗi ngày thành ba phần: sáng cho chợ, làng và phố cổ; trưa về nghỉ; chiều tối cho hồ và những con phố có cây. Xe nằm yên ở chỗ ở vào buổi trưa, bạn không phải chạy giữa nắng và giờ tan tầm.
 
-Nếu bạn muốn một bản đồ cung đường ngắm lá vàng chi tiết hơn, bài [mùa thu Hà Nội bằng xe máy: cung đường ngắm hoa sữa và lá vàng](/du-lich/2026/10/11/mua-thu-ha-noi-bang-xe-may-cung-uong-ngam-hoa-sua-va-la-vang/) đã đi kỹ phần đó. Ở đây ta tập trung vào nhịp của cả tuần.
+Nếu bạn muốn một bản đồ cung đường ngắm lá vàng chi tiết hơn, bài [mùa thu Hà Nội bằng xe máy: cung đường ngắm hoa sữa và lá vàng](/du-lich/2026/10/11/mua-thu-ha-noi-bang-xe-may-cung-duong-ngam-hoa-sua-va-la-vang/) đã đi kỹ phần đó. Ở đây ta tập trung vào nhịp của cả tuần.
 
 ## Buổi sáng: đi cốm làng Vòng bằng xe máy
 
@@ -47,7 +47,7 @@ Lưu ý khi đi ven hồ:
 
 1. **Không dừng xe giữa lòng đường để chụp ảnh.** Tìm chỗ đỗ hoặc bãi gửi xe rồi mới đi bộ ra bờ hồ.
 2. **Chú ý người đi bộ và xe đạp** đi tập quanh hồ, nhất là đoạn đường hẹp.
-3. **Gửi xe ở bãi có người trông**, nhớ lấy vé. Bài [gửi xe khi đi dạo bờ hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/) có thêm gợi ý chỗ gửi.
+3. **Gửi xe ở bãi có người trông**, nhớ lấy vé. Bài [gửi xe khi đi dạo bờ hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/) có thêm gợi ý chỗ gửi.
 
 Chiều muộn cũng là lúc dòng xe tan tầm bắt đầu đông trên các trục lớn. Nếu chỗ ở của bạn ở bên Long Biên hay phố cổ, hãy ngồi lại bên hồ tới khi đường thoáng rồi mới về.
 

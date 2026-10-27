@@ -31,7 +31,7 @@ Mỗi ngày chỉ nên có một điểm chính. Trẻ mệt nhanh hơn bố m�
 
 Khi đặt xe theo tuần, hãy nói với cửa hàng rằng bạn chở con nhỏ. Xe ga có sàn để chân phẳng và yên dài thường dễ chở bé hơn, nhưng chọn xe cụ thể nên trao đổi trực tiếp với cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở 09:00–21:00. Nếu muốn giao xe về chỗ ở, thời gian và chi phí cần xác nhận trước, và chỉ trong giờ cửa hàng mở.
 
-Quan trọng nhất là **mũ bảo hiểm vừa đầu con**. Mũ người lớn đội cho trẻ sẽ lỏng, xoay lệch và không bảo vệ được. Hỏi cửa hàng có mũ trẻ em không, hoặc mang mũ của con từ nhà. Cách chọn mũ đúng cỡ có trong bài [chọn mũ bảo hiểm cho trẻ đi cùng trên xe máy thuê](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-i-cung-tren-xe-may-thue/).
+Quan trọng nhất là **mũ bảo hiểm vừa đầu con**. Mũ người lớn đội cho trẻ sẽ lỏng, xoay lệch và không bảo vệ được. Hỏi cửa hàng có mũ trẻ em không, hoặc mang mũ của con từ nhà. Cách chọn mũ đúng cỡ có trong bài [chọn mũ bảo hiểm cho trẻ đi cùng trên xe máy thuê](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-di-cung-tren-xe-may-thue/).
 
 Túi đồ để trong cốp cho cả tuần:
 
@@ -50,7 +50,7 @@ Sáng nhận xe, chạy vòng quanh khu ở để con quen ngồi sau, quen ti�
 
 ### Ngày 2: vườn thú Thủ Lệ ở Ba Đình
 
-Vườn thú Thủ Lệ là điểm hầu như trẻ nào cũng thích. Đi sớm, vì lối dạo ngoài trời và trưa hè rất nóng. Cách vào và chỗ gửi xe được nói trong bài [đến vườn thú Thủ Lệ bằng xe máy](/du-lich/2026/10/04/en-vuon-thu-thu-le-bang-xe-may-gui-xe-va-uong-i/). Về trước trưa.
+Vườn thú Thủ Lệ là điểm hầu như trẻ nào cũng thích. Đi sớm, vì lối dạo ngoài trời và trưa hè rất nóng. Cách vào và chỗ gửi xe được nói trong bài [đến vườn thú Thủ Lệ bằng xe máy](/du-lich/2026/10/04/den-vuon-thu-thu-le-bang-xe-may-gui-xe-va-duong-di/). Về trước trưa.
 
 ### Ngày 3: nghỉ ở nhà hoặc đi chợ gần
 
@@ -58,7 +58,7 @@ Một ngày không có lịch giúp cả nhà lấy lại sức. Nếu con hiế
 
 ### Ngày 4: Bảo tàng Dân tộc học Việt Nam ở Cầu Giấy
 
-Bảo tàng Dân tộc học Việt Nam trên đường Nguyễn Văn Huyên, Cầu Giấy hợp với ngày nắng vì có cả phần trong nhà lẫn khu trưng bày ngoài trời với những ngôi nhà truyền thống. Đi phần ngoài trời trước khi nắng lên, rồi vào nhà. Kinh nghiệm chạy xe và gửi xe ở đây có trong bài [đi xe máy thăm Bảo tàng Dân tộc học Việt Nam](/du-lich/2026/09/30/i-xe-may-tham-bao-tang-dan-toc-hoc-viet-nam/). Giờ mở cửa nên xem lại trên kênh chính thức của bảo tàng trước khi đi.
+Bảo tàng Dân tộc học Việt Nam trên đường Nguyễn Văn Huyên, Cầu Giấy hợp với ngày nắng vì có cả phần trong nhà lẫn khu trưng bày ngoài trời với những ngôi nhà truyền thống. Đi phần ngoài trời trước khi nắng lên, rồi vào nhà. Kinh nghiệm chạy xe và gửi xe ở đây có trong bài [đi xe máy thăm Bảo tàng Dân tộc học Việt Nam](/du-lich/2026/09/30/di-xe-may-tham-bao-tang-dan-toc-hoc-viet-nam/). Giờ mở cửa nên xem lại trên kênh chính thức của bảo tàng trước khi đi.
 
 ### Ngày 5: công viên Thống Nhất ở Hai Bà Trưng
 
@@ -85,7 +85,7 @@ Nếu con có dấu hiệu mệt, đỏ mặt, lơ mơ, hãy dừng ngay ở ch�
 
 ## Chở trẻ an toàn và đúng luật
 
-Chở trẻ trên xe máy phải tuân theo quy định hiện hành về số người trên xe, độ tuổi và mũ bảo hiểm. Vì quy định có thể thay đổi, bạn nên đọc lại trước chuyến đi, chẳng hạn bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-ieu-kien-gi/), và hỏi cửa hàng khi nhận xe.
+Chở trẻ trên xe máy phải tuân theo quy định hiện hành về số người trên xe, độ tuổi và mũ bảo hiểm. Vì quy định có thể thay đổi, bạn nên đọc lại trước chuyến đi, chẳng hạn bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-dieu-kien-gi/), và hỏi cửa hàng khi nhận xe.
 
 Khi chạy xe, giữ tốc độ chậm và đều, phanh sớm, tránh phố đông giờ cao điểm. Không để bé ngủ gật khi ngồi sau xe; nếu con buồn ngủ, dừng lại nghỉ.
 

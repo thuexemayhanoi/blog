@@ -52,7 +52,7 @@ Ngày nghỉ cũng là một phần lịch tập. Cơ thể hồi lại sau ba n
 
 ### Ngày 6: buổi dài nhất, gần trọn một ngày
 
-Chọn một trong hai hướng: lên Tam Đảo qua Vĩnh Yên, hoặc đi Quốc lộ 6 qua Xuân Mai về phía Hòa Bình. Cả hai chỉ đi đường quốc lộ thông thường, không vào bất kỳ đoạn cao tốc nào; xem thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/) nếu bản đồ gợi ý lối lạ. Buổi này mô phỏng một chặng phượt thật: xuất phát sau bữa sáng, nghỉ đúng nhịp, ăn trưa dọc đường, về Long Biên trước tối.
+Chọn một trong hai hướng: lên Tam Đảo qua Vĩnh Yên, hoặc đi Quốc lộ 6 qua Xuân Mai về phía Hòa Bình. Cả hai chỉ đi đường quốc lộ thông thường, không vào bất kỳ đoạn cao tốc nào; xem thêm bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/) nếu bản đồ gợi ý lối lạ. Buổi này mô phỏng một chặng phượt thật: xuất phát sau bữa sáng, nghỉ đúng nhịp, ăn trưa dọc đường, về Long Biên trước tối.
 
 ### Ngày 7: chạy nhẹ và tổng kết
 
@@ -67,7 +67,7 @@ Sau vài buổi, bạn sẽ thấy cơn mỏi gần như luôn đến từ tư t
 - **Cầm tay lái nhẹ.** Chỉ đủ để điều khiển, không bóp chặt. Cổ tay ga mỏi là dấu hiệu bạn đang nắm quá chặt.
 - **Bàn chân đặt chắc trên gác chân hoặc sàn,** đầu gối khép nhẹ vào thân xe.
 
-Mỗi lần dừng, tự hỏi vai có đang nhô lên không. Cách chỉnh tư thế chi tiết có trong bài [đau lưng khi chạy xe máy đường dài](/ky-nang/2026/10/04/au-lung-khi-chay-xe-may-uong-dai-tu-the-va-iem-nghi/).
+Mỗi lần dừng, tự hỏi vai có đang nhô lên không. Cách chỉnh tư thế chi tiết có trong bài [đau lưng khi chạy xe máy đường dài](/ky-nang/2026/10/04/dau-lung-khi-chay-xe-may-duong-dai-tu-the-va-diem-nghi/).
 
 ## Nhịp nghỉ và nước: tập luôn thói quen, không chỉ tập lái
 
@@ -75,7 +75,7 @@ Người mới hay cố "chạy thêm một đoạn nữa rồi nghỉ". Đó l�
 
 - **Nghỉ theo giờ, không theo cảm giác.** Đặt một nhịp cố định, chẳng hạn cứ chạy chừng một tiếng thì dừng, rồi giữ đúng nhịp đó kể cả khi thấy còn khỏe.
 - **Mỗi lần nghỉ, xuống xe hẳn.** Đi lại vài bước, xoay vai, duỗi lưng, không ngồi nguyên trên yên bấm điện thoại.
-- **Uống từng ngụm đều đặn,** không đợi khát mới uống, và không uống dồn một lần. Mang chai nước để chỗ dễ lấy. Bài [uống nước đúng cách khi chạy xe trời nóng](/ky-nang/2026/10/04/uong-nuoc-ung-cach-khi-chay-xe-troi-nong/) nói kỹ phần này.
+- **Uống từng ngụm đều đặn,** không đợi khát mới uống, và không uống dồn một lần. Mang chai nước để chỗ dễ lấy. Bài [uống nước đúng cách khi chạy xe trời nóng](/ky-nang/2026/10/04/uong-nuoc-dung-cach-khi-chay-xe-troi-nong/) nói kỹ phần này.
 - **Ăn nhẹ trước khi đi,** mang theo bánh hoặc chuối cho các lần dừng.
 
 Dấu hiệu phải dừng ngay, dù chưa tới giờ nghỉ: mắt nặng, phản xạ chậm, phanh muộn hơn ý định, hay bỗng thấy khó chịu với mọi xe vượt qua.
@@ -88,6 +88,6 @@ Cuối ngày 7, nhìn lại thẳng thắn:
 - Bạn ổn với ngày dài nhưng ngại dốc Ba Vì: hãy chọn cung đường ít đèo hơn, hoặc chia chặng ngắn lại.
 - Bạn thấy mệt ngay từ ngày 3: nên lùi chuyến đi, tập thêm, hoặc đi cùng người có kinh nghiệm.
 
-Ghi lại cả những gì cần chỉnh trên xe: yên quá cao, tay lái quá rộng, cốp không đủ chỗ. Nếu muốn giữ đúng chiếc xe đã quen cho chuyến đi, hỏi tiệm sớm về việc gia hạn và xác nhận lại lộ trình xa trước ngày đi. Danh sách chuẩn bị xe cho cung phía bắc có trong bài [chuẩn bị xe máy đi Hà Giang](/cung-duong/2026/09/28/chuan-bi-xe-may-i-ha-giang-tu-nha-xe-thue/).
+Ghi lại cả những gì cần chỉnh trên xe: yên quá cao, tay lái quá rộng, cốp không đủ chỗ. Nếu muốn giữ đúng chiếc xe đã quen cho chuyến đi, hỏi tiệm sớm về việc gia hạn và xác nhận lại lộ trình xa trước ngày đi. Danh sách chuẩn bị xe cho cung phía bắc có trong bài [chuẩn bị xe máy đi Hà Giang](/cung-duong/2026/09/28/chuan-bi-xe-may-di-ha-giang-tu-nha-xe-thue/).
 
 Một tuần tập không biến bạn thành người đi phượt lâu năm, nhưng giúp bạn lên đường với cơ thể đã quen yên xe, một chiếc xe đã quen tay và bộ đồ đã thử thật. Các lựa chọn thuê dài ngày khác có ở mục [thuê xe theo tuần](/thue-xe/thue-tuan/), còn thủ tục chung nằm trong chuyên mục [thuê xe](/thue-xe/).

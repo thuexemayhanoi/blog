@@ -41,7 +41,7 @@ Giả sử bạn ở gần Hoàn Kiếm và có một tuần vừa làm việc v
 
 4. **Ngày trả xe:** đổ xăng, soát cốp và chạy về Long Biên vào buổi chiều, đừng để đến giữa trưa.
 
-Nếu công việc bắt buộc phải đi buổi trưa, hãy chọn đường có nhiều bóng cây như Phan Đình Phùng hay Hoàng Diệu, và chia chặng ngắn để có chỗ dừng nghỉ. Các gợi ý chia giờ chi tiết hơn cho khách tham quan có trong bài [Hà Nội nắng nóng: điểm đến nhiều bóng mát và cách chia giờ](/du-lich/2026/10/11/ha-noi-nang-nong-i-xe-may-iem-en-nhieu-bong-mat-va-cach-chia-gio-trong-ngay/).
+Nếu công việc bắt buộc phải đi buổi trưa, hãy chọn đường có nhiều bóng cây như Phan Đình Phùng hay Hoàng Diệu, và chia chặng ngắn để có chỗ dừng nghỉ. Các gợi ý chia giờ chi tiết hơn cho khách tham quan có trong bài [Hà Nội nắng nóng: điểm đến nhiều bóng mát và cách chia giờ](/du-lich/2026/10/11/ha-noi-nang-nong-di-xe-may-diem-den-nhieu-bong-mat-va-cach-chia-gio-trong-ngay/).
 
 ## Để xe máy chỗ râm mát: chọn chỗ đỗ cả ngày lẫn qua đêm
 
@@ -69,7 +69,7 @@ Cốp xe ga nằm ngay trên khối máy. Ngày nắng, xe vừa chạy xong l�
 - **Đồ ăn, mỹ phẩm:** dễ hỏng, kem chống nắng có thể chảy.
 - **Giấy tờ xe:** để trong túi zip kín, cất ở ngăn trên cùng, tránh chạm đáy cốp sát máy.
 
-Danh sách đầy đủ hơn có trong bài [đồ không nên để trong cốp xe ga khi đỗ nắng nóng](/xe-may/2026/10/11/o-khong-nen-e-trong-cop-xe-ga-khi-o-nang-nong/).
+Danh sách đầy đủ hơn có trong bài [đồ không nên để trong cốp xe ga khi đỗ nắng nóng](/xe-may/2026/10/11/do-khong-nen-de-trong-cop-xe-ga-khi-do-nang-nong/).
 
 ## Giữ sức cho bản thân trong suốt bảy ngày
 

@@ -55,7 +55,7 @@ Cứ chạy một quãng lại dừng nghỉ ở quán ven đường hoặc cây
 
 Chọn chỗ nghỉ gần quốc lộ nhưng không sát mặt đường lớn, có sân hoặc chỗ để xe có mái và người trông ban đêm. Hỏi giờ đóng cổng trước khi ra ngoài ăn tối.
 
-- **Ninh Bình:** nếu muốn kết hợp tham quan, xem cách xếp lịch trong bài [Hà Nội đi Ninh Bình bằng xe máy hai ngày](/cung-duong/2026/10/01/ha-noi-i-ninh-binh-bang-xe-may-hai-ngay-chia-lo-trinh/).
+- **Ninh Bình:** nếu muốn kết hợp tham quan, xem cách xếp lịch trong bài [Hà Nội đi Ninh Bình bằng xe máy hai ngày](/cung-duong/2026/10/01/ha-noi-di-ninh-binh-bang-xe-may-hai-ngay-chia-lo-trinh/).
 - **Thành phố Thanh Hóa:** nghỉ ở khu trung tâm để sáng ra quốc lộ cho gọn.
 - **Vinh:** ở liền hai hoặc ba đêm, dùng làm chỗ dừng chân cho ngày lên Nam Đàn, khỏi phải dỡ hành lý.
 

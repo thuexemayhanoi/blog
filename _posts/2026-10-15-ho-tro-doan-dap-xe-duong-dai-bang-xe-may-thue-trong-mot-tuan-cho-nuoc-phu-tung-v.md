@@ -35,7 +35,7 @@ Với một tuần đi liên tục, gói [thuê xe theo tuần](/thue-xe/thue-tu
 
 **Xe số như Honda Wave** hợp với cung có nhiều dốc như lên Ba Vì hay đèo Thung Khe trên đường đi Mai Châu, vì người lái chủ động về số khi đổ dốc. Đổi lại, xe số không có cốp lớn, nên cần giá chở hàng phía sau và cách buộc chắc chắn.
 
-Khi đặt xe, nói rõ với tiệm rằng đây là chuyến đi xa nhiều ngày theo đoàn xe đạp. Điều kiện mang xe đi xa và mức cọc cần xác nhận trực tiếp. Ngay lúc nhận xe, kiểm tra kỹ phanh, lốp, đèn và xi nhan theo [danh sách kiểm tra đèn, xi nhan, còi trước chuyến đi xa](/xe-may/2026/10/03/kiem-tra-en-xi-nhan-va-coi-truoc-chuyen-i-xa/).
+Khi đặt xe, nói rõ với tiệm rằng đây là chuyến đi xa nhiều ngày theo đoàn xe đạp. Điều kiện mang xe đi xa và mức cọc cần xác nhận trực tiếp. Ngay lúc nhận xe, kiểm tra kỹ phanh, lốp, đèn và xi nhan theo [danh sách kiểm tra đèn, xi nhan, còi trước chuyến đi xa](/xe-may/2026/10/03/kiem-tra-den-xi-nhan-va-coi-truoc-chuyen-di-xa/).
 
 ## Chở nước và phụ tùng: vừa đủ, không quá tải
 
@@ -68,7 +68,7 @@ Xe hậu cần không chạy ngang hàng với người đạp để nói chuy�
 
 ### Đường không được đi
 
-Xe máy và xe đạp đều không được vào đường cao tốc. Khi lập tuyến, mở bản đồ ở chế độ xe máy, chọn quốc lộ và đường liên xã được phép. Lộ trình gợi ý cho từng chặng có thể tham khảo bài [Hà Nội đi Ninh Bình bằng xe máy hai ngày](/cung-duong/2026/10/01/ha-noi-i-ninh-binh-bang-xe-may-hai-ngay-chia-lo-trinh/), rồi cùng trưởng đoàn điều chỉnh cho người đạp.
+Xe máy và xe đạp đều không được vào đường cao tốc. Khi lập tuyến, mở bản đồ ở chế độ xe máy, chọn quốc lộ và đường liên xã được phép. Lộ trình gợi ý cho từng chặng có thể tham khảo bài [Hà Nội đi Ninh Bình bằng xe máy hai ngày](/cung-duong/2026/10/01/ha-noi-di-ninh-binh-bang-xe-may-hai-ngay-chia-lo-trinh/), rồi cùng trưởng đoàn điều chỉnh cho người đạp.
 
 ## Hẹn điểm dừng và giữ liên lạc với đoàn
 

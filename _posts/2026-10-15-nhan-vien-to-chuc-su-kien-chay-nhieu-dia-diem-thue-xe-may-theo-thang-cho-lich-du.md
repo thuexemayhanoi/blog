@@ -41,7 +41,7 @@ Ranh giới quan trọng nhất của người chạy sự kiện bằng xe máy
 
 Với những món này, đặt thùng nặng ở sàn để chân hoặc buộc vào giá sau bằng dây chun có móc, kéo thử từng góc trước khi chạy. Đồ không được thò quá thân xe, không che đèn và biển số. Hộp hoa dễ đổ thì để thẳng đứng, chèn khăn quanh chân hộp.
 
-**Đạo cụ lớn, để xe tải:** khung backdrop, chân đèn sân khấu, cổng hoa, thùng loa, bàn ghế, vách ngăn. Đừng cố vác một tấm phông dài trên vai hay kẹp chân đèn ngang xe để đỡ một chuyến xe tải. Gió ngang trên đường lớn như Phạm Hùng hay trên cầu Nhật Tân có thể quật tấm phông và kéo cả người lẫn xe. Quy định về hàng cồng kềnh trên xe máy được tóm tắt trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/).
+**Đạo cụ lớn, để xe tải:** khung backdrop, chân đèn sân khấu, cổng hoa, thùng loa, bàn ghế, vách ngăn. Đừng cố vác một tấm phông dài trên vai hay kẹp chân đèn ngang xe để đỡ một chuyến xe tải. Gió ngang trên đường lớn như Phạm Hùng hay trên cầu Nhật Tân có thể quật tấm phông và kéo cả người lẫn xe. Quy định về hàng cồng kềnh trên xe máy được tóm tắt trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/).
 
 ## Dựng sớm: ra đường khi thành phố chưa thức
 
@@ -61,7 +61,7 @@ Tháo dỡ thường kết thúc sau khi khách về hết, nghĩa là bạn ra 
 - **Mệt thì nghỉ.** Thấy mắt díp lại, dừng ở chỗ sáng có người, uống nước, đi lại vài phút. Nếu quá mệt, gửi xe lại chỗ có người trông và về bằng phương tiện khác.
 - **Không uống rượu bia ở tiệc** dù được mời, vì bạn còn phải lái xe về.
 
-Cách quan sát và giữ tốc độ khi đi đêm được nói kỹ trong bài [chạy xe ban đêm trong nội đô](/ky-nang/2026-09-29/chay-xe-ban-em-trong-noi-o/).
+Cách quan sát và giữ tốc độ khi đi đêm được nói kỹ trong bài [chạy xe ban đêm trong nội đô](/ky-nang/2026-09-29/chay-xe-ban-dem-trong-noi-do/).
 
 ## Gửi xe ở hội trường, khách sạn, nhà hàng tiệc cưới
 

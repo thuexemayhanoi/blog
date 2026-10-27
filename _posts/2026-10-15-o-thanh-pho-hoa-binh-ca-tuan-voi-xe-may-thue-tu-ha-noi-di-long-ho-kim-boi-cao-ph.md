@@ -39,7 +39,7 @@ Nếu chỉ có năm ngày, bỏ ngày 4 và gộp ngày 6 vào buổi chiều n
 
 ## Đường lên: quốc lộ 6 qua Xuân Mai, không vào cao tốc cấm xe máy
 
-Từ cửa hàng ở Long Biên, bạn qua cầu Chương Dương hoặc cầu Vĩnh Tuy vào nội thành, rồi đi về phía Hà Đông để bắt quốc lộ 6. Đường ra Xuân Mai thường đông vào giờ đi làm, nên xuất phát giữa buổi sáng là hợp lý. Qua Xuân Mai và Lương Sơn, đường bắt đầu lên xuống dốc trước khi tới thành phố. Bài [đoạn Xuân Mai – Hòa Bình trên quốc lộ 6](/cung-duong/2026/10/11/oan-ha-ong-xuan-mai-hoa-binh-tren-quoc-lo-6-gio-ket-va-cach-chay/) nói kỹ về giờ kẹt và cách chạy đoạn này.
+Từ cửa hàng ở Long Biên, bạn qua cầu Chương Dương hoặc cầu Vĩnh Tuy vào nội thành, rồi đi về phía Hà Đông để bắt quốc lộ 6. Đường ra Xuân Mai thường đông vào giờ đi làm, nên xuất phát giữa buổi sáng là hợp lý. Qua Xuân Mai và Lương Sơn, đường bắt đầu lên xuống dốc trước khi tới thành phố. Bài [đoạn Xuân Mai – Hòa Bình trên quốc lộ 6](/cung-duong/2026/10/11/doan-ha-dong-xuan-mai-hoa-binh-tren-quoc-lo-6-gio-ket-va-cach-chay/) nói kỹ về giờ kẹt và cách chạy đoạn này.
 
 Trên đường có thể gặp biển chỉ dẫn vào cao tốc Hòa Lạc – Hòa Bình. Nếu lối vào có biển cấm xe máy thì tuyệt đối không rẽ, cứ đi tiếp quốc lộ 6. Khi dò đường, chuyển ứng dụng bản đồ sang chế độ xe máy, vì chế độ ô tô hay gợi ý lối lên cao tốc.
 
@@ -51,7 +51,7 @@ Hồ chứa của nhà máy thủy điện Hòa Bình trên sông Đà rất r�
 
 ### Kim Bôi và suối khoáng
 
-Kim Bôi nổi tiếng với nước khoáng nóng, có nhiều khu tắm trong thung lũng. Đường vào hẹp hơn quốc lộ, qua nhiều bản, gà chó hay băng ngang. Nếu muốn biết chi tiết cung đường, có bài [Hà Nội đi Kim Bôi bằng xe máy](/cung-duong/2026/10/10/ha-noi-i-kim-boi-bang-xe-may-cung-uong-hoa-binh/). Ở đây chỉ lưu ý: tắm từng đợt ngắn, uống đủ nước, và nghỉ ít nhất nửa tiếng trước khi cầm lái về, vì sau khi ngâm nước nóng người dễ uể oải.
+Kim Bôi nổi tiếng với nước khoáng nóng, có nhiều khu tắm trong thung lũng. Đường vào hẹp hơn quốc lộ, qua nhiều bản, gà chó hay băng ngang. Nếu muốn biết chi tiết cung đường, có bài [Hà Nội đi Kim Bôi bằng xe máy](/cung-duong/2026/10/10/ha-noi-di-kim-boi-bang-xe-may-cung-duong-hoa-binh/). Ở đây chỉ lưu ý: tắm từng đợt ngắn, uống đủ nước, và nghỉ ít nhất nửa tiếng trước khi cầm lái về, vì sau khi ngâm nước nóng người dễ uể oải.
 
 ### Cao Phong, vùng cam
 

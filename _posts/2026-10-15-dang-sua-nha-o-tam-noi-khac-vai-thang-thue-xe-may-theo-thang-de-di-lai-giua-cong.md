@@ -63,7 +63,7 @@ Vài nguyên tắc khi vào khu đang thi công:
 - **Dựng xe ở chỗ sạch, xa đống phế thải.** Nhờ thợ quét một khoảng đất trước cửa để dựng xe nếu có thể.
 - **Không phóng qua mương, rãnh đang đào.** Dắt xe nếu không thấy rõ đáy.
 
-Nếu lốp bị thủng hoặc xe có dấu hiệu bất thường, đừng cố chạy tiếp. Dừng ở chỗ an toàn và gọi cửa hàng theo số 0942467674 để được hướng dẫn xử lý. Bài [xe thuê bị thủng lốp giữa đường](/thue-xe/2026/09/30/xe-thue-bi-thung-lop-giua-uong-xu-ly-the-nao/) nói kỹ các bước nên làm. Người phải đi công trường lớn hằng ngày, đường đất và ổ gà nhiều hơn, có thể đọc thêm kinh nghiệm trong bài [kỹ sư đi công trường bằng xe thuê tháng](/thue-xe/2026/10/14/ky-su-di-cong-truong-bang-xe-may-thue-thang-duong-dat-bui-o-ga-va-giu-xe-ben/).
+Nếu lốp bị thủng hoặc xe có dấu hiệu bất thường, đừng cố chạy tiếp. Dừng ở chỗ an toàn và gọi cửa hàng theo số 0942467674 để được hướng dẫn xử lý. Bài [xe thuê bị thủng lốp giữa đường](/thue-xe/2026/09/30/xe-thue-bi-thung-lop-giua-duong-xu-ly-the-nao/) nói kỹ các bước nên làm. Người phải đi công trường lớn hằng ngày, đường đất và ổ gà nhiều hơn, có thể đọc thêm kinh nghiệm trong bài [kỹ sư đi công trường bằng xe thuê tháng](/thue-xe/2026/10/14/ky-su-di-cong-truong-bang-xe-may-thue-thang-duong-dat-bui-o-ga-va-giu-xe-ben/).
 
 ## Chở gì bằng xe, để nhà cung cấp giao gì
 

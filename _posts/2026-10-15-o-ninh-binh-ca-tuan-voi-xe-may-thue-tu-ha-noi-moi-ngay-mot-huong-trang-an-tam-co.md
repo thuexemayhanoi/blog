@@ -27,7 +27,7 @@ Nếu bạn còn phân vân giữa đi về trong ngày và ở lại, bài [đi
 
 ## Đường từ Hà Nội: quốc lộ 1 qua Phủ Lý, không vào cao tốc
 
-Đây là điều phải nhớ trước mọi thứ: **cao tốc Pháp Vân – Cầu Giẽ – Ninh Bình cấm xe máy**. Ứng dụng bản đồ đôi khi gợi ý tuyến này vì nó ngắn, nên hãy bật chế độ xe máy và luôn đối chiếu với biển báo. Lý do được giải thích trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Đây là điều phải nhớ trước mọi thứ: **cao tốc Pháp Vân – Cầu Giẽ – Ninh Bình cấm xe máy**. Ứng dụng bản đồ đôi khi gợi ý tuyến này vì nó ngắn, nên hãy bật chế độ xe máy và luôn đối chiếu với biển báo. Lý do được giải thích trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 Tuyến cho xe máy là quốc lộ 1:
 
@@ -59,7 +59,7 @@ Giữa tuần nên có một ngày gần như không lái xe. Ngủ muộn, gi�
 
 ### Ngày 5: hướng Vân Long
 
-Vân Long là vùng đất ngập nước ở Gia Viễn, yên hơn hẳn các bến thuyền đông khách. Đi sớm, mặc màu áo trầm, nói nhỏ trên thuyền. Đường vào và chỗ gửi xe được ghi trong bài [đi Vân Long bằng xe máy](/cung-duong/2026/10/10/ha-noi-i-van-long-bang-xe-may-cung-uong-ninh-binh/).
+Vân Long là vùng đất ngập nước ở Gia Viễn, yên hơn hẳn các bến thuyền đông khách. Đi sớm, mặc màu áo trầm, nói nhỏ trên thuyền. Đường vào và chỗ gửi xe được ghi trong bài [đi Vân Long bằng xe máy](/cung-duong/2026/10/10/ha-noi-di-van-long-bang-xe-may-cung-duong-ninh-binh/).
 
 ### Ngày 6: hướng Phát Diệm
 

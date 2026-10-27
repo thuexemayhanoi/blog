@@ -42,9 +42,9 @@ Từ Long Biên, phần lớn khách qua cầu Chương Dương hoặc cầu Vĩ
 
 ### Đèo Thung Khe và quốc lộ 15
 
-Thung Khe là con đèo đầu tiên của chuyến, rộng và thoáng nhưng hay có sương sáng sớm và chiều muộn. Cách chạy qua đoạn này được nói kỹ trong bài [đi Mai Châu qua đèo Thung Khe](/cung-duong/2026/10/01/i-mai-chau-qua-eo-thung-khe-chay-xe-an-toan-tren-eo/). Rời Mai Châu theo quốc lộ 15, đường hẹp hơn, men theo sườn núi, cua nối cua, có đoạn mặt đường xấu sau mùa mưa. Muốn chụp ảnh thì dừng ở chỗ rộng, không dừng ngay sau khúc cua.
+Thung Khe là con đèo đầu tiên của chuyến, rộng và thoáng nhưng hay có sương sáng sớm và chiều muộn. Cách chạy qua đoạn này được nói kỹ trong bài [đi Mai Châu qua đèo Thung Khe](/cung-duong/2026/10/01/di-mai-chau-qua-deo-thung-khe-chay-xe-an-toan-tren-deo/). Rời Mai Châu theo quốc lộ 15, đường hẹp hơn, men theo sườn núi, cua nối cua, có đoạn mặt đường xấu sau mùa mưa. Muốn chụp ảnh thì dừng ở chỗ rộng, không dừng ngay sau khúc cua.
 
-Đường từ trục chính vào các bản ở Pù Luông còn hẹp nữa, nhiều chỗ chỉ vừa một ô tô. Bài [cung đường đi Pù Luông bằng xe máy](/cung-duong/2026/10/01/i-pu-luong-bang-xe-may-cung-uong-va-iem-dung-chan/) mô tả các nhánh vào bản và những đoạn qua suối cần nhìn trước.
+Đường từ trục chính vào các bản ở Pù Luông còn hẹp nữa, nhiều chỗ chỉ vừa một ô tô. Bài [cung đường đi Pù Luông bằng xe máy](/cung-duong/2026/10/01/di-pu-luong-bang-xe-may-cung-duong-va-diem-dung-chan/) mô tả các nhánh vào bản và những đoạn qua suối cần nhìn trước.
 
 ## Đường đèo và sương: chạy thế nào cho cả tuần
 
@@ -56,7 +56,7 @@ Một tuần ở miền núi nghĩa là ngày nào cũng có dốc và nhiều b
 - **Không vượt ở cua khuất.** Bóp còi ngắn trước cua hẹp, đi sát bên phải.
 - **Mưa chiều thì dừng sớm.** Đường đất vào bản trơn ngay cả khi mưa nhỏ; gửi xe ở đầu bản rồi đi bộ phần còn lại.
 
-Cách đọc sương và giữ khoảng cách trên đường đèo có thêm trong bài [sương mù sáng sớm trên đường đèo](/ky-nang/2026-09-29/suong-mu-sang-som-tren-uong-eo/).
+Cách đọc sương và giữ khoảng cách trên đường đèo có thêm trong bài [sương mù sáng sớm trên đường đèo](/ky-nang/2026-09-29/suong-mu-sang-som-tren-duong-deo/).
 
 ## Pù Luông, Thành nhà Hồ bằng xe máy: xem gì và hỏi gì tại chỗ
 

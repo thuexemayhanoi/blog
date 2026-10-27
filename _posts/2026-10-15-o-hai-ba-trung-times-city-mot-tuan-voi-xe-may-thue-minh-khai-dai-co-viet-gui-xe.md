@@ -67,7 +67,7 @@ Trong một tuần, cứ chọn một tuyến và đi lại nó thay vì mỗi t
 
 ## Sang Long Biên qua cầu Vĩnh Tuy khi cần ghé tiệm
 
-Từ Times City, cầu Vĩnh Tuy ở rất gần và cho xe máy đi, nên đây là lối tự nhiên mỗi khi bạn cần sang tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên: lúc nhận xe, khi muốn hỏi về xe giữa tuần, hay ngày trả. Sang tới bờ bên kia, bật dẫn đường ở chế độ xe máy để về Nguyễn Văn Cừ. Ai chưa từng qua cầu này nên đọc trước bài [chạy xe sáng sớm qua cầu Vĩnh Tuy](/cung-duong/2026/10/01/chay-xe-sang-som-qua-cau-vinh-tuy-cung-uong-cho-nguoi-moi/).
+Từ Times City, cầu Vĩnh Tuy ở rất gần và cho xe máy đi, nên đây là lối tự nhiên mỗi khi bạn cần sang tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên: lúc nhận xe, khi muốn hỏi về xe giữa tuần, hay ngày trả. Sang tới bờ bên kia, bật dẫn đường ở chế độ xe máy để về Nguyễn Văn Cừ. Ai chưa từng qua cầu này nên đọc trước bài [chạy xe sáng sớm qua cầu Vĩnh Tuy](/cung-duong/2026/10/01/chay-xe-sang-som-qua-cau-vinh-tuy-cung-duong-cho-nguoi-moi/).
 
 Tiệm mở từ 09:00 đến 21:00 và không giao xe ngoài giờ này. Nếu muốn tiệm mang xe tới tận Times City, thời gian và chi phí giao nhận phải xác nhận trước khi đặt. Mức cọc và giấy tờ cần mang cũng được xác nhận trực tiếp; nếu để lại giấy tờ nào, hãy hỏi rõ và xin biên nhận.
 

@@ -37,7 +37,7 @@ Sáng ngày nồm, xe đứng cả đêm trong không khí ẩm nên hay khó n�
 4. **Xe số có e gió (tùy xe):** kéo e gió khi đề lúc máy nguội, nổ ổn rồi thì đẩy e gió về vị trí cũ trước khi chạy. Nếu không chắc xe mình có, đừng tự mò; hỏi tiệm.
 5. **Để máy chạy nhẹ một lúc ngắn** rồi mới đi, chạy chậm vài trăm mét đầu.
 
-Nếu đã thử vài lần vẫn không nổ, đừng cố. Gọi tiệm theo số 0942467674 để được hướng dẫn. Thao tác riêng cho xe ga có trong bài [xe ga đề không nổ ngày nồm](/xe-may/2026/10/03/xe-ga-e-khong-no-troi-nom-thao-tac-ung/).
+Nếu đã thử vài lần vẫn không nổ, đừng cố. Gọi tiệm theo số 0942467674 để được hướng dẫn. Thao tác riêng cho xe ga có trong bài [xe ga đề không nổ ngày nồm](/xe-may/2026/10/03/xe-ga-de-khong-no-troi-nom-thao-tac-dung/).
 
 ## Đường trơn do nồm: chạy thế nào cho cả tuần
 

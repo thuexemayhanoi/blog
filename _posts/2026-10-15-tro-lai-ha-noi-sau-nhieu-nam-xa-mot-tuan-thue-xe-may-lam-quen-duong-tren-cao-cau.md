@@ -22,7 +22,7 @@ Ai trở lại Hà Nội sau nhiều năm đi làm hay định cư nơi khác th
 Thói quen lái xe là thứ nằm trong phản xạ. Bạn nhớ chỗ rẽ trái, nhớ lối tắt qua một con ngõ, nhớ cây cầu nào đi nhanh hơn. Vấn đề là nhiều điều trong trí nhớ đó đã không còn đúng. Vì vậy tuần đầu nên coi mình như người mới:
 
 - **Bật Google Maps ở chế độ xe máy**, kể cả trên những đoạn bạn nghĩ mình thuộc. Chế độ này tránh phần lớn các tuyến cấm xe máy, nhưng không thay được việc nhìn biển.
-- **Đọc biển trước khi đọc bản đồ.** Biển cấm và biển chỉ hướng ở lối lên cầu, đầu phố là thứ có giá trị cuối cùng. Cách nhận biết các loại biển cấm xe máy có trong bài [nhận biết biển cấm xe máy khi chạy đường Hà Nội](/an-toan-phap-ly/2026/10/05/nhan-biet-bien-cam-xe-may-khi-chay-uong-ha-noi/).
+- **Đọc biển trước khi đọc bản đồ.** Biển cấm và biển chỉ hướng ở lối lên cầu, đầu phố là thứ có giá trị cuối cùng. Cách nhận biết các loại biển cấm xe máy có trong bài [nhận biết biển cấm xe máy khi chạy đường Hà Nội](/an-toan-phap-ly/2026/10/05/nhan-biet-bien-cam-xe-may-khi-chay-duong-ha-noi/).
 - **Đi giờ thấp điểm trong mấy ngày đầu.** Giữa buổi sáng hoặc đầu giờ chiều, dòng xe thưa hơn, bạn có thời gian nhìn biển mà không bị xe sau thúc.
 
 ## Đường trên cao: xe máy đi bên dưới
@@ -39,7 +39,7 @@ Một mẹo nhỏ: khi bản đồ bảo đi thẳng mà phía trước là dố
 
 Ngày trước, đi từ Long Biên sang Hoàn Kiếm thường chỉ nghĩ tới cầu Long Biên hay Chương Dương. Giờ bạn có thêm lựa chọn, nhưng mỗi cây cầu có cách đi riêng.
 
-- **Cầu Nhật Tân** nối Tây Hồ với Đông Anh. Xe máy được đi trên cầu, theo làn dành cho xe máy và biển chỉ dẫn; không đi vào làn ô tô ở giữa. Trên cầu thoáng, gió ngang mạnh, giữ tay lái chắc và tốc độ vừa phải. Lưu ý khi chạy trên cầu có trong bài [đến cầu Nhật Tân bằng xe máy](/du-lich/2026/10/04/en-cau-nhat-tan-bang-xe-may-uong-i-va-luu-y-chay-tren-cau/).
+- **Cầu Nhật Tân** nối Tây Hồ với Đông Anh. Xe máy được đi trên cầu, theo làn dành cho xe máy và biển chỉ dẫn; không đi vào làn ô tô ở giữa. Trên cầu thoáng, gió ngang mạnh, giữ tay lái chắc và tốc độ vừa phải. Lưu ý khi chạy trên cầu có trong bài [đến cầu Nhật Tân bằng xe máy](/du-lich/2026/10/04/den-cau-nhat-tan-bang-xe-may-duong-di-va-luu-y-chay-tren-cau/).
 - **Cầu Vĩnh Tuy 2** nằm song song với cầu Vĩnh Tuy cũ, nối Long Biên với Hai Bà Trưng. Xe máy đi theo làn và biển chỉ dẫn trên cầu, để ý lối lên xuống ở hai đầu vì có thể khác với thói quen cũ.
 - **Cầu Thanh Trì** vẫn cấm xe máy, dù bản đồ đôi khi gợi ý nếu bạn quên đổi chế độ.
 
@@ -63,7 +63,7 @@ Trong khu trung tâm, nhiều phố đã được tổ chức lại thành một
 - Lỡ vào một phố rồi mới thấy xe chạy ngược chiều mình, dừng sát lề, dắt xe hoặc tìm chỗ quay lại hợp lệ.
 - Phố cổ Hoàn Kiếm có những khung giờ dành cho phố đi bộ, khi đó xe máy phải đi đường vòng.
 
-Cách xử lý khi gặp xe đi ngược trên phố một chiều có trong bài [tình huống xe ngược chiều trên đường một chiều](/ky-nang/2026/10/09/tinh-huong-xe-nguoc-chieu-vao-lam-uong-mot-chieu/).
+Cách xử lý khi gặp xe đi ngược trên phố một chiều có trong bài [tình huống xe ngược chiều trên đường một chiều](/ky-nang/2026/10/09/tinh-huong-xe-nguoc-chieu-vao-lam-duong-mot-chieu/).
 
 ## Lịch một tuần làm quen lại
 

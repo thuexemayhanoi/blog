@@ -58,14 +58,14 @@ Thùng đồ lễ, túi trái cây, hộp bánh nên đặt ở sàn để chân
 
 ### Mâm cúng đi chậm, đi thẳng
 
-Mâm cúng có đĩa, bát, chén nước nên để người ngồi sau ôm ngang, giữ thăng bằng, còn người lái chạy đều tay, phanh sớm và nhẹ. Nếu mâm to hoặc nhiều tầng, chia làm hai chuyến. Mẹo xếp và buộc mâm có trong bài [chở mâm đồ cúng trên xe máy](/ky-nang/2026/10/10/cho-mam-o-cung-tren-xe-may-can-bang-va-buoc-chac/).
+Mâm cúng có đĩa, bát, chén nước nên để người ngồi sau ôm ngang, giữ thăng bằng, còn người lái chạy đều tay, phanh sớm và nhẹ. Nếu mâm to hoặc nhiều tầng, chia làm hai chuyến. Mẹo xếp và buộc mâm có trong bài [chở mâm đồ cúng trên xe máy](/ky-nang/2026/10/10/cho-mam-do-cung-tren-xe-may-can-bang-va-buoc-chac/).
 
 ## Khi đang mệt, đau buồn hoặc đã uống rượu thì không tự lái
 
 Đây là phần quan trọng nhất của bài. Trong những ngày lo tang, người nhà thường thức trắng nhiều đêm, ăn uống thất thường, đầu óc lại nặng trĩu. Phản xạ chậm đi rõ rệt, chỉ một giây lơ đãng ở ngã tư đông là đủ gây chuyện.
 
 - Nếu bạn vừa khóc nhiều, mắt mờ, tay run, hãy nhờ người khác lái hoặc gọi xe.
-- Nếu đã thức trắng đêm trực, ngủ bù vài tiếng rồi mới cầm lái. Dấu hiệu nguy hiểm và cách xử lý được tóm trong bài [chạy xe khi đang mệt hay thiếu ngủ](/ky-nang/2026-09-29-chay-xe-khi-ang-met-hay-thieu-ngu-rui-ro/).
+- Nếu đã thức trắng đêm trực, ngủ bù vài tiếng rồi mới cầm lái. Dấu hiệu nguy hiểm và cách xử lý được tóm trong bài [chạy xe khi đang mệt hay thiếu ngủ](/ky-nang/2026-09-29-chay-xe-khi-dang-met-hay-thieu-ngu-rui-ro/).
 - Trong đám có mời rượu thì người đã uống, dù chỉ một chén, tuyệt đối không lái xe. Để xe ở nhà, chìa khóa giao cho một người không uống giữ.
 
 Chiếc xe thuê chỉ có ích khi người lái tỉnh táo. Không có việc gì trong đám gấp tới mức phải đánh đổi sự an toàn của bạn.
@@ -74,7 +74,7 @@ Chiếc xe thuê chỉ có ích khi người lái tỉnh táo. Không có việc
 
 Nhà có đám đông người ra vào, xe dựng ngoài ngõ dễ bị lẫn. Hãy khóa cổ xe mỗi lần dựng, cất chìa khóa ở một chỗ cố định cả nhà đều biết. Gửi xe ở nhà tang lễ thì giữ vé cùng giấy tờ xe.
 
-Con cháu về từ nước ngoài nên mang giấy phép lái xe phù hợp và hỏi tiệm về giấy tờ trước khi nhận xe. Nếu trước đó bạn đã ở Hà Nội chăm người thân nằm viện, bài [người nhà chăm bệnh nhân ở Hà Nội một tuần](/thue-xe/2026/10/11/nguoi-nha-cham-benh-nhan-o-ha-noi-mot-tuan-thue-xe-may-i-giua-vien-va-cho-tro/) có thêm kinh nghiệm cho giai đoạn đó.
+Con cháu về từ nước ngoài nên mang giấy phép lái xe phù hợp và hỏi tiệm về giấy tờ trước khi nhận xe. Nếu trước đó bạn đã ở Hà Nội chăm người thân nằm viện, bài [người nhà chăm bệnh nhân ở Hà Nội một tuần](/thue-xe/2026/10/11/nguoi-nha-cham-benh-nhan-o-ha-noi-mot-tuan-thue-xe-may-di-giua-vien-va-cho-tro/) có thêm kinh nghiệm cho giai đoạn đó.
 
 ## Trả xe sau lễ cúng bảy ngày
 

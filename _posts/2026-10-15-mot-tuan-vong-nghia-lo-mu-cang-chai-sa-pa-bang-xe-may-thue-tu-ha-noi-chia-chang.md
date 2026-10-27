@@ -80,7 +80,7 @@ Buộc hành lý thấp và gọn trên yên sau, không để túi lệch một
 
 ## Thời tiết vùng núi đổi nhanh: sương mù và mưa
 
-Trời vùng núi có thể nắng buổi trưa rồi kéo mây, sương mù dày chỉ sau một con dốc. Hãy mang áo mưa bộ, áo ấm, găng tay và bật đèn ngay khi tầm nhìn giảm. Gặp sương mù, giảm tốc, giữ khoảng cách xa, bám vạch kẻ đường và không vượt. Bài [sương mù sáng sớm trên đường đèo](/ky-nang/2026-09-29/suong-mu-sang-som-tren-uong-eo/) có thêm cách xử lý chi tiết.
+Trời vùng núi có thể nắng buổi trưa rồi kéo mây, sương mù dày chỉ sau một con dốc. Hãy mang áo mưa bộ, áo ấm, găng tay và bật đèn ngay khi tầm nhìn giảm. Gặp sương mù, giảm tốc, giữ khoảng cách xa, bám vạch kẻ đường và không vượt. Bài [sương mù sáng sớm trên đường đèo](/ky-nang/2026-09-29/suong-mu-sang-som-tren-duong-deo/) có thêm cách xử lý chi tiết.
 
 Nếu sương quá dày hoặc mưa lớn trên đèo, đừng cố đi tiếp. Đó là lúc ngày dự phòng phát huy tác dụng: ở lại thêm, rồi nhắn cửa hàng nếu lịch trả có thể thay đổi.
 

@@ -36,7 +36,7 @@ Căn hộ ngắn ngày xoay vòng quanh hai mốc: giờ khách trả phòng và
 3. **Chừa thời gian đi đường và gửi xe.** Chạy giữa phố cổ và một chung cư ở Cầu Giấy giờ tan tầm có thể lâu hơn bạn nghĩ, cộng thêm vài phút xuống hầm, lên thang máy.
 4. **Đón khách bằng cách hẹn ở sảnh hoặc đầu ngõ.** Với căn trong ngõ sâu, đứng chờ khách ở đầu ngõ, dắt khách đi bộ vào và chỉ chỗ để vali. Khách mang vali to thì nên để họ đi taxi đến tận nơi, đừng cố chở cả người lẫn vali trên một chiếc xe máy.
 
-Cách giữ lịch đều đặn qua nhiều điểm trong ngày cũng được nói trong bài [gia sư dạy nhiều điểm thuê xe máy theo tháng](/thue-xe/2026/10/11/gia-su-giao-vien-day-nhieu-iem-trong-ngay-thue-xe-may-theo-thang-e-kip-gio/), dù công việc khác nhau nhưng nguyên tắc chạy nhiều điểm khá giống.
+Cách giữ lịch đều đặn qua nhiều điểm trong ngày cũng được nói trong bài [gia sư dạy nhiều điểm thuê xe máy theo tháng](/thue-xe/2026/10/11/gia-su-giao-vien-day-nhieu-diem-trong-ngay-thue-xe-may-theo-thang-de-kip-gio/), dù công việc khác nhau nhưng nguyên tắc chạy nhiều điểm khá giống.
 
 ## Chở đồ vải và dụng cụ: gọn, nhẹ, buộc chắc
 
@@ -53,7 +53,7 @@ Cách giữ lịch đều đặn qua nhiều điểm trong ngày cũng được 
 
 Một hộp nhựa nhỏ có nắp cài là đủ: tua vít, băng tan, bóng đèn dự phòng, pin cho khóa điện tử, keo dán. Hộp này nằm cố định trong cốp, không phải xách ra xách vào. Những thứ dài như cây thông tắc hay thang gấp thì không nên chở bằng xe máy, hãy để sẵn một bộ ở căn lớn nhất.
 
-Khi hàng hóa vượt quá kích thước thông thường, hãy đọc thêm [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/) trước khi lên đường.
+Khi hàng hóa vượt quá kích thước thông thường, hãy đọc thêm [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/) trước khi lên đường.
 
 ## Gửi xe ở từng tòa nhà theo đúng quy định
 
@@ -80,6 +80,6 @@ Mức đặt cọc và giấy tờ để lại được xác nhận trực tiế
 
 Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00 và không giao xe ngoài khung giờ này. Muốn nhận xe tại một tòa nhà của bạn thì thời gian và chi phí giao nhận phải xác nhận trước khi đặt. Từ Long Biên sang phố cổ chỉ cần qua cầu Chương Dương hoặc cầu Long Biên.
 
-Chạy nhiều điểm mỗi ngày, xe sẽ đến hạn thay dầu nhanh hơn người đi làm bình thường. Hỏi tiệm cách bảo dưỡng giữa kỳ, và đặt nhắc lịch trả hoặc gia hạn theo bài [nhắc lịch trả xe thuê theo tháng](/thue-xe/2026/10/07/nhac-lich-tra-xe-may-thue-theo-thang-the-nao-cho-eu/). Xe có vấn đề giữa ngày, gọi tiệm số 0942467674.
+Chạy nhiều điểm mỗi ngày, xe sẽ đến hạn thay dầu nhanh hơn người đi làm bình thường. Hỏi tiệm cách bảo dưỡng giữa kỳ, và đặt nhắc lịch trả hoặc gia hạn theo bài [nhắc lịch trả xe thuê theo tháng](/thue-xe/2026/10/07/nhac-lich-tra-xe-may-thue-theo-thang-the-nao-cho-deu/). Xe có vấn đề giữa ngày, gọi tiệm số 0942467674.
 
 Một chiếc xe ga thuê theo tháng, một lộ trình xếp theo cụm và thói quen gửi xe đúng chỗ là đủ để chạy nhiều căn mà không trễ giờ khách. Xem thêm các lựa chọn ở mục [thuê xe theo tháng](/thue-xe/thue-thang/) và chuyên mục [thuê xe](/thue-xe/).
