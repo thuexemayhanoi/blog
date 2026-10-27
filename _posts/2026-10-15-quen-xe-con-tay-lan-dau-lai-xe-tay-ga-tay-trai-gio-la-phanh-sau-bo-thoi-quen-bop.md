@@ -76,7 +76,7 @@ Chú ý thêm: vành đai 3 trên cao cấm xe máy, nên luôn đi đường b�
 
 ## Trước khi nhận xe: vài điều nên hỏi
 
-Nếu bạn cầm bằng A1, Luật Trật tự, an toàn giao thông đường bộ năm 2024 (Điều 57) cho phép lái xe mô tô hai bánh dung tích đến 125 cm³; hãy hỏi tiệm dung tích chiếc xe bạn nhận để chắc chắn phù hợp. Các hạng bằng được giải thích kỹ trong bài [bằng lái A1 điều khiển xe máy phạm vi nào](/an-toan-phap-ly/2026/09/28/bang-lai-a1-ieu-khien-xe-may-pham-vi-nao/).
+Nếu bạn cầm bằng A1, Luật Trật tự, an toàn giao thông đường bộ năm 2024 (Điều 57) cho phép lái xe mô tô hai bánh dung tích đến 125 cm³; hãy hỏi tiệm dung tích chiếc xe bạn nhận để chắc chắn phù hợp. Các hạng bằng được giải thích kỹ trong bài [bằng lái A1 điều khiển xe máy phạm vi nào](/an-toan-phap-ly/2026/09/28/bang-lai-a1-dieu-khien-xe-may-pham-vi-nao/).
 
 Khi nhận xe, nhờ tiệm chỉ rõ từng tay phanh trên chiếc xe đó, rồi tự bóp thử cả hai tay trước khi đi. Nếu bạn quen xe số phổ thông chứ không phải côn tay, bài [chuyển từ xe số sang xe tay ga](/xe-may/2026/10/14/chuyen-tu-xe-so-sang-xe-tay-ga-nhung-thoi-quen-cu-can-bo-de-khong-phanh-nham-ga/) sẽ sát hơn. Còn ai lần đầu cầm Vision sau thời gian đi Wave có thể đọc bài [quen Wave lần đầu lái Vision](/xe-may/2026/10/15/quen-di-honda-wave-lan-dau-lai-honda-vision-bo-thoi-quen-tim-can-so-phanh-sau-o/).
 

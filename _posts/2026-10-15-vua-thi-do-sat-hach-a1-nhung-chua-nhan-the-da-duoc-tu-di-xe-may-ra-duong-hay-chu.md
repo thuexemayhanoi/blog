@@ -61,7 +61,7 @@ Khoản 1 Điều 9 của Luật xếp việc điều khiển xe cơ giới khô
 - **Tay lái còn non:** bài sát hạch chạy trong sân, không có xe buýt, xe tải hay dòng xe đông như cầu Chương Dương giờ tan tầm.
 - **Mượn xe người thân:** khoản 7 Điều 9 cũng cấm giao xe cơ giới cho người không đủ điều kiện điều khiển, nên người cho mượn xe cũng có thể bị liên lụy.
 
-Hậu quả khi lái xe không có giấy phép được phân tích ở bài [đi xe máy không bằng lái bị xử lý thế nào](/an-toan-phap-ly/2026/09/28/i-xe-may-khong-bang-lai-bi-xu-ly-the-nao/). Mức xử phạt cụ thể có thể thay đổi, hãy tra văn bản hiện hành thay vì tin con số trên mạng xã hội.
+Hậu quả khi lái xe không có giấy phép được phân tích ở bài [đi xe máy không bằng lái bị xử lý thế nào](/an-toan-phap-ly/2026/09/28/di-xe-may-khong-bang-lai-bi-xu-ly-the-nao/). Mức xử phạt cụ thể có thể thay đổi, hãy tra văn bản hiện hành thay vì tin con số trên mạng xã hội.
 
 ## Một tình huống ở Hà Nội
 
@@ -71,7 +71,7 @@ Nếu đến thứ Năm giấy phép đã hiện trong tài khoản với hạng
 
 ## Muốn thuê xe ngay sau khi thi đỗ
 
-Thuê xe cũng theo cùng mốc: chưa có giấy phép được cấp thì chưa nên thuê để tự lái. Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00, chỉ cho thuê xe, không làm dịch vụ giấy tờ. Nếu bằng của bạn mới chỉ hiện trên VNeID, hãy gọi 0942467674 hỏi trước cửa hàng cần xem giấy tờ gì. Bài [bằng A1 mới cấp có đủ điều kiện thuê xe máy không](/an-toan-phap-ly/2026/10/05/bang-a1-moi-cap-co-u-ieu-kien-thue-xe-may-khong/) nói kỹ phần này, còn phạm vi xe được lái có ở bài [hạng A1 lái được những loại xe máy nào](/an-toan-phap-ly/2026/10/09/hang-a1-lai-uoc-nhung-loai-xe-may-nao/).
+Thuê xe cũng theo cùng mốc: chưa có giấy phép được cấp thì chưa nên thuê để tự lái. Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00, chỉ cho thuê xe, không làm dịch vụ giấy tờ. Nếu bằng của bạn mới chỉ hiện trên VNeID, hãy gọi 0942467674 hỏi trước cửa hàng cần xem giấy tờ gì. Bài [bằng A1 mới cấp có đủ điều kiện thuê xe máy không](/an-toan-phap-ly/2026/10/05/bang-a1-moi-cap-co-du-dieu-kien-thue-xe-may-khong/) nói kỹ phần này, còn phạm vi xe được lái có ở bài [hạng A1 lái được những loại xe máy nào](/an-toan-phap-ly/2026/10/09/hang-a1-lai-duoc-nhung-loai-xe-may-nao/).
 
 ## Nguồn tham khảo và lưu ý
 

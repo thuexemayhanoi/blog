@@ -41,7 +41,7 @@ Chở bạn cùng lớp từ Long Biên sang Hoàn Kiếm là hợp pháp, miễ
 
 Luật không đặt số ki-lô-mét tối đa cho người mới có bằng, nhưng có hai điều cần nhớ.
 
-**Thứ nhất, không đi cao tốc.** Khoản 3 Điều 25 quy định xe mô tô, xe gắn máy không được đi trên đường cao tốc. Hãy chọn chế độ xe máy trên ứng dụng bản đồ và xem lại lộ trình. Bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/) có thêm cách chọn tuyến.
+**Thứ nhất, không đi cao tốc.** Khoản 3 Điều 25 quy định xe mô tô, xe gắn máy không được đi trên đường cao tốc. Hãy chọn chế độ xe máy trên ứng dụng bản đồ và xem lại lộ trình. Bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/) có thêm cách chọn tuyến.
 
 **Thứ hai, đúng phạm vi hạng bằng.** Điểm a khoản 1 Điều 57 quy định hạng A1 cấp cho người lái mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc công suất động cơ điện đến 11 kW. Bằng A1 vừa được cấp theo luật mới chỉ dùng trong phạm vi này.
 

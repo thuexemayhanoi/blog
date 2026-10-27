@@ -80,7 +80,7 @@ Còn chuyện cửa hàng xử lý vết đã ghi bổ sung ra sao khi trả xe,
 
 Đến ngày trả, mở sẵn cuộc trò chuyện trên điện thoại. Khi nhân viên kiểm tra xe, chỉ cho họ vết xước đã báo và đưa tin xác nhận ra đối chiếu.
 
-Lưu ý phân biệt: bài này dành cho vết **có sẵn** khi nhận xe. Nếu chính bạn làm xước hay va chạm trong lúc đi, cách xử lý khác hẳn, xem bài [làm xước hoặc làm đổ xe thuê](/thue-xe/2026/10/12/lam-xuoc-hoac-lam-o-xe-thue-cach-bao-cua-hang-va-ghi-lai-hien-truong/).
+Lưu ý phân biệt: bài này dành cho vết **có sẵn** khi nhận xe. Nếu chính bạn làm xước hay va chạm trong lúc đi, cách xử lý khác hẳn, xem bài [làm xước hoặc làm đổ xe thuê](/thue-xe/2026/10/12/lam-xuoc-hoac-lam-do-xe-thue-cach-bao-cua-hang-va-ghi-lai-hien-truong/).
 
 ## Tóm lại
 

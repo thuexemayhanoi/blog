@@ -80,6 +80,6 @@ Với trường hợp remote hỏng hẳn hoặc bị mất, phí và chính sá
 
 ## Giữ remote khô cho những chuyến mưa tiếp theo
 
-Cất remote trong túi zip nhỏ hoặc ngăn áo có khóa kéo, mặc áo mưa xong mới lấy remote ra mở máy, và không đặt nó trên yên hay trong rổ xe khi trời mưa. Nếu vừa đi qua đoạn ngập, xem thêm bài [xe máy ướt nước mưa ngập không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-e-khong-no/), vì lúc đó cả xe lẫn remote đều cần để ý.
+Cất remote trong túi zip nhỏ hoặc ngăn áo có khóa kéo, mặc áo mưa xong mới lấy remote ra mở máy, và không đặt nó trên yên hay trong rổ xe khi trời mưa. Nếu vừa đi qua đoạn ngập, xem thêm bài [xe máy ướt nước mưa ngập không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-de-khong-no/), vì lúc đó cả xe lẫn remote đều cần để ý.
 
 Tóm lại: remote ướt thì lau khô, để khô tự nhiên, không sấy nóng, không mở vỏ, thử nút từ tốn rồi mới nổ máy. Xe không nhận thì xem sách hướng dẫn hoặc gọi tiệm, đừng tự mò. Các kinh nghiệm khác cho xe tay ga có ở mục [xe tay ga](/xe-may/xe-ga/), còn mọi bài về xe nằm trong chuyên mục [xe máy](/xe-may/).

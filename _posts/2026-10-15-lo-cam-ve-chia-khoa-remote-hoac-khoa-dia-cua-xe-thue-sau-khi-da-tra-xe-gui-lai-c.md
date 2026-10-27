@@ -26,7 +26,7 @@ Có mấy kịch bản quen thuộc:
 - **Khóa đĩa, khóa chữ U hoặc dây khóa.** Đồ chống trộm tháo ra khi đi, cất vào ba lô, đến lúc trả chỉ nhớ dắt xe vào mà quên ổ khóa ở đáy túi.
 - **Trả xe gấp hoặc nhờ người trả hộ.** Người dắt xe đến cửa hàng không phải người giữ chìa, hai bên tưởng bên kia đã đưa.
 
-Nếu bạn rơi vào trường hợp ngược lại, tức để quên đồ cá nhân trên xe sau khi trả, hãy xem bài [quên đồ trên xe thuê đã trả](/thue-xe/2026/10/10/e-quen-o-tren-xe-thue-a-tra-xu-ly-the-nao/), cách làm khác khá nhiều.
+Nếu bạn rơi vào trường hợp ngược lại, tức để quên đồ cá nhân trên xe sau khi trả, hãy xem bài [quên đồ trên xe thuê đã trả](/thue-xe/2026/10/10/de-quen-do-tren-xe-thue-da-tra-xu-ly-the-nao/), cách làm khác khá nhiều.
 
 ## Bước một: báo cửa hàng ngay khi phát hiện
 

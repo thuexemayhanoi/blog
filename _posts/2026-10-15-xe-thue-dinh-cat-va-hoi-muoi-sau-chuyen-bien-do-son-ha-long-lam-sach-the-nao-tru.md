@@ -92,7 +92,7 @@ Khi mang xe về 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên trong giờ mở
 - Bạn đã làm sạch xe ra sao, tự rửa hay nhờ tiệm.
 - Có gì bất thường trên đường không: tiếng kêu lạ, xích kêu, phanh khác lúc nhận.
 
-Kể thật giúp cửa hàng kiểm tra đúng chỗ, và giúp bạn tránh hiểu nhầm về sau. Nếu còn vệt muối hay cát sót lại ở chỗ khó lau, cứ nói thẳng để cửa hàng tự xử lý theo cách của họ, thay vì cố cạy bằng vật cứng. Chụp ảnh xe lúc trả theo gợi ý trong bài [chụp lại tình trạng xe khi nhận và khi trả](/thue-xe/2026/09/27/chup-lai-tinh-trang-xe-khi-nhan-va-khi-tra/). Câu hỏi có bắt buộc rửa xe trước khi trả hay không đã có trong bài [rửa xe trước khi trả xe thuê có cần không](/thue-xe/2026/10/11/rua-xe-truoc-khi-tra-xe-thue-co-can-khong-va-nen-hoi-gi-tu-au/).
+Kể thật giúp cửa hàng kiểm tra đúng chỗ, và giúp bạn tránh hiểu nhầm về sau. Nếu còn vệt muối hay cát sót lại ở chỗ khó lau, cứ nói thẳng để cửa hàng tự xử lý theo cách của họ, thay vì cố cạy bằng vật cứng. Chụp ảnh xe lúc trả theo gợi ý trong bài [chụp lại tình trạng xe khi nhận và khi trả](/thue-xe/2026/09/27/chup-lai-tinh-trang-xe-khi-nhan-va-khi-tra/). Câu hỏi có bắt buộc rửa xe trước khi trả hay không đã có trong bài [rửa xe trước khi trả xe thuê có cần không](/thue-xe/2026/10/11/rua-xe-truoc-khi-tra-xe-thue-co-can-khong-va-nen-hoi-gi-tu-dau/).
 
 ## Kết lại
 

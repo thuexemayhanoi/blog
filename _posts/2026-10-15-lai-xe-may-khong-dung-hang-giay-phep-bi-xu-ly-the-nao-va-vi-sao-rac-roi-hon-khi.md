@@ -46,7 +46,7 @@ Khi bị dừng kiểm tra, người lái xuất trình giấy phép, có thể 
 
 Hành vi điều khiển xe với giấy phép không phù hợp bị xử phạt vi phạm hành chính theo Nghị định 168/2024/NĐ-CP, văn bản quy định xử phạt trong lĩnh vực trật tự, an toàn giao thông đường bộ. Bài này không nêu mức phạt bằng con số, vì mức xử lý phụ thuộc loại xe, có thể được sửa đổi và cần đọc từ văn bản đang hiệu lực.
 
-Ngoài tiền phạt là phiền phức thực tế: bạn không được tự lái tiếp chiếc xe đó và mất thời gian làm việc với lực lượng chức năng, có khi giữa đường xa nơi ở. Các bước khi bị giữ giấy tờ có trong bài [bị tạm giữ giấy phép lái xe máy: xử lý thế nào](/an-toan-phap-ly/2026/09/30/bi-tam-giu-giay-phep-lai-xe-may-xu-ly-the-nao/); trường hợp hoàn toàn không có bằng được phân tích ở bài [đi xe máy không bằng lái bị xử lý thế nào](/an-toan-phap-ly/2026/09/28/i-xe-may-khong-bang-lai-bi-xu-ly-the-nao/).
+Ngoài tiền phạt là phiền phức thực tế: bạn không được tự lái tiếp chiếc xe đó và mất thời gian làm việc với lực lượng chức năng, có khi giữa đường xa nơi ở. Các bước khi bị giữ giấy tờ có trong bài [bị tạm giữ giấy phép lái xe máy: xử lý thế nào](/an-toan-phap-ly/2026/09/30/bi-tam-giu-giay-phep-lai-xe-may-xu-ly-the-nao/); trường hợp hoàn toàn không có bằng được phân tích ở bài [đi xe máy không bằng lái bị xử lý thế nào](/an-toan-phap-ly/2026/09/28/di-xe-may-khong-bang-lai-bi-xu-ly-the-nao/).
 
 ## Vì sao rắc rối hơn khi có va chạm
 

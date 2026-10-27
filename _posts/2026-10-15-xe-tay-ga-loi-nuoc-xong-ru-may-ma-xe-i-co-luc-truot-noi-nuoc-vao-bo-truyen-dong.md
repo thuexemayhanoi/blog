@@ -74,7 +74,7 @@ Dàn nồi nằm ngay bên hông, nắp hộp có vẻ dễ tháo, nhưng với 
 - Không nhờ người qua đường hay tiệm lạ tháo xe khi chưa trao đổi với cửa hàng cho thuê.
 - Không cố kéo xe đi tiếp bằng cách rú ga lên dốc cầu cho bằng được.
 
-Tự can thiệp có thể làm sai lệch các chi tiết bên trong và khiến việc xác định nguyên nhân về sau phức tạp hơn. Nếu bạn muốn hiểu thêm về các kiểu hỏng khác của bộ truyền động, bài [xe ga nổ máy nhưng vặn ga không đi](/xe-may/2026/10/11/xe-ga-no-may-nhung-van-ga-khong-i-dau-hieu-hong-bo-truyen-ong/) mô tả chi tiết hơn.
+Tự can thiệp có thể làm sai lệch các chi tiết bên trong và khiến việc xác định nguyên nhân về sau phức tạp hơn. Nếu bạn muốn hiểu thêm về các kiểu hỏng khác của bộ truyền động, bài [xe ga nổ máy nhưng vặn ga không đi](/xe-may/2026/10/11/xe-ga-no-may-nhung-van-ga-khong-di-dau-hieu-hong-bo-truyen-dong/) mô tả chi tiết hơn.
 
 ## Tránh lội nước sâu ngay từ đầu
 
@@ -83,7 +83,7 @@ Cách tốt nhất để không phải gặp chuyện trượt nồi là tránh 
 - Nước ngập quá nửa bánh xe thì không lội, tìm đường vòng hoặc chờ nước rút.
 - Không đi sát ô tô và xe buýt khi qua chỗ ngập, sóng nước tạt vào hông xe rất mạnh.
 - Nếu buộc phải qua một đoạn ngắn, giữ ga đều và đi chậm, không dừng giữa chừng.
-- Khi mưa rất to, cân nhắc gửi xe ở chỗ cao ráo rồi chờ, như gợi ý trong bài [mưa lớn dễ ngập ở Hà Nội, gửi xe chỗ nào để tránh nước vào máy](/ky-nang/2026/10/11/mua-lon-de-ngap-o-ha-noi-gui-xe-cho-nao-e-tranh-nuoc-vao-may/).
+- Khi mưa rất to, cân nhắc gửi xe ở chỗ cao ráo rồi chờ, như gợi ý trong bài [mưa lớn dễ ngập ở Hà Nội, gửi xe chỗ nào để tránh nước vào máy](/ky-nang/2026/10/11/mua-lon-de-ngap-o-ha-noi-gui-xe-cho-nao-de-tranh-nuoc-vao-may/).
 
 ## Kết lại
 

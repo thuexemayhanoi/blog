@@ -60,7 +60,7 @@ Sau khi dựng chân chống giữa, nhiều người phân vân có nên để 
 - **Bãi rộng, có khoảng cách:** để gương ở vị trí bình thường, đỡ mất công chỉnh lại.
 - **Dặn người trông xe** nếu họ cần dắt xe bạn: gập ở chân gương, không vặn mặt kính.
 
-Về cách dặn để tay lái và gương khỏi bị xước khi xe xếp sát nhau, bạn có thể đọc thêm bài [xe xếp sát nhau trong bãi gửi](/ky-nang/2026/10/11/xe-xep-sat-nhau-trong-bai-gui-dan-gi-e-tay-lai-va-guong-khoi-xuoc/).
+Về cách dặn để tay lái và gương khỏi bị xước khi xe xếp sát nhau, bạn có thể đọc thêm bài [xe xếp sát nhau trong bãi gửi](/ky-nang/2026/10/11/xe-xep-sat-nhau-trong-bai-gui-dan-gi-de-tay-lai-va-guong-khoi-xuoc/).
 
 ## Gương xe ga bị lệch sau khi gửi: chỉnh lại trước khi lăn bánh
 

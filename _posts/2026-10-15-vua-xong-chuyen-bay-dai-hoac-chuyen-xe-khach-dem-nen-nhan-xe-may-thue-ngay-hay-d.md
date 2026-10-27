@@ -33,7 +33,7 @@ Hay gặp với khách đi xe khách đêm: xe vào bến khi phố còn vắng,
 
 ### Đến chiều muộn, sát giờ đóng cửa
 
-Nhận xe khi chỉ còn ít phút trước 21:00 vừa vội vừa thiếu ánh sáng để soi vết xước, lại phải chạy xe về chỗ ở trong đêm khi đang mệt. Bài [nhận xe máy thuê lúc cửa hàng sắp đóng cửa](/thue-xe/2026/10/05/nhan-xe-may-thue-luc-cua-hang-sap-ong-cua/) nói rõ rủi ro của khung này. Với người vừa đi đường dài, hẹn sáng hôm sau gần như luôn hợp lý hơn.
+Nhận xe khi chỉ còn ít phút trước 21:00 vừa vội vừa thiếu ánh sáng để soi vết xước, lại phải chạy xe về chỗ ở trong đêm khi đang mệt. Bài [nhận xe máy thuê lúc cửa hàng sắp đóng cửa](/thue-xe/2026/10/05/nhan-xe-may-thue-luc-cua-hang-sap-dong-cua/) nói rõ rủi ro của khung này. Với người vừa đi đường dài, hẹn sáng hôm sau gần như luôn hợp lý hơn.
 
 ### Đến sau 21:00
 
