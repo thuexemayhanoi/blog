@@ -7,7 +7,7 @@ description: "Không mũ bảo hiểm phạt bao nhiêu theo Nghị định 168/
 categories: [Hỏi đáp]
 lang: vi
 tags: [mu-bao-hiem, xu-phat, an-toan]
-permalink: /hoi-dap/2026/09/29/i-xe-khong-mu-bao-hiem-phat-bao-nhieu/
+permalink: /hoi-dap/2026/09/29/di-xe-khong-mu-bao-hiem-phat-bao-nhieu/
 parent_id: P-HOI-DAP
 child_id: C-HD-PHAP-LY
 article_id: BLG-00874

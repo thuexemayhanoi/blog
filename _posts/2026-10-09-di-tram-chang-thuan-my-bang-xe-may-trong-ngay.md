@@ -7,7 +7,7 @@ description: "Lộ trình Trầm chẳng Thuần Mỹ trong ngày bằng xe máy
 categories: [Kinh nghiệm]
 lang: vi
 tags: [Trầm chẳng Thuần Mỹ trong ngày, đi Ba Vì Trầm chẳng, thuê xe máy Hà Nội, đi chùa Hà Nội]
-permalink: /du-lich/2026/10/09/i-tram-chang-thuan-my-bang-xe-may-trong-ngay/
+permalink: /du-lich/2026/10/09/di-tram-chang-thuan-my-bang-xe-may-trong-ngay/
 parent_id: P-DU-LICH
 child_id: C-NGOAI-THANH
 article_id: BLG-01722

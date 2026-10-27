@@ -7,7 +7,7 @@ description: "Gọi đặt xe máy thuê gấp trước một tiếng có kịp 
 categories: [Kinh nghiệm]
 lang: vi
 tags: [gọi đặt xe máy thuê gấp, đặt xe máy cuối phút, nhận xe nhanh, đặt xe trước giờ]
-permalink: /thue-xe/2026/10/05/goi-at-xe-may-thue-truoc-mot-tieng-co-uoc-khong/
+permalink: /thue-xe/2026/10/05/goi-dat-xe-may-thue-truoc-mot-tieng-co-duoc-khong/
 parent_id: P-THUE-XE
 child_id: C-THUE-THU-TUC
 article_id: BLG-01465

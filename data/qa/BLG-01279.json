@@ -46,9 +46,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_posts/2026-10-04-chay-xe-doc-uong-vo-nguyen-giap-ven-song-hong-buoi-sang.md",
-  "content_sha256": "395f2116a62387cdada472c50d69febb36205afd3d617571fb0d6f507eaa72c8",
-  "matrix_row_sha256": "79b5597d2f8235c73974c66d0cb5925a7e9c54a061f0d62c0d190be5c5af2282",
+  "source_path": "_posts/2026-10-04-chay-xe-doc-duong-vo-nguyen-giap-ven-song-hong-buoi-sang.md",
+  "content_sha256": "fa2de888575e7569951f032440b031d12d1066eac43646aadf7649e8ced9056d",
+  "matrix_row_sha256": "59f1e127aad03611d414230327111023a6e28de26a2deb73915a745eca047479",
   "result": "PASS",
   "grade": "EXCELLENT",
   "published_at": "2026-10-04T08:55:48+00:00",
@@ -88,5 +88,46 @@
         "45342291848b7a3d6ef1e21126301e38ff111bbb"
       ]
     }
+  },
+  "revision": {
+    "schema": "revision/1",
+    "kind": "permalink-migration",
+    "purpose": "slug-d-migration",
+    "reason": "Sua slug bi mat chu U+0111 (d co gach ngang -> d) cua bai da xuat ban; URL cu thanh trang HTTP 200 + meta refresh 0s + canonical (GitHub Pages khong co HTTP 301 theo duong dan). Issue #77.",
+    "approval_ref": "chu-repo:chi-thi-2026-10-27-master-execution-finish-100-slug-migration-pricing/issue-77-nhom-B-C-R16-R17 (session_01D88QamSe7ksLm1ZpE5Y7fT)",
+    "batch_id": "migrate-20261027-c02a",
+    "revised_at": "2026-10-27T15:42:43+00:00",
+    "previous_evidence_sha256": "02d0f0073c2c5d99764c04a23442334a932e545033958333a73ebf83f9f2ed8d",
+    "previous_content_sha256": "395f2116a62387cdada472c50d69febb36205afd3d617571fb0d6f507eaa72c8",
+    "previous_matrix_row_sha256": "79b5597d2f8235c73974c66d0cb5925a7e9c54a061f0d62c0d190be5c5af2282",
+    "new_content_sha256": "fa2de888575e7569951f032440b031d12d1066eac43646aadf7649e8ced9056d",
+    "new_matrix_row_sha256": "59f1e127aad03611d414230327111023a6e28de26a2deb73915a745eca047479",
+    "old_url": "/cung-duong/2026/10/04/chay-xe-doc-uong-vo-nguyen-giap-ven-song-hong-buoi-sang/",
+    "new_url": "/cung-duong/2026/10/04/chay-xe-doc-duong-vo-nguyen-giap-ven-song-hong-buoi-sang/",
+    "old_slug": "chay-xe-doc-uong-vo-nguyen-giap-ven-song-hong-buoi-sang",
+    "new_slug": "chay-xe-doc-duong-vo-nguyen-giap-ven-song-hong-buoi-sang",
+    "old_output_path": "_posts/2026-10-04-chay-xe-doc-uong-vo-nguyen-giap-ven-song-hong-buoi-sang.md",
+    "new_output_path": "_posts/2026-10-04-chay-xe-doc-duong-vo-nguyen-giap-ven-song-hong-buoi-sang.md",
+    "matrix_url_drift_fixed": false,
+    "redirect": "HTTP 200 + meta refresh 0s + canonical (khong phai HTTP 301): redirects/slug-d/BLG-01279.html",
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/migrate-slug-urls.py",
+    "tool_commit": "4495318ce5595cb4b237525f465c61f77f1ae6a0",
+    "scorer_code_sha256": "e75668446d2abd25738e25f75c2790e0a2208bc96e1266103665b0366b729497",
+    "business_facts_sha256": "7725c6795ff9b6e9e2988f2d298f660e6d97ba11eee84f43473468c1ecd05b04",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "migrate_tool_sha256": "ddd2be356a2f313bf991d56eab56c101545909274cab45dcbb11e2039f5bcefd",
+    "slugkit_sha256": "3ca830e9d1fe26935aafc87750f95908dbe3b5cb9aa92d2779157ef4e6b1ec4d",
+    "baseline_sha256": "6a91c1c7e18ad2b6c0a85d309ae9939cc91c06e54106bf22f46280194222197c",
+    "note": "chi doi URL (slug thieu chu d -> dung); than bai va moi dong front matter khac giu nguyen tung byte; scored_at/published_at o cap tren giu moc lich su goc; cham diem doc lap luc revised_at"
   }
 }

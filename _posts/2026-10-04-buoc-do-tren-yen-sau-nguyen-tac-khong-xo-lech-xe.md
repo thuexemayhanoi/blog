@@ -7,7 +7,7 @@ description: "Buộc đồ trên yên sau xe máy an toàn: chọn điểm buộ
 categories: [Kinh nghiệm]
 lang: vi
 tags: [buộc đồ trên yên sau xe máy, chằng đồ sau yên xe, chở hàng trên xe máy, giữ thăng bằng khi chở đồ]
-permalink: /ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/
+permalink: /ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/
 parent_id: P-KY-NANG
 child_id: C-KY-NANG-CHO-DO
 article_id: BLG-01300
