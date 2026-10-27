@@ -181,6 +181,13 @@ class TestQualityGateWiring(unittest.TestCase):
                                       'reports/qa-audit/reattest/reattest-1.json'])[0], 'full')
         self.assertEqual(gs.classify(['data/qa/BLG-00486.json'])[0], 'content')
 
+    def test_gate_keeps_full_history(self):
+        """Verify của revise --domain-drift/reattest kiểm baseline ghim là tổ tiên của HEAD. Một lệnh
+        `git fetch --depth` trong gate biến clone đầy đủ thành shallow tại base PR => gate PR đỏ oan."""
+        y = open(WF, encoding='utf-8').read()
+        self.assertIn('fetch-depth: 0', y)
+        self.assertNotRegex(y, r'git fetch[^\n]*--depth', 'fetch --depth cắt lịch sử của checkout đầy đủ')
+
     def test_gate_scope_script_is_pure_selector(self):
         """gate-scope.py KHÔNG mutate state — chỉ in JSON ra stdout."""
         s = open(GATE, encoding='utf-8').read()
