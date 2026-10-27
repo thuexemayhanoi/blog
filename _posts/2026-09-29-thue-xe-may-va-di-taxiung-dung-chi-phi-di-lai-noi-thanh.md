@@ -7,7 +7,7 @@ description: "So sánh thuê xe máy hay taxi rẻ hơn ở Hà Nội: cách m�
 categories: [Thuê xe]
 lang: vi
 tags: [thue-xe-may, taxi, so-sanh]
-permalink: /xe-may/2026/09/29/thue-xe-may-va-i-taxiung-dung-chi-phi-i-lai-noi-thanh/
+permalink: /xe-may/2026/09/29/thue-xe-may-va-di-taxiung-dung-chi-phi-di-lai-noi-thanh/
 parent_id: P-XE-MAY
 child_id: C-XE-SO-SANH
 article_id: BLG-00937

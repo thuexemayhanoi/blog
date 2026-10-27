@@ -7,7 +7,7 @@ description: "Cách đọc báo giá thuê xe máy đúng chuẩn: phân biệt 
 categories: [Kinh nghiệm]
 lang: vi
 tags: [cách đọc báo giá thuê xe máy, báo giá thuê xe máy, giá niêm yết và giá thật]
-permalink: /thue-xe/2026/09/27/cach-oc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that/
+permalink: /thue-xe/2026/09/27/cach-doc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that/
 parent_id: P-THUE-XE
 child_id: C-THUE-GIA
 article_id: BLG-00498

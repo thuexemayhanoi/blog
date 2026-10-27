@@ -7,7 +7,7 @@ description: "Giá thuê xe máy dịp lễ có thể thay đổi theo nhu cầu
 categories: [Kinh nghiệm]
 lang: vi
 tags: [giá thuê xe máy dịp lễ, thuê xe tết, mùa cao điểm giá thuê]
-permalink: /thue-xe/2026/09/27/gia-thue-xe-may-dip-le-tet-co-thay-oi-khong/
+permalink: /thue-xe/2026/09/27/gia-thue-xe-may-dip-le-tet-co-thay-doi-khong/
 parent_id: P-THUE-XE
 child_id: C-THUE-GIA
 article_id: BLG-00495

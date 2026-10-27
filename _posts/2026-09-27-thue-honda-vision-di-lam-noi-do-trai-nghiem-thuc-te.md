@@ -7,7 +7,7 @@ description: "Trải nghiệm thuê Honda Vision đi làm nội đô Hà Nội: 
 categories: [Kinh nghiệm]
 lang: vi
 tags: [trải nghiệm thuê honda vision, vision đi làm nội đô, thuê vision có tốt không, thuê xe ga hà nội]
-permalink: /xe-may/2026/09/27/thue-honda-vision-i-lam-noi-o-trai-nghiem-thuc-te/
+permalink: /xe-may/2026/09/27/thue-honda-vision-di-lam-noi-do-trai-nghiem-thuc-te/
 parent_id: P-XE-MAY
 child_id: C-HONDA-VISION
 article_id: BLG-00595

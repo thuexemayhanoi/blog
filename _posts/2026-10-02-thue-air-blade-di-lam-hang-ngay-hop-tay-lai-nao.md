@@ -9,7 +9,7 @@ lang: vi
 tags: ["thuê air blade đi làm", "air blade đi làm hằng ngày", "air blade chạy phố"]
 parent_id: P-XE-MAY
 child_id: C-HONDA-AIR-BLADE
-permalink: /xe-may/2026/10/02/thue-air-blade-i-lam-hang-ngay-hop-tay-lai-nao/
+permalink: /xe-may/2026/10/02/thue-air-blade-di-lam-hang-ngay-hop-tay-lai-nao/
 article_id: BLG-01096
 writer: W2
 ---

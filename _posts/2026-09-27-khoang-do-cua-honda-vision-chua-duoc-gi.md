@@ -7,7 +7,7 @@ description: "Khoang đồ honda vision đủ cho mũ bảo hiểm, áo mưa và
 categories: [Kinh nghiệm]
 lang: vi
 tags: [khoang đồ honda vision, vision chở đồ, thuê honda vision, xe ga chở đồ]
-permalink: /xe-may/2026/09/27/khoang-o-cua-honda-vision-chua-uoc-gi/
+permalink: /xe-may/2026/09/27/khoang-do-cua-honda-vision-chua-duoc-gi/
 parent_id: P-XE-MAY
 child_id: C-HONDA-VISION
 article_id: BLG-00594
