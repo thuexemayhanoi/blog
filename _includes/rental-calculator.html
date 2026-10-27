@@ -62,10 +62,16 @@
             <span class="result-value" id="estimated-price">Chọn xe và ngày</span>
           </div>
           <div class="result-breakdown" id="price-breakdown"></div>
+          <p class="result-note" id="price-note" hidden></p>
+          {%- comment -%} Tiền đặt cọc: khoản riêng, hoàn trả theo hợp đồng — KHÔNG cộng vào giá thuê ước tính ở trên. {%- endcomment %}
+          <div class="result-item result-item--deposit">
+            <span class="result-label">Tiền đặt cọc (khoản riêng):</span>
+            <span class="result-value" id="estimated-deposit">Chọn xe</span>
+          </div>
         </div>
         
         <div class="calculator-disclaimer">
-          <p>Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.</p>
+          <p>Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe. {{ pricing.deposit_policy.separate | escape }} {{ pricing.deposit_policy.refund | escape }}</p>
         </div>
         
         <!-- CTA Buttons -->

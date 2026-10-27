@@ -1152,6 +1152,26 @@
   color: var(--color-text-secondary);
 }
 
+/* Tiền đặt cọc hiển thị tách khỏi giá thuê ước tính (không cộng vào tổng). */
+.result-item--deposit {
+  gap: var(--spacing-sm);
+  margin-top: var(--spacing-sm);
+  padding-top: var(--spacing-sm);
+  border-top: 1px dashed rgba(0, 102, 204, 0.3);
+}
+
+.result-item--deposit .result-value {
+  font-size: var(--font-size-md);
+  color: var(--color-text);
+  text-align: right;
+}
+
+.result-note {
+  margin: var(--spacing-sm) 0 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-text-secondary);
+}
+
 .calculator-disclaimer {
   font-size: var(--font-size-xs);
   color: var(--color-text-muted);

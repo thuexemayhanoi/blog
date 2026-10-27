@@ -3,20 +3,24 @@
   Gọi: {% include pricing-rate-table.html category="Xe số" title="Bảng giá xe số" %}
   Không dùng .pricing-card (class đó dành riêng cho link preview trang chủ).
   Giữ nguyên giá, URL, schema, nội dung nguồn và trạng thái liên hệ.
+  Giá null: in nhãn `quote` của kỳ hạn đó (vd. "Báo giá riêng") hoặc `unknown_label` chung — không bao giờ đoán số.
+  Tiền đặt cọc là cột RIÊNG (khoản hoàn trả theo hợp đồng), không cộng vào giá thuê.
 {%- endcomment -%}
 {%- assign pricing_rows = site.data.pricing.vehicles | where: "category", include.category -%}
+{%- assign pricing_unknown = site.data.pricing.unknown_label | default: "Liên hệ để xác nhận" -%}
 {%- if pricing_rows.size > 0 %}
 <div class="rental-rate-matrix" aria-label="{{ include.title | default: include.category | escape }}">
   <p class="rental-rate-matrix__hint">Bảng giá tham khảo (VND). Trên điện thoại, đọc từng dòng giá ngay bên dưới tên xe.</p>
   <div class="rental-rate-matrix__scroll" tabindex="0" role="region" aria-label="{{ include.title | default: include.category | escape }}">
     <table class="rental-rate-matrix__table">
-      <caption class="sr-only">{{ include.title | default: include.category | escape }} theo ngày, tuần và tháng</caption>
+      <caption class="sr-only">{{ include.title | default: include.category | escape }} theo ngày, tuần, tháng và tiền đặt cọc</caption>
       <thead>
         <tr>
           <th scope="col">Dòng xe</th>
           <th scope="col">Theo ngày</th>
           <th scope="col">Theo tuần</th>
           <th scope="col">Theo tháng</th>
+          <th scope="col">Tiền đặt cọc</th>
         </tr>
       </thead>
       <tbody>
@@ -29,19 +33,25 @@
           <td data-label="Theo ngày">
             <span class="rental-rate-matrix__cell">
               <span class="sr-only">Theo ngày: </span>
-              {% if vehicle.rates.day.min != nil %}{% include vnd-range.html min=vehicle.rates.day.min max=vehicle.rates.day.max %}{% else %}<span class="rental-rate-matrix__unknown">Liên hệ báo giá</span>{% endif %}
+              {% if vehicle.rates.day.min != nil %}{% include vnd-range.html min=vehicle.rates.day.min max=vehicle.rates.day.max %}{% else %}<span class="rental-rate-matrix__unknown">{{ vehicle.rates.day.quote | default: pricing_unknown | escape }}</span>{% endif %}
             </span>
           </td>
           <td data-label="Theo tuần">
             <span class="rental-rate-matrix__cell">
               <span class="sr-only">Theo tuần: </span>
-              {% if vehicle.rates.week.min != nil %}{% include vnd-range.html min=vehicle.rates.week.min max=vehicle.rates.week.max %}{% else %}<span class="rental-rate-matrix__unknown">Liên hệ báo giá</span>{% endif %}
+              {% if vehicle.rates.week.min != nil %}{% include vnd-range.html min=vehicle.rates.week.min max=vehicle.rates.week.max %}{% else %}<span class="rental-rate-matrix__unknown">{{ vehicle.rates.week.quote | default: pricing_unknown | escape }}</span>{% endif %}
             </span>
           </td>
           <td data-label="Theo tháng">
             <span class="rental-rate-matrix__cell">
               <span class="sr-only">Theo tháng: </span>
-              {% if vehicle.rates.month.min != nil %}{% include vnd-range.html min=vehicle.rates.month.min max=vehicle.rates.month.max %}{% else %}<span class="rental-rate-matrix__unknown">Liên hệ báo giá</span>{% endif %}
+              {% if vehicle.rates.month.min != nil %}{% include vnd-range.html min=vehicle.rates.month.min max=vehicle.rates.month.max %}{% else %}<span class="rental-rate-matrix__unknown">{{ vehicle.rates.month.quote | default: pricing_unknown | escape }}</span>{% endif %}
+            </span>
+          </td>
+          <td data-label="Tiền đặt cọc">
+            <span class="rental-rate-matrix__cell">
+              <span class="sr-only">Tiền đặt cọc: </span>
+              {% if vehicle.deposit.min != nil %}{% include vnd-range.html min=vehicle.deposit.min max=vehicle.deposit.max %}{% else %}<span class="rental-rate-matrix__unknown">{{ vehicle.deposit_note | default: pricing_unknown | escape }}</span>{% endif %}
             </span>
           </td>
         </tr>
@@ -65,20 +75,24 @@
       <dl class="rental-rate-matrix__mobile-rates">
         <div class="rental-rate-matrix__mobile-row">
           <dt>Giá theo ngày</dt>
-          <dd>{% if vehicle.rates.day.min != nil %}{% include vnd-range.html min=vehicle.rates.day.min max=vehicle.rates.day.max %}{% else %}Liên hệ báo giá{% endif %}</dd>
+          <dd>{% if vehicle.rates.day.min != nil %}{% include vnd-range.html min=vehicle.rates.day.min max=vehicle.rates.day.max %}{% else %}{{ vehicle.rates.day.quote | default: pricing_unknown | escape }}{% endif %}</dd>
         </div>
         <div class="rental-rate-matrix__mobile-row">
           <dt>Giá theo tuần</dt>
-          <dd>{% if vehicle.rates.week.min != nil %}{% include vnd-range.html min=vehicle.rates.week.min max=vehicle.rates.week.max %}{% else %}Liên hệ báo giá{% endif %}</dd>
+          <dd>{% if vehicle.rates.week.min != nil %}{% include vnd-range.html min=vehicle.rates.week.min max=vehicle.rates.week.max %}{% else %}{{ vehicle.rates.week.quote | default: pricing_unknown | escape }}{% endif %}</dd>
         </div>
         <div class="rental-rate-matrix__mobile-row">
           <dt>Giá theo tháng</dt>
-          <dd>{% if vehicle.rates.month.min != nil %}{% include vnd-range.html min=vehicle.rates.month.min max=vehicle.rates.month.max %}{% else %}Liên hệ báo giá{% endif %}</dd>
+          <dd>{% if vehicle.rates.month.min != nil %}{% include vnd-range.html min=vehicle.rates.month.min max=vehicle.rates.month.max %}{% else %}{{ vehicle.rates.month.quote | default: pricing_unknown | escape }}{% endif %}</dd>
+        </div>
+        <div class="rental-rate-matrix__mobile-row">
+          <dt>Tiền đặt cọc</dt>
+          <dd>{% if vehicle.deposit.min != nil %}{% include vnd-range.html min=vehicle.deposit.min max=vehicle.deposit.max %}{% else %}{{ vehicle.deposit_note | default: pricing_unknown | escape }}{% endif %}</dd>
         </div>
       </dl>
     </li>
     {% endfor %}
   </ul>
-  <p class="rental-rate-matrix__deposit">Tiền đặt cọc tham khảo: 2.000.000 – 5.000.000 VND tùy xe; vui lòng xác nhận trước khi thuê.</p>
+  <p class="rental-rate-matrix__deposit">{{ site.data.pricing.deposit_policy.separate | escape }} {{ site.data.pricing.deposit_policy.refund | escape }} Giá thuê, mức cọc và tình trạng xe cần được xác nhận trước khi ký hợp đồng.</p>
 </div>
 {%- endif -%}

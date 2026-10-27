@@ -38,7 +38,7 @@ vehicle_types:
     image: "/assets/images/services/xe-tay-ga-honda-vision.jpeg"
     image_alt: "Honda Vision - xe tay ga"
   - name: "Xe 50cc"
-    description: "Xe 50cc nhẹ, dễ điều khiển, phù hợp quãng đường ngắn trong nội thành. Giá thuê liên hệ trực tiếp."
+    description: "Xe 50cc nhẹ, dễ điều khiển, phù hợp quãng đường ngắn trong nội thành. Xe tay ga 50cc: 200.000đ/ngày, giá tuần và tháng báo giá riêng."
     image: "/assets/images/services/xe-50cc.jpeg"
     image_alt: "Xe 50cc"
   - name: "Xe máy điện"

@@ -13,13 +13,21 @@
     "vehicle_types": ["Xe số", "Xe tay ga", "Xe 50cc", "Xe máy điện", "Xe đạp điện"]
   },
   "approved_pricing": {
-    "Honda Wave": {"day": 150000, "week": 700000, "month": "900000 - 1200000", "deposit": "Xác nhận trực tiếp"},
-    "Honda Vision": {"day": 200000, "week": 1000000, "month": "1800000 - 2000000", "deposit": "Xác nhận trực tiếp"},
-    "Honda Air Blade": {"day": 200000, "week": 1000000, "month": 1500000, "deposit": "Xác nhận trực tiếp"},
-    "Honda Click / Yamaha Mio": {"day": 150000, "week": 700000, "month": "900000 - 1200000", "deposit": "Xác nhận trực tiếp"},
-    "Xe tay ga 50cc": {"day": 200000, "week": null, "month": null, "note": "Giá tuần và tháng: báo giá riêng", "deposit": "Xác nhận trực tiếp"},
-    "Xe máy điện": {"day": null, "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"},
-    "Xe đạp điện": {"day": null, "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"}
+    "Honda Wave": {"day": 150000, "week": 700000, "month": "900000 - 1200000", "deposit": "2000000 - 3000000"},
+    "Honda Vision": {"day": 200000, "week": 1000000, "month": "1800000 - 2000000", "deposit": "4000000 - 5000000"},
+    "Honda Air Blade": {"day": 200000, "week": 1000000, "month": 1500000, "deposit": 3000000},
+    "Honda Click / Yamaha Mio": {"day": 150000, "week": 700000, "month": "900000 - 1200000", "deposit": 2000000},
+    "Xe tay ga 50cc": {"day": 200000, "week": null, "month": null, "note": "Giá tuần và tháng: báo giá riêng", "deposit": 4000000},
+    "Xe máy điện": {"day": null, "week": null, "month": null, "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại", "deposit": "Xác nhận theo mẫu xe"},
+    "Xe đạp điện": {"day": null, "week": null, "month": null, "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại", "deposit": "Xác nhận theo mẫu xe"}
+  },
+  "deposit_policy": {
+    "range": "2000000 - 5000000",
+    "statement": "Tiền đặt cọc xe máy từ 2.000.000đ đến 5.000.000đ, tùy từng loại xe; mức cọc cụ thể phụ thuộc dòng xe được thuê.",
+    "refund": "Tiền cọc được hoàn trả theo điều khoản hợp đồng sau khi khách bàn giao xe và hoàn thành các nghĩa vụ liên quan.",
+    "confirmation": "Tiền cọc, giá thuê, thời hạn thuê, tình trạng xe và chi phí giao nhận phải được xác nhận rõ ràng trước khi ký hợp đồng.",
+    "separate_from_rental": "Tiền đặt cọc là khoản riêng, không cộng vào giá thuê.",
+    "no_deposit_claims": "Không quảng cáo mặc định là cho thuê xe không cần đặt cọc."
   },
   "delivery": {
     "statement": "Không giao xe máy ngoài giờ hoạt động. Thời gian và chi phí giao nhận cần được xác nhận trước khi đặt xe.",
@@ -36,7 +44,7 @@
     "đánh giá khách hàng bịa"
   ],
   "content_rules": [
-    "Chỉ dùng số liệu trong file này. Giá điện/vấn đề cọc: 'liên hệ để xác nhận'.",
+    "Chỉ dùng số liệu trong file này. Giá xe điện chưa công bố: 'liên hệ để xác nhận'. Tiền cọc: chỉ dùng mức đã duyệt theo từng dòng xe (approved_pricing.*.deposit, khoảng chung deposit_policy); xe máy điện/xe đạp điện: xác nhận theo mẫu xe.",
     "Không đổi công thức máy tính giá thuê (rental-calculator dùng _data/pricing.yml).",
     "Không bịa con số nào ngoài các giá đã duyệt ở trên."
   ]

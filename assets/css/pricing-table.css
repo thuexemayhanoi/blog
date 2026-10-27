@@ -36,7 +36,7 @@
 
 .rental-rate-matrix__table {
   width: 100%;
-  min-width: 680px;
+  min-width: 780px;
   margin: 0;
   border-spacing: 0;
   border-collapse: separate;
@@ -75,11 +75,11 @@
 }
 
 .rental-rate-matrix__table th:first-child {
-  width: 30%;
+  width: 24%;
 }
 
 .rental-rate-matrix__table th:not(:first-child) {
-  width: 23.333%;
+  width: 19%;
 }
 
 .rental-rate-matrix__table tbody tr:nth-child(even) {
@@ -218,10 +218,10 @@
   }
 }
 
-/* Tablet: preserve 4 visible columns, scroll only inside table if needed. */
+/* Tablet: preserve 5 visible columns (4 kỳ giá/cọc + dòng xe), scroll only inside table if needed. */
 @media (min-width: 768px) and (max-width: 1199px) {
   .rental-rate-matrix__table {
-    min-width: 670px;
+    min-width: 760px;
   }
 
   .rental-rate-matrix__table th,
@@ -257,7 +257,7 @@
     max-width: 100%;
   }
 
-  /* Do not render the original 4-column table in a mobile layout at all. */
+  /* Do not render the original 5-column table in a mobile layout at all. */
   .rental-rate-matrix > .rental-rate-matrix__scroll {
     display: none !important;
   }
