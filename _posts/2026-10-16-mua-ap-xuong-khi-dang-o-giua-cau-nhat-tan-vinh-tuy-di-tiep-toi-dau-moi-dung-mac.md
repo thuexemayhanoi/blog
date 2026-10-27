@@ -50,7 +50,7 @@ Xe tải ở làn bên vừa tạo luồng gió vừa hắt nước, xem cách c
 
 ### Những chỗ trơn nhất trên mặt cầu
 
-Vạch sơn, chữ sơn trên mặt đường và khe co giãn, tức các dải thép chạy ngang mặt cầu, trơn hơn hẳn mặt nhựa khi ướt. Qua đó giữ xe thẳng, không phanh, không đổi hướng. Bài [đi xe máy trên vạch sơn đường ướt](/ky-nang/2026/10/11/i-xe-may-tren-vach-son-uong-uot-tranh-truot-banh/) giải thích kỹ hơn.
+Vạch sơn, chữ sơn trên mặt đường và khe co giãn, tức các dải thép chạy ngang mặt cầu, trơn hơn hẳn mặt nhựa khi ướt. Qua đó giữ xe thẳng, không phanh, không đổi hướng. Bài [đi xe máy trên vạch sơn đường ướt](/ky-nang/2026/10/11/di-xe-may-tren-vach-son-duong-uot-tranh-truot-banh/) giải thích kỹ hơn.
 
 ### Cầu Vĩnh Tuy và cầu Chương Dương
 

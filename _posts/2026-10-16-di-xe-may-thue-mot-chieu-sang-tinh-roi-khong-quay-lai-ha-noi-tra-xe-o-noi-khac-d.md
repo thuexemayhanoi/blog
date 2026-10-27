@@ -64,7 +64,7 @@ Một số khách hỏi gửi xe máy theo xe khách hoặc theo tàu về Hà N
 
 **Đi Ninh Bình rồi xuôi vào miền Trung.** Một cặp khách định chạy xe xuống Ninh Bình, chơi hai ngày rồi bắt tàu đêm vào Huế. Phương án hợp lý là thuê xe ở Long Biên, chạy Ninh Bình rồi quay về Hà Nội trả xe trước 21:00, sau đó ra ga Hà Nội lên tàu. Hoặc đi tàu xuống Ninh Bình trước, thuê xe tại đó, xong lên chuyến tàu đi tiếp.
 
-**Về quê dự đám cưới rồi đi làm ở thành phố khác.** Người thuê xe về quê ở tỉnh, xong việc lại không về Hà Nội nữa. Nếu đã chắc không quay lại, đừng thuê xe ở Hà Nội để chạy về quê. Bài [thuê xe máy về quê đám cưới tính ngày thế nào](/hoi-dap/2026/10/07/thue-xe-may-ve-que-am-cuoi-tinh-ngay-the-nao/) giúp bạn tính trước số ngày nếu vẫn chọn chạy xe thuê.
+**Về quê dự đám cưới rồi đi làm ở thành phố khác.** Người thuê xe về quê ở tỉnh, xong việc lại không về Hà Nội nữa. Nếu đã chắc không quay lại, đừng thuê xe ở Hà Nội để chạy về quê. Bài [thuê xe máy về quê đám cưới tính ngày thế nào](/hoi-dap/2026/10/07/thue-xe-may-ve-que-dam-cuoi-tinh-ngay-the-nao/) giúp bạn tính trước số ngày nếu vẫn chọn chạy xe thuê.
 
 ## Trước khi nhận xe đi tỉnh
 

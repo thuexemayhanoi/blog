@@ -91,7 +91,7 @@ Nếu xe thuê ở tiệm chúng tôi tại 112 Nguyễn Văn Cừ, Bồ Đề, 
 
 ## Chuẩn bị trước cả khi chưa ai phải về
 
-Nếu ngay từ đầu biết nhóm có người có thể về sớm, hãy hỏi luôn khi đặt xe. Bài [chia nhau thuê một xe máy: ai đứng tên](/hoi-dap/2026/10/11/chia-nhau-thue-mot-xe-may-voi-ban-moi-quen-o-hostel-ai-dung-ten/) gợi ý cách chọn người đứng tên cho hợp, còn bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/) giúp bạn biết nên đọc kỹ mục nào trước khi ký. Người ở lâu hơn đứng tên ngay từ đầu thường là cách đỡ rắc rối nhất.
+Nếu ngay từ đầu biết nhóm có người có thể về sớm, hãy hỏi luôn khi đặt xe. Bài [chia nhau thuê một xe máy: ai đứng tên](/hoi-dap/2026/10/11/chia-nhau-thue-mot-xe-may-voi-ban-moi-quen-o-hostel-ai-dung-ten/) gợi ý cách chọn người đứng tên cho hợp, còn bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/) giúp bạn biết nên đọc kỹ mục nào trước khi ký. Người ở lâu hơn đứng tên ngay từ đầu thường là cách đỡ rắc rối nhất.
 
 ## Tóm lại
 

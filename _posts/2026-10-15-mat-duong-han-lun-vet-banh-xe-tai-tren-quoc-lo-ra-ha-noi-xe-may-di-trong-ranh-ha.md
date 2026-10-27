@@ -47,7 +47,7 @@ Khi đã nằm trong rãnh, hãy:
 
 ### Khi lòng rãnh không còn là chỗ an toàn
 
-Có lúc đáy rãnh lại chính là nơi xấu nhất: nước mưa đọng che mất ổ gà, đá dăm từ thùng xe ben rơi tụ thành vệt, hoặc mặt rãnh bị vá chằng chịt. Gặp vậy, giảm tốc từ xa, chọn đoạn rãnh khác phẳng hơn trong làn và chuyển sang một lần dứt khoát theo cách ở phần dưới, thay vì cố lượn trên gờ. Cách xử lý khi gặp ổ gà bất ngờ được nói riêng trong bài [gặp ổ gà khi đang chạy nhanh](/ky-nang/2026/10/07/gap-o-ga-khi-ang-chay-nhanh-xu-ly-the-nao/).
+Có lúc đáy rãnh lại chính là nơi xấu nhất: nước mưa đọng che mất ổ gà, đá dăm từ thùng xe ben rơi tụ thành vệt, hoặc mặt rãnh bị vá chằng chịt. Gặp vậy, giảm tốc từ xa, chọn đoạn rãnh khác phẳng hơn trong làn và chuyển sang một lần dứt khoát theo cách ở phần dưới, thay vì cố lượn trên gờ. Cách xử lý khi gặp ổ gà bất ngờ được nói riêng trong bài [gặp ổ gà khi đang chạy nhanh](/ky-nang/2026/10/07/gap-o-ga-khi-dang-chay-nhanh-xu-ly-the-nao/).
 
 ## Cắt ngang gờ lún quốc lộ khi đổi làn: góc lớn, dứt khoát
 
@@ -67,7 +67,7 @@ Kỹ thuật này giống cách xe máy cắt qua đường ray tàu, nơi góc 
 
 Quy tắc quan trọng nhất về phanh là không phanh gấp khi bánh đang ở trên mép gờ. Lúc đó lốp chỉ tì một phần lên sườn nghiêng, chỉ cần phanh mạnh là bánh trượt ngang. Hãy phanh khi xe đã thẳng trong lòng rãnh, bóp đều cả phanh trước lẫn phanh sau, tăng lực từ từ.
 
-Giữ khoảng cách rộng với xe tải phía trước để thấy được mặt đường trước bánh mình, không chạy sát đuôi xe lớn rồi mới phát hiện vệt lún hay ổ gà. Bài [gặp xe container trên đường hẹp](/ky-nang/2026/10/10/gap-xe-container-tren-uong-hep-giu-khoang-cach/) có thêm cách giữ khoảng cách và nhường đường với xe lớn.
+Giữ khoảng cách rộng với xe tải phía trước để thấy được mặt đường trước bánh mình, không chạy sát đuôi xe lớn rồi mới phát hiện vệt lún hay ổ gà. Bài [gặp xe container trên đường hẹp](/ky-nang/2026/10/10/gap-xe-container-tren-duong-hep-giu-khoang-cach/) có thêm cách giữ khoảng cách và nhường đường với xe lớn.
 
 Trời mưa, nước đọng trong rãnh che mất đáy và làm mặt nhựa trơn hơn, nên giảm tốc rõ rệt so với ngày khô. Ban đêm, đèn pha xe ngược chiều làm vệt lún gần như vô hình, hãy chạy chậm hơn và bám theo lòng rãnh quen thay vì lượn tìm chỗ phẳng.
 

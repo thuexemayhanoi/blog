@@ -82,7 +82,7 @@ Nếu bạn thuê qua lễ tân khách sạn hay người giới thiệu, con s�
 
 > Chào anh chị, em muốn thuê một xe Honda Click, nhận lúc mười giờ sáng thứ Sáu tại cửa hàng ở Nguyễn Văn Cừ, trả tối Chủ nhật. Em đã xem bảng giá trên trang. Anh chị báo giúp em giá áp dụng cho lịch này, giá đã gồm mũ và xăng chưa, và em cần mang giấy tờ gì ạ.
 
-Tin như vậy giúp cửa hàng trả lời một lần và bạn có đoạn chat gọn để lưu. Nếu bạn quen đặt trước từ xa, xem thêm cách [đặt xe máy trước qua điện thoại hoặc Zalo](/thue-xe/2026/09/27/at-xe-may-truoc-qua-ien-thoai-hoac-zalo/).
+Tin như vậy giúp cửa hàng trả lời một lần và bạn có đoạn chat gọn để lưu. Nếu bạn quen đặt trước từ xa, xem thêm cách [đặt xe máy trước qua điện thoại hoặc Zalo](/thue-xe/2026/09/27/dat-xe-may-truoc-qua-dien-thoai-hoac-zalo/).
 
 ## Kết luận
 

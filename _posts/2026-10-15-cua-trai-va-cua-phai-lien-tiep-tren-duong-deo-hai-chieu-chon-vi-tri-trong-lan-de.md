@@ -64,9 +64,9 @@ Mắt dẫn xe đi. Ở mỗi khúc cua, nhìn về điểm xa nhất mà bạn 
 
 ## Không vượt trong cua, không lấn làn khi ôm cua
 
-Trên đoạn cua liên tiếp, gần như không có chỗ vượt an toàn. Phía trước là xe chậm thì chấp nhận đi sau, giữ khoảng cách đủ để nhìn qua hông xe đó. Chỉ vượt ở đoạn thẳng, nhìn thấy rõ phía trước không có xe ngược chiều, vạch giữa đường cho phép, và hoàn tất trước khi vào cua kế tiếp. Nguyên tắc chung được nói trong bài [kỹ thuật vượt xe an toàn trên đường](/ky-nang/2026/10/01/ky-thuat-vuot-xe-an-toan-tren-uong/).
+Trên đoạn cua liên tiếp, gần như không có chỗ vượt an toàn. Phía trước là xe chậm thì chấp nhận đi sau, giữ khoảng cách đủ để nhìn qua hông xe đó. Chỉ vượt ở đoạn thẳng, nhìn thấy rõ phía trước không có xe ngược chiều, vạch giữa đường cho phép, và hoàn tất trước khi vào cua kế tiếp. Nguyên tắc chung được nói trong bài [kỹ thuật vượt xe an toàn trên đường](/ky-nang/2026/10/01/ky-thuat-vuot-xe-an-toan-tren-duong/).
 
-Đi sau xe tải đang ôm cua cũng cần thận trọng. Thùng xe che khuất tầm nhìn và có điểm mù lớn, đừng chen vào khoảng trống phía trong cua của nó. Bài [đi xe máy cạnh xe tải đang ôm cua](/ky-nang/2026/10/11/i-xe-may-canh-xe-tai-ang-om-cua-nhan-dien-vung-khuat/) phân tích kỹ vùng khuất này.
+Đi sau xe tải đang ôm cua cũng cần thận trọng. Thùng xe che khuất tầm nhìn và có điểm mù lớn, đừng chen vào khoảng trống phía trong cua của nó. Bài [đi xe máy cạnh xe tải đang ôm cua](/ky-nang/2026/10/11/di-xe-may-canh-xe-tai-dang-om-cua-nhan-dien-vung-khuat/) phân tích kỹ vùng khuất này.
 
 ## Khi xuống đèo: cùng vị trí, nhưng tốc độ phải chậm hơn
 

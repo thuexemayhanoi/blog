@@ -79,7 +79,7 @@ Tốt nhất là đừng để bánh trước phải chịu một cú phanh gấ
 - **Không ôm cua và phanh cùng lúc trên cát.** Vào cua đã giảm tốc xong, giữ xe thẳng nhất có thể.
 - **Giữ khoảng cách rộng với xe tải.** Xe chở vật liệu có thể rơi cát, đá dăm bất cứ lúc nào, và bạn cần chỗ để phanh nhẹ.
 
-Những nguyên tắc tương tự cũng hữu ích trên các bề mặt trơn khác, như trình bày trong bài [đi xe máy trên vạch sơn đường ướt](/ky-nang/2026/10/11/i-xe-may-tren-vach-son-uong-uot-tranh-truot-banh/).
+Những nguyên tắc tương tự cũng hữu ích trên các bề mặt trơn khác, như trình bày trong bài [đi xe máy trên vạch sơn đường ướt](/ky-nang/2026/10/11/di-xe-may-tren-vach-son-duong-uot-tranh-truot-banh/).
 
 ## Nếu xe vẫn đổ
 

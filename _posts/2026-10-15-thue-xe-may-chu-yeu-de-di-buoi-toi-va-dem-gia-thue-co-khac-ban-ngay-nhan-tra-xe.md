@@ -69,7 +69,7 @@ Nhận xe lúc còn sáng giúp bạn nhìn rõ những thứ mà ban đêm khó
 - **Giảm tốc ở ngã tư và đoạn có quán ăn ven đường**, người và xe có thể băng ra bất ngờ.
 - **Không đi xe sau khi uống rượu bia.** Nếu đã lỡ uống, để xe lại nơi gửi an toàn và đi taxi về.
 
-Lần đầu chạy tối trong phố, xem thêm bài [đi xe máy buổi tối ở Hà Nội lần đầu](/thue-xe/2026/10/11/i-xe-may-buoi-toi-o-ha-noi-lan-au-nhung-ieu-kho-thay-khi-troi-toi/).
+Lần đầu chạy tối trong phố, xem thêm bài [đi xe máy buổi tối ở Hà Nội lần đầu](/thue-xe/2026/10/11/di-xe-may-buoi-toi-o-ha-noi-lan-dau-nhung-dieu-kho-thay-khi-troi-toi/).
 
 ## Gửi xe nơi có người trông
 

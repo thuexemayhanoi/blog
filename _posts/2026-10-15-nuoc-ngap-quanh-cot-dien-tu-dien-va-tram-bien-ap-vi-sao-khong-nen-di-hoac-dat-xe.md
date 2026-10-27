@@ -69,7 +69,7 @@ Cách an toàn nhất là không phải đứng trước lựa chọn đó. Đi�
 - **Ưu tiên phố lớn hơn ngõ nhỏ.** Ngõ hẹp có dây điện chằng chịt, tủ điện sát tường, không có chỗ để đi xa thiết bị.
 - **Chấp nhận đi chậm, đi vòng.** Muộn vài phút không đáng so với rủi ro điện giật.
 
-Khách thuê xe chưa quen phố đừng ngại chờ nước rút ở chỗ khô, cao, có mái che và không đứng gần cột điện. Kinh nghiệm chung khi lội nước có trong bài [đi xe máy qua đoạn đường ngập nước](/ky-nang/2026/10/10/i-xe-may-qua-oan-uong-ngap-nuoc/), còn các đoạn nên tránh sau mưa nằm trong bài [sau mưa lớn nên tránh đoạn nước đọng nào](/ky-nang/2026/10/09/sau-mua-lon-i-tranh-oan-nuoc-ong-nao/).
+Khách thuê xe chưa quen phố đừng ngại chờ nước rút ở chỗ khô, cao, có mái che và không đứng gần cột điện. Kinh nghiệm chung khi lội nước có trong bài [đi xe máy qua đoạn đường ngập nước](/ky-nang/2026/10/10/di-xe-may-qua-doan-duong-ngap-nuoc/), còn các đoạn nên tránh sau mưa nằm trong bài [sau mưa lớn nên tránh đoạn nước đọng nào](/ky-nang/2026/10/09/sau-mua-lon-di-tranh-doan-nuoc-dong-nao/).
 
 ## Những hiểu lầm hay gặp
 

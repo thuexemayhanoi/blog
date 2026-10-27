@@ -58,7 +58,7 @@ Bến đò, bãi tập kết cát và khu chân cầu thường có nền đất
 
 Ngập ngoài đê khác hẳn ngập phố sau mưa. Nước trong phố thường đứng yên và rút dần, còn nước tràn từ sông là nước chảy. Dòng chảy có thể đẩy bánh xe lệch hướng, và bạn không đoán được độ sâu hay mặt đường bên dưới đã bị xói lở đến đâu.
 
-Ngoài ra, nước sông đục nên không nhìn thấy ổ gà, mép đường hay vật trôi dưới mặt nước. Xe chết máy giữa dòng thì bạn vừa phải giữ xe vừa phải đứng trong nước chảy. Kỹ thuật đi qua đoạn ngập trong bài [đi xe máy qua đoạn đường ngập nước](/ky-nang/2026/10/10/i-xe-may-qua-oan-uong-ngap-nuoc/) dành cho chỗ ngập nông trong phố. Với nước sông tràn ra bãi, lựa chọn đúng duy nhất là quay đầu.
+Ngoài ra, nước sông đục nên không nhìn thấy ổ gà, mép đường hay vật trôi dưới mặt nước. Xe chết máy giữa dòng thì bạn vừa phải giữ xe vừa phải đứng trong nước chảy. Kỹ thuật đi qua đoạn ngập trong bài [đi xe máy qua đoạn đường ngập nước](/ky-nang/2026/10/10/di-xe-may-qua-doan-duong-ngap-nuoc/) dành cho chỗ ngập nông trong phố. Với nước sông tràn ra bãi, lựa chọn đúng duy nhất là quay đầu.
 
 ## Chọn lộ trình trong đê: vài ví dụ thực tế
 
@@ -83,7 +83,7 @@ Có người nhà ở ngoài đê hay có việc gấp thì vẫn phải đi. Kh
 
 ## Sau khi nước rút
 
-Nước rút để lại lớp phù sa mịn trên mặt đường, trên dốc đê. Khô thì bụi, gặp mưa thì trơn như bôi mỡ. Giảm tốc và phanh sớm như hướng dẫn trong bài [đường phủ bụi đất sau mưa](/ky-nang/2026/10/11/uong-phu-bui-at-sau-mua-giam-toc-va-phanh-som/). Mép đường có thể đã bị xói nên cứ đi giữa phần mặt đường còn chắc trong vài tuần đầu.
+Nước rút để lại lớp phù sa mịn trên mặt đường, trên dốc đê. Khô thì bụi, gặp mưa thì trơn như bôi mỡ. Giảm tốc và phanh sớm như hướng dẫn trong bài [đường phủ bụi đất sau mưa](/ky-nang/2026/10/11/duong-phu-bui-dat-sau-mua-giam-toc-va-phanh-som/). Mép đường có thể đã bị xói nên cứ đi giữa phần mặt đường còn chắc trong vài tuần đầu.
 
 Nếu xe máy thuê đã lội nước hoặc chết máy trong nước, đừng cố nổ máy lại nhiều lần. Đẩy xe lên chỗ cao rồi gọi cửa hàng theo số 0942 467 674 để được hướng dẫn. Chi phí khắc phục nếu có thì xác nhận trực tiếp với cửa hàng.
 

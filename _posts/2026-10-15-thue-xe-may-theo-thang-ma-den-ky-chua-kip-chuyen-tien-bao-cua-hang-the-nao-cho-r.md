@@ -77,7 +77,7 @@ Nếu bạn ở xa cửa hàng, ví dụ trọ ở Cầu Giấy hay đi làm ở
 
 ## Giữ nhịp thanh toán cho các tháng sau
 
-Một lần chậm không phải chuyện lớn nếu báo đúng cách. Để các tháng sau đều đặn hơn, đặt lịch nhắc trên điện thoại trước ngày đến hạn ba ngày, và chọn ngày thanh toán gần ngày bạn nhận lương nếu cửa hàng đồng ý. Cách đặt nhắc lịch được nói kỹ trong bài [nhắc lịch trả xe máy thuê theo tháng thế nào cho đều](/thue-xe/2026/10/07/nhac-lich-tra-xe-may-thue-theo-thang-the-nao-cho-eu/). Nếu cùng lúc xe đến hạn bảo dưỡng, xem thêm [khi nào cần bảo dưỡng và báo cửa hàng thế nào](/thue-xe/2026/10/11/thue-xe-may-theo-thang-khi-nao-can-bao-duong-va-bao-cua-hang-the-nao/).
+Một lần chậm không phải chuyện lớn nếu báo đúng cách. Để các tháng sau đều đặn hơn, đặt lịch nhắc trên điện thoại trước ngày đến hạn ba ngày, và chọn ngày thanh toán gần ngày bạn nhận lương nếu cửa hàng đồng ý. Cách đặt nhắc lịch được nói kỹ trong bài [nhắc lịch trả xe máy thuê theo tháng thế nào cho đều](/thue-xe/2026/10/07/nhac-lich-tra-xe-may-thue-theo-thang-the-nao-cho-deu/). Nếu cùng lúc xe đến hạn bảo dưỡng, xem thêm [khi nào cần bảo dưỡng và báo cửa hàng thế nào](/thue-xe/2026/10/11/thue-xe-may-theo-thang-khi-nao-can-bao-duong-va-bao-cua-hang-the-nao/).
 
 ## Tóm lại
 

@@ -37,7 +37,7 @@ Không bỏ được mũ trùm khi mưa to, nhưng có thể làm nó bớt cả
 2. **Kéo mũ trùm sát lại**, không để phồng gió sột soạt bên tai, không để mép mũ trùm sụp xuống che mắt.
 3. **Thử quay đầu sang hai bên trước khi đi.** Nếu mũ trùm kéo đầu lại hoặc che kín khóe mắt, chỉnh lại ngay.
 4. **Không đeo tai nghe** để nghe nhạc hay gọi điện khi chạy xe. Ngày khô đã nguy hiểm, ngày mưa còn tệ hơn.
-5. **Giữ kính mũ sạch, không mờ hơi.** Tai đã kém mà mắt cũng mờ thì không còn gì để bù. Cách xử lý kính đọng hơi nằm ở bài [mưa phùn làm mờ kính mũ bảo hiểm](/ky-nang/2026/10/11/mua-phun-lam-mo-kinh-mu-bao-hiem-giu-tam-nhin-khi-i-xe-may/).
+5. **Giữ kính mũ sạch, không mờ hơi.** Tai đã kém mà mắt cũng mờ thì không còn gì để bù. Cách xử lý kính đọng hơi nằm ở bài [mưa phùn làm mờ kính mũ bảo hiểm](/ky-nang/2026/10/11/mua-phun-lam-mo-kinh-mu-bao-hiem-giu-tam-nhin-khi-di-xe-may/).
 
 ## Bù bằng mắt: quan sát phía sau khi trời mưa
 

@@ -32,7 +32,7 @@ Máy cày tay và máy cày bánh lồng xuống ruộng ngập, khi leo lên đ
 - **Mặt đường đổi màu từ xám sang nâu bóng.** Bùn mới còn ướt có độ bóng rất rõ dưới nắng.
 - **Lớp bùn trông khô ở trên nhưng mềm bên dưới.** Bánh xe đè vào là lớp vỏ vỡ ra, để lộ phần nhão trơn như xà phòng.
 
-Đặc biệt nguy hiểm là khi trời có mưa nhỏ hoặc sương sớm. Bùn đất thịt gặp nước biến thành lớp nhầy, độ bám còn kém hơn cả đường ướt bình thường. Hiện tượng này giống với lớp bụi đất sau mưa ở thành phố, đã được nói trong bài [đường phủ bụi đất sau mưa](/ky-nang/2026/10/11/uong-phu-bui-at-sau-mua-giam-toc-va-phanh-som/), nhưng ở đồng quê lớp bùn dày và rộng hơn nhiều.
+Đặc biệt nguy hiểm là khi trời có mưa nhỏ hoặc sương sớm. Bùn đất thịt gặp nước biến thành lớp nhầy, độ bám còn kém hơn cả đường ướt bình thường. Hiện tượng này giống với lớp bụi đất sau mưa ở thành phố, đã được nói trong bài [đường phủ bụi đất sau mưa](/ky-nang/2026/10/11/duong-phu-bui-dat-sau-mua-giam-toc-va-phanh-som/), nhưng ở đồng quê lớp bùn dày và rộng hơn nhiều.
 
 ## Nước ruộng tràn mặt đường liên xã
 
@@ -44,7 +44,7 @@ Những rủi ro nằm dưới làn nước:
 - Ổ gà, nắp cống, chỗ đường vá bị nước che kín.
 - Rêu và bùn non bám trên mặt bê tông ngập lâu ngày.
 
-Khi gặp đoạn nước tràn, hãy dừng lại quan sát trước. Nhìn xem xe khác đi qua ở vệt nào, nước có chảy xiết hay không. Đi ở giữa đường, nơi mặt bê tông thường cao và chắc nhất, giữ ga đều, không dừng giữa chừng. Nếu không thấy được mặt đường bên dưới hoặc nước chảy mạnh, quay xe tìm lối khác. Cách xử lý đoạn ngập sâu hơn có trong bài [đi xe máy qua đoạn đường ngập nước](/ky-nang/2026/10/10/i-xe-may-qua-oan-uong-ngap-nuoc/).
+Khi gặp đoạn nước tràn, hãy dừng lại quan sát trước. Nhìn xem xe khác đi qua ở vệt nào, nước có chảy xiết hay không. Đi ở giữa đường, nơi mặt bê tông thường cao và chắc nhất, giữ ga đều, không dừng giữa chừng. Nếu không thấy được mặt đường bên dưới hoặc nước chảy mạnh, quay xe tìm lối khác. Cách xử lý đoạn ngập sâu hơn có trong bài [đi xe máy qua đoạn đường ngập nước](/ky-nang/2026/10/10/di-xe-may-qua-doan-duong-ngap-nuoc/).
 
 ## Đi đường bùn mùa cấy lúa xe máy: ga, phanh và vệt bánh
 
