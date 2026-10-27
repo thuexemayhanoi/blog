@@ -34,7 +34,7 @@ Cái khó không nằm ở quãng đường mà ở đoạn cuối: từ đườ
 3. Xuống hết dốc cầu rồi mới tính chuyện rẽ. Tấp hẳn vào lề an toàn, mở bản đồ, tìm lối xuống phía sông dẫn vào khu Phú Viên.
 4. Vào khu ngoài đê thì đi số thấp. Lối xuống bãi sông thường là dốc từ mặt đê xuống, ngõ hẹp và có khúc cong.
 
-Phố cổ nằm trong Vành đai 1, nơi thành phố đã đặt lộ trình hạn chế xe máy chạy xăng. Phạm vi và thời điểm áp dụng có thể thay đổi, nên xem thông báo mới nhất trước khi xuất phát. Kinh nghiệm chạy trên cây cầu này có trong bài [đi xe máy qua cầu Chương Dương lúc sáng sớm](/du-lich/2026/10/04/i-xe-may-qua-cau-chuong-duong-luc-sang-som-uong-va-luu-y/).
+Phố cổ nằm trong Vành đai 1, nơi thành phố đã đặt lộ trình hạn chế xe máy chạy xăng. Phạm vi và thời điểm áp dụng có thể thay đổi, nên xem thông báo mới nhất trước khi xuất phát. Kinh nghiệm chạy trên cây cầu này có trong bài [đi xe máy qua cầu Chương Dương lúc sáng sớm](/du-lich/2026/10/04/di-xe-may-qua-cau-chuong-duong-luc-sang-som-duong-va-luu-y/).
 
 ### Đi từ phía Nguyễn Văn Cừ
 
@@ -82,7 +82,7 @@ Mùa mưa lũ cũng cần để ý: khu ngoài đê sát sông có thể ngập 
 
 ## Ví dụ một buổi sáng đi lễ rằm
 
-Hai mẹ con ở khách sạn phố Hàng Bè muốn đi lễ ngày rằm. Họ nhận xe từ chiều hôm trước, vì tiệm mở cửa lúc 09:00. Sáng ra đi sớm trước giờ đi làm, qua cầu Chương Dương mất khoảng mười lăm phút, gửi xe, lễ xong trong chừng một tiếng. Còn thời gian thì ghé thêm [Đền Cả Bồ Đề](/du-lich/2026/10/04/en-ca-bo-e-bang-xe-may-ngay-le-uong-i-va-gui-xe/) gần đó, rồi qua cầu về lại trước khi dòng xe dày lên.
+Hai mẹ con ở khách sạn phố Hàng Bè muốn đi lễ ngày rằm. Họ nhận xe từ chiều hôm trước, vì tiệm mở cửa lúc 09:00. Sáng ra đi sớm trước giờ đi làm, qua cầu Chương Dương mất khoảng mười lăm phút, gửi xe, lễ xong trong chừng một tiếng. Còn thời gian thì ghé thêm [Đền Cả Bồ Đề](/du-lich/2026/10/04/den-ca-bo-de-bang-xe-may-ngay-le-duong-di-va-gui-xe/) gần đó, rồi qua cầu về lại trước khi dòng xe dày lên.
 
 ## Thuê xe máy đi lễ ở Long Biên
 

@@ -67,9 +67,9 @@ Ngày chính hội, chỗ đông nhất là sân đền Thượng buổi sáng v
 - **Đứng ở mép đám đông:** gần lối thoát, không chen giữa đoàn rước và người xem. Khi đoàn rước tới, lùi vào, đừng giơ máy chụp chắn đường.
 - **Đồ mang theo gọn:** túi đeo trước ngực, khóa kéo, điện thoại cất túi trong. Ví, tiền mặt chia hai chỗ.
 - **Trẻ nhỏ:** ghi số điện thoại người lớn vào áo hoặc vòng tay, dặn trước chỗ đứng chờ nếu lạc.
-- **Đi theo nhóm:** hẹn một mốc gặp cố định như bãi gửi xe, vì sóng điện thoại chỗ đông hay chập chờn. Cách giữ đội hình khi đi vài xe cùng nhau có trong bài [đi nhóm 2-3 xe quanh Long Biên](/du-lich/2026/10/11/i-nhom-23-xe-quanh-long-bien-giu-oi-hinh-chon-iem-hen-va-tranh-lac-nhau/).
+- **Đi theo nhóm:** hẹn một mốc gặp cố định như bãi gửi xe, vì sóng điện thoại chỗ đông hay chập chờn. Cách giữ đội hình khi đi vài xe cùng nhau có trong bài [đi nhóm 2-3 xe quanh Long Biên](/du-lich/2026/10/11/di-nhom-23-xe-quanh-long-bien-giu-doi-hinh-chon-diem-hen-va-tranh-lac-nhau/).
 
-Trang phục đi lễ nên kín đáo, lịch sự; mang mũ rộng vành, nước uống và áo mưa mỏng. Tháng Tư âm lịch thường đã vào đầu hè, trưa nắng gắt, chiều dễ có mưa giông. Cách tránh nắng khi chạy xe khu này xem thêm bài [đi xe máy ở Long Biên và Gia Lâm trưa hè](/du-lich/2026/10/11/i-xe-may-o-long-bien-va-gia-lam-trua-he-nang-nong-tranh-nang-va-cho-nghi/).
+Trang phục đi lễ nên kín đáo, lịch sự; mang mũ rộng vành, nước uống và áo mưa mỏng. Tháng Tư âm lịch thường đã vào đầu hè, trưa nắng gắt, chiều dễ có mưa giông. Cách tránh nắng khi chạy xe khu này xem thêm bài [đi xe máy ở Long Biên và Gia Lâm trưa hè](/du-lich/2026/10/11/di-xe-may-o-long-bien-va-gia-lam-trua-he-nang-nong-tranh-nang-va-cho-nghi/).
 
 ## Lượt về: lấy xe và ra khỏi làng an toàn
 

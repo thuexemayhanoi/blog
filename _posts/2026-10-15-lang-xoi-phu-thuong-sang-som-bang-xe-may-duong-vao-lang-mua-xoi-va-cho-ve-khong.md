@@ -29,7 +29,7 @@ Hai trục quen nhất đều chạy dọc Hồ Tây rồi gặp nhau quanh khu 
 
 ### Đi theo Lạc Long Quân
 
-Cung này hợp với ai ở Ba Đình, Cầu Giấy hoặc phía Bưởi. Lạc Long Quân là trục chính phía tây Hồ Tây, mặt đường rộng, hướng thẳng lên Nhật Tân. Đoạn ven hồ nhiều ngã ba ngõ dân, lại có người chạy bộ từ lúc tờ mờ sáng, nên giữ tốc độ vừa phải. Các điểm dừng dọc trục này có trong bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/uong-lac-long-quan-chay-xe-buoi-chieu-iem-dung-ven-ho/).
+Cung này hợp với ai ở Ba Đình, Cầu Giấy hoặc phía Bưởi. Lạc Long Quân là trục chính phía tây Hồ Tây, mặt đường rộng, hướng thẳng lên Nhật Tân. Đoạn ven hồ nhiều ngã ba ngõ dân, lại có người chạy bộ từ lúc tờ mờ sáng, nên giữ tốc độ vừa phải. Các điểm dừng dọc trục này có trong bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/duong-lac-long-quan-chay-xe-buoi-chieu-diem-dung-ven-ho/).
 
 ### Đi theo Âu Cơ
 
@@ -83,7 +83,7 @@ Khi chạy, coi như đang chở một mâm cơm: tăng ga nhẹ, phanh sớm, q
 
 ## Kết hợp một buổi sáng quanh Phú Thượng
 
-Mua xôi xong thường mới bảy giờ, bạn có thể quay về chạy một vòng ven hồ theo gợi ý ở bài [chạy xe quanh Hồ Tây sáng sớm](/du-lich/2026/10/05/chay-xe-quanh-ho-tay-sang-som-tuyen-va-iem-dung/) rồi ngồi ghế đá ăn xôi. Dịp cận Tết, Phú Thượng và Nhật Tân là vùng trồng đào; đường vào bãi và chỗ để xe có trong bài [vườn đào Nhật Tân trước Tết](/du-lich/2026/10/04/vuon-ao-nhat-tan-truoc-tet-bang-xe-may-uong-i-va-gui-xe/).
+Mua xôi xong thường mới bảy giờ, bạn có thể quay về chạy một vòng ven hồ theo gợi ý ở bài [chạy xe quanh Hồ Tây sáng sớm](/du-lich/2026/10/05/chay-xe-quanh-ho-tay-sang-som-tuyen-va-diem-dung/) rồi ngồi ghế đá ăn xôi. Dịp cận Tết, Phú Thượng và Nhật Tân là vùng trồng đào; đường vào bãi và chỗ để xe có trong bài [vườn đào Nhật Tân trước Tết](/du-lich/2026/10/04/vuon-dao-nhat-tan-truoc-tet-bang-xe-may-duong-di-va-gui-xe/).
 
 Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa từ 09:00 đến 21:00, nên muốn lên làng lúc sáu giờ sáng thì nhận xe từ chiều hôm trước. Định chở hộp xôi cỗ thì chọn xe ga sàn phẳng như Honda Vision, giá thuê 200.000 đ một ngày; gọi 0942 467 674 để giữ xe.
 

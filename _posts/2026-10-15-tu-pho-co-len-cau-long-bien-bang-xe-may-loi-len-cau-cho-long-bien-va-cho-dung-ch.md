@@ -17,7 +17,7 @@ writer_session: s-claude-w3
 
 Bạn đang ở phố cổ, buổi chiều còn rảnh, và muốn chạy lên cầu Long Biên đi xe máy một vòng để ngắm sông Hồng rồi chụp vài tấm ảnh. Nghe thì gần, nhìn bản đồ chỉ vài trăm mét, nhưng nhiều người vẫn lúng túng ở ba chỗ: không biết lối lên cầu nằm đâu giữa mấy con phố đông, bị kẹt trong dòng xe hàng của chợ Long Biên, và không biết dừng ở đâu để chụp mà không chắn đường người khác. Bài này đi theo đúng thứ tự một chuyến xuất phát từ lòng phố cổ: ra tới chân dốc, qua khu chợ, chạy trên cầu, tìm chỗ chụp ảnh và quay về.
 
-Thông tin chung về hai đầu cầu có trong bài [đến cầu Long Biên bằng xe máy](/du-lich/2026/09/28/en-cau-long-bien-bang-xe-may-gui-xe-va-uong-i/), chuyện lịch sử có trong bài [lịch sử cầu Long Biên](/du-lich/2026/10/11/lich-su-cau-long-bien-va-nhung-iem-nen-dung-khi-i-qua-bang-xe-may/). Ở đây chỉ bàn quãng rối nhất: từ phố cổ lên mặt cầu.
+Thông tin chung về hai đầu cầu có trong bài [đến cầu Long Biên bằng xe máy](/du-lich/2026/09/28/den-cau-long-bien-bang-xe-may-gui-xe-va-duong-di/), chuyện lịch sử có trong bài [lịch sử cầu Long Biên](/du-lich/2026/10/11/lich-su-cau-long-bien-va-nhung-diem-nen-dung-khi-di-qua-bang-xe-may/). Ở đây chỉ bàn quãng rối nhất: từ phố cổ lên mặt cầu.
 
 ## Ra khỏi phố cổ: hướng về khu Hàng Đậu và Trần Nhật Duật
 
@@ -70,7 +70,7 @@ Lỗi phổ biến nhất là dừng xe giữa làn để giơ điện thoại c
 
 **Cách thứ hai, chỉ dừng ở chỗ thật sự an toàn.** Nếu chỉ muốn ghé vài giây, hãy chạy qua hẳn cầu, xuống phía bờ Long Biên, tìm một chỗ rộng ngoài lòng đường, tắt máy rồi mới lấy điện thoại. Đừng bao giờ dừng trên dốc dẫn lên cầu.
 
-Sáng sớm thường có sương mỏng trên sông, chiều muộn nắng đẹp nhưng đông người đi bộ. Muốn chọn giờ chạy cho thoáng, xem bài [đi xe máy qua cầu Long Biên lúc nào đẹp nhất](/du-lich/2026/09/30/i-xe-may-qua-cau-long-bien-luc-nao-ep-nhat/) có so sánh từng khung.
+Sáng sớm thường có sương mỏng trên sông, chiều muộn nắng đẹp nhưng đông người đi bộ. Muốn chọn giờ chạy cho thoáng, xem bài [đi xe máy qua cầu Long Biên lúc nào đẹp nhất](/du-lich/2026/09/30/di-xe-may-qua-cau-long-bien-luc-nao-dep-nhat/) có so sánh từng khung.
 
 Đi nhóm thì càng nên gửi xe chung một chỗ, vì vài chiếc xe dừng lấn làn vừa nguy hiểm vừa làm hỏng chính tấm ảnh.
 

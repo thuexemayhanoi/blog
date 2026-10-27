@@ -21,7 +21,7 @@ Lên phố Hàng Đồng mua đồ đồng thường là việc của cả nhà:
 
 Hàng Đồng là một phố ngắn trong khu phố cổ Hoàn Kiếm, tên phố gắn với nghề làm và buôn đồ đồng từ xưa. Ngày nay không phải nhà nào cũng còn bán đồ đồng, nhưng vẫn có những cửa hàng bày kín lư hương, chân nến, hạc thờ, mâm bồng, mâm tròn, chuông và đồ phong thủy nhỏ, từ chiếc chén vừa lòng bàn tay đến bộ đỉnh cao gần ngang thắt lưng.
 
-Phố bên cạnh bổ sung cho nhau. Hàng Quạt bán đồ thờ gỗ sơn son thếp vàng, cờ hội, câu đối, nên nhiều gia đình chọn đồ gỗ ở đó rồi sang Hàng Đồng chọn đồ đồng cho khớp màu. Hàng Mã bán vàng mã, đồ lễ, đèn theo mùa; xem thêm bài [phố Hàng Mã ngoài mùa Tết bằng xe máy](/du-lich/2026/10/04/pho-hang-ma-ngoai-mua-tet-bang-xe-may-co-gi-va-gui-xe-au/).
+Phố bên cạnh bổ sung cho nhau. Hàng Quạt bán đồ thờ gỗ sơn son thếp vàng, cờ hội, câu đối, nên nhiều gia đình chọn đồ gỗ ở đó rồi sang Hàng Đồng chọn đồ đồng cho khớp màu. Hàng Mã bán vàng mã, đồ lễ, đèn theo mùa; xem thêm bài [phố Hàng Mã ngoài mùa Tết bằng xe máy](/du-lich/2026/10/04/pho-hang-ma-ngoai-mua-tet-bang-xe-may-co-gi-va-gui-xe-dau/).
 
 ## Chọn lư hương, mâm đồng cho bàn thờ
 

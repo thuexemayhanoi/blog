@@ -36,9 +36,9 @@ Từ khu Bồ Đề, quãng đường tới chợ chừng 15 km tùy điểm xu�
 
 ### Đoạn đông xe tải trên Ngô Gia Tự và Yên Viên
 
-Trục Ngô Gia Tự lên Yên Viên là đường hàng hóa, xe tải và container chạy suốt ngày. Giữ làn bên phải, không chen giữa hai xe lớn, không dừng sát đuôi xe tải khi chờ đèn. Cách giữ vị trí an toàn quanh xe lớn có ở bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-iem-mu/).
+Trục Ngô Gia Tự lên Yên Viên là đường hàng hóa, xe tải và container chạy suốt ngày. Giữ làn bên phải, không chen giữa hai xe lớn, không dừng sát đuôi xe tải khi chờ đèn. Cách giữ vị trí an toàn quanh xe lớn có ở bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-diem-mu/).
 
-Còn dư thời gian thì khu đền Gióng ở Phù Đổng nằm khá gần, xem lộ trình ở bài [đền Phù Đổng bằng xe máy từ Long Biên](/du-lich/2026/10/11/en-phu-ong-bang-xe-may-tu-long-bien-uong-i-va-thoi-iem-nen-en/); nên ghé trước khi mua hàng.
+Còn dư thời gian thì khu đền Gióng ở Phù Đổng nằm khá gần, xem lộ trình ở bài [đền Phù Đổng bằng xe máy từ Long Biên](/du-lich/2026/10/11/den-phu-dong-bang-xe-may-tu-long-bien-duong-di-va-thoi-diem-nen-den/); nên ghé trước khi mua hàng.
 
 ## Giờ chợ sáng: nên đến lúc nào
 
@@ -75,7 +75,7 @@ Không chất hàng che đèn hậu, biển số hay nhô ra hai bên quá thân
 
 ## Chọn xe nào để đi chợ vải
 
-Xe số như Honda Wave nhẹ, tay dắt phía sau chắc, chở kiện vải trên yên rất ổn. Xe ga như Honda Vision hay Air Blade có sàn để chân và cốp dưới yên, tiện cho túi hàng nhỏ, hợp với người không quen sang số. So sánh hai loại trên đường làng có ở bài [đi làng nghề Gia Lâm nên chọn Wave hay Vision](/du-lich/2026/10/11/i-lang-nghe-va-uong-lang-gia-lam-nen-chon-wave-hay-vision/).
+Xe số như Honda Wave nhẹ, tay dắt phía sau chắc, chở kiện vải trên yên rất ổn. Xe ga như Honda Vision hay Air Blade có sàn để chân và cốp dưới yên, tiện cho túi hàng nhỏ, hợp với người không quen sang số. So sánh hai loại trên đường làng có ở bài [đi làng nghề Gia Lâm nên chọn Wave hay Vision](/du-lich/2026/10/11/di-lang-nghe-va-duong-lang-gia-lam-nen-chon-wave-hay-vision/).
 
 Giá thuê theo ngày tại cửa hàng: Honda Wave 150.000 đ, Honda Vision 200.000 đ, Honda Air Blade 200.000 đ; bảng đầy đủ ở trang [giá thuê xe máy](/bang-gia/). Tiền cọc xác nhận trực tiếp khi nhận xe; có kèm mũ bảo hiểm hay dây ràng hay không, bạn hỏi cửa hàng khi đặt xe.
 

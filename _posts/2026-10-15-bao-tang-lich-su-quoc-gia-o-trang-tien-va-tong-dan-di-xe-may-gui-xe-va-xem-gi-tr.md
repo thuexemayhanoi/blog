@@ -34,7 +34,7 @@ Từ tiệm ở 112 Nguyễn Văn Cừ, đường ngắn nhất là đi thẳng 
 2. **Trên Trần Quang Khải** xe chạy khá nhanh. Đừng vừa chạy vừa ngó số nhà, đến gần khu bảo tàng thì giảm tốc, bật xi nhan và tấp sát lề phải trước khi dừng.
 3. **Nếu muốn vào phía Tông Đản hoặc Tràng Tiền**, rẽ vào các phố nhỏ trong khu Nhà hát Lớn với tốc độ thấp và theo biển chỉ dẫn. Khu này có nhiều đoạn một chiều và cơ quan, đừng quay đầu tùy tiện chỉ vì ứng dụng bản đồ bảo rẽ.
 
-Đi cầu Long Biên cũng được, nhưng đường đó xuyên phố cổ, giờ cao điểm dễ kẹt; chở trẻ thì cầu Chương Dương yên tâm hơn. Kinh nghiệm chạy cầu này có trong bài [chạy xe qua cầu Chương Dương ngắm hoàng hôn](/du-lich/2026/10/01/chay-xe-qua-cau-chuong-duong-ngam-hoang-hon-cung-uong-va-luu-y/).
+Đi cầu Long Biên cũng được, nhưng đường đó xuyên phố cổ, giờ cao điểm dễ kẹt; chở trẻ thì cầu Chương Dương yên tâm hơn. Kinh nghiệm chạy cầu này có trong bài [chạy xe qua cầu Chương Dương ngắm hoàng hôn](/du-lich/2026/10/01/chay-xe-qua-cau-chuong-duong-ngam-hoang-hon-cung-duong-va-luu-y/).
 
 ## Gửi xe bảo tàng Lịch sử: hỏi ở cổng trước, tính bãi phố sau
 

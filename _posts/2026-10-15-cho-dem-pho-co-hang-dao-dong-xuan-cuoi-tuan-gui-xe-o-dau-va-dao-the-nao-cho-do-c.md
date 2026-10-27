@@ -23,7 +23,7 @@ Nếu bạn muốn chạy xe vòng phố cổ buổi tối thay vì đi chợ, b
 
 Chợ đêm thường được dựng dọc trục phố Hàng Đào, nối tiếp qua Hàng Ngang, Hàng Đường và kéo về phía chợ Đồng Xuân. Theo thông tin phổ biến, chợ họp vào các tối cuối tuần, thường từ tối thứ Sáu tới tối Chủ nhật, bắt đầu khi trời chập tối. Tuy vậy, lịch họp, giờ dọn hàng và phạm vi các đoạn phố có thể thay đổi theo từng giai đoạn, dịp lễ hay thời tiết, nên trước khi đi hãy kiểm tra thông báo mới nhất của phường hoặc quận Hoàn Kiếm, hoặc hỏi lễ tân nơi bạn ở.
 
-Khi chợ họp, các sạp được bày giữa lòng phố, xe máy không đi xuyên qua được. Cùng thời gian đó, quanh Hồ Gươm cũng có không gian đi bộ cuối tuần, nên nhiều phố lân cận đông hơn ngày thường. Chuyện để xe khi đi phố đi bộ quanh hồ được nói trong bài [phố đi bộ cuối tuần và xe máy để đâu](/du-lich/2026/09/28/pho-i-bo-cuoi-tuan-va-xe-may-e-au/).
+Khi chợ họp, các sạp được bày giữa lòng phố, xe máy không đi xuyên qua được. Cùng thời gian đó, quanh Hồ Gươm cũng có không gian đi bộ cuối tuần, nên nhiều phố lân cận đông hơn ngày thường. Chuyện để xe khi đi phố đi bộ quanh hồ được nói trong bài [phố đi bộ cuối tuần và xe máy để đâu](/du-lich/2026/09/28/pho-di-bo-cuoi-tuan-va-xe-may-de-dau/).
 
 ## Gửi xe ở đâu: ngoài vùng đi bộ, ở điểm có người trông
 
@@ -34,7 +34,7 @@ Nguyên tắc quan trọng nhất cho buổi tối cuối tuần: gửi xe trư�
 - **Hỏi giờ đóng cửa.** Chợ đêm có thể kéo dài tới khuya, nếu điểm gửi đóng sớm hơn thì bạn sẽ phải bỏ dở cuộc dạo.
 - **Hỏi rõ giá trước khi giao xe,** nhất là tối cuối tuần.
 
-Giữ vé là việc đơn giản nhưng hay bị quên. Cất vé vào ngăn ví riêng, chụp ảnh vé, chụp thêm vị trí xe cùng biển hiệu gần đó. Đi xe thuê thì lưu biển số và số điện thoại tiệm trong máy. Người cần gửi xe qua đêm vì ở khách sạn phố cổ có thể xem thêm bài [gửi xe qua đêm ở phố cổ Hà Nội](/ky-nang/2026/09/30/gui-xe-qua-em-o-pho-co-ha-noi-gia-va-luu-y/).
+Giữ vé là việc đơn giản nhưng hay bị quên. Cất vé vào ngăn ví riêng, chụp ảnh vé, chụp thêm vị trí xe cùng biển hiệu gần đó. Đi xe thuê thì lưu biển số và số điện thoại tiệm trong máy. Người cần gửi xe qua đêm vì ở khách sạn phố cổ có thể xem thêm bài [gửi xe qua đêm ở phố cổ Hà Nội](/ky-nang/2026/09/30/gui-xe-qua-dem-o-pho-co-ha-noi-gia-va-luu-y/).
 
 ## Dạo theo một chiều cho đỡ chen
 

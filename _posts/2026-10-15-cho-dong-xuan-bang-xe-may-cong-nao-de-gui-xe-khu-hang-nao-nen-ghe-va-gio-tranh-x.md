@@ -17,7 +17,7 @@ writer_session: s-claude-w3
 
 Chợ Đồng Xuân gửi xe máy ở đâu là câu hỏi đầu tiên của người đi chợ, nhưng câu hỏi đúng hơn là: mình định vào chợ từ phía nào, mua gì, và đi lúc mấy giờ. Ba thứ đó quyết định chỗ gửi xe hợp lý, chứ không phải ngược lại. Người Hà Nội đi lấy hàng và khách du lịch đi dạo xem chợ có nhu cầu rất khác nhau, nên bài này không lặp lại chuyện đường vào phố cổ, mà đi theo một trình tự khác: nhìn chợ như một khối có nhiều mặt, chọn mặt hợp với việc mình cần, gửi xe ở điểm có người trông, rồi tính giờ để không chen vào lúc xe chở hàng chiếm kín lòng phố.
 
-Nếu bạn cần phần đường đi từ Hồ Gươm hay từ cầu Long Biên tới chợ, bài [đến chợ Đồng Xuân bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/30/en-cho-ong-xuan-bang-xe-may-gui-xe-va-uong-i/) đã nói kỹ. Ở đây ta bắt đầu từ lúc bạn đã gần tới khu chợ.
+Nếu bạn cần phần đường đi từ Hồ Gươm hay từ cầu Long Biên tới chợ, bài [đến chợ Đồng Xuân bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/30/den-cho-dong-xuan-bang-xe-may-gui-xe-va-duong-di/) đã nói kỹ. Ở đây ta bắt đầu từ lúc bạn đã gần tới khu chợ.
 
 ## Chợ là một khối nhiều mặt: hiểu trước khi chọn chỗ gửi xe máy
 

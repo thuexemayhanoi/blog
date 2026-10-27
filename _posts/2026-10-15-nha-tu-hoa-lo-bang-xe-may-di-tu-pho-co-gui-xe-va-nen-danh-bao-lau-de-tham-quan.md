@@ -57,7 +57,7 @@ Nội dung khá nặng, nhất là khu xà lim và máy chém. Đi cùng trẻ n
 
 Hỏa Lò nằm giữa nhiều điểm tham quan trung tâm, nên dễ ghép thành một buổi mà chỉ phải gửi xe thêm một lần:
 
-- **Nhà thờ Lớn:** cách một quãng ngắn về phía phố cổ, hợp xếp trước Hỏa Lò vào sáng sớm rồi chạy sang. Đường vào và chỗ dừng xe có trong bài [đến Nhà thờ Lớn Hà Nội bằng xe máy](/du-lich/2026/09/30/en-nha-tho-lon-ha-noi-bang-xe-may-gui-xe-va-uong-i/).
+- **Nhà thờ Lớn:** cách một quãng ngắn về phía phố cổ, hợp xếp trước Hỏa Lò vào sáng sớm rồi chạy sang. Đường vào và chỗ dừng xe có trong bài [đến Nhà thờ Lớn Hà Nội bằng xe máy](/du-lich/2026/09/30/den-nha-tho-lon-ha-noi-bang-xe-may-gui-xe-va-duong-di/).
 - **Bảo tàng Phụ nữ Việt Nam** trên phố Lý Thường Kiệt: đi sau Hỏa Lò hợp lý vì gần, cách sắp lịch từ phố cổ xem bài [thăm Bảo tàng Phụ nữ Việt Nam bằng xe máy từ phố cổ](/du-lich/2026/10/09/tham-bao-tang-phu-nu-viet-nam-bang-xe-may-tu-pho-co/).
 - **Hồ Gươm:** kết thúc buổi bằng một vòng đi bộ ven hồ rồi về phố cổ ăn trưa.
 

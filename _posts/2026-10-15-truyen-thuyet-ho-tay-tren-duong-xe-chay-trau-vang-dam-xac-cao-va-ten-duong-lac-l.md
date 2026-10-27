@@ -45,7 +45,7 @@ Tiếng chuông vang sang tận phương Bắc, con trâu vàng tưởng mẹ g�
 
 Lĩnh Nam chích quái còn chép một mạch khác: trâu vàng từ núi Tiên Du chạy theo sông Cái tới Dâm Đàm rồi biến mất. Đáng chú ý, cuối truyện Hồ tinh sách cũng ghi sau khi diệt cáo, người ta lập miếu Kim Ngưu để trấn yêu. Hai truyền thuyết gặp nhau ở cùng một ngôi đền.
 
-Đền Kim Ngưu nằm trong quần thể Phủ Tây Hồ, trên doi đất nhô ra hồ ở khu Quảng An, Tây Hồ, trước đền có cây đa lớn và tượng trâu vàng. Theo báo chí, đền bị đạn pháo phá năm 1947 và dựng lại năm 2000. Đường đi và gửi xe có ở bài [đến Phủ Tây Hồ bằng xe máy](/du-lich/2026/10/04/en-phu-tay-ho-bang-xe-may-gui-xe-va-uong-i/).
+Đền Kim Ngưu nằm trong quần thể Phủ Tây Hồ, trên doi đất nhô ra hồ ở khu Quảng An, Tây Hồ, trước đền có cây đa lớn và tượng trâu vàng. Theo báo chí, đền bị đạn pháo phá năm 1947 và dựng lại năm 2000. Đường đi và gửi xe có ở bài [đến Phủ Tây Hồ bằng xe máy](/du-lich/2026/10/04/den-phu-tay-ho-bang-xe-may-gui-xe-va-duong-di/).
 
 ## Lộ trình xe máy theo dấu các tích quanh hồ
 
@@ -63,11 +63,11 @@ Dừng đủ các điểm thì nên để dành nửa buổi:
 
 6. **Đường Thụy Khuê** về lại Quán Thánh, khép vòng.
 
-Âu Cơ có đoạn một chiều và các trục ven hồ đổi chiều từng quãng, nên nhìn biển trước mỗi lần rẽ. Chỗ ngắm hồ trên Lạc Long Quân có ở bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/uong-lac-long-quan-chay-xe-buoi-chieu-iem-dung-ven-ho/).
+Âu Cơ có đoạn một chiều và các trục ven hồ đổi chiều từng quãng, nên nhìn biển trước mỗi lần rẽ. Chỗ ngắm hồ trên Lạc Long Quân có ở bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/duong-lac-long-quan-chay-xe-buoi-chieu-diem-dung-ven-ho/).
 
 ### Dừng ở đâu để kể chuyện
 
-Ven hồ phần lớn không có người trông xe. Dừng vài phút thì tắt máy, rút chìa, khóa cổ, dựng sát lề, không chắn lối đi bộ. Dừng lâu thì gọi ly nước ở quán ven hồ và để xe trước quán, hoặc gửi bãi có vé quanh các đền. Danh sách điểm dừng có trong bài [cung đường chạy quanh hồ Tây: điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/).
+Ven hồ phần lớn không có người trông xe. Dừng vài phút thì tắt máy, rút chìa, khóa cổ, dựng sát lề, không chắn lối đi bộ. Dừng lâu thì gọi ly nước ở quán ven hồ và để xe trước quán, hoặc gửi bãi có vé quanh các đền. Danh sách điểm dừng có trong bài [cung đường chạy quanh hồ Tây: điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-duong-chay-quanh-ho-tay-diem-dung-va-cho-gui-xe/).
 
 ## Kể chuyện cho con trên xe máy: dừng hẳn rồi mới kể
 

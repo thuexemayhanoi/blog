@@ -56,7 +56,7 @@ Vài lưu ý khi gửi xe buổi tối:
 3. Khóa cổ xe, cất mũ bảo hiểm vào cốp, không để túi đồ treo móc.
 4. Đỗ đầu xe ra ngoài để lúc về lùi ra nhanh, không chắn lối đi của người khác.
 
-Đường Thanh Niên hẹp, đừng dừng xe giữa đường để chụp ảnh hay đón người. Các điểm dừng khác quanh hồ có trong bài [cung đường chạy quanh hồ Tây: điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/).
+Đường Thanh Niên hẹp, đừng dừng xe giữa đường để chụp ảnh hay đón người. Các điểm dừng khác quanh hồ có trong bài [cung đường chạy quanh hồ Tây: điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-duong-chay-quanh-ho-tay-diem-dung-va-cho-gui-xe/).
 
 ## Có uống rượu bia thì về bằng gì
 
@@ -72,7 +72,7 @@ Cách tôi khuyên khách sắp xếp ngay từ lúc đi:
 
 Sau 21 giờ, các trục ven Hồ Tây vắng dần nhưng ánh sáng không đều: Thanh Niên khá sáng, còn vài ngõ phía Thụy Khuê thì tối, mặt đường có chỗ gồ ghề. Trước khi lên xe, hãy bật thử đèn pha, đèn hậu và xi nhan, kiểm tra nhanh lốp xem có non không.
 
-Nếu về phía Long Biên, bạn đi ngược lại Yên Phụ, lên cầu Chương Dương. Đường đê ban đêm thường có xe tải và xe khách chạy nhanh, hãy đi sát làn phải và giữ khoảng cách. Về phố cổ thì qua Quán Thánh, Phan Đình Phùng là đường rộng, đèn sáng, dễ đi cho người chưa quen. Muốn lượn thêm một vòng, xem bài [chạy xe đường Xuân Diệu buổi tối](/du-lich/2026/10/04/chay-xe-uong-xuan-dieu-buoi-toi-quan-ven-ho-va-gui-xe/), với điều kiện người lái hoàn toàn tỉnh táo.
+Nếu về phía Long Biên, bạn đi ngược lại Yên Phụ, lên cầu Chương Dương. Đường đê ban đêm thường có xe tải và xe khách chạy nhanh, hãy đi sát làn phải và giữ khoảng cách. Về phố cổ thì qua Quán Thánh, Phan Đình Phùng là đường rộng, đèn sáng, dễ đi cho người chưa quen. Muốn lượn thêm một vòng, xem bài [chạy xe đường Xuân Diệu buổi tối](/du-lich/2026/10/04/chay-xe-duong-xuan-dieu-buoi-toi-quan-ven-ho-va-gui-xe/), với điều kiện người lái hoàn toàn tỉnh táo.
 
 Mùa thu đông gió hồ về đêm khá lạnh, nhớ mang áo khoác mỏng và chạy chậm hơn ban ngày.
 

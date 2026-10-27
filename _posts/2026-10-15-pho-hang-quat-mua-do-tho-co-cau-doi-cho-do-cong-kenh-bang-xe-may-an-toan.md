@@ -21,7 +21,7 @@ Gần ngày giỗ, cuối năm hay trước hội làng, nhiều nhà lại cầ
 
 Hàng Quạt là con phố ngắn, dài khoảng 200 m, chạy từ Lương Văn Can sang Hàng Nón, giữa khu phố cổ Hoàn Kiếm. Tên phố đến từ nghề làm quạt ngày trước; nay gần như cả phố bán hàng thờ cúng và lễ hội: bàn thờ, hoành phi, câu đối, trướng thêu chữ, cờ ngũ sắc, cờ hội, lọng, đồ sơn son thếp vàng cho đình chùa, đèn thờ, hạc gỗ. Nhiều hàng nhận đặt làm cờ, trướng, câu đối theo chữ khách yêu cầu.
 
-Cần lư hương, chân nến, đỉnh đồng thì đi tiếp sang Hàng Đồng; vàng mã, đồ giấy thì sang Hàng Mã. Ba phố cách nhau một quãng ngắn, một buổi sáng có thể gom đủ đồ cho cái giỗ. Hàng Mã ngày thường bán gì và gửi xe ở đâu, xem bài [phố Hàng Mã ngoài mùa Tết bằng xe máy](/du-lich/2026/10/04/pho-hang-ma-ngoai-mua-tet-bang-xe-may-co-gi-va-gui-xe-au/).
+Cần lư hương, chân nến, đỉnh đồng thì đi tiếp sang Hàng Đồng; vàng mã, đồ giấy thì sang Hàng Mã. Ba phố cách nhau một quãng ngắn, một buổi sáng có thể gom đủ đồ cho cái giỗ. Hàng Mã ngày thường bán gì và gửi xe ở đâu, xem bài [phố Hàng Mã ngoài mùa Tết bằng xe máy](/du-lich/2026/10/04/pho-hang-ma-ngoai-mua-tet-bang-xe-may-co-gi-va-gui-xe-dau/).
 
 ## Mua đồ thờ phố cổ: chuẩn bị gì trước khi đi
 

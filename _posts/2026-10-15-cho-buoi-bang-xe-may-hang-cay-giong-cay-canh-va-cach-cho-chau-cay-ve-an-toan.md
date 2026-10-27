@@ -51,7 +51,7 @@ Từ cửa hàng chúng tôi ở Long Biên, đường gọn nhất là qua cầ
 
 ### Từ Ba Đình, Cầu Giấy và phía Nhật Tân
 
-Từ Ba Đình, chạy thẳng Hoàng Hoa Thám lên: qua ngã ba Văn Cao là bắt đầu gặp sạp cây hai bên, càng gần chợ càng dày. Từ Cầu Giấy, theo đường Bưởi đi lên phía bắc là tới đầu chợ. Từ phía Âu Cơ, Nhật Tân thì xuôi Lạc Long Quân về; cung đường này tôi đã tả ở bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/uong-lac-long-quan-chay-xe-buoi-chieu-iem-dung-ven-ho/).
+Từ Ba Đình, chạy thẳng Hoàng Hoa Thám lên: qua ngã ba Văn Cao là bắt đầu gặp sạp cây hai bên, càng gần chợ càng dày. Từ Cầu Giấy, theo đường Bưởi đi lên phía bắc là tới đầu chợ. Từ phía Âu Cơ, Nhật Tân thì xuôi Lạc Long Quân về; cung đường này tôi đã tả ở bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/duong-lac-long-quan-chay-xe-buoi-chieu-diem-dung-ven-ho/).
 
 Hướng Hoàng Hoa Thám đi lên tiện nhất để xem cây: chạy chậm sát lề phải, thấy sạp ưng thì tạt vào, không phải quay đầu giữa dòng xe.
 
@@ -107,6 +107,6 @@ Nếu thuê xe để đi chợ cây, xe ga như Honda Vision hay Air Blade có s
 
 ## Ghép chợ Bưởi với vài điểm quanh Hồ Tây
 
-Mùa Tết muốn xem quất tận vườn thì đọc cách [mua quất cảnh ở làng Tứ Liên](/du-lich/2026/10/13/mua-quat-canh-o-lang-tu-lien-truoc-tet-bang-xe-may-duong-vao-chon-cay-cho-ve/); cần hoa cắt cành thì xem bài [đi chợ hoa Quảng An bằng xe máy sáng sớm](/du-lich/2026/10/09/i-cho-hoa-quang-an-bang-xe-may-sang-som/). Đã chở cây trên xe thì nên về thẳng, đừng dạo lâu dưới nắng.
+Mùa Tết muốn xem quất tận vườn thì đọc cách [mua quất cảnh ở làng Tứ Liên](/du-lich/2026/10/13/mua-quat-canh-o-lang-tu-lien-truoc-tet-bang-xe-may-duong-vao-chon-cay-cho-ve/); cần hoa cắt cành thì xem bài [đi chợ hoa Quảng An bằng xe máy sáng sớm](/du-lich/2026/10/09/di-cho-hoa-quang-an-bang-xe-may-sang-som/). Đã chở cây trên xe thì nên về thẳng, đừng dạo lâu dưới nắng.
 
 Các cung đường và điểm dừng khác trong khu này nằm ở chuyên mục [Hồ Tây và lân cận](/du-lich/ho-tay/), còn điểm đến khắp thành phố ở mục [du lịch Hà Nội bằng xe máy](/du-lich/).

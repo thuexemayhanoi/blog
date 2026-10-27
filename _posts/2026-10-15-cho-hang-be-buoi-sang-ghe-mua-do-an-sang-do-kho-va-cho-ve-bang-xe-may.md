@@ -40,7 +40,7 @@ Vài lưu ý để mua cho khỏi tiếc:
 - Hỏi giá trước khi bảo người bán gói, nhất là giò chả và gà bán theo cân.
 - Mang theo hộp có nắp nếu định mua nhiều món có nước chấm hoặc dưa góp, đỡ phải buộc túi nilon chồng lên nhau.
 - Mua vừa đủ ăn trong ngày. Phòng trọ, phòng khách sạn thường chỉ có tủ lạnh nhỏ, đồ làm sẵn để qua đêm sẽ mất ngon.
-- Nếu muốn ngồi ăn tử tế, hãy ăn ở quán quanh đó rồi mới đi chợ; cách chọn quán dễ để xe có trong bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-e-xe-o-au/).
+- Nếu muốn ngồi ăn tử tế, hãy ăn ở quán quanh đó rồi mới đi chợ; cách chọn quán dễ để xe có trong bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-de-xe-o-dau/).
 
 ## Đồ khô và đồ nấu: mua gì để mang về phòng
 

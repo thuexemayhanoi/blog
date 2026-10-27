@@ -50,7 +50,7 @@ Vỉa hè Hàng Gai hẹp và đông người đi bộ, không phải chỗ tự
 - Chụp ảnh vé xe và biển tên phố chỗ gửi, vì lúc xách túi áo quay ra dễ quên mình gửi ngõ nào.
 - Không để xe chắn cửa nhà dân hay lối vào ngõ.
 
-Cách chọn chỗ gửi đáng tin có trong bài [gửi xe máy trong ngõ phố cổ](/du-lich/2026/10/04/gui-xe-may-trong-ngo-pho-co-cach-chon-cho-quen/). Tối thứ Sáu đến Chủ nhật, quanh Hồ Gươm và tuyến Hàng Đào thành phố đi bộ, xe máy không vào được theo khung giờ. Lịch thử đồ nên tránh mấy tối này, hoặc gửi xe ở vành ngoài như bài [phố đi bộ cuối tuần và xe máy để đâu](/du-lich/2026/09/28/pho-i-bo-cuoi-tuan-va-xe-may-e-au/).
+Cách chọn chỗ gửi đáng tin có trong bài [gửi xe máy trong ngõ phố cổ](/du-lich/2026/10/04/gui-xe-may-trong-ngo-pho-co-cach-chon-cho-quen/). Tối thứ Sáu đến Chủ nhật, quanh Hồ Gươm và tuyến Hàng Đào thành phố đi bộ, xe máy không vào được theo khung giờ. Lịch thử đồ nên tránh mấy tối này, hoặc gửi xe ở vành ngoài như bài [phố đi bộ cuối tuần và xe máy để đâu](/du-lich/2026/09/28/pho-di-bo-cuoi-tuan-va-xe-may-de-dau/).
 
 ## Thử đồ nhiều lần: mỗi chuyến làm thêm một việc
 

@@ -31,7 +31,7 @@ Hỏi nơi lưu trú mấy giờ được dắt xe ra, vì nhiều homestay khó
 
 ## Hồ Gươm buổi sáng sớm: chọn ngày và giờ xuất phát
 
-Với người đi xe máy, ngày thường dễ hơn cuối tuần. Khi khu phố đi bộ quanh hồ hoạt động, các phố sát hồ dành cho người đi bộ và xe phải gửi ở vòng ngoài. Phạm vi phân luồng có thể thay đổi, nên xem thông báo trước hoặc đọc bài [phố đi bộ Hồ Gươm cuối tuần, xe máy gửi ở đâu](/du-lich/2026/10/09/pho-i-bo-ho-guom-cuoi-tuan-xe-may-gui-o-au/).
+Với người đi xe máy, ngày thường dễ hơn cuối tuần. Khi khu phố đi bộ quanh hồ hoạt động, các phố sát hồ dành cho người đi bộ và xe phải gửi ở vòng ngoài. Phạm vi phân luồng có thể thay đổi, nên xem thông báo trước hoặc đọc bài [phố đi bộ Hồ Gươm cuối tuần, xe máy gửi ở đâu](/du-lich/2026/10/09/pho-di-bo-ho-guom-cuoi-tuan-xe-may-gui-o-dau/).
 
 Giờ mặt trời mọc ở Hà Nội lệch nhiều giữa mùa hè và mùa đông. Xem giờ của đúng ngày trên ứng dụng thời tiết rồi tính ngược lại:
 
@@ -83,7 +83,7 @@ Xem và chụp sao cho lịch sự:
 
 Các phố cổ phía bắc hồ và quanh Hàng Bông, Hàng Trống có đủ món quen: phở, bún, bánh cuốn, xôi, bánh mì và cà phê. Tôi không gợi ý quán cụ thể vì quán sáng hay nghỉ đột xuất. Chọn theo vài dấu hiệu: quán đông người địa phương, nồi nước dùng đang bốc hơi, và có chỗ dựng xe có người coi nếu bạn còn mang xe theo.
 
-Vài quán cà phê quanh quảng trường Đông Kinh Nghĩa Thục có tầng trên nhìn ra hồ, nhưng không phải chỗ nào cũng mở từ tinh mơ. Muốn một vòng hồ thong thả hơn, xem bài [đường vòng Hồ Gươm buổi sáng cho người đi xe máy](/du-lich/2026/09/30/uong-vong-ho-guom-buoi-sang-cho-nguoi-i-xe-may/).
+Vài quán cà phê quanh quảng trường Đông Kinh Nghĩa Thục có tầng trên nhìn ra hồ, nhưng không phải chỗ nào cũng mở từ tinh mơ. Muốn một vòng hồ thong thả hơn, xem bài [đường vòng Hồ Gươm buổi sáng cho người đi xe máy](/du-lich/2026/09/30/duong-vong-ho-guom-buoi-sang-cho-nguoi-di-xe-may/).
 
 ## Về trước giờ cao điểm
 
