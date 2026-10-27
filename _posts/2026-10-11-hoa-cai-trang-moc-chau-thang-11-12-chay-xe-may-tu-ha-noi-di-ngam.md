@@ -26,11 +26,11 @@ Năm rét sớm, hoa nở đồng loạt rồi tàn nhanh, vì vậy ai định 
 
 Từ Hà Nội, cung chính men theo quốc lộ 6: qua Hòa Bình, leo dốc Cun, qua Mai Châu rồi chạy tiếp tới cao nguyên Mộc Châu, tổng chiều dài chừng hai trăm cây số, đi thẳng không nghỉ cũng hết gần một ngày. Vì vậy lịch hợp lý là xuất phát thật sớm, dừng ăn sáng quanh Hòa Bình, trưa tới nơi nhận phòng rồi chiều mới đi ngắm hoa, hôm sau sáng ngắm nốt khung sương rồi về. Cung này đã được kể chi tiết trong bài [cung Hà Nội Mộc Châu qua quốc lộ 6](/cung-duong/2026/09/28/cung-ha-noi-moc-chau-qua-quoc-lo-6/), kèm bản đồ dòng chảy xe.
 
-Chặng lên có nhiều điểm xăng và quán nghỉ chân quanh các trục sau Hòa Bình, kinh nghiệm chọn điểm dừng đã gom trong bài [điểm xăng và nghỉ chân trên quốc lộ 6](/cung-duong/2026/10/01/o-xang-va-nghi-chan-tren-quoc-lo-6-i-moc-chau-cac-iem-dung/). Cuối năm trời ngắn, lên lịch đổ xăng trước dốc dài, khỏi để xe cạn giữa đèo chiều tối. Ai thuê xe trong thành để đi chuyến này nên đọc [thuê xe máy đi Mộc Châu mấy ngày](/cung-duong/2026/10/07/tu-ha-noi-thue-xe-may-i-moc-chau-nen-i-may-ngay/) trước khi chốt xe.
+Chặng lên có nhiều điểm xăng và quán nghỉ chân quanh các trục sau Hòa Bình, kinh nghiệm chọn điểm dừng đã gom trong bài [điểm xăng và nghỉ chân trên quốc lộ 6](/cung-duong/2026/10/01/do-xang-va-nghi-chan-tren-quoc-lo-6-di-moc-chau-cac-diem-dung/). Cuối năm trời ngắn, lên lịch đổ xăng trước dốc dài, khỏi để xe cạn giữa đèo chiều tối. Ai thuê xe trong thành để đi chuyến này nên đọc [thuê xe máy đi Mộc Châu mấy ngày](/cung-duong/2026/10/07/tu-ha-noi-thue-xe-may-di-moc-chau-nen-di-may-ngay/) trước khi chốt xe.
 
 ## Nghỉ đêm trên cao nguyên mùa lạnh
 
-Nghỉ một đến hai đêm quanh nông trường Mộc Châu là nhịp chuẩn: sáng hôm sau dậy sớm ngắm sương mù trong vườn cải, khung đẹp nhất trong ngày. Homestay và nhà nghỉ quanh khu thường kín chỗ cuối tuần, nên đặt trước cả tuần, kinh nghiệm chọn chỗ nằm đã có trong bài [chạy xe lên Mộc Châu nên nghỉ đêm ở đâu](/cung-duong/2026/10/05/chay-xe-may-len-moc-chau-nen-nghi-em-o-au/). Đêm trên cao nguyên rét hơn lời dự báo, chăn mỏng thì xin thêm chăn dès khi nhận phòng.
+Nghỉ một đến hai đêm quanh nông trường Mộc Châu là nhịp chuẩn: sáng hôm sau dậy sớm ngắm sương mù trong vườn cải, khung đẹp nhất trong ngày. Homestay và nhà nghỉ quanh khu thường kín chỗ cuối tuần, nên đặt trước cả tuần, kinh nghiệm chọn chỗ nằm đã có trong bài [chạy xe lên Mộc Châu nên nghỉ đêm ở đâu](/cung-duong/2026/10/05/chay-xe-may-len-moc-chau-nen-nghi-dem-o-dau/). Đêm trên cao nguyên rét hơn lời dự báo, chăn mỏng thì xin thêm chăn dès khi nhận phòng.
 
 Buổi tối quanh khu thị trấn có các hàng ăn bản địa, ăn sớm rồi về nghỉ, khỏi chạy xe đêm trên đường tỉnh ít đèn. Sáng ngủ dậy để máy xe nổ ổn ở ngoài trời lạnh trước khi lên đường, gương kính lau sạch sương đọng rồi mới chạy.
 
@@ -46,6 +46,6 @@ Giày đi vườn nên đế bám, đất vườn cuối năm ẩm và lối đi
 
 ## Về Hà Nội: lên lịch khung giờ an toàn
 
-Chuyến về nên khởi hành sau ăn trưa, để kịp qua các đoạn đèo trước khi sương muộn buổi chiều buông xuống, kinh nghiệm qua đèo Thung Khe nằm trong bài [đèo Thung Khe chạy xe máy cần thận giọng](/cung-duong/2026/10/09/eo-thung-khe-moc-chau-chay-xe-may-can-than-gi/). Dừng thêm ở Mai Châu cho xe nghỉ máy và người uống nước, rồi chạy chặng còn lại về thành phố trong tối sớm. Ai cân nhắc thời điểm đẹp trong năm để lên Mộc Châu thì bài [tháng mấy chạy xe đi Mộc Châu đẹp nhất](/cung-duong/2026/10/01/thang-may-chay-xe-i-moc-chau-ep-nhat/) xếp sẵn từng mùa.
+Chuyến về nên khởi hành sau ăn trưa, để kịp qua các đoạn đèo trước khi sương muộn buổi chiều buông xuống, kinh nghiệm qua đèo Thung Khe nằm trong bài [đèo Thung Khe chạy xe máy cần thận giọng](/cung-duong/2026/10/09/deo-thung-khe-moc-chau-chay-xe-may-can-than-gi/). Dừng thêm ở Mai Châu cho xe nghỉ máy và người uống nước, rồi chạy chặng còn lại về thành phố trong tối sớm. Ai cân nhắc thời điểm đẹp trong năm để lên Mộc Châu thì bài [tháng mấy chạy xe đi Mộc Châu đẹp nhất](/cung-duong/2026/10/01/thang-may-chay-xe-di-moc-chau-dep-nhat/) xếp sẵn từng mùa.
 
 Chốt lại, hoa cải trắng Mộc Châu tháng 11, 12 xứng đáng với chuyến hai ngày: xuất phát sớm theo quốc lộ 6, đặt homestay trước, ngắm hoa khung chín tới mười sáu giờ, giữ phép với nhà vườn và về qua đèo trước chiều muộn. Lịch đó vừa đủ ngắm trọn mùa hoa trắng cuối năm mà không khiến chặng đường đèo trở thành rủi ro.

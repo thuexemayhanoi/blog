@@ -38,7 +38,7 @@ Chở người ngồi sau thì báo trước mỗi lần giảm tốc, tránh ng
 
 Nếu chỉ cần sang nội đô nhanh và chắc tay, mưa to là lúc Chương Dương hoặc Vĩnh Tuy hợp lý hơn. Chương Dương có mặt bê tông nhựa rộng, không ray, vạch làn rõ; Vĩnh Tuy làn rộng, dải dẫn dài, dễ đọc biển. Cả hai giảm hẳn rủi ro trơn trượt và vắt ray, đổi lại xa hơn chút nếu điểm đến nằm sát phố cổ.
 
-Nhóm mới cầm lái, người chở hàng nặng hoặc chở trẻ nhỏ, ngày mưa to không nên cố qua cầu cũ cho kịp giờ; vòng qua cầu bên cạnh chậm thêm vài phút nhưng đỡ căng hơn nhiều lần. Khi trời tạnh muốn ngắm cầu thì xem bài [ngắm cầu Long Biên lúc bình minh](/du-lich/2026/10/09/ngam-cau-long-bien-luc-binh-minh-bang-xe-may/), còn khung giờ đẹp trong ngày đã kể ở [qua cầu Long Biên lúc nào đẹp nhất](/du-lich/2026/09/30/i-xe-may-qua-cau-long-bien-luc-nao-ep-nhat/).
+Nhóm mới cầm lái, người chở hàng nặng hoặc chở trẻ nhỏ, ngày mưa to không nên cố qua cầu cũ cho kịp giờ; vòng qua cầu bên cạnh chậm thêm vài phút nhưng đỡ căng hơn nhiều lần. Khi trời tạnh muốn ngắm cầu thì xem bài [ngắm cầu Long Biên lúc bình minh](/du-lich/2026/10/09/ngam-cau-long-bien-luc-binh-minh-bang-xe-may/), còn khung giờ đẹp trong ngày đã kể ở [qua cầu Long Biên lúc nào đẹp nhất](/du-lich/2026/09/30/di-xe-may-qua-cau-long-bien-luc-nao-dep-nhat/).
 
 ## Đồ che mưa và giữ tầm nhìn
 

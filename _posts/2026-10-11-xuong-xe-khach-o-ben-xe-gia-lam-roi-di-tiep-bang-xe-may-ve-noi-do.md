@@ -26,13 +26,13 @@ Lối hai là men theo trục lớn lên phía cầu Chương Dương, hợp ai 
 
 Trước tiên kiểm tra đủ đồ: va li, túi nilon buộc trên nóc xe khách hay để dưới gầm ghế là chỗ dễ bỏ sót nhất. Sau đó dời đồ ra khoảng rộng trước bến, chia lại túi cho cân hai bên, túi nặng nhất buộc chặt vào giá sau yên bằng dây chạc, túi nhỏ đeo chéo người để hai tay tự do bám lái.
 
-Nếu chưa có xe máy tại bến, quanh khu Gia Lâm có các điểm cho thuê; kinh nghiệm thuê xe khu này đã kể trong bài [thuê xe máy khu vực Gia Lâm phía đông Hà Nội](/thue-xe/2026/09/29/thue-xe-may-khu-vuc-gia-lam-phia-ong-ha-noi/). Lấy xe xong nổ thử, nghe máy đều, thử phanh và đèn rồi mới chạy ra cổng lớn, vì khúc ra vào bến luôn có dòng xe khách đang cặp lề.
+Nếu chưa có xe máy tại bến, quanh khu Gia Lâm có các điểm cho thuê; kinh nghiệm thuê xe khu này đã kể trong bài [thuê xe máy khu vực Gia Lâm phía đông Hà Nội](/thue-xe/2026/09/29/thue-xe-may-khu-vuc-gia-lam-phia-dong-ha-noi/). Lấy xe xong nổ thử, nghe máy đều, thử phanh và đèn rồi mới chạy ra cổng lớn, vì khúc ra vào bến luôn có dòng xe khách đang cặp lề.
 
 ## Khung giờ kẹt cần né
 
 Giờ tan tầm chiều là khung dở nhất: dòng xe về nội đô dồn ở đầu cầu, xe máy chở đồ khó len giữa làn. Ai xuống xe khách khung này nên chờ ở bến ăn bát phở, đợi qua bảy giờ rồi lên đường, tổng thời gian vẫn ngắn hơn lúc chen trong kẹt. Sáng sớm ngược lại rất thoáng, xe về phố cổ vắng và mát. Trước ngày lễ, khung trưa các bến còn vãn hơn thường lệ vì dòng xe khách giảm, ai xuống được khung này thì đường về gần như trống rỗng cho tới tận cổng phố cổ.
 
-Ngày mưa mọi khung giờ đều chậm hơn, mặt đường quanh bến ngập nhẹ chỗ thấp; ai mang nhiều túi nilon nên bọc kín trước khi lên đường, chạy chậm ở khúc ra cổng vì vệt bánh xe khách trơn. Kinh nghiệm qua cầu Long Biên lúc sáng sớm để về được phố cổ đúng lúc chợ vừa bày đã có trong bài [từ bờ đông sang phố cổ qua cầu Long Biên lúc sáng sớm](/du-lich/2026/10/04/tu-bo-e-sang-pho-co-qua-cau-long-bien-luc-sang-som/).
+Ngày mưa mọi khung giờ đều chậm hơn, mặt đường quanh bến ngập nhẹ chỗ thấp; ai mang nhiều túi nilon nên bọc kín trước khi lên đường, chạy chậm ở khúc ra cổng vì vệt bánh xe khách trơn. Kinh nghiệm qua cầu Long Biên lúc sáng sớm để về được phố cổ đúng lúc chợ vừa bày đã có trong bài [từ bờ đông sang phố cổ qua cầu Long Biên lúc sáng sớm](/du-lich/2026/10/04/tu-bo-de-sang-pho-co-qua-cau-long-bien-luc-sang-som/).
 
 ## Chở hành lý qua cầu cần lưu ý gì
 
@@ -44,13 +44,13 @@ Trên cầu giữ tốc thấp đều, không phanh gấp vì va li phía sau s�
 
 Khu quanh bến đầy quán sáng cho khách vừa xuống xe: bún phở, xôi và cơm rang đều có trong bán kính đi bộ. Ăn ở lại bến còn tiện theo dõi đồ, chọn quán nhìn thấy được chỗ để xe là ổn. Khách đi đêm ăn nhẹ rồi ngủ một giấc trên chuyến thường tìm bát phở nóng đúng lúc xuống xe, quán quanh bến mở sớm nhất khu.
 
-Ai xuống xe khuya, nhiều bến vắng người, đừng chần chừ khu vực tối: nhận xe xong lên đường ngay theo lối sáng đèn, hoặc chờ nhóm khách cùng chuyến đi một đoạn cho qua khúc vắng rồi mới tách. Kinh nghiệm chạy đêm quanh khu chợ đêm Long Biên đã kể trong bài [đêm chợ đêm Long Biên: khung giờ và gửi xe](/du-lich/2026/10/10/en-cho-em-long-bien-bang-xe-may-khung-gio-va-gui-xe/).
+Ai xuống xe khuya, nhiều bến vắng người, đừng chần chừ khu vực tối: nhận xe xong lên đường ngay theo lối sáng đèn, hoặc chờ nhóm khách cùng chuyến đi một đoạn cho qua khúc vắng rồi mới tách. Kinh nghiệm chạy đêm quanh khu chợ đêm Long Biên đã kể trong bài [đêm chợ đêm Long Biên: khung giờ và gửi xe](/du-lich/2026/10/10/den-cho-dem-long-bien-bang-xe-may-khung-gio-va-gui-xe/).
 
 ## Ghé gì ven đường trước khi về
 
-Ai xuống xe sáng sớm còn kịp một vòng chợ đầu mối Long Biên, nơi nông sản về từ mọi hướng; cách đi, giờ vào và chỗ gửi xe đã có trong bài [sáng sớm ở chợ đầu mối Long Biên](/du-lich/2026/10/01/sang-som-o-cho-au-moi-long-bien-i-xe-may-va-gui-xe/). Chợ cách bến chỉ vài phút chạy xe, mua được hoa quả tươi giá gốc mang về cùng chuyến.
+Ai xuống xe sáng sớm còn kịp một vòng chợ đầu mối Long Biên, nơi nông sản về từ mọi hướng; cách đi, giờ vào và chỗ gửi xe đã có trong bài [sáng sớm ở chợ đầu mối Long Biên](/du-lich/2026/10/01/sang-som-o-cho-dau-moi-long-bien-di-xe-may-va-gui-xe/). Chợ cách bến chỉ vài phút chạy xe, mua được hoa quả tươi giá gốc mang về cùng chuyến.
 
-Người có giờ rảnh hơn thì ghé đoạn đường ven sông phía bờ bắc, dải đê rộng nhìn thẳng sang phố cổ; bài [đường ven sông từ Long Biên chạy buổi sáng](/cung-duong/2026/10/10/cung-uong-ven-song-uong-tu-long-bien-chay-xe-buoi-sang/) gợi ý chỗ dừng chụp ảnh trước khi lên cầu.
+Người có giờ rảnh hơn thì ghé đoạn đường ven sông phía bờ bắc, dải đê rộng nhìn thẳng sang phố cổ; bài [đường ven sông từ Long Biên chạy buổi sáng](/cung-duong/2026/10/10/cung-duong-ven-song-duong-tu-long-bien-chay-xe-buoi-sang/) gợi ý chỗ dừng chụp ảnh trước khi lên cầu.
 
 Ngày nắng gắt giữa hè, va li màu tối và can nhựa rất nhanh nóng: chèn thêm một lớp khăn giữa đồ và dây buộc, đỗ xe chỗ bóng cây khi dừng nghỉ. Khách mang quà cho người thân cũng nên bọc thêm màng mềm quanh các góc va li, khúc ghép đường lên cầu sẽ gõ vào hành lý nhiều hơn tưởng thấy.
 

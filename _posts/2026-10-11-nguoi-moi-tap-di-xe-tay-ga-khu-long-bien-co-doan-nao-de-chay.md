@@ -20,7 +20,7 @@ Tập xe tay ga ở Long Biên là lựa chọn hợp lý hơn nhiều khu phố
 
 Long Biên nằm ven sông, có dải đê dài chạy suốt tuyến và các đường gom rộng dưới chân cầu, mặt đường phẳng, vạch kẻ rõ. Khác với phố cổ, nơi ba bước lại một ngã tư và đầy người đi bộ, các tuyến quanh khu này có đoạn dài cả cây số không một điểm cắt, cho người mới thời gian luyện giữ thăng bằng, chuyển làn và phanh mà không bị dòng xe dồn ép. Bãi đỗ xe rộng quanh các trung thương mại khu này cũng là lớp sân tập thực tế trước khi ra đường.
 
-Ai chưa có xe có thể thuê xe máy khu Long Biên để tập, xe tay ga phổ biến, dễ bắt xe đời còn mới; xem [thuê xe máy khu Long Biên](/thue-xe/2026/10/11/thue-xe-may-khu-long-bien-tien-qua-song-va-uong-tinh/) trước khi quyết định. Tập với xe thuê cũng giúp biết loại xe nào hợp tay mình trước khi mua, vì mỗi dòng ga có độ nặng nhẹ khác nhau.
+Ai chưa có xe có thể thuê xe máy khu Long Biên để tập, xe tay ga phổ biến, dễ bắt xe đời còn mới; xem [thuê xe máy khu Long Biên](/thue-xe/2026/10/11/thue-xe-may-khu-long-bien-tien-qua-song-va-duong-tinh/) trước khi quyết định. Tập với xe thuê cũng giúp biết loại xe nào hợp tay mình trước khi mua, vì mỗi dòng ga có độ nặng nhẹ khác nhau.
 
 ## Đường rộng ít xe để tập xe máy: những đoạn gợi ý
 
@@ -40,9 +40,9 @@ Buổi đầu ai cũng gặp mấy lỗi y nhau: nhìn xuống bánh xe thay vì
 
 ## Đoạn nào người mới nên tránh
 
-Hai đầu cầu Long Biên và dốc dẫn lên cầu không phải chỗ cho buổi đầu: dòng xe dồn, có xe bus chuyển làn, mặt cầu có ray và các tấm ghép. Chưa quen tay mà bị dồn giữa dòng trên dốc là trải nghiệm dễ làm nản người mới. Ngã tư Trâu Quỳ và các nút giao trên đường 5 quanh Gia Lâm cũng đông xe tải container, không hợp những buổi đầu tập; chi tiết chạy quanh khu này nằm trong bài [chạy xe máy cạnh xe tải ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-iem-mu/).
+Hai đầu cầu Long Biên và dốc dẫn lên cầu không phải chỗ cho buổi đầu: dòng xe dồn, có xe bus chuyển làn, mặt cầu có ray và các tấm ghép. Chưa quen tay mà bị dồn giữa dòng trên dốc là trải nghiệm dễ làm nản người mới. Ngã tư Trâu Quỳ và các nút giao trên đường 5 quanh Gia Lâm cũng đông xe tải container, không hợp những buổi đầu tập; chi tiết chạy quanh khu này nằm trong bài [chạy xe máy cạnh xe tải ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-diem-mu/).
 
-Nội dung chọn cầu khi đã ổn tay hơn cũng nên đọc trước ở bài [chọn cầu Long Biên, Chương Dương hay Vĩnh Tuy](/du-lich/2026/10/11/tu-long-bien-sang-noi-o-chon-cau-long-bien-chuong-duong-hay-vinh-tuy/), vì buổi đầu ra nội đô gần như chắc chắn sẽ qua một trong ba cây cầu này, biết trước cho đỡ bỡ ngỡ.
+Nội dung chọn cầu khi đã ổn tay hơn cũng nên đọc trước ở bài [chọn cầu Long Biên, Chương Dương hay Vĩnh Tuy](/du-lich/2026/10/11/tu-long-bien-sang-noi-do-chon-cau-long-bien-chuong-duong-hay-vinh-tuy/), vì buổi đầu ra nội đô gần như chắc chắn sẽ qua một trong ba cây cầu này, biết trước cho đỡ bỡ ngỡ.
 
 ## Chuẩn bị xe và đồ bảo hộ trước buổi tập
 

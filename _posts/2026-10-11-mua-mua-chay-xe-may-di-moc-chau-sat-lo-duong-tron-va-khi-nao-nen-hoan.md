@@ -32,7 +32,7 @@ Cua đèo mùa mưa có dòng nước chảy ngang mặt đường, nước cu�
 
 Dấu hiệu cần cảnh giác trên quốc lộ mùa mưa: đất đá lăn xuống ven đường, cột mốc nghiêng, ăng ten điện cỏ rậm ngập ven dốc, và những đoạn có rào chắn mới dựng. Gặp các đoạn treo biển cảnh báo sạt lở, đi qua không dừng chụp, giữ khoảng cách với xe phía trước vì bụi đất mùa mưa làm che tầm nhìn. Nếu gặp phong tỏa tại chỗ, chấp nhận quay đầu theo hướng chỉ dẫn, đừng vòng qua rào chắn theo lối mòn: các vệt sau lở chưa ổn định.
 
-Ba tình huống nên dừng hẳn chuyến: mưa to kèm sương mù dày trên đèo, tin sạt lở lớn trên tuyến định đi, và cấp báo lũ quét ở các thung lũng suối. Khi dừng, nên chọn phố huyện có chỗ nghỉ an toàn thay vì đứng ven đèo; các điểm dừng ven tuyến đã có trong bài [điểm xăng và nghỉ chân trên quốc lộ 6](/cung-duong/2026/10/01/o-xang-va-nghi-chan-tren-quoc-lo-6-i-moc-chau-cac-iem-dung/). Lưu ý đoạn sau Xuân Mai thường dễ ngập và trơn vào mùa mưa, chi tiết đã kể trong bài [chặng quốc lộ 6 sau Xuân Mai](/cung-duong/2026/10/09/chang-quoc-lo-6-sau-xuan-mai-chay-xe-may-luu-y-gi/).
+Ba tình huống nên dừng hẳn chuyến: mưa to kèm sương mù dày trên đèo, tin sạt lở lớn trên tuyến định đi, và cấp báo lũ quét ở các thung lũng suối. Khi dừng, nên chọn phố huyện có chỗ nghỉ an toàn thay vì đứng ven đèo; các điểm dừng ven tuyến đã có trong bài [điểm xăng và nghỉ chân trên quốc lộ 6](/cung-duong/2026/10/01/do-xang-va-nghi-chan-tren-quoc-lo-6-di-moc-chau-cac-diem-dung/). Lưu ý đoạn sau Xuân Mai thường dễ ngập và trơn vào mùa mưa, chi tiết đã kể trong bài [chặng quốc lộ 6 sau Xuân Mai](/cung-duong/2026/10/09/chang-quoc-lo-6-sau-xuan-mai-chay-xe-may-luu-y-gi/).
 
 ## Chuẩn bị xe và đồ cho ngày mưa
 

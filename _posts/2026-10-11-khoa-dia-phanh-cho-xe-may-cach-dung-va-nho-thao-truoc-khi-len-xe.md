@@ -44,7 +44,7 @@ Ba thói quen nhỏ gần như triệt tiêu rủi ro này. Một, đặt khóa 
 
 ## Gửi xe qua đêm với một lớp khóa phụ
 
-Khóa đĩa phát huy tác dụng nhất khi bạn gửi xe qua đêm ngoài khu vực quen thuộc, ví dụ khi chạy một vòng quanh Hồ Tây rồi vào ăn uống lâu hơn dự kiến, cách chọn chỗ và giữ vé khi đó đã được nói tới trong bài [chạy vòng Hồ Tây, điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/). Lúc ấy, chiếc khóa nhỏ trong cốp là sự an tâm đáng đồng tiền.
+Khóa đĩa phát huy tác dụng nhất khi bạn gửi xe qua đêm ngoài khu vực quen thuộc, ví dụ khi chạy một vòng quanh Hồ Tây rồi vào ăn uống lâu hơn dự kiến, cách chọn chỗ và giữ vé khi đó đã được nói tới trong bài [chạy vòng Hồ Tây, điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-duong-chay-quanh-ho-tay-diem-dung-va-cho-gui-xe/). Lúc ấy, chiếc khóa nhỏ trong cốp là sự an tâm đáng đồng tiền.
 
 Nếu bạn còn mới với việc giữ xe ở Hà Nội, nên đọc lướt qua mục [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/) để nắm các thói quen nền tảng, từ giữ vé đến chọn bãi. Còn với thắc mắc có nên trang bị thêm cho chuyến đi dài, các bài trong [chuyên mục kỹ năng](/ky-nang/) có nhiều gợi ý phù hợp từng kiểu hành trình.
 

@@ -32,7 +32,7 @@ Dốc lên xuống các lối mở đê cũng là chỗ hai xe hở nhau: xe s�
 
 ## Chở đồ đi làng nghề
 
-Đi làng nghề thường mua nhiều: gốm từ Bát Tràng, bánh, cây cảnh nhỏ. Xe số với giá sau chắc là lựa chọn chở bao, sọt tốt hơn, nhờ trọng tâm thấp và khung chịu được dây siết. Xe ga mạnh về cốp: đồ dễ vỡ, gốm nhỏ đựng trong cốp êm hơn hẳn treo ngoài. Ai định đi Bát Tràng mua gốm thì xem trước bài [làng gốm Bát Tràng từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-uong-i-va-gui-xe/) để canh chỗ gửi xe và khung giờ.
+Đi làng nghề thường mua nhiều: gốm từ Bát Tràng, bánh, cây cảnh nhỏ. Xe số với giá sau chắc là lựa chọn chở bao, sọt tốt hơn, nhờ trọng tâm thấp và khung chịu được dây siết. Xe ga mạnh về cốp: đồ dễ vỡ, gốm nhỏ đựng trong cốp êm hơn hẳn treo ngoài. Ai định đi Bát Tràng mua gốm thì xem trước bài [làng gốm Bát Tràng từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-duong-di-va-gui-xe/) để canh chỗ gửi xe và khung giờ.
 
 Chở người ngồi sau phần lớn hành trình thì Vision nhỉnh: yên dài, bậc chân rộng, người ngồi khỏi mỏi qua các đoạn xóc. Chở hàng nặng chặng ngắn thì Wave gọn và nhẹ việc kéo xe. Trời mưa phùn, túi nhỏ để vào cốp xe ga còn nhanh hơn buộc ngoài, đồ khỏi ướt dính bụi đường.
 
@@ -46,6 +46,6 @@ Xóc của xe số truyền thẳng lên người trên đường đá dăm, ch�
 
 Người quen xe số từ nhỏ sẽ thấy Wave uyển chuyển trên mọi ngõ làng, đổi sang tay ga ban đầu dễ rít ga vì quen giật côn. Người chỉ lái tay ga thì thấy ngược lại, xe số khiến tay chân rối trên đường nhiều ngã tư. Kinh nghiệm phổ biến: chọn xe mình đã quen, vì đường làng đòi hỏi phản xạ hơn lực máy, tay lái quen loại nào thì loại đó xử lý gờ và cát tốt hơn.
 
-Ai chưa có xe và muốn thử cung đường làng trước khi mua thì dịch vụ [thuê xe máy khu vực Gia Lâm](/thue-xe/2026/09/29/thue-xe-may-khu-vuc-gia-lam-phia-ong-ha-noi/) cho thử cả hai loại trong một ngày. Trước mỗi chuyến đường làng, kiểm tra lốp và phanh của cả hai dòng xe: lốp non làm xe số đập gờ đau tay hơn, còn xe ga non lốp thì giảm xóc làm việc nặng, mau hỏng. Đèn và còi cũng cần thử, vì ngõ làng nhiều khúc quanh khuất, tiếng còi là tín hiệu duy nhất báo cho người đi ngược trong ngõ hẹp. Bảo dưỡng nhỏ này chỉ mất vài phút ở xưởng gần nhà mà bớt rủi ro cho cả chuyến.
+Ai chưa có xe và muốn thử cung đường làng trước khi mua thì dịch vụ [thuê xe máy khu vực Gia Lâm](/thue-xe/2026/09/29/thue-xe-may-khu-vuc-gia-lam-phia-dong-ha-noi/) cho thử cả hai loại trong một ngày. Trước mỗi chuyến đường làng, kiểm tra lốp và phanh của cả hai dòng xe: lốp non làm xe số đập gờ đau tay hơn, còn xe ga non lốp thì giảm xóc làm việc nặng, mau hỏng. Đèn và còi cũng cần thử, vì ngõ làng nhiều khúc quanh khuất, tiếng còi là tín hiệu duy nhất báo cho người đi ngược trong ngõ hẹp. Bảo dưỡng nhỏ này chỉ mất vài phút ở xưởng gần nhà mà bớt rủi ro cho cả chuyến.
 
 Chốt lại, Wave hợp ai cần gọn, tiết kiệm, chở khối; Vision hợp ai cần êm, chở người, đi đê dài. Đường làng quanh Gia Lâm hai xe đều đi được, chỉ là mỗi dòng xe hợp một kiểu tay lái và một kiểu chuyến đi khác nhau.

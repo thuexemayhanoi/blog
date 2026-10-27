@@ -32,7 +32,7 @@ Ngồi sau cũng cần bộ che như người lái, đặc biệt trẻ nhỏ đ
 
 Dải ven sông phía Long Biên nhiều bóng cây đầu đê, ghế đá râm mát là chỗ nghỉ quen của tài xế chặng này: ngâm mình trong bóng mát mười phút uống hết chai nước, thân nhiệt xuống rõ. Các trạm xăng lớn trên trục quốc lộ 5 có mái hiên rộng và nước mát, hợp dừng kiểm tra lốp và nạp lại nước cho cả người lẫn xe tạm bợ.
 
-Quanh khu AEON Long Biên và các trung tâm thương mại phía bờ bắc là điểm nghỉ dài hợp lý giữa buổi: gửi xe dưới mái, vào hưởng mát một tiếng, ra tiếp chuyến sau ba giờ như mới. Kinh nghiệm vào hầm gửi xe khu này đã kể trong bài [AEON Mall Long Biên bằng xe máy](/du-lich/2026/10/11/aeon-mall-long-bien-bang-xe-may-uong-i-va-vao-ham-gui-xe/), trưa hè thì càng nên theo đúng lối hai bánh cho nhanh.
+Quanh khu AEON Long Biên và các trung tâm thương mại phía bờ bắc là điểm nghỉ dài hợp lý giữa buổi: gửi xe dưới mái, vào hưởng mát một tiếng, ra tiếp chuyến sau ba giờ như mới. Kinh nghiệm vào hầm gửi xe khu này đã kể trong bài [AEON Mall Long Biên bằng xe máy](/du-lich/2026/10/11/aeon-mall-long-bien-bang-xe-may-duong-di-va-vao-ham-gui-xe/), trưa hè thì càng nên theo đúng lối hai bánh cho nhanh.
 
 Các quán nước ven đường làng quanh Gia Lâm cũng là lớp nghỉ mát quen thuộc: mái tôn thấp, ghế nhựa, ly trà đá cùng giá ngồi bao lâu cũng được, người chủ quen khách qua đường còn chỉ giúp đoạn đường phía trước đang đào hay kẹt. Nghỉ ở quán nhỏ có lợi là xe đậu ngay trong bóng râm, nạp nước cho mình thì cũng che được yên xe khỏi phơi, một công đôi việc giữa trưa nắng gắt.
 

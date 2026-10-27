@@ -22,7 +22,7 @@ Từ khu Long Biên, chạy về phía cầu Đuống, qua cầu là vào địa
 
 Người xuất phát từ nội đô có thể qua cầu Long Biên hoặc cầu Vĩnh Tuy rồi nhập về trục quốc lộ 5, tổng thời gian từ khu Hồ Gươm chừng ba mươi phút nếu đi khung vắng. Trục quốc lộ đông xe công vụ vào giờ tan tầm, nên ai đi lễ ngày rằm nên xuất phát sớm hơn khung dự kiến, vừa tránh kẹt vừa kịp giờ vào đền khi còn mát.
 
-Đoạn rẽ từ quốc lộ vào đền đi qua đường liên xã, hai bên là vườn và ruộng, chạy chậm sẽ thấy biển dẫn từ xa. Vào mùa đào, đoạn đường này rợp vườn đào Phù Đổng, dừng xe chụp ảnh vài phút cũng là một phần thú vị của chuyến đi; kinh nghiệm chạy xe mùa đào đã có trong bài [chạy xe máy đến vườn đào Phù Đổng mùa Tết](/du-lich/2026/10/09/chay-xe-may-en-vuon-ao-phu-ong-mua-tet/).
+Đoạn rẽ từ quốc lộ vào đền đi qua đường liên xã, hai bên là vườn và ruộng, chạy chậm sẽ thấy biển dẫn từ xa. Vào mùa đào, đoạn đường này rợp vườn đào Phù Đổng, dừng xe chụp ảnh vài phút cũng là một phần thú vị của chuyến đi; kinh nghiệm chạy xe mùa đào đã có trong bài [chạy xe máy đến vườn đào Phù Đổng mùa Tết](/du-lich/2026/10/09/chay-xe-may-den-vuon-dao-phu-dong-mua-tet/).
 
 ## Thời điểm nên đến đền
 
@@ -46,10 +46,10 @@ Sát đền là dải vườn và ruộng cạn, buổi sớm sương giăng tr�
 
 Xe cần kiểm tra trước khi ra đi: xăng đủ cho khứ hồi qua quốc lộ, lốp non bơm căng, phanh nhạy, đèn sáng cho ai về khuya. Mang theo chai nước và khăn ướt, vì quanh đền ít hàng quán hơn trong nội đô; nếu định ghép thêm làng nghề cùng ngày thì xuất phát với bình xăng dư là nhất. Ai đi theo nhóm hẹn tập trung tại bãi gửi xe, người đi trước vào lễ trước rồi chờ ở hành lang, khỏi nhắn qua lại giữa vùng thỉnh thoảng chập chờn sóng.
 
-Người ở xa không có sẵn xe thì có thể đặt thuê tại khu Long Biên, tiện xuất phát luôn từ phía bờ bắc; các gợi ý quanh khu được gộp trong bài [các làng nghề gần Hà Nội chạy xe nửa ngày](/du-lich/2026/09/28/gia-lam-va-cac-lang-nghe-gan-o-chay-xe-nua-ngay/).
+Người ở xa không có sẵn xe thì có thể đặt thuê tại khu Long Biên, tiện xuất phát luôn từ phía bờ bắc; các gợi ý quanh khu được gộp trong bài [các làng nghề gần Hà Nội chạy xe nửa ngày](/du-lich/2026/09/28/gia-lam-va-cac-lang-nghe-gan-do-chay-xe-nua-ngay/).
 
 ## Ghép thêm các điểm ven Gia Lâm
 
-Cùng ngày nên ghép làng gốm Bát Tràng, đường từ Phù Đổng sang thẳng và vắng xe, ghé xem lò gốm rồi mới về; cách đi và chỗ gửi xe đã có trong bài [làng gốm Bát Tràng từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-uong-i-va-gui-xe/). Lượt về chạy men theo [đường ven sông từ Long Biên](/cung-duong/2026/10/10/cung-uong-ven-song-uong-tu-long-bien-chay-xe-buoi-sang/), tản bộ trên đê lúc chiều tà là cách gói chuyến đi trọn vẹn. Lượt về nên tránh khung tan tầm trên quốc lộ; nếu trễ, dừng quán nước ven đường chờ dòng xe tải đi bớt rồi mới nhập làn, và bật đèn từ lúc trời nhá nhem vì đường liên xã thưa cột đèn.
+Cùng ngày nên ghép làng gốm Bát Tràng, đường từ Phù Đổng sang thẳng và vắng xe, ghé xem lò gốm rồi mới về; cách đi và chỗ gửi xe đã có trong bài [làng gốm Bát Tràng từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-duong-di-va-gui-xe/). Lượt về chạy men theo [đường ven sông từ Long Biên](/cung-duong/2026/10/10/cung-duong-ven-song-duong-tu-long-bien-chay-xe-buoi-sang/), tản bộ trên đê lúc chiều tà là cách gói chuyến đi trọn vẹn. Lượt về nên tránh khung tan tầm trên quốc lộ; nếu trễ, dừng quán nước ven đường chờ dòng xe tải đi bớt rồi mới nhập làn, và bật đèn từ lúc trời nhá nhem vì đường liên xã thưa cột đèn.
 
 Tóm lại, một sáng sớm xuất phát, đúng lối rẽ từ quốc lộ 5, đồ dâng gọn nhẹ và một điểm ghép ven đường là đủ bộ ba cho chuyến đền Phù Đổng bằng xe máy trọn vẹn mà không bị vội.

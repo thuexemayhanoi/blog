@@ -20,7 +20,7 @@ Chở hoa quả chợ Long Biên về nhà bằng xe máy là bài toán xếp �
 
 Quy tắc đầu tiên nên nhớ từ khi còn trong chợ: mua nặng trước, nhẹ sau. Sọt cam, dưa hấu, mía những món đè được mua trước để nằm tầng dưới cùng; chuối, xoài chín, cà chua mua sau cùng và chỉ lên tầng trên. Nhờ người bán chia sẵn từng túi theo bữa ngay tại quầy còn nhanh hơn về nhà tự sắp lại giữa xe, nên cứ nhờ quán đựng riêng từng loại thay vì gom một túi lớn đựng chung.
 
-Chợ đầu mối mở từ rất sớm, ai mua sỉ hoặc mua nhiều thì đi khung trước tám giờ, lúc hàng còn đẹp và lối đi quanh các dãy sọt chưa chật. Khung giờ này đã kể kỹ trong bài [sáng sớm ở chợ đầu mối Long Biên](/du-lich/2026/10/01/sang-som-o-cho-au-moi-long-bien-i-xe-may-va-gui-xe/), còn ai chỉ ghé mua lẻ buổi chiều thì xem [chợ đầu mối Long Biên lúc mấy giờ](/du-lich/2026/10/09/cho-au-moi-long-bien-i-xe-may-luc-may-gio/) để canh khung hàng chót giá mềm.
+Chợ đầu mối mở từ rất sớm, ai mua sỉ hoặc mua nhiều thì đi khung trước tám giờ, lúc hàng còn đẹp và lối đi quanh các dãy sọt chưa chật. Khung giờ này đã kể kỹ trong bài [sáng sớm ở chợ đầu mối Long Biên](/du-lich/2026/10/01/sang-som-o-cho-dau-moi-long-bien-di-xe-may-va-gui-xe/), còn ai chỉ ghé mua lẻ buổi chiều thì xem [chợ đầu mối Long Biên lúc mấy giờ](/du-lich/2026/10/09/cho-dau-moi-long-bien-di-xe-may-luc-may-gio/) để canh khung hàng chót giá mềm.
 
 ## Xếp đồ mua chợ lên xe máy theo tầng
 
@@ -40,7 +40,7 @@ Túi xốp dày giữ form tốt hơn túi nilon mỏng, loại mỏng dễ rác
 
 Khu chợ sát các trục lớn, giờ tan chợ có nhiều xe ba gác chở sọt chạy theo dòng, khoảng cách giữa các xe ngắn bất thường. Chở đầy đồ thì phanh xe nặng hơn hẳn ngày thường, nên buông ga sớm từ xa thay vì phanh mạnh trước ngã tư. Qua các gờ đường và miệng cống quanh khu chợ, đỡ xe bằng chân, cho xe bò qua thay vì giữ ga lướt qua: mỗi cú va lên gờ truyền thẳng vào các tầng túi phía trên.
 
-Chở rau nhiều thì tránh giờ nắng gắt mùa hè, rau nằm trong cốp hoặc túi kín chỉ chịu được chặng ngắn, chặng xa quá là héo rũ trước khi về tới nhà. Ai định ghép chợ đêm vào chuyến thì khung giờ và chỗ gửi xe đã có trong bài [đến chợ đêm Long Biên](/du-lich/2026/10/10/en-cho-em-long-bien-bang-xe-may-khung-gio-va-gui-xe/); chợ đêm bán đồ ăn là chính, mua rau quả vẫn nên canh buổi sớm. Người chưa có xe phù hợp chở nặng tham khảo thêm [thuê xe máy khu Long Biên](/thue-xe/2026/10/11/thue-xe-may-khu-long-bien-tien-qua-song-va-uong-tinh/) trước khi quyết định mua sỉ cả sọt.
+Chở rau nhiều thì tránh giờ nắng gắt mùa hè, rau nằm trong cốp hoặc túi kín chỉ chịu được chặng ngắn, chặng xa quá là héo rũ trước khi về tới nhà. Ai định ghép chợ đêm vào chuyến thì khung giờ và chỗ gửi xe đã có trong bài [đến chợ đêm Long Biên](/du-lich/2026/10/10/den-cho-dem-long-bien-bang-xe-may-khung-gio-va-gui-xe/); chợ đêm bán đồ ăn là chính, mua rau quả vẫn nên canh buổi sớm. Người chưa có xe phù hợp chở nặng tham khảo thêm [thuê xe máy khu Long Biên](/thue-xe/2026/10/11/thue-xe-may-khu-long-bien-tien-qua-song-va-duong-tinh/) trước khi quyết định mua sỉ cả sọt.
 
 ## Về tới nhà: tháo đồ đúng lúc
 

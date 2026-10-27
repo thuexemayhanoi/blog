@@ -30,7 +30,7 @@ Lối vào chợ nhỏ hẹp hơn mặt đường chính, nên từ hướng c�
 
 Tuyệt đối đừng bám sát sau xe tải đang lùi hoặc đang đổ hàng: điểm mù của tài xế rất lớn, và mép đường đầy thùng hàng lăn ra ngoài. Xe máy đi sát lề, nhường giữa đường cho xe tải xoay, coi như luật bất thành văn của chợ đầu mối.
 
-Nếu chưa quen khu này, ghé [đền và chợ em Long Biên với khung giờ và gửi xe](/du-lich/2026/10/10/en-cho-em-long-bien-bang-xe-may-khung-gio-va-gui-xe/) trước, xác định phương hướng, rồi mới quay lại chợ đầu mối; hai điểm cách nhau không xa.
+Nếu chưa quen khu này, ghé [đền và chợ em Long Biên với khung giờ và gửi xe](/du-lich/2026/10/10/den-cho-dem-long-bien-bang-xe-may-khung-gio-va-gui-xe/) trước, xác định phương hướng, rồi mới quay lại chợ đầu mối; hai điểm cách nhau không xa.
 
 ## Chỗ dừng xe và một vòng chợ
 
