@@ -34,7 +34,7 @@ Vài thói quen giúp ga ổn định hơn:
 - Gặp nền gạch lồi lõm hay nắp cống, giữ nguyên ga để giảm xóc làm việc, đừng thả ga rồi vặn lại giữa chừng.
 - Gác hờ ngón trỏ và ngón giữa lên cả hai tay phanh để phản ứng kịp.
 
-Nếu bạn đã giữ ga êm tay mà xe vẫn ì rồi vọt bất thường, hãy xem [dấu hiệu cần kiểm tra khi xe tay ga khó giữ ga đều lúc bò chậm](/xe-may/2026/10/11/xe-tay-ga-kho-giu-ga-eu-khi-bo-cham-dau-hieu-can-kiem-tra/) để biết lỗi nằm ở tay lái hay ở xe.
+Nếu bạn đã giữ ga êm tay mà xe vẫn ì rồi vọt bất thường, hãy xem [dấu hiệu cần kiểm tra khi xe tay ga khó giữ ga đều lúc bò chậm](/xe-may/2026/10/11/xe-tay-ga-kho-giu-ga-deu-khi-bo-cham-dau-hieu-can-kiem-tra/) để biết lỗi nằm ở tay lái hay ở xe.
 
 ## Phanh sau là cần ga thứ hai
 
@@ -88,6 +88,6 @@ Nếu một lần chưa đủ chỗ, đừng cố. Dừng, đẩy xe lùi một 
 
 Cách nhanh nhất để quen xe là tập trước ở chỗ vắng, chứ đừng học trong ngõ có người qua lại. Đặt hai chiếc hộp giấy cách nhau hơi hẹp, rồi tập chạy qua thật chậm, dừng giữa chừng và quay đầu. Vài lượt là tay phải quen giữ ga, tay trái quen phanh sau.
 
-Khi vào ngõ thật, hãy dừng ở đầu ngõ một nhịp để nhìn hết lối đi. Việc giữ khoảng cách khi ra phố đông được nói kỹ trong bài [mẹo lái xe ga giữ an toàn trong phố đông](/xe-may/2026/09/27/lai-xe-ga-trong-pho-ong-meo-giu-an-toan/), còn nếu còn phân vân chọn dòng xe cho khu nhà trọ, bài [thuê xe tay ga hợp với ai](/chia%20s%E1%BA%BB/2026/09/18/thue-xe-tay-ga-o-ha-noi-phu-hop-voi-ai/) sẽ giúp bạn cân nhắc.
+Khi vào ngõ thật, hãy dừng ở đầu ngõ một nhịp để nhìn hết lối đi. Việc giữ khoảng cách khi ra phố đông được nói kỹ trong bài [mẹo lái xe ga giữ an toàn trong phố đông](/xe-may/2026/09/27/lai-xe-ga-trong-pho-dong-meo-giu-an-toan/), còn nếu còn phân vân chọn dòng xe cho khu nhà trọ, bài [thuê xe tay ga hợp với ai](/chia%20s%E1%BA%BB/2026/09/18/thue-xe-tay-ga-o-ha-noi-phu-hop-voi-ai/) sẽ giúp bạn cân nhắc.
 
 Nguyên tắc gói gọn trong ba ý: ga đều, phanh sau, nhìn vào khoảng trống chứ không nhìn vào vật cản. Các bài cùng chủ đề nằm ở [chuyên mục xe tay ga](/xe-may/xe-ga/), còn góc nhìn rộng hơn về xe máy ở Hà Nội có tại [mục xe máy](/xe-may/). Nếu cần một chiếc xe ga vừa tay để thử, bạn có thể hỏi Nguyễn Tú qua số 0942 467 674 trong giờ 09:00–21:00.

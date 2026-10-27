@@ -34,7 +34,7 @@ Biển số nằm phía sau xe, nên khi xe đỗ sát tường thì khó nhìn.
 
 Xe thuê là tài sản của chủ xe, nên mọi cách đánh dấu đều phải xin phép trước, chỉ ở dạng tạm thời và tháo ra khi trả xe. Đừng tự dán miếng dán, vẽ bút lông, khắc hay tháo bộ phận nào "cho dễ nhớ". Hãy nói rõ với chủ xe số xe cả nhóm cần và hỏi cách đánh dấu nào được chấp nhận. Bạn cũng có thể hỏi còn xe khác màu để xếp xen kẽ không, tùy xe sẵn có.
 
-Nếu nhóm không bắt buộc phải cùng một dòng, trộn thêm vài chiếc khác dòng như Honda Click cũng tự tạo ra khác biệt dễ nhận. Bài [so sánh Wave và Click ở cùng mức giá thuê](/xe-may/2026/10/11/cung-gia-150000-moi-ngay-nen-thue-honda-wave-hay-honda-click/) sẽ giúp bạn cân nhắc.
+Nếu nhóm không bắt buộc phải cùng một dòng, trộn thêm vài chiếc khác dòng như Honda Click cũng tự tạo ra khác biệt dễ nhận. Bài [so sánh Wave và Click ở cùng mức giá thuê](/xe-may/2026/10/11/cung-gia-150000d-moi-ngay-nen-thue-honda-wave-hay-honda-click/) sẽ giúp bạn cân nhắc.
 
 Khi chủ xe đồng ý, hãy chọn cách nhẹ nhàng:
 
@@ -65,7 +65,7 @@ Trước khi cắm chìa lấy xe, hãy làm ba bước, chỉ mất vài giây:
 
 Cách gọn nhất là một tin nhắn ghim trong nhóm, mỗi dòng ứng với một người, chẳng hạn "Hoa: biển cuối 47, dây xanh, móc chìa xanh". Khi nhóm đổi xe hay đổi người cầm xe, hãy sửa bảng ngay. Khi một người dừng giữa đường vì xe có vấn đề, cả nhóm biết ngay đó là xe nào, của ai, để liên hệ chủ xe nhanh hơn.
 
-Nếu trong nhóm có người lần đầu chạy xe số, hãy xếp bạn ấy gần người dẫn đường. Bài về [những điều người mới cần làm quen khi lái Wave](/xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-ieu-khien-khong/) nói rõ hơn phần này.
+Nếu trong nhóm có người lần đầu chạy xe số, hãy xếp bạn ấy gần người dẫn đường. Bài về [những điều người mới cần làm quen khi lái Wave](/xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-dieu-khien-khong/) nói rõ hơn phần này.
 
 ## Lỡ lấy nhầm xe thì làm gì
 

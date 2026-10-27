@@ -20,7 +20,7 @@ Bài này đi theo một ngày đi xe, từ lúc nhận xe tới lúc trả xe, 
 
 ## Sáng nhận xe: đừng nhét đồ vào cốp theo phản xạ
 
-Người mới thuê xe ga thường coi cốp là cái túi thứ hai. Cốp nằm ngay dưới yên, mở ra là bỏ vừa, nên cứ thế nhét vào. Chuyện chứa được bao nhiêu bạn có thể xem ở bài về [cốp Vision thuê chứa vừa những món nào](/xe-may/2026/10/09/cop-honda-vision-thue-chua-uoc-nhung-gi/). Bài này bàn chuyện khác: món nào nên ở trong cốp khi xe đỗ ngoài nắng.
+Người mới thuê xe ga thường coi cốp là cái túi thứ hai. Cốp nằm ngay dưới yên, mở ra là bỏ vừa, nên cứ thế nhét vào. Chuyện chứa được bao nhiêu bạn có thể xem ở bài về [cốp Vision thuê chứa vừa những món nào](/xe-may/2026/10/09/cop-honda-vision-thue-chua-duoc-nhung-gi/). Bài này bàn chuyện khác: món nào nên ở trong cốp khi xe đỗ ngoài nắng.
 
 Trước khi nổ máy, hãy đứng cạnh xe một phút và tự hỏi: trưa nay mình có đỗ xe ngoài trời không? Nếu có, mọi thứ trong cốp sẽ nằm trong một khoang kín dưới yên suốt nhiều tiếng, trong lúc bạn ngồi quán mát.
 
@@ -61,7 +61,7 @@ Món nào trả lời "có" ở câu một hoặc câu hai thì vào túi mang t
 
 Nhiều người mở cốp năm sáu lần trong một buổi, mỗi lần lại để ví hoặc điện thoại nằm trên yên. Hãy tập thói quen ngược lại: mỗi lần dừng ở chỗ có bóng râm, lấy luôn những thứ cần cho chặng tiếp theo rồi khóa cốp. Ở khu đông đúc như phố cổ, vỉa hè hẹp và người qua lại liên tục, đừng mở cốp rồi để đồ quý nằm ngoài yên trong lúc loay hoay tìm món khác.
 
-Với nước uống, đừng mang cả ngày trong cốp. Mua chai nước ở quán gần điểm dừng, hoặc mang trong ba lô có ngăn. Thực phẩm tươi như hoa quả, đồ ăn mua ở chợ càng không nên để vào cốp nóng, kể cả chiều muộn khi nắng đã dịu, vì cốp còn giữ hơi nóng thêm một lúc. Nếu cả ngày bạn còn đi mua sắm, bài [thuê Vision chở đồ mua sắm có rộng không](/xe-may/2026/10/07/thue-honda-vision-cho-o-mua-sam-co-rong-khong/) sẽ giúp bạn tính đồ nào để ở đâu.
+Với nước uống, đừng mang cả ngày trong cốp. Mua chai nước ở quán gần điểm dừng, hoặc mang trong ba lô có ngăn. Thực phẩm tươi như hoa quả, đồ ăn mua ở chợ càng không nên để vào cốp nóng, kể cả chiều muộn khi nắng đã dịu, vì cốp còn giữ hơi nóng thêm một lúc. Nếu cả ngày bạn còn đi mua sắm, bài [thuê Vision chở đồ mua sắm có rộng không](/xe-may/2026/10/07/thue-honda-vision-cho-do-mua-sam-co-rong-khong/) sẽ giúp bạn tính đồ nào để ở đâu.
 ## Trước khi trả xe: soát cốp một lượt
 
 Tối cuối ngày, người ta mệt và dễ để quên. Tai nghe, dây sạc, kính râm, tờ hóa đơn nhỏ là những món hay nằm lại ở góc cốp. Hãy mở cốp, dùng đèn điện thoại soi các góc, lấy hết đồ của mình, kiểm tra có chai nước rỉ hoặc túi rác nào bị bỏ quên, rồi mới đóng cốp.

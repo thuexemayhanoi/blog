@@ -63,7 +63,7 @@ Muốn có tay ga nhẹ, bạn cần luyện đúng chỗ chứ không phải đ
 
 **Bài 1: nhích rồi nhả.** Vặn ga đúng đến lúc xe bắt đầu lăn bánh, nhả ra, dùng phanh dừng lại. Lặp lại nhiều lần cho tới khi bạn cảm nhận được điểm xe bắt đầu ăn tải. Bài này dạy cổ tay biết xe phản ứng từ đâu.
 
-**Bài 2: đi chậm như người đi bộ nhanh.** Giữ ga đều trên một đường thẳng ngắn, mắt nhìn xa, vai thả lỏng. Nếu xe cứ giật cục khi bò chậm, hãy tham khảo thêm bài về [dấu hiệu xe tay ga khó giữ ga đều](/xe-may/2026/10/11/xe-tay-ga-kho-giu-ga-eu-khi-bo-cham-dau-hieu-can-kiem-tra/) để phân biệt lỗi tay với lỗi xe.
+**Bài 2: đi chậm như người đi bộ nhanh.** Giữ ga đều trên một đường thẳng ngắn, mắt nhìn xa, vai thả lỏng. Nếu xe cứ giật cục khi bò chậm, hãy tham khảo thêm bài về [dấu hiệu xe tay ga khó giữ ga đều](/xe-may/2026/10/11/xe-tay-ga-kho-giu-ga-deu-khi-bo-cham-dau-hieu-can-kiem-tra/) để phân biệt lỗi tay với lỗi xe.
 
 **Bài 3: khởi hành và dừng liên tục.** Đặt một vạch tưởng tượng, chạy tới, dừng, rồi khởi hành lại. Mục tiêu là xe lăn đi êm mà đầu bạn không bị giật ra sau. Mỗi buổi chừng nửa tiếng là đủ, mỏi tay thì dễ tập sai.
 

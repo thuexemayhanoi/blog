@@ -50,7 +50,7 @@ Bạn không cần theo một cách cố định. Thử áp dụng vài nguyên 
 - **Đèn đỏ ngắn hoặc đồng hồ đếm ngược sắp hết:** giữ số 1 và giữ phanh, vì về mo rồi vào lại chỉ tốn thêm thao tác.
 - **Đèn đỏ dài, kẹt xe:** về số mo, vẫn bóp phanh để đèn hậu sáng. Cách này đỡ mỏi và hạn chế nguy cơ xe tự lao lên khi bạn mất tập trung.
 - **Dừng trên dốc nhỏ, chân cầu vượt:** giữ số 1 và phanh chắc. Về số mo mà phanh lơi thì xe dễ trôi lùi về phía người đứng sau.
-- **Trời mưa, mặt đường trơn:** thao tác càng ít càng tốt, nhiều người giữ số 1 và phanh đều tới khi đèn xanh. Thêm mẹo đi mưa ở bài [xe số đi mưa lớn: giảm tốc và giữ đà](/xe-may/2026/10/10/xe-so-i-mua-lon-giam-toc-va-giu-a/).
+- **Trời mưa, mặt đường trơn:** thao tác càng ít càng tốt, nhiều người giữ số 1 và phanh đều tới khi đèn xanh. Thêm mẹo đi mưa ở bài [xe số đi mưa lớn: giảm tốc và giữ đà](/xe-may/2026/10/10/xe-so-di-mua-lon-giam-toc-va-giu-da/).
 
 Hà Nội có những ngã tư đèn đỏ rất dài, cũng có nơi chỉ vừa kịp thở là đã xanh, nên hãy xét độ dài đèn trước rồi mới quyết định thay vì áp một thói quen cho mọi nơi.
 

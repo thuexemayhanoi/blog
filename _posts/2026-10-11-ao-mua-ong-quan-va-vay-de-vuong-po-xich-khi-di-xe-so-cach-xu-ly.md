@@ -26,7 +26,7 @@ Bốn chỗ thường gây chuyện:
 - **Bánh sau:** tà áo, tà váy buông thấp có thể quấn vào bánh hoặc kẹt gần chắn bùn.
 - **Cần số:** gấu quần chùng hoặc dây giày thả lỏng làm mũi chân đạp số kém dứt khoát.
 
-Nếu cần xem lại cách lên xuống xe sao cho khỏi chạm pô, bài về [cách lên xuống xe và chọn trang phục để tránh bỏng ống xả](/xe-may/2026/10/11/bong-ong-xa-khi-i-xe-so-cach-len-xuong-xe-va-trang-phuc-e-tranh/) nói kỹ hơn phần này.
+Nếu cần xem lại cách lên xuống xe sao cho khỏi chạm pô, bài về [cách lên xuống xe và chọn trang phục để tránh bỏng ống xả](/xe-may/2026/10/11/bong-ong-xa-khi-di-xe-so-cach-len-xuong-xe-va-trang-phuc-de-tranh/) nói kỹ hơn phần này.
 
 ## Áo mưa chạm pô xe số: gom tà sau và vạt bên hông
 
@@ -35,7 +35,7 @@ Nếu cần xem lại cách lên xuống xe sao cho khỏi chạm pô, bài về
 Áo mưa bộ gồm quần và áo thì có vấn đề riêng. Ống quần mưa thường dài, trơn và rộng, dễ trượt xuống phủ lên cần số hoặc áp sát ống xả. Hãy xắn ống lên khỏi mắt cá chân, buộc bằng dây thun rồi kiểm tra xem vải có che mất cần số không.
 Người ngồi sau cũng cần chú ý. Vạt áo mưa của họ hay rủ xuống bên phải, nơi có ống xả mà người cầm lái không nhìn thấy. Trước khi chạy, hãy nhờ người ngồi sau kéo vạt lên và đặt hai chân đúng trên gác chân.
 
-Khi thấy mùi khét hoặc vải co lại, hãy tấp vào lề, tắt máy rồi mới xử lý. Đừng giật mạnh phần vải đang dính vào ống xả vì có thể làm bạn mất thăng bằng. Còn nếu đang đi trong mưa lớn, bài về [giảm tốc và giữ đà khi đi xe số trong mưa lớn](/xe-may/2026/10/10/xe-so-i-mua-lon-giam-toc-va-giu-a/) cho thấy vì sao việc chỉnh đồ khi đang chạy rất nguy hiểm.
+Khi thấy mùi khét hoặc vải co lại, hãy tấp vào lề, tắt máy rồi mới xử lý. Đừng giật mạnh phần vải đang dính vào ống xả vì có thể làm bạn mất thăng bằng. Còn nếu đang đi trong mưa lớn, bài về [giảm tốc và giữ đà khi đi xe số trong mưa lớn](/xe-may/2026/10/10/xe-so-di-mua-lon-giam-toc-va-giu-da/) cho thấy vì sao việc chỉnh đồ khi đang chạy rất nguy hiểm.
 
 ## Ống quần vướng xích xe số: cuộn, kẹp và chọn giày
 
@@ -64,7 +64,7 @@ Chân trái cần điều khiển cần số nên bạn không nên ngồi nghi�
 
 ## Cần số bên chân trái: gấu quần, dây giày và dép
 
-Xe số phổ thông như Honda Wave không có tay côn. Bạn đổi số bằng cần số ở chân theo thứ tự N, 1, 2, 3, 4, nhả ga nhẹ mỗi lần đổi. Mũi giày nằm dưới cần số vừa là chỗ đạp, vừa là chỗ cảm nhận số đã vào hay chưa. Nhiều xe số phổ thông không có đèn báo số, bạn dựa vào cảm giác ở mũi chân, như bài về [cách biết bạn đang ở số mấy khi xe không có đèn báo số](/xe-may/2026/10/11/xe-so-khong-co-en-bao-so-cach-biet-ban-ang-o-so-may/) đã nói. Nếu gấu quần chùng hoặc áo mưa che lên cần số, cảm giác đó mất đi và bạn dễ đạp hụt.
+Xe số phổ thông như Honda Wave không có tay côn. Bạn đổi số bằng cần số ở chân theo thứ tự N, 1, 2, 3, 4, nhả ga nhẹ mỗi lần đổi. Mũi giày nằm dưới cần số vừa là chỗ đạp, vừa là chỗ cảm nhận số đã vào hay chưa. Nhiều xe số phổ thông không có đèn báo số, bạn dựa vào cảm giác ở mũi chân, như bài về [cách biết bạn đang ở số mấy khi xe không có đèn báo số](/xe-may/2026/10/11/xe-so-khong-co-den-bao-so-cach-biet-ban-dang-o-so-may/) đã nói. Nếu gấu quần chùng hoặc áo mưa che lên cần số, cảm giác đó mất đi và bạn dễ đạp hụt.
 
 Dép lê, dép xỏ ngón dễ tuột khi đạp số, mũi chân hở lại dễ kẹt. Giày kín mũi hoặc dép có quai hậu chắc sẽ ổn hơn, và nên nhét đầu dây giày vào trong.
 

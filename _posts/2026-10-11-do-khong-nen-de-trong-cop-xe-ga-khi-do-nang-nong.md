@@ -54,7 +54,7 @@ Ví tiền, máy tính xách tay, giấy tờ quan trọng để cả ngày tron
 
 ## Cốp xe máy nóng để đồ gì, và cách xếp lại cho an toàn
 
-Câu hỏi cốp xe máy nóng để đồ gì có lời đáp khá gọn: những món không sợ nhiệt, không dễ cháy và không quá có giá trị. Đó là áo mưa gấp gọn, khăn lau yên, găng tay vải, khẩu trang, túi nilon để đựng đồ ướt. Mũ bảo hiểm nửa đầu cũng ổn nếu cốp còn chỗ; bạn có thể xem thêm [chuyện cốp chứa vừa mấy chiếc mũ](/xe-may/2026/10/09/xe-tay-ga-thue-co-cop-u-chua-hai-mu-bao-hiem-khong/) để biết dòng xe mình đi hợp với cách nào.
+Câu hỏi cốp xe máy nóng để đồ gì có lời đáp khá gọn: những món không sợ nhiệt, không dễ cháy và không quá có giá trị. Đó là áo mưa gấp gọn, khăn lau yên, găng tay vải, khẩu trang, túi nilon để đựng đồ ướt. Mũ bảo hiểm nửa đầu cũng ổn nếu cốp còn chỗ; bạn có thể xem thêm [chuyện cốp chứa vừa mấy chiếc mũ](/xe-may/2026/10/09/xe-tay-ga-thue-co-cop-du-chua-hai-mu-bao-hiem-khong/) để biết dòng xe mình đi hợp với cách nào.
 
 Còn đây là cách xếp lại, theo thứ tự nên làm:
 
@@ -66,6 +66,6 @@ Còn đây là cách xếp lại, theo thứ tự nên làm:
 
 4. **Chọn chỗ đỗ có bóng.** Bóng râm lúc sáng có thể thành nắng gắt lúc chiều, nhất là ở bãi gửi xe ngoài trời quanh khu văn phòng. Cách [chọn chỗ gửi xe](/kinh%20nghi%E1%BB%87m/2026/09/19/do-xe-gan-khu-vuc-thi-cong/) hợp lý giúp xe ít chịu nắng, đỡ phải lo cho hộc yên.
 
-5. **Đồ nhiều hơn cốp thì đổi cách chở.** Thay vì ép mọi thứ vào hộc kín, hãy tìm hiểu cách [chở đồ cồng kềnh](/xe-may/2026/10/05/xe-ga-thue-co-hop-e-cho-o-cong-kenh-khong/) bằng xe ga cho đúng, hoặc chia bớt vào balo.
+5. **Đồ nhiều hơn cốp thì đổi cách chở.** Thay vì ép mọi thứ vào hộc kín, hãy tìm hiểu cách [chở đồ cồng kềnh](/xe-may/2026/10/05/xe-ga-thue-co-hop-de-cho-do-cong-kenh-khong/) bằng xe ga cho đúng, hoặc chia bớt vào balo.
 
 Lần tới, trước khi khóa xe, hãy dành vài chục giây mở cốp và tự hỏi: món nào trong này sợ nóng, món nào sợ mất? Mang những món đó theo người, phần còn lại để nguyên. Muốn đọc thêm kinh nghiệm chung về xe máy ở Hà Nội, bạn có thể ghé mục [xe máy](/xe-may/) của blog.

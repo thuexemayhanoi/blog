@@ -26,7 +26,7 @@ Về dáng xe, Click có sàn để chân phẳng và yên khá rộng như đa 
 
 Người từng chạy xe số vài năm sẽ thấy Wave như một người bạn cũ. Xe số có ly hợp tự động, nên bạn chỉ cần nhả ga nhẹ rồi gạt cần số, không có thao tác nào phức tạp hơn thế. Chạy trong phố, bạn đổi số liên tục theo nhịp dừng đèn đỏ, và về số N khi chờ lâu để đỡ mỏi chân.
 
-Nếu bạn quen xe ga lâu năm rồi bỗng thuê xe số, tuần đầu thường hay giật nhẹ khi từ số 1 lên số 2, hoặc chết máy ở chân đèn đỏ. Điều này bình thường, chạy chậm ở đoạn đường vắng một lúc là quen. Ai muốn thử loại xe này có thể đọc thêm [lý do nhiều người mới chọn Wave](/xe-may/2026/09/27/thue-honda-wave-cho-nguoi-moi-vi-sao-hay-uoc-chon/) trước khi quyết định.
+Nếu bạn quen xe ga lâu năm rồi bỗng thuê xe số, tuần đầu thường hay giật nhẹ khi từ số 1 lên số 2, hoặc chết máy ở chân đèn đỏ. Điều này bình thường, chạy chậm ở đoạn đường vắng một lúc là quen. Ai muốn thử loại xe này có thể đọc thêm [lý do nhiều người mới chọn Wave](/xe-may/2026/09/27/thue-honda-wave-cho-nguoi-moi-vi-sao-hay-duoc-chon/) trước khi quyết định.
 
 Click thì khác hẳn. Bạn ngồi lên, vặn ga, đi. Đứng chờ đèn đỏ trong giờ tan tầm chỉ cần giữ phanh, không phải tính chuyện số má. Đổi lại, xe ga có thể bứt lên nhanh hơn bạn tưởng khi vặn ga mạnh, nên người mới cầm lái nên vặn nhẹ và giữ khoảng cách rộng hơn với xe phía trước, nhất là khi đường ướt.
 
@@ -56,7 +56,7 @@ Nếu chuyến đi của bạn là mấy ngày dạo trong nội thành, xe nào
 
 Đường lên Ba Vì hay Tam Đảo có nhiều cua và dốc dài. Trên xe số, bạn có thể dùng số thấp để giữ tốc độ khi xuống dốc, giảm tải cho phanh. Xe ga không có thao tác đó, nên cần bóp phanh ngắt quãng và để ý độ nóng của phanh. Bóp phanh một mạch suốt đoạn xuống dốc dài khiến phanh nóng và yếu dần, nên nhớ điều này nếu bạn chọn Click cho cung đường đèo.
 
-Mặt khác, đi dài trên xe ga lại dễ chịu cho lưng và chân nhờ tư thế ngồi thoải mái. Bài [Wave chạy đường trường có bền không](/xe-may/2026/10/09/honda-wave-thue-cho-nguoi-hay-chay-uong-truong-ben-khong/) nói cụ thể hơn về lựa chọn này. Dù chọn xe nào, đừng quên kiểm tra lốp, phanh và đèn trước khi lên đường.
+Mặt khác, đi dài trên xe ga lại dễ chịu cho lưng và chân nhờ tư thế ngồi thoải mái. Bài [Wave chạy đường trường có bền không](/xe-may/2026/10/09/honda-wave-thue-cho-nguoi-hay-chay-duong-truong-ben-khong/) nói cụ thể hơn về lựa chọn này. Dù chọn xe nào, đừng quên kiểm tra lốp, phanh và đèn trước khi lên đường.
 
 ## Thuê Honda Wave hay Honda Click: chọn nhanh theo thói quen
 

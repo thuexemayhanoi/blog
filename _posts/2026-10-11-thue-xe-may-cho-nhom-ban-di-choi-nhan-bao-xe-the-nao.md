@@ -30,7 +30,7 @@ Một nhóm hiếm khi đồng đều. Người cao gần mét tám và người
 
 Về ngân sách, giá theo ngày đã duyệt là Honda Wave 150.000đ, Honda Vision và Air Blade 200.000đ. Xe điện, xe đạp điện hay xe 50cc cần liên hệ để xác nhận giá hiện tại. Thuê nhiều xe có ưu đãi gì không, đặt trước thế nào thì bạn hỏi và xác nhận với Nguyễn Tú trước khi đặt xe, đừng tự suy đoán rồi chia tiền theo con số tưởng tượng.
 
-Nên chọn cùng loại xe cho những người có kinh nghiệm tương đương, vì tốc độ và độ nhạy phanh gần giống nhau thì đoàn ít bị kéo giãn. Nếu trong nhóm có bạn mới lấy bằng, bài [thuê xe máy cho người mới lấy bằng A1](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) có vài lưu ý về chọn xe và quãng đường vừa sức.
+Nên chọn cùng loại xe cho những người có kinh nghiệm tương đương, vì tốc độ và độ nhạy phanh gần giống nhau thì đoàn ít bị kéo giãn. Nếu trong nhóm có bạn mới lấy bằng, bài [thuê xe máy cho người mới lấy bằng A1](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/) có vài lưu ý về chọn xe và quãng đường vừa sức.
 
 ## Ngày nhận xe: kiểm tra từng chiếc trước khi ra đường
 
@@ -64,7 +64,7 @@ Có người thấy chia việc như vậy hơi nghiêm trọng cho một chuy�
 
 Giữ khoảng cách thoáng thay vì bám đuôi nhau, vì bám sát chỉ làm cả đoàn phanh gấp theo dây chuyền. Nếu lỡ lạc, đừng phóng đuổi theo. Hãy hẹn trước một điểm gặp lại như cây xăng hay quán ven đường, và chia sẻ vị trí điện thoại trong nhóm trước khi xuất phát.
 
-Khi dừng chân ở khu phố cổ, ngõ nhỏ thường chật, nên đỗ các xe cạnh nhau ở chỗ gửi rõ ràng và khóa cổ từng xe. Với chuyến dài hơn như lên Ba Vì hay chạy đê ven sông Hồng, bạn có thể tham khảo [kế hoạch cho chuyến đi cuối tuần của cả nhóm](/thue-xe/2026/09/29/thue-xe-may-cho-nhom-ban-i-phyt-cuoi-tuan/) để chia chặng nghỉ hợp lý. Đã uống rượu bia thì không lái xe, và nhóm nên coi đó là luật chung của cả chuyến.
+Khi dừng chân ở khu phố cổ, ngõ nhỏ thường chật, nên đỗ các xe cạnh nhau ở chỗ gửi rõ ràng và khóa cổ từng xe. Với chuyến dài hơn như lên Ba Vì hay chạy đê ven sông Hồng, bạn có thể tham khảo [kế hoạch cho chuyến đi cuối tuần của cả nhóm](/thue-xe/2026/09/29/thue-xe-may-cho-nhom-ban-di-phyt-cuoi-tuan/) để chia chặng nghỉ hợp lý. Đã uống rượu bia thì không lái xe, và nhóm nên coi đó là luật chung của cả chuyến.
 
 ## Trả xe và chia tiền không để lại hiềm khích
 

@@ -34,7 +34,7 @@ Xe ga có sàn để chân phẳng, nghĩa là bạn được đổi tư thế t
 - Đổi vị trí bàn chân theo từng đoạn đường. Khi chạy thẳng ổn định, duỗi chân ra trước cho gối bớt gập. Khi vào đoạn đông, thu chân về gần mép sàn để sẵn sàng chạm đất.
 - Không gác gối lên ốp trước, không đưa chân ra ngoài thân xe khi đang chạy, để còn kịp dừng khi có người cắt mặt.
 
-Muốn xem người thấp chiều xử lý ngược lại ra sao, bài về [kê yên và tư thế đặt chân cho người thấp chiều](/xe-may/2026/10/11/honda-vision-voi-nguoi-thap-chieu-ke-yen-va-tu-the-at-chan/) nói đúng bài toán đối xứng với bạn: cùng một chiếc xe nhưng mỗi người chỉnh một kiểu.
+Muốn xem người thấp chiều xử lý ngược lại ra sao, bài về [kê yên và tư thế đặt chân cho người thấp chiều](/xe-may/2026/10/11/honda-vision-voi-nguoi-thap-chieu-ke-yen-va-tu-the-dat-chan/) nói đúng bài toán đối xứng với bạn: cùng một chiếc xe nhưng mỗi người chỉnh một kiểu.
 
 ## Ngồi lùi hay ngồi tới: vị trí trên yên quyết định cảm giác
 
@@ -56,7 +56,7 @@ Một chi tiết người cao hay quên là gương chiếu hậu. Tầm mắt b
 
 Hình dung bạn cao 1m80, đi một vòng từ khu phố cổ lên Hồ Tây rồi về theo đoạn đê ven sông Hồng.
 
-Trong phố cổ, đường chật, xe dày và đèn dừng liên tục. Bạn ngồi hơi tiến về trước, thu chân sát mép sàn, giữ lái nhẹ để dễ chạm đất và len qua những khúc ngõ hẹp. Ở đây thân xe nhỏ của Vision là lợi thế, đúng như bài [Honda Vision đi phố nhẹ và tiện thế nào](/xe-may/2026/09/27/honda-vision-i-pho-nhe-va-tien-the-nao/) đã nói.
+Trong phố cổ, đường chật, xe dày và đèn dừng liên tục. Bạn ngồi hơi tiến về trước, thu chân sát mép sàn, giữ lái nhẹ để dễ chạm đất và len qua những khúc ngõ hẹp. Ở đây thân xe nhỏ của Vision là lợi thế, đúng như bài [Honda Vision đi phố nhẹ và tiện thế nào](/xe-may/2026/09/27/honda-vision-di-pho-nhe-va-tien-the-nao/) đã nói.
 
 Ra đường quanh Hồ Tây, nhịp xe đều và thoáng hơn. Đây là lúc lùi nhẹ về giữa yên, duỗi chân ra trước và thả lỏng vai. Tới đoạn đê ven sông Hồng, đường thẳng, gió lộng, bạn dễ ngồi cứng và gồng tay, nên hãy chủ động đổi chân và nới tay lái.
 

@@ -34,7 +34,7 @@ Với người cầm lái, bạn làm theo thứ tự sau:
 - Nhấc chân phải vòng qua yên, giữ chân cao hơn thân xe, không quét sát phía dưới.
 - Khi đã ngồi vững, hạ chân phải thẳng lên cần phanh sau, không kẹp sát vào thân xe.
 
-Khi xuống xe, bạn dừng hẳn, đặt xe lên chân chống rồi bước xuống phía bên trái. Đừng nhảy xuống bên phải chỉ vì bên đó có vỉa hè, vì cẳng chân phải sẽ lướt đúng qua chỗ nóng nhất. Nếu chân chống bị kẹt hoặc xe không đứng vững, hãy xem cách [khắc phục chân chống xe số bị kẹt](/xe-may/2026/10/11/chan-chong-xe-so-bi-ket-khac-phuc-va-e-phong-o-xe/) trước khi lên.
+Khi xuống xe, bạn dừng hẳn, đặt xe lên chân chống rồi bước xuống phía bên trái. Đừng nhảy xuống bên phải chỉ vì bên đó có vỉa hè, vì cẳng chân phải sẽ lướt đúng qua chỗ nóng nhất. Nếu chân chống bị kẹt hoặc xe không đứng vững, hãy xem cách [khắc phục chân chống xe số bị kẹt](/xe-may/2026/10/11/chan-chong-xe-so-bi-ket-khac-phuc-va-de-phong-do-xe/) trước khi lên.
 
 Ở hầm gửi xe hoặc lối dốc, xe đỗ hơi nghiêng nên thao tác lên xe cần chủ động hơn. Khi khởi hành ngang dốc, [cách vào số một cho xe số thuê](/xe-may/2026/10/09/cach-vao-so-mot-cua-xe-so-thue-khi-khoi-hanh-ngang-doc/) giúp bạn không loạng choạng, tránh phải chống chân vội vào thân xe nóng.
 

@@ -18,7 +18,7 @@ Xuống xe khách ở Giáp Bát với cái ba lô trên vai và lịch trình c
 
 ## Giáp Bát là cửa ngõ phía nam của Hà Nội
 
-Bến Giáp Bát nằm ở phía nam nội thành, sát trục đường Giải Phóng, nơi nhiều tuyến xe khách liên tỉnh từ các tỉnh phía nam đổ về. Nếu bạn lên Hà Nội từ Ninh Bình, Nam Định hay một tỉnh nào đó dọc quốc lộ 1, khả năng cao là bạn xuống ở đây. Các tuyến phía bắc và phía tây thường dồn về bến Mỹ Đình, và bài [những điều cần biết quanh bến xe Mỹ Đình](/thue-xe/2026/09/29/thue-xe-may-gan-ben-xe-my-inh-nhung-ieu-can-biet/) sẽ hợp hơn nếu chuyến xe của bạn xuất phát từ hướng đó.
+Bến Giáp Bát nằm ở phía nam nội thành, sát trục đường Giải Phóng, nơi nhiều tuyến xe khách liên tỉnh từ các tỉnh phía nam đổ về. Nếu bạn lên Hà Nội từ Ninh Bình, Nam Định hay một tỉnh nào đó dọc quốc lộ 1, khả năng cao là bạn xuống ở đây. Các tuyến phía bắc và phía tây thường dồn về bến Mỹ Đình, và bài [những điều cần biết quanh bến xe Mỹ Đình](/thue-xe/2026/09/29/thue-xe-may-gan-ben-xe-my-dinh-nhung-dieu-can-biet/) sẽ hợp hơn nếu chuyến xe của bạn xuất phát từ hướng đó.
 
 Điểm hay của vị trí này là mọi thứ nối với nhau bằng vài trục đường dễ nhớ. Từ Giáp Bát, bạn đi thẳng theo Giải Phóng là tới ngã tư Vọng, rồi rẽ vào Đại Cồ Việt để vào khu trung tâm. Quay ngược lại, bạn có thể rẽ về khu Linh Đàm, Hoàng Mai hoặc ra các cung đường hướng về quốc lộ phía nam.
 
@@ -54,7 +54,7 @@ Hình dung bạn từ Nam Định lên, xuống bến đầu giờ chiều, có 
 
 Việc đầu tiên là nhận xe và kiểm tra nhanh: đèn pha, xi nhan trái phải, phanh trước sau, lốp, gương. Sau đó chạy về Linh Đàm, nơi đường rộng, ít ngã tư, hợp để làm quen xe trước khi vào phố đông. Tối ghé nhà họ hàng, gửi xe ở chỗ an toàn có khóa.
 
-Sáng hôm sau, bạn theo Giải Phóng rồi Đại Cồ Việt vào trung tâm. Sát phố cổ, ngõ nhỏ, đường một chiều và nhiều điểm cấm đỗ khiến chuyện gửi xe cần tính trước. Bạn có thể đọc thêm về [đi phố cổ bằng xe máy có thuận tiện hay không](/thue-xe/2026/10/07/thue-xe-may-gan-ho-guom-i-pho-co-co-thuan-tien-khong/) để biết nên chuẩn bị gì.
+Sáng hôm sau, bạn theo Giải Phóng rồi Đại Cồ Việt vào trung tâm. Sát phố cổ, ngõ nhỏ, đường một chiều và nhiều điểm cấm đỗ khiến chuyện gửi xe cần tính trước. Bạn có thể đọc thêm về [đi phố cổ bằng xe máy có thuận tiện hay không](/thue-xe/2026/10/07/thue-xe-may-gan-ho-guom-di-pho-co-co-thuan-tien-khong/) để biết nên chuẩn bị gì.
 
 Cái lợi lớn nhất ở đây không phải tiết kiệm vài phút, mà là bạn gom được nhiều việc vào một ngày mà không phải nhờ ai đợi mình.
 

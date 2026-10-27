@@ -61,13 +61,13 @@ Xăng không hao nhiều ở những con dốc, mà hao ở thói quen lái hằ
 - **Nhìn xa hơn.** Thấy đèn đỏ phía trước thì nhả ga sớm cho xe lăn tới, vẫn vào số, thay vì ga tới sát rồi phanh gấp.
 - **Giữ xe khỏe.** Lốp đủ hơi theo khuyến cáo nhà sản xuất, sên được tra dầu, lọc gió sạch, bugi còn tốt.
 
-Cách chạy trong nội đô còn nhiều chi tiết, bạn có thể tham khảo bài về [thói quen đi xe số tiết kiệm xăng trong phố](/xe-may/2026/10/10/i-xe-so-tiet-kiem-xang-trong-pho/). Điểm hay là các thói quen này vừa đỡ xăng vừa an toàn hơn, không có mặt trái như thả trôi.
+Cách chạy trong nội đô còn nhiều chi tiết, bạn có thể tham khảo bài về [thói quen đi xe số tiết kiệm xăng trong phố](/xe-may/2026/10/10/di-xe-so-tiet-kiem-xang-trong-pho/). Điểm hay là các thói quen này vừa đỡ xăng vừa an toàn hơn, không có mặt trái như thả trôi.
 
 ## Dốc cầu, hầm chui và đường đèo: mỗi nơi một kiểu
 
 Ở nội đô Hà Nội, "dốc" thường là đường lên xuống cầu vượt hay hầm chui. Đoạn ngắn nhưng đông xe, lại hay ướt trong những ngày mưa phùn đầu thu. Tưởng tượng bạn xuống dốc cầu vào giờ tan tầm, xe phía trước bất ngờ phanh gấp. Nếu đang số mo, hai bàn tay phải gánh hết việc dừng xe trên mặt đường trơn. Nếu đang vào số thấp, động cơ đã hãm bớt giúp bạn từ trước.
 
-Ở đường đèo như Tam Đảo hay vùng Ba Vì, dốc dài hơn và cua liên tiếp, phanh động cơ gần như là thứ bắt buộc. Thả trôi ở đó là cách nhanh nhất để phanh nóng, ăn yếu và mất kiểm soát ở khúc cua kế tiếp. Nếu định đi xa, hãy đọc thêm bài [xe số đi đường đèo dốc có ổn không](/xe-may/2026/09/27/xe-so-i-uong-eo-doc-co-on-khong/) trước chuyến đi.
+Ở đường đèo như Tam Đảo hay vùng Ba Vì, dốc dài hơn và cua liên tiếp, phanh động cơ gần như là thứ bắt buộc. Thả trôi ở đó là cách nhanh nhất để phanh nóng, ăn yếu và mất kiểm soát ở khúc cua kế tiếp. Nếu định đi xa, hãy đọc thêm bài [xe số đi đường đèo dốc có ổn không](/xe-may/2026/09/27/xe-so-di-duong-deo-doc-co-on-khong/) trước chuyến đi.
 
 Nếu thuê xe số ở Nguyễn Tú, bạn cũng có thể hỏi về tình trạng phanh và độ nhạy hộp số ngay khi nhận xe.
 

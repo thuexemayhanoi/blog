@@ -43,7 +43,7 @@ Hai điều cần nhớ khi chạy đường tỉnh:
 - Đường cao tốc thường không cho xe máy đi vào. Hãy chọn quốc lộ hoặc tỉnh lộ và xem biển báo ở các nút giao.
 - Quốc lộ có nhiều xe tải, xe khách chạy nhanh. Giữ khoảng cách rộng hơn trong phố, không chạy sát đuôi xe lớn và hạn chế vượt khi tầm nhìn bị che.
 
-Bài về [thuê xe máy ở phía Đông, quanh Gia Lâm](/thue-xe/2026/09/29/thue-xe-may-khu-vuc-gia-lam-phia-ong-ha-noi/) nói thêm về các tuyến ra ngoại thành từ bờ Đông. Còn nếu bạn về tỉnh phía Nam, hướng đó phải vượt sông trước, nên cân nhắc đọc bài [thuê xe gần bến xe Giáp Bát cho chuyến về tỉnh](/thue-xe/2026/09/29/thue-xe-may-gan-ben-xe-giap-bat-cho-chuyen-ve-tinh/) để chọn điểm nhận phù hợp hơn.
+Bài về [thuê xe máy ở phía Đông, quanh Gia Lâm](/thue-xe/2026/09/29/thue-xe-may-khu-vuc-gia-lam-phia-dong-ha-noi/) nói thêm về các tuyến ra ngoại thành từ bờ Đông. Còn nếu bạn về tỉnh phía Nam, hướng đó phải vượt sông trước, nên cân nhắc đọc bài [thuê xe gần bến xe Giáp Bát cho chuyến về tỉnh](/thue-xe/2026/09/29/thue-xe-may-gan-ben-xe-giap-bat-cho-chuyen-ve-tinh/) để chọn điểm nhận phù hợp hơn.
 
 ## Chọn xe cho từng kiểu đi
 

@@ -79,7 +79,7 @@ Mặt đường ướt là lúc khác biệt giữa các bản lộ rõ nhất. 
 
 Về đổi số, cả hai đều dùng ly hợp tự động. Bạn không có tay côn, chỉ cần nhả ga nhẹ rồi gạt cần số bằng chân theo thứ tự N, 1, 2, 3, 4. Khi xuống dốc dài, về số thấp để xe tự kìm bớt tốc độ, đỡ phải bóp phanh liên tục.
 
-Xe chạy phố khác xe chạy xa. Nếu bạn sắp đi đường dài, hãy xem [Honda Wave thuê cho người hay chạy đường trường bền không](/xe-may/2026/10/09/honda-wave-thue-cho-nguoi-hay-chay-uong-truong-ben-khong/) để biết nên chú ý gì về lốp, phanh và nhịp nghỉ. Còn nếu đây là lần đầu bạn đi xe số, [bài về độ dễ lái dành cho người mới](/xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-ieu-khien-khong/) sẽ giúp bạn làm quen với cảm giác bóp phanh và đổi số trước khi ra đường lớn.
+Xe chạy phố khác xe chạy xa. Nếu bạn sắp đi đường dài, hãy xem [Honda Wave thuê cho người hay chạy đường trường bền không](/xe-may/2026/10/09/honda-wave-thue-cho-nguoi-hay-chay-duong-truong-ben-khong/) để biết nên chú ý gì về lốp, phanh và nhịp nghỉ. Còn nếu đây là lần đầu bạn đi xe số, [bài về độ dễ lái dành cho người mới](/xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-dieu-khien-khong/) sẽ giúp bạn làm quen với cảm giác bóp phanh và đổi số trước khi ra đường lớn.
 
 ## Kết: năm phút trước khi lăn bánh
 

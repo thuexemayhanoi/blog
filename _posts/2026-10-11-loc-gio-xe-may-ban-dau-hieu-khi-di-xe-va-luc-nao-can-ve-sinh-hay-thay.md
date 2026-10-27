@@ -20,7 +20,7 @@ Lọc gió xe máy bẩn là chuyện ít ai nghĩ tới cho đến khi xe bắt
 
 Động cơ xăng cần hít không khí sạch để trộn với xăng rồi đốt. Lọc gió là tấm chắn đặt trên đường hút khí, giữ lại bụi, cát mịn và xơ vải trước khi gió vào máy. Khi tấm chắn đóng đầy bụi, máy phải "thở" qua một chiếc khẩu trang bẩn: lượng khí vào ít đi, tỉ lệ xăng và gió lệch khỏi mức cần thiết, và bạn cảm nhận ra bằng một chiếc xe kém hăng.
 
-Ở Hà Nội, bụi đến từ nhiều phía. Công trình thi công xả cát và xi măng ra mặt đường, xe tải chở vật liệu để lại lớp bụi mịn xám trắng, còn đoạn đê ven sông Hồng vào mùa khô thì gió cuốn đất khô bay thành màn. Chiếc xe chạy mỗi ngày qua những chỗ như vậy sẽ bẩn lọc gió sớm hơn nhiều so với xe chỉ quanh quẩn đường phố sạch. Muốn hiểu bụi bám vào các bộ phận khác của máy ra sao, bạn có thể đọc bài [bụi đường trường bám kín máy và cách vệ sinh cho đúng](/xe-may/2026/10/04/bui-uong-truong-bam-kin-may-ve-sinh-the-nao-cho-ung/).
+Ở Hà Nội, bụi đến từ nhiều phía. Công trình thi công xả cát và xi măng ra mặt đường, xe tải chở vật liệu để lại lớp bụi mịn xám trắng, còn đoạn đê ven sông Hồng vào mùa khô thì gió cuốn đất khô bay thành màn. Chiếc xe chạy mỗi ngày qua những chỗ như vậy sẽ bẩn lọc gió sớm hơn nhiều so với xe chỉ quanh quẩn đường phố sạch. Muốn hiểu bụi bám vào các bộ phận khác của máy ra sao, bạn có thể đọc bài [bụi đường trường bám kín máy và cách vệ sinh cho đúng](/xe-may/2026/10/04/bui-duong-truong-bam-kin-may-ve-sinh-the-nao-cho-dung/).
 
 ## Dấu hiệu lọc gió xe máy bẩn khi đang chạy
 

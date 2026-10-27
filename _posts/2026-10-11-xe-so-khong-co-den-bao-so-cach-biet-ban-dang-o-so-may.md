@@ -49,7 +49,7 @@ Bạn chạy chậm, vặn ga mà máy nặng nề, xe giật cục hoặc rung 
 
 ### Máy đều, êm
 
-Vặn ga thấy xe nhích lên mượt, không giật, không gào. Hãy ghi nhớ nhịp này, vì nó là thước đo cho các số còn lại. Nếu tiếng máy gắt dù bạn đang ở số cao và chạy chậm rãi, hãy xem thêm bài về [dấu hiệu tiếng máy xe số nổ to bất thường](/xe-may/2026/10/03/tieng-may-xe-so-no-to-hon-binh-thuong-can-e-y-gi/) để phân biệt vòng tua cao bình thường với một vấn đề thật sự.
+Vặn ga thấy xe nhích lên mượt, không giật, không gào. Hãy ghi nhớ nhịp này, vì nó là thước đo cho các số còn lại. Nếu tiếng máy gắt dù bạn đang ở số cao và chạy chậm rãi, hãy xem thêm bài về [dấu hiệu tiếng máy xe số nổ to bất thường](/xe-may/2026/10/03/tieng-may-xe-so-no-to-hon-binh-thuong-can-de-y-gi/) để phân biệt vòng tua cao bình thường với một vấn đề thật sự.
 
 ## Dùng kim tốc độ làm điểm đối chiếu
 

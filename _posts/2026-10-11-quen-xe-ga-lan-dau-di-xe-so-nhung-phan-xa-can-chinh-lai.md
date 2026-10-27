@@ -53,7 +53,7 @@ Thói quen cần bỏ đầu tiên là vặn ga mạnh để xe "phóng đi" nh�
 
 Xe ga tự lo truyền động, xe số thì chính bạn là hộp số. Nguyên tắc đơn giản: khi máy bắt đầu gào lên, nhả ga một chút, nhấc cần số lên một nấc, rồi vặn ga lại.
 
-Người mới hay mắc hai lỗi: lên số quá sớm khiến máy ì ạch, rung nặng; giữ số thấp quá lâu thì máy gào mà xe không nhanh hơn. Trong phố đông ở Hà Nội, quanh số 2 và số 3 thường là đủ cho phần lớn quãng đường, đường vắng hơn mới cần lên số cao. Nếu bạn đã vào đúng số mà tiếng máy vẫn lớn bất thường, hãy xem thêm [những điểm cần để ý khi tiếng máy xe số to hơn bình thường](/xe-may/2026/10/03/tieng-may-xe-so-no-to-hon-binh-thuong-can-e-y-gi/) trước khi chạy tiếp.
+Người mới hay mắc hai lỗi: lên số quá sớm khiến máy ì ạch, rung nặng; giữ số thấp quá lâu thì máy gào mà xe không nhanh hơn. Trong phố đông ở Hà Nội, quanh số 2 và số 3 thường là đủ cho phần lớn quãng đường, đường vắng hơn mới cần lên số cao. Nếu bạn đã vào đúng số mà tiếng máy vẫn lớn bất thường, hãy xem thêm [những điểm cần để ý khi tiếng máy xe số to hơn bình thường](/xe-may/2026/10/03/tieng-may-xe-so-no-to-hon-binh-thuong-can-de-y-gi/) trước khi chạy tiếp.
 
 ## Giảm tốc và dừng xe: giảm số trước, về số mo sau
 

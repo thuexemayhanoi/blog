@@ -48,7 +48,7 @@ Khi dây đứt hẳn, cảm giác rất rõ: đang chạy bỗng hụt lực, m
 
 Điều nên tránh là vặn ga mạnh nhiều lần để "thử lại". Dây đứt có thể kẹt hoặc cuốn vào cơ cấu bên trong, vặn thêm dễ làm hỏng puli và vỏ lốc máy.
 
-Bạn cũng nên để ý nếu xe từng khó giữ ga đều khi bò chậm trong giờ tan tầm. Bài [dấu hiệu cần kiểm tra khi xe bò chậm](/xe-may/2026/10/11/xe-tay-ga-kho-giu-ga-eu-khi-bo-cham-dau-hieu-can-kiem-tra/) phân tích kỹ hơn phần này và có thể giúp bạn bắt lỗi từ sớm.
+Bạn cũng nên để ý nếu xe từng khó giữ ga đều khi bò chậm trong giờ tan tầm. Bài [dấu hiệu cần kiểm tra khi xe bò chậm](/xe-may/2026/10/11/xe-tay-ga-kho-giu-ga-deu-khi-bo-cham-dau-hieu-can-kiem-tra/) phân tích kỹ hơn phần này và có thể giúp bạn bắt lỗi từ sớm.
 
 ## Bố ly hợp, bi nồi và hộp số cuối cũng làm xe không tiến
 
@@ -76,6 +76,6 @@ Nghe tiếng chỉ giúp đoán hướng, muốn biết chính xác cần thợ 
 
 Nếu đang thuê xe, đừng nhờ thợ lạ mở máy trước khi báo cho chủ xe, vì việc đó có thể làm khó xác định nguyên nhân và phần chi phí. Hãy dừng ở nơi an toàn, chụp ảnh vị trí, ghi lại biểu hiện (nghe tiếng gì, có mùi gì, hỏng đúng lúc nào). Với xe thuê tại Nguyễn Tú, bạn gọi 0942 467 674 trong giờ 09:00–21:00 và hỏi rõ cách xử lý cùng phần chi phí cần xác nhận trước khi sửa.
 
-Để ít gặp chuyện này hơn, hãy tập thói quen nhận ra triệu chứng sớm: giật khi lấy đà, tiếng rít bất thường, mùi cao su nóng, xe yếu dần ở dốc. Khi đi xa, máy và dây cần được nghỉ đúng nhịp, bạn có thể tham khảo [cách giữ máy khi chạy chặng dài về quê](/xe-may/2026/10/10/xe-tay-ga-chay-chang-dai-ve-que-giu-may-va-nghi-ung-nhip/). Trong phố đông, hạn chế vặn ga mạnh từ đứng yên liên tục, tránh chở nặng leo dốc dài và hạn chế lội nước sâu vì nước vào lốc máy có thể làm dây trượt.
+Để ít gặp chuyện này hơn, hãy tập thói quen nhận ra triệu chứng sớm: giật khi lấy đà, tiếng rít bất thường, mùi cao su nóng, xe yếu dần ở dốc. Khi đi xa, máy và dây cần được nghỉ đúng nhịp, bạn có thể tham khảo [cách giữ máy khi chạy chặng dài về quê](/xe-may/2026/10/10/xe-tay-ga-chay-chang-dai-ve-que-giu-may-va-nghi-dung-nhip/). Trong phố đông, hạn chế vặn ga mạnh từ đứng yên liên tục, tránh chở nặng leo dốc dài và hạn chế lội nước sâu vì nước vào lốc máy có thể làm dây trượt.
 
 Lần tới nếu nghe xe giật hoặc rít khi lấy ga, hãy cho thợ xem trước khi xuống phố. Bạn có thể đọc thêm các lỗi hay gặp khác ở [chuyên mục xe tay ga](/xe-may/xe-ga/) và theo dõi toàn bộ hướng dẫn tại mục [xe máy](/xe-may/).

@@ -64,7 +64,7 @@ Mỗi dòng xe có giới hạn tải riêng, nên hãy hỏi trực tiếp Nguy
 
 **Đi chợ sáng sớm từ Long Biên về phố.** Rau, thịt, trái cây toàn là túi mềm, nhiều thứ nhỏ. Hợp nhất là xe ga có cốp sâu, thêm móc treo phía trước cho túi nhẹ. Khi lách qua ngõ nhỏ, đồ nằm trong cốp không quệt vào tường hay xe khác.
 
-**Chở thùng hàng trên đoạn đê ven sông Hồng.** Đường thoáng nhưng gió ngang mạnh, đồ chất cao rất dễ làm xe loạng choạng. Nên chọn xe có baga chắc, yên dài, không chất cao quá tầm nhìn qua vai, chạy chậm hơn bình thường. Nếu hàng còn cồng kềnh hơn, bài [chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) giúp bạn tính kỹ trước khi thuê. Còn nếu vừa chở đồ vừa chở thêm người, hãy xem [chỗ ngồi và chứa đồ khi đi hai người](/xe-may/2026/10/01/chon-xe-may-cho-hai-nguoi-i-cuoi-tuan-cho-ngoi-va-chua-o/).
+**Chở thùng hàng trên đoạn đê ven sông Hồng.** Đường thoáng nhưng gió ngang mạnh, đồ chất cao rất dễ làm xe loạng choạng. Nên chọn xe có baga chắc, yên dài, không chất cao quá tầm nhìn qua vai, chạy chậm hơn bình thường. Nếu hàng còn cồng kềnh hơn, bài [chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/di-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) giúp bạn tính kỹ trước khi thuê. Còn nếu vừa chở đồ vừa chở thêm người, hãy xem [chỗ ngồi và chứa đồ khi đi hai người](/xe-may/2026/10/01/chon-xe-may-cho-hai-nguoi-di-cuoi-tuan-cho-ngoi-va-chua-do/).
 
 ## Thuê theo ngày hay theo tháng khi chở đồ đều đặn
 

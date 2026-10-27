@@ -19,7 +19,7 @@ Sáng thứ Hai, balo trên vai, áo sơ mi vừa là phẳng, bạn dắt xe ra
 ## Thuê xe số đi làm nội thành: tính trước lộ trình
 
 Trước khi nhận xe, hãy vẽ lại lộ trình sáng và chiều trên bản đồ điện thoại. Người ở Long Biên sang Hoàn Kiếm sẽ gặp đoạn lên cầu đông đặc giờ cao điểm, còn người từ Cầu Giấy sang Đống Đa theo đường Láng lại dính những cái đèn đỏ dài.
-Wave hợp kiểu đi này vì thân xe gọn, dễ dắt, dễ lách trong dòng xe chậm. Xe dùng ly hợp tự động nên tay trái không phải lo ly hợp, việc đổi số nằm hết ở cần số bên chân trái: đi chậm ở số thấp, tăng dần khi đường thoáng, nhả ga nhẹ mỗi lần chuyển. Ai lâu chưa đi xe số có thể đọc trước bài [Wave thuê cho người mới có dễ điều khiển không](/xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-ieu-khien-khong/) để lấy lại cảm giác.
+Wave hợp kiểu đi này vì thân xe gọn, dễ dắt, dễ lách trong dòng xe chậm. Xe dùng ly hợp tự động nên tay trái không phải lo ly hợp, việc đổi số nằm hết ở cần số bên chân trái: đi chậm ở số thấp, tăng dần khi đường thoáng, nhả ga nhẹ mỗi lần chuyển. Ai lâu chưa đi xe số có thể đọc trước bài [Wave thuê cho người mới có dễ điều khiển không](/xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-dieu-khien-khong/) để lấy lại cảm giác.
 
 Wave có giá thuê theo ngày là 150.000đ/ngày. Thuê cả tuần hay cả tháng thì hãy hỏi để xác nhận mức giá hiện tại, đừng tự nhân lên theo ngày. Nên nhận xe vào cuối tuần hoặc chiều tối trước ngày đi làm đầu tiên, để còn một buổi chạy thử đúng cung đường quen.
 
@@ -39,7 +39,7 @@ Vài thói quen nhỏ tiết kiệm nhiều phiền toái: chụp ảnh xe cùng
 
 Chuyện này nhiều người bất ngờ nhất. Cần số ở chân nghĩa là mũi giày chạm vào cần mỗi lần đổi số, và giày da mềm sẽ sớm có vệt xước ngay mu giày. Giày búp bê hoặc dép quai mảnh thì dễ trượt khỏi cần số. Cách gọn nhất là đi giày thể thao mỏng hoặc giày da đế chắc trên đường, rồi thay giày công sở khi tới cơ quan. Hộc đồ dưới yên xe số thường khá khiêm tốn, nên đôi giày thay hãy bỏ trong túi vải đeo sau lưng.
 
-Nếu ngại cái cần số tới mức muốn đổi kiểu xe, thử xem bài so sánh [Wave và Click khi cùng mức giá thuê](/xe-may/2026/10/11/cung-gia-150000-moi-ngay-nen-thue-honda-wave-hay-honda-click/). Xe tay ga không phải đạp cần số nên giày đỡ xước hơn, đổi lại mỗi dòng xe có điểm hợp riêng.
+Nếu ngại cái cần số tới mức muốn đổi kiểu xe, thử xem bài so sánh [Wave và Click khi cùng mức giá thuê](/xe-may/2026/10/11/cung-gia-150000d-moi-ngay-nen-thue-honda-wave-hay-honda-click/). Xe tay ga không phải đạp cần số nên giày đỡ xước hơn, đổi lại mỗi dòng xe có điểm hợp riêng.
 
 Về trang phục, vài nguyên tắc nên nhớ:
 
@@ -58,7 +58,7 @@ Khi đường ướt, lái chậm lại một nhịp. Vạch sơn, nắp cống 
 Ngày nắng gắt thì cần áo khoác chống nắng, găng tay mỏng và kính che bụi. Yên xe phơi ngoài trời có thể rất nóng, nên tìm chỗ đỗ có mái.
 ## Giữ Wave ổn định cả tuần: kiểm tra nhanh mỗi cuối tuần
 
-Đi làm hằng ngày nghĩa là xe chạy nhiều đoạn ngắn, dừng và nổ máy liên tục. Dòng xe số này vốn bền, như bài về [độ bền của Wave khi thuê dài hạn](/xe-may/2026/09/27/iem-manh-ben-bi-cua-honda-wave-khi-thue-dai-han/) đã nói, nhưng vẫn cần bạn để mắt tới vài thứ. Mỗi chiều Chủ nhật, bỏ ra năm phút kiểm tra:
+Đi làm hằng ngày nghĩa là xe chạy nhiều đoạn ngắn, dừng và nổ máy liên tục. Dòng xe số này vốn bền, như bài về [độ bền của Wave khi thuê dài hạn](/xe-may/2026/09/27/diem-manh-ben-bi-cua-honda-wave-khi-thue-dai-han/) đã nói, nhưng vẫn cần bạn để mắt tới vài thứ. Mỗi chiều Chủ nhật, bỏ ra năm phút kiểm tra:
 
 - **Lốp:** nhìn xem có xẹp hay dính đinh, ấn thử thấy mềm bất thường thì bơm lại.
 - **Phanh:** cần phanh không quá rơ, bóp vào phải ăn đều.

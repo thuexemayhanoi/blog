@@ -37,7 +37,7 @@ Trạm xăng không phải chỗ để mày mò. Ngay khi vừa nhận xe, hãy 
 
 Nếu bạn thuê ở Nguyễn Tú, nhân lúc nhận xe hãy hỏi luôn quy ước về lượng xăng khi nhận và khi trả, vì đây là điều nên xác nhận trước khi đặt xe.
 
-Một lưu ý khi nắp nằm dưới yên: lấy mũ, áo mưa và túi nhỏ ra khỏi cốp trước khi nhấc yên, vì đồ dễ rơi xuống nền trạm hoặc kẹt vào khóa. Nếu bạn hay mang nhiều đồ, thử đọc thêm [chuyện cốp xe ga có chứa vừa hai mũ bảo hiểm không](/xe-may/2026/10/09/xe-tay-ga-thue-co-cop-u-chua-hai-mu-bao-hiem-khong/) để biết nên xếp gì vào đâu cho gọn.
+Một lưu ý khi nắp nằm dưới yên: lấy mũ, áo mưa và túi nhỏ ra khỏi cốp trước khi nhấc yên, vì đồ dễ rơi xuống nền trạm hoặc kẹt vào khóa. Nếu bạn hay mang nhiều đồ, thử đọc thêm [chuyện cốp xe ga có chứa vừa hai mũ bảo hiểm không](/xe-may/2026/10/09/xe-tay-ga-thue-co-cop-du-chua-hai-mu-bao-hiem-khong/) để biết nên xếp gì vào đâu cho gọn.
 
 ## Chọn trạm và cách vào trạm xăng ở Hà Nội
 
@@ -66,7 +66,7 @@ Dưới đây là trình tự gọn nhất cho lần đầu bạn tự thao tác
 
 ## Loại xăng, đổ tràn và những lỗi người mới hay gặp
 
-Về loại xăng, nhiều xe có nhãn nhỏ gần nắp bình hoặc trong sách hướng dẫn ghi nhiên liệu khuyến nghị. Hãy đọc nhãn ấy; nếu không thấy, hỏi người giao xe trước khi đổ. Ở cột bơm, bạn cũng nên nhìn tên nhiên liệu trên vòi, và nếu chưa rõ thì hỏi nhân viên. Trường hợp lỡ tay đổ sai, hãy đọc bài về [xe tay ga bị sặc xăng sau khi đổ nhầm](/xe-may/2026/10/05/xe-tay-ga-bi-sac-xang-sau-khi-o-nham/) để biết cách xử lý, đồng thời báo ngay cho bên cho thuê.
+Về loại xăng, nhiều xe có nhãn nhỏ gần nắp bình hoặc trong sách hướng dẫn ghi nhiên liệu khuyến nghị. Hãy đọc nhãn ấy; nếu không thấy, hỏi người giao xe trước khi đổ. Ở cột bơm, bạn cũng nên nhìn tên nhiên liệu trên vòi, và nếu chưa rõ thì hỏi nhân viên. Trường hợp lỡ tay đổ sai, hãy đọc bài về [xe tay ga bị sặc xăng sau khi đổ nhầm](/xe-may/2026/10/05/xe-tay-ga-bi-sac-xang-sau-khi-do-nham/) để biết cách xử lý, đồng thời báo ngay cho bên cho thuê.
 
 Những lỗi người mới thường gặp:
 

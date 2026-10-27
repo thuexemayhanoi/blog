@@ -24,7 +24,7 @@ Bảy ngày đủ có cả ngày thường lẫn cuối tuần, buổi sáng g�
 
 ## Ngày 1 và 2: tư thế ngồi, dắt xe, các kiểu dừng
 
-Việc đầu tiên không phải là chạy mà là ngồi yên trên xe vài phút. Lưng bạn thẳng hay phải gù? Tay với ghi đông có căng vai không? Sàn để chân của xe ga phẳng nên khá thoải mái, nhưng chính chỗ này dễ gây mỏi nếu chân bạn quá dài hoặc quá ngắn. Người cao có thể tham khảo [cách chỉnh tư thế ngồi cho đỡ mỏi chân](/xe-may/2026/10/11/nguoi-cao-thue-honda-vision-chan-co-chat-khong-va-nen-ngoi-the-nao-cho-o-moi/) trước khi kết luận xe chật.
+Việc đầu tiên không phải là chạy mà là ngồi yên trên xe vài phút. Lưng bạn thẳng hay phải gù? Tay với ghi đông có căng vai không? Sàn để chân của xe ga phẳng nên khá thoải mái, nhưng chính chỗ này dễ gây mỏi nếu chân bạn quá dài hoặc quá ngắn. Người cao có thể tham khảo [cách chỉnh tư thế ngồi cho đỡ mỏi chân](/xe-may/2026/10/11/nguoi-cao-thue-honda-vision-chan-co-chat-khong-va-nen-ngoi-the-nao-cho-do-moi/) trước khi kết luận xe chật.
 
 Sau đó thử những thao tác nhỏ mà ngày nào cũng gặp:
 
@@ -51,13 +51,13 @@ Cốp xe rất dễ quên thử, vì ở cửa hàng nó luôn trống. Hãy man
 2. Bạn mở cốp được ngay khi ngồi trên xe hay phải xuống xe?
 3. Khi cốp đầy, bạn có còn ngồi thoải mái không?
 
-Nếu hay đi chợ hoặc siêu thị, hãy đọc thêm bài [thuê Honda Vision chở đồ mua sắm có rộng không](/xe-may/2026/10/07/thue-honda-vision-cho-o-mua-sam-co-rong-khong/). Ở đây bạn chỉ cần một đáp án: cốp có đáp ứng thói quen của mình hay không.
+Nếu hay đi chợ hoặc siêu thị, hãy đọc thêm bài [thuê Honda Vision chở đồ mua sắm có rộng không](/xe-may/2026/10/07/thue-honda-vision-cho-do-mua-sam-co-rong-khong/). Ở đây bạn chỉ cần một đáp án: cốp có đáp ứng thói quen của mình hay không.
 
 ## Ngày 6 và 7: chi phí xăng và một chuyến khác thường
 
 Đừng tin con số tiêu hao xăng mà người khác khoe, vì mỗi người một cách vặn ga, một đoạn đường và một mức tải. Cách chắc nhất là tự đo trong đúng tuần thuê. Khi nhận xe, đổ đầy bình và ghi số đồng hồ km. Mỗi lần đổ xăng sau đó, ghi số tiền và số km. Đến ngày trả, đổ đầy lần cuối rồi cộng tiền xăng cả tuần, chia cho số ngày đi. Bạn sẽ có chi phí xăng trung bình mỗi ngày theo đúng thói quen của mình, từ đó nhân lên cho cả tháng.
 
-Đừng quên cộng thêm các khoản đi kèm khi có xe riêng như tiền gửi xe ở chỗ làm hay nơi ở. Còn nếu tò mò về giá thuê tuần, hãy xem [so sánh gói ngày, tuần, tháng](/xe-may/2026/10/11/gia-thue-honda-vision-so-sanh-goi-ngay-tuan-thang-e-chon-cho-ung/). Giá thuê Honda Vision theo tuần là 1 triệu đồng, bạn nên xác nhận lại trực tiếp trước khi đặt xe.
+Đừng quên cộng thêm các khoản đi kèm khi có xe riêng như tiền gửi xe ở chỗ làm hay nơi ở. Còn nếu tò mò về giá thuê tuần, hãy xem [so sánh gói ngày, tuần, tháng](/xe-may/2026/10/11/gia-thue-honda-vision-so-sanh-goi-ngay-tuan-thang-de-chon-cho-dung/). Giá thuê Honda Vision theo tuần là 1 triệu đồng, bạn nên xác nhận lại trực tiếp trước khi đặt xe.
 
 Ngày cuối, hãy thử một điều kiện khác ngày thường: chạy dọc đoạn đê ven sông Hồng vào sáng cuối tuần, nơi gió ngang và đường thoáng hơn, hoặc đi một quãng ngắn khi trời mưa phùn. Bạn sẽ thấy xe có ổn định khi gió mạnh không, tay có mỏi khi chạy xa không, và mình có tự tin khi mặt đường ướt không.
 

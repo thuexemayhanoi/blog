@@ -60,9 +60,9 @@ Mỗi tình huống đường phố có một cách xử lý riêng:
 - **Vòng xoay hoặc đoạn cua ven đê sông Hồng.** Giảm số trước khi vào cua, lúc xe còn thẳng. Đừng gạt số giữa cua, vì lúc xe nghiêng, bánh sau vừa phải giữ hướng vừa phải chịu lực hãm.
 - **Dốc xuống hầm chui hoặc cầu vượt.** Mặt đường ướt, lại có nắp cống kim loại và vạch sơn trắng rất trơn. Hãy chọn số thích hợp ngay từ chân dốc, khi xe còn thẳng và chưa phải phanh gấp, rồi kết hợp phanh trước nhẹ.
 
-- **Ngõ nhỏ khu phố cổ.** Nền lát gạch hoặc đá thường có lớp rêu mỏng, trơn hơn vẻ ngoài. Đi chậm, nhả ga sớm và giảm số khi còn thẳng hướng. Nếu bạn thường xuyên chạy loại đường này, hãy đọc thêm về [lợi thế của xe số trong ngõ nhỏ Hà Nội](/xe-may/2026/10/09/xe-so-thue-cho-uong-ngo-nho-ha-noi-co-loi-gi/).
+- **Ngõ nhỏ khu phố cổ.** Nền lát gạch hoặc đá thường có lớp rêu mỏng, trơn hơn vẻ ngoài. Đi chậm, nhả ga sớm và giảm số khi còn thẳng hướng. Nếu bạn thường xuyên chạy loại đường này, hãy đọc thêm về [lợi thế của xe số trong ngõ nhỏ Hà Nội](/xe-may/2026/10/09/xe-so-thue-cho-duong-ngo-nho-ha-noi-co-loi-gi/).
 
-Nếu trời đổ mưa nặng hạt, nguyên tắc còn rộng hơn chuyện giảm số: bạn nên giảm nhịp độ cả chuyến đi, như bài [xe số đi mưa lớn, giảm tốc và giữ đà](/xe-may/2026/10/10/xe-so-i-mua-lon-giam-toc-va-giu-a/) đã nói.
+Nếu trời đổ mưa nặng hạt, nguyên tắc còn rộng hơn chuyện giảm số: bạn nên giảm nhịp độ cả chuyến đi, như bài [xe số đi mưa lớn, giảm tốc và giữ đà](/xe-may/2026/10/10/xe-so-di-mua-lon-giam-toc-va-giu-da/) đã nói.
 
 ## Những thói quen khiến xe giật mà bạn không để ý
 
@@ -71,7 +71,7 @@ Nhiều cú giật đến từ thói quen nhỏ chứ không phải từ đườ
 - **Đạp số rồi thả bật chân ra.** Nhịp chân dứt khoát thì cú chuyển số cũng gắt theo. Hãy gạt vừa đủ, thả chân từ từ.
 
 - **Giảm số dồn dập nhiều cấp liền khi chưa giảm tốc.** Lúc đó động cơ phải chịu một lực hãm rất lớn, bánh sau không gánh nổi trên mặt đường ướt.
-- **Giày hoặc dép ướt trượt trên cần số.** Chân đạp lệch khiến cú gạt không trọn, xe dễ rơi vào số trung gian rồi tuột. Nếu từng gặp cảnh này, bạn có thể đọc thêm [cách xử lý khi xe số thuê bị tuột số giữa đường](/xe-may/2026/10/07/xe-so-thue-bi-tuot-so-giua-uong-phai-lam-sao/).
+- **Giày hoặc dép ướt trượt trên cần số.** Chân đạp lệch khiến cú gạt không trọn, xe dễ rơi vào số trung gian rồi tuột. Nếu từng gặp cảnh này, bạn có thể đọc thêm [cách xử lý khi xe số thuê bị tuột số giữa đường](/xe-may/2026/10/07/xe-so-thue-bi-tuot-so-giua-duong-phai-lam-sao/).
 
 - **Lốp mòn hoặc áp suất không phù hợp.** Lốp hết gai thì dù giảm số đúng cách vẫn dễ trượt. Hãy xem lại tình trạng lốp, và áp suất theo khuyến nghị của nhà sản xuất xe.
 
