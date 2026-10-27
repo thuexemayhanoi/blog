@@ -56,7 +56,7 @@ Nếu bạn ở phố cổ Hoàn Kiếm hay quanh Tây Hồ, hãy làm việc n�
 
 ### Ở cây xăng
 
-Số tiền phải trả hiện trên màn hình của cột bơm, nên bạn không cần nói tiếng Việt. Tắt máy, nhìn màn hình, chọn tờ tiền theo con số in to, đưa cho nhân viên và nhận lại tiền thối ngay tại chỗ. Đếm tiền thối trước khi nổ máy, rồi mới dắt xe ra. Các bước đổ xăng lần đầu được hướng dẫn chi tiết trong bài [khách quốc tế đổ xăng lần đầu ở Việt Nam](/thue-xe/2026/10/03/khach-quoc-te-o-xang-lan-au-o-viet-nam/).
+Số tiền phải trả hiện trên màn hình của cột bơm, nên bạn không cần nói tiếng Việt. Tắt máy, nhìn màn hình, chọn tờ tiền theo con số in to, đưa cho nhân viên và nhận lại tiền thối ngay tại chỗ. Đếm tiền thối trước khi nổ máy, rồi mới dắt xe ra. Các bước đổ xăng lần đầu được hướng dẫn chi tiết trong bài [khách quốc tế đổ xăng lần đầu ở Việt Nam](/thue-xe/2026/10/03/khach-quoc-te-do-xang-lan-dau-o-viet-nam/).
 
 ### Ở bãi gửi xe
 
@@ -64,7 +64,7 @@ Bãi gửi xe quanh hồ Hoàn Kiếm, chợ Đồng Xuân hay các điểm tham
 
 ### Ở tiệm vá lốp ven đường
 
-Đây là nơi dễ lẫn tiền nhất vì bạn đang mệt và lo. Trước khi thợ làm, hỏi giá bằng cách gõ câu hỏi vào ứng dụng dịch, hoặc nhờ thợ gõ con số lên điện thoại của bạn. Khi trả, đặt tờ tiền lên tay và đọc con số in to cùng thợ. Với xe thuê, nên báo cửa hàng trước khi sửa, như hướng dẫn trong bài [xe thuê bị thủng lốp giữa đường](/thue-xe/2026/09/30/xe-thue-bi-thung-lop-giua-uong-xu-ly-the-nao/).
+Đây là nơi dễ lẫn tiền nhất vì bạn đang mệt và lo. Trước khi thợ làm, hỏi giá bằng cách gõ câu hỏi vào ứng dụng dịch, hoặc nhờ thợ gõ con số lên điện thoại của bạn. Khi trả, đặt tờ tiền lên tay và đọc con số in to cùng thợ. Với xe thuê, nên báo cửa hàng trước khi sửa, như hướng dẫn trong bài [xe thuê bị thủng lốp giữa đường](/thue-xe/2026/09/30/xe-thue-bi-thung-lop-giua-duong-xu-ly-the-nao/).
 
 ## Khi nghi đã đưa nhầm hoặc nhận thiếu tiền thối
 

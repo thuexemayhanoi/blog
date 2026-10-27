@@ -77,7 +77,7 @@ Cách dùng ứng dụng dịch theo từng tình huống được nói kỹ tro
 
 **Giờ hẹn.** "Mai 9h" có thể là chín giờ sáng, nhưng "8h tối" và "20h" là cùng một giờ. Hỏi lại: "Chín giờ sáng mai đúng không ạ?" Tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa từ 09:00 đến 21:00 và không giao xe ngoài giờ này; nếu cần giao xe tới khách sạn ở phố cổ Hoàn Kiếm hay Tây Hồ, thời gian và chi phí giao nhận phải được xác nhận trước.
 
-**Giá thuê.** Chủ xe hay viết giá rút gọn bằng chữ "k" và "tr". Bài [đọc giá thuê xe máy bằng tiếng Việt](/thue-xe/2026/10/11/oc-gia-thue-xe-may-bang-tieng-viet-150k-1tr8-mot-tram-ruoi-la-bao-nhieu/) giải thích cách đọc. Giá nhắn qua tin phải khớp với [bảng giá](/bang-gia/) đã công bố; nếu thấy con số lạ, hỏi lại loại xe và số ngày thay vì tự nhân ra tổng.
+**Giá thuê.** Chủ xe hay viết giá rút gọn bằng chữ "k" và "tr". Bài [đọc giá thuê xe máy bằng tiếng Việt](/thue-xe/2026/10/11/doc-gia-thue-xe-may-bang-tieng-viet-150k-1tr8-mot-tram-ruoi-la-bao-nhieu/) giải thích cách đọc. Giá nhắn qua tin phải khớp với [bảng giá](/bang-gia/) đã công bố; nếu thấy con số lạ, hỏi lại loại xe và số ngày thay vì tự nhân ra tổng.
 
 **Đặt cọc.** Mức cọc và hình thức cọc được tiệm xác nhận trực tiếp. Đừng đoán từ một chữ viết tắt; hãy nhắn: "Anh cho mình hỏi lại, cọc bằng gì và trả lại lúc nào ạ?", rồi chụp lại câu trả lời.
 

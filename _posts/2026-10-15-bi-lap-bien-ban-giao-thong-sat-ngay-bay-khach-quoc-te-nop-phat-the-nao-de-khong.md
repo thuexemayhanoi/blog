@@ -81,7 +81,7 @@ Cách nhẹ nhàng nhất là không để một vụ việc nào rơi vào sát
 
 - **Trả xe sớm hơn một ngày** nếu lịch cho phép, rồi đi taxi ra sân bay thay vì tự chạy xe máy.
 - **Ngày cuối chỉ đi quãng ngắn**, tránh các trục đông như cầu Nhật Tân, đường Phạm Văn Đồng giờ tan tầm.
-- **Tra cứu phạt nguội trước khi trả xe**, theo hướng dẫn trong bài [kiểm tra phạt nguội xe thuê trước khi trả](/an-toan-phap-ly/2026/10/07/kiem-tra-phat-nguoi-xe-thue-truoc-khi-tra-o-au/).
+- **Tra cứu phạt nguội trước khi trả xe**, theo hướng dẫn trong bài [kiểm tra phạt nguội xe thuê trước khi trả](/an-toan-phap-ly/2026/10/07/kiem-tra-phat-nguoi-xe-thue-truoc-khi-tra-o-dau/).
 - **Lưu sẵn số điện thoại đại sứ quán** và địa chỉ chỗ ở bằng tiếng Việt trong điện thoại.
 
 Nếu đã lỡ bị lập biên bản, hãy hỏi rõ, nộp qua kênh chính thức, giữ biên lai và nhờ đúng người hỗ trợ. Xem thêm các bài dành cho [khách quốc tế thuê xe ở Hà Nội](/thue-xe/khach-quoc-te/) và toàn bộ chuyên mục [thuê xe máy](/thue-xe/).

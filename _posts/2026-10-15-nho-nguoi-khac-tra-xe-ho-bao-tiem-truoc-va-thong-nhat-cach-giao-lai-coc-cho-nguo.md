@@ -45,7 +45,7 @@ Cách gọn nhất nếu tiệm đồng ý. Khi đó cần thống nhất trư�
 
 ### Cọc chuyển về tài khoản của bạn
 
-Người trả hộ chỉ giao xe, còn cọc được chuyển cho bạn. Hãy hỏi tiệm có làm được không, chuyển khi nào sau khi kiểm tra xe, và gửi thông tin tài khoản của chính bạn bằng tin nhắn để có dấu vết. Những lưu ý về hoàn cọc qua chuyển khoản có trong bài [đặt cọc bằng chuyển khoản thì hoàn thế nào](/thue-xe/2026/10/05/at-coc-thue-xe-may-bang-chuyen-khoan-hoan-the-nao/).
+Người trả hộ chỉ giao xe, còn cọc được chuyển cho bạn. Hãy hỏi tiệm có làm được không, chuyển khi nào sau khi kiểm tra xe, và gửi thông tin tài khoản của chính bạn bằng tin nhắn để có dấu vết. Những lưu ý về hoàn cọc qua chuyển khoản có trong bài [đặt cọc bằng chuyển khoản thì hoàn thế nào](/thue-xe/2026/10/05/dat-coc-thue-xe-may-bang-chuyen-khoan-hoan-the-nao/).
 
 ### Tiệm giữ lại chờ bạn quay về
 

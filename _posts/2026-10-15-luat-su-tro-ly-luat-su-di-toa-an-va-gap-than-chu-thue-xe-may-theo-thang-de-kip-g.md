@@ -35,7 +35,7 @@ Sai lầm phổ biến nhất là chỉ nhìn thời gian di chuyển trên bả
 
 ### Thời gian kẹt xe theo khung giờ
 
-Các trục như Nguyễn Chí Thanh, Xã Đàn, Trần Duy Hưng hay đầu cầu Chương Dương thường đặc xe vào sáng sớm và cuối chiều, nhất là khi phải qua sông từ Long Biên, Gia Lâm vào trung tâm. Kỹ năng giữ bình tĩnh trong dòng xe đặc được nói kỹ ở bài [kẹt xe giờ cao điểm nội thành](/ky-nang/2026-09-29/ket-xe-gio-cao-iem-noi-thanh-ky-nang-i-xe-may-an-toan/).
+Các trục như Nguyễn Chí Thanh, Xã Đàn, Trần Duy Hưng hay đầu cầu Chương Dương thường đặc xe vào sáng sớm và cuối chiều, nhất là khi phải qua sông từ Long Biên, Gia Lâm vào trung tâm. Kỹ năng giữ bình tĩnh trong dòng xe đặc được nói kỹ ở bài [kẹt xe giờ cao điểm nội thành](/ky-nang/2026-09-29/ket-xe-gio-cao-diem-noi-thanh-ky-nang-di-xe-may-an-toan/).
 
 ### Thời gian tìm chỗ gửi xe
 
@@ -59,7 +59,7 @@ Hồ sơ giấy, tài liệu thân chủ giao không thể để ướt, nhàu h
 4. **Không bỏ bản gốc quan trọng trong cốp xe** rồi để xe ở bãi cả buổi. Mang theo người những gì không thể thay thế.
 5. **Kiểm đếm hồ sơ trước khi rời mỗi điểm.**
 
-Cách bọc đồ nhiều lớp khi trời mưa được hướng dẫn chi tiết ở bài [chở đồ khi trời mưa: cách bọc kín](/ky-nang/2026-09-29/cho-o-khi-troi-mua-cach-boc-kin/).
+Cách bọc đồ nhiều lớp khi trời mưa được hướng dẫn chi tiết ở bài [chở đồ khi trời mưa: cách bọc kín](/ky-nang/2026-09-29/cho-do-khi-troi-mua-cach-boc-kin/).
 
 ## Trang phục khi đi xe đến buổi làm việc
 
@@ -74,7 +74,7 @@ Ngồi xe máy giữa bụi đường và nắng gió, quần áo chỉn chu r�
 
 Lịch đi lại thường là nhiều quãng ngắn trong nội đô, dừng đỗ liên tục. Xe tay ga như Honda Vision hoặc Honda Air Blade hợp kiểu đi này: cốp chứa được áo mưa, áo khoác, sàn để chân đặt được cặp hồ sơ. Quen xe số thì Honda Wave nhẹ và bền.
 
-Khi nhận xe, thử phanh, đèn, còi, lốp và chụp ảnh tình trạng xe. Bài [thuê xe máy dài hạn cho nhân viên văn phòng](/thue-xe/2026/10/11/thue-xe-may-dai-han-cho-nhan-vien-van-phong/) có thêm gợi ý chọn xe cho người đi làm hằng ngày, còn bài [nhân viên kinh doanh đi gặp khách cả ngày](/thue-xe/2026/10/11/nhan-vien-kinh-doanh-i-gap-khach-ca-ngay-thue-xe-may-thang-va-xep-lo-trinh/) bàn kỹ cách xếp lộ trình nhiều điểm.
+Khi nhận xe, thử phanh, đèn, còi, lốp và chụp ảnh tình trạng xe. Bài [thuê xe máy dài hạn cho nhân viên văn phòng](/thue-xe/2026/10/11/thue-xe-may-dai-han-cho-nhan-vien-van-phong/) có thêm gợi ý chọn xe cho người đi làm hằng ngày, còn bài [nhân viên kinh doanh đi gặp khách cả ngày](/thue-xe/2026/10/11/nhan-vien-kinh-doanh-di-gap-khach-ca-ngay-thue-xe-may-thang-va-xep-lo-trinh/) bàn kỹ cách xếp lộ trình nhiều điểm.
 
 ## Gặp thân chủ đúng hẹn: vài thói quen nhỏ
 

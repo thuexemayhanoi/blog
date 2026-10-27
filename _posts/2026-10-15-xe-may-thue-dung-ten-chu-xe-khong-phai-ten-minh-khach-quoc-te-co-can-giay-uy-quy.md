@@ -57,7 +57,7 @@ Gộp lại, khi đi xe thuê quanh Hà Nội, bạn nên có:
 
 - **Giấy phép lái xe phù hợp** với chiếc xe, cùng giấy tờ chứng minh nó được công nhận ở Việt Nam nếu là bằng nước ngoài. Bài [giấy phép lái xe quốc tế và giấy phép được công nhận](/thue-xe/2026/09/27/giay-phep-lai-xe-quoc-te-va-giay-phep-cong-nhan-tai-viet-nam/) giải thích phần này.
 - **Giấy đăng ký xe** theo hình thức cửa hàng đã xác nhận.
-- **Giấy bảo hiểm bắt buộc** của xe; cách kiểm tra lúc nhận có trong bài [xe máy thuê đã có bảo hiểm dân sự bắt buộc chưa](/an-toan-phap-ly/2026/10/05/xe-may-thue-a-co-bao-hiem-dan-su-bat-buoc-chua/).
+- **Giấy bảo hiểm bắt buộc** của xe; cách kiểm tra lúc nhận có trong bài [xe máy thuê đã có bảo hiểm dân sự bắt buộc chưa](/an-toan-phap-ly/2026/10/05/xe-may-thue-da-co-bao-hiem-dan-su-bat-buoc-chua/).
 - **Hợp đồng hoặc biên nhận thuê**, kèm ảnh chụp trên điện thoại.
 - **Hộ chiếu hoặc bản chụp** để đối chiếu nhân thân, theo cách bạn đã thống nhất với cửa hàng.
 

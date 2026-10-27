@@ -38,7 +38,7 @@ Mẫu vật liệu là thứ dễ hỏng nhất trên xe máy. Gỗ công nghi�
 - **Catalogue dày** để trong cốp hoặc ba lô, bọc thêm túi nilon vào mùa mưa.
 - **Không chở tấm mẫu lớn** như tấm ván nguyên khổ, khung cửa mẫu, tấm kính hay đá lát cỡ lớn. Những món này che tầm nhìn, bị gió ngang quật trên cầu và kéo cả người lẫn xe. Hãy nhờ xưởng hoặc cửa hàng vật liệu giao bằng xe tải.
 
-Đồ không được thò quá thân xe, không che đèn và biển số. Các lưu ý pháp lý về hàng cồng kềnh nằm trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/), còn cách bọc đồ khi gặp mưa có trong bài [chở đồ khi trời mưa](/ky-nang/2026-09-29/cho-o-khi-troi-mua-cach-boc-kin/).
+Đồ không được thò quá thân xe, không che đèn và biển số. Các lưu ý pháp lý về hàng cồng kềnh nằm trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/), còn cách bọc đồ khi gặp mưa có trong bài [chở đồ khi trời mưa](/ky-nang/2026-09-29/cho-do-khi-troi-mua-cach-boc-kin/).
 
 ## Đi đo nhà phố và chung cư: gửi xe, lên tầng
 

@@ -21,7 +21,7 @@ Bảo vệ tòa nhà, nhân viên kỹ thuật trực điện nước hay ngư�
 
 Sau một đêm thức trắng, phản xạ chậm đi mà bản thân không nhận ra. Mắt vẫn mở, tay vẫn cầm lái, nhưng đầu óc có những quãng trống rất ngắn: nhìn đèn đỏ mà một lúc sau mới bóp phanh, đến ngã tư quen mà không nhớ mình đã đi qua đoạn trước thế nào. Trên xe máy, chỉ một giây lơ đãng như vậy ở chỗ đông người là đủ gây va chạm.
 
-Điều đáng ngại là người mệt thường đánh giá sai chính mình. Ngồi trong phòng trực có điều hòa ai cũng thấy mình tỉnh; ra đường, gió mát và tiếng xe đều đều mới là lúc cơn buồn ngủ ập tới. Những rủi ro chung khi lái xe trong lúc thiếu ngủ được nói kỹ ở bài [chạy xe khi đang mệt hay thiếu ngủ](/ky-nang/2026-09-29-chay-xe-khi-ang-met-hay-thieu-ngu-rui-ro/); ở đây chúng ta đi vào tình huống riêng của người trực ca dài.
+Điều đáng ngại là người mệt thường đánh giá sai chính mình. Ngồi trong phòng trực có điều hòa ai cũng thấy mình tỉnh; ra đường, gió mát và tiếng xe đều đều mới là lúc cơn buồn ngủ ập tới. Những rủi ro chung khi lái xe trong lúc thiếu ngủ được nói kỹ ở bài [chạy xe khi đang mệt hay thiếu ngủ](/ky-nang/2026-09-29-chay-xe-khi-dang-met-hay-thieu-ngu-rui-ro/); ở đây chúng ta đi vào tình huống riêng của người trực ca dài.
 
 ## Dấu hiệu cho thấy hôm nay không nên tự lái về
 
@@ -60,7 +60,7 @@ Nếu giao ca lúc gần bảy giờ sáng, nghỉ thêm một lúc ở chỗ l�
 
 Không vượt ẩu, không cố bám đuôi xe trước. Giữ khoảng cách rộng hơn bình thường để bù cho phản xạ đang chậm. Thấy lơ mơ giữa đường thì tấp vào cây xăng hay quán nước ven đường, nghỉ cho tỉnh rồi mới đi tiếp.
 
-Với những ai thường tan ca lúc đêm khuya thay vì buổi sáng, bài [thuê xe máy đi tan ca đêm: an toàn và tuyến về](/thue-xe/2026/10/11/thue-xe-may-i-tan-ca-em-an-toan-va-tuyen-ve/) có thêm gợi ý về đèn xe và đường vắng.
+Với những ai thường tan ca lúc đêm khuya thay vì buổi sáng, bài [thuê xe máy đi tan ca đêm: an toàn và tuyến về](/thue-xe/2026/10/11/thue-xe-may-di-tan-ca-dem-an-toan-va-tuyen-ve/) có thêm gợi ý về đèn xe và đường vắng.
 
 ## Khi quá mệt: đi taxi hoặc xe công nghệ, để xe lại nơi trực
 
@@ -83,6 +83,6 @@ Người trực ca dài thường không đi lại theo giờ hành chính, nên
 - **Giữ sẵn áo mưa và áo phản quang trong cốp.**
 - **Xe hỏng hay thủng lốp** thì gọi cửa hàng qua số 0942467674 thay vì cố chạy về.
 
-Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00 và không giao xe ngoài giờ này. Thời gian, chi phí giao nhận và tiền cọc cần hỏi rõ trực tiếp trước khi đặt. Nếu bạn làm ca đêm cố định và muốn tìm hiểu cách chọn gói thuê cho lịch làm việc này, có thể đọc thêm bài [thuê xe máy theo tháng cho người đi làm ca đêm](/thue-xe/2026/10/05/thue-xe-may-theo-thang-cho-nguoi-i-lam-ca-em/).
+Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00 và không giao xe ngoài giờ này. Thời gian, chi phí giao nhận và tiền cọc cần hỏi rõ trực tiếp trước khi đặt. Nếu bạn làm ca đêm cố định và muốn tìm hiểu cách chọn gói thuê cho lịch làm việc này, có thể đọc thêm bài [thuê xe máy theo tháng cho người đi làm ca đêm](/thue-xe/2026/10/05/thue-xe-may-theo-thang-cho-nguoi-di-lam-ca-dem/).
 
 Ca trực 24 giờ đã đủ vất vả, đừng để quãng đường về trở thành phần nguy hiểm nhất. Nghỉ ngắn, uống nước, đi đường quen, và mạnh dạn để xe lại khi quá mệt. Các bài khác về thuê xe dài ngày có ở mục [thuê xe theo tháng](/thue-xe/thue-thang/), còn hướng dẫn chung nằm trong chuyên mục [thuê xe](/thue-xe/).

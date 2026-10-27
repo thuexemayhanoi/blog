@@ -52,7 +52,7 @@ Cách làm gọn cho nhóm:
 - **Quay thêm một đoạn video ngắn đi một vòng quanh xe.** Video có thời gian ghi sẵn, khó bị nghi là chụp sau.
 - **Gửi ngay vào nhóm chat** kèm biển số và tên người đi xe. Như vậy ai đi chiếc nào được ghi lại rõ ràng.
 
-Cách chụp chi tiết từng góc có trong bài [chụp ảnh xe khi thuê để làm gì](/thue-xe/2026/10/07/chup-anh-xe-khi-thue-xe-e-lam-gi/). Với nhóm, điểm khác là ảnh phải gắn được với từng người, không chỉ với từng xe.
+Cách chụp chi tiết từng góc có trong bài [chụp ảnh xe khi thuê để làm gì](/thue-xe/2026/10/07/chup-anh-xe-khi-thue-xe-de-lam-gi/). Với nhóm, điểm khác là ảnh phải gắn được với từng người, không chỉ với từng xe.
 
 ## Chia trách nhiệm xe thuê trong nhóm: ai chịu vết trầy xước
 
@@ -70,7 +70,7 @@ Phù hợp với nhóm thân, đi chung một đoàn, xe dừng đỗ cùng ch�
 
 Trầy do người lái tự gây ra, như đổ xe khi quay đầu trên đường đất hay va vào cột khi dắt xe, thì người đó chịu. Trầy khi xe đang đỗ, không rõ ai gây ra, thì cả nhóm chia.
 
-Dù chọn cách nào, chi phí khắc phục bao nhiêu là việc xác nhận trực tiếp với cửa hàng khi trả xe, không tự đoán hay tự mặc cả trong nhóm trước. Cách xử lý một vết trầy nhỏ khi đỗ xe được nói riêng trong bài [xe thuê bị trầy xước nhẹ khi đỗ xe](/thue-xe/2026/10/10/xe-thue-bi-tray-xuoc-nhe-khi-o-xe-xu-ly-ra-sao/).
+Dù chọn cách nào, chi phí khắc phục bao nhiêu là việc xác nhận trực tiếp với cửa hàng khi trả xe, không tự đoán hay tự mặc cả trong nhóm trước. Cách xử lý một vết trầy nhỏ khi đỗ xe được nói riêng trong bài [xe thuê bị trầy xước nhẹ khi đỗ xe](/thue-xe/2026/10/10/xe-thue-bi-tray-xuoc-nhe-khi-do-xe-xu-ly-ra-sao/).
 
 ## Ghi thỏa thuận ra tin nhắn, không chỉ nói miệng
 

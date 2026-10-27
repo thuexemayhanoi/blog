@@ -72,7 +72,7 @@ Chiều ngược lại cũng vậy. Khi người cho thuê đề nghị bạn g�
 Ảnh đã khớp, video đã xem, vẫn còn hai việc trước khi bấm chuyển:
 
 1. **Gọi điện vào số đăng trong tin rao**, nghe người thật trả lời, hỏi địa chỉ để xe cụ thể. Một tiệm có địa chỉ cố định thường trả lời ngay được phố nào, số nhà nào.
-2. **Soát tên chủ tài khoản nhận tiền** hiện trên ứng dụng ngân hàng trước khi xác nhận, như bài [quét mã QR để chuyển cọc](/thue-xe/2026/10/11/quet-ma-qr-e-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/) đã nêu.
+2. **Soát tên chủ tài khoản nhận tiền** hiện trên ứng dụng ngân hàng trước khi xác nhận, như bài [quét mã QR để chuyển cọc](/thue-xe/2026/10/11/quet-ma-qr-de-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/) đã nêu.
 
 Giữ lại toàn bộ ảnh, video, tin nhắn và ảnh giao dịch trong một thư mục riêng. Hôm nhận xe ở Hà Nội, bạn mở ra đối chiếu với chiếc xe thật. Nếu sau khi chuyển tiền mà người kia biến mất, hãy liên hệ tổng đài ngân hàng của bạn và trình báo công an nơi gần nhất, mang theo những bằng chứng này.
 

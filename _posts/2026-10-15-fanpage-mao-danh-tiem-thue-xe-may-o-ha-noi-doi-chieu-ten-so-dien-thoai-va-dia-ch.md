@@ -72,7 +72,7 @@ Nếu đã lỡ chuyển, hãy làm ngay mấy việc sau:
 - Trình báo tại cơ quan công an nơi gần nhất; khi có tình huống khẩn cấp, gọi 113.
 - Báo cáo trang giả trên Facebook để cảnh báo người khác.
 
-Không ai hứa chắc bạn lấy lại được tiền, nên phòng ngừa vẫn quan trọng hơn. Cách giữ bằng chứng khi chuyển cọc qua ứng dụng được nói kỹ trong bài [cách giữ bằng chứng cọc khi đặt tiền thuê xe qua ứng dụng](/thue-xe/2026/10/07/cach-giu-bang-chung-coc-khi-at-tien-thue-xe-qua-ung-dung/), còn thao tác soát tên người nhận trên màn hình chuyển khoản có trong bài [quét mã QR để chuyển cọc thuê xe](/thue-xe/2026/10/11/quet-ma-qr-e-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/).
+Không ai hứa chắc bạn lấy lại được tiền, nên phòng ngừa vẫn quan trọng hơn. Cách giữ bằng chứng khi chuyển cọc qua ứng dụng được nói kỹ trong bài [cách giữ bằng chứng cọc khi đặt tiền thuê xe qua ứng dụng](/thue-xe/2026/10/07/cach-giu-bang-chung-coc-khi-dat-tien-thue-xe-qua-ung-dung/), còn thao tác soát tên người nhận trên màn hình chuyển khoản có trong bài [quét mã QR để chuyển cọc thuê xe](/thue-xe/2026/10/11/quet-ma-qr-de-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/).
 
 ## Kiểm tra fanpage trước khi chuyển cọc: danh sách gọn
 
@@ -84,6 +84,6 @@ Trước khi bấm chuyển, hãy tự trả lời được năm câu:
 4. Địa chỉ, giờ mở cửa và cách giao nhận xe có khớp với những gì tiệm công bố không?
 5. Trang có lịch sử rõ ràng, hay mới lập, đổi tên nhiều lần và chỉ chịu nhắn tin?
 
-Còn câu nào chưa rõ thì đừng chuyển tiền. Mức cọc và hình thức cọc cần xác nhận trực tiếp với cửa hàng qua số chính thức. Những câu nên hỏi về cọc được gom lại trong bài [đặt cọc khi thuê xe máy cần hỏi rõ điều gì](/thue-xe/2026/09/27/at-coc-khi-thue-xe-may-can-hoi-ro-ieu-gi/).
+Còn câu nào chưa rõ thì đừng chuyển tiền. Mức cọc và hình thức cọc cần xác nhận trực tiếp với cửa hàng qua số chính thức. Những câu nên hỏi về cọc được gom lại trong bài [đặt cọc khi thuê xe máy cần hỏi rõ điều gì](/thue-xe/2026/09/27/dat-coc-khi-thue-xe-may-can-hoi-ro-dieu-gi/).
 
 Đối chiếu vài phút giúp bạn tránh mất tiền và bắt đầu chuyến đi ở Hà Nội yên tâm hơn. Xem thêm các bài trong chuyên mục [đặt cọc và giữ giấy tờ](/thue-xe/dat-coc/) và trang tổng hợp [kinh nghiệm thuê xe máy](/thue-xe/).

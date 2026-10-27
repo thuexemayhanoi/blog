@@ -73,6 +73,6 @@ Cần nói thẳng: khả năng lấy lại giá trị thẻ cào hay tiền mã
 - **Xin biên nhận cọc** ghi rõ khoản đã đưa, ngày giờ, biển số xe.
 - **Không dùng thẻ cào, thẻ quà tặng hay tiền mã hóa** để cọc, dù được giải thích hợp lý đến đâu.
 
-So sánh hai cách phổ biến có ở bài [đặt cọc bằng tiền mặt hay chuyển khoản](/thue-xe/2026/10/05/at-coc-bang-tien-mat-hay-chuyen-khoan-khi-thue-xe/).
+So sánh hai cách phổ biến có ở bài [đặt cọc bằng tiền mặt hay chuyển khoản](/thue-xe/2026/10/05/dat-coc-bang-tien-mat-hay-chuyen-khoan-khi-thue-xe/).
 
 Tóm lại, yêu cầu cọc bằng thẻ cào hay tiền ảo là tín hiệu để rút lui: khó truy vết, gần như không đòi lại được, và hầu như luôn đi kèm áp lực thời gian. Các bài khác về cọc nằm ở mục [đặt cọc và giữ giấy tờ](/thue-xe/dat-coc/), kinh nghiệm thuê xe máy ở Hà Nội nói chung có trong chuyên mục [thuê xe](/thue-xe/).

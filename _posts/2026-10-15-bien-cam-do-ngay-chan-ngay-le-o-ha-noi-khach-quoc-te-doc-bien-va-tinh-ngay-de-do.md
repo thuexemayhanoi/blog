@@ -61,7 +61,7 @@ Biển cấm đỗ chỉ áp dụng cho phía đường có đặt biển. Phía
 
 Về phạm vi, quy chuẩn quy định hiệu lực của biển bắt đầu từ vị trí đặt biển và kéo dài đến nơi đường giao nhau tiếp theo, hoặc đến vị trí quy định cho đỗ, dừng xe, hoặc đến biển hết tất cả các lệnh cấm. Hiểu đơn giản trên phố: đi qua biển thì từ đó trở đi là vùng bị cấm, cho tới ngã ba hoặc ngã tư kế tiếp. Đoạn phố sau ngã tư có thể lại có biển khác, nên mỗi lần định dừng hãy nhìn lại cột biển gần nhất.
 
-Nếu biển có mũi tên ở biển phụ, đọc thêm hướng mũi tên để biết lệnh cấm áp dụng về phía nào tính từ cột biển. Phần kiến thức chung về biển cấm dừng, cấm đỗ và vạch kẻ cạnh lề có trong bài [biển báo cấm dừng đỗ và chỗ để xe hợp lệ](/an-toan-phap-ly/2026/10/10/bien-bao-cam-dung-o-va-cho-e-xe-hop-le/), còn nhóm biển hay gặp khác được tóm tắt ở bài [khách quốc tế đọc biển báo và luật giao thông cơ bản](/thue-xe/2026/09/27/khach-quoc-te-oc-bien-bao-va-luat-giao-thong-co-ban/).
+Nếu biển có mũi tên ở biển phụ, đọc thêm hướng mũi tên để biết lệnh cấm áp dụng về phía nào tính từ cột biển. Phần kiến thức chung về biển cấm dừng, cấm đỗ và vạch kẻ cạnh lề có trong bài [biển báo cấm dừng đỗ và chỗ để xe hợp lệ](/an-toan-phap-ly/2026/10/10/bien-bao-cam-dung-do-va-cho-de-xe-hop-le/), còn nhóm biển hay gặp khác được tóm tắt ở bài [khách quốc tế đọc biển báo và luật giao thông cơ bản](/thue-xe/2026/09/27/khach-quoc-te-doc-bien-bao-va-luat-giao-thong-co-ban/).
 
 ## Không chắc thì gửi xe ở điểm trông giữ
 

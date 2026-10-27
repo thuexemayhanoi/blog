@@ -38,7 +38,7 @@ Nói ngắn gọn: ký giấy vay nợ thay cọc có thể phát sinh rắc r�
 
 Biến thể thứ hai là giấy mua bán xe, với hai dạng: bạn ký "bán" chiếc xe của mình cho người cho thuê để làm tin, hoặc ký xác nhận đã "mua" chính chiếc xe đang thuê và còn nợ tiền. Dạng đầu nói tài sản của bạn đã đổi chủ, dạng sau tự nhận một khoản nợ bằng giá xe. Cả hai đều không phản ánh việc thuê xe, và có thể bị dùng sai mục đích khi hai bên bất đồng, chẳng hạn lúc trả xe có vết xước mới.
 
-Nếu cần giữ tài sản làm tin, hãy ghi đúng bản chất vào biên nhận. Các phương án giữ đồ, giữ xe làm tin và rủi ro của chúng đã được bàn trong bài [giữ giấy tờ thay đặt cọc có nên không](/thue-xe/2026/09/27/giu-giay-to-thay-at-coc-nen-hay-khong/) và bài [tiệm đề nghị giữ điện thoại hoặc laptop làm tin](/thue-xe/2026/10/15/tiem-de-nghi-giu-dien-thoai-hoac-laptop-lam-tin-khi-thue-xe-may-co-nen-dong-y-va/).
+Nếu cần giữ tài sản làm tin, hãy ghi đúng bản chất vào biên nhận. Các phương án giữ đồ, giữ xe làm tin và rủi ro của chúng đã được bàn trong bài [giữ giấy tờ thay đặt cọc có nên không](/thue-xe/2026/09/27/giu-giay-to-thay-dat-coc-nen-hay-khong/) và bài [tiệm đề nghị giữ điện thoại hoặc laptop làm tin](/thue-xe/2026/10/15/tiem-de-nghi-giu-dien-thoai-hoac-laptop-lam-tin-khi-thue-xe-may-co-nen-dong-y-va/).
 
 ## Giấy tờ không nên ký khi thuê xe và giấy nên ký
 
@@ -47,7 +47,7 @@ Nguyên tắc: chỉ ký những gì mô tả đúng việc đang xảy ra, tứ
 1. **Hợp đồng hoặc phiếu thuê xe**, ghi tên hai bên, biển số, ngày giờ nhận và trả, tình trạng xe lúc giao, giá thuê đã thống nhất.
 2. **Biên nhận cọc**, ghi rõ đây là tiền cọc thuê xe hoặc giấy tờ để lại làm tin, kèm số tiền thực tế hoặc tên giấy tờ, ngày nhận, điều kiện trả lại.
 
-Những giấy bạn nên từ chối gồm: giấy vay tiền, giấy nhận nợ, giấy mua bán hoặc tặng cho xe, giấy ủy quyền bất kỳ, và mọi tờ giấy còn để trống số tiền hay nội dung. Nếu được đưa biên nhận chưa điền đủ, đọc thêm bài [được đề nghị ký biên nhận cọc còn để trống](/thue-xe/2026/10/15/duoc-de-nghi-ky-bien-nhan-coc-con-de-trong-vi-sao-nen-tu-choi-va-dien-du-truoc-k/). Còn khi đã cầm hợp đồng thuê trên tay, các mục cần dừng lại đọc kỹ được liệt kê trong bài [đọc kỹ hợp đồng thuê xe máy](/thue-xe/2026/10/04/oc-ky-hop-ong-thue-xe-may-nhung-muc-nen-dung-lai/).
+Những giấy bạn nên từ chối gồm: giấy vay tiền, giấy nhận nợ, giấy mua bán hoặc tặng cho xe, giấy ủy quyền bất kỳ, và mọi tờ giấy còn để trống số tiền hay nội dung. Nếu được đưa biên nhận chưa điền đủ, đọc thêm bài [được đề nghị ký biên nhận cọc còn để trống](/thue-xe/2026/10/15/duoc-de-nghi-ky-bien-nhan-coc-con-de-trong-vi-sao-nen-tu-choi-va-dien-du-truoc-k/). Còn khi đã cầm hợp đồng thuê trên tay, các mục cần dừng lại đọc kỹ được liệt kê trong bài [đọc kỹ hợp đồng thuê xe máy](/thue-xe/2026/10/04/doc-ky-hop-dong-thue-xe-may-nhung-muc-nen-dung-lai/).
 
 ## Cách từ chối lịch sự và đề nghị hình thức bảo đảm minh bạch hơn
 

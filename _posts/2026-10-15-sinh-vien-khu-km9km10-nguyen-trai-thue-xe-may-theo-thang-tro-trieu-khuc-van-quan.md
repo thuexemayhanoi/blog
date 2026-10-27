@@ -48,7 +48,7 @@ Với ngõ nhỏ và nhiều lần dắt xe, tiêu chí đầu tiên là gọn v
 - **Xe số** như Honda Wave nhẹ, bền, hợp với bạn đã quen sang số và hay chở đồ lặt vặt.
 - **Xe lớn hơn** chỉ nên chọn khi bạn đã thạo tay lái và phòng trọ có chỗ để rộng.
 
-Cách quay đầu trong ngõ chật được hướng dẫn kỹ ở bài [quay đầu xe máy ở ngõ nhỏ](/ky-nang/2026/10/09/quay-au-xe-may-o-ngo-nho-co-cach-nao-gon/). Còn so sánh chi phí và mẹo tiết kiệm khi thuê cả tháng, bạn có thể đọc bài [sinh viên thuê xe máy theo tháng: chọn xe và tiết kiệm chi phí](/thue-xe/2026/10/01/sinh-vien-thue-xe-may-theo-thang-chon-xe-va-tiet-kiem-chi-phi/).
+Cách quay đầu trong ngõ chật được hướng dẫn kỹ ở bài [quay đầu xe máy ở ngõ nhỏ](/ky-nang/2026/10/09/quay-dau-xe-may-o-ngo-nho-co-cach-nao-gon/). Còn so sánh chi phí và mẹo tiết kiệm khi thuê cả tháng, bạn có thể đọc bài [sinh viên thuê xe máy theo tháng: chọn xe và tiết kiệm chi phí](/thue-xe/2026/10/01/sinh-vien-thue-xe-may-theo-thang-chon-xe-va-tiet-kiem-chi-phi/).
 
 ## Gửi xe gần trường: hỏi gì trước khi gửi cả tháng
 
@@ -69,7 +69,7 @@ Giữ vé hoặc ảnh chụp vé cẩn thận. Đừng bỏ giấy tờ xe tron
 3. **Đi đúng làn, không leo vỉa hè.** Đoạn sát vỉa hè có điểm dừng xe buýt và người đi bộ ra vào ga, leo lên vỉa hè vừa nguy hiểm vừa dễ va chạm.
 4. **Giữ khoảng cách và chú ý điểm mù** khi đi cạnh xe buýt, xe tải nhỏ.
 
-Kỹ năng chạy chậm trong dòng xe đặc được nói rõ ở bài [kẹt xe giờ cao điểm nội thành](/ky-nang/2026-09-29/ket-xe-gio-cao-iem-noi-thanh-ky-nang-i-xe-may-an-toan/).
+Kỹ năng chạy chậm trong dòng xe đặc được nói rõ ở bài [kẹt xe giờ cao điểm nội thành](/ky-nang/2026-09-29/ket-xe-gio-cao-diem-noi-thanh-ky-nang-di-xe-may-an-toan/).
 
 ## Thủ tục thuê theo tháng cho sinh viên
 
