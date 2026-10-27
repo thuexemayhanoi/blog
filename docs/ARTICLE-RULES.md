@@ -30,6 +30,9 @@ Với hàng `source_required = true` (toàn bộ parent `an-toan-phap-ly` và c�
 
 - Mỗi nhận định pháp lý: CLAIM → SUBJECT → CONDITION → QUY ĐỊNH HIỆN HÀNH → PHIÊN BẢN CÓ HIỆU LỰC → NGUỒN CHÍNH THỨC (văn bản pháp luật, cơ quan nhà nước).
 - Không chắc chắn → REVIEW hoặc BLOCKED, không đoán số tiền phạt hay mốc thời gian.
+- Mức phạt KHÔNG phải số liệu kinh doanh: chỉ nêu số tiền phạt có trong `data/business-facts.json` → `verified_legal_amounts`
+  (đã đối chiếu văn bản chính thức, ghi điều/khoản, văn bản sửa đổi đã kiểm, nguồn); câu chứa số tiền phải nói về mức phạt và
+  bài phải trích đúng số hiệu văn bản (scorer `legal_amount_ok`). Không dùng bảng giá thuê để "sửa" mức phạt và ngược lại.
 - Luôn ghi chú "mức phạt/regulation có thể thay đổi, kiểm tra văn bản mới nhất".
 
 ## SEO

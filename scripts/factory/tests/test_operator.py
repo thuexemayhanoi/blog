@@ -191,6 +191,46 @@ class OperatorQATest(unittest.TestCase):
             self.assertIn(v, op.APPROVED_AMOUNTS)
         self.assertNotIn(50000, op.APPROVED_AMOUNTS)
 
+    def test_approved_deposits_whitelisted_as_listed(self):
+        # Cọc đã duyệt (approved_pricing.*.deposit) được nêu được: mức đơn và hai đầu khoảng; mức giữa khoảng thì không.
+        pricing = dict(BIZ['approved_pricing'])
+        pricing['Honda Wave'] = dict(pricing['Honda Wave'], deposit='2000000 - 3000000')
+        pricing['Honda Air Blade'] = {'day': 200000, 'week': 1000000, 'month': 1500000, 'deposit': 3000000}
+        pricing['Xe máy điện'] = {'day': None, 'week': None, 'month': None, 'deposit': 'Xác nhận theo mẫu xe'}
+        op.APPROVED_AMOUNTS.clear()
+        op.build_amount_whitelist(dict(BIZ, approved_pricing=pricing))
+        for v in (2000000, 3000000):
+            self.assertIn(v, op.APPROVED_AMOUNTS)
+        self.assertNotIn(2500000, op.APPROVED_AMOUNTS)
+        self.assertNotIn(4000000, op.APPROVED_AMOUNTS)
+
+    def test_verified_legal_amount_only_in_fine_sentence_of_a_citing_post(self):
+        # Mức phạt đã đối chiếu văn bản (verified_legal_amounts) KHÔNG phải số liệu kinh doanh: chỉ được chấp nhận trong
+        # câu nói về mức phạt của bài có trích đúng văn bản; giá thuê/phí không bao giờ hợp thức hóa qua đường này.
+        biz = dict(BIZ, verified_legal_amounts=[{'citation': '168/2024/NĐ-CP', 'amounts': [400000, 600000]}])
+        op.APPROVED_AMOUNTS.clear()
+        op.build_amount_whitelist(biz)
+        cite = 'Theo Nghị định 168/2024/NĐ-CP, '
+        fine = cite + 'không đội mũ bảo hiểm bị phạt từ 400.000 đồng đến 600.000 đồng.'
+        self.assertTrue(op.legal_amount_ok(600000, fine))
+        self.assertTrue(op.legal_amount_ok(400000, fine))
+        # cùng số tiền nhưng là giá thuê (câu không nói về phạt) => từ chối
+        self.assertFalse(op.legal_amount_ok(600000, fine + ' Giá thuê tuần là 600.000 đồng.'))
+        # bài không trích văn bản quy định mức đó => từ chối
+        self.assertFalse(op.legal_amount_ok(600000, 'Không đội mũ bảo hiểm bị phạt 600.000 đồng.'))
+        # mức chưa đối chiếu => từ chối
+        self.assertFalse(op.legal_amount_ok(800000, cite + 'vượt đèn đỏ bị phạt 800.000 đồng.'))
+        self.assertNotIn(600000, op.APPROVED_AMOUNTS)
+        good = FRONT + BODY + '\n\n' + fine + '\n'
+        open('_drafts/2026-09-27-gia-thue-xe-may-theo-ngay-o-ha-noi.md', 'w', encoding='utf-8').write(good)
+        ev = op.qa_check_one(row(), [row()], biz, TAX)
+        self.assertTrue(ev['checks']['business_amounts'], ev.get('non_approved_amounts'))
+        bad = FRONT + BODY + '\n\nPhí giữ xe qua đêm là 600.000 đồng.\n\n' + fine + '\n'
+        open('_drafts/2026-09-27-gia-thue-xe-may-theo-ngay-o-ha-noi.md', 'w', encoding='utf-8').write(bad)
+        ev = op.qa_check_one(row(), [row()], biz, TAX)
+        self.assertFalse(ev['checks']['business_amounts'])
+        self.assertEqual(ev['non_approved_amounts'], [600000])
+
     def test_op_whitelist_rejects_unknown(self):
         os.chdir(self.pwd)
         r = subprocess.run([sys.executable, 'scripts/factory/factory-operator.py',

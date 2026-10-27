@@ -347,6 +347,9 @@ def export_manifest(row, tax, biz, rows, draft_date):
 # ---------------------------------------------------------------- QA scorer
 
 APPROVED_AMOUNTS = set()
+# Mức phạt đã đối chiếu văn bản chính thức (business-facts.verified_legal_amounts): {số tiền: {số hiệu văn bản}}.
+# KHÔNG phải số liệu kinh doanh: chỉ chấp nhận qua legal_amount_ok (câu nói về mức phạt + bài trích đúng văn bản).
+LEGAL_AMOUNTS = {}
 
 
 def build_amount_whitelist(biz):
@@ -364,8 +367,37 @@ def build_amount_whitelist(biz):
                         APPROVED_AMOUNTS.add(n)
                 except ValueError:
                     pass
+        # Tiền cọc đã duyệt theo dòng xe: mức đơn hoặc hai đầu khoảng (không rải bước 50.000 như giá thuê);
+        # chuỗi không phải số ("Xác nhận theo mẫu xe") bị bỏ qua.
+        dep = rates.get('deposit')
+        if isinstance(dep, int) and not isinstance(dep, bool):
+            APPROVED_AMOUNTS.add(dep)
+        elif isinstance(dep, str) and '-' in dep:
+            try:
+                APPROVED_AMOUNTS.update(int(x) for x in dep.split('-'))
+            except ValueError:
+                pass
     # thêm số 0 và các mốc phạm vi lề cho an toàn hiển thị
     APPROVED_AMOUNTS.add(0)
+    LEGAL_AMOUNTS.clear()
+    for entry in biz.get('verified_legal_amounts') or []:
+        cite = (entry.get('citation') or '').strip()
+        for v in entry.get('amounts') or []:
+            if cite and isinstance(v, int) and not isinstance(v, bool):
+                LEGAL_AMOUNTS.setdefault(v, set()).add(cite)
+
+
+def legal_amount_ok(amount, body):
+    """Số tiền ngoài bảng giá nhưng là MỨC PHẠT đã đối chiếu văn bản chính thức: chấp nhận khi (1) có trong
+    verified_legal_amounts, (2) bài trích đúng số hiệu một văn bản quy định mức đó, (3) MỌI câu chứa số tiền
+    đều nói về mức phạt (có từ "phạt"). Giá thuê/cọc/phí không bao giờ được hợp thức hóa qua đường này."""
+    cites = LEGAL_AMOUNTS.get(amount)
+    if not cites or not any(c in body for c in cites):
+        return False
+    shown = '{:,}'.format(amount).replace(',', '.')
+    pat = re.compile(r'(?<![\d.])' + re.escape(shown) + r'(?![\d.])')
+    sents = [x for x in re.split(r'(?<=[.!?])\s+|\n+', body) if pat.search(x)]
+    return bool(sents) and all('phạt' in x.lower() for x in sents)
 
 
 FORBIDDEN_RE = [re.compile(p) for p in [
@@ -685,7 +717,8 @@ def qa_check_one(row, rows, biz, tax):
 
     # ---- business facts (PASS-FAIL, không cho điểm)
     amounts = vnd_amounts(body)
-    bad = sorted(a for a in amounts if a not in APPROVED_AMOUNTS)
+    bad = sorted(a for a in amounts
+                 if a not in APPROVED_AMOUNTS and not legal_amount_ok(a, body))
     checks['business_amounts'] = not bad
     ev['non_approved_amounts'] = bad
     forbidden = [p.pattern for p in FORBIDDEN_RE if p.search(body)]
