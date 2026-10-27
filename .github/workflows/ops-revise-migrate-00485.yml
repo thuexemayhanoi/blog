@@ -1,0 +1,77 @@
+name: One-time safe approved price revision and slug migration 00485
+on:
+  push:
+    branches: ['ops/revise-migrate-00485-20261028']
+    paths: ['.github/workflows/ops-revise-migrate-00485.yml']
+permissions:
+  contents: write
+jobs:
+  revise-and-migrate:
+    if: github.repository == 'thuexemayhanoi/blog'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+      APPROVAL_REF: 'owner-chat-2026-10-28-approved-prices-and-slug/issue-77'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install canonical scorer's price YAML dependency
+        run: python3 -m pip install 'PyYAML>=6,<7'
+      - name: Construct surgical, approved business price corrections
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json
+          edits=[
+            {"old":"giá tuần dao động 800.000 – 1.000.000","new":"giá tuần là 1.000.000","count":1},
+            {"old":"có tuần 600.000 – 700.000","new":"có tuần 700.000","count":1},
+            {"old":"tháng 1.000.000 – 1.200.000","new":"tháng 900.000 – 1.200.000","count":1}
+          ]
+          p={"schema":"revise-patches/1","purpose":"price-sync-20261028","reason":"Đồng bộ mức giá Vision và Click/Mio theo bảng giá chủ xe duyệt 27/10/2026; không sửa title, URL hoặc liên kết","patches":{"BLG-00485":{"edits":edits}}}
+          open('/tmp/revise-00485.json','w').write(json.dumps(p,ensure_ascii=False,indent=2))
+          PY
+      - name: Full QA plan, verified price revision, history
+        run: |
+          set -euo pipefail
+          python3 scripts/factory/revise-published.py plan --domain-drift --patches /tmp/revise-00485.json --out /tmp/revise-00485-manifest.json
+          python3 - <<'PY'
+          import json
+          o=json.load(open('/tmp/revise-00485-manifest.json'))
+          print('ELIGIBLE:',o.get('eligible'))
+          print('EXCLUDED:',o.get('excluded'))
+          assert 'BLG-00485' in o.get('eligible',[]), 'not QA-eligible; no unsafe edits'
+          PY
+          python3 scripts/factory/revise-published.py apply --domain-drift --manifest /tmp/revise-00485-manifest.json --ids BLG-00485 --approval-ref "$APPROVAL_REF" --batch-id revise-20261028-00485
+          python3 scripts/factory/revise-published.py verify --backup reports/qa-audit/revise/revise-20261028-00485.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _posts/2026-09-27-nhung-yeu-to-lam-gia-thue-xe-may-thay-oi.md data/qa/BLG-00485.json reports/qa-audit/revise/revise-20261028-00485.json
+          git commit -m "fix(pricing): correct approved rental prices in BLG-00485"
+      - name: Migrate BLG-00485 permalink on revised clean HEAD
+        run: |
+          set -euo pipefail
+          python3 scripts/factory/migrate-slug-urls.py plan --ids BLG-00485 --out /tmp/migrate-00485.json
+          python3 - <<'PY'
+          import json
+          o=json.load(open('/tmp/migrate-00485.json'))
+          print('ELIGIBLE:',o.get('eligible'))
+          print('EXCLUDED:',o.get('excluded'))
+          assert 'BLG-00485' in o.get('eligible',[]), 'slug QA ineligible; no unsafe migration'
+          PY
+          python3 scripts/factory/migrate-slug-urls.py apply --manifest /tmp/migrate-00485.json --ids BLG-00485 --approval-ref "$APPROVAL_REF" --batch-id migrate-20261028-00485
+          python3 scripts/factory/migrate-slug-urls.py verify --backup reports/qa-audit/migrate/migrate-20261028-00485.json
+          python3 scripts/factory/migrate-slug-urls.py refresh-data
+          python3 scripts/factory/validate.py --scope chunk
+      - name: Remove temporary workflow; push verified changes only to ops branch
+        run: |
+          set -euo pipefail
+          git rm .github/workflows/ops-revise-migrate-00485.yml
+          git add -A
+          git commit -m "data(seo): migrate repaired BLG-00485 with canonical provenance"
+          git push origin HEAD:refs/heads/ops/revise-migrate-00485-20261028
