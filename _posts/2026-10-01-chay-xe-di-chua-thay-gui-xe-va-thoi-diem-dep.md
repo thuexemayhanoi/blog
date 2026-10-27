@@ -39,7 +39,7 @@ Ngày hội chùa Thầy vào mùa xuân, khi sân khấu giữa hồ lên tiế
 
 Ngoài chùa chính, đáng dạo quanh hồ nước trước chùa với sân khấu mái giữa hồ — kiến trúc sân khấu chèo hiếm có còn giữ được; phía sau là núi với các hang động nhỏ, leo bằng đường bậc đá ngắn nhưng trơn khi trời ẩm, nên đi giày bám tốt. Giữ yên tĩnh trong khuôn viên, mặc trang phục kín đáo, và để mũ bảo hiểm gọn trong cốp hoặc mang theo tay.
 
-Nếu bạn đang xếp thêm các buổi ngoại thành quanh Hà Nội, bài [đi thành Cổ Loa bằng xe máy](/du-lich/2026/10/01/i-thanh-co-loa-bang-xe-may-cung-uong-va-luu-y-chay-xe/) có thêm khung chạy xe đường trường hướng bắc, còn thêm nhiều gợi ý nằm trong danh sách [điểm đến](/du-lich/diem-den/). Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/).
+Nếu bạn đang xếp thêm các buổi ngoại thành quanh Hà Nội, bài [đi thành Cổ Loa bằng xe máy](/du-lich/2026/10/01/di-thanh-co-loa-bang-xe-may-cung-duong-va-luu-y-chay-xe/) có thêm khung chạy xe đường trường hướng bắc, còn thêm nhiều gợi ý nằm trong danh sách [điểm đến](/du-lich/diem-den/). Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/).
 
 ## Vài lưu ý trước khi lên đường
 

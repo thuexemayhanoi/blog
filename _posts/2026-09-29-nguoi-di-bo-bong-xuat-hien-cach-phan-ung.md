@@ -43,7 +43,7 @@ Chọn hướng né quan trọng ngang kỹ thuật phanh. Nếu người bộ h
 
 Nhìn xuyên qua khe giữa các xe phía trước thay vì nhìn vào đuôi xe sát trước mặt, bạn nắm được người bộ hành đang chuẩn bị băng từ xa. Quan sát gương chỉ cần nghiêng đầu một chút cũng đủ chốt không có xe nối đuôi sát, phòng khi bạn phải giảm tốc gấp. Tất cả những thao tác nhỏ này hợp lại thành bức tường chắn va chạm mà không cần đến thao tác tốc độ nào cả.
 
-Về lâu dài, hãy tập giảm tốc chủ động ở mọi vùng nghi ngờ, kể cả khi chưa thấy ai. Tốc độ đủ thấp để dừng trong tầm nhìn là quy tắc đơn giản mà hiệu quả nhất của người đi xe máy trong phố. Chỉ cần duy trì được quy tắc ấy quanh cổng trường, đầu ngõ và bến xe, phần lớn tình huống người bộ hành bất ngờ sẽ tự chuyển từ nguy hiểm thành một pha giảm tốc nhẹ nhàng. Bài viết về việc [đi sau xe buýt giữ khoảng cách](/ky-nang/2026-09-29/i-sau-xe-buyt-ung-khoang-cach/) phân tích thêm tình huống người bộ hành thường xuất hiện quanh điểm đỗ xe buýt.
+Về lâu dài, hãy tập giảm tốc chủ động ở mọi vùng nghi ngờ, kể cả khi chưa thấy ai. Tốc độ đủ thấp để dừng trong tầm nhìn là quy tắc đơn giản mà hiệu quả nhất của người đi xe máy trong phố. Chỉ cần duy trì được quy tắc ấy quanh cổng trường, đầu ngõ và bến xe, phần lớn tình huống người bộ hành bất ngờ sẽ tự chuyển từ nguy hiểm thành một pha giảm tốc nhẹ nhàng. Bài viết về việc [đi sau xe buýt giữ khoảng cách](/ky-nang/2026-09-29/di-sau-xe-buyt-dung-khoang-cach/) phân tích thêm tình huống người bộ hành thường xuất hiện quanh điểm đỗ xe buýt.
 
 ## Lời kết
 

@@ -37,7 +37,7 @@ Mặc ấm bất kể mùa nào: nửa đêm đầu mùa lạnh Hà Nội có kh
 
 ## Ghép lịch sau buổi chợ
 
-Buổi chợ sáng sớm thường khép bằng bữa ăn sáng quanh khu chân cầu hoặc bộ về phía phố cổ khi phố vừa dậy. Nhóm đi cuối tuần hay ghép tiếp một buổi cà phê trong không gian nhà cổ, và cách gửi xe quanh khu phố cổ được gom trong bài [đi cà phê phố cổ bằng xe máy](/du-lich/2026/10/01/i-ca-phe-pho-co-bang-xe-may-gui-xe-o-au-cho-tien/). Thêm nhiều gợi ý buổi đi quanh Hà Nội nằm trong danh sách [điểm đến](/du-lich/diem-den/).
+Buổi chợ sáng sớm thường khép bằng bữa ăn sáng quanh khu chân cầu hoặc bộ về phía phố cổ khi phố vừa dậy. Nhóm đi cuối tuần hay ghép tiếp một buổi cà phê trong không gian nhà cổ, và cách gửi xe quanh khu phố cổ được gom trong bài [đi cà phê phố cổ bằng xe máy](/du-lich/2026/10/01/di-ca-phe-pho-co-bang-xe-may-gui-xe-o-dau-cho-tien/). Thêm nhiều gợi ý buổi đi quanh Hà Nội nằm trong danh sách [điểm đến](/du-lich/diem-den/).
 
 Đừng nhồi thêm điểm thứ ba vào cùng sáng: lịch kiểu đó phá nhịp nghỉ giữa các chặng. Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/).
 

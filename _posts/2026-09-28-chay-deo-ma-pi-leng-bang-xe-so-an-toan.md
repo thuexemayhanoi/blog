@@ -23,7 +23,7 @@ Trục 4C có xe tải và xe khách địa phương chạy thường xuyên; xe
 
 ## Vào số khi lên dốc đèo
 
-Nguyên tắc chung khi lên dốc là giữ đà và giữ vòng tua ổn định, đã nói kỹ trong bài [đèo dốc trên đường Mộc Châu và cách vào số](/cung-duong/2026/09/28/eo-doc-tren-uong-moc-chau-va-cach-vao-so/), và trên Mã Pí Lèng nguyên tắc đó áp dụng chặt hơn. Trước mỗi khúc dốc, khách về số thấp hơn một bậc so với đường bằng cùng tốc độ, giữ đều ga và không đổi số giữa dốc trừ khi thật cần. Để số cao làm máy đuối giữa dốc là lỗi hay gặp nhất ở đây, vì dốc Mã Pí Lèng dài hơn khách hình dung khi nhìn từ dưới. Với các cua giao dốc, tức vừa lên vừa cua, khách đi rộng theo tầm nhìn, không cắt cua, và không bóp phanh giữa cua; cần chậm thì giảm trước cua. Xe chở hai người hoặc chở đồ nặng về thêm một bậc số và chấp nhận chậm, không lấy tốc độ nhóm một mình làm chuẩn.
+Nguyên tắc chung khi lên dốc là giữ đà và giữ vòng tua ổn định, đã nói kỹ trong bài [đèo dốc trên đường Mộc Châu và cách vào số](/cung-duong/2026/09/28/deo-doc-tren-duong-moc-chau-va-cach-vao-so/), và trên Mã Pí Lèng nguyên tắc đó áp dụng chặt hơn. Trước mỗi khúc dốc, khách về số thấp hơn một bậc so với đường bằng cùng tốc độ, giữ đều ga và không đổi số giữa dốc trừ khi thật cần. Để số cao làm máy đuối giữa dốc là lỗi hay gặp nhất ở đây, vì dốc Mã Pí Lèng dài hơn khách hình dung khi nhìn từ dưới. Với các cua giao dốc, tức vừa lên vừa cua, khách đi rộng theo tầm nhìn, không cắt cua, và không bóp phanh giữa cua; cần chậm thì giảm trước cua. Xe chở hai người hoặc chở đồ nặng về thêm một bậc số và chấp nhận chậm, không lấy tốc độ nhóm một mình làm chuẩn.
 
 ## Vào số khi xuống dốc và giữ phanh
 

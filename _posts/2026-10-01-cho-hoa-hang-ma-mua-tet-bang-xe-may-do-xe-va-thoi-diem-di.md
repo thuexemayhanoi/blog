@@ -37,7 +37,7 @@ Với người ở xa đến bằng xe máy thuê, một mẹo nhỏ là đi hai
 
 Một tối chợ hoa thường ghép liền với một vòng hồ Gươm hoặc dạo vài phố trang trí Tết lân cận, vì tất cả đều nằm trong bán kính đi bộ. Nhóm đi sớm tối hay ăn tối quanh khu Đồng Xuân trước, rồi thong thả bộ vào chợ khi đèn phố lên; nhóm đi cuối tuần nên ghép với phố đi bộ quanh hồ. Đừng nhồi thêm điểm thứ ba vào cùng tối: lịch kiểu đó phá nhịp nghỉ giữa buổi.
 
-Nếu bạn đang xếp thêm các buổi đi quanh Hà Nội trong dịp Tết, bài [đến bảo tàng Địa chất Việt Nam bằng xe máy](/du-lich/2026/10/01/en-bao-tang-ia-chat-viet-nam-bang-xe-may-gui-xe-va-uong-i/) có khung gửi xe dùng chung cho khu Hồ Gươm, còn gợi ý dạo chơi quanh khu phố cổ thường ngày nằm trong trang [phố cổ](/du-lich/pho-co/). Thêm nhiều gợi ý nằm trong danh sách [điểm đến](/du-lich/diem-den/).
+Nếu bạn đang xếp thêm các buổi đi quanh Hà Nội trong dịp Tết, bài [đến bảo tàng Địa chất Việt Nam bằng xe máy](/du-lich/2026/10/01/den-bao-tang-dia-chat-viet-nam-bang-xe-may-gui-xe-va-duong-di/) có khung gửi xe dùng chung cho khu Hồ Gươm, còn gợi ý dạo chơi quanh khu phố cổ thường ngày nằm trong trang [phố cổ](/du-lich/pho-co/). Thêm nhiều gợi ý nằm trong danh sách [điểm đến](/du-lich/diem-den/).
 
 ## Vài lưu ý trước khi lên đường
 

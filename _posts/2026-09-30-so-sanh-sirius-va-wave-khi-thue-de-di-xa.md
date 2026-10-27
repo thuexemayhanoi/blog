@@ -45,7 +45,7 @@ Về giá, hai dòng xe số phổ thông thường nằm cùng nhóm giá rẻ 
 
 Với chuyến đi xa, đừng chỉ so giá theo ngày. Hãy hỏi thêm: xe được kiểm tra kỹ trước khi giao không, có cho mang xe đi tuyến xa không (một số cửa hàng giới hạn bán kính hoạt động), và nếu hỏng giữa đường thì hỗ trợ thế nào. Ba câu hỏi này quan trọng hơn chênh lệch vài chục nghìn giữa hai dòng xe, bởi hỏng hóc giữa đường trường mới là rủi ro đắt nhất của chuyến đi.
 
-Cũng nên hỏi mùa vụ: giá thuê nhiều nơi thay đổi theo mùa cao điểm, như đã phân tích trong bài [giá thuê khác nhau giữa mùa cao điểm và thấp điểm](/xe-may/2026/09/29/mua-cao-iem-va-mua-thap-iem-gia-thue-khac-nhau-ra-sao/). Đặt sớm và hỏi trước luôn giúp bạn chọn được xe tốt thay vì xe thừa lại cuối ngày.
+Cũng nên hỏi mùa vụ: giá thuê nhiều nơi thay đổi theo mùa cao điểm, như đã phân tích trong bài [giá thuê khác nhau giữa mùa cao điểm và thấp điểm](/xe-may/2026/09/29/mua-cao-diem-va-mua-thap-diem-gia-thue-khac-nhau-ra-sao/). Đặt sớm và hỏi trước luôn giúp bạn chọn được xe tốt thay vì xe thừa lại cuối ngày.
 
 ## Nhận xe đi xa: ba phút kiểm tra đáng giá
 

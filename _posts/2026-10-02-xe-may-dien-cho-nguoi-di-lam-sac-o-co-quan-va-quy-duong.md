@@ -20,7 +20,7 @@ Xe máy điện đi làm Hà Nội đang là lựa chọn của khá nhiều ng�
 
 Quỹ đường là con số quan trọng nhất khi quyết định dùng xe điện đi làm. Cách tính thô nhưng đủ dùng: lấy bản đồ, đo khoảng cách nhà đến cơ quan, nhân đôi cho chiều đi và về, cộng thêm các đoạn chạy vặt như đưa con đến trường, ghé chợ, đi ăn trưa. Ví dụ một người ở Cầu Giấy làm việc ở khu Phạm Văn Đồng thì quỹ một chiều khoảng tám cây số, hai chiều mười sáu; ai ở Long Biên làm ở phố cổ thì mỗi ngày thường chạy mươi cây số trở lên nếu thêm các đoạn chạy vặt.
 
-Đem quỹ đường đó so với quãng đường một lần sạc của xe. Các dòng xe máy điện phổ biến hiện có quãng đường quảng cáo khá dài, nhưng khi chạy thật trong phố, lốp non, chở thêm người, bật đèn và đèn tín hiệu, con số thực tế ngắn hơn đáng kể. Vì vậy kinh nghiệm an toàn là để dành ít nhất một phần ba quãng đường sạc cho phần dự phòng. Ai muốn hiểu kỹ hơn về cách ước lượng này có thể đọc bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-uong-mot-lan-sac-cua-xe-may-ien/) trước khi chốt xe nào hợp tuyến đi lại của mình.
+Đem quỹ đường đó so với quãng đường một lần sạc của xe. Các dòng xe máy điện phổ biến hiện có quãng đường quảng cáo khá dài, nhưng khi chạy thật trong phố, lốp non, chở thêm người, bật đèn và đèn tín hiệu, con số thực tế ngắn hơn đáng kể. Vì vậy kinh nghiệm an toàn là để dành ít nhất một phần ba quãng đường sạc cho phần dự phòng. Ai muốn hiểu kỹ hơn về cách ước lượng này có thể đọc bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-duong-mot-lan-sac-cua-xe-may-dien/) trước khi chốt xe nào hợp tuyến đi lại của mình.
 
 Cũng nên nhớ quỹ đường không đều mỗi ngày. Thứ hai và thứ sáu thường nhiều việc chạy ngoài hơn, mùa đông bật đèn sớm hơn, những ngày mưa vòng vèo dài hơn. Nếu ngày thường quỹ đường chỉ chiếm một nửa quãng sạc thì cứ yên tâm dùng; nếu quỹ đã chạm bảy phần mười quãng sạc thì cần tính đến chuyện sạc giữa ngày ở cơ quan.
 
@@ -30,7 +30,7 @@ Sạc ở cơ quan là chuyện đời thường, nhưng nên làm rõ vài vi�
 
 Việc thứ hai là chọn chỗ cắm có tiếp đất và tránh ổ cắm mưa hắt. Chỗ sạc lý tưởng là khu để xe có mái che, thoáng, gần nơi có người qua lại chứ không phải góc khuất kín. Khi cắm sạc, cố gắng sạc vào khung giờ hành chính, vừa đúng lúc mình ngồi làm việc, vừa có người xung quanh nếu có sự cố.
 
-Việc thứ ba là chuẩn bị bộ sạc theo xe. Bộ sạc của hãng thường ngắt tự động khi đầy, còn bộ sạc không rõ nguồn gốc thì không nên dùng để sạc dây dài. Ai mới thuê xe lần đầu nên hỏi trước chủ xe về chỗ sạc và loại bộ sạc phù hợp, tương tự các lưu ý trong bài [sạc xe máy điện khi thuê: ở đâu và mất bao lâu](/xe-may/2026/09/27/sac-xe-may-ien-khi-thue-o-au-va-mat-bao-lau/) để tránh sạc nhầm loại.
+Việc thứ ba là chuẩn bị bộ sạc theo xe. Bộ sạc của hãng thường ngắt tự động khi đầy, còn bộ sạc không rõ nguồn gốc thì không nên dùng để sạc dây dài. Ai mới thuê xe lần đầu nên hỏi trước chủ xe về chỗ sạc và loại bộ sạc phù hợp, tương tự các lưu ý trong bài [sạc xe máy điện khi thuê: ở đâu và mất bao lâu](/xe-may/2026/09/27/sac-xe-may-dien-khi-thue-o-dau-va-mat-bao-lau/) để tránh sạc nhầm loại.
 
 ## Tính quỹ đường xe điện đi làm theo từng chặng
 
@@ -38,7 +38,7 @@ Với người đi làm, cách tính quỹ đường chính xác nhất là ghi 
 
 Nếu quỹ đường hàng ngày vượt quá hai phần ba quãng sạc, có hai đường ra: một là sạc giữa ngày ở cơ quan, hai là cân nhắc lại tuyến đường. Đôi khi đổi giờ xuất phát để tránh kẹt xe còn tiết kiệm pin hơn hẳn đổi xe, vì xe điện chạy stop and go trong kẹt xe rất ngốn pin nếu người lái hay vặn ga mạnh.
 
-Với tuyến dài, ví dụ người ở Gia Lâm làm việc sang phía Tây thành phố, quỹ ngày có thể lên tới ba mươi cây số. Trường hợp đó nên đọc thêm kinh nghiệm [thuê xe máy điện chạy xa được bao nhiêu km](/xe-may/2026/09/30/thue-xe-may-ien-chay-xa-uoc-bao-nhieu-km/) để cân nhắc giữa xe điện và xe xăng cho tuyến của mình.
+Với tuyến dài, ví dụ người ở Gia Lâm làm việc sang phía Tây thành phố, quỹ ngày có thể lên tới ba mươi cây số. Trường hợp đó nên đọc thêm kinh nghiệm [thuê xe máy điện chạy xa được bao nhiêu km](/xe-may/2026/09/30/thue-xe-may-dien-chay-xa-duoc-bao-nhieu-km/) để cân nhắc giữa xe điện và xe xăng cho tuyến của mình.
 
 ## Thói quen giữ ắc quy khỏe khi đi lại hằng ngày
 

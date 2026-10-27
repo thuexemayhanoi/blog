@@ -37,7 +37,7 @@ Trên đỉnh gió mạnh và lạnh hơn hẳn dưới thung lũng kể cả ng
 
 Với một ngày, xuất phát từ Hà Nội trước sáu giờ sáng, nghỉ ăn sáng ở chặng thị xã Hòa Bình, lên đèo quanh khung cuối sáng khi mù đã tan, ăn trưa và dạo bản ở Mai Châu, rồi khởi hành về trước ba giờ chiều để qua đèo còn ánh sáng. Với hai ngày, chia trọn chiều đầu cho đèo và bản, sáng hôm sau thong thả về. Không cố về khuya: đoạn quốc lộ về tối nhiều xe tải và đèn pha đối diện.
 
-Nếu bạn đang xếp thêm các chuyến cuối tuần, các gợi ý vòng đường dài hơn nằm trong trang [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/), còn một chuyến sinh thái hướng tây gần hơn — khu suối Ba Vì — được gom trong bài [đi Thiên Sơn Suối Ngọc bằng xe máy](/du-lich/2026/10/01/i-thien-son-suoi-ngoc-bang-xe-may-tu-ha-noi-lo-trinh-mot-ngay/). Nếu thuê xe máy tại Hà Nội cho cung này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/).
+Nếu bạn đang xếp thêm các chuyến cuối tuần, các gợi ý vòng đường dài hơn nằm trong trang [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/), còn một chuyến sinh thái hướng tây gần hơn — khu suối Ba Vì — được gom trong bài [đi Thiên Sơn Suối Ngọc bằng xe máy](/du-lich/2026/10/01/di-thien-son-suoi-ngoc-bang-xe-may-tu-ha-noi-lo-trinh-mot-ngay/). Nếu thuê xe máy tại Hà Nội cho cung này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/).
 
 ## Vài lưu ý trước khi lên đường
 

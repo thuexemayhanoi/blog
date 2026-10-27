@@ -37,7 +37,7 @@ Ba thói quen nhỏ giúp buổi đi bằng xe máy thuê thêm yên tâm: khóa
 
 Một buổi tại bảo tàng Văn học thường ghép liền với một vòng quanh khu Bạch Mai hoặc chạy thêm một chặng về khu hồ Gươm ăn trưa, vì tất cả đều nằm trong bán kính mười lăm phút chạy xe. Nhóm đi sáng hay xem bảo tàng trước rồi ăn trưa gần Ngã Tư Sở, còn nhóm đi chiều thì đảo ngược, tận dụng lúc phố lên đèn để dạo bộ quanh hồ. Đừng nhồi thêm điểm thứ ba vào cùng nửa ngày: lịch kiểu đó phá nhịp nghỉ giữa buổi.
 
-Nếu bạn đang xếp một chuỗi các buổi bảo tàng quanh Hà Nội, bài [đến bảo tàng Địa chất Việt Nam bằng xe máy](/du-lich/2026/10/01/en-bao-tang-ia-chat-viet-nam-bang-xe-may-gui-xe-va-uong-i/) có khung chuẩn bị cho khu Hồ Gươm, còn bài [đến bảo tàng Hà Nội bằng xe máy](/du-lich/2026/10/01/en-bao-tang-ha-noi-bang-xe-may-gui-xe-va-uong-i/) gợi ý gửi xe cho khu Nam Từ Liêm. Thêm nhiều gợi ý nằm trong danh sách [điểm đến](/du-lich/diem-den/).
+Nếu bạn đang xếp một chuỗi các buổi bảo tàng quanh Hà Nội, bài [đến bảo tàng Địa chất Việt Nam bằng xe máy](/du-lich/2026/10/01/den-bao-tang-dia-chat-viet-nam-bang-xe-may-gui-xe-va-duong-di/) có khung chuẩn bị cho khu Hồ Gươm, còn bài [đến bảo tàng Hà Nội bằng xe máy](/du-lich/2026/10/01/den-bao-tang-ha-noi-bang-xe-may-gui-xe-va-duong-di/) gợi ý gửi xe cho khu Nam Từ Liêm. Thêm nhiều gợi ý nằm trong danh sách [điểm đến](/du-lich/diem-den/).
 
 ## Vài lưu ý trước khi lên đường
 

@@ -43,7 +43,7 @@ Tránh chuyển làn ngay trước đầu xe buýt hoặc bên hông xe tải, h
 
 Người mới lái hay căng thẳng khi kẹt xe vì phải giữ thăng bằng ở tốc độ cực thấp. Bài tập đẩy xe bằng chân khi ngồi trên yên, đi vòng chậm ở sân vắng và phanh dừng chính xác tại vạch đều giúp cơ thể quen dần với nhịp nhích. Những kỹ năng nền này được tổng hợp trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), nơi bạn nên luyện đều đặn trước khi đối mặt khung giờ đông thật.
 
-Trong phố cổ, kỹ năng quay đầu và len khe còn quan trọng hơn tốc độ thuần. Bài viết về [quay đầu xe máy trong phố](/ky-nang/2026/09/29/quay-au-xe-may-trong-pho/) phân tích chi tiết từng bước quay trong không gian hẹp, một tình huống rất hay gặp khi kẹt xe quanh các ngã tư nhỏ. Kết hợp cả phần nền tảng và phần tình huống, bạn sẽ bớt hụt hơi khi dòng xe bắt đầu nhích.
+Trong phố cổ, kỹ năng quay đầu và len khe còn quan trọng hơn tốc độ thuần. Bài viết về [quay đầu xe máy trong phố](/ky-nang/2026/09/29/quay-dau-xe-may-trong-pho/) phân tích chi tiết từng bước quay trong không gian hẹp, một tình huống rất hay gặp khi kẹt xe quanh các ngã tư nhỏ. Kết hợp cả phần nền tảng và phần tình huống, bạn sẽ bớt hụt hơi khi dòng xe bắt đầu nhích.
 
 ## Lời kết
 

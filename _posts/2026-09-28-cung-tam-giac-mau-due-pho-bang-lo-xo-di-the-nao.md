@@ -25,7 +25,7 @@ Vì một phần vùng này gần biên, khách nên hỏi trước homestay xem
 
 Mặt đường vòng tam giác trải nhựa ở phần lớn, nhưng là loại đường nhỏ: nhiều khúc chỉ rộng vừa hai xe, có đoạn móng đá hoặc bê tông mòn, và cua gấp nối liền quanh các vách. Mật độ xe rất thưa so với trục chính: thỉnh thoảng mới gặp một xe máy dân địa phương hoặc nhóm phượt khác. Ít xe nghe có vẻ nhàn, nhưng nó cũng nghĩa là khi trục trặc thì xung quanh vắng người, nên khách phải tự chủ về xăng và sửa chữa nhỏ. Khách giữ nguyên tắc đường núi: không vượt ở cua, về số thấp trước dốc, và không chạy theo tốc độ của nhóm đi trước.
 
-Hai điểm cần canh thời điểm. Một, sương: các đoạn ven sông dễ có sương mù vào sáng sớm và chiều muộn, nếu hôm trời ám thì khung đẹp nhất là giữa sáng tới đầu chiều. Hai, mưa: mưa trên đường đá nhỏ trơn nhanh hơn đường lớn, khách thấy mưa tới thì dừng ở mái nhà dân ven đường, mưa vùng này thường qua nhanh. Kỹ năng chạy đèo an toàn đã được nói trong bài [chạy xe máy qua đèo Thung Khe an toàn thế nào](/cung-duong/2026/09/28/chay-xe-may-qua-eo-thung-khe-an-toan-the-nao/), và vòng tam giác áp dụng y nguyên các nguyên tắc đó, thậm chí chặt hơn vì đường hẹp.
+Hai điểm cần canh thời điểm. Một, sương: các đoạn ven sông dễ có sương mù vào sáng sớm và chiều muộn, nếu hôm trời ám thì khung đẹp nhất là giữa sáng tới đầu chiều. Hai, mưa: mưa trên đường đá nhỏ trơn nhanh hơn đường lớn, khách thấy mưa tới thì dừng ở mái nhà dân ven đường, mưa vùng này thường qua nhanh. Kỹ năng chạy đèo an toàn đã được nói trong bài [chạy xe máy qua đèo Thung Khe an toàn thế nào](/cung-duong/2026/09/28/chay-xe-may-qua-deo-thung-khe-an-toan-the-nao/), và vòng tam giác áp dụng y nguyên các nguyên tắc đó, thậm chí chặt hơn vì đường hẹp.
 
 ## Xăng, giờ và chuẩn bị cho vòng
 

@@ -39,7 +39,7 @@ Chiều muộn cũng đáng đi: nắng cuối ngày đổ lên mặt nước ha
 
 Một buổi ở chùa Trấn Quốc thường ghép liền với đền Quán Thánh sát cạnh, vì hai điểm chỉ cách nhau một đoạn bộ; thêm vòng dạo trên đê Thanh Niên giữa hai hồ là trọn khung chiều. Nhóm đi sáng có thể ghép ăn bánh tôm ven Hồ Tây sau khi ra khỏi chùa, trước khi tiếp tục vòng phố. Đừng nhồi thêm điểm thứ ba vào cùng buổi: lịch kiểu đó phá nhịp nghỉ giữa các chặng.
 
-Nếu bạn đang xếp thêm các buổi đi quanh thành phố, bài [đến bảo tàng Địa chất Việt Nam bằng xe máy](/du-lich/2026/10/01/en-bao-tang-ia-chat-viet-nam-bang-xe-may-gui-xe-va-uong-i/) có khung gửi xe và đường đi dùng chung cho khu phía bắc, còn gợi ý các buổi dạo phố cổ nằm trong trang [phố cổ](/du-lich/pho-co/). Thêm nhiều gợi ý nằm trong danh sách [điểm đến](/du-lich/diem-den/).
+Nếu bạn đang xếp thêm các buổi đi quanh thành phố, bài [đến bảo tàng Địa chất Việt Nam bằng xe máy](/du-lich/2026/10/01/den-bao-tang-dia-chat-viet-nam-bang-xe-may-gui-xe-va-duong-di/) có khung gửi xe và đường đi dùng chung cho khu phía bắc, còn gợi ý các buổi dạo phố cổ nằm trong trang [phố cổ](/du-lich/pho-co/). Thêm nhiều gợi ý nằm trong danh sách [điểm đến](/du-lich/diem-den/).
 
 ## Vài lưu ý trước khi lên đường
 

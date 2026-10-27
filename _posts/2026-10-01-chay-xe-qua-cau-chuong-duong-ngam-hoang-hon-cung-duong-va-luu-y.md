@@ -39,7 +39,7 @@ Tình huống giao thông hay gặp quanh khu hai đầu cầu — ngã tư khô
 
 ## Ghép lịch quanh hai bờ
 
-Một buổi chiều như vậy ghép liền với dạo bờ sông phía Long Biên hoặc ăn tối quanh khu bờ bắc; nhóm đi dậy sớm thì ngược lại: trải nghiệm chợ đầu mối sáng sớm dưới gầm cầu Long Biên được gom trong bài [chợ đầu mối Long Biên sáng sớm](/du-lich/2026/10/01/sang-som-o-cho-au-moi-long-bien-i-xe-may-va-gui-xe/), rồi dành buổi chiều cho cung hoàng hôn này. Thêm nhiều gợi ý buổi đi quanh Hà Nội nằm trong danh sách [điểm đến](/du-lich/diem-den/).
+Một buổi chiều như vậy ghép liền với dạo bờ sông phía Long Biên hoặc ăn tối quanh khu bờ bắc; nhóm đi dậy sớm thì ngược lại: trải nghiệm chợ đầu mối sáng sớm dưới gầm cầu Long Biên được gom trong bài [chợ đầu mối Long Biên sáng sớm](/du-lich/2026/10/01/sang-som-o-cho-dau-moi-long-bien-di-xe-may-va-gui-xe/), rồi dành buổi chiều cho cung hoàng hôn này. Thêm nhiều gợi ý buổi đi quanh Hà Nội nằm trong danh sách [điểm đến](/du-lich/diem-den/).
 
 Đừng nhồi thêm điểm thứ ba vào cùng buổi: về đúng lúc bụng đói, ghé ăn quanh khu bờ rồi kết thúc buổi, giữ sức cho các chặng sau. Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/).
 

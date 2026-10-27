@@ -38,7 +38,7 @@ Bị trừ cọc không phải lúc nào cũng do lỗi lớn. Ba nhóm tình hu
 
 ## Chứng từ giúp bạn đứng vững khi trao đổi
 
-Bộ chứng từ của một người thuê xe cẩn thận gồm: biên nhận cọc ghi rõ số tiền và ngày, ảnh chụp hiện trạng xe khi nhận, và các tin nhắn trao đổi về sự cố nếu có. Khi trả xe, hãy cùng cửa hàng kiểm tra lần cuối theo đúng quy trình trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/), và chụp lại ảnh lần cuối trước khi bàn giao.
+Bộ chứng từ của một người thuê xe cẩn thận gồm: biên nhận cọc ghi rõ số tiền và ngày, ảnh chụp hiện trạng xe khi nhận, và các tin nhắn trao đổi về sự cố nếu có. Khi trả xe, hãy cùng cửa hàng kiểm tra lần cuối theo đúng quy trình trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/), và chụp lại ảnh lần cuối trước khi bàn giao.
 
 Nếu mọi điều kiện đều đạt mà hoàn cọc chưa diễn ra ngay, hãy hỏi rõ thời gian hoàn và hình thức hoàn. Câu hỏi này nên đặt từ lúc nhận xe, vì mỗi cửa h
 àng có quy trình riêng. Với giao dịch chuyển khoản, hãy xác nhận lại số tài khoản của bạn ngay tại chỗ.

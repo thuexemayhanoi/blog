@@ -29,7 +29,7 @@ Nói thêm về khác biệt vận hành giữa hai loại xe được tóm ở 
 
 Xe ga không có số bậc để về như xe số nên lực hãm của máy hạn chế; với các xe ga có tùy chọn, khách bật chế độ hạn chế tốc độ hoặc về số thấp giả lập nếu xe có, còn lại dựa vào ba thói quen. Một, phanh sớm và phanh nhát ngắn: giảm tốc trước khi dốc tăng, rồi nhịp bóp nhả phanh liên tục thay vì bóp giữ; phanh giữ liên tục làm bố nóng và ăn kém giữa dốc. Hai, buông ga hoàn toàn khi xuống, để máy không tiếp tay đẩy xe; một số xe ga cho cảm giác êm khi giữ ga nhẹ khi xuống, nhưng đó chính là cái làm xe trôi nhanh hơn. Ba, dùng cả phanh trước và phanh sau theo tỉ lệ nghiêng về phanh sau trên dốc xiên, tránh khóa bánh trước trên mặt đường ẩm.
 
-Với đèo Mã Pí Lèng và các dốc quanh Yên Minh, khách đi xe ga nên nghỉ chặng: sau mỗi phần dốc dài, dừng ở đoạn bằng cho phanh và dây curoa nguội vài phút, uống nước rồi đi tiếp. Chặng nghỉ này không làm chậm chuyến bao nhiêu, nhưng giúp bộ phanh giữ độ ăn tới cuối ngày. Khách muốn hiểu sâu cách xe số xử lý dốc dài đọc bài [đèo dốc trên đường Mộc Châu và cách vào số](/cung-duong/2026/09/28/eo-doc-tren-uong-moc-chau-va-cach-vao-so/) để so sánh hai cách làm.
+Với đèo Mã Pí Lèng và các dốc quanh Yên Minh, khách đi xe ga nên nghỉ chặng: sau mỗi phần dốc dài, dừng ở đoạn bằng cho phanh và dây curoa nguội vài phút, uống nước rồi đi tiếp. Chặng nghỉ này không làm chậm chuyến bao nhiêu, nhưng giúp bộ phanh giữ độ ăn tới cuối ngày. Khách muốn hiểu sâu cách xe số xử lý dốc dài đọc bài [đèo dốc trên đường Mộc Châu và cách vào số](/cung-duong/2026/09/28/deo-doc-tren-duong-moc-chau-va-cach-vao-so/) để so sánh hai cách làm.
 
 ## Thói quen mỗi ngày cho xe ga đường núi
 

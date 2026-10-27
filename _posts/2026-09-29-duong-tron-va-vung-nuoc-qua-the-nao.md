@@ -37,7 +37,7 @@ Khi đã quyết định qua, hãy giảm tốc trước khi đến vũng, giữ
 
 Lốp là bộ phận duy nhất chạm mặt đường, nên tình trạng lốp quyết định trực tiếp lực bám. Rãnh lốp còn đủ sâu giúp thoát nước hiệu quả, trong khi lốp mòn bằng hoặc bơm non sẽ dễ trượt và dễ nổ hơn khi chạy qua đoạn xấu. Trước mỗi chuyến đi, nên kiểm tra độ mòn của lốp, áp suất, đèn và gương, đặc biệt là phanh trước và phanh sau còn ăn không.
 
-Nếu bạn thuê xe máy để đi trong ngày mưa, hãy nhận xe khi trời còn sáng, kiểm tra cùng người giao xe về lốp và phanh rồi mới khởi hành. Khi mưa lớn kèm gió lớn, hãy áp dụng đúng trình tự trong bài [chạy xe máy trời mưa lớn: giảm tốc và đèn](/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-en/). Trời quá xấu thì chủ động dừng ở nơi khô ráo, chờ mưa dịu bớt, an toàn hơn là cố về sớm vài phút.
+Nếu bạn thuê xe máy để đi trong ngày mưa, hãy nhận xe khi trời còn sáng, kiểm tra cùng người giao xe về lốp và phanh rồi mới khởi hành. Khi mưa lớn kèm gió lớn, hãy áp dụng đúng trình tự trong bài [chạy xe máy trời mưa lớn: giảm tốc và đèn](/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-den/). Trời quá xấu thì chủ động dừng ở nơi khô ráo, chờ mưa dịu bớt, an toàn hơn là cố về sớm vài phút.
 
 ## Những lỗi thường gặp khiến ngã trên đường ướt
 
