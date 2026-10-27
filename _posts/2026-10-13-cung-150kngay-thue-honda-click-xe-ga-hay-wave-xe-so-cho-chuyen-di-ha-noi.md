@@ -45,7 +45,7 @@ Nói về độ bền trong chuyến dài, cả hai đều thuộc nhóm máy b�
 
 Tóm theo kiểu đường: trong phố Hà Nội đông, kẹt nhiều, ngã tư dày, Click nhỉnh vì thao tác gọn và cốp kín. Cung trường, đường đê, các đoạn thưa đèn đỏ, Wave nhỉnh vì xe nhẹ, chạy đều rất ổn và sửa chữa khắp nơi nếu trục trặc.
 
-Tóm theo người: chưa từng lái xe máy hoặc chỉ quen ga, chọn Click. Lái số lâu năm, đi cùng nhóm bạn quen số, hoặc tính chạy nhiều cung ngoài thành, chọn Wave giữ cảm giác quen. Câu hỏi nếu dàn rộng thêm Mio và các dòng khác đã có trong bài [cùng 150.000 một ngày chọn Wave, Click hay Mio](/hoi-dap/2026/10/11/cung-150000-mot-ngay-nen-thue-wave-click-hay-mio/), và so trực tiếp Wave với Click đã bàn trong bài [cùng giá thuê Wave hay Click](/xe-may/2026/10/11/cung-gia-150000-moi-ngay-nen-thue-honda-wave-hay-honda-click/).
+Tóm theo người: chưa từng lái xe máy hoặc chỉ quen ga, chọn Click. Lái số lâu năm, đi cùng nhóm bạn quen số, hoặc tính chạy nhiều cung ngoài thành, chọn Wave giữ cảm giác quen. Câu hỏi nếu dàn rộng thêm Mio và các dòng khác đã có trong bài [cùng 150.000 một ngày chọn Wave, Click hay Mio](/hoi-dap/2026/10/11/cung-150000d-mot-ngay-nen-thue-wave-click-hay-mio/), và so trực tiếp Wave với Click đã bàn trong bài [cùng giá thuê Wave hay Click](/xe-may/2026/10/11/cung-gia-150000d-moi-ngay-nen-thue-honda-wave-hay-honda-click/).
 
 Tuy vậy đừng hiểu nhầm là xe số an toàn hơn tuyệt đối, tỷ lệ tai nạn phụ thuộc người lái nhiều hơn loại xe: khách quen ga đi Wave rất dễ quên phản xạ chân côn khi phanh gấp, và khách quen số đi ga hay đạp nhầm chỗ chân số đã không còn. Chọn đúng dòng mình quen là biện pháp an toàn rẻ nhất trong toàn bộ chuyến đi, miễn phí cả.
 
@@ -53,6 +53,6 @@ Tuy vậy đừng hiểu nhầm là xe số an toàn hơn tuyệt đối, tỷ l
 
 Chưa chắc chắn thì chọn theo ngày đầu: mượn một xe chạy buổi sáng, nếu thấy tay lái không hợp, đa số bên cho thuê đổi dòng khác trong ngày cho bạn, phần chênh nếu có chỉ tính theo mức niêm yết. Đừng ôm một xe khó chịu suốt chuyến đi chỉ vì đã chốt từ đầu, hai dòng này đều phổ biến, đổi xe luôn khả thi hơn bạn nghĩ.
 
-Với ai chuyển từ số sang ga lần đầu, danh sách các phản xạ cần đo lại đã ghi trong bài [từ xe số sang xe ga](/xe-may/2026/10/13/tu-xe-so-sang-xe-ga-nhung-phan-xa-can-doi-khi-lan-dau-lai-honda-click/), còn kinh nghiệm chạy cả hai loại trên một cung thực tế đã kể trong bài [xe số hay xe ga chạy eo](/cung-duong/2026/10/11/xe-so-hay-xe-ga-i-moc-chau-wave-va-vision-chay-eo-khac-gi/).
+Với ai chuyển từ số sang ga lần đầu, danh sách các phản xạ cần đo lại đã ghi trong bài [từ xe số sang xe ga](/xe-may/2026/10/13/tu-xe-so-sang-xe-ga-nhung-phan-xa-can-doi-khi-lan-dau-lai-honda-click/), còn kinh nghiệm chạy cả hai loại trên một cung thực tế đã kể trong bài [xe số hay xe ga chạy eo](/cung-duong/2026/10/11/xe-so-hay-xe-ga-di-moc-chau-wave-va-vision-chay-deo-khac-gi/).
 
 Tổng quan dòng xe nhỏ gọn nằm trong trang [Honda Click](/xe-may/honda-click/), danh sách các dòng xe cho thuê nằm trong trang [xe máy](/xe-may/). Cùng một mức giá ngày, hai chiếc xe phục vụ hai kiểu người, và giờ bạn đã biết mình thuộc kiểu nào.

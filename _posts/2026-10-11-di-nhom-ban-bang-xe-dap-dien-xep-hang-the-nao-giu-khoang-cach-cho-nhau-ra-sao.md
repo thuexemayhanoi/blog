@@ -36,7 +36,7 @@ Xe điện thường tăng tốc êm và ít tiếng, nên khó nhận ra ngư�
 
 Hàng xe hay co giãn như lò xo: đèn xanh bật lên, người đầu lướt đi, người cuối bị bỏ lại rồi cố đuổi theo, nên người dẫn đầu đừng bứt ngay khi vừa xanh. Ở Hà Nội, xe khác chen vào giữa nhóm là chuyện thường; đừng tăng tốc cắt qua để nối lại, cứ gặp nhau ở điểm chờ.
 
-Mặt đường ướt hay trời chuyển mưa phùn giữa chuyến thì nới khoảng cách thêm; cách chạy lúc ấy có trong bài [đạp xe điện khi mưa phùn](/xe-may/2026/10/11/ap-xe-ien-khi-mua-phun-uong-tron-tam-nhin-kem-thi-chay-the-nao/).
+Mặt đường ướt hay trời chuyển mưa phùn giữa chuyến thì nới khoảng cách thêm; cách chạy lúc ấy có trong bài [đạp xe điện khi mưa phùn](/xe-may/2026/10/11/dap-xe-dien-khi-mua-phun-duong-tron-tam-nhin-kem-thi-chay-the-nao/).
 
 ## Đi nhóm không bị lạc nhau nhờ điểm chờ định sẵn
 
@@ -44,7 +44,7 @@ Mặt đường ướt hay trời chuyển mưa phùn giữa chuyến thì nới
 
 Hình dung bốn bạn đi từ phố cổ lên Hồ Tây. Người dẫn đầu vừa kịp qua ngã tư lúc đèn xanh, ba người sau bị đèn đỏ giữ lại. Người dẫn đầu tấp vào chỗ dừng an toàn đầu tiên sau ngã tư rồi chờ, ba người sau đợi hết đèn, đừng vượt đèn đỏ chỉ để khỏi lạc. Ngã tư là nơi nhóm dễ đứt nhất, nên hãy đặt điểm chờ ngay phía sau nó.
 
-Mỗi người chịu trách nhiệm với người ngay sau mình, thỉnh thoảng nhìn gương hoặc liếc qua vai khi đường cho phép. Không thấy người ấy nữa thì báo cho người phía trước bằng tay hoặc tiếng gọi, tin chuyền dần tới người dẫn đầu để tìm chỗ dừng đợi. Chuyến đi ghé nhiều chỗ ăn vặt trong phố cổ thì xem thêm [cách dừng liên tiếp khi đi ăn vặt quanh phố cổ](/xe-may/2026/10/11/tu-i-tour-an-vat-quanh-pho-co-bang-xe-ap-ien-dung-lien-tiep-ma-khong-roi/).
+Mỗi người chịu trách nhiệm với người ngay sau mình, thỉnh thoảng nhìn gương hoặc liếc qua vai khi đường cho phép. Không thấy người ấy nữa thì báo cho người phía trước bằng tay hoặc tiếng gọi, tin chuyền dần tới người dẫn đầu để tìm chỗ dừng đợi. Chuyến đi ghé nhiều chỗ ăn vặt trong phố cổ thì xem thêm [cách dừng liên tiếp khi đi ăn vặt quanh phố cổ](/xe-may/2026/10/11/tu-di-tour-an-vat-quanh-pho-co-bang-xe-dap-dien-dung-lien-tiep-ma-khong-roi/).
 
 Nếu chính bạn bị lạc, đừng đuổi theo. Tấp vào chỗ an toàn gần nhất, đợi vài phút vì nhóm thường đang quay lại hoặc chờ ở điểm kế tiếp, rồi mới gọi điện khi đã dừng hẳn. Vẫn chưa gặp thì đến điểm hẹn chung đã chốt từ đầu.
 

@@ -33,11 +33,11 @@ Ba thói quen trên bỏ được trong một buổi nếu có chủ ý, để t
 
 Nhịp chuẩn trên xe ly hợp tự động: nhả ga, đá số, cho ga lại, nhịp ba nhịp này gọn hơn nhịp bốn của xe côn tay vì mất một động tác. Sai lầm thường gặp của người quen côn là vừa giữ ga vừa đá số, máy sẽ khó chịu vì không được nhả, và đá số khi ga đang mở khiến ly hợp tự động làm việc nặng hơn. Chốt lại một câu: ga xuống trước, chân số lên sau, ga trở lại cuối, thứ tự này quyết định độ êm của cả chuyến.
 
-Về số khi giảm tốc cũng theo nguyên tắc tương tự: phanh trước, nhả phanh một nhịp để bánh lăn, đá số về thấp, đạp phanh tiếp, đừng về số khi phanh đang ghì cứng vì chân số sẽ nặng và đá dễ trượt chân. Chi tiết cách giữ nhịp ga để tiết kiệm trên Sirius đã bàn trong bài [Sirius chạy êu ga tiết kiệm xăng](/xe-may/2026/10/03/yamaha-sirius-chay-eu-ga-tiet-kiem-xang/), áp dụng nguyên cho người mới chuyển từ côn tay.
+Về số khi giảm tốc cũng theo nguyên tắc tương tự: phanh trước, nhả phanh một nhịp để bánh lăn, đá số về thấp, đạp phanh tiếp, đừng về số khi phanh đang ghì cứng vì chân số sẽ nặng và đá dễ trượt chân. Chi tiết cách giữ nhịp ga để tiết kiệm trên Sirius đã bàn trong bài [Sirius chạy êu ga tiết kiệm xăng](/xe-may/2026/10/03/yamaha-sirius-chay-deu-ga-tiet-kiem-xang/), áp dụng nguyên cho người mới chuyển từ côn tay.
 
 ## Dừng chờ đèn đỏ và kẹt xe trong phố
 
-Dừng đèn đỏ: phanh từ tốn, về số không, chân đặt xuống, nhả hết ga. Kẹt xe nhích từng chút: Sirius nhích bằng ga rất dễ, thói quen côn nửa của xe côn tay thay bằng ga lơ mơ, giữ khoảng một nửa vặn ga, xe tự đi đều, nếu xe phía trước dừng hẳn thì về ga về không và chống chân, đừng cố giữ xe lăn mãi cho đỡ mỏi chân, phần chạy trong phố chật đã bàn trong bài [Sirius trong phố chật đông người](/xe-may/2026/10/03/yamaha-sirius-trong-pho-cho-ong-nguoi/).
+Dừng đèn đỏ: phanh từ tốn, về số không, chân đặt xuống, nhả hết ga. Kẹt xe nhích từng chút: Sirius nhích bằng ga rất dễ, thói quen côn nửa của xe côn tay thay bằng ga lơ mơ, giữ khoảng một nửa vặn ga, xe tự đi đều, nếu xe phía trước dừng hẳn thì về ga về không và chống chân, đừng cố giữ xe lăn mãi cho đỡ mỏi chân, phần chạy trong phố chật đã bàn trong bài [Sirius trong phố chật đông người](/xe-may/2026/10/03/yamaha-sirius-trong-pho-cho-dong-nguoi/).
 
 Ai từng đi Wave hay các xe số bán tự động khác thì Sirius gần như không cần làm quen, và phần so sánh thực tế chạy phố giữa các dòng số đã có trong bài [Wave hay Sirius khi thuê chạy phố](/xe-may/2026/10/01/wave-hay-sirius-khi-thue-chay-pho-so-sanh-thuc-te/), bạn thuộc nhóm đó thì đọc nhanh phần nhịp đổi số là đủ.
 
@@ -47,7 +47,7 @@ Một tình huống riêng cần nhắc là xuất phát trên dốc: xe côn ta
 
 Luyện theo trình tự ba bước trong một hẻm vắng: bước một, chỉ tập lên số và về số ở tốc độ chậm, làm chừng hai mươi lần cho chân số bớt nặng; bước hai, tập dừng về số không rồi xuất phát lại, lặp đến khi không phải nhìn xuống chân; bước ba, ra phố Hà Nội thật vào giờ vắng, chạy một vòng có đủ đèn đỏ, ngã tư và đoạn kẹt, mọi thứ vừa luyện sẽ tự xếp vào đúng chỗ.
 
-Nếu buổi đầu vẫn thấy tay trái bồn chồn, đó là dấu hiệu bình thường, phản xạ cũ chưa chịu nghỉ, sau hai buổi là hết. Còn nếu bạn muốn một chiếc không cần số hẳn để khỏi làm quen gì thêm, nhóm xe ga cho thuê cũng sẵn, và so chọn giữa hai kiểu đó đã có trong bài [so sánh Sirius và Wave khi thuê đi xa](/xe-may/2026/09/30/so-sanh-sirius-va-wave-khi-thue-e-i-xa/), phần lớn khách vẫn giữ xe số vì quen tay lái thô.
+Nếu buổi đầu vẫn thấy tay trái bồn chồn, đó là dấu hiệu bình thường, phản xạ cũ chưa chịu nghỉ, sau hai buổi là hết. Còn nếu bạn muốn một chiếc không cần số hẳn để khỏi làm quen gì thêm, nhóm xe ga cho thuê cũng sẵn, và so chọn giữa hai kiểu đó đã có trong bài [so sánh Sirius và Wave khi thuê đi xa](/xe-may/2026/09/30/so-sanh-sirius-va-wave-khi-thue-de-di-xa/), phần lớn khách vẫn giữ xe số vì quen tay lái thô.
 
 Cuối cùng là một lời thật cho khách thuê dài ngày: sau ba bốn ngày đi thường, đa số người quen côn tay lại bảo Sirius dễ chịu hơn hẳn, vì tay trái được nghỉ và phần việc dồn về chân vốn đã quen, kinh nghiệm thuê Sirius dài hạn cho người đi làm đã kể rõ phần này. Nếu bạn thuê nhiều tuần và còn lưỡng lự giữa các dòng số, cứ lấy Sirius làm mặc định cho nhóm xe số, việc đổi dòng sau này cũng chỉ là đổi chút cảm giác máy chứ không đổi nhịp số đã luyện.
 

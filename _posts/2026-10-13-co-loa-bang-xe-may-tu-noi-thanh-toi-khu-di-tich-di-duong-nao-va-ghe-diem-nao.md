@@ -23,7 +23,7 @@ Từ Hồ Gươm, chạy theo trục lên cầu Long Biên hoặc cầu Nhật T
 
 Sáng sớm cuối tuần là khung đẹp nhất: xe thưa, nắng chưa gắt, và tới nơi vẫn kịp xem hết các điểm trước trưa. Khách đi giờ cao điểm sáng thì tính dư thời gian, vì khúc ra khỏi nội thành là chỗ chậm nhất của cả chuyến. Về chiều, cung qua Nhật Tân có đoạn ngược nắng gần giờ hoàng hôn, nên mang kính râm hoặc chọn giờ về sớm hơn.
 
-Ai muốn so thêm hai hướng thì đọc bài [đi xe máy ra ngoại thành Hà Nội cuối tuần chọn hướng nào](/du-lich/2026/09/28/i-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao/ "Ra ngoại thành cuối tuần"), vì hướng bắc là một trong các hướng dễ chạy, đường ven thoáng và ít dừng đèn.
+Ai muốn so thêm hai hướng thì đọc bài [đi xe máy ra ngoại thành Hà Nội cuối tuần chọn hướng nào](/du-lich/2026/09/28/di-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao/ "Ra ngoại thành cuối tuần"), vì hướng bắc là một trong các hướng dễ chạy, đường ven thoáng và ít dừng đèn.
 
 ## Thứ tự tham quan để không chạy vòng lại
 
@@ -45,7 +45,7 @@ Chuẩn bị nhỏ cho chuyến: mang nước vì khu rộng, đi bộ nhiều h
 
 ## Ghép điểm cùng hướng bắc
 
-Nửa ngày ở Cổ Loa ghép được thêm một điểm cùng hướng, dừng ăn tối ở ven hồ Đông Anh rồi về qua Nhật Tân, hoặc chạy tiếp sang một làng nghề gần đó nếu còn sức. Khách thích trải nghiệm đường làng có thể đọc thêm bài [thành cổ Loa bằng xe máy từ nội thành](/du-lich/2026/10/11/thanh-co-loa-bang-xe-may-tu-noi-thanh-uong-i-va-nen-ghe-nhung-iem-nao/ "Thành cổ Loa bằng xe máy") để tham khảo thêm các điểm dừng giữa tuyến, vì bài đó gom cả chỗ ăn và giờ đẹp quanh khu.
+Nửa ngày ở Cổ Loa ghép được thêm một điểm cùng hướng, dừng ăn tối ở ven hồ Đông Anh rồi về qua Nhật Tân, hoặc chạy tiếp sang một làng nghề gần đó nếu còn sức. Khách thích trải nghiệm đường làng có thể đọc thêm bài [thành cổ Loa bằng xe máy từ nội thành](/du-lich/2026/10/11/thanh-co-loa-bang-xe-may-tu-noi-thanh-duong-di-va-nen-ghe-nhung-diem-nao/ "Thành cổ Loa bằng xe máy") để tham khảo thêm các điểm dừng giữa tuyến, vì bài đó gom cả chỗ ăn và giờ đẹp quanh khu.
 
 Ai đi nhóm hai xe trở lên thì thống nhất điểm gặp tại bãi gửi xe trung tâm, vì sóng điện thoại trong khu cây cổ thụ có chỗ yếu, gọi nhau giữa các điểm không phải lúc nào cũng xuyên. Chuyến về muộn nên mặc áo ấm mỏng, vì đoạn ven đê và đồng quanh Cổ Loa gió chiều nhanh hơn hẳn trong nội thành, nhất là vào mùa thu và đông.
 

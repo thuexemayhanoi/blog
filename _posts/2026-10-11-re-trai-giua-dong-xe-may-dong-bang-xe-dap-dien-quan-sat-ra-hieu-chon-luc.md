@@ -49,7 +49,7 @@ Cánh tay trái duỗi ra là tín hiệu mà cả người phía sau lẫn ngư
 
 Ra hiệu xong, bạn nhích dần về mép trái của làn mình, chậm rãi như thuyền ghé bến chứ không vọt ngang, rồi giảm tới gần như dừng và đợi một khoảng hở. Có xe phía sau tiến lại gần thì giơ tay thêm một lần cho họ biết bạn đang chờ rẽ.
 
-Khoảng hở tốt thường đến khi đèn đỏ ở ngã tư phía trước chặn bớt dòng ngược chiều, hoặc ở một nhịp thưa giữa hai đợt xe. Đã chọn giờ chạy để tránh nắng thì bạn cũng chọn được giờ để tránh đông; bài về [giờ chạy và đường có bóng cây khi đi xe đạp điện giữa nắng nóng Hà Nội](/xe-may/2026/10/11/ap-xe-ien-giua-nang-nong-ha-noi-chon-gio-chay-uong-co-bong-cay/) là điểm khởi đầu.
+Khoảng hở tốt thường đến khi đèn đỏ ở ngã tư phía trước chặn bớt dòng ngược chiều, hoặc ở một nhịp thưa giữa hai đợt xe. Đã chọn giờ chạy để tránh nắng thì bạn cũng chọn được giờ để tránh đông; bài về [giờ chạy và đường có bóng cây khi đi xe đạp điện giữa nắng nóng Hà Nội](/xe-may/2026/10/11/dap-xe-dien-giua-nang-nong-ha-noi-chon-gio-chay-duong-co-bong-cay/) là điểm khởi đầu.
 
 Đừng bám đuôi chiếc xe máy phía trước để cùng rẽ: nó lách lọt một chỗ hở nhỏ, còn bạn chậm hơn nên chỗ hở ấy khép lại khi bạn tới. Cũng đừng vội mừng khi có người dừng nhường, vì chiếc đứng yên có thể che mất chiếc đang lách qua bên cạnh. Nhìn thêm một lượt hai bên rồi đi một mạch, không khựng giữa làn ngược chiều.
 
@@ -57,7 +57,7 @@ Tiếng còi giục phía sau không đáng để cuống: người bấm còi �
 
 ## Xe đạp điện rẽ trái giữa dòng xe ở Hà Nội: hai khúc rẽ quen thuộc
 
-**Ngõ nhỏ khu phố cổ.** Hình dung một con phố hẹp: người đi bộ đi cả dưới lòng đường, xe đỗ kín hai bên, miệng ngõ lọt giữa hai cửa hàng. Rẽ trái ở đó gần như xỏ chỉ qua lỗ kim. Giảm tốc từ xa, giơ tay sớm, chờ người đi bộ qua hết rồi mới vào. Nếu cả buổi bạn định ghé hết quán này đến quán khác, hãy đọc thêm [bài tự đi ăn vặt quanh phố cổ bằng xe đạp điện, dừng liên tiếp mà không rối](/xe-may/2026/10/11/tu-i-tour-an-vat-quanh-pho-co-bang-xe-ap-ien-dung-lien-tiep-ma-khong-roi/).
+**Ngõ nhỏ khu phố cổ.** Hình dung một con phố hẹp: người đi bộ đi cả dưới lòng đường, xe đỗ kín hai bên, miệng ngõ lọt giữa hai cửa hàng. Rẽ trái ở đó gần như xỏ chỉ qua lỗ kim. Giảm tốc từ xa, giơ tay sớm, chờ người đi bộ qua hết rồi mới vào. Nếu cả buổi bạn định ghé hết quán này đến quán khác, hãy đọc thêm [bài tự đi ăn vặt quanh phố cổ bằng xe đạp điện, dừng liên tiếp mà không rối](/xe-may/2026/10/11/tu-di-tour-an-vat-quanh-pho-co-bang-xe-dap-dien-dung-lien-tiep-ma-khong-roi/).
 
 **Ngã tư lớn giờ tan tầm.** Xe dồn về từ bốn phía, đèn đổi liên tục, nên rẽ trái lúc ấy là chen vào chỗ mọi người đang giành nhau. Nếu thấy ngợp, bạn có thể rẽ hai nhịp: đi thẳng qua ngã tư theo đèn xanh, dừng sát lề phía bên kia ở chỗ không cản người đi bộ, xoay xe sang hướng mới rồi đợi đèn hướng ấy chuyển xanh để đi tiếp.
 

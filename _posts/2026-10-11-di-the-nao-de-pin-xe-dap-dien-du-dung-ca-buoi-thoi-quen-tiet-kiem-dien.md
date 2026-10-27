@@ -36,7 +36,7 @@ Cuối cùng là nhả ga sớm. Ở phố cổ giờ đông hay trước đèn 
 
 ## Đạp phụ ở quãng bằng để chia việc với động cơ
 
-Quãng bằng phẳng là nơi đôi chân bạn có ích nhất. Giả sử buổi chiều bạn đạp một vòng ven hồ, gặp đoạn thoáng ít phải dừng: vặn ga nhẹ cho xe lăn bánh, rồi đạp đều để cùng gánh với động cơ. Muốn biết thêm về đường đi và chỗ dừng nghỉ, hãy xem bài [vòng quanh Hồ Tây vào buổi chiều](/xe-may/2026/10/11/ap-xe-ien-quanh-ho-tay-buoi-chieu-i-uong-nao-dung-nghi-o-au/).
+Quãng bằng phẳng là nơi đôi chân bạn có ích nhất. Giả sử buổi chiều bạn đạp một vòng ven hồ, gặp đoạn thoáng ít phải dừng: vặn ga nhẹ cho xe lăn bánh, rồi đạp đều để cùng gánh với động cơ. Muốn biết thêm về đường đi và chỗ dừng nghỉ, hãy xem bài [vòng quanh Hồ Tây vào buổi chiều](/xe-may/2026/10/11/dap-xe-dien-quanh-ho-tay-buoi-chieu-di-duong-nao-dung-nghi-o-dau/).
 
 Mẹo này chỉ dùng được khi xe có bàn đạp dùng được, mà mỗi hãng một kiểu: có xe đạp nhẹ chân, có xe khá nặng. Nếu chưa rõ mình đang thuê loại nào, hãy đọc bài [xe đạp điện và xe máy điện khác nhau ra sao](/chia%20s%E1%BA%BB/2026/09/18/phan-biet-xe-dap-dien-va-xe-may-dien/) rồi hỏi lại cửa hàng.
 

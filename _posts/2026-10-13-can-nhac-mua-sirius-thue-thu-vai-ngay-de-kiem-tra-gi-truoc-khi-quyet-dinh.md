@@ -19,7 +19,7 @@ Nhiều người đến cổng hàng xem xe rồi về, hoặc xem hình trên m
 
 ## Tư thế ngồi và tầm với phanh số ngày đầu
 
-Việc đầu tiên không phải máy móc gì cao siêu, mà là tư thế ngồi sau một tiếng chạy liên tục. Ngồi thử ở quầy hàng mười phút không nói lên gì, vì mông và lưng chỉ lên tiếng sau khi ngồi lâu. Trong ngày thuê đầu tiên, chạy một quãng đủ dài, rồi tự hỏi: lưng có mỏi ở vị trí lạ nào không, hai vai có phải nhún lên không, mông có tê không. Ai từng thuê thử dòng xe ga rồi có thể đọc thêm bài [chạy thử xe ga trước khi mua bằng Honda Vision thuê một tuần](/xe-may/2026/10/11/chay-thu-xe-ga-truoc-khi-mua-bang-honda-vision-thue-mot-tuan-nen-e-y-gi/ "Chạy thử Honda Vision") để so sánh cảm giác giữa hai loại xe.
+Việc đầu tiên không phải máy móc gì cao siêu, mà là tư thế ngồi sau một tiếng chạy liên tục. Ngồi thử ở quầy hàng mười phút không nói lên gì, vì mông và lưng chỉ lên tiếng sau khi ngồi lâu. Trong ngày thuê đầu tiên, chạy một quãng đủ dài, rồi tự hỏi: lưng có mỏi ở vị trí lạ nào không, hai vai có phải nhún lên không, mông có tê không. Ai từng thuê thử dòng xe ga rồi có thể đọc thêm bài [chạy thử xe ga trước khi mua bằng Honda Vision thuê một tuần](/xe-may/2026/10/11/chay-thu-xe-ga-truoc-khi-mua-bang-honda-vision-thue-mot-tuan-nen-de-y-gi/ "Chạy thử Honda Vision") để so sánh cảm giác giữa hai loại xe.
 
 Tiếp theo là tầm với. Đặt cả hai bàn chân xuống đất khi dừng ở đèn đỏ có vững không, ngón chân có phải chòng chân xuống mép đường không, bàn đạp phanh và cần số với kích cỡ giày của mình có phải vươn hết người không. Những thứ này chỉ phát hiện sau vài lần dừng đèn đỏ thật, không phải trong bãi.
 
@@ -27,7 +27,7 @@ Cuối cùng là lưng xe và gương: gương chỉnh được tới góc nhìn
 
 ## Độ ồn máy và cảm giác ga khi chạy thật
 
-Ngày thứ hai nên chạy quãng đường mình hay đi nhất, ví dụ quãng nhà tới chỗ làm, để nghe máy trong điều kiện thật. Máy xe số rẻ tiền thường ồn hơn xe ga, nhưng ồn đều và ồn đều theo tốc độ là một kiểu, còn ồn lúc lên số, rít ở dốc là kiểu khác. Nếu chưa chắc tai mình đủ tin, đọc bài [tiếng máy xe số ồn hơn bình thường cần để ý gì](/xe-may/2026/10/03/tieng-may-xe-so-no-to-hon-binh-thuong-can-e-y-gi/ "Tiếng máy xe số ồn") để biết ranh giới giữa bình thường và cần kiểm tra.
+Ngày thứ hai nên chạy quãng đường mình hay đi nhất, ví dụ quãng nhà tới chỗ làm, để nghe máy trong điều kiện thật. Máy xe số rẻ tiền thường ồn hơn xe ga, nhưng ồn đều và ồn đều theo tốc độ là một kiểu, còn ồn lúc lên số, rít ở dốc là kiểu khác. Nếu chưa chắc tai mình đủ tin, đọc bài [tiếng máy xe số ồn hơn bình thường cần để ý gì](/xe-may/2026/10/03/tieng-may-xe-so-no-to-hon-binh-thuong-can-de-y-gi/ "Tiếng máy xe số ồn") để biết ranh giới giữa bình thường và cần kiểm tra.
 
 Cảm giác ga cũng vậy: vặn nhẹ có nhạy không, buông ga có xuống số đều không, giữa vòng ga có đoạn chết nào không. Cái cần đo là sự tin cậy: sau một ngày chạy, tay mình có tự tin điều khiển xe trong ngõ nhỏ mà không nhìn xuống bàn đạp không.
 

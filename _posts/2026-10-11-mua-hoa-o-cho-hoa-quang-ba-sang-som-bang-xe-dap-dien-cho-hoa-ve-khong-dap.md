@@ -20,13 +20,13 @@ Bạn vừa chọn xong mấy bó hoa giữa lối đi chật người ở chợ
 
 Hoa mới về thường còn tươi và nhiều lựa chọn nhất lúc chợ còn đầu buổi, khi nắng chưa lên và phố chưa đông. Đi sớm cũng hợp với xe đạp điện: đường vắng nên bạn chạy chậm mà ít bị ai bấm còi giục, hoa đỡ phơi nắng trên đường về. Nếu trời còn tối, hãy chọn lối quen và có đèn. Về giờ họp chợ hay lối ra vào, thông tin có thể thay đổi, hãy kiểm tra kênh chính thức của địa điểm trước khi đi.
 
-Ra chợ nên mang theo một túi nhỏ đựng giấy báo, dây vải hoặc dây thun bản to, khăn giấy hay bông thấm nước cùng một thùng giấy cứng vừa giỏ xe. Lần đầu đi chợ sớm bằng xe đạp điện thì bài về [chuyện thuê xe đạp điện đi chợ từ đầu ngày](/xe-may/2026/10/09/xe-ap-ien-thue-i-cho-au-ngay-hop-khong/) giúp bạn hình dung cả buổi.
+Ra chợ nên mang theo một túi nhỏ đựng giấy báo, dây vải hoặc dây thun bản to, khăn giấy hay bông thấm nước cùng một thùng giấy cứng vừa giỏ xe. Lần đầu đi chợ sớm bằng xe đạp điện thì bài về [chuyện thuê xe đạp điện đi chợ từ đầu ngày](/xe-may/2026/10/09/xe-dap-dien-thue-di-cho-dau-ngay-hop-khong/) giúp bạn hình dung cả buổi.
 
 ## Chuẩn bị xe đạp điện trước khi ôm hoa lên xe
 
 Việc đầu tiên không phải mua hoa mà là nhìn lại xe. Mức pin nên dư cho cả lượt đi lẫn lượt về. Mỗi xe hao pin một kiểu, tùy xe, tùy hãng, nên đừng áng chừng theo chiếc xe bạn từng đi. Bóp thử hai tay phanh, liếc qua lốp và bật đèn nếu trời còn mờ.
 
-Chỗ đặt hoa cũng tùy xe: có xe gắn giỏ trước, có xe có giá sau, có xe trơn không có gì. Nếu thuê xe, bạn hỏi cửa hàng trước khi buộc hay gắn thêm thứ gì. Vật nặng nên đặt thấp và sát thân xe, còn túi treo ghi đông làm tay lái nặng và lệch. Hoa nhẹ nhưng cồng kềnh, cái khó của nó giống chuyện [chở hai bao đồ cùng lúc](/xe-may/2026/10/09/xe-ap-ien-thue-co-cho-uoc-hai-bao-o-khong/): không phải nặng bao nhiêu mà là đặt ở đâu để xe còn cân bằng.
+Chỗ đặt hoa cũng tùy xe: có xe gắn giỏ trước, có xe có giá sau, có xe trơn không có gì. Nếu thuê xe, bạn hỏi cửa hàng trước khi buộc hay gắn thêm thứ gì. Vật nặng nên đặt thấp và sát thân xe, còn túi treo ghi đông làm tay lái nặng và lệch. Hoa nhẹ nhưng cồng kềnh, cái khó của nó giống chuyện [chở hai bao đồ cùng lúc](/xe-may/2026/10/09/xe-dap-dien-thue-co-cho-duoc-hai-bao-do-khong/): không phải nặng bao nhiêu mà là đặt ở đâu để xe còn cân bằng.
 
 ## Chọn hoa nào để chịu được đường về
 
@@ -46,7 +46,7 @@ Phần quyết định hoa về có nguyên vẹn hay không nằm ở vài phú
 4. Xếp vào thùng có thành: dựng các bó hơi nghiêng dựa vào thành, nhét giấy báo vo nhẹ vào khoảng trống để bó không xê dịch.
 5. Buộc thùng vào xe rồi lắc thử: buộc ít nhất hai điểm bằng dây bản to và lắc mạnh bằng tay trước khi lên xe. Thùng chỉ nên rung cùng khung xe, không đung đưa riêng.
 
-Cành quá dài so với thùng thì nhờ người bán cắt bớt cuống ngay tại chợ, đừng gập hoa cho vừa. Chỉ chở một bó nhỏ thì đặt vào giỏ trước, đầu hoa hướng lên, giấy lót chạm thành giỏ chứ không chạm cánh hoa. Chuyện xếp đồ đi chợ nói chung đã có bài về [giỏ rau chở lúc sáng sớm](/xe-may/2026/10/03/xe-ap-ien-cho-gio-rau-sang-som/), còn hoa mềm hơn rau nên cần thêm lớp giấy lót.
+Cành quá dài so với thùng thì nhờ người bán cắt bớt cuống ngay tại chợ, đừng gập hoa cho vừa. Chỉ chở một bó nhỏ thì đặt vào giỏ trước, đầu hoa hướng lên, giấy lót chạm thành giỏ chứ không chạm cánh hoa. Chuyện xếp đồ đi chợ nói chung đã có bài về [giỏ rau chở lúc sáng sớm](/xe-may/2026/10/03/xe-dap-dien-cho-gio-rau-sang-som/), còn hoa mềm hơn rau nên cần thêm lớp giấy lót.
 
 ## Chở hoa bằng xe đạp điện trên đường về: chạy chậm, phanh sớm, đều tay
 

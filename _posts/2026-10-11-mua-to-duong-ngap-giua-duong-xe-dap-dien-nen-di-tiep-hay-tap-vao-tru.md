@@ -40,7 +40,7 @@ Chỗ trú tốt không cần đẹp, chỉ cần cho bạn dừng xe mà không
 
 Nên tránh dưới tán cây lớn hay biển quảng cáo cũ khi có gió giật hoặc sấm sét, sát cột điện và dây điện thả thấp, hoặc ngay trên làn đường ở chân cầu vượt vì xe sau dễ không kịp thấy bạn. Trên đoạn đê ven sông Hồng gió lộng, mưa tạt ngang và rất ít chỗ che; hãy tìm lối xuống khu dân cư gần nhất để kiếm mái hiên thay vì đứng giữa đê.
 
-Nếu chuyến đi là vòng quanh hồ buổi chiều, hãy xem trước bài về [cung đường và điểm dừng nghỉ khi đạp xe điện quanh Hồ Tây](/xe-may/2026/10/11/ap-xe-ien-quanh-ho-tay-buoi-chieu-i-uong-nao-dung-nghi-o-au/) để biết sẵn nơi ghé lúc trời đổi sắc.
+Nếu chuyến đi là vòng quanh hồ buổi chiều, hãy xem trước bài về [cung đường và điểm dừng nghỉ khi đạp xe điện quanh Hồ Tây](/xe-may/2026/10/11/dap-xe-dien-quanh-ho-tay-buoi-chieu-di-duong-nao-dung-nghi-o-dau/) để biết sẵn nơi ghé lúc trời đổi sắc.
 
 ## Xe đạp điện đi qua đường ngập: đọc mặt nước trước khi lội
 
@@ -48,7 +48,7 @@ Nước ngập trông phẳng nhưng che giấu khá nhiều thứ: ổ gà, n�
 
 Bạn có thể nhìn bánh xe của người đi trước để ước chừng độ sâu, nhưng đừng đi theo vết họ: ô tô gầm cao hay xe máy qua được chưa chắc xe đạp điện qua được. Cũng đừng lao xe vào thử độ sâu bằng chính bánh xe của mình.
 
-Hãy tự đặt một mốc dừng đơn giản: nước che mất mép đường và vạch kẻ, hoặc dâng quá nửa bánh xe, thì coi như vượt ngưỡng. Mỗi xe chịu nước khác nhau (tùy xe/tùy hãng), và một số xe đặt hộp điều khiển, giắc nối hay pin ở vị trí thấp, nên với xe thuê càng không nên thử. Thấy dây điện đứt, nghe tiếng lách tách ở hộp điện hoặc nước chảy sát chân cột điện, hãy lùi xa và chọn hướng khác. Muốn hiểu thêm về mặt đường xấu, bạn có thể xem bài [xe đạp điện và đường ổ gà ven đô](/xe-may/2026/10/03/xe-ap-ien-va-uong-o-ga-ven-o/), vì ổ gà bị nước phủ còn khó thấy hơn nhiều.
+Hãy tự đặt một mốc dừng đơn giản: nước che mất mép đường và vạch kẻ, hoặc dâng quá nửa bánh xe, thì coi như vượt ngưỡng. Mỗi xe chịu nước khác nhau (tùy xe/tùy hãng), và một số xe đặt hộp điều khiển, giắc nối hay pin ở vị trí thấp, nên với xe thuê càng không nên thử. Thấy dây điện đứt, nghe tiếng lách tách ở hộp điện hoặc nước chảy sát chân cột điện, hãy lùi xa và chọn hướng khác. Muốn hiểu thêm về mặt đường xấu, bạn có thể xem bài [xe đạp điện và đường ổ gà ven đô](/xe-may/2026/10/03/xe-dap-dien-va-duong-o-ga-ven-do/), vì ổ gà bị nước phủ còn khó thấy hơn nhiều.
 
 ## Quay đầu, đi vòng hay dắt bộ
 

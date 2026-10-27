@@ -59,7 +59,7 @@ Ngồi lên xe, đặt tay lên ghi đông và tự hỏi ba điều. Khuỷu ta
 
 Người thấp hay gặp tay lái quá xa, người cao thì quá thấp. Nhiều xe cho nâng hoặc nghiêng tay lái, nhưng không phải xe nào cũng vậy, nên hãy hỏi cửa hàng thay vì tự nới ốc; riêng phanh thì càng không nên tự mày mò.
 
-Về tư thế ngồi khi đạp xe điện, hãy ngồi trên hai xương ngồi (hai điểm xương nhô dưới mông), lưng thẳng tự nhiên, bụng gồng nhẹ, đầu gối hướng cùng chiều mũi chân thay vì xòe ra hay khép vào. Nắm tay lái vừa đủ chắc chứ đừng siết chặt. Những sáng gió mùa lạnh, bàn tay co cứng rất dễ nắm quá mạnh; bài về [đạp xe điện giữ ấm tay chân ngày gió mùa](/xe-may/2026/10/11/ngay-gio-mua-lanh-o-ha-noi-ap-xe-ien-giu-am-tay-chan-ma-van-cam-lai-chac/) nói thêm cách vừa ấm vừa cầm lái chắc. Nếu xe cho chọn mức trợ lực, mức vừa phải giúp vòng đạp nhẹ và đều, đỡ cho gối hơn là đạp nặng và chậm.
+Về tư thế ngồi khi đạp xe điện, hãy ngồi trên hai xương ngồi (hai điểm xương nhô dưới mông), lưng thẳng tự nhiên, bụng gồng nhẹ, đầu gối hướng cùng chiều mũi chân thay vì xòe ra hay khép vào. Nắm tay lái vừa đủ chắc chứ đừng siết chặt. Những sáng gió mùa lạnh, bàn tay co cứng rất dễ nắm quá mạnh; bài về [đạp xe điện giữ ấm tay chân ngày gió mùa](/xe-may/2026/10/11/ngay-gio-mua-lanh-o-ha-noi-dap-xe-dien-giu-am-tay-chan-ma-van-cam-lai-chac/) nói thêm cách vừa ấm vừa cầm lái chắc. Nếu xe cho chọn mức trợ lực, mức vừa phải giúp vòng đạp nhẹ và đều, đỡ cho gối hơn là đạp nặng và chậm.
 
 ## Chạy thử một vòng ngắn rồi mới chốt cách chỉnh
 
@@ -73,4 +73,4 @@ Hãy dừng xe ở chỗ an toàn khi đau nhói, tê tay, chóng mặt, hoặc 
 
 Chỉ cần ba thông tin: chiều cao, chuyện đau gối hay đau lưng nếu có, và đoạn đường bạn định đi. Hỏi luôn xe có chỉnh được yên và tay lái không, giới hạn cọc yên ở đâu, có khung hợp với người thấp hoặc cao hơn không. Nếu thuê ở Nguyễn Tú, bạn có thể gọi 0942 467 674 hoặc ghé 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội trong giờ 09:00–21:00; giá và tình trạng xe đạp điện thì liên hệ để xác nhận.
 
-Nếu còn phân vân xe đạp điện có hợp với việc đi lại trong phố không, bài [khi nào đáng thuê xe đạp điện đi nội thành](/xe-may/2026/10/10/xe-ap-ien-cho-nguoi-lon-i-lai-trong-noi-thanh-khi-nao-ang-thue/) giúp bạn cân nhắc, còn nếu đang so với xe máy thì [chuyên mục xe máy](/xe-may/) có nhiều bài để đối chiếu. Lần tới nhận xe, hãy dành vài phút đầu để chỉnh yên, kiểm tra lại tư thế tay lái và chạy thử một vòng ngắn trước khi ra đường lớn.
+Nếu còn phân vân xe đạp điện có hợp với việc đi lại trong phố không, bài [khi nào đáng thuê xe đạp điện đi nội thành](/xe-may/2026/10/10/xe-dap-dien-cho-nguoi-lon-di-lai-trong-noi-thanh-khi-nao-dang-thue/) giúp bạn cân nhắc, còn nếu đang so với xe máy thì [chuyên mục xe máy](/xe-may/) có nhiều bài để đối chiếu. Lần tới nhận xe, hãy dành vài phút đầu để chỉnh yên, kiểm tra lại tư thế tay lái và chạy thử một vòng ngắn trước khi ra đường lớn.

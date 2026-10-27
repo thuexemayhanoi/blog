@@ -48,7 +48,7 @@ Vài cách làm thực tế:
 - Tránh giờ đi làm buổi sáng và giờ tan tầm, khi các trục lớn dày khói xe.
 - Chia chuyến dài thành vài đoạn ngắn, nghỉ trong nhà giữa các đoạn.
 
-Ai quen ra chợ từ tờ mờ sáng, như trong chuyện [thuê xe đạp điện đi chợ đầu ngày](/xe-may/2026/10/09/xe-ap-ien-thue-i-cho-au-ngay-hop-khong/), nên nhớ khung giờ ấy bụi nền thường dày hơn.
+Ai quen ra chợ từ tờ mờ sáng, như trong chuyện [thuê xe đạp điện đi chợ đầu ngày](/xe-may/2026/10/09/xe-dap-dien-thue-di-cho-dau-ngay-hop-khong/), nên nhớ khung giờ ấy bụi nền thường dày hơn.
 
 ## Tuyến đường ít khói bụi hơn trong nội thành
 
@@ -58,7 +58,7 @@ Khu quanh hồ là gợi ý quen thuộc: mặt nước và hàng cây thường
 
 Đoạn đê ven sông Hồng nhìn thoáng, nhưng chỗ nào có xe tải qua lại hay mặt đường vỡ thì vẫn bụi, lại vắng người nếu bạn gặp sự cố. Hãy để dành cho ngày không khí khá hơn.
 
-Khu phố cổ thì ngược lại: ngõ hẹp, người đông, xe máy đi sát nhau, khói dễ đọng giữa hai dãy nhà. Nếu định rong chơi ở đó, hãy đi chậm, chia quãng ngắn; chuyện [thuê xe đạp điện đi phố cổ có tiện không](/xe-may/2026/10/10/thue-xe-ap-ien-i-pho-co-co-tien-khong/) đã có bài bàn riêng. Hầm chui thường giữ khói lâu hơn, và đừng bám sát đuôi xe buýt hay xe tải.
+Khu phố cổ thì ngược lại: ngõ hẹp, người đông, xe máy đi sát nhau, khói dễ đọng giữa hai dãy nhà. Nếu định rong chơi ở đó, hãy đi chậm, chia quãng ngắn; chuyện [thuê xe đạp điện đi phố cổ có tiện không](/xe-may/2026/10/10/thue-xe-dap-dien-di-pho-co-co-tien-khong/) đã có bài bàn riêng. Hầm chui thường giữ khói lâu hơn, và đừng bám sát đuôi xe buýt hay xe tải.
 
 ## Khẩu trang khi đạp xe và đồ che chắn cần mang
 
@@ -78,7 +78,7 @@ Ngoài khẩu trang, bạn nên mang:
 
 Bụi mù làm tầm nhìn ngắn lại, người khác sẽ thấy bạn muộn hơn bạn nghĩ. Nếu xe có đèn trước và đèn hậu, hãy bật cả ban ngày, giảm tốc và giữ khoảng cách rộng hơn với xe phía trước.
 
-Với xe điện, hãy xem mức pin trước khi đi và để dư cho cả lượt về, vì hết điện giữa khói bụi là tình huống khó chịu nhất; mức pin dùng được bao lâu tùy xe, tùy hãng. Nếu xe nóng bất thường, có mùi khét hay tiếng kêu lạ, hãy dừng ở chỗ an toàn, tắt xe, không tự mở hoặc sửa pin, rồi báo cửa hàng cho thuê để hỏi hướng xử lý. Những lưu ý chung khi thuê xe có trong bài [thuê xe đạp điện ở Hà Nội lưu ý gì](/xe-may/2026/10/07/thue-xe-ap-ien-o-ha-noi-luu-y-gi/).
+Với xe điện, hãy xem mức pin trước khi đi và để dư cho cả lượt về, vì hết điện giữa khói bụi là tình huống khó chịu nhất; mức pin dùng được bao lâu tùy xe, tùy hãng. Nếu xe nóng bất thường, có mùi khét hay tiếng kêu lạ, hãy dừng ở chỗ an toàn, tắt xe, không tự mở hoặc sửa pin, rồi báo cửa hàng cho thuê để hỏi hướng xử lý. Những lưu ý chung khi thuê xe có trong bài [thuê xe đạp điện ở Hà Nội lưu ý gì](/xe-may/2026/10/07/thue-xe-dap-dien-o-ha-noi-luu-y-gi/).
 
 Về tới nơi, hãy rửa mặt, rửa tay, thay áo và uống nước; nếu ho hoặc khó thở kéo dài, hãy gặp nhân viên y tế.
 

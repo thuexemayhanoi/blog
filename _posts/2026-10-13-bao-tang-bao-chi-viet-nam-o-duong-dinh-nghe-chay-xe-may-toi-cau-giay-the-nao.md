@@ -21,7 +21,7 @@ Bảo tàng Báo chí Việt Nam nằm trong tòa nhà Hội Nhà báo trên ph�
 
 Từ Hồ Gươm, chạy theo trục Hàng Bài lên Nguyễn Thái Học, nối qua Kim Mã rồi theo đại lộ lên khu Cầu Giấy, rẽ vào Dương Đình Nghệ. Tổng quãng chừng sáu cây số, và nếu đi trước bảy giờ sáng thì khoảng hai mươi phút là tới. Từ phố cổ cũng tương tự, chỉ khác khúc đầu qua Hàng Gà hoặc Hàng Điếu để ra Hàng Bài. Giờ cao điểm sáng, đoạn cuối lên Cầu Giấy chậm, nên khách ghép buổi tham quan này với lịch trình khác thì nên tính dư thời gian.
 
-Trục cuối trước khi rẽ có nhiều tòa nhà giống nhau, nên quy tắc đơn giản: để ý biển tên phố trước khi rẽ, vì Dương Đình Nghệ ngắn và dễ chạy quá. Ai từng ghé khu Cầu Giấy qua bài [đến Bảo tàng Dân tộc học Việt Nam bằng xe máy](/du-lich/2026/09/28/en-bao-tang-dan-toc-hoc-viet-nam-bang-xe-may-gui-xe-va-uong-i/ "Bảo tàng Dân tộc học") sẽ biết khu này bãi gửi xe thuận hơn trung tâm, nhưng vẫn nên đi sớm để chọn chỗ gần cổng.
+Trục cuối trước khi rẽ có nhiều tòa nhà giống nhau, nên quy tắc đơn giản: để ý biển tên phố trước khi rẽ, vì Dương Đình Nghệ ngắn và dễ chạy quá. Ai từng ghé khu Cầu Giấy qua bài [đến Bảo tàng Dân tộc học Việt Nam bằng xe máy](/du-lich/2026/09/28/den-bao-tang-dan-toc-hoc-viet-nam-bang-xe-may-gui-xe-va-duong-di/ "Bảo tàng Dân tộc học") sẽ biết khu này bãi gửi xe thuận hơn trung tâm, nhưng vẫn nên đi sớm để chọn chỗ gần cổng.
 
 ## Xác định đúng lối vào tòa nhà
 

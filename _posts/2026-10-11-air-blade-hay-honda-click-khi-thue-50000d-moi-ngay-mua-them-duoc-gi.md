@@ -61,7 +61,7 @@ Giả sử bạn thuê ba ngày: hai ngày dạo phố cổ, Hồ Gươm, vòng 
 ### Air Blade đáng trả thêm khi
 
 - Bạn chở thêm người, mang nhiều đồ, hoặc cao to và hay mỏi khi ngồi lâu trên xe nhỏ.
-- Lịch trình có ngày chạy ra ngoài nội thành hoặc dài hơi; bài [thuê Air Blade đi chặng xa có hợp không](/xe-may/2026/10/07/thue-honda-air-blade-i-chang-xa-co-hop-khong/) đã bàn riêng chuyện này.
+- Lịch trình có ngày chạy ra ngoài nội thành hoặc dài hơi; bài [thuê Air Blade đi chặng xa có hợp không](/xe-may/2026/10/07/thue-honda-air-blade-di-chang-xa-co-hop-khong/) đã bàn riêng chuyện này.
 - Bạn thuê theo tuần hoặc tháng để đi lại hằng ngày: lúc ấy khoảng chênh thực tế gọn lại, còn bạn có chiếc xe vững tay lái mỗi ngày. Bài [Air Blade đi làm hằng ngày hợp tay lái nào](/xe-may/2026/10/02/thue-air-blade-i-lam-hang-ngay-hop-tay-lai-nao/) nói kỹ hơn về kiểu dùng này.
 
 Nếu lịch trình trộn cả hai kiểu, hãy chọn theo ngày khó nhất. Ngày chạy xa hay chở nặng quyết định chiếc xe, vì ngày dạo phố thì xe nào cũng làm được. Với ai nghiêng về Air Blade, [chuyên mục Honda Air Blade](/xe-may/honda-air-blade/) còn nhiều bài đi sâu từng tình huống thuê.

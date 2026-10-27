@@ -43,7 +43,7 @@ Về người ngồi sau, Mio yên liền thấp nên người lớn tuổi, tr�
 
 ## Xăng và chi phí trong ngày
 
-Theo công bố của Yamaha Việt Nam, Sirius FI tiêu thụ khoảng 1,65 lít cho một trăm cây số trong điều kiện thử nghiệm của hãng; xe ga nhỏ cùng hãng tốn hơn, mức chênh phụ thuộc đời xe và cách đi. Với một ngày trong phố ba bốn chục cây số, khác biệt tiền xăng chỉ là vài chục nghìn; với một tuần đi làm hoặc một ngày đi Ba Vì thì bắt đầu đáng kể. Bài [cùng 150.000đ một ngày: nên thuê Wave, Click hay Mio](/hoi-dap/2026/10/11/cung-150000-mot-ngay-nen-thue-wave-click-hay-mio/ "Cùng 150.000đ nên thuê xe nào") đặt bài toán chi phí cho nhóm xe phổ thông này.
+Theo công bố của Yamaha Việt Nam, Sirius FI tiêu thụ khoảng 1,65 lít cho một trăm cây số trong điều kiện thử nghiệm của hãng; xe ga nhỏ cùng hãng tốn hơn, mức chênh phụ thuộc đời xe và cách đi. Với một ngày trong phố ba bốn chục cây số, khác biệt tiền xăng chỉ là vài chục nghìn; với một tuần đi làm hoặc một ngày đi Ba Vì thì bắt đầu đáng kể. Bài [cùng 150.000đ một ngày: nên thuê Wave, Click hay Mio](/hoi-dap/2026/10/11/cung-150000d-mot-ngay-nen-thue-wave-click-hay-mio/ "Cùng 150.000đ nên thuê xe nào") đặt bài toán chi phí cho nhóm xe phổ thông này.
 
 ## Ngày đầu với xe vừa chọn: thói quen cần đổi
 

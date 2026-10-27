@@ -36,7 +36,7 @@ Nếu thuê xe, hãy hỏi người cho thuê cách phanh của chiếc xe bạn
 
 ## Cách phanh xe đạp điện êm từng bước khi có người băng ngang
 
-Hãy hình dung một buổi chiều bạn đạp quanh Hồ Tây, người tập thể dục bất ngờ rời lối đi và bước ngang đường, chỉ còn một khoảng ngắn để xử lý. Nếu định đi vòng này, hãy xem trước [đường đi và chỗ dừng nghỉ khi đạp xe điện quanh Hồ Tây buổi chiều](/xe-may/2026/10/11/ap-xe-ien-quanh-ho-tay-buoi-chieu-i-uong-nao-dung-nghi-o-au/).
+Hãy hình dung một buổi chiều bạn đạp quanh Hồ Tây, người tập thể dục bất ngờ rời lối đi và bước ngang đường, chỉ còn một khoảng ngắn để xử lý. Nếu định đi vòng này, hãy xem trước [đường đi và chỗ dừng nghỉ khi đạp xe điện quanh Hồ Tây buổi chiều](/xe-may/2026/10/11/dap-xe-dien-quanh-ho-tay-buoi-chieu-di-duong-nao-dung-nghi-o-dau/).
 
 Các bước, theo thứ tự:
 
@@ -61,9 +61,9 @@ Với người lớn tuổi hoặc người mới quen xe, hãy chừa thêm kho
 
 ## Đường trơn, giỏ nặng, phố đông: phanh khác đi thế nào
 
-Mặt đường ẩm, lá rụng ướt hay vệt dầu loang đều làm bánh dễ trượt. Lúc này hãy bóp nhẹ hơn và sớm hơn, chia lực cho cả hai tay, tránh bóp mạnh phanh trước. Phần lưu ý riêng cho đường trơn và tầm nhìn kém có trong bài [đạp xe điện khi mưa phùn](/xe-may/2026/10/11/ap-xe-ien-khi-mua-phun-uong-tron-tam-nhin-kem-thi-chay-the-nao/).
+Mặt đường ẩm, lá rụng ướt hay vệt dầu loang đều làm bánh dễ trượt. Lúc này hãy bóp nhẹ hơn và sớm hơn, chia lực cho cả hai tay, tránh bóp mạnh phanh trước. Phần lưu ý riêng cho đường trơn và tầm nhìn kém có trong bài [đạp xe điện khi mưa phùn](/xe-may/2026/10/11/dap-xe-dien-khi-mua-phun-duong-tron-tam-nhin-kem-thi-chay-the-nao/).
 
-Giỏ trước chất đồ nặng khiến đầu xe nặng, và khi phanh gấp đồ dồn về trước làm xe chúi nhiều hơn. Hãy đặt đồ nặng thấp, chia đều, đừng dồn hết vào giỏ; chở được bao nhiêu còn tùy xe, tùy hãng. Với người lớn tuổi hay xách giỏ đi chợ, bài [thuê xe đạp điện và chạy an toàn khi đi chợ](/xe-may/2026/10/02/xe-ap-ien-cho-nguoi-lon-tuoi-i-cho-thue-va-chay-an-toan/) có thêm lưu ý.
+Giỏ trước chất đồ nặng khiến đầu xe nặng, và khi phanh gấp đồ dồn về trước làm xe chúi nhiều hơn. Hãy đặt đồ nặng thấp, chia đều, đừng dồn hết vào giỏ; chở được bao nhiêu còn tùy xe, tùy hãng. Với người lớn tuổi hay xách giỏ đi chợ, bài [thuê xe đạp điện và chạy an toàn khi đi chợ](/xe-may/2026/10/02/xe-dap-dien-cho-nguoi-lon-tuoi-di-cho-thue-va-chay-an-toan/) có thêm lưu ý.
 
 Ở chỗ đông như cổng trường giờ tan học hay đầu chợ buổi sáng, hãy chỉ chạy nhanh đến mức dừng gọn được trong đoạn đường mình nhìn rõ, và giảm tốc từ trước khi thấy trẻ con hay người xách đồ chực băng qua.
 

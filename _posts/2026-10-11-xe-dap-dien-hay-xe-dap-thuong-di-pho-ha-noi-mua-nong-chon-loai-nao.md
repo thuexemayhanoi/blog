@@ -30,7 +30,7 @@ Mồ hôi là chỗ hai loại xe khác nhau rõ nhất, cũng là chỗ nhiều
 
 Xe đạp điện giúp bạn bớt sinh nhiệt, nhất là lúc khởi động sau mỗi đèn đỏ, nơi đôi chân tốn sức nhất. Nhưng nó không che nắng thay bạn. Dừng chờ đèn giữa ngã tư buổi trưa, bạn vẫn đứng dưới trời nóng như mọi người, mà gió mát khi chạy cũng mất.
 
-Cách hỗ trợ lực còn tùy xe, tùy hãng: có xe trợ lực khi bạn đạp, có xe chạy bằng tay ga, nên hãy hỏi kỹ cách vận hành trước khi đi. Muốn bớt mồ hôi thật sự, hãy đi sáng sớm hoặc xế chiều, chọn tuyến nhiều cây, mặc áo thoáng và mang theo nước; bài về [chọn giờ chạy và đường có bóng cây giữa nắng nóng Hà Nội](/xe-may/2026/10/11/ap-xe-ien-giua-nang-nong-ha-noi-chon-gio-chay-uong-co-bong-cay/) nói kỹ hơn phần này.
+Cách hỗ trợ lực còn tùy xe, tùy hãng: có xe trợ lực khi bạn đạp, có xe chạy bằng tay ga, nên hãy hỏi kỹ cách vận hành trước khi đi. Muốn bớt mồ hôi thật sự, hãy đi sáng sớm hoặc xế chiều, chọn tuyến nhiều cây, mặc áo thoáng và mang theo nước; bài về [chọn giờ chạy và đường có bóng cây giữa nắng nóng Hà Nội](/xe-may/2026/10/11/dap-xe-dien-giua-nang-nong-ha-noi-chon-gio-chay-duong-co-bong-cay/) nói kỹ hơn phần này.
 
 ## Đường dài, gió ngược và dốc: chặng về mới là chặng khó
 
@@ -48,7 +48,7 @@ Nếu tuyến đường dài tới mức cả hai loại xe đạp đều quá s
 
 Người đi làm hằng ngày quan tâm tới sự lặp lại: hai chặng mỗi ngày, cùng một con đường, cùng một cái nóng. Điểm khác nhau lớn nhất giữa xe đạp điện và xe đạp thường ở đây là sức bền so với sự tiện. Xe điện giữ sức cho bạn sau nhiều ngày nắng, nhưng bạn phải lo chỗ để xe, chỗ sạc và sức dắt xe vào cổng; xe thường nhẹ, gọn, dựng đâu cũng tiện.
 
-Nếu bạn ở xa chỗ làm và đang cân nhắc thuê thử, hãy đọc thêm bài [xe đạp điện cho người lớn đi lại trong nội thành, khi nào đáng thuê](/xe-may/2026/10/10/xe-ap-ien-cho-nguoi-lon-i-lai-trong-noi-thanh-khi-nao-ang-thue/).
+Nếu bạn ở xa chỗ làm và đang cân nhắc thuê thử, hãy đọc thêm bài [xe đạp điện cho người lớn đi lại trong nội thành, khi nào đáng thuê](/xe-may/2026/10/10/xe-dap-dien-cho-nguoi-lon-di-lai-trong-noi-thanh-khi-nao-dang-thue/).
 
 Dạo phố cuối tuần thì ngược lại: không ai giục, bạn dừng liên tục để ghé quán cà phê quen, tạt vào chợ mua rau. Trong ngõ nhỏ khu phố cổ, nơi hay phải xuống dắt xe tránh người đi bộ, xe đạp thường nhẹ tay hơn hẳn. Xe điện đáng giá khi bạn muốn đi xa hơn trong một buổi sáng mà không cạn sức trước giờ nắng lên.
 
@@ -66,6 +66,6 @@ Còn phân vân thì hãy tự trả lời ba câu sau về chuyến đi quen th
 2. Bạn mang bao nhiêu đồ, và đến nơi có cần chỉn chu không? Đồ nhiều hoặc phải gọn gàng thì nghiêng về xe điện.
 3. Hai đầu đường có chỗ cất, chỗ sạc và lối dắt xe thoải mái không? Nếu không, xe thường nhẹ sẽ đỡ phiền hơn.
 
-Cách rõ ràng nhất là thử một ngày, đúng tuyến bạn hay đi vào đúng giờ nóng. Hãy đọc trước [những điều cần hỏi khi thuê xe đạp điện ở Hà Nội](/xe-may/2026/10/07/thue-xe-ap-ien-o-ha-noi-luu-y-gi/), rồi liên hệ Nguyễn Tú để xác nhận giá và tình trạng xe đạp điện hiện tại qua số 0942 467 674, tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00–21:00.
+Cách rõ ràng nhất là thử một ngày, đúng tuyến bạn hay đi vào đúng giờ nóng. Hãy đọc trước [những điều cần hỏi khi thuê xe đạp điện ở Hà Nội](/xe-may/2026/10/07/thue-xe-dap-dien-o-ha-noi-luu-y-gi/), rồi liên hệ Nguyễn Tú để xác nhận giá và tình trạng xe đạp điện hiện tại qua số 0942 467 674, tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00–21:00.
 
 Cuối tuần này, hãy lấy một tuyến bạn hay đi vào giờ nắng, mang đủ nước và đi thử, ghi lại đoạn nào mệt nhất, đoạn nào bạn ước có thêm lực; mệt quá thì cứ dừng nghỉ. Hai ghi chú ấy trả lời câu xe đạp điện hay xe đạp thường sát hơn mọi bảng so sánh. Chọn xong xe điện, [chuyên mục xe đạp điện](/xe-may/xe-dap-dien/) có các bài đi tiếp từ chỗ này.

@@ -31,7 +31,7 @@ Những khoảng đường dịu hơn thường rơi vào:
 - Khoảng 1 rưỡi đến 4 giờ chiều: dòng xe vơi hẳn.
 - Sau 7 rưỡi tối: đường thưa dần, nhưng cần đèn và đồ phản quang cho dễ thấy.
 
-Mùa hè, những khoảng vắng xe giữa ngày thường trùng lúc nắng gắt nhất. Bài [chọn giờ chạy và đường có bóng cây](/xe-may/2026/10/11/ap-xe-ien-giua-nang-nong-ha-noi-chon-gio-chay-uong-co-bong-cay/) giúp bạn cân giữa tránh kẹt và tránh nắng.
+Mùa hè, những khoảng vắng xe giữa ngày thường trùng lúc nắng gắt nhất. Bài [chọn giờ chạy và đường có bóng cây](/xe-may/2026/10/11/dap-xe-dien-giua-nang-nong-ha-noi-chon-gio-chay-duong-co-bong-cay/) giúp bạn cân giữa tránh kẹt và tránh nắng.
 
 Chỉ cần dời giờ đi hoặc về chừng nửa tiếng, cảm giác trên đường nhiều khi đã khác hẳn. Ngày mưa, chiều thứ Sáu hay đầu tuần sau kỳ nghỉ thường đông hơn, nên hãy chừa thêm thời gian.
 
@@ -41,7 +41,7 @@ Tên phố đỡ tắc ở Hà Nội dễ lỗi thời, nên thay vì một danh
 
 Phố nhỏ chạy song song với trục lớn thường thưa xe hơn, đổi lại đường hẹp, xe đỗ sát lề và ngõ cắt ngang liên tục, nên bạn phải chạy chậm, để ý cửa xe mở bất ngờ.
 
-Đường men hồ hay đoạn đê ven sông Hồng thường ít nút cắt hơn trong phố, nhưng xe chạy nhanh hơn, gió và nắng cũng rõ hơn. Gợi ý đường đi và chỗ dừng nghỉ có trong bài [đạp xe điện quanh Hồ Tây buổi chiều](/xe-may/2026/10/11/ap-xe-ien-quanh-ho-tay-buoi-chieu-i-uong-nao-dung-nghi-o-au/).
+Đường men hồ hay đoạn đê ven sông Hồng thường ít nút cắt hơn trong phố, nhưng xe chạy nhanh hơn, gió và nắng cũng rõ hơn. Gợi ý đường đi và chỗ dừng nghỉ có trong bài [đạp xe điện quanh Hồ Tây buổi chiều](/xe-may/2026/10/11/dap-xe-dien-quanh-ho-tay-buoi-chieu-di-duong-nao-dung-nghi-o-dau/).
 
 Thứ bản đồ ít khi báo kịp là những cục kẹt cục bộ ở cổng trường, chợ dân sinh buổi sáng, bến xe buýt hay khu văn phòng lúc tan ca. Khu phố cổ giờ tan tầm cũng vậy: phố hẹp, người đi bộ đông, xe máy chen đủ hướng, nên nếu chỉ đi ngang, hãy vòng ra ngoài.
 
@@ -62,7 +62,7 @@ Dù chọn giờ và đường kỹ đến đâu, thỉnh thoảng bạn vẫn p
 
 Câu hỏi giờ cao điểm Hà Nội đi xe gì không có đáp án chung. Xe đạp điện hợp với quãng ngắn đến vừa, nhiều ngõ phố và lịch trình không quá sát. Hành trình dài qua nhiều nút lớn, ngày mưa to, hành lý nặng hay cuộc hẹn không thể trễ là lúc nên tính xe buýt, xe công nghệ hoặc xe máy tay ga nếu bạn đã quen lái. Các lựa chọn xe máy có trong [chuyên mục xe máy](/xe-may/).
 
-Muốn cân nhắc kỹ việc thuê xe cho đi lại hằng ngày, hãy đọc bài [xe đạp điện cho người lớn đi lại trong nội thành](/xe-may/2026/10/10/xe-ap-ien-cho-nguoi-lon-i-lai-trong-noi-thanh-khi-nao-ang-thue/), nơi phân tích khi nào việc thuê là đáng.
+Muốn cân nhắc kỹ việc thuê xe cho đi lại hằng ngày, hãy đọc bài [xe đạp điện cho người lớn đi lại trong nội thành](/xe-may/2026/10/10/xe-dap-dien-cho-nguoi-lon-di-lai-trong-noi-thanh-khi-nao-dang-thue/), nơi phân tích khi nào việc thuê là đáng.
 
 ## Pin, đèn và lộ trình dự phòng trước khi xuất phát
 

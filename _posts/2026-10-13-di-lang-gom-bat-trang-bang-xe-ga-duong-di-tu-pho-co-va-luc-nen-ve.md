@@ -39,7 +39,7 @@ Về lúc nên về: rời Bát Tràng trước bốn giờ chiều để kịp 
 
 ## Chở gốm về bằng xe ga: gói, xếp và cốp
 
-Gốm dễ vỡ nên phần chở về quan trọng ngang phần chọn mua: các món nhỏ như cốc, bát, lọ hoa, gói từng món bằng giấy gói cuốn chặt, xếp vào hộp giấy ngay tại chỗ bán, hầu hết cửa hàng có sẵn. Xếp hộp vào cốp xe theo nguyên tắc nặng dưới nhẹ trên, món lộ ra ngoài thì bọc kỹ hơn một lớp, phần xếp đồ vào cốp đã bàn trong bài [chở đồ bằng Click](/xe-may/2026/10/03/honda-click-cop-o-cho-chuyen-sieu-thi/) dùng nguyên cho hành lý gốm.
+Gốm dễ vỡ nên phần chở về quan trọng ngang phần chọn mua: các món nhỏ như cốc, bát, lọ hoa, gói từng món bằng giấy gói cuốn chặt, xếp vào hộp giấy ngay tại chỗ bán, hầu hết cửa hàng có sẵn. Xếp hộp vào cốp xe theo nguyên tắc nặng dưới nhẹ trên, món lộ ra ngoài thì bọc kỹ hơn một lớp, phần xếp đồ vào cốp đã bàn trong bài [chở đồ bằng Click](/xe-may/2026/10/03/honda-click-cop-do-cho-chuyen-sieu-thi/) dùng nguyên cho hành lý gốm.
 
 Nếu mua chậu lớn hoặc vazon cao quá cốp, có hai lựa chọn: nhờ cửa hàng gửi xe tải nhỏ về tận nơi cho đơn giá nhỏ, hoặc buộc chặt sau yên bằng dây thun hai điểm buộc, chạy chậm về, tránh các đoạn ổ gà. Túi gốm buộc sau yên tuyệt đối không để nghiêng về một bên, xe ga bị lệch trọng tâm thì cua dễ đuối, đi thẳng đường rộng vẫn ổn nhưng vào ngõ nhỏ là lộ ngay.
 

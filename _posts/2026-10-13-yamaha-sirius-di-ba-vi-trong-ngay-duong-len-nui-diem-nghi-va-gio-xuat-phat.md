@@ -19,7 +19,7 @@ Ba Vì nằm phía tây Hà Nội, cách nội thành chừng sáu mươi cây s
 
 ## Giờ xuất phát và nhịp chạy trên quốc lộ
 
-Xuất phát từ nội thành vào khoảng 5 giờ 30 tới 6 giờ sáng là hợp lý nhất. Đoạn qua nội thành và đại lộ lúc này xe còn thưa, đủ để làm quen lại cảm giác lái chiếc xe số trước khi ra quốc lộ. Ai chưa từng chạy xa bằng xe số nên đọc trước vài lưu ý khi [thue Yamaha Sirius dai han](/xe-may/2026/09/27/thue-yamaha-sirius-dai-han-xe-so-ben-cho-nguoi-i-lam/ "Thuê Yamaha Sirius dài hạn") để biết đặc tính máy của dòng xe này.
+Xuất phát từ nội thành vào khoảng 5 giờ 30 tới 6 giờ sáng là hợp lý nhất. Đoạn qua nội thành và đại lộ lúc này xe còn thưa, đủ để làm quen lại cảm giác lái chiếc xe số trước khi ra quốc lộ. Ai chưa từng chạy xa bằng xe số nên đọc trước vài lưu ý khi [thue Yamaha Sirius dai han](/xe-may/2026/09/27/thue-yamaha-sirius-dai-han-xe-so-ben-cho-nguoi-di-lam/ "Thuê Yamaha Sirius dài hạn") để biết đặc tính máy của dòng xe này.
 
 Trên quốc lộ đi hướng Sơn Tây, nhịp chạy giữ chừng 50 tới 60 km một giờ là đủ. Không cố đua theo xe con, cũng không bám sát xe tải để đỡ gió, vì xe số nhẹ bị gió từ xe lớn đẩy lệch nhiều hơn cảm giác bên ngoài dây analog. Giữ khoảng cách, chạy đúng làn, và chuẩn bị trước mỗi vòng xoay. Nếu ai đã từng chạy cung Tam Đảo sẽ thấy dễ dàng hơn nhiều so với Ba Vì ở đoạn quốc lộ, vì quãng đường Hà Nội tới Sơn Tây rộng và bằng phẳng hơn, tương tự những gì đã chia sẻ trong bài [Sirius đi Tam Đảo](/xe-may/2026/10/13/yamaha-sirius-di-tam-dao-tu-ha-noi-leo-doc-xuong-deo-va-nghi-may/ "Sirius đi Tam Đảo").
 

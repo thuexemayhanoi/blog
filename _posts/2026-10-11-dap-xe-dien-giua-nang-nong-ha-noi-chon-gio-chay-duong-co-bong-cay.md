@@ -36,7 +36,7 @@ Hà Nội có những phố được nhắc đến vì hàng cây lâu năm: ph�
 
 Đừng chọn tuyến chỉ vì nghe nói phố đó nhiều cây; hãy tính cả hướng nắng. Lúc sáng sớm hay chiều muộn nắng thấp, đạp thẳng về phía mặt trời sẽ bị lóa mắt, nên chọn tuyến rẽ ngang hoặc có hàng cây cản bớt. Những đoạn trống như đê ven sông Hồng thường ít bóng che, hợp lúc sớm hoặc chiều muộn hơn là giữa trưa.
 
-Dưới tán cây dày, nắng rọi loang lổ khiến mắt khó thấy ổ gà, rễ cây trồi hay vũng nước sau mưa, nên hãy giảm tốc khi vào đoạn bóng râm và xem thêm cách xử lý [mặt đường ổ gà](/xe-may/2026/10/03/xe-ap-ien-va-uong-o-ga-ven-o/). Muốn vòng hồ lúc chiều muộn, bài [gợi ý đi quanh Hồ Tây buổi chiều](/xe-may/2026/10/11/ap-xe-ien-quanh-ho-tay-buoi-chieu-i-uong-nao-dung-nghi-o-au/) có sẵn đường đi và chỗ dừng nghỉ. Thông tin đường đi và phân luồng có thể thay đổi, hãy kiểm tra kênh chính thức trước khi đi.
+Dưới tán cây dày, nắng rọi loang lổ khiến mắt khó thấy ổ gà, rễ cây trồi hay vũng nước sau mưa, nên hãy giảm tốc khi vào đoạn bóng râm và xem thêm cách xử lý [mặt đường ổ gà](/xe-may/2026/10/03/xe-dap-dien-va-duong-o-ga-ven-do/). Muốn vòng hồ lúc chiều muộn, bài [gợi ý đi quanh Hồ Tây buổi chiều](/xe-may/2026/10/11/dap-xe-dien-quanh-ho-tay-buoi-chieu-di-duong-nao-dung-nghi-o-dau/) có sẵn đường đi và chỗ dừng nghỉ. Thông tin đường đi và phân luồng có thể thay đổi, hãy kiểm tra kênh chính thức trước khi đi.
 
 ## Nước, nhịp đạp và trang phục khi đi xe đạp điện mùa hè Hà Nội
 

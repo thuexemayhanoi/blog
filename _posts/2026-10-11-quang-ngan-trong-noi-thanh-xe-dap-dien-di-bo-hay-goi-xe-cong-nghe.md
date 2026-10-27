@@ -28,7 +28,7 @@ Xe đạp điện mất vài phút ở hai đầu chặng, nên với quãng qu�
 
 Gọi xe công nghệ hấp dẫn vì khỏi lo chỗ đỗ, nhưng với chặng ngắn, thời gian chờ và vòng vèo có thể dài hơn chính đoạn đường. Khu phố cổ nhiều đường một chiều và ngõ hẹp, nên điểm đón thường ở đầu phố chứ không trước cửa, còn lộ trình của xe vòng xa hơn đường chim bay. Ngược lại, một chặng đơn lẻ khá xa hoặc đang gấp giờ hẹn thì gọi xe vẫn hợp lý.
 
-Hãy nghĩ đến lúc tài xế nhắn "em đang ở đầu phố". Bạn tự đi bộ ra gặp họ, tức là một đoạn chặng đã đi bằng chân rồi. Mỗi lần gọi là một lần chờ, bốn điểm là bốn lần chờ, trong khi xe đạp điện chỉ lấy một lần và mỗi điểm dừng tốn ít phút đỗ, khóa. Nếu đang phân vân có đáng thuê không, bài [xe đạp điện cho người lớn đi lại trong nội thành](/xe-may/2026/10/10/xe-ap-ien-cho-nguoi-lon-i-lai-trong-noi-thanh-khi-nao-ang-thue/) bàn riêng chuyện đó.
+Hãy nghĩ đến lúc tài xế nhắn "em đang ở đầu phố". Bạn tự đi bộ ra gặp họ, tức là một đoạn chặng đã đi bằng chân rồi. Mỗi lần gọi là một lần chờ, bốn điểm là bốn lần chờ, trong khi xe đạp điện chỉ lấy một lần và mỗi điểm dừng tốn ít phút đỗ, khóa. Nếu đang phân vân có đáng thuê không, bài [xe đạp điện cho người lớn đi lại trong nội thành](/xe-may/2026/10/10/xe-dap-dien-cho-nguoi-lon-di-lai-trong-noi-thanh-khi-nao-dang-thue/) bàn riêng chuyện đó.
 
 Đổi lại, xe đạp điện buộc bạn tự để mắt tới chiếc xe. Nếu thấy nóng bất thường, mùi khét hay xe yếu đi đột ngột, hãy dừng ở chỗ an toàn, không tự mở hay sửa pin, rồi báo cửa hàng cho thuê trước khi tự xử lý.
 
@@ -38,7 +38,7 @@ Hà Nội có những ngày sáng nắng đẹp, chiều kéo mây đen, nên h�
 
 Nắng gắt giữa trưa là lúc đi bộ hao sức nhất, nhất là trên đoạn vỉa hè ít bóng cây. Hãy dồn các chặng đi bộ vào sáng sớm hoặc xế chiều, còn khoảng trưa thì ngồi trong quán hoặc chuyển sang xe. Ngày thu se lạnh thì ngược lại, đi bộ quãng ngắn là cách dễ chịu nhất để thấy phố.
 
-Mưa rào là tình huống khó nhất. Trên xe đạp điện, mặt đường ướt làm phanh kém hơn và tầm nhìn xấu đi, còn xe công nghệ lúc mưa thường khó bắt và chờ lâu hơn. Mưa chưa kéo dài thì trú trong quán vài chục phút thường là gọn nhất; khi nước bắt đầu ngập mặt đường, hãy xem [cách cân nhắc khi mưa to, đường ngập giữa đường](/xe-may/2026/10/11/mua-to-uong-ngap-giua-uong-xe-ap-ien-nen-i-tiep-hay-tap-vao-tru/) trước khi quyết định đi tiếp hay tấp vào trú.
+Mưa rào là tình huống khó nhất. Trên xe đạp điện, mặt đường ướt làm phanh kém hơn và tầm nhìn xấu đi, còn xe công nghệ lúc mưa thường khó bắt và chờ lâu hơn. Mưa chưa kéo dài thì trú trong quán vài chục phút thường là gọn nhất; khi nước bắt đầu ngập mặt đường, hãy xem [cách cân nhắc khi mưa to, đường ngập giữa đường](/xe-may/2026/10/11/mua-to-duong-ngap-giua-duong-xe-dap-dien-nen-di-tiep-hay-tap-vao-tru/) trước khi quyết định đi tiếp hay tấp vào trú.
 
 ## Chỗ đỗ: câu hỏi hay bị bỏ quên
 
@@ -71,4 +71,4 @@ Bốn yếu tố trên gom lại thành vài dòng dễ nhớ:
 - Trời mưa, đồ cồng kềnh, một chặng khá xa hoặc điểm đến lạ chưa biết chỗ đỗ: gọi xe công nghệ.
 - Chưa chắc thì cứ đi bộ vài phút đầu; thấy không ổn thì đứng chỗ có bóng râm rồi gọi xe.
 
-Muốn thử đi nhiều chặng ngắn bằng xe đạp điện, hãy đọc [những điều cần lưu ý khi thuê xe đạp điện ở Hà Nội](/xe-may/2026/10/07/thue-xe-ap-ien-o-ha-noi-luu-y-gi/), rồi gọi Thuê Xe Máy Hà Nội Nguyễn Tú theo số 0942 467 674 (mở cửa 09:00–21:00) để xác nhận giá, tình trạng xe hiện tại và giờ nhận, trả xe. Đi xa hơn nội thành thì mục [thuê xe máy ở Hà Nội](/xe-may/) có thêm gợi ý.
+Muốn thử đi nhiều chặng ngắn bằng xe đạp điện, hãy đọc [những điều cần lưu ý khi thuê xe đạp điện ở Hà Nội](/xe-may/2026/10/07/thue-xe-dap-dien-o-ha-noi-luu-y-gi/), rồi gọi Thuê Xe Máy Hà Nội Nguyễn Tú theo số 0942 467 674 (mở cửa 09:00–21:00) để xác nhận giá, tình trạng xe hiện tại và giờ nhận, trả xe. Đi xa hơn nội thành thì mục [thuê xe máy ở Hà Nội](/xe-may/) có thêm gợi ý.

@@ -51,6 +51,6 @@ Cách luyện nhanh nhất là đi giờ vắng trước, giờ cao điểm sau,
 
 Ở Hà Nội, hàng xe là hình thức trật tự tự nhiên: hàng trước vạch đèn, hàng rẽ tự lệch sang phải, hàng ra hẻm tự bóp còi báo. Vào hàng đúng nghĩa là không chen ngang giữa hai xe đang đi chậm đều, dừng hàng đúng nghĩa là không đổ ra giữa giao lộ, mà né sát mép để dòng phía sau còn luồng.
 
-Hai kỹ năng nhỏ này liên quan trực tiếp tới gọn xe: xe nhỏ gọn dễ tìm chỗ trong hàng, phần chọn xe theo kiểu di chuyển hàng ngày đã có trong bài [Click chở đồ và đi chợ siêu thị](/xe-may/2026/10/03/honda-click-cop-o-cho-chuyen-sieu-thi/), khi bạn quen việc xếp đồ gọn, bạn cũng quen việc xếp mình vào dòng.
+Hai kỹ năng nhỏ này liên quan trực tiếp tới gọn xe: xe nhỏ gọn dễ tìm chỗ trong hàng, phần chọn xe theo kiểu di chuyển hàng ngày đã có trong bài [Click chở đồ và đi chợ siêu thị](/xe-may/2026/10/03/honda-click-cop-do-cho-chuyen-sieu-thi/), khi bạn quen việc xếp đồ gọn, bạn cũng quen việc xếp mình vào dòng.
 
 Tổng quan dòng xe nhỏ gọn nằm trong trang [Honda Click](/xe-may/honda-click/), danh sách các dòng xe cho thuê nằm trong trang [xe máy](/xe-may/). Đọc được dòng xe Hà Nội, bạn sẽ thấy nó không hỗn loạn, nó chỉ chạy theo một tập quy tắc khác, và một buổi đi giờ vắng đủ để bạn bắt nhịp.

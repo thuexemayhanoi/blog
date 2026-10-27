@@ -22,7 +22,7 @@ Mưa rào đủ lớn sẽ cuốn bụi và dầu mỡ trên mặt đường xu�
 
 Xe đạp điện lại càng nhạy với lớp màng này: lốp thường mảnh, vệt tiếp xúc nhỏ, còn động cơ trợ lực có thể đẩy xe vọt lên nếu bạn vặn ga hay đạp mạnh bất ngờ. Phanh lúc ướt cũng thường ăn chậm hơn, mức độ tùy loại phanh và tùy xe.
 
-Những chỗ trơn hay gặp ở Hà Nội gồm vạch sơn ngã tư, nắp cống, tấm thép che đoạn đường thi công, đường ray tàu cắt ngang và vệt đất cát từ xe tải công trường. Lớp nước mỏng còn che mất ổ gà; bài về [xe đạp điện và những đoạn đường ổ gà ven đô](/xe-may/2026/10/03/xe-ap-ien-va-uong-o-ga-ven-o/) nói kỹ cách né.
+Những chỗ trơn hay gặp ở Hà Nội gồm vạch sơn ngã tư, nắp cống, tấm thép che đoạn đường thi công, đường ray tàu cắt ngang và vệt đất cát từ xe tải công trường. Lớp nước mỏng còn che mất ổ gà; bài về [xe đạp điện và những đoạn đường ổ gà ven đô](/xe-may/2026/10/03/xe-dap-dien-va-duong-o-ga-ven-do/) nói kỹ cách né.
 
 ## Tầm nhìn kém: bạn khó thấy đường, người khác cũng khó thấy bạn
 
@@ -65,4 +65,4 @@ Xe có biểu hiện lạ cũng cần dừng: trợ lực mất đột ngột, m
 
 Về tới nơi, lau khô thân xe bằng khăn sạch, nhất là tay phanh và vành bánh, rồi để xe ở chỗ khô ráo; đừng xịt nước vào pin hay ổ cắm sạc. Việc sạc pin sau chuyến đi ẩm tùy xe, tùy hãng, nên hãy hỏi cửa hàng cho thuê thay vì tự suy đoán.
 
-Nếu đang tìm xe cho những ngày lạnh ẩm, hãy hỏi Nguyễn Tú để xác nhận tình trạng và giá xe đạp điện hiện tại, rồi đọc thêm [những lưu ý khi thuê xe đạp điện ở Hà Nội](/xe-may/2026/10/07/thue-xe-ap-ien-o-ha-noi-luu-y-gi/). Các bài khác nằm trong [mục xe đạp điện](/xe-may/xe-dap-dien/), còn kinh nghiệm chung cho xe hai bánh ở [chuyên mục xe máy](/xe-may/).
+Nếu đang tìm xe cho những ngày lạnh ẩm, hãy hỏi Nguyễn Tú để xác nhận tình trạng và giá xe đạp điện hiện tại, rồi đọc thêm [những lưu ý khi thuê xe đạp điện ở Hà Nội](/xe-may/2026/10/07/thue-xe-dap-dien-o-ha-noi-luu-y-gi/). Các bài khác nằm trong [mục xe đạp điện](/xe-may/xe-dap-dien/), còn kinh nghiệm chung cho xe hai bánh ở [chuyên mục xe máy](/xe-may/).

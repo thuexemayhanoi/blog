@@ -29,7 +29,7 @@ Với váy bó, nên ngồi hơi lùi về sau yên và không cố ép hai châ
 
 Tà áo dài có hai phần cần xử lý riêng. Tà sau dài nhất và hay bay nhất: cách đơn giản là vắt tà sau qua một bên hông, kéo ra trước, gấp gọn đặt lên đùi rồi giữ bằng chính đùi mình. Người cẩn thận dùng kẹp tà áo dài hoặc ghim băng cài tà vào cạp quần, tránh ghim vào chỗ vải quá mỏng. Tà trước ngắn hơn, chỉ cần đặt ngay ngắn lên đùi, không để rủ xuống hai bên sàn.
 
-Quần áo dài thường rộng ống. Trên xe ga, ống quần không gần xích hay pô như xe số, nhưng vẫn có thể quét xuống mặt sàn bẩn hoặc mắc vào mấu chân chống khi xuống xe. Gập gấu một lần hoặc dùng kẹp ống quần loại dành cho người đi xe đạp là đủ. Ai đi xe số sẽ gặp thêm chuyện vướng pô và xích, bài [áo mưa, ống quần và váy dễ vướng pô, xích khi đi xe số](/xe-may/2026/10/11/ao-mua-ong-quan-va-vay-de-vuong-po-xich-khi-i-xe-so-cach-xu-ly/ "Váy, ống quần vướng pô và xích trên xe số") nói riêng về phần đó.
+Quần áo dài thường rộng ống. Trên xe ga, ống quần không gần xích hay pô như xe số, nhưng vẫn có thể quét xuống mặt sàn bẩn hoặc mắc vào mấu chân chống khi xuống xe. Gập gấu một lần hoặc dùng kẹp ống quần loại dành cho người đi xe đạp là đủ. Ai đi xe số sẽ gặp thêm chuyện vướng pô và xích, bài [áo mưa, ống quần và váy dễ vướng pô, xích khi đi xe số](/xe-may/2026/10/11/ao-mua-ong-quan-va-vay-de-vuong-po-xich-khi-di-xe-so-cach-xu-ly/ "Váy, ống quần vướng pô và xích trên xe số") nói riêng về phần đó.
 
 Khi tự lái với áo dài, tay áo ôm sát không cản gì, nhưng tà trước đặt trên đùi khiến người lái có xu hướng ngồi thẳng và cứng. Hãy thả lỏng vai, khuỷu tay hơi gập, mắt nhìn xa thay vì nhìn xuống tà. Xe ga nhỏ như Honda Click có tay lái thấp vừa tầm, không bắt người lái vươn tay, nên áo dài không bị kéo căng ở nách.
 
@@ -37,7 +37,7 @@ Khi tự lái với áo dài, tay áo ôm sát không cản gì, nhưng tà trư
 
 Thứ tự lên xe nên cố định để thành thói quen: dựng xe chắc, đứng bên trái xe, tay phải giữ tay lái, chân phải bước lên sàn rồi mới ngồi xuống. Với váy, bước lên sàn trước rồi ngồi gọn hơn hẳn việc vung chân qua yên như xe số, và đây chính là lý do xe ga hợp với trang phục này. Xuống xe làm ngược lại, luôn xuống về phía vỉa hè, không xuống về phía lòng đường.
 
-Dừng ở điểm chụp, tắt máy và dựng chân chống giữa nếu nền phẳng, chống cạnh nếu nền nghiêng. Đừng ngồi trên xe để chụp khi xe chỉ dựng chống cạnh và người thứ hai đang chen lên, xe rất dễ đổ về bên phải. Góc chụp đẹp và chỗ để xe quanh khu Hàng Mã, Hàng Buồm có trong bài [chụp ảnh phố cổ với xe máy đẹp ở đâu](/du-lich/2026/09/28/chup-anh-pho-co-voi-xe-may-ep-o-au/ "Chụp ảnh phố cổ với xe máy").
+Dừng ở điểm chụp, tắt máy và dựng chân chống giữa nếu nền phẳng, chống cạnh nếu nền nghiêng. Đừng ngồi trên xe để chụp khi xe chỉ dựng chống cạnh và người thứ hai đang chen lên, xe rất dễ đổ về bên phải. Góc chụp đẹp và chỗ để xe quanh khu Hàng Mã, Hàng Buồm có trong bài [chụp ảnh phố cổ với xe máy đẹp ở đâu](/du-lich/2026/09/28/chup-anh-pho-co-voi-xe-may-dep-o-dau/ "Chụp ảnh phố cổ với xe máy").
 
 ## Ngồi sau xe ga mặc váy: ngồi dạng hay ngồi nghiêng
 
@@ -53,6 +53,6 @@ Trong cốp hoặc túi nhỏ, nên có vài chiếc kẹp quần áo, một gó
 
 ## Xếp lịch chụp một ngày cho gọn với xe ga nhỏ
 
-Một lịch hay gặp: sáng sớm Văn Miếu khi sân còn vắng và mát, giữa buổi sang Hoàng thành, trưa nghỉ, chiều vào phố cổ rồi kết ở Hồ Gươm lúc đèn lên. Các điểm này cách nhau vài cây số, hoàn toàn hợp với xe ga nhỏ, và mỗi điểm đều có chỗ gửi xe có vé quanh cổng. Ai chưa chắc nên thuê xe ga hay xe số cho ngày mặc váy có thể đọc thêm [mặc váy hoặc áo dài đi xe máy: nên thuê xe ga hay xe số](/hoi-dap/2026/10/11/mac-vay-hoac-ao-dai-i-xe-may-nen-thue-xe-ga-hay-xe-so/ "Mặc váy đi xe máy nên thuê xe ga hay xe số").
+Một lịch hay gặp: sáng sớm Văn Miếu khi sân còn vắng và mát, giữa buổi sang Hoàng thành, trưa nghỉ, chiều vào phố cổ rồi kết ở Hồ Gươm lúc đèn lên. Các điểm này cách nhau vài cây số, hoàn toàn hợp với xe ga nhỏ, và mỗi điểm đều có chỗ gửi xe có vé quanh cổng. Ai chưa chắc nên thuê xe ga hay xe số cho ngày mặc váy có thể đọc thêm [mặc váy hoặc áo dài đi xe máy: nên thuê xe ga hay xe số](/hoi-dap/2026/10/11/mac-vay-hoac-ao-dai-di-xe-may-nen-thue-xe-ga-hay-xe-so/ "Mặc váy đi xe máy nên thuê xe ga hay xe số").
 
 Nhận xe buổi sáng, nhớ kiểm tra cốp có đủ chỗ cho giày và túi phụ kiện, gương chỉnh đúng tầm vì người mặc áo dài thường ngồi thẳng hơn bình thường. Các mẫu xe ga nhỏ dễ lái có ở trang [Honda Click](/xe-may/honda-click/ "Honda Click"), còn so sánh với các dòng khác nằm ở mục [xe máy](/xe-may/ "Xe máy").

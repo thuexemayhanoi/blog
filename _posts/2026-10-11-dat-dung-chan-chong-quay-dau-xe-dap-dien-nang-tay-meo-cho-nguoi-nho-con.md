@@ -24,7 +24,7 @@ Với xe đạp thường, bạn quen nhấc bánh hay xách xe qua bậc. Với
 
 Một nguyên tắc nữa là xe sắp đổ thì buông. Cố đỡ chiếc xe nặng đang nghiêng dễ khiến bạn bị kéo ngã hoặc đau lưng, còn xe trầy thì sửa được. Nếu là xe thuê, hãy báo cửa hàng trước khi tự xử lý.
 
-Xe hết pin giữa đường là chuyện riêng, vì khi đó bạn phải dắt hoặc đạp một chiếc xe vốn đã nặng; cách xử lý nằm trong bài về [phương án di chuyển an toàn khi xe đạp điện hết pin](/xe-may/2026/10/11/xe-ap-ien-ap-nang-khi-het-pin-phuong-an-di-chuyen-an-toan/).
+Xe hết pin giữa đường là chuyện riêng, vì khi đó bạn phải dắt hoặc đạp một chiếc xe vốn đã nặng; cách xử lý nằm trong bài về [phương án di chuyển an toàn khi xe đạp điện hết pin](/xe-may/2026/10/11/xe-dap-dien-dap-nang-khi-het-pin-phuong-an-di-chuyen-an-toan/).
 
 ## Cách dắt và dựng xe đạp điện: chuẩn bị rồi dắt bằng cả thân người
 
@@ -61,7 +61,7 @@ Nếu còn ngồi trên xe, trượt người xuống mép trước của yên �
 
 **Dốc xuống hầm gửi xe chung cư.** Dốc hầm thường ngắn mà gắt, nền bê tông trơn hơn khi ướt. Xuống dốc, giữ nhẹ phanh để xe không kéo bạn đi và đứng bên hông xe, đừng đứng chắn phía trước. Lên dốc, dồn người về phía trước và đẩy bằng chân chứ không kéo bằng tay; mỏi thì dừng, giữ phanh, nghỉ rồi đi tiếp.
 
-**Vỉa hè có bậc trước cổng chợ buổi sáng.** Xe nặng thì đừng cố nhấc qua bậc; hãy tìm chỗ vỉa hạ thấp hoặc đoạn dốc thoải, hoặc nhờ người giữ yên trong lúc bạn giữ lái. Mua đồ xong, đặt túi vào giỏ hoặc nhờ người cầm hộ thay vì treo lên tay lái. Nếu hay đi chợ bằng xe đạp điện, bài về [xe đạp điện cho người lớn tuổi đi chợ](/xe-may/2026/10/02/xe-ap-ien-cho-nguoi-lon-tuoi-i-cho-thue-va-chay-an-toan/) bàn kỹ phần thuê và chạy an toàn.
+**Vỉa hè có bậc trước cổng chợ buổi sáng.** Xe nặng thì đừng cố nhấc qua bậc; hãy tìm chỗ vỉa hạ thấp hoặc đoạn dốc thoải, hoặc nhờ người giữ yên trong lúc bạn giữ lái. Mua đồ xong, đặt túi vào giỏ hoặc nhờ người cầm hộ thay vì treo lên tay lái. Nếu hay đi chợ bằng xe đạp điện, bài về [xe đạp điện cho người lớn tuổi đi chợ](/xe-may/2026/10/02/xe-dap-dien-cho-nguoi-lon-tuoi-di-cho-thue-va-chay-an-toan/) bàn kỹ phần thuê và chạy an toàn.
 
 **Đoạn đê ven sông Hồng.** Mặt đường ở đó có thể nghiêng, lẫn cát và sỏi nên chân chống dễ trượt. Dừng nghỉ thì chọn đoạn phẳng nhất, tránh sát mép dốc, hướng đầu xe về phía cao rồi dựng chân chống theo ba nhịp ở trên.
 

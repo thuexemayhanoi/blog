@@ -29,13 +29,13 @@ Một lưu ý riêng cho đường đê: không chạy dính sát mép ngoài c�
 
 Làng Bát Tràng đông nhất vào cuối tuần buổi sáng và cả buổi chiều, khi các đoàn khách đi theo tour dồn vào. Muốn đi bộ thoải mái trong làng và gửi xe dễ thì đi buổi sáng sớm ngày thường, khoảng 8 tới 9 giờ, lúc các lò gốm mới mở cửa, không khí làng còn yên. Khung giờ này cũng là lúc đường đê và các trục đường Gia Lâm chưa vào giờ cao điểm.
 
-Buổi chiều từ 15 giờ trở đi cũng vắng dần, nhưng nên tính thêm thời gian quay về để không rơi vào giờ cao điểm chiều trên các trục đường lớn khi trở lại Long Biên. Ai đi bằng xe ga hoặc xe điện có thể tham khảo thêm hai bài [đi Bát Tràng bằng xe ga](/xe-may/2026/10/13/di-lang-gom-bat-trang-bang-xe-ga-duong-di-tu-pho-co-va-luc-nen-ve/ "Đi Bát Tràng bằng xe ga") và [đi Bát Tràng bằng xe điện](/xe-may/2026/10/11/i-lang-gom-bat-trang-bang-xe-may-ien-thue-tinh-pin-ca-i-lan-ve/ "Đi Bát Tràng bằng xe điện") để so sánh tuyến và khung giờ phù hợp từng loại xe.
+Buổi chiều từ 15 giờ trở đi cũng vắng dần, nhưng nên tính thêm thời gian quay về để không rơi vào giờ cao điểm chiều trên các trục đường lớn khi trở lại Long Biên. Ai đi bằng xe ga hoặc xe điện có thể tham khảo thêm hai bài [đi Bát Tràng bằng xe ga](/xe-may/2026/10/13/di-lang-gom-bat-trang-bang-xe-ga-duong-di-tu-pho-co-va-luc-nen-ve/ "Đi Bát Tràng bằng xe ga") và [đi Bát Tràng bằng xe điện](/xe-may/2026/10/11/di-lang-gom-bat-trang-bang-xe-may-dien-thue-tinh-pin-ca-di-lan-ve/ "Đi Bát Tràng bằng xe điện") để so sánh tuyến và khung giờ phù hợp từng loại xe.
 
 Ngày mưa to nên hoãn, vì ngõ làng trơn đất và lối đi bộ trong chợ gốm dễ ngập lội, khi đó trải nghiệm đi bộ xem gốm mất phần thú vị.
 
 ## Vào ngõ làng bằng xe số nhẹ có gì khác
 
-Cổng làng và các ngõ vào khu chợ hẹp, hai bên sát nhà, người đi bộ lẫn xe máy. Xe số nhẹ như Sirius có lợi thế ở đây: thắng nhẹ, ba chân chạm đất dễ, xoay được trong không gian nhỏ. Vào ngõ giữ số một hoặc số hai, tay phanh đặt sẵn, chạy theo nhịp người đi bộ phía trước chứ không bấm còi giục. Với những ai thường chạy trong phố cổ Hà Nội thì cảm giác này quen thuộc, tương tự những gì chia sẻ trong bài [Sirius trong phố chợ ông người](/xe-may/2026/10/03/yamaha-sirius-trong-pho-cho-ong-nguoi/ "Sirius trong phố chợ").
+Cổng làng và các ngõ vào khu chợ hẹp, hai bên sát nhà, người đi bộ lẫn xe máy. Xe số nhẹ như Sirius có lợi thế ở đây: thắng nhẹ, ba chân chạm đất dễ, xoay được trong không gian nhỏ. Vào ngõ giữ số một hoặc số hai, tay phanh đặt sẵn, chạy theo nhịp người đi bộ phía trước chứ không bấm còi giục. Với những ai thường chạy trong phố cổ Hà Nội thì cảm giác này quen thuộc, tương tự những gì chia sẻ trong bài [Sirius trong phố chợ ông người](/xe-may/2026/10/03/yamaha-sirius-trong-pho-cho-dong-nguoi/ "Sirius trong phố chợ").
 
 Chỗ ngoắt ngoẹo trong ngõ hay gặp là đoạn hai xe ngược chiều không tránh nhau nổi. Cách xử lý là nhìn trước một khung cửa, thấy ngõ quá hẹp và có xe đang tới thì dừng hẳn vào thềm nhà chờ, đừng cố nửa vời giữa ngõ. Lúc đó, tài xe nhẹ dễ dắt lùi hơn nhiều so với dòng xe to.
 

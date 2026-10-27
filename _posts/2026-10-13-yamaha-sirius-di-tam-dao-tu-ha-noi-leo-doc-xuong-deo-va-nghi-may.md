@@ -45,7 +45,7 @@ Phanh bóp liên tục sẽ nóng, phanh nóng thì ăn yếu dần, đó là ch
 
 Khung nên đi: sáng sớm trước bảy giờ ra khỏi Hà Nội, tới chân đèo trước chín giờ, lên đỉnh giữa sáng, trời còn mát và đường vắng. Tránh khung trưa cuối tuần, dốc đông xe lên xuống và nắng chiếu ngược các khúc cua gây chói, và nếu định ăn trưa trên đỉnh thì đi sớm hơn nửa tiếng nữa, hàng quán trên đỉnh vào giờ đó còn chỗ ngồi và chỗ để xe thoáng. Về chiều nên xuống đèo trước bốn giờ, sương bắt đầu buông ở đỉnh từ muộn chiều, mặt đèo ẩm nhanh, và phần đường lớn về Hà Nội lên đèn sau năm giờ đông.
 
-Nếu bạn mới đi đèo lần đầu, chọn ngày thường thay vì cuối tuần cho chuyến đầu, đường thưa giúp giữ vệt lái thoải mái, và một ngày nữa: hãy đi xe số quen tay như Sirius thay vì mượn dòng lạ, vì đèo không phải là lúc để làm quen xe mới, kinh nghiệm thuê Sirius khi đi xa đã bàn thêm trong bài [so sánh Sirius và Wave khi thuê đi xa](/xe-may/2026/09/30/so-sanh-sirius-va-wave-khi-thue-e-i-xa/).
+Nếu bạn mới đi đèo lần đầu, chọn ngày thường thay vì cuối tuần cho chuyến đầu, đường thưa giúp giữ vệt lái thoải mái, và một ngày nữa: hãy đi xe số quen tay như Sirius thay vì mượn dòng lạ, vì đèo không phải là lúc để làm quen xe mới, kinh nghiệm thuê Sirius khi đi xa đã bàn thêm trong bài [so sánh Sirius và Wave khi thuê đi xa](/xe-may/2026/09/30/so-sanh-sirius-va-wave-khi-thue-de-di-xa/).
 
 Về hành trang nhẹ trên xe, một balo nhỏ đựng nước và áo mỏng là đủ cho chuyến trong ngày, đồ để trong cốp nhỏ hoặc buộc chặt sau yên, đừng treo lỏng hai bên vì các khúc cua liên tục làm dây đong dễ văng vào phần bánh. Trên đỉnh, chỗ gửi xe gần khu phố nhỏ có người trông cả ngày, phần gửi xe gọn gàng luôn đáng lấy vì buổi trên đỉnh thường kéo dài hơn dự tính, cảnh ở trên giữ chân người ta ở lại lâu hơn lịch ghi.
 

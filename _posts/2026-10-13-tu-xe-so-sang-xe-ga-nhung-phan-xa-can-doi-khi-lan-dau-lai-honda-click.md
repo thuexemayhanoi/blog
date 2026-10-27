@@ -33,7 +33,7 @@ Dừng xe cũng đảo thứ tự. Trên xe số, bạn phối hợp nhả ga, b
 
 Lỗi một: chân trái giẫm xuống nền tìm cần số lúc giảm tốc. Cách phòng: khi tập, giảm tốc nhiều lần mà ý thức rõ chân trái đang thảnh thơi, để não cập nhật bản đồ mới. Lỗi hai: tay trái bóp côn hụt không khí lúc dừng đèn đỏ. Cách phòng: rèn câu thần nhớ mới, dừng xe là tay trái bóp phanh, chân chống, hai động tác thay cho cả côn lẫn số. Lỗi ba: vào cua vẫn về số. Cách phòng: nguyên tắc xe ga là phanh xong trước cua, trong cua giữ ga đều, hết cua mới tăng, tay phải gánh trọn việc điều tiết.
 
-Một lỗi nữa ít người để ý: đỗ xe. Xe số quen thói quen để xe số một khi đỗ dốc, xe ga không có số, nên trên vỉa hè nghiêng, quay đầu xe hướng lên dốc và dựng chân chống chuẩn xác, và kinh nghiệm đỗ, dựng xe quanh các khu đông người đã được tóm trong bài [Click cốp ở chỗ chuyên siêu thị](/xe-may/2026/10/03/honda-click-cop-o-cho-chuyen-sieu-thi/).
+Một lỗi nữa ít người để ý: đỗ xe. Xe số quen thói quen để xe số một khi đỗ dốc, xe ga không có số, nên trên vỉa hè nghiêng, quay đầu xe hướng lên dốc và dựng chân chống chuẩn xác, và kinh nghiệm đỗ, dựng xe quanh các khu đông người đã được tóm trong bài [Click cốp ở chỗ chuyên siêu thị](/xe-may/2026/10/03/honda-click-cop-do-cho-chuyen-sieu-thi/).
 
 Ngoài các lỗi tay chân, còn một lỗi về nhịp đi: người từ xe số sang xe ga thường chạy chậm hơn mức cần trong tuần đầu, vì tay ga còn dè dặt sau vài lần xe lao mạnh. Cách chữa không phải vặn ga to, mà là tập bốn thao tác đến mượt ở chỗ vắng, rồi tốc độ tự về đúng nhịp khi tay đã tin xe. Mất một buổi tập, đổi lại cả tuần đi đúng tốc độ dòng xe.
 
