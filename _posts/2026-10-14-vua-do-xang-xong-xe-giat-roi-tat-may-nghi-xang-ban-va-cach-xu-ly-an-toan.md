@@ -44,7 +44,7 @@ Khi xe đã giật rõ rệt, đừng cố chạy tới chỗ "đẹp hơn" ở 
 Phản xạ "đề thêm vài lần chắc nổ" rất tự nhiên, nhưng với trường hợp nghi xăng bẩn nó gây hại nhiều hơn lợi:
 
 - **Kéo thêm nhiên liệu bẩn vào sâu bên trong.** Mỗi lần đề, hệ thống lại hút xăng từ bình lên. Nếu đáy bình đang có nước hoặc cặn, bạn đang đẩy chúng đi xa hơn, khiến việc làm sạch về sau phức tạp hơn.
-- **Làm cạn ắc quy.** Đề nhiều lần liền khiến ắc quy yếu đi nhanh, có thể biến một sự cố về xăng thành thêm sự cố về điện. Dấu hiệu ắc quy yếu được giải thích trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/).
+- **Làm cạn ắc quy.** Đề nhiều lần liền khiến ắc quy yếu đi nhanh, có thể biến một sự cố về xăng thành thêm sự cố về điện. Dấu hiệu ắc quy yếu được giải thích trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/).
 - **Dễ chạy tiếp trong tình trạng xấu.** Xe nổ lại được một lúc khiến bạn yên tâm chạy tiếp, rồi tắt lần nữa ở chỗ khó xử lý hơn như trên cầu hay đường dẫn lên cầu.
 
 Quy tắc dễ nhớ: thử đề lại tối đa một hai lần, mỗi lần ngắn. Không nổ thì dừng hẳn và chuyển sang báo cửa hàng.

@@ -31,7 +31,7 @@ Wave là xe số không côn: tay trái không có tay côn, nhưng chân trái 
 
 ### Cốp dưới yên và sàn để chân
 
-Vision có cốp dưới yên để áo mưa, mũ, chai nước, và có sàn phẳng để đặt túi đồ giữa hai chân. Wave chỗ để đồ ít hơn hẳn, phần lớn đồ đạc phải nằm trong ba lô hoặc treo phía trước. Ai đi nhiều điểm trong ngày, mua đồ dọc đường hoặc mang theo áo mưa thường xuyên sẽ thấy khác biệt này mỗi lần dừng xe. Bài [Wave ít chỗ cất đồ: để áo mưa, nước và sạc dự phòng ở đâu](/xe-may/2026/10/11/honda-wave-it-cho-cat-o-e-ao-mua-nuoc-va-sac-du-phong-o-au/) có cách xoay xở nếu bạn vẫn chọn xe số.
+Vision có cốp dưới yên để áo mưa, mũ, chai nước, và có sàn phẳng để đặt túi đồ giữa hai chân. Wave chỗ để đồ ít hơn hẳn, phần lớn đồ đạc phải nằm trong ba lô hoặc treo phía trước. Ai đi nhiều điểm trong ngày, mua đồ dọc đường hoặc mang theo áo mưa thường xuyên sẽ thấy khác biệt này mỗi lần dừng xe. Bài [Wave ít chỗ cất đồ: để áo mưa, nước và sạc dự phòng ở đâu](/xe-may/2026/10/11/honda-wave-it-cho-cat-do-de-ao-mua-nuoc-va-sac-du-phong-o-dau/) có cách xoay xở nếu bạn vẫn chọn xe số.
 
 ### Tư thế ngồi và độ dễ làm quen
 
@@ -52,7 +52,7 @@ Với người quen xe số từ nhỏ, những điểm này là giá trị th�
 
 ### Đi phố cổ, quanh hồ Hoàn Kiếm, dừng đỗ liên tục
 
-Lịch trình kiểu này gồm nhiều đoạn ngắn, dừng đèn đỏ, gửi xe, dắt xe. Nếu không quen xe số, Vision đáng tiền vì đỡ hẳn chân trái và có cốp cất đồ khi xuống ăn uống. Nếu đã quen xe số và đi gọn, Wave vẫn ổn. Nhu cầu đi phố so kỹ hơn nằm trong bài [Honda Wave hay Vision khi thuê đi phố](/xe-may/2026/10/11/honda-wave-hay-vision-khi-thue-i-pho/).
+Lịch trình kiểu này gồm nhiều đoạn ngắn, dừng đèn đỏ, gửi xe, dắt xe. Nếu không quen xe số, Vision đáng tiền vì đỡ hẳn chân trái và có cốp cất đồ khi xuống ăn uống. Nếu đã quen xe số và đi gọn, Wave vẫn ổn. Nhu cầu đi phố so kỹ hơn nằm trong bài [Honda Wave hay Vision khi thuê đi phố](/xe-may/2026/10/11/honda-wave-hay-vision-khi-thue-di-pho/).
 
 ### Đi làm, đi học nội thành giờ cao điểm
 

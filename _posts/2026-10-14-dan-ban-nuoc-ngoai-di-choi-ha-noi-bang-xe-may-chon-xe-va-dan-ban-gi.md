@@ -25,7 +25,7 @@ Câu hỏi đầu tiên không phải thuê xe gì, mà là bạn ấy có nên 
 - **Mỗi người một xe, bạn đi trước dẫn đường.** Hợp với khách đã quen xe máy ở nước mình, có giấy tờ đầy đủ và muốn tự do dừng chụp ảnh.
 - **Bắt đầu bằng ngồi sau, sau đó mới tự lái.** Buổi đầu khách ngồi sau quan sát nhịp đường, buổi sau mới cầm lái trên tuyến đã quen.
 
-Chuyện giấy phép cần làm rõ trước khi thuê, không phải lúc đã ra đường. Bằng lái do nước ngoài cấp không phải lúc nào cũng dùng được ở Việt Nam, và quy định khác nhau tùy loại giấy. Hãy cùng bạn đọc kỹ bài [bằng lái được cấp ở nước ngoài có dùng được không](/an-toan-phap-ly/2026/09/28/bang-lai-uoc-cap-o-nuoc-ngoai-dung-uoc-khong/) để biết bạn ấy thuộc trường hợp nào. Nếu chưa chắc, chọn cách bạn chở là an toàn nhất cho cả hai.
+Chuyện giấy phép cần làm rõ trước khi thuê, không phải lúc đã ra đường. Bằng lái do nước ngoài cấp không phải lúc nào cũng dùng được ở Việt Nam, và quy định khác nhau tùy loại giấy. Hãy cùng bạn đọc kỹ bài [bằng lái được cấp ở nước ngoài có dùng được không](/an-toan-phap-ly/2026/09/28/bang-lai-duoc-cap-o-nuoc-ngoai-dung-duoc-khong/) để biết bạn ấy thuộc trường hợp nào. Nếu chưa chắc, chọn cách bạn chở là an toàn nhất cho cả hai.
 
 ## Chọn xe dễ lái cho bạn nước ngoài
 
@@ -52,7 +52,7 @@ Một mẹo nhỏ: dặn bạn đi sát sau xe của bạn, cách một hai thâ
 
 Với nhiều khách phương Tây, bấm còi là hành động tức giận. Ở Hà Nội, còi thường chỉ có nghĩa là "tôi đang ở đây" hoặc "tôi chuẩn bị vượt". Không được giải thích trước, bạn ấy sẽ giật mình phanh hoặc lách sang bên, đúng phản ứng dễ gây va chạm nhất.
 
-Hãy dặn rõ: nghe còi phía sau thì giữ nguyên hướng và tốc độ, xe kia sẽ tự vượt. Bạn ấy cũng nên dùng còi ngắn khi đi qua ngõ hẹp, khúc cua khuất hay lúc chuẩn bị vượt xe đạp. Phần quy định chung về đèn và còi có trong bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/en-tin-hieu-va-coi-xe-may-theo-quy-inh/), bạn có thể tóm tắt lại cho bạn mình.
+Hãy dặn rõ: nghe còi phía sau thì giữ nguyên hướng và tốc độ, xe kia sẽ tự vượt. Bạn ấy cũng nên dùng còi ngắn khi đi qua ngõ hẹp, khúc cua khuất hay lúc chuẩn bị vượt xe đạp. Phần quy định chung về đèn và còi có trong bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/den-tin-hieu-va-coi-xe-may-theo-quy-dinh/), bạn có thể tóm tắt lại cho bạn mình.
 
 ## Qua ngã tư và vòng xuyến đông
 
@@ -62,7 +62,7 @@ Ngã tư đông là nơi khách nước ngoài căng thẳng nhất. Trước kh
 - Ở ngã tư có đèn, chú ý cả xe máy vượt đèn từ hai bên khi vừa chuyển xanh. Đèn xanh rồi vẫn chờ một nhịp nhìn trái phải.
 - Nếu lỡ lối rẽ, cứ đi tiếp rồi quay lại sau. Không phanh gấp hay cắt ngang dòng xe để kịp rẽ.
 
-Nếu bạn ấy vẫn lo, hãy thiết kế lộ trình tránh các nút lớn trong buổi đầu. Tham khảo [cung nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-au/) để có tuyến vắng hơn.
+Nếu bạn ấy vẫn lo, hãy thiết kế lộ trình tránh các nút lớn trong buổi đầu. Tham khảo [cung nội thành cho người mới chạy lần đầu](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-dau/) để có tuyến vắng hơn.
 
 ## Lên kế hoạch buổi đi chơi đầu tiên
 

@@ -39,7 +39,7 @@ Những mẫu như Honda Vision có sàn để chân phẳng, là chỗ tốt nh
 
 Xe số như Honda Wave không có sàn phẳng phía trước, nên vali chỉ có thể buộc lên yên sau hoặc giá sau. Đồ nằm cao và lùi ra sau, xe dễ lắc đuôi khi vào cua hay phanh. Xe số vẫn hợp nếu bạn chỉ mang balo, hoặc đi hai người và người ngồi sau ôm vali nhỏ trên đùi.
 
-Tóm lại, người đi một mình với vali nên ưu tiên xe ga sàn phẳng. So sánh kỹ hơn giữa các dòng xe khi chở đồ có trong bài [đi chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/). Khi đặt xe, nói rõ với chủ xe bạn mang vali cỡ nào để được chuẩn bị đúng mẫu và sẵn dây chằng.
+Tóm lại, người đi một mình với vali nên ưu tiên xe ga sàn phẳng. So sánh kỹ hơn giữa các dòng xe khi chở đồ có trong bài [đi chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/di-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/). Khi đặt xe, nói rõ với chủ xe bạn mang vali cỡ nào để được chuẩn bị đúng mẫu và sẵn dây chằng.
 
 ## Hẹn nhận xe ở ga hay bến xe
 
@@ -66,7 +66,7 @@ Nhận xe xong, đừng vội nổ máy. Dành năm phút xếp đồ ngay tại
 3. **Đồ nhỏ và giấy tờ vào cốp.** Ví, sạc dự phòng, áo mưa, giấy tờ tùy thân, những thứ quý và nhỏ nên nằm trong cốp khóa, không treo ở móc.
 4. **Xe số thì buộc giá sau.** Đặt vali nằm, mặt phẳng áp yên, chằng dây chữ thập vào hai điểm cố định chắc, tránh xa ống xả.
 
-Lắc thử vali vài lần. Nếu nó còn xê dịch, chèn thêm áo mưa gấp gọn vào khe hoặc siết lại dây. Kỹ thuật buộc vali và balo chi tiết hơn có trong bài [mang vali nhỏ và ba lô khi đi xe máy ở Hà Nội](/thue-xe/2026/10/11/mang-vali-nho-va-ba-lo-khi-i-xe-may-o-ha-noi-buoc-o-sao-cho-an-toan/).
+Lắc thử vali vài lần. Nếu nó còn xê dịch, chèn thêm áo mưa gấp gọn vào khe hoặc siết lại dây. Kỹ thuật buộc vali và balo chi tiết hơn có trong bài [mang vali nhỏ và ba lô khi đi xe máy ở Hà Nội](/thue-xe/2026/10/11/mang-vali-nho-va-ba-lo-khi-di-xe-may-o-ha-noi-buoc-do-sao-cho-an-toan/).
 
 ## Chạy chặng đầu từ ga, bến xe về chỗ ở
 

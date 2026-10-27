@@ -51,7 +51,7 @@ Xe ga không bắt bạn nghe máy. Xe số thì có, và tiếng máy là thôn
 - **Nghe tiếng máy:** máy rú cao mà xe không nhanh thêm là bạn đang để số thấp quá lâu. Máy ì, rung và xe như bị ghì khi bạn tăng ga là số quá cao so với tốc độ.
 - **Cảm nhận phanh động cơ:** nhả ga ở số thấp, xe chậm lại rõ rệt. Đây là điều xe ga gần như không có, và là lý do người quen xe ga hay bị chúi nhẹ khi nhả ga đột ngột ở số 1 hoặc 2.
 
-Thao tác cơ bản từ lúc đề đến khi vào số đầu tiên có trong bài [đề xe và vào số 1 cho người mới](/ky-nang/2026/09/29/e-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi/).
+Thao tác cơ bản từ lúc đề đến khi vào số đầu tiên có trong bài [đề xe và vào số 1 cho người mới](/ky-nang/2026/09/29/de-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi/).
 
 ## Lỗi sang số người quen xe ga hay mắc
 

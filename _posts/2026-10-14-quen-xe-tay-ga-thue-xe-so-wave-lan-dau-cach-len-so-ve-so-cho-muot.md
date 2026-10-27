@@ -28,7 +28,7 @@ Khác biệt lớn nhất không nằm ở động cơ mà nằm ở vị trí t
 
 Wave dùng côn tự động, nghĩa là ly hợp tự cắt khi bạn nhả ga và nhấn cần số. Bạn không cần bóp gì cả, chỉ cần nhớ một nguyên tắc: **nhả hết ga rồi mới sang số**. Sang số trong lúc vẫn giữ ga là nguyên nhân chính khiến xe giật mạnh, kêu cục và làm người mới hoảng.
 
-Khi nhận xe, ngồi lên và nhìn mặt đồng hồ. Đèn chữ N màu xanh sáng nghĩa là xe đang ở số mo. Nhấn mũi chân xuống một nấc, đèn N tắt và bảng báo số hiện số 1. Mỗi đời Wave hơi khác nhau, nên hãy nhờ nhân viên chỉ ngay tại cửa hàng. Thao tác cơ bản từ lúc đề máy tới khi vào số đầu tiên có trong bài [đề xe và vào số 1 cho người mới](/ky-nang/2026/09/29/e-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi/).
+Khi nhận xe, ngồi lên và nhìn mặt đồng hồ. Đèn chữ N màu xanh sáng nghĩa là xe đang ở số mo. Nhấn mũi chân xuống một nấc, đèn N tắt và bảng báo số hiện số 1. Mỗi đời Wave hơi khác nhau, nên hãy nhờ nhân viên chỉ ngay tại cửa hàng. Thao tác cơ bản từ lúc đề máy tới khi vào số đầu tiên có trong bài [đề xe và vào số 1 cho người mới](/ky-nang/2026/09/29/de-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi/).
 
 ## Chuyển từ tay ga sang xe số: tập lên số trong ngõ vắng
 
@@ -69,7 +69,7 @@ Hà Nội ít dốc, nhưng lối lên cầu, lên đê và hầm gửi xe vẫn
 - **Vặn ga mạnh khi xuất phát.** Số 1 của Wave khỏe hơn bạn nghĩ, ga mạnh dễ khiến xe chồm lên.
 - **Dắt xe khi đang vào số.** Muốn dắt xe vào chỗ gửi, chuyển về N trước, nếu không bánh sau bị ghì lại rất nặng.
 
-Nếu chưa chắc mình nên chọn Wave hay quay về xe ga cho chuyến này, bài [vì sao người mới hay chọn thuê Honda Wave](/xe-may/2026/09/27/thue-honda-wave-cho-nguoi-moi-vi-sao-hay-uoc-chon/) phân tích kỹ ưu nhược điểm.
+Nếu chưa chắc mình nên chọn Wave hay quay về xe ga cho chuyến này, bài [vì sao người mới hay chọn thuê Honda Wave](/xe-may/2026/09/27/thue-honda-wave-cho-nguoi-moi-vi-sao-hay-duoc-chon/) phân tích kỹ ưu nhược điểm.
 
 ## Khi nhận xe Wave thuê, nên hỏi cửa hàng điều gì
 

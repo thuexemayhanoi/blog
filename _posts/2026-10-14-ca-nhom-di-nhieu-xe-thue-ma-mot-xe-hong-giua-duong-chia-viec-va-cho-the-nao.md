@@ -34,7 +34,7 @@ Khi mọi người đã đứng an toàn, hãy chia việc thay vì cả nhóm c
 - **Người lo cho cả nhóm.** Tìm chỗ ngồi có bóng mát hoặc mái che, mua nước, để mắt tới người mệt hay người ít đi xe.
 - **Người xem lại lịch trình.** Mở bản đồ, tính xem điểm đến kế tiếp còn bao xa, giờ nào trời tối, chỗ nào ăn trưa được.
 
-Chia việc như vậy giúp tránh cảnh năm người cùng gọi cho cửa hàng, mỗi người tả một kiểu. Việc kiểm tra xăng, công tắc máy, chân chống nên để chính người lái xe ấy làm. Nếu cần quyết định có nên tự xử lý hay không, bài [xe thuê chết máy giữa đường: tự xử hay gọi chủ xe](/xe-may/2026/09/30/xe-thue-chet-may-giua-uong-tu-xu-hay-goi-chu-xe/) có danh sách việc an toàn để thử.
+Chia việc như vậy giúp tránh cảnh năm người cùng gọi cho cửa hàng, mỗi người tả một kiểu. Việc kiểm tra xăng, công tắc máy, chân chống nên để chính người lái xe ấy làm. Nếu cần quyết định có nên tự xử lý hay không, bài [xe thuê chết máy giữa đường: tự xử hay gọi chủ xe](/xe-may/2026/09/30/xe-thue-chet-may-giua-duong-tu-xu-hay-goi-chu-xe/) có danh sách việc an toàn để thử.
 
 ## Ai ở lại, ai đi tiếp: đừng để một người ở lại một mình
 

@@ -47,7 +47,7 @@ CBS hữu ích nhưng không phải phép màu. Có ba hiểu lầm hay gặp:
 2. **CBS không rút ngắn quãng dừng nếu bạn đi quá nhanh.** Phanh tốt đến đâu cũng cần khoảng cách. Giữ tốc độ vừa phải và khoảng cách với xe trước vẫn là cách an toàn nhất.
 3. **CBS không thay được kỹ năng.** Trên đường ướt, sỏi cát hay vạch sơn, bóp phanh đột ngột vẫn nguy hiểm dù xe có phanh kết hợp.
 
-Ngoài ra, cơ cấu liên kết cũng cần được bảo dưỡng như phanh thường. Má phanh mòn, dây phanh chùng thì CBS cũng kém tác dụng. Cách tự kiểm tra phanh trước khi nhận xe được hướng dẫn trong bài [phanh xe máy: đĩa và bố, kiểm tra thế nào](/xe-may/2026/09/27/phanh-xe-may-ia-va-bo-kiem-tra-the-nao/).
+Ngoài ra, cơ cấu liên kết cũng cần được bảo dưỡng như phanh thường. Má phanh mòn, dây phanh chùng thì CBS cũng kém tác dụng. Cách tự kiểm tra phanh trước khi nhận xe được hướng dẫn trong bài [phanh xe máy: đĩa và bố, kiểm tra thế nào](/xe-may/2026/09/27/phanh-xe-may-dia-va-bo-kiem-tra-the-nao/).
 
 ## Người mới lái ở Hà Nội có nên ưu tiên xe có CBS
 

@@ -44,7 +44,7 @@ Nếu cả bố và mẹ cùng ra, một xe là đủ; hãy hỏi cửa hàng đ
 2. **Nhận xe máy sau khi đã cất đồ.** Lúc tay không mới dễ kiểm tra xe, chỉnh gương, làm quen phanh ga.
 3. **Mỗi chuyến xe máy chỉ chở vừa tầm.** Đồ không che tầm nhìn, không thò quá hai bên xe, người ngồi sau không phải ôm quá một túi.
 
-Những ai muốn nhận xe ngay khi vừa xuống bến có thể đọc bài [chọn xe máy thuê khi vừa xuống ga hay bến xe với vali](/thue-xe/2026/10/14/vua-xuong-ga-hay-ben-xe-voi-vali-chon-xe-may-thue-cho-hanh-ly-the-nao/). Còn giới hạn chở đồ trên xe máy thì nên xem trước bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/), vì mấy ngày nhập học là lúc người ta hay chở quá tay nhất.
+Những ai muốn nhận xe ngay khi vừa xuống bến có thể đọc bài [chọn xe máy thuê khi vừa xuống ga hay bến xe với vali](/thue-xe/2026/10/14/vua-xuong-ga-hay-ben-xe-voi-vali-chon-xe-may-thue-cho-hanh-ly-the-nao/). Còn giới hạn chở đồ trên xe máy thì nên xem trước bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/), vì mấy ngày nhập học là lúc người ta hay chở quá tay nhất.
 
 ## Mua sắm đồ dùng cho con: đi đâu, chở thế nào
 
@@ -69,7 +69,7 @@ Khi đi thử, bố mẹ để ý mấy điểm:
 
 ## Thời gian thuê, nhận xe và trả xe
 
-Với lịch ba đến năm ngày, thuê theo ngày là phổ biến nhất. Bố mẹ nên chốt với cửa hàng ngày giờ nhận, ngày giờ trả dự kiến, và hỏi trước cách tính nếu phải ở thêm một hôm vì thủ tục kéo dài. Giấy tờ cần mang có thể xem trong bài [giấy tờ cần mang khi đi thuê xe máy](/thue-xe/2026/09/27/giay-to-can-mang-khi-i-thue-xe-may/).
+Với lịch ba đến năm ngày, thuê theo ngày là phổ biến nhất. Bố mẹ nên chốt với cửa hàng ngày giờ nhận, ngày giờ trả dự kiến, và hỏi trước cách tính nếu phải ở thêm một hôm vì thủ tục kéo dài. Giấy tờ cần mang có thể xem trong bài [giấy tờ cần mang khi đi thuê xe máy](/thue-xe/2026/09/27/giay-to-can-mang-khi-di-thue-xe-may/).
 
 Ở cửa hàng Nguyễn Tú, khoản đặt cọc được xác nhận trực tiếp khi nhận xe. Nếu muốn nhận xe tại nơi ở, việc giao xe chỉ làm trong giờ mở cửa từ 09:00 đến 21:00, thời gian và chi phí giao nhận cần thống nhất trước khi đặt.
 

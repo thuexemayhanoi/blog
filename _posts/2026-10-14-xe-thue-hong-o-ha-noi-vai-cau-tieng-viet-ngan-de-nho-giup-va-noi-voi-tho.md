@@ -49,7 +49,7 @@ Khi đã tới tiệm hoặc gặp người giúp, câu thứ hai nên nói rõ 
 - **"Xe bị xịt lốp."** Cách đọc: *seh bee sit lop*. Nghĩa: *The tyre is flat.*
 - **"Lốp trước"** (*lop chuh-uk*, lốp phía trước) hoặc **"lốp sau"** (*lop sow*, lốp phía sau).
 
-Nếu lốp xẹp hẳn, hãy dắt xe chứ đừng cố chạy, vì có thể làm hỏng săm và vành. Xem thêm bài [đang đi xe thuê bị xịt lốp làm gì ngay](/xe-may/2026/09/29/ang-i-xe-thue-bi-xit-lop-lam-gi-ngay/).
+Nếu lốp xẹp hẳn, hãy dắt xe chứ đừng cố chạy, vì có thể làm hỏng săm và vành. Xem thêm bài [đang đi xe thuê bị xịt lốp làm gì ngay](/xe-may/2026/09/29/dang-di-xe-thue-bi-xit-lop-lam-gi-ngay/).
 
 ### Hết xăng
 

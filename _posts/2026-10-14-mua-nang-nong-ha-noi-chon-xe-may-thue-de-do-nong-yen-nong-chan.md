@@ -63,7 +63,7 @@ Dù chọn xe nào, yên vẫn là thứ làm bạn khó chịu nhất mỗi l�
 - **Xin bãi gửi có mái che.** Nhiều bãi trong khu chợ, trung tâm thương mại hay tòa nhà ở Cầu Giấy, Đống Đa có tầng hầm hoặc mái tôn.
 - **Trước khi ngồi, chạm thử mặt yên bằng mu bàn tay.** Nóng quá thì dùng nước trong chai vẩy nhẹ rồi lau, yên nguội đi rất nhanh.
 
-Ảnh hưởng của việc phơi xe cả ngày ngoài nắng tới yên, sơn và bình xăng được nói kỹ hơn trong các bài chuyên mục kỹ năng về mùa hè, ví dụ [nắng nóng mùa hè Hà Nội: đi xe máy cần chú ý gì](/ky-nang/2026-09-29/nang-nong-mua-he-ha-noi-i-xe-may-can-chu-y-gi/).
+Ảnh hưởng của việc phơi xe cả ngày ngoài nắng tới yên, sơn và bình xăng được nói kỹ hơn trong các bài chuyên mục kỹ năng về mùa hè, ví dụ [nắng nóng mùa hè Hà Nội: đi xe máy cần chú ý gì](/ky-nang/2026-09-29/nang-nong-mua-he-ha-noi-di-xe-may-can-chu-y-gi/).
 
 ## Thuê xe máy mùa hè: cách đi để bớt nóng chân
 

@@ -62,7 +62,7 @@ Khóa cổ và khóa đĩa luôn dùng cả hai, kể cả khi chỉ dừng năm
 - Nếu đã biết phải nằm viện từ một tuần trở lên, thuê theo tuần sẽ đỡ việc gia hạn từng ngày. Bài [thuê theo tuần khác gì thuê theo ngày](/thue-xe/2026/09/27/thue-theo-tuan-khac-gi-thue-theo-ngay/) giải thích rõ cách tính.
 - Khi chưa chắc ngày ra viện, hãy hỏi trước với cửa hàng cách gia hạn và cách trả xe sớm, để không bị động lúc bác sĩ cho về đột ngột.
 
-Mức giá và tiền đặt cọc nên xác nhận trực tiếp khi liên hệ. Hãy mang đủ giấy tờ tùy thân khi đến nhận xe; danh sách cụ thể có trong bài [chuẩn bị giấy tờ trước khi đến cửa hàng thuê xe](/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-en-cua-hang-thue-xe/).
+Mức giá và tiền đặt cọc nên xác nhận trực tiếp khi liên hệ. Hãy mang đủ giấy tờ tùy thân khi đến nhận xe; danh sách cụ thể có trong bài [chuẩn bị giấy tờ trước khi đến cửa hàng thuê xe](/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-den-cua-hang-thue-xe/).
 
 ## Nhận xe ở đâu khi không thể rời viện lâu
 

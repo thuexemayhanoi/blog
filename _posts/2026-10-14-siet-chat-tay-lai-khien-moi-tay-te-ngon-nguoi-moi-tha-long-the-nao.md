@@ -83,7 +83,7 @@ Ngay cả khi đã cầm đúng, chạy liên tục lâu vẫn có thể mỏi. 
 - Duỗi thẳng cánh tay ra trước, lòng bàn tay hướng ra ngoài, dùng tay kia kéo nhẹ các ngón về phía mình.
 - Lắc nhẹ hai vai, xoay cổ.
 
-Nếu bạn cảm thấy mỏi cả vai và lưng, xem thêm bài [đau lưng khi chạy xe máy đường dài: tư thế và điểm nghỉ](/ky-nang/2026/10/04/au-lung-khi-chay-xe-may-uong-dai-tu-the-va-iem-nghi/).
+Nếu bạn cảm thấy mỏi cả vai và lưng, xem thêm bài [đau lưng khi chạy xe máy đường dài: tư thế và điểm nghỉ](/ky-nang/2026/10/04/dau-lung-khi-chay-xe-may-duong-dai-tu-the-va-diem-nghi/).
 
 ## Khi nào cần xem lại xe hoặc găng tay
 

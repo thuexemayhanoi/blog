@@ -43,7 +43,7 @@ Một số gợi ý để quyết định:
 3. **Làm cho mình dễ thấy.** Bật đèn pin điện thoại, mặc áo khoác sáng màu hoặc áo phản quang nếu có. Xe tải và ô tô đi nhanh trên các trục ngoại thành ít khi ngờ có người đứng bên lề.
 4. **Không đứng chắn giữa xe và lòng đường**, để lỡ có xe khác quệt vào thì không bị kẹp giữa.
 
-Chiếc xe có đèn pha yếu hoặc tắt hẳn cũng là một nguyên nhân hay khiến khách phải dừng giữa đường tối. Cách kiểm tra nhanh có trong bài [đèn pha xe máy không sáng ban đêm](/xe-may/2026/10/04/en-pha-xe-may-khong-sang-ban-em-kiem-tra-nhanh/).
+Chiếc xe có đèn pha yếu hoặc tắt hẳn cũng là một nguyên nhân hay khiến khách phải dừng giữa đường tối. Cách kiểm tra nhanh có trong bài [đèn pha xe máy không sáng ban đêm](/xe-may/2026/10/04/den-pha-xe-may-khong-sang-ban-dem-kiem-tra-nhanh/).
 
 ## Giữ liên lạc và để người khác biết bạn đang ở đâu
 
