@@ -53,7 +53,7 @@ Nếu tiệm đã cho trả xe trước, cách này không còn cần thiết. C
 
 Nếu lỡ mang xe đến quán rồi mới thấy không thể lái về, hãy để xe ở chỗ an toàn, khóa cổ, chụp ảnh vị trí và biển bãi, rồi tìm cách khác về. Đến sáng hôm sau, hãy nhắn tiệm về việc xe còn ở đâu.
 
-Bài [lỡ uống rượu bia buổi tối: để xe lại qua đêm và lấy xe sáng hôm sau](/ky-nang/2026/10/11/lo-uong-ruou-bia-buoi-toi-e-xe-lai-qua-em-va-lay-xe-sang-hom-sau/) nói chi tiết cách xử lý. Nhớ rằng sáng hôm sau, nồng độ cồn có thể vẫn còn; hãy cân nhắc trước khi lái.
+Bài [lỡ uống rượu bia buổi tối: để xe lại qua đêm và lấy xe sáng hôm sau](/ky-nang/2026/10/11/lo-uong-ruou-bia-buoi-toi-de-xe-lai-qua-dem-va-lay-xe-sang-hom-sau/) nói chi tiết cách xử lý. Nhớ rằng sáng hôm sau, nồng độ cồn có thể vẫn còn; hãy cân nhắc trước khi lái.
 
 ## Giữ đồ và giấy tờ khi trả xe sớm: kiểm lại trước khi rời tiệm
 

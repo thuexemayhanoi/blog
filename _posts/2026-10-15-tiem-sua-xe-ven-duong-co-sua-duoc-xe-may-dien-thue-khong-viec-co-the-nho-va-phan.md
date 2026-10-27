@@ -41,7 +41,7 @@ Dù vậy hãy nhắn tiệm cho thuê trước nếu có thể, và hỏi việ
 
 Khi trục trặc liên quan đến pin, bộ sạc, bộ điều khiển, động cơ hay dây điện, bài khuyên không để ai tháo hộp pin hay mở bộ điều khiển khi chưa hỏi tiệm cho thuê. Khuyến cáo phòng cháy nêu pin phù, nứt thì thay mới, không tác động lực mạnh vào pin; đó là việc cần người có chuyên môn.
 
-Bài không biết thợ ven đường có chuyên môn này hay không. Nếu xe có mùi khét, khói hay pin nóng bất thường, hãy dừng dùng, tránh xa và làm theo hướng dẫn của bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ: dừng dùng và làm gì](/xe-may/2026/10/11/pin-xe-ien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/).
+Bài không biết thợ ven đường có chuyên môn này hay không. Nếu xe có mùi khét, khói hay pin nóng bất thường, hãy dừng dùng, tránh xa và làm theo hướng dẫn của bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ: dừng dùng và làm gì](/xe-may/2026/10/11/pin-xe-dien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/).
 
 ## Luật nói gì về xe bảo đảm an toàn: Điều 35 khoản 1 và Điều 9 khoản 8
 

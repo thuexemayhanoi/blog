@@ -82,7 +82,7 @@ Hãy nói đơn giản rằng bạn sẽ báo cửa hàng và sẽ liên lạc l
 
 Kiểm xe theo lời sách Wave Alpha: vặn khóa điện về OFF, kiểm tra rò rỉ dầu hoặc dung dịch, ốc và bu lông quan trọng, tay lái, cần điều khiển, phanh và bánh xe, rồi lái thật chậm vì xe có thể hỏng ở chỗ mắt thường không nhìn thấy.
 
-Sau đó nhắn tiệm: lúc nào, ở đâu, va chạm với một khách nước ngoài thuê xe ở tiệm nào, đã trao đổi liên lạc chưa, có ai bị thương không. Gửi kèm ảnh. Bài [ngã xe nhẹ khi đi chơi ở Hà Nội: việc đầu tiên nên làm và nhờ ai giúp](/thue-xe/2026/10/12/nga-xe-nhe-khi-i-choi-o-ha-noi-viec-au-tien-nen-lam-va-nho-ai-giup/) nói thêm về bước đầu tiên sau một sự cố.
+Sau đó nhắn tiệm: lúc nào, ở đâu, va chạm với một khách nước ngoài thuê xe ở tiệm nào, đã trao đổi liên lạc chưa, có ai bị thương không. Gửi kèm ảnh. Bài [ngã xe nhẹ khi đi chơi ở Hà Nội: việc đầu tiên nên làm và nhờ ai giúp](/thue-xe/2026/10/12/nga-xe-nhe-khi-di-choi-o-ha-noi-viec-dau-tien-nen-lam-va-nho-ai-giup/) nói thêm về bước đầu tiên sau một sự cố.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

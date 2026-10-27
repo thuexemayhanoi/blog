@@ -35,7 +35,7 @@ Bài không biết xe điện bạn thuê có thông số nào, nên không kế
 
 Điều 34 khoản 2 điểm b xếp xe đạp máy, gồm cả xe đạp điện, vào nhóm xe thô sơ: là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h. Vì vậy chiếc xe có tay ga và chạy nhanh hơn không nằm trong nhóm này theo câu chữ.
 
-Bài [xe đạp điện khác gì xe máy điện](/xe-may/2026/09/27/xe-ap-ien-khac-gi-xe-may-ien/) nói về điểm khác giữa hai loại theo góc người thuê. Bài hôm nay chỉ nêu cách luật phân loại.
+Bài [xe đạp điện khác gì xe máy điện](/xe-may/2026/09/27/xe-dap-dien-khac-gi-xe-may-dien/) nói về điểm khác giữa hai loại theo góc người thuê. Bài hôm nay chỉ nêu cách luật phân loại.
 
 ## Tốc độ được phép chạy: Điều 12 và quy định riêng
 

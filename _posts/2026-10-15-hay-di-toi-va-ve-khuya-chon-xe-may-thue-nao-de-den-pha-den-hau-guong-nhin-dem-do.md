@@ -53,7 +53,7 @@ Nếu bạn định đi tối trên những đoạn đường vắng, hãy chọ
 
 Sách hướng dẫn Vario 125 do Honda Việt Nam đăng khuyên mặc quần áo có phản quang khi đi đường, đặc biệt vào ban đêm, để người khác dễ nhìn thấy bạn; đồng thời bật đèn báo rẽ trước khi rẽ hoặc chuyển làn và dùng còi khi cần thiết. Nguồn: [sách hướng dẫn Vario 125 trên trang Honda Việt Nam](https://cdn.honda.com.vn/motorbike-manual/August2026/UKjJ5HtxKSPfwxsvx2lq.pdf). Đây là lời khuyên chung của hãng cho người lái xe máy.
 
-Bạn có thể mang theo áo khoác hoặc dây đeo phản quang gọn nhẹ cho những chuyến đi tối. Hãy đội mũ sáng màu nếu có thể và bật đèn đúng lúc. Bài [đi xe 50cc buổi tối: đèn nhỏ, tốc độ thấp và cách để xe sau nhìn thấy xe bạn](/xe-may/2026/10/11/i-xe-50cc-buoi-toi-en-nho-toc-o-thap-va-cach-e-xe-sau-thay-minh/) nêu thêm cách làm cho xe nổi bật hơn.
+Bạn có thể mang theo áo khoác hoặc dây đeo phản quang gọn nhẹ cho những chuyến đi tối. Hãy đội mũ sáng màu nếu có thể và bật đèn đúng lúc. Bài [đi xe 50cc buổi tối: đèn nhỏ, tốc độ thấp và cách để xe sau nhìn thấy xe bạn](/xe-may/2026/10/11/di-xe-50cc-buoi-toi-den-nho-toc-do-thap-va-cach-de-xe-sau-thay-minh/) nêu thêm cách làm cho xe nổi bật hơn.
 
 ## Nếu đèn yếu hoặc có điều lạ: xin đổi xe trước khi ký nhận
 

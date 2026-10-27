@@ -51,7 +51,7 @@ Sau khi so, hãy chọn chiếc cho bạn cảm giác chắc tay hơn khi ngồi
 
 ## Chụp ảnh chiếc đã chọn và ghi vào biên nhận
 
-Sau khi chọn, hãy chụp ảnh chiếc xe: bốn phía, biển số, đồng hồ, các vết xước, lốp. Ghi biển số vào biên nhận để chắc bạn nhận đúng chiếc đã chọn, không phải chiếc kia. Bài [đọc gì trong biên nhận bàn giao xe máy thuê](/hoi-dap/2026/10/10/oc-gi-trong-bien-nhan-ban-giao-xe-may-thue/) nêu những mục nên có trong biên nhận.
+Sau khi chọn, hãy chụp ảnh chiếc xe: bốn phía, biển số, đồng hồ, các vết xước, lốp. Ghi biển số vào biên nhận để chắc bạn nhận đúng chiếc đã chọn, không phải chiếc kia. Bài [đọc gì trong biên nhận bàn giao xe máy thuê](/hoi-dap/2026/10/10/doc-gi-trong-bien-nhan-ban-giao-xe-may-thue/) nêu những mục nên có trong biên nhận.
 
 Nếu hai xe để cạnh nhau, hãy kiểm tra chìa mở đúng xe bạn chọn. Rồi nhờ nhân viên xác nhận bằng tên hoặc chữ ký rằng xe này là xe giao cho bạn.
 

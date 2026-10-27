@@ -57,7 +57,7 @@ Hãy gọi tiệm nếu còn trong giờ mở cửa 09:00–21:00. Tiệm không
 
 ## Phòng trước chuyến đi tối: thử đèn lúc nhận xe
 
-Cách tốt nhất là thử đèn lúc nhận xe: bật đèn pha, gạt chiếu xa và chiếu gần, bóp phanh xem đèn phanh, bật xi nhan. Hãy làm khi còn trong giờ tiệm mở. Bài [đèn pha xe thuê không sáng khi đi đêm: kiểm tra gì](/xe-may/2026/09/29/en-pha-xe-thue-khong-sang-khi-i-em-kiem-tra-gi/) có thêm các bước kiểm tra.
+Cách tốt nhất là thử đèn lúc nhận xe: bật đèn pha, gạt chiếu xa và chiếu gần, bóp phanh xem đèn phanh, bật xi nhan. Hãy làm khi còn trong giờ tiệm mở. Bài [đèn pha xe thuê không sáng khi đi đêm: kiểm tra gì](/xe-may/2026/09/29/den-pha-xe-thue-khong-sang-khi-di-dem-kiem-tra-gi/) có thêm các bước kiểm tra.
 
 Nếu bạn dự định đi buổi tối ở ven đô như đường đê hay đường Sóc Sơn, hãy thử đèn từ chiều, nhớ mang theo số tiệm và sạc điện thoại đầy pin.
 

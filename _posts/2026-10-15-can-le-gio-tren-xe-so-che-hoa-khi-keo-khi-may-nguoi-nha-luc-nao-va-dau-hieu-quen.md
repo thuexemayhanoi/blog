@@ -53,7 +53,7 @@ Nếu máy bị ngộp xăng, sách dặn vặn khóa điện về OFF, mở tay
 
 Hà Nội có những sáng trời lạnh khiến xe để ngoài bãi khó nổ. Hãy tới xe sớm hơn giờ cần đi một chút, đừng đề máy khi đang vội. Làm theo quy trình, chờ máy chạy đều rồi mới xuất phát và đừng vặn ga mạnh khi máy chưa ấm.
 
-Nếu bạn không chắc xe có cần le gió hay không, hãy hỏi tiệm lúc nhận xe và nhờ chỉ tận nơi. Bài [lọc gió xe máy bẩn: dấu hiệu khi đi xe](/xe-may/2026/10/11/loc-gio-xe-may-ban-dau-hieu-khi-i-xe-va-luc-nao-can-ve-sinh-hay-thay/) nói về một nguyên nhân khác khiến máy yếu và hao xăng, để bạn không nhầm với chuyện le gió.
+Nếu bạn không chắc xe có cần le gió hay không, hãy hỏi tiệm lúc nhận xe và nhờ chỉ tận nơi. Bài [lọc gió xe máy bẩn: dấu hiệu khi đi xe](/xe-may/2026/10/11/loc-gio-xe-may-ban-dau-hieu-khi-di-xe-va-luc-nao-can-ve-sinh-hay-thay/) nói về một nguyên nhân khác khiến máy yếu và hao xăng, để bạn không nhầm với chuyện le gió.
 
 ## Báo tiệm khi máy rồ, khói hoặc khó đề kéo dài
 

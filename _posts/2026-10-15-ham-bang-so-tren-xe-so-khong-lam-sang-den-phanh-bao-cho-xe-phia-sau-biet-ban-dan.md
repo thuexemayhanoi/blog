@@ -57,7 +57,7 @@ Trên những trục lớn như đường vành đai, xe chạy nhanh và khoả
 
 ## Hỏi tiệm khi nhận xe: đèn phanh có sáng và cách giảm tốc của xe này
 
-Khi nhận xe số, hãy nhờ người đứng phía sau xem đèn phanh có sáng khi bóp tay phanh và khi đạp bàn đạp phanh chân không. Bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-en-phanh-xe-may-thue-truoc-khi-nhan-xe/) có các bước kiểm tra.
+Khi nhận xe số, hãy nhờ người đứng phía sau xem đèn phanh có sáng khi bóp tay phanh và khi đạp bàn đạp phanh chân không. Bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-den-phanh-xe-may-thue-truoc-khi-nhan-xe/) có các bước kiểm tra.
 
 Hỏi thêm tiệm xe này giảm tốc tốt nhất bằng cách nào ở dốc và bạn nên về số nào. Bài không biết câu trả lời của tiệm; đó là điều xác nhận trực tiếp.
 

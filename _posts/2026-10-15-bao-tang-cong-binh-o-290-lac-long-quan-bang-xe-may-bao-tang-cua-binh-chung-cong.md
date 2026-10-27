@@ -51,7 +51,7 @@ Lạc Long Quân là trục đường nhiều xe, nhất là giờ tan tầm. B�
 
 ## Ghép với bảo tàng Lịch sử Quân sự hoặc làng Võng Thị trong một buổi
 
-Vì bảo tàng chỉ mở hai khung ngắn, bạn có thể ghép với một điểm gần như bảo tàng Lịch sử Quân sự Việt Nam hoặc dạo làng Võng Thị bên Hồ Tây, miễn là tính giờ cho kỹ. Bài [đến bảo tàng Lịch sử Quân sự Việt Nam bằng xe máy: gửi xe và đường đi](/du-lich/2026/10/01/en-bao-tang-lich-su-quan-su-viet-nam-bang-xe-may-gui-xe-va-uong-i/) nói về bảo tàng còn lại, còn bài [làng Võng Thị bên Hồ Tây: ngõ làng cổ, đình chùa và lối đi xe máy giữa Bưởi và Lạc Long Quân](/du-lich/2026/10/15/lang-vong-thi-ben-ho-tay-ngo-lang-co-dinh-chua-va-loi-di-xe-may-giua-buoi-va-lac/) gợi ý một vòng đi dạo.
+Vì bảo tàng chỉ mở hai khung ngắn, bạn có thể ghép với một điểm gần như bảo tàng Lịch sử Quân sự Việt Nam hoặc dạo làng Võng Thị bên Hồ Tây, miễn là tính giờ cho kỹ. Bài [đến bảo tàng Lịch sử Quân sự Việt Nam bằng xe máy: gửi xe và đường đi](/du-lich/2026/10/01/den-bao-tang-lich-su-quan-su-viet-nam-bang-xe-may-gui-xe-va-duong-di/) nói về bảo tàng còn lại, còn bài [làng Võng Thị bên Hồ Tây: ngõ làng cổ, đình chùa và lối đi xe máy giữa Bưởi và Lạc Long Quân](/du-lich/2026/10/15/lang-vong-thi-ben-ho-tay-ngo-lang-co-dinh-chua-va-loi-di-xe-may-giua-buoi-va-lac/) gợi ý một vòng đi dạo.
 
 Đừng ghép quá nhiều điểm: với giờ đóng cửa sớm, đến muộn một chút có thể không còn đủ thời gian xem.
 

@@ -57,7 +57,7 @@ Hãy hỏi tiệm cho thuê ba điều: tiệm có cho sạc xe bằng máy phá
 
 ## Phương án khác: chỗ có ổ cắm ổn định, đổi pin hoặc đi ngắn hơn
 
-Thay vì dùng nguồn ngoài lưới, bạn có thể tìm chỗ có ổ cắm ổn định và có người trông, như quán cà phê hay nơi lưu trú cho phép sạc; hãy hỏi trước và đừng cắm khi chủ không đồng ý. Bài [sạc xe điện qua đêm khi đi du lịch: nơi nào cho sạc và cách sạc an toàn](/ky-nang/2026/10/11/sac-xe-ien-qua-em-khi-i-du-lich-noi-nao-cho-sac-va-cach-sac-an-toan/) gợi ý cách hỏi.
+Thay vì dùng nguồn ngoài lưới, bạn có thể tìm chỗ có ổ cắm ổn định và có người trông, như quán cà phê hay nơi lưu trú cho phép sạc; hãy hỏi trước và đừng cắm khi chủ không đồng ý. Bài [sạc xe điện qua đêm khi đi du lịch: nơi nào cho sạc và cách sạc an toàn](/ky-nang/2026/10/11/sac-xe-dien-qua-dem-khi-di-du-lich-noi-nao-cho-sac-va-cach-sac-an-toan/) gợi ý cách hỏi.
 
 ## Nhắn tiệm: mẫu tin tham khảo
 

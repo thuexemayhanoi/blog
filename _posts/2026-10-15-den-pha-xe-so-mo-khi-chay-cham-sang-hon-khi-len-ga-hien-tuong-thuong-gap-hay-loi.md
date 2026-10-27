@@ -35,7 +35,7 @@ Sách hướng dẫn của Honda Việt Nam cho mẫu Wave Alpha ghi xe dùng b�
 
 Những dấu hiệu sau cho thấy khả năng bình thường hơn: đèn mờ nhẹ khi cầm chừng, sáng lại khi lên ga, các đèn khác như đèn phanh và xi nhan vẫn rõ, xe đề dễ, đèn không nhấp nháy.
 
-Những dấu hiệu sau nên báo tiệm: đèn rất mờ hoặc nhấp nháy, đèn phanh và xi nhan cũng yếu, xe đề ì hoặc phải đề nhiều lần, đèn tắt hẳn khi chạy chậm. Hãy ghi lại điều bạn thấy khi nhắn tiệm. Bài [đèn pha xe thuê không sáng khi đi đêm: kiểm tra gì](/xe-may/2026/09/29/en-pha-xe-thue-khong-sang-khi-i-em-kiem-tra-gi/) nói thêm các bước kiểm tra khi đèn không sáng.
+Những dấu hiệu sau nên báo tiệm: đèn rất mờ hoặc nhấp nháy, đèn phanh và xi nhan cũng yếu, xe đề ì hoặc phải đề nhiều lần, đèn tắt hẳn khi chạy chậm. Hãy ghi lại điều bạn thấy khi nhắn tiệm. Bài [đèn pha xe thuê không sáng khi đi đêm: kiểm tra gì](/xe-may/2026/09/29/den-pha-xe-thue-khong-sang-khi-di-dem-kiem-tra-gi/) nói thêm các bước kiểm tra khi đèn không sáng.
 
 ## Đi buổi tối trong ngõ khi đèn mờ: giữ tua vừa phải, đi chậm và nhìn xa
 

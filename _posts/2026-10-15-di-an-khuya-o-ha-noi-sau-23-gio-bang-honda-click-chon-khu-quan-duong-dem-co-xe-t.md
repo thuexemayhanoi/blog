@@ -45,7 +45,7 @@ Nếu đi ăn khuya có uống rượu bia, đừng tự lái xe về. Hãy gọ
 
 ## Gửi xe và ra xe ban đêm: chọn bãi có người và nhìn xe trước khi chạy
 
-Hãy chọn bãi gửi có người trông và đèn sáng. Hỏi giờ đóng bãi trước khi vào ăn, để không phải quay lại lấy xe khi bãi đã đóng. Giữ vé cẩn thận và chụp ảnh xe lúc gửi. Bài [chụp ảnh xe trước và sau khi gửi: những góc nên lưu trên điện thoại](/ky-nang/2026/10/11/chup-anh-xe-truoc-va-sau-khi-gui-nhung-goc-nen-luu-lai-tren-ien-thoai/) nói những góc nên chụp.
+Hãy chọn bãi gửi có người trông và đèn sáng. Hỏi giờ đóng bãi trước khi vào ăn, để không phải quay lại lấy xe khi bãi đã đóng. Giữ vé cẩn thận và chụp ảnh xe lúc gửi. Bài [chụp ảnh xe trước và sau khi gửi: những góc nên lưu trên điện thoại](/ky-nang/2026/10/11/chup-anh-xe-truoc-va-sau-khi-gui-nhung-goc-nen-luu-lai-tren-dien-thoai/) nói những góc nên chụp.
 
 Khi lấy xe, nhìn một lượt gương, ốp nhựa, tay lái và đèn trước khi chạy, vì bãi đông có thể bị xếp dồn. Sách hướng dẫn Click160 của Honda dặn kiểm tra xe trước mỗi chuyến đi; hãy làm lại ngay khi lấy xe.
 

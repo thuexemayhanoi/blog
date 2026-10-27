@@ -57,7 +57,7 @@ Một nguồn mô tả chùa kín đáo sau hàng cây, và trước chùa từn
 
 ## Ghép với khu Ba Đình trong một buổi
 
-Vì chùa nằm ở khu Ba Đình, bạn có thể ghép chuyến đi với vài điểm lân cận như khu Lăng Bác, Chùa Một Cột hay Văn Miếu. Bài [nửa ngày quanh Ba Đình và Văn Miếu bằng xe máy: thứ tự tham quan hợp lý](/thue-xe/2026/10/12/nua-ngay-quanh-ba-inh-va-van-mieu-bang-xe-may-thu-tu-tham-quan-hop-ly/) và bài [buổi sáng quanh Ba Đình bằng xe đạp điện: Lăng Bác, Chùa Một Cột, Hoàng thành](/xe-may/2026/10/11/buoi-sang-quanh-ba-inh-bang-xe-ap-ien-lang-bac-chua-mot-cot-hoang-thanh/) gợi ý thứ tự đi.
+Vì chùa nằm ở khu Ba Đình, bạn có thể ghép chuyến đi với vài điểm lân cận như khu Lăng Bác, Chùa Một Cột hay Văn Miếu. Bài [nửa ngày quanh Ba Đình và Văn Miếu bằng xe máy: thứ tự tham quan hợp lý](/thue-xe/2026/10/12/nua-ngay-quanh-ba-dinh-va-van-mieu-bang-xe-may-thu-tu-tham-quan-hop-ly/) và bài [buổi sáng quanh Ba Đình bằng xe đạp điện: Lăng Bác, Chùa Một Cột, Hoàng thành](/xe-may/2026/10/11/buoi-sang-quanh-ba-dinh-bang-xe-dap-dien-lang-bac-chua-mot-cot-hoang-thanh/) gợi ý thứ tự đi.
 
 Nếu thuê xe ở Bồ Đề, hãy tính thời gian đi qua cầu rồi vào khu Ba Đình. Tiệm đóng cửa lúc 21:00, nên giờ trả xe không phải trở ngại với chuyến đi trong ngày, nhưng hãy chừa thời gian nếu bạn ghép thêm điểm khác trên đường về.
 

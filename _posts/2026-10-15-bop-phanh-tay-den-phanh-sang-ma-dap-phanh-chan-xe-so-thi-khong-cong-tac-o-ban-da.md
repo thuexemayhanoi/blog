@@ -29,7 +29,7 @@ Sách hướng dẫn của Honda Việt Nam cho mẫu Wave Alpha liệt kê côn
 
 Khi nhận xe, nhiều người thử phanh bằng cách bóp tay phanh vì dễ làm, rồi thấy đèn sáng là xong. Trên xe số, phanh sau là phanh chân, mà để thử bàn đạp cần đứng ở sau xe hoặc nhờ người khác nhìn. Chính vì khó tự nhìn nên bước này hay bị bỏ qua.
 
-Đây là chỗ nên nhắc kỹ với người nhận xe buổi tối: trời tối, đèn hậu đỏ là thứ duy nhất báo cho xe phía sau. Bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-en-phanh-xe-may-thue-truoc-khi-nhan-xe/) có các bước thử khi nhận xe.
+Đây là chỗ nên nhắc kỹ với người nhận xe buổi tối: trời tối, đèn hậu đỏ là thứ duy nhất báo cho xe phía sau. Bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-den-phanh-xe-may-thue-truoc-khi-nhan-xe/) có các bước thử khi nhận xe.
 
 ## Nhờ người đứng sau kiểm tra: ba bước
 
