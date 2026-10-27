@@ -16,7 +16,16 @@ manifest, không có cờ ép):
   1. Hàng matrix PUBLISHED, `output_path` nằm trong `_posts/`, evidence NGUYÊN VẸN:
      `content_sha256` == sha256(byte bài hiện tại), `matrix_row_sha256` == vân tay hàng
      hiện tại, `article_id`/`source_path` đúng, result PASS. Evidence đã lệch hash (vd.
-     migrate domain) bị TỪ CHỐI (EVIDENCE_NOT_INTACT): đi qua `reattest-legacy-qa.py` trước.
+     migrate domain) bị TỪ CHỐI (EVIDENCE_NOT_INTACT): đi qua `reattest-legacy-qa.py` trước —
+     TRỪ khi gọi tường minh `--domain-drift` (plan VÀ apply): khi đó evidence lệch hash chỉ được
+     nhận nếu tool tự chứng minh DOMAIN_ONLY_PROVEN đúng phép kiểm của `reattest-legacy-qa.py`
+     (baseline ghim bất biến, tiền bối của HEAD; hash trong evidence buộc đúng byte bài + hàng
+     matrix của baseline; exact-transform v3 của baseline == byte/trường hiện tại; evidence chưa
+     đổi từ baseline). Đây là ca bài lệch hash do đổi domain mà nội dung còn sai (vd. giá cũ):
+     reattest từ chối vì chấm lại rớt, revise thường từ chối vì evidence lệch — đường này sửa + chấm
+     lại ĐỘC LẬP trong CÙNG một giao dịch (điều kiện 2–5 giữ nguyên), evidence mới ghi
+     `revision.base = DOMAIN_ONLY_PROVEN` + bằng chứng (`domain_only_proof`); `verify` chứng minh
+     lại từ lịch sử git, không tin sao lưu. Ca không chứng minh được (NOT_DOMAIN_ONLY) giữ nguyên.
   2. ID không nằm trong bất kỳ lease writer nào và không có draft cùng slug.
   3. Chỉ đổi được THÂN BÀI và dòng `description:`: mọi dòng front matter khác (title,
      date, permalink, article_id, parent_id, child_id, tags...) phải giữ nguyên từng byte;
@@ -48,9 +57,10 @@ khi cây làm việc khác HEAD (DIRTY_TREE; `plan --allow-dirty` chỉ để xe
 `head_bound: false` và bị `apply` từ chối). Mỗi lô = một commit rồi mới đến lô sau.
 
 Lệnh:
-  plan     --patches FILE [--out FILE] [--allow-dirty]   chấm điểm đề xuất (không ghi gì)
+  plan     --patches FILE [--out FILE] [--allow-dirty] [--domain-drift]   chấm điểm đề xuất (không ghi gì)
   apply    --manifest FILE --approval-ref TEXT (--ids A,B | --limit N [--offset K])
-           [--batch-id ID] [--dry-run] [--skip-ineligible]   kiểm lại TẤT CẢ rồi ghi (lô <= 50)
+           [--batch-id ID] [--dry-run] [--skip-ineligible] [--domain-drift]
+                                                          kiểm lại TẤT CẢ rồi ghi (lô <= 50)
   verify   --backup FILE [--no-rescore]                  kiểm bài + evidence đã ghi + provenance
   rollback --backup FILE [--ids A,B] [--dry-run]         khôi phục byte-exact bài + evidence cũ
                                                           (chỉ khi file còn đúng bản đã ghi)
@@ -107,8 +117,11 @@ FRESH_FIELDS = ('result', 'quality', 'seo', 'business_fact', 'legal', 'critical_
 # khong dat...). Voi --skip-ineligible chung chi lam ID do bi BO QUA (bao cao ro); cac loi chon sai
 # (NOT_ELIGIBLE, thieu evidence) luon dung ca lo.
 SKIPPABLE = ('NOT_PUBLISHED', 'POST_CHANGED_SINCE_PLAN', 'EVIDENCE_CHANGED_SINCE_PLAN',
-             'INPUT_CHANGED_SINCE_PLAN', 'EVIDENCE_NOT_INTACT', 'LEASED', 'HAS_DRAFT',
+             'INPUT_CHANGED_SINCE_PLAN', 'EVIDENCE_NOT_INTACT', 'NOT_DOMAIN_ONLY', 'LEASED', 'HAS_DRAFT',
              'EDIT_MISMATCH', 'FRESH_QA_NOT_ELIGIBLE', 'REGRESSION', 'UNEXPECTED_CURRENT_EVIDENCE')
+# Nền của bài trước khi sửa: evidence nguyên vẹn, hoặc (chỉ với --domain-drift) lệch hash đã chứng minh
+# chỉ do đổi domain v3 (cùng phép kiểm với reattest-legacy-qa.py).
+BASE_INTACT, BASE_DOMAIN = 'INTACT', 'DOMAIN_ONLY_PROVEN'
 
 
 class Refuse(Exception):
@@ -190,8 +203,14 @@ class Ctx:
     """Mọi đầu vào của một lần chạy (tiêm được cho test)."""
 
     def __init__(self, root, op, biz, tax, approval_ref='', batch_id=None, head=None,
-                 tool_commit=None, purpose='', reason=''):
+                 tool_commit=None, purpose='', reason='', domain_drift=False, history=None,
+                 baseline=None):
         self.root = pathlib.Path(root)
+        # --domain-drift: nhận evidence lệch hash do đổi domain (chứng minh lại từ baseline ghim).
+        # history/baseline: blob của commit baseline (nạp lười từ git; test tiêm dict).
+        self.domain_drift = bool(domain_drift)
+        self.history, self.baseline = history, baseline
+        self._old_rows = None
         self.op, self.biz, self.tax = op, biz, tax
         self.approval_ref, self.batch_id = approval_ref, batch_id
         self.head, self.tool_commit = head, tool_commit
@@ -206,7 +225,8 @@ class Ctx:
         }
 
 
-def make_ctx(root, approval_ref='', batch_id=None, purpose='', reason=''):
+def make_ctx(root, approval_ref='', batch_id=None, purpose='', reason='', domain_drift=False,
+             history=None):
     root = pathlib.Path(root)
     os.chdir(root)               # scorer đọc đường dẫn tương đối từ gốc repo
     op = _load('operator_for_revise', str(root / 'scripts/factory/factory-operator.py'))
@@ -220,7 +240,49 @@ def make_ctx(root, approval_ref='', batch_id=None, purpose='', reason=''):
     op.build_amount_whitelist(biz)     # qa_check_one doc APPROVED_AMOUNTS (module-global)
     head = git_out(root, 'rev-parse', 'HEAD')
     return Ctx(root, op, biz, tax, approval_ref, batch_id, head=head, tool_commit=head,
-               purpose=purpose, reason=reason)
+               purpose=purpose, reason=reason, domain_drift=domain_drift, history=history,
+               baseline='fixture-baseline' if history is not None else None)
+
+
+def baseline_view(ctx):
+    """(history, baseline_commit, old_rows) của baseline ghim của reattest-legacy-qa.py (migration v3).
+    Nạp lười từ git: baseline phải là đúng commit ghim và là tiền bối của HEAD (không tin repo/manifest)."""
+    if ctx.history is None:
+        pinned = _load('reattest_for_revise', 'reattest-legacy-qa.py').PINNED_BASELINE
+        commit = git_out(ctx.root, 'rev-parse', '--verify', pinned + '^{commit}')
+        if commit != pinned:
+            raise Refuse('BASELINE_MISSING', 'khong doc duoc baseline ghim %s (can lich su git day du)' % pinned)
+        if subprocess.run(['git', 'merge-base', '--is-ancestor', commit, 'HEAD'],
+                          cwd=str(ctx.root), capture_output=True).returncode != 0:
+            raise Refuse('BASELINE_NOT_ANCESTOR', 'baseline %s khong phai tien boi cua HEAD' % commit)
+        ctx.history, ctx.baseline = A.historical_blobs(commit), commit
+    if ctx._old_rows is None:
+        raw = ctx.history.get('data/content-matrix.csv') or b''
+        ctx._old_rows = {r['id']: r for r in csv.DictReader(io.StringIO(raw.decode('utf-8')))}
+    return ctx.history, ctx.baseline, ctx._old_rows
+
+
+def domain_drift_proof(ctx, row, current, evidence):
+    """Chứng minh evidence lệch hash CHỈ vì đổi domain v3 — đúng phép `audit-legacy-qa.classify` mà
+    reattest-legacy-qa.py dùng: hash ghi trong evidence buộc byte bài + hàng matrix của baseline, evidence
+    chưa đổi từ baseline, exact-transform v3 của baseline == `current` và hàng hiện tại. Trả bằng chứng
+    (dict) hoặc Refuse NOT_DOMAIN_ONLY."""
+    history, baseline, old_rows = baseline_view(ctx)
+    aid = row['id']
+    qa_path = 'data/qa/%s.json' % aid
+    old_row = old_rows.get(aid)
+    old_bytes = history.get(old_row['output_path']) if old_row else None
+    old_ev = json.loads(history[qa_path]) if qa_path in history else None
+    cl = A.classify(row, current, evidence, old_row, old_bytes, old_ev)
+    if cl['classification'] != BASE_DOMAIN:
+        raise Refuse('NOT_DOMAIN_ONLY',
+                     '%s: evidence lech hash nhung khong chung minh duoc chi do doi domain (%s) — giu nguyen'
+                     % (aid, cl['classification']), classification=cl['classification'])
+    return {'classification': BASE_DOMAIN, 'baseline_commit': baseline,
+            'baseline_content_sha256': cl['baseline_content_sha256'],
+            'baseline_matrix_sha256': cl['baseline_matrix_sha256'],
+            'pre_edit_content_sha256': cl['current_content_sha256'],
+            'pre_edit_matrix_row_sha256': cl['current_matrix_sha256']}
 
 
 # ------------------------------------------------------------------ sửa văn bản
@@ -389,7 +451,7 @@ def draft_exists(root, row):
 class Derived:
     """Kết quả đánh giá đầy đủ một ID (thuần đọc)."""
     __slots__ = ('aid', 'row', 'path', 'old_post', 'new_post', 'old_ev_bytes', 'old_ev',
-                 'before', 'after', 'edits', 'edits_sha256', 'changed')
+                 'before', 'after', 'edits', 'edits_sha256', 'changed', 'base', 'proof')
 
 
 def derive(ctx, aid, edits):
@@ -414,13 +476,18 @@ def derive(ctx, aid, edits):
     if not post_path.is_file():
         raise Refuse('NO_POST', '%s: khong co file bai %s' % (aid, path))
     old_post = post_path.read_bytes()
-    if not (sha(old_post) == old_ev.get('content_sha256')
-            and A.fingerprint(row) == old_ev.get('matrix_row_sha256')
-            and old_ev.get('article_id') == aid and old_ev.get('source_path') == path
-            and old_ev.get('result') == 'PASS'):
+    hashes_match = (sha(old_post) == old_ev.get('content_sha256')
+                    and A.fingerprint(row) == old_ev.get('matrix_row_sha256'))
+    if not (old_ev.get('article_id') == aid and old_ev.get('source_path') == path
+            and old_ev.get('result') == 'PASS') or (not hashes_match and not ctx.domain_drift):
         raise Refuse('EVIDENCE_NOT_INTACT',
                      '%s: evidence khong khop byte bai/hang matrix hien tai (hash lech, source_path, '
-                     'result) — xu ly bang reattest-legacy-qa.py truoc, khong sua noi dung' % aid)
+                     'result) — xu ly bang reattest-legacy-qa.py truoc (lech do doi domain: --domain-drift), '
+                     'khong sua noi dung' % aid)
+    base, proof = BASE_INTACT, None
+    if not hashes_match:
+        proof = domain_drift_proof(ctx, row, old_post, old_ev)
+        base = BASE_DOMAIN
     try:
         old_text = old_post.decode('utf-8')
     except UnicodeDecodeError:
@@ -450,6 +517,7 @@ def derive(ctx, aid, edits):
     d.old_post, d.new_post, d.old_ev_bytes, d.old_ev = old_post, new_post, old_ev_bytes, old_ev
     d.before, d.after = before, after
     d.edits, d.edits_sha256, d.changed = edits, edits_digest(edits), changed
+    d.base, d.proof = base, proof
     return d
 
 
@@ -484,6 +552,7 @@ def build_new_evidence(ctx, d, old_evidence_sha256):
         'edits_sha256': d.edits_sha256,
         'chars_changed': d.changed,
         'previous_scores': {k: d.old_ev.get(k) for k in ('quality', 'seo', 'grade')},
+        'base': d.base,
         'scorer': new.get('scorer'),
         'thresholds': {'quality_min': ctx.op.QUALITY_MIN, 'seo_min': ctx.op.SEO_MIN},
         'tool': 'scripts/factory/revise-published.py',
@@ -494,6 +563,9 @@ def build_new_evidence(ctx, d, old_evidence_sha256):
                  'hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem '
                  'doc lap luc revised_at'),
     }
+    if d.proof:
+        # evidence cu lech hash do doi domain: bang chung DOMAIN_ONLY_PROVEN (verify chung minh lai tu git)
+        new['revision']['domain_only_proof'] = d.proof
     if history:
         new['revision']['history'] = history
     return new
@@ -538,7 +610,10 @@ def make_plan(ctx, patches, head_bound=True):
             'before': summary(d.before), 'after': summary(d.after),
             'before_scores': {'quality': d.before.get('quality'), 'seo': d.before.get('seo')},
             'edits': d.edits,
+            'base': d.base,
         }
+        if d.proof:
+            entries[aid]['domain_only_proof'] = d.proof
     eligible = sorted(i for i, e in entries.items() if e['decision'] == ELIGIBLE)
     return {
         'schema': MANIFEST_SCHEMA,
@@ -547,6 +622,7 @@ def make_plan(ctx, patches, head_bound=True):
         'head': ctx.head,
         # True chi khi cay lam viec == HEAD luc plan (plan --allow-dirty => False; apply tu choi)
         'head_bound': bool(head_bound),
+        'domain_drift': ctx.domain_drift,
         'matrix_sha256': sha((ctx.root / 'data/content-matrix.csv').read_bytes()),
         'thresholds': {'quality_min': ctx.op.QUALITY_MIN, 'seo_min': ctx.op.SEO_MIN},
         **ctx.code_sha,
@@ -583,6 +659,10 @@ def check_manifest_current(ctx, manifest):
                          '%s khac manifest (scorer/facts/taxonomy da doi) — chay lai plan' % k)
     if manifest.get('thresholds') != {'quality_min': ctx.op.QUALITY_MIN, 'seo_min': ctx.op.SEO_MIN}:
         raise Refuse('SCORER_CHANGED_SINCE_PLAN', 'nguong QA khac manifest — chay lai plan')
+    if bool(manifest.get('domain_drift')) != ctx.domain_drift:
+        raise Refuse('DOMAIN_DRIFT_MISMATCH', 'manifest lap %s --domain-drift ma apply %s — goi cung che do'
+                     % ('CO' if manifest.get('domain_drift') else 'KHONG',
+                        'CO' if ctx.domain_drift else 'KHONG'))
 
 
 def require_clean_tree(root=ROOT):
@@ -640,8 +720,9 @@ def prepare(ctx, manifest, aid):
         raise Refuse('EVIDENCE_CHANGED_SINCE_PLAN', '%s: evidence da doi tu luc plan' % aid)
     d = derive(ctx, aid, e['edits'])
     if sha(d.old_post) != e['base_post_sha256'] or sha(d.new_post) != e['new_post_sha256'] \
-            or sha(d.old_ev_bytes) != e['old_evidence_sha256']:
-        raise Refuse('INPUT_CHANGED_SINCE_PLAN', '%s: byte ung vien/evidence khac manifest' % aid)
+            or sha(d.old_ev_bytes) != e['old_evidence_sha256'] \
+            or e.get('base', BASE_INTACT) != d.base or e.get('domain_only_proof') != d.proof:
+        raise Refuse('INPUT_CHANGED_SINCE_PLAN', '%s: byte ung vien/evidence/nen chung minh khac manifest' % aid)
     return 'ready', d, build_new_evidence(ctx, d, e['old_evidence_sha256'])
 
 
@@ -826,6 +907,21 @@ def verify_backup(ctx, backup, rescore=True):
         rev = ev.get('revision') or {}
         old_ev_sha = sha(b['old_evidence_text'].encode('utf-8'))
         old_ev = json.loads(b['old_evidence_text'])
+        old_post = old_text.encode('utf-8')
+        if rev.get('base', BASE_INTACT) == BASE_DOMAIN:
+            # nen lech hash: chung minh LAI tu lich su git (baseline ghim), khong tin bang chung trong sao luu
+            try:
+                proof = domain_drift_proof(ctx, row, old_post, old_ev)
+            except Refuse as e:
+                problems.append('%s: nen DOMAIN_ONLY_PROVEN khong chung minh lai duoc (%s)' % (aid, e.msg))
+            else:
+                if rev.get('domain_only_proof') != proof:
+                    problems.append('%s: domain_only_proof trong evidence khac chung minh lai tu git' % aid)
+        elif rev.get('base', BASE_INTACT) != BASE_INTACT:
+            problems.append('%s: revision.base la %r' % (aid, rev.get('base')))
+        elif (sha(old_post) != old_ev.get('content_sha256')
+              or old_ev.get('matrix_row_sha256') != A.fingerprint(row)):
+            problems.append('%s: bai cu/hang matrix khong khop evidence cu (nen INTACT)' % aid)
         if (b['old_evidence_sha256'] != old_ev_sha
                 or rev.get('previous_evidence_sha256') != old_ev_sha
                 or rev.get('previous_content_sha256') != old_ev.get('content_sha256')
@@ -904,6 +1000,8 @@ def main(argv=None):
     p.add_argument('--out')
     p.add_argument('--allow-dirty', action='store_true',
                    help='plan tren cay khac HEAD (manifest ghi head_bound: false, apply se tu choi)')
+    p.add_argument('--domain-drift', action='store_true',
+                   help='nhan evidence lech hash CHI KHI chung minh duoc DOMAIN_ONLY_PROVEN (baseline ghim)')
     a_ = sub.add_parser('apply')
     a_.add_argument('--manifest', required=True)
     a_.add_argument('--approval-ref', default='')
@@ -914,6 +1012,8 @@ def main(argv=None):
     a_.add_argument('--dry-run', action='store_true')
     a_.add_argument('--skip-ineligible', action='store_true',
                     help='ID khong con du dieu kien luc apply bi BO QUA (bao cao) thay vi dung ca lo')
+    a_.add_argument('--domain-drift', action='store_true',
+                    help='bat buoc khi manifest lap bang plan --domain-drift')
     v = sub.add_parser('verify')
     v.add_argument('--backup', required=True)
     v.add_argument('--no-rescore', action='store_true',
@@ -931,7 +1031,7 @@ def main(argv=None):
             if dirty and not a.allow_dirty:
                 require_clean_tree(ROOT)
             patches = json.loads(pathlib.Path(patches_path).read_text(encoding='utf-8'))
-            ctx = make_ctx(ROOT)
+            ctx = make_ctx(ROOT, domain_drift=a.domain_drift)
             manifest = make_plan(ctx, patches, head_bound=not dirty)
             text = doc_text(manifest)
             if out_path:
@@ -952,7 +1052,7 @@ def main(argv=None):
                 if a.limit <= 0:
                     raise Refuse('NO_IDS', 'can --ids hoac --limit N [--offset K]')
                 ids = elig[a.offset:a.offset + a.limit]
-            ctx = make_ctx(ROOT, a.approval_ref, a.batch_id)
+            ctx = make_ctx(ROOT, a.approval_ref, a.batch_id, domain_drift=a.domain_drift)
             ctx.guard = lambda: require_clean_tree(ROOT)
             print(json.dumps(apply_batch(ctx, manifest, ids, a.dry_run, a.skip_ineligible),
                              ensure_ascii=False, indent=2))

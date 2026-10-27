@@ -16,7 +16,8 @@ Bài **legacy** (không có `data/qa/<ID>.json`: 473 EXISTING + 10 REVIEW) khôn
 
 1. Hàng matrix `PUBLISHED`, `output_path` trong `_posts/`, **evidence nguyên vẹn**: hash khớp byte bài và hàng matrix hiện tại,
    `source_path` đúng, `result = PASS`. Evidence đã lệch (vd. đổi domain) → `EVIDENCE_NOT_INTACT`: đi qua `reattest-legacy-qa.py`
-   (cần chủ duyệt) rồi mới sửa nội dung.
+   (cần chủ duyệt) rồi mới sửa nội dung — hoặc, khi reattest từ chối vì nội dung còn sai (chấm lại rớt), dùng `--domain-drift`
+   (mục dưới).
 2. ID không nằm trong lease writer nào (kể cả hết hạn) và không có draft cùng slug / `article_id`.
 3. Chỉ đổi **thân bài** và dòng `description:`. Mọi dòng front matter khác (title, date, permalink, article_id, parent_id,
    child_id, tags…) giữ nguyên từng byte; tập liên kết/Liquid/URL trong thân và số heading theo cấp giữ nguyên; tối đa 60 sửa/bài;
@@ -44,6 +45,22 @@ git add _posts data/qa reports/qa-audit/revise && git commit && git push   # PR;
 nhau. Manifest không có hiệu lực pháp lý: `apply` tự kiểm lại từ byte hiện tại và từ chối khi manifest bị sửa/lỗi thời
 (`BAD_MANIFEST`, `INPUT_CHANGED_SINCE_PLAN`, `SCORER_CHANGED_SINCE_PLAN`…). Một ID không đạt → cả lô dừng, chưa ghi gì;
 `--skip-ineligible` chỉ bỏ qua ID đổi trạng thái sau plan (có báo cáo).
+
+## Bài lệch hash do đổi domain mà nội dung còn sai (`--domain-drift`)
+
+Ca: evidence lệch hash CHỈ vì migration v3 (đổi domain + bỏ `/blog/`) nhưng thân bài còn số liệu cũ (vd. giá tuần/tháng trước bảng
+giá hiện hành). `reattest-legacy-qa.py` từ chối (`FRESH_QA_FAILED`: chấm lại rớt `business_amounts`), revise thường từ chối
+(`EVIDENCE_NOT_INTACT`). Với cờ `--domain-drift` ở **cả** `plan` và `apply` (manifest ghi `domain_drift: true`, lệch chế độ →
+`DOMAIN_DRIFT_MISMATCH`), điều kiện 1 được thay bằng:
+
+- evidence lệch hash phải được tool **tự chứng minh** `DOMAIN_ONLY_PROVEN` đúng phép kiểm của `reattest-legacy-qa.py`
+  (`audit-legacy-qa.classify`): baseline ghim `1b55bd81` là tiền bối của HEAD; hash trong evidence buộc đúng byte bài + hàng matrix
+  của baseline; evidence chưa đổi từ baseline; exact-transform v3 của baseline == byte bài/hàng matrix hiện tại. Không chứng minh được
+  → `NOT_DOMAIN_ONLY`, giữ nguyên. `article_id`, `source_path`, `result = PASS` của evidence cũ vẫn bắt buộc.
+- Điều kiện 2–5 giữ nguyên (sửa nhẹ, chấm lại độc lập ≥ 75/70 và mọi cổng, không tiêu chí nào tụt, chủ duyệt, lô ≤ 50).
+- Evidence mới ghi `revision.base = "DOMAIN_ONLY_PROVEN"` + `revision.domain_only_proof` (baseline, hash baseline, hash bài/hàng
+  trước sửa). `verify` **chứng minh lại từ lịch sử git** (không tin sao lưu); bài nền `INTACT` thì verify kiểm bài cũ khớp evidence cũ.
+- Như `reattest apply`, chỉ chạy khi chủ website đã duyệt (writer/Routine không tự `apply`).
 
 ## Kết quả ghi
 

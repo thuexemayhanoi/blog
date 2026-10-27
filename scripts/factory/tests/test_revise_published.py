@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 """Test revise-published.py trên bản sao hermetic của repo (FxTestCase).
 
-Phủ: chỉ sửa nhẹ thân bài/description của bài PUBLISHED có evidence NGUYÊN VẸN mới ghi; mọi ca
+Phủ: chỉ sửa nhẹ thân bài/description của bài PUBLISHED có evidence NGUYÊN VẸN mới ghi (hoặc, với
+--domain-drift, evidence lệch hash ĐÃ CHỨNG MINH chỉ do đổi domain v3 — TestDomainDrift); mọi ca
 khác bị TỪ CHỐI (không có cờ ép): evidence lệch hash, lease, draft, front matter/liên kết/heading
 đổi, sửa quá lớn, số tiền ngoài danh sách duyệt, tiêu chí QA tụt; manifest giả/lỗi thời không ép
 được; lô nguyên tử; sao lưu + provenance + chuỗi lịch sử; chạy lặp no-op; rollback byte-exact và
@@ -10,8 +11,10 @@ không đè thay đổi của người khác; apply lỗi giữa chừng tự tr
 mốc lịch sử và chú thích lịch sử của evidence được giữ nguyên.
 """
 import copy
+import csv
 import hashlib
 import importlib.util
+import io
 import json
 import os
 import pathlib
@@ -171,9 +174,12 @@ class ReviseBase(FxTestCase):
         # Các lô sao lưu thật nằm trong repo mà fixture sao chép: test chỉ khẳng định lô của chính nó.
         shutil.rmtree(self.root / R.BACKUP_DIR, ignore_errors=True)
         self.focus = set()
+        self.history = None          # blob baseline tổng hợp (TestDomainDrift); None = không dùng --domain-drift
 
     def ctx(self, approval='owner authorization (test)', batch=None):
-        c = R.make_ctx(self.root, approval, batch, PURPOSE, REASON)
+        drift = self.history is not None
+        c = R.make_ctx(self.root, approval, batch, PURPOSE, REASON, domain_drift=drift,
+                       history=dict(self.history) if drift else None)
         keep = self.focus
         # chấm điểm quét toàn bộ ~6.000 hàng cho mỗi lần gọi: thu gọn corpus cho test (cùng ctx cho mọi lệnh gọi)
         c.rows = [r for r in c.rows[:250]] + [r for r in c.rows[250:] if r['id'] in keep]
@@ -690,6 +696,136 @@ class TestVerifyRollback(ReviseBase):
         with self.assertRaises(R.Refuse) as ex:
             R.make_ctx(self.root, 'x', None, PURPOSE, REASON)
         self.assertEqual(ex.exception.code, 'THRESHOLD_BELOW_FLOOR')
+
+
+
+class TestDomainDrift(ReviseBase):
+    """--domain-drift: evidence lệch hash do đổi domain v3 (chứng minh DOMAIN_ONLY_PROVEN như reattest-legacy-qa.py)
+    được sửa + chấm lại độc lập trong một giao dịch; lệch hash KHÔNG chứng minh được thì vẫn từ chối."""
+
+    def setUp(self):
+        super().setUp()
+        self.history = {}
+
+    def make_stale(self, aid, *, unbound=False, edit_after_migration=None):
+        """Biến evidence của `aid` thành evidence CŨ (hash của baseline chưa migrate: liên kết /blog/, URL /blog...)
+        và nạp baseline vào self.history — đúng hình dạng ca thật của reattest-legacy-qa.py."""
+        rows = matrix_rows(self.fx)
+        row = next(r for r in rows if r['id'] == aid)
+        post = self.root / row['output_path']
+        current = post.read_bytes()
+        old = current.replace(b'](/', b'](/blog/')
+        if A.migrated(old) != current:
+            self.skipTest('bai %s khong dung duoc de dung baseline tong hop' % aid)
+        if edit_after_migration:
+            post.write_bytes(current + edit_after_migration)
+        old_row = dict(row)
+        for key in ('expected_url', 'canonical_url'):
+            old_row[key] = '/blog' + row[key]
+        ev_path = self.evidence_path(aid)
+        ev = json.loads(ev_path.read_text(encoding='utf-8'))
+        old_ev = dict(ev, content_sha256='0' * 64 if unbound else sha(old),
+                      matrix_row_sha256=A.fingerprint(old_row))
+        raw = json.dumps(old_ev, ensure_ascii=False, indent=2).encode('utf-8')
+        ev_path.write_bytes(raw)
+        self.history[row['output_path']] = old
+        self.history['data/qa/%s.json' % aid] = raw
+        prev = self.history.get('data/content-matrix.csv')
+        old_rows = list(csv.DictReader(io.StringIO(prev.decode()))) if prev else []
+        buf = io.StringIO()
+        w = csv.DictWriter(buf, fieldnames=list(row.keys()), lineterminator='\n')
+        w.writeheader()
+        for r in old_rows + [old_row]:
+            w.writerow(r)
+        self.history['data/content-matrix.csv'] = buf.getvalue().encode()
+        return old_ev
+
+    def drift_ids(self, n):
+        """n bài PASS có sửa vô hại mà evidence đã được biến thành lệch hash domain-only."""
+        hist, self.history = self.history, None        # chọn bài trên evidence nguyên vẹn
+        try:
+            ids = self.good_ids(n)
+        finally:
+            self.history = hist
+        for a in ids:
+            self.make_stale(a)
+        return ids
+
+    def test_01_without_flag_drifted_evidence_is_refused(self):
+        a, = self.drift_ids(1)
+        edits = safe_edit(self.post_text(a))
+        hist, self.history = self.history, None
+        try:
+            with self.assertRaises(R.Refuse) as ex:
+                R.derive(self.ctx(), a, edits)
+        finally:
+            self.history = hist
+        self.assertEqual(ex.exception.code, 'EVIDENCE_NOT_INTACT')
+
+    def test_02_proven_drift_is_revised_rescored_and_verified_from_history(self):
+        a, b = self.drift_ids(2)
+        old_ev = {x: self.evidence(x) for x in (a, b)}
+        m = self.plan([a, b])
+        self.assertTrue(m['domain_drift'])
+        self.assertEqual(sorted(m['eligible']), sorted([a, b]))
+        for x in (a, b):
+            self.assertEqual(m['entries'][x]['base'], R.BASE_DOMAIN)
+            self.assertEqual(m['entries'][x]['domain_only_proof']['classification'], 'DOMAIN_ONLY_PROVEN')
+        guard = tree_hashes(self.root, GUARD)
+        ctx = self.ctx(batch='revise-test-drift')
+        rep = R.apply_batch(ctx, m, [a, b])
+        self.assertEqual(sorted(rep['written']), sorted([a, b]))
+        for x in (a, b):
+            ev = self.evidence(x)
+            row = self.row(x)
+            self.assertEqual(ev['content_sha256'], sha(self.post_text(x).encode('utf-8')))
+            self.assertEqual(ev['matrix_row_sha256'], A.fingerprint(row))
+            self.assertEqual(ev['result'], 'PASS')
+            rev = ev['revision']
+            self.assertEqual(rev['base'], R.BASE_DOMAIN)
+            proof = rev['domain_only_proof']
+            self.assertEqual(proof['baseline_content_sha256'], old_ev[x]['content_sha256'])
+            self.assertEqual(proof['baseline_matrix_sha256'], old_ev[x]['matrix_row_sha256'])
+            self.assertEqual(proof['pre_edit_content_sha256'], m['entries'][x]['base_post_sha256'])
+            self.assertEqual(rev['previous_content_sha256'], old_ev[x]['content_sha256'])
+            self.assertEqual(ev.get('scored_at'), old_ev[x].get('scored_at'))
+        backup = json.loads((self.root / rep['backup']).read_text(encoding='utf-8'))
+        self.assertEqual(R.verify_backup(self.ctx(), backup), [])
+        self.assertEqual(tree_hashes(self.root, GUARD), guard)
+        # verify chứng minh LẠI từ lịch sử: baseline không còn buộc hash cũ => lỗi, không tin sao lưu
+        self.history['data/qa/%s.json' % a] = json.dumps(dict(old_ev[a], content_sha256='1' * 64)).encode()
+        self.assertIn('khong chung minh lai duoc', ' | '.join(R.verify_backup(self.ctx(), backup)))
+        # rollback byte-exact về bài + evidence lệch hash ban đầu
+        out = R.rollback_backup(self.root, backup)
+        self.assertEqual(sorted(out['restored']), sorted([a, b]))
+        self.assertEqual(self.evidence(a), old_ev[a])
+
+    def test_03_unproven_drift_is_refused(self):
+        a, = self.good_ids(1)
+        self.make_stale(a, unbound=True)                 # hash cũ không buộc byte baseline
+        m = self.plan([a])
+        self.assertEqual(m['eligible'], [])
+        self.assertEqual(m['entries'][a]['decision'], 'NOT_DOMAIN_ONLY')
+        b, = [x for x in self.good_ids(2) if x != a][:1]
+        self.make_stale(b, edit_after_migration='\nCâu thêm sau migrate.\n'.encode())   # nội dung đổi thật
+        m = self.plan([b])
+        self.assertEqual(m['entries'][b]['decision'], 'NOT_DOMAIN_ONLY')
+
+    def test_04_manifest_and_apply_must_use_the_same_mode(self):
+        a, = self.drift_ids(1)
+        m = self.plan([a])
+        hist, self.history = self.history, None
+        try:
+            with self.assertRaises(R.Refuse) as ex:
+                R.apply_batch(self.ctx(batch='revise-test-mode'), m, [a])
+        finally:
+            self.history = hist
+        self.assertEqual(ex.exception.code, 'DOMAIN_DRIFT_MISMATCH')
+        forged = copy.deepcopy(m)
+        forged['entries'][a]['base'] = R.BASE_INTACT     # manifest khai sai nền => apply từ chối
+        with self.assertRaises(R.Refuse) as ex:
+            R.apply_batch(self.ctx(batch='revise-test-mode2'), forged, [a])
+        self.assertEqual(ex.exception.code, 'INPUT_CHANGED_SINCE_PLAN')
 
 
 if __name__ == '__main__':
