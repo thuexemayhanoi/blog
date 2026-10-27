@@ -45,7 +45,7 @@ Ba điều người thuê xe hay hiểu nhầm:
 2. **Xe dựng nghiêng làm đọc lệch.** Đọc chính xác nhất khi xe đứng thẳng trên chân chống giữa hoặc đang chạy đường bằng.
 3. **Vạch cuối nhấp nháy là lúc đi đổ xăng,** không phải lúc cố chạy thêm cho xong việc.
 
-Cách canh xăng theo từng kiểu lộ trình có trong bài [canh kim xăng Honda Vision để không chết máy giữa đường](/xe-may/2026/10/11/canh-kim-xang-honda-vision-ghe-cay-xang-luc-nao-e-khong-chet-may-giua-uong/).
+Cách canh xăng theo từng kiểu lộ trình có trong bài [canh kim xăng Honda Vision để không chết máy giữa đường](/xe-may/2026/10/11/canh-kim-xang-honda-vision-ghe-cay-xang-luc-nao-de-khong-chet-may-giua-duong/).
 
 ## Xem số km Honda Vision: số tổng và số chuyến
 
@@ -56,7 +56,7 @@ Với người thuê, số km tổng có hai công dụng:
 - **Ghi lại lúc nhận và trả xe.** Chụp ảnh mặt đồng hồ khi nhận, rõ cả số km và mức xăng; lúc trả chụp thêm một tấm để hai bên đối chiếu nhanh.
 - **Tự ước lượng xăng.** Ghi số km sau mỗi lần đổ đầy bình, lần sau nhìn lại sẽ biết đã đi bao xa, kết hợp với vạch xăng để chọn lúc ghé cây xăng.
 
-Quy trình đầy đủ lúc giao nhận xe có trong bài [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/oc-ong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-en-canh-bao/).
+Quy trình đầy đủ lúc giao nhận xe có trong bài [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/doc-dong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-den-canh-bao/).
 
 ## Đèn báo trên đồng hồ Vision: thông báo và cảnh báo
 

@@ -67,7 +67,7 @@ Phản xạ không đến từ việc đọc mà từ lặp lại. Vài gợi ý
 - **Cẩn thận nhất khi lấy xe từ bãi gửi.** Người trông xe có thể đã dựng lại xe theo kiểu khác.
 - **Cuối ngày, khi mệt, làm chậm lại.** Đó là lúc dễ bỏ bước nhất.
 
-Nếu bạn muốn xem thêm góc nhìn chung cho mọi xe số, bài [quên gạt chân chống nghiêng khi đi xe số](/xe-may/2026/10/15/quen-gat-chan-chong-nghieng-khi-di-xe-so-nguy-hiem-o-khuc-cua-dau-tien-va-thoi-q/) bàn kỹ về lịch trình nhiều điểm dừng. Người mới cầm lái xe số có thể đọc thêm bài [Honda Wave thuê cho người mới có dễ điều khiển không](/xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-ieu-khien-khong/). Khi nhận xe ở tiệm tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (mở cửa 09:00–21:00), cứ nhờ người giao xe chỉ lại chân chống và cách gạt cho quen tay.
+Nếu bạn muốn xem thêm góc nhìn chung cho mọi xe số, bài [quên gạt chân chống nghiêng khi đi xe số](/xe-may/2026/10/15/quen-gat-chan-chong-nghieng-khi-di-xe-so-nguy-hiem-o-khuc-cua-dau-tien-va-thoi-q/) bàn kỹ về lịch trình nhiều điểm dừng. Người mới cầm lái xe số có thể đọc thêm bài [Honda Wave thuê cho người mới có dễ điều khiển không](/xe-may/2026/10/05/honda-wave-thue-cho-nguoi-moi-co-de-dieu-khien-khong/). Khi nhận xe ở tiệm tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (mở cửa 09:00–21:00), cứ nhờ người giao xe chỉ lại chân chống và cách gạt cho quen tay.
 
 ## Kết lại
 

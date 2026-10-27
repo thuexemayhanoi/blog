@@ -26,7 +26,7 @@ Xe thuê là xe đã qua sử dụng, nên có hai loại cảm nhận bạn c�
 - **Đặc điểm của dòng xe:** tư thế ngồi, chiều cao yên, cách gạt số, kích thước cốp, độ nhẹ khi dắt. Những thứ này gần như giống nhau trên mọi chiếc Wave cùng phiên bản, kể cả xe mới.
 - **Tình trạng của riêng chiếc xe:** độ mòn lốp, độ chùng xích, độ ăn của phanh, tiếng máy. Đây là chuyện của chiếc xe cụ thể, không nói lên nhiều về dòng xe.
 
-Khi nhận xe, hỏi tiệm chiếc mình nhận là phiên bản nào, vì Wave có vài bản khác nhau ở phanh trước và vành. Bài [Wave Alpha hay Wave RSX](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-ang-thue-qua-phanh-va-vanh/) chỉ cách nhận biết nhanh. Biết mình đang thử bản nào thì nhận xét mới có ích khi đem ra so.
+Khi nhận xe, hỏi tiệm chiếc mình nhận là phiên bản nào, vì Wave có vài bản khác nhau ở phanh trước và vành. Bài [Wave Alpha hay Wave RSX](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-dang-thue-qua-phanh-va-vanh/) chỉ cách nhận biết nhanh. Biết mình đang thử bản nào thì nhận xét mới có ích khi đem ra so.
 
 ## Lên lịch thử theo đúng nhu cầu thật
 
@@ -40,7 +40,7 @@ Nếu thời gian cho phép, giữ xe thêm vài ngày để cảm nhận đã q
 
 ## Tư thế ngồi, gạt số và phanh: ba thứ phải thử bằng cơ thể mình
 
-**Tư thế.** Ngồi lên xe, hai chân chống đất có vững không, đầu gối có chạm yếm không, lưng có phải cúi nhiều không. Người cao hoặc thấp hơn mức trung bình nên chú ý kỹ; bài [người cao to đi Honda Wave](/xe-may/2026/10/11/nguoi-cao-to-i-honda-wave-ngoi-co-go-goi-co-vuong-tay-lai-khong/) có những điểm cần kiểm.
+**Tư thế.** Ngồi lên xe, hai chân chống đất có vững không, đầu gối có chạm yếm không, lưng có phải cúi nhiều không. Người cao hoặc thấp hơn mức trung bình nên chú ý kỹ; bài [người cao to đi Honda Wave](/xe-may/2026/10/11/nguoi-cao-to-di-honda-wave-ngoi-co-go-goi-co-vuong-tay-lai-khong/) có những điểm cần kiểm.
 
 **Gạt số.** Wave dùng côn tự động, cần số đạp mũi để lên, gót để xuống tùy bản. Người quen xe ga hay thấy lúng túng mấy ngày đầu, nhất là khi phải dừng đỗ liên tục ở các nút đông như Nguyễn Văn Cừ hay Trần Khát Chân. Ghi lại sau bao nhiêu ngày thì bạn không còn phải nghĩ khi vào số. Nếu đến cuối đợt thuê vẫn thấy phiền, đó là tín hiệu nên cân nhắc lại. Bài [chuyển từ xe ga sang Honda Wave](/xe-may/2026/10/14/chuyen-tu-xe-ga-sang-honda-wave-lam-quen-can-so-con-tu-dong-va-luc-dung-den-do/) giúp bạn làm quen nhanh hơn.
 

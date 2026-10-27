@@ -25,7 +25,7 @@ Tuột xích bàn đạp có vài dấu hiệu khá rõ, dễ phân biệt với
 - **Có tiếng lạch xạch hoặc tiếng kim loại cọ** ngay trước lúc hẫng chân, thường sau khi xe xóc qua ổ gà, gờ giảm tốc hay mép vỉa hè.
 - **Nhìn xuống thấy xích chùng**, một đoạn võng ra ngoài đĩa trước hoặc nằm vắt trên khung.
 
-Nếu bàn đạp vẫn có lực nhưng xe đạp nặng khác thường, đó là chuyện khác, thường do pin yếu; trường hợp ấy đã có bài riêng về [xe đạp điện đạp nặng khi hết pin](/xe-may/2026/10/11/xe-ap-ien-ap-nang-khi-het-pin-phuong-an-di-chuyen-an-toan/).
+Nếu bàn đạp vẫn có lực nhưng xe đạp nặng khác thường, đó là chuyện khác, thường do pin yếu; trường hợp ấy đã có bài riêng về [xe đạp điện đạp nặng khi hết pin](/xe-may/2026/10/11/xe-dap-dien-dap-nang-khi-het-pin-phuong-an-di-chuyen-an-toan/).
 
 Việc đầu tiên khi thấy hẫng chân: **ngừng đạp ngay**. Cố đạp thêm vài vòng để "kéo xích lên lại" là thói quen của người đi xe đạp thường, nhưng trên xe đạp điện nó dễ làm xích chui vào khe giữa đĩa và khung rồi kẹt cứng.
 
@@ -38,7 +38,7 @@ Việc đầu tiên khi thấy hẫng chân: **ngừng đạp ngay**. Cố đạ
 3. Chọn chỗ mặt đường phẳng như đầu ngõ rộng, bãi trông xe; tránh chân dốc cầu hay khúc cua.
 4. Xuống xe, dựng chân chống chắc, **tắt nguồn bằng khóa điện**.
 
-Tắt nguồn là bước nhiều người bỏ qua. Khi còn nguồn, chỉ cần lỡ tay chạm tay ga lúc cúi xuống nhìn xích là bánh có thể quay, kéo theo xích và ngón tay. Cách chọn chỗ dừng tương tự bài [xe máy bị tuột xích giữa đường](/xe-may/2026/10/05/xe-may-bi-tuot-xich-giua-uong-chon-cho-dung-an-toan/).
+Tắt nguồn là bước nhiều người bỏ qua. Khi còn nguồn, chỉ cần lỡ tay chạm tay ga lúc cúi xuống nhìn xích là bánh có thể quay, kéo theo xích và ngón tay. Cách chọn chỗ dừng tương tự bài [xe máy bị tuột xích giữa đường](/xe-may/2026/10/05/xe-may-bi-tuot-xich-giua-duong-chon-cho-dung-an-toan/).
 
 ## Xe đạp điện tuột xích có đi được không
 

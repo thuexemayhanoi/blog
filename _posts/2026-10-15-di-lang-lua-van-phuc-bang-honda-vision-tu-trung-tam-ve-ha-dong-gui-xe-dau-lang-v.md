@@ -27,7 +27,7 @@ Trước khi đi, dọn sẵn cốp xe cho chỗ chứa lụa:
 - **Mang theo hai túi ni lông sạch, cỡ lớn** để bọc ngoài túi lụa, phòng khi trời mưa hoặc chai nước rỉ.
 - **Một chiếc khăn mỏng** lót đáy cốp, tránh lụa chạm vào phần nhựa có bụi.
 
-Về những món không nên để lâu trong cốp vào ngày nắng gắt, xem thêm bài [cốp Honda Vision ngày nắng gắt](/xe-may/2026/10/11/cop-honda-vision-ngay-nang-gat-nhung-mon-o-khong-nen-e-lai-trong-cop/).
+Về những món không nên để lâu trong cốp vào ngày nắng gắt, xem thêm bài [cốp Honda Vision ngày nắng gắt](/xe-may/2026/10/11/cop-honda-vision-ngay-nang-gat-nhung-mon-do-khong-nen-de-lai-trong-cop/).
 
 ## Đường đi làng lụa Vạn Phúc từ trung tâm về Hà Đông
 
@@ -63,7 +63,7 @@ Khi gửi xe:
 
 Phố chính của làng là dãy cửa hàng lụa nối tiếp nhau. Đi chậm, nhìn vài cửa hàng trước rồi mới quyết định, vì màu sắc và kiểu dệt khác nhau khá nhiều giữa các nhà. Rẽ vào một số ngõ nhỏ, bạn có thể nghe tiếng máy dệt từ những gia đình vẫn còn giữ xưởng; nhớ hỏi trước khi chụp ảnh hay bước vào nhà người ta.
 
-Cách chọn lụa, phân biệt chất liệu và hỏi người bán đã được viết kỹ trong bài [làng lụa Vạn Phúc bằng xe máy](/du-lich/2026/10/11/lang-lua-van-phuc-bang-xe-may-i-dao-lang-va-chon-mua-lua/). Ở đây chỉ nhắc một điều liên quan tới chuyến về: khi trả tiền, nhờ người bán gấp lụa theo nếp to và phẳng, cho vào túi giấy hoặc hộp có nắp, thay vì nhét vội vào túi mỏng.
+Cách chọn lụa, phân biệt chất liệu và hỏi người bán đã được viết kỹ trong bài [làng lụa Vạn Phúc bằng xe máy](/du-lich/2026/10/11/lang-lua-van-phuc-bang-xe-may-di-dao-lang-va-chon-mua-lua/). Ở đây chỉ nhắc một điều liên quan tới chuyến về: khi trả tiền, nhờ người bán gấp lụa theo nếp to và phẳng, cho vào túi giấy hoặc hộp có nắp, thay vì nhét vội vào túi mỏng.
 
 ## Chở lụa về gọn gàng: không nhàu, không ướt
 

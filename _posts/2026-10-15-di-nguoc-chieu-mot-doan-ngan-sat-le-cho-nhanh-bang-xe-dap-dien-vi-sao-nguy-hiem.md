@@ -37,7 +37,7 @@ Người lái xe máy trên đường một chiều chỉ quan sát những hư�
 
 Luật giao thông cấm đi ngược chiều trên đường một chiều, và quy định này áp dụng cho mọi loại xe, kể cả xe đạp điện. Biển cấm đi ngược chiều thường đặt ở đầu đường một chiều; nhiều đoạn có dải phân cách giữa cũng có nghĩa là mỗi bên đường chỉ đi một chiều.
 
-Đi ngược chiều có thể bị xử phạt theo quy định hiện hành. Quan trọng hơn chuyện bị phạt là nếu va chạm xảy ra khi bạn đang đi ngược chiều, bạn gần như chắc chắn là bên có lỗi, và việc giải quyết với người bị va rất khó khăn. Với xe đi thuê, bạn còn phải làm việc với chủ xe về hư hỏng. Nếu muốn hiểu cảm giác từ phía người đi đúng chiều, bài [xe ngược chiều lao vào làn đường một chiều](/ky-nang/2026/10/09/tinh-huong-xe-nguoc-chieu-vao-lam-uong-mot-chieu/) mô tả rất rõ.
+Đi ngược chiều có thể bị xử phạt theo quy định hiện hành. Quan trọng hơn chuyện bị phạt là nếu va chạm xảy ra khi bạn đang đi ngược chiều, bạn gần như chắc chắn là bên có lỗi, và việc giải quyết với người bị va rất khó khăn. Với xe đi thuê, bạn còn phải làm việc với chủ xe về hư hỏng. Nếu muốn hiểu cảm giác từ phía người đi đúng chiều, bài [xe ngược chiều lao vào làn đường một chiều](/ky-nang/2026/10/09/tinh-huong-xe-nguoc-chieu-vao-lam-duong-mot-chieu/) mô tả rất rõ.
 
 ## Đường một chiều xe đạp điện: cách đi vòng hợp lý
 
@@ -64,7 +64,7 @@ Nhớ rằng nhiều vỉa hè Hà Nội có xe máy đỗ kín hoặc hàng qu�
 - **Thấy người khác cũng đi ngược.** Việc nhiều người làm không làm nó an toàn hơn; khi một người đi ngược đã choán lề, người thứ hai càng bị dồn ra giữa đường.
 - **Ra khỏi ngõ, điểm đến nằm ngay bên trái trên đường một chiều.** Rẽ phải theo đúng chiều, tìm chỗ quay đầu hoặc vòng khối phố.
 
-Những ngõ nhỏ trong khu tập thể cũ thường không có biển một chiều nhưng lại hẹp và nhiều góc khuất; cách đi qua những chỗ đó có trong bài [len vào ngõ nhỏ khu tập thể bằng xe đạp điện](/xe-may/2026/10/11/len-vao-ngo-nho-khu-tap-the-cu-bang-xe-ap-ien-re-tranh-dung-sao-cho-gon/).
+Những ngõ nhỏ trong khu tập thể cũ thường không có biển một chiều nhưng lại hẹp và nhiều góc khuất; cách đi qua những chỗ đó có trong bài [len vào ngõ nhỏ khu tập thể bằng xe đạp điện](/xe-may/2026/10/11/len-vao-ngo-nho-khu-tap-the-cu-bang-xe-dap-dien-re-tranh-dung-sao-cho-gon/).
 
 ## Lên lộ trình trước để không bị cám dỗ
 

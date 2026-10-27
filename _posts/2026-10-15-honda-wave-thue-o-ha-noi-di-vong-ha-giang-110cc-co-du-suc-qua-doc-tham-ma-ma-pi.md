@@ -68,7 +68,7 @@ Sáng sớm trên núi thường có sương, đường ẩm. Khởi động má
 
 Xe máy không được đi trên cao tốc, kể cả cao tốc Nội Bài – Lào Cai. Nếu tự chạy từ Hà Nội, bạn đi theo quốc lộ 2, ra khỏi thành phố qua cầu Nhật Tân hoặc tầng dưới cầu Thăng Long về phía Đông Anh, Sóc Sơn rồi nhập quốc lộ 2. Đây là đường đông xe tải, phần lớn bằng phẳng, nên với Wave chặng này mệt người hơn mệt xe.
 
-Nhiều người chọn cách khác: gửi xe lên bằng xe khách, rồi bắt đầu chạy từ thành phố Hà Giang để giữ sức cho đoạn đèo. Có nhà xe nhận chở kèm xe máy, có nhà xe không; cách buộc xe, giờ nhận và chi phí thì hỏi nhà xe cụ thể. Bài [đi Hà Giang: thuê xe từ Hà Nội hay gửi xe lên](/cung-duong/2026/09/29/i-ha-giang-thue-xe-tu-ha-noi-hay-gui-xe-len-roi-thue-tai-cho/) so sánh kỹ hai phương án.
+Nhiều người chọn cách khác: gửi xe lên bằng xe khách, rồi bắt đầu chạy từ thành phố Hà Giang để giữ sức cho đoạn đèo. Có nhà xe nhận chở kèm xe máy, có nhà xe không; cách buộc xe, giờ nhận và chi phí thì hỏi nhà xe cụ thể. Bài [đi Hà Giang: thuê xe từ Hà Nội hay gửi xe lên](/cung-duong/2026/09/29/di-ha-giang-thue-xe-tu-ha-noi-hay-gui-xe-len-roi-thue-tai-cho/) so sánh kỹ hai phương án.
 
 ## Trước khi thuê Wave cho vòng Hà Giang: báo cửa hàng
 

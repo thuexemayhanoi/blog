@@ -29,7 +29,7 @@ Trong hệ thống có thể có cả xe đạp thường và xe đạp có tr�
 
 Thuê xe đạp điện theo buổi nghĩa là chiếc xe đi cùng bạn suốt buổi, từ lúc nhận tới lúc trả. Bạn không bị ràng buộc với vị trí trạm, có thể dừng ăn, ghé chùa, vào ngõ chụp ảnh rồi đi tiếp mà không phải tìm chỗ trả xe. Xe có motor trợ lực, nên những đoạn gió ngược ven hồ hay dốc lên cầu đỡ mệt hơn hẳn.
 
-Đổi lại, bạn phải tự lo chỗ gửi xe khi dừng lâu, giữ xe cẩn thận và quay về đúng điểm đã hẹn để trả. Giá thuê xe đạp điện ở tiệm chúng tôi là liên hệ để xác nhận; việc giao xe và đặt cọc cũng xác nhận trực tiếp trước khi nhận xe. Những điểm cần xem khi nhận xe được tổng hợp trong bài [thuê xe đạp điện ở Hà Nội lưu ý gì](/xe-may/2026/10/07/thue-xe-ap-ien-o-ha-noi-luu-y-gi/).
+Đổi lại, bạn phải tự lo chỗ gửi xe khi dừng lâu, giữ xe cẩn thận và quay về đúng điểm đã hẹn để trả. Giá thuê xe đạp điện ở tiệm chúng tôi là liên hệ để xác nhận; việc giao xe và đặt cọc cũng xác nhận trực tiếp trước khi nhận xe. Những điểm cần xem khi nhận xe được tổng hợp trong bài [thuê xe đạp điện ở Hà Nội lưu ý gì](/xe-may/2026/10/07/thue-xe-dap-dien-o-ha-noi-luu-y-gi/).
 
 ## Chọn theo lộ trình: một chiều hay vòng tròn
 
@@ -53,7 +53,7 @@ Vì vậy, người ở gần Long Biên hoặc định đi chơi cả buổi qu
 
 **Quãng ngắn, đạp nhẹ**, như đi từ khách sạn ra bờ hồ hay từ ga tàu điện tới một quán cà phê: xe công cộng gọn hơn, không phải lo xe khi bạn đã tới nơi.
 
-**Đi cả buổi, nhiều km**, nhất là vòng Hồ Tây hay ra đê sông Hồng: sức đạp mới là vấn đề. Xe đạp thường đạp lâu dưới nắng Hà Nội khá mệt, đặc biệt với người ít vận động hoặc đi cùng người lớn tuổi. Xe đạp điện có trợ lực giúp giữ sức, đi được lâu hơn mà không phải nghỉ dọc đường quá nhiều. Nếu cân nhắc giữa xe đạp thường và xe đạp điện riêng chuyện thời tiết, xem thêm bài [xe đạp điện hay xe đạp thường đi phố Hà Nội mùa nóng](/xe-may/2026/10/11/xe-ap-ien-hay-xe-ap-thuong-i-pho-ha-noi-mua-nong-chon-loai-nao/).
+**Đi cả buổi, nhiều km**, nhất là vòng Hồ Tây hay ra đê sông Hồng: sức đạp mới là vấn đề. Xe đạp thường đạp lâu dưới nắng Hà Nội khá mệt, đặc biệt với người ít vận động hoặc đi cùng người lớn tuổi. Xe đạp điện có trợ lực giúp giữ sức, đi được lâu hơn mà không phải nghỉ dọc đường quá nhiều. Nếu cân nhắc giữa xe đạp thường và xe đạp điện riêng chuyện thời tiết, xem thêm bài [xe đạp điện hay xe đạp thường đi phố Hà Nội mùa nóng](/xe-may/2026/10/11/xe-dap-dien-hay-xe-dap-thuong-di-pho-ha-noi-mua-nong-chon-loai-nao/).
 
 **Muốn tập thể dục thật sự** thì xe đạp thường của hệ thống công cộng lại là ưu điểm: bạn đạp hoàn toàn bằng chân, không có motor đỡ.
 
@@ -61,7 +61,7 @@ Vì vậy, người ở gần Long Biên hoặc định đi chơi cả buổi qu
 
 Xe công cộng thường có giỏ trước nhỏ, đủ cho chai nước và túi xách nhẹ. Nếu bạn mua đồ ở chợ Đồng Xuân hay mang theo máy ảnh, ba lô to, giỏ nhỏ sẽ chật và bạn khó dừng giữa chừng vì xe vẫn đang tính giờ.
 
-Xe đạp điện thuê ở tiệm có giỏ, có chỗ treo đồ, và vì là xe của riêng bạn trong buổi nên có thể dừng mua sắm thoải mái. Cách chở đồ gọn trên xe điện và đi quanh phố cổ có trong bài [thuê xe đạp điện đi quanh phố cổ và Hồ Gươm](/xe-may/2026/09/27/thue-xe-ap-ien-i-quanh-pho-co-va-ho-guom/).
+Xe đạp điện thuê ở tiệm có giỏ, có chỗ treo đồ, và vì là xe của riêng bạn trong buổi nên có thể dừng mua sắm thoải mái. Cách chở đồ gọn trên xe điện và đi quanh phố cổ có trong bài [thuê xe đạp điện đi quanh phố cổ và Hồ Gươm](/xe-may/2026/09/27/thue-xe-dap-dien-di-quanh-pho-co-va-ho-guom/).
 
 Đi cùng trẻ nhỏ hoặc người không tự đạp được thì cần hỏi kỹ: xe công cộng thường chỉ có một yên cho người đạp, còn xe thuê ở tiệm có chở được người ngồi sau hay không phải xác nhận trực tiếp với tiệm.
 

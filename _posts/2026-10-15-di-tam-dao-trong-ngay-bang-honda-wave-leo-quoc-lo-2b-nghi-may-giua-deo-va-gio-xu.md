@@ -57,7 +57,7 @@ Trong lúc leo, nhìn xa qua khúc cua, đi đúng phần đường bên phải 
 
 Wave làm mát bằng gió, leo liên tục ở số thấp thì máy nóng nhanh hơn chạy phố. Một lần nghỉ giữa đèo là đủ, nhưng chỗ dừng quan trọng hơn thời điểm dừng. Nên dừng ở khoảng lề rộng, bằng phẳng, nhìn thấy rõ từ hai phía, hoặc bãi đỗ trước quán nước có chỗ dựng xe đàng hoàng. Không dừng trong khúc cua, ngay sau đỉnh dốc khuất tầm nhìn, ở lề hẹp đất mềm hay giữa đoạn sương mù.
 
-Khi dừng, tắt máy, về số mo, để máy nghỉ trong lúc bạn uống nước và đừng chạm vào ống xả. Nếu buộc phải dựng xe chỗ hơi nghiêng, xem cách làm ở bài [chống xe máy trên dốc không bị tuột chân chống](/ky-nang/2026/10/05/chong-xe-may-tren-doc-ung-cach-khong-bi-tuot-chan-chong/). Nghỉ máy cũng là nghỉ tay: người mới leo đèo thường siết tay lái rất chặt mà không biết.
+Khi dừng, tắt máy, về số mo, để máy nghỉ trong lúc bạn uống nước và đừng chạm vào ống xả. Nếu buộc phải dựng xe chỗ hơi nghiêng, xem cách làm ở bài [chống xe máy trên dốc không bị tuột chân chống](/ky-nang/2026/10/05/chong-xe-may-tren-doc-dung-cach-khong-bi-tuot-chan-chong/). Nghỉ máy cũng là nghỉ tay: người mới leo đèo thường siết tay lái rất chặt mà không biết.
 
 Thấy xe đuối rõ dù đã về số thấp, có mùi khét lạ hay tay lái rung khác thường thì dừng sớm ở chỗ an toàn gần nhất, đừng cố lên tới quán định nghỉ.
 

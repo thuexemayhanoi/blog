@@ -81,7 +81,7 @@ Màn hình hoặc dãy đèn báo pin là thứ bạn sẽ nhìn nhiều nhất 
 - **Vạch cuối nhấp nháy là tín hiệu cần về.** Khi chỉ còn một vạch hoặc vạch đổi sang màu cảnh báo, hãy tính đường quay về điểm trả xe hoặc chỗ sạc ngay.
 - **Pin yếu thì xe yếu.** Nhiều mẫu tự giảm sức kéo khi pin thấp, xe chậm hẳn trên dốc cầu.
 
-Hỏi người giao xe xem pin đã đầy chưa và mỗi vạch tương ứng quãng đường như thế nào với chính chiếc xe đó, vì điều này phụ thuộc vào mẫu xe, cân nặng người lái và cách đi. Mẹo giữ pin dùng đủ cả buổi có trong bài [đi thế nào để pin xe đạp điện đủ dùng cả buổi](/xe-may/2026/10/11/i-the-nao-e-pin-xe-ap-ien-u-dung-ca-buoi-thoi-quen-tiet-kiem-ien/).
+Hỏi người giao xe xem pin đã đầy chưa và mỗi vạch tương ứng quãng đường như thế nào với chính chiếc xe đó, vì điều này phụ thuộc vào mẫu xe, cân nặng người lái và cách đi. Mẹo giữ pin dùng đủ cả buổi có trong bài [đi thế nào để pin xe đạp điện đủ dùng cả buổi](/xe-may/2026/10/11/di-the-nao-de-pin-xe-dap-dien-du-dung-ca-buoi-thoi-quen-tiet-kiem-dien/).
 
 ## Những câu nên hỏi khi nhận xe
 

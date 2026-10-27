@@ -69,7 +69,7 @@ Xuống dốc là chỗ khác biệt lộ rõ nhất. Xe số khi về số th�
 - bóp đều cả hai tay phanh, nhả ra bóp lại theo nhịp thay vì giữ chặt một tay suốt dốc;
 - giữ khoảng cách xa hơn bình thường với xe phía trước.
 
-Với dốc dài ngoài ngoại thành, đọc thêm bài [Honda Vision lên dốc dài: giữ tốc và phanh đúng](/xe-may/2026/10/11/honda-vision-len-doc-dai-giu-toc-va-phanh-ung/).
+Với dốc dài ngoài ngoại thành, đọc thêm bài [Honda Vision lên dốc dài: giữ tốc và phanh đúng](/xe-may/2026/10/11/honda-vision-len-doc-dai-giu-toc-va-phanh-dung/).
 
 ## Từ phố vắng ra phố đông: lộ trình buổi đầu gợi ý
 

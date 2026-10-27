@@ -43,7 +43,7 @@ Nếu buổi tối bạn có hẹn và nhất định phải đi đôi bốt to,
 
 ### Thử trước khi ra đường
 
-Trước khi chạy ra phố, dựng xe chân chống giữa, ngồi lên và gạt thử vài lần ở chế độ tắt máy: lên số bằng gót, về số bằng mũi, xem mũi giày có lọt hẳn xuống dưới cần không và có chạm vào ốp máy không. Thử thêm phanh chân bên phải. Khi trời rét làm cần số nặng tay hơn thường lệ, xem thêm bài [xe số khó vào số khi trời lạnh](/xe-may/2026/10/04/xe-so-kho-vao-so-khi-troi-lanh-xu-ly-ban-au/).
+Trước khi chạy ra phố, dựng xe chân chống giữa, ngồi lên và gạt thử vài lần ở chế độ tắt máy: lên số bằng gót, về số bằng mũi, xem mũi giày có lọt hẳn xuống dưới cần không và có chạm vào ốp máy không. Thử thêm phanh chân bên phải. Khi trời rét làm cần số nặng tay hơn thường lệ, xem thêm bài [xe số khó vào số khi trời lạnh](/xe-may/2026/10/04/xe-so-kho-vao-so-khi-troi-lanh-xu-ly-ban-dau/).
 
 ## Găng tay mùa đông đi xe số: ấm vừa đủ, bóp phanh vẫn chắc
 
@@ -69,10 +69,10 @@ Khi đỗ xe, nhớ ống xả bên phải vẫn còn nóng, đừng để gấu
 
 1. **Mặc đồ xong rồi mới ra xe**, đừng vừa lái vừa kéo khóa hay chỉnh khăn.
 2. **Đeo găng sau khi đã cài quai mũ bảo hiểm**, vì đeo găng rồi rất khó cài khóa mũ cho chắc.
-3. **Khởi động máy và để xe nổ một lúc** cho máy ấm trước khi chạy. Nếu sáng lạnh xe khó nổ, bài [khởi động và khắc phục máy Honda Wave mùa lạnh](/xe-may/2026/09/27/khoi-ong-va-khac-phuc-may-honda-wave-mua-lanh/) có các bước cụ thể.
+3. **Khởi động máy và để xe nổ một lúc** cho máy ấm trước khi chạy. Nếu sáng lạnh xe khó nổ, bài [khởi động và khắc phục máy Honda Wave mùa lạnh](/xe-may/2026/09/27/khoi-dong-va-khac-phuc-may-honda-wave-mua-lanh/) có các bước cụ thể.
 4. **Kéo khóa kín cổ trước khi lên cầu**: từ Long Biên sang Hoàn Kiếm, cầu Chương Dương hay cầu Long Biên đều lộng gió.
 
-Muốn đọc kỹ hơn chuyện mặc mấy lớp, chọn áo trong và giữ ấm tai, bàn chân, bài [ngày đầu đông gió lạnh về chạy xe mặc gì](/ky-nang/2026/10/09/ngay-au-ong-gio-lanh-ve-chay-xe-mac-gi/) có danh sách chi tiết.
+Muốn đọc kỹ hơn chuyện mặc mấy lớp, chọn áo trong và giữ ấm tai, bàn chân, bài [ngày đầu đông gió lạnh về chạy xe mặc gì](/ky-nang/2026/10/09/ngay-dau-dong-gio-lanh-ve-chay-xe-mac-gi/) có danh sách chi tiết.
 
 ## Khi nào nên đổi kế hoạch
 

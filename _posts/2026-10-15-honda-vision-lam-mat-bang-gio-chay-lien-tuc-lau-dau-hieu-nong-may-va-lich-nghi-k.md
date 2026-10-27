@@ -62,7 +62,7 @@ Ví dụ một chuyến từ Long Biên đi Đường Lâm, Sơn Tây theo Quố
 3. **Nghỉ thứ hai trước khi vào Sơn Tây:** chọn một cây xăng hoặc quán cơm có mái che, tranh thủ ăn trưa để máy nguội lâu hơn.
 4. **Chiều về đi muộn hơn**, khi nắng đã dịu, thay vì quay xe ngay giữa trưa.
 
-Hướng đi Sóc Sơn qua cầu Nhật Tân, hay về Gia Lâm, Đông Anh cũng áp dụng cùng nguyên tắc: mỗi đoạn đường thoáng dài nối với một chỗ dừng râm mát. Muốn biết chặng nào hợp với Vision, xem thêm bài [Honda Vision đi ngoại thành trong ngày](/xe-may/2026/10/11/honda-vision-i-ngoai-thanh-trong-ngay-chang-nao-hop-chang-nao-nen-can-nhac/).
+Hướng đi Sóc Sơn qua cầu Nhật Tân, hay về Gia Lâm, Đông Anh cũng áp dụng cùng nguyên tắc: mỗi đoạn đường thoáng dài nối với một chỗ dừng râm mát. Muốn biết chặng nào hợp với Vision, xem thêm bài [Honda Vision đi ngoại thành trong ngày](/xe-may/2026/10/11/honda-vision-di-ngoai-thanh-trong-ngay-chang-nao-hop-chang-nao-nen-can-nhac/).
 
 Khi dừng, dựng xe chỗ râm, tắt máy và để xe đứng yên cho nguội dần trong lúc bạn uống nước. Đừng đỗ xe ngay trên nền bê tông phơi nắng cả buổi.
 
@@ -75,7 +75,7 @@ Kẹt xe giữa trưa là lúc Vision dễ nóng nhất, vì quạt quay chậm 
 - **Bò theo dòng bằng ga nhẹ, đều.** Nhấp ga giật cục rồi phanh liên tục làm cả máy lẫn bộ truyền động nóng lên nhanh.
 - **Tìm lối ra chỗ thoáng.** Nếu tắc kéo dài, rẽ vào một con phố có bóng cây, dừng hẳn để cả người lẫn xe nghỉ.
 
-Phần tình huống kẹt xe nói chung, áp dụng cho mọi loại xe, có trong bài [xe máy nóng máy khi kẹt xe giữa trưa hè](/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-e-may-nguoi-an-toan/).
+Phần tình huống kẹt xe nói chung, áp dụng cho mọi loại xe, có trong bài [xe máy nóng máy khi kẹt xe giữa trưa hè](/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-de-may-nguoi-an-toan/).
 
 ## Những điều không nên làm khi máy đang nóng
 

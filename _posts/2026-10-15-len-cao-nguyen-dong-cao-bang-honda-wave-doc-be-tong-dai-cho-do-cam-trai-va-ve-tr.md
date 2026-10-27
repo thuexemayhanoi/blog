@@ -21,7 +21,7 @@ Nhóm bạn rủ nhau đi Đồng Cao bằng xe Wave cuối tuần, mỗi xe hai
 
 Honda Wave là xe số côn tự động, máy nhỏ, nhẹ và rất bền. Ưu điểm lớn nhất của nó trên đường núi là có số thấp: ở số 1 và số 2, xe kéo khỏe hơn nhiều người nghĩ, và người lái chủ động giữ được tốc độ chậm đều trên dốc.
 
-Điểm yếu của Wave cũng rõ ràng: khung nhỏ, giá sau hẹp, chở hai người cộng thêm cả bộ đồ cắm trại thì xe nặng phía sau và tay lái nhẹ đi. Vì vậy chuyến Đồng Cao bằng Wave thành công hay không phụ thuộc vào ba thứ: chọn đồ gọn, buộc chắc, và đi số thấp đúng lúc. Bài [đi Honda Wave đường đèo cần chuẩn bị gì](/xe-may/2026/09/30/i-honda-wave-uong-eo-can-chuan-bi-gi/) có thêm danh sách chuẩn bị cho đường núi.
+Điểm yếu của Wave cũng rõ ràng: khung nhỏ, giá sau hẹp, chở hai người cộng thêm cả bộ đồ cắm trại thì xe nặng phía sau và tay lái nhẹ đi. Vì vậy chuyến Đồng Cao bằng Wave thành công hay không phụ thuộc vào ba thứ: chọn đồ gọn, buộc chắc, và đi số thấp đúng lúc. Bài [đi Honda Wave đường đèo cần chuẩn bị gì](/xe-may/2026/09/30/di-honda-wave-duong-deo-can-chuan-bi-gi/) có thêm danh sách chuẩn bị cho đường núi.
 
 ## Chuẩn bị xe ở Hà Nội trước ngày đi
 
@@ -66,7 +66,7 @@ Từ Long Biên, nhóm thường ra theo hướng Ngô Gia Tự rồi đi tiếp
 - **Buộc bằng dây chun có móc và dây dù.** Buộc chéo ít nhất hai hướng, kéo thử xem đồ có xê dịch không. Không để dây hay quai túi lòng thòng gần bánh sau và xích.
 - **Người ngồi sau đeo ba lô nhỏ,** không đeo ba lô to kéo người ra sau khi leo dốc.
 
-Đừng chất quá nặng: xe nặng phía sau thì bánh trước nhẹ, lái kém chính xác ở khúc cua và khó giữ thăng bằng khi phải dừng giữa dốc. Cách buộc đồ gọn và an toàn có trong bài [buộc đồ cồng kềnh lên xe máy thuê](/an-toan-phap-ly/2026/10/07/buoc-o-cong-kenh-len-xe-may-thue-the-nao-cho-an-toan/).
+Đừng chất quá nặng: xe nặng phía sau thì bánh trước nhẹ, lái kém chính xác ở khúc cua và khó giữ thăng bằng khi phải dừng giữa dốc. Cách buộc đồ gọn và an toàn có trong bài [buộc đồ cồng kềnh lên xe máy thuê](/an-toan-phap-ly/2026/10/07/buoc-do-cong-kenh-len-xe-may-thue-the-nao-cho-an-toan/).
 
 Trên cao nguyên, sóng điện thoại có thể yếu hoặc chập chờn tùy chỗ. Trước khi lên, nhắn cho người ở nhà vị trí dự kiến và giờ về, thống nhất trong nhóm chỗ tập trung nếu lạc nhau. Mang thêm sạc dự phòng.
 

@@ -53,7 +53,7 @@ Trước khi gọi, bạn có thể làm vài bước quan sát không cần d�
 3. **Nhìn vạch chỉ báo** trên cần phanh khi đạp hết cỡ.
 4. **Nghĩ lại hành trình gần nhất.** Vừa qua đoạn ngập, vừa xuống dốc dài hay chở nặng không.
 
-Nếu cảm giác đạp sâu chỉ xuất hiện sau đoạn nước, hãy chạy chậm trên đoạn thẳng vắng, rê nhẹ phanh vài lần cho trống khô, cách làm được nói kỹ trong bài [phanh Honda Wave khi đường ướt](/xe-may/2026/10/11/honda-wave-phanh-co-khi-uong-uot-phanh-som-hon-va-re-phanh-cho-kho/). Phanh hồi lại bình thường thì không đáng lo; còn sâu như cũ thì báo cửa hàng.
+Nếu cảm giác đạp sâu chỉ xuất hiện sau đoạn nước, hãy chạy chậm trên đoạn thẳng vắng, rê nhẹ phanh vài lần cho trống khô, cách làm được nói kỹ trong bài [phanh Honda Wave khi đường ướt](/xe-may/2026/10/11/honda-wave-phanh-co-khi-duong-uot-phanh-som-hon-va-re-phanh-cho-kho/). Phanh hồi lại bình thường thì không đáng lo; còn sâu như cũ thì báo cửa hàng.
 
 ## Lúc nào phải dừng xe ngay
 
@@ -73,7 +73,7 @@ Người chạy Wave nhiều ngày có thể giảm hẳn tình trạng đạp s
 - **Phối hợp hai phanh.** Đừng chỉ dồn hết vào phanh sau. Trên đường bằng, bóp phanh trước nhẹ cùng lúc đạp phanh sau giúp xe dừng êm và chia đều độ mòn.
 - **Dùng số thấp khi xuống dốc.** Xuống dốc cầu Chương Dương, cầu Vĩnh Tuy hay đường dốc ra đê Long Biên, về số thấp để máy ghìm bớt tốc độ, thay vì đạp phanh liên tục.
 
-Những cách giữ nhịp phanh khi chạy đèo được nói rõ hơn trong bài [chạy Honda Wave đường đèo cần chuẩn bị gì](/xe-may/2026/09/30/i-honda-wave-uong-eo-can-chuan-bi-gi/).
+Những cách giữ nhịp phanh khi chạy đèo được nói rõ hơn trong bài [chạy Honda Wave đường đèo cần chuẩn bị gì](/xe-may/2026/09/30/di-honda-wave-duong-deo-can-chuan-bi-gi/).
 
 ## Cửa hàng xử lý gì khi bạn báo phanh sau đạp sâu
 

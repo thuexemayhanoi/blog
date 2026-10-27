@@ -21,7 +21,7 @@ Cầm chìa chiếc Honda Wave vừa thuê, nhiều người mới chợt thắc
 
 Honda Wave có nhiều đời và nhiều phiên bản. Có đời dùng bộ chế hòa khí, tức là xăng được hút qua các lỗ nhỏ theo luồng gió và người lái tự làm đậm hỗn hợp khi máy nguội. Có đời dùng phun xăng điện tử, thường gọi tắt là FI, nơi bộ điều khiển và cảm biến tự định lượng xăng theo nhiệt độ máy và độ mở ga.
 
-Trên mạng, người ta hay tìm "wave alpha chế hòa khí" hoặc "wave rsx phun xăng điện tử", như thể tên phiên bản đã nói hết. Thực tế không gọn như vậy: kiểu cấp xăng còn tùy đời xe, và một chiếc xe cho thuê đã chạy nhiều năm có thể mang tên này nhưng thuộc đời khác với điều bạn đọc được. Vì thế đừng chỉ dựa vào chữ Alpha hay RSX. Nếu muốn biết mình đang cầm bản nào theo phanh và vành, bài [Wave Alpha hay Wave RSX](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-ang-thue-qua-phanh-va-vanh/) đã hướng dẫn riêng phần đó.
+Trên mạng, người ta hay tìm "wave alpha chế hòa khí" hoặc "wave rsx phun xăng điện tử", như thể tên phiên bản đã nói hết. Thực tế không gọn như vậy: kiểu cấp xăng còn tùy đời xe, và một chiếc xe cho thuê đã chạy nhiều năm có thể mang tên này nhưng thuộc đời khác với điều bạn đọc được. Vì thế đừng chỉ dựa vào chữ Alpha hay RSX. Nếu muốn biết mình đang cầm bản nào theo phanh và vành, bài [Wave Alpha hay Wave RSX](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-dang-thue-qua-phanh-va-vanh/) đã hướng dẫn riêng phần đó.
 
 Cửa hàng cũng không nhất thiết chỉ có một kiểu. Bản bạn nhận được là gì thì hỏi ngay khi nhận xe là chắc nhất.
 
@@ -56,7 +56,7 @@ Sáng lạnh, bản này có thể cần kéo e gió theo hướng dẫn của c
 - **Quên trả e gió:** máy gằn, vòng tua không tải cao bất thường, đôi khi có mùi xăng.
 - **Vừa đề vừa vặn ga mạnh:** dễ làm máy sặc xăng, càng khó nổ. Cứ để tay ga nghỉ khi bấm đề.
 
-Trời ấm hoặc xe vừa chạy xong thì thường không cần e gió. Bài [khởi động Honda Wave mùa lạnh](/xe-may/2026/09/27/khoi-ong-va-khac-phuc-may-honda-wave-mua-lanh/) có thêm các bước khi máy mãi không nổ.
+Trời ấm hoặc xe vừa chạy xong thì thường không cần e gió. Bài [khởi động Honda Wave mùa lạnh](/xe-may/2026/09/27/khoi-dong-va-khac-phuc-may-honda-wave-mua-lanh/) có thêm các bước khi máy mãi không nổ.
 
 ## Vặn ga những phút đầu và khi chạy trong phố
 

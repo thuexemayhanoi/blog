@@ -27,7 +27,7 @@ Những điểm bị gọi là "nhược điểm" thực ra là cái giá của 
 
 Trong nội thành, bình xăng nhỏ gần như không phải chuyện gì. Cây xăng dày đặc, từ Nguyễn Văn Cừ qua cầu Chương Dương, vào phố cổ hay lên Cầu Giấy đều có chỗ đổ dọc đường. Thói quen ghé đổ khi kim xăng xuống khoảng giữa là đủ để không bao giờ phải dắt bộ.
 
-Chuyện khác đi khi bạn chạy ra ngoại thành. Trên những đoạn đường vắng phía Ba Vì, quanh hồ Đồng Mô hay ven đê đi về phía Chương Mỹ, khoảng cách giữa các cây xăng dài hơn và có những đoạn đi rất lâu mới gặp. Bình nhỏ nghĩa là bạn phải chủ động tính điểm đổ, không thể để kim xuống thấp rồi mới tìm. Cách đọc kim và chọn thời điểm ghé cây xăng có trong bài [canh kim xăng Honda Vision](/xe-may/2026/10/11/canh-kim-xang-honda-vision-ghe-cay-xang-luc-nao-e-khong-chet-may-giua-uong/).
+Chuyện khác đi khi bạn chạy ra ngoại thành. Trên những đoạn đường vắng phía Ba Vì, quanh hồ Đồng Mô hay ven đê đi về phía Chương Mỹ, khoảng cách giữa các cây xăng dài hơn và có những đoạn đi rất lâu mới gặp. Bình nhỏ nghĩa là bạn phải chủ động tính điểm đổ, không thể để kim xuống thấp rồi mới tìm. Cách đọc kim và chọn thời điểm ghé cây xăng có trong bài [canh kim xăng Honda Vision](/xe-may/2026/10/11/canh-kim-xang-honda-vision-ghe-cay-xang-luc-nao-de-khong-chet-may-giua-duong/).
 
 ## Bánh nhỏ: nhanh nhẹn trong ngõ, kém êm trên đường xấu
 
@@ -45,7 +45,7 @@ Giới hạn lộ ra trong ba tình huống:
 - **Chở hai người cộng thêm hành lý**. Tổng tải nặng làm xe tăng tốc chậm, lúc vượt xe tải trên quốc lộ cần quãng đường dài hơn bạn nghĩ.
 - **Xuống dốc dài**. Xe ga không có số để ghìm, bạn phải dựa nhiều vào phanh. Đây là điều chung của xe ga, nhưng trên một chiếc xe nhẹ chở nặng, càng phải phanh sớm và từng nhịp.
 
-Cách giữ tốc và phanh khi buộc phải đi dốc bằng Vision có trong bài [Honda Vision lên dốc dài](/xe-may/2026/10/11/honda-vision-len-doc-dai-giu-toc-va-phanh-ung/).
+Cách giữ tốc và phanh khi buộc phải đi dốc bằng Vision có trong bài [Honda Vision lên dốc dài](/xe-may/2026/10/11/honda-vision-len-doc-dai-giu-toc-va-phanh-dung/).
 
 ## Cốp vừa phải: đủ đồ một người, chật khi đi hai người nhiều ngày
 
@@ -61,7 +61,7 @@ Nếu lịch trình có đoạn đèo, dốc kéo dài hàng chục phút, Air B
 
 ### Chở nặng: Air Blade vững hơn
 
-Hai người lớn cộng thêm đồ đạc, hoặc thường xuyên phải chở hàng cồng kềnh, Air Blade cho cảm giác đầm và chắc tay hơn. Bài [chọn Vision hay Air Blade cho chuyến du lịch](/xe-may/2026/10/14/thue-honda-vision-hay-air-blade-cho-chuyen-du-lich-ha-noi-chon-theo-lo-trinh-va/) so sánh kỹ theo lộ trình và người ngồi sau. Air Blade cũng có những điểm riêng cần biết, được nói thẳng trong bài [nhược điểm của Honda Air Blade](/xe-may/2026/10/11/nhuoc-iem-cua-honda-air-blade-khi-thue-nen-biet-truoc-khi-chon-xe/).
+Hai người lớn cộng thêm đồ đạc, hoặc thường xuyên phải chở hàng cồng kềnh, Air Blade cho cảm giác đầm và chắc tay hơn. Bài [chọn Vision hay Air Blade cho chuyến du lịch](/xe-may/2026/10/14/thue-honda-vision-hay-air-blade-cho-chuyen-du-lich-ha-noi-chon-theo-lo-trinh-va/) so sánh kỹ theo lộ trình và người ngồi sau. Air Blade cũng có những điểm riêng cần biết, được nói thẳng trong bài [nhược điểm của Honda Air Blade](/xe-may/2026/10/11/nhuoc-diem-cua-honda-air-blade-khi-thue-nen-biet-truoc-khi-chon-xe/).
 
 ### Đi xa nhiều ngày: Wave bền bỉ, Air Blade thoải mái
 

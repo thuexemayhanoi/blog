@@ -39,7 +39,7 @@ Trình tự gọn nhất:
 5. **Dắt đều bước trong vạch**, không dừng giữa chừng.
 6. **Sang tới lề bên kia, đẩy xe vào sát mép**, rồi mới bật nguồn.
 
-Cách này hợp khi đích đến nằm gần nút giao, khi bạn chở đồ nặng không muốn vòng xa, hoặc khi bạn chưa quen nhập dòng ở làn trong. Nếu xe nặng tay, dắt quay đầu khó, xem thêm mẹo trong bài [dắt, dựng chân chống, quay đầu xe đạp điện nặng tay](/xe-may/2026/10/11/dat-dung-chan-chong-quay-au-xe-ap-ien-nang-tay-meo-cho-nguoi-nho-con/).
+Cách này hợp khi đích đến nằm gần nút giao, khi bạn chở đồ nặng không muốn vòng xa, hoặc khi bạn chưa quen nhập dòng ở làn trong. Nếu xe nặng tay, dắt quay đầu khó, xem thêm mẹo trong bài [dắt, dựng chân chống, quay đầu xe đạp điện nặng tay](/xe-may/2026/10/11/dat-dung-chan-chong-quay-dau-xe-dap-dien-nang-tay-meo-cho-nguoi-nho-con/).
 
 ## Cách thứ hai: chạy tiếp tới nút có đèn hoặc chỗ quay đầu hợp lệ
 
@@ -49,7 +49,7 @@ Nếu đích đến xa nút giao, hoặc bạn muốn tiếp tục chạy theo h
 
 **Chỗ mở dải phân cách được phép quay đầu.** Không phải khe hở nào trên dải phân cách cũng là chỗ quay đầu. Chỉ dùng chỗ không có biển cấm quay đầu và có khoảng trống đủ để bạn dừng chờ an toàn. Cách canh khoảng trống và nhập dòng sau khi quay được viết kỹ trong bài [quay đầu xe tại chỗ mở dải phân cách](/ky-nang/2026/10/11/quay-dau-xe-tai-cho-mo-dai-phan-cach-canh-khoang-trong-va-nhap-dong-xe/).
 
-Điểm khó nhất của cách này với xe đạp điện là đoạn chuyển từ làn sát phải sang phía làn trong để chuẩn bị rẽ hoặc quay đầu. Bật xi nhan sớm, quay đầu nhìn lại phía sau chứ không chỉ liếc gương, rồi dịch làn từng chút. Bạn có thể đọc thêm cách ra hiệu trong bài [rẽ trái giữa dòng xe máy đông bằng xe đạp điện](/xe-may/2026/10/11/re-trai-giua-dong-xe-may-ong-bang-xe-ap-ien-quan-sat-ra-hieu-chon-luc/). Nếu dòng xe quá dày mà không tìm được khe để sang làn trong, đừng cố: dừng sát phải, chuyển sang cách thứ nhất.
+Điểm khó nhất của cách này với xe đạp điện là đoạn chuyển từ làn sát phải sang phía làn trong để chuẩn bị rẽ hoặc quay đầu. Bật xi nhan sớm, quay đầu nhìn lại phía sau chứ không chỉ liếc gương, rồi dịch làn từng chút. Bạn có thể đọc thêm cách ra hiệu trong bài [rẽ trái giữa dòng xe máy đông bằng xe đạp điện](/xe-may/2026/10/11/re-trai-giua-dong-xe-may-dong-bang-xe-dap-dien-quan-sat-ra-hieu-chon-luc/). Nếu dòng xe quá dày mà không tìm được khe để sang làn trong, đừng cố: dừng sát phải, chuyển sang cách thứ nhất.
 
 ## Chọn cách nào: đọc tình huống trong mười giây
 
