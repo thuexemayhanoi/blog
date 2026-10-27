@@ -21,7 +21,7 @@ Ngày đầu tự lái xe máy ở Hà Nội, nhiều khách quốc tế kể r�
 
 Ở nhiều nước, tín hiệu đèn gần như là một ngôn ngữ chuẩn: ai bật xi nhan thì chắc chắn sẽ rẽ, ai nháy đèn thường là đang nhường đường. Ở Hà Nội, tín hiệu vẫn có ý nghĩa, nhưng nó là một lời báo chứ không phải lời hứa. Người ta đọc nhau bằng nhiều thứ cùng lúc: hướng đầu xe, tốc độ, tiếng còi và ánh đèn.
 
-Vì vậy, nguyên tắc đầu tiên cho người mới là: hãy tin vào chuyển động của xe hơn là tin vào đèn của xe. Một chiếc xe bật xi nhan phải mà vẫn giữ tốc độ, không nghiêng, không dạt vào lề thì rất có thể người lái đã quên tắt. Ngược lại, xe không tín hiệu nhưng chậm lại và nhích đầu sang một bên thì gần như chắc chắn sắp rẽ. Nếu bạn chưa quen luật cơ bản, hãy đọc trước bài [khách quốc tế đọc biển báo và luật giao thông cơ bản](/thue-xe/2026/09/27/khach-quoc-te-oc-bien-bao-va-luat-giao-thong-co-ban/) rồi quay lại đây.
+Vì vậy, nguyên tắc đầu tiên cho người mới là: hãy tin vào chuyển động của xe hơn là tin vào đèn của xe. Một chiếc xe bật xi nhan phải mà vẫn giữ tốc độ, không nghiêng, không dạt vào lề thì rất có thể người lái đã quên tắt. Ngược lại, xe không tín hiệu nhưng chậm lại và nhích đầu sang một bên thì gần như chắc chắn sắp rẽ. Nếu bạn chưa quen luật cơ bản, hãy đọc trước bài [khách quốc tế đọc biển báo và luật giao thông cơ bản](/thue-xe/2026/09/27/khach-quoc-te-doc-bien-bao-va-luat-giao-thong-co-ban/) rồi quay lại đây.
 
 ## Nháy đèn xe máy nghĩa là gì trên đường phố Hà Nội
 
@@ -61,7 +61,7 @@ Quy định giao thông yêu cầu có tín hiệu báo trước khi chuyển h�
 
 ### Khi chuyển làn hoặc nhập dòng
 
-Trên các trục nhiều làn như Phạm Văn Đồng hay Võ Chí Công, bật xi nhan trước, giữ vài giây, nhìn gương rồi mới nhích dần sang. Đừng đánh lái cùng lúc với bật đèn. Cách tách làn từng bước được nói kỹ trong bài [chuyển làn đúng cách trên đường nhiều làn xe máy](/ky-nang/2026/10/04/chuyen-lan-ung-cach-tren-uong-nhieu-lan-xe-may/).
+Trên các trục nhiều làn như Phạm Văn Đồng hay Võ Chí Công, bật xi nhan trước, giữ vài giây, nhìn gương rồi mới nhích dần sang. Đừng đánh lái cùng lúc với bật đèn. Cách tách làn từng bước được nói kỹ trong bài [chuyển làn đúng cách trên đường nhiều làn xe máy](/ky-nang/2026/10/04/chuyen-lan-dung-cach-tren-duong-nhieu-lan-xe-may/).
 
 ### Khi dừng sát lề hoặc quay đầu
 
@@ -77,7 +77,7 @@ Khi chạy tối:
 - Chỉ bật đèn chiếu xa trên đoạn tối, vắng xe, và hạ ngay khi có xe đi ngược chiều.
 - Nhìn đèn phanh của xe trước như một lời báo sớm. Một dãy đèn đỏ bừng lên trước mặt là dòng xe sắp dừng, hãy nhả ga ngay.
 
-Nếu muốn biết thêm về quy định đèn và còi, xem bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/en-tin-hieu-va-coi-xe-may-theo-quy-inh/). Ánh đèn và tiếng còi thường đi cùng nhau, nên bạn cũng có thể đọc thêm cách [hiểu tiếng còi ở Hà Nội và phản ứng bình tĩnh](/ky-nang/2026/10/11/bi-bam-coi-lien-tuc-tu-phia-sau-hieu-tieng-coi-o-ha-noi-va-phan-ung-binh-tinh/).
+Nếu muốn biết thêm về quy định đèn và còi, xem bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/den-tin-hieu-va-coi-xe-may-theo-quy-dinh/). Ánh đèn và tiếng còi thường đi cùng nhau, nên bạn cũng có thể đọc thêm cách [hiểu tiếng còi ở Hà Nội và phản ứng bình tĩnh](/ky-nang/2026/10/11/bi-bam-coi-lien-tuc-tu-phia-sau-hieu-tieng-coi-o-ha-noi-va-phan-ung-binh-tinh/).
 
 ## Khi xi nhan hoặc đèn trên xe thuê có vấn đề
 

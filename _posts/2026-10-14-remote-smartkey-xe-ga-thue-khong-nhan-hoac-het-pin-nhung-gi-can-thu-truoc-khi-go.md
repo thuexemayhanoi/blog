@@ -46,7 +46,7 @@ Bấm nút tìm xe hoặc nút có biểu tượng mà cửa hàng đã chỉ kh
 
 ### Bước bốn: nhìn đồng hồ và thử còi, đèn
 
-Nếu núm đã mở được nhưng bấm đề không nổ, đồng hồ mờ, còi kêu yếu, thì lỗi có thể nằm ở ắc quy xe chứ không phải remote. Trường hợp này được nói kỹ ở bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/). Với xe ga, nhớ bóp phanh khi bấm đề và gạt chân chống lên, vì nhiều xe không cho đề khi chân chống còn hạ.
+Nếu núm đã mở được nhưng bấm đề không nổ, đồng hồ mờ, còi kêu yếu, thì lỗi có thể nằm ở ắc quy xe chứ không phải remote. Trường hợp này được nói kỹ ở bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/). Với xe ga, nhớ bóp phanh khi bấm đề và gạt chân chống lên, vì nhiều xe không cho đề khi chân chống còn hạ.
 
 ### Bước năm: đổi vị trí đứng và tránh nguồn nhiễu
 

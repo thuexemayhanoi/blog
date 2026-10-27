@@ -74,7 +74,7 @@ Cửa hàng ở số 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, làm việc
 4. **Nghi ngờ nguyên nhân**: xe bị xô khi xếp bãi, mưa gió, hay không rõ lý do.
 5. **Ảnh hoặc đoạn video ngắn** quanh xe nếu có dấu hiệu bị động vào.
 
-Báo ngay cả khi chuông chỉ kêu một lần và bạn đã tắt được. Nếu lỗi lặp lại, cửa hàng có thể chỉnh độ nhạy, thay pin remote hoặc đổi xe khác, tùy tình trạng. Nếu cửa hàng cần người tới hoặc bạn phải mang xe qua, hãy hỏi rõ thời gian và chi phí trước, việc giao nhận chỉ diễn ra trong giờ hoạt động. Cách báo sự cố gọn và đúng lúc cũng được nói trong bài [chân chống xe thuê bị gãy giữa chuyến](/thue-xe/2026/10/11/chan-chong-xe-may-thue-bi-gay-giua-chuyen-chong-o-va-bao-cua-hang/), dù là một hỏng hóc khác hẳn.
+Báo ngay cả khi chuông chỉ kêu một lần và bạn đã tắt được. Nếu lỗi lặp lại, cửa hàng có thể chỉnh độ nhạy, thay pin remote hoặc đổi xe khác, tùy tình trạng. Nếu cửa hàng cần người tới hoặc bạn phải mang xe qua, hãy hỏi rõ thời gian và chi phí trước, việc giao nhận chỉ diễn ra trong giờ hoạt động. Cách báo sự cố gọn và đúng lúc cũng được nói trong bài [chân chống xe thuê bị gãy giữa chuyến](/thue-xe/2026/10/11/chan-chong-xe-may-thue-bi-gay-giua-chuyen-chong-do-va-bao-cua-hang/), dù là một hỏng hóc khác hẳn.
 
 ## Đêm sau: để xe sao cho chuông khỏi kêu oan
 
@@ -85,6 +85,6 @@ Vài điều chỉnh nhỏ thường đủ để cả khu ngủ yên:
 - **Không trùm áo hay bạt che lỏng lẻo** khi trời có gió.
 - **Kiểm tra remote chống trộm có còn nhạy không** khi khóa xe buổi tối; phải đứng sát mới bấm ăn thì pin đã yếu.
 
-Muốn nắm thêm các nguyên tắc chung khi đỗ xe qua đêm, hãy đọc bài [chống trộm cho xe máy đỗ qua đêm ở nhà trọ](/thue-xe/2026/10/11/chong-trom-cho-xe-may-o-qua-em-o-nha-tro-khoa-vi-tri-o-va-thoi-quen/).
+Muốn nắm thêm các nguyên tắc chung khi đỗ xe qua đêm, hãy đọc bài [chống trộm cho xe máy đỗ qua đêm ở nhà trọ](/thue-xe/2026/10/11/chong-trom-cho-xe-may-do-qua-dem-o-nha-tro-khoa-vi-tri-do-va-thoi-quen/).
 
 Báo động kêu giữa đêm là chuyện khó chịu nhưng hiếm khi nghiêm trọng: tắt bằng remote hoặc chìa, không động vào dây điện, xin lỗi hàng xóm và nhắn cửa hàng ngay để kiểm tra. Những sự cố thường gặp khác trong kỳ thuê được gom ở mục [sự cố khi thuê xe](/thue-xe/su-co/), còn mọi hướng dẫn thuê xe máy ở Hà Nội nằm trong chuyên mục [thuê xe](/thue-xe/).

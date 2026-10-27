@@ -25,7 +25,7 @@ Hiện trường ngay sau giông thường chưa ổn định. Trước khi bư�
 - **Tìm dây điện, dây cáp.** Cây đổ hay kéo theo dây điện, dây viễn thông. Nếu thấy dây đứt chạm vào xe, vào cành cây hoặc nằm trong vũng nước, tuyệt đối không chạm, giữ người khác tránh xa và báo ngay cho cơ quan chức năng.
 - **Ngửi mùi xăng.** Nếu bình xăng hoặc ống dẫn bị đè nứt, xăng có thể rò ra. Không hút thuốc, không nổ máy, không bật lửa gần đó.
 
-Nếu có người bị thương, việc đầu tiên là gọi cấp cứu theo hướng dẫn trong bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/). Chiếc xe luôn xếp sau con người.
+Nếu có người bị thương, việc đầu tiên là gọi cấp cứu theo hướng dẫn trong bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/). Chiếc xe luôn xếp sau con người.
 
 ## Đừng vội kéo xe ra: vì sao nên để nguyên hiện trường
 
@@ -73,7 +73,7 @@ Nếu cửa hàng đồng ý để bạn chạy tiếp sau khi gỡ được câ
 - **Bánh xe và chân chống.** Quay bánh xem có bị cạ, chân chống có cong không.
 - **Gương.** Gương gãy hoặc lỏng thì chưa nên chạy.
 
-Nếu thấy bất cứ điểm nào bất thường, chụp thêm ảnh, báo lại cho cửa hàng và đợi hướng dẫn. Với các vết xước, vết lõm nhỏ, cách ghi chú và trao đổi khi trả xe có thể tham khảo bài [làm xước hoặc làm đổ xe thuê](/thue-xe/2026/10/12/lam-xuoc-hoac-lam-o-xe-thue-cach-bao-cua-hang-va-ghi-lai-hien-truong/).
+Nếu thấy bất cứ điểm nào bất thường, chụp thêm ảnh, báo lại cho cửa hàng và đợi hướng dẫn. Với các vết xước, vết lõm nhỏ, cách ghi chú và trao đổi khi trả xe có thể tham khảo bài [làm xước hoặc làm đổ xe thuê](/thue-xe/2026/10/12/lam-xuoc-hoac-lam-do-xe-thue-cach-bao-cua-hang-va-ghi-lai-hien-truong/).
 
 ## Đỗ xe thế nào trong mùa giông để giảm rủi ro
 

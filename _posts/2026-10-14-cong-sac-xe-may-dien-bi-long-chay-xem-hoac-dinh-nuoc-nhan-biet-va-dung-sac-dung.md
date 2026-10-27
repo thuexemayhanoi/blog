@@ -58,7 +58,7 @@ Những lúc cổng sạc dễ dính nước mà người thuê không để ý:
 - **Rửa xe.** Vòi xịt mạnh hướng thẳng vào khu vực cổng sạc.
 - **Mùa nồm.** Trời nồm ẩm cuối đông đầu xuân, hơi nước đọng trên mọi bề mặt kim loại kể cả trong nhà.
 
-Quy tắc đơn giản: **không cắm sạc khi cổng hoặc phích còn ướt**. Lau bên ngoài bằng khăn khô, mở nắp cho thoáng và để xe ở nơi khô ráo, có mái che cho đến khi khô hẳn. Không sấy nóng sát cổng, không xịt dung dịch lạ vào lỗ. Chưa chắc đã khô thì báo cửa hàng thay vì cắm thử. Những ảnh hưởng khác của mùa ẩm lên pin được nói trong bài [xe máy điện trời nồm ẩm](/xe-may/2026/10/03/xe-may-ien-troi-nom-am-pin-va-tiep-iem-can-e-y/).
+Quy tắc đơn giản: **không cắm sạc khi cổng hoặc phích còn ướt**. Lau bên ngoài bằng khăn khô, mở nắp cho thoáng và để xe ở nơi khô ráo, có mái che cho đến khi khô hẳn. Không sấy nóng sát cổng, không xịt dung dịch lạ vào lỗ. Chưa chắc đã khô thì báo cửa hàng thay vì cắm thử. Những ảnh hưởng khác của mùa ẩm lên pin được nói trong bài [xe máy điện trời nồm ẩm](/xe-may/2026/10/03/xe-may-dien-troi-nom-am-pin-va-tiep-diem-can-de-y/).
 
 ## Dừng sạc đúng thứ tự khi thấy dấu hiệu
 
@@ -69,7 +69,7 @@ Khi phát hiện một trong các dấu hiệu trên trong lúc đang sạc, là
 3. **Đẩy xe ra chỗ thoáng nếu còn mùi hoặc khói.** Tránh xa rèm, thùng giấy, xe khác. Nếu thấy khói nhiều hoặc lửa, rời khỏi khu vực và gọi người hỗ trợ, đừng tự dập bằng nước.
 4. **Chụp ảnh cổng sạc và phích.** Ảnh rõ nét giúp cửa hàng biết ngay tình trạng.
 
-Trường hợp pin cũng nóng, phồng hoặc có mùi, đọc thêm bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ](/xe-may/2026/10/11/pin-xe-ien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/) để biết cách xử lý phần pin.
+Trường hợp pin cũng nóng, phồng hoặc có mùi, đọc thêm bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ](/xe-may/2026/10/11/pin-xe-dien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/) để biết cách xử lý phần pin.
 
 ## Những việc không nên tự làm
 

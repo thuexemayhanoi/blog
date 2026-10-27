@@ -96,6 +96,6 @@ Chỗ đỗ cũ dễ bị nhắm lại. Cho những đêm còn lại của kỳ 
 - Đỗ ở chỗ sáng, trong tầm camera, đầu xe quay vào tường để gương khó bị vặn.
 - Không để mũ bảo hiểm, áo mưa hay đồ có giá trị trên xe qua đêm.
 
-Mẹo giữ phụ tùng có trong bài [chống trộm phụ tùng khi gửi xe qua đêm](/ky-nang/2026/10/03/chong-trom-phu-tung-khi-gui-xe-qua-em/).
+Mẹo giữ phụ tùng có trong bài [chống trộm phụ tùng khi gửi xe qua đêm](/ky-nang/2026/10/03/chong-trom-phu-tung-khi-gui-xe-qua-dem/).
 
 Phát hiện xe thuê bị tháo trộm phụ kiện, hãy nhớ thứ tự: kiểm tra an toàn, chụp ảnh, hỏi người xung quanh, báo cửa hàng rồi mới tính chuyện sửa, và trình báo khi cần. Các tình huống khác trong kỳ thuê được gom ở mục [sự cố khi thuê xe](/thue-xe/su-co/), còn kinh nghiệm thuê xe máy ở Hà Nội nói chung nằm trong chuyên mục [thuê xe](/thue-xe/).

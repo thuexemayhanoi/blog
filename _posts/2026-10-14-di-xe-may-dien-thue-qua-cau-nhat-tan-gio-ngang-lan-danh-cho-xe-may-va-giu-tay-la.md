@@ -27,7 +27,7 @@ Quãng đi từ khu hồ Tây lên cầu, chạy hết thân cầu rồi xuống
 - **Đừng lên cầu khi pin đã báo vạch cuối.** Lên dốc cầu và chạy ngược gió đều làm pin tụt nhanh hơn chạy phố bằng phẳng.
 - **Hỏi tiệm về chỗ sạc trước khi đi.** Lúc nhận xe, hỏi rõ xe sạc mất bao lâu và nên sạc ở đâu nếu phải nạp thêm giữa chuyến.
 
-Cách ước lượng quãng đường theo từng mức pin đã có trong bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-uong-mot-lan-sac-cua-xe-may-ien/), nên ở đây chỉ nhắc một ý: với chuyến qua sông, hãy để dư nhiều hơn mức bạn vẫn dư khi đi trong nội thành.
+Cách ước lượng quãng đường theo từng mức pin đã có trong bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-duong-mot-lan-sac-cua-xe-may-dien/), nên ở đây chỉ nhắc một ý: với chuyến qua sông, hãy để dư nhiều hơn mức bạn vẫn dư khi đi trong nội thành.
 
 ## Làn dành cho xe máy: đi sát lề phải theo vạch và biển báo
 
@@ -39,7 +39,7 @@ Khi vào làn:
 2. **Giữ khoảng cách với xe phía trước.** Xe điện tăng tốc nhanh khi vặn ga, nên rất dễ bám sát đuôi người khác mà không nhận ra.
 3. **Không lấn sang làn ô tô để vượt.** Nếu muốn vượt, chỉ vượt khi làn xe máy đủ rộng và người phía trước đã đi ổn định.
 
-Thông tin về đường đi lên cầu từ trung tâm, chỗ gửi xe và điểm dừng hai đầu cầu được viết riêng trong bài [đến cầu Nhật Tân bằng xe máy](/du-lich/2026/10/04/en-cau-nhat-tan-bang-xe-may-uong-i-va-luu-y-chay-tren-cau/).
+Thông tin về đường đi lên cầu từ trung tâm, chỗ gửi xe và điểm dừng hai đầu cầu được viết riêng trong bài [đến cầu Nhật Tân bằng xe máy](/du-lich/2026/10/04/den-cau-nhat-tan-bang-xe-may-duong-di-va-luu-y-chay-tren-cau/).
 
 ## Gió ngang trên cầu đi xe máy: vì sao xe điện thấy chao hơn
 
@@ -58,7 +58,7 @@ Phản xạ tự nhiên khi bị gió đẩy là gồng cứng hai tay, nhưng l
 - **Giữ ga đều, không bóp phanh gấp.** Tốc độ ổn định giúp xe giữ hướng tốt hơn. Bóp phanh mạnh lúc bị gió đẩy dễ làm xe lắc thêm.
 - **Chừa khoảng trống với mép cầu và xe bên cạnh.** Gió có thể đẩy bạn lệch vài gang tay, nên đừng chạy sát rào chắn hay sát người đi song song.
 
-Khi xe tải hoặc xe khách lớn chạy ở làn bên cạnh, có một khoảnh khắc gió bị thân xe che rồi ập lại ngay sau đó. Hãy chuẩn bị tinh thần trước khi chúng vượt lên. Bài [gió lớn và cơn giông giữa đường](/ky-nang/2026-09-29/gio-lon-va-con-giong-giua-uong/) có thêm cách xử lý khi gió chuyển thành giông.
+Khi xe tải hoặc xe khách lớn chạy ở làn bên cạnh, có một khoảnh khắc gió bị thân xe che rồi ập lại ngay sau đó. Hãy chuẩn bị tinh thần trước khi chúng vượt lên. Bài [gió lớn và cơn giông giữa đường](/ky-nang/2026-09-29/gio-lon-va-con-giong-giua-duong/) có thêm cách xử lý khi gió chuyển thành giông.
 
 ## Không dừng xe chụp ảnh trên cầu
 

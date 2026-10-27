@@ -61,12 +61,12 @@ Giông thường qua nhanh hơn mưa dầm. Hãy đợi tới khi gió dịu h�
 - **Cành cây gãy còn mắc trên tán.** Nhìn lên trước khi đi qua dưới hàng cây, những cành treo lơ lửng có thể rơi bất cứ lúc nào.
 - **Dây điện đứt hoặc võng thấp.** Tuyệt đối không chạm vào, không cho xe cán qua, quay đầu tìm đường khác.
 - **Lá, cát, mảnh vỡ trên mặt đường.** Mặt đường trơn hơn bình thường, phanh sớm và nhẹ.
-- **Đoạn đường ngập.** Nếu nước đã dâng, đọc thêm bài [đường ngập sau mưa lớn ở Hà Nội](/thue-xe/2026/10/12/uong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-uoc/) để quyết định có nên đi qua hay không.
+- **Đoạn đường ngập.** Nếu nước đã dâng, đọc thêm bài [đường ngập sau mưa lớn ở Hà Nội](/thue-xe/2026/10/12/duong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-duoc/) để quyết định có nên đi qua hay không.
 
-Nếu có người bị thương hoặc cây đổ chắn ngang đường, ưu tiên gọi cấp cứu và báo cơ quan chức năng trước, theo hướng dẫn trong bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/).
+Nếu có người bị thương hoặc cây đổ chắn ngang đường, ưu tiên gọi cấp cứu và báo cơ quan chức năng trước, theo hướng dẫn trong bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/).
 
 ## Xe thuê sau cơn giông: kiểm tra nhanh và báo cửa hàng
 
-Trước khi chạy tiếp, dành một phút nhìn lại chiếc xe: gương có bị lệch không, phanh trước và sau còn ăn đều không, đèn còn sáng không, có tiếng lạ khi nổ máy không. Nếu xe bị đổ trong lúc bạn trú, hoặc bị cành cây quẹt vào, chụp vài tấm ảnh rõ vết và nhắn cho cửa hàng trước khi tự xử lý. Nếu xe không chạy được, việc đổi xe hay hỗ trợ nhận xe chỉ diễn ra trong giờ mở cửa từ 09:00 đến 21:00, và thời gian, chi phí cần được xác nhận trước. Những kinh nghiệm trú mưa nói chung có thêm trong bài [chạy xe máy khi mưa lớn ở Hà Nội](/ky-nang/2026/09/30/chay-xe-may-khi-mua-lon-o-ha-noi-tru-au-va-luu-y-gi/).
+Trước khi chạy tiếp, dành một phút nhìn lại chiếc xe: gương có bị lệch không, phanh trước và sau còn ăn đều không, đèn còn sáng không, có tiếng lạ khi nổ máy không. Nếu xe bị đổ trong lúc bạn trú, hoặc bị cành cây quẹt vào, chụp vài tấm ảnh rõ vết và nhắn cho cửa hàng trước khi tự xử lý. Nếu xe không chạy được, việc đổi xe hay hỗ trợ nhận xe chỉ diễn ra trong giờ mở cửa từ 09:00 đến 21:00, và thời gian, chi phí cần được xác nhận trước. Những kinh nghiệm trú mưa nói chung có thêm trong bài [chạy xe máy khi mưa lớn ở Hà Nội](/ky-nang/2026/09/30/chay-xe-may-khi-mua-lon-o-ha-noi-tru-dau-va-luu-y-gi/).
 
 Gặp giông khi đang chạy xe, hãy nhớ ba việc: giảm tốc và rời làn sớm, trú trong công trình kiên cố thay vì dưới gốc cây hay biển quảng cáo, và chỉ đi tiếp khi gió đã dịu. Các tình huống khác khi xe thuê gặp trục trặc được tập hợp ở mục [sự cố khi thuê xe](/thue-xe/su-co/), còn mọi kinh nghiệm thuê và sử dụng xe máy ở Hà Nội nằm trong chuyên mục [thuê xe](/thue-xe/).

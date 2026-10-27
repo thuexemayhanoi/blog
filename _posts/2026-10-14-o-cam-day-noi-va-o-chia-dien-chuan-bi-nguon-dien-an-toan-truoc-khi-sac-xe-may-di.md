@@ -32,7 +32,7 @@ Nguyên tắc đầu tiên: cắm bộ sạc trực tiếp vào một ổ tườ
 - **Có vết cháy sém, ố vàng hay chảy nhựa không.** Những vệt đen quanh lỗ cắm là dấu hiệu ổ từng bị nóng quá mức. Đừng dùng ổ đó để sạc xe.
 - **Ổ có ở chỗ khô ráo không.** Tránh ổ sát bồn rửa, cạnh cửa sổ hắt mưa hay gần nền nhà hay đọng nước khi lau.
 
-Nếu trong nhà không có ổ nào đạt, hãy báo chủ nhà hoặc chủ trọ để sửa trước, đừng cố dùng tạm. Với người ở trọ, bài [xe máy điện thuê theo tháng khi ở trọ](/thue-xe/2026/10/11/xe-may-ien-thue-theo-thang-khi-o-tro-cho-sac-an-toan-va-quang-uong/) có gợi ý cách thỏa thuận chỗ sạc với chủ nhà ngay từ đầu.
+Nếu trong nhà không có ổ nào đạt, hãy báo chủ nhà hoặc chủ trọ để sửa trước, đừng cố dùng tạm. Với người ở trọ, bài [xe máy điện thuê theo tháng khi ở trọ](/thue-xe/2026/10/11/xe-may-dien-thue-theo-thang-khi-o-tro-cho-sac-an-toan-va-quang-duong/) có gợi ý cách thỏa thuận chỗ sạc với chủ nhà ngay từ đầu.
 
 ## Dây nối dài và ổ chia điện: khi nào nên tránh
 
@@ -54,13 +54,13 @@ Ngoài ổ cắm, vị trí sạc cũng quyết định độ an toàn:
 - **Xa vật dễ cháy.** Thùng giấy, rèm cửa, can xăng của xe khác, chăn ga đều nên để cách xa.
 - **Dây sạc không vắt ngang lối đi.** Người vấp vào dây có thể giật bung phích, làm hỏng cả ổ.
 
-Nếu buộc phải sạc buổi tối, hãy tính giờ để xe đầy trước khi đi ngủ. Bài [sạc pin qua đêm nơi trọ: an toàn thế nào](/xe-may/2026/10/03/sac-pin-qua-em-noi-tro-an-toan-the-nao/) bàn riêng về thói quen sạc ban đêm.
+Nếu buộc phải sạc buổi tối, hãy tính giờ để xe đầy trước khi đi ngủ. Bài [sạc pin qua đêm nơi trọ: an toàn thế nào](/xe-may/2026/10/03/sac-pin-qua-dem-noi-tro-an-toan-the-nao/) bàn riêng về thói quen sạc ban đêm.
 
 ## Dùng đúng bộ sạc theo xe và rút sạc khi đầy
 
 Bộ sạc đi kèm xe được thiết kế cho đúng loại pin của xe đó. Đừng mượn bộ sạc của xe khác, kể cả khi đầu cắm trông vừa, và đừng tự mua bộ sạc trôi nổi để thay. Nếu bộ sạc bị nứt vỏ, dây bị dập hay đèn báo hoạt động lạ, hãy báo tiệm để được đổi đúng loại.
 
-Trong lúc sạc, thỉnh thoảng sờ thử phích cắm và thân bộ sạc. Ấm là bình thường, nóng đến mức không cầm lâu được là bất thường. Khi đó rút phích ở ổ tường trước, sau đó mới kiểm tra. Nếu pin hoặc thân xe có mùi lạ, phồng hay nóng bất thường, làm theo bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ](/xe-may/2026/10/11/pin-xe-ien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/).
+Trong lúc sạc, thỉnh thoảng sờ thử phích cắm và thân bộ sạc. Ấm là bình thường, nóng đến mức không cầm lâu được là bất thường. Khi đó rút phích ở ổ tường trước, sau đó mới kiểm tra. Nếu pin hoặc thân xe có mùi lạ, phồng hay nóng bất thường, làm theo bài [pin xe điện nóng bất thường, phồng hoặc có mùi lạ](/xe-may/2026/10/11/pin-xe-dien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/).
 
 Khi pin đã đầy, rút sạc. Để bộ sạc cắm mãi vào ổ không giúp pin tốt hơn mà chỉ kéo dài thời gian ổ cắm và dây phải làm việc.
 

@@ -27,7 +27,7 @@ Vài việc nên làm ngay lúc nhận xe:
 - **Mang sạc dự phòng đã đầy cùng dây sạc.** Đây là món đồ quan trọng nhất của chuyến đi xa.
 - **Tải trước bản đồ ngoại tuyến** khu vực Sơn Tây, Ba Vì hoặc Sóc Sơn trên Google Maps, phòng khi sóng yếu ở đoạn đường núi.
 
-Về tuyến đường, Ba Vì thường đi theo quốc lộ 32 qua Nhổn, Phùng rồi Sơn Tây. Sóc Sơn có thể đi quốc lộ 3, hoặc qua cầu Nhật Tân rồi theo đường Võ Nguyên Giáp, nơi xe máy chạy làn riêng. Gợi ý lộ trình có trong bài [Hà Nội đi Ba Vì cuối tuần bằng xe máy](/cung-duong/2026/09/28/ha-noi-i-ba-vi-cuoi-tuan-bang-xe-may/) và bài [Sóc Sơn và hồ Đồng Đò chạy xe tránh xa phố](/du-lich/2026/09/28/soc-son-va-ho-ong-o-chay-xe-tranh-xa-pho/).
+Về tuyến đường, Ba Vì thường đi theo quốc lộ 32 qua Nhổn, Phùng rồi Sơn Tây. Sóc Sơn có thể đi quốc lộ 3, hoặc qua cầu Nhật Tân rồi theo đường Võ Nguyên Giáp, nơi xe máy chạy làn riêng. Gợi ý lộ trình có trong bài [Hà Nội đi Ba Vì cuối tuần bằng xe máy](/cung-duong/2026/09/28/ha-noi-di-ba-vi-cuoi-tuan-bang-xe-may/) và bài [Sóc Sơn và hồ Đồng Đò chạy xe tránh xa phố](/du-lich/2026/09/28/soc-son-va-ho-dong-do-chay-xe-tranh-xa-pho/).
 
 ## Xe máy hỏng khi đi Ba Vì: báo cửa hàng trước khi tìm thợ
 

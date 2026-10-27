@@ -19,7 +19,7 @@ Nhiều khách vừa nhận chiếc Wave thuê đã hỏi ngay: đi Wave số m�
 
 ## Wave có mấy số và cần biết gì trước khi chọn
 
-Đa số đời Wave phổ thông, trong đó có Wave Alpha mà các tiệm hay cho thuê, có 4 số tiến và một số mo (số không). Một vài đời xe hoặc bản khác có thể khác đôi chút, nên lúc nhận xe hãy hỏi cửa hàng chiếc của mình có mấy số và cần số sắp xếp ra sao. Nếu chưa chắc mình đang đi bản nào, bài [nhận biết Wave Alpha hay Wave RSX qua phanh và vành](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-ang-thue-qua-phanh-va-vanh/) giúp bạn nhìn ra trong vài phút.
+Đa số đời Wave phổ thông, trong đó có Wave Alpha mà các tiệm hay cho thuê, có 4 số tiến và một số mo (số không). Một vài đời xe hoặc bản khác có thể khác đôi chút, nên lúc nhận xe hãy hỏi cửa hàng chiếc của mình có mấy số và cần số sắp xếp ra sao. Nếu chưa chắc mình đang đi bản nào, bài [nhận biết Wave Alpha hay Wave RSX qua phanh và vành](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-dang-thue-qua-phanh-va-vanh/) giúp bạn nhìn ra trong vài phút.
 
 Ba điều nên nắm trước:
 
@@ -39,7 +39,7 @@ Cách chọn số khi tắc:
 2. **Dòng xe chạy chậm đều: số 2.** Khi xe phía trước đã chuyển động đều nhưng chưa thoáng hẳn, lên số 2. Đây là số hợp nhất cho cảnh đường đông mà chưa đứng hẳn.
 3. **Đừng vội lên số 3.** Chỉ cần thấy phía trước lại đỏ đèn phanh, cứ giữ số 2. Lên số 3 rồi phải về lại ngay chỉ làm bạn mỏi chân và xe giật.
 
-Khi dừng hẳn, về số mo hay giữ số 1 bóp phanh đều có lý; bài [dừng đèn đỏ bằng xe số: về số mo hay giữ số 1](/xe-may/2026/10/11/dung-en-o-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-en-xanh/) so sánh chi tiết. Điều quan trọng là khởi hành lại luôn từ số 1, không bao giờ từ số 2 hay số 3.
+Khi dừng hẳn, về số mo hay giữ số 1 bóp phanh đều có lý; bài [dừng đèn đỏ bằng xe số: về số mo hay giữ số 1](/xe-may/2026/10/11/dung-den-do-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-den-xanh/) so sánh chi tiết. Điều quan trọng là khởi hành lại luôn từ số 1, không bao giờ từ số 2 hay số 3.
 
 ## Phố thoáng trong nội thành: số 3 là số làm việc
 

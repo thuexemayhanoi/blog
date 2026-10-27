@@ -65,7 +65,7 @@ Nếu sau đó vẫn không tìm thấy xe, tình huống đã chuyển sang m�
 
 **Phố đi bộ Hồ Gươm tối cuối tuần.** Các điểm giữ xe nằm rải rác trong ngõ và trên các phố quanh hồ như Hàng Khay, Đinh Tiên Hoàng, Lê Thái Tổ, nhiều chỗ chỉ là một khoảng vỉa hè hoặc sân nhà. Ghi lại tên phố, số nhà gần nhất, hoặc chụp ảnh biển hiệu của điểm giữ xe. Đi dạo một vòng hồ xong rất dễ quên mình gửi ở phía nào.
 
-Ở những nơi này, mẹo nhỏ về vé xe ở bãi đông người cũng rất hữu ích, xem thêm bài [gửi xe máy khi đi hội chợ đông người](/ky-nang/2026/10/11/gui-xe-may-khi-i-hoi-cho-ong-nguoi-tranh-nham-ve-xe/).
+Ở những nơi này, mẹo nhỏ về vé xe ở bãi đông người cũng rất hữu ích, xem thêm bài [gửi xe máy khi đi hội chợ đông người](/ky-nang/2026/10/11/gui-xe-may-khi-di-hoi-cho-dong-nguoi-tranh-nham-ve-xe/).
 
 ## Báo cửa hàng thế nào cho gọn
 

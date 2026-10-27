@@ -58,9 +58,9 @@ Cách chắc nhất là hỏi người giao xe ba câu:
 - Đang sạc bình thường thì đèn hiện thế nào?
 - Khi pin đầy và khi có lỗi thì đèn đổi ra sao?
 
-Nhờ họ cắm thử để bạn chụp ảnh hoặc quay một đoạn ngắn từng trạng thái. Tối đó chỉ cần so với ảnh là biết sạc đang chạy hay không. Biểu tượng pin trên đồng hồ xe là chuyện khác, xem bài [đèn báo lỗi và biểu tượng trên đồng hồ xe máy điện](/xe-may/2026/10/11/en-bao-loi-va-bieu-tuong-tren-ong-ho-xe-may-ien-oc-the-nao/).
+Nhờ họ cắm thử để bạn chụp ảnh hoặc quay một đoạn ngắn từng trạng thái. Tối đó chỉ cần so với ảnh là biết sạc đang chạy hay không. Biểu tượng pin trên đồng hồ xe là chuyện khác, xem bài [đèn báo lỗi và biểu tượng trên đồng hồ xe máy điện](/xe-may/2026/10/11/den-bao-loi-va-bieu-tuong-tren-dong-ho-xe-may-dien-doc-the-nao/).
 
-Rút sạc và gọi cửa hàng nếu cục sạc nóng tới mức không đặt tay lâu được, có mùi khét, có tiếng rít hay lách tách, hoặc đèn chớp kiểu chưa từng thấy lúc thử ở quầy. Nếu xe hoàn toàn không nhận sạc, làm theo bài [xe điện không nhận sạc: các bước kiểm tra ban đầu](/xe-may/2026/10/04/xe-ien-khong-nhan-sac-cac-buoc-kiem-tra-ban-au/).
+Rút sạc và gọi cửa hàng nếu cục sạc nóng tới mức không đặt tay lâu được, có mùi khét, có tiếng rít hay lách tách, hoặc đèn chớp kiểu chưa từng thấy lúc thử ở quầy. Nếu xe hoàn toàn không nhận sạc, làm theo bài [xe điện không nhận sạc: các bước kiểm tra ban đầu](/xe-may/2026/10/04/xe-dien-khong-nhan-sac-cac-buoc-kiem-tra-ban-dau/).
 
 ## Vì sao không dùng sạc khác loại cho xe điện
 
@@ -68,7 +68,7 @@ Lỗi này thường xuất phát từ ý tốt: để quên sạc ở chỗ là
 
 **Điện áp có thể không khớp.** Pin xe điện có nhiều mức điện áp tùy mẫu, và hai đầu cắm giống nhau không có nghĩa là hai bộ sạc cho ra cùng điện áp. Sạc cao hơn mức thiết kế có thể làm pin quá nóng; thấp hơn thì pin không đầy hoặc mạch bảo vệ ngắt liên tục.
 
-**Loại pin khác thì cách sạc khác.** Pin lithium và ắc quy chì cần quy trình sạc riêng, kể cả cách giảm dòng khi gần đầy, nên sạc của loại này cắm vào loại kia có thể không dừng đúng lúc. Xem thêm bài [pin lithium hay ắc quy chì trên xe điện](/xe-may/2026/10/11/pin-lithium-hay-ac-quy-chi-tren-xe-ien-khac-gi-khi-thue-i-lai/).
+**Loại pin khác thì cách sạc khác.** Pin lithium và ắc quy chì cần quy trình sạc riêng, kể cả cách giảm dòng khi gần đầy, nên sạc của loại này cắm vào loại kia có thể không dừng đúng lúc. Xem thêm bài [pin lithium hay ắc quy chì trên xe điện](/xe-may/2026/10/11/pin-lithium-hay-ac-quy-chi-tren-xe-dien-khac-gi-khi-thue-di-lai/).
 
 **Thứ tự chân cắm có thể khác.** Có những đầu cắm cùng kích cỡ nhưng chân dương, âm, tín hiệu bố trí khác nhau giữa các hãng. Cắm nhầm có thể làm hỏng mạch quản lý pin ngay.
 
@@ -83,7 +83,7 @@ Cũng vì vậy, đừng mua một bộ sạc trôi nổi để dùng tạm, dù
 - **Khi sạc, đặt cục sạc trên mặt phẳng cứng, thoáng**, không đặt trên đệm, chăn hay trong hộc kín.
 - **Rút bằng cách cầm phích và đầu cắm**, không giật dây.
 
-Lưu ý chung khi sạc trong phòng có ở bài [sạc pin qua đêm nơi trọ: an toàn thế nào](/xe-may/2026/10/03/sac-pin-qua-em-noi-tro-an-toan-the-nao/).
+Lưu ý chung khi sạc trong phòng có ở bài [sạc pin qua đêm nơi trọ: an toàn thế nào](/xe-may/2026/10/03/sac-pin-qua-dem-noi-tro-an-toan-the-nao/).
 
 ## Khi bộ sạc hỏng hoặc thất lạc giữa kỳ thuê
 

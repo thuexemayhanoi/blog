@@ -90,6 +90,6 @@ Nếu thuê xe dài ngày, thói quen [chăm xe trong suốt tuần thuê](/thue
 
 ## Khi trả xe
 
-Lúc trả xe, chủ động nhắc lại chuyện vết bẩn dù đã nhắn trước, chỉ những chỗ còn vết và cho xem ảnh. Kiểm tra xe cùng nhau theo đúng [quy trình trả xe để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/) giúp hai bên thống nhất nhanh.
+Lúc trả xe, chủ động nhắc lại chuyện vết bẩn dù đã nhắn trước, chỉ những chỗ còn vết và cho xem ảnh. Kiểm tra xe cùng nhau theo đúng [quy trình trả xe để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/) giúp hai bên thống nhất nhanh.
 
 Tóm lại, gặp cảnh xe máy dính nhựa đường hay vữa công trình, hãy kiểm tra lốp, phanh và đèn trước, chỉ làm sạch nhẹ bằng nước và khăn mềm, không dùng dung môi hay vật sắc, rồi báo cửa hàng sớm kèm ảnh. Những tình huống phát sinh khác được tổng hợp ở mục [sự cố khi thuê xe](/thue-xe/su-co/), còn mọi thông tin về thuê xe máy ở Hà Nội nằm trong chuyên mục [thuê xe](/thue-xe/).

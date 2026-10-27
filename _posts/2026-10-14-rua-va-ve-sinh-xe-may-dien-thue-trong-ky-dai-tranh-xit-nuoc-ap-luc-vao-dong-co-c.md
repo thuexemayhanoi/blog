@@ -27,7 +27,7 @@ Có ba khu vực cần nhớ:
 - **Cổng sạc.** Thường nằm dưới yên, trong cốp hoặc ở thân xe, có nắp cao su đậy. Nước đọng trong cổng sạc rồi cắm sạc ngay là tình huống cần tránh nhất.
 - **Hộp pin và bộ điều khiển.** Pin nằm dưới sàn để chân hoặc dưới yên, các giắc nối ở đây không nên ngấm nước.
 
-Nếu xe vừa chạy qua đoạn ngập, hãy đọc thêm bài [xe máy điện chạy trời mưa lớn có bị chập không](/xe-may/2026/10/05/xe-may-ien-chay-troi-mua-lon-co-bi-chap-khong/) để biết dấu hiệu cần báo cửa hàng.
+Nếu xe vừa chạy qua đoạn ngập, hãy đọc thêm bài [xe máy điện chạy trời mưa lớn có bị chập không](/xe-may/2026/10/05/xe-may-dien-chay-troi-mua-lon-co-bi-chap-khong/) để biết dấu hiệu cần báo cửa hàng.
 
 ## Chuẩn bị trước khi vệ sinh xe điện thuê
 
@@ -68,7 +68,7 @@ Cổng sạc chỉ cần lau bên ngoài nắp đậy. Nếu nhìn thấy bụi 
 
 Lau khô toàn bộ bằng khăn khô, nhất là quanh nắp cổng sạc, chân chống và mép sàn để chân. Để xe ráo ít nhất một lúc, nơi thoáng khí, trước khi cắm sạc lại.
 
-Khi bật nguồn, xem màn hình có báo lỗi lạ không, đèn, còi, xi nhan có hoạt động bình thường không. Chạy thử chậm trong ngõ, bóp phanh vài lần. Nếu thấy mùi khét, tiếng kêu lạ ở bánh sau hoặc xe không nhận sạc, ngừng sử dụng và báo cửa hàng ngay. Các bước kiểm tra cơ bản khi sạc không vào có trong bài [xe điện không nhận sạc: các bước kiểm tra ban đầu](/xe-may/2026/10/04/xe-ien-khong-nhan-sac-cac-buoc-kiem-tra-ban-au/).
+Khi bật nguồn, xem màn hình có báo lỗi lạ không, đèn, còi, xi nhan có hoạt động bình thường không. Chạy thử chậm trong ngõ, bóp phanh vài lần. Nếu thấy mùi khét, tiếng kêu lạ ở bánh sau hoặc xe không nhận sạc, ngừng sử dụng và báo cửa hàng ngay. Các bước kiểm tra cơ bản khi sạc không vào có trong bài [xe điện không nhận sạc: các bước kiểm tra ban đầu](/xe-may/2026/10/04/xe-dien-khong-nhan-sac-cac-buoc-kiem-tra-ban-dau/).
 
 ## Mang ra tiệm rửa: hỏi cửa hàng cho thuê trước
 
@@ -87,7 +87,7 @@ Không cần lau xe hằng ngày. Một nhịp hợp lý cho người thuê xe �
 
 - **Sau mỗi trận mưa lớn hoặc chạy qua đoạn bùn:** lau nhanh bánh xe, vè, sàn để chân trong ngày, để bùn không khô cứng.
 - **Mỗi tuần một lần:** lau toàn bộ theo các bước trên, kiểm tra nắp cổng sạc còn đậy kín.
-- **Mùa nồm ẩm:** ưu tiên lau khô, xem thêm bài [xe máy điện trời nồm ẩm: pin và tiếp điểm cần để ý](/xe-may/2026/10/03/xe-may-ien-troi-nom-am-pin-va-tiep-iem-can-e-y/).
+- **Mùa nồm ẩm:** ưu tiên lau khô, xem thêm bài [xe máy điện trời nồm ẩm: pin và tiếp điểm cần để ý](/xe-may/2026/10/03/xe-may-dien-troi-nom-am-pin-va-tiep-diem-can-de-y/).
 
 Dựng xe chỗ có mái che và đi chậm qua đoạn thi công trên đường Ngọc Lâm để đỡ phải rửa.
 

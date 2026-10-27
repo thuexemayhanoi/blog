@@ -46,7 +46,7 @@ Khi đã dừng, việc đầu tiên là làm cho xe và người dễ nhìn th�
 - **Không xuống mái đê trong bóng tối.** Mái đê dốc, cỏ ướt và trơn, có khi lẫn rác hoặc đá. Một cú trượt chân lúc này nguy hiểm hơn chuyện xe hỏng.
 - **Mặc áo sáng màu hoặc dùng đèn điện thoại.** Khi có xe tới gần, có thể giơ đèn ở tầm thấp để người lái nhận ra có người đứng ven đường.
 
-Đừng ngồi xổm cạnh bánh xe phía làn đường để xem lỗi. Nếu muốn kiểm tra nhanh xăng, công tắc ngắt máy hay đèn báo, hãy làm từ phía lề. Cách kiểm tra theo thứ tự đã có trong bài [xe máy thuê chết máy giữa đêm](/thue-xe/2026/10/11/xe-may-thue-chet-may-giua-em-kiem-tra-theo-thu-tu/).
+Đừng ngồi xổm cạnh bánh xe phía làn đường để xem lỗi. Nếu muốn kiểm tra nhanh xăng, công tắc ngắt máy hay đèn báo, hãy làm từ phía lề. Cách kiểm tra theo thứ tự đã có trong bài [xe máy thuê chết máy giữa đêm](/thue-xe/2026/10/11/xe-may-thue-chet-may-giua-dem-kiem-tra-theo-thu-tu/).
 
 ## Báo cửa hàng và người quen: nói rõ đang ở đoạn đê nào
 
@@ -68,11 +68,11 @@ Thời gian chờ trên đê buổi tối có thể kéo dài. Giữ những ngu
 - **Không nên** nhận lời người lạ đề nghị kéo xe hay chở xe đi khi chưa hỏi cửa hàng.
 - **Không nên** để người đi cùng đứng rải rác trên lề. Cả nhóm đứng gọn một chỗ, phía trong.
 
-Nếu có người bị thương, có va chạm, hay bạn cảm thấy bị đe dọa, đừng chờ cửa hàng. Gọi ngay số khẩn cấp phù hợp; bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/) giải thích khi nào gọi 113, 114 hay 115.
+Nếu có người bị thương, có va chạm, hay bạn cảm thấy bị đe dọa, đừng chờ cửa hàng. Gọi ngay số khẩn cấp phù hợp; bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/) giải thích khi nào gọi 113, 114 hay 115.
 
 ## Phòng trước cho những chuyến đi đê buổi tối
 
-Nhiều người chọn đường đê để tránh kẹt xe trong phố, và đó là lựa chọn hợp lý. Chỉ cần thêm vài thói quen nhỏ. Kiểm tra xăng trước khi lên đê, vì trên một số đoạn cây xăng khá thưa. Thử đèn pha, đèn hậu và còi khi nhận xe. Sạc đầy điện thoại trước chuyến đi tối. Nếu chưa quen tuyến, chạy thử ban ngày một lần để nhớ các lối rẽ và chỗ sáng. Gợi ý lộ trình và điểm dừng có trong bài [đường đê sông Hồng chạy xe ngoại thành](/du-lich/2026/09/28/uong-e-song-hong-chay-xe-ngoai-thanh/).
+Nhiều người chọn đường đê để tránh kẹt xe trong phố, và đó là lựa chọn hợp lý. Chỉ cần thêm vài thói quen nhỏ. Kiểm tra xăng trước khi lên đê, vì trên một số đoạn cây xăng khá thưa. Thử đèn pha, đèn hậu và còi khi nhận xe. Sạc đầy điện thoại trước chuyến đi tối. Nếu chưa quen tuyến, chạy thử ban ngày một lần để nhớ các lối rẽ và chỗ sáng. Gợi ý lộ trình và điểm dừng có trong bài [đường đê sông Hồng chạy xe ngoại thành](/du-lich/2026/09/28/duong-de-song-hong-chay-xe-ngoai-thanh/).
 
 ## Kết lại
 
