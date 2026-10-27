@@ -27,7 +27,7 @@ Nếu bạn chưa chắc cần mang loại giấy tờ gì, có thể đọc tr�
 
 Người lần đầu thường chỉ nghĩ đến chuyện xe, nhưng ba việc chuẩn bị quan trọng hơn. Thứ nhất, xác định rõ nhu cầu: đi trong thành phố hay chạy chặng dài quanh Hà Nội, thuê theo ngày hay theo tuần. Thứ hai, chọn dòng xe phù hợp: Honda Wave cho nhu cầu gọn nhẹ, Honda Vision hay Honda Air Blade nếu bạn thích xe ga. Thứ ba, chuẩn bị sẵn giấy tờ tùy thân còn hiệu lực. Khách quanh khu Bồ Đề, Long Biên có thể ghé trực tiếp 112 Nguyễn Văn Cừ để xem xe trước khi chốt.
 
-Về giá, bạn nên hỏi rõ mức theo kỳ hạn thay vì chỉ hỏi "thuê một ngày bao nhiêu". Ví dụ với Honda Vision, mức tham khảo theo ngày là 200.000 đồng, theo tuần từ 800.000 đến 1.000.000 đồng. Hỏi theo kỳ hạn giúp bạn so sánh đúng khi chuyến đi kéo dài. Mức giá niêm yết chi tiết cho từng dòng xe nằm tại [bảng giá](/bang-gia/).
+Về giá, bạn nên hỏi rõ mức theo kỳ hạn thay vì chỉ hỏi "thuê một ngày bao nhiêu". Ví dụ với Honda Vision, mức tham khảo theo ngày là 200.000 đồng, theo tuần 1.000.000 đồng. Hỏi theo kỳ hạn giúp bạn so sánh đúng khi chuyến đi kéo dài. Mức giá niêm yết chi tiết cho từng dòng xe nằm tại [bảng giá](/bang-gia/).
 
 ## Các bước thuê xe nếu bạn thuê hộ người quen
 

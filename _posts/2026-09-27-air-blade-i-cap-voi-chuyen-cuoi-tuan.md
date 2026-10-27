@@ -19,7 +19,7 @@ Chuyến đi cuối tuần quanh Hà Nội không cần xe máy lớn: một chi
 
 Air Blade là dòng xe ga thể thao với máy nhạy, phanh đĩa trước và khung chắc, đúng nhóm tính cách cần cho đường trường ngắn và trung bình. Với các cung đi qua khu vực như Sơn Tây, Chương Mỹ, Ba Vì hoặc quanh Hồ Tây rồi ra các huyện ven, xe giữ tốc độ ổn định trên đường thoáng, vượt xe tải an toàn và xuống dốc bớt mỏi tay nhờ lực phanh đĩa rõ rệt. Ưu điểm thứ hai là dáng xe gọn: các cung cuối tuần quanh Hà Nội hay có đoạn ngõ nhỏ dẫn vào vườn, hồ câu hoặc khu nghỉ cuối tuần, xe gọn vào được chỗ mà xe máy lớn phải bỏ ngoài cổng.
 
-Ưu điểm thứ ba là mức giá thuê hợp túi: theo ngày phổ biến 200.000 đồng, theo tuần khoảng 800.000 đồng và theo tháng khoảng 1.400.000 đồng. Với chuyến hai ngày, thuê ngày vẫn rẻ hơn nhiều so với nhóm xe máy lớn, trong khi trải nghiệm đủ phần lớn nhu cầu của đường trường ngắn. Tổng hợp về dòng xe nằm ở [chủ đề Honda Air Blade](/xe-may/honda-air-blade/), còn gợi ý các cung phù hợp mỗi cuối tuần nằm ở [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/).
+Ưu điểm thứ ba là mức giá thuê hợp túi: theo ngày phổ biến 200.000 đồng, theo tuần khoảng 1.000.000 đồng và theo tháng khoảng 1.500.000 đồng. Với chuyến hai ngày, thuê ngày vẫn rẻ hơn nhiều so với nhóm xe máy lớn, trong khi trải nghiệm đủ phần lớn nhu cầu của đường trường ngắn. Tổng hợp về dòng xe nằm ở [chủ đề Honda Air Blade](/xe-may/honda-air-blade/), còn gợi ý các cung phù hợp mỗi cuối tuần nằm ở [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/).
 
 ## Chuẩn bị xe trước khi xuất phát sớm
 
@@ -35,7 +35,7 @@ Về thời gian, xuất phát sớm sáng thứ bảy hoặc chủ nhật giúp
 
 ## So Air Blade với các lựa chọn khác cho cuối tuần
 
-Nếu chuyến đi thuần phố cổ, các quán ăn quanh Hồ Gươm, xe ga phổ thông nhỏ gọn như Click hoặc Vision rẻ hơn và lách phố dễ hơn. Nếu cung xa, đèo nhiều, vượt tỉnh đều đặn, xe số như Wave lại nhỉnh về bền và tiết kiệm xăng. Air Blade đứng giữa: đủ thể thao cho đường thoáng, đủ tiện nghi cho phố, và đủ gọn cho ngõ vườn. Với người thuê một xe cho cả tuần đi làm lẫn hai ngày cuối tuần, đây thường là lựa chọn ít phải thỏa hiệp nhất.
+Nếu chuyến đi thuần phố cổ, các quán ăn quanh Hồ Gươm, xe ga phổ thông nhỏ gọn như Click rẻ hơn, còn Click hay Vision đều lách phố dễ hơn. Nếu cung xa, đèo nhiều, vượt tỉnh đều đặn, xe số như Wave lại nhỉnh về bền và tiết kiệm xăng. Air Blade đứng giữa: đủ thể thao cho đường thoáng, đủ tiện nghi cho phố, và đủ gọn cho ngõ vườn. Với người thuê một xe cho cả tuần đi làm lẫn hai ngày cuối tuần, đây thường là lựa chọn ít phải thỏa hiệp nhất.
 
 Cân nhắc cuối cùng là thời gian thuê: nếu bạn chỉ cần xe cho riêng hai ngày cuối tuần, thuê ngày gọn; nếu cả tuần đều dùng, hỏi giá tuần hoặc tháng để so trước khi nhận. Mọi mức giá trên cần xác nhận lại trực tiếp theo thời điểm thuê.
 

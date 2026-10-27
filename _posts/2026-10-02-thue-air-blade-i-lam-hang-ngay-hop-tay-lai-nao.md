@@ -34,7 +34,7 @@ Ai thích chạy khỏe, thêm đôi ba chuyến công việc xa vào cuối tu�
 
 ## Chi phí thuê Air Blade theo ngày, tuần và tháng
 
-Với người đi làm, thuê theo tháng thường hợp hơn tính theo ngày. Mức thuê Air Blade hiện tại là 200.000 đồng một ngày; thuê một tuần là 800.000 đồng; thuê theo tháng là 1.400.000 đồng. Tính nhanh sẽ thấy: nếu đi làm đủ các ngày trong tháng thì gói tháng rẻ hơn hẳn so với cộng dồn từng ngày. Với người chỉ cần xe vài tuần chờ xe chính sửa, gói tuần là điểm cân bằng.
+Với người đi làm, thuê theo tháng thường hợp hơn tính theo ngày. Mức thuê Air Blade hiện tại là 200.000 đồng một ngày; thuê một tuần là 1.000.000 đồng; thuê theo tháng là 1.500.000 đồng. Tính nhanh sẽ thấy: nếu đi làm đủ các ngày trong tháng thì gói tháng rẻ hơn hẳn so với cộng dồn từng ngày. Với người chỉ cần xe vài tuần chờ xe chính sửa, gói tuần là điểm cân bằng.
 
 Tiền đặt cọc cần xác nhận trực tiếp với chủ xe, vì mức cọc tùy dòng xe đời xe và cách thuê. Khi nhận xe nên hỏi rõ cọc đặt bằng tiền mặt hay chuyển khoản, và khi trả xe cọc được hoàn theo cách nào, mất bao lâu, để tránh hiểu lầm sau này.
 

@@ -33,7 +33,7 @@ Còn nhóm nào nên đứng giữa: khách đi phố nhưng muốn cảm giác 
 
 ## Giá thuê hai dòng xe khác nhau thế nào
 
-Trong bảng giá công khai, hai dòng xe này có đơn giá ngày như nhau là 200.000 đồng, nhưng các mốc dài hơn tách ra. Air Blade có giá tuần 800.000 đồng và giá tháng 1.400.000 đồng, trong khi giá tuần của Vision dao động từ 800.000 đến 1.000.000 đồng và giá tháng từ 1.800.000 đến 2.000.000 đồng tùy thời điểm. Nếu bạn định thuê dài ngày, khoảng cách theo tháng giữa hai dòng đáng để cân nhắc cùng với cảm giác lái, chứ không chỉ nhìn mỗi đơn giá ngày.
+Trong bảng giá công khai, hai dòng xe này có đơn giá ngày như nhau là 200.000 đồng, giá tuần cũng như nhau là 1.000.000 đồng, chỉ mốc tháng tách ra. Air Blade có giá tháng 1.500.000 đồng, trong khi giá tháng của Vision từ 1.800.000 đến 2.000.000 đồng. Nếu bạn định thuê dài ngày, khoảng cách theo tháng giữa hai dòng đáng để cân nhắc cùng với cảm giác lái, chứ không chỉ nhìn mỗi đơn giá ngày.
 
 Điều kiện xe thực tế cũng nên hỏi kèm: hai dòng đều được cửa hàng bảo dưỡng định kỳ, nhưng trước khi nhận, hãy thử phanh, xi nhan, còi và xem vỏ lốp. Mức xăng giao nhận, khoản bảo đảm cho từng dòng và giờ hoạt động nhận trả xe 09:00 đến 21:00 là ba điều cần chốt luôn trong cuộc gọi. Chi tiết bảng giá đầy đủ cho mọi dòng xe nằm trong trang [bảng giá thuê xe máy](/bang-gia/), còn các câu hỏi chọn xe khác được gom tại [hỏi đáp chọn xe](/hoi-dap/hoi-dap-chon-xe/).
 

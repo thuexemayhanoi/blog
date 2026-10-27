@@ -21,7 +21,7 @@ Trước khi so mẫu xe, hãy chốt ba tiêu chí. Tiêu chí thứ nhất là
 
 ## Nhóm xe ga cho nữ đi làm và giá thuê tham khảo
 
-Nhóm xe ga nhỏ gọn như Honda Click hoặc Yamaha Mio nhẹ, yên thấp và rất dễ lách trong phố, giá thuê khoảng 150.000 đồng một ngày, thuê tuần từ 600.000 - 700.000 đồng. Honda Vision rộng cốp hơn một chút, dáng xe thanh thoát phù hợp đi làm văn phòng, giá 200.000 đồng một ngày, tuần từ 800.000 - 1.000.000 đồng và tháng từ 1.800.000 - 2.000.000 đồng. Với nhu cầu đi xa hơn hoặc muốn xe mạnh mẽ, Honda Air Blade có giá 200.000 đồng một ngày, 800.000 đồng một tuần và 1.400.000 đồng một tháng. Đặc điểm chung của nhóm xe ga được tổng hợp tại trang [xe tay ga](/xe-may/xe-ga/), còn bảng giá đầy đủ theo ngày, tuần, tháng nằm ở trang [bảng giá](/bang-gia/).
+Nhóm xe ga nhỏ gọn như Honda Click hoặc Yamaha Mio nhẹ, yên thấp và rất dễ lách trong phố, giá thuê khoảng 150.000 đồng một ngày, thuê tuần 700.000 đồng. Honda Vision rộng cốp hơn một chút, dáng xe thanh thoát phù hợp đi làm văn phòng, giá 200.000 đồng một ngày, tuần 1.000.000 đồng và tháng từ 1.800.000 - 2.000.000 đồng. Với nhu cầu đi xa hơn hoặc muốn xe mạnh mẽ, Honda Air Blade có giá 200.000 đồng một ngày, 1.000.000 đồng một tuần và 1.500.000 đồng một tháng. Đặc điểm chung của nhóm xe ga được tổng hợp tại trang [xe tay ga](/xe-may/xe-ga/), còn bảng giá đầy đủ theo ngày, tuần, tháng nằm ở trang [bảng giá](/bang-gia/).
 
 Khi chọn giữa các mẫu, bạn cũng nên hỏi cửa hàng về năm đăng ký của xe và tình trạng bảo dưỡng gần nhất. Một chiếc xe ga đời mới, được bảo dưỡng đều, sẽ nhẹ máy hơn, ít hao xăng hơn và cho cảm giác yên tâm trọn vẹn, trong khi mẫu cũ hơn dù rẻ hơn chút ít lại có thể khiến bạn tốn công chạy lại cửa hàng nhiều lần giữa kỳ thuê. Với người đi làm, độ ổn định của xe quan trọng hơn mọi thông số quảng cáo, vì mỗi sáng xe phải nổ máy ngay ở lần bấm điện đầu tiên.
 
@@ -31,7 +31,7 @@ Hãy thử hình dung lịch trình thật của bạn: bảy giờ ra khỏi nh
 
 ## Thuê theo ngày, tuần hay tháng cho việc đi làm
 
-Nếu bạn đi làm đủ năm ngày một tuần thì thuê theo tuần hoặc tháng gần như luôn hợp hơn tính lẻ. Ví dụ nhóm xe ga nhỏ giá tuần từ 600.000 - 700.000 đồng, so với tính lẻ 150.000 đồng một ngày thì sau bốn đến năm ngày đã hòa vốn. Với Vision, gói tháng từ 1.800.000 - 2.000.000 đồng cân đối với người đã ổn định công việc và không muốn bỏ một khoản lớn mua xe mới. Quy định nhận xe, đặt cọc và hoàn tất hợp đồng theo tuần được mô tả tại trang [thuê xe theo tuần](/thue-xe/thue-tuan/), bạn nên đọc kỹ trước khi chốt. Nếu công việc hay thay đổi địa điểm, hãy chọn gói ngày hoặc tuần để linh hoạt hơn.
+Nếu bạn đi làm đủ năm ngày một tuần thì thuê theo tuần hoặc tháng gần như luôn hợp hơn tính lẻ. Ví dụ nhóm xe ga nhỏ giá tuần 700.000 đồng, so với tính lẻ 150.000 đồng một ngày thì sau khoảng năm ngày đã hòa vốn. Với Vision, gói tháng từ 1.800.000 - 2.000.000 đồng cân đối với người đã ổn định công việc và không muốn bỏ một khoản lớn mua xe mới. Quy định nhận xe, đặt cọc và hoàn tất hợp đồng theo tuần được mô tả tại trang [thuê xe theo tuần](/thue-xe/thue-tuan/), bạn nên đọc kỹ trước khi chốt. Nếu công việc hay thay đổi địa điểm, hãy chọn gói ngày hoặc tuần để linh hoạt hơn.
 
 ## Vài thói quen giúp chuyến đi làm an toàn hơn
 

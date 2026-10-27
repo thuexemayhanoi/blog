@@ -19,13 +19,13 @@ Khi lên kế hoạch cho một chuyến ngắn ngoài Hà Nội, việc dự to
 
 Chi phí thuê xe cho chuyến 3 ngày 2 đêm phụ thuộc trước hết vào dòng xe bạn chọn. Xe số Honda Wave có mức tham khảo 150.000 đồng mỗi ngày, phù hợp hành trình đường dài cần độ bền và tiết kiệm. Nhóm xe ga phổ biến như Honda Vision và Honda Air Blade có mức tham khảo 200.000 đồng mỗi ngày, tiện khi đi lại trong phố. Honda Click và Yamaha Mio có mức tham khảo 150.000 đồng mỗi ngày, tương đương nhóm xe số phổ thông.
 
-Cấu phần thứ hai là cách tính giá. Nếu thuê theo từng ngày, chi phí sẽ là số ngày nhân với mức giá ngày của dòng xe đó. Nếu chuyến của bạn có thể kéo dài, mức giá theo tuần thường có lợi hơn. Ví dụ nhóm Honda Click và Yamaha Mio có mức tham khảo theo tuần từ 600.000 đồng đến 700.000 đồng, trong khi nhóm Honda Vision có mức từ 800.000 đồng đến 1.000.000 đồng. Khung giá đầy đủ theo từng dòng xe được cập nhật tại trang [bảng giá thuê xe máy](/bang-gia/), nhóm giá thuê theo từng loại xe nằm trong mục [giá thuê xe máy](/thue-xe/gia-thue/), còn chi tiết cách tính giá theo ngày nằm trong chuyên mục [thuê xe theo ngày](/thue-xe/thue-ngay/).
+Cấu phần thứ hai là cách tính giá. Nếu thuê theo từng ngày, chi phí sẽ là số ngày nhân với mức giá ngày của dòng xe đó. Nếu chuyến của bạn có thể kéo dài, mức giá theo tuần thường có lợi hơn. Ví dụ nhóm Honda Click và Yamaha Mio có mức tham khảo theo tuần 700.000 đồng, trong khi nhóm Honda Vision có mức 1.000.000 đồng. Khung giá đầy đủ theo từng dòng xe được cập nhật tại trang [bảng giá thuê xe máy](/bang-gia/), nhóm giá thuê theo từng loại xe nằm trong mục [giá thuê xe máy](/thue-xe/gia-thue/), còn chi tiết cách tính giá theo ngày nằm trong chuyên mục [thuê xe theo ngày](/thue-xe/thue-ngay/).
 
 ## So sánh tính giá theo ngày và theo tuần
 
 Với chuyến đúng 3 ngày, phần lớn khách chọn tính theo giá ngày. Tuy nhiên, nếu lịch trình của bạn có thể dài thêm một hoặc hai ngày, hãy hỏi mức giá tuần ngay khi liên hệ. Khoảng cách giữa hai cách tính có thể khiến tổng chi phí chênh nhau đáng kể, nhất là với dòng xe ga có giá ngày cao hơn.
 
-Một ví dụ minh họa: nếu bạn chọn nhóm xe ga phổ thông và giữ xe thêm thời gian ngoài dự kiến, mức giá tuần từ 800.000 đồng đến 1.000.000 đồng có khi tổng thể thấp hơn so với việc cộng dồn từng ngày. Ngược lại, với chuyến chắc chắn đúng 3 ngày, tính theo ngày thường gọn và dễ kiểm soát hơn. Cách tốt nhất là nêu rõ lịch trình với cửa hàng để được tính theo phương án có lợi cho bạn.
+Một ví dụ minh họa: nếu bạn chọn nhóm xe ga phổ thông và giữ xe thêm thời gian ngoài dự kiến, mức giá tuần từ 700.000 đồng đến 1.000.000 đồng có khi tổng thể thấp hơn so với việc cộng dồn từng ngày. Ngược lại, với chuyến chắc chắn đúng 3 ngày, tính theo ngày thường gọn và dễ kiểm soát hơn. Cách tốt nhất là nêu rõ lịch trình với cửa hàng để được tính theo phương án có lợi cho bạn.
 
 ## Khoản cần xác nhận trước khi dự toán chốt
 

@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1035,
+  "word_count": 1024,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,9 +47,51 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-04-gia-thue-xe-may-dip-le-30-thang-4-co-khac-ngay-thuong-khong.md",
-  "content_sha256": "9a1a1a31079994797541ffa878dc125437d87cb66b0c74bb183492928b80b01a",
-  "matrix_row_sha256": "1b29203d979a87add76bc8bbc0b79d363973e58944e646825e86574796c4c002",
+  "content_sha256": "82aaeac01bddc275eeb7a91ef9c7f5e02b38fb37c138a8deaa195586892399a5",
+  "matrix_row_sha256": "622dc8be4a16b2992072cb671de5a3608837b9f05e9fee03b3d3e1c333786277",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-05T08:02:23+00:00"
+  "published_at": "2026-10-05T08:02:23+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "content-revision",
+    "purpose": "price-sync",
+    "reason": "Đồng bộ giá thuê tuần/tháng với _data/pricing.yml (bảng giá chủ xe duyệt)",
+    "approval_ref": "chu-repo:chi-thi-2026-10-27-master-execution-finish-100-slug-migration-pricing/issue-77-nhom-A (session_01D88QamSe7ksLm1ZpE5Y7fT)",
+    "batch_id": "revise-20261027-A01",
+    "revised_at": "2026-10-27T14:44:20+00:00",
+    "previous_evidence_sha256": "5e8a8488fb7e497d2a1f032ac60721ef97965bbe9888cb273833ddb99af22c53",
+    "previous_content_sha256": "9a1a1a31079994797541ffa878dc125437d87cb66b0c74bb183492928b80b01a",
+    "previous_matrix_row_sha256": "1b29203d979a87add76bc8bbc0b79d363973e58944e646825e86574796c4c002",
+    "new_content_sha256": "82aaeac01bddc275eeb7a91ef9c7f5e02b38fb37c138a8deaa195586892399a5",
+    "edit_count": 3,
+    "edits_sha256": "d57f458e765e5bfe0908455bb3613a02ef67a5d7c64663ee38feef3e8223f20b",
+    "chars_changed": 549,
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "base": "DOMAIN_ONLY_PROVEN",
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/revise-published.py",
+    "tool_commit": "2f2d20525663dc8bc0e28420a28cfa715d3527a3",
+    "tool_sha256": "4cbcfb5cb776052f30f590ca0f2912c94e5239bd8fd14b47dca10953d3e302a8",
+    "scorer_code_sha256": "e75668446d2abd25738e25f75c2790e0a2208bc96e1266103665b0366b729497",
+    "business_facts_sha256": "7725c6795ff9b6e9e2988f2d298f660e6d97ba11eee84f43473468c1ecd05b04",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at",
+    "domain_only_proof": {
+      "classification": "DOMAIN_ONLY_PROVEN",
+      "baseline_commit": "1b55bd810aac85dc919eb2a43d71de30ad8d4595",
+      "baseline_content_sha256": "9a1a1a31079994797541ffa878dc125437d87cb66b0c74bb183492928b80b01a",
+      "baseline_matrix_sha256": "1b29203d979a87add76bc8bbc0b79d363973e58944e646825e86574796c4c002",
+      "pre_edit_content_sha256": "e4d33bac0a530cc60d5a411fa4c1c67e7afb1574701ec632407bc8fbbfab481b",
+      "pre_edit_matrix_row_sha256": "622dc8be4a16b2992072cb671de5a3608837b9f05e9fee03b3d3e1c333786277"
+    }
+  }
 }
