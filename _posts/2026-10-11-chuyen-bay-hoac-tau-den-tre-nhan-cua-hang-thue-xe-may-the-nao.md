@@ -56,7 +56,7 @@ Lưu ý giờ hạ cánh khác giờ bạn có mặt ở cửa hàng. Từ sân 
 
 Nếu lúc đặt xe bạn đã trao đổi qua một ứng dụng nhắn tin, hãy dùng đúng kênh đó, vì cuộc trò chuyện cũ có sẵn thông tin đơn và cửa hàng dễ đối chiếu.
 
-Sau khi gửi, để ý xem đã có phản hồi chưa. Nếu một lúc vẫn chưa thấy trả lời mà giờ hẹn đã sát, hãy gọi trực tiếp. Bài về chuyện [đặt xe qua tổng đài có cần xác nhận lại bằng tin nhắn không](/hoi-dap/2026/10/07/at-xe-may-thue-qua-tong-ai-co-can-xac-nhan-tin-khong/) giải thích vì sao nên giữ một bản xác nhận bằng chữ, và điều đó càng đúng khi lịch bị xáo trộn: sau cuộc gọi, nhắn lại một dòng tóm tắt giờ mới đã thống nhất.
+Sau khi gửi, để ý xem đã có phản hồi chưa. Nếu một lúc vẫn chưa thấy trả lời mà giờ hẹn đã sát, hãy gọi trực tiếp. Bài về chuyện [đặt xe qua tổng đài có cần xác nhận lại bằng tin nhắn không](/hoi-dap/2026/10/07/dat-xe-may-thue-qua-tong-dai-co-can-xac-nhan-tin-khong/) giải thích vì sao nên giữ một bản xác nhận bằng chữ, và điều đó càng đúng khi lịch bị xáo trộn: sau cuộc gọi, nhắn lại một dòng tóm tắt giờ mới đã thống nhất.
 
 Nếu bạn dùng sim mới mua ở sân bay, nên thử trước xem số đó đã nhận cuộc gọi trong nước được chưa.
 

@@ -64,7 +64,7 @@ Tình huống thứ nhất: bạn thuê xe ở Long Biên, chạy theo đường
 
 Tình huống thứ hai: bạn đi quanh phố cổ, xe đạp, xe máy, người đi bộ đan xen. Không bị ép tốc độ nhưng phải phanh, nhường, né liên tục, đầu óc dần quá tải. Cách đơn giản nhất là dừng hẳn trước một quán nước có chỗ để xe, tắt máy, gọi cốc trà đá và ngồi xuống. Cơn quá tải thường dịu đi khi bạn thôi phải xử lý thông tin liên tục.
 
-Nếu lạc đường là thứ hay khiến bạn hoảng, hãy đọc bài về việc [người mới có nên dùng bản đồ số khi chạy xe](/hoi-dap/2026/10/04/nguoi-moi-chay-xe-may-co-can-ban-o-so-khong/) để chuẩn bị lộ trình từ trước.
+Nếu lạc đường là thứ hay khiến bạn hoảng, hãy đọc bài về việc [người mới có nên dùng bản đồ số khi chạy xe](/hoi-dap/2026/10/04/nguoi-moi-chay-xe-may-co-can-ban-do-so-khong/) để chuẩn bị lộ trình từ trước.
 
 ## Các bước lấy lại bình tĩnh sau khi dừng
 
@@ -93,7 +93,7 @@ Bỏ dở buổi chạy không có gì sai. Bạn có thể gửi xe ở một �
 
 Một lần hoảng không có nghĩa bạn không hợp đi xe máy. Thường đó chỉ là dấu hiệu bạn đã vào đoạn đường vượt quá mức quen tay. Cho những buổi sau:
 
-- Tập ở chỗ vắng trước, chẳng hạn các tuyến nhẹ nhàng trong bài [nên đi đâu để thử xe lần đầu](/hoi-dap/2026/10/07/hoi-lan-au-thue-xe-may-nen-i-au-thu-xe/), rồi mới tăng độ khó.
+- Tập ở chỗ vắng trước, chẳng hạn các tuyến nhẹ nhàng trong bài [nên đi đâu để thử xe lần đầu](/hoi-dap/2026/10/07/hoi-lan-dau-thue-xe-may-nen-di-dau-thu-xe/), rồi mới tăng độ khó.
 - Tránh giờ cao điểm sáng và chiều trong những ngày đầu.
 - Xem trước lộ trình, đánh dấu sẵn vài điểm có thể dừng như cây xăng, cửa hàng, ngõ rộng.
 - Chọn dòng xe bạn thấy dễ điều khiển nhất.

@@ -55,7 +55,7 @@ Nhiều người nhắc đi nhắc lại mà quên xem tin đầu đã đủ ý 
 4. Có nói nhận tại cửa hàng hay muốn hỏi giao xe chưa.
 5. Có số điện thoại để cửa hàng gọi lại khi tiện hơn nhắn.
 
-Tin nhắn càng đủ, người trực càng dễ trả lời "còn xe" hoặc "hết xe" ngay mà không cần hỏi lại. Nếu bạn chưa rõ đặt qua tin nhắn thì xe được giữ đến mức nào, bài [đặt xe trước qua tin nhắn có được giữ xe không](/hoi-dap/2026/10/10/hoi-at-xe-truoc-qua-tin-nhan-co-giu-xe-khong/) giải thích kỹ phần này.
+Tin nhắn càng đủ, người trực càng dễ trả lời "còn xe" hoặc "hết xe" ngay mà không cần hỏi lại. Nếu bạn chưa rõ đặt qua tin nhắn thì xe được giữ đến mức nào, bài [đặt xe trước qua tin nhắn có được giữ xe không](/hoi-dap/2026/10/10/hoi-dat-xe-truoc-qua-tin-nhan-co-giu-xe-khong/) giải thích kỹ phần này.
 
 ## Cách nhắc lại đặt xe máy thuê bằng một tin đủ ý
 
@@ -79,11 +79,11 @@ Tin nhắn tiện để lưu thông tin, nhưng điện thoại nhanh hơn khi g
 
 Ví dụ: một nhóm sinh viên ở Cầu Giấy nhắn từ sáng thứ Bảy, định chiều cùng nhau chạy xe máy dọc đê sông Hồng. Đến trưa vẫn chưa thấy trả lời, cách nhanh nhất là gọi thẳng, hỏi một câu, chốt luôn. Nếu thuê ở Thuê Xe Máy Hà Nội Nguyễn Tú, bạn có thể gọi số 0942 467 674 trong giờ 09:00–21:00.
 
-Sau cuộc gọi, hãy nhắn lại một tin tóm tắt nội dung vừa thống nhất. Bài [đặt xe qua tổng đài có cần xác nhận lại bằng tin nhắn không](/hoi-dap/2026/10/07/at-xe-may-thue-qua-tong-ai-co-can-xac-nhan-tin-khong/) nói rõ vì sao bước này giúp tránh hiểu nhầm.
+Sau cuộc gọi, hãy nhắn lại một tin tóm tắt nội dung vừa thống nhất. Bài [đặt xe qua tổng đài có cần xác nhận lại bằng tin nhắn không](/hoi-dap/2026/10/07/dat-xe-may-thue-qua-tong-dai-co-can-xac-nhan-tin-khong/) nói rõ vì sao bước này giúp tránh hiểu nhầm.
 
 ## Những việc không nên làm khi cửa hàng chưa xác nhận
 
-**Không chuyển khoản trước khi có xác nhận rõ ràng.** Nếu ai đó nhắn từ một tài khoản lạ, tự xưng là cửa hàng và yêu cầu chuyển cọc gấp, hãy dừng lại và gọi đúng số chính thức để hỏi. Chuyện cọc bao nhiêu, nhận lại thế nào cần xác nhận trực tiếp với cửa hàng; bạn có thể đọc thêm phần [hỏi về đặt cọc khi thuê xe máy](/hoi-dap/2026/10/10/hoi-at-coc-thue-xe-may-bao-nhieu-va-nhan-lai-the-nao/) để biết nên hỏi những gì.
+**Không chuyển khoản trước khi có xác nhận rõ ràng.** Nếu ai đó nhắn từ một tài khoản lạ, tự xưng là cửa hàng và yêu cầu chuyển cọc gấp, hãy dừng lại và gọi đúng số chính thức để hỏi. Chuyện cọc bao nhiêu, nhận lại thế nào cần xác nhận trực tiếp với cửa hàng; bạn có thể đọc thêm phần [hỏi về đặt cọc khi thuê xe máy](/hoi-dap/2026/10/10/hoi-dat-coc-thue-xe-may-bao-nhieu-va-nhan-lai-the-nao/) để biết nên hỏi những gì.
 
 **Không nhắn dồn liên tục.** Mười tin trong mười phút chỉ làm tin quan trọng bị trôi.
 

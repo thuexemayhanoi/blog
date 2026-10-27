@@ -24,7 +24,7 @@ Biển số sai còn phiền hơn. Nếu bị dừng kiểm tra mà biển số 
 
 ## Năm ô dễ ghi sai cần soát trước khi ký
 
-Bạn chỉ cần một hai phút đối chiếu. Muốn biết đầy đủ các mục của một bản hợp đồng, xem bài [những nội dung hợp đồng thuê xe máy cần ghi rõ](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/). Ở đây chỉ tập trung vào năm ô hay nhầm:
+Bạn chỉ cần một hai phút đối chiếu. Muốn biết đầy đủ các mục của một bản hợp đồng, xem bài [những nội dung hợp đồng thuê xe máy cần ghi rõ](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/). Ở đây chỉ tập trung vào năm ô hay nhầm:
 
 - **Họ tên**: so với giấy tờ bạn xuất trình, chú ý dấu và chữ đệm. Người nước ngoài hay bị đảo họ và tên.
 - **Số giấy tờ**: đọc từng nhóm số vì rất dễ đảo hai chữ số cạnh nhau.
@@ -32,7 +32,7 @@ Bạn chỉ cần một hai phút đối chiếu. Muốn biết đầy đủ cá
 - **Biển số**: tự nhìn biển gắn trên xe rồi so với giấy.
 - **Ngày giờ nhận và trả**: kiểm tra cả ngày lẫn tháng, nhất là khi thuê qua cuối tháng.
 
-Nếu đặt trước qua điện thoại, mở lại tin nhắn để so ngày giờ và loại xe. Bài [đặt xe qua tổng đài có cần tin nhắn xác nhận không](/hoi-dap/2026/10/07/at-xe-may-thue-qua-tong-ai-co-can-xac-nhan-tin-khong/) giải thích vì sao tin nhắn đó hữu ích đúng lúc này.
+Nếu đặt trước qua điện thoại, mở lại tin nhắn để so ngày giờ và loại xe. Bài [đặt xe qua tổng đài có cần tin nhắn xác nhận không](/hoi-dap/2026/10/07/dat-xe-may-thue-qua-tong-dai-co-can-xac-nhan-tin-khong/) giải thích vì sao tin nhắn đó hữu ích đúng lúc này.
 
 ## Cách đề nghị sửa thông tin hợp đồng thuê xe trước khi ký
 

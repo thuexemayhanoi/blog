@@ -38,7 +38,7 @@ Người mượn thường nghĩ mình được lợi, nhưng thực ra là ngư
 
 ### Bằng lái không "cho mượn" được
 
-Bằng lái gắn với người được cấp, không phải với chiếc xe. Cầm bằng của anh trai không có nghĩa là bạn đủ điều kiện lái xe. Nếu bị kiểm tra trên đường, bạn vẫn bị xem là người điều khiển xe mà không có giấy phép phù hợp, còn chuyện dùng giấy tờ của người khác có thể khiến tình huống thêm phức tạp. Quy định có thể thay đổi, hãy kiểm tra văn bản mới nhất nếu bạn cần biết chi tiết. Nếu bạn chưa có bằng, bài [không có bằng lái thì có thuê được xe máy không](/hoi-dap/2026-09-29-khong-co-bang-lai-co-thue-uoc-xe-may-khong/) nói kỹ hơn về các lựa chọn hợp lý.
+Bằng lái gắn với người được cấp, không phải với chiếc xe. Cầm bằng của anh trai không có nghĩa là bạn đủ điều kiện lái xe. Nếu bị kiểm tra trên đường, bạn vẫn bị xem là người điều khiển xe mà không có giấy phép phù hợp, còn chuyện dùng giấy tờ của người khác có thể khiến tình huống thêm phức tạp. Quy định có thể thay đổi, hãy kiểm tra văn bản mới nhất nếu bạn cần biết chi tiết. Nếu bạn chưa có bằng, bài [không có bằng lái thì có thuê được xe máy không](/hoi-dap/2026-09-29-khong-co-bang-lai-co-thue-duoc-xe-may-khong/) nói kỹ hơn về các lựa chọn hợp lý.
 
 ### Khó giải quyết khi xảy ra va chạm
 
@@ -54,7 +54,7 @@ Nếu chấp nhận giấy tờ của người vắng mặt, cửa hàng gần n
 
 Thiếu giấy tờ không có nghĩa là hết cách. Tùy bạn đang thiếu thứ gì mà hướng xử lý khác nhau.
 
-**Thiếu căn cước bản gốc nhưng có bằng lái.** Hãy hỏi trước cửa hàng xem họ chấp nhận loại giấy tờ thay thế nào. Bài [thuê xe máy cần những giấy tờ gì](/hoi-dap/2026-09-29-thue-xe-may-can-nhung-giay-to-gi/) liệt kê các nhóm giấy tờ thường được hỏi đến. Nếu bạn chỉ còn bản chụp, có thể đọc thêm về trường hợp [chỉ có CCCD photo](/hoi-dap/2026-09-29-chi-co-cccd-photo-co-thue-uoc-xe-khong/) để biết nên chuẩn bị gì kèm theo.
+**Thiếu căn cước bản gốc nhưng có bằng lái.** Hãy hỏi trước cửa hàng xem họ chấp nhận loại giấy tờ thay thế nào. Bài [thuê xe máy cần những giấy tờ gì](/hoi-dap/2026-09-29-thue-xe-may-can-nhung-giay-to-gi/) liệt kê các nhóm giấy tờ thường được hỏi đến. Nếu bạn chỉ còn bản chụp, có thể đọc thêm về trường hợp [chỉ có CCCD photo](/hoi-dap/2026-09-29-chi-co-cccd-photo-co-thue-duoc-xe-khong/) để biết nên chuẩn bị gì kèm theo.
 
 **Là khách nước ngoài hoặc người từ tỉnh khác lên.** Mang theo giấy tờ tùy thân của chính bạn, dù là loại nào, rồi hỏi cửa hàng trước khi tới.
 

@@ -38,7 +38,7 @@ Sờ hai bên hông lốp, nơi dễ bị kẹp giữa vành và cạnh ổ gà.
 
 ### Lắng nghe tiếng xì
 
-Áp tai gần van và quanh vùng vành bị va. Nếu nghi lốp đang xì, xem thêm cách xử lý khi [xe thuê bị thủng lốp giữa đường](/hoi-dap/2026/10/10/xe-may-thue-thung-lop-giua-uong/) để biết bước tiếp theo.
+Áp tai gần van và quanh vùng vành bị va. Nếu nghi lốp đang xì, xem thêm cách xử lý khi [xe thuê bị thủng lốp giữa đường](/hoi-dap/2026/10/10/xe-may-thue-thung-lop-giua-duong/) để biết bước tiếp theo.
 
 ## Xe bị lệch sau khi qua ổ gà lớn: kiểm tra tay lái và phuộc
 
@@ -83,7 +83,7 @@ Không phải cú va nào cũng làm hỏng xe, nhưng có những dấu hiệu 
 - Phanh hụt, kêu lạ, hoặc bánh xe bị kẹt khi quay.
 - Bất kỳ tiếng động lạ nào lặp lại theo vòng quay bánh.
 
-Với xe thuê, nguyên tắc an toàn là báo cửa hàng trước khi tự đem xe đi sửa. Thợ ven đường có thể vá lốp nhanh, nhưng các phần như vành, phuộc, tay lái và phanh nên để người có chuyên môn kiểm tra kỹ. Nếu xe không thể chạy tiếp, cách làm tương tự khi [xe chết máy giữa đường](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-uong-goi-ai/): dắt xe vào chỗ an toàn, gọi cho cửa hàng và làm theo hướng dẫn.
+Với xe thuê, nguyên tắc an toàn là báo cửa hàng trước khi tự đem xe đi sửa. Thợ ven đường có thể vá lốp nhanh, nhưng các phần như vành, phuộc, tay lái và phanh nên để người có chuyên môn kiểm tra kỹ. Nếu xe không thể chạy tiếp, cách làm tương tự khi [xe chết máy giữa đường](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-duong-goi-ai/): dắt xe vào chỗ an toàn, gọi cho cửa hàng và làm theo hướng dẫn.
 
 ## Chụp ảnh, ghi lại và liên hệ cho rõ ràng
 

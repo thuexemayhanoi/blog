@@ -81,7 +81,7 @@ Dù chọn hướng nào, hãy nhắn lại một dòng tóm tắt con số cu�
 
 ## Phòng trước cho lần thuê sau
 
-Phần lớn tình huống này tránh được ngay từ lúc nhắn hỏi. Khi hỏi giá, hãy ghi đủ dòng xe, giờ nhận, giờ trả, nơi nhận xe, và xin cửa hàng báo tổng chứ không chỉ đơn giá. Trước khi đến, nhắn xác nhận lại một lần, nhất là khi lịch của bạn đã thay đổi. Cách chốt qua tin nhắn được nói kỹ trong bài [đặt xe máy thuê qua Zalo chốt cọc sao](/hoi-dap/2026/10/09/at-xe-may-thue-qua-zalo-chot-coc-sao/).
+Phần lớn tình huống này tránh được ngay từ lúc nhắn hỏi. Khi hỏi giá, hãy ghi đủ dòng xe, giờ nhận, giờ trả, nơi nhận xe, và xin cửa hàng báo tổng chứ không chỉ đơn giá. Trước khi đến, nhắn xác nhận lại một lần, nhất là khi lịch của bạn đã thay đổi. Cách chốt qua tin nhắn được nói kỹ trong bài [đặt xe máy thuê qua Zalo chốt cọc sao](/hoi-dap/2026/10/09/dat-xe-may-thue-qua-zalo-chot-coc-sao/).
 
 Nếu bạn nhận xe tại cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, hãy đến trong giờ mở cửa từ 09:00 đến 21:00. Khách ở phố cổ Hoàn Kiếm thường đi qua cầu Chương Dương là tới, nhưng giờ cao điểm chiều có thể đông, nên tính dư thời gian để không bị lệch so với giờ đã hẹn.
 

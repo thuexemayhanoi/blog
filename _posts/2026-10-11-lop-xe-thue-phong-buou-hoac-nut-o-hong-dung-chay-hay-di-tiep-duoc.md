@@ -35,7 +35,7 @@ Có. Chỗ phồng thường xuất hiện khi lớp bố bên trong đã đứt
 
 Khi xe chạy, mỗi vòng quay thành lốp lại bị ép xuống rồi bật lên. Chỗ yếu chịu lặp lại hàng nghìn lần như vậy, cộng thêm nhiệt khi chạy lâu, nên có thể nổ hoặc xì hơi rất nhanh mà không báo trước. Nếu lốp trước xì khi đang ôm cua hay giữa dòng xe đông, tay lái có thể giật và mất kiểm soát.
 
-Vết nứt sâu ở hông cũng tương tự. Hông lốp không vá được như lỗ đinh trên mặt gai, nên chuyện "ghé tiệm vá tạm rồi đi tiếp" thường không áp dụng. Bài về [chuyện vá lốp thủng ở tiệm gần nhất](/hoi-dap/2026/10/07/hoi-lop-xe-thue-bi-thung-co-uoc-va-o-tiem-gan-nhat-khong/) sẽ giúp bạn thấy khác biệt giữa lỗ thủng mặt gai và hư hỏng ở hông.
+Vết nứt sâu ở hông cũng tương tự. Hông lốp không vá được như lỗ đinh trên mặt gai, nên chuyện "ghé tiệm vá tạm rồi đi tiếp" thường không áp dụng. Bài về [chuyện vá lốp thủng ở tiệm gần nhất](/hoi-dap/2026/10/07/hoi-lop-xe-thue-bi-thung-co-duoc-va-o-tiem-gan-nhat-khong/) sẽ giúp bạn thấy khác biệt giữa lỗ thủng mặt gai và hư hỏng ở hông.
 
 Vậy đi tiếp được không? Quãng ngắn, chậm, không chở thêm người thì rủi ro thấp hơn, nhưng không có quãng nào được gọi là an toàn với một lốp đã phồng. Cách hạn chế rủi ro tốt nhất vẫn là dừng.
 
@@ -71,7 +71,7 @@ Khi dắt xe, đi sát mép phải, đầu xe cùng chiều dòng xe, bật xi n
 
 Một tình huống khác: bạn phát hiện chỗ phồng khi đang gửi xe ở quán ăn trong ngõ phố cổ. Xe đã đứng yên, nên đừng dắt ra chạy thử một vòng để xem còn ổn không. Cứ để xe đó, chụp ảnh và gọi cửa hàng từ chỗ đang ngồi.
 
-Cách xử lý chung khi xe gặp sự cố dọc đường có trong bài [xe máy thuê thủng lốp giữa đường](/hoi-dap/2026/10/10/xe-may-thue-thung-lop-giua-uong/); phần lớn nguyên tắc ở đó vẫn dùng được cho lốp phồng.
+Cách xử lý chung khi xe gặp sự cố dọc đường có trong bài [xe máy thuê thủng lốp giữa đường](/hoi-dap/2026/10/10/xe-may-thue-thung-lop-giua-duong/); phần lớn nguyên tắc ở đó vẫn dùng được cho lốp phồng.
 
 ## Những nhầm lẫn hay gặp khi tự xem lốp
 

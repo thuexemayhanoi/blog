@@ -58,7 +58,7 @@ Nếu lốp vẫn căng và không nghe tiếng xì, bạn có thể chạy ch�
 
 Nếu bạn đang đi trên đoạn đê ven sông Hồng và phát hiện đinh ở bánh sau, đừng cố chạy hết đoạn đê để về chỗ quen. Hãy rẽ xuống khu dân cư gần nhất, nơi thường có tiệm vá nhỏ, thay vì đánh cược với quãng đường vắng.
 
-Tới tiệm, cứ để thợ rút đinh và tư vấn. Nếu bạn băn khoăn có được vá ở tiệm ngoài không, bài [hỏi đáp về chuyện vá lốp xe thuê ở tiệm gần nhất](/hoi-dap/2026/10/07/hoi-lop-xe-thue-bi-thung-co-uoc-va-o-tiem-gan-nhat-khong/) giải thích kỹ hơn.
+Tới tiệm, cứ để thợ rút đinh và tư vấn. Nếu bạn băn khoăn có được vá ở tiệm ngoài không, bài [hỏi đáp về chuyện vá lốp xe thuê ở tiệm gần nhất](/hoi-dap/2026/10/07/hoi-lop-xe-thue-bi-thung-co-duoc-va-o-tiem-gan-nhat-khong/) giải thích kỹ hơn.
 
 ## Báo cửa hàng cho thuê lúc nào và nói gì
 
@@ -71,7 +71,7 @@ Thời điểm tốt nhất là ngay sau khi bạn kiểm tra xong, trước khi
 
 Khách thuê ở Nguyễn Tú có thể gọi 0942 467 674 trong giờ 09:00–21:00 để xác nhận cách xử lý trước khi cho thợ làm. Chuyện ai chịu chi phí hay có cần đổi xe không, hãy hỏi và xác nhận trực tiếp với cửa hàng thay vì tự đoán.
 
-Nếu lốp xẹp hẳn trên đường, bài [xử lý khi xe máy thuê thủng lốp giữa đường](/hoi-dap/2026/10/10/xe-may-thue-thung-lop-giua-uong/) sẽ giúp bạn biết bước tiếp theo.
+Nếu lốp xẹp hẳn trên đường, bài [xử lý khi xe máy thuê thủng lốp giữa đường](/hoi-dap/2026/10/10/xe-may-thue-thung-lop-giua-duong/) sẽ giúp bạn biết bước tiếp theo.
 
 ## Khi nào nên dừng hẳn, không chạy tiếp
 
@@ -83,7 +83,7 @@ Nếu lốp xẹp hẳn trên đường, bài [xử lý khi xe máy thuê thủn
 - Xe rung lắc, khó giữ thẳng lái, nhất là khi lốp trước gặp vấn đề.
 - Trời tối, mưa to hoặc đường vắng, không chắc gần đó có tiệm.
 
-Chạy tiếp khi lốp đã xẹp có thể làm hỏng vành và lốp, từ một miếng vá thành thay mới, chưa kể nguy cơ ngã xe. Dắt bộ một đoạn ngắn tới tiệm vẫn an toàn hơn. Nếu xe còn chết máy, bạn có thể xem bài [xe thuê chết máy giữa đường nên gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-uong-goi-ai/).
+Chạy tiếp khi lốp đã xẹp có thể làm hỏng vành và lốp, từ một miếng vá thành thay mới, chưa kể nguy cơ ngã xe. Dắt bộ một đoạn ngắn tới tiệm vẫn an toàn hơn. Nếu xe còn chết máy, bạn có thể xem bài [xe thuê chết máy giữa đường nên gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-duong-goi-ai/).
 
 ## Vài câu nên hỏi thợ trước khi vá
 

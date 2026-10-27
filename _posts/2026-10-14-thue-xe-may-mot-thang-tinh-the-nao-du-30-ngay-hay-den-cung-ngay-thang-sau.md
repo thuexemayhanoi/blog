@@ -62,11 +62,11 @@ Thay vì nói "thuê một tháng", hãy để cả hai bên cùng nhìn vào m�
 Khi chốt, nên hỏi thêm vài điểm, vì mỗi cửa hàng có cách xử lý riêng:
 
 1. **Giờ trả nằm trong giờ mở cửa.** Cửa hàng Nguyễn Tú ở Nguyễn Văn Cừ, Long Biên làm việc 09:00–21:00. Nếu giờ nhận là tối muộn, ngày trả theo đúng giờ đó cũng rơi vào cuối buổi, nên hẹn rõ từ đầu.
-2. **Trả sớm vài ngày được tính ra sao.** Hỏi trước, đừng mặc định được trừ tiền. Bài [trả xe thuê sớm hơn dự kiến](/thue-xe/2026/09/27/tra-xe-thue-som-hon-du-kien-hoi-truoc-ieu-gi/) gợi ý các câu nên hỏi.
+2. **Trả sớm vài ngày được tính ra sao.** Hỏi trước, đừng mặc định được trừ tiền. Bài [trả xe thuê sớm hơn dự kiến](/thue-xe/2026/09/27/tra-xe-thue-som-hon-du-kien-hoi-truoc-dieu-gi/) gợi ý các câu nên hỏi.
 3. **Trả muộn vài giờ hoặc một ngày.** Có được tính phần lẻ không, hay cần báo trước để gia hạn.
 4. **Kỳ tháng tiếp theo bắt đầu từ đâu.** Thông thường hai bên nối kỳ mới vào ngày kết thúc kỳ cũ, không tính lại từ ngày bạn chuyển tiền. Điểm này cũng nên ghi vào tin nhắn.
 
-Nếu bạn thuê nhiều tháng liên tục, đọc thêm [gia hạn hợp đồng thuê xe theo tháng](/thue-xe/2026/09/27/gia-han-hop-ong-thue-xe-theo-thang/) để biết nên bàn chuyện kỳ mới vào lúc nào. Các mục nên có trong giấy thuê dài hạn được liệt kê ở bài [hợp đồng thuê xe máy theo tháng: điều khoản nên có](/thue-xe/2026/10/11/hop-ong-thue-xe-may-theo-thang-ieu-khoan-nen-co/).
+Nếu bạn thuê nhiều tháng liên tục, đọc thêm [gia hạn hợp đồng thuê xe theo tháng](/thue-xe/2026/09/27/gia-han-hop-dong-thue-xe-theo-thang/) để biết nên bàn chuyện kỳ mới vào lúc nào. Các mục nên có trong giấy thuê dài hạn được liệt kê ở bài [hợp đồng thuê xe máy theo tháng: điều khoản nên có](/thue-xe/2026/10/11/hop-dong-thue-xe-may-theo-thang-dieu-khoan-nen-co/).
 
 ## Âm lịch hay dương lịch: chuyện nhỏ dễ nhầm quanh Tết
 

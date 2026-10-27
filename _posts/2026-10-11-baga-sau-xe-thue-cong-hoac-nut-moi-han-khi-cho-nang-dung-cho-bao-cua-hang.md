@@ -78,7 +78,7 @@ Khi xe đã đứng yên và đồ đã dỡ xuống, bạn mới ghi lại:
 - Ảnh món đồ vừa chở, để cửa hàng hiểu tình huống.
 - Vài dòng ghi chú: vị trí, thời gian, đoạn đường bắt đầu thấy rung.
 
-Rồi gọi hoặc nhắn cửa hàng, gửi kèm ảnh. Nói gọn: xe đang ở đâu, baga bị gì, đã dỡ đồ chưa, xe còn chạy bình thường không. Với xe thuê ở Nguyễn Tú, bạn có thể gọi 0942 467 674 trong khung 09:00–21:00 để hỏi hướng xử lý. Cách báo giống khi [xe thuê bị va chạm nhẹ lúc đỗ](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-o-can-bao-gi-cho-cua-hang/): ảnh rõ, thông tin đủ, không tự đoán lỗi.
+Rồi gọi hoặc nhắn cửa hàng, gửi kèm ảnh. Nói gọn: xe đang ở đâu, baga bị gì, đã dỡ đồ chưa, xe còn chạy bình thường không. Với xe thuê ở Nguyễn Tú, bạn có thể gọi 0942 467 674 trong khung 09:00–21:00 để hỏi hướng xử lý. Cách báo giống khi [xe thuê bị va chạm nhẹ lúc đỗ](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-do-can-bao-gi-cho-cua-hang/): ảnh rõ, thông tin đủ, không tự đoán lỗi.
 
 Nếu được hướng dẫn mang xe ra tiệm gần đó, hãy hỏi lại cửa hàng trước khi đồng ý cho thợ cắt, hàn hay thay baga. Nên hỏi thợ những gì thì có trong bài [khi thợ ven đường bảo phải thay phụ tùng lớn](/hoi-dap/2026/10/11/tho-sua-xe-ven-duong-bao-phai-thay-phu-tung-lon-hoi-gi-va-bao-cua-hang-ra-sao/).
 

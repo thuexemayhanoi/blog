@@ -47,9 +47,48 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-11-op-nhua-xe-tay-ga-bung-hoac-roi-giua-duong-co-dinh-tam-va-bao-cua-hang.md",
-  "content_sha256": "8152fe16c43b619048869a9662e2e3e8629904418591dff0ac136e12a85c3abf",
+  "content_sha256": "0a98270a651bb6454beb183b4b662ae1b637a8d3b6b13a6fb962e134a46c6e46",
   "matrix_row_sha256": "45c6c2c7cffcbd7e98d18bb4d0c2a85bb1f0c17b20f9670e734bc9c93cd2ceae",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-14T07:38:11+00:00"
+  "published_at": "2026-10-14T07:38:11+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "link-retarget",
+    "purpose": "internal-link-retarget",
+    "reason": "Tro lien ket noi bo thang toi URL moi (sau di tru slug d -> d, hoac them dau / cuoi) thay vi qua trang chuyen huong/301 cua may chu. Issue #77.",
+    "approval_ref": "chu-repo:chi-thi-2026-10-26-master-task-hoan-thanh-1410-url/issue-77 (session_01D88QamSe7ksLm1ZpE5Y7fT)",
+    "batch_id": "links-20261027-p14",
+    "revised_at": "2026-10-27T01:33:22+00:00",
+    "previous_evidence_sha256": "dac118285d5afa149031a4fb181ae626d09dddd15ca0bdbfd83ff6c161f3a8f9",
+    "previous_content_sha256": "8152fe16c43b619048869a9662e2e3e8629904418591dff0ac136e12a85c3abf",
+    "previous_matrix_row_sha256": "45c6c2c7cffcbd7e98d18bb4d0c2a85bb1f0c17b20f9670e734bc9c93cd2ceae",
+    "new_content_sha256": "0a98270a651bb6454beb183b4b662ae1b637a8d3b6b13a6fb962e134a46c6e46",
+    "mapping_sha256": "2d8e3b4cec45c8f31e31c9ce93f8c5931578094a7a3c26351b319199a52eb170",
+    "links_retargeted": 3,
+    "targets": {
+      "/hoi-dap/2026/09/29/xe-thue-chet-may-giua-uong-goi-ai/": 1,
+      "/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-o-can-bao-gi-cho-cua-hang/": 1,
+      "/hoi-dap/2026/10/10/xe-thue-bi-roi-bien-so-giua-uong-xu-ly-the-nao/": 1
+    },
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/migrate-slug-urls.py links-apply",
+    "tool_commit": "df50694d09de3b87c269d7e31d5b67d08302bcea",
+    "scorer_code_sha256": "b4a8836fab455ec134ecb2a01ebaa1ebce70e7a503a12e3fb00265e671d73201",
+    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "migrate_tool_sha256": "ddd2be356a2f313bf991d56eab56c101545909274cab45dcbb11e2039f5bcefd",
+    "slugkit_sha256": "3ca830e9d1fe26935aafc87750f95908dbe3b5cb9aa92d2779157ef4e6b1ec4d",
+    "baseline_sha256": "6a91c1c7e18ad2b6c0a85d309ae9939cc91c06e54106bf22f46280194222197c",
+    "note": "chi doi DICH lien ket noi bo (chu lien ket, tieu de, # doan va moi byte khac giu nguyen); scored_at/published_at o cap tren giu moc lich su goc; cham diem doc lap luc revised_at"
+  }
 }

@@ -50,7 +50,7 @@ Khi không chắc lúc nào có mạng lại, đừng nhắn kiểu "Alo, anh c�
 
 ### Kiểm tra tin đã đến nơi
 
-Nhiều ứng dụng có dấu "đã gửi" và "đã xem". Nếu sau một lúc tin vẫn chưa được xem, hãy dùng kênh thứ hai bạn đã hỏi trước. Bài viết về [việc xác nhận lại tin khi đặt xe qua tổng đài](/hoi-dap/2026/10/07/at-xe-may-thue-qua-tong-ai-co-can-xac-nhan-tin-khong/) có thêm vài gợi ý về cách chốt lịch cho rõ ràng.
+Nhiều ứng dụng có dấu "đã gửi" và "đã xem". Nếu sau một lúc tin vẫn chưa được xem, hãy dùng kênh thứ hai bạn đã hỏi trước. Bài viết về [việc xác nhận lại tin khi đặt xe qua tổng đài](/hoi-dap/2026/10/07/dat-xe-may-thue-qua-tong-dai-co-can-xac-nhan-tin-khong/) có thêm vài gợi ý về cách chốt lịch cho rõ ràng.
 
 ## Đoạn đường không có mạng: tìm đến cửa hàng thế nào
 

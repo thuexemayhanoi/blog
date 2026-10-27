@@ -78,7 +78,7 @@ Không ai mở được cổng thì phương án hợp lý là để xe lại v�
 
 Về chỗ nghỉ bằng taxi, xe công nghệ hoặc đi bộ nếu gần; đừng mượn tạm xe người lạ. Sáng hôm sau, đến ngay khi bãi vừa mở, xuất trình vé và kiểm tra quanh thân xe, gương, yên, khóa trước khi dắt ra. Thấy điều gì lạ, chụp ảnh và báo cả người trông bãi lẫn cửa hàng.
 
-Nếu bãi ngoài trời và đêm đó mưa to, xe có thể khó nổ; xem bài [xe ướt nước mưa đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-e-khong-no/) trước khi cố đề nhiều lần.
+Nếu bãi ngoài trời và đêm đó mưa to, xe có thể khó nổ; xem bài [xe ướt nước mưa đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-de-khong-no/) trước khi cố đề nhiều lần.
 
 ## Tránh quên lấy xe trước giờ đóng bãi
 

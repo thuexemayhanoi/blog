@@ -59,7 +59,7 @@ Cốp là khoang kín, ít gió, nên mùi ở đây tồn lâu nhất. Cách l�
 3. **Để mở cốp cho khô** ở nơi thoáng, ít nhất vài chục phút.
 4. **Khử mùi bằng chất hút mùi khô.** Đặt một túi vải nhỏ đựng bã cà phê khô, than hoạt tính hoặc baking soda vào cốp, đóng lại qua một đêm. Sáng hôm sau mùi giảm rõ rệt. Nhớ lấy túi ra trước khi trả xe.
 
-Nếu cốp có mùi xăng hoặc mùi khét chứ không phải mùi hàng hóa, đó là chuyện kỹ thuật, không phải chuyện vệ sinh. Báo ngay cho chủ xe thay vì cố xịt thơm che đi. Muốn biết cốp chứa được gì và không nên để gì, xem bài [hộp giữ mũ và đồ nhỏ trên xe ga](/ky-nang/2026-09-29/hop-giu-mu-va-o-nho-tren-xe-ga/).
+Nếu cốp có mùi xăng hoặc mùi khét chứ không phải mùi hàng hóa, đó là chuyện kỹ thuật, không phải chuyện vệ sinh. Báo ngay cho chủ xe thay vì cố xịt thơm che đi. Muốn biết cốp chứa được gì và không nên để gì, xem bài [hộp giữ mũ và đồ nhỏ trên xe ga](/ky-nang/2026-09-29/hop-giu-mu-va-do-nho-tren-xe-ga/).
 
 ## Những thứ không nên dùng khi dọn xe
 
@@ -77,7 +77,7 @@ Nước ấm, nước rửa chén pha loãng và khăn mềm xử lý được p
 
 Nếu đã chở đất cát, gạch vụn hoặc đi qua đường ngập, bùn bám vào gầm và chắn bùn sau, lúc đó nên mang ra tiệm rửa xe. Ở Hà Nội tiệm rửa xe máy có khắp các quận, từ các phố quanh Cầu Giấy, Đống Đa tới dọc đường Nguyễn Văn Cừ bên Long Biên. Dặn thợ tránh xịt mạnh vào ổ khóa và cụm đồng hồ.
 
-Với xe thuê, nhắn trước cho chủ xe nếu có vết bẩn bạn không xử lý được hoặc có mùi còn sót. Nói rõ đã chở gì, đã lau thế nào, để hai bên cùng kiểm tra lúc giao nhận. Trình tự nhận lại xe được tả trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/), và danh sách việc nên làm trước giờ hẹn có ở bài [trả xe: việc cần làm 30 phút cuối](/thue-xe/2026/09/27/tra-xe-viec-can-lam-30-phut-cuoi/).
+Với xe thuê, nhắn trước cho chủ xe nếu có vết bẩn bạn không xử lý được hoặc có mùi còn sót. Nói rõ đã chở gì, đã lau thế nào, để hai bên cùng kiểm tra lúc giao nhận. Trình tự nhận lại xe được tả trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/), và danh sách việc nên làm trước giờ hẹn có ở bài [trả xe: việc cần làm 30 phút cuối](/thue-xe/2026/09/27/tra-xe-viec-can-lam-30-phut-cuoi/).
 
 ## Tóm lại
 

@@ -26,7 +26,7 @@ Sai lầm hay gặp nhất là mua ở năm sáu cửa hàng rồi treo năm sá
 - **Dùng đồ mềm làm lớp đệm.** Khăn lụa, áo phông vừa mua quấn quanh chén bát gốm là lớp chống va rất tốt.
 - **Hỏi người bán gói kỹ món dễ vỡ.** Cứ nói rõ là bạn đi xe máy, nhiều nơi sẽ quấn thêm giấy báo hoặc màng xốp hơi.
 
-Nếu bạn gửi xe ở bãi trong phố cổ, cách chọn bãi và giữ vé được nói trong bài [gửi xe quanh phố cổ Hà Nội](/ky-nang/2026/09/30/gui-xe-qua-em-o-pho-co-ha-noi-gia-va-luu-y/).
+Nếu bạn gửi xe ở bãi trong phố cổ, cách chọn bãi và giữ vé được nói trong bài [gửi xe quanh phố cổ Hà Nội](/ky-nang/2026/09/30/gui-xe-qua-dem-o-pho-co-ha-noi-gia-va-luu-y/).
 
 ## Chở nón lá bằng xe máy: món nhẹ nhưng dễ thành cánh diều
 
@@ -47,11 +47,11 @@ Tranh Đông Hồ, tranh in giấy dó thường được bán dạng cuộn ho�
 
 ### Tranh có khung
 
-Tranh sơn mài nhỏ, tranh thêu có khung kính là món cần cẩn thận nhất. Bọc kín bốn góc bằng bìa hoặc khăn, dán băng dính chéo lên mặt kính để nếu có vỡ thì mảnh không văng. Khung nhỏ có thể để người ngồi sau ôm. Khung lớn thì nên hỏi cửa hàng giao tận nơi hoặc gọi xe ô tô, cách xử lý tranh khổ to có trong bài [chở khung tranh lớn trên xe máy](/ky-nang/2026/10/10/cho-khung-tranh-lon-tren-xe-may-boc-goc-va-nghieng-ung/).
+Tranh sơn mài nhỏ, tranh thêu có khung kính là món cần cẩn thận nhất. Bọc kín bốn góc bằng bìa hoặc khăn, dán băng dính chéo lên mặt kính để nếu có vỡ thì mảnh không văng. Khung nhỏ có thể để người ngồi sau ôm. Khung lớn thì nên hỏi cửa hàng giao tận nơi hoặc gọi xe ô tô, cách xử lý tranh khổ to có trong bài [chở khung tranh lớn trên xe máy](/ky-nang/2026/10/10/cho-khung-tranh-lon-tren-xe-may-boc-goc-va-nghieng-dung/).
 
 ### Chén bát, bình gốm
 
-Đồ gốm mua ở phố cổ hay ở làng Bát Tràng đều sợ hai thứ: va chạm và rung liên tục. Quấn riêng từng món, chèn kín khoảng trống bằng đồ mềm để chúng không chạm nhau. Hộp đặt thấp, phẳng, càng gần trọng tâm xe càng tốt. Những nguyên tắc chung cho hàng dễ vỡ được tổng hợp trong bài [chở đồ dễ vỡ trên xe máy sao cho không hỏng](/ky-nang/2026/10/10/cho-o-de-vo-tren-xe-may-sao-cho-khong-hong/).
+Đồ gốm mua ở phố cổ hay ở làng Bát Tràng đều sợ hai thứ: va chạm và rung liên tục. Quấn riêng từng món, chèn kín khoảng trống bằng đồ mềm để chúng không chạm nhau. Hộp đặt thấp, phẳng, càng gần trọng tâm xe càng tốt. Những nguyên tắc chung cho hàng dễ vỡ được tổng hợp trong bài [chở đồ dễ vỡ trên xe máy sao cho không hỏng](/ky-nang/2026/10/10/cho-do-de-vo-tren-xe-may-sao-cho-khong-hong/).
 
 ## Chọn chỗ đặt: không che mắt, không vướng tay lái
 

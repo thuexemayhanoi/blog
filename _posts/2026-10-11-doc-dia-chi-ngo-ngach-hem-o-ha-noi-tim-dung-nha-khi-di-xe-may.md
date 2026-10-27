@@ -56,7 +56,7 @@ Khi đã vào phố, hãy đi chậm ở làn sát lề bên phải và liếc s
 
 Biển tên ngõ thường gắn ở tường nhà đầu ngõ, đôi khi bị cây hoặc biển quảng cáo che. Không thấy biển thì nhìn số hai căn mặt phố hai bên lối vào để suy ra.
 
-Muốn xem lại điện thoại, hãy bật xi nhan, tấp hẳn vào lề, chỗ không chắn cửa nhà ai rồi mới xem. Dừng đột ngột giữa dòng xe để tra bản đồ là thói quen dễ gây va quẹt nhất với người mới. Nếu bạn còn ngại cảnh xe đông, đọc thêm bài [đi xe máy ở Hà Nội có đáng sợ thật không](/hoi-dap/2026/09/29/i-xe-may-ha-noi-ang-so-that-khong/) để có tâm thế bình tĩnh hơn.
+Muốn xem lại điện thoại, hãy bật xi nhan, tấp hẳn vào lề, chỗ không chắn cửa nhà ai rồi mới xem. Dừng đột ngột giữa dòng xe để tra bản đồ là thói quen dễ gây va quẹt nhất với người mới. Nếu bạn còn ngại cảnh xe đông, đọc thêm bài [đi xe máy ở Hà Nội có đáng sợ thật không](/hoi-dap/2026/09/29/di-xe-may-ha-noi-dang-so-that-khong/) để có tâm thế bình tĩnh hơn.
 
 ## Vào sâu trong ngõ: tốc độ, còi và chỗ quay đầu
 

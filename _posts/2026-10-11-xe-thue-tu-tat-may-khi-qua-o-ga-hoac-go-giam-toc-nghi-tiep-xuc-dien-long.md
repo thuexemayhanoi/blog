@@ -75,7 +75,7 @@ Ngay khi dừng an toàn, ghi vào điện thoại:
 
 Nếu an toàn, nhờ người đi cùng quay video ngắn lúc xe qua chỗ xóc, hoặc chụp ảnh đồng hồ khi vừa tắt và vị trí trên bản đồ. Những chi tiết này giúp thợ biết nên kiểm tra mạch nào trước.
 
-Sau đó gửi mô tả và hình ảnh cho cửa hàng cho thuê. Với xe thuê từ Nguyễn Tú, bạn có thể gọi 0942 467 674 trong giờ 09:00–21:00 để được hướng dẫn. Nếu chưa biết nên liên hệ ai trước, bài [xe thuê chết máy giữa đường nên gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-uong-goi-ai/) có thứ tự cụ thể hơn.
+Sau đó gửi mô tả và hình ảnh cho cửa hàng cho thuê. Với xe thuê từ Nguyễn Tú, bạn có thể gọi 0942 467 674 trong giờ 09:00–21:00 để được hướng dẫn. Nếu chưa biết nên liên hệ ai trước, bài [xe thuê chết máy giữa đường nên gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-duong-goi-ai/) có thứ tự cụ thể hơn.
 
 ## Những việc không nên tự làm với xe thuê
 

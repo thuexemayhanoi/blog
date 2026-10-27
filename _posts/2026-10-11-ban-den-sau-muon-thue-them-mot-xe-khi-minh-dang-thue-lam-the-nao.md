@@ -22,7 +22,7 @@ Chiếc xe thêm vào sẽ do bạn mình tự lái suốt mấy ngày, hay ch�
 
 Lý do rất đời thường: nếu xe trầy xước hay hỏng hóc, người làm việc với cửa hàng nên là người trực tiếp dùng xe. Bạn đứng tên hộ thì trách nhiệm dồn về mình dù bạn không có mặt lúc đó.
 
-Một trường hợp khác: người đến sau chưa có bằng lái phù hợp hoặc không quen đi xe máy. Khi đó, thay vì cố thuê thêm, hãy cân nhắc chở nhau trên một xe, hoặc đọc kỹ bài [không có bằng lái thì có thuê được xe máy không](/hoi-dap/2026-09-29-khong-co-bang-lai-co-thue-uoc-xe-may-khong/) trước khi quyết định.
+Một trường hợp khác: người đến sau chưa có bằng lái phù hợp hoặc không quen đi xe máy. Khi đó, thay vì cố thuê thêm, hãy cân nhắc chở nhau trên một xe, hoặc đọc kỹ bài [không có bằng lái thì có thuê được xe máy không](/hoi-dap/2026-09-29-khong-co-bang-lai-co-thue-duoc-xe-may-khong/) trước khi quyết định.
 
 ## Thêm xe giữa kỳ thuê xe máy: tách riêng hay gộp chung
 
@@ -42,7 +42,7 @@ Tách riêng là chiếc xe mới có giấy tờ thuê riêng, ngày nhận ri�
 
 Gộp là bổ sung chiếc xe thứ hai vào cùng một lần thuê với bạn. Cách này có thể tiện khi hai người đi cùng nhau gần như suốt thời gian, cùng trả xe một ngày, và một người đứng ra thanh toán chung. Tuy vậy, gộp hay không là do cửa hàng quyết định theo cách họ quản lý xe, nên bạn hãy hỏi trước thay vì mặc định.
 
-Dù chọn cách nào, hãy đọc lại xem giấy tờ thuê ghi những gì: biển số, tình trạng xe lúc giao, ngày giờ trả, người chịu trách nhiệm. Bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/) có danh sách để bạn đối chiếu nhanh.
+Dù chọn cách nào, hãy đọc lại xem giấy tờ thuê ghi những gì: biển số, tình trạng xe lúc giao, ngày giờ trả, người chịu trách nhiệm. Bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/) có danh sách để bạn đối chiếu nhanh.
 
 ## Ai cần có mặt khi nhận xe và mang giấy tờ gì
 
@@ -50,7 +50,7 @@ Khi thuê thêm xe cho bạn đến sau, người cầm lái chiếc xe mới th
 
 Về giấy tờ, cửa hàng thường hỏi giấy tờ tùy thân và bằng lái của người sẽ lái chiếc xe đó. Bạn có thể gửi bạn mình đọc bài [thuê xe máy cần những giấy tờ gì](/hoi-dap/2026-09-29-thue-xe-may-can-nhung-giay-to-gi/) từ trước khi lên máy bay, để họ khỏi bỏ quên bằng lái ở nhà.
 
-Còn chuyện tiền cọc cho chiếc xe thứ hai: mức cọc và cách hoàn lại cần xác nhận trực tiếp với cửa hàng, vì có thể khác tùy dòng xe và thời gian thuê. Đừng tự suy ra từ khoản cọc bạn đã đặt cho xe đầu tiên. Nếu muốn hiểu cách cọc vận hành nói chung, xem thêm bài [đặt cọc thuê xe máy và cách nhận lại](/hoi-dap/2026/10/10/hoi-at-coc-thue-xe-may-bao-nhieu-va-nhan-lai-the-nao/).
+Còn chuyện tiền cọc cho chiếc xe thứ hai: mức cọc và cách hoàn lại cần xác nhận trực tiếp với cửa hàng, vì có thể khác tùy dòng xe và thời gian thuê. Đừng tự suy ra từ khoản cọc bạn đã đặt cho xe đầu tiên. Nếu muốn hiểu cách cọc vận hành nói chung, xem thêm bài [đặt cọc thuê xe máy và cách nhận lại](/hoi-dap/2026/10/10/hoi-dat-coc-thue-xe-may-bao-nhieu-va-nhan-lai-the-nao/).
 
 ## Thuê thêm một xe máy khi đang thuê: nhắn cửa hàng những gì
 

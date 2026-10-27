@@ -58,11 +58,11 @@ Chở can dầu ăn bằng xe máy an toàn nhất khi can nằm thấp và đ�
 
 ### Cốp xe
 
-Cốp phù hợp với chai nước mắm, hũ nước sốt nhỏ. Lót một túi ni lông lớn dưới đáy cốp trước, rồi xếp chai đứng thẳng, chèn khăn quanh. Cốp nhiều xe ga nằm gần động cơ nên khá nóng sau quãng đường dài; không để can dầu lớn nằm trong đó dưới nắng trưa hàng giờ. Đọc thêm về dung tích và giới hạn của cốp trong bài [hộp giữ mũ và đồ nhỏ trên xe ga](/ky-nang/2026-09-29/hop-giu-mu-va-o-nho-tren-xe-ga/).
+Cốp phù hợp với chai nước mắm, hũ nước sốt nhỏ. Lót một túi ni lông lớn dưới đáy cốp trước, rồi xếp chai đứng thẳng, chèn khăn quanh. Cốp nhiều xe ga nằm gần động cơ nên khá nóng sau quãng đường dài; không để can dầu lớn nằm trong đó dưới nắng trưa hàng giờ. Đọc thêm về dung tích và giới hạn của cốp trong bài [hộp giữ mũ và đồ nhỏ trên xe ga](/ky-nang/2026-09-29/hop-giu-mu-va-do-nho-tren-xe-ga/).
 
 ### Giá sau và yên sau
 
-Chỉ dùng khi đi xe số không có sàn phẳng. Đặt thùng đựng can lên giá, buộc dây chéo hình chữ X, can phải đứng thẳng trong thùng. Tuyệt đối không đặt can nằm ngang trên yên: nắp hướng sang bên, mỗi cú xóc là một lần dầu ép vào ren. Cách buộc thùng cho chắc xem ở bài [chở thùng carton trên xe máy](/ky-nang/2026/10/10/cho-thung-carton-tren-xe-may-lot-buoc-va-i-cham/).
+Chỉ dùng khi đi xe số không có sàn phẳng. Đặt thùng đựng can lên giá, buộc dây chéo hình chữ X, can phải đứng thẳng trong thùng. Tuyệt đối không đặt can nằm ngang trên yên: nắp hướng sang bên, mỗi cú xóc là một lần dầu ép vào ren. Cách buộc thùng cho chắc xem ở bài [chở thùng carton trên xe máy](/ky-nang/2026/10/10/cho-thung-carton-tren-xe-may-lot-buoc-va-di-cham/).
 
 Dù đặt ở đâu, giữ can cách xa ống xả vì nhựa can mềm ra khi nóng.
 
@@ -74,7 +74,7 @@ Can dầu lớn cộng thêm vài chai nước mắm có thể nặng ngang mộ
 - **Qua gờ giảm tốc chậm hẳn lại.** Các đoạn lên xuống dốc cầu Chương Dương hay ngõ lát gạch quanh phố Hàng Bè rung nhiều, là lúc nắp dễ lỏng nhất.
 - **Dừng kiểm tra nếu ngửi thấy mùi.** Mùi nước mắm thoang thoảng là dấu hiệu rò. Tấp vào lề an toàn, siết lại nắp, thay túi nếu cần, đừng cố về cho nhanh.
 
-Khối lượng và kích thước hàng chở cũng cần trong giới hạn cho phép; xem bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/) nếu bạn mua với số lượng lớn.
+Khối lượng và kích thước hàng chở cũng cần trong giới hạn cho phép; xem bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/) nếu bạn mua với số lượng lớn.
 
 ## Nếu dầu ăn chảy lên xe máy thì xử lý ngay thế nào
 

@@ -77,7 +77,7 @@ Lấy điện thoại ra và làm vài việc trong chưa tới năm phút:
 - **Chụp mặt tiền tiệm** và số điện thoại của tiệm nếu có.
 - **Lưu vị trí** trên bản đồ điện thoại.
 
-Thợ chỉ chỗ hỏng thì chụp luôn chỗ đó. Ảnh giúp cửa hàng hình dung nhanh hơn nhiều so với mô tả bằng lời, nhất là khi bạn không rành từ kỹ thuật. Cách ghi lại này giống khi xe va quệt, bài [xe thuê bị va chạm nhẹ khi đỗ cần báo gì cho cửa hàng](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-o-can-bao-gi-cho-cua-hang/) có thêm gợi ý về góc chụp.
+Thợ chỉ chỗ hỏng thì chụp luôn chỗ đó. Ảnh giúp cửa hàng hình dung nhanh hơn nhiều so với mô tả bằng lời, nhất là khi bạn không rành từ kỹ thuật. Cách ghi lại này giống khi xe va quệt, bài [xe thuê bị va chạm nhẹ khi đỗ cần báo gì cho cửa hàng](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-do-can-bao-gi-cho-cua-hang/) có thêm gợi ý về góc chụp.
 
 ## Báo cửa hàng cho thuê: nói gì để được trả lời nhanh
 

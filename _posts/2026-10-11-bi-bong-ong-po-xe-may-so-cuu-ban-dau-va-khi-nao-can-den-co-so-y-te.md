@@ -78,7 +78,7 @@ Khách nước ngoài có thể nhờ lễ tân khách sạn chỉ đường t�
 
 Sau khi vết bỏng đã được chăm sóc, hãy nghĩ đến chiếc xe. Nếu bạn chạm pô vì tấm che pô bị lỏng, nứt hoặc lệch, điều đó cần được kiểm tra để người đi sau không gặp lại. Hãy chụp vài bức ảnh ống xả và tấm che, ghi lại thời gian, địa điểm, rồi nhắn cho cửa hàng cho thuê.
 
-Cách báo cũng giống khi [xe thuê bị va chạm nhẹ lúc đang đỗ](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-o-can-bao-gi-cho-cua-hang/): mô tả ngắn, gửi ảnh rõ và hỏi hướng xử lý. Nếu xe có thêm trục trặc khiến bạn không muốn chạy tiếp, bài [xe thuê chết máy giữa đường nên gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-uong-goi-ai/) có gợi ý cách liên lạc và chờ an toàn.
+Cách báo cũng giống khi [xe thuê bị va chạm nhẹ lúc đang đỗ](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-do-can-bao-gi-cho-cua-hang/): mô tả ngắn, gửi ảnh rõ và hỏi hướng xử lý. Nếu xe có thêm trục trặc khiến bạn không muốn chạy tiếp, bài [xe thuê chết máy giữa đường nên gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-duong-goi-ai/) có gợi ý cách liên lạc và chờ an toàn.
 
 Khách thuê của Nguyễn Tú có thể nhắn số 0942 467 674 trong giờ 09:00–21:00 để mô tả tình trạng xe; hướng xử lý cụ thể nên xác nhận trực tiếp với cửa hàng.
 

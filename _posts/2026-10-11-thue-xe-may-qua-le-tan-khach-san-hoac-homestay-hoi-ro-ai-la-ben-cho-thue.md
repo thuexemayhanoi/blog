@@ -40,7 +40,7 @@ Trước khi hỏi, bạn nên biết mình có thể đang rơi vào kiểu nà
 4. "Trả xe ở đâu, nếu tôi trả phòng sớm hơn dự định thì sao?" Có nơi cho trả xe tại khách sạn, có nơi yêu cầu mang về cửa hàng.
 5. "Khách sạn có chịu trách nhiệm gì không nếu có tranh chấp?" Câu này buộc hai bên nói rõ vai trò.
 
-Một tình huống thường gặp: khách đặt xe tối hôm trước qua lễ tân ca đêm, sáng hôm sau lễ tân ca ngày không biết gì về thỏa thuận giá. Vì vậy, hãy xin thông tin bên cho thuê bằng tin nhắn hoặc ghi lại, đừng chỉ nghe miệng. Cách làm giống như khi bạn [đặt xe qua tổng đài và cần một tin xác nhận](/hoi-dap/2026/10/07/at-xe-may-thue-qua-tong-ai-co-can-xac-nhan-tin-khong/): có chữ viết thì mọi người đỡ nhớ nhầm.
+Một tình huống thường gặp: khách đặt xe tối hôm trước qua lễ tân ca đêm, sáng hôm sau lễ tân ca ngày không biết gì về thỏa thuận giá. Vì vậy, hãy xin thông tin bên cho thuê bằng tin nhắn hoặc ghi lại, đừng chỉ nghe miệng. Cách làm giống như khi bạn [đặt xe qua tổng đài và cần một tin xác nhận](/hoi-dap/2026/10/07/dat-xe-may-thue-qua-tong-dai-co-can-xac-nhan-tin-khong/): có chữ viết thì mọi người đỡ nhớ nhầm.
 
 ## Lúc nhận xe: giấy tờ và biên bản đứng tên ai
 
@@ -67,7 +67,7 @@ Tiền là chỗ hay rối nhất khi khách sạn giới thiệu cho thuê xe m
 
 **Ai nhận tiền.** Nếu trả cho lễ tân, hỏi lễ tân có chuyển đủ cho bên cho thuê không và có ghi nhận gì không. Nếu chuyển khoản, xem tên tài khoản là của ai: khách sạn, cửa hàng hay cá nhân.
 
-**Cọc giữ ở đâu.** Mức cọc và hình thức cọc mỗi nơi một khác, cần xác nhận trực tiếp với bên cho thuê. Hỏi rõ lúc trả xe thì ai hoàn cọc: lễ tân hay người của cửa hàng. Nhiều khách trả phòng lúc sáng sớm, cửa hàng chưa mở, thế là cọc treo lơ lửng. Bài [đặt cọc thuê xe máy bao nhiêu và nhận lại thế nào](/hoi-dap/2026/10/10/hoi-at-coc-thue-xe-may-bao-nhieu-va-nhan-lai-the-nao/) có thêm cách hỏi về cọc trước khi chốt.
+**Cọc giữ ở đâu.** Mức cọc và hình thức cọc mỗi nơi một khác, cần xác nhận trực tiếp với bên cho thuê. Hỏi rõ lúc trả xe thì ai hoàn cọc: lễ tân hay người của cửa hàng. Nhiều khách trả phòng lúc sáng sớm, cửa hàng chưa mở, thế là cọc treo lơ lửng. Bài [đặt cọc thuê xe máy bao nhiêu và nhận lại thế nào](/hoi-dap/2026/10/10/hoi-dat-coc-thue-xe-may-bao-nhieu-va-nhan-lai-the-nao/) có thêm cách hỏi về cọc trước khi chốt.
 
 **Giá có chênh không.** Giá qua trung gian có thể cao hơn giá cửa hàng, vì có phần cho người giới thiệu. Cứ hỏi giá đã gồm những gì để tự so sánh.
 

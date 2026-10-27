@@ -33,7 +33,7 @@ Với xe của mình, bạn có thể chờ xem. Với xe thuê thì khác: bạ
 - Có mùi khét, mùi xăng nồng hoặc khói bất thường, dù chỉ thoáng qua.
 - Tay lái rung lắc, xe bị kéo lệch sang một bên rồi lại thôi.
 
-Với nhóm này, hãy tấp vào lề, tắt máy, quan sát xung quanh rồi gọi cửa hàng trước khi đi tiếp. Nếu xe tắt hẳn không nổ lại, bài [xe thuê chết máy giữa đường nên gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-uong-goi-ai/) có các bước cụ thể hơn.
+Với nhóm này, hãy tấp vào lề, tắt máy, quan sát xung quanh rồi gọi cửa hàng trước khi đi tiếp. Nếu xe tắt hẳn không nổ lại, bài [xe thuê chết máy giữa đường nên gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-duong-goi-ai/) có các bước cụ thể hơn.
 
 ### Có thể đi tiếp chậm rãi nhưng nên báo trong ngày
 

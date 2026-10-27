@@ -65,7 +65,7 @@ Người đi chung nhóm cũng nên tự gửi ảnh của mình, đừng nhờ 
 - **Gửi trong khung chat riêng**, không gửi vào nhóm chung, kể cả nhóm của khách sạn hay nhóm đi phượt.
 - **Không gửi qua nhiều kênh.** Đã gửi qua Zalo thì đừng gửi thêm qua email hay mạng xã hội khác "cho chắc".
 
-Nếu bạn đặt xe ở Nguyễn Tú, cửa hàng ở Bồ Đề, Long Biên, hãy dùng đúng số điện thoại và tài khoản đăng trên trang web chính thức, và hỏi nhân viên cần những dòng thông tin nào. Cách xác minh người nhận cũng giống khi bạn [đặt xe qua Zalo và chốt cọc](/hoi-dap/2026/10/09/at-xe-may-thue-qua-zalo-chot-coc-sao/): gọi số chính thức, hỏi lại, đối chiếu.
+Nếu bạn đặt xe ở Nguyễn Tú, cửa hàng ở Bồ Đề, Long Biên, hãy dùng đúng số điện thoại và tài khoản đăng trên trang web chính thức, và hỏi nhân viên cần những dòng thông tin nào. Cách xác minh người nhận cũng giống khi bạn [đặt xe qua Zalo và chốt cọc](/hoi-dap/2026/10/09/dat-xe-may-thue-qua-zalo-chot-coc-sao/): gọi số chính thức, hỏi lại, đối chiếu.
 
 ### Với hộ chiếu của khách nước ngoài
 
@@ -79,6 +79,6 @@ Tấm ảnh đã gửi đi không hoàn toàn nằm trong tay bạn nữa, nhưn
 - Xóa bản ảnh đã chỉnh trong thư viện điện thoại nếu bạn không cần nữa, và kiểm tra ảnh không bị tự đồng bộ vào album chia sẻ với người khác.
 - Nếu lỡ gửi nhầm người, dùng chức năng thu hồi tin nhắn càng sớm càng tốt, rồi báo cho đúng tiệm biết.
 
-Khi tới nhận xe, mang theo giấy tờ thật để đối chiếu với tấm ảnh đã gửi. Nếu thông tin trên phiếu thuê có chỗ chưa khớp, đề nghị sửa ngay lúc đó. Còn nếu đã gửi ảnh mà chưa thấy tiệm xác nhận giữ xe, xem bài [đặt xe trước qua tin nhắn có giữ xe không](/hoi-dap/2026/10/10/hoi-at-xe-truoc-qua-tin-nhan-co-giu-xe-khong/).
+Khi tới nhận xe, mang theo giấy tờ thật để đối chiếu với tấm ảnh đã gửi. Nếu thông tin trên phiếu thuê có chỗ chưa khớp, đề nghị sửa ngay lúc đó. Còn nếu đã gửi ảnh mà chưa thấy tiệm xác nhận giữ xe, xem bài [đặt xe trước qua tin nhắn có giữ xe không](/hoi-dap/2026/10/10/hoi-dat-xe-truoc-qua-tin-nhan-co-giu-xe-khong/).
 
 Các câu hỏi khác về giấy tờ và đặt xe nằm ở mục [hỏi đáp thủ tục](/hoi-dap/hoi-dap-thu-tuc/), còn toàn bộ chủ đề có trong trang [hỏi đáp thuê xe máy](/hoi-dap/). Tóm lại: hỏi trước tiệm cần gì, chụp gọn, che bằng khối đặc, ghi chú mục đích, và chỉ gửi vào đúng một khung chat đã xác minh.

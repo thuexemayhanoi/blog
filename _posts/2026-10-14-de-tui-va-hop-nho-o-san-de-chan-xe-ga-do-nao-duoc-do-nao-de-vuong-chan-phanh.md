@@ -55,7 +55,7 @@ Có những món nhìn nhỏ nhưng thuộc nhóm dễ gây chuyện nhất trê
 - **Đồ nóng hoặc chảy nước**: canh, nước đá, đồ đông lạnh rỉ nước làm sàn trơn, bàn chân dễ trượt lúc chống xuống.
 - **Đồ có quai dài lủng lẳng**: túi tote, túi đeo chéo. Nếu buộc phải mang, quấn gọn quai trước khi đặt.
 
-Những món này hợp với cốp, giá chở hàng phía sau hoặc ba lô đeo lưng hơn. Bài [để đồ trong cốp, giỏ và móc treo khi rời xe](/ky-nang/2026/10/11/e-o-trong-cop-gio-va-moc-treo-khi-roi-xe-mon-nao-nen-mon-nao-khong/) phân chia kỹ từng vị trí, còn sức chứa thực tế của cốp xe ga có trong bài [khoang để đồ dưới yên xe ga chở được gì](/xe-may/2026/09/27/khoang-e-o-duoi-yen-xe-ga-cho-uoc-gi/).
+Những món này hợp với cốp, giá chở hàng phía sau hoặc ba lô đeo lưng hơn. Bài [để đồ trong cốp, giỏ và móc treo khi rời xe](/ky-nang/2026/10/11/de-do-trong-cop-gio-va-moc-treo-khi-roi-xe-mon-nao-nen-mon-nao-khong/) phân chia kỹ từng vị trí, còn sức chứa thực tế của cốp xe ga có trong bài [khoang để đồ dưới yên xe ga chở được gì](/xe-may/2026/09/27/khoang-de-do-duoi-yen-xe-ga-cho-duoc-gi/).
 
 ## Cách đặt túi ở chỗ để chân xe tay ga cho chắc
 

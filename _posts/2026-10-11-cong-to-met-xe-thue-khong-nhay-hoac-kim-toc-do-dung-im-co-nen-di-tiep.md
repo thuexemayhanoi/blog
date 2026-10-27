@@ -38,7 +38,7 @@ Tùy dòng xe, đồng hồ lấy tín hiệu bằng dây cáp cơ khí nối t�
 - Dây điện bị cọ xát, đứt ngầm.
 - Lỗi trong cụm đồng hồ: màn hình vẫn sáng nhưng số liệu không cập nhật.
 
-Nếu đồng hồ chết ngay sau khi đi qua chỗ ngập, hãy để ý thêm đề khó nổ hay đèn chập chờn. Khi đó nên xem hướng dẫn xử lý [xe ướt nước mưa không đề nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-e-khong-no/) vì vấn đề có thể không chỉ ở đồng hồ.
+Nếu đồng hồ chết ngay sau khi đi qua chỗ ngập, hãy để ý thêm đề khó nổ hay đèn chập chờn. Khi đó nên xem hướng dẫn xử lý [xe ướt nước mưa không đề nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-de-khong-no/) vì vấn đề có thể không chỉ ở đồng hồ.
 
 ## Đồng hồ tốc độ xe máy hỏng có đi tiếp được không
 
@@ -90,7 +90,7 @@ Ví dụ: bạn thuê xe đi làm cả tuần ở Cầu Giấy, sáng thứ ba m
 
 Nên báo ngay trong ngày phát hiện, kể cả khi xe vẫn chạy tốt. Báo sớm giúp tránh hỏng thêm và tránh hiểu lầm khi trả xe. Nếu kèm dấu hiệu nguy hiểm như tiếng lạ ở bánh trước hay lỗi điện, đừng đi tiếp mà dừng xe và gọi trước.
 
-Khi liên hệ, hãy nói rõ bạn đang ở đâu, xe còn đi được không, và hỏi cửa hàng muốn bạn mang xe về hay ghé một tiệm sửa gần đó. Đừng tự ý cho thợ ngoài thay cáp hay tháo đồng hồ khi chưa hỏi, giống như khi bạn băn khoăn [lốp thủng có được vá ở tiệm gần nhất không](/hoi-dap/2026/10/07/hoi-lop-xe-thue-bi-thung-co-uoc-va-o-tiem-gan-nhat-khong/): hỏi trước, làm sau.
+Khi liên hệ, hãy nói rõ bạn đang ở đâu, xe còn đi được không, và hỏi cửa hàng muốn bạn mang xe về hay ghé một tiệm sửa gần đó. Đừng tự ý cho thợ ngoài thay cáp hay tháo đồng hồ khi chưa hỏi, giống như khi bạn băn khoăn [lốp thủng có được vá ở tiệm gần nhất không](/hoi-dap/2026/10/07/hoi-lop-xe-thue-bi-thung-co-duoc-va-o-tiem-gan-nhat-khong/): hỏi trước, làm sau.
 
 Nếu thuê xe ở Thuê Xe Máy Hà Nội Nguyễn Tú, bạn có thể gọi 0942 467 674 trong giờ 09:00–21:00 để được hướng dẫn. Các tình huống tương tự được tổng hợp ở mục [hỏi đáp sự cố xe thuê](/hoi-dap/hoi-dap-su-co/), còn thắc mắc khác về thuê xe có trong [chuyên mục hỏi đáp](/hoi-dap/).
 

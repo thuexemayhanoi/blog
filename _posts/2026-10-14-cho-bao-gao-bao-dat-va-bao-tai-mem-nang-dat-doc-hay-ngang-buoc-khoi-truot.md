@@ -78,7 +78,7 @@ Xe chở bao nặng phanh dài hơn và vào cua kém nhạy hơn.
 - **Qua gờ giảm tốc và ngõ lát gạch thật chậm.** Ngõ nhỏ ở Đống Đa, Hai Bà Trưng nhiều nắp cống gồ ghề, mỗi cú nảy là bao bị nhấc lên rồi dập xuống.
 - **Dựng chân chống giữa khi dỡ hàng.** Chân chống nghiêng cộng với bao nặng ở yên sau dễ làm xe đổ khi bạn tháo dây.
 
-Chở hàng trên xe máy có giới hạn về kích thước và cách xếp, đừng để bao chìa rộng hai bên. Phần quy định được giải thích trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/).
+Chở hàng trên xe máy có giới hạn về kích thước và cách xếp, đừng để bao chìa rộng hai bên. Phần quy định được giải thích trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/).
 
 ## Khi nào nên chia chuyến hoặc nhờ giao
 
