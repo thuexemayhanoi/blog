@@ -76,7 +76,7 @@ Trong lúc chờ, nếu đèn pha yếu hoặc chập chờn thì hạn chế ch
 Một vài thói quen nhỏ giúp đèn ít bị mờ và bạn phát hiện lỗi sớm:
 
 - **Kiểm tra đèn ngay lúc nhận xe**, bật pha, cốt, xi nhan, bóp phanh trước và sau. Cách làm chi tiết có trong bài [kiểm tra đèn pha, đèn cốt và đèn hậu xe thuê trước khi chạy đêm](/thue-xe/2026/10/14/kiem-tra-den-pha-den-cot-va-den-hau-xe-thue-truoc-khi-chay-dem-qua-cau-nhat-tan/).
-- **Ngày nồm, nổ máy và bật đèn ngay khi xuất phát** chứ không đợi trời tối, vừa để người khác thấy bạn, vừa giúp chụp đèn khô dần. Những điểm khác cần chú ý khi chạy trong không khí ẩm nằm ở bài [chạy xe máy ngày nồm ở Hà Nội](/ky-nang/2026/10/01/chay-xe-may-ngay-nom-ha-noi-mat-uong-va-tam-nhin-khac-mua/).
+- **Ngày nồm, nổ máy và bật đèn ngay khi xuất phát** chứ không đợi trời tối, vừa để người khác thấy bạn, vừa giúp chụp đèn khô dần. Những điểm khác cần chú ý khi chạy trong không khí ẩm nằm ở bài [chạy xe máy ngày nồm ở Hà Nội](/ky-nang/2026/10/01/chay-xe-may-ngay-nom-ha-noi-mat-duong-va-tam-nhin-khac-mua/).
 - **Sau khi lội nước**, nhìn nhanh đèn hậu và đèn pha trước khi đi tiếp.
 
 Tóm lại, lớp sương mỏng trong chụp đèn sau mưa hay ngày nồm thường không đáng lo và tự hết khi đèn được bật một lúc. Còn khi nước đã thành giọt, đọng đáy hoặc đèn bắt đầu chập chờn, đó là lúc dừng tự xử lý và báo cửa hàng. Các bài khác về chăm sóc xe trong thời gian thuê được gom ở mục [bảo dưỡng xe máy](/xe-may/bao-duong-xe/), còn thông tin chung về các dòng xe nằm ở chuyên mục [xe máy](/xe-may/).

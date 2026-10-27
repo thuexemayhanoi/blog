@@ -82,7 +82,7 @@ Thói quen nên tập:
 - **Liếc đèn báo xi nhan sau mỗi lần rẽ**, nếu còn nháy thì bấm tắt.
 - **Nghe tiếng tạch tạch.** Nhiều xe có tiếng kêu khi xi nhan bật, nghe thấy là biết chưa tắt.
 
-Nếu đèn xi nhan nháy nhanh bất thường hoặc không nháy, có thể một bóng đèn bên ngoài đã hỏng. Báo cửa hàng để kiểm tra, và đọc thêm cách bật xi nhan đúng lúc ở bài [xi nhan đúng thời điểm khi đi xe máy](/ky-nang/2026/10/11/xi-nhan-ung-thoi-iem-khi-i-xe-may/).
+Nếu đèn xi nhan nháy nhanh bất thường hoặc không nháy, có thể một bóng đèn bên ngoài đã hỏng. Báo cửa hàng để kiểm tra, và đọc thêm cách bật xi nhan đúng lúc ở bài [xi nhan đúng thời điểm khi đi xe máy](/ky-nang/2026/10/11/xi-nhan-dung-thoi-diem-khi-di-xe-may/).
 
 ## Đèn pha xa: sáng khi nào, tắt khi nào
 

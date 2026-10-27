@@ -37,7 +37,7 @@ Về số người đỗ tiến sĩ, các tài liệu khác nhau đưa ra con s�
 
 Từ khu Cầu Giấy hoặc Xuân Thủy, chạy theo trục Phạm Văn Đồng về phía bắc, hướng cầu Thăng Long. Đến gần khu vực chân cầu, rời trục chính rẽ phải vào đường dẫn về phía Đông Ngạc theo bản đồ. Lưu ý quan trọng: đường Vành đai 3 trên cao chạy dọc khu này cấm xe máy, bạn chỉ đi đường bên dưới. Phạm Văn Đồng có nhiều xe tải và xe khách, nên giữ làn bên phải, xi nhan sớm trước khi rẽ.
 
-Cách đi trục này cho trơn tru được bàn kỹ trong bài [cung đường Phạm Văn Đồng và Võ Nguyên Giáp](/cung-duong/2026/10/09/cung-uong-pham-van-ong-va-vo-nguyen-giep-chay-xe-may/).
+Cách đi trục này cho trơn tru được bàn kỹ trong bài [cung đường Phạm Văn Đồng và Võ Nguyên Giáp](/cung-duong/2026/10/09/cung-duong-pham-van-dong-va-vo-nguyen-giep-chay-xe-may/).
 
 ### Hướng đường ven đê
 
@@ -76,7 +76,7 @@ Nếu vẫn phải chạy xe vào ngõ, chẳng hạn khi trời nắng to hoặ
 - **Gặp xe ngược chiều thì dừng hẳn, nép sát tường nhường đường.** Đừng cố lách qua khi hai bên chỉ còn một gang tay.
 - **Tắt máy dắt bộ ở đoạn quá hẹp.** Vừa an toàn vừa lịch sự với người làng.
 
-Nếu lỡ đi vào ngõ cụt, bài [quay đầu xe máy ở ngõ nhỏ](/ky-nang/2026/10/09/quay-au-xe-may-o-ngo-nho-co-cach-nao-gon/) hướng dẫn cách xoay xe gọn mà không va quẹt.
+Nếu lỡ đi vào ngõ cụt, bài [quay đầu xe máy ở ngõ nhỏ](/ky-nang/2026/10/09/quay-dau-xe-may-o-ngo-nho-co-cach-nao-gon/) hướng dẫn cách xoay xe gọn mà không va quẹt.
 
 ## Ứng xử ở di tích và nhà dân
 
@@ -84,7 +84,7 @@ Làng cổ là nơi người dân đang sống, không phải khu du lịch dự
 
 Dịp hội làng đầu năm âm lịch, khu đình có thể rất đông, đường vào hạn chế xe. Nếu muốn đi đúng hôm hội, hỏi người làng về ngày giờ và chỗ để xe, vì cách bố trí có thể thay đổi mỗi năm.
 
-Nếu bạn thích kiểu làng cổ có nhà đá ong và cổng làng lớn, có thể so sánh với chuyến đi [làng cổ Đường Lâm bằng xe máy](/cung-duong/2026/10/04/lang-co-uong-lam-bang-xe-may-tu-ha-noi-cung-uong-va-gui-xe/). Đường Lâm xa hơn, còn làng Vẽ chỉ cần nửa buổi.
+Nếu bạn thích kiểu làng cổ có nhà đá ong và cổng làng lớn, có thể so sánh với chuyến đi [làng cổ Đường Lâm bằng xe máy](/cung-duong/2026/10/04/lang-co-duong-lam-bang-xe-may-tu-ha-noi-cung-duong-va-gui-xe/). Đường Lâm xa hơn, còn làng Vẽ chỉ cần nửa buổi.
 
 ## Thuê xe máy để đi làng cổ ven đô
 

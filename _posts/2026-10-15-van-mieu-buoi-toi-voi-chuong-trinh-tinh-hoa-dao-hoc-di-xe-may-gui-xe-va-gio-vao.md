@@ -17,7 +17,7 @@ writer_session: s-claude-w2
 
 Văn Miếu về đêm là một trải nghiệm khác hẳn buổi sáng chụp ảnh ở Khuê Văn Các: sân gạch được chiếu sáng có chủ ý, có người dẫn chuyện, và điểm nhấn là màn trình chiếu "Tinh hoa Đạo học" lên chính các mái ngói cổ. Đi buổi tối bằng xe máy thì cần tính trước vài chuyện: vé đặt ở đâu cho đúng, đến cổng nào, gửi xe chỗ nào còn trông tới lúc tan, và chạy về thế nào khi đã khuya. Bài này dành cho gia đình, nhóm học sinh và du khách muốn đi một buổi tối trọn vẹn.
 
-Nếu bạn đi ban ngày, giờ đi và chỗ gửi xe đã có trong bài [đến Văn Miếu Quốc Tử Giám bằng xe máy](/du-lich/2026/10/10/en-van-mieu-quoc-tu-giam-bang-xe-may-gio-i-va-gui-xe/). Phần dưới đây chỉ nói về chương trình buổi tối.
+Nếu bạn đi ban ngày, giờ đi và chỗ gửi xe đã có trong bài [đến Văn Miếu Quốc Tử Giám bằng xe máy](/du-lich/2026/10/10/den-van-mieu-quoc-tu-giam-bang-xe-may-gio-di-va-gui-xe/). Phần dưới đây chỉ nói về chương trình buổi tối.
 
 ## Văn Miếu về đêm có gì trong chương trình Tinh hoa Đạo học
 
@@ -59,7 +59,7 @@ Ban ngày khu này có nhiều chỗ giữ xe vì lượng khách tham quan lớ
 - **Không để xe sát mép đường hồ Văn.** Đoạn này khách đi bộ, chụp ảnh đông vào buổi tối.
 - **Khóa cổ, mang theo đồ giá trị.** Mũ bảo hiểm nếu được thì gửi cùng xe theo cách bãi hướng dẫn.
 
-Chi phí gửi xe buổi tối hỏi trực tiếp tại bãi. Cách chọn bãi khi biết sẽ lấy xe muộn cũng giống khi đi xem phim, có trong bài [gửi xe máy khi đi xem phim đêm](/ky-nang/2026/10/11/gui-xe-may-khi-i-xem-phim-em-bai-ve-khuya/).
+Chi phí gửi xe buổi tối hỏi trực tiếp tại bãi. Cách chọn bãi khi biết sẽ lấy xe muộn cũng giống khi đi xem phim, có trong bài [gửi xe máy khi đi xem phim đêm](/ky-nang/2026/10/11/gui-xe-may-khi-di-xem-phim-dem-bai-ve-khuya/).
 
 ## Trong lúc tham quan: đi cùng trẻ em và người lớn tuổi
 

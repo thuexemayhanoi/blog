@@ -42,7 +42,7 @@ Hãm bằng số là công cụ rất có ích trên đường ướt, vì nó g
 3. **Không nhảy cóc từ số cao xuống số thấp nhất.** Về số quá sâu khi xe còn nhanh làm bánh sau ghìm đột ngột, trên mặt ướt dễ giật đuôi.
 4. **Kết hợp nhẹ phanh sau** trong lúc về số nếu cần chậm nhanh hơn.
 
-Hiện tượng bánh sau giật khi giảm số trên đường ướt được giải thích kỹ trong bài [giảm số trên đường ướt](/xe-may/2026/10/11/giam-so-tren-uong-uot-vi-sao-banh-sau-de-giat-va-cach-giam-cho-muot/). Còn nguyên lý dùng số thấp thay cho bóp phanh liên tục trong phố, xem bài [phanh động cơ trên xe số](/xe-may/2026/10/14/phanh-dong-co-tren-xe-so-ve-so-thap-de-giam-toc-trong-pho-thay-vi-chi-bop-phanh/).
+Hiện tượng bánh sau giật khi giảm số trên đường ướt được giải thích kỹ trong bài [giảm số trên đường ướt](/xe-may/2026/10/11/giam-so-tren-duong-uot-vi-sao-banh-sau-de-giat-va-cach-giam-cho-muot/). Còn nguyên lý dùng số thấp thay cho bóp phanh liên tục trong phố, xem bài [phanh động cơ trên xe số](/xe-may/2026/10/14/phanh-dong-co-tren-xe-so-ve-so-thap-de-giam-toc-trong-pho-thay-vi-chi-bop-phanh/).
 
 ## Phanh trước phanh sau xe số: trình tự khi gặp đèn đỏ lúc trời mưa
 
@@ -79,7 +79,7 @@ Qua nhiều mùa mưa, vài lỗi lặp lại khá đều ở người mới đi
 - Phanh khi đang nghiêng cua, ví dụ lúc rẽ từ đường lớn vào ngõ.
 - Đi sát xe phía trước, nên lúc nào cũng phải phanh gấp.
 
-Nếu cảm thấy phanh yếu hơn mọi khi, tay phanh bóp sâu, hoặc phanh có tiếng rít kéo dài sau khi đi qua đoạn ngập, hãy tấp vào chỗ an toàn và báo cửa hàng ở 112 Nguyễn Văn Cừ, Long Biên trong giờ 09:00 đến 21:00, đừng cố đi tiếp. Người từng đi Wave có thể đọc thêm bài [Honda Wave phanh cơ khi đường ướt](/xe-may/2026/10/11/honda-wave-phanh-co-khi-uong-uot-phanh-som-hon-va-re-phanh-cho-kho/) để thấy khác biệt khi đổi xe.
+Nếu cảm thấy phanh yếu hơn mọi khi, tay phanh bóp sâu, hoặc phanh có tiếng rít kéo dài sau khi đi qua đoạn ngập, hãy tấp vào chỗ an toàn và báo cửa hàng ở 112 Nguyễn Văn Cừ, Long Biên trong giờ 09:00 đến 21:00, đừng cố đi tiếp. Người từng đi Wave có thể đọc thêm bài [Honda Wave phanh cơ khi đường ướt](/xe-may/2026/10/11/honda-wave-phanh-co-khi-duong-uot-phanh-som-hon-va-re-phanh-cho-kho/) để thấy khác biệt khi đổi xe.
 
 ## Tóm lại
 

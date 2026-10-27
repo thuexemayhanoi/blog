@@ -42,7 +42,7 @@ Xe ga hầu như đều đòi bóp một tay phanh trong lúc bấm đề. Nhi�
 
 Nếu xe có công tắc tắt máy khẩn cấp, thường là một nút gạt màu đỏ ở tay lái phải, hãy kiểm tra nó có bị gạt sang vị trí tắt không. Người ngồi sau, trẻ nhỏ hay chính bạn khi treo túi đồ có thể vô tình gạt nhầm. Gạt về vị trí chạy rồi đề lại.
 
-Ba bước đầu này là những chốt an toàn hay bị quên nhất, phân tích riêng từng chốt có trong bài [bấm đề xe ga không phản ứng: những công tắc an toàn hay bị quên](/xe-may/2026/10/11/bam-e-xe-ga-khong-phan-ung-nhung-cong-tac-an-toan-hay-bi-quen/).
+Ba bước đầu này là những chốt an toàn hay bị quên nhất, phân tích riêng từng chốt có trong bài [bấm đề xe ga không phản ứng: những công tắc an toàn hay bị quên](/xe-may/2026/10/11/bam-de-xe-ga-khong-phan-ung-nhung-cong-tac-an-toan-hay-bi-quen/).
 
 ### Bước 4: chìa khóa hoặc Smartkey
 
@@ -52,7 +52,7 @@ Với xe Smartkey, xe phải nhận được tín hiệu khóa thông minh trư�
 
 ### Bước 5: ắc quy yếu, đề quay chậm
 
-Khi mọi chốt đã ổn mà đề chỉ quay chậm, kêu tạch tạch hoặc đèn đồng hồ mờ đi lúc bấm, khả năng cao ắc quy yếu. Xe để qua đêm ngoài trời lạnh hay quên tắt khóa trong bãi gửi là nguyên nhân hay gặp. Dấu hiệu và cách xử lý được nói kỹ trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/).
+Khi mọi chốt đã ổn mà đề chỉ quay chậm, kêu tạch tạch hoặc đèn đồng hồ mờ đi lúc bấm, khả năng cao ắc quy yếu. Xe để qua đêm ngoài trời lạnh hay quên tắt khóa trong bãi gửi là nguyên nhân hay gặp. Dấu hiệu và cách xử lý được nói kỹ trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/).
 
 Nếu xe có cần đạp khởi động, người giao xe có thể đã chỉ bạn cách dùng; khi không chắc thì hỏi cửa hàng trước, đừng đạp mạnh liên tục.
 

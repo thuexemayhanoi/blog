@@ -64,7 +64,7 @@ Nếu lịch đi của bạn chủ yếu là từ nhà tới chỗ làm, đi ch�
 
 ### Đi xa, đi đường đê, lên cầu
 
-Khi đi ra ngoại thành, ví dụ chạy dọc đê sông Hồng về phía Bát Tràng, qua cầu Nhật Tân sang Đông Anh, hay đi trong ngày tới Ba Vì, cảm giác đầm của Sirius thường được đánh giá cao hơn. Xe đứng vững khi gặp gió ngang trên cầu, ga bốc khi cần vượt. Blade vẫn đi được những chặng này thoải mái, nhưng người hay đi đường dài thường nghiêng về Sirius. Bài [Sirius cho chặng đường trường quãng ngắn](/xe-may/2026/09/27/sirius-cho-chang-uong-truong-quang-ngan/) có thêm kinh nghiệm cho kiểu đi này.
+Khi đi ra ngoại thành, ví dụ chạy dọc đê sông Hồng về phía Bát Tràng, qua cầu Nhật Tân sang Đông Anh, hay đi trong ngày tới Ba Vì, cảm giác đầm của Sirius thường được đánh giá cao hơn. Xe đứng vững khi gặp gió ngang trên cầu, ga bốc khi cần vượt. Blade vẫn đi được những chặng này thoải mái, nhưng người hay đi đường dài thường nghiêng về Sirius. Bài [Sirius cho chặng đường trường quãng ngắn](/xe-may/2026/09/27/sirius-cho-chang-duong-truong-quang-ngan/) có thêm kinh nghiệm cho kiểu đi này.
 
 ### Chở người và chở đồ
 

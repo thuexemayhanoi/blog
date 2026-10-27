@@ -46,7 +46,7 @@ Nhận xe buổi tối thì dùng đèn điện thoại soi nghiêng để rãnh
 
 ## Vết nứt, chỗ phồng và dị vật kẹt trong gai
 
-Sau gai, hãy nhìn kỹ hông lốp, phần thường bị bỏ qua nhất. Lốp đã cũ hoặc hay phơi nắng thường có những vết nứt nhỏ như chân chim. Vết nông, mảnh trên bề mặt cao su thường chỉ là dấu hiệu tuổi lốp. Vết nứt sâu, toác miệng, hoặc nhìn thấy lớp sợi bố bên trong thì không nên mang xe đi xa. Bài [vết nứt trên lốp xe cũ cần để ý điều gì](/xe-may/2026/10/03/vet-nut-tren-lop-xe-cu-can-e-y-ieu-gi/) nói kỹ hơn về cách phân biệt.
+Sau gai, hãy nhìn kỹ hông lốp, phần thường bị bỏ qua nhất. Lốp đã cũ hoặc hay phơi nắng thường có những vết nứt nhỏ như chân chim. Vết nông, mảnh trên bề mặt cao su thường chỉ là dấu hiệu tuổi lốp. Vết nứt sâu, toác miệng, hoặc nhìn thấy lớp sợi bố bên trong thì không nên mang xe đi xa. Bài [vết nứt trên lốp xe cũ cần để ý điều gì](/xe-may/2026/10/03/vet-nut-tren-lop-xe-cu-can-de-y-dieu-gi/) nói kỹ hơn về cách phân biệt.
 
 Chỗ phồng lồi lên trên hông lốp, dù nhỏ, là dấu hiệu lớp bên trong đã bị tổn thương. Trường hợp này cần báo cửa hàng ngay, không tiếp tục chạy.
 

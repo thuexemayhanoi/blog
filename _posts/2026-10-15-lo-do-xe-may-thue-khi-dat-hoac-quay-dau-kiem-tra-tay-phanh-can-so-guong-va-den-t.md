@@ -31,7 +31,7 @@ Khi dắt bộ hoặc quay đầu ở tốc độ đi bộ, sức nặng của x
 
 **Nhìn quanh bình xăng.** Xe nằm nghiêng lâu, xăng có thể rỉ ra ở nắp bình hoặc chảy thành vệt dưới thân xe. Thấy xăng thì tránh xa mọi nguồn lửa và đừng vội đề máy.
 
-**Dựng xe theo đúng tư thế.** Cách chung, không phụ thuộc loại xe: quay lưng tựa sát vào yên, hai tay nắm chắc tay lái phía thấp và một điểm cứng ở đuôi xe như tay dắt sau, gập gối, rồi đẩy bằng chân mà lùi dần về phía sau cho xe đứng lên. Sức nâng nằm ở đùi, không phải ở lưng. Xe ga khá nặng, nếu thấy quá sức thì nhờ người qua đường hoặc bác trông xe đỡ cùng. Chi tiết từng tư thế có trong bài [dựng xe máy bị đổ nghiêng một mình mà không đau lưng](/ky-nang/2026/10/11/xe-may-bi-o-nghieng-cach-mot-minh-dung-xe-len-ma-khong-au-lung/).
+**Dựng xe theo đúng tư thế.** Cách chung, không phụ thuộc loại xe: quay lưng tựa sát vào yên, hai tay nắm chắc tay lái phía thấp và một điểm cứng ở đuôi xe như tay dắt sau, gập gối, rồi đẩy bằng chân mà lùi dần về phía sau cho xe đứng lên. Sức nâng nằm ở đùi, không phải ở lưng. Xe ga khá nặng, nếu thấy quá sức thì nhờ người qua đường hoặc bác trông xe đỡ cùng. Chi tiết từng tư thế có trong bài [dựng xe máy bị đổ nghiêng một mình mà không đau lưng](/ky-nang/2026/10/11/xe-may-bi-do-nghieng-cach-mot-minh-dung-xe-len-ma-khong-dau-lung/).
 
 Khi xe đã đứng, hạ chân chống ở chỗ phẳng và dắt sang mép đường để kiểm tra.
 
@@ -57,7 +57,7 @@ Bật đèn pha, đèn cốt, xi nhan hai bên, bóp phanh để xem đèn hậu
 
 ### Tay lái và bánh trước
 
-Đứng trước xe, kẹp bánh trước giữa hai đầu gối, nhìn xem tay lái có vuông với bánh không. Dắt thẳng một đoạn ngắn: tay lái thẳng thì xe phải đi thẳng. Bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-en-phanh-xe-may-thue-truoc-khi-nhan-xe/) có thể dùng làm mốc để so với tình trạng lúc bạn mới nhận.
+Đứng trước xe, kẹp bánh trước giữa hai đầu gối, nhìn xem tay lái có vuông với bánh không. Dắt thẳng một đoạn ngắn: tay lái thẳng thì xe phải đi thẳng. Bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-den-phanh-xe-may-thue-truoc-khi-nhan-xe/) có thể dùng làm mốc để so với tình trạng lúc bạn mới nhận.
 
 ## Mùi xăng và vệt chất lỏng: dấu hiệu phải dừng hẳn
 
@@ -77,7 +77,7 @@ Nếu bạn đang thuê Sirius, có thêm vài điểm riêng của dòng xe nà
 
 Chụp vài tấm: toàn cảnh xe tại chỗ đổ, cận cảnh bên bị chạm đất, tay phanh, gương, đèn và mọi vết mới. Ảnh có ghi thời gian là cách rõ ràng nhất để hai bên cùng hiểu sự việc khi trả xe.
 
-Gọi hoặc nhắn Zalo tới số 0942467674, nói ngắn gọn: đổ ở đâu, đổ bên nào, lúc dắt hay lúc quay đầu, bộ phận nào bạn thấy khác thường, rồi gửi ảnh. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, làm việc từ 09:00 đến 21:00. Việc sửa ở đâu và chi phí nếu có đều cần xác nhận với cửa hàng trước, đừng tự mang xe ra tiệm ven đường. Cách ghi lại hiện trường kỹ hơn có trong bài [làm xước hoặc làm đổ xe thuê: cách báo cửa hàng](/thue-xe/2026/10/12/lam-xuoc-hoac-lam-o-xe-thue-cach-bao-cua-hang-va-ghi-lai-hien-truong/).
+Gọi hoặc nhắn Zalo tới số 0942467674, nói ngắn gọn: đổ ở đâu, đổ bên nào, lúc dắt hay lúc quay đầu, bộ phận nào bạn thấy khác thường, rồi gửi ảnh. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, làm việc từ 09:00 đến 21:00. Việc sửa ở đâu và chi phí nếu có đều cần xác nhận với cửa hàng trước, đừng tự mang xe ra tiệm ven đường. Cách ghi lại hiện trường kỹ hơn có trong bài [làm xước hoặc làm đổ xe thuê: cách báo cửa hàng](/thue-xe/2026/10/12/lam-xuoc-hoac-lam-do-xe-thue-cach-bao-cua-hang-va-ghi-lai-hien-truong/).
 
 ## Để lần sau dắt và quay đầu không bị đổ
 

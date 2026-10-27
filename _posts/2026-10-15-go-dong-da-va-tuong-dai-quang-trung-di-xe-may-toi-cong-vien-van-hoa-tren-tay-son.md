@@ -76,6 +76,6 @@ Ngày khai hội, phố Đặng Tiến Đông đoạn từ Tây Sơn tới Trung
 
 ## Ghép Gò Đống Đa với các điểm gần Tây Sơn
 
-Từ công viên, bạn có thể ghé khu Chùa Bộc, Thái Hà rồi theo đường quen về phía hồ Gươm, lộ trình có trong bài [từ khu Chùa Bộc, Thái Hà, Tây Sơn về Hồ Gươm](/cung-duong/2026/10/11/tu-khu-chua-boc-thai-ha-tay-son-ve-ho-guom-bang-xe-may-di-duong-nao/). Gia đình có trẻ học sử có thể ghép thêm Văn Miếu ở phía Ô Chợ Dừa, đường đi và chỗ gửi xe xem ở bài [đến Văn Miếu Quốc Tử Giám bằng xe máy](/du-lich/2026/09/28/en-van-mieu-quoc-tu-giam-bang-xe-may-gui-xe-va-uong-i/).
+Từ công viên, bạn có thể ghé khu Chùa Bộc, Thái Hà rồi theo đường quen về phía hồ Gươm, lộ trình có trong bài [từ khu Chùa Bộc, Thái Hà, Tây Sơn về Hồ Gươm](/cung-duong/2026/10/11/tu-khu-chua-boc-thai-ha-tay-son-ve-ho-guom-bang-xe-may-di-duong-nao/). Gia đình có trẻ học sử có thể ghép thêm Văn Miếu ở phía Ô Chợ Dừa, đường đi và chỗ gửi xe xem ở bài [đến Văn Miếu Quốc Tử Giám bằng xe máy](/du-lich/2026/09/28/den-van-mieu-quoc-tu-giam-bang-xe-may-gui-xe-va-duong-di/).
 
 Gò Đống Đa đáng ghé hơn một lần liếc qua từ phố Tây Sơn: đến đúng chiều, gửi xe có người trông, dành một giờ đi quanh gò và đứng trước tượng đài. Các di tích khác trong nội thành nằm ở mục [bảo tàng và di tích](/du-lich/bao-tang/), còn mọi gợi ý điểm đến bằng xe máy có ở chuyên mục [du lịch](/du-lich/).

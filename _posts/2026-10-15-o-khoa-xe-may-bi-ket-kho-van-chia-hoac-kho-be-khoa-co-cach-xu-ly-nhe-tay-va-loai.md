@@ -86,4 +86,4 @@ Xe dùng chìa điều khiển thay cho ổ cắm chìa thì xem bài [chìa kh�
 - **Giữ chìa nhẹ và sạch.** Chùm chìa nặng treo lủng lẳng làm ổ mòn nhanh; đừng dùng chìa xe để mở nắp chai.
 - **Thử chìa ngay khi nhận xe:** xoay qua các vị trí, khóa cổ rồi mở lại một lần, thấy rít thì báo luôn.
 
-Ngày nồm, ổ khóa rít thường đi cùng yên ướt và phanh trơn; các việc làm nhanh có trong bài [tự chăm xe thuê: việc nào làm được trong 10 phút](/xe-may/2026/10/11/tu-cham-xe-thue-viec-nao-lam-uoc-trong-10-phut-viec-nao-nen-e-tho/). Các bài chăm xe khác được gom ở mục [bảo dưỡng xe máy](/xe-may/bao-duong-xe/), còn kinh nghiệm theo từng dòng xe nằm ở chuyên mục [xe máy](/xe-may/).
+Ngày nồm, ổ khóa rít thường đi cùng yên ướt và phanh trơn; các việc làm nhanh có trong bài [tự chăm xe thuê: việc nào làm được trong 10 phút](/xe-may/2026/10/11/tu-cham-xe-thue-viec-nao-lam-duoc-trong-10-phut-viec-nao-nen-de-tho/). Các bài chăm xe khác được gom ở mục [bảo dưỡng xe máy](/xe-may/bao-duong-xe/), còn kinh nghiệm theo từng dòng xe nằm ở chuyên mục [xe máy](/xe-may/).

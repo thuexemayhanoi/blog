@@ -71,7 +71,7 @@ Mùa lễ hội đầu năm âm lịch, khu chùa Hương rất đông. Đườn
 - Xuất phát từ lúc trời vừa sáng, càng sớm càng dễ chịu.
 - Chấp nhận gửi xe ở bãi xa bến hơn một chút rồi đi bộ, thay vì len vào chỗ chật.
 
-Ngày thường có thể đi muộn hơn, nhưng vẫn nên tới bến trước buổi trưa. Chuyện gửi xe riêng trong mùa đông khách có ở bài [đi chùa Hương mùa lễ hội: gửi xe gần bến thuyền và canh giờ về](/ky-nang/2026/10/11/i-chua-huong-mua-le-hoi-bang-xe-may-gui-xe-gan-ben-thuyen-va-canh-gio-ve/).
+Ngày thường có thể đi muộn hơn, nhưng vẫn nên tới bến trước buổi trưa. Chuyện gửi xe riêng trong mùa đông khách có ở bài [đi chùa Hương mùa lễ hội: gửi xe gần bến thuyền và canh giờ về](/ky-nang/2026/10/11/di-chua-huong-mua-le-hoi-bang-xe-may-gui-xe-gan-ben-thuyen-va-canh-gio-ve/).
 
 ## Chạy về an toàn khi đã mỏi
 

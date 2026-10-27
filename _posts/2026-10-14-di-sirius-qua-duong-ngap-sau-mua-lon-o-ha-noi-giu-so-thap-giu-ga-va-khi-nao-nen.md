@@ -63,7 +63,7 @@ Bài [Honda Wave qua đường ngập ở Nguyễn Khuyến, Phan Bội Châu](/
 - Đoạn ngập kéo dài cả dãy phố mà không thấy điểm cuối.
 - Trời vẫn đang mưa to và nước đang lên chứ không rút.
 
-Lúc đó, chờ ở quán nước hoặc mái hiên một lúc thường là cách khôn ngoan nhất. Ở Hà Nội, nhiều tuyến rút nước khá nhanh sau khi tạnh mưa. Bài [đường ngập sau mưa lớn ở Hà Nội: khi nào nên dừng](/thue-xe/2026/10/12/uong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-uoc/) có thêm cách chọn chỗ chờ và đường vòng.
+Lúc đó, chờ ở quán nước hoặc mái hiên một lúc thường là cách khôn ngoan nhất. Ở Hà Nội, nhiều tuyến rút nước khá nhanh sau khi tạnh mưa. Bài [đường ngập sau mưa lớn ở Hà Nội: khi nào nên dừng](/thue-xe/2026/10/12/duong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-duoc/) có thêm cách chọn chỗ chờ và đường vòng.
 
 ## Nếu Sirius chết máy khi ngập
 

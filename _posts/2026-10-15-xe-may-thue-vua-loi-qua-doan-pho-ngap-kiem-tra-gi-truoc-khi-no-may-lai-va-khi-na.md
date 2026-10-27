@@ -60,7 +60,7 @@ Khi đã chờ đủ, làm như sau:
 3. Bấm đề một lần ngắn, không giữ lâu. Với xe số có cần đạp khởi động, có thể đạp nhẹ một lần thay cho đề.
 4. Nếu máy nổ, để xe chạy không tải một lúc, không vặn ga mạnh. Nhìn khói và nghe tiếng máy.
 
-Lúc mới nổ, một ít khói trắng kèm hơi nước ở đuôi ống xả là chuyện thường gặp, khói sẽ giảm dần. Nếu đề một lần không nổ, đừng đề tiếp lần hai, lần ba theo phản xạ. Đây chính là chỗ bài [xe máy ướt nước mưa ngập đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-e-khong-no/) khuyên dừng lại.
+Lúc mới nổ, một ít khói trắng kèm hơi nước ở đuôi ống xả là chuyện thường gặp, khói sẽ giảm dần. Nếu đề một lần không nổ, đừng đề tiếp lần hai, lần ba theo phản xạ. Đây chính là chỗ bài [xe máy ướt nước mưa ngập đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-de-khong-no/) khuyên dừng lại.
 
 ## Phanh ướt: bóp nhẹ cho khô trước khi vào đường đông
 

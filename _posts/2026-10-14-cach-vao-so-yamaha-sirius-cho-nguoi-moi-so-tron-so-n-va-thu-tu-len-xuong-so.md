@@ -39,7 +39,7 @@ Trước khi bấm đề, xe nên ở số N. Cách kiểm tra đơn giản:
 
 Đừng đạp liên tục nhiều lần rồi mới nhìn đồng hồ. Với xe số tròn, đạp quá tay có thể đi vòng sang số khác mà bạn không hay. Thói quen tốt là ấn một nhịp, nhìn đèn một lần, rồi mới ấn tiếp.
 
-Khi đã thấy đèn N, bóp phanh rồi mới bấm đề và không vặn ga trong lúc đề. Phần thao tác khởi động chi tiết có trong bài [đề xe và vào số 1 cho người mới](/ky-nang/2026/09/29/e-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi/).
+Khi đã thấy đèn N, bóp phanh rồi mới bấm đề và không vặn ga trong lúc đề. Phần thao tác khởi động chi tiết có trong bài [đề xe và vào số 1 cho người mới](/ky-nang/2026/09/29/de-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi/).
 
 ## Thứ tự lên số: N, 1, 2, 3 rồi 4
 
@@ -85,7 +85,7 @@ Buổi đầu nên tập ở chỗ vắng: đường nội bộ khu đô thị V
 3. Chạy một đoạn thẳng, lên 1, 2, 3 rồi về 2, 1, N theo đúng nhịp trả ga.
 4. Thử dừng ở số 3, ấn đầu trước để thấy số tròn hoạt động ra sao trên chiếc xe của bạn.
 
-Khi đã thuần, thử một vòng ngắn quanh phố Ngọc Lâm vào giờ thưa. Nếu còn đang cân nhắc Sirius có hợp nhu cầu đi phố không, bài [Yamaha Sirius trong phố đông người](/xe-may/2026/10/03/yamaha-sirius-trong-pho-cho-ong-nguoi/) sẽ giúp bạn hình dung.
+Khi đã thuần, thử một vòng ngắn quanh phố Ngọc Lâm vào giờ thưa. Nếu còn đang cân nhắc Sirius có hợp nhu cầu đi phố không, bài [Yamaha Sirius trong phố đông người](/xe-may/2026/10/03/yamaha-sirius-trong-pho-cho-dong-nguoi/) sẽ giúp bạn hình dung.
 
 ## Tóm lại
 
