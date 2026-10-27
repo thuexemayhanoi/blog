@@ -77,7 +77,7 @@ Khi xe gần dừng, về số 1. Lúc này bạn có hai lựa chọn:
 - **Giữ số 1, chân phải vẫn đạp phanh, tay không chạm ga.** Hợp với đèn ngắn, khi bạn đứng ở hàng đầu và cần đi ngay.
 - **Về số mo, nhìn đèn N sáng rồi buông phanh.** Hợp với đèn dài, khi bạn đứng giữa dòng xe và muốn thả lỏng tay chân.
 
-Người quen xe ga nên nghiêng về số mo trong những tuần đầu. Thói quen vặn ga lúc chờ đèn rất khó bỏ, và ở số 1 thì chỉ một cái vặn nhẹ là xe chồm vào người phía trước. Phân tích kỹ hơn hai cách chờ có trong bài [dừng đèn đỏ bằng xe số](/xe-may/2026/10/11/dung-en-o-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-en-xanh/).
+Người quen xe ga nên nghiêng về số mo trong những tuần đầu. Thói quen vặn ga lúc chờ đèn rất khó bỏ, và ở số 1 thì chỉ một cái vặn nhẹ là xe chồm vào người phía trước. Phân tích kỹ hơn hai cách chờ có trong bài [dừng đèn đỏ bằng xe số](/xe-may/2026/10/11/dung-den-do-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-den-xanh/).
 
 ### Chặng bốn: đèn xanh, xuất phát
 

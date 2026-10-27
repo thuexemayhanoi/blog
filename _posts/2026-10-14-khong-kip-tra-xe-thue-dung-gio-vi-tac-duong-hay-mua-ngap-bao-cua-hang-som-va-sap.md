@@ -45,7 +45,7 @@ Một tin nhắn tốt giúp cửa hàng quyết định nhanh mà không phải
 
 Mưa ngập là lúc nhiều người làm liều nhất chỉ vì sợ trễ giờ. Lội qua đoạn nước sâu để về cho kịp có thể khiến xe chết máy giữa dòng, nước vào ống xả hoặc lọc gió, và khi đó chuyện trễ giờ trở thành chuyện sửa xe.
 
-Nếu phía trước là đoạn ngập không rõ sâu nông, hãy dừng lại, tìm chỗ trú và báo cửa hàng rằng bạn đang chờ nước rút. Phần lớn chủ xe sẽ hiểu và thích bạn chờ hơn là liều. Cách đánh giá một đoạn ngập khi nào nên chờ, khi nào mới qua được, có trong bài [đường ngập sau mưa lớn ở Hà Nội: khi nào nên dừng](/thue-xe/2026/10/12/uong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-uoc/).
+Nếu phía trước là đoạn ngập không rõ sâu nông, hãy dừng lại, tìm chỗ trú và báo cửa hàng rằng bạn đang chờ nước rút. Phần lớn chủ xe sẽ hiểu và thích bạn chờ hơn là liều. Cách đánh giá một đoạn ngập khi nào nên chờ, khi nào mới qua được, có trong bài [đường ngập sau mưa lớn ở Hà Nội: khi nào nên dừng](/thue-xe/2026/10/12/duong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-duoc/).
 
 Nếu xe đã lỡ chết máy trong nước, đừng đề nổ liên tục. Dắt xe lên chỗ cao, báo ngay cho cửa hàng tình trạng thật và làm theo hướng dẫn của họ.
 
@@ -53,7 +53,7 @@ Nếu xe đã lỡ chết máy trong nước, đừng đề nổ liên tục. D�
 
 Cửa hàng mở cửa từ 09:00 đến 21:00, nên mọi phương án sắp xếp lại đều phải nằm trong khung giờ này. Thường có hai hướng:
 
-**Trả muộn hơn trong cùng ngày.** Nếu tắc đường chỉ làm bạn chậm một hai tiếng và vẫn đến trước giờ đóng cửa, hãy hẹn một mốc giờ mới cụ thể. Nên chừa khoảng trống, đừng hẹn sát 21:00 vì cuối ngày cửa hàng còn phải kiểm xe, làm biên nhận. Lời khuyên cho việc trả xe sát giờ đóng có trong bài [trả xe khi cửa hàng sắp đóng](/thue-xe/2026/10/04/tra-xe-khi-cua-hang-sap-ong-canh-gio-the-nao/).
+**Trả muộn hơn trong cùng ngày.** Nếu tắc đường chỉ làm bạn chậm một hai tiếng và vẫn đến trước giờ đóng cửa, hãy hẹn một mốc giờ mới cụ thể. Nên chừa khoảng trống, đừng hẹn sát 21:00 vì cuối ngày cửa hàng còn phải kiểm xe, làm biên nhận. Lời khuyên cho việc trả xe sát giờ đóng có trong bài [trả xe khi cửa hàng sắp đóng](/thue-xe/2026/10/04/tra-xe-khi-cua-hang-sap-dong-canh-gio-the-nao/).
 
 **Chuyển sang sáng hôm sau.** Nếu mưa kéo dài đến tối, đường về Long Biên vẫn ngập, hãy hỏi cửa hàng có thể giữ xe qua đêm và trả từ 09:00 sáng mai không. Khi đó bạn cần dắt xe vào chỗ gửi có người trông, khóa cổ, rút chìa, và để ý nơi gửi không phải chỗ nước dễ dâng.
 

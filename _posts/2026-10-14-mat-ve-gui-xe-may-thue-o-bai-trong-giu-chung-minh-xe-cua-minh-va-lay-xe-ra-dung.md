@@ -82,6 +82,6 @@ Mấy thói quen dưới đây tốn rất ít thời gian:
 - **Mang theo bản sao giấy tờ xe** tiệm giao, đừng để hết trong cốp.
 - **Lưu biển số xe** trong ghi chú điện thoại.
 
-Bạn có thể đọc thêm cách chọn bãi và những gì nên chụp khi [gửi xe máy thuê ở bãi giữ xe qua đêm](/ky-nang/2026/10/07/gui-xe-may-thue-o-bai-giu-xe-qua-em-luu-y-gi/), cùng cách hỏi tiệm về giấy tờ trong bài [cửa hàng giữ giấy tờ gì khi cho thuê xe máy](/thue-xe/2026/10/14/cua-hang-giu-giay-to-gi-khi-cho-thue-xe-may-hoi-ro-cach-bao-quan-va-bien-nhan/).
+Bạn có thể đọc thêm cách chọn bãi và những gì nên chụp khi [gửi xe máy thuê ở bãi giữ xe qua đêm](/ky-nang/2026/10/07/gui-xe-may-thue-o-bai-giu-xe-qua-dem-luu-y-gi/), cùng cách hỏi tiệm về giấy tờ trong bài [cửa hàng giữ giấy tờ gì khi cho thuê xe máy](/thue-xe/2026/10/14/cua-hang-giu-giay-to-gi-khi-cho-thue-xe-may-hoi-ro-cach-bao-quan-va-bien-nhan/).
 
 Mất vé không phải mất xe. Bình tĩnh, chứng minh bằng chìa khóa, biển số và giấy tờ, gọi tiệm khi cần là đủ. Các tình huống khác xem tại mục [sự cố khi thuê xe](/thue-xe/su-co/) và trang [thuê xe máy ở Hà Nội](/thue-xe/).

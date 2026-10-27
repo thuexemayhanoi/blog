@@ -23,7 +23,7 @@ Bạn thuê xe máy điện để đi làm hoặc đi chơi ở Hà Nội, rồi
 
 **Xe chạy êm nên dễ quên mình đang ở sát xe lớn.** Nhiều người có xu hướng bám đuôi xe phía trước vì xe điện tăng tốc nhẹ nhàng. Giữ khoảng cách xa hơn bình thường vừa an toàn, vừa bớt hít khói.
 
-**Quãng đường bị giới hạn bởi pin.** Tránh đường đông, đi vòng qua đường ven hồ nghe hay, nhưng mỗi lần vòng là thêm vài cây số. Nếu chưa rõ xe của mình đi được bao xa sau một lần sạc, đọc bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-uong-mot-lan-sac-cua-xe-may-ien/) trước khi lên tuyến vòng.
+**Quãng đường bị giới hạn bởi pin.** Tránh đường đông, đi vòng qua đường ven hồ nghe hay, nhưng mỗi lần vòng là thêm vài cây số. Nếu chưa rõ xe của mình đi được bao xa sau một lần sạc, đọc bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-duong-mot-lan-sac-cua-xe-may-dien/) trước khi lên tuyến vòng.
 
 ## Xem chỉ số chất lượng không khí trên ứng dụng thế nào cho có ích
 
@@ -63,7 +63,7 @@ Không có con đường nào ở nội thành hoàn toàn sạch, nhưng có nh
 
 **Tránh trục nhiều xe tải và xe khách.** Các đường vành đai, các trục ra cửa ngõ thành phố và quanh bến xe thường đông xe lớn. Hai lựa chọn chênh nhau không nhiều thì đi phố nội bộ.
 
-**Từ Long Biên sang trung tâm, cân nhắc cầu Long Biên.** Cầu này chỉ dành cho xe máy, xe đạp và đường sắt, không có ô tô hay xe tải chạy cùng, nên đỡ khói xả hơn so với chen giữa xe lớn. Mặt cầu hẹp và lồi lõm, nên đi chậm, giữ khoảng cách. Bài [xe điện thuê có đi được dốc cầu Long Biên không](/xe-may/2026/10/07/xe-ien-thue-co-i-uoc-uong-doc-long-bien-khong/) nói rõ về đoạn dốc này.
+**Từ Long Biên sang trung tâm, cân nhắc cầu Long Biên.** Cầu này chỉ dành cho xe máy, xe đạp và đường sắt, không có ô tô hay xe tải chạy cùng, nên đỡ khói xả hơn so với chen giữa xe lớn. Mặt cầu hẹp và lồi lõm, nên đi chậm, giữ khoảng cách. Bài [xe điện thuê có đi được dốc cầu Long Biên không](/xe-may/2026/10/07/xe-dien-thue-co-di-duoc-duong-doc-long-bien-khong/) nói rõ về đoạn dốc này.
 
 **Khi dừng đèn đỏ.** Đừng đứng ngay sau đuôi xe buýt hay xe tải. Dịch sang làn bên cạnh hoặc lùi lại một khoảng, tránh xa luồng khói thổi ra.
 
@@ -76,7 +76,7 @@ Không có con đường nào ở nội thành hoàn toàn sạch, nhưng có nh
 
 Sau chuyến đi, rửa mặt, súc miệng và thay khẩu trang là đủ thành thói quen tốt.
 
-Nếu bạn chỉ đi quanh quẩn nội thành, xe đạp điện cũng là lựa chọn nhưng người đạp phải gắng sức và thở sâu hơn; bài [ngày Hà Nội ô nhiễm có nên đạp xe điện ngoài đường](/xe-may/2026/10/11/ngay-ha-noi-o-nhiem-khong-khi-co-nen-ap-xe-ien-ngoai-uong-chuan-bi-gi/) phân tích riêng cho loại xe đó. Còn phần thói quen chung khi đi xe máy xăng những ngày này có trong bài [đi xe máy khi không khí ô nhiễm ở Hà Nội](/thue-xe/2026/10/11/i-xe-may-khi-khong-khi-o-nhiem-o-ha-noi-khau-trang-kinh-va-gio-i-hop-ly/).
+Nếu bạn chỉ đi quanh quẩn nội thành, xe đạp điện cũng là lựa chọn nhưng người đạp phải gắng sức và thở sâu hơn; bài [ngày Hà Nội ô nhiễm có nên đạp xe điện ngoài đường](/xe-may/2026/10/11/ngay-ha-noi-o-nhiem-khong-khi-co-nen-dap-xe-dien-ngoai-duong-chuan-bi-gi/) phân tích riêng cho loại xe đó. Còn phần thói quen chung khi đi xe máy xăng những ngày này có trong bài [đi xe máy khi không khí ô nhiễm ở Hà Nội](/thue-xe/2026/10/11/di-xe-may-khi-khong-khi-o-nhiem-o-ha-noi-khau-trang-kinh-va-gio-di-hop-ly/).
 
 ## Kết lại
 

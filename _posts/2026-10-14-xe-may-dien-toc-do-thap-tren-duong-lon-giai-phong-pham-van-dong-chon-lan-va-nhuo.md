@@ -69,7 +69,7 @@ Người từ ngõ ra đường lớn thường nhìn sang trái tìm khoảng t
 
 Đây là động tác khó nhất với xe chậm trên trục lớn. Đừng chuyển dần từ làn phải sang làn trái qua nhiều làn ô tô. Ở những nút có đèn và có chỉ dẫn, hãy đi đúng làn rẽ trái theo vạch từ sớm. Nếu thấy không đủ tự tin cắt qua nhiều làn, cách an toàn hơn là đi thẳng qua nút, tìm điểm quay đầu hợp lệ hoặc rẽ phải vòng lại theo các phố nhỏ.
 
-Bài [cung đường Phạm Văn Đồng và Võ Nguyên Giáp chạy xe máy](/cung-duong/2026/10/09/cung-uong-pham-van-ong-va-vo-nguyen-giep-chay-xe-may/) có thêm gợi ý về khung giờ đi trục này cho thoáng.
+Bài [cung đường Phạm Văn Đồng và Võ Nguyên Giáp chạy xe máy](/cung-duong/2026/10/09/cung-duong-pham-van-dong-va-vo-nguyen-giep-chay-xe-may/) có thêm gợi ý về khung giờ đi trục này cho thoáng.
 
 ## Chuẩn bị trước chuyến đi trên trục lớn
 

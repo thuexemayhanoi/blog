@@ -45,7 +45,7 @@ Câu thứ hai, và cũng là câu dễ gây hiểu lầm nhất, là chuyện s
 4. Có khung giờ nào không được sạc, ví dụ ban đêm khi ít người trực.
 5. Nếu tòa nhà cấm sạc dưới hầm, cư dân thường sạc ở đâu.
 
-Khi chung cư cấm sạc xe điện dưới hầm, đó là quy định phòng cháy bạn phải tuân thủ, không phải chuyện thương lượng. Lúc ấy hãy tính phương án sạc khác: trạm sạc công cộng gần nhà, trạm đổi pin nếu xe hỗ trợ, hoặc sạc ở cơ quan nếu nơi làm việc cho phép. Bài [sạc xe máy điện thuê ở Hà Nội: trạm đổi pin và ổ sạc](/xe-may/2026/10/11/sac-xe-may-ien-thue-o-ha-noi-tram-oi-pin-va-o-sac/) giúp bạn hình dung các lựa chọn đó.
+Khi chung cư cấm sạc xe điện dưới hầm, đó là quy định phòng cháy bạn phải tuân thủ, không phải chuyện thương lượng. Lúc ấy hãy tính phương án sạc khác: trạm sạc công cộng gần nhà, trạm đổi pin nếu xe hỗ trợ, hoặc sạc ở cơ quan nếu nơi làm việc cho phép. Bài [sạc xe máy điện thuê ở Hà Nội: trạm đổi pin và ổ sạc](/xe-may/2026/10/11/sac-xe-may-dien-thue-o-ha-noi-tram-doi-pin-va-o-sac/) giúp bạn hình dung các lựa chọn đó.
 
 ## Vé tháng, thẻ xe và giờ ra vào
 

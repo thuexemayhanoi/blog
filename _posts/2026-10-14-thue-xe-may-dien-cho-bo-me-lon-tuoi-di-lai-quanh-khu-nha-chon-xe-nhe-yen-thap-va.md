@@ -61,7 +61,7 @@ Một buổi tập có thể đi theo thứ tự:
 - **Đi thẳng thật chậm rồi dừng.** Vặn ga nhẹ, đi vài mét, bóp phanh từ từ, đặt chân xuống. Lặp lại tới khi động tác trơn tru.
 - **Rẽ và quay vòng rộng.** Tập rẽ trái, rẽ phải ở tốc độ đi bộ, rồi quay đầu theo vòng lớn.
 
-Xe điện còn có cảm giác hãm khi nhả ga ở một số mẫu, khác với xe xăng. Bài [xe điện và phanh tái sinh khi làm quen lần đầu](/xe-may/2026/10/03/xe-ien-va-phanh-tai-sinh-lam-quen-lan-au/) giải thích kỹ cảm giác này.
+Xe điện còn có cảm giác hãm khi nhả ga ở một số mẫu, khác với xe xăng. Bài [xe điện và phanh tái sinh khi làm quen lần đầu](/xe-may/2026/10/03/xe-dien-va-phanh-tai-sinh-lam-quen-lan-dau/) giải thích kỹ cảm giác này.
 
 Vài buổi tập ngắn tốt hơn một buổi dài.
 
@@ -83,7 +83,7 @@ Nếu quãng đường dài hơn, hoặc phải qua ngã tư lớn, nên để c
 
 Nên giao việc sạc cho một người trong nhà. Sạc ở chỗ thoáng, xa đồ dễ cháy, dùng đúng bộ sạc đi kèm xe, đầy thì rút. Chỗ để xe nên bằng phẳng, gần cửa, không phải dắt qua bậc cao.
 
-Nếu bố mẹ chỉ cần một chiếc xe chạy rất chậm để đi chợ, xe đạp điện cũng là lựa chọn đáng so. Bài [xe đạp điện cho người lớn tuổi đi chợ](/xe-may/2026/10/02/xe-ap-ien-cho-nguoi-lon-tuoi-i-cho-thue-va-chay-an-toan/) nói về hướng đó.
+Nếu bố mẹ chỉ cần một chiếc xe chạy rất chậm để đi chợ, xe đạp điện cũng là lựa chọn đáng so. Bài [xe đạp điện cho người lớn tuổi đi chợ](/xe-may/2026/10/02/xe-dap-dien-cho-nguoi-lon-tuoi-di-cho-thue-va-chay-an-toan/) nói về hướng đó.
 
 ## Chốt lại trước khi nhận xe
 

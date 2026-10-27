@@ -43,7 +43,7 @@ Một số mẫu xe có cơ chế ngắt khi gạt chân chống nghiêng hoặc
 
 Khi xe đột ngột chồm lên, chuyện thường gặp nhất là xe đổ, va vào xe phía trước hoặc kéo người đang đứng cạnh ngã theo. Ở chỗ đông như vỉa hè quanh hồ Hoàn Kiếm hay cổng chợ, nguy cơ va vào người đi bộ là có thật. Nếu xe đang dựng chân chống giữa, bánh sau chạm đất khi bạn nghiêng người có thể khiến xe nhảy khỏi chân chống.
 
-Với xe thuê, ngoài chuyện an toàn còn là chuyện trầy xước, gãy gương hay vỡ ốp nhựa. Những hư hỏng đó phải trao đổi với cửa hàng khi trả xe, dù chỉ do một giây sơ ý. Nếu từng gặp cảm giác tay ga không trả về như ý, hãy đọc thêm bài [tay ga bị kẹt không nhả khi đang chạy](/ky-nang/2026/10/11/ga-bi-ket-khong-nha-khi-ang-chay-tat-may-bop-phanh-va-dung-xe-an-toan/) để biết cách xử lý khác.
+Với xe thuê, ngoài chuyện an toàn còn là chuyện trầy xước, gãy gương hay vỡ ốp nhựa. Những hư hỏng đó phải trao đổi với cửa hàng khi trả xe, dù chỉ do một giây sơ ý. Nếu từng gặp cảm giác tay ga không trả về như ý, hãy đọc thêm bài [tay ga bị kẹt không nhả khi đang chạy](/ky-nang/2026/10/11/ga-bi-ket-khong-nha-khi-dang-chay-tat-may-bop-phanh-va-dung-xe-an-toan/) để biết cách xử lý khác.
 
 ## Thói quen bốn bước mỗi lần đỗ xe
 
@@ -72,7 +72,7 @@ Rút chìa ra khỏi ổ hoặc cất thẻ từ, bộ điều khiển vào túi
 - **Tay phải rời tay ga khi chưa chạy.** Chờ đèn đỏ hay chờ người lên xe, đặt tay phải lỏng trên tay lái chứ không nắm vào phần ga.
 - **Cảnh giác lúc dừng giữa đường.** Ở những nơi bạn không định xuống xe, chỉ cần nhớ giữ phanh và không chạm ga.
 
-Ngoài ra, xe điện còn khác xe xăng ở cảm giác phanh và trả ga. Bài [xe điện và phanh tái sinh khi làm quen lần đầu](/xe-may/2026/10/03/xe-ien-va-phanh-tai-sinh-lam-quen-lan-au/) giúp bạn quen nhanh hơn trong vài chuyến đầu.
+Ngoài ra, xe điện còn khác xe xăng ở cảm giác phanh và trả ga. Bài [xe điện và phanh tái sinh khi làm quen lần đầu](/xe-may/2026/10/03/xe-dien-va-phanh-tai-sinh-lam-quen-lan-dau/) giúp bạn quen nhanh hơn trong vài chuyến đầu.
 
 ## Gói gọn
 

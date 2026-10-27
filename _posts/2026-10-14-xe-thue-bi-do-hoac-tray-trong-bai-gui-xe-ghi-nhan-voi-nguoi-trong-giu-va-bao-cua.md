@@ -67,7 +67,7 @@ Tin nhắn qua Zalo nên có:
 - Toàn bộ ảnh và video vừa chụp.
 - Tên hoặc ca trực của người trông giữ, việc bãi có ghi nhận hay không.
 
-Sau đó hỏi cửa hàng: xe có chạy tiếp được không, có cần giữ lại vé hay quay lại gặp quản lý bãi không. Cửa hàng sẽ hướng dẫn tiếp tùy mức độ. Cách báo và ghi lại hiện trường cho trường hợp tự làm đổ xe được nói kỹ trong bài [làm xước hoặc làm đổ xe thuê](/thue-xe/2026/10/12/lam-xuoc-hoac-lam-o-xe-thue-cach-bao-cua-hang-va-ghi-lai-hien-truong/); ở đây điểm khác là có thêm một bên thứ ba là bãi gửi xe.
+Sau đó hỏi cửa hàng: xe có chạy tiếp được không, có cần giữ lại vé hay quay lại gặp quản lý bãi không. Cửa hàng sẽ hướng dẫn tiếp tùy mức độ. Cách báo và ghi lại hiện trường cho trường hợp tự làm đổ xe được nói kỹ trong bài [làm xước hoặc làm đổ xe thuê](/thue-xe/2026/10/12/lam-xuoc-hoac-lam-do-xe-thue-cach-bao-cua-hang-va-ghi-lai-hien-truong/); ở đây điểm khác là có thêm một bên thứ ba là bãi gửi xe.
 
 ## Trước khi chạy tiếp: kiểm tra nhanh xe vừa bị đổ
 

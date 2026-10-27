@@ -58,7 +58,7 @@ Nếu xe cần một việc nhỏ để đi được, ví dụ vá săm hay bơm
 
 Bình tĩnh đề nghị lắp lại như cũ: "Em chưa đồng ý thay, anh lắp lại giúp em, em gửi tiền công tháo lắp." Không cần lớn tiếng. Nếu không thống nhất được, hãy gọi cửa hàng ngay trước mặt thợ để cửa hàng nói chuyện trực tiếp.
 
-Với khách nước ngoài chưa quen nói tiếng Việt, bài [mẫu câu tiếng Việt đơn giản để nhờ giúp khi xe thuê hỏng](/thue-xe/2026/10/11/mau-cau-tieng-viet-on-gian-e-nho-giup-khi-xe-thue-hong-giua-uong/) có thêm câu dùng được trong những tình huống này.
+Với khách nước ngoài chưa quen nói tiếng Việt, bài [mẫu câu tiếng Việt đơn giản để nhờ giúp khi xe thuê hỏng](/thue-xe/2026/10/11/mau-cau-tieng-viet-don-gian-de-nho-giup-khi-xe-thue-hong-giua-duong/) có thêm câu dùng được trong những tình huống này.
 
 ## Gọi cửa hàng: để cửa hàng quyết định việc sửa
 
@@ -90,7 +90,7 @@ Phần lớn những lần phải dắt xe vào tiệm lạ có thể giảm b�
 - Hỏi cửa hàng xe vừa thay những gì gần đây, để khi thợ ven đường nói "cái này mòn rồi" bạn có cơ sở đối chiếu.
 - Chụp ảnh đồng hồ công tơ mét và tình trạng xe lúc nhận.
 
-Khi xe hỏng thật giữa đường, trình tự chung được nói trong bài [xe thuê bị hỏng giữa đường: xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/).
+Khi xe hỏng thật giữa đường, trình tự chung được nói trong bài [xe thuê bị hỏng giữa đường: xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-duong-xu-ly-tung-buoc/).
 
 ## Tóm lại
 

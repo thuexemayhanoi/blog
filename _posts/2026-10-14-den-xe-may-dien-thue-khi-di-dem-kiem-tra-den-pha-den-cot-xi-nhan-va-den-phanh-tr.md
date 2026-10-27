@@ -36,7 +36,7 @@ Trước khi kết luận đèn nào hỏng, hãy chắc rằng xe đã được
 3. Nhìn đồng hồ: màn hình sáng lên, biểu tượng mức pin hiện ra.
 4. Không chạm tay ga trong lúc thử đèn, vì vặn ga nhầm có thể làm xe chồm khỏi chân chống.
 
-Nếu màn hình không lên, hỏi lại nhân viên cách bật đúng trên mẫu xe đó. Các biểu tượng trên đồng hồ có thể tra thêm trong bài [đọc đèn báo lỗi và biểu tượng trên đồng hồ xe máy điện](/xe-may/2026/10/11/en-bao-loi-va-bieu-tuong-tren-ong-ho-xe-may-ien-oc-the-nao/).
+Nếu màn hình không lên, hỏi lại nhân viên cách bật đúng trên mẫu xe đó. Các biểu tượng trên đồng hồ có thể tra thêm trong bài [đọc đèn báo lỗi và biểu tượng trên đồng hồ xe máy điện](/xe-may/2026/10/11/den-bao-loi-va-bieu-tuong-tren-dong-ho-xe-may-dien-doc-the-nao/).
 
 ## Kiểm tra đèn xe điện thuê theo thứ tự trước - sau - hai bên
 
@@ -66,7 +66,7 @@ Bật xi nhan trái, đi một vòng nhìn cả xi nhan trước và sau bên tr
 
 Đèn phanh tốt phải sáng rõ hơn hẳn đèn hậu, bật ngay khi bóp và tắt ngay khi nhả. Nếu đèn phanh sáng mãi không tắt, hoặc chỉ sáng với một bên tay phanh, hãy báo cửa hàng.
 
-Đi một mình, không có ai giúp? Hãy đỗ xe lùi sát vào một bức tường sáng màu hoặc cửa kính, bóp phanh và nhìn qua gương chiếu hậu xem có vệt đỏ hắt lên không. Chi tiết hơn về bước này có trong bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-en-phanh-xe-may-thue-truoc-khi-nhan-xe/).
+Đi một mình, không có ai giúp? Hãy đỗ xe lùi sát vào một bức tường sáng màu hoặc cửa kính, bóp phanh và nhìn qua gương chiếu hậu xem có vệt đỏ hắt lên không. Chi tiết hơn về bước này có trong bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-den-phanh-xe-may-thue-truoc-khi-nhan-xe/).
 
 ## Đèn có ngốn pin nhiều không
 

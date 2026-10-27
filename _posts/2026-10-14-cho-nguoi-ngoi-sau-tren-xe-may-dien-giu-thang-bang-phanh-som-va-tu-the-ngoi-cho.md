@@ -19,11 +19,11 @@ Hai người bạn thuê chung một chiếc xe để dạo Hà Nội, hay một
 
 ## Chở người ngồi sau xe máy điện khác gì đi một mình
 
-Khác biệt lớn nhất nằm ở cách xe điện tạo lực kéo. Với xe xăng, khi bạn vặn ga, máy cần một nhịp để lên vòng tua rồi mới kéo mạnh. Mô tơ điện thì cho lực gần như tức thì, nên một cú vặn hơi quá tay ở vạch dừng đèn đỏ có thể làm đầu xe chồm lên, người ngồi sau bị giật ngửa ra phía sau. Ai chưa quen nên đọc thêm bài [xe điện tăng tốc tức thì và cách xuất phát êm ở ngã tư đông](/xe-may/2026/10/11/xe-ien-tang-toc-tuc-thi-cach-xuat-phat-em-o-nga-tu-ong/) trước khi chở thêm người.
+Khác biệt lớn nhất nằm ở cách xe điện tạo lực kéo. Với xe xăng, khi bạn vặn ga, máy cần một nhịp để lên vòng tua rồi mới kéo mạnh. Mô tơ điện thì cho lực gần như tức thì, nên một cú vặn hơi quá tay ở vạch dừng đèn đỏ có thể làm đầu xe chồm lên, người ngồi sau bị giật ngửa ra phía sau. Ai chưa quen nên đọc thêm bài [xe điện tăng tốc tức thì và cách xuất phát êm ở ngã tư đông](/xe-may/2026/10/11/xe-dien-tang-toc-tuc-thi-cach-xuat-phat-em-o-nga-tu-dong/) trước khi chở thêm người.
 
 Điểm thứ hai là trọng lượng. Nhiều mẫu xe máy điện vốn đã nặng vì hộp pin. Thêm một người lớn, quán tính lớn hơn, xe cần quãng dài hơn để dừng hẳn. Mỗi mẫu xe lại có giới hạn tải riêng của nhà sản xuất. Hãy hỏi cửa hàng khi nhận xe xem mẫu mình thuê chở được bao nhiêu, đừng đoán theo vóc dáng chiếc xe.
 
-Điểm thứ ba là pin. Chở nặng thì quãng đường đi được trên một lần sạc thường ngắn lại, mức giảm tùy xe và tùy đường, nên đừng tính lộ trình sát vạch pin. Cách đọc mức pin khi tải nặng được nói kỹ trong bài [xe máy điện báo pin giảm nhanh khi chở nặng](/xe-may/2026/10/11/xe-may-ien-bao-pin-giam-nhanh-khi-cho-nang-can-quan-sat-gi/).
+Điểm thứ ba là pin. Chở nặng thì quãng đường đi được trên một lần sạc thường ngắn lại, mức giảm tùy xe và tùy đường, nên đừng tính lộ trình sát vạch pin. Cách đọc mức pin khi tải nặng được nói kỹ trong bài [xe máy điện báo pin giảm nhanh khi chở nặng](/xe-may/2026/10/11/xe-may-dien-bao-pin-giam-nhanh-khi-cho-nang-can-quan-sat-gi/).
 
 ## Trước khi lên xe: dặn nhau ba điều
 
@@ -33,7 +33,7 @@ Một phút thống nhất trước khi lăn bánh tiết kiệm rất nhiều c
 - **Cách lên xe.** Người lái ngồi lên trước, hai chân chống đất, bóp nhẹ phanh, rồi mới bảo người sau bước lên.
 - **Tín hiệu khi cần dừng.** Thống nhất một cách báo đơn giản, ví dụ vỗ nhẹ vai hai lần, thay vì hét giữa tiếng còi xe trên phố Nguyễn Văn Cừ hay dốc cầu Chương Dương.
 
-Nếu bạn đi cùng người chưa từng ngồi sau xe máy ở Hà Nội, bài [ngồi sau xe máy ở Hà Nội: cách ngồi, đặt chân và giữ thăng bằng](/thue-xe/2026/10/11/ngoi-sau-xe-may-o-ha-noi-cach-ngoi-at-chan-va-giu-thang-bang-cho-ban-i-cung/) có hướng dẫn dành riêng cho người ngồi sau, có thể gửi cho họ đọc trước.
+Nếu bạn đi cùng người chưa từng ngồi sau xe máy ở Hà Nội, bài [ngồi sau xe máy ở Hà Nội: cách ngồi, đặt chân và giữ thăng bằng](/thue-xe/2026/10/11/ngoi-sau-xe-may-o-ha-noi-cach-ngoi-dat-chan-va-giu-thang-bang-cho-ban-di-cung/) có hướng dẫn dành riêng cho người ngồi sau, có thể gửi cho họ đọc trước.
 
 ## Tư thế ngồi sau xe máy điện cho người sau
 

@@ -49,7 +49,7 @@ Những dấu hiệu nên dừng dùng ngay:
 - Lớp xốp bên trong bị lõm, bong khỏi vỏ.
 - Mũ đã nằm trên đầu bạn trong một lần ngã xe.
 
-Nếu mũ vỡ do ngã, hãy kiểm tra bản thân trước: đau đầu, chóng mặt, buồn nôn sau cú va đập là lý do để đến cơ sở y tế gần nhất, chiếc xe và chiếc mũ để sau. Cách kiểm tra mũ đạt chuẩn khi nhận hay khi thay được nói kỹ trong bài [mũ bảo hiểm đạt chuẩn và quy định đội mũ](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-va-quy-inh-oi-mu/).
+Nếu mũ vỡ do ngã, hãy kiểm tra bản thân trước: đau đầu, chóng mặt, buồn nôn sau cú va đập là lý do để đến cơ sở y tế gần nhất, chiếc xe và chiếc mũ để sau. Cách kiểm tra mũ đạt chuẩn khi nhận hay khi thay được nói kỹ trong bài [mũ bảo hiểm đạt chuẩn và quy định đội mũ](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-va-quy-dinh-doi-mu/).
 
 ## Báo cửa hàng: nói gì, gửi gì
 
@@ -83,6 +83,6 @@ Sau một lần mất mũ, nhiều người mới để ý đến thói quen c�
 - Ở quán ăn nhỏ, mang mũ vào bàn nếu xe đỗ ở vỉa hè không có người trông.
 - Gửi xe ở bãi có vé, có người giữ thay vì dựng tạm ven đường.
 
-Những mẹo cụ thể hơn cho từng kiểu chỗ đỗ nằm trong bài [giữ mũ bảo hiểm khi xuống xe đi bộ](/ky-nang/2026-09-29/giu-mu-bao-hiem-khi-xuong-xe-i-bo/).
+Những mẹo cụ thể hơn cho từng kiểu chỗ đỗ nằm trong bài [giữ mũ bảo hiểm khi xuống xe đi bộ](/ky-nang/2026-09-29/giu-mu-bao-hiem-khi-xuong-xe-di-bo/).
 
 Tóm lại: thiếu mũ hoặc mũ đã vỡ thì không chạy tiếp, kể cả một đoạn ngắn; báo cửa hàng sớm kèm ảnh, hỏi rõ cách nhận mũ thay và cách xử lý khi trả xe; rồi chọn mua mũ mới, gửi xe đi bộ hoặc ghé lấy mũ trong giờ mở cửa. Các tình huống khác khi đang thuê được gom ở mục [sự cố khi thuê xe](/thue-xe/su-co/), còn kinh nghiệm thuê xe máy ở Hà Nội nói chung nằm trong chuyên mục [thuê xe](/thue-xe/).

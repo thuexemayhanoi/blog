@@ -61,7 +61,7 @@ Tiếng sột soạt hoặc rít liên tục ở bánh sau, kèm cảm giác xe 
 
 ### Rung ở yên hoặc sàn để chân
 
-Rung theo tốc độ, nhất là khi qua khoảng tốc độ nhất định, có thể do lốp mòn lệch, vành cong sau cú sập ổ gà, hoặc trục bánh có vấn đề. Nếu xe vừa bị đổ hay va chạm nhẹ, xem thêm bài [xe máy điện bị đổ hoặc ngã nhẹ: kiểm tra gì trước khi đi tiếp](/xe-may/2026/10/11/xe-may-ien-bi-o-hoac-nga-nhe-kiem-tra-gi-truoc-khi-i-tiep/).
+Rung theo tốc độ, nhất là khi qua khoảng tốc độ nhất định, có thể do lốp mòn lệch, vành cong sau cú sập ổ gà, hoặc trục bánh có vấn đề. Nếu xe vừa bị đổ hay va chạm nhẹ, xem thêm bài [xe máy điện bị đổ hoặc ngã nhẹ: kiểm tra gì trước khi đi tiếp](/xe-may/2026/10/11/xe-may-dien-bi-do-hoac-nga-nhe-kiem-tra-gi-truoc-khi-di-tiep/).
 
 ## Dấu hiệu phải dừng ngay và báo cửa hàng
 
