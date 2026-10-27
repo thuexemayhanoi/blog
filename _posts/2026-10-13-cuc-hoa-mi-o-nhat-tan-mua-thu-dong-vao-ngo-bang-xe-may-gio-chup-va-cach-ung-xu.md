@@ -27,7 +27,7 @@ Các vườn nằm ngoài đê, trên bãi ven sông Hồng thuộc khu Nhật T
 
 Từ Long Biên, qua cầu Chương Dương rồi theo Yên Phụ, Nghi Tàm lên đường Âu Cơ; từ phía bắc có thể xuống từ cầu Nhật Tân vào Âu Cơ. Các vườn được vào qua những ngõ dốc từ Âu Cơ xuống bãi, quen thuộc nhất là khu ngõ 264 dẫn ra bãi đá sông Hồng và các ngõ lân cận phía Nhật Tân, Tứ Liên; đầu ngõ mùa hoa thường có biển vườn và người đứng mời. Ngõ hẹp, dốc xuống qua đê, hai xe tránh nhau phải nép; đi số thấp, không bấm còi dồn, nhường xe thồ hoa đi lên.
 
-Xuống tới bãi, đường thành đất hoặc bê tông mỏng, sau mưa trơn và lầy; chạy chậm, hai chân sẵn sàng chống, không chở ba. Kinh nghiệm chạy xe quanh khu làng hoa này có ở bài [những lưu ý khi chạy xe quanh Làng hoa Nhật Tân](/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-lang-hoa-nhat-tan/ "Lưu ý khi chạy xe quanh Làng hoa Nhật Tân"), còn đường đi và chỗ gửi ở bài [đến Làng hoa Nhật Tân bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/28/en-lang-hoa-nhat-tan-bang-xe-may-gui-xe-va-uong-i/ "Đến Làng hoa Nhật Tân bằng xe máy").
+Xuống tới bãi, đường thành đất hoặc bê tông mỏng, sau mưa trơn và lầy; chạy chậm, hai chân sẵn sàng chống, không chở ba. Kinh nghiệm chạy xe quanh khu làng hoa này có ở bài [những lưu ý khi chạy xe quanh Làng hoa Nhật Tân](/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-lang-hoa-nhat-tan/ "Lưu ý khi chạy xe quanh Làng hoa Nhật Tân"), còn đường đi và chỗ gửi ở bài [đến Làng hoa Nhật Tân bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/28/den-lang-hoa-nhat-tan-bang-xe-may-gui-xe-va-duong-di/ "Đến Làng hoa Nhật Tân bằng xe máy").
 
 ## Để xe ở đâu
 
@@ -51,6 +51,6 @@ Nếu lỡ mùa, đừng cố tìm cúc họa mi vào giữa tháng Mười hai,
 
 ## Ghép với Nhật Tân, Quảng Bá trong buổi sáng
 
-Vườn cúc chỉ cách chợ hoa Quảng Bá và làng đào Nhật Tân vài phút chạy xe. Một buổi sáng gọn: chợ hoa lúc năm rưỡi, vườn cúc lúc sáu rưỡi, ăn sáng ở Âu Cơ hoặc Xuân Diệu lúc tám giờ, rồi về trước khi đường đông. Cách đi chợ hoa buổi sớm có ở bài [đi chợ hoa Quảng An bằng xe máy sáng sớm](/du-lich/2026/10/09/i-cho-hoa-quang-an-bang-xe-may-sang-som/ "Đi chợ hoa Quảng An sáng sớm").
+Vườn cúc chỉ cách chợ hoa Quảng Bá và làng đào Nhật Tân vài phút chạy xe. Một buổi sáng gọn: chợ hoa lúc năm rưỡi, vườn cúc lúc sáu rưỡi, ăn sáng ở Âu Cơ hoặc Xuân Diệu lúc tám giờ, rồi về trước khi đường đông. Cách đi chợ hoa buổi sớm có ở bài [đi chợ hoa Quảng An bằng xe máy sáng sớm](/du-lich/2026/10/09/di-cho-hoa-quang-an-bang-xe-may-sang-som/ "Đi chợ hoa Quảng An sáng sớm").
 
 Mùa cúc họa mi cũng là lúc đào Nhật Tân bắt đầu được tuốt lá cho Tết, đi ngang làng đào sẽ thấy cả cánh đồng cây trụi lá, một cảnh khác hẳn mùa xuân. Các bài khác về khu này nằm ở chuyên mục [Hồ Tây](/du-lich/ho-tay/ "Hồ Tây"), còn điểm đến toàn thành phố ở mục [du lịch](/du-lich/ "Du lịch Hà Nội bằng xe máy").

@@ -27,7 +27,7 @@ Với khách chỉ có nửa ngày, chọn khung sáng và cắt gọn còn mộ
 
 ## Chạy xe khung nóng: những gì tránh được thì tránh
 
-Nếu buộc phải chạy giữa khung mười một giờ tới ba giờ, giữ ba quy tắc: cự ly ngắn, dừng giữa tuyến có bóng râm, và không để xe nấu dưới trời quá lâu. Xe máy nắng lâu nóng máy nhanh hơn, ác quy xe điện cũng tụt pin mạnh giữa trưa, nên khách thuê xe điện chạy xa giữa trưa cần tính dư pin kỹ. Ai đi xe điện có thể xem bài [xe máy điện thuê chạy lúc mưa có an toàn không](/xe-may/2026/10/07/xe-may-ien-thue-chay-luc-mua-co-an-toan-khong/) để hiểu thêm về tính năng theo thời tiết, vì điện và nắng nóng cũng có khúc lưu ý riêng.
+Nếu buộc phải chạy giữa khung mười một giờ tới ba giờ, giữ ba quy tắc: cự ly ngắn, dừng giữa tuyến có bóng râm, và không để xe nấu dưới trời quá lâu. Xe máy nắng lâu nóng máy nhanh hơn, ác quy xe điện cũng tụt pin mạnh giữa trưa, nên khách thuê xe điện chạy xa giữa trưa cần tính dư pin kỹ. Ai đi xe điện có thể xem bài [xe máy điện thuê chạy lúc mưa có an toàn không](/xe-may/2026/10/07/xe-may-dien-thue-chay-luc-mua-co-an-toan-khong/) để hiểu thêm về tính năng theo thời tiết, vì điện và nắng nóng cũng có khúc lưu ý riêng.
 
 Trang phục mùa nóng trên xe: áo dài tay vải thoáng chống nắng tốt hơn áo phông hở, mũ bảo hiểm có vành che gáy, và kính râm. Kem chống nắng thoa lại sau hai tiếng vì gió xe làm bay kem nhanh. Mang nước theo, mỗi lần dừng đèn dài ở ngã tư mùa hè cũng là lúc mất nước, khách hay quên điều này vì ngồi trên xe thấy mát do gió.
 
@@ -39,7 +39,7 @@ Bảo tàng trong nhà mát là trụ của khung trưa: các điểm khu trung 
 
 Một cách xếp khác cho khách thích chụp ảnh: khung sáng là lúc ánh đẹp nhất ở các điểm ngoài trời, khách chụp hình trước khi nắng lên gắt, rồi phần trong nhà vừa xem vừa trú mát khung giữa trưa. Kiểu chia này tận dụng được cả hai lợi thế của mùa hè, sáng trong và chiều nghiêng, đồng thời giữ khung nóng nhất trong nhà mát.
 
-Hai bài tham khảo đáng đọc khi xếp lịch mùa hè: [ngày mưa ở Hà Nội vẫn thuê xe máy, chọn điểm trong nhà gần nhau](/thue-xe/2026/10/11/ngay-mua-o-ha-noi-van-thue-xe-may-chon-iem-trong-nha-gan-nhau/) cho nguyên tắc chọn điểm, và [mưa ẩm cuối đông đầu xuân, chợ nổi Hà Giang](/cung-duong/2026/10/01/chon-xe-may-i-pu-luong-mua-mua-luu-y-uong-tron/) cho kiểu xếp cung theo thời tiết, vì các chuyến xa còn phải tính thêm mưa rào đột ngột của mùa hè.
+Hai bài tham khảo đáng đọc khi xếp lịch mùa hè: [ngày mưa ở Hà Nội vẫn thuê xe máy, chọn điểm trong nhà gần nhau](/thue-xe/2026/10/11/ngay-mua-o-ha-noi-van-thue-xe-may-chon-diem-trong-nha-gan-nhau/) cho nguyên tắc chọn điểm, và [mưa ẩm cuối đông đầu xuân, chợ nổi Hà Giang](/cung-duong/2026/10/01/chon-xe-may-di-pu-luong-mua-mua-luu-y-duong-tron/) cho kiểu xếp cung theo thời tiết, vì các chuyến xa còn phải tính thêm mưa rào đột ngột của mùa hè.
 
 Khách thuê xe theo ngày nên hỏi bên cho xe về xe có ô hoặc chống nắng cho yên không, vì yên xe nung nóng dưới nắng trưa, khách về đỗ ngoài trời mấy tiếng thì lót khăn dày lên yên trước khi đi tiếp. Vài bãi gửi có mái che mất thêm chút tiền, mùa hè đáng trả.
 

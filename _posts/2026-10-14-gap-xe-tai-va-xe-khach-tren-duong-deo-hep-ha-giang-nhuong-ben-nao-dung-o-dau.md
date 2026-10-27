@@ -43,7 +43,7 @@ Xe khách tuyến chính chạy lịch trình quen thuộc, tài xế thuộc đ
 
 Chạy sau xe lớn trên đèo có hai cái giá: bụi trắng che hết tầm nhìn, và màn xe chắn hết dấu hiệu mặt đường phía trước. Khoảng cách đủ là khoảng cách thấy được mặt đường bên trái xe, và chỗ vượt chỉ nên là đoạn thẳng dài, thấy rõ đầu kia. Vượt xe container lúc nó đang vào cua, kể cả chậm, là quyết định không lấy lại được nếu có xe ngược chiều.
 
-Bị xe lớn áp sát phía sau càng phải bình tĩnh hơn: giữ làn phải ổn định, chạy đều, và chủ động nhường ở đoạn thẳng kế tiếp bằng cách tấp lề hẳn và để nó qua. Xe lớn không thích đi sau xe máy chậm, và một lần nhường chủ động tốt hơn mười phút bị áp sát. Cách giữ khoảng cách khi gặp xe container trên đường hẹp đã bàn trong bài [gặp xe container trên đường hẹp](/ky-nang/2026/10/10/gap-xe-container-tren-uong-hep-giu-khoang-cach/), và nguyên tắc đó trên đèo chỉ càng đúng hơn.
+Bị xe lớn áp sát phía sau càng phải bình tĩnh hơn: giữ làn phải ổn định, chạy đều, và chủ động nhường ở đoạn thẳng kế tiếp bằng cách tấp lề hẳn và để nó qua. Xe lớn không thích đi sau xe máy chậm, và một lần nhường chủ động tốt hơn mười phút bị áp sát. Cách giữ khoảng cách khi gặp xe container trên đường hẹp đã bàn trong bài [gặp xe container trên đường hẹp](/ky-nang/2026/10/10/gap-xe-container-tren-duong-hep-giu-khoang-cach/), và nguyên tắc đó trên đèo chỉ càng đúng hơn.
 
 Ai mới tập chạy đèo nên đọc trước bài [chạy vòng cung Hà Giang theo chiều nào](/cung-duong/2026/10/14/chay-vong-cung-ha-giang-theo-chieu-nao-di-thuan-hay-di-nguoc/), vì hướng chạy quyết định số lần chạm mặt xe lớn: chiều thuận thường gặp nhiều xe ngược chiều vào buổi sáng, và chiều ngược thì ngược lại.
 

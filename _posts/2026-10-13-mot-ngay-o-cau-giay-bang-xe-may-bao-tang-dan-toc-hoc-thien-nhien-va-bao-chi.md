@@ -27,7 +27,7 @@ Cự ly thuận lợi: Dân tộc học và Thiên nhiên gần sát nhau, Báo 
 
 ## Thứ tự gợi ý cho cả ngày
 
-Buổi sáng dành cho Bảo tàng Dân tộc học, vì điểm này rộng nhất, có vườn nhà sàn ngoài trời, nên cần sức và thời gian khung mát. Xuất phát từ nội thành sớm, xem trong nhà trước rồi ra vườn trước lúc trưa nắng lên. Chi tiết đường vào và chỗ gửi của điểm này đã có trong bài [đến Bảo tàng Dân tộc học Việt Nam bằng xe máy](/du-lich/2026/09/28/en-bao-tang-dan-toc-hoc-viet-nam-bang-xe-may-gui-xe-va-uong-i/ "Bảo tàng Dân tộc học"), khách lần đầu nên lướt qua trước chuyến.
+Buổi sáng dành cho Bảo tàng Dân tộc học, vì điểm này rộng nhất, có vườn nhà sàn ngoài trời, nên cần sức và thời gian khung mát. Xuất phát từ nội thành sớm, xem trong nhà trước rồi ra vườn trước lúc trưa nắng lên. Chi tiết đường vào và chỗ gửi của điểm này đã có trong bài [đến Bảo tàng Dân tộc học Việt Nam bằng xe máy](/du-lich/2026/09/28/den-bao-tang-dan-toc-hoc-viet-nam-bang-xe-may-gui-xe-va-duong-di/ "Bảo tàng Dân tộc học"), khách lần đầu nên lướt qua trước chuyến.
 
 Trưa nghỉ ăn quanh khu Cầu Giấy, đoạn này nhiều hàng ăn giá hợp với dân văn phòng, đừng đi về nội thành ăn rồi chạy ra lại, mất thời gian vô ích. Sau trưa, điểm thứ hai là Bảo tàng Thiên nhiên Việt Nam, điểm trong nhà mát, hợp với khung nóng nhất của ngày. Một tiếng ở đây là đủ vòng chính, khách đi cùng trẻ nhỏ thì trẻ thường mê gian khủng long và các mẫu vật lớn, tính thêm thời gian đứng chụp ảnh.
 
@@ -39,7 +39,7 @@ Cuối chiều, chạy sang Bảo tàng Báo chí Việt Nam trên phố Dương
 
 ## Chỗ gửi xe ở từng chặng
 
-Dân tộc học có bãi gửi rộng ngay cổng, đón cả xe đoàn cuối tuần, sáng sớm chắc chắn có chỗ. Thiên nhiên có bãi trước khu, cũng rộng, hai điểm này khách khỏi lo chỗ đỗ. Báo chí nằm trong tòa nhà nên gửi ở bãi quanh khu tòa nhà, theo chỉ dẫn lối vào của điểm. Chi tiết gửi xe của điểm Thiên nhiên đã có trong bài [đến Bảo tàng Thiên nhiên Việt Nam bằng xe máy](/du-lich/2026/10/01/en-bao-tang-thien-nhien-viet-nam-bang-xe-may-gui-xe-va-uong-i/ "Bảo tàng Thiên nhiên"), gồm cả khung giờ bãi kín sớm cuối tuần.
+Dân tộc học có bãi gửi rộng ngay cổng, đón cả xe đoàn cuối tuần, sáng sớm chắc chắn có chỗ. Thiên nhiên có bãi trước khu, cũng rộng, hai điểm này khách khỏi lo chỗ đỗ. Báo chí nằm trong tòa nhà nên gửi ở bãi quanh khu tòa nhà, theo chỉ dẫn lối vào của điểm. Chi tiết gửi xe của điểm Thiên nhiên đã có trong bài [đến Bảo tàng Thiên nhiên Việt Nam bằng xe máy](/du-lich/2026/10/01/den-bao-tang-thien-nhien-viet-nam-bang-xe-may-gui-xe-va-duong-di/ "Bảo tàng Thiên nhiên"), gồm cả khung giờ bãi kín sớm cuối tuần.
 
 Ba thói quen giữ nguyên suốt ngày: khóa cổ, cầm theo đồ đắt giá, chụp lại góc để xe. Vì ba điểm gần nhau, khách có thể chọn gửi một bãi quen gần Dân tộc học rồi chạy nối không gửi lại, nếu bãi đó theo ngày và cho gửi dài. Hỏi giá gửi theo ngày ngay lúc đưa xe để tránh tính lại giá giữa chuyến.
 

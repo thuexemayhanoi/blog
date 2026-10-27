@@ -52,7 +52,7 @@ Nút giao cuối Trần Duy Hưng rất rộng, có đường trên cao và nhi�
 
 Hướng này ít được nhắc tới nhưng hữu ích khi trục Kim Mã – Cầu Giấy đang tắc nặng. Từ phố cổ, bạn đi lên phía hồ Tây, ra đường Hoàng Hoa Thám hoặc Thụy Khuê, nối sang Hoàng Quốc Việt rồi rẽ trái vào Phạm Văn Đồng, chạy xuống nút Mai Dịch. Từ đây sang Lê Đức Thọ hoặc Phạm Hùng đều gần.
 
-Quãng đường dài hơn một chút, nhưng đoạn Phạm Văn Đồng rộng, xe chạy đều hơn. Nếu bạn muốn tìm hiểu kỹ hơn trục này, bài về [cung đường Phạm Văn Đồng và Võ Nguyên Giáp](/cung-duong/2026/10/09/cung-uong-pham-van-ong-va-vo-nguyen-giep-chay-xe-may/) có mô tả chi tiết từng đoạn. Trục này có nhiều xe tải, xe khách, nên giữ khoảng cách với xe lớn.
+Quãng đường dài hơn một chút, nhưng đoạn Phạm Văn Đồng rộng, xe chạy đều hơn. Nếu bạn muốn tìm hiểu kỹ hơn trục này, bài về [cung đường Phạm Văn Đồng và Võ Nguyên Giáp](/cung-duong/2026/10/09/cung-duong-pham-van-dong-va-vo-nguyen-giep-chay-xe-may/) có mô tả chi tiết từng đoạn. Trục này có nhiều xe tải, xe khách, nên giữ khoảng cách với xe lớn.
 
 ## Chọn hướng theo giờ đi
 

@@ -27,7 +27,7 @@ Vòng cấm mỗi năm có thể rộng hẹp khác nhau tuỳ chương trình, 
 
 Từ Long Biên qua cầu Chương Dương, các điểm gửi quen thuộc nằm dọc Trần Nhật Duật và Trần Quang Khải, rồi đi bộ theo Lò Sũ hoặc Hàng Bạc vào hồ, chừng mười đến mười lăm phút. Từ phía nam, gửi quanh Lý Thường Kiệt, Trần Hưng Đạo rồi đi bộ lên theo Hàng Bài hoặc Bà Triệu. Từ phía tây, các bãi quanh Phủ Doãn, Quán Sứ, Hàng Bông; từ phía bắc, khu Hàng Đậu, Phùng Hưng. Đêm đó bãi tự phát mọc khắp nơi, hãy chọn bãi có niêm yết giá và có vé, hỏi rõ giờ đóng bãi, chụp lại vị trí xe và giữ chìa khoá cẩn thận.
 
-Danh sách bãi và mức giá ngày thường có ở bài [gửi xe quanh Hồ Gươm giá và vị trí](/du-lich/2026/09/28/gui-xe-quanh-ho-guom-gia-va-vi-tri/ "Gửi xe quanh Hồ Gươm"), còn cách để xe ngoài rồi đi bộ vào khu đi bộ cuối tuần, vốn gần giống đêm giao thừa thu nhỏ, có ở bài [đi dạo phố đi bộ quanh Hồ Gươm cuối tuần: để xe máy ở đâu rồi đi bộ vào](/ky-nang/2026/10/11/i-dao-pho-i-bo-quanh-ho-guom-cuoi-tuan-e-xe-may-o-au-roi-i-bo-vao/ "Để xe ở đâu rồi đi bộ vào phố đi bộ"). Đêm giao thừa, mọi khoảng cách đi bộ hãy nhân đôi vì dòng người dày.
+Danh sách bãi và mức giá ngày thường có ở bài [gửi xe quanh Hồ Gươm giá và vị trí](/du-lich/2026/09/28/gui-xe-quanh-ho-guom-gia-va-vi-tri/ "Gửi xe quanh Hồ Gươm"), còn cách để xe ngoài rồi đi bộ vào khu đi bộ cuối tuần, vốn gần giống đêm giao thừa thu nhỏ, có ở bài [đi dạo phố đi bộ quanh Hồ Gươm cuối tuần: để xe máy ở đâu rồi đi bộ vào](/ky-nang/2026/10/11/di-dao-pho-di-bo-quanh-ho-guom-cuoi-tuan-de-xe-may-o-dau-roi-di-bo-vao/ "Để xe ở đâu rồi đi bộ vào phố đi bộ"). Đêm giao thừa, mọi khoảng cách đi bộ hãy nhân đôi vì dòng người dày.
 
 ## Có nên đi hay không: ba kiểu người, ba câu trả lời
 
@@ -35,7 +35,7 @@ Gia đình có trẻ nhỏ hoặc người lớn tuổi: không nên vào sát h
 
 Người trẻ đi nhóm: đi được, với điều kiện có mặt ở vành ngoài trước sáu giờ tối, gửi xe xong rồi đi bộ vào thong thả, và chấp nhận mất một đến hai tiếng để về. Hẹn điểm tập hợp cụ thể nếu lạc nhau, vì sóng điện thoại trong đám đông hay nghẽn.
 
-Khách du lịch ở ngay phố cổ: để xe ở khách sạn và đi bộ, đừng lấy xe ra cho đến sáng hôm sau. Ai định thuê xe đúng dịp này cần đặt sớm và hỏi rõ lịch nhận trả, như bài [thuê xe máy dịp lễ dài và Tết: đặt sớm và hỏi lịch nhận trả ra sao](/thue-xe/2026/10/11/thue-xe-may-dip-le-dai-va-tet-at-som-va-hoi-lich-nhan-tra-ra-sao/ "Thuê xe máy dịp Tết đặt sớm") đã nói.
+Khách du lịch ở ngay phố cổ: để xe ở khách sạn và đi bộ, đừng lấy xe ra cho đến sáng hôm sau. Ai định thuê xe đúng dịp này cần đặt sớm và hỏi rõ lịch nhận trả, như bài [thuê xe máy dịp lễ dài và Tết: đặt sớm và hỏi lịch nhận trả ra sao](/thue-xe/2026/10/11/thue-xe-may-dip-le-dai-va-tet-dat-som-va-hoi-lich-nhan-tra-ra-sao/ "Thuê xe máy dịp Tết đặt sớm") đã nói.
 
 ## Cách về an toàn sau pháo hoa
 
@@ -49,4 +49,4 @@ Lấy được xe rồi, đội mũ bảo hiểm cài quai, bật đèn, đi the
 
 Dịp Tết Bính Ngọ 2026, thành phố bố trí tới ba mươi ba điểm bắn trải đều các khu vực, theo kế hoạch của Uỷ ban nhân dân thành phố; các dịp đếm ngược Tết dương lịch cũng có nhiều điểm ngoài trung tâm. Với người ở Long Biên, Gia Lâm hay Đông Anh, một điểm bắn gần nhà cho cảm giác thoải mái hơn nhiều so với chen vào Hồ Gươm, và đường về chỉ mất mười phút. Hồ Gươm đẹp nhất vào giao thừa khi bạn đã ở sẵn trong đó từ chiều và không vội về.
 
-Dù chọn điểm nào, chuyện để xe máy ở đâu rồi đi bộ vào vẫn là nguyên tắc chung của mọi đêm lễ lớn ở Hà Nội. Những tối cuối tuần thường, cách đi quanh khu phố đi bộ được nói ở bài [phố đi bộ Hồ Gươm cuối tuần xe máy gửi ở đâu](/du-lich/2026/10/09/pho-i-bo-ho-guom-cuoi-tuan-xe-may-gui-o-au/ "Phố đi bộ Hồ Gươm gửi xe ở đâu"). Các bài về khu phố cổ tập hợp ở chuyên mục [phố cổ](/du-lich/pho-co/ "Phố cổ Hà Nội"), còn điểm đến toàn thành phố ở mục [du lịch](/du-lich/ "Du lịch Hà Nội bằng xe máy").
+Dù chọn điểm nào, chuyện để xe máy ở đâu rồi đi bộ vào vẫn là nguyên tắc chung của mọi đêm lễ lớn ở Hà Nội. Những tối cuối tuần thường, cách đi quanh khu phố đi bộ được nói ở bài [phố đi bộ Hồ Gươm cuối tuần xe máy gửi ở đâu](/du-lich/2026/10/09/pho-di-bo-ho-guom-cuoi-tuan-xe-may-gui-o-dau/ "Phố đi bộ Hồ Gươm gửi xe ở đâu"). Các bài về khu phố cổ tập hợp ở chuyên mục [phố cổ](/du-lich/pho-co/ "Phố cổ Hà Nội"), còn điểm đến toàn thành phố ở mục [du lịch](/du-lich/ "Du lịch Hà Nội bằng xe máy").

@@ -27,7 +27,7 @@ Vài năm gần đây, chính quyền phường và các nhóm tình nguyện c�
 
 Cá chép đỏ bán ở các chợ từ sáng hai mươi hai, nhiều nhất sáng hai mươi ba; chọn con bơi khoẻ, vảy sáng, không tróc, không nổi nghiêng. Người bán thường đóng túi nilon có nước và bơm khí; để cá sống qua quãng đường, giữ túi trong một hộp nhựa hoặc xô có nắp hờ, đặt trên sàn xe ga hoặc trong cốp mở, chèn chắc. Không treo túi cá ở móc tay lái hay tay nắm, túi đung đưa, va đập và nắng hun làm cá yếu nhanh. Mỗi túi vài con là đủ, đừng dồn nhiều con vào một túi nhỏ.
 
-Chạy chậm, tránh phanh gấp, quãng đường từ nhà hoặc chợ tới hồ nên dưới nửa tiếng. Tới nơi, trước khi thả, nhúng cả túi còn buộc xuống nước hồ vài phút cho nhiệt độ trong túi gần bằng nước hồ, rồi mới mở. Cách chèn đồ dễ hỏng trên xe máy cũng giống chở lễ đi chùa, có ở bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-o-i-le-chua-au-nam-tren-xe-may/ "Chở đồ đi lễ chùa trên xe máy").
+Chạy chậm, tránh phanh gấp, quãng đường từ nhà hoặc chợ tới hồ nên dưới nửa tiếng. Tới nơi, trước khi thả, nhúng cả túi còn buộc xuống nước hồ vài phút cho nhiệt độ trong túi gần bằng nước hồ, rồi mới mở. Cách chèn đồ dễ hỏng trên xe máy cũng giống chở lễ đi chùa, có ở bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-do-di-le-chua-dau-nam-tren-xe-may/ "Chở đồ đi lễ chùa trên xe máy").
 
 ## Thả đúng chỗ, thả đúng cách
 
@@ -37,12 +37,12 @@ Tro vàng mã, chân hương, bát hương cũ và đồ cúng không thả xu�
 
 ## Chỗ để xe và đường đi ngày hai mươi ba
 
-Đường Thanh Niên hẹp và nhiều đoạn cấm dừng đỗ, ngày này còn đông người thả cá hai bên, nên không dựng xe ở lòng đường rồi chạy xuống thả. Gửi xe ở các điểm trông giữ quanh chùa Trấn Quốc, đền Quán Thánh hoặc quanh Nguyễn Đình Thi rồi đi bộ ra bờ hồ vài phút; chỗ gửi quanh chùa có ở bài [ghé chùa Trấn Quốc bằng xe máy: gửi xe và đường đi](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i/ "Ghé chùa Trấn Quốc bằng xe máy"), các điểm khác quanh hồ ở bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/ "Gửi xe khi đi dạo bờ Hồ Tây").
+Đường Thanh Niên hẹp và nhiều đoạn cấm dừng đỗ, ngày này còn đông người thả cá hai bên, nên không dựng xe ở lòng đường rồi chạy xuống thả. Gửi xe ở các điểm trông giữ quanh chùa Trấn Quốc, đền Quán Thánh hoặc quanh Nguyễn Đình Thi rồi đi bộ ra bờ hồ vài phút; chỗ gửi quanh chùa có ở bài [ghé chùa Trấn Quốc bằng xe máy: gửi xe và đường đi](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-duong-di/ "Ghé chùa Trấn Quốc bằng xe máy"), các điểm khác quanh hồ ở bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/ "Gửi xe khi đi dạo bờ Hồ Tây").
 
 Ngày hai mươi ba tháng Chạp đường phố đông hơn thường vì người đi chợ Tết, mua cây, sắm lễ; từ Long Biên, qua cầu Chương Dương rồi theo Yên Phụ lên Thanh Niên lúc bảy giờ sáng còn thoáng, sau chín giờ bắt đầu ùn ở đầu cầu và dốc Yên Phụ. Về thì theo đúng đường cũ, hoặc vòng Trích Sài, Lạc Long Quân nếu Thanh Niên kẹt.
 
 ## Nếu không tiện đến Hồ Tây
 
-Thả cá không bắt buộc phải ở Hồ Tây. Một cái hồ gần nhà có nước sạch, hoặc sông Hồng ở bãi giữa, đều được; chỉ cần đọc biển, vì một số hồ trong trung tâm có biển cấm thả cá và đồ cúng. Người ở Long Biên, Gia Lâm có thể ra bờ sông phía mình, đỡ qua cầu ngày đông. Với ai muốn kết hợp đi lễ cuối năm, thả cá sáng sớm rồi ghé chùa Trấn Quốc hoặc phủ Tây Hồ ngay gần là một buổi trọn vẹn; vòng hồ sáng sớm có ở bài [chạy xe quanh Hồ Tây sáng sớm: tuyến và điểm dừng](/du-lich/2026/10/05/chay-xe-quanh-ho-tay-sang-som-tuyen-va-iem-dung/ "Chạy xe quanh Hồ Tây sáng sớm").
+Thả cá không bắt buộc phải ở Hồ Tây. Một cái hồ gần nhà có nước sạch, hoặc sông Hồng ở bãi giữa, đều được; chỉ cần đọc biển, vì một số hồ trong trung tâm có biển cấm thả cá và đồ cúng. Người ở Long Biên, Gia Lâm có thể ra bờ sông phía mình, đỡ qua cầu ngày đông. Với ai muốn kết hợp đi lễ cuối năm, thả cá sáng sớm rồi ghé chùa Trấn Quốc hoặc phủ Tây Hồ ngay gần là một buổi trọn vẹn; vòng hồ sáng sớm có ở bài [chạy xe quanh Hồ Tây sáng sớm: tuyến và điểm dừng](/du-lich/2026/10/05/chay-xe-quanh-ho-tay-sang-som-tuyen-va-diem-dung/ "Chạy xe quanh Hồ Tây sáng sớm").
 
 Cuối cùng, việc nhỏ nhưng nhiều người quên: ngày này rét, bờ hồ gió, mặc đủ ấm, đi giày đế bám vì bậc xuống nước thường rêu trơn. Các bài khác về khu này nằm ở chuyên mục [Hồ Tây](/du-lich/ho-tay/ "Hồ Tây"), còn điểm đến toàn thành phố ở mục [du lịch](/du-lich/ "Du lịch Hà Nội bằng xe máy").

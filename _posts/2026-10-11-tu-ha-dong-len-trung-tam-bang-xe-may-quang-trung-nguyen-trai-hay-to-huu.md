@@ -58,13 +58,13 @@ Thay vì hỏi đường nào nhanh hơn, hãy hỏi bạn sẽ dừng ở đâu
 
 **Đi làm ở Láng Hạ.** Giả sử bạn ở một khu chung cư phía bắc Hà Đông. Lên Tố Hữu, đi thẳng Lê Văn Lương rồi rẽ vào Láng Hạ thường gọn hơn hẳn. Nếu chọn Nguyễn Trãi, bạn phải vòng qua Ngã Tư Sở và Thái Hà mà chưa chắc đỡ đông.
 
-**Đi chơi phố cổ, Hồ Gươm.** Nguyễn Trãi thường hợp hơn. Từ Ngã Tư Sở đi Tây Sơn, Tôn Đức Thắng, qua Văn Miếu rồi vào khu Hàng Bông gần như một mạch. Muốn ngắm phố lúc vắng, bạn có thể nối tiếp bằng [cung đường chạy xe vòng trung tâm Hà Nội sáng sớm](/cung-duong/2026/09/28/cung-uong-chay-xe-vong-trung-tam-ha-noi-sang-som/).
+**Đi chơi phố cổ, Hồ Gươm.** Nguyễn Trãi thường hợp hơn. Từ Ngã Tư Sở đi Tây Sơn, Tôn Đức Thắng, qua Văn Miếu rồi vào khu Hàng Bông gần như một mạch. Muốn ngắm phố lúc vắng, bạn có thể nối tiếp bằng [cung đường chạy xe vòng trung tâm Hà Nội sáng sớm](/cung-duong/2026/09/28/cung-duong-chay-xe-vong-trung-tam-ha-noi-sang-som/).
 
 **Ra ga Hà Nội.** Đi Nguyễn Trãi, qua Ngã Tư Sở, rồi theo Tây Sơn tới Ô Chợ Dừa, rẽ Khâm Thiên ra Lê Duẩn. Nên đi sớm hơn dự định, vì quanh ga thường đông xe đưa đón và chỗ dừng hạn chế.
 
 **Sang Long Biên.** Hướng nào cũng phải xuyên qua trung tâm. Nhiều người chọn Nguyễn Trãi vào phía phố cổ rồi ra bờ sông. Nếu muốn dừng ngắm cây cầu sắt cũ, đọc thêm về [trải nghiệm cầu Long Biên và khu Long Biên](/du%20l%E1%BB%8Bch/2026/09/18/cau-long-bien-va-khu-long-bien-bang-xe-may/).
 
-**Về phía nam, khu Linh Đàm.** Khi đó không cần vào trung tâm, bạn có thể rẽ theo vành đai 3 từ nút giao trên Nguyễn Trãi hoặc Tố Hữu. Bài về [cung đường quanh hồ Linh Đàm](/cung-duong/2026/10/01/cung-uong-ho-linh-am-bang-xe-may/) có gợi ý chạy vòng hồ thư thả.
+**Về phía nam, khu Linh Đàm.** Khi đó không cần vào trung tâm, bạn có thể rẽ theo vành đai 3 từ nút giao trên Nguyễn Trãi hoặc Tố Hữu. Bài về [cung đường quanh hồ Linh Đàm](/cung-duong/2026/10/01/cung-duong-ho-linh-dam-bang-xe-may/) có gợi ý chạy vòng hồ thư thả.
 
 ## Giờ đi và thời tiết làm thay đổi lựa chọn
 

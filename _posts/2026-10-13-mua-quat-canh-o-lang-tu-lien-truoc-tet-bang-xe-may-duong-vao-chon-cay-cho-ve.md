@@ -27,7 +27,7 @@ Tứ Liên là làng nghề trồng quất cảnh lâu đời ở ven Hồ Tây,
 
 Làng quất nằm ngoài đê, giữa Nhật Tân và Yên Phụ, phía sông Hồng. Từ Long Biên, qua cầu Chương Dương, theo Yên Phụ lên Nghi Tàm rồi vào đường Âu Cơ, để ý bên tay phải các ngõ dốc xuống bãi có biển vườn quất, mùa này không thể lẫn. Từ phía bắc có thể từ cầu Nhật Tân xuống Âu Cơ rồi rẽ xuống bãi. Ngõ xuống dốc, hẹp, mùa Tết xe ba gác và xe tải nhỏ chở quất liên tục đi lên, nên xuống chậm bằng số thấp, nép vào một bên khi gặp xe chở cây.
 
-Đường trong bãi là bê tông mỏng xen đường đất, qua các vườn cách nhau vài chục mét; gửi xe ngay vườn định xem, không dựng xe chắn lối xe chở cây. Vườn đào ở ngay bên cạnh, cùng một nhịp mùa, nên ai muốn xem cả hai thì đi theo hướng dẫn ở bài [vườn đào Nhật Tân trước Tết bằng xe máy: đường đi và gửi xe](/du-lich/2026/10/04/vuon-ao-nhat-tan-truoc-tet-bang-xe-may-uong-i-va-gui-xe/ "Vườn đào Nhật Tân trước Tết bằng xe máy").
+Đường trong bãi là bê tông mỏng xen đường đất, qua các vườn cách nhau vài chục mét; gửi xe ngay vườn định xem, không dựng xe chắn lối xe chở cây. Vườn đào ở ngay bên cạnh, cùng một nhịp mùa, nên ai muốn xem cả hai thì đi theo hướng dẫn ở bài [vườn đào Nhật Tân trước Tết bằng xe máy: đường đi và gửi xe](/du-lich/2026/10/04/vuon-dao-nhat-tan-truoc-tet-bang-xe-may-duong-di-va-gui-xe/ "Vườn đào Nhật Tân trước Tết bằng xe máy").
 
 ## Chọn cây: dáng, quả, lá và lộc
 
@@ -47,4 +47,4 @@ Cây cao từ một mét trở lên, tán rộng hơn tay lái, không nên cố
 
 Đặt cây ở chỗ sáng, thoáng, xa cửa gió điều hoà và xa bếp; tưới ít, đủ ẩm đất, không tưới đẫm mỗi ngày. Quả rụng vài quả là bình thường, rụng hàng loạt kèm lá quăn là cây đang sốc, chuyển ra chỗ thoáng hơn và bớt tưới. Sau Tết, nhiều nhà vườn ở Tứ Liên nhận lại cây để chăm cho mùa sau với phí thoả thuận, hỏi ngay lúc mua nếu bạn định chơi lại cây năm tới.
 
-Những ngày giáp Tết, chợ hoa Quảng Bá gần đó cũng họp cả ngày, ghé thêm được hoa cành cho bàn thờ trong cùng chuyến; chỗ gửi xe và giờ họp chợ có ở bài [đi chợ hoa Quảng An bằng xe máy sáng sớm](/du-lich/2026/10/09/i-cho-hoa-quang-an-bang-xe-may-sang-som/ "Đi chợ hoa Quảng An sáng sớm"). Các bài khác về khu này nằm ở chuyên mục [Hồ Tây](/du-lich/ho-tay/ "Hồ Tây"), còn điểm đến toàn thành phố ở mục [du lịch](/du-lich/ "Du lịch Hà Nội bằng xe máy").
+Những ngày giáp Tết, chợ hoa Quảng Bá gần đó cũng họp cả ngày, ghé thêm được hoa cành cho bàn thờ trong cùng chuyến; chỗ gửi xe và giờ họp chợ có ở bài [đi chợ hoa Quảng An bằng xe máy sáng sớm](/du-lich/2026/10/09/di-cho-hoa-quang-an-bang-xe-may-sang-som/ "Đi chợ hoa Quảng An sáng sớm"). Các bài khác về khu này nằm ở chuyên mục [Hồ Tây](/du-lich/ho-tay/ "Hồ Tây"), còn điểm đến toàn thành phố ở mục [du lịch](/du-lich/ "Du lịch Hà Nội bằng xe máy").

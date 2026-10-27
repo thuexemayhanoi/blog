@@ -65,7 +65,7 @@ Không có trục nào luôn nhanh hơn, mỗi khung giờ có đặc điểm ri
 
 **Chỉ biết điểm hẹn "ở Cầu Giấy".** Hỏi lại tên phố hoặc một mốc lớn gần nhất. Chưa chắc thì cứ đi Kim Mã tới phố Cầu Giấy, dừng ở chỗ an toàn để xem bản đồ, vì từ đây xuống nam hay lên bắc đều không xa.
 
-Muốn làm quen khu này trước ngày có việc, cung đường [chạy thử xe máy qua Cầu Giấy và Hồ Tây](/cung-duong/2026/10/10/cung-uong-chay-thu-xe-may-qua-cau-giay-va-ho-tay/) là bài tập nhẹ nhàng, nhìn được nhiều mốc mà không dồn dập như giờ cao điểm.
+Muốn làm quen khu này trước ngày có việc, cung đường [chạy thử xe máy qua Cầu Giấy và Hồ Tây](/cung-duong/2026/10/10/cung-duong-chay-thu-xe-may-qua-cau-giay-va-ho-tay/) là bài tập nhẹ nhàng, nhìn được nhiều mốc mà không dồn dập như giờ cao điểm.
 
 ## Mẹo cho lượt đi và lượt về
 
@@ -74,7 +74,7 @@ Muốn làm quen khu này trước ngày có việc, cung đường [chạy th�
 - **Lượt về có thể đổi trục** để biết thêm đường, miễn bạn không quá mệt.
 - **Gửi xe nơi có người trông.** Tòa văn phòng và trung tâm thương mại thường có hầm hoặc bãi riêng, hỏi bảo vệ trước khi dựng xe.
 
-Nếu nhận xe ở phía Long Biên rồi mới vào phố cổ, bài về [cầu Long Biên và khu Long Biên bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/cau-long-bien-va-khu-long-bien-bang-xe-may/) giúp bạn hình dung đoạn qua sông. Ai từng tự chạy [từ bến xe Giáp Bát về phố cổ](/cung-duong/2026/10/09/tu-ben-xe-giap-bat-ve-pho-co-chay-xe-may-uong-nao/) sẽ thấy cách đọc đường ở đây giống vậy: chọn trục chính trước, ngõ nhỏ tính sau. Các tuyến khác quanh trung tâm có trong chuyên mục [cung đường nội thành Hà Nội](/cung-duong/cung-duong-noi-thanh/) và trang tổng hợp [các cung đường xe máy](/cung-duong/).
+Nếu nhận xe ở phía Long Biên rồi mới vào phố cổ, bài về [cầu Long Biên và khu Long Biên bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/cau-long-bien-va-khu-long-bien-bang-xe-may/) giúp bạn hình dung đoạn qua sông. Ai từng tự chạy [từ bến xe Giáp Bát về phố cổ](/cung-duong/2026/10/09/tu-ben-xe-giap-bat-ve-pho-co-chay-xe-may-duong-nao/) sẽ thấy cách đọc đường ở đây giống vậy: chọn trục chính trước, ngõ nhỏ tính sau. Các tuyến khác quanh trung tâm có trong chuyên mục [cung đường nội thành Hà Nội](/cung-duong/cung-duong-noi-thanh/) và trang tổng hợp [các cung đường xe máy](/cung-duong/).
 
 ## Chọn xe cho chặng nội thành này
 

@@ -29,7 +29,7 @@ Một lưu ý chọn hàng: mua ở hộ dân hoặc điểm bán có dấu tem,
 
 Đèo về nhà có đủ mọi thứ để phá hỏng quà: rung, nắng, mưa và cua gắt. Vì thế mật ong nên chuyển từ chai thủy tinh sang hộp nhựa cứng nếu được, quấn màng nilon quanh nắp, rồi bọc trong ba lớp áo trước khi đặt sâu vào cốp, luôn giữ đứng. Trà shan tuyết sợ ẩm hơn sợ vỡ: gói túi zip bên trong, bọc thêm túi nilon ngoài để đường về gặp mưa vẫn an toàn, và không để cạnh chai nước. Rượu ngô thường đựng chai thủy tinh, nên bọc dày, dựng giữa lớp quần áo, không nằm ngang, và tránh đặt cạnh pô nóng.
 
-Các kỹ năng chung cho đồ dễ vỡ đã bàn kỹ trong bài [chở đồ dễ vỡ trên xe máy sao cho không hỏng](/ky-nang/2026/10/10/cho-o-de-vo-tren-xe-may-sao-cho-khong-hong/): bọc riêng từng món, xếp chật để không xê dịch, và chỗ nhiều rung nhất là cổng hàng sau, không phải giữa cốp. Quy tắc nhớ nhanh: chất lỏng đứng, hàng khô nằm, và mọi thứ đều xa mặt xăng.
+Các kỹ năng chung cho đồ dễ vỡ đã bàn kỹ trong bài [chở đồ dễ vỡ trên xe máy sao cho không hỏng](/ky-nang/2026/10/10/cho-do-de-vo-tren-xe-may-sao-cho-khong-hong/): bọc riêng từng món, xếp chật để không xê dịch, và chỗ nhiều rung nhất là cổng hàng sau, không phải giữa cốp. Quy tắc nhớ nhanh: chất lỏng đứng, hàng khô nằm, và mọi thứ đều xa mặt xăng.
 
 ## Chở thêm đồ: giữ xe cân bằng
 

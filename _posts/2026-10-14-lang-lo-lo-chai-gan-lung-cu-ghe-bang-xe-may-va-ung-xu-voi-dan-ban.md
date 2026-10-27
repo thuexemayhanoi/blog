@@ -45,7 +45,7 @@ Cảnh làng, mái nhà, vườn rào thì chụp được thoải mái hơn, nh
 
 Lịch gợi ý cho một sáng từ phố cổ Đồng Văn: lên cột cờ đón nắng sớm, xuống ghé làng khoảng chín giờ rưỡi tới mười giờ, ăn nhẹ hoặc về phố cổ ăn trưa. Với nhóm đi theo bài [lịch trình Hà Giang xe máy bốn ngày ba đêm](/cung-duong/2026/10/14/lich-trinh-ha-giang-bang-xe-may-thue-tu-ha-noi-bon-ngay-ba-dem-chia-the-nao/), đây là buổi sáng ngày ba; còn nếu hôm trước đã dành buổi chiều cho [dinh thự họ Vương ở Sà Phìn](/cung-duong/2026/10/14/dinh-thu-ho-vuong-o-sa-phin-ghe-khi-chay-xe-may-tu-yen-minh-len-dong-van/), thì sáng nay đã kín vừa đẹp: di tích hôm trước, bản người hôm sau.
 
-Trước chuyến, nhóm nên thống nhất quy tắc chung như đã hướng dẫn trong bài [thuê xe máy cho nhóm bạn ở Hà Nội cần chuẩn bị gì](/thue-xe/2026/09/30/thue-xe-may-cho-oan-nhom-o-ha-noi-can-chuan-bi-gi/), kể cả việc ai giữ đồ khi cả nhóm đi bộ vào thôn, để không ai phải vác balo to đứng giữa nhà người ta.
+Trước chuyến, nhóm nên thống nhất quy tắc chung như đã hướng dẫn trong bài [thuê xe máy cho nhóm bạn ở Hà Nội cần chuẩn bị gì](/thue-xe/2026/09/30/thue-xe-may-cho-doan-nhom-o-ha-noi-can-chuan-bi-gi/), kể cả việc ai giữ đồ khi cả nhóm đi bộ vào thôn, để không ai phải vác balo to đứng giữa nhà người ta.
 
 ## Chốt lại: ba mươi phút đổi một trải nghiệm bản thật
 

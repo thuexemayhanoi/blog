@@ -21,7 +21,7 @@ Nếu nhóm bạn đã chốt thuê xe ở Hà Nội và chỉ có bốn ngày b
 
 Cấu trúc bốn ngày ba đêm phổ biến nhất là: ngày một chạy từ Hà Nội lên thành phố Hà Giang, ngủ lại phố; ngày hai từ thành phố lên Đồng Văn qua Quản Bạ và Yên Minh, ngủ phố cổ Đồng Văn; ngày ba đi Mã Pí Lèng, Mèo Vạc rồi vòng về Yên Minh nghỉ; ngày bốn từ Yên Minh về thẳng Hà Nội. Tổng số cây số chạy cả bốn ngày vào khoảng bảy trăm, trong đó có hai trăm cây số đường núi dốc cua.
 
-Tiết tấu quan trọng hơn tổng quãng đường: hai ngày đầu không nên đặt mục tiêu chạy thêm điểm phụ, vì mỗi giờ trễ sẽ đẩy toàn bộ lịch phía sau. Nếu nhóm có người chạy chậm, hãy cắt bớt điểm từ ngày ba trước, không cắt giờ ngủ. Trước khi đi, nhóm nên chuẩn bị theo checklist trong bài [thuê xe máy cho nhóm bạn ở Hà Nội cần chuẩn bị gì](/thue-xe/2026/09/30/thue-xe-may-cho-oan-nhom-o-ha-noi-can-chuan-bi-gi/): thống nhất xe, giấy tờ và quy tắc chạy đoàn từ trước.
+Tiết tấu quan trọng hơn tổng quãng đường: hai ngày đầu không nên đặt mục tiêu chạy thêm điểm phụ, vì mỗi giờ trễ sẽ đẩy toàn bộ lịch phía sau. Nếu nhóm có người chạy chậm, hãy cắt bớt điểm từ ngày ba trước, không cắt giờ ngủ. Trước khi đi, nhóm nên chuẩn bị theo checklist trong bài [thuê xe máy cho nhóm bạn ở Hà Nội cần chuẩn bị gì](/thue-xe/2026/09/30/thue-xe-may-cho-doan-nhom-o-ha-noi-can-chuan-bi-gi/): thống nhất xe, giấy tờ và quy tắc chạy đoàn từ trước.
 
 ## Ngày một: từ Hà Nội lên thành phố Hà Giang
 

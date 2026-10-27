@@ -27,7 +27,7 @@ Chợ ẩm thực tối là điểm dừng ăn chính: thắng cố, bánh cuố
 
 Sau chín giờ, phố xẹp nhanh: hàng quán lần lượt hạ cửa và tiếng người vãn hẳn. Đây là lúc để ba việc nhỏ: ghé hàng vải lanh mua ít quà, chụp những khung ảnh đèn vàng không người qua lại, và về sớm ngủ. Đêm ở vùng cao lạnh hơn hẳn thành phố, kể cả giữa thu, nên nhóm đi xe máy nên mang thêm lớp áo cho buổi tối đi bộ.
 
-Một việc đáng mười phút trước khi ngủ: chốt giờ dậy và lịch sáng mai cho cả đoàn, dựng xe gọn trong sân chỗ nghỉ và kiểm tra lại lốp, phanh sau một ngày đường dài. Ai cần nghe tư vấn chỗ nghỉ có chỗ để xe nên đọc bài [hỏi khách sạn hoặc homestay về chỗ để xe trước khi chốt](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-e-xe-truoc-khi-chot-thue-xe-may/) trước khi đặt, vì để xe qua đêm trong sân có người trông luôn khác hẳn để ngoài phố.
+Một việc đáng mười phút trước khi ngủ: chốt giờ dậy và lịch sáng mai cho cả đoàn, dựng xe gọn trong sân chỗ nghỉ và kiểm tra lại lốp, phanh sau một ngày đường dài. Ai cần nghe tư vấn chỗ nghỉ có chỗ để xe nên đọc bài [hỏi khách sạn hoặc homestay về chỗ để xe trước khi chốt](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-de-xe-truoc-khi-chot-thue-xe-may/) trước khi đặt, vì để xe qua đêm trong sân có người trông luôn khác hẳn để ngoài phố.
 
 ## Sáng sớm: dậy lúc mấy giờ và thấy gì
 

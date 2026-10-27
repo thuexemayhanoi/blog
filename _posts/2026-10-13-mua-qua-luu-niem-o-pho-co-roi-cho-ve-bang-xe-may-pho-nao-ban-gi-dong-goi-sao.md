@@ -45,7 +45,7 @@ Không chở hộp to tới mức che gương hoặc che đèn hậu. Lăn bánh
 
 Hàng Bạc, Hàng Gai, Hàng Trống, Hàng Mã, Hàng Đường cách nhau chỉ vài phút đi bộ, nên cách khôn nhất là gửi xe một lần rồi đi bộ cả vòng, thay vì chạy xe từng phố và tìm chỗ dừng năm lần. Chỗ gửi tiện cho vòng này nằm quanh Hàng Dầu, Lò Sũ phía bờ hồ hoặc đầu Hàng Bông phía tây; cách tìm chỗ gửi quen trong khu này có ở bài [gửi xe máy trong ngõ phố cổ: cách chọn chỗ quen](/du-lich/2026/10/04/gui-xe-may-trong-ngo-pho-co-cach-chon-cho-quen/ "Chọn chỗ gửi xe trong ngõ phố cổ").
 
-Đi theo thứ tự nhẹ trước nặng sau: bắt đầu từ Hàng Gai với lụa, sang Hàng Trống xem tranh, lên Hàng Bạc chọn đồ bạc, ghé Hàng Mã, rồi kết ở Hàng Đường mua ô mai và đồ gốm, sơn mài sau cùng. Tối thứ Sáu đến Chủ nhật, nhiều phố trong vòng này thuộc khu phố đi bộ và vùng hạn chế xe từ bảy giờ tối, xe máy không vào được nhưng đi bộ mua sắm thì lại rất thuận, chỉ cần tính trước chỗ gửi ở vành ngoài. Ăn uống giữa chừng thì xem bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-e-xe-o-au/ "Ăn uống quanh phố cổ để xe ở đâu").
+Đi theo thứ tự nhẹ trước nặng sau: bắt đầu từ Hàng Gai với lụa, sang Hàng Trống xem tranh, lên Hàng Bạc chọn đồ bạc, ghé Hàng Mã, rồi kết ở Hàng Đường mua ô mai và đồ gốm, sơn mài sau cùng. Tối thứ Sáu đến Chủ nhật, nhiều phố trong vòng này thuộc khu phố đi bộ và vùng hạn chế xe từ bảy giờ tối, xe máy không vào được nhưng đi bộ mua sắm thì lại rất thuận, chỉ cần tính trước chỗ gửi ở vành ngoài. Ăn uống giữa chừng thì xem bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-de-xe-o-dau/ "Ăn uống quanh phố cổ để xe ở đâu").
 
 ## Về đến chỗ ở: kiểm tra ngay và xếp vào vali
 

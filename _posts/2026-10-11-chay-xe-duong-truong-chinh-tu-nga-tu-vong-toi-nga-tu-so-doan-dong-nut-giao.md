@@ -64,7 +64,7 @@ Nếu dùng bản đồ, hãy xem trước lộ trình khi còn đứng chờ đ
 
 Với người mới, giờ chạy quan trọng không kém kỹ năng. Trường Chinh thường đông nhất giờ đi làm buổi sáng và giờ tan tầm, chưa kể ngày mưa khi vài chỗ đọng nước. Giữa buổi sáng hoặc đầu giờ chiều thường thoáng hơn để làm quen.
 
-Muốn luyện tay trước, bạn có thể chạy thử [một cung nội thành dành cho người mới](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-au/), hoặc dậy sớm đi [vòng quanh trung tâm lúc phố còn vắng](/cung-duong/2026/09/28/cung-uong-chay-xe-vong-trung-tam-ha-noi-sang-som/). Quen phanh, quen xi nhan rồi quay lại Trường Chinh sẽ thấy nhẹ hơn hẳn.
+Muốn luyện tay trước, bạn có thể chạy thử [một cung nội thành dành cho người mới](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-dau/), hoặc dậy sớm đi [vòng quanh trung tâm lúc phố còn vắng](/cung-duong/2026/09/28/cung-duong-chay-xe-vong-trung-tam-ha-noi-sang-som/). Quen phanh, quen xi nhan rồi quay lại Trường Chinh sẽ thấy nhẹ hơn hẳn.
 
 Về chiều đi, mỗi chiều đông vào một khung giờ khác nhau, nên hãy để ý xem hướng mình đi trùng dòng người tan tầm hay không. Nếu lịch linh hoạt, hãy đổi giờ hoặc chọn đường nhỏ song song, đi chậm nhưng ít căng thẳng.
 
@@ -76,7 +76,7 @@ Về chiều đi, mỗi chiều đông vào một khung giờ khác nhau, nên h
 - Mang áo mưa gọn trong cốp; trú mưa dưới chân cầu cạn dễ gây ách tắc.
 - Gắn điện thoại vào giá đỡ chắc, dùng chỉ dẫn bằng giọng nói.
 
-Nếu bạn vừa từ bến xe về, bài [đi từ bến xe Giáp Bát vào phố cổ](/cung-duong/2026/10/09/tu-ben-xe-giap-bat-ve-pho-co-chay-xe-may-uong-nao/) mô tả trục Giải Phóng khá kỹ, đọc trước sẽ dễ hình dung đoạn dẫn tới Ngã Tư Vọng. Còn nếu thuê xe ở Long Biên, hãy hỏi Nguyễn Tú dòng xe nào hợp đường phố đông trước khi nhận xe.
+Nếu bạn vừa từ bến xe về, bài [đi từ bến xe Giáp Bát vào phố cổ](/cung-duong/2026/10/09/tu-ben-xe-giap-bat-ve-pho-co-chay-xe-may-duong-nao/) mô tả trục Giải Phóng khá kỹ, đọc trước sẽ dễ hình dung đoạn dẫn tới Ngã Tư Vọng. Còn nếu thuê xe ở Long Biên, hãy hỏi Nguyễn Tú dòng xe nào hợp đường phố đông trước khi nhận xe.
 
 ## Đi vài lần là quen
 

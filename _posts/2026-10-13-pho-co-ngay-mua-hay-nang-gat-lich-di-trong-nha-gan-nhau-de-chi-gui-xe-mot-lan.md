@@ -21,11 +21,11 @@ Chỉ có một ngày ở Hà Nội, xe máy đã thuê, mà sáng mở cửa th
 
 Ngôi nhà cổ ở số 87 Mã Mây là nhà ống phố cổ được phục dựng, mở cửa cho khách tham quan có vé, xem trọn một lối sống Hà Nội cũ trong hai mươi phút. Cách đó một đoạn ngắn là trung tâm giao lưu văn hoá phố cổ ở số 50 Đào Duy Từ, thường có triển lãm và trưng bày nhỏ, vào tránh mưa mà vẫn học được điều gì đó. Trên Hàng Bạc có đình Kim Ngân thờ tổ nghề kim hoàn, bên trong rộng và mát.
 
-Phía bờ hồ, nhà hát múa rối nước Thăng Long trên phố Đinh Tiên Hoàng diễn nhiều suất trong ngày, là chỗ ngồi khô ráo hơn một tiếng và đáng xem với mọi lứa tuổi; giờ diễn và cách dừng xe quanh hồ có ở bài [xem múa rối nước Thăng Long bằng xe máy: đi giờ nào và dừng xe quanh Hồ Gươm](/du-lich/2026/10/11/xem-mua-roi-nuoc-thang-long-bang-xe-may-i-gio-nao-va-dung-xe-quanh-ho-guom/ "Xem múa rối nước Thăng Long bằng xe máy").
+Phía bờ hồ, nhà hát múa rối nước Thăng Long trên phố Đinh Tiên Hoàng diễn nhiều suất trong ngày, là chỗ ngồi khô ráo hơn một tiếng và đáng xem với mọi lứa tuổi; giờ diễn và cách dừng xe quanh hồ có ở bài [xem múa rối nước Thăng Long bằng xe máy: đi giờ nào và dừng xe quanh Hồ Gươm](/du-lich/2026/10/11/xem-mua-roi-nuoc-thang-long-bang-xe-may-di-gio-nao-va-dung-xe-quanh-ho-guom/ "Xem múa rối nước Thăng Long bằng xe máy").
 
-Chợ Đồng Xuân có mái che ba tầng, đi dạo cả tiếng không ướt; Tràng Tiền Plaza ở đầu Tràng Tiền có điều hoà cho ngày nắng; Nhà thờ Lớn mở cửa cho khách vào các khung giờ nhất định. Và quán cà phê: Hà Nội có cà phê trứng, cà phê phố cổ trên gác hai nhìn xuống phố mưa, mỗi quán là một chỗ nghỉ nửa tiếng; chỗ gửi xe cho những quán này được nói ở bài [đi cà phê phố cổ bằng xe máy: gửi xe ở đâu cho tiện](/du-lich/2026/10/01/i-ca-phe-pho-co-bang-xe-may-gui-xe-o-au-cho-tien/ "Đi cà phê phố cổ gửi xe ở đâu").
+Chợ Đồng Xuân có mái che ba tầng, đi dạo cả tiếng không ướt; Tràng Tiền Plaza ở đầu Tràng Tiền có điều hoà cho ngày nắng; Nhà thờ Lớn mở cửa cho khách vào các khung giờ nhất định. Và quán cà phê: Hà Nội có cà phê trứng, cà phê phố cổ trên gác hai nhìn xuống phố mưa, mỗi quán là một chỗ nghỉ nửa tiếng; chỗ gửi xe cho những quán này được nói ở bài [đi cà phê phố cổ bằng xe máy: gửi xe ở đâu cho tiện](/du-lich/2026/10/01/di-ca-phe-pho-co-bang-xe-may-gui-xe-o-dau-cho-tien/ "Đi cà phê phố cổ gửi xe ở đâu").
 
-Xa hơn một chút về phía khu phố Pháp có Bảo tàng Lịch sử Quốc gia sau lưng Nhà hát Lớn và Bảo tàng Phụ nữ Việt Nam trên phố Lý Thường Kiệt, cả hai đều là điểm trong nhà nhiều giờ, hợp cho ngày mưa dầm cả ngày. Danh sách rộng hơn cho toàn thành phố có ở bài [ngày mưa ở Hà Nội: những điểm đến trong nhà dễ đi bằng xe máy](/du-lich/2026/10/11/ngay-mua-o-ha-noi-nhung-iem-en-trong-nha-de-i-bang-xe-may/ "Điểm đến trong nhà ngày mưa ở Hà Nội").
+Xa hơn một chút về phía khu phố Pháp có Bảo tàng Lịch sử Quốc gia sau lưng Nhà hát Lớn và Bảo tàng Phụ nữ Việt Nam trên phố Lý Thường Kiệt, cả hai đều là điểm trong nhà nhiều giờ, hợp cho ngày mưa dầm cả ngày. Danh sách rộng hơn cho toàn thành phố có ở bài [ngày mưa ở Hà Nội: những điểm đến trong nhà dễ đi bằng xe máy](/du-lich/2026/10/11/ngay-mua-o-ha-noi-nhung-diem-den-trong-nha-de-di-bang-xe-may/ "Điểm đến trong nhà ngày mưa ở Hà Nội").
 
 ## Lịch ngày mưa: gửi xe một lần ở phía bờ hồ
 
@@ -45,7 +45,7 @@ Khoảng bốn rưỡi, năm giờ chiều ra lại bờ hồ, đi bộ quanh h�
 
 Mỗi lần dừng xe trong phố cổ là một lần tìm chỗ, một lần mặc cởi áo mưa, một lần trả tiền gửi và một lần chạy xe trên phố ướt hoặc nóng. Năm điểm với năm lần gửi tốn hơn một tiếng chỉ cho việc dừng đỗ. Với các điểm cách nhau vài phút đi bộ như trên, một chỗ gửi ở phía bờ hồ hoặc ở phía Hàng Bông là đủ cho cả ngày, và việc tìm chỗ gửi quen được nói ở bài [gửi xe máy trong ngõ phố cổ: cách chọn chỗ quen](/du-lich/2026/10/04/gui-xe-may-trong-ngo-pho-co-cach-chon-cho-quen/ "Chọn chỗ gửi xe trong ngõ phố cổ").
 
-Ngày mưa chọn bãi có mái hoặc tầng hầm, ngày nắng chọn bãi có bóng cây hoặc mái tôn; hỏi giờ đóng bãi vì bạn sẽ gửi khá lâu. Bữa trưa và bữa chiều đều có thể ăn trong nhà ngay quanh các điểm này, chỗ để xe khi đi ăn được nói ở bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-e-xe-o-au/ "Ăn uống quanh phố cổ để xe ở đâu").
+Ngày mưa chọn bãi có mái hoặc tầng hầm, ngày nắng chọn bãi có bóng cây hoặc mái tôn; hỏi giờ đóng bãi vì bạn sẽ gửi khá lâu. Bữa trưa và bữa chiều đều có thể ăn trong nhà ngay quanh các điểm này, chỗ để xe khi đi ăn được nói ở bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-de-xe-o-dau/ "Ăn uống quanh phố cổ để xe ở đâu").
 
 ## Nếu mưa kéo dài hay nắng kéo dài nhiều ngày
 

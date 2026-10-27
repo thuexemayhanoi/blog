@@ -50,7 +50,7 @@ Dưới đây là một vòng mà tôi hay chỉ cho khách muốn chạy dướ
 
 Một vài phố trong khu này là đường một chiều, nên hãy đọc biển báo ở mỗi đầu phố thay vì bám bản đồ máy móc. Lỡ đi quá chỗ rẽ thì đi tiếp đến ngã tư sau rồi vòng lại, đừng quay đầu giữa phố.
 
-Nếu bạn thích chạy khi thành phố còn vắng, có thể tham khảo thêm [vòng trung tâm Hà Nội lúc sáng sớm](/cung-duong/2026/09/28/cung-uong-chay-xe-vong-trung-tam-ha-noi-sang-som/) rồi ghép với đoạn Phan Đình Phùng – Hoàng Diệu. Người mới cầm lái trong phố cũng nên đọc trước [kinh nghiệm cho người lần đầu chạy nội thành](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-au/) để quen nhịp xe ở các nút giao.
+Nếu bạn thích chạy khi thành phố còn vắng, có thể tham khảo thêm [vòng trung tâm Hà Nội lúc sáng sớm](/cung-duong/2026/09/28/cung-duong-chay-xe-vong-trung-tam-ha-noi-sang-som/) rồi ghép với đoạn Phan Đình Phùng – Hoàng Diệu. Người mới cầm lái trong phố cũng nên đọc trước [kinh nghiệm cho người lần đầu chạy nội thành](/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-dau/) để quen nhịp xe ở các nút giao.
 
 ## Bóng đổ loang, cành thấp và lá rụng: lưu ý khi chạy dưới tán cây
 
@@ -78,7 +78,7 @@ Giữa trưa vẫn là lúc nóng nhất và ánh sáng loang lổ khó nhìn nh
 
 Nên mặc áo dài tay mỏng, sáng màu, đeo khẩu trang vải thoáng và găng tay mỏng để không cháy nắng khi ra khỏi đoạn có bóng cây. Mang một chai nước nhỏ trong cốp.
 
-Chỗ dừng chân nên có vỉa hè rộng, chỗ gửi xe rõ ràng. Muốn kéo dài hành trình, bạn có thể nối tiếp bằng [cung đường dọc sông Hồng trong nội đô](/cung-duong/2026/09/28/chay-xe-doc-song-hong-noi-o/) vào lúc chiều mát.
+Chỗ dừng chân nên có vỉa hè rộng, chỗ gửi xe rõ ràng. Muốn kéo dài hành trình, bạn có thể nối tiếp bằng [cung đường dọc sông Hồng trong nội đô](/cung-duong/2026/09/28/chay-xe-doc-song-hong-noi-do/) vào lúc chiều mát.
 
 ## Chọn xe và chuẩn bị trước khi lăn bánh
 

@@ -47,7 +47,7 @@ Trước đoạn đèo dài, nguồn tin tốt nhất là người sống trên 
 
 Trên các trục chính, mùa mưa thi thoảng có đoạn cấm hoặc chờ thông đường, và bảng thông báo thường dựng ở đầu tuyến. Ghé trạm xăng đầu huyện đọc bảng và nghe đôi câu của người đổ xang cũng là một kênh tin đáng tin.
 
-Khi chờ, canh khung giờ thông thoáng và đổi lịch nếu cần: dịch lịch một buổi, dời đèo sang giờ trưa nắng ráo, hoặc đảo ngày để lên vùng cao vào ngày thời tiết đẹp hơn. Cách xếp lịch theo thời tiết và mùa đã bàn trong bài [khung thời gian nên chạy cung Hà Giang](/cung-duong/2026/10/07/khung-thoi-gian-ep-trong-nam-e-chay-cung-ha-giang/), và mùa mưa là lúc linh hoạt đó đáng tiền nhất. Ai theo lịch một ngày lên Đồng Văn kiểu bài [một ngày chạy từ Hà Giang lên Đồng Văn](/cung-duong/2026/10/14/mot-ngay-chay-tu-ha-giang-len-dong-van-chia-gio-qua-quan-ba-va-yen-minh/) thì nên giữ phần dư: sau mưa lớn, mọi khung giờ trong lịch đều có thể lệch.
+Khi chờ, canh khung giờ thông thoáng và đổi lịch nếu cần: dịch lịch một buổi, dời đèo sang giờ trưa nắng ráo, hoặc đảo ngày để lên vùng cao vào ngày thời tiết đẹp hơn. Cách xếp lịch theo thời tiết và mùa đã bàn trong bài [khung thời gian nên chạy cung Hà Giang](/cung-duong/2026/10/07/khung-thoi-gian-dep-trong-nam-de-chay-cung-ha-giang/), và mùa mưa là lúc linh hoạt đó đáng tiền nhất. Ai theo lịch một ngày lên Đồng Văn kiểu bài [một ngày chạy từ Hà Giang lên Đồng Văn](/cung-duong/2026/10/14/mot-ngay-chay-tu-ha-giang-len-dong-van-chia-gio-qua-quan-ba-va-yen-minh/) thì nên giữ phần dư: sau mưa lớn, mọi khung giờ trong lịch đều có thể lệch.
 
 ## Chốt lại: kính che mưa, không che mắt
 

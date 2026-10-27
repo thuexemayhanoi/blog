@@ -73,7 +73,7 @@ Nếu mới chạy xe ở Hà Nội, hãy thử lộ trình vào sáng cuối tu
 
 Quanh Hồ Gươm có nhiều điểm trông xe, nhưng chỗ trống và cách thu phí thay đổi theo thời điểm. Hãy hỏi rõ trước khi gửi, giữ vé cẩn thận và nhớ tên phố nơi để xe, vì phố cổ về đêm trông khá giống nhau.
 
-Đường về thường đơn giản hơn: ra Cửa Nam, theo Nguyễn Thái Học về khu Văn Miếu, rồi đi Tôn Đức Thắng về Ô Chợ Dừa và Tây Sơn. Gửi xe phía nam hồ thì đi ngược Trần Hưng Đạo ra Lê Duẩn rồi về Kim Liên, Xã Đàn. Ai đến Hà Nội bằng xe khách có thể xem thêm cách đi [từ bến xe Giáp Bát về phố cổ](/cung-duong/2026/10/09/tu-ben-xe-giap-bat-ve-pho-co-chay-xe-may-uong-nao/) để nối lịch trình.
+Đường về thường đơn giản hơn: ra Cửa Nam, theo Nguyễn Thái Học về khu Văn Miếu, rồi đi Tôn Đức Thắng về Ô Chợ Dừa và Tây Sơn. Gửi xe phía nam hồ thì đi ngược Trần Hưng Đạo ra Lê Duẩn rồi về Kim Liên, Xã Đàn. Ai đến Hà Nội bằng xe khách có thể xem thêm cách đi [từ bến xe Giáp Bát về phố cổ](/cung-duong/2026/10/09/tu-ben-xe-giap-bat-ve-pho-co-chay-xe-may-duong-nao/) để nối lịch trình.
 
 Cần xe đi lại trong tuần, bạn có thể gọi Thuê Xe Máy Hà Nội Nguyễn Tú (0942 467 674, 09:00–21:00) để xác nhận giá và thủ tục.
 
