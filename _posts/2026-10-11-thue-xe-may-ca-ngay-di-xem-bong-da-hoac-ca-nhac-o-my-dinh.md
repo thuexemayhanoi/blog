@@ -65,7 +65,7 @@ Nếu quá mệt, hãy dừng ở chỗ an toàn nghỉ một lát hoặc nhờ 
 
 Đây là chỗ nhiều người quên tính. Trận đấu hoặc ca nhạc buổi tối có thể kết thúc khi cửa hàng cho thuê đã đóng cửa. Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên mở 09:00–21:00 và không giao xe ngoài giờ này, nên hãy gọi 0942 467 674 hỏi trước ngày diễn ra sự kiện về cách trả xe khi bạn về muộn.
 
-Có ba điều nên chốt từ đầu: giờ trả xe cuối cùng, nếu trả vào sáng hôm sau thì tính thế nào, và có phát sinh thêm khoản nào không. Hãy hỏi và xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe, đừng tự suy đoán. Bài về việc [hợp đồng thuê theo ngày được ký với ai](/thue-xe/2026/09/27/thue-xe-may-theo-ngay-hop-ong-voi-ai/) cũng giúp bạn biết cần hỏi gì trước khi ký.
+Có ba điều nên chốt từ đầu: giờ trả xe cuối cùng, nếu trả vào sáng hôm sau thì tính thế nào, và có phát sinh thêm khoản nào không. Hãy hỏi và xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe, đừng tự suy đoán. Bài về việc [hợp đồng thuê theo ngày được ký với ai](/thue-xe/2026/09/27/thue-xe-may-theo-ngay-hop-dong-voi-ai/) cũng giúp bạn biết cần hỏi gì trước khi ký.
 
 Nếu chỉ trả được trong giờ mở cửa, bạn có thể rời sân trước khi sự kiện kết thúc, vừa kịp giờ vừa tránh dòng người lúc tan. Cái giá là bỏ lỡ phần cuối chương trình, nên hãy quyết định từ trước.
 

@@ -47,7 +47,7 @@ Nếu vừa nhận xe thuê và chưa biết tiếng "chuẩn" của nó, hãy b
 Bơm xăng là chi tiết chạy bằng điện, nằm trong bình xăng và làm việc mỗi lần bạn chạy xe. Nó có thể kêu to hơn vì nhiều lý do, và đa số cần thợ nhìn tận nơi mới biết chính xác. Về nguyên tắc chung, có ba hướng hay gặp:
 
 - Xăng trong bình xuống quá thấp, bơm hút phải hơi và không còn được xăng bao quanh làm mát, tiếng thường to và gắt hơn. Thói quen chạy tới khi kim xăng chạm vạch cạn mới đổ không tốt cho bơm.
-- Cặn bẩn, xăng cũ trong bình hoặc bộ lọc bị bít khiến bơm phải gắng sức. Xe nằm lâu rất dễ rơi vào tình huống này, nên nếu xe vừa nghỉ nhiều ngày, hãy xem [những việc nên kiểm tra khi xe máy để lâu không chạy](/xe-may/2026/10/10/xe-may-e-lau-khong-chay-kiem-tra-truoc-khi-no-may/) trước khi nổ máy.
+- Cặn bẩn, xăng cũ trong bình hoặc bộ lọc bị bít khiến bơm phải gắng sức. Xe nằm lâu rất dễ rơi vào tình huống này, nên nếu xe vừa nghỉ nhiều ngày, hãy xem [những việc nên kiểm tra khi xe máy để lâu không chạy](/xe-may/2026/10/10/xe-may-de-lau-khong-chay-kiem-tra-truoc-khi-no-may/) trước khi nổ máy.
 - Bơm lâu ngày bị mòn, hoặc phần giá đỡ lỏng làm rung và vang trong thùng xăng.
 
 Tiếng to chưa chắc là bơm sắp hỏng, nhưng đừng mặc kệ. Một chiếc bơm đang yếu dần thường báo bằng tiếng trước khi bỏ cuộc hẳn, và hay bỏ cuộc đúng lúc bạn cần đi gấp nhất.
@@ -62,7 +62,7 @@ Im lặng cũng là một tín hiệu. Bật chìa không nghe tiếng bơm, l�
 
 Nếu cả ba đều ổn mà vẫn im lặng, nguyên nhân có thể nằm ở bơm, cầu chì, rơ le hoặc giắc điện. Đây là những bộ phận thuộc hệ thống điện và nhiên liệu, bạn không nên tự tháo hay tự thay. Cũng đừng đề liên tục: mỗi lần đề ngắn, nghỉ giữa các lần, kẻo ắc quy cạn thêm.
 
-Trường hợp ngược lại, nghe bơm chạy bình thường nhưng máy vẫn không nổ, vấn đề có thể đã nằm ở chỗ khác như bugi, kim phun hay xăng có vấn đề. Bài nói về chuyện [vệ sinh kim phun định kỳ trên xe phun xăng điện tử](/xe-may/2026/10/11/xe-phun-xang-ien-tu-co-can-ve-sinh-kim-phun-inh-ky-khong-khi-nao-nen-lam/) giải thích khi nào việc đó thật sự cần.
+Trường hợp ngược lại, nghe bơm chạy bình thường nhưng máy vẫn không nổ, vấn đề có thể đã nằm ở chỗ khác như bugi, kim phun hay xăng có vấn đề. Bài nói về chuyện [vệ sinh kim phun định kỳ trên xe phun xăng điện tử](/xe-may/2026/10/11/xe-phun-xang-dien-tu-co-can-ve-sinh-kim-phun-dinh-ky-khong-khi-nao-nen-lam/) giải thích khi nào việc đó thật sự cần.
 
 ## Hai tình huống rất Hà Nội dễ khiến bạn nghe nhầm
 

@@ -56,13 +56,13 @@ Phối hợp phanh trước và phanh sau, bóp đều thay vì giật. Mắt nh
 
 Với những khúc cua dọc đê ven sông Hồng hay vòng quanh Hồ Tây, đừng ôm cứng tay lái rồi vặn người gượng ép. Hãy giảm tốc trước khi vào cua, nhìn xa về cuối khúc quanh, để thân người nghiêng cùng xe theo hướng cua. Gối phía trong ép nhẹ vào thân xe, vai thả lỏng. Cố giữ người thẳng đứng khi xe nghiêng, hay bẻ tay lái gắt lúc còn nhanh, là nguyên nhân hay gặp của những cú trượt bánh.
 
-Chạy chậm thì ngược lại: mất đà nên xe dễ nghiêng. Hãy nhìn xa chứ đừng nhìn bánh trước, giữ ga nhẹ và đều, để hai bàn chân sát mặt đất nhưng chỉ chạm đất khi thật sự cần. Trong ngõ nhỏ khu phố cổ, vừa đi vừa chạm chân liên tục sẽ làm xe lắc thêm. Nếu cần xoay xe trong chỗ chật, hãy xem [cách quay đầu xe máy ở ngõ nhỏ](/ky-nang/2026/10/09/quay-au-xe-may-o-ngo-nho-co-cach-nao-gon/), nơi tầm nhìn và hông quan trọng hơn lực tay.
+Chạy chậm thì ngược lại: mất đà nên xe dễ nghiêng. Hãy nhìn xa chứ đừng nhìn bánh trước, giữ ga nhẹ và đều, để hai bàn chân sát mặt đất nhưng chỉ chạm đất khi thật sự cần. Trong ngõ nhỏ khu phố cổ, vừa đi vừa chạm chân liên tục sẽ làm xe lắc thêm. Nếu cần xoay xe trong chỗ chật, hãy xem [cách quay đầu xe máy ở ngõ nhỏ](/ky-nang/2026/10/09/quay-dau-xe-may-o-ngo-nho-co-cach-nao-gon/), nơi tầm nhìn và hông quan trọng hơn lực tay.
 
 ## Đọc dấu hiệu cơ thể và tập thử trước khi đi xa
 
 Bạn có thể tự đọc tư thế sau mỗi chuyến đi. Cổ tay hay ngón cái đau là dấu hiệu bạn đang siết hoặc dựa vào tay lái. Vai nhức, cổ cứng thường do khuỷu chống ra hoặc vai nhún.
 
-Mỗi lần đổi xe, nhất là từ xe số sang xe ga, hãy chỉnh theo thứ tự: yên, tay, gối và bàn chân, cuối cùng mới tới gương. Tư thế xong rồi chỉnh gương thì tầm nhìn mới khớp, bạn có thể xem thêm [cách chỉnh gương xe máy khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-ung-cach-khi-dung-en-o/). Nếu tay lái, cần phanh hay yên không vừa người, đừng tự tháo lắp mà hãy báo cửa hàng cho thuê để xử lý trước khi đi tiếp. Nếu đau hoặc tê tay kéo dài, hãy dừng xe nghỉ.
+Mỗi lần đổi xe, nhất là từ xe số sang xe ga, hãy chỉnh theo thứ tự: yên, tay, gối và bàn chân, cuối cùng mới tới gương. Tư thế xong rồi chỉnh gương thì tầm nhìn mới khớp, bạn có thể xem thêm [cách chỉnh gương xe máy khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-dung-cach-khi-dung-den-do/). Nếu tay lái, cần phanh hay yên không vừa người, đừng tự tháo lắp mà hãy báo cửa hàng cho thuê để xử lý trước khi đi tiếp. Nếu đau hoặc tê tay kéo dài, hãy dừng xe nghỉ.
 
 Trước khi ra đường lớn, hãy dành một lúc ở bãi vắng hoặc đoạn đường nhỏ ít xe để tập theo các bước sau:
 

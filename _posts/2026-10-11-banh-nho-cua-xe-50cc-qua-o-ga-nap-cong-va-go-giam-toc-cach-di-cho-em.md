@@ -41,7 +41,7 @@ Phần lớn cú xóc nặng đến từ việc phát hiện chướng ngại qu
 3. Phanh nhẹ cả hai phanh trước khi bánh tới chướng ngại, không bóp một phanh thật mạnh.
 4. Nhả phanh ngay trước lúc bánh chạm để bánh lăn qua.
 
-Điểm mấu chốt là không bóp phanh khi bánh đang nằm trong ổ gà hoặc leo lên mép nắp cống. Lúc đó trọng lượng đã dồn về bánh trước, phanh gấp khiến giảm xóc bị nén cứng và bánh dễ mất bám. Bài về [độ an toàn của xe 50cc trong phố Hà Nội](/xe-may/2026/09/27/o-an-toan-cua-xe-50cc-trong-pho-ha-noi/) nói thêm các thói quen chung khi chạy trong phố.
+Điểm mấu chốt là không bóp phanh khi bánh đang nằm trong ổ gà hoặc leo lên mép nắp cống. Lúc đó trọng lượng đã dồn về bánh trước, phanh gấp khiến giảm xóc bị nén cứng và bánh dễ mất bám. Bài về [độ an toàn của xe 50cc trong phố Hà Nội](/xe-may/2026/09/27/do-an-toan-cua-xe-50cc-trong-pho-ha-noi/) nói thêm các thói quen chung khi chạy trong phố.
 
 ## Thả lỏng tay lái, ngồi vững để xe tự tìm thăng bằng
 

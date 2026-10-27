@@ -26,7 +26,7 @@ Biết tên từng phần giúp bạn mô tả rõ khi gọi cửa hàng hoặc 
 
 Dấu hiệu dễ nhận nhất là tiếng gắt, khô và thô hơn trước, rõ nhất khi vặn ga. Có khi nghe như tiếng xì hơi lẫn trong tiếng máy, có khi là tiếng lụp bụp lúc nhả ga hoặc tiếng kim loại rung lạch cạch gần bánh sau.
 
-Cách phân biệt đơn giản: máy yếu thường khiến xe ì, tiếng đều nhưng kém lực. Còn ống xả có vấn đề thì tiếng tăng đột ngột, vặn ga càng nhiều càng to. Nếu nghi tiếng lạ nằm ở phần máy chứ không phải ở pô, bài về [cách nghe tiếng lạ từ động cơ xe ga thuê](/xe-may/2026/10/03/tieng-la-tu-ong-co-xe-ga-thue-nhan-biet-som/) sẽ giúp bạn phân biệt.
+Cách phân biệt đơn giản: máy yếu thường khiến xe ì, tiếng đều nhưng kém lực. Còn ống xả có vấn đề thì tiếng tăng đột ngột, vặn ga càng nhiều càng to. Nếu nghi tiếng lạ nằm ở phần máy chứ không phải ở pô, bài về [cách nghe tiếng lạ từ động cơ xe ga thuê](/xe-may/2026/10/03/tieng-la-tu-dong-co-xe-ga-thue-nhan-biet-som/) sẽ giúp bạn phân biệt.
 
 Hãy thử nổ máy ở chỗ thoáng lúc xe còn nguội, đứng nghiêng bên xe chứ đừng đứng sát miệng ống. Lúc nguội kim loại chưa nở ra nên tiếng rò nghe rõ nhất. Khi chạy qua hầm chui hoặc những ngõ hẹp trong phố cổ Hà Nội, tiếng dội lại cũng khiến bạn nhận ra xe mình ồn hơn hẳn những xe xung quanh.
 
@@ -52,7 +52,7 @@ Lỗ thủng nhỏ khó thấy hơn. Dấu hiệu thường là một vệt mu�
 
 Cổ pô xe máy bị lỏng thường tạo tiếng "tạch tạch" theo nhịp máy, nghe rõ hơn lúc vừa nổ máy buổi sáng. Quanh chỗ nối với động cơ có thể có muội đen bám thành vòng. Khi xe nguội, thử lay nhẹ thân pô; nếu nó lắc nhiều hơn bình thường hoặc có tiếng kim loại chạm nhau, hãy nhờ thợ xem.
 
-Nguyên nhân hay gặp là rung lâu ngày làm ốc lỏng, hoặc gioăng đệm ở cổ pô đã xuống cấp. Đoạn đường gồ ghề ven sông Hồng hay những tuyến nhiều ổ gà làm xe rung nhiều hơn, nên xe thuê dài ngày dễ gặp lỗi này. Bạn có thể đọc thêm về [kiểm tra vít ốc lỏng lẻo trên xe thuê dài hạn](/xe-may/2026/10/03/vit-oc-long-leo-tren-xe-may-thue-dai-han-kiem-tra-inh-ky/). Việc siết lại, thay gioăng hay hàn vá nên để thợ làm, còn tự quấn băng keo hay bịt lỗ chỉ khiến bạn tưởng đã xong.
+Nguyên nhân hay gặp là rung lâu ngày làm ốc lỏng, hoặc gioăng đệm ở cổ pô đã xuống cấp. Đoạn đường gồ ghề ven sông Hồng hay những tuyến nhiều ổ gà làm xe rung nhiều hơn, nên xe thuê dài ngày dễ gặp lỗi này. Bạn có thể đọc thêm về [kiểm tra vít ốc lỏng lẻo trên xe thuê dài hạn](/xe-may/2026/10/03/vit-oc-long-leo-tren-xe-may-thue-dai-han-kiem-tra-dinh-ky/). Việc siết lại, thay gioăng hay hàn vá nên để thợ làm, còn tự quấn băng keo hay bịt lỗ chỉ khiến bạn tưởng đã xong.
 
 ## Vì sao không nên cố chạy tiếp khi pô hỏng nặng
 

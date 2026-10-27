@@ -30,7 +30,7 @@ Thay vì nhớ quy tắc cho từng nơi, hãy dùng một thước đo: bạn c
 
 Cách ước lượng nhanh: nếu không thể dang một cánh tay mà không chạm gương ô tô hay mép đường, khoảng hở đang quá hẹp. Khi chạy vị trí chuẩn, hai khoảng hở gần bằng nhau, hoặc rộng hơn một chút ở phía có nhiều thứ bất ngờ hơn.
 
-Vị trí cũng không đứng yên. Đoạn thoáng thì về gần giữa làn, đoạn có xe đỗ thì tránh xa dãy xe đỗ, đoạn đông xe thì giữ ổn định và đừng lượn qua lượn lại. Khi cần sang làn khác, bài về [chuyển làn đúng cách trên đường nhiều làn](/ky-nang/2026/10/04/chuyen-lan-ung-cach-tren-uong-nhieu-lan-xe-may/) sẽ nối tiếp rất hợp.
+Vị trí cũng không đứng yên. Đoạn thoáng thì về gần giữa làn, đoạn có xe đỗ thì tránh xa dãy xe đỗ, đoạn đông xe thì giữ ổn định và đừng lượn qua lượn lại. Khi cần sang làn khác, bài về [chuyển làn đúng cách trên đường nhiều làn](/ky-nang/2026/10/04/chuyen-lan-dung-cach-tren-duong-nhieu-lan-xe-may/) sẽ nối tiếp rất hợp.
 
 ## Đường rộng, ít xe: lùi khỏi mép nhưng đừng sang giữa
 
@@ -44,7 +44,7 @@ Phố nhỏ ở Hà Nội thường đỗ xe kín một bên, đôi khi cả hai
 
 Nguyên tắc: càng gần dãy xe đỗ, càng nên nhích ra xa, chừa khoảng bằng cánh cửa mở hết cỡ cộng thêm chút dư cho tay lái. Nhìn vào bên trong xe đỗ: có bóng người ngồi ghế lái, đèn phanh vừa sáng, khói ống xả là những dấu hiệu xe sắp động hay cửa sắp mở.
 
-Gần lối ra của ngõ nhỏ khu phố cổ, hãy chậm lại một nhịp và nhích ra xa hơn, vì xe máy, người đi bộ hay xe đẩy có thể xuất hiện bất ngờ. Giảm tốc trước khi vào đoạn hẹp, đừng đợi phanh gấp giữa chừng. Bài về [ra vào làn đường đúng cách](/ky-nang/2026/09/29/ra-vao-lan-uong-ung-cach/) giải thích thêm khi bạn là người đang rời ngõ.
+Gần lối ra của ngõ nhỏ khu phố cổ, hãy chậm lại một nhịp và nhích ra xa hơn, vì xe máy, người đi bộ hay xe đẩy có thể xuất hiện bất ngờ. Giảm tốc trước khi vào đoạn hẹp, đừng đợi phanh gấp giữa chừng. Bài về [ra vào làn đường đúng cách](/ky-nang/2026/09/29/ra-vao-lan-duong-dung-cach/) giải thích thêm khi bạn là người đang rời ngõ.
 
 ## Đoạn nhiều nắp cống và mép đường hỏng
 
@@ -66,6 +66,6 @@ Khi dừng chờ đèn đỏ, vị trí đứng cũng quan trọng không kém. 
 
 Muốn đổi thói quen, đừng chờ tới lúc đường đông. Hãy chọn một đoạn vắng, chạy chậm và tự hỏi: mình đang cách mép bao xa, hai bên còn chỗ không. Sau vài lần, tay lái sẽ tự tìm vị trí hợp lý mà không phải nghĩ nhiều.
 
-Nếu bạn nhận xe ở Thuê Xe Máy Hà Nội Nguyễn Tú, hãy dùng vài phút đầu để làm quen cảm giác xe trên đoạn thưa người, như bài [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-uong/) gợi ý.
+Nếu bạn nhận xe ở Thuê Xe Máy Hà Nội Nguyễn Tú, hãy dùng vài phút đầu để làm quen cảm giác xe trên đoạn thưa người, như bài [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-duong/) gợi ý.
 
 Mỗi khi đổi đoạn đường, hãy tự hỏi ba câu: có thứ gì sát mép mà mình cần tránh, có xe nào sắp xuất hiện từ bên phải, và nếu phải né ngay bây giờ thì né sang đâu. Câu trả lời chính là vị trí bạn nên ở. Muốn đọc tiếp các bài về quan sát và giữ khoảng cách, hãy ghé chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) hoặc xem toàn bộ hướng dẫn tại mục [kỹ năng](/ky-nang/).

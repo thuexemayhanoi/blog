@@ -36,7 +36,7 @@ Quy tắc dễ nhớ: có cảnh báo mưa lớn hoặc dông từ cơ quan khí
 
 Tình huống thường gặp: bạn định dành thứ Tư chạy ven đê chụp ảnh, nhưng tối thứ Ba dự báo mưa cả ngày. Hãy đảo lịch: thứ Tư đi bộ quanh phố cổ và vào bảo tàng, còn buổi ven đê dời sang ngày tạnh. Một tờ lịch có sẵn hai phương án cho mỗi ngày giúp bạn đỡ rối rất nhiều khi trời đổi.
 
-Dự báo nên xem hai lần, tối hôm trước và sáng hôm đó, vì thời tiết Hà Nội đổi khá nhanh. Nếu bạn lo xe gặp sự cố làm gián đoạn lịch trình, hãy đọc [chuyện xe dự phòng trong tuần thuê](/thue-xe/2026/10/05/thue-xe-may-mot-tuan-co-uoc-them-xe-du-phong-khong/) để biết nên hỏi gì trước khi đặt. Chỉ nhớ rằng xe dự phòng nếu có chỉ giải quyết chuyện hỏng hóc, không giải quyết được thời tiết xấu.
+Dự báo nên xem hai lần, tối hôm trước và sáng hôm đó, vì thời tiết Hà Nội đổi khá nhanh. Nếu bạn lo xe gặp sự cố làm gián đoạn lịch trình, hãy đọc [chuyện xe dự phòng trong tuần thuê](/thue-xe/2026/10/05/thue-xe-may-mot-tuan-co-duoc-them-xe-du-phong-khong/) để biết nên hỏi gì trước khi đặt. Chỉ nhớ rằng xe dự phòng nếu có chỉ giải quyết chuyện hỏng hóc, không giải quyết được thời tiết xấu.
 
 ## Quá mệt: cơ thể báo ngày nghỉ trước khi bạn nhận ra
 

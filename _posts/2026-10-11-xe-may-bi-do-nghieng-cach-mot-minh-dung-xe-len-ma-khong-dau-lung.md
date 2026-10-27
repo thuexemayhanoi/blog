@@ -48,7 +48,7 @@ Thấy xăng chảy, nhiều người cuống lên kéo giật xe rồi đau lư
 
 Xe ga có thân rộng, nhiều ốp nhựa nên cần chọn điểm nắm cẩn thận. Chỗ chắc nhất thường là tay lái và tay nắm sau, hoặc phần khung dưới yên. Sàn để chân và yếm xe là nhựa, kéo mạnh dễ nứt.
 
-Xe số như Wave có thân gọn hơn, nhiều người dáng nhỏ thấy dễ dựng hơn xe ga. Nguyên tắc vẫn y hệt: đứng sát, gập gối, đẩy bằng chân. Nếu bạn thuê một chiếc xe lạ, hãy dành ít phút làm quen trước khi chạy, như trong bài [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-uong/), để biết tay nắm sau và trọng tâm xe nằm ở đâu.
+Xe số như Wave có thân gọn hơn, nhiều người dáng nhỏ thấy dễ dựng hơn xe ga. Nguyên tắc vẫn y hệt: đứng sát, gập gối, đẩy bằng chân. Nếu bạn thuê một chiếc xe lạ, hãy dành ít phút làm quen trước khi chạy, như trong bài [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-duong/), để biết tay nắm sau và trọng tâm xe nằm ở đâu.
 
 ## Dựng xe máy bị ngã một mình hay nhờ người: khi nào nên dừng
 
@@ -64,7 +64,7 @@ Dựng một mình là kỹ năng hữu ích, nhưng không phải lúc nào cũ
 
 ## Dựng xe xong: kiểm tra nhanh trước khi chạy tiếp
 
-Xe đã đứng thẳng thì đừng buông tay vội. Giữ cho vững, gạt chân chống xuống, để xe tựa chắc rồi mới thả. Nếu chính chân chống gây ra cú đổ, hãy xem [cách bỏ chân chống xe máy thuê không bị kẹp](/ky-nang/2026/10/07/cach-bo-chan-chong-xe-may-thue-khong-bi-kep/), còn nếu bạn đỗ trên mặt dốc thì đọc bài [chống xe máy trên dốc đúng cách](/ky-nang/2026/10/05/chong-xe-may-tren-doc-ung-cach-khong-bi-tuot-chan-chong/).
+Xe đã đứng thẳng thì đừng buông tay vội. Giữ cho vững, gạt chân chống xuống, để xe tựa chắc rồi mới thả. Nếu chính chân chống gây ra cú đổ, hãy xem [cách bỏ chân chống xe máy thuê không bị kẹp](/ky-nang/2026/10/07/cach-bo-chan-chong-xe-may-thue-khong-bi-kep/), còn nếu bạn đỗ trên mặt dốc thì đọc bài [chống xe máy trên dốc đúng cách](/ky-nang/2026/10/05/chong-xe-may-tren-doc-dung-cach-khong-bi-tuot-chan-chong/).
 
 Sau đó kiểm tra nhanh bằng mắt và tay:
 

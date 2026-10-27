@@ -24,7 +24,7 @@ Hai ngày xe nằm yên hiếm khi là vấn đề kỹ thuật. Thứ đáng lo
 - **Trả xe sớm rồi thuê lại khi về**, tức là cắt kỳ thuê tuần thành hai đoạn.
 - **Dời hoặc rút lịch thuê** cho khớp với những ngày bạn thật sự ở Hà Nội.
 
-Không có đáp án chung. Ai chỉ vắng hai ngày giữa một tuần thường thấy giữ xe là gọn nhất, ai đi dài hơn nửa tuần có thể thấy trả xe hợp lý hơn. Nếu còn phân vân nên chia tuần ra sao, bài về [ngày nào nên để xe nghỉ và đi bằng cách khác](/thue-xe/2026/10/11/tuan-thue-xe-may-ngay-nao-nen-e-xe-nghi-va-i-bang-cach-khac/) giúp nhìn cả tuần theo từng ngày.
+Không có đáp án chung. Ai chỉ vắng hai ngày giữa một tuần thường thấy giữ xe là gọn nhất, ai đi dài hơn nửa tuần có thể thấy trả xe hợp lý hơn. Nếu còn phân vân nên chia tuần ra sao, bài về [ngày nào nên để xe nghỉ và đi bằng cách khác](/thue-xe/2026/10/11/tuan-thue-xe-may-ngay-nao-nen-de-xe-nghi-va-di-bang-cach-khac/) giúp nhìn cả tuần theo từng ngày.
 
 ## Để xe thuê khi đi Sapa bằng tàu: ba chỗ gửi hợp lý
 

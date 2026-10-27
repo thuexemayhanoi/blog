@@ -80,7 +80,7 @@ Nhìn xa là thói quen, nên cần luyện dần trong các chuyến đi thư�
 
 **Tập ở tuyến ít xe trước.** Nếu bạn mới nhận xe, hãy chọn buổi sáng sớm để làm quen, rồi mới vào trục đông. Phần chuẩn bị trước khi nhận xe có trong bài [kinh nghiệm thuê xe máy tại Hà Nội](/kinh%20nghi%E1%BB%87m/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/).
 
-**Áp dụng cả lúc quay đầu.** Trước khi quay, hãy nhìn xa dọc đường để đọc dòng xe đang tới, đừng chỉ nhìn chỗ định quay. Các bước cụ thể nằm trong bài [quay đầu xe máy trong phố](/ky-nang/2026/09/29/quay-au-xe-may-trong-pho/).
+**Áp dụng cả lúc quay đầu.** Trước khi quay, hãy nhìn xa dọc đường để đọc dòng xe đang tới, đừng chỉ nhìn chỗ định quay. Các bước cụ thể nằm trong bài [quay đầu xe máy trong phố](/ky-nang/2026/09/29/quay-dau-xe-may-trong-pho/).
 
 Đừng cố làm tất cả cùng lúc. Tuần đầu chỉ cần nâng mắt lên khỏi bánh xe trước, phần còn lại sẽ đến dần.
 

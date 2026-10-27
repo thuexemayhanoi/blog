@@ -38,7 +38,7 @@ Câu hỏi bao lâu thay nhớt láp không có một mốc chung cho mọi xe, 
 - Thợ thường kiểm tra nó trong đợt bảo dưỡng lớn, khi xe được nâng lên và có người nhìn kỹ phần bánh sau.
 - Chạy nặng thì nên xem sớm hơn: chở hai người kèm hành lý, leo dốc liên tục, đường nhiều bụi, hoặc lội qua đoạn ngập nước.
 
-Hà Nội mùa mưa có những đoạn thấp ngập khá nhanh. Sau khi xe lội qua chỗ nước sâu gần tới trục bánh, bạn nên liếc lại cụm láp và nghe xem tiếng xe có khác đi không. Phần nhớt máy thì có bài riêng về [mốc đổi dầu máy theo cách đi xe](/xe-may/2026/09/27/dau-may-xe-may-oi-sau-bao-lau/).
+Hà Nội mùa mưa có những đoạn thấp ngập khá nhanh. Sau khi xe lội qua chỗ nước sâu gần tới trục bánh, bạn nên liếc lại cụm láp và nghe xem tiếng xe có khác đi không. Phần nhớt máy thì có bài riêng về [mốc đổi dầu máy theo cách đi xe](/xe-may/2026/09/27/dau-may-xe-may-doi-sau-bao-lau/).
 
 Với người thuê dài ngày, hôm nhận xe hãy hỏi ba câu ngắn: lần gần nhất kiểm tra nhớt láp là khi nào, trong thời gian thuê có tới kỳ không, và nếu tới kỳ thì ai xử lý. Chuyện trách nhiệm trong xe thuê, bài về [thay nhớt định kỳ và ai chịu khi đi xe thuê](/chia%20s%E1%BA%BB/2026/09/18/thay-nhot-dinh-ky-cho-xe-may/) có nói kỹ hơn.
 

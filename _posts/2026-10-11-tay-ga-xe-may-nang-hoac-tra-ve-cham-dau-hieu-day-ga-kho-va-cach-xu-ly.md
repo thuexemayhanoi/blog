@@ -70,7 +70,7 @@ Với người đang thuê xe, mình khuyên bạn đừng tự tháo vỏ tay g
 
 Không phải cảm giác nặng tay nào cũng do dây ga. Nếu cái bất thường nằm ở tay trái, bên tay phanh, đó là chuyện khác: tay phanh mềm hoặc hụt liên quan hệ thống phanh, và bài về [dấu hiệu tay phanh mềm bất thường](/xe-may/2026/10/11/tay-phanh-xe-may-bi-mem-bat-thuong-dau-hieu-can-chu-y/) sẽ giúp bạn nhận ra.
 
-Nếu tay ga vẫn nhẹ và trả về bình thường nhưng xe ì, lấy đà kém hoặc có tiếng kêu khi tăng tốc, hãy nghi sang bộ truyền động. Bạn có thể đọc về [cảm giác lấy đà và tiếng kêu ở dây curoa, bi nồi xe ga](/xe-may/2026/10/11/day-curoa-va-bi-noi-xe-ga-dau-hieu-mon-qua-cam-giac-lay-a-va-tieng-keu/) để phân biệt. Bạn không cần tự chẩn đoán, chỉ cần mô tả đúng triệu chứng cho thợ hoặc cửa hàng.
+Nếu tay ga vẫn nhẹ và trả về bình thường nhưng xe ì, lấy đà kém hoặc có tiếng kêu khi tăng tốc, hãy nghi sang bộ truyền động. Bạn có thể đọc về [cảm giác lấy đà và tiếng kêu ở dây curoa, bi nồi xe ga](/xe-may/2026/10/11/day-curoa-va-bi-noi-xe-ga-dau-hieu-mon-qua-cam-giac-lay-da-va-tieng-keu/) để phân biệt. Bạn không cần tự chẩn đoán, chỉ cần mô tả đúng triệu chứng cho thợ hoặc cửa hàng.
 
 ## Khi nào báo cửa hàng cho thuê và báo như thế nào
 

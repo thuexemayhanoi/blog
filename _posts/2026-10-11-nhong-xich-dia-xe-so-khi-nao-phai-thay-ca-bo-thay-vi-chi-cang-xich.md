@@ -28,7 +28,7 @@ Xích mòn không chỉ ở bề mặt. Chốt và ống lót bên trong mòn l�
 
 Căng xích thực chất là đẩy bánh sau lùi ra để thu bớt độ chùng. Nó không làm bước xích ngắn lại, nên mắt xích vẫn khớp lệch so với bước răng. Nếu phần điều chỉnh ở trục bánh sau đã gần hết đường trượt mà xích vẫn chùng, đó là tín hiệu rõ nhất rằng sợi xích đã quá dài. Căng thêm lúc này dễ làm bánh sau lệch hàng, kéo theo mòn nhanh hơn.
 
-Căng xích vẫn là việc đúng khi xích còn tốt. Muốn hiểu mức chùng vừa phải ra sao, bạn xem thêm cách [căng xích đúng kỹ thuật](/xe-may/2026/09/27/o-kim-va-xich-xe-may-cang-ung-cach/) trong bài riêng về chủ đề này.
+Căng xích vẫn là việc đúng khi xích còn tốt. Muốn hiểu mức chùng vừa phải ra sao, bạn xem thêm cách [căng xích đúng kỹ thuật](/xe-may/2026/09/27/o-kim-va-xich-xe-may-cang-dung-cach/) trong bài riêng về chủ đề này.
 
 ## Khi nào thay nhông xích đĩa xe số: ba dấu hiệu răng mòn dễ nhận
 

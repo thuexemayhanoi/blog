@@ -39,7 +39,7 @@ Nếu chưa quen kiểu xe nào, hãy thử kiểu đó vào buổi sáng khi đ
 - **Đoạn thoáng:** một đoạn đê ven sông Hồng hoặc vòng quanh Hồ Tây lúc ít xe, để cảm nhận xe khi không phải liên tục phanh và dừng.
 - **Giờ tan tầm:** ít nhất một lần chạy trong dòng xe nhích từng chút. Với nhiều người, đây mới là điều kiện thật của Hà Nội.
 
-Nếu định thuê tháng để đi làm, hãy chạy đúng tuyến thường đi. Giả sử bạn ở khu Long Biên mà làm việc phía Cầu Giấy, hãy thử cả chiều đi lẫn chiều về vào đúng giờ bạn sẽ đi hằng ngày. Muốn ước chừng một ngày chạy được bao xa mà không quá mệt, bạn có thể xem bài [một ngày đi được bao nhiêu km](/thue-xe/2026/09/27/thue-xe-may-mot-ngay-i-uoc-bao-nhieu-km/).
+Nếu định thuê tháng để đi làm, hãy chạy đúng tuyến thường đi. Giả sử bạn ở khu Long Biên mà làm việc phía Cầu Giấy, hãy thử cả chiều đi lẫn chiều về vào đúng giờ bạn sẽ đi hằng ngày. Muốn ước chừng một ngày chạy được bao xa mà không quá mệt, bạn có thể xem bài [một ngày đi được bao nhiêu km](/thue-xe/2026/09/27/thue-xe-may-mot-ngay-di-duoc-bao-nhieu-km/).
 
 ## Tư thế ngồi và độ ì: hai thứ lộ ra sau vài giờ
 

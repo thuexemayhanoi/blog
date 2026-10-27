@@ -58,7 +58,7 @@ Mỗi ngày lẻ thêm vào là một lần trả đúng giá ngày, nên đừn
 
 ## Hai tình huống ở Hà Nội: chín ngày công tác, mười ngày tìm trọ
 
-**Chín ngày công tác.** Giả sử bạn ra Hà Nội làm việc, sáng họp ở khu Mỹ Đình, chiều ghé đối tác quanh Cầu Giấy, tối về chỗ ở gần phố cổ. Xe dùng đều mỗi ngày, nên cách một vào đúng chỗ: một gói tuần cho phần đều đặn, hai ngày lẻ cho phần còn lại. Nếu công việc có thể xong sớm một ngày, cách ba cho bạn dừng đúng lúc. Chuyện thuê xe cho chuyến công tác dài hơn được nói thêm ở bài [thuê xe máy theo tuần khi đi công tác dài ngày](/thue-xe/2026/10/10/thue-xe-may-theo-tuan-khi-i-cong-tac-dai-ngay/).
+**Chín ngày công tác.** Giả sử bạn ra Hà Nội làm việc, sáng họp ở khu Mỹ Đình, chiều ghé đối tác quanh Cầu Giấy, tối về chỗ ở gần phố cổ. Xe dùng đều mỗi ngày, nên cách một vào đúng chỗ: một gói tuần cho phần đều đặn, hai ngày lẻ cho phần còn lại. Nếu công việc có thể xong sớm một ngày, cách ba cho bạn dừng đúng lúc. Chuyện thuê xe cho chuyến công tác dài hơn được nói thêm ở bài [thuê xe máy theo tuần khi đi công tác dài ngày](/thue-xe/2026/10/10/thue-xe-may-theo-tuan-khi-di-cong-tac-dai-ngay/).
 
 **Mười ngày tìm trọ và làm quen thành phố.** Bạn mới lên Hà Nội học hoặc làm việc, cần xe để đi xem phòng ở khu Thanh Xuân, Cầu Giấy, ghé vài buổi phỏng vấn, cuối tuần tạt vào phố cổ hay chạy một vòng quanh Hồ Tây. Lịch này đổi theo từng ngày, có hôm xe nằm im cả buổi. Vì ngày lẻ co giãn được, bạn nên lấy gói tuần trước, rồi từ ngày thứ tám trở đi tính theo giá ngày. Nếu tìm được chỗ ở sớm, bạn dừng ở bảy hay tám ngày mà không vướng một kỳ đặt sẵn.
 

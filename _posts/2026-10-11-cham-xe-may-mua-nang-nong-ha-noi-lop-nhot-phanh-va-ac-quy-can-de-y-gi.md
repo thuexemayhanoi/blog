@@ -48,11 +48,11 @@ Mỗi lần bóp phanh là một lần sinh nhiệt. Trong phố đông, bóp nh
 
 Cách dùng phanh khi trời nóng khá đơn giản: giữ khoảng cách với xe trước rộng hơn, dùng cả phanh trước lẫn phanh sau, nhả phanh từng nhịp thay vì kéo giữ. Với xe số, bạn có thể về số thấp hơn khi xuống dốc để động cơ giữ bớt tốc độ.
 
-Hãy dừng lại kiểm tra nếu tay phanh mềm hoặc xa hơn thường lệ, có tiếng rít khi bóp nhẹ hoặc mùi khét sau đoạn xuống dốc. Phanh là hệ thống an toàn chính nên đừng tự tháo hay tự chỉnh. Muốn hiểu má phanh và đĩa khác nhau thế nào, đọc thêm bài [kiểm tra phanh đĩa và bố phanh](/xe-may/2026/09/27/phanh-xe-may-ia-va-bo-kiem-tra-the-nao/).
+Hãy dừng lại kiểm tra nếu tay phanh mềm hoặc xa hơn thường lệ, có tiếng rít khi bóp nhẹ hoặc mùi khét sau đoạn xuống dốc. Phanh là hệ thống an toàn chính nên đừng tự tháo hay tự chỉnh. Muốn hiểu má phanh và đĩa khác nhau thế nào, đọc thêm bài [kiểm tra phanh đĩa và bố phanh](/xe-may/2026/09/27/phanh-xe-may-dia-va-bo-kiem-tra-the-nao/).
 
 ## Ắc quy cũng mệt vì nóng, không chỉ vì lạnh
 
-Nhiều người nghĩ ắc quy chỉ yếu vào mùa đông. Thực tế nhiệt độ cao cũng làm ắc quy già nhanh hơn, nhất là khi xe nằm ngoài nắng nhiều giờ rồi lại phải đề nhiều lần. Nếu bạn đã đọc cách [chăm ắc quy xe máy vào mùa đông Hà Nội](/xe-may/2026/09/30/cham-ac-quy-xe-may-vao-mua-ong-ha-noi/), mùa nóng là chiều ngược lại của cùng câu chuyện.
+Nhiều người nghĩ ắc quy chỉ yếu vào mùa đông. Thực tế nhiệt độ cao cũng làm ắc quy già nhanh hơn, nhất là khi xe nằm ngoài nắng nhiều giờ rồi lại phải đề nhiều lần. Nếu bạn đã đọc cách [chăm ắc quy xe máy vào mùa đông Hà Nội](/xe-may/2026/09/30/cham-ac-quy-xe-may-vao-mua-dong-ha-noi/), mùa nóng là chiều ngược lại của cùng câu chuyện.
 
 Dấu hiệu thường gặp là tiếng đề uể oải, đèn pha tối đi lúc nổ máy hoặc còi yếu. Khi đề chưa nổ, đừng bấm liên tục, hãy nghỉ vài giây rồi thử lại. Với phần điện, giới hạn rất rõ: không tháo ắc quy, không mở nắp, không tự đấu thêm đèn hay sạc điện thoại vào dây xe. Thấy ắc quy yếu, hãy báo nơi cho thuê hoặc thợ điện xe máy.
 

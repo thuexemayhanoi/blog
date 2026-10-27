@@ -70,6 +70,6 @@ Cách nhanh nhất để thói quen mới "vào tay" là dành riêng một bu�
 4. Tập chuyển làn và quay đầu ở tốc độ thấp trước khi vào đường chính.
 5. Ngày đầu tránh giờ cao điểm, chọn buổi sáng muộn hoặc đầu giờ chiều.
 
-Nếu bạn thuê xe cho người nhà còn mới tập lái, bài [thuê xe 50cc cho người mới bắt đầu lái](/xe-may/2026/10/10/thue-xe-50cc-cho-nguoi-moi-bat-au-lai/) có thêm gợi ý tập từng bước. Với người đã lái quen như bạn, thường chỉ cần vài chục phút để phản xạ cũ nhường chỗ cho nhịp mới.
+Nếu bạn thuê xe cho người nhà còn mới tập lái, bài [thuê xe 50cc cho người mới bắt đầu lái](/xe-may/2026/10/10/thue-xe-50cc-cho-nguoi-moi-bat-dau-lai/) có thêm gợi ý tập từng bước. Với người đã lái quen như bạn, thường chỉ cần vài chục phút để phản xạ cũ nhường chỗ cho nhịp mới.
 
 Hai, ba ngày đầu, hãy tự nhắc mình ba điều: ga đều, cách xa hơn, phanh sớm. Nếu bạn định thuê, hãy liên hệ Nguyễn Tú (0942 467 674) để xác nhận xe 50cc và giá hiện tại. Các hướng dẫn chọn xe và kinh nghiệm khác, bạn có thể đọc tiếp ở mục [xe máy](/xe-may/).

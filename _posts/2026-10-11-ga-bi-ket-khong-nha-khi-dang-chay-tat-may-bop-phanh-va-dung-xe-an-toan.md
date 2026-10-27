@@ -45,7 +45,7 @@ Có thêm một lý do để ưu tiên công tắc: tắt bằng chìa khóa th�
 
 Tình huống thứ nhất: bạn chạy trên đoạn đê ven sông Hồng, đường thẳng và xe thưa. Có nhiều khoảng trống nên bạn kịp phanh đều, tắt máy rồi để xe lăn sát mép phải. Dù vắng, trên đê vẫn có người tập thể dục và xe đạp chạy chậm, nên đừng phanh quá gắt đến mức trượt bánh.
 
-Tình huống thứ hai: trục đường lớn giờ tan tầm, xe dày đặc, khó tấp ngay vào lề. Hãy bóp phanh sớm để đèn phanh báo cho xe sau, tắt máy, rồi bật xi nhan và nhích dần sang phải theo nhịp dòng xe, mỗi lần một làn. Khoảng cách với xe phía trước càng rộng thì bạn càng có chỗ xử lý, đúng như nguyên tắc trong bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-i-xe-may/).
+Tình huống thứ hai: trục đường lớn giờ tan tầm, xe dày đặc, khó tấp ngay vào lề. Hãy bóp phanh sớm để đèn phanh báo cho xe sau, tắt máy, rồi bật xi nhan và nhích dần sang phải theo nhịp dòng xe, mỗi lần một làn. Khoảng cách với xe phía trước càng rộng thì bạn càng có chỗ xử lý, đúng như nguyên tắc trong bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-di-xe-may/).
 
 Còn nếu sự cố xảy ra khi bạn chạy chậm trong ngõ nhỏ khu phố cổ, người đi bộ rất gần, thì tắt máy ngay là ưu tiên, vì ở tốc độ thấp xe vẫn đủ lực làm người ta bị thương.
 
@@ -58,7 +58,7 @@ Thao tác lúc gấp chỉ làm được nếu tay đã quen từ trước. Khi 
 - **Tập chạy rất chậm ở bãi trống.** Phanh nhẹ, bấm công tắc, cảm nhận xe tự trôi khi không còn động cơ. Chỉ tập ở nơi vắng, đừng thử trên đường đông.
 - **Kiểm tra nhả ga.** Vặn nhẹ tay ga rồi buông, tay nắm phải tự về êm, không ken. Xoay tay lái hết trái, hết phải xem tay ga có thay đổi không. Thấy bất thường thì báo cửa hàng và đổi xe.
 
-Những thao tác này nằm gọn trong quy trình [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-uong/) và chỉ thêm chưa tới chục phút cho buổi nhận xe. Đổi lại, nếu tình huống hiếm kia xảy ra, ngón cái của bạn đã biết phải làm gì.
+Những thao tác này nằm gọn trong quy trình [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-duong/) và chỉ thêm chưa tới chục phút cho buổi nhận xe. Đổi lại, nếu tình huống hiếm kia xảy ra, ngón cái của bạn đã biết phải làm gì.
 
 ## Sau khi xe dừng: kiểm tra gì, báo ai
 

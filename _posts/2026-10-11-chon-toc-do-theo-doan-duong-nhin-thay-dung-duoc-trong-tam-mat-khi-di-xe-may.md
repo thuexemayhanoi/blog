@@ -34,7 +34,7 @@ Mỏi mệt, mất tập trung vì điện thoại hay bản đồ, chở nặng
 
 Ở khu phố cổ, nguyên tắc này hiện rõ nhất. Đầu ngõ nhỏ có tường nhà hai bên, đoạn nhìn thấy vào trong gần như bằng không, trong khi xe máy, xe đạp hay người đi bộ có thể bước ra bất cứ lúc nào. Tốc độ lúc này phải thấp đến mức nếu ai đó xuất hiện ngay mép tường, bạn vẫn dừng được trước họ. Hãy nhả ga sớm và đặt sẵn ngón tay lên cần phanh trước khi tới đầu ngõ.
 
-Cổng chợ, cổng trường, chỗ có xe đỗ dọc lề đường cũng cùng kiểu: người đi bộ hay bước ra từ sau một chiếc xe đỗ, đúng chỗ tầm nhìn bị che. Trên đoạn có nhiều ngõ đổ ra, vị trí đứng trong làn cũng giúp bạn thấy xa hơn, xem thêm ở bài [đi sát lề hay giữa làn](/ky-nang/2026/10/11/i-xe-may-sat-le-hay-giua-lan-chon-vi-tri-trong-lan-theo-tung-oan-uong/).
+Cổng chợ, cổng trường, chỗ có xe đỗ dọc lề đường cũng cùng kiểu: người đi bộ hay bước ra từ sau một chiếc xe đỗ, đúng chỗ tầm nhìn bị che. Trên đoạn có nhiều ngõ đổ ra, vị trí đứng trong làn cũng giúp bạn thấy xa hơn, xem thêm ở bài [đi sát lề hay giữa làn](/ky-nang/2026/10/11/di-xe-may-sat-le-hay-giua-lan-chon-vi-tri-trong-lan-theo-tung-doan-duong/).
 
 Khúc cua bị hàng cây hoặc bức tường che là chỗ khuất mà bạn thấy từ xa, nên còn thời gian xử lý. Hãy giảm tốc trước khi vào cua, kéo mắt ra cuối khúc cua và chỉ tăng ga khi đã thấy đoạn đường phía sau, như trong bài [vào cua, giảm tốc trước rồi mới mở ga](/ky-nang/2026/10/11/vao-cua-bang-xe-may-giam-toc-truoc-nhin-ra-cuoi-khuc-cua-roi-moi-mo-ga/).
 
@@ -46,7 +46,7 @@ Với mọi chỗ khuất, hãy chọn tốc độ theo đoạn nhìn thấy ng�
 
 Có hai lúc đoạn nhìn thấy trên đê ngắn lại mà người lái hay quên: sáng sớm có sương mỏng và chiều muộn khi nắng thấp chiếu thẳng vào mắt. Đường vẫn thẳng nhưng bạn thấy ít hơn giữa trưa, nên tốc độ phải thấp đi. Lối xuống bãi hay khúc đê gấp khúc nên xử lý như đầu ngõ: nhả ga, sẵn sàng phanh.
 
-Muốn chụp ảnh, hãy dừng hẳn ở chỗ đủ rộng thay vì rề rà giữa đường. Thói quen đưa mắt xa phía trước được nói trong bài [nhìn xa khi đi xe máy trong phố](/ky-nang/2026/10/11/nhin-xa-khi-i-xe-may-trong-pho-mat-nhin-au-e-kip-xu-ly-tinh-huong/).
+Muốn chụp ảnh, hãy dừng hẳn ở chỗ đủ rộng thay vì rề rà giữa đường. Thói quen đưa mắt xa phía trước được nói trong bài [nhìn xa khi đi xe máy trong phố](/ky-nang/2026/10/11/nhin-xa-khi-di-xe-may-trong-pho-mat-nhin-dau-de-kip-xu-ly-tinh-huong/).
 
 ## Ban đêm: đèn chiếu tới đâu, bạn phải dừng được tới đó
 

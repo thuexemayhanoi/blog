@@ -73,9 +73,9 @@ Việc luyện phản xạ khi đổi chiều đi đường cần lặp lại �
 
 Một lộ trình tập gọn cho buổi đầu:
 
-1. **Làm quen xe trước.** Dừng ở chỗ rộng, thử ga, phanh, xi nhan, theo hướng dẫn trong bài [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-uong/).
+1. **Làm quen xe trước.** Dừng ở chỗ rộng, thử ga, phanh, xi nhan, theo hướng dẫn trong bài [làm quen xe máy lạ trước khi lên đường](/ky-nang/2026/09/29/lam-quen-xe-may-la-truoc-khi-len-duong/).
 2. **Đi một vòng khối phố vắng.** Chỉ rẽ phải vài lần cho quen, rồi mới thử rẽ trái.
-3. **Tìm đoạn đường rộng, ít xe,** như đoạn đê ven sông Hồng lúc vắng. Tập giữ bên phải, liếc gương trái, rồi thử quay đầu theo bài [quay đầu xe máy trên đường vắng](/ky-nang/2026/10/11/quay-au-xe-may-tren-uong-vang-chon-iem-va-trinh-tu/). Hướng quay đầu cũng đổi nên cần tập riêng.
+3. **Tìm đoạn đường rộng, ít xe,** như đoạn đê ven sông Hồng lúc vắng. Tập giữ bên phải, liếc gương trái, rồi thử quay đầu theo bài [quay đầu xe máy trên đường vắng](/ky-nang/2026/10/11/quay-dau-xe-may-tren-duong-vang-chon-diem-va-trinh-tu/). Hướng quay đầu cũng đổi nên cần tập riêng.
 4. **Quan sát một vòng xuyến** từ ngoài lề rồi mới vào.
 5. **Chỉ nhập dòng xe chính** khi bốn bước đầu đã tự nhiên.
 

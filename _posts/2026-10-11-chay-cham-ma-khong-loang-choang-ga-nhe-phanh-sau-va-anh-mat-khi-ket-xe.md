@@ -66,7 +66,7 @@ Khi cần quay đầu xe trong chỗ hẹp, đừng bẻ lái gắt rồi nghiê
 
 **Ngõ nhỏ khu phố cổ.** Ngõ hẹp có người đi bộ, xe hàng, góc khuất và những khúc ngoặt bất ngờ. Ở đây tốc độ nên thấp ngang với bước nhanh của người đi bộ, phanh sau để sẵn trong tầm chân hoặc tay, mắt nhìn tới chỗ ngoặt kế tiếp thay vì xuống mặt đường trước bánh. Tới góc khuất, bấm còi nhẹ báo hiệu rồi hãy vào. Nguyên tắc tương tự cũng cần khi qua [khu vực trường học lúc tan học](/kinh%20nghi%E1%BB%87m/2026/09/19/qua-khu-vuc-truong-hoc-gio-tan-hoc/), nơi trẻ em và người đón con chen chúc trên một đoạn đường ngắn.
 
-**Dốc nhỏ trong lúc kẹt.** Nếu dòng xe nhích lên một đoạn dốc, ga nhẹ phải nhỉnh hơn một chút còn phanh sau giữ cho xe không trôi lùi. Cách giữ xe này gần với bài [đề xe số trên dốc nghiêng chống trôi](/ky-nang/2026/10/11/e-xe-so-tren-doc-nghieng-chong-troi-va-giu-thang-bang/).
+**Dốc nhỏ trong lúc kẹt.** Nếu dòng xe nhích lên một đoạn dốc, ga nhẹ phải nhỉnh hơn một chút còn phanh sau giữ cho xe không trôi lùi. Cách giữ xe này gần với bài [đề xe số trên dốc nghiêng chống trôi](/ky-nang/2026/10/11/de-xe-so-tren-doc-nghieng-chong-troi-va-giu-thang-bang/).
 
 ## Cách tập vài lượt để quen tay
 

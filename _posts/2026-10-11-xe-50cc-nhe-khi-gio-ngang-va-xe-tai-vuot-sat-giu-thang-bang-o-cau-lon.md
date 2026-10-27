@@ -64,7 +64,7 @@ Lỗi phổ biến nhất khi bị gió tạt là bóp chặt tay lái, gồng v
 
 Hãy chia chuyến đi thành ba đoạn để có việc cụ thể cho từng đoạn.
 
-**Chân dốc cầu.** Liếc gương sau, thả lỏng tay, chọn vị trí trong làn, và nhìn xem xung quanh có dấu hiệu gió mạnh không. Nếu bạn lo xe nhẹ leo dốc cầu có vất vả không, đã có bài riêng về chuyện [leo dốc cầu Diễn bằng xe 50cc thuê](/xe-may/2026/10/09/xe-50cc-thue-leo-doc-cau-dien-uoc-khong/) để bạn tham khảo.
+**Chân dốc cầu.** Liếc gương sau, thả lỏng tay, chọn vị trí trong làn, và nhìn xem xung quanh có dấu hiệu gió mạnh không. Nếu bạn lo xe nhẹ leo dốc cầu có vất vả không, đã có bài riêng về chuyện [leo dốc cầu Diễn bằng xe 50cc thuê](/xe-may/2026/10/09/xe-50cc-thue-leo-doc-cau-dien-duoc-khong/) để bạn tham khảo.
 
 **Giữa cầu.** Đây là đoạn gió thường mạnh nhất. Nhìn xa, giữ ga đều, thỉnh thoảng liếc gương để biết xe lớn đang đến. Nếu trời mưa, mặt cầu và các khe nối ướt dễ trơn, nên giảm tốc từ sớm và tránh vừa phanh vừa bẻ lái cùng lúc.
 

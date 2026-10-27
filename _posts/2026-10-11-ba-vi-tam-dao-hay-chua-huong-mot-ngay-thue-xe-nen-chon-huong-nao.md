@@ -45,7 +45,7 @@ Vài nguyên tắc khi chạy đèo:
 - Xe tay ga: bóp phanh nhẹ, ngắt quãng, tránh giữ phanh liên tục vì phanh dễ nóng.
 - Mỏi tay hay hoa mắt thì tấp vào chỗ rộng nghỉ, đừng cố bắt kịp cả nhóm.
 
-Phần dễ chủ quan nhất là chiều xuống núi, khi cả ngày đã ngấm mệt, sương bắt đầu xuống mà bạn lại muốn về cho kịp. Hãy chốt giờ rời thị trấn từ sáng và giữ đúng giờ đó. Nếu chưa ai trong nhóm từng chạy đèo, hãy đọc bài [tự thuê xe hay đi tour có người dẫn](/thue-xe/2026/10/11/tu-thue-xe-may-i-mot-ngay-hay-i-tour-xe-may-co-nguoi-dan-nen-chon-gi/) trước khi quyết định.
+Phần dễ chủ quan nhất là chiều xuống núi, khi cả ngày đã ngấm mệt, sương bắt đầu xuống mà bạn lại muốn về cho kịp. Hãy chốt giờ rời thị trấn từ sáng và giữ đúng giờ đó. Nếu chưa ai trong nhóm từng chạy đèo, hãy đọc bài [tự thuê xe hay đi tour có người dẫn](/thue-xe/2026/10/11/tu-thue-xe-may-di-mot-ngay-hay-di-tour-xe-may-co-nguoi-dan-nen-chon-gi/) trước khi quyết định.
 
 ## Chùa Hương: chạy xe nhẹ, đi đò và đi bộ mới là phần chính
 
@@ -53,7 +53,7 @@ Chùa Hương khác hai hướng kia ở chỗ xe máy chỉ lo phần đi và v
 
 Hướng này hợp với người mới lái, gia đình có người lớn tuổi biết lượng sức, hoặc nhóm muốn một ngày có không khí đi lễ hơn là ngắm cảnh núi. Hãy mang giày đế bám, nước uống và tránh đi bộ lúc nắng gắt.
 
-Lưu ý lớn nhất là thời điểm. Mùa lễ hội đầu năm lượng khách rất đông, ai sợ chen chúc nên tránh. Dịp rằm, mùng một cũng đông theo kiểu riêng, bài [cách chọn giờ đi lễ chùa ngày rằm, mùng một bằng xe máy thuê](/thue-xe/2026/10/11/i-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-i-sang-hay-chieu/) sẽ giúp bạn tính giờ. Lịch đò, giờ mở cửa và giá vé có thể thay đổi, hãy kiểm tra kênh chính thức của địa điểm trước khi đi.
+Lưu ý lớn nhất là thời điểm. Mùa lễ hội đầu năm lượng khách rất đông, ai sợ chen chúc nên tránh. Dịp rằm, mùng một cũng đông theo kiểu riêng, bài [cách chọn giờ đi lễ chùa ngày rằm, mùng một bằng xe máy thuê](/thue-xe/2026/10/11/di-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-di-sang-hay-chieu/) sẽ giúp bạn tính giờ. Lịch đò, giờ mở cửa và giá vé có thể thay đổi, hãy kiểm tra kênh chính thức của địa điểm trước khi đi.
 
 ## Nên đi Ba Vì hay Tam Đảo theo mùa
 

@@ -29,7 +29,7 @@ writer: W1
 Với người nhận xe lúc cửa hàng vừa mở, ba điểm trong một ngày thường là quá sức. Mỗi nơi cần đủ thời gian gửi xe, đi một vòng và ngồi nghỉ, chưa kể bữa trưa. Bạn có thể ghép như sau.
 
 - **Gu di tích và lịch sử:** Đền Đô rồi sang Bút Tháp. Đoạn chạy ở giữa dài hơn vì bạn đi từ khu này sang khu kia, đổi lại cả hai đều là kiến trúc cổ.
-- **Gu làng nghề:** Bút Tháp rồi đến Đông Hồ. Hai điểm gần nhau nên bạn bớt chạy xe, thêm thời gian xem nghệ nhân làm tranh. Muốn so sánh với một chuyến làng nghề gần nội thành hơn, bạn có thể đọc [kinh nghiệm đi làng gốm Bát Tràng bằng xe thuê](/thue-xe/2026/10/07/thue-xe-may-mot-ngay-i-lang-gom-bat-trang/).
+- **Gu làng nghề:** Bút Tháp rồi đến Đông Hồ. Hai điểm gần nhau nên bạn bớt chạy xe, thêm thời gian xem nghệ nhân làm tranh. Muốn so sánh với một chuyến làng nghề gần nội thành hơn, bạn có thể đọc [kinh nghiệm đi làng gốm Bát Tràng bằng xe thuê](/thue-xe/2026/10/07/thue-xe-may-mot-ngay-di-lang-gom-bat-trang/).
 - **Chỉ có nửa ngày, hoặc đi cùng người lớn tuổi và trẻ nhỏ:** chọn riêng Đền Đô, đi chậm, ăn trưa thong thả và về sớm.
 
 ## Lịch mẫu thuê xe máy một ngày đi Bắc Ninh từ Long Biên
