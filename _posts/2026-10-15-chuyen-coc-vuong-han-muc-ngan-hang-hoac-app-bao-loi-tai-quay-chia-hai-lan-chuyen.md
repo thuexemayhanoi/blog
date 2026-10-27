@@ -53,7 +53,7 @@ Sau mỗi lần chuyển, hãy nhắn tiệm một dòng ngắn, đính kèm bi�
 
 *Đã chuyển cọc lần 1 khoản ... lúc ...; nội dung ghi biển số ... lần 1; ảnh biên lai gửi kèm; xin tiệm xác nhận đã nhận giúp ạ. Lần 2 sẽ chuyển ngay sau khi hạn mức cho phép.*
 
-Chờ tiệm trả lời xác nhận từng khoản. Khi hoàn tất, nhờ tiệm ghi biên nhận ghi đủ tổng số cọc và liệt kê các lần chuyển. Bài về [nên đưa tiền cọc lúc nào: trước hay sau khi xem xe](/thue-xe/2026/10/11/nen-ua-tien-coc-luc-nao-truoc-hay-sau-khi-xem-xe-va-chot-ieu-kien/) nói thêm thứ tự đưa cọc và xem xe.
+Chờ tiệm trả lời xác nhận từng khoản. Khi hoàn tất, nhờ tiệm ghi biên nhận ghi đủ tổng số cọc và liệt kê các lần chuyển. Bài về [nên đưa tiền cọc lúc nào: trước hay sau khi xem xe](/thue-xe/2026/10/11/nen-dua-tien-coc-luc-nao-truoc-hay-sau-khi-xem-xe-va-chot-dieu-kien/) nói thêm thứ tự đưa cọc và xem xe.
 
 ## Chuyển sau, giữ chỗ trước: hỏi tiệm có thể chờ đến lúc nào
 

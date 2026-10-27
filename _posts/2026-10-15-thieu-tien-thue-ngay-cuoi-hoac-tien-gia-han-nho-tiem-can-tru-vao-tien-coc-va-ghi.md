@@ -76,7 +76,7 @@ Nếu tiệm không đồng ý, bạn vẫn có đường khác. Hãy hỏi ti�
 
 Ngày trả xe, mang theo biên nhận đã ghi khoản cấn trừ và tin nhắn xác nhận. Đối chiếu số cọc còn lại tiệm hoàn với số ghi trên biên nhận. Nếu có chênh lệch, hỏi ngay và xin giải thích.
 
-Bài về [hoàn tiền cọc khi trả xe máy thuê, kiểm đếm và xác nhận](/thue-xe/2026/10/11/hoan-tien-coc-khi-tra-xe-may-thue-kiem-em-va-xac-nhan/) nói thêm cách kiểm đếm. Sau khi nhận đủ, nhắn xác nhận cho tiệm để khép lại gọn gàng.
+Bài về [hoàn tiền cọc khi trả xe máy thuê, kiểm đếm và xác nhận](/thue-xe/2026/10/11/hoan-tien-coc-khi-tra-xe-may-thue-kiem-dem-va-xac-nhan/) nói thêm cách kiểm đếm. Sau khi nhận đủ, nhắn xác nhận cho tiệm để khép lại gọn gàng.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

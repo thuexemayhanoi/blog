@@ -55,7 +55,7 @@ Bài không tìm được nguồn gần đây nói về giờ mở cửa, vé th
 
 ## Khách nước ngoài và giấy phép khu vực biên giới
 
-Theo hướng dẫn của cơ quan địa phương năm 2026, người nước ngoài vào khu vực biên giới ở Việt Nam phải xin giấy phép. Bài không xác định làng Lùng Tám có thuộc khu vực này hay không, nên nếu bạn là khách nước ngoài, hãy hỏi cơ quan có thẩm quyền hoặc nơi lưu trú trước khi đi. Bài [thẻ thông hành và giấy tờ khi đi Hà Giang](/cung-duong/2026/09/28/the-thong-hanh-va-giay-to-khi-i-ha-giang/) nêu thêm bối cảnh chung.
+Theo hướng dẫn của cơ quan địa phương năm 2026, người nước ngoài vào khu vực biên giới ở Việt Nam phải xin giấy phép. Bài không xác định làng Lùng Tám có thuộc khu vực này hay không, nên nếu bạn là khách nước ngoài, hãy hỏi cơ quan có thẩm quyền hoặc nơi lưu trú trước khi đi. Bài [thẻ thông hành và giấy tờ khi đi Hà Giang](/cung-duong/2026/09/28/the-thong-hanh-va-giay-to-khi-di-ha-giang/) nêu thêm bối cảnh chung.
 
 ## Ghép với điểm gần: Cổng Trời, Núi Đôi và hang Lùng Khúy
 

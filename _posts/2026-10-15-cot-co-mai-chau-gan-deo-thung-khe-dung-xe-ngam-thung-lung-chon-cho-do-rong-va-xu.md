@@ -47,7 +47,7 @@ Vì thế, hãy chọn chỗ dừng không nằm dưới vách đất đá, và 
 
 Theo cơ quan giao thông, đoạn đèo này có sương dày vào sáng sớm và đêm khuya. Khi sương mù, hãy bật đèn cốt, giảm tốc, giữ khoảng cách rộng với xe phía trước, tránh phanh gấp và bám vạch kẻ đường để định hướng. Khi xuống đèo, đi số thấp.
 
-Nếu sương quá dày đến mức không nhìn thấy đường, hãy tìm chỗ dừng an toàn, bật đèn cảnh báo và chờ thay vì dừng giữa làn. Đừng dựa vào ánh đèn xe phía trước để lái theo. Bạn có thể xem bài về [sương mù trên đèo đi Mộc Châu](/cung-duong/2026/10/11/suong-mu-tren-eo-i-moc-chau-chay-xe-may-the-nao-cho-an-toan/), cũng áp dụng được cho đoạn đèo này.
+Nếu sương quá dày đến mức không nhìn thấy đường, hãy tìm chỗ dừng an toàn, bật đèn cảnh báo và chờ thay vì dừng giữa làn. Đừng dựa vào ánh đèn xe phía trước để lái theo. Bạn có thể xem bài về [sương mù trên đèo đi Mộc Châu](/cung-duong/2026/10/11/suong-mu-tren-deo-di-moc-chau-chay-xe-may-the-nao-cho-an-toan/), cũng áp dụng được cho đoạn đèo này.
 
 ## Giữ khoảng cách với mép dốc và lan can
 

@@ -35,11 +35,11 @@ Nếu cả hai muốn thay phiên nhau lái, hãy hỏi tiệm trước xem ai �
 
 Với hai người, xe cần có yên đủ rộng, chỗ để chân thoải mái cho cả hai và chỗ để đồ gọn. Hãy ngồi thử hai người cùng lúc: chân người lái có chạm đất vững không, người ngồi sau có chỗ bám và có cảm giác bị chênh không. Dắt thử xe ra khỏi chỗ đỗ để biết độ nặng khi có người ngồi sau.
 
-Bài [chọn xe máy chở hai người đi cuối tuần: chỗ ngồi và chứa đồ](/xe-may/2026/10/01/chon-xe-may-cho-hai-nguoi-i-cuoi-tuan-cho-ngoi-va-chua-o/) nêu những tiêu chí cụ thể, còn bài [thuê xe máy chở người thứ hai cần lưu ý gì](/xe-may/2026/09/29/thue-xe-may-cho-nguoi-thu-hai-can-luu-y-gi/) nói về việc chở thêm người. Hãy chọn xe mà cả hai thấy yên tâm, không chỉ chọn xe đẹp.
+Bài [chọn xe máy chở hai người đi cuối tuần: chỗ ngồi và chứa đồ](/xe-may/2026/10/01/chon-xe-may-cho-hai-nguoi-di-cuoi-tuan-cho-ngoi-va-chua-do/) nêu những tiêu chí cụ thể, còn bài [thuê xe máy chở người thứ hai cần lưu ý gì](/xe-may/2026/09/29/thue-xe-may-cho-nguoi-thu-hai-can-luu-y-gi/) nói về việc chở thêm người. Hãy chọn xe mà cả hai thấy yên tâm, không chỉ chọn xe đẹp.
 
 ## Chọn tuyến dễ đi: phố cổ, hồ Tây và những đoạn thoáng
 
-Với lần đầu hoặc ít kinh nghiệm, nên chọn tuyến gần và thoáng: từ khu Long Biên qua cầu vào phố cổ Hoàn Kiếm, quanh hồ Gươm, rồi vòng hồ Tây. Những nơi này có nhiều điểm dừng chụp ảnh và quán nghỉ chân, và đường tương đối quen thuộc với du khách. Bài [chạy vòng hồ Tây bằng xe máy thuê](/thue-xe/2026/09/29/chay-vong-ho-tay-bang-xe-may-thue-cung-uong-va-iem-dung/) nêu cung đường và điểm dừng.
+Với lần đầu hoặc ít kinh nghiệm, nên chọn tuyến gần và thoáng: từ khu Long Biên qua cầu vào phố cổ Hoàn Kiếm, quanh hồ Gươm, rồi vòng hồ Tây. Những nơi này có nhiều điểm dừng chụp ảnh và quán nghỉ chân, và đường tương đối quen thuộc với du khách. Bài [chạy vòng hồ Tây bằng xe máy thuê](/thue-xe/2026/09/29/chay-vong-ho-tay-bang-xe-may-thue-cung-duong-va-diem-dung/) nêu cung đường và điểm dừng.
 
 Hãy tránh lên đường lớn đông xe vào giờ tan tầm và đừng đi quá xa so với sức. Một ngày chỉ nên ghé vài điểm, để có thời gian nghỉ và chụp ảnh mà không phải vội. Bài không có số liệu về giờ đông cụ thể; hãy nhìn bản đồ và hỏi tiệm.
 

@@ -23,7 +23,7 @@ Bài không có chỗ để xe quanh chợ, phí gửi xe hay giờ kết thúc 
 
 Theo nhiều nguồn, chợ họp vào sáng chủ nhật mỗi tuần. Chợ nằm ở trung tâm thị trấn Mèo Vạc cũ; một nguồn năm 2024 ghi từ trung tâm đi thêm khoảng bốn trăm mét. Sau đợt sắp xếp hành chính năm 2025, thị trấn Mèo Vạc cũ nhập vào xã Mèo Vạc của tỉnh Tuyên Quang, nhưng người dân và biển chỉ dẫn vẫn quen gọi là chợ Mèo Vạc.
 
-Khác với chợ lùi lệch ngày theo con giáp, chợ phiên Mèo Vạc họp cố định theo chủ nhật. Chợ phiên Đồng Văn cũng họp vào sáng chủ nhật; bài [chợ phiên Đồng Văn bằng xe máy cuối tuần](/cung-duong/2026/10/01/cho-phien-ong-van-bang-xe-may-cuoi-tuan/) nói về chợ ấy để bạn so và chọn.
+Khác với chợ lùi lệch ngày theo con giáp, chợ phiên Mèo Vạc họp cố định theo chủ nhật. Chợ phiên Đồng Văn cũng họp vào sáng chủ nhật; bài [chợ phiên Đồng Văn bằng xe máy cuối tuần](/cung-duong/2026/10/01/cho-phien-dong-van-bang-xe-may-cuoi-tuan/) nói về chợ ấy để bạn so và chọn.
 
 ## Xếp đêm nghỉ cho kịp phiên: ngủ ở Mèo Vạc hay xuất phát sớm từ Đồng Văn
 

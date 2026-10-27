@@ -49,7 +49,7 @@ Hãy cộng thêm thời gian dự phòng. Giờ tan tầm, các tuyến qua sô
 
 Nếu kế hoạch có đi tỉnh, hãy nói ngay khi được hỏi, vì tiệm có thể có điều kiện riêng hoặc không cho xe ra khỏi một khu vực nào đó. Biết điều kiện sau khi đã đi xa là lúc khó xoay xở nhất. Ngược lại, nói trước thì hai bên thường dễ phối hợp hơn nếu xe gặp sự cố ở xa; bài không biết hợp đồng của tiệm bạn thuê ghi gì, nên hãy đọc kỹ phần liên quan trước khi ký.
 
-Nếu chưa biết có đi hay không, hãy nói thẳng là chưa chắc và hỏi điều kiện cho cả hai trường hợp. Với chuyến đi xa, loại xe cũng đáng cân nhắc; bài về [chọn xe cho chuyến đi xa](/hoi-dap/2026/09/29/i-xa-ngoai-tinh-nen-thue-xe-gi/) có thêm gợi ý để chọn xe cho hợp quãng đường.
+Nếu chưa biết có đi hay không, hãy nói thẳng là chưa chắc và hỏi điều kiện cho cả hai trường hợp. Với chuyến đi xa, loại xe cũng đáng cân nhắc; bài về [chọn xe cho chuyến đi xa](/hoi-dap/2026/09/29/di-xa-ngoai-tinh-nen-thue-xe-gi/) có thêm gợi ý để chọn xe cho hợp quãng đường.
 
 ## Khi kế hoạch đổi giữa chuyến: nhắn báo sớm bằng tin nhắn
 

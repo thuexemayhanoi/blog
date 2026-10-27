@@ -29,7 +29,7 @@ Sau đó xem lại cuộc trò chuyện với tiệm và các giấy tờ đã k
 
 Hãy đối chiếu ba nguồn: tin nhắn hay cuộc gọi lúc đặt xe, hợp đồng hoặc biên nhận bàn giao, và ảnh bạn đã chụp lúc nhận. Xem có ghi mũ bảo hiểm mấy chiếc, có áo mưa không, có khóa phụ hay móc treo không. Nếu có ảnh chụp toàn xe và hộc đồ lúc nhận, hãy xem lại; ảnh có thể cho thấy đồ có ở đó hay không.
 
-Bài [đọc gì trong biên nhận bàn giao xe máy thuê](/hoi-dap/2026/10/10/oc-gi-trong-bien-nhan-ban-giao-xe-may-thue/) nêu những mục nên có trong biên nhận, còn bài [phụ kiện đi kèm xe thuê](/thue-xe/2026/10/14/phu-kien-di-kem-xe-thue-dem-ao-mua-khoa-dia-day-chang-va-moc-treo-khi-nhan-va-kh/) nói cách liệt kê phụ kiện lúc nhận và khi trả.
+Bài [đọc gì trong biên nhận bàn giao xe máy thuê](/hoi-dap/2026/10/10/doc-gi-trong-bien-nhan-ban-giao-xe-may-thue/) nêu những mục nên có trong biên nhận, còn bài [phụ kiện đi kèm xe thuê](/thue-xe/2026/10/14/phu-kien-di-kem-xe-thue-dem-ao-mua-khoa-dia-day-chang-va-moc-treo-khi-nhan-va-kh/) nói cách liệt kê phụ kiện lúc nhận và khi trả.
 
 ## Quay lại ngay khi còn gần: vì sao nhanh sẽ rõ ràng hơn
 

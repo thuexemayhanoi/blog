@@ -47,7 +47,7 @@ Hỏi người nhận tên hoặc xem thẻ nếu có, và xem họ ghi vé hay 
 
 Trước khi rời xe, hãy chụp ảnh xe ở bốn phía, bảng đồng hồ (số kilômét, mức xăng) và biển số, kèm cảnh nơi để xe. Ảnh này giúp bạn đối chiếu khi quay lại nếu có vết mới hay xe bị xê dịch bất thường. Nếu xe thuê có vết xước sẵn, ảnh cũng cho thấy bạn đã chụp từ trước.
 
-Bạn có thể xem bài về [chụp ảnh xe trước và sau khi gửi](/ky-nang/2026/10/11/chup-anh-xe-truoc-va-sau-khi-gui-nhung-goc-nen-luu-lai-tren-ien-thoai/) để biết những góc nên lưu. Hãy chụp cả vé xe và chỗ người trông xe đứng nếu có thể. Lưu ảnh trong điện thoại, đừng xóa cho đến khi bạn đã lấy xe an toàn.
+Bạn có thể xem bài về [chụp ảnh xe trước và sau khi gửi](/ky-nang/2026/10/11/chup-anh-xe-truoc-va-sau-khi-gui-nhung-goc-nen-luu-lai-tren-dien-thoai/) để biết những góc nên lưu. Hãy chụp cả vé xe và chỗ người trông xe đứng nếu có thể. Lưu ảnh trong điện thoại, đừng xóa cho đến khi bạn đã lấy xe an toàn.
 
 ## Giữ vé, ghi nhớ người nhận và hỏi giờ đóng cửa
 

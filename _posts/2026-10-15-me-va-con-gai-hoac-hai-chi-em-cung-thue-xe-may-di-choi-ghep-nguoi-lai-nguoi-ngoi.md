@@ -29,13 +29,13 @@ Hãy thống nhất ba điều: ai lái chính, đi nhanh hay chậm, và khi n�
 
 Thông thường nên để người nhiều kinh nghiệm và quen đường hơn cầm lái. Nếu người lớn tuổi hơn có kinh nghiệm, họ có thể lái; nếu người trẻ hơn lái giỏi hơn, họ lái và người lớn tuổi ngồi sau. Người lái cần có giấy phép lái xe phù hợp; bài không bàn thêm về giấy phép.
 
-Khi chở người thân, người lái hãy chạy chậm hơn bình thường, phanh và vào cua nhẹ, nhắc người ngồi sau nắm chắc. Bài [lần đầu chở người ngồi sau: tập ở đâu và làm sao](/hoi-dap/2026/10/04/lan-au-cho-nguoi-ngoi-sau-tap-o-au-va-lam-sao/) nêu cách tập chở người trước khi ra đường đông.
+Khi chở người thân, người lái hãy chạy chậm hơn bình thường, phanh và vào cua nhẹ, nhắc người ngồi sau nắm chắc. Bài [lần đầu chở người ngồi sau: tập ở đâu và làm sao](/hoi-dap/2026/10/04/lan-dau-cho-nguoi-ngoi-sau-tap-o-dau-va-lam-sao/) nêu cách tập chở người trước khi ra đường đông.
 
 ## Chọn xe vừa tầm cho cả hai: nhẹ, dễ dắt và yên thoải mái
 
 Với hai người, hãy ưu tiên xe nhẹ, dễ dắt và có yên đủ rộng. Người ngồi sau cần chỗ bám, chỗ để chân thoải mái và dễ lên xuống. Nếu một người lớn tuổi hoặc có vấn đề về gối và lưng, hãy chọn xe có yên không quá cao và không quá cứng. Ngồi thử cả hai người cùng lúc, dắt xe ra khỏi chỗ đỗ để biết độ nặng.
 
-Bài [chọn xe máy cho người cao tuổi đi khám bệnh định kỳ](/xe-may/2026/10/05/chon-xe-may-cho-nguoi-cao-tuoi-i-kham-benh-inh-ky/) có thêm gợi ý chọn xe cho người lớn tuổi.
+Bài [chọn xe máy cho người cao tuổi đi khám bệnh định kỳ](/xe-may/2026/10/05/chon-xe-may-cho-nguoi-cao-tuoi-di-kham-benh-dinh-ky/) có thêm gợi ý chọn xe cho người lớn tuổi.
 
 ## Chọn tuyến nhẹ nhàng: ven hồ, đường ít xe và nhiều chỗ nghỉ
 

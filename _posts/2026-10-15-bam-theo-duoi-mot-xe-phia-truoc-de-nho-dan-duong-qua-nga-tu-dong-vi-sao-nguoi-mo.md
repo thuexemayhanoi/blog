@@ -48,7 +48,7 @@ Khi đèn xanh vừa bật, hãy chờ một nhịp để xe phía trước đi 
 
 Dù đi sau một xe nào, hãy giữ khoảng cách đủ để bạn nhìn thấy phía trước và đủ để phanh khi xe kia dừng đột ngột. Bài không nêu con số mét cụ thể vì còn phụ thuộc tốc độ và mặt đường. Một dấu hiệu dễ nhớ: nếu đuôi xe trước chiếm hết tầm nhìn và bạn không thấy đèn phía xa, bạn đang quá gần.
 
-Nếu có người đi sát phía sau và thúc bạn, đừng vì thế mà nhích sát xe trước. Hãy giữ khoảng cách của bạn và để người sau tự điều chỉnh. Bài [người mới lái xe máy đi đường phố ngày đầu](/hoi-dap/2026/10/10/nguoi-moi-lai-xe-may-i-uong-pho-ngay-au/) có thêm cách làm quen với dòng xe ngày đầu.
+Nếu có người đi sát phía sau và thúc bạn, đừng vì thế mà nhích sát xe trước. Hãy giữ khoảng cách của bạn và để người sau tự điều chỉnh. Bài [người mới lái xe máy đi đường phố ngày đầu](/hoi-dap/2026/10/10/nguoi-moi-lai-xe-may-di-duong-pho-ngay-dau/) có thêm cách làm quen với dòng xe ngày đầu.
 
 ## Chọn lúc qua: đợi nhịp ngắt của dòng xe
 

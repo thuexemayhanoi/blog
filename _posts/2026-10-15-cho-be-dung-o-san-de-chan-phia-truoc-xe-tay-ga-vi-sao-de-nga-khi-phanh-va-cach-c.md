@@ -41,13 +41,13 @@ Người lái lúc đó vừa phải giữ thăng bằng cho xe vừa phải gi�
 
 Cách vững hơn là cho bé ngồi yên sau, lưng thẳng, hai chân đặt vào chỗ để chân hoặc gác sát hai bên thân xe, hai tay ôm eo người lái hoặc nắm áo, vai bé tựa nhẹ vào lưng người lái. Bé cần đủ lớn để ngồi thẳng và tự bám; nếu bé còn quá nhỏ hoặc hay ngủ gật, hãy cân nhắc đi bằng cách khác.
 
-Hãy ngồi thử trước khi đi: bé có với tới chỗ để chân không, bé có bám được không, yên sau có đủ rộng cho bé không. Bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-ieu-kien-gi/) nói thêm về điều kiện chở trẻ.
+Hãy ngồi thử trước khi đi: bé có với tới chỗ để chân không, bé có bám được không, yên sau có đủ rộng cho bé không. Bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-dieu-kien-gi/) nói thêm về điều kiện chở trẻ.
 
 ## Mũ bảo hiểm vừa cỡ và cài quai đúng cách
 
 Khoản 2 điều 33 yêu cầu người lái xe và người được chở trên xe mô tô hai bánh, xe gắn máy “phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách”. Với bé, nghĩa là mũ phải vừa đầu, không lỏng, quai cài chặt dưới cằm.
 
-Mũ lớn quá so với đầu có thể che mắt hoặc tuột khi cúi, còn mũ chật làm bé khó chịu và hay tháo ra. Bài [đội mũ bảo hiểm cho trẻ em dưới sáu tuổi khi đi xe máy](/an-toan-phap-ly/2026/10/07/oi-mu-bao-hiem-cho-tre-em-duoi-sau-tuoi-khi-i-xe-may/) có thêm gợi ý về chọn mũ cho bé nhỏ.
+Mũ lớn quá so với đầu có thể che mắt hoặc tuột khi cúi, còn mũ chật làm bé khó chịu và hay tháo ra. Bài [đội mũ bảo hiểm cho trẻ em dưới sáu tuổi khi đi xe máy](/an-toan-phap-ly/2026/10/07/doi-mu-bao-hiem-cho-tre-em-duoi-sau-tuoi-khi-di-xe-may/) có thêm gợi ý về chọn mũ cho bé nhỏ.
 
 ## Quãng ngắn trong ngõ, trước cổng trường, ngoài chợ: vẫn không đứng
 

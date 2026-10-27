@@ -66,7 +66,7 @@ Bài [xe số chạy phố cổ: ga và số nhẹ thế nào](/xe-may/2026/10/0
 
 Cách giảm số lần dừng hiệu quả hơn cả chọn xe là đỗ một chỗ hợp lệ rồi đi bộ qua vài điểm gần nhau. Phố cổ đông, nhiều đường một chiều và nhiều chỗ cấm đỗ; hãy nhìn biển báo và ưu tiên bãi có người trông thay vì đỗ sát mặt đường ở nơi bạn không rõ có được phép. Đỗ sai chỗ có thể bị xử lý theo quy định hiện hành; bài không nêu mức xử phạt.
 
-Bài [đi cà phê phố cổ bằng xe máy: gửi xe ở đâu cho tiện](/du-lich/2026/10/01/i-ca-phe-pho-co-bang-xe-may-gui-xe-o-au-cho-tien/) có thêm cách chọn chỗ gửi khi ghé quán.
+Bài [đi cà phê phố cổ bằng xe máy: gửi xe ở đâu cho tiện](/du-lich/2026/10/01/di-ca-phe-pho-co-bang-xe-may-gui-xe-o-dau-cho-tien/) có thêm cách chọn chỗ gửi khi ghé quán.
 
 ## Cách nói với tiệm: ba điều nên nhờ làm mẫu khi nhận xe
 
