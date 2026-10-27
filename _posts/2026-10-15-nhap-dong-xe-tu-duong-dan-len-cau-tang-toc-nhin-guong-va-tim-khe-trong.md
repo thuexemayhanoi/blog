@@ -52,11 +52,11 @@ Nếu dòng trên cầu đang chậm vì ùn tắc thì ngược lại: giảm t
 
 ## Nhìn gương, quay đầu kiểm tra điểm mù và xi nhan sớm
 
-**Xi nhan sớm**, từ khoảng giữa đường dẫn, để người đang chạy trên cầu kịp biết có xe sắp nhập vào. Cách chọn thời điểm bật và tắt có trong bài [xi nhan đúng thời điểm khi đi xe máy](/ky-nang/2026/10/11/xi-nhan-ung-thoi-iem-khi-i-xe-may/).
+**Xi nhan sớm**, từ khoảng giữa đường dẫn, để người đang chạy trên cầu kịp biết có xe sắp nhập vào. Cách chọn thời điểm bật và tắt có trong bài [xi nhan đúng thời điểm khi đi xe máy](/ky-nang/2026/10/11/xi-nhan-dung-thoi-diem-khi-di-xe-may/).
 
 **Nhìn gương phía bên sẽ nhập** vài lần, mỗi lần một nhịp ngắn rồi trả mắt về phía trước, để ước lượng xe nào đang tới gần, xe nào còn xa.
 
-**Quay đầu kiểm tra điểm mù** ngay trước khi nhập. Gương xe máy luôn có một vùng không thấy được ở phía sau chếch bên hông, đúng chỗ một chiếc xe máy khác hay nằm. Liếc nhanh qua vai, không xoay cả người, không để tay lái lệch theo. Thứ tự gương, xi nhan, vai được giải thích kỹ hơn trong bài [chuyển làn an toàn khi đi xe máy](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-i-xe-may-guong-xi-nhan-vai/).
+**Quay đầu kiểm tra điểm mù** ngay trước khi nhập. Gương xe máy luôn có một vùng không thấy được ở phía sau chếch bên hông, đúng chỗ một chiếc xe máy khác hay nằm. Liếc nhanh qua vai, không xoay cả người, không để tay lái lệch theo. Thứ tự gương, xi nhan, vai được giải thích kỹ hơn trong bài [chuyển làn an toàn khi đi xe máy](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-di-xe-may-guong-xi-nhan-vai/).
 
 ## Tìm khe trống và vào dòng
 
@@ -74,7 +74,7 @@ Giờ cao điểm ở đầu cầu Chương Dương phía Long Biên hay đườ
 - **Tắt xi nhan ngay** khi đã ổn định trong làn.
 - **Giữ làn, giữ tốc độ đều**, đừng lập tức vượt hay chuyển làn tiếp.
 - **Để ý gió ngang** ở giữa những cầu cao như Nhật Tân: giữ chắc ghi đông, thả lỏng vai.
-- **Không dừng trên cầu để chụp ảnh** ở nơi không có chỗ dừng. Muốn ngắm cầu Long Biên, xem bài [đi xe máy qua cầu Long Biên lúc nào đẹp nhất](/du-lich/2026/09/30/i-xe-may-qua-cau-long-bien-luc-nao-ep-nhat/).
+- **Không dừng trên cầu để chụp ảnh** ở nơi không có chỗ dừng. Muốn ngắm cầu Long Biên, xem bài [đi xe máy qua cầu Long Biên lúc nào đẹp nhất](/du-lich/2026/09/30/di-xe-may-qua-cau-long-bien-luc-nao-dep-nhat/).
 
 Kỹ năng này cũng dùng khi ra các trục lớn có xe chạy nhanh. Trường hợp quay đầu rồi nhập vào luồng xe đối diện được nói riêng trong bài [quay đầu xe tại chỗ mở dải phân cách](/ky-nang/2026/10/11/quay-dau-xe-tai-cho-mo-dai-phan-cach-canh-khoang-trong-va-nhap-dong-xe/).
 

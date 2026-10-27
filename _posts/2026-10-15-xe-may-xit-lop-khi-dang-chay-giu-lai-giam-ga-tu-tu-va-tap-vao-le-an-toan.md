@@ -33,7 +33,7 @@ Lốp mất hơi từ từ vì dính đinh, mảnh kính hay van hở cho bạn 
 - Cảm giác yên xe lún xuống, xe bồng bềnh, tăng ga thấy ì hơn.
 - Có tiếng lạch phạch đều đều theo vòng quay bánh khi lốp đã xẹp nhiều.
 
-Nếu đang chạy bình thường mà bất chợt có một trong các cảm giác trên, đừng tự trấn an rằng do mặt đường. Coi như lốp đang có vấn đề và chuyển sang các bước dưới đây ngay. Khác với nổ lốp, nơi hơi mất trong tích tắc kèm tiếng nổ lớn, tình huống xịt lốp cho bạn vài chục mét để xử lý. Trường hợp nổ lốp đột ngột được nói riêng trong bài [nổ lốp xe máy khi đang chạy: phanh và giữ thăng bằng](/xe-may/2026/10/04/no-lop-xe-may-khi-ang-chay-phanh-va-giu-thang-bang/).
+Nếu đang chạy bình thường mà bất chợt có một trong các cảm giác trên, đừng tự trấn an rằng do mặt đường. Coi như lốp đang có vấn đề và chuyển sang các bước dưới đây ngay. Khác với nổ lốp, nơi hơi mất trong tích tắc kèm tiếng nổ lớn, tình huống xịt lốp cho bạn vài chục mét để xử lý. Trường hợp nổ lốp đột ngột được nói riêng trong bài [nổ lốp xe máy khi đang chạy: phanh và giữ thăng bằng](/xe-may/2026/10/04/no-lop-xe-may-khi-dang-chay-phanh-va-giu-thang-bang/).
 
 ## Giữ chặt lái và không phanh gấp
 

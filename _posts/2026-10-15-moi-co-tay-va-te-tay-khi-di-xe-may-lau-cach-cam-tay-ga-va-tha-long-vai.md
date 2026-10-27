@@ -67,7 +67,7 @@ Kẹt xe dài như trên cầu Chương Dương chiều thứ Sáu hay đường
 
 ## Nghỉ theo chặng trên đường dài
 
-Không có cách cầm nào thay được việc dừng xe. Với chuyến đi dài, hãy chia sẵn chặng theo điểm dừng có thật trên đường, như cây xăng, quán nước, trạm dừng chân. Một nhịp tham khảo là nghỉ ngắn sau khoảng bốn lăm phút đến một tiếng chạy liên tục, dài hơn vào buổi trưa nắng. Cách chia nhịp nghỉ và uống nước được nói trong bài [uống nước và nghỉ đúng nhịp khi chạy xe đường dài](/ky-nang/2026-09-29/uong-nuoc-va-nghi-ung-nhip-khi-chay-xe-uong-dai/).
+Không có cách cầm nào thay được việc dừng xe. Với chuyến đi dài, hãy chia sẵn chặng theo điểm dừng có thật trên đường, như cây xăng, quán nước, trạm dừng chân. Một nhịp tham khảo là nghỉ ngắn sau khoảng bốn lăm phút đến một tiếng chạy liên tục, dài hơn vào buổi trưa nắng. Cách chia nhịp nghỉ và uống nước được nói trong bài [uống nước và nghỉ đúng nhịp khi chạy xe đường dài](/ky-nang/2026-09-29/uong-nuoc-va-nghi-dung-nhip-khi-chay-xe-duong-dai/).
 
 Mỗi lần dừng, dành hai phút cho tay:
 

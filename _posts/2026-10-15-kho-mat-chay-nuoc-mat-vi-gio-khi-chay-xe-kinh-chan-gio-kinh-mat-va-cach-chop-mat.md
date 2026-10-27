@@ -55,7 +55,7 @@ Mũ không có kính chắn gió thì một chiếc kính mắt ôm sát mặt l
 - **Tròng trong hoặc màu nhạt** cho đi lại hằng ngày; tròng tối chỉ hợp ban ngày nắng.
 - **Gọng chắc,** đeo thử cùng mũ xem có cấn tai hay bị quai mũ đẩy lệch không.
 
-Người đeo kính cận đã có sẵn một lớp che, dù hở hai bên; xem thêm bài [đeo kính cận dưới mũ bảo hiểm khi đi xe máy](/ky-nang/2026/10/11/eo-kinh-can-duoi-mu-bao-hiem-khi-i-xe-may-chon-kieu-nao/).
+Người đeo kính cận đã có sẵn một lớp che, dù hở hai bên; xem thêm bài [đeo kính cận dưới mũ bảo hiểm khi đi xe máy](/ky-nang/2026/10/11/deo-kinh-can-duoi-mu-bao-hiem-khi-di-xe-may-chon-kieu-nao/).
 
 Nếu dùng kính áp tròng và hay khô mắt khi đi xe, hãy hỏi bác sĩ mắt.
 

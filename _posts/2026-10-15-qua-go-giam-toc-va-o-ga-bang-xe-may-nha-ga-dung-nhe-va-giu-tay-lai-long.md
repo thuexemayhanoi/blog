@@ -46,7 +46,7 @@ Qua gờ chéo, nhất là gờ cao su hoặc vạch sơn ướt sau mưa, bánh
 
 Lỏng không có nghĩa là buông. Hai tay vẫn nắm tay lái, khuỷu tay hơi cong, vai thả xuống. Ghì cứng thì cú giật từ bánh trước truyền thẳng lên vai, tay dễ vô tình vặn thêm ga. Tay lái có lệch nhẹ khi bánh nảy lên thì cứ để nó tự về giữa.
 
-Phần dưới cơ thể mới là chỗ giữ thăng bằng. Với xe số, kẹp nhẹ đầu gối vào thân xe; với xe ga, đặt chắc hai bàn chân trên sàn. Cách đặt tay, gối và bàn chân tôi đã viết kỹ trong bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-ieu-khien-xe-may-chac-tay-at-tay-goi-va-ban-chan-the-nao/).
+Phần dưới cơ thể mới là chỗ giữ thăng bằng. Với xe số, kẹp nhẹ đầu gối vào thân xe; với xe ga, đặt chắc hai bàn chân trên sàn. Cách đặt tay, gối và bàn chân tôi đã viết kỹ trong bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-dieu-khien-xe-may-chac-tay-dat-tay-goi-va-ban-chan-the-nao/).
 
 Mắt nhìn qua gờ ra phía trước vài mét, đừng nhìn xuống mép gờ. Cúi nhìn thì người cúi theo, trọng tâm dồn lên tay lái, đúng thứ bạn đang muốn tránh.
 
@@ -76,7 +76,7 @@ Người ngồi sau chịu cú xóc mạnh hơn bạn tưởng, lại không nh�
 - Giảm tốc nhiều hơn so với khi đi một mình, nhất là với gờ xi măng cao trong ngõ.
 - Dặn họ đặt chân chắc trên gác chân, bám tay nắm sau, không ngả người sang một bên.
 
-Cách thống nhất tín hiệu với người ngồi sau trước khi lăn bánh có trong bài [chở người ngồi sau lần đầu](/ky-nang/2026/10/11/cho-nguoi-ngoi-sau-lan-au-thong-nhat-tin-hieu-truoc-khi-len-xe/).
+Cách thống nhất tín hiệu với người ngồi sau trước khi lăn bánh có trong bài [chở người ngồi sau lần đầu](/ky-nang/2026/10/11/cho-nguoi-ngoi-sau-lan-dau-thong-nhat-tin-hieu-truoc-khi-len-xe/).
 
 ## Xe thuê bị dằn mạnh thì kiểm tra gì
 

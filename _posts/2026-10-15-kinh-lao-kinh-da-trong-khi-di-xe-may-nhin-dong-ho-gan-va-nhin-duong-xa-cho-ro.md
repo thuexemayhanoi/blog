@@ -42,7 +42,7 @@ Khi đi đo và cắt kính, hãy nói rõ bạn đi xe máy hằng ngày và ha
 - Một cặp kính đơn tròng nhìn xa riêng để đi xe, còn kính đa tròng hay kính lão dùng khi làm việc, đọc sách.
 - Kính râm có độ cho ban ngày nắng gắt, thay vì đeo kính râm thường chồng ra ngoài kính cận.
 
-Mang theo chiếc mũ bảo hiểm hay đội khi đi chọn gọng. Gọng ôm vừa mặt, càng kính mảnh và thẳng sẽ ít bị lớp đệm mũ ép lệch. Đeo thử, đội mũ vào, nhìn lên xuống và sang hai bên xem tâm kính còn đúng chỗ không. Cách chọn kiểu kính đeo dưới mũ cho người cận thị có thêm chi tiết ở bài [đeo kính cận dưới mũ bảo hiểm khi đi xe máy: chọn kiểu nào](/ky-nang/2026/10/11/eo-kinh-can-duoi-mu-bao-hiem-khi-i-xe-may-chon-kieu-nao/ "Đeo kính cận dưới mũ bảo hiểm").
+Mang theo chiếc mũ bảo hiểm hay đội khi đi chọn gọng. Gọng ôm vừa mặt, càng kính mảnh và thẳng sẽ ít bị lớp đệm mũ ép lệch. Đeo thử, đội mũ vào, nhìn lên xuống và sang hai bên xem tâm kính còn đúng chỗ không. Cách chọn kiểu kính đeo dưới mũ cho người cận thị có thêm chi tiết ở bài [đeo kính cận dưới mũ bảo hiểm khi đi xe máy: chọn kiểu nào](/ky-nang/2026/10/11/deo-kinh-can-duoi-mu-bao-hiem-khi-di-xe-may-chon-kieu-nao/ "Đeo kính cận dưới mũ bảo hiểm").
 
 ## Tập quen kính mới trước khi ra đường đông
 

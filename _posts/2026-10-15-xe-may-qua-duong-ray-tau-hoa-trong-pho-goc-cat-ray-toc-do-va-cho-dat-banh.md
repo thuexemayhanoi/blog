@@ -36,7 +36,7 @@ Nhiều đường ngang trong phố lại không cắt đường bộ vuông gó
 3. Đến sát ray, chỉnh đầu xe để bánh trước qua theo hướng gần vuông góc, xe thẳng đứng.
 4. Qua hết các thanh ray rồi mới trở lại vị trí cũ trong làn.
 
-Chỉ dịch trong làn của mình, không cắt đầu xe khác để lấy góc đẹp. Dòng xe quá đông thì giảm tốc thêm và đi thẳng, chắc tay, đừng bẻ lái đột ngột trên ray. Thao tác này giống kỹ năng [chuyển làn an toàn bằng gương, xi nhan và ngoái vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-i-xe-may-guong-xi-nhan-vai/), chỉ khác là dịch ít và trở về sớm.
+Chỉ dịch trong làn của mình, không cắt đầu xe khác để lấy góc đẹp. Dòng xe quá đông thì giảm tốc thêm và đi thẳng, chắc tay, đừng bẻ lái đột ngột trên ray. Thao tác này giống kỹ năng [chuyển làn an toàn bằng gương, xi nhan và ngoái vai](/ky-nang/2026/10/11/chuyen-lan-an-toan-khi-di-xe-may-guong-xi-nhan-vai/), chỉ khác là dịch ít và trở về sớm.
 
 ## Tốc độ: phanh xong trước ray, qua ray bằng ga đều
 
@@ -64,7 +64,7 @@ Phải dừng gần ray thì đừng chống chân lên thanh thép. Đế giày
 
 ## Tư thế và ánh mắt khi qua ray
 
-Giữ xe thẳng đứng khi ở trên ray. Đường cong ngay sau đường ngang thì qua hết ray mới nghiêng. Tay nắm chắc nhưng khuỷu tay thả lỏng để tay lái tự nhún theo mép ray, tay cứng đơ dễ bẻ lái ngoài ý muốn. Cách đặt tay, gối và bàn chân có trong bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-ieu-khien-xe-may-chac-tay-at-tay-goi-va-ban-chan-the-nao/).
+Giữ xe thẳng đứng khi ở trên ray. Đường cong ngay sau đường ngang thì qua hết ray mới nghiêng. Tay nắm chắc nhưng khuỷu tay thả lỏng để tay lái tự nhún theo mép ray, tay cứng đơ dễ bẻ lái ngoài ý muốn. Cách đặt tay, gối và bàn chân có trong bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-dieu-khien-xe-may-chac-tay-dat-tay-goi-va-ban-chan-the-nao/).
 
 Liếc ray từ xa để chọn vệt đi, rồi nâng mắt nhìn ra chỗ sẽ tới. Xe đi theo hướng mắt nhìn, cứ nhìn xuống khe là tự lái mình vào đó. Người ngồi sau nên được nhắc trước để ngồi yên, không nghiêng người lúc xe qua ray.
 

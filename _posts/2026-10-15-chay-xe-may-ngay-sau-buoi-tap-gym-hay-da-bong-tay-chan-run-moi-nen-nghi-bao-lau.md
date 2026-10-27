@@ -36,7 +36,7 @@ Không có con số cứng cho mọi người, nhưng một nhịp hợp lý là
 - Lau khô người, thay áo khô, nhất là mùa đông, vì áo ướt gặp gió trên xe làm lạnh rất nhanh.
 - Đi lại nhẹ nhàng, duỗi cơ, để nhịp thở và nhịp tim dịu xuống.
 
-Trước khi lên xe, tự kiểm tra bằng mấy việc đơn giản: duỗi thẳng hai tay ra trước xem còn run không; nắm chặt rồi thả bàn tay vài lần; đứng một chân vài giây mỗi bên. Nếu tay vẫn run thấy rõ, chân đứng không vững hay đầu còn choáng, ngồi nghỉ thêm. Mệt nhiều sau một ngày làm việc dài cộng thêm buổi tập thì càng cần cẩn thận; bài [chạy xe khi đang mệt hay thiếu ngủ: rủi ro](/ky-nang/2026-09-29-chay-xe-khi-ang-met-hay-thieu-ngu-rui-ro/ "Chạy xe khi đang mệt hay thiếu ngủ") phân tích kỹ chuyện này.
+Trước khi lên xe, tự kiểm tra bằng mấy việc đơn giản: duỗi thẳng hai tay ra trước xem còn run không; nắm chặt rồi thả bàn tay vài lần; đứng một chân vài giây mỗi bên. Nếu tay vẫn run thấy rõ, chân đứng không vững hay đầu còn choáng, ngồi nghỉ thêm. Mệt nhiều sau một ngày làm việc dài cộng thêm buổi tập thì càng cần cẩn thận; bài [chạy xe khi đang mệt hay thiếu ngủ: rủi ro](/ky-nang/2026-09-29-chay-xe-khi-dang-met-hay-thieu-ngu-rui-ro/ "Chạy xe khi đang mệt hay thiếu ngủ") phân tích kỹ chuyện này.
 
 ## Lái xe sau khi đá bóng: đi về chậm và giữ khoảng cách
 
@@ -60,7 +60,7 @@ Bong gân cổ chân, đau cổ tay hay chuột rút sau trận bóng là chuy�
 
 ## Chuẩn bị trước khi đi tập
 
-Một vài thói quen nhỏ giúp buổi về nhà nhẹ nhàng hơn: mang sẵn chai nước, áo khô và khăn; để chìa khóa xe ở chỗ chắc chắn, không lẫn trong túi đồ tập, như bài [giữ chìa khóa xe máy khi đi bơi, tập gym hay đá bóng](/ky-nang/2026/10/11/giu-chia-khoa-xe-may-khi-i-boi-tap-gym-hay-a-bong-e-chia-o-au-cho-chac/ "Giữ chìa khóa xe máy khi tập gym, đá bóng") đã gợi ý. Nếu sáng hôm sau phải chạy xe đường xa, đừng xếp buổi tập tay nặng nhất vào tối hôm trước. Ngày nắng nóng, nhịp uống nước nói trong bài [uống nước đúng cách khi chạy xe trời nóng](/ky-nang/2026/10/04/uong-nuoc-ung-cach-khi-chay-xe-troi-nong/ "Uống nước đúng cách khi chạy xe trời nóng") cũng áp dụng được cho buổi đá bóng chiều.
+Một vài thói quen nhỏ giúp buổi về nhà nhẹ nhàng hơn: mang sẵn chai nước, áo khô và khăn; để chìa khóa xe ở chỗ chắc chắn, không lẫn trong túi đồ tập, như bài [giữ chìa khóa xe máy khi đi bơi, tập gym hay đá bóng](/ky-nang/2026/10/11/giu-chia-khoa-xe-may-khi-di-boi-tap-gym-hay-da-bong-de-chia-o-dau-cho-chac/ "Giữ chìa khóa xe máy khi tập gym, đá bóng") đã gợi ý. Nếu sáng hôm sau phải chạy xe đường xa, đừng xếp buổi tập tay nặng nhất vào tối hôm trước. Ngày nắng nóng, nhịp uống nước nói trong bài [uống nước đúng cách khi chạy xe trời nóng](/ky-nang/2026/10/04/uong-nuoc-dung-cach-khi-chay-xe-troi-nong/ "Uống nước đúng cách khi chạy xe trời nóng") cũng áp dụng được cho buổi đá bóng chiều.
 
 ## Quy định và nguồn để đối chiếu
 

@@ -43,7 +43,7 @@ Gạt chân chống nghiêng lên hết và để ý đừng cho bàn chân vư�
 
 Chỗ rộng nhất của xe là hai đầu tay lái và hai gương. Đứng ngoài nhìn thẳng khung cửa, ước xem tay lái có lọt không rồi mới đẩy.
 
-- Cửa chỉ vừa khít: xoay hai gương vào trong, dắt xe qua xong thì chỉnh lại đúng góc trước khi chạy. Nếu chưa quen chỉnh, xem bài [chỉnh gương xe máy đúng cách khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-ung-cach-khi-dung-en-o/).
+- Cửa chỉ vừa khít: xoay hai gương vào trong, dắt xe qua xong thì chỉnh lại đúng góc trước khi chạy. Nếu chưa quen chỉnh, xem bài [chỉnh gương xe máy đúng cách khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-dung-cach-khi-dung-den-do/).
 - Trả thẳng bánh trước từ xa, khoảng một thân xe trước cửa. Vào tới khung cửa mới chỉnh lái là lúc tay lái va vào tường.
 - Nhìn vào đầu tay lái phía xa người, vì đầu đó bạn khó cảm nhận nhất.
 - Cửa có ray cửa xếp hoặc ray cửa cuốn dưới đất thì cho bánh qua ray thật chậm, bóp phanh nhẹ khi bánh vừa vượt qua để xe không chồm.
@@ -82,7 +82,7 @@ Trước khi xoay, dời ghế, chậu cây và giá giày ra chỗ khác. Sàn 
 - Quên bóp phanh khi qua chỗ dốc nhỏ: xe trôi ngược, bạn ghì bằng tay và mất thăng bằng.
 - Đi dép tổ ong trên sàn ướt: chân trượt trước cả xe.
 
-Nếu xe bắt đầu đổ mà bạn thấy không giữ nổi, hãy buông tay và bước ra, đừng gồng lưng đỡ. Xe trầy vài vết còn hơn đau lưng cả tuần. Cách dựng xe lên một mình mà không hại lưng có trong bài [xe máy bị đổ nghiêng: cách một mình dựng xe lên](/ky-nang/2026/10/11/xe-may-bi-o-nghieng-cach-mot-minh-dung-xe-len-ma-khong-au-lung/).
+Nếu xe bắt đầu đổ mà bạn thấy không giữ nổi, hãy buông tay và bước ra, đừng gồng lưng đỡ. Xe trầy vài vết còn hơn đau lưng cả tuần. Cách dựng xe lên một mình mà không hại lưng có trong bài [xe máy bị đổ nghiêng: cách một mình dựng xe lên](/ky-nang/2026/10/11/xe-may-bi-do-nghieng-cach-mot-minh-dung-xe-len-ma-khong-dau-lung/).
 
 ## Lưu ý riêng cho người thuê xe ở nhà trọ trong ngõ
 

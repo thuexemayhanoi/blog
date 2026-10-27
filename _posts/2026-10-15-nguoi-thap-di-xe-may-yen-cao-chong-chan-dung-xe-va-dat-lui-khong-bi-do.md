@@ -67,7 +67,7 @@ Xuống xe, đứng bên trái, tay trái cầm tay lái trái, tay phải nắm
 
 Khi chỗ lùi chỉ cần vài bước và mặt đường bằng, có thể ngồi lệch về phía chân trụ như lúc dừng, rồi đẩy lùi bằng chân trụ từng nhịp nhỏ. Mỗi nhịp đặt chân xuống đất chắc rồi mới đẩy, không nhảy cóc.
 
-Ở chỗ gửi xe chật như hầm chung cư ở Cầu Giấy, cứ nhờ người trông xe kéo hộ phía sau. Kỹ thuật kéo xe ra khỏi hàng xe dày được hướng dẫn chi tiết hơn trong bài [dắt lùi xe máy ra khỏi hàng xe chật](/ky-nang/2026/10/11/dat-lui-xe-may-ra-khoi-hang-xe-chat-ky-thuat-va-tu-the-o-xe-nang/).
+Ở chỗ gửi xe chật như hầm chung cư ở Cầu Giấy, cứ nhờ người trông xe kéo hộ phía sau. Kỹ thuật kéo xe ra khỏi hàng xe dày được hướng dẫn chi tiết hơn trong bài [dắt lùi xe máy ra khỏi hàng xe chật](/ky-nang/2026/10/11/dat-lui-xe-may-ra-khoi-hang-xe-chat-ky-thuat-va-tu-the-do-xe-nang/).
 
 ## Xe nghiêng rồi: đỡ hay buông?
 
@@ -77,6 +77,6 @@ Sau đó, tắt máy trước khi dựng xe lại. Ngồi xổm quay lưng vào 
 
 ## Khi thuê xe: hỏi tiệm xe yên thấp hơn
 
-Nếu đang chọn xe thuê, cứ nói thẳng chiều cao của mình và nhờ tiệm gợi ý xe yên thấp hơn. Ngồi thử, tập dừng và lùi vài lần trên nền phẳng; nếu vẫn chỉ chạm mũi chân thì hỏi xe khác. Xem thêm bài [người thấp thuê xe máy nên chọn xe yên thấp, chân chạm đất](/thue-xe/2026/10/14/nguoi-thap-duoi-1m55-thue-xe-may-chon-xe-yen-thap-chan-cham-dat/), cùng hai bài thử xe cụ thể [Honda Vision với người thấp](/xe-may/2026/10/11/honda-vision-voi-nguoi-thap-chieu-ke-yen-va-tu-the-at-chan/) và [Air Blade cho người thấp](/xe-may/2026/10/11/honda-air-blade-cho-nguoi-thap-kiem-tra-yen-chan-cham-at-va-cach-dung-xe/). Tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, mở cửa từ 09:00 đến 21:00, bạn có thể đến ngồi thử trước khi quyết định.
+Nếu đang chọn xe thuê, cứ nói thẳng chiều cao của mình và nhờ tiệm gợi ý xe yên thấp hơn. Ngồi thử, tập dừng và lùi vài lần trên nền phẳng; nếu vẫn chỉ chạm mũi chân thì hỏi xe khác. Xem thêm bài [người thấp thuê xe máy nên chọn xe yên thấp, chân chạm đất](/thue-xe/2026/10/14/nguoi-thap-duoi-1m55-thue-xe-may-chon-xe-yen-thap-chan-cham-dat/), cùng hai bài thử xe cụ thể [Honda Vision với người thấp](/xe-may/2026/10/11/honda-vision-voi-nguoi-thap-chieu-ke-yen-va-tu-the-dat-chan/) và [Air Blade cho người thấp](/xe-may/2026/10/11/honda-air-blade-cho-nguoi-thap-kiem-tra-yen-chan-cham-dat-va-cach-dung-xe/). Tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, mở cửa từ 09:00 đến 21:00, bạn có thể đến ngồi thử trước khi quyết định.
 
 Tóm lại, chân ngắn không phải lý do để sợ xe cao: chọn chân trụ và ngồi lệch nhẹ trước khi dừng, nhìn chỗ đặt chân để tránh rãnh và ổ gà, xuống xe dắt lùi khi chỗ chật, và buông xe đúng lúc nếu không đỡ nổi. Các kỹ năng nền khác có trong mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), còn toàn bộ bài hướng dẫn nằm ở chuyên mục [kỹ năng](/ky-nang/).

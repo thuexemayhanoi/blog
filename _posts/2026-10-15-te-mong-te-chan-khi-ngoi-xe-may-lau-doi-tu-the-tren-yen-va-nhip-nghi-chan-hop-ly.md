@@ -58,7 +58,7 @@ Vài chặng quen từ Hà Nội:
 - **Đi Bát Tràng theo đê sông Hồng từ Long Biên:** đường đê nhiều đoạn cong, xe tải đi lại, người ngồi sau hay kêu tê đùi. Dừng ở khu chợ gốm để duỗi chân.
 - **Đi Đông Anh qua cầu Nhật Tân:** không dừng trên cầu, hãy nghỉ trước khi lên hoặc sau khi xuống hẳn.
 
-Chuyến cả ngày thì xem thêm bài [uống nước và nghỉ đúng nhịp khi chạy xe đường dài](/ky-nang/2026-09-29/uong-nuoc-va-nghi-ung-nhip-khi-chay-xe-uong-dai/).
+Chuyến cả ngày thì xem thêm bài [uống nước và nghỉ đúng nhịp khi chạy xe đường dài](/ky-nang/2026-09-29/uong-nuoc-va-nghi-dung-nhip-khi-chay-xe-duong-dai/).
 
 ## Đứng dậy duỗi chân khi dừng ở chỗ an toàn
 
@@ -72,7 +72,7 @@ Chân có thể còn tê, nên vịn tay vào xe vài giây trước khi đi. Sa
 - **Đặt gót chân lên bậc thấp**, gối thẳng, hơi nghiêng người để giãn mặt sau đùi.
 - **Xoay cổ chân** vài vòng mỗi bên.
 
-Chỉ căng vừa phải, không ép tới mức đau. Phần lưng có bài riêng [đau lưng trên chuyến xe máy dài](/ky-nang/2026/10/11/au-lung-tren-chuyen-xe-may-dai-tu-the-ngoi-va-iem-dung-chan/).
+Chỉ căng vừa phải, không ép tới mức đau. Phần lưng có bài riêng [đau lưng trên chuyến xe máy dài](/ky-nang/2026/10/11/dau-lung-tren-chuyen-xe-may-dai-tu-the-ngoi-va-diem-dung-chan/).
 
 ## Quần áo thoải mái và vài chi tiết trên xe
 

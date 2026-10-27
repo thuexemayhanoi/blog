@@ -49,7 +49,7 @@ Mũ nửa đầu để hở tai là kiểu gây ồn nhất. Ngược lại, mũ
 
 6. Trời mưa thì che tai bằng mũ trùm áo mưa hoặc khăn mỏng. Máy chịu nước đến đâu phải xem hướng dẫn của nhà sản xuất.
 
-Người vừa đeo kính vừa đeo máy nên đọc thêm bài [đeo kính cận dưới mũ bảo hiểm](/ky-nang/2026/10/11/eo-kinh-can-duoi-mu-bao-hiem-khi-i-xe-may-chon-kieu-nao/) để xếp gọng kính và máy cho gọn.
+Người vừa đeo kính vừa đeo máy nên đọc thêm bài [đeo kính cận dưới mũ bảo hiểm](/ky-nang/2026/10/11/deo-kinh-can-duoi-mu-bao-hiem-khi-di-xe-may-chon-kieu-nao/) để xếp gọng kính và máy cho gọn.
 
 ## Người nghe kém đi xe máy: bù tiếng còi bằng gương và mắt
 

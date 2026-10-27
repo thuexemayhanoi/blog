@@ -47,11 +47,11 @@ Gom câu hỏi vào một tin nhắn, cửa hàng trả lời một lần là đ
 - **Những gì đi kèm.** Mũ bảo hiểm, áo mưa, sạc (với xe điện) và thứ gì cần tự chuẩn bị.
 - **Giao nhận.** Có nhận xe ở cửa hàng hay cần giao; nếu giao thì thời gian và chi phí phải được xác nhận trước khi đặt.
 
-Cửa hàng mở cửa từ 09:00 tới 21:00 tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên; bạn có thể gọi số 0942 467 674 trong giờ này. Cách đặt câu hỏi qua điện thoại cho nhanh, đủ ý có trong bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-ien-thoai-nen-hoi-the-nao/ "Hỏi giá thuê xe máy qua điện thoại").
+Cửa hàng mở cửa từ 09:00 tới 21:00 tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên; bạn có thể gọi số 0942 467 674 trong giờ này. Cách đặt câu hỏi qua điện thoại cho nhanh, đủ ý có trong bài [hỏi giá thuê xe máy qua điện thoại nên hỏi thế nào](/thue-xe/2026/10/07/hoi-gia-thue-xe-may-qua-dien-thoai-nen-hoi-the-nao/ "Hỏi giá thuê xe máy qua điện thoại").
 
 ## Với xe máy điện và xe đạp điện, hỏi thêm vài điều
 
-Hai dòng xe điện có vài chi tiết mà xe xăng không cần. Hãy hỏi xe đi được khoảng bao xa sau một lần sạc đầy trong điều kiện đi phố, bạn sạc ở đâu nếu ở khách sạn hay nhà trọ, và có cần mang theo bộ sạc không. Nói rõ quãng đường bạn định đi mỗi ngày, ví dụ chỉ quanh Long Biên và phố cổ hay sang tận Cầu Giấy, để cửa hàng tư vấn xe phù hợp trước khi báo giá. Một số lưu ý chung về giá xe máy điện có ở bài [giá thuê xe máy điện ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-ien-o-ha-noi/ "Giá thuê xe máy điện ở Hà Nội").
+Hai dòng xe điện có vài chi tiết mà xe xăng không cần. Hãy hỏi xe đi được khoảng bao xa sau một lần sạc đầy trong điều kiện đi phố, bạn sạc ở đâu nếu ở khách sạn hay nhà trọ, và có cần mang theo bộ sạc không. Nói rõ quãng đường bạn định đi mỗi ngày, ví dụ chỉ quanh Long Biên và phố cổ hay sang tận Cầu Giấy, để cửa hàng tư vấn xe phù hợp trước khi báo giá. Một số lưu ý chung về giá xe máy điện có ở bài [giá thuê xe máy điện ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-dien-o-ha-noi/ "Giá thuê xe máy điện ở Hà Nội").
 
 ## Đọc bảng giá cho đúng
 

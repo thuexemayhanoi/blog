@@ -55,7 +55,7 @@ Phần lớn những lần chuột rút trên đường đi xa có thể bớt �
 - Đi giày hoặc dép quai hậu vừa chân thay vì dép tông, để không phải quặp ngón giữ dép.
 - Ăn nhẹ trước khi đi, không chạy đường dài lúc bụng đói.
 
-Nhịp uống nước khi trời nóng được nói kỹ trong bài [uống nước đúng cách khi chạy xe trời nóng](/ky-nang/2026/10/04/uong-nuoc-ung-cach-khi-chay-xe-troi-nong/ "Uống nước đúng cách khi chạy xe trời nóng"), còn các động tác nghỉ dọc đường cho vai, lưng có ở bài [mỏi vai lưng khi chạy xe đường dài: bài tập nghỉ dọc đường](/ky-nang/2026/10/04/moi-vai-lung-khi-chay-xe-uong-dai-bai-tap-nghi-doc-uong/ "Bài tập nghỉ dọc đường").
+Nhịp uống nước khi trời nóng được nói kỹ trong bài [uống nước đúng cách khi chạy xe trời nóng](/ky-nang/2026/10/04/uong-nuoc-dung-cach-khi-chay-xe-troi-nong/ "Uống nước đúng cách khi chạy xe trời nóng"), còn các động tác nghỉ dọc đường cho vai, lưng có ở bài [mỏi vai lưng khi chạy xe đường dài: bài tập nghỉ dọc đường](/ky-nang/2026/10/04/moi-vai-lung-khi-chay-xe-duong-dai-bai-tap-nghi-doc-duong/ "Bài tập nghỉ dọc đường").
 
 Với chuyến từ Long Biên lên Ba Vì, một nhịp nghỉ hợp lý là dừng một lần quanh Hòa Lạc, một lần ở Sơn Tây trước khi vào đường núi. Những đoạn đèo dốc đòi hỏi đổi số, phanh liên tục, nên vào dốc với đôi chân đã được nghỉ sẽ đỡ mỏi hơn nhiều.
 

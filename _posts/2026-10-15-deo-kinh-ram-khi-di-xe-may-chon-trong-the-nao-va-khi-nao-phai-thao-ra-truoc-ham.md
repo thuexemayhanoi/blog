@@ -43,7 +43,7 @@ Tròng phân cực giảm lóa tốt trên mặt đường ướt, nhưng có th
 
 ### Gọng vừa với mũ bảo hiểm
 
-Gọng mảnh, càng kính thẳng sẽ luồn vào trong mũ dễ hơn, không bị ép vào thái dương. Mang mũ theo khi đi mua kính để đội thử. Nếu bạn vốn đeo kính cận, cách phối kính với mũ được nói kỹ trong bài [đeo kính cận dưới mũ bảo hiểm](/ky-nang/2026/10/11/eo-kinh-can-duoi-mu-bao-hiem-khi-i-xe-may-chon-kieu-nao/).
+Gọng mảnh, càng kính thẳng sẽ luồn vào trong mũ dễ hơn, không bị ép vào thái dương. Mang mũ theo khi đi mua kính để đội thử. Nếu bạn vốn đeo kính cận, cách phối kính với mũ được nói kỹ trong bài [đeo kính cận dưới mũ bảo hiểm](/ky-nang/2026/10/11/deo-kinh-can-duoi-mu-bao-hiem-khi-di-xe-may-chon-kieu-nao/).
 
 ## Hầm chui, hầm gửi xe: tháo kính trước khi vào
 
@@ -69,7 +69,7 @@ Những thời điểm cần tháo kính râm sớm:
 - **Sương mù sáng sớm** trên các tuyến ven đê hay ngoại thành.
 - **Chạy vào phố nhỏ nhiều bóng cây**, như các phố quanh hồ Thiền Quang hay ngõ trong khu Ba Đình, chỗ ánh sáng thay đổi liên tục.
 
-Mang theo một kính tròng trong hoặc kính cận thường ngày để đổi. Kinh nghiệm chạy phố sau khi trời tối có trong bài [chạy xe ban đêm trong nội đô](/ky-nang/2026-09-29/chay-xe-ban-em-trong-noi-o/). Còn khi nắng chiều xiên thẳng vào mắt, xem bài [mắt bị nắng chiếu buổi chiều khi chạy xe](/ky-nang/2026/10/09/mat-bi-nang-chieu-buoi-chieu-chay-xe-lam-sao/).
+Mang theo một kính tròng trong hoặc kính cận thường ngày để đổi. Kinh nghiệm chạy phố sau khi trời tối có trong bài [chạy xe ban đêm trong nội đô](/ky-nang/2026-09-29/chay-xe-ban-dem-trong-noi-do/). Còn khi nắng chiều xiên thẳng vào mắt, xem bài [mắt bị nắng chiếu buổi chiều khi chạy xe](/ky-nang/2026/10/09/mat-bi-nang-chieu-buoi-chieu-chay-xe-lam-sao/).
 
 ## Cách đổi kính gọn gàng
 
