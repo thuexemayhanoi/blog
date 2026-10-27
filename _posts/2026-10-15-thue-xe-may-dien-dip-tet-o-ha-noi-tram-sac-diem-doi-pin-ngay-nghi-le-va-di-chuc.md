@@ -37,7 +37,7 @@ Vì vậy:
 - **Kiểm tra xe có dùng được điểm đổi pin không.** Tủ đổi pin chỉ phục vụ đúng loại pin của hệ thống đó; hỏi tiệm xe thuê thuộc trường hợp nào.
 - **Coi trạm công cộng là phương án dự phòng**, còn phương án chính là sạc tại chỗ ở.
 
-Cách dùng trạm và ổ sạc ngày thường có trong bài [sạc xe máy điện thuê ở Hà Nội](/xe-may/2026/10/11/sac-xe-may-ien-thue-o-ha-noi-tram-oi-pin-va-o-sac/).
+Cách dùng trạm và ổ sạc ngày thường có trong bài [sạc xe máy điện thuê ở Hà Nội](/xe-may/2026/10/11/sac-xe-may-dien-thue-o-ha-noi-tram-doi-pin-va-o-sac/).
 
 ## Sạc xe điện ngày Tết tại chỗ ở: đầy pin trước kỳ nghỉ và mỗi tối
 
@@ -50,7 +50,7 @@ Nhà ngày Tết thường nhiều thiết bị điện hơn bình thường, n�
 - Không sạc khi cả nhà đi vắng, và rút sạc khi pin đã đầy.
 - Ở nhà trọ hay chung cư, hỏi chủ trọ hoặc ban quản lý quy định sạc xe trong dịp Tết.
 
-Những nguyên tắc sạc qua đêm an toàn được nói kỹ trong bài [sạc pin qua đêm ở nhà trọ](/xe-may/2026/10/03/sac-pin-qua-em-noi-tro-an-toan-the-nao/).
+Những nguyên tắc sạc qua đêm an toàn được nói kỹ trong bài [sạc pin qua đêm ở nhà trọ](/xe-may/2026/10/03/sac-pin-qua-dem-noi-tro-an-toan-the-nao/).
 
 ## Đi chúc Tết bằng xe máy điện: chia chặng theo quãng pin
 

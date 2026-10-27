@@ -24,7 +24,7 @@ Công thức đơn giản nhất là lấy quãng đường chia cho tốc độ
 - **Ngoài giờ cao điểm**, một chiếc xe 50cc đi trong nội thành thường đạt tốc độ trung bình khoảng mười lăm tới hai mươi cây số một giờ khi tính cả lúc dừng đèn.
 - **Giờ cao điểm**, con số đó có thể chỉ còn khoảng mười cây số một giờ, có đoạn còn thấp hơn.
 
-Sau đó cộng thêm thời gian gửi xe và đi bộ tới chỗ hẹn, thường từ năm tới mười lăm phút tùy khu. Những giới hạn tốc độ thực tế của xe nhỏ có ở bài [xe 50cc có chạy đường trường ổn không: giới hạn tốc độ thực tế](/xe-may/2026/10/11/xe-50cc-co-chay-uong-truong-on-khong-gioi-han-toc-o-thuc-te/ "Xe 50cc có chạy đường trường ổn không").
+Sau đó cộng thêm thời gian gửi xe và đi bộ tới chỗ hẹn, thường từ năm tới mười lăm phút tùy khu. Những giới hạn tốc độ thực tế của xe nhỏ có ở bài [xe 50cc có chạy đường trường ổn không: giới hạn tốc độ thực tế](/xe-may/2026/10/11/xe-50cc-co-chay-duong-truong-on-khong-gioi-han-toc-do-thuc-te/ "Xe 50cc có chạy đường trường ổn không").
 
 ## Bốn hướng hay gặp từ phố cổ
 
@@ -47,7 +47,7 @@ Hướng Cầu Giấy đi qua các trục như Kim Mã hay Giảng Võ, nhiều 
 
 ## Mỹ Đình và Hà Đông: quãng dài, đường lớn
 
-Hai hướng này dài hơn và đi qua những trục lớn nhiều xe tải, xe buýt. Với xe 50cc, quãng đường hơn mười cây số trong giờ cao điểm là một chuyến khá mệt. Nếu có hẹn ở Mỹ Đình hay Hà Đông, ưu tiên xuất phát sớm hơn giờ cao điểm hoặc đi sau khi đường đã thưa. Một chuyến cụ thể sang Hà Đông bằng xe 50cc, kèm giờ nên đi, có ở bài [xe 50cc đi làng lụa Vạn Phúc, Hà Đông](/xe-may/2026/10/11/xe-50cc-i-lang-lua-van-phuc-ha-ong-uong-i-quang-uong-va-gio-nen-i/ "Xe 50cc đi làng lụa Vạn Phúc").
+Hai hướng này dài hơn và đi qua những trục lớn nhiều xe tải, xe buýt. Với xe 50cc, quãng đường hơn mười cây số trong giờ cao điểm là một chuyến khá mệt. Nếu có hẹn ở Mỹ Đình hay Hà Đông, ưu tiên xuất phát sớm hơn giờ cao điểm hoặc đi sau khi đường đã thưa. Một chuyến cụ thể sang Hà Đông bằng xe 50cc, kèm giờ nên đi, có ở bài [xe 50cc đi làng lụa Vạn Phúc, Hà Đông](/xe-may/2026/10/11/xe-50cc-di-lang-lua-van-phuc-ha-dong-duong-di-quang-duong-va-gio-nen-di/ "Xe 50cc đi làng lụa Vạn Phúc").
 
 ## Những thứ cần cộng thêm
 
@@ -57,7 +57,7 @@ Hai hướng này dài hơn và đi qua những trục lớn nhiều xe tải, x
 - **Lạc đường, nhầm làn:** lần đầu đi một tuyến, cộng thêm vài phút cho những lần phải quay đầu.
 - **Đổ xăng:** xe 50cc bình nhỏ, nhìn kim xăng trước khi đi để không phải ghé cây xăng giữa chuyến.
 
-Cách chọn giờ xuất phát để đỡ kẹt khi phải đi đúng giờ có ở bài [giờ cao điểm Hà Nội: chọn giờ xuất phát và đường đi để đỡ kẹt khi đi làm](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/ "Chọn giờ xuất phát giờ cao điểm").
+Cách chọn giờ xuất phát để đỡ kẹt khi phải đi đúng giờ có ở bài [giờ cao điểm Hà Nội: chọn giờ xuất phát và đường đi để đỡ kẹt khi đi làm](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/ "Chọn giờ xuất phát giờ cao điểm").
 
 ## Ước giờ cho đúng hẹn: một ví dụ
 

@@ -73,6 +73,6 @@ Trên những trục đông như Nguyễn Văn Cừ về Long Biên, bám sau m�
 
 ## Khi chính bạn bị vượt
 
-Xe 50cc bị vượt nhiều hơn là đi vượt. Giữ tốc độ đều, đi ổn định ở làn sát bên phải, không đánh lái bất ngờ. Khi xe lớn vượt sát, nắm chắc tay lái, đừng phanh gấp. Nếu phía sau dồn ứ một hàng xe, tấp vào chỗ rộng cho họ qua rồi đi tiếp. Những giới hạn thực tế của xe 50cc trên đường dài, kể cả chuyện bị vượt liên tục, có ở bài [xe 50cc có chạy đường trường ổn không: giới hạn tốc độ thực tế](/xe-may/2026/10/11/xe-50cc-co-chay-uong-truong-on-khong-gioi-han-toc-o-thuc-te/ "Xe 50cc có chạy đường trường ổn không").
+Xe 50cc bị vượt nhiều hơn là đi vượt. Giữ tốc độ đều, đi ổn định ở làn sát bên phải, không đánh lái bất ngờ. Khi xe lớn vượt sát, nắm chắc tay lái, đừng phanh gấp. Nếu phía sau dồn ứ một hàng xe, tấp vào chỗ rộng cho họ qua rồi đi tiếp. Những giới hạn thực tế của xe 50cc trên đường dài, kể cả chuyện bị vượt liên tục, có ở bài [xe 50cc có chạy đường trường ổn không: giới hạn tốc độ thực tế](/xe-may/2026/10/11/xe-50cc-co-chay-duong-truong-on-khong-gioi-han-toc-do-thuc-te/ "Xe 50cc có chạy đường trường ổn không").
 
 Các bài khác về dòng xe này có ở chuyên mục [xe 50cc](/xe-may/xe-50cc/ "Xe 50cc"), còn toàn bộ thông tin về các dòng xe ở mục [xe máy](/xe-may/ "Xe máy cho thuê ở Hà Nội").

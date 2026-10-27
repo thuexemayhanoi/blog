@@ -27,7 +27,7 @@ Ba tình huống hay gặp nhất:
 - Đang lên giữa dốc thì xe phía trước dừng, bạn phanh rồi vặn lại ga quá tay.
 - Dắt xe qua bậc vỉa hè mà vẫn để nguồn bật, tay phải lỡ xoay tay ga.
 
-Cách xuất phát êm ở chỗ bằng phẳng đã có trong bài [xe điện tăng tốc tức thì](/xe-may/2026/10/11/xe-ien-tang-toc-tuc-thi-cach-xuat-phat-em-o-nga-tu-ong/). Ở đây ta nói chuyện dốc.
+Cách xuất phát êm ở chỗ bằng phẳng đã có trong bài [xe điện tăng tốc tức thì](/xe-may/2026/10/11/xe-dien-tang-toc-tuc-thi-cach-xuat-phat-em-o-nga-tu-dong/). Ở đây ta nói chuyện dốc.
 
 ## Xe máy điện lên dốc hầm: ga nhẹ, vào dốc thẳng
 

@@ -41,7 +41,7 @@ Khi đã có khoảng trống đủ dài:
 - Tăng ga đều, không giật, giữ xe đi thẳng ở làn phải.
 - Liếc gương sau vài giây để chắc xe phía sau đã thấy bạn.
 
-Làn sát lề phải là chỗ của xe đi chậm, và cũng là chỗ của bạn trong vài trăm mét đầu. Những thói quen đi đúng làn với xe nhỏ được nói ở bài [thuê xe 50cc đi phố Hà Nội: nhẹ, chậm và đúng làn](/xe-may/2026/10/11/thue-xe-50cc-i-pho-ha-noi-nhe-cham-va-ung-lan/ "Thuê xe 50cc đi phố Hà Nội").
+Làn sát lề phải là chỗ của xe đi chậm, và cũng là chỗ của bạn trong vài trăm mét đầu. Những thói quen đi đúng làn với xe nhỏ được nói ở bài [thuê xe 50cc đi phố Hà Nội: nhẹ, chậm và đúng làn](/xe-may/2026/10/11/thue-xe-50cc-di-pho-ha-noi-nhe-cham-va-dung-lan/ "Thuê xe 50cc đi phố Hà Nội").
 
 ## Muốn đi về phía bên kia đường
 
@@ -57,7 +57,7 @@ Bảy, tám giờ sáng ở miệng ngõ ra Giải Phóng hay Cầu Giấy, dòn
 - Chờ một người chủ động chậm lại nhường, rồi mới đi; một cái gật đầu cảm ơn là đủ.
 - Nếu dòng xe đang dừng chờ đèn đỏ phía trước, đó là lúc dễ nhập làn nhất.
 
-Kỹ năng xuất phát khi phía trước là cả một rừng xe có ở bài [xe 50cc tăng tốc chậm ở ngã tư đông: cách xuất phát khi đèn xanh bật](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-ong-cach-xuat-phat-khi-en-xanh-bat/ "Xe 50cc tăng tốc chậm ở ngã tư đông").
+Kỹ năng xuất phát khi phía trước là cả một rừng xe có ở bài [xe 50cc tăng tốc chậm ở ngã tư đông: cách xuất phát khi đèn xanh bật](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-dong-cach-xuat-phat-khi-den-xanh-bat/ "Xe 50cc tăng tốc chậm ở ngã tư đông").
 
 ## Khi chở thêm người hoặc đồ nặng
 

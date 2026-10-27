@@ -25,7 +25,7 @@ Không có quy tắc chung cho mọi chiếc xe đạp điện. Tùy mẫu, xe t
 - **Chỉ có trợ lực bàn đạp.** Xe có cảm biến ở trục giữa hoặc ở bàn đạp. Bạn đạp thì motor đỡ thêm sức, ngừng đạp thì motor ngừng theo. Không có tay ga để vặn.
 - **Có cả hai.** Bạn có thể vặn ga hoặc đạp. Một số mẫu loại này cài đặt để phải đạp vài vòng thì tay ga mới nhận, nhằm tránh xe vọt khi người lái lỡ tay.
 
-Vì mỗi mẫu một khác, câu hỏi đầu tiên khi nhận xe không phải "xe chạy được bao xa" mà là "xe này điều khiển thế nào". Nếu bạn còn phân vân giữa xe đạp điện và xe máy điện, bài [xe đạp điện khác gì xe máy điện](/xe-may/2026/09/27/xe-ap-ien-khac-gi-xe-may-ien/) giải thích sự khác biệt cơ bản.
+Vì mỗi mẫu một khác, câu hỏi đầu tiên khi nhận xe không phải "xe chạy được bao xa" mà là "xe này điều khiển thế nào". Nếu bạn còn phân vân giữa xe đạp điện và xe máy điện, bài [xe đạp điện khác gì xe máy điện](/xe-may/2026/09/27/xe-dap-dien-khac-gi-xe-may-dien/) giải thích sự khác biệt cơ bản.
 
 ## Nhận biết chiếc xe thuê thuộc kiểu nào
 
@@ -56,7 +56,7 @@ Trên các phố đông như Hàng Bông, Xã Đàn hay quanh Văn Miếu, dòng
 - **Tay ga hợp với đoạn thoáng, đều.** Trên đường rộng như Điện Biên Phủ hay quanh Lăng Bác vào lúc vắng, giữ ga đều tay giúp bạn đi theo kịp dòng xe mà không cần đạp liên tục.
 - **Khi tắc đường, giữ một kiểu điều khiển.** Chuyển qua lại giữa đạp và vặn ga liên tục dễ làm bạn quên đang dùng cái nào, rồi xe đẩy thêm đúng lúc bạn muốn dừng.
 
-Nếu phải đi vào giờ cao điểm, bài [giờ cao điểm đạp xe điện lúc nào, đường nào đỡ tắc](/xe-may/2026/10/11/ha-noi-gio-cao-iem-ap-xe-ien-luc-nao-uong-nao-o-tac/) gợi ý cách chọn khung giờ và tuyến đường.
+Nếu phải đi vào giờ cao điểm, bài [giờ cao điểm đạp xe điện lúc nào, đường nào đỡ tắc](/xe-may/2026/10/11/ha-noi-gio-cao-diem-dap-xe-dien-luc-nao-duong-nao-do-tac/) gợi ý cách chọn khung giờ và tuyến đường.
 
 ## Vào ngõ: giảm trợ lực, đi bằng sức chân là chính
 
@@ -67,14 +67,14 @@ Ngõ nhỏ ở Đống Đa, Ba Đình hay các khu tập thể cũ có đặc đ
 - **Với xe chỉ có tay ga**, giữ ga ở mức nhỏ nhất và sẵn hai ngón tay trên phanh.
 - **Đoạn quá chật, xuống dắt xe.** Đây không phải điều đáng ngại, nhiều người dân trong ngõ cũng làm vậy.
 
-Bài [lên vào ngõ nhỏ khu tập thể cũ bằng xe đạp điện](/xe-may/2026/10/11/len-vao-ngo-nho-khu-tap-the-cu-bang-xe-ap-ien-re-tranh-dung-sao-cho-gon/) nói kỹ hơn về cách rẽ, tránh và dừng trong ngõ.
+Bài [lên vào ngõ nhỏ khu tập thể cũ bằng xe đạp điện](/xe-may/2026/10/11/len-vao-ngo-nho-khu-tap-the-cu-bang-xe-dap-dien-re-tranh-dung-sao-cho-gon/) nói kỹ hơn về cách rẽ, tránh và dừng trong ngõ.
 
 ## Những tình huống làm người mới bối rối
 
 - **Ngừng đạp mà xe vẫn đẩy thêm một chút.** Với một số cảm biến, motor cần một khoảnh khắc mới ngắt. Hãy ngừng đạp sớm hơn một nhịp trước chỗ cần dừng.
 - **Đạp mà không thấy trợ lực.** Kiểm tra mức trợ lực có đang ở số không, pin có quá yếu, hoặc tay phanh có bị bóp nhẹ không.
 - **Vặn ga mà xe đứng yên.** Có thể xe thuộc loại phải đạp trước mới nhận ga, hoặc chưa bật nguồn.
-- **Lên dốc cầu thấy nặng.** Kết hợp đạp và trợ lực sẽ đỡ hơn chỉ vặn ga, như trong bài [lên dốc bằng xe đạp điện](/xe-may/2026/10/11/len-doc-bang-xe-ap-ien-giu-a-ap-phu-cung-motor-e-o-nang-chan/).
+- **Lên dốc cầu thấy nặng.** Kết hợp đạp và trợ lực sẽ đỡ hơn chỉ vặn ga, như trong bài [lên dốc bằng xe đạp điện](/xe-may/2026/10/11/len-doc-bang-xe-dap-dien-giu-da-dap-phu-cung-motor-de-do-nang-chan/).
 
 Về giấy tờ và điều kiện người lái, quy định có thể thay đổi, nên hãy kiểm tra quy định hiện hành và hỏi trực tiếp khi thuê. Giá thuê xe đạp điện cũng cần liên hệ để xác nhận theo từng mẫu.
 

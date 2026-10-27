@@ -31,7 +31,7 @@ Nhóm câu hỏi mở đầu giúp bạn hình dung khối pin đang ở giai đ
 
 1. **Pin này đã dùng được bao lâu?** Hỏi theo mốc dễ nhớ, thay vì hỏi chung chung "pin còn tốt không".
 2. **Xe đã từng thay pin chưa, thay khi nào?** Một chiếc xe khung cũ nhưng pin mới thay có thể hợp với kỳ thuê dài hơn một chiếc xe trông mới nhưng pin đã qua nhiều đời khách.
-3. **Xe dùng pin lithium hay ắc quy chì?** Nếu chưa rõ khác biệt, xem bài [pin lithium hay ắc quy chì trên xe điện khác gì](/xe-may/2026/10/11/pin-lithium-hay-ac-quy-chi-tren-xe-ien-khac-gi-khi-thue-i-lai/).
+3. **Xe dùng pin lithium hay ắc quy chì?** Nếu chưa rõ khác biệt, xem bài [pin lithium hay ắc quy chì trên xe điện khác gì](/xe-may/2026/10/11/pin-lithium-hay-ac-quy-chi-tren-xe-dien-khac-gi-khi-thue-di-lai/).
 4. **Pin có tháo rời được không?** Nếu pin tháo được, bạn có thể mang lên phòng sạc; nếu cố định, bạn cần chỗ để xe gần ổ điện.
 
 ## Số lần sạc: hỏi thế nào cho có ích
@@ -53,7 +53,7 @@ Câu "đầy pin đi được bao xa" chỉ có ích khi đi kèm hoàn cảnh. 
 - **Đo gần đây hay từ lúc pin còn mới?** Con số của năm đầu tiên thường không còn đúng với hiện tại.
 - **Mùa nào?** Trời nóng hay lạnh đều có thể làm pin xuống nhanh hơn bình thường.
 
-Sau đó, so câu trả lời với lộ trình hằng ngày của bạn. Đo quãng từ chân cầu Long Biên qua phố cổ tới Tây Hồ rồi quay về trên Google Maps; nếu xe chỉ vừa đủ, không dư cho hôm phải đi vòng vì tắc, hãy chọn xe khác hoặc tính sạc giữa ngày. Bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-uong-mot-lan-sac-cua-xe-may-ien/) giải thích vì sao con số ghi trên giấy thường khác ngoài đường.
+Sau đó, so câu trả lời với lộ trình hằng ngày của bạn. Đo quãng từ chân cầu Long Biên qua phố cổ tới Tây Hồ rồi quay về trên Google Maps; nếu xe chỉ vừa đủ, không dư cho hôm phải đi vòng vì tắc, hãy chọn xe khác hoặc tính sạc giữa ngày. Bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-duong-mot-lan-sac-cua-xe-may-dien/) giải thích vì sao con số ghi trên giấy thường khác ngoài đường.
 
 ## Khi pin yếu hoặc hỏng trong thời gian thuê thì ai chịu
 
@@ -83,7 +83,7 @@ Thuê dài ngày nên có nhịp kiểm tra định kỳ:
 - **Hỏi rõ giấy tờ và tiền cọc** trực tiếp, xin biên nhận cho mọi thứ bạn để lại.
 - **Xác nhận giá thuê.** Với xe máy điện, giá thuê theo tuần hay tháng cần liên hệ để xác nhận theo từng xe.
 
-Khi nhận xe, hãy chạy thử một vòng ngắn để đối chiếu với điều đã hỏi; cách thử nhanh có trong bài [thử xe máy điện mười phút lúc nhận](/xe-may/2026/10/11/thu-xe-may-ien-10-phut-luc-nhan-cach-nhan-ra-pin-cu-hoac-ong-co-yeu/). Sau vài tuần sử dụng, nếu thấy dấu hiệu bất thường, bài [pin xe điện chai sau kỳ thuê dài](/xe-may/2026/10/05/pin-xe-ien-chai-sau-ky-thue-dai-dau-hieu-nhan-biet/) giúp bạn nhận diện và trao đổi lại với tiệm.
+Khi nhận xe, hãy chạy thử một vòng ngắn để đối chiếu với điều đã hỏi; cách thử nhanh có trong bài [thử xe máy điện mười phút lúc nhận](/xe-may/2026/10/11/thu-xe-may-dien-10-phut-luc-nhan-cach-nhan-ra-pin-cu-hoac-dong-co-yeu/). Sau vài tuần sử dụng, nếu thấy dấu hiệu bất thường, bài [pin xe điện chai sau kỳ thuê dài](/xe-may/2026/10/05/pin-xe-dien-chai-sau-ky-thue-dai-dau-hieu-nhan-biet/) giúp bạn nhận diện và trao đổi lại với tiệm.
 
 ## Tóm lại
 

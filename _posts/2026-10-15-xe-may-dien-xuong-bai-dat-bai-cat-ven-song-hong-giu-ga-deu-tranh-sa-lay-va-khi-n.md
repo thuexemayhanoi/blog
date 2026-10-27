@@ -26,7 +26,7 @@ Kỹ thuật chung trên cát (ga đều, không dừng giữa vệt cát, tay l
 - **Xe nặng, khối pin nằm thấp.** Xe vững trên nhựa, nhưng một khi đã lún thì rất khó nhấc.
 - **Động cơ, pin và dây điện gần mặt đất.** Bùn nhão, vũng nước đọng là thứ cần tránh hơn hẳn so với xe xăng.
 
-Nếu xe có chế độ lái tiết kiệm, chuyển sang chế độ đó trước khi xuống bãi để lực kéo dịu hơn. Xem thêm bài [chế độ lái trên xe máy điện](/xe-may/2026/10/11/che-o-lai-eco-normal-sport-tren-xe-may-ien-khi-nao-dung-che-o-nao/).
+Nếu xe có chế độ lái tiết kiệm, chuyển sang chế độ đó trước khi xuống bãi để lực kéo dịu hơn. Xem thêm bài [chế độ lái trên xe máy điện](/xe-may/2026/10/11/che-do-lai-eco-normal-sport-tren-xe-may-dien-khi-nao-dung-che-do-nao/).
 
 ## Đọc lối xuống bãi trước khi đưa xe vào
 
@@ -75,7 +75,7 @@ Không nhấc đuôi xe giật mạnh để thoát hố, xe nặng dễ đổ v�
 
 ## Nước và bùn: không thử với xe điện
 
-Sau mưa, lối mòn ven bãi thường có vũng nước đọng. Nguyên tắc đơn giản: **không lội nước, không để động cơ hay hộp pin ngập**. Vũng nước chắn lối duy nhất thì quay lại. Ranh giới an toàn được nói kỹ trong bài [xe máy điện thuê qua vùng nước sâu](/xe-may/2026/10/11/xe-may-ien-thue-qua-vung-nuoc-sau-ranh-gioi-an-toan/). Bùn bám vào bánh và phanh cũng làm phanh kém ăn, nên ra tới đường nhựa hãy chạy chậm, bóp thử phanh vài lần trước khi hòa vào dòng xe trên đường Âu Cơ.
+Sau mưa, lối mòn ven bãi thường có vũng nước đọng. Nguyên tắc đơn giản: **không lội nước, không để động cơ hay hộp pin ngập**. Vũng nước chắn lối duy nhất thì quay lại. Ranh giới an toàn được nói kỹ trong bài [xe máy điện thuê qua vùng nước sâu](/xe-may/2026/10/11/xe-may-dien-thue-qua-vung-nuoc-sau-ranh-gioi-an-toan/). Bùn bám vào bánh và phanh cũng làm phanh kém ăn, nên ra tới đường nhựa hãy chạy chậm, bóp thử phanh vài lần trước khi hòa vào dòng xe trên đường Âu Cơ.
 
 ## Lên lại mặt đê và kiểm tra xe
 

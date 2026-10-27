@@ -66,7 +66,7 @@ Khi quay đầu, vẫn phải chuyển sang làn trái ở đoạn gần điểm
 - Rẽ trái từ làn phải khi đèn vừa chuyển xanh, cắt ngang mũi xe đi thẳng.
 - Đi ngược chiều một đoạn ngắn sát lề để tới điểm đến cho nhanh.
 
-Khi đèn xanh bật ở nút giao đông, cách xuất phát cho xe tăng tốc chậm có ở bài [xe 50cc tăng tốc chậm ở ngã tư đông: cách xuất phát khi đèn xanh bật](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-ong-cach-xuat-phat-khi-en-xanh-bat/ "Xe 50cc tăng tốc chậm ở ngã tư đông").
+Khi đèn xanh bật ở nút giao đông, cách xuất phát cho xe tăng tốc chậm có ở bài [xe 50cc tăng tốc chậm ở ngã tư đông: cách xuất phát khi đèn xanh bật](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-dong-cach-xuat-phat-khi-den-xanh-bat/ "Xe 50cc tăng tốc chậm ở ngã tư đông").
 
 ## Buổi tối và trời mưa
 

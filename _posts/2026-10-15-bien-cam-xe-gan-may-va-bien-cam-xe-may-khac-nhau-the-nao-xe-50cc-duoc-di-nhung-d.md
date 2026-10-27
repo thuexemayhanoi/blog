@@ -30,7 +30,7 @@ Nếu mắt chưa kịp nhìn mã hay chi tiết hình, hãy đọc thêm biển
 
 ## Xe 50cc thuộc nhóm nào trên biển báo
 
-Trong luật giao thông, xe 50cc thường được xếp vào nhóm **xe gắn máy**, tách biệt với xe mô tô có dung tích lớn hơn như các mẫu xe số, xe ga phổ biến. Phần lớn nội dung xe 50cc là gì đã có trong bài [xe 50cc là gì và đi được những đâu](/xe-may/2026/09/27/xe-50cc-la-gi-va-i-uoc-nhung-au/); ở đây chỉ cần nhớ một điều: khi đi xe 50cc, bạn là người lái xe gắn máy.
+Trong luật giao thông, xe 50cc thường được xếp vào nhóm **xe gắn máy**, tách biệt với xe mô tô có dung tích lớn hơn như các mẫu xe số, xe ga phổ biến. Phần lớn nội dung xe 50cc là gì đã có trong bài [xe 50cc là gì và đi được những đâu](/xe-may/2026/09/27/xe-50cc-la-gi-va-di-duoc-nhung-dau/); ở đây chỉ cần nhớ một điều: khi đi xe 50cc, bạn là người lái xe gắn máy.
 
 Từ đó suy ra cách đọc biển:
 
@@ -68,7 +68,7 @@ Riêng khu phố cổ Hoàn Kiếm và quanh hồ Hoàn Kiếm, nhiều phố c�
 - Đến đầu mỗi đường lớn, nhìn biển trước, nghe chỉ đường sau. Biển trên đường luôn có giá trị cao hơn lời chỉ dẫn của ứng dụng.
 - Khi phân vân, đi chậm sát lề phải, dừng ở chỗ an toàn để hỏi người dân hoặc cảnh sát giao thông thay vì đoán.
 
-Nhóm biển cấm xe máy thường gặp ở Hà Nội được tổng hợp trong bài [nhận biết biển cấm xe máy khi chạy đường Hà Nội](/an-toan-phap-ly/2026/10/05/nhan-biet-bien-cam-xe-may-khi-chay-uong-ha-noi/).
+Nhóm biển cấm xe máy thường gặp ở Hà Nội được tổng hợp trong bài [nhận biết biển cấm xe máy khi chạy đường Hà Nội](/an-toan-phap-ly/2026/10/05/nhan-biet-bien-cam-xe-may-khi-chay-duong-ha-noi/).
 
 ## Tóm lại
 

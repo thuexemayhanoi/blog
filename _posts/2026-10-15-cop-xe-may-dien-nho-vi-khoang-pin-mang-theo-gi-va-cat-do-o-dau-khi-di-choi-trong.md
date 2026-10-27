@@ -21,7 +21,7 @@ Mở cốp xe máy điện lần đầu, nhiều khách du lịch ngạc nhiên:
 
 Xe ga chạy xăng để bình xăng và động cơ ở phía dưới, phần gầm yên còn rộng nên cốp sâu. Trên xe máy điện, pin là bộ phận nặng và chiếm nhiều thể tích nhất. Tùy mẫu, pin có thể nằm dưới sàn để chân, nằm ngay dưới yên, hoặc là loại pin rời đặt trong cốp để tháo ra mang đi sạc. Với kiểu thứ hai và thứ ba, cốp gần như chỉ còn là phần khe hở quanh khối pin.
 
-Mỗi mẫu một khác, nên cách chắc nhất là mở cốp ngay lúc nhận xe và hỏi chủ xe: pin nằm ở đâu, phần nào trong cốp được để đồ, có chỗ nào không nên đè lên không. Nếu muốn hiểu thêm hai kiểu pin, bài [pin tháo rời hay pin cố định](/xe-may/2026/10/11/pin-thao-roi-hay-pin-co-inh-chon-xe-may-ien-nao-khi-thue-o-ha-noi/) giải thích khác biệt khi thuê.
+Mỗi mẫu một khác, nên cách chắc nhất là mở cốp ngay lúc nhận xe và hỏi chủ xe: pin nằm ở đâu, phần nào trong cốp được để đồ, có chỗ nào không nên đè lên không. Nếu muốn hiểu thêm hai kiểu pin, bài [pin tháo rời hay pin cố định](/xe-may/2026/10/11/pin-thao-roi-hay-pin-co-dinh-chon-xe-may-dien-nao-khi-thue-o-ha-noi/) giải thích khác biệt khi thuê.
 
 ## Cốp xe điện chứa được gì: chọn đồ trước khi ra khỏi nhà
 
@@ -68,7 +68,7 @@ Phần lớn khách đi chơi trong ngày thấy thoải mái nhất khi đeo m�
 Cốp xe điện nằm sát pin, nên có vài điều cần lưu ý hơn xe xăng:
 
 - **Không để đồ ướt hay chai nước lỏng nắp trong cốp.** Nếu áo mưa vừa dùng còn ướt, cuộn trong túi ni lông buộc kín hoặc treo móc phía trước cho khô gió, đừng đặt lên khoang pin.
-- **Không để sạc dự phòng, bật lửa hay bình xịt trong cốp cả ngày.** Hà Nội mùa hè, xe gửi ngoài nắng lâu thì cốp rất nóng. Bài [đồ không nên để trong cốp xe ga khi nắng nóng](/xe-may/2026/10/11/o-khong-nen-e-trong-cop-xe-ga-khi-o-nang-nong/) có danh sách chi tiết.
+- **Không để sạc dự phòng, bật lửa hay bình xịt trong cốp cả ngày.** Hà Nội mùa hè, xe gửi ngoài nắng lâu thì cốp rất nóng. Bài [đồ không nên để trong cốp xe ga khi nắng nóng](/xe-may/2026/10/11/do-khong-nen-de-trong-cop-xe-ga-khi-do-nang-nong/) có danh sách chi tiết.
 - **Không chèn vật cứng sắc cạnh** tì lên vỏ pin hay dây điện trong cốp.
 - **Đồ ăn có mùi, có nước** như xôi, bánh mì pa tê để túi riêng, mang theo người hoặc ăn sớm.
 

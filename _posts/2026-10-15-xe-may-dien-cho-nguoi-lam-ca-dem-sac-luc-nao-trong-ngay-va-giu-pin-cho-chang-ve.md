@@ -23,7 +23,7 @@ Người làm giờ hành chính thường cắm sạc buổi tối, sáng ra r�
 
 Vì vậy, nguyên tắc đầu tiên là: chỉ sạc khi có người tỉnh táo ở gần. Có thể là chính bạn, hoặc người nhà đang ở nhà và biết cách rút sạc khi có dấu hiệu lạ. Phần còn lại của lịch sạc được xếp quanh nguyên tắc này.
 
-Nếu bạn đang cân nhắc thuê xe cho cả tháng làm đêm, bài [thuê xe máy theo tháng cho người đi làm ca đêm](/thue-xe/2026/10/05/thue-xe-may-theo-thang-cho-nguoi-i-lam-ca-em/) nói về chọn xe và hợp đồng. Bài này chỉ tập trung vào chuyện pin.
+Nếu bạn đang cân nhắc thuê xe cho cả tháng làm đêm, bài [thuê xe máy theo tháng cho người đi làm ca đêm](/thue-xe/2026/10/05/thue-xe-may-theo-thang-cho-nguoi-di-lam-ca-dem/) nói về chọn xe và hợp đồng. Bài này chỉ tập trung vào chuyện pin.
 
 ## Sạc xe điện khi làm ca đêm: chọn khung giờ nào
 
@@ -36,7 +36,7 @@ Với phần lớn người làm đêm, khung giờ hợp lý nhất là **sau k
 
 Nếu nhà có người ở nhà ban ngày, họ có thể trông giúp lúc bạn ngủ, nhưng hãy chỉ cho họ cách rút phích và những dấu hiệu cần để ý: pin nóng rát, mùi khét, tiếng lạ, đèn báo lỗi. Chỉ dùng bộ sạc đi kèm xe, cắm thẳng vào ổ tường, đặt trên nền cứng, khô, thoáng, xa rèm và giường.
 
-Còn chuyện cắm sạc ở nơi làm việc, ví dụ phòng bảo vệ hay bãi xe nhân viên, thì phải hỏi rõ người quản lý trước. Cách hỏi và những gì cần thỏa thuận có trong bài [xe máy điện cho người đi làm: sạc ở cơ quan](/xe-may/2026/10/02/xe-may-ien-cho-nguoi-i-lam-sac-o-co-quan-va-quy-uong/). Trong ca đêm, đừng cắm sạc ở chỗ bạn không thể quay lại xem thường xuyên.
+Còn chuyện cắm sạc ở nơi làm việc, ví dụ phòng bảo vệ hay bãi xe nhân viên, thì phải hỏi rõ người quản lý trước. Cách hỏi và những gì cần thỏa thuận có trong bài [xe máy điện cho người đi làm: sạc ở cơ quan](/xe-may/2026/10/02/xe-may-dien-cho-nguoi-di-lam-sac-o-co-quan-va-quy-duong/). Trong ca đêm, đừng cắm sạc ở chỗ bạn không thể quay lại xem thường xuyên.
 
 ## Giữ pin dự phòng cho chặng về lúc khuya
 
@@ -49,7 +49,7 @@ Vì vậy, hãy coi chặng về là chặng phải có pin dư, không phải c
 - **Không dùng xe chạy việc vặt giữa ca** nếu chưa tính phần pin cho chặng về.
 - **Trời lạnh, trời mưa, chở thêm người hay đồ** thì pin thường hao nhanh hơn, nên giữ dư hơn.
 
-Biết đọc đồng hồ cũng quan trọng. Nhiều mẫu xe báo pin theo vạch, và vạch cuối thường tụt nhanh hơn vạch đầu. Bài [đọc mức pin xe máy điện thuê trên bảng đồng hồ](/xe-may/2026/10/07/pin-xe-may-ien-thue-bao-sap-o-au-tren-bang-ong-ho/) giải thích kỹ chuyện này.
+Biết đọc đồng hồ cũng quan trọng. Nhiều mẫu xe báo pin theo vạch, và vạch cuối thường tụt nhanh hơn vạch đầu. Bài [đọc mức pin xe máy điện thuê trên bảng đồng hồ](/xe-may/2026/10/07/pin-xe-may-dien-thue-bao-sap-o-dau-tren-bang-dong-ho/) giải thích kỹ chuyện này.
 
 ## Đi xe điện về khuya Hà Nội: chọn đường sáng, có chỗ dừng
 
@@ -64,7 +64,7 @@ Mấy thói quen an toàn khi đi đêm:
 - **Chạy tốc độ vừa phải.** Đường vắng dễ khiến mình tăng ga, nhưng xe điện chạy êm, người khác khó nghe thấy bạn tới.
 - **Báo cho người nhà** giờ dự kiến về đến nhà.
 
-Những lưu ý chung về tuyến về sau ca đêm cũng được tổng hợp trong bài [thuê xe máy đi tan ca đêm: an toàn và tuyến về](/thue-xe/2026/10/11/thue-xe-may-i-tan-ca-em-an-toan-va-tuyen-ve/).
+Những lưu ý chung về tuyến về sau ca đêm cũng được tổng hợp trong bài [thuê xe máy đi tan ca đêm: an toàn và tuyến về](/thue-xe/2026/10/11/thue-xe-may-di-tan-ca-dem-an-toan-va-tuyen-ve/).
 
 ## Mệt thì nghỉ, đừng cố về
 

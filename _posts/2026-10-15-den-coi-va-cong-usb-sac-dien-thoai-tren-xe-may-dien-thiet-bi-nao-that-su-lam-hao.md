@@ -61,7 +61,7 @@ Xe điện cho lực kéo ngay khi vặn ga, nên rất dễ có thói quen vọ
 
 ### Tải nặng
 
-Chở thêm người, thêm đồ, động cơ phải làm việc nhiều hơn ở mọi đoạn đường. Dấu hiệu và cách quan sát khi chở nặng được nói riêng trong bài [xe máy điện báo pin giảm nhanh khi chở nặng](/xe-may/2026/10/11/xe-may-ien-bao-pin-giam-nhanh-khi-cho-nang-can-quan-sat-gi/).
+Chở thêm người, thêm đồ, động cơ phải làm việc nhiều hơn ở mọi đoạn đường. Dấu hiệu và cách quan sát khi chở nặng được nói riêng trong bài [xe máy điện báo pin giảm nhanh khi chở nặng](/xe-may/2026/10/11/xe-may-dien-bao-pin-giam-nhanh-khi-cho-nang-can-quan-sat-gi/).
 
 ### Dốc cầu và dốc hầm
 

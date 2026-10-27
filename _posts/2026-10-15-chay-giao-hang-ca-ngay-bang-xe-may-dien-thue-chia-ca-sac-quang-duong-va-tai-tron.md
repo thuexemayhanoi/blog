@@ -41,7 +41,7 @@ Một cách chia dễ áp dụng:
 3. **Chặng chiều:** sau khi sạc thêm, nhận đơn xa hơn hoặc đơn qua sông như sang Gia Lâm, Long Biên qua cầu Chương Dương hay cầu Vĩnh Tuy.
 4. **Chặng tối:** chỉ nhận đơn gần nhà, giữ phần pin dự phòng cho đường về.
 
-Hãy đếm theo phần trăm pin trên đồng hồ: ghi lại mức pin lúc xuất phát và sau mỗi chặng. Sau vài ngày bạn sẽ biết rõ một chặng phố cổ hay một chặng qua sông ngốn bao nhiêu pin với đúng chiếc xe và đúng khối hàng của mình. Bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-uong-mot-lan-sac-cua-xe-may-ien/) giải thích vì sao quãng đường thực tế thay đổi theo tải, tốc độ và thời tiết.
+Hãy đếm theo phần trăm pin trên đồng hồ: ghi lại mức pin lúc xuất phát và sau mỗi chặng. Sau vài ngày bạn sẽ biết rõ một chặng phố cổ hay một chặng qua sông ngốn bao nhiêu pin với đúng chiếc xe và đúng khối hàng của mình. Bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-duong-mot-lan-sac-cua-xe-may-dien/) giải thích vì sao quãng đường thực tế thay đổi theo tải, tốc độ và thời tiết.
 
 ## Xe điện chạy cả ngày sạc mấy lần và sạc vào giờ nào
 
@@ -52,7 +52,7 @@ Với phần lớn người chạy đơn ở nội thành, có hai khoảng như
 - **Sau đợt đơn trưa:** thường đơn thưa đi một lúc. Đây là lúc ăn trưa, nghỉ lưng và cắm sạc.
 - **Giữa chiều, trước giờ tan tầm:** thêm một lần sạc ngắn để có đủ pin cho đợt đơn tối.
 
-Chỗ sạc nên tính trước. Nếu phòng trọ gần khu chạy đơn, quay về sạc là đơn giản nhất; nếu không, có thể dùng trạm sạc công cộng, hoặc hỏi quán ăn, quán cà phê quen xem họ có cho cắm nhờ không. Đừng tự ý cắm vào ổ điện không rõ chất lượng ở bãi giữ xe, và không để xe sạc mà không ai trông. Cách dùng trạm sạc được viết kỹ trong bài [sạc xe máy điện thuê ở trạm sạc công cộng](/xe-may/2026/10/09/sac-xe-may-ien-thue-o-tram-sac-cong-cong-nhu-the-nao/).
+Chỗ sạc nên tính trước. Nếu phòng trọ gần khu chạy đơn, quay về sạc là đơn giản nhất; nếu không, có thể dùng trạm sạc công cộng, hoặc hỏi quán ăn, quán cà phê quen xem họ có cho cắm nhờ không. Đừng tự ý cắm vào ổ điện không rõ chất lượng ở bãi giữ xe, và không để xe sạc mà không ai trông. Cách dùng trạm sạc được viết kỹ trong bài [sạc xe máy điện thuê ở trạm sạc công cộng](/xe-may/2026/10/09/sac-xe-may-dien-thue-o-tram-sac-cong-cong-nhu-the-nao/).
 
 Sạc nhiều lần ngắn trong ngày thường dễ xoay xở hơn đợi pin cạn rồi sạc một lần dài. Pin không bị kéo xuống quá thấp, còn bạn luôn có một khoảng dư khi gặp đơn bất ngờ.
 
@@ -64,7 +64,7 @@ Những nguyên tắc nên giữ suốt ca:
 
 - **Thùng hoặc giá chở hàng phải gắn chắc.** Lắc thử bằng tay trước khi chạy. Thùng lỏng sẽ kéo lệch xe mỗi lần ôm cua hay phanh.
 - **Không che đèn hậu, đèn xi nhan và biển số.** Thùng quá cỡ hoặc đặt lệch rất dễ che mất phần này.
-- **Không chở quá kích thước theo quy định.** Hàng chồng cao, chìa ra hai bên hay kéo dài ra sau đều làm xe khó kiểm soát. Quy định chi tiết nằm trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/).
+- **Không chở quá kích thước theo quy định.** Hàng chồng cao, chìa ra hai bên hay kéo dài ra sau đều làm xe khó kiểm soát. Quy định chi tiết nằm trong bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/).
 - **Hàng nặng đặt thấp và sát người lái.** Trọng tâm càng thấp, xe càng vững.
 
 Chở nặng còn làm pin xuống nhanh hơn rõ rệt, nhất là khi lên dốc cầu hay đường dẫn lên đê. Cách buộc và xếp thùng nặng cho chắc được trình bày trong bài [chở thùng hàng nặng trên xe máy an toàn](/ky-nang/2026/09/30/cho-thung-hang-nang-tren-xe-may-an-toan/).
@@ -78,7 +78,7 @@ Ngoài chuyện chia chặng và sạc, cách lái quyết định khá nhiều 
 - **Giữ lốp đủ hơi.** Lốp non làm xe nặng và hao pin. Kiểm tra mỗi sáng trước khi nhận đơn.
 - **Ngày mưa, chạy chậm và tránh chỗ ngập sâu.** Đường ngập ở một số tuyến khi mưa lớn là rủi ro với cả pin lẫn hàng.
 
-Các mẹo giữ pin khi lái được tổng hợp trong bài [cách lái tiết kiệm pin xe máy điện](/xe-may/2026/10/11/cach-lai-tiet-kiem-pin-xe-may-ien-toc-o-eu-phanh-som-lop-u-hoi/).
+Các mẹo giữ pin khi lái được tổng hợp trong bài [cách lái tiết kiệm pin xe máy điện](/xe-may/2026/10/11/cach-lai-tiet-kiem-pin-xe-may-dien-toc-do-deu-phanh-som-lop-du-hoi/).
 
 ## Cuối ngày: trả xe gọn và báo lại tình trạng
 

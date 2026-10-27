@@ -37,7 +37,7 @@ Trước khi rời cửa hàng ở Long Biên, nên làm ba việc:
 2. Nếu xe chuyển pin bằng tay, nhờ chủ xe làm mẫu một lần rồi tự làm lại một lần.
 3. Chụp ảnh màn hình đồng hồ lúc nhận xe để sau này so sánh.
 
-Những biểu tượng cảnh báo khác trên mặt đồng hồ được giải thích trong bài [đèn báo lỗi và biểu tượng trên đồng hồ xe máy điện](/xe-may/2026/10/11/en-bao-loi-va-bieu-tuong-tren-ong-ho-xe-may-ien-oc-the-nao/). Còn cách nhận biết mức pin sắp cạn đang hiện ở đâu thì xem bài [pin xe máy điện thuê báo sắp hết ở đâu trên bảng đồng hồ](/xe-may/2026/10/07/pin-xe-may-ien-thue-bao-sap-o-au-tren-bang-ong-ho/).
+Những biểu tượng cảnh báo khác trên mặt đồng hồ được giải thích trong bài [đèn báo lỗi và biểu tượng trên đồng hồ xe máy điện](/xe-may/2026/10/11/den-bao-loi-va-bieu-tuong-tren-dong-ho-xe-may-dien-doc-the-nao/). Còn cách nhận biết mức pin sắp cạn đang hiện ở đâu thì xem bài [pin xe máy điện thuê báo sắp hết ở đâu trên bảng đồng hồ](/xe-may/2026/10/07/pin-xe-may-dien-thue-bao-sap-o-dau-tren-bang-dong-ho/).
 
 ## Sạc cả hai pin: trên xe hay tháo ra
 
@@ -50,7 +50,7 @@ Vài nguyên tắc chung khi sạc:
 - **Tháo, lắp pin khi xe đã tắt khóa điện.** Cầm pin chắc tay, không để rơi, không để pin ướt.
 - **Sạc ở chỗ thoáng, có người trông.** Tránh sạc qua đêm sát giường hay lối thoát hiểm trong phòng trọ.
 
-Chi tiết về sạc trong phòng trọ nằm ở bài [sạc pin qua đêm nơi trọ an toàn thế nào](/xe-may/2026/10/03/sac-pin-qua-em-noi-tro-an-toan-the-nao/).
+Chi tiết về sạc trong phòng trọ nằm ở bài [sạc pin qua đêm nơi trọ an toàn thế nào](/xe-may/2026/10/03/sac-pin-qua-dem-noi-tro-an-toan-the-nao/).
 
 ## Lên lịch dùng pin thứ hai cho ngày đi xa
 
@@ -61,7 +61,7 @@ Cái lợi lớn nhất của pin thứ hai xe máy điện là cho bạn một 
 3. **Ghi lại mức pin sau mỗi chặng.** Sau vài chặng đầu bạn sẽ biết mỗi pin của chiếc xe này đi được bao xa với tải và tốc độ của mình.
 4. **Rẽ về khi tổng pin còn khoảng một phần ba.** Phần dư này dành cho gió ngược, đường vòng do ngập, hoặc dốc đường dẫn lên cầu.
 
-Với xe dùng song song, hai pin xuống cùng nhau nên bạn chỉ cần canh mức tổng. Với xe chuyển pin, hãy chú ý thời điểm chuyển, vì đó là dấu hiệu pin đầu đã cạn và bạn chỉ còn lại năng lượng của khay kia. Người hay chạy dọc đê có thể đọc thêm bài [xe máy điện chạy đường đê dài: tính pin thế nào](/xe-may/2026/10/03/xe-may-ien-chay-uong-e-dai-tinh-pin-the-nao/), bài này tập trung vào cách canh mốc trên đường đê.
+Với xe dùng song song, hai pin xuống cùng nhau nên bạn chỉ cần canh mức tổng. Với xe chuyển pin, hãy chú ý thời điểm chuyển, vì đó là dấu hiệu pin đầu đã cạn và bạn chỉ còn lại năng lượng của khay kia. Người hay chạy dọc đê có thể đọc thêm bài [xe máy điện chạy đường đê dài: tính pin thế nào](/xe-may/2026/10/03/xe-may-dien-chay-duong-de-dai-tinh-pin-the-nao/), bài này tập trung vào cách canh mốc trên đường đê.
 
 ## Những sai lầm hay gặp với khay pin thứ hai
 
@@ -70,7 +70,7 @@ Với xe dùng song song, hai pin xuống cùng nhau nên bạn chỉ cần canh
 - **Đổi vị trí pin tùy ý.** Một số xe quy định pin nào lắp khay nào. Đừng tự đổi nếu chủ xe chưa hướng dẫn.
 - **Để pin tháo rời ngoài nắng.** Pin nóng quá sẽ sạc chậm và có thể giảm tuổi thọ.
 
-Nếu đã lỡ hết cả hai pin giữa đường, cách xử lý từng bước được viết trong bài [xe máy điện hết pin giữa đường xử lý thế nào](/xe-may/2026/10/10/xe-may-ien-het-pin-giua-uong-xu-ly-the-nao/).
+Nếu đã lỡ hết cả hai pin giữa đường, cách xử lý từng bước được viết trong bài [xe máy điện hết pin giữa đường xử lý thế nào](/xe-may/2026/10/10/xe-may-dien-het-pin-giua-duong-xu-ly-the-nao/).
 
 ## Câu hỏi nên hỏi chủ xe khi thuê xe điện hai khay pin
 

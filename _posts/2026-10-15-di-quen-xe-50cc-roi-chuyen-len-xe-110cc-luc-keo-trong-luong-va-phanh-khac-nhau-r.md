@@ -19,7 +19,7 @@ Nhiều người ở Hà Nội đi xe 50cc từ thời học sinh, rồi khi đ�
 
 ## Giấy tờ: xe 110cc cần bằng A1
 
-Xe 50cc là xe gắn máy, còn xe 110cc như Wave là xe mô tô, và người lái cần có giấy phép lái xe hạng A1. Nếu bạn mới chỉ đi xe 50cc mà chưa có bằng, đừng chuyển lên xe lớn hơn cho tới khi có bằng. Những điều cơ bản về giấy tờ khi đi xe 50cc có ở bài [có cần bằng lái khi đi xe 50cc không](/xe-may/2026/09/27/co-can-bang-lai-khi-i-xe-50cc-khong/ "Có cần bằng lái khi đi xe 50cc không"). Khi thuê xe 110cc, mang theo bằng lái và giấy tờ tùy thân để cửa hàng kiểm tra.
+Xe 50cc là xe gắn máy, còn xe 110cc như Wave là xe mô tô, và người lái cần có giấy phép lái xe hạng A1. Nếu bạn mới chỉ đi xe 50cc mà chưa có bằng, đừng chuyển lên xe lớn hơn cho tới khi có bằng. Những điều cơ bản về giấy tờ khi đi xe 50cc có ở bài [có cần bằng lái khi đi xe 50cc không](/xe-may/2026/09/27/co-can-bang-lai-khi-di-xe-50cc-khong/ "Có cần bằng lái khi đi xe 50cc không"). Khi thuê xe 110cc, mang theo bằng lái và giấy tờ tùy thân để cửa hàng kiểm tra.
 
 ## Từ xe 50cc lên xe 110cc: lực kéo và tay ga
 

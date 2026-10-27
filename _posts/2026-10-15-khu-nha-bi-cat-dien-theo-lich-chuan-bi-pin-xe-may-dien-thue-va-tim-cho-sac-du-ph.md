@@ -31,7 +31,7 @@ Khi đã biết lịch, ghi rõ giờ bắt đầu, giờ dự kiến có điệ
 
 Nguyên tắc đơn giản nhất: đừng để đến sáng hôm cắt điện mới nhớ ra pin còn ít. Tối hôm trước hãy:
 
-1. **Xem đồng hồ pin và quãng đường ngày mai.** Cộng các chặng sẽ đi: đi làm, đón con, đi chợ. Nếu không chắc pin còn chạy được bao xa, xem lại cách đọc ở bài [đồng hồ pin xe điện nhảy không đều](/xe-may/2026/10/11/ong-ho-pin-xe-ien-nhay-khong-eu-cach-uoc-luong-km-con-lai-cho-ung/).
+1. **Xem đồng hồ pin và quãng đường ngày mai.** Cộng các chặng sẽ đi: đi làm, đón con, đi chợ. Nếu không chắc pin còn chạy được bao xa, xem lại cách đọc ở bài [đồng hồ pin xe điện nhảy không đều](/xe-may/2026/10/11/dong-ho-pin-xe-dien-nhay-khong-deu-cach-uoc-luong-km-con-lai-cho-dung/).
 2. **Cắm sạc đủ thời gian để đầy hẳn.** Nếu điện bị cắt từ sớm, sạc từ tối và để ý rút khi pin đã đầy, thay vì để qua đêm không ai trông.
 3. **Sạc ở ổ quen, đã dùng ổn định.** Đây không phải lúc thử một ổ cắm lạ hay dây nối mới mua.
 4. **Rút sạc trước giờ cắt điện.** Khi điện có lại, lưới thường chập chờn vài lần trước khi ổn định. Rút sạc ra từ trước, chờ điện ổn định hẳn rồi hãy cắm lại.
@@ -44,10 +44,10 @@ Ngày cắt điện, pin trong xe là toàn bộ "ngân sách" của bạn. Vài
 
 - **Gom việc vào một chuyến.** Đi làm về thì ghé chợ luôn, không quay ra quay vào.
 - **Hoãn chuyến xa.** Một vòng sang Đông Anh hay đi Bát Tràng nên dời sang hôm khác, khi đã sạc lại được bình thường.
-- **Chạy đều ga, phanh sớm.** Tăng tốc gấp, phanh dồn là cách hao pin nhanh nhất. Bài [cách lái tiết kiệm pin xe máy điện](/xe-may/2026/10/11/cach-lai-tiet-kiem-pin-xe-may-ien-toc-o-eu-phanh-som-lop-u-hoi/) có thêm mẹo cụ thể.
+- **Chạy đều ga, phanh sớm.** Tăng tốc gấp, phanh dồn là cách hao pin nhanh nhất. Bài [cách lái tiết kiệm pin xe máy điện](/xe-may/2026/10/11/cach-lai-tiet-kiem-pin-xe-may-dien-toc-do-deu-phanh-som-lop-du-hoi/) có thêm mẹo cụ thể.
 - **Không đi xa khi pin đã thấp.** Khi đồng hồ báo pin yếu, đi thẳng về chỗ có thể sạc chứ đừng ghé thêm điểm nào nữa.
 
-Nếu lỡ cạn pin giữa đường, đừng cố chạy đến khi xe tắt hẳn ở giữa làn. Tấp vào lề an toàn và xem các bước trong bài [xe máy điện hết pin giữa đường xử lý thế nào](/xe-may/2026/10/10/xe-may-ien-het-pin-giua-uong-xu-ly-the-nao/).
+Nếu lỡ cạn pin giữa đường, đừng cố chạy đến khi xe tắt hẳn ở giữa làn. Tấp vào lề an toàn và xem các bước trong bài [xe máy điện hết pin giữa đường xử lý thế nào](/xe-may/2026/10/10/xe-may-dien-het-pin-giua-duong-xu-ly-the-nao/).
 
 ## Mất điện không sạc được xe điện: tìm chỗ sạc dự phòng
 
@@ -59,7 +59,7 @@ Gọi cửa hàng số 0942467674, báo khu nhà đang bị cắt điện và pi
 
 ### Trạm sạc công cộng
 
-Hà Nội có trạm sạc công cộng cho xe máy điện, nhưng vị trí và giờ hoạt động mỗi nơi một khác. Trước khi đến, kiểm tra trạm có hợp loại xe và đầu sạc của bạn không, đang hoạt động không. Cách dùng trạm được nói rõ ở bài [sạc xe máy điện thuê ở trạm sạc công cộng](/xe-may/2026/10/09/sac-xe-may-ien-thue-o-tram-sac-cong-cong-nhu-the-nao/), còn bài [trạm đổi pin và ổ sạc ở Hà Nội](/xe-may/2026/10/11/sac-xe-may-ien-thue-o-ha-noi-tram-oi-pin-va-o-sac/) giúp phân biệt các hình thức sạc.
+Hà Nội có trạm sạc công cộng cho xe máy điện, nhưng vị trí và giờ hoạt động mỗi nơi một khác. Trước khi đến, kiểm tra trạm có hợp loại xe và đầu sạc của bạn không, đang hoạt động không. Cách dùng trạm được nói rõ ở bài [sạc xe máy điện thuê ở trạm sạc công cộng](/xe-may/2026/10/09/sac-xe-may-dien-thue-o-tram-sac-cong-cong-nhu-the-nao/), còn bài [trạm đổi pin và ổ sạc ở Hà Nội](/xe-may/2026/10/11/sac-xe-may-dien-thue-o-ha-noi-tram-doi-pin-va-o-sac/) giúp phân biệt các hình thức sạc.
 
 ### Quán cà phê, chỗ làm có ổ cắm
 

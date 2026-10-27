@@ -42,7 +42,7 @@ Nhiều chiếc xe cho thuê có tay ga, lúc chỉ để motor kéo thì chân 
 - **Nên đi:** giày thể thao, giày vải đế cao su, sandal có quai hậu ôm gót.
 - **Không nên đi:** dép lê, dép tông kẹp ngón, guốc, giày đế da phẳng, giày cao gót. Dép lê vừa trượt trên bàn đạp, vừa dễ văng khỏi chân khi bạn chống chân xuống lúc dừng đèn đỏ.
 
-Nếu bạn ra ngoài với đôi dép lê, cách đơn giản nhất là ghé về đổi giày rồi mới đi tiếp. Chuyện ăn mặc và giày dép khi đạp xe được phân tích kỹ hơn trong bài [mặc gì khi đạp xe điện](/xe-may/2026/10/11/mac-gi-khi-ap-xe-ien-vay-dep-le-quan-ong-rong-co-vuong-khong/).
+Nếu bạn ra ngoài với đôi dép lê, cách đơn giản nhất là ghé về đổi giày rồi mới đi tiếp. Chuyện ăn mặc và giày dép khi đạp xe được phân tích kỹ hơn trong bài [mặc gì khi đạp xe điện](/xe-may/2026/10/11/mac-gi-khi-dap-xe-dien-vay-dep-le-quan-ong-rong-co-vuong-khong/).
 
 ## Qua chỗ xóc, chỗ ướt: giữ chân chắc trên bàn đạp
 
@@ -69,13 +69,13 @@ Tuyệt đối không kéo lê chân xuống mặt đường khi xe còn chạy.
 
 ## Cách đạp xe đạp điện đỡ mỏi khi đi cả buổi
 
-Đặt chân đúng là nửa câu chuyện; nửa còn lại là chiều cao yên và nhịp đạp. Yên quá thấp làm gối gập sâu, quá cao làm hông lắc qua lại và chân phải duỗi với tới bàn đạp, dễ trượt chân ở vòng dưới. Cách chỉnh yên cho vừa người được hướng dẫn trong bài [chỉnh yên và tay lái xe đạp điện](/xe-may/2026/10/11/chinh-yen-va-tay-lai-xe-ap-ien-cho-nguoi-thap-nguoi-cao-o-moi-goi-moi-lung/).
+Đặt chân đúng là nửa câu chuyện; nửa còn lại là chiều cao yên và nhịp đạp. Yên quá thấp làm gối gập sâu, quá cao làm hông lắc qua lại và chân phải duỗi với tới bàn đạp, dễ trượt chân ở vòng dưới. Cách chỉnh yên cho vừa người được hướng dẫn trong bài [chỉnh yên và tay lái xe đạp điện](/xe-may/2026/10/11/chinh-yen-va-tay-lai-xe-dap-dien-cho-nguoi-thap-nguoi-cao-do-moi-goi-moi-lung/).
 
 Một vài thói quen giúp chân bớt mỏi:
 
 - Đạp nhẹ và đều, để motor gánh phần nặng, thay vì đạp mạnh từng cú rồi nghỉ.
 - Dồn lực ở nửa trên vòng đạp, khi bàn đạp đi từ trên xuống phía trước; nửa dưới chỉ để chân đi theo.
-- Lên dốc cầu hay dốc đê thì tăng mức trợ lực trước khi xe chậm lại, đừng đợi đến lúc chân ì mới tăng. Cách phối hợp này có trong bài [lên dốc bằng xe đạp điện](/xe-may/2026/10/11/len-doc-bang-xe-ap-ien-giu-a-ap-phu-cung-motor-e-o-nang-chan/).
+- Lên dốc cầu hay dốc đê thì tăng mức trợ lực trước khi xe chậm lại, đừng đợi đến lúc chân ì mới tăng. Cách phối hợp này có trong bài [lên dốc bằng xe đạp điện](/xe-may/2026/10/11/len-doc-bang-xe-dap-dien-giu-da-dap-phu-cung-motor-de-do-nang-chan/).
 
 ## Thử ở chỗ vắng trước khi ra phố đông
 

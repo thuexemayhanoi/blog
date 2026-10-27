@@ -39,13 +39,13 @@ Những điều về luật tốc độ cần nhớ trên đường đi:
 - Xe gắn máy không được đi cao tốc. Làn chính Đại lộ Thăng Long cũng cấm xe máy, nếu bản đồ gợi ý lên đó thì chọn lại tuyến.
 - Đây là thông tin tham khảo, quy định có thể thay đổi, hãy theo biển báo thực tế trên đường.
 
-Bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/) giải thích kỹ hơn vì sao ứng dụng bản đồ đôi khi dẫn sai cho xe nhỏ.
+Bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/) giải thích kỹ hơn vì sao ứng dụng bản đồ đôi khi dẫn sai cho xe nhỏ.
 
 ## Giữ nhịp xe nhỏ trên các trục lớn phía tây nam
 
 Trên Nguyễn Trãi hay Quang Trung, bạn sẽ đi chung với xe khách, xe ben và rất nhiều xe máy lớn. Xe 50cc tăng tốc chậm, nên cách an toàn nhất là chủ động đứng ngoài cuộc đua: đi làn sát lề phải, giữ khoảng cách dài với xe phía trước và để người khác vượt.
 
-Khi gặp ngã tư lớn, đừng cố lao lên đầu hàng chờ. Đứng sau vài xe, đợi dòng xe đầu đi rồi mới bám theo, như vậy bạn không bị xe phía sau ép khi đèn vừa chuyển. Nếu chưa quen, đọc thêm cách [xuất phát khi xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-ong-cach-xuat-phat-khi-en-xanh-bat/).
+Khi gặp ngã tư lớn, đừng cố lao lên đầu hàng chờ. Đứng sau vài xe, đợi dòng xe đầu đi rồi mới bám theo, như vậy bạn không bị xe phía sau ép khi đèn vừa chuyển. Nếu chưa quen, đọc thêm cách [xuất phát khi xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-dong-cach-xuat-phat-khi-den-xanh-bat/).
 
 Đoạn gần Kiến Hưng có khu đô thị mới xen đường làng cũ, mặt đường đổi liên tục, nên giảm tốc qua gờ và nắp cống.
 
@@ -85,4 +85,4 @@ Nếu mua dao, kéo hay nông cụ, hãy xin chủ xưởng bọc lưỡi kỹ b
 
 ## Kết lại
 
-Một chuyến xe 50cc tới Đa Sỹ dễ chịu khi bạn chọn đúng trục đường cho xe nhỏ, giữ 40 km/h và tránh các tuyến cấm, đi chậm trong ngõ có xe chở sắt, và ghé vào giữa buổi khi lò đang làm. Nếu muốn ghép thêm một điểm làng nghề gần đó, xem bài [xe 50cc đi làng lụa Vạn Phúc](/xe-may/2026/10/11/xe-50cc-i-lang-lua-van-phuc-ha-ong-uong-i-quang-uong-va-gio-nen-i/). Để xác nhận xe 50cc còn trống và giá, bạn liên hệ tiệm. Các bài khác về loại xe này nằm ở mục [xe 50cc](/xe-may/xe-50cc/), còn kinh nghiệm chọn và dùng xe nói chung có ở chuyên mục [xe máy](/xe-may/).
+Một chuyến xe 50cc tới Đa Sỹ dễ chịu khi bạn chọn đúng trục đường cho xe nhỏ, giữ 40 km/h và tránh các tuyến cấm, đi chậm trong ngõ có xe chở sắt, và ghé vào giữa buổi khi lò đang làm. Nếu muốn ghép thêm một điểm làng nghề gần đó, xem bài [xe 50cc đi làng lụa Vạn Phúc](/xe-may/2026/10/11/xe-50cc-di-lang-lua-van-phuc-ha-dong-duong-di-quang-duong-va-gio-nen-di/). Để xác nhận xe 50cc còn trống và giá, bạn liên hệ tiệm. Các bài khác về loại xe này nằm ở mục [xe 50cc](/xe-may/xe-50cc/), còn kinh nghiệm chọn và dùng xe nói chung có ở chuyên mục [xe máy](/xe-may/).
