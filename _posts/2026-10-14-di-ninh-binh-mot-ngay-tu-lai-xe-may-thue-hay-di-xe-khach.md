@@ -41,7 +41,7 @@ Ngược lại, nếu bạn từng chạy những chuyến ngoại thành dài n
 
 Với xe máy, giờ đi phụ thuộc lúc bạn nhận được xe. Tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở cửa từ 09:00 đến 21:00 và không giao xe ngoài khung giờ này. Muốn đi sớm, cách hợp lý là nhận xe từ chiều hôm trước, gửi xe ở chỗ ở qua đêm rồi sáng hôm sau xuất phát trước giờ cao điểm. Thời gian và chi phí giao nhận, nếu cần, nên hỏi rõ trước khi đặt.
 
-Xuất phát sớm giúp bạn ra khỏi các trục ùn như Giải Phóng, Pháp Vân trước khi xe đông. Chiều về, cố gắng rời Ninh Bình khi trời còn sáng để không phải chạy quốc lộ trong bóng tối; phần này được bàn kỹ trong bài [chạy xe đêm từ Hà Nội về Ninh Bình an toàn thế nào](/cung-duong/2026/10/05/chay-xe-em-tu-ha-noi-ve-ninh-binh-an-toan-the-nao/).
+Xuất phát sớm giúp bạn ra khỏi các trục ùn như Giải Phóng, Pháp Vân trước khi xe đông. Chiều về, cố gắng rời Ninh Bình khi trời còn sáng để không phải chạy quốc lộ trong bóng tối; phần này được bàn kỹ trong bài [chạy xe đêm từ Hà Nội về Ninh Bình an toàn thế nào](/cung-duong/2026/10/05/chay-xe-dem-tu-ha-noi-ve-ninh-binh-an-toan-the-nao/).
 
 Với xe khách, giờ của bạn gắn vào lịch nhà xe. Chuyến sớm thì có, nhưng chuyến về là chỗ cần cẩn thận: hãy hỏi trước giờ chuyến cuối và điểm đón, đừng để tới lúc ra đường mới biết. Lỡ chuyến về ở một thành phố lạ khiến cả ngày đẹp trời thành một buổi tối vội vã.
 
@@ -77,6 +77,6 @@ Nếu ngày bạn chọn có khả năng mưa nhiều, xe khách cộng thuê xe
 
 **Phương án lai:** đi xe khách xuống Ninh Bình rồi thuê xe tại chỗ. Bạn được chủ động lúc tham quan mà không phải chạy quốc lộ hai chiều.
 
-Nếu quyết định tự lái, hãy đọc thêm bài [Hà Nội đi Tam Cốc, Tràng An bằng xe máy: cung đường và thời gian](/cung-duong/2026/09/28/ha-noi-i-tam-coc-trang-an-bang-xe-may-cung-uong-va-thoi-gian/) và nhớ rằng [xe máy không được đi vào cao tốc](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/), nên cần bám đúng quốc lộ. Nếu thấy một ngày là quá gấp, có thể tách thành hai ngày như bài [Hà Nội đi Ninh Bình bằng xe máy hai ngày](/cung-duong/2026/10/01/ha-noi-i-ninh-binh-bang-xe-may-hai-ngay-chia-lo-trinh/).
+Nếu quyết định tự lái, hãy đọc thêm bài [Hà Nội đi Tam Cốc, Tràng An bằng xe máy: cung đường và thời gian](/cung-duong/2026/09/28/ha-noi-di-tam-coc-trang-an-bang-xe-may-cung-duong-va-thoi-gian/) và nhớ rằng [xe máy không được đi vào cao tốc](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/), nên cần bám đúng quốc lộ. Nếu thấy một ngày là quá gấp, có thể tách thành hai ngày như bài [Hà Nội đi Ninh Bình bằng xe máy hai ngày](/cung-duong/2026/10/01/ha-noi-di-ninh-binh-bang-xe-may-hai-ngay-chia-lo-trinh/).
 
 Dù chọn cách nào, an toàn vẫn quan trọng hơn số điểm ghé được trong ngày. Các bài so sánh khác nằm trong mục [so sánh khi thuê xe máy](/xe-may/so-sanh-xe/), còn kiến thức chung về các dòng xe ở chuyên mục [xe máy](/xe-may/).

@@ -24,7 +24,7 @@ Cách lên lịch an toàn nhất là bắt đầu từ cuối ngày. Tiệm ở
 - **Mốc đầu:** sớm nhất là nhận xe lúc tiệm mở cửa. Muốn lăn bánh sớm hơn, hỏi tiệm trước xem có thể nhận xe từ tối hôm trước và tính thời gian thuê thế nào. Phương án này phải được xác nhận khi đặt, không mặc định là có.
 - **Mốc cuối:** giờ trả xe đã hẹn, luôn trước khi tiệm đóng cửa.
 
-Giữa hai mốc ấy, điều cần giữ chặt nhất không phải giờ trả xe mà là giờ trời tối. Đường từ Sơn Tây về nội thành dài, đoạn cuối lại rơi vào giờ tan tầm, nên mục tiêu thực tế là rời Đường Lâm khi trời còn sáng rõ. Cách xếp ngày theo mùa được bàn kỹ hơn trong bài [mùa đông trời tối sớm, xếp một ngày thuê xe sao cho kịp về](/thue-xe/2026/10/11/mua-ong-troi-toi-som-xep-mot-ngay-thue-xe-may-sao-cho-kip-ve/).
+Giữa hai mốc ấy, điều cần giữ chặt nhất không phải giờ trả xe mà là giờ trời tối. Đường từ Sơn Tây về nội thành dài, đoạn cuối lại rơi vào giờ tan tầm, nên mục tiêu thực tế là rời Đường Lâm khi trời còn sáng rõ. Cách xếp ngày theo mùa được bàn kỹ hơn trong bài [mùa đông trời tối sớm, xếp một ngày thuê xe sao cho kịp về](/thue-xe/2026/10/11/mua-dong-troi-toi-som-xep-mot-ngay-thue-xe-may-sao-cho-kip-ve/).
 
 Một khung tham khảo cho người nhận xe lúc tiệm mở cửa:
 
@@ -52,7 +52,7 @@ Thành cổ Sơn Tây nằm ngay trong phố, còn làng Đường Lâm cách đ
 
 **Làng trước, thành sau** hợp với người lăn bánh sớm: vào làng lúc còn vắng khách, chiều ghé thành cổ ngay trên đường ra phố, rồi đi thẳng về Hà Nội. Lịch này giúp chặng cuối ngày ngắn và dễ đoán hơn.
 
-Thành cổ được xây dưới triều Nguyễn bằng đá ong, có hào nước, cổng thành và khu vực giữa thành để đi dạo. Cùng vùng có đền thờ Phùng Hưng và lăng Ngô Quyền, gắn với tên gọi "đất hai vua". Bài [thành cổ Sơn Tây và làng cổ Đường Lâm bằng xe máy](/du-lich/2026/10/05/thanh-co-son-tay-va-lang-co-uong-lam-bang-xe-may/) có thêm gợi ý ghép hai điểm. Giờ mở cửa các di tích và chuyện mua vé vào làng có thể thay đổi, nên kiểm tra thông tin của ban quản lý hoặc hỏi tại chỗ thay vì tin vào lời truyền miệng.
+Thành cổ được xây dưới triều Nguyễn bằng đá ong, có hào nước, cổng thành và khu vực giữa thành để đi dạo. Cùng vùng có đền thờ Phùng Hưng và lăng Ngô Quyền, gắn với tên gọi "đất hai vua". Bài [thành cổ Sơn Tây và làng cổ Đường Lâm bằng xe máy](/du-lich/2026/10/05/thanh-co-son-tay-va-lang-co-duong-lam-bang-xe-may/) có thêm gợi ý ghép hai điểm. Giờ mở cửa các di tích và chuyện mua vé vào làng có thể thay đổi, nên kiểm tra thông tin của ban quản lý hoặc hỏi tại chỗ thay vì tin vào lời truyền miệng.
 
 ## Trong làng Đường Lâm: gửi xe, đi bộ, ăn trưa
 

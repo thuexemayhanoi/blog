@@ -50,7 +50,7 @@ Ví dụ: bạn ở Cầu Giấy, buổi chiều sang Long Biên rồi vòng lê
 
 **Tìm cây xăng** thường chỉ cần mở bản đồ, gõ từ khóa cây xăng và chọn cây nằm cùng chiều đường, tránh phải quay đầu qua nhiều ngã tư. Phố cổ Hoàn Kiếm ít cây xăng hơn các trục lớn, nên đổ thêm trước khi vào.
 
-**Tìm chỗ sạc** khó đoán hơn. Những nơi có thể sạc gồm chỗ ở của bạn, hầm gửi xe một số chung cư hoặc trung tâm thương mại có khu sạc, một số quán cà phê, cửa hàng sửa xe điện cho cắm nhờ, hoặc trạm đổi pin nếu xe dùng loại pin tương thích. Luôn hỏi trước khi cắm, không dùng ổ điện lỏng hay dây nối tạm đặt dưới đất ẩm. Danh sách các hình thức sạc trong thành phố có trong bài [sạc xe máy điện thuê ở Hà Nội](/xe-may/2026/10/11/sac-xe-may-ien-thue-o-ha-noi-tram-oi-pin-va-o-sac/). Nếu thuê xe điện, nên hỏi cửa hàng ngay lúc nhận xe: xe sạc bằng bộ sạc nào, có mang theo được không, pin có tháo rời được không.
+**Tìm chỗ sạc** khó đoán hơn. Những nơi có thể sạc gồm chỗ ở của bạn, hầm gửi xe một số chung cư hoặc trung tâm thương mại có khu sạc, một số quán cà phê, cửa hàng sửa xe điện cho cắm nhờ, hoặc trạm đổi pin nếu xe dùng loại pin tương thích. Luôn hỏi trước khi cắm, không dùng ổ điện lỏng hay dây nối tạm đặt dưới đất ẩm. Danh sách các hình thức sạc trong thành phố có trong bài [sạc xe máy điện thuê ở Hà Nội](/xe-may/2026/10/11/sac-xe-may-dien-thue-o-ha-noi-tram-doi-pin-va-o-sac/). Nếu thuê xe điện, nên hỏi cửa hàng ngay lúc nhận xe: xe sạc bằng bộ sạc nào, có mang theo được không, pin có tháo rời được không.
 
 ## Xe dừng hẳn giữa đường: xử lý từng loại
 
@@ -72,7 +72,7 @@ Cách gọi ai và nói gì với cửa hàng khi xe thuê hết xăng được 
 3. Nếu không có chỗ sạc gần, gọi cửa hàng sớm để được hướng dẫn, đừng cố dắt xa. Xe điện thường nặng hơn khi dắt vì khối pin, dắt xa rất mệt.
 4. Không tự tháo pin, không mở nắp hộp pin để kiểm tra.
 
-Các bước chi tiết khi xe điện cạn pin hẳn có trong bài [xe máy điện hết pin giữa đường](/xe-may/2026/10/10/xe-may-ien-het-pin-giua-uong-xu-ly-the-nao/).
+Các bước chi tiết khi xe điện cạn pin hẳn có trong bài [xe máy điện hết pin giữa đường](/xe-may/2026/10/10/xe-may-dien-het-pin-giua-duong-xu-ly-the-nao/).
 
 ## Vậy có nên ngại thuê xe điện vì chuyện này
 

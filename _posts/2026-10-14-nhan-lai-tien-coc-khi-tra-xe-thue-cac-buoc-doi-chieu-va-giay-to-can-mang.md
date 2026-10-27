@@ -33,7 +33,7 @@ Mang bản gốc giấy tờ bạn dùng lúc ký thuê. Người nhận xe cầ
 
 ### Biên nhận cọc hoặc hợp đồng có ghi khoản cọc
 
-Đây là tờ giấy quan trọng nhất. Nó ghi bạn đã cọc theo hình thức nào: tiền mặt, chuyển khoản hay để lại giấy tờ. Nếu lỡ làm thất lạc, hãy báo cửa hàng và xin bản sao trước ngày trả, đừng để đến lúc ở quầy. Cách đọc từng dòng trên tờ này có trong bài [đọc gì trong biên nhận bàn giao xe máy thuê](/hoi-dap/2026/10/10/oc-gi-trong-bien-nhan-ban-giao-xe-may-thue/).
+Đây là tờ giấy quan trọng nhất. Nó ghi bạn đã cọc theo hình thức nào: tiền mặt, chuyển khoản hay để lại giấy tờ. Nếu lỡ làm thất lạc, hãy báo cửa hàng và xin bản sao trước ngày trả, đừng để đến lúc ở quầy. Cách đọc từng dòng trên tờ này có trong bài [đọc gì trong biên nhận bàn giao xe máy thuê](/hoi-dap/2026/10/10/doc-gi-trong-bien-nhan-ban-giao-xe-may-thue/).
 
 ### Chứng từ chuyển khoản, nếu đã cọc qua ngân hàng
 
@@ -57,7 +57,7 @@ Tới cửa hàng, cứ đi theo trình tự từ xe đến giấy, rồi mới 
 4. **Chốt các khoản phát sinh nếu có.** Trả muộn giờ, thiếu xăng hay hư hỏng mới phải được nói ra trước khi tính cọc, kèm lý do cụ thể.
 5. **Nhận lại cọc và giấy tờ.** Chỉ sau khi bốn bước trên đã xong và hai bên thống nhất.
 
-Thứ tự này giúp không ai phải đếm tiền hai lần. Chi tiết về cách kiểm đếm và ký xác nhận khoản hoàn có trong bài [hoàn tiền cọc khi trả xe máy thuê](/thue-xe/2026/10/11/hoan-tien-coc-khi-tra-xe-may-thue-kiem-em-va-xac-nhan/).
+Thứ tự này giúp không ai phải đếm tiền hai lần. Chi tiết về cách kiểm đếm và ký xác nhận khoản hoàn có trong bài [hoàn tiền cọc khi trả xe máy thuê](/thue-xe/2026/10/11/hoan-tien-coc-khi-tra-xe-may-thue-kiem-dem-va-xac-nhan/).
 
 ## Hoàn cọc khi trả xe thuê: những câu nên hỏi rõ
 
@@ -68,7 +68,7 @@ Thứ tự này giúp không ai phải đếm tiền hai lần. Chi tiết về 
 - Có khoản nào được trừ vào cọc không? Nếu có, trừ vì lý do gì và ghi ở đâu?
 - Giấy tờ để lại lúc thuê đã đủ chưa, có phải ký nhận lại không?
 
-Câu trả lời nào liên quan đến tiền thì xin ghi lại trên biên nhận hoặc nhắn lại qua tin nhắn. Phân biệt rõ đâu là tiền cọc, đâu là tiền thuê trả trước cũng giúp quyết toán đỡ rối; bài [tiền cọc, tiền thuê trả trước và tiền giữ chỗ](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-e-khoi-hieu-nham/) giải thích kỹ chỗ này.
+Câu trả lời nào liên quan đến tiền thì xin ghi lại trên biên nhận hoặc nhắn lại qua tin nhắn. Phân biệt rõ đâu là tiền cọc, đâu là tiền thuê trả trước cũng giúp quyết toán đỡ rối; bài [tiền cọc, tiền thuê trả trước và tiền giữ chỗ](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-de-khoi-hieu-nham/) giải thích kỹ chỗ này.
 
 ## Khi có điểm chưa khớp lúc đối chiếu
 

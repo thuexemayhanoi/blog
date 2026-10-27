@@ -37,7 +37,7 @@ Thứ tự ưu tiên chỗ để xe, từ an toàn nhất trở xuống:
 3. **Nhà người quen gần đó.** Nếu bạn có bạn bè ở Cầu Giấy hay Tây Hồ, dắt xe về sân nhà họ an toàn hơn nhiều so với để ngoài phố.
 4. **Ven đường, chỉ khi không còn cách nào.**
 
-Khi gửi xe hỏng ở tiệm sửa qua đêm, hãy nói rõ với thợ: chỉ kiểm tra và báo lỗi, chưa thay gì khi cửa hàng cho thuê chưa đồng ý. Xin tên tiệm, chụp biển hiệu và hỏi giờ mở cửa sáng hôm sau. Về cách chọn bãi gửi nói chung, bạn có thể xem thêm [gửi xe máy thuê ở bãi giữ xe qua đêm lưu ý gì](/ky-nang/2026/10/07/gui-xe-may-thue-o-bai-giu-xe-qua-em-luu-y-gi/).
+Khi gửi xe hỏng ở tiệm sửa qua đêm, hãy nói rõ với thợ: chỉ kiểm tra và báo lỗi, chưa thay gì khi cửa hàng cho thuê chưa đồng ý. Xin tên tiệm, chụp biển hiệu và hỏi giờ mở cửa sáng hôm sau. Về cách chọn bãi gửi nói chung, bạn có thể xem thêm [gửi xe máy thuê ở bãi giữ xe qua đêm lưu ý gì](/ky-nang/2026/10/07/gui-xe-may-thue-o-bai-giu-xe-qua-dem-luu-y-gi/).
 
 ## Khóa xe hỏng ven đường cho chắc
 
@@ -48,7 +48,7 @@ Nếu buộc phải để xe ngoài trời, ví dụ trên vỉa hè một đo�
 - **Dùng khóa đĩa hoặc khóa chữ U nếu xe có kèm.** Nhiều xe thuê có sẵn khóa phụ trong cốp, hãy hỏi cửa hàng nếu không thấy.
 - **Dựng chân chống giữa nếu có thể.** Xe dựng chân chống giữa khó dắt đi hơn xe dựng chân chống nghiêng.
 
-Không nên tháo bất cứ bộ phận nào ra mang theo, vì tháo lắp có thể gây hỏng thêm. Những mẹo giữ phụ tùng không bị tháo trộm được nói trong bài [chống trộm phụ tùng khi gửi xe qua đêm](/ky-nang/2026/10/03/chong-trom-phu-tung-khi-gui-xe-qua-em/).
+Không nên tháo bất cứ bộ phận nào ra mang theo, vì tháo lắp có thể gây hỏng thêm. Những mẹo giữ phụ tùng không bị tháo trộm được nói trong bài [chống trộm phụ tùng khi gửi xe qua đêm](/ky-nang/2026/10/03/chong-trom-phu-tung-khi-gui-xe-qua-dem/).
 
 ## Chụp ảnh tình trạng xe và vị trí để lại
 

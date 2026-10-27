@@ -23,7 +23,7 @@ Người ta hay chỉ nhìn chiều cao yên, nhưng với người thấp, **b�
 
 **Xe số** như Honda Wave có yên hẹp ở phía trước, phần thân giữa hai chân thon, nên khi dừng bạn có thể nhích mông về trước một chút và thả chân thẳng xuống. Nhiều người nhỏ con thấy chạm được cả hai mũi chân, hoặc một bàn chân đặt chắc.
 
-**Xe ga** có sàn để chân phẳng và yên thường rộng hơn ở phần đùi. Muốn chạm đất, chân phải vòng qua mép sàn, đùi bị doãng ra nên điểm chạm thấp hơn. Trong nhóm xe ga phổ thông, Honda Vision được nhiều người nhỏ con thấy dễ chịu vì yên thấp và thân gọn; Air Blade thì yên cao và rộng hơn, nhiều người phải nghiêng xe hẳn sang một bên mới chống được chân. Nếu bạn vẫn thích Air Blade, bài [Honda Air Blade cho người thấp](/xe-may/2026/10/11/honda-air-blade-cho-nguoi-thap-kiem-tra-yen-chan-cham-at-va-cach-dung-xe/) có cách thử riêng cho mẫu này.
+**Xe ga** có sàn để chân phẳng và yên thường rộng hơn ở phần đùi. Muốn chạm đất, chân phải vòng qua mép sàn, đùi bị doãng ra nên điểm chạm thấp hơn. Trong nhóm xe ga phổ thông, Honda Vision được nhiều người nhỏ con thấy dễ chịu vì yên thấp và thân gọn; Air Blade thì yên cao và rộng hơn, nhiều người phải nghiêng xe hẳn sang một bên mới chống được chân. Nếu bạn vẫn thích Air Blade, bài [Honda Air Blade cho người thấp](/xe-may/2026/10/11/honda-air-blade-cho-nguoi-thap-kiem-tra-yen-chan-cham-dat-va-cach-dung-xe/) có cách thử riêng cho mẫu này.
 
 Điều cần nhớ: không phải hai bàn chân chạm phẳng mới đi được. Một bàn chân đặt chắc, xe nghiêng nhẹ về phía đó mà bạn vẫn giữ được, là đủ để dừng đèn đỏ an toàn.
 

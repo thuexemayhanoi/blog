@@ -36,7 +36,7 @@ Với chuyến Tam Đảo, phần kiểm tra lúc nhận xe quan trọng hơn m�
 3. **Thử đèn chiếu gần, đèn chiếu xa và còi.** Trong sương, đèn và còi là thứ giúp người khác nhận ra bạn.
 4. **Kiểm tra gương và mũ.** Mũ có kính chắn giúp bạn đỡ hơi nước bám vào mắt.
 
-Có gì chưa ổn, đề nghị đổi xe ngay tại tiệm. Danh sách đầy đủ có trong bài [checklist nhận xe máy thuê](/thue-xe/2026/09/27/checklist-nhan-xe-may-thue-kiem-tra-gi-truoc-khi-roi-cua-hang/), còn cách tự thử độ ăn của phanh thì xem bài [phanh xe máy kiểm tra thế nào](/xe-may/2026/09/27/phanh-xe-may-ia-va-bo-kiem-tra-the-nao/).
+Có gì chưa ổn, đề nghị đổi xe ngay tại tiệm. Danh sách đầy đủ có trong bài [checklist nhận xe máy thuê](/thue-xe/2026/09/27/checklist-nhan-xe-may-thue-kiem-tra-gi-truoc-khi-roi-cua-hang/), còn cách tự thử độ ăn của phanh thì xem bài [phanh xe máy kiểm tra thế nào](/xe-may/2026/09/27/phanh-xe-may-dia-va-bo-kiem-tra-the-nao/).
 
 ## Đi Tam Đảo bằng xe máy: lên dốc đều ga, không đợi xe đuối
 
@@ -72,7 +72,7 @@ Nếu sương dày tới mức không còn thấy vạch đường, hãy tìm ch
 4. **Xe tay ga: chủ động đi chậm ngay từ đầu dốc.** Đừng để xe trôi nhanh rồi mới phanh cứu.
 5. **Thấy dấu hiệu phanh nóng thì dừng.** Tay phanh tự nhiên lỏng hơn, bóp sâu mới ăn, hoặc có mùi khét, hãy tấp vào chỗ rộng và chờ phanh nguội. Đừng dội nước lạnh lên phanh đang nóng.
 
-Bài [Tam Đảo bằng xe máy từ Hà Nội: đèo sương và chạy xuống](/du-lich/2026/10/01/tam-ao-bang-xe-may-tu-ha-noi-eo-suong-va-chay-xuong/) có thêm góc nhìn về cung đường và cảnh quan, còn ở đây trọng tâm là cách dùng chiếc xe thuê của bạn.
+Bài [Tam Đảo bằng xe máy từ Hà Nội: đèo sương và chạy xuống](/du-lich/2026/10/01/tam-dao-bang-xe-may-tu-ha-noi-deo-suong-va-chay-xuong/) có thêm góc nhìn về cung đường và cảnh quan, còn ở đây trọng tâm là cách dùng chiếc xe thuê của bạn.
 
 ## Tính giờ về và trả xe
 

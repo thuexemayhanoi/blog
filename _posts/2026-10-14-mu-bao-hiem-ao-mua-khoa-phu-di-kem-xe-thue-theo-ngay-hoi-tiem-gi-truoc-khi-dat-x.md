@@ -40,7 +40,7 @@ Mũ đi kèm xe thuê đã qua tay nhiều người, nên dành một phút xem 
 4. **Tem hợp quy** còn trên mũ. Mũ không có tem hoặc tem bong hết là dấu hiệu nên hỏi đổi.
 5. **Kính chắn** (nếu có) gập lên xuống được, không xước mờ đến mức che tầm nhìn.
 
-Đội thử và cài quai: mũ vừa là khi lắc đầu sang hai bên mũ không xoay lệch, quai cài sát cằm còn lọt khoảng một hai ngón tay. Những tiêu chí chọn mũ đạt chuẩn được giải thích kỹ trong bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/). Nếu bạn có mũ riêng vừa đầu, cứ mang theo, không cần dùng mũ của tiệm.
+Đội thử và cài quai: mũ vừa là khi lắc đầu sang hai bên mũ không xoay lệch, quai cài sát cằm còn lọt khoảng một hai ngón tay. Những tiêu chí chọn mũ đạt chuẩn được giải thích kỹ trong bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-khi-di-xe-may-chuan-nao/). Nếu bạn có mũ riêng vừa đầu, cứ mang theo, không cần dùng mũ của tiệm.
 
 ## Áo mưa khi thuê xe máy: loại nào, để ở đâu
 
@@ -60,7 +60,7 @@ Khóa phụ là món nhiều người cầm theo nhưng không dùng tới, vì 
 - **Chìa nào mở khóa nào.** Chùm chìa xe thuê thường có chìa điện, chìa cốp và chìa khóa phụ. Hỏi rõ để khỏi thử từng chiếc giữa bãi gửi.
 - **Có chìa dự phòng ở tiệm không** và nếu làm mất chìa thì liên hệ thế nào.
 
-Với khóa đĩa, quy tắc quan trọng nhất là trước khi nổ máy phải tháo ra. Quên khóa đĩa rồi dắt xe đi có thể làm hỏng phanh và ngã xe. Một mẹo đơn giản: buộc một dải dây màu từ khóa đĩa lên tay lái để nhìn thấy ngay. Cách khóa và chọn chỗ đỗ cho an toàn có trong bài [chống trộm xe máy khi thuê](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/).
+Với khóa đĩa, quy tắc quan trọng nhất là trước khi nổ máy phải tháo ra. Quên khóa đĩa rồi dắt xe đi có thể làm hỏng phanh và ngã xe. Một mẹo đơn giản: buộc một dải dây màu từ khóa đĩa lên tay lái để nhìn thấy ngay. Cách khóa và chọn chỗ đỗ cho an toàn có trong bài [chống trộm xe máy khi thuê](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/).
 
 ## Những món nhỏ khác nên hỏi hoặc tự mang
 

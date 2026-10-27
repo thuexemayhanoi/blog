@@ -80,7 +80,7 @@ Có lúc bản lưu của cửa hàng ghi khác điều bạn nhớ: giờ nhậ
 
 ## Ngày trả xe khi trong tay chỉ có bản sao
 
-Đến buổi trả, mang theo bản sao đã đối chiếu, giấy tờ tùy thân, chìa khóa và điện thoại có sẵn ảnh chụp lúc nhận. Báo lại một lần nữa với người nhận xe rằng bản gốc đã mất và bạn đang dùng bản sao. Sau khi kiểm xe, xin một dòng xác nhận đã trả xe và đã nhận lại khoản đảm bảo hoặc giấy tờ, ký trên bản sao hoặc gửi qua tin nhắn. Trình tự kiểm xe đầy đủ có trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/).
+Đến buổi trả, mang theo bản sao đã đối chiếu, giấy tờ tùy thân, chìa khóa và điện thoại có sẵn ảnh chụp lúc nhận. Báo lại một lần nữa với người nhận xe rằng bản gốc đã mất và bạn đang dùng bản sao. Sau khi kiểm xe, xin một dòng xác nhận đã trả xe và đã nhận lại khoản đảm bảo hoặc giấy tờ, ký trên bản sao hoặc gửi qua tin nhắn. Trình tự kiểm xe đầy đủ có trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/).
 
 ## Để lần sau không phải xin lại
 

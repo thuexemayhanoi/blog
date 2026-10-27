@@ -72,7 +72,7 @@ Nếu cửa hàng trả lời không nhận VNeID, hoặc ứng dụng trục tr
 - **Để người đi cùng đứng tên thuê.** Chỉ nên làm khi người đó có đủ giấy tờ và cũng là người cầm lái chính, vì trách nhiệm với chiếc xe thuộc về người ký.
 - **Xin dời giờ nhận xe** trong khung 09:00–21:00 khi đã có giấy tờ đầy đủ.
 
-Trường hợp thẻ bị mất hoặc đang làm lại thì khác chuyện quên mang. Bài [thuê xe máy khi CCCD đang chờ cấp lại](/thue-xe/2026/10/03/thue-xe-may-khi-cccd-ang-cho-cap-lai-can-gi/) nói riêng tình huống đó.
+Trường hợp thẻ bị mất hoặc đang làm lại thì khác chuyện quên mang. Bài [thuê xe máy khi CCCD đang chờ cấp lại](/thue-xe/2026/10/03/thue-xe-may-khi-cccd-dang-cho-cap-lai-can-gi/) nói riêng tình huống đó.
 
 ## Khi nhận xe: ghi rõ những gì đã đối chiếu
 

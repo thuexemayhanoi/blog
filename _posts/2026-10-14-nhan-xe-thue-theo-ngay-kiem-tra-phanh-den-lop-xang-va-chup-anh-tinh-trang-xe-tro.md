@@ -60,7 +60,7 @@ Thuê theo ngày ở Hà Nội hay kéo dài tới chập tối, nhất là mùa
 - **Bóp bằng ngón tay cái.** Lốp căng, không lún sâu. Nếu một bánh mềm hẳn so với bánh kia, hỏi xem có cần bơm thêm không.
 - **Xoay nhẹ bánh trước** khi xe dựng chân chống giữa (nếu xe có), nghe xem có tiếng cọ hay không.
 
-Không cần dụng cụ, chỉ cần so hai bánh với nhau. Cách đọc độ mòn và vết nứt có trong bài [kiểm tra lốp xe máy thuê khi nhận xe](/thue-xe/2026/10/12/kiem-tra-lop-xe-may-thue-khi-nhan-xe-mon-nut-va-o-cang/).
+Không cần dụng cụ, chỉ cần so hai bánh với nhau. Cách đọc độ mòn và vết nứt có trong bài [kiểm tra lốp xe máy thuê khi nhận xe](/thue-xe/2026/10/12/kiem-tra-lop-xe-may-thue-khi-nhan-xe-mon-nut-va-do-cang/).
 
 ## Xăng và đồng hồ: đọc khi đã nổ máy
 
@@ -70,7 +70,7 @@ Bây giờ mới đề máy. Để xe nổ ở chế độ không tải chừng 
 - **Số kilomet trên đồng hồ tổng.** Chụp lại ở bước sau.
 - **Đèn cảnh báo.** Sau khi nổ máy, đèn báo lỗi động cơ (nếu xe có) nên tắt. Nếu một đèn lạ cứ sáng, hỏi ngay.
 
-Mức xăng hay sinh hiểu lầm nhất, nên hỏi rõ tiệm muốn bạn trả xe với mức xăng thế nào và ghi lại câu trả lời. Cách đọc đồng hồ trên từng loại xe được giải thích trong bài [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/oc-ong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-en-canh-bao/).
+Mức xăng hay sinh hiểu lầm nhất, nên hỏi rõ tiệm muốn bạn trả xe với mức xăng thế nào và ghi lại câu trả lời. Cách đọc đồng hồ trên từng loại xe được giải thích trong bài [đọc đồng hồ khi nhận xe thuê](/thue-xe/2026/10/12/doc-dong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-den-canh-bao/).
 
 ## Chụp ảnh tình trạng xe: một vòng, tám tấm là đủ
 

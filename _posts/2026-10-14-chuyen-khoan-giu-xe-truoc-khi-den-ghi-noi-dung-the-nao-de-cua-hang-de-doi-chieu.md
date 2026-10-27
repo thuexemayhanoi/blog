@@ -27,8 +27,8 @@ Tên người chuyển cũng không phải lúc nào cũng khớp. Bạn có th�
 
 Đừng vội chuyển ngay khi được đồng ý giữ xe. Hãy nhắn hỏi lại cho rõ:
 
-1. **Khoản này là gì.** Tiền giữ chỗ, tiền thuê trả trước hay một phần tiền cọc? Ba loại này khác nhau về cách tính khi nhận và trả xe. Bài [phân biệt tiền cọc, tiền thuê trả trước và tiền giữ chỗ](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-e-khoi-hieu-nham/) giải thích kỹ chuyện này.
-2. **Chuyển vào tài khoản nào.** Chỉ chuyển vào tài khoản do chính cửa hàng gửi qua kênh bạn đã liên lạc từ đầu. Khi nhập, soát tên người nhận hiện trên màn hình trước khi bấm xác nhận, theo cách trong bài [quét mã QR để chuyển cọc thuê xe](/thue-xe/2026/10/11/quet-ma-qr-e-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/).
+1. **Khoản này là gì.** Tiền giữ chỗ, tiền thuê trả trước hay một phần tiền cọc? Ba loại này khác nhau về cách tính khi nhận và trả xe. Bài [phân biệt tiền cọc, tiền thuê trả trước và tiền giữ chỗ](/thue-xe/2026/10/11/tien-coc-tien-thue-tra-truoc-va-tien-giu-cho-phan-biet-de-khoi-hieu-nham/) giải thích kỹ chuyện này.
+2. **Chuyển vào tài khoản nào.** Chỉ chuyển vào tài khoản do chính cửa hàng gửi qua kênh bạn đã liên lạc từ đầu. Khi nhập, soát tên người nhận hiện trên màn hình trước khi bấm xác nhận, theo cách trong bài [quét mã QR để chuyển cọc thuê xe](/thue-xe/2026/10/11/quet-ma-qr-de-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/).
 3. **Cửa hàng muốn ghi nội dung theo mẫu nào.** Có nơi đã quen một cách ghi riêng để tìm cho nhanh. Nếu được gợi ý mẫu, hãy làm theo mẫu đó thay vì tự nghĩ.
 
 Số tiền cần chuyển và điều kiện hoàn lại nếu bạn đổi lịch là chuyện phải xác nhận trực tiếp với cửa hàng. Hãy để những điều đó nằm trong tin nhắn, đừng chỉ nói miệng qua điện thoại.
