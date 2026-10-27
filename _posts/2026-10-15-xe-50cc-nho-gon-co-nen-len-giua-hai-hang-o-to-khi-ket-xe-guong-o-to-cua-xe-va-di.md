@@ -34,7 +34,7 @@ Một va chạm nhỏ như vậy kéo theo nhiều hệ quả:
 - **Mất thăng bằng.** Xe 50cc nhẹ, tay lái bị vướng là xe lắc ngay, rất dễ đổ sang phía ô tô bên kia.
 - **Hỏng gương, trầy sơn.** Cả gương ô tô lẫn gương xe máy đều có thể gãy. Với xe thuê, vết trầy, gãy gương là chuyện phải báo tiệm và xử lý khi trả xe.
 
-Nếu xe bạn đang thuê có gương bị lỏng, lệch, hãy chỉnh lại trước khi ra đường. Cách chỉnh có trong bài [chỉnh gương xe máy đúng cách khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-ung-cach-khi-dung-en-o/).
+Nếu xe bạn đang thuê có gương bị lỏng, lệch, hãy chỉnh lại trước khi ra đường. Cách chỉnh có trong bài [chỉnh gương xe máy đúng cách khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-dung-cach-khi-dung-den-do/).
 
 ## Cửa ô tô mở bất ngờ khi đường kẹt
 
@@ -69,7 +69,7 @@ Thay vì len giữa hai hàng ô tô, hãy chọn một vị trí mà người k
 3. **Không dừng sát cửa sau ô tô.** Nếu buộc phải đứng cạnh ô tô, giữ khoảng cách rộng hơn chiều mở của cánh cửa.
 4. **Khi dòng xe bắt đầu chạy, chờ ô tô phía trước đi trước.** Đừng cố vượt lên đầu hàng ngay khi đèn chuyển xanh.
 
-Chuyện đứng làn nào và giữ khoảng cách ở các nút giao đông như Ngã Tư Sở, Kim Liên hay đường Láng đã được nói kỹ trong bài [xe 50cc giờ cao điểm: đứng làn nào và giữ khoảng cách](/xe-may/2026/10/14/xe-50cc-gio-cao-diem-qua-nga-tu-so-kim-lien-lang-dung-lan-nao-va-giu-khoang-cach/). Kỹ năng chung khi kẹt xe nội thành có trong bài [kẹt xe giờ cao điểm nội thành](/ky-nang/2026-09-29/ket-xe-gio-cao-iem-noi-thanh-ky-nang-i-xe-may-an-toan/).
+Chuyện đứng làn nào và giữ khoảng cách ở các nút giao đông như Ngã Tư Sở, Kim Liên hay đường Láng đã được nói kỹ trong bài [xe 50cc giờ cao điểm: đứng làn nào và giữ khoảng cách](/xe-may/2026/10/14/xe-50cc-gio-cao-diem-qua-nga-tu-so-kim-lien-lang-dung-lan-nao-va-giu-khoang-cach/). Kỹ năng chung khi kẹt xe nội thành có trong bài [kẹt xe giờ cao điểm nội thành](/ky-nang/2026-09-29/ket-xe-gio-cao-diem-noi-thanh-ky-nang-di-xe-may-an-toan/).
 
 ## Lỡ đã ở giữa hai hàng ô tô thì làm gì
 

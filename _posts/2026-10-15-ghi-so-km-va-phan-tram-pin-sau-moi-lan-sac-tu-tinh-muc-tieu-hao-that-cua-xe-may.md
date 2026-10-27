@@ -21,7 +21,7 @@ Thuê xe điện theo tuần hay theo tháng, sớm muộn bạn cũng hỏi: v�
 
 Thông số quãng đường của một mẫu xe thường ứng với điều kiện thuận lợi: người lái nhẹ, đường phẳng, tốc độ đều. Ở Hà Nội hiếm ngày nào được như vậy. Đi từ Long Biên sang Hoàn Kiếm giờ cao điểm, xe dừng đi liên tục; lên dốc cầu Vĩnh Tuy hay cầu Chương Dương, động cơ phải gắng sức; trưa hè đỗ ngoài nắng, pin nóng lên.
 
-Xe thuê lại là xe đã qua sử dụng, pin có thể không còn giữ điện như lúc mới. Con số đáng tin nhất là con số đo trên chính chiếc xe đó, với chính cách bạn chạy. Các yếu tố làm quãng đường thay đổi được nói kỹ trong bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-uong-mot-lan-sac-cua-xe-may-ien/).
+Xe thuê lại là xe đã qua sử dụng, pin có thể không còn giữ điện như lúc mới. Con số đáng tin nhất là con số đo trên chính chiếc xe đó, với chính cách bạn chạy. Các yếu tố làm quãng đường thay đổi được nói kỹ trong bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-duong-mot-lan-sac-cua-xe-may-dien/).
 
 ## Cần ghi những gì: nhật ký sạc xe điện gồm sáu cột
 
@@ -40,7 +40,7 @@ Ghi ở ghi chú điện thoại, bảng tính hay cuốn sổ trong cốp đề
 
 ## Đọc số cho đúng lúc để sổ không bị lệch
 
-Phần trăm pin trên đồng hồ là con số ước tính, dao động theo tải. Đọc lúc đang vặn ga lên dốc, số sẽ thấp hơn thực tế; nghỉ vài phút, số lại nhích lên. Bài [đồng hồ pin xe điện nhảy không đều](/xe-may/2026/10/11/ong-ho-pin-xe-ien-nhay-khong-eu-cach-uoc-luong-km-con-lai-cho-ung/) giải thích hiện tượng này. Để sổ nhất quán:
+Phần trăm pin trên đồng hồ là con số ước tính, dao động theo tải. Đọc lúc đang vặn ga lên dốc, số sẽ thấp hơn thực tế; nghỉ vài phút, số lại nhích lên. Bài [đồng hồ pin xe điện nhảy không đều](/xe-may/2026/10/11/dong-ho-pin-xe-dien-nhay-khong-deu-cach-uoc-luong-km-con-lai-cho-dung/) giải thích hiện tượng này. Để sổ nhất quán:
 
 1. **Đọc khi xe đứng yên**, đã bật nguồn và chờ màn hình ổn định.
 2. **Đọc ở cùng thời điểm**: ngay sau khi rút sạc và ngay trước khi cắm sạc.

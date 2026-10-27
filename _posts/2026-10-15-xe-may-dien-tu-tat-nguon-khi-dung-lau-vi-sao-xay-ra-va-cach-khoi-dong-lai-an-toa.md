@@ -86,7 +86,7 @@ Hai tình huống cần thêm chút chú ý:
 
 ## Khi nào gọi chủ xe
 
-Nếu đã làm đủ các bước mà xe vẫn không lên nguồn, hoặc lên rồi tắt ngay, đừng thử liên tục. Để xe ở chỗ an toàn, ghi lại đồng hồ hiện gì, rồi gọi 0942467674 để được hướng dẫn. Bài [xe máy điện bật khóa mà không chạy](/xe-may/2026/10/11/xe-may-ien-bat-khoa-ma-khong-chay-kiem-tra-gi-truoc-khi-goi-chu-xe/) có danh sách những điểm nên xem trước khi gọi.
+Nếu đã làm đủ các bước mà xe vẫn không lên nguồn, hoặc lên rồi tắt ngay, đừng thử liên tục. Để xe ở chỗ an toàn, ghi lại đồng hồ hiện gì, rồi gọi 0942467674 để được hướng dẫn. Bài [xe máy điện bật khóa mà không chạy](/xe-may/2026/10/11/xe-may-dien-bat-khoa-ma-khong-chay-kiem-tra-gi-truoc-khi-goi-chu-xe/) có danh sách những điểm nên xem trước khi gọi.
 
 ## Tóm lại
 

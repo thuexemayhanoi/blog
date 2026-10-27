@@ -34,7 +34,7 @@ Lỗi này hiếm khi xảy ra trên đường rộng, cua thoải. Nó hay xu�
 - **Góc có bó vỉa cao** ở các ngã ba, chỗ người đi xe hay ôm sát vỉa hè để rẽ phải.
 - **Đoạn lên xuống dốc đê** ở Long Biên, Tây Hồ, nơi mặt đường đổi độ dốc đúng lúc bạn đang rẽ.
 
-Kinh nghiệm chung khi len ngõ nhỏ được viết riêng trong bài [len vào ngõ nhỏ khu tập thể cũ bằng xe đạp điện](/xe-may/2026/10/11/len-vao-ngo-nho-khu-tap-the-cu-bang-xe-ap-ien-re-tranh-dung-sao-cho-gon/). Bài hiện tại chỉ tập trung vào chuyện bàn đạp.
+Kinh nghiệm chung khi len ngõ nhỏ được viết riêng trong bài [len vào ngõ nhỏ khu tập thể cũ bằng xe đạp điện](/xe-may/2026/10/11/len-vao-ngo-nho-khu-tap-the-cu-bang-xe-dap-dien-re-tranh-dung-sao-cho-gon/). Bài hiện tại chỉ tập trung vào chuyện bàn đạp.
 
 ## Giữ bàn đạp phía trong cua ở vị trí trên
 
@@ -60,7 +60,7 @@ Thứ tự đúng khi tới một góc rẽ:
 5. **Nghiêng vừa phải, nhìn về hướng lối ra** của góc rẽ.
 6. **Khi xe đã thẳng lại, mới đạp tiếp.**
 
-Nếu cần phanh gấp vì có người bất ngờ băng ra, cách phối hợp hai phanh được nói trong bài [phanh xe đạp điện êm khi có người băng ngang bất ngờ](/xe-may/2026/10/11/phanh-xe-ap-ien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/).
+Nếu cần phanh gấp vì có người bất ngờ băng ra, cách phối hợp hai phanh được nói trong bài [phanh xe đạp điện êm khi có người băng ngang bất ngờ](/xe-may/2026/10/11/phanh-xe-dap-dien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/).
 
 ## Không đạp khi đang nghiêng xe
 

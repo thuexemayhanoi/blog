@@ -63,7 +63,7 @@ Có những dấu hiệu mà chỉ cần thấy một là dừng sạc, không t
 
 Khi gặp các dấu hiệu này, tuyệt đối **không tự tháo bộ sạc, không tự mở hộp pin** hay quấn băng dính vào dây để dùng tạm. Hãy để bộ sạc ở chỗ khô thoáng, xa đồ dễ cháy, rồi gọi cửa hàng số 0942467674 để báo tình trạng và hẹn đổi bộ sạc. Nếu cần mang xe hoặc bộ sạc qua tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, hãy đi trong giờ mở cửa từ 09:00 đến 21:00; nếu muốn nhân viên mang bộ sạc đến chỗ ở, thời gian và chi phí cần thỏa thuận trước.
 
-Nếu pin thấp, rút ngắn lịch đi lại và xem bài [xe điện không nhận sạc: các bước kiểm tra ban đầu](/xe-may/2026/10/04/xe-ien-khong-nhan-sac-cac-buoc-kiem-tra-ban-au/) để phân biệt lỗi sạc với lỗi pin.
+Nếu pin thấp, rút ngắn lịch đi lại và xem bài [xe điện không nhận sạc: các bước kiểm tra ban đầu](/xe-may/2026/10/04/xe-dien-khong-nhan-sac-cac-buoc-kiem-tra-ban-dau/) để phân biệt lỗi sạc với lỗi pin.
 
 ## Báo chủ trọ kiểm tra điện: nói gì cho rõ
 
@@ -84,7 +84,7 @@ Sau khi đã xử lý xong, vài thói quen giúp tránh lặp lại:
 - **Cắm thẳng ổ tường chắc chắn**, không chung ổ chia với ấm siêu tốc hay bàn là.
 - **Lau khô cổng sạc** sau khi đi mưa về, đợi xe ráo rồi mới cắm.
 - **Đặt bộ sạc nơi khô, thoáng**, không để trên đệm, trong túi kín hay sát rèm cửa.
-- **Rút sạc khi đầy**, không để cắm qua nhiều giờ không người trông. Có thể xem thêm bài [sạc pin qua đêm nơi trọ an toàn thế nào](/xe-may/2026/10/03/sac-pin-qua-em-noi-tro-an-toan-the-nao/).
+- **Rút sạc khi đầy**, không để cắm qua nhiều giờ không người trông. Có thể xem thêm bài [sạc pin qua đêm nơi trọ an toàn thế nào](/xe-may/2026/10/03/sac-pin-qua-dem-noi-tro-an-toan-the-nao/).
 
 ## Tóm lại
 

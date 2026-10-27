@@ -51,7 +51,7 @@ Có khi xe không có lỗi gì cả. Hôm nay bạn chở thêm một người,
 - Gió ngược trên cầu hay đường đê làm xe chậm dù máy vẫn bình thường.
 - Trời nắng nóng, máy và người đều mệt hơn; xe nóng máy cũng có thể kém bốc hơn.
 
-Mức chở vừa sức của xe nhỏ được nói ở bài [chở đồ đi chợ, siêu thị bằng xe 50cc: cốp nhỏ, móc treo và mức chở vừa sức](/xe-may/2026/10/11/cho-o-i-cho-sieu-thi-bang-xe-50cc-cop-nho-moc-treo-va-muc-cho-vua-suc/ "Chở đồ bằng xe 50cc").
+Mức chở vừa sức của xe nhỏ được nói ở bài [chở đồ đi chợ, siêu thị bằng xe 50cc: cốp nhỏ, móc treo và mức chở vừa sức](/xe-may/2026/10/11/cho-do-di-cho-sieu-thi-bang-xe-50cc-cop-nho-moc-treo-va-muc-cho-vua-suc/ "Chở đồ bằng xe 50cc").
 
 ## Bước bốn: xăng
 

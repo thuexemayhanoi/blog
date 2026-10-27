@@ -56,13 +56,13 @@ Cách chia hợp lý là **tắt điện ở lượt đi, khi chân còn khỏe,
 - Bật lại trợ lực trước khi tới dốc, không đợi lên nửa dốc mới bật.
 - Trước khi đi, nhìn mức pin. Nếu pin chỉ còn khoảng một nửa, hãy coi phần còn lại là để dành cho đường về, không đem ra phung phí ở lượt đi.
 
-Tắt điện ở lượt đi cũng giúp pin còn đầy cho lúc bạn cần nhất. Những thói quen tiết kiệm điện khác được viết kỹ trong bài [đi thế nào để pin xe đạp điện đủ dùng cả buổi](/xe-may/2026/10/11/i-the-nao-e-pin-xe-ap-ien-u-dung-ca-buoi-thoi-quen-tiet-kiem-ien/). Nếu lỡ cạn pin giữa đường, đừng cố đạp gồng: dắt xe vào lề, nghỉ, rồi gọi tiệm qua số 0942467674 để được hướng dẫn.
+Tắt điện ở lượt đi cũng giúp pin còn đầy cho lúc bạn cần nhất. Những thói quen tiết kiệm điện khác được viết kỹ trong bài [đi thế nào để pin xe đạp điện đủ dùng cả buổi](/xe-may/2026/10/11/di-the-nao-de-pin-xe-dap-dien-du-dung-ca-buoi-thoi-quen-tiet-kiem-dien/). Nếu lỡ cạn pin giữa đường, đừng cố đạp gồng: dắt xe vào lề, nghỉ, rồi gọi tiệm qua số 0942467674 để được hướng dẫn.
 
 ## Chọn cung đường bằng phẳng ở Hà Nội
 
 Với mục tiêu tập, đường tốt là đường phẳng, thoáng, ít phải dừng và có chỗ nghỉ. Hà Nội may mắn có nhiều mặt hồ với đường ven hồ khá dễ đạp.
 
-- **Đường ven Hồ Tây:** vòng hồ dài, phần lớn bằng phẳng, nhiều đoạn có hàng cây và ghế đá để nghỉ. Đây là lựa chọn quen thuộc nhất cho người muốn đạp đều tay. Gợi ý chỗ dừng và hướng đi có trong bài [đạp xe điện quanh Hồ Tây buổi chiều](/xe-may/2026/10/11/ap-xe-ien-quanh-ho-tay-buoi-chieu-i-uong-nao-dung-nghi-o-au/).
+- **Đường ven Hồ Tây:** vòng hồ dài, phần lớn bằng phẳng, nhiều đoạn có hàng cây và ghế đá để nghỉ. Đây là lựa chọn quen thuộc nhất cho người muốn đạp đều tay. Gợi ý chỗ dừng và hướng đi có trong bài [đạp xe điện quanh Hồ Tây buổi chiều](/xe-may/2026/10/11/dap-xe-dien-quanh-ho-tay-buoi-chieu-di-duong-nao-dung-nghi-o-dau/).
 - **Quanh hồ Trúc Bạch:** vòng ngắn hơn, nằm ngay cạnh đường Thanh Niên, hợp với buổi tập ngắn hoặc người mới bắt đầu.
 - **Quanh các hồ lớn khác trong nội thành** như hồ Thiền Quang: đường bao quanh hồ phẳng, nhưng xung quanh là phố đông, nên chỉ hợp vào giờ vắng.
 
@@ -70,13 +70,13 @@ Nếu thuê xe ở tiệm bên Long Biên rồi qua sông, hãy bật trợ lự
 
 ### Tránh giờ cao điểm
 
-Đạp tập vào giờ tan tầm là lựa chọn kém nhất: phải dừng liên tục, hít khói xe, khó giữ nhịp. Sáng sớm trước dòng xe đi làm, hoặc chiều muộn khi đợt tan tầm đã thưa, thường dễ chịu hơn. Cách nhận biết khung giờ và tuyến đường đỡ tắc có trong bài [Hà Nội giờ cao điểm: đạp xe điện lúc nào, đường nào](/xe-may/2026/10/11/ha-noi-gio-cao-iem-ap-xe-ien-luc-nao-uong-nao-o-tac/).
+Đạp tập vào giờ tan tầm là lựa chọn kém nhất: phải dừng liên tục, hít khói xe, khó giữ nhịp. Sáng sớm trước dòng xe đi làm, hoặc chiều muộn khi đợt tan tầm đã thưa, thường dễ chịu hơn. Cách nhận biết khung giờ và tuyến đường đỡ tắc có trong bài [Hà Nội giờ cao điểm: đạp xe điện lúc nào, đường nào](/xe-may/2026/10/11/ha-noi-gio-cao-diem-dap-xe-dien-luc-nao-duong-nao-do-tac/).
 
 ## Chuẩn bị cơ thể và xe trước mỗi buổi đạp
 
 Một buổi tập thoải mái bắt đầu từ vài việc nhỏ trước khi lên xe:
 
-- **Chỉnh yên đúng chiều cao.** Yên thấp quá làm gối gập sâu, đạp lâu dễ mỏi. Cách chỉnh có trong bài [chỉnh yên và tay lái xe đạp điện](/xe-may/2026/10/11/chinh-yen-va-tay-lai-xe-ap-ien-cho-nguoi-thap-nguoi-cao-o-moi-goi-moi-lung/).
+- **Chỉnh yên đúng chiều cao.** Yên thấp quá làm gối gập sâu, đạp lâu dễ mỏi. Cách chỉnh có trong bài [chỉnh yên và tay lái xe đạp điện](/xe-may/2026/10/11/chinh-yen-va-tay-lai-xe-dap-dien-cho-nguoi-thap-nguoi-cao-do-moi-goi-moi-lung/).
 - **Mang theo nước.** Uống từng ngụm trong lúc nghỉ, kể cả khi chưa thấy khát, nhất là vào những ngày Hà Nội nóng ẩm.
 - **Đội mũ bảo hiểm và kiểm tra phanh** trước khi rời chỗ đỗ.
 

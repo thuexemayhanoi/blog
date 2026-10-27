@@ -31,7 +31,7 @@ Xe máy điện mang theo khối pin lớn, nên thường nặng hơn bạn tư
 - **Pin đặt dưới yên hoặc phía sau:** phần đuôi nặng, lúc dắt hay xoay đầu xe bạn sẽ thấy xe muốn "đổ về sau" và khó lách trong ngõ.
 - **Xe đạp điện:** nhẹ hơn hẳn, yên thường thấp và hẹp, hợp với người mới hoặc chỉ đi quanh khu nhà, đổi lại tốc độ chậm và không hợp đường lớn.
 
-Người dáng nhỏ ít lực tay nên ưu tiên xe có sức nặng dồn thấp và cân giữa hai bánh. Nếu một chiếc xe khiến bạn phải gồng ngay khi dựng nó khỏi chân chống, đó là dấu hiệu nên thử chiếc khác. Cách dắt và quay đầu xe điện nặng trong ngõ hẹp có trong bài [xe máy điện nặng: dắt xe, quay đầu và dựng chân chống](/xe-may/2026/10/11/xe-may-ien-nang-dat-xe-quay-au-va-dung-chan-chong-trong-ngo-hep/).
+Người dáng nhỏ ít lực tay nên ưu tiên xe có sức nặng dồn thấp và cân giữa hai bánh. Nếu một chiếc xe khiến bạn phải gồng ngay khi dựng nó khỏi chân chống, đó là dấu hiệu nên thử chiếc khác. Cách dắt và quay đầu xe điện nặng trong ngõ hẹp có trong bài [xe máy điện nặng: dắt xe, quay đầu và dựng chân chống](/xe-may/2026/10/11/xe-may-dien-nang-dat-xe-quay-dau-va-dung-chan-chong-trong-ngo-hep/).
 
 ## Thử ngồi và chống chân ngay tại tiệm trước khi nhận xe
 
@@ -66,7 +66,7 @@ Thứ tự an toàn khi đèn chuyển xanh:
 2. Dựng thẳng xe, đưa chân lên sàn.
 3. Nhả phanh rồi mới vặn ga thật nhẹ.
 
-Nếu xe có chế độ lái tiết kiệm, hãy dùng nó trong những ngày đầu vì xe tăng tốc mềm hơn. Thêm cách xuất phát êm ở ngã tư trong bài [xe điện tăng tốc tức thì: xuất phát êm ở ngã tư đông](/xe-may/2026/10/11/xe-ien-tang-toc-tuc-thi-cach-xuat-phat-em-o-nga-tu-ong/). Khi cần dừng lâu hoặc dắt xe, bật nút P hoặc tắt nguồn như hướng dẫn ở bài [nút P và chân chống ngắt điện trên xe máy điện](/xe-may/2026/10/14/nut-p-che-do-lui-va-chan-chong-ngat-dien-tren-xe-may-dien-dung-the-nao-khi-quay/).
+Nếu xe có chế độ lái tiết kiệm, hãy dùng nó trong những ngày đầu vì xe tăng tốc mềm hơn. Thêm cách xuất phát êm ở ngã tư trong bài [xe điện tăng tốc tức thì: xuất phát êm ở ngã tư đông](/xe-may/2026/10/11/xe-dien-tang-toc-tuc-thi-cach-xuat-phat-em-o-nga-tu-dong/). Khi cần dừng lâu hoặc dắt xe, bật nút P hoặc tắt nguồn như hướng dẫn ở bài [nút P và chân chống ngắt điện trên xe máy điện](/xe-may/2026/10/14/nut-p-che-do-lui-va-chan-chong-ngat-dien-tren-xe-may-dien-dung-the-nao-khi-quay/).
 
 ## Làm quen trong ngày đầu trước khi vào phố lớn
 

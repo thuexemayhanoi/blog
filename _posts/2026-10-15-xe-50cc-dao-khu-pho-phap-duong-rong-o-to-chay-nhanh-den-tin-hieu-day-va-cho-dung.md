@@ -52,7 +52,7 @@ Trong khu phố Pháp, các ngã tư có đèn nằm khá gần nhau. Đi xe 50c
 
 **Khi dừng đèn đỏ**, đứng sau vạch, giữ xe thẳng và không chen lên đầu hàng giữa các ô tô. Đứng sau một xe máy khác giúp bạn dễ được nhìn thấy hơn.
 
-**Khi đèn chuyển xanh**, chờ một nhịp để chắc dòng xe cắt ngang đã dừng hẳn, rồi mới vặn ga đều. Xe 50cc không bứt lên nhanh, nên đừng giật ga; cứ để các xe lớn đi trước rồi nhập vào làn phải. Cách xuất phát này được nói kỹ trong bài [xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-ong-cach-xuat-phat-khi-en-xanh-bat/).
+**Khi đèn chuyển xanh**, chờ một nhịp để chắc dòng xe cắt ngang đã dừng hẳn, rồi mới vặn ga đều. Xe 50cc không bứt lên nhanh, nên đừng giật ga; cứ để các xe lớn đi trước rồi nhập vào làn phải. Cách xuất phát này được nói kỹ trong bài [xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-dong-cach-xuat-phat-khi-den-xanh-bat/).
 
 Một số ngã tư có đèn riêng cho hướng rẽ hoặc biển cấm rẽ. Đọc biển ngay khi thấy ngã tư, đừng đợi tới vạch dừng.
 

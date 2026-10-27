@@ -21,7 +21,7 @@ Nhóm bạn hay gia đình thuê ba, bốn chiếc xe đi chơi, người chọn
 
 Có thêm xe điện, bài toán của đoàn đổi hẳn vì ba điểm khác biệt:
 
-- **Quãng đi bị giới hạn bởi pin.** Một lần sạc đầy chỉ đi được một quãng nhất định, và quãng đó co lại rõ khi chở hai người, leo dốc cầu, chạy nhanh hay trời lạnh. Chi tiết các yếu tố này có trong bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-uong-mot-lan-sac-cua-xe-may-ien/).
+- **Quãng đi bị giới hạn bởi pin.** Một lần sạc đầy chỉ đi được một quãng nhất định, và quãng đó co lại rõ khi chở hai người, leo dốc cầu, chạy nhanh hay trời lạnh. Chi tiết các yếu tố này có trong bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-duong-mot-lan-sac-cua-xe-may-dien/).
 - **Nạp lại mất nhiều thời gian.** Đổ xăng tính bằng phút, sạc pin tính bằng giờ.
 - **Nhịp chạy khác nhau.** Xe điện bốc ngay ở đèn xanh nhưng nhiều loại có tốc độ thiết kế thấp hơn xe xăng, nên trên đoạn đường thoáng nó lại tụt về sau.
 
@@ -52,7 +52,7 @@ Thỏa thuận cụ thể:
 - **Xe điện đi thứ hai hoặc giữa đoàn**, để không bị bỏ lại phía sau mà cũng không phải tự dò đường.
 - **Người đi cuối là xe xăng**, để nếu xe điện có chuyện thì có người dừng cùng ngay.
 
-Cách sắp đoàn theo tay lái được bàn trong bài [đi nhóm lẫn xe số và xe ga](/xe-may/2026/10/11/i-nhom-lan-xe-so-va-xe-ga-giu-nhip-e-khong-bo-nhau-lai-phia-sau/); ở đây ưu tiên vị trí xe điện vì pin.
+Cách sắp đoàn theo tay lái được bàn trong bài [đi nhóm lẫn xe số và xe ga](/xe-may/2026/10/11/di-nhom-lan-xe-so-va-xe-ga-giu-nhip-de-khong-bo-nhau-lai-phia-sau/); ở đây ưu tiên vị trí xe điện vì pin.
 
 ## Chọn lộ trình vừa quãng pin: vòng khép kín, ít dốc, đúng đường
 
@@ -72,7 +72,7 @@ Vì sạc mất hàng giờ, điểm dừng sạc nên là chặng nghỉ có ý
 
 - **Gọi trước cho quán ăn hoặc quán cà phê** dự định nghỉ, hỏi có ổ cắm gần chỗ để xe không và có cho khách cắm sạc xe không. Đừng mặc định quán nào cũng đồng ý.
 - **Mang theo bộ sạc rời** nếu tiệm giao kèm, kiểm tra dây và phích trước khi đi. Không cắm vào ổ lỏng, không sạc khi xe hoặc ổ đang ướt.
-- **Trạm sạc công cộng hay điểm đổi pin** chỉ là phương án khi xe đúng loại dùng được; cách dùng có trong bài [sạc xe máy điện thuê ở trạm sạc công cộng](/xe-may/2026/10/09/sac-xe-may-ien-thue-o-tram-sac-cong-cong-nhu-the-nao/).
+- **Trạm sạc công cộng hay điểm đổi pin** chỉ là phương án khi xe đúng loại dùng được; cách dùng có trong bài [sạc xe máy điện thuê ở trạm sạc công cộng](/xe-may/2026/10/09/sac-xe-may-dien-thue-o-tram-sac-cong-cong-nhu-the-nao/).
 - **Xe xăng đổ đầy ở chặng đầu**, cùng lúc cả đoàn tập trung, để buổi chiều không phải tách ra tìm cây xăng.
 
 Lịch ngày dễ áp dụng: xuất phát buổi sáng khi pin đầy, nghỉ trưa ở quán đã hẹn cắm sạc, chiều đi chặng về và về trước khi trời tối.

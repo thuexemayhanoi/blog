@@ -34,7 +34,7 @@ Trên đường thoáng, xe trôi thêm chút ít chẳng sao. Nhưng phố nộ
 - **Đỗ sát hàng quán, sát người:** khoảng trống chỉ vừa một chiếc xe, xe nhích thêm là va vào chân người.
 - **Dốc xuống nhẹ** như dốc đê Âu Cơ, Nghi Tàm: trọng lượng xe làm nhịp trôi dài hơn bạn nghĩ.
 
-Nếu từng gặp người băng ngang bất ngờ và phải phản ứng gấp, bạn có thể đọc thêm bài [phanh xe đạp điện êm khi có người băng ngang bất ngờ](/xe-may/2026/10/11/phanh-xe-ap-ien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/). Bài này nói về chuyện dừng có kế hoạch để khỏi phải phanh gấp.
+Nếu từng gặp người băng ngang bất ngờ và phải phản ứng gấp, bạn có thể đọc thêm bài [phanh xe đạp điện êm khi có người băng ngang bất ngờ](/xe-may/2026/10/11/phanh-xe-dap-dien-em-khi-co-nguoi-bang-ngang-bat-ngo-bop-phanh-nao-truoc/). Bài này nói về chuyện dừng có kế hoạch để khỏi phải phanh gấp.
 
 ## Thói quen một: ngừng đạp sớm hơn bạn nghĩ
 
@@ -55,13 +55,13 @@ Cách làm như sau:
 3. Giữ lực bóp đều, tăng dần khi gần tới điểm dừng.
 4. Khi xe gần đứng hẳn, chống một chân xuống, giữ phanh cho đến khi đứng yên hoàn toàn.
 
-Không phải xe nào cũng có công tắc ngắt điện ở tay phanh, và có chiếc công tắc đã lỏng hoặc hỏng. Khi nhận một chiếc xe lạ, hãy thử ở chỗ vắng: đạp nhẹ để motor chạy, rồi bóp phanh khẽ xem motor có tắt ngay không. Nếu không thấy ngắt, bạn phải dựa nhiều hơn vào việc ngừng đạp sớm và phanh dài hơn. Cách thử phanh khi nhận xe cũng được nói trong bài [thuê xe đạp điện ở Hà Nội lưu ý gì](/xe-may/2026/10/07/thue-xe-ap-ien-o-ha-noi-luu-y-gi/).
+Không phải xe nào cũng có công tắc ngắt điện ở tay phanh, và có chiếc công tắc đã lỏng hoặc hỏng. Khi nhận một chiếc xe lạ, hãy thử ở chỗ vắng: đạp nhẹ để motor chạy, rồi bóp phanh khẽ xem motor có tắt ngay không. Nếu không thấy ngắt, bạn phải dựa nhiều hơn vào việc ngừng đạp sớm và phanh dài hơn. Cách thử phanh khi nhận xe cũng được nói trong bài [thuê xe đạp điện ở Hà Nội lưu ý gì](/xe-may/2026/10/07/thue-xe-dap-dien-o-ha-noi-luu-y-gi/).
 
 ## Thói quen ba: hạ mức trợ lực khi vào phố đông
 
 Mức trợ lực cao dễ chịu trên đường đê hay đường ven hồ, nhưng vào phố đông lại bất lợi: mức càng cao, cú đẩy cuối càng mạnh, mỗi lần đạp lại xe cũng giật mạnh hơn.
 
-Trước khi rẽ vào những đoạn chen chúc như phố cổ quanh Hàng Buồm, Hàng Bạc hay khu chợ, hãy chỉnh về mức trợ lực thấp nhất mà chân bạn vẫn đạp thoải mái. Bạn sẽ phải đạp nhiều hơn một chút, đổi lại xe đi đều và dừng gọn. Ra tới đường thoáng thì nâng lên lại. Thói quen này còn giúp pin bền hơn, như đã nói trong bài [đi thế nào để pin xe đạp điện đủ dùng cả buổi](/xe-may/2026/10/11/i-the-nao-e-pin-xe-ap-ien-u-dung-ca-buoi-thoi-quen-tiet-kiem-ien/).
+Trước khi rẽ vào những đoạn chen chúc như phố cổ quanh Hàng Buồm, Hàng Bạc hay khu chợ, hãy chỉnh về mức trợ lực thấp nhất mà chân bạn vẫn đạp thoải mái. Bạn sẽ phải đạp nhiều hơn một chút, đổi lại xe đi đều và dừng gọn. Ra tới đường thoáng thì nâng lên lại. Thói quen này còn giúp pin bền hơn, như đã nói trong bài [đi thế nào để pin xe đạp điện đủ dùng cả buổi](/xe-may/2026/10/11/di-the-nao-de-pin-xe-dap-dien-du-dung-ca-buoi-thoi-quen-tiet-kiem-dien/).
 
 Với mẫu có tay ga, nhớ rằng tay ga vẫn hoạt động ở mọi mức trợ lực. Khi dừng chờ đèn đỏ, đặt tay ở vị trí cầm lái bình thường, tránh tì cổ tay lên tay ga.
 
@@ -74,7 +74,7 @@ Một lần dừng chuẩn gồm các bước nối liền:
 - **Gần điểm dừng:** bóp phanh nhẹ để ngắt motor, rồi tăng lực đều.
 - **Dừng hẳn:** chống chân, giữ phanh, dừng sau vạch hoặc cách xe phía trước một khoảng thoáng.
 
-Khi rẽ vào ngõ, làm xong phần giảm tốc trước lúc bắt đầu cua, đừng vừa cua vừa phanh. Nếu ngõ hẹp và đông, cứ xuống xe dắt bộ đoạn đầu, như bài [len vào ngõ nhỏ khu tập thể cũ bằng xe đạp điện](/xe-may/2026/10/11/len-vao-ngo-nho-khu-tap-the-cu-bang-xe-ap-ien-re-tranh-dung-sao-cho-gon/) đã gợi ý.
+Khi rẽ vào ngõ, làm xong phần giảm tốc trước lúc bắt đầu cua, đừng vừa cua vừa phanh. Nếu ngõ hẹp và đông, cứ xuống xe dắt bộ đoạn đầu, như bài [len vào ngõ nhỏ khu tập thể cũ bằng xe đạp điện](/xe-may/2026/10/11/len-vao-ngo-nho-khu-tap-the-cu-bang-xe-dap-dien-re-tranh-dung-sao-cho-gon/) đã gợi ý.
 
 ## Khi nào nên báo lại cho người cho thuê
 

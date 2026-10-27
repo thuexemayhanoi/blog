@@ -27,7 +27,7 @@ Các cell trong pin không bao giờ đầy đều tuyệt đối. Ở cuối ch
 
 ### Pin đã chai theo thời gian
 
-Pin dùng lâu sẽ giữ điện kém đi. Dấu hiệu là sạc lâu hơn trước, hoặc đầy nhanh nhưng tụt cũng nhanh. Với xe thuê dài ngày, bạn có thể so sánh với những ngày đầu nhận xe. Bài [pin xe điện chai sau kỳ thuê dài](/xe-may/2026/10/05/pin-xe-ien-chai-sau-ky-thue-dai-dau-hieu-nhan-biet/) liệt kê các dấu hiệu cụ thể hơn.
+Pin dùng lâu sẽ giữ điện kém đi. Dấu hiệu là sạc lâu hơn trước, hoặc đầy nhanh nhưng tụt cũng nhanh. Với xe thuê dài ngày, bạn có thể so sánh với những ngày đầu nhận xe. Bài [pin xe điện chai sau kỳ thuê dài](/xe-may/2026/10/05/pin-xe-dien-chai-sau-ky-thue-dai-dau-hieu-nhan-biet/) liệt kê các dấu hiệu cụ thể hơn.
 
 ### Bộ sạc lỗi hoặc không đúng loại
 
@@ -35,7 +35,7 @@ Củ sạc hỏng, dây sạc gập gãy hoặc dùng nhầm củ sạc của xe
 
 ### Nhiệt độ quá nóng hoặc quá lạnh
 
-Pin không thích nhiệt độ cực đoan. Những trưa hè Hà Nội, xe vừa chạy từ Cầu Giấy về Gia Lâm dưới nắng gắt rồi cắm sạc ngay, bộ quản lý pin có thể giảm dòng sạc để bảo vệ. Ngược lại, những đêm gió mùa lạnh, xe để ở sân nhà ở Đông Anh cũng sạc chậm hơn. Để xe nghỉ cho nguội, sạc ở chỗ thoáng mát, có mái che. Bài [xe máy điện thuê khi trời quá nóng](/xe-may/2026/10/09/xe-may-ien-thue-khi-troi-qua-nong-pin-co-sao-khong/) nói rõ thêm.
+Pin không thích nhiệt độ cực đoan. Những trưa hè Hà Nội, xe vừa chạy từ Cầu Giấy về Gia Lâm dưới nắng gắt rồi cắm sạc ngay, bộ quản lý pin có thể giảm dòng sạc để bảo vệ. Ngược lại, những đêm gió mùa lạnh, xe để ở sân nhà ở Đông Anh cũng sạc chậm hơn. Để xe nghỉ cho nguội, sạc ở chỗ thoáng mát, có mái che. Bài [xe máy điện thuê khi trời quá nóng](/xe-may/2026/10/09/xe-may-dien-thue-khi-troi-qua-nong-pin-co-sao-khong/) nói rõ thêm.
 
 ## Đèn sạc báo xanh mà đồng hồ pin chưa đầy
 
@@ -46,7 +46,7 @@ Pin không thích nhiệt độ cực đoan. Những trưa hè Hà Nội, xe v�
 - **Pin chai.** Pin yếu chạm ngưỡng điện áp đầy sớm hơn, củ sạc báo xong, nhưng lượng điện thực chứa được ít hơn.
 - **Bộ sạc không đúng.** Củ sạc khác loại có thể dừng ở ngưỡng thấp hơn mức pin cần.
 
-Ý nghĩa các biểu tượng và vạch pin trên đồng hồ được giải thích trong bài [đèn báo lỗi và biểu tượng trên đồng hồ xe máy điện](/xe-may/2026/10/11/en-bao-loi-va-bieu-tuong-tren-ong-ho-xe-may-ien-oc-the-nao/).
+Ý nghĩa các biểu tượng và vạch pin trên đồng hồ được giải thích trong bài [đèn báo lỗi và biểu tượng trên đồng hồ xe máy điện](/xe-may/2026/10/11/den-bao-loi-va-bieu-tuong-tren-dong-ho-xe-may-dien-doc-the-nao/).
 
 ## Phân biệt hiện tượng bình thường và dấu hiệu bất thường
 
@@ -74,7 +74,7 @@ Có những dấu hiệu không nên chờ quan sát thêm. Hãy rút sạc, đ�
 - **Sạc không vào**: đèn không lên, hoặc cắm cả buổi mà mức pin không đổi.
 - Dây sạc nứt vỏ, phích cắm cháy sém, ổ điện có tia lửa.
 
-Nếu xe hoàn toàn không nhận sạc, các bước kiểm tra ổ điện và dây được nói trong bài [xe điện không nhận sạc: các bước kiểm tra ban đầu](/xe-may/2026/10/04/xe-ien-khong-nhan-sac-cac-buoc-kiem-tra-ban-au/).
+Nếu xe hoàn toàn không nhận sạc, các bước kiểm tra ổ điện và dây được nói trong bài [xe điện không nhận sạc: các bước kiểm tra ban đầu](/xe-may/2026/10/04/xe-dien-khong-nhan-sac-cac-buoc-kiem-tra-ban-dau/).
 
 ## Những điều không nên tự làm
 

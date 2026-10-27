@@ -43,7 +43,7 @@ Quãng chạy cả ngày: chừng mươi cây số.
 
 ## Ngày ba: Tây Hồ và Long Biên
 
-Buổi sáng, đi chùa Trấn Quốc ở đầu đường Thanh Niên rồi chạy một vòng Hồ Tây thong thả, ghé Phủ Tây Hồ hay một quán cà phê ven hồ. Vòng hồ dài nhưng đường bằng phẳng, nhiều chỗ nghỉ; chia vòng hồ, chỗ nghỉ và đoạn nên đi chậm có ở bài [chạy vòng Hồ Tây bằng xe 50cc](/xe-may/2026/10/11/chay-vong-ho-tay-bang-xe-50cc-bao-lau-nghi-o-au-oan-nao-nen-i-cham/ "Chạy vòng Hồ Tây bằng xe 50cc").
+Buổi sáng, đi chùa Trấn Quốc ở đầu đường Thanh Niên rồi chạy một vòng Hồ Tây thong thả, ghé Phủ Tây Hồ hay một quán cà phê ven hồ. Vòng hồ dài nhưng đường bằng phẳng, nhiều chỗ nghỉ; chia vòng hồ, chỗ nghỉ và đoạn nên đi chậm có ở bài [chạy vòng Hồ Tây bằng xe 50cc](/xe-may/2026/10/11/chay-vong-ho-tay-bang-xe-50cc-bao-lau-nghi-o-dau-doan-nao-nen-di-cham/ "Chạy vòng Hồ Tây bằng xe 50cc").
 
 Buổi chiều, chạy về phía cầu Long Biên. Cây cầu sắt cũ dành cho xe máy, xe đạp và người đi bộ, là cách qua sông Hồng chậm rãi nhất và cũng nhiều cảnh nhất. Sang bờ Long Biên, nếu bạn thuê xe ở Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, cửa hàng ở ngay bên này sông; trả xe trước giờ đóng cửa lúc 21:00 là trọn vẹn ba ngày.
 

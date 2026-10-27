@@ -36,9 +36,9 @@ Khi nhận xe, bạn có thể hỏi gọn mấy câu:
 3. Chủ xe có muốn khách hạn chế sạc nhanh không, hay chỉ dùng khi thật cần?
 4. Pin tháo rời mang đi sạc được hay pin cố định trên xe?
 
-Câu hỏi thứ tư liên quan nhiều tới cách bạn sạc trong ngày. Nếu chưa rõ khác biệt, xem bài [pin tháo rời hay pin cố định](/xe-may/2026/10/11/pin-thao-roi-hay-pin-co-inh-chon-xe-may-ien-nao-khi-thue-o-ha-noi/).
+Câu hỏi thứ tư liên quan nhiều tới cách bạn sạc trong ngày. Nếu chưa rõ khác biệt, xem bài [pin tháo rời hay pin cố định](/xe-may/2026/10/11/pin-thao-roi-hay-pin-co-dinh-chon-xe-may-dien-nao-khi-thue-o-ha-noi/).
 
-Cũng nên biết rằng nhiều trụ sạc lớn, có màn hình mà bạn thấy ven đường hay trong bãi đỗ trung tâm thương mại được dựng cho ô tô điện. Thấy trụ sạc không có nghĩa xe máy của bạn cắm được. Bài [sạc xe máy điện thuê ở trạm sạc công cộng](/xe-may/2026/10/09/sac-xe-may-ien-thue-o-tram-sac-cong-cong-nhu-the-nao/) mô tả cách nhận ra điểm sạc dành cho xe máy.
+Cũng nên biết rằng nhiều trụ sạc lớn, có màn hình mà bạn thấy ven đường hay trong bãi đỗ trung tâm thương mại được dựng cho ô tô điện. Thấy trụ sạc không có nghĩa xe máy của bạn cắm được. Bài [sạc xe máy điện thuê ở trạm sạc công cộng](/xe-may/2026/10/09/sac-xe-may-dien-thue-o-tram-sac-cong-cong-nhu-the-nao/) mô tả cách nhận ra điểm sạc dành cho xe máy.
 
 ## Khi nào nên dùng trụ sạc nhanh xe máy điện
 

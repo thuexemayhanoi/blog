@@ -38,7 +38,7 @@ Vài thói quen giúp đọc pin chính xác hơn:
 - Coi quãng đường ước tính là con số tham khảo. Nó tính theo kiểu chạy gần nhất, chở hai người hay đi ngược gió trên đê sẽ làm con số tụt nhanh.
 - Kiểm tra lại pin ngay trước khi xuất phát chặng dài, không dựa vào lần xem từ sáng.
 
-Nếu chưa quen các biểu tượng trên mặt đồng hồ, xem thêm bài [đèn báo lỗi và biểu tượng trên đồng hồ xe máy điện](/xe-may/2026/10/11/en-bao-loi-va-bieu-tuong-tren-ong-ho-xe-may-ien-oc-the-nao/) trước khi dựa vào ứng dụng.
+Nếu chưa quen các biểu tượng trên mặt đồng hồ, xem thêm bài [đèn báo lỗi và biểu tượng trên đồng hồ xe máy điện](/xe-may/2026/10/11/den-bao-loi-va-bieu-tuong-tren-dong-ho-xe-may-dien-doc-the-nao/) trước khi dựa vào ứng dụng.
 
 ## Định vị xe máy điện thuê và quyền riêng tư của bạn
 

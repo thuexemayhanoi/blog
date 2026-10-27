@@ -31,7 +31,7 @@ Tuyến đê ven sông Hồng chạy qua Yên Phụ, Nghi Tàm, Âu Cơ cao hơn
 - **Xe ga 50cc: giữ ga đều, vặn sâu dần.** Đừng nhả ga rồi vặn lại giữa dốc, xe sẽ mất đà.
 - **Người ngồi sau ngồi yên, hơi đổ người về phía trước.** Nếu dốc gắt và xe nặng, để người ngồi sau xuống đi bộ lên, đỡ cho cả xe lẫn người lái.
 
-Kinh nghiệm leo dốc dài hơn như dốc cầu có ở bài [xe 50cc thuê leo dốc cầu Diễn được không](/xe-may/2026/10/09/xe-50cc-thue-leo-doc-cau-dien-uoc-khong/ "Xe 50cc thuê leo dốc cầu Diễn").
+Kinh nghiệm leo dốc dài hơn như dốc cầu có ở bài [xe 50cc thuê leo dốc cầu Diễn được không](/xe-may/2026/10/09/xe-50cc-thue-leo-doc-cau-dien-duoc-khong/ "Xe 50cc thuê leo dốc cầu Diễn").
 
 ## Phải dừng giữa dốc thì sao
 
@@ -62,6 +62,6 @@ Có những con dốc vừa ngắn vừa rất gắt, lại hẹp và đông ng�
 
 ## Đi chơi quanh khu đê và Hồ Tây
 
-Biết đường dốc rồi, khu ven đê và Hồ Tây là nơi rất hợp để đi chậm bằng xe nhỏ. Vòng hồ, chỗ dừng nghỉ và đoạn nên đi chậm có ở bài [chạy vòng Hồ Tây bằng xe 50cc](/xe-may/2026/10/11/chay-vong-ho-tay-bang-xe-50cc-bao-lau-nghi-o-au-oan-nao-nen-i-cham/ "Chạy vòng Hồ Tây bằng xe 50cc"), còn cách xuất phát khi đèn xanh bật ở các nút giao đông như chân đê có ở bài [xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-ong-cach-xuat-phat-khi-en-xanh-bat/ "Xe 50cc tăng tốc chậm ở ngã tư đông").
+Biết đường dốc rồi, khu ven đê và Hồ Tây là nơi rất hợp để đi chậm bằng xe nhỏ. Vòng hồ, chỗ dừng nghỉ và đoạn nên đi chậm có ở bài [chạy vòng Hồ Tây bằng xe 50cc](/xe-may/2026/10/11/chay-vong-ho-tay-bang-xe-50cc-bao-lau-nghi-o-dau-doan-nao-nen-di-cham/ "Chạy vòng Hồ Tây bằng xe 50cc"), còn cách xuất phát khi đèn xanh bật ở các nút giao đông như chân đê có ở bài [xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-dong-cach-xuat-phat-khi-den-xanh-bat/ "Xe 50cc tăng tốc chậm ở ngã tư đông").
 
 Các bài khác về dòng xe này có ở chuyên mục [xe 50cc](/xe-may/xe-50cc/ "Xe 50cc"), còn toàn bộ thông tin về các dòng xe ở mục [xe máy](/xe-may/ "Xe máy cho thuê ở Hà Nội").

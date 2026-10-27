@@ -28,7 +28,7 @@ Con số này phụ thuộc vào pin của chiếc xe cụ thể, bạn sạc m�
 Dung lượng pin thường được ghi trên vỏ pin, trên tem dán gần hộc pin hoặc trong sách hướng dẫn đi kèm xe. Có hai cách ghi hay gặp:
 
 - **Ghi thẳng bằng Wh** (oát giờ). Đây là trường hợp dễ nhất.
-- **Ghi điện áp (V) và dung lượng (Ah).** Khi đó nhân hai số với nhau sẽ ra Wh. Nếu chưa quen cách đọc các con số này, xem bài [đọc thông số xe máy điện: điện áp, Ah và công suất](/xe-may/2026/10/11/oc-thong-so-xe-may-ien-ien-ap-ah-va-cong-suat-noi-gi-ve-quang-uong/).
+- **Ghi điện áp (V) và dung lượng (Ah).** Khi đó nhân hai số với nhau sẽ ra Wh. Nếu chưa quen cách đọc các con số này, xem bài [đọc thông số xe máy điện: điện áp, Ah và công suất](/xe-may/2026/10/11/doc-thong-so-xe-may-dien-dien-ap-ah-va-cong-suat-noi-gi-ve-quang-duong/).
 
 Có số Wh rồi, công thức ước lượng một lần sạc đầy từ gần cạn như sau:
 
@@ -64,7 +64,7 @@ Tùy cách dãy trọ chia điện, có thể chọn một trong ba cách sau:
 2. **Tính theo số lần sạc.** Mỗi lần sạc ghi vào một cuốn sổ hoặc nhắn tin báo chủ nhà, cuối tháng nhân với số kWh trung bình mỗi lần đã đo. Hợp với người sạc không đều.
 3. **Tính theo công tơ phụ hoặc ổ đo điện năng.** Chụp ảnh số đầu kỳ và cuối kỳ, gửi cho chủ trọ. Minh bạch nhất, ít tranh cãi nhất.
 
-Dù chọn cách nào, hãy ghi lại bằng văn bản: một tin nhắn Zalo hoặc vài dòng viết tay có chữ ký hai bên, nêu rõ cách tính, đơn giá, ngày chốt số, và ai chịu trách nhiệm về ổ cắm. Khi thuê xe theo tháng, nên làm việc này ngay trong tuần đầu, cùng lúc với các việc ở trọ khác được nói trong bài [xe máy điện thuê theo tháng khi ở trọ](/thue-xe/2026/10/11/xe-may-ien-thue-theo-thang-khi-o-tro-cho-sac-an-toan-va-quang-uong/).
+Dù chọn cách nào, hãy ghi lại bằng văn bản: một tin nhắn Zalo hoặc vài dòng viết tay có chữ ký hai bên, nêu rõ cách tính, đơn giá, ngày chốt số, và ai chịu trách nhiệm về ổ cắm. Khi thuê xe theo tháng, nên làm việc này ngay trong tuần đầu, cùng lúc với các việc ở trọ khác được nói trong bài [xe máy điện thuê theo tháng khi ở trọ](/thue-xe/2026/10/11/xe-may-dien-thue-theo-thang-khi-o-tro-cho-sac-an-toan-va-quang-duong/).
 
 ## An toàn là một phần của thỏa thuận
 

@@ -57,7 +57,7 @@ Quanh chợ Trâu Quỳ và khu Học viện Nông nghiệp Việt Nam, đườn
 
 ### Sang Đa Tốn và làng quê lân cận
 
-Đường vào Đa Tốn có đoạn làng nhỏ, đoạn ven ruộng, đôi chỗ mặt đường xấu hoặc có xe chở vật liệu. Đây là quãng xe 50cc chạy được, nhưng nên chậm lại ở ngõ hẹp và khúc cua khuất. Nếu đi tiếp sang làng gốm, bài [xe 50cc đi làng gốm Bát Tràng](/xe-may/2026/10/11/xe-50cc-i-lang-gom-bat-trang-quang-uong-mat-uong-va-gio-nen-i/) có hướng dẫn chặng đê và giờ nên đi.
+Đường vào Đa Tốn có đoạn làng nhỏ, đoạn ven ruộng, đôi chỗ mặt đường xấu hoặc có xe chở vật liệu. Đây là quãng xe 50cc chạy được, nhưng nên chậm lại ở ngõ hẹp và khúc cua khuất. Nếu đi tiếp sang làng gốm, bài [xe 50cc đi làng gốm Bát Tràng](/xe-may/2026/10/11/xe-50cc-di-lang-gom-bat-trang-quang-duong-mat-duong-va-gio-nen-di/) có hướng dẫn chặng đê và giờ nên đi.
 
 ## Những đoạn quanh Gia Lâm xe 50cc không nên hoặc không được vào
 
