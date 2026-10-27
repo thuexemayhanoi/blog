@@ -43,7 +43,7 @@ Biển phụ bên dưới có thể ghi khung giờ hoặc loại xe áp dụng;
 
 Không thấy biển cấm không có nghĩa là quay đầu ở đâu cũng được. Điều 15 Luật Trật tự, an toàn giao thông đường bộ 2024 (số 36/2024/QH15) quy định không được quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, trong hầm đường bộ, trên đường cao tốc, nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn cong tầm nhìn bị che khuất và trên đường một chiều, trừ khi có hiệu lệnh của người điều khiển giao thông hoặc chỉ dẫn của biển báo hiệu tạm thời.
 
-Hai lỗi xe máy hay mắc nhất là quay đầu ngay trên vạch người đi bộ qua đường và quay đầu sát đầu cầu. Ví dụ bạn chạy từ Long Biên qua cầu Chương Dương sang phía Hoàn Kiếm rồi chợt nhớ để quên đồ: đừng vòng xe ở đầu cầu, hãy đi tiếp đến nút giao phía trước, đọc biển rồi mới tính đường quay lại. Vạch liền giữa đường và dải phân cách cứng cũng không được cắt ngang để quay xe; xem thêm bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-uong-xe-may-phai-i-the-nao/).
+Hai lỗi xe máy hay mắc nhất là quay đầu ngay trên vạch người đi bộ qua đường và quay đầu sát đầu cầu. Ví dụ bạn chạy từ Long Biên qua cầu Chương Dương sang phía Hoàn Kiếm rồi chợt nhớ để quên đồ: đừng vòng xe ở đầu cầu, hãy đi tiếp đến nút giao phía trước, đọc biển rồi mới tính đường quay lại. Vạch liền giữa đường và dải phân cách cứng cũng không được cắt ngang để quay xe; xem thêm bài [vạch kẻ đường xe máy phải đi thế nào](/an-toan-phap-ly/2026/09/28/vach-ke-duong-xe-may-phai-di-the-nao/).
 
 ## Tình huống thường gặp khi đi xe máy thuê ở Hà Nội
 
@@ -57,7 +57,7 @@ Với P.124c, bạn không được rẽ trái cũng không được quay đầu
 
 ### Gặp P.124a mà cần rẽ trái
 
-P.124a chỉ cấm quay đầu, nên rẽ trái sang tuyến khác vẫn được nếu không có biển, đèn mũi tên hay vạch kẻ nào khác ngăn lại. Có khách thấy P.124a liền né luôn cả rẽ trái, chạy vòng thêm một đoạn không cần thiết. Hãy để ý thêm các [biển báo hiệu lệnh cần tuân thủ khi đi xe](/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe/), vì chúng có thể giới hạn hướng đi theo cách khác.
+P.124a chỉ cấm quay đầu, nên rẽ trái sang tuyến khác vẫn được nếu không có biển, đèn mũi tên hay vạch kẻ nào khác ngăn lại. Có khách thấy P.124a liền né luôn cả rẽ trái, chạy vòng thêm một đoạn không cần thiết. Hãy để ý thêm các [biển báo hiệu lệnh cần tuân thủ khi đi xe](/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-di-xe/), vì chúng có thể giới hạn hướng đi theo cách khác.
 
 ## Xử phạt và năm bước tránh lỗi trên xe thuê
 

@@ -27,14 +27,14 @@ Luật không đặt ngưỡng số xe. Vì vậy đừng nghĩ hai xe chạy s�
 
 Vài quy định khác của cùng luật áp dụng thẳng vào chuyện đi nhóm:
 
-- **Khoản 1 Điều 33:** mỗi xe thường chỉ chở một người, chở hai người chỉ trong một số trường hợp luật nêu. Chi tiết ở bài [chở người trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/).
+- **Khoản 1 Điều 33:** mỗi xe thường chỉ chở một người, chở hai người chỉ trong một số trường hợp luật nêu. Chi tiết ở bài [chở người trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-dinh-hien-hanh/).
 - **Khoản 2 Điều 33:** người lái và người ngồi sau đội mũ bảo hiểm đúng quy chuẩn, cài quai đúng quy cách.
 - **Khoản 2 Điều 13:** trên đường nhiều làn, đi trong một làn, chỉ chuyển làn ở nơi cho phép, có tín hiệu báo trước và giữ khoảng cách an toàn với xe phía trước, phía sau và hai bên.
 - **Điều 9** liệt kê các hành vi bị nghiêm cấm, trong đó có đua xe trái phép. Cả nhóm rủ nhau "thử ga" trên đường vắng là đã đi vào vùng này.
 
 ## Dàn hàng ngang có bị phạt không
 
-Có. Việc xử phạt người điều khiển xe mô tô, xe gắn máy nằm ở Điều 7 Nghị định 168/2024/NĐ-CP, trong đó có hành vi điều khiển xe chạy dàn hàng ngang. Các văn bản xử phạt từ trước tới nay thường mô tả hành vi bị phạt là chạy dàn hàng ngang từ ba xe trở lên; mô tả chính xác và mức tiền hiện hành, hãy đọc nguyên văn nghị định. Các nhóm lỗi khác của xe máy có trong bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-inh-xu-phat-vi-pham-giao-thong-xe-may/).
+Có. Việc xử phạt người điều khiển xe mô tô, xe gắn máy nằm ở Điều 7 Nghị định 168/2024/NĐ-CP, trong đó có hành vi điều khiển xe chạy dàn hàng ngang. Các văn bản xử phạt từ trước tới nay thường mô tả hành vi bị phạt là chạy dàn hàng ngang từ ba xe trở lên; mô tả chính xác và mức tiền hiện hành, hãy đọc nguyên văn nghị định. Các nhóm lỗi khác của xe máy có trong bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-dinh-xu-phat-vi-pham-giao-thong-xe-may/).
 
 Đừng lấy ngưỡng số xe làm chỗ lách. Hai xe song song vẫn trái Điều 33 của luật, vẫn chặn lối xe sau vượt, và khi một xe loạng choạng thì xe kia không còn chỗ tránh.
 
@@ -69,7 +69,7 @@ Tấp hẳn vào chỗ rộng, ngoài phần đường xe chạy, xếp xe một
 
 ## Đường vành đai, đường đê và quốc lộ: lưu ý riêng
 
-- **Đường vành đai:** đọc biển ở đầu tuyến. Đường trên cao Vành đai 3 không cho xe máy lên; xe máy đi đường bên dưới theo chỉ dẫn. Xe máy cũng không được vào cao tốc, xem bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+- **Đường vành đai:** đọc biển ở đầu tuyến. Đường trên cao Vành đai 3 không cho xe máy lên; xe máy đi đường bên dưới theo chỉ dẫn. Xe máy cũng không được vào cao tốc, xem bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 - **Đường đê:** hẹp, nhiều dốc ở chỗ giao với đường ngang, nên đoàn càng phải đi một hàng và giảm tốc trước dốc.
 - **Quốc lộ ra ngoại thành** như Quốc lộ 32 đi Sơn Tây hay Quốc lộ 6 qua Hà Đông: xe khách, xe tải đông và chạy nhanh. Giữ cả đoàn ở phía bên phải, không dàn ra giữa đường dù đường vắng.
 

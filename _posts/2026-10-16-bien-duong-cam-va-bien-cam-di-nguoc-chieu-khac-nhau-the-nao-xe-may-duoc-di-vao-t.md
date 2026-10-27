@@ -56,7 +56,7 @@ Biển P.101 cấm đi lại cả hai hướng, nên vòng sang đầu kia cũng
 
 Khu phố cổ Hoàn Kiếm có nhiều phố một chiều nối tiếp nhau, và ứng dụng bản đồ không phải lúc nào cũng cập nhật kịp. Giả sử bạn từ hồ Hoàn Kiếm muốn sang một phố gần đó nhưng đầu phố trước mặt dựng biển P.102. Hãy đi tiếp một khối phố, rẽ vào phố song song rồi vòng lại đầu đúng chiều. Mất thêm vài phút nhưng không phải ép xe ngược dòng giữa phố hẹp, nơi xe máy, xích lô và người đi bộ đi sát nhau.
 
-Quanh khu phố đi bộ Hoàn Kiếm, một số tuyến được rào chắn theo khung giờ. Khi đó hãy đọc biển và biển phụ thời gian tại chỗ, đồng thời xem bài [biển báo khu vực phố đi bộ](/an-toan-phap-ly/2026/09/28/bien-bao-khu-vuc-pho-i-bo/) để biết chỗ dừng xe hợp lý trước khi đi bộ vào trong.
+Quanh khu phố đi bộ Hoàn Kiếm, một số tuyến được rào chắn theo khung giờ. Khi đó hãy đọc biển và biển phụ thời gian tại chỗ, đồng thời xem bài [biển báo khu vực phố đi bộ](/an-toan-phap-ly/2026/09/28/bien-bao-khu-vuc-pho-di-bo/) để biết chỗ dừng xe hợp lý trước khi đi bộ vào trong.
 
 ### Ngõ nhỏ ở Ba Đình và Đống Đa
 

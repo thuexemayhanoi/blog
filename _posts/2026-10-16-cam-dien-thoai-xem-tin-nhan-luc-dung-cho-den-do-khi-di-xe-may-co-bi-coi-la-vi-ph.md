@@ -27,13 +27,13 @@ Khoản 6 Điều 9 Luật Trật tự, an toàn giao thông đường bộ số
 
 Ngoài ra, điểm c khoản 3 Điều 33 cấm người lái xe mô tô, xe gắn máy sử dụng thiết bị âm thanh, trừ thiết bị trợ thính. Nghĩa là đeo tai nghe nghe điện thoại trong lúc lái cũng không phải lối thoát.
 
-Mức xử phạt cụ thể nằm trong Nghị định 168/2024/NĐ-CP. Cách đọc nghị định và các nhóm hành vi thường gặp có ở bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-inh-xu-phat-vi-pham-giao-thong-xe-may/).
+Mức xử phạt cụ thể nằm trong Nghị định 168/2024/NĐ-CP. Cách đọc nghị định và các nhóm hành vi thường gặp có ở bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-dinh-xu-phat-vi-pham-giao-thong-xe-may/).
 
 ## Vì sao lúc chờ đèn đỏ bạn vẫn đang điều khiển xe tham gia giao thông
 
 Nhiều người nghĩ đèn đỏ là lúc được nghỉ. Thực tế, dừng chờ đèn là đang chấp hành tín hiệu giao thông, một phần của việc lái xe, chứ không phải dừng xe bên lề hay đỗ xe. Bạn vẫn ngồi trên yên, máy vẫn nổ, xe vẫn đứng trong làn, giữa dòng xe đang chờ cùng một nhịp đèn.
 
-Lúc đó mọi nghĩa vụ của người lái vẫn nguyên: dừng trước vạch, đứng đúng làn đã chọn, sẵn sàng đi tiếp khi đèn xanh, nhường đường cho người đi bộ còn trên vạch. Quy tắc chấp hành đèn được tổng hợp ở bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/en-tin-hieu-va-coi-xe-may-theo-quy-inh/).
+Lúc đó mọi nghĩa vụ của người lái vẫn nguyên: dừng trước vạch, đứng đúng làn đã chọn, sẵn sàng đi tiếp khi đèn xanh, nhường đường cho người đi bộ còn trên vạch. Quy tắc chấp hành đèn được tổng hợp ở bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/den-tin-hieu-va-coi-xe-may-theo-quy-dinh/).
 
 Còn với riêng điều cấm dùng điện thoại, câu chữ gắn với lúc phương tiện đang di chuyển. Vì vậy nhiều người hiểu rằng khi bánh xe đứng yên hẳn thì chưa đủ yếu tố thứ ba. Tôi không khẳng định thay cơ quan chức năng chuyện một lần dừng cụ thể có bị lập biên bản hay không. Điều tôi chắc là ranh giới ấy mỏng hơn người ta tưởng:
 
@@ -50,7 +50,7 @@ Người đi làm từ Long Biên sang Cầu Giấy hay Thanh Xuân mỗi ngày 
 - **Gõ nốt tin nhắn khi đèn đếm ngược sắp hết.** Đèn xanh, xe sau bấm còi, bạn một tay giữ ga một tay nhét máy vào túi. Đó là đúng hành vi khoản 6 Điều 9 cấm.
 - **Mải nhìn màn hình rồi dừng quá vạch.** Ở các nút lớn như Ngã Tư Sở hay Kim Liên, đứng lấn lên vạch người đi bộ là vi phạm tín hiệu, không cần bàn chuyện điện thoại.
 
-- **Đứng sai làn vì không để ý.** Nhìn điện thoại suốt lúc vào nút, đến khi ngẩng lên mới biết mình đang ở làn rẽ trái trong khi cần đi thẳng. Bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/ung-lan-xe-may-khi-qua-nut-giao-lon/) giúp bạn chọn làn từ sớm.
+- **Đứng sai làn vì không để ý.** Nhìn điện thoại suốt lúc vào nút, đến khi ngẩng lên mới biết mình đang ở làn rẽ trái trong khi cần đi thẳng. Bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/dung-lan-xe-may-khi-qua-nut-giao-lon/) giúp bạn chọn làn từ sớm.
 
 - **Bị giật điện thoại.** Lúc dừng đèn, tay cầm máy hờ là cảnh kẻ gian nhắm tới. Nếu chẳng may mất máy có cài ứng dụng định danh, làm theo bài [mất điện thoại có ứng dụng VNeID khi đang đi xe máy](/an-toan-phap-ly/2026/10/16/mat-dien-thoai-co-ung-dung-vneid-khi-dang-di-xe-may-khoa-tai-khoan-va-xuat-trinh/).
 

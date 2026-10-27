@@ -38,7 +38,7 @@ Cách nhớ ngắn gọn:
 - Tam giác vàng W.246: phía trước có chướng ngại vật, hãy chậm lại và chuẩn bị.
 - Tròn xanh R.302: tới chỗ vật cản, phải vòng đúng phía mũi tên.
 
-Muốn ôn lại hai nhóm biển, xem bài [biển báo hiệu lệnh cần tuân thủ khi đi xe](/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe/).
+Muốn ôn lại hai nhóm biển, xem bài [biển báo hiệu lệnh cần tuân thủ khi đi xe](/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-di-xe/).
 
 ## Tình huống hay gặp ở Hà Nội
 
@@ -54,7 +54,7 @@ Nhiều nút giao có đảo dẫn hướng hình tam giác để tách luồng 
 
 ### Trụ cầu, cột và rào công trình giữa đường
 
-Dọc những tuyến có cầu cạn hoặc đường sắt trên cao, trụ cầu nằm giữa lòng đường cũng là chướng ngại vật. Khi đường đang thi công, rào chắn có thể dồn dòng xe sang một bên. Điều 11 khoản 12 Luật 36/2024 quy định: cùng một vị trí có biển cố định và biển tạm thời khác ý nghĩa thì chấp hành biển tạm thời. Đọc thêm bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-oan-uong-ang-sua/).
+Dọc những tuyến có cầu cạn hoặc đường sắt trên cao, trụ cầu nằm giữa lòng đường cũng là chướng ngại vật. Khi đường đang thi công, rào chắn có thể dồn dòng xe sang một bên. Điều 11 khoản 12 Luật 36/2024 quy định: cùng một vị trí có biển cố định và biển tạm thời khác ý nghĩa thì chấp hành biển tạm thời. Đọc thêm bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-doan-duong-dang-sua/).
 
 ## Đi vòng chướng ngại vật đúng cách bằng xe máy
 

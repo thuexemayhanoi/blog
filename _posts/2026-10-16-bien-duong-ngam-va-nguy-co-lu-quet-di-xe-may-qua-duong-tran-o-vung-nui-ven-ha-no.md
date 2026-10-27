@@ -79,7 +79,7 @@ Nghị định 168/2024/NĐ-CP, Điều 7, có nhóm hành vi không chấp hàn
 
 - **Xem dự báo và cảnh báo** của Trung tâm Dự báo khí tượng thủy văn quốc gia trước khi đi, đặc biệt các bản tin cảnh báo lũ quét, sạt lở.
 - **Đi sớm, về trước tối.** Gặp ngầm ngập lúc chiều muộn, bạn sẽ có ít lựa chọn hơn.
-- **Đọc biển dọc đường.** Biển dốc, biển ngoặt và biển ngầm thường đi liền nhau ở vùng núi, xem bài [biển dốc nguy hiểm và chỗ ngoặt liên tiếp khi lên Ba Vì, Tam Đảo](/an-toan-phap-ly/2026/10/16/bien-doc-nguy-hiem-va-cho-ngoat-lien-tiep-khi-len-ba-vi-tam-dao-bang-xe-may-doc/) và tổng quan [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-uong-truong/).
+- **Đọc biển dọc đường.** Biển dốc, biển ngoặt và biển ngầm thường đi liền nhau ở vùng núi, xem bài [biển dốc nguy hiểm và chỗ ngoặt liên tiếp khi lên Ba Vì, Tam Đảo](/an-toan-phap-ly/2026/10/16/bien-doc-nguy-hiem-va-cho-ngoat-lien-tiep-khi-len-ba-vi-tam-dao-bang-xe-may-doc/) và tổng quan [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-duong-truong/).
 - **Kiểm tra phanh, đèn, lốp** khi nhận xe.
 
 Với xe thuê ở Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, hư hỏng do ngập nước được xử lý thế nào thì xác nhận trực tiếp với cửa hàng trước chuyến đi. Xe gặp sự cố trên đường, gọi 0942 467 674 trong giờ 09:00–21:00.

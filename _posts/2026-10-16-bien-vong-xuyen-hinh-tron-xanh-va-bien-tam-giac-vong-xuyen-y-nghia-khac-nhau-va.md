@@ -24,7 +24,7 @@ Cả hai biển có trong QCVN 41:2024/BGTVT, quy chuẩn kỹ thuật quốc gi
 - Biển W.206 "Giao nhau chạy theo vòng xuyến" thuộc nhóm biển báo nguy hiểm và cảnh báo. Biển hình tam giác đều, viền đỏ, nền vàng, bên trong là các mũi tên đen nối nhau thành vòng. Biển báo trước sắp đến nơi giao nhau có đảo an toàn ở giữa, xe phải đi vòng quanh đảo. Quy chuẩn cho phép không đặt biển này trong nội thành, nội thị.
 - Biển R.303 "Nơi giao nhau chạy theo vòng xuyến" thuộc nhóm biển hiệu lệnh. Biển hình tròn, nền xanh lam, ba mũi tên trắng nối đuôi nhau chạy vòng. Biển bắt buộc các loại xe, cả cơ giới lẫn thô sơ, muốn chuyển hướng phải chạy vòng quanh đảo an toàn theo chiều mũi tên.
 
-Cách nhớ tôi hay dặn khách: tam giác vàng là "sắp đến", tròn xanh là "phải làm". Muốn ôn lại hai nhóm biển này, xem bài [biển báo hiệu lệnh cần tuân thủ khi đi xe](/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe/) và [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-uong-truong/).
+Cách nhớ tôi hay dặn khách: tam giác vàng là "sắp đến", tròn xanh là "phải làm". Muốn ôn lại hai nhóm biển này, xem bài [biển báo hiệu lệnh cần tuân thủ khi đi xe](/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-di-xe/) và [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-duong-truong/).
 
 ## Biển R303 vòng xuyến: đi vòng theo chiều mũi tên
 

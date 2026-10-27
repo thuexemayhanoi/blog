@@ -65,7 +65,7 @@ Biển phụ hướng tác dụng vẽ mũi tên thay cho số mét. Theo hình 
 - **Mũi tên nằm ngang**: biển chính áp dụng về phía bên trái, bên phải hoặc cả hai phía, vuông góc với chiều xe đang đi, chẳng hạn một nhánh rẽ cạnh đường.
 - **Mũi tên thẳng đứng dưới biển cấm dừng, cấm đỗ**: chỉ đoạn áp dụng dọc theo chiều đi. Mũi tên hướng lên là đoạn cấm bắt đầu từ biển về phía trước, mũi tên hai đầu là bạn đang ở giữa đoạn cấm, mũi tên hướng xuống là đoạn cấm kết thúc tại biển.
 
-Chuyện phân biệt dừng và đỗ xem thêm ở bài [đọc biển báo cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/oc-bien-bao-cam-o-va-cam-dung-tren-via-he/).
+Chuyện phân biệt dừng và đỗ xem thêm ở bài [đọc biển báo cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/doc-bien-bao-cam-do-va-cam-dung-tren-via-he/).
 
 ## Tình huống hay gặp ở Hà Nội
 

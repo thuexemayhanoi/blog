@@ -36,7 +36,7 @@ Cả bốn biển dưới đây thuộc nhóm biển báo nguy hiểm và cảnh
 - Biển số W.204 "Đường hai chiều": đặt ở chỗ chuyển tiếp từ đường có dải phân cách giữa sang đường đi chung hai chiều, hoặc khi hết đoạn đường một chiều.
 - Biển số W.234 "Giao nhau với đường hai chiều": đặt trên đường một chiều, báo trước sắp tới chỗ giao với một đường hai chiều.
 
-Biển W.235 và W.236 trông khá giống nhau; cứ thấy biển tam giác có mũi tên ngược chiều là chuẩn bị gặp xe đi đối diện. Ôn lại cả nhóm biển tam giác ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-uong-truong/).
+Biển W.235 và W.236 trông khá giống nhau; cứ thấy biển tam giác có mũi tên ngược chiều là chuẩn bị gặp xe đi đối diện. Ôn lại cả nhóm biển tam giác ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-duong-truong/).
 
 ## Gặp biển kết thúc đường đôi: xe máy làm gì
 

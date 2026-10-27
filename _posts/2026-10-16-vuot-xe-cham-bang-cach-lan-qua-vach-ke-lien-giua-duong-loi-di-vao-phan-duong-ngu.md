@@ -81,7 +81,7 @@ Khoản 6 của điều này liệt kê nơi không được vượt, gồm cầ
 
 ## Đi xe thuê: thêm một lý do để kiên nhẫn
 
-Với xe thuê, thông báo vi phạm qua hình ảnh gửi tới người đứng tên xe, tức cửa hàng, rồi mới xác định người cầm lái. Xem bài [đi xe thuê dính phạt nguội ai nhận thông báo](/an-toan-phap-ly/2026/10/05/i-xe-thue-dinh-phat-nguoi-ai-nhan-thong-bao/).
+Với xe thuê, thông báo vi phạm qua hình ảnh gửi tới người đứng tên xe, tức cửa hàng, rồi mới xác định người cầm lái. Xem bài [đi xe thuê dính phạt nguội ai nhận thông báo](/an-toan-phap-ly/2026/10/05/di-xe-thue-dinh-phat-nguoi-ai-nhan-thong-bao/).
 
 Trước khi đi xa, báo cửa hàng hành trình và kiểm tra phanh, đèn, còi, gương. Với Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, điều kiện đi xa và cách phối hợp khi có thông báo vi phạm xin xác nhận trực tiếp qua số 0942 467 674, trong giờ 09:00–21:00.
 

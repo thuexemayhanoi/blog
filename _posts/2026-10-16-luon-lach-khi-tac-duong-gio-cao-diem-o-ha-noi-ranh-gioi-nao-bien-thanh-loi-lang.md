@@ -69,7 +69,7 @@ Nhiều người dồn lên sát vạch, đèn xanh thì phóng chéo sang làn 
 
 ## Hậu quả pháp lý cần biết
 
-Mức xử phạt hành chính với người điều khiển xe mô tô, xe gắn máy lạng lách, đánh võng được quy định trong [Nghị định 168/2024/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2). Nghị định này cũng có cơ chế trừ điểm giấy phép lái xe với nhiều nhóm vi phạm. Bài không nêu con số; khi cần, hãy tra đúng điều khoản trong văn bản hiện hành hoặc đọc tổng quan ở bài [Nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-inh-xu-phat-vi-pham-giao-thong-xe-may/).
+Mức xử phạt hành chính với người điều khiển xe mô tô, xe gắn máy lạng lách, đánh võng được quy định trong [Nghị định 168/2024/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2). Nghị định này cũng có cơ chế trừ điểm giấy phép lái xe với nhiều nhóm vi phạm. Bài không nêu con số; khi cần, hãy tra đúng điều khoản trong văn bản hiện hành hoặc đọc tổng quan ở bài [Nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-dinh-xu-phat-vi-pham-giao-thong-xe-may/).
 
 Nếu gây tai nạn với hậu quả nghiêm trọng, người lái có thể bị xem xét trách nhiệm hình sự theo Điều 260 Bộ luật Hình sự năm 2015 (đã sửa đổi, bổ sung) về tội vi phạm quy định về tham gia giao thông đường bộ. Đua xe trái phép là nhóm hành vi riêng, quy định tại Điều 266 và Điều 267 của Bộ luật này.
 

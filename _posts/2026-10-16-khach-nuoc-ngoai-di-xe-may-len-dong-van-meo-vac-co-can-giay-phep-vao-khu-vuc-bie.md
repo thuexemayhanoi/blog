@@ -79,7 +79,7 @@ Cách cư xử chung khi bị dừng xe thuê có ở bài [bị kiểm tra gi�
 
 Báo cửa hàng lịch trình nhiều ngày, có đèo dốc và vào vùng biên. Giấy tờ phải để lại, đặt cọc, bảo hiểm cho người thuê và chuyện trả xe trễ đều xác nhận trực tiếp khi đặt xe.
 
-Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, không giao xe ngoài giờ. Giá tham khảo theo [bảng giá](/bang-gia/): Honda Wave 150.000 đ/ngày, Honda Air Blade 200.000 đ/ngày hoặc 1.000.000 đ/tuần. Gọi 0942 467 674 để chọn xe hợp đường đèo. Danh sách cho chuyến nhiều ngày có trong bài [giấy tờ cần mang khi thuê xe đi đường dài](/an-toan-phap-ly/2026/10/07/giay-to-can-mang-khi-thue-xe-i-uong-dai/).
+Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, không giao xe ngoài giờ. Giá tham khảo theo [bảng giá](/bang-gia/): Honda Wave 150.000 đ/ngày, Honda Air Blade 200.000 đ/ngày hoặc 1.000.000 đ/tuần. Gọi 0942 467 674 để chọn xe hợp đường đèo. Danh sách cho chuyến nhiều ngày có trong bài [giấy tờ cần mang khi thuê xe đi đường dài](/an-toan-phap-ly/2026/10/07/giay-to-can-mang-khi-thue-xe-di-duong-dai/).
 
 ## Nguồn tham khảo
 

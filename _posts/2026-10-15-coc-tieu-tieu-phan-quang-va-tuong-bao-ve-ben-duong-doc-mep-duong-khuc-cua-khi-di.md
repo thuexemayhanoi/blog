@@ -79,7 +79,7 @@ Về tốc độ, Điều 12 khoản 3 yêu cầu quan sát, giảm tốc hoặc
 - **Dừng sát tường bảo vệ ở cua tối.** Nếu bắt buộc phải dừng, tìm chỗ rộng, bật đèn báo cho xe sau. Bài [xe đỗ ven đường không bật đèn lúc tối](/ky-nang/2026/10/11/xe-do-ven-duong-khong-bat-den-luc-toi-phat-hien-som-khi-di-xe-may-ban-dem/) nói về chiều ngược lại của tình huống này.
 - **Đèn xe bẩn hoặc lệch.** Phản quang chỉ sáng khi có đèn chiếu vào; lau mặt đèn trước khi đi.
 
-Ở đầu cầu và nút giao, cọc tiêu thường đi kèm vạch kẻ và đảo dẫn hướng. Cách đọc các vùng vạch đó có trong bài [vạch kênh hóa ở đầu cầu và nút giao](/an-toan-phap-ly/2026/10/16/vach-kenh-hoa-dong-xe-o-dau-cau-va-nut-giao-xe-may-co-duoc-chay-de-len-vung-gach/), còn hàng rào chắn quanh đoạn thi công xem ở bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-oan-uong-ang-sua/).
+Ở đầu cầu và nút giao, cọc tiêu thường đi kèm vạch kẻ và đảo dẫn hướng. Cách đọc các vùng vạch đó có trong bài [vạch kênh hóa ở đầu cầu và nút giao](/an-toan-phap-ly/2026/10/16/vach-kenh-hoa-dong-xe-o-dau-cau-va-nut-giao-xe-may-co-duoc-chay-de-len-vung-gach/), còn hàng rào chắn quanh đoạn thi công xem ở bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-doan-duong-dang-sua/).
 
 ## Chấp hành và trách nhiệm
 

@@ -90,7 +90,7 @@ Ai chịu chi phí làm lại giấy, những ngày xe phải nằm chờ tính 
 - Gửi xe qua đêm ở bãi thì mang túi giấy theo người.
 - Chụp ảnh từng tờ khi nhận xe để báo nhanh nếu lỡ mất.
 
-Cách sắp xếp giấy tờ cho kỳ thuê theo tháng có trong bài [quản lý giấy tờ xe trong kỳ thuê dài hạn](/kinh%20nghi%E1%BB%87m/2026/09/19/quan-ly-giay-to-xe-trong-ky-thue-dai-han/). Nếu chỉ để quên giấy trên xe khi đã trả xe hoặc đổi xe, xem [để quên giấy tờ trên xe thuê giữa kỳ](/an-toan-phap-ly/2026/10/09/e-quen-giay-to-tren-xe-thue-giua-ky-lay-lai-the-nao/).
+Cách sắp xếp giấy tờ cho kỳ thuê theo tháng có trong bài [quản lý giấy tờ xe trong kỳ thuê dài hạn](/kinh%20nghi%E1%BB%87m/2026/09/19/quan-ly-giay-to-xe-trong-ky-thue-dai-han/). Nếu chỉ để quên giấy trên xe khi đã trả xe hoặc đổi xe, xem [để quên giấy tờ trên xe thuê giữa kỳ](/an-toan-phap-ly/2026/10/09/de-quen-giay-to-tren-xe-thue-giua-ky-lay-lai-the-nao/).
 
 ## Văn bản tham khảo
 

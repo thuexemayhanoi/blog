@@ -69,7 +69,7 @@ Không có một con số đúng cho mọi chỗ, nhưng có vài mốc tự ki�
 
 **Đường làng nối ra quốc lộ.** Ra phía Sóc Sơn hay Thanh Oai, đường nhỏ đi qua chợ quê, cổng trường. Biển đi chậm ở đây có thể báo người sắp xuất hiện, không nhất thiết là ổ gà; chạy sát mép phải, sẵn sàng dừng.
 
-**Đoạn đường đang sửa có biển tạm.** Cách đi qua khu vực thi công có ở bài [chạy xe qua khu vực thi công](/ky-nang/2026/10/10/chay-xe-qua-khu-vuc-thi-cong-ne-ranh-va-oc-bien-tam/) và bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-oan-uong-ang-sua/).
+**Đoạn đường đang sửa có biển tạm.** Cách đi qua khu vực thi công có ở bài [chạy xe qua khu vực thi công](/ky-nang/2026/10/10/chay-xe-qua-khu-vuc-thi-cong-ne-ranh-va-doc-bien-tam/) và bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-doan-duong-dang-sua/).
 
 Còn khi biển chấm than đứng cạnh biển đường hay xảy ra tai nạn trên quốc lộ, cách chọn vị trí trong làn và giữ khoảng cách đã có trong bài [biển đoạn đường hay xảy ra tai nạn trên quốc lộ quanh Hà Nội](/an-toan-phap-ly/2026/10/16/bien-doan-duong-hay-xay-ra-tai-nan-tren-quoc-lo-quanh-ha-noi-nguoi-di-xe-may-nen/).
 

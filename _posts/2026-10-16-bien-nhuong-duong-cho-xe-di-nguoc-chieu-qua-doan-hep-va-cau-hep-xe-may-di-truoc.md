@@ -53,7 +53,7 @@ Nhiều cầu nhỏ trên đường làng chỉ có biển tam giác W.212 hoặ
 - Xe xuống dốc phải nhường đường cho xe đang lên dốc.
 - Xe nào có chướng ngại vật phía trước phải nhường đường cho xe không có chướng ngại vật đi trước.
 
-Với biển W.203b và W.203c, nhìn hình vẽ để biết mép nào bị thu vào. Nếu phần hẹp nằm bên phải chiều của bạn, bạn là bên có chướng ngại vật và nên chủ động nhường. Các biển tam giác khác thường gặp ngoài đường trường có ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-uong-truong/).
+Với biển W.203b và W.203c, nhìn hình vẽ để biết mép nào bị thu vào. Nếu phần hẹp nằm bên phải chiều của bạn, bạn là bên có chướng ngại vật và nên chủ động nhường. Các biển tam giác khác thường gặp ngoài đường trường có ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-duong-truong/).
 
 ## Tình huống trên đê sông Hồng, sông Đáy và đường làng
 
@@ -67,7 +67,7 @@ Từ đường làng lên mặt đê thường có một con dốc ngắn chỉ 
 
 ### Đoạn đê thu hẹp vì sạt lở hoặc đang sửa
 
-Đường đê tả ngạn sông Hồng phía Long Biên, Gia Lâm hay đoạn đê qua Thường Tín, Phú Xuyên đôi khi có chỗ thu hẹp tạm do sửa mặt đê. Nơi đó có thể đặt biển tạm thời và người hướng dẫn cầm cờ. Hiệu lệnh của người điều khiển giao thông được chấp hành trước biển báo; xem thêm bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-oan-uong-ang-sua/).
+Đường đê tả ngạn sông Hồng phía Long Biên, Gia Lâm hay đoạn đê qua Thường Tín, Phú Xuyên đôi khi có chỗ thu hẹp tạm do sửa mặt đê. Nơi đó có thể đặt biển tạm thời và người hướng dẫn cầm cờ. Hiệu lệnh của người điều khiển giao thông được chấp hành trước biển báo; xem thêm bài [biển báo tạm thời ở đoạn đường đang sửa](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-doan-duong-dang-sua/).
 
 ## Xử phạt và trách nhiệm khi dùng xe thuê
 

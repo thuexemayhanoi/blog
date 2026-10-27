@@ -81,7 +81,7 @@ Muốn chuyển sang làn khác, khoản 2 Điều 13 yêu cầu chỉ chuyển 
 
 Đưa người và xe vào chỗ an toàn, bật đèn cảnh báo nếu có, gọi cấp cứu 115 khi có người bị thương và báo công an. Với xe đang thuê, chụp ảnh hiện trường rồi báo ngay cho Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, điện thoại 0942467674, mở cửa 09:00–21:00. Không chấp hành báo hiệu hay gây va chạm có thể bị xử phạt theo Nghị định 168/2024/NĐ-CP; tôi không ghi mức tiền vì quy định có thể thay đổi.
 
-Các biển tam giác khác có ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-uong-truong/), trang [biển báo giao thông](/an-toan-phap-ly/bien-bao/) và chuyên mục [an toàn và pháp lý khi thuê xe máy](/an-toan-phap-ly/).
+Các biển tam giác khác có ở bài [biển báo nguy hiểm trên đường trường](/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-duong-truong/), trang [biển báo giao thông](/an-toan-phap-ly/bien-bao/) và chuyên mục [an toàn và pháp lý khi thuê xe máy](/an-toan-phap-ly/).
 
 ## Nguồn tham khảo
 

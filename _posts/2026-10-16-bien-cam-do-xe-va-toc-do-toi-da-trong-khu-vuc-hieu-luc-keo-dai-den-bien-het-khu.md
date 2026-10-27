@@ -61,7 +61,7 @@ Ra khỏi cổng có biển hết khu vực, lệnh khu vực không còn, nhưn
 
 ## Biển cấm đỗ xe trong khu vực và cấm đỗ theo giờ
 
-Biển R.E,9a cấm đỗ, không cấm dừng. Bạn có thể dừng chốc lát để người ngồi sau xuống xe, miễn không gây cản trở; còn dựng xe rồi bỏ đi vào cửa hàng thì đã là đỗ. Phân biệt kỹ hai khái niệm này có trong bài [đọc biển báo cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/oc-bien-bao-cam-o-va-cam-dung-tren-via-he/).
+Biển R.E,9a cấm đỗ, không cấm dừng. Bạn có thể dừng chốc lát để người ngồi sau xuống xe, miễn không gây cản trở; còn dựng xe rồi bỏ đi vào cửa hàng thì đã là đỗ. Phân biệt kỹ hai khái niệm này có trong bài [đọc biển báo cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/doc-bien-bao-cam-do-va-cam-dung-tren-via-he/).
 
 Biển R.E,9b chỉ cấm trong khung giờ ghi trên biển. Ngoài khung giờ bạn được đỗ, nhưng vẫn phải đỗ đúng nơi và không chắn lối. Nhìn đồng hồ trước khi rời xe: có người đỗ lúc còn hợp lệ nhưng quay lại khi đã vào giờ cấm. Cách đọc khung giờ có trong bài [biển cấm kèm biển phụ ghi khung giờ](/an-toan-phap-ly/2026/10/16/bien-cam-kem-bien-phu-ghi-khung-gio-doc-the-nao-de-biet-lenh-cam-co-ap-dung-luc/).
 
