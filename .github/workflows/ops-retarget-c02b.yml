@@ -34,9 +34,23 @@ jobs:
           PY
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python3 - <<'PY'
+          import csv,json
+          with open('reports/factory/seo-master/slug-redirect-registry.csv',encoding='utf-8',newline='') as f:
+              rows=[r for r in csv.DictReader(f) if r['batch_id']=='migrate-20261028-c02b']
+          assert len(rows)==20, f'expected 20 migrated posts, got {len(rows)}'
+          m={}
+          for r in rows:
+              old,new=r['old_url'],r['new_url']
+              assert old.endswith('/') and new.endswith('/')
+              m[old]=new
+              m[old[:-1]]=new
+          open('/tmp/migrate-c02b-targets.json','w').write(json.dumps(m,ensure_ascii=False))
+          print('Focused mapping:',len(rows),'migrated URL pairs,',len(m),'link targets')
+          PY
           for B in 01 02 03 04 05; do
             echo "=== canonical links-plan batch $B ==="
-            python3 scripts/factory/migrate-slug-urls.py links-plan --jobs 4 --out "/tmp/links-$B.json"
+            python3 scripts/factory/migrate-slug-urls.py links-plan --no-registry --mapping /tmp/migrate-c02b-targets.json --jobs 4 --out "/tmp/links-$B.json"
             ELIGIBLE=$(python3 -c "import json;print(len(json.load(open('/tmp/links-$B.json'))['eligible']))")
             NEWLINKS=$(python3 -c "import json;print(json.load(open('/tmp/links-$B.json'))['counts']['links'])")
             echo "eligible=$ELIGIBLE links=$NEWLINKS"
