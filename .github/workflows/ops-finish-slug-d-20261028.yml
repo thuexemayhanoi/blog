@@ -27,6 +27,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Install required PyYAML for approved price table
+        run: python3 -m pip install 'PyYAML>=6,<7'
       - name: Check safe production control (fail closed)
         run: |
           set -euo pipefail
