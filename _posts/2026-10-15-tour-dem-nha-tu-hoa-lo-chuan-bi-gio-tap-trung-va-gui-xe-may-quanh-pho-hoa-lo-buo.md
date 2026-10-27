@@ -42,7 +42,7 @@ Giờ tập trung thường sớm hơn giờ bắt đầu một khoảng để k
 
 Khung từ năm giờ chiều đến bảy giờ tối là lúc trung tâm đông nhất: người tan tầm, người đi ăn, khách du lịch dồn về phố cổ. Các trục như Tràng Thi, Hai Bà Trưng, Lý Thường Kiệt chạy chậm, và quanh di tích có nhiều phố một chiều. Đặt điểm đến trên bản đồ là cổng di tích, nhưng tới gần thì đọc biển chứ đừng bám mù quáng theo chỉ dẫn rẽ.
 
-Nếu xuất phát từ bên Long Biên, bạn có thể qua cầu Chương Dương hoặc cầu Long Biên vào trung tâm rồi đi tiếp về phía Hoàn Kiếm. Lần đầu chạy xe tối trong nội thành thì đọc trước bài [đi xe máy buổi tối ở Hà Nội lần đầu](/thue-xe/2026/10/11/i-xe-may-buoi-toi-o-ha-noi-lan-au-nhung-ieu-kho-thay-khi-troi-toi/) để quen ánh đèn ngược chiều và người qua đường bất chợt.
+Nếu xuất phát từ bên Long Biên, bạn có thể qua cầu Chương Dương hoặc cầu Long Biên vào trung tâm rồi đi tiếp về phía Hoàn Kiếm. Lần đầu chạy xe tối trong nội thành thì đọc trước bài [đi xe máy buổi tối ở Hà Nội lần đầu](/thue-xe/2026/10/11/di-xe-may-buoi-toi-o-ha-noi-lan-dau-nhung-dieu-kho-thay-khi-troi-toi/) để quen ánh đèn ngược chiều và người qua đường bất chợt.
 
 ## Gửi xe máy quanh phố Hỏa Lò buổi tối
 
@@ -59,7 +59,7 @@ Kinh nghiệm chọn chỗ gửi khi biết mình sẽ lấy xe muộn có trong
 
 Đây là phần nhiều gia đình bỏ qua. Không gian nhà tù về đêm, cộng với các cảnh tái hiện đày ải, có thể khiến trẻ nhỏ sợ hoặc khó hiểu. Trước khi đặt, hỏi ban tổ chức về khuyến nghị độ tuổi; ở nhà kể sơ cho con nghe Hỏa Lò là nơi thế nào, để trẻ không bị bất ngờ.
 
-Về chuyện xe máy: buổi tối trẻ mệt và dễ ngủ gật trên xe. Cho con đội mũ bảo hiểm vừa cỡ, mặc áo khoác, và nếu con đã buồn ngủ thì nên để người lớn ngồi sau ôm giữ. Điều kiện chở trẻ em trên xe máy được tóm trong bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-ieu-kien-gi/). Nếu nhà ở xa và con còn nhỏ, gọi taxi cho người lớn bế con về, một người chạy xe theo sau, cũng là cách hợp lý.
+Về chuyện xe máy: buổi tối trẻ mệt và dễ ngủ gật trên xe. Cho con đội mũ bảo hiểm vừa cỡ, mặc áo khoác, và nếu con đã buồn ngủ thì nên để người lớn ngồi sau ôm giữ. Điều kiện chở trẻ em trên xe máy được tóm trong bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-dieu-kien-gi/). Nếu nhà ở xa và con còn nhỏ, gọi taxi cho người lớn bế con về, một người chạy xe theo sau, cũng là cách hợp lý.
 
 ## Kết thúc chương trình: lấy xe và chạy về khuya
 

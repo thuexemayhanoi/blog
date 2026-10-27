@@ -17,7 +17,7 @@ writer_session: s-claude-w2
 
 Tháng đầu tiên sau khi chuyển đến làm việc hay đi học là lúc mọi thứ cùng lúc mới: chỗ ở mới, công ty mới, và một thành phố đông xe mà bạn chưa thuộc đường. Nhiều người mới đến Hà Nội thuê Air Blade theo tháng chính vì thế: có xe chủ động đi lại ngay, mà chưa phải quyết chuyện mua xe khi còn chưa biết mình ở lâu tới đâu. Bài này không bàn chuyện nên thuê ngày hay thuê tháng, mà đi vào việc cụ thể của tháng đầu: chọn và tập tuyến đi làm, tìm đường bằng điện thoại, lo chỗ gửi xe ở nơi ở và cơ quan, rồi giữ xe cho cẩn thận đến ngày trả.
 
-Nếu bạn vẫn đang cân nhắc hình thức thuê, đọc trước bài [thuê theo ngày hay theo tháng cho người mới đến Hà Nội](/xe-may/2026/10/04/thue-theo-ngay-hay-theo-thang-cho-nguoi-moi-en-ha-noi/). Còn nếu vừa xuống máy bay và chưa chắc có nên lái ngay, bài [ngày đầu ở Hà Nội: thuê xe ngay hay làm quen đường trước](/xe-may/2026/10/14/ngay-dau-o-ha-noi-thue-xe-may-ngay-hay-lam-quen-duong-truoc/) sẽ hữu ích hơn.
+Nếu bạn vẫn đang cân nhắc hình thức thuê, đọc trước bài [thuê theo ngày hay theo tháng cho người mới đến Hà Nội](/xe-may/2026/10/04/thue-theo-ngay-hay-theo-thang-cho-nguoi-moi-den-ha-noi/). Còn nếu vừa xuống máy bay và chưa chắc có nên lái ngay, bài [ngày đầu ở Hà Nội: thuê xe ngay hay làm quen đường trước](/xe-may/2026/10/14/ngay-dau-o-ha-noi-thue-xe-may-ngay-hay-lam-quen-duong-truoc/) sẽ hữu ích hơn.
 
 ## Người mới đến Hà Nội thuê Air Blade: vì sao hợp cho tháng đầu
 
@@ -58,7 +58,7 @@ Chỗ để xe là việc nên lo ngay trong vài ngày đầu, không đợi đ
 
 ### Ở chung cư hoặc tòa nhà có hầm xe
 
-Đến gặp ban quản lý tòa nhà để hỏi cách làm vé tháng gửi xe máy: cần giấy tờ gì, đăng ký biển số ra sao, thẻ hay vé giấy, và giờ đóng mở hầm. Vì đây là xe thuê, biển số và giấy đăng ký mang tên người khác, nên hỏi trước ban quản lý có yêu cầu gì thêm không. Bài [gửi xe ở chung cư qua đêm, điểm giữ xe và vé tháng](/ky-nang/2026/10/10/gui-xe-o-chung-cu-qua-em-iem-giu-xe-va-ve-thang/) có thêm kinh nghiệm cho trường hợp này.
+Đến gặp ban quản lý tòa nhà để hỏi cách làm vé tháng gửi xe máy: cần giấy tờ gì, đăng ký biển số ra sao, thẻ hay vé giấy, và giờ đóng mở hầm. Vì đây là xe thuê, biển số và giấy đăng ký mang tên người khác, nên hỏi trước ban quản lý có yêu cầu gì thêm không. Bài [gửi xe ở chung cư qua đêm, điểm giữ xe và vé tháng](/ky-nang/2026/10/10/gui-xe-o-chung-cu-qua-dem-diem-giu-xe-va-ve-thang/) có thêm kinh nghiệm cho trường hợp này.
 
 ### Ở nhà trọ, nhà riêng trong ngõ
 

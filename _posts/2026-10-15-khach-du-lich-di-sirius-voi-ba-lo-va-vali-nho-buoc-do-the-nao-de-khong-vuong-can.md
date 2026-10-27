@@ -35,7 +35,7 @@ Vài điều chỉnh nhỏ:
 - **Cài đai ngực hoặc đai hông nếu có.** Đai giữ ba lô không xô lên gáy khi phanh.
 - **Giấy tờ, ví, điện thoại để túi áo hoặc túi đeo chéo trước ngực.**
 
-Ba lô quá to, đeo mười lăm phút đã mỏi vai, thì chuyển ra yên sau như một kiện hành lý. Phân tích kỹ hơn chuyện đeo hay buộc có trong bài [đeo ba lô khi chạy xe dài hay buộc sau](/ky-nang/2026-09-29/eo-ba-lo-khi-chay-xe-dai-hay-buoc-sau/).
+Ba lô quá to, đeo mười lăm phút đã mỏi vai, thì chuyển ra yên sau như một kiện hành lý. Phân tích kỹ hơn chuyện đeo hay buộc có trong bài [đeo ba lô khi chạy xe dài hay buộc sau](/ky-nang/2026-09-29/deo-ba-lo-khi-chay-xe-dai-hay-buoc-sau/).
 
 ## Vali nhỏ và túi xách: buộc lên yên sau hoặc ba-ga
 
@@ -71,7 +71,7 @@ Cũng chú ý bên phải xe là ống xả. Dây chun, túi vải hay quai ba l
 
 Vali cỡ ký gửi máy bay không hợp với Sirius. Đặt trên yên sau, nó cao quá vai người lái, gió tạt ngang làm xe lắc, bánh trước nhẹ đi và khó lái khi rẽ ở các phố hẹp như Hàng Bè hay Lò Sũ.
 
-Cách hợp lý hơn là gọi taxi hoặc xe công nghệ chở vali lớn về khách sạn, còn bạn đi xe máy với ba lô nhẹ. Nếu rời phố cổ đi Ninh Bình, Tam Đảo hay Ba Vì vài ngày, hãy hỏi khách sạn có giữ hộ hành lý không, chỉ mang một ba lô và một túi nhỏ. Kinh nghiệm chung về chuyện mang vali khi đi xe máy có trong bài [mang vali nhỏ và ba lô khi đi xe máy ở Hà Nội](/thue-xe/2026/10/11/mang-vali-nho-va-ba-lo-khi-i-xe-may-o-ha-noi-buoc-o-sao-cho-an-toan/).
+Cách hợp lý hơn là gọi taxi hoặc xe công nghệ chở vali lớn về khách sạn, còn bạn đi xe máy với ba lô nhẹ. Nếu rời phố cổ đi Ninh Bình, Tam Đảo hay Ba Vì vài ngày, hãy hỏi khách sạn có giữ hộ hành lý không, chỉ mang một ba lô và một túi nhỏ. Kinh nghiệm chung về chuyện mang vali khi đi xe máy có trong bài [mang vali nhỏ và ba lô khi đi xe máy ở Hà Nội](/thue-xe/2026/10/11/mang-vali-nho-va-ba-lo-khi-di-xe-may-o-ha-noi-buoc-do-sao-cho-an-toan/).
 
 ## Trên đường: lái xe số khi đã chở đồ
 

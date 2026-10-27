@@ -52,7 +52,7 @@ Quan sát mép lỗ chốt khóa vừa nằm: có bị bẹp, lõm hay vết r�
 
 Nhờ người đè nhẹ đuôi xe cho bánh trước nhấc khỏi mặt đất, quay bánh thật chậm. Đĩa phẳng thì khe đều, không chạm. Đĩa cong thì mép đĩa đảo qua lại, có một đoạn cọ "xoẹt" theo nhịp mỗi vòng.
 
-Bài [đĩa phanh cong vênh hoặc mòn lõm](/xe-may/2026/10/11/ia-phanh-xe-may-cong-venh-hoac-mon-lom-nhan-biet-qua-tay-phanh-rung/) mô tả kỹ cảm giác rung tay phanh để bạn đối chiếu. Đừng tự nắn đĩa, đĩa nắn sai còn nguy hiểm hơn đĩa cong.
+Bài [đĩa phanh cong vênh hoặc mòn lõm](/xe-may/2026/10/11/dia-phanh-xe-may-cong-venh-hoac-mon-lom-nhan-biet-qua-tay-phanh-rung/) mô tả kỹ cảm giác rung tay phanh để bạn đối chiếu. Đừng tự nắn đĩa, đĩa nắn sai còn nguy hiểm hơn đĩa cong.
 
 ## Kiểm tra cùm phanh, ốc giá bắt và tay phanh
 

@@ -76,7 +76,7 @@ Lý do:
 - Chạy xe khi bình gần cạn có thể khiến xăng cuốn cặn ở đáy bình vào hệ thống nhiên liệu.
 - Kim lệch do đỗ dốc hay nghiêng thường báo lệch nhiều nhất đúng lúc bình còn ít.
 
-Trước chuyến đi xa, đổ đầy bình ngay khi rời nội thành, chẳng hạn trước khi qua cầu Nhật Tân hoặc trước khi lên đê ở Đông Anh. Cách sắp xếp chỗ đổ và chỗ nghỉ trên tuyến dài được nói kỹ trong bài [đổ xăng và nghỉ trên tuyến](/cung-duong/2026/10/01/o-xang-va-nghi-chan-tren-quoc-lo-6-i-moc-chau-cac-iem-dung/).
+Trước chuyến đi xa, đổ đầy bình ngay khi rời nội thành, chẳng hạn trước khi qua cầu Nhật Tân hoặc trước khi lên đê ở Đông Anh. Cách sắp xếp chỗ đổ và chỗ nghỉ trên tuyến dài được nói kỹ trong bài [đổ xăng và nghỉ trên tuyến](/cung-duong/2026/10/01/do-xang-va-nghi-chan-tren-quoc-lo-6-di-moc-chau-cac-diem-dung/).
 
 ## Kim tụt bất thường kèm mùi xăng: báo cửa hàng ngay
 

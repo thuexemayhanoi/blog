@@ -21,7 +21,7 @@ Chuyến đi Ba Vì hay Tam Đảo trong ngày thường kết thúc bằng mộ
 
 Khi đổ đèo, phanh phải làm việc liên tục, nóng lên nhiều hơn hẳn so với cả tuần chạy phố. Lốp chịu lực dồn về phía trước, cán qua đá dăm, sỏi và mép đường vỡ ở những khúc cua hẹp. Phần lớn hao mòn này không gây ra sự cố ngay, nên người lái khó nhận ra nếu không chủ động để ý.
 
-Bài [kiểm tra dầu phanh trước khi đi đèo](/xe-may/2026/10/09/kiem-tra-dau-phanh-xe-thue-truoc-khi-i-eo/) nói về việc chuẩn bị trước chuyến đi, còn bài [giữ phanh khi xuống núi Tam Đảo](/thue-xe/2026/10/14/thue-xe-may-mot-ngay-di-tam-dao-deo-doc-suong-mu-va-giu-phanh-khi-xuong-nui/) nói về cách lái trên đèo. Bài này là phần còn lại: xem xe đã chịu tác động gì sau chuyến đi, và nói lại với cửa hàng cho đúng.
+Bài [kiểm tra dầu phanh trước khi đi đèo](/xe-may/2026/10/09/kiem-tra-dau-phanh-xe-thue-truoc-khi-di-deo/) nói về việc chuẩn bị trước chuyến đi, còn bài [giữ phanh khi xuống núi Tam Đảo](/thue-xe/2026/10/14/thue-xe-may-mot-ngay-di-tam-dao-deo-doc-suong-mu-va-giu-phanh-khi-xuong-nui/) nói về cách lái trên đèo. Bài này là phần còn lại: xem xe đã chịu tác động gì sau chuyến đi, và nói lại với cửa hàng cho đúng.
 
 ## Dừng nghỉ ở chân đèo: để phanh nguội và nhìn nhanh một vòng
 

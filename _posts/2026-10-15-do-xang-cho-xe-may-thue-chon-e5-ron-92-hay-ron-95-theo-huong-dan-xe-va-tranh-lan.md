@@ -78,7 +78,7 @@ Nếu bạn phát hiện mình vừa đổ nhầm dầu DO, hoặc không chắc
 4. **Gọi cửa hàng cho thuê** ngay, nói rõ đã đổ gì, khoảng bao nhiêu, xe đã nổ máy hay chưa. Chụp ảnh trụ bơm và hóa đơn nếu có.
 5. **Chờ hướng dẫn.** Việc xử lý thế nào, ở đâu và chi phí nếu có đều cần xác nhận với cửa hàng trước. Đừng tự hút xăng ra hay mang xe ra tiệm ven đường khi chưa trao đổi.
 
-Nếu đã lỡ nổ máy rồi mới phát hiện, tắt máy ngay khi biết và cũng làm đúng các bước trên. Trường hợp xe đề khó nổ sau khi đổ xăng vì những lý do khác, bài [xe tay ga bị sặc xăng sau khi đổ nhầm](/xe-may/2026/10/05/xe-tay-ga-bi-sac-xang-sau-khi-o-nham/) có thêm cách xử lý.
+Nếu đã lỡ nổ máy rồi mới phát hiện, tắt máy ngay khi biết và cũng làm đúng các bước trên. Trường hợp xe đề khó nổ sau khi đổ xăng vì những lý do khác, bài [xe tay ga bị sặc xăng sau khi đổ nhầm](/xe-may/2026/10/05/xe-tay-ga-bi-sac-xang-sau-khi-do-nham/) có thêm cách xử lý.
 
 ## Ghi nhớ nhanh mỗi lần ghé cây xăng
 

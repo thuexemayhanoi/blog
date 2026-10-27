@@ -47,7 +47,7 @@ Khách thuê nhiều ngày hay chạy ra ngoại thành: lên Ba Vì, vòng Sóc
 Phân biệt hai tình huống:
 
 - **Rung nhẹ, chỉ xuất hiện ngay sau dốc dài**, dừng nghỉ mười lăm, hai mươi phút cho phanh nguội rồi chạy lại thấy êm: thường là do nhiệt. Lần sau đổ dốc nên về số thấp, nhả phanh cho nguội giữa các nhịp, không bóp ghì suốt.
-- **Rung đều theo nhịp mỗi vòng bánh, kể cả khi phanh đã nguội và chạy phố bình thường**: có thể đĩa đã cong hoặc mòn không đều. Hiện tượng này được giải thích kỹ trong bài [đĩa phanh cong vênh hoặc mòn lõm](/xe-may/2026/10/11/ia-phanh-xe-may-cong-venh-hoac-mon-lom-nhan-biet-qua-tay-phanh-rung/). Trường hợp này cần cửa hàng kiểm tra, không nên đi tiếp chặng dài.
+- **Rung đều theo nhịp mỗi vòng bánh, kể cả khi phanh đã nguội và chạy phố bình thường**: có thể đĩa đã cong hoặc mòn không đều. Hiện tượng này được giải thích kỹ trong bài [đĩa phanh cong vênh hoặc mòn lõm](/xe-may/2026/10/11/dia-phanh-xe-may-cong-venh-hoac-mon-lom-nhan-biet-qua-tay-phanh-rung/). Trường hợp này cần cửa hàng kiểm tra, không nên đi tiếp chặng dài.
 
 Rung tay lái chưa chắc đã do phanh: lốp non hay đường lát đá quanh Hoàn Kiếm cũng gây rung. Nếu rung chỉ xuất hiện lúc bóp phanh trước và hết khi nhả, khả năng cao nằm ở cụm đĩa.
 

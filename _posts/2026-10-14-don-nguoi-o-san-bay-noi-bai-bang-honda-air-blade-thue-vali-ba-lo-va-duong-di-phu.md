@@ -46,7 +46,7 @@ Cách xử lý gọn nhất là tách người và hành lý:
 2. Bạn chạy Air Blade về trước hoặc chạy theo, gặp nhau ở chỗ ở.
 3. Nếu người đến muốn ngồi xe máy để ngắm phố, họ chỉ mang theo ba lô cá nhân, còn vali đi một mình trên ô tô cùng người thân khác.
 
-Nếu bạn thường xuyên phải chở đồ to, bài [chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) giải thích vì sao xe ga phổ thông có giới hạn rõ ràng.
+Nếu bạn thường xuyên phải chở đồ to, bài [chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/di-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) giải thích vì sao xe ga phổ thông có giới hạn rõ ràng.
 
 ## Ba lô và vali nhỏ: đặt ở sàn để chân Air Blade
 
@@ -56,11 +56,11 @@ Với hành lý gọn, Air Blade làm khá tốt nhờ sàn để chân phẳng 
 - **Ba lô người ngồi sau đeo cả hai quai**, siết dây cho áp sát lưng, không đeo một bên vai.
 - **Đồ lặt vặt như túi quà, áo khoác** cho vào cốp xe, không treo lủng lẳng ở móc.
 
-Tránh để người ngồi sau ôm vali trên đùi hoặc kẹp vali giữa hai người. Tư thế này làm người ngồi sau không bám được vào xe, chỉ cần qua một gờ giảm tốc là mất thăng bằng. Cách đeo ba lô khi đi xa được nói thêm ở bài [đeo ba lô khi chạy xe dài hay buộc sau](/ky-nang/2026-09-29/eo-ba-lo-khi-chay-xe-dai-hay-buoc-sau/).
+Tránh để người ngồi sau ôm vali trên đùi hoặc kẹp vali giữa hai người. Tư thế này làm người ngồi sau không bám được vào xe, chỉ cần qua một gờ giảm tốc là mất thăng bằng. Cách đeo ba lô khi đi xa được nói thêm ở bài [đeo ba lô khi chạy xe dài hay buộc sau](/ky-nang/2026-09-29/deo-ba-lo-khi-chay-xe-dai-hay-buoc-sau/).
 
 ## Mũ bảo hiểm thứ hai và đồ cho người được đón
 
-Đừng quên điều tưởng nhỏ nhất: bạn phải mang thêm một chiếc mũ bảo hiểm cho người được đón. Họ vừa xuống máy bay, gần như chắc chắn không có mũ. Chọn mũ vừa đầu, quai cài chắc, và nhắc họ cài quai trước khi lên xe. Bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/) giúp bạn chọn đúng loại.
+Đừng quên điều tưởng nhỏ nhất: bạn phải mang thêm một chiếc mũ bảo hiểm cho người được đón. Họ vừa xuống máy bay, gần như chắc chắn không có mũ. Chọn mũ vừa đầu, quai cài chắc, và nhắc họ cài quai trước khi lên xe. Bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-khi-di-xe-may-chuan-nao/) giúp bạn chọn đúng loại.
 
 Trên đường ra, mũ thứ hai cho vào cốp nếu vừa, hoặc buộc chắc vào giá sau, không treo ở tay lái. Mang thêm một bộ áo mưa và một áo khoác mỏng, vì người từ nơi nóng bay ra Hà Nội mùa đông thường không chuẩn bị đủ ấm cho quãng đường gió ngoài sân bay.
 

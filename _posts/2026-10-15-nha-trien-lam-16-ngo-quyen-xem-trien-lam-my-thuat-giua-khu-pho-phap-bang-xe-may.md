@@ -37,7 +37,7 @@ Nếu muốn dự buổi khai mạc, hãy đến sớm hơn giờ ghi trên thư
 
 Từ tiệm ở Nguyễn Văn Cừ, Long Biên, đường gọn nhất sang khu phố Pháp là cầu Chương Dương. Lên cầu theo làn bên phải, giữ tốc độ đều vì mặt cầu hay có gió ngang và xe tải. Xuống dốc cầu phía Hoàn Kiếm, bạn vào trục Trần Quang Khải, từ đó đi về phía Hồ Gươm và rẽ vào khu Lý Thái Tổ, Ngô Quyền.
 
-Tôi không vẽ sẵn một chuỗi rẽ trái rẽ phải cố định, vì chiều phố trong khu này có lúc được phân luồng lại. Cách chắc ăn là bật bản đồ dẫn đường trên điện thoại gắn giá đỡ trước khi lên cầu, đặt điểm đến là số 16 Ngô Quyền, rồi vẫn nhìn biển ở từng ngã tư để kiểm tra lại. Ai chưa quen cầu này có thể đọc thêm [đi xe máy qua cầu Chương Dương lúc sáng sớm](/du-lich/2026/10/04/i-xe-may-qua-cau-chuong-duong-luc-sang-som-uong-va-luu-y/).
+Tôi không vẽ sẵn một chuỗi rẽ trái rẽ phải cố định, vì chiều phố trong khu này có lúc được phân luồng lại. Cách chắc ăn là bật bản đồ dẫn đường trên điện thoại gắn giá đỡ trước khi lên cầu, đặt điểm đến là số 16 Ngô Quyền, rồi vẫn nhìn biển ở từng ngã tư để kiểm tra lại. Ai chưa quen cầu này có thể đọc thêm [đi xe máy qua cầu Chương Dương lúc sáng sớm](/du-lich/2026/10/04/di-xe-may-qua-cau-chuong-duong-luc-sang-som-duong-va-luu-y/).
 
 Giờ cao điểm chiều, đầu cầu phía Hoàn Kiếm hay ùn từ khoảng năm giờ. Nếu xem tranh buổi chiều, hãy tính về trước giờ đó hoặc nán lại khu phố Pháp tới tối hẳn rồi mới lên cầu.
 
@@ -48,9 +48,9 @@ Khu phố Pháp có nhiều phố tổ chức một chiều theo cặp, và ngư
 - **Nhìn biển ở đầu phố trước khi rẽ.** Biển cấm đi ngược chiều đặt ngay góc phố; thấy biển tròn viền đỏ vạch trắng ngang thì không vào.
 - **Lỡ đi qua thì vòng tiếp, không quay đầu giữa phố.** Lưới phố vuông nên vòng qua một khối nhà chỉ mất vài phút.
 - **Không đi ngược chiều vài chục mét cho nhanh.** Khu này nhiều cơ quan, đại sứ quán, có lực lượng chức năng thường trực, và ô tô ra vào cổng liên tục.
-- **Cuối tuần, kiểm tra giờ hạn chế xe quanh hồ.** Tối thứ Sáu đến Chủ nhật, không gian đi bộ và vùng hạn chế phương tiện có thể bao cả các phố quanh khu này; xem bài [phố đi bộ cuối tuần và xe máy để đâu](/du-lich/2026/09/28/pho-i-bo-cuoi-tuan-va-xe-may-e-au/) trước khi đi buổi tối.
+- **Cuối tuần, kiểm tra giờ hạn chế xe quanh hồ.** Tối thứ Sáu đến Chủ nhật, không gian đi bộ và vùng hạn chế phương tiện có thể bao cả các phố quanh khu này; xem bài [phố đi bộ cuối tuần và xe máy để đâu](/du-lich/2026/09/28/pho-di-bo-cuoi-tuan-va-xe-may-de-dau/) trước khi đi buổi tối.
 
-Nếu chẳng may gặp xe đi ngược chiều lao tới trong phố hẹp, cách xử lý có trong bài [tình huống xe ngược chiều trên đường một chiều](/ky-nang/2026/10/09/tinh-huong-xe-nguoc-chieu-vao-lam-uong-mot-chieu/).
+Nếu chẳng may gặp xe đi ngược chiều lao tới trong phố hẹp, cách xử lý có trong bài [tình huống xe ngược chiều trên đường một chiều](/ky-nang/2026/10/09/tinh-huong-xe-nguoc-chieu-vao-lam-duong-mot-chieu/).
 
 ## Gửi xe gần nhà triển lãm và đi bộ vài bước
 

@@ -27,7 +27,7 @@ Cách nhìn cho chắc:
 - Nhìn dọc thành lốp dưới ánh sáng chiếu xiên, chỗ phồng sẽ đổ bóng rõ hơn.
 - Vuốt nhẹ tay để cảm nhận chỗ gồ, đừng ấn mạnh hay lấy vật nhọn chọc vào.
 
-Đừng nhầm với chữ nổi hay gờ thông số đúc sẵn trên thành lốp. Những chi tiết đó đều đặn và có ở cả hai bên, còn vết phồng do va đập chỉ có ở một chỗ, hình dạng không đều. Muốn hiểu các ký hiệu trên thành lốp, xem bài [đọc mã ngày sản xuất trên hông lốp](/xe-may/2026/10/11/lop-xe-may-bao-nhieu-tuoi-oc-ma-ngay-san-xuat-tren-hong-lop/).
+Đừng nhầm với chữ nổi hay gờ thông số đúc sẵn trên thành lốp. Những chi tiết đó đều đặn và có ở cả hai bên, còn vết phồng do va đập chỉ có ở một chỗ, hình dạng không đều. Muốn hiểu các ký hiệu trên thành lốp, xem bài [đọc mã ngày sản xuất trên hông lốp](/xe-may/2026/10/11/lop-xe-may-bao-nhieu-tuoi-doc-ma-ngay-san-xuat-tren-hong-lop/).
 
 ## Vì sao sập ổ gà lại làm lốp bị phồng
 
@@ -71,7 +71,7 @@ Nếu buộc phải di chuyển ra khỏi chỗ nguy hiểm, đi thật chậm, 
 
 Không. Miếng vá dùng cho lỗ đinh ở mặt gai, nơi cao su dày và ít co giãn. Chỗ phồng ở hông là do sợi bố bên trong đã đứt chứ không phải do thủng, dán miếng vá chỉ che vết hỏng chứ không phục hồi được lớp bố.
 
-Nếu tiệm ven đường đề nghị vá tạm hoặc lót thêm lớp bên trong, đừng đồng ý khi chưa gọi cửa hàng, vì lốp phồng hông cần thay mới đúng cỡ theo xe. Khi nào vá được, khi nào phải thay, xem bài [lốp không săm bị đinh: vá dùi, vá nấm và khi nào phải thay lốp](/xe-may/2026/10/11/lop-khong-sam-bi-inh-va-dui-va-nam-khac-gi-va-khi-nao-phai-thay-lop/).
+Nếu tiệm ven đường đề nghị vá tạm hoặc lót thêm lớp bên trong, đừng đồng ý khi chưa gọi cửa hàng, vì lốp phồng hông cần thay mới đúng cỡ theo xe. Khi nào vá được, khi nào phải thay, xem bài [lốp không săm bị đinh: vá dùi, vá nấm và khi nào phải thay lốp](/xe-may/2026/10/11/lop-khong-sam-bi-dinh-va-dui-va-nam-khac-gi-va-khi-nao-phai-thay-lop/).
 
 ## Một tình huống quanh Hà Nội
 

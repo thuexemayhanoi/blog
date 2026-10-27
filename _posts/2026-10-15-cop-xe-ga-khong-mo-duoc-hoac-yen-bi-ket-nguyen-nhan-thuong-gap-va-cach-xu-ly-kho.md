@@ -57,7 +57,7 @@ Nếu cốp vẫn không mở sau mấy bước trên, dừng lại. Tiếp tụ
 
 Gọi ngay khi các bước nhẹ nhàng không hiệu quả, hoặc khi trong cốp có thứ bạn cần gấp như giấy tờ, thuốc, chìa nhà. Trước khi gọi, chụp vài tấm ảnh: yên đóng bình thường, không có vết cạy, chìa đang cắm trong ổ. Mô tả đúng dấu hiệu bạn quan sát ở phần đầu bài, ví dụ "chìa xoay được, có tiếng tách nhưng yên không lên", giúp cửa hàng đoán nhanh và hướng dẫn qua điện thoại.
 
-Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00, số điện thoại 0942467674. Nếu bạn đang ở gần, ví dụ quanh chợ Long Biên hay Gia Lâm, dắt hoặc chạy xe qua tiệm thường là cách gọn nhất. Nếu ở xa như Cầu Giấy hay Tây Hồ, hãy hỏi trước cách xử lý và thời gian hỗ trợ. Mọi hỗ trợ tận nơi chỉ trong giờ mở cửa, thời gian và chi phí phải xác nhận trước. Trường hợp riêng là để quên chìa ngay trong cốp, xem thêm bài [xe thuê bị kẹt chìa khóa trong cốp](/thue-xe/2026/10/05/xe-thue-bi-ket-chia-khoa-trong-cop-xu-ly-the-nao/). Nếu chuyện xảy ra đúng lúc sắp trả xe, bài [cốp xe ga không mở được lúc trả xe](/thue-xe/2026/10/03/cop-xe-ga-khong-mo-uoc-luc-tra-xe/) hướng dẫn cách chốt lại với cửa hàng.
+Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00, số điện thoại 0942467674. Nếu bạn đang ở gần, ví dụ quanh chợ Long Biên hay Gia Lâm, dắt hoặc chạy xe qua tiệm thường là cách gọn nhất. Nếu ở xa như Cầu Giấy hay Tây Hồ, hãy hỏi trước cách xử lý và thời gian hỗ trợ. Mọi hỗ trợ tận nơi chỉ trong giờ mở cửa, thời gian và chi phí phải xác nhận trước. Trường hợp riêng là để quên chìa ngay trong cốp, xem thêm bài [xe thuê bị kẹt chìa khóa trong cốp](/thue-xe/2026/10/05/xe-thue-bi-ket-chia-khoa-trong-cop-xu-ly-the-nao/). Nếu chuyện xảy ra đúng lúc sắp trả xe, bài [cốp xe ga không mở được lúc trả xe](/thue-xe/2026/10/03/cop-xe-ga-khong-mo-duoc-luc-tra-xe/) hướng dẫn cách chốt lại với cửa hàng.
 
 ## Phòng tránh: xếp đồ và đóng yên đúng cách
 
@@ -69,6 +69,6 @@ Phần lớn các lần yên kẹt bắt nguồn từ cách xếp đồ. Vài th
 - **Tránh xịt nước thẳng vào ổ khóa** khi rửa xe, và lau khô yên, ổ khóa sau khi dầm mưa.
 - **Thử mở cốp ngay lúc nhận xe**, theo các bước trong bài [kiểm tra cốp xe ga trước khi nhận xe thuê](/thue-xe/2026/10/07/kiem-tra-cop-xe-ga-truoc-khi-nhan-xe-thue/), để biết cách mở của đúng chiếc xe mình đi.
 
-Mỗi mẫu xe có cốp rộng hẹp và cách xếp đồ khác nhau. Nếu bạn đang thuê Honda Air Blade, xem thêm bài [cốp Air Blade chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-uoc-gi-va-o-nao-nen-e-cho-khac/).
+Mỗi mẫu xe có cốp rộng hẹp và cách xếp đồ khác nhau. Nếu bạn đang thuê Honda Air Blade, xem thêm bài [cốp Air Blade chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-duoc-gi-va-do-nao-nen-de-cho-khac/).
 
 Tóm lại: đọc dấu hiệu, ấn yên xuống rồi mở lại, không cạy, không tháo, và gọi cửa hàng sớm. Các bài chăm sóc xe khác nằm ở mục [bảo dưỡng xe máy](/xe-may/bao-duong-xe/), còn kinh nghiệm về từng dòng xe được gom ở chuyên mục [xe máy](/xe-may/).

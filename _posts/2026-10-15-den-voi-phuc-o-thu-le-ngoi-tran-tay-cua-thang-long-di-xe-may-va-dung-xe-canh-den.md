@@ -53,7 +53,7 @@ Trước cổng đền là vỉa hè của một trục phố lớn, không ph�
 
 1. **Bật xi nhan phải, giảm tốc từ xa,** dừng sát lề ở chỗ không có xe buýt đang đón khách, tắt máy rồi dắt xe lên vỉa hè.
 2. **Hỏi người trông đền** xem xe nên để đâu; có lúc được để gọn một góc, có lúc được chỉ sang điểm trông giữ gần nhất.
-3. **Ưu tiên chỗ có người trông và có vé.** Quanh công viên Thủ Lệ có các điểm trông giữ phục vụ khách vào công viên, đi bộ thêm vài phút vẫn hơn để xe không người trông. Xem thêm bài [đến công viên Thủ Lệ bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/28/en-cong-vien-thu-le-bang-xe-may-gui-xe-va-uong-i/).
+3. **Ưu tiên chỗ có người trông và có vé.** Quanh công viên Thủ Lệ có các điểm trông giữ phục vụ khách vào công viên, đi bộ thêm vài phút vẫn hơn để xe không người trông. Xem thêm bài [đến công viên Thủ Lệ bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/28/den-cong-vien-thu-le-bang-xe-may-gui-xe-va-duong-di/).
 4. **Khóa cổ, rút chìa, cất mũ vào cốp,** chụp lại vé và vị trí xe.
 
 Ngày rằm, mùng Một hay mùa hội, chấp nhận gửi xa rồi đi bộ, đừng cố len sát cổng.
@@ -64,6 +64,6 @@ Giờ mở cửa của đền không được niêm yết rộng rãi, nên tố
 
 ## Ghép đền Voi Phục với công viên Thủ Lệ hoặc trọn bốn trấn
 
-Vì đền nằm sát công viên, cách dễ nhất là đi lễ buổi sáng rồi dạo vườn hoa, hồ Thủ Lệ, giữ nguyên xe ở một chỗ gửi. Người muốn đi đủ tứ trấn có thể lấy Voi Phục làm điểm phía tây, theo đường Bưởi, Thụy Khuê lên đền Quán Thánh ở đầu đường Thanh Niên; đường đi và chỗ gửi xe có trong bài [đến đền Quán Thánh bằng xe máy](/du-lich/2026/10/04/en-en-quan-thanh-bang-xe-may-gui-xe-va-uong-i/). Ngôi trấn phía đông giữa phố cổ được kể ở bài [đền Bạch Mã, ngôi đền trấn Đông](/du-lich/2026/10/13/den-bach-ma-o-pho-hang-buom-di-le-va-tham-quan-ngoi-den-tran-dong-bang-xe-may/).
+Vì đền nằm sát công viên, cách dễ nhất là đi lễ buổi sáng rồi dạo vườn hoa, hồ Thủ Lệ, giữ nguyên xe ở một chỗ gửi. Người muốn đi đủ tứ trấn có thể lấy Voi Phục làm điểm phía tây, theo đường Bưởi, Thụy Khuê lên đền Quán Thánh ở đầu đường Thanh Niên; đường đi và chỗ gửi xe có trong bài [đến đền Quán Thánh bằng xe máy](/du-lich/2026/10/04/den-den-quan-thanh-bang-xe-may-gui-xe-va-duong-di/). Ngôi trấn phía đông giữa phố cổ được kể ở bài [đền Bạch Mã, ngôi đền trấn Đông](/du-lich/2026/10/13/den-bach-ma-o-pho-hang-buom-di-le-va-tham-quan-ngoi-den-tran-dong-bang-xe-may/).
 
 Đền Voi Phục không lớn, nửa tiếng là đủ để lễ và ngắm kỹ. Chuyến đi trọn vẹn khi bạn đến đúng hướng trên Kim Mã, gửi xe nơi có người trông và để cổng đền thông thoáng. Các di tích, bảo tàng khác trong nội thành nằm ở mục [bảo tàng và di tích](/du-lich/bao-tang/), còn mọi gợi ý điểm đến bằng xe máy có ở chuyên mục [du lịch](/du-lich/).
