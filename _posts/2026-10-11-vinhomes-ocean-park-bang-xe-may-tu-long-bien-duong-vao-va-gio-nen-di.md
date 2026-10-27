@@ -52,8 +52,8 @@ Quán nước ven hồ hợp để nghỉ giữa chuyến dạo, gọi một ly 
 
 ## Ghép thêm điểm ven đường
 
-Làng gốm Bát Tràng nằm cùng phía Gia Lâm, hợp cho ai muốn thêm một chặng nữa trong ngày; cách đi, khung giờ và chỗ gửi xe quanh làng đã có trong bài [làng gốm Bát Tràng từ Long Biên: đường đi và gửi xe](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-uong-i-va-gui-xe/).
+Làng gốm Bát Tràng nằm cùng phía Gia Lâm, hợp cho ai muốn thêm một chặng nữa trong ngày; cách đi, khung giờ và chỗ gửi xe quanh làng đã có trong bài [làng gốm Bát Tràng từ Long Biên: đường đi và gửi xe](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-duong-di-va-gui-xe/).
 
-Quanh trục đường còn các làng nghề khác của Gia Lâm đáng ghé nếu còn thời gian, gợi ý xếp chuyến nửa ngày nằm trong bài [các làng nghề gần Hà Nội chạy xe nửa ngày](/du-lich/2026/09/28/gia-lam-va-cac-lang-nghe-gan-o-chay-xe-nua-ngay/). Kết hợp một buổi Ocean Park, một buổi làng nghề là bộ đôi cuối tuần vừa đủ cho chuyến xe máy sang phía đông.
+Quanh trục đường còn các làng nghề khác của Gia Lâm đáng ghé nếu còn thời gian, gợi ý xếp chuyến nửa ngày nằm trong bài [các làng nghề gần Hà Nội chạy xe nửa ngày](/du-lich/2026/09/28/gia-lam-va-cac-lang-nghe-gan-do-chay-xe-nua-ngay/). Kết hợp một buổi Ocean Park, một buổi làng nghề là bộ đôi cuối tuần vừa đủ cho chuyến xe máy sang phía đông.
 
 Tóm lại, từ Long Biên sang Ocean Park chỉ cần bám đúng trục qua cầu Đuống, chọn khung tránh tan tầm, gửi xe ở bãi quanh hồ rồi đi bộ một vòng trọn vẹn, không cần vội.

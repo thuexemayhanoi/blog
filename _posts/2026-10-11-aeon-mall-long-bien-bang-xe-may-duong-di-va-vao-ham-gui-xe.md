@@ -36,7 +36,7 @@ Ngày mưa nên xuất phát sớm hơn dự kiến, vì lượng xe gửi tăng
 
 ## Trước khi xuất phát nên chuẩn bị gì
 
-Kiểm tra xe trước khi ra đi: xăng đủ cho khứ hồi, lốp non bơm đúng độ căng, phanh và đèn hoạt động tốt, giấy tờ mang theo người. Ai cần thuê xe ở khu này thì xem trước bài [thuê xe máy khu Long Biên](/thue-xe/2026/10/11/thue-xe-may-khu-long-bien-tien-qua-song-va-uong-tinh/) để kịp lấy xe từ sáng sớm.
+Kiểm tra xe trước khi ra đi: xăng đủ cho khứ hồi, lốp non bơm đúng độ căng, phanh và đèn hoạt động tốt, giấy tờ mang theo người. Ai cần thuê xe ở khu này thì xem trước bài [thuê xe máy khu Long Biên](/thue-xe/2026/10/11/thue-xe-may-khu-long-bien-tien-qua-song-va-duong-tinh/) để kịp lấy xe từ sáng sớm.
 
 Đồ mang theo nên gọn: một túi nhỏ đựng đồ định mua, chai nước cho trẻ nhỏ, khăn giấy ướt. Trong khu có thang cuốn và lối đi rộng, nhưng giày bệt thoải mái vẫn hợp hơn giày cao gót khi phải lên xuống nhiều tầng trong một buổi.
 
@@ -52,8 +52,8 @@ Khi ra về, trả vé tại quầy gần lối lên dốc, kiểm tra lại tú
 
 ## Ghé thêm quanh khu sau buổi mua sắm
 
-Chợ đêm Long Biên mở sát khu ven sông, hợp ghép sau bữa tối trong khu; kinh nghiệm chọn khung giờ và chỗ gửi xe quanh chợ đã được kể rõ trong bài về [đêm chợ đêm Long Biên: khung giờ và gửi xe](/du-lich/2026/10/10/en-cho-em-long-bien-bang-xe-may-khung-gio-va-gui-xe/).
+Chợ đêm Long Biên mở sát khu ven sông, hợp ghép sau bữa tối trong khu; kinh nghiệm chọn khung giờ và chỗ gửi xe quanh chợ đã được kể rõ trong bài về [đêm chợ đêm Long Biên: khung giờ và gửi xe](/du-lich/2026/10/10/den-cho-dem-long-bien-bang-xe-may-khung-gio-va-gui-xe/).
 
-Ai muốn chụp ảnh lúc mặt trời lặn thì chạy lên cầu Long Biên, đoạn giữa cầu nhìn ra sông Hồng rộng nhất; bài [ngắm hoàng hôn trên cầu Long Biên](/du-lich/2026/10/07/i-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-uoc-khong/) mô tả vị trí đứng an toàn và khung giờ đẹp trong năm. Hoặc chạy chậm theo [đường ven sông từ Long Biên](/cung-duong/2026/10/10/cung-uong-ven-song-uong-tu-long-bien-chay-xe-buoi-sang/) để khép lại buổi tối bằng một vòng gió sông.
+Ai muốn chụp ảnh lúc mặt trời lặn thì chạy lên cầu Long Biên, đoạn giữa cầu nhìn ra sông Hồng rộng nhất; bài [ngắm hoàng hôn trên cầu Long Biên](/du-lich/2026/10/07/di-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-duoc-khong/) mô tả vị trí đứng an toàn và khung giờ đẹp trong năm. Hoặc chạy chậm theo [đường ven sông từ Long Biên](/cung-duong/2026/10/10/cung-duong-ven-song-duong-tu-long-bien-chay-xe-buoi-sang/) để khép lại buổi tối bằng một vòng gió sông.
 
 Chọn trước khung giờ, gửi xe đúng lối hai bánh và ghép thêm một điểm ven sông là đủ cho một buổi chiều mua sắm trọn vẹn phía Long Biên mà không mất thời gian đứng chờ.

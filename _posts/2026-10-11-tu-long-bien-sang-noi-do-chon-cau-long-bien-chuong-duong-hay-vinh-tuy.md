@@ -28,13 +28,13 @@ Cầu Vĩnh Tuy dành cho ai về phía nam nội đô như Hai Bà Trưng, ph�
 
 Sáng sớm trước sáu giờ, cả ba cầu đều thoáng; riêng cầu Long Biên có thêm dải sương mỏng trên sông và ánh sáng mềm cho ai thích chụp ảnh, khung này được mô tả trong bài [ngắm cầu Long Biên lúc bình minh bằng xe máy](/du-lich/2026/10/09/ngam-cau-long-bien-luc-binh-minh-bang-xe-may/). Giờ tan tầm chiều thì Long Biên dồn chậm nhất vì đoạn vào phố cổ hẹp, Chương Dương đông ô tô nhưng vẫn nhúc nhích, còn Vĩnh Tuy xế chiều thường thông thoát hơn cả.
 
-Cuối tuần, cầu Long Biên có các đoàn người đi bộ chụp ảnh giữa cầu, xe máy cần chạy thật chậm và giữ khoảng cách; bài [đi xe máy qua cầu Long Biên lúc nào đẹp nhất](/du-lich/2026/09/30/i-xe-may-qua-cau-long-bien-luc-nao-ep-nhat/) kể rõ khung đông vắng trong tuần để ai cần tính giờ. Tối muộn cả ba cầu vãn, chỉ cần bật đèn và giữ làn phải cho đến khi vào phố. Ngày mưa to mọi cầu đều chậm, nhưng Vĩnh Tuy vẫn dễ chịu nhất vì nút giao hai đầu rộng, dòng xe dù dồn vẫn nhúc nhích; khung nghỉ lễ dài, các cầu sang bờ tây thường tắc nhẹ vào cữ sáng, còn chiều nghỉ thì người đổ về bờ bắc đông hơn hẳn chiều thường lệ.
+Cuối tuần, cầu Long Biên có các đoàn người đi bộ chụp ảnh giữa cầu, xe máy cần chạy thật chậm và giữ khoảng cách; bài [đi xe máy qua cầu Long Biên lúc nào đẹp nhất](/du-lich/2026/09/30/di-xe-may-qua-cau-long-bien-luc-nao-dep-nhat/) kể rõ khung đông vắng trong tuần để ai cần tính giờ. Tối muộn cả ba cầu vãn, chỉ cần bật đèn và giữ làn phải cho đến khi vào phố. Ngày mưa to mọi cầu đều chậm, nhưng Vĩnh Tuy vẫn dễ chịu nhất vì nút giao hai đầu rộng, dòng xe dù dồn vẫn nhúc nhích; khung nghỉ lễ dài, các cầu sang bờ tây thường tắc nhẹ vào cữ sáng, còn chiều nghỉ thì người đổ về bờ bắc đông hơn hẳn chiều thường lệ.
 
 ## Chọn cầu theo loại xe và chặng về
 
 Xe máy chở thùng hàng nặng nên ưu tiên Chương Dương hoặc Vĩnh Tuy: mặt đường liền mạch, dải dẫn dài, tránh được các ghép sắt trên cầu Long Biên gây xóc đồ. Ai đi xe số nhẹ, chỉ có một balo thì Long Biên vẫn là tiện nhất vì vào thẳng phố cổ khỏi vòng thêm nút giao. Người chở cây dài, ống nước thì tránh khung cao điểm trên mọi cầu vì việc giữ thăng bằng khi dừng đèn giữa dòng xe lành nhất là không phải làm.
 
-Ngày mưa, mặt cầu Long Biên trơn hơn nhìn tưởng, riêng khúc ray nên vòng qua theo lối đã mòn; kinh nghiệm lên cầu và các điểm dừng gần cầu nằm trong bài [đi lên cầu Long Biên bằng xe máy](/du-lich/2026/09/28/en-cau-long-bien-bang-xe-may-gui-xe-va-uong-i/). Hai cầu còn lại có mặt đường nhựa phẳng nên chỉ cần phanh sớm và nhẹ, giữ khoảng cách với xe buýt.
+Ngày mưa, mặt cầu Long Biên trơn hơn nhìn tưởng, riêng khúc ray nên vòng qua theo lối đã mòn; kinh nghiệm lên cầu và các điểm dừng gần cầu nằm trong bài [đi lên cầu Long Biên bằng xe máy](/du-lich/2026/09/28/den-cau-long-bien-bang-xe-may-gui-xe-va-duong-di/). Hai cầu còn lại có mặt đường nhựa phẳng nên chỉ cần phanh sớm và nhẹ, giữ khoảng cách với xe buýt.
 
 ## Đi thử cả ba cầu trong một sáng cuối tuần
 

@@ -28,9 +28,9 @@ Yếu tố làm nguy cơ tăng thêm là tải xe: chở hai người, hành lý
 
 Trước mặt đèo, dừng lại một phút làm ba việc: chỉnh gương, kiểm tra phản ứng của phanh sau ở chỗ vắng, và nghĩ trước nhịp phanh sẽ dùng. Xuất phát vào dốc với tốc độ thấp hơn tốc độ dự kiến duy trì, vì tăng tốc dễ còn giảm tốc giữa dốc lại chính là thứ gây nóng phanh. Chọn làn phía phải, giữ khoảng cách dài với xe phía trước để có thời gian phản ứng mà không cần phanh gấp.
 
-Xem trước đặc điểm đoạn đèo sắp đi: bài [đèo Thung Khe và lưu ý khi chạy xe máy](/cung-duong/2026/10/09/eo-thung-khe-moc-chau-chay-xe-may-can-than-gi/) mô tả cụ thể các khúc cua gấp và đoạn dài của cung hiểm nhất lượt về. Biết trước mặt đường giúp phân bổ phanh theo đoạn, thay vì bị đường dốc dẫn tay lái một cách bị động. Đồ nặng buộc thấp gần giữa thân xe, không chất cao phía sau, vì trọng tâm cao làm xe khó giữ nhịp phanh mượt ở dốc.
+Xem trước đặc điểm đoạn đèo sắp đi: bài [đèo Thung Khe và lưu ý khi chạy xe máy](/cung-duong/2026/10/09/deo-thung-khe-moc-chau-chay-xe-may-can-than-gi/) mô tả cụ thể các khúc cua gấp và đoạn dài của cung hiểm nhất lượt về. Biết trước mặt đường giúp phân bổ phanh theo đoạn, thay vì bị đường dốc dẫn tay lái một cách bị động. Đồ nặng buộc thấp gần giữa thân xe, không chất cao phía sau, vì trọng tâm cao làm xe khó giữ nhịp phanh mượt ở dốc.
 
-Nếu đi đoàn, báo trước cho cả nhóm về cách chạy xuống đèo của xe ga để người đi xe số phía sau không ép sát, vì xe số giảm tốc bằng máy mạnh hơn. Kỹ năng tổ chức đoàn và nhường xe lớn ở đoạn đèo đã có trong bài [xe tải và xe khách trên quốc lộ 6](/cung-duong/2026/10/11/xe-tai-xe-khach-tren-quoc-lo-6-cach-vuot-va-nhuong-uong-o-oan-eo/), đọc trước để cả nhóm chạy thống nhất nhịp.
+Nếu đi đoàn, báo trước cho cả nhóm về cách chạy xuống đèo của xe ga để người đi xe số phía sau không ép sát, vì xe số giảm tốc bằng máy mạnh hơn. Kỹ năng tổ chức đoàn và nhường xe lớn ở đoạn đèo đã có trong bài [xe tải và xe khách trên quốc lộ 6](/cung-duong/2026/10/11/xe-tai-xe-khach-tren-quoc-lo-6-cach-vuot-va-nhuong-duong-o-doan-deo/), đọc trước để cả nhóm chạy thống nhất nhịp.
 
 ## Kỹ thuật nhịp phanh xen kẽ trên dốc dài
 

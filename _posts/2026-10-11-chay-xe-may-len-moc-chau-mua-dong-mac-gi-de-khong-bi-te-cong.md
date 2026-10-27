@@ -32,15 +32,15 @@ Người quen mũ nửa đầu trong thành sẽ thấy rõ khác biệt khi qua
 
 ## Khung giờ chạy và nghỉ giữa chặng
 
-Chạy mùa đông nên dồn khung chín giờ sáng tới ba giờ chiều, lúc nắng lên cao nguyên đã dịu và mặt đường ráo sau đêm sương. Xuất phát thật sớm trong giá buốt để đuổi kịp lịch là kiểu làm của mùa hè, mùa lạnh hãy tính lịch vừa sức, nhận phòng trước hoàng hôn. Trên đường quốc lộ 6, mỗi chặng dài nên nghỉ ở các điểm có mái ấm, kinh nghiệm chọn điểm xăng và quán nghỉ đã gom trong bài [điểm xăng và nghỉ chân trên quốc lộ 6](/cung-duong/2026/10/01/o-xang-va-nghi-chan-tren-quoc-lo-6-i-moc-chau-cac-iem-dung/).
+Chạy mùa đông nên dồn khung chín giờ sáng tới ba giờ chiều, lúc nắng lên cao nguyên đã dịu và mặt đường ráo sau đêm sương. Xuất phát thật sớm trong giá buốt để đuổi kịp lịch là kiểu làm của mùa hè, mùa lạnh hãy tính lịch vừa sức, nhận phòng trước hoàng hôn. Trên đường quốc lộ 6, mỗi chặng dài nên nghỉ ở các điểm có mái ấm, kinh nghiệm chọn điểm xăng và quán nghỉ đã gom trong bài [điểm xăng và nghỉ chân trên quốc lộ 6](/cung-duong/2026/10/01/do-xang-va-nghi-chan-tren-quoc-lo-6-di-moc-chau-cac-diem-dung/).
 
-Uống nước ấm từ bình giữ nhiệt thay vì nước lạnh, ăn nhẹ trước chặng đèo vì bụng đói làm người chóng mặt nhanh hơn khi rét. Ai định thuê xe cho chuyến nên đọc trước bài [thuê xe máy đi Mộc Châu mấy ngày](/cung-duong/2026/10/07/tu-ha-noi-thue-xe-may-i-moc-chau-nen-i-may-ngay/) để chọn xe dễ nổ và giữ nhiệt tốt, xe số đời cũ mùa lạnh hay khó nổ sớm.
+Uống nước ấm từ bình giữ nhiệt thay vì nước lạnh, ăn nhẹ trước chặng đèo vì bụng đói làm người chóng mặt nhanh hơn khi rét. Ai định thuê xe cho chuyến nên đọc trước bài [thuê xe máy đi Mộc Châu mấy ngày](/cung-duong/2026/10/07/tu-ha-noi-thue-xe-may-di-moc-chau-nen-di-may-ngay/) để chọn xe dễ nổ và giữ nhiệt tốt, xe số đời cũ mùa lạnh hay khó nổ sớm.
 
 ## Giữ máy xe trong giá lạnh
 
 Máy xe mùa lạnh nổ chậm: để máy không tải một nhịp trước khi chạy, vặn ga từng nấc nhẹ thay vì tăng ga lớn ngay, và luôn để xe qua đêm nơi có mái che. Kiểm tra lốp vì hơi non co lại, nắn lại áp suất theo khuyến nghị ghi trên lốp, phanh đĩa buổi sáng có đọng sương thì phanh nhẹ vài lần cho khô trước khi vào đèo. Đèn xe bật cả ngày, trời xám và sương mù khiến xe khó được thấy từ xa.
 
-Đèo Thung Khe là đoạn nên đi trong khung ban ngày, kinh nghiệm qua đèo này đã kể trong bài [đèo Thung Khe chạy xe máy cần thận trọng](/cung-duong/2026/10/09/eo-thung-khe-moc-chau-chay-xe-may-can-than-gi/). ## Người ngồi sau và trẻ nhỏ đi cùng mùa lạnh
+Đèo Thung Khe là đoạn nên đi trong khung ban ngày, kinh nghiệm qua đèo này đã kể trong bài [đèo Thung Khe chạy xe máy cần thận trọng](/cung-duong/2026/10/09/deo-thung-khe-moc-chau-chay-xe-may-can-than-gi/). ## Người ngồi sau và trẻ nhỏ đi cùng mùa lạnh
 
 Người ngồi sau dễ lạnh hơn người lái vì tay chân ít vận động: cần bộ y như người lái, cộng thêm khăn dự phòng trong túi xe. Trẻ nhỏ đi cùng nên có găng và mũ kín riêng cỡ trẻ, và không cho trẻ ngủ gật trên yên trong chặng đèo: người lớn phía sau vòng tay giữ, hoặc dừng nghỉ cho trẻ ngủ ở quán rồi mới đi tiếp. Trước chuyến, kể trước cho trẻ về độ dài đường để trẻ biết nhịp chờ đợi, bớt quấy giữa những đoạn đèo vắng tín hiệu điện thoại.
 

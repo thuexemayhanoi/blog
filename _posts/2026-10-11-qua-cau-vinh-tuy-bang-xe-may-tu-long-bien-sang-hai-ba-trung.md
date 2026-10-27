@@ -34,7 +34,7 @@ Một lưu ý nhỏ: các tuyến xe buýt qua cầu dừng đón ngay sát dả
 
 ## Khung giờ chạy thoáng
 
-Sáng sớm trước sáu giờ rưỡi là khung đẹp nhất trong ngày, cầu thoáng, khí mát, hợp cho ai đi tập thể dục qua cầu hoặc chụp ảnh sông Hồng lúc sương chưa tan; kinh nghiệm chạy khung này đã được kể trong bài [chạy xe sáng sớm qua cầu Vĩnh Tuy](/cung-duong/2026/10/01/chay-xe-sang-som-qua-cau-vinh-tuy-cung-uong-cho-nguoi-moi/). Giữa trưa các ngày trong tuần cũng thoáng, chỉ cần cẩn thận nắng chang mặt đường.
+Sáng sớm trước sáu giờ rưỡi là khung đẹp nhất trong ngày, cầu thoáng, khí mát, hợp cho ai đi tập thể dục qua cầu hoặc chụp ảnh sông Hồng lúc sương chưa tan; kinh nghiệm chạy khung này đã được kể trong bài [chạy xe sáng sớm qua cầu Vĩnh Tuy](/cung-duong/2026/10/01/chay-xe-sang-som-qua-cau-vinh-tuy-cung-duong-cho-nguoi-moi/). Giữa trưa các ngày trong tuần cũng thoáng, chỉ cần cẩn thận nắng chang mặt đường.
 
 Khung tan tầm từ năm giờ chiều, hai đầu cầu dồn chậm lại, đoạn dẫn lên nút giao Long Biên xếp hàng dài nhất; ai có thể dời giờ thì đi sớm trước bốn giờ hoặc muộn sau bảy giờ. Cuối tuần khung xế trưa thoáng hơn hẳn các ngày làm việc, còn tối thứ bảy cầu vắng, chạy qua an toàn nếu giữ đúng làn.
 
@@ -44,9 +44,9 @@ Cuối năm dòng xe qua cầu tăng nhẹ vào các ngày cận lễ, khung tr�
 
 ## Sang bờ nam ghé gì quanh Hai Bà Trưng
 
-Qua cầu xong, khu Hai Bà Trưng có đủ điểm cho một buổi: dải phố ăn uống quanh đường Bạch Mai, các hàng ẩm thực sáng bún ốc và chợ nhỏ ven đường. Cách dạo trọn quận, chỗ gửi xe quanh hồ nhỏ và giờ nào vắng đã có trong bài [đêm Hai Bà Trưng: ăn uống và gửi xe](/du-lich/2026/10/10/en-hai-ba-trung-o-quan-hai-ba-trung-bang-xe-may-uong-i-va-gui-xe/).
+Qua cầu xong, khu Hai Bà Trưng có đủ điểm cho một buổi: dải phố ăn uống quanh đường Bạch Mai, các hàng ẩm thực sáng bún ốc và chợ nhỏ ven đường. Cách dạo trọn quận, chỗ gửi xe quanh hồ nhỏ và giờ nào vắng đã có trong bài [đêm Hai Bà Trưng: ăn uống và gửi xe](/du-lich/2026/10/10/den-hai-ba-trung-o-quan-hai-ba-trung-bang-xe-may-duong-di-va-gui-xe/).
 
-Ai thích chụp ảnh thì chạy về phía dải ven sông phía nam, ngược lên nhìn lại cầu Vĩnh Tuy lúc đèn lên: khung hình có đủ dòng xe, mặt nước và dải đèn đều là góc đẹp. Lượt về nếu muốn đổi cảnh, chạy vòng theo [đường ven sông từ Long Biên](/cung-duong/2026/10/10/cung-uong-ven-song-uong-tu-long-bien-chay-xe-buoi-sang/) thay vì quay đúng lối cũ.
+Ai thích chụp ảnh thì chạy về phía dải ven sông phía nam, ngược lên nhìn lại cầu Vĩnh Tuy lúc đèn lên: khung hình có đủ dòng xe, mặt nước và dải đèn đều là góc đẹp. Lượt về nếu muốn đổi cảnh, chạy vòng theo [đường ven sông từ Long Biên](/cung-duong/2026/10/10/cung-duong-ven-song-duong-tu-long-bien-chay-xe-buoi-sang/) thay vì quay đúng lối cũ.
 
 ## Kiểm tra xe trước khi qua cầu thường xuyên
 

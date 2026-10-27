@@ -42,7 +42,7 @@ Sai lầm thứ hai là cố vặn khi xe vẫn bị chèn bởi vật nặng, v
 
 ## Phòng tránh ngay từ lúc đỗ xe
 
-Cách chắc chắn nhất là đỗ xe với bánh trước thẳng theo hướng tự nhiên của xe. Không đánh lái hết cỡ để chen vào khe hẹp, vì khi lấy ra bạn sẽ phải xoay xe ngay trong không gian chật. Chọn nền phẳng, tránh để bánh đè lên gờ. Như khi dạo quanh bờ Hồ Tây, bạn cũng nên tham khảo cách [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/) để chọn được bãi có vạch kẻ rõ ràng, đỗ trong vạch là yên tâm phần tư thế.
+Cách chắc chắn nhất là đỗ xe với bánh trước thẳng theo hướng tự nhiên của xe. Không đánh lái hết cỡ để chen vào khe hẹp, vì khi lấy ra bạn sẽ phải xoay xe ngay trong không gian chật. Chọn nền phẳng, tránh để bánh đè lên gờ. Như khi dạo quanh bờ Hồ Tây, bạn cũng nên tham khảo cách [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/) để chọn được bãi có vạch kẻ rõ ràng, đỗ trong vạch là yên tâm phần tư thế.
 
 Với xe thuê, hãy ưu tiên dùng chìa gốc mà bên cho thuê giao nếu được cả hai chùm, vì chìa gốc ăn khớp ổ hơn chìa copy. Khi tra chìa mà thấy nặng bất thường, đó là lúc nên nhắc bên cho thuê kiểm tra, đừng đợi đến khi kẹt hẳn giữa phố. Ngoài các lưu ý trong bài này, còn nhiều thói quen nhỏ khác quanh chuyện trông giữ xe nằm trong mục [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), còn những điều đáng biết khác khi đi xe máy ở Hà Nội được sắp xếp trong [chuyên mục kỹ năng](/ky-nang/).
 

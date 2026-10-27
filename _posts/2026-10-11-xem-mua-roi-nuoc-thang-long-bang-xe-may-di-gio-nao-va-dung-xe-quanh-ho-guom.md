@@ -34,11 +34,11 @@ Ngồi hàng giữa, cách mặt nước một đoạn, là góc nhìn đẹp nh
 
 Các bãi gửi quanh mép hồ đông từ khung tối, nên kinh nghiệm tổng hợp trong bài [gửi xe quanh Hồ Gươm: giá và vị trí](/du-lich/2026/09/28/gui-xe-quanh-ho-guom-gia-va-vi-tri/) đáng đọc trước chuyến, vì biết trước ba bãi dự phòng giúp không phải vòng hai vòng khi bãi đầu kín. Gửi xong, chụp lại biển số vị trí bãi, khung tối dễ quên chấm xe giữa hàng chục xe cùng loại.
 
-Từ bãi mép hồ, bộ tới nhà hát chỉ vài phút, tiện ghé ngang [khu Hồ Gươm và tháp Rùa bằng xe máy](/du-lich/2026/09/28/en-khu-ho-guom-va-thap-rua-bang-xe-may-gui-xe-va-uong-i/) nếu tới sớm, dạo một vòng nước lên đèn trước khi vào xem diễn.
+Từ bãi mép hồ, bộ tới nhà hát chỉ vài phút, tiện ghé ngang [khu Hồ Gươm và tháp Rùa bằng xe máy](/du-lich/2026/09/28/den-khu-ho-guom-va-thap-rua-bang-xe-may-gui-xe-va-duong-di/) nếu tới sớm, dạo một vòng nước lên đèn trước khi vào xem diễn.
 
 ## Ghé thêm trước và sau suất diễn
 
-Trước suất chiều, hợp lưu một vòng [chùa Trân Quốc](/du-lich/2026/10/09/tham-chua-tran-quoc-bang-xe-may-cho-gui-xe-o-au/) gần Hồ Tây rồi chạy thẳng xuống nhà hát, khung chiều muộn bên chùa rất đáng dừng. Sau suất tối, phố quanh hồ lên đèn, là lúc bài về [đi Hồ Gươm và vỉa hồ buổi tối](/du-lich/2026/10/09/i-ho-guom-va-vinh-biet-bang-xe-may-buoi-toi-hop-khong/) mô tả đúng: mặt nước phản sáng, người dạo đông mà dễ chịu, chạy một vòng chậm rồi ghé quán khuya đóng ngày.
+Trước suất chiều, hợp lưu một vòng [chùa Trân Quốc](/du-lich/2026/10/09/tham-chua-tran-quoc-bang-xe-may-cho-gui-xe-o-dau/) gần Hồ Tây rồi chạy thẳng xuống nhà hát, khung chiều muộn bên chùa rất đáng dừng. Sau suất tối, phố quanh hồ lên đèn, là lúc bài về [đi Hồ Gươm và vỉa hồ buổi tối](/du-lich/2026/10/09/di-ho-guom-va-vinh-biet-bang-xe-may-buoi-toi-hop-khong/) mô tả đúng: mặt nước phản sáng, người dạo đông mà dễ chịu, chạy một vòng chậm rồi ghé quán khuya đóng ngày.
 
 Nhóm có trẻ nhỏ thì để phần hồ sau suất là phần thưởng: trẻ vui với không khí phố đi bộ, người lớn nghỉ chân trên ghế đá, và cả nhà cùng về bằng một chặng xe ngắn. Nhóm người trẻ có thể nối thêm các quán cà phê đêm trong phố cổ, chỉ cần nhớ gửi xe cùng một bãi lúc ban đầu cho tiện lấy lúc về.
 

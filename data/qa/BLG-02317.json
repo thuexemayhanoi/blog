@@ -47,9 +47,51 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-11-san-may-moc-chau-sang-som-bang-xe-may-xuat-phat-may-gio-can-mang-gi.md",
-  "content_sha256": "d8917eaf8cedc71e7caa79aa55f4fce1ea245532aae69f8e459758c8041ab8ad",
+  "content_sha256": "46eb203da4506b5f4b6662fd6cca7cdc4b9d42911781c75b1c38cca2afd2e80d",
   "matrix_row_sha256": "1907ced37e5bab2a5811d9d3035f3b004dc2ddbc7ce7e281b8006e10e5f47c4a",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-11T16:28:32+00:00"
+  "published_at": "2026-10-11T16:28:32+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "link-retarget",
+    "purpose": "internal-link-retarget",
+    "reason": "Tro lien ket noi bo thang toi URL moi (sau di tru slug d -> d, hoac them dau / cuoi) thay vi qua trang chuyen huong/301 cua may chu. Issue #77.",
+    "approval_ref": "chu-repo:chi-thi-2026-10-26-master-task-hoan-thanh-1410-url/issue-77 (session_01D88QamSe7ksLm1ZpE5Y7fT)",
+    "batch_id": "links-20261027-p08",
+    "revised_at": "2026-10-27T00:04:10+00:00",
+    "previous_evidence_sha256": "74e3ca90469f56531d459722d4432f81a7a7179a403114b17ae51273661a03f2",
+    "previous_content_sha256": "d8917eaf8cedc71e7caa79aa55f4fce1ea245532aae69f8e459758c8041ab8ad",
+    "previous_matrix_row_sha256": "1907ced37e5bab2a5811d9d3035f3b004dc2ddbc7ce7e281b8006e10e5f47c4a",
+    "new_content_sha256": "46eb203da4506b5f4b6662fd6cca7cdc4b9d42911781c75b1c38cca2afd2e80d",
+    "mapping_sha256": "2d8e3b4cec45c8f31e31c9ce93f8c5931578094a7a3c26351b319199a52eb170",
+    "links_retargeted": 6,
+    "targets": {
+      "/cung-duong/2026/10/01/o-xang-va-nghi-chan-tren-quoc-lo-6-i-moc-chau-cac-iem-dung/": 1,
+      "/cung-duong/2026/10/05/chay-xe-may-len-moc-chau-nen-nghi-em-o-au/": 1,
+      "/cung-duong/2026/10/07/cung-uong-i-moc-chau-qua-moc-chau-town-nen-an-gi/": 1,
+      "/cung-duong/2026/10/07/tu-ha-noi-thue-xe-may-i-moc-chau-nen-i-may-ngay/": 1,
+      "/cung-duong/2026/10/09/eo-thung-khe-moc-chau-chay-xe-may-can-than-gi/": 1,
+      "/cung-duong/2026/10/11/suong-mu-tren-eo-i-moc-chau-chay-xe-may-the-nao-cho-an-toan/": 1
+    },
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/migrate-slug-urls.py links-apply",
+    "tool_commit": "df50694d09de3b87c269d7e31d5b67d08302bcea",
+    "scorer_code_sha256": "b4a8836fab455ec134ecb2a01ebaa1ebce70e7a503a12e3fb00265e671d73201",
+    "business_facts_sha256": "2b9fe988a0199fb40834a6b14afd7497b9bbf53aff574c686a8d19b715dc7ac6",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "migrate_tool_sha256": "ddd2be356a2f313bf991d56eab56c101545909274cab45dcbb11e2039f5bcefd",
+    "slugkit_sha256": "3ca830e9d1fe26935aafc87750f95908dbe3b5cb9aa92d2779157ef4e6b1ec4d",
+    "baseline_sha256": "6a91c1c7e18ad2b6c0a85d309ae9939cc91c06e54106bf22f46280194222197c",
+    "note": "chi doi DICH lien ket noi bo (chu lien ket, tieu de, # doan va moi byte khac giu nguyen); scored_at/published_at o cap tren giu moc lich su goc; cham diem doc lap luc revised_at"
+  }
 }

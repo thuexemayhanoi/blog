@@ -26,7 +26,7 @@ Bình lớn, chum hoặc lọ cao cần xử lý riêng: nhồi báo hay rơm qu
 
 Nguyên tắc vàng là đặt nặng dưới, nhẹ trên và dọc theo thân xe. Thùng gốm nặng nhất để ở giữa hai chân nếu để chân hốc, hoặc buộc chặt lên bậm chân sau bằng dây chun ghim bốn phía. Không xếp gốm lên giỏ trước kiểu chồng cao: giỏ trước là điểm rung mạnh nhất của xe, mỗi cú phanh lại dồn hết lực vào các lớp gốm.
 
-Với xe có cốp dưới yên, mâm chén nhỏ vừa cốp là chỗ lý tưởng nhất: cốp gần trục bánh, ít rung hơn mọi vị trí khác trên xe. Còn bình cao thì đừng nhét cốp, buộc nằm dọc theo lên yên sau bằng hai vòng dây, chèn gói báo dưới hai đầu để khỏi cạ vào vải yên. Ai hay mua gốm về làm quà thì nên xem trước cách chọn loại xe hợp việc chở nặng ở bài [xe số hay xe ga chở nặng phố](/xe-may/2026/10/11/xe-so-hay-xe-ga-cho-uong-ong-pho/).
+Với xe có cốp dưới yên, mâm chén nhỏ vừa cốp là chỗ lý tưởng nhất: cốp gần trục bánh, ít rung hơn mọi vị trí khác trên xe. Còn bình cao thì đừng nhét cốp, buộc nằm dọc theo lên yên sau bằng hai vòng dây, chèn gói báo dưới hai đầu để khỏi cạ vào vải yên. Ai hay mua gốm về làm quà thì nên xem trước cách chọn loại xe hợp việc chở nặng ở bài [xe số hay xe ga chở nặng phố](/xe-may/2026/10/11/xe-so-hay-xe-ga-cho-duong-dong-pho/).
 
 Cân đối tải quan trọng như chỗ đặt: gốm nặng lệch về sau làm bánh trước nổi, tay lái nhẹ tênh khi vào cua; lệch về trước thì bánh sau mất bám, dễ trượt trên vệt cát của đường làng. Kiểm tra áp lốp trước chuyến mua lớn, bánh non chở nặng xuống dốc dẫn cầu rất dễ móp vành. Trước khi ra khỏi làng, dừng một nhịp chạy thử vài chục mét trong hẻm, nghe tiếng thùng và cảm độ nặng của xe, điều chỉnh ngay khi còn ở gần quán còn đỡ việc buộc lại giữa đường.
 
@@ -40,7 +40,7 @@ Gương gập lại trước khi chở bình cao, vì bình hay va gương khi b
 
 Đoạn đường làng ra từ Bát Tràng ra trục lớn nhiều cát mòn và ổ gà, đây là phần đường nguy hiểm nhất cho gốm, nên giữ đều ga và chọn vệt phẳng sẵn từ xa. Đường đê ven sông Hồng phẳng hơn nhưng gió ngang mạnh, bình cao buộc trên yên dễ bị đung đưa khi vào gió lớn; chạy chậm lại vài nhịp cho chắc. Qua cầu Long Biên về nội đô thì tránh đường ray giữa cầu theo góc vuông, đường ẩm trơn cùng thùng gốm buộc cao là cặp đôi không nên thử.
 
-Nghỉ giữa chặng nếu đường xa: tìm chỗ mát, tránh để thùng gốm phơi nắng vì băng keo và báo bọc giòn nhanh dưới nhiệt, dây chun mất đàn hồi. Ai định kết hợp chuyến làng gốm với quanh khu thì xem lộ trình chi tiết ở bài [làng gốm Bát Tràng từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-uong-i-va-gui-xe/), trong đó có cả chỗ gửi xe an toàn cho người mua nhiều.
+Nghỉ giữa chặng nếu đường xa: tìm chỗ mát, tránh để thùng gốm phơi nắng vì băng keo và báo bọc giòn nhanh dưới nhiệt, dây chun mất đàn hồi. Ai định kết hợp chuyến làng gốm với quanh khu thì xem lộ trình chi tiết ở bài [làng gốm Bát Tràng từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-duong-di-va-gui-xe/), trong đó có cả chỗ gửi xe an toàn cho người mua nhiều.
 
 ## Về tới nhà: mở đồ và kiểm tra
 

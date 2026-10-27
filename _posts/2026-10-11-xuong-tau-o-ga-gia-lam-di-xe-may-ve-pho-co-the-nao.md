@@ -30,7 +30,7 @@ Nếu tàu đến đúng khung cao điểm, đừng vội: gửi vali ở quầy
 
 ## Nếu chưa có xe đón
 
-Quanh ga có các điểm cho thuê xe máy, nhận xe nhanh và trả ở bờ bên kia cũng được; kinh nghiệm thuê khu này đã kể trong bài [thuê xe máy khu Long Biên tiện qua sông](/thue-xe/2026/10/11/thue-xe-may-khu-long-bien-tien-qua-song-va-uong-tinh/). Trước khi nhận xe, thử phanh, đèn và còi, kiểm tra gương hai bên vì chặng về qua cầu nhiều gió sông.
+Quanh ga có các điểm cho thuê xe máy, nhận xe nhanh và trả ở bờ bên kia cũng được; kinh nghiệm thuê khu này đã kể trong bài [thuê xe máy khu Long Biên tiện qua sông](/thue-xe/2026/10/11/thue-xe-may-khu-long-bien-tien-qua-song-va-duong-tinh/). Trước khi nhận xe, thử phanh, đèn và còi, kiểm tra gương hai bên vì chặng về qua cầu nhiều gió sông.
 
 Ai đi cùng gia đình, có người lớn tuổi thì cân nhắc gọi xe ôm ở cổng ga cho người lớn, bản thân chạy xe máy theo sau cùng vali; cách này đỡ mệt khi về đến phố cổ còn phải đi bộ tiếp vào ngõ nhỏ.
 
@@ -50,10 +50,10 @@ Xuống tới khu phố, nhiều ngõ nhỏ cấm hoặc không tiện chạy v�
 
 ## Ngày mưa ra khỏi ga
 
-Mưa làm khúc quanh ga ngập nhẹ và trơn, vali kéo bộ trượt đế nên ưu tiên vác hoặc dùng loại bánh to. Kính xe mờ bằng nước mưa thì lau trước khi lên đường, chạy chậm hơn thường lệ mười cây số trên chặng cầu, vì ray tàu trên cầu Long Biên lúc ướt là đoạn đáng đề phòng nhất; kinh nghiệm quanh cầu và chỗ gửi xe gần cầu có trong bài [đi lên cầu Long Biên bằng xe máy](/du-lich/2026/09/28/en-cau-long-bien-bang-xe-may-gui-xe-va-uong-i/).
+Mưa làm khúc quanh ga ngập nhẹ và trơn, vali kéo bộ trượt đế nên ưu tiên vác hoặc dùng loại bánh to. Kính xe mờ bằng nước mưa thì lau trước khi lên đường, chạy chậm hơn thường lệ mười cây số trên chặng cầu, vì ray tàu trên cầu Long Biên lúc ướt là đoạn đáng đề phòng nhất; kinh nghiệm quanh cầu và chỗ gửi xe gần cầu có trong bài [đi lên cầu Long Biên bằng xe máy](/du-lich/2026/09/28/den-cau-long-bien-bang-xe-may-gui-xe-va-duong-di/).
 
 ## Ghé thêm ven đường về nội đô
 
-Chuyến về sáng sớm có thể ghé chợ Long Biên ăn sáng, phố chợ chỉ lệch khỏi lối về vài phút; khung giờ vắng và món đáng thử đã liệt kê trong bài [chợ đầu mối Long Biên đi xe máy lúc mấy giờ](/du-lich/2026/10/09/cho-au-moi-long-bien-i-xe-may-luc-may-gio/). Ai thích nhẹ nhàng hơn thì dừng ở dải ven sông phía trước cầu, ngắm mặt sông lúc sương chưa tan rồi mới lên đường.
+Chuyến về sáng sớm có thể ghé chợ Long Biên ăn sáng, phố chợ chỉ lệch khỏi lối về vài phút; khung giờ vắng và món đáng thử đã liệt kê trong bài [chợ đầu mối Long Biên đi xe máy lúc mấy giờ](/du-lich/2026/10/09/cho-dau-moi-long-bien-di-xe-may-luc-may-gio/). Ai thích nhẹ nhàng hơn thì dừng ở dải ven sông phía trước cầu, ngắm mặt sông lúc sương chưa tan rồi mới lên đường.
 
 Tóm lại, ra khỏi ga nhớ định hướng về tây, chọn đúng cầu theo điểm đến, né khung tan tầm và ghé thêm một bữa sáng ven đường là đủ nhịp cho chặng ga Gia Lâm về phố cổ bằng xe máy.

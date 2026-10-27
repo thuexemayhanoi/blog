@@ -26,13 +26,13 @@ Xe khách liên tỉnh còn khó đoán hơn xe tải vì chạy nhanh hơn và 
 
 Đoạn hợp để vượt xe tải là đường thẳng dài có tầm nhìn trọn, vạch kẻ cho phép, và xe ngược chiều còn xa; trên quốc lộ 6, các đoạn qua thung lũng giữa hai dốc thường có những quãng như vậy. Giữ khoảng cách với xe tải trước khi vượt: bám sát quá gần thì phần nhìn phía trước bị thân xe che mất, giữ cách chục mét vừa đủ quan sát. Ra tín hiệu đèn trước, bóp còi một tiếng cho tài xế biết, rồi vượt dứt khoát trong một đoạn, tránh vượt nửa chừng kẹt giữa làn.
 
-Những đoạn tuyệt đối không vượt: khúc cua có biển gương cong, đầu dốc nơi xe tải đổi số nhích ngang, đoạn có vạch liền, và chặng sương mù hoặc trời mưa ướt. Trên các đoạn đèo quanh Thung Khe, nhiều khúc cua khuất tầm nhìn chỉ vài chục mét, vượt tại đây kể cả khi nhìn thấy xe tải chậm cũng không đáng: chờ thêm một hai cây số tới đoạn thẳng. Kinh nghiệm qua đèo Thung Khe đã kể riêng trong bài [đèo Thung Khe chạy xe máy cần thận trọng](/cung-duong/2026/10/09/eo-thung-khe-moc-chau-chay-xe-may-can-than-gi/).
+Những đoạn tuyệt đối không vượt: khúc cua có biển gương cong, đầu dốc nơi xe tải đổi số nhích ngang, đoạn có vạch liền, và chặng sương mù hoặc trời mưa ướt. Trên các đoạn đèo quanh Thung Khe, nhiều khúc cua khuất tầm nhìn chỉ vài chục mét, vượt tại đây kể cả khi nhìn thấy xe tải chậm cũng không đáng: chờ thêm một hai cây số tới đoạn thẳng. Kinh nghiệm qua đèo Thung Khe đã kể riêng trong bài [đèo Thung Khe chạy xe máy cần thận trọng](/cung-duong/2026/10/09/deo-thung-khe-moc-chau-chay-xe-may-can-than-gi/).
 
 ## Nhường đường: khi xe lớn cần phần đường của mình
 
 Chiều ngược lại, xe tải hoặc xe khách cần nhường: khi xe lớn ngược chiều chiếm sang làn của mình ở đoạn cua hẹp, xe máy nên ép sát lề phải và giảm tốc, nhường sớm thay vì giữ làn tới sát nhau. Xe máy nhỏ, né được trong khi ôtô không né được, nên phần nhường luôn thuộc về xe hai bánh: đó không phải lễ độ mà là an toàn cơ học. Nghe còi xe tải trước cua, chuẩn bị tinh thần nhường, và tuyệt đối không lấy phần đường còn lại để đấu: cua hẹp hai xe tải vừa nhau đã hết mặt đường.
 
-Với xe khách cùng chiều, khi xe khách vượt xe khác và chiếm sang làn, xe máy nên bám lề và giảm, chờ xe về làn rồi mới tiếp tục nhịp chạy. Cách vào số và giữ đà khi bị ép chậm giữa dốc đã kể trong bài [đèo dốc trên đường Mộc Châu và cách vào số](/cung-duong/2026/09/28/eo-doc-tren-uong-moc-chau-va-cach-vao-so/), vì bị ép chậm giữa dốc là chuyện thường ngày trên tuyến này, không phải sự cố.
+Với xe khách cùng chiều, khi xe khách vượt xe khác và chiếm sang làn, xe máy nên bám lề và giảm, chờ xe về làn rồi mới tiếp tục nhịp chạy. Cách vào số và giữ đà khi bị ép chậm giữa dốc đã kể trong bài [đèo dốc trên đường Mộc Châu và cách vào số](/cung-duong/2026/09/28/deo-doc-tren-duong-moc-chau-va-cach-vao-so/), vì bị ép chậm giữa dốc là chuyện thường ngày trên tuyến này, không phải sự cố.
 
 ## Chạy cùng dòng xe lớn: khoảng cách và vị trí
 
