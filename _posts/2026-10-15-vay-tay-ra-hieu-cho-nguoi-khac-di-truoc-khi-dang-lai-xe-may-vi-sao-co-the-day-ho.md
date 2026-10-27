@@ -57,7 +57,7 @@ Có lúc dừng lại còn nguy hơn: xe phía sau áp sát, dốc cầu, hay xe
 
 ## Tập thói quen nhường không cần rời tay
 
-Thói quen này tập được ngay trên quãng đường quen. Trước mỗi chỗ có người chờ, hãy tự nhắc ba việc: giảm tốc, nhìn làn bên, hai tay giữ lái. Muốn nhận ra sớm ai sắp bước ra, đọc bài [đọc ý định người đi xe xung quanh](/ky-nang/2026/10/11/oc-y-inh-nguoi-i-xe-xung-quanh-dau-hieu-sap-re-sap-tat-au-hay-sap-phanh/); còn khi bạn là người từ ngõ ra, xem [ra từ ngõ nhỏ vào đường lớn](/ky-nang/2026/10/10/ra-tu-ngo-nho-vao-uong-lon-quan-sat-va-nhac-nhanh/).
+Thói quen này tập được ngay trên quãng đường quen. Trước mỗi chỗ có người chờ, hãy tự nhắc ba việc: giảm tốc, nhìn làn bên, hai tay giữ lái. Muốn nhận ra sớm ai sắp bước ra, đọc bài [đọc ý định người đi xe xung quanh](/ky-nang/2026/10/11/doc-y-dinh-nguoi-di-xe-xung-quanh-dau-hieu-sap-re-sap-tat-dau-hay-sap-phanh/); còn khi bạn là người từ ngõ ra, xem [ra từ ngõ nhỏ vào đường lớn](/ky-nang/2026/10/10/ra-tu-ngo-nho-vao-duong-lon-quan-sat-va-nhac-nhanh/).
 
 Nếu xe thuê có tay ga hoặc cần phanh rơ, kẹt, đừng cố giữ nhường: dừng ở nơi an toàn, gọi tiệm 0942467674 trong giờ 09:00–21:00 và hỏi trực tiếp về đổi xe hay hỗ trợ ngoài giờ.
 

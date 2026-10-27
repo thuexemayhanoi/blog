@@ -27,7 +27,7 @@ Nghị định 118/2021/NĐ-CP, Điều 20, cho phép nộp tiền mặt tại K
 
 Luật Xử lý vi phạm hành chính, Điều 78 khoản 1, quy định quá hạn thì bị cưỡng chế, và cứ mỗi ngày chậm nộp, người vi phạm phải nộp thêm 0,05% trên tổng số tiền phạt chưa nộp. Tính nhẩm, 100 ngày chậm nộp tương đương thêm 5% số tiền phạt, một năm là hơn 18%.
 
-Theo Nghị định 118, Điều 20 khoản 4, thời gian cơ quan có thẩm quyền xem xét đơn đề nghị giảm, miễn hay nộp nhiều lần không tính là thời gian chậm nộp. Mức phạt tiền theo từng mức nồng độ có ở bài [mức phạt nồng độ cồn xe máy mới nhất](/an-toan-phap-ly/2026/09/28/muc-phat-nong-o-con-xe-may-moi-nhat/ "Mức phạt nồng độ cồn xe máy mới nhất").
+Theo Nghị định 118, Điều 20 khoản 4, thời gian cơ quan có thẩm quyền xem xét đơn đề nghị giảm, miễn hay nộp nhiều lần không tính là thời gian chậm nộp. Mức phạt tiền theo từng mức nồng độ có ở bài [mức phạt nồng độ cồn xe máy mới nhất](/an-toan-phap-ly/2026/09/28/muc-phat-nong-do-con-xe-may-moi-nhat/ "Mức phạt nồng độ cồn xe máy mới nhất").
 
 ## Bị cưỡng chế thế nào
 
@@ -47,7 +47,7 @@ Nghị định 168/2024/NĐ-CP, Điều 48, cho phép tạm giữ xe máy trư�
 
 Chưa nộp phạt thì chưa lấy được xe. Nếu được chấp thuận nộp nhiều lần, người vi phạm nhận lại xe sau khi nộp lần đầu. Nếu không nộp, trong 5 ngày làm việc sau khi hết thời hạn thi hành quyết định, xe bị chuyển cho người có thẩm quyền cưỡng chế để kê biên, bán đấu giá (Điều 126).
 
-Khi nhận lại xe không bị tịch thu, Nghị định 138/2021/NĐ-CP, Điều 16, quy định người vi phạm trả chi phí lưu kho, bến bãi, bảo quản trong thời gian tạm giữ. Người nhận xe phải là người vi phạm, chủ xe hoặc người được ủy quyền theo quy định. Với xe thuê, chiếc xe là tài sản của cửa hàng, và bỏ mặc khoản phạt cũng đồng nghĩa giữ xe của người khác ở bãi tạm giữ; xem thêm bài [trình tự với chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/ "Trình tự với chủ xe thuê khi bị xử lý nồng độ cồn").
+Khi nhận lại xe không bị tịch thu, Nghị định 138/2021/NĐ-CP, Điều 16, quy định người vi phạm trả chi phí lưu kho, bến bãi, bảo quản trong thời gian tạm giữ. Người nhận xe phải là người vi phạm, chủ xe hoặc người được ủy quyền theo quy định. Với xe thuê, chiếc xe là tài sản của cửa hàng, và bỏ mặc khoản phạt cũng đồng nghĩa giữ xe của người khác ở bãi tạm giữ; xem thêm bài [trình tự với chủ xe thuê khi bị xử lý nồng độ cồn](/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-do-con/ "Trình tự với chủ xe thuê khi bị xử lý nồng độ cồn").
 
 ## Vướng gì với bằng lái và đăng ký xe
 

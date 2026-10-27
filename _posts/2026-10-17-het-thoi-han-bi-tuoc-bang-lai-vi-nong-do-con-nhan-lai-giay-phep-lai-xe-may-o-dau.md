@@ -21,7 +21,7 @@ Sau gần hai năm không được cầm lái, câu hỏi của nhiều người
 
 Theo Nghị định 168/2024/NĐ-CP, Điều 7, với người đi xe máy chỉ có hai trường hợp bị tước giấy phép lái xe: nồng độ cồn vượt 80 mg/100 ml máu hoặc vượt 0,4 mg/lít khí thở, và không chấp hành yêu cầu kiểm tra nồng độ cồn. Thời hạn tước là 22 tới 24 tháng. Mức thấp hơn bị trừ điểm: mức một trừ 4 điểm, mức hai trừ 10 điểm, không bị tước. Nghị định 238/2026/NĐ-CP sửa đổi Nghị định 168 không thay đổi các điều khoản này.
 
-Các mức tước 10 tới 12 tháng hay 16 tới 18 tháng mà nhiều người còn nhớ là của quy định cũ, không còn áp dụng với xe máy. Mức phạt tiền hiện hành có ở bài [mức phạt nồng độ cồn xe máy mới nhất](/an-toan-phap-ly/2026/09/28/muc-phat-nong-o-con-xe-may-moi-nhat/ "Mức phạt nồng độ cồn xe máy mới nhất").
+Các mức tước 10 tới 12 tháng hay 16 tới 18 tháng mà nhiều người còn nhớ là của quy định cũ, không còn áp dụng với xe máy. Mức phạt tiền hiện hành có ở bài [mức phạt nồng độ cồn xe máy mới nhất](/an-toan-phap-ly/2026/09/28/muc-phat-nong-do-con-xe-may-moi-nhat/ "Mức phạt nồng độ cồn xe máy mới nhất").
 
 Nếu bạn có cả hạng xe máy và hạng ô tô, Điều 5 khoản 6 của nghị định cho phép vẫn được cấp, đổi giấy phép lái xe đối với loại không bị tước.
 

@@ -59,7 +59,7 @@ Về thao tác:
 - **Nhìn về hướng sẽ đi tới,** quay đầu và vai theo, không nhìn xuống bánh trước.
 - **Quay một mạch khi có khoảng trống đủ rộng,** không dừng lại giữa đường.
 
-Cách quay đầu trong phố hẹp có thêm ở bài [quay đầu xe máy trong phố](/ky-nang/2026/09/29/quay-au-xe-may-trong-pho/ "Quay đầu xe máy trong phố").
+Cách quay đầu trong phố hẹp có thêm ở bài [quay đầu xe máy trong phố](/ky-nang/2026/09/29/quay-dau-xe-may-trong-pho/ "Quay đầu xe máy trong phố").
 
 ## Chở người ngồi sau thì sao
 

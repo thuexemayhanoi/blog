@@ -47,7 +47,7 @@ Luật 2024, Điều 17, quy định trên đường hẹp, xe xuống dốc ph�
 
 Lúc xuống, Yamaha Việt Nam hướng dẫn nhả ga và dùng đúng số đã dùng khi lên dốc; dốc quá đứng thì về số thấp nhất. Sách hướng dẫn của Honda Việt Nam cũng dặn tránh phanh liên tục trên dốc dài vì phanh có thể quá nóng, nên dùng phanh động cơ kết hợp phanh ngắt quãng. Một lãnh đạo Cục Cảnh sát giao thông từng nói với Dân trí rằng tai nạn khi xuống dốc nhiều hơn khi lên dốc, và phải dùng số để kìm xe thay vì phanh nhiều.
 
-Mẫu Sơn hay sương dày buổi sáng và chiều. Bật đèn chiếu gần, giảm tốc, giữ khoảng cách xa với xe phía trước. Thời điểm và lưu ý mùa sương có ở bài [chạy xe lên Mẫu Sơn mùa sương](/cung-duong/2026/10/01/chay-xe-len-mau-son-mua-suong-thoi-iem-va-luu-y/ "Chạy xe lên Mẫu Sơn mùa sương").
+Mẫu Sơn hay sương dày buổi sáng và chiều. Bật đèn chiếu gần, giảm tốc, giữ khoảng cách xa với xe phía trước. Thời điểm và lưu ý mùa sương có ở bài [chạy xe lên Mẫu Sơn mùa sương](/cung-duong/2026/10/01/chay-xe-len-mau-son-mua-suong-thoi-diem-va-luu-y/ "Chạy xe lên Mẫu Sơn mùa sương").
 
 ## Băng giá và ùn tắc
 

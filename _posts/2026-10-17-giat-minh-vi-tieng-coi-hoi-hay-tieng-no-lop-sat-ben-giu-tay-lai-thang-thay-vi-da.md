@@ -59,10 +59,10 @@ Không ai bỏ được hẳn phản xạ giật mình, nhưng có thể làm n�
 Thêm vào đó, giảm bớt những tình huống dễ bị bất ngờ:
 
 - **Liếc gương thường xuyên.** Biết trước có xe tải đang tiến sát phía sau, tiếng còi sẽ bớt bất ngờ.
-- **Giữ khoảng cách với xe tải, xe khách.** Ở xa, tiếng nổ lốp hay xả hơi phanh bớt chói, và nếu có chuyện bạn cũng có chỗ xử lý; cách làm có ở bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-i-xe-may/ "Giữ khoảng cách an toàn khi đi xe máy").
+- **Giữ khoảng cách với xe tải, xe khách.** Ở xa, tiếng nổ lốp hay xả hơi phanh bớt chói, và nếu có chuyện bạn cũng có chỗ xử lý; cách làm có ở bài [giữ khoảng cách an toàn khi đi xe máy](/ky-nang/2026/10/01/giu-khoang-cach-an-toan-khi-di-xe-may/ "Giữ khoảng cách an toàn khi đi xe máy").
 - **Không đeo tai nghe bật to,** vì tiếng động bên ngoài lọt vào đột ngột sẽ càng làm bạn giật mình hơn.
 
-Khi xe lớn chuyển làn ngay trước mặt kèm tiếng còi, xem thêm bài [xe tải chiếu đèn chuyển làn ngay trước mặt: phản xạ](/ky-nang/2026/10/05/xe-tai-chieu-en-chuyen-lan-ngay-truoc-mat-phan-xa/ "Xe tải chiếu đèn chuyển làn ngay trước mặt"). Nếu cần phanh gấp sau khi đã nhìn rõ nguy hiểm, cách phối hợp có ở bài [phanh trước và phanh sau: phối hợp thế nào cho an toàn](/ky-nang/2026/10/10/phanh-truoc-va-phanh-sau-phoi-hop-the-nao-cho-an-toan/ "Phanh trước và phanh sau phối hợp thế nào").
+Khi xe lớn chuyển làn ngay trước mặt kèm tiếng còi, xem thêm bài [xe tải chiếu đèn chuyển làn ngay trước mặt: phản xạ](/ky-nang/2026/10/05/xe-tai-chieu-den-chuyen-lan-ngay-truoc-mat-phan-xa/ "Xe tải chiếu đèn chuyển làn ngay trước mặt"). Nếu cần phanh gấp sau khi đã nhìn rõ nguy hiểm, cách phối hợp có ở bài [phanh trước và phanh sau: phối hợp thế nào cho an toàn](/ky-nang/2026/10/10/phanh-truoc-va-phanh-sau-phoi-hop-the-nao-cho-an-toan/ "Phanh trước và phanh sau phối hợp thế nào").
 
 ## Sau một lần giật mình
 

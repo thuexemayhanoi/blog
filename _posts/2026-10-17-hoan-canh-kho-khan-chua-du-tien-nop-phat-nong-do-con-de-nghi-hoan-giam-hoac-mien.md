@@ -51,7 +51,7 @@ Thủ tục giống xin hoãn: gửi đơn đề nghị giảm, miễn kèm xác
 
 Điều 79 cho phép nộp tiền phạt nhiều lần khi bị phạt từ 15 triệu đồng trở lên và đang gặp khó khăn đặc biệt về kinh tế, có đơn được Ủy ban nhân dân cấp xã nơi cư trú hoặc cơ quan, tổ chức nơi học tập, làm việc xác nhận. Đây là cơ chế duy nhất dùng điều kiện khó khăn chung, không gắn với thiên tai hay bệnh tật. Thời hạn tối đa 6 tháng, không quá 3 lần, lần đầu nộp tối thiểu 40%. Sau lần nộp đầu, người vi phạm được nhận lại phương tiện bị tạm giữ (Điều 125 khoản 2).
 
-Các mức phạt tiền của một lỗi nồng độ cồn xe máy đều dưới 15 triệu đồng, nên với một lỗi đơn lẻ, cách nộp nhiều lần thường không áp dụng được. Luật không nói rõ trường hợp một quyết định xử phạt nhiều hành vi có cộng tổng để tính ngưỡng này hay không; hãy hỏi trực tiếp người ra quyết định. Mức phạt từng mức có ở bài [mức phạt nồng độ cồn xe máy mới nhất](/an-toan-phap-ly/2026/09/28/muc-phat-nong-o-con-xe-may-moi-nhat/ "Mức phạt nồng độ cồn xe máy mới nhất").
+Các mức phạt tiền của một lỗi nồng độ cồn xe máy đều dưới 15 triệu đồng, nên với một lỗi đơn lẻ, cách nộp nhiều lần thường không áp dụng được. Luật không nói rõ trường hợp một quyết định xử phạt nhiều hành vi có cộng tổng để tính ngưỡng này hay không; hãy hỏi trực tiếp người ra quyết định. Mức phạt từng mức có ở bài [mức phạt nồng độ cồn xe máy mới nhất](/an-toan-phap-ly/2026/09/28/muc-phat-nong-do-con-xe-may-moi-nhat/ "Mức phạt nồng độ cồn xe máy mới nhất").
 
 Theo Nghị định 118/2021/NĐ-CP, Điều 20 khoản 4, thời gian xem xét giảm, miễn hay nộp nhiều lần không tính là thời gian chậm nộp, nên không bị cộng tiền chậm nộp 0,05% mỗi ngày trong lúc chờ.
 

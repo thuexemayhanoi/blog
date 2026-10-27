@@ -63,7 +63,7 @@ Chúng tôi cũng không tìm thấy quy định chính thức về trang phục
 
 ## Chọn ngày đi
 
-Ngày thường vắng, đi buổi sáng là đẹp nhất. Mùa lễ hội, như hội chùa Dâu đầu tháng 4 âm lịch hay hội Bút Tháp cuối tháng 3 âm lịch, đường làng đông và chỗ gửi xe chật. Có thể ghép thêm thành cổ Luy Lâu gần chùa Dâu, như gợi ý ở bài [chùa Dâu và thành cổ Luy Lâu bằng xe máy](/cung-duong/2026/10/13/chua-dau-va-thanh-co-luy-lau-bang-xe-may-tu-ha-noi-mot-buoi-o-thuan-thanh/ "Chùa Dâu và thành cổ Luy Lâu bằng xe máy"), hoặc làm một vòng Bắc Ninh như bài [thuê xe máy một ngày đi Bắc Ninh](/thue-xe/2026/10/11/thue-xe-may-mot-ngay-i-bac-ninh-en-o-chua-but-thap-lang-tranh-ong-ho/ "Thuê xe máy một ngày đi Bắc Ninh").
+Ngày thường vắng, đi buổi sáng là đẹp nhất. Mùa lễ hội, như hội chùa Dâu đầu tháng 4 âm lịch hay hội Bút Tháp cuối tháng 3 âm lịch, đường làng đông và chỗ gửi xe chật. Có thể ghép thêm thành cổ Luy Lâu gần chùa Dâu, như gợi ý ở bài [chùa Dâu và thành cổ Luy Lâu bằng xe máy](/cung-duong/2026/10/13/chua-dau-va-thanh-co-luy-lau-bang-xe-may-tu-ha-noi-mot-buoi-o-thuan-thanh/ "Chùa Dâu và thành cổ Luy Lâu bằng xe máy"), hoặc làm một vòng Bắc Ninh như bài [thuê xe máy một ngày đi Bắc Ninh](/thue-xe/2026/10/11/thue-xe-may-mot-ngay-di-bac-ninh-den-do-chua-but-thap-lang-tranh-dong-ho/ "Thuê xe máy một ngày đi Bắc Ninh").
 
 Yamaha Sirius không có trên bảng giá công bố của Cho Thuê Xe Máy Nguyễn Tú; hãy gọi hoặc nhắn Zalo 0942 467 674 để hỏi cửa hàng có xe, giá và tiền cọc. Trên bảng giá hiện có, Honda Wave và Honda Click có giá ngày 150.000 đồng, Honda Vision và Honda Air Blade có giá ngày 200.000 đồng; tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần.
 

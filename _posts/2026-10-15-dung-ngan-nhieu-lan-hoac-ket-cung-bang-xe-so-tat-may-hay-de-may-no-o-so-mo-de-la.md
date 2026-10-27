@@ -34,7 +34,7 @@ Dựa trên câu chữ trên, bài không khuyên tắt máy khi bạn đang đ�
 3. **Buông ga,** không rồ ga trong lúc chờ.
 4. **Vào số 1 lại khi sắp đi,** bằng một lần đạp dứt khoát, rồi nhả phanh từ từ.
 
-Chờ đèn đỏ ở số mo hay giữ số 1 chờ đèn xanh là chuyện nhiều người cân nhắc; bài [dừng đèn đỏ bằng xe số: về số mo hay giữ số 1 chờ đèn xanh](/xe-may/2026/10/11/dung-en-o-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-en-xanh/) nói kỹ hơn.
+Chờ đèn đỏ ở số mo hay giữ số 1 chờ đèn xanh là chuyện nhiều người cân nhắc; bài [dừng đèn đỏ bằng xe số: về số mo hay giữ số 1 chờ đèn xanh](/xe-may/2026/10/11/dung-den-do-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-den-xanh/) nói kỹ hơn.
 
 ## Dừng ngắn nhiều lần trong ngày: dừng hay đỗ
 

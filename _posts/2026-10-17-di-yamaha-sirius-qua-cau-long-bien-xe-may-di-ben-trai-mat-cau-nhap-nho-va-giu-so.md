@@ -35,7 +35,7 @@ Cầu Long Biên là một trong hai cây cầu ở Việt Nam tổ chức giao 
 
 Theo các thông báo phân luồng của Sở Xây dựng, phía Hà Nội, cầu nối với khu vực Trần Nhật Duật, Hàng Đậu, Yên Phụ và Trần Quang Khải; phía Long Biên, cầu nối với khu dân cư Long Biên 1, Long Biên 2 và đường Long Biên – Xuân Quan. Khi cầu đóng, xe máy được hướng dẫn đi vòng qua cầu Chương Dương.
 
-Hai đầu cầu thường đông vào giờ cao điểm, khoảng 6 tới 9 giờ sáng và 16 tới 19 giờ 30 chiều. Đi sớm như bài [từ Bồ Đề sang phố cổ qua cầu Long Biên lúc sáng sớm](/du-lich/2026/10/04/tu-bo-e-sang-pho-co-qua-cau-long-bien-luc-sang-som/ "Từ Bồ Đề sang phố cổ qua cầu Long Biên") gợi ý sẽ dễ chịu hơn nhiều.
+Hai đầu cầu thường đông vào giờ cao điểm, khoảng 6 tới 9 giờ sáng và 16 tới 19 giờ 30 chiều. Đi sớm như bài [từ Bồ Đề sang phố cổ qua cầu Long Biên lúc sáng sớm](/du-lich/2026/10/04/tu-bo-de-sang-pho-co-qua-cau-long-bien-luc-sang-som/ "Từ Bồ Đề sang phố cổ qua cầu Long Biên") gợi ý sẽ dễ chịu hơn nhiều.
 
 ## Mặt cầu và cách giữ số
 
@@ -47,7 +47,7 @@ Sirius có hộp số 4 cấp kiểu số tròn và ly hợp ly tâm tự độn
 - Nhả ga hẳn trước mỗi lần sang số.
 - Giữ khoảng cách với xe trước, phanh sớm và nhẹ.
 
-Luật Trật tự, an toàn giao thông đường bộ 2024 cấm dừng, đỗ xe trên cầu, nên muốn chụp ảnh hãy gửi xe rồi đi bộ lên. Điều 33 chỉ cho chở một người trừ một số trường hợp, cấm đi dàn hàng ngang, cấm dùng ô và cầm điện thoại khi lái. Cách đổi số với ly hợp tự động có ở bài [quen xe côn tay lần đầu đi Sirius](/xe-may/2026/10/13/quen-xe-con-tay-lan-dau-di-sirius-ly-hop-tu-dong-khac-gi-khi-doi-so/ "Quen xe côn tay lần đầu đi Sirius"), còn ngày mưa xem bài [cầu Long Biên ngày mưa](/du-lich/2026/10/11/cau-long-bien-ngay-mua-mat-cau-tron-uong-ray-va-cach-chay-xe-may/ "Cầu Long Biên ngày mưa").
+Luật Trật tự, an toàn giao thông đường bộ 2024 cấm dừng, đỗ xe trên cầu, nên muốn chụp ảnh hãy gửi xe rồi đi bộ lên. Điều 33 chỉ cho chở một người trừ một số trường hợp, cấm đi dàn hàng ngang, cấm dùng ô và cầm điện thoại khi lái. Cách đổi số với ly hợp tự động có ở bài [quen xe côn tay lần đầu đi Sirius](/xe-may/2026/10/13/quen-xe-con-tay-lan-dau-di-sirius-ly-hop-tu-dong-khac-gi-khi-doi-so/ "Quen xe côn tay lần đầu đi Sirius"), còn ngày mưa xem bài [cầu Long Biên ngày mưa](/du-lich/2026/10/11/cau-long-bien-ngay-mua-mat-cau-tron-duong-ray-va-cach-chay-xe-may/ "Cầu Long Biên ngày mưa").
 
 ## Những lần cầu tạm đóng
 

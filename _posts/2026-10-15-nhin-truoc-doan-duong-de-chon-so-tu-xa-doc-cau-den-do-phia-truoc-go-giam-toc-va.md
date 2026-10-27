@@ -40,7 +40,7 @@ Bài không nêu số cụ thể vì tùy dốc, tùy xe và có chở người 
 
 Thấy đèn đỏ ở xa, nhiều người cứ giữ ga rồi phanh gấp. Cách êm hơn là nhả ga sớm, để xe chậm dần nhờ lực cản của máy, rồi dùng phanh nhẹ khi cần. Khi tốc độ thấp xuống, đạp số xuống từng nấc thay vì để xe chậm ở số cao.
 
-Khi dừng, về số mo nếu biết sẽ chờ lâu, giữ phanh và để máy nổ. Bài [dừng đèn đỏ bằng xe số: về số mo hay giữ số 1 chờ đèn xanh](/xe-may/2026/10/11/dung-en-o-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-en-xanh/) nói kỹ hơn. Nếu đèn chuyển xanh trước khi bạn dừng hẳn, nhờ đã xuống số sớm mà bạn có thể tăng ga nhẹ và đi tiếp êm, thay vì phải vào số 1 từ đầu.
+Khi dừng, về số mo nếu biết sẽ chờ lâu, giữ phanh và để máy nổ. Bài [dừng đèn đỏ bằng xe số: về số mo hay giữ số 1 chờ đèn xanh](/xe-may/2026/10/11/dung-den-do-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-den-xanh/) nói kỹ hơn. Nếu đèn chuyển xanh trước khi bạn dừng hẳn, nhờ đã xuống số sớm mà bạn có thể tăng ga nhẹ và đi tiếp êm, thay vì phải vào số 1 từ đầu.
 
 ## Gờ giảm tốc và chỗ xóc: giữ số vừa phải
 

@@ -53,7 +53,7 @@ Với xe thuê, nếu gương lệch hoặc lỏng thì dừng ở nơi an toàn
 
 Đường quê vắng dạy bạn đi một tốc độ đều vì không có gì buộc phải đổi. Phố thì liên tục buộc đổi. Điều 12 khoản 2 yêu cầu bảo đảm "tốc độ phù hợp điều kiện của cầu, đường, mật độ giao thông, địa hình, thời tiết và các yếu tố ảnh hưởng khác để bảo đảm an toàn". Khoản 3 nêu những nơi phải "quan sát, giảm tốc độ hoặc dừng lại", trong đó có "khu vực đông dân cư, chợ".
 
-Bài không nêu con số tốc độ tối đa vì mức đó nằm ở văn bản hướng dẫn riêng, bạn hãy theo biển báo. Điều dùng được ở mọi nơi là chọn tốc độ để dừng kịp trong đoạn đường nhìn rõ, như bài [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-o-theo-oan-uong-nhin-thay-dung-uoc-trong-tam-mat-khi-i-xe-may/) đã phân tích. Ở phố cổ Hoàn Kiếm hay quanh Cầu Giấy lúc tan tầm, mức đó thường chậm hơn nhiều so với nhịp quen ở quê.
+Bài không nêu con số tốc độ tối đa vì mức đó nằm ở văn bản hướng dẫn riêng, bạn hãy theo biển báo. Điều dùng được ở mọi nơi là chọn tốc độ để dừng kịp trong đoạn đường nhìn rõ, như bài [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-do-theo-doan-duong-nhin-thay-dung-duoc-trong-tam-mat-khi-di-xe-may/) đã phân tích. Ở phố cổ Hoàn Kiếm hay quanh Cầu Giấy lúc tan tầm, mức đó thường chậm hơn nhiều so với nhịp quen ở quê.
 
 Phanh cũng cần làm quen lại. Bố trí phổ biến là tay phải phanh trước, còn phanh sau ở tay trái trên xe tay ga và là bàn đạp chân phải trên xe số. Mỗi xe có thể khác, hãy kiểm lại trên xe và thử nhẹ ở nơi vắng trước.
 
@@ -61,7 +61,7 @@ Phanh cũng cần làm quen lại. Bố trí phổ biến là tay phải phanh t
 
 Ở quê, ngã tư thường chỉ có vài xe nên nhiều người quen cứ đến là qua. Điều 22 yêu cầu: "Khi đến gần đường giao nhau, người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ và nhường đường theo quy định sau đây". Nhường cho ai còn tùy biển báo, đèn và loại đường, bài không kết luận thay từng nút giao. Phần áp dụng cho mọi nút là quan sát và giảm tốc trước.
 
-Trong phố, người đi bộ không chỉ băng ở vạch kẻ mà xuất hiện giữa hai dòng xe chậm. Gặp đèn xanh cũng đừng bốc ga ngay, xem thêm bài [đèn xanh vừa bật vẫn nhìn hai bên](/ky-nang/2026/10/11/en-xanh-vua-bat-van-nhin-hai-ben-thoi-quen-mot-nhip-o-nga-tu-ong-xe/). Thói quen cuối là dừng không báo: trước khi dừng, hãy nhả ga sớm, liếc gương và tấp dần sang phải để xe phía sau kịp hiểu.
+Trong phố, người đi bộ không chỉ băng ở vạch kẻ mà xuất hiện giữa hai dòng xe chậm. Gặp đèn xanh cũng đừng bốc ga ngay, xem thêm bài [đèn xanh vừa bật vẫn nhìn hai bên](/ky-nang/2026/10/11/den-xanh-vua-bat-van-nhin-hai-ben-thoi-quen-mot-nhip-o-nga-tu-dong-xe/). Thói quen cuối là dừng không báo: trước khi dừng, hãy nhả ga sớm, liếc gương và tấp dần sang phải để xe phía sau kịp hiểu.
 
 ## Mũ, giấy tờ và xe thuê khi mới lên Hà Nội
 
