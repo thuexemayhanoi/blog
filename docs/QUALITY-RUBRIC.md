@@ -45,7 +45,8 @@ Bất kể điểm QUALITY/SEO, một bài QA dính các lỗi dưới đây là
 3. Trùng slug/canonical/expected_url/output_path với hàng active khác (`duplicate_slug`).
 4. Intent gần trùng nguyên câu với hàng active khác (`intent_unique`, ngưỡng SequenceMatcher 0.97 — corpus long-tail hợp lệ có cặp 0.90–0.963 nên floor thấp hơn sẽ cầm nhầm bài thật).
 5. Frontmatter/HTML hỏng khiến trang không render (cấu trúc draft, permalink/canonical).
-6. Sai giá/số liệu/SDT/policy kinh doanh đã xác minh, claim cấm (`business_fact`).
+6. Sai giá/số liệu/SDT/policy kinh doanh đã xác minh, claim cấm (`business_fact`). Số tiền ngoài bảng giá chỉ hợp lệ khi là
+   mức phạt đã đối chiếu văn bản (`verified_legal_amounts`) nằm trong câu nói về mức phạt của bài có trích đúng văn bản.
 7. Internal link trỏ route không tồn tại làm hỏng build/deploy (`links_routes_valid`).
 
 Mọi lỗi SEO nhẹ khác KHÔNG chặn publish trong production loop; full-site audit chỉ chạy theo chế độ DEEP/FULL thủ công, không quét lại bài đã PUBLISHED trong chu kỳ sản xuất.

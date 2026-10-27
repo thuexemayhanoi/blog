@@ -29,6 +29,23 @@
     "separate_from_rental": "Tiền đặt cọc là khoản riêng, không cộng vào giá thuê.",
     "no_deposit_claims": "Không quảng cáo mặc định là cho thuê xe không cần đặt cọc."
   },
+  "verified_legal_amounts": [
+    {
+      "id": "nd168-d7-k2-mu-bao-hiem",
+      "citation": "168/2024/NĐ-CP",
+      "document": "Nghị định 168/2024/NĐ-CP (hiệu lực 01/01/2025)",
+      "provision": "Điều 7 khoản 2 điểm h, i",
+      "subject": "Người điều khiển xe mô tô, xe gắn máy không đội mũ bảo hiểm hoặc chở người ngồi sau không đội mũ bảo hiểm",
+      "amounts": [400000, 600000],
+      "amended_check": "Nghị định 238/2026/NĐ-CP (ban hành 26/06/2026, hiệu lực 15/08/2026) sửa Điều 3, 6, 13, 14, 17, 18, 20, 21, 26, 29, 32, 41–44, 46, 50 — không sửa Điều 7; mức 400.000–600.000 đồng còn hiệu lực",
+      "verified_at": "2026-10-27",
+      "sources": [
+        "https://vanban.chinhphu.vn/?pageid=27160&docid=218613",
+        "https://vov.gov.vn/di-xe-may-khong-doi-mu-bao-hiem-bi-phat-bao-nhieu-mobiledtnew-1057584",
+        "https://lamson.thanhhoa.gov.vn/chinh-sach-phap-luat/loat-muc-phat-giao-thong-moi-ap-dung-tu-ngay-15-8-781050"
+      ]
+    }
+  ],
   "delivery": {
     "statement": "Không giao xe máy ngoài giờ hoạt động. Thời gian và chi phí giao nhận cần được xác nhận trước khi đặt xe.",
     "fixed_fees": null
