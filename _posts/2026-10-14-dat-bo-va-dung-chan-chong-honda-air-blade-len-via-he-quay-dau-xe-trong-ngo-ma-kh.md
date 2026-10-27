@@ -58,7 +58,7 @@ Ngõ trọ ở Đống Đa, Thanh Xuân hay ngõ nhỏ trong phố cổ nhiều 
 2. **Nhịp lùi:** bóp phanh dừng, đánh lái ngược về phía còn lại, rồi kéo xe lùi lại một đoạn ngắn. Khi lùi, tay trái kéo tay lái về sau, hông áp vào yên để đẩy xe theo.
 3. **Lặp lại:** mỗi nhịp tiến và lùi, đầu xe xoay thêm một chút. Thường ba đến bốn nhịp là xe đã quay ngược lại.
 
-Mỗi nhịp chỉ đi một đoạn ngắn, dừng hẳn rồi mới đổi hướng. Không buông phanh trái cho tới khi đã đánh lái xong. Nếu ngõ quá hẹp, cách làm nhẹ nhất có khi là dắt xe lùi thẳng ra đầu ngõ rồi mới quay ở chỗ rộng. Tình huống ngõ cực hẹp, xe điện nặng tay đã được nói trong bài [dắt xe và quay đầu xe máy điện nặng trong ngõ hẹp](/xe-may/2026/10/11/xe-may-ien-nang-dat-xe-quay-au-va-dung-chan-chong-trong-ngo-hep/), còn nếu bạn đang chọn xe cho chỗ ở trong ngõ, tham khảo [chọn xe máy nào dễ dắt và quay đầu khi ở ngõ nhỏ Hà Nội](/xe-may/2026/10/14/o-trong-ngo-nho-ha-noi-chon-xe-may-nao-de-dat-va-quay-dau/).
+Mỗi nhịp chỉ đi một đoạn ngắn, dừng hẳn rồi mới đổi hướng. Không buông phanh trái cho tới khi đã đánh lái xong. Nếu ngõ quá hẹp, cách làm nhẹ nhất có khi là dắt xe lùi thẳng ra đầu ngõ rồi mới quay ở chỗ rộng. Tình huống ngõ cực hẹp, xe điện nặng tay đã được nói trong bài [dắt xe và quay đầu xe máy điện nặng trong ngõ hẹp](/xe-may/2026/10/11/xe-may-dien-nang-dat-xe-quay-dau-va-dung-chan-chong-trong-ngo-hep/), còn nếu bạn đang chọn xe cho chỗ ở trong ngõ, tham khảo [chọn xe máy nào dễ dắt và quay đầu khi ở ngõ nhỏ Hà Nội](/xe-may/2026/10/14/o-trong-ngo-nho-ha-noi-chon-xe-may-nao-de-dat-va-quay-dau/).
 
 ## Dựng chân chống Air Blade: chân chống giữa không cần sức tay
 
@@ -76,7 +76,7 @@ Khi hạ chân chống giữa, đứng bên trái, tay trái giữ tay lái, bó
 
 ## Tập ở đâu và khi nào nên nhờ người
 
-Khi nhận xe ở tiệm trên đường Nguyễn Văn Cừ, Long Biên, hãy dành vài phút tập dắt, dựng và hạ chân chống ngay trên nền phẳng trước cửa, nhờ người giao xe đứng cạnh chỉnh tư thế. Nếu bạn thấp và còn băn khoăn chuyện chân chạm đất, đọc thêm [Air Blade cho người thấp](/xe-may/2026/10/11/honda-air-blade-cho-nguoi-thap-kiem-tra-yen-chan-cham-at-va-cach-dung-xe/) trước khi chốt xe.
+Khi nhận xe ở tiệm trên đường Nguyễn Văn Cừ, Long Biên, hãy dành vài phút tập dắt, dựng và hạ chân chống ngay trên nền phẳng trước cửa, nhờ người giao xe đứng cạnh chỉnh tư thế. Nếu bạn thấp và còn băn khoăn chuyện chân chạm đất, đọc thêm [Air Blade cho người thấp](/xe-may/2026/10/11/honda-air-blade-cho-nguoi-thap-kiem-tra-yen-chan-cham-dat-va-cach-dung-xe/) trước khi chốt xe.
 
 Vỉa hè quá cao, nền dốc ướt sau mưa hay cốp đầy đồ nặng thì cứ nhờ người giữ phía sau một tay.
 

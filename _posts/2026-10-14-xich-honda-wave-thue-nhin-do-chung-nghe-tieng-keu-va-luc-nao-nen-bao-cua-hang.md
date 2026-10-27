@@ -21,7 +21,7 @@ Thuê Honda Wave đi dài ngày, nhiều người chỉ để ý xăng và lốp
 
 Trên hầu hết các đời Wave đang chạy ở Hà Nội, sợi xích được che bởi một vỏ nhựa hoặc kim loại chạy dọc từ nhông trước tới nhông sau. Tùy đời xe và bản xe, vỏ này che kín phần trên hoặc che gần như cả sợi xích. Thiết kế đó giúp xích ít dính bùn đất, nhưng người thuê khó tự quan sát.
 
-Nếu chưa rõ chiếc mình nhận là bản nào, bài [phân biệt Wave Alpha và Wave RSX qua phanh và vành](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-ang-thue-qua-phanh-va-vanh/) giúp bạn đọc xe trong vài phút. Với chuyện xích, chỉ cần nhớ: phần bạn thấy được thường là đoạn xích phía dưới, gần nhông sau, nhìn từ bên trái và hơi cúi thấp. Đừng tháo vỏ che để xem cho rõ. Lắp lại không khéo, vỏ dễ cấn vào xích và sinh thêm tiếng kêu.
+Nếu chưa rõ chiếc mình nhận là bản nào, bài [phân biệt Wave Alpha và Wave RSX qua phanh và vành](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-dang-thue-qua-phanh-va-vanh/) giúp bạn đọc xe trong vài phút. Với chuyện xích, chỉ cần nhớ: phần bạn thấy được thường là đoạn xích phía dưới, gần nhông sau, nhìn từ bên trái và hơi cúi thấp. Đừng tháo vỏ che để xem cho rõ. Lắp lại không khéo, vỏ dễ cấn vào xích và sinh thêm tiếng kêu.
 
 ## Nhìn xích lúc nhận xe: những gì soi được qua khe hở
 
@@ -57,7 +57,7 @@ Với xe thuê, bạn không nên tự làm, vì vài lý do:
 - **Phanh sau của Wave là phanh cơ.** Khi bánh sau dịch chuyển, độ ăn của phanh chân cũng thay đổi. Chỉnh xích xong mà quên chỉnh lại phanh là một nguy cơ thật.
 - **Đây là xe của cửa hàng.** Mọi can thiệp vào bộ truyền động nên do người của cửa hàng hoặc tiệm sửa mà cửa hàng đồng ý thực hiện, để hai bên rõ ràng khi trả xe.
 
-Việc của bạn là quan sát, ghi lại và báo. Chuyện bôi trơn và chỉnh xích nói chung, cùng các loại tiếng kêu khác của xích xe số, đã có trong bài [tiếng kêu ở xích xe số thuê và khi nào cần chỉnh, bôi trơn](/xe-may/2026/10/11/tieng-keu-o-xich-xe-so-thue-chinh-va-boi-tron-ung-luc/).
+Việc của bạn là quan sát, ghi lại và báo. Chuyện bôi trơn và chỉnh xích nói chung, cùng các loại tiếng kêu khác của xích xe số, đã có trong bài [tiếng kêu ở xích xe số thuê và khi nào cần chỉnh, bôi trơn](/xe-may/2026/10/11/tieng-keu-o-xich-xe-so-thue-chinh-va-boi-tron-dung-luc/).
 
 ## Lúc nào nên báo cửa hàng, lúc nào phải dừng ngay
 
@@ -74,7 +74,7 @@ Mọi dấu hiệu chùng xích đều nên báo sớm, chia làm hai mức:
 - Giật mạnh tới mức xe chồm lên khi vào số.
 - Nghe tiếng xích va mạnh vào vỏ che, hoặc thấy xích tuột khỏi nhông.
 
-Trường hợp xích tuột hẳn thì cách chọn chỗ dừng và giữ an toàn đã có trong bài [xe máy bị tuột xích giữa đường](/xe-may/2026/10/05/xe-may-bi-tuot-xich-giua-uong-chon-cho-dung-an-toan/).
+Trường hợp xích tuột hẳn thì cách chọn chỗ dừng và giữ an toàn đã có trong bài [xe máy bị tuột xích giữa đường](/xe-may/2026/10/05/xe-may-bi-tuot-xich-giua-duong-chon-cho-dung-an-toan/).
 
 Khi báo, hãy mô tả cụ thể: tiếng kêu ở bên nào, xuất hiện khi đi chậm hay khi lên ga, có nặng dần không. Quay một đoạn video ngắn có tiếng xe lúc chạy chậm giúp người của cửa hàng đoán đúng hơn nhiều so với một câu "xe kêu". Nếu đang đi xa, ví dụ đã qua Đông Anh hoặc đang trên đường về từ Sóc Sơn, hỏi cửa hàng nên ghé tiệm sửa nào gần đó và chi phí xử lý ai chịu. Hãy thống nhất trước khi để thợ làm và giữ lại hóa đơn.
 

@@ -72,7 +72,7 @@ Hãy gọi cửa hàng theo số **0942 467 674** khi:
 - Xe tắt máy đi kèm đèn đồng hồ tắt hết.
 - Bạn không chắc mình làm đúng, hoặc chỗ đứng không an toàn để thử thêm.
 
-Khi gọi, nói rõ bạn đang ở ngã tư nào, gần số nhà hay biển hiệu gì, kim xăng đang ở đâu và bạn đã thử những gì. Gửi định vị qua Zalo giúp cửa hàng tìm bạn nhanh hơn. Đừng tự tháo bugi, rút dây điện hay nhờ thợ lạ sửa xe thuê khi chưa hỏi; chi phí và cách hỗ trợ cần được xác nhận trực tiếp với cửa hàng, trong giờ mở cửa từ 09:00 đến 21:00. Chuyện nên tự xử hay gọi ngay được phân tích thêm ở bài [xe thuê chết máy giữa đường gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-uong-goi-ai/).
+Khi gọi, nói rõ bạn đang ở ngã tư nào, gần số nhà hay biển hiệu gì, kim xăng đang ở đâu và bạn đã thử những gì. Gửi định vị qua Zalo giúp cửa hàng tìm bạn nhanh hơn. Đừng tự tháo bugi, rút dây điện hay nhờ thợ lạ sửa xe thuê khi chưa hỏi; chi phí và cách hỗ trợ cần được xác nhận trực tiếp với cửa hàng, trong giờ mở cửa từ 09:00 đến 21:00. Chuyện nên tự xử hay gọi ngay được phân tích thêm ở bài [xe thuê chết máy giữa đường gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-duong-goi-ai/).
 
 ## Để Wave ít chết máy ở ngã tư
 

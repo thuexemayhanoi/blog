@@ -26,7 +26,7 @@ writer_session: s-claude-w2
 - **Khúc cua nhiều và khuất tầm nhìn.** Đê uốn theo dòng sông, nhà cửa và cây cối hai bên che mất xe ngược chiều.
 - **Xe tải, xe ben xen lẫn xe máy.** Nhất là ở các đoạn ra ngoại thành.
 
-Nếu muốn biết đoạn nào hợp để đi chơi, bài [đường đê sông Hồng chạy xe ngoại thành](/du-lich/2026/09/28/uong-e-song-hong-chay-xe-ngoai-thanh/) có phần chọn đoạn lên đê và điểm dừng.
+Nếu muốn biết đoạn nào hợp để đi chơi, bài [đường đê sông Hồng chạy xe ngoại thành](/du-lich/2026/09/28/duong-de-song-hong-chay-xe-ngoai-thanh/) có phần chọn đoạn lên đê và điểm dừng.
 
 ## Đi xe ga trên đường đê sông Hồng: giữ làn sát phải nhưng không sát mép
 
@@ -49,7 +49,7 @@ Xe tải trên đê thường không đi nhanh, nhưng chúng chiếm gần tr�
 
 **Khi xe tải đi phía sau:** đi đều, giữ bên phải, để tài xế có đủ chỗ vượt. Đừng bất ngờ dạt sang trái để tránh ổ gà; liếc gương trước khi đổi hướng.
 
-**Khi xe tải đi phía trước:** giữ khoảng cách đủ để nhìn thấy gương chiếu hậu của xe tải. Nếu bạn không thấy gương, tài xế cũng không thấy bạn. Tránh đi lâu ở góc ngay cạnh thùng xe. Cách giữ khoảng cách trên đường hẹp được nói kỹ trong bài [gặp xe container trên đường hẹp](/ky-nang/2026/10/10/gap-xe-container-tren-uong-hep-giu-khoang-cach/).
+**Khi xe tải đi phía trước:** giữ khoảng cách đủ để nhìn thấy gương chiếu hậu của xe tải. Nếu bạn không thấy gương, tài xế cũng không thấy bạn. Tránh đi lâu ở góc ngay cạnh thùng xe. Cách giữ khoảng cách trên đường hẹp được nói kỹ trong bài [gặp xe container trên đường hẹp](/ky-nang/2026/10/10/gap-xe-container-tren-duong-hep-giu-khoang-cach/).
 
 ## Không vượt ở khúc cua đê
 
@@ -69,7 +69,7 @@ Mặt đê cao, hai bên trống, nên gió sông thổi ngang mạnh hơn hẳn
 - Giảm tốc khi đi qua đoạn trống không có nhà, hay ở đầu cầu nơi gió đột ngột mạnh hơn.
 - Không treo túi lớn ở móc phía trước hay chở đồ cồng kềnh; chúng bắt gió như cánh buồm.
 
-Nếu gió lớn kèm mưa, đừng cố đi tiếp trên đê. Hãy xuống một lối rẽ vào khu dân cư, tìm chỗ trú an toàn. Bài [chạy xe máy khi gió mạnh ở Hà Nội](/ky-nang/2026/10/10/chay-xe-may-khi-gio-manh-o-ha-noi-can-e-y-gi/) có thêm các tình huống gió lớn trong phố.
+Nếu gió lớn kèm mưa, đừng cố đi tiếp trên đê. Hãy xuống một lối rẽ vào khu dân cư, tìm chỗ trú an toàn. Bài [chạy xe máy khi gió mạnh ở Hà Nội](/ky-nang/2026/10/10/chay-xe-may-khi-gio-manh-o-ha-noi-can-de-y-gi/) có thêm các tình huống gió lớn trong phố.
 
 ## Lên xuống dốc đê
 

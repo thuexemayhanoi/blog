@@ -39,7 +39,7 @@ Thấy vết nào, chỉ cho nhân viên tiệm cùng xem và chụp cận cản
 
 ### Lốp trước và lốp sau
 
-Air Blade dùng lốp không săm, nên một chiếc đinh nhỏ có thể cắm trong lốp mà xe vẫn chạy được một thời gian. Ngồi xuống, xoay chậm từng bánh và nhìn mặt lốp: có đinh, vết rách, chỗ phồng ở hông lốp không, rãnh gai còn rõ không. Bóp thử bằng tay để cảm nhận lốp có non hơn bình thường không. Cách đọc độ mòn và vết nứt được viết chi tiết trong bài [kiểm tra lốp xe máy thuê khi nhận xe](/thue-xe/2026/10/12/kiem-tra-lop-xe-may-thue-khi-nhan-xe-mon-nut-va-o-cang/).
+Air Blade dùng lốp không săm, nên một chiếc đinh nhỏ có thể cắm trong lốp mà xe vẫn chạy được một thời gian. Ngồi xuống, xoay chậm từng bánh và nhìn mặt lốp: có đinh, vết rách, chỗ phồng ở hông lốp không, rãnh gai còn rõ không. Bóp thử bằng tay để cảm nhận lốp có non hơn bình thường không. Cách đọc độ mòn và vết nứt được viết chi tiết trong bài [kiểm tra lốp xe máy thuê khi nhận xe](/thue-xe/2026/10/12/kiem-tra-lop-xe-may-thue-khi-nhan-xe-mon-nut-va-do-cang/).
 
 ### Đèn và còi
 
@@ -89,6 +89,6 @@ Trước khi rời tiệm, hỏi thêm giờ trả xe và cách liên hệ khi x
 
 ## Lúc trả xe: dùng lại đúng bộ ảnh
 
-Khi trả, đỗ xe ở chỗ sáng, mở lại bộ ảnh và video lúc nhận, rồi cùng nhân viên đi lại đúng vòng cũ. Vết nào đã có trong ảnh nhận xe thì đối chiếu là xong; vết mới phát sinh thì nói rõ và trao đổi thẳng thắn. Quy trình trả xe đầy đủ có trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/).
+Khi trả, đỗ xe ở chỗ sáng, mở lại bộ ảnh và video lúc nhận, rồi cùng nhân viên đi lại đúng vòng cũ. Vết nào đã có trong ảnh nhận xe thì đối chiếu là xong; vết mới phát sinh thì nói rõ và trao đổi thẳng thắn. Quy trình trả xe đầy đủ có trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/).
 
 Tóm lại, nhận một chiếc Air Blade thuê chỉ mất thêm mười phút nếu đi đủ ba vòng: dàn áo, lốp đèn gương, rồi khóa, odo và xăng, cộng một bộ ảnh và video có biển số. Thông tin chung về dòng xe có ở trang [Honda Air Blade](/xe-may/honda-air-blade/), các dòng xe khác nằm trong mục [xe máy](/xe-may/).

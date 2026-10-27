@@ -81,7 +81,7 @@ Chiếc Vision là tài sản của tiệm, nên trước khi vá, thay van hay 
 - Bánh nào bị, ảnh chụp lốp và dị vật nếu thấy, ảnh vành nếu nghi bị móp.
 - Biển số xe và tình trạng hiện tại: đã dắt vào lề, đang ở điểm vá hay chưa tìm được chỗ.
 
-Tiệm có thể bảo bạn vá luôn, hoặc dặn để nguyên cho tiệm xử lý, tùy loại hỏng và quãng cách. Chi phí vá, thay và ai chịu phần nào cần xác nhận với tiệm trước khi thợ bắt tay vào làm; nếu được đồng ý vá tại chỗ, giữ lại biên nhận hoặc ảnh chụp để đối chiếu lúc trả xe. Câu hỏi ai trả tiền vá được bàn riêng trong bài [xe thuê bị thủng lốp giữa đường ai chịu phí vá](/thue-xe/2026/10/05/xe-thue-bi-thung-lop-giua-uong-ai-chiu-phi-va/).
+Tiệm có thể bảo bạn vá luôn, hoặc dặn để nguyên cho tiệm xử lý, tùy loại hỏng và quãng cách. Chi phí vá, thay và ai chịu phần nào cần xác nhận với tiệm trước khi thợ bắt tay vào làm; nếu được đồng ý vá tại chỗ, giữ lại biên nhận hoặc ảnh chụp để đối chiếu lúc trả xe. Câu hỏi ai trả tiền vá được bàn riêng trong bài [xe thuê bị thủng lốp giữa đường ai chịu phí vá](/thue-xe/2026/10/05/xe-thue-bi-thung-lop-giua-duong-ai-chiu-phi-va/).
 
 Tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00. Nếu sự cố xảy ra ngoài khung giờ đó, cứ nhắn đủ thông tin, ưu tiên đưa xe tới chỗ an toàn và giữ ảnh, sáng hôm sau trao đổi tiếp.
 

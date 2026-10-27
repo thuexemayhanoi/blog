@@ -70,6 +70,6 @@ Lần đầu nhận chiếc Vision thuê ở cửa hàng tại Long Biên, bạn
 
 Muốn hạ xe xuống, đứng vẫn bên trái, tay trái giữ tay lái, đẩy nhẹ xe về trước cho chân chống tự gập lên, và bóp phanh nhẹ ngay khi bánh xe chạm đất để xe không lao đi.
 
-Nếu bạn muốn xem cách dựng chân chống giữa áp dụng cho các loại xe khác nói chung, bài [dựng chân chống giữa xe máy cho người nhỏ con](/ky-nang/2026/10/11/dung-chan-chong-giua-xe-may-cach-lam-cho-nguoi-nho-con-khong-can-gong-suc/) có thêm ví dụ, còn chuyện chỉnh tư thế ngồi trên Vision cho người thấp được nói trong bài [Honda Vision với người thấp chiều](/xe-may/2026/10/11/honda-vision-voi-nguoi-thap-chieu-ke-yen-va-tu-the-at-chan/).
+Nếu bạn muốn xem cách dựng chân chống giữa áp dụng cho các loại xe khác nói chung, bài [dựng chân chống giữa xe máy cho người nhỏ con](/ky-nang/2026/10/11/dung-chan-chong-giua-xe-may-cach-lam-cho-nguoi-nho-con-khong-can-gong-suc/) có thêm ví dụ, còn chuyện chỉnh tư thế ngồi trên Vision cho người thấp được nói trong bài [Honda Vision với người thấp chiều](/xe-may/2026/10/11/honda-vision-voi-nguoi-thap-chieu-ke-yen-va-tu-the-dat-chan/).
 
 Tóm lại, dựng chân chống giữa trên Vision là chuyện kỹ thuật chứ không phải sức: đứng sát bên trái, chân phải lên mấu, tay trái giữ ghi đông, tay phải nắm quai sau, dồn trọng lượng xuống chân và kéo lùi nhẹ. Tìm hiểu thêm về chiếc xe ở trang [Honda Vision](/xe-may/honda-vision/) và các dòng xe khác trong chuyên mục [xe máy](/xe-may/).

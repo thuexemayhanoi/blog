@@ -25,7 +25,7 @@ Nút đề cần ắc quy đủ khỏe để quay máy. Cần đạp thì không
 - **Bấm đề không có tiếng gì, nhưng đèn vẫn sáng.** Có thể bộ đề hoặc mạch đề có vấn đề, máy vẫn khỏe.
 - **Đề quay máy yếu ớt, chậm dần mà không nổ.** Bình gần cạn, bấm thêm chỉ làm cạn nhanh hơn.
 
-Nếu bấm đề vẫn quay khỏe mà không nổ, đạp cũng khó cứu hơn, vì vấn đề có thể nằm ở xăng hoặc bugi chứ không phải ở ắc quy. Lúc đó đọc thêm bài [khởi động và khắc phục máy Honda Wave mùa lạnh](/xe-may/2026/09/27/khoi-ong-va-khac-phuc-may-honda-wave-mua-lanh/) để kiểm các bước khác. Còn về dấu hiệu bình yếu và cách xử lý dài hơi, có bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/).
+Nếu bấm đề vẫn quay khỏe mà không nổ, đạp cũng khó cứu hơn, vì vấn đề có thể nằm ở xăng hoặc bugi chứ không phải ở ắc quy. Lúc đó đọc thêm bài [khởi động và khắc phục máy Honda Wave mùa lạnh](/xe-may/2026/09/27/khoi-dong-va-khac-phuc-may-honda-wave-mua-lanh/) để kiểm các bước khác. Còn về dấu hiệu bình yếu và cách xử lý dài hơi, có bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/).
 
 ## Tìm và gạt cần đạp ra trên Wave
 
@@ -59,7 +59,7 @@ Cách kiểm chắc chắn:
 
 Thường chỉ một vài cú là máy nổ. Khi máy đã nổ, giữ ga nhỏ vài giây cho máy đều, rồi gập cần đạp sát thân xe như cũ. Cần quên chưa gập dễ vướng chân và móc vào xe bên cạnh khi chen trong phố.
 
-Muốn xem cách làm với xe số nói chung, có bài [cách đạp cần khởi động xe số thuê cho người chưa quen](/thue-xe/2026/10/13/e-ien-khong-an-cach-ap-can-khoi-ong-xe-so-thue-cho-nguoi-chua-quen/), còn với xe nhỏ vào sáng lạnh thì xem bài [xe 50cc khó nổ buổi sáng mùa đông](/xe-may/2026/10/14/xe-50cc-kho-no-buoi-sang-mua-dong-de-dap-can-khoi-dong-va-de-may-am-truoc-khi-ch/).
+Muốn xem cách làm với xe số nói chung, có bài [cách đạp cần khởi động xe số thuê cho người chưa quen](/thue-xe/2026/10/13/de-dien-khong-an-cach-dap-can-khoi-dong-xe-so-thue-cho-nguoi-chua-quen/), còn với xe nhỏ vào sáng lạnh thì xem bài [xe 50cc khó nổ buổi sáng mùa đông](/xe-may/2026/10/14/xe-50cc-kho-no-buoi-sang-mua-dong-de-dap-can-khoi-dong-va-de-may-am-truoc-khi-ch/).
 
 ## Khi nào dừng lại và báo cửa hàng
 

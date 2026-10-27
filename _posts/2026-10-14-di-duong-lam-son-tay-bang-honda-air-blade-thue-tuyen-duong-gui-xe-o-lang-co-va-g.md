@@ -28,7 +28,7 @@ Air Blade là xe ga máy khỏe, tăng tốc nhanh, ngồi chắc ở tốc đ�
 - **Hỏi rõ cách mở cốp và khóa xe.** Một số đời Air Blade dùng Smartkey, cách bật tắt và khóa cổ khác chìa thường. Hỏi tiệm hướng dẫn tận tay, đừng đợi tới bãi gửi xe mới loay hoay.
 - **Đổ đầy bình trước khi rời nội thành.** Nhìn đồng hồ xăng lúc nhận xe, cây xăng dọc đường thì nhiều nhưng đổ đầy từ đầu đỡ phải canh.
 
-Cốp xe để vừa áo mưa, chai nước và vài món nhỏ. Danh sách nên mang và nên để lại có trong bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-uoc-gi-va-o-nao-nen-e-cho-khac/).
+Cốp xe để vừa áo mưa, chai nước và vài món nhỏ. Danh sách nên mang và nên để lại có trong bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-duoc-gi-va-do-nao-nen-de-cho-khac/).
 
 ## Tuyến quốc lộ 32: qua Nhổn, Phùng rồi vào Sơn Tây
 
@@ -57,7 +57,7 @@ Cách làm hợp lý:
 - **Gửi xe ở bãi có người trông gần cổng làng.** Nhận vé, cất vào ví, chụp ảnh vé cùng biển số xe để phòng mất. Giá gửi xe và vé tham quan, nếu có, theo niêm yết tại chỗ, bạn hỏi trực tiếp người trông.
 - **Khóa cổ, rút chìa hoặc tắt hẳn Smartkey.** Không để điện thoại, ví, máy ảnh trong cốp suốt mấy tiếng đi bộ.
 
-Sau đó đi bộ trong làng: nhà cổ, đình Mông Phụ, giếng làng, những bức tường đá ong. Ai muốn biết thêm các mốc dừng và cách dạo ngõ có thể đọc bài [làng cổ Đường Lâm bằng xe máy từ Hà Nội](/cung-duong/2026/10/04/lang-co-uong-lam-bang-xe-may-tu-ha-noi-cung-uong-va-gui-xe/).
+Sau đó đi bộ trong làng: nhà cổ, đình Mông Phụ, giếng làng, những bức tường đá ong. Ai muốn biết thêm các mốc dừng và cách dạo ngõ có thể đọc bài [làng cổ Đường Lâm bằng xe máy từ Hà Nội](/cung-duong/2026/10/04/lang-co-duong-lam-bang-xe-may-tu-ha-noi-cung-duong-va-gui-xe/).
 
 ## Giờ nên về: rời Sơn Tây khi trời còn sáng
 

@@ -59,7 +59,7 @@ Khóa đĩa kẹp vào đĩa phanh khiến bánh xe không lăn được, kẻ g
 - Buộc một sợi dây màu từ khóa lên tay lái để nhắc mình tháo trước khi đi. Quên tháo rồi dắt xe đi là cách nhanh nhất làm hỏng đĩa phanh và ngã xe.
 - Cất khóa đĩa trong cốp khi đang chạy, không treo ở móc trước.
 
-Cách dùng chi tiết có trong bài [khóa đĩa phanh cho xe máy](/ky-nang/2026/10/11/khoa-ia-phanh-cho-xe-may-cach-dung-va-nho-thao-truoc-khi-len-xe/). Nếu tiệm không giao khóa đĩa, đừng tự mua loại lạ rồi lắp thử lên xe thuê mà chưa hỏi tiệm.
+Cách dùng chi tiết có trong bài [khóa đĩa phanh cho xe máy](/ky-nang/2026/10/11/khoa-dia-phanh-cho-xe-may-cach-dung-va-nho-thao-truoc-khi-len-xe/). Nếu tiệm không giao khóa đĩa, đừng tự mua loại lạ rồi lắp thử lên xe thuê mà chưa hỏi tiệm.
 
 ## Chọn chỗ đỗ ngoài phố Hà Nội
 
@@ -79,7 +79,7 @@ Khi gửi ở điểm trông giữ, chụp một tấm ảnh xe cùng biển s�
 
 ## Cốp để trống, đồ mang theo người
 
-Cốp Air Blade đủ rộng để chứa nhiều thứ, nhưng khi đỗ ngoài phố, coi như cốp chỉ để mũ bảo hiểm và áo mưa. Ví, điện thoại, máy ảnh, hộ chiếu, giấy tờ tùy thân luôn đi theo người. Giấy tờ xe thì làm theo hướng dẫn của tiệm, hỏi rõ trực tiếp nên mang bản nào theo. Đừng treo túi đồ ở móc trước xe rồi rời đi. Những gì nên và không nên để trong cốp được nói kỹ ở bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-uoc-gi-va-o-nao-nen-e-cho-khac/).
+Cốp Air Blade đủ rộng để chứa nhiều thứ, nhưng khi đỗ ngoài phố, coi như cốp chỉ để mũ bảo hiểm và áo mưa. Ví, điện thoại, máy ảnh, hộ chiếu, giấy tờ tùy thân luôn đi theo người. Giấy tờ xe thì làm theo hướng dẫn của tiệm, hỏi rõ trực tiếp nên mang bản nào theo. Đừng treo túi đồ ở móc trước xe rồi rời đi. Những gì nên và không nên để trong cốp được nói kỹ ở bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-duoc-gi-va-do-nao-nen-de-cho-khac/).
 
 Nếu để xe qua đêm ở chỗ ở, hãy xem thêm bài [để Honda Vision qua đêm ở homestay phố cổ](/xe-may/2026/10/14/de-honda-vision-qua-dem-o-homestay-pho-co-khoa-co-khoa-dia-va-chon-cho-de-xe-an/), nhiều bước áp dụng được cho Air Blade.
 

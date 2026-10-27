@@ -17,7 +17,7 @@ writer_session: s-claude-w2
 
 Chiếc Air Blade không nổ máy đúng lúc bạn đang vội: vừa mua xong đồ ở chợ Long Biên, hay vừa dắt xe ra khỏi hầm gửi một tòa nhà ở Cầu Giấy, bấm nút đề mà xe im re hoặc chỉ quay ro ro rồi thôi. Với Air Blade, nguyên nhân thường nằm ở một chi tiết rất riêng của dòng xe này: nhiều đời Air Blade dùng khóa thông minh Smartkey, nên ngoài phanh, chân chống và xăng, bạn còn phải để ý tới chiếc remote và núm xoay. Bài này đi theo đúng thứ tự thao tác trên một chiếc Air Blade, từ tay cầm remote tới bình xăng, để bạn tự loại trừ những lỗi đơn giản trước khi gọi tiệm.
 
-Nếu bạn đang thuê Vision chứ không phải Air Blade, bài [Honda Vision không nổ máy: các bước tự kiểm](/xe-may/2026/10/14/honda-vision-khong-no-may-cac-buoc-tu-kiem-truoc-khi-goi-tiem-cuu-ho/) sẽ sát hơn. Còn danh sách chung cho mọi loại xe có ở bài [xe máy thuê không đề được](/thue-xe/2026/10/12/xe-may-thue-khong-e-uoc-cac-ieu-tu-kiem-tra-truoc-khi-goi-chu-xe/).
+Nếu bạn đang thuê Vision chứ không phải Air Blade, bài [Honda Vision không nổ máy: các bước tự kiểm](/xe-may/2026/10/14/honda-vision-khong-no-may-cac-buoc-tu-kiem-truoc-khi-goi-tiem-cuu-ho/) sẽ sát hơn. Còn danh sách chung cho mọi loại xe có ở bài [xe máy thuê không đề được](/thue-xe/2026/10/12/xe-may-thue-khong-de-duoc-cac-dieu-tu-kiem-tra-truoc-khi-goi-chu-xe/).
 
 ## Trước khi kiểm: dựng xe ở chỗ an toàn
 
@@ -51,7 +51,7 @@ Khi đồng hồ đã sáng mà bấm đề vẫn im, hãy kiểm tra ba công t
 - **Gạt chân chống bên lên.** Nhiều đời xe tay ga có công tắc ở chân chống bên: chân chống còn hạ thì xe không cho đề, hoặc nổ rồi tắt ngay. Dựng xe bằng chân chống giữa, hoặc ngồi lên xe giữ thăng bằng, gạt hẳn chân chống bên lên rồi đề lại.
 - **Công tắc tắt máy khẩn cấp, nếu xe có.** Một số đời có công tắc tắt máy ở tay lái phải. Nếu nó đang ở vị trí tắt, xe không nổ. Gạt về vị trí chạy rồi thử.
 
-Bài [bấm đề xe ga không phản ứng: những công tắc an toàn hay bị quên](/xe-may/2026/10/11/bam-e-xe-ga-khong-phan-ung-nhung-cong-tac-an-toan-hay-bi-quen/) giải thích kỹ hơn cơ chế của từng công tắc này.
+Bài [bấm đề xe ga không phản ứng: những công tắc an toàn hay bị quên](/xe-may/2026/10/11/bam-de-xe-ga-khong-phan-ung-nhung-cong-tac-an-toan-hay-bi-quen/) giải thích kỹ hơn cơ chế của từng công tắc này.
 
 ## Máy đề quay mà không nổ: nghĩ tới xăng trước
 
@@ -63,7 +63,7 @@ Nếu xăng còn nhiều mà đề vẫn không nổ, hãy nhìn đèn báo lỗ
 
 ## Air Blade có cần đạp không?
 
-Một số đời Air Blade gần đây có thể không còn cần đạp, chỉ khởi động bằng đề điện. Tùy đời xe mà khác nhau, nên cách chắc nhất là hỏi tiệm ngay lúc nhận xe: chiếc này có cần đạp không, nằm ở đâu. Nếu xe không có cần đạp mà đề đã yếu dần, đừng cố bấm thêm, vì ắc quy cạn hẳn thì phải chờ người tới kích điện. Dấu hiệu ắc quy yếu được nói trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/).
+Một số đời Air Blade gần đây có thể không còn cần đạp, chỉ khởi động bằng đề điện. Tùy đời xe mà khác nhau, nên cách chắc nhất là hỏi tiệm ngay lúc nhận xe: chiếc này có cần đạp không, nằm ở đâu. Nếu xe không có cần đạp mà đề đã yếu dần, đừng cố bấm thêm, vì ắc quy cạn hẳn thì phải chờ người tới kích điện. Dấu hiệu ắc quy yếu được nói trong bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/).
 
 Thêm một điểm riêng của Air Blade: một số phiên bản có tính năng tự ngắt động cơ khi dừng chờ đèn đỏ (đèn Idling Stop trên đồng hồ sẽ báo). Máy tắt khi xe đứng yên trong trường hợp này là bình thường, vặn ga nhẹ là xe nổ lại. Nếu không chắc xe mình có tính năng này, hãy hỏi tiệm.
 

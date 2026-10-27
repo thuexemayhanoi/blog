@@ -50,7 +50,7 @@ Tới làng, gửi xe ở bãi có người trông gần khu chợ gốm, nhận
 
 **Sàn để chân là chỗ tốt nhất cho đồ vỡ.** Đặt thùng hoặc túi gốm nằm phẳng trên sàn, sát vào yếm xe, kẹp nhẹ giữa hai chân. Vị trí này thấp, gần trọng tâm, ít rung. Móc quai túi vào móc treo chỉ để giữ thùng khỏi trượt, không để móc chịu sức nặng.
 
-**Cốp dành cho món nhỏ, đã gói kín.** Một hai chiếc cốc, đĩa nhỏ bọc kỹ có thể nằm trong cốp, chèn áo mưa hoặc khăn xung quanh. Cốp Air Blade không quá rộng và nóng lên khi chạy lâu. Danh sách đồ hợp với cốp có trong bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-uoc-gi-va-o-nao-nen-e-cho-khac/).
+**Cốp dành cho món nhỏ, đã gói kín.** Một hai chiếc cốc, đĩa nhỏ bọc kỹ có thể nằm trong cốp, chèn áo mưa hoặc khăn xung quanh. Cốp Air Blade không quá rộng và nóng lên khi chạy lâu. Danh sách đồ hợp với cốp có trong bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-duoc-gi-va-do-nao-nen-de-cho-khac/).
 
 **Không treo đồ gốm lủng lẳng ở móc.** Túi treo đung đưa, đập vào đầu gối và yếm xe ở mỗi khúc cua. Gốm va nhau trong túi là vỡ, và túi nặng kéo tay lái lệch về một bên.
 
@@ -60,7 +60,7 @@ Cách gói tại cửa hàng:
 - Xin thùng giấy vừa khít, chèn kín khoảng trống để đồ không xô trong thùng.
 - Buộc thùng bằng dây chằng hoặc dây cao su, quấn chữ thập. Nếu để sàn, buộc thêm một vòng vào móc để thùng khỏi trượt ra ngoài khi phanh.
 
-Với bình lớn, chậu cây hay bộ đồ nhiều món, hỏi cửa hàng có nhận gửi hàng về địa chỉ của bạn không, thay vì cố chất lên xe. Cách đóng gói từng loại gốm được nói kỹ trong bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-o-gom-bat-trang-ve-bang-xe-may-cach-ong-goi-va-buoc-o/).
+Với bình lớn, chậu cây hay bộ đồ nhiều món, hỏi cửa hàng có nhận gửi hàng về địa chỉ của bạn không, thay vì cố chất lên xe. Cách đóng gói từng loại gốm được nói kỹ trong bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-do-gom-bat-trang-ve-bang-xe-may-cach-dong-goi-va-buoc-do/).
 
 ## Lái Air Blade khi chở gốm và người ngồi sau
 

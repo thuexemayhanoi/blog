@@ -21,7 +21,7 @@ Giữa trưa tháng Sáu, bạn ngồi trên chiếc Air Blade thuê giữa dòn
 
 Air Blade khác nhiều xe ga phổ thông ở chỗ máy được làm mát bằng dung dịch: có két nước và quạt gió đặt cạnh khối động cơ. Khi xe đứng yên lâu, không có gió thổi qua, nhiệt độ dung dịch làm mát tăng lên và quạt tự bật để kéo gió qua két. Vì thế tiếng quạt chạy lúc kẹt xe giữa trưa là chuyện bình thường, không phải xe hỏng.
 
-Điều cần để ý là những dấu hiệu khác đi kèm. Nếu ngửi thấy mùi khét, thấy hơi nước bốc ra từ thân xe, máy giật hoặc ga yếu hẳn đi, hoặc đồng hồ hiện một đèn cảnh báo lạ, đó là lúc dừng hẳn để kiểm tra chứ không cố chen tiếp. Cách nhận biết máy nóng quá mức và để máy nguội an toàn được nói kỹ trong bài [xe máy nóng máy khi kẹt xe giữa trưa hè](/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-e-may-nguoi-an-toan/); ở đây ta tập trung vào thói quen lái của riêng dòng xe này.
+Điều cần để ý là những dấu hiệu khác đi kèm. Nếu ngửi thấy mùi khét, thấy hơi nước bốc ra từ thân xe, máy giật hoặc ga yếu hẳn đi, hoặc đồng hồ hiện một đèn cảnh báo lạ, đó là lúc dừng hẳn để kiểm tra chứ không cố chen tiếp. Cách nhận biết máy nóng quá mức và để máy nguội an toàn được nói kỹ trong bài [xe máy nóng máy khi kẹt xe giữa trưa hè](/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-de-may-nguoi-an-toan/); ở đây ta tập trung vào thói quen lái của riêng dòng xe này.
 
 ## Idling Stop và tự tắt máy: khi nào nên, khi nào không
 
@@ -53,7 +53,7 @@ Về phía chiếc xe, hãy nhớ Air Blade có cốp dưới yên khá rộng. 
 
 Mang theo một chai nước trước khi ra đường buổi trưa là thói quen rẻ nhất mà hiệu quả. Để chai ở hộc đựng đồ phía trước tay lái, nơi bạn lấy được khi xe đã dừng hẳn. Không mở nắp uống khi xe đang lăn bánh, dù chỉ là bò chậm trong dòng kẹt.
 
-Uống từng ngụm nhỏ, đều đặn trong lúc dừng đèn hoặc khi tấp vào lề, thay vì đợi khát cổ mới tu một hơi. Cách chia nước theo quãng đường được viết riêng trong bài [uống nước đúng cách khi chạy xe trời nóng](/ky-nang/2026/10/04/uong-nuoc-ung-cach-khi-chay-xe-troi-nong/).
+Uống từng ngụm nhỏ, đều đặn trong lúc dừng đèn hoặc khi tấp vào lề, thay vì đợi khát cổ mới tu một hơi. Cách chia nước theo quãng đường được viết riêng trong bài [uống nước đúng cách khi chạy xe trời nóng](/ky-nang/2026/10/04/uong-nuoc-dung-cach-khi-chay-xe-troi-nong/).
 
 ## Khi nào nên tấp vào nghỉ
 

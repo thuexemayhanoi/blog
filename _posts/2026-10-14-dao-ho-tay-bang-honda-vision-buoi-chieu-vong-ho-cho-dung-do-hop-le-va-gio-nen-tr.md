@@ -49,7 +49,7 @@ Phần lớn rắc rối của buổi dạo hồ đến từ chuyện để xe. 
 - **Chỗ để xe của quán cà phê, nhà hàng.** Ở Xuân Diệu và Trích Sài, nhiều quán có người dắt xe và đưa thẻ. Hỏi rõ xe để ở đâu trước khi bước vào.
 - **Điểm dừng ngắn có biển cho phép.** Chỉ dừng lại vài phút để chụp ảnh, người lái vẫn ngồi trên xe, không tắt máy bỏ đi.
 
-Không ghi ở đây mức phí gửi xe vì mỗi bãi thu khác nhau và có thể thay đổi. Hãy hỏi người trông xe trước khi gửi, rồi giữ vé cẩn thận. Cách đọc biển có trong bài [biển báo cấm dừng đỗ và chỗ để xe hợp lệ](/an-toan-phap-ly/2026/10/10/bien-bao-cam-dung-o-va-cho-e-xe-hop-le/). Nếu buổi chiều nối sang phố cổ, xem thêm cách [gửi Honda Vision khi dạo phố cổ](/xe-may/2026/10/14/gui-honda-vision-khi-dao-pho-co-chon-bai-giu-xe-giu-ve-va-tranh-do-sai-cho-quanh/).
+Không ghi ở đây mức phí gửi xe vì mỗi bãi thu khác nhau và có thể thay đổi. Hãy hỏi người trông xe trước khi gửi, rồi giữ vé cẩn thận. Cách đọc biển có trong bài [biển báo cấm dừng đỗ và chỗ để xe hợp lệ](/an-toan-phap-ly/2026/10/10/bien-bao-cam-dung-do-va-cho-de-xe-hop-le/). Nếu buổi chiều nối sang phố cổ, xem thêm cách [gửi Honda Vision khi dạo phố cổ](/xe-may/2026/10/14/gui-honda-vision-khi-dao-pho-co-chon-bai-giu-xe-giu-ve-va-tranh-do-sai-cho-quanh/).
 
 ### Khi gửi xe, đừng quên chìa và cốp
 
@@ -85,6 +85,6 @@ Tiệm mở cửa từ 09:00 tới 21:00, nên nếu định trả xe trong ngà
 - Không cầm điện thoại khi xe đang chạy; muốn chụp ảnh thì tấp vào chỗ được dừng.
 - Khi trời tối, bật đèn chiếu gần trước khi rời quán, vì hàng cây làm vài đoạn tối hơn bạn nghĩ.
 
-Nếu bạn cần lộ trình buổi sáng hoặc so sánh với xe khác, bài [một vòng Hồ Tây bằng Honda Click](/xe-may/2026/10/13/mot-vong-ho-tay-bang-honda-click-lo-trinh-diem-dung-va-gio-dep-trong-ngay/) có khung giờ sớm, còn bài [chạy vòng hồ Tây bằng xe máy thuê](/thue-xe/2026/09/29/chay-vong-ho-tay-bang-xe-may-thue-cung-uong-va-iem-dung/) nói về chọn xe và chỗ ăn uống.
+Nếu bạn cần lộ trình buổi sáng hoặc so sánh với xe khác, bài [một vòng Hồ Tây bằng Honda Click](/xe-may/2026/10/13/mot-vong-ho-tay-bang-honda-click-lo-trinh-diem-dung-va-gio-dep-trong-ngay/) có khung giờ sớm, còn bài [chạy vòng hồ Tây bằng xe máy thuê](/thue-xe/2026/09/29/chay-vong-ho-tay-bang-xe-may-thue-cung-duong-va-diem-dung/) nói về chọn xe và chỗ ăn uống.
 
 Tóm lại, một buổi chiều Hồ Tây trọn vẹn cần ba điều: đi theo chiều kim đồng hồ để hồ nằm bên phải, chỉ để xe ở bãi có người trông hoặc chỗ của quán, và rời đường Thanh Niên trước giờ tan tầm. Thông tin chung về dòng xe có ở trang [Honda Vision](/xe-may/honda-vision/), còn các dòng xe khác nằm trong mục [xe máy](/xe-may/).

@@ -40,7 +40,7 @@ Vision là xe tay ga cỡ nhỏ, yên thấp, thân nhẹ, nên dễ dắt và d
 3. Tập quay đầu chậm: nhả ga gần hết, mắt nhìn về hướng muốn đi chứ không nhìn bánh trước.
 4. Tập đi chậm trong khi giữ thăng bằng, vì ở phố đông bạn sẽ bò theo dòng xe nhiều hơn là chạy.
 
-Một lỗi hay gặp ở người mới đi xe ga: vừa bóp phanh vừa vô tình giữ ga, xe gầm lên mà không dừng gọn. Khi muốn dừng, nhả ga hoàn toàn trước, rồi mới phanh. Nếu muốn có một lộ trình tập chi tiết hơn, xem bài [làm quen xe ga trong ba mươi phút](/hoi-dap/2026/09/29/chua-quen-xe-ga-lam-quen-trong-30-phut-truoc-khi-len-uong/).
+Một lỗi hay gặp ở người mới đi xe ga: vừa bóp phanh vừa vô tình giữ ga, xe gầm lên mà không dừng gọn. Khi muốn dừng, nhả ga hoàn toàn trước, rồi mới phanh. Nếu muốn có một lộ trình tập chi tiết hơn, xem bài [làm quen xe ga trong ba mươi phút](/hoi-dap/2026/09/29/chua-quen-xe-ga-lam-quen-trong-30-phut-truoc-khi-len-duong/).
 
 ## Việt Nam đi bên phải: những điểm dễ nhầm
 
@@ -75,11 +75,11 @@ Với người mới cầm Vision, đó không phải lúc để học. Lần đ
 - Đừng lên vỉa hè dù thấy nhiều người làm vậy.
 - Chân phải đặt sẵn để chống đất khi dòng xe đứng lại; xe ga nhẹ nên chống chân dễ.
 
-Các kỹ năng cụ thể khi kẹt xe được nói kỹ trong bài [kẹt xe giờ cao điểm nội thành](/ky-nang/2026-09-29/ket-xe-gio-cao-iem-noi-thanh-ky-nang-i-xe-may-an-toan/).
+Các kỹ năng cụ thể khi kẹt xe được nói kỹ trong bài [kẹt xe giờ cao điểm nội thành](/ky-nang/2026-09-29/ket-xe-gio-cao-diem-noi-thanh-ky-nang-di-xe-may-an-toan/).
 
 ## Giấy phép lái xe và giấy tờ: hỏi trước khi đặt xe
 
-Để điều khiển xe máy ở Việt Nam, bạn cần giấy phép lái xe hợp lệ tại Việt Nam cho loại xe đó. Loại giấy nào được chấp nhận phụ thuộc vào nơi cấp và quy định hiện hành, nên đừng suy ra từ kinh nghiệm ở nước khác. Hãy hỏi cửa hàng trước khi đặt xe và tự kiểm tra lại với nguồn chính thức. Bài [bằng lái được cấp ở nước ngoài có dùng được không](/an-toan-phap-ly/2026/09/28/bang-lai-uoc-cap-o-nuoc-ngoai-dung-uoc-khong/) có phần giải thích cơ bản.
+Để điều khiển xe máy ở Việt Nam, bạn cần giấy phép lái xe hợp lệ tại Việt Nam cho loại xe đó. Loại giấy nào được chấp nhận phụ thuộc vào nơi cấp và quy định hiện hành, nên đừng suy ra từ kinh nghiệm ở nước khác. Hãy hỏi cửa hàng trước khi đặt xe và tự kiểm tra lại với nguồn chính thức. Bài [bằng lái được cấp ở nước ngoài có dùng được không](/an-toan-phap-ly/2026/09/28/bang-lai-duoc-cap-o-nuoc-ngoai-dung-duoc-khong/) có phần giải thích cơ bản.
 
 Nếu cửa hàng cần giữ giấy tờ nào trong lúc thuê, hãy hỏi rõ trực tiếp và xin biên nhận. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00. Nếu muốn nhận xe ở khách sạn, thời gian và chi phí giao cần xác nhận trước, và không có giao xe ngoài giờ đó. Đội mũ bảo hiểm cài quai mỗi lần lên xe, kể cả khi chỉ đi vài trăm mét.
 

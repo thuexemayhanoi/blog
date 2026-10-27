@@ -39,7 +39,7 @@ Phần lớn chuyện bị dắt xe hay bị xử lý quanh hồ đến từ vi�
 - **Vạch sơn trên vỉa hè.** Nơi được phép để xe thường có vạch kẻ rõ, ngoài vạch là không nên dựng.
 - **Lối đi bộ sát mép hồ.** Đây là khu vực dành cho người đi bộ, không phải chỗ dựng xe.
 
-Cách đọc các loại biển cấm đỗ, cấm dừng trên vỉa hè có trong bài [đọc biển báo cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/oc-bien-bao-cam-o-va-cam-dung-tren-via-he/). Nguyên tắc ngắn gọn: không chắc thì không đỗ, chạy thêm một đoạn tới điểm có người trông.
+Cách đọc các loại biển cấm đỗ, cấm dừng trên vỉa hè có trong bài [đọc biển báo cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/doc-bien-bao-cam-do-va-cam-dung-tren-via-he/). Nguyên tắc ngắn gọn: không chắc thì không đỗ, chạy thêm một đoạn tới điểm có người trông.
 
 ## Phố đi bộ cuối tuần: xem rào chắn tại chỗ
 
@@ -65,7 +65,7 @@ Cốp dưới yên Vision đủ chỗ cho áo mưa, một chiếc mũ bảo hi�
 - **Mang theo người các giấy tờ cần thiết** như giấy tờ xe tiệm giao và giấy tờ tùy thân của bạn.
 - **Áo mưa, chai nước, mũ phụ** để trong cốp được, miễn là mất cũng không ảnh hưởng chuyến đi.
 
-Ngày nắng, cốp còn nóng lên đáng kể, nên những món dễ hỏng vì nhiệt cũng không nên để lại. Bài [cốp Honda Vision ngày nắng gắt](/xe-may/2026/10/11/cop-honda-vision-ngay-nang-gat-nhung-mon-o-khong-nen-e-lai-trong-cop/) có danh sách cụ thể.
+Ngày nắng, cốp còn nóng lên đáng kể, nên những món dễ hỏng vì nhiệt cũng không nên để lại. Bài [cốp Honda Vision ngày nắng gắt](/xe-may/2026/10/11/cop-honda-vision-ngay-nang-gat-nhung-mon-do-khong-nen-de-lai-trong-cop/) có danh sách cụ thể.
 
 Trước khi rời xe, khóa cổ, đóng chặt yên, và nếu là bản khóa thông minh thì cầm remote theo người, đừng để remote trong cốp hay giỏ xe.
 

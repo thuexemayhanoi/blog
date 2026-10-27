@@ -71,7 +71,7 @@ Phần lớn các sáng lạnh, Vision nổ ở lần đề đầu hoặc thứ 
 3. **Không vặn ga khi đề, không tự thử mẹo.** Đừng tự tháo ốp hay chạm vào dây điện.
 4. **Sau vài lần vẫn không nổ thì dừng lại và báo cửa hàng.** Nhắn cho tiệm qua Zalo kèm mô tả: bấm đề có nghe tiếng máy đề quay không, quay mạnh hay yếu, đèn đồng hồ có sáng không.
 
-Nguyên nhân sâu hơn và cách phòng từ tối hôm trước cho mọi dòng xe ga có trong bài [xe ga đề không nổ khi trời lạnh](/xe-may/2026/10/10/xe-ga-e-khong-no-khi-troi-lanh-nguyen-nhan-va-cach-khac-phuc/).
+Nguyên nhân sâu hơn và cách phòng từ tối hôm trước cho mọi dòng xe ga có trong bài [xe ga đề không nổ khi trời lạnh](/xe-may/2026/10/10/xe-ga-de-khong-no-khi-troi-lanh-nguyen-nhan-va-cach-khac-phuc/).
 
 Tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00. Người đi làm từ sáu bảy giờ nên có phương án dự phòng như xe buýt cho ngày xe trục trặc, rồi báo tiệm để hẹn xử lý trong giờ mở cửa. Việc mang xe tới đổi hay hỗ trợ tận nơi cần xác nhận trước thời gian và chi phí.
 
