@@ -800,6 +800,16 @@ class TestDomainDrift(ReviseBase):
         self.assertEqual(sorted(out['restored']), sorted([a, b]))
         self.assertEqual(self.evidence(a), old_ev[a])
 
+    def test_02b_rerun_of_a_finished_drift_batch_is_a_noop(self):
+        a, = self.drift_ids(1)
+        m = self.plan([a])
+        rep = R.apply_batch(self.ctx(batch='revise-test-drift-rerun'), m, [a])
+        self.assertEqual(rep['written'], [a])
+        ev_after = self.evidence_path(a).read_bytes()
+        again = R.apply_batch(self.ctx(batch='revise-test-drift-rerun2'), m, [a])
+        self.assertEqual((again['written'], again['already_current']), ([], [a]))
+        self.assertEqual(self.evidence_path(a).read_bytes(), ev_after)
+
     def test_03_unproven_drift_is_refused(self):
         a, = self.good_ids(1)
         self.make_stale(a, unbound=True)                 # hash cũ không buộc byte baseline
@@ -810,6 +820,16 @@ class TestDomainDrift(ReviseBase):
         self.make_stale(b, edit_after_migration='\nCâu thêm sau migrate.\n'.encode())   # nội dung đổi thật
         m = self.plan([b])
         self.assertEqual(m['entries'][b]['decision'], 'NOT_DOMAIN_ONLY')
+        # evidence sua sau baseline (ngoai 2 hash) => khong con la cua baseline
+        c, = [x for x in self.good_ids(3) if x not in (a, b)][:1]
+        self.make_stale(c)
+        evp = self.evidence_path(c)
+        ev = json.loads(evp.read_text(encoding='utf-8'))
+        ev['quality'] = 100 if ev.get('quality') != 100 else 99
+        evp.write_text(json.dumps(ev, ensure_ascii=False, indent=2), encoding='utf-8')
+        m = self.plan([c])
+        self.assertEqual(m['entries'][c]['decision'], 'NOT_DOMAIN_ONLY')
+        self.assertIn('EVIDENCE_EDITED_SINCE_BASELINE', m['entries'][c]['reason'])
 
     def test_04_manifest_and_apply_must_use_the_same_mode(self):
         a, = self.drift_ids(1)

@@ -274,6 +274,9 @@ def domain_drift_proof(ctx, row, current, evidence):
     old_bytes = history.get(old_row['output_path']) if old_row else None
     old_ev = json.loads(history[qa_path]) if qa_path in history else None
     cl = A.classify(row, current, evidence, old_row, old_bytes, old_ev)
+    if cl['classification'] == BASE_DOMAIN and evidence != old_ev:
+        # classify chi so 2 hash: moi truong khac (result, article_id, source_path, diem...) cung phai la cua baseline
+        cl['classification'] = 'EVIDENCE_EDITED_SINCE_BASELINE'
     if cl['classification'] != BASE_DOMAIN:
         raise Refuse('NOT_DOMAIN_ONLY',
                      '%s: evidence lech hash nhung khong chung minh duoc chi do doi domain (%s) — giu nguyen'
@@ -699,8 +702,12 @@ def prepare(ctx, manifest, aid):
     evidence = json.loads(ev_bytes)
     if sha(cur) == e['new_post_sha256']:
         rev = evidence.get('revision') or {}
-        if (rev.get('edits_sha256') == e['edits_sha256']
-                and rev.get('previous_content_sha256') == e['base_post_sha256']
+        # byte bai TRUOC khi sua: nen INTACT = hash evidence cu; nen DOMAIN_ONLY_PROVEN = hash ghi trong bang chung
+        # (hash evidence cu la cua baseline truoc migrate, khac byte bai luc plan)
+        pre = ((rev.get('domain_only_proof') or {}).get('pre_edit_content_sha256')
+               if rev.get('base') == BASE_DOMAIN else rev.get('previous_content_sha256'))
+        if (rev.get('edits_sha256') == e['edits_sha256'] and pre == e['base_post_sha256']
+                and rev.get('base', BASE_INTACT) == e.get('base', BASE_INTACT)
                 and rev.get('previous_evidence_sha256') == e['old_evidence_sha256']):
             # tu khai provenance khong du: diem tren dia phai dung la dau ra scorer cho byte hien tai
             fresh = score_candidate(ctx, row, cur)
