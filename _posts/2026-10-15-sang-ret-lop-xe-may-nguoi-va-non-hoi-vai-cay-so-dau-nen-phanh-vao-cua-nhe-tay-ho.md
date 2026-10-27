@@ -63,7 +63,7 @@ Ví dụ một người đi làm sớm từ Bồ Đề, Long Biên sang Hoàn Ki
 
 ## Sương muối, mặt đường ẩm và những ngày rét đậm
 
-Có những sáng rét đậm, mặt đường phủ một lớp ẩm mỏng khó nhận ra bằng mắt. Lúc đó, lốp nguội cộng mặt đường ẩm khiến xe dễ trượt hơn bình thường. Nếu thấy mặt đường bóng loáng, sương dày, hãy giảm tốc rõ hơn nữa và bật đèn để người khác dễ thấy mình. Những lưu ý khi đi trong sương muối buổi sớm có trong bài [chạy xe máy lúc sương muối buổi sớm](/ky-nang/2026/10/07/chay-xe-may-luc-suong-muoi-buoi-som-mien-bac/), còn việc chuẩn bị quần áo, găng tay cho người lái nằm ở bài [trời lạnh đi xe máy sáng sớm ở Hà Nội chuẩn bị thế nào](/ky-nang/2026-09-29/troi-lanh-i-xe-may-sang-som-o-ha-noi-chuan-bi-the-nao/).
+Có những sáng rét đậm, mặt đường phủ một lớp ẩm mỏng khó nhận ra bằng mắt. Lúc đó, lốp nguội cộng mặt đường ẩm khiến xe dễ trượt hơn bình thường. Nếu thấy mặt đường bóng loáng, sương dày, hãy giảm tốc rõ hơn nữa và bật đèn để người khác dễ thấy mình. Những lưu ý khi đi trong sương muối buổi sớm có trong bài [chạy xe máy lúc sương muối buổi sớm](/ky-nang/2026/10/07/chay-xe-may-luc-suong-muoi-buoi-som-mien-bac/), còn việc chuẩn bị quần áo, găng tay cho người lái nằm ở bài [trời lạnh đi xe máy sáng sớm ở Hà Nội chuẩn bị thế nào](/ky-nang/2026-09-29/troi-lanh-di-xe-may-sang-som-o-ha-noi-chuan-bi-the-nao/).
 
 Về quy định, luật giao thông nói chung yêu cầu người lái điều khiển tốc độ phù hợp với điều kiện mặt đường và thời tiết. Sáng rét, đường ẩm chính là lúc nên áp dụng điều đó một cách tự giác.
 

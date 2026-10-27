@@ -61,7 +61,7 @@ Mưa ập xuống, gầm cầu là chỗ che gần nhất, nên nhiều người
 - **Không dừng sát chân trụ**, vì đó là nơi nước xả xuống, đọng nước và khuất tầm nhìn của xe khác.
 - **Ra khỏi chỗ trú thì nhìn gương, quay đầu kiểm tra** rồi mới nhập làn từ từ.
 
-Nếu không có chỗ tấp an toàn, đi tiếp đến một cây xăng, mái hiên cửa hàng hay chỗ gửi xe gần nhất thường tốt hơn là đứng dưới gầm cầu. Gợi ý chọn chỗ trú mưa an toàn có trong bài [chạy xe máy khi mưa lớn ở Hà Nội: trú đâu và lưu ý gì](/ky-nang/2026/09/30/chay-xe-may-khi-mua-lon-o-ha-noi-tru-au-va-luu-y-gi/).
+Nếu không có chỗ tấp an toàn, đi tiếp đến một cây xăng, mái hiên cửa hàng hay chỗ gửi xe gần nhất thường tốt hơn là đứng dưới gầm cầu. Gợi ý chọn chỗ trú mưa an toàn có trong bài [chạy xe máy khi mưa lớn ở Hà Nội: trú đâu và lưu ý gì](/ky-nang/2026/09/30/chay-xe-may-khi-mua-lon-o-ha-noi-tru-dau-va-luu-y-gi/).
 
 ## Dưới đường sắt đô thị: phố hẹp và khu vực nhà ga
 

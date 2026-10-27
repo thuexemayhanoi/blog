@@ -47,7 +47,7 @@ Một vài lưu ý khi nhường:
 - Với xe ba gác, xe chở hàng cồng kềnh, máy cày nhỏ hay người dắt xe đạp chở đầy rau, nên nhường họ cả khi bạn đến trước một chút, vì họ khó dừng và gần như không thể lùi.
 - Khi cả hai bên cùng tới chân cầu một lúc, gật đầu hoặc ra hiệu tay cho rõ ai đi trước, đừng cùng lăn bánh rồi cùng phanh.
 
-Tinh thần nhường nhịn này cũng giống bài [gặp đoàn rước trên đường hẹp](/ky-nang/2026/09/30/gap-oan-ruoc-tren-uong-hep-xu-ly-the-nao/).
+Tinh thần nhường nhịn này cũng giống bài [gặp đoàn rước trên đường hẹp](/ky-nang/2026/09/30/gap-doan-ruoc-tren-duong-hep-xu-ly-the-nao/).
 
 ## Đi giữa cầu, ga đều, không dừng và không quay đầu
 

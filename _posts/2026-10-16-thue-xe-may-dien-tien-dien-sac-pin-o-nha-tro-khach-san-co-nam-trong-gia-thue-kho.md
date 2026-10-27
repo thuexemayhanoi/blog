@@ -86,7 +86,7 @@ Mấy nguyên tắc tôi luôn dặn khách:
 
 Chủ trọ không cho sạc, khách sạn không có chỗ cắm thì xe điện thành gánh nặng. Lúc đó xe xăng như Honda Wave hay Honda Click có giá niêm yết rõ, đổ xăng ở đâu cũng được, có khi tiện hơn.
 
-Muốn so kỹ hai loại, xem bài [giá thuê xe máy điện và xe xăng chênh bao nhiêu](/hoi-dap/2026/10/09/gia-thue-xe-may-ien-va-xe-xang-chenh-bao-nhieu/).
+Muốn so kỹ hai loại, xem bài [giá thuê xe máy điện và xe xăng chênh bao nhiêu](/hoi-dap/2026/10/09/gia-thue-xe-may-dien-va-xe-xang-chenh-bao-nhieu/).
 
 ## Hỏi cửa hàng khi đặt xe máy điện
 

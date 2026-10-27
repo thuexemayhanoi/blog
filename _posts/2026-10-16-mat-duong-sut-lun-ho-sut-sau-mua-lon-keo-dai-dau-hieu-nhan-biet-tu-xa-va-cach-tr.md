@@ -63,7 +63,7 @@ Nhận biết đường sắp sụt chỉ có ích khi bạn còn đủ khoảng
 
 Một điều hay bị bỏ qua là mắt nhìn. Cứ nhìn chằm chằm vào chỗ hỏng, tay lái dễ đi theo hướng đó. Hãy đưa mắt về phía lối thoát, như bài [nhìn chằm chằm vào ổ gà lại lao thẳng vào nó](/ky-nang/2026/10/16/nhin-cham-cham-vao-o-ga-lai-lao-thang-vao-no-tap-dua-mat-ve-loi-thoat-khi-di-xe/) đã phân tích.
 
-Ban đêm chỗ lõm gần như không có bóng, nên đi chậm hơn và để ý phản quang của rào chắn. Đoạn nào ngập trắng mặt đường thì đọc thêm cách [đi xe máy qua đoạn đường ngập nước](/ky-nang/2026/10/10/i-xe-may-qua-oan-uong-ngap-nuoc/) trước khi quyết định đi tiếp.
+Ban đêm chỗ lõm gần như không có bóng, nên đi chậm hơn và để ý phản quang của rào chắn. Đoạn nào ngập trắng mặt đường thì đọc thêm cách [đi xe máy qua đoạn đường ngập nước](/ky-nang/2026/10/10/di-xe-may-qua-doan-duong-ngap-nuoc/) trước khi quyết định đi tiếp.
 
 ## Tình huống thực tế trên đường Hà Nội
 
@@ -71,7 +71,7 @@ Giả sử bạn thuê xe ở Long Biên, chạy về phía Cầu Giấy sau ba 
 
 Tình huống khác: đi đường ven sông Tô Lịch, bạn thấy mép đường sát bờ có vết nứt dài song song dòng chảy. Đừng chạy sát lề phía bờ sông cho thoáng; giữ xe ở phần đường xa bờ, giảm tốc, có đường vòng hợp lý thì đi vòng.
 
-Ở ngoại thành, đường bê tông làng sau mưa dài ngày dễ rỗng nền. Thấy mảng bê tông bị kênh lên hoặc hẫng xuống, dừng lại quan sát, dắt xe qua nếu cần. Đoạn đất trơn thì xem thêm bài [đường phủ bụi đất sau mưa](/ky-nang/2026/10/11/uong-phu-bui-at-sau-mua-giam-toc-va-phanh-som/) để biết cách phanh sớm.
+Ở ngoại thành, đường bê tông làng sau mưa dài ngày dễ rỗng nền. Thấy mảng bê tông bị kênh lên hoặc hẫng xuống, dừng lại quan sát, dắt xe qua nếu cần. Đoạn đất trơn thì xem thêm bài [đường phủ bụi đất sau mưa](/ky-nang/2026/10/11/duong-phu-bui-dat-sau-mua-giam-toc-va-phanh-som/) để biết cách phanh sớm.
 
 ## Gặp hố sụt thì báo cho ai
 

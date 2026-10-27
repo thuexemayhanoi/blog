@@ -25,11 +25,11 @@ Trẻ ngồi yên không vận động nên lạnh nhanh hơn người lái. Nh�
 - **Lớp giữa:** áo len hay áo nỉ mỏng, cởi ra dễ khi tới nơi có sưởi.
 - **Lớp ngoài:** áo khoác chắn gió có khóa kéo, cổ cao, gấu vừa tới hông.
 
-Phần hay bị quên là tay, cổ và tai. Găng tay giữ tay ấm khi bám người lái; khăn ống loại chui đầu che kín cổ mà không có đuôi bay ra; mũ len mỏng ôm sát đội bên trong mũ bảo hiểm, miễn là quai vẫn cài vừa. Chân đi tất dày, giày kín mũi. Khẩu trang vải vừa mặt giúp bé đỡ hít gió lạnh. Người lớn cũng nên tự chuẩn bị, xem bài [đi xe máy đầu mùa lạnh ở Hà Nội](/ky-nang/2026/10/10/i-xe-may-au-mua-lanh-o-ha-noi-can-chuan-bi-gi/).
+Phần hay bị quên là tay, cổ và tai. Găng tay giữ tay ấm khi bám người lái; khăn ống loại chui đầu che kín cổ mà không có đuôi bay ra; mũ len mỏng ôm sát đội bên trong mũ bảo hiểm, miễn là quai vẫn cài vừa. Chân đi tất dày, giày kín mũi. Khẩu trang vải vừa mặt giúp bé đỡ hít gió lạnh. Người lớn cũng nên tự chuẩn bị, xem bài [đi xe máy đầu mùa lạnh ở Hà Nội](/ky-nang/2026/10/10/di-xe-may-dau-mua-lanh-o-ha-noi-can-chuan-bi-gi/).
 
 ## Mũ bảo hiểm vừa cỡ, không đội chồng lên mũ len dày
 
-Luật giao thông yêu cầu người ngồi trên xe máy đội mũ bảo hiểm và cài quai đúng quy cách, trẻ em ngồi cùng cũng vậy. Ngày rét, nhiều nhà đội cho con mũ len thật dày rồi chụp mũ bảo hiểm người lớn ra ngoài. Mũ như thế xoay lệch khi bé quay đầu và không giữ được đầu con khi va chạm. Hãy dùng mũ trẻ em đúng cỡ, quai cài sát cằm vừa lọt một ngón tay; chi tiết có trong bài [đội mũ bảo hiểm cho trẻ em khi đi xe máy](/an-toan-phap-ly/2026/10/07/oi-mu-bao-hiem-cho-tre-em-duoi-sau-tuoi-khi-i-xe-may/). Ngày nắng, mũ để ngoài bãi gửi xe cả buổi sẽ nóng hầm, nên cất vào cốp và sờ thử lớp lót trước khi đội cho con.
+Luật giao thông yêu cầu người ngồi trên xe máy đội mũ bảo hiểm và cài quai đúng quy cách, trẻ em ngồi cùng cũng vậy. Ngày rét, nhiều nhà đội cho con mũ len thật dày rồi chụp mũ bảo hiểm người lớn ra ngoài. Mũ như thế xoay lệch khi bé quay đầu và không giữ được đầu con khi va chạm. Hãy dùng mũ trẻ em đúng cỡ, quai cài sát cằm vừa lọt một ngón tay; chi tiết có trong bài [đội mũ bảo hiểm cho trẻ em khi đi xe máy](/an-toan-phap-ly/2026/10/07/doi-mu-bao-hiem-cho-tre-em-duoi-sau-tuoi-khi-di-xe-may/). Ngày nắng, mũ để ngoài bãi gửi xe cả buổi sẽ nóng hầm, nên cất vào cốp và sờ thử lớp lót trước khi đội cho con.
 
 ## Không quấn chăn, không để vạt áo lủng lẳng gần bánh xe
 
@@ -51,7 +51,7 @@ Có nên cho bé cầm ô ngồi sau? Không. Ô bắt gió như cánh buồm, k
 - Khẩu trang mỏng, kính chắn của mũ bảo hiểm, găng tay mỏng.
 - Quần dài mỏng, để da chân không áp vào yên hay phần nhựa đã phơi nắng.
 
-Trước khi cho con lên, đặt tay thử lên yên sau và gác chân; xe để ở bãi gửi xe trường học hay cổng chợ có thể nóng rát, lau bằng khăn ướt hoặc phủ khăn lên yên. Mang bình nước của con, cho bé uống khi tới nơi hoặc đã dừng hẳn sát lề. Người lái cũng cần giữ sức, xem [đi xe máy ngày nắng gắt: giữ sức và giữ máy](/ky-nang/2026/10/04/i-xe-may-ngay-nang-gat-giu-suc-va-giu-may/).
+Trước khi cho con lên, đặt tay thử lên yên sau và gác chân; xe để ở bãi gửi xe trường học hay cổng chợ có thể nóng rát, lau bằng khăn ướt hoặc phủ khăn lên yên. Mang bình nước của con, cho bé uống khi tới nơi hoặc đã dừng hẳn sát lề. Người lái cũng cần giữ sức, xem [đi xe máy ngày nắng gắt: giữ sức và giữ máy](/ky-nang/2026/10/04/di-xe-may-ngay-nang-gat-giu-suc-va-giu-may/).
 
 ## Chọn giờ và chọn đường cho chuyến đi có trẻ
 

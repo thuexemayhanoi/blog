@@ -58,7 +58,7 @@ Vị trí trong làn cũng quan trọng. Trên những tuyến có nhiều ngõ 
 
 ### Khoảng trống phía trước
 
-Giữ khoảng cách đủ để dừng được nếu xe phía trước phanh gấp. Mẹo dễ nhớ là chọn tốc độ sao cho mình dừng được trong đoạn đường mắt nhìn thấy, như bài [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-o-theo-oan-uong-nhin-thay-dung-uoc-trong-tam-mat-khi-i-xe-may/) đã phân tích. Khi đường đông và chậm, khoảng cách có thể ngắn lại, nhưng đừng dí sát bánh sau xe khác.
+Giữ khoảng cách đủ để dừng được nếu xe phía trước phanh gấp. Mẹo dễ nhớ là chọn tốc độ sao cho mình dừng được trong đoạn đường mắt nhìn thấy, như bài [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-do-theo-doan-duong-nhin-thay-dung-duoc-trong-tam-mat-khi-di-xe-may/) đã phân tích. Khi đường đông và chậm, khoảng cách có thể ngắn lại, nhưng đừng dí sát bánh sau xe khác.
 
 ### Khoảng trống hai bên
 
@@ -83,7 +83,7 @@ Bước thứ tư là chỗ nhiều người bỏ qua. Đặt sẵn ngón tay tr
 
 **Ô tô đỗ ven phố cổ:** cửa xe có thể bật mở bất cứ lúc nào. Nếu làn cho phép, đi cách thân xe một khoảng bằng chiều rộng cánh cửa.
 
-**Đầu ngõ ở Cầu Giấy, Đống Đa:** ngõ nhỏ hay có xe máy bất ngờ lao ra. Gần tới đầu ngõ thì nhả ga, liếc vào trong, nếu có gương cầu lồi thì đọc gương. Cách đọc khoảng cách qua gương có trong bài [gương cầu lồi ở góc ngõ và lối ra hầm](/ky-nang/2026/10/11/guong-cau-loi-o-goc-ngo-va-loi-ra-ham-oc-ung-khoang-cach-xe-ang-toi/).
+**Đầu ngõ ở Cầu Giấy, Đống Đa:** ngõ nhỏ hay có xe máy bất ngờ lao ra. Gần tới đầu ngõ thì nhả ga, liếc vào trong, nếu có gương cầu lồi thì đọc gương. Cách đọc khoảng cách qua gương có trong bài [gương cầu lồi ở góc ngõ và lối ra hầm](/ky-nang/2026/10/11/guong-cau-loi-o-goc-ngo-va-loi-ra-ham-doc-dung-khoang-cach-xe-dang-toi/).
 
 **Xe buýt tấp vào điểm dừng:** thấy xe buýt bật xi nhan phải thì đừng cố chen vào khe giữa xe buýt và lề. Giảm tốc chờ phía sau, hoặc vượt sang trái khi đã chắc không có xe tới.
 

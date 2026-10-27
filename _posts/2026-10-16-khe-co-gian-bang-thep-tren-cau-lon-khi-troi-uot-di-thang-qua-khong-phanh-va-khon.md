@@ -42,7 +42,7 @@ Thêm vài lý do khiến khe nguy hiểm hơn vẻ ngoài:
 
 ### Mặt cầu ướt sương dù trời không mưa
 
-Cầu bắc qua sông Hồng thoáng gió, sáng sớm những ngày ẩm thường đọng sương trên mặt cầu dù đêm trước không mưa. Bạn đi từ phố khô ráo lên cầu, tưởng đường vẫn khô, nhưng lớp ẩm mỏng trên thép đã đủ làm bánh trượt nếu phanh mạnh. Mặt thép bóng lên dưới đèn đường hay ánh sáng sớm là dấu hiệu nên dè chừng, cách nhận biết tương tự như khi đi trên [vạch sơn đường ướt](/ky-nang/2026/10/11/i-xe-may-tren-vach-son-uong-uot-tranh-truot-banh/).
+Cầu bắc qua sông Hồng thoáng gió, sáng sớm những ngày ẩm thường đọng sương trên mặt cầu dù đêm trước không mưa. Bạn đi từ phố khô ráo lên cầu, tưởng đường vẫn khô, nhưng lớp ẩm mỏng trên thép đã đủ làm bánh trượt nếu phanh mạnh. Mặt thép bóng lên dưới đèn đường hay ánh sáng sớm là dấu hiệu nên dè chừng, cách nhận biết tương tự như khi đi trên [vạch sơn đường ướt](/ky-nang/2026/10/11/di-xe-may-tren-vach-son-duong-uot-tranh-truot-banh/).
 
 ## Qua khe co giãn bằng xe máy: đi thẳng, nhả phanh, giữ làn
 
@@ -69,7 +69,7 @@ Khách nhận xe ở tiệm tôi trên phố Nguyễn Văn Cừ, Long Biên, mu�
 
 Trên cầu Vĩnh Tuy, phần cầu dẫn kéo dài nên khe nối xuất hiện đều đặn. Đi cầu này lúc mưa, cứ coi mỗi khe là một đoạn "không phanh, không lách" và giữ tốc độ vừa phải cho cả chặng.
 
-Cầu Nhật Tân rộng, cao và thoáng, sáng sớm hay có sương, buổi chiều có thể có gió ngang. Gió đẩy xe lệch đúng lúc lăn qua khe ướt là tình huống khó chịu, vì vậy nên giữ tốc độ thấp hơn bình thường; cách giữ hướng khi gió mạnh có trong bài [chạy xe máy khi gió mạnh ở Hà Nội](/ky-nang/2026/10/10/chay-xe-may-khi-gio-manh-o-ha-noi-can-e-y-gi/). Người ngại độ cao khi qua cầu này có thể đọc thêm [cách nhìn cho đỡ chóng mặt trên cầu Nhật Tân](/ky-nang/2026/10/15/so-do-cao-khi-chay-xe-may-qua-cau-lon-nhin-dau-cho-do-chong-mat-tren-cau-nhat-ta/).
+Cầu Nhật Tân rộng, cao và thoáng, sáng sớm hay có sương, buổi chiều có thể có gió ngang. Gió đẩy xe lệch đúng lúc lăn qua khe ướt là tình huống khó chịu, vì vậy nên giữ tốc độ thấp hơn bình thường; cách giữ hướng khi gió mạnh có trong bài [chạy xe máy khi gió mạnh ở Hà Nội](/ky-nang/2026/10/10/chay-xe-may-khi-gio-manh-o-ha-noi-can-de-y-gi/). Người ngại độ cao khi qua cầu này có thể đọc thêm [cách nhìn cho đỡ chóng mặt trên cầu Nhật Tân](/ky-nang/2026/10/15/so-do-cao-khi-chay-xe-may-qua-cau-lon-nhin-dau-cho-do-chong-mat-tren-cau-nhat-ta/).
 
 ## Lốp và phanh trước những ngày mặt cầu ướt
 

@@ -39,7 +39,7 @@ Khi một bánh rơi xuống lề, lốp nằm thấp hơn mép bê tông. Nếu
 
 ## Giữ bánh xa mép khi tránh xe ngược chiều
 
-Cách tốt nhất là không để bánh rơi xuống. Trên đường bê tông hẹp ngoại thành, bình thường hãy đi cách mép một khoảng, đừng bám sát mép như khi đi trong phố. Bài [đi sát lề hay giữa làn](/ky-nang/2026/10/11/i-xe-may-sat-le-hay-giua-lan-chon-vi-tri-trong-lan-theo-tung-oan-uong/) nói kỹ cách chọn vị trí theo từng đoạn đường.
+Cách tốt nhất là không để bánh rơi xuống. Trên đường bê tông hẹp ngoại thành, bình thường hãy đi cách mép một khoảng, đừng bám sát mép như khi đi trong phố. Bài [đi sát lề hay giữa làn](/ky-nang/2026/10/11/di-xe-may-sat-le-hay-giua-lan-chon-vi-tri-trong-lan-theo-tung-doan-duong/) nói kỹ cách chọn vị trí theo từng đoạn đường.
 
 Khi thấy ô tô từ xa:
 
@@ -66,7 +66,7 @@ Mấu chốt ở bước cuối là góc. Góc càng xiên, lốp càng dễ tr�
 
 ### Khi mép quá cao hoặc lề có mương
 
-Bậc cao ngang gang tay, đất lún mềm sau mưa hay sát bên là mương thì đừng cố chạy lên. Dừng hẳn, về số 0 nếu là xe số, xuống dắt lên ở chỗ thấp nhất, có người đi đường thì nhờ đẩy phụ. Xe đã đổ xuống lề thì xem cách [dựng xe máy bị đổ nghiêng một mình](/ky-nang/2026/10/11/xe-may-bi-o-nghieng-cach-mot-minh-dung-xe-len-ma-khong-au-lung/) để khỏi đau lưng.
+Bậc cao ngang gang tay, đất lún mềm sau mưa hay sát bên là mương thì đừng cố chạy lên. Dừng hẳn, về số 0 nếu là xe số, xuống dắt lên ở chỗ thấp nhất, có người đi đường thì nhờ đẩy phụ. Xe đã đổ xuống lề thì xem cách [dựng xe máy bị đổ nghiêng một mình](/ky-nang/2026/10/11/xe-may-bi-do-nghieng-cach-mot-minh-dung-xe-len-ma-khong-dau-lung/) để khỏi đau lưng.
 
 ## Tình huống thực tế ở vùng ven Hà Nội
 

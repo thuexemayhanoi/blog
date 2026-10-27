@@ -63,11 +63,11 @@ Thứ tự hợp lý: quàng khăn ống mỏng, mép trên nằm dưới cằm,
 
 ### Khẩu trang ôm sống mũi, không kéo lên quá gò má
 
-Chọn khẩu trang có thanh nẹp mũi để bóp sát sống mũi, hơi thở sẽ thoát xuống dưới thay vì đi lên kính. Mép trên chỉ nên tới sống mũi, đừng kéo lên đến gần mắt. Chuyện kính mũ bị mờ khi trời ẩm có thêm cách xử lý trong bài [mưa phùn làm mờ kính mũ bảo hiểm](/ky-nang/2026/10/11/mua-phun-lam-mo-kinh-mu-bao-hiem-giu-tam-nhin-khi-i-xe-may/).
+Chọn khẩu trang có thanh nẹp mũi để bóp sát sống mũi, hơi thở sẽ thoát xuống dưới thay vì đi lên kính. Mép trên chỉ nên tới sống mũi, đừng kéo lên đến gần mắt. Chuyện kính mũ bị mờ khi trời ẩm có thêm cách xử lý trong bài [mưa phùn làm mờ kính mũ bảo hiểm](/ky-nang/2026/10/11/mua-phun-lam-mo-kinh-mu-bao-hiem-giu-tam-nhin-khi-di-xe-may/).
 
 ### Giữ ấm cổ bằng áo, đừng nhồi hết vào trong mũ
 
-Áo khoác cổ cao kéo khóa đến cằm đã chặn phần lớn gió lùa vào cổ. Cách phối áo nhiều lớp cho ngày gió lạnh có trong bài [ngày đầu đông gió lạnh về chạy xe mặc gì](/ky-nang/2026/10/09/ngay-au-ong-gio-lanh-ve-chay-xe-mac-gi/).
+Áo khoác cổ cao kéo khóa đến cằm đã chặn phần lớn gió lùa vào cổ. Cách phối áo nhiều lớp cho ngày gió lạnh có trong bài [ngày đầu đông gió lạnh về chạy xe mặc gì](/ky-nang/2026/10/09/ngay-dau-dong-gio-lanh-ve-chay-xe-mac-gi/).
 
 Đi sớm cả mùa đông thì một chiếc mũ ba phần tư có kính chắn gió sẽ ấm hơn nhiều so với nhồi đồ len vào mũ nửa đầu.
 

@@ -38,7 +38,7 @@ Người đi bộ mặc áo sẫm đứng trong bóng cây gần như hòa vào 
 Nguyên tắc quan trọng nhất: giảm tốc từ chỗ còn nắng trống, trước khi vào tán cây, chứ không đợi vào rồi mới thấy khó nhìn.
 
 1. Nhả ga khi thấy phía trước là một đoạn tán cây dày.
-2. Chọn tốc độ sao cho dừng được trong khoảng mình thật sự nhìn rõ. Bài [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-o-theo-oan-uong-nhin-thay-dung-uoc-trong-tam-mat-khi-i-xe-may/) giải thích cách ước lượng này.
+2. Chọn tốc độ sao cho dừng được trong khoảng mình thật sự nhìn rõ. Bài [chọn tốc độ theo đoạn đường nhìn thấy](/ky-nang/2026/10/11/chon-toc-do-theo-doan-duong-nhin-thay-dung-duoc-trong-tam-mat-khi-di-xe-may/) giải thích cách ước lượng này.
 3. Ở đoạn đông người, [đặt sẵn ngón tay trên tay phanh](/ky-nang/2026/10/16/dat-san-ngon-tay-tren-tay-phanh-khi-di-pho-dong-phan-xa-nhanh-hon-ma-khong-thanh/) để rút ngắn thời gian phản xạ.
 4. Giữ tốc độ ấy cho đến khi ra khỏi tán cây, đừng tăng ga ở mỗi mảng nắng rồi lại hãm ở mảng bóng.
 

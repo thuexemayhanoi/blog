@@ -53,7 +53,7 @@ Kèm theo đó:
 - **Quần dài và giày kín** thay cho dép, che kín cổ chân.
 - **Mũ bảo hiểm có kính chắn** giúp che mặt khỏi gió. Có thể đội thêm mũ len mỏng bên trong nếu mũ vẫn vừa và cài quai chắc.
 
-Cách chọn từng món đồ được nói kỹ hơn trong bài [ngày đầu đông gió lạnh về chạy xe mặc gì](/ky-nang/2026/10/09/ngay-au-ong-gio-lanh-ve-chay-xe-mac-gi/). Nguyên tắc chung: **hãy mặc như thể trời lạnh hơn bản tin**.
+Cách chọn từng món đồ được nói kỹ hơn trong bài [ngày đầu đông gió lạnh về chạy xe mặc gì](/ky-nang/2026/10/09/ngay-dau-dong-gio-lanh-ve-chay-xe-mac-gi/). Nguyên tắc chung: **hãy mặc như thể trời lạnh hơn bản tin**.
 
 ## Đi các cung ngoại thành: tính thêm gió và thời gian
 
@@ -65,7 +65,7 @@ Vài đoạn quen thuộc mà người đi xe máy hay than lạnh:
 - **Đường về phía Sóc Sơn, Ba Vì.** Quãng dài, càng lên gần vùng đồi núi càng dễ gặp sương và gió buổi sớm.
 - **Các trục lớn hướng tây** như Đại lộ Thăng Long, nơi người ta có xu hướng chạy nhanh và đều.
 
-Với những chuyến như vậy, bạn sẽ ngồi trên xe lâu hơn, cơ thể ít cử động hơn, nên cảm giác lạnh tích dần theo thời gian. Hãy mặc đủ từ đầu và mang thêm một lớp dự phòng trong cốp. Nếu gió ngược thổi mạnh, nên giảm tốc vừa phải, vừa đỡ lạnh vừa giữ xe vững hơn, như bài [chạy xe máy gió ngược lớn](/ky-nang/2026/10/07/chay-xe-may-gio-nguoc-lon-can-giu-toc-o-the-nao/) đã nói.
+Với những chuyến như vậy, bạn sẽ ngồi trên xe lâu hơn, cơ thể ít cử động hơn, nên cảm giác lạnh tích dần theo thời gian. Hãy mặc đủ từ đầu và mang thêm một lớp dự phòng trong cốp. Nếu gió ngược thổi mạnh, nên giảm tốc vừa phải, vừa đỡ lạnh vừa giữ xe vững hơn, như bài [chạy xe máy gió ngược lớn](/ky-nang/2026/10/07/chay-xe-may-gio-nguoc-lon-can-giu-toc-do-the-nao/) đã nói.
 
 ## Dấu hiệu lạnh quá mức: dừng nghỉ chỗ ấm
 
@@ -81,4 +81,4 @@ Nếu cảm thấy cơ thể có biểu hiện bất thường kéo dài, hãy d
 
 ## Gói gọn lại
 
-Bản tin cho biết không khí lạnh đến đâu, còn gió do chính chiếc xe tạo ra mới quyết định bạn lạnh đến đâu. Mặc theo lớp, có lớp ngoài chắn gió, che kín cổ, tay và cổ chân trước khi xuất phát, rồi lắng nghe cơ thể để dừng nghỉ đúng lúc. Chuẩn bị cho những sáng lạnh có thêm trong bài [trời lạnh đi xe máy sáng sớm ở Hà Nội](/ky-nang/2026-09-29/troi-lanh-i-xe-may-sang-som-o-ha-noi-chuan-bi-the-nao/). Các kỹ năng theo mùa khác nằm ở mục [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), và toàn bộ kỹ năng lái xe ở chuyên mục [kỹ năng](/ky-nang/).
+Bản tin cho biết không khí lạnh đến đâu, còn gió do chính chiếc xe tạo ra mới quyết định bạn lạnh đến đâu. Mặc theo lớp, có lớp ngoài chắn gió, che kín cổ, tay và cổ chân trước khi xuất phát, rồi lắng nghe cơ thể để dừng nghỉ đúng lúc. Chuẩn bị cho những sáng lạnh có thêm trong bài [trời lạnh đi xe máy sáng sớm ở Hà Nội](/ky-nang/2026-09-29/troi-lanh-di-xe-may-sang-som-o-ha-noi-chuan-bi-the-nao/). Các kỹ năng theo mùa khác nằm ở mục [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), và toàn bộ kỹ năng lái xe ở chuyên mục [kỹ năng](/ky-nang/).

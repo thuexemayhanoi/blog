@@ -23,7 +23,7 @@ Hợp đồng ban đầu thường ghi ngày nhận, ngày trả, loại xe, bi�
 
 Cách chắc chắn nhất là hỏi thẳng lúc báo gia hạn: "Mình gia hạn thì có cần ký gì thêm không, hay tiệm xác nhận qua tin nhắn?". Câu hỏi này tránh được cảnh bạn nghĩ đã xong, còn cửa hàng vẫn chờ bạn ghé ký.
 
-Nếu bạn chưa rõ hợp đồng gốc của mình ghi những gì, nên đọc lại trước khi nhắn. Bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/) liệt kê các mục thường có, giúp bạn biết dòng nào sẽ bị thay đổi khi kéo dài.
+Nếu bạn chưa rõ hợp đồng gốc của mình ghi những gì, nên đọc lại trước khi nhắn. Bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/) liệt kê các mục thường có, giúp bạn biết dòng nào sẽ bị thay đổi khi kéo dài.
 
 ## Ba hình thức ghi nhận gia hạn thường gặp
 
@@ -39,7 +39,7 @@ Nếu tiện đường ghé cửa hàng, ví dụ bạn ở gần Long Biên ho�
 
 Phụ lục là một tờ riêng, ghi hợp đồng nào được kéo dài đến ngày nào, các điều khoản khác giữ nguyên. Hình thức này hay gặp hơn khi thuê dài, như thuê tháng rồi nối thêm, hoặc khi có thay đổi như đổi xe, đổi người lái. Không phải nơi nào cũng dùng phụ lục.
 
-Dù là hình thức nào, giá trị của nó nằm ở chỗ hai bên đều xem được cùng một nội dung. Nếu bạn quan tâm đến chuyện giấy tờ có cần xác thực thêm không, bài [hợp đồng thuê xe máy có cần công chứng không](/thue-xe/2026/10/07/hop-ong-thue-xe-may-co-can-cong-chung-khong/) giải thích kỹ hơn.
+Dù là hình thức nào, giá trị của nó nằm ở chỗ hai bên đều xem được cùng một nội dung. Nếu bạn quan tâm đến chuyện giấy tờ có cần xác thực thêm không, bài [hợp đồng thuê xe máy có cần công chứng không](/thue-xe/2026/10/07/hop-dong-thue-xe-may-co-can-cong-chung-khong/) giải thích kỹ hơn.
 
 ## Nội dung nên có trong xác nhận gia hạn thuê xe
 

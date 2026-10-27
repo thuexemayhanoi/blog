@@ -77,7 +77,7 @@ Mẫu xe là thứ bạn chủ động quyết được. Xe số như Honda Wave
 
 Đừng lấy giá ngày nhân lên để so, vì giá tuần và giá tháng là mức riêng, như bài [đừng tự nhân giá ngày để đoán giá tuần và tháng](/hoi-dap/2026/10/14/dung-tu-nhan-gia-ngay-de-doan-gia-tuan-va-thang-cach-doc-bang-gia-xe-may/) đã giải thích. Bản mới nhất ở trang [bảng giá thuê xe máy](/bang-gia/).
 
-Muốn tránh hẳn chuyện giá xăng thì có thể nghĩ đến xe máy điện, nhưng giá thuê xe điện cần liên hệ để xác nhận. Bài [giá thuê xe máy điện và xe xăng chênh bao nhiêu](/hoi-dap/2026/10/09/gia-thue-xe-may-ien-va-xe-xang-chenh-bao-nhieu/) so sánh kỹ hơn.
+Muốn tránh hẳn chuyện giá xăng thì có thể nghĩ đến xe máy điện, nhưng giá thuê xe điện cần liên hệ để xác nhận. Bài [giá thuê xe máy điện và xe xăng chênh bao nhiêu](/hoi-dap/2026/10/09/gia-thue-xe-may-dien-va-xe-xang-chenh-bao-nhieu/) so sánh kỹ hơn.
 
 ## Hai tình huống hay gặp ở Hà Nội
 

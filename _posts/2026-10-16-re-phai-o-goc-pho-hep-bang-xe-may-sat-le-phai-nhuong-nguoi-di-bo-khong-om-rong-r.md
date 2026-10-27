@@ -35,7 +35,7 @@ Khi còn cách góc phố vài chục mét, bật xi nhan phải. Xi nhan sát g
 
 ### Dạt dần sát mép phải trước khi tới góc
 
-Chuyển xe từ từ sang phần sát mép phải của làn để người phía sau đọc được ý định của bạn. Cách chọn vị trí trong làn theo từng loại đường có trong bài [đi sát lề hay giữa làn](/ky-nang/2026/10/11/i-xe-may-sat-le-hay-giua-lan-chon-vi-tri-trong-lan-theo-tung-oan-uong/).
+Chuyển xe từ từ sang phần sát mép phải của làn để người phía sau đọc được ý định của bạn. Cách chọn vị trí trong làn theo từng loại đường có trong bài [đi sát lề hay giữa làn](/ky-nang/2026/10/11/di-xe-may-sat-le-hay-giua-lan-chon-vi-tri-trong-lan-theo-tung-doan-duong/).
 
 Sát lề không có nghĩa là áp bánh vào vỉa hè. Chừa khoảng để tránh nắp cống, rãnh nước hay người bước xuống từ bậc thềm.
 

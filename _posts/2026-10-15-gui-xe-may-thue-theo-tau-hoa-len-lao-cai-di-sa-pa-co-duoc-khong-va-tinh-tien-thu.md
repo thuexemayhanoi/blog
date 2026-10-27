@@ -67,13 +67,13 @@ Nhà ga có thể đối chiếu giấy tờ khi nhận gửi, và trên đườ
 - Hợp đồng thuê và tin nhắn đồng ý cho gửi xe theo tàu.
 - Giấy tờ tùy thân và bằng lái phù hợp với xe của người cầm lái.
 
-Việc cửa hàng giữ lại giấy tờ gì của bạn khi cho thuê, hãy hỏi rõ trực tiếp và xin biên nhận. Danh sách giấy tờ cho chuyến dài có trong bài [giấy tờ cần mang khi thuê xe đi đường dài](/an-toan-phap-ly/2026/10/07/giay-to-can-mang-khi-thue-xe-i-uong-dai/).
+Việc cửa hàng giữ lại giấy tờ gì của bạn khi cho thuê, hãy hỏi rõ trực tiếp và xin biên nhận. Danh sách giấy tờ cho chuyến dài có trong bài [giấy tờ cần mang khi thuê xe đi đường dài](/an-toan-phap-ly/2026/10/07/giay-to-can-mang-khi-thue-xe-di-duong-dai/).
 
 ## Lào Cai lên Sa Pa: đèo dốc, báo cửa hàng trước
 
 Đoạn từ Lào Cai lên Sa Pa là đường đèo, dốc dài, nhiều cua gấp, có lúc sương mù và mặt đường ướt. Khi hỏi thuê, hãy nói rõ bạn sẽ chạy đoạn này để cửa hàng gợi ý dòng xe hợp, kiểm tra kỹ phanh và lốp trước khi giao.
 
-Khi nhận lại xe ở Lào Cai sau chuyến tàu, đừng lên đèo ngay. Đi một vòng ngắn quanh ga, bóp thử hai phanh, nhìn lốp và đèn, xem có gì xô lệch trong lúc vận chuyển không. Nếu thấy bất thường, chụp ảnh và báo cửa hàng trước khi chạy. Khi xuống dốc, giữ số thấp hoặc giữ ga nhẹ, phanh nhả từng nhịp. Muốn so sánh xe số và xe ga trên đường đèo, xem bài [thuê xe số và xe ga chạy đèo](/xe-may/2026/10/03/thue-xe-so-va-xe-ga-chay-eo-dong-nao-ben-hon/).
+Khi nhận lại xe ở Lào Cai sau chuyến tàu, đừng lên đèo ngay. Đi một vòng ngắn quanh ga, bóp thử hai phanh, nhìn lốp và đèn, xem có gì xô lệch trong lúc vận chuyển không. Nếu thấy bất thường, chụp ảnh và báo cửa hàng trước khi chạy. Khi xuống dốc, giữ số thấp hoặc giữ ga nhẹ, phanh nhả từng nhịp. Muốn so sánh xe số và xe ga trên đường đèo, xem bài [thuê xe số và xe ga chạy đèo](/xe-may/2026/10/03/thue-xe-so-va-xe-ga-chay-deo-dong-nao-ben-hon/).
 
 ## Khi nào nên cân nhắc cách khác
 

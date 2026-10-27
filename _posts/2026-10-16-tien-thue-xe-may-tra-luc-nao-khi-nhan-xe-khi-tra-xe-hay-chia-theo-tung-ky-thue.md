@@ -53,7 +53,7 @@ Với gói dài, số tiền lớn hơn nên càng cần rõ ràng. Ví dụ Hon
 - Nếu thuê nhiều tháng liền, tiền mỗi tháng trả vào ngày nào: đúng ngày nhận xe của tháng sau hay một mốc khác?
 - Một tháng thuê được tính đủ ba mươi ngày hay đến cùng ngày tháng sau?
 
-Câu cuối ảnh hưởng trực tiếp đến hạn trả tiền kỳ tiếp theo, xem thêm bài [thuê xe máy một tháng tính thế nào](/hoi-dap/2026/10/14/thue-xe-may-mot-thang-tinh-the-nao-du-30-ngay-hay-den-cung-ngay-thang-sau/). Nếu đang phân vân có nên thanh toán trước cả tuần hay không, bài [có nên trả trước cả tuần](/hoi-dap/2026/10/09/co-nen-tra-truoc-ca-tuan-e-uoc-gia-tot-hon-khong/) phân tích kỹ hơn.
+Câu cuối ảnh hưởng trực tiếp đến hạn trả tiền kỳ tiếp theo, xem thêm bài [thuê xe máy một tháng tính thế nào](/hoi-dap/2026/10/14/thue-xe-may-mot-thang-tinh-the-nao-du-30-ngay-hay-den-cung-ngay-thang-sau/). Nếu đang phân vân có nên thanh toán trước cả tuần hay không, bài [có nên trả trước cả tuần](/hoi-dap/2026/10/09/co-nen-tra-truoc-ca-tuan-de-duoc-gia-tot-hon-khong/) phân tích kỹ hơn.
 
 ### Khi gia hạn thêm kỳ mới
 

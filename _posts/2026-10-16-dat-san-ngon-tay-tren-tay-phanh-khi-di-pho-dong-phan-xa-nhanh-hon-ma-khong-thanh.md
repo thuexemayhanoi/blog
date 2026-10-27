@@ -29,7 +29,7 @@ Vị trí các tay phanh khác nhau theo loại xe, cần nhớ trước khi t�
 
 Xe tay ga thì ở đoạn rất đông có thể che cả hai bên. Xe số thì tay phải che phanh trước, mũi chân phải đặt gần bàn đạp phanh sau nhưng không đè lên.
 
-Khuỷu tay hơi chùng, vai thả lỏng thì ngón tay mới đặt hờ được lâu mà không mỏi. Xem thêm bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-ieu-khien-xe-may-chac-tay-at-tay-goi-va-ban-chan-the-nao/) nếu bạn hay gồng cứng tay.
+Khuỷu tay hơi chùng, vai thả lỏng thì ngón tay mới đặt hờ được lâu mà không mỏi. Xem thêm bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-dieu-khien-xe-may-chac-tay-dat-tay-goi-va-ban-chan-the-nao/) nếu bạn hay gồng cứng tay.
 
 ## Vì sao che phanh giúp phản xạ nhanh hơn
 

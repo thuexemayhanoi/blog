@@ -40,7 +40,7 @@ Thời điểm tốt nhất để đọc số là lúc vừa thấy cột đèn 
 
 Cái sai phổ biến nhất là thấy số còn ít liền vặn ga. Xe tăng tốc sát ngã tư thì quãng phanh dài ra, trong khi người đi bộ và xe hướng khác đã chuẩn bị đi. Nếu phải vặn ga mới kịp, nghĩa là bạn không kịp.
 
-Khi đèn đã chuyển vàng, coi như tín hiệu chuẩn bị dừng: nhả ga và dừng trước vạch nếu còn dừng được an toàn. Chỉ đi tiếp khi bánh xe đã sát hoặc đã qua vạch dừng. Cách xử lý từng tình huống đèn vàng được nói kỹ trong bài [đèn vàng khi tới giao lộ: dừng hay vượt đúng cách](/ky-nang/2026/10/10/en-vang-khi-toi-giao-lo-dung-hay-vuot-ung-cach/).
+Khi đèn đã chuyển vàng, coi như tín hiệu chuẩn bị dừng: nhả ga và dừng trước vạch nếu còn dừng được an toàn. Chỉ đi tiếp khi bánh xe đã sát hoặc đã qua vạch dừng. Cách xử lý từng tình huống đèn vàng được nói kỹ trong bài [đèn vàng khi tới giao lộ: dừng hay vượt đúng cách](/ky-nang/2026/10/10/den-vang-khi-toi-giao-lo-dung-hay-vuot-dung-cach/).
 
 ## Dừng êm trước vạch: nhả ga sớm, phanh nhẹ và báo cho xe sau
 
@@ -71,7 +71,7 @@ Một điểm hay gây nhầm cho khách mới: đừng mặc định được r
 
 Lúc đèn chuyển xanh, hãy cho mình một nhịp ngắn: nhìn trái, nhìn phải, xem còn xe hướng kia cố băng qua không, rồi mới thả phanh và lên ga từ tốn.
 
-Nhịp nhìn này đặc biệt cần khi tầm mắt bị xe buýt hay xe tải đứng bên cạnh che khuất. Bài [đèn xanh vừa bật vẫn nhìn hai bên](/ky-nang/2026/10/11/en-xanh-vua-bat-van-nhin-hai-ben-thoi-quen-mot-nhip-o-nga-tu-ong-xe/) giải thích kỹ thói quen này.
+Nhịp nhìn này đặc biệt cần khi tầm mắt bị xe buýt hay xe tải đứng bên cạnh che khuất. Bài [đèn xanh vừa bật vẫn nhìn hai bên](/ky-nang/2026/10/11/den-xanh-vua-bat-van-nhin-hai-ben-thoi-quen-mot-nhip-o-nga-tu-dong-xe/) giải thích kỹ thói quen này.
 
 Với xe ga thuê, lên ga đều tay từ lúc xuất phát để xe không chồm lên.
 

@@ -44,7 +44,7 @@ Xe càng chậm, nước càng bị đẩy ra ít và bắn thấp. Nhưng giả
 3. **Đi qua vũng với ga đều, tay lái thẳng.** Không bóp phanh mạnh khi bánh đang ở trong nước, không đánh lái gấp.
 4. **Ra khỏi vũng rồi mới tăng ga lại** từ từ, đồng thời rà nhẹ phanh vài lần cho má phanh bớt ướt.
 
-Vì sao không phanh trong nước? Vũng nước có thể che đi ổ gà, nắp cống lệch, mảnh gạch vỡ hay vệt dầu loang. Bánh xe đang bị phanh mà gặp một cái hố khuất thì rất dễ trượt hoặc mất lái. Đi chậm, đều ga và giữ thẳng xe vừa không làm nước bắn mạnh, vừa đủ thời gian phản ứng nếu bánh sụt vào chỗ trũng. Cách qua mặt đường trơn có trong bài [đường trơn và vũng nước qua thế nào](/ky-nang/2026-09-29/uong-tron-va-vung-nuoc-qua-the-nao/), còn các đoạn nên tránh sau mưa lớn nằm ở bài [chạy xe ngày sau mưa lớn](/ky-nang/2026/10/04/chay-xe-ngay-sau-mua-lon-nhung-oan-nen-tranh/).
+Vì sao không phanh trong nước? Vũng nước có thể che đi ổ gà, nắp cống lệch, mảnh gạch vỡ hay vệt dầu loang. Bánh xe đang bị phanh mà gặp một cái hố khuất thì rất dễ trượt hoặc mất lái. Đi chậm, đều ga và giữ thẳng xe vừa không làm nước bắn mạnh, vừa đủ thời gian phản ứng nếu bánh sụt vào chỗ trũng. Cách qua mặt đường trơn có trong bài [đường trơn và vũng nước qua thế nào](/ky-nang/2026-09-29/duong-tron-va-vung-nuoc-qua-the-nao/), còn các đoạn nên tránh sau mưa lớn nằm ở bài [chạy xe ngày sau mưa lớn](/ky-nang/2026/10/04/chay-xe-ngay-sau-mua-lon-nhung-doan-nen-tranh/).
 
 ## Chọn vệt bánh: giữ xa mép nhưng không lấn ẩu
 
@@ -64,7 +64,7 @@ Khi phía trước là một vũng nước chiếm gần hết mép đường m�
 
 - Khi xe buýt đang dừng, người xuống xe có thể bước thẳng ra phía bạn. Đi chậm, quan sát cửa xe buýt và chỗ hở giữa xe buýt với vỉa hè.
 - Đừng cố lách vào khe hẹp giữa xe buýt và vỉa hè, vừa nguy hiểm vừa chắc chắn tạt nước vào người đứng chờ.
-- Nếu phải vòng qua xe buýt, hãy làm sớm và từ tốn, như cách nói trong bài [xe buýt dừng đón khách nên vượt hay chờ](/ky-nang/2026/10/04/xe-buyt-dung-on-khach-vuot-hay-cho/).
+- Nếu phải vòng qua xe buýt, hãy làm sớm và từ tốn, như cách nói trong bài [xe buýt dừng đón khách nên vượt hay chờ](/ky-nang/2026/10/04/xe-buyt-dung-don-khach-vuot-hay-cho/).
 
 Một ví dụ quen thuộc: buổi chiều mưa trên đường Nguyễn Trãi đoạn gần các trường đại học, sinh viên đứng kín mái che điểm dừng, mặt đường sát lề đọng nước. Người lái chủ động giảm tốc từ xa, đi chậm qua đoạn có người, chỉ chậm hơn một chút so với bình thường nhưng không ai phải nhảy lùi né nước.
 

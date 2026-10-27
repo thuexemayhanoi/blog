@@ -48,7 +48,7 @@ Tránh bị kẹp giữa hai xe. Nếu cả hai bên đều sát rạt, bạn h�
 - Xe buýt, xe tải, xe khách: thân dài, điểm mù lớn, khi tấp vào điểm dừng sẽ ép cả đàn xe máy sang một bên.
 - Người lái chưa vững: đặt chân xuống liên tục, tay lái lắc khi chạy chậm.
 
-Vị trí trong làn cũng ảnh hưởng nhiều, bài [đi xe máy sát lề hay giữa làn](/ky-nang/2026/10/11/i-xe-may-sat-le-hay-giua-lan-chon-vi-tri-trong-lan-theo-tung-oan-uong/) nói kỹ cách chọn chỗ theo từng đoạn đường.
+Vị trí trong làn cũng ảnh hưởng nhiều, bài [đi xe máy sát lề hay giữa làn](/ky-nang/2026/10/11/di-xe-may-sat-le-hay-giua-lan-chon-vi-tri-trong-lan-theo-tung-doan-duong/) nói kỹ cách chọn chỗ theo từng đoạn đường.
 
 ## Nhận ra xe bên cạnh sắp lạng sang
 
@@ -61,7 +61,7 @@ Xe máy hiếm khi lạng sang mà không báo trước, chỉ là ta không nh�
 
 Trên Giải Phóng, đoạn gần bến xe Giáp Bát có xe khách, xe buýt ra vào, xe máy quanh đó hay dạt bất ngờ. Quanh nút Ngã Tư Sở đầu đường Nguyễn Trãi, hay trên phố Cầu Giấy gần các lối vào ngõ, dòng xe dồn lại và người bên cạnh dễ lấn ngang để giành khe.
 
-Thấy dấu hiệu thì đừng đợi xe kia sang hẳn. Nhả ga lùi lại nửa thân xe, hoặc nhích sang phía còn trống sau khi đã nhìn gương. Muốn đọc người xung quanh kỹ hơn, xem bài [đọc ý định người đi xe xung quanh](/ky-nang/2026/10/11/oc-y-inh-nguoi-i-xe-xung-quanh-dau-hieu-sap-re-sap-tat-au-hay-sap-phanh/).
+Thấy dấu hiệu thì đừng đợi xe kia sang hẳn. Nhả ga lùi lại nửa thân xe, hoặc nhích sang phía còn trống sau khi đã nhìn gương. Muốn đọc người xung quanh kỹ hơn, xem bài [đọc ý định người đi xe xung quanh](/ky-nang/2026/10/11/doc-y-dinh-nguoi-di-xe-xung-quanh-dau-hieu-sap-re-sap-tat-dau-hay-sap-phanh/).
 
 ## Lỡ chạm tay lái xe bên cạnh: giữ lái thẳng, không giật tay
 
@@ -73,7 +73,7 @@ Phản xạ tự nhiên khi bị chạm là giật tay lái ra xa và bóp chặ
 4. **Khuỷu tay hơi chùng, vai thả lỏng.** Tay cứng sẽ truyền nguyên cú va vào tay lái, tay mềm thì đỡ được phần lớn.
 5. **Nhìn về phía muốn đi**, không nhìn chằm chằm vào chỗ vừa chạm.
 
-Tư thế cầm lái quyết định nhiều ở phản xạ này, xem thêm [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-ieu-khien-xe-may-chac-tay-at-tay-goi-va-ban-chan-the-nao/).
+Tư thế cầm lái quyết định nhiều ở phản xạ này, xem thêm [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-dieu-khien-xe-may-chac-tay-dat-tay-goi-va-ban-chan-the-nao/).
 
 ### Sau cú chạm
 
