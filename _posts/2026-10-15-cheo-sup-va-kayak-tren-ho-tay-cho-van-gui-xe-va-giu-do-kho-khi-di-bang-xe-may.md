@@ -21,7 +21,7 @@ Sáng cuối tuần, mặt Hồ Tây lặng gió là lúc nhiều bạn trẻ v�
 
 Hồ Tây rộng, nhưng điểm cho thuê ván và kayak không rải khắp bờ. Theo thông tin các điểm thuê đăng công khai, chỗ thuê ván thường tập trung ở phía tây nam hồ, quanh phố Trích Sài, đoạn ven hồ phía Bưởi. Điểm thuê có thể đổi chỗ hoặc tạm nghỉ, nên trước khi đi hãy nhắn hỏi nơi bạn định thuê về giờ nhận khách, áo phao và chỗ để xe.
 
-Về giờ, sáng sớm và cuối chiều là dễ chịu nhất. Buổi trưa mùa hè mặt hồ hắt nắng gắt, người mới chèo mau đuối sức. Ngày gió mạnh, mưa giông hoặc có sấm thì nên hoãn: mặt hồ rộng nên sóng lên nhanh, đứng trên ván rất khó giữ thăng bằng. Muốn kết hợp ngắm hoàng hôn, xem gợi ý trong bài [chạy xe đường Lạc Long Quân buổi chiều](/du-lich/2026/10/04/uong-lac-long-quan-chay-xe-buoi-chieu-iem-dung-ven-ho/) rồi canh giờ trả ván trước khi trời tối.
+Về giờ, sáng sớm và cuối chiều là dễ chịu nhất. Buổi trưa mùa hè mặt hồ hắt nắng gắt, người mới chèo mau đuối sức. Ngày gió mạnh, mưa giông hoặc có sấm thì nên hoãn: mặt hồ rộng nên sóng lên nhanh, đứng trên ván rất khó giữ thăng bằng. Muốn kết hợp ngắm hoàng hôn, xem gợi ý trong bài [chạy xe đường Lạc Long Quân buổi chiều](/du-lich/2026/10/04/duong-lac-long-quan-chay-xe-buoi-chieu-diem-dung-ven-ho/) rồi canh giờ trả ván trước khi trời tối.
 
 ## Mang gì khi đi chèo ván đứng hồ Tây bằng xe máy
 
@@ -57,7 +57,7 @@ Khu Trích Sài, Thụy Khuê là phố nhỏ, vỉa hè hẹp, sát mép hồ l
 - Không đỗ chắn cổng nhà dân, lối xuống nước hay lối đi bộ ven hồ.
 - Khóa cổ xe, rút chìa và gập gương nếu chỗ đỗ chật.
 
-Đừng để đồ quý trong cốp rồi gửi xe cả buổi; cốp xe tay ga phơi nắng nóng lên nhanh, không tốt cho điện thoại và pin dự phòng. Chưa quen khu này thì đọc trước bài [cung đường chạy quanh hồ Tây, điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/). Muốn ngồi uống nước sau buổi chèo, dãy quán ở [làng Trích Sài bên Hồ Tây](/du-lich/2026/10/13/lang-trich-sai-ben-ho-tay-chua-thien-nien-va-day-quan-nhin-ho-ghe-bang-xe-may/) ở ngay gần.
+Đừng để đồ quý trong cốp rồi gửi xe cả buổi; cốp xe tay ga phơi nắng nóng lên nhanh, không tốt cho điện thoại và pin dự phòng. Chưa quen khu này thì đọc trước bài [cung đường chạy quanh hồ Tây, điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-duong-chay-quanh-ho-tay-diem-dung-va-cho-gui-xe/). Muốn ngồi uống nước sau buổi chèo, dãy quán ở [làng Trích Sài bên Hồ Tây](/du-lich/2026/10/13/lang-trich-sai-ben-ho-tay-chua-thien-nien-va-day-quan-nhin-ho-ghe-bang-xe-may/) ở ngay gần.
 
 ## Giữ điện thoại, giấy tờ và chìa khóa xe khô ráo
 

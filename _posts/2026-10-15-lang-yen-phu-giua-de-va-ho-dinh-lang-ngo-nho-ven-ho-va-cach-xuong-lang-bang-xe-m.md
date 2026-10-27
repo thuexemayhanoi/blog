@@ -71,7 +71,7 @@ Sân đình là không gian thờ tự, không phải bãi xe; trước cổng �
 2. Dịp hội tháng Hai hay rằm, mùng một, gửi xe ở khu thoáng phía đường Thanh Niên rồi đi bộ vào làng.
 3. Khóa cổ, rút chìa, mang theo giấy tờ xe, chụp ảnh vị trí và vé xe vì ngõ làng na ná nhau.
 
-Kinh nghiệm chọn chỗ để xe quanh hồ có trong bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/).
+Kinh nghiệm chọn chỗ để xe quanh hồ có trong bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/).
 
 ## Người ở trọ quanh Yên Phụ: chuyện xe hằng ngày
 
@@ -79,6 +79,6 @@ Kinh nghiệm chọn chỗ để xe quanh hồ có trong bài [gửi xe khi đi 
 
 ## Ghép Yên Phụ vào một vòng Hồ Tây
 
-Sáng sớm ghé [chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i/) trước lúc đông khách, rồi xuống làng xem đình. Chiều muộn ngồi phố Yên Hoa ngắm hồ, tối quay lại theo đường Yên Phụ ăn [phở cuốn Ngũ Xã](/du-lich/2026/10/13/an-pho-cuon-ngu-xa-khi-chay-xe-ho-tay-truc-bach-di-gio-nao-de-xe-o-dau/). Còn thời gian thì chạy vòng sang [làng Trích Sài và chùa Thiên Niên](/du-lich/2026/10/13/lang-trich-sai-ben-ho-tay-chua-thien-nien-va-day-quan-nhin-ho-ghe-bang-xe-may/).
+Sáng sớm ghé [chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-duong-di/) trước lúc đông khách, rồi xuống làng xem đình. Chiều muộn ngồi phố Yên Hoa ngắm hồ, tối quay lại theo đường Yên Phụ ăn [phở cuốn Ngũ Xã](/du-lich/2026/10/13/an-pho-cuon-ngu-xa-khi-chay-xe-ho-tay-truc-bach-di-gio-nao-de-xe-o-dau/). Còn thời gian thì chạy vòng sang [làng Trích Sài và chùa Thiên Niên](/du-lich/2026/10/13/lang-trich-sai-ben-ho-tay-chua-thien-nien-va-day-quan-nhin-ho-ghe-bang-xe-may/).
 
 Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00, điện thoại 0942 467 674. Xem thêm cụm bài [Hồ Tây và lân cận](/du-lich/ho-tay/) hoặc chuyên mục [du lịch Hà Nội bằng xe máy](/du-lich/) để ghép thêm điểm cho cùng buổi.

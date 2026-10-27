@@ -84,9 +84,9 @@ Từ cửa hàng ở Bồ Đề, Long Biên, khách thường qua cầu Chương
 
 1. Chạy chậm từ cổng trường tới ngã ba Văn Cao, tìm một ngõ ra hồ để dừng ngắm.
 2. Đi tiếp về phía Bưởi, ghé [đền Đồng Cổ gắn với tích hội thề thời Lý](/du-lich/2026/10/15/den-dong-co-o-lang-buoi-di-xe-may-tu-thuy-khue-tich-hoi-the-va-cho-gui-xe/) ở đoạn cuối phố.
-3. Rẽ vào Trích Sài nghỉ chân, rồi nối sang [đường Lạc Long Quân buổi chiều](/du-lich/2026/10/04/uong-lac-long-quan-chay-xe-buoi-chieu-iem-dung-ven-ho/) để vòng tiếp quanh hồ.
+3. Rẽ vào Trích Sài nghỉ chân, rồi nối sang [đường Lạc Long Quân buổi chiều](/du-lich/2026/10/04/duong-lac-long-quan-chay-xe-buoi-chieu-diem-dung-ven-ho/) để vòng tiếp quanh hồ.
 
-Đoạn cuối gần chợ Bưởi thường chật nhất tuyến lúc tan tầm. Muốn khép trọn một vòng thì xem [cung đường chạy quanh hồ Tây và chỗ gửi xe](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/) để chọn chiều đi hợp giờ.
+Đoạn cuối gần chợ Bưởi thường chật nhất tuyến lúc tan tầm. Muốn khép trọn một vòng thì xem [cung đường chạy quanh hồ Tây và chỗ gửi xe](/du-lich/2026/09/28/cung-duong-chay-quanh-ho-tay-diem-dung-va-cho-gui-xe/) để chọn chiều đi hợp giờ.
 
 ## Lưu ý cho người thuê xe máy
 

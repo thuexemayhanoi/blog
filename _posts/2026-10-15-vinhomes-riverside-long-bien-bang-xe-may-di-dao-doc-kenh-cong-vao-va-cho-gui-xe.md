@@ -50,7 +50,7 @@ Chọn cổng theo việc bạn định làm:
 - Thấy biển "chỉ dành cho cư dân" hay bảo vệ nhắc thì đi chỗ khác, đừng tranh cãi.
 - Khóa cổ, rút chìa, mang mũ bảo hiểm và đồ giá trị theo người.
 
-Nếu chưa quen vào hầm gửi xe ở trung tâm thương mại, đọc trước kinh nghiệm [vào hầm gửi xe AEON Mall Long Biên](/du-lich/2026/10/11/aeon-mall-long-bien-bang-xe-may-uong-i-va-vao-ham-gui-xe/): dốc xuống, đường vòng hẹp và cách lấy vé khá giống nhau.
+Nếu chưa quen vào hầm gửi xe ở trung tâm thương mại, đọc trước kinh nghiệm [vào hầm gửi xe AEON Mall Long Biên](/du-lich/2026/10/11/aeon-mall-long-bien-bang-xe-may-duong-di-va-vao-ham-gui-xe/): dốc xuống, đường vòng hẹp và cách lấy vé khá giống nhau.
 
 ## Đi dạo dọc kênh: đoạn nào hợp gia đình, đoạn nào hợp cặp đôi
 
@@ -75,7 +75,7 @@ Ngày mưa thì bỏ đoạn kênh, chỉ đi trong trung tâm thương mại. �
 
 ## Chọn xe và lưu ý cho người thuê xe máy
 
-Đường trong khu đô thị phẳng, rộng, ít xe tải, nên là chỗ khá dễ cho người mới cầm lái. Nếu bạn vẫn đang tập, tham khảo bài [người mới tập xe tay ga ở Long Biên nên chạy đoạn nào](/du-lich/2026/10/11/nguoi-moi-tap-i-xe-tay-ga-khu-long-bien-co-oan-nao-de-chay/) trước khi chở người.
+Đường trong khu đô thị phẳng, rộng, ít xe tải, nên là chỗ khá dễ cho người mới cầm lái. Nếu bạn vẫn đang tập, tham khảo bài [người mới tập xe tay ga ở Long Biên nên chạy đoạn nào](/du-lich/2026/10/11/nguoi-moi-tap-di-xe-tay-ga-khu-long-bien-co-doan-nao-de-chay/) trước khi chở người.
 
 - Gia đình chở trẻ nhỏ nên dùng xe ga như Honda Vision, 200.000 đ/ngày, sàn để chân rộng và dễ lên xuống. Honda Wave 150.000 đ/ngày hợp người quen xe số. Các mẫu khác xem ở [bảng giá thuê xe](/bang-gia/).
 - Đặt cọc, giấy tờ và việc có kèm mũ bảo hiểm hay không, bạn hỏi cửa hàng khi đặt xe. Trẻ đi cùng nên có mũ vừa đầu.

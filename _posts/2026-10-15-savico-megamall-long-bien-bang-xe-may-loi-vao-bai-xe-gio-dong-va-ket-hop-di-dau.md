@@ -33,7 +33,7 @@ Người ở Bồ Đề, Ngọc Lâm chạy dọc Nguyễn Văn Cừ về nút C
 
 ### Từ phố cổ, Hoàn Kiếm qua cầu Chương Dương
 
-Từ Hoàn Kiếm, lên cầu Chương Dương sang bờ bắc, xuống cầu đi thẳng Nguyễn Văn Cừ tới Cầu Chui rồi làm như trên. Đây là hướng dễ nhớ nhất với người mới sang Long Biên lần đầu. Nếu phân vân nên qua cầu nào cho đỡ đông, bài [chọn cầu Long Biên, Chương Dương hay Vĩnh Tuy](/du-lich/2026/10/11/tu-long-bien-sang-noi-o-chon-cau-long-bien-chuong-duong-hay-vinh-tuy/) so sánh khá kỹ từng hướng.
+Từ Hoàn Kiếm, lên cầu Chương Dương sang bờ bắc, xuống cầu đi thẳng Nguyễn Văn Cừ tới Cầu Chui rồi làm như trên. Đây là hướng dễ nhớ nhất với người mới sang Long Biên lần đầu. Nếu phân vân nên qua cầu nào cho đỡ đông, bài [chọn cầu Long Biên, Chương Dương hay Vĩnh Tuy](/du-lich/2026/10/11/tu-long-bien-sang-noi-do-chon-cau-long-bien-chuong-duong-hay-vinh-tuy/) so sánh khá kỹ từng hướng.
 
 ### Dải phân cách và chỗ quay đầu
 
@@ -78,10 +78,10 @@ Một nhà ba người ở Việt Hưng đi mua đồ cuối tuần, chiều v�
 Từ Savico, nối thêm một điểm nữa mà không phải chạy xa:
 
 - **Ăn tối ở Việt Hưng:** chạy lên phía bắc chừng mười lăm phút, nhiều hàng ăn gia đình, dễ gửi xe; xem bài [khu Việt Hưng buổi tối bằng xe máy](/du-lich/2026/10/04/khu-viet-hung-buoi-toi-bang-xe-may-an-uong-va-gui-xe/).
-- **Chợ Bồ Đề cuối chiều:** mua thêm rau quả trước giờ chợ vãn, cách để xe có trong bài [đi chợ Bồ Đề bằng xe máy buổi chiều](/du-lich/2026/10/04/i-cho-bo-e-bang-xe-may-buoi-chieu-cuoi-ngay/).
+- **Chợ Bồ Đề cuối chiều:** mua thêm rau quả trước giờ chợ vãn, cách để xe có trong bài [đi chợ Bồ Đề bằng xe máy buổi chiều](/du-lich/2026/10/04/di-cho-bo-de-bang-xe-may-buoi-chieu-cuoi-ngay/).
 - **Một vòng sông Hồng:** còn sức thì chạy về phía cầu Long Biên ngắm sông lúc chập tối, đi đúng làn xe máy và không dừng giữa cầu.
 
-Nếu món cần mua không có ở Savico, AEON Mall phía Cổ Linh là lựa chọn kế tiếp; kinh nghiệm vào hầm bên đó có trong bài [AEON Mall Long Biên bằng xe máy](/du-lich/2026/10/11/aeon-mall-long-bien-bang-xe-may-uong-i-va-vao-ham-gui-xe/). Đừng dồn cả hai vào một chiều cuối tuần vì nơi nào cũng đông.
+Nếu món cần mua không có ở Savico, AEON Mall phía Cổ Linh là lựa chọn kế tiếp; kinh nghiệm vào hầm bên đó có trong bài [AEON Mall Long Biên bằng xe máy](/du-lich/2026/10/11/aeon-mall-long-bien-bang-xe-may-duong-di-va-vao-ham-gui-xe/). Đừng dồn cả hai vào một chiều cuối tuần vì nơi nào cũng đông.
 
 ## Thuê xe máy để đi buổi mua sắm
 

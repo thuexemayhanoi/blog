@@ -63,7 +63,7 @@ Với người thuê xe, có một chi tiết hay bị quên: cửa hàng Thuê 
 
 - Phố bích họa Phùng Hưng ngay đầu phố: các vòm cầu đường sắt có tranh vẽ, buổi sáng ánh sáng dịu và ít người đứng chụp ảnh.
 - Các phố nghề gần đó như Lãn Ông với mùi thuốc Bắc, Hàng Thiếc, Lò Rèn; bài [phố nghề nào ở phố cổ còn giữ nghề thật](/du-lich/2026/10/13/pho-nghe-nao-o-pho-co-con-giu-nghe-that-lo-ren-hang-thiec-lan-ong-hang-bac/) giúp bạn biết nên rẽ phố nào.
-- Một ly cà phê sau bữa phở là thói quen của nhiều người Hà Nội; quán tiện ghé có trong bài [đi cà phê phố cổ bằng xe máy](/du-lich/2026/10/01/i-ca-phe-pho-co-bang-xe-may-gui-xe-o-au-cho-tien/).
+- Một ly cà phê sau bữa phở là thói quen của nhiều người Hà Nội; quán tiện ghé có trong bài [đi cà phê phố cổ bằng xe máy](/du-lich/2026/10/01/di-ca-phe-pho-co-bang-xe-may-gui-xe-o-dau-cho-tien/).
 
 Nếu đi bộ lâu, hỏi lại chỗ gửi xe xem có trông đến trưa không, vì có điểm chỉ trông theo buổi.
 

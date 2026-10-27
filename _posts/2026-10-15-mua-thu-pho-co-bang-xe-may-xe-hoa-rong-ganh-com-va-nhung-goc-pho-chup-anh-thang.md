@@ -73,7 +73,7 @@ Chở về: để gói cốm trong túi giấy, treo móc phía trước hoặc 
 - Tháp Hòa Phong ở bờ phía đông, đối diện Bưu điện Hà Nội.
 - Hàng cây cổ thụ ven hồ, nắng lọc qua tán lá, hợp với ảnh chân dung.
 
-Ánh sáng đẹp nhất khoảng 6 giờ đến 7 giờ sáng và cuối chiều trước hoàng hôn. Dựng xe ở điểm trông giữ có vé, hỏi giờ bãi đóng, đừng dừng dưới lòng Đinh Tiên Hoàng để chụp một tấm cho nhanh. Chuyện gửi xe khi quanh hồ thành phố đi bộ có ở bài [phố đi bộ Hồ Gươm cuối tuần, xe máy gửi ở đâu](/du-lich/2026/10/09/pho-i-bo-ho-guom-cuoi-tuan-xe-may-gui-o-au/).
+Ánh sáng đẹp nhất khoảng 6 giờ đến 7 giờ sáng và cuối chiều trước hoàng hôn. Dựng xe ở điểm trông giữ có vé, hỏi giờ bãi đóng, đừng dừng dưới lòng Đinh Tiên Hoàng để chụp một tấm cho nhanh. Chuyện gửi xe khi quanh hồ thành phố đi bộ có ở bài [phố đi bộ Hồ Gươm cuối tuần, xe máy gửi ở đâu](/du-lich/2026/10/09/pho-di-bo-ho-guom-cuoi-tuan-xe-may-gui-o-dau/).
 
 Lưu ý tối cuối tuần: từ 1/7/2026 Hà Nội thí điểm vùng phát thải thấp ở phường Hoàn Kiếm. Trong khu vực 1, vùng bên trong đường bao phố đi bộ và chợ đêm, có cả Đinh Tiên Hoàng, xe máy và ô tô bị cấm từ 19 giờ đến 24 giờ tối thứ Sáu, thứ Bảy, Chủ nhật. Giai đoạn thí điểm kéo dài đến hết 31/12/2026, phạm vi và khung giờ có thể thay đổi, nên xem thông báo mới nhất và nhìn biển tại chỗ.
 

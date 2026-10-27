@@ -51,7 +51,7 @@ Vài kinh nghiệm khi đi chợ:
 - Hỏi giá trước khi người bán cân, nhất là với hoa quả và đồ khô.
 - Mua đồ nặng như gạo, hoa quả theo cân sau cùng, ngay trước khi lấy xe.
 
-Nếu bạn chỉ muốn xem chợ và ăn sáng, đến muộn hơn một chút sau 8 giờ 30 sẽ dễ đi bộ hơn, dù một số hàng tươi có thể đã vơi. Có thể so thêm với kinh nghiệm [đi chợ Quảng An buổi sáng](/du-lich/2026/10/04/cho-quang-an-buoi-sang-bang-xe-may-uong-i-va-gui-xe/) bên kia Hồ Tây, nơi nhịp chợ sáng cũng tương tự.
+Nếu bạn chỉ muốn xem chợ và ăn sáng, đến muộn hơn một chút sau 8 giờ 30 sẽ dễ đi bộ hơn, dù một số hàng tươi có thể đã vơi. Có thể so thêm với kinh nghiệm [đi chợ Quảng An buổi sáng](/du-lich/2026/10/04/cho-quang-an-buoi-sang-bang-xe-may-duong-di-va-gui-xe/) bên kia Hồ Tây, nơi nhịp chợ sáng cũng tương tự.
 
 ## Chỗ để xe quanh chùa và chợ
 
@@ -74,13 +74,13 @@ Một vài lưu ý khi chạy xe máy ở đây:
 - Đi chậm khi qua lối vào chợ, người đi bộ và xe đẩy có thể bước ra bất ngờ.
 - Nếu ứng dụng bản đồ dẫn vào ngõ quá hẹp, dừng lại kiểm tra, có khi đi vòng ra phố lớn rồi vào đầu kia còn nhanh hơn.
 
-Từ Long Biên sang, bạn có thể qua cầu Chương Dương rồi chạy vào khu phố cổ phía bắc, tìm về hướng Quán Thánh và hồ Trúc Bạch, phần cuối bật bản đồ để dẫn đúng vào phố Châu Long. Nếu muốn biết thêm các nhánh đường quanh hai hồ, xem bài [cung đường chạy quanh hồ Tây](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/).
+Từ Long Biên sang, bạn có thể qua cầu Chương Dương rồi chạy vào khu phố cổ phía bắc, tìm về hướng Quán Thánh và hồ Trúc Bạch, phần cuối bật bản đồ để dẫn đúng vào phố Châu Long. Nếu muốn biết thêm các nhánh đường quanh hai hồ, xem bài [cung đường chạy quanh hồ Tây](/du-lich/2026/09/28/cung-duong-chay-quanh-ho-tay-diem-dung-va-cho-gui-xe/).
 
 ## Ví dụ một sáng xuất phát từ Long Biên
 
 Giả sử bạn ở trọ bên Long Biên và muốn đi sớm. Bạn nhận xe từ chiều hôm trước, sáng hôm sau chạy qua cầu Chương Dương, vào phố Châu Long lúc trời còn mát. Gửi xe một lần, lễ chùa xong thì đi bộ sang chợ, ăn bát bún, mua ít hoa quả rồi mới quay lại lấy xe.
 
-Sau đó chạy một vòng hồ Trúc Bạch, ghé sang [chùa Trấn Quốc](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i/) trên đường Thanh Niên rồi về trước giờ trưa. Nếu còn sức, bạn có thể nối thêm bữa trưa [phở cuốn Ngũ Xã](/du-lich/2026/10/13/an-pho-cuon-ngu-xa-khi-chay-xe-ho-tay-truc-bach-di-gio-nao-de-xe-o-dau/) ngay bán đảo bên hồ Trúc Bạch.
+Sau đó chạy một vòng hồ Trúc Bạch, ghé sang [chùa Trấn Quốc](/du-lich/2026/10/01/ghe-chua-tran-quoc-bang-xe-may-gui-xe-va-duong-di/) trên đường Thanh Niên rồi về trước giờ trưa. Nếu còn sức, bạn có thể nối thêm bữa trưa [phở cuốn Ngũ Xã](/du-lich/2026/10/13/an-pho-cuon-ngu-xa-khi-chay-xe-ho-tay-truc-bach-di-gio-nao-de-xe-o-dau/) ngay bán đảo bên hồ Trúc Bạch.
 
 ## Chuẩn bị xe khi đi từ sáng sớm
 

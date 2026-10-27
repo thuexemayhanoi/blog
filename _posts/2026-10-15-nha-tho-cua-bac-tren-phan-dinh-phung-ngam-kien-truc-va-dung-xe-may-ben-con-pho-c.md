@@ -51,7 +51,7 @@ Khu Ba Đình có nhiều tuyến một chiều và đoạn hạn chế phương
 Đây là phần dễ sai nhất. Phố Phan Đình Phùng đẹp nhưng không phải chỗ để tấp xe tùy ý. Vài nguyên tắc:
 
 - **Không dừng, đỗ xe dưới lòng đường** để chụp ảnh, kể cả chỉ "một phút". Dừng đột ngột rất dễ bị va từ sau.
-- **Không để xe trên vỉa hè có biển cấm dừng, cấm đỗ.** Đọc kỹ biển trước khi dựng chân chống. Nếu chưa chắc ý nghĩa từng biển, xem bài [đọc biển cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/oc-bien-bao-cam-o-va-cam-dung-tren-via-he/).
+- **Không để xe trên vỉa hè có biển cấm dừng, cấm đỗ.** Đọc kỹ biển trước khi dựng chân chống. Nếu chưa chắc ý nghĩa từng biển, xem bài [đọc biển cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/doc-bien-bao-cam-do-va-cam-dung-tren-via-he/).
 - **Không chắn cổng nhà thờ, cổng nhà dân, lối đi bộ.** Những ngày có lễ, cổng là nơi người già, trẻ nhỏ ra vào.
 - **Ưu tiên điểm trông xe có vé.** Hỏi người dân hoặc bảo vệ quanh khu vực chỗ gửi xe gần nhất, gửi xong thì đi bộ quay lại.
 
@@ -81,8 +81,8 @@ Những ngày lễ lớn, người dự lễ rất đông, việc tìm chỗ g�
 
 ## Ghép nhà thờ Cửa Bắc vào một buổi dạo Ba Đình
 
-Nhà thờ nằm gần nhiều điểm đáng ghé. Cổng Cửa Bắc của thành cũ ở ngay trên Phan Đình Phùng, theo nhiều tài liệu vẫn còn dấu vết đạn pháo từ thời Pháp đánh thành. Đi thêm một quãng là tới [Hoàng thành Thăng Long](/du-lich/2026/09/28/en-hoang-thanh-thang-long-bang-xe-may-gui-xe-va-uong-i/), nơi có thể gửi xe một lần rồi đi bộ thăm lâu hơn.
+Nhà thờ nằm gần nhiều điểm đáng ghé. Cổng Cửa Bắc của thành cũ ở ngay trên Phan Đình Phùng, theo nhiều tài liệu vẫn còn dấu vết đạn pháo từ thời Pháp đánh thành. Đi thêm một quãng là tới [Hoàng thành Thăng Long](/du-lich/2026/09/28/den-hoang-thanh-thang-long-bang-xe-may-gui-xe-va-duong-di/), nơi có thể gửi xe một lần rồi đi bộ thăm lâu hơn.
 
-Nếu muốn so sánh hai phong cách nhà thờ trong cùng một buổi, có thể chạy tiếp xuống Hoàn Kiếm ghé [Nhà thờ Lớn Hà Nội](/du-lich/2026/09/30/en-nha-tho-lon-ha-noi-bang-xe-may-gui-xe-va-uong-i/). Một bên tháp đôi kiểu Gothic, một bên gác chuông đơn mái ngói, khác nhau rõ rệt.
+Nếu muốn so sánh hai phong cách nhà thờ trong cùng một buổi, có thể chạy tiếp xuống Hoàn Kiếm ghé [Nhà thờ Lớn Hà Nội](/du-lich/2026/09/30/den-nha-tho-lon-ha-noi-bang-xe-may-gui-xe-va-duong-di/). Một bên tháp đôi kiểu Gothic, một bên gác chuông đơn mái ngói, khác nhau rõ rệt.
 
 Ngắm nhà thờ Cửa Bắc trọn vẹn nhất là khi gửi xe ở nơi đúng chỗ, đi bộ dưới hàng cây và chọn thời điểm ngoài giờ lễ. Các điểm di tích và bảo tàng khác trong nội thành có trong mục [bảo tàng và di tích](/du-lich/bao-tang/), gợi ý đi chơi Hà Nội bằng xe máy ở chuyên mục [du lịch](/du-lich/).

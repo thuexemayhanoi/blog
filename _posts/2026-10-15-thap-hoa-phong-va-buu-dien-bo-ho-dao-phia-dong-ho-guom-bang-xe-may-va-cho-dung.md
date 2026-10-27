@@ -55,7 +55,7 @@ Một tình huống hay gặp: khách đặt điểm đến là chính tháp Hò
 
 Cuối tuần, các tuyến quanh Hồ Gươm, trong đó có Đinh Tiên Hoàng, thường thành phố đi bộ từ tối thứ Sáu đến hết Chủ nhật, xe máy không chạy vào được. Ngoài ra, Hà Nội đang thí điểm vùng phát thải thấp ở lõi Hoàn Kiếm từ ngày 1/7/2026. Theo thông báo của thành phố, các tuyến như Tràng Tiền, Hàng Khay cấm xe máy và ô tô từ 19 giờ đến 24 giờ các tối thứ Sáu, thứ Bảy, Chủ nhật.
 
-Vì vậy tối cuối tuần nên gửi xe ngoài vùng rào chắn rồi đi bộ vào. Phạm vi và khung giờ có thể thay đổi, cứ nhìn biển tại chỗ là chắc nhất. Chuyện chọn bãi khi phố đi bộ mở có ở bài [phố đi bộ Hồ Gươm cuối tuần, xe máy gửi ở đâu](/du-lich/2026/10/09/pho-i-bo-ho-guom-cuoi-tuan-xe-may-gui-o-au/).
+Vì vậy tối cuối tuần nên gửi xe ngoài vùng rào chắn rồi đi bộ vào. Phạm vi và khung giờ có thể thay đổi, cứ nhìn biển tại chỗ là chắc nhất. Chuyện chọn bãi khi phố đi bộ mở có ở bài [phố đi bộ Hồ Gươm cuối tuần, xe máy gửi ở đâu](/du-lich/2026/10/09/pho-di-bo-ho-guom-cuoi-tuan-xe-may-gui-o-dau/).
 
 ### Những chỗ không nên dừng
 

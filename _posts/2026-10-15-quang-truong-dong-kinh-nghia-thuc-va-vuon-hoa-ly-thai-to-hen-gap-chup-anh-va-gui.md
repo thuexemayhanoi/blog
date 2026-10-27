@@ -49,7 +49,7 @@ Cả hai nơi đều rộng, câu "gặp ở quảng trường" thì đúng là 
 - Hẹn bạn bè gặp ở bãi trước, sau đó cả nhóm cùng đi bộ.
 - Tính thêm thời gian đi bộ khi hẹn giờ.
 
-Bài [dạo phố đi bộ quanh Hồ Gươm cuối tuần: để xe máy ở đâu](/ky-nang/2026/10/11/i-dao-pho-i-bo-quanh-ho-guom-cuoi-tuan-e-xe-may-o-au-roi-i-bo-vao/) nói kỹ cách tìm chỗ gửi ngoài khu rào, và bài [gửi xe quanh Hồ Gươm](/du-lich/2026/09/28/gui-xe-quanh-ho-guom-gia-va-vi-tri/) có thêm lưu ý về các khu vực gửi.
+Bài [dạo phố đi bộ quanh Hồ Gươm cuối tuần: để xe máy ở đâu](/ky-nang/2026/10/11/di-dao-pho-di-bo-quanh-ho-guom-cuoi-tuan-de-xe-may-o-dau-roi-di-bo-vao/) nói kỹ cách tìm chỗ gửi ngoài khu rào, và bài [gửi xe quanh Hồ Gươm](/du-lich/2026/09/28/gui-xe-quanh-ho-guom-gia-va-vi-tri/) có thêm lưu ý về các khu vực gửi.
 
 ## Góc chụp ảnh ở hai điểm
 
@@ -61,7 +61,7 @@ Bài [dạo phố đi bộ quanh Hồ Gươm cuối tuần: để xe máy ở đ
 - Các nhóm nhảy, tập thể dục đang sinh hoạt ở đó, nếu muốn chụp cận mặt ai thì nên hỏi trước.
 - Không đứng giữa lối đi chính để tạo dáng lâu khi đông người.
 
-Muốn có ảnh chung với chiếc xe máy, đừng dắt xe vào sân vườn hoa hay quảng trường. Chọn một góc phố yên tĩnh trong phố cổ, dựng xe đúng chỗ rồi chụp. Bài [chụp ảnh phố cổ với xe máy](/du-lich/2026/09/28/chup-anh-pho-co-voi-xe-may-ep-o-au/) có gợi ý vài nơi.
+Muốn có ảnh chung với chiếc xe máy, đừng dắt xe vào sân vườn hoa hay quảng trường. Chọn một góc phố yên tĩnh trong phố cổ, dựng xe đúng chỗ rồi chụp. Bài [chụp ảnh phố cổ với xe máy](/du-lich/2026/09/28/chup-anh-pho-co-voi-xe-may-dep-o-dau/) có gợi ý vài nơi.
 
 ## Giờ nào hai nơi đông người
 

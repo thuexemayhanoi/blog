@@ -34,7 +34,7 @@ Từ khu Bồ Đề, quãng đường chừng mười mấy cây số, chạy kh
 3. Tới Trâu Quỳ, rẽ về phía bắc theo hướng Dương Xá, Phú Thị, rồi đi theo trục đường Ỷ Lan.
 4. Điểm dừng xe buýt mang tên Chợ Sủi, Đường Ỷ Lan là mốc nhận biết; chợ ở ngay khu này.
 
-Nên xem kỹ lộ trình tới chợ Sủi trên bản đồ trước khi đi; cần xem lại thì tấp vào lề an toàn rồi mới mở điện thoại, đừng cầm máy khi đang chạy. Đoạn trục đường 5 có nhiều xe tải, xe khách; cách giữ vị trí an toàn cạnh xe lớn tôi đã viết trong bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-iem-mu/). Ai muốn biết đoạn qua Trâu Quỳ cuối tuần thế nào thì xem thêm [chạy xe dọc trục đường 5 khu Trâu Quỳ](/du-lich/2026/10/04/chay-xe-doc-truc-uong-5-khu-trau-quy-cuoi-tuan/).
+Nên xem kỹ lộ trình tới chợ Sủi trên bản đồ trước khi đi; cần xem lại thì tấp vào lề an toàn rồi mới mở điện thoại, đừng cầm máy khi đang chạy. Đoạn trục đường 5 có nhiều xe tải, xe khách; cách giữ vị trí an toàn cạnh xe lớn tôi đã viết trong bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-diem-mu/). Ai muốn biết đoạn qua Trâu Quỳ cuối tuần thế nào thì xem thêm [chạy xe dọc trục đường 5 khu Trâu Quỳ](/du-lich/2026/10/04/chay-xe-doc-truc-duong-5-khu-trau-quy-cuoi-tuan/).
 
 Khi rời trục lớn vào đường làng, đường hẹp lại, có đoạn ngõ chỉ vừa hai xe máy tránh nhau. Giảm tốc, bấm còi nhẹ ở khúc cua khuất và để ý trẻ con, xe đạp chở hàng ra vào từ ngõ nhỏ.
 
@@ -69,11 +69,11 @@ Vào thăm thì ăn mặc kín đáo, nói khẽ, không leo trèo hay sờ vào
 
 ## Chở đồ chợ quê về Long Biên
 
-Đi chợ quê khó mà về tay không: bó rau, quả bí, chục trứng hay con gà làm sẵn. Trứng và đồ dễ vỡ để trong hộp cứng, kẹp giữa hai chân trên sàn xe tay ga; rau bó gọn cho vào túi buộc móc. Không treo túi ở tay lái, càng không chở gà sống buộc lủng lẳng sau yên. Mẹo xếp đồ chắc chắn có trong bài [chở hoa quả từ chợ Long Biên về bằng xe máy](/du-lich/2026/10/11/mua-hoa-qua-o-cho-long-bien-roi-cho-ve-bang-xe-may-xep-o-cho-gon-va-an-toan/).
+Đi chợ quê khó mà về tay không: bó rau, quả bí, chục trứng hay con gà làm sẵn. Trứng và đồ dễ vỡ để trong hộp cứng, kẹp giữa hai chân trên sàn xe tay ga; rau bó gọn cho vào túi buộc móc. Không treo túi ở tay lái, càng không chở gà sống buộc lủng lẳng sau yên. Mẹo xếp đồ chắc chắn có trong bài [chở hoa quả từ chợ Long Biên về bằng xe máy](/du-lich/2026/10/11/mua-hoa-qua-o-cho-long-bien-roi-cho-ve-bang-xe-may-xep-do-cho-gon-va-an-toan/).
 
 ## Chọn xe nào cho chuyến chợ Sủi
 
-Đường tới Phú Thị phần lớn là đường nhựa, nhưng khi vào ngõ làng thì hẹp và đông. Xe tay ga có cốp như Honda Vision tiện chở đồ chợ; xe số như Honda Wave lại gọn, nhẹ khi len ngõ. So sánh kỹ hơn có ở bài [đi làng nghề và đường làng Gia Lâm nên chọn Wave hay Vision](/du-lich/2026/10/11/i-lang-nghe-va-uong-lang-gia-lam-nen-chon-wave-hay-vision/).
+Đường tới Phú Thị phần lớn là đường nhựa, nhưng khi vào ngõ làng thì hẹp và đông. Xe tay ga có cốp như Honda Vision tiện chở đồ chợ; xe số như Honda Wave lại gọn, nhẹ khi len ngõ. So sánh kỹ hơn có ở bài [đi làng nghề và đường làng Gia Lâm nên chọn Wave hay Vision](/du-lich/2026/10/11/di-lang-nghe-va-duong-lang-gia-lam-nen-chon-wave-hay-vision/).
 
 Ai chưa có xe có thể thuê ở cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, điện thoại 0942 467 674, mở cửa 09:00 đến 21:00. Honda Wave 150.000 đ một ngày, Honda Vision 200.000 đ một ngày; tiền cọc và mũ bảo hiểm thì hỏi cửa hàng khi đặt xe để được xác nhận trực tiếp.
 

@@ -39,7 +39,7 @@ Một vài lưu ý khi chọn chỗ gửi:
 - Ghi nhớ tên phố hoặc chụp ảnh biển nhà nơi gửi xe. Lúc về tay bế con tay xách đồ, các ngã tư phố cổ trông rất giống nhau.
 - Mũ bảo hiểm của bé nên mang theo người hoặc gửi kèm xe theo cách bãi cho phép, đừng treo hờ trên gương.
 
-Cách tìm chỗ gửi ổn định trong ngõ phố cổ được nói kỹ trong bài [gửi xe máy trong ngõ phố cổ](/du-lich/2026/10/04/gui-xe-may-trong-ngo-pho-co-cach-chon-cho-quen/). Nếu đi đúng dịp Trung thu và định ghé cả Hàng Mã, xem thêm bài [đi xem Trung thu ở phố Hàng Mã bằng xe máy](/du-lich/2026/10/11/i-xem-trung-thu-o-pho-hang-ma-bang-xe-may-gio-i-va-cho-gui-xe/) để gom hai điểm vào một lần gửi xe.
+Cách tìm chỗ gửi ổn định trong ngõ phố cổ được nói kỹ trong bài [gửi xe máy trong ngõ phố cổ](/du-lich/2026/10/04/gui-xe-may-trong-ngo-pho-co-cach-chon-cho-quen/). Nếu đi đúng dịp Trung thu và định ghé cả Hàng Mã, xem thêm bài [đi xem Trung thu ở phố Hàng Mã bằng xe máy](/du-lich/2026/10/11/di-xem-trung-thu-o-pho-hang-ma-bang-xe-may-gio-di-va-cho-gui-xe/) để gom hai điểm vào một lần gửi xe.
 
 ## Dắt bé trên vỉa hè hẹp
 
@@ -76,7 +76,7 @@ Hộp to hơn nên buộc trên yên sau hoặc giá chở hàng, nhưng khi đ�
 
 ### Không để bé ôm hộp to khi ngồi sau
 
-Đây là điều nhiều phụ huynh vẫn làm vì tiện: bé ngồi sau, hai tay ôm hộp quà mới mua. Bé ôm hộp thì không bám được vào người lái, hộp to dễ bị gió đẩy, bé ngồi lệch và có thể ngã khi xe phanh. Nếu đi một xe chở cả bé, chỉ để bé cầm món nhỏ vừa một tay, có quai đeo gọn. Hộp lớn phải nằm ở sàn để chân hoặc chở chuyến riêng. Điều kiện để trẻ ngồi trên xe máy, mũ bảo hiểm cho bé, nên xem bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-ieu-kien-gi/) và kiểm tra quy định hiện hành.
+Đây là điều nhiều phụ huynh vẫn làm vì tiện: bé ngồi sau, hai tay ôm hộp quà mới mua. Bé ôm hộp thì không bám được vào người lái, hộp to dễ bị gió đẩy, bé ngồi lệch và có thể ngã khi xe phanh. Nếu đi một xe chở cả bé, chỉ để bé cầm món nhỏ vừa một tay, có quai đeo gọn. Hộp lớn phải nằm ở sàn để chân hoặc chở chuyến riêng. Điều kiện để trẻ ngồi trên xe máy, mũ bảo hiểm cho bé, nên xem bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-dieu-kien-gi/) và kiểm tra quy định hiện hành.
 
 ## Lái xe về: chậm, đều và tránh đường chen
 

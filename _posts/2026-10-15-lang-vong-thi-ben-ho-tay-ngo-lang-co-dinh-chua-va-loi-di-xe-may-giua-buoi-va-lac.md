@@ -65,13 +65,13 @@ Nguyên tắc: xe phải ở nơi có người trông, hoặc nơi đủ rộng 
 3. Không dựng xe chắn cửa nhà dân, miệng ngõ hay chỗ hàng quán bày đồ; một chiếc xe đỗ lệch cũng đủ làm xe cứu hỏa khó vào.
 4. Dừng nhanh chụp ảnh thì chọn đoạn rộng, bật xi nhan, tấp sát lề, không dừng giữa khúc cua.
 
-Rời xe thì khóa cổ, rút chìa, đừng để mũ hay túi trên yên. Chưa quen chuyện gửi xe quanh hồ thì đọc thêm bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/).
+Rời xe thì khóa cổ, rút chìa, đừng để mũ hay túi trên yên. Chưa quen chuyện gửi xe quanh hồ thì đọc thêm bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/).
 
 ## Một buổi sáng gợi ý quanh Võng Thị
 
 - Khoảng 7 giờ: vào từ phía Bưởi, ghé [làng Trích Sài và chùa Thiên Niên](/du-lich/2026/10/13/lang-trich-sai-ben-ho-tay-chua-thien-nien-va-day-quan-nhin-ho-ghe-bang-xe-may/) khi đường còn vắng.
 - Khoảng 8 giờ: gửi xe, đi bộ trong ngõ, vào đình rồi sang chùa.
-- Khoảng 9 giờ rưỡi: ra Lạc Long Quân, chạy chậm về hướng Nhật Tân theo gợi ý trong bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/uong-lac-long-quan-chay-xe-buoi-chieu-iem-dung-ven-ho/).
+- Khoảng 9 giờ rưỡi: ra Lạc Long Quân, chạy chậm về hướng Nhật Tân theo gợi ý trong bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/duong-lac-long-quan-chay-xe-buoi-chieu-diem-dung-ven-ho/).
 
 Vào đình chùa nên mặc kín vai, kín gối. Ai mê làng cổ có thể dành buổi khác cho [làng cổ Đông Ngạc ở Bắc Từ Liêm](/du-lich/2026/10/15/lang-co-dong-ngac-o-bac-tu-liem-dinh-lang-nha-tho-ho-khoa-bang-va-duong-xe-may-v/).
 

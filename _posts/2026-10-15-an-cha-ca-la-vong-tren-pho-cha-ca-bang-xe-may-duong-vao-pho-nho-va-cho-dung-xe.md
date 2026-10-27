@@ -61,7 +61,7 @@ Chưa quen nhịp phố cổ thì xem thêm bài [chạy xe máy trong phố c�
 - Quanh quán kín chỗ thì gửi ở phố rộng hơn rồi đi bộ, khoảng cách trong phố cổ rất ngắn.
 - Không đỗ chắn cửa nhà dân, lối thoát hiểm hay lối qua đường.
 
-Phí gửi xe khác nhau theo điểm và khung giờ, bạn hỏi giá khi nhận vé là yên tâm nhất. Hai bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-e-xe-o-au/) và [gửi xe máy trong ngõ phố cổ](/du-lich/2026/10/04/gui-xe-may-trong-ngo-pho-co-cach-chon-cho-quen/) có thêm mẹo chọn chỗ gửi quen.
+Phí gửi xe khác nhau theo điểm và khung giờ, bạn hỏi giá khi nhận vé là yên tâm nhất. Hai bài [ăn uống quanh phố cổ để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-de-xe-o-dau/) và [gửi xe máy trong ngõ phố cổ](/du-lich/2026/10/04/gui-xe-may-trong-ngo-pho-co-cach-chon-cho-quen/) có thêm mẹo chọn chỗ gửi quen.
 
 ## Chọn giờ đi cho đỡ chen
 

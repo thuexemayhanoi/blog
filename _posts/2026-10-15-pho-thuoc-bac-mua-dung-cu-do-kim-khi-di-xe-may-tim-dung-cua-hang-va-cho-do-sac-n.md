@@ -66,7 +66,7 @@ Dao, kéo, đục, mũi khoan, cưa tay, tua vít đầu nhọn, thanh sắt c�
 - **Cốp xe ga** là chỗ tốt nhất cho dụng cụ ngắn đã bọc kín: kín, không rơi, không chạm người.
 - **Sàn để chân xe ga** hợp với hộp dụng cụ nặng, đặt nằm ngang, kẹp giữa hai chân.
 - **Giá sau hoặc yên sau** cho thùng hàng lớn hơn, buộc dây chéo hai lần, lắc thử không xê dịch mới chạy.
-- **Đồ dài** như thanh nhôm, ống, cây thước dài: buộc dọc theo thân xe, không chĩa ngang, không ló ra phía trước, không che đèn hay biển số. Nếu quá dài so với xe, nên nhờ cửa hàng chuyển hoặc gọi xe chở hàng. Quy định về hàng cồng kềnh xem bài [buộc đồ cồng kềnh lên xe máy thuê thế nào cho an toàn](/an-toan-phap-ly/2026/10/07/buoc-o-cong-kenh-len-xe-may-thue-the-nao-cho-an-toan/).
+- **Đồ dài** như thanh nhôm, ống, cây thước dài: buộc dọc theo thân xe, không chĩa ngang, không ló ra phía trước, không che đèn hay biển số. Nếu quá dài so với xe, nên nhờ cửa hàng chuyển hoặc gọi xe chở hàng. Quy định về hàng cồng kềnh xem bài [buộc đồ cồng kềnh lên xe máy thuê thế nào cho an toàn](/an-toan-phap-ly/2026/10/07/buoc-do-cong-kenh-len-xe-may-thue-the-nao-cho-an-toan/).
 
 ## Chạy xe về: rời phố cổ bằng đường rộng
 

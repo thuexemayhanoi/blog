@@ -39,7 +39,7 @@ Cách gọn nhất là gửi xe một lần ở điểm trông giữ có vé, c�
 
 Từ 1/7/2026, Hà Nội thí điểm vùng phát thải thấp ở lõi Hoàn Kiếm. Khu vực 1 gồm 12 tuyến phố, trong đó có Tràng Tiền, Hàng Khay, Ngô Quyền, Lý Thái Tổ, Lê Thái Tổ; trên các tuyến này xe máy và ô tô bị cấm lưu thông từ 19 giờ đến 24 giờ các tối thứ Sáu, thứ Bảy, Chủ nhật. Nói cách khác, tối cuối tuần bạn chỉ đến được 44 Tràng Tiền và 18 Ngô Quyền bằng chân.
 
-Hàng Bài không nằm trong danh sách 12 tuyến ấy, nhưng cứ nhìn biển và rào chắn tại chỗ. Cách an toàn là gửi xe ở bãi ngoài vùng cấm rồi đi bộ vào. Giai đoạn thí điểm kéo dài đến hết 31/12/2026, phạm vi và khung giờ có thể thay đổi, hãy xem thông báo mới nhất của thành phố trước khi đi. Chuyện xe để đâu khi phố đi bộ mở có ở bài [phố đi bộ Hồ Gươm cuối tuần, xe máy gửi ở đâu](/du-lich/2026/10/09/pho-i-bo-ho-guom-cuoi-tuan-xe-may-gui-o-au/).
+Hàng Bài không nằm trong danh sách 12 tuyến ấy, nhưng cứ nhìn biển và rào chắn tại chỗ. Cách an toàn là gửi xe ở bãi ngoài vùng cấm rồi đi bộ vào. Giai đoạn thí điểm kéo dài đến hết 31/12/2026, phạm vi và khung giờ có thể thay đổi, hãy xem thông báo mới nhất của thành phố trước khi đi. Chuyện xe để đâu khi phố đi bộ mở có ở bài [phố đi bộ Hồ Gươm cuối tuần, xe máy gửi ở đâu](/du-lich/2026/10/09/pho-di-bo-ho-guom-cuoi-tuan-xe-may-gui-o-dau/).
 
 ### Những chỗ không nên dừng
 

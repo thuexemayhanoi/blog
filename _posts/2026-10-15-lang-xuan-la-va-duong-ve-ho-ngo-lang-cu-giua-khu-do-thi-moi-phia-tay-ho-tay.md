@@ -80,9 +80,9 @@ Ví dụ hai vợ chồng ở Long Biên muốn đi nửa ngày không vội:
 1. Nhận xe từ chiều hôm trước, vì tiệm mở cửa từ 9 giờ.
 2. Khoảng 7 giờ xuất phát theo vòng phía bắc, vào phố Vệ Hồ lúc nắng sớm, dừng ở vườn hoa cuối phố.
 3. Khoảng 8 giờ rưỡi vào lõi làng, gửi xe, đi bộ tới đình Quán La và chùa Khai Nguyên.
-4. Ra Lạc Long Quân, đi tiếp theo gợi ý [đường Lạc Long Quân ven hồ](/du-lich/2026/10/04/uong-lac-long-quan-chay-xe-buoi-chieu-iem-dung-ven-ho/), hoặc rẽ xuống phía nam xem [làng Võng Thị bên Hồ Tây](/du-lich/2026/10/15/lang-vong-thi-ben-ho-tay-ngo-lang-co-dinh-chua-va-loi-di-xe-may-giua-buoi-va-lac/).
+4. Ra Lạc Long Quân, đi tiếp theo gợi ý [đường Lạc Long Quân ven hồ](/du-lich/2026/10/04/duong-lac-long-quan-chay-xe-buoi-chieu-diem-dung-ven-ho/), hoặc rẽ xuống phía nam xem [làng Võng Thị bên Hồ Tây](/du-lich/2026/10/15/lang-vong-thi-ben-ho-tay-ngo-lang-co-dinh-chua-va-loi-di-xe-may-giua-buoi-va-lac/).
 
-Còn sức thì ghé [chùa Tảo Sách ở Phú Thượng](/du-lich/2026/10/15/chua-tao-sach-o-phu-thuong-bang-xe-may-chay-ven-de-ngo-vao-chua-va-cho-de-xe/), ngay gần cuối phố Vệ Hồ, hoặc chạy trọn [tuyến quanh Hồ Tây sáng sớm](/du-lich/2026/10/05/chay-xe-quanh-ho-tay-sang-som-tuyen-va-iem-dung/).
+Còn sức thì ghé [chùa Tảo Sách ở Phú Thượng](/du-lich/2026/10/15/chua-tao-sach-o-phu-thuong-bang-xe-may-chay-ven-de-ngo-vao-chua-va-cho-de-xe/), ngay gần cuối phố Vệ Hồ, hoặc chạy trọn [tuyến quanh Hồ Tây sáng sớm](/du-lich/2026/10/05/chay-xe-quanh-ho-tay-sang-som-tuyen-va-diem-dung/).
 
 ## Gửi xe và lưu ý khi đi bằng xe máy thuê
 

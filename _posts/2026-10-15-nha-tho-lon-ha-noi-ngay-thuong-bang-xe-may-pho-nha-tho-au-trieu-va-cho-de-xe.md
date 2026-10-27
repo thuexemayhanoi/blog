@@ -36,7 +36,7 @@ Không có một đường vào duy nhất. Cách hợp lý là xuất phát t�
 2. **Từ phía Hàng Bông, Hàng Gai:** đi vào theo hướng Lý Quốc Sư hoặc Ấu Triệu, gửi xe sớm vì càng vào sâu phố càng hẹp.
 3. **Từ phía Tràng Thi, Quán Sứ:** tiếp cận theo Nhà Chung.
 
-Chiều đi của từng phố có thể là một chiều hoặc thay đổi theo phân luồng, nên đọc biển ở đầu mỗi phố thay vì tin hoàn toàn bản đồ. Gặp biển cấm hoặc phố đông người thì vòng ra trục khác, không lách ngược chiều. Bài [biển báo cấm xe máy hay gặp khi đi phố cổ](/an-toan-phap-ly/2026/10/09/bien-bao-cam-xe-may-gap-khi-i-pho-co-xu-ly-sao/) giải thích từng loại biển.
+Chiều đi của từng phố có thể là một chiều hoặc thay đổi theo phân luồng, nên đọc biển ở đầu mỗi phố thay vì tin hoàn toàn bản đồ. Gặp biển cấm hoặc phố đông người thì vòng ra trục khác, không lách ngược chiều. Bài [biển báo cấm xe máy hay gặp khi đi phố cổ](/an-toan-phap-ly/2026/10/09/bien-bao-cam-xe-may-gap-khi-di-pho-co-xu-ly-sao/) giải thích từng loại biển.
 
 Ngày thường, giữa buổi sáng và đầu giờ chiều là lúc khu vực dễ chạy nhất. Từ chiều muộn, khách ra ngồi cà phê, trà quanh nhà thờ đông dần, vỉa hè Ấu Triệu và phố Nhà Thờ gần như kín ghế, xe máy nên dừng ở vòng ngoài.
 
@@ -49,7 +49,7 @@ Tôi không chỉ đích danh một bãi nào, vì chỗ trông xe trong phố c
 - **Không tự dựng trên vỉa hè trước quán** chỉ vì thấy có xe khác. Nếu quán có người coi xe cho khách, hỏi rõ rồi mới để.
 - **Khóa cổ, rút chìa, chụp ảnh vé và tên phố.** Các phố quanh đây na ná nhau, ảnh chụp giúp bạn tìm lại xe nhanh.
 
-Gửi một lần cho cả buổi rồi đi bộ là cách gọn nhất. Từ nhà thờ, vài phút đi bộ là tới [đền Lý Quốc Sư](/du-lich/2026/10/15/den-ly-quoc-su-giua-pho-co-tham-ngoi-den-tho-thien-su-nguyen-minh-khong-bang-xe/), và theo phố Nhà Thờ ra Hàng Trống là thấy hồ. Những gợi ý chung về đường đi và khung giờ cho khu này có trong bài [đến Nhà thờ Lớn Hà Nội bằng xe máy](/du-lich/2026/09/30/en-nha-tho-lon-ha-noi-bang-xe-may-gui-xe-va-uong-i/).
+Gửi một lần cho cả buổi rồi đi bộ là cách gọn nhất. Từ nhà thờ, vài phút đi bộ là tới [đền Lý Quốc Sư](/du-lich/2026/10/15/den-ly-quoc-su-giua-pho-co-tham-ngoi-den-tho-thien-su-nguyen-minh-khong-bang-xe/), và theo phố Nhà Thờ ra Hàng Trống là thấy hồ. Những gợi ý chung về đường đi và khung giờ cho khu này có trong bài [đến Nhà thờ Lớn Hà Nội bằng xe máy](/du-lich/2026/09/30/den-nha-tho-lon-ha-noi-bang-xe-may-gui-xe-va-duong-di/).
 
 ## Tôn trọng giờ lễ và trang phục khi vào thăm
 
