@@ -57,7 +57,7 @@ Xem chim xong thường đã sẩm tối, cộng thêm thời gian chạy về t
 
 ### Phương án ngủ lại Ninh Bình
 
-Với gia đình có trẻ nhỏ, đây là cách tôi khuyên nhất. Xem chim xong, ăn tối ở khu Tam Cốc, ngủ một đêm rồi sáng hôm sau đi tiếp hoặc về sớm. Bạn có thể dành buổi sáng cho [khu Tràng An, nhớ xem trước chỗ đỗ xe](/cung-duong/2026/10/07/i-khu-trang-an-bang-xe-may-thue-o-xe-o-au/) hoặc [cố đô Hoa Lư](/cung-duong/2026/10/13/co-do-hoa-lu-bang-xe-may-den-vua-dinh-vua-le-va-cach-ghep-voi-trang-an/), rồi về Hà Nội trước trưa. Cân nhắc giữa đi về và ngủ lại, đọc thêm bài [điểm nào quanh Hà Nội đáng dành hai ngày](/cung-duong/2026/10/13/di-ve-trong-ngay-hay-ngu-lai-diem-nao-quanh-ha-noi-dang-danh-hai-ngay/).
+Với gia đình có trẻ nhỏ, đây là cách tôi khuyên nhất. Xem chim xong, ăn tối ở khu Tam Cốc, ngủ một đêm rồi sáng hôm sau đi tiếp hoặc về sớm. Bạn có thể dành buổi sáng cho [khu Tràng An, nhớ xem trước chỗ đỗ xe](/cung-duong/2026/10/07/di-khu-trang-an-bang-xe-may-thue-do-xe-o-dau/) hoặc [cố đô Hoa Lư](/cung-duong/2026/10/13/co-do-hoa-lu-bang-xe-may-den-vua-dinh-vua-le-va-cach-ghep-voi-trang-an/), rồi về Hà Nội trước trưa. Cân nhắc giữa đi về và ngủ lại, đọc thêm bài [điểm nào quanh Hà Nội đáng dành hai ngày](/cung-duong/2026/10/13/di-ve-trong-ngay-hay-ngu-lai-diem-nao-quanh-ha-noi-dang-danh-hai-ngay/).
 
 ### Phương án về ngay trong tối
 

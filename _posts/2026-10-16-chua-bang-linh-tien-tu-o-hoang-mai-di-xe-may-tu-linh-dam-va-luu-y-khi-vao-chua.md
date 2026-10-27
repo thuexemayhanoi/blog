@@ -88,7 +88,7 @@ Muốn vào bên trong bảo tháp Báo Ân, hãy hỏi nhà chùa, vì không p
 
 Ngày rằm và mùng một âm lịch, chùa thường đông từ sáng sớm. Nếu chỉ muốn thăm cảnh, chọn ngày thường, buổi sáng sau giờ cao điểm hoặc chiều muộn là yên nhất. Nắng gắt thì sân quanh tháp khá nóng, mang nước và mũ.
 
-Kinh nghiệm đi lễ ngày đông đã có trong bài [Phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một](/du-lich/2026/10/11/phu-tay-ho-va-chua-kim-lien-ngay-ram-mung-mot-i-xe-may-the-nao-cho-o-ong/), áp dụng được cho chùa Bằng. Muốn so cách gửi xe ở một ngôi chùa nội thành, đọc thêm bài [thăm chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/09/tham-chua-tran-quoc-bang-xe-may-cho-gui-xe-o-au/). Nếu đã quen đường phía nam, có thể đi xa hơn tới [chùa Đậu ở Thường Tín](/du-lich/2026/10/15/chua-dau-o-thuong-tin-bang-xe-may-di-theo-quoc-lo-1a-cu-va-luu-y-khi-vao-chua/).
+Kinh nghiệm đi lễ ngày đông đã có trong bài [Phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một](/du-lich/2026/10/11/phu-tay-ho-va-chua-kim-lien-ngay-ram-mung-mot-di-xe-may-the-nao-cho-do-dong/), áp dụng được cho chùa Bằng. Muốn so cách gửi xe ở một ngôi chùa nội thành, đọc thêm bài [thăm chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/09/tham-chua-tran-quoc-bang-xe-may-cho-gui-xe-o-dau/). Nếu đã quen đường phía nam, có thể đi xa hơn tới [chùa Đậu ở Thường Tín](/du-lich/2026/10/15/chua-dau-o-thuong-tin-bang-xe-may-di-theo-quoc-lo-1a-cu-va-luu-y-khi-vao-chua/).
 
 ## Lưu ý cho người thuê xe máy
 

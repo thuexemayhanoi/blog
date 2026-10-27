@@ -31,11 +31,11 @@ Với trạm y tế phường, lịch tiêm chủng mở rộng thường theo n
 
 Với trẻ nhỏ, cách an toàn nhất là có hai người lớn: một người lái, một người ngồi sau bế hoặc ôm bé. Người ngồi sau giữ bé chắc tay, quay lưng bé về phía người lái, che nắng gió cho bé. Không để trẻ nhỏ đứng hoặc ngồi phía trước người lái nếu không có ghế phù hợp và người lớn kèm. Với trẻ đã lớn, có thể ngồi giữa người lái và người lớn ngồi sau.
 
-Quy định về trẻ em ngồi trên xe máy, độ tuổi và cách chở được nói ở bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-ieu-kien-gi/ "Trẻ em ngồi trên xe máy cần điều kiện gì"). Vị trí ngồi và tốc độ khi chở trẻ trên xe ga có ở bài [chở trẻ nhỏ bằng Honda Vision thuê: vị trí ngồi, mũ bảo hiểm trẻ em và tốc độ](/xe-may/2026/10/14/cho-tre-nho-bang-honda-vision-thue-vi-tri-ngoi-mu-bao-hiem-tre-em-va-toc-do-tron/ "Chở trẻ nhỏ bằng xe ga"), áp dụng tương tự cho Click.
+Quy định về trẻ em ngồi trên xe máy, độ tuổi và cách chở được nói ở bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-dieu-kien-gi/ "Trẻ em ngồi trên xe máy cần điều kiện gì"). Vị trí ngồi và tốc độ khi chở trẻ trên xe ga có ở bài [chở trẻ nhỏ bằng Honda Vision thuê: vị trí ngồi, mũ bảo hiểm trẻ em và tốc độ](/xe-may/2026/10/14/cho-tre-nho-bang-honda-vision-thue-vi-tri-ngoi-mu-bao-hiem-tre-em-va-toc-do-tron/ "Chở trẻ nhỏ bằng xe ga"), áp dụng tương tự cho Click.
 
 ## Mũ bảo hiểm cho bé
 
-Trẻ đủ tuổi phải đội mũ bảo hiểm khi ngồi trên xe máy. Chọn mũ dành riêng cho trẻ em, vừa đầu, cài quai đúng. Mũ người lớn quá rộng sẽ xoay, che mắt, không bảo vệ được. Thông tin về mũ cho trẻ nhỏ có ở bài [đội mũ bảo hiểm cho trẻ em dưới sáu tuổi khi đi xe máy](/an-toan-phap-ly/2026/10/07/oi-mu-bao-hiem-cho-tre-em-duoi-sau-tuoi-khi-i-xe-may/ "Đội mũ bảo hiểm cho trẻ em dưới sáu tuổi").
+Trẻ đủ tuổi phải đội mũ bảo hiểm khi ngồi trên xe máy. Chọn mũ dành riêng cho trẻ em, vừa đầu, cài quai đúng. Mũ người lớn quá rộng sẽ xoay, che mắt, không bảo vệ được. Thông tin về mũ cho trẻ nhỏ có ở bài [đội mũ bảo hiểm cho trẻ em dưới sáu tuổi khi đi xe máy](/an-toan-phap-ly/2026/10/07/doi-mu-bao-hiem-cho-tre-em-duoi-sau-tuoi-khi-di-xe-may/ "Đội mũ bảo hiểm cho trẻ em dưới sáu tuổi").
 
 ## Đồ mang theo, xếp gọn trong cốp Click
 
@@ -70,6 +70,6 @@ Thời tiết Hà Nội thay đổi nhiều theo mùa, và trẻ nhỏ chịu n�
 
 ## Khi cả nhà ở Hà Nội ngắn ngày
 
-Nếu bạn đưa con từ quê lên Hà Nội tiêm một mũi ở trung tâm tiêm chủng lớn, hoặc đang ở Hà Nội vài tuần cùng gia đình, thuê một chiếc xe ga gọn sẽ chủ động hơn nhiều so với gọi xe từng chuyến với trẻ nhỏ. Bài [thuê xe máy cho gia đình có trẻ nhỏ đi cùng](/thue-xe/2026/09/29/thue-xe-may-cho-gia-inh-co-tre-nho-i-cung/ "Thuê xe máy cho gia đình có trẻ nhỏ") có thêm gợi ý chọn xe. Trên bảng giá của Nguyễn Tú, dòng Honda Click và Yamaha Mio có giá ngày 150.000 đồng, giá tuần 700.000 đồng; tiền cọc xác nhận trực tiếp. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, số điện thoại 0942 467 674.
+Nếu bạn đưa con từ quê lên Hà Nội tiêm một mũi ở trung tâm tiêm chủng lớn, hoặc đang ở Hà Nội vài tuần cùng gia đình, thuê một chiếc xe ga gọn sẽ chủ động hơn nhiều so với gọi xe từng chuyến với trẻ nhỏ. Bài [thuê xe máy cho gia đình có trẻ nhỏ đi cùng](/thue-xe/2026/09/29/thue-xe-may-cho-gia-dinh-co-tre-nho-di-cung/ "Thuê xe máy cho gia đình có trẻ nhỏ") có thêm gợi ý chọn xe. Trên bảng giá của Nguyễn Tú, dòng Honda Click và Yamaha Mio có giá ngày 150.000 đồng, giá tuần 700.000 đồng; tiền cọc xác nhận trực tiếp. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, số điện thoại 0942 467 674.
 
 Các bài khác về dòng xe này có ở trang [Honda Click](/xe-may/honda-click/ "Honda Click"), còn toàn bộ thông tin về các dòng xe ở mục [xe máy](/xe-may/ "Xe máy cho thuê ở Hà Nội").

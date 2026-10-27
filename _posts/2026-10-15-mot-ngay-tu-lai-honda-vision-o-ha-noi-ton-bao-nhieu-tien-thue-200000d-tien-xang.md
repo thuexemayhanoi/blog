@@ -37,7 +37,7 @@ Một vài điểm nên hỏi khi đặt xe để tránh hiểu nhầm:
 - **Mũ bảo hiểm, áo mưa**: hỏi tiệm có đưa kèm không, để khỏi phải mua thêm.
 - **Đặt cọc**: mức cọc và hình thức cọc được xác nhận trực tiếp với tiệm. Khi để lại tiền hoặc giấy tờ, hãy xin biên nhận.
 
-Nếu bạn còn đang phân vân giữa thuê ngày, thuê tuần hay thuê tháng cho chuyến dài hơn, bài [so sánh gói thuê Honda Vision theo ngày, tuần, tháng](/xe-may/2026/10/11/gia-thue-honda-vision-so-sanh-goi-ngay-tuan-thang-e-chon-cho-ung/) sẽ giúp bạn chọn đúng.
+Nếu bạn còn đang phân vân giữa thuê ngày, thuê tuần hay thuê tháng cho chuyến dài hơn, bài [so sánh gói thuê Honda Vision theo ngày, tuần, tháng](/xe-may/2026/10/11/gia-thue-honda-vision-so-sanh-goi-ngay-tuan-thang-de-chon-cho-dung/) sẽ giúp bạn chọn đúng.
 
 ## Tiền xăng: không có con số cố định, hãy tự ước lượng
 
@@ -55,7 +55,7 @@ Mỗi lần ghé cây xăng, ghi vào điện thoại hai thứ: số tiền b�
 
 Lấy tiền xăng đã ghi chia cho số km đã chạy, bạn có chi phí xăng trên mỗi km của chiếc xe đó, với giá xăng đúng lúc đó. Nếu hôm sau đi tiếp, chỉ cần ước lượng quãng đường dự định rồi nhân lên. Cách này chính xác hơn mọi bảng tính chung vì nó dùng đúng xe bạn đang đi và đúng cách bạn chạy.
 
-Một lộ trình nội thành kiểu phố cổ, Hồ Tây, Ba Đình thường không dài, nên tiền xăng trong ngày thường không phải khoản lớn. Điều quan trọng hơn là đừng để xe cạn xăng giữa đường; bài [canh kim xăng Honda Vision](/xe-may/2026/10/11/canh-kim-xang-honda-vision-ghe-cay-xang-luc-nao-e-khong-chet-may-giua-uong/) chỉ cách chọn lúc ghé cây xăng.
+Một lộ trình nội thành kiểu phố cổ, Hồ Tây, Ba Đình thường không dài, nên tiền xăng trong ngày thường không phải khoản lớn. Điều quan trọng hơn là đừng để xe cạn xăng giữa đường; bài [canh kim xăng Honda Vision](/xe-may/2026/10/11/canh-kim-xang-honda-vision-ghe-cay-xang-luc-nao-de-khong-chet-may-giua-duong/) chỉ cách chọn lúc ghé cây xăng.
 
 ## Phí gửi xe: đếm số điểm dừng trước khi đi
 

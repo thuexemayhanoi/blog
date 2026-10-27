@@ -42,7 +42,7 @@ Cách ước số ngày cần thuê cho người học lái có ở bài [giá t
 - **Giữ làn bên phải,** cách xa đuôi xe tải để có tầm nhìn và tránh bụi, đá văng.
 - **Cẩn thận với đường gom chưa có đèn** lúc trời còn tối; bật đèn, đi chậm, chú ý ổ gà và xe ngược chiều.
 
-Kinh nghiệm đi làm xa ra ngoại thành mỗi ngày, với các hướng như Hòa Lạc, Sóc Sơn, Mê Linh, có ở bài [đi làm xa ngoại thành bằng xe máy thuê tháng](/thue-xe/2026/10/11/i-lam-xa-ngoai-thanh-bang-xe-may-thue-thang-hoa-lac-soc-son-me-linh/ "Đi làm xa ngoại thành bằng xe máy thuê tháng").
+Kinh nghiệm đi làm xa ra ngoại thành mỗi ngày, với các hướng như Hòa Lạc, Sóc Sơn, Mê Linh, có ở bài [đi làm xa ngoại thành bằng xe máy thuê tháng](/thue-xe/2026/10/11/di-lam-xa-ngoai-thanh-bang-xe-may-thue-thang-hoa-lac-soc-son-me-linh/ "Đi làm xa ngoại thành bằng xe máy thuê tháng").
 
 ## Ca học sáng sớm: chuẩn bị từ tối hôm trước
 
@@ -55,7 +55,7 @@ Ca sớm nghĩa là bạn xuất phát khi trời còn tối vào mùa đông, �
 
 ## Gửi xe ở sân tập
 
-Phần lớn sân tập có chỗ để xe cho học viên, nhưng cách tổ chức mỗi nơi một khác: có nơi có người trông, có nơi chỉ là khoảng sân trống. Lần đầu tới, hỏi nhân viên hoặc giáo viên chỗ để xe và hỏi có thu phí gửi không. Dựng xe đúng khu, không để trong khu vực xe tập chạy vào ra. Khóa cổ xe, rút chìa, không để mũ bảo hiểm hay đồ có giá trị trên xe. Nếu sân ở nơi không có người trông, chụp ảnh vị trí xe và cân nhắc mang theo khóa đĩa; cách dùng khóa đĩa có ở bài [khóa đĩa phanh cho xe máy: cách dùng và nhớ tháo trước khi lên xe](/ky-nang/2026/10/11/khoa-ia-phanh-cho-xe-may-cach-dung-va-nho-thao-truoc-khi-len-xe/ "Khóa đĩa phanh cho xe máy").
+Phần lớn sân tập có chỗ để xe cho học viên, nhưng cách tổ chức mỗi nơi một khác: có nơi có người trông, có nơi chỉ là khoảng sân trống. Lần đầu tới, hỏi nhân viên hoặc giáo viên chỗ để xe và hỏi có thu phí gửi không. Dựng xe đúng khu, không để trong khu vực xe tập chạy vào ra. Khóa cổ xe, rút chìa, không để mũ bảo hiểm hay đồ có giá trị trên xe. Nếu sân ở nơi không có người trông, chụp ảnh vị trí xe và cân nhắc mang theo khóa đĩa; cách dùng khóa đĩa có ở bài [khóa đĩa phanh cho xe máy: cách dùng và nhớ tháo trước khi lên xe](/ky-nang/2026/10/11/khoa-dia-phanh-cho-xe-may-cach-dung-va-nho-thao-truoc-khi-len-xe/ "Khóa đĩa phanh cho xe máy").
 
 ## Từ ô tô quay lại xe máy: những thói quen dễ lẫn
 

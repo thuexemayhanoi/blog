@@ -52,7 +52,7 @@ Tuyệt đối không dựng xe chắn cửa nhà dân hay đỗ đôi trong lò
 
 ### Ngày rằm, mùng một và ngày lễ
 
-Ngày rằm, mùng một âm lịch và các dịp lễ của chùa, người đi lễ đông, ngõ dễ kẹt từ đầu phố. Nếu chỉ đi xem kiến trúc, hãy chọn ngày thường, buổi sáng. Muốn hiểu cách các chùa lớn trong nội đô xoay xở chuyện xe cộ ngày lễ, xem kinh nghiệm ở bài [Phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một](/du-lich/2026/10/11/phu-tay-ho-va-chua-kim-lien-ngay-ram-mung-mot-i-xe-may-the-nao-cho-o-ong/).
+Ngày rằm, mùng một âm lịch và các dịp lễ của chùa, người đi lễ đông, ngõ dễ kẹt từ đầu phố. Nếu chỉ đi xem kiến trúc, hãy chọn ngày thường, buổi sáng. Muốn hiểu cách các chùa lớn trong nội đô xoay xở chuyện xe cộ ngày lễ, xem kinh nghiệm ở bài [Phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một](/du-lich/2026/10/11/phu-tay-ho-va-chua-kim-lien-ngay-ram-mung-mot-di-xe-may-the-nao-cho-do-dong/).
 
 ## Ngắm tháp Diệu Quang và vườn tháp cổ
 
@@ -71,9 +71,9 @@ Phía sau nhà Tổ là vườn tháp trên nền đất cao, các ngôi tháp x
 
 ## Gợi ý ghép lịch trình nửa ngày quanh Hai Bà Trưng
 
-Một buổi xem chùa kỹ mất khoảng một tiếng. Ví dụ thực tế: một cặp khách thuê xe sáng thứ Năm, đến chùa lúc tám giờ, ngõ còn vắng, dựng xe theo chỉ dẫn của người trông chùa, xem tháp và vườn tháp đến hơn chín giờ. Sau đó họ chạy thêm một đoạn ngắn sang [đền Hai Bà Trưng ở Đồng Nhân](/du-lich/2026/10/10/en-hai-ba-trung-o-quan-hai-ba-trung-bang-xe-may-uong-i-va-gui-xe/), ăn trưa quanh phố Huế rồi về.
+Một buổi xem chùa kỹ mất khoảng một tiếng. Ví dụ thực tế: một cặp khách thuê xe sáng thứ Năm, đến chùa lúc tám giờ, ngõ còn vắng, dựng xe theo chỉ dẫn của người trông chùa, xem tháp và vườn tháp đến hơn chín giờ. Sau đó họ chạy thêm một đoạn ngắn sang [đền Hai Bà Trưng ở Đồng Nhân](/du-lich/2026/10/10/den-hai-ba-trung-o-quan-hai-ba-trung-bang-xe-may-duong-di-va-gui-xe/), ăn trưa quanh phố Huế rồi về.
 
-Nếu bạn đang sưu tầm các chùa cổ trong nội đô, chùa Liên Phái hợp đi cùng ngày với một chùa ven hồ; cách gửi xe ở đó có trong bài [thăm chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/09/tham-chua-tran-quoc-bang-xe-may-cho-gui-xe-o-au/). Hai nơi khác hẳn nhau: một bên kín đáo trong ngõ, một bên mở ra mặt nước Hồ Tây.
+Nếu bạn đang sưu tầm các chùa cổ trong nội đô, chùa Liên Phái hợp đi cùng ngày với một chùa ven hồ; cách gửi xe ở đó có trong bài [thăm chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/09/tham-chua-tran-quoc-bang-xe-may-cho-gui-xe-o-dau/). Hai nơi khác hẳn nhau: một bên kín đáo trong ngõ, một bên mở ra mặt nước Hồ Tây.
 
 ## Thuê xe máy để đi chùa trong phố
 

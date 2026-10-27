@@ -25,7 +25,7 @@ Cốp Air Blade đủ rộng cho áo mưa, chai nước và vài món lặt vặ
 - **Sợ remote rơi** khi rút điện thoại ra xem bản đồ ở đèn đỏ.
 - **Tưởng remote chỉ cần ở gần xe là đủ,** nằm ở đâu trên xe cũng được.
 
-Điểm thứ ba chính là chỗ hiểu lầm. Remote cần ở gần xe để xe nhận ra, nhưng nó còn phải ở trong tay bạn vào những lúc cần dùng. Phần nên và không nên để trong cốp nói chung có trong bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-uoc-gi-va-o-nao-nen-e-cho-khac/), ở đây chỉ nói riêng chuyện cái remote.
+Điểm thứ ba chính là chỗ hiểu lầm. Remote cần ở gần xe để xe nhận ra, nhưng nó còn phải ở trong tay bạn vào những lúc cần dùng. Phần nên và không nên để trong cốp nói chung có trong bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-duoc-gi-va-do-nao-nen-de-cho-khac/), ở đây chỉ nói riêng chuyện cái remote.
 
 ## Để remote Air Blade trong cốp: ba rắc rối có thể gặp
 

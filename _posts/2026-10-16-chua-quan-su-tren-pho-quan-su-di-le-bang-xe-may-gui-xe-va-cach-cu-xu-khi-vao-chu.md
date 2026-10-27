@@ -41,11 +41,11 @@ Sân chùa chủ yếu dành cho người đi lễ, nên đừng mặc định c
 3. Chụp ảnh vé xe, nhớ số nhà gần nhất để lúc quay lại không lạc.
 4. Khóa cổ, rút chìa, mang mũ bảo hiểm theo hoặc khóa vào xe.
 
-Đừng dựng xe sát cổng tam quan, chắn cửa nhà dân, chắn lối xe cấp cứu hay để dưới lòng đường "chỉ năm phút". Cách chọn điểm gửi trong nội đô cũng giống lúc bạn [dạo phố cổ, đỗ xe ngoài rìa rồi đi bộ](/du-lich/2026/10/11/dao-pho-co-ha-noi-nen-o-xe-ngoai-ria-roi-i-bo-36-pho-phuong/).
+Đừng dựng xe sát cổng tam quan, chắn cửa nhà dân, chắn lối xe cấp cứu hay để dưới lòng đường "chỉ năm phút". Cách chọn điểm gửi trong nội đô cũng giống lúc bạn [dạo phố cổ, đỗ xe ngoài rìa rồi đi bộ](/du-lich/2026/10/11/dao-pho-co-ha-noi-nen-do-xe-ngoai-ria-roi-di-bo-36-pho-phuong/).
 
 ### Ngày rằm, mùng một và các dịp lễ lớn
 
-Sáng rằm, mùng một, đi trước bảy giờ hoặc sau giờ trưa thì dễ thở hơn. Với sự kiện rất lớn, ban tổ chức có thể bố trí điểm gửi xe ở xa và phân luồng người vào: dịp chiêm bái xá lợi Đức Phật từ Ấn Độ tháng 5 năm 2025, báo chí đã đăng hướng dẫn điểm gửi xe và lối xếp hàng riêng. Gặp dịp như vậy, đọc thông báo chính thức trước khi đi và làm theo người điều phối. Cách chia giờ cũng tương tự bài [phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một](/du-lich/2026/10/11/phu-tay-ho-va-chua-kim-lien-ngay-ram-mung-mot-i-xe-may-the-nao-cho-o-ong/).
+Sáng rằm, mùng một, đi trước bảy giờ hoặc sau giờ trưa thì dễ thở hơn. Với sự kiện rất lớn, ban tổ chức có thể bố trí điểm gửi xe ở xa và phân luồng người vào: dịp chiêm bái xá lợi Đức Phật từ Ấn Độ tháng 5 năm 2025, báo chí đã đăng hướng dẫn điểm gửi xe và lối xếp hàng riêng. Gặp dịp như vậy, đọc thông báo chính thức trước khi đi và làm theo người điều phối. Cách chia giờ cũng tương tự bài [phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một](/du-lich/2026/10/11/phu-tay-ho-va-chua-kim-lien-ngay-ram-mung-mot-di-xe-may-the-nao-cho-do-dong/).
 
 ## Đi lễ chùa Quán Sứ: trang phục và đồ mang theo
 
@@ -72,8 +72,8 @@ Tôi từng gặp khách thuê xe chở mẹ đi lễ, buộc mâm lễ to sau y
 
 Giờ mở cửa có thể thay đổi theo ngày lễ, nên xem thông báo của chùa hoặc hỏi tại cổng nếu định đến lúc tinh mơ hay tối muộn. Buổi sáng ngày thường là dễ chịu nhất. Từ Quán Sứ, bạn có thể ghép thêm:
 
-- Văn Miếu ở phía tây, xem cách gửi xe trong bài [Văn Miếu Quốc Tử Giám bằng xe máy](/du-lich/2026/10/10/en-van-mieu-quoc-tu-giam-bang-xe-may-gio-i-va-gui-xe/).
-- Một ngôi chùa cổ bên Hồ Tây: [chùa Trấn Quốc và chỗ gửi xe ở đó](/du-lich/2026/10/09/tham-chua-tran-quoc-bang-xe-may-cho-gui-xe-o-au/).
+- Văn Miếu ở phía tây, xem cách gửi xe trong bài [Văn Miếu Quốc Tử Giám bằng xe máy](/du-lich/2026/10/10/den-van-mieu-quoc-tu-giam-bang-xe-may-gio-di-va-gui-xe/).
+- Một ngôi chùa cổ bên Hồ Tây: [chùa Trấn Quốc và chỗ gửi xe ở đó](/du-lich/2026/10/09/tham-chua-tran-quoc-bang-xe-may-cho-gui-xe-o-dau/).
 
 Mỗi lần dựng xe ở điểm mới lại làm đủ các bước: hỏi giá, giữ vé, khóa cổ.
 

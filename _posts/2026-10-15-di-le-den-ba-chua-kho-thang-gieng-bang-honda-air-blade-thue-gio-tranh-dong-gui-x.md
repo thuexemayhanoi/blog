@@ -31,7 +31,7 @@ Một mẹo nhỏ: làm quen tay ga Air Blade bằng vài vòng chạy thử qua
 
 Điều phải nhớ: **tuyến Hà Nội – Bắc Giang có những làn, những đoạn cấm xe máy.** Air Blade chạy khỏe đến đâu vẫn là xe máy. Chú ý biển báo ở mỗi nút giao, thấy biển cấm xe máy hoặc biển cao tốc thì không rẽ vào. Ứng dụng bản đồ đôi khi gợi ý tuyến nhanh dành cho ô tô, nên hãy chọn chế độ xe máy và ưu tiên biển báo ngoài đường.
 
-Trên quốc lộ 1 cũ có nhiều xe tải ra vào khu công nghiệp. Giữ làn phải, ga đều, không bám đuôi xe lớn. Qua Từ Sơn, nhả ga sớm vì người dân sang đường và xe máy rẽ ngang nhiều. Ai muốn ghép thêm Đền Đô trong cùng buổi có thể đọc bài [từ Long Biên đi Đền Đô bằng xe máy](/du-lich/2026/10/11/tu-long-bien-i-en-o-bac-ninh-bang-xe-may-quang-uong-va-thoi-gian-i-lai/).
+Trên quốc lộ 1 cũ có nhiều xe tải ra vào khu công nghiệp. Giữ làn phải, ga đều, không bám đuôi xe lớn. Qua Từ Sơn, nhả ga sớm vì người dân sang đường và xe máy rẽ ngang nhiều. Ai muốn ghép thêm Đền Đô trong cùng buổi có thể đọc bài [từ Long Biên đi Đền Đô bằng xe máy](/du-lich/2026/10/11/tu-long-bien-di-den-do-bac-ninh-bang-xe-may-quang-duong-va-thoi-gian-di-lai/).
 
 ## Đền Bà Chúa Kho tháng Giêng: chọn lúc đi tránh đông
 
@@ -53,9 +53,9 @@ Gần đền, bạn sẽ gặp người đứng vẫy xe vào các khoảng sân
 
 ## Xếp đồ lễ vào cốp Air Blade cho gọn
 
-Cốp Air Blade không quá rộng, nên đồ lễ cần gọn. Xếp mâm lễ khô, hoa quả trong túi kín, đặt phần nặng xuống đáy, phần dễ dập lên trên. Không treo túi đồ lễ lủng lẳng ở móc trước hay tay lái, vì túi đung đưa làm lệch tay lái và vướng chân. Bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-uoc-gi-va-o-nao-nen-e-cho-khac/) có gợi ý cụ thể.
+Cốp Air Blade không quá rộng, nên đồ lễ cần gọn. Xếp mâm lễ khô, hoa quả trong túi kín, đặt phần nặng xuống đáy, phần dễ dập lên trên. Không treo túi đồ lễ lủng lẳng ở móc trước hay tay lái, vì túi đung đưa làm lệch tay lái và vướng chân. Bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-duoc-gi-va-do-nao-nen-de-cho-khac/) có gợi ý cụ thể.
 
-Nếu lễ nhiều, người ngồi sau ôm một túi nhỏ trước bụng, hai tay vẫn giữ chắc. Mua đồ lễ tại các hàng quanh đền cũng tiện, nhưng hãy hỏi giá trước khi mua. Thêm vài cách buộc và giữ đồ trên xe có trong bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-o-i-le-chua-au-nam-tren-xe-may/).
+Nếu lễ nhiều, người ngồi sau ôm một túi nhỏ trước bụng, hai tay vẫn giữ chắc. Mua đồ lễ tại các hàng quanh đền cũng tiện, nhưng hãy hỏi giá trước khi mua. Thêm vài cách buộc và giữ đồ trên xe có trong bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-do-di-le-chua-dau-nam-tren-xe-may/).
 
 ## Giữ tiền, điện thoại và cảnh giác móc túi
 
@@ -66,7 +66,7 @@ Chỗ đông người là chỗ kẻ gian dễ ra tay. Trong sân đền và l�
 - **Điện thoại cất kỹ** khi đi qua chỗ chen lấn, chỉ lấy ra khi đứng ở chỗ thoáng.
 - **Hai người hẹn sẵn điểm gặp** nếu lạc nhau giữa đám đông.
 
-Trên đường về, giữ thói quen tương tự khi dừng đèn đỏ, vì giật đồ trên xe cũng xảy ra. Bài [giữ điện thoại và túi xách khi chạy xe máy ở Hà Nội](/thue-xe/2026/10/11/giu-ien-thoai-va-tui-xach-khi-chay-xe-may-o-ha-noi-tranh-bi-giat/) có thêm lời khuyên.
+Trên đường về, giữ thói quen tương tự khi dừng đèn đỏ, vì giật đồ trên xe cũng xảy ra. Bài [giữ điện thoại và túi xách khi chạy xe máy ở Hà Nội](/thue-xe/2026/10/11/giu-dien-thoai-va-tui-xach-khi-chay-xe-may-o-ha-noi-tranh-bi-giat/) có thêm lời khuyên.
 
 ## Đường về và trả xe
 

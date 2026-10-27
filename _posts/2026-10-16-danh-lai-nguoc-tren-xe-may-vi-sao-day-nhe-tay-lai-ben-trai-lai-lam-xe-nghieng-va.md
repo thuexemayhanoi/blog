@@ -78,7 +78,7 @@ Trên đường công cộng, chỉ tập trong làn của mình hoặc đổi l
 
 ## Lỗi hay gặp và cách sửa
 
-- **Gồng tay:** cánh tay cứng truyền rung động vào tay lái làm xe lắc. Thả lỏng vai, xem thêm bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-ieu-khien-xe-may-chac-tay-at-tay-goi-va-ban-chan-the-nao/).
+- **Gồng tay:** cánh tay cứng truyền rung động vào tay lái làm xe lắc. Thả lỏng vai, xem thêm bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-dieu-khien-xe-may-chac-tay-dat-tay-goi-va-ban-chan-the-nao/).
 - **Đẩy quá mạnh, quá đột ngột:** xe nghiêng nhiều hơn ý muốn, nhất là xe bánh nhỏ. Bắt đầu thật nhẹ.
 - **Phanh mạnh khi đang nghiêng:** bánh dễ mất bám hoặc xe dựng đứng và chạy thẳng ra ngoài cua. Giảm tốc xong trước khi nghiêng.
 - **Nhìn chằm chằm vào vật cản:** xe có xu hướng đi theo ánh mắt. Nhìn vào khoảng trống muốn tới.

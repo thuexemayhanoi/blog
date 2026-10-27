@@ -49,7 +49,7 @@ Thêm hai thói quen nhỏ cho những chuyến đi lúc tờ mờ:
 - **Mũ bảo hiểm cài quai, găng tay, khẩu trang.** Sáng sớm mùa đông gió lạnh làm tay cứng, phanh kém nhạy.
 - **Đặt lộ trình từ tối hôm trước.** Không cầm điện thoại xem đường khi đang chạy; cần xem thì tấp vào lề, dừng hẳn.
 
-Với các xã ven như Đông Anh, Gia Lâm, đường làng thường thiếu đèn, có đoạn đê hẹp. Hãy đi chậm hơn ban ngày, chiếu đèn gần khi gặp xe ngược chiều và cảnh giác người đi bộ, xe đạp không đèn. Sang bờ bắc sông Hồng, chọn cầu cho xe máy như Long Biên, Chương Dương, Vĩnh Tuy, Nhật Tân hoặc tầng dưới cầu Thăng Long; không đi lên cầu Thanh Trì. Ai lần đầu chạy lúc tờ mờ sáng nên đọc thêm bài [trời lạnh đi xe máy sáng sớm ở Hà Nội chuẩn bị thế nào](/ky-nang/2026-09-29/troi-lanh-i-xe-may-sang-som-o-ha-noi-chuan-bi-the-nao/).
+Với các xã ven như Đông Anh, Gia Lâm, đường làng thường thiếu đèn, có đoạn đê hẹp. Hãy đi chậm hơn ban ngày, chiếu đèn gần khi gặp xe ngược chiều và cảnh giác người đi bộ, xe đạp không đèn. Sang bờ bắc sông Hồng, chọn cầu cho xe máy như Long Biên, Chương Dương, Vĩnh Tuy, Nhật Tân hoặc tầng dưới cầu Thăng Long; không đi lên cầu Thanh Trì. Ai lần đầu chạy lúc tờ mờ sáng nên đọc thêm bài [trời lạnh đi xe máy sáng sớm ở Hà Nội chuẩn bị thế nào](/ky-nang/2026-09-29/troi-lanh-di-xe-may-sang-som-o-ha-noi-chuan-bi-the-nao/).
 
 ## Tới nhà cô dâu: chỗ để xe và đồ nghề
 

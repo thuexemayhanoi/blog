@@ -45,7 +45,7 @@ Lịch gợi ý cho một ngày thứ Bảy hoặc Chủ nhật:
 4. 13:00 tới khu Kẽm Trống, đi bộ dọc bờ sông, ngồi nghỉ và chụp ảnh chừng một tiếng rưỡi.
 5. 15:00 lên đường về, nghỉ một lần giữa đường, vào nội thành trước khi trời tối.
 
-Ví dụ: người ở Cầu Giấy mất thêm khá lâu xuyên thành phố so với người ở Hoàng Mai, nên lấy giờ ra tới Giải Phóng làm mốc, không phải giờ rời nhà. Nếu muốn ngủ lại một đêm, đi tiếp xuống Gia Viễn và ghép với [khu Vân Long](/cung-duong/2026/10/10/ha-noi-i-van-long-bang-xe-may-cung-uong-ninh-binh/), vì Kẽm Trống nằm ngay sát vùng này.
+Ví dụ: người ở Cầu Giấy mất thêm khá lâu xuyên thành phố so với người ở Hoàng Mai, nên lấy giờ ra tới Giải Phóng làm mốc, không phải giờ rời nhà. Nếu muốn ngủ lại một đêm, đi tiếp xuống Gia Viễn và ghép với [khu Vân Long](/cung-duong/2026/10/10/ha-noi-di-van-long-bang-xe-may-cung-duong-ninh-binh/), vì Kẽm Trống nằm ngay sát vùng này.
 
 ## Chỗ dừng xe ở chùa: gửi đâu, mặc gì
 

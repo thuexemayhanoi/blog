@@ -33,7 +33,7 @@ Bó hoa tốt nghiệp thường to, cồng kềnh, dễ dập và dễ che tầ
 - **Đặt ở sàn để chân.** Nếu đi một mình, đặt bó hoa nằm ngang hoặc dựng nghiêng ở sàn để chân phía trước của Click, kẹp nhẹ bằng hai chân, không để cành hoa thò lên chạm tay lái.
 - **Không treo hoa ở tay lái hay gương.** Bó hoa đung đưa làm lệch tay lái và che đèn xi nhan.
 
-Mua hoa ở chợ đầu mối hay cửa hàng quen từ hôm trước, nhờ bọc giấy dày, cắm bó hoa vào xô nước ở nhà qua đêm. Kinh nghiệm chở hoa về không dập có ở bài [mua hoa ở chợ hoa Quảng Bá sáng sớm bằng xe đạp điện: chở hoa về không dập](/xe-may/2026/10/11/mua-hoa-o-cho-hoa-quang-ba-sang-som-bang-xe-ap-ien-cho-hoa-ve-khong-dap/ "Chở hoa về không dập").
+Mua hoa ở chợ đầu mối hay cửa hàng quen từ hôm trước, nhờ bọc giấy dày, cắm bó hoa vào xô nước ở nhà qua đêm. Kinh nghiệm chở hoa về không dập có ở bài [mua hoa ở chợ hoa Quảng Bá sáng sớm bằng xe đạp điện: chở hoa về không dập](/xe-may/2026/10/11/mua-hoa-o-cho-hoa-quang-ba-sang-som-bang-xe-dap-dien-cho-hoa-ve-khong-dap/ "Chở hoa về không dập").
 
 ## Áo cử nhân và trang phục khi lái xe
 

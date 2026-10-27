@@ -60,7 +60,7 @@ Sau mưa, một số đoạn lối đi lát đá có thể trơn và đọng nư
 
 ## Đi cùng trẻ nhỏ
 
-Công viên có khu vui chơi, bãi cỏ, hợp để đưa trẻ con ra chơi cuối tuần. Chở trẻ trên xe máy thì đi chậm, cho trẻ đủ tuổi đội mũ bảo hiểm, không để trẻ đứng phía trước. Tới nơi, cho trẻ xuống ở chỗ an toàn trước khi người lớn đi gửi xe. Mang theo nước, khăn ướt và một bộ quần áo thay nếu trẻ thích chạy nhảy. Thông tin về chở trẻ trên xe máy có ở bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-ieu-kien-gi/ "Trẻ em ngồi trên xe máy cần điều kiện gì").
+Công viên có khu vui chơi, bãi cỏ, hợp để đưa trẻ con ra chơi cuối tuần. Chở trẻ trên xe máy thì đi chậm, cho trẻ đủ tuổi đội mũ bảo hiểm, không để trẻ đứng phía trước. Tới nơi, cho trẻ xuống ở chỗ an toàn trước khi người lớn đi gửi xe. Mang theo nước, khăn ướt và một bộ quần áo thay nếu trẻ thích chạy nhảy. Thông tin về chở trẻ trên xe máy có ở bài [trẻ em ngồi trên xe máy cần điều kiện gì](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-dieu-kien-gi/ "Trẻ em ngồi trên xe máy cần điều kiện gì").
 
 ## Về nhà giờ tan tầm
 

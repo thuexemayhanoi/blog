@@ -21,7 +21,7 @@ Nằm dưới chân núi Tản, khu du lịch hồ Tiên Sa Ba Vì là một đi
 
 Hồ nằm ở khu vực xã Tản Lĩnh cũ, huyện Ba Vì (trước đợt sắp xếp đơn vị hành chính năm 2025), gần cổng Vườn quốc gia Ba Vì. Theo các trang hướng dẫn du lịch, hồ cách trung tâm Hà Nội khoảng 50 km; nếu xuất phát từ Long Biên thì quãng đường dài hơn một chút. Khu du lịch có thu vé vào cổng; giá vé và các dịch vụ bên trong (thuyền, câu cá, công viên nước) có thể thay đổi theo mùa, nên hãy hỏi lại khi tới nơi.
 
-Hồ Tiên Sa thường được ghép với các điểm khác quanh núi Ba Vì trong cùng một ngày, ví dụ Vườn quốc gia hay hồ Ba Trại gần đó. Gợi ý lịch trình một ngày trong vườn quốc gia có ở bài [đi Vườn quốc gia Ba Vì bằng xe máy một ngày](/du-lich/2026/10/05/i-vuon-quoc-gia-ba-vi-bang-xe-may-mot-ngay/ "Đi Vườn quốc gia Ba Vì bằng xe máy một ngày").
+Hồ Tiên Sa thường được ghép với các điểm khác quanh núi Ba Vì trong cùng một ngày, ví dụ Vườn quốc gia hay hồ Ba Trại gần đó. Gợi ý lịch trình một ngày trong vườn quốc gia có ở bài [đi Vườn quốc gia Ba Vì bằng xe máy một ngày](/du-lich/2026/10/05/di-vuon-quoc-gia-ba-vi-bang-xe-may-mot-ngay/ "Đi Vườn quốc gia Ba Vì bằng xe máy một ngày").
 
 ## Đường đi hồ Tiên Sa: hai hướng chính
 
@@ -29,7 +29,7 @@ Hồ Tiên Sa thường được ghép với các điểm khác quanh núi Ba V�
 
 **Hướng quốc lộ 32 qua Sơn Tây.** Đường đi qua nhiều khu dân cư, chợ và ngã ba nên chậm hơn, nhưng bạn có thể ghé thị xã Sơn Tây hoặc làng cổ Đường Lâm trên đường đi hoặc về. Nếu bạn ở phía tây thành phố, hướng này thuận tiện hơn.
 
-So sánh chi tiết hai hướng và chỗ nghỉ giữa đường có ở bài [cung đường cuối tuần Hà Nội – Ba Vì một ngày bằng xe máy](/cung-duong/2026/10/04/cung-uong-cuoi-tuan-ha-noi-ba-vi-mot-ngay-bang-xe-may/ "Cung đường Hà Nội – Ba Vì một ngày").
+So sánh chi tiết hai hướng và chỗ nghỉ giữa đường có ở bài [cung đường cuối tuần Hà Nội – Ba Vì một ngày bằng xe máy](/cung-duong/2026/10/04/cung-duong-cuoi-tuan-ha-noi-ba-vi-mot-ngay-bang-xe-may/ "Cung đường Hà Nội – Ba Vì một ngày").
 
 ## Đoạn đường vào hồ: dốc, cua và xe khách
 
@@ -59,7 +59,7 @@ Khu du lịch có khu vực để xe cho khách. Khi tới cổng:
 - **Mùa hè** nắng gắt giữa trưa; nên tới hồ trong buổi sáng, nghỉ trưa ở chỗ có mái che.
 - **Mùa đông** sáng sớm có thể có sương, chiều tối lạnh nhanh; mặc áo khoác và về trước khi trời tối.
 
-Nếu muốn ghép thêm điểm, hồ Ba Trại ở gần đó cũng là một lựa chọn; cung đường được mô tả ở bài [Hà Nội đi hồ Ba Trại bằng xe máy](/cung-duong/2026/10/10/ha-noi-i-ho-ba-trai-bang-xe-may-cung-uong-ba-vi-cuoi-tuan/ "Hà Nội đi hồ Ba Trại bằng xe máy"). Còn nếu muốn lên cao hơn, xem bài [đền Thượng trên núi Ba Vì: chạy xe tới đâu, gửi xe chỗ nào](/du-lich/2026/10/15/den-thuong-tren-nui-ba-vi-chay-xe-may-toi-dau-gui-xe-cho-nao-va-leo-bac-da/ "Đền Thượng trên núi Ba Vì bằng xe máy").
+Nếu muốn ghép thêm điểm, hồ Ba Trại ở gần đó cũng là một lựa chọn; cung đường được mô tả ở bài [Hà Nội đi hồ Ba Trại bằng xe máy](/cung-duong/2026/10/10/ha-noi-di-ho-ba-trai-bang-xe-may-cung-duong-ba-vi-cuoi-tuan/ "Hà Nội đi hồ Ba Trại bằng xe máy"). Còn nếu muốn lên cao hơn, xem bài [đền Thượng trên núi Ba Vì: chạy xe tới đâu, gửi xe chỗ nào](/du-lich/2026/10/15/den-thuong-tren-nui-ba-vi-chay-xe-may-toi-dau-gui-xe-cho-nao-va-leo-bac-da/ "Đền Thượng trên núi Ba Vì bằng xe máy").
 
 ## Chuẩn bị trước khi đi
 

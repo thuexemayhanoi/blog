@@ -36,7 +36,7 @@ Chia ba chặng rõ ràng thay vì chạy một mạch:
 2. **Quốc lộ 18 phía đầu.** Từ Bắc Ninh theo quốc lộ 18 về phía đông, qua Quế Võ, Phả Lại tới Chí Linh. Từ đây bắt đầu gặp nhiều xe tải.
 3. **Quốc lộ 18 phía cuối.** Qua Đông Triều, tới Uông Bí rồi rẽ theo biển chỉ dẫn vào khu di tích.
 
-Điều không được quên: **xe máy không được vào cao tốc**, dù là cao tốc Hà Nội – Bắc Giang, cao tốc Bắc Ninh – Hạ Long hay tuyến cao tốc nào khác. Ứng dụng bản đồ đôi khi gợi ý các tuyến này vì chúng nhanh với ô tô. Chọn chế độ xe máy trước khi tìm đường, và ở nút giao lớn, nhìn biển báo trước khi nhìn điện thoại. Lỡ đi nhầm vào lối dẫn lên cao tốc thì dừng sát lề, dắt xe quay ra. Quy định cụ thể có trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Điều không được quên: **xe máy không được vào cao tốc**, dù là cao tốc Hà Nội – Bắc Giang, cao tốc Bắc Ninh – Hạ Long hay tuyến cao tốc nào khác. Ứng dụng bản đồ đôi khi gợi ý các tuyến này vì chúng nhanh với ô tô. Chọn chế độ xe máy trước khi tìm đường, và ở nút giao lớn, nhìn biển báo trước khi nhìn điện thoại. Lỡ đi nhầm vào lối dẫn lên cao tốc thì dừng sát lề, dắt xe quay ra. Quy định cụ thể có trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 Quốc lộ 18 có đoạn chia nhiều làn, có đoạn có đường gom. Nguyên tắc chung là đi đúng làn hoặc phần đường dành cho xe máy theo biển báo và vạch kẻ, không lấn sang làn ô tô chỉ vì làn đó trống.
 
@@ -61,7 +61,7 @@ Khi vượt và bị vượt cũng có vài điều cần nhớ:
 - **Quanh Chí Linh hoặc Đông Triều:** dừng ở quán nước ven đường có sân rộng, duỗi lưng và châm thêm xăng cho đoạn lên núi lẫn quãng về.
 - **Ở Uông Bí:** nghỉ trước khi rẽ vào khu di tích, ăn nhẹ, xem lại đường vào.
 
-Chỗ dừng nên có lề rộng, dễ dắt xe ra vào, không đứng ngay mép đường nơi xe tải chạy qua. Đi nhóm thì thống nhất trước điểm dừng. Bài [kinh nghiệm đường đến Yên Tử: xăng và nghỉ](/cung-duong/2026/09/29/kinh-nghiem-uong-en-yen-tu-xang-va-nghi/) có thêm gợi ý nếu bạn muốn ở lại qua đêm.
+Chỗ dừng nên có lề rộng, dễ dắt xe ra vào, không đứng ngay mép đường nơi xe tải chạy qua. Đi nhóm thì thống nhất trước điểm dừng. Bài [kinh nghiệm đường đến Yên Tử: xăng và nghỉ](/cung-duong/2026/09/29/kinh-nghiem-duong-den-yen-tu-xang-va-nghi/) có thêm gợi ý nếu bạn muốn ở lại qua đêm.
 
 ## Gửi xe dưới chân núi và giữ đồ khi leo
 

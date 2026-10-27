@@ -61,7 +61,7 @@ Buổi trưa, nhất là mùa hè, dạo ven hồ khá mệt vì nắng gắt. V
 - Mùa rét: chọn chiều có nắng, mặc thêm áo gió cho trẻ vì chạy về lúc tối gió buốt.
 - Chiều ngày thường vắng hơn hẳn cuối tuần. Nếu con bạn thích khu vui chơi, đi ngày thường sẽ ít phải xếp lượt.
 
-Nếu nhà bạn đi vào những ngày nắng gắt, bài [chia giờ đi xe máy khi Hà Nội nắng nóng](/du-lich/2026/10/11/ha-noi-nang-nong-i-xe-may-iem-en-nhieu-bong-mat-va-cach-chia-gio-trong-ngay/) có thêm vài điểm nhiều bóng mát để thay thế.
+Nếu nhà bạn đi vào những ngày nắng gắt, bài [chia giờ đi xe máy khi Hà Nội nắng nóng](/du-lich/2026/10/11/ha-noi-nang-nong-di-xe-may-diem-den-nhieu-bong-mat-va-cach-chia-gio-trong-ngay/) có thêm vài điểm nhiều bóng mát để thay thế.
 
 ## Ví dụ một buổi chiều thực tế
 
@@ -71,7 +71,7 @@ Tới Duy Tân, họ không chạy thẳng tới cổng chính mà gửi xe ở 
 
 Dân văn phòng thuê xe theo tuần thì gọn hơn: tan làm đi bộ thẳng ra hồ, để xe lại hầm công ty nếu tòa nhà cho phép.
 
-Nếu muốn ghép thêm một điểm, [Bảo tàng Dân tộc học và chỗ đỗ xe quanh đó](/du-lich/2026/10/07/i-bao-tang-dan-toc-hoc-bang-xe-may-o-xe-o-au/) cũng ở Cầu Giấy, hợp để đi buổi sáng rồi chiều ra công viên.
+Nếu muốn ghép thêm một điểm, [Bảo tàng Dân tộc học và chỗ đỗ xe quanh đó](/du-lich/2026/10/07/di-bao-tang-dan-toc-hoc-bang-xe-may-do-xe-o-dau/) cũng ở Cầu Giấy, hợp để đi buổi sáng rồi chiều ra công viên.
 
 ## Lưu ý riêng khi đi bằng xe máy thuê
 
@@ -79,7 +79,7 @@ Nếu muốn ghép thêm một điểm, [Bảo tàng Dân tộc học và chỗ 
 - Trẻ ngồi sau phải đội mũ bảo hiểm vừa đầu. Tiệm có kèm mũ, nhất là mũ trẻ em, hay không thì hỏi cửa hàng khi đặt xe.
 - Chở trẻ nhỏ thì xe ga như Honda Vision dễ chịu hơn xe số vì có sàn để chân và cốp. Vision ở tiệm là 200.000 đ một ngày; mức tuần và tháng xem ở [bảng giá thuê xe](/bang-gia/).
 
-Nếu đi cùng ông bà, chọn lối vào bằng phẳng và chỗ dừng gần cổng; bài [đi chơi cùng bố mẹ lớn tuổi](/du-lich/2026/10/11/i-choi-ha-noi-cung-bo-me-lon-tuoi-iem-en-it-bac-thang-va-de-dung-xe/) có thêm gợi ý điểm ít bậc thang. Xe trục trặc dọc đường thì gọi tiệm qua số 0942 467 674 trong giờ mở cửa 09:00–21:00; chi phí phát sinh nếu có, hãy xác nhận trực tiếp với cửa hàng.
+Nếu đi cùng ông bà, chọn lối vào bằng phẳng và chỗ dừng gần cổng; bài [đi chơi cùng bố mẹ lớn tuổi](/du-lich/2026/10/11/di-choi-ha-noi-cung-bo-me-lon-tuoi-diem-den-it-bac-thang-va-de-dung-xe/) có thêm gợi ý điểm ít bậc thang. Xe trục trặc dọc đường thì gọi tiệm qua số 0942 467 674 trong giờ mở cửa 09:00–21:00; chi phí phát sinh nếu có, hãy xác nhận trực tiếp với cửa hàng.
 
 ## Trước khi xuất phát
 

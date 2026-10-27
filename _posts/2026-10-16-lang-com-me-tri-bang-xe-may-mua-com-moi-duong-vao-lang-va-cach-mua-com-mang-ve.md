@@ -33,7 +33,7 @@ Mấy điều nên biết trước khi đi:
 - Mỗi năm thời tiết khác nhau nên vụ lúa có thể sớm hoặc muộn vài tuần. Thông tin có thể thay đổi, nếu cần chắc chắn thì hỏi trước người quen hoặc người bán cốm trong làng.
 - Ngày mưa to, sân phơi ướt và nhiều nhà nghỉ mẻ, chuyến đi dễ hụt. Chọn ngày khô ráo.
 
-Tháng Mười cũng là lúc hoa sữa nở, nếu còn thời gian bạn có thể ghép thêm [cung đường ngắm hoa sữa và lá vàng mùa thu](/du-lich/2026/10/11/mua-thu-ha-noi-bang-xe-may-cung-uong-ngam-hoa-sua-va-la-vang/) trên đường về.
+Tháng Mười cũng là lúc hoa sữa nở, nếu còn thời gian bạn có thể ghép thêm [cung đường ngắm hoa sữa và lá vàng mùa thu](/du-lich/2026/10/11/mua-thu-ha-noi-bang-xe-may-cung-duong-ngam-hoa-sua-va-la-vang/) trên đường về.
 
 ## Đường vào làng bằng xe máy
 
@@ -93,7 +93,7 @@ Nếu bạn từng chở bánh chưng từ làng nghề về như trong bài [l�
 
 ## Ghép thêm điểm gần làng
 
-Một buổi ở Mễ Trì thường chỉ mất chừng một đến hai tiếng. Ngay trên trục Phạm Hùng có [Bảo tàng Hà Nội](/du-lich/2026/10/10/en-bao-tang-ha-noi-o-nam-tu-liem-bang-xe-may/), hợp để vào xem trước rồi ghé làng mua cốm sau, như vậy cốm không phải nằm trên xe quá lâu.
+Một buổi ở Mễ Trì thường chỉ mất chừng một đến hai tiếng. Ngay trên trục Phạm Hùng có [Bảo tàng Hà Nội](/du-lich/2026/10/10/den-bao-tang-ha-noi-o-nam-tu-liem-bang-xe-may/), hợp để vào xem trước rồi ghé làng mua cốm sau, như vậy cốm không phải nằm trên xe quá lâu.
 
 Thứ tự đi cũng quan trọng. Nếu xem bảo tàng cả buổi sáng rồi gần trưa mới vào làng, bạn dễ gặp cảnh nhiều nhà đã giã xong mẻ sáng. Muốn vừa xem làm cốm vừa mua được cốm mới, hãy vào làng sớm, mua xong cất cốm vào hộp, để chỗ mát, rồi mới sang bảo tàng.
 

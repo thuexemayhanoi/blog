@@ -19,7 +19,7 @@ Nhiều người lần đầu thuê Honda Click thấy trên đồng hồ có ch
 
 ## Đèn eco Honda Click là gì
 
-Trên một số bản Honda Click, cụm đồng hồ có một đèn báo nhỏ ghi chữ ECO. Honda dùng kiểu đèn báo này trên nhiều dòng xe ga: đèn sáng khi xe đang chạy trong điều kiện tiết kiệm nhiên liệu, nghĩa là tay ga mở vừa phải, tốc độ ổn định, không tăng tốc đột ngột. Đây không phải một chế độ lái để bật hay tắt. Một số xe máy điện có nút chuyển giữa Eco, Normal và Sport làm thay đổi sức kéo của xe, như trong bài [chế độ lái Eco, Normal, Sport trên xe máy điện](/xe-may/2026/10/11/che-o-lai-eco-normal-sport-tren-xe-may-ien-khi-nao-dung-che-o-nao/ "Chế độ lái Eco, Normal, Sport trên xe máy điện"); còn đèn ECO trên Click chỉ phản ánh cách bạn đang chạy, xe vẫn đáp ứng ga như bình thường dù đèn sáng hay tắt.
+Trên một số bản Honda Click, cụm đồng hồ có một đèn báo nhỏ ghi chữ ECO. Honda dùng kiểu đèn báo này trên nhiều dòng xe ga: đèn sáng khi xe đang chạy trong điều kiện tiết kiệm nhiên liệu, nghĩa là tay ga mở vừa phải, tốc độ ổn định, không tăng tốc đột ngột. Đây không phải một chế độ lái để bật hay tắt. Một số xe máy điện có nút chuyển giữa Eco, Normal và Sport làm thay đổi sức kéo của xe, như trong bài [chế độ lái Eco, Normal, Sport trên xe máy điện](/xe-may/2026/10/11/che-do-lai-eco-normal-sport-tren-xe-may-dien-khi-nao-dung-che-do-nao/ "Chế độ lái Eco, Normal, Sport trên xe máy điện"); còn đèn ECO trên Click chỉ phản ánh cách bạn đang chạy, xe vẫn đáp ứng ga như bình thường dù đèn sáng hay tắt.
 
 Không phải bản Click nào cũng có đèn này, và vị trí, kiểu hiển thị có thể khác giữa các đời xe. Nếu chiếc xe bạn thuê không có chữ ECO trên đồng hồ, đó cũng là chuyện bình thường, không phải xe bị thiếu chức năng.
 
@@ -44,7 +44,7 @@ Phố Hà Nội nhiều đèn đỏ, nhiều đoạn dừng rồi đi liên tụ
 - **Giữ khoảng cách với xe trước.** Bám sát đuôi xe khác buộc bạn tăng giảm ga liên tục; lùi lại một chút, tay ga sẽ đều hơn.
 - **Chọn làn và giữ làn.** Trên các trục rộng như Nguyễn Văn Cừ, Trần Khát Chân hay Kim Mã, chạy đều trong làn của mình thay vì luồn lách đổi làn.
 
-Nhiều mẹo khác cho xe ga trong phố đông có ở bài [chạy xe ga tiết kiệm xăng trong phố đông](/xe-may/2026/10/10/chay-xe-ga-tiet-kiem-xang-trong-pho-ong/ "Chạy xe ga tiết kiệm xăng trong phố đông").
+Nhiều mẹo khác cho xe ga trong phố đông có ở bài [chạy xe ga tiết kiệm xăng trong phố đông](/xe-may/2026/10/10/chay-xe-ga-tiet-kiem-xang-trong-pho-dong/ "Chạy xe ga tiết kiệm xăng trong phố đông").
 
 ## Ga êm cũng là ga an toàn
 

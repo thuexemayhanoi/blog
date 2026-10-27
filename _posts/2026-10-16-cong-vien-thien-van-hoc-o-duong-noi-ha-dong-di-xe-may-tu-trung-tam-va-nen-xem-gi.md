@@ -81,7 +81,7 @@ Với học sinh, mô hình hệ Mặt Trời là chỗ hay để đố thứ t�
 - **Chiều muộn:** nắng dịu, nhiều gia đình nhất, cuối tuần khá đông.
 - **Buổi tối:** ven hồ có thể nhiều muỗi; đường về trên Tố Hữu lúc chập tối vẫn đông xe.
 
-Giờ mở cửa, khu nào đang sửa chữa và quy định ra vào có thể thay đổi, nên xem thông báo của phường hoặc hỏi tại cổng. Công viên ngoài trời, ít chỗ trú rộng. Hôm mưa thì đổi sang [những điểm đến trong nhà dễ đi bằng xe máy](/du-lich/2026/10/11/ngay-mua-o-ha-noi-nhung-iem-en-trong-nha-de-i-bang-xe-may/); hôm nắng gắt thì tham khảo cách [chia giờ đi khi Hà Nội nắng nóng](/du-lich/2026/10/11/ha-noi-nang-nong-i-xe-may-iem-en-nhieu-bong-mat-va-cach-chia-gio-trong-ngay/). Muốn ghép thêm điểm học tập trong ngày, bạn có thể ghé [Bảo tàng Hà Nội ở Nam Từ Liêm](/du-lich/2026/10/10/en-bao-tang-ha-noi-o-nam-tu-liem-bang-xe-may/) trên đường từ phía Mỹ Đình.
+Giờ mở cửa, khu nào đang sửa chữa và quy định ra vào có thể thay đổi, nên xem thông báo của phường hoặc hỏi tại cổng. Công viên ngoài trời, ít chỗ trú rộng. Hôm mưa thì đổi sang [những điểm đến trong nhà dễ đi bằng xe máy](/du-lich/2026/10/11/ngay-mua-o-ha-noi-nhung-diem-den-trong-nha-de-di-bang-xe-may/); hôm nắng gắt thì tham khảo cách [chia giờ đi khi Hà Nội nắng nóng](/du-lich/2026/10/11/ha-noi-nang-nong-di-xe-may-diem-den-nhieu-bong-mat-va-cach-chia-gio-trong-ngay/). Muốn ghép thêm điểm học tập trong ngày, bạn có thể ghé [Bảo tàng Hà Nội ở Nam Từ Liêm](/du-lich/2026/10/10/den-bao-tang-ha-noi-o-nam-tu-liem-bang-xe-may/) trên đường từ phía Mỹ Đình.
 
 ## Thuê xe cho buổi đi chơi cả nhà
 

@@ -37,7 +37,7 @@ Phần lớn rắc rối khi sạc trên xe đến từ đồ dùng không hợp
 - **Giá đỡ điện thoại kẹp chắc vào tay lái hoặc gương.** Kẹp phải giữ máy không rung lắc khi qua gờ giảm tốc, có khóa hoặc dây giữ phụ càng tốt.
 - **Pin dự phòng trong túi.** Cổng sạc trên xe chỉ là nguồn bổ sung, pin dự phòng dùng khi dừng chân lâu.
 
-Trước khi đi xa trong ngày, hãy tải sẵn bản đồ khu vực để dùng khi mất sóng. Cách chuẩn bị bản đồ ngoại tuyến được viết kỹ trong bài [bản đồ offline và sóng điện thoại trên đường đi Mộc Châu](/cung-duong/2026/10/11/ban-o-offline-va-song-ien-thoai-tren-uong-i-moc-chau-chuan-bi-truoc/).
+Trước khi đi xa trong ngày, hãy tải sẵn bản đồ khu vực để dùng khi mất sóng. Cách chuẩn bị bản đồ ngoại tuyến được viết kỹ trong bài [bản đồ offline và sóng điện thoại trên đường đi Mộc Châu](/cung-duong/2026/10/11/ban-do-offline-va-song-dien-thoai-tren-duong-di-moc-chau-chuan-bi-truoc/).
 
 ## Cổng sạc USB Air Blade: đi dây gọn, không vướng tay lái
 

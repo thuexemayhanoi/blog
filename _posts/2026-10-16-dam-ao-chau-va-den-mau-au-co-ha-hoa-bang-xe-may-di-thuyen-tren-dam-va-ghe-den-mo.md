@@ -85,7 +85,7 @@ Nếu đi về trong ngày, nhịp hợp lý là:
 
 Mùa đông trời tối sớm nên đoạn cuối gần như chắc chắn chạy đêm. Bật đèn chiếu gần, không phóng nhanh; thấy buồn ngủ thì dừng hẳn, đừng cố cho kịp giờ.
 
-Phương án hai ngày thư thả hơn. Chiều hôm đầu ghé đền, tối ngủ ở nhà nghỉ quanh thị trấn Hạ Hòa cũ hoặc homestay ven đầm, sáng hôm sau ra đầm khi sương còn trên mặt nước. Trên đường về có thể rẽ vào [Đền Hùng](/cung-duong/2026/10/10/ha-noi-i-en-hung-bang-xe-may-cung-uong-phu-tho/) gần Việt Trì cho trọn chuyến về nguồn. Cuối tuần nên đặt phòng trước và hỏi chỗ để xe qua đêm có khóa.
+Phương án hai ngày thư thả hơn. Chiều hôm đầu ghé đền, tối ngủ ở nhà nghỉ quanh thị trấn Hạ Hòa cũ hoặc homestay ven đầm, sáng hôm sau ra đầm khi sương còn trên mặt nước. Trên đường về có thể rẽ vào [Đền Hùng](/cung-duong/2026/10/10/ha-noi-di-den-hung-bang-xe-may-cung-duong-phu-tho/) gần Việt Trì cho trọn chuyến về nguồn. Cuối tuần nên đặt phòng trước và hỏi chỗ để xe qua đêm có khóa.
 
 ## Khi xe thuê gặp sự cố trên đường
 
