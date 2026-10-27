@@ -60,7 +60,7 @@ Tình huống quen thuộc: xe ba gác dỡ hàng chắn nửa làn, người đ
 - Bấm còi ngắn khi thật cần; trong khu đông dân cư, Điều 21 không cho dùng còi từ 22 giờ đến 05 giờ hôm sau.
 - Gặp gờ ở đầu ngõ, xem cách qua trong bài [gờ giảm tốc và barrier](/kinh%20nghi%E1%BB%87m/2026/09/19/go-giam-toc-va-barie-ngo/).
 
-Tốc độ thực tế trong khu phố cũ có ở bài [tốc độ tối đa cho xe máy trong phố cũ Hà Nội](/an-toan-phap-ly/2026/10/09/toc-o-toi-a-cho-xe-may-trong-pho-cu-ha-noi/).
+Tốc độ thực tế trong khu phố cũ có ở bài [tốc độ tối đa cho xe máy trong phố cũ Hà Nội](/an-toan-phap-ly/2026/10/09/toc-do-toi-da-cho-xe-may-trong-pho-cu-ha-noi/).
 
 ## Trời mưa, sương mù và mặt đường trơn
 
@@ -81,7 +81,7 @@ Quanh Hồ Gươm, khách du lịch hay vừa đi vừa nhìn điện thoại. T
 
 Mức tối đa trong Thông tư 38/2024/TT-BGTVT và nghĩa vụ giảm tốc ở khoản 3 Điều 12 là hai lớp riêng. Bạn có thể đúng con số trên biển mà vẫn quá nhanh so với tình huống.
 
-Một số hành vi liên quan, như không nhường đường cho người đi bộ ở nơi có vạch kẻ đường dành cho người đi bộ, có thể bị xử phạt theo Nghị định 168/2024/NĐ-CP. Tôi không nêu mức tiền vì mức phạt và quy định có thể thay đổi, hãy kiểm tra văn bản mới nhất. Mức tối đa trong và ngoài đô thị có ở bài [quy định tốc độ xe máy trong đô thị và ngoài đô thị](/an-toan-phap-ly/2026/09/30/quy-inh-toc-o-xe-may-trong-o-thi-va-ngoai-o-thi/).
+Một số hành vi liên quan, như không nhường đường cho người đi bộ ở nơi có vạch kẻ đường dành cho người đi bộ, có thể bị xử phạt theo Nghị định 168/2024/NĐ-CP. Tôi không nêu mức tiền vì mức phạt và quy định có thể thay đổi, hãy kiểm tra văn bản mới nhất. Mức tối đa trong và ngoài đô thị có ở bài [quy định tốc độ xe máy trong đô thị và ngoài đô thị](/an-toan-phap-ly/2026/09/30/quy-dinh-toc-do-xe-may-trong-do-thi-va-ngoai-do-thi/).
 
 ## Lưu ý khi đi xe máy thuê
 

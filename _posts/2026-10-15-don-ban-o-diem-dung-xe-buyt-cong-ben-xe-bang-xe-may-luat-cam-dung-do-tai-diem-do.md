@@ -53,7 +53,7 @@ Cũng khoản 4 Điều 18, mấy điểm sau hay gặp quanh nơi đón khách:
 
 Khoản 3 Điều 12 yêu cầu quan sát, giảm tốc độ hoặc dừng lại ở một số nơi, trong đó có điểm e: "Khu vực có trường học, bệnh viện, bến xe, công trình công cộng tập trung đông người", và điểm i: "Điểm dừng xe, đỗ xe trên đường bộ có khách đang lên, xuống xe".
 
-Khách vừa xuống xe buýt hay băng qua từ đầu hoặc đuôi xe. Xử lý khi xe buýt ghé trạm trước mặt xem bài [xe buýt dừng đón khách: vượt hay chờ](/ky-nang/2026/10/04/xe-buyt-dung-on-khach-vuot-hay-cho/).
+Khách vừa xuống xe buýt hay băng qua từ đầu hoặc đuôi xe. Xử lý khi xe buýt ghé trạm trước mặt xem bài [xe buýt dừng đón khách: vượt hay chờ](/ky-nang/2026/10/04/xe-buyt-dung-don-khach-vuot-hay-cho/).
 
 ## Vậy được dừng ở đâu
 

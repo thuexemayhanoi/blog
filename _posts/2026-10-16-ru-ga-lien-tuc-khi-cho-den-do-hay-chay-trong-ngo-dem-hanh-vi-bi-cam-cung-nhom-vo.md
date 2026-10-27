@@ -82,7 +82,7 @@ Chờ đèn ở các nút lớn như đầu cầu Chương Dương hay trên đ�
 
 ### Sau buổi nhậu ở phố cổ
 
-Rú ga hay đi kèm bia rượu. Điều 9 khoản 2 cùng luật nghiêm cấm điều khiển phương tiện mà trong máu hoặc hơi thở có nồng độ cồn. Đã uống thì gọi taxi, gửi xe ở bãi có người trông; chi tiết ở bài [nồng độ cồn khi lái xe máy](/an-toan-phap-ly/2026/09/28/nong-o-con-khi-lai-xe-may-quy-inh-hien-hanh-can-nguon-chinh-thong/).
+Rú ga hay đi kèm bia rượu. Điều 9 khoản 2 cùng luật nghiêm cấm điều khiển phương tiện mà trong máu hoặc hơi thở có nồng độ cồn. Đã uống thì gọi taxi, gửi xe ở bãi có người trông; chi tiết ở bài [nồng độ cồn khi lái xe máy](/an-toan-phap-ly/2026/09/28/nong-do-con-khi-lai-xe-may-quy-dinh-hien-hanh-can-nguon-chinh-thong/).
 
 ## Lưu ý riêng với xe thuê
 

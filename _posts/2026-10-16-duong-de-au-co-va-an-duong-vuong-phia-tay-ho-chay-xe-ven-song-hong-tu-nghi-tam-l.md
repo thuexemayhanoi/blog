@@ -49,8 +49,8 @@ Biển báo có thể đã đổi sau các mốc trên, nên hãy nhìn biển �
 
 ### Phía Tứ Liên, Nhật Tân
 
-- **Bãi đào Nhật Tân, quất Tứ Liên**: vùng trồng ven sông nay thuộc phường Hồng Hà, khoảng 80 ha đào và 30 ha quất theo báo Nhân Dân. Đường vào vườn có ở bài [vườn đào Nhật Tân trước Tết bằng xe máy](/du-lich/2026/10/04/vuon-ao-nhat-tan-truoc-tet-bang-xe-may-uong-i-va-gui-xe/ "Vườn đào Nhật Tân trước Tết").
-- **Chợ hoa Quảng An**, quen gọi là chợ hoa Quảng Bá, ở số 236 Âu Cơ: chợ đầu mối họp đêm, mở từ khoảng 22 hoặc 23 giờ, đông nhất từ 2 tới 4 giờ sáng. Xem bài [chợ hoa Quảng Bá về đêm](/du-lich/2026/10/11/cho-hoa-quang-ba-ve-em-bang-xe-may-gio-i-uong-vao-va-cho-dung-xe/ "Chợ hoa Quảng Bá về đêm bằng xe máy").
+- **Bãi đào Nhật Tân, quất Tứ Liên**: vùng trồng ven sông nay thuộc phường Hồng Hà, khoảng 80 ha đào và 30 ha quất theo báo Nhân Dân. Đường vào vườn có ở bài [vườn đào Nhật Tân trước Tết bằng xe máy](/du-lich/2026/10/04/vuon-dao-nhat-tan-truoc-tet-bang-xe-may-duong-di-va-gui-xe/ "Vườn đào Nhật Tân trước Tết").
+- **Chợ hoa Quảng An**, quen gọi là chợ hoa Quảng Bá, ở số 236 Âu Cơ: chợ đầu mối họp đêm, mở từ khoảng 22 hoặc 23 giờ, đông nhất từ 2 tới 4 giờ sáng. Xem bài [chợ hoa Quảng Bá về đêm](/du-lich/2026/10/11/cho-hoa-quang-ba-ve-dem-bang-xe-may-gio-di-duong-vao-va-cho-dung-xe/ "Chợ hoa Quảng Bá về đêm bằng xe máy").
 
 ### Phía Phú Thượng, Chèm
 

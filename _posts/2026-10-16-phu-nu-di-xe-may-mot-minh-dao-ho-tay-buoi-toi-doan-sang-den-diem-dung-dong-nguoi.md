@@ -44,7 +44,7 @@ Khi muốn dừng nghỉ, hãy chọn nơi sáng đèn và có người:
 - Sảnh khách sạn, cửa hàng tiện lợi mở muộn.
 - Vườn hoa, khoảng sân rộng có nhiều người đi dạo, như khu vườn hoa đầu đường Thanh Niên.
 
-Tránh dừng một mình ở bãi cỏ tối, mép kè vắng hay gốc cây lớn khuất đèn. Nếu ngồi quán, chọn bàn nhìn ra chỗ để xe; cách giữ xe và đồ đạc có ở bài [ngồi quán ven Hồ Tây buổi tối: khóa xe, cất mũ bảo hiểm](/du-lich/2026/10/16/ngoi-quan-ven-ho-tay-buoi-toi-khoa-xe-cat-mu-bao-hiem-va-giu-do-trong-cop-cho-an/ "Ngồi quán ven Hồ Tây buổi tối: giữ xe và đồ đạc"). Không khí dãy quán Xuân Diệu buổi tối có ở bài [chạy xe đường Xuân Diệu buổi tối](/du-lich/2026/10/04/chay-xe-uong-xuan-dieu-buoi-toi-quan-ven-ho-va-gui-xe/ "Chạy xe đường Xuân Diệu buổi tối").
+Tránh dừng một mình ở bãi cỏ tối, mép kè vắng hay gốc cây lớn khuất đèn. Nếu ngồi quán, chọn bàn nhìn ra chỗ để xe; cách giữ xe và đồ đạc có ở bài [ngồi quán ven Hồ Tây buổi tối: khóa xe, cất mũ bảo hiểm](/du-lich/2026/10/16/ngoi-quan-ven-ho-tay-buoi-toi-khoa-xe-cat-mu-bao-hiem-va-giu-do-trong-cop-cho-an/ "Ngồi quán ven Hồ Tây buổi tối: giữ xe và đồ đạc"). Không khí dãy quán Xuân Diệu buổi tối có ở bài [chạy xe đường Xuân Diệu buổi tối](/du-lich/2026/10/04/chay-xe-duong-xuan-dieu-buoi-toi-quan-ven-ho-va-gui-xe/ "Chạy xe đường Xuân Diệu buổi tối").
 
 ## Giữ đồ khi đang chạy và khi đã gửi xe
 
@@ -67,7 +67,7 @@ Quán ven hồ đóng cửa mỗi nơi một giờ, nhưng càng về khuya, đ�
 
 ## Nếu xe gặp sự cố buổi tối
 
-Dắt xe vào chỗ sáng đèn, có người, rồi gọi cửa hàng cho thuê. Nếu bạn là du khách chưa quen tiếng Việt, xem các câu nói đơn giản ở bài [mẫu câu tiếng Việt để nhờ giúp khi xe thuê hỏng giữa đường](/thue-xe/2026/10/11/mau-cau-tieng-viet-on-gian-e-nho-giup-khi-xe-thue-hong-giua-uong/ "Mẫu câu tiếng Việt khi xe thuê hỏng giữa đường"). Những điều nên biết khi thuê xe một mình có ở bài [một mình nữ thuê xe máy an toàn không](/hoi-dap/2026/09/29/mot-minh-nu-thue-xe-may-an-toan-khong/ "Một mình nữ thuê xe máy an toàn không").
+Dắt xe vào chỗ sáng đèn, có người, rồi gọi cửa hàng cho thuê. Nếu bạn là du khách chưa quen tiếng Việt, xem các câu nói đơn giản ở bài [mẫu câu tiếng Việt để nhờ giúp khi xe thuê hỏng giữa đường](/thue-xe/2026/10/11/mau-cau-tieng-viet-don-gian-de-nho-giup-khi-xe-thue-hong-giua-duong/ "Mẫu câu tiếng Việt khi xe thuê hỏng giữa đường"). Những điều nên biết khi thuê xe một mình có ở bài [một mình nữ thuê xe máy an toàn không](/hoi-dap/2026/09/29/mot-minh-nu-thue-xe-may-an-toan-khong/ "Một mình nữ thuê xe máy an toàn không").
 
 ## Câu hỏi thường gặp
 

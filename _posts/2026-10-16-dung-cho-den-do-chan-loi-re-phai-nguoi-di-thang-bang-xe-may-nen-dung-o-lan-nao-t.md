@@ -36,7 +36,7 @@ Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15, hiệ
 
 Đọc ghép lại: ở nút có tổ chức rẽ phải, làn sát lề phải là chỗ của người rẽ phải. Người đi thẳng nên vào làn đi thẳng từ sớm.
 
-Nghị định 168/2024/NĐ-CP, Điều 7, xử phạt người điều khiển xe mô tô, xe gắn máy với các nhóm hành vi không chấp hành chỉ dẫn của vạch kẻ đường và đi không đúng phần đường, làn đường quy định. Đi thẳng từ làn chỉ vẽ mũi tên rẽ phải có thể rơi vào nhóm này. Bài không nêu mức phạt và không khẳng định việc đứng chờ chắn lối bị xử lý theo điểm nào. Các nhóm lỗi xe máy được tóm lược ở bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-inh-xu-phat-vi-pham-giao-thong-xe-may/).
+Nghị định 168/2024/NĐ-CP, Điều 7, xử phạt người điều khiển xe mô tô, xe gắn máy với các nhóm hành vi không chấp hành chỉ dẫn của vạch kẻ đường và đi không đúng phần đường, làn đường quy định. Đi thẳng từ làn chỉ vẽ mũi tên rẽ phải có thể rơi vào nhóm này. Bài không nêu mức phạt và không khẳng định việc đứng chờ chắn lối bị xử lý theo điểm nào. Các nhóm lỗi xe máy được tóm lược ở bài [nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-dinh-xu-phat-vi-pham-giao-thong-xe-may/).
 
 ## Nhận biết làn rẽ phải trước khi tới vạch dừng
 
@@ -64,7 +64,7 @@ Nhiều nút nhỏ ở Hoàn Kiếm, Ba Đình không có mũi tên mặt đư�
 4. **Chừa mép phải ở làn dùng chung.** Nút cho rẽ phải khi đèn đỏ thì đứng lệch về phía trái của làn, chừa đủ chỗ cho một xe máy đi qua.
 5. **Chỉ nhìn đèn của hướng mình.** Mũi tên rẽ phải bật xanh không phải tín hiệu cho bạn. Tay rời tay ga cho tới khi đèn tròn chuyển xanh.
 
-Khách nhận xe ở tiệm chạy trên Nguyễn Văn Cừ về phía cầu Chương Dương, hay đi trục Xuân Thủy ở Cầu Giấy, sẽ gặp nhiều nút đèn sát nhau, mỗi nút tổ chức làn một kiểu. Đừng nhớ theo nút trước, hãy đọc lại từng nút. Cách đi qua nút nhiều làn có ở bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/ung-lan-xe-may-khi-qua-nut-giao-lon/).
+Khách nhận xe ở tiệm chạy trên Nguyễn Văn Cừ về phía cầu Chương Dương, hay đi trục Xuân Thủy ở Cầu Giấy, sẽ gặp nhiều nút đèn sát nhau, mỗi nút tổ chức làn một kiểu. Đừng nhớ theo nút trước, hãy đọc lại từng nút. Cách đi qua nút nhiều làn có ở bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/dung-lan-xe-may-khi-qua-nut-giao-lon/).
 
 ## Lỡ đứng nhầm vào làn rẽ phải thì làm gì
 

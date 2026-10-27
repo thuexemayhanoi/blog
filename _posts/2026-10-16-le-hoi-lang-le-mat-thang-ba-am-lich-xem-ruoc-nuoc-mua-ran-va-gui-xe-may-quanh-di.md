@@ -57,9 +57,9 @@ Theo báo An ninh Thủ đô, ngày khai hội 2026, lực lượng phòng cháy
 - **Gửi xe ở khu trông giữ của lễ hội** hoặc chỗ có người trông, nhận vé và nhớ mốc nơi gửi.
 - **Không dựng xe trong ngõ nhỏ** dẫn vào đình, vì đó là lối của đoàn rước và người đi lễ.
 - **Tránh giờ đông**: đi sớm vào ngày chính hội, hoặc chọn những ngày đầu, cuối hội.
-- **Gặp đoàn rước trên đường hẹp**: dừng sát lề, chờ đoàn đi qua; cách xử lý có ở bài [gặp đoàn rước trên đường hẹp](/ky-nang/2026/09/30/gap-oan-ruoc-tren-uong-hep-xu-ly-the-nao/ "Gặp đoàn rước trên đường hẹp").
+- **Gặp đoàn rước trên đường hẹp**: dừng sát lề, chờ đoàn đi qua; cách xử lý có ở bài [gặp đoàn rước trên đường hẹp](/ky-nang/2026/09/30/gap-doan-ruoc-tren-duong-hep-xu-ly-the-nao/ "Gặp đoàn rước trên đường hẹp").
 
-Lưu ý khi ghé các trại rắn, nhà hàng trong làng vào ngày thường có ở bài [ghé làng rắn Lệ Mật bằng xe máy](/du-lich/2026/10/11/ghe-lang-ran-le-mat-bang-xe-may-lo-trinh-va-luu-y-i-lai/ "Ghé làng rắn Lệ Mật bằng xe máy").
+Lưu ý khi ghé các trại rắn, nhà hàng trong làng vào ngày thường có ở bài [ghé làng rắn Lệ Mật bằng xe máy](/du-lich/2026/10/11/ghe-lang-ran-le-mat-bang-xe-may-lo-trinh-va-luu-y-di-lai/ "Ghé làng rắn Lệ Mật bằng xe máy").
 
 ## Xem hội cho đúng mực
 

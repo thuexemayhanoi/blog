@@ -43,7 +43,7 @@ Luật Trật tự, an toàn giao thông đường bộ phân biệt dừng xe, 
 - Không dừng, đỗ trước cổng và trong phạm vi 5 m hai bên cổng cơ quan, tổ chức có lối xe ra vào; luật không nói rõ cổng trường có thuộc trường hợp này không, nhưng đừng dừng chắn cổng.
 - Khi dừng xe, người lái không được tắt máy hay rời khỏi vị trí lái, trừ các trường hợp luật cho phép.
 
-Nếu phải chờ lâu, gửi xe ở chỗ có người trông rồi đi bộ tới cổng; cách chọn chỗ gửi có ở bài [gửi xe ở trường học ngõ nhỏ khi đưa đón con](/ky-nang/2026/10/04/gui-xe-o-truong-hoc-ngo-nho-khi-ua-on-con/ "Gửi xe ở trường học ngõ nhỏ khi đưa đón con").
+Nếu phải chờ lâu, gửi xe ở chỗ có người trông rồi đi bộ tới cổng; cách chọn chỗ gửi có ở bài [gửi xe ở trường học ngõ nhỏ khi đưa đón con](/ky-nang/2026/10/04/gui-xe-o-truong-hoc-ngo-nho-khi-dua-don-con/ "Gửi xe ở trường học ngõ nhỏ khi đưa đón con").
 
 ## Chọn hướng đi để đỡ kẹt
 
@@ -55,7 +55,7 @@ Nếu phải chờ lâu, gửi xe ở chỗ có người trông rồi đi bộ t
 ## Chở con trên xe máy: vài quy định cần nhớ
 
 - **Số người**: người lái xe máy chỉ được chở một người, nhưng được chở tối đa hai người nếu chở trẻ em dưới 12 tuổi.
-- **Mũ bảo hiểm**: luật yêu cầu người lái và mọi người ngồi trên xe đội mũ đạt chuẩn, cài quai đúng cách; luật không có ngoại lệ theo tuổi. Mũ cho bé phải vừa đầu; xem bài [đội mũ bảo hiểm cho trẻ em dưới sáu tuổi](/an-toan-phap-ly/2026/10/07/oi-mu-bao-hiem-cho-tre-em-duoi-sau-tuoi-khi-i-xe-may/ "Đội mũ bảo hiểm cho trẻ em dưới sáu tuổi").
+- **Mũ bảo hiểm**: luật yêu cầu người lái và mọi người ngồi trên xe đội mũ đạt chuẩn, cài quai đúng cách; luật không có ngoại lệ theo tuổi. Mũ cho bé phải vừa đầu; xem bài [đội mũ bảo hiểm cho trẻ em dưới sáu tuổi](/an-toan-phap-ly/2026/10/07/doi-mu-bao-hiem-cho-tre-em-duoi-sau-tuoi-khi-di-xe-may/ "Đội mũ bảo hiểm cho trẻ em dưới sáu tuổi").
 - **Trẻ dưới 6 tuổi**: luật nhắc gia đình cho trẻ dùng đai an toàn, ghế ngồi riêng hoặc có người lớn ngồi sau ôm giữ.
 
 Cách cho con ngồi và giữ con trên xe có ở bài [chở con đi học bằng xe máy thuê tháng](/thue-xe/2026/10/14/cho-con-di-hoc-bang-xe-may-thue-thang-mu-tre-em-cach-ngoi-va-gio-don-o-cong-truo/ "Chở con đi học bằng xe máy thuê tháng").

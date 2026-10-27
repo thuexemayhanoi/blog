@@ -38,7 +38,7 @@ Ba dấu hiệu cho thấy bạn đang chạy xe máy chậm cản trở giao th
 - Bạn đi chậm nhưng ở sát vạch giữa, hoặc giữa hai làn.
 - Bạn giảm tốc đột ngột mỗi khi thấy một biển hiệu, không báo hiệu gì.
 
-Nghị định 168/2024/NĐ-CP có quy định xử phạt hành vi điều khiển xe chạy tốc độ thấp mà không đi về bên phải theo chiều đi của mình. Bài không nêu mức phạt; hãy tra điều khoản cụ thể trong văn bản hiện hành. Tổng quan về giới hạn tốc độ nơi đông người có ở bài [tốc độ tối đa cho xe máy trong phố cũ Hà Nội](/an-toan-phap-ly/2026/10/09/toc-o-toi-a-cho-xe-may-trong-pho-cu-ha-noi/).
+Nghị định 168/2024/NĐ-CP có quy định xử phạt hành vi điều khiển xe chạy tốc độ thấp mà không đi về bên phải theo chiều đi của mình. Bài không nêu mức phạt; hãy tra điều khoản cụ thể trong văn bản hiện hành. Tổng quan về giới hạn tốc độ nơi đông người có ở bài [tốc độ tối đa cho xe máy trong phố cũ Hà Nội](/an-toan-phap-ly/2026/10/09/toc-do-toi-da-cho-xe-may-trong-pho-cu-ha-noi/).
 
 ## Chọn vị trí trong làn khi vừa đi vừa ngắm
 
@@ -50,7 +50,7 @@ Cách tôi dặn khách trước khi rời cửa hàng:
 4. **Nhìn gương thường xuyên.** Thấy phía sau dồn lại thì nhích thêm sang phải hoặc tìm chỗ dừng hẳn để dòng xe đi qua.
 5. **Không đi dàn hàng ngang.** Nhóm bạn thuê vài xe đi ngắm phố hay chạy song song để nói chuyện; khoản 3 Điều 33 không cho người lái xe mô tô, xe gắn máy đi xe dàn hàng ngang.
 
-Khi sắp đến nút giao cần rẽ trái, quy tắc đi bên phải không còn tuyệt đối. Bạn phải chuyển dần sang làn phù hợp với hướng rẽ; cách làm có ở bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/ung-lan-xe-may-khi-qua-nut-giao-lon/).
+Khi sắp đến nút giao cần rẽ trái, quy tắc đi bên phải không còn tuyệt đối. Bạn phải chuyển dần sang làn phù hợp với hướng rẽ; cách làm có ở bài [đúng làn xe máy khi qua nút giao lớn](/an-toan-phap-ly/2026/10/10/dung-lan-xe-may-khi-qua-nut-giao-lon/).
 
 ## Vừa đi vừa tìm đường bằng xe máy mà không phạm luật
 

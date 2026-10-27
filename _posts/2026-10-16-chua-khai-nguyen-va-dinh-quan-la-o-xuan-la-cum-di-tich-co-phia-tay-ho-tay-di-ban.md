@@ -63,7 +63,7 @@ Cách đi từ trục lớn vào khu này được nói ở bài [đường Võ 
 - Ăn mặc kín đáo, nói nhỏ, hỏi trước khi chụp ảnh bên trong gian thờ.
 - Không trèo lên gốc đa hay bẻ cành, vì đây là cây di sản.
 
-Gợi ý chọn đi lễ sáng hay chiều có ở bài [đi lễ chùa ngày rằm, mùng một ở Hà Nội bằng xe máy thuê](/thue-xe/2026/10/11/i-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-i-sang-hay-chieu/ "Đi lễ chùa ngày rằm, mùng một bằng xe máy thuê"). Sau khi viếng, có thể ra đường Lạc Long Quân ngắm hồ theo bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/uong-lac-long-quan-chay-xe-buoi-chieu-iem-dung-ven-ho/ "Đường Lạc Long Quân chạy xe buổi chiều").
+Gợi ý chọn đi lễ sáng hay chiều có ở bài [đi lễ chùa ngày rằm, mùng một ở Hà Nội bằng xe máy thuê](/thue-xe/2026/10/11/di-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-di-sang-hay-chieu/ "Đi lễ chùa ngày rằm, mùng một bằng xe máy thuê"). Sau khi viếng, có thể ra đường Lạc Long Quân ngắm hồ theo bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/duong-lac-long-quan-chay-xe-buoi-chieu-diem-dung-ven-ho/ "Đường Lạc Long Quân chạy xe buổi chiều").
 
 ## Câu hỏi thường gặp
 

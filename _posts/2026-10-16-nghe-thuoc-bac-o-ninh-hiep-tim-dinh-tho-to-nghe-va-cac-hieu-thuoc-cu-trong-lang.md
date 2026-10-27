@@ -67,7 +67,7 @@ Nếu định mua dược liệu, hãy nhớ đây là thuốc chứ không ph�
 
 ## Ghép thêm chùa Nành và đền Gióng
 
-Trong làng còn chùa Nành (Pháp Vân tự), di tích quốc gia từ năm 1989; lễ hội chùa từ mùng 4 tới mùng 6 tháng Hai âm lịch được công nhận di sản văn hóa phi vật thể quốc gia năm 2025. Còn thời gian thì ghé đền Phù Đổng thờ Thánh Gióng, cùng thuộc xã Phù Đổng; xem bài [đền Phù Đổng bằng xe máy từ Long Biên](/du-lich/2026/10/11/en-phu-ong-bang-xe-may-tu-long-bien-uong-i-va-thoi-iem-nen-en/ "Đền Phù Đổng bằng xe máy").
+Trong làng còn chùa Nành (Pháp Vân tự), di tích quốc gia từ năm 1989; lễ hội chùa từ mùng 4 tới mùng 6 tháng Hai âm lịch được công nhận di sản văn hóa phi vật thể quốc gia năm 2025. Còn thời gian thì ghé đền Phù Đổng thờ Thánh Gióng, cùng thuộc xã Phù Đổng; xem bài [đền Phù Đổng bằng xe máy từ Long Biên](/du-lich/2026/10/11/den-phu-dong-bang-xe-may-tu-long-bien-duong-di-va-thoi-diem-nen-den/ "Đền Phù Đổng bằng xe máy").
 
 ## Câu hỏi thường gặp
 

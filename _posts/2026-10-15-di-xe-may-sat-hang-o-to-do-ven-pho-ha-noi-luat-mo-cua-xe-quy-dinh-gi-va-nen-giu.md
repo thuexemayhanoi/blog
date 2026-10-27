@@ -57,7 +57,7 @@ Phần lớn ô tô đỗ sát lề phải, nên cửa phía người lái quay 
 3. **Phố quá hẹp thì chậm lại thay vì lách**, tới mức dừng kịp trong tầm nhìn.
 4. **Không luồn sát hàng xe đỗ** để vượt dòng xe đang chờ; đó là chỗ cửa xe và người bước ra xuất hiện bất ngờ nhất.
 
-Dấu hiệu sắp có cửa mở: bóng người trong xe nghiêng về phía cửa, xe vừa tấp vào, taxi đang trả khách. Gặp xe đang có khách lên xuống, điểm i khoản 3 Điều 12 đã yêu cầu quan sát và giảm tốc. Kỹ năng đọc dấu hiệu chi tiết hơn có trong bài [đi qua hàng ô tô đỗ ven đường](/ky-nang/2026/10/11/i-qua-hang-o-to-o-ven-uong-cua-xe-bat-mo-va-nguoi-buoc-ra-giua-cac-xe/).
+Dấu hiệu sắp có cửa mở: bóng người trong xe nghiêng về phía cửa, xe vừa tấp vào, taxi đang trả khách. Gặp xe đang có khách lên xuống, điểm i khoản 3 Điều 12 đã yêu cầu quan sát và giảm tốc. Kỹ năng đọc dấu hiệu chi tiết hơn có trong bài [đi qua hàng ô tô đỗ ven đường](/ky-nang/2026/10/11/di-qua-hang-o-to-do-ven-duong-cua-xe-bat-mo-va-nguoi-buoc-ra-giua-cac-xe/).
 
 ### Khi trời tối hoặc mưa
 

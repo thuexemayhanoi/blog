@@ -30,7 +30,7 @@ Trên đường hai chiều không có dải phân cách, vạch tim đường l
 
 Nghị định 168/2024/NĐ-CP, Điều 7, quy định xử phạt người điều khiển xe mô tô, xe gắn máy, trong đó có nhóm hành vi không đi bên phải theo chiều đi của mình, đi không đúng phần đường hoặc làn đường quy định (làn cùng chiều hoặc làn ngược chiều). Đây là nhóm lỗi sát nhất với việc chạy dọc trên nửa đường bên kia để thoát đoạn tắc.
 
-Nếu lúc lấn sang bạn còn đè hoặc vượt qua vạch liền giữa đường, hành vi có thể rơi thêm vào nhóm không chấp hành chỉ dẫn của vạch kẻ đường. Gây tai nạn thì cùng điều này có khung xử lý nặng hơn. Tình huống cụ thể thuộc nhóm nào do lực lượng chức năng xác định. Bài không nêu mức phạt; cách đọc nghị định có ở bài [Nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-inh-xu-phat-vi-pham-giao-thong-xe-may/).
+Nếu lúc lấn sang bạn còn đè hoặc vượt qua vạch liền giữa đường, hành vi có thể rơi thêm vào nhóm không chấp hành chỉ dẫn của vạch kẻ đường. Gây tai nạn thì cùng điều này có khung xử lý nặng hơn. Tình huống cụ thể thuộc nhóm nào do lực lượng chức năng xác định. Bài không nêu mức phạt; cách đọc nghị định có ở bài [Nghị định xử phạt vi phạm giao thông xe máy](/an-toan-phap-ly/2026/09/28/nghi-dinh-xu-phat-vi-pham-giao-thong-xe-may/).
 
 Lỗi này cũng khác với đi vào phố có biển cấm đi ngược chiều, vốn là hành vi được xử lý riêng.
 

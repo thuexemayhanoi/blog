@@ -57,7 +57,7 @@ Cần sang làn cách mình hai, ba làn thì phải làm thành nhiều lần c
 4. **Chuyển sang làn liền kề** theo một góc nhỏ, giữ tốc độ gần với dòng xe làn mới.
 5. **Ổn định trong làn mới** một đoạn, rồi lặp lại từ bước một nếu cần sang tiếp.
 
-Trình tự này là kỹ năng thực hành; bài [chuyển làn đúng cách trên đường nhiều làn](/ky-nang/2026/10/04/chuyen-lan-ung-cach-tren-uong-nhieu-lan-xe-may/) có thêm phần tập cho tay lái mới.
+Trình tự này là kỹ năng thực hành; bài [chuyển làn đúng cách trên đường nhiều làn](/ky-nang/2026/10/04/chuyen-lan-dung-cach-tren-duong-nhieu-lan-xe-may/) có thêm phần tập cho tay lái mới.
 
 Không còn đủ quãng đường để chuyển từng làn trước nút giao thì đi tiếp theo làn hiện tại, tìm chỗ quay lại hợp lệ.
 
