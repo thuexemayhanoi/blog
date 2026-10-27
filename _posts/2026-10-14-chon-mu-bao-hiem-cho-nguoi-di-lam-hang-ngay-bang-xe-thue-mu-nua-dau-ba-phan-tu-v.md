@@ -25,7 +25,7 @@ Trước khi nhìn kiểu dáng, hãy tự trả lời ba câu hỏi về chuy�
 - **Có đi qua đoạn đường thoáng, gió mạnh không?** Các cây cầu như Chương Dương, Vĩnh Tuy hay đường đê ven sông Hồng là nơi gió thốc thẳng vào mặt.
 - **Bạn đi vào giờ nào?** Đi sớm lúc trời còn sương, về muộn khi đèn đường đã bật, hay đi giữa trưa nắng.
 
-Người đi quãng ngắn, chủ yếu trong phố, thường thấy mũ nửa đầu đủ dùng. Người đi xa, qua cầu, qua đoạn ngoại thành hoặc đi cả mùa đông nên nghiêng về mũ ba phần tư có kính. Dù chọn kiểu nào, điều kiện đầu tiên vẫn là mũ bảo hiểm đạt chuẩn, có tem hợp quy và nhãn ghi rõ nơi sản xuất, chứ không phải chiếc mũ thời trang mỏng dính bán ven đường. Phần chuẩn và cách nhận biết được giải thích riêng trong bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/).
+Người đi quãng ngắn, chủ yếu trong phố, thường thấy mũ nửa đầu đủ dùng. Người đi xa, qua cầu, qua đoạn ngoại thành hoặc đi cả mùa đông nên nghiêng về mũ ba phần tư có kính. Dù chọn kiểu nào, điều kiện đầu tiên vẫn là mũ bảo hiểm đạt chuẩn, có tem hợp quy và nhãn ghi rõ nơi sản xuất, chứ không phải chiếc mũ thời trang mỏng dính bán ven đường. Phần chuẩn và cách nhận biết được giải thích riêng trong bài [mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-dat-chuan-khi-di-xe-may-chuan-nao/).
 
 ## Mũ nửa đầu: gọn nhẹ cho quãng ngắn trong phố
 
@@ -56,7 +56,7 @@ Kính chắn là tấm nhựa trong gắn phía trước mũ, có thể lật l�
 
 Kính chắn có ích rõ nhất trong những trường hợp sau:
 
-1. **Ngày mưa phùn và mưa to.** Hạt mưa đập vào mắt khi chạy là lý do nhiều người phải nheo mắt, giảm tầm nhìn đúng lúc cần quan sát nhất. Kinh nghiệm chạy ngày mưa có trong bài [đi làm bằng xe máy ngày mưa ở Hà Nội](/thue-xe/2026/10/11/i-lam-bang-xe-may-ngay-mua-o-ha-noi-ao-mua-phanh-tron-va-vach-son-uot/).
+1. **Ngày mưa phùn và mưa to.** Hạt mưa đập vào mắt khi chạy là lý do nhiều người phải nheo mắt, giảm tầm nhìn đúng lúc cần quan sát nhất. Kinh nghiệm chạy ngày mưa có trong bài [đi làm bằng xe máy ngày mưa ở Hà Nội](/thue-xe/2026/10/11/di-lam-bang-xe-may-ngay-mua-o-ha-noi-ao-mua-phanh-tron-va-vach-son-uot/).
 2. **Bụi và côn trùng.** Các tuyến có công trình hoặc đường ven ruộng ngoại thành nhiều bụi và bọ bay vào mặt lúc chiều tối.
 3. **Gió lạnh mùa đông.** Kính che bớt gió buốt thổi thẳng vào mắt và mũi.
 

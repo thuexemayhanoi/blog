@@ -61,7 +61,7 @@ Quanh vùng đi bộ có nhiều điểm trông giữ xe, nhưng chất lượng
 
 4. **Không để đồ trong cốp hay treo trên xe.** Túi xách, sạc dự phòng mang theo người.
 
-Chụp thêm ảnh biển tên phố gần bãi, vì đi bộ vài tiếng rất dễ quên mình gửi xe ở đâu. Nếu bạn chỉ định ghé hồ ban ngày, bài [đến khu hồ Gươm và tháp Rùa bằng xe máy](/du-lich/2026/09/28/en-khu-ho-guom-va-thap-rua-bang-xe-may-gui-xe-va-uong-i/) có gợi ý riêng.
+Chụp thêm ảnh biển tên phố gần bãi, vì đi bộ vài tiếng rất dễ quên mình gửi xe ở đâu. Nếu bạn chỉ định ghé hồ ban ngày, bài [đến khu hồ Gươm và tháp Rùa bằng xe máy](/du-lich/2026/09/28/den-khu-ho-guom-va-thap-rua-bang-xe-may-gui-xe-va-duong-di/) có gợi ý riêng.
 
 ## Dạo phố đi bộ an toàn khi đã gửi xe
 

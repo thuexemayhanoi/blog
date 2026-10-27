@@ -54,7 +54,7 @@ Gia đình lần đầu thuê xe cả tuần ở thành phố có thể đọc t
 - Cổng hoa, phông nền, khung ảnh lớn.
 - Tráp ăn hỏi đã xếp sẵn, vì tráp cần giữ thẳng, nghiêng là đồ bên trong xô lệch.
 
-Đồ buộc cao quá lưng người lái hoặc thò ra hai bên xe sẽ làm xe chao khi qua cầu Chương Dương có gió. Chia làm hai chuyến luôn nhẹ nhõm hơn một chuyến buộc chồng chất. Cách chọn xe cho đồ cồng kềnh có trong bài [đi chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/).
+Đồ buộc cao quá lưng người lái hoặc thò ra hai bên xe sẽ làm xe chao khi qua cầu Chương Dương có gió. Chia làm hai chuyến luôn nhẹ nhõm hơn một chuyến buộc chồng chất. Cách chọn xe cho đồ cồng kềnh có trong bài [đi chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/di-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/).
 
 ## Đón họ hàng từ bến xe và ga tàu
 
@@ -73,7 +73,7 @@ Nếu họ hàng muốn tự có xe đi lại trong mấy ngày ở Hà Nội, h
 
 Uống rượu bia thì không lái xe. Trong tiệc cưới, người nhà cô dâu chú rể thường phải đi chúc rượu từng bàn, và chú bác từ quê lên cũng khó từ chối lời mời. Vì vậy, quyết định ai không lái xe phải chốt từ tối hôm trước, không phải lúc đang ngồi mâm.
 
-Cách đơn giản nhất là để xe thuê nằm ở chỗ gửi gần nơi ở trong suốt ngày cưới. Đi và về nhà hàng bằng taxi hoặc xe công nghệ. Nếu buộc phải dùng xe để chở đồ lễ đến sớm, giao xe cho một người chắc chắn không uống, và người đó lái xe về cất trước khi tiệc bắt đầu. Ý tưởng để xe lại qua đêm rồi lấy sáng hôm sau được bàn kỹ hơn trong bài [lỡ uống rượu bia buổi tối: để xe lại qua đêm và lấy xe sáng hôm sau](/ky-nang/2026/10/11/lo-uong-ruou-bia-buoi-toi-e-xe-lai-qua-em-va-lay-xe-sang-hom-sau/).
+Cách đơn giản nhất là để xe thuê nằm ở chỗ gửi gần nơi ở trong suốt ngày cưới. Đi và về nhà hàng bằng taxi hoặc xe công nghệ. Nếu buộc phải dùng xe để chở đồ lễ đến sớm, giao xe cho một người chắc chắn không uống, và người đó lái xe về cất trước khi tiệc bắt đầu. Ý tưởng để xe lại qua đêm rồi lấy sáng hôm sau được bàn kỹ hơn trong bài [lỡ uống rượu bia buổi tối: để xe lại qua đêm và lấy xe sáng hôm sau](/ky-nang/2026/10/11/lo-uong-ruou-bia-buoi-toi-de-xe-lai-qua-dem-va-lay-xe-sang-hom-sau/).
 
 Còn nếu một phần lễ được tổ chức ở quê ven Hà Nội, bài [thuê xe máy một ngày đi đám cưới, đám hỏi ở quê ven Hà Nội](/thue-xe/2026/10/14/thue-xe-may-mot-ngay-di-dam-cuoi-dam-hoi-o-que-ven-ha-noi-an-mac-cho-nguoi-va-gi/) có hướng dẫn riêng về ăn mặc và đường làng.
 

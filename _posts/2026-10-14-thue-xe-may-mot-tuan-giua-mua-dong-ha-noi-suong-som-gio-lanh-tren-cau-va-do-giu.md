@@ -40,7 +40,7 @@ Danh sách nên có cho một tuần:
 5. **Giày kín và tất dày.**
 6. **Mũ bảo hiểm có kính** để chắn gió lạnh phả vào mắt.
 
-Tối về, phơi găng tay và khẩu trang ở chỗ thoáng, có máy sấy tóc thì sấy nhẹ lòng găng. Gợi ý cách mặc cho những buổi sáng ven sông có trong bài [sáng mùa đông ở Long Biên](/du-lich/2026/10/11/sang-mua-ong-o-long-bien-gio-song-suong-mu-va-cach-mac-khi-i-xe-may/).
+Tối về, phơi găng tay và khẩu trang ở chỗ thoáng, có máy sấy tóc thì sấy nhẹ lòng găng. Gợi ý cách mặc cho những buổi sáng ven sông có trong bài [sáng mùa đông ở Long Biên](/du-lich/2026/10/11/sang-mua-dong-o-long-bien-gio-song-suong-mu-va-cach-mac-khi-di-xe-may/).
 
 ## Gió lạnh trên cầu: qua sông sao cho vững
 
@@ -64,7 +64,7 @@ Những buổi sáng mùa đông, sương mù có thể phủ dày ven sông H�
 - **Không vượt khi không nhìn rõ phía trước.** Bám theo đèn hậu xe trước ở khoảng cách an toàn.
 - **Kính mũ bị mờ thì hé kính một chút** hoặc lau bằng khăn mềm khi dừng đèn đỏ.
 
-Nếu sương quá dày, dừng lại quán ven đường uống cốc trà nóng chờ sương tan là lựa chọn hợp lý. Kỹ thuật giữ khoảng cách trong sương được viết kỹ ở bài [đi xe máy trong sương mù buổi sớm mùa đông](/ky-nang/2026/10/04/i-xe-may-trong-suong-mu-buoi-som-mua-ong-giu-khoang-cach/).
+Nếu sương quá dày, dừng lại quán ven đường uống cốc trà nóng chờ sương tan là lựa chọn hợp lý. Kỹ thuật giữ khoảng cách trong sương được viết kỹ ở bài [đi xe máy trong sương mù buổi sớm mùa đông](/ky-nang/2026/10/04/di-xe-may-trong-suong-mu-buoi-som-mua-dong-giu-khoang-cach/).
 
 ## Khởi động xe buổi sáng lạnh
 
@@ -75,11 +75,11 @@ Sau một đêm xe để ngoài trời lạnh, máy cần được khởi độn
 - **Xe số có cần đạp thì dùng cần đạp** cho những sáng lạnh, đỡ hao ắc quy.
 - **Để máy nổ êm một lúc rồi mới chạy,** đoạn đầu đi chậm, không vặn ga mạnh ngay.
 
-Nếu ngày nào cũng khó nổ, đèn yếu hoặc đề không quay, báo tiệm sớm để được kiểm tra thay vì chờ đến cuối tuần. Hướng dẫn chi tiết cho từng tình huống có ở bài [đề xe máy thuê lúc lạnh máy](/ky-nang/2026/10/07/e-xe-may-thue-luc-lanh-may-kieu-gi-cho-de/). Ban đêm, nếu chỗ ở cho dắt xe vào trong nhà hoặc có mái che kín gió, sáng hôm sau xe sẽ dễ nổ hơn rõ rệt.
+Nếu ngày nào cũng khó nổ, đèn yếu hoặc đề không quay, báo tiệm sớm để được kiểm tra thay vì chờ đến cuối tuần. Hướng dẫn chi tiết cho từng tình huống có ở bài [đề xe máy thuê lúc lạnh máy](/ky-nang/2026/10/07/de-xe-may-thue-luc-lanh-may-kieu-gi-cho-de/). Ban đêm, nếu chỗ ở cho dắt xe vào trong nhà hoặc có mái che kín gió, sáng hôm sau xe sẽ dễ nổ hơn rõ rệt.
 
 ## Xếp lịch bảy ngày theo giờ ấm
 
-Mùa đông, trời sáng muộn và tối sớm. Nếu lịch của bạn cho phép, hãy dời những chặng dài, nhất là chặng qua cầu, sang khoảng giữa buổi sáng khi sương đã tan, và về trước khi trời tối hẳn. Những ngày gió mùa mới tràn về là lúc lạnh và gió nhất; nên để ngày đó cho các việc gần, trong phố, và để các chuyến xa sang hôm trời dịu hơn. Gợi ý xếp giờ cho một ngày trời tối sớm có trong bài [mùa đông trời tối sớm](/thue-xe/2026/10/11/mua-ong-troi-toi-som-xep-mot-ngay-thue-xe-may-sao-cho-kip-ve/).
+Mùa đông, trời sáng muộn và tối sớm. Nếu lịch của bạn cho phép, hãy dời những chặng dài, nhất là chặng qua cầu, sang khoảng giữa buổi sáng khi sương đã tan, và về trước khi trời tối hẳn. Những ngày gió mùa mới tràn về là lúc lạnh và gió nhất; nên để ngày đó cho các việc gần, trong phố, và để các chuyến xa sang hôm trời dịu hơn. Gợi ý xếp giờ cho một ngày trời tối sớm có trong bài [mùa đông trời tối sớm](/thue-xe/2026/10/11/mua-dong-troi-toi-som-xep-mot-ngay-thue-xe-may-sao-cho-kip-ve/).
 
 Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00. Nếu muốn giao hoặc nhận xe tận nơi, thời gian và chi phí cần xác nhận trước khi đặt, và chỉ trong khung giờ mở cửa.
 

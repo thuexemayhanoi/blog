@@ -31,7 +31,7 @@ Dịp lễ, loại xe phổ biến hay hết sớm, nên đặt càng sớm càn
 - **Loại xe và lý do.** Đi xa ra ngoại thành nhiều người chọn xe số vì dễ sửa dọc đường; chỉ chạy trong phố thì xe ga nhẹ nhàng hơn.
 - **Số người và mũ bảo hiểm cần thêm**, nhất là khi chở người lớn tuổi hay trẻ em.
 
-Tiền đặt cọc và giấy tờ cần mang thì hỏi rõ trực tiếp, đừng đoán theo nơi khác, và xin biên nhận khi để lại bất cứ thứ gì. Một hai ngày trước ngày đi, nhắn xác nhận lại lịch. Nếu bạn ở Hà Nội vài ngày mà chưa biết dành ngày nào cho xe, bài [chỉ thuê xe máy đúng một ngày thì chọn ngày nào](/thue-xe/2026/10/11/chuyen-i-ha-noi-34-ngay-chi-thue-xe-may-ung-mot-ngay-thi-chon-ngay-nao/) giúp cân nhắc theo lịch trình.
+Tiền đặt cọc và giấy tờ cần mang thì hỏi rõ trực tiếp, đừng đoán theo nơi khác, và xin biên nhận khi để lại bất cứ thứ gì. Một hai ngày trước ngày đi, nhắn xác nhận lại lịch. Nếu bạn ở Hà Nội vài ngày mà chưa biết dành ngày nào cho xe, bài [chỉ thuê xe máy đúng một ngày thì chọn ngày nào](/thue-xe/2026/10/11/chuyen-di-ha-noi-34-ngay-chi-thue-xe-may-dung-mot-ngay-thi-chon-ngay-nao/) giúp cân nhắc theo lịch trình.
 
 ## Giờ nhận và trả xe khi tiệm mở 09:00–21:00
 
@@ -40,7 +40,7 @@ Cửa hàng Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên mở
 1. **Nhận xe từ chiều hoặc tối hôm trước**, trước giờ đóng cửa, sáng hôm sau đi thẳng từ chỗ ở. Cách này thường phải tính thêm thời gian thuê, nên hỏi rõ khi đặt.
 2. **Chấp nhận xuất phát sau 09:00** và chọn hướng đi, điểm đến hợp với khung giờ muộn hơn.
 
-Muốn được giao xe tận chỗ ở thì thời gian và chi phí giao nhận phải xác nhận trước khi đặt; ngày lễ lịch giao thường kín, nên ở gần Long Biên thì tự đến tiệm sẽ chủ động hơn. Giờ trả xe tính ngược từ 21:00, chừa dư rộng để không phải phóng nhanh lúc về. Lịch nhận trả trong kỳ nghỉ dài có ở bài [đặt sớm và hỏi lịch nhận trả dịp lễ dài](/thue-xe/2026/10/11/thue-xe-may-dip-le-dai-va-tet-at-som-va-hoi-lich-nhan-tra-ra-sao/).
+Muốn được giao xe tận chỗ ở thì thời gian và chi phí giao nhận phải xác nhận trước khi đặt; ngày lễ lịch giao thường kín, nên ở gần Long Biên thì tự đến tiệm sẽ chủ động hơn. Giờ trả xe tính ngược từ 21:00, chừa dư rộng để không phải phóng nhanh lúc về. Lịch nhận trả trong kỳ nghỉ dài có ở bài [đặt sớm và hỏi lịch nhận trả dịp lễ dài](/thue-xe/2026/10/11/thue-xe-may-dip-le-dai-va-tet-dat-som-va-hoi-lich-nhan-tra-ra-sao/).
 
 ## Cửa ngõ Hà Nội ngày lễ: Pháp Vân, Nhật Tân, Đại lộ Thăng Long
 
@@ -64,7 +64,7 @@ Chuyến một ngày rơi vào ngày cuối kỳ nghỉ thì về sớm hẳn ho
 ## Khi đã kẹt ở cửa ngõ: an toàn hơn là cố nhanh
 
 - **Không leo vỉa hè, không đi ngược chiều, không len vào làn ô tô.** Chen lấn ở nút lớn là cách nhanh nhất để va quệt.
-- **Đi đều ga, giữ khoảng cách.** Dừng đi liên tục giữa trưa dễ mỏi tay và nóng máy; nếu xe có dấu hiệu nóng, xem bài [xe máy nóng máy khi kẹt xe giữa trưa hè](/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-e-may-nguoi-an-toan/).
+- **Đi đều ga, giữ khoảng cách.** Dừng đi liên tục giữa trưa dễ mỏi tay và nóng máy; nếu xe có dấu hiệu nóng, xem bài [xe máy nóng máy khi kẹt xe giữa trưa hè](/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-de-may-nguoi-an-toan/).
 - **Tạt vào nghỉ khi cần.** Một cây xăng hay quán nước ven đường là chỗ đợi dòng xe vơi bớt.
 - **Báo trước nếu có thể trễ giờ trả.** Nhắn tiệm sớm để cùng sắp xếp, thay vì vội ở những cây số cuối.
 

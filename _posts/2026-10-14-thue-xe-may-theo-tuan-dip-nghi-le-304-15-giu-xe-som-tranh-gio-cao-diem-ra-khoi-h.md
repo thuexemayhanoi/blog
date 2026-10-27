@@ -38,7 +38,7 @@ Ngày thường tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long
 3. **Có giao xe tận nơi không.** Giao chỉ trong giờ hoạt động, thời gian và chi phí giao nhận phải xác nhận trước khi đặt.
 4. **Về sớm hoặc muốn ở thêm thì báo thế nào.** Gia hạn dịp lễ nên báo sớm vì xe có thể đã có người giữ.
 
-Chuyện đặt trước bao lâu cho các kỳ nghỉ dài nói chung có ở bài [thuê xe máy dịp lễ dài và Tết: đặt sớm và hỏi lịch nhận trả](/thue-xe/2026/10/11/thue-xe-may-dip-le-dai-va-tet-at-som-va-hoi-lich-nhan-tra-ra-sao/).
+Chuyện đặt trước bao lâu cho các kỳ nghỉ dài nói chung có ở bài [thuê xe máy dịp lễ dài và Tết: đặt sớm và hỏi lịch nhận trả](/thue-xe/2026/10/11/thue-xe-may-dip-le-dai-va-tet-dat-som-va-hoi-lich-nhan-tra-ra-sao/).
 
 ## Nhận xe từ hôm trước để rời Hà Nội lúc sáng sớm
 

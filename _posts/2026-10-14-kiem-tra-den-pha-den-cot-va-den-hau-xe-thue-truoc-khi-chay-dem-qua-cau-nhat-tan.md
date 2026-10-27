@@ -34,7 +34,7 @@ Nổ máy trước khi thử, vì nhiều đời xe chỉ sáng đủ khi máy c
 5. **Đèn biển số.** Bóng nhỏ, hay bị bỏ qua nhất: xem có ánh sáng rọi vào chữ số không.
 6. **Đèn phanh.** Bóp lần lượt phanh trước, phanh sau, đèn hậu phải sáng mạnh lên.
 
-Cách thử đèn phanh kỹ hơn có trong bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-en-phanh-xe-may-thue-truoc-khi-nhan-xe/). Nếu đi một mình, nhờ nhân viên đứng sau nhìn giúp, hoặc lùi đuôi xe sát tường để thấy ánh đèn hắt lại.
+Cách thử đèn phanh kỹ hơn có trong bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-den-phanh-xe-may-thue-truoc-khi-nhan-xe/). Nếu đi một mình, nhờ nhân viên đứng sau nhìn giúp, hoặc lùi đuôi xe sát tường để thấy ánh đèn hắt lại.
 
 ## Đèn cốt xe máy thuê: soi lên tường để xem góc chiếu
 
@@ -47,7 +47,7 @@ Dựng xe thẳng, cách một bức tường vài bước chân, bật cốt v�
 - **Vệt sáng dồn sát chân tường:** chỉ thấy mặt đường ngay trước bánh, khó đoán chỗ nhập làn.
 - **Vệt sáng lệch hẳn sang một bên:** cụm đèn có thể đã bị va hoặc lỏng.
 
-Chở thêm người ở yên sau làm đầu xe nhấc lên và đèn chiếu cao hơn, nên nếu tối nay chở người, hãy để người đó ngồi lên rồi soi lại. Chi tiết về góc chiếu có ở bài [chỉnh góc chiếu đèn pha xe máy](/xe-may/2026/10/11/chinh-goc-chieu-en-pha-xe-may-vi-sao-pha-choi-nguoi-oi-dien-hoac-soi-khong-xa/). Với xe thuê, bạn chỉ cần nhận ra điều bất thường và báo cửa hàng, không tự vặn ốc chỉnh đèn.
+Chở thêm người ở yên sau làm đầu xe nhấc lên và đèn chiếu cao hơn, nên nếu tối nay chở người, hãy để người đó ngồi lên rồi soi lại. Chi tiết về góc chiếu có ở bài [chỉnh góc chiếu đèn pha xe máy](/xe-may/2026/10/11/chinh-goc-chieu-den-pha-xe-may-vi-sao-pha-choi-nguoi-doi-dien-hoac-soi-khong-xa/). Với xe thuê, bạn chỉ cần nhận ra điều bất thường và báo cửa hàng, không tự vặn ốc chỉnh đèn.
 
 ## Nhận xe ban ngày thì thử đèn thế nào
 
@@ -64,7 +64,7 @@ Ghi kết quả cùng phần kiểm tra phanh, lốp, còi trong [checklist nh�
 
 Đừng nghĩ đèn hậu tối một chút vẫn chạy được. Những dấu hiệu sau nên nói với cửa hàng trước khi ký nhận: một bóng không sáng hoặc tắt khi xe rung; pha và cốt sáng gần như nhau; mặt kính đèn mờ đục, nứt, đọng hơi nước; công tắc pha cốt lỏng, gạt không ăn khớp.
 
-Thường thì cửa hàng sẽ thay bóng, kiểm tra giắc cắm hoặc đổi xe khác. Việc của bạn là chỉ ra rõ và đề nghị ghi vào biên bản giao nhận hoặc chụp lại. Không tự tháo mặt đèn hay gắn thêm đèn trợ sáng lên xe thuê, vừa dễ hỏng hệ thống điện, vừa khó phân định trách nhiệm khi trả xe. Còn nếu đèn yếu dần hay tắt giữa đường, bài [đèn pha xe thuê không sáng khi đi đêm](/xe-may/2026/09/29/en-pha-xe-thue-khong-sang-khi-i-em-kiem-tra-gi/) hướng dẫn cách xử lý.
+Thường thì cửa hàng sẽ thay bóng, kiểm tra giắc cắm hoặc đổi xe khác. Việc của bạn là chỉ ra rõ và đề nghị ghi vào biên bản giao nhận hoặc chụp lại. Không tự tháo mặt đèn hay gắn thêm đèn trợ sáng lên xe thuê, vừa dễ hỏng hệ thống điện, vừa khó phân định trách nhiệm khi trả xe. Còn nếu đèn yếu dần hay tắt giữa đường, bài [đèn pha xe thuê không sáng khi đi đêm](/xe-may/2026/09/29/den-pha-xe-thue-khong-sang-khi-di-dem-kiem-tra-gi/) hướng dẫn cách xử lý.
 
 ## Đi xe máy ban đêm qua cầu: dùng đèn cho đúng
 

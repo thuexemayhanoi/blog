@@ -52,7 +52,7 @@ Thay vì tranh luận loại nào "tốt hơn", hãy đi qua ba câu hỏi theo 
 Buổi nhận xe là lúc dễ hỏi nhất, vì bạn đang đứng cạnh chiếc xe và người giao xe. Ngoài loại xăng, hỏi thêm:
 
 - Lượng xăng lúc giao xe là bao nhiêu vạch, và khi trả xe cần để lại mức nào.
-- Nắp bình nằm ở đâu, mở bằng cách nào. Nếu chưa quen, xem bài [đổ xăng cho xe tay ga thuê: nắp xăng ở đâu và thao tác tại trạm](/xe-may/2026/10/11/o-xang-cho-xe-tay-ga-thue-nap-xang-o-au-va-thao-tac-tai-tram/).
+- Nắp bình nằm ở đâu, mở bằng cách nào. Nếu chưa quen, xem bài [đổ xăng cho xe tay ga thuê: nắp xăng ở đâu và thao tác tại trạm](/xe-may/2026/10/11/do-xang-cho-xe-tay-ga-thue-nap-xang-o-dau-va-thao-tac-tai-tram/).
 - Nếu lỡ đổ nhầm loại thì báo ai, theo cách nào.
 
 Chụp một tấm ảnh nhãn nhiên liệu trên nắp bình và lưu vào điện thoại. Lần sau đứng ở cột bơm, bạn chỉ cần mở ảnh ra so, không phải nhớ.
@@ -69,7 +69,7 @@ Thuê tháng nghĩa là bạn đổ xăng nhiều lần, nên vài thói quen nh
 
 **Tắt máy, cất điện thoại.** Tắt hẳn máy trước khi mở nắp, không dùng điện thoại hay hút thuốc gần cột bơm.
 
-**Ghi số km mỗi lần đổ.** Chụp đồng hồ công tơ mét mỗi lần đổ đầy, cuối tháng bạn biết xe đi được bao xa với mỗi bình. Nếu con số tụt bất thường, có thể xe cần kiểm tra, hãy báo tiệm sớm. Cách chạy để đỡ tốn xăng mỗi ngày có trong bài [chạy xe ga tiết kiệm xăng khi đi làm hằng ngày](/thue-xe/2026/10/11/chay-xe-ga-tiet-kiem-xang-khi-i-lam-hang-ngay-thoi-quen-nho-khac-biet-lon/).
+**Ghi số km mỗi lần đổ.** Chụp đồng hồ công tơ mét mỗi lần đổ đầy, cuối tháng bạn biết xe đi được bao xa với mỗi bình. Nếu con số tụt bất thường, có thể xe cần kiểm tra, hãy báo tiệm sớm. Cách chạy để đỡ tốn xăng mỗi ngày có trong bài [chạy xe ga tiết kiệm xăng khi đi làm hằng ngày](/thue-xe/2026/10/11/chay-xe-ga-tiet-kiem-xang-khi-di-lam-hang-ngay-thoi-quen-nho-khac-biet-lon/).
 
 ## Dấu hiệu xe không hợp loại xăng đang dùng
 
@@ -79,7 +79,7 @@ Phần lớn thời gian bạn sẽ không gặp vấn đề nếu theo đúng k
 - Xe khó nổ hơn bình thường, nổ không đều hoặc hụt ga khi vừa đi.
 - Đèn báo lỗi động cơ trên đồng hồ sáng lên.
 
-Khi đó, đừng tự đổ thêm phụ gia hay đổi qua đổi lại nhiều loại. Ghi lại lần đổ xăng gần nhất ở đâu, loại gì, rồi liên hệ tiệm để được hướng dẫn. Nếu nghi đã đổ nhầm hẳn loại nhiên liệu, xem bài [xe tay ga bị sặc xăng sau khi đổ nhầm](/xe-may/2026/10/05/xe-tay-ga-bi-sac-xang-sau-khi-o-nham/) và báo tiệm ngay. Tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở từ 09:00 tới 21:00; mọi việc đổi xe hay hẹn kiểm tra nên hỏi rõ trước khi mang xe tới.
+Khi đó, đừng tự đổ thêm phụ gia hay đổi qua đổi lại nhiều loại. Ghi lại lần đổ xăng gần nhất ở đâu, loại gì, rồi liên hệ tiệm để được hướng dẫn. Nếu nghi đã đổ nhầm hẳn loại nhiên liệu, xem bài [xe tay ga bị sặc xăng sau khi đổ nhầm](/xe-may/2026/10/05/xe-tay-ga-bi-sac-xang-sau-khi-do-nham/) và báo tiệm ngay. Tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở từ 09:00 tới 21:00; mọi việc đổi xe hay hẹn kiểm tra nên hỏi rõ trước khi mang xe tới.
 
 ## Tóm lại
 

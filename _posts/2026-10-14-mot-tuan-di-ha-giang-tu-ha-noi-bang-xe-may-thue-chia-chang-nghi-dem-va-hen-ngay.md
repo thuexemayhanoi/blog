@@ -48,7 +48,7 @@ Khung này chỉ là gợi ý, nhưng nguyên tắc thì nên giữ: chặng đ�
 
 Chỗ nghỉ đêm quyết định chặng hôm sau dài hay ngắn. Với người thuê xe theo tuần, có ba nguyên tắc đơn giản:
 
-- **Đêm đầu nghỉ ở thành phố Hà Giang hoặc gần đó.** Đường lên đèo không nên chạy khi đã mệt sau cả ngày rời Hà Nội. Bài [từ Hà Nội lên Hà Giang nên nghỉ đêm đầu ở đâu](/cung-duong/2026/10/09/tu-ha-noi-len-ha-giang-nen-nghi-em-au-o-au/) so sánh kỹ từng lựa chọn.
+- **Đêm đầu nghỉ ở thành phố Hà Giang hoặc gần đó.** Đường lên đèo không nên chạy khi đã mệt sau cả ngày rời Hà Nội. Bài [từ Hà Nội lên Hà Giang nên nghỉ đêm đầu ở đâu](/cung-duong/2026/10/09/tu-ha-noi-len-ha-giang-nen-nghi-dem-dau-o-dau/) so sánh kỹ từng lựa chọn.
 - **Đặt trước ở những nơi đông khách, giữ linh hoạt ở chỗ còn lại.** Phố cổ Đồng Văn hay Mèo Vạc cuối tuần dễ hết phòng, còn Yên Minh hay Du Già thường dễ thở hơn. Hỏi chủ nhà nghỉ có chỗ để xe trong nhà hoặc có mái che không, vì xe thuê để ngoài trời qua đêm sương là việc nên tránh.
 - **Đêm áp chót ở gần đường về.** Nghỉ ở thành phố Hà Giang trước ngày trả xe sẽ rút ngắn chặng cuối hơn nhiều so với xuất phát từ Đồng Văn hay Mèo Vạc.
 
@@ -74,7 +74,7 @@ Thuê theo tuần cho đường đèo khác thuê vài ngày trong phố, nên l
 - Hỏi nên xử lý thế nào nếu xe hỏng dọc đường, cần liên hệ ai và gửi ảnh gì.
 - Giấy tờ để lại khi thuê: hỏi rõ trực tiếp và xin biên nhận.
 
-Về chọn loại xe, xe số thường được khuyên cho đèo dốc vì chủ động vào số thấp khi xuống dốc dài. Danh sách việc cần làm trước khi lên đường có trong bài [chuẩn bị xe máy đi Hà Giang từ nhà xe thuê](/cung-duong/2026/09/28/chuan-bi-xe-may-i-ha-giang-tu-nha-xe-thue/). Giữa tuần, ở ngày trống, nhìn lại xích, lốp và tiếng phanh một lượt.
+Về chọn loại xe, xe số thường được khuyên cho đèo dốc vì chủ động vào số thấp khi xuống dốc dài. Danh sách việc cần làm trước khi lên đường có trong bài [chuẩn bị xe máy đi Hà Giang từ nhà xe thuê](/cung-duong/2026/09/28/chuan-bi-xe-may-di-ha-giang-tu-nha-xe-thue/). Giữa tuần, ở ngày trống, nhìn lại xích, lốp và tiếng phanh một lượt.
 
 ## Tóm lại
 

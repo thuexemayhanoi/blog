@@ -33,7 +33,7 @@ Một cuộc trao đổi với tiệm nên đi qua những ý sau:
 - **Giấy tờ đi kèm xe:** bạn cầm những gì trên xe khi bị kiểm tra ngoài tỉnh, cần mang bản nào.
 - **Báo trước:** tiệm muốn được báo trước mỗi chuyến hay chỉ cần thống nhất một lần.
 
-Câu trả lời cho từng ý là của riêng tiệm bạn thuê, không có mẫu chung. Với tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, cách đơn giản nhất là hỏi trực tiếp khi nhận xe hoặc ghé lại trong giờ mở cửa từ 09:00 đến 21:00. Các điều khoản nên có trong một hợp đồng tháng được liệt kê kỹ hơn ở bài [hợp đồng thuê xe máy theo tháng](/thue-xe/2026/10/11/hop-ong-thue-xe-may-theo-thang-ieu-khoan-nen-co/).
+Câu trả lời cho từng ý là của riêng tiệm bạn thuê, không có mẫu chung. Với tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, cách đơn giản nhất là hỏi trực tiếp khi nhận xe hoặc ghé lại trong giờ mở cửa từ 09:00 đến 21:00. Các điều khoản nên có trong một hợp đồng tháng được liệt kê kỹ hơn ở bài [hợp đồng thuê xe máy theo tháng](/thue-xe/2026/10/11/hop-dong-thue-xe-may-theo-thang-dieu-khoan-nen-co/).
 
 ## Tự chạy xe thuê về quê cuối tuần: được gì, mất gì
 
@@ -65,7 +65,7 @@ Khi đã thống nhất với tiệm, vài việc nhỏ giúp chuyến đi xe m�
 - **Chọn giờ đi tránh cao điểm:** xuất phát sớm sáng thứ Bảy thường dễ chịu hơn chen ra cửa ngõ thành phố lúc chiều tối thứ Sáu.
 - **Chụp ảnh đồng hồ quãng đường** trước và sau chuyến, để khi có thắc mắc về hao mòn thì hai bên có số liệu chung.
 
-Kinh nghiệm chuẩn bị cho những chuyến đi xa hơn thành phố một chút có ở bài [đi xe máy từ Hà Nội ra Nội Bài hoặc các tỉnh lân cận](/thue-xe/2026/09/27/i-xe-may-tu-ha-noi-ra-noi-bai-hoac-cac-tinh-lan-can/). Nếu chẳng may va quẹt dọc đường, các bước nên làm ngay được tóm trong bài [xe thuê bị tai nạn](/thue-xe/2026/09/27/xe-thue-bi-tai-nan-cac-buoc-ngay-sau-va-cham/).
+Kinh nghiệm chuẩn bị cho những chuyến đi xa hơn thành phố một chút có ở bài [đi xe máy từ Hà Nội ra Nội Bài hoặc các tỉnh lân cận](/thue-xe/2026/09/27/di-xe-may-tu-ha-noi-ra-noi-bai-hoac-cac-tinh-lan-can/). Nếu chẳng may va quẹt dọc đường, các bước nên làm ngay được tóm trong bài [xe thuê bị tai nạn](/thue-xe/2026/09/27/xe-thue-bi-tai-nan-cac-buoc-ngay-sau-va-cham/).
 
 ## Gợi ý chọn nhanh cho từng hoàn cảnh
 

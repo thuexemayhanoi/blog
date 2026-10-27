@@ -17,7 +17,7 @@ writer_session: s-claude-w2
 
 Chuyện đổi xe giữa tuần thuê thường bắt đầu rất nhẹ nhàng: ngày thứ hai bạn thấy chiếc xe số hơi mỏi tay khi nhích qua ngã tư Nguyễn Văn Cừ giờ tan tầm, ngày thứ ba có thêm người thân từ quê lên cần chở, hoặc lịch công việc đổi sang những chuyến ra Gia Lâm, Đông Anh dài hơn dự tính. Xe không hỏng, chỉ là không còn hợp. Bài này không bàn chuyện xe gặp sự cố, mà dành cho người thấy dòng xe đang thuê không khớp nhu cầu: khi nào đáng đổi, khi nào chỉ cần thêm một hai ngày làm quen, và nên trao đổi gì với tiệm để việc đổi diễn ra trong một lần ghé.
 
-Nếu lý do muốn đổi là xe có lỗi kỹ thuật, quy trình lại khác, đã có bài riêng về [đổi xe giữa kỳ thuê khi xe gặp vấn đề](/thue-xe/2026/10/10/oi-xe-giua-ky-thue-khi-xe-gap-van-e/).
+Nếu lý do muốn đổi là xe có lỗi kỹ thuật, quy trình lại khác, đã có bài riêng về [đổi xe giữa kỳ thuê khi xe gặp vấn đề](/thue-xe/2026/10/10/doi-xe-giua-ky-thue-khi-xe-gap-van-de/).
 
 ## Đổi xe giữa tuần thuê: phân biệt "chưa quen" và "không hợp"
 

@@ -64,16 +64,16 @@ Nếu sau khi rửa đồng hồ báo lỗi, xe không nhận chìa, đèn chậ
 Không có lịch cố định, tùy quãng đường và thời tiết. Gợi ý cho người đi làm hằng ngày ở Hà Nội:
 
 - **Mùa khô, đi phố là chính:** lau bụi bằng khăn ẩm mỗi tuần, rửa kỹ khoảng hai, ba tuần một lần.
-- **Sau mưa lớn hoặc lội qua đoạn ngập:** lau sơ trong ngày, chú ý gầm và mâm bánh, theo gợi ý trong bài [xe máy sau chuyến đi mưa nên lau chùi điểm nào](/xe-may/2026/10/10/xe-may-sau-chuyen-i-mua-nen-lau-chui-iem-nao/).
+- **Sau mưa lớn hoặc lội qua đoạn ngập:** lau sơ trong ngày, chú ý gầm và mâm bánh, theo gợi ý trong bài [xe máy sau chuyến đi mưa nên lau chùi điểm nào](/xe-may/2026/10/10/xe-may-sau-chuyen-di-mua-nen-lau-chui-diem-nao/).
 - **Đi đường đất ở Gia Lâm, Đông Anh:** rửa sớm, vì bùn khô bám gầm giữ ẩm lâu, dễ làm gỉ chi tiết kim loại.
 
-Lọc gió nên để thợ kiểm tra theo lịch bảo dưỡng chứ không tự rửa. Dấu hiệu lọc gió bẩn có trong bài [lọc gió xe máy bẩn: khi nào cần vệ sinh hay thay](/xe-may/2026/10/11/loc-gio-xe-may-ban-dau-hieu-khi-i-xe-va-luc-nao-can-ve-sinh-hay-thay/).
+Lọc gió nên để thợ kiểm tra theo lịch bảo dưỡng chứ không tự rửa. Dấu hiệu lọc gió bẩn có trong bài [lọc gió xe máy bẩn: khi nào cần vệ sinh hay thay](/xe-may/2026/10/11/loc-gio-xe-may-ban-dau-hieu-khi-di-xe-va-luc-nao-can-ve-sinh-hay-thay/).
 
 ## Ra tiệm rửa xe: dặn thợ những gì
 
 Không phải nhà trọ nào cũng có chỗ rửa. Khi mang xe ga thuê ra tiệm, cứ dặn thợ: không xịt áp lực thẳng vào ổ khóa, tay lái và đồng hồ; không xịt vào hông trái phía sau nơi có miệng hút gió; mở cốp lấy hết đồ ra và không xịt xuyên gầm cốp; lau khô bằng khăn sau khi rửa. Thợ quen việc thường hiểu ngay, nếu thấy họ cầm vòi sát từng khe thì nhắc lại một cách lịch sự.
 
-Chuyện rửa xe trước ngày trả có cần không và nên thống nhất gì với cửa hàng từ lúc nhận xe, bạn xem bài [rửa xe trước khi trả xe thuê](/thue-xe/2026/10/11/rua-xe-truoc-khi-tra-xe-thue-co-can-khong-va-nen-hoi-gi-tu-au/).
+Chuyện rửa xe trước ngày trả có cần không và nên thống nhất gì với cửa hàng từ lúc nhận xe, bạn xem bài [rửa xe trước khi trả xe thuê](/thue-xe/2026/10/11/rua-xe-truoc-khi-tra-xe-thue-co-can-khong-va-nen-hoi-gi-tu-dau/).
 
 ## Giữ xe sạch lâu hơn giữa hai lần rửa
 

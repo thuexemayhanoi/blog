@@ -35,7 +35,7 @@ Chân chống nằm phía dưới bên trái, đúng phía xe nghiêng khi bạn
 3. **Hạ chân chống, để xe tựa vào.** Xe phải đứng ở độ nghiêng vừa phải, không ngả sâu đến mức tay lái gần chạm đất. Đẩy nhẹ yên sang phải: chân chống không được trượt hay gập lại.
 4. **Nhìn đế chân chống.** Đế cong, nứt hoặc mòn vẹt một bên làm xe đứng không vững trên nền gạch lát hay nhựa.
 
-Một số đời xe ga có công tắc ngắt máy ở chân chống nghiêng, máy không nổ khi chân còn hạ. Nếu cửa hàng cho biết xe có tính năng này, hãy nhờ chỉ cách dùng, để khỏi lúng túng khi xe không nổ máy giữa đường. Bài [nhận xe tay ga lần đầu](/thue-xe/2026/10/11/nhan-xe-tay-ga-lan-au-mo-cop-o-xang-chan-chong-nen-nho-chi-nhung-gi/) có gợi ý những thao tác nên nhờ chỉ tận tay.
+Một số đời xe ga có công tắc ngắt máy ở chân chống nghiêng, máy không nổ khi chân còn hạ. Nếu cửa hàng cho biết xe có tính năng này, hãy nhờ chỉ cách dùng, để khỏi lúng túng khi xe không nổ máy giữa đường. Bài [nhận xe tay ga lần đầu](/thue-xe/2026/10/11/nhan-xe-tay-ga-lan-dau-mo-cop-do-xang-chan-chong-nen-nho-chi-nhung-gi/) có gợi ý những thao tác nên nhờ chỉ tận tay.
 
 ## Dựng chân chống giữa xe ga đúng lực rồi mới thử
 
@@ -70,7 +70,7 @@ Lúc chạy thẳng, chân chống thòng nhẹ có khi chẳng chạm gì. Vấ
 
 Chân chống giữa lò xo yếu thì hay va xuống khi qua gờ giảm tốc hoặc ổ gà, vì xe nhún xuống mà chân chống không được giữ chặt. Người mới đi xe ga thường giật mình, phanh gấp, và chính cú phanh đó mới nguy hiểm.
 
-Gặp chuyện giữa đường, đừng cố chạy tiếp. Tấp vào lề, kiểm tra chân chống và gọi báo cửa hàng. Cách xử lý cụ thể có trong bài [xe thuê bị kẹt chân chống giữa đường](/thue-xe/2026/10/07/xe-thue-bi-ket-chan-chong-giua-uong/).
+Gặp chuyện giữa đường, đừng cố chạy tiếp. Tấp vào lề, kiểm tra chân chống và gọi báo cửa hàng. Cách xử lý cụ thể có trong bài [xe thuê bị kẹt chân chống giữa đường](/thue-xe/2026/10/07/xe-thue-bi-ket-chan-chong-giua-duong/).
 
 ## Khi chân chống có vấn đề lúc nhận xe
 

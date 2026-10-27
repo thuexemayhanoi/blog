@@ -56,7 +56,7 @@ Mặt sông rộng nên gió thổi ngang cầu mạnh hơn hẳn trong phố, n
 - **Nhìn xa về phía trước,** không nhìn xuống mặt cầu hay nhìn sang hông.
 - **Kéo kín áo khoác, áo mưa.** Áo phồng lên như cánh buồm sẽ khiến gió kéo bạn mạnh hơn.
 
-Đồ treo ở móc trước, túi to buộc cao ở yên sau cũng hứng gió. Ngày gió to, hãy cất vào cốp hoặc đặt thấp ở sàn để chân. Kỹ năng giữ xe trong gió được nói thêm ở bài [đi xe máy khi gió mùa về](/ky-nang/2026/10/04/i-xe-may-khi-gio-mua-ve-giu-xe-thang-huong/).
+Đồ treo ở móc trước, túi to buộc cao ở yên sau cũng hứng gió. Ngày gió to, hãy cất vào cốp hoặc đặt thấp ở sàn để chân. Kỹ năng giữ xe trong gió được nói thêm ở bài [đi xe máy khi gió mùa về](/ky-nang/2026/10/04/di-xe-may-khi-gio-mua-ve-giu-xe-thang-huong/).
 
 ## Giờ đông trên cầu: dồn ứ ở dốc và cách giữ bình tĩnh
 

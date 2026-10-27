@@ -50,7 +50,7 @@ Tiệm cho thuê nắm lịch bảo dưỡng của từng xe, biết lốp nào 
 
 ### Chi phí tự trả có thể không được tính
 
-Nếu bạn tự sửa mà chưa hỏi, khoản đã trả có được tiệm tính lại hay không là chuyện rất khó nói sau đó. Cách đơn giản nhất là hỏi trước, được đồng ý bằng tin nhắn rồi mới làm. Bài [xe thuê bị thủng lốp giữa đường, ai chịu phí vá](/thue-xe/2026/10/05/xe-thue-bi-thung-lop-giua-uong-ai-chiu-phi-va/) nói kỹ hơn về chuyện thống nhất chi phí.
+Nếu bạn tự sửa mà chưa hỏi, khoản đã trả có được tiệm tính lại hay không là chuyện rất khó nói sau đó. Cách đơn giản nhất là hỏi trước, được đồng ý bằng tin nhắn rồi mới làm. Bài [xe thuê bị thủng lốp giữa đường, ai chịu phí vá](/thue-xe/2026/10/05/xe-thue-bi-thung-lop-giua-duong-ai-chiu-phi-va/) nói kỹ hơn về chuyện thống nhất chi phí.
 
 ### Thợ dọc đường có thể không đáng tin
 
@@ -80,7 +80,7 @@ Bằng chứng không phải để đề phòng tiệm, mà để cả hai bên 
 - **Ảnh và video lúc xe hỏng**: chỗ hỏng, vị trí, thời gian.
 - **Lịch sử tin nhắn** với tiệm, nhất là chỗ hai bên thống nhất cách xử lý.
 - **Hóa đơn hoặc ảnh tờ ghi tiền** nếu đã sửa ở chỗ tiệm chỉ định.
-- **Ảnh tình trạng xe lúc nhận** để so lại. Cách quay video lúc nhận và trả được hướng dẫn trong bài [ghi hình xe khi nhận và trả để làm bằng chứng](/thue-xe/2026/09/27/ghi-hinh-xe-khi-nhan-va-tra-e-lam-bang-chung/).
+- **Ảnh tình trạng xe lúc nhận** để so lại. Cách quay video lúc nhận và trả được hướng dẫn trong bài [ghi hình xe khi nhận và trả để làm bằng chứng](/thue-xe/2026/09/27/ghi-hinh-xe-khi-nhan-va-tra-de-lam-bang-chung/).
 
 Khi trả xe, kể lại ngắn gọn diễn biến, đưa ảnh và tin nhắn cho tiệm xem cùng. Nếu có khoản nào cần đối chiếu, xin biên nhận ghi rõ.
 

@@ -64,7 +64,7 @@ Một tin nhắn tóm tắt lại những điểm đã thống nhất, gửi cho
 
 ## Thêm một tuần hay chuyển sang gói dài hơn
 
-Nếu bạn gia hạn lần thứ hai, thứ ba, đã đến lúc tính lại. Người ở Hà Nội từ hai đến ba tuần trở lên thường nên hỏi luôn về gói tháng thay vì gia hạn từng tuần một, vừa đỡ phải nhớ ngày, vừa dễ lên kế hoạch bảo dưỡng xe. Phần so sánh chi tiết có trong bài [ở Hà Nội hai đến ba tuần: thuê theo tuần hay chuyển sang gói tháng](/thue-xe/2026/10/11/o-ha-noi-hai-en-ba-tuan-thue-theo-tuan-hay-chuyen-sang-goi-thang/).
+Nếu bạn gia hạn lần thứ hai, thứ ba, đã đến lúc tính lại. Người ở Hà Nội từ hai đến ba tuần trở lên thường nên hỏi luôn về gói tháng thay vì gia hạn từng tuần một, vừa đỡ phải nhớ ngày, vừa dễ lên kế hoạch bảo dưỡng xe. Phần so sánh chi tiết có trong bài [ở Hà Nội hai đến ba tuần: thuê theo tuần hay chuyển sang gói tháng](/thue-xe/2026/10/11/o-ha-noi-hai-den-ba-tuan-thue-theo-tuan-hay-chuyen-sang-goi-thang/).
 
 Ngược lại, nếu bạn chỉ cần thêm một hai ngày, hãy hỏi tiệm xem nên gia hạn lẻ theo ngày hay giữ nguyên tuần mới. Câu trả lời phụ thuộc vào lịch xe của tiệm và kế hoạch của bạn, nên cứ hỏi thẳng.
 

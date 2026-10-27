@@ -37,7 +37,7 @@ Cầu Chương Dương là lựa chọn mặc định của phần lớn ngườ
 2. Trên cầu gió sông khá mạnh, nhất là chiều mùa đông, giữ tay lái chắc và giảm tốc khi có xe tải vượt.
 3. Xuống cầu phía nội thành, để ý biển chỉ dẫn rẽ vào Trần Quang Khải hay Trần Nhật Duật để không bị cuốn sai hướng.
 
-Nếu muốn đi thử vào lúc vắng để làm quen, bài [đi xe máy qua cầu Chương Dương lúc sáng sớm](/du-lich/2026/10/04/i-xe-may-qua-cau-chuong-duong-luc-sang-som-uong-va-luu-y/) tả kỹ đường lên xuống cầu.
+Nếu muốn đi thử vào lúc vắng để làm quen, bài [đi xe máy qua cầu Chương Dương lúc sáng sớm](/du-lich/2026/10/04/di-xe-may-qua-cau-chuong-duong-luc-sang-som-duong-va-luu-y/) tả kỹ đường lên xuống cầu.
 
 ## Cầu Long Biên và cầu Vĩnh Tuy: khi nào nên đổi cầu
 
@@ -47,11 +47,11 @@ Cầu Long Biên hẹp và chậm, mặt cầu có đoạn gồ ghề, nhưng kh
 
 ### Khi điểm đến ở phía nam nội thành
 
-Người ở Sài Đồng, Phúc Đồng, Thạch Bàn hay đi từ Trâu Quỳ lên theo Nguyễn Đức Thuận, Nguyễn Văn Linh thường thấy cầu Vĩnh Tuy thuận hơn. Cầu rộng, hãy đi đúng làn xe máy theo vạch kẻ và biển báo, sang bên kia là Minh Khai. Chỉ cần nhớ đường dẫn hai đầu cầu khá dài, ngày mưa gió nên đi chậm và giữ khoảng cách. Bài [chạy xe sáng sớm qua cầu Vĩnh Tuy](/cung-duong/2026/10/01/chay-xe-sang-som-qua-cau-vinh-tuy-cung-uong-cho-nguoi-moi/) có thêm mô tả đường lên xuống cho người mới.
+Người ở Sài Đồng, Phúc Đồng, Thạch Bàn hay đi từ Trâu Quỳ lên theo Nguyễn Đức Thuận, Nguyễn Văn Linh thường thấy cầu Vĩnh Tuy thuận hơn. Cầu rộng, hãy đi đúng làn xe máy theo vạch kẻ và biển báo, sang bên kia là Minh Khai. Chỉ cần nhớ đường dẫn hai đầu cầu khá dài, ngày mưa gió nên đi chậm và giữ khoảng cách. Bài [chạy xe sáng sớm qua cầu Vĩnh Tuy](/cung-duong/2026/10/01/chay-xe-sang-som-qua-cau-vinh-tuy-cung-duong-cho-nguoi-moi/) có thêm mô tả đường lên xuống cho người mới.
 
 ### Khi đang ở xa về phía Gia Lâm
 
-Từ Yên Viên, Đặng Xá hay Trâu Quỳ, đoạn đường trong bờ đông thường chiếm phần lớn thời gian, cầu chỉ là chặng cuối. Hãy chọn cầu theo trục gần chỗ ở nhất: phía bắc theo Ngô Gia Tự về Chương Dương, phía nam theo Nguyễn Văn Linh về Vĩnh Tuy. Bài [thuê xe máy khu vực Gia Lâm phía đông Hà Nội](/thue-xe/2026/09/29/thue-xe-may-khu-vuc-gia-lam-phia-ong-ha-noi/) nói thêm về đi lại trong khu này.
+Từ Yên Viên, Đặng Xá hay Trâu Quỳ, đoạn đường trong bờ đông thường chiếm phần lớn thời gian, cầu chỉ là chặng cuối. Hãy chọn cầu theo trục gần chỗ ở nhất: phía bắc theo Ngô Gia Tự về Chương Dương, phía nam theo Nguyễn Văn Linh về Vĩnh Tuy. Bài [thuê xe máy khu vực Gia Lâm phía đông Hà Nội](/thue-xe/2026/09/29/thue-xe-may-khu-vuc-gia-lam-phia-dong-ha-noi/) nói thêm về đi lại trong khu này.
 
 ## Chọn cầu theo giờ và theo chiều đông xe
 

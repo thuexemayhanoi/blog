@@ -49,7 +49,7 @@ Phòng mới đẹp đến đâu cũng chưa chắc có chỗ để xe tốt. Tr
 - **Chung cư**: hỏi ban quản lý thủ tục làm thẻ gửi xe tháng. Một số nơi yêu cầu giấy tờ xe hoặc xác nhận của chủ xe, khi đó cần nhờ tiệm hỗ trợ. Cách xin giấy tờ cho trường hợp này có trong bài [làm thẻ gửi xe tháng ở chung cư cho xe thuê](/thue-xe/2026/10/14/lam-the-gui-xe-thang-o-chung-cu-cho-xe-thue-can-xin-gi-tu-cua-hang/).
 - **Bãi giữ xe trong ngõ**: xin vé tháng, ghi rõ biển số, hỏi giờ đóng mở để không bị kẹt xe khi đi làm sớm.
 
-Tuần đầu ở chỗ mới, khóa cổ, khóa đĩa đầy đủ và để ý xem khu vực có hay mất đồ không. Những thói quen giữ xe qua đêm được tổng hợp ở bài [chống trộm cho xe máy ở nhà trọ](/thue-xe/2026/10/11/chong-trom-cho-xe-may-o-qua-em-o-nha-tro-khoa-vi-tri-o-va-thoi-quen/).
+Tuần đầu ở chỗ mới, khóa cổ, khóa đĩa đầy đủ và để ý xem khu vực có hay mất đồ không. Những thói quen giữ xe qua đêm được tổng hợp ở bài [chống trộm cho xe máy ở nhà trọ](/thue-xe/2026/10/11/chong-trom-cho-xe-may-do-qua-dem-o-nha-tro-khoa-vi-tri-do-va-thoi-quen/).
 
 ## Chở đồ chuyển trọ bằng xe máy: giới hạn của xe thuê
 

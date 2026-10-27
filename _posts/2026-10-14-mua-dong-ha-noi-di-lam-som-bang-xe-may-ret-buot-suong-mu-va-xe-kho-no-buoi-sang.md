@@ -43,7 +43,7 @@ Phần lớn sự vội vàng buổi sáng đến từ việc tìm đồ. Hãy d
 4. **Xe số có cần đạp thì đạp vài lần** trước khi dùng đề điện, đỡ cho ắc quy.
 5. **Để máy chạy êm một lúc** trong lúc bạn đeo găng, cài mũ. Đoạn đầu đi chậm, không rồ ga.
 
-Nếu xe nổ được nhưng đèn pha mờ, còi yếu, hoặc sáng nào cũng phải đề rất nhiều lần, đó là dấu hiệu ắc quy hay bugi cần xem. Với xe thuê theo tháng, đừng cố chịu đến cuối kỳ: báo tiệm sớm để được kiểm tra hoặc hẹn mang xe qua trong giờ mở cửa. Cách xử lý chi tiết khi máy còn lạnh có ở bài [đề xe máy thuê lúc lạnh máy](/ky-nang/2026/10/07/e-xe-may-thue-luc-lanh-may-kieu-gi-cho-de/).
+Nếu xe nổ được nhưng đèn pha mờ, còi yếu, hoặc sáng nào cũng phải đề rất nhiều lần, đó là dấu hiệu ắc quy hay bugi cần xem. Với xe thuê theo tháng, đừng cố chịu đến cuối kỳ: báo tiệm sớm để được kiểm tra hoặc hẹn mang xe qua trong giờ mở cửa. Cách xử lý chi tiết khi máy còn lạnh có ở bài [đề xe máy thuê lúc lạnh máy](/ky-nang/2026/10/07/de-xe-may-thue-luc-lanh-may-kieu-gi-cho-de/).
 
 ## Giữ ấm khi đi xe máy suốt quãng đường đi làm
 
@@ -66,7 +66,7 @@ Sáng sương dày, mọi người đều vội nhưng tầm nhìn lại kém. V
 - **Không vượt khi không nhìn rõ phía trước,** nhất là trên các trục rộng như đường Võ Chí Công hay đại lộ Thăng Long, nơi xe chạy nhanh.
 - **Kính mũ mờ hơi thở thì hé kính một chút.**
 
-Nếu sương quá dày và bạn không có ca bắt buộc phải vào sớm, dừng lại ở quán ven đường một lát chờ sương mỏng đi là lựa chọn khôn ngoan. Nếu được linh hoạt giờ giấc, bạn có thể tham khảo cách chọn giờ xuất phát trong bài [giờ cao điểm Hà Nội](/thue-xe/2026/10/11/gio-cao-iem-ha-noi-chon-gio-xuat-phat-va-uong-i-e-o-ket-khi-i-lam/).
+Nếu sương quá dày và bạn không có ca bắt buộc phải vào sớm, dừng lại ở quán ven đường một lát chờ sương mỏng đi là lựa chọn khôn ngoan. Nếu được linh hoạt giờ giấc, bạn có thể tham khảo cách chọn giờ xuất phát trong bài [giờ cao điểm Hà Nội](/thue-xe/2026/10/11/gio-cao-diem-ha-noi-chon-gio-xuat-phat-va-duong-di-de-do-ket-khi-di-lam/).
 
 ## Thuê tháng mùa đông khác thuê tuần ở điểm nào
 

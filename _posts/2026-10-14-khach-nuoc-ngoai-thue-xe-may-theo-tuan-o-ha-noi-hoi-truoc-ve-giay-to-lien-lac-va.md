@@ -57,7 +57,7 @@ Một mẹo nhỏ: lưu sẵn vài câu ngắn để gửi kèm vị trí trên 
 - **Mất chìa khóa hoặc làm trầy xe:** báo ngay hay chờ lúc trả xe?
 - **Muốn đổi xe giữa tuần**, ví dụ từ xe số sang xe ga: có được không?
 
-Ghi lại câu trả lời, nhất là phần chi phí. Nếu cần giao xe đến khách sạn hay nhận lại xe tận nơi, thời gian và chi phí phải xác nhận trước khi đặt, và tiệm chỉ giao nhận trong giờ mở cửa, không có giao trước chín giờ sáng hay sau chín giờ tối. Với sự cố nghiêm trọng như tai nạn hay có người bị thương, hãy gọi số khẩn cấp trước rồi mới báo tiệm; bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/) giải thích từng số dùng cho việc gì.
+Ghi lại câu trả lời, nhất là phần chi phí. Nếu cần giao xe đến khách sạn hay nhận lại xe tận nơi, thời gian và chi phí phải xác nhận trước khi đặt, và tiệm chỉ giao nhận trong giờ mở cửa, không có giao trước chín giờ sáng hay sau chín giờ tối. Với sự cố nghiêm trọng như tai nạn hay có người bị thương, hãy gọi số khẩn cấp trước rồi mới báo tiệm; bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/) giải thích từng số dùng cho việc gì.
 
 Thuê dài ngày cũng nên hẹn một lần ghé tiệm giữa tuần để xem lại lốp, phanh và đèn, nhất là khi bạn đã chạy nhiều hoặc gặp mưa.
 

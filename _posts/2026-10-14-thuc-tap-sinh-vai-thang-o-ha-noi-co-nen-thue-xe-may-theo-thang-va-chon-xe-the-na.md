@@ -25,7 +25,7 @@ Trước khi hỏi thuê xe, hãy trả lời thật ba câu dưới đây.
 2. **Công việc có phải ra ngoài không?** Thực tập kế toán ngồi văn phòng khác với thực tập kinh doanh, truyền thông, khảo sát thị trường phải chạy gặp khách, đi chụp ảnh, đi sự kiện ở Hoàn Kiếm, Tây Hồ, Long Biên trong cùng một ngày.
 3. **Giờ về có cố định không?** Nhiều nơi cho thực tập sinh về đúng giờ, nhưng cũng có ngành hay tăng ca, tan lúc tối muộn khi buýt đã thưa.
 
-Nếu cả ba câu đều nghiêng về phía "gần, ít đi ngoài, về đúng giờ", bạn có thể chưa cần xe. Bài [thuê xe máy tháng hay đi xe buýt và gọi xe công nghệ](/thue-xe/2026/10/11/thue-xe-may-thang-hay-i-xe-buyt-va-goi-xe-cong-nghe-cach-tinh-theo-so-chuyen/) có cách đếm số chuyến mỗi tuần để so sánh cụ thể hơn.
+Nếu cả ba câu đều nghiêng về phía "gần, ít đi ngoài, về đúng giờ", bạn có thể chưa cần xe. Bài [thuê xe máy tháng hay đi xe buýt và gọi xe công nghệ](/thue-xe/2026/10/11/thue-xe-may-thang-hay-di-xe-buyt-va-goi-xe-cong-nghe-cach-tinh-theo-so-chuyen/) có cách đếm số chuyến mỗi tuần để so sánh cụ thể hơn.
 
 ## Thuê xe máy cho thực tập sinh: khi nào gói tháng là hợp lý
 
@@ -82,7 +82,7 @@ Tuần cuối thực tập thường bận nhất với báo cáo, nhận xét v
 - Gom đủ chìa khóa, mũ bảo hiểm, giấy tờ xe nhận lúc đầu.
 - Nếu muốn ở lại làm chính thức, hỏi sớm về việc gia hạn thay vì trả rồi thuê lại.
 
-Danh sách kiểm tra chi tiết có trong bài [trả xe máy thuê sau một tháng](/thue-xe/2026/10/11/tra-xe-may-thue-sau-mot-thang-checklist-15-phut-truoc-ngay-tra/). Nếu bạn còn đang đi học và chỉ cần xe theo học kỳ, bài [thuê xe máy cho sinh viên đi học](/thue-xe/2026/10/11/thue-xe-may-cho-sinh-vien-i-hoc-gia-va-ieu-kien/) sẽ sát hơn với hoàn cảnh của bạn.
+Danh sách kiểm tra chi tiết có trong bài [trả xe máy thuê sau một tháng](/thue-xe/2026/10/11/tra-xe-may-thue-sau-mot-thang-checklist-15-phut-truoc-ngay-tra/). Nếu bạn còn đang đi học và chỉ cần xe theo học kỳ, bài [thuê xe máy cho sinh viên đi học](/thue-xe/2026/10/11/thue-xe-may-cho-sinh-vien-di-hoc-gia-va-dieu-kien/) sẽ sát hơn với hoàn cảnh của bạn.
 
 ## Tóm lại
 

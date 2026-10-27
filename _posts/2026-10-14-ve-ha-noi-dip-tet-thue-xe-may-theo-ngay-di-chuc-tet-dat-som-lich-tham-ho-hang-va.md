@@ -25,7 +25,7 @@ Người về quê, người ở lại, khách du lịch đều cần xe vào c�
 - **Ngày nhận và ngày trả.** Nếu muốn nhận xe trước giao thừa để mùng một đi sớm, hỏi xem có nhận được vào hôm đó không và trả vào ngày nào.
 - **Giấy tờ và đặt cọc.** Mang theo giấy tờ tùy thân, bằng lái; mức cọc và loại giấy tờ được giữ hãy hỏi rõ trực tiếp, xin biên nhận khi để lại bất cứ thứ gì.
 
-Chuyện đặt trước bao lâu và cách hẹn nhận trả trong kỳ nghỉ dài được nói kỹ ở bài [thuê xe máy dịp lễ dài và Tết: đặt sớm và hỏi lịch nhận trả](/thue-xe/2026/10/11/thue-xe-may-dip-le-dai-va-tet-at-som-va-hoi-lich-nhan-tra-ra-sao/). Bài này tập trung vào việc dùng xe trong mấy ngày chúc Tết.
+Chuyện đặt trước bao lâu và cách hẹn nhận trả trong kỳ nghỉ dài được nói kỹ ở bài [thuê xe máy dịp lễ dài và Tết: đặt sớm và hỏi lịch nhận trả](/thue-xe/2026/10/11/thue-xe-may-dip-le-dai-va-tet-dat-som-va-hoi-lich-nhan-tra-ra-sao/). Bài này tập trung vào việc dùng xe trong mấy ngày chúc Tết.
 
 ## Thuê theo ngày hay gộp cả kỳ nghỉ
 

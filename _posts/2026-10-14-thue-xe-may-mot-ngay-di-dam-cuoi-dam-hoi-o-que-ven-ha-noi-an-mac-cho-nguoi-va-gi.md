@@ -25,13 +25,13 @@ Nhận thiệp mời ăn hỏi của bạn ở Kiêu Kỵ, Gia Lâm, hay đám c
 - **Thời gian chạy.** Từ trung tâm sang Gia Lâm qua cầu Chương Dương hay cầu Vĩnh Tuy không xa, nhưng lên Sóc Sơn, xuống Thường Tín hay sang Mê Linh thì cần dư dả hơn, nhất là khi phải tìm đường vào thôn.
 - **Giờ trả xe.** Tiệm làm việc từ 09:00 đến 21:00, nên nếu thuê theo ngày, hãy tính giờ quay về trả xe nằm gọn trong khung này.
 
-Nếu lễ chính diễn ra rất sớm, cách hợp lý là nhận xe từ chiều hôm trước rồi trả vào hôm sau. Cách tính ngày khi lịch rơi vào hai ngày được giải thích trong bài [thuê xe máy về quê đám cưới tính ngày thế nào](/hoi-dap/2026/10/07/thue-xe-may-ve-que-am-cuoi-tinh-ngay-the-nao/). Các lựa chọn thuê theo ngày nói chung có ở mục [thuê xe theo ngày](/thue-xe/thue-ngay/).
+Nếu lễ chính diễn ra rất sớm, cách hợp lý là nhận xe từ chiều hôm trước rồi trả vào hôm sau. Cách tính ngày khi lịch rơi vào hai ngày được giải thích trong bài [thuê xe máy về quê đám cưới tính ngày thế nào](/hoi-dap/2026/10/07/thue-xe-may-ve-que-dam-cuoi-tinh-ngay-the-nao/). Các lựa chọn thuê theo ngày nói chung có ở mục [thuê xe theo ngày](/thue-xe/thue-ngay/).
 
 ## Chọn xe nào cho đường làng và hai người ngồi
 
 Đường vào nhiều thôn ven Hà Nội là đường bê tông nhỏ, có đoạn men theo đê hoặc bờ mương, ngõ rẽ gấp vào sân nhà có rạp cưới. Xe tay ga cỡ vừa như Vision hay Air Blade có sàn để chân phẳng, tiện cho người mặc váy, áo dài ngồi sau và có cốp để cất đồ. Xe số như Wave nhẹ, dễ dắt qua ngõ hẹp, hợp với người quen lái xe số.
 
-Khi nhận xe, nên dặn trước là sẽ chở hai người đi đường làng để được chọn chiếc có yên rộng, gác chân sau chắc chắn. Kiểm tra phanh, đèn, còi, và nhớ lấy đủ hai mũ bảo hiểm vừa đầu. Nếu băn khoăn giữa các dòng xe cho dịp cưới trong phố, có thể đọc thêm bài [thuê xe máy cho người về Hà Nội dự đám cưới](/thue-xe/2026/10/04/thue-xe-may-cho-nguoi-ve-ha-noi-du-am-cuoi/).
+Khi nhận xe, nên dặn trước là sẽ chở hai người đi đường làng để được chọn chiếc có yên rộng, gác chân sau chắc chắn. Kiểm tra phanh, đèn, còi, và nhớ lấy đủ hai mũ bảo hiểm vừa đầu. Nếu băn khoăn giữa các dòng xe cho dịp cưới trong phố, có thể đọc thêm bài [thuê xe máy cho người về Hà Nội dự đám cưới](/thue-xe/2026/10/04/thue-xe-may-cho-nguoi-ve-ha-noi-du-dam-cuoi/).
 
 ## Ăn mặc đi cỗ quê sao cho vẫn lái và ngồi xe thoải mái
 
@@ -45,7 +45,7 @@ Trang phục đi đám ở quê thường lịch sự nhưng không cầu kỳ b
 
 ## Chở người ngồi sau đúng luật và an toàn trên đường làng
 
-Xe máy chỉ nên chở một người ngồi sau, cả hai đều đội mũ bảo hiểm cài quai. Đi đám thường có cảnh rủ thêm một người nữa ngồi cùng cho tiện, hoặc ôm trẻ nhỏ chen giữa; hãy tránh, vì vừa trái quy định vừa làm xe chao đảo. Quy định cụ thể về chở người và các trường hợp ngoại lệ được tổng hợp ở bài [chở người trên xe máy theo quy định hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/).
+Xe máy chỉ nên chở một người ngồi sau, cả hai đều đội mũ bảo hiểm cài quai. Đi đám thường có cảnh rủ thêm một người nữa ngồi cùng cho tiện, hoặc ôm trẻ nhỏ chen giữa; hãy tránh, vì vừa trái quy định vừa làm xe chao đảo. Quy định cụ thể về chở người và các trường hợp ngoại lệ được tổng hợp ở bài [chở người trên xe máy theo quy định hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-dinh-hien-hanh/).
 
 Vài điểm hay gặp trên đường về quê:
 

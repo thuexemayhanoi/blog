@@ -31,7 +31,7 @@ Dù tiệm đồng ý hay không, có những điều kiện không thể thỏa
 
 - **Có bằng lái phù hợp với loại xe.** Cho người không có bằng lái mượn xe để điều khiển là vi phạm quy định giao thông, cả người lái lẫn người giao xe đều có thể bị xử lý. Không có ngoại lệ "chỉ chạy một đoạn ngắn trong ngõ".
 - **Đủ tuổi và đủ tỉnh táo.** Người vừa uống rượu bia, đang mệt sau ca đêm hay đang dùng thuốc gây buồn ngủ thì không nên cầm lái, dù có bằng.
-- **Quen loại xe.** Người chỉ đi xe số mà lần đầu cầm xe ga, hoặc ngược lại, nên làm quen ở chỗ vắng trước. Nếu người đó cần tập, đọc thêm bài [đi xe máy không bằng lái bị xử lý thế nào](/an-toan-phap-ly/2026/09/28/i-xe-may-khong-bang-lai-bi-xu-ly-the-nao/) để hiểu vì sao không được tập trên đường khi chưa có bằng.
+- **Quen loại xe.** Người chỉ đi xe số mà lần đầu cầm xe ga, hoặc ngược lại, nên làm quen ở chỗ vắng trước. Nếu người đó cần tập, đọc thêm bài [đi xe máy không bằng lái bị xử lý thế nào](/an-toan-phap-ly/2026/09/28/di-xe-may-khong-bang-lai-bi-xu-ly-the-nao/) để hiểu vì sao không được tập trên đường khi chưa có bằng.
 
 Nếu một trong ba điều này không đạt, câu trả lời là không cho mượn, kể cả khi người đó là người thân. Một lời từ chối lúc này nhẹ hơn rất nhiều so với hậu quả sau đó.
 
@@ -65,7 +65,7 @@ Một tin nhắn hoặc cuộc nói chuyện ngắn với tiệm nên có:
 4. **Tiệm cần gì thêm:** có muốn xem bằng lái người đó, có cần ghi vào hợp đồng.
 5. **Nếu có sự cố thì liên hệ ai trước:** bạn hay người đang cầm xe.
 
-Đừng bịa thông tin cho xuôi chuyện. Nếu tiệm nói không, hãy tôn trọng; nếu cần xe cho hai người dùng thường xuyên, hỏi tiệm về phương án thuê thêm một xe. Những điều khoản nên có trong hợp đồng tháng được liệt kê ở bài [hợp đồng thuê xe máy theo tháng](/thue-xe/2026/10/11/hop-ong-thue-xe-may-theo-thang-ieu-khoan-nen-co/).
+Đừng bịa thông tin cho xuôi chuyện. Nếu tiệm nói không, hãy tôn trọng; nếu cần xe cho hai người dùng thường xuyên, hỏi tiệm về phương án thuê thêm một xe. Những điều khoản nên có trong hợp đồng tháng được liệt kê ở bài [hợp đồng thuê xe máy theo tháng](/thue-xe/2026/10/11/hop-dong-thue-xe-may-theo-thang-dieu-khoan-nen-co/).
 
 ## Nếu đã được đồng ý: quy tắc nhỏ giữa bạn và người mượn
 

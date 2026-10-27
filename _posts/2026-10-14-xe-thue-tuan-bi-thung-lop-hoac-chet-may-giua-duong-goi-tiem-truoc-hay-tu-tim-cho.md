@@ -50,7 +50,7 @@ Có những lúc chờ tiệm không thực tế: bạn đang trên đê Hồng 
 - Lỗi đơn giản, nhìn thấy rõ: lốp thủng đinh, tuột dây ga, bugi bám muội, hết xăng.
 - Việc sửa không đụng tới phần lớn của xe như thay bộ phận, mở máy hay đổi lốp mới mà chưa ai đồng ý.
 
-Ngược lại, nên dừng và chờ tiệm khi xe có dấu hiệu nặng hơn: máy kêu lạ rồi tắt, khói bất thường, bánh bị kẹt, hoặc thợ ngoài đề nghị thay nhiều thứ cùng lúc. Bài [xe thuê thủng lốp hay chết máy giữa đường: báo cửa hàng trước hay tự sửa](/thue-xe/2026/10/11/xe-thue-thung-lop-hay-chet-may-giua-uong-bao-cua-hang-truoc-hay-tu-sua/) phân tích kỹ cách phân biệt từng loại lỗi; với thuê tuần, nguyên tắc cứ nghiêng về phía hỏi trước.
+Ngược lại, nên dừng và chờ tiệm khi xe có dấu hiệu nặng hơn: máy kêu lạ rồi tắt, khói bất thường, bánh bị kẹt, hoặc thợ ngoài đề nghị thay nhiều thứ cùng lúc. Bài [xe thuê thủng lốp hay chết máy giữa đường: báo cửa hàng trước hay tự sửa](/thue-xe/2026/10/11/xe-thue-thung-lop-hay-chet-may-giua-duong-bao-cua-hang-truoc-hay-tu-sua/) phân tích kỹ cách phân biệt từng loại lỗi; với thuê tuần, nguyên tắc cứ nghiêng về phía hỏi trước.
 
 ## Nếu phải sửa ngoài: ghi lại những gì
 

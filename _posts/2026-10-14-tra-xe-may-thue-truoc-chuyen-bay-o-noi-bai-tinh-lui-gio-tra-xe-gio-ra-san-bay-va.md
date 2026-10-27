@@ -41,7 +41,7 @@ Nhiều người chỉ tính thời gian chạy về tiệm, quên rằng trả 
 - Gom áo mưa, móc treo, khóa phụ về cốp xe, dọn hết đồ cá nhân.
 - Nhắn trước cho tiệm giờ dự kiến bạn đến trả, kèm giờ bay, để người nhận xe chuẩn bị.
 
-Các bước bàn giao chi tiết nằm trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/). Riêng chuyện nhận lại giấy tờ, hãy hỏi rõ từ đầu tiệm giữ gì của bạn và xin biên nhận, để lúc trả chỉ việc đối chiếu.
+Các bước bàn giao chi tiết nằm trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/). Riêng chuyện nhận lại giấy tờ, hãy hỏi rõ từ đầu tiệm giữ gì của bạn và xin biên nhận, để lúc trả chỉ việc đối chiếu.
 
 ## Ở Hoàn Kiếm hay Tây Hồ mà thuê xe ở Long Biên: ba cách sắp lịch
 
@@ -63,7 +63,7 @@ Vài điều nên làm:
 - Đặt xe sớm hơn khi trời mưa, vì lúc đó gọi xe lâu hơn hẳn.
 - Nếu đi cách hai, ưu tiên rời phố cổ trước giờ tan tầm chiều thay vì giữa giờ tan tầm.
 
-Muốn biết thêm về cầu Nhật Tân, đọc bài [đến cầu Nhật Tân bằng xe máy và lưu ý khi chạy trên cầu](/du-lich/2026/10/04/en-cau-nhat-tan-bang-xe-may-uong-i-va-luu-y-chay-tren-cau/).
+Muốn biết thêm về cầu Nhật Tân, đọc bài [đến cầu Nhật Tân bằng xe máy và lưu ý khi chạy trên cầu](/du-lich/2026/10/04/den-cau-nhat-tan-bang-xe-may-duong-di-va-luu-y-chay-tren-cau/).
 
 ## Khách công tác bay về trong ngày
 
@@ -83,7 +83,7 @@ Dù tính kỹ, bạn vẫn có thể kẹt trên cầu Chương Dương hay g�
 
 - Dừng xe ở chỗ an toàn rồi nhắn hoặc gọi tiệm ngay, nói rõ bạn đang ở đâu và giờ bay.
 - Không phóng nhanh, lạng lách để bù giờ. Một va chạm nhỏ lúc này còn tốn thời gian hơn nhiều.
-- Nếu sát giờ đóng cửa, hỏi tiệm cách xử lý theo bài [trả xe khi cửa hàng sắp đóng](/thue-xe/2026/10/04/tra-xe-khi-cua-hang-sap-ong-canh-gio-the-nao/).
+- Nếu sát giờ đóng cửa, hỏi tiệm cách xử lý theo bài [trả xe khi cửa hàng sắp đóng](/thue-xe/2026/10/04/tra-xe-khi-cua-hang-sap-dong-canh-gio-the-nao/).
 
 ## Tóm lại
 
