@@ -16,7 +16,7 @@ writer: W1
 
 Đang chạy giữa đường, bạn về số và thấy cần số không đi tiếp: cần cứng đờ hoặc không xuống được số một. Xe thuê kẹt cần số là tình huống kỹ thuật phổ biến với xe số, thường xuất hiện ở xe chạy nhiều hoặc ở khung li hợp chưa quen. Khác với thủng lốp hay hết xăng, kẹt số có thể xử lý được tại chỗ trong nhiều trường hợp, nhưng xử lý sai lại đẩy xe vào trạng thái hư nặng hơn. Bài viết này đi theo trình tự an toàn: dừng đúng cách, thử các bước xử lý tại chỗ, và báo cửa hàng đúng nội dung.
 
-Với các dạng hỏng khác giữa chặng, trình tự chung đã có trong bài [xe thuê bị hỏng giữa đường xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/); dưới đây là phần dành riêng cho cần số.
+Với các dạng hỏng khác giữa chặng, trình tự chung đã có trong bài [xe thuê bị hỏng giữa đường xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-duong-xu-ly-tung-buoc/); dưới đây là phần dành riêng cho cần số.
 
 ## Dừng an toàn trước khi nghĩ đến số
 
@@ -34,7 +34,7 @@ Cách ba: kiểm tra phần cơ cấu bên ngoài. Nhìn xuống cần số xem 
 
 ## Khi nào nên dừng mọi cố gắng
 
-Nếu sau ba cách trên cần số vẫn cứng, hãy dừng. Tiếp tục ép cần số bằng lực mạnh có thể làm gãy trục hoặc làm lệch bộ ly hợp, biến một kẹt nhỏ thành một hư hỏng lớn, và phần chi phí đó không còn nằm trong diện hao mòn thông thường. Nguyên tắc phân chia trách nhiệm trong trường hợp xe hỏng giữa chặng đã được bàn trong bài [xe thuê hỏng giữa chuyến đi trách nhiệm thuộc về ai](/thue-xe/2026/09/27/xe-thue-hong-giua-chuyen-i-trach-nhiem-thuoc-ve-ai/): hỏng do hao mòn là của cửa hàng, nhưng hư thêm do cố sửa kiểu mạnh tay thì khó thuộc về ai khác ngoài người cầm lái.
+Nếu sau ba cách trên cần số vẫn cứng, hãy dừng. Tiếp tục ép cần số bằng lực mạnh có thể làm gãy trục hoặc làm lệch bộ ly hợp, biến một kẹt nhỏ thành một hư hỏng lớn, và phần chi phí đó không còn nằm trong diện hao mòn thông thường. Nguyên tắc phân chia trách nhiệm trong trường hợp xe hỏng giữa chặng đã được bàn trong bài [xe thuê hỏng giữa chuyến đi trách nhiệm thuộc về ai](/thue-xe/2026/09/27/xe-thue-hong-giua-chuyen-di-trach-nhiem-thuoc-ve-ai/): hỏng do hao mòn là của cửa hàng, nhưng hư thêm do cố sửa kiểu mạnh tay thì khó thuộc về ai khác ngoài người cầm lái.
 
 Hãy nhớ xe máy số luôn có thể chạy ở số hai hoặc số ba với tốc độ thấp trong trường hợp khẩn cấp: nếu cần kẹt ở số hai mà xe vẫn nổ, bạn có thể chạy chậm về gần nhất điểm an toàn hoặc chờ hỗ trợ, thay vì bỏ xe giữa nơi vắng.
 

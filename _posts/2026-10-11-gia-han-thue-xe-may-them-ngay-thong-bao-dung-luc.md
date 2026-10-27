@@ -16,7 +16,7 @@ writer: W1
 
 Kế hoạch đổi bất chợt là chuyện thường của người thuê xe: chuyến thăm kéo dài, công tác thêm buổi, hoặc đơn giản là muốn ở Hà Nội thêm một ngày. Gia hạn thuê xe máy vì thế là nhu cầu rất phổ biến, nhưng cũng là nguồn phát sinh phí không cần thiết nếu báo sai lúc. Bài viết này tóm tắt thời điểm nên báo, cách chốt giá phần ngày thêm, và các việc cần cập nhật theo sau để kỳ gia hạn diễn ra êm, không phạt, không tranh chấp.
 
-Nếu bạn thuê theo tháng và cần kéo dài hợp đồng, trình tự sẽ hơi khác một chút; bài [gia hạn hợp đồng thuê xe theo tháng](/thue-xe/2026/09/27/gia-han-hop-ong-thue-xe-theo-thang/) là tư liệu dành riêng cho hướng đó.
+Nếu bạn thuê theo tháng và cần kéo dài hợp đồng, trình tự sẽ hơi khác một chút; bài [gia hạn hợp đồng thuê xe theo tháng](/thue-xe/2026/09/27/gia-han-hop-dong-thue-xe-theo-thang/) là tư liệu dành riêng cho hướng đó.
 
 ## Gia hạn thuê xe máy nên báo khi nào
 
@@ -40,7 +40,7 @@ Gia hạn không chỉ là thêm ngày, mà là dịch toàn bộ khung giờ. N
 
 Có những tình huống bạn chỉ nhận ra cần gia hạn khi đã sát giờ: điện thoại cửa hàng bận, hoặc bạn đang ở nơi sóng yếu. Cách xử lý là nhắn văn bản rồi gọi tiếp, đừng chỉ gọi một kênh. Tin nhắn có giờ gửi là bằng chứng bạn đã chủ động báo, kể cả khi nhân viên chưa đọc kịp. Đến khi hai bên nói chuyện được, mốc tham chiếu là thời điểm tin nhắn, không phải thời điểm đọc.
 
-Nếu lỡ qua giờ trả mà chưa kịp chốt gia hạn, trình tự xử lý ở phía cửa hàng đã được mô tả trong bài [trả xe máy thuê trễ hơn giờ hẹn xử lý thế nào](/thue-xe/2026/10/10/tra-xe-may-thue-ung-gio-hen-can-chuan-bi-gi/), trong đó báo sớm luôn là yếu tố giảm thiệt hại lớn nhất. Phí phạt trả trễ là chuyện có thể thương lượng khi bạn đã báo trước bằng văn bản, nhưng gần như không thương lượng được khi bạn biến mất.
+Nếu lỡ qua giờ trả mà chưa kịp chốt gia hạn, trình tự xử lý ở phía cửa hàng đã được mô tả trong bài [trả xe máy thuê trễ hơn giờ hẹn xử lý thế nào](/thue-xe/2026/10/10/tra-xe-may-thue-dung-gio-hen-can-chuan-bi-gi/), trong đó báo sớm luôn là yếu tố giảm thiệt hại lớn nhất. Phí phạt trả trễ là chuyện có thể thương lượng khi bạn đã báo trước bằng văn bản, nhưng gần như không thương lượng được khi bạn biến mất.
 
 ## Ba dòng nên có trong tin nhắn gia hạn
 

@@ -16,7 +16,7 @@ writer: W1
 
 Đang chạy giữa phố Hà Nội, bạn ép phanh trước đèn đỏ và ngửi thấy một mùi khét nhẹ bốc lên. Mùi khét khi phanh xe máy thuê là hiện tượng nhiều khách gặp ít nhất một lần, nhất là khi di chuyển nhiều chặng dừng trong khu vực đông xe hoặc khi vừa đi qua đoạn đường ẩm sau mưa. Không phải lúc nào mùi khét cũng là hỏng nặng, nhưng cũng không phải lúc nào cũng có thể bỏ qua. Bài viết này giúp bạn phân biệt các mức mùi, kiểm tra nhanh tại chỗ theo trình tự an toàn, và quyết định dừng hẳn để gọi hỗ trợ thay vì tiếp tục chạy.
 
-Nếu bạn chưa từng để ý tới tiếng cũng như lực phanh khi nhận xe, hãy bắt đầu từ bài [kiểm tra yên phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-en-phanh-xe-may-thue-truoc-khi-nhan-xe/); việc này giúp bạn có một mốc so sánh về độ nhạy của phanh trong suốt kỳ thuê.
+Nếu bạn chưa từng để ý tới tiếng cũng như lực phanh khi nhận xe, hãy bắt đầu từ bài [kiểm tra yên phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-den-phanh-xe-may-thue-truoc-khi-nhan-xe/); việc này giúp bạn có một mốc so sánh về độ nhạy của phanh trong suốt kỳ thuê.
 
 ## Mùi khét khi phanh xe máy xuất phát từ đâu
 
@@ -40,7 +40,7 @@ Khi phát hiện mùi khét kéo dài, điều đầu tiên là chọn nơi dừ
 
 Bước kiểm tra nhanh gồm ba phần. Một, nhìn tổ phanh và bánh xe từ bên ngoài: có mảnh nhựa, dây dùi hay giẻ dầu bám quanh không. Hai, quan sát mặt đường chỗ vừa đi qua: nếu có vệt mảnh đen hoặc mảnh vụn như bụi má phanh rơi lại, khả năng má phanh đang bào mòn bất thường. Ba, khi xe đã nguội, ép nhẹ tay phanh khi xe đang đẩy chậm trong lề an toàn để cảm nhận độ nhạy, so sánh với độ nhạy bạn ghi nhớ lúc nhận xe. Không tháo lắp bất kỳ bộ phận nào của xe thuê, vì điều này vừa vượt quá phạm vi sử dụng, vừa khiến bạn khó mô tả hiện tượng gốc cho cửa hàng.
 
-Trong mọi trường hợp, nguyên tắc chung khi xe có dấu hiệu hỏng giữa đường là ưu tiên an toàn và dùng đúng trình tự từng bước, tương tự như đã trình bày trong bài [xe thuê bị hỏng giữa đường xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/).
+Trong mọi trường hợp, nguyên tắc chung khi xe có dấu hiệu hỏng giữa đường là ưu tiên an toàn và dùng đúng trình tự từng bước, tương tự như đã trình bày trong bài [xe thuê bị hỏng giữa đường xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-duong-xu-ly-tung-buoc/).
 
 ## Khi nào nên gọi hỗ trợ thay vì tiếp tục chạy
 

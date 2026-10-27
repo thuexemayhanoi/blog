@@ -53,7 +53,7 @@ Không lệch được thì chuẩn bị từ trước khi xuống hầm:
 - Xem bãi thu phí bằng tiền mặt hay thẻ ngay lúc vào, để khỏi loay hoay trước thanh chắn.
 - Dắt xe tới gần lối ra rồi mới nổ máy; nổ máy giữa dãy chật chỉ làm người đứng quanh khó chịu.
 
-Đi nhiều xe thì hẹn nhau ở một điểm bên ngoài tòa nhà, sau cửa ra, thay vì đứng đợi nhau ở chân dốc làm tắc lối. Cảnh này na ná lúc tiệc cưới tan, khi cả trăm người cùng lấy xe một lúc, và bài về [lấy xe khuya ở nhà hàng tiệc cưới](/ky-nang/2026/10/10/gui-xe-o-nha-hang-tiec-cuoi-bai-xe-ong-va-lay-xe-khuya/) có thêm vài cách xử lý khi đèn bãi mờ.
+Đi nhiều xe thì hẹn nhau ở một điểm bên ngoài tòa nhà, sau cửa ra, thay vì đứng đợi nhau ở chân dốc làm tắc lối. Cảnh này na ná lúc tiệc cưới tan, khi cả trăm người cùng lấy xe một lúc, và bài về [lấy xe khuya ở nhà hàng tiệc cưới](/ky-nang/2026/10/10/gui-xe-o-nha-hang-tiec-cuoi-bai-xe-dong-va-lay-xe-khuya/) có thêm vài cách xử lý khi đèn bãi mờ.
 
 ## Tìm xe trong bãi đông khi trí nhớ đã trống
 
@@ -71,6 +71,6 @@ Những chuyện rắc rối hơn như mất vé hay nhầm xe đã có hướng
 
 Đi cùng trẻ nhỏ hoặc người lớn tuổi, cho họ xuống ở lối vào rồi bạn mới đi cất xe, hẹn một điểm đứng cố định gần cửa chứ đừng để họ chờ giữa dốc xe.
 
-Xe thuê thì thêm một lớp nữa: bạn chưa quen xe và chưa thuộc biển số. Hãy chụp biển số ngay khi nhận xe, thử cách mở yên, mở cốp một lần để khỏi loay hoay ở bãi. Chuyện giữ xe thuê khi bãi chật được bàn thêm ở bài [gửi xe máy thuê ở siêu thị đông ngày cuối tuần](/ky-nang/2026/10/07/gui-xe-may-thue-o-sieu-thi-ong-gio-cuoi-tuan/). Nếu bạn thuê xe ở Nguyễn Tú (112 Nguyễn Văn Cừ, Bồ Đề, Long Biên), cứ hỏi thẳng trước khi đặt xe về những lưu ý khi gửi xe thuê ở bãi đông.
+Xe thuê thì thêm một lớp nữa: bạn chưa quen xe và chưa thuộc biển số. Hãy chụp biển số ngay khi nhận xe, thử cách mở yên, mở cốp một lần để khỏi loay hoay ở bãi. Chuyện giữ xe thuê khi bãi chật được bàn thêm ở bài [gửi xe máy thuê ở siêu thị đông ngày cuối tuần](/ky-nang/2026/10/07/gui-xe-may-thue-o-sieu-thi-dong-gio-cuoi-tuan/). Nếu bạn thuê xe ở Nguyễn Tú (112 Nguyễn Văn Cừ, Bồ Đề, Long Biên), cứ hỏi thẳng trước khi đặt xe về những lưu ý khi gửi xe thuê ở bãi đông.
 
 Lần tới đi trung tâm thương mại, chỉ cần thử một thay đổi: trước khi rời xe, đọc to vị trí và chụp "ảnh đường về". Chưa tới nửa phút, đổi lại là bạn khỏi phải lang thang giữa hầm với túi hàng trên tay. Còn nếu hay gửi xe ở những nơi đông khác, [các bài về gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/) đi từng loại địa điểm, và [phần kỹ năng đi xe máy trong phố Hà Nội](/ky-nang/) gom những tình huống còn lại.

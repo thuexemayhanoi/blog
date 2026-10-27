@@ -28,7 +28,7 @@ Trước hết, đạp phanh trước thật chắc bằng tay phải, đồng t
 
 Trong tư thế đó, tay trái vẫn rảnh để điều khiển côn hoặc vặn ga nếu cần trợ giúp đề. Khi máy nổ, đừng vội nhả phanh. Giữ nguyên tư thế cho tới khi bạn sẵn sàng vào số và ra ga. Nếu dốc quá dốc và xe quá nặng, hãy chéo góc xe so với đường dốc để giảm độ nghiêng dọc, chẳng hạn dựng xe nghiêng theo chiều ngang hẻm thay vì hướng thẳng lên dốc.
 
-Đề máy trên dốc cũng mệt máy hơn trên mặt bằng, vì thế nếu máy yếu, lần đầu đạp chưa nổ thì chờ vài giây rồi đạp lại, tránh đạp liên hồi làm ắc quy hoặc bu-gi ngộp. Với những xe máy hay khó đề trong trời lạnh, bạn nên xem thêm về hiện tượng [ắc quy yếu khiến máy khó nổ](/xe-may/2026/09/27/ac-quy-xe-may-yeu-dau-hieu-va-xu-ly) để loại trừ nguyên nhân từ pin trước khi đổ lỗi cho tay lái.
+Đề máy trên dốc cũng mệt máy hơn trên mặt bằng, vì thế nếu máy yếu, lần đầu đạp chưa nổ thì chờ vài giây rồi đạp lại, tránh đạp liên hồi làm ắc quy hoặc bu-gi ngộp. Với những xe máy hay khó đề trong trời lạnh, bạn nên xem thêm về hiện tượng [ắc quy yếu khiến máy khó nổ](/xe-may/2026/09/27/ac-quy-xe-may-yeu-dau-hieu-va-xu-ly/) để loại trừ nguyên nhân từ pin trước khi đổ lỗi cho tay lái.
 
 ## Trình tự khởi hành xe số trên dốc
 
@@ -44,7 +44,7 @@ Có hai tình huống cần chống trôi. Tình huống thứ nhất là xe ch�
 
 Tình huống thứ hai là dừng chờ đèn đỏ trên dốc kéo dài. Thay vì giữ phanh mỏi tay, hãy vào số và gài côn ở điểm ma sát nhẹ, giữ ga ở vòng tua thấp, để lực kéo bánh sau và ma sát côn cân bằng với lực dốc. Kỹ thuật này gọi là neo côn, rất phổ biến với tài xế chạy xe số đường trường, nhưng chỉ nên dùng trong lúc chờ ngắn vì lạm dụng sẽ mau mòn lá côn.
 
-Nếu đèn đỏ kéo dài hoặc dốc quá dốc, an toàn nhất là về mo, giữ hai phanh, hai chân đặt vững. Với những người hay đi dốc ẩm ướt sáng sớm, việc cẩn thận hơn với [khởi động máy khó nổ trong trời lạnh](/xe-may/2026/09/30/cham-ac-quy-xe-may-vao-mua-ong-ha-noi) sẽ giúp giảm hẳn số lần phải đề lại giữa dốc.
+Nếu đèn đỏ kéo dài hoặc dốc quá dốc, an toàn nhất là về mo, giữ hai phanh, hai chân đặt vững. Với những người hay đi dốc ẩm ướt sáng sớm, việc cẩn thận hơn với [khởi động máy khó nổ trong trời lạnh](/xe-may/2026/09/30/cham-ac-quy-xe-may-vao-mua-dong-ha-noi/) sẽ giúp giảm hẳn số lần phải đề lại giữa dốc.
 
 ## Dừng chờ trên dốc dài mà không cần phanh tay
 
@@ -62,8 +62,8 @@ Lỗi tốn kém nhất là ra ga quá lớn trong lúc hoảng loạn, xe vọt
 
 Xe số thuê có độ nặng cần côn và độ cao yên khác xe nhà, hai yếu tố quyết định trực tiếp tới điểm ma sát trên dốc. Trước khi ra đường, hãy tìm một dốc thoải vắng xe, thử khởi hành dốc vài lần để cảm nhận điểm côn của chính chiếc xe đó. Nếu thuê xe trong mùa mưa, kiểm tra độ mòn lốp sau vì lốp trơn cộng thêm dốc ướt là tổ hợp gây trượt bánh sau khi ra ga.
 
-Những ai từng gặp tình huống máy chết giữa dốc với xe lạ có thể chuẩn bị trước bằng cách đọc về [xử lý khi xe máy thuê không nổ máy](/xe-may/2026/09/29/xe-may-thue-khong-no-may-xu-ly-tung-buoc), vì đề dốc thành công phụ thuộc nhiều vào tình trạng máy. Ghi rõ hiện trạng máy, đèn và phanh khi nhận xe cũng giúp bạn phản ánh kịp thời nếu xe có vấn đề giữa chuyến đi.
+Những ai từng gặp tình huống máy chết giữa dốc với xe lạ có thể chuẩn bị trước bằng cách đọc về [xử lý khi xe máy thuê không nổ máy](/xe-may/2026/09/29/xe-may-thue-khong-no-may-xu-ly-tung-buoc/), vì đề dốc thành công phụ thuộc nhiều vào tình trạng máy. Ghi rõ hiện trạng máy, đèn và phanh khi nhận xe cũng giúp bạn phản ánh kịp thời nếu xe có vấn đề giữa chuyến đi.
 
 ## Tổng kết
 
-Đề xe và khởi hành trên dốc là kỹ thuật phối hợp giữa ba điểm tiếp xúc, điểm ma sát côn và sự bình tĩnh. Giữ phanh trước khi đề, neo phanh sau khi khởi hành, ra ga trước khi nhả phanh, và luôn dựng xe nghiêng ngang sườn dốc khi nghỉ dài. Luyện trên dốc thoải vài buổi là bạn tự tin đi qua mọi con dốc Hà Nội. Đọc thêm các bài thao tác nền tảng khác trong [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban) và theo dõi chủ đề lái an toàn tại mục [kỹ năng](/ky-nang).
+Đề xe và khởi hành trên dốc là kỹ thuật phối hợp giữa ba điểm tiếp xúc, điểm ma sát côn và sự bình tĩnh. Giữ phanh trước khi đề, neo phanh sau khi khởi hành, ra ga trước khi nhả phanh, và luôn dựng xe nghiêng ngang sườn dốc khi nghỉ dài. Luyện trên dốc thoải vài buổi là bạn tự tin đi qua mọi con dốc Hà Nội. Đọc thêm các bài thao tác nền tảng khác trong [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) và theo dõi chủ đề lái an toàn tại mục [kỹ năng](/ky-nang/).

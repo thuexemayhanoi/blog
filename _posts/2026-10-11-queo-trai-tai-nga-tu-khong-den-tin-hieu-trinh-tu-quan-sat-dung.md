@@ -20,7 +20,7 @@ Tại các nút giao thông trong khu dân cư quanh Hà Nội, khi quẹo trái
 
 Trình tự quan sát chuẩn gồm bốn hướng theo thứ tự cố định: gương và vai trái, phía đối diện ngược chiều, phía trái, rồi phía sau. Bắt đầu quan sát từ khoảng ba mươi mét trước ngã tư bằng những liếc ngắn chứ không ngoảnh đầu lâu, vì xe phía sau có thể đang bám sát. Bật xi nhan trái ngay khi xác định ý định rẽ, tín hiệu này không chỉ là phép lịch sự mà còn là nghĩa vụ, vì lỗi không bật xi nhan khi chuyển hướng bị xử phạt theo Nghị định 168/2024/NĐ-CP.
 
-Sau khi quan sát, giảm tốc về mức có thể dừng được trong khoảng cách nhìn thấy, và điều chỉnh vị trí về phía trái làn hiện tại nhưng không cắt sang làn ngược chiều. Khi tới điểm rẽ, kiểm tra lần cuối hướng đi thẳng ngược chiều, nhường trọn dòng xe đó rồi mới ghép vào hướng mới. Toàn bộ trình tự chỉ mất vài giây nếu đã giảm tốc từ trước, và các thao tác gương, xi nhan, quan sát vai được hướng dẫn chi tiết trong chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban) cho người mới tập làm quen.
+Sau khi quan sát, giảm tốc về mức có thể dừng được trong khoảng cách nhìn thấy, và điều chỉnh vị trí về phía trái làn hiện tại nhưng không cắt sang làn ngược chiều. Khi tới điểm rẽ, kiểm tra lần cuối hướng đi thẳng ngược chiều, nhường trọn dòng xe đó rồi mới ghép vào hướng mới. Toàn bộ trình tự chỉ mất vài giây nếu đã giảm tốc từ trước, và các thao tác gương, xi nhan, quan sát vai được hướng dẫn chi tiết trong chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) cho người mới tập làm quen.
 
 ## Nhường đường khi rẽ trái là quy định, không phải nhượng bộ
 
@@ -48,4 +48,4 @@ Ba lỗi trên đều bắt nguồn từ việc quyết định rẽ trước kh
 
 ## Tổng kết
 
-Quẹo trái ngã tư không đèn an toàn là kết quả của trình tự quan sát bốn hướng, chấp nhận nhường dòng ngược chiều và chỉ rẽ khi khung trống thật sự mở. Chậm một nhịp tại ngã tư không đèn không làm bạn mất thời gian đáng kể. Đọc thêm các tình huống giao thông khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong) và theo dõi các hướng dẫn tại mục [kỹ năng](/ky-nang).
+Quẹo trái ngã tư không đèn an toàn là kết quả của trình tự quan sát bốn hướng, chấp nhận nhường dòng ngược chiều và chỉ rẽ khi khung trống thật sự mở. Chậm một nhịp tại ngã tư không đèn không làm bạn mất thời gian đáng kể. Đọc thêm các tình huống giao thông khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/) và theo dõi các hướng dẫn tại mục [kỹ năng](/ky-nang/).

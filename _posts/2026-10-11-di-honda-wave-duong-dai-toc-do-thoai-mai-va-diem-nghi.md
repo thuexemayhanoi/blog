@@ -34,7 +34,7 @@ Xuống dốc thì ngược lại: thả ga cho máy hãm, kết hợp rà nhẹ
 
 Kinh nghiệm của nhiều khách thuê là nghỉ mỗi sáu mươi đến tám mươi cây số, mỗi lần mười đến mười lăm phút. Điểm nghỉ tốt thường là cây xăng lớn, quán nước có mái che rộng và sân đổ xe thoáng, hoặc điểm dừng nghỉ trên trục quốc lộ có người qua lại: vừa lấy lại sức, vừa có chỗ hỏi đường và xử lý khi xe có dấu hiệu lạ. Nghỉ đúng quãng còn giúp kiểm tra lốp, xích và đèn sau mỗi chặng, ba thứ hay giở chứng trên cung nhiều bụi.
 
-Sau khi nghỉ, đừng vặn ga đi ngay: để máy nổ không tải khoảng một phút cho dầu bôi trơn lên đều, nhất là khi trời lạnh hoặc xe đã đứng lâu. Cách khởi động máy Wave vào mùa lạnh đã được bàn kỹ trong bài [khởi động và khắc phục máy Honda Wave mùa lạnh](/xe-may/2026/09/27/khoi-ong-va-khac-phuc-may-honda-wave-mua-lanh/), và các lưu ý đó áp dụng luôn cho cung dài sáng sớm khởi hành từ Hà Nội.
+Sau khi nghỉ, đừng vặn ga đi ngay: để máy nổ không tải khoảng một phút cho dầu bôi trơn lên đều, nhất là khi trời lạnh hoặc xe đã đứng lâu. Cách khởi động máy Wave vào mùa lạnh đã được bàn kỹ trong bài [khởi động và khắc phục máy Honda Wave mùa lạnh](/xe-may/2026/09/27/khoi-dong-va-khac-phuc-may-honda-wave-mua-lanh/), và các lưu ý đó áp dụng luôn cho cung dài sáng sớm khởi hành từ Hà Nội.
 
 Thời tiết cũng đổi cách chọn điểm nghỉ: ngày nắng, ưu tiên bóng mát và có nước bán; ngày mưa, ưu tiên mái che rộng và mặt sân không trơn, và nên dừng sớm hơn dự kiến vì chạy ướt lâu mệt lên nhanh. Gió ngược lớn trên cung trường cũng đáng tính vào quãng nghỉ: cùng một đoạn đường, hôm gió ngược có thể cần nghỉ thêm một lần so với hôm trời êm.
 

@@ -16,7 +16,7 @@ writer: W1
 
 Sáu giờ rưỡi sáng, rét ngọt ở Hà Nội, bạn đẩy xe số vừa thuê ra khỏi nhà trọ, gạt chìa và nhấn đề thì máy chỉ kêu ọc ọc rồi im lặng. Đề xe số trời lạnh khó nổ hơn ngày thường là hiện tượng gần như chắc chắn gặp trong mùa đông, vì cả ba điều kiện cần để máy nổ đều bị nhiệt độ thấp kéo xuống: ắc quy sinh điện yếu hơn, nhớt đặc hơn và hỗn hợp xăng gió cháy kém hơn. Tin tốt là phần lớn trường hợp chỉ cần đổi cách đề là máy nổ lại. Bài viết này tóm tắt trình tự đề đúng cho lần đầu tiên và cách giữ xe khỏe suốt mùa lạnh.
 
-Nếu máy đã khó nổ kéo dài nhiều ngày liền chứ không chỉ riêng sáng lạnh, vấn đề thường sâu hơn thời tiết, bạn có thể tham khảo trình tự chẩn đoán trong bài [khởi động và khắc phục máy Honda Wave mùa lạnh](/xe-may/2026/09/27/khoi-ong-va-khac-phuc-may-honda-wave-mua-lanh/).
+Nếu máy đã khó nổ kéo dài nhiều ngày liền chứ không chỉ riêng sáng lạnh, vấn đề thường sâu hơn thời tiết, bạn có thể tham khảo trình tự chẩn đoán trong bài [khởi động và khắc phục máy Honda Wave mùa lạnh](/xe-may/2026/09/27/khoi-dong-va-khac-phuc-may-honda-wave-mua-lanh/).
 
 ## Vì sao đề xe số trời lạnh khó nổ hơn
 
@@ -34,7 +34,7 @@ Nếu mô tơ đề đã chậm rà sau lần thứ hai, đổi sang cần đề
 
 Ắc quy yếu là nguyên nhân đứng sau phần lớn các buổi sáng đề không nổ, vì thế chăm sóc ắc quy chính là chăm sóc khả năng đề. Nếu để xe vài ngày không chạy, hãy đề máy cho nổ vài phút trước hôm có chuyến đi sáng sớm. Trước khi tắt máy, nhớ tắt đèn pha và mọi phụ tải, vì để quên phụ tải qua đêm là cách nhanh nhất làm ắc quy cạn vào sáng hôm sau. Các dấu hiệu ắc quy đang xuống được liệt kê rõ trong bài [ắc quy xe máy yếu dấu hiệu và xử lý](/xe-may/2026/09/27/ac-quy-xe-may-yeu-dau-hieu-va-xu-ly/).
 
-Với khách thuê xe máy trong mùa lạnh, nếu dự kiến nhiều ngày không dùng xe, bạn có thể tham khảo thêm bài [chăm ắc quy xe máy vào mùa đông Hà Nội](/xe-may/2026/09/30/cham-ac-quy-xe-may-vao-mua-ong-ha-noi/) để giữ nguồn điện ở trạng thái tốt giữa kỳ thuê mà không cần thao tác gì phức tạp. Về chỗ để xe qua đêm, nếu có thể thì lăn xe vào hiên nhà hoặc che lại bằng tấm bạt, cả hai đều giúp ắc quy bớt lạnh và họng ga bớt ẩm.
+Với khách thuê xe máy trong mùa lạnh, nếu dự kiến nhiều ngày không dùng xe, bạn có thể tham khảo thêm bài [chăm ắc quy xe máy vào mùa đông Hà Nội](/xe-may/2026/09/30/cham-ac-quy-xe-may-vao-mua-dong-ha-noi/) để giữ nguồn điện ở trạng thái tốt giữa kỳ thuê mà không cần thao tác gì phức tạp. Về chỗ để xe qua đêm, nếu có thể thì lăn xe vào hiên nhà hoặc che lại bằng tấm bạt, cả hai đều giúp ắc quy bớt lạnh và họng ga bớt ẩm.
 
 ## Lỗi thường gặp khi đề máy trời lạnh
 

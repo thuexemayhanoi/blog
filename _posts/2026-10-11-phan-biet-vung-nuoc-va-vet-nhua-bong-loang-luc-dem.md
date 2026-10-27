@@ -44,12 +44,12 @@ Nếu buộc phải đi qua vũng mà không rõ sâu nông, hãy đi thẳng, g
 
 Hiểu lầm phổ biến nhất là né toàn bộ vệt bóng. Người lái hoảng hốt lượn quanh từng vệt loang giữa dòng xe đang chạy nhanh đêm tối, và cú lượn ấy nguy hiểm hơn nhiều so với việc đi chậm qua một vũng nông. Hiểu lầm thứ hai là tin rằng mưa đã tạnh thì đường đã khô: sau cơn mưa nhỏ, nhiều vũng còn nằm lại vài tiếng ở chỗ trũng, sẵn sàng đón xe đi nhanh.
 
-Hiểu lầm thứ ba là bật cốt cao cho rõ, trong khi cốt cao chỉ làm vệt bóng loang sáng chói hơn mà không thêm tí thông tin độ sâu nào. Muốn phản ứng tốt hơn khi bánh xe chạm mặt trơn, hãy quay lại các nguyên tắc tư thế ngồi và thao tác ga phanh trong chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban).
+Hiểu lầm thứ ba là bật cốt cao cho rõ, trong khi cốt cao chỉ làm vệt bóng loang sáng chói hơn mà không thêm tí thông tin độ sâu nào. Muốn phản ứng tốt hơn khi bánh xe chạm mặt trơn, hãy quay lại các nguyên tắc tư thế ngồi và thao tác ga phanh trong chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/).
 
 ## Về đến nơi: kiểm tra xe sau buổi đi đêm mưa
 
-Sau chặng đêm qua nhiều vệt nước, nên kiểm tra xích và phanh khi về tới điểm đỗ: nước bắn lên có thể rửa trôi lớp mỡ cũ trên xích, còn má phanh ướt sẽ yếu đi vài phút đầu. Cho xe chạy chậm thêm một quãng ngắn, bóp phanh nhè nhẹ vài lần cho má phanh khô lại rồi mới vào đường nhanh. Với xe thuê, nếu máy chết giữa chặng đêm mưa dù đã né vũng sâu, trình tự xử lý trong bài [xe thuê chết máy khi trời mưa](/xe-may/2026/09/29/xe-thue-chet-may-khi-troi-mua-nguyen-nhan-thuong-gap) giúp bạn xác định nguyên nhân trước khi cố nổ lại máy.
+Sau chặng đêm qua nhiều vệt nước, nên kiểm tra xích và phanh khi về tới điểm đỗ: nước bắn lên có thể rửa trôi lớp mỡ cũ trên xích, còn má phanh ướt sẽ yếu đi vài phút đầu. Cho xe chạy chậm thêm một quãng ngắn, bóp phanh nhè nhẹ vài lần cho má phanh khô lại rồi mới vào đường nhanh. Với xe thuê, nếu máy chết giữa chặng đêm mưa dù đã né vũng sâu, trình tự xử lý trong bài [xe thuê chết máy khi trời mưa](/xe-may/2026/09/29/xe-thue-chet-may-khi-troi-mua-nguyen-nhan-thuong-gap/) giúp bạn xác định nguyên nhân trước khi cố nổ lại máy.
 
 ## Tổng kết
 
-Phân biệt vũng nước với vệt nhựa bóng đêm dựa vào ba dấu: vệt nhựa ổn định và mờ màu, mặt nước lung linh theo gió và phản chiếu đèn, hình dạng mép đều của nhựa đối lập với vũng méo mó nằm chỗ trũng. Khi không chắc, giảm tốc, theo vệt xe trước và đi thẳng qua vũng nông, tuyệt đối không lượn né hay tăng ga. Các hiện tượng mặt đường khác được phân tích trong chuyên mục [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa), còn khung tổng thể của mọi kỹ năng nằm ở mục [kỹ năng](/ky-nang).
+Phân biệt vũng nước với vệt nhựa bóng đêm dựa vào ba dấu: vệt nhựa ổn định và mờ màu, mặt nước lung linh theo gió và phản chiếu đèn, hình dạng mép đều của nhựa đối lập với vũng méo mó nằm chỗ trũng. Khi không chắc, giảm tốc, theo vệt xe trước và đi thẳng qua vũng nông, tuyệt đối không lượn né hay tăng ga. Các hiện tượng mặt đường khác được phân tích trong chuyên mục [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), còn khung tổng thể của mọi kỹ năng nằm ở mục [kỹ năng](/ky-nang/).

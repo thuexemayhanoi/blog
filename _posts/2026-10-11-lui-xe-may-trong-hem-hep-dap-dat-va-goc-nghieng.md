@@ -60,8 +60,8 @@ Cuối cùng, nhiều người để gương gập lại cho gọn rồi quên m
 
 Hãy dành một buổi cuối tuần tìm sân vắng, dựng hai hàng chai nước xếp cách nhau chừng một mét rưỡi rồi tập lùi trong hành lang đó. Bắt đầu với chiều rộng thoải mái, thu hẹp dần cho tới khi chỉ vừa xe. Tập cả lùi thẳng, lùi chữ S và xoay tại chỗ. Mười lăm phút mỗi ngày trong một tuần sẽ thay đổi hoàn toàn cảm giác tay lái của bạn.
 
-Với người đi xe thuê, hãy dành hai phút làm quen chiếc xe trước khi ra hẻm: thử độ nặng của phanh sau, độ nhạy của ga và độ căng của tay lái. Kiểm tra gương, còi và đèn là bước nên có trong biên bản giao nhận xe để tránh tranh cãi sau này, bạn có thể tham khảo cách ghi chép đầy đủ khi nhận xe tại [biên bản giao nhận xe](/thue-xe/2026/09/27/bien-ban-giao-nhan-xe-chua-nhung-gi). Một chiếc xe lạ luôn cần thao tác nhẹ hơn xe nhà.
+Với người đi xe thuê, hãy dành hai phút làm quen chiếc xe trước khi ra hẻm: thử độ nặng của phanh sau, độ nhạy của ga và độ căng của tay lái. Kiểm tra gương, còi và đèn là bước nên có trong biên bản giao nhận xe để tránh tranh cãi sau này, bạn có thể tham khảo cách ghi chép đầy đủ khi nhận xe tại [biên bản giao nhận xe](/thue-xe/2026/09/27/bien-ban-giao-nhan-xe-chua-nhung-gi/). Một chiếc xe lạ luôn cần thao tác nhẹ hơn xe nhà.
 
 ## Tổng kết
 
-Lùi xe trong hẻm là bài tập về sự kiên nhẫn chứ không phải về tốc độ. Chuẩn bị quan sát, đạp đất làm trụ, giữ xe thẳng, dùng ga tối thiểu và dừng khi chưa tự tin là năm nguyên tắc giúp bạn tránh gần hết các va quẹt. Ghé chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban) để đọc thêm các hướng dẫn thao tác khác, hoặc xem tổng thể các chủ đề hướng dẫn lái xe an toàn trong mục [kỹ năng](/ky-nang).
+Lùi xe trong hẻm là bài tập về sự kiên nhẫn chứ không phải về tốc độ. Chuẩn bị quan sát, đạp đất làm trụ, giữ xe thẳng, dùng ga tối thiểu và dừng khi chưa tự tin là năm nguyên tắc giúp bạn tránh gần hết các va quẹt. Ghé chuyên mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) để đọc thêm các hướng dẫn thao tác khác, hoặc xem tổng thể các chủ đề hướng dẫn lái xe an toàn trong mục [kỹ năng](/ky-nang/).

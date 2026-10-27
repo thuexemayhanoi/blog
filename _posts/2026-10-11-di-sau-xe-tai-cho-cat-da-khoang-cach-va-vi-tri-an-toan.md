@@ -44,10 +44,10 @@ Trong lúc vượt, tránh đúng vệt cát giữa làn bằng cách nghiêng n
 
 Nếu bị đá bắn vào người hoặc xe, hãy giữ bình tĩnh, không phanh gấp ngay. Giảm tốc nhẹ, mở xi nhan, kiểm soát hướng thẳng, rồi dừng vào lề khi an toàn. Kiểm tra lốp, kính và mũ trước khi tiếp tục. Đá văng có thể làm nứt kính hoặc móp lốp về lâu dài, và nếu bạn đang đi xe thuê, những hư hại này thường ghi rõ trong biên bản; hãy chụp ảnh lại hiện trạng nếu có thể và phản ánh sớm, tránh để sự cố nhỏ thành tranh cãi lớn lúc trả xe.
 
-Khi gặp vệt cát trơn, mọi phản xạ sai như phanh gấp hoặc đánh mạnh tay lái đều dễ gây ngã. Hãy giữ ga nhẹ, thả phanh, để xe trượt qua vệt cát theo quán tính, hai gối kẹp chặt yên, mắt nhìn về hướng muốn đi chứ không nhìn xuống vệt trơn. Nguyên tắc chung khi gặp sự cố giữa đường là xử lý theo trình tự an toàn, bạn có thể tham khảo thêm các bước trong mục [xử lý sự cố xe](/thue-xe/su-co).
+Khi gặp vệt cát trơn, mọi phản xạ sai như phanh gấp hoặc đánh mạnh tay lái đều dễ gây ngã. Hãy giữ ga nhẹ, thả phanh, để xe trượt qua vệt cát theo quán tính, hai gối kẹp chặt yên, mắt nhìn về hướng muốn đi chứ không nhìn xuống vệt trơn. Nguyên tắc chung khi gặp sự cố giữa đường là xử lý theo trình tự an toàn, bạn có thể tham khảo thêm các bước trong mục [xử lý sự cố xe](/thue-xe/su-co/).
 
 ## Kế hoạch cho người hay đi tuyến vận tải vật liệu
 
 Với những người đi làm theo tuyến vành đai hoặc tuyến thi công mỗi ngày, hãy cập nhật giờ cao điểm vận tải vật liệu để chủ động dời giờ đi. Mặc áo phản quang, kính bảo hộ và mũ đủ kính là ba trang bị đáng đầu tư cho cung đường nhiều bụi. Đèn xe luôn ở trạng thái tốt giúp xe sau thấy bạn trong màn bụi mù.
 
-Cuối cùng, hãy coi mỗi chuyến đi sau xe tải chở cát đá là bài tập quan sát: nhìn qua hông xe, đọc tín hiệu đèn phanh và xi nhan của tài xế, đoán điểm xe sẽ rẽ vào bãi. Người lái đọc được ngôn ngữ xe tải sẽ luôn giữ được khoảng cách hợp lý mà không cần ai nhắc. Đọc thêm các tình huống đường phố khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong) và các hướng dẫn lái an toàn tại mục [kỹ năng](/ky-nang).
+Cuối cùng, hãy coi mỗi chuyến đi sau xe tải chở cát đá là bài tập quan sát: nhìn qua hông xe, đọc tín hiệu đèn phanh và xi nhan của tài xế, đoán điểm xe sẽ rẽ vào bãi. Người lái đọc được ngôn ngữ xe tải sẽ luôn giữ được khoảng cách hợp lý mà không cần ai nhắc. Đọc thêm các tình huống đường phố khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/) và các hướng dẫn lái an toàn tại mục [kỹ năng](/ky-nang/).

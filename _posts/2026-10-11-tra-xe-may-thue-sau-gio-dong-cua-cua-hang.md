@@ -16,7 +16,7 @@ writer: W1
 
 Chuyến bay trễ, cuộc họp kéo dài, đoạn ngập trên đường về: có nhiều lý do khiến bạn về tới cửa hàng khi đèn đã tắt. Trả xe thuê ngoài giờ là tình huống dễ lo nhất trong cả kỳ thuê, vì không có người nhận để cùng kiểm tra, và mọi bằng chứng đều phải tự tạo lấy. Tin tốt là tình huống này xử lý được gọn nếu bạn chốt trước bằng tin nhắn và giữ bằng chứng đầy đủ. Bài viết này đi theo đúng trình tự: chốt trước, ghi hình, giao xe đúng chỗ, và xác nhận vào buổi sáng hôm sau.
 
-Nếu bạn biết trước lịch trình có rủi ro trễ, nên đọc bài [trả xe đúng quy trình dễ tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/) trước ngày trả để nắm các bước chuẩn.
+Nếu bạn biết trước lịch trình có rủi ro trễ, nên đọc bài [trả xe đúng quy trình dễ tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/) trước ngày trả để nắm các bước chuẩn.
 
 ## Trả xe thuê ngoài giờ phải chốt trước bằng văn bản
 
@@ -28,7 +28,7 @@ Lưu ý về khung giờ: cửa hàng hoạt động theo giờ cố định và
 
 Trước khi giao xe ở bất kỳ hình thức nào, hãy quay một đoạn video quanh xe: hết một vòng, ghi rõ biển số, vết trầy nếu có, mức xăng trên kim, mũ bảo hiểm và phụ kiện đi kèm. Ảnh chụp gần tủ kính nơi gửi xe cũng đáng thêm vào bộ bằng chứng. Đoạn video có thời gian là bằng chứng về tình trạng xe ngay trước lúc bạn rời đi.
 
-Đừng quên ghi hình cốp xe mở sẵn: cốp rỗng nghĩa là bạn đã lấy hết đồ của mình, và cũng là bằng chứng để không ai đổ cho bạn việc để quên gì đó. Cách ghi hình chuẩn đã có hướng dẫn riêng trong bài [ghi hình xe khi nhận và trả để làm bằng chứng](/thue-xe/2026/09/27/ghi-hinh-xe-khi-nhan-va-tra-e-lam-bang-chung/), bạn nên xem nhanh một lần trước ngày trả.
+Đừng quên ghi hình cốp xe mở sẵn: cốp rỗng nghĩa là bạn đã lấy hết đồ của mình, và cũng là bằng chứng để không ai đổ cho bạn việc để quên gì đó. Cách ghi hình chuẩn đã có hướng dẫn riêng trong bài [ghi hình xe khi nhận và trả để làm bằng chứng](/thue-xe/2026/09/27/ghi-hinh-xe-khi-nhan-va-tra-de-lam-bang-chung/), bạn nên xem nhanh một lần trước ngày trả.
 
 ## Giao xe đúng chỗ theo hướng dẫn của cửa hàng
 
@@ -46,7 +46,7 @@ Tại buổi kiểm tra, hãy có mặt nếu lịch trình cho phép, hoặc y�
 
 Cách rẻ nhất vẫn là không rơi vào tình huống này. Khi đặt xe, hãy chừa khoảng đệm giữa giờ dự kiến về và giờ đóng cửa ít nhất một tiếng, và nhớ rằng giờ cao điểm chiều muộn trên các trục như Nguyễn Văn Cừ hay vành đai có thể nuốt mất khoảng đệm đó. Nếu biết trước mình trễ thường xuyên, hãy hỏi cách trả khác: hẹn điểm trả khác trong nội thành, hoặc trả sớm một buổi.
 
-Với những ai thường xuyên gần sát giờ, bài [trả xe khi cửa hàng sắp đóng canh giờ thế nào](/thue-xe/2026/10/04/tra-xe-khi-cua-hang-sap-ong-canh-gio-the-nao/) và bài [trả xe máy thuê ngoài giờ mở cửa xử lý thế nào](/thue-xe/2026/10/05/tra-xe-may-thue-ngoai-gio-mo-cua-xu-ly-the-nao/) là hai tư liệu đáng đọc để nắm các biến thể của tình huống này.
+Với những ai thường xuyên gần sát giờ, bài [trả xe khi cửa hàng sắp đóng canh giờ thế nào](/thue-xe/2026/10/04/tra-xe-khi-cua-hang-sap-dong-canh-gio-the-nao/) và bài [trả xe máy thuê ngoài giờ mở cửa xử lý thế nào](/thue-xe/2026/10/05/tra-xe-may-thue-ngoai-gio-mo-cua-xu-ly-the-nao/) là hai tư liệu đáng đọc để nắm các biến thể của tình huống này.
 
 ## Những sai lầm thường gặp và giá của mỗi sai lầm
 

@@ -46,7 +46,7 @@ Sai lầm thứ ba là dùng điện thoại trong lúc chờ, không nhận ra 
 
 ## Kế hoạch cho người hay chạy tuyến có đường ngang
 
-Nếu bạn thường xuyên đi qua tuyến có đường ngang, hãy thuộc các mốc báo hiệu trên cung đường: biển cảnh báo đường ngang có chắn hoặc không chắn, cột tiêu, đèn tín hiệu. Lên lịch trình với tâm lý sẵn sàng chờ vài phút, và không bao giờ tính toán thời gian sát nút. Với những người thuê xe máy để chạy ngoại thành, việc nắm rõ loại đường trên tuyến, bao gồm cả đường ngang đường sắt, là một phần của việc chuẩn bị chuyến đi; bạn có thể tham khảo thêm các nhóm địa điểm và tuyến đường trong phần [cho thuê xe theo địa điểm](/thue-xe/thue-theo-dia-diem).
+Nếu bạn thường xuyên đi qua tuyến có đường ngang, hãy thuộc các mốc báo hiệu trên cung đường: biển cảnh báo đường ngang có chắn hoặc không chắn, cột tiêu, đèn tín hiệu. Lên lịch trình với tâm lý sẵn sàng chờ vài phút, và không bao giờ tính toán thời gian sát nút. Với những người thuê xe máy để chạy ngoại thành, việc nắm rõ loại đường trên tuyến, bao gồm cả đường ngang đường sắt, là một phần của việc chuẩn bị chuyến đi; bạn có thể tham khảo thêm các nhóm địa điểm và tuyến đường trong phần [cho thuê xe theo địa điểm](/thue-xe/thue-theo-dia-diem/).
 
 Một mẹo nhỏ là lưu ý giờ tàu chạy nếu đi qua cùng một đường ngang mỗi ngày. Nhiều tuyến có các khung giờ tàu cố định, người dân quanh vùng thuộc khung giờ đó và chủ động dừng sớm. Tuy nhiên đừng biến mẹo này thành chủ quan, bởi lịch tàu có thể đổi, và luôn có các đoàn tàu bất thường ngoài giờ.
 
@@ -54,8 +54,8 @@ Một mẹo nhỏ là lưu ý giờ tàu chạy nếu đi qua cùng một đư�
 
 Trong lúc chờ, hãy giữ khoảng cách với xe phía sau bằng cách chọn vị trí dừng sớm, giúp xe sau có không gian phanh. Đêm hoặc sương mù, bật đèn pha chiếu gần và tránh đứng giữa vùng đường ray với đèn mờ. Nếu chờ lâu dưới nắng, dựng xe nơi có bóng râm phía sau vạch, không vì bóng mát mà rời khỏi vị trí an toàn.
 
-Với phụ huynh chở trẻ đi qua đường ngang mỗi ngày, hãy biến lúc chờ thành thói quen: dừng hẳn, đợi chắn mở, rồi mới qua, thay vì vòng qua đường ngang chen theo xe khác. Trẻ học bằng cách nhìn thấy người lớn làm đúng. Đó là bài học [đi xe máy qua đường sắt an toàn](/ky-nang/tinh-huong-giao-thong) đơn giản nhất mà không cần lời giảng nào.
+Với phụ huynh chở trẻ đi qua đường ngang mỗi ngày, hãy biến lúc chờ thành thói quen: dừng hẳn, đợi chắn mở, rồi mới qua, thay vì vòng qua đường ngang chen theo xe khác. Trẻ học bằng cách nhìn thấy người lớn làm đúng. Đó là bài học [đi xe máy qua đường sắt an toàn](/ky-nang/tinh-huong-giao-thong/) đơn giản nhất mà không cần lời giảng nào.
 
 ## Tổng kết
 
-Rào chắn hạ xuống là lúc bài kiểm tra kiên nhẫn bắt đầu. Dừng sau vạch, giữ khoảng trống thoát, quan sát hai phía, vượt dứt khoát bằng số thấp, và không bao giờ len qua chắn đang dịch chuyển. Vài phút chờ không làm bạn đến trễ, nhưng một lần liều lĩnh có thể khiến bạn không còn dịp nào để đi tiếp. Đọc thêm các tình huống đường phố khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong) và theo dõi các hướng dẫn lái an toàn tại mục [kỹ năng](/ky-nang).
+Rào chắn hạ xuống là lúc bài kiểm tra kiên nhẫn bắt đầu. Dừng sau vạch, giữ khoảng trống thoát, quan sát hai phía, vượt dứt khoát bằng số thấp, và không bao giờ len qua chắn đang dịch chuyển. Vài phút chờ không làm bạn đến trễ, nhưng một lần liều lĩnh có thể khiến bạn không còn dịp nào để đi tiếp. Đọc thêm các tình huống đường phố khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/) và theo dõi các hướng dẫn lái an toàn tại mục [kỹ năng](/ky-nang/).

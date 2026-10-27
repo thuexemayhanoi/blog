@@ -32,7 +32,7 @@ Quanh các rạp ở Hà Nội thường gặp ba kiểu chỗ gửi, mỗi ki�
 
 ### Hầm hoặc tầng gửi xe của tòa nhà
 
-Rạp nằm trong trung tâm thương mại thường dùng chung khu gửi xe của tòa nhà, mở theo giờ hoạt động chung. Ưu điểm là có người trực, thường có camera và lối ra rộng. Điều cần xem là giờ đóng hầm có thể không khớp với suất chiếu cuối, nhất là khi phim chiếu kéo dài. Nếu tòa nhà bạn đến không có hầm, bài về [cách gửi xe máy ở tòa nhà không có hầm để xe](/ky-nang/2026/10/05/gui-xe-may-o-toa-nha-khong-co-ham-e-xe/) sẽ gợi ý hướng xoay xở.
+Rạp nằm trong trung tâm thương mại thường dùng chung khu gửi xe của tòa nhà, mở theo giờ hoạt động chung. Ưu điểm là có người trực, thường có camera và lối ra rộng. Điều cần xem là giờ đóng hầm có thể không khớp với suất chiếu cuối, nhất là khi phim chiếu kéo dài. Nếu tòa nhà bạn đến không có hầm, bài về [cách gửi xe máy ở tòa nhà không có hầm để xe](/ky-nang/2026/10/05/gui-xe-may-o-toa-nha-khong-co-ham-de-xe/) sẽ gợi ý hướng xoay xở.
 
 ### Bãi riêng ngoài tòa nhà hoặc trong ngõ
 
@@ -64,7 +64,7 @@ Sau hai tiếng trong phòng chiếu, đầu óc đã quên mình đỗ xe hư�
 Nếu thấy phim kéo dài hơn dự tính, bạn nên kiểm tra lại giờ đóng cửa khi còn thời gian, thay vì chờ đến lúc đèn rạp sáng. Khi phim hết quá muộn so với giờ đóng bãi, có vài hướng xử lý:
 
 - Gọi ngay số điện thoại ghi trên vé hoặc biển bãi, báo biển số và vị trí xe để họ chờ hoặc hướng dẫn.
-- Hỏi xem bãi có nhận để xe qua đêm không hay chỉ trông đến giờ đóng. Phần này tùy từng nơi, bạn có thể đọc thêm chuyện [gửi xe qua đêm có được hay không](/ky-nang/2026-09-29/gui-xe-qua-em-co-uoc-khong/) trước khi quyết định.
+- Hỏi xem bãi có nhận để xe qua đêm không hay chỉ trông đến giờ đóng. Phần này tùy từng nơi, bạn có thể đọc thêm chuyện [gửi xe qua đêm có được hay không](/ky-nang/2026-09-29/gui-xe-qua-dem-co-duoc-khong/) trước khi quyết định.
 - Nếu bãi đã khóa hẳn, hãy về bằng xe công nghệ hoặc đi nhờ bạn bè rồi quay lại lấy xe vào sáng hôm sau, thay vì tìm cách vào lấy khi cổng đã đóng hay nhờ người lạ mở hộ.
 
 Nếu tối đó bạn có uống rượu bia cùng bạn bè trước hoặc sau phim, đừng lấy xe. Hãy để xe lại bãi có người trông rồi về bằng phương tiện khác. Khi cần để xe qua đêm, những điều trong bài [chọn bãi và lưu ý khi gửi xe qua đêm ở Hà Nội](/ky-nang/2026/10/04/gui-xe-may-qua-em-o-ha-noi-chon-bai-va-luu-y/) sẽ giúp bạn chọn chỗ hợp lý hơn.

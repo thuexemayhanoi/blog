@@ -32,7 +32,7 @@ Quanh một cổng trường ở Hà Nội thường có ba kiểu chỗ để x
 - **Điểm đón trả ngắn.** Một số trường chỉ định chỗ cho phụ huynh dừng đón con trong chốc lát. Nếu trường có, đây là lựa chọn nhanh nhất, nhưng đã là dừng ngắn thì con ra là đi ngay, không đứng trò chuyện.
 - **Chỗ cách cổng một đoạn.** Đầu phố, một ngõ gần đó hoặc chỗ trông xe của quán quen (xin phép chủ quán trước). Bạn đi bộ vài phút, đổi lại xe nằm ngoài vùng chen chúc và ra thẳng phố khi con đã ngồi sau.
 
-Quy tắc chọn khá đơn giản: con nhỏ cần người nắm tay qua cổng thì chọn bãi gần; con lớn tự bước ra được thì hẹn ở chỗ cách cổng một đoạn. Cách đọc một bãi gần cổng (có người trông thường trực, có vé, xe xếp có nề nếp) khá giống ở cổng bệnh viện, và bài [chọn bãi gần cổng và canh giờ cao điểm khi đi khám](/ky-nang/2026/10/05/gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-iem/) đã bàn kỹ phần này.
+Quy tắc chọn khá đơn giản: con nhỏ cần người nắm tay qua cổng thì chọn bãi gần; con lớn tự bước ra được thì hẹn ở chỗ cách cổng một đoạn. Cách đọc một bãi gần cổng (có người trông thường trực, có vé, xe xếp có nề nếp) khá giống ở cổng bệnh viện, và bài [chọn bãi gần cổng và canh giờ cao điểm khi đi khám](/ky-nang/2026/10/05/gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-diem/) đã bàn kỹ phần này.
 
 ## Đến sớm hay đến muộn: canh giờ theo tuổi con
 
@@ -40,7 +40,7 @@ Hai cách đều đúng, tùy con bạn học lớp mấy. Con mầm non hay l�
 
 Chỗ hẹn nên là thứ dễ nhận như cột đèn, gốc cây hay cửa một tiệm quen. Chốt từ đầu năm học, và chốt luôn phương án hai: chưa thấy bố mẹ ở chỗ hẹn thì con quay lại nhờ bác bảo vệ, không tự đi tìm giữa dòng xe. Nhà có hai con học hai cấp thì nói rõ ai đợi ở đâu, để không ai phải chạy qua lại giữa hai cổng.
 
-Kẹt đường và biết mình sẽ trễ thì nhắn cô giáo hoặc gọi bác bảo vệ trước, nhờ cho con chờ trong sân trường thay vì đứng ngoài cổng; trường nào xử lý thế nào, bạn nên hỏi cô chủ nhiệm từ đầu năm. Nếu trường nằm sâu trong ngõ thì mọi thứ đổi khác vì lối vào hẹp và xe dồn về một đầu, bạn xem thêm bài về [đưa đón con ở trường học trong ngõ nhỏ](/ky-nang/2026/10/04/gui-xe-o-truong-hoc-ngo-nho-khi-ua-on-con/).
+Kẹt đường và biết mình sẽ trễ thì nhắn cô giáo hoặc gọi bác bảo vệ trước, nhờ cho con chờ trong sân trường thay vì đứng ngoài cổng; trường nào xử lý thế nào, bạn nên hỏi cô chủ nhiệm từ đầu năm. Nếu trường nằm sâu trong ngõ thì mọi thứ đổi khác vì lối vào hẹp và xe dồn về một đầu, bạn xem thêm bài về [đưa đón con ở trường học trong ngõ nhỏ](/ky-nang/2026/10/04/gui-xe-o-truong-hoc-ngo-nho-khi-dua-don-con/).
 
 ## Gửi xe giờ tan học: nhận xe và rời cổng cho gọn
 

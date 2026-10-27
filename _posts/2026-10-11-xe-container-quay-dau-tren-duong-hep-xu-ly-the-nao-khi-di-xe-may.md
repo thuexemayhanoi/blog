@@ -44,7 +44,7 @@ Trong lúc container đang xoay, giữ nguyên vị trí kể cả khi có kho�
 
 Nếu nhận ra mình bị kẹp giữa cung quay của container và chướng ngại phía sau, đừng cố ép xe qua khe hẹp. Tắt máy, xuống xe, và dắt xe theo hướng ra khỏi cung quay, kể cả phải đi ngược một đoạn. Người có thể di chuyển cơ động, xe máy thì không khi bị hai vật lớn chặn hai đầu.
 
-Trong trường hợp xảy ra va chạm nhẹ, dù chỉ quệt gương hoặc xước vỏ, hãy dừng hẳn, chụp ảnh hiện trạng hai bên và trao đổi trên tinh thần giữ an toàn trước. Với người đi xe thuê, quy trình ghi nhận hư hại và phản ánh với bên cho thuê cần làm sớm, bạn có thể tham khảo trình tự xử lý khi [xe thuê bị hỏng giữa đường](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc) để tránh rắc rối về sau.
+Trong trường hợp xảy ra va chạm nhẹ, dù chỉ quệt gương hoặc xước vỏ, hãy dừng hẳn, chụp ảnh hiện trạng hai bên và trao đổi trên tinh thần giữ an toàn trước. Với người đi xe thuê, quy trình ghi nhận hư hại và phản ánh với bên cho thuê cần làm sớm, bạn có thể tham khảo trình tự xử lý khi [xe thuê bị hỏng giữa đường](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-duong-xu-ly-tung-buoc/) để tránh rắc rối về sau.
 
 ## Phòng tránh bằng cách đọc tuyến đường
 
@@ -54,4 +54,4 @@ Giờ cao điểm container ra vào thường rơi vào khung sáng sớm và bu
 
 ## Tổng kết
 
-Gặp container quay đầu trên đường hẹp, công thức xử lý gồm bốn điểm: đọc tín hiệu sớm, dừng ngoài cung quay và trong tầm nhìn của tài xế, ra hiệu nhường rõ ràng, và kiên nhẫn chờ tới khi vòng quay hoàn tất. Vài phút chờ container xoay xong luôn rẻ hơn mọi rủi ro do cố len qua khe hẹp. Đọc thêm các tình huống đường phố khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong) và theo dõi các hướng dẫn lái an toàn tại mục [kỹ năng](/ky-nang).
+Gặp container quay đầu trên đường hẹp, công thức xử lý gồm bốn điểm: đọc tín hiệu sớm, dừng ngoài cung quay và trong tầm nhìn của tài xế, ra hiệu nhường rõ ràng, và kiên nhẫn chờ tới khi vòng quay hoàn tất. Vài phút chờ container xoay xong luôn rẻ hơn mọi rủi ro do cố len qua khe hẹp. Đọc thêm các tình huống đường phố khác trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/) và theo dõi các hướng dẫn lái an toàn tại mục [kỹ năng](/ky-nang/).

@@ -72,6 +72,6 @@ Nếu thấy khác, hãy dừng lại, chưa dắt xe ra cổng. Chụp chỗ kh
 
 ## Xe thuê thì thêm một cuộc gọi
 
-Nếu xe bạn đi là xe thuê, phần trách nhiệm với chủ xe có bài riêng về [giữ xe thuê ở bãi qua đêm](/ky-nang/2026/10/07/gui-xe-may-thue-o-bai-giu-xe-qua-em-luu-y-gi/), còn cách cất gương, ốc và các phụ tùng dễ mất nằm trong bài về [chống trộm phụ tùng khi gửi xe](/ky-nang/2026/10/03/chong-trom-phu-tung-khi-gui-xe-qua-em/). Riêng xe thuê của Nguyễn Tú, tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (mở cửa 09:00–21:00, điện thoại 0942 467 674), bạn nên hỏi và xác nhận trước khi đặt xe về chuyện gửi qua đêm ở bãi ngoài, cũng như cách xử lý nếu bạn về sau giờ làm việc.
+Nếu xe bạn đi là xe thuê, phần trách nhiệm với chủ xe có bài riêng về [giữ xe thuê ở bãi qua đêm](/ky-nang/2026/10/07/gui-xe-may-thue-o-bai-giu-xe-qua-dem-luu-y-gi/), còn cách cất gương, ốc và các phụ tùng dễ mất nằm trong bài về [chống trộm phụ tùng khi gửi xe](/ky-nang/2026/10/03/chong-trom-phu-tung-khi-gui-xe-qua-dem/). Riêng xe thuê của Nguyễn Tú, tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên (mở cửa 09:00–21:00, điện thoại 0942 467 674), bạn nên hỏi và xác nhận trước khi đặt xe về chuyện gửi qua đêm ở bãi ngoài, cũng như cách xử lý nếu bạn về sau giờ làm việc.
 
 Hai danh sách ở trên nên lưu vào ghi chú điện thoại; lần sau đứng trước cổng bãi lúc nửa đêm, bạn chỉ việc mở ra và làm theo. Những tình huống đi xe khác nằm trong [chuyên mục kỹ năng](/ky-nang/).

@@ -16,7 +16,7 @@ writer: W1
 
 Còi không kêu: một hỏng nhỏ trên giấy, nhưng là một câu hỏi lớn khi bạn đang chuẩn bị lên đường. Còi xe thuê không chạy là tình huống mà câu trả lời không phải có hay không, mà là tùy: tùy tuyến bạn định đi, tùy khung giờ, và tùy bạn có cách báo hiệu thay thế không. Bài viết này giúp bạn đánh giá mức an toàn theo từng tình huống, quyết định tiếp tục hay đổi kế hoạch, và báo cửa hàng đúng cách để chiếc còi được sửa sớm.
 
-Tình huống còi hỏng giữa phố đông đã được bàn riêng trong bài [còi xe thuê không kêu giữa phố đông](/thue-xe/2026/10/03/coi-xe-thue-khong-keu-giua-pho-ong/); dưới đây là câu hỏi ngược: phát hiện ngay lúc nhận xe, có nên bắt đầu hành trình.
+Tình huống còi hỏng giữa phố đông đã được bàn riêng trong bài [còi xe thuê không kêu giữa phố đông](/thue-xe/2026/10/03/coi-xe-thue-khong-keu-giua-pho-dong/); dưới đây là câu hỏi ngược: phát hiện ngay lúc nhận xe, có nên bắt đầu hành trình.
 
 ## Còi phục vụ việc gì khi tham gia giao thông
 
@@ -44,7 +44,7 @@ Với câu hỏi chi phí, còi hỏng thuộc nhóm hao mòn tự nhiên nếu 
 
 ## Ba việc nên làm ngay khi phát hiện còi chết
 
-Gói lại trình tự: thử còi vài lần để loại trừ tiếp xúc ẩm, bật đèn và xi nanh thử để xác nhận chỉ còi chết, rồi nhắn cửa hàng ba dòng như trên. Tránh tự tháo nắp còi hay kéo dây điện, vì phần điện là phần cửa hàng muốn tự kiểm, và mọi thay đổi ở đây dễ gây chập ngoài ý muốn. Cách báo các sự cố nhỏ trong kỳ thuê đều theo một nguyên tắc chung đã nêu trong bài [xe thuê bị hỏng giữa đường xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/): dừng an toàn, đánh giá, báo đúng nội dung.
+Gói lại trình tự: thử còi vài lần để loại trừ tiếp xúc ẩm, bật đèn và xi nanh thử để xác nhận chỉ còi chết, rồi nhắn cửa hàng ba dòng như trên. Tránh tự tháo nắp còi hay kéo dây điện, vì phần điện là phần cửa hàng muốn tự kiểm, và mọi thay đổi ở đây dễ gây chập ngoài ý muốn. Cách báo các sự cố nhỏ trong kỳ thuê đều theo một nguyên tắc chung đã nêu trong bài [xe thuê bị hỏng giữa đường xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-duong-xu-ly-tung-buoc/): dừng an toàn, đánh giá, báo đúng nội dung.
 
 ## Nhận xe lần sau: thử còi trước khi rời quầy
 

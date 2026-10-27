@@ -53,13 +53,13 @@ Két không nên còn khe hở để xê dịch. Áo cũ cuộn tròn hay giấy
 
 Dùng dây vải bản rộng, kéo chéo qua két và neo vào hai điểm đối diện trên baga hay tay nắm sau. Siết vừa đủ để két không nhấc lên khi bạn rung thử, không siết tới mức nắp lún xuống. Dây mảnh cứng dễ cắt vào thành két và nén thẳng xuống hàng trứng bên dưới.
 
-Chở hai két thì buộc riêng từng két theo cách chằng nhiều điểm neo trong bài [chở két bia hộp khi đi hai người](/ky-nang/2026/10/04/cho-ket-bia-hop-khi-i-hai-nguoi-tren-xe-may-cach-chang-an-toan/); nhiều hơn nữa thì chia làm hai chuyến.
+Chở hai két thì buộc riêng từng két theo cách chằng nhiều điểm neo trong bài [chở két bia hộp khi đi hai người](/ky-nang/2026/10/04/cho-ket-bia-hop-khi-di-hai-nguoi-tren-xe-may-cach-chang-an-toan/); nhiều hơn nữa thì chia làm hai chuyến.
 
 ## Chở đồ dễ vỡ bằng xe máy: túi trứng lẻ và những món cùng họ
 
 Không phải lúc nào bạn cũng mua cả két. Vài vỉ trứng lẻ hay một túi trứng cút nên cho vào hộp nhựa cứng có nắp, lót giấy vo ở đáy và giữa các vỉ, rồi đặt như một két thu nhỏ. Túi nilon mềm đựng trứng treo ở đâu cũng đung đưa và bị ép, nên tránh.
 
-Trứng đi cùng đồ khác thì nằm trên cùng, tách khỏi chai, lon, hộp thiếc. Cùng tinh thần đó, bài về [hộp bánh kem](/ky-nang/2026/10/01/cho-hop-banh-kem-tren-xe-may-giu-thang-bang-va-buoc-ung/) nhấn mạnh việc đặt hàng dễ nát gần trục giữa xe, nơi ít xóc nhất, và buộc vừa đủ chứ không ghì chết. Đậu phụ, bánh hay hoa quả chín mềm cũng hợp với nguyên tắc ấy, còn các bài về vật dài, thú cưng hay hành lý nằm trong [nhóm bài chở đồ dễ vỡ và hành lý](/ky-nang/cho-do-va-hanh-ly/).
+Trứng đi cùng đồ khác thì nằm trên cùng, tách khỏi chai, lon, hộp thiếc. Cùng tinh thần đó, bài về [hộp bánh kem](/ky-nang/2026/10/01/cho-hop-banh-kem-tren-xe-may-giu-thang-bang-va-buoc-dung/) nhấn mạnh việc đặt hàng dễ nát gần trục giữa xe, nơi ít xóc nhất, và buộc vừa đủ chứ không ghì chết. Đậu phụ, bánh hay hoa quả chín mềm cũng hợp với nguyên tắc ấy, còn các bài về vật dài, thú cưng hay hành lý nằm trong [nhóm bài chở đồ dễ vỡ và hành lý](/ky-nang/cho-do-va-hanh-ly/).
 
 ## Chạy xe sao cho lớp đệm khỏi làm việc quá sức
 

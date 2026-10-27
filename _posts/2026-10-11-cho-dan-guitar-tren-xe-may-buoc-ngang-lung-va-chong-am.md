@@ -20,7 +20,7 @@ Chở guitar trên xe máy ở Hà Nội có hai nỗi lo cứ đeo bám: đàn 
 
 Buộc ngang lưng, trong bài này, nghĩa là đàn nằm phẳng song song mặt đường, ngay sau lưng bạn trên yên sau và baga, trục đàn chạy theo chiều dài xe. Đàn nằm thấp, gần tâm xe nên ít kéo lệch tay lái hơn kiểu đeo dựng đứng như ba lô.
 
-Đàn dựng đứng thì cả cái bao đàn thành một cánh buồm. Trên những đoạn thoáng gió như cầu Chương Dương hay đường đê ven sông Hồng, một cơn gió ngang đủ giật vai bạn lệch đi, còn đầu cần nhô cao quá mũ bảo hiểm thì dễ quệt vào cành cây hay biển hiệu thấp trong khu phố cổ. Bài về [chở mâm đồ cúng](/ky-nang/2026/10/10/cho-mam-o-cung-tren-xe-may-can-bang-va-buoc-chac/) cũng nhắc đúng điều này: khối đồ càng cao càng bắt gió.
+Đàn dựng đứng thì cả cái bao đàn thành một cánh buồm. Trên những đoạn thoáng gió như cầu Chương Dương hay đường đê ven sông Hồng, một cơn gió ngang đủ giật vai bạn lệch đi, còn đầu cần nhô cao quá mũ bảo hiểm thì dễ quệt vào cành cây hay biển hiệu thấp trong khu phố cổ. Bài về [chở mâm đồ cúng](/ky-nang/2026/10/10/cho-mam-do-cung-tren-xe-may-can-bang-va-buoc-chac/) cũng nhắc đúng điều này: khối đồ càng cao càng bắt gió.
 
 Nằm ngang cũng không có nghĩa là vắt ngang xe. Hộp guitar dài hơn bề rộng tay lái, vắt ngang baga thì hai đầu thò ra và quệt vào xe bên cạnh giữa làn đông. Hàng nhô khỏi thân xe còn có thể vướng quy định về chở hàng; quy định có thể thay đổi, hãy kiểm tra văn bản mới nhất trước khi đi xa.
 
@@ -35,7 +35,7 @@ Mất vài phút chuẩn bị ở nhà đỡ cả buổi thấp thỏm trên đ�
 
 Hộp cứng chịu dây buộc tốt nhất; bao đàn mềm thì lót tấm bìa dưới dây cho khỏi hằn vào thân đàn. Cuộn gọn hoặc tháo quai đeo cho khỏi quấn vào bánh sau, rồi lắc thử baga: ốc lỏng thì siết trước, vì cả sức nặng của đàn dồn vào đó.
 
-Nguyên tắc buộc chung cho mọi loại đồ nằm trong mục [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/), còn chuyện giữ lớp sơn khỏi xước khi đi diễn đã có bài [lót hộp đàn để chống xước và va](/ky-nang/2026/10/10/cho-an-guitar-tren-xe-may-i-dien-chong-xuoc-va-va/), nên đọc kèm.
+Nguyên tắc buộc chung cho mọi loại đồ nằm trong mục [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/), còn chuyện giữ lớp sơn khỏi xước khi đi diễn đã có bài [lót hộp đàn để chống xước và va](/ky-nang/2026/10/10/cho-dan-guitar-tren-xe-may-di-dien-chong-xuoc-va-va/), nên đọc kèm.
 
 ## Buộc guitar lên xe máy từng bước
 
