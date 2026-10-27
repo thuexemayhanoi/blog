@@ -45,7 +45,7 @@ Xe thuê cũng vậy. Khi nhận xe, hãy hỏi cửa hàng lần bảo dưỡng
 Xăng chỉ là một phần. Nếu tính cho một tháng đi làm, chi phí gồm tiền thuê và xăng:
 
 - Thuê theo ngày Honda Vision: 200.000 đồng mỗi ngày, hợp cho người cần xe ngắn hạn.
-- Thuê theo tuần: từ 800.000 đến 1.000.000 đồng, phù hợp nếu bạn chỉ cần vài tuần.
+- Thuê theo tuần: 1.000.000 đồng, phù hợp nếu bạn chỉ cần vài tuần.
 - Thuê theo tháng: từ 1.800.000 đến 2.000.000 đồng, lựa chọn phổ biến nhất cho người đi làm lâu dài ở Hà Nội.
 
 Cộng thêm xăng khoảng 8 đến 10 lít mỗi tháng nếu quãng đường đi làm ngắn, tổng chi phí vẫn thường thấp hơn việc đi lại bằng xe ôm công nghệ mỗi ngày, lại chủ động giờ giấc. Với quãng đường xa hơn, ví dụ đi từ Long Biên sang khu công nghệ cao, số lít xăng sẽ tăng, nhưng Vision vẫn giữ được lợi thế nhỏ gọn, dễ gửi xe ở hầm nhà.

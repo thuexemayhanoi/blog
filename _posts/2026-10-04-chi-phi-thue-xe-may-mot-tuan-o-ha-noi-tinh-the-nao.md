@@ -26,9 +26,9 @@ Khoản thứ ba là tiền cọc, số tiền này tùy dòng xe và điều ki
 
 ## Thuê xe theo tuần giá bao nhiêu theo từng dòng xe
 
-Nhóm xe số và xe ga phổ thông như Honda Wave, Yamaha Sirius, Honda Click, Yamaha Mio có gói tuần khoảng 600.000 đến 700.000 đồng, tùy dòng và thời điểm. Honda Vision có gói tuần trong khoảng 800.000 đến 1.000.000 đồng. Honda Air Blade thường ở mức 800.000 đồng một tuần. Với xe máy điện, giá cần hỏi trực tiếp vì mức giá này có thể thay đổi theo loại xe cửa hàng đang có.
+Nhóm xe số và xe ga phổ thông như Honda Wave, Honda Click, Yamaha Mio có gói tuần tham khảo 700.000 đồng, mức cụ thể của từng dòng cần xác nhận khi đặt xe. Honda Vision có gói tuần tham khảo ở mức 1.000.000 đồng. Honda Air Blade cũng ở mức 1.000.000 đồng một tuần. Với xe máy điện, giá cần hỏi trực tiếp vì mức giá này có thể thay đổi theo loại xe cửa hàng đang có.
 
-So sánh nhanh với giá ngày giúp khách thấy lợi của gói tuần. Dòng xe 150.000 đồng mỗi ngày nếu thuê bảy ngày lẻ sẽ thành 1.050.000 đồng, trong khi gói tuần chỉ 600.000 đến 700.000 đồng. Dòng 200.000 đồng mỗi ngày cộng bảy ngày lên 1.400.000 đồng, còn gói tuần của nhóm xe ga ở quanh 800.000 đến 1.000.000 đồng. Chênh lệch đủ lớn để khách bận việc cả tuần nên chọn gói thay vì tính lẻ. Chi tiết từng dòng xe được cập nhật tại trang [bảng giá thuê xe máy](/bang-gia/), riêng nhóm xe ga xem thêm ở [bảng giá xe ga](/bang-gia-xe-ga/).
+So sánh nhanh với giá ngày giúp khách thấy lợi của gói tuần. Dòng xe 150.000 đồng mỗi ngày nếu thuê bảy ngày lẻ sẽ thành 1.050.000 đồng, trong khi gói tuần chỉ 700.000 đồng. Dòng 200.000 đồng mỗi ngày cộng bảy ngày lẻ cao hơn hẳn, còn gói tuần của Honda Vision và Honda Air Blade là 1.000.000 đồng. Chênh lệch đủ lớn để khách bận việc cả tuần nên chọn gói thay vì tính lẻ. Chi tiết từng dòng xe được cập nhật tại trang [bảng giá thuê xe máy](/bang-gia/), riêng nhóm xe ga xem thêm ở [bảng giá xe ga](/bang-gia-xe-ga/).
 
 ## Tuần trọn gói hay bảy ngày lẻ: chọn kiểu nào
 

@@ -35,7 +35,7 @@ Vào mùa mưa ở Hà Nội, hãy lau khô khoang đồ sau khi đi mưa để 
 
 ## Chi phí thuê khi cần xe chở đồ
 
-Giá thuê dòng xe này được niêm yết rõ ràng tại cửa hàng Nguyễn Tú. Thuê theo ngày là 200.000 đồng, gói tuần từ 800.000 đến 1.000.000 đồng, gói tháng từ 1.800.000 đến 2.000.000 đồng. Tiền đặt cọc được xác nhận trực tiếp khi làm thủ tục. Bạn có thể ghé 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội hoặc gọi 0942 467 674 trong giờ mở cửa từ 09:00 đến 21:00 để hỏi tình trạng xe.
+Giá thuê dòng xe này được niêm yết rõ ràng tại cửa hàng Nguyễn Tú. Thuê theo ngày là 200.000 đồng, gói tuần 1.000.000 đồng, gói tháng từ 1.800.000 đến 2.000.000 đồng. Tiền đặt cọc được xác nhận trực tiếp khi làm thủ tục. Bạn có thể ghé 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội hoặc gọi 0942 467 674 trong giờ mở cửa từ 09:00 đến 21:00 để hỏi tình trạng xe.
 
 Nếu bạn cần xe cho nhiều mục đích hơn, ví dụ vừa đi làm vừa đi phố mới, xem thêm [chọn loại xe máy phù hợp nhu cầu](/xe-may/chon-loai-xe/) trước khi quyết định. Ai quan tâm tới dòng xe ga nhỏ hơn cho phố cũng có thể so sánh với các lựa chọn tại [kinh nghiệm thuê xe](/kinh-nghiem/).
 

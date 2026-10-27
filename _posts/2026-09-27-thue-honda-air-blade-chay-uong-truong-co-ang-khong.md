@@ -29,7 +29,7 @@ Về an toàn, hai dòng ngang nhau nếu người lái giữ nguyên tắc: mũ
 
 ## Chi phí: so tiền thuê với công năng nhận được
 
-Giá thuê Air Blade theo ngày phổ biến 200.000 đồng, theo tuần khoảng 800.000 đồng, theo tháng khoảng 1.400.000 đồng. So với xe số phổ thông giá thuê ngày 150.000 đồng, chênh lệch theo ngày nhỏ, nhưng khoản xăng của xe ga cao hơn xe số trên cùng quãng đường dài, và phần này cộng dồn rõ trên cung trường. Kết luận chi phí: với cung một ngày khứ hồi hoặc hai ngày, chênh lệch tổng thường nhỏ; với người chạy đường trường đều đặn mỗi tuần, xe số tiết kiệm hơn rõ rệt.
+Giá thuê Air Blade theo ngày phổ biến 200.000 đồng, theo tuần khoảng 1.000.000 đồng, theo tháng khoảng 1.500.000 đồng. So với xe số phổ thông giá thuê ngày 150.000 đồng, chênh lệch theo ngày nhỏ, nhưng khoản xăng của xe ga cao hơn xe số trên cùng quãng đường dài, và phần này cộng dồn rõ trên cung trường. Kết luận chi phí: với cung một ngày khứ hồi hoặc hai ngày, chênh lệch tổng thường nhỏ; với người chạy đường trường đều đặn mỗi tuần, xe số tiết kiệm hơn rõ rệt.
 
 Vậy air blade có đáng thuê cho đường trường không? Nếu cung của bạn thiên về đường quanh co, dốc và cảnh đẹp, chạy tốc độ vừa phải: đáng. Nếu cung của bạn là quốc lộ thẳng dài, chạy liên tục nhiều giờ, ưu tiên xăng: xe số đáng hơn. Với người chưa chắc, hãy hỏi cửa hàng cho chạy thử hai dòng trên cùng một đoạn đường vắng để cảm nhận khác biệt trước khi chốt, hoặc đọc thêm các chia sẻ thực tế trong [chuyên mục kinh nghiệm](/kinh-nghiem/) về trải nghiệm chạy cung quanh Hà Nội.
 

@@ -33,7 +33,10 @@ SCHEMA = "price-notices/1"
 # nhóm xe số và Vision), BLG-03582 ("hai tuần Click hay Mio là 1,4 triệu" = 2 × 700.000đ).
 # Ba bài về mức PHẠT giao thông: số 600.000/800.000 đ là tiền phạt (BLG-00639 phạt nguội 600.000–800.000 đ và "400–600 nghìn"; BLG-00872 chở 2 người tối đa 800.000 đ;
 # BLG-00874 không mũ bảo hiểm tối đa 600.000 đ), không phải giá thuê xe — trùng ngẫu nhiên với số giá cũ nên bị bộ quét gắn cờ.
-EXCLUDE = {"BLG-04794", "BLG-00634", "BLG-02389", "BLG-02158", "BLG-02383", "BLG-02384", "BLG-03582", "BLG-00639", "BLG-00872", "BLG-00874"}
+# BLG-03574 (sau lô revise-20261027-A01, giá tuần/tháng đã đúng bảng hiện hành): "200.000 đ" là khoản trả trước khi giữ xe, không phải giá tuần;
+# bộ quét gắn nhầm vì chữ "gói tuần"/"tuần sau" đứng cạnh.
+EXCLUDE = {"BLG-04794", "BLG-00634", "BLG-02389", "BLG-02158", "BLG-02383", "BLG-02384", "BLG-03582", "BLG-00639", "BLG-00872", "BLG-00874",
+           "BLG-03574"}
 
 
 def post_url(row: dict, text: str) -> str:

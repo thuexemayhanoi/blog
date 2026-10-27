@@ -1,7 +1,7 @@
 {
  "_meta": {
   "schema": "price-notices/1",
-  "posts": 68,
+  "posts": 45,
   "source": "scripts/seo/price_phrases.find_residual trên bài PUBLISHED có evidence; bảng giá lấy từ _data/pricing.yml lúc build",
   "note": "Sinh bởi scripts/seo/build-price-notices.py — KHÔNG sửa tay. Gỡ bài khỏi danh sách khi nội dung gốc đã được sửa qua revise-published.py."
  },
@@ -21,12 +21,6 @@
     "WAVE_ABSENT"
    ]
   },
-  "/hoi-dap/2026/09/29/hai-nguoi-i-du-lich-nen-thue-xe-nao/": {
-   "id": "BLG-00880",
-   "kinds": [
-    "MISMATCH"
-   ]
-  },
   "/hoi-dap/2026/09/29/nam-2026-nen-thue-xe-so-hay-xe-ga/": {
    "id": "BLG-00877",
    "kinds": [
@@ -34,38 +28,11 @@
     "UNBOUND_STALE"
    ]
   },
-  "/hoi-dap/2026/09/29/nu-i-lam-hang-ngay-nen-thue-xe-gi/": {
-   "id": "BLG-00879",
-   "kinds": [
-    "MISMATCH",
-    "UNBOUND_STALE"
-   ]
-  },
-  "/hoi-dap/2026/09/30/nen-thue-vision-hay-air-blade-khi-i-pho/": {
-   "id": "BLG-00966",
-   "kinds": [
-    "MISMATCH"
-   ]
-  },
   "/hoi-dap/2026/09/30/thue-xe-may-3-ngay-gia-co-re-hon-khong/": {
    "id": "BLG-00963",
    "kinds": [
     "MISMATCH",
     "REVIEW"
-   ]
-  },
-  "/hoi-dap/2026/10/04/chi-phi-thue-xe-may-mot-tuan-o-ha-noi-tinh-the-nao/": {
-   "id": "BLG-01351",
-   "kinds": [
-    "MISMATCH",
-    "UNBOUND_STALE"
-   ]
-  },
-  "/hoi-dap/2026/10/04/gia-thue-xe-may-dip-le-30-thang-4-co-khac-ngay-thuong-khong/": {
-   "id": "BLG-01350",
-   "kinds": [
-    "REVIEW",
-    "UNBOUND_STALE"
    ]
   },
   "/hoi-dap/2026/10/14/bang-gia-ghi-khoang-nhu-800k1tr-mot-tuan-hieu-the-nao-va-hoi-gi/": {
@@ -97,12 +64,6 @@
     "MISMATCH"
    ]
   },
-  "/thue-xe/2026/09/27/cach-oc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that/": {
-   "id": "BLG-00498",
-   "kinds": [
-    "MISMATCH"
-   ]
-  },
   "/thue-xe/2026/09/27/cach-so-sanh-bao-gia-thue-xe-giua-cac-cua-hang/": {
    "id": "BLG-00493",
    "kinds": [
@@ -112,26 +73,6 @@
   },
   "/thue-xe/2026/09/27/chi-phi-thue-xe-thang-so-voi-mua-xe-cu/": {
    "id": "BLG-00523",
-   "kinds": [
-    "MISMATCH"
-   ]
-  },
-  "/thue-xe/2026/09/27/du-toan-chi-phi-thue-xe-may-cho-chuyen-3-ngay-2-em/": {
-   "id": "BLG-00496",
-   "kinds": [
-    "MISMATCH",
-    "UNBOUND_STALE"
-   ]
-  },
-  "/thue-xe/2026/09/27/gia-thue-xe-may-dip-le-tet-co-thay-oi-khong/": {
-   "id": "BLG-00495",
-   "kinds": [
-    "MISMATCH",
-    "REVIEW"
-   ]
-  },
-  "/thue-xe/2026/09/27/gia-thue-xe-may-dip-le-tet-thuong-thay-oi-the-nao/": {
-   "id": "BLG-00497",
    "kinds": [
     "MISMATCH"
    ]
@@ -167,12 +108,6 @@
     "WAVE_ABSENT"
    ]
   },
-  "/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au/": {
-   "id": "BLG-00499",
-   "kinds": [
-    "MISMATCH"
-   ]
-  },
   "/thue-xe/2026/09/27/thue-theo-tuan-khac-gi-thue-theo-ngay/": {
    "id": "BLG-00519",
    "kinds": [
@@ -189,12 +124,6 @@
    "id": "BLG-00518",
    "kinds": [
     "MISMATCH"
-   ]
-  },
-  "/thue-xe/2026/09/29/i-san-bay-noi-bai-nen-thue-xe-may-tu-au-va-luc-nao/": {
-   "id": "BLG-00906",
-   "kinds": [
-    "UNBOUND_STALE"
    ]
   },
   "/thue-xe/2026/09/30/chi-phi-thue-xe-may-cho-khach-quoc-te-o-ha-noi/": {
@@ -281,25 +210,11 @@
     "WAVE_ABSENT"
    ]
   },
-  "/thue-xe/2026/10/15/tinh-tien-lan-cuoi-khi-tra-xe-may-thue-doi-chieu-so-ngay-goi-gia-va-khoan-da-tra/": {
-   "id": "BLG-03574",
-   "kinds": [
-    "MISMATCH",
-    "REVIEW",
-    "UNBOUND_STALE"
-   ]
-  },
   "/thue-xe/2026/10/15/vision-va-air-blade-cung-200000d-mot-ngay-vi-sao-gia-tuan-gia-thang-lai-khac-nha/": {
    "id": "BLG-03562",
    "kinds": [
     "MISMATCH",
     "UNBOUND_STALE"
-   ]
-  },
-  "/xe-may/2026/09/27/air-blade-i-cap-voi-chuyen-cuoi-tuan/": {
-   "id": "BLG-00598",
-   "kinds": [
-    "MISMATCH"
    ]
   },
   "/xe-may/2026/09/27/honda-air-blade-cho-nguoi-thich-chay-khoe/": {
@@ -332,38 +247,8 @@
     "MISMATCH"
    ]
   },
-  "/xe-may/2026/09/27/honda-vision-voi-nu-gioi-i-lam-hang-ngay/": {
-   "id": "BLG-00593",
-   "kinds": [
-    "MISMATCH"
-   ]
-  },
-  "/xe-may/2026/09/27/khoang-o-cua-honda-vision-chua-uoc-gi/": {
-   "id": "BLG-00594",
-   "kinds": [
-    "MISMATCH"
-   ]
-  },
   "/xe-may/2026/09/27/so-sanh-honda-click-va-yamaha-mio-khi-thue/": {
    "id": "BLG-00602",
-   "kinds": [
-    "MISMATCH"
-   ]
-  },
-  "/xe-may/2026/09/27/thue-honda-air-blade-chay-uong-truong-co-ang-khong/": {
-   "id": "BLG-00599",
-   "kinds": [
-    "MISMATCH"
-   ]
-  },
-  "/xe-may/2026/09/27/thue-honda-vision-i-lam-noi-o-trai-nghiem-thuc-te/": {
-   "id": "BLG-00595",
-   "kinds": [
-    "MISMATCH"
-   ]
-  },
-  "/xe-may/2026/09/29/chi-phi-chay-xe-ien-va-xe-xang-khi-thue-theo-thang/": {
-   "id": "BLG-00942",
    "kinds": [
     "MISMATCH"
    ]
@@ -387,38 +272,8 @@
     "MISMATCH"
    ]
   },
-  "/xe-may/2026/09/29/thue-xe-may-va-i-taxiung-dung-chi-phi-i-lai-noi-thanh/": {
-   "id": "BLG-00937",
-   "kinds": [
-    "MISMATCH"
-   ]
-  },
-  "/xe-may/2026/09/29/xe-ga-tiet-kiem-xang-khi-i-noi-o-la-dong-nao/": {
-   "id": "BLG-00920",
-   "kinds": [
-    "MISMATCH"
-   ]
-  },
-  "/xe-may/2026/10/02/honda-click-cho-hai-nguoi-i-pho-yen-va-cop/": {
-   "id": "BLG-01097",
-   "kinds": [
-    "MISMATCH"
-   ]
-  },
-  "/xe-may/2026/10/02/thue-air-blade-i-lam-hang-ngay-hop-tay-lai-nao/": {
-   "id": "BLG-01096",
-   "kinds": [
-    "MISMATCH"
-   ]
-  },
   "/xe-may/2026/10/07/honda-click-thue-cho-hai-nguoi-co-em-khong/": {
    "id": "BLG-01478",
-   "kinds": [
-    "MISMATCH"
-   ]
-  },
-  "/xe-may/2026/10/07/honda-vision-thue-i-lam-hang-ngay-co-ton-xang-khong/": {
-   "id": "BLG-01477",
    "kinds": [
     "MISMATCH"
    ]

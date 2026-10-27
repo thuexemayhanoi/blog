@@ -44,6 +44,6 @@ Thứ ba là đường ướt. Mùa mưa Hà Nội, lòng đường có vết d�
 
 ## Thuê Click đi phố hai người: giá và cách nhận xe
 
-Mức thuê Honda Click hiện tại là 150.000 đồng một ngày, gói tuần từ 600.000 đến 700.000 đồng tùy thời điểm, phù hợp với nhóm bạn hoặc cặp đôi muốn có xe đi chơi cuối tuần mà chưa cần mua xe. Tiền đặt cọc cần xác nhận trực tiếp với chủ xe trước khi nhận. Khi nhận xe chở hai người, nên thử ngay: ngồi cả hai lên xe, xem người sau có đủ chỗ chống chân không, và đạp ga thử xem xe có đủ sức kéo hai người lên dốc cầu vượt gần cửa hàng không.
+Mức thuê Honda Click hiện tại là 150.000 đồng một ngày, gói tuần 700.000 đồng, phù hợp với nhóm bạn hoặc cặp đôi muốn có xe đi chơi cuối tuần mà chưa cần mua xe. Tiền đặt cọc cần xác nhận trực tiếp với chủ xe trước khi nhận. Khi nhận xe chở hai người, nên thử ngay: ngồi cả hai lên xe, xem người sau có đủ chỗ chống chân không, và đạp ga thử xem xe có đủ sức kéo hai người lên dốc cầu vượt gần cửa hàng không.
 
 Cửa hàng cho thuê ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội mở từ 09:00 đến 21:00, ghé lúc nào cũng ngồi thử được. Chở hai người đi phố thoải mái hay không phụ thuộc yên xe, cốp xe và nhất là người lái giữ nguyên tắc phanh sớm, ga mượt, khoảng cách dài. Các bài về dòng Click khác nằm trong trang [Honda Click](/xe-may/honda-click/), còn tổng quan các dòng xe cho thuê xem ở trang [thuê xe máy](/xe-may/).

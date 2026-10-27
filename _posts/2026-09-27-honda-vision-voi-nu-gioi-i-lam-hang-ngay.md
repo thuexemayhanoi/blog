@@ -41,7 +41,7 @@ Kiểm tra nhanh áp suất lốp mỗi tuần cũng giúp xe êm và đỡ mòn
 
 ## Chi phí thuê xe theo ngày hay theo tuần
 
-Giá thuê Vision thường được tính theo ngày, theo tuần hoặc theo tháng. Với người đi làm ổn định, gói tuần hoặc tháng thường có chi phí tính ra mỗi ngày thấp hơn so với thuê lẻ. Tại cửa hàng của Nguyễn Tú, giá thuê theo ngày của dòng này là 200.000 đồng, gói tuần từ 800.000 đến 1.000.000 đồng và gói tháng từ 1.800.000 đến 2.000.000 đồng. Tiền đặt cọc được xác nhận trực tiếp khi bạn làm thủ tục tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội.
+Giá thuê Vision thường được tính theo ngày, theo tuần hoặc theo tháng. Với người đi làm ổn định, gói tuần hoặc tháng thường có chi phí tính ra mỗi ngày thấp hơn so với thuê lẻ. Tại cửa hàng của Nguyễn Tú, giá thuê theo ngày của dòng này là 200.000 đồng, gói tuần 1.000.000 đồng và gói tháng từ 1.800.000 đến 2.000.000 đồng. Tiền đặt cọc được xác nhận trực tiếp khi bạn làm thủ tục tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội.
 
 Cửa hàng mở cửa từ 09:00 đến 21:00 hằng ngày, bạn có thể gọi 0942 467 674 để hỏi tình trạng xe trước khi đến. Nếu bạn chưa chắc nên chọn dòng nào, đọc thêm [so sánh chọn loại xe máy](/xe-may/chon-loai-xe/) hoặc xem tổng quan tại mục [xe máy](/xe-may/).
 

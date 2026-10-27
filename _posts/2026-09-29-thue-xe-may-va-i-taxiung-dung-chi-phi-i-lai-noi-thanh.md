@@ -33,7 +33,7 @@ Nói cho công bằng, xe có lái vẫn hơn trong những tình huống riêng
 
 ## Tham khảo mức giá thuê xe máy theo tuần và theo tháng
 
-Để hình dung trục chi phí cố định, lấy nhóm xe ga nhỏ như Honda Click và Yamaha Mio: giá thuê theo ngày niêm 150.000 đồng, gói tuần niêm trong khoảng 600.000 đến 700.000 đồng, và gói tháng niêm từ 1.000.000 đến 1.200.000 đồng. Honda Vision có giá thuê tháng niêm từ 1.800.000 đến 2.000.000 đồng. Toàn bộ mức giá theo từng dòng được niêm trong trang [bảng giá](/bang-gia/), và bạn nên xác nhận lại con số hiện tại trước khi đặt xe.
+Để hình dung trục chi phí cố định, lấy nhóm xe ga nhỏ như Honda Click và Yamaha Mio: giá thuê theo ngày niêm 150.000 đồng, gói tuần niêm 700.000 đồng, và gói tháng niêm từ 900.000 đến 1.200.000 đồng. Honda Vision có giá thuê tháng niêm từ 1.800.000 đến 2.000.000 đồng. Toàn bộ mức giá theo từng dòng được niêm trong trang [bảng giá](/bang-gia/), và bạn nên xác nhận lại con số hiện tại trước khi đặt xe.
 
 Chi tiết cách tính và điều kiện của gói dài ngày nằm trong trang [thuê xe theo tháng](/thue-xe/thue-thang/), nơi giải thích giấy tờ, đặt cọc và cách thỏa thuận thời gian cho hợp đồng dài. So chi phí cố định này với tổng cước xe tính theo chuyến của một tháng đi làm, bạn sẽ tự thấy ngưỡng mà từ đó thuê xe máy rẻ hơn hẳn, và với lịch đi nhiều, ngưỡng đó đến rất nhanh.
 

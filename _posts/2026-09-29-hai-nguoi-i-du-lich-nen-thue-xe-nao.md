@@ -21,7 +21,7 @@ Trả lời trực tiếp cho câu hỏi này: một chiếc xe ga cỡ trung t�
 
 Những mẫu như Air Blade hoặc Vision được nhiều cặp đôi chọn vì vận hành êm, khung xe chắc và đèn pha sáng đủ để chạy buổi tối trong phố. Ngược lại, các dòng xe số nhỏ thường nhanh hết sức khi lên dốc dài hoặc chở thêm hành lý, còn các mẫu xe quá cỡ lại nặng nề khi hai người phải dắt xe trong các ngõ nhỏ khu Hoàn Kiếm hoặc các con phố cổ.
 
-Về chi phí tham khảo, mức thuê Air Blade thường vào khoảng 200.000 đồng mỗi ngày, 800.000 đồng mỗi tuần và 1.400.000 đồng mỗi tháng. Xe Vision cũng có mức 200.000 đồng mỗi ngày với gói tuần từ 800.000 đồng đến 1.000.000 đồng tùy thời điểm. Bạn có thể đối chiếu đầy đủ trong [bảng giá cho thuê xe máy](/bang-gia/) trước khi quyết định chọn mẫu nào.
+Về chi phí tham khảo, mức thuê Air Blade thường vào khoảng 200.000 đồng mỗi ngày, 1.000.000 đồng mỗi tuần và 1.500.000 đồng mỗi tháng. Xe Vision cũng có mức 200.000 đồng mỗi ngày với gói tuần 1.000.000 đồng. Bạn có thể đối chiếu đầy đủ trong [bảng giá cho thuê xe máy](/bang-gia/) trước khi quyết định chọn mẫu nào.
 
 ## Tiêu chí chọn thuê xe cho 2 người đi chơi
 

@@ -31,7 +31,7 @@ Honda Vision là dòng xe ga phổ thông nhất tại các cửa hàng cho thu�
 
 Honda Click và Yamaha Mio là cặp đôi nhỏ gọn tiếp theo: thân xe gọn, lượn trong ngõ hẹp dễ, giá thuê thường ở mức 150.000 đồng mỗi ngày. Với người đi quãng ngắn, quan tâm độ cơ động và cân nặng xe, hai dòng này đáng cân nhắc đầu tiên khi gọi hỏi xe.
 
-Honda Air Blade ngồi cao ráo hơn, có phanh đĩa trước, vận hành chắc hơn chút khi chở theo người thứ hai; mức thuê thường quanh 200.000 đồng mỗi ngày, và gói theo tuần ở mức khoảng 800.000 đồng cho dòng này ở nhiều cửa hàng. Nếu quãng đường có đoạn rộng hoặc phải chở đồ cồng kềch, dòng này cho cảm giác vững hơn nhóm máy nhỏ.
+Honda Air Blade ngồi cao ráo hơn, có phanh đĩa trước, vận hành chắc hơn chút khi chở theo người thứ hai; mức thuê thường quanh 200.000 đồng mỗi ngày, và gói theo tuần ở mức khoảng 1.000.000 đồng cho dòng này ở nhiều cửa hàng. Nếu quãng đường có đoạn rộng hoặc phải chở đồ cồng kềch, dòng này cho cảm giác vững hơn nhóm máy nhỏ.
 
 Khi gọi hỏi, bạn cứ nói rõ nhu cầu: đi một hay hai người, quãng ngắn hay có chặng dài, có cần cốp rộng không. Cửa hàng sẽ gợi ý dòng xe hợp; các nhóm dòng xe để đối chiếu có trong trang [chọn loại xe khi thuê](/xe-may/chon-loai-xe/), còn mức giá từng dòng nằm trong trang [bảng giá](/bang-gia/).
 

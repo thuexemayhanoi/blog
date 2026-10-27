@@ -23,7 +23,7 @@ Người đi làm trong khu vực nội đô Hà Nội khi tìm trải nghiệm 
 
 ## Chi phí thuê Vision đi làm theo ngày, tuần và tháng
 
-Chi phí là yếu tố quyết định của việc đi làm bằng xe thuê. Giá thuê Honda Vision theo ngày phổ biến ở mức 200.000 đồng. Với người đi làm quãng đường ổn định, thuê theo tuần khoảng từ 800.000 đến 1.000.000 đồng, còn thuê tháng thường ở khoảng 1.800.000 đến 2.000.000 đồng, tùy thời điểm và điều kiện hợp đồng. Điểm mấu chốt: nếu bạn đi làm năm ngày một tuần và không có xe riêng, thuê tháng thường hợp lý hơn thuê lẻ từng ngày, nhưng nếu chỉ cần xe vài ngày đột xuất thì thuê ngày vẫn là lựa chọn rẻ hơn.
+Chi phí là yếu tố quyết định của việc đi làm bằng xe thuê. Giá thuê Honda Vision theo ngày phổ biến ở mức 200.000 đồng. Với người đi làm quãng đường ổn định, thuê theo tuần khoảng 1.000.000 đồng, còn thuê tháng thường ở khoảng 1.800.000 đến 2.000.000 đồng, tùy thời điểm và điều kiện hợp đồng. Điểm mấu chốt: nếu bạn đi làm năm ngày một tuần và không có xe riêng, thuê tháng thường hợp lý hơn thuê lẻ từng ngày, nhưng nếu chỉ cần xe vài ngày đột xuất thì thuê ngày vẫn là lựa chọn rẻ hơn.
 
 Ngoài tiền thuê, cần tính xăng. Máy xe ga 110cc như Vision tiêu thụ vừa phải trong phố, nhưng xăng xe ga thường cao hơn xe số một chút vì truyền động vô cấp. Với quãng đường đi làm nội đô trung bình mỗi ngày, khoản xăng thường thấp hơn đáng kể so với tổng chi phí đi xe công nghệ cùng quãng đường, nhưng bạn nên tự tính theo đúng tuyến của mình. Tiền đặt cọc và điều kiện hợp đồng cần xác nhận trực tiếp với cửa hàng, không nên tin một con số nghe qua. Hướng dẫn chi tiết về thuê dài hạn nằm ở [thuê xe theo tháng](/thue-xe/thue-thang/).
 

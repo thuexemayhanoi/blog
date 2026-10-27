@@ -23,9 +23,9 @@ Khi đọc báo giá, bước đầu tiên là xác định đúng dòng xe đư
 
 ## Giá thật là giá đã chốt hết các khoản kèm theo
 
-Con số thật bạn phải trả là mức đã tính đủ các khoản kèm theo, không chỉ giá niêm yết. Một bản báo giá rõ ràng cần ghi rõ kỳ hạn: theo ngày, theo tuần hay theo tháng. Ví dụ, Honda Vision có mức tham khảo theo tuần từ 800.000 đến 1.000.000 đồng tùy thời điểm và tình trạng xe, còn theo tháng nằm trong khoảng từ 1.800.000 đến 2.000.000 đồng. Honda Air Blade có mức tham khảo theo tuần 800.000 đồng và theo tháng 1.400.000 đồng. Nếu bản báo chỉ ghi một con số duy nhất mà không nói kỳ hạn, đó là dấu hiệu cần hỏi lại.
+Con số thật bạn phải trả là mức đã tính đủ các khoản kèm theo, không chỉ giá niêm yết. Một bản báo giá rõ ràng cần ghi rõ kỳ hạn: theo ngày, theo tuần hay theo tháng. Ví dụ, Honda Vision có mức tham khảo theo tuần 1.000.000 đồng, còn theo tháng nằm trong khoảng từ 1.800.000 đến 2.000.000 đồng. Honda Air Blade có mức tham khảo theo tuần 1.000.000 đồng và theo tháng 1.500.000 đồng. Nếu bản báo chỉ ghi một con số duy nhất mà không nói kỳ hạn, đó là dấu hiệu cần hỏi lại.
 
-Bên cạnh giá thuê, tiền đặt cọc là khoản cần được xác nhận trực tiếp với cửa hàng. Mỗi nơi có quy định riêng về mức cọc và điều kiện hoàn, vì vậy không nên dựa vào con số nghe lại từ người quen. Với xe máy điện và xe 50cc, mức giá thay đổi theo model và tình trạng pin hoặc máy, nên bắt buộc phải hỏi trực tiếp. Bạn có thể gọi 0942 467 674 trong khung giờ 09:00 đến 21:00 để xác nhận mức hiện hành.
+Bên cạnh giá thuê, tiền đặt cọc là khoản cần được xác nhận trực tiếp với cửa hàng. Mỗi nơi có quy định riêng về mức cọc và điều kiện hoàn, vì vậy không nên dựa vào con số nghe lại từ người quen. Với xe máy điện, mức giá thay đổi theo model và tình trạng pin, nên bắt buộc phải hỏi trực tiếp; xe tay ga 50cc có mức tham khảo 200.000 đồng mỗi ngày, giá tuần và tháng báo giá riêng. Bạn có thể gọi 0942 467 674 trong khung giờ 09:00 đến 21:00 để xác nhận mức hiện hành.
 
 ## Các khoản cần soi kỹ trong bản báo giá
 
@@ -36,7 +36,7 @@ Một kinh nghiệm thực tế cho khách ở khu Bồ Đề, Long Biên: trư�
 
 ## So báo giá giữa các kỳ hạn thế nào
 
-Nhiều bản báo đưa cả ba kỳ hạn ngày, tuần, tháng trên cùng một dòng. Khi đó, đừng so con số tuyệt đối mà hãy quy về mức ngày tương đương. Ví dụ Honda Air Blade có mức tham khảo 200.000 đồng mỗi ngày, 800.000 đồng mỗi tuần và 1.400.000 đồng mỗi tháng. Quy đổi ra, mức tuần rẻ hơn nhiều so với mức ngày nhân bảy, còn mức tháng lại thấp hơn nữa. Nếu chuyến đi của bạn kéo dài năm ngày trở lên, hỏi giá tuần thường có lợi hơn giá ngày.
+Nhiều bản báo đưa cả ba kỳ hạn ngày, tuần, tháng trên cùng một dòng. Khi đó, đừng so con số tuyệt đối mà hãy quy về mức ngày tương đương. Ví dụ Honda Air Blade có mức tham khảo 200.000 đồng mỗi ngày, 1.000.000 đồng mỗi tuần và 1.500.000 đồng mỗi tháng. Quy đổi ra, mức tuần rẻ hơn nhiều so với mức ngày nhân bảy, còn mức tháng lại thấp hơn nữa. Nếu chuyến đi của bạn kéo dài từ sáu ngày trở lên, hỏi giá tuần thường có lợi hơn giá ngày.
 
 ## Khi nào một bản báo giá đáng tin
 

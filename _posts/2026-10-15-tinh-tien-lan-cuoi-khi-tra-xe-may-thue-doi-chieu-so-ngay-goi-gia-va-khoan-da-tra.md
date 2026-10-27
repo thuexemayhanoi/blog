@@ -43,20 +43,20 @@ Mức tính cụ thể cho phần quá giờ không có con số chung, hãy xá
 Giá ngày đã niêm yết của cửa hàng Nguyễn Tú:
 
 - Honda Wave: 150.000 đ một ngày.
-- Honda Vision: 200.000 đ một ngày; gói tuần 800.000 đến 1.000.000 đ; gói tháng 1.800.000 đến 2.000.000 đ.
-- Honda Air Blade: 200.000 đ một ngày; gói tuần 800.000 đ; gói tháng 1.400.000 đ.
-- Honda Click hoặc Yamaha Mio: 150.000 đ một ngày; gói tuần 600.000 đến 700.000 đ; gói tháng 1.000.000 đến 1.200.000 đ.
+- Honda Vision: 200.000 đ một ngày; gói tuần 1.000.000 đ; gói tháng 1.800.000 đến 2.000.000 đ.
+- Honda Air Blade: 200.000 đ một ngày; gói tuần 1.000.000 đ; gói tháng 1.500.000 đ.
+- Honda Click hoặc Yamaha Mio: 150.000 đ một ngày; gói tuần 700.000 đ; gói tháng 900.000 đến 1.200.000 đ.
 - Xe máy điện, xe đạp điện: liên hệ cửa hàng để xác nhận giá.
 
 Với dòng xe có khoảng giá, con số chính xác được chốt lúc đặt xe, nên đối chiếu với tin nhắn chốt giá chứ không lấy mức thấp nhất trong bảng. Nếu giữa kỳ bạn đổi sang xe khác, hỏi lại giá áp dụng cho những ngày sau khi đổi.
 
-Kiểm tra thêm một điểm: bạn được tính theo gói hay theo ngày lẻ. Thuê Air Blade đủ một tuần thì gói tuần 800.000 đ rẻ hơn hẳn cộng bảy ngày lẻ. Nếu số ngày đủ gói mà bạn thấy đang bị cộng theo ngày, hỏi lại ngay tại quầy.
+Kiểm tra thêm một điểm: bạn được tính theo gói hay theo ngày lẻ. Thuê Air Blade đủ một tuần thì gói tuần 1.000.000 đ rẻ hơn hẳn cộng bảy ngày lẻ. Nếu số ngày đủ gói mà bạn thấy đang bị cộng theo ngày, hỏi lại ngay tại quầy.
 
 ## Bước 3: Trừ khoản đã trả trước
 
 Tùy thỏa thuận lúc đặt, bạn có thể đã trả trước một phần tiền thuê, trả đủ, hoặc chưa trả gì. Khoản trả trước là tiền thuê, khác với tiền cọc, nên phải được trừ thẳng vào tổng.
 
-Ví dụ với Air Blade gói tuần 800.000 đ, bạn đã trả trước 200.000 đ khi giữ xe. Khi trả xe đúng hạn, không phát sinh gì, phần còn lại là 600.000 đ. Ví dụ khác: thuê Honda Wave bốn ngày, chưa trả trước, tổng là 600.000 đ.
+Ví dụ với Air Blade gói tuần 1.000.000 đ, bạn đã trả trước 200.000 đ khi giữ xe. Khi trả xe đúng hạn, không phát sinh gì, phần còn lại là 1.000.000 đ trừ 200.000 đ đã trả. Ví dụ khác: thuê Honda Wave bốn ngày, chưa trả trước, tổng là bốn lần 150.000 đ.
 
 Mang theo bằng chứng của khoản trả trước: biên nhận, tin nhắn xác nhận đã nhận tiền, hoặc ảnh chụp giao dịch nếu bạn trả qua ngân hàng. Có sẵn trên điện thoại thì việc trừ tiền diễn ra trong vài giây.
 
@@ -80,10 +80,10 @@ Khách ở Tây Hồ thuê Air Blade gói tuần, nhận thứ Ba lúc 4 giờ c
 |---|---|
 | Ngày giờ nhận | Thứ Ba, 4 giờ chiều |
 | Ngày giờ trả | Thứ Ba tuần sau, 3 giờ chiều |
-| Gói | Tuần, Air Blade, 800.000 đ |
+| Gói | Tuần, Air Blade, 1.000.000 đ |
 | Phát sinh | Không |
 | Đã trả trước | 200.000 đ |
-| Còn phải trả | 600.000 đ |
+| Còn phải trả | 1.000.000 đ trừ 200.000 đ đã trả trước |
 | Tiền cọc | Hoàn theo thỏa thuận lúc đặt |
 
 Kiểm xe xong, đối chiếu bảng chỉ mất một lúc. Không ai phải nhớ lại ai đã nói gì từ tuần trước.
