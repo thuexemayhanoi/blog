@@ -19,7 +19,7 @@ Tối ở Tạ Hiện, Lương Ngọc Quyến thường bắt đầu bằng mộ
 
 ## Uống bia phố cổ về bằng gì: quyết định trước khi uống cốc đầu
 
-Đã uống thì không cầm lái, dù chỉ một cốc, dù chỗ ở chỉ cách vài phố. Luật giao thông hiện hành ở Việt Nam không cho phép điều khiển xe máy khi trong máu hoặc hơi thở có nồng độ cồn, mức xử lý theo quy định đang áp dụng và có thể thay đổi; phần quy định được tổng hợp ở bài [quy định nồng độ cồn khi lái xe hiện hành](/an-toan-phap-ly/2026/09/28/quy-inh-nong-o-con-khi-lai-xe-hien-hanh/ "Quy định nồng độ cồn khi lái xe"). Nhưng lý do lớn hơn luật là phố cổ ban đêm chật, người đi bộ tràn xuống lòng đường, và một tay lái chậm nửa giây là đủ gây chuyện.
+Đã uống thì không cầm lái, dù chỉ một cốc, dù chỗ ở chỉ cách vài phố. Luật giao thông hiện hành ở Việt Nam không cho phép điều khiển xe máy khi trong máu hoặc hơi thở có nồng độ cồn, mức xử lý theo quy định đang áp dụng và có thể thay đổi; phần quy định được tổng hợp ở bài [quy định nồng độ cồn khi lái xe hiện hành](/an-toan-phap-ly/2026/09/28/quy-dinh-nong-do-con-khi-lai-xe-hien-hanh/ "Quy định nồng độ cồn khi lái xe"). Nhưng lý do lớn hơn luật là phố cổ ban đêm chật, người đi bộ tràn xuống lòng đường, và một tay lái chậm nửa giây là đủ gây chuyện.
 
 Vì thế, quyết định cách về phải có trước cốc đầu tiên, lúc đầu còn tỉnh. Nói với cả nhóm, giao chìa khoá xe cho người không uống nếu có, hoặc cất chìa sâu trong túi để tự mình không đổi ý lúc nửa đêm. Người ngồi sau cũng không nên ngồi lên xe của người đã uống, kể cả khi người đó nói "mình uống ít".
 
@@ -27,7 +27,7 @@ Vì thế, quyết định cách về phải có trước cốc đầu tiên, l�
 
 Các điểm trông giữ có vé quanh Tạ Hiện, Hàng Buồm, Lương Ngọc Quyến, Đinh Liệt thường nhận gửi qua đêm với phí riêng, với điều kiện hỏi trước khi dựng xe: gửi qua đêm được không, mấy giờ bãi mở sáng mai, có người trông đêm không. Ghi lại câu trả lời, lấy vé, chụp ảnh xe và bãi. Khách sạn hoặc homestay trong phố cổ nhận giữ xe cho khách thì tốt nhất: về khách sạn bằng cách khác, xe đã nằm sẵn ở đó từ chiều.
 
-Tối thứ Sáu, thứ Bảy và Chủ nhật, nhiều phố quanh Tạ Hiện như Hàng Buồm, Mã Mây, Hàng Bạc nằm trong vùng hạn chế xe cùng không gian đi bộ và chợ đêm, xe máy không vào được từ bảy giờ tối đến nửa đêm; lúc đó bãi gần nhất ở vành ngoài phía Trần Nhật Duật, Hàng Dầu hay Lò Sũ. Chỗ để xe quanh khu bia hơi được nói kỹ ở bài [phố Tạ Hiện buổi tối bằng xe máy: chỗ để xe quanh khu bia hơi](/du-lich/2026/10/04/pho-ta-hien-buoi-toi-bang-xe-may-cho-e-xe-quanh-khu-bia-hoi/ "Phố Tạ Hiện buổi tối để xe ở đâu"), còn chuyện gửi lại xe qua đêm rồi lấy sáng hôm sau ở bài [lỡ uống rượu bia buổi tối: để xe lại qua đêm và lấy xe sáng hôm sau](/ky-nang/2026/10/11/lo-uong-ruou-bia-buoi-toi-e-xe-lai-qua-em-va-lay-xe-sang-hom-sau/ "Để xe lại qua đêm sau khi uống").
+Tối thứ Sáu, thứ Bảy và Chủ nhật, nhiều phố quanh Tạ Hiện như Hàng Buồm, Mã Mây, Hàng Bạc nằm trong vùng hạn chế xe cùng không gian đi bộ và chợ đêm, xe máy không vào được từ bảy giờ tối đến nửa đêm; lúc đó bãi gần nhất ở vành ngoài phía Trần Nhật Duật, Hàng Dầu hay Lò Sũ. Chỗ để xe quanh khu bia hơi được nói kỹ ở bài [phố Tạ Hiện buổi tối bằng xe máy: chỗ để xe quanh khu bia hơi](/du-lich/2026/10/04/pho-ta-hien-buoi-toi-bang-xe-may-cho-de-xe-quanh-khu-bia-hoi/ "Phố Tạ Hiện buổi tối để xe ở đâu"), còn chuyện gửi lại xe qua đêm rồi lấy sáng hôm sau ở bài [lỡ uống rượu bia buổi tối: để xe lại qua đêm và lấy xe sáng hôm sau](/ky-nang/2026/10/11/lo-uong-ruou-bia-buoi-toi-de-xe-lai-qua-dem-va-lay-xe-sang-hom-sau/ "Để xe lại qua đêm sau khi uống").
 
 ## Các cách về: xe công nghệ, taxi, xe ôm, xe buýt hay đi bộ
 
@@ -39,7 +39,7 @@ Xe buýt cũng là một lựa chọn với người về sớm: trong vành đa
 
 Ba việc làm lúc còn tỉnh: ghim vị trí bãi trên bản đồ, chụp ảnh xe cùng tấm biển hoặc cửa hàng cạnh bãi, và giữ vé trong ví chứ không trong túi quần. Sáng hôm sau, nhìn ảnh là ra bãi, không phải đi vòng vòng nhớ lại. Kiểm tra gương, xăng, cốp trước khi chạy; xe gửi qua đêm ngoài trời có thể ướt sương, lau yên và tay nắm.
 
-Và một điều nhiều người quên: sáng hôm sau cơ thể có thể vẫn còn nồng độ cồn nếu đêm trước uống nhiều, nên đừng lấy xe quá sớm, ăn sáng, uống nước, đi muộn hơn một chút. Chuyện này được giải thích ở bài [uống bia xong bao lâu mới được chạy xe máy](/an-toan-phap-ly/2026/10/07/uong-bia-xong-bao-lau-moi-uoc-chay-xe-may/ "Uống bia xong bao lâu mới được chạy xe"), với lưu ý mọi mốc thời gian chỉ là ước lượng và quy định có thể thay đổi.
+Và một điều nhiều người quên: sáng hôm sau cơ thể có thể vẫn còn nồng độ cồn nếu đêm trước uống nhiều, nên đừng lấy xe quá sớm, ăn sáng, uống nước, đi muộn hơn một chút. Chuyện này được giải thích ở bài [uống bia xong bao lâu mới được chạy xe máy](/an-toan-phap-ly/2026/10/07/uong-bia-xong-bao-lau-moi-duoc-chay-xe-may/ "Uống bia xong bao lâu mới được chạy xe"), với lưu ý mọi mốc thời gian chỉ là ước lượng và quy định có thể thay đổi.
 
 ## Nếu nhóm nhiều xe và nhiều người
 

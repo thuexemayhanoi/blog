@@ -29,7 +29,7 @@ Thứ nhất: xe máy để trong nhà hay gửi ngoài, còn chỗ cho mấy xe
 
 Thứ tư: phố trước khách sạn có nằm trong khu phố đi bộ hoặc vùng hạn chế xe vào tối cuối tuần không. Từ đầu tháng Bảy năm 2026, Hà Nội thí điểm vùng phát thải thấp ở Hoàn Kiếm, trong đó mười hai tuyến phố của khu vực một, gồm Hàng Đào, Hàng Ngang, Hàng Buồm, Mã Mây, Hàng Bạc, Hàng Mắm, Nguyễn Hữu Huân, Tràng Tiền, Hàng Khay, Lê Thái Tổ, Lý Thái Tổ và Ngô Quyền, cấm toàn bộ xe máy và ô tô từ bảy giờ tối đến nửa đêm các ngày thứ Sáu, thứ Bảy, Chủ nhật, trùng với không gian đi bộ và chợ đêm. Khách sạn nằm trên các phố này hoặc trong ngõ mở ra các phố này thì cuối tuần bạn không ra vào bằng xe được trong khung giờ đó.
 
-Thứ năm: đường vào là phố một chiều từ hướng nào, cửa chính ở đâu; phố cổ có nhiều số nhà kiểu A, B hay ngõ nhánh, nên xin một tấm ảnh mặt tiền, một điểm ghim bản đồ và một mốc dễ thấy như quán cà phê bên cạnh. Thứ sáu, nếu thuê xe giao đến khách sạn: nhân viên cửa hàng có được dắt xe vào sảnh làm thủ tục không, hay hẹn ở đầu phố. Bộ câu hỏi này cũng là nội dung của bài [hỏi khách sạn hoặc homestay về chỗ để xe trước khi chốt thuê xe máy](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-e-xe-truoc-khi-chot-thue-xe-may/ "Hỏi chỗ để xe trước khi chốt thuê xe"), viết từ phía cửa hàng cho thuê.
+Thứ năm: đường vào là phố một chiều từ hướng nào, cửa chính ở đâu; phố cổ có nhiều số nhà kiểu A, B hay ngõ nhánh, nên xin một tấm ảnh mặt tiền, một điểm ghim bản đồ và một mốc dễ thấy như quán cà phê bên cạnh. Thứ sáu, nếu thuê xe giao đến khách sạn: nhân viên cửa hàng có được dắt xe vào sảnh làm thủ tục không, hay hẹn ở đầu phố. Bộ câu hỏi này cũng là nội dung của bài [hỏi khách sạn hoặc homestay về chỗ để xe trước khi chốt thuê xe máy](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-de-xe-truoc-khi-chot-thue-xe-may/ "Hỏi chỗ để xe trước khi chốt thuê xe"), viết từ phía cửa hàng cho thuê.
 
 ## Đọc mô tả và ảnh trên trang đặt phòng để đoán trước
 
@@ -39,9 +39,9 @@ Nếu vẫn không chắc, nhắn thẳng cho khách sạn với đúng sáu câ
 
 ## Khi đã đến: dắt xe vào ngõ hẹp và để xe trong sảnh
 
-Vào ngõ hẹp thì tắt máy, gập gương, tắt đèn và dắt bộ, xe nghiêng nhẹ về phía mình; ngõ nhiều cửa nhà dân, không dựng xe chắn cửa ai. Trong sảnh, để xe quay đầu ra để sáng mai dắt thẳng, dựng chân chống giữa nếu sàn phẳng, và chụp một tấm ảnh xe lúc gửi cùng số đồng hồ. Nếu khách sạn muốn giữ chìa để xếp xe, hỏi cửa hàng cho thuê xem có đồng ý không, rồi mới đưa; kinh nghiệm chung có ở bài [gửi xe ở khách sạn và nhà nghỉ khi đi xe máy](/ky-nang/2026/10/01/gui-xe-o-khach-san-va-nha-nghi-khi-i-xe-may/ "Gửi xe ở khách sạn và nhà nghỉ").
+Vào ngõ hẹp thì tắt máy, gập gương, tắt đèn và dắt bộ, xe nghiêng nhẹ về phía mình; ngõ nhiều cửa nhà dân, không dựng xe chắn cửa ai. Trong sảnh, để xe quay đầu ra để sáng mai dắt thẳng, dựng chân chống giữa nếu sàn phẳng, và chụp một tấm ảnh xe lúc gửi cùng số đồng hồ. Nếu khách sạn muốn giữ chìa để xếp xe, hỏi cửa hàng cho thuê xem có đồng ý không, rồi mới đưa; kinh nghiệm chung có ở bài [gửi xe ở khách sạn và nhà nghỉ khi đi xe máy](/ky-nang/2026/10/01/gui-xe-o-khach-san-va-nha-nghi-khi-di-xe-may/ "Gửi xe ở khách sạn và nhà nghỉ").
 
-Khách thuê xe điện còn thêm chuyện ổ sạc, được nói riêng ở bài [khách sạn phố cổ và xe điện thuê: hỏi lễ tân gì về chỗ để xe, ổ sạc](/xe-may/2026/10/11/khach-san-pho-co-va-xe-ien-thue-hoi-le-tan-gi-ve-cho-e-xe-o-sac/ "Khách sạn phố cổ và xe điện thuê").
+Khách thuê xe điện còn thêm chuyện ổ sạc, được nói riêng ở bài [khách sạn phố cổ và xe điện thuê: hỏi lễ tân gì về chỗ để xe, ổ sạc](/xe-may/2026/10/11/khach-san-pho-co-va-xe-dien-thue-hoi-le-tan-gi-ve-cho-de-xe-o-sac/ "Khách sạn phố cổ và xe điện thuê").
 
 ## Nếu khách sạn không có chỗ: bãi vành ngoài và nhịp đi lại
 

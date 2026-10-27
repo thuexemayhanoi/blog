@@ -39,7 +39,7 @@ Cách tính giờ chi tiết cho chặng về đã có trong bài [chạy xe má
 
 Về hạ tầng, Đồng Văn hơn hẳn: từ nhà nghỉ trong nhà trình tường tới các chỗ nghỉ lớn hơn, từ thắng cố tới cơm quán, từ bãi để xe tới tiệm vá, tất cả đều dày. Mèo Vạc nhỏ và mùa cao điểm dễ hết chỗ, nên ai chọn Mèo Vạc phải chốt sớm, và chịu ăn uống đơn giản hơn. Đêm ở Mèo Vạc cũng yên và thấy rõ sao hơn, nếu nhóm coi đó là trải nghiệm.
 
-Về để xe, hai nơi đều nên ưu tiên chỗ nghỉ có sân rào và người trông, như danh sách câu hỏi đã gom trong bài [hỏi khách sạn hoặc homestay về chỗ để xe trước khi chốt](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-e-xe-truoc-khi-chot-thue-xe-may/). Đêm vùng cao hay có mưa rào, một xe dựng ngoài phố qua đêm là một sáng lau bùn và lo trầy.
+Về để xe, hai nơi đều nên ưu tiên chỗ nghỉ có sân rào và người trông, như danh sách câu hỏi đã gom trong bài [hỏi khách sạn hoặc homestay về chỗ để xe trước khi chốt](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-de-xe-truoc-khi-chot-thue-xe-may/). Đêm vùng cao hay có mưa rào, một xe dựng ngoài phố qua đêm là một sáng lau bùn và lo trầy.
 
 Một chi tiết hay bị bỏ qua: nhóm đi sáu, bảy người không phải lúc nào cũng ngủ chung được một chỗ. Mèo Vạc ít nhà nghỉ có phòng lớn, nên nhóm đông thường phải tách thành hai nhà cạnh nhau, và người cắm cột đặt chỗ phải hỏi rõ xem mỗi nhà còn mấy phòng trống. Ai đi vào dịp cuối tuần mùa cao điểm thì càng nên chốt sớm, kèm theo hai ba phương án dự phòng gọi tiếp ngay, vì chỗ đầu tiên thường hết trước khi kịp gọi xác nhận lại.
 

@@ -29,7 +29,7 @@ Xuất phát từ phố cổ khoảng hai rưỡi chiều, theo Hàng Bài xuố
 
 Gửi xe một lần ở điểm trông giữ quanh Cổ Tân, Tông Đản cạnh nhà hát, rồi đi bộ: vòng qua Lê Thánh Tông ngắm toà nhà Đại học Tổng hợp cũ, lên Phan Chu Trinh, sang Hai Bà Trưng, rẽ vào Ngô Quyền với Nhà khách Chính phủ và khách sạn cổ nổi tiếng nhất thành phố, rồi ra Lý Thái Tổ với vườn hoa và tượng đài vua Lý Thái Tổ nhìn thẳng ra hồ. Vòng đi bộ này chừng một cây số rưỡi, vừa đủ một tiếng rưỡi với vài lần dừng. Lấy xe, chạy nốt Lý Thái Tổ về Hồ Gươm là kết thúc.
 
-Ai thích sách và ảnh có thể ghé phố sách gần đó, cách đi và gửi xe có ở bài [đến phố sách Ngô Quyền bằng xe máy: gửi xe và đường đi](/du-lich/2026/10/04/en-pho-sach-ngo-quyen-bang-xe-may-gui-xe-va-uong-i/ "Đến phố sách bằng xe máy"). Người muốn thêm một bảo tàng nhỏ trên trục Trần Hưng Đạo xem thêm [Bảo tàng Biên phòng ở Trần Hưng Đạo: chạy xe máy từ Hồ Gươm, cần hỏi gì trước](/du-lich/2026/10/13/bao-tang-bien-phong-o-tran-hung-dao-chay-xe-may-tu-ho-guom-can-hoi-gi-truoc/ "Bảo tàng Biên phòng ở Trần Hưng Đạo").
+Ai thích sách và ảnh có thể ghé phố sách gần đó, cách đi và gửi xe có ở bài [đến phố sách Ngô Quyền bằng xe máy: gửi xe và đường đi](/du-lich/2026/10/04/den-pho-sach-ngo-quyen-bang-xe-may-gui-xe-va-duong-di/ "Đến phố sách bằng xe máy"). Người muốn thêm một bảo tàng nhỏ trên trục Trần Hưng Đạo xem thêm [Bảo tàng Biên phòng ở Trần Hưng Đạo: chạy xe máy từ Hồ Gươm, cần hỏi gì trước](/du-lich/2026/10/13/bao-tang-bien-phong-o-tran-hung-dao-chay-xe-may-tu-ho-guom-can-hoi-gi-truoc/ "Bảo tàng Biên phòng ở Trần Hưng Đạo").
 
 ## Giờ ánh sáng đẹp và góc chụp
 
@@ -39,9 +39,9 @@ Chiều chạy nên đi từ hồ xuống phía nhà hát để toà nhà hiện
 
 ## Ghép với Hồ Gươm và phố cổ trong cùng buổi
 
-Nếu buổi sáng đã dành cho phố cổ, buổi chiều phố Pháp là phần tiếp nối tự nhiên, và Hồ Gươm nằm đúng giữa hai khu. Kết vòng ở vườn hoa Lý Thái Tổ lúc năm giờ chiều, đi bộ một đoạn bờ hồ rồi mới lấy xe là cách khép ngày gọn; đường đi và chỗ gửi quanh hồ có ở bài [đến Khu Hồ Gươm và Tháp Rùa bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/28/en-khu-ho-guom-va-thap-rua-bang-xe-may-gui-xe-va-uong-i/ "Đến Hồ Gươm và Tháp Rùa bằng xe máy").
+Nếu buổi sáng đã dành cho phố cổ, buổi chiều phố Pháp là phần tiếp nối tự nhiên, và Hồ Gươm nằm đúng giữa hai khu. Kết vòng ở vườn hoa Lý Thái Tổ lúc năm giờ chiều, đi bộ một đoạn bờ hồ rồi mới lấy xe là cách khép ngày gọn; đường đi và chỗ gửi quanh hồ có ở bài [đến Khu Hồ Gươm và Tháp Rùa bằng xe máy: gửi xe và đường đi](/du-lich/2026/09/28/den-khu-ho-guom-va-thap-rua-bang-xe-may-gui-xe-va-duong-di/ "Đến Hồ Gươm và Tháp Rùa bằng xe máy").
 
-Nếu hôm đó là thứ Sáu, thứ Bảy hay Chủ nhật, hãy tính kết vòng trước bảy giờ tối, vì sau giờ đó Tràng Tiền, Lý Thái Tổ, Ngô Quyền và cả khu quanh hồ cấm xe, lấy xe ở bãi trong vùng sẽ phải dắt ra khá xa. Chuyện xe máy để đâu khi phố đi bộ mở cửa được nói ở bài [phố đi bộ cuối tuần và xe máy để đâu](/du-lich/2026/09/28/pho-i-bo-cuoi-tuan-va-xe-may-e-au/ "Phố đi bộ cuối tuần và xe máy để đâu").
+Nếu hôm đó là thứ Sáu, thứ Bảy hay Chủ nhật, hãy tính kết vòng trước bảy giờ tối, vì sau giờ đó Tràng Tiền, Lý Thái Tổ, Ngô Quyền và cả khu quanh hồ cấm xe, lấy xe ở bãi trong vùng sẽ phải dắt ra khá xa. Chuyện xe máy để đâu khi phố đi bộ mở cửa được nói ở bài [phố đi bộ cuối tuần và xe máy để đâu](/du-lich/2026/09/28/pho-di-bo-cuoi-tuan-va-xe-may-de-dau/ "Phố đi bộ cuối tuần và xe máy để đâu").
 
 ## Đường về và vài lưu ý nhỏ
 

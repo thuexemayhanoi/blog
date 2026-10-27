@@ -31,7 +31,7 @@ Mùa lạnh vùng Đồng Văn, Mèo Vạc có nhịp riêng: giữa trưa có n
 
 Điều cần hiểu cho lịch trình: lạnh không đều trong ngày. Nhóm dậy sớm ngắm đèo phải trả giá bằng mười lăm phút sau tê cóng, còn nhóm xuất phát sau tám giờ rưỡi, khi mặt trời đã lên đỉnh đèo, thường gặp trời dễ chịu hơn hẳn. Việc giữ ấm còn bắt đầu từ chỗ ngủ: nhà trình tường kín gió giữ nhiệt tốt hơn nhà mái tôn, nên nhóm dễ lạnh cứ hỏi thẳng chỗ nghỉ về chăn và chỗ tụt gió, và đóng cửa sổ trước khi trời tối. Một đôi tất dự phòng để trong cốp cũng đáng giá hơn tưởng tượng, vì tất ẩm hôm trước chính là nguồn lạnh của buổi sáng hôm sau.
 
-Cân nhắc canh giờ kiểu này đã được bàn trong bài [khung thời gian nên chạy cung Hà Giang](/cung-duong/2026/10/07/khung-thoi-gian-ep-trong-nam-e-chay-cung-ha-giang/), mùa lạnh nó càng đúng.
+Cân nhắc canh giờ kiểu này đã được bàn trong bài [khung thời gian nên chạy cung Hà Giang](/cung-duong/2026/10/07/khung-thoi-gian-dep-trong-nam-de-chay-cung-ha-giang/), mùa lạnh nó càng đúng.
 
 ## Sương muối: mặt đường trơn nhất của mùa lạnh
 

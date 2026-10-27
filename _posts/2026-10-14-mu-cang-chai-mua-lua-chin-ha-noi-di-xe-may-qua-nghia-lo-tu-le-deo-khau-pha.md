@@ -21,7 +21,7 @@ Mù Cang Chải mùa lúa chín là chùm ruộng bậc thang đẹp nhất phí
 
 Lộ trình quen thuộc nhất từ Hà Nội là quốc lộ 32 qua vùng trung du lên Yên Bái, tiếp tục tới Nghĩa Lộ, rồi theo đường lên Tú Lệ và qua đèo Khau Phạ xuống Mù Cang Chải. Tổng chặng một chiều quanh ba trăm cây số, trong đó phần trung du chiếm nửa đầu, phần núi chiếm nửa sau. Cách chia hợp lý cho xe máy là hai ngày một chiều, hoặc hai ngày trọn nếu muốn thong thả: ngày một từ Hà Nội tới Nghĩa Lộ hoặc sớm hơn tới Tú Lệ, ngày hai qua đèo Khau Phạ vào Mù Cang Chải đúng khung nắng đẹp.
 
-Về mùa: lúa chín ở Mù Cang Chải rộ trong khoảng hai ba tuần, thường rơi vào cuối tháng Chín và những ngày đầu tháng Mười, tùy năm sớm muộn. Chuẩn bị đi mùa này nên theo dõi tin lúa của chính địa phương, vì chín lệch giữa các thung lũng cao thấp: có xã còn xanh mướt, có xã đã vàng rợm. Cùng vùng, bài [Mai Châu mùa lúa chín đi xe máy lúc nào đẹp](/cung-duong/2026/10/05/mai-chau-mua-lua-chin-i-xe-may-luc-nao-ep/) đã bàn chi tiết quy luật chọn giờ chín, và cách ghép lúa Hà Giang qua Hoàng Su Phì cũng đã có trong bài [Hoàng Su Phì bằng xe máy đi mùa lúa chín và ghép với chuyến Hà Giang](/cung-duong/2026/10/14/hoang-su-phi-bang-xe-may-di-mua-lua-chin-va-ghep-voi-chuyen-ha-giang/), cho ai muốn nối điểm.
+Về mùa: lúa chín ở Mù Cang Chải rộ trong khoảng hai ba tuần, thường rơi vào cuối tháng Chín và những ngày đầu tháng Mười, tùy năm sớm muộn. Chuẩn bị đi mùa này nên theo dõi tin lúa của chính địa phương, vì chín lệch giữa các thung lũng cao thấp: có xã còn xanh mướt, có xã đã vàng rợm. Cùng vùng, bài [Mai Châu mùa lúa chín đi xe máy lúc nào đẹp](/cung-duong/2026/10/05/mai-chau-mua-lua-chin-di-xe-may-luc-nao-dep/) đã bàn chi tiết quy luật chọn giờ chín, và cách ghép lúa Hà Giang qua Hoàng Su Phì cũng đã có trong bài [Hoàng Su Phì bằng xe máy đi mùa lúa chín và ghép với chuyến Hà Giang](/cung-duong/2026/10/14/hoang-su-phi-bang-xe-may-di-mua-lua-chin-va-ghep-voi-chuyen-ha-giang/), cho ai muốn nối điểm.
 
 ## Ngày một: Hà Nội tới Nghĩa Lộ hoặc Tú Lệ
 
@@ -31,7 +31,7 @@ Quá nửa chặng, đường bắt đầu gợn đồi và tới Nghĩa Lộ, t
 
 ## Ngày hai: Tú Lệ, đèo Khau Phạ và thung lũng lúa
 
-Từ Tú Lệ, chặng ngày hai ngắn về cây số nhưng đầy về cảnh: đường men theo suối một đoạn, rồi bắt đầu leo đèo Khau Phạ, khúc đèo dài nổi tiếng của vùng, đỉnh chìm trong mây nhiều ngày trong tuần. Cách vào số và giữ đà trên đèo đã bàn trong bài [đèo dốc trên đường lên Mộc Châu và cách vào số](/cung-duong/2026/09/28/eo-doc-tren-uong-moc-chau-va-cach-vao-so/): giảm số trước dốc chứ không giảm giữa dốc, giữ vòng tua nhẹ, và không bóp côn lê la trên đoạn dài.
+Từ Tú Lệ, chặng ngày hai ngắn về cây số nhưng đầy về cảnh: đường men theo suối một đoạn, rồi bắt đầu leo đèo Khau Phạ, khúc đèo dài nổi tiếng của vùng, đỉnh chìm trong mây nhiều ngày trong tuần. Cách vào số và giữ đà trên đèo đã bàn trong bài [đèo dốc trên đường lên Mộc Châu và cách vào số](/cung-duong/2026/09/28/deo-doc-tren-duong-moc-chau-va-cach-vao-so/): giảm số trước dốc chứ không giảm giữa dốc, giữ vòng tua nhẹ, và không bóp côn lê la trên đoạn dài.
 
 Giờ qua đèo quan trọng hơn tốc độ qua đèo. Buổi sớm sương còn dày, mọi khúc cua trên cao đều là cua mù; khung đẹp là giữa sáng sau khi mây tan bớt, tới đầu chiều khi nắng nghiêng khiến ruộng bậc thang nổi từng lớp màu. Ai xuất phát từ Nghĩa Lộ thì tám giờ lên đèo là vừa; ai từ Tú Lệ thì dư một tiếng ngủ. Trên đỉnh có vài điểm dừng ngắm thung lũng: dập hẳn vào lề rộng rồi mới xuống xe, vì đèo có xe container chạy đường Lai Châu, và cua mù không cho ai sai lầm hai lần.
 

@@ -64,7 +64,7 @@ Bài học ở đây là đi và về không nhất thiết cùng một tuyến.
 
 Nam trọ trong một ngõ gần Xuân Thủy nhưng học ở Kinh tế Quốc dân, tiết đầu khá sớm. Ban đầu Nam đi theo chỉ dẫn bản đồ, luồn liên tục qua ngõ, kết quả là hai lần kẹt sau xe chở hàng và một lần lạc vào ngõ cụt. Sau vài tuần, Nam chuyển hẳn sang đường Láng – Trường Chinh, xuất phát sớm hơn một chút, và đến lớp đều đặn hơn hẳn.
 
-Nếu bạn đang ở giai đoạn làm quen như Nam, nên dành một buổi cuối tuần chạy thử cả hai trục lớn khi đường vắng. Bạn có thể kết hợp với [cung đường chạy thử xe quanh Cầu Giấy và Hồ Tây](/cung-duong/2026/10/10/cung-uong-chay-thu-xe-may-qua-cau-giay-va-ho-tay/) để quen dần nhịp xe phía tây thành phố.
+Nếu bạn đang ở giai đoạn làm quen như Nam, nên dành một buổi cuối tuần chạy thử cả hai trục lớn khi đường vắng. Bạn có thể kết hợp với [cung đường chạy thử xe quanh Cầu Giấy và Hồ Tây](/cung-duong/2026/10/10/cung-duong-chay-thu-xe-may-qua-cau-giay-va-ho-tay/) để quen dần nhịp xe phía tây thành phố.
 
 ## Gửi xe, mưa và những thứ làm chậm hành trình
 
@@ -82,6 +82,6 @@ Bạn có thể hỏi Thuê Xe Máy Hà Nội Nguyễn Tú qua số 0942 467 674
 
 Sau vài tuần, bạn sẽ biết nút nào đáng ngại vào giờ nào. Lúc đó hãy chốt bộ lộ trình: tuyến chính buổi sáng, tuyến dự phòng khi mưa, tuyến buổi tối ưu tiên đường sáng.
 
-Muốn mở rộng vốn đường, bạn có thể xem thêm các [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) khác, chẳng hạn quãng [từ bến xe Giáp Bát về phố cổ](/cung-duong/2026/10/09/tu-ben-xe-giap-bat-ve-pho-co-chay-xe-may-uong-nao/), rất hữu ích khi đón bạn bè từ quê lên. Cuối tuần muốn thư giãn thì [vòng quanh hồ Linh Đàm](/cung-duong/2026/10/01/cung-uong-ho-linh-am-bang-xe-may/) là lựa chọn nhẹ nhàng ở phía nam.
+Muốn mở rộng vốn đường, bạn có thể xem thêm các [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) khác, chẳng hạn quãng [từ bến xe Giáp Bát về phố cổ](/cung-duong/2026/10/09/tu-ben-xe-giap-bat-ve-pho-co-chay-xe-may-duong-nao/), rất hữu ích khi đón bạn bè từ quê lên. Cuối tuần muốn thư giãn thì [vòng quanh hồ Linh Đàm](/cung-duong/2026/10/01/cung-duong-ho-linh-dam-bang-xe-may/) là lựa chọn nhẹ nhàng ở phía nam.
 
 Tuần này, hãy thử đi một chiều theo trục Trường Chinh, chiều kia theo trục Nguyễn Chí Thanh, ghi lại giờ xuất phát và giờ đến. Vài lượt là bạn có lộ trình riêng của mình. Các tuyến khác trong thành phố bạn có thể tham khảo ở chuyên mục [cung đường](/cung-duong/).

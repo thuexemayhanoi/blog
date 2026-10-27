@@ -36,7 +36,7 @@ Từ Tây Hồ, có thể men đường Thanh Niên hoặc Thụy Khuê xuống,
 
 Từ Đống Đa, bạn có thể đi Xã Đàn hoặc Đại Cồ Việt rồi rẽ lên Lê Duẩn. Nhóm ở Hoàng Mai thường lên theo Giải Phóng rồi nối sang Lê Duẩn. Tới khu Cửa Nam là lúc nên nghĩ chuyện dừng xe.
 
-Một lựa chọn khác là đi theo các phố dẫn lên phía nam Hồ Gươm (để ý biển phố một chiều), dừng xe ở phố lân cận rồi đi bộ dọc mép hồ sang nhà thờ. Cách này hợp với gia đình có trẻ nhỏ. Ai từng xem [đường từ bến xe Giáp Bát về phố cổ](/cung-duong/2026/10/09/tu-ben-xe-giap-bat-ve-pho-co-chay-xe-may-uong-nao/) sẽ thấy hướng lên khá giống, chỉ khác là bạn dừng sớm hơn.
+Một lựa chọn khác là đi theo các phố dẫn lên phía nam Hồ Gươm (để ý biển phố một chiều), dừng xe ở phố lân cận rồi đi bộ dọc mép hồ sang nhà thờ. Cách này hợp với gia đình có trẻ nhỏ. Ai từng xem [đường từ bến xe Giáp Bát về phố cổ](/cung-duong/2026/10/09/tu-ben-xe-giap-bat-ve-pho-co-chay-xe-may-duong-nao/) sẽ thấy hướng lên khá giống, chỉ khác là bạn dừng sớm hơn.
 
 ### Từ bên kia sông: Long Biên, Gia Lâm
 

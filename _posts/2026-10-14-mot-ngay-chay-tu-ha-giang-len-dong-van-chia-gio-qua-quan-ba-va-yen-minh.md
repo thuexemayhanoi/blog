@@ -47,7 +47,7 @@ Nếu nhóm muốn dừng nhiều hơn ở vùng đá mà vẫn giữ nguyên m�
 
 ## Chỗ nghỉ ở Đồng Văn và việc cần làm cuối ngày
 
-Phố cổ Đồng Văn có đủ loại chỗ nghỉ từ nhà nghỉ tới homestay trong nhà trình tường. Nhóm thuê xe đi xa nên hỏi trước chủ chỗ nghỉ về nơi để xe đêm, vì để xe trong sân có người trông sẽ yên hơn để ngoài phố; những điều nên hỏi trước đã được gom trong bài [hỏi khách sạn hoặc homestay về chỗ để xe trước khi chốt](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-e-xe-truoc-khi-chot-thue-xe-may/). Buổi tối phố cổ lên đèn vàng, bày bán xôi ngũ sắc và thịt trâu gác bếp, đáng đi bộ một vòng chậm.
+Phố cổ Đồng Văn có đủ loại chỗ nghỉ từ nhà nghỉ tới homestay trong nhà trình tường. Nhóm thuê xe đi xa nên hỏi trước chủ chỗ nghỉ về nơi để xe đêm, vì để xe trong sân có người trông sẽ yên hơn để ngoài phố; những điều nên hỏi trước đã được gom trong bài [hỏi khách sạn hoặc homestay về chỗ để xe trước khi chốt](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-de-xe-truoc-khi-chot-thue-xe-may/). Buổi tối phố cổ lên đèn vàng, bày bán xôi ngũ sắc và thịt trâu gác bếp, đáng đi bộ một vòng chậm.
 
 Việc cuối ngày đáng mười phút: kiểm tra xe, vặn lại gương, lau bùn đá văng vào giảm xóc, và chốt giờ xuất phát ngày mai với cả nhóm. Ngày mai nếu định đi Lũng Cú hoặc Mã Pí Lèng, mọi người nên đồng mục tiêu giờ vì bạn sẽ chạy tiếp đúng tuyến này một lần nữa.
 

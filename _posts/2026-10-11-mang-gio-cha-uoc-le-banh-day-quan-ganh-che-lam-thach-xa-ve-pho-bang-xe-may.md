@@ -28,7 +28,7 @@ Nói gọn: chè lam để được lâu, giò chả để được vài ngày n
 
 ## Sắp lịch mua: món bền mua trước, món dễ hỏng mua sau
 
-Ba làng không nằm chung một trục đường. Thạch Xá ở phía tây, còn Ước Lễ và Quán Gánh cùng nằm về phía nam. Gom cả ba vào một ngày là được, nhưng sẽ khá vất vả. Nếu chưa quen chọn hướng, bài [đi xe máy ra ngoại thành cuối tuần nên chọn hướng nào](/du-lich/2026/09/28/i-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao/) sẽ giúp bạn chia chặng hợp lý hơn.
+Ba làng không nằm chung một trục đường. Thạch Xá ở phía tây, còn Ước Lễ và Quán Gánh cùng nằm về phía nam. Gom cả ba vào một ngày là được, nhưng sẽ khá vất vả. Nếu chưa quen chọn hướng, bài [đi xe máy ra ngoại thành cuối tuần nên chọn hướng nào](/du-lich/2026/09/28/di-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao/) sẽ giúp bạn chia chặng hợp lý hơn.
 
 Nguyên tắc đơn giản là mua món bền trước, món dễ hỏng sau cùng, sát lúc quay về. Một lịch trình mẫu cho người ở phía nam thành phố:
 
