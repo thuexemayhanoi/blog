@@ -123,6 +123,7 @@ Slug/URL bài chỉ do `scripts/factory/slugkit.py` sinh (đ→d, NFC, ASCII; xe
 KHÔNG sửa tay `permalink` của bài PUBLISHED: chỉ `scripts/factory/migrate-slug-urls.py` (plan/apply/verify/rollback, lô ≤ 50, `--approval-ref`, evidence chấm lại độc lập).
 Hàng matrix PUBLISHED lệch permalink thật (dạng `/cm/YYYY/MM/DD/slug/` so với `/cm/YYYY-MM-DD[/|-]slug/`): hàng thuộc baseline đ→d do `migrate-slug-urls.py` sửa khi di trú; hàng NGOÀI baseline chỉ sửa bằng `scripts/factory/sync-matrix-urls.py` (plan/apply/verify/rollback, lô ≤ 50, `--approval-ref`; không đổi bài/permalink). Evidence lệch hash: PR reattest riêng, merge trước, rồi mới chạy di trú/đồng bộ. Không sửa tay matrix.
 URL cũ của bài đã di trú là trang HTTP 200 + meta refresh 0s + canonical (`redirects/slug-d/`, sinh từ registry) — KHÔNG phải HTTP 301 và không được gọi là 301.
+Quyết định chủ 2026-10-27: URL cũ được GỠ (trả 404, đúng kỳ vọng) chỉ qua `scripts/factory/retire-slug-stubs.py` khi không còn liên kết nào tới nó và audit live đã xác nhận URL mới 200; dòng registry giữ ánh xạ với status `RETIRED`; mọi liên kết tới URL `RETIRED` bị validate/gate chặn (ngưỡng 0). Không xóa bài thật/evidence.
 Bài mới không được link vào URL cũ đã di trú (gate `check-slug-redirects.py` có ngưỡng ratchet chỉ giảm).
 
 ## 10 quy tắc (+3 đa-writer)

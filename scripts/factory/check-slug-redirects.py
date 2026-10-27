@@ -11,6 +11,9 @@ Với MỌI dòng MIGRATED trong reports/factory/seo-master/slug-redirect-regist
             https://blog.thuexemaynguyentu.com + MỚI; KHÔNG noindex; có liên kết dự phòng <a href=MỚI>; KHÔNG có trong sitemap.xml.
   URL MỚI : tệp tồn tại, đúng một canonical tự trỏ, KHÔNG có meta refresh, có <h1>, CÓ trong sitemap.xml.
   Chuỗi/vòng: URL MỚI không phải URL CŨ của mục nào.
+Với MỌI dòng RETIRED (URL cũ đã gỡ theo quyết định chủ 2026-10-27, retire-slug-stubs.py):
+  URL CŨ  : KHÔNG còn tệp nào trong output (404 là kỳ vọng), KHÔNG có trong sitemap; URL MỚI kiểm như trên;
+            KHÔNG một liên kết nội bộ nào trỏ vào URL cũ đã gỡ (ngưỡng cứng 0 — liên kết đó là 404).
 Toàn site:
   mọi trang có meta refresh PHẢI nằm trong registry (không có trang chuyển hướng lạ);
   số liên kết nội bộ <a href> trỏ vào URL CŨ (đã thành trang chuyển hướng) không được vượt ngưỡng ratchet
@@ -90,59 +93,40 @@ def anchor_paths(text, site_host):
     return out
 
 
-SOURCE_SKIP_DIRS = {'_site', '.git', '.jekyll-cache', '.sass-cache', 'node_modules', 'vendor', 'docs', 'reports', 'scripts', 'data',
-                    '_drafts', 'redirects', 'tests', 'bin', 'build_info', 'cache'}
-SOURCE_EXT = ('.md', '.html', '.yml', '.yaml', '.json')
-
-
 def source_stub_links(root=None):
-    """Đếm liên kết trỏ vào URL cũ (đã thành trang chuyển hướng) NGAY TỪ NGUỒN (bài, include, layout, trang, _data), không cần build.
+    """Đếm liên kết trỏ vào URL cũ CÒN trang chuyển hướng (MIGRATED) NGAY TỪ NGUỒN (bài, include, layout, trang, _data), không cần build.
     Mỗi lần xuất hiện của URL cũ (có/không '/' cuối, đủ token) = một liên kết. Khớp đúng số do `check()` đo trên output build ở cả lô thí
-    điểm 10 bài (4) lẫn 50 bài (124); gate vẫn kiểm trên output build thật — số này chỉ để đặt ratchet nhanh cho mỗi lô."""
+    điểm 10 bài (4) lẫn 50 bài (124); gate vẫn kiểm trên output build thật — số này chỉ để đặt ratchet nhanh cho mỗi lô.
+    Liên kết tới URL cũ ĐÃ GỠ (RETIRED) đếm riêng ở `retired_links` và phải bằng 0."""
     root = root or SR.ROOT
-    old_urls = [r['old_url'] for r in SR.load_registry(root) if r.get('status') == SR.MIGRATED]
-    if not old_urls:
-        return {'stub_links': 0, 'stub_link_sources': 0, 'registry': 0}
-    forms = set()
-    for u in old_urls:
-        forms.add(u)
-        forms.add(u.rstrip('/'))
-    pat = re.compile('|'.join(re.escape(f) for f in sorted(forms, key=len, reverse=True)))
-    total, sources = 0, 0
-    for dp, dns, fns in os.walk(root):
-        rel = os.path.relpath(dp, root)
-        if rel == '.':
-            dns[:] = [d for d in dns if d not in SOURCE_SKIP_DIRS or d in ('_data',)]
-        for fn in fns:
-            if not fn.endswith(SOURCE_EXT):
-                continue
-            path = os.path.join(dp, fn)
-            try:
-                text = read(path)
-            except OSError:
-                continue
-            n = 0
-            for m in pat.finditer(text):
-                if m.group(0).endswith('/') or not re.match(r'[\w\-/]', text[m.end():m.end() + 1]):
-                    n += 1
-            if n:
-                total += n
-                sources += 1
-    return {'stub_links': total, 'stub_link_sources': sources, 'registry': len(old_urls)}
+    reg = SR.load_registry(root)
+    old_urls = [r['old_url'] for r in reg if r.get('status') == SR.MIGRATED]
+    retired = [r['old_url'] for r in reg if r.get('status') == SR.RETIRED]
+    hits = SR.source_link_hits(old_urls, root)
+    rhits = SR.source_link_hits(retired, root)
+    return {'stub_links': sum(hits.values()), 'stub_link_sources': len(hits), 'registry': len(old_urls),
+            'retired': len(retired), 'retired_links': sum(rhits.values()), 'retired_link_sources': sorted(rhits)}
 
 
 def check(site, root=None, max_stub_links=None):
     errors, notes = [], []
-    reg = [r for r in SR.load_registry(root) if r.get('status') == SR.MIGRATED]
+    every = [r for r in SR.load_registry(root) if r.get('status') in SR.STATUSES]
+    reg = [r for r in every if r.get('status') == SR.MIGRATED]
     site_host = urllib.parse.urlsplit(SR.SITE_URL).netloc
     smap = sitemap_paths(site)
     old_set = {r['old_url'] for r in reg}
-    new_set = {r['new_url'] for r in reg}
-    for r in reg:
+    retired_set = {r['old_url'] for r in every if r.get('status') == SR.RETIRED}
+    for r in every:
         aid, old, new = r['article_id'], r['old_url'], r['new_url']
         want_canon = SR.SITE_URL + new
         of = page_file(site, old)
-        if not os.path.isfile(of):
+        if r['status'] == SR.RETIRED:
+            # URL cũ đã gỡ: không còn trang nào (404 là kỳ vọng), không nằm trong sitemap
+            if os.path.exists(of):
+                errors.append('%s: URL cũ đã gỡ %s vẫn có trang trong output' % (aid, old))
+            if old in smap:
+                errors.append('%s: URL cũ đã gỡ %s vẫn nằm trong sitemap' % (aid, old))
+        elif not os.path.isfile(of):
             errors.append('%s: thiếu trang chuyển hướng %s' % (aid, of))
         else:
             t = read(of)
@@ -179,10 +163,11 @@ def check(site, root=None, max_stub_links=None):
                 errors.append('%s: trang mới không có <h1> (thiếu nội dung?)' % aid)
             if new not in smap:
                 errors.append('%s: URL mới %s không có trong sitemap' % (aid, new))
-        if new in old_set:
+        if new in old_set or new in retired_set:
             errors.append('%s: URL mới %s cũng là URL cũ của mục khác (chuỗi)' % (aid, new))
-    # toàn site: trang meta refresh lạ + liên kết vào trang chuyển hướng
+    # toàn site: trang meta refresh lạ + liên kết vào trang chuyển hướng + liên kết vào URL cũ đã gỡ (404)
     stub_links, per_source = 0, {}
+    retired_links = {}
     unregistered = []
     for dp, _, files in os.walk(site):
         for fn in files:
@@ -201,13 +186,20 @@ def check(site, root=None, max_stub_links=None):
                 continue
             for m in A_HREF_RE.finditer(text):
                 p = norm_path(m.group(1) if m.group(1) is not None else m.group(2), site_host)
-                if p and (p if p.endswith('/') else p + '/') in old_set:     # thiếu '/' cuối cũng là liên kết vào trang chuyển hướng
+                key = (p if p.endswith('/') else p + '/') if p else None
+                if key in old_set:     # thiếu '/' cuối cũng là liên kết vào trang chuyển hướng
                     stub_links += 1
                     per_source[rel] = per_source.get(rel, 0) + 1
+                elif key in retired_set:
+                    retired_links[rel] = retired_links.get(rel, 0) + 1
     for u in sorted(unregistered)[:30]:
         errors.append('trang meta refresh không có trong registry: %s' % u)
     if len(unregistered) > 30:
         errors.append('... còn %d trang meta refresh lạ' % (len(unregistered) - 30))
+    if retired_links:
+        top = sorted(retired_links.items(), key=lambda kv: -kv[1])[:8]
+        errors.append('liên kết nội bộ tới URL cũ ĐÃ GỠ (404): %d (ngưỡng cứng 0) — nguồn đầu: %s'
+                      % (sum(retired_links.values()), top))
     limit = max_stub_links
     if limit is None:
         rp = os.path.join(root or SR.ROOT, SR.RATCHET_REL)
@@ -223,8 +215,8 @@ def check(site, root=None, max_stub_links=None):
                       % (stub_links, limit, top))
     elif limit is not None and stub_links < limit:
         notes.append('ratchet có thể hạ từ %d xuống %d' % (limit, stub_links))
-    return {'registry': len(reg), 'stub_links': stub_links, 'stub_link_sources': len(per_source),
-            'ratchet': limit, 'errors': errors, 'notes': notes}
+    return {'registry': len(reg), 'retired': len(retired_set), 'stub_links': stub_links, 'stub_link_sources': len(per_source),
+            'retired_links': sum(retired_links.values()), 'ratchet': limit, 'errors': errors, 'notes': notes}
 
 
 def write_ratchet(root, value, allow_raise):
@@ -248,10 +240,14 @@ def write_ratchet(root, value, allow_raise):
 
 def main_from_source(a):
     res = source_stub_links(a.root)
-    print('registry=%d liên_kết_tới_trang_chuyển_hướng(nguồn)=%d (từ %d tệp)' % (res['registry'], res['stub_links'], res['stub_link_sources']))
+    print('registry=%d liên_kết_tới_trang_chuyển_hướng(nguồn)=%d (từ %d tệp) đã_gỡ=%d liên_kết_tới_URL_đã_gỡ=%d'
+          % (res['registry'], res['stub_links'], res['stub_link_sources'], res['retired'], res['retired_links']))
     if a.json:
         with open(a.json, 'w', encoding='utf-8') as f:
             json.dump(res, f, ensure_ascii=False, indent=1)
+    if res['retired_links']:
+        print('FAIL: liên kết tới URL cũ đã gỡ (404) trong:', ', '.join(res['retired_link_sources'][:20]))
+        return 1
     if a.write_ratchet:
         return write_ratchet(a.root, res['stub_links'], a.allow_raise)
     return 0
@@ -284,8 +280,9 @@ def main(argv=None):
         print('NOTE:', n)
     for e in res['errors'][:200]:
         print('FAIL:', e)
-    print('registry=%d liên_kết_tới_trang_chuyển_hướng=%d (từ %d trang) ngưỡng=%s lỗi=%d'
-          % (res['registry'], res['stub_links'], res['stub_link_sources'], res['ratchet'], len(res['errors'])))
+    print('registry=%d đã_gỡ=%d liên_kết_tới_trang_chuyển_hướng=%d (từ %d trang) ngưỡng=%s liên_kết_tới_URL_đã_gỡ=%d lỗi=%d'
+          % (res['registry'], res['retired'], res['stub_links'], res['stub_link_sources'], res['ratchet'],
+             res['retired_links'], len(res['errors'])))
     if a.json:
         with open(a.json, 'w', encoding='utf-8') as f:
             json.dump(res, f, ensure_ascii=False, indent=1)
