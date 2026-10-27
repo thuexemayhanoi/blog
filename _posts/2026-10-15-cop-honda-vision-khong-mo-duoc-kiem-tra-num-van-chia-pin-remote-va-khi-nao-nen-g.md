@@ -70,7 +70,7 @@ Nguyên tắc của tiệm rất đơn giản: không cạy, không dùng lực,
 
 Hãy gọi 0942467674, báo bạn đang ở đâu, xe bản chìa hay Smartkey, đã thử những bước nào. Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00. Ở gần như chợ Long Biên hay Gia Lâm thì có thể dắt xe qua tiệm; ở xa như Cầu Giấy, Tây Hồ, tiệm sẽ trao đổi cách xử lý, hỗ trợ tận nơi chỉ trong giờ mở cửa và thời gian, chi phí phải xác nhận trước.
 
-Trường hợp xảy ra lúc trả xe, đọc thêm bài [cốp xe ga không mở được lúc trả xe](/thue-xe/2026/10/03/cop-xe-ga-khong-mo-uoc-luc-tra-xe/) để biết cách chốt lại với tiệm cho minh bạch.
+Trường hợp xảy ra lúc trả xe, đọc thêm bài [cốp xe ga không mở được lúc trả xe](/thue-xe/2026/10/03/cop-xe-ga-khong-mo-duoc-luc-tra-xe/) để biết cách chốt lại với tiệm cho minh bạch.
 
 ## Vì sao tự cạy khóa là lựa chọn tệ nhất
 

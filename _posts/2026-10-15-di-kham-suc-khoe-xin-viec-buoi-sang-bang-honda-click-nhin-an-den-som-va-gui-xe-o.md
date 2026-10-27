@@ -59,7 +59,7 @@ Bãi xe ở các bệnh viện lớn buổi sáng thường kín chỗ, có khi 
 - **Không để giấy tờ khám trong cốp** khi bạn cần mang theo vào trong; lấy ra trước khi gửi.
 - **Không dựng xe ở vỉa hè trước cổng** hay ngay lối xe cấp cứu.
 
-Kinh nghiệm chọn bãi gần cổng và canh giờ đông có ở bài [gửi xe máy ở bệnh viện: chọn bãi gần cổng và canh giờ cao điểm](/ky-nang/2026/10/05/gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-iem/ "Gửi xe máy ở bệnh viện"), và bài [gửi xe ở bệnh viện lúc giờ khám cao điểm](/ky-nang/2026/10/10/gui-xe-o-benh-vien-luc-gio-kham-cao-iem/ "Gửi xe ở bệnh viện lúc giờ khám cao điểm").
+Kinh nghiệm chọn bãi gần cổng và canh giờ đông có ở bài [gửi xe máy ở bệnh viện: chọn bãi gần cổng và canh giờ cao điểm](/ky-nang/2026/10/05/gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-diem/ "Gửi xe máy ở bệnh viện"), và bài [gửi xe ở bệnh viện lúc giờ khám cao điểm](/ky-nang/2026/10/10/gui-xe-o-benh-vien-luc-gio-kham-cao-diem/ "Gửi xe ở bệnh viện lúc giờ khám cao điểm").
 
 ## Sau khi lấy máu: ăn trước, lái sau
 

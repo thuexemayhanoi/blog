@@ -17,7 +17,7 @@ writer_session: s-claude-w3
 
 Bạn định đi Phố Hiến mùa nhãn bằng xe máy, sáng chạy dọc đê sông Hồng, trưa ghé vườn nhãn lồng ở Hưng Yên, chiều chở vài thùng nhãn về biếu cả nhà? Chuyến đi này vui, nhưng có hai việc dễ làm hỏng cả ngày: chạy đường đê hẹp như chạy phố, và chở nhãn về theo kiểu treo túi hai bên tay lái. Bài này đi theo đúng thứ tự một ngày, gắn với chiếc Honda Air Blade bạn thuê ở Long Biên.
 
-Nếu bạn cần cách nhận xe theo ngày và khung giờ chung cho chuyến này, bài [thuê xe máy một ngày đi Phố Hiến Hưng Yên](/thue-xe/2026/09/30/thue-xe-may-mot-ngay-i-pho-hien-hung-yen/) đã có. Ở đây ta tập trung vào mùa nhãn, con đường đê và cái thùng nhãn trên xe.
+Nếu bạn cần cách nhận xe theo ngày và khung giờ chung cho chuyến này, bài [thuê xe máy một ngày đi Phố Hiến Hưng Yên](/thue-xe/2026/09/30/thue-xe-may-mot-ngay-di-pho-hien-hung-yen/) đã có. Ở đây ta tập trung vào mùa nhãn, con đường đê và cái thùng nhãn trên xe.
 
 ## Phố Hiến mùa nhãn bằng xe máy: chọn ngày đi
 
@@ -61,7 +61,7 @@ Cách xếp hợp lý trên Air Blade:
 
 - **Sàn để chân là chỗ chính.** Đặt thùng nhãn nằm phẳng sát yếm xe, chân kẹp nhẹ hai bên. Chỗ này thấp, gần trọng tâm, xe ít chao.
 - **Dùng thùng hoặc túi dày, buộc chắc.** Xin chủ vườn thùng giấy hoặc thùng xốp có nắp, buộc dây chữ thập, thêm một vòng vào móc treo để thùng không trượt khi phanh. Móc chỉ giữ cho thùng khỏi xô, không để móc gánh hết sức nặng.
-- **Cốp cho đồ nhỏ.** Một túi nhãn nhỏ, áo mưa, nước uống để trong cốp. Cốp nóng lên khi chạy lâu nên đừng nhồi nhãn vào đó suốt chặng về. Xem thêm bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-uoc-gi-va-o-nao-nen-e-cho-khac/).
+- **Cốp cho đồ nhỏ.** Một túi nhãn nhỏ, áo mưa, nước uống để trong cốp. Cốp nóng lên khi chạy lâu nên đừng nhồi nhãn vào đó suốt chặng về. Xem thêm bài [cốp Honda Air Blade thuê chứa được gì](/xe-may/2026/10/11/cop-honda-air-blade-thue-chua-duoc-gi-va-do-nao-nen-de-cho-khac/).
 - **Không chất cao sau lưng người ngồi sau.** Người ngồi sau ôm một túi nhẹ là đủ, hai chân để trên gác chân.
 
 Nếu nhóm mua nhiều, tốt hơn là hỏi vườn có gửi hàng về Hà Nội không, thay vì cố chất lên một chiếc xe.

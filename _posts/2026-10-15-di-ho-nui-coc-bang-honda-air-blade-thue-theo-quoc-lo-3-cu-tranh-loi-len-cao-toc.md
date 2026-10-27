@@ -21,7 +21,7 @@ Một nhóm bạn hay một cặp đôi ở Hà Nội muốn đi hồ Núi Cốc
 
 Quãng đường lên Thái Nguyên chủ yếu là đường bằng, mặt đường rộng, nhiều xe tải và xe khách. Một chiếc xe ga cỡ trung như Air Blade có máy đủ khỏe để vượt xe chậm gọn gàng, chỗ để chân rộng giúp người lái đổi tư thế khi mỏi, cốp đựng được áo mưa, nước uống và đồ cá nhân cho hai người. Đoạn đường quanh hồ có vài dốc nhẹ, xe ga lên đều tay mà không phải lo về số.
 
-Nếu bạn còn phân vân dòng xe này có hợp chặng xa không, bài [thuê Honda Air Blade đi chặng xa có hợp không](/xe-may/2026/10/07/thue-honda-air-blade-i-chang-xa-co-hop-khong/) phân tích kỹ hơn. Còn ở đây, mình tập trung vào chuyện đi đúng đường.
+Nếu bạn còn phân vân dòng xe này có hợp chặng xa không, bài [thuê Honda Air Blade đi chặng xa có hợp không](/xe-may/2026/10/07/thue-honda-air-blade-di-chang-xa-co-hop-khong/) phân tích kỹ hơn. Còn ở đây, mình tập trung vào chuyện đi đúng đường.
 
 ## Chuẩn bị xe và báo cửa hàng trước khi đi xa
 
@@ -50,7 +50,7 @@ Vài điều giúp giữ đúng tuyến:
 
 ## Nhận diện nhánh lên cao tốc Hà Nội – Thái Nguyên để tránh
 
-Cao tốc Hà Nội – Thái Nguyên cấm xe máy. Đây không phải lời khuyên mà là quy định; lý do và cách nhận biết biển báo được giải thích trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Cao tốc Hà Nội – Thái Nguyên cấm xe máy. Đây không phải lời khuyên mà là quy định; lý do và cách nhận biết biển báo được giải thích trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 Rủi ro lớn nhất không nằm ở đoạn đường thẳng mà ở các nút giao, nơi có nhánh rẽ dẫn lên cao tốc. Cách xử lý:
 

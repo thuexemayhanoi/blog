@@ -63,7 +63,7 @@ Phố có chợ nên nhịp đông vắng khá rõ:
 - **Ngày rằm, mùng một** người đi lễ đông hơn ngày thường, chỗ để xe cũng chật hơn.
 - **Hội cờ tướng** thường mở từ mùng 6 đến mùng 9 tháng Giêng âm lịch. Rất đáng xem, nhưng phố kín người, nên gửi xe xa hơn một chút rồi đi bộ vào.
 
-Giờ mở cửa của chùa có thể thay đổi theo từng dịp, tốt nhất đến vào ban ngày và hỏi tại cổng. Tháng Giêng ở Hà Nội còn rét, gió lùa giữa các dãy nhà khá buốt; cách mặc và chọn giờ đi đỡ lạnh có trong bài [Hà Nội mùa rét đi xe máy](/du-lich/2026/10/11/ha-noi-mua-ret-i-xe-may-iem-en-hop-troi-lanh-va-gio-i-o-buot/).
+Giờ mở cửa của chùa có thể thay đổi theo từng dịp, tốt nhất đến vào ban ngày và hỏi tại cổng. Tháng Giêng ở Hà Nội còn rét, gió lùa giữa các dãy nhà khá buốt; cách mặc và chọn giờ đi đỡ lạnh có trong bài [Hà Nội mùa rét đi xe máy](/du-lich/2026/10/11/ha-noi-mua-ret-di-xe-may-diem-den-hop-troi-lanh-va-gio-di-do-buot/).
 
 ## Vào chùa: giữ lễ và xem gì
 
@@ -75,7 +75,7 @@ Chùa gói gọn giữa khu dân cư, đi chậm một vòng chừng nửa tiế
 
 ## Ghép chùa Vua với vài điểm gần
 
-Đền Hai Bà Trưng ở khu Đồng Nhân cách đây không xa, đường đi và chỗ gửi xe có trong bài [đền Hai Bà Trưng bằng xe máy](/du-lich/2026/10/10/en-hai-ba-trung-o-quan-hai-ba-trung-bang-xe-may-uong-i-va-gui-xe/). Nếu bạn quen đi lễ chùa nội thành vào ngày rằm, bài [Phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một](/du-lich/2026/10/11/phu-tay-ho-va-chua-kim-lien-ngay-ram-mung-mot-i-xe-may-the-nao-cho-o-ong/) có thêm mẹo tránh giờ đông.
+Đền Hai Bà Trưng ở khu Đồng Nhân cách đây không xa, đường đi và chỗ gửi xe có trong bài [đền Hai Bà Trưng bằng xe máy](/du-lich/2026/10/10/den-hai-ba-trung-o-quan-hai-ba-trung-bang-xe-may-duong-di-va-gui-xe/). Nếu bạn quen đi lễ chùa nội thành vào ngày rằm, bài [Phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một](/du-lich/2026/10/11/phu-tay-ho-va-chua-kim-lien-ngay-ram-mung-mot-di-xe-may-the-nao-cho-do-dong/) có thêm mẹo tránh giờ đông.
 
 ## Thuê xe ở Long Biên để đi một vòng
 

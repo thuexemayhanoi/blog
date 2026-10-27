@@ -40,7 +40,7 @@ Từ Hồ Gươm lên Hàng Than chỉ khoảng hai cây số, nhưng phải đi
 1. **Đi xuyên phố cổ:** từ phía bắc Hồ Gươm, theo trục Hàng Đào, Hàng Ngang, Hàng Đường lên phía chợ Đồng Xuân, rồi đi tiếp về khu vườn hoa Hàng Đậu. Hàng Than bắt đầu ở chỗ Hàng Đậu nối sang Quán Thánh. Lối này ngắn, nhưng tối cuối tuần nhiều đoạn phố cổ thành phố đi bộ, xe máy không vào được.
 2. **Đi đường ven sông:** từ Hồ Gươm ra Trần Quang Khải, chạy thẳng lên phía bắc qua Trần Nhật Duật rồi Yên Phụ, sau đó rẽ trái vào dốc Hàng Than. Đường rộng, ít phải luồn ngõ, hợp với người chưa quen phố cổ.
 
-Phố cổ có nhiều phố một chiều. Nhìn biển ở đầu mỗi phố trước khi rẽ; bản đồ chỉ ngược chiều thì đi vòng, đừng cố đi lấn. Nếu chưa quen, đọc trước bài [dạo phố cổ Hà Nội và đỗ xe ngoài rìa](/du-lich/2026/10/11/dao-pho-co-ha-noi-nen-o-xe-ngoai-ria-roi-i-bo-36-pho-phuong/) để hình dung nhịp đường trong khu này.
+Phố cổ có nhiều phố một chiều. Nhìn biển ở đầu mỗi phố trước khi rẽ; bản đồ chỉ ngược chiều thì đi vòng, đừng cố đi lấn. Nếu chưa quen, đọc trước bài [dạo phố cổ Hà Nội và đỗ xe ngoài rìa](/du-lich/2026/10/11/dao-pho-co-ha-noi-nen-do-xe-ngoai-ria-roi-di-bo-36-pho-phuong/) để hình dung nhịp đường trong khu này.
 
 ## Từ cầu Long Biên và phía Long Biên sang
 
@@ -49,7 +49,7 @@ Khách thuê xe ở tiệm tôi bên Bồ Đề thường có hai lựa chọn:
 - **Qua cầu Long Biên:** cây cầu thép cũ cho xe máy, xe đạp đi, và một điểm hay làm người lạ bất ngờ là trên cầu xe chạy bên trái. Đi chậm, giữ làn, không dừng giữa cầu để chụp ảnh. Xuống cầu phía Hoàn Kiếm, bạn ra khu Trần Nhật Duật, Hàng Đậu, chỉ cách Hàng Than vài trăm mét.
 - **Qua cầu Chương Dương:** cầu rộng, đi bên phải như bình thường. Xuống cầu, rẽ lên phía bắc theo Trần Nhật Duật, Yên Phụ rồi vào dốc Hàng Than.
 
-Tùy dải phân cách trên Yên Phụ, có lúc không rẽ trái thẳng vào dốc được; khi ấy đi quá một đoạn và quay đầu ở chỗ cho phép. Muốn ngắm cầu lúc chiều tà sau khi đi lễ, bài [đi cầu Long Biên ngắm hoàng hôn bằng xe máy](/du-lich/2026/10/07/i-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-uoc-khong/) có lưu ý dừng xe an toàn trên cầu.
+Tùy dải phân cách trên Yên Phụ, có lúc không rẽ trái thẳng vào dốc được; khi ấy đi quá một đoạn và quay đầu ở chỗ cho phép. Muốn ngắm cầu lúc chiều tà sau khi đi lễ, bài [đi cầu Long Biên ngắm hoàng hôn bằng xe máy](/du-lich/2026/10/07/di-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-duoc-khong/) có lưu ý dừng xe an toàn trên cầu.
 
 ## Chùa Hòe Nhai gửi xe ở đâu
 
@@ -75,7 +75,7 @@ Khi vào chùa, mặc kín vai và gối, tháo mũ bảo hiểm trước khi v�
 
 ## Ghép chùa Hòe Nhai với vài điểm gần
 
-Từ Hàng Than theo phố Quán Thánh đi thẳng là ra phía Hồ Tây, tiện ghé đền Quán Thánh rồi sang [chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/09/tham-chua-tran-quoc-bang-xe-may-cho-gui-xe-o-au/) trong cùng buổi sáng. Đi ngược vào phố cổ thì có chợ Đồng Xuân; cách đỗ xe quanh chợ có trong bài [đi chợ Đồng Xuân bằng xe máy nên đỗ ở đâu](/du-lich/2026/10/05/i-cho-ong-xuan-bang-xe-may-nen-o-o-au/).
+Từ Hàng Than theo phố Quán Thánh đi thẳng là ra phía Hồ Tây, tiện ghé đền Quán Thánh rồi sang [chùa Trấn Quốc bằng xe máy](/du-lich/2026/10/09/tham-chua-tran-quoc-bang-xe-may-cho-gui-xe-o-dau/) trong cùng buổi sáng. Đi ngược vào phố cổ thì có chợ Đồng Xuân; cách đỗ xe quanh chợ có trong bài [đi chợ Đồng Xuân bằng xe máy nên đỗ ở đâu](/du-lich/2026/10/05/di-cho-dong-xuan-bang-xe-may-nen-do-o-dau/).
 
 ## Thuê xe ở Long Biên để đi lễ
 

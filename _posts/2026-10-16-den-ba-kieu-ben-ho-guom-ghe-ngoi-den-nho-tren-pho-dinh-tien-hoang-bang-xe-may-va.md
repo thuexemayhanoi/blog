@@ -27,7 +27,7 @@ Nhiều trang du lịch ghi địa chỉ đền ở số 59 Đinh Tiên Hoàng, 
 
 Phố Đinh Tiên Hoàng chạy dọc bờ đông hồ Gươm. Từ Long Biên, bạn có thể qua cầu Chương Dương hoặc cầu Long Biên vào phố cổ rồi đi tiếp về phía hồ; từ phía nam, đi theo trục Bà Triệu hay Hàng Bài lên. Vào khu bờ hồ, đi chậm vì người đi bộ sang đường liên tục, nhiều xe điện du lịch và xe đạp.
 
-Không dừng xe dưới lòng đường trước cổng đền để vào thắp hương “một lát”. Phố Đinh Tiên Hoàng là trục đông, một chiếc xe dừng sai chỗ đủ làm cả dòng xe phía sau phải lách. Kinh nghiệm chạy và dừng xe quanh khu đền Ngọc Sơn có ở bài [đến đền Ngọc Sơn bằng xe máy: gửi xe và đường đi](/du-lich/2026/10/04/en-en-ngoc-son-bang-xe-may-gui-xe-va-uong-i/ "Đến đền Ngọc Sơn bằng xe máy").
+Không dừng xe dưới lòng đường trước cổng đền để vào thắp hương “một lát”. Phố Đinh Tiên Hoàng là trục đông, một chiếc xe dừng sai chỗ đủ làm cả dòng xe phía sau phải lách. Kinh nghiệm chạy và dừng xe quanh khu đền Ngọc Sơn có ở bài [đến đền Ngọc Sơn bằng xe máy: gửi xe và đường đi](/du-lich/2026/10/04/den-den-ngoc-son-bang-xe-may-gui-xe-va-duong-di/ "Đến đền Ngọc Sơn bằng xe máy").
 
 ## Gửi xe quanh bờ hồ
 
@@ -49,7 +49,7 @@ Vì vậy, nếu muốn ghé đền vào tối cuối tuần:
 - Xem trước phương án phân luồng và các điểm trông giữ xe được công bố.
 - Chọn giờ ban ngày nếu đi cùng người lớn tuổi để đỡ phải đi bộ xa.
 
-Cách chọn chỗ gửi xe khi phố đi bộ mở có ở bài [phố đi bộ Hồ Gươm cuối tuần: xe máy gửi ở đâu](/du-lich/2026/10/09/pho-i-bo-ho-guom-cuoi-tuan-xe-may-gui-o-au/ "Phố đi bộ Hồ Gươm cuối tuần: gửi xe máy ở đâu"), và bài [người ở Hà Nội đi xe máy thuê ra phố đi bộ Hồ Gươm](/thue-xe/2026/10/14/pho-di-bo-ho-guom-cuoi-tuan-nguoi-o-ha-noi-di-xe-may-thue-nen-gui-xe-o-dau-va-di/ "Phố đi bộ Hồ Gươm cuối tuần: gửi xe máy thuê").
+Cách chọn chỗ gửi xe khi phố đi bộ mở có ở bài [phố đi bộ Hồ Gươm cuối tuần: xe máy gửi ở đâu](/du-lich/2026/10/09/pho-di-bo-ho-guom-cuoi-tuan-xe-may-gui-o-dau/ "Phố đi bộ Hồ Gươm cuối tuần: gửi xe máy ở đâu"), và bài [người ở Hà Nội đi xe máy thuê ra phố đi bộ Hồ Gươm](/thue-xe/2026/10/14/pho-di-bo-ho-guom-cuoi-tuan-nguoi-o-ha-noi-di-xe-may-thue-nen-gui-xe-o-dau-va-di/ "Phố đi bộ Hồ Gươm cuối tuần: gửi xe máy thuê").
 
 ## Vào đền: giờ mở cửa và lễ nghi
 
@@ -60,7 +60,7 @@ Theo một số trang du lịch, đền mở cửa buổi sáng và buổi chi�
 - Hỏi trước khi chụp ảnh bên trong, không chụp người khác đang khấn.
 - Đặt đồ lễ đúng chỗ được hướng dẫn, không để ở lối đi.
 
-Ngày rằm, mùng một, đền đông hơn ngày thường. Gợi ý chọn đi sáng hay chiều có ở bài [đi lễ chùa ngày rằm, mùng một ở Hà Nội bằng xe máy thuê](/thue-xe/2026/10/11/i-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-i-sang-hay-chieu/ "Đi lễ ngày rằm, mùng một bằng xe máy thuê").
+Ngày rằm, mùng một, đền đông hơn ngày thường. Gợi ý chọn đi sáng hay chiều có ở bài [đi lễ chùa ngày rằm, mùng một ở Hà Nội bằng xe máy thuê](/thue-xe/2026/10/11/di-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-di-sang-hay-chieu/ "Đi lễ ngày rằm, mùng một bằng xe máy thuê").
 
 ## Ghép đền Bà Kiệu vào lượt dạo Hồ Gươm
 

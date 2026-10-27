@@ -67,7 +67,7 @@ Tuyệt đối không dừng xe hay ngồi dưới lòng đường để theo d�
 
 ## Đồ lễ và trang phục
 
-Đặt đồ lễ ở sàn để chân hoặc trong cốp xe ga, không treo túi ở tay lái. Hoa để người ngồi sau cầm. Ăn mặc lịch sự, kín đáo; đi giày dép dễ tháo khi vào chính điện. Cách chở mâm lễ, hoa quả trên xe máy có ở bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-o-i-le-chua-au-nam-tren-xe-may/ "Chở đồ đi lễ chùa đầu năm trên xe máy").
+Đặt đồ lễ ở sàn để chân hoặc trong cốp xe ga, không treo túi ở tay lái. Hoa để người ngồi sau cầm. Ăn mặc lịch sự, kín đáo; đi giày dép dễ tháo khi vào chính điện. Cách chở mâm lễ, hoa quả trên xe máy có ở bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-do-di-le-chua-dau-nam-tren-xe-may/ "Chở đồ đi lễ chùa đầu năm trên xe máy").
 
 Trong chùa, nói nhỏ, xếp hàng khi thắp hương, không chen lấn. Giữ ví, điện thoại cẩn thận vì ngày đông người dễ thất lạc đồ.
 
@@ -77,7 +77,7 @@ Trong chùa, nói nhỏ, xếp hàng khi thắp hương, không chen lấn. Gi�
 - **Ngày rằm, mùng một:** đông cả sáng lẫn tối; buổi sáng sớm thường dễ chịu hơn.
 - **Giờ tan tầm chiều:** vừa đông người đi lễ vừa đông xe qua nút giao, nên tránh nếu có thể.
 
-Cách chọn đi sáng hay chiều vào ngày rằm, mùng một có ở bài [đi lễ chùa ngày rằm, mùng một ở Hà Nội bằng xe máy thuê](/thue-xe/2026/10/11/i-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-i-sang-hay-chieu/ "Đi lễ chùa ngày rằm, mùng một bằng xe máy thuê").
+Cách chọn đi sáng hay chiều vào ngày rằm, mùng một có ở bài [đi lễ chùa ngày rằm, mùng một ở Hà Nội bằng xe máy thuê](/thue-xe/2026/10/11/di-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-di-sang-hay-chieu/ "Đi lễ chùa ngày rằm, mùng một bằng xe máy thuê").
 
 ## Rời chùa và đi tiếp
 

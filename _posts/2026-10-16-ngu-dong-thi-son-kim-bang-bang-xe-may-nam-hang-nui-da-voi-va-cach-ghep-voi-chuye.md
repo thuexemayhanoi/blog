@@ -63,7 +63,7 @@ Mùa mưa từ khoảng tháng Năm đến tháng Tám, nền hang và bậc lê
 - **Chùa Tam Chúc:** quần thể chùa lớn ở phía tây nam Kim Bảng, cảnh hồ và núi rộng. Riêng Tam Chúc cần nửa ngày, nên chỉ ghép khi xuất phát sớm.
 - **Duy Tiên:** nằm phía đông quốc lộ 1, có chùa Long Đọi Sơn và làng trống Đọi Tam, tiện ghé khi về theo quốc lộ 1. Chi tiết ở bài [Duy Tiên Hà Nam bằng xe máy](/cung-duong/2026/10/13/duy-tien-ha-nam-bang-xe-may-chua-long-doi-son-lang-trong-doi-tam-lua-nha-xa/).
 
-Lịch gợi ý: rời Hà Nội lúc 7:00, tới đền Trúc khoảng 9:00, xem đền và năm hang tới 11:00. Ăn trưa ở Phủ Lý hoặc quán dọc đường, đầu chiều ghé chùa Bà Đanh, khoảng 15:00 lên đường về để vào nội thành trước cao điểm chiều. Ai mê hang động kiểu này có thể để dành một chuyến khác cho [chùa Hương ngoài mùa lễ](/cung-duong/2026/10/10/ha-noi-i-chua-huong-ngoai-mua-le-cung-uong-yen-tinh/), cùng dải núi đá vôi ven sông Đáy.
+Lịch gợi ý: rời Hà Nội lúc 7:00, tới đền Trúc khoảng 9:00, xem đền và năm hang tới 11:00. Ăn trưa ở Phủ Lý hoặc quán dọc đường, đầu chiều ghé chùa Bà Đanh, khoảng 15:00 lên đường về để vào nội thành trước cao điểm chiều. Ai mê hang động kiểu này có thể để dành một chuyến khác cho [chùa Hương ngoài mùa lễ](/cung-duong/2026/10/10/ha-noi-di-chua-huong-ngoai-mua-le-cung-duong-yen-tinh/), cùng dải núi đá vôi ven sông Đáy.
 
 ## Chuẩn bị xe và đồ mang theo
 

@@ -17,7 +17,7 @@ writer_session: s-claude-w3
 
 Hai vợ chồng muốn đi lễ một ngày, sáng rời Hà Nội, chiều về, và đang tính đi chùa Tam Chúc bằng Air Blade thuê thay vì đặt xe khách? Đó là lựa chọn hợp lý nếu người lái đã quen xe ga. Bài này đi vào những việc riêng của chuyến lễ bằng một chiếc Air Blade: nhận xe, giữ đúng quốc lộ 1 qua Phủ Lý, tránh lối lên cao tốc và gửi xe ở khu chùa.
 
-Tổng quan về hướng đi và cách xếp giờ có trong bài [Hà Nội đi chùa Tam Chúc bằng xe máy](/cung-duong/2026/10/04/ha-noi-i-chua-tam-chuc-bang-xe-may-cung-uong-va-thoi-gian/).
+Tổng quan về hướng đi và cách xếp giờ có trong bài [Hà Nội đi chùa Tam Chúc bằng xe máy](/cung-duong/2026/10/04/ha-noi-di-chua-tam-chuc-bang-xe-may-cung-duong-va-thoi-gian/).
 
 ## Vì sao đi chùa Tam Chúc bằng Air Blade hợp với hai người
 
@@ -42,7 +42,7 @@ Chụp ảnh xe bốn phía và đồng hồ lúc nhận để lúc trả xe min
 
 ## Theo quốc lộ 1 qua Phủ Lý: tuyệt đối không vào cao tốc
 
-Đây là phần quan trọng nhất của bài. **Cao tốc Pháp Vân – Cầu Giẽ – Ninh Bình cấm xe máy.** Air Blade dù chạy khỏe vẫn là xe máy, không được đi vào cao tốc dưới bất kỳ hình thức nào. Bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/) giải thích rõ quy định.
+Đây là phần quan trọng nhất của bài. **Cao tốc Pháp Vân – Cầu Giẽ – Ninh Bình cấm xe máy.** Air Blade dù chạy khỏe vẫn là xe máy, không được đi vào cao tốc dưới bất kỳ hình thức nào. Bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/) giải thích rõ quy định.
 
 Từ Long Biên, bạn qua cầu Vĩnh Tuy hoặc cầu Chương Dương, về phía Giải Phóng, Văn Điển rồi nhập quốc lộ 1 hướng nam qua Thường Tín, Phú Xuyên, Đồng Văn và vào Phủ Lý. Tới Phủ Lý, bạn theo chỉ dẫn bản đồ để vào khu chùa.
 

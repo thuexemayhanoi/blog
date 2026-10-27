@@ -43,7 +43,7 @@ Theo thông tin của một số trang du lịch, chùa mở cửa từ sáng t�
 - **Đi ngày rằm, mùng một:** đi sớm buổi sáng, hoặc chấp nhận đông nếu đi buổi tối.
 - **Dịp đầu năm:** chuẩn bị tinh thần đi bộ từ xa vì xe máy dồn kín cả phố.
 
-Cách chọn đi sáng hay chiều vào ngày rằm, mùng một có ở bài [đi lễ chùa ngày rằm, mùng một ở Hà Nội bằng xe máy thuê](/thue-xe/2026/10/11/i-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-i-sang-hay-chieu/ "Đi lễ chùa ngày rằm, mùng một bằng xe máy thuê").
+Cách chọn đi sáng hay chiều vào ngày rằm, mùng một có ở bài [đi lễ chùa ngày rằm, mùng một ở Hà Nội bằng xe máy thuê](/thue-xe/2026/10/11/di-le-chua-ngay-ram-mung-mot-o-ha-noi-bang-xe-may-thue-di-sang-hay-chieu/ "Đi lễ chùa ngày rằm, mùng một bằng xe máy thuê").
 
 ## Chùa Hà gửi xe ở đâu
 
@@ -65,7 +65,7 @@ Nhiều người mang đồ lễ như hoa, hương, hoa quả. Trên xe máy:
 - Hoa để người ngồi sau cầm, hoặc nhờ người bán bọc gọn.
 - Ăn mặc lịch sự, kín đáo; đi giày dép dễ tháo nếu muốn vào bên trong chính điện.
 
-Kinh nghiệm chở đồ lễ trên xe máy có ở bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-o-i-le-chua-au-nam-tren-xe-may/ "Chở đồ đi lễ chùa đầu năm trên xe máy").
+Kinh nghiệm chở đồ lễ trên xe máy có ở bài [chở đồ đi lễ chùa đầu năm trên xe máy](/ky-nang/2026/10/04/cho-do-di-le-chua-dau-nam-tren-xe-may/ "Chở đồ đi lễ chùa đầu năm trên xe máy").
 
 ## Trong chùa: giữ không khí trang nghiêm
 
@@ -73,7 +73,7 @@ Chùa Hà là nơi thờ tự, dù nổi tiếng với người trẻ. Nói nh�
 
 ## Kết hợp tham quan khu Cầu Giấy
 
-Từ chùa Hà, bạn có thể đi tiếp một vòng quanh Cầu Giấy: Bảo tàng Dân tộc học trên đường Nguyễn Văn Huyên, công viên Cầu Giấy, hay khu ăn uống quanh Xuân Thủy. Gợi ý lịch trình có ở bài [một ngày ở Cầu Giấy bằng xe máy: Bảo tàng Dân tộc học, Thiên nhiên và Báo chí](/du-lich/2026/10/13/mot-ngay-o-cau-giay-bang-xe-may-bao-tang-dan-toc-hoc-thien-nhien-va-bao-chi/ "Một ngày ở Cầu Giấy bằng xe máy"). Nếu muốn ghé thêm một nơi đi lễ quen thuộc khác, bài [Phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một](/du-lich/2026/10/11/phu-tay-ho-va-chua-kim-lien-ngay-ram-mung-mot-i-xe-may-the-nao-cho-o-ong/ "Phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một") gợi ý cách đi cho đỡ đông.
+Từ chùa Hà, bạn có thể đi tiếp một vòng quanh Cầu Giấy: Bảo tàng Dân tộc học trên đường Nguyễn Văn Huyên, công viên Cầu Giấy, hay khu ăn uống quanh Xuân Thủy. Gợi ý lịch trình có ở bài [một ngày ở Cầu Giấy bằng xe máy: Bảo tàng Dân tộc học, Thiên nhiên và Báo chí](/du-lich/2026/10/13/mot-ngay-o-cau-giay-bang-xe-may-bao-tang-dan-toc-hoc-thien-nhien-va-bao-chi/ "Một ngày ở Cầu Giấy bằng xe máy"). Nếu muốn ghé thêm một nơi đi lễ quen thuộc khác, bài [Phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một](/du-lich/2026/10/11/phu-tay-ho-va-chua-kim-lien-ngay-ram-mung-mot-di-xe-may-the-nao-cho-do-dong/ "Phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một") gợi ý cách đi cho đỡ đông.
 
 ## Thuê xe máy để đi lễ
 
