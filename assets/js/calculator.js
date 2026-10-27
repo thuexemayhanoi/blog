@@ -65,12 +65,56 @@
       if (days <= 0) { this._displayNoPrice(); return; }
       var vehicle = this._getVehicleData(vehicleId);
       if (!vehicle) { this._displayNoPrice(); return; }
+      // Tiền cọc là khoản riêng (hoàn trả theo hợp đồng): hiển thị tách, KHÔNG cộng vào giá thuê.
+      this._displayDeposit(vehicle);
       var hasValidPrices = this._hasValidPrices(vehicle);
       if (!hasValidPrices) { this._displayNoPrice(); return; }
       var minEstimate = this._calculateEstimate(vehicle, days, 'min');
       var maxEstimate = this._calculateEstimate(vehicle, days, 'max');
       this._displayResult(vehicle, days, minEstimate, maxEstimate);
+      this._displayNote(this._missingPeriodNote(vehicle, days));
       this._updateWhatsAppMessage(vehicle, days, minEstimate);
+    },
+    _depositRange: function(vehicle) {
+      var dep = vehicle && vehicle.deposit;
+      if (!dep || dep.min === null || dep.min === undefined) return null;
+      return { min: dep.min, max: (dep.max === null || dep.max === undefined) ? dep.min : dep.max };
+    },
+    _depositText: function(vehicle) {
+      var range = this._depositRange(vehicle);
+      if (!range) {
+        var pricing = window.NGUYEN_TU_PRICING || {};
+        return (vehicle && vehicle.deposit_note) || pricing.unknown_label || 'Liên hệ để xác nhận';
+      }
+      if (range.min === range.max) return this._formatPrice(range.min);
+      return this._formatPrice(range.min) + ' - ' + this._formatPrice(range.max);
+    },
+    _displayDeposit: function(vehicle) {
+      var depositEl = document.querySelector('#estimated-deposit');
+      if (depositEl) depositEl.textContent = this._depositText(vehicle);
+    },
+    // Kỳ thuê dài mà dòng xe chưa có giá tuần/tháng công bố (vd. xe 50cc: "Báo giá riêng"): ước tính chỉ dùng giá ngày,
+    // nên phải nói rõ thay vì để người đọc tưởng đó là giá tuần/tháng.
+    _missingPeriodNote: function(vehicle, days) {
+      if (!vehicle || !vehicle.rates) return '';
+      var pricing = window.NGUYEN_TU_PRICING || {};
+      var fallback = pricing.unknown_label || 'Liên hệ để xác nhận';
+      var parts = [];
+      var periods = [['week', 7, 'tuần'], ['month', 30, 'tháng']];
+      for (var i = 0; i < periods.length; i++) {
+        var rate = vehicle.rates[periods[i][0]];
+        if (days >= periods[i][1] && (!rate || rate.min === null || rate.min === undefined)) {
+          parts.push('giá theo ' + periods[i][2] + ': ' + ((rate && rate.quote) || fallback));
+        }
+      }
+      if (!parts.length) return '';
+      return 'Dòng xe này chưa có ' + parts.join('; ') + '. Ước tính trên chỉ tính theo giá ngày; hãy liên hệ để được báo giá cho kỳ thuê dài.';
+    },
+    _displayNote: function(text) {
+      var noteEl = document.querySelector('#price-note');
+      if (!noteEl) return;
+      noteEl.textContent = text || '';
+      noteEl.hidden = !text;
     },
     _getVehicleData: function(vehicleId) {
       var vehicles = window.NGUYEN_TU_PRICING && window.NGUYEN_TU_PRICING.vehicles;
@@ -153,10 +197,11 @@
       if (!resultEl) return;
       resultEl.textContent = 'Liên hệ Nguyễn Tú để kiểm tra giá hiện tại';
       if (breakdownEl) breakdownEl.style.display = 'none';
+      this._displayNote('');
     },
     _formatPrice: function(price) {
       if (price === null || price === undefined) return 'Chưa có giá';
-      return price.toLocaleString('vi-VN') + 'd';
+      return price.toLocaleString('vi-VN') + 'đ';
     },
     _updateWhatsAppMessage: function(vehicle, days, price) {
       var vehicleName = vehicle ? (vehicle.name || (vehicle.id || 'xe')) : 'xe';

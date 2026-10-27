@@ -1,6 +1,12 @@
 # Pricing Data for Nguyen Tu Rental
 # All values in VND (numeric for calculations)
-# Categories: manual (xe so), automatic (xe ga), electric (xe dien)
+# Categories: manual (xe so), automatic (xe ga), 50cc, electric (xe dien)
+#
+# Nguồn chuẩn DUY NHẤT cho giá thuê và tiền đặt cọc (bảng giá chủ xe duyệt 27/10/2026);
+# data/business-facts.json phải khớp file này (scripts/tests/test-pricing-data.cjs).
+# - Giá chưa công bố để null: trang hiển thị nhãn `quote` nếu có, mặc định "Liên hệ để xác nhận".
+# - Tiền đặt cọc là khoản RIÊNG, hoàn trả theo hợp đồng: không bao giờ cộng vào giá thuê
+#   (bảng giá và máy tính giá hiển thị tách riêng).
 
 vehicles:
   - id: honda-wave
@@ -18,12 +24,12 @@ vehicles:
         min: 900000
         max: 1200000
     deposit:
-      min: null
-      max: null
-    deposit_note: "Tiền đặt cọc cần được xác nhận trực tiếp."
+      min: 2000000
+      max: 3000000
+    deposit_note: "Mức cọc cụ thể được xác nhận trước khi ký hợp đồng."
     popular: true
     order: 1
-  
+
   - id: honda-vision
     name: "Honda Vision"
     category: "Xe ga"
@@ -39,12 +45,12 @@ vehicles:
         min: 1800000
         max: 2000000
     deposit:
-      min: null
-      max: null
-    deposit_note: "Tiền đặt cọc cần được xác nhận trực tiếp."
+      min: 4000000
+      max: 5000000
+    deposit_note: "Mức cọc cụ thể được xác nhận trước khi ký hợp đồng."
     popular: true
     order: 2
-  
+
   - id: honda-airblade
     name: "Honda Air Blade"
     category: "Xe ga"
@@ -60,12 +66,12 @@ vehicles:
         min: 1500000
         max: 1500000
     deposit:
-      min: null
-      max: null
-    deposit_note: "Tiền đặt cọc cần được xác nhận trực tiếp."
+      min: 3000000
+      max: 3000000
+    deposit_note: "Mức cọc cụ thể được xác nhận trước khi ký hợp đồng."
     popular: true
     order: 3
-  
+
   - id: honda-click
     name: "Honda Click / Yamaha Mio"
     category: "Xe ga"
@@ -81,14 +87,37 @@ vehicles:
         min: 900000
         max: 1200000
     deposit:
-      min: null
-      max: null
-    deposit_note: "Tiền đặt cọc cần được xác nhận trực tiếp."
+      min: 2000000
+      max: 2000000
+    deposit_note: "Mức cọc cụ thể được xác nhận trước khi ký hợp đồng."
     popular: true
     order: 4
-  
+
+  - id: xe-tay-ga-50cc
+    name: "Xe tay ga 50cc"
+    category: "Xe 50cc"
+    description: "Xe ga 50cc nhẹ, phù hợp quãng đường ngắn trong nội thành"
+    rates:
+      day:
+        min: 200000
+        max: 200000
+      week:
+        min: null
+        max: null
+        quote: "Báo giá riêng"
+      month:
+        min: null
+        max: null
+        quote: "Báo giá riêng"
+    deposit:
+      min: 4000000
+      max: 4000000
+    deposit_note: "Mức cọc cụ thể được xác nhận trước khi ký hợp đồng."
+    popular: false
+    order: 5
+
   - id: electric-bike
-    name: "Xe điện"
+    name: "Xe máy điện"
     category: "Xe máy điện"
     description: "Xe thân thiện môi trường, không phát thải"
     rates:
@@ -104,11 +133,11 @@ vehicles:
     deposit:
       min: null
       max: null
-    deposit_note: "Tiền đặt cọc cần được xác nhận trực tiếp."
+    deposit_note: "Xác nhận theo mẫu xe"
     popular: true
-    order: 5
+    order: 6
     note: "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
-  
+
   - id: electric-scooter
     name: "Xe đạp điện"
     category: "Xe đạp điện"
@@ -126,10 +155,20 @@ vehicles:
     deposit:
       min: null
       max: null
-    deposit_note: "Tiền đặt cọc cần được xác nhận trực tiếp."
+    deposit_note: "Xác nhận theo mẫu xe"
     popular: false
-    order: 6
+    order: 7
     note: "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+
+# Nhãn khi giá/cọc chưa công bố (null): KHÔNG thay bằng số đoán.
+unknown_label: "Liên hệ để xác nhận"
+
+# Tiền đặt cọc chung (khoảng của các mức cọc đã duyệt ở trên) và điều khoản hoàn cọc đã duyệt.
+deposit_policy:
+  min: 2000000
+  max: 5000000
+  refund: "Tiền cọc được hoàn trả theo điều khoản hợp đồng sau khi khách bàn giao xe và hoàn thành các nghĩa vụ liên quan."
+  separate: "Tiền đặt cọc là khoản riêng, không tính vào giá thuê."
 
 # Rental type multipliers (for display purposes)
 rental_types:
@@ -137,12 +176,12 @@ rental_types:
     name: "Theo ngày"
     days: 1
     order: 1
-  
+
   - id: week
     name: "Theo tuần"
     days: 7
     order: 2
-  
+
   - id: month
     name: "Theo tháng"
     days: 30

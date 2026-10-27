@@ -69,6 +69,9 @@ jobs:
           set -eu
           node --check scripts/tests/test-pricing-table.cjs
           node scripts/tests/test-pricing-table.cjs
+          # Số liệu giá/cọc chủ xe duyệt + business-facts đồng bộ + máy tính giá (cọc tách riêng, không cộng vào giá thuê).
+          node --check scripts/tests/test-pricing-data.cjs
+          node scripts/tests/test-pricing-data.cjs
 
       - name: Determine gate mode (scripts/factory/gate-scope.py)
         id: mode

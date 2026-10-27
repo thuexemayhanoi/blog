@@ -51,6 +51,8 @@ Chi tiết từng dòng xe ga được cập nhật tại trang [giá thuê xe t
 
 Xe 50cc nhẹ nhàng, dung tích xi-lanh nhỏ, dễ điều khiển, thường được du khách nước ngoài lựa chọn cho các chuyến đi ngắn trong nội thành. Giá thuê theo ngày tham khảo của xe tay ga 50cc là 200.000đ; giá theo tuần và theo tháng được báo riêng, vui lòng liên hệ Nguyễn Tú để biết giá hiện tại, vì mức giá phụ thuộc vào mẫu xe sẵn có.
 
+{% include pricing-rate-table.html category="Xe 50cc" title="Bảng giá Xe 50cc" %}
+
 Chi tiết tại trang [thuê xe 50cc Hà Nội]({{ '/bang-gia-xe-50cc/' | relative_url }}).
 
 ### Xe máy điện và xe đạp điện
@@ -71,6 +73,11 @@ Chi tiết tại trang [thuê xe máy điện Hà Nội]({{ '/bang-gia-xe-dien/'
 ## Tiền đặt cọc
 
 Mọi hợp đồng thuê xe đều có tiền đặt cọc. Mức tham khảo từ 2.000.000đ đến 5.000.000đ tùy loại xe. Tiền cọc được hoàn trả theo điều khoản hợp đồng sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan.
+
+Tiền đặt cọc tham khảo theo dòng xe (khoản riêng, không tính vào giá thuê):
+
+{% for vehicle in pricing.vehicles %}- **{{ vehicle.name }}:** {% if vehicle.deposit.min != nil %}{% include vnd-range.html min=vehicle.deposit.min max=vehicle.deposit.max %}{% else %}{{ vehicle.deposit_note | default: pricing.unknown_label }}{% endif %}
+{% endfor %}
 
 Lưu ý về tiền đặt cọc:
 
