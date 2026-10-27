@@ -25,7 +25,7 @@ Không phải lần mất liên lạc nào cũng là lừa đảo. Người cho 
 - Xem lại biên lai trong app ngân hàng: giao dịch đã thành công chưa, tên người nhận có khớp với tên bên kia đã báo không.
 - Nếu trang có ghi địa chỉ cửa hàng, nhờ người quen ở gần đi ngang xem có tiệm thật ở đó không, hoặc tự tra trên Google Maps.
 
-Nếu chỉ là trục trặc tiền chưa về, bài [chuyển cọc xong mà chủ xe báo chưa nhận được tiền](/thue-xe/2026/10/11/chuyen-coc-xong-ma-chu-xe-bao-chua-nhan-uoc-tien-cac-buoc-kiem-tra/) có các bước đối chiếu. Còn khi bạn bị chặn liên lạc, trang bị xóa, địa chỉ không có tiệm nào, hoặc bên kia đòi thêm tiền mới giao xe, hãy coi đây là tình huống bị lừa và làm ngay các bước dưới.
+Nếu chỉ là trục trặc tiền chưa về, bài [chuyển cọc xong mà chủ xe báo chưa nhận được tiền](/thue-xe/2026/10/11/chuyen-coc-xong-ma-chu-xe-bao-chua-nhan-duoc-tien-cac-buoc-kiem-tra/) có các bước đối chiếu. Còn khi bạn bị chặn liên lạc, trang bị xóa, địa chỉ không có tiệm nào, hoặc bên kia đòi thêm tiền mới giao xe, hãy coi đây là tình huống bị lừa và làm ngay các bước dưới.
 
 ## Việc đầu tiên: gọi tổng đài ngân hàng của chính bạn
 
@@ -51,7 +51,7 @@ Kẻ gian thường xóa trang, thu hồi tin nhắn, đổi tên tài khoản r
 - **Đường link trang cho thuê**, link tài khoản người nhắn, số điện thoại đã gọi. Chụp màn hình trang khi còn truy cập được.
 - **Ảnh xe, bảng giá, mã đơn** họ đã gửi, vì đây là phần thể hiện họ đưa ra lời mời thuê xe.
 
-Sao lưu tất cả vào một thư mục riêng và gửi thêm một bản sang email hoặc máy của người thân, phòng khi điện thoại hỏng hay bị mất. Cách giữ bằng chứng khi chuyển cọc nói chung được nói kỹ trong bài [đặt cọc thuê xe bằng chuyển khoản: giữ lại bằng chứng nào](/thue-xe/2026/10/01/at-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/).
+Sao lưu tất cả vào một thư mục riêng và gửi thêm một bản sang email hoặc máy của người thân, phòng khi điện thoại hỏng hay bị mất. Cách giữ bằng chứng khi chuyển cọc nói chung được nói kỹ trong bài [đặt cọc thuê xe bằng chuyển khoản: giữ lại bằng chứng nào](/thue-xe/2026/10/01/dat-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/).
 
 ## Trình báo công an nơi gần nhất
 
@@ -64,7 +64,7 @@ Sau khi đã báo ngân hàng và có đủ bằng chứng, hãy đến cơ quan
 3. Mang theo giấy tờ tùy thân của bạn.
 4. Nói rõ bạn đã báo ngân hàng, kèm mã yêu cầu nếu có.
 
-Nếu đang gặp tình huống khẩn cấp, chẳng hạn bên kia hẹn gặp để "trả xe" rồi đe dọa hay cố đòi thêm tiền trực tiếp, hãy đến chỗ đông người và gọi 113. Cách gọi số khẩn cấp và mô tả vị trí có trong bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-uong-113-114-hay-115/).
+Nếu đang gặp tình huống khẩn cấp, chẳng hạn bên kia hẹn gặp để "trả xe" rồi đe dọa hay cố đòi thêm tiền trực tiếp, hãy đến chỗ đông người và gọi 113. Cách gọi số khẩn cấp và mô tả vị trí có trong bài [gọi số khẩn cấp nào khi gặp sự cố trên đường](/thue-xe/2026/10/11/goi-so-khan-cap-nao-khi-gap-su-co-tren-duong-113-114-hay-115/).
 
 ## Những điều không nên làm lúc này
 

@@ -47,7 +47,7 @@ Cách tránh đơn giản nhất là chấp nhận đi vòng. Khi bản đồ b�
 
 Ở nhiều ngã tư, bạn sẽ thấy vài xe nhích qua vạch dừng khi đèn đỏ còn vài giây, hoặc rẽ phải dù đèn chưa cho phép. Luật quy định người tham gia giao thông chấp hành báo hiệu theo thứ tự: hiệu lệnh của người điều khiển giao thông trước, rồi đến tín hiệu đèn, rồi mới đến biển báo. Khi không có người điều khiển, đèn đỏ nghĩa là dừng trước vạch, kể cả khi người bên cạnh đã đi.
 
-Đi sớm vài giây đúng lúc dòng xe hướng kia còn cố qua nốt, và hai dòng gặp nhau giữa giao lộ là tình huống người mới khó xử lý nhất. Hãy đợi đèn xanh rồi nhìn sang hai bên một lần nữa trước khi nhả phanh. Bài [qua ngã tư đông xe ở Hà Nội bằng xe máy](/thue-xe/2026/10/11/qua-nga-tu-ong-xe-o-ha-noi-bang-xe-may-cach-hoa-vao-dong-xe-lan-au/) có thêm cách chọn làn và giảm tốc từ xa.
+Đi sớm vài giây đúng lúc dòng xe hướng kia còn cố qua nốt, và hai dòng gặp nhau giữa giao lộ là tình huống người mới khó xử lý nhất. Hãy đợi đèn xanh rồi nhìn sang hai bên một lần nữa trước khi nhả phanh. Bài [qua ngã tư đông xe ở Hà Nội bằng xe máy](/thue-xe/2026/10/11/qua-nga-tu-dong-xe-o-ha-noi-bang-xe-may-cach-hoa-vao-dong-xe-lan-dau/) có thêm cách chọn làn và giảm tốc từ xa.
 
 ## Chở ba người trên xe máy: luật nói gì
 
@@ -60,7 +60,7 @@ Cảnh một người lái chở thêm hai người lớn khá dễ gặp ở v�
 
 Một nhóm ba người lớn đi du lịch không thuộc các ngoại lệ đó, nên cần thuê hai xe hoặc để người thứ ba đi taxi. Xe chở quá tải cũng khó phanh, khó giữ thăng bằng, và người ngồi cuối gần như không có chỗ bám. Người lái và người ngồi sau đều phải đội mũ bảo hiểm cài quai đúng cách.
 
-Nếu đi theo nhóm, bài [nhóm bạn nước ngoài thuê nhiều xe máy cùng lúc](/thue-xe/2026/10/14/nhom-ban-nuoc-ngoai-thue-nhieu-xe-may-cung-luc-o-ha-noi-chia-nguoi-lai-va-sap-li/) gợi ý cách chia người lái và giữ liên lạc. Còn khi chở một người bạn đi cùng, hãy hướng dẫn họ ngồi vững theo bài [ngồi sau xe máy ở Hà Nội](/thue-xe/2026/10/11/ngoi-sau-xe-may-o-ha-noi-cach-ngoi-at-chan-va-giu-thang-bang-cho-ban-i-cung/).
+Nếu đi theo nhóm, bài [nhóm bạn nước ngoài thuê nhiều xe máy cùng lúc](/thue-xe/2026/10/14/nhom-ban-nuoc-ngoai-thue-nhieu-xe-may-cung-luc-o-ha-noi-chia-nguoi-lai-va-sap-li/) gợi ý cách chia người lái và giữ liên lạc. Còn khi chở một người bạn đi cùng, hãy hướng dẫn họ ngồi vững theo bài [ngồi sau xe máy ở Hà Nội](/thue-xe/2026/10/11/ngoi-sau-xe-may-o-ha-noi-cach-ngoi-dat-chan-va-giu-thang-bang-cho-ban-di-cung/).
 
 ## Hòa vào dòng xe mà vẫn đúng luật
 

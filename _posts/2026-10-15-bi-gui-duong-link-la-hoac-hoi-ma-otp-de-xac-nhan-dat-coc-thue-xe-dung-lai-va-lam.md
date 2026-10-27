@@ -58,7 +58,7 @@ Một cuộc đặt cọc bình thường diễn ra khá đơn giản, và bạn
 
 - **Hỏi điều kiện cọc trực tiếp với tiệm.** Mức cọc, hình thức cọc, thời điểm cọc nên được xác nhận rõ ràng bằng cuộc gọi hoặc khi gặp mặt. Với cửa hàng chúng tôi, bạn gọi 0942467674 để hỏi.
 - **Nếu chuyển khoản, tự mở ứng dụng ngân hàng của mình,** tự nhập số tài khoản hoặc tự quét mã, rồi soát tên người nhận trước khi bấm xác nhận. Mã OTP lúc đó chỉ để bạn tự nhập vào ứng dụng của chính bạn.
-- **Lưu biên lai và tin nhắn chốt cọc.** Những thứ nên giữ có trong bài [đặt cọc thuê xe bằng chuyển khoản: giữ lại bằng chứng nào](/thue-xe/2026/10/01/at-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/).
+- **Lưu biên lai và tin nhắn chốt cọc.** Những thứ nên giữ có trong bài [đặt cọc thuê xe bằng chuyển khoản: giữ lại bằng chứng nào](/thue-xe/2026/10/01/dat-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/).
 - **Còn băn khoăn thì đến tận nơi.** Tiệm ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00; bạn có thể hỏi làm thủ tục cọc trực tiếp khi nhận xe.
 
 Ví dụ: một nhóm sinh viên ở Cầu Giấy hẹn thuê xe đi chơi Tây Hồ cuối tuần. Tối thứ sáu, một bạn trong nhóm nhận link "xác nhận đơn cho cả nhóm", bấm vào thì trang đòi đăng nhập ngân hàng. Bạn ấy đóng trang, gọi lại số tiệm đã lưu và được biết tiệm không gửi link nào. Cả nhóm chỉ mất vài phút, nhưng giữ được tài khoản.

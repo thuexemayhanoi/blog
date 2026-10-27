@@ -51,7 +51,7 @@ Nếu chủ nhà ngại ký giấy, một tin nhắn qua Zalo hoặc tin nhắn 
 
 Một câu nên có trong tin nhắn về xe: "Khoản cọc xe được đối chiếu và hoàn riêng, không phụ thuộc việc trả phòng." Câu này tránh tình huống xe đã trả tốt nhưng cọc xe bị giữ chờ quyết toán phòng.
 
-Các điều kiện nhận lại cọc thường gặp khi thuê xe nói chung có thể tham khảo thêm ở bài [cọc thuê xe máy khi nào được nhận lại](/thue-xe/2026/10/07/coc-thue-xe-may-khi-nao-uoc-nhan-lai/).
+Các điều kiện nhận lại cọc thường gặp khi thuê xe nói chung có thể tham khảo thêm ở bài [cọc thuê xe máy khi nào được nhận lại](/thue-xe/2026/10/07/coc-thue-xe-may-khi-nao-duoc-nhan-lai/).
 
 ## Ví dụ ở một khu trọ quanh trường đại học
 
@@ -70,7 +70,7 @@ Nếu được, hãy tách hai việc ra hai thời điểm:
 
 Nếu chủ nhà đề nghị trừ một khoản của phòng vào cọc xe hay ngược lại, bạn có thể đồng ý nếu thấy hợp lý, nhưng hãy ghi lại bằng tin nhắn: trừ bao nhiêu, vì sao, còn lại bao nhiêu cho mỗi khoản. Việc ghi lại không phải để nghi ngờ nhau, mà để sau này không ai phải nhớ.
 
-Trường hợp chủ nhà đi vắng đúng hôm bạn chuyển đi, xem thêm các cách xử lý trong bài [trả xe máy thuê khi chủ vắng nhà](/thue-xe/2026/10/07/tra-xe-may-thue-khi-chu-vang-nha-co-uoc-khong/).
+Trường hợp chủ nhà đi vắng đúng hôm bạn chuyển đi, xem thêm các cách xử lý trong bài [trả xe máy thuê khi chủ vắng nhà](/thue-xe/2026/10/07/tra-xe-may-thue-khi-chu-vang-nha-co-duoc-khong/).
 
 ## Thuê xe ở chủ trọ hay ở cửa hàng: cân nhắc gì
 

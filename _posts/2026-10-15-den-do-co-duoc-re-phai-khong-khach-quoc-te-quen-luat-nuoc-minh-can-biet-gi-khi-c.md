@@ -29,7 +29,7 @@ Luật cũng xếp thứ tự ưu tiên khi các báo hiệu khác nhau cùng xu
 2. Không có người điều khiển thì nhìn đèn. Đèn đỏ là dừng trước vạch.
 3. Chỉ khi có biển hoặc đèn riêng cho hướng rẽ phải thì hướng đó mới được đi trong lúc đèn chính đang đỏ.
 
-Nếu muốn ôn lại ý nghĩa từng màu đèn, bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/en-tin-hieu-va-coi-xe-may-theo-quy-inh/) có giải thích chi tiết.
+Nếu muốn ôn lại ý nghĩa từng màu đèn, bài [đèn tín hiệu và còi xe máy theo quy định](/an-toan-phap-ly/2026/09/28/den-tin-hieu-va-coi-xe-may-theo-quy-dinh/) có giải thích chi tiết.
 
 ## Biển cho phép rẽ phải khi đèn đỏ trông như thế nào
 
@@ -77,7 +77,7 @@ Các trục như Nguyễn Văn Cừ ở Long Biên, Kim Mã ở Ba Đình hay Xu
 - Không thấy gì, hoặc không chắc: dừng trước vạch và chờ đèn xanh.
 - Có cảnh sát đang điều khiển: làm theo hiệu lệnh.
 
-Chờ thêm một chu kỳ đèn chỉ mất chút thời gian. Rẽ nhầm có thể khiến bạn va với xe đi thẳng, hoặc bị dừng xe kiểm tra trong lúc chưa quen thủ tục. Nếu muốn làm quen trước với cách các nút giao đông vận hành, đọc bài [qua ngã tư đông xe ở Hà Nội lần đầu](/thue-xe/2026/10/11/qua-nga-tu-ong-xe-o-ha-noi-bang-xe-may-cach-hoa-vao-dong-xe-lan-au/).
+Chờ thêm một chu kỳ đèn chỉ mất chút thời gian. Rẽ nhầm có thể khiến bạn va với xe đi thẳng, hoặc bị dừng xe kiểm tra trong lúc chưa quen thủ tục. Nếu muốn làm quen trước với cách các nút giao đông vận hành, đọc bài [qua ngã tư đông xe ở Hà Nội lần đầu](/thue-xe/2026/10/11/qua-nga-tu-dong-xe-o-ha-noi-bang-xe-may-cach-hoa-vao-dong-xe-lan-dau/).
 
 ## Kết: mặc định dừng, chỉ rẽ khi có báo hiệu
 

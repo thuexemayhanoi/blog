@@ -28,7 +28,7 @@ Chạy cùng một chiếc xe suốt tháng cũng giúp bạn quen tay: biết p
 Không có chiếc xe nào hoàn hảo cho mọi tin, nhưng có vài tiêu chí nên ưu tiên:
 
 - **Cốp đủ rộng hoặc sàn để chân phẳng.** Xe tay ga như Vision hay Air Blade cho phép để balo thiết bị ở sàn hoặc gửi bớt đồ phụ vào cốp, đỡ phải đeo nặng suốt chặng.
-- **Phanh tốt và dễ kiểm soát.** Người làm tin hay phải dừng bất ngờ khi thấy chỗ đỗ phù hợp. Hãy thử phanh kỹ khi nhận xe, nếu thấy bóp sâu hay kêu lạ thì báo ngay; bài [phanh xe máy đĩa và bố, kiểm tra thế nào](/xe-may/2026/09/27/phanh-xe-may-ia-va-bo-kiem-tra-the-nao/) chỉ cách nhận biết.
+- **Phanh tốt và dễ kiểm soát.** Người làm tin hay phải dừng bất ngờ khi thấy chỗ đỗ phù hợp. Hãy thử phanh kỹ khi nhận xe, nếu thấy bóp sâu hay kêu lạ thì báo ngay; bài [phanh xe máy đĩa và bố, kiểm tra thế nào](/xe-may/2026/09/27/phanh-xe-may-dia-va-bo-kiem-tra-the-nao/) chỉ cách nhận biết.
 - **Xe gọn, nhẹ khi phải dắt.** Nhiều hiện trường nằm sâu trong ngõ phố cổ hoặc khu tập thể Kim Liên, bạn sẽ phải tắt máy dắt bộ một đoạn.
 
 Nếu bạn hay đi đường dài ra vùng ven như Đông Anh, Gia Lâm hay Sóc Sơn để làm phóng sự, hãy nói rõ với cửa hàng ngay từ đầu để được tư vấn dòng xe hợp với quãng đường thường xuyên.
@@ -39,7 +39,7 @@ Máy ảnh treo lủng lẳng trước ngực hay chân máy kẹp dưới nách
 
 - **Balo có ngăn chia và đệm mút.** Máy quay, ống kính, micro không dây, sạc dự phòng nằm trong các ngăn riêng để không va vào nhau qua ổ gà.
 - **Chân máy và gậy micro buộc dọc.** Buộc sát thân balo hoặc cố định vào giá sau, không để chĩa ngang ra ngoài làm vướng người đi bên cạnh. Cách buộc chắc chắn xem thêm ở bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
-- **Áo mưa và túi chống nước luôn có sẵn.** Mưa Hà Nội đến rất nhanh vào mùa hè. Một túi chống nước bọc ngoài balo cứu được cả bộ thiết bị; những thứ nên mang cho mùa mưa có trong bài [mùa mưa Hà Nội chuẩn bị gì khi đi xe máy thuê](/ky-nang/2026-09-29/mua-mua-ha-noi-chuan-bi-gi-khi-i-xe-may-thue/).
+- **Áo mưa và túi chống nước luôn có sẵn.** Mưa Hà Nội đến rất nhanh vào mùa hè. Một túi chống nước bọc ngoài balo cứu được cả bộ thiết bị; những thứ nên mang cho mùa mưa có trong bài [mùa mưa Hà Nội chuẩn bị gì khi đi xe máy thuê](/ky-nang/2026-09-29/mua-mua-ha-noi-chuan-bi-gi-khi-di-xe-may-thue/).
 - **Điện thoại gắn giá đỡ chỉ để xem bản đồ.** Không gọi điện, không nhắn tin, không quay khi xe đang chạy.
 
 Balo nên đeo cả hai quai, siết dây ngang ngực để không xô lệch khi phanh.

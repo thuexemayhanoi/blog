@@ -68,7 +68,7 @@ Nếu bạn đã chuyển và sau đó không liên lạc được, hãy làm ng
 - Lưu lại tin nhắn, ảnh chụp trang, biên lai chuyển khoản và tên người nhận.
 - Trình báo tại cơ quan công an nơi gần nhất; gọi 113 khi có tình huống khẩn cấp.
 
-Không ai hứa chắc được việc lấy lại tiền, vì vậy dừng lại vài phút trước khi chuyển vẫn là cách bảo vệ tốt nhất. Trước khi quét mã chuyển khoản, hãy soát tên người nhận theo bài [quét mã QR để chuyển cọc thuê xe](/thue-xe/2026/10/11/quet-ma-qr-e-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/). Còn nếu bạn đang hỏi nhiều nơi cùng lúc vì sợ hết xe, đọc thêm bài [giữ chỗ xe máy thuê ở nhiều tiệm cùng lúc mùa đông khách](/thue-xe/2026/10/15/giu-cho-xe-may-thue-o-nhieu-tiem-cung-luc-mua-dong-khach-vi-sao-de-mat-coc-va-ne/).
+Không ai hứa chắc được việc lấy lại tiền, vì vậy dừng lại vài phút trước khi chuyển vẫn là cách bảo vệ tốt nhất. Trước khi quét mã chuyển khoản, hãy soát tên người nhận theo bài [quét mã QR để chuyển cọc thuê xe](/thue-xe/2026/10/11/quet-ma-qr-de-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/). Còn nếu bạn đang hỏi nhiều nơi cùng lúc vì sợ hết xe, đọc thêm bài [giữ chỗ xe máy thuê ở nhiều tiệm cùng lúc mùa đông khách](/thue-xe/2026/10/15/giu-cho-xe-may-thue-o-nhieu-tiem-cung-luc-mua-dong-khach-vi-sao-de-mat-coc-va-ne/).
 
 ## Tóm lại
 

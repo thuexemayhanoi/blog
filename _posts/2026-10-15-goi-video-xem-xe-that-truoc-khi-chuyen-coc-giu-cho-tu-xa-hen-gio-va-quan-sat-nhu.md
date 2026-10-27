@@ -56,7 +56,7 @@ Phần này quyết định cuộc gọi có phải là trực tiếp hay không
 
 ### Người sẽ nhận khoản cọc
 
-Hỏi thẳng trong cuộc gọi: cọc chuyển vào tài khoản mang tên ai, tên đó liên quan thế nào tới cửa hàng. Ghi lại câu trả lời rồi so với tên hiện lên khi bạn nhập số tài khoản, cách soát tên được nói kỹ ở bài [quét mã QR để chuyển cọc và soát tên người nhận](/thue-xe/2026/10/11/quet-ma-qr-e-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/).
+Hỏi thẳng trong cuộc gọi: cọc chuyển vào tài khoản mang tên ai, tên đó liên quan thế nào tới cửa hàng. Ghi lại câu trả lời rồi so với tên hiện lên khi bạn nhập số tài khoản, cách soát tên được nói kỹ ở bài [quét mã QR để chuyển cọc và soát tên người nhận](/thue-xe/2026/10/11/quet-ma-qr-de-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/).
 
 ## Dấu hiệu bất thường nên dừng lại
 
@@ -73,7 +73,7 @@ Có những phản ứng mà một cửa hàng làm ăn đàng hoàng hiếm khi
 
 Ngay khi kết thúc, ghi ra một tin nhắn tóm tắt gửi lại cho bên cho thuê: giờ gọi, biển số, số km trên ODO, loại xe, ngày nhận và tên người nhận cọc. Nếu chụp màn hình trong lúc gọi, nói trước để bên kia biết.
 
-Nếu mọi thứ khớp, bạn có cơ sở hơn để chuyển khoản giữ chỗ đúng mức đã thống nhất, ghi nội dung chuyển khoản rõ ràng như hướng dẫn trong bài [chuyển khoản giữ xe trước khi đến](/thue-xe/2026/10/14/chuyen-khoan-giu-xe-truoc-khi-den-ghi-noi-dung-the-nao-de-cua-hang-de-doi-chieu/). Nếu còn điểm nào lấn cấn, cứ chờ: nhiều người chọn xem xe tận mắt rồi mới đưa tiền, như bài [nên đưa tiền cọc lúc nào](/thue-xe/2026/10/11/nen-ua-tien-coc-luc-nao-truoc-hay-sau-khi-xem-xe-va-chot-ieu-kien/) đã phân tích. Mức cọc và cách nhận cọc ở tiệm Nguyễn Tú được xác nhận trực tiếp, hãy gọi số chính thức 0942467674 trong giờ mở cửa để hỏi rõ.
+Nếu mọi thứ khớp, bạn có cơ sở hơn để chuyển khoản giữ chỗ đúng mức đã thống nhất, ghi nội dung chuyển khoản rõ ràng như hướng dẫn trong bài [chuyển khoản giữ xe trước khi đến](/thue-xe/2026/10/14/chuyen-khoan-giu-xe-truoc-khi-den-ghi-noi-dung-the-nao-de-cua-hang-de-doi-chieu/). Nếu còn điểm nào lấn cấn, cứ chờ: nhiều người chọn xem xe tận mắt rồi mới đưa tiền, như bài [nên đưa tiền cọc lúc nào](/thue-xe/2026/10/11/nen-dua-tien-coc-luc-nao-truoc-hay-sau-khi-xem-xe-va-chot-dieu-kien/) đã phân tích. Mức cọc và cách nhận cọc ở tiệm Nguyễn Tú được xác nhận trực tiếp, hãy gọi số chính thức 0942467674 trong giờ mở cửa để hỏi rõ.
 
 Ngày đến Hà Nội, dù xuống ga Hà Nội hay sân bay Nội Bài, hãy so lại biển số và ODO trước khi ký nhận, rồi quay video tình trạng xe theo gợi ý ở bài [chụp video xe khi nhận và trả](/thue-xe/2026/10/07/chup-video-xe-khi-nhan-va-tra-co-hon-chup-anh-khong/).
 

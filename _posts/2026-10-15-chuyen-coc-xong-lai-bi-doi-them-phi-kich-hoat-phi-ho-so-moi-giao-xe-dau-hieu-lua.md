@@ -75,7 +75,7 @@ Cách chắc chắn nhất để không rơi vào kịch bản nhiều tầng l�
 
 - Gọi điện trực tiếp, không chỉ nhắn tin, và đề nghị được đến xem xe tại địa chỉ cửa hàng.
 - Hỏi rõ toàn bộ các khoản trước khi đặt, nhờ bên kia nhắn lại bằng văn bản.
-- Khi quét mã chuyển khoản, soát tên người nhận như hướng dẫn trong bài [quét mã QR để chuyển cọc thuê xe](/thue-xe/2026/10/11/quet-ma-qr-e-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/).
+- Khi quét mã chuyển khoản, soát tên người nhận như hướng dẫn trong bài [quét mã QR để chuyển cọc thuê xe](/thue-xe/2026/10/11/quet-ma-qr-de-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/).
 
 Với cửa hàng của chúng tôi, kênh chính thức là Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa từ 09:00 đến 21:00, số điện thoại 0942467674 và website thuexemaynguyentu.com. Điều kiện đặt cọc được xác nhận trực tiếp với cửa hàng. Nếu ai đó nhân danh chúng tôi đòi thêm phí kích hoạt hay phí hồ sơ, hãy gọi đúng số trên để kiểm tra trước khi làm bất cứ điều gì.
 

@@ -62,7 +62,7 @@ Nếu bạn định ở lại lâu hoặc quay lại Việt Nam, cách gọn nh�
 
 ## Khi hỏi cửa hàng thuê xe
 
-Trước khi đặt, hãy gửi ảnh bằng gốc và trang hạng xe trong sổ quốc tế cho cửa hàng xem. Cửa hàng có thể yêu cầu xuất trình bằng khi nhận xe; yêu cầu cụ thể thì xác nhận trực tiếp. Nếu giấy tờ chỉ có hạng ô tô, cửa hàng sẽ nói thẳng để bạn đổi kế hoạch sớm. Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00 hằng ngày. Với xe 50cc hoặc xe điện, hãy kiểm tra quy định hiện hành và hỏi tiệm, đừng mặc định là không cần giấy tờ. Đọc thêm góc hỏi đáp trong bài [khách quốc tế không có GPLX Việt Nam thuê xe được không](/hoi-dap/2026/10/09/khach-quoc-te-khong-co-gplx-viet-nam-thue-xe-uoc-khong/).
+Trước khi đặt, hãy gửi ảnh bằng gốc và trang hạng xe trong sổ quốc tế cho cửa hàng xem. Cửa hàng có thể yêu cầu xuất trình bằng khi nhận xe; yêu cầu cụ thể thì xác nhận trực tiếp. Nếu giấy tờ chỉ có hạng ô tô, cửa hàng sẽ nói thẳng để bạn đổi kế hoạch sớm. Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00 hằng ngày. Với xe 50cc hoặc xe điện, hãy kiểm tra quy định hiện hành và hỏi tiệm, đừng mặc định là không cần giấy tờ. Đọc thêm góc hỏi đáp trong bài [khách quốc tế không có GPLX Việt Nam thuê xe được không](/hoi-dap/2026/10/09/khach-quoc-te-khong-co-gplx-viet-nam-thue-xe-duoc-khong/).
 
 ## Ghi chú về nguồn quy định
 

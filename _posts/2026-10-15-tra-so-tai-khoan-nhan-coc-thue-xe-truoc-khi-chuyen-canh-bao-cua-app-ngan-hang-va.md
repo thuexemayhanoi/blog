@@ -54,7 +54,7 @@ Khi nhập số tài khoản, app ngân hàng sẽ hiện tên chủ tài khoả
 - **So tên hiện trên app với câu trả lời.** Khác một chữ cũng phải hỏi lại. Tên một người hoàn toàn không liên quan, hay tên một công ty lạ, là lý do để dừng.
 - **Cảnh giác khi số tài khoản bị đổi** sau khi đã thống nhất, nhất là khi lý do mơ hồ và kèm lời giục.
 
-Với mã QR, cách soát tên cũng tương tự, xem chi tiết ở bài [quét mã QR để chuyển cọc và soát tên người nhận](/thue-xe/2026/10/11/quet-ma-qr-e-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/). Khi người thân chuyển hộ, phần nội dung chuyển khoản cần ghi thế nào được hướng dẫn trong bài [bố mẹ hoặc bạn bè chuyển cọc hộ](/thue-xe/2026/10/11/bo-me-hoac-ban-be-chuyen-coc-ho-nguoi-thue-xe-khop-ten-va-noi-dung-chuyen-khoan/).
+Với mã QR, cách soát tên cũng tương tự, xem chi tiết ở bài [quét mã QR để chuyển cọc và soát tên người nhận](/thue-xe/2026/10/11/quet-ma-qr-de-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/). Khi người thân chuyển hộ, phần nội dung chuyển khoản cần ghi thế nào được hướng dẫn trong bài [bố mẹ hoặc bạn bè chuyển cọc hộ](/thue-xe/2026/10/11/bo-me-hoac-ban-be-chuyen-coc-ho-nguoi-thue-xe-khop-ten-va-noi-dung-chuyen-khoan/).
 
 ## Năm phút kiểm tra trước khi bấm chuyển cọc
 
@@ -64,7 +64,7 @@ Gom lại thành một trình tự ngắn, áp dụng cho bất kỳ nơi nào b
 2. Tra số tài khoản qua kênh tra cứu bên ngoài app.
 3. Nhập số tài khoản vào app, đọc kỹ tên hiện ra và mọi cảnh báo.
 4. Nếu có cảnh báo hoặc tên không khớp, dừng lại và hỏi bằng tin nhắn.
-5. Nếu mọi thứ ổn, chuyển đúng số đã thỏa thuận, ghi nội dung rõ ràng, lưu ảnh biên lai giao dịch, theo gợi ý ở bài [giữ lại bằng chứng khi đặt cọc chuyển khoản](/thue-xe/2026/10/01/at-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/).
+5. Nếu mọi thứ ổn, chuyển đúng số đã thỏa thuận, ghi nội dung rõ ràng, lưu ảnh biên lai giao dịch, theo gợi ý ở bài [giữ lại bằng chứng khi đặt cọc chuyển khoản](/thue-xe/2026/10/01/dat-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/).
 
 ## Lỡ chuyển rồi mới thấy nghi ngờ
 

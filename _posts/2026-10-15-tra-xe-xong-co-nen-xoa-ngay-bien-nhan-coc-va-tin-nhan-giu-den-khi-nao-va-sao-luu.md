@@ -36,7 +36,7 @@ Không có một con số chung cho mọi trường hợp, và bạn cũng khôn
 
 Khi cả hai điều kiện đã xong, hãy giữ thêm một thời gian sau khi trả xe rồi mới dọn. Khoảng thời gian dài hay ngắn tùy bạn, nhưng nên rộng tay hơn là quá vội. Một tấm ảnh trong album riêng gần như không chiếm chỗ, còn mất nó đúng lúc cần thì rất phiền.
 
-Nếu lúc trả xe có điểm còn tranh cãi, ví dụ bên cho thuê nói sẽ kiểm tra thêm rồi báo, thì giữ đến khi chuyện đó được giải quyết bằng một tin nhắn rõ ràng. Cách xử lý từng bước khi hai bên chưa thống nhất có trong bài [kiểm đếm và xác nhận khi nhận lại cọc](/thue-xe/2026/10/11/hoan-tien-coc-khi-tra-xe-may-thue-kiem-em-va-xac-nhan/).
+Nếu lúc trả xe có điểm còn tranh cãi, ví dụ bên cho thuê nói sẽ kiểm tra thêm rồi báo, thì giữ đến khi chuyện đó được giải quyết bằng một tin nhắn rõ ràng. Cách xử lý từng bước khi hai bên chưa thống nhất có trong bài [kiểm đếm và xác nhận khi nhận lại cọc](/thue-xe/2026/10/11/hoan-tien-coc-khi-tra-xe-may-thue-kiem-dem-va-xac-nhan/).
 
 ## Những thứ nên giữ lại
 
@@ -48,7 +48,7 @@ Không phải ảnh nào trong điện thoại cũng cần giữ. Một bộ ch�
 - **Ảnh xe lúc nhận và lúc trả**, nhất là ảnh có thấy đồng hồ xăng và các mặt thân xe.
 - **Tin nhắn cuối cùng xác nhận đã nhận đủ cọc**, ví dụ một câu như "tiệm đã chuyển lại cọc, em nhận đủ rồi ạ" được bên kia trả lời.
 
-Tin nhắn cuối cùng này rất đáng giá. Nó cho thấy cả hai bên coi giao dịch đã khép lại. Cách lưu bằng chứng ngay từ lúc đưa cọc được nói kỹ trong bài [giữ bằng chứng khi đặt cọc qua ứng dụng](/thue-xe/2026/10/07/cach-giu-bang-chung-coc-khi-at-tien-thue-xe-qua-ung-dung/).
+Tin nhắn cuối cùng này rất đáng giá. Nó cho thấy cả hai bên coi giao dịch đã khép lại. Cách lưu bằng chứng ngay từ lúc đưa cọc được nói kỹ trong bài [giữ bằng chứng khi đặt cọc qua ứng dụng](/thue-xe/2026/10/07/cach-giu-bang-chung-coc-khi-dat-tien-thue-xe-qua-ung-dung/).
 
 ## Sao lưu tin nhắn thuê xe ở đâu cho an toàn
 

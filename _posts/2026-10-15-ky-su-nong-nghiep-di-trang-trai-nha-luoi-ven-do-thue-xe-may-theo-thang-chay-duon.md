@@ -38,7 +38,7 @@ Khi hỏi thuê, hãy nói rõ với cửa hàng là bạn đi đồng ruộng h
 
 ### Sau mưa và mùa nước
 
-Sau mưa, lớp đất thịt trên đường nội đồng bám vào lốp, lấp kín gai và biến bánh xe thành khối trơn. Nếu buộc phải đi, về số thấp và dừng lại gạt bùn khi bánh bị kẹt. Cách đẩy xe ra khi đã sa lầy có trong bài [bánh xe sa lầy trên đường đất sau mưa ở vùng ven](/thue-xe/2026/10/11/banh-xe-sa-lay-tren-uong-at-sau-mua-o-vung-ven-ay-ra-sao-cho-khoi-o/). Khu ruộng ven sông khi nước lên thì không nên cố vào, hãy hẹn lại ngày khác.
+Sau mưa, lớp đất thịt trên đường nội đồng bám vào lốp, lấp kín gai và biến bánh xe thành khối trơn. Nếu buộc phải đi, về số thấp và dừng lại gạt bùn khi bánh bị kẹt. Cách đẩy xe ra khi đã sa lầy có trong bài [bánh xe sa lầy trên đường đất sau mưa ở vùng ven](/thue-xe/2026/10/11/banh-xe-sa-lay-tren-duong-dat-sau-mua-o-vung-ven-day-ra-sao-cho-khoi-do/). Khu ruộng ven sông khi nước lên thì không nên cố vào, hãy hẹn lại ngày khác.
 
 ## Nhường máy nông nghiệp và người làm đồng
 

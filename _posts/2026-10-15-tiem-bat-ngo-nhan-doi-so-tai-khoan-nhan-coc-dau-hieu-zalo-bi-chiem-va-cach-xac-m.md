@@ -51,7 +51,7 @@ Nguyên tắc cốt lõi chỉ có một: kênh bị nghi ngờ thì không dùn
 
 Nếu tiệm xác nhận không hề đổi tài khoản, bạn đã tránh được một khoản mất trắng. Hãy chụp màn hình toàn bộ đoạn chat, báo cho tiệm biết Zalo của họ đang bị người khác dùng, và ngừng nhắn với tài khoản đó.
 
-Nếu tiệm xác nhận có đổi thật, vẫn nên xin tiệm gửi lại thông tin qua tin nhắn điện thoại thường từ chính số đã biết để có bằng chứng, rồi soát tên người nhận trước khi bấm chuyển. Cách soát tên khi chuyển qua mã có trong bài [quét mã QR để chuyển cọc thuê xe](/thue-xe/2026/10/11/quet-ma-qr-e-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/).
+Nếu tiệm xác nhận có đổi thật, vẫn nên xin tiệm gửi lại thông tin qua tin nhắn điện thoại thường từ chính số đã biết để có bằng chứng, rồi soát tên người nhận trước khi bấm chuyển. Cách soát tên khi chuyển qua mã có trong bài [quét mã QR để chuyển cọc thuê xe](/thue-xe/2026/10/11/quet-ma-qr-de-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan/).
 
 ## Một tình huống thường gặp ở Hà Nội
 
@@ -68,7 +68,7 @@ Cách xử lý đơn giản nhất là không chuyển gì trong đêm. Sáng h�
 3. **Báo cho tiệm thật** qua số đã biết, để họ khóa lại tài khoản bị chiếm và cảnh báo khách khác.
 4. **Trình báo công an nơi gần nhất,** mang theo bằng chứng đã lưu.
 
-Lấy lại được tiền hay không phụ thuộc ngân hàng và cơ quan chức năng, không ai hứa chắc được. Báo càng sớm thì càng có thêm thời gian để xử lý. Những giấy tờ nên giữ sau mỗi lần chuyển cọc được liệt kê trong bài [đặt cọc thuê xe bằng chuyển khoản: giữ lại bằng chứng nào](/thue-xe/2026/10/01/at-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/).
+Lấy lại được tiền hay không phụ thuộc ngân hàng và cơ quan chức năng, không ai hứa chắc được. Báo càng sớm thì càng có thêm thời gian để xử lý. Những giấy tờ nên giữ sau mỗi lần chuyển cọc được liệt kê trong bài [đặt cọc thuê xe bằng chuyển khoản: giữ lại bằng chứng nào](/thue-xe/2026/10/01/dat-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/).
 
 ## Thói quen nhỏ để lần sau không bối rối
 

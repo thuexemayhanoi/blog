@@ -28,7 +28,7 @@ Mở lại giao dịch trong ứng dụng ngân hàng và đọc kỹ:
 - Tên người nhận và tên ngân hàng nhận hiện trên biên lai.
 - Thời gian, số tiền và mã giao dịch.
 
-Nếu tên người nhận khớp với tên tiệm đã báo thì có thể bạn chỉ nhìn nhầm, tiền vẫn tới đúng chỗ. Khi đó chỉ cần gửi biên lai cho tiệm đối chiếu theo cách trong bài [chuyển cọc xong mà chủ xe báo chưa nhận được tiền](/thue-xe/2026/10/11/chuyen-coc-xong-ma-chu-xe-bao-chua-nhan-uoc-tien-cac-buoc-kiem-tra/). Còn nếu tên là một người hoàn toàn khác, hãy coi như tiền đã vào nhầm tài khoản và làm tiếp các bước dưới.
+Nếu tên người nhận khớp với tên tiệm đã báo thì có thể bạn chỉ nhìn nhầm, tiền vẫn tới đúng chỗ. Khi đó chỉ cần gửi biên lai cho tiệm đối chiếu theo cách trong bài [chuyển cọc xong mà chủ xe báo chưa nhận được tiền](/thue-xe/2026/10/11/chuyen-coc-xong-ma-chu-xe-bao-chua-nhan-duoc-tien-cac-buoc-kiem-tra/). Còn nếu tên là một người hoàn toàn khác, hãy coi như tiền đã vào nhầm tài khoản và làm tiếp các bước dưới.
 
 ## Giữ biên lai và mọi dữ liệu của giao dịch
 
@@ -39,7 +39,7 @@ Ngân hàng sẽ cần thông tin chính xác của giao dịch để xử lý, 
 3. Ghi ra giấy hoặc ghi chú điện thoại: số tài khoản đã nhập nhầm, tên người nhận, ngân hàng nhận, giờ chuyển, mã giao dịch.
 4. Gửi một bản sang email của bạn hoặc máy người thân, phòng khi điện thoại hết pin hay bị rơi.
 
-Những thứ này cũng là bằng chứng nên giữ trong mọi lần đặt cọc, như bài [đặt cọc thuê xe bằng chuyển khoản: giữ lại bằng chứng nào](/thue-xe/2026/10/01/at-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/) đã liệt kê.
+Những thứ này cũng là bằng chứng nên giữ trong mọi lần đặt cọc, như bài [đặt cọc thuê xe bằng chuyển khoản: giữ lại bằng chứng nào](/thue-xe/2026/10/01/dat-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao/) đã liệt kê.
 
 ## Liên hệ ngân hàng của bạn để yêu cầu tra soát
 

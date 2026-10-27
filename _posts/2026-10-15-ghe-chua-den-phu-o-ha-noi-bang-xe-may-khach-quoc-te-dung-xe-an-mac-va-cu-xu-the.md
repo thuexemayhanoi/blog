@@ -38,9 +38,9 @@ Cách làm đúng khi dựng xe máy ở cổng chùa:
 3. **Nhận vé hoặc ghi nhớ vị trí.** Chụp một tấm ảnh chỗ để xe cùng biển hiệu gần đó, lúc quay ra đỡ phải đi tìm.
 4. **Khóa cổ, rút chìa, cất đồ trong cốp.** Đừng để mũ bảo hiểm hay túi xách treo trên tay lái khi bạn ở trong lâu.
 
-Tuyệt đối không dựng xe chắn cổng, chắn bậc lên xuống hay lối ra của khu gửi khác. Nếu cần biết cách tìm bãi trông xe nói chung, xem thêm bài [gửi xe ở Hà Nội cho khách quốc tế](/thue-xe/2026/09/30/gui-xe-o-ha-noi-huong-dan-cho-khach-quoc-te/); còn đường đi tới Trấn Quốc có bài riêng về [đến chùa Trấn Quốc bằng xe máy](/du-lich/2026/09/28/en-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i/).
+Tuyệt đối không dựng xe chắn cổng, chắn bậc lên xuống hay lối ra của khu gửi khác. Nếu cần biết cách tìm bãi trông xe nói chung, xem thêm bài [gửi xe ở Hà Nội cho khách quốc tế](/thue-xe/2026/09/30/gui-xe-o-ha-noi-huong-dan-cho-khach-quoc-te/); còn đường đi tới Trấn Quốc có bài riêng về [đến chùa Trấn Quốc bằng xe máy](/du-lich/2026/09/28/den-chua-tran-quoc-bang-xe-may-gui-xe-va-duong-di/).
 
-Với đền Ngọc Sơn, lưu ý quanh hồ Hoàn Kiếm có những buổi tối cuối tuần thành phố đi bộ, xe máy không vào được sát hồ. Lúc đó hãy gửi xe ở phố lân cận rồi đi bộ vào, cách vòng tránh khu này có trong bài [đi xe máy vòng qua phố đi bộ quanh hồ Hoàn Kiếm](/thue-xe/2026/10/11/cuoi-tuan-quanh-ho-hoan-kiem-co-pho-i-bo-i-xe-may-vong-qua-the-nao/).
+Với đền Ngọc Sơn, lưu ý quanh hồ Hoàn Kiếm có những buổi tối cuối tuần thành phố đi bộ, xe máy không vào được sát hồ. Lúc đó hãy gửi xe ở phố lân cận rồi đi bộ vào, cách vòng tránh khu này có trong bài [đi xe máy vòng qua phố đi bộ quanh hồ Hoàn Kiếm](/thue-xe/2026/10/11/cuoi-tuan-quanh-ho-hoan-kiem-co-pho-di-bo-di-xe-may-vong-qua-the-nao/).
 
 ## Trang phục đi chùa ở Hà Nội: kín vai, kín gối
 

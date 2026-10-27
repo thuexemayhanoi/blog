@@ -38,7 +38,7 @@ Ngoài thông tin xe, thời gian thuê và điều kiện hoàn cọc, hãy đ�
 2. **Ngày giờ nhận và ca trực.** Một dòng như "nhận lúc mười chín giờ, ca tối" giúp tiệm tự tra lại sổ của ca đó khi cần.
 3. **Tên cửa hàng và địa chỉ.** Để không ai hiểu nhầm đây là khoản giao dịch cá nhân giữa bạn và người nhân viên.
 
-Sau khi ký, chụp ảnh tờ biên nhận rõ cả chữ ký lẫn họ tên, chụp thêm một tấm có mặt quầy làm bối cảnh nếu tiện. Nếu cọc là tiền mặt, cách đếm tiền và chụp lại trước mặt người nhận có trong bài [đặt cọc xe máy bằng tiền mặt: đếm và chụp lại thế nào](/thue-xe/2026/10/11/at-coc-xe-may-bang-tien-mat-em-va-chup-lai-the-nao/).
+Sau khi ký, chụp ảnh tờ biên nhận rõ cả chữ ký lẫn họ tên, chụp thêm một tấm có mặt quầy làm bối cảnh nếu tiện. Nếu cọc là tiền mặt, cách đếm tiền và chụp lại trước mặt người nhận có trong bài [đặt cọc xe máy bằng tiền mặt: đếm và chụp lại thế nào](/thue-xe/2026/10/11/dat-coc-xe-may-bang-tien-mat-dem-va-chup-lai-the-nao/).
 
 ## Chủ tiệm xác nhận tiền cọc: có cần không và xin thế nào
 
@@ -73,7 +73,7 @@ Mở ảnh biên nhận có họ tên người nhận và tin nhắn xác nhận
 
 ### Xin xác nhận đã nhận lại xe và đã hoàn cọc
 
-Khi xong, xin một dòng ghi trên biên nhận cũ hoặc một tin nhắn từ số tiệm rằng xe đã được nhận lại và cọc đã được trả. Việc trả xe cho người khác người giao xe có thêm các bước đối chiếu tình trạng xe, xem bài [người nhận lại xe không phải người đã giao xe](/thue-xe/2026/10/12/nguoi-nhan-lai-xe-khong-phai-nguoi-a-giao-xe-cach-tranh-lech-thong-tin/).
+Khi xong, xin một dòng ghi trên biên nhận cũ hoặc một tin nhắn từ số tiệm rằng xe đã được nhận lại và cọc đã được trả. Việc trả xe cho người khác người giao xe có thêm các bước đối chiếu tình trạng xe, xem bài [người nhận lại xe không phải người đã giao xe](/thue-xe/2026/10/12/nguoi-nhan-lai-xe-khong-phai-nguoi-da-giao-xe-cach-tranh-lech-thong-tin/).
 
 ## Nếu hai bên vẫn nói khác nhau
 

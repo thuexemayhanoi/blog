@@ -47,7 +47,7 @@ Kể cả khi đã có chìa, những đêm tăng ca bất thường vẫn nên 
 Thứ tự ưu tiên khá đơn giản: xe càng ở trong không gian khóa kín và có người, càng yên tâm.
 
 1. **Trong nhà hoặc trong sân có cổng khóa.** Đây là chỗ tốt nhất. Hỏi chủ trọ nên dựng xe ở vị trí nào để không chắn lối thoát hiểm và không bị xe khác dắt ra va quệt.
-2. **Bãi giữ xe có người trông qua đêm.** Nếu nhà trọ không cho để xe sau một giờ nhất định, hãy tìm trước một bãi gần nhà, hỏi rõ bãi có người trực suốt đêm hay chỉ khóa cổng rồi về, giờ lấy xe sớm nhất là mấy giờ, và vé tháng hay vé lượt. Kinh nghiệm chọn bãi có trong bài [gửi xe máy thuê ở bãi giữ xe qua đêm](/ky-nang/2026/10/07/gui-xe-may-thue-o-bai-giu-xe-qua-em-luu-y-gi/).
+2. **Bãi giữ xe có người trông qua đêm.** Nếu nhà trọ không cho để xe sau một giờ nhất định, hãy tìm trước một bãi gần nhà, hỏi rõ bãi có người trực suốt đêm hay chỉ khóa cổng rồi về, giờ lấy xe sớm nhất là mấy giờ, và vé tháng hay vé lượt. Kinh nghiệm chọn bãi có trong bài [gửi xe máy thuê ở bãi giữ xe qua đêm](/ky-nang/2026/10/07/gui-xe-may-thue-o-bai-giu-xe-qua-dem-luu-y-gi/).
 3. **Nhờ chỗ người quen gần đó,** chỉ khi nhà họ có chỗ để xe trong nhà.
 
 Không để xe ngoài đường hay đầu ngõ qua đêm, kể cả khi hàng xóm cũng làm vậy. Khóa chắc đến đâu, xe đứng ngoài trời không người nhìn vẫn là mục tiêu dễ nhất.
@@ -61,7 +61,7 @@ Khóa đi kèm xe là lớp đầu tiên, không phải lớp duy nhất. Mỗi 
 - **Không để giấy tờ xe trong cốp** khi gửi qua đêm. Mang theo người hoặc cất trong phòng.
 - **Chụp một ảnh xe tại chỗ để,** có cả biển số, để khi cần bạn có mốc thời gian rõ ràng.
 
-Nếu muốn tìm hiểu kỹ hơn các kiểu khóa và cách đặt xe, bài [chống trộm xe máy khi thuê: khóa và cách đỗ xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/) nói chi tiết hơn.
+Nếu muốn tìm hiểu kỹ hơn các kiểu khóa và cách đặt xe, bài [chống trộm xe máy khi thuê: khóa và cách đỗ xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/) nói chi tiết hơn.
 
 ## Khi về muộn mà cổng vẫn đóng
 
@@ -70,7 +70,7 @@ Có những đêm mọi thỏa thuận đều trật: chìa để quên ở ch�
 - Gọi lại chủ trọ và người ở cùng tầng có số điện thoại, nhắn tin cả nhóm phòng trọ nếu có.
 - Nếu không ai mở, chạy xe tới bãi giữ xe có người trông mà bạn đã tìm sẵn, gửi xe rồi mới tính chỗ ngủ.
 
-Đêm về khuya còn kéo theo chuyện chạy xe khi mệt và đường vắng. Những lưu ý về đèn, tuyến đường và tốc độ đã có trong bài [thuê xe máy đi tan ca đêm](/thue-xe/2026/10/11/thue-xe-may-i-tan-ca-em-an-toan-va-tuyen-ve/).
+Đêm về khuya còn kéo theo chuyện chạy xe khi mệt và đường vắng. Những lưu ý về đèn, tuyến đường và tốc độ đã có trong bài [thuê xe máy đi tan ca đêm](/thue-xe/2026/10/11/thue-xe-may-di-tan-ca-dem-an-toan-va-tuyen-ve/).
 
 ## Nếu xe thuê bị mất hoặc bị phá
 
