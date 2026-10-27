@@ -30,6 +30,16 @@ Six exceptions must stay out of a blanket migration attestation:
 | BLG-01722 | `ee38654a` removed a stray fragment after publication, after migration | Real content change; review independently |
 | BLG-01741 | `2c162d7b` removed an editing artifact after publication, after migration | Real content change; review independently |
 
+**Reviewed post-publication chains (`--reviewed`, 2026-10-27).** For an ID whose evidence binds the bytes at
+its PUBLISH commit and whose post was later edited by hand (01279, 01494, 01722 above), `reattest-legacy-qa.py plan|apply
+--reviewed FILE` (schema `reattest-reviewed/1`: per ID `bound_commit`, `reviewed_commits`, `review`) attests the current
+bytes as `REVIEWED_CHAIN_PROVEN` only when git proves: every commit is an ancestor of HEAD; the recorded hashes bind the
+post and matrix row at `bound_commit`; the evidence file is byte-identical since `bound_commit`; every commit touching the
+post after `bound_commit` is a reviewed one or the v3 migration commit `04d46bef`, and every reviewed commit touches it;
+the current matrix row equals the row at `bound_commit` (or its exact v3 transform). The fresh independent rescore and
+all gates are unchanged. The tool does not judge the reviewed edits — the reviewer signs them (`review`, recorded in
+provenance as `reattestation.chain`); the tool guarantees current bytes = scored bytes + exactly those commits.
+
 The 01478/01479 publication mismatch predates PR #7. Its current regression
 guards are `publisher-push.py` overlap/hash checks and multiwriter simulations;
 do not edit these old posts during this technical work.

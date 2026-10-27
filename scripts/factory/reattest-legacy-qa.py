@@ -17,6 +17,18 @@ này là đường GHI duy nhất, và chỉ cho bài thỏa MỌI điều kiệ
      critical_failure KHÔNG đổi — thiếu một cổng là KHÔNG re-attest.
   3. Có chủ duyệt (`--approval-ref` bắt buộc, ghi vào provenance) và manifest.
 
+Ca ngoài domain-only — bài bị SỬA TAY sau xuất bản (vd. BLG-01279 đổi parent_id, BLG-01494 sửa
+dấu, BLG-01722 bỏ mẩu chữ thừa): evidence buộc byte lúc XUẤT BẢN, không buộc baseline
+(BASELINE_EVIDENCE_UNBOUND / UNPROVEN_HISTORY). Chỉ với `--reviewed FILE` (plan VÀ apply; schema
+`reattest-reviewed/1`, người duyệt liệt kê `bound_commit` + `reviewed_commits` từng ID) tool TỰ
+kiểm bằng git (REVIEWED_CHAIN_PROVEN): mọi commit tiền bối của HEAD; hash evidence buộc đúng byte
+bài + hàng matrix tại `bound_commit`; file evidence không đổi byte từ `bound_commit`; MỌI commit
+chạm vào bài sau `bound_commit` thuộc `reviewed_commits` hoặc là commit migration v3, và mọi
+commit được duyệt thật sự chạm vào bài; hàng matrix hiện tại = hàng tại `bound_commit` (hoặc
+exact-transform v3 của nó). Sau đó vẫn chấm lại ĐỘC LẬP byte hiện tại với cùng cổng như trên.
+Tool không phán xét nội dung các commit đã duyệt — đó là phần người duyệt ký (`review`, ghi vào
+provenance); tool chỉ bảo đảm byte hiện tại = byte đã chấm lúc xuất bản + ĐÚNG các commit đó.
+
 Kết quả ghi (CHỈ `data/qa/<ID>.json` của ID được duyệt + một file sao lưu):
   * evidence mới = đầu ra scorer mới + khối `reattestation` (provenance đầy đủ:
     hash evidence cũ, hash cũ, baseline, bằng chứng domain-only, thời điểm/mã
@@ -86,6 +98,11 @@ MAX_BATCH = 300
 FLOOR_QUALITY, FLOOR_SEO = 75, 70
 # Baseline bat bien cua migration v3 (cha cua 04d46bef). Chi baseline nay duoc chap nhan.
 PINNED_BASELINE = '1b55bd810aac85dc919eb2a43d71de30ad8d4595'
+# Commit migration v3 (doi domain + bo /blog/): duoc phep nam trong chuoi --reviewed ma khong can liet ke.
+MIGRATION_COMMIT = '04d46bef1b176f1a92c7c474015e0860b9b015af'
+REVIEWED_SCHEMA = 'reattest-reviewed/1'
+REVIEWED_CHAIN = 'REVIEWED_CHAIN_PROVEN'
+SHA_RE = re.compile(r'^[0-9a-f]{40}\Z')
 BATCH_ID_RE = re.compile(r'^[A-Za-z0-9][A-Za-z0-9._-]{0,79}\Z')
 AID_RE = re.compile(r'^BLG-[0-9]+\Z')            # ASCII only (\d would match other scripts' digits)
 POST_RE = re.compile(r'^_posts/[^/]+\.md\Z')
@@ -101,6 +118,8 @@ BINDING = ('classification', 'old_evidence_sha256', 'current_content_sha256',
 # ro); cac loi chon sai (NOT_ELIGIBLE, thieu evidence) luon dung ca batch.
 SKIPPABLE = ('NOT_PUBLISHED', 'EVIDENCE_CHANGED_SINCE_PLAN', 'INPUT_CHANGED_SINCE_PLAN',
              'NOT_DOMAIN_ONLY', 'FRESH_QA_NOT_ELIGIBLE', 'UNEXPECTED_CURRENT_EVIDENCE')
+# Phan loai duoc phep re-attest (chi khi chung minh duoc; REVIEWED_CHAIN chi voi --reviewed).
+ATTESTABLE = ('DOMAIN_ONLY_PROVEN', REVIEWED_CHAIN)
 FRESH_FIELDS = ('result', 'quality', 'seo', 'business_fact', 'legal',
                 'critical_failure')
 
@@ -175,8 +194,11 @@ class Ctx:
     """Mọi đầu vào của một lần chạy (tiêm được cho test)."""
 
     def __init__(self, root, history, baseline, op, biz, tax,
-                 approval_ref='', batch_id=None, head=None, tool_commit=None):
+                 approval_ref='', batch_id=None, head=None, tool_commit=None, reviewed=None):
         self.root = pathlib.Path(root)
+        # --reviewed: {ID: {bound_commit, reviewed_commits, review}} + sha256 cua file (buoc manifest)
+        self.reviewed = (reviewed or {}).get('entries') or {}
+        self.reviewed_sha256 = sha(doc_text(reviewed).encode('utf-8')) if reviewed else None
         self.history = history
         self.baseline = baseline
         self.op, self.biz, self.tax = op, biz, tax
@@ -202,7 +224,29 @@ def read_rows(root):
         return list(csv.DictReader(f))
 
 
-def make_ctx(root, baseline, approval_ref='', batch_id=None, history=None):
+def load_reviewed(obj):
+    """Kiem cu phap file --reviewed (schema reattest-reviewed/1). Khong tin noi dung: chuoi commit
+    duoc tool kiem lai bang git o reviewed_chain()."""
+    if not isinstance(obj, dict) or obj.get('schema') != REVIEWED_SCHEMA:
+        raise Refuse('BAD_REVIEWED', 'schema file --reviewed khong dung (can %s)' % REVIEWED_SCHEMA)
+    ents = obj.get('entries')
+    if not isinstance(ents, dict) or not ents:
+        raise Refuse('BAD_REVIEWED', 'file --reviewed khong co entries')
+    for aid, e in ents.items():
+        if not AID_RE.match(aid) or not isinstance(e, dict):
+            raise Refuse('BAD_REVIEWED', 'khoa %r khong hop le' % (aid,))
+        commits = e.get('reviewed_commits')
+        if (not isinstance(e.get('bound_commit'), str) or not SHA_RE.match(e['bound_commit'])
+                or not isinstance(commits, list) or not commits
+                or not all(isinstance(c, str) and SHA_RE.match(c) for c in commits)
+                or len(set(commits)) != len(commits)):
+            raise Refuse('BAD_REVIEWED', '%s: can bound_commit va reviewed_commits (sha 40 ky tu, khong trung)' % aid)
+        if not isinstance(e.get('review'), str) or not e['review'].strip():
+            raise Refuse('BAD_REVIEWED', '%s: thieu review (nhan xet cua nguoi duyet)' % aid)
+    return obj
+
+
+def make_ctx(root, baseline, approval_ref='', batch_id=None, history=None, reviewed=None):
     root = pathlib.Path(root)
     os.chdir(root)               # scorer đọc đường dẫn tương đối từ gốc repo
     commit = baseline
@@ -231,7 +275,59 @@ def make_ctx(root, baseline, approval_ref='', batch_id=None, history=None):
     op.build_amount_whitelist(biz)
     return Ctx(root, history, commit, op, biz, tax, approval_ref, batch_id,
                head=git_out(root, 'rev-parse', 'HEAD'),
-               tool_commit=git_out(root, 'rev-parse', 'HEAD'))
+               tool_commit=git_out(root, 'rev-parse', 'HEAD'),
+               reviewed=load_reviewed(reviewed) if reviewed is not None else None)
+
+
+def _git_bytes(root, spec):
+    r = subprocess.run(['git', 'show', spec], cwd=str(root), capture_output=True)
+    return r.stdout if r.returncode == 0 else None
+
+
+def _is_ancestor(root, commit):
+    return subprocess.run(['git', 'merge-base', '--is-ancestor', commit, 'HEAD'],
+                          cwd=str(root), capture_output=True).returncode == 0
+
+
+def reviewed_chain(ctx, row, current, ev_bytes, spec):
+    """REVIEWED_CHAIN_PROVEN: byte hien tai = byte da cham luc xuat ban + DUNG cac commit da duyet
+    (+ migration v3). Kiem hoan toan bang git, khong tin file --reviewed. Tra bang chung hoac Refuse."""
+    aid, path = row['id'], row['output_path']
+    bound, reviewed = spec['bound_commit'], list(spec['reviewed_commits'])
+    for c in [bound] + reviewed:
+        if not _is_ancestor(ctx.root, c):
+            raise Refuse('CHAIN_NOT_PROVEN', '%s: commit %s khong phai tien boi cua HEAD' % (aid, c[:12]))
+    evidence = json.loads(ev_bytes)
+    qa_path = 'data/qa/%s.json' % aid
+    bound_post = _git_bytes(ctx.root, '%s:%s' % (bound, path))
+    if bound_post is None or sha(bound_post) != evidence.get('content_sha256'):
+        raise Refuse('CHAIN_NOT_PROVEN', '%s: hash evidence khong buoc byte bai tai %s' % (aid, bound[:12]))
+    if _git_bytes(ctx.root, '%s:%s' % (bound, qa_path)) != ev_bytes:
+        raise Refuse('CHAIN_NOT_PROVEN', '%s: evidence da doi tu %s' % (aid, bound[:12]))
+    raw = _git_bytes(ctx.root, '%s:data/content-matrix.csv' % bound) or b''
+    bound_row = {r['id']: r for r in csv.DictReader(io.StringIO(raw.decode('utf-8')))}.get(aid)
+    if bound_row is None or A.fingerprint(bound_row) != evidence.get('matrix_row_sha256'):
+        raise Refuse('CHAIN_NOT_PROVEN', '%s: hash evidence khong buoc hang matrix tai %s' % (aid, bound[:12]))
+    if not all(row[k].encode() in (bound_row[k].encode(), A.migrated(bound_row[k].encode()))
+               for k in A.FP_FIELDS):
+        raise Refuse('CHAIN_NOT_PROVEN', '%s: hang matrix doi ngoai migration v3 tu %s' % (aid, bound[:12]))
+    log = git_out(ctx.root, 'log', '--format=%H', '%s..HEAD' % bound, '--', path)
+    if log is None:
+        raise Refuse('CHAIN_NOT_PROVEN', '%s: khong doc duoc lich su git cua %s' % (aid, path))
+    touched = set(log.split())
+    unreviewed = sorted(touched - set(reviewed) - {MIGRATION_COMMIT})
+    if unreviewed:
+        raise Refuse('CHAIN_NOT_PROVEN', '%s: commit chua duoc duyet cham vao bai: %s'
+                     % (aid, ', '.join(c[:12] for c in unreviewed)))
+    idle = sorted(set(reviewed) - touched)
+    if idle:
+        raise Refuse('CHAIN_NOT_PROVEN', '%s: commit duoc duyet khong cham vao bai: %s'
+                     % (aid, ', '.join(c[:12] for c in idle)))
+    return {'bound_commit': bound, 'bound_content_sha256': sha(bound_post),
+            'bound_matrix_sha256': A.fingerprint(bound_row),
+            'reviewed_commits': sorted(reviewed),
+            'migration_commit': MIGRATION_COMMIT if MIGRATION_COMMIT in touched else None,
+            'current_content_sha256': sha(current), 'review': spec['review']}
 
 
 # ------------------------------------------------------------------ đánh giá
@@ -262,14 +358,21 @@ def evaluate(ctx, row):
     if cl['classification'] == 'CURRENT_HASHES_MATCH':
         entry['decision'] = 'NOTHING_TO_DO'
         return entry, None
-    if cl['classification'] != 'DOMAIN_ONLY_PROVEN':
+    if cl['classification'] != 'DOMAIN_ONLY_PROVEN' and aid in ctx.reviewed:
+        try:
+            entry['chain'] = reviewed_chain(ctx, row, current, ev_bytes, ctx.reviewed[aid])
+            entry['classification'] = REVIEWED_CHAIN
+        except Refuse as e:
+            entry['chain_refused'] = e.msg
+    if entry['classification'] not in ATTESTABLE:
         entry['decision'] = 'MANUAL_REVIEW_REQUIRED'
         return entry, None
     fresh = A.rescore_published(ctx.op, row, ctx.rows, ctx.biz, ctx.tax)
     entry['fresh_qa'] = {k: fresh.get(k) for k in FRESH_FIELDS}
     entry['failed_checks'] = sorted(k for k, v in fresh.get('checks', {}).items() if not v)
+    # cung cac cong cham lai doc lap cho ca hai phan loai da chung minh (proposal_decision chi biet ten DOMAIN_ONLY)
     entry['decision'] = A.proposal_decision(
-        cl['classification'], fresh, current, row, ctx.op.QUALITY_MIN, ctx.op.SEO_MIN)
+        'DOMAIN_ONLY_PROVEN', fresh, current, row, ctx.op.QUALITY_MIN, ctx.op.SEO_MIN)
     return entry, fresh
 
 
@@ -293,6 +396,7 @@ def make_plan(ctx, ids=None, head_bound=True):
         # True chi khi cay lam viec == HEAD luc plan (plan --allow-dirty => False;
         # apply tu choi manifest khong gan voi mot commit)
         'head_bound': bool(head_bound),
+        'reviewed_sha256': ctx.reviewed_sha256,
         'matrix_sha256': sha((ctx.root / 'data/content-matrix.csv').read_bytes()),
         'thresholds': {'quality_min': ctx.op.QUALITY_MIN, 'seo_min': ctx.op.SEO_MIN},
         **ctx.code_sha,
@@ -334,13 +438,17 @@ def build_new_evidence(ctx, e, fresh, old_ev):
     # evidence moi van thay "evidence cu tung bi re-stamp/sua sau xuat ban". Khong mat dau vet.
     carried = {k: copy.deepcopy(v) for k, v in old_ev.items()
                if k not in new and k != 'reattestation'}
+    chain = e.get('chain')
     new['reattestation'] = {
         'schema': 'reattestation/1',
-        'kind': 'domain-migration-v3',
-        'classification': 'DOMAIN_ONLY_PROVEN',
-        'proof': ('hash cu trong evidence buoc dung byte bai + hang matrix cua '
-                  'baseline bat bien; exact-transform v3 (doi domain + bo '
-                  '/blog/) cua baseline == byte/truong hien tai'),
+        'kind': 'reviewed-post-publish-chain' if chain else 'domain-migration-v3',
+        'classification': REVIEWED_CHAIN if chain else 'DOMAIN_ONLY_PROVEN',
+        'proof': (('hash cu trong evidence buoc dung byte bai + hang matrix tai commit xuat ban; '
+                   'evidence khong doi tu do; moi commit cham vao bai sau do thuoc danh sach '
+                   'nguoi duyet ky (+ migration v3); cham lai doc lap byte hien tai') if chain else
+                  ('hash cu trong evidence buoc dung byte bai + hang matrix cua '
+                   'baseline bat bien; exact-transform v3 (doi domain + bo '
+                   '/blog/) cua baseline == byte/truong hien tai')),
         'approval_ref': ctx.approval_ref,
         'batch_id': ctx.batch_id,
         'rescored_at': now_iso(),
@@ -359,6 +467,8 @@ def build_new_evidence(ctx, e, fresh, old_ev):
                  '(watchdog doc chung nhu tin hieu hoat dong); chat diem '
                  'doc lap xay ra luc rescored_at'),
     }
+    if chain:
+        new['reattestation']['chain'] = chain
     if carried:
         new['reattestation']['previous_evidence_annotations'] = carried
     return new
@@ -403,8 +513,10 @@ def prepare(ctx, manifest, aid):
         if entry.get(k) != e.get(k):
             raise Refuse('INPUT_CHANGED_SINCE_PLAN',
                          '%s: %s khac manifest (bai/hang/baseline da doi)' % (aid, k))
-    if entry['classification'] != 'DOMAIN_ONLY_PROVEN':
+    if entry['classification'] not in ATTESTABLE:
         raise Refuse('NOT_DOMAIN_ONLY', '%s: %s' % (aid, entry['classification']))
+    if entry.get('chain') != e.get('chain'):
+        raise Refuse('INPUT_CHANGED_SINCE_PLAN', '%s: chuoi commit da duyet khac manifest' % aid)
     if entry['decision'] != ELIGIBLE or fresh is None:
         raise Refuse('FRESH_QA_NOT_ELIGIBLE',
                      '%s: cham lai doc lap = %s (failed_checks=%s) — giu nguyen de xu ly rieng'
@@ -435,6 +547,8 @@ def check_manifest_current(ctx, manifest):
             raise Refuse('SCORER_CHANGED_SINCE_PLAN', '%s khac manifest (scorer/facts/taxonomy da doi) — chay lai plan' % k)
     if manifest.get('thresholds') != {'quality_min': ctx.op.QUALITY_MIN, 'seo_min': ctx.op.SEO_MIN}:
         raise Refuse('SCORER_CHANGED_SINCE_PLAN', 'nguong QA khac manifest — chay lai plan')
+    if manifest.get('reviewed_sha256') != ctx.reviewed_sha256:
+        raise Refuse('REVIEWED_MISMATCH', 'file --reviewed khac file luc plan (hoac thieu/thua) — dung cung file')
 
 
 def require_clean_tree(root=ROOT):
@@ -659,6 +773,7 @@ def main(argv=None):
     p.add_argument('--ids', default='')
     p.add_argument('--allow-dirty', action='store_true',
                    help='plan tren cay khac HEAD (manifest ghi head_bound: false, apply se tu choi)')
+    p.add_argument('--reviewed', help='file reattest-reviewed/1: chuoi commit sua tay sau xuat ban da duyet')
     a_ = sub.add_parser('apply')
     a_.add_argument('--manifest', required=True)
     a_.add_argument('--approval-ref', default='')
@@ -669,6 +784,7 @@ def main(argv=None):
     a_.add_argument('--dry-run', action='store_true')
     a_.add_argument('--skip-ineligible', action='store_true',
                     help='ID khong con du dieu kien luc apply bi BO QUA (bao cao) thay vi dung ca batch')
+    a_.add_argument('--reviewed', help='bat buoc khi manifest lap bang plan --reviewed (cung file)')
     v = sub.add_parser('verify')
     v.add_argument('--backup', required=True)
     v.add_argument('--no-rescore', action='store_true',
@@ -684,7 +800,9 @@ def main(argv=None):
             dirty = A.dirty_inputs(ROOT)
             if dirty and not a.allow_dirty:
                 require_clean_tree(ROOT)
-            ctx = make_ctx(ROOT, a.baseline)
+            reviewed = json.loads(pathlib.Path(os.path.abspath(a.reviewed)).read_text(encoding='utf-8')) \
+                if a.reviewed else None
+            ctx = make_ctx(ROOT, a.baseline, reviewed=reviewed)
             manifest = make_plan(ctx, set(_ids(a.ids)) or None, head_bound=not dirty)
             text = doc_text(manifest)
             if out_path:
@@ -705,7 +823,9 @@ def main(argv=None):
                 if a.limit <= 0:
                     raise Refuse('NO_IDS', 'can --ids hoac --limit N [--offset K]')
                 ids = elig[a.offset:a.offset + a.limit]
-            ctx = make_ctx(ROOT, manifest['baseline_commit'], a.approval_ref, a.batch_id)
+            reviewed = json.loads(pathlib.Path(os.path.abspath(a.reviewed)).read_text(encoding='utf-8')) \
+                if a.reviewed else None
+            ctx = make_ctx(ROOT, manifest['baseline_commit'], a.approval_ref, a.batch_id, reviewed=reviewed)
             ctx.guard = lambda: require_clean_tree(ROOT)
             print(json.dumps(apply_batch(ctx, manifest, ids, a.dry_run, a.skip_ineligible),
                              ensure_ascii=False, indent=2))
