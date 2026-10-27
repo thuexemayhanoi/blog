@@ -42,7 +42,7 @@ Một tin nhắn hỏi chọn xe máy thuê hoàn chỉnh không cần dài, ch�
 
 Mẫu tin hoàn chỉnh có thể viết như sau: chào anh, em định thuê xe sáng mai khoảng chín giờ, trả cuối buổi. Em cao một mét sáu hai, nặng sáu mươi cân, chưa quen xe số, chỉ quen xe ga. Em chở em bé bốn tuổi đi quanh phố cổ, quãng khoảng hai mươi ki lô mét, chỉ mang một túi nhỏ. Anh gợi ý giúp em hai dòng xe còn hợp, và giữ giúp em tới chín giờ rưỡi được không.
 
-Nên hỏi thêm hai câu nhỏ trong cùng tin: hôm đó cửa hàng còn những dòng nào trong nhóm mình cần, và nếu đến muộn hơn giờ hẹn thì giữ xe tới mấy giờ. Hai câu này giúp bạn chủ động lịch, tránh tình huống đến nơi thì dòng vừa ý đã có người khác nhận trước, tình huống riêng của nó nằm trong bài [đặt trước một dòng xe nhưng chỉ còn dòng khác](/hoi-dap/2026/10/11/at-truoc-mot-dong-xe-nhung-chi-con-dong-khac-nhan-hay-oi-lich/).
+Nên hỏi thêm hai câu nhỏ trong cùng tin: hôm đó cửa hàng còn những dòng nào trong nhóm mình cần, và nếu đến muộn hơn giờ hẹn thì giữ xe tới mấy giờ. Hai câu này giúp bạn chủ động lịch, tránh tình huống đến nơi thì dòng vừa ý đã có người khác nhận trước, tình huống riêng của nó nằm trong bài [đặt trước một dòng xe nhưng chỉ còn dòng khác](/hoi-dap/2026/10/11/dat-truoc-mot-dong-xe-nhung-chi-con-dong-khac-nhan-hay-doi-lich/).
 
 ## Sau tin nhắn: đến ngồi thử
 

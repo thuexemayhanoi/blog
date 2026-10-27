@@ -48,7 +48,7 @@ Chuyến đi ngắn nhiều chặng nghỉ luôn dễ chịu hơn một mạch d
 
 Nghỉ chân cũng có quy tắc: chọn chỗ có ghế ngồi thoáng thay vì đứng giữa bãi xe, uống ít nước ngọt trước khi lên đường, và để người ngồi sau quyết định khi nào cần dừng. Người say xe biết rõ cơ thể mình; lắng nghe họ sớm luôn hơn để đến khi đã mệt.
 
-Gió cũng đáng tính: chạy dài tốc độ cao, gió lùa vào tai người sau làm khó chịu. Cách rẻ nhất là giảm tốc độ xuống một chút và chọn giờ vắng. Cuối cùng, nếu người nhà bạn say xe nhiều, hãy cân nhắc thuê hai xe thay vì một xe chở hai người, chi tiết nằm trong bài [hai người thuê một xe hay hai xe](/hoi-dap/2026/10/11/hai-nguoi-i-choi-thue-mot-xe-chung-hay-hai-xe-rieng-cho-thoai-mai/); các tình huống chọn xe khác nằm ở mục [hỏi đáp chọn xe](/hoi-dap/hoi-dap-chon-xe/).
+Gió cũng đáng tính: chạy dài tốc độ cao, gió lùa vào tai người sau làm khó chịu. Cách rẻ nhất là giảm tốc độ xuống một chút và chọn giờ vắng. Cuối cùng, nếu người nhà bạn say xe nhiều, hãy cân nhắc thuê hai xe thay vì một xe chở hai người, chi tiết nằm trong bài [hai người thuê một xe hay hai xe](/hoi-dap/2026/10/11/hai-nguoi-di-choi-thue-mot-xe-chung-hay-hai-xe-rieng-cho-thoai-mai/); các tình huống chọn xe khác nằm ở mục [hỏi đáp chọn xe](/hoi-dap/hoi-dap-chon-xe/).
 
 ## Thử xe cùng người ngồi sau trước khi chốt
 

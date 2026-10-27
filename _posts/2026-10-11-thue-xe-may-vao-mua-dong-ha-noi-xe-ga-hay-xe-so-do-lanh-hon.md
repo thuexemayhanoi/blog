@@ -44,7 +44,7 @@ Nếu vẫn chọn xe số, hãy mặc quần dài chắn gió có gấu ôm ch�
 
 Dù chọn xe nào, hãy mặc nguyên bộ đồ định đi rồi ngồi thử ngay chỗ nhận xe. Bóp thử tay phanh khi đang đeo găng (xe số thì đạp thử cả phanh chân bằng giày sẽ đi), xoay tay lái hết cỡ xem khuỷu tay có vướng không, rồi chỉnh lại gương vì vai áo dày che mất tầm nhìn phía sau. Tra chìa khóa, mở yên và bấm công tắc bên tay trái lúc còn đeo găng cũng nên thử một lần, vì nhiều người lúng túng chính ở mấy việc nhỏ ấy.
 
-Khăn quàng dài, gấu áo khoác hay gấu quần rộng cần giắt gọn vì dễ vướng bánh xe hoặc dây xích gần chân. Nếu bạn hay mặc váy hoặc áo dài rồi khoác thêm áo ấm, [bài bàn riêng về mặc váy, áo dài đi xe máy](/hoi-dap/2026/10/11/mac-vay-hoac-ao-dai-i-xe-may-nen-thue-xe-ga-hay-xe-so/) có thêm gợi ý chọn xe. Còn khi lót mũ len hay khăn ống dưới mũ bảo hiểm, hãy kiểm tra quai mũ vẫn cài vừa khít.
+Khăn quàng dài, gấu áo khoác hay gấu quần rộng cần giắt gọn vì dễ vướng bánh xe hoặc dây xích gần chân. Nếu bạn hay mặc váy hoặc áo dài rồi khoác thêm áo ấm, [bài bàn riêng về mặc váy, áo dài đi xe máy](/hoi-dap/2026/10/11/mac-vay-hoac-ao-dai-di-xe-may-nen-thue-xe-ga-hay-xe-so/) có thêm gợi ý chọn xe. Còn khi lót mũ len hay khăn ống dưới mũ bảo hiểm, hãy kiểm tra quai mũ vẫn cài vừa khít.
 
 ## Chọn xe máy đi ngày rét theo từng hành trình
 

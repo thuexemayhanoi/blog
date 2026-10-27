@@ -34,7 +34,7 @@ Với mọi kiểu bãi, thói quen nên giữ giống nhau: hỏi giờ đóng 
 
 Vé xe là căn cứ duy nhất để nhận xe giữa hàng trăm chiếc lúc tan, nên cất vé vào túi quần trước, đừng cầm tay vì giữa đám đông rất dễ rơi hoặc đánh rớt lúc móc điện thoại. Đồ giá trị như ví, máy ảnh, tai nghe mang theo người; cốp xe chỉ nên để áo mưa, khăn giấy. Mũ bảo hiểm nếu không mang theo được thì nhét vào cốp hoặc vòng vào tay lái rồi gập gương lại, để người trông xếp xe bên không bị vướng.
 
-Nếu đi nhóm, cả nhóm nên gửi vào cùng một bãi thay vì mỗi người một nơi, lúc về khỏi phải chờ nhau dò từng con phố. Nguyên tắc chọn bãi vòng ngoài này cũng áp dụng được khi đi dạo ven Hồ Tây, bài về [gửi xe khi đi dạo quanh Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/) có nói kỹ hơn cho khu vực đó.
+Nếu đi nhóm, cả nhóm nên gửi vào cùng một bãi thay vì mỗi người một nơi, lúc về khỏi phải chờ nhau dò từng con phố. Nguyên tắc chọn bãi vòng ngoài này cũng áp dụng được khi đi dạo ven Hồ Tây, bài về [gửi xe khi đi dạo quanh Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/) có nói kỹ hơn cho khu vực đó.
 
 ## Đi phố đi bộ cuối tuần bằng xe máy: canh giờ về
 
@@ -42,7 +42,7 @@ Dòng người quanh hồ thường dày nhất từ tám đến mười giờ t
 
 Tối muộn, một số bãi vỉa hè chỉ còn lại người trông trực. Cầm theo đèn điện thoại khi đi lấy xe vì bãi trong ngõ khá tối, và nhớ đường quay ra phố chính để khỏi rẽ nhầm vào ngõ cụt giữa phố cổ. Với bãi trong ngõ, nên ghi lại tên phố ở lối vào, vì nhiều ngõ quanh hồ về đêm trông gần giống nhau.
 
-Nếu còn hứng, sau khi lấy xe bạn có thể chạy thêm vòng về phía Hồ Tây, [cung đường chạy quanh Hồ Tây](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/) có gợi ý điểm dừng và chỗ để xe. Còn nếu ra về qua phố cổ thì nên di chuyển chậm, đường vắng người dễ đi nhanh hơn ban ngày, và bài về [chạy xe máy trong phố cổ](/du-lich/2026/09/28/chay-xe-may-trong-pho-co-gio-nao-nen-tranh/) có nhắc những khung giờ nên tránh.
+Nếu còn hứng, sau khi lấy xe bạn có thể chạy thêm vòng về phía Hồ Tây, [cung đường chạy quanh Hồ Tây](/du-lich/2026/09/28/cung-duong-chay-quanh-ho-tay-diem-dung-va-cho-gui-xe/) có gợi ý điểm dừng và chỗ để xe. Còn nếu ra về qua phố cổ thì nên di chuyển chậm, đường vắng người dễ đi nhanh hơn ban ngày, và bài về [chạy xe máy trong phố cổ](/du-lich/2026/09/28/chay-xe-may-trong-pho-co-gio-nao-nen-tranh/) có nhắc những khung giờ nên tránh.
 
 ## Nếu bạn đi xe máy thuê và chưa quen Hà Nội
 

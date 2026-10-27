@@ -44,7 +44,7 @@ Muốn kiểm tra xe có vừa chiều cao hay không, bạn ngồi trên xe đ�
 
 Đừng chỉ nhìn chiều cao yên: yên rộng hơn khiến hai chân dạng ra nhiều hơn, nên chân xuống đất kém hơn dù hai xe cao bằng nhau.
 
-Hãy hình dung bạn dừng chờ đèn đỏ ở một ngã tư đông xe. Mặt đường thường dốc nhẹ về phía mép, nơi hay có rãnh thoát nước, nên chân bên lề phải với xuống thấp hơn chân bên kia. Nếu sân trước cửa hàng có chỗ nghiêng nhẹ, hãy thử chạm chân ở phía thấp hơn. Nếu hầu hết xe bạn thử đều rơi vào mức "hơi cao", hãy đọc thêm [cách người dưới 1m55 chọn xe để chân chạm đất vững](/hoi-dap/2026/10/11/nguoi-duoi-1m55-nen-thue-xe-may-nao-e-chan-cham-at-vung/).
+Hãy hình dung bạn dừng chờ đèn đỏ ở một ngã tư đông xe. Mặt đường thường dốc nhẹ về phía mép, nơi hay có rãnh thoát nước, nên chân bên lề phải với xuống thấp hơn chân bên kia. Nếu sân trước cửa hàng có chỗ nghiêng nhẹ, hãy thử chạm chân ở phía thấp hơn. Nếu hầu hết xe bạn thử đều rơi vào mức "hơi cao", hãy đọc thêm [cách người dưới 1m55 chọn xe để chân chạm đất vững](/hoi-dap/2026/10/11/nguoi-duoi-1m55-nen-thue-xe-may-nao-de-chan-cham-dat-vung/).
 
 ## Bẻ tay lái hết cỡ và dắt xe: mô phỏng ngõ nhỏ khu phố cổ
 

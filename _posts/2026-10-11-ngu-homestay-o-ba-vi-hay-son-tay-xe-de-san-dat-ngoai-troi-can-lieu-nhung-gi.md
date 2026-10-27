@@ -32,7 +32,7 @@ Ngay lúc nhắn đặt phòng, hãy hỏi thẳng về chỗ để xe, vì câu
 - Có camera hoặc người trông ban đêm không, hay khách tự giữ xe?
 - Sáng sớm muốn ra xe thì có phải gọi ai mở cổng, và xe có bị chặn không?
 
-Hãy xin thêm một tấm ảnh chụp chỗ để xe, vì một tấm ảnh sân cho bạn biết nhiều hơn mười dòng mô tả. Bạn cũng có thể đối chiếu với [những câu nên hỏi trước khi gửi xe qua đêm giữa chuyến đi dài](/ky-nang/2026/10/04/gui-xe-qua-em-o-ha-noi-khi-i-chuyen-dai-can-hoi-gi-truoc/), phần lớn áp dụng được cho homestay. Nếu thuê xe tại Nguyễn Tú, hãy nói trước điểm nghỉ đêm là sân đất ngoài trời và hỏi lại các điều khoản liên quan trước khi đặt xe.
+Hãy xin thêm một tấm ảnh chụp chỗ để xe, vì một tấm ảnh sân cho bạn biết nhiều hơn mười dòng mô tả. Bạn cũng có thể đối chiếu với [những câu nên hỏi trước khi gửi xe qua đêm giữa chuyến đi dài](/ky-nang/2026/10/04/gui-xe-qua-dem-o-ha-noi-khi-di-chuyen-dai-can-hoi-gi-truoc/), phần lớn áp dụng được cho homestay. Nếu thuê xe tại Nguyễn Tú, hãy nói trước điểm nghỉ đêm là sân đất ngoài trời và hỏi lại các điều khoản liên quan trước khi đặt xe.
 
 ## Cổng đóng hay mở, xe đỗ chỗ nào trong sân
 
@@ -67,7 +67,7 @@ Trước khi vào phòng, hãy chụp xe từ đầu, đuôi và hai bên, kèm 
 
 Nhóm đông nên giao người về phòng muộn nhất ghé sân xem cổng đã đóng chưa. Hãy hỏi chủ nhà sẽ xử lý thế nào nếu xe có chuyện trong sân, rồi xác nhận phần này với cửa hàng cho thuê trước khi đặt xe.
 
-Nguyên tắc giữ xe thuê buổi tối còn được nói kỹ hơn trong bài [giữ an toàn cho xe thuê ban đêm](/kinh%20nghi%E1%BB%87m/2026/09/19/gui-xe-ban-dem-va-an-toan-xe-thue/). Nếu một bãi đất trống nơi khác cũng làm bạn băn khoăn, bài về [bãi đất trống ngoại thành và vé lượt](/ky-nang/2026/10/10/gui-xe-o-cho-phien-ngoai-thanh-bai-at-trong-va-ve-luot/) có cách nhìn khá giống: xem nền, xem lối ra, xem ai trông.
+Nguyên tắc giữ xe thuê buổi tối còn được nói kỹ hơn trong bài [giữ an toàn cho xe thuê ban đêm](/kinh%20nghi%E1%BB%87m/2026/09/19/gui-xe-ban-dem-va-an-toan-xe-thue/). Nếu một bãi đất trống nơi khác cũng làm bạn băn khoăn, bài về [bãi đất trống ngoại thành và vé lượt](/ky-nang/2026/10/10/gui-xe-o-cho-phien-ngoai-thanh-bai-dat-trong-va-ve-luot/) có cách nhìn khá giống: xem nền, xem lối ra, xem ai trông.
 
 ## Giờ ra xe sớm và những thứ nên mang theo
 

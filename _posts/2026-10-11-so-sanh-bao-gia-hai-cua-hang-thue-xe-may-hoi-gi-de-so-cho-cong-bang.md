@@ -37,7 +37,7 @@ Với mỗi câu trả lời, bạn lưu ý các con số kèm điều kiện: g
 
 ## Sau khi chọn: xác nhận lại bằng tin nhắn
 
-Khi đã chọn được bên phù hợp, hãy chốt lại bằng một tin nhắn tổng hợp: dòng xe, ngày giờ nhận và trả, mức giá đã thống nhất, các khoản đã gồm, và những gì chưa gồm. Tin nhắn này là bản ghi hai bên cùng nhìn thấy, giúp buổi nhận xe diễn ra đúng như đã trao đổi. Cách so sánh giá theo ngày giữa các dòng xe phổ thông đã được phân tích trong bài [so sánh giá thuê xe máy theo ngày](/thue-xe/2026/10/07/so-sanh-gia-thue-xe-may-theo-ngay-giua-cac-dong-xe-pho-thong/), còn nếu bạn phân vân giữa các dòng xe trước khi so giá thì bài [so sánh giá thuê theo dòng xe](/thue-xe/2026/10/10/so-sanh-gia-thue-xe-may-theo-dong-xe-truoc-khi-at/) đáng đọc trước khi xuống tiền.
+Khi đã chọn được bên phù hợp, hãy chốt lại bằng một tin nhắn tổng hợp: dòng xe, ngày giờ nhận và trả, mức giá đã thống nhất, các khoản đã gồm, và những gì chưa gồm. Tin nhắn này là bản ghi hai bên cùng nhìn thấy, giúp buổi nhận xe diễn ra đúng như đã trao đổi. Cách so sánh giá theo ngày giữa các dòng xe phổ thông đã được phân tích trong bài [so sánh giá thuê xe máy theo ngày](/thue-xe/2026/10/07/so-sanh-gia-thue-xe-may-theo-ngay-giua-cac-dong-xe-pho-thong/), còn nếu bạn phân vân giữa các dòng xe trước khi so giá thì bài [so sánh giá thuê theo dòng xe](/thue-xe/2026/10/10/so-sanh-gia-thue-xe-may-theo-dong-xe-truoc-khi-dat/) đáng đọc trước khi xuống tiền.
 
 Cuối cùng, đừng vì một chênh lệch nhỏ mà chọn bên trả lời mơ hồ. Cửa hàng trả lời rõ từng khoản, ghi lại đúng như nói, thường là lựa chọn an toàn hơn cho cả chuyến đi, kể cả khi báo giá nhỉnh hơn một chút, vì phần [cho thuê xe máy](/thue-xe/) uy tín luôn đi kèm cách làm việc minh bạch từ khâu báo giá.
 

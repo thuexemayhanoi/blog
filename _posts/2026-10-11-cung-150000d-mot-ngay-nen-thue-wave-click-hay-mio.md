@@ -30,7 +30,7 @@ Thường chỉ cần hai trong ba câu nghiêng về cùng một phía là bạ
 
 ## Kiểu đi: dừng liên tục hay chạy một mạch
 
-Ai từng đứng chờ đèn đỏ giờ tan tầm ở Hà Nội đều biết cảnh đi được vài chục mét lại dừng. Buổi sáng của bạn cũng có thể như vậy: ly cà phê, cái chợ, một vòng quanh hồ rồi chui vào ngõ nhỏ khu phố cổ. Với nhịp đó xe ga có lợi, vì bạn chỉ cần vặn ga, không phải đổi số lên xuống theo dòng xe. Nếu chuyến đi gần như nằm gọn trong phố, bạn có thể đọc thêm [cách chọn xe khi chỉ loanh quanh nội thành](/hoi-dap/2026/09/29/chi-i-trong-noi-thanh-nen-thue-xe-may-loai-nao/).
+Ai từng đứng chờ đèn đỏ giờ tan tầm ở Hà Nội đều biết cảnh đi được vài chục mét lại dừng. Buổi sáng của bạn cũng có thể như vậy: ly cà phê, cái chợ, một vòng quanh hồ rồi chui vào ngõ nhỏ khu phố cổ. Với nhịp đó xe ga có lợi, vì bạn chỉ cần vặn ga, không phải đổi số lên xuống theo dòng xe. Nếu chuyến đi gần như nằm gọn trong phố, bạn có thể đọc thêm [cách chọn xe khi chỉ loanh quanh nội thành](/hoi-dap/2026/09/29/chi-di-trong-noi-thanh-nen-thue-xe-may-loai-nao/).
 
 Ngược lại, nếu ngày của bạn có những đoạn dài và thoáng như đường đê ven sông Hồng, xe số bắt đầu có lợi thế. Đi số thấp khi xuống dốc cầu vượt giúp xe tự giữ tốc độ, đỡ phải phanh liên tục, và xe số thường tiết kiệm xăng hơn tương đối.
 
@@ -42,7 +42,7 @@ Người ngồi sau cần chỗ ngồi đủ rộng, chỗ để bám và chỗ 
 
 Chở người còn đổi cách phanh. Xe nặng hơn thì quãng dừng dài hơn, nên bạn cần giữ khoảng cách rộng và phanh sớm, nhẹ, đều tay. Với người lái chưa vững, chiếc xe cho bạn cảm giác dễ làm chủ nhất khi có người ngồi sau mới là chiếc nên chọn, dù đó là Wave, Click hay Mio.
 
-Nếu người ngồi sau là em nhỏ, hãy đọc riêng bài [chọn xe ga hay xe số khi chở con nhỏ](/hoi-dap/2026/10/11/cho-con-nho-bang-xe-may-thue-chon-xe-ga-hay-xe-so-cho-o-lo/). Còn người cao tuổi, người nặng cân hay người dáng nhỏ đều có bài riêng trong mục [hỏi đáp chọn xe](/hoi-dap/hoi-dap-chon-xe/).
+Nếu người ngồi sau là em nhỏ, hãy đọc riêng bài [chọn xe ga hay xe số khi chở con nhỏ](/hoi-dap/2026/10/11/cho-con-nho-bang-xe-may-thue-chon-xe-ga-hay-xe-so-cho-do-lo/). Còn người cao tuổi, người nặng cân hay người dáng nhỏ đều có bài riêng trong mục [hỏi đáp chọn xe](/hoi-dap/hoi-dap-chon-xe/).
 
 ## Hành lý: đồ để ở đâu trên từng chiếc xe
 

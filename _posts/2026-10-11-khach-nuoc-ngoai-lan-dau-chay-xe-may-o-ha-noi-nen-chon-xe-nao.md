@@ -46,7 +46,7 @@ Hai đặc điểm còn lại nằm ở bàn tay. Ga quá nhạy khiến ngườ
 
 **Cao lớn, hoặc chở thêm người và balo lớn.** Các dòng xe ga to hơn như Honda Air Blade hay Honda Click thường cho tư thế ngồi thoải mái và đằm hơn trên đường lớn. Đổi lại, chúng nặng hơn lúc dắt xe, nên chỉ chọn khi bạn đã thấy tự tin sau buổi làm quen.
 
-**Chỉ loanh quanh nội thành.** Một chiếc xe gọn là đủ, không cần chọn xe to vì sợ thiếu sức, và bài [thuê xe khi chỉ đi trong nội thành](/hoi-dap/2026/09/29/chi-i-trong-noi-thanh-nen-thue-xe-may-loai-nao/) phân tích riêng trường hợp này. Nếu sau buổi làm quen mà vẫn chưa thấy yên tâm, đi những quãng đông nhất bằng phương tiện khác cũng là một quyết định khôn ngoan.
+**Chỉ loanh quanh nội thành.** Một chiếc xe gọn là đủ, không cần chọn xe to vì sợ thiếu sức, và bài [thuê xe khi chỉ đi trong nội thành](/hoi-dap/2026/09/29/chi-di-trong-noi-thanh-nen-thue-xe-may-loai-nao/) phân tích riêng trường hợp này. Nếu sau buổi làm quen mà vẫn chưa thấy yên tâm, đi những quãng đông nhất bằng phương tiện khác cũng là một quyết định khôn ngoan.
 
 ## Chọn đúng xe rồi, vẫn nên đổi vài thói quen
 

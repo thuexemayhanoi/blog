@@ -37,7 +37,7 @@ Cách gửi ảnh ngay trong tối quan trọng hơn bạn nghĩ: tin nhắn có
 
 ## Hẹn trả xe buổi tối nên hỏi gì thêm về giờ mở cửa
 
-Nếu bạn dự định trả xe cũng vào buổi tối, hãy hỏi ngay từ lúc nhận: giờ nhận xe muộn nhất là mấy giờ, và nếu bạn trễ hơn thì trình tự xử lý ra sao. Hỏi trước giúp bạn biết mình đang có bao nhiêu dư địa, thay vì phóng tới nơi rồi phát hiện quầy đã đóng. Khi có kế hoạch trả muộn hơn dự kiến, bạn nên xem trước phần [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-oi-lich-nhan-xe/) để biết cách báo dời lịch, và đọc phần [nhận và trả xe](/thue-xe/nhan-tra-xe/) để nắm những gì cần mang theo khi hoàn hợp đồng.
+Nếu bạn dự định trả xe cũng vào buổi tối, hãy hỏi ngay từ lúc nhận: giờ nhận xe muộn nhất là mấy giờ, và nếu bạn trễ hơn thì trình tự xử lý ra sao. Hỏi trước giúp bạn biết mình đang có bao nhiêu dư địa, thay vì phóng tới nơi rồi phát hiện quầy đã đóng. Khi có kế hoạch trả muộn hơn dự kiến, bạn nên xem trước phần [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-doi-lich-nhan-xe/) để biết cách báo dời lịch, và đọc phần [nhận và trả xe](/thue-xe/nhan-tra-xe/) để nắm những gì cần mang theo khi hoàn hợp đồng.
 
 Cuối cùng, bạn nên lưu số điện thoại của cửa hàng ở dạng yêu thích ngay trên máy, để nếu buổi tối có sự cố như xe không đề được hay bạn lạc đường tới quầy, chỉ cần một cuộc gọi là có người hướng dẫn. Với những ai tới Hà Nội bằng chuyến đêm và cần xe ngay, cách chuẩn bị này giúp buổi nhận xe đầu tiên diễn ra gọn gàng dù đồng hồ đã qua chín giờ tối.
 

@@ -44,7 +44,7 @@ Ba mươi giây cuối trước khi nổ máy: bóp phanh trước sau vài lầ
 
 ## Thói quen nhỏ cho những ngày mưa nhiều
 
-Nếu lịch trình của bạn rơi vào tuần mưa dầm, hãy chuẩn bị sẵn trong cốp: một khăn vải, hai túi nilon lớn, một áo mưa và một tấm bạt mỏng. Cả bộ gọn nhẹ này biến mỗi lần gửi xe ngoài trời từ rủi ro thành chuyện thường. Cách gửi xe khi dạo quanh bờ Hồ Tây và chọn bãi có mái ven đường đã được nói trong bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/), còn các thói quen nền tảng khác nằm trong mục [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), và những ghi chú đi đường quanh Hà Nội được tổng hợp trong [chuyên mục kỹ năng](/ky-nang/).
+Nếu lịch trình của bạn rơi vào tuần mưa dầm, hãy chuẩn bị sẵn trong cốp: một khăn vải, hai túi nilon lớn, một áo mưa và một tấm bạt mỏng. Cả bộ gọn nhẹ này biến mỗi lần gửi xe ngoài trời từ rủi ro thành chuyện thường. Cách gửi xe khi dạo quanh bờ Hồ Tây và chọn bãi có mái ven đường đã được nói trong bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/), còn các thói quen nền tảng khác nằm trong mục [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), và những ghi chú đi đường quanh Hà Nội được tổng hợp trong [chuyên mục kỹ năng](/ky-nang/).
 
 Đi mưa nhiều ngày liên tiếp, hãy dành hai phút tối để mở cốp kiểm tra độ ẩm: khăn ướt nhét chung với đồ khô là công thức khiến cả cốp có mùi và đồ điện bị ảnh hưởng. Phơi khăn ở chỗ thoáng qua đêm, thay túi nilon bị rách, và kiểm tra áo mưa có thủng chỗ gấp không. Những chi tiết nhỏ này không tốn thêm phút nào nhưng giữ cho mọi thứ trong cốp dùng bền suốt mùa mưa.
 

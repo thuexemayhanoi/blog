@@ -50,7 +50,7 @@ Lúc nhận xe, một tin nhắn chốt ba con số là đủ: số km trên đ�
 
 Với kỳ thuê dài mười ngày trở lên, một kiểu ghi giữa kỳ cũng đáng làm: chụp lại đồng hồ và vạch xăng sau vài ngày, gửi chủ xe một tiếng để lưu. Thói quen nhỏ đó giúp hai bên đều yên tâm, và nếu có sự cố về xe thì mọi mốc thời gian đều có sẵn.
 
-Với chi phí nhiên liệu cho các tuyến ra ngoài thành, bạn nên xem qua [chi phí xăng khi thuê xe máy đi ngoại thành](/thue-xe/2026/10/11/chi-phi-xang-khi-thue-xe-may-i-ngoai-thanh/) để có khung ước cho phần này trong ngân sách tổng của kỳ thuê.
+Với chi phí nhiên liệu cho các tuyến ra ngoài thành, bạn nên xem qua [chi phí xăng khi thuê xe máy đi ngoại thành](/thue-xe/2026/10/11/chi-phi-xang-khi-thue-xe-may-di-ngoai-thanh/) để có khung ước cho phần này trong ngân sách tổng của kỳ thuê.
 
 Trường hợp xe yếu xăng bất thường giữa kỳ, chẳng hạn bình hao nhanh hơn mọi lần chạy trước, hãy báo ngay cho chủ xe kèm ảnh đồng hồ. Đôi khi đó là dấu hiệu rò rỉ nhỏ, và báo sớm giúp bạn không bị tính phần xăng mất không rõ lý do.
 

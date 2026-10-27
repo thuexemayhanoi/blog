@@ -26,7 +26,7 @@ Ví dụ cụ thể. Bạn thuê một dòng xe 150k một ngày. Ngày đầu �
 
 ## So sánh với các chi phí đi kèm
 
-Tiền thuê chỉ là một phần. Xăng là chi phí biến thiên theo quãng đường. Với các tuyến ngắn trong nội thành, tiền xăng mỗi ngày thường nhỏ hơn tiền thuê, nhưng đi xa ra ngoại thành thì phần xăng tăng nhanh. Bạn nên xem [chi phí xăng khi thuê xe máy đi ngoại thành](/thue-xe/2026/10/11/chi-phi-xang-khi-thue-xe-may-i-ngoai-thanh/) để ước phần này trước khi quyết.
+Tiền thuê chỉ là một phần. Xăng là chi phí biến thiên theo quãng đường. Với các tuyến ngắn trong nội thành, tiền xăng mỗi ngày thường nhỏ hơn tiền thuê, nhưng đi xa ra ngoại thành thì phần xăng tăng nhanh. Bạn nên xem [chi phí xăng khi thuê xe máy đi ngoại thành](/thue-xe/2026/10/11/chi-phi-xang-khi-thue-xe-may-di-ngoai-thanh/) để ước phần này trước khi quyết.
 
 Chi phí gửi xe cũng đáng kể: quanh các tòa nhà ở Cầu Giấy hay Đống Đa, mỗi lượt gửi thường vài nghìn đồng. Nếu ngày của bạn có nhiều lượt gửi, cộng hết vào giá mỗi chuyến, con số sẽ sát thực tế hơn so với chỉ nhìn mức thuê niêm yết. Đây chính là lý do nhiều khách cảm giác giá thuê rẻ mà tổng chi lại cao hơn tưởng tượng.
 

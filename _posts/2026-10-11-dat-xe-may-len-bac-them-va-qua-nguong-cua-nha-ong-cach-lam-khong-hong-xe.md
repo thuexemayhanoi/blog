@@ -73,7 +73,7 @@ Chống xe xong, lắc nhẹ yên để biết chân chống có trượt trên 
 
 **Homestay trong ngõ nhỏ khu phố cổ.** Bậc thềm cao, tầng trệt vừa là phòng khách vừa là chỗ để xe, chủ nhà bảo bạn dắt vào để cạnh cầu thang. Hãy dừng xe ngoài ngõ và tắt máy ngay trong lúc chờ mở cửa; [thói quen không để xe nổ máy khi chờ lâu](/kinh%20nghi%E1%BB%87m/2026/09/19/khong-de-xe-no-may-khi-cho-lau/) vừa đỡ ồn cho cả ngõ vừa tránh xe vọt ga lúc bạn loay hoay. Sau đó quan sát bậc, chọn góc, rồi đẩy tay vào. Nếu chủ nhà ngại để xe trong nhà, hãy xem [cách giữ xe an toàn trước nhà dân khu phố cổ](/ky-nang/2026-09-29/giu-xe-may-an-toan-truoc-nha-dan-khu-pho-co/) thay vì cố nhét xe qua cánh cửa không vừa.
 
-**Nhà người quen sau bữa cơm muộn, trời mưa.** Bậc đá mài trơn, hành lang tối. Hãy nhờ một người cầm đèn điện thoại soi nền, đứng bên cạnh chứ không đứng trước bánh xe, và chỉ một người cầm lái. Nếu bạn đi một mình, xe nặng, bậc cao và nền ướt thì đừng ép. Hãy cân nhắc [gửi xe qua đêm](/ky-nang/2026-09-29/gui-xe-qua-em-co-uoc-khong/) ở chỗ khác, còn hơn liều với chiếc xe không phải của mình.
+**Nhà người quen sau bữa cơm muộn, trời mưa.** Bậc đá mài trơn, hành lang tối. Hãy nhờ một người cầm đèn điện thoại soi nền, đứng bên cạnh chứ không đứng trước bánh xe, và chỉ một người cầm lái. Nếu bạn đi một mình, xe nặng, bậc cao và nền ướt thì đừng ép. Hãy cân nhắc [gửi xe qua đêm](/ky-nang/2026-09-29/gui-xe-qua-dem-co-duoc-khong/) ở chỗ khác, còn hơn liều với chiếc xe không phải của mình.
 
 ## Lỡ cọ gầm hoặc gãy ốp thì làm gì
 

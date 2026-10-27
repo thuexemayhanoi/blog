@@ -44,13 +44,13 @@ Trước khi lên đường, ba thứ cần chốt trong tin nhắn: ngày giờ
 
 Kiểm tra đồ đạc trên xe trước khi giao về: áo mưa, mũ bảo hiểm, giấy tờ, sạc điện thoại bỏ quên trong cốp. Xe nằm yên mấy ngày là thời điểm tốt để dọn, tránh việc phải quay lại lấy đồ giữa kỳ vắng.
 
-Nếu xe có vấn đề nhỏ đang chờ xử lý, chẳng hạn lốp mềm hoặc đèn báo, hãy nói thẳng lúc giao về để cửa hàng kịp xử lý trước ngày bạn nhận lại. Xem thêm về [đổi xe giữa kỳ thuê khi xe gặp vấn đề](/thue-xe/2026/10/10/oi-xe-giua-ky-thue-khi-xe-gap-van-e/) cho tình huống trầm trọng hơn.
+Nếu xe có vấn đề nhỏ đang chờ xử lý, chẳng hạn lốp mềm hoặc đèn báo, hãy nói thẳng lúc giao về để cửa hàng kịp xử lý trước ngày bạn nhận lại. Xem thêm về [đổi xe giữa kỳ thuê khi xe gặp vấn đề](/thue-xe/2026/10/10/doi-xe-giua-ky-thue-khi-xe-gap-van-de/) cho tình huống trầm trọng hơn.
 
 ## Khi nhận lại xe
 
 Dù giữ hay thuê lại, lúc nhận xe hãy kiểm tra như lần đầu: động cơ, phanh, đèn, mức xăng và công tơ mét. Với xe đã giữ, vài ngày nằm yên có thể làm bình xăng hơi hao hoặc ắc quy yếu hơn chút, đừng bỏ qua khâu bật máy.
 
-Nếu bạn là khách mới hoặc lần đầu làm thủ tục kiểu này, đọc nhanh [thủ tục thuê xe máy cho người lần đầu đi thuê](/thue-xe/2026/10/10/thu-tuc-thue-xe-may-cho-nguoi-lan-au-i-thue/) sẽ giúp bạn nắm các bước kiểm tra cần thiết. Với khách quay lại lần hai lần ba cùng nơi, việc này thường gọn hơn nhiều.
+Nếu bạn là khách mới hoặc lần đầu làm thủ tục kiểu này, đọc nhanh [thủ tục thuê xe máy cho người lần đầu đi thuê](/thue-xe/2026/10/10/thu-tuc-thue-xe-may-cho-nguoi-lan-dau-di-thue/) sẽ giúp bạn nắm các bước kiểm tra cần thiết. Với khách quay lại lần hai lần ba cùng nơi, việc này thường gọn hơn nhiều.
 
 Trước khi rời cửa hàng sau khi nhận lại xe, mở lại tin nhắn đã chốt lúc giao xe và đối chiếu nhanh ba mục: cách tính ngày, mức xăng, và các thỏa thuận nhỏ khác. Ba mươi giây đối chiếu đó chặn gần hết mọi tranh chấp có thể nảy sinh về sau.
 

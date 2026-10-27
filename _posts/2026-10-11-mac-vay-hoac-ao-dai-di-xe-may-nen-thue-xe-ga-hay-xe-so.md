@@ -34,7 +34,7 @@ Xe ga cũng không có tay côn và không cần đổi số. Hai bàn chân g�
 
 Nhược điểm cũng có. Yên xe ga thường rộng và đôi khi cao hơn bạn tưởng, nên nếu dáng người nhỏ, hãy thử xem hai chân chạm đất tới đâu. Một số dòng xe ga cũng nặng hơn xe số nhỏ, dắt lùi trong ngõ hẹp khi đang mặc váy sẽ vất vả hơn.
 
-Nếu lịch trình của bạn chủ yếu loanh quanh trong phố, bài về [cách chọn xe khi chỉ di chuyển trong nội thành](/hoi-dap/2026/09/29/chi-i-trong-noi-thanh-nen-thue-xe-may-loai-nao/) có thêm góc nhìn đáng đọc.
+Nếu lịch trình của bạn chủ yếu loanh quanh trong phố, bài về [cách chọn xe khi chỉ di chuyển trong nội thành](/hoi-dap/2026/09/29/chi-di-trong-noi-thanh-nen-thue-xe-may-loai-nao/) có thêm góc nhìn đáng đọc.
 
 ## Xe số khi mặc váy: dùng được, nhưng phải dè chừng ba chỗ
 

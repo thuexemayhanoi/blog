@@ -31,7 +31,7 @@ Gửi xe chung một chỗ cần nói rõ một câu duy nhất: cả nhóm gử
 
 Điểm cần nhất là giữ vé hoặc mấu vé của từng xe cho đúng người. Với nhóm đông, dễ xảy ra chuyện một người giữ hết vé nhưng lại đi đâu đó mua đồ, còn cả nhóm đứng chờ trước bãi. Giao vé ngay cho từng người, hoặc nếu gom một chỗ, hãy để trong cốp xe của một chiếc luôn ở lại sau cùng.
 
-Một thói quen tốt khác là cả nhóm dựng xe cùng hướng, gập gương, và khi lấy xe thì một hai người đứng giữ chỗ trống, còn lại dắt từng xe ra. Trật tự nhỏ này giúp nhóm không phải lùi năm xe giữa hàng đang chật, và người trông xe cũng cảm thông với nhóm biết co cụm. Khi gửi vào giờ cao điểm quanh Hồ Tây, kiểu bãi đông như mô tả trong bài [chạy quanh Hồ Tây, điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/) càng đáng để cả nhóm chuẩn bị trước.
+Một thói quen tốt khác là cả nhóm dựng xe cùng hướng, gập gương, và khi lấy xe thì một hai người đứng giữ chỗ trống, còn lại dắt từng xe ra. Trật tự nhỏ này giúp nhóm không phải lùi năm xe giữa hàng đang chật, và người trông xe cũng cảm thông với nhóm biết co cụm. Khi gửi vào giờ cao điểm quanh Hồ Tây, kiểu bãi đông như mô tả trong bài [chạy quanh Hồ Tây, điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-duong-chay-quanh-ho-tay-diem-dung-va-cho-gui-xe/) càng đáng để cả nhóm chuẩn bị trước.
 
 ## Hẹn điểm tập trung khi đi nhóm bằng xe máy
 

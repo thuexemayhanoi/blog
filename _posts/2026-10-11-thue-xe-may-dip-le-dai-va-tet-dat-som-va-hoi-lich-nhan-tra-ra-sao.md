@@ -27,7 +27,7 @@ Với dịp Tết, khoảng đặt nên sớm hơn nữa: nhiều khách trong t
 
 Ngày lễ không phải lúc nào cũng giữ nguyên giờ mở cửa. Bạn nên hỏi trước khung giờ nhận xe của những ngày nghỉ chính, khung giờ trả xe cuối kỳ, và nếu bạn trả muộn hơn giờ đóng quầy thì xe để lại theo cách nào, ai nhận, có cần báo trước không. Hai kỳ nghỉ có lịch khác thường nhất là Tết và dịp lễ tháng tư: có ngày cửa hàng mở muộn hơn, có ngày chỉ nhận tới giữa trưa. Hỏi rõ từng ngày giúp bạn sắp lịch trình quanh các giờ đó, thay vì bị bất ngờ ở khâu cuối cùng, và phần [nhận và trả xe](/thue-xe/nhan-tra-xe/) mô tả sẵn các bước hoàn hợp đồng để bạn đối chiếu.
 
-Nếu kế hoạch thay đổi giữa kỳ nghỉ, chẳng hạn muốn trả sớm để kịp chuyến tàu về quê, hãy báo sớm để được hướng dẫn dời lịch thay vì vội vã. Cách báo dời lịch chuẩn đã được tóm tắt trong bài [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-oi-lich-nhan-xe/), giúp bạn giữ quyền lợi mà không làm rối lịch của cửa hàng trong những ngày bận nhất năm.
+Nếu kế hoạch thay đổi giữa kỳ nghỉ, chẳng hạn muốn trả sớm để kịp chuyến tàu về quê, hãy báo sớm để được hướng dẫn dời lịch thay vì vội vã. Cách báo dời lịch chuẩn đã được tóm tắt trong bài [bảo lưu và đổi lịch nhận xe](/thue-xe/2026/09/27/bao-luu-va-doi-lich-nhan-xe/), giúp bạn giữ quyền lợi mà không làm rối lịch của cửa hàng trong những ngày bận nhất năm.
 
 ## Đặt xe cho chuyến đi lễ dài: nên chọn dòng nào
 

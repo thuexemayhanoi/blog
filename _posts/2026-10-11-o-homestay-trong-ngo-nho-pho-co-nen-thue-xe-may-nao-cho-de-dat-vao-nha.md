@@ -35,7 +35,7 @@ Lúc chạy, người ta để ý độ êm và độ khỏe. Lúc dắt vào nh
 - **Sức nặng:** xe nhẹ thì nhấc bánh trước qua bậc không tốn sức, lúc lùi xe ra cũng đỡ phải gồng.
 - **Chân chống:** nhiều dòng xe có cả chân chống bên lẫn chân chống đứng. Chống đứng giữ xe thẳng nên dựng sát tường gọn hơn, nhưng gạt xe lên chống đứng cần lực, người nhẹ cân nên thử trước.
 
-Vì vậy, khi nhận xe đừng chỉ nổ máy chạy thử. Hãy tắt máy, dắt vài bước, đánh tay lái hết cỡ sang hai bên, thử lùi một đoạn rồi thử gạt chân chống. Xe nặng tay ngay trên nền phẳng ở cửa hàng thì trước bậc thềm sẽ còn nặng hơn nhiều. Nếu bạn thấp dáng hoặc nhẹ cân, hãy đọc thêm cách [chọn xe để chân chạm đất vững](/hoi-dap/2026/10/11/nguoi-duoi-1m55-nen-thue-xe-may-nao-e-chan-cham-at-vung/), vì xe vừa tầm người thì dắt cũng bớt vất vả.
+Vì vậy, khi nhận xe đừng chỉ nổ máy chạy thử. Hãy tắt máy, dắt vài bước, đánh tay lái hết cỡ sang hai bên, thử lùi một đoạn rồi thử gạt chân chống. Xe nặng tay ngay trên nền phẳng ở cửa hàng thì trước bậc thềm sẽ còn nặng hơn nhiều. Nếu bạn thấp dáng hoặc nhẹ cân, hãy đọc thêm cách [chọn xe để chân chạm đất vững](/hoi-dap/2026/10/11/nguoi-duoi-1m55-nen-thue-xe-may-nao-de-chan-cham-dat-vung/), vì xe vừa tầm người thì dắt cũng bớt vất vả.
 
 ## Xe nhỏ gọn cho homestay phố cổ: xe số hay xe tay ga dễ dắt hơn
 
@@ -47,7 +47,7 @@ Honda Wave thường nhẹ, thân gọn, tay lái hẹp, nên khi nhà có bậc
 
 ### Xe tay ga cỡ nhỏ như Honda Vision
 
-Honda Vision không cần đổi số, thân gọn và thuộc nhóm nhẹ trong các dòng tay ga, nên hợp với người [chỉ loanh quanh trong nội thành](/hoi-dap/2026/09/29/chi-i-trong-noi-thanh-nen-thue-xe-may-loai-nao/). Hãy để ý gương và phần ốp đầu xe chìa ra hai bên, vì chúng hay quệt vào khung cửa hoặc tường ngõ.
+Honda Vision không cần đổi số, thân gọn và thuộc nhóm nhẹ trong các dòng tay ga, nên hợp với người [chỉ loanh quanh trong nội thành](/hoi-dap/2026/09/29/chi-di-trong-noi-thanh-nen-thue-xe-may-loai-nao/). Hãy để ý gương và phần ốp đầu xe chìa ra hai bên, vì chúng hay quệt vào khung cửa hoặc tường ngõ.
 
 ### Xe tay ga thân lớn hơn như Honda Click, Honda Air Blade
 

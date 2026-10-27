@@ -50,7 +50,7 @@ Ba cách phòng ngừa. Một, đặt sớm hai ba ngày thay vì sát ngày, kh
 
 Nếu bạn đặt xe cho ngày lễ, hãy nhân mọi khung chờ lên gấp đôi: tin nhắn nhiều hơn, khách đông hơn, và lịch mở đóng cửa có thể thay đổi. Đặt sớm trước lễ là cách duy nhất giữ được sự chủ động cho lịch trình của mình.
 
-Với lần đầu thuê, bạn nên nắm sẵn các bước để khi cửa hàng trả lời là chốt được ngay, không phải hỏi đi hỏi lại: giấy tờ cần mang, cọc, mức xăng nhận trả. Bài về [thủ tục thuê xe máy cho người lần đầu đi thuê](/thue-xe/2026/10/10/thu-tuc-thue-xe-may-cho-nguoi-lan-au-i-thue/) tóm gọn các bước này.
+Với lần đầu thuê, bạn nên nắm sẵn các bước để khi cửa hàng trả lời là chốt được ngay, không phải hỏi đi hỏi lại: giấy tờ cần mang, cọc, mức xăng nhận trả. Bài về [thủ tục thuê xe máy cho người lần đầu đi thuê](/thue-xe/2026/10/10/thu-tuc-thue-xe-may-cho-nguoi-lan-dau-di-thue/) tóm gọn các bước này.
 
 Cuối cùng, hãy chụp lại tin nhắn đặt xe đã gửi: nếu hai bên trao đổi tiếp qua kênh khác, nội dung gốc vẫn giúp bạn không phải nhắc lại yêu cầu từ đầu, tiết kiệm thời gian của cả hai phía.
 

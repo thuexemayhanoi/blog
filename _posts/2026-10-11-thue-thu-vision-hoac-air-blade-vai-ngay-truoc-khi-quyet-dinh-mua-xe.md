@@ -38,7 +38,7 @@ Hôm nay hãy chở đúng thứ bạn thường chở: balo, túi đồ đi ch�
 
 Ra đoạn đê ven sông Hồng hoặc một vòng Hồ Tây để thử đường thoáng. Chú ý xe có ổn định khi tăng tốc nhẹ không, tay lái có rung không, gió ngang có làm xe chao không, và ga còn đủ lực khi chở thêm người không.
 
-Chạy thử không phải để xem xe phóng nhanh tới đâu. Hãy đội mũ bảo hiểm cài quai, giữ tốc độ theo biển báo, và nếu thấy phanh, ga hay tiếng máy bất thường thì dừng xe, [báo cửa hàng trước khi tự xử lý](/thue-xe/2026/10/11/xe-thue-thung-lop-hay-chet-may-giua-uong-bao-cua-hang-truoc-hay-tu-sua/).
+Chạy thử không phải để xem xe phóng nhanh tới đâu. Hãy đội mũ bảo hiểm cài quai, giữ tốc độ theo biển báo, và nếu thấy phanh, ga hay tiếng máy bất thường thì dừng xe, [báo cửa hàng trước khi tự xử lý](/thue-xe/2026/10/11/xe-thue-thung-lop-hay-chet-may-giua-duong-bao-cua-hang-truoc-hay-tu-sua/).
 
 ## Hai mẫu xe, hai câu hỏi cần trả lời
 

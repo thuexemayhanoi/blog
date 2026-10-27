@@ -32,7 +32,7 @@ Hãy hỏi trước khi đặt phòng hoặc trước khi mang xe tới, đừng
 
 Khi nghe "được", hãy hỏi thêm: cắm sạc ở khu vực nào, có ổ cắm riêng trên tường hay phải dùng ổ cắm kéo dài, sáng mai mấy giờ cần rút sạc?
 
-Ở khu phố cổ, nhiều khách sạn nhỏ trong ngõ chỉ có khoảng sảnh hẹp, xe dựng sát cầu thang. Đó là chỗ không nên sạc, dù lễ tân dễ tính đến đâu, vì xe và dây sạc nằm đúng lối đi duy nhất của khách. Bài về [cách giữ xe ở khách sạn và nhà nghỉ](/ky-nang/2026/10/01/gui-xe-o-khach-san-va-nha-nghi-khi-i-xe-may/) có thêm cách xem bãi để xe trước khi nhận phòng.
+Ở khu phố cổ, nhiều khách sạn nhỏ trong ngõ chỉ có khoảng sảnh hẹp, xe dựng sát cầu thang. Đó là chỗ không nên sạc, dù lễ tân dễ tính đến đâu, vì xe và dây sạc nằm đúng lối đi duy nhất của khách. Bài về [cách giữ xe ở khách sạn và nhà nghỉ](/ky-nang/2026/10/01/gui-xe-o-khach-san-va-nha-nghi-khi-di-xe-may/) có thêm cách xem bãi để xe trước khi nhận phòng.
 
 ## Sạc xe điện trong hầm chung cư: khó hơn bạn nghĩ
 
@@ -75,7 +75,7 @@ Nếu xe được dắt vào trong nhà, đừng đặt sát giường hay trong
 Hai bạn thuê xe đạp điện đi quanh Hồ Tây buổi chiều, rồi về khách sạn trong ngõ phố cổ thì lễ tân báo không có chỗ sạc, trong khi pin còn ít. Sáng mai cả hai phải đổi kế hoạch, điều tránh được nếu tính pin từ lúc chọn chỗ nghỉ.
 
 - **Sạc vào ban ngày, khi bạn ở cạnh xe**, tại nơi chủ cho phép rõ ràng như quán hay cửa hàng đồng ý cho cắm.
-- **Hỏi tách bạch hai chuyện.** Bãi giữ xe có thể nhận xe qua đêm mà không có chỗ sạc. Xem thêm [lưu ý khi gửi xe qua đêm ở khu phố cổ](/ky-nang/2026/09/30/gui-xe-qua-em-o-pho-co-ha-noi-gia-va-luu-y/) để biết nên hỏi gì.
+- **Hỏi tách bạch hai chuyện.** Bãi giữ xe có thể nhận xe qua đêm mà không có chỗ sạc. Xem thêm [lưu ý khi gửi xe qua đêm ở khu phố cổ](/ky-nang/2026/09/30/gui-xe-qua-dem-o-pho-co-ha-noi-gia-va-luu-y/) để biết nên hỏi gì.
 - **Để lịch trình hôm sau nhẹ hơn.** Chọn điểm gần, quay về sớm, đừng để pin cạn giữa đường.
 
 Còn những việc nên tránh hẳn: cắm nhờ ổ điện hành lang hoặc nhà dân khi chưa xin phép, kéo dây qua cửa sổ xuống sảnh, hoặc tự tháo pin xách lên phòng khi chưa được hướng dẫn.

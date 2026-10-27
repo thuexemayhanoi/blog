@@ -52,7 +52,7 @@ Cắm sẵn chìa trên ổ khóa gần như mời người lạ lấy xe. Nổ 
 
 Để chìa trong cốp nghe khôn hơn nhưng thường lại là cái bẫy khác. Tùy dòng xe, đóng sập cốp khi chìa còn bên trong có thể khiến bạn tự nhốt chìa, phải báo cửa hàng cho thuê rồi nhờ thợ xử lý ngay giữa buổi tập. Cốp cũng không phải két sắt, và đó là chỗ giấu quen thuộc mà người xấu biết rõ.
 
-Đừng giấu chìa dưới yên hay bụi cây gần chỗ đỗ. Ai đứng gần thấy bạn cúi xuống giấu là biết chỗ nào để tìm. Muốn bảo vệ xe đúng cách, hãy đọc thêm [khóa xe và cách chọn chỗ đỗ khi thuê xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/), còn chìa thì mang theo người hoặc cất vào tủ.
+Đừng giấu chìa dưới yên hay bụi cây gần chỗ đỗ. Ai đứng gần thấy bạn cúi xuống giấu là biết chỗ nào để tìm. Muốn bảo vệ xe đúng cách, hãy đọc thêm [khóa xe và cách chọn chỗ đỗ khi thuê xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/), còn chìa thì mang theo người hoặc cất vào tủ.
 
 ## Ba tình huống ở Hà Nội và cách xử lý
 
