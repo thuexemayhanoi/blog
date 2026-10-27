@@ -17,7 +17,7 @@ writer_session: s-claude-w3
 
 Một đoàn tàu chạy chậm trên khung thép hơn trăm tuổi, tiếng bánh sắt dội xuống mặt sông Hồng: đó là khoảnh khắc nhiều người muốn tận mắt thấy và chụp lại. Muốn xem tàu qua cầu Long Biên cho trọn vẹn, bạn cần làm đúng ba việc: biết giờ tàu từ nguồn đáng tin, để xe máy ở chỗ có người trông, và đứng chờ ở nơi nằm ngoài phạm vi an toàn của đường sắt. Hai lỗi hay gặp nhất là dừng xe giữa làn trên cầu để chờ, và bước lại gần đường ray để lấy góc chụp. Bài này chỉ cách tránh cả hai.
 
-Lối lên cầu từ phía phố cổ đã có trong bài [từ phố cổ lên cầu Long Biên bằng xe máy](/du-lich/2026/10/15/tu-pho-co-len-cau-long-bien-bang-xe-may-loi-len-cau-cho-long-bien-va-cho-dung-ch/), câu chuyện của cây cầu có trong bài [lịch sử cầu Long Biên](/du-lich/2026/10/11/lich-su-cau-long-bien-va-nhung-iem-nen-dung-khi-i-qua-bang-xe-may/). Ở đây chỉ bàn chuyện chờ tàu.
+Lối lên cầu từ phía phố cổ đã có trong bài [từ phố cổ lên cầu Long Biên bằng xe máy](/du-lich/2026/10/15/tu-pho-co-len-cau-long-bien-bang-xe-may-loi-len-cau-cho-long-bien-va-cho-dung-ch/), câu chuyện của cây cầu có trong bài [lịch sử cầu Long Biên](/du-lich/2026/10/11/lich-su-cau-long-bien-va-nhung-diem-nen-dung-khi-di-qua-bang-xe-may/). Ở đây chỉ bàn chuyện chờ tàu.
 
 ## Trước khi xem tàu qua cầu Long Biên: tra lịch ở kênh chính thức
 
@@ -73,7 +73,7 @@ Nếu đi cùng trẻ nhỏ, người lớn tuổi, hoặc muốn chụp trọn 
 3. Dừng, đỗ xe máy giữa làn trên cầu hay trên dốc dẫn để chờ tàu.
 4. Bỏ qua tiếng còi tàu, tín hiệu hay lời nhắc của nhân viên đường sắt.
 
-Nếu đường về đi qua các điểm đường sắt cắt ngang đường bộ, cách dừng và quan sát được nói trong bài [qua đường ray xe lửa: dừng, nhìn và canh barrier](/ky-nang/2026/10/10/qua-uong-ray-xe-lua-dung-nhin-va-canh-barrier/).
+Nếu đường về đi qua các điểm đường sắt cắt ngang đường bộ, cách dừng và quan sát được nói trong bài [qua đường ray xe lửa: dừng, nhìn và canh barrier](/ky-nang/2026/10/10/qua-duong-ray-xe-lua-dung-nhin-va-canh-barrier/).
 
 ## Chọn thời điểm và chuẩn bị cho buổi chờ
 

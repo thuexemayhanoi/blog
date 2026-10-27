@@ -41,7 +41,7 @@ Từ khu Ciputra, bạn theo Lạc Long Quân chạy về phía nam tới khu v�
 - Đoạn gần chợ Bưởi hẹp và nhiều ngã rẽ, xe máy dồn cục ở nút giao.
 - Có nhiều ngõ nhỏ đổ ra đường, người và xe thò đầu ra bất ngờ.
 
-Ai chưa quen khu này, chạy thử một vòng lúc vắng trước. Bài [cung đường sáng sớm quanh Hồ Tây cho người mới chạy](/cung-duong/2026/10/10/cung-uong-sang-som-quanh-ho-tay-cho-nguoi-moi-chay/) giúp bạn nắm các lối rẽ quanh hồ.
+Ai chưa quen khu này, chạy thử một vòng lúc vắng trước. Bài [cung đường sáng sớm quanh Hồ Tây cho người mới chạy](/cung-duong/2026/10/10/cung-duong-sang-som-quanh-ho-tay-cho-nguoi-moi-chay/) giúp bạn nắm các lối rẽ quanh hồ.
 
 ## Trục Hoàng Quốc Việt – Đội Cấn: đường lớn rồi phố cũ
 

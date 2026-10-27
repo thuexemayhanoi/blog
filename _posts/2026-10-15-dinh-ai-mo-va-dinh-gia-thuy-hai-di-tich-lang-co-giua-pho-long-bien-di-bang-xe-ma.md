@@ -42,7 +42,7 @@ Cả hai đình đều nằm không xa trục Nguyễn Văn Cừ, con đường 
 3. **Sang đình Gia Thụy.** Quay ra phố Bồ Đề để lên Nguyễn Văn Cừ, rồi theo bản đồ vào khu dân cư Gia Thụy. Tìm đúng tên "đình Gia Thụy" trên Google Maps để bản đồ chọn ngõ vào hợp lý, tránh đi theo ngõ cụt.
 4. **Kết thúc buổi sáng ở quán quanh đó** rồi về nhà trước giờ trưa nắng.
 
-Cả quãng nối hai đình ngắn, phần tốn thời gian nhất là tìm ngõ và dắt xe chứ không phải chạy trên đường lớn. Nếu bạn thuê xe ở tiệm tại 112 Nguyễn Văn Cừ, Bồ Đề (mở cửa 09:00–21:00), cả hai đình đều nằm trong khu lân cận, nhưng vẫn nên mở bản đồ trước khi đi. Muốn hình dung trục đường này, xem bài [Nguyễn Văn Cừ buổi sáng: dừng ăn và gửi xe dọc đường](/du-lich/2026/10/04/nguyen-van-cu-buoi-sang-dung-an-va-gui-xe-doc-uong/).
+Cả quãng nối hai đình ngắn, phần tốn thời gian nhất là tìm ngõ và dắt xe chứ không phải chạy trên đường lớn. Nếu bạn thuê xe ở tiệm tại 112 Nguyễn Văn Cừ, Bồ Đề (mở cửa 09:00–21:00), cả hai đình đều nằm trong khu lân cận, nhưng vẫn nên mở bản đồ trước khi đi. Muốn hình dung trục đường này, xem bài [Nguyễn Văn Cừ buổi sáng: dừng ăn và gửi xe dọc đường](/du-lich/2026/10/04/nguyen-van-cu-buoi-sang-dung-an-va-gui-xe-doc-duong/).
 
 ## Dừng xe trước cổng đình cho tôn trọng
 
@@ -68,7 +68,7 @@ Một vài điều nên nhớ khi tham quan:
 - Nếu muốn công đức, đặt vào hòm công đức, không cài tiền lên tay tượng.
 - Gặp lúc làng đang làm lễ, đứng lùi ra phía sau và chờ xong mới tham quan tiếp.
 
-Các lưu ý khi chở đồ lễ hoặc mâm lễ trên xe máy có trong bài [chở đồ đi lễ chùa, đền nằm trên xe máy](/ky-nang/2026/10/04/cho-o-i-le-chua-au-nam-tren-xe-may/).
+Các lưu ý khi chở đồ lễ hoặc mâm lễ trên xe máy có trong bài [chở đồ đi lễ chùa, đền nằm trên xe máy](/ky-nang/2026/10/04/cho-do-di-le-chua-dau-nam-tren-xe-may/).
 
 ## Nên đi vào lúc nào
 

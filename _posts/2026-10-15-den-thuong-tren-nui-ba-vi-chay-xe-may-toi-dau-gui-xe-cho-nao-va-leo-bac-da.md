@@ -41,7 +41,7 @@ Bãi xe trên cao là chỗ duy nhất nên để xe trước khi lên đền. �
 2. Khóa cổ, rút chìa, chụp ảnh xe kèm biển số và vị trí bãi.
 3. Đồ lễ, nước uống, áo ấm cho vào ba lô đeo hai vai để rảnh tay vịn lan can.
 
-Ngày rằm, mùng một hay mùa lễ đầu năm, bãi kín sớm. Nếu tới muộn mà bãi đầy, làm theo hướng dẫn của người trông và nhân viên vườn, không tự đỗ chen vào lối đi. Những điều cơ bản về gửi xe ở cổng vườn và giờ vườn mát được gom ở bài [đến Vườn quốc gia Ba Vì bằng xe máy](/du-lich/2026/09/28/en-vuon-quoc-gia-ba-vi-bang-xe-may-gui-xe-va-uong-i/).
+Ngày rằm, mùng một hay mùa lễ đầu năm, bãi kín sớm. Nếu tới muộn mà bãi đầy, làm theo hướng dẫn của người trông và nhân viên vườn, không tự đỗ chen vào lối đi. Những điều cơ bản về gửi xe ở cổng vườn và giờ vườn mát được gom ở bài [đến Vườn quốc gia Ba Vì bằng xe máy](/du-lich/2026/09/28/den-vuon-quoc-gia-ba-vi-bang-xe-may-gui-xe-va-duong-di/).
 
 ## Leo đền Thượng Ba Vì: bậc đá và sức đi bộ cần có
 
@@ -59,7 +59,7 @@ Người có bệnh tim mạch, đau khớp gối hay mới ốm dậy nên cân
 
 Khí hậu trên đỉnh Ba Vì khác hẳn dưới đồng bằng. Mùa thu đông, sương và mây phủ đoạn trên cốt 400 rất thường xuyên, có hôm tầm nhìn chỉ vài chục mét. Chiều muộn sương càng dày, đường đèo tối nhanh hơn ngoài thành phố. Vì vậy, cách tính giờ an toàn là lễ xong trước buổi chiều muộn và xuống tới chân núi khi trời còn sáng rõ.
 
-Khi chạy trong sương: bật đèn chiếu gần, không bật pha vì pha phản sáng vào sương làm lóa mắt, giảm tốc và bám bên phải làn. Kính mũ bảo hiểm đọng hơi nước thì lau bằng khăn khô, đừng hé kính ra khi đang chạy nhanh. Các kỹ năng giữ khoảng cách trong sương được nói kỹ ở bài [sương mù sáng sớm trên đường đèo](/ky-nang/2026-09-29/suong-mu-sang-som-tren-uong-eo/).
+Khi chạy trong sương: bật đèn chiếu gần, không bật pha vì pha phản sáng vào sương làm lóa mắt, giảm tốc và bám bên phải làn. Kính mũ bảo hiểm đọng hơi nước thì lau bằng khăn khô, đừng hé kính ra khi đang chạy nhanh. Các kỹ năng giữ khoảng cách trong sương được nói kỹ ở bài [sương mù sáng sớm trên đường đèo](/ky-nang/2026-09-29/suong-mu-sang-som-tren-duong-deo/).
 
 ## Xuống núi: giữ số thấp, rà phanh, không bóp chết
 

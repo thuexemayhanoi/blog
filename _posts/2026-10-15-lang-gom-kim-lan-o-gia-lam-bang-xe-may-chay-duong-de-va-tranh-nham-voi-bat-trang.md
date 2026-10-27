@@ -37,11 +37,11 @@ Dễ nhất là coi Kim Lan như điểm cuối của chuyến Bát Tràng, ch�
 
 ### Đoạn Long Biên tới Cự Khối
 
-Từ khu Bồ Đề hay Nguyễn Văn Cừ ở Long Biên, bạn đi về phía chân cầu Chương Dương hoặc cầu Long Biên rồi tìm lối lên đê tả ngạn, chạy xuôi về phía Thạch Bàn, Cự Khối. Ai chưa quen đoạn đê buổi chiều có thể xem thêm bài [chạy xe máy trên đường đê Gia Lâm](/du-lich/2026/10/04/chay-xe-may-tren-uong-e-gia-lam-buoi-chieu-loi-len-e-va-iem-dung/) để biết các lối lên xuống và chỗ dừng.
+Từ khu Bồ Đề hay Nguyễn Văn Cừ ở Long Biên, bạn đi về phía chân cầu Chương Dương hoặc cầu Long Biên rồi tìm lối lên đê tả ngạn, chạy xuôi về phía Thạch Bàn, Cự Khối. Ai chưa quen đoạn đê buổi chiều có thể xem thêm bài [chạy xe máy trên đường đê Gia Lâm](/du-lich/2026/10/04/chay-xe-may-tren-duong-de-gia-lam-buoi-chieu-loi-len-de-va-diem-dung/) để biết các lối lên xuống và chỗ dừng.
 
 ### Qua Bát Tràng
 
-Càng tới gần Bát Tràng, biển chỉ đường về làng gốm xuất hiện dày hơn, đường đông lên vì xe khách, xe chở hàng và người đi chợ gốm. Nếu muốn ghé Bát Tràng trước, cách gửi xe và chọn khúc chạy đã có trong bài [làng gốm Bát Tràng bằng xe máy từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-uong-i-va-gui-xe/). Nếu chỉ đi ngang, giữ tốc độ chậm vì nhiều người đi bộ băng qua đường.
+Càng tới gần Bát Tràng, biển chỉ đường về làng gốm xuất hiện dày hơn, đường đông lên vì xe khách, xe chở hàng và người đi chợ gốm. Nếu muốn ghé Bát Tràng trước, cách gửi xe và chọn khúc chạy đã có trong bài [làng gốm Bát Tràng bằng xe máy từ Long Biên](/du-lich/2026/10/04/lang-gom-bat-trang-bang-xe-may-tu-long-bien-duong-di-va-gui-xe/). Nếu chỉ đi ngang, giữ tốc độ chậm vì nhiều người đi bộ băng qua đường.
 
 ### Xuôi xuống đất Kim Lan
 
@@ -57,7 +57,7 @@ Từ Bát Tràng, đặt điểm đến trên Google Maps là đình làng Kim L
 4. **Bật đèn và bấm còi nhẹ trước khúc cua khuất.** Trẻ con đạp xe từ ngõ lên đê là chuyện thường gặp.
 5. **Tránh đi khi mưa to hoặc ngay sau mưa.** Đất bùn từ bánh xe tải trộn với nước làm mặt đường trơn.
 
-Vị trí đặt xe khi chạy cạnh thùng xe lớn và các điểm mù cần tránh được giải thích kỹ trong bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-iem-mu/).
+Vị trí đặt xe khi chạy cạnh thùng xe lớn và các điểm mù cần tránh được giải thích kỹ trong bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-diem-mu/).
 
 ## Đến nơi: chỗ để xe và cách xem làng gốm cổ Kim Lan
 
@@ -69,7 +69,7 @@ Kim Lan không có bãi gửi xe lớn kiểu khu du lịch. Cách hợp lý nh�
 
 Cách xem gốm dễ chịu nhất là đi bộ dọc đường vào làng, nhìn hàng bày hai bên rồi chọn một vài cơ sở để hỏi chuyện. Gốm ở đây thiên về đồ dùng hằng ngày, dáng mộc, ít cầu kỳ. Nếu muốn vào trong xưởng xem đổ khuôn, phơi mộc hay nung, hãy hỏi chủ nhà trước, vì đó là nơi làm việc chứ không phải điểm tham quan.
 
-Mua gốm về bằng xe máy, ưu tiên món vừa tầm, xin chủ hàng chèn rơm, giấy hoặc bìa và buộc chắc. Cách đóng gói và buộc đồ lên xe đã được hướng dẫn cụ thể trong bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-o-gom-bat-trang-ve-bang-xe-may-cach-ong-goi-va-buoc-o/), áp dụng y nguyên cho hàng Kim Lan. Chum vại lớn thì hỏi cơ sở gửi xe hàng, đừng cố chở.
+Mua gốm về bằng xe máy, ưu tiên món vừa tầm, xin chủ hàng chèn rơm, giấy hoặc bìa và buộc chắc. Cách đóng gói và buộc đồ lên xe đã được hướng dẫn cụ thể trong bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-do-gom-bat-trang-ve-bang-xe-may-cach-dong-goi-va-buoc-do/), áp dụng y nguyên cho hàng Kim Lan. Chum vại lớn thì hỏi cơ sở gửi xe hàng, đừng cố chở.
 
 ## Giờ đi và cách ghép buổi cho hợp lý
 

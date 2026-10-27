@@ -32,11 +32,11 @@ Bên trong có siêu thị, khu ăn uống, rạp chiếu phim, khu vui chơi v�
 3. Tới khu dốc Bưởi, nối sang Lạc Long Quân, đi tiếp về phía bắc dọc bờ tây của hồ.
 4. Gần tới Phú Thượng, bật dẫn đường để bám đúng lối vào trung tâm thương mại.
 
-Tuyến này nhiều cây, nhiều mốc dễ nhớ, tốc độ dòng xe vừa phải. Đổi lại, Thụy Khuê và Lạc Long Quân có đoạn hẹp, nhiều quán xá, chiều tối đông. Ai chưa quen khu này nên chạy thử một vòng trước theo [cung đường quanh Hồ Tây cho người mới](/cung-duong/2026/10/10/cung-uong-sang-som-quanh-ho-tay-cho-nguoi-moi-chay/).
+Tuyến này nhiều cây, nhiều mốc dễ nhớ, tốc độ dòng xe vừa phải. Đổi lại, Thụy Khuê và Lạc Long Quân có đoạn hẹp, nhiều quán xá, chiều tối đông. Ai chưa quen khu này nên chạy thử một vòng trước theo [cung đường quanh Hồ Tây cho người mới](/cung-duong/2026/10/10/cung-duong-sang-som-quanh-ho-tay-cho-nguoi-moi-chay/).
 
 ### Hướng Cầu Giấy: lên đường Võ Chí Công
 
-Nếu bạn đang ở Cầu Giấy, Kim Mã hay khu Xuân Thủy, hãy ra Hoàng Quốc Việt, tới nút giao với Võ Chí Công thì rẽ vào, chạy về hướng cầu Nhật Tân. Trung tâm thương mại nằm bên đường này, nhà cao, dễ thấy từ xa. Muốn quen dần trục Cầu Giấy và Hồ Tây trước, xem bài [chạy thử xe máy qua Cầu Giấy và Hồ Tây](/cung-duong/2026/10/10/cung-uong-chay-thu-xe-may-qua-cau-giay-va-ho-tay/).
+Nếu bạn đang ở Cầu Giấy, Kim Mã hay khu Xuân Thủy, hãy ra Hoàng Quốc Việt, tới nút giao với Võ Chí Công thì rẽ vào, chạy về hướng cầu Nhật Tân. Trung tâm thương mại nằm bên đường này, nhà cao, dễ thấy từ xa. Muốn quen dần trục Cầu Giấy và Hồ Tây trước, xem bài [chạy thử xe máy qua Cầu Giấy và Hồ Tây](/cung-duong/2026/10/10/cung-duong-chay-thu-xe-may-qua-cau-giay-va-ho-tay/).
 
 ## Đường Võ Chí Công xe máy chạy thế nào
 

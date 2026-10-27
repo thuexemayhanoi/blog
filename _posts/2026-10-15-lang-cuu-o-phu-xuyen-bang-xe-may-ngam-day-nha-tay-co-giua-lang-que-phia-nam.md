@@ -33,7 +33,7 @@ Nhiều mảng tường đã bong lớp vữa, lộ gạch đỏ, rêu bám châ
 
 ## Lộ trình xe máy: đi quốc lộ 1A cũ, tuyệt đối không vào cao tốc
 
-Đây là phần quan trọng nhất của chuyến đi. Phía nam Hà Nội có cao tốc Pháp Vân – Cầu Giẽ chạy gần như song song với quốc lộ 1A cũ. Cao tốc cấm xe máy, nên bạn phải đi đường quốc lộ cũ suốt chặng. Nếu chưa rõ vì sao và nhận diện biển báo thế nào, đọc trước bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Đây là phần quan trọng nhất của chuyến đi. Phía nam Hà Nội có cao tốc Pháp Vân – Cầu Giẽ chạy gần như song song với quốc lộ 1A cũ. Cao tốc cấm xe máy, nên bạn phải đi đường quốc lộ cũ suốt chặng. Nếu chưa rõ vì sao và nhận diện biển báo thế nào, đọc trước bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 ### Từ Long Biên ra trục phía nam
 

@@ -62,7 +62,7 @@ Nguyên tắc: **xe phải nằm ngoài phần đường xe chạy**. Dựng xe 
 Các lựa chọn theo thứ tự nên ưu tiên:
 
 - **Chỗ để xe của quán, có người trông.** Nhận vé hoặc ghi nhớ người trông xe, khóa cổ, rút chìa. Nếu không thấy bảng giá gửi xe, hỏi rõ trước khi đưa xe.
-- **Bãi gửi xe trong khu thương mại.** Ví dụ khu tầng hầm ở AEON Mall Long Biên, có lối riêng cho xe hai bánh; cách đi vào hầm đã có trong bài [AEON Mall Long Biên bằng xe máy](/du-lich/2026/10/11/aeon-mall-long-bien-bang-xe-may-uong-i-va-vao-ham-gui-xe/).
+- **Bãi gửi xe trong khu thương mại.** Ví dụ khu tầng hầm ở AEON Mall Long Biên, có lối riêng cho xe hai bánh; cách đi vào hầm đã có trong bài [AEON Mall Long Biên bằng xe máy](/du-lich/2026/10/11/aeon-mall-long-bien-bang-xe-may-duong-di-va-vao-ham-gui-xe/).
 - **Bãi trông xe gần quán.** Hỏi bảo vệ khu nhà hoặc người bán hàng quanh đó.
 
 Không để xe ở lòng đường, góc rẽ, trước lối ra vào ngõ hay chắn lối người đi bộ. Đồ có giá trị đừng để lại trong giỏ xe hay treo ở móc.
@@ -76,10 +76,10 @@ Một lịch trình gọn cho nhóm bạn hoặc gia đình ở phía Bồ Đề
 3. Gửi xe một chỗ có người trông, ăn xong đi bộ sang quán cà phê nếu gần.
 4. Về trước khi quá khuya, lúc xe tải bắt đầu nhiều hơn trên các trục lớn.
 
-Nếu chưa quen phía đông, bài [Nguyễn Văn Cừ buổi sáng: dừng ăn và gửi xe dọc đường](/du-lich/2026/10/04/nguyen-van-cu-buoi-sang-dung-an-va-gui-xe-doc-uong/) giúp bạn hình dung trục đường lớn còn lại của khu này.
+Nếu chưa quen phía đông, bài [Nguyễn Văn Cừ buổi sáng: dừng ăn và gửi xe dọc đường](/du-lich/2026/10/04/nguyen-van-cu-buoi-sang-dung-an-va-gui-xe-doc-duong/) giúp bạn hình dung trục đường lớn còn lại của khu này.
 
 ## Về nhà an toàn sau bữa tối
 
-Đường vắng về khuya dễ khiến người lái tăng ga. Giữ tốc độ vừa phải, cẩn thận ở đoạn công trình có rào chắn và mặt đường vá; trời mưa thì vạch sơn, nắp cống rất trơn. Nếu cả nhóm có uống bia rượu, đừng cầm lái; cách xử lý xe trong trường hợp này có trong bài [để xe qua đêm và lấy xe sáng hôm sau](/ky-nang/2026/10/11/lo-uong-ruou-bia-buoi-toi-e-xe-lai-qua-em-va-lay-xe-sang-hom-sau/).
+Đường vắng về khuya dễ khiến người lái tăng ga. Giữ tốc độ vừa phải, cẩn thận ở đoạn công trình có rào chắn và mặt đường vá; trời mưa thì vạch sơn, nắp cống rất trơn. Nếu cả nhóm có uống bia rượu, đừng cầm lái; cách xử lý xe trong trường hợp này có trong bài [để xe qua đêm và lấy xe sáng hôm sau](/ky-nang/2026/10/11/lo-uong-ruou-bia-buoi-toi-de-xe-lai-qua-dem-va-lay-xe-sang-hom-sau/).
 
 Một buổi tối trên Cổ Linh sẽ dễ chịu hơn nhiều khi bạn vào làn sát lề sớm, rẽ vào quán chậm và rõ ràng, để xe ở chỗ có người trông thay vì lòng đường. Muốn tìm thêm điểm đi chơi bên này sông, xem mục [Long Biên và Gia Lâm](/du-lich/long-bien/), còn các gợi ý khắp Hà Nội nằm trong chuyên mục [du lịch](/du-lich/).

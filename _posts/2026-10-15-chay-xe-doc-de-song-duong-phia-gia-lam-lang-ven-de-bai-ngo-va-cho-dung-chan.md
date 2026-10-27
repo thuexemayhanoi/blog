@@ -17,14 +17,14 @@ writer_session: s-claude-w3
 
 Ai thích cung đường quê ít xe mà không muốn đi xa khỏi Hà Nội thường nghĩ tới chuyến đê sông Đuống xe máy phía Gia Lâm: chỉ cần qua cầu Đuống là đã thấy mặt đê chạy giữa một bên là làng, một bên là bãi ngô và dòng sông. Đường đê ở đây không khó, nhưng có vài thứ người lần đầu hay bị bất ngờ: mặt đê hẹp, xe tải chở vật liệu, những con dốc dân sinh cắt ngang và những quãng gần như không có đèn khi trời tối.
 
-Đê sông Hồng đã có bài riêng về [khám phá đường đê sông Hồng bằng xe máy](/du-lich/2026/10/10/kham-pha-uong-e-song-hong-bang-xe-may/), vòng buổi sáng từ Long Biên có bài [cung đường ven sông Đuống chạy buổi sáng](/cung-duong/2026/10/10/cung-uong-ven-song-uong-tu-long-bien-chay-xe-buoi-sang/). Bài này chỉ bàn đoạn phía Gia Lâm.
+Đê sông Hồng đã có bài riêng về [khám phá đường đê sông Hồng bằng xe máy](/du-lich/2026/10/10/kham-pha-duong-de-song-hong-bang-xe-may/), vòng buổi sáng từ Long Biên có bài [cung đường ven sông Đuống chạy buổi sáng](/cung-duong/2026/10/10/cung-duong-ven-song-duong-tu-long-bien-chay-xe-buoi-sang/). Bài này chỉ bàn đoạn phía Gia Lâm.
 
 ## Lộ trình đê sông Đuống xe máy phía Gia Lâm: chọn đoạn nào
 
 Từ khu Bồ Đề, theo trục Ngô Gia Tự về hướng Đức Giang rồi qua cầu Đuống. Sang bờ bên kia, rẽ phải lên đê để đi xuôi dòng về phía Phù Đổng. Cung đường chia làm ba quãng:
 
 - **Quãng đầu, sát chân cầu Đuống.** Nhà cửa san sát, nhiều lối rẽ, xe ra vào kho bãi. Quãng cần tập trung, không phải để ngắm cảnh.
-- **Quãng giữa, về phía Phù Đổng.** Làng dày hơn, có đình, đền, chợ làng. Muốn ghé đền Gióng, xem bài [đền Phù Đổng bằng xe máy từ Long Biên](/du-lich/2026/10/11/en-phu-ong-bang-xe-may-tu-long-bien-uong-i-va-thoi-iem-nen-en/).
+- **Quãng giữa, về phía Phù Đổng.** Làng dày hơn, có đình, đền, chợ làng. Muốn ghé đền Gióng, xem bài [đền Phù Đổng bằng xe máy từ Long Biên](/du-lich/2026/10/11/den-phu-dong-bang-xe-may-tu-long-bien-duong-di-va-thoi-diem-nen-den/).
 - **Quãng xa, hướng Trung Mầu.** Dân cư thưa dần, bãi ven sông mở rộng, đúng chất đường quê. Đổi lại quán xá ít, tối xuống vắng hẳn.
 
 Trước khi đi, xem bản đồ ảnh vệ tinh và đánh dấu sẵn hai, ba điểm xuống đê ra đường lớn, để lúc mệt hay trời đổi mưa biết ngay chỗ rút.
@@ -51,7 +51,7 @@ Nhiều quãng đê chỉ vừa hai xe máy và một ô tô tránh nhau. Đi s�
 
 ### Xe tải trên đê
 
-Gần bến bãi ven sông, xe tải chở cát, đá, vật liệu chạy lên xuống đê khá thường xuyên. Gặp xe tải ngược chiều, giảm tốc sớm và tìm chỗ rộng để đứng chờ thay vì cố lách. Đi sau xe tải thì giữ khoảng cách đủ xa để thấy gương của tài xế và tránh bụi, đất rơi. Các vị trí điểm mù quanh xe lớn ở Gia Lâm được nói kỹ trong bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-iem-mu/).
+Gần bến bãi ven sông, xe tải chở cát, đá, vật liệu chạy lên xuống đê khá thường xuyên. Gặp xe tải ngược chiều, giảm tốc sớm và tìm chỗ rộng để đứng chờ thay vì cố lách. Đi sau xe tải thì giữ khoảng cách đủ xa để thấy gương của tài xế và tránh bụi, đất rơi. Các vị trí điểm mù quanh xe lớn ở Gia Lâm được nói kỹ trong bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-diem-mu/).
 
 ### Dốc lên xuống đê
 
@@ -68,7 +68,7 @@ Những chỗ dừng hợp lý hơn nhiều:
 3. **Sân đình, đền có người trông xe**, nhưng nhớ hỏi người trông trước khi để xe vào.
 4. **Cây xăng trên đường lớn gần đê**, chỗ nghỉ chắc chắn khi cần đổ xăng hay kiểm lại lốp.
 
-Nếu bắt buộc phải dừng nhanh để chụp ảnh, xem cách dựng xe trên đoạn có độ nghiêng trong bài [dừng xe máy trên đường dốc đê để chụp ảnh](/ky-nang/2026/10/11/dung-xe-may-tren-uong-doc-e-chup-anh-giu-xe-the-nao/).
+Nếu bắt buộc phải dừng nhanh để chụp ảnh, xem cách dựng xe trên đoạn có độ nghiêng trong bài [dừng xe máy trên đường dốc đê để chụp ảnh](/ky-nang/2026/10/11/dung-xe-may-tren-duong-doc-de-chup-anh-giu-xe-the-nao/).
 
 ## Về trước khi tối vì mặt đê thiếu sáng
 

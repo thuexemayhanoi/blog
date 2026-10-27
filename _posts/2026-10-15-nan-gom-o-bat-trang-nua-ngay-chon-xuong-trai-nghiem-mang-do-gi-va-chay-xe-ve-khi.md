@@ -78,7 +78,7 @@ Với xe ga, sàn để chân là chỗ thấp và ít rung nhất: đặt hộp
 
 Đường đê ven sông Hồng giữa Bát Tràng và Long Biên có đoạn hẹp, có ổ gà, gờ giảm tốc và xe tải chở vật liệu. Giữ tốc độ đều, nhả ga sớm trước gờ, phanh nhẹ và dài, ôm cua rộng. Nhường xe tải vượt thay vì cố bám theo. Cách giữ làn trên đường đê khi đi xe ga được nói kỹ trong bài [đi Bát Tràng bằng Air Blade thuê](/xe-may/2026/10/14/di-lang-gom-bat-trang-bang-honda-air-blade-thue-qua-song-hong-duong-de-va-cho-do/).
 
-Nếu bạn mua thêm bát đĩa đã nung, cách đóng gói và buộc đồ có trong bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-o-gom-bat-trang-ve-bang-xe-may-cach-ong-goi-va-buoc-o/).
+Nếu bạn mua thêm bát đĩa đã nung, cách đóng gói và buộc đồ có trong bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-do-gom-bat-trang-ve-bang-xe-may-cach-dong-goi-va-buoc-do/).
 
 ## Sắp xếp nửa ngày cho gọn
 

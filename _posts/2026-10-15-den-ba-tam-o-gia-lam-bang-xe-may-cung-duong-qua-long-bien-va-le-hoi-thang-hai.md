@@ -45,7 +45,7 @@ Từ Nguyễn Văn Linh, đường chạy qua Sài Đồng, Phúc Đồng rồi 
 - Bật xi nhan sớm trước mỗi chỗ rẽ, giảm tốc từ xa vì xe sau thường chạy nhanh.
 - Nếu ngại đường lớn, từ Trâu Quỳ có thể rẽ vào trục đường Ỷ Lan đi phía trong về Dương Xá, đường hẹp hơn nhưng dễ chịu hơn.
 
-Cách giữ khoảng cách và tránh điểm mù khi chạy cạnh xe tải trên đoạn này được viết kỹ ở bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-iem-mu/).
+Cách giữ khoảng cách và tránh điểm mù khi chạy cạnh xe tải trên đoạn này được viết kỹ ở bài [chạy xe máy cạnh xe tải và container ở Gia Lâm](/du-lich/2026/10/11/chay-xe-may-canh-xe-tai-va-container-o-gia-lam-vi-tri-an-toan-va-diem-mu/).
 
 ## Lễ hội tháng Hai: chọn ngày và giờ đi
 
