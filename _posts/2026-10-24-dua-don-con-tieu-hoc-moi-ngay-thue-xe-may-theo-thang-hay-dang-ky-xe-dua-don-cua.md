@@ -21,7 +21,7 @@ Thuê xe máy hay xe trường đưa đón là câu hỏi của nhiều phụ hu
 
 Hãy bắt đầu bằng việc viết ra lịch một ngày điển hình: giờ con vào học, giờ tan, giờ bố mẹ đi làm và về. Nếu giờ làm của cả hai bố mẹ trùng giờ đón con, xe trường thường giải quyết tốt vấn đề. Nếu một người có giờ linh hoạt, tự đưa đón có thể khả thi.
 
-Hãy tính cả các ngày khác thường: con ốm, trường nghỉ đột xuất, buổi ngoại khóa kết thúc muộn. Một phương án chỉ tốt trong ngày bình thường nhưng rối loạn khi có thay đổi thì cần cân nhắc thêm. Bài [Thuê theo ngày hay theo tháng cho người mới đến Hà Nội](/xe-may/2026/10/04/thue-theo-ngay-hay-theo-thang-cho-nguoi-moi-en-ha-noi/) nói thêm về chuyện chọn thời hạn thuê khi mới chuyển đến.
+Hãy tính cả các ngày khác thường: con ốm, trường nghỉ đột xuất, buổi ngoại khóa kết thúc muộn. Một phương án chỉ tốt trong ngày bình thường nhưng rối loạn khi có thay đổi thì cần cân nhắc thêm. Bài [Thuê theo ngày hay theo tháng cho người mới đến Hà Nội](/xe-may/2026/10/04/thue-theo-ngay-hay-theo-thang-cho-nguoi-moi-den-ha-noi/) nói thêm về chuyện chọn thời hạn thuê khi mới chuyển đến.
 
 ## Xe trường đưa đón: ưu điểm và những điều cần hỏi
 

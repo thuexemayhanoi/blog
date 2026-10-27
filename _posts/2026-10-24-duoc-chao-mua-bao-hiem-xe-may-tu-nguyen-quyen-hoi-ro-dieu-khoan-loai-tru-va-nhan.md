@@ -29,7 +29,7 @@ Nghị định cũng yêu cầu doanh nghiệp bảo hiểm giải thích rõ đ
 
 Luật Kinh doanh bảo hiểm nêu bên mua bảo hiểm có quyền yêu cầu doanh nghiệp bảo hiểm cung cấp bản yêu cầu bảo hiểm, bảng câu hỏi liên quan đến rủi ro, quy tắc, điều kiện, điều khoản bảo hiểm và giải thích các điều kiện, điều khoản đó. Ở chiều ngược lại, doanh nghiệp bảo hiểm có trách nhiệm cung cấp và giải thích rõ ràng, đầy đủ về quyền lợi bảo hiểm, điều khoản loại trừ, quyền và nghĩa vụ của bên mua khi giao kết hợp đồng.
 
-Nói gọn, bạn có quyền nhận bản điều khoản bằng chữ trước khi quyết định, và được giải thích những chỗ chưa hiểu. Hãy yêu cầu bản điều khoản đầy đủ, không chỉ tờ gấp quảng cáo. Nếu người chào mời từ chối đưa bản điều khoản hoặc nói "không cần đọc", đó là dấu hiệu nên dừng lại. Bài [bảo hiểm tự nguyện cho xe máy có đáng không](/an-toan-phap-ly/2026/09/28/bao-hiem-tu-nguyen-cho-xe-may-co-ang-khong/) giúp bạn cân nhắc có nên mua hay không.
+Nói gọn, bạn có quyền nhận bản điều khoản bằng chữ trước khi quyết định, và được giải thích những chỗ chưa hiểu. Hãy yêu cầu bản điều khoản đầy đủ, không chỉ tờ gấp quảng cáo. Nếu người chào mời từ chối đưa bản điều khoản hoặc nói "không cần đọc", đó là dấu hiệu nên dừng lại. Bài [bảo hiểm tự nguyện cho xe máy có đáng không](/an-toan-phap-ly/2026/09/28/bao-hiem-tu-nguyen-cho-xe-may-co-dang-khong/) giúp bạn cân nhắc có nên mua hay không.
 
 ## Điều khoản loại trừ: phải rõ, được giải thích và có bằng chứng
 

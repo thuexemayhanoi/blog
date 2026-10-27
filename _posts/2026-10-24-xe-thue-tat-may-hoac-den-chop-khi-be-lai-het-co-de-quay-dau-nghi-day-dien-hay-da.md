@@ -39,7 +39,7 @@ Bài [dắt xe máy bằng tay khi tắt máy](/ky-nang/2026/10/15/dat-xe-may-ba
 
 Rất dễ cám dỗ khi thấy nghi dây điện kẹt ở cổ lái mà tháo ốp đầu xe ra xem. Việc đó không nên: ốp đầu xe có nhiều ngàm nhựa dễ gãy, bên dưới là đầu nối điện, công tắc và dây ga, tháo ráp sai có thể làm hỏng nặng hơn. Nếu xe của tiệm bị hư do bạn tháo, bạn dễ phải chịu trách nhiệm về phần hư thêm.
 
-Thay vào đó, hãy chụp ảnh hoặc quay video ngắn sự cố nếu có thể, ví dụ khi đèn chớp lúc bẻ lái, và gửi cho tiệm. Nếu xe đang tắt máy giữa chừng, bài [xe thuê chết máy giữa đường: tự xử hay gọi chủ xe](/xe-may/2026/09/30/xe-thue-chet-may-giua-uong-tu-xu-hay-goi-chu-xe/) giúp bạn quyết định. Nếu chuyện xảy ra ở nơi nguy hiểm như giữa ngã tư, bài [xe máy chết máy giữa ngã tư: các bước xử lý an toàn](/xe-may/2026/10/04/xe-may-chet-may-giua-nga-tu-cac-buoc-xu-ly-an-toan/) nêu việc cần ưu tiên.
+Thay vào đó, hãy chụp ảnh hoặc quay video ngắn sự cố nếu có thể, ví dụ khi đèn chớp lúc bẻ lái, và gửi cho tiệm. Nếu xe đang tắt máy giữa chừng, bài [xe thuê chết máy giữa đường: tự xử hay gọi chủ xe](/xe-may/2026/09/30/xe-thue-chet-may-giua-duong-tu-xu-hay-goi-chu-xe/) giúp bạn quyết định. Nếu chuyện xảy ra ở nơi nguy hiểm như giữa ngã tư, bài [xe máy chết máy giữa ngã tư: các bước xử lý an toàn](/xe-may/2026/10/04/xe-may-chet-may-giua-nga-tu-cac-buoc-xu-ly-an-toan/) nêu việc cần ưu tiên.
 
 ## Phân biệt với những sự cố khác
 

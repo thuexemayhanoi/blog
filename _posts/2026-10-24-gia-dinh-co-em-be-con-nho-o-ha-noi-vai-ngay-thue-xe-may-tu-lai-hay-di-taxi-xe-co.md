@@ -27,7 +27,7 @@ Bài không đưa ra độ tuổi cụ thể, vì điều đó phụ thuộc và
 
 Một cách thực tế là chia các chặng trong ngày. Những chặng bé đi cùng, như đi ăn, đi dạo Hồ Tây hay vào phố cổ, có thể dùng taxi hoặc xe công nghệ ô tô. Những chặng chỉ cần người lớn, như một người ghé mua đồ hay làm việc riêng, có thể dùng xe máy thuê nếu bạn có bằng lái phù hợp và quen đường.
 
-Cách này tận dụng ưu điểm của cả hai: ô tô cho chặng có bé, xe máy cho chặng cần linh hoạt. Nhưng hãy cân nhắc thật kỹ việc ai ở lại với bé trong lúc người kia đi xe máy, và tránh để trẻ ở một mình. Bài [so sánh chi phí đi lại: xe máy thuê và taxi nội thành](/xe-may/2026/10/05/so-sanh-chi-phi-i-lai-xe-may-thue-va-taxi-noi-thanh/) giúp bạn nhìn cách tính chi phí theo chặng.
+Cách này tận dụng ưu điểm của cả hai: ô tô cho chặng có bé, xe máy cho chặng cần linh hoạt. Nhưng hãy cân nhắc thật kỹ việc ai ở lại với bé trong lúc người kia đi xe máy, và tránh để trẻ ở một mình. Bài [so sánh chi phí đi lại: xe máy thuê và taxi nội thành](/xe-may/2026/10/05/so-sanh-chi-phi-di-lai-xe-may-thue-va-taxi-noi-thanh/) giúp bạn nhìn cách tính chi phí theo chặng.
 
 ## Taxi và xe công nghệ ô tô: những điều nên hỏi trước
 

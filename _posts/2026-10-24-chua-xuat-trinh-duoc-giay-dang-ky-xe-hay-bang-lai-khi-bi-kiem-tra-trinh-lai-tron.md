@@ -53,7 +53,7 @@ Bài không nêu mức phạt, và không khẳng định hành vi "không mang 
 
 Khi thuê xe, hãy hỏi tiệm giấy đăng ký xe, bảo hiểm và các giấy tờ của xe để ở đâu và bạn cần mang theo những gì khi chạy. Nếu bị lập biên bản vì thiếu giấy tờ của xe, hãy báo tiệm ngay để tiệm gửi bản hợp lệ trong thời hạn hẹn, vì chủ xe cũng là bên liên quan trong biên bản.
 
-Bài [để quên giấy tờ trên xe thuê giữa kỳ lấy lại thế nào](/an-toan-phap-ly/2026/10/09/e-quen-giay-to-tren-xe-thue-giua-ky-lay-lai-the-nao/) gợi ý cách lấy lại giấy tờ để quên.
+Bài [để quên giấy tờ trên xe thuê giữa kỳ lấy lại thế nào](/an-toan-phap-ly/2026/10/09/de-quen-giay-to-tren-xe-thue-giua-ky-lay-lai-the-nao/) gợi ý cách lấy lại giấy tờ để quên.
 
 ## Liên hệ tiệm
 

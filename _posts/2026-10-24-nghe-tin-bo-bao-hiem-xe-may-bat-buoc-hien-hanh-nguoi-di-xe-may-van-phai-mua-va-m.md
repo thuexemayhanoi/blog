@@ -23,7 +23,7 @@ Bài này đọc các điều khoản hiện hành, nói tin báo chí đã nêu
 
 Luật Kinh doanh bảo hiểm 2022 liệt kê bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới là một loại bảo hiểm bắt buộc, và quy định tổ chức, cá nhân thuộc đối tượng có nghĩa vụ mua. Nghị định 67/2023/NĐ-CP nêu chủ xe cơ giới tham gia giao thông, hoạt động trên lãnh thổ Việt Nam phải mua bảo hiểm tại các doanh nghiệp bảo hiểm được phép; riêng xe mô tô hai bánh, mô tô ba bánh và xe gắn máy, kể cả xe máy điện, được nêu rõ trong phần giới hạn trách nhiệm, nên xe máy thuộc diện này.
 
-Nghị định 220/2026/NĐ-CP, có hiệu lực từ 01/07/2026, sửa nghị định trên nhưng chủ yếu ở phần bảo hiểm công trình xây dựng và một số cụm từ; nghĩa vụ mua với xe máy không bị đổi. Bài [xe máy thuê đã có bảo hiểm dân sự bắt buộc chưa](/an-toan-phap-ly/2026/10/05/xe-may-thue-a-co-bao-hiem-dan-su-bat-buoc-chua/) nói về phía người thuê, còn bài [xe máy điện có phải mua bảo hiểm TNDS bắt buộc không](/an-toan-phap-ly/2026/10/15/xe-may-dien-co-phai-mua-bao-hiem-tnds-bat-buoc-khong-phan-biet-voi-xe-dap-dien-k/) phân biệt với xe đạp điện.
+Nghị định 220/2026/NĐ-CP, có hiệu lực từ 01/07/2026, sửa nghị định trên nhưng chủ yếu ở phần bảo hiểm công trình xây dựng và một số cụm từ; nghĩa vụ mua với xe máy không bị đổi. Bài [xe máy thuê đã có bảo hiểm dân sự bắt buộc chưa](/an-toan-phap-ly/2026/10/05/xe-may-thue-da-co-bao-hiem-dan-su-bat-buoc-chua/) nói về phía người thuê, còn bài [xe máy điện có phải mua bảo hiểm TNDS bắt buộc không](/an-toan-phap-ly/2026/10/15/xe-may-dien-co-phai-mua-bao-hiem-tnds-bat-buoc-khong-phan-biet-voi-xe-dap-dien-k/) phân biệt với xe đạp điện.
 
 ## Mang theo chứng nhận bảo hiểm: quy định hiện nay
 
