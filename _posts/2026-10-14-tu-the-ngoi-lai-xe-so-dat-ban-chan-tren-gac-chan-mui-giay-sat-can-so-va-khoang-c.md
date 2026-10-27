@@ -27,7 +27,7 @@ Cách tìm chỗ ngồi đúng khá đơn giản:
 2. Nhích người về phía trước cho tới khi phần đùi trong chạm nhẹ vào phần thân xe ngay sau bình xăng hoặc yếm, chỗ hẹp nhất của xe.
 3. Đặt hai bàn chân lên gác chân và để ý hai gối: gối nên khép vào thân xe được mà không phải cố.
 
-Chỗ đó là điểm tựa của bạn. Khi ngồi đúng, hông gánh phần lớn sức nặng, hai tay chỉ việc điều khiển. Bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-ieu-khien-xe-may-chac-tay-at-tay-goi-va-ban-chan-the-nao/) nói chung cho cả xe ga và xe số; ở đây ta đi sâu vào phần riêng của xe số là hai bàn chân.
+Chỗ đó là điểm tựa của bạn. Khi ngồi đúng, hông gánh phần lớn sức nặng, hai tay chỉ việc điều khiển. Bài [tư thế điều khiển xe máy chắc tay](/ky-nang/2026/10/11/tu-the-dieu-khien-xe-may-chac-tay-dat-tay-goi-va-ban-chan-the-nao/) nói chung cho cả xe ga và xe số; ở đây ta đi sâu vào phần riêng của xe số là hai bàn chân.
 
 ## Đặt chân khi đi xe số: phần lòng bàn chân nào nằm trên gác chân
 
@@ -71,7 +71,7 @@ Khi hông đã ở đúng chỗ, phần trên cơ thể gần như tự vào n�
 
 Phép thử nhanh: lúc xe dựng chân chống, thả lỏng hai tay trong giây lát. Nếu người đổ về trước, bạn đang dựa vào tay; hãy kẹp gối và ngồi lại cho hông nhận sức nặng.
 
-Không chỉnh được tay lái trên xe thuê, nên hãy chọn dòng xe vừa người ngay từ lúc đặt. Nếu chuẩn bị đi dài, bài [đau lưng trên chuyến xe máy dài](/ky-nang/2026/10/11/au-lung-tren-chuyen-xe-may-dai-tu-the-ngoi-va-iem-dung-chan/) có thêm cách chia điểm dừng.
+Không chỉnh được tay lái trên xe thuê, nên hãy chọn dòng xe vừa người ngay từ lúc đặt. Nếu chuẩn bị đi dài, bài [đau lưng trên chuyến xe máy dài](/ky-nang/2026/10/11/dau-lung-tren-chuyen-xe-may-dai-tu-the-ngoi-va-diem-dung-chan/) có thêm cách chia điểm dừng.
 
 ## Tự kiểm tra tư thế lái xe số trong năm phút đầu
 

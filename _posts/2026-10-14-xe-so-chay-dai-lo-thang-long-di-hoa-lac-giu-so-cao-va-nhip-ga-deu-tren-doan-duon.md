@@ -23,7 +23,7 @@ Bạn thuê một chiếc xe số để lên Hòa Lạc làm việc, thăm ngư�
 
 Từ đầu tuyến phía Trần Duy Hưng, Phạm Hùng, để ý biển chỉ dẫn làn xe máy ngay từ những nút giao đầu tiên. Ở các nút lớn, lối vào làn chính và lối đi đường gom tách nhau khá gần, người quen đi phố dễ bám theo dòng ô tô mà vào nhầm. Quy tắc đơn giản: đi theo biển có hình xe máy; nếu quanh mình toàn ô tô chạy nhanh mà không còn xe máy nào, bạn đã vào sai chỗ.
 
-Về tốc độ, hãy tuân theo biển báo cắm trên chính đoạn đường gom bạn đang đi. Biển có thể khác nhau giữa các đoạn qua khu dân cư như Hoài Đức, Quốc Oai và đoạn thoáng hơn gần Thạch Thất, vì vậy đọc biển ở từng đoạn chứ đừng nhớ một con số cho cả tuyến. Bài [Đại lộ Thăng Long chạy xe cuối tuần](/du-lich/2026/10/04/ai-lo-thang-long-chay-xe-cuoi-tuan-iem-dung-va-luu-y/) có thêm gợi ý điểm dừng nếu bạn đi chơi chứ không đi việc.
+Về tốc độ, hãy tuân theo biển báo cắm trên chính đoạn đường gom bạn đang đi. Biển có thể khác nhau giữa các đoạn qua khu dân cư như Hoài Đức, Quốc Oai và đoạn thoáng hơn gần Thạch Thất, vì vậy đọc biển ở từng đoạn chứ đừng nhớ một con số cho cả tuyến. Bài [Đại lộ Thăng Long chạy xe cuối tuần](/du-lich/2026/10/04/dai-lo-thang-long-chay-xe-cuoi-tuan-diem-dung-va-luu-y/) có thêm gợi ý điểm dừng nếu bạn đi chơi chứ không đi việc.
 
 ## Chọn số cao và giữ nó: nhịp máy trên đường gom
 
@@ -69,7 +69,7 @@ Mỗi lần dừng, dành một phút nhìn xe:
 - Xích không chùng quá mức, không có tiếng kêu lạ lúc vừa chạy.
 - Kim xăng còn đủ cho quãng tiếp theo; ở đoạn gần Thạch Thất, cây xăng thưa hơn so với trong phố.
 
-Nếu bạn đi lại tuyến này hằng ngày trong cả tháng, bài [đi làm xa ngoại thành bằng xe máy thuê tháng](/thue-xe/2026/10/11/i-lam-xa-ngoai-thanh-bang-xe-may-thue-thang-hoa-lac-soc-son-me-linh/) có thêm cách tính xăng và chia sức cho cả tuần.
+Nếu bạn đi lại tuyến này hằng ngày trong cả tháng, bài [đi làm xa ngoại thành bằng xe máy thuê tháng](/thue-xe/2026/10/11/di-lam-xa-ngoai-thanh-bang-xe-may-thue-thang-hoa-lac-soc-son-me-linh/) có thêm cách tính xăng và chia sức cho cả tuần.
 
 ## Chuẩn bị trước khi nhận xe số ở Long Biên
 

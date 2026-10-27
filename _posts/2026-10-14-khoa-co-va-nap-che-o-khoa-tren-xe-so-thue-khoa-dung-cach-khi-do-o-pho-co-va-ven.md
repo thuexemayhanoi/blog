@@ -21,7 +21,7 @@ Bạn thuê xe số đi chơi trong nội đô, dừng mua cà phê trứng ở 
 
 Khóa cổ là cơ chế chốt trục tay lái ở một góc cố định, thường là bẻ hết sang một bên. Khi đã khóa, người khác không thể xoay tay lái để dắt xe đi thẳng, chỉ có thể đẩy xe lòng vòng. Nó không biến chiếc xe thành két sắt, nhưng làm việc dắt trộm chậm và lộ liễu hơn hẳn, và với kẻ gian, chậm là đủ để bỏ qua.
 
-Trên xe thuê, khóa cổ còn có thêm một ý nghĩa: bạn đang giữ tài sản của người khác. Thói quen khóa đúng mỗi lần dừng xe là cách đơn giản nhất để tránh rắc rối khi trả xe. Bài [chống trộm xe máy khi thuê](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/) nói chung về các lớp bảo vệ; ở đây chúng ta tập trung vào thao tác trên ổ khóa xe số.
+Trên xe thuê, khóa cổ còn có thêm một ý nghĩa: bạn đang giữ tài sản của người khác. Thói quen khóa đúng mỗi lần dừng xe là cách đơn giản nhất để tránh rắc rối khi trả xe. Bài [chống trộm xe máy khi thuê](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/) nói chung về các lớp bảo vệ; ở đây chúng ta tập trung vào thao tác trên ổ khóa xe số.
 
 ## Cách khóa cổ xe máy số: bốn động tác
 
@@ -55,7 +55,7 @@ Phố cổ Hoàn Kiếm đông, hẹp và nhiều đoạn vỉa hè không cho �
 - **Không để đồ trong giỏ trước.** Giỏ xe số mở, mũ bảo hiểm hay túi để đó rất dễ bị lấy. Mang theo người hoặc cất vào cốp dưới yên.
 - **Tránh tối cuối tuần ở khu phố đi bộ.** Khi khu phố đi bộ quanh Hồ Gươm hoạt động, nhiều tuyến cấm xe, bãi gửi quanh đó rất chật. Gửi từ xa rồi đi bộ vào thường nhẹ nhàng hơn.
 
-Bài [ăn uống quanh phố cổ, để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-e-xe-o-au/) gợi ý thêm cách tính chỗ gửi theo từng khu ăn.
+Bài [ăn uống quanh phố cổ, để xe ở đâu](/du-lich/2026/09/28/an-uong-quanh-pho-co-de-xe-o-dau/) gợi ý thêm cách tính chỗ gửi theo từng khu ăn.
 
 ## Dừng ven Hồ Tây: đường thoáng nhưng đừng chủ quan
 
@@ -68,7 +68,7 @@ Một cách làm an toàn hơn:
 - **Đỗ ở chỗ trong tầm mắt** khi buộc phải dựng xe ngoài đường: chọn vị trí có đèn, có người qua lại, và bạn nhìn thấy xe từ chỗ ngồi.
 - **Buổi tối, tránh khoảng tối vắng** giữa các quán. Thêm vài chục bước đi bộ đổi lại sự yên tâm.
 
-Nếu muốn đi một vòng quanh hồ và biết trước điểm dừng, tham khảo [cung đường chạy quanh Hồ Tây, điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/).
+Nếu muốn đi một vòng quanh hồ và biết trước điểm dừng, tham khảo [cung đường chạy quanh Hồ Tây, điểm dừng và chỗ gửi xe](/du-lich/2026/09/28/cung-duong-chay-quanh-ho-tay-diem-dung-va-cho-gui-xe/).
 
 ## Tóm lại một vòng khóa xe
 

@@ -50,7 +50,7 @@ Dựng xe trên chân chống giữa, máy tắt, bật khóa. Đạp thử cầ
 
 ### Bước 2: đi và dừng ở số 1
 
-Nổ máy ở số N, bóp phanh, đạp vào số 1. Nhả phanh, vặn ga thật nhẹ, xe sẽ chậm rãi lăn bánh. Chạy vài mét rồi nhả ga, phanh cả trước lẫn sau để dừng. Làm lại nhiều lần. Bài [để xe và vào số 1](/ky-nang/2026/09/29/e-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi/) mô tả kỹ hơn thao tác này.
+Nổ máy ở số N, bóp phanh, đạp vào số 1. Nhả phanh, vặn ga thật nhẹ, xe sẽ chậm rãi lăn bánh. Chạy vài mét rồi nhả ga, phanh cả trước lẫn sau để dừng. Làm lại nhiều lần. Bài [để xe và vào số 1](/ky-nang/2026/09/29/de-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi/) mô tả kỹ hơn thao tác này.
 
 ### Bước 3: lên số và về số
 

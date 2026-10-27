@@ -36,7 +36,7 @@ Giấy tờ xe, giấy phép lái xe và hợp đồng thuê là thứ bạn c�
 Vài lưu ý khi để giấy tờ trên xe số:
 
 - Không nhét giấy tờ sát nắp bình xăng hay vào chỗ gần máy, nơi có thể nóng và ám mùi.
-- Giấy tờ tùy thân quan trọng như hộ chiếu, thẻ căn cước nên mang theo người, không để lại trên xe khi rời đi. Bài [để quên giấy tờ trên xe thuê giữa kỳ](/an-toan-phap-ly/2026/10/09/e-quen-giay-to-tren-xe-thue-giua-ky-lay-lai-the-nao/) kể rõ chuyện gì xảy ra khi quên.
+- Giấy tờ tùy thân quan trọng như hộ chiếu, thẻ căn cước nên mang theo người, không để lại trên xe khi rời đi. Bài [để quên giấy tờ trên xe thuê giữa kỳ](/an-toan-phap-ly/2026/10/09/de-quen-giay-to-tren-xe-thue-giua-ky-lay-lai-the-nao/) kể rõ chuyện gì xảy ra khi quên.
 - Nếu cửa hàng có giữ một số giấy tờ khi thuê, hãy hỏi rõ trực tiếp và xin biên nhận, chụp lại để đối chiếu.
 
 ## Áo mưa: gấp nhỏ và để chỗ lấy nhanh nhất
@@ -47,7 +47,7 @@ Mưa Hà Nội nhiều khi đến bất chợt, nhất là những chiều hè. 
 
 **Áo mưa đã ướt** sau cơn mưa thì đừng nhét lại vào khoang chung với giấy tờ. Cho vào một túi ni lông riêng, buộc miệng, treo móc hoặc để giỏ trước. Hơi ẩm bị nhốt dưới yên một buổi chiều là đủ làm giấy tờ nhăn và sạc điện thoại ẩm.
 
-Khi mặc áo mưa trên xe số, vạt áo dễ lọt vào nan hoa hoặc cuốn vào xích. Cách xử lý vạt áo và ống quần có trong bài [áo mưa, ống quần dễ vướng pô, xích khi đi xe số](/xe-may/2026/10/11/ao-mua-ong-quan-va-vay-de-vuong-po-xich-khi-i-xe-so-cach-xu-ly/).
+Khi mặc áo mưa trên xe số, vạt áo dễ lọt vào nan hoa hoặc cuốn vào xích. Cách xử lý vạt áo và ống quần có trong bài [áo mưa, ống quần dễ vướng pô, xích khi đi xe số](/xe-may/2026/10/11/ao-mua-ong-quan-va-vay-de-vuong-po-xich-khi-di-xe-so-cach-xu-ly/).
 
 ## Sạc điện thoại, khăn giấy và đồ lặt vặt
 
@@ -69,7 +69,7 @@ Móc treo đồ xe số thường nằm phía dưới yên hoặc trước đầ
 
 ### Giá sau và người ngồi sau
 
-Đồ cồng kềnh hơn như balo, túi đồ chợ thì để người ngồi sau đeo hoặc buộc chắc vào giá sau. Cách buộc cho chắc đã có trong bài [xe số thuê đi chợ sớm chở đồ nên buộc thế nào](/xe-may/2026/10/07/xe-so-thue-i-cho-som-cho-o-nen-buoc-the-nao/).
+Đồ cồng kềnh hơn như balo, túi đồ chợ thì để người ngồi sau đeo hoặc buộc chắc vào giá sau. Cách buộc cho chắc đã có trong bài [xe số thuê đi chợ sớm chở đồ nên buộc thế nào](/xe-may/2026/10/07/xe-so-thue-di-cho-som-cho-do-nen-buoc-the-nao/).
 
 ## Một bộ đồ mẫu cho ngày đi quanh Hà Nội
 
@@ -84,6 +84,6 @@ Với cách chia này, mưa đổ xuống giữa đường Thanh Niên thì bạ
 
 ## Thói quen nhỏ trước khi rời xe
 
-Mỗi lần gửi xe, dành nửa phút kiểm tra: yên đã khóa chưa, giỏ trước còn món gì đáng giá không, móc treo có túi nào bỏ quên không. Đừng để điện thoại hay ví trong khoang dưới yên khi rời xe lâu. Danh sách món nên và không nên để lại trên xe có trong bài [để đồ trong cốp, giỏ và móc treo khi rời xe](/ky-nang/2026/10/11/e-o-trong-cop-gio-va-moc-treo-khi-roi-xe-mon-nao-nen-mon-nao-khong/).
+Mỗi lần gửi xe, dành nửa phút kiểm tra: yên đã khóa chưa, giỏ trước còn món gì đáng giá không, móc treo có túi nào bỏ quên không. Đừng để điện thoại hay ví trong khoang dưới yên khi rời xe lâu. Danh sách món nên và không nên để lại trên xe có trong bài [để đồ trong cốp, giỏ và móc treo khi rời xe](/ky-nang/2026/10/11/de-do-trong-cop-gio-va-moc-treo-khi-roi-xe-mon-nao-nen-mon-nao-khong/).
 
 Xe số không có cốp rộng, nhưng chỉ cần chia đồ theo đúng chỗ thì một ngày đi lại vẫn gọn gàng. Xem thêm các kinh nghiệm khác về [xe số](/xe-may/xe-so/) và chọn xe trong chuyên mục [xe máy](/xe-may/).

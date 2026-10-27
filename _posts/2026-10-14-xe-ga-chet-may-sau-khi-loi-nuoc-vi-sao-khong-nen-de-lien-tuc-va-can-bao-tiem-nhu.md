@@ -78,7 +78,7 @@ Khi xe đã nổ lại hoặc đã được xử lý, vài thói quen nhỏ giú
 - **Để xe ở chỗ cao khi trời mưa kéo dài.** Xe đỗ dưới hầm hay mép đường trũng qua đêm dễ bị nước dâng tới mà bạn không hay biết.
 - **Mỗi khi đã lội nước, chạy chậm vài trăm mét và bóp phanh nhẹ vài lần** cho má phanh ráo, rồi mới quay lại tốc độ bình thường.
 
-Nếu bạn muốn hiểu sâu hơn chuyện xe ướt nước không đề được ở góc độ hệ thống điện, có thể đọc thêm bài [xe máy ướt nước mưa ngập đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-e-khong-no/).
+Nếu bạn muốn hiểu sâu hơn chuyện xe ướt nước không đề được ở góc độ hệ thống điện, có thể đọc thêm bài [xe máy ướt nước mưa ngập đề không nổ](/hoi-dap/2026/09/29/xe-may-uot-nuoc-mua-ngap-de-khong-no/).
 
 ## Tóm lại
 

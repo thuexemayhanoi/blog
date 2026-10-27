@@ -29,7 +29,7 @@ Vấn đề không nằm ở việc bạn đã vá, mà ở chỗ cửa hàng kh
 
 Chủ động kể kèm bằng chứng thì các câu hỏi đó được trả lời trong vài phút. Để cửa hàng tự phát hiện thì cuộc nói chuyện dễ thành nghi ngờ. Tự vá không có lỗi, giấu mới gây rắc rối.
 
-Tốt nhất vẫn là gọi cửa hàng ngay lúc sự cố, như trong bài [đang đi xe thuê bị xịt lốp: làm gì ngay](/xe-may/2026/09/29/ang-i-xe-thue-bi-xit-lop-lam-gi-ngay/). Nếu lúc đó không gọi được, phần dưới là những gì cần gom lại.
+Tốt nhất vẫn là gọi cửa hàng ngay lúc sự cố, như trong bài [đang đi xe thuê bị xịt lốp: làm gì ngay](/xe-may/2026/09/29/dang-di-xe-thue-bi-xit-lop-lam-gi-ngay/). Nếu lúc đó không gọi được, phần dưới là những gì cần gom lại.
 
 ## Vá hay thay săm: phân biệt để kể cho đúng
 
@@ -71,7 +71,7 @@ Lúc bàn giao, hãy nói về chiếc lốp trước khi nhân viên bắt đ�
 - **Tình trạng sau đó:** xe chạy bình thường bao lâu, lốp có xẹp lại không.
 - **Có gọi cửa hàng lúc đó không:** nếu đã gọi, nhắc lại nội dung cuộc gọi.
 
-Sau đó để nhân viên tự kiểm tra lốp. Nếu biên bản trả xe có mục ghi tình trạng, đề nghị ghi "lốp sau đã vá dọc đường, khách đã báo và cung cấp ảnh". Dòng này bảo vệ cả hai bên. Quy trình chung khi trả xe được trình bày trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/).
+Sau đó để nhân viên tự kiểm tra lốp. Nếu biên bản trả xe có mục ghi tình trạng, đề nghị ghi "lốp sau đã vá dọc đường, khách đã báo và cung cấp ảnh". Dòng này bảo vệ cả hai bên. Quy trình chung khi trả xe được trình bày trong bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/).
 
 Ai chịu khoản tiền vá thì không có công thức chung; nó tùy hợp đồng và tình huống. Hãy hỏi thẳng, đừng tự mặc định.
 
@@ -80,7 +80,7 @@ Ai chịu khoản tiền vá thì không có công thức chung; nó tùy hợp 
 - **Vứt săm cũ và không chụp gì.** Không còn bằng chứng nào cho thấy lốp thủng vì đinh chứ không phải do va quệt.
 - **Im lặng chờ cửa hàng hỏi.** Người kiểm xe dễ nghĩ bạn muốn giấu.
 - **Tự thay săm loại khác cỡ cho kịp.** Nếu tiệm không có đúng cỡ, nên gọi cửa hàng hỏi trước khi đồng ý lắp tạm.
-- **Chạy tiếp quãng dài khi lốp đã xẹp hẳn.** Mép lốp và vành dễ hỏng. Cách tìm tiệm vá gần nhất được nói trong bài [nhận ra tiệm vá xe và nhờ giúp khi xịt lốp](/thue-xe/2026/10/12/xe-may-bi-xit-lop-giua-uong-o-ha-noi-nhan-ra-tiem-va-xe-va-nho-giup-the-nao/).
+- **Chạy tiếp quãng dài khi lốp đã xẹp hẳn.** Mép lốp và vành dễ hỏng. Cách tìm tiệm vá gần nhất được nói trong bài [nhận ra tiệm vá xe và nhờ giúp khi xịt lốp](/thue-xe/2026/10/12/xe-may-bi-xit-lop-giua-duong-o-ha-noi-nhan-ra-tiem-va-xe-va-nho-giup-the-nao/).
 
 ## Kết lại
 

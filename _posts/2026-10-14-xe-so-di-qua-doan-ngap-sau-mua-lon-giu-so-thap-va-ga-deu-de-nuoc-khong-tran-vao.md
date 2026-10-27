@@ -58,7 +58,7 @@ Phần khó nhất của việc lội nước là biết lúc nào không lội.
 - Trời tối, không đoán được mặt đường bên dưới có hố hay không.
 - Thấy xe máy phía trước liên tục chết máy, phải dắt.
 
-Sau mưa lớn, những phố trũng trong nội đô như Nguyễn Khuyến hay Thái Hà thường đọng nước một thời gian rồi mới rút. Chờ thêm ở chỗ trú an toàn, hoặc vòng sang phố cao hơn, gần như luôn rẻ hơn một lần xe chết máy. Bài [đường ngập sau mưa lớn ở Hà Nội: khi nào nên dừng, khi nào mới qua được](/thue-xe/2026/10/12/uong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-uoc/) có thêm cách quan sát độ sâu bằng mắt.
+Sau mưa lớn, những phố trũng trong nội đô như Nguyễn Khuyến hay Thái Hà thường đọng nước một thời gian rồi mới rút. Chờ thêm ở chỗ trú an toàn, hoặc vòng sang phố cao hơn, gần như luôn rẻ hơn một lần xe chết máy. Bài [đường ngập sau mưa lớn ở Hà Nội: khi nào nên dừng, khi nào mới qua được](/thue-xe/2026/10/12/duong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-duoc/) có thêm cách quan sát độ sâu bằng mắt.
 
 ## Nếu xe chết máy giữa nước
 
@@ -77,6 +77,6 @@ Xe vẫn nổ máy sau khi lội nước chưa có nghĩa là mọi thứ đã �
 
 - **Rà phanh vài lần** khi đi chậm để phanh khô và ăn trở lại. Má phanh ướt thường bị trễ trong vài lần bóp đầu tiên.
 - **Giữ số thấp thêm một đoạn ngắn,** để máy đẩy nốt nước còn đọng trong ống xả.
-- **Để ý tiếng máy.** Nếu máy rung lạ, hụt hơi hoặc khói xả khác thường, hãy dừng lại và báo cửa hàng. Bài [xe số xả khói trắng, xanh hay đen: khói nào cần báo cửa hàng](/xe-may/2026/10/11/xe-so-xa-khoi-trang-xanh-hay-en-khoi-nao-can-bao-cua-hang/) giúp bạn mô tả đúng triệu chứng.
+- **Để ý tiếng máy.** Nếu máy rung lạ, hụt hơi hoặc khói xả khác thường, hãy dừng lại và báo cửa hàng. Bài [xe số xả khói trắng, xanh hay đen: khói nào cần báo cửa hàng](/xe-may/2026/10/11/xe-so-xa-khoi-trang-xanh-hay-den-khoi-nao-can-bao-cua-hang/) giúp bạn mô tả đúng triệu chứng.
 
 Gói lại, xe số đi đường ngập an toàn khi bạn chọn số một hoặc hai trên đường khô, giữ ga đều và không sang số giữa nước, dừng lại khi nước quá sâu, và không cố đề lại nếu máy tắt. Các bài khác về lái và chăm xe số nằm trong mục [xe số](/xe-may/xe-so/), còn thông tin chung về các dòng xe cho thuê có ở chuyên mục [xe máy](/xe-may/).

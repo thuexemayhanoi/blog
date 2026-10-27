@@ -72,12 +72,12 @@ Không có quy tắc cứng; cứ thấy mình phải để ý tới chức năn
 
 **Đã tắt máy rồi thì xuống xe được.** Khi xe đang tạm ngắt, máy chưa tắt hẳn. Muốn dừng lâu hoặc rời xe, hãy tắt bằng núm hoặc chìa như bình thường và gạt chân chống.
 
-**Idling stop làm hỏng ắc quy.** Xe được thiết kế để làm việc này. Tuy vậy nếu ắc quy yếu, chức năng có thể không kích hoạt, hoặc xe đề chậm. Gặp dấu hiệu đó thì báo tiệm; các triệu chứng được nói ở bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/).
+**Idling stop làm hỏng ắc quy.** Xe được thiết kế để làm việc này. Tuy vậy nếu ắc quy yếu, chức năng có thể không kích hoạt, hoặc xe đề chậm. Gặp dấu hiệu đó thì báo tiệm; các triệu chứng được nói ở bài [ắc quy xe thuê yếu, đề không nổ](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/).
 
 **Không thấy xe tự ngắt nghĩa là chức năng hỏng.** Có thể công tắc đang tắt, máy chưa đủ ấm, hoặc xe chưa đáp ứng điều kiện. Hỏi tiệm trước khi kết luận.
 
 ## Kết hợp với thói quen lái trong phố
 
-Chức năng này chỉ là một phần. Muốn đi trong phố nhàn và tiết kiệm, cách cầm ga và giữ khoảng cách quan trọng hơn; bài [chạy xe ga tiết kiệm xăng trong phố đông](/xe-may/2026/10/10/chay-xe-ga-tiet-kiem-xang-trong-pho-ong/) và bài [kỹ năng đi xe máy khi kẹt xe giờ cao điểm](/ky-nang/2026-09-29/ket-xe-gio-cao-iem-noi-thanh-ky-nang-i-xe-may-an-toan/) có thêm chi tiết.
+Chức năng này chỉ là một phần. Muốn đi trong phố nhàn và tiết kiệm, cách cầm ga và giữ khoảng cách quan trọng hơn; bài [chạy xe ga tiết kiệm xăng trong phố đông](/xe-may/2026/10/10/chay-xe-ga-tiet-kiem-xang-trong-pho-dong/) và bài [kỹ năng đi xe máy khi kẹt xe giờ cao điểm](/ky-nang/2026-09-29/ket-xe-gio-cao-diem-noi-thanh-ky-nang-di-xe-may-an-toan/) có thêm chi tiết.
 
 Nếu xe bạn thuê có idling stop, cứ coi nó là trợ thủ cho những lần dừng lâu, và tắt đi khi dòng xe nhích từng chút. Biết đèn báo nghĩa là gì, bạn sẽ không còn giật mình mỗi lần xe im máy ở đèn đỏ. Các bài khác về dòng xe này nằm ở mục [xe tay ga](/xe-may/xe-ga/), còn kiến thức chung về các loại xe cho thuê ở chuyên mục [xe máy](/xe-may/).

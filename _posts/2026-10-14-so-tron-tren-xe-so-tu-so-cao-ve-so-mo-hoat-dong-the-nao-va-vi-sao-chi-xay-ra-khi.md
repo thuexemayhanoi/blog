@@ -42,7 +42,7 @@ Không phải xe số nào cũng có kiểu này, và cùng một dòng xe cũng
 3. Ở số cao nhất, ấn thêm một nấc nhẹ. Đèn về N là xe có số tròn; cần số cứng lại và đèn không đổi là không có.
 4. Ấn gót về từng nấc để quen đường quay lại N theo chiều ngược.
 
-Xe không có đèn báo số thì xem bài [xe số không có đèn báo số](/xe-may/2026/10/11/xe-so-khong-co-en-bao-so-cach-biet-ban-ang-o-so-may/). Cách đặt mũi giày và gót lên cần số hai đầu có trong bài [cần số hai đầu trên xe số](/xe-may/2026/10/14/can-so-hai-dau-tren-xe-so-khi-nao-dung-got-de-len-so-khi-nao-chi-can-mui-giay/).
+Xe không có đèn báo số thì xem bài [xe số không có đèn báo số](/xe-may/2026/10/11/xe-so-khong-co-den-bao-so-cach-biet-ban-dang-o-so-may/). Cách đặt mũi giày và gót lên cần số hai đầu có trong bài [cần số hai đầu trên xe số](/xe-may/2026/10/14/can-so-hai-dau-tren-xe-so-khi-nao-dung-got-de-len-so-khi-nao-chi-can-mui-giay/).
 
 ## Xe số về số mo từ số 4: những lúc người mới hay nhầm
 
@@ -70,7 +70,7 @@ Thói quen "ấn thêm một cái cho chắc" nên bỏ. Nhiều mẫu sẽ ch�
 
 ### Về số theo chiều gót khi giảm tốc
 
-Khi chuẩn bị dừng, giảm dần bằng gót: 4 về 3, 3 về 2, rồi 1. Đến khi dừng hẳn, nếu muốn chờ ở N thì ấn gót thêm nấc cuối. Như vậy bạn luôn về N bằng đường ngược, không phụ thuộc xe có số tròn hay không. Có nên về N khi chờ đèn hay giữ số 1 thì xem bài [dừng đèn đỏ bằng xe số](/xe-may/2026/10/11/dung-en-o-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-en-xanh/).
+Khi chuẩn bị dừng, giảm dần bằng gót: 4 về 3, 3 về 2, rồi 1. Đến khi dừng hẳn, nếu muốn chờ ở N thì ấn gót thêm nấc cuối. Như vậy bạn luôn về N bằng đường ngược, không phụ thuộc xe có số tròn hay không. Có nên về N khi chờ đèn hay giữ số 1 thì xem bài [dừng đèn đỏ bằng xe số](/xe-may/2026/10/11/dung-den-do-bang-xe-so-ve-so-mo-hay-giu-so-1-cho-den-xanh/).
 
 ### Thả hẳn ga và nhả chân giữa hai lần ấn
 

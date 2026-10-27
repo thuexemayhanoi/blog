@@ -31,7 +31,7 @@ Thêm nữa, đổi xe thường xảy ra trong lúc mệt hoặc bực: xe ch�
 - **Chụp số km và kim xăng của xe cũ.** Đây là mốc kết thúc phần đã đi trên chiếc cũ.
 - **Chụp nhanh một vòng thân xe.** Nhất là khi xe hỏng do va quẹt, ảnh lúc này giúp tách rõ vết mới và vết cũ.
 
-Sau đó vét đồ. Mở cốp, nhìn hộc đồ phía trước, móc treo, giá điện thoại và cả dưới yên. Người thuê dài ngày hay để lại áo mưa, găng tay, sạc dự phòng, thẻ gửi xe hoặc ổ khóa phụ. Bài [nhận xe thuê phát hiện đồ của khách trước trong cốp](/thue-xe/2026/10/11/nhan-xe-thue-phat-hien-o-cua-khach-truoc-trong-cop/) cho thấy đồ bị bỏ quên trong cốp phiền thế nào với người nhận sau.
+Sau đó vét đồ. Mở cốp, nhìn hộc đồ phía trước, móc treo, giá điện thoại và cả dưới yên. Người thuê dài ngày hay để lại áo mưa, găng tay, sạc dự phòng, thẻ gửi xe hoặc ổ khóa phụ. Bài [nhận xe thuê phát hiện đồ của khách trước trong cốp](/thue-xe/2026/10/11/nhan-xe-thue-phat-hien-do-cua-khach-truoc-trong-cop/) cho thấy đồ bị bỏ quên trong cốp phiền thế nào với người nhận sau.
 
 ## Chốt danh sách đồ chuyển sang xe mới
 
@@ -48,7 +48,7 @@ Một dòng tin nhắn kiểu "Chuyển sang xe mới: hai mũ, một áo mưa b
 
 - **Chụp hoặc quay một vòng xe mới** trong chỗ đủ sáng: hai bên yếm, đầu xe, đuôi xe, ống xả, yên.
 - **Chụp đồng hồ:** số km và kim xăng. Mức xăng của xe mới có thể khác xe cũ, cần thống nhất luôn lúc trả sẽ tính theo mốc nào.
-- **Thử phanh, đèn, còi, xi nhan** và nhìn lốp. Bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-en-phanh-xe-may-thue-truoc-khi-nhan-xe/) có cách thử nhanh từng hạng mục.
+- **Thử phanh, đèn, còi, xi nhan** và nhìn lốp. Bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-den-phanh-xe-may-thue-truoc-khi-nhan-xe/) có cách thử nhanh từng hạng mục.
 - **Chạy thử một đoạn ngắn** nếu đổi xe tại cửa hàng. Xe bạn vừa trả hỏng vì lỗi máy, nên đừng ngại nghe kỹ tiếng máy chiếc thay thế.
 
 Nếu xe mới là mẫu khác, ví dụ từ Vision sang Air Blade, nhờ nhân viên chỉ lại vị trí nút mở cốp, nắp bình xăng và cách khóa cổ.
