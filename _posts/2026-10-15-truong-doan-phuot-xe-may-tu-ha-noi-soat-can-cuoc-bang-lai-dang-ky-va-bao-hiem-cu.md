@@ -59,7 +59,7 @@ Trưởng đoàn nên lưu một danh sách gồm tên, số liên hệ, loại 
 
 Điều 33 khoản 3 điểm a cấm người lái xe mô tô hai bánh, xe gắn máy đi xe dàn hàng ngang. Điều 12 khoản 1 yêu cầu chấp hành quy định về khoảng cách an toàn tối thiểu với xe phía trước. Điều 33 khoản 2 yêu cầu mũ bảo hiểm theo đúng quy chuẩn, cài quai đúng quy cách.
 
-Các điều này áp dụng cho từng người, kể cả khi cả đoàn đi cùng nhau. Bài [gặp đoàn xe cưới trên đường, giữ khoảng cách thế nào](/ky-nang/2026/10/10/gap-oan-xe-cuoi-tren-uong-giu-khoang-cach-the-nao/) nói về phía người gặp đoàn xe.
+Các điều này áp dụng cho từng người, kể cả khi cả đoàn đi cùng nhau. Bài [gặp đoàn xe cưới trên đường, giữ khoảng cách thế nào](/ky-nang/2026/10/10/gap-doan-xe-cuoi-tren-duong-giu-khoang-cach-the-nao/) nói về phía người gặp đoàn xe.
 
 ## Nguồn đối chiếu và điều bài chưa kiểm chứng
 

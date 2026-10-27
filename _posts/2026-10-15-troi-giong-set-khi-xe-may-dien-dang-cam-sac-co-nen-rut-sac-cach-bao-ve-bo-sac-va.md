@@ -47,7 +47,7 @@ Bạn có thể xem dự báo thời tiết trước khi định sạc. Bài kh�
 
 Công an TP Hà Nội, qua bài VOV ngày 26/05/2024, khuyến cáo không dùng nhiều thiết bị công suất lớn vào cùng một ổ cắm, không để thiết bị điện sinh nhiệt gần vật dụng dễ cháy, và quản lý chặt chẽ quá trình sạc, tuyệt đối không sạc qua đêm khi không kiểm soát được thiết bị đang sạc.
 
-Những điều này đúng cả ngày thường lẫn khi giông. Bài [sạc pin qua đêm nơi trọ: an toàn thế nào](/xe-may/2026/10/03/sac-pin-qua-em-noi-tro-an-toan-the-nao/) nói thêm cách chọn chỗ sạc ở nhà trọ.
+Những điều này đúng cả ngày thường lẫn khi giông. Bài [sạc pin qua đêm nơi trọ: an toàn thế nào](/xe-may/2026/10/03/sac-pin-qua-dem-noi-tro-an-toan-the-nao/) nói thêm cách chọn chỗ sạc ở nhà trọ.
 
 ## Chỗ sạc khô ráo: mưa tạt, ngập nước và ẩm
 

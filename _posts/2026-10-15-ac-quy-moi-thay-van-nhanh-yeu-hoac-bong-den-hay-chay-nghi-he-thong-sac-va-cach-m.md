@@ -66,7 +66,7 @@ Một tin nhắn rõ ràng giúp thợ đỡ mất công hỏi lại. Hãy ghi:
 - Có phụ kiện điện nào cắm thêm không, xe đỗ bao lâu giữa các lần đi.
 - Số ODO hiện tại.
 
-Bài [ắc quy xe thuê yếu, đề không nổ: nhận biết và xử lý](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/) có thêm cách xử lý ban đầu khi đề không nổ.
+Bài [ắc quy xe thuê yếu, đề không nổ: nhận biết và xử lý](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/) có thêm cách xử lý ban đầu khi đề không nổ.
 
 ## Đừng tự thử: kích nổ bằng ắc quy ô tô, đổi cầu chì lớn hơn hoặc đổi bóng khác loại
 

@@ -23,7 +23,7 @@ Bài không nêu giá thuê, không đánh giá riêng một chiếc xe hay mộ
 
 Bài tìm thấy nguồn chính thức về vị trí và các cung leo núi, nhưng không tìm thấy nguồn chính thức nào đo độ dốc, độ rộng đường làng vào chân núi hay nêu bãi gửi xe. Vì vậy bài không nói xe nào hợp hơn. Bài nêu điều đọc được, ghi rõ nguồn nào yếu.
 
-Bài khác về vùng này: [đi Sóc Sơn bằng xe máy: núi Hàm Lợn, hồ Đồng Quan và đền Sóc](/du-lich/2026/10/11/i-soc-son-bang-xe-may-nui-ham-lon-ho-ong-quan-va-en-soc/) và [điểm nghỉ chân trên đường đi núi Hàm Lợn bằng xe máy](/cung-duong/2026/10/04/iem-nghi-chan-tren-uong-i-nui-ham-lon-bang-xe-may/). Bài không biết xe tiệm có.
+Bài khác về vùng này: [đi Sóc Sơn bằng xe máy: núi Hàm Lợn, hồ Đồng Quan và đền Sóc](/du-lich/2026/10/11/di-soc-son-bang-xe-may-nui-ham-lon-ho-dong-quan-va-den-soc/) và [điểm nghỉ chân trên đường đi núi Hàm Lợn bằng xe máy](/cung-duong/2026/10/04/diem-nghi-chan-tren-duong-di-nui-ham-lon-bang-xe-may/). Bài không biết xe tiệm có.
 
 ## Núi Hàm Lợn ở đâu, cao bao nhiêu
 

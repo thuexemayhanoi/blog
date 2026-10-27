@@ -65,7 +65,7 @@ Nếu thợ khuyên thay, hãy hỏi lý do: mòn tới mức nào, có vết n�
 
 Hãy chụp ảnh mặt gai hai lốp ngay lúc nhận xe, và chụp lại mỗi tháng. Hai ảnh cách nhau một tháng cho thấy tốc độ mòn rõ hơn nhiều so với nhớ. Nếu đi nhiều hơn dự tính, hãy báo tiệm sớm để xếp lịch thay.
 
-Bài [đọc thông số trên lốp xe máy: 80/90-14 nghĩa là gì và vì sao không tự đổi cỡ](/xe-may/2026/10/11/oc-thong-so-tren-lop-xe-may-809014-nghia-la-gi-va-vi-sao-khong-tu-oi-co/) nói vì sao không tự đổi cỡ lốp. Bài không biết tiệm theo mốc nào; đó là điều xác nhận trực tiếp.
+Bài [đọc thông số trên lốp xe máy: 80/90-14 nghĩa là gì và vì sao không tự đổi cỡ](/xe-may/2026/10/11/doc-thong-so-tren-lop-xe-may-809014-nghia-la-gi-va-vi-sao-khong-tu-doi-co/) nói vì sao không tự đổi cỡ lốp. Bài không biết tiệm theo mốc nào; đó là điều xác nhận trực tiếp.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

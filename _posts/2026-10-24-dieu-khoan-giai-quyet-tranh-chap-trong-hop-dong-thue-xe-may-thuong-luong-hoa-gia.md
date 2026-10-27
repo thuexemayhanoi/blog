@@ -27,7 +27,7 @@ Hợp đồng ngắn của tiệm nhỏ có thể không có điều khoản nà
 
 Phần thương lượng thường ghi rằng hai bên sẽ trao đổi trực tiếp để giải quyết. Hãy để ý có ghi thời hạn hay cách thức không, ví dụ trao đổi trong vài ngày, bằng văn bản hay tin nhắn. Một điều khoản rõ ràng giúp bạn biết khi nào có thể chuyển sang bước tiếp theo.
 
-Bạn có thể đề nghị bổ sung một câu đơn giản: hai bên ưu tiên trao đổi bằng tin nhắn hoặc điện thoại, và lưu lại nội dung. Việc lưu lại là quan trọng, bởi nếu sau này phải chuyển sang bước khác, tin nhắn là bằng chứng cho những gì đã nói. Bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/) liệt kê những việc nên làm để giảm khả năng phát sinh chuyện.
+Bạn có thể đề nghị bổ sung một câu đơn giản: hai bên ưu tiên trao đổi bằng tin nhắn hoặc điện thoại, và lưu lại nội dung. Việc lưu lại là quan trọng, bởi nếu sau này phải chuyển sang bước khác, tin nhắn là bằng chứng cho những gì đã nói. Bài [trả xe đúng quy trình để tránh tranh chấp](/thue-xe/2026/09/27/tra-xe-dung-quy-trinh-de-tranh-tranh-chap/) liệt kê những việc nên làm để giảm khả năng phát sinh chuyện.
 
 ## Hòa giải: có hay không và ai làm trung gian
 
@@ -39,13 +39,13 @@ Bài không biết các tổ chức hòa giải cụ thể nào phù hợp với
 
 Điều khoản thường nêu cơ quan có thẩm quyền giải quyết nếu thương lượng và hòa giải không thành. Hãy xem họ ghi cơ quan ở đâu: nếu ghi nơi ở xa nơi bạn sống hoặc xa Hà Nội, việc theo đuổi sẽ tốn kém và bất tiện. Cơ quan giải quyết cụ thể do pháp luật quy định, và quy định về thẩm quyền có thể thay đổi theo thời gian.
 
-Nếu thấy điều khoản bất lợi rõ ràng, bạn có thể hỏi tiệm có thể ghi cho hợp lý hơn không, ví dụ nơi thuận tiện cho cả hai bên. Bài [điều khoản bồi thường trong hợp đồng thuê xe máy](/thue-xe/2026/09/30/ieu-khoan-boi-thuong-trong-hop-ong-thue-xe-may/) cũng nên đọc kèm, vì tranh chấp thường xoay quanh bồi thường.
+Nếu thấy điều khoản bất lợi rõ ràng, bạn có thể hỏi tiệm có thể ghi cho hợp lý hơn không, ví dụ nơi thuận tiện cho cả hai bên. Bài [điều khoản bồi thường trong hợp đồng thuê xe máy](/thue-xe/2026/09/30/dieu-khoan-boi-thuong-trong-hop-dong-thue-xe-may/) cũng nên đọc kèm, vì tranh chấp thường xoay quanh bồi thường.
 
 ## Đề nghị chỉnh câu chữ để hai bên hiểu giống nhau
 
 Bạn không nhất thiết phải chấp nhận nguyên văn mọi điều khoản. Hãy lịch sự hỏi: "Em muốn hiểu rõ câu này, anh chị có thể ghi rõ hơn là hai bên trao đổi trước bằng tin nhắn, nếu không được thì mới đến bước tiếp không ạ?" Những chỉnh sửa nhỏ như vậy thường được chấp nhận, và nếu có sửa, hãy yêu cầu cả hai bên ký tắt vào chỗ sửa.
 
-Tránh những câu quá mơ hồ như "mọi tranh chấp do bên cho thuê quyết định". Câu như vậy chỉ cho một bên quyền quyết định và khó coi là công bằng. Nếu hợp đồng chứa câu như vậy, hãy hỏi lại và cân nhắc kỹ trước khi ký. Bài [đọc kỹ hợp đồng thuê xe máy: những mục nên dừng lại](/thue-xe/2026/10/04/oc-ky-hop-ong-thue-xe-may-nhung-muc-nen-dung-lai/) giúp bạn nhận ra các mục như vậy.
+Tránh những câu quá mơ hồ như "mọi tranh chấp do bên cho thuê quyết định". Câu như vậy chỉ cho một bên quyền quyết định và khó coi là công bằng. Nếu hợp đồng chứa câu như vậy, hãy hỏi lại và cân nhắc kỹ trước khi ký. Bài [đọc kỹ hợp đồng thuê xe máy: những mục nên dừng lại](/thue-xe/2026/10/04/doc-ky-hop-dong-thue-xe-may-nhung-muc-nen-dung-lai/) giúp bạn nhận ra các mục như vậy.
 
 ## Hợp đồng viết tay hoặc hợp đồng mẫu: vẫn nên hỏi điều khoản cuối
 

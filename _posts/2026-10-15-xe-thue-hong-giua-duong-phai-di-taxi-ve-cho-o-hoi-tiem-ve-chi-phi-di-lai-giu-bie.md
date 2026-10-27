@@ -23,7 +23,7 @@ Bài không biết tiệm của bạn có hỗ trợ chi phí đi lại hay khô
 
 Việc đầu tiên không phải là gọi taxi mà là đưa người và xe ra khỏi chỗ nguy hiểm. Nếu làm được an toàn, hãy dắt xe vào sát mép đường hoặc chỗ trống, tắt động cơ và bật đèn báo nguy hiểm nếu xe có. Đừng đứng giữa làn xe chạy để chụp ảnh hay gọi điện.
 
-Khi đã an toàn, hãy báo tiệm: xe hỏng ở đâu, hỏng thế nào, bạn đang cần gì. Bài [gửi vị trí cho tiệm khi xe tay ga chết máy ở ngõ nhỏ hoặc trên cầu](/xe-may/2026/10/15/gui-vi-tri-cho-tiem-khi-xe-tay-ga-chet-may-o-ngo-nho-hoac-tren-cau-ghim-ban-do-t/) nói cách ghim bản đồ và ghi mốc gần. Trình tự chung có trong bài [xe thuê bị hỏng giữa đường: xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/).
+Khi đã an toàn, hãy báo tiệm: xe hỏng ở đâu, hỏng thế nào, bạn đang cần gì. Bài [gửi vị trí cho tiệm khi xe tay ga chết máy ở ngõ nhỏ hoặc trên cầu](/xe-may/2026/10/15/gui-vi-tri-cho-tiem-khi-xe-tay-ga-chet-may-o-ngo-nho-hoac-tren-cau-ghim-ban-do-t/) nói cách ghim bản đồ và ghi mốc gần. Trình tự chung có trong bài [xe thuê bị hỏng giữa đường: xử lý từng bước](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-duong-xu-ly-tung-buoc/).
 
 ## Nhắn hỏi tiệm trước khi gọi xe: ai chịu chi phí đi lại và có giới hạn nào không
 
@@ -63,7 +63,7 @@ Hãy giữ giọng lịch sự, vì còn nhiều việc cần phối hợp với
 
 ## Nếu bạn là khách nước ngoài: nhắn câu ngắn và dùng ứng dụng dịch
 
-Nếu tiếng Việt chưa quen, hãy viết câu ngắn, mỗi tin một ý: xe hỏng, đang ở đâu, đã đi taxi về chỗ ở, xin tiệm xác nhận chi phí. Bài [mẫu câu tiếng Việt đơn giản để nhờ giúp khi xe thuê hỏng giữa đường](/thue-xe/2026/10/11/mau-cau-tieng-viet-on-gian-e-nho-giup-khi-xe-thue-hong-giua-uong/) có sẵn vài câu để dùng.
+Nếu tiếng Việt chưa quen, hãy viết câu ngắn, mỗi tin một ý: xe hỏng, đang ở đâu, đã đi taxi về chỗ ở, xin tiệm xác nhận chi phí. Bài [mẫu câu tiếng Việt đơn giản để nhờ giúp khi xe thuê hỏng giữa đường](/thue-xe/2026/10/11/mau-cau-tieng-viet-don-gian-de-nho-giup-khi-xe-thue-hong-giua-duong/) có sẵn vài câu để dùng.
 
 ## Lần sau: hỏi chính sách khi xe hỏng ngay lúc nhận xe
 

@@ -23,7 +23,7 @@ Bài không nêu giá vé, giá phòng hay số tiền nào và không đánh gi
 
 Bài chưa tìm thấy lịch trình bảy ngày chính thức quanh Mộc Châu, nên không xếp từng ngày với giờ cụ thể. Bài chia các hướng đã có nguồn rồi để bạn ghép theo mùa hoa, thời tiết và sức xe.
 
-Nhiều điểm nằm cách xa nhau trên đường đèo nhiều cua, và bài không biết thời gian chạy xe máy giữa các điểm. Hãy mở bản đồ để ước lượng và chừa thời gian nghỉ. Nếu còn phân vân nên đi mấy ngày, xem bài [từ Hà Nội thuê xe máy đi Mộc Châu nên đi mấy ngày](/cung-duong/2026/10/07/tu-ha-noi-thue-xe-may-i-moc-chau-nen-i-may-ngay/).
+Nhiều điểm nằm cách xa nhau trên đường đèo nhiều cua, và bài không biết thời gian chạy xe máy giữa các điểm. Hãy mở bản đồ để ước lượng và chừa thời gian nghỉ. Nếu còn phân vân nên đi mấy ngày, xem bài [từ Hà Nội thuê xe máy đi Mộc Châu nên đi mấy ngày](/cung-duong/2026/10/07/tu-ha-noi-thue-xe-may-di-moc-chau-nen-di-may-ngay/).
 
 ## Hướng Vân Hồ: bản Hua Tạt và cung đường chữ S
 

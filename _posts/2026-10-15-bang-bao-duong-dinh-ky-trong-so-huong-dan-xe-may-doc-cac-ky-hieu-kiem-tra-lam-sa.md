@@ -59,7 +59,7 @@ Với người thuê dài hạn, điều này nghĩa là nếu bạn nhận xe c
 
 Cách đơn giản nhất là chụp trang bảng trong sách của đúng xe, rồi gửi tiệm kèm ảnh ODO. Hỏi tiệm mốc kế tiếp gồm những hạng mục nào theo bảng của xe này và bao nhiêu ki-lô-mét nữa thì tới.
 
-Bài [đọc đồng hồ khi nhận xe thuê: số km, kim xăng và đèn cảnh báo](/thue-xe/2026/10/12/oc-ong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-en-canh-bao/) nói cách đọc số ODO lúc nhận xe. Nếu xe không có sách, hãy hỏi tiệm xin bản chụp; bài không biết tiệm có sách của từng xe hay không.
+Bài [đọc đồng hồ khi nhận xe thuê: số km, kim xăng và đèn cảnh báo](/thue-xe/2026/10/12/doc-dong-ho-khi-nhan-xe-thue-so-km-kim-xang-va-den-canh-bao/) nói cách đọc số ODO lúc nhận xe. Nếu xe không có sách, hãy hỏi tiệm xin bản chụp; bài không biết tiệm có sách của từng xe hay không.
 
 ## Phiếu bảo dưỡng: bằng chứng của từng mốc
 

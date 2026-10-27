@@ -37,7 +37,7 @@ Dấu hiệu hay gặp là đề ì ạch hoặc lúc đề được lúc không
 
 Sách Air Blade bản Việt Nam, ở mục tìm hư hỏng khi đề không hoạt động, nhắc kiểm tra xem kết nối bình điện có lỏng không hoặc điện cực có bị mòn không, rồi kiểm tra tình trạng bình điện; nếu lỗi vẫn tiếp diễn thì mang xe đến cửa hàng ủy nhiệm. Như vậy đầu nối lỏng và cực mòn là hai điều hãng coi là đáng kiểm tra trước, còn kết luận cuối cùng vẫn thuộc về cửa hàng.
 
-Những dấu hiệu này cũng trùng với ắc quy yếu hoặc hệ thống sạc kém, nên đừng vội kết luận. Bài [ắc quy xe máy yếu: dấu hiệu và xử lý](/xe-may/2026/09/27/ac-quy-xe-may-yeu-dau-hieu-va-xu-ly/) và bài [ắc quy xe thuê yếu, đề không nổ: nhận biết và xử lý](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly/) mô tả phần ắc quy yếu.
+Những dấu hiệu này cũng trùng với ắc quy yếu hoặc hệ thống sạc kém, nên đừng vội kết luận. Bài [ắc quy xe máy yếu: dấu hiệu và xử lý](/xe-may/2026/09/27/ac-quy-xe-may-yeu-dau-hieu-va-xu-ly/) và bài [ắc quy xe thuê yếu, đề không nổ: nhận biết và xử lý](/xe-may/2026/09/29/ac-quy-xe-thue-yeu-de-khong-no-nhan-biet-va-xu-ly/) mô tả phần ắc quy yếu.
 
 ## Vì sao người thuê không nên tự cạo hay siết lại đầu cọc
 
@@ -61,7 +61,7 @@ Ba thông tin đầu giúp thợ phân biệt đầu dây lỏng, ắc quy yếu
 
 Hãy hỏi tiệm đã làm gì: làm sạch cọc, siết đầu dây, đo điện hay thay ắc quy. Xin tiệm nhắn một dòng xác nhận hoặc ghi lên phiếu. Sau vài ngày, nếu điện vẫn chập chờn, hãy báo lại thay vì chịu đựng.
 
-Sách Air Blade bản Việt Nam nhắc kiểm tra bình điện theo đúng lịch bảo dưỡng. Bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-inh-ky-xe-may-gom-nhung-gi/) nói thêm về các nhóm việc trong một kỳ bảo dưỡng.
+Sách Air Blade bản Việt Nam nhắc kiểm tra bình điện theo đúng lịch bảo dưỡng. Bài [bảo dưỡng định kỳ xe máy gồm những gì](/xe-may/2026/09/27/bao-duong-dinh-ky-xe-may-gom-nhung-gi/) nói thêm về các nhóm việc trong một kỳ bảo dưỡng.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

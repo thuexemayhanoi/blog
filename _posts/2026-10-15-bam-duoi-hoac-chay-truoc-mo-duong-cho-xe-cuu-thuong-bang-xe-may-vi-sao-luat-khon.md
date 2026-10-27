@@ -41,7 +41,7 @@ Bài không biết cơ quan có thẩm quyền sẽ nhìn nhận một lần bá
 
 Điều 27 khoản 5 viết khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông phải giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường; bài diễn đạt lại, không trích nguyên văn. Đây là điều nên làm khi nghe còi hay thấy đèn của xe cứu thương.
 
-Sau khi xe cứu thương đi qua, hãy chờ một nhịp rồi mới đi tiếp, và đừng nhập vào dòng xe vừa mở đường theo sau nó. Bài [nhường đường cho đoàn xe ưu tiên khi đi xe máy](/an-toan-phap-ly/2026/10/10/nhuong-uong-cho-oan-xe-uu-tien-khi-i-xe-may/) nói thêm cách nhường.
+Sau khi xe cứu thương đi qua, hãy chờ một nhịp rồi mới đi tiếp, và đừng nhập vào dòng xe vừa mở đường theo sau nó. Bài [nhường đường cho đoàn xe ưu tiên khi đi xe máy](/an-toan-phap-ly/2026/10/10/nhuong-duong-cho-doan-xe-uu-tien-khi-di-xe-may/) nói thêm cách nhường.
 
 ## Vì sao bám đuôi nguy hiểm: xe cứu thương làm điều bạn không được phép làm
 

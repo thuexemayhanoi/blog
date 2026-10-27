@@ -53,7 +53,7 @@ Quy chuẩn nói biển phụ đặt ngay bên dưới biển chính. Nếu khô
 
 Điều 22 khoản 2 viết tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, phải nhường đường cho xe đi đến từ bên phải. Điều này áp dụng khi không có báo hiệu ưu tiên. Nếu nút có biển W.208 hay đường ưu tiên được cắm biển, khoản 1 áp dụng trước theo cách bài đọc.
 
-Bài [đường ưu tiên và xe máy thuê đi đúng làn nào](/an-toan-phap-ly/2026/10/09/uong-uu-tien-va-xe-may-thue-i-ung-lan-nao/) nói thêm về đường ưu tiên. Bài không biết nút của bạn có đầy đủ biển hay không.
+Bài [đường ưu tiên và xe máy thuê đi đúng làn nào](/an-toan-phap-ly/2026/10/09/duong-uu-tien-va-xe-may-thue-di-dung-lan-nao/) nói thêm về đường ưu tiên. Bài không biết nút của bạn có đầy đủ biển hay không.
 
 ## Biển phụ đọc chung với biển chính: đừng đọc rời
 
