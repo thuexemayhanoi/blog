@@ -52,13 +52,13 @@ Võ Chí Công không chạm hồ. Muốn ra Lạc Long Quân, ra các quán ven
 
 Cách làm chung ở mọi nút: vài trăm mét trước nút, xác định hướng rẽ trên bản đồ; tới gần, nhìn biển chỉ dẫn và mũi tên sơn trên mặt đường để biết xe máy rẽ từ làn nào, theo pha đèn nào. Có nút cho rẽ, có nút hạn chế theo loại xe hoặc theo giờ, và các quy định này có thể thay đổi. Đừng đoán theo thói quen ở đường khác. Nếu lỡ lối rẽ, đi tiếp tới nút sau hoặc chỗ được phép quay đầu, không cắt ngang dải phân cách, không đi ngược chiều trên làn sát vỉa hè.
 
-Khi đã xuống Lạc Long Quân, nhịp đường khác hẳn: hẹp hơn, đông người đi bộ, nhiều quán. Gợi ý điểm dừng ven hồ có trong bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/uong-lac-long-quan-chay-xe-buoi-chieu-iem-dung-ven-ho/), còn nếu muốn chạy trọn một vòng, xem [cung đường chạy vòng Hồ Tây](/du-lich/2026/09/28/chay-vong-ho-tay-cung-uong-va-iem-dung/).
+Khi đã xuống Lạc Long Quân, nhịp đường khác hẳn: hẹp hơn, đông người đi bộ, nhiều quán. Gợi ý điểm dừng ven hồ có trong bài [đường Lạc Long Quân chạy xe buổi chiều](/du-lich/2026/10/04/duong-lac-long-quan-chay-xe-buoi-chieu-diem-dung-ven-ho/), còn nếu muốn chạy trọn một vòng, xem [cung đường chạy vòng Hồ Tây](/du-lich/2026/09/28/chay-vong-ho-tay-cung-duong-va-diem-dung/).
 
 ## Đi Võ Chí Công về Cầu Giấy và lên cầu Nhật Tân
 
 **Về Cầu Giấy.** Theo hướng nam, đi hết Võ Chí Công là tới nút giao với Hoàng Quốc Việt. Đây là nút đông vào giờ tan tầm, nhiều xe chuyển hướng cùng lúc. Chuẩn bị sớm: đọc biển chỉ hướng dành cho xe máy, đứng đúng làn theo mũi tên, chờ đèn. Không bám theo ô tô vào các nhánh hay đường dẫn chỉ dành cho ô tô.
 
-**Lên cầu Nhật Tân.** Theo hướng bắc, gần cuối đường sẽ có biển tách lối lên cầu. Cầu Nhật Tân cho xe máy đi theo làn riêng; điều quan trọng là vào đúng đường dẫn dành cho xe máy, không đi nhầm nhánh của ô tô. Trên cầu thường có gió ngang, giữ lái chắc và tốc độ vừa phải. Chi tiết về cầu có ở bài [đến cầu Nhật Tân bằng xe máy](/du-lich/2026/10/04/en-cau-nhat-tan-bang-xe-may-uong-i-va-luu-y-chay-tren-cau/).
+**Lên cầu Nhật Tân.** Theo hướng bắc, gần cuối đường sẽ có biển tách lối lên cầu. Cầu Nhật Tân cho xe máy đi theo làn riêng; điều quan trọng là vào đúng đường dẫn dành cho xe máy, không đi nhầm nhánh của ô tô. Trên cầu thường có gió ngang, giữ lái chắc và tốc độ vừa phải. Chi tiết về cầu có ở bài [đến cầu Nhật Tân bằng xe máy](/du-lich/2026/10/04/den-cau-nhat-tan-bang-xe-may-duong-di-va-luu-y-chay-tren-cau/).
 
 Nguyên tắc chung cho mọi cầu vượt, đường dẫn và nút giao lớn trên trục này: theo biển dành cho xe máy, đừng theo dòng ô tô.
 

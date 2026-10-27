@@ -34,7 +34,7 @@ Một chi tiết đáng biết trên xe ga đời mới: chân chống thường
 
 Khi nhận xe ở cửa hàng, bạn nên thử bỏ và lấy chống ngay tại chỗ, trước mặt nhân viên. Điều này giúp bạn biết độ cứng của chống, tiếng chốt nghe thế nào, và vị trí chống quen thuộc chưa. Trên một số xe cũ, lò xo chân chống yếu, chống có thể tự thu về giữa chừng, rất nguy hiểm nếu bạn đã rời xa xe mà tưởng xe đã chống chắc. Nếu thấy chống lỏng hoặc không ăn chốt, yêu cầu đổi xe hoặc sửa ngay tại hàng.
 
-Trước khi nhận xe, bạn cũng nên chuẩn bị đủ giấy tờ theo danh mục tôi đã ghi trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), và người mới lên xe lần đầu có thể xem thêm các lưu ý trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/). Làm thủ tục gọn, bạn có nhiều thời gian quan sát xe hơn thay vì vội vã rồi bỏ qua các bước kiểm tra.
+Trước khi nhận xe, bạn cũng nên chuẩn bị đủ giấy tờ theo danh mục tôi đã ghi trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), và người mới lên xe lần đầu có thể xem thêm các lưu ý trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/). Làm thủ tục gọn, bạn có nhiều thời gian quan sát xe hơn thay vì vội vã rồi bỏ qua các bước kiểm tra.
 
 ## Chọn vị trí đỗ để chống chắc chắn
 

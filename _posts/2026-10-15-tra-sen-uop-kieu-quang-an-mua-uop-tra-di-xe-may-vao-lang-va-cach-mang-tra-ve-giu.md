@@ -48,7 +48,7 @@ Trong làng, ngõ hẹp, nhiều đoạn chỉ vừa hai xe máy tránh nhau, c�
 - **Không dựng xe chắn cửa nhà hay lối đi.** Hỏi chủ nhà trước khi dựng xe trước cửa họ, hoặc gửi ở bãi phía đường lớn rồi đi bộ vào.
 - **Tránh giờ người dân đi chợ sáng**, khi ngõ đông xe đẩy hàng và người đi bộ.
 
-Nếu ghé cả chợ sáng trong khu, có thể tham khảo bài [chợ Quảng An buổi sáng bằng xe máy](/du-lich/2026/10/04/cho-quang-an-buoi-sang-bang-xe-may-uong-i-va-gui-xe/) để biết đường vào và chỗ gửi xe.
+Nếu ghé cả chợ sáng trong khu, có thể tham khảo bài [chợ Quảng An buổi sáng bằng xe máy](/du-lich/2026/10/04/cho-quang-an-buoi-sang-bang-xe-may-duong-di-va-gui-xe/) để biết đường vào và chỗ gửi xe.
 
 ## Mua trà sen Tây Hồ ở hộ làm nghề: chọn sao cho yên tâm
 
@@ -73,7 +73,7 @@ Trà sen kỵ ba thứ: không khí, nhiệt và mùi lạ. Chở trên xe máy 
 
 ### Đặt ở đâu trên xe
 
-Cốp xe ga đóng kín ngoài nắng nóng lên rất nhanh, lại hay ám mùi xăng, áo mưa, mũ bảo hiểm. Để trà trong cốp lâu dưới nắng là cách làm hao hương nhanh nhất. Nếu cần ghé thêm nơi khác, mang túi trà theo người, hoặc cho vào balo đeo sau lưng, tránh để trong cốp xe đỗ ngoài nắng. Lý do và những thứ khác cũng không nên để trong cốp được nói trong bài [đồ không nên để trong cốp xe ga khi nắng nóng](/xe-may/2026/10/11/o-khong-nen-e-trong-cop-xe-ga-khi-o-nang-nong/).
+Cốp xe ga đóng kín ngoài nắng nóng lên rất nhanh, lại hay ám mùi xăng, áo mưa, mũ bảo hiểm. Để trà trong cốp lâu dưới nắng là cách làm hao hương nhanh nhất. Nếu cần ghé thêm nơi khác, mang túi trà theo người, hoặc cho vào balo đeo sau lưng, tránh để trong cốp xe đỗ ngoài nắng. Lý do và những thứ khác cũng không nên để trong cốp được nói trong bài [đồ không nên để trong cốp xe ga khi nắng nóng](/xe-may/2026/10/11/do-khong-nen-de-trong-cop-xe-ga-khi-do-nang-nong/).
 
 Nếu đi quãng ngắn về thẳng nhà, cho túi trà vào cốp được, miễn là đặt riêng, không để cạnh can xăng, đồ ăn có mùi hay áo mưa ẩm.
 

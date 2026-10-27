@@ -32,7 +32,7 @@ Nhóm thứ ba là phụ kiện an toàn và tiện ích trên xe. Khóa cổ ch
 
 ## Cách đề nghị phụ kiện khi nhận xe
 
-Ngay lúc đối soát xe, bạn nên nói rõ kỳ thuê kéo dài cả tuần và liệt kê các món muốn mượn thêm. Cách đề nghị thẳng thắn thường hiệu quả hơn là chờ cửa hàng gợi ý, vì mỗi xe chỉ được trang bị một bộ phụ kiện cơ bản. Người mới thuê lần đầu có thể tham khảo trước bài [thuê xe máy cho người mới lấy bằng A1](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) để nắm các bước chuẩn bị. Đồng thời, hãy hỏi rõ món nào được tính kèm theo hợp đồng, món nào cần đặt thêm, và nếu giữa tuần muốn đổi món thì quy trình ra sao. Ghi lại các thỏa thuận vào biên bản nhận xe để tránh hiểu nhầm lúc trả, giúp cả hai bên yên tâm suốt bảy ngày.
+Ngay lúc đối soát xe, bạn nên nói rõ kỳ thuê kéo dài cả tuần và liệt kê các món muốn mượn thêm. Cách đề nghị thẳng thắn thường hiệu quả hơn là chờ cửa hàng gợi ý, vì mỗi xe chỉ được trang bị một bộ phụ kiện cơ bản. Người mới thuê lần đầu có thể tham khảo trước bài [thuê xe máy cho người mới lấy bằng A1](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/) để nắm các bước chuẩn bị. Đồng thời, hãy hỏi rõ món nào được tính kèm theo hợp đồng, món nào cần đặt thêm, và nếu giữa tuần muốn đổi món thì quy trình ra sao. Ghi lại các thỏa thuận vào biên bản nhận xe để tránh hiểu nhầm lúc trả, giúp cả hai bên yên tâm suốt bảy ngày.
 
 ## Kiểm tra tình trạng từng món trước khi rời cửa hàng
 

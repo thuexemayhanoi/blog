@@ -36,7 +36,7 @@ Trường hợp thứ ba: khách từ tỉnh ra Hà Nội công tác ngắn ngà
 
 Khi nhận xe 50cc, ngoài GPLX và giấy tờ tùy thân, bạn nên kiểm tra ba điểm trên xe. Thứ nhất, hệ thống phanh trước và sau: bóp nhẹ khi đẩy xe, nghe xem có tiếng rít bất thường không. Thứ hai, còi và đèn: bấm còi, bật đèn xa gần, vì xe nhỏ thường đi trong ngõ nên còi đèn rất cần. Thứ ba, gương chiếu hậu và lốp: gương phải chỉnh được, lốp không mòn lệch. Xe cỡ nhỏ thường đã chạy nhiều năm nên những chi tiết này đáng để bạn để ý hơn trên xe đời mới.
 
-Về thủ tục thuê, đa số cửa hàng yêu cầu đặt cọc và ký giấy ghi nhận tình trạng xe. Hãy đọc kỹ các điều khoản về thời gian trả xe và trách nhiệm khi hư hỏng. Nếu bạn lần đầu thuê xe, phần [kinh nghiệm thuê xe cho người mới có bằng A1](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) nêu khá đủ các bước từ đặt xe đến bàn giao. Các bài trong chuyên mục [xe máy](/xe-may/) cũng tổng hợp kinh nghiệm chọn dòng xe theo nhu cầu để bạn cân nhắc phương án phù hợp.
+Về thủ tục thuê, đa số cửa hàng yêu cầu đặt cọc và ký giấy ghi nhận tình trạng xe. Hãy đọc kỹ các điều khoản về thời gian trả xe và trách nhiệm khi hư hỏng. Nếu bạn lần đầu thuê xe, phần [kinh nghiệm thuê xe cho người mới có bằng A1](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-dau/) nêu khá đủ các bước từ đặt xe đến bàn giao. Các bài trong chuyên mục [xe máy](/xe-may/) cũng tổng hợp kinh nghiệm chọn dòng xe theo nhu cầu để bạn cân nhắc phương án phù hợp.
 
 ## Những câu hỏi thường gặp
 

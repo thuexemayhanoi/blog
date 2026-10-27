@@ -42,7 +42,7 @@ Chỗ hay gây phiền nhất trên các phố ven hồ là thói quen dừng đ
 4. **Muốn ngồi lâu thì gửi xe.** Một số quán ven hồ có chỗ để xe cho khách, hoặc có điểm gửi xe có người trông gần đó. Hỏi giá trước khi gửi và nhớ vị trí.
 5. **Không đỗ chắn cổng nhà dân, ngõ, lối ra vào khách sạn.**
 
-Chuyện gửi xe ven hồ nói chung đã có trong bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/), áp dụng được cho cả bờ bắc.
+Chuyện gửi xe ven hồ nói chung đã có trong bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/), áp dụng được cho cả bờ bắc.
 
 ## Nối sang Phú Thượng hoặc ra đường Võ Chí Công
 

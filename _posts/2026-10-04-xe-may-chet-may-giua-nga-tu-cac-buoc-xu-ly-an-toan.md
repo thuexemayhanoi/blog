@@ -34,7 +34,7 @@ Sau khi đã ở chỗ an toàn, mới thử nổ máy vài nhát. Với xe số
 
 Nếu xe thuê, việc cần làm ngay khi đã an toàn là gọi cửa hàng theo số đã lưu, mô tả vị trí, tình trạng và các dấu hiệu trên. Nhiều cửa hàng có hướng dẫn riêng cho từng dòng xe, và cách xử lý theo thỏa thuận thuê giữa hai bên.
 
-Đừng tự tháo máy hoặc mang xe ra tiệm sửa khi chưa hỏi, vì tự sửa khi chưa được hướng dẫn có thể khiến mọi hỗ trợ sau đó rắc rối hơn. Trong lúc chờ, đứng nghỉ ở chỗ thoáng, uống nước, giữ điện thoại đủ pin, và không để xe ở nơi quá vắng vẻ về tối. Nếu sự cố xảy ra trong mưa to kèm ngập, càng không cố nổ lại giữa nước, vì nước vào máy qua ống gió sẽ biến chuyện chết máy đơn giản thành hỏng nặng, khi đó cách an toàn là dắt hoặc kéo xe ra chỗ khô, trình tự kéo xe qua đoạn ngập được kể trong bài [kéo xe qua đoạn ngập nước đúng cách](/ky-nang/2026/10/04/keo-xe-qua-oan-ngap-nuoc-ung-cach/).
+Đừng tự tháo máy hoặc mang xe ra tiệm sửa khi chưa hỏi, vì tự sửa khi chưa được hướng dẫn có thể khiến mọi hỗ trợ sau đó rắc rối hơn. Trong lúc chờ, đứng nghỉ ở chỗ thoáng, uống nước, giữ điện thoại đủ pin, và không để xe ở nơi quá vắng vẻ về tối. Nếu sự cố xảy ra trong mưa to kèm ngập, càng không cố nổ lại giữa nước, vì nước vào máy qua ống gió sẽ biến chuyện chết máy đơn giản thành hỏng nặng, khi đó cách an toàn là dắt hoặc kéo xe ra chỗ khô, trình tự kéo xe qua đoạn ngập được kể trong bài [kéo xe qua đoạn ngập nước đúng cách](/ky-nang/2026/10/04/keo-xe-qua-doan-ngap-nuoc-dung-cach/).
 
 ## Phòng tránh chết máy trên xe thuê
 

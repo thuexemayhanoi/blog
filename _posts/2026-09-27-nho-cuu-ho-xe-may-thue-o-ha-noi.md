@@ -35,7 +35,7 @@ Có sẵn bốn nhóm này rút ngắn cuộc gọi từ mười phút xuống h
 
 ## Chờ hỗ trợ: những việc nên làm
 
-Trong lúc chờ, việc đầu tiên là đưa xe và bản thân ra khỏi làn đường: dắt lên vỉa hè, gập chân chống, khóa cổ, để xe ở chỗ dễ thấy. Nếu trời tối, bật đèn hoặc đặt vật phản quang nếu có. Giữ chìa khóa và giấy tờ bên mình, chụp vài tấm ảnh xe ở hiện trường để có bằng chứng trạng thái xe lúc hỏng, đặc biệt nếu xe vừa ngã hoặc va quẹt trước đó. Mọi tình huống bất ngờ khác với xe thuê đều được xếp trong chủ đề [sự cố khi thuê xe](/thue-xe/su-co/), trong đó có bài về [xe thuê hỏng giữa đường](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/) với trình tự chi tiết từng bước.
+Trong lúc chờ, việc đầu tiên là đưa xe và bản thân ra khỏi làn đường: dắt lên vỉa hè, gập chân chống, khóa cổ, để xe ở chỗ dễ thấy. Nếu trời tối, bật đèn hoặc đặt vật phản quang nếu có. Giữ chìa khóa và giấy tờ bên mình, chụp vài tấm ảnh xe ở hiện trường để có bằng chứng trạng thái xe lúc hỏng, đặc biệt nếu xe vừa ngã hoặc va quẹt trước đó. Mọi tình huống bất ngờ khác với xe thuê đều được xếp trong chủ đề [sự cố khi thuê xe](/thue-xe/su-co/), trong đó có bài về [xe thuê hỏng giữa đường](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-duong-xu-ly-tung-buoc/) với trình tự chi tiết từng bước.
 
 Trong lúc chờ, tránh tự ý tháo lắp bộ phận mà bạn không thành thạo, vì việc mở máy tự dưng có thể khiến hư hỏng nặng thêm và làm mất dấu vết nguyên nhân thật. Chỉ nên kiểm tra những thứ quan sát được bên ngoài: dây điện có lỏng không, ống xăng có bị bẹp không, cầu chì còn nguyên không nếu bạn biết vị trí của nó. Nếu có tiệm sửa gần và bạn muốn nhờ xem nhanh, gọi cửa hàng hỏi ý kiến trước, vì với xe thuê, việc sửa ở đâu và sửa những gì nên có người quyết.
 

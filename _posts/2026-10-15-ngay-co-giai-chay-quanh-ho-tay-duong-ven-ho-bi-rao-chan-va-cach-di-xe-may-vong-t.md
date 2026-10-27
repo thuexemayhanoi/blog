@@ -72,11 +72,11 @@ Thay vì băng qua khu ven hồ, có thể chạy theo các trục phía ngoài 
 - **Đi sớm hẳn, trước giờ rào.** Nếu thông báo ghi rõ giờ bắt đầu cấm, xuất phát trước đó đủ lâu để qua khu hồ an toàn. Đừng căn sát phút chót, vì hàng rào có thể được dựng trước giờ ghi trên giấy.
 - **Đi muộn, sau khi giải kết thúc.** Các đoạn xa vạch đích mở sớm hơn, nhưng cả khu thường còn đông người đi bộ, xe chở dụng cụ thu dọn, nên chạy chậm.
 
-Nếu chỉ định chạy dạo ngắm hồ, hãy dời sang buổi chiều hoặc ngày khác. Một buổi sáng yên tĩnh như trong bài [chạy xe vòng Hồ Tây buổi sáng sớm](/du-lich/2026/10/09/chay-xe-vong-ho-tay-buoi-sang-som-uong-nao-ep/) chỉ trọn vẹn khi đường ven hồ không có sự kiện.
+Nếu chỉ định chạy dạo ngắm hồ, hãy dời sang buổi chiều hoặc ngày khác. Một buổi sáng yên tĩnh như trong bài [chạy xe vòng Hồ Tây buổi sáng sớm](/du-lich/2026/10/09/chay-xe-vong-ho-tay-buoi-sang-som-duong-nao-dep/) chỉ trọn vẹn khi đường ven hồ không có sự kiện.
 
 ## Nếu chính bạn là người đi chạy
 
-Nhiều người thuê xe máy để tự đi tới điểm xuất phát giải. Khi đó, đừng định gửi xe sát cổng xuất phát: khu này thường bị rào trước, xe vào được nhưng ra không được cho tới khi giải xong. Gửi ở bãi phía trục ngoài rồi đi bộ vào, như cách tính trong bài [chạy bộ sáng sớm quanh Hồ Tây](/du-lich/2026/10/10/chay-bo-sang-som-quanh-ho-tay-iem-gui-xe-va-cung-uong/), sẽ nhẹ đầu hơn. Nếu thuê xe ở tiệm tại 112 Nguyễn Văn Cừ, Long Biên, hãy nhận xe từ hôm trước, vì tiệm chỉ mở trong khung 09:00–21:00 và không giao xe lúc tờ mờ sáng.
+Nhiều người thuê xe máy để tự đi tới điểm xuất phát giải. Khi đó, đừng định gửi xe sát cổng xuất phát: khu này thường bị rào trước, xe vào được nhưng ra không được cho tới khi giải xong. Gửi ở bãi phía trục ngoài rồi đi bộ vào, như cách tính trong bài [chạy bộ sáng sớm quanh Hồ Tây](/du-lich/2026/10/10/chay-bo-sang-som-quanh-ho-tay-diem-gui-xe-va-cung-duong/), sẽ nhẹ đầu hơn. Nếu thuê xe ở tiệm tại 112 Nguyễn Văn Cừ, Long Biên, hãy nhận xe từ hôm trước, vì tiệm chỉ mở trong khung 09:00–21:00 và không giao xe lúc tờ mờ sáng.
 
 Cách nghĩ tương tự cũng dùng được cho các dịp phân luồng khác trong nội thành, xem thêm bài [dịp lễ lớn đi bảo tàng khu Ba Đình và đường vòng](/du-lich/2026/10/13/dip-le-lon-di-bao-tang-khu-ba-dinh-bang-xe-may-phan-luong-va-duong-vong/).
 

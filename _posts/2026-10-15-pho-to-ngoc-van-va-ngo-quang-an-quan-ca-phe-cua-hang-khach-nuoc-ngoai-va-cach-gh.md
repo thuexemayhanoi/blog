@@ -51,7 +51,7 @@ Những điều không nên làm, dù chỉ ghé vài phút:
 - Không để xe chồng lên bàn ghế hoặc chậu cây của quán bên cạnh.
 - Không treo đồ giá trị trên móc xe khi để xe ngoài trời.
 
-Ở khu đông khách, dừng xe đúng chỗ còn là cách giữ hòa khí với người dân trong ngõ. Bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/) nói thêm các điểm gửi ven hồ nếu bạn muốn để xe ngoài rồi đi bộ vào.
+Ở khu đông khách, dừng xe đúng chỗ còn là cách giữ hòa khí với người dân trong ngõ. Bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/) nói thêm các điểm gửi ven hồ nếu bạn muốn để xe ngoài rồi đi bộ vào.
 
 ### Giờ nào dễ đi
 
@@ -65,7 +65,7 @@ Nếu phía sau có xe khác đang chờ, cứ ra hiệu cho họ đi trước r
 
 ## Ghép Tô Ngọc Vân vào một buổi quanh Hồ Tây
 
-Khu Quảng An nằm sát hồ, nên một buổi uống cà phê ở đây ghép rất tự nhiên với các điểm khác. Sáng sớm có thể ghé [chợ Quảng An](/du-lich/2026/10/04/cho-quang-an-buoi-sang-bang-xe-may-uong-i-va-gui-xe/), sau đó vào Tô Ngọc Vân ngồi quán, rồi ra đường ven hồ. Muốn một vòng hồ buổi chiều trọn vẹn hơn, bài [dạo Hồ Tây bằng Honda Vision](/xe-may/2026/10/14/dao-ho-tay-bang-honda-vision-buoi-chieu-vong-ho-cho-dung-do-hop-le-va-gio-nen-tr/) đã gợi ý chiều đi và chỗ dừng đỗ hợp lệ, phần đó bạn không cần lặp lại ở đây.
+Khu Quảng An nằm sát hồ, nên một buổi uống cà phê ở đây ghép rất tự nhiên với các điểm khác. Sáng sớm có thể ghé [chợ Quảng An](/du-lich/2026/10/04/cho-quang-an-buoi-sang-bang-xe-may-duong-di-va-gui-xe/), sau đó vào Tô Ngọc Vân ngồi quán, rồi ra đường ven hồ. Muốn một vòng hồ buổi chiều trọn vẹn hơn, bài [dạo Hồ Tây bằng Honda Vision](/xe-may/2026/10/14/dao-ho-tay-bang-honda-vision-buoi-chieu-vong-ho-cho-dung-do-hop-le-va-gio-nen-tr/) đã gợi ý chiều đi và chỗ dừng đỗ hợp lệ, phần đó bạn không cần lặp lại ở đây.
 
 Một vài lưu ý cho người chở bạn ngồi sau: nhắc họ xuống xe ở chỗ đã dừng hẳn, bước ra phía vỉa hè chứ không bước ra phía lòng ngõ. Khi rời quán, kiểm tra lại mũ bảo hiểm, túi đồ trong cốp và chìa khóa trước khi dắt xe ra.
 
