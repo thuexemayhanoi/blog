@@ -36,7 +36,7 @@ Chấp nhận một thực tế: hoa trước mặt bạn là hàng hóa của n
 
 Nguyên tắc vàng: dừng xe ở bãi, đi bộ vào luống. Người hay chụp ảnh mùa hoa hay muốn xe nằm trong khung hình, nhưng ở Tây Tựu, dắt xe vào luống là làm hỏng hàng chục bụi hoa dưới bánh xe, và dân làng nhìn thấy rất khó chịu. Muốn ảnh có xe, hãy đỗ xe sát mép luống trên đường nhựa, dùng ống kính dài hơi đưa xe vào khung từ xa.
 
-Với ảnh chân dung giữa đồng hoa: đứng ở rãnh luống, không dẫm lên luống, và tuyệt đối không bẻ hoa tự chèn cài. Loa kèn một bụi chỉ ra vài bông đẹp, bẻ một bông là mất một món hàng của người trồng. Ai muốn cầm hoa chụp, hỏi mua bông ở các sạp ven đường vào, người bán bẻ sẵn giá rẻ, và bạn có bông đẹp hơn bông tự bẻ. Xem thêm [đi dạo ven bãi sông trong nội đô](/du-lich/2026/09/28/en-bai-song-hong-trong-noi-o-bang-xe-may-gui-xe-va-uong-i/) nếu bạn muốn nối chuyến ngày bằng một quãng chiều bên sông.
+Với ảnh chân dung giữa đồng hoa: đứng ở rãnh luống, không dẫm lên luống, và tuyệt đối không bẻ hoa tự chèn cài. Loa kèn một bụi chỉ ra vài bông đẹp, bẻ một bông là mất một món hàng của người trồng. Ai muốn cầm hoa chụp, hỏi mua bông ở các sạp ven đường vào, người bán bẻ sẵn giá rẻ, và bạn có bông đẹp hơn bông tự bẻ. Xem thêm [đi dạo ven bãi sông trong nội đô](/du-lich/2026/09/28/den-bai-song-hong-trong-noi-do-bang-xe-may-gui-xe-va-duong-di/) nếu bạn muốn nối chuyến ngày bằng một quãng chiều bên sông.
 
 Áo sáng màu lên ảnh đẹp trên nền loa kèn đỏ, nhưng giày nên là loại cũ bẩn được: rãnh luống là đất bùn tơi, mưa hè nửa buổi là giày trắng thành giày nâu. Mùa đông sang, Tây Tựu đổi sang hoa cúc, hoa hồng vườn ươm, cũng là một dịp khác đáng đi, ít khách hơn loa kèn nhưng không kém phần rực rỡ.
 

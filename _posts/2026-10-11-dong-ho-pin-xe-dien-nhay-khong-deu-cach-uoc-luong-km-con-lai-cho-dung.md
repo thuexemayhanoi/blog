@@ -34,7 +34,7 @@ Lên dốc cầu vượt hay dốc dẫn lên cầu bắc qua sông Hồng, đ�
 
 ### Nhiệt độ: trưa hè và sáng se lạnh
 
-Trời quá nóng hoặc quá lạnh đều có thể làm số hiển thị và khả năng cấp điện thay đổi so với ngày dễ chịu. Xe đỗ ngoài nắng một lúc thì lúc lấy đi con số có thể lệch so với lúc bạn tắt máy. Bài [xe máy điện thuê khi trời quá nóng pin có sao không](/xe-may/2026/10/09/xe-may-ien-thue-khi-troi-qua-nong-pin-co-sao-khong/) nói kỹ hơn về chuyện này.
+Trời quá nóng hoặc quá lạnh đều có thể làm số hiển thị và khả năng cấp điện thay đổi so với ngày dễ chịu. Xe đỗ ngoài nắng một lúc thì lúc lấy đi con số có thể lệch so với lúc bạn tắt máy. Bài [xe máy điện thuê khi trời quá nóng pin có sao không](/xe-may/2026/10/09/xe-may-dien-thue-khi-troi-qua-nong-pin-co-sao-khong/) nói kỹ hơn về chuyện này.
 
 ### Điện áp tụt tạm thời rồi hồi lại
 
@@ -54,7 +54,7 @@ Cách đọc tốt nhất là nhìn xu hướng trong vài phút thay vì soi t�
 4. **Điều chỉnh theo đoạn phía trước.** Sắp lên dốc, ngược gió, trời nắng gắt hoặc chở nặng hơn thì cắt thêm. Đoạn phẳng, thoáng thì nới nhẹ nhưng vẫn giữ dự phòng.
 5. **Đặt mốc quay đầu.** Chọn sẵn mức pin mà bạn sẽ quay về hoặc dừng nghỉ, và giữ đúng mốc đó. Đừng chờ xe báo yếu mới tính, lúc ấy bạn đã hết lựa chọn.
 
-Muốn nhìn rộng hơn về tầm đi của cả chuyến, đọc thêm bài [thuê xe máy điện chạy xa được bao nhiêu km](/xe-may/2026/09/30/thue-xe-may-ien-chay-xa-uoc-bao-nhieu-km/).
+Muốn nhìn rộng hơn về tầm đi của cả chuyến, đọc thêm bài [thuê xe máy điện chạy xa được bao nhiêu km](/xe-may/2026/09/30/thue-xe-may-dien-chay-xa-duoc-bao-nhieu-km/).
 
 ## Ví dụ một chiều từ Long Biên vào phố cổ rồi về
 
@@ -70,7 +70,7 @@ Số nhảy lên xuống đơn thuần, nhất là sau dốc hoặc lúc tải n
 - Có đèn báo lỗi hoặc cảnh báo lạ trên bảng đồng hồ.
 - Có mùi khét, khu vực pin nóng bất thường hoặc có tiếng lạ.
 
-Đừng tự mở hộp pin, đừng nối hay gỡ dây. Hãy báo cho cửa hàng cho thuê trước khi tự xử lý. Muốn biết lúc sắp hết pin xe cảnh báo thế nào, xem bài [pin xe máy điện thuê báo sập ở đâu trên bảng đồng hồ](/xe-may/2026/10/07/pin-xe-may-ien-thue-bao-sap-o-au-tren-bang-ong-ho/).
+Đừng tự mở hộp pin, đừng nối hay gỡ dây. Hãy báo cho cửa hàng cho thuê trước khi tự xử lý. Muốn biết lúc sắp hết pin xe cảnh báo thế nào, xem bài [pin xe máy điện thuê báo sập ở đâu trên bảng đồng hồ](/xe-may/2026/10/07/pin-xe-may-dien-thue-bao-sap-o-dau-tren-bang-dong-ho/).
 
 Trước khi nhận xe, bạn nên hỏi và xác nhận trước với Nguyễn Tú về loại xe sẽ thuê, cách đọc đồng hồ của đúng chiếc xe đó và nên làm gì nếu pin tụt giữa đường. Mỗi dòng xe hiển thị một kiểu, hỏi trực tiếp vẫn đỡ nhầm hơn đoán.
 

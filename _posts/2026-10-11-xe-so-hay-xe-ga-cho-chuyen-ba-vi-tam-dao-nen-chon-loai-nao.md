@@ -30,7 +30,7 @@ Xe số lên dốc Ba Vì thoải mái hơn nhờ về số sớm: cảm giác n
 
 Xe ga leo dốc vẫn được nếu giữ ga đều và chọn tốc độ giữ được suốt đoạn, không tăng giảm liên tục. Điểm yếu của xe ga là dốc quá dài và quá dốc khiến hộp số tự động trễ một nhịp, dễ tạo cảm giác hụt lực giữa dốc. Cách xử lý là chạy đà trước chân dốc, không dừng giữa dốc để rồi leo lại, và nếu buộc phải dừng thì kéo vững phanh, ra ga thật nhẹ.
 
-Xuất phát đi Tam Đảo, phần dốc dài cuối cung là chỗ thử xe rõ nhất; kinh nghiệm [đi Tam Đảo từ Hà Nội với đèo sương và chảy xuống](/du-lich/2026/10/01/tam-ao-bang-xe-may-tu-ha-noi-eo-suong-va-chay-xuong/) cho thấy cung này hợp cả hai loại xe miễn là giữ được nhịp ga. Với Ba Vì, [chuyến Ba Vì nửa ngày từ Hà Nội](/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/) có đoạn dốc lượn quanh sườn, cua gắt hơn, xe số dễ điều tiết hơn hẳn.
+Xuất phát đi Tam Đảo, phần dốc dài cuối cung là chỗ thử xe rõ nhất; kinh nghiệm [đi Tam Đảo từ Hà Nội với đèo sương và chảy xuống](/du-lich/2026/10/01/tam-dao-bang-xe-may-tu-ha-noi-deo-suong-va-chay-xuong/) cho thấy cung này hợp cả hai loại xe miễn là giữ được nhịp ga. Với Ba Vì, [chuyến Ba Vì nửa ngày từ Hà Nội](/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/) có đoạn dốc lượn quanh sườn, cua gắt hơn, xe số dễ điều tiết hơn hẳn.
 
 ## Xuống dốc: phanh đúng nhịp, không bóp chặt
 
@@ -38,7 +38,7 @@ Xuống dốc là đoạn nguy hiểm hơn leo dốc, nhất là đoạn dài t�
 
 Xe ga không có phanh máy mạnh, nên phải nhịp phanh tang gắt hơn: bóp nhịp, nhả, bóp nhịp, để phanh có thời gian nguấy. Tư thế người lùi nhẹ về sau, hai tay giữ chắc cổ xe, mắt nhìn xa để phanh sớm trước mỗi cua. Tuyệt đối không tắt máy khi xuống dốc vì đèn pha và tín hiệu sẽ yếu lúc cần vượt.
 
-Với người vẫn lo lắng kỹ thuật leo dốc của xe ga, mẹo trong bài về [khởi hành lại giữa dốc cầu và cách vượt](/xe-may/2026/10/11/xe-ga-khoi-hanh-lai-giua-doc-cau-vuot-giu-phanh-va-ga-e-khong-tut-lui/) áp dụng được cho cả đoạn dốc núi, vì bản chất là giữ phanh chắc và ra ga dứt khoát.
+Với người vẫn lo lắng kỹ thuật leo dốc của xe ga, mẹo trong bài về [khởi hành lại giữa dốc cầu và cách vượt](/xe-may/2026/10/11/xe-ga-khoi-hanh-lai-giua-doc-cau-vuot-giu-phanh-va-ga-de-khong-tut-lui/) áp dụng được cho cả đoạn dốc núi, vì bản chất là giữ phanh chắc và ra ga dứt khoát.
 
 ## Ngồi lâu và chở hành lý
 
@@ -52,4 +52,4 @@ Người ngồi sau cũng cần được tính vào tư thế: trên dốc dài,
 
 Ba Vì: đường quanh co, cua gắt, mặt đường có đoạn mòn loang lổ, ưu tiên xe số nếu bạn muốn chủ động từng dốc; xe ga vẫn đi được nhưng chọn loại phổ thông, đừng lấy xe quá nặng. Tam Đảo: dốc dài và đều hơn, xe ga giữ ga suốt đoạn lại rất nhàn, hợp nhóm đi nghỉ lại một đêm.
 
-Nếu vẫn phân vân giữa hai loại cho đi phố thường ngày thì bài so sánh [xe số hay xe ga cho cung đường phố](/xe-may/2026/10/11/xe-so-hay-xe-ga-cho-uong-ong-pho/) đã gợi ý theo tần suất di chuyển. Còn nếu cả nhóm cùng đi, cứ để xe số chạy trước làm nhịp, xe ga theo sau giữ ga đều, cả đoàn sẽ lên xuống đèo gọn gàng và an toàn hơn nhiều. Chốt lại: cung đèo chọn xe quen, kiểm tra kỹ trước khi đi, và giữ nhịp ga phanh đều suốt chiều dài, đó mới là thứ quyết định chuyến Ba Vì hay Tam Đảo thành công hay không.
+Nếu vẫn phân vân giữa hai loại cho đi phố thường ngày thì bài so sánh [xe số hay xe ga cho cung đường phố](/xe-may/2026/10/11/xe-so-hay-xe-ga-cho-duong-dong-pho/) đã gợi ý theo tần suất di chuyển. Còn nếu cả nhóm cùng đi, cứ để xe số chạy trước làm nhịp, xe ga theo sau giữ ga đều, cả đoàn sẽ lên xuống đèo gọn gàng và an toàn hơn nhiều. Chốt lại: cung đèo chọn xe quen, kiểm tra kỹ trước khi đi, và giữ nhịp ga phanh đều suốt chiều dài, đó mới là thứ quyết định chuyến Ba Vì hay Tam Đảo thành công hay không.

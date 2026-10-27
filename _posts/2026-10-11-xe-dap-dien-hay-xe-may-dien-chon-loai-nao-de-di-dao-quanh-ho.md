@@ -30,7 +30,7 @@ Nhiều người lo nhất là hết pin giữa chừng. Thực tế dạo hồ 
 
 Quãng đường mỗi xe đi được thay đổi theo hãng, tình trạng pin, trọng lượng người ngồi, gió và cách vặn ga, nên bài này không đưa con số nào. Hãy hỏi cửa hàng chiếc xe bạn nhận đang ở mức pin nào và đi trong điều kiện bình thường được khoảng ra sao.
 
-Nếu chỉ dạo một buổi quanh Hồ Tây hoặc Hồ Gươm, cả hai loại thường đủ dùng, bạn chọn theo cảm giác lái. Nếu lịch trình dài hơn, sáng Hồ Gươm, chiều sang Hồ Tây, tối về khu phố cổ, thì xe máy điện nhiều khi cho bạn thêm sự thong thả, dù vậy vẫn là tùy xe. Với lịch trình dài, nên đọc trước bài về [những chỗ sạc tiện khi đi một vòng Hồ Tây](/xe-may/2026/10/05/xe-ien-thue-sac-o-au-khi-i-quanh-ho-tay/) và cách [xử lý khi xe thuê hết pin giữa đường](/xe-may/2026/10/10/xe-may-ien-thue-het-pin-giua-uong-xu-ly-the-nao/) để có sẵn phương án.
+Nếu chỉ dạo một buổi quanh Hồ Tây hoặc Hồ Gươm, cả hai loại thường đủ dùng, bạn chọn theo cảm giác lái. Nếu lịch trình dài hơn, sáng Hồ Gươm, chiều sang Hồ Tây, tối về khu phố cổ, thì xe máy điện nhiều khi cho bạn thêm sự thong thả, dù vậy vẫn là tùy xe. Với lịch trình dài, nên đọc trước bài về [những chỗ sạc tiện khi đi một vòng Hồ Tây](/xe-may/2026/10/05/xe-dien-thue-sac-o-dau-khi-di-quanh-ho-tay/) và cách [xử lý khi xe thuê hết pin giữa đường](/xe-may/2026/10/10/xe-may-dien-thue-het-pin-giua-duong-xu-ly-the-nao/) để có sẵn phương án.
 
 ## Độ ổn định ở những chỗ hay gặp quanh hồ
 
@@ -54,7 +54,7 @@ Nếu đi cùng người lớn tuổi muốn được chở, hãy xem người n
 
 **Chiều tà ở Hồ Tây, một người đi chụp ảnh.** Họ dừng liên tục, mỗi lần vài phút, quay đầu hoài. Xe đạp điện nhẹ, dễ dừng sát lề, bớt nặng nề mỗi lần xoay sở. Chỉ cần giữ tay lái vững khi gió từ mặt hồ thổi vào.
 
-Nếu bạn còn cân nhắc giữa xe điện với xe xăng cho cả chuyến Hà Nội, bài [so sánh xe điện và xe xăng khi thuê](/xe-may/2026/09/27/xe-may-ien-voi-xe-xang-chon-nao-khi-thue/) sẽ giúp bạn thấy rõ hơn.
+Nếu bạn còn cân nhắc giữa xe điện với xe xăng cho cả chuyến Hà Nội, bài [so sánh xe điện và xe xăng khi thuê](/xe-may/2026/09/27/xe-may-dien-voi-xe-xang-chon-nao-khi-thue/) sẽ giúp bạn thấy rõ hơn.
 
 ## Thuê xe đạp điện Hà Nội: câu nên hỏi trước khi nhận xe
 

@@ -28,11 +28,11 @@ Với khách thuê xe máy, buổi sớm cũng là lúc xe dễ chịu nhất: m
 
 Điểm hay nhất cho ánh sáng sớm là [ngắm cầu Long Biên lúc bình minh bằng xe máy](/du-lich/2026/10/09/ngam-cau-long-bien-luc-binh-minh-bang-xe-may/): mặt trời mọc từ phía bãi sông, dịp vàng rót qua khung sắt cầu cũ, và bãi bồi bên dưới có người đi bộ, thả diều. Gần đó, [chợ Long Biên buổi sáng sớm](/du-lich/2026/10/07/sang-som-cho-long-bien-co-gi-ang-i-bang-xe-may/) mở phiên rau sớm, một chợ đêm chợ hôm thật sự, nơi chụp ảnh đời thường rất tốt.
 
-Rời khỏi chợ, nếu còn đói, [đi chợ hoa Quảng An sáng sớm](/du-lich/2026/10/09/i-cho-hoa-quang-an-bang-xe-may-sang-som/) là chặng kế tiếp: phiên hoa mở từ tờ mờ, hàng chậu cây xanh um, mua được cầm về và có góc ảnh màu rất đẹp. Ba chặng này nối nhau theo trục Long Biên qua cầu Chương Dương rồi sang bờ Tây, quãng di chuyển ngắn, và hầu hết hoạt động tàn trước tám giờ nên phải đi sớm mới thấy.
+Rời khỏi chợ, nếu còn đói, [đi chợ hoa Quảng An sáng sớm](/du-lich/2026/10/09/di-cho-hoa-quang-an-bang-xe-may-sang-som/) là chặng kế tiếp: phiên hoa mở từ tờ mờ, hàng chậu cây xanh um, mua được cầm về và có góc ảnh màu rất đẹp. Ba chặng này nối nhau theo trục Long Biên qua cầu Chương Dương rồi sang bờ Tây, quãng di chuyển ngắn, và hầu hết hoạt động tàn trước tám giờ nên phải đi sớm mới thấy.
 
 ## Vòng Hồ Tây sáng sớm và dải ven hồ
 
-Sang phía Hồ Tây, khung sáu giờ chưa tới là đẹp nhất của ngày: mặt hồ gợn nhẹ, dải ven đường thưa người, dàn cần câu đợi nắng. Bài [chạy xe vòng Hồ Tây buổi sáng sớm](/du-lich/2026/10/09/chay-xe-vong-ho-tay-buoi-sang-som-uong-nao-ep/) đã xếp sẵn khung giờ và cung đường, bạn có thể lấy nguyên cho buổi đi sớm của mình. Ai muốn xuống bộ dạo quanh bờ, xem trước [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/) để chọn đúng chỗ có người trông sớm.
+Sang phía Hồ Tây, khung sáu giờ chưa tới là đẹp nhất của ngày: mặt hồ gợn nhẹ, dải ven đường thưa người, dàn cần câu đợi nắng. Bài [chạy xe vòng Hồ Tây buổi sáng sớm](/du-lich/2026/10/09/chay-xe-vong-ho-tay-buoi-sang-som-duong-nao-dep/) đã xếp sẵn khung giờ và cung đường, bạn có thể lấy nguyên cho buổi đi sớm của mình. Ai muốn xuống bộ dạo quanh bờ, xem trước [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/) để chọn đúng chỗ có người trông sớm.
 
 Điểm sáng sớm ở đây khác chợ Long Biên: không nhộn nhịp hàng hóa, mà thanh tĩnh. Người tập dưỡng sinh ven hồ, chim sóc chải cánh trên cành, và tiệm cà phê mở sớm dọc dải có mái ngồi nhìn nước. Cứ chừng bảy giờ rưỡi, dải ven đường bắt đầu nhận dòng xe đi làm, là lúc nên chuyển chặng hoặc về.
 

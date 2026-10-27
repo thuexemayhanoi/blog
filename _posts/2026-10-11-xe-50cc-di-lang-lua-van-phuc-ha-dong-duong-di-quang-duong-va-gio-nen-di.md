@@ -22,7 +22,7 @@ Xe 50cc nhẹ, gọn và dễ dắt, nên rất hợp với kiểu đi chậm, h
 
 Chỗ cần thận trọng nằm ở đoạn đường trước khi tới làng. Xe 50cc thường tăng tốc chậm và dễ bị đẩy lắc khi xe lớn chạy sát, nên bạn sẽ không theo kịp những dòng xe vội vã ở các trục lớn. Nếu chấp nhận đi sát mép phải, nhường người vượt và không cố bám kịp ai, chuyến đi thường vẫn ổn. Còn nếu bạn hay sốt ruột trong đường đông, hãy đổi khung giờ đi hoặc cân nhắc lại.
 
-Muốn hình dung sức của xe nhỏ trong cả ngày, bạn có thể đọc bài về [quãng đường xe 50cc thuê chạy được trong ngày](/xe-may/2026/10/09/xe-50cc-thue-chay-uoc-quang-uong-nao-trong-ngay/). Với riêng Vạn Phúc, một lượt đi từ nội thành thường vừa cho một buổi, còn thời gian thực tế tùy nhịp đi của bạn và độ đông của đường hôm đó.
+Muốn hình dung sức của xe nhỏ trong cả ngày, bạn có thể đọc bài về [quãng đường xe 50cc thuê chạy được trong ngày](/xe-may/2026/10/09/xe-50cc-thue-chay-duoc-quang-duong-nao-trong-ngay/). Với riêng Vạn Phúc, một lượt đi từ nội thành thường vừa cho một buổi, còn thời gian thực tế tùy nhịp đi của bạn và độ đông của đường hôm đó.
 
 ## Làng lụa Vạn Phúc đường đi từ nội thành sang Hà Đông
 
@@ -33,7 +33,7 @@ Nếu xuất phát từ phía Long Biên, hãy tính trước đoạn qua sông 
 
 ## Giờ nên đi Vạn Phúc để tránh dòng xe đông
 
-Nếu chỉ chọn được một thứ để chuyến đi dễ chịu hơn, đó là giờ khởi hành. Các trục dẫn sang Hà Đông thường đông vào lúc đi làm buổi sáng và tan tầm buổi chiều. Với xe 50cc, những lúc ấy bạn bị kẹp giữa xe tải, xe buýt và xe máy lớn, lại khó xuất phát nhanh khi đèn xanh. Bài về [cách xuất phát khi xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-ong-cach-xuat-phat-khi-en-xanh-bat/) sẽ giúp bạn bình tĩnh hơn ở những điểm này.
+Nếu chỉ chọn được một thứ để chuyến đi dễ chịu hơn, đó là giờ khởi hành. Các trục dẫn sang Hà Đông thường đông vào lúc đi làm buổi sáng và tan tầm buổi chiều. Với xe 50cc, những lúc ấy bạn bị kẹp giữa xe tải, xe buýt và xe máy lớn, lại khó xuất phát nhanh khi đèn xanh. Bài về [cách xuất phát khi xe 50cc tăng tốc chậm ở ngã tư đông](/xe-may/2026/10/11/xe-50cc-tang-toc-cham-o-nga-tu-dong-cach-xuat-phat-khi-den-xanh-bat/) sẽ giúp bạn bình tĩnh hơn ở những điểm này.
 
 Gợi ý của mình:
 
@@ -47,7 +47,7 @@ Nếu thuê xe tại Nguyễn Tú, cửa hàng mở từ 09:00 đến 21:00 và 
 
 Khi đi Vạn Phúc Hà Đông bằng xe máy nhỏ, mình giữ ba thói quen. Thứ nhất, đi làn ngoài cùng bên phải và để người khác vượt thay vì chen. Thứ hai, giữ khoảng cách với xe phía trước rộng hơn bình thường, vì xe nhẹ phanh gấp giữa đường đông sẽ bị xe sau áp sát rất nhanh. Thứ ba, luôn chừa một đường thoát khi xe tải, xe buýt đi cùng chiều.
 
-Nếu có đoạn thoáng, đừng vì thoáng mà vặn ga hết cỡ. Xe 50cc chạy thoải mái ở nhịp vừa phải, còn gắng sức liên tục sẽ nóng máy và mệt người. Bạn có thể đọc thêm về [giới hạn thực tế của xe 50cc khi chạy đường trường](/xe-may/2026/10/11/xe-50cc-co-chay-uong-truong-on-khong-gioi-han-toc-o-thuc-te/).
+Nếu có đoạn thoáng, đừng vì thoáng mà vặn ga hết cỡ. Xe 50cc chạy thoải mái ở nhịp vừa phải, còn gắng sức liên tục sẽ nóng máy và mệt người. Bạn có thể đọc thêm về [giới hạn thực tế của xe 50cc khi chạy đường trường](/xe-may/2026/10/11/xe-50cc-co-chay-duong-truong-on-khong-gioi-han-toc-do-thuc-te/).
 
 Gần tới làng, đường hẹp lại, người đi bộ và xe ra vào cửa hàng nhiều hơn. Hãy giảm tốc từ xa, bật xi nhan sớm và tìm chỗ dừng không chắn lối người khác. Đừng dừng giữa đường chỉ để chụp một tấm ảnh.
 

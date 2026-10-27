@@ -22,7 +22,7 @@ Xe chạy xăng có tiếng máy nổ, nên từ cuối ngõ hay sau một góc 
 
 Trong ngõ nhỏ, hậu quả đến rất nhanh: lối đi chỉ vừa một chiếc xe và một người nép sát tường, ai đó lệch sang một bước là hết chỗ xoay xở. Khi tiếng máy không còn cảnh báo, bạn phải tự tạo tín hiệu thay nó.
 
-Nếu đang cân nhắc thuê xe điện, hãy xem chuyên mục [xe máy điện](/xe-may/xe-dien/). Còn độ êm của loại xe này về đêm được kể trong [bài về xe máy điện thuê chạy đêm có ồn không](/xe-may/2026/10/09/xe-may-ien-thue-co-on-khi-chay-em-khong/).
+Nếu đang cân nhắc thuê xe điện, hãy xem chuyên mục [xe máy điện](/xe-may/xe-dien/). Còn độ êm của loại xe này về đêm được kể trong [bài về xe máy điện thuê chạy đêm có ồn không](/xe-may/2026/10/09/xe-may-dien-thue-co-on-khi-chay-dem-khong/).
 
 ## Giảm tốc từ cửa ngõ, đừng đợi đến khi thấy người
 
@@ -64,7 +64,7 @@ Ngõ hẹp, nhà sát nhau, hàng hóa kê ra tận lối đi. Sáng sớm là l
 
 ### Khu chợ dân sinh
 
-Chợ buổi sáng là nơi người đi bộ khó đoán nhất. Họ cầm đầy túi, quay người đột ngột để chọn hàng, lùi lại nhường người khác. Nền chợ thường ướt vì nước từ quầy rau, quầy cá. Nếu hôm đó trời mưa, hãy đọc trước [bài về xe máy điện chạy trời mưa lớn có bị chập không](/xe-may/2026/10/05/xe-may-ien-chay-troi-mua-lon-co-bi-chap-khong/) để biết cách ứng xử với nước và nền ướt.
+Chợ buổi sáng là nơi người đi bộ khó đoán nhất. Họ cầm đầy túi, quay người đột ngột để chọn hàng, lùi lại nhường người khác. Nền chợ thường ướt vì nước từ quầy rau, quầy cá. Nếu hôm đó trời mưa, hãy đọc trước [bài về xe máy điện chạy trời mưa lớn có bị chập không](/xe-may/2026/10/05/xe-may-dien-chay-troi-mua-lon-co-bi-chap-khong/) để biết cách ứng xử với nước và nền ướt.
 
 ### Vỉa hè và lối ra vào đông người
 
@@ -80,7 +80,7 @@ Người mới thường vướng vào vài thói quen giống nhau:
 - Vừa chạy vừa nhìn định vị. Hãy dừng sát lề để xem rồi mới đi tiếp.
 - Bám sát lưng người đi bộ để họ tránh. Vì xe êm, cú áp sát từ phía sau còn đáng sợ hơn tiếng xe xăng.
 
-Một lỗi khác là để pin xuống thấp rồi mới tìm chỗ sạc, đến khi xe yếu lực giữa ngõ thì chặn cả lối đi. Cách xử lý khi hết pin được kể trong [bài xe máy điện thuê hết pin giữa đường xử lý thế nào](/xe-may/2026/10/10/xe-may-ien-thue-het-pin-giua-uong-xu-ly-the-nao/).
+Một lỗi khác là để pin xuống thấp rồi mới tìm chỗ sạc, đến khi xe yếu lực giữa ngõ thì chặn cả lối đi. Cách xử lý khi hết pin được kể trong [bài xe máy điện thuê hết pin giữa đường xử lý thế nào](/xe-may/2026/10/10/xe-may-dien-thue-het-pin-giua-duong-xu-ly-the-nao/).
 
 Nếu xe có biểu hiện lạ như mất lực, báo lỗi hay bốc mùi, hãy dừng ở chỗ an toàn gần nhất, tắt xe và báo cho cửa hàng cho thuê trước khi tự xử lý. Đừng tự mở hay sửa pin, và việc sạc nên theo đúng hướng dẫn của cửa hàng hoặc nhà sản xuất.
 

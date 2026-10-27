@@ -39,7 +39,7 @@ Với xe xăng, nhiều người vẫn chạy chậm tới tiệm vá gần nh�
 
 Chạy lết khiến mép vành cọ xuống đường, lốp rách thêm. Chỗ thủng vá được có thể thành lốp phải thay, thậm chí vành méo. Hơn nữa, tùy xe, tùy hãng, động cơ thường nằm ngay trong bánh sau hoặc bánh trước. Khi đó bánh còn chứa động cơ và dây điện đi qua trục, mọi cú xóc đều truyền thẳng vào bộ phận đắt nhất của xe. Vì vậy cũng đừng tự tháo bánh, việc này nên để thợ quen xe điện làm.
 
-Xe điện còn nặng hơn xe cùng cỡ vì có pin. Dắt xe nặng với lốp xẹp qua quãng dài rất mệt, dễ trượt chân trên mặt đường ướt. Chỉ dắt quãng ngắn để vào chỗ an toàn. Nếu xe vừa xẹp lốp vừa báo pin yếu, hãy đọc thêm bài về [cách xử lý khi xe điện thuê hết pin giữa đường](/xe-may/2026/10/10/xe-may-ien-thue-het-pin-giua-uong-xu-ly-the-nao/).
+Xe điện còn nặng hơn xe cùng cỡ vì có pin. Dắt xe nặng với lốp xẹp qua quãng dài rất mệt, dễ trượt chân trên mặt đường ướt. Chỉ dắt quãng ngắn để vào chỗ an toàn. Nếu xe vừa xẹp lốp vừa báo pin yếu, hãy đọc thêm bài về [cách xử lý khi xe điện thuê hết pin giữa đường](/xe-may/2026/10/10/xe-may-dien-thue-het-pin-giua-duong-xu-ly-the-nao/).
 
 ## Báo chủ xe trước khi gọi thợ
 
@@ -77,7 +77,7 @@ Vá xong chưa phải là xong. Trước khi lên xe:
 
 - Nhìn lại chỗ vá, xem lốp căng đều. Mức căng đúng tùy xe, hãy hỏi thợ hoặc xem hướng dẫn của hãng.
 - Nếu bánh vừa được tháo ra, hãy chạy thử chậm ở chỗ vắng, bóp thử cả hai phanh, nghe xem có tiếng cọ hay rung lạ không.
-- Nếu xuất hiện đèn hay biểu tượng lạ trên đồng hồ, xem bài [đọc đèn báo lỗi trên đồng hồ xe máy điện](/xe-may/2026/10/11/en-bao-loi-va-bieu-tuong-tren-ong-ho-xe-may-ien-oc-the-nao/) rồi báo chủ xe, đừng tự xử lý.
+- Nếu xuất hiện đèn hay biểu tượng lạ trên đồng hồ, xem bài [đọc đèn báo lỗi trên đồng hồ xe máy điện](/xe-may/2026/10/11/den-bao-loi-va-bieu-tuong-tren-dong-ho-xe-may-dien-doc-the-nao/) rồi báo chủ xe, đừng tự xử lý.
 - Xe lệch tay lái, bánh quay nặng hoặc kêu từ trục bánh thì dừng lại, báo cửa hàng cho thuê ngay.
 
 Lần sau, hãy dành một phút lúc nhận xe để nhìn bề mặt lốp, tìm vết cắt, vết nứt hay đinh nhỏ. Nếu đang chuẩn bị chuyến đi dài hơn, bài về [thuê xe máy điện ở Hà Nội và những điều cần biết](/chia%20s%E1%BA%BB/2026/09/18/thue-xe-may-dien-o-ha-noi-can-biet-gi/) giúp bạn chuẩn bị từ đầu. Muốn đọc thêm các tình huống tương tự, hãy ghé chuyên mục [xe máy điện](/xe-may/xe-dien/) và mục [kinh nghiệm đi xe máy](/xe-may/) của blog.

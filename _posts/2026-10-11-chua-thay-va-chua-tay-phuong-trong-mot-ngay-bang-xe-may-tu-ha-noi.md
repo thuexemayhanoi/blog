@@ -38,7 +38,7 @@ Chùa Thầy thuộc xã Sài Sơn, Quốc Oai, nằm dưới chân núi Sài S�
 
 Trong chùa thờ thầy tổ họ Nguyễn, người sáng lập nghề múa rối nước và nổi tiếng y học dân gian, và dân quanh vùng kể chuyện thầy bằng sự gần gũi hiếm thấy ở các danh lam. Hãy dành một vòng chậm quanh khuôn viên: sân gạch, hồ sen, dãy nhà cổ, và phượng vĩ nở đỏ mùa hè sát mặt nước. Nếu đi vào mùa hè, đem theo mũ rộng vành: khoảng trưa khuôn viên trống bóng khá nhiều.
 
-Trước khi rời chùa Thầy, dừng ở quán nước ven hồ uống chè và ăn bánh: vùng này có bánh cuốn và tương nổi tiếng, đặc sản tương ô rôi... vùng đất Đường Lâm gần đó nổi tiếng tương ớt và tương đậu nành, mua vài chai làm quà nhẹ. Bạn có thể xem thêm [kinh nghiệm chạy xe đi chùa Thầy, gửi xe và thời điểm đẹp](/du-lich/2026/10/01/chay-xe-i-chua-thay-gui-xe-va-thoi-iem-ep/) để chuẩn bị chi tiết phần này, hoặc bài [nửa ngày Ba Vì bằng xe máy từ Hà Nội](/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/) nếu muốn nối tuyến tây dài hơn.
+Trước khi rời chùa Thầy, dừng ở quán nước ven hồ uống chè và ăn bánh: vùng này có bánh cuốn và tương nổi tiếng, đặc sản tương ô rôi... vùng đất Đường Lâm gần đó nổi tiếng tương ớt và tương đậu nành, mua vài chai làm quà nhẹ. Bạn có thể xem thêm [kinh nghiệm chạy xe đi chùa Thầy, gửi xe và thời điểm đẹp](/du-lich/2026/10/01/chay-xe-di-chua-thay-gui-xe-va-thoi-diem-dep/) để chuẩn bị chi tiết phần này, hoặc bài [nửa ngày Ba Vì bằng xe máy từ Hà Nội](/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/) nếu muốn nối tuyến tây dài hơn.
 
 ## Bữa trưa và đoạn đường về
 

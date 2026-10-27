@@ -32,7 +32,7 @@ Bảo tàng Lịch sử Quân sự Việt Nam là điểm mở màn đúng nghĩ
 
 Điểm hay nhất của trải nghiệm bảo tàng là vừa đi vừa đối chiếu với tri thức sẵn có: bom bi, mũ cối, radio thời chiến, và mô hình hầm ngầm, mỗi hiện vật trả lời câu hỏi mà sách chỉ nói qua. Người đi cùng con nhỏ nên chú ý vài khu trưng bày có âm thanh mạnh, và phần ngoài trời nắng gắt giữa trưa, mang nước theo. Chụp ảnh được ở đa số không gian, nhưng tôn trọng khu cấm chụp ký hiệu; không sờ tay lên hiện vật dù bậc rào thấp.
 
-Rời bảo tàng trước mười một giờ, tranh thủ khung trưa của phố: từ khu bảo tàng quân sự, chạy vài phút tới các quán ăn khu trung tâm, nhiều chỗ bán món Hà Nội xưa hợp không khí ngày của tuyến: bún, phở, xôi. Xem thêm [kinh nghiệm đi Bảo tàng Dân tộc học bằng xe máy](/du-lich/2026/09/28/en-bao-tang-dan-toc-hoc-viet-nam-bang-xe-may-gui-xe-va-uong-i/) nếu bạn muốn thêm một bảo tàng cho ngày hôm khác, và tổng quan các lựa chọn trong [chuyên mục điểm đến](/du-lich/diem-den/).
+Rời bảo tàng trước mười một giờ, tranh thủ khung trưa của phố: từ khu bảo tàng quân sự, chạy vài phút tới các quán ăn khu trung tâm, nhiều chỗ bán món Hà Nội xưa hợp không khí ngày của tuyến: bún, phở, xôi. Xem thêm [kinh nghiệm đi Bảo tàng Dân tộc học bằng xe máy](/du-lich/2026/09/28/den-bao-tang-dan-toc-hoc-viet-nam-bang-xe-may-gui-xe-va-duong-di/) nếu bạn muốn thêm một bảo tàng cho ngày hôm khác, và tổng quan các lựa chọn trong [chuyên mục điểm đến](/du-lich/diem-den/).
 
 ## Chiều: Bảo tàng Phòng không Không quân và hồ Hữu Tiệp
 

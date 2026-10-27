@@ -40,6 +40,6 @@ Giữa đám đông, xe máy chỉ nên dùng làm phương tiện tới và v�
 
 Trẻ nhỏ đi cùng phải giữ tay chặt, vì đám đông mùa rằm rất dễ lạc; nếu lỡ lạc nhau, hẹn trước một cột đèn hoặc một sạp đặc biệt dễ nhớ. Về khuya, các lối gửi quanh phố cổ thưa dần, nên nhớ lại tên đường gửi xe hoặc chụp hình biển hiệu gần đó, tìm trong hàng trăm chiếc xe mùa lễ là chuyện không vui tí nào.
 
-Còn nếu chỉ muốn ngắm đèn mà ngại đông, đọc thêm [chụp ảnh phố cổ với xe máy](/du-lich/2026/09/28/chup-anh-pho-co-voi-xe-may-ep-o-au/) để chọn khung và góc khuất, và [chạy xe máy trong phố cổ: giờ nào nên tránh](/du-lich/2026/09/28/chay-xe-may-trong-pho-co-gio-nao-nen-tranh/) để tính giờ về.
+Còn nếu chỉ muốn ngắm đèn mà ngại đông, đọc thêm [chụp ảnh phố cổ với xe máy](/du-lich/2026/09/28/chup-anh-pho-co-voi-xe-may-dep-o-dau/) để chọn khung và góc khuất, và [chạy xe máy trong phố cổ: giờ nào nên tránh](/du-lich/2026/09/28/chay-xe-may-trong-pho-co-gio-nao-nen-tranh/) để tính giờ về.
 
 Cuối cùng, cân nhắc cả phương án đi bộ hoàn toàn: gửi xe ở bãi mép phố từ chiều muộn, ăn tối sớm trong khu phố cổ, rồi bộ vào Hàng Mã khi đèn đã lên đủ. Cách này hóa ra nhẹ nhàng nhất cho gia đình có trẻ nhỏ và người lớn tuổi, vì không phải lo về giữa đám đông giờ cao điểm, và cũng không phải gửi lại xe một lần nữa sau khi xem đèn xong. Xe máy dùng cho chặng tới và về sớm, còn khúc đông nhất của tối rằm để cho đôi chân.

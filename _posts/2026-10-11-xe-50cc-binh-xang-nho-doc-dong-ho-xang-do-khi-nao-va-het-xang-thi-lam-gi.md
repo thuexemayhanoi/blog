@@ -53,7 +53,7 @@ Không có con số thần kỳ, vì mỗi xe đọc một kiểu. Nhưng có m�
 
 Với người thuê lần đầu, nên đổ sớm hơn mức bạn quen trên xe lớn, vì bình nhỏ không chừa nhiều thời gian cho sai sót. Ghé thêm một lần cây xăng chỉ mất ít phút, đổi lại bạn đỡ phải ngó đồng hồ suốt chặng đường.
 
-Trước chuyến đi ra xa nội thành, hoặc đi vào chiều tối, hãy đổ đầy bình khi còn ở khu đông đúc thay vì hy vọng gặp cây xăng ngoài ngoại ô. Muốn đặt mốc cho cả ngày, bạn có thể đọc bài [lên kế hoạch quãng đường cho một ngày với xe nhỏ](/xe-may/2026/10/09/xe-50cc-thue-chay-uoc-quang-uong-nao-trong-ngay/). Định đi xa hơn thì tham khảo cách [đi đường trường bằng xe nhỏ](/xe-may/2026/10/11/xe-50cc-co-chay-uong-truong-on-khong-gioi-han-toc-o-thuc-te/).
+Trước chuyến đi ra xa nội thành, hoặc đi vào chiều tối, hãy đổ đầy bình khi còn ở khu đông đúc thay vì hy vọng gặp cây xăng ngoài ngoại ô. Muốn đặt mốc cho cả ngày, bạn có thể đọc bài [lên kế hoạch quãng đường cho một ngày với xe nhỏ](/xe-may/2026/10/09/xe-50cc-thue-chay-duoc-quang-duong-nao-trong-ngay/). Định đi xa hơn thì tham khảo cách [đi đường trường bằng xe nhỏ](/xe-may/2026/10/11/xe-50cc-co-chay-duong-truong-on-khong-gioi-han-toc-do-thuc-te/).
 
 ## Mở nắp bình và đổ xăng tại cây xăng từng bước
 

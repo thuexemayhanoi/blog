@@ -22,7 +22,7 @@ Hoa về chợ theo chuyến, không theo lịch cố định trên giấy, như
 
 Người mua sỉ canh từ khuya, còn người mua lẻ nên đi sau một giờ sáng, khi hoa đã bày lên dãy, giá đã ổn định hơn và lối đi thoáng hơn. Đi sớm hơn chỉ thấy bốc dỡ, hoa chưa bó, khó chọn. Trời lạnh hoặc mưa phùn, chợ vắng hơn nhưng giá lại mềm, là cơ hội cho ai muốn mua nhiều.
 
-Chợ tàn dần từ bốn giờ sáng, nên đừng đi muộn quá. Nếu lỡ dậy trễ, phần chợ hoa ban ngày tại chỗ này vẫn có dãy bán lẻ, đã được ghi rõ trong bài [chợ hoa em Quảng Bá với giờ đi và chỗ gửi xe](/du-lich/2026/10/04/cho-hoa-em-quang-ba-bang-xe-may-gio-i-va-cho-gui-xe/), kèm cả gợi ý cho ai thích khung sáng sớm kiểu [Hà Nội trước tám giờ](/du-lich/2026/10/11/ha-noi-truoc-8-gio-sang-bang-xe-may-nhung-iem-vang-va-ep-nhat/).
+Chợ tàn dần từ bốn giờ sáng, nên đừng đi muộn quá. Nếu lỡ dậy trễ, phần chợ hoa ban ngày tại chỗ này vẫn có dãy bán lẻ, đã được ghi rõ trong bài [chợ hoa em Quảng Bá với giờ đi và chỗ gửi xe](/du-lich/2026/10/04/cho-hoa-dem-quang-ba-bang-xe-may-gio-di-va-cho-gui-xe/), kèm cả gợi ý cho ai thích khung sáng sớm kiểu [Hà Nội trước tám giờ](/du-lich/2026/10/11/ha-noi-truoc-8-gio-sang-bang-xe-may-nhung-diem-vang-va-dep-nhat/).
 
 ## Đường vào và chỗ dừng xe
 

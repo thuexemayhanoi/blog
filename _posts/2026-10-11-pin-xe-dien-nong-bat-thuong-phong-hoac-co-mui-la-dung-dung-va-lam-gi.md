@@ -27,7 +27,7 @@ Hãy cảnh giác khi gặp một trong các tình huống sau:
 - Nóng đi kèm tiếng xì nhỏ, tiếng lách tách, đèn báo nhấp nháy lạ hoặc xe tự báo lỗi.
 - Nóng xuất hiện sau khi xe vừa ngã, va mạnh hoặc dính nước.
 
-Giữa trưa hè Hà Nội, mặt đường hầm hập nên pin ấm hơn thường ngày cũng dễ hiểu, phần đó có trong bài về [xe máy điện thuê khi trời quá nóng](/xe-may/2026/10/09/xe-may-ien-thue-khi-troi-qua-nong-pin-co-sao-khong/). Nóng do thời tiết thường dịu dần khi xe nghỉ trong bóng râm, còn nóng bất thường có xu hướng giữ nguyên hoặc tăng. Nếu phân vân, hãy coi đó là dấu hiệu để dừng lại, không phải để thử thêm.
+Giữa trưa hè Hà Nội, mặt đường hầm hập nên pin ấm hơn thường ngày cũng dễ hiểu, phần đó có trong bài về [xe máy điện thuê khi trời quá nóng](/xe-may/2026/10/09/xe-may-dien-thue-khi-troi-qua-nong-pin-co-sao-khong/). Nóng do thời tiết thường dịu dần khi xe nghỉ trong bóng râm, còn nóng bất thường có xu hướng giữ nguyên hoặc tăng. Nếu phân vân, hãy coi đó là dấu hiệu để dừng lại, không phải để thử thêm.
 
 ## Pin bị phồng và mùi khét: hai dấu hiệu không nên chờ xem
 

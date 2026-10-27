@@ -40,7 +40,7 @@ Ngoài chuyện tăng tốc liên tục, giờ tan tầm còn có thêm vài th�
 - **Còi, xi nhan, màn hình:** dùng nhiều hơn hẳn lúc chạy thoáng.
 - **Sạc điện thoại hoặc phụ kiện:** nếu xe có cổng sạc (tùy xe), hãy cân nhắc trước khi cắm cả buổi chiều.
 - **Chở thêm người, thêm đồ:** xe nặng hơn thì mỗi lần xuất phát tốn hơn.
-- **Trời oi:** pin và bộ điều khiển nóng thường làm xe kém thoải mái, bạn có thể xem thêm cách [pin chịu nóng ra sao khi thuê xe giữa ngày oi](/xe-may/2026/10/09/xe-may-ien-thue-khi-troi-qua-nong-pin-co-sao-khong/) trước khi chọn giờ đi.
+- **Trời oi:** pin và bộ điều khiển nóng thường làm xe kém thoải mái, bạn có thể xem thêm cách [pin chịu nóng ra sao khi thuê xe giữa ngày oi](/xe-may/2026/10/09/xe-may-dien-thue-khi-troi-qua-nong-pin-co-sao-khong/) trước khi chọn giờ đi.
 
 Từng khoản nhìn riêng đều nhỏ, nhưng cộng dồn trong một chiều kẹt xe kéo dài, chúng đủ làm pin thấp hơn hẳn so với cùng chặng đi buổi sáng.
 

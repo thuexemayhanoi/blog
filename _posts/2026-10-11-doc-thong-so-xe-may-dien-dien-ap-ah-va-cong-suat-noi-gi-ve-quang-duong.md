@@ -42,7 +42,7 @@ Khi chạy thật, quãng đường co lại vì nhiều lý do:
 - Dốc cầu, dốc hầm chui và những lần dừng đèn đỏ rồi vọt ga.
 - Trời lạnh, khi pin thường làm việc kém hơn.
 
-Cho nên đừng dự định chạy tới vạch pin cuối cùng; hãy chừa phần dự phòng để còn tìm chỗ sạc. Bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-uong-mot-lan-sac-cua-xe-may-ien/) nói kỹ hơn về các yếu tố này, còn nếu lộ trình có đoạn dài và thẳng, hãy xem [cách tính pin khi chạy đường đê dài](/xe-may/2026/10/03/xe-may-ien-chay-uong-e-dai-tinh-pin-the-nao/).
+Cho nên đừng dự định chạy tới vạch pin cuối cùng; hãy chừa phần dự phòng để còn tìm chỗ sạc. Bài [quãng đường một lần sạc của xe máy điện](/xe-may/2026/09/27/quang-duong-mot-lan-sac-cua-xe-may-dien/) nói kỹ hơn về các yếu tố này, còn nếu lộ trình có đoạn dài và thẳng, hãy xem [cách tính pin khi chạy đường đê dài](/xe-may/2026/10/03/xe-may-dien-chay-duong-de-dai-tinh-pin-the-nao/).
 
 ## Công suất động cơ (W) nói gì về tốc độ và sức leo
 

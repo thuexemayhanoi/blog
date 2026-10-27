@@ -38,7 +38,7 @@ Từ hồ tới Văn Miếu - Quốc Tử Giám, bạn đi qua những phố r�
 
 Quanh khu Văn Miếu có nhiều quán ăn bình dân, nên bữa trưa là lúc tự nhiên nhất để vừa nghỉ vừa nạp pin. Nếu pin còn ở vùng thoải mái, bạn có thể bỏ qua bước sạc. Nếu đã vào vùng cân nhắc, hãy tính chuyện sạc ngay lúc ngồi ăn, đừng để tới Hồ Tây mới tìm.
 
-Chuyện sạc xe thuê ở đâu và nên hỏi gì trước đã có bài riêng về [trạm đổi pin và ổ sạc cho xe thuê](/xe-may/2026/10/11/sac-xe-may-ien-thue-o-ha-noi-tram-oi-pin-va-o-sac/). Với xe dùng pin đổi được, bạn có thể xem thêm [quy trình đổi pin giữa chuyến](/xe-may/2026/10/11/oi-pin-xe-may-ien-thue-giua-chuyen-quy-trinh-va-chi-phi/), nhưng xe nào dùng loại pin nào thì tùy xe, tùy hãng, phải hỏi cho rõ trước khi đi.
+Chuyện sạc xe thuê ở đâu và nên hỏi gì trước đã có bài riêng về [trạm đổi pin và ổ sạc cho xe thuê](/xe-may/2026/10/11/sac-xe-may-dien-thue-o-ha-noi-tram-doi-pin-va-o-sac/). Với xe dùng pin đổi được, bạn có thể xem thêm [quy trình đổi pin giữa chuyến](/xe-may/2026/10/11/doi-pin-xe-may-dien-thue-giua-chuyen-quy-trinh-va-chi-phi/), nhưng xe nào dùng loại pin nào thì tùy xe, tùy hãng, phải hỏi cho rõ trước khi đi.
 
 Một vài nguyên tắc chung khi sạc giữa ngày:
 

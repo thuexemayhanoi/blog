@@ -20,7 +20,7 @@ Một lộ trình Ba Đình bằng xe 50cc cho buổi nửa ngày khá dễ sắ
 
 Phần lớn buổi này là đi bộ trong khuôn viên, còn xe chỉ nối các điểm. Xe 50cc nhẹ nên dắt vào chỗ gửi hay quay đầu trong phố hẹp đều dễ hơn xe lớn. Đổi lại, loại xe này thiên về chạy thong thả, không phải xe để bám theo dòng xe đông hay vượt nhanh trên đường rộng. Hãy coi đây là một buổi dạo chậm, không phải cuộc đua với đồng hồ.
 
-Nếu bạn còn đắn đo giữa hai kiểu phương tiện nhỏ, bài [cân nhắc xe 50cc hay xe đạp điện cho quãng đường ngắn trong nội thành](/xe-may/2026/10/11/chon-xe-50cc-hay-xe-ap-ien-cho-quang-uong-ngan-trong-noi-thanh/) sẽ giúp bạn so sánh nhanh. Còn các bài khác về dòng xe này nằm trong [mục xe 50cc](/xe-may/xe-50cc/), thuộc [chuyên mục xe máy](/xe-may/) của blog.
+Nếu bạn còn đắn đo giữa hai kiểu phương tiện nhỏ, bài [cân nhắc xe 50cc hay xe đạp điện cho quãng đường ngắn trong nội thành](/xe-may/2026/10/11/chon-xe-50cc-hay-xe-dap-dien-cho-quang-duong-ngan-trong-noi-thanh/) sẽ giúp bạn so sánh nhanh. Còn các bài khác về dòng xe này nằm trong [mục xe 50cc](/xe-may/xe-50cc/), thuộc [chuyên mục xe máy](/xe-may/) của blog.
 
 ## Thứ tự tham quan: từ Lăng Bác ra tới Văn Miếu
 
@@ -44,7 +44,7 @@ Giữa Lăng Bác và Chùa Một Cột gần như không có đoạn xe cần c
 
 Quãng dài nhất là từ Hoàng thành xuôi về Văn Miếu. Bạn đi dọc các phố lớn rồi rẽ vào phố Quốc Tử Giám, đoạn gần cuối thường đông xe hơn vì dồn từ nhiều ngả. Cần xem bản đồ thì dừng hẳn ở chỗ an toàn, đừng vừa chạy vừa nhìn màn hình.
 
-Thời gian mỗi đoạn tùy nhịp đi của bạn và lúc đó phố đông hay vắng, nên mình không áp con số cứng nào. Tinh thần chung giống với bài [thuê xe 50cc đi phố Hà Nội: nhẹ, chậm và đúng làn](/xe-may/2026/10/11/thue-xe-50cc-i-pho-ha-noi-nhe-cham-va-ung-lan/): đừng ép xe chạy theo nhịp của người khác.
+Thời gian mỗi đoạn tùy nhịp đi của bạn và lúc đó phố đông hay vắng, nên mình không áp con số cứng nào. Tinh thần chung giống với bài [thuê xe 50cc đi phố Hà Nội: nhẹ, chậm và đúng làn](/xe-may/2026/10/11/thue-xe-50cc-di-pho-ha-noi-nhe-cham-va-dung-lan/): đừng ép xe chạy theo nhịp của người khác.
 
 ## Chọn chỗ gửi xe 50cc quanh khu di tích
 

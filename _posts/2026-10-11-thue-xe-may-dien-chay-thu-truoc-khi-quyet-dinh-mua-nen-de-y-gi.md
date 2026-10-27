@@ -28,7 +28,7 @@ Lưu ý: xe thuê chưa chắc giống chiếc bạn định mua, vì mỗi hãn
 
 Trước khi chốt thuê, hãy hỏi chủ xe vài việc:
 
-- Pin tháo rời hay cố định. Điều này quyết định bạn sạc ở đâu, xem thêm bài về [pin tháo rời hay pin cố định](/xe-may/2026/10/11/pin-thao-roi-hay-pin-co-inh-chon-xe-may-ien-nao-khi-thue-o-ha-noi/).
+- Pin tháo rời hay cố định. Điều này quyết định bạn sạc ở đâu, xem thêm bài về [pin tháo rời hay pin cố định](/xe-may/2026/10/11/pin-thao-roi-hay-pin-co-dinh-chon-xe-may-dien-nao-khi-thue-o-ha-noi/).
 - Bộ sạc có đi kèm không, và có được mang về nhà sạc không.
 - Giấy tờ cần mang và khoản cọc, cần xác nhận trực tiếp.
 - Nếu xe gặp sự cố giữa đường thì xử lý thế nào. Đừng tự giả định, hãy hỏi và xác nhận trước.
@@ -45,7 +45,7 @@ Chạy thử mà không ghi thì cuối kỳ chỉ còn một cảm giác mơ h�
 - Có phải sạc giữa ngày không, sạc ở đâu, chờ bao lâu.
 - Cảm giác: mỏi tay, vướng chân, yên và gương có ổn không.
 
-Hãy tin cột "pin lúc về" của chính bạn hơn mọi con số quảng cáo. Người ở Long Biên mỗi sáng vào khu Cầu Giấy nên ghi riêng chiều đi và chiều về, vì hai chiều có thể cho kết quả khác hẳn khi chở thêm người hoặc gặp gió dọc đường. Quãng đường còn tùy hãng, tùy tải, tùy cách vặn ga; bài về [khả năng chạy xa của xe điện thuê](/xe-may/2026/09/30/thue-xe-may-ien-chay-xa-uoc-bao-nhieu-km/) nói rõ hơn các yếu tố này.
+Hãy tin cột "pin lúc về" của chính bạn hơn mọi con số quảng cáo. Người ở Long Biên mỗi sáng vào khu Cầu Giấy nên ghi riêng chiều đi và chiều về, vì hai chiều có thể cho kết quả khác hẳn khi chở thêm người hoặc gặp gió dọc đường. Quãng đường còn tùy hãng, tùy tải, tùy cách vặn ga; bài về [khả năng chạy xa của xe điện thuê](/xe-may/2026/09/30/thue-xe-may-dien-chay-xa-duoc-bao-nhieu-km/) nói rõ hơn các yếu tố này.
 
 ## Chuyện sạc quyết định xe có hợp với bạn không
 
@@ -66,7 +66,7 @@ Chạy thử xe máy điện khác xe xăng ở vài điểm mà chỉ vài ngà
 
 **Phanh.** Thử phanh nhẹ rồi mạnh dần ở chỗ vắng để biết xe dừng thế nào, và quen trước khi gặp tình huống thật.
 
-**Sự yên tĩnh.** Xe êm là điểm cộng, nhưng cũng là điểm trừ: người đi bộ không nghe bạn đến. Trong ngõ hẹp hay khu phố cổ đông người, hãy giảm tốc và bóp còi sớm hơn thường lệ. Chuyện êm về đêm đã có bài riêng về [xe điện thuê chạy đêm](/xe-may/2026/10/09/xe-may-ien-thue-co-on-khi-chay-em-khong/).
+**Sự yên tĩnh.** Xe êm là điểm cộng, nhưng cũng là điểm trừ: người đi bộ không nghe bạn đến. Trong ngõ hẹp hay khu phố cổ đông người, hãy giảm tốc và bóp còi sớm hơn thường lệ. Chuyện êm về đêm đã có bài riêng về [xe điện thuê chạy đêm](/xe-may/2026/10/09/xe-may-dien-thue-co-on-khi-chay-dem-khong/).
 
 **Dắt và quay đầu.** Xe nặng hay nhẹ tùy loại. Hãy thử dắt lùi vào chỗ để, đẩy lên vỉa hè thấp, quay đầu trong ngõ chật. Bạn sẽ làm những việc này mỗi ngày.
 
@@ -79,7 +79,7 @@ Cảm giác lái thường làm người ta mê, còn bất tiện lộ dần �
 - **Thời gian chờ.** Đổ xăng chỉ vài phút, còn sạc cần khoảng chờ dài hơn nhiều. Lịch của bạn có chỗ trống cho việc đó không?
 - **Đồ đạc.** Cốp vừa mũ nửa đầu hay chỉ đủ vài món nhỏ? Có chỗ treo túi đi chợ không?
 
-Nếu ngày mưa rơi vào kỳ thuê, hãy ghi lại cảm giác thay vì né; bài về [chạy xe điện thuê lúc mưa](/xe-may/2026/10/07/xe-may-ien-thue-chay-luc-mua-co-an-toan-khong/) có những nguyên tắc nên nhớ. Còn nếu xe bật khóa mà không chạy, đừng tự mở thân xe hay pin; hãy dừng ở chỗ an toàn và báo chủ xe.
+Nếu ngày mưa rơi vào kỳ thuê, hãy ghi lại cảm giác thay vì né; bài về [chạy xe điện thuê lúc mưa](/xe-may/2026/10/07/xe-may-dien-thue-chay-luc-mua-co-an-toan-khong/) có những nguyên tắc nên nhớ. Còn nếu xe bật khóa mà không chạy, đừng tự mở thân xe hay pin; hãy dừng ở chỗ an toàn và báo chủ xe.
 
 ## Chốt quyết định sau kỳ thuê
 

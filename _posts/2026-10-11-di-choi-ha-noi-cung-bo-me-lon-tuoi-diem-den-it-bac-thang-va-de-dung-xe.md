@@ -24,11 +24,11 @@ Với ba tiêu chí đó, nhóm điểm hợp nhất là: công viên có sân p
 
 ## Các cụm điểm hợp cho từng buổi
 
-Buổi sáng, [công viên Thủ Lệ](/du-lich/2026/09/28/en-cong-vien-thu-le-bang-xe-may-gui-xe-va-uong-i/) là lựa chọn dễ chịu nhất: đường dạo phẳng quanh co, ghế đá nhiều, cây cao rợp mát, lại có khu thú cho buổi xem vừa phải; kinh nghiệm [ghé công viên Thủ Lệ nửa ngày](/du-lich/2026/09/28/kinh-nghiem-ghe-tham-cong-vien-thu-le-nua-ngay/) chỉ rõ chỗ gửi xe sát cổng cho người đi chậm.
+Buổi sáng, [công viên Thủ Lệ](/du-lich/2026/09/28/den-cong-vien-thu-le-bang-xe-may-gui-xe-va-duong-di/) là lựa chọn dễ chịu nhất: đường dạo phẳng quanh co, ghế đá nhiều, cây cao rợp mát, lại có khu thú cho buổi xem vừa phải; kinh nghiệm [ghé công viên Thủ Lệ nửa ngày](/du-lich/2026/09/28/kinh-nghiem-ghe-tham-cong-vien-thu-le-nua-ngay/) chỉ rõ chỗ gửi xe sát cổng cho người đi chậm.
 
 Buổi chiều, [Hoàng thành với chỗ gửi xe gần nhất](/du-lich/2026/10/07/tham-hoang-thanh-thang-long-bang-xe-may-gui-xe-gan-nhat/) có sân rộng phẳng, nhà trưng bày trong nhà mát, ghế nghỉ dọc hành lang. Buổi tối, một vòng chậm quanh Hồ Gươm, với ghế đá ven hồ và đèn sáng, là khung đóng ngày nhẹ nhàng; chỗ gửi quanh hồ đã được ghi trong bài về [gửi xe quanh Hồ Gươm](/du-lich/2026/09/28/gui-xe-quanh-ho-guom-gia-va-vi-tri/).
 
-Văn Miếu cũng đáng cân nhắc với sân gạch rộng, nhưng trong khu có vài bậc và lối lát đá, nên đi chậm và chừng mực; kinh nghiệm [thăm Văn Miếu bằng xe máy thuê](/du-lich/2026/10/05/tham-van-mieu-bang-xe-may-thue-cho-gui-xe-o-au/) chỉ rõ lối vào và chỗ gửi thuận tiện.
+Văn Miếu cũng đáng cân nhắc với sân gạch rộng, nhưng trong khu có vài bậc và lối lát đá, nên đi chậm và chừng mực; kinh nghiệm [thăm Văn Miếu bằng xe máy thuê](/du-lich/2026/10/05/tham-van-mieu-bang-xe-may-thue-cho-gui-xe-o-dau/) chỉ rõ lối vào và chỗ gửi thuận tiện.
 
 Cuối thu và đông, gió hồ buổi sáng lạnh rõ, nên thêm khăn nhẹ và đi sau chín giờ cho ấm. Hè thì ngược lại: đón cụm sáng sớm, trưa nghỉ dài trong quán mát, chiều chỉ đi một vòng quanh hồ ngắn rồi về sớm. Mỗi mùa một cách sắp, nhưng ba tiêu chí chọn điểm giữ nguyên không đổi.
 
