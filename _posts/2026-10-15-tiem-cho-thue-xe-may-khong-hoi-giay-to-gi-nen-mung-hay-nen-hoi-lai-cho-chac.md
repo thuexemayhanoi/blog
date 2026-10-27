@@ -43,7 +43,7 @@ Xe chết máy giữa đường, thủng lốp, va quẹt, hay mất xe khi gử
 
 ### Hai bên có giấy gì ghi lại việc giao nhận
 
-Một tờ biên nhận đơn giản ghi tên người thuê, biển số, ngày giờ nhận và trả, tình trạng xe lúc giao là đủ để tránh phần lớn tranh cãi. Nếu bên cho thuê không có mẫu sẵn, bạn có thể đề nghị viết tay hai bản, hoặc nhắn tin mô tả rồi chờ họ xác nhận. Nên ghi gì trong tờ đó thì xem bài [ghi gì trong biên nhận bàn giao xe máy thuê](/hoi-dap/2026/10/10/oc-gi-trong-bien-nhan-ban-giao-xe-may-thue/).
+Một tờ biên nhận đơn giản ghi tên người thuê, biển số, ngày giờ nhận và trả, tình trạng xe lúc giao là đủ để tránh phần lớn tranh cãi. Nếu bên cho thuê không có mẫu sẵn, bạn có thể đề nghị viết tay hai bản, hoặc nhắn tin mô tả rồi chờ họ xác nhận. Nên ghi gì trong tờ đó thì xem bài [ghi gì trong biên nhận bàn giao xe máy thuê](/hoi-dap/2026/10/10/doc-gi-trong-bien-nhan-ban-giao-xe-may-thue/).
 
 ## Tiệm không hỏi thì người lái vẫn phải mang giấy tờ
 
@@ -83,6 +83,6 @@ Nếu các câu trả lời rõ ràng, bạn có thể yên tâm hơn: có nhữ
 
 Nhanh không có nghĩa là thiếu. Một nơi làm quen tay có thể xem bằng lái, đối chiếu giấy tờ tùy thân, giao giấy đăng ký xe và ghi biên nhận chỉ trong vài phút. Cái khác nằm ở chỗ mọi bước vẫn có, chỉ là được làm gọn. Thủ tục sơ sài là khi các bước đó biến mất hoàn toàn.
 
-Trước khi đến bất kỳ nơi nào, bạn nên hỏi trước cần mang giấy tờ gì. Nếu bạn định thuê ở cửa hàng Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, cứ gọi 0942467674 trong giờ mở cửa 09:00 đến 21:00 để hỏi rõ giấy tờ cần chuẩn bị và giấy tờ xe đi kèm. Người thuê lần đầu có thể đọc thêm bài [giấy tờ cần mang và câu nên hỏi khi thuê xe máy lần đầu](/thue-xe/2026/10/01/thue-xe-may-lan-au-giay-to-can-mang-va-cau-nen-hoi/).
+Trước khi đến bất kỳ nơi nào, bạn nên hỏi trước cần mang giấy tờ gì. Nếu bạn định thuê ở cửa hàng Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, cứ gọi 0942467674 trong giờ mở cửa 09:00 đến 21:00 để hỏi rõ giấy tờ cần chuẩn bị và giấy tờ xe đi kèm. Người thuê lần đầu có thể đọc thêm bài [giấy tờ cần mang và câu nên hỏi khi thuê xe máy lần đầu](/thue-xe/2026/10/01/thue-xe-may-lan-dau-giay-to-can-mang-va-cau-nen-hoi/).
 
 Tóm lại, gặp nơi cho thuê không hỏi giấy tờ thì đừng vội mừng. Hỏi lại về giấy tờ xe, về trách nhiệm khi có sự cố và về biên nhận; câu trả lời sẽ cho bạn biết nên nhận xe hay đi tiếp. Các câu hỏi khác về thủ tục thuê xe có ở mục [hỏi đáp thủ tục](/hoi-dap/hoi-dap-thu-tuc/), còn toàn bộ chuyên mục nằm ở trang [hỏi đáp](/hoi-dap/).

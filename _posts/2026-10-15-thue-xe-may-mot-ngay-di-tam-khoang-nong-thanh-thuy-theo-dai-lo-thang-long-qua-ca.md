@@ -42,7 +42,7 @@ Những điểm cần để ý khi chạy đoạn này:
 - **Lỡ đi nhầm thì dừng lại ở lề an toàn**, quan sát rồi tìm lối thoát gần nhất về đường gom. Không quay đầu giữa dòng xe, không đi ngược chiều.
 - **Đường gom có nhiều ngã rẽ dân sinh**, xe từ thôn xóm nhập ra bất ngờ, nên giữ tốc độ vừa phải.
 
-Muốn hiểu kỹ các loại biển hay gặp, xem bài [biển báo cấm xe máy thường gặp](/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/), còn chuyện vì sao xe máy không vào được các tuyến đường cao tốc thì có bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/).
+Muốn hiểu kỹ các loại biển hay gặp, xem bài [biển báo cấm xe máy thường gặp](/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/), còn chuyện vì sao xe máy không vào được các tuyến đường cao tốc thì có bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/).
 
 ## Hướng Sơn Tây, Ba Vì rồi qua cầu Đồng Quang sang Thanh Thủy
 
@@ -64,7 +64,7 @@ Một nhịp nghỉ hợp lý sau khi ngâm:
 4. **Thay đồ khô, mặc áo khoác kín** trước khi ra xe, nhất là chiều mùa đông gió lạnh.
 5. **Tự kiểm tra lần cuối:** nếu còn ngáp liên tục hay mắt díp lại, nghỉ thêm.
 
-Không uống rượu bia ở khu tắm nếu bạn là người lái. Rủi ro khi lái lúc cơ thể mệt được nói kỹ trong bài [chạy xe khi đang mệt hay thiếu ngủ](/ky-nang/2026-09-29-chay-xe-khi-ang-met-hay-thieu-ngu-rui-ro/).
+Không uống rượu bia ở khu tắm nếu bạn là người lái. Rủi ro khi lái lúc cơ thể mệt được nói kỹ trong bài [chạy xe khi đang mệt hay thiếu ngủ](/ky-nang/2026-09-29-chay-xe-khi-dang-met-hay-thieu-ngu-rui-ro/).
 
 ## Canh giờ về: rời Thanh Thủy khi trời còn sáng
 

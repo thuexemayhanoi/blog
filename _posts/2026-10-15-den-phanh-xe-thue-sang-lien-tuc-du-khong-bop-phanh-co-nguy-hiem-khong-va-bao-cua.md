@@ -77,6 +77,6 @@ Một đoạn video ngắn quay đuôi xe lúc bóp thả phanh sẽ giúp cửa
 
 ## Phòng lỗi cho những lần sau
 
-Khi nhận xe, đừng chỉ thử phanh có ăn hay không; hãy nhìn cả đèn phanh có bật tắt theo tay phanh. Cách làm được hướng dẫn trong bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-en-phanh-xe-may-thue-truoc-khi-nhan-xe/ "Kiểm tra đèn phanh trước khi nhận xe"). Trong lúc đi, tập thói quen chỉ đặt ngón tay lên tay phanh ở chỗ đông, còn trên đoạn thoáng thì buông hẳn.
+Khi nhận xe, đừng chỉ thử phanh có ăn hay không; hãy nhìn cả đèn phanh có bật tắt theo tay phanh. Cách làm được hướng dẫn trong bài [kiểm tra đèn phanh xe máy thuê trước khi nhận xe](/thue-xe/2026/10/11/kiem-tra-den-phanh-xe-may-thue-truoc-khi-nhan-xe/ "Kiểm tra đèn phanh trước khi nhận xe"). Trong lúc đi, tập thói quen chỉ đặt ngón tay lên tay phanh ở chỗ đông, còn trên đoạn thoáng thì buông hẳn.
 
 Các sự cố khác khi đang thuê xe có ở chuyên mục [hỏi đáp sự cố](/hoi-dap/hoi-dap-su-co/ "Hỏi đáp sự cố"), và mọi câu hỏi thường gặp được gom ở mục [hỏi đáp](/hoi-dap/ "Hỏi đáp thuê xe máy").

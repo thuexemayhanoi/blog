@@ -49,7 +49,7 @@ Khi xếp tuyến, gom các điểm hẹn theo cụm gần nhau thay vì đi the
 2. **Món cồng kềnh để cuối ngày**, ở điểm gần đường về nhất. Đừng chở giá sách lòng vòng qua ba người bán khác.
 3. **Chừa khoảng nghỉ giữa các cuộc hẹn.** Người bán đến muộn, kiểm hàng lâu, tắc đường ở Cầu Giấy hay Tây Sơn giờ tan tầm là chuyện thường.
 
-Nếu đi từ Long Biên sang các khu Đống Đa, Cầu Giấy, có thể qua cầu Chương Dương hoặc cầu Long Biên rồi đi theo chỉ dẫn bản đồ ở chế độ xe máy. Cách chia nhiều điểm trong một ngày cũng giống bài [thuê xe đi xem phòng trọ tuần đầu tới Hà Nội](/thue-xe/2026/10/11/tuan-chuyen-en-ha-noi-thue-xe-may-i-xem-phong-tro-va-chot-cho-o/), chỉ khác là lần này bạn còn phải chở hàng.
+Nếu đi từ Long Biên sang các khu Đống Đa, Cầu Giấy, có thể qua cầu Chương Dương hoặc cầu Long Biên rồi đi theo chỉ dẫn bản đồ ở chế độ xe máy. Cách chia nhiều điểm trong một ngày cũng giống bài [thuê xe đi xem phòng trọ tuần đầu tới Hà Nội](/thue-xe/2026/10/11/tuan-chuyen-den-ha-noi-thue-xe-may-di-xem-phong-tro-va-chot-cho-o/), chỉ khác là lần này bạn còn phải chở hàng.
 
 ## Hẹn chỗ đông người, đi vào ban ngày
 
@@ -72,7 +72,7 @@ Với đồ không mang ra ngoài được, như tủ hay máy giặt, bạn bu�
 
 Mang sẵn vài sợi dây chun buộc hàng, một tấm bạt hoặc áo mưa cũ để lót yên cho khỏi trầy. Những món gọn thì đặt ở sàn để chân xe ga hoặc buộc lên yên sau. Cách buộc thùng cho chắc được hướng dẫn trong bài [buộc thùng giấy lên yên sau](/ky-nang/2026/10/07/buoc-thung-giay-len-yen-sau-kieu-gi-cho-chac/).
 
-Đồ cồng kềnh thì đặt câu hỏi trước: món này có vượt khỏi kích thước an toàn của xe máy không? Hàng che khuất tầm nhìn, chìa rộng sang hai bên hoặc làm xe mất thăng bằng thì không nên cố chở. Quy định cụ thể nằm trong bài [chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/). Với tủ quần áo, đệm, máy giặt, hãy thuê dịch vụ chở hàng riêng cho món đó.
+Đồ cồng kềnh thì đặt câu hỏi trước: món này có vượt khỏi kích thước an toàn của xe máy không? Hàng che khuất tầm nhìn, chìa rộng sang hai bên hoặc làm xe mất thăng bằng thì không nên cố chở. Quy định cụ thể nằm trong bài [chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/). Với tủ quần áo, đệm, máy giặt, hãy thuê dịch vụ chở hàng riêng cho món đó.
 
 Sau khi buộc, chạy chậm một đoạn ngắn rồi dừng lại kiểm tra dây. Dây chun thường giãn sau vài lần xóc.
 

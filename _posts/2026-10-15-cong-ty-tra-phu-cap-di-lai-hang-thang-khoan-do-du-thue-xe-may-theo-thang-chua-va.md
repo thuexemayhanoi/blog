@@ -63,7 +63,7 @@ Trường hợp này hay gặp với Click, Mio và Vision vì giá tháng là m
 
 ### Phụ cấp nhỏ hơn cả giá thuê tháng thấp nhất
 
-Lúc này phần tự bù gồm toàn bộ chênh lệch cộng thêm xăng và gửi xe. Hãy tự hỏi khoản bù đó có đáng với thời gian tiết kiệm được mỗi ngày không. Bài [thuê xe máy tháng hay đi xe buýt và gọi xe công nghệ](/thue-xe/2026/10/11/thue-xe-may-thang-hay-i-xe-buyt-va-goi-xe-cong-nghe-cach-tinh-theo-so-chuyen/) giúp bạn so theo số chuyến thực tế.
+Lúc này phần tự bù gồm toàn bộ chênh lệch cộng thêm xăng và gửi xe. Hãy tự hỏi khoản bù đó có đáng với thời gian tiết kiệm được mỗi ngày không. Bài [thuê xe máy tháng hay đi xe buýt và gọi xe công nghệ](/thue-xe/2026/10/11/thue-xe-may-thang-hay-di-xe-buyt-va-goi-xe-cong-nghe-cach-tinh-theo-so-chuyen/) giúp bạn so theo số chuyến thực tế.
 
 ### Ghi lại phép so mỗi tháng
 

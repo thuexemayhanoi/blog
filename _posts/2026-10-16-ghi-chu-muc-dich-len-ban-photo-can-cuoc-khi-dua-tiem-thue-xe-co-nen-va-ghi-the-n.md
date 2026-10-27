@@ -33,7 +33,7 @@ Hiểu tiệm cần gì thì mới biết được ghi chỗ nào. Thông thư�
 - Lưu lại một bản để biết xe đang ở trong tay ai suốt kỳ thuê.
 - Đối chiếu khi bạn đến trả xe hoặc khi cần liên lạc.
 
-Như vậy những phần tiệm thật sự đọc là ảnh chân dung, họ tên, ngày sinh và số định danh. Những vùng còn lại, như khoảng trống quanh viền hay phần dưới mặt thẻ, là chỗ bạn có thể viết. Những gì nên có trong hợp đồng để hai bên rõ ràng đã được nói trong bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/).
+Như vậy những phần tiệm thật sự đọc là ảnh chân dung, họ tên, ngày sinh và số định danh. Những vùng còn lại, như khoảng trống quanh viền hay phần dưới mặt thẻ, là chỗ bạn có thể viết. Những gì nên có trong hợp đồng để hai bên rõ ràng đã được nói trong bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/).
 
 Còn chuyện tiệm có giữ bản gốc hay chỉ cần bản photo, mỗi nơi một cách. Bài [thuê xe máy cần CCCD bản gốc không](/hoi-dap/2026/10/09/thue-xe-may-can-cccd-ban-goc-khong/) phân tích kỹ phần này, bạn nên đọc trước khi chọn mang gì.
 

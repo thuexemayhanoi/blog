@@ -37,7 +37,7 @@ Khi nhận, mỗi người tự xem lốp, phanh, đèn, còi và mức xăng c�
 
 ## Đường lên Thái Nguyên: theo quốc lộ 3 cũ, không vào cao tốc
 
-Điểm cần nhớ nhất của chuyến này: **cao tốc Hà Nội – Thái Nguyên cấm xe máy.** Lý do được giải thích trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/). Tuyến dành cho nhóm xe máy là quốc lộ 3 cũ:
+Điểm cần nhớ nhất của chuyến này: **cao tốc Hà Nội – Thái Nguyên cấm xe máy.** Lý do được giải thích trong bài [xe máy có được vào cao tốc không](/an-toan-phap-ly/2026/09/28/xe-may-co-duoc-vao-cao-toc-khong/). Tuyến dành cho nhóm xe máy là quốc lộ 3 cũ:
 
 1. Từ Long Biên đi qua cầu Đuống sang Đông Anh.
 2. Bắt vào quốc lộ 3 cũ, đi về hướng Phù Lỗ, Sóc Sơn.
@@ -88,4 +88,4 @@ Nơi nào có quy định riêng, đọc biển tại chỗ hoặc hỏi ngườ
 
 Cửa hàng nhận trả xe trong giờ 09:00–21:00. Nếu thấy có thể về trễ so với hẹn, gọi báo sớm qua số 0942467674.
 
-Tóm gọn: nhận xe hôm trước, đi theo quốc lộ 3 cũ rồi theo chỉ dẫn bản đồ ở chế độ xe máy, dã ngoại ven hồ an toàn, mang rác về và quay lại Hà Nội trước khi tối. Muốn so với một chuyến lên chân núi phía tây, xem bài [thuê xe máy một ngày đi Tây Thiên](/thue-xe/2026/10/11/thue-xe-may-mot-ngay-i-tay-thien-vinh-phuc-uong-i-va-canh-gio-ve/). Các chuyến ngắn ngày khác có ở chuyên mục [thuê xe theo ngày](/thue-xe/thue-ngay/), còn toàn bộ hướng dẫn thuê xe nằm ở trang [thuê xe máy Hà Nội](/thue-xe/).
+Tóm gọn: nhận xe hôm trước, đi theo quốc lộ 3 cũ rồi theo chỉ dẫn bản đồ ở chế độ xe máy, dã ngoại ven hồ an toàn, mang rác về và quay lại Hà Nội trước khi tối. Muốn so với một chuyến lên chân núi phía tây, xem bài [thuê xe máy một ngày đi Tây Thiên](/thue-xe/2026/10/11/thue-xe-may-mot-ngay-di-tay-thien-vinh-phuc-duong-di-va-canh-gio-ve/). Các chuyến ngắn ngày khác có ở chuyên mục [thuê xe theo ngày](/thue-xe/thue-ngay/), còn toàn bộ hướng dẫn thuê xe nằm ở trang [thuê xe máy Hà Nội](/thue-xe/).

@@ -80,7 +80,7 @@ Chụp xong, đừng cất máy ngay. Đứng tại quầy thêm một phút, ph
 - Nếu có đặt cọc, phần ghi về khoản cọc khớp với điều đã xác nhận trực tiếp tại quầy.
 - Nếu có giấy tờ để lại cửa hàng, hợp đồng ghi rõ đó là giấy gì. Chuyện có phải để lại giấy tờ hay không, nên hỏi cửa hàng khi đặt xe.
 
-Phát hiện sai sót lúc soát ảnh thì đề nghị sửa luôn khi còn đứng tại quầy. Bài [cách đề nghị sửa hợp đồng ghi sai thông tin](/hoi-dap/2026/10/11/hop-dong-thue-xe-may-ghi-sai-thong-tin-cach-de-nghi-sua-truoc-va-sau-khi-ky/) hướng dẫn chi tiết từng trường hợp. Muốn biết một bản hợp đồng tử tế cần có những mục gì, xem [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/).
+Phát hiện sai sót lúc soát ảnh thì đề nghị sửa luôn khi còn đứng tại quầy. Bài [cách đề nghị sửa hợp đồng ghi sai thông tin](/hoi-dap/2026/10/11/hop-dong-thue-xe-may-ghi-sai-thong-tin-cach-de-nghi-sua-truoc-va-sau-khi-ky/) hướng dẫn chi tiết từng trường hợp. Muốn biết một bản hợp đồng tử tế cần có những mục gì, xem [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/).
 
 Ví dụ: một khách đi công tác ở Cầu Giấy chụp hợp đồng dưới đèn quầy, ảnh bị lóa đúng dòng ngày trả. Soát tại chỗ nên anh chụp lại ngay; để tối mới thấy thì phải nhắn hỏi lại hoặc quay về tận Long Biên.
 

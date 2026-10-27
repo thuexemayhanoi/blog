@@ -50,7 +50,7 @@ Cách chạy an toàn:
 4. **Lên xuống dốc đê bằng số thấp hoặc ga nhẹ,** bóp phanh đều, không thả trôi.
 5. **Bật đèn, bấm còi khi qua khúc cua khuất,** vì xe phía trước khó thấy bạn.
 
-Những thao tác này được phân tích kỹ trong bài [đi xe máy trên đường đê sông Hồng](/ky-nang/2026/10/15/di-xe-may-tren-duong-de-song-hong-mat-duong-hep-doc-xuong-de-va-xe-tai/). Nếu muốn làm quen với đê trước, một buổi [vi vu ven đê sông Hồng](/thue-xe/2026/10/07/thue-xe-may-mot-ngay-vi-vu-ven-e-song-hong/) quanh Hà Nội là bài tập khởi động tốt.
+Những thao tác này được phân tích kỹ trong bài [đi xe máy trên đường đê sông Hồng](/ky-nang/2026/10/15/di-xe-may-tren-duong-de-song-hong-mat-duong-hep-doc-xuong-de-va-xe-tai/). Nếu muốn làm quen với đê trước, một buổi [vi vu ven đê sông Hồng](/thue-xe/2026/10/07/thue-xe-may-mot-ngay-vi-vu-ven-de-song-hong/) quanh Hà Nội là bài tập khởi động tốt.
 
 ## Chọn xe và giờ nhận xe
 
@@ -67,7 +67,7 @@ Vào những ngày rằm, mùng một hay các dịp lễ lớn, khu đền đô
 - Giấy tờ xe, giấy phép lái xe, ví và điện thoại luôn để trên người.
 - Chụp ảnh vị trí xe, vì ngày đông các hàng xe trông giống hệt nhau.
 
-Đồ lễ nên gọn: một túi nhỏ đặt ở sàn để chân xe ga hoặc buộc chắc vào giá sau, tránh mâm lễ cồng kềnh khi phải chạy đường đê. Kinh nghiệm gửi xe ở một ngôi đền đông khách ngay trong Hà Nội có ở bài [đền Cả Bồ Đề bằng xe máy ngày lễ](/du-lich/2026/10/04/en-ca-bo-e-bang-xe-may-ngay-le-uong-i-va-gui-xe/), cách xử lý ở Lảnh Giang cũng tương tự.
+Đồ lễ nên gọn: một túi nhỏ đặt ở sàn để chân xe ga hoặc buộc chắc vào giá sau, tránh mâm lễ cồng kềnh khi phải chạy đường đê. Kinh nghiệm gửi xe ở một ngôi đền đông khách ngay trong Hà Nội có ở bài [đền Cả Bồ Đề bằng xe máy ngày lễ](/du-lich/2026/10/04/den-ca-bo-de-bang-xe-may-ngay-le-duong-di-va-gui-xe/), cách xử lý ở Lảnh Giang cũng tương tự.
 
 ## Giờ quay về và trả xe
 

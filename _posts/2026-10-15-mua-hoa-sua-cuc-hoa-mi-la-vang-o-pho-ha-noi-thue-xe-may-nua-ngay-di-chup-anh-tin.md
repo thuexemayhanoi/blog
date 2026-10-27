@@ -80,7 +80,7 @@ Mùa hoa, đoạn Hoàng Diệu và Phan Đình Phùng có lúc đông người 
 - **Ưu tiên gửi xe ở điểm trông giữ** rồi đi bộ tới chỗ chụp. Những đoạn có biển cấm dừng đỗ thì không dựng xe dù chỉ vài phút.
 - **Chụp nhanh rồi nhường chỗ.** Hàng cây đẹp thì ai cũng muốn đứng, nhóm sau còn đợi.
 
-Vài gợi ý góc chụp và nơi gửi xe quanh phố cổ có trong bài [chụp ảnh phố cổ với xe máy đẹp ở đâu](/du-lich/2026/09/28/chup-anh-pho-co-voi-xe-may-ep-o-au/). Muốn ghé vườn hoa ở Nhật Tân, đọc trước [đến làng hoa Nhật Tân bằng xe máy](/du-lich/2026/09/28/en-lang-hoa-nhat-tan-bang-xe-may-gui-xe-va-uong-i/). Còn cung đường ngắm hoa sữa, lá vàng mùa thu đã có bài [mùa thu Hà Nội bằng xe máy](/du-lich/2026/10/11/mua-thu-ha-noi-bang-xe-may-cung-uong-ngam-hoa-sua-va-la-vang/).
+Vài gợi ý góc chụp và nơi gửi xe quanh phố cổ có trong bài [chụp ảnh phố cổ với xe máy đẹp ở đâu](/du-lich/2026/09/28/chup-anh-pho-co-voi-xe-may-dep-o-dau/). Muốn ghé vườn hoa ở Nhật Tân, đọc trước [đến làng hoa Nhật Tân bằng xe máy](/du-lich/2026/09/28/den-lang-hoa-nhat-tan-bang-xe-may-gui-xe-va-duong-di/). Còn cung đường ngắm hoa sữa, lá vàng mùa thu đã có bài [mùa thu Hà Nội bằng xe máy](/du-lich/2026/10/11/mua-thu-ha-noi-bang-xe-may-cung-duong-ngam-hoa-sua-va-la-vang/).
 
 ## Tóm lại trước khi đặt xe
 

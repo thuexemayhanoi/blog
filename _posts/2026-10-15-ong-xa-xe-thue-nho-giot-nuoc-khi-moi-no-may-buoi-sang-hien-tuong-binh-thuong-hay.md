@@ -50,7 +50,7 @@ Chất lỏng ở đầu pô đôi khi là triệu chứng của lỗi khác. Nh
 
 ### Khói trắng dày kéo dài sau khi máy đã nóng
 
-Hơi nước bình thường mỏng và tan nhanh. Nếu sau mười lăm hai mươi phút chạy, xe vẫn xả khói trắng đặc, bay là là và lâu tan, đó không còn là hơi ngưng tụ. Bài [khói ống xả màu trắng, đen hay xanh nói lên điều gì](/thue-xe/2026/10/11/khoi-tu-ong-xa-xe-thue-mau-trang-en-hay-xanh-moi-mau-noi-len-ieu-gi/) giải thích kỹ cách đọc màu khói.
+Hơi nước bình thường mỏng và tan nhanh. Nếu sau mười lăm hai mươi phút chạy, xe vẫn xả khói trắng đặc, bay là là và lâu tan, đó không còn là hơi ngưng tụ. Bài [khói ống xả màu trắng, đen hay xanh nói lên điều gì](/thue-xe/2026/10/11/khoi-tu-ong-xa-xe-thue-mau-trang-den-hay-xanh-moi-mau-noi-len-dieu-gi/) giải thích kỹ cách đọc màu khói.
 
 ### Nước có màu, có váng dầu
 
@@ -62,7 +62,7 @@ Mùi xăng sống nồng nặc, mùi khét hay mùi ngòn ngọt khác thường
 
 ### Máy yếu, nổ không đều
 
-Nếu cùng lúc đó xe rung giật, hụt ga khi lên dốc cầu Chương Dương hay cầu Vĩnh Tuy, hoặc đèn báo trên đồng hồ sáng, hãy coi là sự cố cần kiểm tra. Xe chỉ khó nổ vào sáng lạnh thì xem bài [xe thuê không nổ máy buổi sáng](/xe-may/2026/10/01/xe-thue-khong-no-may-buoi-sang-chan-oan-nhanh-truoc-khi-goi/). Tiếng lụp bụp ở pô khi nhả ga là chuyện khác, có trong bài [ống xả kêu bụp bụp khi nhả ga](/xe-may/2026/10/14/ong-xa-xe-so-keu-bup-bup-khi-nha-ga-hien-tuong-no-po-co-dang-lo-voi-xe-dang-thue/).
+Nếu cùng lúc đó xe rung giật, hụt ga khi lên dốc cầu Chương Dương hay cầu Vĩnh Tuy, hoặc đèn báo trên đồng hồ sáng, hãy coi là sự cố cần kiểm tra. Xe chỉ khó nổ vào sáng lạnh thì xem bài [xe thuê không nổ máy buổi sáng](/xe-may/2026/10/01/xe-thue-khong-no-may-buoi-sang-chan-doan-nhanh-truoc-khi-goi/). Tiếng lụp bụp ở pô khi nhả ga là chuyện khác, có trong bài [ống xả kêu bụp bụp khi nhả ga](/xe-may/2026/10/14/ong-xa-xe-so-keu-bup-bup-khi-nha-ga-hien-tuong-no-po-co-dang-lo-voi-xe-dang-thue/).
 
 ## Kiểm tra nhanh trước khi đi
 
@@ -87,7 +87,7 @@ Có chạy tiếp được không, đổi xe hay mang đi kiểm tra, và chi ph
 ## Vài thói quen cho đỡ lo mỗi sáng
 
 - **Gửi xe ở chỗ khô thoáng** khi có thể; xe để hầm ẩm hay dưới mưa đêm đọng nhiều nước hơn.
-- **Nổ máy cho ổn định rồi mới chạy nhẹ vài trăm mét đầu.** Cách đề máy khi trời lạnh có trong bài [đề xe máy thuê lúc lạnh máy](/ky-nang/2026/10/07/e-xe-may-thue-luc-lanh-may-kieu-gi-cho-de/).
+- **Nổ máy cho ổn định rồi mới chạy nhẹ vài trăm mét đầu.** Cách đề máy khi trời lạnh có trong bài [đề xe máy thuê lúc lạnh máy](/ky-nang/2026/10/07/de-xe-may-thue-luc-lanh-may-kieu-gi-cho-de/).
 - **Thỉnh thoảng chạy một quãng dài hơn**, như một vòng đê sông Hồng sang Long Biên, để ống xả nóng đều và đẩy hết nước đọng.
 
 ## Tóm lại

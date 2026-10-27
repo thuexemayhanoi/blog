@@ -27,7 +27,7 @@ Ngay khi thợ nói xe không kịp xong trước giờ trả, hãy gọi hoặc
 - **Bạn tránh hiểu lầm về giờ trả.** Tin nhắn báo trước cho thấy bạn không cố tình giữ xe, và là mốc thời gian rõ ràng để đối chiếu sau này.
 - **Cửa hàng góp ý được về việc sửa.** Chủ xe hiểu xe của mình hơn thợ lạ, có khi chỉ muốn sửa tạm hoặc tự đưa xe về thợ quen.
 
-Chưa báo gì từ lúc xe hỏng thì giờ báo gộp: xe hỏng gì và chưa trả kịp hẹn. Cách gọi khi xe vừa chết máy có trong bài [xe thuê chết máy giữa đường gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-uong-goi-ai/).
+Chưa báo gì từ lúc xe hỏng thì giờ báo gộp: xe hỏng gì và chưa trả kịp hẹn. Cách gọi khi xe vừa chết máy có trong bài [xe thuê chết máy giữa đường gọi ai](/hoi-dap/2026/09/29/xe-thue-chet-may-giua-duong-goi-ai/).
 
 ## Những thông tin cần gửi cho cửa hàng
 

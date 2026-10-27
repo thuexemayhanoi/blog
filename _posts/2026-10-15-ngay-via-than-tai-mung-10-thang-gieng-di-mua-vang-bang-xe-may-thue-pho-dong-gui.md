@@ -48,7 +48,7 @@ Ngày vía, vỉa hè trước tiệm vàng gần như không còn chỗ, xe d�
 2. **Chụp ảnh vé gửi và vị trí bãi** ngay khi nhận vé.
 3. **Khóa cổ, rút chìa, không để gì trong giỏ xe.** Mũ bảo hiểm cất cốp hoặc mang theo, áo khoác không vắt lên yên.
 
-Các mẹo khóa xe và chọn chỗ đỗ cho xe thuê có trong bài [chống trộm xe máy khi thuê](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/).
+Các mẹo khóa xe và chọn chỗ đỗ cho xe thuê có trong bài [chống trộm xe máy khi thuê](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/).
 
 ## Cất vàng và hóa đơn kín đáo trước khi rời tiệm
 

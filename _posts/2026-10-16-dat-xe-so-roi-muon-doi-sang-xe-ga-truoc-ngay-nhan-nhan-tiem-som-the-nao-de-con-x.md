@@ -35,7 +35,7 @@ Một tin rõ ràng ngay từ đầu giúp cửa hàng trả lời nhanh. Trư�
 
 ## Đặt xe số đổi sang xe ga: nhắn tin thế nào cho rõ
 
-Nhắn vào đúng kênh bạn đã dùng để đặt, giữ chung một cuộc trò chuyện. Cửa hàng thấy ngay đơn cũ, bạn cũng có toàn bộ lịch sử ở một chỗ. Nếu trước đó bạn đặt qua Zalo, cách trao đổi và chốt cọc trên kênh này có trong bài [đặt xe máy thuê qua Zalo chốt cọc sao](/hoi-dap/2026/10/09/at-xe-may-thue-qua-zalo-chot-coc-sao/).
+Nhắn vào đúng kênh bạn đã dùng để đặt, giữ chung một cuộc trò chuyện. Cửa hàng thấy ngay đơn cũ, bạn cũng có toàn bộ lịch sử ở một chỗ. Nếu trước đó bạn đặt qua Zalo, cách trao đổi và chốt cọc trên kênh này có trong bài [đặt xe máy thuê qua Zalo chốt cọc sao](/hoi-dap/2026/10/09/dat-xe-may-thue-qua-zalo-chot-coc-sao/).
 
 Một mẫu tin nhắn đủ ý:
 
@@ -80,7 +80,7 @@ Khi cửa hàng báo còn xe, đừng chỉ trả lời "ok". Hãy nhắn lại 
 
 > Em chốt đổi sang Honda Vision, nhận sáng thứ Bảy tại cửa hàng, thuê ba ngày, giá ngày theo bảng giá anh chị vừa báo. Anh chị xác nhận giúp em nhé.
 
-Tin chốt này nên có dòng xe mới, ngày giờ nhận, nơi nhận, số ngày thuê và mức giá. Cửa hàng trả lời xác nhận là xong, bạn chụp màn hình để dùng khi cần. Vì sao tin nhắn xác nhận quan trọng, xem bài [đặt xe qua tổng đài có cần tin xác nhận không](/hoi-dap/2026/10/07/at-xe-may-thue-qua-tong-ai-co-can-xac-nhan-tin-khong/).
+Tin chốt này nên có dòng xe mới, ngày giờ nhận, nơi nhận, số ngày thuê và mức giá. Cửa hàng trả lời xác nhận là xong, bạn chụp màn hình để dùng khi cần. Vì sao tin nhắn xác nhận quan trọng, xem bài [đặt xe qua tổng đài có cần tin xác nhận không](/hoi-dap/2026/10/07/dat-xe-may-thue-qua-tong-dai-co-can-xac-nhan-tin-khong/).
 
 Nếu nhắn rồi mà chưa thấy cửa hàng trả lời, đừng nhắn dồn liên tục. Cách chờ và nhắc cho hợp lý có trong bài [nhắn đặt xe máy thuê mà chưa thấy trả lời](/hoi-dap/2026/10/11/nhan-dat-xe-may-thue-ma-chua-thay-tra-loi-cho-bao-lau-nhac-the-nao/).
 
@@ -97,7 +97,7 @@ Lưu ý quan trọng: đừng hủy đơn xe số trước khi xe ga được x�
 
 ## Đến ngày nhận: kiểm tra đúng chiếc xe đã đổi
 
-Tại cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, hãy đối chiếu chiếc xe được giao với tin nhắn đã chốt: đúng dòng xe, biển số trên hợp đồng khớp với biển gắn trên xe. Danh sách những mục cần có trong giấy tờ thuê, bạn xem bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao/).
+Tại cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, hãy đối chiếu chiếc xe được giao với tin nhắn đã chốt: đúng dòng xe, biển số trên hợp đồng khớp với biển gắn trên xe. Danh sách những mục cần có trong giấy tờ thuê, bạn xem bài [hợp đồng thuê xe máy cần ghi rõ những điều nào](/hoi-dap/2026/10/05/hop-dong-thue-xe-may-can-ghi-ro-nhung-dieu-nao/).
 
 Nếu bạn quen xe số, dành vài phút làm quen xe ga trước khi ra đường lớn:
 

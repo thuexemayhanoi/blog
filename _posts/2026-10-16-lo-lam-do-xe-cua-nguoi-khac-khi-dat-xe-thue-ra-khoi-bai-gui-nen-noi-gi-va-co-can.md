@@ -91,7 +91,7 @@ Câu trả lời ngắn: nên báo, nhất là trong các trường hợp sau.
 
 Với xe thuê từ Thuê Xe Máy Hà Nội Nguyễn Tú, gọi 0942 467 674 trong giờ 09:00–21:00, kể gọn sự việc và gửi ảnh. Phí hư hỏng nếu có, và cách xử lý với bên thứ ba, cần xác nhận trực tiếp với cửa hàng.
 
-Nếu xe thuê chỉ bị va chạm nhẹ, bài [xe thuê bị va chạm nhẹ khi đỗ](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-o-can-bao-gi-cho-cua-hang/) liệt kê những gì cửa hàng cần biết. Gương bị gãy thì xem thêm [xe thuê bị gãy gương khi đỗ ở quán](/hoi-dap/2026/10/05/xe-thue-bi-gay-guong-khi-o-o-quan-co-phai-en-khong/).
+Nếu xe thuê chỉ bị va chạm nhẹ, bài [xe thuê bị va chạm nhẹ khi đỗ](/hoi-dap/2026/10/04/xe-thue-bi-va-cham-nhe-khi-do-can-bao-gi-cho-cua-hang/) liệt kê những gì cửa hàng cần biết. Gương bị gãy thì xem thêm [xe thuê bị gãy gương khi đỗ ở quán](/hoi-dap/2026/10/05/xe-thue-bi-gay-guong-khi-do-o-quan-co-phai-den-khong/).
 
 Ngay cả khi xe thuê không sao và chủ xe kia đã bỏ qua, một tin nhắn ngắn kèm ảnh cho cửa hàng cũng giúp lúc trả xe không ai bất ngờ về vết xước mới.
 
