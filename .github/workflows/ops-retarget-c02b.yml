@@ -1,0 +1,64 @@
+name: One-time link retarget after slug d migration
+on:
+  push:
+    branches: ['ops/finish-slug-d-20261028']
+    paths: ['.github/workflows/ops-retarget-c02b.yml']
+permissions:
+  contents: write
+jobs:
+  retarget-verified:
+    if: github.repository == 'thuexemayhanoi/blog'
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install canonical QA dependencies
+        run: python3 -m pip install 'PyYAML>=6,<7'
+      - name: Retarget only eligible posts via canonical tool; preserve hard QA
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json
+          d=json.load(open('data/factory/production-control.json'))
+          assert d['enabled'] is False,'Writer must remain paused'
+          z=json.load(open('reports/factory/seo-master/slug-stub-link-ratchet.json'))
+          assert z['max_links_to_stub_pages'] == 55,'Unexpected ratchet, stop'
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for B in 01 02 03 04 05; do
+            echo "=== canonical links-plan batch $B ==="
+            python3 scripts/factory/migrate-slug-urls.py links-plan --jobs 4 --out "/tmp/links-$B.json"
+            ELIGIBLE=$(python3 -c "import json;print(len(json.load(open('/tmp/links-$B.json'))['eligible']))")
+            NEWLINKS=$(python3 -c "import json;print(json.load(open('/tmp/links-$B.json'))['counts']['links'])")
+            echo "eligible=$ELIGIBLE links=$NEWLINKS"
+            if [ "$ELIGIBLE" -eq 0 ]; then break; fi
+            python3 scripts/factory/migrate-slug-urls.py links-apply --manifest "/tmp/links-$B.json" --limit 50 --approval-ref "owner-chat-2026-10-28/issue-77" --batch-id "links-20261028-c02b-$B"
+            python3 scripts/factory/migrate-slug-urls.py links-verify --backup "reports/qa-audit/links/links-20261028-c02b-$B.json"
+            python3 scripts/factory/validate.py --scope chunk
+            git add _posts data/qa reports/qa-audit/links reports/factory/seo-master/slug-stub-link-ratchet.json
+            git commit -m "data(seo): replace legacy stub link targets with canonical URLs batch $B"
+          done
+          python3 scripts/factory/migrate-slug-urls.py refresh-data
+          python3 scripts/factory/validate.py --scope chunk
+          python3 - <<'PY'
+          import json
+          r=json.load(open('reports/factory/seo-master/slug-stub-link-ratchet.json'))
+          assert r['max_links_to_stub_pages'] <= 55, 'do not loosen redirect-link ratchet'
+          print('ratchet_max=', r['max_links_to_stub_pages'])
+          PY
+      - name: Remove one-time workflow and push only verified link changes to ops PR branch
+        run: |
+          set -euo pipefail
+          git rm .github/workflows/ops-retarget-c02b.yml
+          git add -A
+          git commit -m "chore: finish one-time QA-verified link retarget operation"
+          git push origin HEAD:refs/heads/ops/finish-slug-d-20261028
