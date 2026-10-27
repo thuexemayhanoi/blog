@@ -25,7 +25,7 @@ Người cao từ một mét bảy lăm đến một mét tám vẫn ngồi đư
 
 ## Gối có vướng tay lái không
 
-Đi thẳng thì không. Gối chỉ chạm khi đánh lái hết cỡ sang một bên ở tốc độ chậm, chẳng hạn lúc quay đầu trong ngõ hẹp hay lượn vào chỗ gửi xe: đầu gối phía đó có thể chạm cụm công tắc hoặc đầu tay lái. Cách xử lý đơn giản là dang nhẹ gối bên đó ra ngoài trong lúc đánh lái, hoặc xuống xe dắt khi cần quay đầu trong chỗ thật chật. Ai đã quen điều này trên Wave sẽ thấy Sirius tương tự, bài [người cao to đi Honda Wave: ngồi có gò, gối có vướng tay lái không](/xe-may/2026/10/11/nguoi-cao-to-i-honda-wave-ngoi-co-go-goi-co-vuong-tay-lai-khong/ "Người cao to đi Honda Wave") mô tả cùng một cảm giác.
+Đi thẳng thì không. Gối chỉ chạm khi đánh lái hết cỡ sang một bên ở tốc độ chậm, chẳng hạn lúc quay đầu trong ngõ hẹp hay lượn vào chỗ gửi xe: đầu gối phía đó có thể chạm cụm công tắc hoặc đầu tay lái. Cách xử lý đơn giản là dang nhẹ gối bên đó ra ngoài trong lúc đánh lái, hoặc xuống xe dắt khi cần quay đầu trong chỗ thật chật. Ai đã quen điều này trên Wave sẽ thấy Sirius tương tự, bài [người cao to đi Honda Wave: ngồi có gò, gối có vướng tay lái không](/xe-may/2026/10/11/nguoi-cao-to-di-honda-wave-ngoi-co-go-goi-co-vuong-tay-lai-khong/ "Người cao to đi Honda Wave") mô tả cùng một cảm giác.
 
 Khi đi phố đông và phải đánh lái liên tục để luồn, như đoạn Hàng Bông hay Cầu Gỗ giờ chiều, người cao to nên giữ tốc độ chậm hơn một chút để biên độ đánh lái nhỏ lại, gối không chạm và xe không giật.
 
@@ -51,6 +51,6 @@ Năm phút này rẻ hơn nhiều một buổi mỏi cổ tay giữa đường, 
 
 ## Khi nào nên đổi xe
 
-Đổi xe nếu ngồi thử tại cửa hàng mà gối chạm tay lái ngay cả khi đi thẳng, hoặc chạy thử vài vòng sân đã thấy cổ tay tê. Đổi xe nếu lịch trình có đoạn đường trường trên một tiếng liên tục. Với vóc dáng lớn, một chiếc xe ga rộng như Air Blade cho tư thế thoải mái hơn hẳn, như đã mô tả ở bài [người cao thuê Honda Air Blade: gối, tay lái và tư thế ngồi cho đỡ mỏi](/xe-may/2026/10/11/nguoi-cao-thue-honda-air-blade-goi-tay-lai-va-tu-the-ngoi-cho-o-moi/ "Người cao thuê Honda Air Blade").
+Đổi xe nếu ngồi thử tại cửa hàng mà gối chạm tay lái ngay cả khi đi thẳng, hoặc chạy thử vài vòng sân đã thấy cổ tay tê. Đổi xe nếu lịch trình có đoạn đường trường trên một tiếng liên tục. Với vóc dáng lớn, một chiếc xe ga rộng như Air Blade cho tư thế thoải mái hơn hẳn, như đã mô tả ở bài [người cao thuê Honda Air Blade: gối, tay lái và tư thế ngồi cho đỡ mỏi](/xe-may/2026/10/11/nguoi-cao-thue-honda-air-blade-goi-tay-lai-va-tu-the-ngoi-cho-do-moi/ "Người cao thuê Honda Air Blade").
 
 Còn nếu chuyến đi ngắn, bạn quen xe số và muốn xe nhẹ, tiết kiệm xăng, Sirius vẫn làm tốt việc của nó với người cao to, chỉ cần ngồi lùi và nghỉ đúng lúc. Những bài khác về dòng xe này ở trang [Yamaha Sirius](/xe-may/yamaha-sirius/ "Yamaha Sirius"), và toàn bộ dòng xe cho thuê để so sánh theo vóc dáng ở mục [xe máy](/xe-may/ "Xe máy").

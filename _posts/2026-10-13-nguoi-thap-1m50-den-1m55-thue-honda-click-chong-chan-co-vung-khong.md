@@ -41,7 +41,7 @@ Về ngày mưa, người thấp cần thêm một lưu ý nhỏ: mưa phùn là
 
 ## Khi nào nên cân nhắc xe khác
 
-Nếu sau buổi thử vẫn thấy đuối: gót hổng nhiều, phải trượt khỏi yên mới chạm, hoặc dừng đèn đỏ ba mươi giây đã mỏi bắp chân, đó là lúc đổi sang chiếc có yên thấp hơn hoặc khung nhỏ hơn, và hãy hỏi trực tiếp bên cho thuê, họ gặp yêu cầu này mỗi ngày. Kinh nghiệm chọn xe cho người thấp với dòng khác đã bàn trong bài [người thấp đi Vision](/xe-may/2026/10/11/honda-vision-voi-nguoi-thap-chieu-ke-yen-va-tu-the-at-chan/), còn tính chất nhỏ gọn của Click và nhóm xe hợp khách thích xe nhỏ đã kể trong bài [Click cho khách thích xe nhỏ gọn](/xe-may/2026/10/09/honda-click-thue-cho-khach-thich-xe-nho-gon/).
+Nếu sau buổi thử vẫn thấy đuối: gót hổng nhiều, phải trượt khỏi yên mới chạm, hoặc dừng đèn đỏ ba mươi giây đã mỏi bắp chân, đó là lúc đổi sang chiếc có yên thấp hơn hoặc khung nhỏ hơn, và hãy hỏi trực tiếp bên cho thuê, họ gặp yêu cầu này mỗi ngày. Kinh nghiệm chọn xe cho người thấp với dòng khác đã bàn trong bài [người thấp đi Vision](/xe-may/2026/10/11/honda-vision-voi-nguoi-thap-chieu-ke-yen-va-tu-the-dat-chan/), còn tính chất nhỏ gọn của Click và nhóm xe hợp khách thích xe nhỏ đã kể trong bài [Click cho khách thích xe nhỏ gọn](/xe-may/2026/10/09/honda-click-thue-cho-khach-thich-xe-nho-gon/).
 
 Đừng tự ái về chiều cao khi hỏi, đó là thông tin kỹ thuật giúp bạn thuê đúng xe, và đổi xe vì chống chân không vững là chuyện bình thường, tốt hơn nhiều so với đi nguyên chuyến với hai chân căng như dây đàn.
 

@@ -45,7 +45,7 @@ Xe thuê là xe của cửa hàng, nên việc sửa thuộc về cửa hàng; p
 
 Ắc quy yếu là nguyên nhân hay gặp nhất với xe chạy nhiều năm: đề quay chậm, đèn pha tối ở ga nhỏ, điện áp tụt khiến bộ điều khiển báo lỗi dù máy không sao. Giắc cảm biến lỏng hoặc ẩm sau trận mưa lớn cũng cho đèn sáng vu vơ rồi tự tắt khi khô. Xăng kém chất lượng hay thói quen chạy cạn bình làm bơm xăng nóng và áp xăng không ổn, cảm biến ở bướm ga bám bẩn, bugi mòn, mỗi thứ đều có thể làm đèn sáng.
 
-Người thuê không cần tự chẩn đoán, nhưng biết những khả năng này để hiểu vì sao thợ hỏi về ắc quy hay cây xăng vừa đổ. Tiếng rè của bơm xăng khi bật chìa thay đổi cũng là một manh mối, bài [tiếng rè khi bật chìa xe phun xăng: bơm xăng chạy bình thường hay có vấn đề](/xe-may/2026/10/11/tieng-re-khi-bat-chia-xe-phun-xang-bom-xang-chay-binh-thuong-hay-co-van-e/ "Tiếng rè bơm xăng khi bật chìa") giải thích nên nghe thế nào.
+Người thuê không cần tự chẩn đoán, nhưng biết những khả năng này để hiểu vì sao thợ hỏi về ắc quy hay cây xăng vừa đổ. Tiếng rè của bơm xăng khi bật chìa thay đổi cũng là một manh mối, bài [tiếng rè khi bật chìa xe phun xăng: bơm xăng chạy bình thường hay có vấn đề](/xe-may/2026/10/11/tieng-re-khi-bat-chia-xe-phun-xang-bom-xang-chay-binh-thuong-hay-co-van-de/ "Tiếng rè bơm xăng khi bật chìa") giải thích nên nghe thế nào.
 
 ## Khi về tới cửa hàng
 

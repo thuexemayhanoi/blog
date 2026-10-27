@@ -53,7 +53,7 @@ Nên tránh giày cao gót, gót nhọn và giày đế dày kiểu bánh mì: g
 
 ## Túi, khăn, tóc và áo khoác: những món dễ bị quên
 
-Túi nên đeo chéo, ôm sát hông, vì dây dài lủng lẳng dễ rơi xuống bàn đạp hoặc mắc vào ghi đông. Khăn quàng dài thì quấn gọn quanh cổ hoặc cất đi, tóc dài nên buộc gọn để không quất vào mắt khi ngược gió. Chuyện đội mũ thế nào, bạn đọc riêng ở bài về [mũ bảo hiểm khi thuê xe đạp điện](/xe-may/2026/10/09/xe-ap-ien-thue-co-can-oi-mu-bao-hiem-khong/).
+Túi nên đeo chéo, ôm sát hông, vì dây dài lủng lẳng dễ rơi xuống bàn đạp hoặc mắc vào ghi đông. Khăn quàng dài thì quấn gọn quanh cổ hoặc cất đi, tóc dài nên buộc gọn để không quất vào mắt khi ngược gió. Chuyện đội mũ thế nào, bạn đọc riêng ở bài về [mũ bảo hiểm khi thuê xe đạp điện](/xe-may/2026/10/09/xe-dap-dien-thue-co-can-doi-mu-bao-hiem-khong/).
 
 Sáng đầu thu Hà Nội thường se lạnh, bạn có thể khoác thêm áo mỏng ôm vừa người. Tránh áo choàng rộng và ống tay thùng thình, vì gió làm áo phồng lên còn tay áo dễ vướng tay phanh.
 
@@ -61,7 +61,7 @@ Sáng đầu thu Hà Nội thường se lạnh, bạn có thể khoác thêm áo
 
 Tùy lịch trình, bạn có thể ghép nhanh như sau:
 
-- Dạo phố cổ, vừa đi vừa ăn: áo thun hoặc sơ mi mỏng, quần ống đứng hay váy dài ngang gối mặc kèm quần bó, giày vải dễ xỏ. Kiểu dừng liên tục này thử thách giày dép nhiều nhất, bạn có thể tham khảo thêm bài [tự đi tour ăn vặt quanh phố cổ bằng xe đạp điện](/xe-may/2026/10/11/tu-i-tour-an-vat-quanh-pho-co-bang-xe-ap-ien-dung-lien-tiep-ma-khong-roi/).
+- Dạo phố cổ, vừa đi vừa ăn: áo thun hoặc sơ mi mỏng, quần ống đứng hay váy dài ngang gối mặc kèm quần bó, giày vải dễ xỏ. Kiểu dừng liên tục này thử thách giày dép nhiều nhất, bạn có thể tham khảo thêm bài [tự đi tour ăn vặt quanh phố cổ bằng xe đạp điện](/xe-may/2026/10/11/tu-di-tour-an-vat-quanh-pho-co-bang-xe-dap-dien-dung-lien-tiep-ma-khong-roi/).
 - Một vòng ven hồ buổi chiều: quần ống suông xắn gấu hoặc váy chữ A, thêm áo khoác mỏng, giày thể thao nhẹ.
 - Có ghé đình, chùa: vai và đầu gối nên che kín, chọn quần dài vừa vặn hay váy dài dưới gối, mang dép quai hậu để dễ cởi. Quy định mỗi nơi một khác và có thể thay đổi, hãy xem biển hướng dẫn ở cổng.
 
@@ -73,6 +73,6 @@ Chỉ cần vài phút ngay trước cổng khách sạn, khi còn dễ quay lê
 2. Đạp thật chậm vài vòng ở chỗ vắng và liếc xuống: gấu váy, gấu quần, dây giày có chạm vào bàn đạp hay xích không.
 3. Chạy chậm vài chục mét, phanh dừng, xuống xe rồi lên lại như lúc dừng chụp ảnh: gió có làm váy bay, bạn có phải dùng tay giữ không.
 
-Phép thử nào trượt thì đổi đồ ngay, vì thay quần hay giày ở khách sạn dễ hơn nhiều so với giữa đường. Lối ra khu phố cổ vốn hẹp, bạn sẽ phải tránh xe, dừng và chống chân liên tục; muốn hình dung rõ hơn, hãy đọc [chuyện dạo phố cổ bằng xe đạp điện có tiện hay không](/xe-may/2026/10/10/thue-xe-ap-ien-i-pho-co-co-tien-khong/).
+Phép thử nào trượt thì đổi đồ ngay, vì thay quần hay giày ở khách sạn dễ hơn nhiều so với giữa đường. Lối ra khu phố cổ vốn hẹp, bạn sẽ phải tránh xe, dừng và chống chân liên tục; muốn hình dung rõ hơn, hãy đọc [chuyện dạo phố cổ bằng xe đạp điện có tiện hay không](/xe-may/2026/10/10/thue-xe-dap-dien-di-pho-co-co-tien-khong/).
 
 Việc nên làm ngay hôm nay là chọn bộ đồ cho chuyến đi rồi làm đủ ba phép thử trên. Giá và tình trạng xe đạp điện hiện tại cần liên hệ để xác nhận: bạn gọi Thuê Xe Máy Hà Nội Nguyễn Tú theo số 0942 467 674 trong giờ 09:00–21:00, còn các dòng xe khác xem thêm ở mục [thuê xe máy Hà Nội](/xe-may/).

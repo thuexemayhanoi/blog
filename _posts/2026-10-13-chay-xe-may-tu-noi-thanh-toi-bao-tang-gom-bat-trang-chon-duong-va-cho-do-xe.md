@@ -31,7 +31,7 @@ Bảo tàng nằm trong quần thể làng cổ, không có bãi gửi riêng c�
 
 Thói quen an toàn giữ nguyên: khóa cổ, tắt máy, cầm theo đồ đắt tiền, và chụp lại góc để xe. Cuối tuần các bãi gần cổng kín sớm, khách đi sau chín giờ sáng nên chấp nhận dừng xa hơn một chút rồi đi bộ vào, vừa xem được hai bên phố gốm trên đường tới.
 
-Với khách mua gốm mang về, xem trước bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-o-gom-bat-trang-ve-bang-xe-may-cach-ong-goi-va-buoc-o/ "Chở gốm về bằng xe máy") để biết cách quấn, buộc và xếp đồ dễ vỡ trên xe, vì chạy qua cầu với thùng gốm lỏng lẻo là cách nhanh nhất làm hỏng chuyến về.
+Với khách mua gốm mang về, xem trước bài [chở đồ gốm Bát Tràng về bằng xe máy](/du-lich/2026/10/11/cho-do-gom-bat-trang-ve-bang-xe-may-cach-dong-goi-va-buoc-do/ "Chở gốm về bằng xe máy") để biết cách quấn, buộc và xếp đồ dễ vỡ trên xe, vì chạy qua cầu với thùng gốm lỏng lẻo là cách nhanh nhất làm hỏng chuyến về.
 
 ## Trong bảo tàng đáng xem gì
 

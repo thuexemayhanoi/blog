@@ -27,7 +27,7 @@ Một cách tự kiểm tra nhanh: đứng xe chỗ vắng, tay ga giữ nhẹ �
 
 ## Tiếng lạ từ máy Sirius: rít, cọ và gõ đáng ngờ
 
-Tiếng rít kim loại kéo dài, nghe rõ khi xe chạy nhanh dần, thường liên quan tới xích hoặc bi bánh xe. Xích xe số bị giãn hết cỡ hoặc bi khô dầu sẽ rít liên tục, và tiếng này theo tốc độ chứ không theo số máy. Khách thuê nên đọc thêm bài [tiếng kêu ổ xích xe số thuê, chỉnh và bôi trơn đúng lúc](/xe-may/2026/10/11/tieng-keu-o-xich-xe-so-thue-chinh-va-boi-tron-ung-luc/ "Tiếng kêu ổ xích") để tự nhận trước, vì đây là loại tiếng dễ lẫn với tiếng máy nhất.
+Tiếng rít kim loại kéo dài, nghe rõ khi xe chạy nhanh dần, thường liên quan tới xích hoặc bi bánh xe. Xích xe số bị giãn hết cỡ hoặc bi khô dầu sẽ rít liên tục, và tiếng này theo tốc độ chứ không theo số máy. Khách thuê nên đọc thêm bài [tiếng kêu ổ xích xe số thuê, chỉnh và bôi trơn đúng lúc](/xe-may/2026/10/11/tieng-keu-o-xich-xe-so-thue-chinh-va-boi-tron-dung-luc/ "Tiếng kêu ổ xích") để tự nhận trước, vì đây là loại tiếng dễ lẫn với tiếng máy nhất.
 
 Tiếng cọ như kim loại cạ vào nhau, nghe theo vòng quay, thường đáng lo hơn: có thể là má phanh mòn, đĩa phanh có dính hạt cát, hoặc bi cốt bị khô. Tiếng gõ nhịp theo máy, kiểu cộc cộc nặng lên khi mở ga, thuộc nhóm cần dừng ngay, vì tiếng gõ trong máy thường là dấu hiệu của hư hổng bên trong, không phải điều chỉnh nhỏ.
 

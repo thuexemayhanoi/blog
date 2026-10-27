@@ -27,7 +27,7 @@ Một lỗi hay gặp nữa là so sánh số lít đổ vào với con số đ�
 
 Chọn một cây xăng gần nhà hoặc gần chỗ làm, đổ đầy bình ở buổi sáng trước khi xuất phát. Đầy nghĩa là đến mức cổ bình, nhìn thấy mặt xăng, không thêm giọt nào nữa sau khi vòi rút ra. Ghi lại con số đồng hồ xe, ghi luôn ngày và kiểu lịch trình hôm đó dự kiến, ví dụ ngày đi làm bình thường hay ngày đi chơi xa.
 
-Cuối ngày, hoặc vào đúng cùng buổi hôm sau trước khi chạy tiếp, quay lại đúng cây xăng đó, đổ đầy lại tới đúng mức như lần đầu. Số lít đổ lần này chính là lượng xe đã ăn trong quãng đã chạy. Lấy số lít chia cho số cây số chạy được rồi nhân lên trăm, ra mức hao của xe cho đúng kiểu chạy hôm đó. Ai đã đọc bài [tự kiểm tra nhớt xe thuê trước chuyến đi xa](/xe-may/2026/10/10/tu-kiem-tra-nhot-xe-thue-truoc-chuyen-i-xa/ "Tự kiểm tra nhớt xe thuê") sẽ thấy tinh thần giống nhau: tự đo bao giờ cũng tin hơn hỏi.
+Cuối ngày, hoặc vào đúng cùng buổi hôm sau trước khi chạy tiếp, quay lại đúng cây xăng đó, đổ đầy lại tới đúng mức như lần đầu. Số lít đổ lần này chính là lượng xe đã ăn trong quãng đã chạy. Lấy số lít chia cho số cây số chạy được rồi nhân lên trăm, ra mức hao của xe cho đúng kiểu chạy hôm đó. Ai đã đọc bài [tự kiểm tra nhớt xe thuê trước chuyến đi xa](/xe-may/2026/10/10/tu-kiem-tra-nhot-xe-thue-truoc-chuyen-di-xa/ "Tự kiểm tra nhớt xe thuê") sẽ thấy tinh thần giống nhau: tự đo bao giờ cũng tin hơn hỏi.
 
 Ba lỗi hay làm sai phép đo: dùng hai cây xăng khác nhau có vòi khác nhau, vì mức đầy hai vòi không giống nhau; để xe nghiêng khác nhau giữa hai lần đổ; và tính cả đoạn chạy giật cục lúc nghịch ga thử xe trong ngày. Tránh được ba lỗi này, số đo được đủ tin để tính chi phí cả kỳ thuê.
 
@@ -43,6 +43,6 @@ Một điểm cũng nên đo là chênh giữa chạy một mình và chở ngư
 
 ## Đừng để quá thấp mới đổ, và đừng để dự đoán thay số đo
 
-Thói quen để bình cạn gần đáy mới đổ khiến phép đo khó làm, và với xe số phổ thông bình nhỏ, chạy cạn cũng không tiện gì. Nên giữ mực xăng trên nửa bình trong kỳ thuê, vừa an toàn đường dài, vừa sẵn vật liệu cho các phép đo bất kỳ lúc nào muốn làm. Ai muốn hiểu thêm cách tính chi phí lăn bánh khi thuê, xem thêm bài [so sánh chi phí lái xe máy thuê và taxi nội thành](/xe-may/2026/10/05/so-sanh-chi-phi-i-lai-xe-may-thue-va-taxi-noi-thanh/ "So sánh chi phí thuê xe và taxi").
+Thói quen để bình cạn gần đáy mới đổ khiến phép đo khó làm, và với xe số phổ thông bình nhỏ, chạy cạn cũng không tiện gì. Nên giữ mực xăng trên nửa bình trong kỳ thuê, vừa an toàn đường dài, vừa sẵn vật liệu cho các phép đo bất kỳ lúc nào muốn làm. Ai muốn hiểu thêm cách tính chi phí lăn bánh khi thuê, xem thêm bài [so sánh chi phí lái xe máy thuê và taxi nội thành](/xe-may/2026/10/05/so-sanh-chi-phi-di-lai-xe-may-thue-va-taxi-noi-thanh/ "So sánh chi phí thuê xe và taxi").
 
 Cuối cùng, ghi số đo ra giấy hoặc ghi chú điện thoại, kèm điều kiện của ngày đo: chạy một mình hay chở người, nội thành hay đường trường, trời nóng hay mát. Sau ba bốn lần, khách thuê nắm được mức xăng thật của xe mình đang thuê trong chính lịch trình của mình, và mọi lời đồn trên mạng về xe số ăn xăng nhiều hay ít chỉ còn là chuyện của người khác. Để đọc thêm về đặc tính của dòng xe này, vào trang [Yamaha Sirius](/xe-may/yamaha-sirius/ "Yamaha Sirius"), hoặc so sánh với các dòng khác ở mục [xe máy](/xe-may/ "Xe máy") của trang.

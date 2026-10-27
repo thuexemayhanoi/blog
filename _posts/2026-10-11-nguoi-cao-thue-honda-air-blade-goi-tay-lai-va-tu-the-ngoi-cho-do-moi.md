@@ -76,7 +76,7 @@ Nếu đã mỏi, hãy xem mỏi ở đâu để chỉnh đúng chỗ:
 - Thắt lưng: hay gặp khi ngồi dồn lên trước hoặc gù lưng. Dịch mông ra sau, siết nhẹ bụng.
 - Đùi và chân: tê hoặc nặng thường do đùi bị ép vào thân xe, hay chân giữ một chỗ quá lâu. Đổi chân mỗi lần dừng.
 
-Nếu tay tê hoặc đau nhói kéo dài, hãy dừng chạy và nghỉ; gợi ý trong bài chỉ là kinh nghiệm phổ thông, không thay thế ý kiến nhân viên y tế. Nếu cuối tuần định đi xa hơn, bài [thuê Air Blade đi chặng xa có hợp không](/xe-may/2026/10/07/thue-honda-air-blade-i-chang-xa-co-hop-khong/) giúp bạn cân nhắc kỹ hơn.
+Nếu tay tê hoặc đau nhói kéo dài, hãy dừng chạy và nghỉ; gợi ý trong bài chỉ là kinh nghiệm phổ thông, không thay thế ý kiến nhân viên y tế. Nếu cuối tuần định đi xa hơn, bài [thuê Air Blade đi chặng xa có hợp không](/xe-may/2026/10/07/thue-honda-air-blade-di-chang-xa-co-hop-khong/) giúp bạn cân nhắc kỹ hơn.
 
 ## Air Blade cho người cao to: khi nào nên đổi sang xe khác
 

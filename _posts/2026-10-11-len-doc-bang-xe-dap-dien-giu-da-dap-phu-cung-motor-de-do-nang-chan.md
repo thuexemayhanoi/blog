@@ -44,13 +44,13 @@ Mỗi loại xe phản ứng một kiểu. Xe trợ lực theo vòng đạp thư
 
 Khi lên dốc, người ngồi nên hơi chồm về phía trước, lưng thẳng, khuỷu tay chùng nhẹ. Dồn người ra sau trông có vẻ an toàn nhưng làm bánh trước nhẹ đi, tay lái dễ chao. Người mới nên ngồi hẳn trên yên, chưa vội đứng lên bàn đạp để dồn sức. Mắt nhìn xa phía trước chứ đừng dán vào bánh xe.
 
-Cầm lái chắc nhưng đừng bóp cứng, nhất là khi mặt cầu có khe nối hoặc chỗ vá đường. Hôm gió mùa lạnh, ngón tay tê cứng càng dễ cầm hụt, nên bạn có thể đọc thêm [cách giữ ấm tay chân mà vẫn cầm lái chắc](/xe-may/2026/10/11/ngay-gio-mua-lanh-o-ha-noi-ap-xe-ien-giu-am-tay-chan-ma-van-cam-lai-chac/) trước khi ra đường.
+Cầm lái chắc nhưng đừng bóp cứng, nhất là khi mặt cầu có khe nối hoặc chỗ vá đường. Hôm gió mùa lạnh, ngón tay tê cứng càng dễ cầm hụt, nên bạn có thể đọc thêm [cách giữ ấm tay chân mà vẫn cầm lái chắc](/xe-may/2026/10/11/ngay-gio-mua-lanh-o-ha-noi-dap-xe-dien-giu-am-tay-chan-ma-van-cam-lai-chac/) trước khi ra đường.
 
 Đồ đạc cũng gây loạng choạng không kém. Túi nặng treo ở ghi đông khiến tay lái đảo theo từng vòng đạp, nên hãy buộc gọn đồ ở giỏ hoặc baga sau. Xe bắt đầu lắc thì đừng giật lái hay bóp phanh gắt, hãy giảm lực từ từ và giữ xe thẳng.
 
 ## Lên dốc bằng xe đạp điện ở Hà Nội: dốc cầu và cầu vượt hay gặp
 
-Ai từng [ra đê sông Hồng ngắm hoàng hôn gần cầu Long Biên](/xe-may/2026/10/11/ra-e-song-hong-ngam-hoang-hon-gan-cau-long-bien-bang-xe-ap-ien/) rồi quay về đúng giờ tan tầm đều biết cảnh ở chân dốc cầu: xe máy, xe tải nhỏ và xe đạp điện dồn thành một dải, rồi bất ngờ dãn ra khi đường thoáng. Đó là lúc xe đạp điện dễ mất đà nhất. Hãy chạy sát lề phải, bám sau một xe đi đều thay vì lách qua lách lại, và chừa đủ khoảng trống để không phải dừng hẳn giữa dốc.
+Ai từng [ra đê sông Hồng ngắm hoàng hôn gần cầu Long Biên](/xe-may/2026/10/11/ra-de-song-hong-ngam-hoang-hon-gan-cau-long-bien-bang-xe-dap-dien/) rồi quay về đúng giờ tan tầm đều biết cảnh ở chân dốc cầu: xe máy, xe tải nhỏ và xe đạp điện dồn thành một dải, rồi bất ngờ dãn ra khi đường thoáng. Đó là lúc xe đạp điện dễ mất đà nhất. Hãy chạy sát lề phải, bám sau một xe đi đều thay vì lách qua lách lại, và chừa đủ khoảng trống để không phải dừng hẳn giữa dốc.
 
 Đường lên cầu vượt ở một ngã tư lớn thường ngắn mà dốc gắt hơn, xe máy xung quanh hay tăng ga cho kịp leo. Đừng chạy theo nhịp của họ mà hãy vào dốc bằng nhịp của mình. Chưa tự tin thì chọn đường vòng dù xa hơn, và nhớ làm theo biển báo từng đoạn.
 
@@ -60,7 +60,7 @@ Gần tới đỉnh, hạ dần lực và chuẩn bị phanh nhẹ cho đoạn x
 
 Leo dốc thường tốn điện hơn chạy đường bằng, còn chênh nhiều hay ít thì tùy xe, tùy hãng. Trước lộ trình có nhiều dốc cầu, bạn nên liếc đồng hồ báo pin và đừng xuất phát khi pin đã yếu.
 
-Giữa dốc mà motor yếu đi hoặc xe chậm hẳn, đừng cố vặn thêm cho bằng được. Hãy đạp nhẹ đều, đưa xe vào sát lề phải ở chỗ đủ rộng rồi mới dừng; dắt bộ nốt đoạn dốc cũng là lựa chọn hợp lý. Cách xử lý chi tiết có trong bài [phương án di chuyển an toàn khi xe đạp điện đạp nặng vì hết pin](/xe-may/2026/10/11/xe-ap-ien-ap-nang-khi-het-pin-phuong-an-di-chuyen-an-toan/).
+Giữa dốc mà motor yếu đi hoặc xe chậm hẳn, đừng cố vặn thêm cho bằng được. Hãy đạp nhẹ đều, đưa xe vào sát lề phải ở chỗ đủ rộng rồi mới dừng; dắt bộ nốt đoạn dốc cũng là lựa chọn hợp lý. Cách xử lý chi tiết có trong bài [phương án di chuyển an toàn khi xe đạp điện đạp nặng vì hết pin](/xe-may/2026/10/11/xe-dap-dien-dap-nang-khi-het-pin-phuong-an-di-chuyen-an-toan/).
 
 Nếu ngửi thấy mùi khét, thấy pin nóng bất thường, có khói hoặc xe phát tiếng lạ, hãy dừng ở nơi an toàn và tránh xa xe một đoạn. Đừng tự mở hay sửa pin, cũng đừng cố chạy tiếp. Với xe thuê, hãy báo cho nơi cho thuê để được hướng dẫn trước khi tự xử lý.
 

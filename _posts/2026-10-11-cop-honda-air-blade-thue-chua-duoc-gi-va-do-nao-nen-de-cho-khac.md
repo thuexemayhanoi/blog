@@ -73,7 +73,7 @@ Có ba nguyên tắc để đồ khi đi Air Blade mà vẫn lái gọn:
 - Móc treo đồ phía trước, nếu xe có (tùy đời xe, hãy nhìn trên chiếc bạn nhận): chỉ treo túi nhẹ, quai ngắn, không để chạm bánh trước, chân hay tay lái.
 - Sàn để chân không phải chỗ để đồ: đồ trượt khi phanh và làm chân bạn mất chỗ đặt.
 
-Dù chọn cách nào, đồ cũng không được che gương, che đèn hay kéo lệch tay lái. Với những ngày kéo ra khỏi nội thành, hành lý càng phải gọn, và bài bàn về [thuê Air Blade đi chặng xa](/xe-may/2026/10/07/thue-honda-air-blade-i-chang-xa-co-hop-khong/) nói thêm chuyện đó.
+Dù chọn cách nào, đồ cũng không được che gương, che đèn hay kéo lệch tay lái. Với những ngày kéo ra khỏi nội thành, hành lý càng phải gọn, và bài bàn về [thuê Air Blade đi chặng xa](/xe-may/2026/10/07/thue-honda-air-blade-di-chang-xa-co-hop-khong/) nói thêm chuyện đó.
 
 Trước khi trả xe, hãy mở cốp lần cuối. Dây sạc, áo mưa và kính mát hay bị bỏ quên ở đáy cốp. Nhặt hết rác, và nếu yên khó mở, khóa trục trặc hoặc cốp có vết nứt, bạn nên dừng lại và báo cửa hàng cho thuê trước khi tự xử lý hay cậy mạnh.
 

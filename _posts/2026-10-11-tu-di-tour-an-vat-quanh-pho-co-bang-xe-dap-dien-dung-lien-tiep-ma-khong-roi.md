@@ -30,7 +30,7 @@ Một vòng ăn sáng phố cổ Hà Nội dễ chịu nhất khi đi từ mặn
 
 Về hướng đi, hãy chọn một chiều thay vì đi tới đi lui. Hình dung cả nhóm bắt đầu quanh chợ Đồng Xuân với một phần xôi hoặc bánh cuốn, đi dần qua các phố như Hàng Đường, Hàng Ngang về phía hồ Gươm rồi kết bằng ly cà phê gần bờ hồ.
 
-Nếu thuê xe ở Nguyễn Tú, hãy nhớ cửa hàng làm việc 09:00–21:00 nên vòng ăn bắt đầu từ lúc nhận xe, còn xe đạp điện, giá hiện tại, tiền cọc và giấy tờ cần mang thì liên hệ để xác nhận trực tiếp. Phần ngắm cảnh quanh hồ đã có bài riêng về [thuê xe đạp điện đi quanh phố cổ và hồ Gươm](/xe-may/2026/09/27/thue-xe-ap-ien-i-quanh-pho-co-va-ho-guom/); bài này chỉ bàn chuyện ăn và đỗ xe.
+Nếu thuê xe ở Nguyễn Tú, hãy nhớ cửa hàng làm việc 09:00–21:00 nên vòng ăn bắt đầu từ lúc nhận xe, còn xe đạp điện, giá hiện tại, tiền cọc và giấy tờ cần mang thì liên hệ để xác nhận trực tiếp. Phần ngắm cảnh quanh hồ đã có bài riêng về [thuê xe đạp điện đi quanh phố cổ và hồ Gươm](/xe-may/2026/09/27/thue-xe-dap-dien-di-quanh-pho-co-va-ho-guom/); bài này chỉ bàn chuyện ăn và đỗ xe.
 
 ## Đi ăn vặt phố cổ bằng xe đạp điện: đỗ gọn một lần, đi bộ một cụm
 
@@ -49,7 +49,7 @@ Món mua mang đi cũng cần chỗ để: hãy bỏ vào giỏ hoặc túi, đ�
 
 Cái hay của phố cổ là hai phố song song chỉ cách nhau một dãy nhà mà mật độ người có thể khác hẳn. Đoạn phía trước chật cứng thì thử rẽ sang phố bên cạnh thay vì cố len, và đừng ép cả nhóm đang đói vào khu đông nhất đúng giờ cao điểm.
 
-Một số phố ở đây là đường một chiều, và có đoạn có thể hạn chế xe theo giờ hoặc theo ngày. Hãy xem bản đồ trên điện thoại và biển báo tại chỗ trước khi rời chỗ đỗ, đừng vừa chạy vừa tra; thông tin này có thể thay đổi nên đừng tin vào lộ trình cũ. Xe đạp điện hợp đến đâu với phố hẹp thì đã có bài riêng: [đi phố cổ bằng xe đạp điện có tiện không](/xe-may/2026/10/10/thue-xe-ap-ien-i-pho-co-co-tien-khong/).
+Một số phố ở đây là đường một chiều, và có đoạn có thể hạn chế xe theo giờ hoặc theo ngày. Hãy xem bản đồ trên điện thoại và biển báo tại chỗ trước khi rời chỗ đỗ, đừng vừa chạy vừa tra; thông tin này có thể thay đổi nên đừng tin vào lộ trình cũ. Xe đạp điện hợp đến đâu với phố hẹp thì đã có bài riêng: [đi phố cổ bằng xe đạp điện có tiện không](/xe-may/2026/10/10/thue-xe-dap-dien-di-pho-co-co-tien-khong/).
 
 Xe đạp điện thường chạy êm nên người đi bộ khó nghe thấy bạn tới gần. Hãy bấm chuông nếu xe có hoặc nói xin lỗi từ sớm, giảm tốc khi qua cửa quán đang đông và xuống dắt xe vài bước khi lối quá hẹp.
 
@@ -59,7 +59,7 @@ Nhóm hai đến bốn người nên đi hàng một trên phố hẹp: người
 
 Vòng ăn nhiều đoạn ngắn dễ khiến bạn chủ quan về pin, nhưng mức hao còn tùy xe, tùy hãng, tùy đường và tùy sức tải, nên đừng tính sát. Trước khi đi, hãy nhìn mức pin và hỏi người cho thuê về cách dùng hợp lý của chính chiếc xe đó; pin không còn đầy thì rút gọn vòng ăn.
 
-Nếu giữa chừng xe có mùi lạ, nóng bất thường, kêu lạ hay chạy chập chờn, hãy dừng ở chỗ an toàn và tắt xe. Đừng tự mở hay sửa pin, đừng cắm sạc nhờ ổ điện của quán bằng bộ sạc lạ; hãy gọi báo cho cửa hàng cho thuê để nghe hướng dẫn tiếp theo. Phần lưu ý chung trước ngày đi nằm ở bài [thuê xe đạp điện ở Hà Nội cần lưu ý gì](/xe-may/2026/10/07/thue-xe-ap-ien-o-ha-noi-luu-y-gi/).
+Nếu giữa chừng xe có mùi lạ, nóng bất thường, kêu lạ hay chạy chập chờn, hãy dừng ở chỗ an toàn và tắt xe. Đừng tự mở hay sửa pin, đừng cắm sạc nhờ ổ điện của quán bằng bộ sạc lạ; hãy gọi báo cho cửa hàng cho thuê để nghe hướng dẫn tiếp theo. Phần lưu ý chung trước ngày đi nằm ở bài [thuê xe đạp điện ở Hà Nội cần lưu ý gì](/xe-may/2026/10/07/thue-xe-dap-dien-o-ha-noi-luu-y-gi/).
 
 ## Chuẩn bị gọn trước giờ xuất phát
 

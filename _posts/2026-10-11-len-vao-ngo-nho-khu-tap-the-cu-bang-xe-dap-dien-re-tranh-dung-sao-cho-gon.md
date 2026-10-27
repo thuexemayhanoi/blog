@@ -48,7 +48,7 @@ Trong khu tập thể, lối đi chung vừa là đường vừa là sân nhà. 
 
 Gặp người lớn tuổi đi chậm phía trước, bạn chạy theo sau đúng nhịp của họ, đợi chỗ rộng và khi họ đã nhận ra mình rồi mới vượt. Gặp trẻ nhỏ đang chơi hay chạy theo quả bóng, hãy dừng hẳn nếu cần, vì trẻ thường không nhìn xe trước khi chạy. Khi vượt, giữ khoảng cách rộng hơn một sải tay và chưa vội tăng ga ngay.
 
-Đi cùng bạn bè thì nên xếp một hàng trong ngõ; chuyện xếp hàng, giữ khoảng cách và chờ nhau được nói kỹ hơn trong bài [đi nhóm bạn bằng xe đạp điện](/xe-may/2026/10/11/i-nhom-ban-bang-xe-ap-ien-xep-hang-the-nao-giu-khoang-cach-cho-nhau-ra-sao/). Ai nép sang bên nhường đường thì một cái gật đầu hay câu "cảm ơn bác" là đủ.
+Đi cùng bạn bè thì nên xếp một hàng trong ngõ; chuyện xếp hàng, giữ khoảng cách và chờ nhau được nói kỹ hơn trong bài [đi nhóm bạn bằng xe đạp điện](/xe-may/2026/10/11/di-nhom-ban-bang-xe-dap-dien-xep-hang-the-nao-giu-khoang-cach-cho-nhau-ra-sao/). Ai nép sang bên nhường đường thì một cái gật đầu hay câu "cảm ơn bác" là đủ.
 
 ## Tránh xe đỗ, quán nước và vật cản dọc lối đi
 
@@ -68,8 +68,8 @@ Nếu xe có tiếng lạ, mùi lạ hoặc đột ngột mất lực giữa ng�
 
 ## Đạp xe điện khu tập thể cũ: chuẩn bị gì trước giờ đi
 
-Trước khi vào ngõ, hãy dành vài phút ở chỗ thoáng để làm quen xe: thử phanh, chuông hoặc còi, và độ nhạy của tay ga. Muốn rõ hơn về chuyện thuê xe, xem bài [thuê xe đạp điện ở Hà Nội cần lưu ý gì](/xe-may/2026/10/07/thue-xe-ap-ien-o-ha-noi-luu-y-gi/). Nếu thuê tại Thuê Xe Máy Hà Nội Nguyễn Tú, bạn liên hệ để xác nhận giá và tình trạng xe hiện tại trước khi đặt.
+Trước khi vào ngõ, hãy dành vài phút ở chỗ thoáng để làm quen xe: thử phanh, chuông hoặc còi, và độ nhạy của tay ga. Muốn rõ hơn về chuyện thuê xe, xem bài [thuê xe đạp điện ở Hà Nội cần lưu ý gì](/xe-may/2026/10/07/thue-xe-dap-dien-o-ha-noi-luu-y-gi/). Nếu thuê tại Thuê Xe Máy Hà Nội Nguyễn Tú, bạn liên hệ để xác nhận giá và tình trạng xe hiện tại trước khi đặt.
 
-Nếu chuyến đi có nhiều điểm dừng như ghé hàng ăn, bài [tour ăn vặt quanh phố cổ bằng xe đạp điện](/xe-may/2026/10/11/tu-i-tour-an-vat-quanh-pho-co-bang-xe-ap-ien-dung-lien-tiep-ma-khong-roi/) nói riêng về chuyện dừng nối tiếp mà không rối. Các bài khác trong [chuyên mục xe đạp điện](/xe-may/xe-dap-dien/) kể thêm về nắng nóng hay mùa thu, còn kinh nghiệm chung nằm ở trang [thuê và đi xe máy ở Hà Nội](/xe-may/).
+Nếu chuyến đi có nhiều điểm dừng như ghé hàng ăn, bài [tour ăn vặt quanh phố cổ bằng xe đạp điện](/xe-may/2026/10/11/tu-di-tour-an-vat-quanh-pho-co-bang-xe-dap-dien-dung-lien-tiep-ma-khong-roi/) nói riêng về chuyện dừng nối tiếp mà không rối. Các bài khác trong [chuyên mục xe đạp điện](/xe-may/xe-dap-dien/) kể thêm về nắng nóng hay mùa thu, còn kinh nghiệm chung nằm ở trang [thuê và đi xe máy ở Hà Nội](/xe-may/).
 
 Lần tới vào khu tập thể, hãy thử một việc rất nhỏ: tới mỗi khúc cua thì chậm gần như dừng, nhìn rồi mới đi.

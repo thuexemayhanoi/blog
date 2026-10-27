@@ -25,7 +25,7 @@ Cách nhận biết trong mười giây: cúi nhìn bánh trước. Thấy một
 
 ## Phanh cơ: bóp mạnh tay hơn, đường ướt phải phanh sớm
 
-Phanh tang trống ép má phanh từ bên trong may-ơ, truyền lực bằng dây cáp. Cảm giác đặc trưng là hành trình tay phanh dài, phải bóp khá lực mới thấy xe ghìm, nhưng lực ghìm tăng dần đều nên bánh trước khó bị khoá cứng, điều mà người mới đi xe số thường thấy yên tâm. Nhược điểm lộ rõ khi trời mưa: nước lọt vào trống làm phanh gần như không ăn trong vài giây đầu, nên phải bóp sớm hơn và sau khi qua vũng nước thì rê phanh nhẹ vài giây cho khô má. Bài [Honda Wave phanh cơ khi đường ướt: phanh sớm hơn và rê phanh cho khô](/xe-may/2026/10/11/honda-wave-phanh-co-khi-uong-uot-phanh-som-hon-va-re-phanh-cho-kho/ "Phanh cơ khi đường ướt") viết cho Wave nhưng áp dụng y nguyên cho Sirius phanh cơ.
+Phanh tang trống ép má phanh từ bên trong may-ơ, truyền lực bằng dây cáp. Cảm giác đặc trưng là hành trình tay phanh dài, phải bóp khá lực mới thấy xe ghìm, nhưng lực ghìm tăng dần đều nên bánh trước khó bị khoá cứng, điều mà người mới đi xe số thường thấy yên tâm. Nhược điểm lộ rõ khi trời mưa: nước lọt vào trống làm phanh gần như không ăn trong vài giây đầu, nên phải bóp sớm hơn và sau khi qua vũng nước thì rê phanh nhẹ vài giây cho khô má. Bài [Honda Wave phanh cơ khi đường ướt: phanh sớm hơn và rê phanh cho khô](/xe-may/2026/10/11/honda-wave-phanh-co-khi-duong-uot-phanh-som-hon-va-re-phanh-cho-kho/ "Phanh cơ khi đường ướt") viết cho Wave nhưng áp dụng y nguyên cho Sirius phanh cơ.
 
 Giờ tan tầm, dòng xe trên Nguyễn Văn Cừ hay Trần Nhật Duật dừng và nhích liên tục, tang trống nóng lên khiến tay phanh có cảm giác lún hơn bình thường. Không phải xe hỏng, chỉ là nhiệt. Giữ khoảng cách một thân xe và dùng nhiều phanh sau hơn ở tốc độ bò, để phanh trước mát lại.
 
@@ -33,7 +33,7 @@ Giờ tan tầm, dòng xe trên Nguyễn Văn Cừ hay Trần Nhật Duật dừ
 
 Đĩa đơn thuỷ lực cho bánh trước đổi hẳn cảm giác: chỉ cần hai ngón, hành trình ngắn, bóp đến đâu xe ghìm đến đó, và trời mưa gần như không giảm hiệu quả. Đổi lại, phanh đĩa đòi hỏi tay bóp có kiểm soát. Bóp gấp hết tay ở tốc độ cao trên mặt đường có cát hoặc vạch sơn ướt có thể khoá bánh trước và trượt. Thói quen đúng là tăng lực dần trong nửa giây, kết hợp phanh sau, thân người hơi dồn về sau.
 
-Người quen xe phanh cơ chuyển sang bản phanh đĩa nên chạy thử trong sân hoặc ngõ vắng vài lần, bóp phanh trước ở tốc độ đi bộ để tay quen với lực mới. Người chưa chắc nên chọn loại phanh nào có thể đọc [phanh đĩa hay phanh cơ: người mới nên ưu tiên gì khi chọn xe thuê](/hoi-dap/2026/10/11/phanh-ia-hay-phanh-co-nguoi-moi-nen-uu-tien-gi-khi-chon-xe-thue/ "Phanh đĩa hay phanh cơ cho người mới") trước khi đặt xe.
+Người quen xe phanh cơ chuyển sang bản phanh đĩa nên chạy thử trong sân hoặc ngõ vắng vài lần, bóp phanh trước ở tốc độ đi bộ để tay quen với lực mới. Người chưa chắc nên chọn loại phanh nào có thể đọc [phanh đĩa hay phanh cơ: người mới nên ưu tiên gì khi chọn xe thuê](/hoi-dap/2026/10/11/phanh-dia-hay-phanh-co-nguoi-moi-nen-uu-tien-gi-khi-chon-xe-thue/ "Phanh đĩa hay phanh cơ cho người mới") trước khi đặt xe.
 
 ## Vành đúc với vành nan hoa: cứng hơn, khỏi chỉnh căm, nhưng lốp vẫn có săm
 
@@ -43,7 +43,7 @@ Một hiểu lầm phổ biến: vành đúc không giúp chống thủng. Theo 
 
 ## Đèn và đồng hồ: điểm nhận biết đời mới, đời cũ
 
-Sirius FI đời mới cấp điện cho đèn pha và đèn hậu bằng dòng một chiều từ ắc quy, nên theo hãng, đèn sáng ổn định kể cả khi ga nhỏ. Đời chế hoà khí cũ lấy điện từ cuộn phát, đèn tối đi rõ khi dừng đèn đỏ và sáng lên khi lên ga; thấy hiện tượng này là biết đang cầm xe đời cũ, không phải lỗi. Trên đồng hồ, bản phun xăng có thêm đèn báo lỗi động cơ sáng vài giây khi bật chìa rồi tắt, và kim xăng tự trả về vạch không khi tắt máy. Những chi tiết này cũng là cách nhận ra bản xe, giống như cách nhận biết Wave Alpha hay Wave RSX qua phanh và vành ở bài [Wave Alpha hay Wave RSX: nhận biết bản xe đang thuê qua phanh và vành](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-ang-thue-qua-phanh-va-vanh/ "Nhận biết bản Wave qua phanh và vành").
+Sirius FI đời mới cấp điện cho đèn pha và đèn hậu bằng dòng một chiều từ ắc quy, nên theo hãng, đèn sáng ổn định kể cả khi ga nhỏ. Đời chế hoà khí cũ lấy điện từ cuộn phát, đèn tối đi rõ khi dừng đèn đỏ và sáng lên khi lên ga; thấy hiện tượng này là biết đang cầm xe đời cũ, không phải lỗi. Trên đồng hồ, bản phun xăng có thêm đèn báo lỗi động cơ sáng vài giây khi bật chìa rồi tắt, và kim xăng tự trả về vạch không khi tắt máy. Những chi tiết này cũng là cách nhận ra bản xe, giống như cách nhận biết Wave Alpha hay Wave RSX qua phanh và vành ở bài [Wave Alpha hay Wave RSX: nhận biết bản xe đang thuê qua phanh và vành](/xe-may/2026/10/11/wave-alpha-hay-wave-rsx-nhan-biet-ban-xe-dang-thue-qua-phanh-va-vanh/ "Nhận biết bản Wave qua phanh và vành").
 
 Hãng cũng cho biết ngăn dưới yên của Sirius FI đủ chỗ cho một mũ nửa đầu cùng áo mưa, còn đời cũ nhỏ hơn. Nếu bạn định để mũ trong xe khi gửi, đây là điểm đáng hỏi thử lúc nhận.
 

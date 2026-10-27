@@ -31,7 +31,7 @@ Vài thói quen nhỏ giúp đèn phát huy tác dụng:
 - Chỉnh đèn trước chúc nhẹ xuống mặt đường để không chiếu thẳng vào mắt người ngược chiều.
 - Gắn đèn sau ở chỗ cao, không bị túi, áo khoác hay giỏ xe che khuất.
 
-Nếu đèn tắt giữa đường, đừng cố đi tiếp trong bóng tối: hãy dừng vào chỗ có ánh sáng và nhờ người kiểm tra. Đèn phụ nên có pin riêng, đừng tự đấu nối vào hệ thống điện của xe. Với xe thuê, hãy bật thử đèn ngay lúc nhận xe, hỏi cửa hàng trước khi gắn thêm gì, và xem thêm [những lưu ý chung khi thuê xe đạp điện ở Hà Nội](/xe-may/2026/10/07/thue-xe-ap-ien-o-ha-noi-luu-y-gi/).
+Nếu đèn tắt giữa đường, đừng cố đi tiếp trong bóng tối: hãy dừng vào chỗ có ánh sáng và nhờ người kiểm tra. Đèn phụ nên có pin riêng, đừng tự đấu nối vào hệ thống điện của xe. Với xe thuê, hãy bật thử đèn ngay lúc nhận xe, hỏi cửa hàng trước khi gắn thêm gì, và xem thêm [những lưu ý chung khi thuê xe đạp điện ở Hà Nội](/xe-may/2026/10/07/thue-xe-dap-dien-o-ha-noi-luu-y-gi/).
 
 ## Đèn và đồ phản quang khi đạp xe: gắn ở đâu thì có tác dụng
 
@@ -51,9 +51,9 @@ Vài gợi ý theo cảm nhận chung, hãy tự xem lại trước khi đi:
 - Ngõ nhỏ khu phố cổ có ánh đèn cửa hàng hắt ra nhưng hẹp, xe hay xuất hiện đột ngột; hãy đi chậm, đoạn quá đông thì dắt bộ.
 - Đoạn đê ven sông Hồng vào buổi tối thường ít đèn và thưa người, khó nhờ giúp nếu xe trục trặc; nếu chưa quen, hãy để dành cho ban ngày.
 
-Nếu từng đi vòng hồ theo bài [đạp xe điện quanh Hồ Tây vào buổi chiều](/xe-may/2026/10/11/ap-xe-ien-quanh-ho-tay-buoi-chieu-i-uong-nao-dung-nghi-o-au/), đừng mặc định buổi tối cũng giống vậy: vòng hồ khá dài, hãy xem trước đoạn nào sáng đèn để đi tiếp và đoạn nào nên quay lại sớm.
+Nếu từng đi vòng hồ theo bài [đạp xe điện quanh Hồ Tây vào buổi chiều](/xe-may/2026/10/11/dap-xe-dien-quanh-ho-tay-buoi-chieu-di-duong-nao-dung-nghi-o-dau/), đừng mặc định buổi tối cũng giống vậy: vòng hồ khá dài, hãy xem trước đoạn nào sáng đèn để đi tiếp và đoạn nào nên quay lại sớm.
 
-Mẹo thực tế nhất là đi thử tuyến vào ban ngày, rồi chọn đường vòng thêm một chút nhưng sáng và đông, thay vì đường tắt qua ngõ tối. Ổ gà, nắp cống lún hay gờ giảm tốc rất khó thấy khi trời tối, nên bài [xe đạp điện và đường ổ gà ven đô](/xe-may/2026/10/03/xe-ap-ien-va-uong-o-ga-ven-o/) cũng đáng đọc.
+Mẹo thực tế nhất là đi thử tuyến vào ban ngày, rồi chọn đường vòng thêm một chút nhưng sáng và đông, thay vì đường tắt qua ngõ tối. Ổ gà, nắp cống lún hay gờ giảm tốc rất khó thấy khi trời tối, nên bài [xe đạp điện và đường ổ gà ven đô](/xe-may/2026/10/03/xe-dap-dien-va-duong-o-ga-ven-do/) cũng đáng đọc.
 
 ## Tốc độ và vị trí đi để người khác kịp thấy bạn
 

@@ -64,12 +64,12 @@ Ngày lạnh, vài phút kiểm tra tại chỗ đỡ tốn hơn nhiều so vớ
 
 Pin thì tùy xe, tùy hãng. Một số loại có thể hụt hơi khi trời lạnh, nên hãy chọn lộ trình dư pin, đừng chạy sát nút rồi mới tìm chỗ sạc.
 
-Nếu giữa đường xe có biểu hiện lạ, như pin nóng bất thường, mùi khét hay xe giật cục, hãy dừng xe ở chỗ an toàn, tắt nguồn, không tự mở hay sửa pin, rồi báo cửa hàng cho thuê hoặc nơi bán để được hướng dẫn. Nếu đang thuê xe, bạn nên đọc [những lưu ý khi thuê xe đạp điện ở Hà Nội](/xe-may/2026/10/07/thue-xe-ap-ien-o-ha-noi-luu-y-gi/) trước lúc nhận xe.
+Nếu giữa đường xe có biểu hiện lạ, như pin nóng bất thường, mùi khét hay xe giật cục, hãy dừng xe ở chỗ an toàn, tắt nguồn, không tự mở hay sửa pin, rồi báo cửa hàng cho thuê hoặc nơi bán để được hướng dẫn. Nếu đang thuê xe, bạn nên đọc [những lưu ý khi thuê xe đạp điện ở Hà Nội](/xe-may/2026/10/07/thue-xe-dap-dien-o-ha-noi-luu-y-gi/) trước lúc nhận xe.
 
 ## Chuyến đầu trong tiết lạnh: đi gần, đi chậm, đi lúc ấm
 
 Nếu đây là lần đầu bạn chạy xe đạp điện, đừng chọn đúng buổi sáng lạnh nhất để tập. Hãy [làm quen với chiếc xe đạp điện thuê](/kinh%20nghi%E1%BB%87m/2026/09/19/lam-quen-xe-dap-dien-thue/) vào buổi trưa ấm hơn, trên đoạn đường vắng, rồi mới mang cảm giác đó ra đường gió.
 
-Với việc cần đi sớm như ra chợ, bạn có thể lùi giờ xuất phát cho nắng lên bớt lạnh, và đọc thêm chuyện [đi chợ đầu ngày bằng xe đạp điện thuê](/xe-may/2026/10/09/xe-ap-ien-thue-i-cho-au-ngay-hop-khong/) để tính trước đồ mang về.
+Với việc cần đi sớm như ra chợ, bạn có thể lùi giờ xuất phát cho nắng lên bớt lạnh, và đọc thêm chuyện [đi chợ đầu ngày bằng xe đạp điện thuê](/xe-may/2026/10/09/xe-dap-dien-thue-di-cho-dau-ngay-hop-khong/) để tính trước đồ mang về.
 
 Tối nay, hãy mặc thử bộ đồ định đi, đeo găng và bóp thử phanh ngay trong nhà, bạn sẽ biết mình còn thiếu gì. Nếu định thuê xe đạp điện tại Nguyễn Tú, hãy gọi 0942 467 674 trong giờ 09:00–21:00 để xác nhận xe, giá hiện tại và điều kiện thuê trước khi đến. Muốn đọc thêm, bạn có thể ghé [chuyên mục xe đạp điện](/xe-may/xe-dap-dien/) hoặc quay về [trang chủ đề xe máy](/xe-may/) của blog.

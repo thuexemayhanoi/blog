@@ -19,7 +19,7 @@ Cùng mang tên Sirius, chiếc xe bạn thuê hôm nay có thể là bản phun
 
 ## Sirius phun xăng hay chế hòa khí: ba dấu hiệu nhận ra trong một phút
 
-Dấu hiệu thứ nhất nằm ở lúc bật chìa. Xe phun xăng điện tử phát ra tiếng rè nhỏ chừng hai giây từ bơm xăng, cùng lúc đèn báo lỗi động cơ trên đồng hồ sáng rồi tắt; xe chế hoà khí bật chìa hoàn toàn im lặng. Tiếng rè đó là bình thường, bài [tiếng rè khi bật chìa xe phun xăng: bơm xăng chạy bình thường hay có vấn đề](/xe-may/2026/10/11/tieng-re-khi-bat-chia-xe-phun-xang-bom-xang-chay-binh-thuong-hay-co-van-e/ "Tiếng rè bơm xăng khi bật chìa") giải thích kỹ.
+Dấu hiệu thứ nhất nằm ở lúc bật chìa. Xe phun xăng điện tử phát ra tiếng rè nhỏ chừng hai giây từ bơm xăng, cùng lúc đèn báo lỗi động cơ trên đồng hồ sáng rồi tắt; xe chế hoà khí bật chìa hoàn toàn im lặng. Tiếng rè đó là bình thường, bài [tiếng rè khi bật chìa xe phun xăng: bơm xăng chạy bình thường hay có vấn đề](/xe-may/2026/10/11/tieng-re-khi-bat-chia-xe-phun-xang-bom-xang-chay-binh-thuong-hay-co-van-de/ "Tiếng rè bơm xăng khi bật chìa") giải thích kỹ.
 
 Dấu hiệu thứ hai là cần le gió. Xe chế hoà khí có một cần gạt nhỏ, thường ở phía bên trái gần tay lái hoặc ngay trên thân bình xăng con, dùng để làm đậm xăng khi khởi động lạnh. Xe phun xăng không có cần này vì bộ điều khiển tự lo. Dấu hiệu thứ ba là tem và đồng hồ: bản phun xăng có chữ FI trên thân xe, kim báo xăng tự trả về vạch không khi tắt máy, và đèn pha sáng đều ngay cả khi ga nhỏ.
 
@@ -33,13 +33,13 @@ Sirius phun xăng bấm đề là nổ, bộ điều khiển tự bù xăng theo
 
 Khi máy còn nguội, xe chế hoà khí dễ hụt ga nếu vặn gấp, biểu hiện là máy khựng nửa giây rồi mới vọt. Thói quen phù hợp là vặn ga từ từ trong vài phút đầu, và chấp nhận phản ứng ga hơi trễ hơn so với xe phun xăng. Ở đèn đỏ lâu, xe chế hoà khí chỉnh không tải chưa chuẩn có thể tụt vòng tua rồi tắt máy, nhất là khi bật đèn pha ban đêm; nhấp ga rất nhẹ theo nhịp là đủ giữ máy, không cần rồ ga.
 
-Xe phun xăng mượt và đều ở ga nhỏ, trả ga về số thấp bắt ngay, nên đi trong phố chợ đông người như quanh chợ Long Biên hay Hàng Bè đỡ mệt hơn hẳn. Kinh nghiệm luồn phố chợ bằng xe số có ở bài [Yamaha Sirius trong phố chợ đông người](/xe-may/2026/10/03/yamaha-sirius-trong-pho-cho-ong-nguoi/ "Sirius trong phố chợ đông"). Điểm cần nhớ với bản phun xăng là lúc gần hết xăng: xe không cạn dần như chế hoà khí mà giật vài cái rồi tắt, vì bơm xăng hút không khí. Đừng để kim xuống vạch cuối, bình chỉ có 4 lít nên đổ sớm không mất gì.
+Xe phun xăng mượt và đều ở ga nhỏ, trả ga về số thấp bắt ngay, nên đi trong phố chợ đông người như quanh chợ Long Biên hay Hàng Bè đỡ mệt hơn hẳn. Kinh nghiệm luồn phố chợ bằng xe số có ở bài [Yamaha Sirius trong phố chợ đông người](/xe-may/2026/10/03/yamaha-sirius-trong-pho-cho-dong-nguoi/ "Sirius trong phố chợ đông"). Điểm cần nhớ với bản phun xăng là lúc gần hết xăng: xe không cạn dần như chế hoà khí mà giật vài cái rồi tắt, vì bơm xăng hút không khí. Đừng để kim xuống vạch cuối, bình chỉ có 4 lít nên đổ sớm không mất gì.
 
 ## Xăng và chi phí: phun xăng tiết kiệm hơn, chế hoà khí dễ sửa hơn
 
 Theo công bố của Yamaha Việt Nam, Sirius FI tiêu thụ khoảng 1,65 lít cho một trăm cây số trong điều kiện thử nghiệm của hãng. Xe chế hoà khí tốn hơn, mức chênh phụ thuộc vào chỉnh gió và tình trạng máy, nhưng với quãng đi làm mỗi ngày thì khác biệt là thấy được trên hoá đơn xăng cuối tháng. Muốn biết chiếc xe mình đang cầm hao bao nhiêu trong chính lịch trình của mình, cách đo hai lần đổ đầy bình ở bài [Sirius tốn xăng cỡ nào cho một ngày đi](/xe-may/2026/10/13/sirius-ton-xang-co-nao-cho-mot-ngay-di-tu-do-bang-hai-lan-do-day-binh/ "Tự đo mức xăng Sirius") cho con số thật.
 
-Bù lại, chế hoà khí là cơ cấu cơ khí thuần tuý, tiệm sửa xe nào ở Hà Nội cũng xử lý được, ít kén xăng và không có cảm biến để báo lỗi. Xe phun xăng cần kim phun và lọc xăng sạch, đổ xăng ở cây xăng lớn, và khi có vấn đề thì cần thợ có máy đọc lỗi. Chuyện vệ sinh kim phun có cần định kỳ không được bàn ở bài [xe phun xăng điện tử có cần vệ sinh kim phun định kỳ không](/xe-may/2026/10/11/xe-phun-xang-ien-tu-co-can-ve-sinh-kim-phun-inh-ky-khong-khi-nao-nen-lam/ "Vệ sinh kim phun định kỳ").
+Bù lại, chế hoà khí là cơ cấu cơ khí thuần tuý, tiệm sửa xe nào ở Hà Nội cũng xử lý được, ít kén xăng và không có cảm biến để báo lỗi. Xe phun xăng cần kim phun và lọc xăng sạch, đổ xăng ở cây xăng lớn, và khi có vấn đề thì cần thợ có máy đọc lỗi. Chuyện vệ sinh kim phun có cần định kỳ không được bàn ở bài [xe phun xăng điện tử có cần vệ sinh kim phun định kỳ không](/xe-may/2026/10/11/xe-phun-xang-dien-tu-co-can-ve-sinh-kim-phun-dinh-ky-khong-khi-nao-nen-lam/ "Vệ sinh kim phun định kỳ").
 
 ## Sirius chế hoà khí có bền không
 
@@ -51,4 +51,4 @@ Với bản chế hoà khí: kéo le khi lạnh, trả le khi ấm; vặn ga t�
 
 Với bản phun xăng: để ý đèn báo lỗi trên đồng hồ, bình thường chỉ sáng vài giây khi bật chìa; không chạy cạn bình; nếu đề yếu thì dùng cần đạp và báo cửa hàng kiểm tra ắc quy; không tháo cọc ắc quy hay tự chỉnh gì ở cụm phun xăng.
 
-Dù là bản nào, chạy đều ga và giữ khoảng cách vẫn là cách đi tiết kiệm và an toàn nhất, như đã nói ở bài [Yamaha Sirius chạy đều ga tiết kiệm xăng](/xe-may/2026/10/03/yamaha-sirius-chay-eu-ga-tiet-kiem-xang/ "Sirius chạy đều ga"). Các bài khác về dòng xe này tập hợp ở trang [Yamaha Sirius](/xe-may/yamaha-sirius/ "Yamaha Sirius"); muốn so với xe số và xe ga khác, xem mục [xe máy](/xe-may/ "Xe máy").
+Dù là bản nào, chạy đều ga và giữ khoảng cách vẫn là cách đi tiết kiệm và an toàn nhất, như đã nói ở bài [Yamaha Sirius chạy đều ga tiết kiệm xăng](/xe-may/2026/10/03/yamaha-sirius-chay-deu-ga-tiet-kiem-xang/ "Sirius chạy đều ga"). Các bài khác về dòng xe này tập hợp ở trang [Yamaha Sirius](/xe-may/yamaha-sirius/ "Yamaha Sirius"); muốn so với xe số và xe ga khác, xem mục [xe máy](/xe-may/ "Xe máy").
