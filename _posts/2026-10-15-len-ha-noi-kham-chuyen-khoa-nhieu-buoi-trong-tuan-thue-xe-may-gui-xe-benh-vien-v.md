@@ -21,7 +21,7 @@ Nhiều người từ quê lên Hà Nội khám chuyên khoa không xong trong m
 
 Thuê xe máy hợp khi bạn đi khám ngoại trú, tự đi lại được, có giấy phép lái xe phù hợp và đã quen lái xe máy ở quê. Xe giúp bạn đi từ chỗ trọ tới viện, ra hiệu thuốc, đi ăn và về nghỉ mà không phải đứng chờ ở cổng viện.
 
-Thuê xe ít hợp khi người bệnh là người duy nhất trong đoàn biết lái nhưng lại đang mệt, đau, hoặc lịch khám có nhiều hôm làm thủ thuật. Khi đó, xe vẫn có ích cho người nhà đi chợ, đi mua đồ, còn người bệnh nên đi bằng phương tiện khác. Nếu người đi cùng chủ yếu là người nhà chăm sóc, bài [người nhà chăm bệnh nhân ở Hà Nội một tuần](/thue-xe/2026/10/11/nguoi-nha-cham-benh-nhan-o-ha-noi-mot-tuan-thue-xe-may-i-giua-vien-va-cho-tro/) nói kỹ hơn về nhịp đi lại giữa viện và chỗ trọ. Bài này dành cho chính người đi khám.
+Thuê xe ít hợp khi người bệnh là người duy nhất trong đoàn biết lái nhưng lại đang mệt, đau, hoặc lịch khám có nhiều hôm làm thủ thuật. Khi đó, xe vẫn có ích cho người nhà đi chợ, đi mua đồ, còn người bệnh nên đi bằng phương tiện khác. Nếu người đi cùng chủ yếu là người nhà chăm sóc, bài [người nhà chăm bệnh nhân ở Hà Nội một tuần](/thue-xe/2026/10/11/nguoi-nha-cham-benh-nhan-o-ha-noi-mot-tuan-thue-xe-may-di-giua-vien-va-cho-tro/) nói kỹ hơn về nhịp đi lại giữa viện và chỗ trọ. Bài này dành cho chính người đi khám.
 
 ## Nhận xe và chọn chỗ ở theo lịch khám
 

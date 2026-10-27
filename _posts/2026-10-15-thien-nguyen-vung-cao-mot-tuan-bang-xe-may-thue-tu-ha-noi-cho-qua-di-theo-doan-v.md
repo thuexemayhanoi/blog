@@ -37,7 +37,7 @@ Ai cũng muốn mang được nhiều, nhưng xe máy chỉ nên chở phần qu
 
 Khi xếp quà lên xe:
 
-- **Không chở quá tải.** Xe nặng đầu, lái chao hay khó dắt là dấu hiệu phải bớt đồ. Đọc thêm bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/).
+- **Không chở quá tải.** Xe nặng đầu, lái chao hay khó dắt là dấu hiệu phải bớt đồ. Đọc thêm bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/).
 - **Không che đèn, xi nhan, biển số.** Nhờ người đứng phía sau nhìn khi bật đèn để kiểm tra.
 - **Buộc bằng dây chằng có móc**, quấn chéo qua giá sau ít nhất hai lượt, siết lại sau chặng đầu vì dây hay giãn.
 - **Đồ nặng đặt thấp, sát người lái**; áo ấm, gấu bông để trên cùng. Không treo túi lủng lẳng hai bên hông xe.
@@ -53,7 +53,7 @@ Chia quà theo sức từng xe, đừng dồn hết lên xe khỏe nhất, và m
 - **Người khóa đuôi**: lái vững, bình tĩnh, xe ít đồ nhất, giữ bộ dụng cụ, bơm tay và hộp sơ cứu; không bao giờ bỏ xe nào ở lại.
 - **Ghép cặp**: mỗi người có một bạn để ý nhau; người mới đi đèo chạy ngay sau người dẫn đầu.
 
-Ở mỗi ngã rẽ, xe phía trước dừng chờ tới khi thấy xe sau. Mỗi lần nghỉ, người dẫn đầu đếm đủ số xe mới đi tiếp. Cách giữ khoảng cách trong đoàn có ở bài [giữ khoảng cách khi đi xe theo nhóm](/ky-nang/2026/10/10/giu-khoang-cach-khi-i-xe-theo-nhom/).
+Ở mỗi ngã rẽ, xe phía trước dừng chờ tới khi thấy xe sau. Mỗi lần nghỉ, người dẫn đầu đếm đủ số xe mới đi tiếp. Cách giữ khoảng cách trong đoàn có ở bài [giữ khoảng cách khi đi xe theo nhóm](/ky-nang/2026/10/10/giu-khoang-cach-khi-di-xe-theo-nhom/).
 
 ## Chia chặng đường đèo khi chở nặng
 

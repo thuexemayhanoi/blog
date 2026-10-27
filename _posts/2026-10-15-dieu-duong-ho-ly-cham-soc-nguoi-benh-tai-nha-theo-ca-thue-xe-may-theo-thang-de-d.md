@@ -48,7 +48,7 @@ Ca đêm và ca sáng sớm là lúc đường vắng nhưng không vì thế m�
 3. **Đi chậm hơn ban ngày.** Sương mù mùa đông trên đường Nghi Tàm hay khu vực Gia Lâm có thể dày vào sáng sớm, giảm tốc và giữ khoảng cách xa hơn.
 4. **Chọn đường lớn, sáng.** Tránh những ngõ tắt vắng và tối, dù đi đường lớn có xa hơn một chút.
 
-Kinh nghiệm cho người làm việc ban đêm nói chung có trong bài [thuê xe máy theo tháng cho người đi làm ca đêm](/thue-xe/2026/10/05/thue-xe-may-theo-thang-cho-nguoi-i-lam-ca-em/).
+Kinh nghiệm cho người làm việc ban đêm nói chung có trong bài [thuê xe máy theo tháng cho người đi làm ca đêm](/thue-xe/2026/10/05/thue-xe-may-theo-thang-cho-nguoi-di-lam-ca-dem/).
 
 ## Mang đồ cá nhân gọn trong balo
 
@@ -59,7 +59,7 @@ Người đi chăm bệnh tại nhà thường mang theo đồ dùng cá nhân n
 - Không ôm túi trên tay khi lái, không để dây quai thả lỏng dễ cuốn vào bánh.
 - Giấy tờ tùy thân và điện thoại để trong ngăn có khóa kéo.
 
-Cách đeo balo cho đỡ mỏi vai trên đường dài được nói trong bài [đeo balo khi chạy xe đường dài](/ky-nang/2026-09-29/eo-ba-lo-khi-chay-xe-dai-hay-buoc-sau/).
+Cách đeo balo cho đỡ mỏi vai trên đường dài được nói trong bài [đeo balo khi chạy xe đường dài](/ky-nang/2026-09-29/deo-ba-lo-khi-chay-xe-dai-hay-buoc-sau/).
 
 ## Gửi xe ở nhà người bệnh và khu dân cư lạ
 
@@ -79,7 +79,7 @@ Chăm người bệnh qua đêm là việc vừa mất sức vừa căng thẳng
 - Nếu thấy díp mắt hoặc chóng mặt, đừng lái. Nghỉ thêm, hoặc gửi xe lại và về bằng taxi nếu gia đình và bãi xe cho phép.
 - Không vừa lái vừa nghe điện thoại của gia đình người bệnh. Tấp vào chỗ an toàn rồi mới trả lời.
 
-Rủi ro khi lái xe trong trạng thái mệt được phân tích kỹ trong bài [chạy xe khi đang mệt hay thiếu ngủ](/ky-nang/2026-09-29-chay-xe-khi-ang-met-hay-thieu-ngu-rui-ro/). Nếu bạn chăm người nhà chứ không làm nghề, bài [người nhà chăm bệnh nhân điều trị dài ngày](/thue-xe/2026/10/11/nguoi-nha-cham-benh-nhan-ieu-tri-dai-ngay-o-ha-noi-thue-xe-may-theo-thang/) sẽ sát nhu cầu hơn.
+Rủi ro khi lái xe trong trạng thái mệt được phân tích kỹ trong bài [chạy xe khi đang mệt hay thiếu ngủ](/ky-nang/2026-09-29-chay-xe-khi-dang-met-hay-thieu-ngu-rui-ro/). Nếu bạn chăm người nhà chứ không làm nghề, bài [người nhà chăm bệnh nhân điều trị dài ngày](/thue-xe/2026/10/11/nguoi-nha-cham-benh-nhan-dieu-tri-dai-ngay-o-ha-noi-thue-xe-may-theo-thang/) sẽ sát nhu cầu hơn.
 
 ## Nhận xe và liên hệ cửa hàng
 

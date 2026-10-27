@@ -40,7 +40,7 @@ Chỉ có năm ngày thì bỏ Bến En, đi theo trục Hàm Rồng – Lam Kin
 
 Từ Long Biên, phần đông khách qua cầu Vĩnh Tuy hoặc cầu Chương Dương, vào đường Giải Phóng rồi đi tiếp về phía Văn Điển, Thường Tín để bắt quốc lộ 1. Từ đây bạn chạy qua Phủ Lý, Ninh Bình, Bỉm Sơn rồi vào thành phố Thanh Hóa. Đây là trục chính cho xe máy, đông xe tải, nhiều đoạn qua thị trấn và chợ ven đường.
 
-Điều cần nhớ nhất: tuyệt đối không vào cao tốc Bắc–Nam, kể cả đoạn Pháp Vân – Cầu Giẽ ngay cửa ngõ Hà Nội. Cao tốc cấm xe máy. Ứng dụng bản đồ để chế độ ô tô rất hay kéo bạn lên đó, nên trước khi đi hãy chuyển sang chế độ xe máy và nhìn biển ở mỗi nút giao. Cầu Thanh Trì cũng cấm xe máy, đừng đi theo hướng đó để ra phía nam. Cách chạy đoạn Hà Nội – Ninh Bình được nói kỹ trong bài [Hà Nội đi Ninh Bình hai ngày](/cung-duong/2026/10/01/ha-noi-i-ninh-binh-bang-xe-may-hai-ngay-chia-lo-trinh/).
+Điều cần nhớ nhất: tuyệt đối không vào cao tốc Bắc–Nam, kể cả đoạn Pháp Vân – Cầu Giẽ ngay cửa ngõ Hà Nội. Cao tốc cấm xe máy. Ứng dụng bản đồ để chế độ ô tô rất hay kéo bạn lên đó, nên trước khi đi hãy chuyển sang chế độ xe máy và nhìn biển ở mỗi nút giao. Cầu Thanh Trì cũng cấm xe máy, đừng đi theo hướng đó để ra phía nam. Cách chạy đoạn Hà Nội – Ninh Bình được nói kỹ trong bài [Hà Nội đi Ninh Bình hai ngày](/cung-duong/2026/10/01/ha-noi-di-ninh-binh-bang-xe-may-hai-ngay-chia-lo-trinh/).
 
 ### Đường Hồ Chí Minh: chỉ đi đoạn cho phép xe máy
 

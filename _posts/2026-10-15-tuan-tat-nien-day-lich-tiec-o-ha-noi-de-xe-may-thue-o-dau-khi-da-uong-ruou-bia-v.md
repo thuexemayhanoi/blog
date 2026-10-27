@@ -21,7 +21,7 @@ Cuối năm, lịch của dân văn phòng ở Hà Nội có khi kín cả tuầ
 
 Luật Trật tự, an toàn giao thông đường bộ năm 2024 cấm người điều khiển phương tiện tham gia giao thông khi trong máu hoặc hơi thở có nồng độ cồn. Quy định này áp dụng cho cả xe máy, không phân biệt bạn uống một ly hay nhiều ly, xe của mình hay xe thuê. Bạn có thể đọc văn bản gốc trên [công báo điện tử của Chính phủ](https://congbao.chinhphu.vn/van-ban/luat-so-36-2024-qh15-42555.htm).
 
-Điều nhiều người bỏ qua là cồn không biến mất ngay khi tan tiệc. Một bữa kéo dài tới khuya có thể vẫn để lại dấu vết vào sáng hôm sau, chủ đề được giải thích kỹ trong bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/em-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-o-con-khong/). Ngoài chuyện luật, cồn làm chậm phản xạ, mà đường phố cuối năm lại đông và nhiều người cũng vừa đi tiệc về.
+Điều nhiều người bỏ qua là cồn không biến mất ngay khi tan tiệc. Một bữa kéo dài tới khuya có thể vẫn để lại dấu vết vào sáng hôm sau, chủ đề được giải thích kỹ trong bài [đêm trước uống nhiều, sáng sau có bị xử lý nồng độ cồn không](/an-toan-phap-ly/2026/10/07/dem-truoc-uong-nhieu-sang-sau-co-bi-xu-ly-nong-do-con-khong/). Ngoài chuyện luật, cồn làm chậm phản xạ, mà đường phố cuối năm lại đông và nhiều người cũng vừa đi tiệc về.
 
 ## Quyết định từ sáng: hôm nay xe đi hay xe nằm nhà
 
@@ -35,7 +35,7 @@ Nếu tiệc ở gần công ty, ví dụ cả phòng làm ở Cầu Giấy rồ
 
 Cũng nên tính trước chuyện "tăng hai". Tiệc tất niên hay kéo sang quán hát hoặc quán nhậu khác, có khi ở tận bên kia sông. Nếu xe đã gửi ở bãi gần tiệc đầu, cứ để nó nằm đó, cả nhóm đi taxi sang điểm mới. Mang xe theo từng chặng chỉ làm tăng số lần bạn phải quyết định lái hay không trong lúc đầu óc đã không còn tỉnh.
 
-Bài [tuần thuê xe máy: ngày nào nên để xe nghỉ](/thue-xe/2026/10/11/tuan-thue-xe-may-ngay-nao-nen-e-xe-nghi-va-i-bang-cach-khac/) có thêm cách tính những ngày khác nên cho xe nghỉ, như mưa lớn hay quá mệt.
+Bài [tuần thuê xe máy: ngày nào nên để xe nghỉ](/thue-xe/2026/10/11/tuan-thue-xe-may-ngay-nao-nen-de-xe-nghi-va-di-bang-cach-khac/) có thêm cách tính những ngày khác nên cho xe nghỉ, như mưa lớn hay quá mệt.
 
 ## Gửi xe qua đêm sau tiệc tất niên: chọn bãi có trông giữ
 
@@ -56,7 +56,7 @@ Vé gửi xe là bằng chứng duy nhất để lấy lại xe sáng hôm sau. 
 3. Lưu vị trí bãi trên Google Maps hoặc ghi tên phố vào điện thoại.
 4. Nhắn cho chính mình qua Zalo tên bãi và giờ đóng cửa.
 
-Cách chọn chỗ trong bãi xe đông của nhà hàng tiệc có ở bài [gửi xe ở nhà hàng tiệc cưới: bãi xe đông và lấy xe khuya](/ky-nang/2026/10/10/gui-xe-o-nha-hang-tiec-cuoi-bai-xe-ong-va-lay-xe-khuya/).
+Cách chọn chỗ trong bãi xe đông của nhà hàng tiệc có ở bài [gửi xe ở nhà hàng tiệc cưới: bãi xe đông và lấy xe khuya](/ky-nang/2026/10/10/gui-xe-o-nha-hang-tiec-cuoi-bai-xe-dong-va-lay-xe-khuya/).
 
 ## Đã uống rượu không lái xe máy: về nhà bằng cách nào
 

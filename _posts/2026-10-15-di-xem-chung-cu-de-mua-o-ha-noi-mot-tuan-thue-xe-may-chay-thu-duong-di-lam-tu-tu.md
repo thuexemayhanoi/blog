@@ -59,7 +59,7 @@ Chiều về thường khác chiều đi, nhất là các tuyến qua cầu và 
 
 ### Đi đúng đường dành cho xe máy
 
-Bản đồ đặt ở chế độ xe máy, vì một số trục như Vành đai 3 trên cao hay cầu Thanh Trì cấm xe máy. Đừng tính quãng đường theo gợi ý dành cho ô tô rồi ngạc nhiên khi thực tế phải đi vòng. Kỹ năng giữ bình tĩnh khi kẹt xe có trong bài [đi xe máy an toàn giờ cao điểm nội thành](/ky-nang/2026-09-29/ket-xe-gio-cao-iem-noi-thanh-ky-nang-i-xe-may-an-toan/).
+Bản đồ đặt ở chế độ xe máy, vì một số trục như Vành đai 3 trên cao hay cầu Thanh Trì cấm xe máy. Đừng tính quãng đường theo gợi ý dành cho ô tô rồi ngạc nhiên khi thực tế phải đi vòng. Kỹ năng giữ bình tĩnh khi kẹt xe có trong bài [đi xe máy an toàn giờ cao điểm nội thành](/ky-nang/2026-09-29/ket-xe-gio-cao-diem-noi-thanh-ky-nang-di-xe-may-an-toan/).
 
 ## Xem gửi xe hầm chung cư khi đi xem
 
@@ -76,7 +76,7 @@ Mức phí gửi xe cho cư dân và các quy định chi tiết, hãy hỏi tr�
 
 ## Đoạn hay ngập và tiện ích quanh từng dự án
 
-Nếu tuần bạn đi có mưa lớn, đừng hủy lịch mà hãy coi đó là cơ hội. Chạy chậm quanh dự án sau cơn mưa để xem đường vào cổng, ngõ dẫn ra trục chính có đọng nước không. Nếu trời khô, hỏi bảo vệ, người bán hàng nước đầu ngõ hoặc cư dân đang đón con xem mùa mưa đoạn nào hay ngập. Đừng cố chạy qua chỗ nước sâu bằng xe thuê, kỹ năng xử lý xem trong bài [đi xe máy qua đoạn ngập nước trong nội đô](/ky-nang/2026-09-29/i-xe-may-qua-oan-ngap-nuoc-trong-noi-o/).
+Nếu tuần bạn đi có mưa lớn, đừng hủy lịch mà hãy coi đó là cơ hội. Chạy chậm quanh dự án sau cơn mưa để xem đường vào cổng, ngõ dẫn ra trục chính có đọng nước không. Nếu trời khô, hỏi bảo vệ, người bán hàng nước đầu ngõ hoặc cư dân đang đón con xem mùa mưa đoạn nào hay ngập. Đừng cố chạy qua chỗ nước sâu bằng xe thuê, kỹ năng xử lý xem trong bài [đi xe máy qua đoạn ngập nước trong nội đô](/ky-nang/2026-09-29/di-xe-may-qua-doan-ngap-nuoc-trong-noi-do/).
 
 Về tiện ích, xe máy cho phép bạn đo bằng trải nghiệm thật: từ sảnh tới chợ gần nhất có phải băng qua trục đường lớn không, cổng trường có chỗ dừng đón con không, buổi tối các ngõ có đủ sáng để vợ hoặc chồng đi về một mình không. Ghi tất cả vào cùng một bảng để so sánh công bằng giữa các dự án.
 

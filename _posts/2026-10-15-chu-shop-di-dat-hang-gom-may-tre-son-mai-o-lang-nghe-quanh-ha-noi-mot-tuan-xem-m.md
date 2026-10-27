@@ -23,7 +23,7 @@ Một lần đặt hàng hiếm khi xong trong một buổi. Lần đầu bạn 
 
 Thuê xe nguyên tuần cho bạn chủ động: hẹn xưởng lúc nào cũng được, ở lại lâu nếu đang bàn dở, và có chỗ chở vài món mẫu về chỗ ở. Cách tính gói tuần, đổi xe hay gia hạn, bạn xem ở chuyên mục [thuê xe theo tuần](/thue-xe/thue-tuan/).
 
-Nếu bạn đi làng nghề để tham quan thay vì đặt hàng, lịch trình sẽ rộng hơn và nhẹ nhàng hơn, như trong bài [một tuần đi làng nghề quanh Hà Nội chia bảy ngày theo hướng](/thue-xe/2026/10/11/mot-tuan-i-lang-nghe-quanh-ha-noi-chia-bay-ngay-theo-huong-bang-xe-may-thue/). Bài này tập trung vào việc buôn bán: hẹn xưởng, xem mẫu và chở mẫu.
+Nếu bạn đi làng nghề để tham quan thay vì đặt hàng, lịch trình sẽ rộng hơn và nhẹ nhàng hơn, như trong bài [một tuần đi làng nghề quanh Hà Nội chia bảy ngày theo hướng](/thue-xe/2026/10/11/mot-tuan-di-lang-nghe-quanh-ha-noi-chia-bay-ngay-theo-huong-bang-xe-may-thue/). Bài này tập trung vào việc buôn bán: hẹn xưởng, xem mẫu và chở mẫu.
 
 ## Chia tuần theo ba làng: Bát Tràng, Phú Vinh, Hạ Thái
 
@@ -63,7 +63,7 @@ Xin xưởng giấy báo, xốp hơi hoặc rơm để bọc. Gốm bọc từng
 
 ### Buộc thùng chắc và giữ kích thước trong giới hạn an toàn
 
-Thùng đặt ở sàn để chân xe ga là chỗ êm nhất. Nếu buộc lên yên sau, dùng dây chằng chéo hai lượt, kéo thử trước khi chạy. Hàng chở không được vượt quá kích thước an toàn: không che đèn, không chìa ra hai bên và không cao che tầm nhìn. Đồ mây tre to, nhẹ thì buộc gọn hoặc nhờ xưởng gửi sau. Cách lót và buộc thùng có thêm ở bài [chở thùng carton trên xe máy](/ky-nang/2026/10/10/cho-thung-carton-tren-xe-may-lot-buoc-va-i-cham/), còn giới hạn hàng hóa trên xe máy được nói trong bài [quy định chở hàng cồng kềnh](/an-toan-phap-ly/2026/09/30/quy-inh-cho-hang-cong-kenh-tren-xe-may/).
+Thùng đặt ở sàn để chân xe ga là chỗ êm nhất. Nếu buộc lên yên sau, dùng dây chằng chéo hai lượt, kéo thử trước khi chạy. Hàng chở không được vượt quá kích thước an toàn: không che đèn, không chìa ra hai bên và không cao che tầm nhìn. Đồ mây tre to, nhẹ thì buộc gọn hoặc nhờ xưởng gửi sau. Cách lót và buộc thùng có thêm ở bài [chở thùng carton trên xe máy](/ky-nang/2026/10/10/cho-thung-carton-tren-xe-may-lot-buoc-va-di-cham/), còn giới hạn hàng hóa trên xe máy được nói trong bài [quy định chở hàng cồng kềnh](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/).
 
 Khi đã chở hàng mẫu, đi chậm, phanh sớm, qua gờ giảm tốc ở các ngõ trong làng thật nhẹ tay.
 

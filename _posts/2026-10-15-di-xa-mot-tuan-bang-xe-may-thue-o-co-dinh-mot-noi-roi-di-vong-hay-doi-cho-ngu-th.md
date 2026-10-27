@@ -63,7 +63,7 @@ Với xe thuê, chỗ để xe qua đêm quan trọng không kém chỗ ngủ c�
 2. Đường vào có dốc, lát đá hay đường đất, trời mưa xe lên được không?
 3. Nếu cần đi sớm, ai mở cổng?
 
-Danh sách câu hỏi đầy đủ hơn có trong bài [hỏi khách sạn hoặc homestay về chỗ để xe](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-e-xe-truoc-khi-chot-thue-xe-may/). Đêm nào xe phải đứng ngoài trời, khóa cổ, thêm khóa đĩa nếu có, phủ áo mưa lên yên và mang giấy tờ xe theo người. Cách gửi xe thuê tuần ở chung cư, nhà trọ hay khách sạn được nói riêng trong bài [gửi xe thuê tuần qua đêm](/thue-xe/2026/10/14/gui-xe-thue-tuan-qua-dem-o-chung-cu-nha-tro-khach-san-chon-cho-va-giu-ve-xe-the/).
+Danh sách câu hỏi đầy đủ hơn có trong bài [hỏi khách sạn hoặc homestay về chỗ để xe](/thue-xe/2026/10/11/hoi-khach-san-hoac-homestay-ve-cho-de-xe-truoc-khi-chot-thue-xe-may/). Đêm nào xe phải đứng ngoài trời, khóa cổ, thêm khóa đĩa nếu có, phủ áo mưa lên yên và mang giấy tờ xe theo người. Cách gửi xe thuê tuần ở chung cư, nhà trọ hay khách sạn được nói riêng trong bài [gửi xe thuê tuần qua đêm](/thue-xe/2026/10/14/gui-xe-thue-tuan-qua-dem-o-chung-cu-nha-tro-khach-san-chon-cho-va-giu-ve-xe-the/).
 
 ## Vậy nên chọn kiểu nào
 

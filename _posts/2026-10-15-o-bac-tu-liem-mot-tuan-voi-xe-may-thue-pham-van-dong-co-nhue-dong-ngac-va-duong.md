@@ -41,7 +41,7 @@ Vài nguyên tắc cho cả tuần:
 - **Lệch giờ khi được.** Đi sớm hơn dòng người đi làm một chút, hoặc đợi qua đỉnh tan tầm rồi mới về, quãng đường y nguyên mà đỡ mệt hẳn.
 - **Đề phòng ở nút giao lớn,** nhất là chỗ giao với Hoàng Quốc Việt và nút Mai Dịch, nơi xe từ nhiều hướng nhập vào cùng lúc.
 
-Cách chạy trục này kỹ hơn có trong bài [cung đường Phạm Văn Đồng bằng xe máy](/cung-duong/2026/10/09/cung-uong-pham-van-ong-va-vo-nguyen-giep-chay-xe-may/).
+Cách chạy trục này kỹ hơn có trong bài [cung đường Phạm Văn Đồng bằng xe máy](/cung-duong/2026/10/09/cung-duong-pham-van-dong-va-vo-nguyen-giep-chay-xe-may/).
 
 ## Ở Cổ Nhuế, Đông Ngạc đi xe máy trong ngõ
 

@@ -52,9 +52,9 @@ Trước mỗi ngày dày lịch, kiểm tra nhanh xăng, lốp, đèn và phanh
 Nhiều khách ở xa lên Hà Nội tìm nhà sẽ ngồi sau xe bạn từ căn này sang căn khác. Đây là lúc trách nhiệm của bạn lớn nhất.
 
 - **Khách cũng phải đội mũ bảo hiểm.** Luôn để sẵn một chiếc mũ thứ hai sạch sẽ, cài quai được trong cốp xe. Đưa mũ cho khách trước khi khách lên xe, nhắc cài quai.
-- **Không chở quá số người cho phép.** Khách đi theo gia đình hay nhóm bạn thì để họ đi xe riêng chạy theo sau, hoặc gọi xe khác. Quy định về chở người trên xe máy được tóm tắt trong bài [chở người trên xe máy theo quy định hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/).
+- **Không chở quá số người cho phép.** Khách đi theo gia đình hay nhóm bạn thì để họ đi xe riêng chạy theo sau, hoặc gọi xe khác. Quy định về chở người trên xe máy được tóm tắt trong bài [chở người trên xe máy theo quy định hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-dinh-hien-hanh/).
 - **Chạy êm hơn so với lúc đi một mình.** Tăng tốc từ tốn, phanh sớm, qua gờ giảm tốc chậm lại.
-- **Dặn khách ngồi đúng tư thế,** hai chân đặt lên gác chân, không mang túi lớn chắn giữa hai người. Cách hướng dẫn người ngồi sau được nói kỹ trong bài [chở người phía sau an toàn khi đi đôi](/ky-nang/2026-09-29/cho-nguoi-phia-sau-an-toan-khi-i-oi/).
+- **Dặn khách ngồi đúng tư thế,** hai chân đặt lên gác chân, không mang túi lớn chắn giữa hai người. Cách hướng dẫn người ngồi sau được nói kỹ trong bài [chở người phía sau an toàn khi đi đôi](/ky-nang/2026-09-29/cho-nguoi-phia-sau-an-toan-khi-di-doi/).
 
 Nếu khách có xe riêng, bạn đi trước dẫn đường. Khi đó hãy đi chậm hơn thường lệ, bật xi nhan sớm trước mỗi lần rẽ và ngoái lại ở các ngã tư để chắc khách vẫn theo kịp.
 
@@ -67,7 +67,7 @@ Một buổi xem nhà có khi kéo dài cả tiếng, trong lúc đó chiếc xe
 - Căn nhà có sân hoặc hiên thì hỏi chủ nhà cho dắt xe vào.
 - Ở khu đô thị mới, gửi vào bãi xe của tòa nhà hoặc khu dịch vụ thay vì để ở vỉa hè.
 
-Thói quen khóa xe và chọn chỗ đỗ được tổng hợp trong bài [chống trộm xe máy khi thuê: khóa và cách đỗ xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/).
+Thói quen khóa xe và chọn chỗ đỗ được tổng hợp trong bài [chống trộm xe máy khi thuê: khóa và cách đỗ xe](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/).
 
 ## Giữ hình ảnh chuyên nghiệp trên xe
 

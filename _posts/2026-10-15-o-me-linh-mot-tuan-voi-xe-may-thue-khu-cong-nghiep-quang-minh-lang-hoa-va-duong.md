@@ -27,7 +27,7 @@ Một chiếc xe thuê theo tuần hợp với người ở ngắn ngày:
 - **Công nhân làm thời vụ** đi lại giữa phòng trọ và cổng nhà máy mà không phụ thuộc người chở.
 - **Khách thăm người thân** đưa đón ông bà, đi chợ, ghé làng hoa hay đền Hạ Lôi trong cùng tuần.
 
-Thuê theo tuần cũng gọn hơn thuê lẻ từng ngày vì bạn chỉ làm thủ tục một lần. Các hình thức thuê dài ngày được gom ở mục [thuê xe theo tuần](/thue-xe/thue-tuan/). Nếu công việc kéo dài và phải chạy đường xa mỗi ngày, xem thêm bài [đi làm xa ngoại thành bằng xe máy thuê tháng](/thue-xe/2026/10/11/i-lam-xa-ngoai-thanh-bang-xe-may-thue-thang-hoa-lac-soc-son-me-linh/).
+Thuê theo tuần cũng gọn hơn thuê lẻ từng ngày vì bạn chỉ làm thủ tục một lần. Các hình thức thuê dài ngày được gom ở mục [thuê xe theo tuần](/thue-xe/thue-tuan/). Nếu công việc kéo dài và phải chạy đường xa mỗi ngày, xem thêm bài [đi làm xa ngoại thành bằng xe máy thuê tháng](/thue-xe/2026/10/11/di-lam-xa-ngoai-thanh-bang-xe-may-thue-thang-hoa-lac-soc-son-me-linh/).
 
 ## Đi khu công nghiệp Quang Minh: tránh dòng xe lúc tan ca
 
@@ -76,7 +76,7 @@ Phòng trọ quanh khu công nghiệp thường có sân chung hoặc lán xe. T
 - Không để giấy tờ xe, ví hay điện thoại trong cốp qua đêm.
 - Để xe ở chỗ có mái che, tránh mưa nắng cả tuần làm khó nổ máy.
 
-Kinh nghiệm khóa và đỗ xe thuê có trong bài [chống trộm xe máy khi thuê](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe/).
+Kinh nghiệm khóa và đỗ xe thuê có trong bài [chống trộm xe máy khi thuê](/ky-nang/2026-09-29/chong-trom-xe-may-khi-thue-khoa-va-cach-do-xe/).
 
 ## Nhận xe, báo cửa hàng và trả xe
 

@@ -30,7 +30,7 @@ Vùng đồi Ba Vì có nhiều đoạn lên xuống liên tục, còn quanh Só
 - **Xe số** như Honda Wave cho cảm giác chủ động khi xuống dốc nhờ phanh bằng số, nhẹ, dễ dắt qua đoạn đường đất. Nếu bạn đã quen xe số, đây là lựa chọn dễ chịu cho đường đồi.
 - **Xe ga** như Vision hay Air Blade có sàn để chân phẳng và cốp rộng, tiện cho việc đi chợ, chở túi phân hay thùng cây nhỏ. Đổi lại, xuống dốc dài phải phanh đều tay, không ôm phanh liên tục.
 
-Người chưa quen đường dốc nên đọc trước bài [lên dốc và xuống dốc bằng xe số khi mới lái](/ky-nang/2026/09/29/len-doc-va-xuong-doc-bang-xe-so-khi-moi-lai/). Nếu băn khoăn loại xe cho việc chở nhiều đồ, bài [chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) so sánh kỹ hơn.
+Người chưa quen đường dốc nên đọc trước bài [lên dốc và xuống dốc bằng xe số khi mới lái](/ky-nang/2026/09/29/len-doc-va-xuong-doc-bang-xe-so-khi-moi-lai/). Nếu băn khoăn loại xe cho việc chở nhiều đồ, bài [chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/di-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) so sánh kỹ hơn.
 
 ## Đường lên Ba Vì, Sóc Sơn bằng xe máy
 
@@ -61,7 +61,7 @@ Chợ quê thường họp từ sáng sớm, chỗ để xe chật và người 
 
 Đường làng có trẻ em, trâu bò và người phơi thóc ra lòng đường. Ở những khúc cua có lũy tre hay tường rào che khuất, giảm tốc và bóp còi nhẹ. Sau mưa, đường đất và dốc bê tông phủ rêu rất trơn: đi chậm, giữ xe thẳng, tránh phanh gấp. Nếu ở nhà vườn Ba Vì cả tuần vào mùa mưa, hỏi người quanh vùng đoạn nào hay ngập hoặc sạt lở để tránh.
 
-Quanh Sóc Sơn có những con đường đẹp ven hồ, nếu muốn đổi gió một buổi chiều, xem gợi ý trong bài [Sóc Sơn và hồ Đồng Đò, chạy xe tránh xa phố](/du-lich/2026/09/28/soc-son-va-ho-ong-o-chay-xe-tranh-xa-pho/). Cố gắng về tới vườn trước khi trời tối, vì đường làng ít đèn.
+Quanh Sóc Sơn có những con đường đẹp ven hồ, nếu muốn đổi gió một buổi chiều, xem gợi ý trong bài [Sóc Sơn và hồ Đồng Đò, chạy xe tránh xa phố](/du-lich/2026/09/28/soc-son-va-ho-dong-do-chay-xe-tranh-xa-pho/). Cố gắng về tới vườn trước khi trời tối, vì đường làng ít đèn.
 
 ## Cất xe qua đêm ở nơi vắng người
 

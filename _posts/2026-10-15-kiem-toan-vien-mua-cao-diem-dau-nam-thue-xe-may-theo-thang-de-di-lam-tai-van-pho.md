@@ -44,7 +44,7 @@ Nếu đang phân vân giữa hai mẫu xe ga phổ biến, bài [thuê xe theo 
 
 ### Balo chống nước là đồ nghề, không phải phụ kiện
 
-Chọn balo có ngăn laptop riêng có đệm, vải chống nước hoặc có áo trùm mưa đi kèm. Hồ sơ giấy, biên bản, chứng từ photo nên để trong túi nhựa có khóa kéo bên trong balo, phòng khi mưa phùn thấm qua đường may. Đầu năm ở Hà Nội hay có mưa phùn và nồm ẩm, nên đừng chủ quan với những hôm trời chỉ lất phất. Cách xoay xở khi trời mưa nhỏ có ở bài [đi xe máy trong mưa phùn cần để ý gì](/ky-nang/2026/10/10/i-xe-may-trong-mua-phun-can-e-y-gi/).
+Chọn balo có ngăn laptop riêng có đệm, vải chống nước hoặc có áo trùm mưa đi kèm. Hồ sơ giấy, biên bản, chứng từ photo nên để trong túi nhựa có khóa kéo bên trong balo, phòng khi mưa phùn thấm qua đường may. Đầu năm ở Hà Nội hay có mưa phùn và nồm ẩm, nên đừng chủ quan với những hôm trời chỉ lất phất. Cách xoay xở khi trời mưa nhỏ có ở bài [đi xe máy trong mưa phùn cần để ý gì](/ky-nang/2026/10/10/di-xe-may-trong-mua-phun-can-de-y-gi/).
 
 ### Đeo trên lưng hay cất trong cốp
 
@@ -70,7 +70,7 @@ Những tuần chốt số liệu, rời văn phòng khách hàng sau chín, mư
 - Mệt quá thì nghỉ vài phút trước khi lên xe; không vừa chạy vừa xem điện thoại trả lời email.
 - Chọn đường lớn, sáng đèn dù xa hơn một chút.
 
-Những điều dễ bỏ qua khi lái xe tối được nói kỹ trong bài [đi xe máy buổi tối ở Hà Nội lần đầu](/thue-xe/2026/10/11/i-xe-may-buoi-toi-o-ha-noi-lan-au-nhung-ieu-kho-thay-khi-troi-toi/). Lưu ý cửa hàng mở 09:00–21:00 và không giao xe ngoài giờ này, nên nếu xe có trục trặc lúc khuya, hãy đưa xe về chỗ gửi an toàn rồi liên hệ cửa hàng vào giờ mở cửa hôm sau.
+Những điều dễ bỏ qua khi lái xe tối được nói kỹ trong bài [đi xe máy buổi tối ở Hà Nội lần đầu](/thue-xe/2026/10/11/di-xe-may-buoi-toi-o-ha-noi-lan-dau-nhung-dieu-kho-thay-khi-troi-toi/). Lưu ý cửa hàng mở 09:00–21:00 và không giao xe ngoài giờ này, nên nếu xe có trục trặc lúc khuya, hãy đưa xe về chỗ gửi an toàn rồi liên hệ cửa hàng vào giờ mở cửa hôm sau.
 
 ## Nhận, gia hạn và trả xe
 
