@@ -124,6 +124,18 @@ _spec = importlib.util.spec_from_file_location(
     'publish_gate', os.path.join(ROOT, 'scripts/factory/publish-gate.py'))
 pg = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(pg)  # publish-gate tự os.chdir(ROOT)
+_SR = None
+
+
+def slug_redirects_mod():
+    """slug_redirects.py, nạp khi CẦN (chỉ khi registry có dòng RETIRED): cây test tối giản không chép tệp này."""
+    global _SR
+    if _SR is None:
+        spec = importlib.util.spec_from_file_location(
+            'slug_redirects', os.path.join(ROOT, 'scripts/factory/slug_redirects.py'))
+        _SR = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(_SR)  # chỉ đọc, không ghi gì khi import
+    return _SR
 
 
 def now_iso():
@@ -584,8 +596,7 @@ def retired_link_hits(body):
                 if r.get('status') == 'RETIRED' and r.get('old_url'):
                     forms.update((r['old_url'], r['old_url'].rstrip('/')))
         forms.discard('')
-        _RETIRED_RX = (re.compile('|'.join(re.escape(x) for x in sorted(forms, key=len, reverse=True)))
-                       if forms else None)
+        _RETIRED_RX = slug_redirects_mod().literal_union_regex(forms) if forms else None
         _RETIRED_KEY = key
     if _RETIRED_RX is None:
         return []
