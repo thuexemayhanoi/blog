@@ -71,7 +71,7 @@ Mùa hè ngoại thành ít bóng cây hơn phố, nắng trên mặt đê và c
 - Thùng đồ không vượt quá bề ngang xe, không che đèn và biển số.
 - Đồ cồng kềnh như bạt, bàn gấp thì chở riêng một chuyến, người ngồi sau không ôm thêm.
 
-Cách buộc chi tiết có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+Cách buộc chi tiết có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 
 ## Thuê xe theo tuần cho cả nhóm
 

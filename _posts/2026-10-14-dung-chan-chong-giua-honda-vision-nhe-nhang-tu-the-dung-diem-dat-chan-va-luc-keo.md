@@ -28,7 +28,7 @@ Vision có lợi thế là thân xe gọn và nhẹ hơn nhiều dòng xe ga kh�
 Mất vài giây chuẩn bị giúp lần dựng nhẹ hơn hẳn:
 
 - **Tắt máy, để xe đứng thẳng.** Gạt chân chống nghiêng lên, cầm tay lái giữ xe thẳng đứng, bánh trước thẳng hướng.
-- **Chọn nền phẳng và cứng.** Sân gạch, nền bê tông của bãi gửi xe là tốt nhất. Tránh nền đất mềm, nhựa đường đang nóng chảy hay chỗ dốc. Nếu buộc phải dựng ở chỗ nền không lý tưởng, bài [chân chống bị lún trên nhựa nóng, đất ẩm và gạch lát](/ky-nang/2026/10/11/chan-chong-bi-lun-tren-nhua-nong-at-am-va-gach-lat-e-xe-khoi-o/) có cách xử lý.
+- **Chọn nền phẳng và cứng.** Sân gạch, nền bê tông của bãi gửi xe là tốt nhất. Tránh nền đất mềm, nhựa đường đang nóng chảy hay chỗ dốc. Nếu buộc phải dựng ở chỗ nền không lý tưởng, bài [chân chống bị lún trên nhựa nóng, đất ẩm và gạch lát](/ky-nang/2026/10/11/chan-chong-bi-lun-tren-nhua-nong-dat-am-va-gach-lat-de-xe-khoi-do/) có cách xử lý.
 
 - **Bớt đồ nặng.** Túi đồ treo ở móc trước hay balo trên sàn để chân làm xe nặng thêm và lệch. Nhấc xuống trước, dựng xong mới để lại. Cốp dưới yên của Vision khá rộng nên người dùng hay để chai nước, áo mưa, đồ đi chợ trong đó; nếu cốp đang đầy đồ nặng, phần đuôi xe sẽ ì hơn khi kéo, lấy bớt ra là thấy khác ngay.
 - **Đi giày đế bằng.** Dép tông hay giày cao gót dễ trượt khỏi mấu chân chống.

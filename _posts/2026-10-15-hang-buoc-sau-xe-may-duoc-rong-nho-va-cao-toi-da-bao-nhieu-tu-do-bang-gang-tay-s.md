@@ -59,7 +59,7 @@ Bài [quy định chở hàng cồng kềnh trên xe máy](/an-toan-phap-ly/2026
 
 Điều 33 khoản 4 điểm a nói người được chở trên xe không được “Mang, vác vật cồng kềnh”. Vì vậy cách chữa cháy phổ biến là nhờ người ngồi sau ôm kiện hàng thật ra cũng có thể phạm quy định. Hãy buộc hàng lên xe chứ không để người ngồi sau cầm.
 
-Buộc chắc ở ít nhất vài điểm, kiểm tra sau một quãng ngắn và buộc lại nếu lỏng. Bài [buộc đồ trên yên sau: nguyên tắc không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/) nêu cách buộc để hàng không xô lệch.
+Buộc chắc ở ít nhất vài điểm, kiểm tra sau một quãng ngắn và buộc lại nếu lỏng. Bài [buộc đồ trên yên sau: nguyên tắc không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/) nêu cách buộc để hàng không xô lệch.
 
 ## Xe thuê: giá đèo hàng, dây buộc và chuyện chở hàng
 

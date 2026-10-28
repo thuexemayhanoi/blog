@@ -16,7 +16,7 @@ writer: W1
 
 Đi làng Lệ Mật bằng xe máy là một lựa chọn hợp lý cho buổi chiều cuối tuần ngắn: từ khu phố cổ, bạn chỉ cần hơn mười cây số là tới nơi, đường chạy thẳng dọc sông, ít kẹt xe so với các tuyến nội đô. Lệ Mật thuộc phường Ngọc Thụy, quận Long Biên, nổi tiếng hàng trăm năm với nghề bắt và chế biến rắn, hôm nay vẫn giữ được không khí một làng nghề ven đô giữa vành đai bê tông hóa dần. Bài viết này đi qua lộ trình cụ thể theo từng khung giờ, cách chọn chỗ để xe, và những lưu ý để chuyến thăm làng rắn an toàn, trọn vẹn, kể cả khi bạn đi bằng xe máy thuê.
 
-Trước khi lên kế hoạch, nếu muốn ghép thêm các điểm ven sông cùng khu Long Biên, hai bài [sáng sớm chợ Long Biên có gì đáng đi bằng xe máy](/du-lich/2026/10/07/sang-som-cho-long-bien-co-gi-ang-i-bang-xe-may/) và [ngắm cầu Long Biên lúc bình minh bằng xe máy](/du-lich/2026/10/09/ngam-cau-long-bien-luc-binh-minh-bang-xe-may/) giúp bạn ghép tuyến rất thuận.
+Trước khi lên kế hoạch, nếu muốn ghép thêm các điểm ven sông cùng khu Long Biên, hai bài [sáng sớm chợ Long Biên có gì đáng đi bằng xe máy](/du-lich/2026/10/07/sang-som-cho-long-bien-co-gi-dang-di-bang-xe-may/) và [ngắm cầu Long Biên lúc bình minh bằng xe máy](/du-lich/2026/10/09/ngam-cau-long-bien-luc-binh-minh-bang-xe-may/) giúp bạn ghép tuyến rất thuận.
 
 ## Lộ trình từ trung tâm Hà Nội tới làng Lệ Mật
 

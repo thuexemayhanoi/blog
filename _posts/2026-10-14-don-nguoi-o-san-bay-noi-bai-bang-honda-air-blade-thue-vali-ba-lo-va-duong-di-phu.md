@@ -68,7 +68,7 @@ Trên đường ra, mũ thứ hai cho vào cốp nếu vừa, hoặc buộc ch�
 
 Từ nội thành, hướng thuận tiện là qua cầu Nhật Tân rồi theo đường Võ Nguyên Giáp ra sân bay. Cầu Nhật Tân cho xe máy đi, và trên trục Võ Nguyên Giáp, xe máy đi làn dành cho xe máy bên phải theo vạch kẻ và biển báo. Đừng lấn sang làn ô tô, ngay cả khi đang vội vì máy bay đã hạ cánh.
 
-Chiều về có người ngồi sau, hãy chạy chậm hơn chiều đi một chút. Người ngồi sau còn mệt, ba lô trên lưng làm họ dễ ngả người khi bạn tăng ga. Giữ ga đều, phanh sớm và nhẹ, nhắc họ ngồi sát, hai chân đặt trên gác chân. Muốn đọc kỹ hơn về trục đường này, xem bài [chạy xe dọc đường Võ Nguyên Giáp](/cung-duong/2026/10/04/chay-xe-doc-uong-vo-nguyen-giap-ven-song-hong-buoi-sang/).
+Chiều về có người ngồi sau, hãy chạy chậm hơn chiều đi một chút. Người ngồi sau còn mệt, ba lô trên lưng làm họ dễ ngả người khi bạn tăng ga. Giữ ga đều, phanh sớm và nhẹ, nhắc họ ngồi sát, hai chân đặt trên gác chân. Muốn đọc kỹ hơn về trục đường này, xem bài [chạy xe dọc đường Võ Nguyên Giáp](/cung-duong/2026/10/04/chay-xe-doc-duong-vo-nguyen-giap-ven-song-hong-buoi-sang/).
 
 ## Tới sân bay: gửi xe, giữ vé, hẹn chỗ gặp
 

@@ -40,7 +40,7 @@ Từ nội thành có hai hướng chính mà người đi xe máy hay dùng. B�
 
 ### Qua cầu Nhật Tân, theo đường Võ Nguyên Giáp
 
-Đây là hướng hợp với người ở Tây Hồ, Ba Đình, Cầu Giấy. Lên cầu Nhật Tân, giữ đúng làn dành cho xe máy theo biển và vạch kẻ, không lấn sang làn ô tô. Xuống cầu, đi theo đường Võ Nguyên Giáp; trục này có làn riêng cho xe máy, xe chạy nhanh và nhiều xe khách, xe tải đi sân bay. Đừng bám đuôi xe lớn, nhìn biển chỉ dẫn để rẽ sang đường Trường Sa về phía trung tâm. Cảm giác chạy trên trục này buổi sáng được tả kỹ trong bài [chạy xe dọc đường Võ Nguyên Giáp buổi sáng](/cung-duong/2026/10/04/chay-xe-doc-uong-vo-nguyen-giap-ven-song-hong-buoi-sang/), còn chuyện gió và làn trên cầu có ở bài [đến cầu Nhật Tân bằng xe máy](/du-lich/2026/10/04/den-cau-nhat-tan-bang-xe-may-duong-di-va-luu-y-chay-tren-cau/).
+Đây là hướng hợp với người ở Tây Hồ, Ba Đình, Cầu Giấy. Lên cầu Nhật Tân, giữ đúng làn dành cho xe máy theo biển và vạch kẻ, không lấn sang làn ô tô. Xuống cầu, đi theo đường Võ Nguyên Giáp; trục này có làn riêng cho xe máy, xe chạy nhanh và nhiều xe khách, xe tải đi sân bay. Đừng bám đuôi xe lớn, nhìn biển chỉ dẫn để rẽ sang đường Trường Sa về phía trung tâm. Cảm giác chạy trên trục này buổi sáng được tả kỹ trong bài [chạy xe dọc đường Võ Nguyên Giáp buổi sáng](/cung-duong/2026/10/04/chay-xe-doc-duong-vo-nguyen-giap-ven-song-hong-buoi-sang/), còn chuyện gió và làn trên cầu có ở bài [đến cầu Nhật Tân bằng xe máy](/du-lich/2026/10/04/den-cau-nhat-tan-bang-xe-may-duong-di-va-luu-y-chay-tren-cau/).
 
 ### Qua cầu Chương Dương, theo Nguyễn Văn Cừ lên cầu Đông Trù
 

@@ -62,7 +62,7 @@ Cốp xe ga nằm gần trọng tâm, phù hợp với đồ nhỏ mà nặng nh
 
 ### Phần đầu yên sau, sát lưng người lái
 
-Nếu buộc lên yên sau là bắt buộc, hãy đẩy món nặng nhất về sát lưng người lái thay vì để nó trượt ra đuôi giá. Cùng một bao đồ, đặt sát lưng và đặt ở đuôi giá cho cảm giác lái khác hẳn. Cách cố định cho khỏi xô lệch trong lúc chạy được nói kỹ ở bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+Nếu buộc lên yên sau là bắt buộc, hãy đẩy món nặng nhất về sát lưng người lái thay vì để nó trượt ra đuôi giá. Cùng một bao đồ, đặt sát lưng và đặt ở đuôi giá cho cảm giác lái khác hẳn. Cách cố định cho khỏi xô lệch trong lúc chạy được nói kỹ ở bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 
 ### Đuôi giá chở hàng
 

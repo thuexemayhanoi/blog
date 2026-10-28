@@ -53,7 +53,7 @@ Nếu bạn dùng khóa riêng, hãy cho tiệm biết để tránh hiểu lầm
 
 Gửi bãi có người trông thường yên tâm hơn dựng xe tự do. Hãy hỏi bãi có người trông suốt thời gian bạn gửi không, có camera không, có phát vé hoặc ghi biển số không. Bài không biết bãi nào ở nơi bạn đi và không nêu giá.
 
-Bài [gửi xe máy qua đêm ở Hà Nội: chọn bãi và lưu ý](/ky-nang/2026/10/04/gui-xe-may-qua-em-o-ha-noi-chon-bai-va-luu-y/) nói cách chọn bãi gửi.
+Bài [gửi xe máy qua đêm ở Hà Nội: chọn bãi và lưu ý](/ky-nang/2026/10/04/gui-xe-may-qua-dem-o-ha-noi-chon-bai-va-luu-y/) nói cách chọn bãi gửi.
 
 ## Ảnh chụp xe lúc gửi: giữ mốc về tình trạng
 

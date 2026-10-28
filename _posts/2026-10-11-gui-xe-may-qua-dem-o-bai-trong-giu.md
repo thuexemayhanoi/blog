@@ -56,7 +56,7 @@ Nếu bãi trả lời kiểu "chỉ giữ chỗ, không chịu trách nhiệm",
 
 Giả sử bạn từ miền núi về tới Hà Nội lúc gần nửa đêm. Khách sạn nhỏ trong khu phố cổ không có chỗ cho xe, nên bạn gửi ở một bãi trông giữ xe qua đêm của nhà dân trong ngõ, cách đó vài phút đi bộ. Bãi chật, xe xếp sát nhau thành mấy hàng, và xe bạn được dắt vào hàng trong cùng.
 
-Sáng hôm sau bạn cần đi sớm thì phải nhờ người dời cả hàng xe phía ngoài mới lấy được xe. Chuyện này tránh được bằng một câu hỏi ngay lúc gửi: "Sáng mai tôi đi sớm, cho xe tôi để hàng ngoài được không?" Nếu bãi không đồng ý, ít nhất bạn biết phải báo trước giờ lấy xe. Cách nhận ra một bãi đáng gửi ngay từ cổng có trong bài về [cách chọn bãi gửi xe qua đêm ở Hà Nội](/ky-nang/2026/10/04/gui-xe-may-qua-em-o-ha-noi-chon-bai-va-luu-y/).
+Sáng hôm sau bạn cần đi sớm thì phải nhờ người dời cả hàng xe phía ngoài mới lấy được xe. Chuyện này tránh được bằng một câu hỏi ngay lúc gửi: "Sáng mai tôi đi sớm, cho xe tôi để hàng ngoài được không?" Nếu bãi không đồng ý, ít nhất bạn biết phải báo trước giờ lấy xe. Cách nhận ra một bãi đáng gửi ngay từ cổng có trong bài về [cách chọn bãi gửi xe qua đêm ở Hà Nội](/ky-nang/2026/10/04/gui-xe-may-qua-dem-o-ha-noi-chon-bai-va-luu-y/).
 
 ## Trước khi quay lưng khỏi bãi
 

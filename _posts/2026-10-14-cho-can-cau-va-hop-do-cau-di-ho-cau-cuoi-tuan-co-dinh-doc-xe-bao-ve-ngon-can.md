@@ -61,7 +61,7 @@ Ngọn cần là phần đắt và dễ hỏng nhất. Phần lớn ngọn gãy 
 Đồ câu lặt vặt mới là thứ làm xe lộn xộn: hộp mồi, thùng cám, ghế xếp, vợt, ô che, nước uống. Cách chở đồ câu cá bằng xe máy cho gọn là chia theo trọng lượng và mùi:
 
 - **Hộp mồi và cám có mùi:** cho vào thùng nhựa có nắp hoặc túi zip hai lớp, đặt ở sàn để chân xe ga, đáy phẳng chạm sàn. Mồi tanh rò ra trong cốp thì mất mấy ngày mới hết mùi.
-- **Đồ nặng như ghế xếp, thùng đá:** đặt thấp và sát người lái, buộc chéo trên giá sau hoặc để ở sàn để chân. Nguyên tắc buộc chắc yên sau có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+- **Đồ nặng như ghế xếp, thùng đá:** đặt thấp và sát người lái, buộc chéo trên giá sau hoặc để ở sàn để chân. Nguyên tắc buộc chắc yên sau có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 - **Đồ nhỏ như phao, chì, lưỡi dự phòng:** gom vào một hộp nhiều ngăn, cho vào cốp hoặc ba lô.
 - **Vợt và ô che:** gập lại, buộc cùng bó cần theo chiều dọc, đừng treo riêng ở móc vì nó đung đưa vào đầu gối.
 

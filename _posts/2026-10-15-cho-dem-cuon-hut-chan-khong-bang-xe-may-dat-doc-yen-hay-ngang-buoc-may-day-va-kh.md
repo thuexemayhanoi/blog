@@ -54,7 +54,7 @@ Phần này là khuyến nghị an toàn, không phải quy định. Buộc ít 
 - **Neo vào khung chịu lực** như giá đèo hàng, tay dắt; không móc vào ốp nhựa, không che đèn hậu, biển số, gương, không để sát ống xả.
 - **Lắc thử:** nắm hai đầu ống lắc mạnh, ống không xoay, không dịch mới đi.
 
-Tấp vào chỗ được phép dừng sau vài phút đầu để siết lại dây. Chạy chậm, phanh sớm; trời mưa thì hoãn, vì túi nhựa ướt rất trơn. Nguyên tắc buộc chung có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/), cách che mưa có trong bài [chở bạt che mưa cho hàng hóa](/ky-nang/2026/10/04/cho-bat-che-mua-cho-hang-hoa-tren-xe-may/).
+Tấp vào chỗ được phép dừng sau vài phút đầu để siết lại dây. Chạy chậm, phanh sớm; trời mưa thì hoãn, vì túi nhựa ướt rất trơn. Nguyên tắc buộc chung có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/), cách che mưa có trong bài [chở bạt che mưa cho hàng hóa](/ky-nang/2026/10/04/cho-bat-che-mua-cho-hang-hoa-tren-xe-may/).
 
 ## Khi nào nên thôi: gọi xe chở hàng hoặc nhờ giao tận nơi
 

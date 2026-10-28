@@ -47,7 +47,7 @@ Dùng khóa dây khi đỗ ngắn ở chỗ đông người thì hợp lý. Nế
 
 Nếu bãi gần chỗ ở, gửi bãi có thể bớt lo hơn để xe ngoài ngõ. Hãy hỏi bãi có người trông suốt đêm không, có camera không, có phát vé hoặc ghi biển số không, và mấy giờ mở, đóng cửa. Bài không biết bãi nào ở khu bạn ở và không nêu giá.
 
-Chụp ảnh xe lúc gửi, giữ vé, và đừng để giấy tờ hay đồ có giá trị dưới yên. Bài [gửi xe máy qua đêm ở Hà Nội: chọn bãi và lưu ý](/ky-nang/2026/10/04/gui-xe-may-qua-em-o-ha-noi-chon-bai-va-luu-y/) nói thêm về cách chọn bãi.
+Chụp ảnh xe lúc gửi, giữ vé, và đừng để giấy tờ hay đồ có giá trị dưới yên. Bài [gửi xe máy qua đêm ở Hà Nội: chọn bãi và lưu ý](/ky-nang/2026/10/04/gui-xe-may-qua-dem-o-ha-noi-chon-bai-va-luu-y/) nói thêm về cách chọn bãi.
 
 ## Nhà trọ, homestay và ngõ nhỏ: hỏi chỗ để xe trước khi đặt
 

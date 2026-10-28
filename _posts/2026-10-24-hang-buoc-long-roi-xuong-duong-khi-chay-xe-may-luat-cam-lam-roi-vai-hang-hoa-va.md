@@ -29,7 +29,7 @@ Luật nêu thêm các giới hạn khi chở hàng. Điều 33 khoản 3 điể
 
 Điều 33 khoản 5 của luật nêu xe mô tô, xe gắn máy không được xếp hàng hóa vượt quá chiều rộng giá đèo hàng về mỗi bên 0,3 mét, vượt quá về phía sau giá đèo hàng 0,5 mét theo thiết kế của nhà sản xuất, và chiều cao xếp hàng tính từ mặt đường xe chạy không vượt quá 02 mét. Cụm "theo thiết kế của nhà sản xuất" áp dụng cho kích thước giá đèo hàng, nên đừng chỉ nhớ các con số mà quên điều kiện đó.
 
-Khi thuê xe tay ga, nhiều xe không có giá đèo hàng như xe số, nên hàng thường để ở cốp hoặc đặt trước chân. Hãy hỏi tiệm chiếc xe của bạn có giá đèo hàng không, và đừng buộc thêm đồ ngoài khả năng của xe. Bài [buộc đồ sau xe máy đúng cách](/ky-nang/2026-09-29/buoc-do-sau-xe-may-dung-cach/) và bài [buộc đồ trên yên sau: nguyên tắc không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/) gợi ý cách buộc.
+Khi thuê xe tay ga, nhiều xe không có giá đèo hàng như xe số, nên hàng thường để ở cốp hoặc đặt trước chân. Hãy hỏi tiệm chiếc xe của bạn có giá đèo hàng không, và đừng buộc thêm đồ ngoài khả năng của xe. Bài [buộc đồ sau xe máy đúng cách](/ky-nang/2026-09-29/buoc-do-sau-xe-may-dung-cach/) và bài [buộc đồ trên yên sau: nguyên tắc không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/) gợi ý cách buộc.
 
 ## Nghị định xử phạt: hàng sắp xếp không an toàn và để rơi xuống đường
 

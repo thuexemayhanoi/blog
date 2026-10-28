@@ -42,7 +42,7 @@ Với Air Blade, vài thói quen giúp đoạn này nhàn hơn:
 - **Hai tay thả lỏng**, khuỷu tay hơi chùng, để luồng gió từ xe khách vượt bên cạnh không làm xe lắc mạnh.
 - **Nhìn xa và đọc biển sớm** ở các nút giao, vì lối rẽ cho xe máy thường tách ra trước, lỡ thì phải đi tiếp một đoạn mới quay lại được.
 
-Ai muốn chuẩn bị thêm về đoạn trục này có thể đọc bài [chạy xe dọc đường Võ Nguyên Giáp](/cung-duong/2026/10/04/chay-xe-doc-uong-vo-nguyen-giap-ven-song-hong-buoi-sang/).
+Ai muốn chuẩn bị thêm về đoạn trục này có thể đọc bài [chạy xe dọc đường Võ Nguyên Giáp](/cung-duong/2026/10/04/chay-xe-doc-duong-vo-nguyen-giap-ven-song-hong-buoi-sang/).
 
 ## Rẽ vào đường làng hẹp: chậm lại trước khi phải phanh
 

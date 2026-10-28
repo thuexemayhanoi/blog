@@ -55,7 +55,7 @@ Thợ hay báo thiếu những thứ lặt vặt: hộp ốc vít, băng keo, �
 
 - Cho đồ nhỏ vào cốp hoặc túi chắc đặt ở sàn để chân, không treo lủng lẳng nhiều túi ở móc xe.
 - Đồ có cạnh sắc hoặc đầu nhọn như ống nhựa, thanh nẹp, bọc đầu lại và buộc chắc ở yên sau, không để chìa ra hai bên hay che biển số.
-- Thùng sơn, can keo đóng nắp chặt, đặt đứng, chèn cho khỏi đổ. Cách buộc đồ cho xe khỏi lệch có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+- Thùng sơn, can keo đóng nắp chặt, đặt đứng, chèn cho khỏi đổ. Cách buộc đồ cho xe khỏi lệch có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 
 ### Vật tư lớn: để nhà cung cấp giao
 

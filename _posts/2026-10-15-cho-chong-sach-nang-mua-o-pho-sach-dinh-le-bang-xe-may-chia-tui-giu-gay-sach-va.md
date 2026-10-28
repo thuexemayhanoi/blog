@@ -37,7 +37,7 @@ Nguyên tắc dễ nhớ: mỗi túi bạn nhấc được bằng một tay mà 
 
 Sách nặng thì đặt thấp và sát giữa xe. Xe ga có sàn phẳng thì để túi cứng hoặc thùng nhỏ ở sàn để chân, dồn sát về phía yên; cốp dưới yên chứa chồng mỏng, miễn đóng cốp còn khít. Xe số thì đặt thùng nhỏ nằm phẳng trên giá đèo hàng, buộc hai vòng chéo.
 
-Đừng treo túi sách nặng vào móc hay tay lái: túi đung đưa, kéo lệch hướng lái. Đừng để người ngồi sau ôm cả chồng hay thùng sách, vì khoản 4 điểm a cấm người được chở "mang, vác vật cồng kềnh". Luật không nói chồng sách cỡ nào thì thuộc diện đó, nhưng hai tay bận ôm thì không bám được khi phanh. Bài [người ngồi sau ôm đồ trên đùi](/ky-nang/2026/10/14/nguoi-ngoi-sau-om-do-tren-dui-mon-nao-duoc-mon-nao-phai-buoc-lai/) nói rõ món nào ôm được. Cách buộc chung có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+Đừng treo túi sách nặng vào móc hay tay lái: túi đung đưa, kéo lệch hướng lái. Đừng để người ngồi sau ôm cả chồng hay thùng sách, vì khoản 4 điểm a cấm người được chở "mang, vác vật cồng kềnh". Luật không nói chồng sách cỡ nào thì thuộc diện đó, nhưng hai tay bận ôm thì không bám được khi phanh. Bài [người ngồi sau ôm đồ trên đùi](/ky-nang/2026/10/14/nguoi-ngoi-sau-om-do-tren-dui-mon-nao-duoc-mon-nao-phai-buoc-lai/) nói rõ món nào ôm được. Cách buộc chung có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 
 ## Giữ gáy sách khỏi cong
 

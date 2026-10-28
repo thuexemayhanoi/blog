@@ -43,7 +43,7 @@ Chọn một chỗ duy nhất và dùng suốt tuần. Người trông quen mặ
 2. Có cần để lại chìa khóa không. Nếu được, nên giữ chìa và khóa cổ xe.
 3. Mất vé thì làm thế nào.
 
-Chụp ảnh vé hoặc thẻ gửi xe, ghi tên ngõ vào điện thoại. Phố cổ nhiều ngõ giống nhau, tối mệt rất dễ đi nhầm. Thêm vài lưu ý chọn bãi qua đêm có trong bài [gửi xe máy qua đêm ở Hà Nội](/ky-nang/2026/10/04/gui-xe-may-qua-em-o-ha-noi-chon-bai-va-luu-y/).
+Chụp ảnh vé hoặc thẻ gửi xe, ghi tên ngõ vào điện thoại. Phố cổ nhiều ngõ giống nhau, tối mệt rất dễ đi nhầm. Thêm vài lưu ý chọn bãi qua đêm có trong bài [gửi xe máy qua đêm ở Hà Nội](/ky-nang/2026/10/04/gui-xe-may-qua-dem-o-ha-noi-chon-bai-va-luu-y/).
 
 ### Ban ngày: gửi ngắn ở điểm đến
 

@@ -45,7 +45,7 @@ Tấm xốp ghép thường đóng thành chồng vuông. Giữ nguyên chồng,
 
 1. **Ưu tiên sàn để chân xe ga.** Cuộn chăn hoặc chồng xốp đặt dựng ở sàn để chân, kẹp giữa hai đầu gối là vị trí thấp và gần trọng tâm nhất. Chỉ cần không che mất tầm quan sát và không vướng tay lái khi đánh lái.
 2. **Yên sau: nằm ngang, thấp, dọc theo xe.** Nếu buộc ở yên sau, đặt món đồ nằm theo chiều dài của xe, không chìa ra hai bên. Chiều cao không nên vượt quá phần lưng dưới của người lái.
-3. **Buộc nhiều điểm.** Dùng dây chằng có móc, buộc ít nhất hai vòng chéo nhau để món đồ không xoay khi bị gió đẩy. Nguyên tắc chung về cách buộc yên sau có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+3. **Buộc nhiều điểm.** Dùng dây chằng có móc, buộc ít nhất hai vòng chéo nhau để món đồ không xoay khi bị gió đẩy. Nguyên tắc chung về cách buộc yên sau có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 4. **Không để đầu dây lủng lẳng.** Đầu dây thừa quấn gọn lại, vì dây bay trong gió có thể quấn vào bánh sau.
 
 Người ngồi sau ôm một gói chăn trong lòng thì được, nhưng không nên ôm tấm xốp lớn hay cầm chồng chậu giơ cao. Luật giao thông không cho phép người ngồi trên xe máy mang vác vật cồng kềnh, và hàng hóa buộc trên xe phải gọn, không che khuất tầm nhìn.

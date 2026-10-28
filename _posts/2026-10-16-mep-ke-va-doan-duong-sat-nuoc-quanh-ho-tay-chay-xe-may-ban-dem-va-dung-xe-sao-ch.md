@@ -47,7 +47,7 @@ Dự án cải tạo đường ven Hồ Tây đã khởi công cuối tháng 8/2
 
 - **Chỉ dừng, đỗ ở chỗ cho phép** hoặc gửi ở điểm trông giữ có vé; không dừng giữa lòng đường để ngắm hồ.
 - **Dựng xe cách xa mép kè**, đầu xe quay vào phía trong, không quay ra phía nước.
-- **Chọn nền chắc, phẳng** để hạ chân chống. Nền đất mềm, bãi cỏ ướt hay gạch lát lỏng dễ làm chân chống lún, xe đổ nghiêng; cách xử lý có ở bài [chân chống bị lún trên nhựa nóng, đất ẩm và gạch lát](/ky-nang/2026/10/11/chan-chong-bi-lun-tren-nhua-nong-at-am-va-gach-lat-e-xe-khoi-o/ "Chân chống bị lún trên nhựa nóng, đất ẩm và gạch lát").
+- **Chọn nền chắc, phẳng** để hạ chân chống. Nền đất mềm, bãi cỏ ướt hay gạch lát lỏng dễ làm chân chống lún, xe đổ nghiêng; cách xử lý có ở bài [chân chống bị lún trên nhựa nóng, đất ẩm và gạch lát](/ky-nang/2026/10/11/chan-chong-bi-lun-tren-nhua-nong-dat-am-va-gach-lat-de-xe-khoi-do/ "Chân chống bị lún trên nhựa nóng, đất ẩm và gạch lát").
 - **Tắt máy, khóa cổ, rút chìa** trước khi rời xe, kể cả chỉ đi vài bước ra mép hồ.
 
 Khi đi bộ ra sát mép nước, bật đèn điện thoại để nhìn chân, không ngồi vắt chân ra phía mặt hồ.

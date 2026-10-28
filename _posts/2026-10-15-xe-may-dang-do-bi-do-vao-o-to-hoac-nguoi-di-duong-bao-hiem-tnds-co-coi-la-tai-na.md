@@ -66,7 +66,7 @@ Người trước, xe sau:
 Luật Trật tự, an toàn giao thông đường bộ năm 2024 (Điều 18 khoản 2) quy định khi đỗ xe, người điều khiển chỉ được rời khỏi xe khi đã dùng phanh đỗ xe hoặc thực hiện biện pháp an toàn khác. Với xe máy, nghĩa là dựng đúng cách:
 
 - Ưu tiên chân chống giữa trên nền bằng, cứng. Chân chống nghiêng dễ đổ khi có gió hoặc ai chạm nhẹ.
-- Tránh nắp cống, gạch lát lỏng, nhựa đường mềm vào trưa nắng; mẹo chọn chỗ đặt chân chống có ở bài [chân chống bị lún trên nhựa đường, đất ẩm và gạch lát](/ky-nang/2026/10/11/chan-chong-bi-lun-tren-nhua-nong-at-am-va-gach-lat-e-xe-khoi-o/).
+- Tránh nắp cống, gạch lát lỏng, nhựa đường mềm vào trưa nắng; mẹo chọn chỗ đặt chân chống có ở bài [chân chống bị lún trên nhựa đường, đất ẩm và gạch lát](/ky-nang/2026/10/11/chan-chong-bi-lun-tren-nhua-nong-dat-am-va-gach-lat-de-xe-khoi-do/).
 - Không dựng sát cửa ô tô, chừa khoảng cách đủ để xe đổ cũng không chạm.
 - Trên dốc lên đê ở Long Biên hay lối xuống hầm, tránh dựng xe; buộc phải dựng thì khóa cổ và dùng chân chống giữa.
 - Chỉ đỗ ở nơi được phép; điểm trông giữ xe có người trông vẫn an toàn hơn vỉa hè.

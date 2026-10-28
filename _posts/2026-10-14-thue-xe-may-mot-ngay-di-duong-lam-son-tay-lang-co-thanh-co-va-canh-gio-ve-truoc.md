@@ -42,7 +42,7 @@ Xuất phát từ bên kia sông, bạn phải qua cầu vào nội thành trư�
 
 **Quốc lộ 32** đi qua Nhổn, Trạm Trôi, Phùng rồi vào Sơn Tây. Đường chậm hơn vì qua nhiều thị trấn, chợ và trường học, nhưng có hàng quán hai bên để nghỉ, đổ xăng hay trú mưa bất cứ lúc nào.
 
-Gợi ý cho một ngày thuê: đi buổi sáng bằng đại lộ cho nhanh khi còn khỏe, về buổi chiều bằng quốc lộ 32 nếu trời đẹp và bạn muốn có điểm dừng, hoặc ngược lại nếu đã mệt và muốn về thẳng. Mô tả kỹ hơn về từng đoạn tuyến có trong bài [làng cổ Đường Lâm bằng xe máy đi từ Hà Nội](/thue-xe/2026/10/12/lang-co-uong-lam-bang-xe-may-i-tu-ha-noi-mot-ngay-the-nao/).
+Gợi ý cho một ngày thuê: đi buổi sáng bằng đại lộ cho nhanh khi còn khỏe, về buổi chiều bằng quốc lộ 32 nếu trời đẹp và bạn muốn có điểm dừng, hoặc ngược lại nếu đã mệt và muốn về thẳng. Mô tả kỹ hơn về từng đoạn tuyến có trong bài [làng cổ Đường Lâm bằng xe máy đi từ Hà Nội](/thue-xe/2026/10/12/lang-co-duong-lam-bang-xe-may-di-tu-ha-noi-mot-ngay-the-nao/).
 
 ## Thành cổ trước hay làng cổ trước
 

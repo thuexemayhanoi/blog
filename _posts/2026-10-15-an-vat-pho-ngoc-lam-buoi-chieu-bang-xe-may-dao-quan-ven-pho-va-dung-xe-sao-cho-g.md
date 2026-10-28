@@ -32,7 +32,7 @@ Quán ngon thường nằm trong ngõ chứ không chỉ ở mặt phố, và qu
 
 ## Từ đầu cầu Long Biên vào phố Ngọc Lâm bằng xe máy
 
-Nếu xuất phát từ phố cổ, đường tự nhiên nhất là qua cầu Long Biên. Xe máy đi bên trái theo chiều đi trên cầu; xuống hết cầu phía Long Biên là bạn đã ở khu Ngọc Lâm. Đoạn chân dốc có nhiều luồng xe nhập vào, nên giảm tốc, nhìn biển chỉ hướng và đừng rẽ vội. Cách lên cầu từ phía Hoàn Kiếm và chỗ gửi xe quanh hai đầu cầu có trong bài [đến cầu Long Biên bằng xe máy](/du-lich/2026/09/28/en-cau-long-bien-bang-xe-may-gui-xe-va-uong-i/).
+Nếu xuất phát từ phố cổ, đường tự nhiên nhất là qua cầu Long Biên. Xe máy đi bên trái theo chiều đi trên cầu; xuống hết cầu phía Long Biên là bạn đã ở khu Ngọc Lâm. Đoạn chân dốc có nhiều luồng xe nhập vào, nên giảm tốc, nhìn biển chỉ hướng và đừng rẽ vội. Cách lên cầu từ phía Hoàn Kiếm và chỗ gửi xe quanh hai đầu cầu có trong bài [đến cầu Long Biên bằng xe máy](/du-lich/2026/09/28/den-cau-long-bien-bang-xe-may-gui-xe-va-duong-di/).
 
 Nếu bạn nhận xe ở cửa hàng tại 112 Nguyễn Văn Cừ, phường Bồ Đề, thì Ngọc Lâm chỉ cách một quãng ngắn, không cần qua sông. Người ở trọ quanh Bồ Đề, Sài Đồng cũng chỉ chạy vài phút. Bật bản đồ ở chế độ xe máy, chọn đi theo mặt phố chính, đừng để ứng dụng dẫn vào ngõ sâu ngay từ đầu.
 
@@ -55,7 +55,7 @@ Một lưu ý an toàn: đừng vừa lái vừa ăn, vừa cầm cốc đồ u�
 - **Hỏi quán trước khi dựng xe.** Nhiều quán có chỗ để xe riêng hoặc người trông. Nếu quán bảo không có chỗ, đi tìm điểm gửi khác thay vì đậu tạm.
 - **Dừng sát lề, xe thẳng hàng** với các xe đã đậu, bánh trước hướng ra đường để lúc về dễ dắt ra.
 - **Không đỗ chắn cửa nhà, lối vào ngõ, lối đi bộ** hay chỗ xe khác cần quay đầu.
-- **Nhìn biển báo trước khi lên vỉa hè.** Đoạn nào có biển cấm dừng, cấm đỗ hoặc vạch kẻ cấm thì không đỗ, kể cả vài phút. Cách đọc các loại biển này có trong bài [đọc biển báo cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/oc-bien-bao-cam-o-va-cam-dung-tren-via-he/).
+- **Nhìn biển báo trước khi lên vỉa hè.** Đoạn nào có biển cấm dừng, cấm đỗ hoặc vạch kẻ cấm thì không đỗ, kể cả vài phút. Cách đọc các loại biển này có trong bài [đọc biển báo cấm đỗ và cấm dừng trên vỉa hè](/an-toan-phap-ly/2026/10/10/doc-bien-bao-cam-do-va-cam-dung-tren-via-he/).
 - **Không để xe dưới lòng đường** chờ người mua đồ. Một chiếc xe đứng giữa làn ở giờ đông đủ làm cả dòng phải lách.
 
 Với xe thuê, khóa cổ, rút chìa, không để mũ hay túi trên yên. Chụp nhanh một tấm ảnh chỗ đậu giúp bạn tìm lại xe khi quay về từ ngõ khác.
@@ -77,7 +77,7 @@ Một lịch trình đơn giản cho hai người:
 - Đi bộ sang hàng chè hay đồ uống gần đó, ngồi nghỉ, xem phố lên đèn.
 - Lấy xe, dắt ra lề, nhìn kỹ hai phía rồi mới nhập dòng.
 
-Nếu còn sức, nối thêm một vòng [chợ Bồ Đề buổi chiều](/du-lich/2026/10/04/i-cho-bo-e-bang-xe-may-buoi-chieu-cuoi-ngay/) ở gần đó.
+Nếu còn sức, nối thêm một vòng [chợ Bồ Đề buổi chiều](/du-lich/2026/10/04/di-cho-bo-de-bang-xe-may-buoi-chieu-cuoi-ngay/) ở gần đó.
 
 ## Tóm lại
 
