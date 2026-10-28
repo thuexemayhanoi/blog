@@ -86,6 +86,15 @@ class SiteUrlsTest(unittest.TestCase):
             self.assertTrue(any(needle in e for e in errs), (needle, errs))
         self.assertEqual(C.main(['--site', self.site, '--root', self.src]), 1)
 
+    def test_frozen_non_ascii_baseline_is_pinned(self):
+        bdir = os.path.join(self.src, 'reports/factory/seo-master')
+        os.makedirs(bdir)
+        shutil.copy(os.path.join(ROOT, C.NON_ASCII_BASELINE_REL), os.path.join(bdir, 'non-ascii-url-baseline.txt'))
+        self.assertEqual(self.errs(), [])
+        with open(os.path.join(bdir, 'non-ascii-url-baseline.txt'), 'a', encoding='utf-8') as f:
+            f.write('/kinh%20nghi%E1%BB%87m/2026/10/28/bai-moi/\n')
+        self.assertTrue(any('sha256' in e for e in self.errs()))
+
     def test_missing_inputs(self):
         self.assertEqual(C.main(['--site', os.path.join(self.site, 'khong-co'), '--root', self.src]), 2)
         os.remove(os.path.join(self.site, 'sitemap.xml'))

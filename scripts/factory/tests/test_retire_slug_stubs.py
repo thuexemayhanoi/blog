@@ -150,6 +150,50 @@ class RetireTest(unittest.TestCase):
         os.remove(self.stub(self.b))
         self.assertTrue(any(self.b['article_id'] in e and 'không có sao lưu' in e for e in SR.source_errors(self.root)))
 
+    def test_rollback_resumes_after_interruption_and_all_eligible_is_capped(self):
+        self.apply([self.a['article_id'], self.b['article_id']])
+        backup = json.loads(read(self.root, 'reports/qa-audit/retire/retire-t1.json'))
+        with open(self.stub(self.a), 'w', encoding='utf-8') as f:          # rollback bị ngắt sau khi đã ghi lại trang A
+            f.write(backup['entries'][self.a['article_id']]['stub_text'])
+        rb = T.rollback_backup(self.root, backup)
+        self.assertEqual(sorted(rb['restored']), sorted([self.a['article_id'], self.b['article_id']]))
+        self.assertEqual(SR.source_errors(self.root), [])
+        rb = T.rollback_backup(self.root, backup)                         # chạy lại: không còn gì để làm, không lỗi
+        self.assertEqual((rb['restored'], rb['skipped_changed_since_apply']), ([], []))
+        self.assertEqual(len(rb['already_restored']), 2)
+        old_max, old_clean, cwd_root = T.MAX_BATCH, T.require_clean_tree, T.ROOT
+        try:                                                              # --all-eligible lấy MAX_BATCH ID đầu, không từ chối cả lô
+            T.MAX_BATCH = 1
+            T.ROOT = __import__('pathlib').Path(self.root)
+            T.require_clean_tree = lambda root: None
+            self.assertEqual(T.main(['apply', '--all-eligible', '--approval-ref', APPROVAL, '--live-ref', LIVE,
+                                     '--batch-id', 'retire-t9']), 0)
+            rows = {r['article_id']: r['status'] for r in SR.load_registry(self.root)}
+            self.assertEqual(sorted(rows.values()), [SR.MIGRATED, SR.RETIRED])
+        finally:
+            T.MAX_BATCH, T.ROOT, T.require_clean_tree = old_max, cwd_root, old_clean
+
+    def test_failed_apply_leaves_no_backup_evidence(self):
+        real = T.atomic_write
+        calls = {'n': 0}
+
+        def flaky(path, data):
+            calls['n'] += 1
+            if str(path).endswith(SR.REGISTRY_REL) and calls['n'] == 2:     # lần ghi registry đầu tiên (sau sao lưu) hỏng
+                raise OSError('disk full')
+            return real(path, data)
+        T.atomic_write = flaky
+        try:
+            with self.assertRaises(OSError):
+                self.apply([self.a['article_id']])
+        finally:
+            T.atomic_write = real
+        self.assertTrue(os.path.exists(self.stub(self.a)))
+        self.assertFalse(os.path.exists(os.path.join(self.root, 'reports/qa-audit/retire/retire-t1.json')))
+        self.assertTrue(os.path.exists(os.path.join(self.root, 'reports/qa-audit/retire/retire-t1.json.aborted')))
+        self.assertEqual(SR.source_errors(self.root), [])
+        self.assertTrue(self.apply([self.a['article_id']])['ok'])           # chạy lại cùng batch-id được
+
     def test_refusals(self):
         for kw, code in (({'approval': ''}, 'NO_APPROVAL'), ({'live': ' '}, 'NO_LIVE_EVIDENCE'),
                          ({'batch': '../x'}, 'BAD_BATCH_ID')):

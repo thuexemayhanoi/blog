@@ -230,23 +230,33 @@ def apply_batch(root, ids, approval_ref, live_ref, batch_id=None, dry_run=False)
     atomic_write(bpath, btext)
     if bpath.read_bytes() != btext:
         raise Refuse('BACKUP_READBACK', 'doc lai sao luu khong khop (chua sua gi)')
+    # Registry TRƯỚC, xóa trang sau: bị ngắt giữa chừng (kể cả SIGKILL) chỉ để lại dòng RETIRED còn trang khớp byte
+    # sao lưu — `rollback` xử lý được trạng thái đó (không có trạng thái "trang đã xóa mà registry vẫn MIGRATED").
     removed = []
     try:
+        atomic_write(reg_path, reg_new)
         for aid, e in sorted(entries.items()):
             (root / e['stub_path']).unlink()
             removed.append(aid)
-        atomic_write(reg_path, reg_new)
     except BaseException:
         for aid in removed:
             atomic_write(root / entries[aid]['stub_path'], entries[aid]['stub_text'].encode('utf-8'))
         atomic_write(reg_path, reg_old)
+        _abort_backup(bpath)
         raise
     problems = verify_backup(root, backup)
     if problems:
         rollback_backup(root, backup)
+        _abort_backup(bpath)
         raise Refuse('VERIFY_AFTER_APPLY', 'kiem lai sau khi ghi khong dat — da hoan tac', problems=problems[:10])
     out['ok'] = True
     return out
+
+
+def _abort_backup(bpath):
+    """Lô không thành: đổi tên sao lưu thành *.aborted (không còn là bằng chứng gỡ, cho phép chạy lại cùng batch-id)."""
+    if bpath.exists():
+        os.replace(bpath, bpath.with_name(bpath.name + '.aborted'))
 
 
 def check_backup_shape(backup):
@@ -295,20 +305,25 @@ def verify_backup(root, backup):
 
 
 def rollback_backup(root, backup, dry_run=False):
-    """Khôi phục trang chuyển hướng + status MIGRATED cho mục còn ĐÚNG bản đã ghi (không đè thay đổi sau đó)."""
+    """Khôi phục trang chuyển hướng + status MIGRATED cho mục còn ĐÚNG bản đã ghi (không đè thay đổi sau đó).
+    Chạy lại được sau khi bị ngắt: trang đã có và khớp byte sao lưu được coi là đã khôi phục (chỉ còn đổi status)."""
     check_backup_shape(backup)
     root = pathlib.Path(root)
     rows = [dict(r) for r in SR.load_registry(str(root))]
     by_id = {r['article_id']: r for r in rows}
-    out = {'restored': [], 'skipped_changed_since_apply': [], 'dry_run': dry_run}
+    out = {'restored': [], 'already_restored': [], 'skipped_changed_since_apply': [], 'dry_run': dry_run}
     for aid, e in sorted(backup['entries'].items()):
-        want = dict(e['registry_row'], status=SR.RETIRED)
         cur = by_id.get(aid)
-        same = cur is not None and all(cur.get(k, '') == want.get(k, '') for k in SR.REGISTRY_COLUMNS)
-        if not same or (root / e['stub_path']).exists():
+        stub = root / e['stub_path']
+        stub_ok = not stub.exists() or stub.read_bytes() == e['stub_text'].encode('utf-8')
+        same = {k: (cur or {}).get(k, '') for k in SR.REGISTRY_COLUMNS if k != 'status'} == \
+            {k: e['registry_row'].get(k, '') for k in SR.REGISTRY_COLUMNS if k != 'status'}
+        if cur is not None and same and cur.get('status') == SR.MIGRATED and stub.exists() and stub_ok:
+            out['already_restored'].append(aid)
+        elif cur is not None and same and cur.get('status') == SR.RETIRED and stub_ok:
+            out['restored'].append(aid)
+        else:
             out['skipped_changed_since_apply'].append(aid)
-            continue
-        out['restored'].append(aid)
     if dry_run or not out['restored']:
         return out
     for aid in out['restored']:
@@ -357,7 +372,11 @@ def main(argv=None):
             if bool(ids) == bool(a.all_eligible):
                 raise Refuse('NO_IDS', 'can dung MOT trong --ids A,B hoac --all-eligible')
             if a.all_eligible:
-                ids = make_plan(ROOT)['eligible']
+                eligible = make_plan(ROOT)['eligible']
+                ids = eligible[:MAX_BATCH]
+                if len(eligible) > MAX_BATCH:
+                    print('lo nay %d ID dau; con %d ID du dieu kien cho lo sau' % (MAX_BATCH, len(eligible) - MAX_BATCH),
+                          file=sys.stderr)
             print(json.dumps(apply_batch(ROOT, ids, a.approval_ref, a.live_ref, a.batch_id, a.dry_run),
                              ensure_ascii=False, indent=2))
             return 0

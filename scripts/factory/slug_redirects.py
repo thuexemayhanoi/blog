@@ -40,9 +40,11 @@ MIGRATED = 'MIGRATED'
 RETIRED = 'RETIRED'            # URL cũ đã gỡ: không còn trang chuyển hướng, URL cũ trả 404; bài vẫn ở URL mới
 STATUSES = (MIGRATED, RETIRED)
 AID_RE = re.compile(r'^BLG-\d{5,}\Z')
-# Thư mục KHÔNG dựng thành trang site (và redirects/ = chính các trang chuyển hướng): không quét liên kết trong đó.
+# Thư mục/tệp gốc KHÔNG dựng thành trang site (khớp `exclude:` của _config.yml; redirects/ = chính các trang chuyển hướng;
+# thư mục ẩn như .github): không quét liên kết trong đó — chỉ trang thật mới tạo liên kết 404.
 SOURCE_SKIP_DIRS = {'_site', '.git', '.jekyll-cache', '.sass-cache', 'node_modules', 'vendor', 'docs', 'reports', 'scripts', 'data',
-                    '_drafts', 'redirects', 'tests', 'bin', 'build_info', 'cache'}
+                    '_drafts', 'redirects', 'tests', 'bin', 'build_info', 'cache', 'en', 'gemfiles', '_queue'}
+SOURCE_SKIP_ROOT_FILES = {'AGENTS.md', 'README.md', 'THEME_UPGRADE_MATRIX.md'}
 SOURCE_EXT = ('.md', '.html', '.yml', '.yaml', '.json')
 SITE_URL = 'https://blog.thuexemaynguyentu.com'
 
@@ -147,10 +149,11 @@ def source_link_hits(urls, root=None, include_drafts=False):
     pat = re.compile('|'.join(re.escape(f) for f in sorted(forms, key=len, reverse=True)))
     hits = {}
     for dp, dns, fns in os.walk(root):
-        if os.path.relpath(dp, root) == '.':
-            dns[:] = [d for d in dns if d not in skip]
+        at_root = os.path.relpath(dp, root) == '.'
+        if at_root:
+            dns[:] = [d for d in dns if d not in skip and not d.startswith('.')]
         for fn in fns:
-            if not fn.endswith(SOURCE_EXT):
+            if not fn.endswith(SOURCE_EXT) or (at_root and fn in SOURCE_SKIP_ROOT_FILES):
                 continue
             path = os.path.join(dp, fn)
             try:

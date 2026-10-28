@@ -428,6 +428,12 @@ class RegistrySourceTest(unittest.TestCase):
         errs = SR.source_errors(root, self.rows)
         self.assertTrue(any('_posts/x.md: 2 liên kết tới URL cũ ĐÃ GỠ' in e for e in errs), errs)
         self.assertTrue(any('không thuộc' in e for e in self.errs(reg=[dict(self.e, status='GONE')])))
+        os.remove(os.path.join(root, '_posts', 'x.md'))                  # tệp KHÔNG dựng thành trang thì không tính
+        for rel in ('AGENTS.md', 'README.md', '.github/workflows/w.yml', 'en/p.md', '_queue/q.md'):
+            os.makedirs(os.path.dirname(os.path.join(root, rel)) or root, exist_ok=True)
+            with open(os.path.join(root, rel), 'w', encoding='utf-8') as f:
+                f.write('[a](%s)\n' % self.e['old_url'])
+        self.assertFalse(any('ĐÃ GỠ' in e for e in SR.source_errors(root, self.rows)))
 
     def test_baseline_tamper_detected(self):
         root = make_root(self.rows, [self.e])
@@ -587,6 +593,8 @@ class BuiltSiteCheckTest(unittest.TestCase):
                 f.write('[a](%s)\n' % self.e['old_url'])
             self.assertEqual(CHECK.main(['--from-source', '--root', root]), 1)          # nguồn còn liên kết tới URL đã gỡ
             self.assertEqual(CHECK.source_stub_links(root)['retired_links'], 1)
+            # --write-ratchet --allow-raise KHÔNG được cho qua lỗi liên kết tới URL đã gỡ (chỉ lỗi vượt ratchet)
+            self.assertEqual(CHECK.main(['--site', self.site, '--root', root, '--write-ratchet', '--allow-raise']), 1)
         finally:
             shutil.rmtree(root, True)
 

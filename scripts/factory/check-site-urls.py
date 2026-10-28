@@ -15,6 +15,7 @@ Chặn trước khi deploy:
 Mã thoát 0 = sạch, 1 = có lỗi, 2 = thiếu đầu vào.
 """
 import argparse
+import hashlib
 import json
 import os
 import re
@@ -30,7 +31,8 @@ PERMALINK_RE = re.compile(r'^permalink:\s*["\']?([^"\'\s]+)["\']?\s*$', re.M)
 SAFE_PERMALINK_RE = re.compile(r'^/[a-z0-9\-/]*(?:\.(?:html|xml|txt|json))?\Z')     # /404.html, /feed.xml...
 SAFE_PATH_RE = re.compile(r'^/[a-z0-9\-/._]*\Z')
 NON_ASCII_BASELINE_REL = 'reports/factory/seo-master/non-ascii-url-baseline.txt'
-NON_ASCII_BASELINE_MAX = 483          # số dòng lúc đóng băng (2026-10-27): danh sách chỉ được CO LẠI, thêm = đổi mã + review
+# sha256 GHIM của danh sách đóng băng (483 dòng, 2026-10-27): mọi thay đổi tệp (kể cả đổi/đổi chỗ một dòng) phải đổi mã + review
+NON_ASCII_BASELINE_SHA256 = '43b1894744fe1d5e064652c5e8120ab4c839626532c2d997252ffb51376bb3cd'
 # thư mục không dựng thành trang (khớp `exclude:` của _config.yml + thư mục hệ thống)
 SOURCE_SKIP_DIRS = {'_site', '.git', '.jekyll-cache', '.sass-cache', 'node_modules', 'vendor', 'docs', 'reports', 'scripts', 'data',
                     '_drafts', 'tests', 'bin', 'build_info', 'cache', '_layouts', '_includes', '_data', 'en', 'gemfiles', '_queue'}
@@ -90,9 +92,12 @@ def non_ascii_baseline(root):
 def check(site, root):
     errors = []
     frozen = non_ascii_baseline(root)
-    if len(frozen) > NON_ASCII_BASELINE_MAX:
-        errors.append('%s có %d dòng > %d lúc đóng băng — danh sách ngoại lệ chỉ được co lại'
-                      % (NON_ASCII_BASELINE_REL, len(frozen), NON_ASCII_BASELINE_MAX))
+    bp = os.path.join(root, NON_ASCII_BASELINE_REL)
+    if os.path.isfile(bp):
+        with open(bp, 'rb') as f:
+            if hashlib.sha256(f.read()).hexdigest() != NON_ASCII_BASELINE_SHA256:
+                errors.append('%s bị sửa (sha256 khác bản ghim) — danh sách ngoại lệ chỉ đổi được bằng đổi mã + review'
+                              % NON_ASCII_BASELINE_REL)
     perms = source_permalinks(root)
     for u, files in sorted(perms.items()):
         if len(files) > 1:

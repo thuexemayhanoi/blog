@@ -198,7 +198,7 @@ def check(site, root=None, max_stub_links=None):
         errors.append('... còn %d trang meta refresh lạ' % (len(unregistered) - 30))
     if retired_links:
         top = sorted(retired_links.items(), key=lambda kv: -kv[1])[:8]
-        errors.append('liên kết nội bộ tới URL cũ ĐÃ GỠ (404): %d (ngưỡng cứng 0) — nguồn đầu: %s'
+        errors.append('liên kết nội bộ tới URL cũ ĐÃ GỠ (404): %d (phải bằng 0, không ratchet) — nguồn đầu: %s'
                       % (sum(retired_links.values()), top))
     limit = max_stub_links
     if limit is None:
