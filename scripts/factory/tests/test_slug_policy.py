@@ -304,6 +304,14 @@ class LinkScanTest(unittest.TestCase):
                      '/a/b/c/a/b/c', '', '////', '/a/b/c/d/'):
             self.same(words, text)
 
+    def test_long_and_deeply_nested_strings_do_not_raise(self):
+        import random
+        rnd = random.Random(5)
+        long_words = {''.join(rnd.choice('/ab-') for _ in range(rnd.randint(300, 2000))) for _ in range(20)}
+        self.same(long_words, ''.join(sorted(long_words)[:5]))
+        nested = {'/' + 'a' * n for n in range(1, 1500)}                  # mỗi ký tự là một điểm kết thúc: lồng ~1.500 tầng
+        self.same(nested, '/' + 'a' * 1600 + ' /aa/ /a')
+
     def test_rejects_empty_input(self):
         for bad in (set(), {''}, {'/a/', ''}):
             with self.assertRaises(ValueError):

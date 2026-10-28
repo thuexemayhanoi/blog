@@ -146,15 +146,22 @@ def literal_union_regex(strings):
         node[''] = {}                               # '' = có chuỗi kết thúc tại nút này (ký tự thật luôn dài 1)
 
     def build(node):
+        head = []
+        while '' not in node and len(node) == 1:         # chuỗi một nhánh: nối thẳng, chỉ đệ quy ở điểm rẽ/kết thúc
+            (ch, node), = node.items()
+            head.append(re.escape(ch))
         alts = [re.escape(ch) + build(child) for ch, child in sorted(node.items()) if ch]
         if not alts:
-            return ''
+            return ''.join(head)
         body = alts[0] if len(alts) == 1 else '(?:%s)' % '|'.join(alts)
-        return '(?:%s)?' % body if '' in node else body
+        return ''.join(head) + ('(?:%s)?' % body if '' in node else body)
 
     if not trie or '' in trie:
         raise ValueError('literal_union_regex cần tập chuỗi khác rỗng, không chứa chuỗi rỗng')
-    return re.compile(build(trie))
+    try:
+        return re.compile(build(trie))
+    except RecursionError:                               # trie lồng quá sâu (chuỗi dài bất thường): alternation phẳng, cùng kết quả
+        return re.compile('|'.join(re.escape(s) for s in sorted(strings, key=len, reverse=True)))
 
 
 def source_link_hits(urls, root=None, include_drafts=False):
