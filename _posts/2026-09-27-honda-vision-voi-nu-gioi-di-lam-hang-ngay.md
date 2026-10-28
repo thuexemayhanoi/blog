@@ -7,7 +7,7 @@ description: "Phân tích honda vision cho nữ đi làm ở Hà Nội: độ ca
 categories: [Kinh nghiệm]
 lang: vi
 tags: [honda vision cho nữ, vision đi làm, thuê honda vision, xe ga cho nữ]
-permalink: /xe-may/2026/09/27/honda-vision-voi-nu-gioi-i-lam-hang-ngay/
+permalink: /xe-may/2026/09/27/honda-vision-voi-nu-gioi-di-lam-hang-ngay/
 parent_id: P-XE-MAY
 child_id: C-HONDA-VISION
 article_id: BLG-00593

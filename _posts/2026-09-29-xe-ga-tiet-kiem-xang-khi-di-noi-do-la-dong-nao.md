@@ -7,7 +7,7 @@ description: "Tìm dòng xe ga tiết kiệm xăng nội đô khi đi phố: ưu
 categories: [Thuê xe]
 lang: vi
 tags: [xe-ga, tiet-kiem-xang, thue-xe]
-permalink: /xe-may/2026/09/29/xe-ga-tiet-kiem-xang-khi-i-noi-o-la-dong-nao/
+permalink: /xe-may/2026/09/29/xe-ga-tiet-kiem-xang-khi-di-noi-do-la-dong-nao/
 parent_id: P-XE-MAY
 child_id: C-XE-LUA-CHON
 article_id: BLG-00920

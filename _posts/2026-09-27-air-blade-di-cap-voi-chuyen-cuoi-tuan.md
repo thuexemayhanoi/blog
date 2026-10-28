@@ -7,7 +7,7 @@ description: "Air Blade cuối tuần là lựa chọn cho cung đường ngắn
 categories: [Kinh nghiệm]
 lang: vi
 tags: [air blade cuối tuần, air blade đường trường, thuê honda air blade, cung đường hà nội]
-permalink: /xe-may/2026/09/27/air-blade-i-cap-voi-chuyen-cuoi-tuan/
+permalink: /xe-may/2026/09/27/air-blade-di-cap-voi-chuyen-cuoi-tuan/
 parent_id: P-XE-MAY
 child_id: C-HONDA-AIR-BLADE
 article_id: BLG-00598

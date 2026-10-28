@@ -7,7 +7,7 @@ description: "Thủ tục thuê xe máy Hà Nội cho người lần đầu: cá
 categories: [Kinh nghiệm]
 lang: vi
 tags: [thủ tục thuê xe máy hà nội, các bước thuê xe, quy trình thuê xe]
-permalink: /thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au/
+permalink: /thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-dau/
 parent_id: P-THUE-XE
 child_id: C-THUE-THU-TUC
 article_id: BLG-00499
