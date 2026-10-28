@@ -48,7 +48,7 @@ Cách chia đồ hợp lý:
 3. **Đồ nặng đặt thấp và gần giữa xe.** Thùng nước để sàn để chân, không treo lủng lẳng hai bên tay lái.
 4. **Không để đồ che đèn hậu, biển số hay xi nhan.** Đây là điều kiện bắt buộc để xe sau nhìn thấy bạn.
 
-Nếu phải buộc thùng lên yên sau, xem lại nguyên tắc trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/). Mỗi sáng kiểm tra lại dây buộc trước khi lên đường.
+Nếu phải buộc thùng lên yên sau, xem lại nguyên tắc trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/). Mỗi sáng kiểm tra lại dây buộc trước khi lên đường.
 
 ## Chạy xe máy sau đoàn xe đạp: giữ khoảng cách và cảnh báo
 

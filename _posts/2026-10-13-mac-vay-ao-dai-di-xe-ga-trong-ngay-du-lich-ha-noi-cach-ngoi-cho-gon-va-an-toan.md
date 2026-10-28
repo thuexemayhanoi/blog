@@ -43,7 +43,7 @@ Dừng ở điểm chụp, tắt máy và dựng chân chống giữa nếu nề
 
 Khi được chở, ngồi dạng hai chân hai bên luôn an toàn hơn ngồi nghiêng, vì trọng tâm cân, hai chân đặt được lên gác chân sau và người ngồi bám được bằng cả hai tay. Váy chạm gối ngồi dạng vẫn kín nếu kéo tà sau xuống dưới mông trước khi ngồi. Ngồi nghiêng một bên chỉ nên dùng khi váy quá bó hoặc đoạn đường rất ngắn trong phố, tốc độ chậm, và phải báo người lái đi đều, không phanh gấp, không vào cua nhanh. Không ngồi nghiêng khi qua các cầu lớn như Chương Dương, Nhật Tân, nơi gió ngang mạnh và xe tải chạy sát.
 
-Người ngồi sau mặc váy nên có một lớp quần ôm bên trong, bám vào tay nắm sau hoặc hông người lái, không bám vai vì khi phanh sẽ kéo người lái ngả về sau. Về chỗ ngồi và cốp cho hai người trên xe ga nhỏ, bài [Honda Click chở hai người đi phố: yên và cốp](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-i-pho-yen-va-cop/ "Honda Click chở hai người") đã nói kỹ.
+Người ngồi sau mặc váy nên có một lớp quần ôm bên trong, bám vào tay nắm sau hoặc hông người lái, không bám vai vì khi phanh sẽ kéo người lái ngả về sau. Về chỗ ngồi và cốp cho hai người trên xe ga nhỏ, bài [Honda Click chở hai người đi phố: yên và cốp](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-di-pho-yen-va-cop/ "Honda Click chở hai người") đã nói kỹ.
 
 ## Giày dép và đồ nhỏ nên mang theo
 

@@ -77,7 +77,7 @@ Bài không biết tiệm có hỗ trợ tìm xe hay không; đó là điều x�
 
 Khi vừa đỗ, hãy ghim vị trí trên bản đồ, chụp biển tên phố hoặc biển hiệu gần nhất và chụp một ảnh xe cùng nền phía sau. Nếu gửi bãi, hãy chụp vé. Bài [đi bộ vào khu ngõ chằng chịt rồi quay lại tìm xe: ghim vị trí trên bản đồ, chụp mốc đầu ngõ và biển tên ngõ](/ky-nang/2026/10/15/di-bo-vao-khu-ngo-chang-chit-roi-quay-lai-tim-xe-ghim-vi-tri-tren-ban-do-chup-mo/) nói cách làm.
 
-Bài [gửi xe máy qua đêm ở Hà Nội: chọn bãi và lưu ý](/ky-nang/2026/10/04/gui-xe-may-qua-em-o-ha-noi-chon-bai-va-luu-y/) nói thêm về việc chọn chỗ gửi.
+Bài [gửi xe máy qua đêm ở Hà Nội: chọn bãi và lưu ý](/ky-nang/2026/10/04/gui-xe-may-qua-dem-o-ha-noi-chon-bai-va-luu-y/) nói thêm về việc chọn chỗ gửi.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 

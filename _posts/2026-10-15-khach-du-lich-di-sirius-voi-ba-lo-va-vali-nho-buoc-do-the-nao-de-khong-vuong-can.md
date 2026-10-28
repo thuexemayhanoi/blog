@@ -53,7 +53,7 @@ Vali cỡ cabin, túi trống, túi vải là những thứ phải buộc. Trên
 3. **Kiểm tra móc không treo vào dây phanh, dây công tơ mét hay đèn hậu.**
 4. **Lắc thử vali bằng tay.** Nếu vali xê dịch quá một đốt ngón tay, siết thêm một vòng.
 
-Túi mềm buộc theo cùng nguyên tắc, dồn đồ cho túi tròn đều. Bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/) có phân tích chi tiết hơn chuyện cân trọng tâm.
+Túi mềm buộc theo cùng nguyên tắc, dồn đồ cho túi tròn đều. Bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/) có phân tích chi tiết hơn chuyện cân trọng tâm.
 
 ## Giữ hai chân thoáng: cần số bên trái, phanh chân bên phải
 

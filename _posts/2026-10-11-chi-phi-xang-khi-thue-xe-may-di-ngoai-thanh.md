@@ -44,7 +44,7 @@ Trên tuyến ngoại thành, kế hoạch đổ xăng cũng đáng tính trư�
 
 ## Trọng tổng chi phí chuyến đi
 
-Xăng chỉ có ý nghĩa khi đặt cạnh các khoản khác. Một chuyến ngoại thành trọn vẹn gồm giá thuê ngày, xăng dự tính, phí gửi xe tại điểm đến nếu có, ăn uống dọc đường và phần dự phòng sự cố. Cách tính này đã được trình bày trong bài [dự toán chi phí thuê xe máy cho chuyến ba ngày hai đêm](/thue-xe/2026/09/27/du-toan-chi-phi-thue-xe-may-cho-chuyen-3-ngay-2-em/), bạn có thể áp dụng khung tương tự cho chuyến ngoại thành một ngày với các con số nhỏ hơn.
+Xăng chỉ có ý nghĩa khi đặt cạnh các khoản khác. Một chuyến ngoại thành trọn vẹn gồm giá thuê ngày, xăng dự tính, phí gửi xe tại điểm đến nếu có, ăn uống dọc đường và phần dự phòng sự cố. Cách tính này đã được trình bày trong bài [dự toán chi phí thuê xe máy cho chuyến ba ngày hai đêm](/thue-xe/2026/09/27/du-toan-chi-phi-thue-xe-may-cho-chuyen-3-ngay-2-dem/), bạn có thể áp dụng khung tương tự cho chuyến ngoại thành một ngày với các con số nhỏ hơn.
 
 Một lưu ý nữa là nhiều khách so sánh chi phí xăng giữa cửa hàng cho thuê mà quên rằng giá niêm yết xăng như nhau khắp nơi, khác biệt nằm ở loại xe được giao. Cùng báo giá ngày, cửa hàng giao xe bảo dưỡng tốt cho bạn phần xăng rẻ hơn trọn chuyến, là lý do nên đọc [cách so sánh báo giá thuê xe giữa các cửa hàng](/thue-xe/2026/09/27/cach-so-sanh-bao-gia-thue-xe-giua-cac-cua-hang/) kỹ trước khi chốt.
 

@@ -15,7 +15,7 @@ writer: W2
 writer_session: s-claude-w2
 ---
 
-Bạn đang thuê Air Blade dài ngày ở Hà Nội, có người bạn hay người thân sắp bay ra, và bạn muốn tự đi đón. Đón sân bay Nội Bài bằng xe máy hoàn toàn làm được, nhưng chỉ hợp khi người đến đi gọn nhẹ và thời tiết thuận lợi. Bài này giúp bạn quyết định nên hay không nên chạy xe ra đón, xử lý chuyện vali, ba lô thế nào cho an toàn, và đi đường nào cho đúng làn dành cho xe máy. Phần lộ trình chung từ nội thành ra sân bay đã có ở bài [đi sân bay Nội Bài: nên thuê xe máy từ đâu và lúc nào](/thue-xe/2026/09/29/i-san-bay-noi-bai-nen-thue-xe-may-tu-au-va-luc-nao/), ở đây ta tập trung vào chuyến đón người bằng chiếc Air Blade.
+Bạn đang thuê Air Blade dài ngày ở Hà Nội, có người bạn hay người thân sắp bay ra, và bạn muốn tự đi đón. Đón sân bay Nội Bài bằng xe máy hoàn toàn làm được, nhưng chỉ hợp khi người đến đi gọn nhẹ và thời tiết thuận lợi. Bài này giúp bạn quyết định nên hay không nên chạy xe ra đón, xử lý chuyện vali, ba lô thế nào cho an toàn, và đi đường nào cho đúng làn dành cho xe máy. Phần lộ trình chung từ nội thành ra sân bay đã có ở bài [đi sân bay Nội Bài: nên thuê xe máy từ đâu và lúc nào](/thue-xe/2026/09/29/di-san-bay-noi-bai-nen-thue-xe-may-tu-dau-va-luc-nao/), ở đây ta tập trung vào chuyến đón người bằng chiếc Air Blade.
 
 ## Đón sân bay Nội Bài bằng xe máy: khi nào nên, khi nào không
 
@@ -68,7 +68,7 @@ Trên đường ra, mũ thứ hai cho vào cốp nếu vừa, hoặc buộc ch�
 
 Từ nội thành, hướng thuận tiện là qua cầu Nhật Tân rồi theo đường Võ Nguyên Giáp ra sân bay. Cầu Nhật Tân cho xe máy đi, và trên trục Võ Nguyên Giáp, xe máy đi làn dành cho xe máy bên phải theo vạch kẻ và biển báo. Đừng lấn sang làn ô tô, ngay cả khi đang vội vì máy bay đã hạ cánh.
 
-Chiều về có người ngồi sau, hãy chạy chậm hơn chiều đi một chút. Người ngồi sau còn mệt, ba lô trên lưng làm họ dễ ngả người khi bạn tăng ga. Giữ ga đều, phanh sớm và nhẹ, nhắc họ ngồi sát, hai chân đặt trên gác chân. Muốn đọc kỹ hơn về trục đường này, xem bài [chạy xe dọc đường Võ Nguyên Giáp](/cung-duong/2026/10/04/chay-xe-doc-uong-vo-nguyen-giap-ven-song-hong-buoi-sang/).
+Chiều về có người ngồi sau, hãy chạy chậm hơn chiều đi một chút. Người ngồi sau còn mệt, ba lô trên lưng làm họ dễ ngả người khi bạn tăng ga. Giữ ga đều, phanh sớm và nhẹ, nhắc họ ngồi sát, hai chân đặt trên gác chân. Muốn đọc kỹ hơn về trục đường này, xem bài [chạy xe dọc đường Võ Nguyên Giáp](/cung-duong/2026/10/04/chay-xe-doc-duong-vo-nguyen-giap-ven-song-hong-buoi-sang/).
 
 ## Tới sân bay: gửi xe, giữ vé, hẹn chỗ gặp
 

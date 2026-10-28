@@ -38,11 +38,11 @@ Với người đi làm, thuê theo tháng thường hợp hơn tính theo ngày
 
 Tiền đặt cọc cần xác nhận trực tiếp với chủ xe, vì mức cọc tùy dòng xe đời xe và cách thuê. Khi nhận xe nên hỏi rõ cọc đặt bằng tiền mặt hay chuyển khoản, và khi trả xe cọc được hoàn theo cách nào, mất bao lâu, để tránh hiểu lầm sau này.
 
-Ngoài tiền thuê, chi phí xăng thường do người thuê tự trả; Air Blade là xe ga nên ăn xăng vừa phải khi chạy phố, và tiết kiệm hơn khi chạy đều trên đường lớn. Người đi làm nên tính thêm phần xăng mỗi tháng để so sánh với phương án khác như xe điện, tương tự cách đã phân tích trong bài [thuê Honda Air Blade chạy đường trường có đáng không](/xe-may/2026/09/27/thue-honda-air-blade-chay-uong-truong-co-ang-khong/) cho tuyến dài.
+Ngoài tiền thuê, chi phí xăng thường do người thuê tự trả; Air Blade là xe ga nên ăn xăng vừa phải khi chạy phố, và tiết kiệm hơn khi chạy đều trên đường lớn. Người đi làm nên tính thêm phần xăng mỗi tháng để so sánh với phương án khác như xe điện, tương tự cách đã phân tích trong bài [thuê Honda Air Blade chạy đường trường có đáng không](/xe-may/2026/09/27/thue-honda-air-blade-chay-duong-truong-co-dang-khong/) cho tuyến dài.
 
 ## Kiểm tra xe trước khi nhận và trước khi trả
 
-Dù đi làm hằng ngày thì xe thuê cũng cần kiểm tra kỹ ở hai thời điểm: khi nhận và khi trả. Khi nhận, xem lốp hai bên có bị mòn lệch không, thử phanh trước sau, bật đèn xem đủ sáng không, xem vết xước cũ có được ghi lại trong biên bản không để tránh khi trả phải gánh vết xước không phải do mình. Kiểm tra nhớt bằng que thăm nếu xe chạy máy; đời máy khỏe nhưng vẫn cần nhớt đúng hạn, chi tiết về kỳ thay đã tách trong bài [dầu máy xe máy đổi sau bao lâu](/xe-may/2026/09/27/dau-may-xe-may-oi-sau-bao-lau/).
+Dù đi làm hằng ngày thì xe thuê cũng cần kiểm tra kỹ ở hai thời điểm: khi nhận và khi trả. Khi nhận, xem lốp hai bên có bị mòn lệch không, thử phanh trước sau, bật đèn xem đủ sáng không, xem vết xước cũ có được ghi lại trong biên bản không để tránh khi trả phải gánh vết xước không phải do mình. Kiểm tra nhớt bằng que thăm nếu xe chạy máy; đời máy khỏe nhưng vẫn cần nhớt đúng hạn, chi tiết về kỳ thay đã tách trong bài [dầu máy xe máy đổi sau bao lâu](/xe-may/2026/09/27/dau-may-xe-may-doi-sau-bao-lau/).
 
 Khi trả xe, chụp lại đồng hồ công tơ mét và tình trạng xe, xác nhận lại với chủ xe về cọc. Những việc nhỏ này mất vài phút nhưng giúp hợp đồng thuê suôn sẻ suốt cả tháng.
 

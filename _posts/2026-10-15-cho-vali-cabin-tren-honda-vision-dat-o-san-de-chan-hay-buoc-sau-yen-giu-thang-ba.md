@@ -56,7 +56,7 @@ Các bước buộc:
 - **Quấn ít nhất hai đường dây chéo nhau** để vali không trượt sang trái phải lẫn ra phía sau.
 - **Lắc thử thật mạnh.** Vali phải chuyển động cùng xe, không xê dịch riêng.
 
-Điều hay bị quên: vali nằm sau yên dễ chồm xuống che **đèn hậu và biển số**. Đứng phía sau xe nhìn lại một lượt; nếu thấy vali hay đầu dây lủng lẳng che mất đèn hoặc chữ số trên biển, phải buộc lại. Tránh để dây thừa thòng xuống gần bánh sau. Nguyên tắc chung về cân lệch hai bên có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+Điều hay bị quên: vali nằm sau yên dễ chồm xuống che **đèn hậu và biển số**. Đứng phía sau xe nhìn lại một lượt; nếu thấy vali hay đầu dây lủng lẳng che mất đèn hoặc chữ số trên biển, phải buộc lại. Tránh để dây thừa thòng xuống gần bánh sau. Nguyên tắc chung về cân lệch hai bên có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 
 Khi đã buộc vali sau yên, lên xuống xe phải vòng chân qua phía trước hoặc nghiêng xe nhẹ, đừng vung chân qua yên sau như bình thường.
 

@@ -32,7 +32,7 @@ Hỏi sớm mang lại ba lợi ích rõ rệt. Một là khách được chọn
 
 Nếu kỳ nghỉ lễ kéo dài và khách ở lại Hà Nội nhiều ngày, thuê theo tuần thường có lợi hơn cộng dồn từng ngày. Với dòng xe 150.000 đồng mỗi ngày, bảy ngày lẻ cộng lại 1.050.000 đồng, trong khi gói tuần của nhóm xe số và ga phổ thông là 700.000 đồng. Với nhóm xe 200.000 đồng mỗi ngày, bảy ngày lẻ cộng lại cao hơn hẳn, còn gói tuần của Honda Vision và Honda Air Blade là 1.000.000 đồng.
 
-Con số cụ thể luôn cần xác nhận lại với cửa hàng, vì khung giá tuần có thể điều chỉnh theo tình trạng xe và thời điểm. Cách hỏi hiệu quả là đọc trước [bảng giá](/bang-gia/), chọn sẵn hai dòng xe dự phòng, rồi hỏi giá tuần thực tế của từng dòng trong kỳ lễ. Khách cũng có thể tham khảo thêm cách tính chi phí cho các kỳ ngắn hơn trong mục [hỏi đáp](/hoi-dap/), ví dụ bài viết về [chi phí thuê xe máy hai ngày cuối tuần](/thue-xe/2026/10/04/chi-phi-thue-xe-may-hai-ngay-cuoi-tuan-tinh-the-nao-cho-u/).
+Con số cụ thể luôn cần xác nhận lại với cửa hàng, vì khung giá tuần có thể điều chỉnh theo tình trạng xe và thời điểm. Cách hỏi hiệu quả là đọc trước [bảng giá](/bang-gia/), chọn sẵn hai dòng xe dự phòng, rồi hỏi giá tuần thực tế của từng dòng trong kỳ lễ. Khách cũng có thể tham khảo thêm cách tính chi phí cho các kỳ ngắn hơn trong mục [hỏi đáp](/hoi-dap/), ví dụ bài viết về [chi phí thuê xe máy hai ngày cuối tuần](/thue-xe/2026/10/04/chi-phi-thue-xe-may-hai-ngay-cuoi-tuan-tinh-the-nao-cho-du/).
 
 ## Giữ được xe giá tốt cho kỳ nghỉ lễ
 

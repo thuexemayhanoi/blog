@@ -58,7 +58,7 @@ Chở hai người thì khoảng trống phía sau rất hẹp. Cách thường 
 - **Không có dây lủng lẳng.** Đầu dây thừa quấn gọn để không cuốn vào bánh sau.
 - **Lắc thử.** Cầm túi lắc mạnh sang hai bên; túi không được xê dịch.
 
-Cách buộc gọn và cân hai bên có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+Cách buộc gọn và cân hai bên có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 
 ## Trên đường: lái khác đi khi xe chở nặng
 

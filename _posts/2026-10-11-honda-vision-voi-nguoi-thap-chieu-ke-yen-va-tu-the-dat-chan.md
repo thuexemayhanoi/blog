@@ -36,7 +36,7 @@ Bàn đạp chân của người thấp cũng đáng để ý: chân ngắn nên
 
 ## Đồ đựng và chỗ để chân gọn
 
-Người thấp thường cần kéo yên thấp, nên mọi thứ nặng nên cất hết trong khoang thay vì treo phía trước. Khoang để xe của Vision thuộc nhóm rộng trong dòng ga, cách sắp đồ đã được tóm trong bài [khoang để của Honda Vision chứa được gì](/xe-may/2026/09/27/khoang-o-cua-honda-vision-chua-uoc-gi/). Nếu đồ cồng kềnh hơn, một số khách chuyển sang dòng xe ga có khoang dưới yên sâu hơn, tham khảo thêm trong bài [khoang để ở dưới yên xe ga chứa được gì](/xe-may/2026/09/27/khoang-de-do-duoi-yen-xe-ga-cho-duoc-gi/) trước khi chọn xe.
+Người thấp thường cần kéo yên thấp, nên mọi thứ nặng nên cất hết trong khoang thay vì treo phía trước. Khoang để xe của Vision thuộc nhóm rộng trong dòng ga, cách sắp đồ đã được tóm trong bài [khoang để của Honda Vision chứa được gì](/xe-may/2026/09/27/khoang-do-cua-honda-vision-chua-duoc-gi/). Nếu đồ cồng kềnh hơn, một số khách chuyển sang dòng xe ga có khoang dưới yên sâu hơn, tham khảo thêm trong bài [khoang để ở dưới yên xe ga chứa được gì](/xe-may/2026/09/27/khoang-de-do-duoi-yen-xe-ga-cho-duoc-gi/) trước khi chọn xe.
 
 Khi khoang đã đầy, đồ nhẹ nên buộc phía sau thân xe thay vì treo trước cổ, vừa giữ tay lái nhẹ, vừa không che phần máy cần tản nhiệt. Tuyệt đối tránh treo đồ nặng trước cổ xe: người thấp điều khiển bằng phần trên thân vốn đã cần giữ thẳng, và một túi nặng kéo về trước sẽ đè tay lái, càng khó giữ xe ngay lúc dừng.
 

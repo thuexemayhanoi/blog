@@ -21,7 +21,7 @@ Một nhóm bạn hay một cặp đôi muốn đi Sóc Sơn bằng Air Blade th
 
 Sóc Sơn nằm ở phía bắc Hà Nội, quanh khu sân bay Nội Bài, đường đi gồm ba kiểu mặt đường khá khác nhau: phố nội thành, trục đường rộng về phía sân bay, rồi đường làng và đường đồi quanh hồ. Một chiếc xe ga phổ thông dáng nhỏ chạy phố rất êm, nhưng tới đoạn trục rộng gió thổi ngang hoặc lên dốc có người ngồi sau thì hay thấy hụt hơi.
 
-Air Blade có lợi thế ở chỗ thân xe chắc, tư thế ngồi hơi chồm về trước, máy khỏe hơn nhóm xe ga nhỏ nên giữ tốc độ đều khi chở hai người. Nếu bạn còn phân vân giữa các dòng xe cho kiểu chuyến này, bài [Air Blade đi cặp với chuyến cuối tuần](/xe-may/2026/09/27/air-blade-i-cap-voi-chuyen-cuoi-tuan/) so sánh kỹ hơn.
+Air Blade có lợi thế ở chỗ thân xe chắc, tư thế ngồi hơi chồm về trước, máy khỏe hơn nhóm xe ga nhỏ nên giữ tốc độ đều khi chở hai người. Nếu bạn còn phân vân giữa các dòng xe cho kiểu chuyến này, bài [Air Blade đi cặp với chuyến cuối tuần](/xe-may/2026/09/27/air-blade-di-cap-voi-chuyen-cuoi-tuan/) so sánh kỹ hơn.
 
 Trước khi rời tiệm ở Bồ Đề, Long Biên, hãy kiểm tra cùng nhân viên:
 
@@ -42,7 +42,7 @@ Với Air Blade, vài thói quen giúp đoạn này nhàn hơn:
 - **Hai tay thả lỏng**, khuỷu tay hơi chùng, để luồng gió từ xe khách vượt bên cạnh không làm xe lắc mạnh.
 - **Nhìn xa và đọc biển sớm** ở các nút giao, vì lối rẽ cho xe máy thường tách ra trước, lỡ thì phải đi tiếp một đoạn mới quay lại được.
 
-Ai muốn chuẩn bị thêm về đoạn trục này có thể đọc bài [chạy xe dọc đường Võ Nguyên Giáp](/cung-duong/2026/10/04/chay-xe-doc-uong-vo-nguyen-giap-ven-song-hong-buoi-sang/).
+Ai muốn chuẩn bị thêm về đoạn trục này có thể đọc bài [chạy xe dọc đường Võ Nguyên Giáp](/cung-duong/2026/10/04/chay-xe-doc-duong-vo-nguyen-giap-ven-song-hong-buoi-sang/).
 
 ## Rẽ vào đường làng hẹp: chậm lại trước khi phải phanh
 

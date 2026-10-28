@@ -92,7 +92,7 @@ Kiểm xe xong, đối chiếu bảng chỉ mất một lúc. Không ai phải n
 
 - Đến trong giờ mở cửa 09:00 đến 21:00 và tránh giờ tan tầm buổi chiều trên đường Nguyễn Văn Cừ.
 - Gọi trước 0942 467 674 nếu định trả sớm hoặc muộn hơn mốc, để cửa hàng báo cách tính trước khi bạn tới.
-- Quen cách đọc giá kiểu "150k" hay "1tr8" để không nghe nhầm, xem bài [đọc giá thuê xe máy bằng tiếng Việt](/thue-xe/2026/10/11/oc-gia-thue-xe-may-bang-tieng-viet-150k-1tr8-mot-tram-ruoi-la-bao-nhieu/).
+- Quen cách đọc giá kiểu "150k" hay "1tr8" để không nghe nhầm, xem bài [đọc giá thuê xe máy bằng tiếng Việt](/thue-xe/2026/10/11/doc-gia-thue-xe-may-bang-tieng-viet-150k-1tr8-mot-tram-ruoi-la-bao-nhieu/).
 - Xin tin nhắn hoặc biên nhận xác nhận đã thanh toán đủ và đã hoàn cọc, giữ lại vài tuần.
 
 ## Khi con số chưa khớp

@@ -43,7 +43,7 @@ Hai quy tắc dưới đây dùng cùng nhau sẽ hiệu quả hơn dùng riêng
 
 **Theo quãng đường.** Trước khi xuất phát, hãy nhẩm điểm đến, điểm quay về, rồi cộng thêm một đoạn dư cho lúc đi lạc, vòng đường vì cấm rẽ hoặc kẹt xe. Nếu tổng quãng đường lớn so với lượng xăng đang có, đổ ngay trước khi rời khu trung tâm, đừng trông chờ vào một cây xăng nào đó ngoại thành. Chuyến chỉ loanh quanh phố cổ và Tây Hồ thì cứ kim còn nửa bình là đổ thoải mái; chuyến ra xa thì nên đổ đầy bình trước khi đi.
 
-Mỗi lần dừng nghỉ lâu, như ăn trưa hay uống cà phê, hãy liếc kim một lượt; kim dưới nửa thì đổ luôn. Nếu bạn dùng xe ga cho việc đi làm hằng ngày, bài về [chuyện đi làm mỗi ngày tốn xăng ra sao](/xe-may/2026/10/07/honda-vision-thue-i-lam-hang-ngay-co-ton-xang-khong/) bàn kỹ hơn về nhịp đổ xăng theo tuần.
+Mỗi lần dừng nghỉ lâu, như ăn trưa hay uống cà phê, hãy liếc kim một lượt; kim dưới nửa thì đổ luôn. Nếu bạn dùng xe ga cho việc đi làm hằng ngày, bài về [chuyện đi làm mỗi ngày tốn xăng ra sao](/xe-may/2026/10/07/honda-vision-thue-di-lam-hang-ngay-co-ton-xang-khong/) bàn kỹ hơn về nhịp đổ xăng theo tuần.
 
 ## Những đoạn đường ở Hà Nội dễ cạn xăng
 

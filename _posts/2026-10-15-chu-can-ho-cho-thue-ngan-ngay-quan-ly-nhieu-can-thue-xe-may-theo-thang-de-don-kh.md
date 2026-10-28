@@ -47,7 +47,7 @@ Cách giữ lịch đều đặn qua nhiều điểm trong ngày cũng được 
 - Gấp đồ vải sạch theo từng bộ cho một căn, cho vào túi kéo khóa có quai. Mỗi căn một túi, khỏi phải lục tìm ở sảnh.
 - Đồ bẩn để túi riêng, khác màu với túi đồ sạch, tránh nhầm lẫn khi mang về.
 - Túi đặt ở sàn để chân xe ga, kẹp giữa hai chân. Túi thứ hai buộc trên yên sau bằng dây chun có móc, đè chéo hai lượt.
-- Không chất túi cao quá lưng người lái, không để túi chìa ra hai bên làm xe khó lách. Cách buộc cho xe không lệch có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+- Không chất túi cao quá lưng người lái, không để túi chìa ra hai bên làm xe khó lách. Cách buộc cho xe không lệch có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 
 ### Bộ dụng cụ sửa vặt
 

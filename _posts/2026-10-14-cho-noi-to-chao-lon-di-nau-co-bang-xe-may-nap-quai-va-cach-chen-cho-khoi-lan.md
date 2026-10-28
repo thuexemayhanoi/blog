@@ -51,7 +51,7 @@ Với nồi bánh chưng cao thành, đừng cố lồng thêm nồi khác vào 
 Thân nồi tròn, nên chỗ đặt phải có điểm tựa ở nhiều phía. Thứ tự ưu tiên từ tốt tới kém:
 
 1. **Sàn để chân xe ga**, với nồi vừa và nhỏ. Đặt nồi đứng, miệng hướng lên, lưng nồi tựa vào yếm xe, hai bàn chân kẹp hai bên. Chèn khăn vào khe giữa nồi và yếm để nồi không xoay.
-2. **Giá sau, nồi úp ngược.** Úp nồi xuống để mặt đáy phẳng nằm trên giá, miệng nồi ôm lấy yên sau. Ở tư thế này nồi rất khó lăn. Hai sợi dây chun bắt chéo qua đáy nồi, móc vào hai bên giá. Cách buộc chi tiết theo nguyên tắc trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+2. **Giá sau, nồi úp ngược.** Úp nồi xuống để mặt đáy phẳng nằm trên giá, miệng nồi ôm lấy yên sau. Ở tư thế này nồi rất khó lăn. Hai sợi dây chun bắt chéo qua đáy nồi, móc vào hai bên giá. Cách buộc chi tiết theo nguyên tắc trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 3. **Người ngồi sau ôm.** Hợp với chảo lớn và nồi cao. Người sau ôm nồi trước bụng, tay giữ ở quai đã bọc, không giơ cao che tầm nhìn gương.
 
 Với chảo rộng bản, đặt chảo áp sát lưng người ngồi sau hoặc buộc nằm phẳng trên giá, mặt lõm úp xuống. Đừng để chảo dựng đứng bên hông xe, gió ngang trên những đoạn đê thoáng như đường đê Hồng Hà sẽ quật chảo như một tấm biển.

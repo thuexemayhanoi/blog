@@ -67,7 +67,7 @@ Dây chằng bản rộng có móc hai đầu, loại cao su bọc vải hay dâ
 - **Móc dây vào điểm cứng của khung.** Móc vào giá sau, tay dắt hoặc khung xe, không móc vào ốp nhựa hay ống xả.
 - **Kiểm lại sau vài trăm mét.** Bao mềm lún xuống sau những cú xóc đầu, thấy lỏng thì kéo căng lại.
 
-Bao đất và phân bón thường bị rỉ bụi ở miệng buộc. Trùm thêm túi ni lông lớn bên ngoài để giữ sạch yên và che mưa. Cách che chắn hàng khi trời đổ mưa có trong bài [che mưa cho hàng hóa trên xe máy](/ky-nang/2026/10/04/cho-bat-che-mua-cho-hang-hoa-tren-xe-may/). Nguyên tắc chung về dây buộc trên yên sau cũng được tổng hợp trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+Bao đất và phân bón thường bị rỉ bụi ở miệng buộc. Trùm thêm túi ni lông lớn bên ngoài để giữ sạch yên và che mưa. Cách che chắn hàng khi trời đổ mưa có trong bài [che mưa cho hàng hóa trên xe máy](/ky-nang/2026/10/04/cho-bat-che-mua-cho-hang-hoa-tren-xe-may/). Nguyên tắc chung về dây buộc trên yên sau cũng được tổng hợp trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 
 ## Chạy xe với bao nặng phía sau
 

@@ -61,7 +61,7 @@ Nếu bạn chở thêm người, để họ ngồi lên cả hai xe. Hỏi họ
 3. **Thử sàn để chân và móc treo.** Đặt ba lô hoặc túi đi chợ lên sàn, ngồi lên xe, xem hai bàn chân còn chỗ đặt không. Cách xếp túi ở sàn an toàn được nói kỹ trong bài [để túi và hộp nhỏ ở sàn để chân xe ga](/ky-nang/2026/10/14/de-tui-va-hop-nho-o-san-de-chan-xe-ga-do-nao-duoc-do-nao-de-vuong-chan-phanh/).
 4. **Thử mở cốp.** Làm hai lần cho quen, vì mỗi đời xe có cách mở yên riêng.
 
-Về xu hướng chung, Vision có cốp khá rộng so với một chiếc xe nhỏ, đủ cho những món đồ đi phố hằng ngày; bài [cốp Honda Vision chứa được gì](/xe-may/2026/09/27/khoang-o-cua-honda-vision-chua-uoc-gi/) có ví dụ cụ thể. Air Blade thân dài nên cốp cũng dài theo, nhưng hình dạng lòng cốp mỗi đời một khác. Kết quả thật chỉ có khi đồ của bạn nằm trong đó.
+Về xu hướng chung, Vision có cốp khá rộng so với một chiếc xe nhỏ, đủ cho những món đồ đi phố hằng ngày; bài [cốp Honda Vision chứa được gì](/xe-may/2026/09/27/khoang-do-cua-honda-vision-chua-duoc-gi/) có ví dụ cụ thể. Air Blade thân dài nên cốp cũng dài theo, nhưng hình dạng lòng cốp mỗi đời một khác. Kết quả thật chỉ có khi đồ của bạn nằm trong đó.
 
 ## Phần ba: cảm giác lái trong phố, thử trên một vòng ngắn
 

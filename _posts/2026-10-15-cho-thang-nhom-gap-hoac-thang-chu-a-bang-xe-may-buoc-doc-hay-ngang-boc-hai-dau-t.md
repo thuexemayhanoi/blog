@@ -41,7 +41,7 @@ Bài không khẳng định cách nào tốt hơn vì phụ thuộc loại thang
 
 Dùng ít nhất ba điểm buộc: một gần đầu thang, một giữa thang, một gần đuôi. Dùng dây có độ bền đủ cho chiều dài thang, không dùng dây chun yếu. Buộc xuống khung xe hay giá đèo hàng cho vững, không buộc vào các chi tiết nhựa.
 
-Sau khi buộc, hãy lay thử thang bằng tay: nếu thang xê dịch hay xoay thì buộc lại. Chạy thử một đoạn ngắn ở chỗ vắng rồi dừng kiểm tra lại. Bài [buộc đồ trên yên sau: nguyên tắc không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/) nêu cách buộc đồ cho vững.
+Sau khi buộc, hãy lay thử thang bằng tay: nếu thang xê dịch hay xoay thì buộc lại. Chạy thử một đoạn ngắn ở chỗ vắng rồi dừng kiểm tra lại. Bài [buộc đồ trên yên sau: nguyên tắc không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/) nêu cách buộc đồ cho vững.
 
 ## Không vác trên vai, không kẹp dưới nách khi lái
 

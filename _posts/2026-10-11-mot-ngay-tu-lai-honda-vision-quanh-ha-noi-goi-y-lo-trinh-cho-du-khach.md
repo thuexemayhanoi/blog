@@ -20,7 +20,7 @@ Bạn chỉ có đúng một ngày ở Hà Nội, muốn tự lái xe máy nhưn
 
 Honda Vision là kiểu xe người mới lên tay nhanh: không phải đổi số, bạn chỉ cần ga và phanh. Thân xe gọn nên quay đầu trong ngõ nhỏ hay len qua đoạn đông cũng đỡ vướng. Muốn hiểu kỹ [dòng xe ga nhỏ gọn](/chia%20s%E1%BA%BB/2026/09/18/thue-honda-vision-o-ha-noi/) này hợp với ai, bài đó nói khá đủ, còn [các bài khác về Honda Vision](/xe-may/honda-vision/) nằm cùng chuyên mục.
 
-Yên không cao nên chống chân khá dễ khi dừng đèn đỏ, và xe tiết kiệm xăng tương đối nên cả ngày dạo ít phải lo bình xăng. Ai tò mò có thể đọc [bài bàn về mức tốn xăng](/xe-may/2026/10/07/honda-vision-thue-i-lam-hang-ngay-co-ton-xang-khong/). Điểm hạn chế là hộc để đồ không rộng, nên ba lô lớn hay vali hãy để lại chỗ ở, chỉ mang túi nhỏ và một chiếc áo mưa mỏng.
+Yên không cao nên chống chân khá dễ khi dừng đèn đỏ, và xe tiết kiệm xăng tương đối nên cả ngày dạo ít phải lo bình xăng. Ai tò mò có thể đọc [bài bàn về mức tốn xăng](/xe-may/2026/10/07/honda-vision-thue-di-lam-hang-ngay-co-ton-xang-khong/). Điểm hạn chế là hộc để đồ không rộng, nên ba lô lớn hay vali hãy để lại chỗ ở, chỉ mang túi nhỏ và một chiếc áo mưa mỏng.
 
 ## Thuê xe ga đi chơi Hà Nội một ngày: chuẩn bị trước khi nổ máy
 
