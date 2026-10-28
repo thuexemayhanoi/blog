@@ -57,7 +57,7 @@ Nếu chân trái chưa ổn, bạn vẫn có cách đi lại mà không ép ch�
 
 **Xe tay ga như Honda Vision hoặc Honda Click.** Xe ga không có cần số, phanh sau nằm ở tay trái. Chân chỉ đặt trên sàn phẳng và chống đất khi dừng, lại đổi được tư thế khi mỏi. Vision hợp người cần xe đầm, có cốp rộng đi làm hằng ngày, xem thêm ở bài [Honda Vision hợp với ai khi thuê](/xe-may/2026/09/27/honda-vision-hop-voi-ai-khi-thue/). Click gọn, nhẹ, dễ len trong phố hẹp, được nói kỹ trong bài [Honda Click gọn nhẹ hợp với ai](/xe-may/2026/09/27/honda-click-gon-nhe-hop-ai/). 
 
-**Đi taxi hoặc xe công nghệ vài hôm.** Với người bong gân mới, đôi khi lựa chọn đúng nhất là chưa cầm lái, để chân nghỉ vài ngày rồi mới thuê xe. Cách so sánh hai phương án có trong bài [thuê xe máy hay đi taxi, ứng dụng trong nội thành](/xe-may/2026/09/29/thue-xe-may-va-i-taxiung-dung-chi-phi-i-lai-noi-thanh/).
+**Đi taxi hoặc xe công nghệ vài hôm.** Với người bong gân mới, đôi khi lựa chọn đúng nhất là chưa cầm lái, để chân nghỉ vài ngày rồi mới thuê xe. Cách so sánh hai phương án có trong bài [thuê xe máy hay đi taxi, ứng dụng trong nội thành](/xe-may/2026/09/29/thue-xe-may-va-di-taxiung-dung-chi-phi-di-lai-noi-thanh/).
 
 **Lùi ngày nhận xe.** Nếu đã đặt Wave nhưng chân còn đau, hãy gọi cửa hàng trao đổi về việc đổi sang xe ga hoặc lùi ngày, thay vì cố nhận xe đúng hẹn.
 

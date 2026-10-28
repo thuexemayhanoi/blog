@@ -29,7 +29,7 @@ Hỏi thêm vài điều giúp bố mẹ thoải mái: ghế ngồi gần lối 
 
 Đây là chi tiết dễ bị quên. Một chiếc Honda Click chỉ chở thêm một người ngồi sau, và theo quy định chung, xe máy thông thường cũng chỉ được chở một người ngồi sau, trừ những trường hợp ngoại lệ nhất định; quy định có thể thay đổi nên hãy xem văn bản hiện hành. Vì vậy nếu bạn muốn đưa cả bố và mẹ, cần một xe thứ hai hoặc một phương tiện khác cho người còn lại.
 
-Bạn có thể đưa từng người theo hai lượt, nhờ người thân chạy xe thứ hai hoặc để một người đi cách khác. Điều quan trọng là đừng chở quá số người quy định chỉ vì quãng đường ngắn. Bài [Honda Click chở hai người đi phố: yên và cốp](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-i-pho-yen-va-cop/) nói cụ thể về việc ngồi và để đồ khi chở người sau.
+Bạn có thể đưa từng người theo hai lượt, nhờ người thân chạy xe thứ hai hoặc để một người đi cách khác. Điều quan trọng là đừng chở quá số người quy định chỉ vì quãng đường ngắn. Bài [Honda Click chở hai người đi phố: yên và cốp](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-di-pho-yen-va-cop/) nói cụ thể về việc ngồi và để đồ khi chở người sau.
 
 ## Giúp bố mẹ lên và xuống xe ga cho an toàn
 

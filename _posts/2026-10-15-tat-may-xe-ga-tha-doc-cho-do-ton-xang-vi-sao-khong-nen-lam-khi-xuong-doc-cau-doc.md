@@ -66,7 +66,7 @@ Muốn xe ga đỡ tốn xăng, những việc sau có tác dụng rõ hơn nhi�
 - **Lốp đủ hơi** theo khuyến cáo nhà sản xuất. Khi nhận xe thuê, nhờ người giao xe kiểm tra giúp.
 - **Không chở quá nặng** và không để đồ thừa trong cốp suốt cả tuần.
 
-Bài [xe ga tiết kiệm xăng khi đi nội đô](/xe-may/2026/09/29/xe-ga-tiet-kiem-xang-khi-i-noi-o-la-dong-nao/) bàn thêm về mức xăng của các dòng xe ga phổ biến.
+Bài [xe ga tiết kiệm xăng khi đi nội đô](/xe-may/2026/09/29/xe-ga-tiet-kiem-xang-khi-di-noi-do-la-dong-nao/) bàn thêm về mức xăng của các dòng xe ga phổ biến.
 
 ## Một ví dụ quen thuộc trên đường Hà Nội
 

@@ -57,7 +57,7 @@ Xe số như Wave nhìn chung tiết kiệm xăng hơn xe ga khi chạy đều, 
 
 ### Cốp xe và chỗ để đồ
 
-Mang theo đúng những thứ bạn thường mang: mũ bảo hiểm cả đầu, áo mưa bộ, túi laptop, túi đi chợ. Thử nhét từng thứ vào cốp và ghi lại cái gì vừa, cái gì không. Bài [khoang đồ của Honda Vision chứa được gì](/xe-may/2026/09/27/khoang-o-cua-honda-vision-chua-uoc-gi/) là ví dụ về cách kiểm tra cốp cụ thể. Xe số Wave gần như không có cốp, đổi lại có giỏ trước và giá sau, hợp người hay chở thùng hàng hơn là cất đồ kín.
+Mang theo đúng những thứ bạn thường mang: mũ bảo hiểm cả đầu, áo mưa bộ, túi laptop, túi đi chợ. Thử nhét từng thứ vào cốp và ghi lại cái gì vừa, cái gì không. Bài [khoang đồ của Honda Vision chứa được gì](/xe-may/2026/09/27/khoang-do-cua-honda-vision-chua-duoc-gi/) là ví dụ về cách kiểm tra cốp cụ thể. Xe số Wave gần như không có cốp, đổi lại có giỏ trước và giá sau, hợp người hay chở thùng hàng hơn là cất đồ kín.
 
 ### Cảm giác lái trong phố và trên đường lớn
 

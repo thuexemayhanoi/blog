@@ -36,7 +36,7 @@ Nếu bạn đổi múi giờ hoặc chưa ngủ đủ, hãy dành ngày đầu 
 
 ## Hành lý và quãng đường từ sân bay, nhà ga về chỗ ở
 
-Đừng cố gộp việc chở hành lý và việc làm quen xe vào cùng một chuyến. Từ sân bay Nội Bài, ga Hà Nội trên phố Lê Duẩn hay bến xe Mỹ Đình, cách gọn nhất là đi taxi, xe buýt hoặc xe công nghệ về thẳng chỗ ở, cất đồ, rồi mới tính chuyện xe máy. Nếu đang tính chặng sân bay, bài [đi sân bay Nội Bài nên thuê xe máy từ đâu và lúc nào](/thue-xe/2026/09/29/i-san-bay-noi-bai-nen-thue-xe-may-tu-au-va-luc-nao/) phân tích kỹ các phương án.
+Đừng cố gộp việc chở hành lý và việc làm quen xe vào cùng một chuyến. Từ sân bay Nội Bài, ga Hà Nội trên phố Lê Duẩn hay bến xe Mỹ Đình, cách gọn nhất là đi taxi, xe buýt hoặc xe công nghệ về thẳng chỗ ở, cất đồ, rồi mới tính chuyện xe máy. Nếu đang tính chặng sân bay, bài [đi sân bay Nội Bài nên thuê xe máy từ đâu và lúc nào](/thue-xe/2026/09/29/di-san-bay-noi-bai-nen-thue-xe-may-tu-dau-va-luc-nao/) phân tích kỹ các phương án.
 
 Khi đã nhận phòng, hãy hỏi luôn chỗ ở có nơi gửi xe máy qua đêm không. Nhiều nhà nghỉ trong phố cổ Hoàn Kiếm có lối vào hẹp, phải dắt xe qua bậc cửa; biết trước điều này giúp bạn chọn giờ nhận xe hợp lý hơn.
 

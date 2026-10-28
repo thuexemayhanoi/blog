@@ -39,7 +39,7 @@ Thứ ba, các chi phí phát sinh tính thế nào, ví dụ vá lốp hay thay
 
 Mức hợp lý phụ thuộc số ngày chắc chắn có đơn. Nếu mới thử việc, chưa chắc lịch chạy mỗi ngày, cứ thuê ngày hai ba buổi đầu cho linh hoạt. Nếu đã nắm được lịch đơn ổn định cả tuần, chuyển sang gói tuần; trên mười lăm ngày liên tục thì gói tháng gần như luôn rẻ hơn. Lưu ý hỏi rõ cách tính ngày: gói tháng có tính luôn ngày nghỉ không chạy đơn không, và nếu bạn muốn đổi xe giữa kỳ do xe gặp trục trặc thì thủ tục ra sao. Đây là phần quan trọng nhất của [thủ tục thuê xe](/thue-xe/thu-tuc/): mọi cam kết miệng lúc bàn nên có mặt trên hợp đồng.
 
-Người lần đầu thuê tại Hà Nội nên xem thêm hướng dẫn [thủ tục thuê xe máy cho người lần đầu](/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au/) để biết sẵn giấy tờ cần mang, và duyệt qua các chủ đề trên trang chủ [thuê xe máy](/thue-xe/) để nắm nhóm bài theo từng nhu cầu trước khi gọi.
+Người lần đầu thuê tại Hà Nội nên xem thêm hướng dẫn [thủ tục thuê xe máy cho người lần đầu](/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-dau/) để biết sẵn giấy tờ cần mang, và duyệt qua các chủ đề trên trang chủ [thuê xe máy](/thue-xe/) để nắm nhóm bài theo từng nhu cầu trước khi gọi.
 
 ## Những câu nên hỏi cửa hàng trước khi ký
 

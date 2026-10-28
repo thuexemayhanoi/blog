@@ -46,7 +46,7 @@ Trong lúc chờ hỗ trợ, ghi lại vị trí gửi xe hoặc tọa độ đ�
 
 ## Thói quen giữ bình xăng khỏi sát vạch
 
-Quy tắc đổ sớm hơn đổ muộn: khi đèn báo xăng sáng lần đầu, hãy chủ động tìm cây xăng trong hôm nay, đừng trì hoãn tới hôm sau. Cách chạy tiết kiệm giúp mỗi lít đi được xa hơn, bạn có thể tham khảo bài [xe ga tiết kiệm xăng khi ì ở nơi nào là đúng](/xe-may/2026/09/29/xe-ga-tiet-kiem-xang-khi-i-noi-o-la-dong-nao/) để điều chỉnh thói quen giữ ga. Với xe thuê, hỏi cửa hàng lúc nhận xem xe tiêu hao thế nào để ước lượng quãng đường còn lại cho phần xăng đang có.
+Quy tắc đổ sớm hơn đổ muộn: khi đèn báo xăng sáng lần đầu, hãy chủ động tìm cây xăng trong hôm nay, đừng trì hoãn tới hôm sau. Cách chạy tiết kiệm giúp mỗi lít đi được xa hơn, bạn có thể tham khảo bài [xe ga tiết kiệm xăng khi ì ở nơi nào là đúng](/xe-may/2026/09/29/xe-ga-tiet-kiem-xang-khi-di-noi-do-la-dong-nao/) để điều chỉnh thói quen giữ ga. Với xe thuê, hỏi cửa hàng lúc nhận xem xe tiêu hao thế nào để ước lượng quãng đường còn lại cho phần xăng đang có.
 
 Cuối cùng, một thói quen của khách thuê lâu năm: chụp ảnh đồng hồ xăng lúc nhận xe. Thao tác mười giây này cho bạn mốc tham chiếu đầu kỳ, tránh nghi ngại khi đèn báo sáng sớm bất thường do cảm biến bẩn hoặc phao kẹt.
 

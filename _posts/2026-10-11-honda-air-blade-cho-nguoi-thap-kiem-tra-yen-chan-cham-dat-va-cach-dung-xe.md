@@ -67,7 +67,7 @@ Nếu chân chống lỏng, xe tự trượt khỏi chân chống hoặc có ti�
 
 ## Khi nào nên đổi xe, và người thấp thuê xe ga nào cho vừa
 
-Nếu rơi vào mức thứ ba, hoặc phải rướn vai mới với tay lái, hoặc phải gồng người mới giữ được xe khi nó hơi nghiêng, thì dù xe chạy tốt cũng nên đổi. Đừng cố làm quen bằng ý chí: bạn sẽ dừng xe rất nhiều lần mỗi ngày, và chút chênh lệch hôm nay lớn dần theo từng cột đèn đỏ, nhất là khi [thuê Air Blade đi làm hằng ngày](/xe-may/2026/10/02/thue-air-blade-i-lam-hang-ngay-hop-tay-lai-nao/).
+Nếu rơi vào mức thứ ba, hoặc phải rướn vai mới với tay lái, hoặc phải gồng người mới giữ được xe khi nó hơi nghiêng, thì dù xe chạy tốt cũng nên đổi. Đừng cố làm quen bằng ý chí: bạn sẽ dừng xe rất nhiều lần mỗi ngày, và chút chênh lệch hôm nay lớn dần theo từng cột đèn đỏ, nhất là khi [thuê Air Blade đi làm hằng ngày](/xe-may/2026/10/02/thue-air-blade-di-lam-hang-ngay-hop-tay-lai-nao/).
 
 Còn câu hỏi "người thấp thuê xe ga nào" không có đáp án chung. Cách thực tế là hỏi cửa hàng còn xe ga nào khác để thử, chẳng hạn một dòng xe ga dáng gọn hơn như Honda Vision, rồi thử lại ba kiểu ngồi ở trên; việc thử và đổi xe nếu chưa vừa nên hỏi rõ trước khi đặt xe. Muốn so với các dòng khác, bạn có thể xem thêm trong mục [xe máy](/xe-may/) của blog.
 

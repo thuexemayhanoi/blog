@@ -39,7 +39,7 @@ Lỗi cần tránh nhất là ngại tụt nên vặn ga quá sâu ngay từ đ�
 
 Tình huống một: xe phía trước xuất phát rồi phanh gấp ngay, bạn vừa nhả phanh. Cách xử lý: luôn giữ một phần tư ý thức ở phanh sau trong hai giây đầu xuất phát, ga chưa tăng sâu thì phanh sau kéo xe dừng lại được dễ dàng.
 
-Tình huống hai: xe phía sau áp sát sát, bạn sợ tụt đụng họ. Thực tế người sau cũng biết giữ khoảng cách trên dốc, nhưng để chắc, hãy đứng hơi lệch so với vệt bánh xe trước, để nếu tụt, bạn có bên trái để né. Tình huống ba: tải nặng hoặc chở hai người trên dốc. Nhịp giành đà cần ga sâu hơn chút và thời gian giữ phanh lâu hơn, hãy xin thêm khoảng cách phía trước bằng cách xuất phát trễ hơn một nhịp, và nếu lịch trình có nhiều dốc dài, phần chia tải khi hai người đã được tóm trong bài [Click chở hai người có êm không](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-i-pho-yen-va-cop/).
+Tình huống hai: xe phía sau áp sát sát, bạn sợ tụt đụng họ. Thực tế người sau cũng biết giữ khoảng cách trên dốc, nhưng để chắc, hãy đứng hơi lệch so với vệt bánh xe trước, để nếu tụt, bạn có bên trái để né. Tình huống ba: tải nặng hoặc chở hai người trên dốc. Nhịp giành đà cần ga sâu hơn chút và thời gian giữ phanh lâu hơn, hãy xin thêm khoảng cách phía trước bằng cách xuất phát trễ hơn một nhịp, và nếu lịch trình có nhiều dốc dài, phần chia tải khi hai người đã được tóm trong bài [Click chở hai người có êm không](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-di-pho-yen-va-cop/).
 
 Với các chặng leo dốc dài ngoài quốc lộ, cách giữ ga đều và nghỉ máy hợp lý cho dòng xe mạnh hơn đã có bài riêng, nhưng nguyên tắc gốc vẫn một: ga nhẹ, phanh đúng lúc, và không bao giờ vội.
 

@@ -60,7 +60,7 @@ Chiều về là lúc cần cẩn thận: đoạn đường làng có thể ít 
 
 ## Xăng, giờ xuất phát và điểm nghỉ
 
-**Xăng.** Hãy đổ đầy bình ngay khi còn trong khu dân cư, đừng chờ tới đường vắng. Cây xăng ở vùng đồi núi và đường làng thưa hơn bạn nghĩ. Một quy tắc đơn giản là tới khoảng nửa bình thì bắt đầu để ý cây xăng kế tiếp. Bài về chuyện [Vision đi làm hằng ngày có tốn xăng không](/xe-may/2026/10/07/honda-vision-thue-i-lam-hang-ngay-co-ton-xang-khong/) giúp bạn hình dung xe ga nhỏ uống xăng thế nào trong phố, còn ra đường dài, hãy chừa thêm dư địa.
+**Xăng.** Hãy đổ đầy bình ngay khi còn trong khu dân cư, đừng chờ tới đường vắng. Cây xăng ở vùng đồi núi và đường làng thưa hơn bạn nghĩ. Một quy tắc đơn giản là tới khoảng nửa bình thì bắt đầu để ý cây xăng kế tiếp. Bài về chuyện [Vision đi làm hằng ngày có tốn xăng không](/xe-may/2026/10/07/honda-vision-thue-di-lam-hang-ngay-co-ton-xang-khong/) giúp bạn hình dung xe ga nhỏ uống xăng thế nào trong phố, còn ra đường dài, hãy chừa thêm dư địa.
 
 **Giờ xuất phát.** Cửa hàng Nguyễn Tú làm việc từ 09:00 tới 21:00 và không giao xe ngoài giờ, nên chuyến xa như Ba Vì hay Chùa Hương dễ bị dồn về chiều tối nếu bạn nhận xe đúng 9 giờ. Hãy hỏi trước về giờ nhận và giờ trả xe để xếp lịch cho hợp, thay vì chạy vội ở chặng cuối.
 

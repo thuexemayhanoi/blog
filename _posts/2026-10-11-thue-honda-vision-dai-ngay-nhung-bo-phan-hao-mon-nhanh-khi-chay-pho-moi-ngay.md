@@ -52,7 +52,7 @@ Bạn không cần tự chẩn bệnh. Hãy ghi nhớ biểu hiện bắt đầu
 
 Khi xe nằm chờ đèn đỏ giữa trưa, nhớt chịu nhiệt nhiều mà vòng tua thấp nên làm mát kém. Dấu hiệu là tiếng máy ồn và khô hơn, máy nóng hơn thường lệ, hoặc mức nhớt tụt dần. Hãy kiểm tra mức nhớt theo cách hãng hướng dẫn, khi xe đứng thẳng trên nền phẳng và máy đã nguội bớt. Xe ga còn có nhớt hộp số riêng; nghe tiếng ồn lạ từ bánh sau thì nên hỏi thợ thay vì đoán.
 
-Bụi mịn của Hà Nội đi thẳng vào lọc gió. Lọc gió bẩn khiến máy hít khó, xe yếu và tốn xăng hơn một chút. Bugi mòn thì máy khó nổ buổi sáng, nổ không đều hoặc hụt hơi khi tăng tốc. Nếu thấy xe bỗng uống xăng nhiều hơn, hãy đọc [bài về chuyện xăng khi đi làm hằng ngày bằng Vision](/xe-may/2026/10/07/honda-vision-thue-i-lam-hang-ngay-co-ton-xang-khong/) trước, để loại trừ nguyên nhân do cách chạy.
+Bụi mịn của Hà Nội đi thẳng vào lọc gió. Lọc gió bẩn khiến máy hít khó, xe yếu và tốn xăng hơn một chút. Bugi mòn thì máy khó nổ buổi sáng, nổ không đều hoặc hụt hơi khi tăng tốc. Nếu thấy xe bỗng uống xăng nhiều hơn, hãy đọc [bài về chuyện xăng khi đi làm hằng ngày bằng Vision](/xe-may/2026/10/07/honda-vision-thue-di-lam-hang-ngay-co-ton-xang-khong/) trước, để loại trừ nguyên nhân do cách chạy.
 
 ## Phuộc, ắc quy và những chi tiết nhỏ hay bị bỏ quên
 

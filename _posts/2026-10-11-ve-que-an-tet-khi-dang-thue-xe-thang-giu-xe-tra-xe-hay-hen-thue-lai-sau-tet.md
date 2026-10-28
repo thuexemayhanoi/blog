@@ -30,7 +30,7 @@ Một điều đáng hỏi trước khi về quê: hợp đồng tháng của b�
 
 ## Trả xe trước Tết: tính kỹ rồi quyết
 
-Trả xe trước Tết gọn nhất về mặt thủ tục: bạn nhận lại khoản cọc, không phải lo khoản tháng tiếp theo, và không lo xe ở trọ khi vắng nhà. Đổi lại, bạn phải chấp nhận rủi ro sau Tết có thể không thuê lại đúng chiếc xe cũ, vì dịp đó nhu cầu tăng nhanh. Cách giá thuê dịp lễ Tết thường thay đổi thế nào đã được nói rõ trong bài [giá thuê xe máy dịp lễ Tết](/thue-xe/2026/09/27/gia-thue-xe-may-dip-le-tet-thuong-thay-oi-the-nao/), đọc trước giúp bạn hình dung khoản chi của kỳ tiếp theo.
+Trả xe trước Tết gọn nhất về mặt thủ tục: bạn nhận lại khoản cọc, không phải lo khoản tháng tiếp theo, và không lo xe ở trọ khi vắng nhà. Đổi lại, bạn phải chấp nhận rủi ro sau Tết có thể không thuê lại đúng chiếc xe cũ, vì dịp đó nhu cầu tăng nhanh. Cách giá thuê dịp lễ Tết thường thay đổi thế nào đã được nói rõ trong bài [giá thuê xe máy dịp lễ Tết](/thue-xe/2026/09/27/gia-thue-xe-may-dip-le-tet-thuong-thay-doi-the-nao/), đọc trước giúp bạn hình dung khoản chi của kỳ tiếp theo.
 
 Về thủ tục trả sớm, mở hợp đồng xem mục chấm dứt trước hạn: cần báo trước bao nhiêu ngày, hoàn tiền theo tỷ lệ nào, khoản cọc xử trong bao lâu. Những câu nên hỏi trước khi trả sớm đã được gợi ý trong bài [trả xe thuê sớm hơn dự kiến](/thue-xe/2026/09/27/tra-xe-thue-som-hon-du-kien-hoi-truoc-dieu-gi/). Buổi trả xe cũng nên làm đúng bài bản: dọn đồ cá nhân, đổ xăng đủ mức quy định, đối chiếu video tình trạng xe, và xin xác nhận hoàn tất bằng văn bản.
 

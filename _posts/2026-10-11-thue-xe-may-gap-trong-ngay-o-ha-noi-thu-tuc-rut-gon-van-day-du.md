@@ -16,7 +16,7 @@ writer: W1
 
 Thuê xe máy gấp trong ngày là tình huống không ai muốn nhưng ai cũng từng gặp: xe của bạn hỏng sáng thứ Hai, chiều có chuyến đi tỉnh; khách hàng gọi hẹn trong hai tiếng mà xe đang nằm gara; hay kế hoạch thay đổi lúc mười giờ sáng và bạn cần một chiếc xe ngay sau trưa. Tin tốt là quy trình thuê xe máy ở Hà Nội vốn ngắn, và nếu chuẩn bị đúng thì từ lúc gọi điện tới lúc cầm chìa xe có thể gói trong vài chục phút. Bài viết này chỉ bộ giấy tờ tối thiểu, các bước rút gọn an toàn, và những hạng mục không nên cắt dù gấp đến mấy.
 
-Nếu là lần đầu thuê, bạn nên đọc trước bài [thủ tục thuê xe máy ở Hà Nội cho người lần đầu](/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au/) để có quy trình chuẩn, rồi mới áp phần rút gọn dưới đây cho tình huống cần nhanh.
+Nếu là lần đầu thuê, bạn nên đọc trước bài [thủ tục thuê xe máy ở Hà Nội cho người lần đầu](/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-dau/) để có quy trình chuẩn, rồi mới áp phần rút gọn dưới đây cho tình huống cần nhanh.
 
 ## Bộ giấy tờ tối thiểu khi thuê xe máy gấp trong ngày
 
