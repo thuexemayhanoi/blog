@@ -45,7 +45,7 @@ Về thời điểm, giờ cao điểm dòng xe chậm và dày, các xe chắn 
 
 Nếu dự báo có gió giật cấp mạnh kèm mưa rào, cách khôn nhất là hoãn lịch qua cầu lớn chừng một tiếng, vì các cơn gió kiểu này thường qua nhanh. Nếu buộc phải đi: tốc độ chậm hẳn, khoảng cách với các xe khác gấp đôi bình thường, và không bao giờ dừng giữa nhịp cầu để né gió, vị trí đứng yên giữa cầu là vị trí không có lối thoát.
 
-Chở thêm người thứ hai sau lưng thực ra giúp xe vững hơn trong gió, vì tổng tải nặng lên, gió khó dịch xe hơn, phần tư thế ngồi cho hai người đã được tóm trong bài [Click chở hai người có êm không](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-i-pho-yen-va-cop/). Sau cơn mưa gió, mặt cầu ướt kết hợp với lạng nhẹ, hãy giảm thêm tốc và tránh dẫm vạch sơn, nắp thép và các tấm khe hở trên mặt cầu.
+Chở thêm người thứ hai sau lưng thực ra giúp xe vững hơn trong gió, vì tổng tải nặng lên, gió khó dịch xe hơn, phần tư thế ngồi cho hai người đã được tóm trong bài [Click chở hai người có êm không](/xe-may/2026/10/02/honda-click-cho-hai-nguoi-di-pho-yen-va-cop/). Sau cơn mưa gió, mặt cầu ướt kết hợp với lạng nhẹ, hãy giảm thêm tốc và tránh dẫm vạch sơn, nắp thép và các tấm khe hở trên mặt cầu.
 
 ## Chuẩn bị xe trước các chặng nhiều cầu lớn
 

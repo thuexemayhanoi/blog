@@ -56,7 +56,7 @@ Không có kiểu xe nào đúng cho mọi gia đình, nên hãy đặt từng t
 - **Đi chơi quãng dài với bé lớn, như vòng hồ Tây hay đoạn đê ven sông Hồng:** ưu tiên yên sau rộng, tay nắm chắc, chỗ để chân vừa tầm bé. Xe nào bé ngồi dễ chịu hơn thì chọn xe đó.
 - **Bạn đã quen xe số nhiều năm, chưa từng chạy xe ga:** nên chọn xe số. Khi sau lưng có bé, quen tay quan trọng hơn mọi ưu điểm trên giấy. Người quen xe ga thì ngược lại.
 
-Nếu còn phân vân ở góc nhìn chung, bạn có thể đọc [so sánh xe số và xe ga trong năm nay](/hoi-dap/2026/09/29/nam-2026-nen-thue-xe-so-hay-xe-ga/). Còn nếu đã nghiêng về xe ga, bài [Vision hay Air Blade khi đi phố](/hoi-dap/2026/09/30/nen-thue-vision-hay-air-blade-khi-i-pho/) cho thấy hai dòng phổ biến khác nhau thế nào.
+Nếu còn phân vân ở góc nhìn chung, bạn có thể đọc [so sánh xe số và xe ga trong năm nay](/hoi-dap/2026/09/29/nam-2026-nen-thue-xe-so-hay-xe-ga/). Còn nếu đã nghiêng về xe ga, bài [Vision hay Air Blade khi đi phố](/hoi-dap/2026/09/30/nen-thue-vision-hay-air-blade-khi-di-pho/) cho thấy hai dòng phổ biến khác nhau thế nào.
 
 ## Chọn xe máy đưa đón con: thử cùng bé trước khi nhận
 

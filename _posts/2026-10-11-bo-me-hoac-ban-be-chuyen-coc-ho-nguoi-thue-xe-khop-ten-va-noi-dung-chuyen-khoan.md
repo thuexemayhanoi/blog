@@ -21,7 +21,7 @@ Sinh viên đi học xa, người đi công tác đột xuất, hoặc khách đ
 
 Cửa hàng nhận hàng chục khoản chuyển mỗi ngày, nhất là các ngày cuối tuần. Khi tiền về từ một cái tên lạ, trong khi hợp đồng thuê ghi tên người khác, nhân viên chỉ cần lơ đãng một chút là ghi nhầm. Sai lầm nhỏ này kéo theo hệ lụy: lúc bạn trả xe, cửa hàng tra tên bạn nhưng không thấy khoản cọc nào khớp, buổi trả xe dài thêm vì hai bên phải ngồi truy lại lịch sử. Vấn đề không nằm ở việc chuyển hộ, mà nằm ở việc thông tin không được khớp ngay từ đầu.
 
-Vì vậy, trước khi nhờ ai đó chuyển hộ, hãy báo trước cho cửa hàng một tin nhắn ngắn: tôi tên gì, thuê xe gì, ngày nào, và khoản cọc sẽ do người tên gì chuyển hộ, từ ngân hàng nào. Tin nhắn này chính là cầu nối giúp nhân viên đối chiếu nhanh. Nếu bạn lần đầu thuê xe, nên đọc trước quy trình trong bài [thủ tục thuê xe máy ở Hà Nội cho người lần đầu](/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au/) để nắm các bước nói chuyện với cửa hàng.
+Vì vậy, trước khi nhờ ai đó chuyển hộ, hãy báo trước cho cửa hàng một tin nhắn ngắn: tôi tên gì, thuê xe gì, ngày nào, và khoản cọc sẽ do người tên gì chuyển hộ, từ ngân hàng nào. Tin nhắn này chính là cầu nối giúp nhân viên đối chiếu nhanh. Nếu bạn lần đầu thuê xe, nên đọc trước quy trình trong bài [thủ tục thuê xe máy ở Hà Nội cho người lần đầu](/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-dau/) để nắm các bước nói chuyện với cửa hàng.
 
 ## Cách ghi nội dung chuyển khoản cho khớp
 

@@ -29,7 +29,7 @@ Một cách nhận nhanh tại chỗ nhận xe: ngồi lên thử, hai bàn châ
 
 Yên Click thấp và gọn, nhấc mở cốp nhẹ, hợp người thấp và người đi một mình nhiều. Yên Vision rộng và bằng hơn, ngồi hai người thoáng hơn, phần cho người ngồi sau đã bàn trong các bài về Vision, chi tiết trải nghiệm ngồi sau thoải tay đã có trong bài [ngồi sau vung tay](/xe-may/2026/10/10/honda-vision-cho-nguoi-ngoi-sau-vung-tay/).
 
-Về cốp, cả hai đều để vừa mũ nửa đầu kèm áo mưa, nhưng cách chia khác nhau: Click chia khoang sâu, đồ đứng kiểu lọ nước dễ đặt, Vision chia rộng ở mặt, đồ dạng hộp mỏng nằm ngang tiện hơn, các chi tiết khoảng để của Vision đã kể trong bài [khoang để của Honda Vision](/xe-may/2026/09/27/khoang-o-cua-honda-vision-chua-uoc-gi/), và kinh nghiệm thực tế khi chở đồ đã bàn trong bài [cốp Vision chở được gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-duoc-nhung-gi/). Nếu bạn đi chợ và mua sắm nhiều trong chuyến, đây là điểm nên cân nhắc trước khi chọn.
+Về cốp, cả hai đều để vừa mũ nửa đầu kèm áo mưa, nhưng cách chia khác nhau: Click chia khoang sâu, đồ đứng kiểu lọ nước dễ đặt, Vision chia rộng ở mặt, đồ dạng hộp mỏng nằm ngang tiện hơn, các chi tiết khoảng để của Vision đã kể trong bài [khoang để của Honda Vision](/xe-may/2026/09/27/khoang-do-cua-honda-vision-chua-duoc-gi/), và kinh nghiệm thực tế khi chở đồ đã bàn trong bài [cốp Vision chở được gì](/xe-may/2026/10/09/cop-honda-vision-thue-chua-duoc-nhung-gi/). Nếu bạn đi chợ và mua sắm nhiều trong chuyến, đây là điểm nên cân nhắc trước khi chọn.
 
 ## Cảm giác lái: phố chật và cung dài không cùng một xe
 
