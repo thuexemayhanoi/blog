@@ -33,7 +33,7 @@ Khi đã có chỗ, cách đặt xe quyết định bạn có bị nhắc hay kh
 
 1. **Đỗ song song theo hàng xe sẵn có**, đầu xe cùng hướng với các xe bên cạnh. Một chiếc xe quay ngang giữa hàng sẽ làm người khác khó dắt ra.
 2. **Không chắn cửa nhà, lối vào ngõ, vạch qua đường hay góc phố.** Ở phố cổ, xe chắn cửa nhà dân là lý do hay gặp nhất khiến khách bị gọi ra dời xe.
-3. **Dựng chân chống trên mặt cứng**, tránh gạch lát lỏng hay nhựa đường nắng gắt, xem thêm bài [chân chống bị lún trên nhựa nóng, đất ẩm và gạch lát](/ky-nang/2026/10/11/chan-chong-bi-lun-tren-nhua-nong-at-am-va-gach-lat-e-xe-khoi-o/).
+3. **Dựng chân chống trên mặt cứng**, tránh gạch lát lỏng hay nhựa đường nắng gắt, xem thêm bài [chân chống bị lún trên nhựa nóng, đất ẩm và gạch lát](/ky-nang/2026/10/11/chan-chong-bi-lun-tren-nhua-nong-dat-am-va-gach-lat-de-xe-khoi-do/).
 4. **Ưu tiên chân chống giữa nếu xe có**, nhất là khi xe đứng sát xe khác. Xe đứng thẳng chiếm ít chỗ hơn và khó bị xô đổ.
 5. **Tắt máy, vặn đầu xe về phía trong lề**, để bánh trước không chĩa ra làn xe chạy.
 

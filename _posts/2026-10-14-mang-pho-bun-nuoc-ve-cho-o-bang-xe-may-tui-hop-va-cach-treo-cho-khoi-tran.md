@@ -49,7 +49,7 @@ Thứ tự ưu tiên chỗ đặt, từ tốt tới kém:
 3. **Giỏ trước xe số.** Giỏ thường cao và rung nhiều, chỉ hợp với hộp kín có nắp khóa, không hợp với túi ni lông buộc nút.
 4. **Treo móc lủng lẳng.** Chỉ dùng khi quãng đường rất ngắn, túi nhẹ và đã có lớp hộp kín bên trong.
 
-Tránh để túi nước nóng sát ống xả hay chỗ chân chạm vào phần kim loại nóng của xe. Với xe số không có sàn phẳng, người ngồi sau ôm hộp ở tư thế đứng thẳng trên đùi là cách êm nhất; nếu đi một mình, ưu tiên hộp kín buộc vào giá sau theo cách trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+Tránh để túi nước nóng sát ống xả hay chỗ chân chạm vào phần kim loại nóng của xe. Với xe số không có sàn phẳng, người ngồi sau ôm hộp ở tư thế đứng thẳng trên đùi là cách êm nhất; nếu đi một mình, ưu tiên hộp kín buộc vào giá sau theo cách trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 
 ## Chạy xe thế nào để nước dùng không sóng sánh
 

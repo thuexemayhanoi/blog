@@ -78,7 +78,7 @@ Nếu đang đi xe thuê, đừng tự sửa hay mang ra tiệm lạ. Hãy chụ
 Phản xạ buông xe và rút chân không tự nhiên mà có. Người mới hoặc người lâu ngày không lái có thể tập dần:
 
 - **Tập dắt xe và quay đầu ở bãi rộng.** Một khoảng sân vắng ven đê Long Biên hay bãi trống ở Gia Lâm vào sáng sớm là chỗ tốt để làm quen với sức nặng của xe khi nó nghiêng.
-- **Chọn chỗ chống chân trước khi dừng.** Nhìn mặt đường từ xa, tránh chỗ trũng, nắp cống, vũng dầu. Chân chống cũng cần mặt nền chắc, như phân tích trong bài [chân chống bị lún trên nhựa nóng, đất ẩm và gạch lát](/ky-nang/2026/10/11/chan-chong-bi-lun-tren-nhua-nong-at-am-va-gach-lat-e-xe-khoi-o/).
+- **Chọn chỗ chống chân trước khi dừng.** Nhìn mặt đường từ xa, tránh chỗ trũng, nắp cống, vũng dầu. Chân chống cũng cần mặt nền chắc, như phân tích trong bài [chân chống bị lún trên nhựa nóng, đất ẩm và gạch lát](/ky-nang/2026/10/11/chan-chong-bi-lun-tren-nhua-nong-dat-am-va-gach-lat-de-xe-khoi-do/).
 - **Mặc đồ phù hợp.** Giày kín mũi, quần dài và găng tay mỏng giúp giảm trầy xước rất nhiều trong những cú đổ nhẹ.
 
 ## Tóm lại

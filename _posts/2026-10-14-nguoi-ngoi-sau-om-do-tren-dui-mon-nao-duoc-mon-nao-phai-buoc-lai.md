@@ -51,7 +51,7 @@ Người ngồi sau xe máy cầm đồ trên tay chỉ an toàn khi món đó �
 
 Cần nói rõ thêm: luật giao thông không cho phép người ngồi trên xe máy mang, vác vật cồng kềnh khi tham gia giao thông. Ranh giới giữa túi nhỏ và vật cồng kềnh không được đo bằng thước trong thực tế, nhưng nếu món đồ khiến người ngồi sau không thể ngồi thẳng và bám chắc thì đó là lúc nên chuyển sang buộc.
 
-Với nhóm phải buộc, chỗ tốt nhất là cốp dưới yên, sàn để chân xe ga hoặc baga sau có dây chằng. Đồ dài như ống bản vẽ, cuộn thảm nên buộc dọc thân xe. Hộp to thì đặt lên baga sau nếu xe có, còn không thì tính phương án chia làm hai chuyến. Cách buộc chi tiết cho từng loại đã có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+Với nhóm phải buộc, chỗ tốt nhất là cốp dưới yên, sàn để chân xe ga hoặc baga sau có dây chằng. Đồ dài như ống bản vẽ, cuộn thảm nên buộc dọc thân xe. Hộp to thì đặt lên baga sau nếu xe có, còn không thì tính phương án chia làm hai chuyến. Cách buộc chi tiết cho từng loại đã có trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 
 ## Thứ tự sắp xếp trước khi lăn bánh
 

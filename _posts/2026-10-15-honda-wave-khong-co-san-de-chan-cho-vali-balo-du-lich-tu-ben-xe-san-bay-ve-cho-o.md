@@ -66,7 +66,7 @@ Các bước buộc trên Wave:
 4. **Gom đầu dây thừa** cho khỏi rủ xuống ống xả bên phải hay quấn vào bánh sau.
 5. **Lắc thử bằng tay.** Còn xê dịch thì siết lại trước khi đi.
 
-Thao tác cân trọng tâm khi buộc đồ được phân tích thêm trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+Thao tác cân trọng tâm khi buộc đồ được phân tích thêm trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 
 ## Kiểm tra chân trái, chân phải trước khi rời bến
 

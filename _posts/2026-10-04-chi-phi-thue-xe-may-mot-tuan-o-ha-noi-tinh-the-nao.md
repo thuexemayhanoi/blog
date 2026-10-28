@@ -34,7 +34,7 @@ So sánh nhanh với giá ngày giúp khách thấy lợi của gói tuần. Dò
 
 Chọn gói tuần khi chắc chắn dùng xe đủ bảy ngày, ví dụ khách ở Hà Nội đi làm cả tuần hoặc đi chơi nhiều ngày liên tiếp. Chọn theo ngày khi lịch chưa rõ, ví dụ dự kiến chỉ cần xe bốn năm ngày rồi về quê. Điểm cần lưu ý là gói tuần thường tính theo chu kỳ bảy ngày cố định từ ngày nhận, trả sớm không tự động hoàn phần dư, nên khách nên hỏi rõ cách tính nếu có khả năng trả trước.
 
-Trả trễ một vài tiếng thường được xử lý theo mức phí giờ quy định của cửa hàng, còn trả trễ gần bằng một ngày thì dễ bị tính thêm một ngày thuê theo giá ngày của dòng xe. Cách an toàn là thống nhất giờ trả cụ thể khi đặt và báo sớm qua điện thoại nếu có thay đổi. Khách muốn tham khảo cách tính chi phí cho các kỳ ngắn hơn có thể đọc thêm bài [chi phí thuê xe máy hai ngày cuối tuần](/thue-xe/2026/10/04/chi-phi-thue-xe-may-hai-ngay-cuoi-tuan-tinh-the-nao-cho-u/) hoặc lướt qua mục [hỏi đáp](/hoi-dap/).
+Trả trễ một vài tiếng thường được xử lý theo mức phí giờ quy định của cửa hàng, còn trả trễ gần bằng một ngày thì dễ bị tính thêm một ngày thuê theo giá ngày của dòng xe. Cách an toàn là thống nhất giờ trả cụ thể khi đặt và báo sớm qua điện thoại nếu có thay đổi. Khách muốn tham khảo cách tính chi phí cho các kỳ ngắn hơn có thể đọc thêm bài [chi phí thuê xe máy hai ngày cuối tuần](/thue-xe/2026/10/04/chi-phi-thue-xe-may-hai-ngay-cuoi-tuan-tinh-the-nao-cho-du/) hoặc lướt qua mục [hỏi đáp](/hoi-dap/).
 
 ## Các khoản ngoài giá thuê khách cần hỏi trước
 

@@ -41,7 +41,7 @@ Nếu tour về sau 21:00, bạn không trả được xe trong đêm, nên ph�
 
 Nếu giữ xe, chọn chỗ để xe cẩn thận. Chỗ ở của bạn có sân hoặc khu để xe có người trông là tốt hơn để xe ngoài đường. Khóa cổ, khóa bánh nếu có, rút chìa, không để đồ có giá trị trong hộc yên.
 
-Bài [gửi xe máy qua đêm ở Hà Nội: chọn bãi và lưu ý](/ky-nang/2026/10/04/gui-xe-may-qua-em-o-ha-noi-chon-bai-va-luu-y/) nói cách chọn bãi và giữ vé. Chụp ảnh xe và vé lúc gửi để có mốc nếu có chuyện.
+Bài [gửi xe máy qua đêm ở Hà Nội: chọn bãi và lưu ý](/ky-nang/2026/10/04/gui-xe-may-qua-dem-o-ha-noi-chon-bai-va-luu-y/) nói cách chọn bãi và giữ vé. Chụp ảnh xe và vé lúc gửi để có mốc nếu có chuyện.
 
 ## Hỏi tiệm trước: bốn câu ngắn
 

@@ -42,7 +42,7 @@ Ngoài tiền thuê, chi phí xăng thường do người thuê tự trả; Air 
 
 ## Kiểm tra xe trước khi nhận và trước khi trả
 
-Dù đi làm hằng ngày thì xe thuê cũng cần kiểm tra kỹ ở hai thời điểm: khi nhận và khi trả. Khi nhận, xem lốp hai bên có bị mòn lệch không, thử phanh trước sau, bật đèn xem đủ sáng không, xem vết xước cũ có được ghi lại trong biên bản không để tránh khi trả phải gánh vết xước không phải do mình. Kiểm tra nhớt bằng que thăm nếu xe chạy máy; đời máy khỏe nhưng vẫn cần nhớt đúng hạn, chi tiết về kỳ thay đã tách trong bài [dầu máy xe máy đổi sau bao lâu](/xe-may/2026/09/27/dau-may-xe-may-oi-sau-bao-lau/).
+Dù đi làm hằng ngày thì xe thuê cũng cần kiểm tra kỹ ở hai thời điểm: khi nhận và khi trả. Khi nhận, xem lốp hai bên có bị mòn lệch không, thử phanh trước sau, bật đèn xem đủ sáng không, xem vết xước cũ có được ghi lại trong biên bản không để tránh khi trả phải gánh vết xước không phải do mình. Kiểm tra nhớt bằng que thăm nếu xe chạy máy; đời máy khỏe nhưng vẫn cần nhớt đúng hạn, chi tiết về kỳ thay đã tách trong bài [dầu máy xe máy đổi sau bao lâu](/xe-may/2026/09/27/dau-may-xe-may-doi-sau-bao-lau/).
 
 Khi trả xe, chụp lại đồng hồ công tơ mét và tình trạng xe, xác nhận lại với chủ xe về cọc. Những việc nhỏ này mất vài phút nhưng giúp hợp đồng thuê suôn sẻ suốt cả tháng.
 

@@ -62,7 +62,7 @@ Tranh sơn mài nhỏ, tranh thêu có khung kính là món cần cẩn thận n
 - **Yên sau hoặc người ngồi sau:** món cồng kềnh nhẹ như nón, ống tranh.
 - **Móc treo:** chỉ cho một túi nhỏ, nhẹ, không treo đồ gốm.
 
-Với xe số, giỏ trước chỉ hợp với đồ mềm, vì giỏ rung mạnh và đồ chất cao dễ che đèn pha. Tuyệt đối không để túi treo ở tay lái hay chất đồ cao quá ngực người lái, vì như vậy che tầm nhìn và cản đánh lái. Đồ chìa ra quá thân xe cũng dễ quệt vào người đi bộ trong những phố hẹp như Tạ Hiện, Hàng Bè. Nếu phải buộc đồ lên yên sau, xem thêm nguyên tắc [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+Với xe số, giỏ trước chỉ hợp với đồ mềm, vì giỏ rung mạnh và đồ chất cao dễ che đèn pha. Tuyệt đối không để túi treo ở tay lái hay chất đồ cao quá ngực người lái, vì như vậy che tầm nhìn và cản đánh lái. Đồ chìa ra quá thân xe cũng dễ quệt vào người đi bộ trong những phố hẹp như Tạ Hiện, Hàng Bè. Nếu phải buộc đồ lên yên sau, xem thêm nguyên tắc [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 
 ## Đường về chỗ ở: chạy chậm qua phố hẹp và cầu
 

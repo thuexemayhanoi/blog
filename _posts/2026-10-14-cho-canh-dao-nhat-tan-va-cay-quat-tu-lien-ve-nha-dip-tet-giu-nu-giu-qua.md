@@ -47,7 +47,7 @@ Quất khó hơn đào vì có cả chậu đất nặng và tán đầy quả c
 
 - **Che tán trước khi nhấc cây.** Nhà vườn ở Tứ Liên quen bọc tán bằng lưới hoặc giấy. Nếu chưa có, quấn áo mưa cũ quanh tán, buộc lỏng để quả có chỗ tựa chứ không bị ép.
 - **Đặt chậu ở chỗ thấp nhất.** Xe ga: chậu đứng trên sàn để chân, chèn khăn quanh đáy, một sợi dây chun vòng qua thân chậu móc vào móc treo đồ để chậu không đổ về trước khi phanh.
-- **Xe số:** đặt chậu vào thùng bìa cứng buộc lên giá sau theo nguyên tắc ở bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/), hoặc để người ngồi sau ôm chậu trên đùi.
+- **Xe số:** đặt chậu vào thùng bìa cứng buộc lên giá sau theo nguyên tắc ở bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/), hoặc để người ngồi sau ôm chậu trên đùi.
 - **Không tưới ngay trước khi chở.** Đất ướt làm chậu nặng thêm và rỉ nước ra sàn xe.
 
 Đường vào làng và cách xem cây đã có ở bài [mua quất cảnh ở làng Tứ Liên trước Tết bằng xe máy](/du-lich/2026/10/13/mua-quat-canh-o-lang-tu-lien-truoc-tet-bang-xe-may-duong-vao-chon-cay-cho-ve/).

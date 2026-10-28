@@ -69,7 +69,7 @@ Nếu buộc phải dùng vali, hãy cân nhắc loại xe: xe số có giá sau
 
 **Với ba lô:** kéo hết dây siết hai bên, gom quai đeo lại rồi dùng một dây chun buộc chúng vào nhau trước khi chằng ba lô lên xe. Mặt lưng có đệm úp xuống yên để không trượt.
 
-Dù chọn loại nào, nguyên tắc chung trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/) vẫn áp dụng: đồ không cao quá vai người lái, không che đèn hậu, biển số và không lệch về một bên.
+Dù chọn loại nào, nguyên tắc chung trong bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/) vẫn áp dụng: đồ không cao quá vai người lái, không che đèn hậu, biển số và không lệch về một bên.
 
 ## Chuẩn bị chống mưa trước khi rời Hà Nội
 

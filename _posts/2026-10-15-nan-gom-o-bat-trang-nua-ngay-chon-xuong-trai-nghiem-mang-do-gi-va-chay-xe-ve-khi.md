@@ -17,7 +17,7 @@ writer_session: s-claude-w3
 
 Một buổi nặn gốm Bát Tràng là trò chơi cuối tuần mà cả trẻ con lẫn nhóm bạn trẻ đều thích: ngồi bên bàn xoay, tay lấm đất sét, cuối buổi có một chiếc cốc méo mó mang tên mình. Nhưng nhiều gia đình về nhà mới thấy tiếc: quần áo dính đất, sản phẩm vỡ trên đường, hoặc quên hỏi chuyện nung nên không biết bao giờ mới nhận được đồ. Bài này không bàn đường đi hay chuyện mua bát đĩa, mà tập trung vào chính buổi nặn: chọn xưởng, chuẩn bị đồ, hỏi việc nung và chạy xe máy về khi sản phẩm còn ướt.
 
-Nếu cần lộ trình từ nội thành và cách đi đường đê, xem trước bài [đi làng gốm Bát Tràng bằng xe máy nửa ngày](/thue-xe/2026/10/12/i-lang-gom-bat-trang-bang-xe-may-nua-ngay-uong-i-va-luu-y-khi-tham-quan/).
+Nếu cần lộ trình từ nội thành và cách đi đường đê, xem trước bài [đi làng gốm Bát Tràng bằng xe máy nửa ngày](/thue-xe/2026/10/12/di-lang-gom-bat-trang-bang-xe-may-nua-ngay-duong-di-va-luu-y-khi-tham-quan/).
 
 ## Chọn xưởng nặn gốm Bát Tràng: hỏi rõ trước khi ngồi vào bàn xoay
 

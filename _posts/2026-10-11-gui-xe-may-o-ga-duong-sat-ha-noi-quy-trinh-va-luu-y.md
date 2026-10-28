@@ -26,7 +26,7 @@ Muốn gửi xe ở ga Hà Nội cho đúng chỗ, hãy xem tên ga, số hiệu
 
 Trông giữ xe ở ga tàu khác gửi xe ngoài phố ở chỗ thời gian: người ta thường gửi theo ngày chứ không phải vài giờ. Quanh ga thường có hai kiểu chỗ giữ: một kiểu gắn với khuôn viên ga, một kiểu là chỗ của hộ dân hoặc đơn vị tư nhân trong ngõ và phố xung quanh. Mức độ bài bản, giờ mở cửa và cách tính tiền mỗi nơi một khác, lại có thể đổi theo thời điểm, nên lời kể cũ trên mạng chỉ để tham khảo.
 
-Cách phân biệt nhanh là nhìn tín hiệu: có bảng giá và giờ hoạt động không, vé phát ra là vé in có số hay mảnh giấy viết tay, có camera và người trực không. Dấu hiệu chung của một bãi đáng tin còn được gom trong bài về [cách chọn bãi gửi xe qua đêm ở Hà Nội](/ky-nang/2026/10/04/gui-xe-may-qua-em-o-ha-noi-chon-bai-va-luu-y/). Nếu đi cùng vali hoặc trẻ nhỏ, nên chọn chỗ gần cổng ga.
+Cách phân biệt nhanh là nhìn tín hiệu: có bảng giá và giờ hoạt động không, vé phát ra là vé in có số hay mảnh giấy viết tay, có camera và người trực không. Dấu hiệu chung của một bãi đáng tin còn được gom trong bài về [cách chọn bãi gửi xe qua đêm ở Hà Nội](/ky-nang/2026/10/04/gui-xe-may-qua-dem-o-ha-noi-chon-bai-va-luu-y/). Nếu đi cùng vali hoặc trẻ nhỏ, nên chọn chỗ gần cổng ga.
 
 ## Gửi xe máy ga đường sắt Hà Nội: bốn bước tại bãi
 

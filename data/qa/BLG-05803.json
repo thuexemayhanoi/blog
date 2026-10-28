@@ -47,9 +47,46 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-15-di-tour-ha-long-hoac-ninh-binh-trong-ngay-tra-xe-thue-truoc-khi-len-xe-tour-hay.md",
-  "content_sha256": "ce566d40ae518daa57cdbc4e2307a8e200137e4e3b0ee82846c91ae851f41ea8",
+  "content_sha256": "ee06b5e33a097fe269c7a0feed350a656ccade195a6261fdc7749040309c762f",
   "matrix_row_sha256": "67ac93c5f65437278989bb717e7fc4e3d0963218f325a4f8c66f479fb6a54ebb",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-20T20:41:43+00:00"
+  "published_at": "2026-10-20T20:41:43+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "link-retarget",
+    "purpose": "internal-link-retarget",
+    "reason": "Tro lien ket noi bo thang toi URL moi (sau di tru slug d -> d, hoac them dau / cuoi) thay vi qua trang chuyen huong/301 cua may chu. Issue #77.",
+    "approval_ref": "chu-repo:chi-thi-2026-10-27-bo-sung-quyet-dinh-cuoi-go-url-cu/issue-77-links-p47 (session_01D88QamSe7ksLm1ZpE5Y7fT)",
+    "batch_id": "links-20261028-p47a",
+    "revised_at": "2026-10-28T00:12:04+00:00",
+    "previous_evidence_sha256": "70e860c0ecd375214c9542e7cdc6c57eba110fd05253be107ca8f835ee7503e7",
+    "previous_content_sha256": "ce566d40ae518daa57cdbc4e2307a8e200137e4e3b0ee82846c91ae851f41ea8",
+    "previous_matrix_row_sha256": "67ac93c5f65437278989bb717e7fc4e3d0963218f325a4f8c66f479fb6a54ebb",
+    "new_content_sha256": "ee06b5e33a097fe269c7a0feed350a656ccade195a6261fdc7749040309c762f",
+    "mapping_sha256": "ce5db094a89d66442b19865893372260a1334cd3a10313b4bc61227aa0c24a34",
+    "links_retargeted": 1,
+    "targets": {
+      "/ky-nang/2026/10/04/gui-xe-may-qua-em-o-ha-noi-chon-bai-va-luu-y/": 1
+    },
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/migrate-slug-urls.py links-apply",
+    "tool_commit": "5bbf9e8a55dfcd36a6bdc8766bb97549b0cafff7",
+    "scorer_code_sha256": "e75668446d2abd25738e25f75c2790e0a2208bc96e1266103665b0366b729497",
+    "business_facts_sha256": "7725c6795ff9b6e9e2988f2d298f660e6d97ba11eee84f43473468c1ecd05b04",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "migrate_tool_sha256": "ddd2be356a2f313bf991d56eab56c101545909274cab45dcbb11e2039f5bcefd",
+    "slugkit_sha256": "3ca830e9d1fe26935aafc87750f95908dbe3b5cb9aa92d2779157ef4e6b1ec4d",
+    "baseline_sha256": "6a91c1c7e18ad2b6c0a85d309ae9939cc91c06e54106bf22f46280194222197c",
+    "note": "chi doi DICH lien ket noi bo (chu lien ket, tieu de, # doan va moi byte khac giu nguyen); scored_at/published_at o cap tren giu moc lich su goc; cham diem doc lap luc revised_at"
+  }
 }

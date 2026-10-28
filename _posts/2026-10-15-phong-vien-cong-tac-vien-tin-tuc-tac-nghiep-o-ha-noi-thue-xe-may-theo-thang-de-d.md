@@ -38,7 +38,7 @@ Nếu bạn hay đi đường dài ra vùng ven như Đông Anh, Gia Lâm hay S�
 Máy ảnh treo lủng lẳng trước ngực hay chân máy kẹp dưới nách khi đang lái đều rất nguy hiểm. Quy tắc đơn giản: mọi thiết bị nằm trong balo hoặc cốp trước khi nổ máy.
 
 - **Balo có ngăn chia và đệm mút.** Máy quay, ống kính, micro không dây, sạc dự phòng nằm trong các ngăn riêng để không va vào nhau qua ổ gà.
-- **Chân máy và gậy micro buộc dọc.** Buộc sát thân balo hoặc cố định vào giá sau, không để chĩa ngang ra ngoài làm vướng người đi bên cạnh. Cách buộc chắc chắn xem thêm ở bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-o-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
+- **Chân máy và gậy micro buộc dọc.** Buộc sát thân balo hoặc cố định vào giá sau, không để chĩa ngang ra ngoài làm vướng người đi bên cạnh. Cách buộc chắc chắn xem thêm ở bài [buộc đồ trên yên sau không xô lệch xe](/ky-nang/2026/10/04/buoc-do-tren-yen-sau-nguyen-tac-khong-xo-lech-xe/).
 - **Áo mưa và túi chống nước luôn có sẵn.** Mưa Hà Nội đến rất nhanh vào mùa hè. Một túi chống nước bọc ngoài balo cứu được cả bộ thiết bị; những thứ nên mang cho mùa mưa có trong bài [mùa mưa Hà Nội chuẩn bị gì khi đi xe máy thuê](/ky-nang/2026-09-29/mua-mua-ha-noi-chuan-bi-gi-khi-di-xe-may-thue/).
 - **Điện thoại gắn giá đỡ chỉ để xem bản đồ.** Không gọi điện, không nhắn tin, không quay khi xe đang chạy.
 
