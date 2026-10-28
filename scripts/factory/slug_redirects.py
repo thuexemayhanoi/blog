@@ -133,6 +133,30 @@ def actual_stub_files(root=None):
     return out
 
 
+def literal_union_regex(strings):
+    """Regex khớp chuỗi DÀI NHẤT trong `strings` (khác rỗng) tại vị trí trái nhất — cùng kết quả với
+    '|'.join(re.escape(s) for s in sorted(strings, key=len, reverse=True)), nhưng dựng dạng trie. sre thử từng nhánh
+    của alternation phẳng tại MỌI vị trí (hàng nghìn URL x mọi ký tự của ~6.000 tệp = validate chậm vài giây); trie
+    chỉ đi đúng một nhánh. Nhánh con đặt trước điểm kết thúc (`(?:...)?` tham lam) nên khớp dài nhất thắng."""
+    trie = {}
+    for s in strings:
+        node = trie
+        for ch in s:
+            node = node.setdefault(ch, {})
+        node[''] = {}                               # '' = có chuỗi kết thúc tại nút này (ký tự thật luôn dài 1)
+
+    def build(node):
+        alts = [re.escape(ch) + build(child) for ch, child in sorted(node.items()) if ch]
+        if not alts:
+            return ''
+        body = alts[0] if len(alts) == 1 else '(?:%s)' % '|'.join(alts)
+        return '(?:%s)?' % body if '' in node else body
+
+    if not trie or '' in trie:
+        raise ValueError('literal_union_regex cần tập chuỗi khác rỗng, không chứa chuỗi rỗng')
+    return re.compile(build(trie))
+
+
 def source_link_hits(urls, root=None, include_drafts=False):
     """{tệp tương đối: số liên kết} trỏ tới `urls` trong NGUỒN site (bài, include, layout, trang, _data), không cần build.
     Mỗi lần xuất hiện của URL (có/không '/' cuối, đủ token) = một liên kết; bỏ qua SOURCE_SKIP_DIRS ở gốc repo.
@@ -146,7 +170,7 @@ def source_link_hits(urls, root=None, include_drafts=False):
     forms.discard('')
     if not forms:
         return {}
-    pat = re.compile('|'.join(re.escape(f) for f in sorted(forms, key=len, reverse=True)))
+    pat = literal_union_regex(forms)
     hits = {}
     for dp, dns, fns in os.walk(root):
         at_root = os.path.relpath(dp, root) == '.'
@@ -306,6 +330,10 @@ def source_errors(root=None, matrix_rows=None, evidence=True):
     return errs
 
 
+# output_path = _posts/<{date}|YYYY-MM-DD>-<slug>.md; MỘT regex biên dịch sẵn (không dựng regex riêng cho từng hàng matrix)
+OUTPUT_PATH_RE = re.compile(r'^_posts/(?:\{date\}|\d{4}-\d{2}-\d{2})-(.+)\.md\Z')
+
+
 def policy_errors(matrix_rows, root=None):
     """Chính sách slug cho mọi hàng factory (source `planned:`); legacy (slug theo tên tệp) không thuộc phạm vi.
     Ngoại lệ DUY NHẤT: bài còn trong danh sách đóng băng chưa di trú, và chỉ khi slug đúng bằng slug lỗi cũ
@@ -334,7 +362,8 @@ def policy_errors(matrix_rows, root=None):
                 errs.append('URL %s %s: %r không đúng chính sách ASCII/hình dạng' % (aid, k, u))
             elif not u.endswith('-' + slug + '/') and not u.endswith('/' + slug + '/'):
                 errs.append('URL %s %s: %r không kết thúc bằng slug %r' % (aid, k, u, slug))
-        if not re.match(r'^_posts/(?:\{date\}|\d{4}-\d{2}-\d{2})-%s\.md\Z' % re.escape(slug), r.get('output_path', '')):
+        om = OUTPUT_PATH_RE.match(r.get('output_path', ''))
+        if not om or om.group(1) != slug:
             errs.append('output_path %s: %r không khớp slug %r' % (aid, r.get('output_path'), slug))
         if slug in seen:
             errs.append('slug trùng giữa %s và %s: %s' % (seen[slug], aid, slug))

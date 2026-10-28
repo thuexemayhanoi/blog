@@ -261,6 +261,66 @@ class PolicyRegressionTest(unittest.TestCase):
     def test_legacy_rows_are_out_of_scope(self):
         self.assertEqual(self.codes([{'id': 'BLG-00001', 'status': 'EXISTING', 'source': 'legacy:x', 'title': 'Đ', 'slug': 'Đ'}]), [])
 
+    def test_output_path_must_be_exactly_date_or_placeholder_plus_slug(self):
+        r = fake_row(12)
+        slug = r['slug']
+        for good in ('_posts/{date}-%s.md' % slug, '_posts/2026-10-07-%s.md' % slug):
+            self.assertEqual(self.codes([dict(r, output_path=good)]), [], good)
+        for bad in ('_posts/2026-10-07-x-%s.md' % slug, '_posts/2026-10-07-%s-x.md' % slug, '_posts/2026-10-07-%s.md.md' % slug,
+                    '_posts/2026-10-7-%s.md' % slug, '_posts/{date}%s.md' % slug, 'posts/2026-10-07-%s.md' % slug,
+                    '_posts/2026-10-07-%s.md\n' % slug, '', '_posts/2026-10-07-%s.markdown' % slug):
+            self.assertTrue(any('output_path' in e for e in self.codes([dict(r, output_path=bad)])), repr(bad))
+
+
+class LinkScanTest(unittest.TestCase):
+    """literal_union_regex (trie) = alternation phẳng cũ (dài nhất trước) về MỌI vị trí/chuỗi khớp; source_link_hits giữ
+    nguyên quy tắc token. Lý do: alternation phẳng 2.810 URL làm validate chậm ~3 s/lần khi registry có dòng RETIRED."""
+
+    @staticmethod
+    def flat(strings):
+        return re.compile('|'.join(re.escape(s) for s in sorted(strings, key=len, reverse=True)))
+
+    def same(self, strings, text):
+        a = [(m.start(), m.group(0)) for m in self.flat(strings).finditer(text)]
+        b = [(m.start(), m.group(0)) for m in SR.literal_union_regex(strings).finditer(text)]
+        self.assertEqual(a, b, (sorted(strings), text))
+
+    def test_equivalent_to_flat_alternation_randomized(self):
+        import random
+        rnd = random.Random(77)
+        for _ in range(400):
+            words = {''.join(rnd.choice('/ab-.') for _ in range(rnd.randint(1, 7))) for _ in range(rnd.randint(1, 12))}
+            words |= {w.rstrip('/') for w in words}
+            words.discard('')
+            text = ''.join(rnd.choice('/ab-.c ') for _ in range(rnd.randint(0, 80)))
+            for w in rnd.sample(sorted(words), min(3, len(words))):             # cài chắc vài lần xuất hiện thật
+                i = rnd.randint(0, len(text))
+                text = text[:i] + w + text[i:]
+            self.same(words, text)
+
+    def test_equivalent_on_url_shapes_overlap_and_special_chars(self):
+        words = {'/a/b/c/', '/a/b/c', '/b/cd/', '/b/cd', '/x(y)/', '/x(y)', '/a/', '/a'}
+        for text in ('/a/b/cd/ /b/cd/', '](/a/b/c/) {{ "/a/b/c" | relative_url }}', 'https://h/a/b/c/x', '/x(y)/ /x(y)z',
+                     '/a/b/c/a/b/c', '', '////', '/a/b/c/d/'):
+            self.same(words, text)
+
+    def test_rejects_empty_input(self):
+        for bad in (set(), {''}, {'/a/', ''}):
+            with self.assertRaises(ValueError):
+                SR.literal_union_regex(bad)
+
+    def test_source_link_hits_token_rule_unchanged(self):
+        root = tempfile.mkdtemp(prefix='linkscan-')
+        try:
+            os.makedirs(os.path.join(root, '_posts'))
+            with open(os.path.join(root, '_posts', '2026-01-01-x.md'), 'w', encoding='utf-8') as f:
+                f.write('[1](/xe/2026/01/01/cu/) [2]({{ "/xe/2026/01/01/cu" | relative_url }}) [3](/xe/2026/01/01/cu-khac/) '
+                        '[4](https://blog.thuexemaynguyentu.com/xe/2026/01/01/cu/#a) [5](/xe/2026/01/01/cux)')
+            self.assertEqual(SR.source_link_hits(['/xe/2026/01/01/cu/'], root), {'_posts/2026-01-01-x.md': 3})
+            self.assertEqual(SR.source_link_hits([], root), {})
+        finally:
+            shutil.rmtree(root)
+
 
 # ----------------------------------------------------------------- registry/stub trên cây tạm
 
