@@ -142,14 +142,15 @@ class TestQualityGateWiring(unittest.TestCase):
         # selector CANONICAL, không phải logic inline trong YAML
         self.assertIn('scripts/factory/gate-scope.py', y)
         self.assertIn("echo \"mode=$MODE\" >> \"$GITHUB_OUTPUT\"", y)
-        # 9 step nặng phải điều kiện theo mode == full
+        # 10 step nặng phải điều kiện theo mode == full
         self.assertEqual(
-            y.count("if: steps.mode.outputs.mode == 'full'"), 9,
-            'build/links/faq-parity/canonical/slug-redirects/draft-leak/sitemap/crawler/'
+            y.count("if: steps.mode.outputs.mode == 'full'"), 10,
+            'build/links/faq-parity/canonical/slug-redirects/url-hygiene/draft-leak/sitemap/crawler/'
             'sitemap-targets phải chạy CHỈ ở mode full')
         for step in ('Build site', 'Built-site link integrity',
                      'FAQ parity',
                      'Canonical + legacy-host sanity',
+                     'URL hygiene',
                      'Drafts must not be deployed', 'Sitemap + schema',
                      'Crawler metadata sanity',
                      'Sitemap targets must exist in built site'):
@@ -175,6 +176,9 @@ class TestQualityGateWiring(unittest.TestCase):
                          'backup phải nằm trong changed-files để gate-scope thấy')
         self.assertIn('reattest-legacy-qa.py verify --backup', y)
         self.assertIn('reports/qa-audit/reattest/*.json', y)
+        self.assertIn('retire-slug-stubs.py verify --backup', y)
+        self.assertIn('reports/qa-audit/retire/*.json', y)
+        self.assertIn('check-site-urls.py --site ./_site', y)
         gs = gate_mod()
         # backup nằm ngoài hợp đồng content => FULL (fail-closed); evidence đơn lẻ vẫn là content
         self.assertEqual(gs.classify(['data/qa/BLG-00486.json',

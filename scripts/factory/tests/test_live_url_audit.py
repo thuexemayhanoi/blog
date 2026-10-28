@@ -251,6 +251,50 @@ def html_page(title, canonical='', body_html='', head_extra='', words=80):
                body_html, ' '.join(['noidung'] * words))).encode('utf-8')
 
 
+class RetiredStubProbeTest(unittest.TestCase):
+    """Dòng RETIRED (URL cũ đã gỡ theo quyết định chủ 2026-10-27): URL cũ PHẢI 404/410 và không nằm trong sitemap; URL mới kiểm như
+    dòng MIGRATED. Dòng MIGRATED vẫn kiểm trang chuyển hướng như cũ."""
+
+    @classmethod
+    def setUpClass(cls):
+        def build(o):
+            r = {}
+            r['/hub/bai-moi/'] = (200, html_page('Bai moi', o + '/hub/bai-moi/', '<a href="/">x</a>', words=120), {})
+            r['/hub/moi-2/'] = (200, html_page('Bai moi 2', o + '/hub/moi-2/', '<a href="/">x</a>', words=120), {})
+            r['/hub/cu-con-stub/'] = (200, stub_html('/hub/moi-2/', o + '/hub/moi-2/'), {})
+            r['/hub/cu-van-stub/'] = (200, stub_html('/hub/bai-moi/', o + '/hub/bai-moi/'), {})
+            r['/sitemap.xml'] = (200, sitemap_xml(o, ['/hub/bai-moi/', '/hub/moi-2/', '/hub/cu-trong-sm/']), {})
+            return r
+
+        cls.srv = TableSrv(build)
+        cls.tmp = tempfile.mkdtemp(prefix='retiredaudit-')
+        cls.reg = os.path.join(cls.tmp, 'registry.csv')
+        with open(cls.reg, 'w', encoding='utf-8', newline='') as f:
+            w = csv.writer(f, lineterminator='\n')
+            w.writerow(['article_id', 'old_url', 'new_url', 'status'])
+            w.writerow(['BLG-1', '/hub/cu-da-go/', '/hub/bai-moi/', 'RETIRED'])        # 404 + mới 200 = đạt
+            w.writerow(['BLG-2', '/hub/cu-van-stub/', '/hub/bai-moi/', 'RETIRED'])     # đã gỡ nhưng vẫn phục vụ 200
+            w.writerow(['BLG-3', '/hub/cu-trong-sm/', '/hub/bai-moi/', 'RETIRED'])     # 404 nhưng còn trong sitemap
+            w.writerow(['BLG-4', '/hub/cu-con-stub/', '/hub/moi-2/', 'MIGRATED'])      # trang chuyển hướng hợp lệ
+
+    @classmethod
+    def tearDownClass(cls):
+        cls.srv.close()
+
+    def test_retired_rows(self):
+        ev = AUDIT.stubs(self.srv.origin, self.reg, 0, 0, 2, 5)
+        self.assertEqual((ev['registry_total'], ev['retired_total']), (4, 3))
+        by = {r['article_id']: r for r in ev['rows']}
+        self.assertTrue(by['BLG-1']['ok'], by['BLG-1']['problems'])
+        self.assertEqual(by['BLG-1']['old_status'], 404)
+        self.assertEqual(by['BLG-2']['problems'], ['RETIRED_OLD_STATUS_200'])
+        self.assertEqual(by['BLG-3']['problems'], ['OLD_STILL_IN_SITEMAP'])
+        self.assertTrue(by['BLG-4']['ok'], by['BLG-4']['problems'])
+        self.assertEqual(ev['ok'], 2)
+        self.assertFalse(ev['all_ok'])
+        self.assertEqual(len(AUDIT.load_registry(self.reg)), 1)           # crawl: chỉ dòng còn trang chuyển hướng
+
+
 class TableSrv:
     """Máy chủ cục bộ theo bảng route: path đã giải mã (unquote) -> (status, body, headers)."""
 

@@ -5,6 +5,7 @@
 Chạy: python3 scripts/factory/tests/test_operator.py (từ gốc repository)
 """
 import json
+import shutil
 import os
 import subprocess
 import sys
@@ -190,6 +191,24 @@ class OperatorQATest(unittest.TestCase):
         for v in (150000, 200000, 800000, 850000, 1000000):
             self.assertIn(v, op.APPROVED_AMOUNTS)
         self.assertNotIn(50000, op.APPROVED_AMOUNTS)
+
+    def test_links_to_retired_old_urls_fail_routes_in_every_form(self):
+        """URL cũ đã gỡ (registry RETIRED) trả 404: draft trỏ vào — dạng markdown, Liquid relative_url, tuyệt đối, thiếu '/'
+        — phải bị bắt ở bước chấm (REPAIR), không lọt vào _posts. URL cũ còn trang chuyển hướng (MIGRATED) không bị tính."""
+        tmp = tempfile.mkdtemp(prefix='retired-')
+        cwd = os.getcwd()
+        try:
+            os.makedirs(os.path.join(tmp, 'reports/factory/seo-master'))
+            with open(os.path.join(tmp, 'reports/factory/seo-master/slug-redirect-registry.csv'), 'w', encoding='utf-8') as f:
+                f.write('article_id,old_url,new_url,status\nBLG-1,/a/cu-go/,/a/moi/,RETIRED\nBLG-2,/a/cu-stub/,/a/moi-2/,MIGRATED\n')
+            os.chdir(tmp)
+            for body in ('[x](/a/cu-go/)', "[x]({{ '/a/cu-go/' | relative_url }})", '<a href="https://blog.thuexemaynguyentu.com/a/cu-go">x</a>'):
+                self.assertTrue(op.retired_link_hits(body), body)
+            self.assertEqual(op.retired_link_hits('[x](/a/cu-go-khac/) [y](/a/cu-stub/) [z](/a/moi/)'), [])
+        finally:
+            os.chdir(cwd)
+            shutil.rmtree(tmp, True)
+        self.assertEqual(op.retired_link_hits('[x](/a/cu-go/)'), [])     # repo thật hiện chưa có dòng RETIRED nào khớp
 
     def test_approved_deposits_whitelisted_as_listed(self):
         # Cọc đã duyệt (approved_pricing.*.deposit) được nêu được: mức đơn và hai đầu khoảng; mức giữa khoảng thì không.

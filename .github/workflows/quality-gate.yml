@@ -218,6 +218,24 @@ jobs:
           done < changed-files.txt
           if [ "$found" = 0 ]; then echo "no matrix-sync backup in this change"; fi
 
+      - name: Stub-retirement backups touched by this change must verify
+        run: |
+          set -eu
+          # scripts/factory/retire-slug-stubs.py gỡ trang chuyển hướng URL cũ (quyết định chủ 2026-10-27: URL cũ trả 404) và
+          # commit sao lưu riêng (reports/qa-audit/retire/). Mọi sao lưu được THÊM/SỬA trong thay đổi này phải verify: dòng
+          # registry = dòng cũ + status RETIRED, trang chuyển hướng đã gỡ, bài ở URL mới còn nguyên, KHÔNG còn liên kết tới URL cũ.
+          found=0
+          while IFS= read -r f; do
+            case "$f" in
+              reports/qa-audit/retire/*.json)
+                [ -f "$f" ] || continue
+                found=1
+                python3 scripts/factory/retire-slug-stubs.py verify --backup "$f"
+                ;;
+            esac
+          done < changed-files.txt
+          if [ "$found" = 0 ]; then echo "no stub-retirement backup in this change"; fi
+
       - name: Custom-domain invariants
         run: |
           set -eu
@@ -287,6 +305,14 @@ jobs:
           # meta refresh 0 giây tới URL mới + canonical mới + không có trong sitemap; trang mới hợp lệ, có trong sitemap;
           # không có trang chuyển hướng lạ; liên kết nội bộ tới trang chuyển hướng không vượt ngưỡng ratchet (chỉ giảm).
           python3 scripts/factory/check-slug-redirects.py --site ./_site
+
+      - name: URL hygiene (no duplicate permalink/sitemap URL, ASCII slugs, self-canonical sitemap pages)
+        if: steps.mode.outputs.mode == 'full'
+        run: |
+          set -eu
+          # Permalink nguồn không trùng và chỉ [a-z0-9-/] (slug do slugkit sinh, đ -> d); sitemap không trùng <loc>, đúng host,
+          # mỗi URL sitemap có đúng một canonical tự trỏ, không meta refresh, không noindex; không hai trang cùng canonical.
+          python3 scripts/factory/check-site-urls.py --site ./_site --root .
 
       - name: Drafts must not be deployed (no draft in sitemap or output)
         if: steps.mode.outputs.mode == 'full'

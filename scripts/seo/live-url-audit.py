@@ -20,7 +20,8 @@ Chế độ:
              HTTP 200 chứa `<meta http-equiv="refresh" content="0; url=MỚI">` + canonical MỚI và
              KHÔNG nằm trong sitemap; URL MỚI phải HTTP 200, canonical tự trỏ, KHÔNG phải trang
              chuyển hướng (không chuỗi/vòng), CÓ trong sitemap, có H1 và nội dung. Đây KHÔNG phải
-             HTTP 301: báo cáo gọi đúng tên "HTTP 200 + meta refresh".
+             HTTP 301: báo cáo gọi đúng tên "HTTP 200 + meta refresh". Dòng RETIRED (URL cũ đã gỡ theo
+             quyết định chủ 2026-10-27): URL CŨ phải 404/410 và KHÔNG nằm trong sitemap; URL MỚI kiểm như trên.
   redirects  (dự phòng) Probe OLD -> NEW kiểu HTTP 301/308 thật của `slug-d-migration-map.csv`; chỉ
              có ý nghĩa nếu sau này có lớp edge. GitHub Pages thuần KHÔNG trả 301 theo đường dẫn.
 
@@ -300,13 +301,13 @@ def load_slug_paths():
     return old, new
 
 
-def load_registry(path):
-    """Registry di trú: các dòng đã MIGRATED (cột status nếu có)."""
+def load_registry(path, statuses=('MIGRATED',)):
+    """Registry di trú: các dòng có status thuộc `statuses` (mặc định MIGRATED = còn trang chuyển hướng; RETIRED = URL cũ đã gỡ)."""
     rows = []
     if os.path.exists(path):
         with open(path, encoding='utf-8', newline='') as f:
             for r in csv.DictReader(f):
-                if r.get('old_url') and r.get('new_url') and r.get('status', 'MIGRATED') == 'MIGRATED':
+                if r.get('old_url') and r.get('new_url') and r.get('status', 'MIGRATED') in statuses:
                     rows.append(r)
     return rows
 
@@ -678,9 +679,9 @@ def redirects(origin, start, limit, workers, timeout, map_path):
             'ok': sum(1 for r in rows if r['ok']), 'rows': rows}
 
 
-def probe_stub(origin, old, new, sitemap_set, old_set, timeout):
-    """Một cặp OLD (trang chuyển hướng meta refresh) -> NEW (trang thật). Mọi điều kiện phải đạt."""
-    row = {'old': old, 'new': new, 'problems': []}
+def probe_stub(origin, old, new, sitemap_set, old_set, timeout, retired=False):
+    """Một cặp OLD (trang chuyển hướng meta refresh; hoặc URL đã gỡ nếu `retired`) -> NEW (trang thật). Mọi điều kiện phải đạt."""
+    row = {'old': old, 'new': new, 'problems': [], 'retired': retired}
     bad = row['problems']
     r = fetch(origin + old, 'GET', timeout, body=True)
     row['old_status'] = r['status']
@@ -688,7 +689,10 @@ def probe_stub(origin, old, new, sitemap_set, old_set, timeout):
     mr = info.get('meta_refresh')
     row['old_meta_refresh'] = mr
     row['old_canonical'] = info.get('canonical', '')
-    if r['status'] != 200:
+    if retired:
+        if r['status'] not in (404, 410):
+            bad.append('RETIRED_OLD_STATUS_%s' % r['status'])
+    elif r['status'] != 200:
         bad.append('OLD_STATUS_%s' % r['status'])
     elif not mr:
         bad.append('OLD_NO_META_REFRESH')
@@ -697,7 +701,7 @@ def probe_stub(origin, old, new, sitemap_set, old_set, timeout):
             bad.append('OLD_REFRESH_DELAY_%s' % mr['delay'])
         if not same_url(mr['target'], new, origin):
             bad.append('OLD_REFRESH_WRONG_TARGET')
-    if r['status'] == 200 and not (info.get('canonical') and same_url(info['canonical'], new, origin)):
+    if not retired and r['status'] == 200 and not (info.get('canonical') and same_url(info['canonical'], new, origin)):
         bad.append('OLD_CANONICAL_NOT_NEW')
     if origin + old in sitemap_set:
         bad.append('OLD_STILL_IN_SITEMAP')
@@ -727,12 +731,13 @@ def probe_stub(origin, old, new, sitemap_set, old_set, timeout):
 
 
 def stubs(origin, registry_path, start, limit, workers, timeout):
-    reg = load_registry(registry_path)
+    reg = load_registry(registry_path, ('MIGRATED', 'RETIRED'))
     chunk = reg[start:start + limit] if limit else reg[start:]
     sm = set(load_sitemap(origin, timeout))
     old_set = {urllib.parse.unquote(r['old_url']) for r in reg}
     with ThreadPoolExecutor(max_workers=workers) as pool:
-        rows = list(pool.map(lambda r: probe_stub(origin, r['old_url'], r['new_url'], sm, old_set, timeout), chunk))
+        rows = list(pool.map(lambda r: probe_stub(origin, r['old_url'], r['new_url'], sm, old_set, timeout,
+                                                  r.get('status') == 'RETIRED'), chunk))
     for r, reg_row in zip(rows, chunk):
         r['article_id'] = reg_row.get('article_id', '')
     counts = {}
@@ -740,9 +745,10 @@ def stubs(origin, registry_path, start, limit, workers, timeout):
         for p in r['problems']:
             counts[p] = counts.get(p, 0) + 1
     return {'schema': STUB_EVIDENCE_SCHEMA, 'origin': origin,
-            'kind': 'HTTP 200 + meta refresh 0s + canonical (khong phai HTTP 301)',
+            'kind': 'HTTP 200 + meta refresh 0s + canonical (khong phai HTTP 301); RETIRED: URL cu 404/410',
             'generated_at': datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='seconds'),
-            'registry_total': len(reg), 'start': start, 'count': len(rows),
+            'registry_total': len(reg), 'retired_total': sum(1 for r in reg if r.get('status') == 'RETIRED'),
+            'start': start, 'count': len(rows),
             'all_ok': bool(rows) and all(r['ok'] for r in rows), 'ok': sum(1 for r in rows if r['ok']),
             'problem_counts': dict(sorted(counts.items())), 'rows': rows}
 

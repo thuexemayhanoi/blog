@@ -836,7 +836,8 @@ def _matrix_restore_bytes(root, old_rows):
 # ------------------------------------------------------------------ dữ liệu phái sinh theo URL
 
 def mapping(root):
-    return {r['old_url']: r['new_url'] for r in SR.load_registry(root) if r.get('status') == SR.MIGRATED}
+    """URL cũ -> mới của mọi bài đã di trú (còn trang chuyển hướng HOẶC URL cũ đã gỡ — liên kết tới URL đã gỡ là 404, càng phải trỏ thẳng)."""
+    return {r['old_url']: r['new_url'] for r in SR.load_registry(root) if r.get('status') in SR.STATUSES}
 
 
 def _rewrite(text, mp):

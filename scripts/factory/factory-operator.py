@@ -561,6 +561,38 @@ def vnd_amounts(body):
                re.findall(r'\b\d{1,3}(?:\.\d{3})+\b', body))
 
 
+_RETIRED_RX = None
+_RETIRED_KEY = None
+
+
+def retired_link_hits(body):
+    """Liên kết tới URL cũ ĐÃ GỠ (registry slug đ->d status RETIRED, Issue #77) ở MỌI dạng — `](/x/)`, Liquid
+    `{{ '/x/' | relative_url }}`, `https://blog.../x/`, có/không '/' cuối: trang đó trả 404. Draft như vậy phải về
+    REPAIR ở bước chấm, không được lọt vào _posts rồi làm validate (slug_redirects.source_errors) dừng publisher.
+    Cùng quy tắc token với slug_redirects.source_link_hits."""
+    global _RETIRED_RX, _RETIRED_KEY
+    path = 'reports/factory/seo-master/slug-redirect-registry.csv'
+    try:
+        st = os.stat(path)
+    except OSError:
+        return []
+    key = (os.path.abspath(path), st.st_mtime_ns, st.st_size)
+    if key != _RETIRED_KEY:
+        forms = set()
+        with open(path, encoding='utf-8', newline='') as f:
+            for r in csv.DictReader(f):
+                if r.get('status') == 'RETIRED' and r.get('old_url'):
+                    forms.update((r['old_url'], r['old_url'].rstrip('/')))
+        forms.discard('')
+        _RETIRED_RX = (re.compile('|'.join(re.escape(x) for x in sorted(forms, key=len, reverse=True)))
+                       if forms else None)
+        _RETIRED_KEY = key
+    if _RETIRED_RX is None:
+        return []
+    return sorted({m.group(0) for m in _RETIRED_RX.finditer(body)
+                   if m.group(0).endswith('/') or not re.match(r'[\w\-/]', body[m.end():m.end() + 1])})
+
+
 def internal_links_in(body):
     # cho phép neo # (anchor): matrix có liên kết bắt buộc dạng
     # /bang-gia/#tinh-gia — regex cũ loại '#' khiến QA không bao giờ thấy
@@ -650,8 +682,9 @@ def qa_check_one(row, rows, biz, tax):
     checks['links_parent_hub'] = any(l.startswith(hub) for l in links)
     checks['links_count'] = 3 <= len(links) <= 8
     # Route thật từ repository truth: liên kết chỉ PASS khi trỏ tới route tồn tại.
-    checks['links_routes_valid'] = all(link_route_ok(l) for l in links)
-    ev['bad_routes'] = sorted(set(l for l in links if not link_route_ok(l)))
+    retired = retired_link_hits(body)
+    checks['links_routes_valid'] = all(link_route_ok(l) for l in links) and not retired
+    ev['bad_routes'] = sorted(set(l for l in links if not link_route_ok(l)) | set(retired))
     legacy_project_prefix = '/' + 'blog/'
     checks['no_hardcoded_blog'] = legacy_project_prefix not in body
 

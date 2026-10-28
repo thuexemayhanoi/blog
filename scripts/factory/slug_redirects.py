@@ -6,10 +6,15 @@ GitHub Pages không có HTTP 301 theo đường dẫn (bằng chứng runner: se
 URL CŨ = trang HTTP 200 với `<meta http-equiv="refresh" content="0; url=MỚI">` + canonical MỚI, bị loại khỏi sitemap;
 URL MỚI = bài thật. Báo cáo luôn gọi đúng tên "HTTP 200 + meta refresh", KHÔNG gọi là 301.
 
+Quyết định chủ 2026-10-27 (sau khi di trú xong): URL cũ không cần giữ lịch sử. Dòng registry được chuyển MIGRATED -> RETIRED
+(retire-slug-stubs.py, chỉ khi không còn liên kết nào trỏ URL cũ và URL mới đã được audit live xác nhận HTTP 200): trang chuyển hướng
+bị gỡ, URL cũ trả 404 (đúng kỳ vọng), registry vẫn giữ ánh xạ cũ -> mới để chặn liên kết mới vào URL đã gỡ.
+
 Ba nguồn sự thật (đều nằm trong repo):
   slug-d-baseline.csv          danh sách ĐÓNG BĂNG 1.410 bài đã xuất bản có slug thiếu chữ d (sha256 được ghim trong test);
                                đây là tập "ngoại lệ lịch sử": chỉ co lại khi bài được di trú, không bao giờ thêm.
-  slug-redirect-registry.csv   các bài ĐÃ di trú (do migrate-slug-urls.py ghi); mỗi dòng sinh đúng một trang chuyển hướng.
+  slug-redirect-registry.csv   các bài ĐÃ di trú (do migrate-slug-urls.py ghi); dòng MIGRATED sinh đúng một trang chuyển hướng,
+                               dòng RETIRED không có trang nào (URL cũ đã gỡ).
   redirects/slug-d/<ID>.html   trang chuyển hướng nguồn (front matter, không thân); tệp phải KHỚP BYTE với `stub_source()`.
 
 validate.py (`slug_policy`), check-slug-redirects.py (trên _site) và test_slug_policy.py đều dùng module này.
@@ -32,7 +37,15 @@ STUB_LAYOUT = 'redirect-stub'
 REGISTRY_COLUMNS = ['article_id', 'title', 'old_url', 'new_url', 'old_slug', 'new_slug', 'old_output_path',
                     'new_output_path', 'status', 'batch_id', 'migrated_at']
 MIGRATED = 'MIGRATED'
+RETIRED = 'RETIRED'            # URL cũ đã gỡ: không còn trang chuyển hướng, URL cũ trả 404; bài vẫn ở URL mới
+STATUSES = (MIGRATED, RETIRED)
 AID_RE = re.compile(r'^BLG-\d{5,}\Z')
+# Thư mục/tệp gốc KHÔNG dựng thành trang site (khớp `exclude:` của _config.yml; redirects/ = chính các trang chuyển hướng;
+# thư mục ẩn như .github): không quét liên kết trong đó — chỉ trang thật mới tạo liên kết 404.
+SOURCE_SKIP_DIRS = {'_site', '.git', '.jekyll-cache', '.sass-cache', 'node_modules', 'vendor', 'docs', 'reports', 'scripts', 'data',
+                    '_drafts', 'redirects', 'tests', 'bin', 'build_info', 'cache', 'en', 'gemfiles', '_queue'}
+SOURCE_SKIP_ROOT_FILES = {'AGENTS.md', 'README.md', 'THEME_UPGRADE_MATRIX.md'}
+SOURCE_EXT = ('.md', '.html', '.yml', '.yaml', '.json')
 SITE_URL = 'https://blog.thuexemaynguyentu.com'
 
 
@@ -72,7 +85,8 @@ def registry_text(rows):
 
 
 def migrated_ids(root=None):
-    return {r['article_id'] for r in load_registry(root) if r.get('status') == MIGRATED}
+    """Bài đã chuyển sang URL mới (còn trang chuyển hướng hoặc URL cũ đã gỡ)."""
+    return {r['article_id'] for r in load_registry(root) if r.get('status') in STATUSES}
 
 
 def pending_ids(root=None):
@@ -119,6 +133,70 @@ def actual_stub_files(root=None):
     return out
 
 
+def source_link_hits(urls, root=None, include_drafts=False):
+    """{tệp tương đối: số liên kết} trỏ tới `urls` trong NGUỒN site (bài, include, layout, trang, _data), không cần build.
+    Mỗi lần xuất hiện của URL (có/không '/' cuối, đủ token) = một liên kết; bỏ qua SOURCE_SKIP_DIRS ở gốc repo.
+    include_drafts=True quét thêm _drafts/ (draft đang xếp hàng sẽ thành bài: gỡ URL khi draft còn trỏ vào là tạo 404)."""
+    root = root or ROOT
+    skip = SOURCE_SKIP_DIRS - ({'_drafts'} if include_drafts else set())
+    forms = set()
+    for u in urls:
+        forms.add(u)
+        forms.add(u.rstrip('/'))
+    forms.discard('')
+    if not forms:
+        return {}
+    pat = re.compile('|'.join(re.escape(f) for f in sorted(forms, key=len, reverse=True)))
+    hits = {}
+    for dp, dns, fns in os.walk(root):
+        at_root = os.path.relpath(dp, root) == '.'
+        if at_root:
+            dns[:] = [d for d in dns if d not in skip and not d.startswith('.')]
+        for fn in fns:
+            if not fn.endswith(SOURCE_EXT) or (at_root and fn in SOURCE_SKIP_ROOT_FILES):
+                continue
+            path = os.path.join(dp, fn)
+            try:
+                with open(path, encoding='utf-8', errors='replace') as f:
+                    text = f.read()
+            except OSError:
+                continue
+            n = 0
+            for m in pat.finditer(text):
+                if m.group(0).endswith('/') or not re.match(r'[\w\-/]', text[m.end():m.end() + 1]):
+                    n += 1
+            if n:
+                hits[os.path.relpath(path, root).replace(os.sep, '/')] = n
+    return hits
+
+
+RETIRE_BACKUP_DIR = 'reports/qa-audit/retire'
+
+
+def retire_provenance(root=None):
+    """{article_id: [đường dẫn sao lưu]} từ các sao lưu retire-slug-stubs.py (reports/qa-audit/retire/*.json): mỗi dòng RETIRED
+    phải đi qua công cụ (chủ duyệt + bằng chứng live), không được gỡ tay. Trả cả dòng registry cũ để đối chiếu."""
+    d = _p(root, RETIRE_BACKUP_DIR)
+    out = {}
+    if not os.path.isdir(d):
+        return out
+    for fn in sorted(os.listdir(d)):
+        if not fn.endswith('.json'):
+            continue
+        try:
+            with open(os.path.join(d, fn), encoding='utf-8') as f:
+                b = json.load(f)
+        except (OSError, ValueError):
+            continue
+        if b.get('schema') != 'retire-backup/1' or not str(b.get('approval_ref', '')).strip() \
+                or not str(b.get('live_ref', '')).strip():
+            continue
+        for aid, e in (b.get('entries') or {}).items():
+            if isinstance(e, dict) and isinstance(e.get('registry_row'), dict):
+                out.setdefault(aid, []).append(('%s/%s' % (RETIRE_BACKUP_DIR, fn), e['registry_row']))
+    return out
+
+
 def has_migration_provenance(ev, new_url):
     """Evidence mang dấu vết di trú permalink đúng URL mới: ở khối `revision` hiện tại HOẶC trong chuỗi `revision.history`
     (các công cụ chính thức sau đó — links-apply, revise-published — đẩy khối cũ xuống history, không xóa)."""
@@ -146,8 +224,8 @@ def source_errors(root=None, matrix_rows=None, evidence=True):
             urls_in_matrix.setdefault(r[k], set()).add(r['id'])
     for r in reg:
         aid = r.get('article_id', '')
-        if r.get('status') != MIGRATED:
-            errs.append('registry %s: status %r != %s' % (aid, r.get('status'), MIGRATED))
+        if r.get('status') not in STATUSES:
+            errs.append('registry %s: status %r không thuộc %s' % (aid, r.get('status'), STATUSES))
             continue
         if aid in ids:
             errs.append('registry trùng article_id %s' % aid)
@@ -212,6 +290,19 @@ def source_errors(root=None, matrix_rows=None, evidence=True):
     # không chuỗi/vòng: URL MỚI không được là URL CŨ của mục khác
     for u in sorted(seen_new & seen_old):
         errs.append('chuỗi chuyển hướng: %s vừa là OLD vừa là NEW' % u)
+    # dòng RETIRED phải có sao lưu retire-slug-stubs.py khớp (dòng cũ MIGRATED, cùng các cột) — không gỡ tay
+    retired_rows = [r for r in reg if r.get('status') == RETIRED]
+    prov = retire_provenance(root) if retired_rows else {}
+    for r in retired_rows:
+        want = {k: r.get(k, '') for k in REGISTRY_COLUMNS if k != 'status'}
+        if not any(old.get('status') == MIGRATED and {k: old.get(k, '') for k in REGISTRY_COLUMNS if k != 'status'} == want
+                   for _, old in prov.get(r['article_id'], [])):
+            errs.append('registry %s: RETIRED nhưng không có sao lưu retire-slug-stubs.py khớp (%s) — không gỡ tay'
+                        % (r['article_id'], RETIRE_BACKUP_DIR))
+    # URL cũ đã gỡ trả 404: KHÔNG một liên kết nào trong nguồn site được trỏ vào (ngưỡng cứng 0, không ratchet)
+    retired = [r['old_url'] for r in retired_rows]
+    for rel, n in sorted(source_link_hits(retired, root).items()):
+        errs.append('%s: %d liên kết tới URL cũ ĐÃ GỠ (RETIRED, 404) — trỏ thẳng URL mới' % (rel, n))
     return errs
 
 

@@ -397,6 +397,44 @@ class RegistrySourceTest(unittest.TestCase):
         open(os.path.join(root, self.e['old_output_path']), 'w', encoding='utf-8').write('x')
         self.assertTrue(any('tệp bài cũ' in e for e in SR.source_errors(root, self.rows)))
 
+    def test_retired_row_has_no_stub_and_blocks_links_to_old_url(self):
+        """RETIRED (quyết định chủ 2026-10-27): URL cũ đã gỡ — không còn trang chuyển hướng, bài vẫn ở URL mới; mọi liên kết trong
+        nguồn site trỏ URL cũ (kể cả thiếu '/' cuối) là 404 nội bộ => lỗi cứng. Status lạ vẫn bị từ chối."""
+        ret = dict(self.e, status=SR.RETIRED)
+        errs = self.errs(reg=[ret])                      # gỡ tay (không có sao lưu retire-slug-stubs.py) => lỗi
+        self.assertTrue(any('không có sao lưu retire-slug-stubs.py' in e for e in errs), errs)
+        self.assertIn(self.e['article_id'], SR.migrated_ids(self.roots[-1]))
+        self.assertEqual(SR.expected_stub_files(self.roots[-1]), {})
+        root = make_root(self.rows, [ret])
+        self.roots.append(root)
+        bdir = os.path.join(root, SR.RETIRE_BACKUP_DIR)
+        os.makedirs(bdir)
+        backup = {'schema': 'retire-backup/1', 'approval_ref': 'chu-repo', 'live_ref': 'run 1',
+                  'entries': {self.e['article_id']: {'registry_row': dict(self.e)}}}
+        with open(os.path.join(bdir, 'r1.json'), 'w', encoding='utf-8') as f:
+            json.dump(dict(backup, entries={self.e['article_id']: {'registry_row': dict(self.e, new_url='/khac/')}}), f)
+        self.assertTrue(any('không có sao lưu' in e for e in SR.source_errors(root, self.rows)))   # sao lưu không khớp dòng
+        with open(os.path.join(bdir, 'r1.json'), 'w', encoding='utf-8') as f:
+            json.dump(backup, f)
+        self.assertEqual(SR.source_errors(root, self.rows), [])
+        stub = os.path.join(root, SR.stub_relpath(self.e['article_id']))
+        os.makedirs(os.path.dirname(stub), exist_ok=True)
+        with open(stub, 'w', encoding='utf-8') as f:
+            f.write(SR.stub_source(self.e))
+        self.assertTrue(any('lạ' in e for e in SR.source_errors(root, self.rows)))       # còn trang chuyển hướng cho URL đã gỡ
+        os.remove(stub)
+        with open(os.path.join(root, '_posts', 'x.md'), 'w', encoding='utf-8') as f:
+            f.write('[a](%s) [b](%s)\n' % (self.e['old_url'], self.e['old_url'].rstrip('/')))
+        errs = SR.source_errors(root, self.rows)
+        self.assertTrue(any('_posts/x.md: 2 liên kết tới URL cũ ĐÃ GỠ' in e for e in errs), errs)
+        self.assertTrue(any('không thuộc' in e for e in self.errs(reg=[dict(self.e, status='GONE')])))
+        os.remove(os.path.join(root, '_posts', 'x.md'))                  # tệp KHÔNG dựng thành trang thì không tính
+        for rel in ('AGENTS.md', 'README.md', '.github/workflows/w.yml', 'en/p.md', '_queue/q.md'):
+            os.makedirs(os.path.dirname(os.path.join(root, rel)) or root, exist_ok=True)
+            with open(os.path.join(root, rel), 'w', encoding='utf-8') as f:
+                f.write('[a](%s)\n' % self.e['old_url'])
+        self.assertFalse(any('ĐÃ GỠ' in e for e in SR.source_errors(root, self.rows)))
+
     def test_baseline_tamper_detected(self):
         root = make_root(self.rows, [self.e])
         self.roots.append(root)
@@ -531,6 +569,34 @@ class BuiltSiteCheckTest(unittest.TestCase):
         self.assertEqual(CHECK.main(['--from-source', '--root', self.root, '--write-ratchet']), 1)       # tăng cần --allow-raise
         self.assertEqual(CHECK.main(['--from-source', '--root', self.root, '--write-ratchet', '--allow-raise']), 0)
         self.assertEqual(json.load(open(rp, encoding='utf-8'))['max_links_to_stub_pages'], 6)
+
+    def test_retired_row_old_url_must_be_gone_and_unlinked(self):
+        ret = dict(self.e, status=SR.RETIRED)
+        root = make_root(matrix_for(self.e), [ret])
+        try:
+            self.put(self.e['new_url'], real_page(self.e['new_url']))
+            self.sitemap([self.e['new_url'], '/'])
+            r = CHECK.check(self.site, root, max_stub_links=0)
+            self.assertEqual((r['errors'], r['registry'], r['retired']), ([], 0, 1))
+            self.put(self.e['old_url'], stub_page(self.e['new_url']))
+            errs = CHECK.check(self.site, root, max_stub_links=0)['errors']
+            self.assertTrue(any('vẫn có trang trong output' in e for e in errs), errs)
+            shutil.rmtree(os.path.join(self.site, self.e['old_url'].strip('/')))
+            self.sitemap([self.e['new_url'], self.e['old_url']])
+            self.assertTrue(any('đã gỡ' in e and 'sitemap' in e for e in CHECK.check(self.site, root, max_stub_links=0)['errors']))
+            self.sitemap([self.e['new_url'], '/'])
+            self.put('/bai-khac/', real_page('/bai-khac/', links=[self.e['old_url'], self.e['old_url'].rstrip('/')]))
+            r = CHECK.check(self.site, root, max_stub_links=0)
+            self.assertEqual(r['retired_links'], 2)
+            self.assertTrue(any('ĐÃ GỠ (404)' in e for e in r['errors']), r['errors'])
+            with open(os.path.join(root, '_posts', 'x.md'), 'w', encoding='utf-8') as f:
+                f.write('[a](%s)\n' % self.e['old_url'])
+            self.assertEqual(CHECK.main(['--from-source', '--root', root]), 1)          # nguồn còn liên kết tới URL đã gỡ
+            self.assertEqual(CHECK.source_stub_links(root)['retired_links'], 1)
+            # --write-ratchet --allow-raise KHÔNG được cho qua lỗi liên kết tới URL đã gỡ (chỉ lỗi vượt ratchet)
+            self.assertEqual(CHECK.main(['--site', self.site, '--root', root, '--write-ratchet', '--allow-raise']), 1)
+        finally:
+            shutil.rmtree(root, True)
 
     def test_write_ratchet_only_lowers_unless_allowed(self):
         self.good()

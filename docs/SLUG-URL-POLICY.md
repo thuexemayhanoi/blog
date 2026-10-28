@@ -87,6 +87,26 @@ chấm lại độc lập 75/70, không tiêu chí nào tụt; khối `revision`
 **không sửa ratchet trong từng PR pha 2** (một số nguyên dùng chung ⇒ xung đột); sau PR cuối đo một lần `check-slug-redirects.py --from-source --write-ratchet` (giảm). Liên kết nằm trong bài không sửa được
 (evidence lệch hash, có draft) giữ nguyên trỏ vào trang chuyển hướng (HTTP 200 + canonical về URL mới) — chấp nhận được về SEO; xử lý tiếp sau khi chủ duyệt reattest.
 
+## Pha 3: gỡ URL cũ (quyết định chủ 2026-10-27) — URL cũ trả 404
+
+Sau khi di trú xong, chủ repo quyết định **không giữ chuyển hướng lịch sử**: trang chuyển hướng của URL cũ được gỡ, URL cũ trả **404 (đúng kỳ vọng)**, bài ở URL mới
+giữ nguyên. Không xóa bài thật, không đụng evidence QA/matrix/sitemap. Công cụ duy nhất: `scripts/factory/retire-slug-stubs.py`:
+```
+python3 scripts/factory/retire-slug-stubs.py plan [--ids BLG-…] --out /tmp/retire-plan.json
+python3 scripts/factory/retire-slug-stubs.py apply --approval-ref "<chủ duyệt>" --live-ref "<run factory-liveness stub_check all_ok>" (--ids … | --all-eligible) --batch-id retire-YYYYMMDD-NN
+python3 scripts/factory/retire-slug-stubs.py verify --backup reports/qa-audit/retire/<batch>.json
+python3 scripts/factory/retire-slug-stubs.py rollback --backup reports/qa-audit/retire/<batch>.json [--dry-run]
+python3 scripts/factory/check-slug-redirects.py --from-source --write-ratchet      # hạ ratchet theo số trang chuyển hướng còn lại
+```
+Điều kiện (tool tự kiểm từ byte hiện tại): nguồn di trú sạch; dòng registry `MIGRATED`, trang chuyển hướng khớp byte `stub_source()`; bài URL mới có permalink đúng;
+**không còn liên kết nào trong nguồn site tới URL cũ** (kể cả thiếu `/` cuối — nếu còn: `BLOCKED_STILL_LINKED`, trỏ thẳng bằng `links-apply` trước); `--approval-ref` + `--live-ref`
+(audit live xác nhận URL mới HTTP 200, canonical tự trỏ, trong sitemap — môi trường agent không gọi được production). Kết quả: xóa `redirects/slug-d/<ID>.html`, dòng registry giữ nguyên
+ánh xạ cũ → mới với status **`RETIRED`**, sao lưu `reports/qa-audit/retire/<batch>.json` (gate verify lại). Lô ≤ 700 (không đổi nội dung bài nên không chấm lại).
+
+Chặn tái phát: `validate.py` (`slug_redirects.source_errors`) và gate FULL (`check-slug-redirects.py`) báo lỗi với MỌI liên kết tới URL `RETIRED` (ngưỡng cứng 0, không ratchet) và mọi trang còn
+phục vụ ở URL đã gỡ; `check-site-urls.py` chặn permalink trùng/không ASCII, `<loc>` trùng/sai host/không ASCII, URL sitemap không tự canonical/meta refresh/noindex, hai trang cùng canonical.
+Audit live `stub_check` kiểm dòng `RETIRED`: URL cũ phải 404/410 và không trong sitemap, URL mới 200 + canonical tự trỏ + trong sitemap.
+
 ## Hàng matrix lệch permalink thật (50 URL BLG-00820…00869)
 
 Trên 5.664 bài PUBLISHED, đúng **50 hàng** ghi `expected_url`/`canonical_url` dạng `/<cm>/YYYY/MM/DD/<slug>/` trong khi permalink thật trong bài (URL Jekyll xuất bản, sitemap và live) là
