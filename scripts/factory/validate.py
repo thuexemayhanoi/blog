@@ -159,8 +159,10 @@ def check_inventory(scope, parents, children):
 
     def _is_factory(fn):
         return re.search(r'^article_id:', open('_posts/' + fn, encoding='utf-8').read()[:2000], re.M)
-    legacy_files = [fn for fn in sorted(os.listdir('_posts')) if not _is_factory(fn)]
-    factory_files = [fn for fn in sorted(os.listdir('_posts')) if _is_factory(fn)]
+    # mỗi tệp đọc MỘT lần (trước đây hai lượt listdir đọc lại toàn bộ _posts hai lần)
+    is_factory = {fn: bool(_is_factory(fn)) for fn in sorted(os.listdir('_posts'))}
+    legacy_files = [fn for fn, fac in is_factory.items() if not fac]
+    factory_files = [fn for fn, fac in is_factory.items() if fac]
     if len(inv) != len(legacy_files):
         err('inventory != số tệp _posts legacy: %d/%d' % (len(inv), len(legacy_files)))
     inv_paths = set(r['source_path'] for r in inv)

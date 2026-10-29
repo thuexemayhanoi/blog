@@ -178,6 +178,13 @@ def source_link_hits(urls, root=None, include_drafts=False):
     if not forms:
         return {}
     pat = literal_union_regex(forms)
+    # Lọc nhanh trên BYTES khi mọi URL là ASCII (URL registry luôn ASCII): byte ASCII không bao giờ nằm trong một ký tự UTF-8
+    # nhiều byte, nên tệp KHÔNG khớp bản bytes thì chắc chắn không khớp bản str — bỏ qua bước giải mã ~28.000 tệp mỗi lần
+    # validate (phần lớn thời gian của mục slug_policy). Tệp có khớp vẫn giải mã và đếm đúng quy tắc token như cũ.
+    try:
+        bpat = re.compile(pat.pattern.encode('ascii')) if all(f.isascii() for f in forms) else None
+    except (UnicodeEncodeError, re.error):
+        bpat = None
     hits = {}
     for dp, dns, fns in os.walk(root):
         at_root = os.path.relpath(dp, root) == '.'
@@ -188,10 +195,13 @@ def source_link_hits(urls, root=None, include_drafts=False):
                 continue
             path = os.path.join(dp, fn)
             try:
-                with open(path, encoding='utf-8', errors='replace') as f:
-                    text = f.read()
+                with open(path, 'rb') as f:
+                    raw = f.read()
             except OSError:
                 continue
+            if bpat is not None and not bpat.search(raw):
+                continue
+            text = raw.decode('utf-8', errors='replace')
             n = 0
             for m in pat.finditer(text):
                 if m.group(0).endswith('/') or not re.match(r'[\w\-/]', text[m.end():m.end() + 1]):
