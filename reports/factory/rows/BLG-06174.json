@@ -1,0 +1,161 @@
+{
+  "article_id": "BLG-06174",
+  "status": "WRITING",
+  "title": "Muốn chạy xe máy thuê từ Hà Nội vào Huế, Hội An hay TP.HCM rồi để lại ở đó: hỏi tiệm gì và các phương án thực tế",
+  "intent": "Người dùng hỏi: «Can I rent a motorbike in Hanoi and drop it off in Ho Chi Minh City?». Bài giải thích vì sao xe thuê thường phải trả đúng nơi nhận và mọi phương án trả xe ở tỉnh khác chỉ làm khi tiệm đồng ý bằng văn bản (cửa hàng Nguyễn Tú có một địa chỉ là 112 Nguyễn Văn Cừ, Bồ Đề; phương án ngoài lệ phải xác nhận trực tiếp), rồi so sánh các cách đi hành trình dài: chạy vòng và quay về Hà Nội, đi một chặng bằng xe máy rồi chuyển tàu, xe khách, hỏi tiệm về việc gửi xe theo tàu quay về, hoặc thuê xe tại chỗ ở từng thành phố; kèm cách tính tổng số ngày thuê, giấy phép lái xe hợp lệ cho chặng dài và báo lộ trình cho tiệm. Không nêu cước vận chuyển hay phí trả xe khác nơi. Người đọc là khách quốc tế lên kế hoạch đi xuyên Việt, khác bài trả xe khác điểm nhận trong nội thành ở quy mô liên tỉnh và các lựa chọn thay thế.",
+  "primary_keyword": "thuê xe máy một chiều xuyên việt",
+  "secondary_keywords": [
+    "rent motorbike hanoi to ho chi minh",
+    "motorbike rental vietnam one way",
+    "trả xe máy thuê ở tp.hcm",
+    "đi xuyên việt bằng xe máy thuê"
+  ],
+  "group": "THUE",
+  "taxonomy": {
+    "parent_id": "P-THUE-XE",
+    "parent_hub": "Thuê xe máy Hà Nội",
+    "parent_hub_url": "/thue-xe/",
+    "child_id": "C-THUE-QUOC-TE",
+    "child_hub": "Thuê xe cho khách quốc tế",
+    "child_hub_url": "/thue-xe/khach-quoc-te/"
+  },
+  "expected_url": "/thue-xe/2026/10/29/muon-chay-xe-may-thue-tu-ha-noi-vao-hue-hoi-an-hay-tphcm-roi-de-lai-o-do-hoi-tie/",
+  "output_path": "_posts/{date}-muon-chay-xe-may-thue-tu-ha-noi-vao-hue-hoi-an-hay-tphcm-roi-de-lai-o-do-hoi-tie.md",
+  "draft_path": "_drafts/2026-10-29-muon-chay-xe-may-thue-tu-ha-noi-vao-hue-hoi-an-hay-tphcm-roi-de-lai-o-do-hoi-tie.md",
+  "canonical_url": "/thue-xe/2026/10/29/muon-chay-xe-may-thue-tu-ha-noi-vao-hue-hoi-an-hay-tphcm-roi-de-lai-o-do-hoi-tie/",
+  "internal_links_matrix": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+  ],
+  "commercial_intent": "high",
+  "cannibalization_key": "thue xe may mot chieu xuyen viet",
+  "word_target": 1300,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": "2000000 - 3000000"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": 1000000,
+        "month": "1800000 - 2000000",
+        "deposit": "4000000 - 5000000"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 1000000,
+        "month": 1500000,
+        "deposit": 3000000
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": 2000000
+      },
+      "Xe tay ga 50cc": {
+        "day": 200000,
+        "week": null,
+        "month": null,
+        "note": "Giá tuần và tháng: báo giá riêng",
+        "deposit": 4000000
+      },
+      "Xe máy điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "medium",
+  "research_class": "B",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00004",
+      "title": "Thủ tục thuê xe máy ở Hà Nội: quy trình từng bước cho người lần đầu thuê",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/"
+    },
+    {
+      "id": "BLG-00007",
+      "title": "Đặt xe máy trước từ xa: cách đặt qua Zalo hoặc điện thoại để chủ động chọn xe",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/cach-dat-xe-may-truoc-tu-xa/"
+    },
+    {
+      "id": "BLG-00009",
+      "title": "Chăm sóc dây xích xe máy: nhận biết xích khô và cách xử lý đúng",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/cham-soc-day-xich-xe-may/"
+    },
+    {
+      "id": "BLG-00010",
+      "title": "Danh sách kiểm tra xe khi nhận xe thuê: những điểm cần soi kỹ",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/"
+    },
+    {
+      "id": "BLG-00012",
+      "title": "Chọn loại xe cho chuyến đi dài: xe số hay xe ga hợp với đường trường",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/chon-loai-xe-cho-chuyen-di-dai/"
+    },
+    {
+      "id": "BLG-00014",
+      "title": "Danh sách đồ cho chuyến đi một ngày bằng xe máy: gọn nhẹ nhưng đủ dùng",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/danh-sach-do-cho-chuyen-di-1-ngay-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00015",
+      "title": "Dấu hiệu xe thuê cần báo cửa hàng ngay",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/"
+    },
+    {
+      "id": "BLG-00027",
+      "title": "Kiểm tra xe trước mỗi chuyến đi: quy trình hai phút cho mọi người",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "311fa9ab1e38631824d1c32b3bec2d07e926b23e21cf338f0097141d8d21f749",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
