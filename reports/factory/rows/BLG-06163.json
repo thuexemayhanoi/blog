@@ -1,0 +1,161 @@
+{
+  "article_id": "BLG-06163",
+  "status": "WRITING",
+  "title": "Trả tiền thuê xe nhưng được đưa ký giấy mượn xe: khác hợp đồng thuê thế nào và vì sao nên đề nghị ghi đúng bản chất",
+  "intent": "Người dùng hỏi: «Mình trả tiền thuê xe hằng ngày nhưng chủ xe chỉ đưa ký 'giấy mượn xe', như vậy có sao không?». Bài giải thích khác biệt giữa hợp đồng thuê tài sản (Điều 472) và hợp đồng mượn tài sản không phải trả tiền (Điều 494) trong Bộ luật Dân sự 2015, hệ quả khi văn bản ghi không đúng thực tế (giao dịch dân sự giả tạo theo Điều 124), quyền đòi lại tiền, nghĩa vụ bảo quản và rủi ro khi có tranh chấp, cách đề nghị ghi đúng hợp đồng thuê với giá, thời hạn, tiền cọc; không bàn lỗi giao thông về xe không chính chủ. Người đọc là người thuê xe của cá nhân hoặc tiệm nhỏ ở Hà Nội, khác bài BLG-03594 (thuê xe của cá nhân: viết giấy thỏa thuận) và BLG-04592 (đi xe không chính chủ có bị phạt) ở chỗ bài này phân tích bản chất pháp lý của tờ giấy mượn xe.",
+  "primary_keyword": "giấy mượn xe thay hợp đồng thuê",
+  "secondary_keywords": [
+    "giấy mượn xe máy và hợp đồng thuê",
+    "hợp đồng mượn tài sản khác thuê",
+    "ký giấy mượn xe khi thuê xe",
+    "giao dịch giả tạo khi thuê xe"
+  ],
+  "group": "THUE",
+  "taxonomy": {
+    "parent_id": "P-THUE-XE",
+    "parent_hub": "Thuê xe máy Hà Nội",
+    "parent_hub_url": "/thue-xe/",
+    "child_id": "C-THUE-THU-TUC",
+    "child_hub": "Thủ tục thuê xe",
+    "child_hub_url": "/thue-xe/thu-tuc/"
+  },
+  "expected_url": "/thue-xe/2026/10/29/tra-tien-thue-xe-nhung-duoc-dua-ky-giay-muon-xe-khac-hop-dong-thue-the-nao-va-vi/",
+  "output_path": "_posts/{date}-tra-tien-thue-xe-nhung-duoc-dua-ky-giay-muon-xe-khac-hop-dong-thue-the-nao-va-vi.md",
+  "draft_path": "_drafts/2026-10-29-tra-tien-thue-xe-nhung-duoc-dua-ky-giay-muon-xe-khac-hop-dong-thue-the-nao-va-vi.md",
+  "canonical_url": "/thue-xe/2026/10/29/tra-tien-thue-xe-nhung-duoc-dua-ky-giay-muon-xe-khac-hop-dong-thue-the-nao-va-vi/",
+  "internal_links_matrix": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+  ],
+  "commercial_intent": "high",
+  "cannibalization_key": "giay muon xe thay hop ong thue",
+  "word_target": 1300,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": "2000000 - 3000000"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": 1000000,
+        "month": "1800000 - 2000000",
+        "deposit": "4000000 - 5000000"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 1000000,
+        "month": 1500000,
+        "deposit": 3000000
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": 2000000
+      },
+      "Xe tay ga 50cc": {
+        "day": 200000,
+        "week": null,
+        "month": null,
+        "note": "Giá tuần và tháng: báo giá riêng",
+        "deposit": 4000000
+      },
+      "Xe máy điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "low",
+  "research_class": "B",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00004",
+      "title": "Thủ tục thuê xe máy ở Hà Nội: quy trình từng bước cho người lần đầu thuê",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/"
+    },
+    {
+      "id": "BLG-00007",
+      "title": "Đặt xe máy trước từ xa: cách đặt qua Zalo hoặc điện thoại để chủ động chọn xe",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/cach-dat-xe-may-truoc-tu-xa/"
+    },
+    {
+      "id": "BLG-00009",
+      "title": "Chăm sóc dây xích xe máy: nhận biết xích khô và cách xử lý đúng",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/cham-soc-day-xich-xe-may/"
+    },
+    {
+      "id": "BLG-00010",
+      "title": "Danh sách kiểm tra xe khi nhận xe thuê: những điểm cần soi kỹ",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/"
+    },
+    {
+      "id": "BLG-00012",
+      "title": "Chọn loại xe cho chuyến đi dài: xe số hay xe ga hợp với đường trường",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/chon-loai-xe-cho-chuyen-di-dai/"
+    },
+    {
+      "id": "BLG-00014",
+      "title": "Danh sách đồ cho chuyến đi một ngày bằng xe máy: gọn nhẹ nhưng đủ dùng",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/danh-sach-do-cho-chuyen-di-1-ngay-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00015",
+      "title": "Dấu hiệu xe thuê cần báo cửa hàng ngay",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/"
+    },
+    {
+      "id": "BLG-00027",
+      "title": "Kiểm tra xe trước mỗi chuyến đi: quy trình hai phút cho mọi người",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "d7dd6b5f6d138900cdc0b1ddce40edb853540cfcdc61315ca26d0e1e8cca1e94",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}

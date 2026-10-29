@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-29T12:34:33+00:00",
+  "updated_at": "2026-10-29T12:46:15+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-06091",
-      "started_at": "2026-10-24T06:44:48+00:00",
-      "source": "_drafts/2026-10-24-duoc-biet-gia-va-dieu-kien-truoc-khi-tra-tien-thue-xe-may-luat-bao-ve-quyen-loi.md",
-      "destination": "_posts/2026-10-24-duoc-biet-gia-va-dieu-kien-truoc-khi-tra-tien-thue-xe-may-luat-bao-ve-quyen-loi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "0d73892064022562d1a25cdc490fa3fe4c35b2ff",
-      "finished_at": "2026-10-24T06:44:48+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-06108",
-      "started_at": "2026-10-24T06:45:03+00:00",
-      "source": "_drafts/2026-10-24-honda-wave-thue-do-xang-e10-hay-e5-ron-92-hoi-tiem-xe-dung-loai-nao-va-doc-tem-t.md",
-      "destination": "_posts/2026-10-24-honda-wave-thue-do-xang-e10-hay-e5-ron-92-hoi-tiem-xe-dung-loai-nao-va-doc-tem-t.md",
-      "result": "PUBLISHED",
-      "commit_sha": "0d73892064022562d1a25cdc490fa3fe4c35b2ff",
-      "finished_at": "2026-10-24T06:45:03+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06129",
       "started_at": "2026-10-24T06:45:03+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "8a90eddf556430fcfd3513e8de6d2936eee57281",
       "finished_at": "2026-10-29T12:34:33+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06163",
+      "started_at": "2026-10-29T12:46:14+00:00",
+      "source": "_drafts/2026-10-29-tra-tien-thue-xe-nhung-duoc-dua-ky-giay-muon-xe-khac-hop-dong-thue-the-nao-va-vi.md",
+      "destination": "_posts/2026-10-29-tra-tien-thue-xe-nhung-duoc-dua-ky-giay-muon-xe-khac-hop-dong-thue-the-nao-va-vi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "1e3f4a17febd37747e4cd53cd706ec9be8548d0f",
+      "finished_at": "2026-10-29T12:46:14+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06164",
+      "started_at": "2026-10-29T12:46:15+00:00",
+      "source": "_drafts/2026-10-29-tiem-da-nhan-coc-giu-xe-roi-bao-khong-con-xe-de-giao-nguoi-dat-duoc-tra-lai-coc.md",
+      "destination": "_posts/2026-10-29-tiem-da-nhan-coc-giu-xe-roi-bao-khong-con-xe-de-giao-nguoi-dat-duoc-tra-lai-coc.md",
+      "result": "PUBLISHED",
+      "commit_sha": "1e3f4a17febd37747e4cd53cd706ec9be8548d0f",
+      "finished_at": "2026-10-29T12:46:15+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
