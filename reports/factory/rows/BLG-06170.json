@@ -1,0 +1,161 @@
+{
+  "article_id": "BLG-06170",
+  "status": "WRITING",
+  "title": "Đang thuê xe tháng thì hãng thông báo triệu hồi đúng dòng xe: kiểm tra số khung, báo tiệm và sắp lịch đưa xe đi xử lý",
+  "intent": "Người dùng hỏi: «Mình đang thuê xe theo tháng thì thấy tin hãng triệu hồi dòng xe này, có phải xe mình không và ai lo việc mang xe đi?». Bài hướng dẫn kiểm tra thông báo triệu hồi trên kênh chính thức của hãng và cơ quan quản lý, đối chiếu số khung trên giấy đăng ký xe đi kèm, báo tiệm bằng tin nhắn, thống nhất ai đưa xe đến đại lý, thời gian xe vắng mặt, xe thay thế và cách ghi nhận tình trạng xe khi giao nhận lại; không nêu đợt triệu hồi cụ thể nào chưa xác minh. Người đọc là người thuê xe tháng ở Hà Nội, khác bài BLG-04933 (tiệm mượn xe để thay nhớt, thay lốp giữa kỳ) và BLG-03202 (xe trục trặc lặp lại) ở chỗ bài này xử lý thông báo triệu hồi của nhà sản xuất.",
+  "primary_keyword": "xe thuê tháng thuộc diện triệu hồi",
+  "secondary_keywords": [
+    "xe máy bị triệu hồi khi đang thuê",
+    "tra cứu triệu hồi theo số khung",
+    "xe thay thế khi xe thuê đi triệu hồi",
+    "thông báo triệu hồi xe máy"
+  ],
+  "group": "THUE",
+  "taxonomy": {
+    "parent_id": "P-THUE-XE",
+    "parent_hub": "Thuê xe máy Hà Nội",
+    "parent_hub_url": "/thue-xe/",
+    "child_id": "C-THUE-THANG",
+    "child_hub": "Thuê xe theo tháng",
+    "child_hub_url": "/thue-xe/thue-thang/"
+  },
+  "expected_url": "/thue-xe/2026/10/29/dang-thue-xe-thang-thi-hang-thong-bao-trieu-hoi-dung-dong-xe-kiem-tra-so-khung-b/",
+  "output_path": "_posts/{date}-dang-thue-xe-thang-thi-hang-thong-bao-trieu-hoi-dung-dong-xe-kiem-tra-so-khung-b.md",
+  "draft_path": "_drafts/2026-10-29-dang-thue-xe-thang-thi-hang-thong-bao-trieu-hoi-dung-dong-xe-kiem-tra-so-khung-b.md",
+  "canonical_url": "/thue-xe/2026/10/29/dang-thue-xe-thang-thi-hang-thong-bao-trieu-hoi-dung-dong-xe-kiem-tra-so-khung-b/",
+  "internal_links_matrix": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+  ],
+  "commercial_intent": "high",
+  "cannibalization_key": "xe thue thang thuoc dien trieu hoi",
+  "word_target": 1300,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": "2000000 - 3000000"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": 1000000,
+        "month": "1800000 - 2000000",
+        "deposit": "4000000 - 5000000"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 1000000,
+        "month": 1500000,
+        "deposit": 3000000
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": 2000000
+      },
+      "Xe tay ga 50cc": {
+        "day": 200000,
+        "week": null,
+        "month": null,
+        "note": "Giá tuần và tháng: báo giá riêng",
+        "deposit": 4000000
+      },
+      "Xe máy điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "none",
+  "research_class": "B",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00004",
+      "title": "Thủ tục thuê xe máy ở Hà Nội: quy trình từng bước cho người lần đầu thuê",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/"
+    },
+    {
+      "id": "BLG-00007",
+      "title": "Đặt xe máy trước từ xa: cách đặt qua Zalo hoặc điện thoại để chủ động chọn xe",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/cach-dat-xe-may-truoc-tu-xa/"
+    },
+    {
+      "id": "BLG-00009",
+      "title": "Chăm sóc dây xích xe máy: nhận biết xích khô và cách xử lý đúng",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/cham-soc-day-xich-xe-may/"
+    },
+    {
+      "id": "BLG-00010",
+      "title": "Danh sách kiểm tra xe khi nhận xe thuê: những điểm cần soi kỹ",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/"
+    },
+    {
+      "id": "BLG-00012",
+      "title": "Chọn loại xe cho chuyến đi dài: xe số hay xe ga hợp với đường trường",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/chon-loai-xe-cho-chuyen-di-dai/"
+    },
+    {
+      "id": "BLG-00014",
+      "title": "Danh sách đồ cho chuyến đi một ngày bằng xe máy: gọn nhẹ nhưng đủ dùng",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/danh-sach-do-cho-chuyen-di-1-ngay-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00015",
+      "title": "Dấu hiệu xe thuê cần báo cửa hàng ngay",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/"
+    },
+    {
+      "id": "BLG-00027",
+      "title": "Kiểm tra xe trước mỗi chuyến đi: quy trình hai phút cho mọi người",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "63406c7363cd9f84e0b9f2af2e35738c3308b68aae76f094f56b783ae172bc4b",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
