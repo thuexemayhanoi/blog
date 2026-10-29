@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-29T16:59:53+00:00",
+  "updated_at": "2026-10-29T17:01:29+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-05709",
-      "started_at": "2026-10-29T11:36:24+00:00",
-      "source": "_drafts/2026-10-29-honda-click-di-lang-tam-huong-quang-phu-cau-duong-xuong-phia-nam-ngo-lang-hep-va.md",
-      "destination": "_posts/2026-10-29-honda-click-di-lang-tam-huong-quang-phu-cau-duong-xuong-phia-nam-ngo-lang-hep-va.md",
-      "result": "PUBLISHED",
-      "commit_sha": "de172f1da600d8094b070594f0ff7e54aa510f09",
-      "finished_at": "2026-10-29T11:36:24+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05716",
-      "started_at": "2026-10-29T11:36:24+00:00",
-      "source": "_drafts/2026-10-29-mot-buoi-o-dong-anh-bang-honda-click-noi-thanh-co-loa-lang-roi-nuoc-dao-thuc-va.md",
-      "destination": "_posts/2026-10-29-mot-buoi-o-dong-anh-bang-honda-click-noi-thanh-co-loa-lang-roi-nuoc-dao-thuc-va.md",
-      "result": "PUBLISHED",
-      "commit_sha": "de172f1da600d8094b070594f0ff7e54aa510f09",
-      "finished_at": "2026-10-29T11:36:24+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06153",
       "started_at": "2026-10-29T12:28:07+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "9d3336b12aa3d3526e9977c125032c75a4627211",
       "finished_at": "2026-10-29T16:59:53+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06193",
+      "started_at": "2026-10-29T17:01:28+00:00",
+      "source": "_drafts/2026-10-29-25-loai-thiet-bi-phat-hien-vi-pham-giao-thong-theo-nghi-dinh-612026-may-do-do-on.md",
+      "destination": "_posts/2026-10-29-25-loai-thiet-bi-phat-hien-vi-pham-giao-thong-theo-nghi-dinh-612026-may-do-do-on.md",
+      "result": "PUBLISHED",
+      "commit_sha": "760d52cd5cc503090cba02c27483c1eaf6c649e2",
+      "finished_at": "2026-10-29T17:01:28+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06194",
+      "started_at": "2026-10-29T17:01:28+00:00",
+      "source": "_drafts/2026-10-29-gui-clip-vi-pham-giao-thong-qua-vneid-theo-nghi-dinh-612026-duoc-giu-bi-mat-danh.md",
+      "destination": "_posts/2026-10-29-gui-clip-vi-pham-giao-thong-qua-vneid-theo-nghi-dinh-612026-duoc-giu-bi-mat-danh.md",
+      "result": "PUBLISHED",
+      "commit_sha": "760d52cd5cc503090cba02c27483c1eaf6c649e2",
+      "finished_at": "2026-10-29T17:01:29+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
