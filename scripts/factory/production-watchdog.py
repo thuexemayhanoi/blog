@@ -227,6 +227,43 @@ def collect_guards(root, now):
     return g
 
 
+def queue_health(root):
+    """Sức khỏe hàng đợi chủ đề (CHỈ ĐỌC): PLANNED claim được so với
+    min_ready_queue. Không phải progress, không đổi quyết định wake — chỉ để
+    run xanh không che việc cạn hàng đợi (wake prepare-next khi PLANNED=0
+    không tạo được bài nào; việc cần làm là writer đẩy batch chủ đề thật)."""
+    planned = 0
+    matrix = p(root, MATRIX)
+    if os.path.exists(matrix):
+        import csv as _csv
+        with open(matrix, encoding='utf-8', newline='') as f:
+            planned = sum(1 for row in _csv.DictReader(f)
+                          if (row.get('status') or '').upper() == 'PLANNED')
+    cap = read_json(root, 'data/factory-capacity.json', {}) or {}
+    try:
+        min_ready = int((cap.get('thresholds') or {}).get('min_ready_queue', 0))
+    except (TypeError, ValueError):
+        min_ready = 0
+    if planned == 0:
+        status = 'QUEUE_EMPTY'
+    elif planned < min_ready:
+        status = 'QUEUE_LOW'
+    else:
+        status = 'OK'
+    return {'planned': planned, 'min_ready_queue': min_ready,
+            'status': status}
+
+
+def report_queue(q):
+    print('WATCHDOG_QUEUE: %s planned=%d min_ready_queue=%d'
+          % (q['status'], q['planned'], q['min_ready_queue']))
+    if q['status'] != 'OK':
+        print('::warning::hang doi chu de %s (PLANNED %d < %d): can writer '
+              'day batch chu de that vao data/factory/refill-batches/ '
+              '(factory-refill.yml) — watchdog KHONG tu tao chu de'
+              % (q['status'], q['planned'], q['min_ready_queue']))
+
+
 def wake_cooldown(root, now):
     mk = read_json(root, WAKE_MARKER, {})
     t = parse_any_iso(mk.get('last_wake_at'))
@@ -272,6 +309,9 @@ def main():
         'guards': {},
         'wake_marker': None,
     }
+
+    out['queue'] = queue_health(root)
+    report_queue(out['queue'])
 
     if inactivity is None:
         out['reason'] = 'không có tín hiệu progress nào để so (chưa từng ' \
