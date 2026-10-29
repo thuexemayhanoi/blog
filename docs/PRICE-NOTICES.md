@@ -18,6 +18,10 @@ Khối này hiển thị bảng giá hiện hành ở đầu bài để người
 - Kiểm thử: `scripts/factory/tests/test_price_notices.py` (khóa là URL thật của bài PUBLISHED có evidence, `id` khớp matrix, không đặt cho bài đang
   có lease/draft, bộ sinh đúng/idempotent, include đúng một lần trước mục lục, không số tiền gõ tay, không quét `site.posts`).
 
+- Bộ quét (`price_phrases.py`, sửa 2026-10-29): cụm số đứng ngay sau chữ "cọc" (tính từ con số gần nhất phía trước, không có kỳ hạn chen sau chữ "cọc")
+  là TIỀN CỌC, không kế thừa kỳ hạn "tháng/tuần" của câu — trước đây "…900.000–1.200.000 đồng một tháng, cọc 2.000.000–3.000.000 đồng" bị báo
+  MISMATCH giả và bài mới đúng giá bị đưa vào khối đính chính. Hồi quy: `test_price_phrases.py`.
+
 ## Quy tắc vận hành
 1. Khi một bài đã được sửa gốc (reattest + `revise-published.py`), chạy lại `build-price-notices.py` để gỡ bài khỏi danh sách.
 2. Giá luôn là giá tham khảo, cần xác nhận trước khi đặt xe; không thêm mức giá/cọc/chính sách chưa có trong `_data/pricing.yml` hoặc `data/business-facts.json`.

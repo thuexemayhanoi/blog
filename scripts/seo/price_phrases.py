@@ -34,6 +34,7 @@ PREFIX = re.compile(r"(?<![\wÀ-ỹ])(?P<pre>(?:dao động\s+)?(?:khoảng\s+)?
 PERIODS = {"ngày": "day", "tuần": "week", "tháng": "month"}
 AFTER = re.compile(r"^(?P<conn>\s*(?:(?:/|mỗi|một|theo|cho|trên|từng|1)\s*)*)(?P<kw>ngày|tuần|tháng)\b", re.I)
 KEYWORD = re.compile(r"\b(ngày|tuần|tháng)\b", re.I)
+DEPOSIT_CUE = re.compile(r"\bcọc\b", re.I)
 FIX_PERIODS = ("week", "month")
 # Số tiền tuần/tháng từng được công bố nhưng không còn là mức hợp lệ (xem scripts/seo/check-price-consistency.py: retired_amounts).
 RETIRED_AMOUNTS = (600000, 650000, 800000, 850000, 1400000)
@@ -134,6 +135,15 @@ def _period_for(seg: str, m: re.Match) -> str:
     after = AFTER.match(seg[m.end():m.end() + 30])
     if after and after.group("conn").strip():
         return PERIODS[after.group("kw").lower()]
+    # Cụm số đứng ngay sau từ "cọc" (kể từ con số gần nhất phía trước, không có kỳ hạn chen sau chữ "cọc") là TIỀN CỌC,
+    # không phải giá thuê: "… 900.000–1.200.000 đồng một tháng, cọc 2.000.000–3.000.000 đồng", "chênh lệch cọc … là
+    # 2.000.000 đến 3.000.000 đồng". Trước đây cụm này kế thừa kỳ hạn "tháng" của câu và bị báo MISMATCH giả.
+    tail = re.split(r"\d", seg[:m.start()])[-1]
+    cue = None
+    for cue in DEPOSIT_CUE.finditer(tail):
+        pass
+    if cue and not KEYWORD.search(tail[cue.end():]):
+        return ""
     window = seg[max(0, m.start() - 60):m.start()]
     last = None
     for km in KEYWORD.finditer(window):

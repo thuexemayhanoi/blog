@@ -99,6 +99,17 @@ class TestPricePhrases(unittest.TestCase):
         self.assertIn('| Honda Air Blade | 200.000đ | 1.000.000 đ | 1.500.000 đ |', out)
         self.assertIn('| Honda Click | 150.000đ | 700.000đ | 900.000đ – 1.200.000 đ |', out)
 
+    def test_deposit_amount_after_a_monthly_price_is_not_read_as_the_monthly_price(self):
+        # 2026-10-29: "… một tháng, cọc 2.000.000–3.000.000 đồng" từng bị đọc thành giá tháng Wave -> MISMATCH giả.
+        text = ('- **Honda Wave:** 900.000–1.200.000 đồng một tháng, cọc 2.000.000–3.000.000 đồng.\n'
+                'Vision theo tháng 1.800.000–2.000.000 đồng, cọc trong khoảng 4.000.000–5.000.000 đồng theo mức xác nhận.\n'
+                'Chênh lệch cọc so với Vision là 2.000.000 đến 3.000.000 đồng.\n')
+        phs = scan(text)
+        self.assertFalse([p for p in phs if p.status in ('MISMATCH', 'REVIEW')], [(p.text, p.status) for p in phs])
+        # kỳ hạn đứng SAU chữ "cọc" vẫn ràng buộc bình thường: đây là giá tháng thật và lệch bảng
+        stale = scan('Đặt cọc xong, Honda Wave thuê tháng 1.400.000 đồng.\n')
+        self.assertEqual([p.status for p in stale if p.text.startswith('1.400.000')], ['MISMATCH'])
+
     def test_phrase_without_vehicle_or_period_is_unbound_and_untouched(self):
         for t in ('Giá tuần thường khoảng 800.000đ tùy dòng xe.', 'Hai bên thống nhất mức 800.000đ khi đặt xe.'):
             self.assertEqual(apply_fixes(t), t)

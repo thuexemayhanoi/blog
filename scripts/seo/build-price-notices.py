@@ -35,8 +35,10 @@ SCHEMA = "price-notices/1"
 # BLG-00874 không mũ bảo hiểm tối đa 600.000 đ), không phải giá thuê xe — trùng ngẫu nhiên với số giá cũ nên bị bộ quét gắn cờ.
 # BLG-03574 (sau lô revise-20261027-A01, giá tuần/tháng đã đúng bảng hiện hành): "200.000 đ" là khoản trả trước khi giữ xe, không phải giá tuần;
 # bộ quét gắn nhầm vì chữ "gói tuần"/"tuần sau" đứng cạnh.
+# BLG-06152 (đăng 2026-10-29, giá đúng bảng 27/10/2026, đã đọc tay từng câu): "Phần chênh cả tháng là 900.000 đồng" = 1.800.000 (Vision)
+# − 900.000 (Wave) theo giá tháng hiện hành, là phép tính đúng, không phải giá tháng Vision cũ.
 EXCLUDE = {"BLG-04794", "BLG-00634", "BLG-02389", "BLG-02158", "BLG-02383", "BLG-02384", "BLG-03582", "BLG-00639", "BLG-00872", "BLG-00874",
-           "BLG-03574"}
+           "BLG-03574", "BLG-06152"}
 
 
 def post_url(row: dict, text: str) -> str:
