@@ -684,6 +684,71 @@ def push_paths_of(aid, entries):
     return None
 
 
+def idle_diagnosis():
+    """Run xanh KHÔNG xuất bản bài nào: phân loại LÝ DO (chỉ đọc, không
+    mutate) để người vận hành không nhầm "không có việc" với "cạn hàng đợi"
+    hay "lỗi pipeline" (lỗi pipeline luôn làm run ĐỎ ở step khác):
+      IDLE_NO_DRAFTS      — hàng đợi PLANNED còn đủ, chỉ chưa có writer push
+      QUEUE_LOW           — PLANNED claim được < min_ready_queue: cần refill
+      QUEUE_EMPTY         — hết PLANNED: writer phải đẩy batch chủ đề thật
+    Trả dict; KHÔNG BAO GIỜ raise (chẩn đoán không được làm đỏ run)."""
+    try:
+        _, rows = load_matrix()
+        planned = sum(1 for r in rows if r.get('status') == 'PLANNED')
+        inflight = sum(1 for r in rows if r.get('status') in INFLIGHT)
+        try:
+            with open(os.path.join(ROOT, 'data/factory-capacity.json'),
+                      encoding='utf-8') as f:
+                min_ready = int(json.load(f)['thresholds']['min_ready_queue'])
+        except Exception:
+            min_ready = 0
+        live = 0
+        try:
+            reg = claim_registry()
+            # _live_leases: {article_id: (slot, lease)} -> đếm SLOT có lease sống
+            live = len({w for w, _ in reg[1].values()}) if reg else 0
+        except Refuse:
+            live = -1
+        if planned == 0:
+            code = 'QUEUE_EMPTY'
+            why = ('het hang PLANNED — writer/coordinator phai push batch chu '
+                   'de that vao data/factory/refill-batches/ + bump '
+                   'refill-request.json (factory-refill.yml)')
+        elif planned < min_ready:
+            code = 'QUEUE_LOW'
+            why = ('PLANNED %d < min_ready_queue %d — can refill chu de that '
+                   'som' % (planned, min_ready))
+        else:
+            code = 'IDLE_NO_DRAFTS'
+            why = 'hang doi con du; chua co writer push draft moi'
+        return {'code': code, 'planned': planned, 'inflight': inflight,
+                'min_ready_queue': min_ready, 'live_leases': live,
+                'reason': why}
+    except Exception as e:  # pragma: no cover - chẩn đoán phụ, không chặn
+        return {'code': 'UNKNOWN', 'reason': 'khong doc duoc state: %s' % e}
+
+
+def report_idle(diag):
+    line = ('selection: IDLE %s planned=%s inflight=%s min_ready=%s '
+            'live_writer_slots=%s — %s'
+            % (diag.get('code'), diag.get('planned'), diag.get('inflight'),
+               diag.get('min_ready_queue'), diag.get('live_leases'),
+               diag.get('reason')))
+    print(line)
+    if diag.get('code') in ('QUEUE_LOW', 'QUEUE_EMPTY'):
+        print('::warning::%s' % line)
+    summary = os.environ.get('GITHUB_STEP_SUMMARY')
+    if summary:
+        with open(summary, 'a', encoding='utf-8') as f:
+            f.write('\n## Factory publish: khong co bai de xuat ban\n\n'
+                    '- Phan loai: **%s**\n- PLANNED claim duoc: %s '
+                    '(min_ready_queue %s)\n- Hang dang xu ly: %s\n'
+                    '- Slot writer co lease song: %s\n- Ly do: %s\n'
+                    % (diag.get('code'), diag.get('planned'),
+                       diag.get('min_ready_queue'), diag.get('inflight'),
+                       diag.get('live_leases'), diag.get('reason')))
+
+
 def main():
     ap = argparse.ArgumentParser(add_help=True)
     ap.add_argument('--added', default=None,
@@ -726,6 +791,8 @@ def main():
                   'PUBLISHED, no-op sạch (run GREEN)')
         else:
             print('selection: khong co draft trong push — no-op')
+        if not out['queue']:
+            report_idle(idle_diagnosis())
     elif out['mode'] == 'paused':
         print('selection: production-control paused — khong claim bai '
               'moi; exit sach')

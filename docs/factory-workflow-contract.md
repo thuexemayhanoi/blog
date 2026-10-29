@@ -18,6 +18,8 @@ backup retarget liên kết được thêm/sửa; FULL có thêm bước `check-
 ngưỡng ratchet liên kết vào trang chuyển hướng chỉ giảm). `validate.py` mọi scope có mục `slug_policy`.
 Cập nhật 2026-10-25 (Issue #77, docs/SLUG-URL-POLICY.md): `sync-matrix-urls.py` là công cụ bảo trì LOCAL thứ tư ghi evidence — chỉ sửa 2 cột `expected_url`/`canonical_url` của hàng matrix PUBLISHED ngoài baseline cho khớp permalink thật (dạng lỗi đã biết `/cm/YYYY/MM/DD/slug/` → `/cm/YYYY-MM-DD[/|-]slug/`; không đổi bài, permalink, URL live; không workflow/cron; bắt buộc `--approval-ref`; lô ≤ 50; backup `reports/qa-audit/matrix-sync/<batch>.json`); Quality gate verify mọi backup matrix-sync được thêm/sửa.
 
+Cập nhật 2026-10-29 (chẩn đoán run không xuất bản, READ-ONLY): khi `factory-publish.yml` xanh mà queue rỗng, `push-selection.py` in `selection: IDLE <mã>` + step summary phân loại `IDLE_NO_DRAFTS` (hàng đợi còn đủ, chưa có writer push), `QUEUE_LOW` (PLANNED < `min_ready_queue`, cảnh báo cần refill) hoặc `QUEUE_EMPTY` (hết PLANNED, writer phải đẩy batch chủ đề thật); lỗi pipeline vẫn làm run ĐỎ ở step riêng. `production-watchdog.py` in thêm `WATCHDOG_QUEUE: OK|QUEUE_LOW|QUEUE_EMPTY` (+ `::warning::`) mỗi lần chạy — chỉ chẩn đoán, KHÔNG đổi quyết định wake, KHÔNG tự tạo chủ đề (Actions không viết bài/không sinh chủ đề bằng AI). Lưu ý vận hành: một số suite engine (`test_watchdog`, `test_writer_loop`, `test_factory_queue`, …) dựng fixture từ matrix thật và cần còn hàng PLANNED — giữ hàng đợi ≥ `min_ready_queue` (refill sớm) để engine tests xanh.
+
 Ngày chốt: 2026-10-02 (port kiến trúc /vanchinh hoàn chỉnh). Lịch sử:
 bản 4-workflow (quality-gate + factory-production + factory-liveness +
 factory-publish-verify) và bản 6-workflow (refill chỉ local) đã
