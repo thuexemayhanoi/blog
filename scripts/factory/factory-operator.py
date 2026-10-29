@@ -619,6 +619,17 @@ def internal_links_in(body):
     return links
 
 
+def intent_near_dup(a, b):
+    """ratio() >= INTENT_NEAR_FLOOR, nhưng loại trước bằng hai cận trên rẻ của chính SequenceMatcher
+    (ratio() <= quick_ratio() <= real_quick_ratio(), tài liệu difflib): kết quả GIỐNG HỆT, chỉ bỏ
+    phép ratio() đầy đủ cho các cặp chắc chắn dưới ngưỡng. Trước đây mỗi bài chạy ratio() với mọi hàng
+    active (~6.300) — bước QA mất ~15s/bài và tăng theo kích thước matrix."""
+    sm = difflib.SequenceMatcher(None, a, b)
+    return (sm.real_quick_ratio() >= INTENT_NEAR_FLOOR
+            and sm.quick_ratio() >= INTENT_NEAR_FLOOR
+            and sm.ratio() >= INTENT_NEAR_FLOOR)
+
+
 def qa_check_one(row, rows, biz, tax):
     """Trả về dict bằng chứng QA deterministic cho một hàng.
     Không bao giờ bịa điểm: mỗi tiêu chí chấm bằng kiểm tra đo được."""
@@ -735,10 +746,7 @@ def qa_check_one(row, rows, biz, tax):
     my_intent = norm_title(row.get('intent', ''))
     intent_near = [r['id'] for r in others
                    if my_intent and r.get('intent')
-                   and difflib.SequenceMatcher(
-                       None, my_intent,
-                       norm_title(r['intent'])).ratio()
-                   >= INTENT_NEAR_FLOOR]
+                   and intent_near_dup(my_intent, norm_title(r['intent']))]
     checks['duplicate_title'] = not dup_title
     checks['duplicate_slug'] = not dup_slug
     checks['intent_unique'] = not intent_near
