@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-29T16:37:18+00:00",
+  "updated_at": "2026-10-29T16:40:05+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-06119",
-      "started_at": "2026-10-24T07:49:00+00:00",
-      "source": "_drafts/2026-10-24-bi-thuong-cap-cuu-sau-va-cham-co-so-y-te-lay-mau-xet-nghiem-con-va-ma-tuy-theo-l.md",
-      "destination": "_posts/2026-10-24-bi-thuong-cap-cuu-sau-va-cham-co-so-y-te-lay-mau-xet-nghiem-con-va-ma-tuy-theo-l.md",
-      "result": "PUBLISHED",
-      "commit_sha": "954ce58784698fa753daa62aa18dbb9de24ae8cd",
-      "finished_at": "2026-10-24T07:49:00+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-06120",
-      "started_at": "2026-10-24T07:49:01+00:00",
-      "source": "_drafts/2026-10-24-lo-uong-ruou-bia-dung-toi-hen-tra-xe-thue-nhan-tiem-xin-lui-gio-de-xe-an-toan-va.md",
-      "destination": "_posts/2026-10-24-lo-uong-ruou-bia-dung-toi-hen-tra-xe-thue-nhan-tiem-xin-lui-gio-de-xe-an-toan-va.md",
-      "result": "PUBLISHED",
-      "commit_sha": "954ce58784698fa753daa62aa18dbb9de24ae8cd",
-      "finished_at": "2026-10-24T07:49:01+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06122",
       "started_at": "2026-10-24T07:49:26+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "95dcbc82f43d29170a7bea8450b67728b8cf9999",
       "finished_at": "2026-10-29T16:37:18+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06185",
+      "started_at": "2026-10-29T16:40:04+00:00",
+      "source": "_drafts/2026-10-29-nhuoc-diem-cua-honda-click-va-yamaha-mio-khi-thue-o-ha-noi-dieu-nen-biet-truoc-k.md",
+      "destination": "_posts/2026-10-29-nhuoc-diem-cua-honda-click-va-yamaha-mio-khi-thue-o-ha-noi-dieu-nen-biet-truoc-k.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cda76abbcbf6f8991a5339ec91c5e853f5b0796d",
+      "finished_at": "2026-10-29T16:40:05+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06186",
+      "started_at": "2026-10-29T16:40:05+00:00",
+      "source": "_drafts/2026-10-29-bugi-yeu-tren-xe-thue-dai-ngay-dau-hieu-kho-no-may-rung-khi-de-khong-tai-hut-ga.md",
+      "destination": "_posts/2026-10-29-bugi-yeu-tren-xe-thue-dai-ngay-dau-hieu-kho-no-may-rung-khi-de-khong-tai-hut-ga.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cda76abbcbf6f8991a5339ec91c5e853f5b0796d",
+      "finished_at": "2026-10-29T16:40:05+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],

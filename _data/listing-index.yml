@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 391
   size: 12
-  total: 4685
+  total: 4687
 chia-se:
   pages: 10
   size: 12
@@ -15,7 +15,7 @@ topic:
   xe-may_bao-duong-xe:
     pages: 7
     size: 24
-    total: 148
+    total: 149
   an-toan-phap-ly_bao-hiem:
     pages: 5
     size: 24
@@ -99,7 +99,7 @@ topic:
   xe-may_honda-click:
     pages: 4
     size: 24
-    total: 86
+    total: 87
   xe-may_honda-vision:
     pages: 5
     size: 24
