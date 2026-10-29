@@ -1,0 +1,303 @@
+{
+ "_meta": {
+  "note": "Lo R29L (coordinator 2026-10-29): ha tang giao thong Ha Noi 2025-2026 moi thong xe, dang thi cong hoac doi to chuc giao thong. Child: CD-NOI-THANH 6, KY-NANG-TINH-HUONG 6, KY-NANG-GUI-XE 2, LONG-BIEN 1. Nguon (da kiem 29/10/2026): tuoitre/dantri/hanoimoi (VD2,5 10/10/2026, 27/10/2026), cafef/DS&PL 19/10/2026 (nut VD2,5-Nguyen Trai chua den), baolamdong 11/2/2026 + dantri 19/3/2026 (ham Kim Dong), vovgiaothong 17/4/2026 + dantri 17/6/2026 (metro 5 Van Cao), hanoimoi 1/2/2026 + VTC 5/3/2026 (QL1A Van Dien-Ngoc Hoi), VOV 10/10/2026 + vietnamnet 7/10/2026 (ben xe Yen So), tuoitre 17/3/2026 + laodong 31/7/2026 + vnexpress 27/10/2026 (Co Linh), baovephapluat 28/6/2026 (KH 198/KH-UBND thu phi dien tu), thanglong.chinhphu.vn 16/10/2026 (QD 5794/QD-UBND gia trong giu), laodong 30/6/2026 (lan song xanh), tuoitre 9/10/2026 + anninhthudo 10/10/2026 (song hanh VD4), congly 9/7/2026 (nut VD3,5-DLTL). Kiem trung: grep ten cong trinh/ten duong (co dau, khong dau) tren toan matrix gom ca cac hang PLANNED moi refill, doc bai lien quan trong _posts, chay topic_check.py (G1-G9 + intent gan trung + route). Luu y: site chinh thuexemaynguyentu.com da co bai VD4 song hanh, ham Me Tri, cau Thang Long nen da bo ham Me Tri va cau Thang Long; VD4 giu lai vi matrix blog chua co. Coordinator loại R29L-012 (bảng giá trông giữ xe QĐ 5794/QĐ-UBND): bài phải nêu mức giá trông giữ mà scorer chặn số tiền ngoài bảng giá thuê; viết bằng chữ để lách kiểm tra là không phù hợp — để dành khi có cơ chế số liệu công khai được duyệt.",
+  "created": "2026-10-29",
+  "source": "coordinator topic expansion 2026-10-29 theo docs/TAXONOMY.md, gate G1-G9"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-29-R29L-001",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Vành đai 2,5 đoạn Nguyễn Trãi – Khương Đình – Đầm Hồng mới thông: đi xe máy từ Thanh Xuân sang Định Công, Hoàng Mai",
+   "intent": "Người dùng hỏi: «Đoạn Vành đai 2,5 từ Nguyễn Trãi qua Khương Đình, cầu Thượng Đình về Đầm Hồng mới thông xe thì đi xe máy từ Thanh Xuân sang Định Công, Hoàng Mai thế nào, có đỡ hơn chen Trường Chinh không?». Bài dựa trên lễ thông xe kỹ thuật ngày 10/10/2026 (đoạn Ngụy Như Kon Tum – Nguyễn Trãi dài khoảng 0,91 km, rộng 40 m; đoạn Nguyễn Trãi – cầu Thượng Đình đã thảm nhựa hai chiều, đoạn cầu Thượng Đình – Đầm Hồng mới thảm một phần) và đoạn Đầm Hồng – Quốc lộ 1A thông xe kỹ thuật ngày 10/2/2026; mô tả lộ trình từ Nguyễn Trãi xuống Khương Đình, qua sông Tô Lịch về Đầm Hồng, nối tiếp sang Định Công, Kim Đồng, chỉ ra đoạn mặt đường còn dở, vỉa hè chưa xong, chỗ nên giảm tốc và cách quay lại trục cũ khi gặp rào. Không nêu tổng vốn dự án, không khẳng định đoạn nào đã hoàn thiện ngoài nguồn báo. Người đọc là người ở trọ, đi làm giữa Thanh Xuân và Hoàng Mai bằng xe máy thuê, khác bài BLG-04764 (Thanh Xuân sang Long Biên theo đường dưới Vành đai 2) ở chỗ dùng trục Vành đai 2,5 mới phía nam.",
+   "kw": "vành đai 2,5 qua Khương Đình",
+   "kw2": [
+    "vành đai 2,5 đầm hồng định công",
+    "đường mới thanh xuân sang hoàng mai",
+    "vành đai 2,5 thông xe 10/10/2026",
+    "cầu thượng đình vành đai 2,5"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29L",
+   "audience": "Người ở trọ, đi làm giữa Thanh Xuân, Khương Đình và Định Công, Hoàng Mai bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29L-002",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Nút giao Vành đai 2,5 – Nguyễn Trãi mới thông xe chưa có đèn tín hiệu: xe máy đi thẳng, rẽ trái giờ cao điểm thế nào",
+   "intent": "Người dùng hỏi: «Nút giao mới giữa Vành đai 2,5 và đường Nguyễn Trãi chưa có đèn xanh đỏ, sáng đầu tuần ùn dài, đi xe máy qua để sang Ngụy Như Kon Tum hay rẽ về Khương Đình thì phải làm sao cho an toàn?». Bài dựa trên ghi nhận báo chí sáng 19/10/2026 (nút chưa lắp đèn tín hiệu, ô tô nối dài, nhiều xe máy leo vỉa hè, CSGT có mặt điều tiết) và đoạn tuyến thông xe kỹ thuật 10/10/2026; hướng dẫn tuân theo hiệu lệnh của người điều khiển giao thông khi có mặt, nhường xe đang ở trong nút, ưu tiên rẽ phải rồi quay đầu thay vì cắt chéo, không lên vỉa hè, chọn giờ đi lệch 7h–9h và chuẩn bị cho việc nút sẽ được lắp đèn sau này. Không nêu mức phạt. Người đọc là người đi làm qua trục Nguyễn Trãi bằng xe máy thuê, khác bài BLG-00821 (đi qua giao lộ không đèn nói chung) ở chỗ một nút giao lớn vừa mở trên trục đông xe, có CSGT điều tiết và tổ chức giao thông còn tạm.",
+   "kw": "nút giao vành đai 2,5 nguyễn trãi",
+   "kw2": [
+    "nút giao mới chưa có đèn tín hiệu",
+    "ùn tắc vành đai 2,5 nguyễn trãi",
+    "xe máy qua nút giao csgt điều tiết",
+    "rẽ trái nút giao mới thông xe"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29L",
+   "audience": "Người đi làm qua trục Nguyễn Trãi, Thanh Xuân bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29L-003",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Vành đai 2,5 qua Cầu Giấy mới thông: đi xe máy giữa Dương Đình Nghệ, Vũ Phạm Hàm và Trần Duy Hưng có đỡ vòng không",
+   "intent": "Người dùng hỏi: «Mấy đoạn Vành đai 2,5 ở Cầu Giấy vừa thông xe thì đi xe máy từ khu Dịch Vọng, Dương Đình Nghệ sang Trung Hòa, Trần Duy Hưng có gần hơn không và đoạn nào còn dở?». Bài dựa trên lễ thông xe kỹ thuật ngày 10/10/2026 theo Sở Xây dựng Hà Nội: đoạn Dịch Vọng – Dương Đình Nghệ dài khoảng 0,71 km, rộng 50 m với phần xe chạy 31 m và dải phân cách giữa, đoạn Vũ Phạm Hàm – Trần Duy Hưng dài khoảng 0,6 km, đoạn Cầu Giấy – Dịch Vọng ngắn còn hoàn thiện; hướng dẫn lối nối giữa các đoạn, điểm nhập dòng với Trần Duy Hưng, Dương Đình Nghệ, chỗ vỉa hè, chiếu sáng chưa đồng bộ và khi nào nên đi đường cũ. Người đọc là người ở, làm việc quanh Cầu Giấy – Trung Hòa đi xe máy thuê, khác bài BLG-04766 (đi lại khu Trung Hòa – Nhân Chính qua Hoàng Đạo Thúy, Lê Văn Lương, Trần Duy Hưng) ở chỗ dùng các đoạn Vành đai 2,5 mới nối Dịch Vọng với Trung Hòa.",
+   "kw": "vành đai 2,5 qua Cầu Giấy",
+   "kw2": [
+    "vành đai 2,5 dương đình nghệ",
+    "vành đai 2,5 vũ phạm hàm trần duy hưng",
+    "đường mới cầu giấy trung hòa",
+    "lối tắt xe máy cầu giấy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29L",
+   "audience": "Người ở, làm việc quanh Cầu Giấy, Dịch Vọng, Trung Hòa đi xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29L-004",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Hầm chui Kim Đồng – Giải Phóng: xe máy có được đi hầm không, từ Định Công sang Kim Đồng và quay đầu trên Giải Phóng",
+   "intent": "Người dùng hỏi: «Hầm chui Kim Đồng – Giải Phóng thông xe rồi thì xe máy có được chui hầm không, từ Định Công sang Kim Đồng đi lối nào, đang trên Giải Phóng muốn vào Kim Đồng quay đầu ở đâu?». Bài dựa trên phương án tổ chức giao thông của Sở Xây dựng Hà Nội khi hầm thông xe kỹ thuật ngày 10/2/2026: phương tiện đi hai chiều dưới hầm theo hướng Kim Đồng – khu đô thị Định Công, hầm cấm xe thô sơ, người đi bộ và xe cao quá 4,75 m; trên Giải Phóng, hướng từ cầu Ngã Tư Vọng đi thẳng, quay đầu tại trung tâm nút hoặc rẽ phải vào Kim Đồng, hướng từ bến xe Giáp Bát quay đầu tại trung tâm nút hoặc hai điểm mở dải phân cách để rẽ trái vào Kim Đồng; hầm dài khoảng 460 m, bốn làn. Bài nhắc bật đèn, giữ làn trong hầm và kiểm tra biển vì tổ chức giao thông có thể điều chỉnh. Người đọc là người đi lại giữa Hoàng Mai, Định Công và Giải Phóng bằng xe máy thuê, khác bài BLG-04776 (đường Trương Định, chỉ nhắc Kim Đồng như lối thoát) ở chỗ hướng dẫn riêng nút hầm chui.",
+   "kw": "hầm chui Kim Đồng xe máy",
+   "kw2": [
+    "hầm chui kim đồng giải phóng",
+    "từ định công sang kim đồng",
+    "quay đầu giải phóng vào kim đồng",
+    "hầm chui vành đai 2,5"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29L",
+   "audience": "Người đi lại giữa Hoàng Mai, Định Công và trục Giải Phóng bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29L-005",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Từ Vành đai 2,5 muốn rẽ vào phố Định Công gần hầm Kim Đồng: quay đầu đúng chỗ thay vì đi ngược chiều cả trăm mét",
+   "intent": "Người dùng hỏi: «Đang chạy trên Vành đai 2,5 hướng ra Giải Phóng mà muốn vào phố Định Công thì quay đầu ở đâu, có được đi ngược chiều một đoạn ngắn như nhiều người không?». Bài dựa trên ghi nhận của báo chí ngày 19/3/2026 tại đoạn Vành đai 2,5 qua phố Định Công sau khi hầm chui Kim Đồng thông xe: xe phải tới điểm quay đầu trước chung cư Sky Central, nhiều xe máy cắt ngang dòng rồi đi ngược chiều khoảng 100 m, quay đầu ở hai đầu đoạn phía trên hầm, người dắt xe băng qua cửa hầm; bài hướng dẫn đi tới điểm quay đầu hợp lệ, chờ khoảng trống, nhập dòng bên phải rồi rẽ, vì sao đối đầu dòng xe đi lên từ hầm rất nguy hiểm, không dừng xe trong hầm để xem điện thoại. Không nêu mức phạt. Người đọc là người mới thuê xe ở khu Định Công, Hoàng Mai, khác bài BLG-04493 (quay đầu ở nút giao có biển cấm theo góc camera) ở chỗ xử lý một điểm rẽ cụ thể trên đoạn đường mới.",
+   "kw": "rẽ vào phố Định Công từ vành đai 2,5",
+   "kw2": [
+    "đi ngược chiều gần hầm kim đồng",
+    "quay đầu trước sky central định công",
+    "vào phố định công bằng xe máy",
+    "cửa hầm chui kim đồng"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29L",
+   "audience": "Người mới thuê xe ở quanh Định Công, Hoàng Mai",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29L-006",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Rào chắn ga metro số 5 trên Văn Cao và Nguyễn Chí Thanh: đi xe máy từ Hồ Tây xuống Láng thế nào đến tháng 4/2027",
+   "intent": "Người dùng hỏi: «Đường Văn Cao và đoạn Nguyễn Chí Thanh – La Thành đang quây tôn làm ga metro số 5, đi xe máy từ Hồ Tây xuống Láng, Nguyễn Chí Thanh còn mấy làn, quay đầu ở đâu?». Bài dựa trên thông báo của Ban Quản lý đường sắt đô thị Hà Nội và Sở Xây dựng: rào ga S1 Quần Ngựa trên Văn Cao khoảng 476 m từ 18/6/2026 đến hết 15/4/2027 (hướng đi Nguyễn Chí Thanh còn 3 làn, hướng đi Hồ Tây còn 2 làn, tốc độ tối đa 40 km/h, cấm dừng đỗ trong phạm vi thi công, điểm quay đầu bố trí trước rào để đi Liễu Giai) và rào ga S3 khu nút Nguyễn Chí Thanh – La Thành với vỉa hè xén khoảng 276 m làm đường tạm, mỗi bên còn khoảng 6,5–7,5 m; xe công trường chỉ ra vào 22h–5h. Bài hướng dẫn chọn làn, chỗ hẹp, đi đêm qua hàng rào tôn và đường thay thế qua Liễu Giai, Đào Tấn. Người đọc là người đi làm trục Ba Đình – Đống Đa bằng xe máy thuê, khác bài BLG-06241 (rào ga ngầm tuyến Nhổn – ga Hà Nội trên Kim Mã, Cát Linh) ở chỗ công trường tuyến số 5 trục Văn Cao – Nguyễn Chí Thanh.",
+   "kw": "rào chắn metro số 5 đường Văn Cao",
+   "kw2": [
+    "ga quần ngựa metro số 5",
+    "rào chắn nguyễn chí thanh la thành",
+    "đi xe máy văn cao khi thi công metro",
+    "metro văn cao hòa lạc rào chắn"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29L",
+   "audience": "Người đi làm trục Ba Đình – Đống Đa, Hồ Tây – Láng bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29L-007",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Quốc lộ 1A Văn Điển – Ngọc Hồi mở rộng 8 làn: xe máy chọn làn, quay đầu ở đâu khi dải phân cách còn là hàng rào tạm",
+   "intent": "Người dùng hỏi: «Quốc lộ 1A đoạn Văn Điển – Ngọc Hồi mới mở rộng thành 8 làn, đi xe máy nên chạy làn nào cạnh xe tải, quay đầu ở đâu khi dải phân cách giữa chỉ là hàng rào sắt tạm?». Bài dựa trên việc thông tuyến khoảng cuối tháng 1/2026 đoạn dài 3,8 km từ Nghĩa trang Liệt sĩ Ngọc Hồi đến chùa Yên Phú, mặt cắt gần 40 m, và ghi nhận báo chí tháng 3/2026 (vỉa hè còn dở, dải phân cách tạm bằng hàng rào sắt bị xô lệch, người sang đường, quay đầu tùy ý, đi ngược chiều); hướng dẫn giữ làn bên phải, tránh điểm mù xe tải, chỉ quay đầu ở điểm mở hợp lệ, cảnh giác người cắt ngang và đoạn vỉa hè đang thi công. Không nêu tổng vốn. Người đọc là người ở trọ, đi làm quanh Văn Điển, Ngọc Hồi, Tứ Hiệp bằng xe máy thuê, khác bài BLG-03683 (đi làm theo trục Giải Phóng: giờ đi và đoạn hay ùn) ở chỗ tập trung vào đoạn quốc lộ vừa mở rộng và tổ chức làn tạm.",
+   "kw": "quốc lộ 1A Văn Điển Ngọc Hồi 8 làn",
+   "kw2": [
+    "quốc lộ 1a mở rộng thanh trì",
+    "xe máy đi quốc lộ 1a ngọc hồi",
+    "dải phân cách tạm quốc lộ 1a",
+    "quay đầu quốc lộ 1a văn điển"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29L",
+   "audience": "Người ở trọ, đi làm quanh Văn Điển, Ngọc Hồi, Tứ Hiệp bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29L-008",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Bến xe Yên Sở mới trên đường Đỗ Mười: đi xe máy tới từ nội thành, lối vào cạnh đường gom Vành đai 3 và chỗ để xe",
+   "intent": "Người dùng hỏi: «Bến xe khách Yên Sở mới mở nằm ở đâu, đi xe máy từ nội thành tới đón người thân hoặc gửi xe đi xe khách thì vào lối nào, có chỗ để xe máy không?». Bài dựa trên thông tin khai trương ngày 10/10/2026 (bến đưa vào khai thác từ 2/10/2026, nằm trên đường Đỗ Mười, phường Yên Sở, cạnh đường gom Vành đai 3, gần nút cao tốc Pháp Vân – Cầu Giẽ, cách bến Nước Ngầm khoảng 2 km và Giáp Bát gần 5 km, có tầng hầm đỗ xe và bãi đỗ cho phương tiện khác; tuyến mới chủ yếu đi miền Trung, miền Nam); hướng dẫn lộ trình xe máy theo Giải Phóng – Pháp Vân hoặc Tam Trinh, Lĩnh Nam, không lên Vành đai 3 trên cao, giờ xe khách ra vào đông, cách hỏi chỗ gửi xe máy và đón khách đúng nơi quy định. Không nêu giá vé, giá gửi xe cụ thể. Người đọc là người đi xe máy đưa đón người thân ở bến phía nam, khác bài BLG-01872 (gửi xe ở bến xe khách nói chung) và BLG-01727 (từ Giáp Bát về phố cổ) ở chỗ một bến xe mới.",
+   "kw": "đi xe máy tới bến xe Yên Sở",
+   "kw2": [
+    "bến xe yên sở đường đỗ mười",
+    "bến xe khách yên sở ở đâu",
+    "gửi xe máy bến xe yên sở",
+    "đón người thân bến xe yên sở"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29L",
+   "audience": "Người đi xe máy đưa đón người thân, đi xe khách ở bến phía nam Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29L-009",
+   "child_id": "C-LONG-BIEN",
+   "title": "Nút Cổ Linh – Đàm Quang Trung đang làm hầm chui: xe máy rẽ trái, quay đầu dưới gầm cầu Vĩnh Tuy thế nào",
+   "intent": "Người dùng hỏi: «Nút Cổ Linh – Đàm Quang Trung chân cầu Vĩnh Tuy giờ bị quây làm hầm chui, không còn đèn, đi xe máy từ Cổ Linh muốn ra quốc lộ 5 hay lên cầu Vĩnh Tuy thì rẽ, quay đầu ở đâu?». Bài dựa trên phương án của Sở Xây dựng Hà Nội áp dụng từ 18/3/2026 (rào chắn đến 30/4/2027): nút chuyển sang không dùng đèn tín hiệu, hướng từ Cổ Linh phía cầu Long Biên đi quốc lộ 5 rẽ phải vào Đàm Quang Trung rồi quay đầu dưới gầm cầu Vĩnh Tuy hoặc đi thẳng qua cầu vượt Cổ Linh tới nút Thạch Bàn; hướng từ phía cao tốc Hà Nội – Hải Phòng đi cầu Vĩnh Tuy rẽ phải vào Đàm Quang Trung quay đầu trên tuyến hoặc đi thẳng quay đầu tại nút Trần Đăng Khoa; cấm dừng, đỗ tại vị trí quay đầu dưới gầm cầu; đầu phố Trạm bị rào, đi ngõ 64 Cổ Linh; phương án ô tô một chiều ở cổng Aeon Mall từ 1/8/2026; mục tiêu thông xe hầm trước Tết Đinh Mùi 2027. Người đọc là người ở, thuê xe quanh Long Biên, khác bài BLG-02290 (AEON Mall Long Biên: đường đi và hầm gửi xe) và BLG-03455 (đường Cổ Linh buổi tối) ở chỗ cách đi qua chính nút công trường.",
+   "kw": "nút Cổ Linh Đàm Quang Trung xe máy",
+   "kw2": [
+    "hầm chui cổ linh rào chắn",
+    "quay đầu dưới gầm cầu vĩnh tuy",
+    "từ cổ linh đi quốc lộ 5",
+    "chân cầu vĩnh tuy phía long biên"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29L",
+   "audience": "Người ở, thuê xe máy quanh Bồ Đề, Long Biên đi về phía cầu Vĩnh Tuy, quốc lộ 5",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29L-010",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Từ Sài Đồng, Thạch Bàn vào Hai Bà Trưng giờ cao điểm khi nút Cổ Linh ùn tắc: đi cầu Vĩnh Tuy hay vòng sang Chương Dương",
+   "intent": "Người dùng hỏi: «Sáng đi làm từ Sài Đồng, Thạch Bàn sang Hai Bà Trưng mà nút Cổ Linh chân cầu Vĩnh Tuy tắc cả tiếng thì nên cố qua cầu Vĩnh Tuy hay vòng đường khác bằng xe máy?». Bài dựa trên ghi nhận báo chí cuối tháng 10/2026 (Cổ Linh có 6 vị trí rào chắn trên Đàm Quang Trung và Cổ Linh, lòng đường chỉ còn khoảng một phần ba, nhiều người mất thêm khoảng một tiếng mỗi lượt) và khuyến cáo của Phòng CSGT Hà Nội ngày 24/10/2026 về chọn tuyến thay thế, đổi giờ xuất phát; so sánh đi tiếp cầu Vĩnh Tuy với vòng Nguyễn Văn Linh – Nguyễn Văn Cừ lên cầu Chương Dương hoặc cầu Long Biên (xe máy không đi cầu Thanh Trì), giờ nên xuất phát và lối xuống cầu phía Hoàn Kiếm, Hai Bà Trưng. Người đọc là người đi làm từ phía đông Long Biên bằng xe máy thuê, khác bài BLG-02295 (chọn cầu từ Long Biên vào nội đô khi các cầu thông thoáng) và bài về cách đi qua nút Cổ Linh ở chỗ chọn đường né công trường theo giờ.",
+   "kw": "né nút Cổ Linh giờ cao điểm",
+   "kw2": [
+    "sài đồng sang hai bà trưng bằng xe máy",
+    "thạch bàn vào nội thành tránh tắc",
+    "cầu vĩnh tuy hay cầu chương dương",
+    "tắc đường chân cầu vĩnh tuy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29L",
+   "audience": "Người đi làm từ Sài Đồng, Thạch Bàn, Phúc Đồng sang Hai Bà Trưng, Hoàn Kiếm bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29L-011",
+   "child_id": "C-KY-NANG-GUI-XE",
+   "title": "Bãi gửi xe ở Hà Nội thu phí điện tử từ 1/7/2026: đi xe máy thuê trả tiền gửi bằng mã QR thế nào khi máy báo lỗi",
+   "intent": "Người dùng hỏi: «Từ tháng 7/2026 bãi gửi xe ở Hà Nội chuyển sang thu tiền điện tử, đi xe máy thuê không có thẻ dán xe thì trả tiền gửi ra sao, quét QR lỗi hay điện thoại hết pin thì làm gì?». Bài dựa trên Kế hoạch 198/KH-UBND của UBND TP Hà Nội (chương trình «Đỗ xe minh bạch – Chuyển đổi số Thủ đô»): từ 1/7/2026 khoảng 3.000 bãi đỗ, điểm trông giữ được cấp phép phải áp dụng công nghệ quản lý và thanh toán điện tử, hình thức gồm quét mã QR, tài khoản giao thông kết hợp nhận diện biển số, có hóa đơn điện tử và kênh tra soát, nhân viên hỗ trợ người không dùng điện thoại; bài hướng dẫn người đi xe máy thuê chuẩn bị ứng dụng ngân hàng, đối chiếu biển số xe thuê trên vé hoặc màn hình, giữ thẻ, chụp lại giao dịch, xử lý khi mã lỗi hoặc mất kết nối. Không nêu mức phí cụ thể. Người đọc là khách thuê xe máy ngắn ngày gửi xe ở phố, khác bài BLG-01401 (quẹt thẻ tự động lỗi khi ra bãi) và BLG-03190 (mất vé gửi xe) ở chỗ cách thanh toán theo quy định mới.",
+   "kw": "thu phí gửi xe điện tử ở Hà Nội",
+   "kw2": [
+    "quét mã qr trả tiền gửi xe",
+    "bãi gửi xe không dùng tiền mặt",
+    "kế hoạch 198 đỗ xe minh bạch",
+    "gửi xe máy thuê thanh toán điện tử"
+   ],
+   "links": [
+    "/ky-nang/gui-xe-va-giu-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29L",
+   "audience": "Khách thuê xe máy ngắn ngày, khách du lịch gửi xe ở các bãi trong phố",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29L-013",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Làn sóng xanh trên phố Huế – Hàng Bài: đi xe máy giữ tốc độ bao nhiêu để qua liền các đèn xanh mà không phóng nhanh",
+   "intent": "Người dùng hỏi: «Nghe nói Hà Nội có tuyến làn sóng xanh, đi phố Huế – Hàng Bài gần như không phải dừng đèn đỏ, vậy đi xe máy nên giữ tốc độ bao nhiêu và có nên tăng ga đuổi đèn không?». Bài dựa trên thông tin của Phòng CSGT Công an TP Hà Nội đăng ngày 30/6/2026: hệ thống 1.837 camera AI tại 195 nút giao, 22 tuyến «làn sóng xanh» trên các trục như Phố Huế – Hàng Bài, Võ Chí Công, Giải Phóng, và trên Phố Huế – Hàng Bài nếu duy trì tốc độ khoảng 25–30 km/h thì gần như không phải dừng đèn đỏ; bài giải thích cơ chế phối hợp pha đèn liên tiếp, cách giữ ga đều, vì sao phóng nhanh lại gặp đèn đỏ, chú ý người đi bộ và xe rẽ, camera AI ghi vượt đèn đỏ, sai làn. Không nêu mức phạt. Người đọc là người đi xe máy thuê vào trung tâm theo hướng nam – bắc, khác bài BLG-03494 (cặp phố một chiều Bà Triệu – Phố Huế) và BLG-06133 (đọc độ già của đèn xanh) ở chỗ tận dụng nhịp đèn phối hợp cả tuyến.",
+   "kw": "làn sóng xanh phố Huế Hàng Bài",
+   "kw2": [
+    "đèn tín hiệu phối hợp camera ai hà nội",
+    "giữ tốc độ đều qua nhiều đèn xanh",
+    "tuyến làn sóng xanh hà nội",
+    "đi phố huế không dừng đèn đỏ"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29L",
+   "audience": "Người đi xe máy thuê vào trung tâm Hoàn Kiếm, Hai Bà Trưng theo trục nam – bắc",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29L-014",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Đường song hành Vành đai 4 đoạn đê Hữu Hồng – Đại lộ Thăng Long mới thông: xe máy đi chiều nào, qua đê Tả Đáy thế nào",
+   "intent": "Người dùng hỏi: «Đường song hành Vành đai 4 qua Đan Phượng, Hoài Đức vừa thông xe, đi xe máy được không, mỗi bên chạy một chiều ra sao, tới đê Tả Đáy và chỗ nối Đại lộ Thăng Long thì rẽ thế nào?». Bài dựa trên thông báo tổ chức giao thông tạm thời của Sở Xây dựng Hà Nội từ 10/10/2026 cho đoạn 15 km từ đê Hữu Hồng (cầu Hồng Hà, Km14+850) đến Đại lộ Thăng Long (Km29+200): mỗi đường song hành chạy một chiều cho mọi loại xe; 5 nút có đèn tín hiệu (ven kênh Đan Hoài, Hạ Mỗ – Tân Hội, Tân Hội, quốc lộ 32, đường tỉnh 422 tức đường 79 cũ); tại đê Tả Đáy (Km27+400) hai đầu đoạn đê bị rào, xe theo hướng đê phải rẽ phải nhập song hành rồi quay đầu ở vị trí gần nhất; xe máy từ song hành phải ra đường gom Đại lộ Thăng Long bắt buộc rẽ phải tại khoảng Km28+040 theo đường hiện trạng hướng cầu Phương Bản; vào song hành trái qua nhánh N5. Bài nhắc tổ chức giao thông là tạm thời, đọc biển tại chỗ. Người đọc là người ở Hoài Đức, Đan Phượng, Phúc Thọ đi xe máy, khác bài BLG-04630 (xe máy chỉ chạy đường song hành Đại lộ Thăng Long lên Hòa Lạc) ở chỗ tuyến song hành Vành đai 4 mới.",
+   "kw": "đường song hành vành đai 4 xe máy",
+   "kw2": [
+    "vành đai 4 thông xe 10/10/2026",
+    "đê tả đáy vành đai 4 quay đầu",
+    "song hành vành đai 4 ra đại lộ thăng long",
+    "đường song hành vành đai 4 đan phượng"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29L",
+   "audience": "Người ở Hoài Đức, Đan Phượng, Phúc Thọ đi xe máy vào nội thành hoặc sang các xã lân cận",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29L-015",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Qua công trường nút giao Vành đai 3,5 trên Đại lộ Thăng Long đến hết 2026: đường gom bị rào, xe máy được dẫn đi đâu",
+   "intent": "Người dùng hỏi: «Đi xe máy theo đường gom Đại lộ Thăng Long lên Hòa Lạc, tới khu thi công nút giao Vành đai 3,5 thì đường gom bị rào, phải đi sang đâu và có được chạy phần cao tốc không?». Bài dựa trên thông báo của Sở Xây dựng Hà Nội về giai đoạn 2 thi công nút giao khác mức Vành đai 3,5 – Đại lộ Thăng Long, áp dụng đến hết 31/12/2026: rào toàn bộ đường gom phải từ Km7+760 đến Km8+680, phương tiện trên đường gom được phân luồng sang đường cao tốc hiện trạng; cao tốc phải từ Km8+120 đến Km8+860 bị rào, xe đi đường tạm ở dải phân cách giữa; đường gom trái và đường Hoàng Tùng giữ phương án giai đoạn 1, một số đoạn đường gom thu hẹp còn tối thiểu 4 m; tốc độ tối đa 60 km/h trong phạm vi thi công. Bài hướng dẫn đi theo biển phân luồng, giữ sát lề phải, quay về đường gom ngay sau đoạn rào, chú ý xe tải và đi đêm. Người đọc là người đi xe máy lên Hòa Lạc, Thạch Thất qua Hoài Đức, khác bài BLG-04630 (quy định thường ngày xe máy chỉ chạy song hành, không vào làn ô tô) ở chỗ xử lý đoạn bị chuyển luồng tạm thời.",
+   "kw": "nút giao vành đai 3,5 Đại lộ Thăng Long",
+   "kw2": [
+    "đường gom đại lộ thăng long bị rào",
+    "phân luồng đại lộ thăng long 2026",
+    "xe máy đi hòa lạc qua công trường",
+    "thi công nút giao hoàng tùng đại lộ thăng long"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29L",
+   "audience": "Người đi xe máy lên Hòa Lạc, Thạch Thất, Quốc Oai qua Hoài Đức",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}

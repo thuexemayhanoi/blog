@@ -1,0 +1,367 @@
+{
+ "_meta": {
+  "note": "Lô R29J: sự kiện và mùa vụ cụ thể 11/2026–3/2027 quanh Hà Nội (Ngày Văn hóa Việt Nam 24/11/2026, 80 năm Toàn quốc kháng chiến 19/12/2026, Lễ hội Thiết kế Sáng tạo 13–29/11/2026, lịch nghỉ Tết Đinh Mùi 2027 theo Bộ Nội vụ, ngày âm lịch quy đổi bằng thuật toán lịch Việt (mùng 1 Tết 6/2/2027, tháng Chạp thiếu), lễ hội tháng Giêng/tháng Hai 2027, dự báo khí hậu mùa đông 2026–2027 El Niño, mùa hoa tớ dày, quýt Bắc Sơn). Nguồn đã kiểm: cafef/VTC 10/10/2026 (lịch nghỉ Tết 2027), xaydungchinhsach.chinhphu.vn và tuoitre 20/9/2026 (Ngày Văn hóa VN, NQ 28/2026/QH16, VPCP 10065), luatvietnam 22/10/2026 (dự thảo miễn phí tham quan), VTV 27/10/2026 (KH 410/KH-UBND Mỹ Đình), doanhnghiepvathitruong 22/10/2026 (KH 408/KH-UBND lễ hội thiết kế), thanhuyhanoi/vietnam.vn 1/10/2026 (KH 109-KH/TU, 80 năm Toàn quốc kháng chiến), vnmha.mae.gov.vn + VTV 15/10/2026 (dự báo mùa đông), laodong/vnexpress (chùa Hương 2026), duytien.ninhbinh.gov.vn (Tịch điền 2026), melinh.hanoi.gov.vn (lễ hội Mê Linh 2026), nguoihanoi 2/3/2025 (lễ hội Đồng Nhân), kenh14 24/2/2026 (Phúc Khánh), vnexpress/laodong 2026 (hội Lim 12–13 tháng Giêng), doanhnhan.congly 14/2/2026 (rước kiệu Mê Linh), Luật 36/2024 Điều 18 k4 c. Kiểm trùng: grep toàn matrix có dấu/không dấu theo thực thể từng ứng viên (Tết, giao thừa, lễ hội, chùa Hương, Mỹ Đình, Noel, mùa hoa, rét, Bắc Sơn, Mù Cang Chải, Quảng Bá, Phúc Khánh, Hai Bà Trưng...), đọc intent láng giềng, chạy topic_check.py (G1-G9 + Jaccard + intent). Đã tự loại ứng viên chợ hoa đêm Quảng Bá giáp Tết vì trùng câu hỏi với BLG-01263/BLG-02286.",
+  "created": "2026-10-29",
+  "source": "coordinator topic expansion 2026-10-29 theo docs/TAXONOMY.md, gate G1-G9"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-001",
+   "child_id": "C-THUE-TUAN",
+   "title": "Nghỉ Tết Đinh Mùi 2027 bảy ngày từ 4/2 đến 10/2: thuê xe máy gói tuần trọn kỳ nghỉ, nhận xe hôm nào và trả xe hôm nào",
+   "intent": "Người dùng hỏi: «Tết Đinh Mùi 2027 được nghỉ liền 7 ngày thì thuê xe máy gói tuần có vừa không, nên nhận và trả xe vào ngày nào?». Bài đối chiếu thông báo lịch nghỉ của Bộ Nội vụ (khu vực nhà nước nghỉ từ thứ Năm 4/2 đến hết thứ Tư 10/2/2027, tức 28 tháng Chạp đến mùng 5 tháng Giêng; doanh nghiệp chọn một trong ba phương án 3/2–9/2, 4/2–10/2 hoặc 5/2–11/2) với gói tuần trong bảng giá đã duyệt (Wave, Click/Mio 700.000 đồng/tuần; Vision, Air Blade 1.000.000 đồng/tuần so với cộng 7 ngày lẻ), lưu ý năm nay tháng Chạp thiếu nên không có ngày 30 Tết (29 Chạp, thứ Sáu 5/2 là giao thừa), mùng 6 (thứ Năm 11/2) là ngày đi làm lại, cách đặt xe sớm và hỏi trực tiếp lịch giao nhận trong giờ 09:00–21:00 những ngày Tết; không khẳng định giá dịp Tết hay lịch mở cửa chưa xác nhận. Người đọc là người ở lại hoặc về Hà Nội ăn Tết cần xe trọn kỳ nghỉ, khác bài thuê xe tuần dịp Tết chung chung (BLG-03015) ở chỗ tính theo đúng lịch nghỉ 2027 và ba phương án nghỉ của doanh nghiệp.",
+   "kw": "thuê xe máy tết đinh mùi 2027",
+   "kw2": [
+    "lịch nghỉ tết đinh mùi 2027",
+    "thuê xe máy gói tuần dịp tết",
+    "tết 2027 không có ngày 30",
+    "nhận xe trước 28 tháng chạp"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/",
+    "/bang-gia/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người ở Hà Nội hoặc về Hà Nội ăn Tết Đinh Mùi 2027 cần xe máy suốt kỳ nghỉ 7 ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-002",
+   "child_id": "C-BAO-TANG",
+   "title": "Nghỉ Ngày Văn hóa Việt Nam 24/11/2026: đi xe máy qua các bảo tàng trung ương ở Hà Nội và kiểm tra nơi miễn, giảm vé",
+   "intent": "Người dùng hỏi: «Ngày 24/11/2026 lần đầu được nghỉ dịp Ngày Văn hóa Việt Nam thì đi bảo tàng nào ở Hà Nội bằng xe máy, có được miễn vé không?». Bài nêu lịch nghỉ đã chốt (nghỉ một ngày thứ Ba 24/11/2026, không hoán đổi, theo Nghị quyết 28/2026/QH16 và văn bản 10065/VPCP-KGVX), quy định miễn hoặc giảm phí tham quan tại cơ sở văn hóa công lập theo quyết định của cơ quan có thẩm quyền, dự thảo thông tư của Bộ Tài chính đề xuất miễn phí tại các bảo tàng trung ương ở Hà Nội như Bảo tàng Dân tộc học, Lịch sử quốc gia, Mỹ thuật Việt Nam, Phụ nữ Việt Nam, Lịch sử Quân sự Việt Nam (chỉ là đề xuất, phải kiểm tra thông báo chính thức), cách sắp vòng xe máy theo hướng đông – tây trong một ngày, chỗ gửi xe và giờ tránh đoàn học sinh; không bịa giá vé hay giờ mở cửa. Người đọc là người đi làm muốn dùng ngày nghỉ mới cho bảo tàng, khác bài Ngày Di sản 23/11 (BLG-03385) ở chỗ đây là ngày nghỉ hưởng lương lần đầu và chính sách miễn, giảm phí riêng của ngày 24/11.",
+   "kw": "ngày văn hóa việt nam đi bảo tàng",
+   "kw2": [
+    "nghỉ lễ 24/11/2026",
+    "miễn phí tham quan ngày văn hóa việt nam",
+    "bảo tàng trung ương ở hà nội",
+    "đi bảo tàng bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người đi làm ở Hà Nội được nghỉ ngày 24/11/2026 muốn đi một vòng bảo tàng bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-003",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Tối 24/11/2026 có chương trình nghệ thuật và pháo hoa ở sân Mỹ Đình: đi xe máy quanh Lê Đức Thọ, Phạm Hùng thế nào",
+   "intent": "Người dùng hỏi: «Tối 24/11/2026 có chương trình nghệ thuật lớn và bắn pháo hoa ở sân vận động Mỹ Đình thì đi xe máy ngang khu đó thế nào?». Bài dựa trên Kế hoạch 410/KH-UBND của Hà Nội (chương trình từ 20 giờ ngày 24/11/2026, không quá 120 phút, khoảng 60.000 người tham gia, pháo hoa không quá 15 phút; sơ duyệt và tổng duyệt các tối 19/11 và 22/11), hướng dẫn người chỉ đi ngang hoặc ở quanh Mỹ Đình: theo dõi thông báo phân luồng của công an thành phố, chọn đường vòng tránh các trục quanh sân, không dừng xe máy giữa đường hoặc trên cầu vượt để ngắm pháo hoa, giờ dòng người rời sân và cách đi khi đông; không tự đoán tuyến cấm khi chưa có thông báo. Người đọc là người sống, làm việc quanh Mỹ Đình và người đi xem, khác bài rời Mỹ Đình sau trận đấu (BLG-02793) ở chỗ đây là sự kiện có pháo hoa nhìn được từ ngoài sân, nhiều người dừng xe xem dọc đường và có cả các tối duyệt chương trình.",
+   "kw": "chương trình nghệ thuật mỹ đình 24/11",
+   "kw2": [
+    "pháo hoa mỹ đình 24/11/2026",
+    "phân luồng quanh sân mỹ đình",
+    "không dừng xe xem pháo hoa",
+    "tổng duyệt tối 22/11"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người sống, làm việc hoặc đi ngang khu Mỹ Đình bằng xe máy tối 24/11/2026 và các tối duyệt chương trình",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-004",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Theo dấu mùa đông 1946 bằng xe máy dịp 80 năm Toàn quốc kháng chiến: Vạn Phúc, Pháo đài Láng và Liên khu 1",
+   "intent": "Người dùng hỏi: «Dịp kỷ niệm 80 năm Ngày Toàn quốc kháng chiến 19/12/2026 muốn đi xe máy qua các nơi gắn với đêm 19/12/1946 ở Hà Nội thì đi đâu, theo thứ tự nào?». Bài nối các địa điểm có thật: Nhà lưu niệm nơi Chủ tịch Hồ Chí Minh viết Lời kêu gọi toàn quốc kháng chiến ở làng Vạn Phúc (Hà Đông), Pháo đài Láng cuối ngõ phố Pháo Đài Láng nơi loạt đạn pháo mở đầu lúc 20 giờ 3 phút ngày 19/12/1946, khu phố cổ của Liên khu 1 trong 60 ngày đêm và bãi sông dưới cầu Long Biên nơi Trung đoàn Thủ đô rút ra, sắp thành một cung xe máy nửa ngày đi từ tây vào trung tâm, chỗ dừng xe ở ngõ hẹp và cách cư xử tại nơi tưởng niệm; nhắc ngày 19/12/2026 là thứ Bảy và lễ kỷ niệm cấp quốc gia do Hà Nội chủ trì có thể kèm phân luồng cần theo dõi. Không bịa giờ mở cửa. Người đọc là người Hà Nội và khách thích lịch sử, khác các cung theo dấu năm 1945 (BLG-04773) và 12 ngày đêm 1972 (BLG-04771) ở chỗ đây là sự kiện tháng 12/1946.",
+   "kw": "theo dấu toàn quốc kháng chiến",
+   "kw2": [
+    "80 năm toàn quốc kháng chiến",
+    "pháo đài láng",
+    "nhà lưu niệm bác hồ ở vạn phúc",
+    "liên khu 1 phố cổ"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người Hà Nội và khách thích lịch sử muốn đi xe máy theo dấu sự kiện 19/12/1946 dịp kỷ niệm 80 năm",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-005",
+   "child_id": "C-LONG-BIEN",
+   "title": "Thả cá chép ông Công ông Táo ra sông Hồng ngày 30/1/2027: gửi xe máy ở đâu thay vì dừng trên cầu Long Biên",
+   "intent": "Người dùng hỏi: «Ngày 23 tháng Chạp năm nay muốn thả cá chép ra sông Hồng thì để xe máy ở đâu, có được dừng xe trên cầu Long Biên hay Chương Dương để thả không?». Bài quy đổi 23 tháng Chạp Bính Ngọ sang thứ Bảy 30/1/2027, nêu khoản 4 Điều 18 Luật Trật tự, an toàn giao thông đường bộ 2024 không cho dừng, đỗ xe trên cầu trừ nơi tổ chức giao thông cho phép, cảnh các năm trước người dừng xe, ném cá và túi nilon từ trên cầu, rồi hướng dẫn gửi xe ở hai đầu cầu phía Long Biên hoặc phố cổ, đi bộ xuống bãi sông hay bến nước để thả cá sát mặt nước, mang túi rác về và đi giờ sớm cho đỡ đông; không nêu mức phạt. Người đọc là người ở Long Biên và phố cổ đi thả cá, khác bài thả cá ở Hồ Tây (BLG-02646) và bài dừng xe chụp ảnh trên cầu (BLG-04853) ở chỗ trả lời chỗ thả cá ra sông Hồng và chỗ để xe đúng ngày ông Công ông Táo 2027.",
+   "kw": "thả cá chép ra sông hồng",
+   "kw2": [
+    "23 tháng chạp 2027",
+    "thả cá ông công ông táo",
+    "không dừng xe trên cầu long biên",
+    "bãi sông hồng gần cầu chương dương"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người ở Long Biên và phố cổ đi thả cá chép tiễn ông Công ông Táo bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-006",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Lịch lễ hội tháng Giêng Đinh Mùi 2027 quanh Hà Nội theo dương lịch: hội nào rơi vào cuối tuần để đi xe máy",
+   "intent": "Người dùng hỏi: «Tháng Giêng năm 2027 các hội lớn quanh Hà Nội rơi vào ngày dương lịch nào, hội nào trúng cuối tuần?». Bài quy đổi theo lịch âm 2027 (mùng 1 Tết là thứ Bảy 6/2/2027): hội Gò Đống Đa mùng 5 (thứ Tư 10/2, ngày nghỉ cuối), khai hội chùa Hương, hội đền Sóc, hội Cổ Loa, hội đền Hai Bà Trưng Mê Linh từ mùng 6 (thứ Năm 11/2, ngày đi làm lại), Tịch điền Đọi Sơn mùng 7 (12/2), khai hội Yên Tử mùng 10 (thứ Hai 15/2), hội Lim 12–13 (thứ Tư 17 – thứ Năm 18/2), khai ấn đền Trần đêm 14 (tối thứ Sáu 19/2), rằm tháng Giêng thứ Bảy 20/2; chỉ ra hai cuối tuần 13–14/2 và 20–21/2 sẽ dồn khách, gợi ý chia hướng nam, bắc, đông theo ngày và lưu ý chờ ban tổ chức công bố lịch chính thức. Người đọc là người lên kế hoạch đi hội đầu xuân, khác bài một tuần đi hội tháng Giêng (BLG-03644) ở chỗ đưa đúng ngày dương lịch và thứ trong tuần của năm 2027.",
+   "kw": "lịch lễ hội tháng giêng 2027",
+   "kw2": [
+    "lễ hội đầu xuân 2027 quanh hà nội",
+    "đổi ngày âm sang dương 2027",
+    "hội rơi vào cuối tuần",
+    "đi hội tháng giêng bằng xe máy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người Hà Nội lên kế hoạch đi hội đầu xuân Đinh Mùi 2027 bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-007",
+   "child_id": "C-DIEM-DEN",
+   "title": "Khai hội chùa Hương 2027 rơi vào thứ Năm 11/2, ngày đầu đi làm sau Tết: đi đúng ngày khai hội hay chờ cuối tuần",
+   "intent": "Người dùng hỏi: «Khai hội chùa Hương năm 2027 là ngày nào, đi đúng hôm khai hội hay để cuối tuần?». Bài quy đổi mùng 6 tháng Giêng Đinh Mùi sang thứ Năm 11/2/2027 (cũng là ngày đi làm lại sau kỳ nghỉ Tết 4/2–10/2), nhắc lễ hội năm trước kéo dài từ mùng 2 tháng Giêng đến 25 tháng Ba âm lịch và chờ ban tổ chức xã Hương Sơn công bố cho năm 2027, so sánh ba phương án: đi trong kỳ nghỉ trước khai hội, đi đúng ngày khai hội giữa tuần hay đi cuối tuần 13–14/2 và các tuần sau rằm, kèm giờ xuất phát từ Hà Nội, đoạn qua Vân Đình dễ ùn và lưu ý gửi xe; không bịa giá vé, giá đò. Người đọc là người đang chọn ngày đi chùa Hương đầu năm, khác các bài đường đi và gửi xe chùa Hương (BLG-01387, BLG-02346) ở chỗ trả lời câu hỏi chọn ngày theo đúng lịch 2027.",
+   "kw": "khai hội chùa hương 2027",
+   "kw2": [
+    "chùa hương mùng 6 tháng giêng 2027",
+    "đi chùa hương ngày nào đỡ đông",
+    "lễ hội chùa hương đinh mùi",
+    "đi chùa hương bằng xe máy đầu năm"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người Hà Nội chọn ngày đi chùa Hương đầu xuân 2027 bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-008",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Lễ hội Tịch điền Đọi Sơn 2027 từ mùng 5 đến mùng 7 tháng Giêng: đi xe máy từ Hà Nội xem lễ xuống đồng",
+   "intent": "Người dùng hỏi: «Lễ hội Tịch điền Đọi Sơn năm 2027 diễn ra ngày nào, từ Hà Nội đi xe máy xem lễ cày ruộng ra sao?». Bài quy đổi mùng 5–7 tháng Giêng sang 10–12/2/2027 (chính hội mùng 7, thứ Sáu 12/2), nhắc Đọi Sơn nay thuộc phường Tiên Sơn, tỉnh Ninh Bình sau sắp xếp địa giới, lộ trình xe máy từ Hà Nội về hướng nam theo quốc lộ 1 hoặc đường song song không lên cao tốc, giờ nên có mặt trước nghi lễ chính, chỗ đứng xem lễ xuống đồng, gửi xe khi đông và ghép thêm chùa Long Đọi Sơn; nhắc kiểm tra lịch chính thức của địa phương. Người đọc là người thích lễ hội nông nghiệp đầu xuân, khác bài Duy Tiên một ngày (BLG-02691) ở chỗ tập trung vào ngày hội Tịch điền năm 2027.",
+   "kw": "lễ hội tịch điền đọi sơn",
+   "kw2": [
+    "tịch điền 2027",
+    "lễ hội đọi sơn mùng 7 tháng giêng",
+    "đi xe máy xem tịch điền",
+    "chùa long đọi sơn ngày hội"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người Hà Nội muốn đi xe máy xem lễ hội Tịch điền Đọi Sơn đầu xuân 2027",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-009",
+   "child_id": "C-DIEM-DEN",
+   "title": "Đi lễ chùa đêm giao thừa Đinh Mùi (tối 5/2/2027) bằng xe máy: chọn chùa gần nhà, gửi xe lúc khuya và về sau 0 giờ",
+   "intent": "Người dùng hỏi: «Đêm giao thừa năm nay muốn đi lễ chùa bằng xe máy thì đi chùa nào, gửi xe ở đâu và về thế nào cho an toàn?». Bài nêu giao thừa Đinh Mùi rơi vào đêm 29 tháng Chạp (tối thứ Sáu 5/2/2027, năm nay không có ngày 30), khuyên chọn chùa, đền gần nhà thay vì dồn về các điểm rất đông như Phủ Tây Hồ, chùa Trấn Quốc, chùa Quán Sứ, đi trước 23 giờ, hỏi giờ bãi gửi xe đóng, không bẻ cành hái lộc, giữ đồ trong đám đông, tránh khu vực bắn pháo hoa và người đã uống rượu không cầm lái; đường về sau 0 giờ có nhiều người phóng nhanh. Người đọc là gia đình, người trẻ ở Hà Nội đi lễ giao thừa, khác bài xem pháo hoa Hồ Gươm đêm giao thừa (BLG-02629) và các bài đi lễ đầu năm ban ngày ở chỗ trả lời riêng chuyến đi lễ lúc nửa đêm.",
+   "kw": "đi lễ chùa đêm giao thừa",
+   "kw2": [
+    "giao thừa đinh mùi 2027",
+    "đêm 29 tháng chạp 2027",
+    "gửi xe đi lễ đêm giao thừa",
+    "về nhà sau giao thừa bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "gia đình và người trẻ ở Hà Nội đi lễ chùa đêm giao thừa bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-010",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Mùa đông 2026–2027 ấm hơn vì El Niño: rét đến muộn nhưng vẫn có đợt lạnh ngắn, đi xe máy ở Hà Nội chuẩn bị gì",
+   "intent": "Người dùng hỏi: «Nghe nói mùa đông năm nay ấm vì El Niño, đi xe máy ở Hà Nội có cần chuẩn bị đồ rét như mọi năm không?». Bài tóm tắt nhận định khí hậu mùa của Trung tâm Dự báo khí tượng thủy văn quốc gia (nhiệt độ tháng 11/2026 cao hơn trung bình 1–2°C, tháng 12/2026 và 1/2027 cao hơn 0,5–1,5°C; không khí lạnh yếu, rét đậm rét hại đến muộn và ít ngày hơn nhưng vẫn có đợt giảm nhiệt mạnh ngắn ngày, nhất là tháng 1/2027; tháng 11 Bắc Bộ mưa nhiều hơn trung bình; cuối đông ít mưa phùn hơn), rồi chuyển thành việc cụ thể khi đi xe máy: mặc nhiều lớp dễ cởi cho ngày nóng lạnh thất thường, luôn để áo gió trong cốp, theo dõi bản tin 1–3 ngày trước chuyến đi xa, không bỏ qua cảnh báo sương muối, băng giá vùng núi chỉ vì mùa đông ấm; không dự đoán ngày rét cụ thể. Người đọc là người đi xe máy hằng ngày và người định đi núi mùa đông, khác các bài mặc ấm ngày rét đậm ở chỗ trả lời theo dự báo riêng của mùa đông 2026–2027.",
+   "kw": "mùa đông 2026-2027 ở hà nội",
+   "kw2": [
+    "el nino mùa đông 2026",
+    "rét đậm rét hại đến muộn",
+    "dự báo khí hậu mùa đông",
+    "đợt lạnh ngắn ngày"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người đi xe máy hằng ngày ở Hà Nội và người định đi núi phía Bắc mùa đông 2026–2027",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-011",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Mùa hoa tớ dày ở Mù Cang Chải giữa tháng 12 đến tháng 1: chạy xe máy từ Hà Nội qua đèo Khau Phạ ngày rét, sương",
+   "intent": "Người dùng hỏi: «Hoa tớ dày (đào rừng) ở Mù Cang Chải nở tháng mấy, đi xe máy từ Hà Nội mùa đông có ổn không?». Bài nêu mùa tớ dày thường từ giữa tháng 12 đến tháng 1 dương lịch, trước hoa đào khoảng một tháng, nở ở sườn đồi, ven đường đèo và bản quanh Mù Cang Chải (nay thuộc tỉnh Lào Cai), chia chặng Hà Nội – Nghĩa Lộ – Tú Lệ – đèo Khau Phạ trong hai đến ba ngày, xuất phát sớm vì ngày ngắn, chạy đèo khi có sương mù và mặt đường ẩm, mặc đủ ấm, dừng chụp ảnh ở chỗ rộng, không bẻ cành; khuyên hỏi người địa phương tình trạng hoa trước khi đi vì mùa đông 2026–2027 được dự báo ấm hơn. Người đọc là người thích săn hoa vùng cao bằng xe máy, khác bài Mù Cang Chải mùa lúa chín (BLG-02756) ở chỗ đây là mùa hoa giữa đông với điều kiện đường đèo rét và sương.",
+   "kw": "mùa hoa tớ dày mù cang chải",
+   "kw2": [
+    "hoa đào rừng mù cang chải",
+    "đèo khau phạ mùa đông",
+    "đi mù cang chải tháng 12",
+    "săn hoa tớ dày bằng xe máy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người ở Hà Nội thích săn hoa vùng cao bằng xe máy vào mùa đông",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-012",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Mùa quýt vàng Bắc Sơn cuối tháng 11 đến tháng 1: đi xe máy từ Hà Nội, mua quýt tại vườn và chở về không dập",
+   "intent": "Người dùng hỏi: «Quýt Bắc Sơn chín tháng mấy, đi xe máy từ Hà Nội lên mua tại vườn có đáng không?». Bài nêu mùa quýt vàng Bắc Sơn (Lạng Sơn) thường từ cuối tháng 11 đến tháng 1 năm sau, trùng những tuần trước Tết, lộ trình xe máy qua Thái Nguyên vào thung lũng, chặng đèo và đường núi đá cần giữ số thấp, giờ về trước khi trời tối sớm mùa đông, cách hỏi chủ vườn trước khi vào hái, chọn sọt, thùng có lót và buộc chặt sau yên để quả không dập, không chở quá tải; không bịa giá quýt. Người đọc là người thích chuyến đi mùa thu hoạch và mua quà Tết tận vườn, khác bài đi thung lũng Bắc Sơn mùa lúa chín (BLG-03881) ở chỗ trả lời mùa quýt cuối năm và việc chở hàng nông sản về Hà Nội.",
+   "kw": "mùa quýt vàng bắc sơn",
+   "kw2": [
+    "quýt bắc sơn chín tháng mấy",
+    "mua quýt tại vườn bắc sơn",
+    "chở quýt bằng xe máy",
+    "đi bắc sơn mùa đông"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người ở Hà Nội muốn đi xe máy lên Bắc Sơn mùa quýt chín và chở quýt về làm quà Tết",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-013",
+   "child_id": "C-PHO-CO",
+   "title": "Lễ hội Thiết kế Sáng tạo Hà Nội 2026 (13–29/11): gửi xe máy một chỗ rồi đi bộ Hồ Gươm, chợ Đồng Xuân, Hàng Đậu",
+   "intent": "Người dùng hỏi: «Lễ hội Thiết kế Sáng tạo năm 2026 tổ chức ở đâu, đi xe máy vào phố cổ thì gửi xe chỗ nào để xem được nhiều điểm?». Bài dựa trên Kế hoạch 408/KH-UBND (13–29/11/2026, chủ đề Thăng Long Kẻ Nghệ, khai mạc dự kiến 13/11 ở Quảng trường phía Đông hồ Hoàn Kiếm; các khu chính là phố đi bộ Hồ Gươm, khu phố cổ, chợ Đồng Xuân – Bắc Qua, tháp nước Hàng Đậu, Công viên Thống Nhất cùng chuỗi Chuyện Đình trong Phố, Nghề qua Phố), chỉ ra năm nay các điểm chính nằm sát nhau nên gửi xe một lần ở rìa phố cổ rồi đi bộ, giờ phố đi bộ cuối tuần, tránh len xe vào phố nghề đông khách và để Công viên Thống Nhất cho một chặng xe riêng; không bịa giờ mở cửa từng điểm. Người đọc là người Hà Nội và khách muốn xem lễ hội trong phố cổ, khác bài thuê xe một ngày đi các điểm rải rác (BLG-03623) ở chỗ lễ hội 2026 dồn về phố cổ nên cách đi là gửi xe rồi đi bộ.",
+   "kw": "lễ hội thiết kế sáng tạo 2026",
+   "kw2": [
+    "thăng long kẻ nghệ",
+    "gửi xe đi lễ hội phố cổ",
+    "tháp nước hàng đậu lễ hội",
+    "chợ đồng xuân sắp đặt nghệ thuật"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người Hà Nội và khách muốn xem Lễ hội Thiết kế Sáng tạo 2026 trong phố cổ bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-014",
+   "child_id": "C-DIEM-DEN",
+   "title": "Lễ hội đền Hai Bà Trưng phố Hương Viên 12–14/3/2027: xem lễ rước nước bên sông Hồng và gửi xe máy quanh Đồng Nhân",
+   "intent": "Người dùng hỏi: «Lễ hội đền Hai Bà Trưng ở Đồng Nhân năm 2027 vào ngày nào, đi xem lễ rước nước bằng xe máy thì gửi xe ở đâu?». Bài quy đổi mùng 5–7 tháng Hai Đinh Mùi sang thứ Sáu 12/3 đến Chủ nhật 14/3/2027, nêu lễ hội đã vào danh mục di sản văn hóa phi vật thể quốc gia (Quyết định 325/QĐ-BVHTTDL năm 2025), các phần theo năm trước như lễ dâng hương và cấp thủy ở miếu thờ Hai Bà Trưng bên bến sông Hồng phía Bạch Đằng, rước về đền – chùa – đình Hai Bà Trưng ở 12 phố Hương Viên, lễ kỷ niệm ngày mùng 6; hướng dẫn đi xe máy theo hướng phố Lò Đúc – Hương Viên, gửi xe ở ngõ xung quanh rồi đi bộ theo đoàn rước, không đi xe vào đoạn đường đang rước; chờ lịch chính thức của địa phương. Người đọc là người Hà Nội muốn xem lễ hội, khác bài đến đền Hai Bà Trưng ngày thường (BLG-01833) ở chỗ trả lời riêng ba ngày lễ hội năm 2027.",
+   "kw": "lễ hội đền hai bà trưng đồng nhân",
+   "kw2": [
+    "lễ rước nước hai bà trưng",
+    "đền hai bà trưng phố hương viên",
+    "mùng 6 tháng hai 2027",
+    "gửi xe xem lễ hội đồng nhân"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người Hà Nội muốn đi xe máy xem lễ hội đền Hai Bà Trưng ở Đồng Nhân năm 2027",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-015",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Lễ hội đền Hai Bà Trưng ở Mê Linh 11–13/2/2027: đi xe máy qua cầu Thăng Long, xem rước kiệu ngày khai hội và giờ về",
+   "intent": "Người dùng hỏi: «Lễ hội đền Hai Bà Trưng ở Mê Linh năm 2027 vào ngày nào, đi xe máy xem rước kiệu thì đến lúc mấy giờ và gửi xe ra sao?». Bài quy đổi mùng 6–8 tháng Giêng Đinh Mùi sang thứ Năm 11/2 đến thứ Bảy 13/2/2027 (năm 2026 lễ hội tổ chức đúng mùng 6–8 tháng Giêng tại Khu di tích quốc gia đặc biệt đền Hai Bà Trưng, xã Mê Linh, ngày chính hội mùng 6 có lễ kỷ niệm khởi nghĩa và rước kiệu Hai Bà cùng nghi thức giao kiệu đổi vị trí kiệu Trưng Trắc, Trưng Nhị), lưu ý ngày khai hội trùng ngày đi làm đầu tiên sau Tết và trùng khai hội đền Sóc, Cổ Loa nên đường lên phía bắc đông, gợi ý đi sớm qua cầu Thăng Long hoặc cầu Nhật Tân, đứng xem đoàn rước ở chỗ không chắn đường kiệu, gửi xe ở bãi có người trông và chọn thứ Bảy 13/2 nếu không cần xem ngày chính hội; chờ lịch chính thức của địa phương. Người đọc là người nội thành đi hội Mê Linh, khác bài đền Hạ Lôi ngày thường (BLG-02657) ở chỗ trả lời riêng ba ngày hội năm 2027 và nghi lễ rước kiệu.",
+   "kw": "lễ hội đền hai bà trưng mê linh",
+   "kw2": [
+    "rước kiệu hai bà trưng mê linh",
+    "nghi thức giao kiệu",
+    "khai hội mùng 6 tháng giêng 2027",
+    "gửi xe ngày hội mê linh"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người nội thành Hà Nội đi xe máy lên Mê Linh dự lễ hội đền Hai Bà Trưng đầu xuân 2027",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-016",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Tối cầu an tháng Giêng 2027 ở chùa Phúc Khánh: đi xe máy qua Tây Sơn, Ngã Tư Sở khi người lễ tràn xuống lòng đường",
+   "intent": "Người dùng hỏi: «Mấy tối đầu tháng Giêng đi ngang chùa Phúc Khánh thấy người đứng kín cả lòng đường, đi xe máy qua đó thế nào cho an toàn?». Bài nêu các năm gần đây chùa Phúc Khánh (382 Tây Sơn, sát nút Ngã Tư Sở) tổ chức khóa lễ cầu an buổi tối trong khoảng mùng 6 đến rằm tháng Giêng, năm 2027 tương ứng khoảng 11/2 đến thứ Bảy 20/2, khi đó người đi lễ đứng tràn ra ngõ và lòng đường; hướng dẫn người chỉ đi ngang: giảm tốc từ xa, đi đúng làn, không bóp còi dồn, nhường người đi bộ, chọn trục vòng như Láng, Trường Chinh, Thái Hà vào giờ cao điểm lễ, không dừng xe dưới lòng đường để vái vọng; người đi lễ thì gửi xe xa hơn rồi đi bộ vào. Người đọc là người đi làm qua Tây Sơn – Ngã Tư Sở và người đi lễ, khác bài đi lễ chùa Phúc Khánh ngày rằm (BLG-03970) ở chỗ xử lý tình huống giao thông những tối cầu an tháng Giêng.",
+   "kw": "cầu an tháng giêng chùa phúc khánh",
+   "kw2": [
+    "người đi lễ tràn lòng đường tây sơn",
+    "đi qua ngã tư sở tối tháng giêng",
+    "rằm tháng giêng 2027",
+    "vái vọng dưới lòng đường"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người đi xe máy qua Tây Sơn – Ngã Tư Sở và người đi lễ cầu an tháng Giêng ở chùa Phúc Khánh",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29J-017",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Hội Lim 2027 rơi vào thứ Tư 17 và thứ Năm 18/2: đi xe máy sang Tiên Du nghe quan họ, gửi xe quanh đồi Lim",
+   "intent": "Người dùng hỏi: «Hội Lim năm 2027 diễn ra ngày nào, đi giữa tuần bằng xe máy từ Hà Nội thì nên đi buổi nào, gửi xe ở đâu?». Bài quy đổi 12–13 tháng Giêng Đinh Mùi sang thứ Tư 17/2 và thứ Năm 18/2/2027 (năm 2026 hội tổ chức đúng hai ngày 12–13 tháng Giêng tại 7 thôn của xã Tiên Du, Bắc Ninh, trung tâm là núi Hồng Vân), so sánh đi ngày 12 (phần lễ) hay ngày 13 (chính hội) khi cả hai rơi vào ngày làm việc, lộ trình xe máy theo quốc lộ 1 cũ qua Từ Sơn không lên cao tốc, giờ đến trước lúc đông, gửi xe ở bãi có người trông và vé xe, đi bộ lên đồi Lim nghe quan họ ở lán, trên thuyền theo cách tổ chức các năm trước, giữ đồ trong đám đông và về trước giờ tan tầm; chờ thông báo chính thức của địa phương. Người đọc là người Hà Nội muốn xin nghỉ hoặc tranh thủ đi hội, khác bài chọn xe máy hay xe buýt đi hội Lim (BLG-04896) ở chỗ hướng dẫn trọn ngày hội theo lịch 2027.",
+   "kw": "hội lim 2027",
+   "kw2": [
+    "hội lim 12 13 tháng giêng",
+    "đi hội lim bằng xe máy",
+    "gửi xe đồi lim",
+    "nghe quan họ hội lim"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29J",
+   "audience": "người Hà Nội đi xe máy sang Bắc Ninh dự hội Lim giữa tuần năm 2027",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}

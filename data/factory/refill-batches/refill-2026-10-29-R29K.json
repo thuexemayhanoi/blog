@@ -1,0 +1,387 @@
+{
+ "_meta": {
+  "note": "Lô R29K: thay đổi pháp lý/hành chính 2025–2026 tác động người đi xe máy, thuê xe ở Hà Nội (C-PHAT-NGUOI, C-BIEN-BAO, C-HD-PHAP-LY, C-QUY-DINH, C-GIAY-TO, C-XE-50CC, C-BAO-DUONG, C-XE-DIEN). Văn bản đã đọc: Nghị định 238/2026/NĐ-CP (toàn văn), Nghị định 168/2024/NĐ-CP (Điều 7, 14, 46), VBHN 55/VBHN-VPQH Luật 36/2024 sửa bởi Luật 118/2025, Quyết định 13/2026/QĐ-TTg, QCVN 99:2025/BNNMT (TT 92/2025/TT-BNNMT), Quyết định 3273/QĐ-UBND + Nghị quyết 57/2025/NQ-HĐND (vùng phát thải thấp), Nghị quyết 56/2026/NQ-HĐND, Nghị quyết 68/2026/NQ-HĐND, Luật Thủ đô 02/2026/QH16, Nghị định 392/2026/NĐ-CP, VBHN 41/VBHN-BCA Thông tư 79/2024/TT-BCA, Luật 55/2024/QH15 Điều 24, Luật Cư trú sửa bởi Luật 118/2025 + TT 116/2026/TT-BCA, Luật XLVPHC sửa bởi Luật 88/2025/QH15. Không trùng 20 chủ đề lô R29D. Kiểm trùng: đọc toàn bộ tiêu đề 8 child pháp lý + grep toàn matrix (khí thải, phát thải, vành đai 1, biển số, nhà nghỉ, sang tên, năm sản xuất, sạc, tem, lưu trú, niêm yết...), chạy topic_check (G1-G9 + gần nghĩa). Không chủ đề nào cần số tiền phạt.",
+  "created": "2026-10-29",
+  "source": "coordinator topic expansion 2026-10-29 theo docs/TAXONOMY.md, gate G1-G9"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-001",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Dán phim, xịt phản quang hay gắn khung đèn khiến camera khó đọc biển số xe máy: lỗi được Nghị định 238/2026 bổ sung",
+   "intent": "Người dùng hỏi: «Ngoài chợ bán phim dán, bình xịt phản quang và khung biển số có đèn để camera phạt nguội không chụp rõ biển, dùng cho xe máy có sao không?». Bài giải thích Điều 4 Nghị định 238/2026/NĐ-CP (hiệu lực 15/8/2026) sửa điểm b khoản 3 Điều 14 Nghị định 168/2024/NĐ-CP, bổ sung hành vi sử dụng chất liệu, vật liệu, thiết bị làm thay đổi khả năng nhận diện thông tin biển số xe của phương tiện, thiết bị kỹ thuật nghiệp vụ; hình thức trừ điểm giấy phép lái xe tại điểm b khoản 8 Điều 14; đối chiếu khoản 17 Điều 9 Luật 36/2024/QH15 (cấm che lấp, làm thay đổi biển số); cách tự kiểm tra biển số xe đang đi hoặc xe thuê; không nêu số tiền phạt. Người đọc là người đi xe máy và người thuê xe ở Hà Nội; khác BLG-05269 (gắn biển sai vị trí, dán đè, mượn biển) và BLG-04501 (biển bẩn, cong, bị đồ treo che) ở chỗ nói về vật liệu, thiết bị chống camera mới bị bổ sung từ 15/8/2026.",
+   "kw": "dán phản quang biển số xe máy",
+   "kw2": [
+    "phim chống camera biển số",
+    "Nghị định 238/2026 biển số",
+    "khung biển số có đèn",
+    "trừ điểm lỗi biển số xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Người đi xe máy, người thuê xe ở Hà Nội đang được mời mua đồ chống camera",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-002",
+   "child_id": "C-BIEN-BAO",
+   "title": "Đầu ngõ không có biển cấm mà vẫn bị xử lý lỗi đi vào khu vực cấm xe máy: cụm từ mới trong Nghị định 238/2026",
+   "intent": "Người dùng hỏi: «Đi xe máy xăng vào một khu vực Hà Nội hạn chế theo khung giờ, đầu ngõ không thấy biển, có bị coi là vi phạm không?». Bài giải thích khoản 3 Điều 19 Nghị định 238/2026/NĐ-CP (hiệu lực 15/8/2026) bổ sung cụm “hoặc có quy định cấm của cấp có thẩm quyền đối với loại phương tiện đang điều khiển” vào điểm b khoản 6 Điều 7 Nghị định 168/2024/NĐ-CP (kèm trừ 02 điểm giấy phép lái xe theo điểm a khoản 13 Điều 7); liên hệ thẩm quyền hạn chế phương tiện của Thành phố tại Điều 13 Luật Thủ đô 02/2026/QH16, Nghị quyết 57/2025/NQ-HĐND và Quyết định 3273/QĐ-UBND về vùng phát thải thấp; cách tra thông báo phân luồng chính thức trước khi vào khu trung tâm; không nêu số tiền phạt. Người đọc là người đi xe máy và khách thuê xe vào khu trung tâm Hà Nội; khác BLG-04540 (biển cấm có hiệu lực đến đâu) và BLG-04541 (biển cấm kèm khung giờ) ở chỗ lệnh cấm có thể đến từ văn bản của cơ quan có thẩm quyền chứ không chỉ từ biển báo.",
+   "kw": "đi vào khu vực cấm xe máy",
+   "kw2": [
+    "quy định cấm của cấp có thẩm quyền",
+    "Nghị định 238/2026 khu vực cấm",
+    "vùng hạn chế xe máy Hà Nội",
+    "không có biển cấm vẫn bị phạt"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Người đi xe máy xăng, khách thuê xe hay vào phố cổ và khu trung tâm Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-003",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Công chức phường, không phải cảnh sát giao thông, lập biên bản lỗi xe máy từ 15/8/2026: ai có thẩm quyền lập biên bản",
+   "intent": "Người dùng hỏi: «Dừng xe máy sai chỗ, người lập biên bản là cán bộ phường chứ không phải CSGT, biên bản đó có giá trị không?». Bài giải thích Điều 16 Nghị định 238/2026/NĐ-CP sửa khoản 2 Điều 46 Nghị định 168/2024/NĐ-CP: trước đây ngoài người có thẩm quyền xử phạt chỉ có công chức Thanh tra Sở Giao thông vận tải được lập biên bản, từ 15/8/2026 công chức, viên chức đang thi hành công vụ, nhiệm vụ có thẩm quyền lập biên bản; đối chiếu Điều 58 Luật Xử lý vi phạm hành chính (sửa bởi Luật 88/2025/QH15) về nội dung biên bản, quyền ghi ý kiến, ký hoặc không ký; cách hỏi họ tên, chức vụ, đơn vị người lập. Không nêu số tiền phạt. Người đọc là người đi xe máy, người thuê xe ở Hà Nội; khác BLG-06299 (Chủ tịch UBND xã ký quyết định xử phạt) và BLG-04852 (không đồng ý nội dung biên bản) ở chỗ xác định ai được lập biên bản.",
+   "kw": "ai được lập biên bản vi phạm giao thông",
+   "kw2": [
+    "công chức lập biên bản xe máy",
+    "Nghị định 238/2026 lập biên bản",
+    "cán bộ phường lập biên bản giao thông",
+    "khoản 2 Điều 46 Nghị định 168"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Người đi xe máy, người thuê xe ở Hà Nội bị cán bộ không mặc sắc phục CSGT lập biên bản",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-004",
+   "child_id": "C-QUY-DINH",
+   "title": "Kiểm định khí thải xe máy ở Hà Nội từ 1/7/2027: xe mô tô đời nào phải đạt mức nào theo Quyết định 13/2026/QĐ-TTg",
+   "intent": "Người dùng hỏi: «Bao giờ xe máy ở Hà Nội phải đi kiểm định khí thải và chiếc xe số đời 2012 của tôi phải đạt mức nào?». Bài giải thích Quyết định 13/2026/QĐ-TTg (02/4/2026): Hà Nội bắt đầu kiểm định khí thải từ 01/7/2027; xe mô tô sản xuất trước 2008 áp mức 1, 2008–2016 mức 2, 2017–30/6/2026 mức 3, từ 01/7/2026 mức 4; từ 01/01/2028 xe tham gia giao thông tại Hà Nội phải đạt mức 2 trở lên; khoản 2 Điều 42 Luật 36/2024/QH15 (xe mô tô, xe gắn máy chỉ kiểm định khí thải); giới hạn CO, HC của QCVN 99:2025/BNNMT ban hành kèm Thông tư 92/2025/TT-BNNMT; chu kỳ kiểm định theo mục 8 Phụ lục V Thông tư 47/2024/TT-BGTVT; Công văn 3676/UBND-NNMT của Hà Nội về hệ thống cơ sở kiểm định. Không nêu tiền phạt. Người đọc là chủ xe máy ở Hà Nội; khác BLG-05272 (niên hạn sử dụng xe cũ) và BLG-01384 (quy định kiểm định chung) ở chỗ có mốc và mức áp dụng cụ thể theo đời xe.",
+   "kw": "kiểm định khí thải xe máy hà nội",
+   "kw2": [
+    "Quyết định 13/2026/QĐ-TTg",
+    "mức khí thải xe máy theo năm sản xuất",
+    "QCVN 99:2025/BNNMT",
+    "kiểm định khí thải từ 1/7/2027"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Chủ xe máy xăng đang sinh sống, làm việc ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-005",
+   "child_id": "C-XE-50CC",
+   "title": "Xe 50cc có phải kiểm định khí thải ở Hà Nội không: lộ trình riêng của xe gắn máy theo Quyết định 13/2026/QĐ-TTg",
+   "intent": "Người dùng hỏi: «Xe ga 50cc, xe số 50cc của con đi học có phải kiểm định khí thải không và áp mức nào?». Bài giải thích khoản 2 Điều 42 Luật 36/2024/QH15 và Quyết định 13/2026/QĐ-TTg phân biệt xe gắn máy với xe mô tô: xe gắn máy sản xuất trước 2016 mức 1, 2017–30/6/2027 mức 2, từ 01/7/2027 mức 4; Hà Nội bắt đầu kiểm định từ 01/7/2027 và yêu cầu mức 2 trở lên từ 01/01/2028; giới hạn HC riêng cho động cơ 2 kỳ và 4 kỳ trong QCVN 99:2025/BNNMT; cách xác định năm sản xuất theo Điều 36 Thông tư 79/2024/TT-BCA. Không nêu tiền phạt, không nêu chi phí. Người đọc là phụ huynh, học sinh và người dùng xe 50cc ở Hà Nội; khác bài kiểm định khí thải xe mô tô ở chỗ chỉ xét nhóm xe gắn máy có lộ trình mức khác.",
+   "kw": "xe 50cc kiểm định khí thải",
+   "kw2": [
+    "xe gắn máy mức khí thải",
+    "xe 50cc 2 kỳ khí thải",
+    "xe 50cc đời cũ Hà Nội 2028",
+    "Quyết định 13/2026 xe gắn máy"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Phụ huynh, học sinh THPT và người dùng xe 50cc ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-006",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Xe máy xăng đời cũ có được chạy trong Vành đai 1 từ năm 2028 không: yêu cầu khí thải mức 3 và cách biết xe mình đạt",
+   "intent": "Người dùng hỏi: «Nhà ở Ba Đình, đi chiếc xe số đời 2005; từ 2028 có còn được chạy trong Vành đai 1 không?». Bài giải thích Quyết định 3273/QĐ-UBND (29/6/2026) phê duyệt Đề án vùng phát thải thấp trong Vành đai 1 theo Nghị quyết 57/2025/NQ-HĐND: giai đoạn 3 từ 01/01/2028 không cho phép xe mô tô, xe gắn máy dùng xăng không đạt mức 3 theo QCVN 99:2025/BNNMT lưu thông trong toàn Vành đai 1 (9 phường); phân biệt với yêu cầu mức 2 trên toàn Hà Nội của Quyết định 13/2026/QĐ-TTg; vai trò kết quả kiểm định khí thải từ 01/7/2027; khuyến nghị theo dõi văn bản hướng dẫn cách kiểm tra, không khẳng định điều chưa ban hành. Không nêu tiền phạt. Người đọc là cư dân và người làm việc trong Vành đai 1; khác BLG-05271 (lộ trình chung hạn chế xe máy xăng) ở chỗ tập trung điều kiện khí thải mức 3 với xe đời cũ.",
+   "kw": "xe máy đời cũ vào vành đai 1",
+   "kw2": [
+    "khí thải mức 3 vùng phát thải thấp",
+    "Quyết định 3273/QĐ-UBND",
+    "xe máy cũ Hà Nội 2028",
+    "QCVN 99:2025 mức 3"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Cư dân, người làm việc trong 9 phường Vành đai 1 đang đi xe máy xăng đời cũ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-007",
+   "child_id": "C-BAO-DUONG",
+   "title": "Bảo dưỡng xe máy cũ trước đợt kiểm định khí thải 2027: lọc gió, bugi, hòa khí và những lỗi khiến CO, HC vượt ngưỡng",
+   "intent": "Người dùng hỏi: «Xe máy nhà đã hơn 10 năm, muốn đi kiểm định khí thải năm 2027 cho đạt thì cần chỉnh, thay gì trước?». Bài giải thích hai thông số CO, HC mà QCVN 99:2025/BNNMT (Thông tư 92/2025/TT-BNNMT) đo, các nguyên nhân kỹ thuật thường làm vượt giới hạn (lọc gió bẩn, bugi mòn, hòa khí đậm, xéc măng mòn đốt nhớt, kim phun hoặc chế hòa khí bẩn, ống xả thủng), việc nên làm ở tiệm quen trước khi đến cơ sở kiểm định; dẫn mốc 01/7/2027 của Quyết định 13/2026/QĐ-TTg; không hứa chắc đạt, không nêu chi phí sửa chữa. Người đọc là chủ xe máy cũ ở Hà Nội; khác BLG-02172 (màu khói pô nói lên điều gì) ở chỗ chuẩn bị xe cho phép đo khí thải theo quy chuẩn.",
+   "kw": "bảo dưỡng xe máy trước kiểm định khí thải",
+   "kw2": [
+    "xe máy vượt CO HC",
+    "chuẩn bị kiểm định khí thải 2027",
+    "xe máy cũ đốt nhớt khí thải",
+    "chỉnh chế hòa khí trước kiểm định"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Chủ xe máy xăng đã dùng trên 10 năm ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-008",
+   "child_id": "C-QUY-DINH",
+   "title": "Chạy xe ôm, giao hàng công nghệ bằng xe máy xăng: từ 1/1/2027 không được vào vùng phát thải thấp Hoàn Kiếm, Cửa Nam",
+   "intent": "Người dùng hỏi: «Tôi chạy xe ôm công nghệ, giao đồ ăn bằng xe máy xăng (có lúc là xe thuê tháng), sang năm còn nhận cuốc trong phố cổ không?». Bài giải thích Quyết định 3273/QĐ-UBND (29/6/2026) phê duyệt Đề án vùng phát thải thấp trong Vành đai 1 theo Nghị quyết 57/2025/NQ-HĐND: giai đoạn 1 (01/7–31/12/2026) chỉ khuyến khích hạn chế; giai đoạn 2 (01/01–31/12/2027) không cho phép xe mô tô, xe gắn máy dùng nhiên liệu hóa thạch hoạt động trên nền tảng ứng dụng lưu thông trong Khu vực 1, 2, 3 thuộc phường Hoàn Kiếm, Cửa Nam và nền tảng phải điều hướng; giai đoạn 3 từ 2028 mở rộng toàn Vành đai 1; Khu vực 1 cấm mọi phương tiện 19–24 giờ thứ Sáu đến Chủ nhật. Không nêu tiền phạt. Người đọc là tài xế công nghệ, shipper và người thuê xe tháng để chạy dịch vụ; khác BLG-05271 (lộ trình chung) và BLG-00091 (chạy xe ôm thời vụ bằng xe thuê) ở chỗ quy định riêng cho xe hoạt động trên ứng dụng.",
+   "kw": "xe công nghệ vùng phát thải thấp",
+   "kw2": [
+    "shipper xe máy xăng phố cổ 2027",
+    "xe ôm công nghệ Hoàn Kiếm Cửa Nam",
+    "Quyết định 3273/QĐ-UBND xe công nghệ",
+    "chuyển sang xe điện chạy giao hàng"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Tài xế xe ôm công nghệ, shipper dùng xe máy xăng ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-009",
+   "child_id": "C-GIAY-TO",
+   "title": "Hộ nghèo ở Hà Nội đổi xe máy xăng sang xe điện theo Nghị quyết 68/2026: điều kiện, xử lý xe cũ và đăng ký xe mới",
+   "intent": "Người dùng hỏi: «Nhà tôi thuộc hộ nghèo, có chiếc xe máy xăng cũ; muốn được Hà Nội hỗ trợ đổi sang xe điện thì cần giấy tờ, thủ tục gì?». Bài giải thích Điều 7 Nghị quyết 68/2026/NQ-HĐND (hiệu lực 01/7/2026): đối tượng là cá nhân thuộc hộ nghèo có nơi cư trú hoặc nơi ở hiện tại trên VNeID thuộc Hà Nội được UBND cấp xã xác nhận, chủ sở hữu xe xăng đã đăng ký trước khi Nghị quyết có hiệu lực, chuyển đổi đến hết 31/12/2027, hoàn thành chuyển nhượng hoặc xử lý xe cũ và đăng ký xe xanh mới, mỗi người một lần cho một xe; Kế hoạch 295/KH-UBND; thủ tục thu hồi đăng ký, biển số xe cũ theo khoản 5, 6 Điều 6 Thông tư 79/2024/TT-BCA; lưu ý quy trình chi trả còn chờ quyết định của UBND Thành phố. Chỉ dẫn chiếu văn bản, không tự nêu con số hỗ trợ. Người đọc là hộ gia đình khó khăn ở Hà Nội và người thân giúp làm hồ sơ; matrix chưa có bài về chính sách hỗ trợ chuyển đổi xe.",
+   "kw": "hỗ trợ đổi xe máy xăng sang xe điện",
+   "kw2": [
+    "Nghị quyết 68/2026/NQ-HĐND",
+    "hộ nghèo đổi xe xanh Hà Nội",
+    "thu hồi đăng ký xe máy cũ khi đổi xe điện",
+    "chính sách chuyển đổi phương tiện Hà Nội"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Hộ nghèo ở Hà Nội đang dùng xe máy xăng và người thân hỗ trợ làm hồ sơ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-010",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Hà Nội áp mức phạt cao hơn từ 1/7/2026 theo Nghị quyết 56/2026: người đi xe máy bị ảnh hưởng ở những lỗi nào",
+   "intent": "Người dùng hỏi: «Nghe nói từ 1/7/2026 Hà Nội phạt giao thông gấp đôi cả nước, đi xe máy vượt đèn đỏ, không đội mũ cũng bị phạt gấp đôi à?». Bài giải thích điểm b khoản 1 Điều 14 Luật Thủ đô 02/2026/QH16 (HĐND Thành phố được quy định mức phạt cao hơn nhưng không quá 02 lần mức chung) và Phụ lục II Nghị quyết 56/2026/NQ-HĐND: chỉ 04 hành vi giao thông liên quan trật tự đô thị (xe đẩy làm quầy hàng lưu động, bán hàng rong trên lòng đường, vỉa hè tuyến có quy định cấm, sử dụng trái phép lòng đường, vỉa hè kể cả sửa xe, rửa xe, dừng đỗ ô tô ở phạm vi đường sắt); các lỗi khác của người đi xe máy vẫn theo Nghị định 168/2024/NĐ-CP; Điều 6 về chuyển tiếp. Không nêu số tiền phạt. Người đọc là người đi xe máy, người thuê xe ở Hà Nội; khác BLG-04658 (dừng đỗ xe máy gần đường sắt) ở chỗ làm rõ phạm vi nghị quyết mới của Thành phố.",
+   "kw": "hà nội tăng mức phạt giao thông 2026",
+   "kw2": [
+    "Nghị quyết 56/2026/NQ-HĐND",
+    "Luật Thủ đô 2026 mức phạt cao hơn",
+    "phạt gấp đôi ở Hà Nội",
+    "sửa xe rửa xe trên vỉa hè"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Người đi xe máy, người thuê xe ở Hà Nội lo bị phạt cao hơn tỉnh khác",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-011",
+   "child_id": "C-GIAY-TO",
+   "title": "Nghỉ nhà nghỉ dọc đường khi đi xe máy xa từ 15/11/2026: giấy tờ tùy thân được chấp nhận và khi lỡ quên căn cước",
+   "intent": "Người dùng hỏi: «Đi xe máy đường dài, đến nhà nghỉ mới phát hiện để quên căn cước, chỉ có bằng lái thì có được nhận phòng không?». Bài giải thích Điều 14 Nghị định 392/2026/NĐ-CP (hiệu lực 15/11/2026) sửa khoản 2 Điều 44 Nghị định 96/2016/NĐ-CP: cơ sở kinh doanh lưu trú kiểm tra một trong các giấy tờ thẻ căn cước, căn cước công dân, hộ chiếu, thẻ thường trú hoặc tạm trú của người nước ngoài, giấy tờ khác có ảnh do cơ quan nhà nước Việt Nam cấp; khách không có giấy tờ vẫn được bố trí phòng nhưng cơ sở phải báo ngay Công an cấp xã; chuẩn bị bản giấy và dữ liệu trên VNeID trước chuyến đi. Người đọc là người đi xe máy đường dài, khách thuê xe đi tỉnh; khác BLG-04606 (khai báo lưu trú ở homestay) và BLG-04607 (bằng lái thay căn cước nói chung) ở chỗ áp dụng quy định mới tại nhà nghỉ, khách sạn.",
+   "kw": "giấy tờ tùy thân khi thuê nhà nghỉ",
+   "kw2": [
+    "Nghị định 392/2026 lưu trú",
+    "quên căn cước khi đi phượt",
+    "bằng lái thay căn cước nhà nghỉ",
+    "khách không có giấy tờ nhận phòng"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Người đi xe máy đường dài, khách thuê xe máy đi các tỉnh miền Bắc",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-012",
+   "child_id": "C-GIAY-TO",
+   "title": "Mua lại xe máy cũ trong Hà Nội: người mua đăng ký sang tên ở công an phường nào, chuẩn bị gì và bao lâu có kết quả",
+   "intent": "Người dùng hỏi: «Mua xe máy cũ của người cùng ở Hà Nội, sau khi người bán làm thu hồi thì tôi đi sang tên ở đâu, cần mang gì?». Bài giải thích Thông tư 79/2024/TT-BCA (Văn bản hợp nhất 41/VBHN-BCA, sửa bởi Thông tư 51/2025/TT-BCA, Thông tư 37/2026/TT-BCA): khoản 5 Điều 6 (người bán giữ đăng ký, biển số, làm thu hồi trong 30 ngày), Điều 15 (người nhận chuyển quyền làm đăng ký sang tên tại cơ quan đăng ký theo Điều 4), khoản 4 Điều 4 (Công an cấp xã trong thành phố đăng ký xe mô tô), khoản 2 Điều 16 (hồ sơ: giấy khai, giấy tờ chủ xe, chứng từ chuyển quyền sở hữu, chứng từ lệ phí trước bạ, chứng nhận thu hồi), điểm a khoản 1 Điều 7 (không quá 02 ngày làm việc), kê khai trực tuyến qua VNeID. Không nêu mức lệ phí. Người đọc là người mua xe máy cũ ở Hà Nội; khác BLG-05157 (phía người bán làm thu hồi) và BLG-05159 (xe qua nhiều đời chủ) ở chỗ hướng dẫn người mua trong trường hợp thông thường.",
+   "kw": "thủ tục sang tên xe máy cũ",
+   "kw2": [
+    "đăng ký sang tên xe máy ở công an phường",
+    "hồ sơ sang tên xe máy",
+    "sang tên xe máy mấy ngày",
+    "Thông tư 79/2024 sang tên"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Người mua xe máy cũ đã qua sử dụng của người khác trong Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-013",
+   "child_id": "C-XE-DIEN",
+   "title": "Sạc xe máy điện trong nhà ống, chung cư mini ở Hà Nội: Luật Phòng cháy 2024 yêu cầu gì với bộ sạc và chỗ sạc",
+   "intent": "Người dùng hỏi: «Từ khi có luật phòng cháy mới, sạc xe máy điện trong nhà, dưới tầng một chung cư mini có bị cấm không và phải làm gì cho đúng?». Bài giải thích điểm d khoản 1 Điều 24 Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15 (hiệu lực 01/7/2025): chỉ dùng thiết bị sạc đạt quy chuẩn kỹ thuật quốc gia, nơi sạc trong nhà phải có giải pháp bảo đảm an toàn phòng cháy, khu vực sạc tập trung trong nhà phải có giải pháp ngăn cháy và phương tiện chữa cháy phù hợp; trách nhiệm của chủ nhà trọ, ban quản lý theo Nghị định 105/2025/NĐ-CP; người thuê xe điện nên hỏi chủ nhà, chủ xe về chỗ sạc và bộ sạc đi kèm. Không nêu tiền phạt. Người đọc là người dùng, người thuê xe máy điện ở nhà trọ, chung cư mini Hà Nội; khác BLG-01141 (mẹo sạc qua đêm an toàn) và BLG-03679 (lưu ý phòng cháy khi để xe qua đêm) ở chỗ trình bày nghĩa vụ pháp lý mới về sạc.",
+   "kw": "quy định sạc xe điện trong nhà",
+   "kw2": [
+    "Luật Phòng cháy 2024 sạc xe điện",
+    "khu vực sạc tập trung chung cư mini",
+    "bộ sạc đạt quy chuẩn",
+    "sạc xe máy điện nhà trọ"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Người dùng, người thuê xe máy điện sống ở nhà trọ, nhà ống, chung cư mini Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-014",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Đi xe máy về ngủ nhờ nhà bạn ở ngoại thành: từ 1/7/2026 ai phải thông báo lưu trú và làm qua VNeID thế nào",
+   "intent": "Người dùng hỏi: «Cuối tuần đi xe máy về Sóc Sơn ngủ nhờ nhà bạn một đêm, nghe nói giờ phải khai báo lưu trú, ai khai và khai lúc nào?». Bài giải thích Điều 30 Luật Cư trú 2020 được sửa bởi khoản 9 Điều 4 Luật 118/2025/QH15 (hiệu lực 01/7/2026): thành viên hộ gia đình thông báo khi có người lưu trú qua đêm, nếu họ không có mặt thì người đến lưu trú tự thông báo; nội dung gồm họ tên, ngày sinh, số định danh, lý do, thời gian, địa chỉ; thời hạn trước 23 giờ hoặc trước 08 giờ sáng hôm sau nếu đến sau 23 giờ; hình thức qua VNeID, điện thoại, Cổng dịch vụ công theo Thông tư 116/2026/TT-BCA. Không nêu tiền phạt. Người đọc là người đi xe máy chơi xa, ở lại nhà người quen; khác BLG-04606 (homestay khai báo lưu trú) ở chỗ áp dụng cho nhà dân và trường hợp chủ nhà vắng.",
+   "kw": "thông báo lưu trú khi ngủ nhờ",
+   "kw2": [
+    "Luật Cư trú sửa đổi 2026 lưu trú",
+    "khai báo lưu trú qua VNeID",
+    "ngủ nhờ nhà bạn có phải khai báo",
+    "thông báo lưu trú trước 23 giờ"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Người đi xe máy chơi xa, ngủ lại nhà người quen ở ngoại thành và tỉnh lân cận",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-015",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Quyết định xử phạt lỗi xe máy gửi qua bưu điện, điện tử hay niêm yết ở phường nơi cư trú: hiểu Điều 70 sửa đổi 2025",
+   "intent": "Người dùng hỏi: «Tôi không còn ở địa chỉ thường trú, nếu quyết định xử phạt lỗi giao thông được niêm yết ở phường thì có bị coi là đã nhận không?». Bài giải thích Điều 70 Luật Xử lý vi phạm hành chính được sửa bởi khoản 14 Điều 1 Luật 88/2025/QH15 (hiệu lực 01/7/2025): thời hạn 03 ngày làm việc gửi quyết định; bốn hình thức gửi gồm giao trực tiếp, bưu chính bảo đảm, phương thức điện tử và niêm yết tại nơi cư trú hoặc qua UBND cấp xã khi không thực hiện được các cách trên; khoản 1 Điều 71 về chuyển quyết định về nơi cư trú để thi hành; cách tự kiểm tra trên VNeTraffic, VNeID và cập nhật nơi ở. Không nêu tiền phạt. Người đọc là người đi xe máy hay đổi chỗ ở, người thuê trọ ở Hà Nội; khác BLG-04531 (thời hạn ra quyết định, nộp tiền) và BLG-05921 (ý nghĩa thông báo, biên bản, quyết định) ở chỗ cách quyết định được gửi tới người vi phạm.",
+   "kw": "gửi quyết định xử phạt vi phạm",
+   "kw2": [
+    "niêm yết quyết định xử phạt",
+    "Điều 70 Luật Xử lý vi phạm hành chính",
+    "quyết định xử phạt gửi điện tử",
+    "Luật 88/2025/QH15"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Người đi xe máy hay chuyển chỗ ở, người thuê trọ ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-016",
+   "child_id": "C-GIAY-TO",
+   "title": "Cách biết năm sản xuất xe máy để đối chiếu mức khí thải: ký tự thứ 10 số khung theo Thông tư 79/2024",
+   "intent": "Người dùng hỏi: «Làm sao biết xe máy nhà mình sản xuất năm nào để biết sắp tới phải đạt mức khí thải nào?». Bài giải thích Điều 36 Thông tư 79/2024/TT-BCA (Văn bản hợp nhất 41/VBHN-BCA): năm sản xuất xác định qua dữ liệu điện tử do cơ quan đăng kiểm chia sẻ, xe nhập khẩu theo giấy chứng nhận chất lượng hoặc thông báo miễn kiểm tra, các trường hợp khác theo ký tự thứ 10 của số khung; cách tìm số khung trên xe và trên chứng nhận đăng ký; vì sao năm sản xuất quyết định mức áp dụng trong Quyết định 13/2026/QĐ-TTg; phân biệt năm sản xuất với năm đăng ký. Người đọc là chủ xe máy cũ ở Hà Nội, người mua xe cũ; khác BLG-05165 (cách đọc giấy đăng ký xe) và BLG-05166 (số khung mờ, đóng lại số) ở chỗ xác định đời xe.",
+   "kw": "cách xem năm sản xuất xe máy",
+   "kw2": [
+    "ký tự thứ 10 số khung xe máy",
+    "năm sản xuất khác năm đăng ký",
+    "Điều 36 Thông tư 79/2024",
+    "đời xe máy và mức khí thải"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Chủ xe máy cũ, người mua xe máy đã qua sử dụng ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-017",
+   "child_id": "C-XE-DIEN",
+   "title": "Tem nhận diện màu xanh lá trên biển số xe máy điện theo Thông tư 79/2024: xe nào được gắn và để làm gì",
+   "intent": "Người dùng hỏi: «Thấy có xe máy điện gắn tem tròn màu xanh lá trên biển số, xe nào được gắn, có bắt buộc không và có liên quan vùng phát thải thấp không?». Bài giải thích điểm e khoản 5 Điều 37 Thông tư 79/2024/TT-BCA: biển số xe sử dụng năng lượng sạch, năng lượng xanh, thân thiện môi trường có gắn tem nhận diện màu xanh lá cây (Phụ lục 04, mẫu ĐKX16 tại Điều 34), phân biệt với tem nền đỏ và vàng của biển số trúng đấu giá; liên hệ Nghị quyết 57/2025/NQ-HĐND cho phép phương tiện không phát sinh khí thải, sử dụng năng lượng sạch lưu thông trong vùng phát thải thấp; khuyên hỏi cơ quan đăng ký khi xe chưa có tem; không suy diễn ưu đãi chưa có văn bản. Người đọc là người dùng, người thuê xe máy điện ở Hà Nội; khác BLG-04593 (cách đọc biển số, màu nền biển) ở chỗ nói về tem nhận diện xe năng lượng sạch.",
+   "kw": "tem xanh lá biển số xe điện",
+   "kw2": [
+    "tem nhận diện xe năng lượng sạch",
+    "Điều 37 Thông tư 79/2024",
+    "biển số xe máy điện Hà Nội",
+    "xe điện vùng phát thải thấp"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Người dùng, người thuê xe máy điện ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29K-018",
+   "child_id": "C-XE-DIEN",
+   "title": "Xe máy điện có phải đi kiểm định khí thải từ 1/7/2027 như xe xăng không: phạm vi QCVN 99:2025 và Luật 36/2024",
+   "intent": "Người dùng hỏi: «Hà Nội sắp kiểm định khí thải xe máy, vậy xe máy điện của nhà tôi có phải mang đi kiểm định không?». Bài giải thích khoản 2 Điều 42 Luật 36/2024/QH15 (việc kiểm định với xe mô tô, xe gắn máy chỉ là kiểm định khí thải), phạm vi QCVN 99:2025/BNNMT (Thông tư 92/2025/TT-BNNMT) chỉ đặt giới hạn CO, HC cho xe lắp động cơ cháy cưỡng bức, lộ trình của Quyết định 13/2026/QĐ-TTg; vì vậy xe chạy hoàn toàn bằng điện không có thông số khí thải để đo nhưng vẫn phải đăng ký, gắn biển, mua bảo hiểm bắt buộc và bảo đảm điều kiện kỹ thuật; nhắc theo dõi văn bản hướng dẫn kiểm định của Bộ Xây dựng nếu có thay đổi, không khẳng định điều chưa có văn bản. Người đọc là người dùng, người thuê xe máy điện ở Hà Nội; khác BLG-00657 (quy định quản lý xe máy điện chung) ở chỗ trả lời riêng câu hỏi kiểm định khí thải.",
+   "kw": "xe máy điện có phải kiểm định",
+   "kw2": [
+    "xe điện kiểm định khí thải",
+    "QCVN 99:2025 động cơ cháy cưỡng bức",
+    "xe máy điện Hà Nội 2027",
+    "đăng kiểm xe máy điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29K",
+   "audience": "Người dùng, người thuê xe máy điện ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}
