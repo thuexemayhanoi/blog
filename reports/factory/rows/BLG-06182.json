@@ -1,0 +1,161 @@
+{
+  "article_id": "BLG-06182",
+  "status": "WRITING",
+  "title": "Đạp xe đạp điện khi tắt nguồn có sạc lại pin không: hiểu đúng để khỏi cạn pin giữa đường vì tưởng đạp là nạp điện",
+  "intent": "Người dùng hỏi: «Nghe nói cứ đạp xe đạp điện thì pin tự sạc lại, có đúng không?». Bài giải thích bàn đạp trên xe đạp điện phổ thông chỉ truyền lực qua xích tới bánh, phần lớn xe không nạp lại điện đáng kể khi đạp hay khi thả dốc, vì sao vạch pin có lúc nhích lên sau khi xe dừng nghỉ, cách tính quãng đường và đạp phụ để tiết kiệm điện chứ không phải để nạp, và nên hỏi cửa hàng nếu xe ghi có tính năng hãm thu hồi điện. Người đọc là người thuê xe đạp điện lần đầu, khác bài tiết kiệm pin và bài đạp nặng khi hết pin ở chỗ giải đáp riêng lầm tưởng đạp là sạc.",
+  "primary_keyword": "đạp xe đạp điện có sạc pin không",
+  "secondary_keywords": [
+    "xe đạp điện đạp có nạp điện không",
+    "đạp xe điện có lên pin không",
+    "xe đạp điện hồi điện khi đạp",
+    "vạch pin xe đạp điện nhích lên"
+  ],
+  "group": "XE",
+  "taxonomy": {
+    "parent_id": "P-XE-MAY",
+    "parent_hub": "Xe máy & dòng xe",
+    "parent_hub_url": "/xe-may/",
+    "child_id": "C-XE-DAP-DIEN",
+    "child_hub": "Xe đạp điện",
+    "child_hub_url": "/xe-may/xe-dap-dien/"
+  },
+  "expected_url": "/xe-may/2026/10/29/dap-xe-dap-dien-khi-tat-nguon-co-sac-lai-pin-khong-hieu-dung-de-khoi-can-pin-giu/",
+  "output_path": "_posts/{date}-dap-xe-dap-dien-khi-tat-nguon-co-sac-lai-pin-khong-hieu-dung-de-khoi-can-pin-giu.md",
+  "draft_path": "_drafts/2026-10-29-dap-xe-dap-dien-khi-tat-nguon-co-sac-lai-pin-khong-hieu-dung-de-khoi-can-pin-giu.md",
+  "canonical_url": "/xe-may/2026/10/29/dap-xe-dap-dien-khi-tat-nguon-co-sac-lai-pin-khong-hieu-dung-de-khoi-can-pin-giu/",
+  "internal_links_matrix": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+  ],
+  "commercial_intent": "medium",
+  "cannibalization_key": "ap xe ap ien co sac pin khong",
+  "word_target": 1300,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": "2000000 - 3000000"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": 1000000,
+        "month": "1800000 - 2000000",
+        "deposit": "4000000 - 5000000"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 1000000,
+        "month": 1500000,
+        "deposit": 3000000
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": 2000000
+      },
+      "Xe tay ga 50cc": {
+        "day": 200000,
+        "week": null,
+        "month": null,
+        "note": "Giá tuần và tháng: báo giá riêng",
+        "deposit": 4000000
+      },
+      "Xe máy điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "low",
+  "research_class": "B",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00003",
+      "title": "Xe số, xe ga hay xe 50cc: Nên chọn loại nào?",
+      "url": "/chia%20s%E1%BA%BB/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/"
+    },
+    {
+      "id": "BLG-00006",
+      "title": "Áp suất lốp xe máy: kiểm tra thế nào và vì sao quan trọng hơn bạn nghĩ",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/ap-suat-lop-xe-may-kiem-tra-the-nao/"
+    },
+    {
+      "id": "BLG-00016",
+      "title": "Đèn xe và tầm nhìn khi đi xe máy ban đêm",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/den-xe-va-tam-nhin-khi-di-xe-may-ban-dem/"
+    },
+    {
+      "id": "BLG-00033",
+      "title": "Xe đạp điện và xe máy điện khác nhau thế nào: chọn theo nhu cầu thực tế",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/phan-biet-xe-dap-dien-va-xe-may-dien/"
+    },
+    {
+      "id": "BLG-00036",
+      "title": "Sạc pin xe máy điện đúng cách",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/sac-pin-xe-may-dien-dung-cach/"
+    },
+    {
+      "id": "BLG-00037",
+      "title": "Thay nhớt định kỳ cho xe máy: kỳ hạn, dấu hiệu và ai chịu khi đi xe thuê",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/thay-nhot-dinh-ky-cho-xe-may/"
+    },
+    {
+      "id": "BLG-00039",
+      "title": "Thuê Honda Air Blade ở Hà Nội: dòng xe ga thể thao khác gì xe ga phổ thông",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/thue-honda-air-blade-o-ha-noi/"
+    },
+    {
+      "id": "BLG-00040",
+      "title": "Thuê Honda Click và Yamaha Mio ở Hà Nội: dòng xe ga nhỏ gọn cho phố",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/thue-honda-click-va-yamaha-mio-o-ha-noi/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "3ac4be00312b408ae273cb7225f9f5813532dc88fd0004012b9a0fdc2bb023c8",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
