@@ -1,0 +1,161 @@
+{
+  "article_id": "BLG-06188",
+  "status": "WRITING",
+  "title": "Đề lý thuyết bằng A1 tăng lên 40 câu theo Thông tư 108/2026/TT-BCA: áp dụng từ khi nào, đúng bao nhiêu câu thì đạt",
+  "intent": "Người dùng hỏi: «Nghe nói đề thi lý thuyết bằng A1 tăng lên 40 câu, vậy áp dụng từ ngày nào, làm trong bao lâu và đúng bao nhiêu câu thì đỗ?». Bài giải thích nội dung sát hạch lý thuyết hạng A1 theo Thông tư 108/2026/TT-BCA (thay Thông tư 12/2025/TT-BCA): Điều 4 về nội dung sát hạch lý thuyết và trường hợp có giấy phép lái xe ô tô còn hiệu lực được miễn; Phụ lục I mục A.I (40 câu, 27 phút, đạt từ 36/40) và khoản 2 Điều 41 về mốc áp dụng nội dung mới; dẫn căn cứ khoản 7 Điều 61 Luật số 36/2024/QH15. Người viết phải đối chiếu mốc hiệu lực trong văn bản gốc, không đoán lịch thi của từng trung tâm. Người đọc là người ở Hà Nội đang học hoặc chuẩn bị đăng ký thi A1 cuối 2026, đầu 2027; khác bài BLG-00619 (câu hay gặp) và BLG-04365 (tự học lý thuyết) ở chỗ giải thích cấu trúc đề và mốc chuyển đổi theo thông tư mới.",
+  "primary_keyword": "thi lý thuyết A1 40 câu",
+  "secondary_keywords": [
+    "Thông tư 108/2026/TT-BCA",
+    "đề lý thuyết A1 mới",
+    "điểm đạt lý thuyết A1",
+    "thi bằng A1 năm 2027"
+  ],
+  "group": "PHAP-LY",
+  "taxonomy": {
+    "parent_id": "P-PHAP-LY",
+    "parent_hub": "An toàn & pháp lý",
+    "parent_hub_url": "/an-toan-phap-ly/",
+    "child_id": "C-GPLX",
+    "child_hub": "Giấy phép lái xe",
+    "child_hub_url": "/an-toan-phap-ly/giay-phep-lai-xe/"
+  },
+  "expected_url": "/an-toan-phap-ly/2026/10/29/de-ly-thuyet-bang-a1-tang-len-40-cau-theo-thong-tu-1082026ttbca-ap-dung-tu-khi-n/",
+  "output_path": "_posts/{date}-de-ly-thuyet-bang-a1-tang-len-40-cau-theo-thong-tu-1082026ttbca-ap-dung-tu-khi-n.md",
+  "draft_path": "_drafts/2026-10-29-de-ly-thuyet-bang-a1-tang-len-40-cau-theo-thong-tu-1082026ttbca-ap-dung-tu-khi-n.md",
+  "canonical_url": "/an-toan-phap-ly/2026/10/29/de-ly-thuyet-bang-a1-tang-len-40-cau-theo-thong-tu-1082026ttbca-ap-dung-tu-khi-n/",
+  "internal_links_matrix": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+  ],
+  "commercial_intent": "low",
+  "cannibalization_key": "thi ly thuyet a1 40 cau",
+  "word_target": 1300,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": "2000000 - 3000000"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": 1000000,
+        "month": "1800000 - 2000000",
+        "deposit": "4000000 - 5000000"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 1000000,
+        "month": 1500000,
+        "deposit": 3000000
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": 2000000
+      },
+      "Xe tay ga 50cc": {
+        "day": 200000,
+        "week": null,
+        "month": null,
+        "note": "Giá tuần và tháng: báo giá riêng",
+        "deposit": 4000000
+      },
+      "Xe máy điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": true,
+  "legal_risk": "high",
+  "research_class": "C",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00020",
+      "title": "Giấy tờ thuê xe máy ở Hà Nội: cần mang gì khi đến cửa hàng",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/"
+    },
+    {
+      "id": "BLG-00059",
+      "title": "Bảo hiểm cho người thuê xe máy ở Hà Nội: những điều cần hiểu rõ",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bao-hiem-cho-nguoi-thue-xe-may-o-ha-noi/"
+    },
+    {
+      "id": "BLG-00060",
+      "title": "Xe lún mềm bất thường sau mưa to",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bao-hiem-lun-mam-xe-sau-mua-to/"
+    },
+    {
+      "id": "BLG-00062",
+      "title": "Bảo vệ giấy tờ và tài liệu khỏi mưa khi đi xe máy ở Hà Nội",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bao-ve-giay-to-khoi-mua-khi-di-xe-may/"
+    },
+    {
+      "id": "BLG-00064",
+      "title": "Bị dừng kiểm tra giấy tờ khi đi xe máy thuê: nên làm gì",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/"
+    },
+    {
+      "id": "BLG-00065",
+      "title": "Bị kiểm tra giấy tờ khi đi xe máy thuê cần lưu ý gì",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bi-kiem-tra-giay-to-khi-di-xe-thue/"
+    },
+    {
+      "id": "BLG-00066",
+      "title": "Bị phạt nguội qua camera giữa kỳ thuê",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bi-phat-nguoi-qua-camera-giua-ky-thue/"
+    },
+    {
+      "id": "BLG-00068",
+      "title": "Biển báo giao thông thường gặp khi đi trong phố",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bien-bao-giao-thong-thuong-gap-khi-di-trong-pho/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "PASS"
+  },
+  "matrix_row_sha256": "deb6b5fd1a8ec783ab99ad6eff8d581dd10feaba0eeec2a05cf5ff1d7d65e293",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
