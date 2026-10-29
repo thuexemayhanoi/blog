@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-24T09:58:35+00:00",
+  "updated_at": "2026-10-29T11:36:24+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-05733",
-      "started_at": "2026-10-24T06:40:18+00:00",
-      "source": "_drafts/2026-10-24-y-bac-si-tuyen-tinh-len-ha-noi-hoc-ngan-han-o-benh-vien-trung-uong-thue-xe-may-t.md",
-      "destination": "_posts/2026-10-24-y-bac-si-tuyen-tinh-len-ha-noi-hoc-ngan-han-o-benh-vien-trung-uong-thue-xe-may-t.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6e9843f8f1ae062fc146cba4dac681ece9b1bcfb",
-      "finished_at": "2026-10-24T06:40:18+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05734",
-      "started_at": "2026-10-24T06:40:38+00:00",
-      "source": "_drafts/2026-10-24-hoc-lam-gom-ca-tuan-o-bat-trang-thue-xe-may-di-ve-tu-noi-thanh-canh-gio-lop-va-c.md",
-      "destination": "_posts/2026-10-24-hoc-lam-gom-ca-tuan-o-bat-trang-thue-xe-may-di-ve-tu-noi-thanh-canh-gio-lop-va-c.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6e9843f8f1ae062fc146cba4dac681ece9b1bcfb",
-      "finished_at": "2026-10-24T06:40:38+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06090",
       "started_at": "2026-10-24T06:40:38+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "130de59832053d27b4f64ef65f7625d4d93490c8",
       "finished_at": "2026-10-24T09:58:35+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05709",
+      "started_at": "2026-10-29T11:36:24+00:00",
+      "source": "_drafts/2026-10-29-honda-click-di-lang-tam-huong-quang-phu-cau-duong-xuong-phia-nam-ngo-lang-hep-va.md",
+      "destination": "_posts/2026-10-29-honda-click-di-lang-tam-huong-quang-phu-cau-duong-xuong-phia-nam-ngo-lang-hep-va.md",
+      "result": "PUBLISHED",
+      "commit_sha": "de172f1da600d8094b070594f0ff7e54aa510f09",
+      "finished_at": "2026-10-29T11:36:24+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05716",
+      "started_at": "2026-10-29T11:36:24+00:00",
+      "source": "_drafts/2026-10-29-mot-buoi-o-dong-anh-bang-honda-click-noi-thanh-co-loa-lang-roi-nuoc-dao-thuc-va.md",
+      "destination": "_posts/2026-10-29-mot-buoi-o-dong-anh-bang-honda-click-noi-thanh-co-loa-lang-roi-nuoc-dao-thuc-va.md",
+      "result": "PUBLISHED",
+      "commit_sha": "de172f1da600d8094b070594f0ff7e54aa510f09",
+      "finished_at": "2026-10-29T11:36:24+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
