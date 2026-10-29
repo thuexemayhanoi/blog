@@ -1,5 +1,13 @@
 # AGENTS — thuexemayhanoi/blog (Hanoi motorbike rental, mục tiêu 10K bài)
 
+## Quyết định chủ website 2026-10-29 — mở lại viết bài
+
+Chủ repository đã yêu cầu **mở lại chuẩn bị và sản xuất bài viết**: `data/factory/production-control.json` có `enabled: true` và giữ `chunk_size: 2`. Đây là ủy quyền tiếp tục nhận lease, viết draft, QA và đưa bản đạt chuẩn qua publisher hiện có; **không** phải ủy quyền hạ quality gate, tự sửa trực tiếp `_posts/`, cưỡng ép merge PR cũ hay thay đổi URL lịch sử.
+
+Checkpoint gần nhất đã commit chỉ còn **2 hàng PLANNED**, nên coordinator/writer phải ưu tiên bổ sung batch **chủ đề mới thực, khác intent** vào `data/factory/refill-batches/`, kiểm tra trùng qua gates G1–G9, push batch cùng refill-request để workflow `factory-refill.yml` tạo hàng PLANNED hợp lệ. Mục tiêu vận hành theo `data/factory-capacity.json` (`min_ready_queue=100`, `refill_target=300`), không tạo filler, không ép đủ số nếu không xác minh được tính riêng biệt. Sau refill thành công, fetch `main` mới và writer `begin --slot auto` (không chiếm lease người khác), soạn ≤10 bài mỗi push, `check`, `push`, `confirm`; publisher xử lý cặp 2 bài, QA hiện hành giữ nguyên. Nếu phiên/quota kết thúc, lưu tiến độ trong GitHub và nối từ checkpoint. GitHub Actions **không tự viết bài bằng AI**.
+
+Issue #77 còn việc URL cũ/slug, xử lý độc lập; tuyệt đối không thay canonical/permalink bài đang sống, không tái mở URL `RETIRED` hoặc gộp/xóa bài chỉ để mở đường sản xuất. Thông tin thương hiệu/nơi thuê của repo này lấy từ nguồn xác thực `data/business-facts.json` và `_data/business.yml` của chính site, không tự trộn dữ liệu doanh nghiệp khác. Thông tin chính sách chưa xác minh để cuối báo cáo, không bịa.
+
 ## Writer pool mở rộng (2026-10-16) — áp dụng khi `writer-pool.json` hiện diện
 
 **Nguồn cấu hình:** `data/factory/writer-pool.json`, hiện `max_slots=12` (W1–W12).
