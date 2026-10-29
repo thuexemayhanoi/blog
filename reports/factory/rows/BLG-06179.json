@@ -1,0 +1,162 @@
+{
+  "article_id": "BLG-06179",
+  "status": "WRITING",
+  "title": "Xe ga 50cc 200.000đ một ngày hay Honda Wave, Click 150.000đ: khi nào trả thêm tiền và cọc cao hơn vẫn là lựa chọn đúng",
+  "intent": "Người dùng hỏi: «Xe 50cc thuê 200.000đ một ngày, đắt hơn Wave và Click, vậy có nên chọn không?». Bài đặt cạnh nhau bảng giá đã công bố (xe ga 50cc 200.000đ/ngày, cọc 4.000.000đ, giá tuần và tháng báo riêng; Honda Wave và Honda Click 150.000đ/ngày, cọc 2.000.000–3.000.000đ) với điều kiện người lái theo Điều 59 Luật 36/2024/QH15: chưa đủ tuổi hoặc chưa có giấy phép lái xe hạng A1 thì xe gắn máy 50cc là lựa chọn hợp lệ, đã có bằng thì xe 110cc rẻ hơn và khỏe hơn; không suy đoán lý do định giá của cửa hàng. Người đọc là người đang cân nhắc giữa xe 50cc và xe 110cc, khác bài chưa có bằng nên thuê 50cc hay chờ bằng A1 ở chỗ đặt giá thuê, tiền cọc các dòng cạnh nhau.",
+  "primary_keyword": "thuê xe 50cc hay xe 110cc",
+  "secondary_keywords": [
+    "giá thuê xe ga 50cc",
+    "xe 50cc đắt hơn wave",
+    "cọc thuê xe 50cc",
+    "không có bằng thuê xe gì"
+  ],
+  "group": "XE",
+  "taxonomy": {
+    "parent_id": "P-XE-MAY",
+    "parent_hub": "Xe máy & dòng xe",
+    "parent_hub_url": "/xe-may/",
+    "child_id": "C-XE-50CC",
+    "child_hub": "Xe 50cc",
+    "child_hub_url": "/xe-may/xe-50cc/"
+  },
+  "expected_url": "/xe-may/2026/10/29/xe-ga-50cc-200000d-mot-ngay-hay-honda-wave-click-150000d-khi-nao-tra-them-tien-v/",
+  "output_path": "_posts/{date}-xe-ga-50cc-200000d-mot-ngay-hay-honda-wave-click-150000d-khi-nao-tra-them-tien-v.md",
+  "draft_path": "_drafts/2026-10-29-xe-ga-50cc-200000d-mot-ngay-hay-honda-wave-click-150000d-khi-nao-tra-them-tien-v.md",
+  "canonical_url": "/xe-may/2026/10/29/xe-ga-50cc-200000d-mot-ngay-hay-honda-wave-click-150000d-khi-nao-tra-them-tien-v/",
+  "internal_links_matrix": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/",
+    "/bang-gia/"
+  ],
+  "commercial_intent": "medium",
+  "cannibalization_key": "thue xe 50cc hay xe 110cc",
+  "word_target": 1300,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": "2000000 - 3000000"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": 1000000,
+        "month": "1800000 - 2000000",
+        "deposit": "4000000 - 5000000"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 1000000,
+        "month": 1500000,
+        "deposit": 3000000
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": 2000000
+      },
+      "Xe tay ga 50cc": {
+        "day": 200000,
+        "week": null,
+        "month": null,
+        "note": "Giá tuần và tháng: báo giá riêng",
+        "deposit": 4000000
+      },
+      "Xe máy điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "medium",
+  "research_class": "B",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00003",
+      "title": "Xe số, xe ga hay xe 50cc: Nên chọn loại nào?",
+      "url": "/chia%20s%E1%BA%BB/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/"
+    },
+    {
+      "id": "BLG-00006",
+      "title": "Áp suất lốp xe máy: kiểm tra thế nào và vì sao quan trọng hơn bạn nghĩ",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/ap-suat-lop-xe-may-kiem-tra-the-nao/"
+    },
+    {
+      "id": "BLG-00016",
+      "title": "Đèn xe và tầm nhìn khi đi xe máy ban đêm",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/den-xe-va-tam-nhin-khi-di-xe-may-ban-dem/"
+    },
+    {
+      "id": "BLG-00033",
+      "title": "Xe đạp điện và xe máy điện khác nhau thế nào: chọn theo nhu cầu thực tế",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/phan-biet-xe-dap-dien-va-xe-may-dien/"
+    },
+    {
+      "id": "BLG-00036",
+      "title": "Sạc pin xe máy điện đúng cách",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/sac-pin-xe-may-dien-dung-cach/"
+    },
+    {
+      "id": "BLG-00037",
+      "title": "Thay nhớt định kỳ cho xe máy: kỳ hạn, dấu hiệu và ai chịu khi đi xe thuê",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/thay-nhot-dinh-ky-cho-xe-may/"
+    },
+    {
+      "id": "BLG-00039",
+      "title": "Thuê Honda Air Blade ở Hà Nội: dòng xe ga thể thao khác gì xe ga phổ thông",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/thue-honda-air-blade-o-ha-noi/"
+    },
+    {
+      "id": "BLG-00040",
+      "title": "Thuê Honda Click và Yamaha Mio ở Hà Nội: dòng xe ga nhỏ gọn cho phố",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/thue-honda-click-va-yamaha-mio-o-ha-noi/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "8b43068003ebe0dc6f46e4b356fef05b8583fd042080c4db404c300fd409066c",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
