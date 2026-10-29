@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-29T11:32:16Z",
+  "updated_at": "2026-10-29T11:35:50Z",
   "leases": {
     "W6": {
       "ids": [
@@ -10,9 +10,9 @@
       "session": "s-claude-opus-w6",
       "epoch": 1,
       "claimed_at": "2026-10-29T11:32:16Z",
-      "heartbeat_at": "2026-10-29T11:32:16Z",
+      "heartbeat_at": "2026-10-29T11:35:50Z",
       "ttl_hours": 12.0,
-      "expires_at": "2026-10-29T23:32:16Z",
+      "expires_at": "2026-10-29T23:35:50Z",
       "label": "claude-opus"
     }
   }
