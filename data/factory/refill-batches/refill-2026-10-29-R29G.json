@@ -1,0 +1,471 @@
+{
+ "_meta": {
+  "note": "Lo R29G (coordinator 2026-10-29): chu de that cho 5/6 child ky nang duoc giao (TINH-HUONG 6, THOI-TIET 1, CHO-DO 4, GUI-XE 3, SUC-KHOE 8; CO-BAN da bao hoa nen khong nop). Nguon: cong truong dang thi cong co thong bao chinh thuc (cau Tran Hung Dao - de Long Bien Xuan Quan dong dem 25/9/2026-25/2/2027, cac dot cam xe may cau Long Bien 2025-2026), mua dong/ret hai/Tet Dinh Mui 2027, ky thuat cho vat cu the chua co, tinh huong gui xe cu the; nhom suc khoe neo khoan 2 Dieu 59 Luat 36/2024/QH15 va nguon moh.gov.vn, vncdc.gov.vn, soyte.hanoi.gov.vn, vnio.vn. Da loai ung vien trung lo khac cung ngay (rao chan ga ngam metro trung R29F-004, bang gia Mau Son trung R29F-028). Kiem trung: doc toan bo tieu de 6 child, grep thuc the chinh (co dau va khong dau) tren toan matrix, chay topic_check.py (G1-G9 + intent gan trung + route).",
+  "created": "2026-10-29",
+  "source": "coordinator topic expansion 2026-10-29 theo docs/TAXONOMY.md, gate G1-G9"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-001",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Đê Long Biên – Xuân Quan đoạn hồ Lâm Du đóng ban đêm để thi công cầu Trần Hưng Đạo: đi xe máy về khuya vòng qua đâu",
+   "intent": "Người dùng hỏi: «Về khuya đi xe máy dọc đê Long Biên – Xuân Quan qua khu hồ Lâm Du mà đoạn này bị đóng để thi công cầu Trần Hưng Đạo thì vòng đường nào?». Bài đọc phương án tổ chức giao thông do Sở Xây dựng Hà Nội thông báo: đóng đoạn đê giao với đường Cổ Linh từ 23h đến trước 4h sáng mỗi đêm trong giai đoạn 25/9/2026–25/2/2027 để nâng, hạ, vận chuyển kết cấu thép, xe trên đê được hướng dẫn xuống đường Cổ Linh qua khu rào chắn rồi đi tiếp theo biển chỉ dẫn; bài hướng dẫn tính giờ về trước 23h hoặc chọn hướng khác, đọc biển công trường từ xa, giữ khoảng cách với xe chở cấu kiện và nhắc kiểm tra thông báo mới nhất vì lịch có thể điều chỉnh. Không nêu số liệu dự án ngoài thông báo phân luồng. Không bàn phía Hoàn Kiếm (Trần Khánh Dư, đê Nguyễn Khoái). Người đọc là người ở trọ, làm ca đêm quanh Bồ Đề, Long Biên đi xe máy thuê, khác bài BLG-00242 (đường đóng tạm nói chung) ở chỗ gắn với lịch đóng đê ban đêm phía Long Biên của một công trường cụ thể.",
+   "kw": "đê Long Biên Xuân Quan đóng ban đêm",
+   "kw2": [
+    "đóng đê Lâm Du ban đêm",
+    "đi xe máy qua hồ Lâm Du sau 23 giờ",
+    "đường vòng Cổ Linh khi đóng đê",
+    "công trường cầu Trần Hưng Đạo phía Long Biên"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người ở trọ, đi làm ca đêm hoặc về khuya quanh Bồ Đề, Long Biên bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-002",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Cầu Long Biên tạm cấm xe máy để sửa chữa: xem thông báo ở đâu, đi vòng từ Bồ Đề sang phố cổ qua cầu Chương Dương",
+   "intent": "Người dùng hỏi: «Cầu Long Biên lại tạm cấm xe máy để sửa chữa thì từ Bồ Đề, Ngọc Lâm sang phố cổ đi đường nào, và biết lịch cấm ở đâu?». Bài dựa trên các đợt cấm đã được thông báo (đợt kết thúc khi cầu mở lại cho xe máy từ ngày 1/1/2026 và đợt 60 ngày từ cuối tháng 3 đến cuối tháng 5/2026) cùng phương án phân luồng của Sở Xây dựng Hà Nội: xe máy đi từ phố Long Biên 1, Long Biên 2 theo đường Long Biên – Xuân Quan lên cầu Chương Dương; hướng dẫn nhập làn ở đầu cầu Chương Dương, giờ dễ ùn, cách xuống cầu về phía Trần Nhật Duật và cách kiểm tra thông báo trước khi xuất phát. Người đọc là người ở, thuê xe quanh Long Biên đi làm sang Hoàn Kiếm, khác bài BLG-02295 (chọn cầu khi cả ba cầu đều mở) ở chỗ xử lý lúc cầu Long Biên bị đóng.",
+   "kw": "cầu Long Biên cấm xe máy sửa chữa",
+   "kw2": [
+    "đường vòng khi cầu Long Biên đóng",
+    "từ Long Biên sang phố cổ khi cấm cầu",
+    "thông báo phân luồng cầu Long Biên",
+    "lên cầu Chương Dương từ Long Biên"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người ở hoặc thuê xe máy quanh Bồ Đề, Ngọc Lâm, Long Biên đi làm, đi chơi sang Hoàn Kiếm",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-003",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Người bán hàng rong, phát tờ rơi len giữa hàng xe dừng đèn đỏ: giữ xe đứng yên, không với tay và canh lúc đèn xanh",
+   "intent": "Người dùng hỏi: «Đang dừng đèn đỏ ở ngã tư Hà Nội thì có người bán hàng rong, phát tờ rơi hoặc xin tiền len giữa các hàng xe máy — nên làm gì để an toàn khi đèn chuyển xanh?». Bài hướng dẫn giữ hai tay trên tay lái và chân chống đất vững, không với tay nhận đồ hay trả tiền khi xe còn trong làn, từ chối bằng cử chỉ, cất túi và điện thoại kín, quan sát người còn đứng giữa làn trước khi nhả ga, không bấm còi giục và không vọt lên khi phía trước còn người đi bộ. Không bàn chuyện xử phạt người bán. Người đọc là người mới đi xe máy thuê ở nội thành hay dừng ở các nút đèn đông, khác bài BLG-01294 (người bộ hành chéo ngang không vạch) ở chỗ người đi bộ đứng ngay giữa hàng xe đang chờ.",
+   "kw": "phát tờ rơi giữa dòng xe đèn đỏ",
+   "kw2": [
+    "người bán hàng rong ở ngã tư đèn đỏ",
+    "người xin tiền giữa hàng xe máy",
+    "đèn xanh còn người đi bộ giữa làn",
+    "từ chối nhận tờ rơi khi đang lái xe"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người mới đi xe máy thuê ở nội thành Hà Nội, hay dừng chờ ở các ngã tư đông",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-004",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Hàng buộc trên xe phía trước bất ngờ rơi xuống đường: phanh thẳng hay lách tránh, có nên dừng lại nhặt giúp",
+   "intent": "Người dùng hỏi: «Đang đi sau một xe máy chở hàng thì thùng, bao hay tấm ván trên xe đó rơi ngay trước mặt — phanh hay lách, và có nên dừng lại nhặt giúp không?». Bài giải thích cách nhận ra sớm hàng buộc lỏng ở xe phía trước (dây chùng, thùng xô lệch, tấm hàng rung), giữ khoảng cách đủ để phanh thẳng, chỉ lách khi đã nhìn gương và có khoảng trống, không cán lên bao, ống, tấm trơn, và cách giúp người làm rơi hàng mà không đứng giữa làn (bật xi nhan, tấp vào lề, ra hiệu cho xe phía sau, để chủ hàng tự nhặt khi đường thưa). Người đọc là người đi xe máy thuê trên các trục nhiều xe chở hàng như quanh chợ đầu mối, khu công nghiệp, khác bài BLG-02823 (đồ của chính mình rơi) ở chỗ vật rơi từ xe người khác.",
+   "kw": "xe phía trước rơi hàng xuống đường",
+   "kw2": [
+    "đồ rơi từ xe máy phía trước",
+    "thùng hàng rơi giữa đường",
+    "lách tránh vật rơi trên đường",
+    "dừng nhặt hàng rơi giúp người khác"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người đi xe máy thuê ở Hà Nội thường đi sau xe chở hàng trên các trục đông xe tải, xe ba gác",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-005",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Dây điện, cáp trên cột bốc cháy hoặc tóe lửa phía trước khi đang chạy xe máy: dừng cách bao xa, quay đầu hay đi qua",
+   "intent": "Người dùng hỏi: «Đang chạy xe máy trong phố thì thấy búi dây điện, cáp viễn thông trên cột phía trước bốc khói, tóe lửa — đi tiếp qua bên dưới hay quay lại?». Bài hướng dẫn giảm tốc từ xa, dừng ngoài vùng có thể rơi dây và vỏ nhựa cháy, không đi luồn dưới búi dây đang cháy, không dừng lại xem hay quay phim, quay đầu hoặc chờ ở chỗ thoáng, gọi 114 và báo ngành điện, cảnh báo xe phía sau; lưu ý vũng nước, dây rơi chạm đất khi trời mưa. Người đọc là người đi xe máy trong phố cũ nhiều cột điện chằng chịt ở Hà Nội, khác bài BLG-02789 (dây điện đứt, cây đổ chắn đường sau mưa gió) ở chỗ sự cố chập cháy đang diễn ra trên cao.",
+   "kw": "dây điện trên cột bốc cháy",
+   "kw2": [
+    "chập cháy dây điện trên cột",
+    "cột điện tóe lửa khi đi xe máy",
+    "đi qua chỗ cháy dây điện",
+    "gọi 114 khi thấy cháy dây điện"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người đi xe máy thuê trong các phố cũ, ngõ đông dân nhiều cột điện và cáp treo ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-006",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Bị người đi xe khác áp sát chửi bới, bắt dừng xe vì bấm còi hay chen làn: không đôi co, đi về nơi đông người",
+   "intent": "Người dùng hỏi: «Chỉ vì bấm còi hay chen làn mà bị người đi xe khác áp sát chửi, ra hiệu bắt dừng xe — nên dừng lại nói chuyện hay đi tiếp, và làm sao để không thành xô xát?». Bài hướng dẫn không đáp trả bằng cử chỉ, tiếng còi hay lời nói, giảm tốc và nhường làn để họ đi trước, không dừng ở chỗ vắng, nếu bị bám theo thì đi về nơi đông người, cây xăng có camera hoặc trụ sở công an, ghi nhớ biển số, gọi 113 khi bị đe dọa; tự xem lại thói quen bấm còi, chen làn để tránh lặp lại. Tách bạch với trường hợp đã có va chạm. Người đọc là người đi xe máy thuê ở Hà Nội, khác bài BLG-03201 (bị đòi tiền sau va quẹt) và BLG-05580 (bị bám theo lúc về khuya) ở chỗ xung đột bùng lên ngay giữa dòng xe ban ngày khi chưa có va chạm.",
+   "kw": "bị gây sự khi đang đi xe máy",
+   "kw2": [
+    "bị chửi bới khi đi xe máy",
+    "người đi đường ép dừng xe gây sự",
+    "giữ bình tĩnh khi bị bấm còi",
+    "tránh xô xát trên đường phố"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người đi xe máy thuê ở Hà Nội, nhất là người mới chưa quen nhịp bấm còi, chen làn của dòng xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-007",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Miếng dán giữ nhiệt, găng tay sưởi và túi sưởi khi đi xe máy ngày rét đậm: dùng sao để không bỏng, không vướng tay",
+   "intent": "Người dùng hỏi: «Ngày rét đậm ở Hà Nội có nên dùng miếng dán giữ nhiệt, găng tay sưởi điện hay túi sưởi khi đi xe máy, và dùng thế nào cho an toàn?». Bài so sánh ba cách giữ ấm chủ động: miếng dán chỉ dán lên lớp áo lót, không dán thẳng vào da hay chỗ bị bó chặt, găng sưởi dùng pin phải thử cảm giác bóp phanh, bật xi nhan trước khi đi và không để dây sạc vắt qua tay lái, túi sưởi cất trong túi áo chứ không kẹp ở sàn xe; nhắc đọc hướng dẫn trên bao bì, dừng lại khi da rát đỏ và vẫn phải mặc đủ lớp chắn gió. Người đọc là người đi làm sớm, về muộn bằng xe máy trong đợt rét, khác bài BLG-04012 (chọn găng tay dày giữ cảm giác tay ga) ở chỗ dùng đồ tỏa nhiệt.",
+   "kw": "miếng dán giữ nhiệt khi đi xe máy",
+   "kw2": [
+    "găng tay sưởi điện đi xe máy",
+    "túi sưởi giữ ấm tay khi lái xe",
+    "dán giữ nhiệt có bị bỏng không",
+    "giữ ấm tay chân ngày rét đậm"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người đi làm sớm, về muộn bằng xe máy thuê trong những đợt rét đậm ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-008",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Rước bát hương mới hoặc chuyển bát hương khi chuyển nhà bằng xe máy: ai cầm, bọc thế nào để không đổ tro, không vỡ",
+   "intent": "Người dùng hỏi: «Mua bát hương mới hoặc chuyển bát hương sang nhà mới mà chỉ có xe máy thì chở thế nào cho trang trọng, không đổ tro, không vỡ?». Bài hướng dẫn phần kỹ thuật: người ngồi sau ôm bát hương đặt trong hộp hoặc khay có lót vải, giữ thẳng đứng, bọc kín miệng bát, người lái đi chậm qua gờ giảm tốc và ổ gà, chọn giờ ít xe, chở riêng các đồ thờ khác thành chuyến sau; phần nghi lễ chỉ nhắc hỏi người lớn trong gia đình hoặc nhà chùa theo phong tục từng nhà, không khẳng định kiêng kỵ cụ thể. Người đọc là người thuê nhà, chuyển nhà ở Hà Nội tự lo việc thờ cúng, khác bài BLG-03397 (mua đồ thờ cồng kềnh ở phố Hàng Quạt) ở chỗ chở bát hương cần giữ nguyên vẹn.",
+   "kw": "chở bát hương bằng xe máy",
+   "kw2": [
+    "chuyển bát hương khi chuyển nhà",
+    "rước bát hương mới về nhà",
+    "bọc bát hương không đổ tro",
+    "mang đồ thờ trên xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người thuê nhà, chuyển nhà ở Hà Nội tự chở bát hương và đồ thờ bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-009",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở bình ắc quy rời bằng xe máy: đặt đứng, che cọc cực, chèn chắc và vì sao không để người ngồi sau ôm trước bụng",
+   "intent": "Người dùng hỏi: «Mua bình ắc quy cho bộ lưu điện, bộ kích điện hay ô tô rồi muốn tự chở về bằng xe máy thì đặt, buộc thế nào cho an toàn?». Bài giải thích vì sao bình ắc quy nhỏ mà rất nặng, loại dùng dung dịch axit có thể rò khi nghiêng, cọc cực chạm kim loại dễ chập: đặt đứng trong thùng có chèn, chụp nắp cọc, đặt thấp ở sàn để chân hoặc giữa yên, không để người sau ôm trước bụng, không xếp cạnh túi đồ ăn, buộc chống trượt khi phanh; khi nào nên nhờ cửa hàng bán ắc quy giao. Không bàn việc thay ắc quy cho xe thuê. Người đọc là người ở Hà Nội tự mua ắc quy ở cửa hàng điện, khác bài BLG-04830 (chở tạ tay nặng) ở chỗ vật nặng có axit và điện cực.",
+   "kw": "chở bình ắc quy bằng xe máy",
+   "kw2": [
+    "chở ắc quy ô tô trên xe máy",
+    "mang ắc quy kích điện về nhà",
+    "ắc quy nghiêng có chảy axit không",
+    "che cọc ắc quy khi vận chuyển"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người ở Hà Nội tự mua bình ắc quy cho bộ lưu điện, kích điện hoặc ô tô và chở về bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-010",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở gương soi toàn thân hay tấm kính mặt bàn bằng xe máy: bọc mép, dựng đúng chiều, chống hứng gió và phản chiếu nắng",
+   "intent": "Người dùng hỏi: «Mua gương soi toàn thân hay tấm kính mặt bàn rồi chở về bằng xe máy có được không, buộc thế nào cho khỏi vỡ và không làm chói mắt người khác?». Bài giải thích ba rủi ro riêng của kính: mép sắc khi vỡ, tấm phẳng hứng gió như cánh buồm, mặt gương phản chiếu nắng hoặc đèn pha vào mắt người đi đường; hướng dẫn bọc giấy, xốp, dán băng dính chéo, dựng dọc thân xe hoặc để người ngồi sau giữ với mặt gương quay vào trong, đi chậm khi qua cầu gió, và kích thước nào nên nhờ cửa hàng giao thay vì tự chở. Người đọc là người thuê trọ, mới chuyển nhà ở Hà Nội mua đồ nội thất nhỏ, khác bài BLG-01871 (khung tranh lớn) ở chỗ vật bằng kính dễ vỡ thành mảnh sắc và phản chiếu ánh sáng.",
+   "kw": "chở gương soi bằng xe máy",
+   "kw2": [
+    "chở tấm kính trên xe máy",
+    "chở mặt kính bàn bằng xe máy",
+    "gương phản chiếu nắng khi chở",
+    "bọc mép kính khi vận chuyển"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người thuê trọ, mới chuyển nhà ở Hà Nội tự chở gương, kính mua ở cửa hàng nội thất",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-011",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở lá dong, gạo nếp, đỗ xanh và thịt về gói bánh chưng ngày cận Tết bằng xe máy: chia tải nặng nhẹ, giữ lá không rách",
+   "intent": "Người dùng hỏi: «Cuối tháng Chạp đi chợ mua lá dong, gạo nếp, đỗ xanh, thịt về gói bánh chưng mà chỉ có một xe máy thì xếp thế nào để chở một chuyến cho chắc?». Bài hướng dẫn chia tải: bao gạo, đỗ nặng đặt thấp và sát người lái, thịt cho vào túi kín riêng tránh rỉ nước, bó lá dong dài buộc dọc yên sau và bọc ngọn để gió không xé rách lá, lạt cuộn gọn; khi nào nên tách hai chuyến; tính giờ đi để tránh chợ Tết đông. Không nêu giá nguyên liệu. Người đọc là gia đình ở Hà Nội tự gói bánh chưng đón Tết Đinh Mùi 2027, khác bài BLG-01200 (chở thùng bánh, quà Tết đóng sẵn) ở chỗ chở nguyên liệu tươi, cồng kềnh lẫn nặng.",
+   "kw": "chở lá dong gói bánh chưng",
+   "kw2": [
+    "chở gạo nếp lá dong ngày Tết",
+    "đi chợ lá dong bằng xe máy",
+    "chở nguyên liệu gói bánh chưng",
+    "buộc bó lá dong trên xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Gia đình, nhóm bạn ở trọ Hà Nội tự gói bánh chưng dịp Tết, đi chợ bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-012",
+   "child_id": "C-KY-NANG-GUI-XE",
+   "title": "Nhờ người khác lấy hộ xe máy ở bãi gửi có camera đối chiếu biển số và khuôn mặt: đưa thẻ, báo nhân viên và mang theo gì",
+   "intent": "Người dùng hỏi: «Gửi xe máy ở hầm trung tâm thương mại, bệnh viện hay chung cư rồi phải về trước, muốn nhờ bạn lấy hộ thì có được không khi bãi chụp ảnh biển số và mặt người gửi?». Bài hướng dẫn trao thẻ hoặc vé kèm chìa, nhắn rõ tầng, khu và biển số, chụp ảnh vé gửi cho người lấy hộ, báo trước với nhân viên bãi khi có thể, dặn người lấy hộ mang giấy tờ tùy thân và giữ máy để bãi gọi xác nhận, chuẩn bị phương án khi bãi không cho lấy; với xe thuê thì không trao giấy tờ xe cho người lạ. Người đọc là người thuê xe đi cùng bạn bè, gia đình ở Hà Nội, khác bài BLG-03190 (mất vé gửi xe) và BLG-05332 (hai người đi chung giữ chìa) ở chỗ chủ động ủy thác cho người khác lấy xe.",
+   "kw": "nhờ người khác lấy hộ xe máy",
+   "kw2": [
+    "lấy xe hộ ở bãi gửi xe",
+    "bãi gửi xe chụp mặt người gửi",
+    "đưa thẻ gửi xe cho người khác lấy",
+    "lấy hộ xe ở hầm chung cư"
+   ],
+   "links": [
+    "/ky-nang/gui-xe-va-giu-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người thuê xe máy ở Hà Nội đi cùng bạn bè, gia đình, có lúc phải về trước và nhờ người khác lấy xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-013",
+   "child_id": "C-KY-NANG-GUI-XE",
+   "title": "Đi viếng ở nhà tang lễ trong nội thành Hà Nội bằng xe máy: gửi xe ở đâu, lúc đoàn viếng đông và lấy xe khi tan lễ",
+   "intent": "Người dùng hỏi: «Đi viếng đám tang ở các nhà tang lễ trong nội thành như trên phố Phùng Hưng, Trần Thánh Tông bằng xe máy thì gửi xe ở đâu, có phải đợi lâu khi lấy xe không?». Bài hướng dẫn hỏi trước gia đình hoặc nhà tang lễ về chỗ gửi xe, đến sớm trước giờ viếng của đoàn mình, gửi ở bãi có vé thay vì dựng ven đường, chụp vị trí xe, không để vòng hoa và đồ lễ trên xe, tính thời gian lấy xe khi nhiều đoàn cùng ra về và tránh dừng đỗ chắn lối xe tang; người viết cần kiểm chứng địa chỉ và chỗ gửi xe hiện hành tại chỗ hoặc từ nguồn chính thức. Người đọc là người ở Hà Nội lần đầu đi viếng ở nhà tang lễ bằng xe máy thuê, khác bài BLG-05535 (chở vòng hoa viếng) và BLG-04189 (thuê xe một tuần lo tang lễ) ở chỗ chuyện gửi và lấy xe tại nhà tang lễ.",
+   "kw": "gửi xe khi đi viếng nhà tang lễ",
+   "kw2": [
+    "đi viếng đám tang bằng xe máy",
+    "gửi xe ở nhà tang lễ Phùng Hưng",
+    "lấy xe sau lễ viếng đông người",
+    "dừng xe trước nhà tang lễ"
+   ],
+   "links": [
+    "/ky-nang/gui-xe-va-giu-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người ở Hà Nội đi viếng đám tang ở nhà tang lễ nội thành bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-014",
+   "child_id": "C-KY-NANG-GUI-XE",
+   "title": "Dừng ăn trưa ở quán ven quốc lộ khi đi xe máy xa từ Hà Nội: giữ xe và hành lý đang buộc trên yên, khóa gì, ngồi chỗ nào",
+   "intent": "Người dùng hỏi: «Đi xe máy chuyến xa từ Hà Nội, hành lý buộc kín trên yên, dừng ăn trưa hay nghỉ ở trạm dừng, quán ven quốc lộ thì để xe, giữ đồ thế nào khi không thể tháo hết mang vào?». Bài hướng dẫn chọn quán có chỗ để xe trong tầm mắt, dựng xe quay đầu ra, khóa cổ và khóa đĩa, mang theo túi giấy tờ, tiền, thiết bị; phủ lưới hoặc bạt và siết lại túi còn lại, kiểm tra dây buộc trước khi đi tiếp, khi đi nhóm thì luân phiên người ngồi gần xe. Người đọc là người thuê xe đi Mai Châu, Ninh Bình, Hà Giang theo nhóm hoặc một mình, khác bài BLG-02337 (để đồ trong cốp khi rời xe trong phố) và BLG-05338 (dừng hai ba phút) ở chỗ dừng lâu với hành lý nhiều ngày buộc ngoài xe.",
+   "kw": "giữ xe và hành lý khi dừng nghỉ",
+   "kw2": [
+    "dừng ăn trưa ven quốc lộ đi xe máy",
+    "hành lý buộc trên xe khi vào quán",
+    "khóa xe khi nghỉ chân đường dài",
+    "trạm dừng nghỉ xe máy giữ đồ"
+   ],
+   "links": [
+    "/ky-nang/gui-xe-va-giu-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người thuê xe máy ở Hà Nội đi tỉnh nhiều ngày, hành lý buộc trên yên",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-015",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Ngã xe máy có đập đầu dù đang đội mũ: dấu hiệu chấn thương sọ não có thể đến muộn và khi nào phải vào viện ngay",
+   "intent": "Người dùng hỏi: «Vừa ngã xe máy, đầu có đập xuống đường dù đang đội mũ bảo hiểm, giờ thấy vẫn ổn thì có cần đi khám không?». Bài giải thích theo thông tin trên Cổng thông tin Bộ Y tế (moh.gov.vn) rằng tụ máu trong sọ có thể biểu hiện muộn sau nhiều giờ đến nhiều tuần; liệt kê dấu hiệu cần đến cơ sở y tế ngay (đau đầu tăng dần, nôn nhiều lần, lơ mơ, co giật, yếu tay chân, chảy dịch ở tai, mũi), không tự lái xe về sau cú đập đầu, nhờ người ở cạnh theo dõi, và nhắc khoản 2 Điều 59 Luật số 36/2024/QH15 về sức khỏe phù hợp trước khi lái lại. Không chẩn đoán thay bác sĩ. Người đọc là người đi xe máy thuê vừa gặp cú ngã ở Hà Nội và người đi cùng, khác bài BLG-02465 (việc đầu tiên sau cú ngã nhẹ) ở chỗ theo dõi riêng chấn thương đầu trong những ngày sau.",
+   "kw": "ngã xe máy bị đập đầu",
+   "kw2": [
+    "đập đầu khi ngã xe có sao không",
+    "dấu hiệu chấn thương sọ não muộn",
+    "đau đầu buồn nôn sau ngã xe",
+    "đội mũ bảo hiểm vẫn bị chấn thương đầu"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người đi xe máy thuê ở Hà Nội vừa ngã có va đầu và người thân đi cùng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-016",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Bị chó cắn khi đi xe máy qua đường làng ven Hà Nội: rửa vết thương ngay, đi tiêm phòng dại sớm và không chờ xem con chó",
+   "intent": "Người dùng hỏi: «Đi xe máy qua làng ven đô bị chó lao ra cắn vào chân, vết cắn nhỏ thì có cần đi tiêm không và xử lý tại chỗ thế nào?». Bài dựa trên khuyến cáo phòng chống bệnh dại của Bộ Y tế và Cục Y tế dự phòng (moh.gov.vn, vncdc.gov.vn): dừng xe ở chỗ an toàn, xối rửa vết thương bằng xà phòng và nước sạch khoảng 15 phút, sát khuẩn, không băng kín, không đắp lá hay bôi thuốc nam, đến cơ sở y tế càng sớm càng tốt để được tư vấn tiêm vắc xin, huyết thanh kháng dại và phòng uốn ván, không đợi xem con chó có dại hay không; không tự lái tiếp khi vết thương chảy máu nhiều, và nhắc khoản 2 Điều 59 Luật số 36/2024/QH15. Không tự chỉ định phác đồ tiêm. Người đọc là người đi xe máy thuê dạo vùng ven Hà Nội, khác bài BLG-01844 (bị chó đuổi: cách lái thoát) ở chỗ xử lý y tế sau khi đã bị cắn.",
+   "kw": "bị chó cắn khi đi xe máy",
+   "kw2": [
+    "rửa vết chó cắn bao lâu",
+    "tiêm phòng dại sau khi bị chó cắn",
+    "chó cắn chân khi đang đi xe",
+    "bị chó cắn có cần tiêm uốn ván"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người đi xe máy thuê dạo làng ven đô, đường đê quanh Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-017",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Bụi, cát hay mảnh vụn bay vào mắt khi đang chạy xe máy: tấp vào lề, không dụi mắt, rửa sạch và khi nào phải đi khám",
+   "intent": "Người dùng hỏi: «Đang chạy xe máy thì bụi, cát hay mảnh vụn bay vào mắt, cay xè không mở được — dừng thế nào và có nên dụi?». Bài hướng dẫn giảm ga, bật xi nhan tấp vào lề bằng mắt còn lại, không dụi, chớp mắt cho nước mắt cuốn dị vật, rửa bằng nước muối sinh lý hoặc nước sạch, không tự nhỏ thuốc khi chưa có chỉ định, không chạy tiếp khi mắt còn cộm hoặc mờ; dấu hiệu phải đến cơ sở chuyên khoa mắt (dị vật cắm vào mắt, đau nhiều, chảy máu, thị lực giảm) theo hướng dẫn trên Cổng thông tin Sở Y tế Hà Nội (soyte.hanoi.gov.vn); phòng bằng kính mũ, kính mắt khi qua đoạn bụi, và nhắc khoản 2 Điều 59 Luật số 36/2024/QH15. Người đọc là người đi xe máy qua công trường, đường bụi ở Hà Nội, khác bài BLG-03536 (khô mắt, chảy nước mắt vì gió) ở chỗ có dị vật thật trong mắt.",
+   "kw": "bụi bay vào mắt khi đi xe máy",
+   "kw2": [
+    "dị vật vào mắt khi lái xe",
+    "cát bay vào mắt có nên dụi",
+    "rửa mắt khi bị bụi bay vào",
+    "đi khám mắt khi dị vật không ra"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người đi xe máy thuê ở Hà Nội thường qua công trường, đường bụi, đường đê lộng gió",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-018",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Người cao tuổi tự đi xe máy sáng sớm ngày rét đậm ở Hà Nội: nguy cơ đột quỵ, giờ nên ra đường và giữ ấm đầu, cổ, ngực",
+   "intent": "Người dùng hỏi: «Bố mẹ ngoài 60, có huyết áp cao, vẫn quen tự đi xe máy đi chợ, đi tập thể dục lúc sáng sớm ngày rét — có nguy hiểm không và nên thay đổi gì?». Bài dựa trên các khuyến cáo chăm sóc sức khỏe mùa lạnh cho người cao tuổi trên Cổng thông tin Bộ Y tế (moh.gov.vn): không ra ngoài đột ngột khi vừa ngủ dậy, tránh khung giờ lạnh nhất lúc sáng sớm, giữ ấm đầu, cổ, ngực, tay chân, không uống rượu cho ấm, uống thuốc huyết áp đều theo đơn; nhận biết dấu hiệu đột quỵ (méo miệng, yếu một bên người, nói khó) để dừng xe và gọi 115, và nhắc khoản 2 Điều 59 Luật số 36/2024/QH15. Không thay lời khuyên của bác sĩ điều trị. Người đọc là con cái có bố mẹ lớn tuổi tự lái xe máy ở Hà Nội và chính người cao tuổi, khác bài BLG-05315 (bỗng choáng váng khi đang chạy) ở chỗ phòng ngừa theo mùa rét cho người cao tuổi.",
+   "kw": "người cao tuổi đi xe máy trời rét",
+   "kw2": [
+    "đột quỵ khi trời lạnh người già",
+    "giữ ấm đầu cổ khi đi xe máy",
+    "người huyết áp cao đi xe sáng sớm mùa đông",
+    "dấu hiệu đột quỵ khi đang lái xe"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Con cái có bố mẹ ngoài 60 tuổi tự đi xe máy ở Hà Nội và chính người cao tuổi",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-019",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Ngã xe máy bị trầy xước dính đất cát: rửa vết thương thế nào, lúc nào cần tiêm phòng uốn ván và lái tiếp ra sao",
+   "intent": "Người dùng hỏi: «Ngã xe máy bị trầy tay chân, vết thương dính đất cát, có cần đi tiêm uốn ván không hay chỉ cần sát trùng?». Bài dựa trên thông tin về bệnh uốn ván của Cục Y tế dự phòng (vncdc.gov.vn) và Cổng thông tin Bộ Y tế: rửa trôi đất cát bằng nước sạch, sát khuẩn, băng sạch; với vết thương bẩn nên đến cơ sở y tế sớm, tốt nhất trong 24 giờ đầu, để được khám và chỉ định tiêm phòng tùy lịch tiêm trước đây; dấu hiệu nguy hiểm muộn như cứng hàm, khó há miệng; cách cầm lái khi tay đang băng và khi nào nên nhờ người chở, nhắc khoản 2 Điều 59 Luật số 36/2024/QH15. Không tự kê thuốc. Người đọc là người đi xe máy thuê ở Hà Nội vừa ngã nhẹ, khác bài BLG-05322 (túi sơ cứu mang theo) ở chỗ quyết định có cần tiêm phòng sau vết trầy bẩn.",
+   "kw": "ngã xe có cần tiêm uốn ván",
+   "kw2": [
+    "rửa vết trầy xước khi ngã xe máy",
+    "vết thương dính đất cát tiêm uốn ván",
+    "tiêm uốn ván trong 24 giờ",
+    "lái xe khi tay đang băng vết thương"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người đi xe máy thuê ở Hà Nội vừa ngã nhẹ, bị trầy xước tay chân",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-020",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Vừa mổ đục thủy tinh thể bằng phaco: bao lâu tự lái xe máy lại, nhìn chói ban đêm và hỏi gì khi tái khám",
+   "intent": "Người dùng hỏi: «Bố mẹ vừa mổ đục thủy tinh thể bằng phương pháp phaco, bao lâu thì tự lái xe máy được và cần chú ý gì?». Bài giải thích theo hướng dẫn chăm sóc sau mổ của Bệnh viện Mắt Trung ương (vnio.vn): không tự lái trong ngày mổ, thị lực mỗi người hồi phục khác nhau, cần tái khám đúng hẹn và hỏi bác sĩ trước khi lái lại; lưu ý chói đèn ban đêm, gió bụi, đeo kính bảo vệ, bắt đầu bằng chặng ngắn ban ngày khi mới lái lại; nhắc khoản 2 Điều 59 Luật số 36/2024/QH15 về sức khỏe phù hợp. Không đưa mốc ngày cố định thay bác sĩ. Người đọc là người lớn tuổi ở Hà Nội và con cái đưa đón, khác bài BLG-05537 (sau phẫu thuật nhỏ nói chung) và BLG-05309 (khám mắt, nhỏ thuốc mắt) ở chỗ sau phẫu thuật thay thủy tinh thể.",
+   "kw": "mổ phaco bao lâu đi xe máy",
+   "kw2": [
+    "sau mổ phaco có đi xe máy được không",
+    "nhìn chói sau mổ thủy tinh thể",
+    "tránh gió bụi sau mổ mắt",
+    "người già mổ mắt tự lái xe máy"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người lớn tuổi ở Hà Nội vừa mổ đục thủy tinh thể và con cái đưa đón đi tái khám",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-021",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Hay bị rối loạn tiền đình, chóng mặt khi quay đầu: có nên tự đi xe máy, dấu hiệu sắp lên cơn và khi nào phải dừng xe",
+   "intent": "Người dùng hỏi: «Tôi bị rối loạn tiền đình, thỉnh thoảng chóng mặt, buồn nôn khi quay đầu hay đứng dậy nhanh — vẫn đi xe máy hằng ngày có được không?». Bài giải thích theo thông tin trên Cổng thông tin Sở Y tế Hà Nội (rối loạn tiền đình là hội chứng cần tìm nguyên nhân) và Cổng thông tin Bộ Y tế (chóng mặt kéo dài có thể do bệnh lý mạch máu não, thuốc chống chóng mặt có thể gây buồn ngủ): đi khám để biết nguyên nhân, không lái khi đang có cơn hoặc vừa uống thuốc gây buồn ngủ, nhận biết dấu hiệu báo trước để tấp vào lề, tập quan sát bằng gương thay cho động tác ngoái đầu đột ngột, nhờ người chở khi cơn tái phát, nhắc khoản 2 Điều 59 Luật số 36/2024/QH15. Người đọc là người đi làm bằng xe máy thuê ở Hà Nội có tiền sử chóng mặt, khác bài BLG-05315 (choáng váng bất ngờ lần đầu) và BLG-05305 (hoa mắt khi đứng dậy) ở chỗ bệnh lý tái phát đã biết.",
+   "kw": "rối loạn tiền đình đi xe máy",
+   "kw2": [
+    "chóng mặt tiền đình khi lái xe",
+    "uống thuốc tiền đình rồi đi xe máy",
+    "dấu hiệu sắp chóng mặt khi đi xe",
+    "quay đầu nhìn điểm mù bị chóng mặt"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người đi làm bằng xe máy thuê ở Hà Nội có tiền sử rối loạn tiền đình, chóng mặt tái phát",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29G-022",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Người bị hen phế quản đi xe máy ở Hà Nội mùa lạnh, ngày bụi mịn: xem chỉ số không khí, khẩu trang và thuốc mang theo",
+   "intent": "Người dùng hỏi: «Mình bị hen phế quản, mùa đông Hà Nội vừa lạnh vừa nhiều bụi mịn, đi xe máy đi làm thì cần chuẩn bị gì và nếu lên cơn giữa đường thì làm sao?». Bài dựa trên khuyến cáo bảo vệ sức khỏe trước ô nhiễm không khí của Bộ Y tế (nhóm nhạy cảm gồm người bệnh hô hấp, giảm hoạt động ngoài trời khi chỉ số chất lượng không khí xấu, dùng khẩu trang ngăn được bụi mịn): xem chỉ số không khí trước khi đi, chọn giờ và đường ít khói xe, giữ ấm mũi họng, mang thuốc theo đơn của bác sĩ ở chỗ lấy được nhanh, dấu hiệu khó thở phải dừng xe ngay và gọi 115, nhắc khoản 2 Điều 59 Luật số 36/2024/QH15. Không hướng dẫn dùng thuốc. Người đọc là người có bệnh hô hấp thuê xe máy đi lại ở Hà Nội, khác bài BLG-00340 (ngày ô nhiễm nặng nói chung) ở chỗ dành cho người có bệnh nền hô hấp.",
+   "kw": "người bị hen đi xe máy",
+   "kw2": [
+    "hen suyễn đi xe máy ngày ô nhiễm",
+    "khẩu trang lọc bụi mịn cho người hen",
+    "lên cơn hen khi đang lái xe",
+    "chỉ số AQI xấu có nên đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-29-R29G",
+   "audience": "Người bị hen phế quản hoặc bệnh hô hấp mạn tính đi làm bằng xe máy thuê ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}

@@ -1,0 +1,649 @@
+{
+ "_meta": {
+  "note": "Lo R29E: 32 ung vien cho C-DIEM-DEN(7), C-BAO-TANG(5), C-PHO-CO(6), C-HO-TAY(3), C-LONG-BIEN(3), C-NGOAI-THANH(8). Dia danh/su kien deu kiem ton tai bang WebSearch (bao chi, trang truong/co quan, Wikipedia); moi thuc the chinh da --grep toan matrix (co dau va khong dau) va chi giu thuc the chua co bai hoac goc cau hoi khac han; khong ghi gio mo cua/gia ve/le phi; ten phuong/xa sau sap xep 2025 writer can doi chieu; chay topic_check.py (G1-G9 + intent gan trung + route) va doc tay moi WARN.",
+  "created": "2026-10-29",
+  "source": "coordinator topic expansion 2026-10-29 theo docs/TAXONOMY.md, gate G1-G9"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-001",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chùa Pháp Vân ở số 1299 Giải Phóng bằng xe máy: ngôi chùa thờ Tứ Pháp phía nam Hà Nội, lối rẽ vào cổng và chỗ để xe",
+   "intent": "Người dùng hỏi: «Chùa Pháp Vân trên đường Giải Phóng nằm ở đâu, thờ gì và đi xe máy vào cổng thế nào cho an toàn?». Bài giới thiệu chùa Pháp Vân ở phường Hoàng Liệt (tiền thân là chùa Long Hưng, thờ bà Pháp Vân – một trong Tứ Pháp có gốc từ vùng chùa Dâu, khuôn viên được cải tạo dịp 1000 năm Thăng Long theo các nguồn đã công bố), hướng dẫn chạy xe máy trên trục Giải Phóng nhiều xe khách và xe tải, chỗ quay đầu hợp lệ, lối rẽ vào cổng, chỗ để xe, giờ nên đi tránh cao điểm và cách cư xử khi vào chùa; không nêu giờ mở cửa hay khoản phí nào. Người đọc là người đi lễ và người thích chùa cổ ở phía nam thành phố, khác bài chùa Bằng (Linh Tiên tự) ở chỗ đây là ngôi chùa Tứ Pháp nằm ngay mặt trục Giải Phóng với cách tiếp cận riêng.",
+   "kw": "chùa Pháp Vân Giải Phóng",
+   "kw2": [
+    "chùa Pháp Vân Hoàng Liệt",
+    "chùa thờ Tứ Pháp ở Hà Nội",
+    "đi chùa Pháp Vân bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người đi lễ chùa và người thích chùa cổ ở phía nam Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-002",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chùa Đồng Quang trong ngõ 119 Tây Sơn bằng xe máy: ngôi chùa gắn với chiến thắng Đống Đa và chỗ gửi xe ngoài ngõ hẹp",
+   "intent": "Người dùng hỏi: «Chùa Đồng Quang ở đâu, liên quan gì đến trận Đống Đa và đi xe máy vào ngõ có tiện không?». Bài hướng dẫn tìm chùa Đồng Quang trong ngõ 119 Tây Sơn gần gò Đống Đa, kể ngắn mối liên hệ của ngôi chùa với chiến thắng Ngọc Hồi – Đống Đa năm 1789 và lễ cầu siêu được tổ chức tại chùa trong dịp hội Gò Đống Đa theo báo chí, chỉ cách gửi xe ở phố ngoài vì ngõ vào chùa nhỏ, giờ ghé vắng người và cách ứng xử khi vào chùa; không bịa niên đại xây dựng hay số liệu về nghĩa quân. Người đọc là người đi lễ và người thích lịch sử Tây Sơn, khác bài gò Đống Đa và tượng đài Quang Trung ở chỗ tập trung vào ngôi chùa trong ngõ và cách tiếp cận bằng xe máy.",
+   "kw": "chùa Đồng Quang Đống Đa",
+   "kw2": [
+    "chùa Đồng Quang Tây Sơn",
+    "chùa gần gò Đống Đa",
+    "lễ cầu siêu hội Gò Đống Đa"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người đi lễ và người thích lịch sử thời Tây Sơn",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-003",
+   "child_id": "C-DIEM-DEN",
+   "title": "Làng kim hoàn Định Công ven sông Tô Lịch bằng xe máy: tìm đền thờ tổ nghề, xưởng đậu bạc và lối vào làng cũ ở Hoàng Mai",
+   "intent": "Người dùng hỏi: «Làng nghề vàng bạc Định Công bây giờ còn gì để xem và đi xe máy vào làng thế nào?». Bài giới thiệu làng kim hoàn Định Công ven sông Tô Lịch, một trong những làng nghề thủ công nổi tiếng của Thăng Long xưa với nghề đậu bạc và các kỹ thuật trơn, đấu, chạm, đậu, hiện chỉ còn ít hộ giữ nghề, hướng dẫn chạy xe máy từ trục lớn gần nhất vào làng, đỗ xe ở đầu ngõ, cách hỏi thăm đền thờ tổ nghề và xưởng còn làm, xin phép trước khi chụp ảnh thợ; không nêu giá sản phẩm và không khẳng định số hộ làm nghề. Người đọc là người thích làng nghề còn sót lại trong nội đô, khác bài vòng hồ Đền Lừ – hồ Định Công ở chỗ nói về làng nghề kim hoàn chứ không phải đi dạo quanh hồ.",
+   "kw": "làng kim hoàn Định Công",
+   "kw2": [
+    "nghề đậu bạc Định Công",
+    "đền thờ tổ nghề kim hoàn",
+    "làng nghề bạc ở Hoàng Mai"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người thích làng nghề truyền thống trong nội đô Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-004",
+   "child_id": "C-DIEM-DEN",
+   "title": "Thủy cung Times City ở 458 Minh Khai bằng xe máy: đưa trẻ đi xem cá cuối tuần, gửi xe tầng hầm và nên đi khung giờ nào",
+   "intent": "Người dùng hỏi: «Đi thủy cung Times City bằng xe máy với con nhỏ thì gửi xe ở đâu và đi lúc nào cho đỡ đông?». Bài hướng dẫn gia đình chạy xe máy tới trung tâm thương mại Times City trên phố Minh Khai, lối xuống hầm gửi xe máy, tìm đường tới thủy cung ở tầng hầm, chuẩn bị cho trẻ nhỏ (đồ ăn nhẹ, nước, chỗ nghỉ), khung giờ ngày thường và cuối tuần, cách kết hợp ăn uống trong trung tâm rồi về tránh giờ tan tầm trên Minh Khai; giá vé và giờ mở cửa chỉ hướng dẫn xem trên kênh chính thức, không ghi số cụ thể. Người đọc là bố mẹ có con nhỏ ở Hà Nội, khác bài thuê xe máy gần Times City ở chỗ tập trung vào chuyến đi chơi thủy cung chứ không phải việc thuê xe.",
+   "kw": "thủy cung Times City",
+   "kw2": [
+    "đưa trẻ đi thủy cung Times City",
+    "gửi xe máy Times City",
+    "thủy cung trong nhà ở Hà Nội"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "bố mẹ có con nhỏ ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-005",
+   "child_id": "C-DIEM-DEN",
+   "title": "Thiên đường Bảo Sơn bằng xe máy: đường từ trung tâm ra Lê Trọng Tấn, chỗ gửi xe và chia thời gian một ngày với trẻ",
+   "intent": "Người dùng hỏi: «Đi công viên Thiên đường Bảo Sơn bằng xe máy từ nội thành theo đường nào, gửi xe ra sao và chơi cả ngày với trẻ cần chuẩn bị gì?». Bài hướng dẫn các hướng chạy xe máy tới khu vui chơi trên đường Lê Trọng Tấn (An Khánh, Hoài Đức) từ trung tâm và từ Hà Đông, những đoạn nhiều xe tải và công trình, gửi xe ở cổng, chia thời gian trong ngày cho gia đình có trẻ nhỏ, mang nước, mũ, áo thay cho trẻ, giờ về tránh tắc đường; giá vé, giờ mở cửa và ngày nghỉ chỉ khuyên xem trên kênh chính thức của khu vui chơi. Người đọc là gia đình và nhóm bạn trẻ ở Hà Nội, khác bài Công viên Thiên văn học ở Dương Nội ở chỗ đây là khu vui chơi giải trí có trò chơi thu phí.",
+   "kw": "đi Thiên đường Bảo Sơn bằng xe máy",
+   "kw2": [
+    "công viên Thiên đường Bảo Sơn",
+    "khu vui chơi Hoài Đức",
+    "gửi xe Thiên đường Bảo Sơn"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "gia đình có trẻ nhỏ và nhóm bạn trẻ ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-006",
+   "child_id": "C-DIEM-DEN",
+   "title": "Sân trượt băng trong Royal City bằng xe máy: gửi xe hầm, mang găng tay, tất dày và đi giờ nào cho trẻ tập trượt đỡ đông",
+   "intent": "Người dùng hỏi: «Đi trượt băng ở Royal City bằng xe máy thì gửi xe ở đâu, cần mang gì và đi giờ nào đỡ đông?». Bài hướng dẫn chạy xe máy tới trung tâm thương mại Royal City (72A Nguyễn Trãi), xuống hầm gửi xe rồi tìm sân băng ở tầng hầm, chuẩn bị găng tay, tất dày, áo ấm và quần áo thay, lưu ý an toàn cho trẻ lần đầu tập trượt, khung giờ ngày thường và cuối tuần, cách giữ ấm khi chạy xe về sau buổi trượt; không nêu giá vé hay giờ mở cửa, chỉ hướng dẫn hỏi tại quầy hoặc kênh chính thức. Người đọc là phụ huynh, học sinh và nhóm bạn trẻ, khác bài trung tâm nghệ thuật VCCA ở Royal City ở chỗ nói về hoạt động trượt băng.",
+   "kw": "sân trượt băng Royal City",
+   "kw2": [
+    "trượt băng ở Hà Nội",
+    "đưa trẻ đi trượt băng",
+    "gửi xe máy Royal City"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "phụ huynh có con tuổi học sinh và nhóm bạn trẻ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-007",
+   "child_id": "C-DIEM-DEN",
+   "title": "Cho trẻ đi tàu điện Cát Linh – Hà Đông một vòng cuối tuần: gửi xe máy gần ga nào, đi quãng nào và lên xuống ga ra sao",
+   "intent": "Người dùng hỏi: «Muốn cho con đi thử tàu điện trên cao Cát Linh – Hà Đông thì gửi xe máy ở đâu và đi đoạn nào cho vừa sức trẻ?». Bài hướng dẫn phụ huynh chạy xe máy tới một ga đầu tuyến hoặc ga có điểm trông giữ xe gần đó, không dừng đỗ dưới chân ga hay trên vỉa hè cấm, chọn quãng đi vài ga rồi quay lại, mua vé và qua cửa soát vé theo hướng dẫn tại ga, giữ trẻ an toàn ở sân ga và thang cuốn, giờ vắng nên đi, rồi lấy xe về; không ghi giá vé hay phí gửi xe vì có thể thay đổi. Người đọc là gia đình có con nhỏ ở Hà Nội, khác bài chọn tàu điện hay xe máy đi làng lụa Vạn Phúc ở chỗ chuyến tàu chính là trải nghiệm vui chơi chứ không phải phương tiện đi tới một điểm khác.",
+   "kw": "đi tàu điện Cát Linh cuối tuần",
+   "kw2": [
+    "gửi xe máy ga Cát Linh",
+    "cho trẻ đi tàu trên cao",
+    "tàu điện Cát Linh Hà Đông"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "gia đình có con nhỏ ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-008",
+   "child_id": "C-BAO-TANG",
+   "title": "Bảo tàng Nhân học trong Trường Đại học Khoa học Xã hội và Nhân văn, 336 Nguyễn Trãi: liên hệ trước, gửi xe và xem gì",
+   "intent": "Người dùng hỏi: «Bảo tàng Nhân học ở 336 Nguyễn Trãi có cho người ngoài vào xem không và đi xe máy vào trường thì gửi xe ở đâu?». Bài giới thiệu bảo tàng ở tầng 3–4 nhà D trong khuôn viên Trường Đại học Khoa học Xã hội và Nhân văn, nơi lưu giữ và xử lý hiện vật từ các đợt khai quật, điền dã, phục vụ chủ yếu sinh viên và nhà nghiên cứu, khuyên liên hệ trước qua kênh chính thức của bảo tàng, hướng dẫn chạy xe máy trên trục Nguyễn Trãi đông xe, rẽ vào cổng trường và hỏi bảo vệ chỗ gửi xe, cách cư xử trong khuôn viên trường; không ghi giờ mở cửa hay vé. Người đọc là sinh viên, giáo viên và người mê khảo cổ, khác bài Bảo tàng Dân tộc học ở chỗ đây là bảo tàng đại học quy mô nhỏ cần hẹn trước.",
+   "kw": "bảo tàng Nhân học 336 Nguyễn Trãi",
+   "kw2": [
+    "bảo tàng trong trường đại học",
+    "bảo tàng Nhân học Thanh Xuân",
+    "hiện vật khảo cổ ở Hà Nội"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "sinh viên, giáo viên và người yêu khảo cổ học",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-009",
+   "child_id": "C-BAO-TANG",
+   "title": "Bảo tàng Binh chủng Thông tin ở 1 Giang Văn Minh bằng xe máy: khu trưng bày ngoài trời và ghép điểm gần Đội Cấn",
+   "intent": "Người dùng hỏi: «Bảo tàng Binh chủng Thông tin ở đâu, có gì xem và đi xe máy tới thì để xe chỗ nào?». Bài giới thiệu bảo tàng của Binh chủng Thông tin liên lạc thành lập năm 1985 ở số 1 Giang Văn Minh (Ba Đình), các phòng trưng bày tài liệu, hiện vật và khu ngoài trời đặt phương tiện thông tin cỡ lớn, hướng dẫn chạy xe máy qua Kim Mã hoặc Đội Cấn vào phố Giang Văn Minh, chỗ dừng xe, quy định chụp ảnh ở bảo tàng quân đội và cách ghép với bảo tàng Chiến thắng B-52 hay chùa Kim Sơn gần đó; lịch mở cửa chỉ khuyên kiểm tra trước, không khẳng định. Người đọc là người thích lịch sử quân sự và học sinh làm bài tìm hiểu, khác bài Bảo tàng Công binh hay Tăng – Thiết giáp ở chỗ đây là bảo tàng của ngành thông tin liên lạc quân đội.",
+   "kw": "bảo tàng Binh chủng Thông tin",
+   "kw2": [
+    "bảo tàng thông tin liên lạc Hà Nội",
+    "bảo tàng phố Giang Văn Minh",
+    "bảo tàng quân sự Ba Đình"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người thích lịch sử quân sự, học sinh và phụ huynh",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-010",
+   "child_id": "C-BAO-TANG",
+   "title": "Thư viện Hà Nội ở 47 Bà Triệu bằng xe máy: làm thẻ đọc, ngồi đọc cả buổi và gửi xe quanh phố Bà Triệu đông đúc",
+   "intent": "Người dùng hỏi: «Muốn vào Thư viện Hà Nội ngồi đọc sách thì làm thẻ thế nào và đi xe máy gửi xe ở đâu quanh phố Bà Triệu?». Bài hướng dẫn những gì nên mang khi đăng ký thẻ (giấy tờ tùy thân, hỏi thủ tục và lệ phí tại quầy), cách dùng phòng đọc và giữ trật tự, chỗ gửi xe quanh số 47 Bà Triệu và lưu ý khi dừng xe trên phố đông, giờ đi tránh tan tầm, cơ sở thứ hai ở 2B Quang Trung (Hà Đông) cho người ở phía tây thành phố; không ghi giờ mở cửa hay lệ phí cụ thể vì các nguồn chưa thống nhất. Người đọc là sinh viên, người ôn thi và người thích đọc sách, khác bài thuê xe một tuần đi tra cứu tài liệu ở chỗ tập trung vào việc sử dụng Thư viện Hà Nội.",
+   "kw": "Thư viện Hà Nội 47 Bà Triệu",
+   "kw2": [
+    "làm thẻ Thư viện Hà Nội",
+    "chỗ đọc sách yên tĩnh ở Hà Nội",
+    "Thư viện Hà Nội cơ sở Hà Đông"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "sinh viên, người ôn thi và người thích đọc sách",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-011",
+   "child_id": "C-BAO-TANG",
+   "title": "Đền thờ Chu Văn An ở Thanh Liệt bên sông Tô Lịch: đi xe máy viếng trước mùa thi và không nhầm với đền ở Chí Linh",
+   "intent": "Người dùng hỏi: «Ở Hà Nội có nơi thờ thầy giáo Chu Văn An không, nằm ở đâu và đi xe máy tới thế nào?». Bài giới thiệu nơi thờ Chu Văn An ở xã Thanh Liệt (Thanh Trì) bên bờ sông Tô Lịch, vùng quê gắn với ông theo nhiều nguồn, phân biệt với đền thờ ở núi Phượng Hoàng (Chí Linh), hướng dẫn chạy xe máy từ các trục phía tây nam vào làng, đỗ xe trong làng, chuẩn bị lễ đơn giản và cách cư xử khi học sinh, phụ huynh đến viếng trước kỳ thi; không hứa hẹn điều tâm linh, không bịa cấp xếp hạng hay niên đại. Người đọc là học sinh, phụ huynh và giáo viên, khác bài Văn Miếu – Quốc Tử Giám ở chỗ đây là nơi thờ riêng danh nhân Chu Văn An ở quê ông.",
+   "kw": "đền thờ Chu Văn An Thanh Liệt",
+   "kw2": [
+    "viếng thầy Chu Văn An ở Hà Nội",
+    "đi lễ trước kỳ thi ở Hà Nội",
+    "đền Chu Văn An Thanh Trì"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "học sinh, phụ huynh và giáo viên ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-012",
+   "child_id": "C-BAO-TANG",
+   "title": "Thư viện của Trung tâm Giao lưu Văn hóa Nhật Bản ở 27 Quang Trung: đi xe máy đến đọc sách, xem sự kiện và gửi xe gần đó",
+   "intent": "Người dùng hỏi: «Thư viện của Trung tâm Giao lưu Văn hóa Nhật Bản ở Quang Trung có cho người ngoài vào đọc không và đi xe máy để xe ở đâu?». Bài giới thiệu thư viện sách, tạp chí, tài liệu về Nhật Bản trong trung tâm ở 27 Quang Trung, việc ngồi đọc tại chỗ và đăng ký thẻ nếu muốn mượn sách theo quy định của trung tâm, các buổi sự kiện văn hóa được thông báo trên kênh chính thức, hướng dẫn chạy xe máy vào phố Quang Trung, chỗ gửi xe gần đó và ghép với các điểm quanh Hồ Gươm; giờ mở cửa chỉ khuyên xem trang chính thức của trung tâm, không chép lại. Người đọc là người học tiếng Nhật, sinh viên và người yêu văn hóa Nhật, khác bài Trung tâm Văn hóa Pháp L'Espace ở chỗ đây là thư viện và hoạt động văn hóa Nhật Bản.",
+   "kw": "thư viện Nhật Bản 27 Quang Trung",
+   "kw2": [
+    "Japan Foundation Hà Nội",
+    "sách tiếng Nhật ở Hà Nội",
+    "chỗ đọc sách tiếng Nhật"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người học tiếng Nhật, sinh viên và người yêu văn hóa Nhật",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-013",
+   "child_id": "C-PHO-CO",
+   "title": "Tết Việt – Tết Phố ở phố cổ dịp Tết Đinh Mùi 2027: xem gói bánh chưng, ông đồ cho chữ và gửi xe máy ở rìa phố",
+   "intent": "Người dùng hỏi: «Dịp Tết năm nay phố cổ có chương trình Tết Việt – Tết Phố không, xem ở đâu và đi xe máy thì gửi xe thế nào?». Bài giới thiệu chương trình thường niên do Ban quản lý hồ Hoàn Kiếm và phố cổ tổ chức trước Tết (các năm gần đây khai mạc ở trung tâm văn hóa nghệ thuật trên phố Hàng Buồm, có tái hiện nghi lễ ở đình Kim Ngân, gói bánh chưng, ông đồ cho chữ, trưng bày tranh dân gian), khuyên theo dõi lịch năm Đinh Mùi 2027 trên kênh chính thức, hướng dẫn gửi xe ở rìa phố cổ rồi đi bộ, giờ đi tránh tối cuối tuần đông người; không bịa ngày khai mạc hay địa điểm năm 2027. Người đọc là gia đình và người trẻ muốn tìm không khí Tết truyền thống, khác bài chợ hoa Hàng Lược ở chỗ nói về chương trình trải nghiệm văn hóa Tết chứ không phải mua hoa.",
+   "kw": "Tết Việt Tết Phố ở phố cổ",
+   "kw2": [
+    "không gian Tết xưa phố cổ",
+    "gói bánh chưng ở phố cổ",
+    "Tết Đinh Mùi 2027 ở Hà Nội"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "gia đình và người trẻ muốn đón Tết truyền thống ở phố cổ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-014",
+   "child_id": "C-PHO-CO",
+   "title": "Hội quán Phúc Kiến trên phố Lãn Ông bằng xe máy: nơi thờ Thiên Hậu và vì sao phố thuốc bắc từng mang tên Phúc Kiến",
+   "intent": "Người dùng hỏi: «Hội quán Phúc Kiến ở phố Lãn Ông là gì, có vào xem được không và đi xe máy thì để xe ở đâu?». Bài giới thiệu hội quán do người Hoa gốc Phúc Kiến dựng để thờ Thiên Hậu và làm nơi hội họp, đã được xếp hạng di tích theo các nghiên cứu, kể việc phố Lãn Ông từng được gọi là phố Phúc Kiến, hướng dẫn gửi xe ở đầu phố hoặc phố lân cận vì Lãn Ông hẹp và nhiều xe chở hàng, cách vào xem lịch sự, nối với hội quán Quảng Đông trên phố Hàng Buồm; không ghi giờ mở cửa cụ thể. Người đọc là khách thích kiến trúc tín ngưỡng của người Hoa, khác bài phố thuốc bắc Lãn Ông ở chỗ tập trung vào di tích hội quán chứ không phải việc mua dược liệu.",
+   "kw": "hội quán Phúc Kiến Lãn Ông",
+   "kw2": [
+    "phố Phúc Kiến xưa",
+    "nơi thờ Thiên Hậu ở Hà Nội",
+    "dấu tích người Hoa trong phố cổ"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "khách thích di tích và kiến trúc người Hoa trong phố cổ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-015",
+   "child_id": "C-PHO-CO",
+   "title": "Xem cải lương ở rạp Chuông Vàng, 72 Hàng Bạc bằng xe máy: xem lịch diễn, gửi xe ở rìa phố cổ và về khuya sau suất diễn",
+   "intent": "Người dùng hỏi: «Rạp Chuông Vàng ở Hàng Bạc còn diễn cải lương không và đi xe máy buổi tối thì để xe ở đâu?». Bài giới thiệu rạp hát lâu đời gắn với sân khấu cải lương Hà Nội, nơi Nhà hát Cải lương Hà Nội đóng và tổ chức các suất diễn, khuyên xem lịch diễn và hỏi vé qua kênh của nhà hát, hướng dẫn gửi xe ở bãi rìa phố cổ, kiểm tra phạm vi phố đi bộ tối cuối tuần trước khi đi, đến trước giờ mở màn, chở người lớn tuổi về khuya an toàn; không ghi giá vé hay lịch diễn. Người đọc là người lớn tuổi mê cải lương và người trẻ muốn thử nghệ thuật truyền thống, khác bài đi xem kịch, chèo, cải lương nói chung ở chỗ tập trung vào rạp Chuông Vàng giữa phố cổ.",
+   "kw": "rạp Chuông Vàng Hàng Bạc",
+   "kw2": [
+    "xem cải lương ở phố cổ",
+    "Nhà hát Cải lương Hà Nội",
+    "rạp hát cổ phố Hàng Bạc"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người lớn tuổi mê cải lương và người trẻ thích nghệ thuật truyền thống",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-016",
+   "child_id": "C-PHO-CO",
+   "title": "Mua trang sức bạc ở phố Hàng Bạc bằng xe máy: cửa hàng hay xưởng nhận làm, hỏi hàm lượng bạc và gửi xe trong phố hẹp",
+   "intent": "Người dùng hỏi: «Mua nhẫn, vòng bạc ở phố Hàng Bạc có nên không, chọn cửa hàng thế nào và đi xe máy gửi xe ở đâu?». Bài hướng dẫn những điều cần hỏi khi mua trang sức bạc (hàm lượng, ký hiệu khắc, hóa đơn, điều kiện đổi trả), phân biệt cửa hàng bán lẻ với xưởng nhận làm theo yêu cầu, gửi xe ở bãi trong ngõ hay phố lân cận, cất đồ có giá trị khi chạy xe, ghép với đình Kim Ngân – nơi thờ tổ nghề kim hoàn trên cùng con phố; không nêu giá. Người đọc là người mua quà và khách du lịch, khác bài phố nghề còn giữ nghề thật ở chỗ tập trung vào kinh nghiệm mua bạc ở Hàng Bạc.",
+   "kw": "mua trang sức bạc Hàng Bạc",
+   "kw2": [
+    "phố Hàng Bạc bán gì",
+    "chọn nhẫn bạc ở phố cổ",
+    "hàm lượng bạc trang sức"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người mua quà tặng và khách du lịch",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-017",
+   "child_id": "C-PHO-CO",
+   "title": "Mua bánh mứt kẹo Tết ở phố Hàng Buồm, Hàng Giầy bằng xe máy: đi giờ nào, chọn hàng có nhãn và chở túi lớn về không bẹp",
+   "intent": "Người dùng hỏi: «Cận Tết đi phố Hàng Buồm mua bánh mứt kẹo bằng xe máy thì đi lúc nào, chọn hàng ra sao và chở về thế nào?». Bài hướng dẫn chọn ngày, giờ đi tránh những ngày sát Tết đông nhất, đọc nhãn, hạn dùng và nguồn gốc vì báo chí từng cảnh báo hàng kém chất lượng lẫn vào mùa Tết, gửi xe ở đầu phố thay vì dừng giữa dòng người mua, xếp hộp và túi to trên xe máy không bẹp, không che tầm nhìn; không nêu giá cụ thể. Người đọc là người nội trợ và người mua quà biếu dịp Tết Đinh Mùi 2027, khác bài mua ô mai Hàng Đường ở chỗ tập trung vào mua bánh kẹo Tết số lượng nhiều.",
+   "kw": "mua bánh kẹo Tết Hàng Buồm",
+   "kw2": [
+    "phố bánh kẹo Hà Nội",
+    "mứt Tết phố cổ",
+    "Hàng Giầy bánh kẹo Tết"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người nội trợ và người mua quà biếu Tết",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-018",
+   "child_id": "C-PHO-CO",
+   "title": "Đêm đếm ngược 31/12 quanh Hồ Gươm bằng xe máy: cấm đường từ chiều, gửi xe ngoài vùng cấm và về nhà an toàn sau 0 giờ",
+   "intent": "Người dùng hỏi: «Đêm 31/12 ra Hồ Gươm xem đếm ngược đón năm mới bằng xe máy thì gửi xe ở đâu và về thế nào?». Bài hướng dẫn theo dõi thông báo cấm đường, phân luồng của thành phố cho đêm 31/12/2026 (các năm trước cấm nhiều nút quanh quảng trường Đông Kinh Nghĩa Thục từ chiều), chọn bãi gửi xe ngoài vùng cấm và hỏi giờ bãi đóng, giữ đồ trong đám đông, hẹn điểm gặp khi lạc nhau, chạy xe về khuya và không lái xe sau khi uống rượu bia; không bịa sân khấu hay chương trình năm 2026. Người đọc là người trẻ và gia đình muốn đón năm mới dương lịch ở trung tâm, khác bài đêm giao thừa xem pháo hoa Hồ Gươm ở chỗ đây là đêm Tết Dương lịch với phương án phân luồng riêng.",
+   "kw": "đêm đếm ngược 31/12 Hồ Gươm",
+   "kw2": [
+    "countdown Hồ Gươm",
+    "đón năm mới dương lịch ở Hà Nội",
+    "cấm đường đêm 31/12"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người trẻ và gia đình đón năm mới dương lịch",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-019",
+   "child_id": "C-HO-TAY",
+   "title": "Chùa Hoằng Ân (chùa Quảng Bá) ở ngõ 12 Đặng Thai Mai bằng xe máy: tấm bia gắn với vua Thiệu Trị và lối vào làng",
+   "intent": "Người dùng hỏi: «Chùa Quảng Bá (Hoằng Ân tự) ở Tây Hồ nằm đâu, có gì đặc biệt và đi xe máy vào ngõ có tiện không?». Bài giới thiệu ngôi chùa trong ngõ 12 Đặng Thai Mai, các lần đổi tên từ Long Ân, Sùng Ân đến Hoằng Ân và tấm bia liên quan đến việc vua Thiệu Trị ghé chùa năm 1842 theo nghiên cứu đã công bố, hướng dẫn chạy xe vào ngõ hẹp, chỗ để xe, cách cư xử khi vào chùa, ghép với Phủ Tây Hồ và chợ hoa Quảng Bá gần đó; không bịa giờ mở cửa hay cấp xếp hạng. Người đọc là người thích chùa cổ ven Hồ Tây, khác bài chợ hoa Quảng Bá và chùa Kim Liên ở chỗ nói về một ngôi chùa ít người biết trong làng Quảng Bá.",
+   "kw": "chùa Hoằng Ân Quảng Bá",
+   "kw2": [
+    "chùa Quảng Bá Tây Hồ",
+    "chùa cổ ngõ Đặng Thai Mai",
+    "bia ngự chế chùa Hoằng Ân"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người thích chùa cổ và di tích ven Hồ Tây",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-020",
+   "child_id": "C-HO-TAY",
+   "title": "Lễ hội đình Nhật Tân tháng Hai âm lịch bằng xe máy: xem rước kiệu, nghi lễ rước nước và chỗ gửi xe trong làng đào",
+   "intent": "Người dùng hỏi: «Lễ hội đình Nhật Tân diễn ra khi nào, có gì đáng xem và đi xe máy gửi xe ở đâu?». Bài giới thiệu lễ hội đình Nhật Tân được công nhận di sản văn hóa phi vật thể quốc gia năm 2025, đình thờ Uy Linh Lang – danh tướng thời Trần, lịch hội vào tháng Hai âm lịch với đại lễ rước ngày 10 tháng Hai âm lịch theo báo chí, nghi thức rước nước sông Hồng, cách đứng xem không cản đoàn rước, gửi xe ở bãi trong làng và chạy xe trong ngõ hẹp ngày hội; khuyên xác nhận lịch năm 2027 với địa phương. Người đọc là người thích lễ hội làng ven Hồ Tây, khác bài vườn đào Nhật Tân ở chỗ nói về lễ hội đình làng chứ không phải mùa hoa.",
+   "kw": "lễ hội đình Nhật Tân",
+   "kw2": [
+    "đình Nhật Tân thờ Uy Linh Lang",
+    "di sản phi vật thể ở Tây Hồ",
+    "rước kiệu làng Nhật Tân"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người thích lễ hội làng truyền thống",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-021",
+   "child_id": "C-HO-TAY",
+   "title": "Thủy cung Lotte ở Tây Hồ bằng xe máy: đưa trẻ xem chim cánh cụt, sư tử biển và sắp lịch nửa ngày trong Lotte Mall",
+   "intent": "Người dùng hỏi: «Đưa con đi thủy cung Lotte ở Tây Hồ bằng xe máy thì có gì xem, mất bao lâu và nên đi lúc nào?». Bài giới thiệu thủy cung trong nhà mở cửa năm 2023 tại Lotte Mall Tây Hồ (272 Võ Chí Công) với lộ trình kể theo truyền thuyết cá Ông, bể kính lớn, chim cánh cụt và sư tử biển theo thông tin đã công bố, gợi ý chia thời gian nửa ngày cho trẻ nhỏ, khung giờ đỡ đông, kết hợp ăn uống rồi ra ven Hồ Tây; phần đường vào hầm gửi xe chỉ nhắc ngắn và dẫn sang bài Lotte Mall, không ghi giá vé hay giờ mở cửa. Người đọc là bố mẹ có con nhỏ, khác bài Lotte Mall Tây Hồ ở chỗ tập trung vào trải nghiệm thủy cung chứ không phải đường vào trung tâm thương mại.",
+   "kw": "thủy cung Lotte Tây Hồ",
+   "kw2": [
+    "Lotte World Aquarium Hà Nội",
+    "đưa trẻ đi thủy cung ở Tây Hồ",
+    "chim cánh cụt ở Hà Nội"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "bố mẹ có con nhỏ ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-022",
+   "child_id": "C-LONG-BIEN",
+   "title": "Đình Thanh Am ở Thượng Thanh bằng xe máy: nơi thờ Trạng Trình Nguyễn Bỉnh Khiêm, chùa Động Linh và lễ rước nước",
+   "intent": "Người dùng hỏi: «Đình Thanh Am ở Long Biên thờ ai, có gì đẹp và đi xe máy từ Bồ Đề tới thế nào?». Bài giới thiệu cụm đình chùa Thanh Am ở phường Thượng Thanh được xếp hạng di tích quốc gia năm 1990, đình thờ Trạng Trình Nguyễn Bỉnh Khiêm cùng các tướng thời Hai Bà Trưng, kiến trúc đại đình, phương đình hai tầng tám mái, chùa Động Linh trên phố Thanh Am, nghi thức rước nước trong hội làng theo báo chí, hướng dẫn chạy xe máy theo trục Ngô Gia Tự lên Thượng Thanh, chỗ để xe và cách vào đình; không bịa ngày hội chính xác. Người đọc là người ở Long Biên và khách thích đình làng cổ, khác bài cụm đình chùa Trường Lâm ở chỗ đây là di tích thờ Trạng Trình.",
+   "kw": "đình Thanh Am Long Biên",
+   "kw2": [
+    "đình thờ Trạng Trình ở Hà Nội",
+    "chùa Thanh Am Thượng Thanh",
+    "lễ rước nước Thanh Am"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người ở Long Biên và người thích đình làng cổ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-023",
+   "child_id": "C-LONG-BIEN",
+   "title": "Chùa Quán Tình và đình Quán Tình ở Giang Biên bằng xe máy: cụm di tích ven sông Đuống thờ tướng Nguyễn Nộn",
+   "intent": "Người dùng hỏi: «Chùa Quán Tình ở Giang Biên nằm đâu, có gì để xem và đi xe máy vào có khó không?». Bài giới thiệu cụm chùa (còn gọi Thái Linh quán) và đình Quán Tình ở phường Giang Biên gần sông Đuống, đình thờ thành hoàng Nguyễn Nộn – tướng cuối thời Lý đầu thời Trần, chùa có dấu vết kiến trúc từ khoảng thế kỷ XVII theo nghiên cứu Phật học đã đăng, hướng dẫn chạy xe máy từ Bồ Đề hoặc Việt Hưng lên Giang Biên, đi đường làng, chỗ để xe, ghép với một đoạn đê sông Đuống; không bịa năm xếp hạng hay ngày hội. Người đọc là người ở Long Biên và người thích di tích làng ven sông, khác bài chạy xe dọc đê sông Đuống phía Gia Lâm ở chỗ tập trung vào cụm di tích Quán Tình.",
+   "kw": "chùa Quán Tình Giang Biên",
+   "kw2": [
+    "đình Quán Tình thờ Nguyễn Nộn",
+    "Thái Linh quán Long Biên",
+    "di tích ven sông Đuống"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người ở Long Biên và người thích di tích làng ven sông",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-024",
+   "child_id": "C-LONG-BIEN",
+   "title": "Đình Bắc Biên thờ Lý Thường Kiệt và đình Gia Thượng ở Ngọc Thụy: nửa buổi xe máy qua hai đình làng ven sông",
+   "intent": "Người dùng hỏi: «Ở Ngọc Thụy có đình làng cổ nào để ghé, đình Bắc Biên thờ ai và đi xe máy thế nào?». Bài giới thiệu đình làng Bắc Biên (có nguồn ghi là đình Phúc Xá; khu Ngọc Thụy cũ, cần ghi thêm tên phường mới sau sắp xếp nếu đã đổi) thờ Thái úy Lý Thường Kiệt cùng các vị thần, lễ giỗ mùng 2 tháng Sáu âm lịch theo báo chí, và đình Gia Thượng dựng lại trên nền cũ ngoài đê, thờ Linh Lang Đại Vương cùng các thành hoàng, hướng dẫn chạy xe dọc đê Ngọc Thụy, lối xuống làng, đỗ xe trước cổng đình, việc đình chỉ mở theo dịp nên hỏi người trông coi; không bịa niên đại hay cấp xếp hạng. Người đọc là người ở Long Biên và người thích lịch sử thời Lý, khác bài chạy xe dọc đê Ngọc Thụy ở chỗ tập trung vào hai di tích làng.",
+   "kw": "đình Bắc Biên Ngọc Thụy",
+   "kw2": [
+    "đình thờ Lý Thường Kiệt ở Long Biên",
+    "đình Gia Thượng Long Biên",
+    "làng Bắc Biên"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người ở Long Biên và người thích lịch sử thời Lý",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-025",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Lễ hội Cổ Loa mùng 6 tháng Giêng bằng xe máy: xem các làng rước kiệu về đền Thượng, đi từ sớm và gửi xe ngày đông",
+   "intent": "Người dùng hỏi: «Lễ hội Cổ Loa đầu xuân diễn ra hôm nào, có gì xem và đi xe máy gửi xe thế nào cho đỡ kẹt?». Bài giới thiệu hội đền Cổ Loa tưởng nhớ An Dương Vương với ngày chính hội mùng 6 tháng Giêng, đoàn rước kiệu của các làng trong Bát xã hội nhi về đền Thượng từ sáng sớm theo báo chí, hướng dẫn xuất phát sớm từ nội thành qua cầu sang Đông Anh, gửi xe ở bãi ngoài khu di tích rồi đi bộ vào, giữ đồ và trẻ nhỏ trong đám đông, về sớm tránh dòng xe chiều; khuyên kiểm tra phân luồng của địa phương dịp Tết Đinh Mùi 2027. Người đọc là người dân và gia đình muốn đi hội đầu xuân, khác bài đi thành Cổ Loa ngày thường ở chỗ tập trung vào ngày hội.",
+   "kw": "lễ hội Cổ Loa mùng 6 tháng Giêng",
+   "kw2": [
+    "hội đền Cổ Loa",
+    "rước kiệu bát xã Cổ Loa",
+    "lễ hội đầu xuân Đông Anh"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người dân và gia đình đi hội đầu xuân",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-026",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Hồ Văn Sơn ở Chương Mỹ bằng xe máy: đường đi qua Xuân Mai, chỗ dừng ngắm hồ và lưu ý đường đất ven hồ ngày mưa",
+   "intent": "Người dùng hỏi: «Hồ Văn Sơn ở Chương Mỹ đi đường nào bằng xe máy và có chỗ nào dừng ngắm hồ, ngồi chơi được?». Bài hướng dẫn chạy xe máy từ nội thành qua Hà Đông, Xuân Mai về xã Nam Phương Tiến, các đoạn đường đất và dốc nhỏ quanh hồ, chỗ dừng chân an toàn, tôn trọng đất tư và khu dự án quanh hồ, mang nước và mang rác về, giờ đi về tránh trời tối và tránh ngày mưa; không quảng bá dịch vụ hay giá cả. Người đọc là nhóm bạn và gia đình muốn đi chơi ngắn ở ngoại thành, khác bài hồ Đồng Mô hay hồ Tuy Lai ở chỗ nói riêng về hồ Văn Sơn ở Chương Mỹ.",
+   "kw": "hồ Văn Sơn Chương Mỹ",
+   "kw2": [
+    "đi hồ Văn Sơn",
+    "hồ đẹp gần Hà Nội",
+    "dã ngoại hồ Văn Sơn"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "nhóm bạn trẻ và gia đình đi chơi ngắn ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-027",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Đồi chè Long Phú ở Hòa Thạch, Quốc Oai bằng xe máy: đường lên đồi chè gần Hà Nội, chụp ảnh và mua chè tận vườn",
+   "intent": "Người dùng hỏi: «Gần Hà Nội có đồi chè nào đi trong buổi bằng xe máy không, đồi chè Long Phú đi thế nào?». Bài giới thiệu vùng chè hơn 200 ha ở các thôn Long Phú, Hòa Phú (xã Hòa Thạch, Quốc Oai) theo báo chí địa phương, hướng dẫn chạy xe máy theo Đại lộ Thăng Long rồi rẽ về Hòa Thạch, đi đường đồi hẹp, chỗ dừng chụp ảnh không giẫm luống chè, xin phép chủ vườn, mua chè ở hợp tác xã hoặc hộ trồng, ghép với chùa Thầy hoặc đình So trong cùng vùng Quốc Oai; không nêu giá chè. Người đọc là người trẻ thích chụp ảnh và người mua chè, khác bài đồi chè Tân Cương ở Thái Nguyên ở chỗ đây là đồi chè ngay trong địa phận Hà Nội, đi về trong nửa ngày.",
+   "kw": "đồi chè Long Phú Quốc Oai",
+   "kw2": [
+    "đồi chè gần Hà Nội",
+    "chè Long Phú Hòa Thạch",
+    "chụp ảnh đồi chè Quốc Oai"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người trẻ thích chụp ảnh và người mua chè",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-028",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Đền thờ Trạng Bùng Phùng Khắc Khoan ở Thạch Thất bằng xe máy: khu lăng mộ, bia đá và cách ghép chùa Tây Phương",
+   "intent": "Người dùng hỏi: «Đền thờ Trạng Bùng Phùng Khắc Khoan ở đâu và đi xe máy từ Hà Nội có ghép được với chùa Tây Phương không?». Bài giới thiệu làng Bùng (Phùng Xá, Thạch Thất), quê của Phùng Khắc Khoan (1528–1613) – nhà ngoại giao thời Lê trung hưng được dân gian truyền tụng gắn với việc đưa giống ngô về, khu đền thờ và lăng mộ có bình phong, bia đá do con cháu họ Phùng giữ gìn, hướng dẫn chạy xe máy theo Đại lộ Thăng Long rồi đường tỉnh vào Thạch Thất, đường làng, chỗ để xe, ghép với chùa Tây Phương và đình Hữu Bằng; không bịa giờ mở cửa. Người đọc là người thích danh nhân và học sinh tìm hiểu lịch sử, khác bài đền thờ Nguyễn Trãi ở Nhị Khê ở chỗ nói về Trạng Bùng ở xứ Đoài.",
+   "kw": "đền thờ Trạng Bùng Phùng Khắc Khoan",
+   "kw2": [
+    "làng Bùng Phùng Xá",
+    "lăng mộ Phùng Khắc Khoan",
+    "di tích danh nhân Thạch Thất"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người thích danh nhân lịch sử và học sinh",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-029",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng mộc Vạn Điểm ở Thường Tín bằng xe máy: xem xưởng chạm đồ gỗ, hỏi đặt bàn thờ và vì sao không tự chở đồ gỗ lớn",
+   "intent": "Người dùng hỏi: «Muốn xem hoặc đặt đồ gỗ, bàn thờ ở làng mộc Vạn Điểm thì đi xe máy thế nào và mang đồ về ra sao?». Bài giới thiệu làng mộc lâu đời ở Thường Tín nổi tiếng với đồ gỗ chạm khắc, mùa đông khách đặt đồ thờ trước Tết, hướng dẫn chạy xe máy theo quốc lộ 1A cũ rồi rẽ vào làng, cẩn thận xe tải chở gỗ, bụi và mùn cưa trên đường, cách hỏi xưởng, xem gỗ, thỏa thuận bằng giấy tờ và nhờ giao hàng tận nhà thay vì buộc đồ to lên xe máy; không nêu giá. Người đọc là gia đình chuẩn bị nhà mới hoặc sắm đồ thờ, khác bài làng tiện gỗ Nhị Khê ở chỗ đây là làng đồ gỗ nội thất, đồ thờ cỡ lớn.",
+   "kw": "làng mộc Vạn Điểm Thường Tín",
+   "kw2": [
+    "đồ gỗ Vạn Điểm",
+    "đặt bàn thờ gỗ trước Tết",
+    "làng nghề gỗ phía nam Hà Nội"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "gia đình chuẩn bị nhà mới hoặc sắm đồ thờ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-030",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Văn Miếu Sơn Tây ở làng Mông Phụ bằng xe máy: nơi tôn vinh người đỗ đạt xứ Đoài và ghép với làng cổ Đường Lâm",
+   "intent": "Người dùng hỏi: «Văn Miếu Sơn Tây ở đâu, có gì xem và đi xe máy có ghép được với làng cổ Đường Lâm không?». Bài giới thiệu Văn Miếu của trấn Sơn Tây xưa, được dời về làng Mông Phụ năm 1847, bị tàn phá trong chiến tranh và dựng lại năm 2012, nơi tôn vinh người đỗ đạt xứ Đoài như Thám hoa Giang Văn Minh, lễ khai bút đầu năm do địa phương tổ chức, hướng dẫn chạy xe máy theo quốc lộ 32 hoặc Đại lộ Thăng Long lên Sơn Tây, chỗ để xe và nối với đình Mông Phụ, lăng Ngô Quyền; không bịa giờ mở cửa, khuyên xem lịch khai bút năm 2027. Người đọc là học sinh, phụ huynh và người đi Đường Lâm, khác bài Văn Miếu – Quốc Tử Giám ở chỗ đây là Văn Miếu hàng tỉnh ở Sơn Tây.",
+   "kw": "Văn Miếu Sơn Tây",
+   "kw2": [
+    "Văn Miếu Mông Phụ",
+    "khai bút đầu xuân Sơn Tây",
+    "Văn Miếu xứ Đoài"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "học sinh, phụ huynh và khách đi làng cổ Đường Lâm",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-031",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng dệt len La Phù ở Hoài Đức bằng xe máy: mua áo len, tất trước mùa rét, kiểm tra hàng và tránh giờ xe tải lên hàng",
+   "intent": "Người dùng hỏi: «Đi làng len La Phù mua áo len, tất bằng xe máy có đáng không, mua ở đâu và cần lưu ý gì?». Bài giới thiệu làng nghề dệt len, dệt kim La Phù (Hoài Đức) với nhiều xưởng và cửa hàng bán buôn, hướng dẫn chạy xe máy từ phía Hà Đông hoặc Lê Trọng Tấn tới La Phù, tránh giờ xe tải đậu chờ lên hàng trên phố chính, gửi xe trước cửa hàng, kiểm tra chất liệu, đường may, không mua hàng gắn nhãn hiệu nước ngoài không rõ nguồn gốc, buộc túi hàng gọn trên xe; không nêu giá. Người đọc là người mua đồ mùa đông và người buôn nhỏ, khác bài làng lụa Vạn Phúc ở chỗ nói về đồ len, dệt kim cho mùa rét.",
+   "kw": "làng dệt len La Phù",
+   "kw2": [
+    "mua áo len La Phù",
+    "làng dệt kim Hoài Đức",
+    "mua đồ len trước mùa đông"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người mua đồ mùa đông và người buôn bán nhỏ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29E-032",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng cổ Hương Ngải ở Thạch Thất bằng xe máy: nhà đá ong, đại tự Mỹ tục khả phong và phiên chợ Ngái những ngày giáp Tết",
+   "intent": "Người dùng hỏi: «Làng cổ Hương Ngải có gì để xem, đi xe máy thế nào và phiên chợ Ngái cuối năm họp ra sao?». Bài giới thiệu làng Hương Ngải (làng Ngái) ở Thạch Thất với nhiều nhà đá ong, quán Nghinh Hương đầu làng, bức đại tự Mỹ tục khả phong vua Tự Đức ban năm 1874, nghề làm nhà gỗ, phiên chợ Ngái họp từ cuối năm cũ sang đầu năm mới nay đã thưa hơn theo báo chí, hướng dẫn chạy xe máy lên Thạch Thất, đi chậm trong ngõ, đỗ xe ở khoảng trống đầu xóm và ứng xử khi ghé nhà dân; không bịa ngày phiên chợ, khuyên hỏi người làng. Người đọc là người thích làng cổ yên tĩnh, khác bài làng cổ Đường Lâm ở chỗ đây là làng ít khách, chưa thành điểm du lịch bán vé.",
+   "kw": "làng cổ Hương Ngải",
+   "kw2": [
+    "chợ Ngái ngày Tết",
+    "làng Ngái Thạch Thất",
+    "nhà đá ong Hương Ngải"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-29-R29E",
+   "audience": "người thích làng cổ yên tĩnh ít khách",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}

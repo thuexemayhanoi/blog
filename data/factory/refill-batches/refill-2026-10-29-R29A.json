@@ -1,0 +1,455 @@
+{
+ "_meta": {
+  "note": "Lo R29A: chu de moi cho C-THUE-GIA, C-THUE-THU-TUC, C-THUE-NGAY, C-THUE-TUAN, C-THUE-THANG. Cac child nay da rat day (gia le/tet/cuoi tuan, so sanh goi, doi tuong thue thang, diem den mot ngay); lo chi giu cac cau hoi chua co bai tra loi o bat ky child nao: tien thue va chi phi khi xe bi tam giu/mat trom/nam xuong do loi nguoi thue, tiem thu hoi xe truoc han, doi dong xe giua ky thang, Luat Gia 2023 ve niem yet, xac thuc sinh trac khi chuyen tien, cac dieu khoan hop dong thue chua co (phat vi pham, thoi hieu, giai thich hop dong, gia tri xe, giao ket tu xa, giay muon xe, tiem nhan coc khong giao xe, uy quyen ky thay cong ty), quyet dinh lich thue theo VN_AQI, thue xe khi xe nha bi tam giu, tuan thu giao hang, trieu hoi, mo hinh thue roi thanh so huu. Nguon: doc toan bo tieu de 5 child + cac child lan can (HD-GIA, HD-THU-TUC, DAT-COC, NHAN-TRA, SU-CO, DOI-TUONG, QUOC-TE, HD-PHAP-LY qua grep), goi y tim kiem Google VN, van ban chinh thuc (BLDS 2015, Luat XLVPHC, Luat Gia 2023, Luat BVQLNTD 2023, Luat Doanh nghiep 2020, QD 2345/QD-NHNN, QD 1459/QD-TCMT). Kiem trung: list_titles --grep tung thuc the (co dau/khong dau) tren toan matrix + topic_check.py (G1-G9, Jaccard, intent ratio).",
+  "created": "2026-10-29",
+  "source": "coordinator topic expansion 2026-10-29 theo docs/TAXONOMY.md, gate G1-G9"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-001",
+   "child_id": "C-THUE-GIA",
+   "title": "Xe thuê bị tạm giữ vì lỗi người thuê: những ngày xe nằm bãi có tính tiền thuê không và phí lưu bãi ai trả",
+   "intent": "Người dùng hỏi: «Xe đang thuê bị tạm giữ vì mình vi phạm, những ngày xe nằm ở bãi có còn tính tiền thuê không và chi phí lưu bãi ai trả?». Bài giải thích thời hạn tạm giữ phương tiện theo Điều 125 và nghĩa vụ trả chi phí lưu kho, bến bãi theo Điều 126 Luật Xử lý vi phạm hành chính (đối chiếu bản hợp nhất hiện hành), vì sao những ngày xe nằm bãi do lỗi người thuê thường vẫn là ngày thuê, cách nhắn thỏa thuận với tiệm về tiền thuê, chi phí lưu bãi và lịch nhận lại xe; không nêu mức phạt hay mức phí cụ thể. Người đọc là người đang thuê xe máy ở Hà Nội vừa bị lập biên bản tạm giữ xe, khác bài BLG-04596 (giấy tờ để nhận lại xe) và BLG-05254 (xe hư hỏng trong bãi tạm giữ) ở chỗ bài này chỉ trả lời câu hỏi tiền thuê và chi phí phát sinh trong thời gian xe bị giữ.",
+   "kw": "tiền thuê khi xe bị tạm giữ",
+   "kw2": [
+    "phí lưu bãi xe thuê bị tạm giữ",
+    "xe thuê nằm bãi tạm giữ có tính tiền",
+    "chi phí khi xe thuê bị giữ",
+    "thời hạn tạm giữ xe máy"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/",
+    "/bang-gia/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người đang thuê xe máy ở Hà Nội có xe bị tạm giữ phương tiện",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-002",
+   "child_id": "C-THUE-GIA",
+   "title": "Đang thuê Honda Wave theo tháng muốn chuyển sang Vision: tính tiền chênh cho những ngày còn lại và tiền cọc bổ sung",
+   "intent": "Người dùng hỏi: «Đang thuê Wave theo tháng, giữa kỳ muốn đổi sang Vision thì phải bù bao nhiêu tiền thuê và tiền cọc?». Bài hướng dẫn tự ước tính phần chênh theo bảng giá đã duyệt (Wave 900.000–1.200.000đ/tháng, cọc 2.000.000–3.000.000đ; Vision 1.800.000–2.000.000đ/tháng, cọc 4.000.000–5.000.000đ), cách quy giá tháng ra số ngày còn lại để hỏi tiệm, chiều ngược lại khi đổi xuống Click hoặc Mio, rồi chốt bằng tin nhắn biển số mới, tiền bù và cọc mới; con số cuối cùng do tiệm xác nhận. Người đọc là người thuê xe tháng ở Hà Nội muốn đổi dòng xe vì nhu cầu thay đổi, khác bài BLG-03570 (xe thay thế khác dòng khi xe hỏng) và BLG-03030 (đổi xe giữa tuần thuê) ở chỗ bài này là tự nguyện đổi trong gói tháng và tính cả tiền cọc chênh.",
+   "kw": "đổi wave sang vision giữa tháng",
+   "kw2": [
+    "đổi xe thuê tháng sang dòng đắt hơn",
+    "tiền chênh khi đổi dòng xe thuê",
+    "cọc bổ sung khi đổi xe thuê",
+    "đổi vision sang click giữa kỳ"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/",
+    "/bang-gia/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người thuê xe máy theo tháng ở Hà Nội muốn đổi dòng xe giữa kỳ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-003",
+   "child_id": "C-THUE-GIA",
+   "title": "Lỡ làm hỏng xe thuê phải nằm xưởng vài ngày: tiệm đòi thêm tiền những ngày không cho thuê được có đúng không",
+   "intent": "Người dùng hỏi: «Mình làm đổ xe thuê, ngoài tiền sửa tiệm còn đòi tiền những ngày xe nằm xưởng không cho thuê được, như vậy có đúng không?». Bài giải thích thiệt hại vật chất gồm thu nhập thực tế bị mất theo Điều 361 và thiệt hại được bồi thường do vi phạm hợp đồng theo Điều 419 Bộ luật Dân sự 2015, điều kiện để khoản đòi có cơ sở (có lỗi, có thiệt hại thực tế, có chứng cứ), cách đề nghị tiệm ghi rõ số ngày nằm xưởng, cách tính, báo giá sửa và phần đối trừ vào tiền cọc, kèm điều khoản nên đọc trong hợp đồng; không nêu số tiền cụ thể. Người đọc là người thuê xe máy ở Hà Nội vừa gây hư hỏng cho xe, khác bài BLG-03569 (xe hỏng không do lỗi người thuê, ngày nằm sửa có bị tính tiền thuê) ở chỗ bài này nói về khoản đòi bồi thường khi lỗi thuộc người thuê.",
+   "kw": "đền tiền ngày xe thuê nằm xưởng",
+   "kw2": [
+    "thu nhập bị mất khi xe thuê hỏng",
+    "bồi thường ngày xe thuê nằm sửa",
+    "làm hỏng xe thuê phải đền những gì",
+    "thiệt hại do vi phạm hợp đồng thuê"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người thuê xe máy ở Hà Nội vừa làm hỏng xe thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-004",
+   "child_id": "C-THUE-GIA",
+   "title": "Xe thuê bị mất trộm giữa kỳ: tiền thuê tính đến ngày nào, phần đã trả trước và tiền cọc được đối trừ ra sao",
+   "intent": "Người dùng hỏi: «Xe thuê theo tuần hoặc tháng bị trộm giữa kỳ, mình đã trả trước tiền thuê, vậy tiền thuê tính đến ngày nào và khoản trả trước, tiền cọc xử lý thế nào?». Bài giải thích mốc dừng tính tiền thuê khi tài sản thuê không còn (căn cứ chấm dứt hợp đồng tại Điều 422 Bộ luật Dân sự 2015, đối chiếu điều khoản riêng của hợp đồng), cách lập bảng đối trừ giữa tiền thuê đã dùng, phần trả trước chưa dùng, tiền cọc và khoản bồi thường theo hợp đồng, giấy tờ cần giữ như giấy xác nhận đã trình báo và biên nhận; không bàn quy trình trình báo hay mức bồi thường cụ thể. Người đọc là người thuê xe nhiều ngày ở Hà Nội vừa mất xe, khác bài BLG-02395 và BLG-00559 (việc cần làm ngay khi mất xe) ở chỗ bài này chỉ xử lý phần tiền thuê và đối trừ.",
+   "kw": "tiền thuê khi xe thuê bị mất trộm",
+   "kw2": [
+    "mất xe thuê tiền cọc xử lý sao",
+    "đối trừ tiền thuê khi mất xe",
+    "hợp đồng thuê xe chấm dứt khi mất xe",
+    "tiền thuê trả trước khi xe bị trộm"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người thuê xe máy nhiều ngày ở Hà Nội có xe thuê bị mất trộm",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-005",
+   "child_id": "C-THUE-GIA",
+   "title": "Giá thuê xe máy niêm yết theo Luật Giá 2023: con số trên bảng đã gồm thuế, phí chưa và tiệm có được thu cao hơn",
+   "intent": "Người dùng hỏi: «Giá thuê xe ghi trên bảng của tiệm đã gồm thuế, phí chưa, và tiệm có được thu cao hơn giá đã niêm yết không?». Bài giải thích quy định niêm yết giá tại Điều 29 Luật Giá 2023 (16/2023/QH15, đối chiếu Luật sửa đổi Luật Giá 2025): giá niêm yết bằng đồng Việt Nam, đã gồm thuế, phí, lệ phí nếu có, phải rõ ràng, không gây nhầm lẫn và không được thu cao hơn giá niêm yết; cách đối chiếu bảng giá đã duyệt của cửa hàng trên website và tại quầy, phân biệt tiền cọc không phải là giá thuê. Người đọc là khách thuê xe ở Hà Nội muốn hiểu quyền của mình về giá, khác bài BLG-06091 (quyền được biết giá theo Luật Bảo vệ quyền lợi người tiêu dùng) ở chỗ bài này dựa trên Luật Giá và trả lời câu hỏi thuế phí đã gồm chưa và có được thu cao hơn giá niêm yết không.",
+   "kw": "giá thuê xe máy niêm yết",
+   "kw2": [
+    "luật giá niêm yết giá thuê xe",
+    "giá thuê xe đã gồm thuế chưa",
+    "thu cao hơn giá niêm yết",
+    "niêm yết giá bằng đồng việt nam"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/",
+    "/bang-gia/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Khách thuê xe máy ở Hà Nội muốn hiểu quy định niêm yết giá",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-006",
+   "child_id": "C-THUE-GIA",
+   "title": "Chuyển khoản tiền thuê, tiền cọc xe máy bị đòi xác thực khuôn mặt: khi nào xảy ra và chuẩn bị gì trước khi đến tiệm",
+   "intent": "Người dùng hỏi: «Đến tiệm chuyển tiền thuê và tiền cọc thì ứng dụng ngân hàng đòi quét khuôn mặt, khi nào bị như vậy và cần chuẩn bị gì?». Bài giải thích các trường hợp phải xác thực sinh trắc học theo Quyết định 2345/QĐ-NHNN, đối chiếu văn bản hiện hành (chuyển tiền trên 10 triệu đồng một lần, tổng trong ngày vượt 20 triệu đồng, giao dịch lần đầu trên thiết bị mới), những tình huống dễ gặp khi thuê xe như nhóm cọc nhiều xe, trả trước nhiều tháng hoặc vừa đổi điện thoại, cách cập nhật sinh trắc học với căn cước gắn chip trước khi đi và phương án dự phòng; tiền cọc chỉ dùng mức đã duyệt 2.000.000–5.000.000đ mỗi xe. Người đọc là người thuê xe ở Hà Nội trả tiền bằng chuyển khoản, khác bài BLG-05462 (vướng hạn mức hoặc ứng dụng báo lỗi khi chuyển cọc) ở chỗ bài này giải thích yêu cầu xác thực sinh trắc học theo quy định ngân hàng.",
+   "kw": "chuyển tiền thuê xe xác thực khuôn mặt",
+   "kw2": [
+    "sinh trắc học khi chuyển khoản cọc xe",
+    "chuyển khoản trên 10 triệu khi thuê xe",
+    "đổi điện thoại mới chuyển tiền thuê xe",
+    "nhóm thuê nhiều xe chuyển tiền cọc"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người thuê xe máy ở Hà Nội thanh toán bằng chuyển khoản ngân hàng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-007",
+   "child_id": "C-THUE-GIA",
+   "title": "Tiệm muốn lấy lại xe trước hạn dù người thuê không vi phạm: tiền thuê trả trước được hoàn và có được bồi thường không",
+   "intent": "Người dùng hỏi: «Mình đã trả tiền thuê cả tháng, giữa chừng tiệm nói cần lấy lại xe vì việc riêng của tiệm chứ mình không vi phạm gì, vậy tiền đã trả xử lý thế nào và mình có được đòi thêm không?». Bài giải thích việc đơn phương chấm dứt thực hiện hợp đồng tại Điều 428 Bộ luật Dân sự 2015 (chấm dứt không có căn cứ bị coi là vi phạm và phải chịu trách nhiệm dân sự), cách tính phần tiền thuê chưa sử dụng cần hoàn, các chi phí thực tế có thể đề nghị bồi thường như tiền thuê xe nơi khác và đi lại, cách nhắn chốt ngày trả, số tiền hoàn và phương án xe thay thế; không nêu số tiền cụ thể. Người đọc là người thuê xe tuần hoặc tháng ở Hà Nội bị tiệm đề nghị thu hồi xe sớm, khác bài BLG-03595 (trường hợp tiệm có quyền thu hồi do người thuê vi phạm) và BLG-05469 (tiệm gọi mang xe về gấp để kiểm tra, đổi xe) ở chỗ bài này nói về quyền hoàn tiền và bồi thường khi tiệm chấm dứt không có lỗi của người thuê.",
+   "kw": "tiệm lấy lại xe thuê trước hạn",
+   "kw2": [
+    "hoàn tiền thuê khi tiệm thu hồi xe",
+    "đơn phương chấm dứt hợp đồng thuê xe",
+    "bồi thường khi tiệm đòi lại xe sớm",
+    "tiền thuê trả trước chưa dùng"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người thuê xe máy theo tuần hoặc tháng ở Hà Nội bị tiệm đề nghị thu hồi xe sớm",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-008",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Điều khoản phạt vi phạm trong hợp đồng thuê xe máy: khác bồi thường thiệt hại thế nào và khi nào phải chịu cả hai",
+   "intent": "Người dùng hỏi: «Hợp đồng thuê xe ghi người thuê trả xe trễ hoặc đi sai phạm vi sẽ bị phạt, khoản phạt này khác tiền bồi thường thế nào, có phải trả cả hai không?». Bài giải thích thỏa thuận phạt vi phạm tại Điều 418 và thiệt hại được bồi thường tại Điều 419 Bộ luật Dân sự 2015: phạt vi phạm chỉ áp dụng khi hai bên đã thỏa thuận, nếu không thỏa thuận về việc vừa chịu phạt vừa bồi thường thì bên vi phạm chỉ chịu phạt vi phạm; cách đọc câu chữ trong hợp đồng và đề nghị tiệm ghi rõ từng trường hợp; không nêu mức phạt hành chính. Người đọc là người sắp ký hợp đồng thuê xe ở Hà Nội, khác bài BLG-00980 (điều khoản bồi thường hư hỏng) ở chỗ bài này phân biệt tiền phạt hợp đồng với tiền bồi thường thiệt hại.",
+   "kw": "phạt vi phạm hợp đồng thuê xe",
+   "kw2": [
+    "phạt vi phạm và bồi thường thiệt hại",
+    "điều khoản phạt trong hợp đồng thuê xe",
+    "trả xe trễ bị phạt hợp đồng",
+    "mức phạt vi phạm do hai bên thỏa thuận"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người sắp ký hợp đồng thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-009",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Trả xe xong vài tháng mới bị đòi tiền sửa: thời hiệu khởi kiện tranh chấp hợp đồng thuê xe máy là bao lâu",
+   "intent": "Người dùng hỏi: «Đã trả xe và nhận lại cọc vài tháng, nay tiệm nhắn đòi tiền sửa một hư hỏng, họ còn quyền đòi đến bao giờ?». Bài giải thích thời hiệu khởi kiện tranh chấp hợp đồng 03 năm tại Điều 429 Bộ luật Dân sự 2015, thời điểm bắt đầu tính, việc thời hiệu chỉ được tòa án áp dụng khi có bên yêu cầu, ý nghĩa thực tế của biên bản trả xe đã ký và giấy xác nhận thanh lý; từ đó gợi ý giữ ảnh, biên bản và tin nhắn trong khoảng thời gian tương ứng. Người đọc là người đã thuê xe ở Hà Nội, khác bài BLG-04943 (cách phản hồi khi tiệm báo hư hỏng sau khi trả xe) và BLG-04847 (thời hiệu bồi thường sau va chạm giao thông) ở chỗ bài này nói về thời hiệu của tranh chấp hợp đồng thuê.",
+   "kw": "thời hiệu tranh chấp hợp đồng thuê xe",
+   "kw2": [
+    "thời hiệu khởi kiện hợp đồng thuê",
+    "trả xe rồi bị đòi bồi thường",
+    "giữ bằng chứng thuê xe bao lâu",
+    "tiệm đòi tiền sau khi trả xe"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người đã thuê và trả xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-010",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Điều khoản hợp đồng thuê xe viết mơ hồ, mỗi bên hiểu một kiểu: Bộ luật Dân sự giải thích theo hướng nào",
+   "intent": "Người dùng hỏi: «Hợp đồng thuê xe ghi chung chung như 'trả xe nguyên trạng' hay 'chịu mọi chi phí phát sinh', giờ hai bên hiểu khác nhau thì luật căn cứ vào đâu?». Bài giải thích các nguyên tắc giải thích hợp đồng tại Điều 404 Bộ luật Dân sự 2015 (căn cứ ý chí các bên thể hiện qua tin nhắn, tập quán nơi giao kết, đối chiếu các điều khoản với nhau, giải thích theo hướng có lợi cho bên kia khi bên soạn thảo đưa vào nội dung bất lợi) và quy định tương ứng với hợp đồng giao kết với người tiêu dùng; cách gom tin nhắn, ảnh bàn giao để chứng minh cách hiểu chung. Người đọc là người thuê xe ở Hà Nội đang bất đồng với tiệm về một điều khoản, khác bài BLG-05486 (hỏi giải thích khi vừa ký) và BLG-04858 (hợp đồng theo mẫu) ở chỗ bài này xử lý khi bất đồng đã xảy ra.",
+   "kw": "giải thích điều khoản hợp đồng thuê xe",
+   "kw2": [
+    "hợp đồng thuê xe hiểu khác nhau",
+    "điều khoản mơ hồ hợp đồng thuê",
+    "giải thích có lợi cho người thuê",
+    "bên soạn thảo hợp đồng thuê xe"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người thuê xe máy ở Hà Nội bất đồng với tiệm về câu chữ hợp đồng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-011",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Mục giá trị xe ghi trong hợp đồng thuê xe máy: căn cứ bồi thường khi mất xe hay hỏng nặng và nên hỏi gì trước khi ký",
+   "intent": "Người dùng hỏi: «Hợp đồng thuê xe ghi giá trị chiếc xe là một con số, con số đó dùng làm gì và mình có nên hỏi lại không?». Bài giải thích vai trò mục giá trị tài sản thuê khi xe bị mất hoặc hư hỏng không sửa được, nghĩa vụ bảo quản và trả lại tài sản thuê theo Bộ luật Dân sự 2015, các câu nên hỏi (giá trị tính theo đời xe và tình trạng thực tế, có trừ hao mòn không, có đối trừ tiền cọc không, ai định giá khi có bất đồng) và cách ghi bổ sung; không nêu giá xe cụ thể, không nói về gói bảo hiểm của cửa hàng. Người đọc là người sắp ký hợp đồng thuê xe ở Hà Nội, khác bài BLG-00552 (trách nhiệm khi mất xe) và BLG-00980 (điều khoản bồi thường chung) ở chỗ bài này tập trung vào con số giá trị xe ghi trong hợp đồng.",
+   "kw": "giá trị xe trong hợp đồng thuê",
+   "kw2": [
+    "giá trị xe khi mất xe thuê",
+    "bồi thường xe thuê theo giá nào",
+    "định giá xe thuê bị mất",
+    "hỏi tiệm về giá trị xe thuê"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người sắp ký hợp đồng thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-012",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Đặt thuê xe qua Zalo hay website mà tiệm báo thiếu giá, cọc, điều kiện: quyền chấm dứt hợp đồng giao kết từ xa",
+   "intent": "Người dùng hỏi: «Mình đặt và chuyển tiền giữ xe qua Zalo nhưng tiệm không báo rõ giá, cọc, điều kiện; đến nơi mới biết khác, mình có quyền hủy và đòi lại tiền không?». Bài giải thích khái niệm giao dịch từ xa trong Luật Bảo vệ quyền lợi người tiêu dùng 2023 (19/2023/QH15), các thông tin bên kinh doanh phải cung cấp theo khoản 1 Điều 37, quyền đơn phương chấm dứt hợp đồng và thời hạn hoàn tiền theo khoản 3, khoản 4 Điều 38 (đối chiếu văn bản gốc), cách lưu tin nhắn làm chứng cứ; không nêu mức phạt. Người đọc là người đặt thuê xe ở Hà Nội qua kênh trực tuyến, khác bài BLG-00977 (nguyên tắc hủy đặt xe) và BLG-06091 (quyền được biết giá) ở chỗ bài này nói về quyền chấm dứt hợp đồng giao kết từ xa khi thông tin không đầy đủ.",
+   "kw": "hợp đồng thuê xe giao kết từ xa",
+   "kw2": [
+    "đặt thuê xe online thiếu thông tin",
+    "chấm dứt hợp đồng giao kết từ xa",
+    "hoàn tiền đặt xe qua mạng",
+    "luật bảo vệ người tiêu dùng đặt xe online"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người đặt thuê xe máy ở Hà Nội qua Zalo hoặc website",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-013",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Trả tiền thuê xe nhưng được đưa ký giấy mượn xe: khác hợp đồng thuê thế nào và vì sao nên đề nghị ghi đúng bản chất",
+   "intent": "Người dùng hỏi: «Mình trả tiền thuê xe hằng ngày nhưng chủ xe chỉ đưa ký 'giấy mượn xe', như vậy có sao không?». Bài giải thích khác biệt giữa hợp đồng thuê tài sản (Điều 472) và hợp đồng mượn tài sản không phải trả tiền (Điều 494) trong Bộ luật Dân sự 2015, hệ quả khi văn bản ghi không đúng thực tế (giao dịch dân sự giả tạo theo Điều 124), quyền đòi lại tiền, nghĩa vụ bảo quản và rủi ro khi có tranh chấp, cách đề nghị ghi đúng hợp đồng thuê với giá, thời hạn, tiền cọc; không bàn lỗi giao thông về xe không chính chủ. Người đọc là người thuê xe của cá nhân hoặc tiệm nhỏ ở Hà Nội, khác bài BLG-03594 (thuê xe của cá nhân: viết giấy thỏa thuận) và BLG-04592 (đi xe không chính chủ có bị phạt) ở chỗ bài này phân tích bản chất pháp lý của tờ giấy mượn xe.",
+   "kw": "giấy mượn xe thay hợp đồng thuê",
+   "kw2": [
+    "giấy mượn xe máy và hợp đồng thuê",
+    "hợp đồng mượn tài sản khác thuê",
+    "ký giấy mượn xe khi thuê xe",
+    "giao dịch giả tạo khi thuê xe"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người thuê xe máy của cá nhân hoặc tiệm nhỏ ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-014",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Tiệm đã nhận cọc giữ xe rồi báo không còn xe để giao: người đặt được trả lại cọc và thêm khoản tương đương không",
+   "intent": "Người dùng hỏi: «Mình đã chuyển tiền cọc giữ xe, sát ngày tiệm báo không còn xe để giao, ngoài lấy lại tiền mình có được đòi thêm không?». Bài giải thích quy định đặt cọc tại Điều 328 Bộ luật Dân sự 2015: bên nhận đặt cọc từ chối giao kết hoặc thực hiện hợp đồng thì phải trả lại tiền cọc và một khoản tiền tương đương, trừ khi có thỏa thuận khác; cách xác định khoản đã chuyển là đặt cọc, tiền trả trước hay tiền giữ chỗ dựa vào tin nhắn, trường hợp sự kiện bất khả kháng, cách nhắn đề nghị và giữ chứng cứ; không nêu số tiền cụ thể. Người đọc là người đã chuyển cọc giữ xe máy ở Hà Nội, khác bài BLG-03688 (đến nhận thấy xe khác: nhận xe thay thế hay lấy lại cọc) và BLG-06103 (phân biệt đặt cọc với ký cược) ở chỗ bài này trả lời quyền đòi khoản tương đương khi chính tiệm không giao xe.",
+   "kw": "tiệm nhận cọc rồi không giao xe",
+   "kw2": [
+    "phạt cọc khi tiệm không giao xe",
+    "đặt cọc giữ xe bị tiệm hủy",
+    "trả lại cọc và khoản tương đương",
+    "bên nhận cọc từ chối giao xe"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người đã chuyển cọc giữ xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-015",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Công ty đứng tên thuê xe máy nhưng người ký là nhân viên hành chính: cần giấy ủy quyền gì để hợp đồng ràng buộc công ty",
+   "intent": "Người dùng hỏi: «Công ty mình cần thuê vài xe máy, giám đốc không đến được, nhân viên hành chính ký hợp đồng thì có giá trị với công ty không và cần giấy gì?». Bài giải thích người đại diện theo pháp luật của doanh nghiệp (Điều 12 Luật Doanh nghiệp 2020, đối chiếu bản sửa đổi 2025), đại diện theo ủy quyền và phạm vi đại diện (Điều 135, Điều 138, Điều 141 Bộ luật Dân sự 2015), việc đóng dấu không bắt buộc trừ khi điều lệ hoặc hai bên có thỏa thuận (Điều 43 Luật Doanh nghiệp 2020), bộ giấy nên mang (giấy ủy quyền ghi rõ phạm vi, giấy tờ tùy thân người ký, thông tin doanh nghiệp) và cách ghi tên bên thuê, người sử dụng xe. Người đọc là nhân viên hành chính, kế toán được giao thuê xe máy cho công ty ở Hà Nội, khác bài BLG-02404 (những câu cần thống nhất khi công ty thuê xe) và BLG-06095 (thông tin bên cho thuê ở đầu hợp đồng) ở chỗ bài này giải quyết thẩm quyền ký thay công ty.",
+   "kw": "giấy ủy quyền ký hợp đồng thuê xe",
+   "kw2": [
+    "người đại diện công ty thuê xe",
+    "công ty thuê xe máy ai được ký",
+    "đóng dấu hợp đồng thuê xe công ty",
+    "nhân viên ký hợp đồng thuê thay công ty"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Nhân viên hành chính, kế toán thuê xe máy cho công ty ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-016",
+   "child_id": "C-THUE-NGAY",
+   "title": "Ngày không khí Hà Nội ô nhiễm nặng: xem chỉ số VN_AQI trước khi thuê xe máy đi chơi và đổi lịch trình thế nào",
+   "intent": "Người dùng hỏi: «Mùa đông Hà Nội nhiều hôm chỉ số không khí lên mức xấu, mình đã định thuê xe máy đi chơi một ngày thì nên đi tiếp, đổi giờ hay dời ngày?». Bài hướng dẫn đọc thang VN_AQI theo Quyết định 1459/QĐ-TCMT (các mức tốt, trung bình, kém, xấu, rất xấu, nguy hại và khuyến nghị cho từng mức), nơi tra số liệu quan trắc chính thức, cách sắp lại lịch một ngày thuê xe (chọn điểm trong nhà, rút ngắn quãng chạy trên trục đông xe, đi vào khung giờ chỉ số thấp hơn) và khi nào nên dời ngày nhận xe; không nêu số liệu AQI của ngày cụ thể. Người đọc là khách du lịch hoặc người ở Hà Nội định thuê xe một ngày vào mùa thu đông, khác bài BLG-02429 (người đi làm hằng ngày khi ô nhiễm) và BLG-02217 (ngày mưa) ở chỗ bài này giúp quyết định lịch trình một ngày thuê xe theo chỉ số chất lượng không khí.",
+   "kw": "thuê xe máy ngày không khí ô nhiễm",
+   "kw2": [
+    "chỉ số vn_aqi hà nội",
+    "ngày aqi xấu có nên đi xe máy",
+    "đổi lịch thuê xe vì ô nhiễm",
+    "khẩu trang khi thuê xe đi chơi"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Khách du lịch và người ở Hà Nội định thuê xe máy một ngày vào mùa thu đông",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-017",
+   "child_id": "C-THUE-TUAN",
+   "title": "Xe máy nhà bị tạm giữ phương tiện đến 7 ngày làm việc: thuê xe theo tuần cộng ngày lẻ trong lúc chờ nhận lại xe",
+   "intent": "Người dùng hỏi: «Xe máy nhà mình bị tạm giữ chờ xử lý vi phạm, trong lúc chờ nên thuê xe theo ngày hay theo tuần?». Bài giải thích thời hạn tạm giữ phương tiện 07 ngày làm việc và trường hợp được kéo dài theo Điều 125 Luật Xử lý vi phạm hành chính, cách quy ngày làm việc ra ngày lịch (cuối tuần, ngày lễ) để chọn gói tuần cộng vài ngày lẻ theo bảng giá đã duyệt, lưu ý khi chính giấy phép lái xe cũng đang bị tạm giữ hoặc bị tước thì không được lái xe thuê; không nêu mức phạt. Người đọc là người ở Hà Nội vừa bị giữ xe máy mà vẫn phải đi làm, khác bài BLG-03640 (xe nhà bị mất trộm) và BLG-06122 (thời hạn tạm giữ về mặt pháp lý) ở chỗ bài này lập phương án thuê xe thay thế theo đúng khung thời gian tạm giữ.",
+   "kw": "thuê xe khi xe nhà bị tạm giữ",
+   "kw2": [
+    "xe máy bị tạm giữ 7 ngày làm việc",
+    "thuê xe tạm chờ nhận xe bị giữ",
+    "thuê tuần hay thuê ngày khi xe bị giữ",
+    "bằng lái bị giữ có thuê xe được không"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/",
+    "/bang-gia/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người ở Hà Nội có xe máy nhà bị tạm giữ phương tiện",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-018",
+   "child_id": "C-THUE-TUAN",
+   "title": "Thử chạy giao hàng một tuần bằng xe máy thuê trước khi cam kết thuê tháng: ghi số đơn, số km và tiền xăng để quyết định",
+   "intent": "Người dùng hỏi: «Mình mới định làm giao hàng, có nên thuê xe một tuần chạy thử trước khi thuê theo tháng không, và trong tuần đó cần theo dõi gì?». Bài hướng dẫn lập bảng ghi hằng ngày (số đơn, giờ chạy, quãng đường, tiền xăng, gửi xe, mức mệt), chọn dòng xe tiết kiệm xăng cho tuần thử, báo đúng mục đích sử dụng với tiệm, cách dùng số liệu cuối tuần để quyết định dừng, chuyển sang thuê tháng hay tính phương án khác; giá thuê chỉ dùng bảng giá đã duyệt (Wave, Click hoặc Mio 700.000đ/tuần), không hứa hẹn thu nhập. Người đọc là người mới bắt đầu làm giao hàng ở Hà Nội, khác bài BLG-06092 (công thức hòa vốn khi đã thuê tháng) và BLG-02204 (thuê một ngày để thử xe) ở chỗ bài này dùng một tuần để thử công việc trước khi cam kết.",
+   "kw": "thử chạy giao hàng một tuần",
+   "kw2": [
+    "thuê xe tuần thử làm shipper",
+    "chạy giao hàng bằng xe thuê theo tuần",
+    "ghi chép thu chi chạy giao hàng",
+    "chuyển từ thuê tuần sang thuê tháng"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/",
+    "/bang-gia/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người mới bắt đầu làm giao hàng ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-019",
+   "child_id": "C-THUE-THANG",
+   "title": "Đến kỳ trả tiền thuê xe tháng mà chậm vài ngày: tiệm được tính lãi chậm trả hoặc thu thêm đến đâu theo Bộ luật Dân sự",
+   "intent": "Người dùng hỏi: «Kỳ thuê xe tháng đã đến hạn mà mình chậm chuyển tiền vài ngày, tiệm có được tính lãi hay thu thêm không?». Bài giải thích nghĩa vụ trả tiền thuê đúng hạn trong hợp đồng thuê tài sản, quy định trả lãi do chậm trả tiền tại Điều 357 và giới hạn lãi suất tại Điều 468 Bộ luật Dân sự 2015, khác nhau giữa lãi chậm trả, phạt vi phạm đã thỏa thuận và việc tiệm có thể đề nghị thu hồi xe khi chậm kéo dài; hướng dẫn nhắn xin dời hạn có ghi ngày trả cụ thể. Không nêu mức phạt hành chính. Người đọc là người thuê xe tháng ở Hà Nội gặp lúc lương về muộn, khác bài BLG-04072 (cách báo tiệm khi chưa kịp chuyển tiền) ở chỗ bài này nói rõ giới hạn pháp lý của khoản thu thêm.",
+   "kw": "chậm trả tiền thuê xe tháng",
+   "kw2": [
+    "lãi chậm trả tiền thuê xe",
+    "phụ thu chậm thanh toán thuê xe",
+    "trễ hạn trả tiền thuê xe máy",
+    "thỏa thuận lãi chậm trả hợp đồng thuê"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người thuê xe máy theo tháng ở Hà Nội chậm thanh toán kỳ thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-020",
+   "child_id": "C-THUE-THANG",
+   "title": "Đang thuê xe tháng thì hãng thông báo triệu hồi đúng dòng xe: kiểm tra số khung, báo tiệm và sắp lịch đưa xe đi xử lý",
+   "intent": "Người dùng hỏi: «Mình đang thuê xe theo tháng thì thấy tin hãng triệu hồi dòng xe này, có phải xe mình không và ai lo việc mang xe đi?». Bài hướng dẫn kiểm tra thông báo triệu hồi trên kênh chính thức của hãng và cơ quan quản lý, đối chiếu số khung trên giấy đăng ký xe đi kèm, báo tiệm bằng tin nhắn, thống nhất ai đưa xe đến đại lý, thời gian xe vắng mặt, xe thay thế và cách ghi nhận tình trạng xe khi giao nhận lại; không nêu đợt triệu hồi cụ thể nào chưa xác minh. Người đọc là người thuê xe tháng ở Hà Nội, khác bài BLG-04933 (tiệm mượn xe để thay nhớt, thay lốp giữa kỳ) và BLG-03202 (xe trục trặc lặp lại) ở chỗ bài này xử lý thông báo triệu hồi của nhà sản xuất.",
+   "kw": "xe thuê tháng thuộc diện triệu hồi",
+   "kw2": [
+    "xe máy bị triệu hồi khi đang thuê",
+    "tra cứu triệu hồi theo số khung",
+    "xe thay thế khi xe thuê đi triệu hồi",
+    "thông báo triệu hồi xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người thuê xe máy theo tháng ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29A-021",
+   "child_id": "C-THUE-THANG",
+   "title": "Được mời thuê xe theo tháng rồi trả đủ kỳ thì xe thành của mình: khác mua trả chậm, trả dần thế nào và rủi ro ở đâu",
+   "intent": "Người dùng hỏi: «Có nơi mời mình thuê xe máy theo tháng, trả đủ một số kỳ thì chiếc xe sẽ thành của mình, như vậy là thuê hay mua và nếu bỏ giữa chừng thì sao?». Bài giải thích khác biệt giữa hợp đồng thuê tài sản và mua trả chậm, trả dần tại Điều 453 Bộ luật Dân sự 2015 (bên bán được bảo lưu quyền sở hữu đến khi trả đủ, hợp đồng phải lập thành văn bản, bên mua chịu rủi ro trong thời gian sử dụng nếu không có thỏa thuận khác), những điều khoản cần đọc (giá xe, số kỳ, xử lý khi ngừng trả, ai đứng tên đăng ký, thời điểm sang tên) và dấu hiệu nên cân nhắc; không giới thiệu dịch vụ của cửa hàng. Người đọc là người đi làm, giao hàng ở Hà Nội muốn có xe mà chưa đủ tiền mua, khác bài BLG-03664 (so dòng tiền thuê tháng với mua trả góp qua công ty tài chính) và BLG-04925 (mua lại xe đang thuê) ở chỗ bài này phân tích mô hình thuê rồi thành sở hữu.",
+   "kw": "thuê xe tháng trả đủ thành của mình",
+   "kw2": [
+    "mua trả chậm trả dần xe máy",
+    "thuê mua xe máy là gì",
+    "bảo lưu quyền sở hữu xe máy",
+    "ngừng trả giữa chừng xe thuê mua"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-29-R29A",
+   "audience": "Người đi làm, người giao hàng ở Hà Nội muốn có xe máy nhưng chưa đủ tiền mua",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}

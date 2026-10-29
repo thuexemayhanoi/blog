@@ -1,0 +1,702 @@
+{
+ "_meta": {
+  "note": "Lô R29F: 6 child cung đường (nội thành, cuối tuần, Mai Châu, Mộc Châu, Hà Giang, phố Bắc). Nguồn: WebSearch báo chí/cơ quan (phân luồng Sở Xây dựng Hà Nội 2026, Nghị quyết 202/2025/QH15, địa danh có thật). Kiểm trùng: list_titles.py theo child + grep toàn matrix có/không dấu theo thực thể chính, topic_check.py (G1-G9 + láng giềng Jaccard + intent).",
+  "created": "2026-10-29",
+  "source": "coordinator topic expansion 2026-10-29 theo docs/TAXONOMY.md, gate G1-G9"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-001",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Vành đai 1 đoạn Hoàng Cầu – Voi Phục mới thông xe tạm: đi xe máy qua các nút Giảng Võ – Láng Hạ, Nguyễn Chí Thanh",
+   "intent": "Người dùng hỏi: «Đoạn Vành đai 1 Hoàng Cầu – Voi Phục vừa thông xe tạm thì đi xe máy từ Ô Chợ Dừa lên Voi Phục, Cầu Giấy thế nào, chỗ nào cấm rẽ trái và phải quay đầu?». Bài giải thích phương án tổ chức giao thông tạm do Sở Xây dựng Hà Nội công bố khi thông xe tạm từ ngày 2/9/2026 ở các nút Hoàng Cầu – Hào Nam – La Thành cũ, Giảng Võ – Láng Hạ, Nguyễn Chí Thanh và Voi Phục, chỉ cách đọc đảo tự hành, rào chắn thi công cầu vượt và điểm quay đầu cho xe máy; nhấn mạnh phương án là tạm thời, phải kiểm tra thông báo mới nhất, không nêu mức phạt. Người đọc là người thuê xe ở trọ hoặc làm việc quanh Đống Đa, Ba Đình, khác bài BLG-03495 (đường Đê La Thành cũ) và BLG-03496 (trục Liễu Giai – Nguyễn Chí Thanh) ở chỗ nói về tuyến đường mới mở và các nút đang tổ chức lại.",
+   "kw": "vành đai 1 hoàng cầu voi phục",
+   "kw2": [
+    "thông xe tạm vành đai 1",
+    "nút giảng võ láng hạ xe máy",
+    "đường hoàng cầu voi phục",
+    "cấm rẽ trái hoàng cầu"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người đi xe máy thuê ở Đống Đa, Ba Đình, Cầu Giấy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-002",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Quanh công trường cầu Trần Hưng Đạo bằng xe máy: Trần Khánh Dư một chiều, đê Nguyễn Khoái và các lối đi vòng",
+   "intent": "Người dùng hỏi: «Đang xây cầu Trần Hưng Đạo thì đi xe máy qua khu Trần Khánh Dư, đê Nguyễn Khoái, Lê Quý Đôn, Nguyễn Huy Tự thế nào, chiều nào bị cấm?». Bài tóm tắt phương án điều chỉnh giao thông phục vụ thi công cầu Trần Hưng Đạo mà Sở Xây dựng Hà Nội công bố (Trần Khánh Dư tổ chức một chiều, hiệu lực đến khi có thông báo khác, mốc đang công bố là cuối năm 2026), chỉ cách nhận biển, rào tôn và đường vòng cho người đi từ Hoàn Kiếm, Hai Bà Trưng ra đê hoặc sang Long Biên; không suy đoán ngày thông cầu, không nêu mức phạt, luôn nhắc kiểm tra thông báo mới. Người đọc là người thuê xe đi lại khu Hai Bà Trưng – Hoàn Kiếm ven sông, khác bài BLG-04765 (trục ven đê Trần Nhật Duật – Trần Khánh Dư lúc bình thường) ở chỗ nói về giai đoạn có công trường và phân luồng.",
+   "kw": "công trường cầu trần hưng đạo",
+   "kw2": [
+    "phân luồng thi công cầu trần hưng đạo",
+    "trần khánh dư một chiều",
+    "đê nguyễn khoái xe máy",
+    "đường vòng khu lò đúc"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người đi xe máy thuê qua Hoàn Kiếm, Hai Bà Trưng ven sông Hồng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-003",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Công trường cầu Tứ Liên ở Nghi Tàm – Âu Cơ: đi xe máy ven đê Tây Hồ khi đường bị thu hẹp và chuyển hướng",
+   "intent": "Người dùng hỏi: «Đường Nghi Tàm, Âu Cơ đang rào để làm cầu Tứ Liên thì đi xe máy từ Yên Phụ lên Nhật Tân thế nào, chỗ nào phải vào đường tạm một chiều?». Bài giải thích các giai đoạn điều chỉnh giao thông phục vụ thi công đường dẫn cầu Tứ Liên do Sở Xây dựng Hà Nội công bố trong năm 2026 (rào dải phân cách, mặt đường còn lại hẹp hơn, đường tạm một chiều, cấm xe khách lớn và xe tải trên một số đoạn), cách giữ làn và tránh dừng đỗ sát rào khi chạy xe máy, lối vòng qua Lạc Long Quân hoặc đê khi ùn; không suy đoán ngày hoàn thành, không nêu mức phạt. Người đọc là người thuê xe ở Tây Hồ hoặc hay đi đường đê, khác bài BLG-04709 (đường đê Âu Cơ – An Dương Vương lúc chưa có công trường) ở chỗ tập trung vào đoạn đang thi công cầu.",
+   "kw": "công trường cầu tứ liên",
+   "kw2": [
+    "phân luồng nghi tàm âu cơ",
+    "đường tạm nghi tàm",
+    "xe máy đường đê tây hồ thi công",
+    "cầu tứ liên đi xe máy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người đi xe máy thuê ở Tây Hồ, Ba Đình",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-004",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Rào chắn các ga ngầm metro Nhổn – ga Hà Nội: chạy xe máy qua Kim Mã, Cát Linh, Văn Miếu và Trần Hưng Đạo",
+   "intent": "Người dùng hỏi: «Đoạn ngầm metro Nhổn – ga Hà Nội còn rào ở đâu, đi xe máy qua Kim Mã, Cát Linh, Quốc Tử Giám, Trần Hưng Đạo thì làn còn rộng không, rẽ thế nào?». Bài mô tả các công trường ga ngầm S9 Kim Mã, S10 Cát Linh, S11 Văn Miếu, S12 Ga Hà Nội theo thông tin Ban Quản lý đường sắt đô thị và cơ quan chức năng đã công bố (rào được thu gọn từng đợt, mở lối rẽ phải tạm ở một số nút), cách chạy xe máy trong làn hẹp cạnh rào tôn, tấm thép lót đường và cổng công trường, cách chọn trục khác khi ùn; không nêu ngày hoàn thành chắc chắn, không nêu mức phạt. Người đọc là người thuê xe đi ngang khu Ba Đình – Đống Đa – Hoàn Kiếm, khác bài BLG-02673 (chọn trục Kim Mã hay trục Láng) ở chỗ chỉ nói về các điểm rào công trường ga ngầm.",
+   "kw": "rào chắn ga ngầm metro",
+   "kw2": [
+    "ga ngầm kim mã rào chắn",
+    "công trường ga văn miếu",
+    "metro nhổn ga hà nội đoạn ngầm",
+    "xe máy qua công trường metro"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người đi xe máy thuê qua Ba Đình, Đống Đa, Hoàn Kiếm",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-005",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Thung Nắng và đền Thái Vi gần Tam Cốc bằng xe máy: hai điểm vắng hơn để ghép vào chuyến Ninh Bình cuối tuần",
+   "intent": "Người dùng hỏi: «Đã đi Tam Cốc, Tràng An rồi, cuối tuần muốn tìm chỗ vắng hơn quanh đó thì Thung Nắng và đền Thái Vi đi xe máy thế nào?». Bài hướng dẫn chạy xe từ khu Tam Cốc – Bích Động vào đền Thái Vi (đền thờ các vua Trần giữa cánh đồng) và tới bến Thạch Bích để đi thuyền vào Thung Nắng, cách để xe, giờ nên đi để tránh đông, xin phép khi chụp ảnh và cách xếp vào lịch một ngày từ Hà Nội; không nêu giá vé, giá thuyền cụ thể. Người đọc là nhóm bạn hoặc cặp đôi thuê xe từ Hà Nội đã quen Ninh Bình, khác bài BLG-01283 (cung đường đi Tam Cốc – Bích Động) ở chỗ nói về hai điểm phụ ít người biết.",
+   "kw": "thung nắng đền thái vi",
+   "kw2": [
+    "đi thung nắng bằng xe máy",
+    "đền thái vi tam cốc",
+    "bến thạch bích thung nắng",
+    "ninh bình vắng khách cuối tuần"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "nhóm bạn, cặp đôi thuê xe máy từ Hà Nội đi Ninh Bình",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-006",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Làng cổ Hùng Lô ở Việt Trì bằng xe máy: đình gỗ, nhà cổ và cách ghép với chuyến Đền Hùng cuối tuần",
+   "intent": "Người dùng hỏi: «Đi Đền Hùng xong có nên ghé làng cổ Hùng Lô không, từ Hà Nội chạy xe máy tới làng và gửi xe ở đâu?». Bài giới thiệu làng cổ Hùng Lô và đình Hùng Lô (di tích quốc gia, gắn tục rước kiệu lên Đền Hùng), hướng đi xe máy từ Hà Nội theo quốc lộ 2 vào Việt Trì (không đi cao tốc), cách để xe đầu làng rồi đi bộ trong ngõ, ứng xử khi vào nhà cổ có người ở và cách xếp lịch một ngày cùng Đền Hùng; không nêu giá vé. Người đọc là gia đình hoặc nhóm bạn thuê xe đi Phú Thọ cuối tuần, khác bài BLG-01877 (cung đường Hà Nội đi Đền Hùng) ở chỗ nói về điểm ghé thêm ở Việt Trì.",
+   "kw": "làng cổ hùng lô",
+   "kw2": [
+    "đình hùng lô",
+    "làng cổ hùng lô việt trì",
+    "ghép đền hùng và hùng lô",
+    "đi việt trì bằng xe máy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "gia đình, nhóm bạn thuê xe máy từ Hà Nội đi Phú Thọ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-007",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Làng vườn Bách Thuận ở Vũ Thư bằng xe máy: đường hoa ven sông Hồng và cách ghép với Nam Định trong cuối tuần",
+   "intent": "Người dùng hỏi: «Làng vườn Bách Thuận ở đâu, đi xe máy từ Hà Nội có đáng không và ghép với chuyến Nam Định thế nào?». Bài giới thiệu làng vườn Bách Thuận (Vũ Thư, thuộc Thái Bình cũ, nay là tỉnh Hưng Yên sau sáp nhập 2025) với nhà vườn cây cảnh, đường hoa và bãi bồi ven sông Hồng, gợi ý chạy xe máy đi một đường về một đường qua Nam Định, cách để xe và đi chậm trong đường làng hẹp, mùa hoa nên đi; không nêu giá dịch vụ. Người đọc là người thích chụp ảnh và đi chậm cuối tuần, khác bài BLG-02687 (đền Trần và chùa Phổ Minh Nam Định) ở chỗ nói về làng vườn sinh thái bên kia sông.",
+   "kw": "làng vườn bách thuận",
+   "kw2": [
+    "bách thuận vũ thư",
+    "làng vườn thái bình",
+    "đi bách thuận bằng xe máy",
+    "đường hoa bách thuận"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người thích chụp ảnh, đi chậm cuối tuần từ Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-008",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Bản Sưng ở Đà Bắc bằng xe máy: theo tỉnh lộ 433 ven hồ Hòa Bình vào bản Dao Tiền và nghỉ lại một đêm",
+   "intent": "Người dùng hỏi: «Muốn ở bản người Dao vắng khách gần Hà Nội, đi bản Sưng Đà Bắc bằng xe máy thế nào, đường có khó không?». Bài hướng dẫn chuyến hai ngày từ Hà Nội lên Hòa Bình rồi theo tỉnh lộ 433 dọc lòng hồ Hòa Bình vào bản Sưng (người Dao Tiền, dưới dãy núi Biều), đoạn đường đồi dốc cần số thấp, đổ xăng trước khi rời trung tâm, cách hỏi nhà dân làm du lịch cộng đồng để ở lại và ứng xử trong bản; không nêu giá phòng, giá ăn. Người đọc là nhóm nhỏ thích bản làng yên tĩnh, khác bài BLG-01020 (đi Thung Nai) và BLG-05432 (Ba Khan, Mai Châu) ở chỗ đi phía bắc lòng hồ qua Đà Bắc.",
+   "kw": "bản sưng đà bắc",
+   "kw2": [
+    "đi đà bắc bằng xe máy",
+    "tỉnh lộ 433 hòa bình",
+    "bản dao tiền hòa bình",
+    "du lịch cộng đồng đà bắc"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "nhóm nhỏ thuê xe máy từ Hà Nội thích ở bản",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-009",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Đền Đuổm ở Phú Lương bằng xe máy: theo quốc lộ 3 qua Thái Nguyên, đi ngày thường hay vào mùa hội tháng Giêng",
+   "intent": "Người dùng hỏi: «Đền Đuổm ở đâu, đi xe máy từ Hà Nội mất cả ngày không, mùa hội đầu năm có quá đông không?». Bài hướng dẫn chạy xe máy từ Hà Nội lên Thái Nguyên rồi theo quốc lộ 3 lên Phú Lương tới đền Đuổm thờ Dương Tự Minh (di tích quốc gia, lễ hội đầu tháng Giêng là di sản phi vật thể quốc gia), so sánh đi ngày thường với dịp hội, cách gửi xe, leo bậc lên đền và ghép với đồi chè hoặc ATK Định Hóa nếu ngủ lại; không đi cao tốc, không nêu giá. Người đọc là người đi lễ đầu năm hoặc thích di tích, khác bài BLG-02768 (ATK Định Hóa) và BLG-02683 (đồi chè Tân Cương) ở chỗ nói về đền Đuổm trên quốc lộ 3.",
+   "kw": "đền đuổm thái nguyên",
+   "kw2": [
+    "đi đền đuổm bằng xe máy",
+    "lễ hội đền đuổm",
+    "quốc lộ 3 phú lương",
+    "đi lễ đầu năm thái nguyên"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người đi lễ đầu năm, thích di tích, thuê xe từ Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-010",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Cuối tuần mùa đông gần Hà Nội bằng xe máy: chọn điểm hợp khi rét đậm và để dành nơi nào cho mùa khác",
+   "intent": "Người dùng hỏi: «Mùa đông rét đậm thì cuối tuần đi xe máy quanh Hà Nội nên đi đâu, chỗ nào nên tránh?». Bài giúp chọn điểm theo thời tiết mùa đông: ưu tiên quãng ngắn, đường bằng, điểm có chỗ trú ấm (chùa, làng nghề, suối khoáng nóng đã có bài riêng), hạn chế đèo núi cao khi có sương mù và rét hại, đọc bản tin rét đậm rét hại, xếp giờ đi về trước khi trời tối sớm và mặc đủ ấm cho cả người ngồi sau; chỉ liệt kê điểm đã có thật, không nêu giá. Người đọc là người ở Hà Nội muốn đi chơi cuối tuần tháng 12 – tháng 2, khác bài BLG-02212 (xếp giờ một ngày thuê xe mùa đông) và BLG-02696 (đi về trong ngày hay ngủ lại) ở chỗ chọn điểm đến theo điều kiện rét.",
+   "kw": "cuối tuần mùa đông gần hà nội",
+   "kw2": [
+    "đi chơi mùa đông bằng xe máy",
+    "rét đậm có nên đi phượt",
+    "điểm đi cuối tuần tháng 12",
+    "đi xe máy ngày rét hại"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người ở Hà Nội đi chơi cuối tuần mùa đông bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-011",
+   "child_id": "C-CD-MAI-CHAU",
+   "title": "Từ Ninh Bình, Cúc Phương sang Mai Châu bằng xe máy theo quốc lộ 12B: nối hai chuyến thành một vòng",
+   "intent": "Người dùng hỏi: «Đang ở Ninh Bình hoặc Cúc Phương, muốn sang thẳng Mai Châu bằng xe máy không quay về Hà Nội thì đi đường nào?». Bài hướng dẫn chặng nối theo quốc lộ 12B từ phía Nho Quan, men vùng Cúc Phương lên gặp quốc lộ 6 rồi qua đèo Thung Khe vào Mai Châu, các đoạn đường đồi vắng cần đổ xăng trước, giờ xuất phát để không chạy đèo lúc tối, và gợi ý vòng Hà Nội – Ninh Bình – Mai Châu – Hà Nội; không nêu số km chính xác. Người đọc là người thuê xe nhiều ngày muốn ghép hai vùng, khác bài BLG-00778 (Hà Nội đi Mai Châu) và BLG-06022 (ghép Mai Châu – Mộc Châu) ở chỗ nối Mai Châu với Ninh Bình.",
+   "kw": "từ ninh bình sang mai châu",
+   "kw2": [
+    "quốc lộ 12b xe máy",
+    "cúc phương đi mai châu",
+    "vòng ninh bình mai châu",
+    "nối ninh bình với mai châu"
+   ],
+   "links": [
+    "/cung-duong/mai-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người thuê xe máy nhiều ngày ghép Ninh Bình và Mai Châu",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-012",
+   "child_id": "C-CD-MAI-CHAU",
+   "title": "Chợ phiên Pà Cò sáng Chủ nhật: chạy xe máy từ bản Lác lên chợ, xuất phát lúc nào và để xe ở đâu",
+   "intent": "Người dùng hỏi: «Ở Mai Châu cuối tuần có đi kịp chợ phiên Pà Cò không, chợ họp lúc nào, đường lên có khó không?». Bài hướng dẫn xếp đêm thứ Bảy ở Mai Châu để sáng Chủ nhật chạy xe lên chợ phiên Pà Cò (chợ họp sáng Chủ nhật, tan khoảng trưa, nơi người Mông các xã Hang Kia, Pà Cò và vùng giáp ranh xuống chợ), cách chạy đường núi lúc sương sớm, chỗ để xe quanh chợ, chụp ảnh lịch sự và quay về Hà Nội trong chiều; không nêu giá hàng. Người đọc là khách ở Mai Châu cuối tuần, khác bài BLG-02718 (có nên đi Pà Cò – Hang Kia) ở chỗ trả lời riêng cách đi đúng phiên chợ.",
+   "kw": "chợ phiên pà cò",
+   "kw2": [
+    "chợ pà cò chủ nhật",
+    "đi chợ phiên pà cò bằng xe máy",
+    "chợ phiên người mông mai châu",
+    "hang kia pà cò sáng sớm"
+   ],
+   "links": [
+    "/cung-duong/mai-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "khách ở Mai Châu cuối tuần bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-013",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Từ Mộc Châu sang Tà Xùa bằng xe máy: theo quốc lộ 43 hay vòng ngã ba Cò Nòi lên Bắc Yên",
+   "intent": "Người dùng hỏi: «Đang ở Mộc Châu muốn đi tiếp Tà Xùa săn mây thì chọn đường nào, đường có xấu không?». Bài so sánh hai hướng nối Mộc Châu với Tà Xùa: theo quốc lộ 43 về phía Phù Yên rồi lên Bắc Yên, hoặc theo quốc lộ 6 tới ngã ba Cò Nòi rồi quốc lộ 37 lên Bắc Yên, nêu đặc điểm đường dốc, đoạn xấu, chỗ đổ xăng, giờ xuất phát để không chạy đèo lúc tối và khi nào nên ngủ lại Bắc Yên; không nêu số km và thời gian chính xác. Người đọc là người thuê xe từ Hà Nội đi vòng Tây Bắc, khác bài BLG-02758 (săn mây Tà Xùa từ Hà Nội) và BLG-06022 (ghép Mai Châu – Mộc Châu) ở chỗ là chặng nối Mộc Châu – Tà Xùa.",
+   "kw": "từ mộc châu đi tà xùa",
+   "kw2": [
+    "mộc châu tà xùa xe máy",
+    "quốc lộ 43 đi bắc yên",
+    "ngã ba cò nòi đi tà xùa",
+    "vòng mộc châu tà xùa"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người thuê xe máy từ Hà Nội đi vòng Tây Bắc",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-014",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Đồi chè trái tim ở Tân Lập, Mộc Châu bằng xe máy: ngã ba không biển, đường nhỏ và chụp ảnh không giẫm lên chè",
+   "intent": "Người dùng hỏi: «Đồi chè trái tim Mộc Châu đi đường nào, rẽ ở đâu, có gửi xe không?». Bài chỉ hướng từ trung tâm Mộc Châu rẽ khỏi trục chính vào đường nhỏ về phía Tân Lập (ngã rẽ thường không có biển nên phải dò bản đồ hoặc hỏi dân), chạy xe chậm trên đường hẹp giữa đồi chè, chỗ để xe, giờ chụp ảnh đẹp và không đi vào luống chè làm hỏng hình trái tim; ghép với thung lũng Nà Ka gần đó. Người đọc là người đi Mộc Châu lần đầu muốn chụp ảnh, khác bài BLG-00781 (đồi chè Mộc Châu nói chung) và BLG-06031 (xin phép vào vườn mận, đồi chè) ở chỗ chỉ đường tới đúng đồi chè trái tim.",
+   "kw": "đồi chè trái tim mộc châu",
+   "kw2": [
+    "đường vào đồi chè trái tim",
+    "đồi chè tân lập",
+    "chụp ảnh đồi chè mộc châu",
+    "đồi chè trái tim đi xe máy"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người đi Mộc Châu lần đầu muốn chụp ảnh",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-015",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Bản Pa Phách ở Mộc Châu mùa hoa mận: đường đất đỏ dốc lên bản người Mông và khi nào nên để xe dưới chân dốc",
+   "intent": "Người dùng hỏi: «Bản Pa Phách ngắm hoa mận đi thế nào, đường lên bản có đi được xe ga không?». Bài hướng dẫn rẽ từ quốc lộ 6 vào đường nhỏ lên bản Pa Phách (bản người Mông ở Đông Sang), đoạn dốc đất đỏ trơn khi mưa, khi nào nên để xe dưới chân dốc và đi bộ, thời điểm hoa mận đầu năm, ngắm vườn mận nhà dân lịch sự và không bẻ cành; không nêu phí. Người đọc là người đi săn hoa mận Mộc Châu bằng xe thuê, khác bài BLG-00780 (mùa hoa mận đi tháng mấy) và BLG-06024 (thung lũng Nà Ka) ở chỗ nói về bản Pa Phách và đường lên bản khó.",
+   "kw": "bản pa phách mộc châu",
+   "kw2": [
+    "đường lên bản pa phách",
+    "hoa mận pa phách",
+    "bản mông đông sang mộc châu",
+    "xe ga lên dốc đất đỏ"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người đi săn hoa mận Mộc Châu bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-016",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Từ Mèo Vạc sang Bảo Lạc, Cao Bằng bằng xe máy: nối vòng Hà Giang với Cao Bằng qua đèo Khau Cốc Chà",
+   "intent": "Người dùng hỏi: «Chạy xong vòng Hà Giang muốn sang thẳng Cao Bằng không quay về thì từ Mèo Vạc đi Bảo Lạc thế nào, đường có khó không?». Bài hướng dẫn chặng nối từ Mèo Vạc sang Bảo Lạc (Cao Bằng) rồi về phía trung tâm Cao Bằng qua đèo Khau Cốc Chà nhiều tầng cua, đường hẹp và vắng hơn vòng Hà Giang, chỗ đổ xăng, phiên chợ Bảo Lạc theo ngày âm lịch, giờ xuất phát để không chạy đèo lúc tối và việc báo trước với cửa hàng khi đưa xe đi xa; không nêu số km chính xác. Người đọc là người thuê xe từ Hà Nội đi vòng Hà Giang – Cao Bằng nhiều ngày, khác bài BLG-02731 (vòng cung Hà Giang đi chiều nào) ở chỗ là chặng rời Hà Giang sang Cao Bằng.",
+   "kw": "từ mèo vạc đi bảo lạc",
+   "kw2": [
+    "đèo khau cốc chà",
+    "hà giang sang cao bằng xe máy",
+    "chợ phiên bảo lạc",
+    "vòng hà giang cao bằng"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người thuê xe máy đi vòng Hà Giang – Cao Bằng nhiều ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-017",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Cột mốc 428 ở Séo Lủng, điểm cực Bắc thật: từ cột cờ Lũng Cú đi xe máy tới đâu, đi bộ đoạn nào và hỏi biên phòng",
+   "intent": "Người dùng hỏi: «Cột cờ Lũng Cú có phải điểm cực Bắc không, muốn tới cột mốc 428 ở Séo Lủng thì đi thế nào?». Bài giải thích cột cờ Lũng Cú là biểu tượng còn điểm cực Bắc được đánh dấu bằng cột mốc 428 ở bản Séo Lủng sát biên giới, hướng chạy xe máy từ khu cột cờ vào bản, chỗ để xe, đoạn đi bộ theo lối làm nương, việc hỏi đồn biên phòng và người địa phương trước khi vào khu vực biên giới, đi sớm để về trước tối; không nêu số km, không vẽ lối mòn chi tiết. Người đọc là người chạy vòng Hà Giang muốn chạm điểm cực Bắc, khác bài BLG-01062 (chạy xe lên Lũng Cú) và BLG-02738 (làng Lô Lô Chải) ở chỗ nói về cột mốc 428.",
+   "kw": "cột mốc 428 điểm cực bắc",
+   "kw2": [
+    "séo lủng lũng cú",
+    "điểm cực bắc việt nam xe máy",
+    "cột mốc 428 đi thế nào",
+    "cực bắc khác cột cờ lũng cú"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người chạy vòng Hà Giang bằng xe máy thuê từ Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-018",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Từ Bắc Hà sang Xín Mần qua Cốc Pài bằng xe máy: nối Lào Cai với phía tây Hà Giang cũ trên đường độc đạo",
+   "intent": "Người dùng hỏi: «Đi chợ Bắc Hà xong muốn sang Xín Mần, Hoàng Su Phì bằng xe máy thì đường qua Cốc Pài có khó không?». Bài hướng dẫn chặng nối từ Bắc Hà (Lào Cai) sang Cốc Pài và Xín Mần (Hà Giang cũ, nay thuộc tỉnh Tuyên Quang), đường núi nhiều cua sát vực, đoạn hẹp và lối mòn nên tránh, chỗ đổ xăng và nghỉ ở Cốc Pài, mùa lúa chín và mùa hoa, rồi đi tiếp Hoàng Su Phì; không nêu số km chính xác. Người đọc là người thuê xe đi vòng Tây Bắc – Đông Bắc nhiều ngày, khác bài BLG-02732 (Hoàng Su Phì ghép với vòng Hà Giang) và BLG-02755 (chợ phiên Bắc Hà) ở chỗ là chặng nối Bắc Hà – Xín Mần.",
+   "kw": "từ bắc hà đi xín mần",
+   "kw2": [
+    "cốc pài xín mần",
+    "bắc hà xín mần xe máy",
+    "xín mần hoàng su phì",
+    "đường độc đạo bắc hà"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người thuê xe máy đi vòng Lào Cai – Hà Giang nhiều ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-019",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Hà Giang dịp Tết Nguyên đán và mùa hoa đào, mận, cải vàng đầu năm: chạy xe máy lúc rét, đường đông và quán nghỉ Tết",
+   "intent": "Người dùng hỏi: «Đi Hà Giang dịp Tết Đinh Mùi 2027 bằng xe máy có ổn không, hoa đào, hoa mận nở lúc nào, quán xá có nghỉ Tết không?». Bài giúp chọn ngày đi quanh Tết và rằm tháng Giêng khi hoa đào, mận nở trên cao nguyên Đồng Văn, Mèo Vạc, Lũng Cú và cải vàng còn trên nương, cảnh báo mưa phùn, rét đậm, sương muối trên đèo, quán ăn, cây xăng, tiệm sửa xe có thể nghỉ mấy ngày đầu năm, đặt chỗ nghỉ sớm, ngày về Hà Nội tránh đông và hỏi lịch nghỉ Tết của cửa hàng thuê xe; không nêu giá. Người đọc là người tận dụng kỳ nghỉ Tết để đi Hà Giang, khác bài BLG-02745 (Hà Giang mùa lạnh nói chung) và BLG-06019 (Mộc Châu dịp Tết) ở chỗ riêng cho Hà Giang dịp Tết.",
+   "kw": "hà giang dịp tết nguyên đán",
+   "kw2": [
+    "hoa đào hà giang tháng giêng",
+    "hoa mận cao nguyên đá",
+    "đi hà giang tết bằng xe máy",
+    "cải vàng hà giang đầu năm"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người tận dụng kỳ nghỉ Tết đi Hà Giang bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-020",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Dốc Bắc Sum trên quốc lộ 4C: con dốc lớn đầu tiên khi chạy xe máy từ trung tâm Hà Giang lên Quản Bạ",
+   "intent": "Người dùng hỏi: «Dốc Bắc Sum ở đâu, có khó với xe số thuê không, dừng chụp ảnh ở chỗ nào cho an toàn?». Bài mô tả dốc Bắc Sum trên quốc lộ 4C đoạn từ Minh Tân lên Quyết Tiến trước khi tới Cổng Trời Quản Bạ, cách chọn số và giữ khoảng cách với xe khách, xe tải khi leo nhiều khúc cua, chỗ dừng chụp ảnh có lề rộng, cảnh báo đường trơn khi mưa và không nhầm với dốc Chín Khoanh ở Phố Cáo – Sủng Là; không nêu số khúc cua, độ dốc chính xác. Người đọc là người mới bắt đầu vòng Hà Giang, khác bài BLG-02733 (Cổng Trời Quản Bạ và Núi Đôi) và BLG-01063 (dốc Thẩm Mã) ở chỗ nói về con dốc đầu tiên của vòng.",
+   "kw": "dốc bắc sum hà giang",
+   "kw2": [
+    "dốc bắc sum xe máy",
+    "quốc lộ 4c quản bạ",
+    "leo dốc đầu vòng hà giang",
+    "điểm dừng chụp ảnh bắc sum"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người mới bắt đầu chạy vòng Hà Giang bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-021",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Cột cờ Lũng Pô ở A Mú Sung, nơi sông Hồng chảy vào Việt Nam: đi xe máy từ Lào Cai qua Bát Xát và ghé thế nào",
+   "intent": "Người dùng hỏi: «Cột cờ Lũng Pô ở đâu, từ Lào Cai đi xe máy lên A Mú Sung có xa và khó không?». Bài giới thiệu cột cờ Lũng Pô gần cột mốc 92, nơi sông Hồng chảy vào Việt Nam (khu vực do đồn biên phòng quản lý), hướng chạy xe máy từ Lào Cai lên Bát Xát rồi A Mú Sung dọc biên giới, chỗ đổ xăng, cách hỏi biên phòng khi vào khu vực biên giới, ứng xử nơi quốc kỳ, có thể ghép Y Tý; không nêu số km chính xác. Người đọc là người thuê xe từ Hà Nội đi Lào Cai muốn ghé điểm biên giới, khác bài BLG-04194 (một tuần đi Y Tý) ở chỗ nói riêng điểm Lũng Pô.",
+   "kw": "cột cờ lũng pô",
+   "kw2": [
+    "a mú sung bát xát",
+    "nơi sông hồng chảy vào việt nam",
+    "đi lũng pô bằng xe máy",
+    "cột mốc 92 lũng pô"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người thuê xe từ Hà Nội đi Lào Cai, Bát Xát",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-022",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Đèo Lũng Lô trên quốc lộ 37: nối Nghĩa Lộ với Phù Yên khi ghép Mù Cang Chải và Tà Xùa bằng xe máy",
+   "intent": "Người dùng hỏi: «Từ Nghĩa Lộ, Mù Cang Chải muốn sang Tà Xùa, Phù Yên thì đi đèo Lũng Lô thế nào, đường có khó không?». Bài hướng dẫn chặng từ Nghĩa Lộ theo quốc lộ 32 tới ngã ba Ba Khe rồi rẽ quốc lộ 37 qua đèo Lũng Lô sang Phù Yên, ý nghĩa lịch sử của đèo trên đường tiếp vận Điện Biên Phủ, cách chạy đèo nhiều cua, chỗ đổ xăng, khi nào nên nghỉ lại Phù Yên hay đi tiếp Bắc Yên; không nêu số km chính xác. Người đọc là người thuê xe đi vòng Tây Bắc, khác bài BLG-02756 (Mù Cang Chải mùa lúa chín) và BLG-02758 (săn mây Tà Xùa) ở chỗ là chặng nối qua đèo Lũng Lô.",
+   "kw": "đèo lũng lô",
+   "kw2": [
+    "quốc lộ 37 phù yên",
+    "nghĩa lộ đi phù yên",
+    "ngã ba ba khe",
+    "nối mù cang chải với tà xùa"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người thuê xe máy đi vòng Tây Bắc nhiều ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-023",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Đỉnh Phja Oắc ở Nguyên Bình, Cao Bằng bằng xe máy: đoạn đường lên đỉnh, săn mây và những ngày băng giá",
+   "intent": "Người dùng hỏi: «Đỉnh Phja Oắc đi xe máy lên tận nơi được không, nên đi mùa nào để săn mây?». Bài giới thiệu đỉnh Phja Oắc trong Vườn quốc gia Phja Oắc – Phja Đén (Nguyên Bình, Cao Bằng), đoạn đường từ chân núi lên đỉnh có thể chạy xe máy, cua dốc và sương mù, điểm ngắm cảnh trên đỉnh, mùa săn mây và những ngày băng giá mùa đông khi mặt đường trơn, cách ghép với khu biệt thự cổ Phja Đén; không nêu số km, độ cao chính xác ngoài nguồn chính thức. Người đọc là người đi vòng Cao Bằng, khác bài BLG-00791 (Pác Bó, Bản Giốc) ở chỗ nói về đỉnh núi Nguyên Bình.",
+   "kw": "đỉnh phja oắc",
+   "kw2": [
+    "phja oắc phja đén",
+    "săn mây cao bằng",
+    "nguyên bình cao bằng xe máy",
+    "phia oắc băng giá"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người thuê xe máy đi vòng Cao Bằng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-024",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Làng đá Khuổi Ky và động Ngườm Ngao bằng xe máy: ghé hai điểm trên tỉnh lộ 206 khi đi thác Bản Giốc",
+   "intent": "Người dùng hỏi: «Đi thác Bản Giốc thì có nên ghé làng đá Khuổi Ky và động Ngườm Ngao không, đi xe máy thế nào?». Bài hướng dẫn chạy theo tỉnh lộ 206 từ Trùng Khánh về phía Bản Giốc, rẽ vào làng đá Khuổi Ky (nhà sàn đá của người Tày) và động Ngườm Ngao gần đó, chỗ để xe, giày dép khi vào hang, cách xếp giờ cùng thác Bản Giốc trong một ngày và ứng xử khi vào làng có người ở; không nêu giá vé, giá phòng. Người đọc là người đi Cao Bằng bằng xe thuê, khác bài BLG-00791 (đường lên Bản Giốc) và BLG-05053 (Wave đi Bản Giốc) ở chỗ nói về hai điểm ghé quanh thác.",
+   "kw": "làng đá khuổi ky",
+   "kw2": [
+    "động ngườm ngao",
+    "tỉnh lộ 206 trùng khánh",
+    "ghé khuổi ky khi đi bản giốc",
+    "làng đá cao bằng"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người đi Cao Bằng, Bản Giốc bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-025",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Sở chỉ huy Mường Phăng và hồ Pá Khoang bằng xe máy: nửa ngày ngoài trung tâm Điện Biên Phủ",
+   "intent": "Người dùng hỏi: «Ở Điện Biên Phủ có nên đi Mường Phăng không, đường qua hồ Pá Khoang chạy xe máy thế nào?». Bài hướng dẫn chạy từ trung tâm Điện Biên Phủ theo hướng đông nam men hồ Pá Khoang lên xã Mường Phăng, nơi đặt Sở chỉ huy chiến dịch Điện Biên Phủ trong rừng dưới núi Pú Đồn, đoạn đèo quanh co, chỗ để xe và quãng đi bộ vào khu di tích, mùa hoa ban, giờ đi về trước tối; không nêu giá vé. Người đọc là người đi Điện Biên bằng xe thuê từ Hà Nội, khác bài BLG-02762 (đồi A1, hầm Đờ Cát, bảo tàng) ở chỗ nói về di tích nằm ngoài trung tâm.",
+   "kw": "sở chỉ huy mường phăng",
+   "kw2": [
+    "hồ pá khoang",
+    "mường phăng điện biên",
+    "đi mường phăng bằng xe máy",
+    "di tích ngoài trung tâm điện biên"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người đi Điện Biên Phủ bằng xe máy thuê từ Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-026",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Từ Điện Biên lên Lai Châu theo quốc lộ 12 qua Mường Lay: chặng khép vòng Tây Bắc trước khi về Sa Pa",
+   "intent": "Người dùng hỏi: «Đi Điện Biên xong muốn về bằng đường Lai Châu – Sa Pa thì quốc lộ 12 qua Mường Lay chạy xe máy thế nào?». Bài hướng dẫn chặng quốc lộ 12 từ Điện Biên Phủ qua Mường Chà, Mường Lay (nơi hợp lưu sông Đà, Nậm Na) và cầu Hang Tôm sang Lai Châu, những đoạn hay sạt lở mùa mưa và cách tra tình hình đường, chỗ đổ xăng, nghỉ đêm ở Mường Lay hay Lai Châu, rồi nối đèo Ô Quy Hồ về Sa Pa; không nêu số km chính xác. Người đọc là người thuê xe đi vòng Tây Bắc nhiều ngày, khác bài BLG-02761 (Điện Biên về Hà Nội qua Sơn La) và BLG-02753 (đèo Ô Quy Hồ) ở chỗ là chặng Điện Biên – Lai Châu.",
+   "kw": "điện biên đi lai châu xe máy",
+   "kw2": [
+    "quốc lộ 12 mường lay",
+    "cầu hang tôm sông đà",
+    "vòng tây bắc qua lai châu",
+    "mường lay nghỉ đêm"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người thuê xe máy đi vòng Tây Bắc nhiều ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-027",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Rời Tà Xùa về Nghĩa Lộ qua Trạm Tấu bằng xe máy: đường dốc xuống, suối khoáng nóng và giờ xuất phát",
+   "intent": "Người dùng hỏi: «Săn mây Tà Xùa xong có nên về qua Trạm Tấu thay vì quay lại Bắc Yên không, đường xuống có nguy hiểm không?». Bài hướng dẫn chặng từ Tà Xùa xuống Trạm Tấu (nay thuộc tỉnh Lào Cai sau sáp nhập) rồi về Nghĩa Lộ, đoạn dốc dài phải giữ số thấp và phanh động cơ, sương mù và đá dăm, ghé suối khoáng nóng Trạm Tấu, giờ xuất phát để không chạy dốc lúc tối và đường từ Nghĩa Lộ về Hà Nội; không nêu số km chính xác. Người đọc là người thuê xe đi Tà Xùa, khác bài BLG-02758 (săn mây Tà Xùa) và BLG-05048 (Wave leo dốc từ Bắc Yên) ở chỗ là đường về qua Trạm Tấu.",
+   "kw": "tà xùa về trạm tấu",
+   "kw2": [
+    "đường trạm tấu nghĩa lộ",
+    "suối khoáng nóng trạm tấu",
+    "xuống dốc tà xùa xe máy",
+    "vòng tà xùa trạm tấu"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người thuê xe máy đi săn mây Tà Xùa",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-028",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Bản tin báo băng giá, mưa tuyết ở Sa Pa, Mẫu Sơn, Y Tý: có nên chạy xe máy từ Hà Nội lên săn băng không",
+   "intent": "Người dùng hỏi: «Nghe tin Sa Pa, Mẫu Sơn có băng tuyết, có nên chạy xe máy lên ngay không, nguy hiểm ở đâu?». Bài giúp quyết định khi có bản tin rét hại, băng giá, mưa tuyết: băng thường xuất hiện ngắn vào sáng sớm trên đỉnh cao, mặt đường đèo có thể đóng băng gây trượt bánh, dòng xe đổ lên gây ùn tắc, chính quyền có thể hạn chế lên đỉnh, xe khó nổ máy, cần đồ giữ ấm và phương án ngủ lại hoặc quay đầu; không cổ vũ đi gấp, không nêu số liệu nhiệt độ không có nguồn. Người đọc là người ở Hà Nội thích săn băng tuyết mùa đông, khác bài BLG-02754 (Sa Pa mùa đông sương mù) và BLG-01069 (Mẫu Sơn mùa sương) ở chỗ xử lý tình huống có tin băng tuyết.",
+   "kw": "săn băng tuyết bằng xe máy",
+   "kw2": [
+    "băng giá sa pa xe máy",
+    "tuyết mẫu sơn có nên đi",
+    "đường đèo đóng băng",
+    "rét hại đi phượt"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người ở Hà Nội thích săn băng tuyết mùa đông bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-029",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Đi phượt phía Bắc sau sáp nhập tỉnh 2025: Hà Giang, Yên Bái, Hòa Bình, Bắc Kạn nay thuộc tỉnh nào khi tra đường",
+   "intent": "Người dùng hỏi: «Sau sáp nhập tỉnh, Hà Giang, Yên Bái, Hòa Bình, Bắc Kạn giờ thuộc tỉnh nào, địa chỉ homestay và biển chỉ đường có đổi không?». Bài dựa trên Nghị quyết 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh: Hà Giang nhập vào Tuyên Quang, Yên Bái vào Lào Cai, Hòa Bình và Vĩnh Phúc vào Phú Thọ, Bắc Kạn vào Thái Nguyên, các tỉnh giữ nguyên như Cao Bằng, Lạng Sơn, Sơn La, Điện Biên, Lai Châu; không còn cấp huyện nên địa chỉ ghi xã mới, bản đồ số và biển cũ có thể chưa cập nhật, cách đối chiếu tên cũ – tên mới khi đặt chỗ, gọi cứu hộ và báo vị trí cho cửa hàng thuê xe. Người đọc là người chuẩn bị chuyến xe máy lên phía Bắc, khác bài BLG-04759 (tên xã mới ở ngoại thành Hà Nội) và BLG-02858 (địa chỉ CCCD tỉnh cũ) ở chỗ áp dụng cho các cung đường miền núi phía Bắc.",
+   "kw": "đi phượt sau sáp nhập tỉnh",
+   "kw2": [
+    "hà giang nay thuộc tỉnh nào",
+    "yên bái sáp nhập lào cai",
+    "địa chỉ homestay sau sáp nhập",
+    "tên tỉnh mới phía bắc"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người chuẩn bị chuyến xe máy thuê lên miền núi phía Bắc",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-030",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Chợ phiên Cán Cấu sáng thứ Bảy bằng xe máy: từ Bắc Hà theo tỉnh lộ 153 lên Si Ma Cai rồi kịp phiên Bắc Hà",
+   "intent": "Người dùng hỏi: «Chợ Cán Cấu họp ngày nào, từ Bắc Hà đi xe máy lên mất bao lâu, có ghép được với chợ Bắc Hà không?». Bài hướng dẫn xếp lịch cuối tuần ở Bắc Hà: sáng thứ Bảy chạy theo tỉnh lộ 153 lên chợ phiên Cán Cấu (Si Ma Cai, chợ họp sáng và tan quãng trưa, có khu chợ trâu), chỗ để xe, cách chụp ảnh lịch sự, đường đèo khi sương sớm, rồi sáng Chủ nhật đi chợ Bắc Hà; không nêu giá hàng, không nêu số km chính xác. Người đọc là người thuê xe từ Hà Nội đi Lào Cai cuối tuần, khác bài BLG-02755 (chợ phiên Bắc Hà) ở chỗ nói về phiên chợ thứ Bảy ở Cán Cấu.",
+   "kw": "chợ phiên cán cấu",
+   "kw2": [
+    "chợ cán cấu thứ bảy",
+    "si ma cai bằng xe máy",
+    "tỉnh lộ 153 bắc hà",
+    "chợ trâu cán cấu"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người thuê xe máy đi Lào Cai, Bắc Hà cuối tuần",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-031",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Bản Sin Suối Hồ ở Phong Thổ bằng xe máy: từ trung tâm Lai Châu lên bản Mông dưới núi Sơn Bạc Mây và nghỉ đêm",
+   "intent": "Người dùng hỏi: «Bản Sin Suối Hồ đi xe máy từ trung tâm Lai Châu thế nào, có nên ở lại đêm không?». Bài hướng dẫn đoạn đường núi nhiều cua dốc từ trung tâm Lai Châu lên bản Sin Suối Hồ (bản người Mông làm du lịch cộng đồng, từng nhận giải thưởng du lịch cộng đồng ASEAN), đường bê tông trong bản, chỗ để xe ở nhà dân, ứng xử trong bản, việc thuê người địa phương nếu muốn leo núi và giờ đi về trước tối; không nêu giá phòng. Người đọc là người đi vòng Tây Bắc qua Lai Châu, khác bài BLG-02753 (đèo Ô Quy Hồ nối Sa Pa – Lai Châu) ở chỗ nói về điểm nghỉ phía bắc Lai Châu.",
+   "kw": "bản sin suối hồ",
+   "kw2": [
+    "sin suối hồ phong thổ",
+    "du lịch cộng đồng lai châu",
+    "đi sin suối hồ bằng xe máy",
+    "bản mông lai châu nghỉ đêm"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người thuê xe máy đi vòng Tây Bắc qua Lai Châu",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-032",
+   "child_id": "C-CD-MAI-CHAU",
+   "title": "Lễ hội Khai hạ Mường Bi ở Tân Lạc đầu tháng Giêng: ghé bằng xe máy trên đường lên Mai Châu hay đi riêng trong ngày",
+   "intent": "Người dùng hỏi: «Đầu năm đi Mai Châu có ghé được lễ hội Khai hạ Mường Bi không, hội họp ngày nào, đi xe máy và gửi xe ra sao?». Bài giới thiệu lễ hội Khai hạ của người Mường ở xã Phong Phú, Tân Lạc (thường vào mùng 7, mùng 8 tháng Giêng, nay là lễ hội cấp tỉnh), cách rẽ khỏi quốc lộ 6 vào khu lễ hội, giờ đến tránh đông, gửi xe và giữ đồ, uống rượu trong hội thì không lái xe, rồi chọn đi tiếp lên Mai Châu hay quay về Hà Nội trong ngày; nhắc kiểm tra lịch chính thức năm 2027, không nêu giá. Người đọc là người đi chơi đầu năm bằng xe máy thuê, khác bài BLG-05433 (Bảo tàng Không gian Văn hóa Mường) và BLG-02714 (Mai Châu dịp lễ dài) ở chỗ nói về lễ hội Mường Bi đầu xuân.",
+   "kw": "lễ hội khai hạ mường bi",
+   "kw2": [
+    "khai hạ tân lạc",
+    "lễ hội người mường hòa bình",
+    "đi lễ hội đầu xuân bằng xe máy",
+    "phong phú tân lạc"
+   ],
+   "links": [
+    "/cung-duong/mai-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người đi chơi đầu năm bằng xe máy thuê từ Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29F-033",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Hồ Thang Hen ở Trà Lĩnh bằng xe máy: rẽ khỏi quốc lộ 3 sau đèo Mã Phục lên cụm hồ trên núi đá Cao Bằng",
+   "intent": "Người dùng hỏi: «Hồ Thang Hen đi xe máy từ trung tâm Cao Bằng thế nào, đường lên hồ có dốc không, nên ghé lúc nào?». Bài hướng dẫn theo quốc lộ 3 qua đèo Mã Phục, rẽ tỉnh lộ 205 rồi đường núi quanh co lên hồ Thang Hen (hồ lớn nhất trong cụm 36 hồ trên núi đá), chọn số khi leo và xuống dốc, chỗ để xe, mùa nước đầy và mùa khô, cách ghép vào ngày đi Bản Giốc hoặc Pác Bó; không nêu giá vé, độ cao chính xác. Người đọc là người đi vòng Cao Bằng bằng xe thuê, khác bài BLG-05053 (Wave qua đèo Mã Phục về Trùng Khánh) ở chỗ nói về điểm rẽ lên hồ Thang Hen.",
+   "kw": "hồ thang hen",
+   "kw2": [
+    "hồ thang hen cao bằng",
+    "tỉnh lộ 205 trà lĩnh",
+    "36 hồ thang hen",
+    "đi thang hen bằng xe máy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-29-R29F",
+   "audience": "người thuê xe máy đi vòng Cao Bằng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}

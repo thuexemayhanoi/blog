@@ -1,0 +1,411 @@
+{
+ "_meta": {
+  "note": "Lo R29C: chu de ky thuat, xu ly su co, bao duong, chon xe va so sanh cho 14 child nhom xe may (C-XE-SO, C-XE-GA, C-XE-50CC, C-XE-DIEN, C-XE-DAP-DIEN, C-HONDA-*, C-YAMAHA-SIRIUS, C-BAO-DUONG, C-XE-LUA-CHON, C-XE-KHAC-PHUC, C-XE-SO-SANH). Da doc toan bo tieu de 14 child + C-HD-SU-CO, C-THUE-SU-CO, C-HD-CHON-XE, C-THUE-DAT-COC; grep toan matrix theo thuc the chinh (co dau/khong dau) cho tung ung vien; doi chieu intent hang lang gieng; dieu khoan phap ly lay tu Luat 36/2024/QH15 (Dieu 33 khoan 1 diem c, Dieu 59) da duoc cac hang matrix khac trich; gia/coc chi dung bang gia da duyet trong data/business-facts.json. Child da bao hoa (C-XE-DIEN, C-HONDA-VISION, C-HONDA-AIR-BLADE, C-YAMAHA-SIRIUS) khong de xuat de tranh filler.",
+  "created": "2026-10-29",
+  "source": "coordinator topic expansion 2026-10-29 theo docs/TAXONOMY.md, gate G1-G9"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-001",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Ắc quy xe thuê cạn, có nên câu bình từ ô tô hay xe máy khác không: rủi ro đấu nhầm cực và cách nổ máy an toàn hơn",
+   "intent": "Người dùng hỏi: «Xe thuê hết ắc quy, người quen có ô tô đề nghị câu bình sang cho nổ, làm vậy có sao không?». Bài giải thích câu bình là gì, những rủi ro khi người không quen tự đấu dây giữa hai xe (nhầm cực, chập điện, tia lửa gần xăng, ảnh hưởng hệ thống điện của xe đang thuê), các cách nổ máy khác nên thử trước như đạp nổ với xe có cần khởi động, và vì sao phải hỏi cửa hàng trước khi để người khác can thiệp vào ắc quy; không hướng dẫn quy trình đấu dây. Người đọc là người thuê xe gặp ắc quy cạn giữa chừng, khác bài ắc quy yếu đề không nổ ở chỗ trả lời riêng câu hỏi có nên câu bình.",
+   "kw": "câu bình ắc quy xe máy",
+   "kw2": [
+    "câu bình từ ô tô sang xe máy",
+    "kích bình xe máy thuê",
+    "xe máy hết ắc quy đề không nổ",
+    "đấu dây câu bình xe máy"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người thuê xe máy gặp ắc quy cạn khi đang đi",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-002",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Vừa đổ xăng sau khi xe chết máy vì cạn mà đề mãi không nổ: bật khóa chờ bơm xăng mồi, đề ngắt quãng và khi nào gọi tiệm",
+   "intent": "Người dùng hỏi: «Xe hết xăng, mua xăng đổ vào rồi mà bấm đề mãi không nổ, có phải hỏng thêm gì không?». Bài giải thích vì sao sau khi cạn xăng đường xăng cần được làm đầy lại (xe phun xăng có bơm xăng chạy vài giây mỗi lần bật khóa, xe chế hòa khí cần bình phao đầy lại), thao tác bật khóa chờ rồi đề ngắn từng lần để không làm cạn ắc quy, đạp nổ với xe có cần khởi động, mùi xăng nồng thì dừng thử và lúc nào báo cửa hàng; không hướng dẫn tháo đường xăng. Người đọc là người thuê xe vừa hết xăng giữa đường, khác bài hết xăng giữa phố ở chỗ xử lý bước sau khi đã đổ xăng mà xe vẫn không nổ.",
+   "kw": "đổ xăng rồi vẫn đề không nổ",
+   "kw2": [
+    "xe hết xăng đổ lại không nổ",
+    "bơm xăng mồi khi bật khóa",
+    "xe phun xăng cạn xăng khó nổ",
+    "đề nhiều lần sau khi hết xăng"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người thuê xe máy vừa hết xăng giữa đường",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-003",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Tay phanh xe thuê bóp xong không tự bật về hết hoặc trả về chậm: bánh bị rà phanh, nóng dần và cách đi tới chỗ an toàn",
+   "intent": "Người dùng hỏi: «Bóp phanh xong tay phanh không tự bật hẳn về, xe chạy hơi nặng, có nguy hiểm không?». Bài giúp nhận ra tay phanh trước, hoặc tay phanh sau bên trái của xe tay ga, trả về chậm hay kẹt giữa chừng, phân biệt sơ bộ do khớp tay phanh khô, dây phanh rít hay cụm phanh đĩa không nhả, kiểm tra nhanh bằng cách dắt xe xem bánh có lăn trơn và sờ gần vành xem có nóng bất thường, khi nào không được chạy tiếp và cách mô tả cho cửa hàng; không hướng dẫn tháo cụm phanh hay chỉnh dây. Người đọc là người đang đi xe thuê, khác bài dấu hiệu bó phanh chung ở chỗ bắt đầu từ triệu chứng tay phanh không trả về và khác bài bàn đạp phanh chân xe số.",
+   "kw": "tay phanh không tự trả về",
+   "kw2": [
+    "tay phanh trả về chậm",
+    "tay phanh xe máy bị kẹt",
+    "bánh trước rà phanh nóng",
+    "phanh xe thuê không nhả hết"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người đang đi xe máy thuê trong phố",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-004",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Chân chống nghiêng tự bật xuống khi xe thuê đang chạy: quẹt đường lúc cua trái, xe ga tắt máy đột ngột và cách xử lý",
+   "intent": "Người dùng hỏi: «Đang chạy nghe tiếng sắt quẹt đường, nhìn xuống thì chân chống bên tự bung ra, xử lý thế nào?». Bài giải thích vì sao chân chống nghiêng tự rơi khi lò xo tuột hoặc yếu, nguy cơ chân chống chạm đất làm bẩy xe khi vào cua trái, vì sao trên xe tay ga có công tắc chân chống thì máy có thể tắt ngay, cách tấp vào lề, gạt chân chống lên và cố định tạm bằng dây buộc để đi chậm tới chỗ an toàn, rồi chụp ảnh báo cửa hàng; không hướng dẫn thay lò xo. Người đọc là người đang thuê xe máy, khác bài kiểm tra chân chống khi nhận xe và bài chân chống gãy ở chỗ xử lý sự cố khi xe đang lăn bánh.",
+   "kw": "chân chống tự rơi khi đang chạy",
+   "kw2": [
+    "chân chống nghiêng tuột lò xo",
+    "chân chống quẹt đường khi cua",
+    "xe ga tắt máy do chân chống",
+    "lò xo chân chống bị tuột"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người đang thuê xe máy đi trong phố và ngoại thành",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-005",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Xe thuê chạy được một lúc lại hụt ga rồi tắt, mở nắp bình xăng nghe xì một tiếng thì nổ lại: nghi tắc đường thông hơi",
+   "intent": "Người dùng hỏi: «Xe cứ chạy chừng mười lăm, hai mươi phút là hụt ga rồi chết máy, mở nắp xăng nghe xì một tiếng thì đề lại được, bị gì vậy?». Bài giải thích bình xăng cần đường thông hơi để xăng chảy đều, khi đường này tắc thì trong bình bị hút chân không làm xe thiếu xăng, phân biệt với hết xăng, xăng bẩn hay nóng máy, cách ghi lại thời điểm và tiếng xì để báo cửa hàng, vì sao không tự chọc lỗ trên nắp hay chạy tiếp quãng xa với nắp xăng hé mở; không hướng dẫn tháo bình xăng. Người đọc là người thuê xe gặp lỗi chết máy lặp lại, khác bài xe tắt máy khi đang chạy nói chung ở chỗ khoanh vào một triệu chứng có tiếng xì ở nắp bình xăng.",
+   "kw": "xe chạy một lúc lại tắt máy",
+   "kw2": [
+    "mở nắp xăng nghe xì xe nổ lại",
+    "tắc thông hơi bình xăng xe máy",
+    "bình xăng bị hút chân không",
+    "nắp bình xăng xe máy bị tắc"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người thuê xe máy gặp lỗi chết máy lặp lại",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-006",
+   "child_id": "C-XE-LUA-CHON",
+   "title": "Tay trái đang đau hoặc yếu sau chấn thương nhẹ: thuê xe số không phải bóp tay trái hay xe tay ga có phanh sau bên trái",
+   "intent": "Người dùng hỏi: «Cổ tay trái mình đang đau, bóp không chặt, nên thuê xe số hay xe tay ga?». Bài so sánh việc tay trái phải làm trên từng loại xe: xe tay ga và xe máy điện dùng tay trái bóp phanh sau hoặc phanh kết hợp, còn xe số phổ thông không có tay côn nên tay trái chỉ giữ lái và bấm công tắc, phanh sau ở chân phải; nêu cách thử bóp phanh, giữ lái và dắt xe ngay tại cửa hàng, nhắc khoản 2 Điều 59 Luật 36/2024/QH15 yêu cầu người lái có sức khỏe phù hợp nên đau nặng thì không tự lái; không đưa lời khuyên điều trị. Người đọc là người có chấn thương nhẹ ở tay trái, khác bài đau chân trái đi Honda Wave và bài người thuận tay trái ở chỗ xét tay trái yếu khi chọn loại xe.",
+   "kw": "tay trái đau nên thuê xe gì",
+   "kw2": [
+    "tay trái yếu thuê xe số hay xe ga",
+    "bong gân cổ tay trái đi xe máy",
+    "phanh sau tay trái xe tay ga",
+    "xe số không có tay côn"
+   ],
+   "links": [
+    "/xe-may/chon-loai-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người có chấn thương nhẹ ở tay trái cần thuê xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-007",
+   "child_id": "C-XE-LUA-CHON",
+   "title": "Một người lớn chở hai con dưới 12 tuổi đi học: thuê xe máy nào cho yên đủ dài và xếp chỗ ngồi ra sao cho an toàn",
+   "intent": "Người dùng hỏi: «Mình phải chở hai đứa con đi học mỗi sáng thì nên thuê xe gì, chở vậy có đúng luật không?». Bài nêu điểm c khoản 1 Điều 33 Luật Trật tự, an toàn giao thông đường bộ 2024 (36/2024/QH15) cho phép người lái xe mô tô, xe gắn máy chở tối đa hai người khi có trẻ em dưới 12 tuổi và điều cấm để trẻ đứng trên xe, rồi so các tiêu chí chọn xe thuê: chiều dài yên, gác chân sau, chỗ bám tay, độ vững khi dừng đèn đỏ, chỗ để cặp sách, mũ vừa đầu từng bé và thứ tự cho trẻ lên xuống; không nêu mức phạt. Người đọc là phụ huynh tự chở hai con, khác bài chở một con nhỏ và bài vợ chồng chở một bé ở chỗ một người lớn chở cùng lúc hai trẻ.",
+   "kw": "chở hai con nhỏ bằng xe máy",
+   "kw2": [
+    "chở 2 trẻ em dưới 12 tuổi",
+    "xe máy chở hai con đi học",
+    "thuê xe máy chở hai con",
+    "luật chở trẻ em dưới 12 tuổi"
+   ],
+   "links": [
+    "/xe-may/chon-loai-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "phụ huynh một mình chở hai con nhỏ đi học",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-008",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Xuống dốc cầu vượt, dốc đê và dốc hầm bằng xe đạp điện thuê: xe nặng trôi nhanh, bóp phanh nào và giữ tốc độ ra sao",
+   "intent": "Người dùng hỏi: «Xe đạp điện xuống dốc cầu vượt trôi nhanh quá, phanh thế nào cho an toàn?». Bài giải thích vì sao xe đạp điện nặng hơn xe đạp thường nên trôi nhanh khi đổ dốc, cách nhả ga từ đỉnh dốc, rà đều cả hai phanh từ sớm thay vì bóp gấp ở chân dốc, tư thế ngồi và giữ tay lái, đi sát lề phải, giữ khoảng cách ở dốc cầu vượt, dốc đê sông Hồng và lối xuống hầm gửi xe, lúc nào nên xuống dắt bộ. Người đọc là người thuê xe đạp điện đi lại trong Hà Nội, khác bài lên dốc bằng xe đạp điện ở chỗ chỉ nói chiều xuống dốc và cách phanh.",
+   "kw": "xuống dốc bằng xe đạp điện",
+   "kw2": [
+    "xe đạp điện xuống dốc cầu",
+    "phanh xe đạp điện khi đổ dốc",
+    "xe đạp điện trôi nhanh xuống dốc",
+    "xe đạp điện xuống dốc đê"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người thuê xe đạp điện đi lại trong Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-009",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Xe đạp điện thuê bị non hơi hoặc thủng lốp giữa đường: có nên chạy điện tiếp, dắt bộ thế nào và nhờ vá ở đâu",
+   "intent": "Người dùng hỏi: «Xe đạp điện đang đi thì lốp xẹp dần, có chạy tiếp bằng điện về được không?». Bài giúp nhận ra lốp non hoặc thủng qua cảm giác lái nặng, đuôi xe lắc và tiếng vành, giải thích vì sao chạy điện tiếp khi lốp xẹp dễ làm hỏng săm lốp, vành và khó giữ lái, cách tắt nguồn rồi dắt xe, lưu ý khi nhờ hàng sửa xe ven đường vá bánh có động cơ, giữ lại hóa đơn và báo cửa hàng trước khi thay săm lốp; không hướng dẫn tự tháo bánh. Người đọc là người thuê xe đạp điện trong nội thành, khác các bài thủng lốp xe máy ở chỗ xét riêng xe đạp điện nhẹ, có bàn đạp và động cơ trong bánh.",
+   "kw": "xe đạp điện bị thủng lốp",
+   "kw2": [
+    "xe đạp điện non hơi",
+    "vá lốp xe đạp điện",
+    "xe đạp điện xẹp lốp giữa đường",
+    "dắt xe đạp điện thủng lốp"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người thuê xe đạp điện đi trong nội thành",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-010",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Đạp xe đạp điện khi tắt nguồn có sạc lại pin không: hiểu đúng để khỏi cạn pin giữa đường vì tưởng đạp là nạp điện",
+   "intent": "Người dùng hỏi: «Nghe nói cứ đạp xe đạp điện thì pin tự sạc lại, có đúng không?». Bài giải thích bàn đạp trên xe đạp điện phổ thông chỉ truyền lực qua xích tới bánh, phần lớn xe không nạp lại điện đáng kể khi đạp hay khi thả dốc, vì sao vạch pin có lúc nhích lên sau khi xe dừng nghỉ, cách tính quãng đường và đạp phụ để tiết kiệm điện chứ không phải để nạp, và nên hỏi cửa hàng nếu xe ghi có tính năng hãm thu hồi điện. Người đọc là người thuê xe đạp điện lần đầu, khác bài tiết kiệm pin và bài đạp nặng khi hết pin ở chỗ giải đáp riêng lầm tưởng đạp là sạc.",
+   "kw": "đạp xe đạp điện có sạc pin không",
+   "kw2": [
+    "xe đạp điện đạp có nạp điện không",
+    "đạp xe điện có lên pin không",
+    "xe đạp điện hồi điện khi đạp",
+    "vạch pin xe đạp điện nhích lên"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người thuê xe đạp điện lần đầu",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-011",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Chở trẻ nhỏ trên yên sau xe đạp điện thuê: ghế ngồi cho bé, giữ chân xa bánh xe, mũ bảo hiểm và tốc độ trong phố",
+   "intent": "Người dùng hỏi: «Thuê xe đạp điện đưa con nhỏ đi học thì cho bé ngồi thế nào cho an toàn?». Bài hướng dẫn hỏi cửa hàng xe có ghế trẻ em hoặc yên sau đủ chắc không, cách đặt bé ngồi và bám, giữ chân bé xa bánh sau, xích và bàn đạp, chọn mũ bảo hiểm vừa đầu trẻ, xuất phát nhẹ ga, giữ tốc độ thấp, dừng hẳn và dựng xe vững khi bé lên xuống; không phân tích lại số người được chở theo Luật Trật tự, an toàn giao thông đường bộ 2024 vì đã có bài pháp lý riêng. Người đọc là phụ huynh thuê xe đạp điện đưa đón con, khác các bài chở trẻ bằng xe máy ở chỗ xe đạp điện có bàn đạp, yên sau nhỏ và lực ga tức thì.",
+   "kw": "chở trẻ nhỏ bằng xe đạp điện",
+   "kw2": [
+    "ghế trẻ em xe đạp điện",
+    "đưa con đi học bằng xe đạp điện",
+    "mũ bảo hiểm trẻ em xe đạp điện",
+    "bé ngồi sau xe đạp điện"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "phụ huynh thuê xe đạp điện đưa đón con nhỏ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-012",
+   "child_id": "C-BAO-DUONG",
+   "title": "Bugi yếu trên xe thuê dài ngày: dấu hiệu khó nổ, máy rung khi để không tải, hụt ga và vì sao nên để tiệm kiểm tra",
+   "intent": "Người dùng hỏi: «Xe thuê tháng dạo này đề lâu mới nổ, chạy hơi giật, có phải do bugi không?». Bài giải thích bugi làm gì, các dấu hiệu thường gặp khi bugi mòn hoặc bám muội (đề lâu mới nổ, máy rung không đều khi để nổ không tải, hụt ga khi tăng tốc, hao xăng hơn), cách phân biệt sơ bộ với ắc quy yếu, lọc gió bẩn hay xăng kém, mốc kiểm tra bugi trong sổ bảo dưỡng và vì sao người thuê nên báo cửa hàng thay vì tự tháo; không hướng dẫn tháo, vệ sinh bugi. Người đọc là người thuê xe theo tuần, theo tháng, khác bài tự vệ sinh bugi tại nhà ở chỗ tập trung nhận biết triệu chứng bugi yếu.",
+   "kw": "dấu hiệu bugi xe máy yếu",
+   "kw2": [
+    "bugi xe máy bị mòn",
+    "khi nào thay bugi xe máy",
+    "xe máy khó nổ do bugi",
+    "bugi yếu hụt ga"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người thuê xe máy theo tuần hoặc theo tháng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-013",
+   "child_id": "C-BAO-DUONG",
+   "title": "Thuê xe đạp điện theo tháng: để ý xích bàn đạp, phanh cơ, hơi lốp và thói quen sạc ắc quy để xe bền suốt kỳ thuê",
+   "intent": "Người dùng hỏi: «Thuê xe đạp điện cả tháng thì mình cần để ý giữ gìn những gì?». Bài liệt kê những việc người thuê tự quan sát được mỗi tuần trên xe đạp điện: xích và bàn đạp có khô, chùng, kêu; tay phanh có bóp sâu, phanh có rít; lốp có non; hộp ắc quy, giắc cắm có lỏng; vạch pin sau mỗi lần sạc có tụt nhanh bất thường, thói quen sạc giúp ắc quy bền và việc nào phải hẹn cửa hàng làm; không hướng dẫn tự chỉnh phanh hay mở hộp điều khiển. Người đọc là người thuê xe đạp điện dài ngày, khác bài bảo dưỡng xe máy điện ở chỗ xe đạp điện có xích bàn đạp, phanh cơ dây cáp và thường dùng ắc quy.",
+   "kw": "bảo dưỡng xe đạp điện thuê tháng",
+   "kw2": [
+    "chăm sóc xe đạp điện",
+    "tra dầu xích xe đạp điện",
+    "phanh xe đạp điện bị mòn",
+    "ắc quy xe đạp điện bền lâu"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người thuê xe đạp điện theo tháng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-014",
+   "child_id": "C-XE-SO",
+   "title": "Đèn báo vị trí số trên đồng hồ xe số hiện sai số, nhảy lung tung hoặc tắt hẳn: đi tiếp thế nào và khi nào báo cửa hàng",
+   "intent": "Người dùng hỏi: «Xe số thuê có đèn báo số, đang đi số 3 mà đồng hồ hiện số 2 hoặc không hiện gì, có sao không?». Bài giải thích đèn báo số lấy tín hiệu từ công tắc vị trí số ở hộp số, các trường hợp hiển thị sai hay chập chờn (bụi bẩn, ẩm sau mưa hoặc lội nước, giắc lỏng), cách tạm biết mình đang ở số mấy bằng cảm giác cần số và tiếng máy, vì sao vẫn phải xác nhận số mo trước khi đề, khi nào báo cửa hàng; không hướng dẫn tháo công tắc báo số. Người đọc là người thuê xe số có đèn báo vị trí số, khác bài xe số không có đèn báo số và bài đèn số mo không sáng ở chỗ xử lý đèn báo số hiển thị sai.",
+   "kw": "đèn báo số xe số hiện sai",
+   "kw2": [
+    "đèn báo số nhảy lung tung",
+    "đồng hồ xe số không hiện số",
+    "công tắc báo số xe số",
+    "xe số mất đèn báo số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người thuê xe số có đèn báo vị trí số",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-015",
+   "child_id": "C-XE-GA",
+   "title": "Vết dầu ướt quanh moay ơ và vành bánh sau xe tay ga: nhớt láp rỉ có thể dính vào phanh sau và cách báo cửa hàng",
+   "intent": "Người dùng hỏi: «Bánh sau xe ga thuê có vệt dầu ướt bám bụi, phanh sau lại kém ăn, có liên quan không?». Bài giải thích trên xe tay ga hộp giảm tốc chứa nhớt láp nằm sát bánh sau, khi phớt rỉ thì nhớt có thể loang ra vành và lọt vào phanh sau làm phanh trơn, cách phân biệt vệt dầu với nước mưa hay bụi bẩn, thử phanh sau ở tốc độ thấp, vì sao không nên chạy xa hay tự xịt dung môi lau phanh, cách chụp ảnh và báo cửa hàng. Người đọc là người đang thuê xe tay ga, khác bài phân biệt vệt chất lỏng dưới gầm xe ở chỗ khoanh vào bánh sau và ảnh hưởng tới phanh sau.",
+   "kw": "xe tay ga rỉ nhớt láp bánh sau",
+   "kw2": [
+    "phớt láp xe ga bị rỉ",
+    "dầu dính má phanh sau xe ga",
+    "phanh sau xe ga kém do dầu",
+    "vết dầu bánh sau xe tay ga"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người đang thuê xe tay ga",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-016",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Đèn pha LED hay đèn halogen trên xe máy thuê: đi đêm đường ngoại thành, trời mưa và sương mù khác nhau thế nào",
+   "intent": "Người dùng hỏi: «Xe đèn LED với xe đèn halogen thì đi đêm loại nào đỡ vất vả hơn?». Bài so sánh hai loại đèn pha thường gặp trên xe máy thuê ở màu ánh sáng, độ rộng vệt sáng và đường cắt chùm cos, độ sáng khi máy chạy chậm ở một số xe dùng đèn halogen, cảm giác khi mưa, sương mù và trên đường không có đèn, cách nhận biết loại đèn trên xe ngay tại cửa hàng; không khuyên thay bóng hay gắn đèn phụ. Người đọc là người hay đi tối và về khuya, khác bài chọn xe thuê để đi buổi tối ở chỗ so sánh hai loại đèn chứ không hướng dẫn soi thử đèn khi chọn xe.",
+   "kw": "đèn pha led hay halogen xe máy",
+   "kw2": [
+    "đèn led xe máy sáng hơn halogen",
+    "đèn halogen đi sương mù",
+    "đèn pha led trời mưa",
+    "xe thuê đèn led hay đèn thường"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người thuê xe máy hay đi tối và về khuya",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-017",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Thuê Honda Wave theo ngày 150.000đ, tuần 700.000đ hay tháng 900.000–1.200.000đ: ở bao nhiêu ngày thì nên đổi gói",
+   "intent": "Người dùng hỏi: «Thuê Wave 5 ngày, 10 ngày hay 3 tuần thì tính theo ngày, theo tuần hay theo tháng cho đỡ tiền?». Bài dựa trên bảng giá đã công bố của cửa hàng (150.000đ/ngày, 700.000đ/tuần, 900.000–1.200.000đ/tháng, cọc 2.000.000–3.000.000đ) để tự tính mốc số ngày nên chuyển sang gói tuần, gói tháng, các khoản ngoài tiền thuê như xăng và gửi xe, và những điều phải xác nhận với cửa hàng trước khi ký; không nêu khuyến mãi. Người đọc là người định thuê Honda Wave nhiều ngày, khác bài hỏi giá Wave khi chỉ có giá ngày và các bài giá Vision, Click ở chỗ tính riêng cho Honda Wave theo bảng giá hiện hành.",
+   "kw": "giá thuê honda wave theo tuần",
+   "kw2": [
+    "giá thuê wave theo tháng",
+    "thuê honda wave bao nhiêu tiền",
+    "gói tuần honda wave",
+    "cọc thuê honda wave"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/",
+    "/bang-gia/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người định thuê Honda Wave nhiều ngày ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-018",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Nhược điểm của Honda Click và Yamaha Mio khi thuê ở Hà Nội: điều nên biết trước khi chọn xe ga cỡ nhỏ 150.000đ một ngày",
+   "intent": "Người dùng hỏi: «Click với Mio giá rẻ, gọn nhẹ, vậy có nhược điểm gì cần biết trước khi thuê?». Bài nêu các điểm hạn chế cần thử trước của nhóm xe ga cỡ nhỏ này: bánh nhỏ hơn bánh trước Vision và Wave khi qua ổ gà, nắp cống và đoạn ngập, cốp nhỏ hơn Air Blade khi chở đồ, tư thế ngồi chật với người cao, sức kéo khi chở hai người lên dốc cầu hay dốc dài cần chạy thử, và những chuyến nên chọn xe khác; dùng đúng giá đã công bố 150.000đ/ngày, không đưa số liệu kỹ thuật chưa kiểm chứng. Người đọc là người đang cân nhắc thuê Click hoặc Mio, khác các bài nhược điểm Wave, Vision, Air Blade ở chỗ nói riêng nhóm xe ga cỡ nhỏ Click, Mio.",
+   "kw": "nhược điểm honda click khi thuê",
+   "kw2": [
+    "nhược điểm yamaha mio",
+    "honda click có nên thuê không",
+    "thuê click đi xa được không",
+    "xe ga cỡ nhỏ chở đồ"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/",
+    "/bang-gia/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người đang cân nhắc thuê Honda Click hoặc Yamaha Mio",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29C-019",
+   "child_id": "C-XE-50CC",
+   "title": "Xe ga 50cc 200.000đ một ngày hay Honda Wave, Click 150.000đ: khi nào trả thêm tiền và cọc cao hơn vẫn là lựa chọn đúng",
+   "intent": "Người dùng hỏi: «Xe 50cc thuê 200.000đ một ngày, đắt hơn Wave và Click, vậy có nên chọn không?». Bài đặt cạnh nhau bảng giá đã công bố (xe ga 50cc 200.000đ/ngày, cọc 4.000.000đ, giá tuần và tháng báo riêng; Honda Wave và Honda Click 150.000đ/ngày, cọc 2.000.000–3.000.000đ) với điều kiện người lái theo Điều 59 Luật 36/2024/QH15: chưa đủ tuổi hoặc chưa có giấy phép lái xe hạng A1 thì xe gắn máy 50cc là lựa chọn hợp lệ, đã có bằng thì xe 110cc rẻ hơn và khỏe hơn; không suy đoán lý do định giá của cửa hàng. Người đọc là người đang cân nhắc giữa xe 50cc và xe 110cc, khác bài chưa có bằng nên thuê 50cc hay chờ bằng A1 ở chỗ đặt giá thuê, tiền cọc các dòng cạnh nhau.",
+   "kw": "thuê xe 50cc hay xe 110cc",
+   "kw2": [
+    "giá thuê xe ga 50cc",
+    "xe 50cc đắt hơn wave",
+    "cọc thuê xe 50cc",
+    "không có bằng thuê xe gì"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/",
+    "/bang-gia/"
+   ],
+   "subtopic": "refill-2026-10-29-R29C",
+   "audience": "người đang cân nhắc giữa xe 50cc và xe 110cc",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}

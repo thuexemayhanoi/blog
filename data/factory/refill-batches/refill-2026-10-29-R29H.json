@@ -1,0 +1,311 @@
+{
+ "_meta": {
+  "note": "Lô R29H: hỏi đáp nhanh C-HD-GIA, C-HD-THU-TUC, C-HD-CHON-XE, C-HD-SU-CO, C-HD-NGUOI-MOI. Mỗi ứng viên là một câu hỏi cụ thể chưa có bài trả lời; đã đọc toàn bộ tiêu đề 5 child, đọc tiêu đề C-THUE-GIA, C-THUE-DAT-COC, C-THUE-SU-CO và grep toàn matrix (có dấu/không dấu, cả intent) theo thực thể chính của từng ứng viên; giá chỉ lấy từ bảng giá đã duyệt, chính sách cửa hàng chỉ ghi là hỏi/xác nhận trực tiếp; điều luật dẫn đã đối chiếu với bài đang sống (Luật 36/2024/QH15 Điều 14, 15, 56; Luật XLVPHC Điều 125). Kiểm bằng topic_check.py (gate G1-G9 + láng giềng Jaccard + intent). Đã chạy chéo với các lô R29A–R29G cùng ngày (hard_fail=0) và tự bỏ 3 ứng viên trùng ý với lô khác (đổi Wave lên Vision giữa kỳ, tiền thuê khi xe bị tạm giữ, bị ong đốt khi đang chạy).",
+  "created": "2026-10-29",
+  "source": "coordinator topic expansion 2026-10-29 theo docs/TAXONOMY.md, gate G1-G9"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-29-R29H-001",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Đến thẳng tiệm thuê xe máy mà không đặt trước: có thuê được ngay không, nên đến giờ nào và mang gì",
+   "intent": "Người dùng hỏi: «Không nhắn đặt trước, cứ đến thẳng tiệm thì có thuê được xe máy ngay không?». Bài giải thích khi nào đến thẳng dễ còn xe và khi nào dễ hết (cuối tuần, dịp lễ Tết, ngày đông khách), vì sao nên gọi trước vài phút để hỏi dòng xe còn, mang đủ giấy tờ và tiền cọc theo dòng xe muốn thuê, đến trong giờ 09:00–21:00 và chừa thời gian kiểm tra xe, có phương án dòng xe thay thế; không hứa lúc nào cũng còn xe. Người đọc là người quyết định thuê gấp trong ngày, khác bài BLG-00868 và BLG-01413 (nên đặt trước bao lâu) ở chỗ hướng dẫn cách đến thẳng cho khỏi mất công.",
+   "kw": "đến thẳng tiệm thuê xe không đặt trước",
+   "kw2": [
+    "thuê xe máy không cần đặt trước",
+    "gọi trước khi đến tiệm thuê xe",
+    "đến tiệm nhận xe ngay trong ngày"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29H",
+   "audience": "người ở Hà Nội cần xe máy gấp trong ngày, chưa nhắn đặt trước với cửa hàng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29H-002",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Quên thẻ bằng lái ở chỗ ở khi đến nhận xe, chỉ có giấy phép lái xe trên VNeID: có nhận và lái xe được không",
+   "intent": "Người dùng hỏi: «Đến tiệm mới nhớ để quên thẻ bằng lái, chỉ có giấy phép lái xe đã tích hợp trên VNeID thì có nhận xe được không?». Bài nêu Điều 56 khoản 3 Luật Trật tự, an toàn giao thông đường bộ 2024 cho phép xuất trình, kiểm tra giấy tờ đã tích hợp qua tài khoản định danh điện tử, cách mở đúng mục giấy phép lái xe, kiểm tra hạng và hiệu lực, giữ pin và mạng khi đi đường, việc tiệm có chấp nhận hay không phải hỏi trực tiếp, và phương án quay về lấy thẻ hoặc hẹn lại giờ nhận; không nêu mức phạt. Người đọc là khách đã đến quầy, khác BLG-04088 (quên căn cước) và BLG-02977 (dùng VNeID thay căn cước) ở chỗ giấy bị quên là bằng lái, thứ phải có khi điều khiển xe.",
+   "kw": "quên thẻ bằng lái chỉ có trên vneid",
+   "kw2": [
+    "giấy phép lái xe trên vneid",
+    "xuất trình bằng lái qua vneid",
+    "quên bằng lái khi nhận xe thuê"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29H",
+   "audience": "khách đã đến cửa hàng nhận xe máy thuê ở Hà Nội nhưng để quên thẻ bằng lái ở khách sạn hoặc nhà trọ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29H-003",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Nhắn xin gia hạn thuê xe mà tiệm chưa trả lời khi sắp đến giờ trả: cứ giữ xe thêm hay mang xe về trả đúng hẹn",
+   "intent": "Người dùng hỏi: «Đã nhắn xin gia hạn nhưng tiệm chưa đọc hoặc chưa trả lời, sắp đến giờ trả xe thì nên làm gì?». Bài khuyên gọi điện thêm ngoài tin nhắn, chụp lại tin đã gửi và giờ gửi, không tự coi là đã được gia hạn khi chưa có xác nhận, nếu vẫn không liên lạc được thì ưu tiên đưa xe về trả đúng hẹn trong giờ 09:00–21:00, và cách nhắn lại cho rõ ngày giờ trả mới khi tiệm phản hồi; không bàn chế tài pháp lý khi giữ xe quá hạn. Người đọc là khách đang giữ xe sắp hết kỳ, khác bài BLG-01352 (nên xin gia hạn lúc nào) và BLG-02854 (nhắn đặt xe chưa thấy trả lời) ở chỗ quyết định cần đưa ra ngay trước giờ trả.",
+   "kw": "xin gia hạn thuê xe chưa được trả lời",
+   "kw2": [
+    "gia hạn thuê xe máy qua tin nhắn",
+    "sắp đến giờ trả xe thuê",
+    "tiệm chưa xác nhận gia hạn"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29H",
+   "audience": "khách đang thuê xe máy ở Hà Nội đã nhắn xin gia hạn nhưng chưa nhận được xác nhận khi sắp đến giờ trả",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29H-004",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Đau khớp gối, khó co gối lâu và khó nhấc chân qua yên: nên thuê xe ga sàn phẳng hay xe số để đi trong phố",
+   "intent": "Người dùng hỏi: «Bị đau khớp gối thì nên thuê xe số hay xe ga cho đỡ đau khi đi trong phố?». Bài so cách lên xuống xe (bước qua sàn xe ga hay nhấc chân qua yên xe số), góc gập gối khi đặt chân trên sàn hay trên gác chân, việc gạt số bằng chân trái và chống chân khi dừng đèn đỏ, độ cao yên của các dòng Wave, Vision, Air Blade, Click, gợi ý ngồi thử, dắt thử tại tiệm và chia chặng ngắn; không đưa lời khuyên điều trị, nhắc hỏi bác sĩ khi đau nặng. Người đọc là người có khớp gối yếu, khác bài BLG-01209 (đau lưng khi đi xa) và BLG-01354 (người cao tuổi) ở chỗ tiêu chí chọn xe xoay quanh khớp gối.",
+   "kw": "đau khớp gối nên thuê xe máy nào",
+   "kw2": [
+    "đau đầu gối đi xe số hay xe ga",
+    "xe máy dễ lên xuống cho người đau gối",
+    "chọn xe thuê khi đau khớp"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29H",
+   "audience": "người lớn ở Hà Nội bị đau hoặc thoái hóa khớp gối vẫn muốn tự lái xe máy thuê đi trong phố",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29H-005",
+   "child_id": "C-HD-SU-CO",
+   "title": "Lỡ để khóa điện xe thuê ở nấc ON qua đêm, sáng ra đề không nổ: xử lý thế nào và báo tiệm ra sao",
+   "intent": "Người dùng hỏi: «Tối qua quên vặn khóa về OFF, sáng nay xe thuê bấm đề không lên thì làm gì?». Bài giải thích vì sao để khóa ở nấc ON nhiều giờ làm ắc quy cạn, cách nhận biết qua đèn đồng hồ mờ và tiếng đề yếu, thử đạp nổ nếu xe có cần khởi động, khi nào gọi tiệm để được hướng dẫn hoặc đổi xe, báo tiệm đúng nguyên nhân và thói quen xoay khóa về OFF, rút chìa mỗi lần dựng xe; không nêu chi phí của tiệm. Người đọc là khách thuê vừa gặp chuyện buổi sáng, khác bài BLG-01817 và BLG-01772 (hết ắc quy nói chung) và BLG-04107 (quên rút chìa, rủi ro mất xe) ở chỗ nguyên nhân là để khóa điện ON qua đêm.",
+   "kw": "quên tắt khóa điện xe máy qua đêm",
+   "kw2": [
+    "để khóa ON qua đêm hết ắc quy",
+    "xe thuê sáng ra đề không nổ",
+    "ắc quy cạn vì quên tắt khóa"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29H",
+   "audience": "khách đang thuê xe máy ở Hà Nội để quên khóa điện ở nấc ON khi đỗ xe qua đêm",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29H-006",
+   "child_id": "C-HD-SU-CO",
+   "title": "Lốp xe thuê vừa vá ở tiệm ven đường hôm trước, hôm sau đã xẹp lại: vá tiếp chỗ cũ hay báo tiệm thay săm",
+   "intent": "Người dùng hỏi: «Hôm qua mới vá lốp xe thuê, sáng nay lại xẹp thì vá tiếp hay báo tiệm?». Bài nêu các khả năng thường gặp (miếng vá chưa kín, vật nhọn còn trong lốp, thủng thêm chỗ khác, van hở, vết vá dùi của lốp không săm chưa chặt), cách kiểm tra nhanh bằng mắt và nước xà phòng, vì sao nên báo tiệm trước khi vá lần hai hoặc thay săm, giữ hóa đơn và ảnh lần vá trước để đối chiếu; không nêu giá vá. Người đọc là khách thuê đã tự vá một lần, khác bài BLG-01310 và BLG-05890 (lốp tụt hơi dần sau khi bơm, chưa rõ nguyên nhân) ở chỗ lốp xẹp hẳn ngay sau một lần vá và cần quyết định vá lại hay báo tiệm.",
+   "kw": "lốp xe thuê vừa vá lại xẹp",
+   "kw2": [
+    "vá lốp xong lại xẹp",
+    "vá lại hay thay săm xe thuê",
+    "lốp không săm vá xong vẫn xì"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29H",
+   "audience": "khách thuê xe máy ở Hà Nội đã vá lốp ở tiệm ven đường nhưng lốp lại xẹp vào hôm sau",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29H-007",
+   "child_id": "C-HD-SU-CO",
+   "title": "Sau cú đổ xe, tay lái xe thuê bị xiên lệch so với bánh trước: còn chạy tiếp được không và có nên tự nắn",
+   "intent": "Người dùng hỏi: «Xe thuê vừa đổ một cái, giờ đi thẳng mà ghi đông bị xiên thì có đi tiếp được không?». Bài giải thích dấu hiệu tay lái lệch so với bánh trước (phải nghiêng tay mới đi thẳng, xe kéo về một bên, tay lái rơ), vì sao không tự kẹp bánh vặn nắn ở lề đường, khi nào phải dừng hẳn, chụp ảnh góc lệch, ghi vị trí và báo tiệm để được hướng dẫn hoặc đổi xe; không nêu chi phí sửa. Người đọc là khách thuê vừa đổ xe nhẹ, khác bài BLG-02501 (thứ tự việc sau khi tự ngã) và BLG-00464 (xe kéo lệch một bên chưa rõ nguyên nhân) ở chỗ chỉ xoay quanh tay lái xiên sau cú đổ.",
+   "kw": "tay lái xe máy bị lệch sau khi đổ",
+   "kw2": [
+    "ghi đông xe máy bị xiên",
+    "tay lái lệch so với bánh trước",
+    "xe thuê đổ tay lái bị lệch"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29H",
+   "audience": "khách thuê xe máy ở Hà Nội vừa làm đổ xe và thấy tay lái không còn thẳng với bánh trước",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29H-008",
+   "child_id": "C-HD-SU-CO",
+   "title": "Tiệm hẹn cử người đến hỗ trợ xe thuê hỏng mà đã quá giờ hẹn chưa thấy: chờ ở đâu, nhắn gì và khi nào tự xoay xở",
+   "intent": "Người dùng hỏi: «Tiệm bảo sẽ cho người đến xem xe hỏng mà quá giờ hẹn vẫn chưa thấy thì làm sao?». Bài hướng dẫn chọn chỗ chờ sáng và an toàn ngoài lòng đường, gửi lại vị trí chính xác kèm ảnh mốc dễ nhận, gọi lại thay vì chỉ nhắn, hỏi giờ đến mới, khi nào nên hỏi tiệm có đồng ý cho dắt xe đến tiệm sửa gần hoặc tự về trước và gửi xe lại, giữ liên lạc và ghi giờ; không hứa thời gian hỗ trợ của cửa hàng. Người đọc là khách đang đứng chờ bên xe hỏng, khác bài BLG-04103 (gọi không ai nghe máy) và BLG-05356 (xác nhận người tiệm cử đến lấy xe) ở chỗ tiệm đã hẹn nhưng đến muộn.",
+   "kw": "chờ tiệm đến hỗ trợ quá giờ hẹn",
+   "kw2": [
+    "xe thuê hỏng chờ người đến",
+    "nhắn vị trí cho tiệm khi xe hỏng",
+    "chờ hỗ trợ xe máy an toàn"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29H",
+   "audience": "khách thuê xe máy ở Hà Nội đang đứng chờ người của cửa hàng đến hỗ trợ xe hỏng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29H-009",
+   "child_id": "C-HD-NGUOI-MOI",
+   "title": "Màu xanh, cam, đỏ trên lớp giao thông Google Maps: người mới đi xe máy ở Hà Nội đọc thế nào để chọn giờ đi",
+   "intent": "Người dùng hỏi: «Đường trên Google Maps hiện màu đỏ thì đi xe máy có qua được không, nên đợi hay đổi đường?». Bài giải thích ba màu trên lớp giao thông cho biết tốc độ dòng xe so với bình thường, vì sao xe máy vẫn nhích được ở đoạn đỏ nhưng người mới nên tránh, cách xem trước khi xuất phát, đặt chế độ xe hai bánh, cộng thêm thời gian so với ước tính, và không xem điện thoại khi xe đang chạy; nhắc bản đồ không thay biển báo tại chỗ. Người đọc là người mới tự lái ở Hà Nội, khác bài BLG-01309 (có cần bản đồ số không) và BLG-02216 (từ Long Biên đi các khu mất bao lâu) ở chỗ tập trung đọc màu tắc đường để chọn giờ và tuyến.",
+   "kw": "màu giao thông trên google maps",
+   "kw2": [
+    "lớp giao thông google maps",
+    "đường màu đỏ trên bản đồ",
+    "xem tắc đường trước khi đi xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-nguoi-moi/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29H",
+   "audience": "người mới tự lái xe máy thuê ở Hà Nội dùng Google Maps để chọn giờ xuất phát",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29H-010",
+   "child_id": "C-HD-NGUOI-MOI",
+   "title": "Mới tập đi xe máy mà đúng tuần giáp Tết Đinh Mùi 2027: phố đông bất thường, xe chở đào quất và giờ nên tránh",
+   "intent": "Người dùng hỏi: «Mới biết lái mà phải ra đường những ngày cuối tháng Chạp ở Hà Nội thì cần lưu ý gì?». Bài giải thích vì sao từ khoảng 23 tháng Chạp đến chiều 30 Tết Đinh Mùi (mùng 1 rơi vào ngày 6/2/2027) phố đông hơn ngày thường: người đi mua sắm, chợ hoa, xe chở cành đào, cây quất cồng kềnh, xe giao hàng Tết; gợi ý khung giờ ít xe, tránh các phố chợ hoa, giữ khoảng cách với xe chở cây, mang ít đồ và hẹn giờ trả xe sớm trước khi tiệm nghỉ; không nêu lịch phân luồng chưa xác minh. Người đọc là người mới tự lái, khác bài BLG-05216 (ngày Tết đường vắng dễ phóng nhanh) và BLG-05720 (chiều 30 Tết với Honda Click) ở chỗ đối tượng là người mới và cả tuần giáp Tết.",
+   "kw": "người mới đi xe máy tuần giáp tết",
+   "kw2": [
+    "đi xe máy ngày giáp tết hà nội",
+    "xe chở cây quất ngày tết",
+    "người mới chạy xe dịp cuối năm"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-nguoi-moi/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29H",
+   "audience": "người mới tập lái xe máy thuê ở Hà Nội phải ra đường trong tuần cuối tháng Chạp",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29H-011",
+   "child_id": "C-HD-NGUOI-MOI",
+   "title": "Nút Passing trên tay lái xe máy thuê dùng để làm gì: nháy đèn xin vượt, báo hiệu và khi nào không nên bấm",
+   "intent": "Người dùng hỏi: «Cái nút nhỏ ghi Passing ở tay lái trái để làm gì, người mới có cần dùng không?». Bài giải thích nút nháy đèn pha nhanh, dùng khi xin vượt theo Điều 14 khoản 5 Luật Trật tự, an toàn giao thông đường bộ 2024 (báo hiệu bằng đèn hoặc còi; trong đô thị, khu đông dân cư từ 22 giờ đến 5 giờ chỉ báo bằng đèn), khác công tắc pha cốt thế nào, cách tìm nút trên xe đang thuê và xe không có nút thì làm gì, những lúc nháy đèn dễ gây chói hoặc bị hiểu nhầm; không nêu mức phạt. Người đọc là người mới cầm lái, khác bài BLG-02879 (đọc tín hiệu chớp đèn của người khác) ở chỗ hướng dẫn chính người mới dùng nút này.",
+   "kw": "nút passing trên xe máy",
+   "kw2": [
+    "nháy đèn xin vượt xe máy",
+    "nút pass xe máy",
+    "công tắc đèn pha cốt"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-nguoi-moi/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29H",
+   "audience": "người mới thuê xe máy ở Hà Nội chưa biết các nút trên cụm công tắc tay lái trái",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29H-012",
+   "child_id": "C-HD-NGUOI-MOI",
+   "title": "Có cần thuộc biển số xe thuê ngay khi nhận không: dùng khi gửi xe, tìm xe trong bãi và báo sự cố cho tiệm",
+   "intent": "Người dùng hỏi: «Thuê xe vài ngày có cần nhớ biển số không?». Bài chỉ ra những lúc người thuê bị hỏi biển số (gửi bãi có vé, tìm xe cùng màu cùng dòng, báo hỏng hoặc mất xe, trao đổi thông tin khi va chạm, đối chiếu thông báo vi phạm), cách ghi nhớ nhanh (chụp ảnh biển, lưu ghi chú, đối chiếu với giấy đăng ký xe khi nhận) và nhắc gửi lại biển số khi tiệm đổi xe giữa kỳ; không bàn thủ tục cấp biển. Người đọc là người mới thuê lần đầu, khác bài BLG-05502 (gửi biển số cho người thân báo bình an) và BLG-05844 (quên chỗ đỗ trong phố cổ) ở chỗ trả lời vì sao và cách nhớ biển số.",
+   "kw": "nhớ biển số xe thuê",
+   "kw2": [
+    "biển số xe máy thuê",
+    "chụp ảnh biển số khi nhận xe",
+    "tìm xe thuê trong bãi gửi"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-nguoi-moi/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29H",
+   "audience": "người lần đầu thuê xe máy ở Hà Nội chưa có thói quen ghi lại biển số xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29H-013",
+   "child_id": "C-HD-NGUOI-MOI",
+   "title": "Xe xung quanh rẽ mà không bật xi nhan: người mới vẫn nên bật và đoán hướng rẽ của xe khác bằng dấu hiệu nào",
+   "intent": "Người dùng hỏi: «Ở Hà Nội thấy nhiều người rẽ không xi nhan, mình có cần bật không và làm sao biết họ sắp rẽ?». Bài nhắc Điều 15 khoản 2 Luật Trật tự, an toàn giao thông đường bộ 2024 yêu cầu có tín hiệu báo hướng rẽ trước khi chuyển hướng, vì sao người mới vẫn nên bật sớm, các dấu hiệu đoán xe khác sắp rẽ (giảm tốc, dạt làn, ngoái đầu, bánh trước đánh lái, sắp tới đầu ngõ, cổng nhà, cây xăng), cách giữ khoảng cách và không len sát bên phải xe đang chậm lại; không nêu mức phạt. Người đọc là người mới, khác bài BLG-02080 (xi nhan đúng thời điểm) và BLG-04017 (quên tắt xi nhan) ở chỗ xử lý khi người khác không báo hướng.",
+   "kw": "xe khác rẽ không bật xi nhan",
+   "kw2": [
+    "đoán xe phía trước sắp rẽ",
+    "người mới có cần bật xi nhan",
+    "xe rẽ không báo hướng"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-nguoi-moi/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-29-R29H",
+   "audience": "người mới tự lái xe máy thuê ở Hà Nội bối rối vì nhiều xe rẽ không báo hướng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29H-014",
+   "child_id": "C-HD-GIA",
+   "title": "Chỉ mang được khoảng 2 triệu đồng tiền cọc: thuê được dòng xe máy nào theo mức cọc của từng dòng trên bảng giá",
+   "intent": "Người dùng hỏi: «Chỉ có khoảng 2 triệu đồng để đặt cọc thì thuê được xe nào?». Bài đối chiếu mức cọc đã duyệt của từng dòng (Click/Mio 2.000.000đ; Wave 2.000.000–3.000.000đ; Air Blade 3.000.000đ; ga 50cc 4.000.000đ; Vision 4.000.000–5.000.000đ) với số tiền đang có, nhắc tách tiền cọc khỏi tiền thuê và tiền xăng, việc mức cọc trong khoảng áp dụng thế nào phải hỏi trực tiếp tiệm, và những câu nên hỏi trước khi đến; không gợi ý giảm cọc hay khuyến mãi. Người đọc là người có ngân sách cọc hạn chế, khác bài BLG-04060 (đến nhận xe nên mang bao nhiêu tiền) và BLG-04128 (300.000–500.000đ tiền thuê) ở chỗ lấy khoản cọc đang có làm điều kiện để chọn dòng xe.",
+   "kw": "có 2 triệu tiền cọc thuê xe nào",
+   "kw2": [
+    "mức cọc từng dòng xe máy",
+    "tiền cọc thuê xe máy thấp nhất",
+    "chưa đủ tiền cọc thuê xe ga"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/",
+    "/bang-gia/"
+   ],
+   "subtopic": "refill-2026-10-29-R29H",
+   "audience": "sinh viên, người mới đến Hà Nội chỉ có khoảng 2 triệu đồng tiền mặt hoặc trong tài khoản để đặt cọc thuê xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-29-R29H-015",
+   "child_id": "C-HD-GIA",
+   "title": "Đi xe thuê cả ngày mà không mang tiền mặt: đổ xăng, gửi xe, vá lốp ở Hà Nội trả bằng chuyển khoản được đến đâu",
+   "intent": "Người dùng hỏi: «Chỉ mang điện thoại, không có tiền mặt thì đi xe thuê cả ngày ở Hà Nội có ổn không?». Bài liệt kê các khoản nhỏ thường phát sinh trong ngày (đổ xăng, vé gửi xe, vá lốp, bơm lốp, nước uống), nơi thường nhận quét mã hoặc thẻ và nơi hay chỉ nhận tiền mặt, vì sao nên hỏi cách trả trước khi bơm xăng hay nhờ vá, mang sẵn một ít tiền lẻ, rút tiền ở đâu khi cần và giữ biên nhận chuyển khoản; không nêu giá xăng hay giá gửi xe cụ thể. Người đọc là người quen thanh toán bằng điện thoại, khác bài BLG-00978 (trả tiền thuê xe không dùng tiền mặt) và BLG-05357 (thợ ven đường chỉ nhận tiền mặt) ở chỗ bao quát các khoản chi trên đường trong một ngày.",
+   "kw": "đi xe thuê không mang tiền mặt",
+   "kw2": [
+    "đổ xăng trả bằng chuyển khoản",
+    "gửi xe máy quét mã",
+    "khoản nhỏ khi đi xe máy thuê"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/",
+    "/bang-gia/"
+   ],
+   "subtopic": "refill-2026-10-29-R29H",
+   "audience": "người thuê xe máy ở Hà Nội quen trả bằng ứng dụng ngân hàng và ít mang tiền mặt",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}
