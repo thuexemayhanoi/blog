@@ -1,18 +1,26 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-29T17:00:47Z",
+  "updated_at": "2026-10-30T03:05:40Z",
   "leases": {
     "W6": {
       "ids": [
-        "BLG-06193",
-        "BLG-06194"
+        "BLG-06201",
+        "BLG-06202",
+        "BLG-06203",
+        "BLG-06204",
+        "BLG-06205",
+        "BLG-06206",
+        "BLG-06207",
+        "BLG-06208",
+        "BLG-06209",
+        "BLG-06210"
       ],
       "session": "s-claude-opus-w6",
       "epoch": 1,
-      "claimed_at": "2026-10-29T16:48:29Z",
-      "heartbeat_at": "2026-10-29T17:00:47Z",
+      "claimed_at": "2026-10-30T03:05:40Z",
+      "heartbeat_at": "2026-10-30T03:05:40Z",
       "ttl_hours": 48.0,
-      "expires_at": "2026-10-31T17:00:47Z",
+      "expires_at": "2026-11-01T03:05:40Z",
       "label": "claude-opus"
     }
   }
