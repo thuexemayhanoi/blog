@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-30T03:18:12+00:00",
+  "updated_at": "2026-10-30T03:19:20+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-06155",
-      "started_at": "2026-10-29T12:32:50+00:00",
-      "source": "_drafts/2026-10-29-gia-thue-xe-may-niem-yet-theo-luat-gia-2023-con-so-tren-bang-da-gom-thue-phi-chu.md",
-      "destination": "_posts/2026-10-29-gia-thue-xe-may-niem-yet-theo-luat-gia-2023-con-so-tren-bang-da-gom-thue-phi-chu.md",
-      "result": "PUBLISHED",
-      "commit_sha": "32c7499885f3de1f842c1e6c7f68bb7204729f50",
-      "finished_at": "2026-10-29T12:32:50+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-06156",
-      "started_at": "2026-10-29T12:32:50+00:00",
-      "source": "_drafts/2026-10-29-chuyen-khoan-tien-thue-tien-coc-xe-may-bi-doi-xac-thuc-khuon-mat-khi-nao-xay-ra.md",
-      "destination": "_posts/2026-10-29-chuyen-khoan-tien-thue-tien-coc-xe-may-bi-doi-xac-thuc-khuon-mat-khi-nao-xay-ra.md",
-      "result": "PUBLISHED",
-      "commit_sha": "32c7499885f3de1f842c1e6c7f68bb7204729f50",
-      "finished_at": "2026-10-29T12:32:51+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06159",
       "started_at": "2026-10-29T12:33:29+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "28aa245e46da6497fb9be0bbfb39242415258c11",
       "finished_at": "2026-10-30T03:18:12+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06207",
+      "started_at": "2026-10-30T03:19:19+00:00",
+      "source": "_drafts/2026-10-30-chua-dong-quang-trong-ngo-119-tay-son-bang-xe-may-ngoi-chua-gan-voi-chien-thang.md",
+      "destination": "_posts/2026-10-30-chua-dong-quang-trong-ngo-119-tay-son-bang-xe-may-ngoi-chua-gan-voi-chien-thang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6c67bc7b3ac849764c340771b14c6b3aa4b60872",
+      "finished_at": "2026-10-30T03:19:19+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06208",
+      "started_at": "2026-10-30T03:19:19+00:00",
+      "source": "_drafts/2026-10-30-lang-kim-hoan-dinh-cong-ven-song-to-lich-bang-xe-may-tim-den-tho-to-nghe-xuong-d.md",
+      "destination": "_posts/2026-10-30-lang-kim-hoan-dinh-cong-ven-song-to-lich-bang-xe-may-tim-den-tho-to-nghe-xuong-d.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6c67bc7b3ac849764c340771b14c6b3aa4b60872",
+      "finished_at": "2026-10-30T03:19:20+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
