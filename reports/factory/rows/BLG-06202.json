@@ -1,0 +1,161 @@
+{
+  "article_id": "BLG-06202",
+  "status": "WRITING",
+  "title": "Xe máy hỏng nát, bán phế liệu hoặc bị mất không tìm lại được: làm thủ tục thu hồi đăng ký, biển số và giữ số biển",
+  "intent": "Người dùng hỏi: «Xe máy cũ hỏng hẳn định bán đồng nát, hoặc xe bị mất trộm lâu không tìm lại, có cần làm thủ tục gì với giấy đăng ký và biển số không?». Bài giải thích các trường hợp thu hồi chứng nhận đăng ký, biển số tại điểm d, đ khoản 6 Điều 39 Luật số 36/2024/QH15, quyền giữ lại số biển định danh trong 05 năm để đăng ký cho xe khác tại điểm b khoản 3 Điều 36, và thủ tục thu hồi theo Thông tư 79/2024/TT-BCA (nộp trực tuyến hoặc tại công an cấp xã); nêu lý do nên làm để tránh vướng thông báo vi phạm về sau; không nêu mức phạt. Người đọc là chủ xe máy ở Hà Nội; khác bài BLG-05157 (thu hồi khi bán xe cho người khác) và BLG-04413 (bảo hiểm khi xe bị thu hồi đăng ký) ở chỗ xử lý xe hỏng, thải bỏ hoặc mất.",
+  "primary_keyword": "thu hồi đăng ký xe máy hỏng",
+  "secondary_keywords": [
+    "xe máy bán phế liệu có cần thu hồi biển",
+    "xe bị mất thu hồi đăng ký",
+    "giữ lại biển số định danh 5 năm",
+    "thủ tục thu hồi biển số xe máy"
+  ],
+  "group": "PHAP-LY",
+  "taxonomy": {
+    "parent_id": "P-PHAP-LY",
+    "parent_hub": "An toàn & pháp lý",
+    "parent_hub_url": "/an-toan-phap-ly/",
+    "child_id": "C-GIAY-TO",
+    "child_hub": "Giấy tờ xe & cá nhân",
+    "child_hub_url": "/an-toan-phap-ly/giay-to/"
+  },
+  "expected_url": "/an-toan-phap-ly/2026/10/30/xe-may-hong-nat-ban-phe-lieu-hoac-bi-mat-khong-tim-lai-duoc-lam-thu-tuc-thu-hoi/",
+  "output_path": "_posts/{date}-xe-may-hong-nat-ban-phe-lieu-hoac-bi-mat-khong-tim-lai-duoc-lam-thu-tuc-thu-hoi.md",
+  "draft_path": "_drafts/2026-10-30-xe-may-hong-nat-ban-phe-lieu-hoac-bi-mat-khong-tim-lai-duoc-lam-thu-tuc-thu-hoi.md",
+  "canonical_url": "/an-toan-phap-ly/2026/10/30/xe-may-hong-nat-ban-phe-lieu-hoac-bi-mat-khong-tim-lai-duoc-lam-thu-tuc-thu-hoi/",
+  "internal_links_matrix": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+  ],
+  "commercial_intent": "low",
+  "cannibalization_key": "thu hoi ang ky xe may hong",
+  "word_target": 1300,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": "2000000 - 3000000"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": 1000000,
+        "month": "1800000 - 2000000",
+        "deposit": "4000000 - 5000000"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 1000000,
+        "month": 1500000,
+        "deposit": 3000000
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": 2000000
+      },
+      "Xe tay ga 50cc": {
+        "day": 200000,
+        "week": null,
+        "month": null,
+        "note": "Giá tuần và tháng: báo giá riêng",
+        "deposit": 4000000
+      },
+      "Xe máy điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": true,
+  "legal_risk": "high",
+  "research_class": "C",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00020",
+      "title": "Giấy tờ thuê xe máy ở Hà Nội: cần mang gì khi đến cửa hàng",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/"
+    },
+    {
+      "id": "BLG-00059",
+      "title": "Bảo hiểm cho người thuê xe máy ở Hà Nội: những điều cần hiểu rõ",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bao-hiem-cho-nguoi-thue-xe-may-o-ha-noi/"
+    },
+    {
+      "id": "BLG-00060",
+      "title": "Xe lún mềm bất thường sau mưa to",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bao-hiem-lun-mam-xe-sau-mua-to/"
+    },
+    {
+      "id": "BLG-00062",
+      "title": "Bảo vệ giấy tờ và tài liệu khỏi mưa khi đi xe máy ở Hà Nội",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bao-ve-giay-to-khoi-mua-khi-di-xe-may/"
+    },
+    {
+      "id": "BLG-00064",
+      "title": "Bị dừng kiểm tra giấy tờ khi đi xe máy thuê: nên làm gì",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/"
+    },
+    {
+      "id": "BLG-00065",
+      "title": "Bị kiểm tra giấy tờ khi đi xe máy thuê cần lưu ý gì",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bi-kiem-tra-giay-to-khi-di-xe-thue/"
+    },
+    {
+      "id": "BLG-00066",
+      "title": "Bị phạt nguội qua camera giữa kỳ thuê",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bi-phat-nguoi-qua-camera-giua-ky-thue/"
+    },
+    {
+      "id": "BLG-00068",
+      "title": "Biển báo giao thông thường gặp khi đi trong phố",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bien-bao-giao-thong-thuong-gap-khi-di-trong-pho/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "PASS"
+  },
+  "matrix_row_sha256": "79c03565b978b4905b9bebfadc065870cd07123218790e047599db00b2cd27b1",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
