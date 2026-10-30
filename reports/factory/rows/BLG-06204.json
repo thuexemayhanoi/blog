@@ -1,0 +1,161 @@
+{
+  "article_id": "BLG-06204",
+  "status": "WRITING",
+  "title": "Từ 15/8/2026 học sinh 16, 17 tuổi đi xe 50cc có bị phạt không: Nghị định 238/2026 chỉ đổi câu chữ, không thêm lỗi",
+  "intent": "Người dùng hỏi: «Nghe tin từ 15/8/2026 người dưới 18 tuổi đi mọi loại xe máy đều bị phạt, vậy con 16, 17 tuổi đi xe gắn máy 50cc, xe máy điện dưới 4 kW còn được đi không?». Bài giải thích Điều 6 Nghị định 238/2026/NĐ-CP sửa điểm a khoản 4 Điều 18 Nghị định 168/2024/NĐ-CP (đổi cách gọi thành “xe mô tô và các loại xe tương tự xe mô tô”), đối chiếu điểm a khoản 1 Điều 59 và điểm e, g khoản 1 Điều 34 Luật số 36/2024/QH15 về xe gắn máy, cùng giải thích của Cục Cảnh sát giao thông; không nêu mức phạt. Người đọc là phụ huynh và học sinh THPT ở Hà Nội; khác bài BLG-04982 (dưới 16 tuổi lái 50cc) và BLG-04379 (trách nhiệm khi giao xe trên 50cc) ở chỗ làm rõ tin đồn về thay đổi năm 2026.",
+  "primary_keyword": "học sinh 16 tuổi đi xe 50cc",
+  "secondary_keywords": [
+    "Nghị định 238/2026",
+    "người dưới 18 tuổi đi xe máy",
+    "xe gắn máy và xe mô tô khác nhau",
+    "quy định từ 15/8/2026"
+  ],
+  "group": "PHAP-LY",
+  "taxonomy": {
+    "parent_id": "P-PHAP-LY",
+    "parent_hub": "An toàn & pháp lý",
+    "parent_hub_url": "/an-toan-phap-ly/",
+    "child_id": "C-QUY-DINH",
+    "child_hub": "Quy định giao thông",
+    "child_hub_url": "/an-toan-phap-ly/quy-dinh-giao-thong/"
+  },
+  "expected_url": "/an-toan-phap-ly/2026/10/30/tu-1582026-hoc-sinh-16-17-tuoi-di-xe-50cc-co-bi-phat-khong-nghi-dinh-2382026-chi/",
+  "output_path": "_posts/{date}-tu-1582026-hoc-sinh-16-17-tuoi-di-xe-50cc-co-bi-phat-khong-nghi-dinh-2382026-chi.md",
+  "draft_path": "_drafts/2026-10-30-tu-1582026-hoc-sinh-16-17-tuoi-di-xe-50cc-co-bi-phat-khong-nghi-dinh-2382026-chi.md",
+  "canonical_url": "/an-toan-phap-ly/2026/10/30/tu-1582026-hoc-sinh-16-17-tuoi-di-xe-50cc-co-bi-phat-khong-nghi-dinh-2382026-chi/",
+  "internal_links_matrix": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+  ],
+  "commercial_intent": "none",
+  "cannibalization_key": "hoc sinh 16 tuoi i xe 50cc",
+  "word_target": 1300,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": "2000000 - 3000000"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": 1000000,
+        "month": "1800000 - 2000000",
+        "deposit": "4000000 - 5000000"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 1000000,
+        "month": 1500000,
+        "deposit": 3000000
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": 2000000
+      },
+      "Xe tay ga 50cc": {
+        "day": 200000,
+        "week": null,
+        "month": null,
+        "note": "Giá tuần và tháng: báo giá riêng",
+        "deposit": 4000000
+      },
+      "Xe máy điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": true,
+  "legal_risk": "high",
+  "research_class": "C",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00020",
+      "title": "Giấy tờ thuê xe máy ở Hà Nội: cần mang gì khi đến cửa hàng",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/"
+    },
+    {
+      "id": "BLG-00059",
+      "title": "Bảo hiểm cho người thuê xe máy ở Hà Nội: những điều cần hiểu rõ",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bao-hiem-cho-nguoi-thue-xe-may-o-ha-noi/"
+    },
+    {
+      "id": "BLG-00060",
+      "title": "Xe lún mềm bất thường sau mưa to",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bao-hiem-lun-mam-xe-sau-mua-to/"
+    },
+    {
+      "id": "BLG-00062",
+      "title": "Bảo vệ giấy tờ và tài liệu khỏi mưa khi đi xe máy ở Hà Nội",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bao-ve-giay-to-khoi-mua-khi-di-xe-may/"
+    },
+    {
+      "id": "BLG-00064",
+      "title": "Bị dừng kiểm tra giấy tờ khi đi xe máy thuê: nên làm gì",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/"
+    },
+    {
+      "id": "BLG-00065",
+      "title": "Bị kiểm tra giấy tờ khi đi xe máy thuê cần lưu ý gì",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bi-kiem-tra-giay-to-khi-di-xe-thue/"
+    },
+    {
+      "id": "BLG-00066",
+      "title": "Bị phạt nguội qua camera giữa kỳ thuê",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bi-phat-nguoi-qua-camera-giua-ky-thue/"
+    },
+    {
+      "id": "BLG-00068",
+      "title": "Biển báo giao thông thường gặp khi đi trong phố",
+      "url": "/kinh%20nghi%E1%BB%87m/2026/09/19/bien-bao-giao-thong-thuong-gap-khi-di-trong-pho/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "PASS"
+  },
+  "matrix_row_sha256": "4fb142faef7c2e3ffad475df4fd1bd7b061c93c1b307c1964e12604da0b1d33d",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
