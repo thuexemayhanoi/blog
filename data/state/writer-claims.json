@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-30T03:16:23Z",
+  "updated_at": "2026-10-30T03:17:28Z",
   "leases": {
     "W6": {
       "ids": [
@@ -11,16 +11,14 @@
         "BLG-06205",
         "BLG-06206",
         "BLG-06207",
-        "BLG-06208",
-        "BLG-06209",
-        "BLG-06210"
+        "BLG-06208"
       ],
       "session": "s-claude-opus-w6",
       "epoch": 1,
       "claimed_at": "2026-10-30T03:05:40Z",
-      "heartbeat_at": "2026-10-30T03:16:23Z",
+      "heartbeat_at": "2026-10-30T03:17:28Z",
       "ttl_hours": 48.0,
-      "expires_at": "2026-11-01T03:16:23Z",
+      "expires_at": "2026-11-01T03:17:28Z",
       "label": "claude-opus"
     }
   }
