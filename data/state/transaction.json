@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-31T05:49:00+00:00",
+  "updated_at": "2026-10-31T05:49:39+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-06203",
-      "started_at": "2026-10-30T03:18:12+00:00",
-      "source": "_drafts/2026-10-30-mau-den-nhap-nhay-cua-xe-uu-tien-tu-ngay-0172026-do-xanh-do-hay-xanh-bao-xe-nao.md",
-      "destination": "_posts/2026-10-30-mau-den-nhap-nhay-cua-xe-uu-tien-tu-ngay-0172026-do-xanh-do-hay-xanh-bao-xe-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "28aa245e46da6497fb9be0bbfb39242415258c11",
-      "finished_at": "2026-10-30T03:18:12+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-06204",
-      "started_at": "2026-10-30T03:18:12+00:00",
-      "source": "_drafts/2026-10-30-tu-1582026-hoc-sinh-16-17-tuoi-di-xe-50cc-co-bi-phat-khong-nghi-dinh-2382026-chi.md",
-      "destination": "_posts/2026-10-30-tu-1582026-hoc-sinh-16-17-tuoi-di-xe-50cc-co-bi-phat-khong-nghi-dinh-2382026-chi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "28aa245e46da6497fb9be0bbfb39242415258c11",
-      "finished_at": "2026-10-30T03:18:12+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06207",
       "started_at": "2026-10-30T03:19:19+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "70a3b6ca0d3ab831e5c4538d6a755f1c77fd876d",
       "finished_at": "2026-10-31T05:49:00+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06255",
+      "started_at": "2026-10-31T05:49:39+00:00",
+      "source": "_drafts/2026-10-31-cot-moc-428-o-seo-lung-diem-cuc-bac-that-tu-cot-co-lung-cu-di-xe-may-toi-dau-di.md",
+      "destination": "_posts/2026-10-31-cot-moc-428-o-seo-lung-diem-cuc-bac-that-tu-cot-co-lung-cu-di-xe-may-toi-dau-di.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6409c7de239c59466dbb8960e76f3b109d2a88c4",
+      "finished_at": "2026-10-31T05:49:39+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06257",
+      "started_at": "2026-10-31T05:49:39+00:00",
+      "source": "_drafts/2026-10-31-ha-giang-dip-tet-nguyen-dan-va-mua-hoa-dao-man-cai-vang-dau-nam-chay-xe-may-luc.md",
+      "destination": "_posts/2026-10-31-ha-giang-dip-tet-nguyen-dan-va-mua-hoa-dao-man-cai-vang-dau-nam-chay-xe-may-luc.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6409c7de239c59466dbb8960e76f3b109d2a88c4",
+      "finished_at": "2026-10-31T05:49:39+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
