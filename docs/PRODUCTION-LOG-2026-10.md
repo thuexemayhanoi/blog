@@ -19,6 +19,7 @@
 | 2026-10-31 sau lô 7 | 5.736 | +72 bài: BLG-05709, BLG-05716, BLG-06151 → BLG-06220 |
 | 2026-10-31 sau lô 9 | 5.756 | +92 bài: thêm BLG-06221 → BLG-06240 |
 | 2026-10-31 sau lô 11 | 5.776 | +112 bài: thêm BLG-06241 → BLG-06260 |
+| 2026-10-31 sau lô 13 | 5.796 | +132 bài: thêm BLG-06261 → BLG-06280 |
 
 Mọi bài đều qua publisher (evidence `data/qa/<ID>.json`); không bài nào publish tay.
 Kiểm live: `factory-liveness.yml` (live_audit) run 40995672844 ngày 2026-10-30 — 6.980/6.980 URL
@@ -31,7 +32,8 @@ sitemap HTTP 200, 0 liên kết hỏng, 0 soft-404, 0 lỗi canonical, 0 trang m
   2025–2026, hạ tầng Hà Nội 2026) → STAGED, materialize 2026-10-31 khi claimable < 100
   (refill-request seq 169, commit cdcf930ff; BLG-06318 → BLG-06366).
 - `refill-2026-10-30-R30A/B/C.json`: 46 chủ đề (thuê xe/hợp đồng theo BLDS; pháp lý TT 108/72/73, XLVPHC,
-  QCVN 41; xe và kỹ năng) → STAGED 2026-10-31 (refill-request seq 170), materialize khi claimable < 100.
+  QCVN 41; xe và kỹ năng) → STAGED 2026-10-31 (refill-request seq 170), materialize 2026-10-31 khi claimable
+  còn 96 (refill-request seq 171, commit dbd56ae48; BLG-06367 → BLG-06412). Ledger STAGED còn 0.
   Child đã bão hòa không có ứng viên: C-THUE-GIA, C-THUE-DAT-COC, C-THUE-DOI-TUONG, C-NOI-DO-CONG, C-BAO-HIEM.
 - Hai ứng viên bị loại vì buộc phải nêu chính sách/giá chưa duyệt (giữ giấy tờ gốc; giá gửi xe).
 
@@ -48,9 +50,9 @@ sitemap HTTP 200, 0 liên kết hỏng, 0 soft-404, 0 lỗi canonical, 0 trang m
 
 1. `git pull --ff-only origin main`; `export FACTORY_WRITER_SESSION=s-claude-opus-w6`;
    `python3 scripts/factory/writer-session.py status` (mục `me`).
-2. Lease đang mở lúc ghi: BLG-06261 → BLG-06270 (lô 12). `begin --slot W6` nhận lại đúng lease;
+2. Lease đang mở lúc ghi: BLG-06281 → BLG-06290 (lô 14). `begin --slot W6` nhận lại đúng lease;
    draft nào đã push vẫn được publisher xử lý.
-3. Lô kế tiếp: BLG-06271 trở đi theo thứ tự matrix. Khi claimable PLANNED < 100: đẩy batch chủ đề
+3. Lô kế tiếp: BLG-06291 trở đi theo thứ tự matrix. Khi claimable PLANNED < 100: đẩy batch chủ đề
    thật mới vào `data/factory/refill-batches/` + bump `data/factory/refill-request.json`.
 
 ## Việc chủ website cần xác minh (không chặn sản xuất)
