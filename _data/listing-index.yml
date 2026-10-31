@@ -8,9 +8,9 @@ chia-se:
   size: 12
   total: 112
 du-lich:
-  pages: 77
+  pages: 78
   size: 12
-  total: 923
+  total: 925
 topic:
   xe-may_bao-duong-xe:
     pages: 7
@@ -23,7 +23,7 @@ topic:
   du-lich_bao-tang:
     pages: 4
     size: 24
-    total: 94
+    total: 95
   an-toan-phap-ly_bien-bao:
     pages: 4
     size: 24
@@ -151,7 +151,7 @@ topic:
   du-lich_pho-co:
     pages: 4
     size: 24
-    total: 93
+    total: 94
   an-toan-phap-ly_quy-dinh-giao-thong:
     pages: 6
     size: 24
