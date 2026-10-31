@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-31T17:30:04+00:00",
+  "updated_at": "2026-10-31T17:34:03+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-06213",
-      "started_at": "2026-10-31T04:45:51+00:00",
-      "source": "_drafts/2026-10-31-bao-tang-nhan-hoc-trong-truong-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-336-nguyen-tr.md",
-      "destination": "_posts/2026-10-31-bao-tang-nhan-hoc-trong-truong-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-336-nguyen-tr.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3a3e2b28d4a229fe710a08669a83c0a491e5bdc3",
-      "finished_at": "2026-10-31T04:45:51+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-06214",
-      "started_at": "2026-10-31T04:45:51+00:00",
-      "source": "_drafts/2026-10-31-bao-tang-binh-chung-thong-tin-o-1-giang-van-minh-bang-xe-may-khu-trung-bay-ngoai.md",
-      "destination": "_posts/2026-10-31-bao-tang-binh-chung-thong-tin-o-1-giang-van-minh-bang-xe-may-khu-trung-bay-ngoai.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3a3e2b28d4a229fe710a08669a83c0a491e5bdc3",
-      "finished_at": "2026-10-31T04:45:52+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06215",
       "started_at": "2026-10-31T04:46:12+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "bf33a61e79f50da5adb6f984014b05044f6643b9",
       "finished_at": "2026-10-31T17:30:04+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06267",
+      "started_at": "2026-10-31T17:34:03+00:00",
+      "source": "_drafts/2026-10-31-di-phuot-phia-bac-sau-sap-nhap-tinh-2025-ha-giang-yen-bai-hoa-binh-bac-kan-nay-t.md",
+      "destination": "_posts/2026-10-31-di-phuot-phia-bac-sau-sap-nhap-tinh-2025-ha-giang-yen-bai-hoa-binh-bac-kan-nay-t.md",
+      "result": "PUBLISHED",
+      "commit_sha": "bbf3ccabb4cb49249fb82b888b8bc289c9730727",
+      "finished_at": "2026-10-31T17:34:03+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06268",
+      "started_at": "2026-10-31T17:34:03+00:00",
+      "source": "_drafts/2026-10-31-cho-phien-can-cau-sang-thu-bay-bang-xe-may-tu-bac-ha-theo-tinh-lo-153-len-si-ma.md",
+      "destination": "_posts/2026-10-31-cho-phien-can-cau-sang-thu-bay-bang-xe-may-tu-bac-ha-theo-tinh-lo-153-len-si-ma.md",
+      "result": "PUBLISHED",
+      "commit_sha": "bbf3ccabb4cb49249fb82b888b8bc289c9730727",
+      "finished_at": "2026-10-31T17:34:03+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
