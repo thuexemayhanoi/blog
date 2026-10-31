@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-31T05:49:39+00:00",
+  "updated_at": "2026-10-31T05:51:10+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-06207",
-      "started_at": "2026-10-30T03:19:19+00:00",
-      "source": "_drafts/2026-10-30-chua-dong-quang-trong-ngo-119-tay-son-bang-xe-may-ngoi-chua-gan-voi-chien-thang.md",
-      "destination": "_posts/2026-10-30-chua-dong-quang-trong-ngo-119-tay-son-bang-xe-may-ngoi-chua-gan-voi-chien-thang.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6c67bc7b3ac849764c340771b14c6b3aa4b60872",
-      "finished_at": "2026-10-30T03:19:19+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-06208",
-      "started_at": "2026-10-30T03:19:19+00:00",
-      "source": "_drafts/2026-10-30-lang-kim-hoan-dinh-cong-ven-song-to-lich-bang-xe-may-tim-den-tho-to-nghe-xuong-d.md",
-      "destination": "_posts/2026-10-30-lang-kim-hoan-dinh-cong-ven-song-to-lich-bang-xe-may-tim-den-tho-to-nghe-xuong-d.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6c67bc7b3ac849764c340771b14c6b3aa4b60872",
-      "finished_at": "2026-10-30T03:19:20+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06201",
       "started_at": "2026-10-30T03:20:05+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "6409c7de239c59466dbb8960e76f3b109d2a88c4",
       "finished_at": "2026-10-31T05:49:39+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06253",
+      "started_at": "2026-10-31T05:51:10+00:00",
+      "source": "_drafts/2026-10-31-ban-pa-phach-o-moc-chau-mua-hoa-man-duong-dat-do-doc-len-ban-nguoi-mong-va-khi-n.md",
+      "destination": "_posts/2026-10-31-ban-pa-phach-o-moc-chau-mua-hoa-man-duong-dat-do-doc-len-ban-nguoi-mong-va-khi-n.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2dac2651f280cf845af5a20ffaa50cbb977b9f89",
+      "finished_at": "2026-10-31T05:51:10+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06260",
+      "started_at": "2026-10-31T05:51:10+00:00",
+      "source": "_drafts/2026-10-31-deo-lung-lo-tren-quoc-lo-37-noi-nghia-lo-voi-phu-yen-khi-ghep-mu-cang-chai-va-ta.md",
+      "destination": "_posts/2026-10-31-deo-lung-lo-tren-quoc-lo-37-noi-nghia-lo-voi-phu-yen-khi-ghep-mu-cang-chai-va-ta.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2dac2651f280cf845af5a20ffaa50cbb977b9f89",
+      "finished_at": "2026-10-31T05:51:10+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],

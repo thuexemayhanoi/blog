@@ -2,25 +2,25 @@
   "schema_version": "2",
   "mode": "new",
   "queue": [
-    "BLG-06255",
-    "BLG-06257"
+    "BLG-06253",
+    "BLG-06260"
   ],
   "pair_size": 2,
-  "started": "2026-10-31T05:49:28Z",
-  "finished": "2026-10-31T05:49:42Z",
+  "started": "2026-10-31T05:50:53Z",
+  "finished": "2026-10-31T05:51:15Z",
   "pairs": [
     {
       "pair_index": 1,
       "ids": [
-        "BLG-06255",
-        "BLG-06257"
+        "BLG-06253",
+        "BLG-06260"
       ],
       "status": "published"
     }
   ],
   "published": [
-    "BLG-06255",
-    "BLG-06257"
+    "BLG-06253",
+    "BLG-06260"
   ],
   "recoverable": [],
   "deferred": [],
