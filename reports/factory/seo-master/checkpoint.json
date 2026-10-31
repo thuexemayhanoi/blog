@@ -783,7 +783,8 @@
       "pages_conclusion": "success",
       "quality_gate_run": 1735,
       "gate_job": "success (14m39s)",
-      "engine_tests_job": "in_progress lúc ghi; cục bộ 46/46 PASS"
+      "engine_tests_job": "success",
+      "quality_gate_conclusion": "success (cả 2 job)"
     },
     "note": "Đợt 1 wave 4 đã live và xác minh; phần còn lại xem SEO-208..211"
   }
