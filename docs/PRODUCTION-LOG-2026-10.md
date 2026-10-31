@@ -18,6 +18,7 @@
 | Đầu đợt (2026-10-29) | 5.664 | hàng đợi còn 2 hàng PLANNED |
 | 2026-10-31 sau lô 7 | 5.736 | +72 bài: BLG-05709, BLG-05716, BLG-06151 → BLG-06220 |
 | 2026-10-31 sau lô 9 | 5.756 | +92 bài: thêm BLG-06221 → BLG-06240 |
+| 2026-10-31 sau lô 11 | 5.776 | +112 bài: thêm BLG-06241 → BLG-06260 |
 
 Mọi bài đều qua publisher (evidence `data/qa/<ID>.json`); không bài nào publish tay.
 Kiểm live: `factory-liveness.yml` (live_audit) run 40995672844 ngày 2026-10-30 — 6.980/6.980 URL
@@ -47,9 +48,9 @@ sitemap HTTP 200, 0 liên kết hỏng, 0 soft-404, 0 lỗi canonical, 0 trang m
 
 1. `git pull --ff-only origin main`; `export FACTORY_WRITER_SESSION=s-claude-opus-w6`;
    `python3 scripts/factory/writer-session.py status` (mục `me`).
-2. Lease đang mở lúc ghi: BLG-06241 → BLG-06250 (lô 10). `begin --slot W6` nhận lại đúng lease;
+2. Lease đang mở lúc ghi: BLG-06261 → BLG-06270 (lô 12). `begin --slot W6` nhận lại đúng lease;
    draft nào đã push vẫn được publisher xử lý.
-3. Lô kế tiếp: BLG-06251 trở đi theo thứ tự matrix. Khi claimable PLANNED < 100: đẩy batch chủ đề
+3. Lô kế tiếp: BLG-06271 trở đi theo thứ tự matrix. Khi claimable PLANNED < 100: đẩy batch chủ đề
    thật mới vào `data/factory/refill-batches/` + bump `data/factory/refill-request.json`.
 
 ## Việc chủ website cần xác minh (không chặn sản xuất)
@@ -80,5 +81,13 @@ Chi tiết theo bài (điểm chưa kiểm tại chỗ hoặc nguồn chưa th�
 - BLG-06238, 06239, 06240: phương án giao thông công trường (Vành đai 1, cầu Trần Hưng Đạo hết hạn 30/12/2026,
   cầu Tứ Liên rào đến 30/4/2027) — cần cập nhật khi Sở Xây dựng ra thông báo mới.
 - BLG-06227: tiêu đề matrix ghi "chùa Động Linh", đa số nguồn ghi "Đông Linh tự" (bài giải thích cả hai).
+- BLG-01063, BLG-02731 (đã PUBLISHED): có thể ghi sai vị trí dốc Thẩm Mã (01063 ghi "Quốc lộ 4A", 02731 đặt "giữa
+  Quản Bạ và Yên Minh"); nguồn cho biết Thẩm Mã thuộc xã Phố Cáo, đoạn Yên Minh – Đồng Văn trên QL4C — nếu chủ duyệt
+  thì sửa qua `revise-published.py`.
+- Bài cung đường xa (BLG-06242 → BLG-06260): cửa hàng có cho xe thuê đi tỉnh xa/vùng biên, trả xe ở tỉnh khác hay
+  không chưa có trong business facts — bài chỉ ghi "hỏi, xác nhận với cửa hàng trước khi đi xa". Lịch làm việc dịp
+  Tết 2027 và ngày 1/1/2027 cũng chưa có.
+- BLG-06255, 06256, 06259 (vùng biên): dẫn NĐ 34/2014 (sửa bởi NĐ 299/2025) và NĐ 79/2026 (không nêu mức phạt) —
+  cách đồn biên phòng tiếp khách hiện nay chưa kiểm tại chỗ.
 - BLG-02150 (đã PUBLISHED): bài nói Honda Wave không có hộc chứa đồ, nhưng Wave RSX có hộc U-box dưới yên theo
   honda.com.vn — nếu chủ duyệt thì sửa qua `revise-published.py` (không sửa tay).
