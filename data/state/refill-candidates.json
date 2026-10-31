@@ -3,13 +3,983 @@
     "note": "Staging tu data/factory/refill-batches/ boi stage-refill-batch.py: candidate phai qua gate G1-G9 cua refill-queue.py --verify; FAIL thi rollback nguyen ven. Materialize boi refill-queue.py --refill --yes.",
     "created": "2026-09-27",
     "smoke_test": true,
-    "status": "MATERIALIZED",
+    "status": "STAGED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-31T04:48:59+00:00",
-    "staged_at": "2026-10-29T16:24:06+00:00"
+    "staged_at": "2026-10-31T04:57:31+00:00"
   },
-  "candidates": [],
+  "candidates": [
+    {
+      "candidate_id": "CAND-2026-10-30-R30A-001",
+      "child_id": "C-HD-GIA",
+      "title": "Nghỉ lễ Ngày Văn hóa Việt Nam 24/11/2026 rơi vào thứ Ba: thuê xe máy bốn ngày từ thứ Bảy hay lấy luôn gói tuần",
+      "intent": "Người dùng hỏi: «24/11 năm nay được nghỉ đúng thứ Ba, nếu xin nghỉ thêm thứ Hai 23/11 để đi chơi từ thứ Bảy 21/11 thì thuê xe máy tính bốn ngày lẻ hay lấy gói tuần cho đỡ tiền?». Bài đối chiếu lịch nghỉ (Ngày Văn hóa Việt Nam nghỉ một ngày thứ Ba 24/11/2026 theo Nghị quyết 28/2026/QH16, không hoán đổi ngày làm việc, nên thứ Hai 23/11 vẫn đi làm nếu không xin phép) với bảng giá đã duyệt: Wave, Click/Mio 150.000 đồng/ngày và 700.000 đồng/tuần; Vision, Air Blade 200.000 đồng/ngày và 1.000.000 đồng/tuần; xe ga 50cc chỉ có giá ngày. Bài so các phương án chỉ thuê ngày 24/11, thuê hai ngày, thuê bốn ngày từ thứ Bảy, cho thấy từ mấy ngày thì gói tuần bằng hoặc rẻ hơn cộng ngày lẻ, gợi ý nhận xe tối thứ Sáu 20/11 hay sáng thứ Bảy trong giờ 09:00–21:00 và trả tối thứ Ba. Không khẳng định giá dịp lễ khác bảng giá, cọc và giấy tờ xác nhận trực tiếp. Người đọc là người đi làm, sinh viên ở Hà Nội hoặc từ tỉnh lên muốn tận dụng kỳ nghỉ 24/11, khác bài thuê xe 3 ngày (BLG-00963), 5–6 ngày (BLG-02843) và giá dịp lễ nói chung (BLG-01350) ở chỗ lập theo đúng lịch nghỉ thứ Ba 24/11/2026.",
+      "kw": "thuê xe máy nghỉ lễ 24/11",
+      "kw2": [
+        "Ngày Văn hóa Việt Nam 24/11",
+        "thuê xe máy 4 ngày",
+        "gói tuần hay giá ngày",
+        "lịch nghỉ thứ Ba 24/11/2026"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-gia/",
+        "/hoi-dap/",
+        "/bang-gia/"
+      ],
+      "subtopic": "refill-2026-10-30-R30A",
+      "audience": "Người đi làm, sinh viên ở Hà Nội hoặc từ tỉnh lên muốn dùng xe máy trong kỳ nghỉ 24/11/2026",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30A-002",
+      "child_id": "C-THUE-DIA-DIEM",
+      "title": "Đưa người nhà điều trị theo đợt ở Bệnh viện K: thuê xe máy ở Bồ Đề đi giữa cơ sở Quán Sứ, Tân Triều và chỗ trọ",
+      "intent": "Người dùng hỏi: «Người nhà điều trị ở Bệnh viện K, mỗi đợt ở Hà Nội vài ngày đến vài tuần rồi về quê chờ đợt sau, lại có hôm phải sang cơ sở Quán Sứ (Hoàn Kiếm), có hôm xuống Tân Triều hay Tam Hiệp (Thanh Trì): thuê xe máy thế nào cho hợp?». Bài hướng dẫn thuê theo từng đợt (theo ngày hoặc gói tuần) thay vì giữ xe suốt thời gian về quê, cách nhẩm bằng bảng giá đã duyệt (Wave, Click/Mio 150.000 đồng/ngày, 700.000 đồng/tuần; chỉ tính gói tháng khi một đợt kéo dài), hướng đi từ 112 Nguyễn Văn Cừ sang Quán Sứ qua cầu Chương Dương và xuống Thanh Trì qua cầu Vĩnh Tuy, giờ đi tránh cổng viện đông, gửi xe, việc người bệnh mệt sau buổi điều trị nên ngồi sau hoặc đi taxi theo dặn của bác sĩ, nhắn tiệm lịch nhận trả xe trong giờ 09:00–21:00 trước mỗi đợt. Không nói về phác đồ, lịch điều trị hay viện phí. Người đọc là người nhà bệnh nhân từ các tỉnh phía Đông, Đông Bắc vào Hà Nội qua Long Biên, khác bài chăm bệnh nhân dài ngày theo tháng (BLG-02436) và thăm người nằm viện theo ngày (BLG-03010) ở chỗ tính theo nhịp từng đợt và đường đi giữa các cơ sở của Bệnh viện K.",
+      "kw": "thuê xe máy đi bệnh viện K",
+      "kw2": [
+        "bệnh viện K cơ sở Quán Sứ",
+        "bệnh viện K Tân Triều đi xe máy",
+        "người nhà bệnh nhân thuê xe máy",
+        "thuê xe theo đợt điều trị"
+      ],
+      "links": [
+        "/thue-xe/thue-theo-dia-diem/",
+        "/thue-xe/",
+        "/bang-gia/"
+      ],
+      "subtopic": "refill-2026-10-30-R30A",
+      "audience": "Người nhà bệnh nhân điều trị theo đợt ở Bệnh viện K, từ tỉnh vào Hà Nội qua phía Long Biên",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30A-003",
+      "child_id": "C-THUE-DIA-DIEM",
+      "title": "Xuống bến xe khách Yên Sở mới khai trương: sang Bồ Đề, Long Biên nhận xe máy thuê bằng cách nào và hẹn giờ ra sao",
+      "intent": "Người dùng hỏi: «Đi xe khách từ các tỉnh phía Nam lên, nhà xe báo đỗ ở bến Yên Sở mới chứ không phải Giáp Bát; muốn thuê xe máy ở Long Biên thì sang bằng cách nào?». Bài cập nhật việc bến xe khách Yên Sở (phía Nam Hà Nội, cạnh đường gom Vành đai 3) khai trương tháng 10/2026, tiếp nhận dần các tuyến phía Nam trong khi Giáp Bát, Nước Ngầm dừng nhận tuyến mới; hướng dẫn hỏi nhà xe điểm trả khách thật, các cách sang 112 Nguyễn Văn Cừ, Bồ Đề (taxi, xe công nghệ, xe buýt chỉ nêu khi kiểm chứng được), nhắn tiệm hẹn giờ theo giờ xe đến và giờ mở cửa 09:00–21:00, xe đến đêm thì nghỉ rồi sáng nhận xe, mang hành lý thế nào và sau khi nhận xe quay lại phía Nam bằng cầu nào. Không bịa giá cước, số hiệu tuyến buýt hay khoảng cách chính xác. Người đọc là khách từ Thanh Hóa, Nghệ An, Ninh Bình, Nam Định lên Hà Nội bằng xe khách, khác bài thuê xe gần bến Giáp Bát (BLG-00908, BLG-02115) và bài nhận xe từ Mỹ Đình, Giáp Bát, Nước Ngầm (BLG-03067) ở chỗ áp dụng cho đầu mối mới Yên Sở.",
+      "kw": "thuê xe máy gần bến xe Yên Sở",
+      "kw2": [
+        "bến xe Yên Sở mới",
+        "từ bến xe Yên Sở sang Long Biên",
+        "xe khách phía Nam về Yên Sở",
+        "nhận xe máy thuê ở Bồ Đề"
+      ],
+      "links": [
+        "/thue-xe/thue-theo-dia-diem/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-30-R30A",
+      "audience": "Khách từ các tỉnh phía Nam lên Hà Nội bằng xe khách, xuống bến Yên Sở và cần xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30A-004",
+      "child_id": "C-THUE-DIA-DIEM",
+      "title": "Lái ô tô từ Hải Phòng, Quảng Ninh lên Hà Nội chơi: gửi ô tô phía Long Biên rồi thuê xe máy ở Bồ Đề vào phố cổ có hợp lý",
+      "intent": "Người dùng hỏi: «Cả nhà lái ô tô lên Hà Nội theo quốc lộ 5 hoặc cao tốc Hà Nội – Hải Phòng, ngại đưa ô tô vào phố cổ vì khó đỗ, có nên để ô tô bên Long Biên rồi thuê xe máy đi trong phố không?». Bài phân tích khi nào cách kết hợp này hợp lý (phố cổ nhiều phố một chiều, phố hạn chế ô tô theo giờ phải xem biển, phố đi bộ quanh Hồ Gươm cuối tuần, chỗ đỗ ô tô ít) và khi nào không đáng, những điều phải hỏi trước với nơi gửi ô tô (gửi qua đêm, giờ ra vào, giữ vé) mà không nêu tên bãi hay giá vé chưa kiểm chứng, số xe máy cần cho cả nhà theo Điều 33 Luật Trật tự, an toàn giao thông đường bộ 2024 (chở một người, được chở thêm trẻ em dưới 12 tuổi), người lái phải có bằng xe máy chứ bằng ô tô không thay được, giá theo bảng đã duyệt và nhận trả xe tại 112 Nguyễn Văn Cừ trong giờ 09:00–21:00. Người đọc là gia đình, nhóm bạn tự lái ô tô từ các tỉnh phía Đông lên Hà Nội một đến ba ngày, khác bài cả nhà thuê xe máy hay thuê ô tô (BLG-02206) và người quen lái ô tô chuyển sang xe máy (BLG-02888) ở chỗ kết hợp gửi ô tô ở Long Biên với thuê xe máy đi phố.",
+      "kw": "gửi ô tô ở Long Biên thuê xe máy",
+      "kw2": [
+        "lái ô tô lên Hà Nội chơi",
+        "ô tô vào phố cổ khó đỗ",
+        "từ Hải Phòng lên Hà Nội",
+        "thuê xe máy đi phố cổ"
+      ],
+      "links": [
+        "/thue-xe/thue-theo-dia-diem/",
+        "/thue-xe/",
+        "/bang-gia/"
+      ],
+      "subtopic": "refill-2026-10-30-R30A",
+      "audience": "Gia đình, nhóm bạn tự lái ô tô từ Hải Phòng, Quảng Ninh, Hải Dương lên Hà Nội vài ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30A-005",
+      "child_id": "C-THUE-DIA-DIEM",
+      "title": "Đưa người nhà khám, mổ ở Bệnh viện Mắt Trung ương phố Bà Triệu: thuê xe máy ở Bồ Đề để người đi cùng cầm lái",
+      "intent": "Người dùng hỏi: «Bố mẹ từ quê lên khám và mổ mắt ở Bệnh viện Mắt Trung ương, mình thuê xe máy chở đi khám, mổ rồi tái khám mấy hôm thì nên làm thế nào?». Bài hướng dẫn: người vừa nhỏ thuốc giãn đồng tử hay vừa mổ không tự lái mà ngồi sau người đi cùng (theo dặn của bác sĩ, không đưa lời khuyên y khoa riêng), chọn xe hai người ngồi vững (Vision, Air Blade hay Wave) theo bảng giá đã duyệt, thuê theo ngày hay gói tuần tùy lịch hẹn tái khám, đường từ 112 Nguyễn Văn Cừ sang phố Bà Triệu qua cầu Chương Dương và cặp phố một chiều Bà Triệu – Phố Huế, gửi xe khi cổng viện đông, che gió bụi cho người ngồi sau, khi nào nên gọi taxi thay vì đi xe máy. Người đọc là con cháu chở người lớn tuổi đi khám, mổ mắt ở Hà Nội, khác bài tự lái lại sau mổ phaco (BLG-06290) và sau khi nhỏ thuốc khám mắt (BLG-05309) ở chỗ tập trung vào việc thuê xe, ai cầm lái và đường đến bệnh viện.",
+      "kw": "thuê xe máy đi bệnh viện Mắt Trung ương",
+      "kw2": [
+        "bệnh viện Mắt Trung ương Bà Triệu",
+        "chở người nhà đi mổ mắt",
+        "gửi xe bệnh viện Mắt",
+        "tái khám mắt bằng xe máy"
+      ],
+      "links": [
+        "/thue-xe/thue-theo-dia-diem/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-30-R30A",
+      "audience": "Con cháu chở cha mẹ, ông bà từ tỉnh lên khám, mổ mắt ở Bệnh viện Mắt Trung ương",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30A-006",
+      "child_id": "C-HD-THU-TUC",
+      "title": "Hợp đồng thuê xe máy không ghi thời hạn hay ngày trả: theo Bộ luật Dân sự khi nào phải trả và báo trước bao lâu",
+      "intent": "Người dùng hỏi: «Mình thuê xe máy, giấy chỉ ghi giá theo ngày mà không ghi thuê đến hôm nào; tiệm có được đòi xe bất cứ lúc nào và mình muốn trả thì phải báo trước bao lâu?». Bài giải thích Điều 474 Bộ luật Dân sự 2015 (thời hạn thuê do các bên thỏa thuận; không thỏa thuận thì xác định theo mục đích thuê; không xác định được theo mục đích thì mỗi bên có quyền chấm dứt bất cứ lúc nào nhưng phải thông báo trước một thời gian hợp lý), liên hệ Điều 481 khoản 1 về thời hạn trả tiền thuê khi không thỏa thuận, ví dụ thuê để đi công tác hay học một khóa thì mục đích cho biết thời hạn, cách bổ sung ngày trả bằng tin nhắn hoặc ghi thêm vào hợp đồng. Không nêu tiền phạt, không khẳng định chính sách riêng của cửa hàng. Người đọc là người đang thuê hoặc sắp ký hợp đồng thuê xe để ngỏ, chưa chốt ngày trả, khác bài chưa biết ngày trả nên đặt xe thế nào (BLG-02849) và điều khoản chấm dứt trước hạn (BLG-03595) ở chỗ trả lời quy định mặc định khi hợp đồng bỏ trống thời hạn.",
+      "kw": "hợp đồng thuê xe không ghi thời hạn",
+      "kw2": [
+        "Điều 474 Bộ luật Dân sự",
+        "thời hạn thuê tài sản",
+        "chấm dứt hợp đồng thuê báo trước",
+        "thuê xe chưa chốt ngày trả"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-thu-tuc/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-30-R30A",
+      "audience": "Người thuê xe máy có hợp đồng hoặc giấy thuê không ghi ngày trả",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30A-007",
+      "child_id": "C-THUE-THU-TUC",
+      "title": "Xe được giao tận nơi nhưng hợp đồng không ghi nơi trả: theo Bộ luật Dân sự phải mang xe về tiệm hay tiệm đến lấy",
+      "intent": "Người dùng hỏi: «Lúc thuê, xe được mang đến khách sạn cho mình, nhưng hợp đồng không ghi trả ở đâu; đến ngày trả mình phải tự mang xe về tiệm hay tiệm phải đến lấy?». Bài giải thích Điều 482 khoản 2 Bộ luật Dân sự 2015 (tài sản thuê là động sản thì nơi trả lại là nơi cư trú hoặc trụ sở của bên cho thuê, trừ khi có thỏa thuận khác), phân biệt nơi giao xe lúc nhận với nơi trả, cách chốt bằng tin nhắn địa điểm, giờ trả và người nhận nếu muốn trả ở nơi khác, chi phí đi lại hay giao nhận phát sinh phải xác nhận trước; với cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề thì mặc định trả tại tiệm trong giờ 09:00–21:00 trừ khi hai bên thỏa thuận khác. Không nêu phí giao nhận. Người đọc là người thuê xe được giao tận nơi hoặc nhận xe ở điểm hẹn, khác bài đổi địa điểm trả xe giữa kỳ (BLG-00224) và nhận xe ở hai địa điểm (BLG-01607) ở chỗ trả lời quy định mặc định khi hợp đồng bỏ trống nơi trả.",
+      "kw": "hợp đồng không ghi nơi trả xe",
+      "kw2": [
+        "Điều 482 Bộ luật Dân sự",
+        "nơi trả lại tài sản thuê",
+        "giao xe tận nơi thì trả ở đâu",
+        "trả xe thuê tại tiệm"
+      ],
+      "links": [
+        "/thue-xe/thu-tuc/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-30-R30A",
+      "audience": "Người thuê xe máy được giao xe tận khách sạn, nhà riêng hoặc điểm hẹn",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30A-008",
+      "child_id": "C-THUE-THU-TUC",
+      "title": "Tiệm giao xe thuê trễ nhiều giờ so với lịch đã chốt: Bộ luật Dân sự cho người thuê chờ thêm hay hủy và đòi bồi thường",
+      "intent": "Người dùng hỏi: «Đã chốt nhận xe 9 giờ sáng để kịp đi tỉnh, gần trưa vẫn chưa có xe; mình có quyền hủy và đòi tiền thiệt hại không?». Bài giải thích Điều 476 Bộ luật Dân sự 2015 (bên cho thuê phải giao xe đúng thời điểm, địa điểm, tình trạng đã thỏa thuận; chậm giao thì bên thuê có thể gia hạn giao hoặc hủy bỏ hợp đồng và yêu cầu bồi thường thiệt hại), Điều 427 về hậu quả hủy bỏ (hoàn trả cho nhau những gì đã nhận, kể cả khoản đã chuyển giữ chỗ), thiệt hại nào chứng minh được (vé, phòng đã đặt) và bằng chứng cần giữ (tin nhắn chốt giờ, cuộc gọi), cách nhắn gia hạn có mốc giờ cụ thể trước khi quyết định hủy. Không nêu mức bồi thường cố định, không khẳng định chính sách riêng của cửa hàng. Người đọc là người đã đặt xe có giờ nhận cụ thể, khác bài tiệm chủ động báo dời lịch giao xe (BLG-04098) và tiệm nhận cọc rồi báo hết xe (BLG-06164) ở chỗ trả lời quyền của người thuê khi xe đến muộn so với giờ đã chốt.",
+      "kw": "tiệm giao xe thuê trễ hẹn",
+      "kw2": [
+        "Điều 476 Bộ luật Dân sự",
+        "chậm giao tài sản thuê",
+        "hủy hợp đồng thuê xe đòi bồi thường",
+        "giao xe muộn so với giờ chốt"
+      ],
+      "links": [
+        "/thue-xe/thu-tuc/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-30-R30A",
+      "audience": "Người đã đặt thuê xe máy có giờ nhận cụ thể nhưng xe được giao muộn",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30A-009",
+      "child_id": "C-THUE-THANG",
+      "title": "Tự bỏ tiền thay lốp tốt hơn, lắp baga hay khóa chống trộm cho xe thuê tháng: khi trả xe có được tiệm thanh toán lại",
+      "intent": "Người dùng hỏi: «Thuê xe tháng, mình muốn tự thay lốp bám đường hơn, gắn baga chở hàng hay khóa chống trộm loại tốt; lúc trả xe tiệm có trả lại tiền hay mình phải tháo ra?». Bài giải thích Điều 479 Bộ luật Dân sự 2015 (bên thuê phải bảo quản, bảo dưỡng và sửa chữa nhỏ; có thể tu sửa và làm tăng giá trị tài sản thuê nếu được bên cho thuê đồng ý và có quyền yêu cầu thanh toán chi phí hợp lý), phân biệt sửa chữa nhỏ người thuê tự chịu với nâng cấp làm tăng giá trị, cách xin đồng ý trước bằng tin nhắn ghi rõ món, chi phí, ai giữ món đó khi trả xe và có tháo ra không, giữ hóa đơn; lưu ý món lắp thêm không được làm thay đổi thiết kế của xe. Không khẳng định cửa hàng sẽ hoàn tiền. Người đọc là người thuê xe theo tháng ở Hà Nội, khác bài chi phí bảo dưỡng ai chịu (BLG-02037) và lắp giá đỡ điện thoại loại kẹp không khoan (BLG-03061) ở chỗ trả lời chuyện thanh toán lại khoản nâng cấp người thuê tự bỏ tiền.",
+      "kw": "lắp thêm đồ cho xe thuê tháng",
+      "kw2": [
+        "Điều 479 Bộ luật Dân sự",
+        "làm tăng giá trị tài sản thuê",
+        "tự thay lốp xe thuê tháng",
+        "lắp baga cho xe thuê"
+      ],
+      "links": [
+        "/thue-xe/thue-thang/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-30-R30A",
+      "audience": "Người thuê xe máy theo tháng muốn tự nâng cấp lốp, baga, khóa cho xe",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30A-010",
+      "child_id": "C-HD-THU-TUC",
+      "title": "Hợp đồng chỉ ghi thuê một tuần hay một tháng, không ghi giờ trả: Bộ luật Dân sự tính ngày cuối và giờ kết thúc thế nào",
+      "intent": "Người dùng hỏi: «Giấy thuê ghi “thuê 1 tuần từ ngày 10/11”, không ghi giờ trả; vậy hạn chót là ngày nào, mấy giờ, và nếu rơi vào Chủ nhật hay ngày lễ thì sao?». Bài giải thích cách tính thời hạn của Bộ luật Dân sự 2015 chỉ áp dụng khi các bên không thỏa thuận khác (Điều 145): ngày đầu không tính (Điều 147 khoản 2), thời hạn tuần, tháng kết thúc ở ngày tương ứng (Điều 148 khoản 2, 3, kể cả tháng không có ngày tương ứng như tháng Hai), kết thúc lúc 24 giờ ngày cuối (khoản 6), ngày cuối là ngày nghỉ cuối tuần hoặc nghỉ lễ thì kết thúc ở ngày làm việc tiếp theo (khoản 5); vì sao trên thực tế vẫn nên chốt ngày giờ trả cụ thể trong giờ mở cửa 09:00–21:00 thay vì dựa vào quy định mặc định. Không nêu tiền phạt. Người đọc là người thuê xe theo tuần, tháng đang đọc hợp đồng, khác bài đếm gói tuần theo giờ nhận xe (BLG-03573), một tháng tính 30 ngày hay đến cùng ngày (BLG-02842) và ngày trả trùng hôm tiệm nghỉ lễ (BLG-04079) ở chỗ nêu quy định chung của Bộ luật Dân sự khi hợp đồng bỏ trống ngày giờ kết thúc.",
+      "kw": "cách tính thời hạn thuê xe theo luật",
+      "kw2": [
+        "Điều 147 Điều 148 Bộ luật Dân sự",
+        "hạn trả xe rơi vào ngày lễ",
+        "thuê xe không ghi giờ trả",
+        "thời hạn kết thúc lúc 24 giờ"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-thu-tuc/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-30-R30A",
+      "audience": "Người thuê xe máy theo tuần, theo tháng có hợp đồng không ghi ngày giờ trả cụ thể",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-001",
+      "child_id": "C-GPLX",
+      "title": "Hồ sơ gốc bằng lái xe máy theo Thông tư 108/2026: biên bản kết quả sát hạch là gì, ai giữ và mất thì sao",
+      "intent": "Người dùng hỏi: «Nghe nói phải giữ hồ sơ gốc bằng lái, vậy với bằng A1 thi theo quy định mới thì hồ sơ gốc gồm giấy gì, ai giữ, lỡ mất có ảnh hưởng gì khi đổi bằng không?». Bài giải thích khoản 3 Điều 10 Thông tư 108/2026/TT-BCA (biên bản tổng hợp kết quả sát hạch lái xe của thí sinh đạt là hồ sơ gốc, giao người đạt tự bảo quản khi trả giấy phép lái xe; Phòng Cảnh sát giao thông tích hợp biên bản vào hệ thống thông tin về sát hạch, cấp giấy phép lái xe), Điều 17 (Phòng Cảnh sát giao thông lưu trữ, số hóa hồ sơ kỳ sát hạch), khoản 5 Điều 21 (hồ sơ đổi giấy phép lái xe là hồ sơ gốc do người lái xe tự bảo quản) và điểm b khoản 3 Điều 21 (cơ quan tra cứu hệ thống khi đổi), để người đọc biết giữ bản nào, dữ liệu nào đã nằm trên hệ thống; không suy đoán thủ tục chưa có trong văn bản, không nêu lệ phí hay số tiền phạt. Người đọc là người vừa thi đỗ hoặc sắp đổi bằng A1 ở Hà Nội; khác BLG-04354 (khi nào được tự đi xe sau khi đỗ) và BLG-04383 (bằng không có trên hệ thống) ở chỗ chỉ trả lời hồ sơ gốc là gì và cách giữ.",
+      "kw": "hồ sơ gốc bằng lái xe máy",
+      "kw2": [
+        "biên bản tổng hợp kết quả sát hạch",
+        "mất hồ sơ gốc bằng lái A1",
+        "hồ sơ gốc khi đổi bằng lái",
+        "Thông tư 108/2026 hồ sơ gốc"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Người vừa thi đỗ hoặc sắp đổi giấy phép lái xe hạng A1 ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-002",
+      "child_id": "C-GPLX",
+      "title": "Đang có lỗi giao thông chưa xử lý xong có được dự sát hạch bằng A1 không: quy định của Thông tư 108/2026 và Luật 36",
+      "intent": "Người dùng hỏi: «Tôi từng bị lập biên bản vì đi xe máy khi chưa có bằng nhưng chưa đến giải quyết, giờ đăng ký thi A1 có bị chặn không?». Bài giải thích khoản 3 Điều 19 Thông tư 108/2026/TT-BCA (chưa sát hạch cấp giấy phép lái xe đối với người vi phạm chưa thực hiện xong yêu cầu của cơ quan có thẩm quyền về giải quyết vụ việc vi phạm hành chính về trật tự, an toàn giao thông đường bộ) và khoản 4 Điều 62 Luật 36/2024/QH15 (chưa cấp, đổi, cấp lại), cách tự tra cứu vi phạm và hoàn tất quyết định xử phạt trước khi nộp hồ sơ đề nghị sát hạch theo khoản 1 Điều 9 và Điều 16 Thông tư 108, để không lỡ kỳ thi; không nêu số tiền phạt. Người đọc là người học bằng A1 ở Hà Nội từng bị xử lý khi chưa có bằng; khác BLG-04380 (đổi, cấp lại bằng đã có) ở chỗ áp dụng cho lần sát hạch để được cấp giấy phép lần đầu.",
+      "kw": "chưa xử lý vi phạm có được thi bằng a1",
+      "kw2": [
+        "đi xe không bằng lái rồi mới thi A1",
+        "tra cứu vi phạm trước khi thi bằng",
+        "khoản 3 Điều 19 Thông tư 108",
+        "điều kiện dự sát hạch A1"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Người học bằng A1 ở Hà Nội từng bị lập biên bản khi chưa có giấy phép lái xe",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-003",
+      "child_id": "C-GPLX",
+      "title": "Thiết bị chấm điểm hoặc xe sát hạch trục trặc giữa bài thi bằng A1: kết quả bị hủy và được thi lại ra sao",
+      "intent": "Người dùng hỏi: «Đang chạy bài sa hình A1 thì thiết bị báo lỗi, xe sát hạch chết máy giữa vòng số 8, vậy tôi bị tính trượt hay được thi lại?». Bài giải thích khoản 4 Điều 12 Thông tư 108/2026/TT-BCA (thiết bị chấm điểm tự động bị lỗi hoặc nguyên nhân khác không do lỗi thí sinh làm sai lệch kết quả thì hủy kết quả và được sát hạch lại; phân biệt với mang điện thoại, gian dối bị đình chỉ, hủy kết quả), điểm a khoản 2 Điều 4 (hạng A1 chấm điểm trực tiếp kết hợp thiết bị chấm điểm tự động), Điều 11 (Tổ giám sát lập biên bản khi phát hiện vi phạm quy trình) và khoản 4 Điều 61 Luật 36/2024/QH15 (trung tâm sát hạch chia sẻ ngay kết quả, dữ liệu giám sát quá trình sát hạch), cách báo ngay sát hạch viên và đề nghị ghi nhận sự cố; không nêu lệ phí, số tiền phạt. Người đọc là thí sinh A1 ở Hà Nội; khác BLG-05263 (không đồng ý kết quả, khiếu nại) và BLG-05264 (gian lận) ở chỗ xử lý sự cố kỹ thuật không do lỗi thí sinh.",
+      "kw": "thiết bị chấm điểm thi a1 bị lỗi",
+      "kw2": [
+        "xe sát hạch hỏng giữa bài thi",
+        "hủy kết quả sát hạch được thi lại",
+        "khoản 4 Điều 12 Thông tư 108",
+        "sự cố khi thi sa hình A1"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Thí sinh sát hạch giấy phép lái xe hạng A1 ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-004",
+      "child_id": "C-GPLX",
+      "title": "Thi bằng B1 để lái xe mô tô ba bánh theo Thông tư 108/2026: lý thuyết thêm phần nào, bài tiến chữ chi và lùi ngược lại",
+      "intent": "Người dùng hỏi: «Muốn lái xe ba bánh chở hàng thì phải có bằng B1, vậy kỳ thi B1 gồm những gì và khác thi A1 ở đâu?». Bài giải thích điểm c khoản 1 Điều 57 và điểm b khoản 1 Điều 59 Luật 36/2024/QH15 (hạng B1 cho xe mô tô ba bánh và các xe của hạng A1, đủ 18 tuổi), điểm a khoản 1 Điều 4 Thông tư 108/2026/TT-BCA (lý thuyết hạng B1 có thêm nội dung cấu tạo và sửa chữa thông thường, kỹ năng phòng cháy, chữa cháy và cứu nạn, cứu hộ), điểm b khoản 2 Điều 4 (sát hạch trong hình: tiến qua hình chữ chi và lùi theo hướng ngược lại, chấm điểm trực tiếp, không bố trí sát hạch viên ngồi trên xe), khoản 1 Điều 12 (công nhận kết quả, bảo lưu lý thuyết 01 năm), Điều 15, 16 (điều kiện, hồ sơ) và Phụ lục II; không nêu lệ phí, số tiền phạt. Người đọc là người ở Hà Nội cần lái xe ba bánh chở hàng; khác BLG-04360 (xe ba bánh cần hạng nào) và BLG-04357 (người khuyết tật được cấp hạng nào) ở chỗ mô tả nội dung kỳ sát hạch B1.",
+      "kw": "thi bằng b1 xe ba bánh",
+      "kw2": [
+        "sát hạch hạng B1 Thông tư 108",
+        "bài thi chữ chi bằng B1",
+        "lý thuyết bằng B1 có gì",
+        "bằng lái xe ba bánh chở hàng"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Người ở Hà Nội cần lái xe mô tô ba bánh chở hàng, chưa có bằng B1",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-005",
+      "child_id": "C-GPLX",
+      "title": "Trượt hoặc vắng một phần thi bằng A1 trong năm 2026: thi lại theo cách cũ đến hết tháng 2/2027 hay theo Thông tư 108",
+      "intent": "Người dùng hỏi: «Tôi trượt bài sa hình A1 tháng 10/2026, nếu tháng 3/2027 mới thi lại thì thi theo cách cũ hay phải làm theo nội dung mới?». Bài giải thích khoản 2 Điều 42 Thông tư 108/2026/TT-BCA (thí sinh sát hạch theo Thông tư 12/2025/TT-BCA mà vắng hoặc không đạt 01 nội dung trở lên thì sát hạch lại nội dung chưa đạt theo Thông tư 12/2025; từ ngày 01/3/2027 sát hạch lại theo Thông tư 108), khoản 2 và khoản 6 Điều 41 (nội dung sát hạch mới áp dụng từ 01/3/2027, các phần của Thông tư 12/2025 còn hiệu lực đến hết 28/02/2027, bài sát hạch số 2 từ 01/01/2028), điểm c khoản 1 Điều 12 (bảo lưu lý thuyết 01 năm) và khoản 5 Điều 12 cùng khoản 1 Điều 9 (đăng ký sát hạch lại, nộp hồ sơ trực tuyến) để thí sinh tự tính lịch thi lại; không nêu lệ phí. Người đọc là thí sinh A1 ở Hà Nội đang dở dang kỳ sát hạch; khác BLG-04355 (bảo lưu, thi lại theo Thông tư 12/2025) và BLG-06188 (đề lý thuyết 40 câu) ở chỗ trả lời quy định chuyển tiếp giữa hai thông tư.",
+      "kw": "thi lại bằng a1 năm 2027",
+      "kw2": [
+        "quy định chuyển tiếp Thông tư 108",
+        "trượt A1 thi lại theo đề nào",
+        "mốc 01/3/2027 thi bằng lái",
+        "Điều 42 Thông tư 108/2026"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Thí sinh A1 ở Hà Nội đã trượt hoặc vắng một nội dung sát hạch trong năm 2026",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-006",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Xe máy bị tạm giữ quá hạn mà không đến nhận: hai lần thông báo rồi bị tịch thu theo Luật Xử lý vi phạm hành chính",
+      "intent": "Người dùng hỏi: «Xe máy cũ của tôi bị tạm giữ mấy tháng nay chưa lấy, để lâu có bị tịch thu không và mốc nào thì mất hẳn?». Bài giải thích khoản 8 Điều 125 (thời hạn tạm giữ) và khoản 4 Điều 126 Luật Xử lý vi phạm hành chính (bản hợp nhất sửa đổi bởi Luật 67/2020/QH14, Luật 88/2025/QH15): xác định được chủ thì thông báo 02 lần (lần đầu trong 03 ngày làm việc sau khi hết hạn tạm giữ, lần hai trong 07 ngày làm việc), hết 01 tháng kể từ lần thông báo thứ hai không đến nhận mà không có lý do chính đáng thì ra quyết định tịch thu; không xác định được chủ thì thông báo trên phương tiện thông tin đại chúng và chờ 01 năm; khoản 7 Điều 126 về chi phí lưu kho, bến bãi; giấy tờ nên mang khi đến nhận; không nêu số tiền phạt, mức phí. Người đọc là người ở Hà Nội có xe máy đang bị tạm giữ; khác BLG-06122 (thời hạn tạm giữ, nhận lại sau khi nộp phạt) và BLG-06145 (lỗi bị tịch thu xe) ở chỗ nói hậu quả khi bỏ không đến nhận xe.",
+      "kw": "xe máy bị tạm giữ không đến nhận",
+      "kw2": [
+        "xe bị giữ lâu có bị tịch thu không",
+        "thông báo nhận lại phương tiện tạm giữ",
+        "Điều 126 Luật Xử lý vi phạm hành chính",
+        "quá hạn nhận xe bị tạm giữ"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Người ở Hà Nội có xe máy đang bị tạm giữ theo thủ tục hành chính",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-007",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Đặt tiền bảo lãnh để tự giữ xe máy bị tạm giữ thay vì để ở bãi: khi nào được và trường hợp nào không áp dụng",
+      "intent": "Người dùng hỏi: «Xe máy là phương tiện đi làm duy nhất, bị tạm giữ thì có được đặt tiền bảo lãnh để mang xe về nhà giữ không?». Bài giải thích khoản 10 Điều 125 Luật Xử lý vi phạm hành chính (chỉ với phương tiện bị tạm giữ để bảo đảm thi hành quyết định xử phạt; người vi phạm có địa chỉ rõ ràng, có điều kiện bến bãi, bảo quản hoặc khả năng đặt tiền bảo lãnh thì có thể được giữ phương tiện dưới sự quản lý của cơ quan nhà nước có thẩm quyền), khoản 6 Điều 125 (khi chỉ phạt tiền thì tạm giữ giấy tờ theo thứ tự trước khi giữ xe), khoản 11 Điều 125 (Chính phủ quy định chi tiết) và các trường hợp không áp dụng như tạm giữ để ngăn chặn hành vi vi phạm; cách đề nghị bằng văn bản; không nêu số tiền bảo lãnh hay số tiền phạt. Người đọc là người đi xe máy ở Hà Nội vừa bị lập biên bản tạm giữ xe; khác BLG-06122 (thời hạn tạm giữ, nhận lại xe) và BLG-04596 (giấy tờ nhận lại xe thuê) ở chỗ trả lời khả năng tự giữ xe trong thời gian tạm giữ.",
+      "kw": "bảo lãnh xe máy bị tạm giữ",
+      "kw2": [
+        "đặt tiền bảo lãnh lấy xe về",
+        "tự giữ phương tiện vi phạm",
+        "khoản 10 Điều 125 Luật Xử lý vi phạm hành chính",
+        "tạm giữ xe để bảo đảm thi hành"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Người đi xe máy ở Hà Nội vừa bị lập biên bản tạm giữ phương tiện",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-008",
+      "child_id": "C-HD-PHAP-LY",
+      "title": "Đánh lái tránh người lao ra đường rồi va vào xe đang đỗ: tình thế cấp thiết và ai bồi thường theo Bộ luật Dân sự",
+      "intent": "Người dùng hỏi: «Một người bất ngờ lao ra trước đầu xe, tôi bẻ lái tránh và quệt vào xe máy đang đỗ bên đường, vậy tôi có phải đền cho chủ xe đó không?». Bài giải thích khoản 1, 3 Điều 171 Bộ luật Dân sự 2015 (tình thế cấp thiết; gây thiệt hại trong tình thế cấp thiết không phải hành vi xâm phạm quyền sở hữu), Điều 595 (phải bồi thường phần vượt quá yêu cầu của tình thế cấp thiết; người gây ra tình thế cấp thiết phải bồi thường), khoản 2 Điều 584 (thiệt hại hoàn toàn do lỗi bên bị thiệt hại) và khoản 3 Điều 12 Luật 36/2024/QH15 (phải quan sát, giảm tốc nơi có người đi bộ) để chỉ ra khi nào không còn là tình thế cấp thiết như chạy quá nhanh, không quan sát; cách ghi nhận hiện trường, người làm chứng; không nêu số tiền bồi thường. Người đọc là người đi xe máy, xe thuê ở Hà Nội; khác BLG-04845 (nguồn nguy hiểm cao độ) và BLG-04529 (tình thế cấp thiết khi giải trình phạt nguội) ở chỗ xét trách nhiệm dân sự với người thứ ba bị thiệt hại.",
+      "kw": "tình thế cấp thiết khi lái xe máy",
+      "kw2": [
+        "bẻ lái tránh người va vào xe khác",
+        "Điều 595 Bộ luật Dân sự",
+        "người gây ra tình thế cấp thiết bồi thường",
+        "tránh tai nạn gây thiệt hại"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-phap-ly/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Người đi xe máy, xe thuê ở Hà Nội vừa gây thiệt hại khi tránh nguy hiểm",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-009",
+      "child_id": "C-HD-PHAP-LY",
+      "title": "Ngã xe máy vì hố đào thi công, ổ gà không rào chắn ở Hà Nội: đòi đơn vị thi công hay cơ quan quản lý đường bồi thường",
+      "intent": "Người dùng hỏi: «Tối đi qua đoạn đào đường không biển, không đèn cảnh báo, tôi sụp hố ngã gãy tay, hỏng xe, ai phải đền?». Bài giải thích khoản 1 Điều 584 và Điều 605 Bộ luật Dân sự 2015 (chủ sở hữu, người được giao quản lý công trình bồi thường; người thi công có lỗi phải liên đới), Điều 585 (nguyên tắc bồi thường toàn bộ, kịp thời), Điều 590 (thiệt hại do sức khỏe bị xâm phạm), khoản 2 Điều 76 và điểm b khoản 2 Điều 79 Luật 36/2024/QH15 (phải cảnh báo ngay tình huống mất an toàn; cơ quan quản lý đường chịu trách nhiệm nếu không khắc phục yếu tố mất an toàn), cách xác định đơn vị thi công qua biển công trình, giữ ảnh, hóa đơn viện phí, gửi yêu cầu bồi thường và khi nào khởi kiện; không nêu số tiền bồi thường. Người đọc là người đi xe máy ở Hà Nội bị ngã vì hố công trình, ổ gà; khác BLG-03734 (ghi nhận hiện trường, phản ánh cơ quan quản lý) và BLG-05233 (cây đổ trúng người) ở chỗ trả lời ai chịu trách nhiệm bồi thường và căn cứ nào.",
+      "kw": "ngã xe vì hố thi công đòi bồi thường",
+      "kw2": [
+        "hố đào không rào chắn gây tai nạn",
+        "Điều 605 Bộ luật Dân sự",
+        "đơn vị thi công liên đới bồi thường",
+        "ổ gà gây ngã xe ai đền"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-phap-ly/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Người đi xe máy ở Hà Nội bị ngã, hỏng xe vì hố công trình hoặc ổ gà",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-010",
+      "child_id": "C-HD-PHAP-LY",
+      "title": "Va chạm xe máy có người bị thương nhẹ ở Hà Nội: CSGT giải quyết trong bao lâu và buổi mời lên thông báo kết quả",
+      "intent": "Người dùng hỏi: «Sau va chạm xe máy, CSGT giữ giấy tờ và hẹn lên đội làm việc, vậy bao lâu có kết quả, lên đó họ làm gì và nếu hai bên không thỏa thuận được tiền đền thì sao?». Bài giải thích Điều 17 Thông tư 72/2024/TT-BCA (vụ không có dấu hiệu tội phạm: điều tra, xác minh, giải quyết không quá 07 ngày làm việc, kéo dài không quá 01 tháng, tối đa 02 tháng kể từ khi nhận tin báo), khoản 1 Điều 18 (mời các bên đến trụ sở thông báo kết luận nguyên nhân, lỗi, lập Biên bản giải quyết vụ tai nạn; vắng mặt có lý do chính đáng thì hẹn lại), khoản 3 Điều 18 (hướng dẫn tự thỏa thuận bồi thường, không thỏa thuận được thì lập biên bản và hướng dẫn liên hệ Tòa án), khoản 4 Điều 10 (trả ngay phương tiện khi xác định không có lỗi) và khoản 3 Điều 83 Luật 36/2024/QH15; không nêu số tiền phạt, tiền bồi thường. Người đọc là người đi xe máy ở Hà Nội vừa liên quan va chạm có người bị thương nhẹ; khác BLG-06149 (va chạm chỉ hư hỏng nhẹ, thỏa thuận tại chỗ) và BLG-04843 (không có lỗi có bị giữ xe) ở chỗ mô tả thời hạn và buổi làm việc kết thúc vụ việc.",
+      "kw": "thời hạn giải quyết vụ tai nạn giao thông",
+      "kw2": [
+        "biên bản giải quyết vụ tai nạn giao thông",
+        "mời lên làm việc sau va chạm xe máy",
+        "Thông tư 72/2024/TT-BCA",
+        "không thỏa thuận được bồi thường tai nạn"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-phap-ly/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Người đi xe máy ở Hà Nội liên quan vụ va chạm có người bị thương nhẹ",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-011",
+      "child_id": "C-HD-PHAP-LY",
+      "title": "Công an xã, phường ở Hà Nội tự dừng xe máy khi không có CSGT đi cùng: được kiểm tra trên đường nào và xử lý những lỗi gì",
+      "intent": "Người dùng hỏi: «Đi qua đường làng ở ngoại thành Hà Nội bị công an xã dừng xe, không thấy CSGT, họ có được kiểm tra và lập biên bản không?». Bài giải thích điểm c khoản 2 Điều 30 Thông tư 73/2024/TT-BCA (sửa đổi bởi khoản 4 Điều 11 Thông tư 13/2025/TT-BCA, hiệu lực 01/3/2025; đối chiếu bản hợp nhất hiện hành trước khi viết): khi không có CSGT đi cùng, Công an cấp xã chỉ kiểm tra, xử lý trên tuyến đường thuộc địa bàn theo kế hoạch được duyệt; danh mục hành vi của người đi xe mô tô, xe gắn máy được xử lý (không đội mũ bảo hiểm, chở quá số người, chở hàng cồng kềnh, dừng đỗ sai, lạng lách, đi một bánh, thiếu gương trái, sử dụng ô, kéo đẩy xe khác, chưa đủ tuổi); vượt thẩm quyền thì lập biên bản chuyển cấp có thẩm quyền; Điều 13 (hiệu lệnh dừng) và điểm b khoản 3 Điều 65 Luật 36/2024/QH15; không nêu số tiền phạt. Người đọc là người đi xe máy ở các xã, phường Hà Nội; khác BLG-05769 (khách quốc tế nhận diện lực lượng) và BLG-05991 (dân phòng ra hiệu) ở chỗ nói phạm vi tuyến đường và danh mục lỗi của Công an cấp xã.",
+      "kw": "công an xã được xử lý lỗi gì",
+      "kw2": [
+        "công an phường dừng xe máy",
+        "Thông tư 73/2024 Điều 30",
+        "công an xã kiểm tra đường làng",
+        "công an cấp xã tuần tra giao thông"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-phap-ly/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Người đi xe máy ở các xã, phường ngoại thành Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-012",
+      "child_id": "C-HD-PHAP-LY",
+      "title": "Rạp đám cưới, đám tang dựng chắn kín ngõ khiến xe máy không qua được: gia chủ cần được phép gì theo Điều 77 Luật 36",
+      "intent": "Người dùng hỏi: «Nhà trong ngõ dựng rạp cưới chắn hết lối, xe máy phải quay ra đi vòng, như vậy có đúng luật không và tôi phản ánh ở đâu?». Bài giải thích khoản 1, 2 Điều 77 Luật 36/2024/QH15 (lòng đường dùng cho giao thông, vỉa hè cho người đi bộ; sử dụng tạm thời phải có phương án, được cơ quan có thẩm quyền cho phép, dùng đúng mục đích, không làm mất an toàn và hoàn trả nguyên trạng), điểm c khoản 3 Điều 77 (Cảnh sát giao thông tạm đình chỉ khi không bảo đảm an toàn), khoản 21 Điều 9 (cấm cản trở người, phương tiện tham gia giao thông), điểm đ khoản 1 Điều 72 (quyền phản ánh), cách nói chuyện với gia chủ, báo tổ dân phố, công an phường; không khẳng định thủ tục xin phép cụ thể của Hà Nội khi chưa đối chiếu văn bản, không nêu số tiền phạt. Người đọc là người đi xe máy sống trong ngõ ở Hà Nội; khác BLG-04274 (khách quốc tế dắt xe qua rạp hay đi vòng) ở chỗ nói điều kiện sử dụng tạm thời lòng đường và quyền phản ánh.",
+      "kw": "dựng rạp chiếm lòng đường ngõ",
+      "kw2": [
+        "rạp đám cưới chắn ngõ",
+        "sử dụng tạm thời lòng đường",
+        "Điều 77 Luật 36/2024",
+        "phản ánh rạp chắn đường"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-phap-ly/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Người đi xe máy sống trong ngõ, phố nhỏ ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-013",
+      "child_id": "C-QUY-DINH",
+      "title": "CSGT đang đi xe tuần tra ra hiệu dừng xe máy từ phía trước hoặc phía sau: nhận biết hiệu lệnh và tấp vào đâu cho đúng",
+      "intent": "Người dùng hỏi: «Đang chạy thì xe CSGT phía sau bật loa, nháy đèn, hoặc người ngồi trên mô tô tuần tra phía trước giơ gậy sang ngang, đó có phải hiệu lệnh dừng xe với mình không và phải dừng ở đâu?». Bài giải thích Điều 13 Thông tư 73/2024/TT-BCA (tín hiệu gậy chỉ huy, còi, loa, tín hiệu ưu tiên, biển báo, cọc tiêu, rào chắn; điểm a, b khoản 3 khi xe tuần tra đi trước hoặc đi sau; khoản 2 tại điểm kiểm soát cố định), khoản 2, 3 Điều 12 (dừng xe phải an toàn; khu vực thực thi công vụ có cọc tiêu hình chóp nón hoặc dây căng sát lề), điểm b khoản 2 Điều 72 Luật 36/2024/QH15 (nghĩa vụ chấp hành hiệu lệnh dừng), cách giảm tốc, bật xi nhan và tấp sát lề phải an toàn; không nêu số tiền phạt. Người đọc là người đi xe máy ở Hà Nội; khác BLG-04532 (hậu quả khi không dừng xe), BLG-04625 (hiệu lệnh tay ở ngã tư) và BLG-06005 (căn cứ được dừng xe) ở chỗ mô tả cách nhận ra hiệu lệnh dừng từ xe tuần tra cơ động.",
+      "kw": "hiệu lệnh dừng xe của csgt tuần tra",
+      "kw2": [
+        "csgt dùng loa yêu cầu dừng xe",
+        "gậy chỉ huy giao thông dừng xe",
+        "Điều 13 Thông tư 73/2024",
+        "tấp xe vào lề khi bị dừng"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Người đi xe máy, người thuê xe ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-014",
+      "child_id": "C-QUY-DINH",
+      "title": "Ngã tư không có biển ưu tiên ở ngoại thành Hà Nội: nhận ra đường ưu tiên theo thứ tự quốc lộ, đường đô thị, xã, thôn",
+      "intent": "Người dùng hỏi: «Đường liên xã cắt đường thôn, chẳng có biển nào, vậy đường nào là đường ưu tiên để biết mình phải nhường?». Bài giải thích Điều 5 QCVN 41:2024/BGTVT (mục 5.1 thứ tự đường ưu tiên: đường cao tốc, quốc lộ, đường đô thị, đường tỉnh, đường huyện, đường xã, đường thôn, đường chuyên dùng; mục 5.2 khi hai đường cùng thứ tự: theo quy định của cấp có thẩm quyền, cấp kỹ thuật, lưu lượng xe, xe vận tải công cộng, cấp mặt đường; mục 5.3 không được quy định cả hai đường cùng là đường ưu tiên), khoản 1, 2 Điều 22 Luật 36/2024/QH15 (xe từ đường không ưu tiên, đường nhánh nhường; nơi không có báo hiệu vòng xuyến nhường xe đến từ bên phải) và cách nhận ra cấp đường qua biển tên đường, cột km; không nêu số tiền phạt. Người đọc là người đi xe máy về ngoại thành Hà Nội; khác BLG-01696 (đi đúng làn ở nút giao đường ưu tiên) và BLG-04635 (từ ngõ ra đường chính) ở chỗ cách xác định đường nào được ưu tiên khi không có biển.",
+      "kw": "thứ tự đường ưu tiên",
+      "kw2": [
+        "đường nào là đường ưu tiên",
+        "QCVN 41 Điều 5 đường ưu tiên",
+        "ngã tư không biển nhường ai",
+        "đường xã giao đường thôn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Người đi xe máy về các xã ngoại thành Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-015",
+      "child_id": "C-BIEN-BAO",
+      "title": "Vạch trắng sát mép đường quốc lộ ra khỏi Hà Nội: xe máy có được chạy ra lề gia cố phía ngoài vạch 3.1 không",
+      "intent": "Người dùng hỏi: «Trên quốc lộ có vạch trắng chạy sát mép, phía ngoài còn một dải nhựa rộng, xe máy chạy ra ngoài vạch cho an toàn có sai không?». Bài giải thích vạch 3.1 tại mục G1.3 Phụ lục G QCVN 41:2024/BGTVT (vạch giới hạn mép ngoài phần đường xe chạy hoặc phân cách làn xe cơ giới với làn xe thô sơ; xe được đè lên vạch khi cần thiết và phải nhường xe thô sơ; phần lề gia cố có kết cấu tương đương mặt đường được coi là phần xe chạy; vạch 3.1a liền nét, 3.1b đứt nét), khoản 1 Điều 10 và khoản 1, 3 Điều 13 Luật 36/2024/QH15 (xe chậm đi về bên phải; nơi có làn thô sơ thì xe thô sơ đi làn phải trong cùng) và khi nào phần lề bên ngoài không dùng để chạy xe; không nêu số tiền phạt. Người đọc là người đi xe máy theo quốc lộ ra ngoại thành Hà Nội; khác BLG-05997 (khái niệm lề đường, hè phố) và BLG-04580 (vạch trắng liền giữa các làn) ở chỗ giải thích riêng vạch mép đường và phần lề gia cố.",
+      "kw": "vạch giới hạn mép phần đường xe chạy",
+      "kw2": [
+        "vạch 3.1 QCVN 41",
+        "xe máy chạy trên lề gia cố",
+        "vạch trắng sát mép quốc lộ",
+        "làn xe thô sơ vạch mép đường"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Người đi xe máy theo quốc lộ từ Hà Nội ra các tỉnh lân cận",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-016",
+      "child_id": "C-BIEN-BAO",
+      "title": "Biển gộp làn theo phương tiện R.415 vẽ ô tô, xe máy trên từng làn: xe máy được đi làn nào và khi nào được cắt sang để rẽ",
+      "intent": "Người dùng hỏi: «Biển xanh hình chữ nhật treo trên đường vẽ mỗi làn một hình ô tô, xe máy, có làn vẽ cả hai, vậy xe máy đi làn nào và có được cắt sang để rẽ vào ngõ không?». Bài giải thích biển R.415a, R.415b tại Điều 32 và mục D.16 Phụ lục D QCVN 41:2024/BGTVT (biểu thị số làn và loại xe được lưu thông trên từng làn; không áp dụng với xe chuyển làn để ra vào hoặc dừng, đỗ bên đường; chuyển làn căn cứ vạch sơn thực tế; chỉ dùng cho đoạn có 2 đến 4 làn cơ giới mỗi hướng; gần nút giao được chuyển làn theo hành trình), mục 34.2 Điều 34 (không cấm rẽ vào cổng nhà, ngõ trên đoạn có hiệu lực) và khoản 2, 4 Điều 13 Luật 36/2024/QH15; không nêu số tiền phạt. Người đọc là người đi xe máy trên các trục nhiều làn ở Hà Nội; khác BLG-04545 (biển R.412 làn dành riêng cho xe máy), BLG-05956 (biển hướng đi trên từng làn) và BLG-04494 (lỗi sai làn bị camera ghi) ở chỗ đọc riêng biển gộp làn R.415 và ngoại lệ của nó.",
+      "kw": "biển gộp làn theo phương tiện",
+      "kw2": [
+        "biển R.415 QCVN 41",
+        "biển phân làn ô tô xe máy",
+        "làn vẽ cả ô tô và xe máy",
+        "kết thúc làn đường theo phương tiện"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Người đi xe máy trên các trục đường nhiều làn ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30B-017",
+      "child_id": "C-BIEN-BAO",
+      "title": "Chữ R và dấu X lớn sơn trên mặt đường trước đường ngang không người gác: vạch 7.7 báo gì và xe máy phải làm gì",
+      "intent": "Người dùng hỏi: «Đi đường ngoại thành thấy sơn dấu X to kèm hai chữ R trên mặt đường, phía trước là đường tàu không có barie, nghĩa là gì?». Bài giải thích vạch 7.7 tại mục G2.7 Phụ lục G QCVN 41:2024/BGTVT (vạch báo gần chỗ giao nhau với đường sắt, chỉ dùng nơi không có người gác chắn; bố trí kết hợp vạch cấm vượt và vạch dừng xe cách ray gần nhất 3 m), khoản 2 Điều 24 Luật 36/2024/QH15 (dừng bên phải trước vạch dừng, quan sát hai phía, không có tàu mới đi), điểm đ khoản 6 Điều 14 (không vượt xe nơi giao nhau với đường sắt), khoản 4 Điều 15 và khoản 2 Điều 16 (không quay đầu, không lùi xe tại đường ngang); không nêu số tiền phạt. Người đọc là người đi xe máy ở ngoại thành Hà Nội và trên tuyến ra các tỉnh; khác BLG-04562 (biển tam giác giao nhau với đường sắt) và BLG-00366 (qua ray an toàn) ở chỗ đọc vạch sơn cảnh báo trên mặt đường.",
+      "kw": "vạch báo gần đường sắt",
+      "kw2": [
+        "vạch 7.7 QCVN 41",
+        "chữ R dấu X trên mặt đường",
+        "đường ngang không người gác",
+        "vạch dừng trước đường sắt"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-30-R30B",
+      "audience": "Người đi xe máy ở ngoại thành Hà Nội gặp đường ngang không có người gác",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-001",
+      "child_id": "C-YAMAHA-SIRIUS",
+      "title": "Yamaha Sirius thuê đổ xăng E10 được không: bản FI, bản chế hòa khí từ 2017 và đời trước 2017 theo Yamaha Việt Nam",
+      "intent": "Người dùng hỏi: «Xe Sirius thuê ở Hà Nội đổ xăng E10 có hại máy không, hay phải tìm cột còn bán E5 RON 92?». Bài đối chiếu thông báo ngày 07/7/2026 của Yamaha Motor Việt Nam về tính tương thích với xăng E5, E10: xe phun xăng điện tử FI (gồm các mã Sirius FI) dùng được E10; xe chế hòa khí sản xuất từ năm 2017 (các mã Sirius B6A, BGY trong phụ lục) dùng được E10; xe chế hòa khí sản xuất trước 2017 được khuyến nghị dùng E5; cách tự nhận biết bản FI theo hãng (chữ FI trên tem hoặc đồng hồ, tiếng bơm xăng khoảng 3 giây khi bật khóa, đèn cảnh báo động cơ sáng rồi tắt) và xem năm sản xuất trên nhãn hàng hóa gắn trên xe; bối cảnh Thông tư 50/2025/TT-BCT (E10 bán toàn quốc từ 01/6/2026, E5 RON 92 duy trì đến hết năm 2030); hỏi tiệm trước khi bơm, không tự đổ phụ gia. Không nêu giá xăng, không nêu giá thuê Sirius. Người đọc là khách thuê Sirius đi phố và đi tỉnh, khác bài Honda Wave đổ E10 (BLG-06108) ở chỗ áp khuyến cáo riêng của Yamaha theo đời xe và hệ thống cấp nhiên liệu.",
+      "kw": "sirius đổ xăng e10 được không",
+      "kw2": [
+        "sirius chế hòa khí đổ xăng gì",
+        "sirius fi dùng xăng e10",
+        "xăng e5 ron 92 cho sirius",
+        "nhận biết sirius phun xăng điện tử"
+      ],
+      "links": [
+        "/xe-may/yamaha-sirius/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "khách thuê Yamaha Sirius ở Hà Nội đi phố và đi tỉnh",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-002",
+      "child_id": "C-YAMAHA-SIRIUS",
+      "title": "Kim xăng Yamaha Sirius FI tụt về vạch 0 khi tắt máy: không phải hết xăng, bật khóa để đọc đúng lúc nhận và trả xe",
+      "intent": "Người dùng hỏi: «Vừa tắt máy chiếc Sirius thuê thì kim xăng rơi hẳn về 0, xe bị rò xăng hay hỏng đồng hồ?». Bài giải thích đặc điểm Yamaha công bố trên Sirius FI: kim báo xăng chỉ hiển thị khi bật công tắc và tự trả về mức 0 khi xe tắt máy; cách đọc mức xăng đúng (bật khóa, chờ kim lên ổn định rồi mới đề), cùng tiệm chụp đồng hồ ở trạng thái bật khóa khi nhận và trả xe, phân biệt với trường hợp đã bật khóa mà kim vẫn nằm ở 0 hoặc nhảy thất thường (lúc đó mới cần báo tiệm), và thói quen canh xăng khi đỗ nghỉ giữa chặng. Không nêu giá thuê. Người đọc là khách lần đầu thuê Sirius FI, khác bài bảng đồng hồ Sirius (BLG-03324) và bài phân biệt Sirius phun xăng với chế hòa khí (BLG-02589) ở chỗ chỉ xử lý hiểu lầm kim xăng về 0 và cách ghi mức xăng khi bàn giao.",
+      "kw": "kim xăng sirius về 0 khi tắt máy",
+      "kw2": [
+        "sirius fi kim xăng tụt",
+        "đọc mức xăng xe sirius",
+        "đồng hồ xăng sirius fi",
+        "chụp mức xăng khi trả xe thuê"
+      ],
+      "links": [
+        "/xe-may/yamaha-sirius/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "khách lần đầu thuê Yamaha Sirius FI",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-003",
+      "child_id": "C-HONDA-CLICK",
+      "title": "Yamaha Mio Classico, Ultimo, Maximo là xe chế hòa khí đời cũ: Yamaha khuyến nghị xăng E5, đổ gì khi cây xăng bán E10",
+      "intent": "Người dùng hỏi: «Thuê Yamaha Mio ở Hà Nội thì đổ xăng E10 được không hay phải tìm cột E5 RON 92?». Bài dựa vào phụ lục trong thông báo ngày 07/7/2026 của Yamaha Motor Việt Nam: các mã Mio Classico, Mio Ultimo, Mio Maximo sản xuất 2007–2009 dùng chế hòa khí, nhiên liệu khuyến cáo E5; nguyên tắc chung của hãng là xe chế hòa khí sản xuất trước 2017 nên dùng E5, từ 2017 dùng được E10; lộ trình Thông tư 50/2025/TT-BCT (E10 toàn quốc từ 01/6/2026, E5 RON 92 vẫn lưu hành đến hết năm 2030); cách tìm đúng cột E5 tại cây xăng, hỏi tiệm cho thuê loại xăng xe vẫn dùng, nếu lỡ bơm E10 thì theo dõi không tải, khó nổ và báo tiệm thay vì tự chỉnh chế hòa khí. Không nêu giá xăng, không nói về Honda Click nhập khẩu. Người đọc là khách thuê Yamaha Mio, khác bài lần đầu lái Mio (BLG-03936) và bài nhận biết đời Mio (BLG-03937) ở chỗ trả lời chuyện chọn nhiên liệu theo khuyến cáo của hãng.",
+      "kw": "yamaha mio đổ xăng e5 hay e10",
+      "kw2": [
+        "mio classico đổ xăng gì",
+        "xe chế hòa khí trước 2017 đổ xăng e5",
+        "mio ultimo đổ e10 được không",
+        "cột xăng e5 ron 92"
+      ],
+      "links": [
+        "/xe-may/honda-click/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "khách thuê Yamaha Mio ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-004",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Số điện áp ắc quy trên màn hình Honda Air Blade đời mới: đọc lúc nhận xe, khi bấm đề và lúc nào nên báo tiệm",
+      "intent": "Người dùng hỏi: «Màn hình Air Blade thuê hiện một con số kèm chữ V, số này tụt khi bấm đề hay bật đèn có phải ắc quy yếu không?». Bài giải thích mục hiển thị điện áp ắc quy mà Honda Việt Nam công bố trên mặt đồng hồ LCD của Air Blade đời mới (cùng quãng đường, hành trình, thời gian, mức tiêu thụ nhiên liệu, báo thay nhớt và đèn báo điều kiện sạc bình điện); cách chuyển màn hình theo sách hướng dẫn nếu xe có nút chọn, ghi lại con số lúc nhận xe để so về sau, vì sao số tụt thoáng qua khi đề rồi hồi lại là chuyện thường, khi nào số thấp kéo dài kèm đề yếu, đèn mờ hoặc đèn báo sạc sáng thì dừng và báo tiệm; không tự câu bình, không đưa ngưỡng vôn tuyệt đối khi sách hướng dẫn không ghi. Người đọc là khách thuê Air Blade đời 2025–2026, khác bài đọc đồng hồ Air Blade (BLG-03292) và bài đọc thông số in trên ắc quy (BLG-05882) ở chỗ dùng con số điện áp hiển thị để phát hiện sớm ắc quy yếu.",
+      "kw": "điện áp ắc quy air blade",
+      "kw2": [
+        "màn hình air blade hiện số vôn",
+        "air blade ắc quy yếu",
+        "đèn báo sạc bình điện air blade",
+        "đồng hồ lcd air blade 2026"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "khách thuê Honda Air Blade đời mới",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-005",
+      "child_id": "C-HONDA-VISION",
+      "title": "Honda Vision có Idling Stop gặp đoạn đường ngập: tắt tính năng trước khi lội nước để máy không tự ngắt giữa vũng",
+      "intent": "Người dùng hỏi: «Vision thuê tự tắt máy khi dừng hơn 3 giây, nếu kẹt xe ngay giữa đoạn ngập thì máy tắt có sao không và có vặn ga cho nổ lại?». Bài dựa vào mô tả của Honda Việt Nam: hệ thống ngắt động cơ tạm thời trên Vision tự ngắt khi dừng xe trên 3 giây và khởi động lại chỉ bằng thao tác vặn ga; giải thích vì sao trước khi vào đoạn ngập nên tắt công tắc Idling Stop (hỏi tiệm vị trí công tắc khi nhận xe), giữ ga đều, canh lúc đi để không phải dừng giữa nước; nếu máy đã tắt khi bánh còn ngập thì không vặn ga cho nổ lại mà dắt lên chỗ cao, chờ và báo tiệm; bật lại tính năng khi đã ra khỏi đoạn ngập. Không đưa mức nước an toàn bằng con số. Người đọc là khách thuê Vision mùa mưa ở Hà Nội, khác bài Vision lỡ đi qua đường ngập (BLG-03266, xử lý sau khi đã qua) và bài Idling Stop chung (BLG-03114, dùng khi kẹt xe) ở chỗ chuẩn bị trước khi lội nước với xe có ngắt máy tạm thời.",
+      "kw": "vision idling stop khi đi đường ngập",
+      "kw2": [
+        "tắt idling stop trước khi lội nước",
+        "vision tự tắt máy giữa vũng nước",
+        "ngắt động cơ tạm thời vision",
+        "vision chết máy trong nước"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "khách thuê Honda Vision mùa mưa ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-006",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Honda Wave RSX có hộc U-box dưới yên: mở yên bằng ổ khóa 4 trong 1, cất vừa mũ nửa đầu và áo mưa khi gửi xe",
+      "intent": "Người dùng hỏi: «Thuê Wave RSX thì có chỗ cất mũ bảo hiểm và áo mưa không hay phải treo ngoài xe?». Bài dựa vào thông tin Honda Việt Nam công bố cho Wave RSX: hộc đựng đồ U-box chứa được một mũ bảo hiểm nửa đầu cùng vật dụng cá nhân, ổ khóa 4 trong 1 gồm khóa điện, khóa từ, khóa cổ và khóa yên; hướng dẫn mở yên bằng ổ khóa, xếp mũ, áo mưa mỏng, giấy tờ trong túi chống nước, những thứ không nên để trong hộc (điện thoại lúc nắng gắt, đồ ướt, đồ dễ vỡ), đóng yên cho ăn chốt; lưu ý trang Wave Alpha 110 của hãng không nêu hộc U-box nên cần hỏi tiệm đúng bản xe đang thuê. Không nêu giá thuê. Người đọc là khách thuê Honda Wave, khác bài Honda Wave ít chỗ cất đồ (BLG-02150, viết chung là Wave không có hộc) ở chỗ chỉ ra bản RSX có hộc U-box và cách dùng.",
+      "kw": "hộc u-box wave rsx",
+      "kw2": [
+        "wave rsx có cốp không",
+        "cất mũ bảo hiểm trên xe wave",
+        "ổ khóa 4 trong 1 wave rsx",
+        "mở yên xe wave rsx"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "khách thuê Honda Wave RSX",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-007",
+      "child_id": "C-XE-LUA-CHON",
+      "title": "Chọn xe thuê theo khoảng sáng gầm: Vision 175 mm, Sirius FI 155 mm, Air Blade 142 mm, Wave khoảng 135 mm",
+      "intent": "Người dùng hỏi: «Nhà trong ngõ có dốc dắt xe cao và hay phải qua gờ giảm tốc to, nên thuê dòng xe nào để ít cạ gầm?». Bài so khoảng sáng gầm theo thông số hãng công bố: Honda Vision 175 mm, Yamaha Sirius FI vành đúc 155 mm và Sirius phanh đĩa 130 mm, Honda Air Blade 142 mm, Wave Alpha 110 134 mm, Wave RSX 135 mm; giải thích khoảng sáng gầm khác chiều cao yên, vì sao xe ga có hộp truyền động và chân chống giữa thấp vẫn có thể quệt, chở hai người làm gầm hạ thêm, cách thử dắt qua dốc nhà và gờ ngay tại tiệm trước khi chốt; không khẳng định xe gầm cao thì lội ngập an toàn hơn. Không nêu giá thuê. Người đọc là người thuê xe theo tuần, tháng ở nhà ống, ngõ dốc, khu tập thể có bậc dắt, khác bài chọn xe theo chiều cao yên (BLG-00917) và bài xe ga cạ gầm (BLG-05650, cách đi qua chỗ quệt) ở chỗ dùng số đo gầm để chọn dòng xe.",
+      "kw": "khoảng sáng gầm xe máy thuê",
+      "kw2": [
+        "xe máy nào gầm cao",
+        "honda vision gầm cao bao nhiêu",
+        "xe ga hay bị cạ gầm",
+        "chọn xe cho nhà có dốc dắt"
+      ],
+      "links": [
+        "/xe-may/chon-loai-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "người thuê xe tuần, tháng ở nhà ống, ngõ dốc tại Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-008",
+      "child_id": "C-XE-LUA-CHON",
+      "title": "Thuê xe vào phố cổ khi Hà Nội thí điểm vùng phát thải thấp: xe đời nào bị khuyến khích hạn chế và có nên chọn xe điện",
+      "intent": "Người dùng hỏi: «Hà Nội làm vùng phát thải thấp ở phố cổ, thuê xe máy xăng đi chơi Hồ Gươm có bị cấm không, nên chọn xe đời mới hay xe điện?». Bài tóm tắt Đề án vùng phát thải thấp trong Vành đai 1 theo Nghị quyết 57/2025/NQ-HĐND và Quyết định 3273/QĐ-UBND: giai đoạn 1 (01/7–31/12/2026) thí điểm ở khu phố cổ và quanh hồ Hoàn Kiếm, chủ yếu tuyên truyền, khuyến khích hạn chế xe mô tô sản xuất trước 2008 và xe gắn máy sản xuất trước 2016; giai đoạn 2 (năm 2027) mở rộng ra toàn phường Hoàn Kiếm, Cửa Nam, đo kiểm khí thải và hạn chế dần xe không đạt quy chuẩn; giai đoạn 3 từ 2028 không cho xe xăng dưới mức 3 lưu thông trong Vành đai 1; từ đó gợi ý khách thuê hỏi tiệm năm sản xuất xe, ưu tiên xe đời mới, cân nhắc xe máy điện hoặc xe đạp điện khi chủ yếu đi phố cổ, và xem văn bản hướng dẫn trước mỗi giai đoạn. Không nêu tiền phạt, không khẳng định điều chưa ban hành. Người đọc là khách du lịch, người ở phố cổ thuê xe ngắn ngày, khác bài lộ trình hạn chế xe máy xăng trong Vành đai 1 (BLG-05271) ở chỗ áp vào việc chọn đời xe và loại xe khi thuê.",
+      "kw": "thuê xe máy vùng phát thải thấp",
+      "kw2": [
+        "vùng phát thải thấp hoàn kiếm",
+        "xe máy đời cũ vào phố cổ",
+        "phố cổ hạn chế xe xăng",
+        "thuê xe điện đi phố cổ"
+      ],
+      "links": [
+        "/xe-may/chon-loai-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "khách du lịch và người ở phố cổ thuê xe ngắn ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-009",
+      "child_id": "C-XE-KHAC-PHUC",
+      "title": "Xe thuê đổ xăng E10 xong bị rung không tải, ga chập chờn hay tắt máy khi dừng: nguyên nhân hãng nêu và khi nào báo tiệm",
+      "intent": "Người dùng hỏi: «Từ khi cây xăng bán E10, chiếc xe thuê đứng đèn đỏ hay rung, ga không đều, có lúc tắt máy, có phải do xăng không?». Bài dựa vào khuyến cáo trong thông báo ngày 07/7/2026 của Yamaha Motor Việt Nam: do đặc tính cháy của xăng sinh học, tốc độ không tải của một số xe có thể thay đổi và cần chỉnh khi bảo dưỡng; xe lâu năm chuyển sang E10 có thể bong cặn trong bình xăng gây tắc lọc xăng; không tự trộn phụ gia; cùng khuyến cáo của Honda Việt Nam về chỉ số octan và hàm lượng ethanol cho xe chính hãng; phân biệt triệu chứng không tải với xăng lẫn nước hoặc xăng bẩn đột ngột, việc tạm làm (giữ ga nhẹ khi dừng, không rồ ga, ghi lại ngày giờ và cây xăng đã đổ), khi nào phải dừng hẳn và báo tiệm để tiệm kiểm tra. Không nêu giá xăng, không quy lỗi cho cây xăng khi chưa có căn cứ. Người đọc là người thuê xe theo tuần, tháng ở Hà Nội, khác bài vừa đổ xăng xong xe giật rồi tắt máy (BLG-02932, nghi xăng bẩn) ở chỗ triệu chứng kéo dài sau khi chuyển sang E10 và cách xử lý theo khuyến cáo hãng.",
+      "kw": "đổ xăng e10 xe hay tắt máy",
+      "kw2": [
+        "xăng e10 không tải chập chờn",
+        "xe cũ đổ e10 tắc lọc xăng",
+        "chỉnh không tải khi dùng e10",
+        "xăng e10 có hại xe máy không"
+      ],
+      "links": [
+        "/xe-may/xu-ly-su-co-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "người thuê xe máy tuần, tháng ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-010",
+      "child_id": "C-XE-KHAC-PHUC",
+      "title": "Chìa khóa xe thuê bị cong hoặc gãy một đoạn trong ổ: đừng cố vặn, giữ mẩu chìa còn lại và gọi tiệm trước khi tìm thợ",
+      "intent": "Người dùng hỏi: «Chìa xe máy thuê bị gãy, nửa chìa còn kẹt trong ổ, có tự gắp ra hay gọi thợ khóa ngoài đường được không?». Bài hướng dẫn: dấu hiệu chìa sắp gãy (cong, nứt, phải lắc mới vặn được), khi đã gãy thì giữ nguyên tư thế ổ khóa, không dùng kìm, kim băng, keo dán để gắp, không cạy nắp khóa từ, giữ mẩu chìa còn lại, chụp ảnh ổ khóa, xem xe đang khóa cổ hay đang mở để tính chuyện dắt vào chỗ an toàn hoặc gửi; báo tiệm cho thuê để được hướng dẫn hoặc nhờ mang chìa dự phòng, chỉ nhờ thợ khóa khi tiệm đồng ý; lưu ý xe Smart Key xử lý khác. Không nêu chi phí sửa, không hứa thời gian tiệm tới. Người đọc là khách thuê xe chìa cơ, khác bài chìa kẹt trong ổ khóa (BLG-02055) và bài mất chìa khóa (BLG-00926) ở chỗ chìa đã cong, gãy và nguy cơ làm hỏng ổ.",
+      "kw": "gãy chìa khóa xe máy trong ổ",
+      "kw2": [
+        "chìa khóa xe máy bị cong",
+        "gắp chìa gãy trong ổ khóa",
+        "xe thuê bị gãy chìa",
+        "gọi thợ khóa xe máy"
+      ],
+      "links": [
+        "/xe-may/xu-ly-su-co-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "khách thuê xe máy chìa cơ ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-011",
+      "child_id": "C-XE-KHAC-PHUC",
+      "title": "Giảm xóc xe thuê kêu cót két hoặc lụp cụp khi qua gờ, khi chở người: tiếng nào còn đi được, tiếng nào phải báo tiệm",
+      "intent": "Người dùng hỏi: «Xe máy thuê cứ qua gờ giảm tốc là phuộc kêu cót két, chở thêm người thì nghe lụp cụp, có nguy hiểm không?». Bài giúp phân biệt theo vị trí và kiểu tiếng: kêu ở phuộc trước khi bóp phanh hoặc qua ổ gà, kêu ở giảm xóc sau khi chở nặng, tiếng kim loại va chạm khi phuộc nén hết hành trình, tiếng từ ốp nhựa, chân chống, baga dễ bị nhầm là giảm xóc; cách thử nhanh khi dừng (nhún đầu xe, nhún đuôi xe, nhìn vệt dầu trên ống phuộc), khi nào giảm tải, đi chậm về chỗ an toàn và báo tiệm ngay (tiếng va đập kèm tay lái rung, xe nghiêng một bên, dầu chảy). Không tự tháo, không bơm dầu. Người đọc là người thuê xe đi phố và đi đường xấu, khác bài giảm xóc yếu hoặc chảy dầu (BLG-02169, kiểm tra trước chuyến đi) và các bài xe kêu lạ theo dòng xe ở chỗ tập trung vào tiếng kêu của hệ thống giảm xóc khi đang đi.",
+      "kw": "giảm xóc xe máy kêu cót két",
+      "kw2": [
+        "phuộc trước kêu khi phanh",
+        "giảm xóc sau kêu khi chở người",
+        "xe máy kêu lụp cụp qua gờ",
+        "phuộc xe máy bị kêu"
+      ],
+      "links": [
+        "/xe-may/xu-ly-su-co-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "người thuê xe máy đi phố và đường xấu ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-012",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Ô tô điện, taxi điện và xe buýt điện chạy êm ở Hà Nội: người đi xe máy không nghe tiếng tới gần thì quan sát thế nào",
+      "intent": "Người dùng hỏi: «Đi xe máy ở Hà Nội hay giật mình vì ô tô điện, xe buýt điện áp sát mà không nghe tiếng máy, phải để ý gì?». Bài giải thích vì sao xe điện chạy êm làm người đi xe máy mất tín hiệu âm thanh quen dựa vào (tiếng máy khi xe phía sau tăng tốc, khi xe rời trạm, khi xe áp sát để vượt), cách bù bằng mắt: nhìn gương đều đặn, ngoái kiểm tra điểm mù trước khi chuyển làn hay rẽ, không đi lâu trong vùng khuất cạnh xe buýt, giữ khoảng cách ở trạm xe buýt và điểm taxi dừng đón, chừa đường thoát khi dừng đèn đỏ cạnh xe lớn; mũ bảo hiểm kín, gió và tai nghe làm vấn đề nặng hơn. Không nêu tên hãng xe, không nêu số liệu tai nạn. Người đọc là người mới lái xe máy ở Hà Nội, khác bài xe công nghệ dừng đột ngột (BLG-02779) và bài mưa to át tiếng còi (BLG-04056) ở chỗ nói về phương tiện điện không phát tiếng động cơ.",
+      "kw": "ô tô điện không nghe tiếng máy",
+      "kw2": [
+        "xe buýt điện áp sát xe máy",
+        "xe điện chạy êm khó nhận ra",
+        "nhìn gương khi đi cạnh xe lớn",
+        "taxi điện tới gần không nghe tiếng"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "người mới lái xe máy ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-013",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Dừng chờ đèn đỏ bằng xe máy: chống chân trái hay cả hai chân, tay giữ phanh nào trên xe số và xe ga để xe không trôi",
+      "intent": "Người dùng hỏi: «Khi dừng đèn đỏ nên chống một chân hay hai chân, chân nào chạm đất trước để vẫn giữ được phanh?». Bài hướng dẫn tư thế dừng: với xe số chống chân trái, chân phải giữ phanh sau, để số 1 hay về số 0 tùy thời gian chờ; với xe ga chống một hoặc hai chân tùy chiều cao, tay trái giữ phanh sau, tay phải rời khỏi tay ga hoặc để thả lỏng; dừng trên dốc cầu, nền nghiêng, nền ướt thì chân nào xuống trước; chờ lâu ở ngã tư đông thì thả lỏng vai nhưng không bỏ phanh; người thấp chỉ chạm mũi chân thì nhích người khỏi yên về một bên. Người đọc là người mới lái, người quen một loại xe chuyển sang loại kia, khác bài chọn vị trí đứng đợi đèn đỏ (BLG-00236), bài hụt chân khi dừng (BLG-05193) và bài Honda Vision dừng đèn đỏ (BLG-03270) ở chỗ dạy chung tư thế chân, tay giữ phanh cho cả xe số lẫn xe ga.",
+      "kw": "chống chân khi dừng xe máy",
+      "kw2": [
+        "dừng đèn đỏ chống một chân",
+        "xe số dừng thì chân nào xuống",
+        "giữ phanh khi chờ đèn đỏ",
+        "dừng xe trên dốc chống chân"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "người mới lái xe máy ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-014",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Dừng xe máy êm không bị chúi đầu: nhả bớt phanh trước ở nhịp cuối, giữ phanh sau và đặt chân xuống đúng lúc",
+      "intent": "Người dùng hỏi: «Mỗi lần dừng xe máy là bị giật, chúi đầu, người ngồi sau đập mũ vào lưng, phanh sao cho êm?». Bài giải thích vì sao xe giật ở nhịp cuối (phanh trước bóp mạnh lúc xe gần dừng làm phuộc nén rồi bật lại), kỹ thuật dừng êm: nhả ga sớm, phanh cả hai bánh từ xa, nới dần phanh trước khi còn vài mét, giữ phanh sau đến khi xe đứng hẳn, chỉ đặt chân xuống khi xe đã dừng; khác biệt khi xe có phanh kết hợp CBS hoặc ABS; bài tập ở bãi vắng; báo trước cho người ngồi sau; khi khẩn cấp vẫn phải phanh mạnh dứt khoát. Người đọc là người mới lái, người hay chở bố mẹ, con nhỏ, khác bài phối hợp phanh trước sau (BLG-01843), bài tập phanh dừng đúng vạch (BLG-04007, luyện cự ly) và bài phanh gấp (BLG-03516) ở chỗ luyện dừng mượt trong giao thông thường ngày.",
+      "kw": "dừng xe máy không bị chúi đầu",
+      "kw2": [
+        "phanh xe máy bị giật",
+        "dừng xe êm khi chở người",
+        "nhả phanh trước khi sắp dừng",
+        "cách phanh xe máy mượt"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "người mới lái và người hay chở người thân ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-015",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Vượt xe đạp, xe đạp điện đi chậm sát lề khi lái xe máy: chừa khoảng ngang, đoán cú lạng và không ép họ vào vỉa hè",
+      "intent": "Người dùng hỏi: «Đi sau học sinh đi xe đạp điện, người già đạp xe chở hàng sát lề, vượt thế nào cho an toàn?». Bài hướng dẫn: đọc dấu hiệu người đi xe đạp sắp lạng (quay đầu nhìn, tránh ổ gà, nắp cống, xe đỗ, người bước xuống lòng đường), chọn đoạn vượt có khoảng trống, nhìn gương và báo hiệu trước, giữ khoảng cách ngang rộng hơn khi vượt xe máy vì xe đạp chao, không bấm còi sát làm họ giật mình, không vượt ngay trước đầu ngõ hay ngay trước khi mình rẽ phải; lưu ý xe đạp chở hàng cồng kềnh, xe đạp điện chở hai người, giờ tan trường. Người đọc là người đi xe máy trong phố, khác bài rẽ phải khi có xe đạp sát lề (BLG-05525) và bài gặp đoàn xe đạp thể thao (BLG-02792) ở chỗ vượt người đi xe đạp đơn lẻ, chậm, khó đoán.",
+      "kw": "vượt xe đạp khi đi xe máy",
+      "kw2": [
+        "khoảng cách ngang khi vượt xe đạp",
+        "xe đạp điện học sinh lạng lách",
+        "vượt xe đạp chở hàng",
+        "không ép xe đạp vào lề"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "người đi xe máy trong phố Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-016",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Ô tô đang đỗ ven đường bất ngờ lăn bánh, quay đầu ra giữa phố: đọc đèn phanh, đèn lùi và bánh trước khi đi xe máy qua",
+      "intent": "Người dùng hỏi: «Đang đi xe máy gần lề thì ô tô đỗ phía trước bất ngờ tách ra hoặc quay đầu chắn ngang, làm sao biết trước?». Bài hướng dẫn đọc dấu hiệu một ô tô đang đỗ sắp rời chỗ: đèn phanh sáng khi tài xế vào số, đèn lùi trắng, xi nhan, bánh trước đã đánh lái, người vừa lên xe đóng cửa, khói ống xả; chọn vị trí trong làn cách hàng xe đỗ một khoảng, nhả ga khi thấy dấu hiệu, không chen vào khoảng trống trước đầu xe đang nhích ra, dừng sớm khi ô tô quay đầu chắn ngang phố hẹp. Người đọc là người đi xe máy ở phố có ô tô đỗ hai bên, khác bài cửa ô tô bật mở (BLG-02193) và bài ô tô lùi vào chỗ đỗ (BLG-05219) ở chỗ ô tô đang đỗ rời chỗ, nhập dòng hoặc quay đầu.",
+      "kw": "ô tô đang đỗ bất ngờ nhập dòng",
+      "kw2": [
+        "đọc đèn lùi ô tô",
+        "ô tô quay đầu chắn ngang",
+        "bánh trước ô tô đánh lái",
+        "đi xe máy cạnh ô tô đỗ"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "người đi xe máy trong phố Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-017",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Che ô hay cầm điện thoại xem đường khi đi xe đạp điện ở Hà Nội: luật cấm cả người lái lẫn người ngồi sau ra sao",
+      "intent": "Người dùng hỏi: «Đi xe đạp điện trời nắng có được che ô, hay một tay cầm điện thoại xem bản đồ không, người ngồi sau che ô thì sao?». Bài trích Luật Trật tự, an toàn giao thông đường bộ 2024: khoản 2 Điều 31 dẫn chiếu khoản 3 Điều 33 (người điều khiển không sử dụng ô, thiết bị âm thanh trừ thiết bị trợ thính) và khoản 4 Điều 33 (người được chở không sử dụng ô); điểm h khoản 1 Điều 9 Nghị định 168/2024/NĐ-CP xếp việc người điều khiển xe đạp, xe đạp máy sử dụng ô, dùng tay cầm và sử dụng điện thoại, chở người ngồi sau sử dụng ô là hành vi bị xử phạt (đối chiếu sửa đổi của Nghị định 238/2026 khi viết); cách thay thế: áo chống nắng, áo mưa, giá đỡ điện thoại gắn chắc và dừng hẳn sát lề để xem đường. Không nêu số tiền phạt. Người đọc là khách du lịch, người đi chợ, học sinh dùng xe đạp điện thuê, khác bài cầm ô khi lái xe máy (BLG-06128, đã loại trừ xe đạp) và bài hai người đi chung xe đạp điện (BLG-05570) ở chỗ áp các điều khoản về ô, điện thoại cho xe đạp máy.",
+      "kw": "đi xe đạp điện có được che ô",
+      "kw2": [
+        "xe đạp điện cầm điện thoại",
+        "ngồi sau xe đạp điện che ô",
+        "giá đỡ điện thoại xe đạp điện",
+        "luật xe đạp điện 2024"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "khách du lịch, người đi chợ và học sinh thuê xe đạp điện",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-018",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Chở cành đào, cây quất hay đồ dài bằng xe đạp điện dịp Tết: hàng không quá 1/3 thân xe, 1 m trước sau, 0,4 m mỗi bên",
+      "intent": "Người dùng hỏi: «Mua cành đào, chậu quất ngày Tết rồi chở bằng xe đạp điện thuê có được không, đồ to cỡ nào là quá?». Bài trích khoản 5 Điều 31 Luật Trật tự, an toàn giao thông đường bộ 2024: hàng hóa xếp trên xe thô sơ phải bảo đảm an toàn, không cản trở giao thông, không che khuất tầm nhìn người điều khiển, không vượt quá 1/3 chiều dài thân xe, không quá 1 mét phía trước và phía sau xe, không quá 0,4 mét mỗi bên bánh xe; người được chở không mang vác vật cồng kềnh (khoản 2 Điều 31 dẫn chiếu khoản 4 Điều 33); cách ước lượng nhanh bằng thước dây hoặc sải tay, buộc cành vào giỏ và baga, giữ tay lái, phanh sớm vì xe nặng đầu, khi nào nên nhờ chở bằng xe khác; so sánh với giới hạn của xe máy (0,3 mét mỗi bên, 0,5 mét phía sau giá đèo hàng). Không nêu số tiền phạt, không nêu giá cây cảnh. Người đọc là người thuê xe đạp điện đi chợ hoa Tết Đinh Mùi 2027, khác bài chở hoa bằng xe đạp điện (BLG-02526) và bài chở hai bao đồ (BLG-01666) ở chỗ giới hạn kích thước hàng hóa theo luật cho xe thô sơ.",
+      "kw": "chở cành đào bằng xe đạp điện",
+      "kw2": [
+        "xe đạp điện chở hàng quá khổ",
+        "giới hạn chở hàng xe thô sơ",
+        "chở quất tết bằng xe đạp điện",
+        "điều 31 luật trật tự an toàn giao thông"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "người thuê xe đạp điện đi chợ hoa Tết ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-30-R30C-019",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Chống trộm xe đạp điện thuê khi dừng chơi phố: xe nhẹ dễ bị nhấc đi, khóa dây qua khung, khóa ngăn pin và gửi bãi",
+      "intent": "Người dùng hỏi: «Xe đạp điện thuê không có khóa cổ chắc như xe máy, dừng uống cà phê ở phố cổ thì khóa thế nào để khỏi mất xe, mất pin?». Bài hướng dẫn: kiểm tra khi nhận xe các khóa đi kèm (ổ khóa điện, khóa ngăn pin, khóa dây hoặc khóa chữ U nếu tiệm đưa), vì sao xe đạp điện nhẹ hơn xe máy nên dễ bị nhấc lên xe khác mang đi, luồn khóa qua khung và bánh, rút chìa và khóa ngăn pin, khi nào nên gửi bãi có vé thay vì dựng ven đường, không để điện thoại, ví trong giỏ xe; nếu mất xe hoặc pin thì trình báo công an phường và báo tiệm ngay. Không nêu giá vé gửi xe, không hứa trách nhiệm bồi thường. Người đọc là khách thuê xe đạp điện dạo phố, khác bài chống trộm xe máy điện thuê (BLG-03216) và bài pin rời xe máy điện bị trộm (BLG-04115) ở chỗ xe đạp điện không có khóa cổ, khóa đĩa và nhẹ, dễ bị nhấc đi.",
+      "kw": "chống trộm xe đạp điện thuê",
+      "kw2": [
+        "khóa xe đạp điện",
+        "mất pin xe đạp điện",
+        "gửi xe đạp điện ở phố cổ",
+        "khóa dây xe đạp điện"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-30-R30C",
+      "audience": "khách thuê xe đạp điện dạo phố Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    }
+  ],
   "rejected": [
     {
       "candidate_id": "CAND-2026-001-R01",
