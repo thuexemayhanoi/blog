@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-31T17:56:24+00:00",
+  "updated_at": "2026-10-31T17:59:46+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-06223",
-      "started_at": "2026-10-31T05:02:03+00:00",
-      "source": "_drafts/2026-10-31-dem-dem-nguoc-3112-quanh-ho-guom-bang-xe-may-cam-duong-tu-chieu-gui-xe-ngoai-vun.md",
-      "destination": "_posts/2026-10-31-dem-dem-nguoc-3112-quanh-ho-guom-bang-xe-may-cam-duong-tu-chieu-gui-xe-ngoai-vun.md",
-      "result": "PUBLISHED",
-      "commit_sha": "966cd37ee373ff5427e829e72ce4d5c3f84daf80",
-      "finished_at": "2026-10-31T05:02:03+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-06226",
-      "started_at": "2026-10-31T05:02:03+00:00",
-      "source": "_drafts/2026-10-31-thuy-cung-lotte-o-tay-ho-bang-xe-may-dua-tre-xem-chim-canh-cut-su-tu-bien-va-sap.md",
-      "destination": "_posts/2026-10-31-thuy-cung-lotte-o-tay-ho-bang-xe-may-dua-tre-xem-chim-canh-cut-su-tu-bien-va-sap.md",
-      "result": "PUBLISHED",
-      "commit_sha": "966cd37ee373ff5427e829e72ce4d5c3f84daf80",
-      "finished_at": "2026-10-31T05:02:03+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06227",
       "started_at": "2026-10-31T05:02:22+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "21d290041787489f97d8a54962b2718db5df05dd",
       "finished_at": "2026-10-31T17:56:24+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06273",
+      "started_at": "2026-10-31T17:59:46+00:00",
+      "source": "_drafts/2026-10-31-nguoi-ban-hang-rong-phat-to-roi-len-giua-hang-xe-dung-den-do-giu-xe-dung-yen-kho.md",
+      "destination": "_posts/2026-10-31-nguoi-ban-hang-rong-phat-to-roi-len-giua-hang-xe-dung-den-do-giu-xe-dung-yen-kho.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8cd43eb6fb66a52b7298cfa461004310ca7d57b7",
+      "finished_at": "2026-10-31T17:59:46+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06276",
+      "started_at": "2026-10-31T17:59:46+00:00",
+      "source": "_drafts/2026-10-31-bi-nguoi-di-xe-khac-ap-sat-chui-boi-bat-dung-xe-vi-bam-coi-hay-chen-lan-khong-do.md",
+      "destination": "_posts/2026-10-31-bi-nguoi-di-xe-khac-ap-sat-chui-boi-bat-dung-xe-vi-bam-coi-hay-chen-lan-khong-do.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8cd43eb6fb66a52b7298cfa461004310ca7d57b7",
+      "finished_at": "2026-10-31T17:59:46+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
