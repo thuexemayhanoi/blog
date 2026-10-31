@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-31T17:08:45+00:00",
+  "updated_at": "2026-10-31T17:30:04+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-06211",
-      "started_at": "2026-10-31T04:45:30+00:00",
-      "source": "_drafts/2026-10-31-san-truot-bang-trong-royal-city-bang-xe-may-gui-xe-ham-mang-gang-tay-tat-day-va.md",
-      "destination": "_posts/2026-10-31-san-truot-bang-trong-royal-city-bang-xe-may-gui-xe-ham-mang-gang-tay-tat-day-va.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3a3e2b28d4a229fe710a08669a83c0a491e5bdc3",
-      "finished_at": "2026-10-31T04:45:30+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-06212",
-      "started_at": "2026-10-31T04:45:30+00:00",
-      "source": "_drafts/2026-10-31-cho-tre-di-tau-dien-cat-linh-ha-dong-mot-vong-cuoi-tuan-gui-xe-may-gan-ga-nao-di.md",
-      "destination": "_posts/2026-10-31-cho-tre-di-tau-dien-cat-linh-ha-dong-mot-vong-cuoi-tuan-gui-xe-may-gan-ga-nao-di.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3a3e2b28d4a229fe710a08669a83c0a491e5bdc3",
-      "finished_at": "2026-10-31T04:45:30+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06213",
       "started_at": "2026-10-31T04:45:51+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "4c8768366176424781b141ebeaebc9636a153415",
       "finished_at": "2026-10-31T17:08:45+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06262",
+      "started_at": "2026-10-31T17:30:04+00:00",
+      "source": "_drafts/2026-10-31-lang-da-khuoi-ky-va-dong-nguom-ngao-bang-xe-may-ghe-hai-diem-tren-tinh-lo-206-kh.md",
+      "destination": "_posts/2026-10-31-lang-da-khuoi-ky-va-dong-nguom-ngao-bang-xe-may-ghe-hai-diem-tren-tinh-lo-206-kh.md",
+      "result": "PUBLISHED",
+      "commit_sha": "bf33a61e79f50da5adb6f984014b05044f6643b9",
+      "finished_at": "2026-10-31T17:30:04+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06266",
+      "started_at": "2026-10-31T17:30:04+00:00",
+      "source": "_drafts/2026-10-31-ban-tin-bao-bang-gia-mua-tuyet-o-sa-pa-mau-son-y-ty-co-nen-chay-xe-may-tu-ha-noi.md",
+      "destination": "_posts/2026-10-31-ban-tin-bao-bang-gia-mua-tuyet-o-sa-pa-mau-son-y-ty-co-nen-chay-xe-may-tu-ha-noi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "bf33a61e79f50da5adb6f984014b05044f6643b9",
+      "finished_at": "2026-10-31T17:30:04+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
