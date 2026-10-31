@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-31T05:36:27+00:00",
+  "updated_at": "2026-10-31T05:49:00+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-06209",
-      "started_at": "2026-10-30T03:17:03+00:00",
-      "source": "_drafts/2026-10-30-thuy-cung-times-city-o-458-minh-khai-bang-xe-may-dua-tre-di-xem-ca-cuoi-tuan-gui.md",
-      "destination": "_posts/2026-10-30-thuy-cung-times-city-o-458-minh-khai-bang-xe-may-dua-tre-di-xem-ca-cuoi-tuan-gui.md",
-      "result": "PUBLISHED",
-      "commit_sha": "63ac5b831c5215a2f938318fe8664077bcd9a5e7",
-      "finished_at": "2026-10-30T03:17:04+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-06210",
-      "started_at": "2026-10-30T03:17:04+00:00",
-      "source": "_drafts/2026-10-30-thien-duong-bao-son-bang-xe-may-duong-tu-trung-tam-ra-le-trong-tan-cho-gui-xe-va.md",
-      "destination": "_posts/2026-10-30-thien-duong-bao-son-bang-xe-may-duong-tu-trung-tam-ra-le-trong-tan-cho-gui-xe-va.md",
-      "result": "PUBLISHED",
-      "commit_sha": "63ac5b831c5215a2f938318fe8664077bcd9a5e7",
-      "finished_at": "2026-10-30T03:17:04+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06203",
       "started_at": "2026-10-30T03:18:12+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "aa1a8e3fc6586c781873cab5521660d0519b98eb",
       "finished_at": "2026-10-31T05:36:27+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06254",
+      "started_at": "2026-10-31T05:48:59+00:00",
+      "source": "_drafts/2026-10-31-tu-meo-vac-sang-bao-lac-cao-bang-bang-xe-may-noi-vong-ha-giang-voi-cao-bang-qua.md",
+      "destination": "_posts/2026-10-31-tu-meo-vac-sang-bao-lac-cao-bang-bang-xe-may-noi-vong-ha-giang-voi-cao-bang-qua.md",
+      "result": "PUBLISHED",
+      "commit_sha": "70a3b6ca0d3ab831e5c4538d6a755f1c77fd876d",
+      "finished_at": "2026-10-31T05:48:59+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06258",
+      "started_at": "2026-10-31T05:49:00+00:00",
+      "source": "_drafts/2026-10-31-doc-bac-sum-tren-quoc-lo-4c-con-doc-lon-dau-tien-khi-chay-xe-may-tu-trung-tam-ha.md",
+      "destination": "_posts/2026-10-31-doc-bac-sum-tren-quoc-lo-4c-con-doc-lon-dau-tien-khi-chay-xe-may-tu-trung-tam-ha.md",
+      "result": "PUBLISHED",
+      "commit_sha": "70a3b6ca0d3ab831e5c4538d6a755f1c77fd876d",
+      "finished_at": "2026-10-31T05:49:00+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
