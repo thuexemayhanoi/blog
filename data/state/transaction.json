@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-31T05:20:03+00:00",
+  "updated_at": "2026-10-31T05:20:51+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-06189",
-      "started_at": "2026-10-29T16:48:03+00:00",
-      "source": "_drafts/2026-10-29-bai-sat-hach-so-1-khi-thi-bang-a1-theo-thong-tu-1082026-chinh-guong-ngoai-dau-qu.md",
-      "destination": "_posts/2026-10-29-bai-sat-hach-so-1-khi-thi-bang-a1-theo-thong-tu-1082026-chinh-guong-ngoai-dau-qu.md",
-      "result": "PUBLISHED",
-      "commit_sha": "bcd95b382a70c4ed258d061327b52ff9b65790d8",
-      "finished_at": "2026-10-29T16:48:04+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-06190",
-      "started_at": "2026-10-29T16:48:04+00:00",
-      "source": "_drafts/2026-10-29-bai-sat-hach-so-2-thi-bang-a1-gom-11-tinh-huong-vuot-xe-gap-den-do-duong-sat-va.md",
-      "destination": "_posts/2026-10-29-bai-sat-hach-so-2-thi-bang-a1-gom-11-tinh-huong-vuot-xe-gap-den-do-duong-sat-va.md",
-      "result": "PUBLISHED",
-      "commit_sha": "bcd95b382a70c4ed258d061327b52ff9b65790d8",
-      "finished_at": "2026-10-29T16:48:04+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06195",
       "started_at": "2026-10-29T16:57:51+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "6a3616e587f916e8309b32ad7c02c176bc13a0c4",
       "finished_at": "2026-10-31T05:20:03+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06239",
+      "started_at": "2026-10-31T05:20:50+00:00",
+      "source": "_drafts/2026-10-31-quanh-cong-truong-cau-tran-hung-dao-bang-xe-may-tran-khanh-du-mot-chieu-de-nguye.md",
+      "destination": "_posts/2026-10-31-quanh-cong-truong-cau-tran-hung-dao-bang-xe-may-tran-khanh-du-mot-chieu-de-nguye.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0cef54af56cb0e1e80c0cf3a68ffaa049d424ac6",
+      "finished_at": "2026-10-31T05:20:51+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06240",
+      "started_at": "2026-10-31T05:20:51+00:00",
+      "source": "_drafts/2026-10-31-cong-truong-cau-tu-lien-o-nghi-tam-au-co-di-xe-may-ven-de-tay-ho-khi-duong-bi-th.md",
+      "destination": "_posts/2026-10-31-cong-truong-cau-tu-lien-o-nghi-tam-au-co-di-xe-may-ven-de-tay-ho-khi-duong-bi-th.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0cef54af56cb0e1e80c0cf3a68ffaa049d424ac6",
+      "finished_at": "2026-10-31T05:20:51+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
