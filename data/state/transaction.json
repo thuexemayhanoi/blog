@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-31T05:04:55+00:00",
+  "updated_at": "2026-10-31T05:15:44+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-06181",
-      "started_at": "2026-10-29T16:37:18+00:00",
-      "source": "_drafts/2026-10-29-xe-dap-dien-thue-bi-non-hoi-hoac-thung-lop-giua-duong-co-nen-chay-dien-tiep-dat.md",
-      "destination": "_posts/2026-10-29-xe-dap-dien-thue-bi-non-hoi-hoac-thung-lop-giua-duong-co-nen-chay-dien-tiep-dat.md",
-      "result": "PUBLISHED",
-      "commit_sha": "95dcbc82f43d29170a7bea8450b67728b8cf9999",
-      "finished_at": "2026-10-29T16:37:18+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-06182",
-      "started_at": "2026-10-29T16:37:18+00:00",
-      "source": "_drafts/2026-10-29-dap-xe-dap-dien-khi-tat-nguon-co-sac-lai-pin-khong-hieu-dung-de-khoi-can-pin-giu.md",
-      "destination": "_posts/2026-10-29-dap-xe-dap-dien-khi-tat-nguon-co-sac-lai-pin-khong-hieu-dung-de-khoi-can-pin-giu.md",
-      "result": "PUBLISHED",
-      "commit_sha": "95dcbc82f43d29170a7bea8450b67728b8cf9999",
-      "finished_at": "2026-10-29T16:37:18+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06185",
       "started_at": "2026-10-29T16:40:04+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "27a7813d260f462baffafbb2ba32bd4ff395d587",
       "finished_at": "2026-10-31T05:04:55+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06233",
+      "started_at": "2026-10-31T05:15:43+00:00",
+      "source": "_drafts/2026-10-31-den-tho-trang-bung-phung-khac-khoan-o-thach-that-bang-xe-may-khu-lang-mo-bia-da.md",
+      "destination": "_posts/2026-10-31-den-tho-trang-bung-phung-khac-khoan-o-thach-that-bang-xe-may-khu-lang-mo-bia-da.md",
+      "result": "PUBLISHED",
+      "commit_sha": "b9a2f5359194a015ebc492016e1b44dbb7c53607",
+      "finished_at": "2026-10-31T05:15:44+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06235",
+      "started_at": "2026-10-31T05:15:44+00:00",
+      "source": "_drafts/2026-10-31-van-mieu-son-tay-o-lang-mong-phu-bang-xe-may-noi-ton-vinh-nguoi-do-dat-xu-doai-v.md",
+      "destination": "_posts/2026-10-31-van-mieu-son-tay-o-lang-mong-phu-bang-xe-may-noi-ton-vinh-nguoi-do-dat-xu-doai-v.md",
+      "result": "PUBLISHED",
+      "commit_sha": "b9a2f5359194a015ebc492016e1b44dbb7c53607",
+      "finished_at": "2026-10-31T05:15:44+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
