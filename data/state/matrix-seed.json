@@ -9949,6 +9949,26 @@
           "audience": "Người mới bắt đầu làm giao hàng ở Hà Nội",
           "location_scope": "Hà Nội",
           "word_target": 1300
+        },
+        {
+          "title": "Nghỉ Tết Đinh Mùi 2027 bảy ngày từ 4/2 đến 10/2: thuê xe máy gói tuần trọn kỳ nghỉ, nhận xe hôm nào và trả xe hôm nào",
+          "intent": "Người dùng hỏi: «Tết Đinh Mùi 2027 được nghỉ liền 7 ngày thì thuê xe máy gói tuần có vừa không, nên nhận và trả xe vào ngày nào?». Bài đối chiếu thông báo lịch nghỉ của Bộ Nội vụ (khu vực nhà nước nghỉ từ thứ Năm 4/2 đến hết thứ Tư 10/2/2027, tức 28 tháng Chạp đến mùng 5 tháng Giêng; doanh nghiệp chọn một trong ba phương án 3/2–9/2, 4/2–10/2 hoặc 5/2–11/2) với gói tuần trong bảng giá đã duyệt (Wave, Click/Mio 700.000 đồng/tuần; Vision, Air Blade 1.000.000 đồng/tuần so với cộng 7 ngày lẻ), lưu ý năm nay tháng Chạp thiếu nên không có ngày 30 Tết (29 Chạp, thứ Sáu 5/2 là giao thừa), mùng 6 (thứ Năm 11/2) là ngày đi làm lại, cách đặt xe sớm và hỏi trực tiếp lịch giao nhận trong giờ 09:00–21:00 những ngày Tết; không khẳng định giá dịp Tết hay lịch mở cửa chưa xác nhận. Người đọc là người ở lại hoặc về Hà Nội ăn Tết cần xe trọn kỳ nghỉ, khác bài thuê xe tuần dịp Tết chung chung (BLG-03015) ở chỗ tính theo đúng lịch nghỉ 2027 và ba phương án nghỉ của doanh nghiệp.",
+          "kw": "thuê xe máy tết đinh mùi 2027",
+          "kw2": [
+            "lịch nghỉ tết đinh mùi 2027",
+            "thuê xe máy gói tuần dịp tết",
+            "tết 2027 không có ngày 30",
+            "nhận xe trước 28 tháng chạp"
+          ],
+          "links": [
+            "/thue-xe/thue-tuan/",
+            "/thue-xe/",
+            "/bang-gia/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người ở Hà Nội hoặc về Hà Nội ăn Tết Đinh Mùi 2027 cần xe máy suốt kỳ nghỉ 7 ngày",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
         }
       ]
     },
@@ -29696,6 +29716,25 @@
           "audience": "người đang cân nhắc giữa xe 50cc và xe 110cc",
           "location_scope": "Hà Nội",
           "word_target": 1300
+        },
+        {
+          "title": "Xe 50cc có phải kiểm định khí thải ở Hà Nội không: lộ trình riêng của xe gắn máy theo Quyết định 13/2026/QĐ-TTg",
+          "intent": "Người dùng hỏi: «Xe ga 50cc, xe số 50cc của con đi học có phải kiểm định khí thải không và áp mức nào?». Bài giải thích khoản 2 Điều 42 Luật 36/2024/QH15 và Quyết định 13/2026/QĐ-TTg phân biệt xe gắn máy với xe mô tô: xe gắn máy sản xuất trước 2016 mức 1, 2017–30/6/2027 mức 2, từ 01/7/2027 mức 4; Hà Nội bắt đầu kiểm định từ 01/7/2027 và yêu cầu mức 2 trở lên từ 01/01/2028; giới hạn HC riêng cho động cơ 2 kỳ và 4 kỳ trong QCVN 99:2025/BNNMT; cách xác định năm sản xuất theo Điều 36 Thông tư 79/2024/TT-BCA. Không nêu tiền phạt, không nêu chi phí. Người đọc là phụ huynh, học sinh và người dùng xe 50cc ở Hà Nội; khác bài kiểm định khí thải xe mô tô ở chỗ chỉ xét nhóm xe gắn máy có lộ trình mức khác.",
+          "kw": "xe 50cc kiểm định khí thải",
+          "kw2": [
+            "xe gắn máy mức khí thải",
+            "xe 50cc 2 kỳ khí thải",
+            "xe 50cc đời cũ Hà Nội 2028",
+            "Quyết định 13/2026 xe gắn máy"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Phụ huynh, học sinh THPT và người dùng xe 50cc ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
         }
       ]
     },
@@ -32409,6 +32448,63 @@
           "subtopic": "refill-2026-10-20-W2-074",
           "audience": "sinh viên, người đi làm cần lên Hòa Lạc bằng xe máy điện thuê",
           "location_scope": "nội thành Hà Nội đến Hòa Lạc, Thạch Thất",
+          "word_target": 1300
+        },
+        {
+          "title": "Sạc xe máy điện trong nhà ống, chung cư mini ở Hà Nội: Luật Phòng cháy 2024 yêu cầu gì với bộ sạc và chỗ sạc",
+          "intent": "Người dùng hỏi: «Từ khi có luật phòng cháy mới, sạc xe máy điện trong nhà, dưới tầng một chung cư mini có bị cấm không và phải làm gì cho đúng?». Bài giải thích điểm d khoản 1 Điều 24 Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15 (hiệu lực 01/7/2025): chỉ dùng thiết bị sạc đạt quy chuẩn kỹ thuật quốc gia, nơi sạc trong nhà phải có giải pháp bảo đảm an toàn phòng cháy, khu vực sạc tập trung trong nhà phải có giải pháp ngăn cháy và phương tiện chữa cháy phù hợp; trách nhiệm của chủ nhà trọ, ban quản lý theo Nghị định 105/2025/NĐ-CP; người thuê xe điện nên hỏi chủ nhà, chủ xe về chỗ sạc và bộ sạc đi kèm. Không nêu tiền phạt. Người đọc là người dùng, người thuê xe máy điện ở nhà trọ, chung cư mini Hà Nội; khác BLG-01141 (mẹo sạc qua đêm an toàn) và BLG-03679 (lưu ý phòng cháy khi để xe qua đêm) ở chỗ trình bày nghĩa vụ pháp lý mới về sạc.",
+          "kw": "quy định sạc xe điện trong nhà",
+          "kw2": [
+            "Luật Phòng cháy 2024 sạc xe điện",
+            "khu vực sạc tập trung chung cư mini",
+            "bộ sạc đạt quy chuẩn",
+            "sạc xe máy điện nhà trọ"
+          ],
+          "links": [
+            "/xe-may/xe-dien/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Người dùng, người thuê xe máy điện sống ở nhà trọ, nhà ống, chung cư mini Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Tem nhận diện màu xanh lá trên biển số xe máy điện theo Thông tư 79/2024: xe nào được gắn và để làm gì",
+          "intent": "Người dùng hỏi: «Thấy có xe máy điện gắn tem tròn màu xanh lá trên biển số, xe nào được gắn, có bắt buộc không và có liên quan vùng phát thải thấp không?». Bài giải thích điểm e khoản 5 Điều 37 Thông tư 79/2024/TT-BCA: biển số xe sử dụng năng lượng sạch, năng lượng xanh, thân thiện môi trường có gắn tem nhận diện màu xanh lá cây (Phụ lục 04, mẫu ĐKX16 tại Điều 34), phân biệt với tem nền đỏ và vàng của biển số trúng đấu giá; liên hệ Nghị quyết 57/2025/NQ-HĐND cho phép phương tiện không phát sinh khí thải, sử dụng năng lượng sạch lưu thông trong vùng phát thải thấp; khuyên hỏi cơ quan đăng ký khi xe chưa có tem; không suy diễn ưu đãi chưa có văn bản. Người đọc là người dùng, người thuê xe máy điện ở Hà Nội; khác BLG-04593 (cách đọc biển số, màu nền biển) ở chỗ nói về tem nhận diện xe năng lượng sạch.",
+          "kw": "tem xanh lá biển số xe điện",
+          "kw2": [
+            "tem nhận diện xe năng lượng sạch",
+            "Điều 37 Thông tư 79/2024",
+            "biển số xe máy điện Hà Nội",
+            "xe điện vùng phát thải thấp"
+          ],
+          "links": [
+            "/xe-may/xe-dien/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Người dùng, người thuê xe máy điện ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Xe máy điện có phải đi kiểm định khí thải từ 1/7/2027 như xe xăng không: phạm vi QCVN 99:2025 và Luật 36/2024",
+          "intent": "Người dùng hỏi: «Hà Nội sắp kiểm định khí thải xe máy, vậy xe máy điện của nhà tôi có phải mang đi kiểm định không?». Bài giải thích khoản 2 Điều 42 Luật 36/2024/QH15 (việc kiểm định với xe mô tô, xe gắn máy chỉ là kiểm định khí thải), phạm vi QCVN 99:2025/BNNMT (Thông tư 92/2025/TT-BNNMT) chỉ đặt giới hạn CO, HC cho xe lắp động cơ cháy cưỡng bức, lộ trình của Quyết định 13/2026/QĐ-TTg; vì vậy xe chạy hoàn toàn bằng điện không có thông số khí thải để đo nhưng vẫn phải đăng ký, gắn biển, mua bảo hiểm bắt buộc và bảo đảm điều kiện kỹ thuật; nhắc theo dõi văn bản hướng dẫn kiểm định của Bộ Xây dựng nếu có thay đổi, không khẳng định điều chưa có văn bản. Người đọc là người dùng, người thuê xe máy điện ở Hà Nội; khác BLG-00657 (quy định quản lý xe máy điện chung) ở chỗ trả lời riêng câu hỏi kiểm định khí thải.",
+          "kw": "xe máy điện có phải kiểm định",
+          "kw2": [
+            "xe điện kiểm định khí thải",
+            "QCVN 99:2025 động cơ cháy cưỡng bức",
+            "xe máy điện Hà Nội 2027",
+            "đăng kiểm xe máy điện"
+          ],
+          "links": [
+            "/xe-may/xe-dien/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Người dùng, người thuê xe máy điện ở Hà Nội",
+          "location_scope": "Hà Nội",
           "word_target": 1300
         }
       ]
@@ -43785,6 +43881,25 @@
           "audience": "người thuê xe đạp điện theo tháng",
           "location_scope": "Hà Nội",
           "word_target": 1300
+        },
+        {
+          "title": "Bảo dưỡng xe máy cũ trước đợt kiểm định khí thải 2027: lọc gió, bugi, hòa khí và những lỗi khiến CO, HC vượt ngưỡng",
+          "intent": "Người dùng hỏi: «Xe máy nhà đã hơn 10 năm, muốn đi kiểm định khí thải năm 2027 cho đạt thì cần chỉnh, thay gì trước?». Bài giải thích hai thông số CO, HC mà QCVN 99:2025/BNNMT (Thông tư 92/2025/TT-BNNMT) đo, các nguyên nhân kỹ thuật thường làm vượt giới hạn (lọc gió bẩn, bugi mòn, hòa khí đậm, xéc măng mòn đốt nhớt, kim phun hoặc chế hòa khí bẩn, ống xả thủng), việc nên làm ở tiệm quen trước khi đến cơ sở kiểm định; dẫn mốc 01/7/2027 của Quyết định 13/2026/QĐ-TTg; không hứa chắc đạt, không nêu chi phí sửa chữa. Người đọc là chủ xe máy cũ ở Hà Nội; khác BLG-02172 (màu khói pô nói lên điều gì) ở chỗ chuẩn bị xe cho phép đo khí thải theo quy chuẩn.",
+          "kw": "bảo dưỡng xe máy trước kiểm định khí thải",
+          "kw2": [
+            "xe máy vượt CO HC",
+            "chuẩn bị kiểm định khí thải 2027",
+            "xe máy cũ đốt nhớt khí thải",
+            "chỉnh chế hòa khí trước kiểm định"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Chủ xe máy xăng đã dùng trên 10 năm ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
         }
       ]
     },
@@ -50436,6 +50551,44 @@
           "audience": "Người đi đường ở Hà Nội muốn gửi hình ảnh vi phạm giao thông cho công an",
           "location_scope": "Hà Nội",
           "word_target": 1300
+        },
+        {
+          "title": "Dán phim, xịt phản quang hay gắn khung đèn khiến camera khó đọc biển số xe máy: lỗi được Nghị định 238/2026 bổ sung",
+          "intent": "Người dùng hỏi: «Ngoài chợ bán phim dán, bình xịt phản quang và khung biển số có đèn để camera phạt nguội không chụp rõ biển, dùng cho xe máy có sao không?». Bài giải thích Điều 4 Nghị định 238/2026/NĐ-CP (hiệu lực 15/8/2026) sửa điểm b khoản 3 Điều 14 Nghị định 168/2024/NĐ-CP, bổ sung hành vi sử dụng chất liệu, vật liệu, thiết bị làm thay đổi khả năng nhận diện thông tin biển số xe của phương tiện, thiết bị kỹ thuật nghiệp vụ; hình thức trừ điểm giấy phép lái xe tại điểm b khoản 8 Điều 14; đối chiếu khoản 17 Điều 9 Luật 36/2024/QH15 (cấm che lấp, làm thay đổi biển số); cách tự kiểm tra biển số xe đang đi hoặc xe thuê; không nêu số tiền phạt. Người đọc là người đi xe máy và người thuê xe ở Hà Nội; khác BLG-05269 (gắn biển sai vị trí, dán đè, mượn biển) và BLG-04501 (biển bẩn, cong, bị đồ treo che) ở chỗ nói về vật liệu, thiết bị chống camera mới bị bổ sung từ 15/8/2026.",
+          "kw": "dán phản quang biển số xe máy",
+          "kw2": [
+            "phim chống camera biển số",
+            "Nghị định 238/2026 biển số",
+            "khung biển số có đèn",
+            "trừ điểm lỗi biển số xe máy"
+          ],
+          "links": [
+            "/an-toan-phap-ly/phat-nguoi/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Người đi xe máy, người thuê xe ở Hà Nội đang được mời mua đồ chống camera",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Quyết định xử phạt lỗi xe máy gửi qua bưu điện, điện tử hay niêm yết ở phường nơi cư trú: hiểu Điều 70 sửa đổi 2025",
+          "intent": "Người dùng hỏi: «Tôi không còn ở địa chỉ thường trú, nếu quyết định xử phạt lỗi giao thông được niêm yết ở phường thì có bị coi là đã nhận không?». Bài giải thích Điều 70 Luật Xử lý vi phạm hành chính được sửa bởi khoản 14 Điều 1 Luật 88/2025/QH15 (hiệu lực 01/7/2025): thời hạn 03 ngày làm việc gửi quyết định; bốn hình thức gửi gồm giao trực tiếp, bưu chính bảo đảm, phương thức điện tử và niêm yết tại nơi cư trú hoặc qua UBND cấp xã khi không thực hiện được các cách trên; khoản 1 Điều 71 về chuyển quyết định về nơi cư trú để thi hành; cách tự kiểm tra trên VNeTraffic, VNeID và cập nhật nơi ở. Không nêu tiền phạt. Người đọc là người đi xe máy hay đổi chỗ ở, người thuê trọ ở Hà Nội; khác BLG-04531 (thời hạn ra quyết định, nộp tiền) và BLG-05921 (ý nghĩa thông báo, biên bản, quyết định) ở chỗ cách quyết định được gửi tới người vi phạm.",
+          "kw": "gửi quyết định xử phạt vi phạm",
+          "kw2": [
+            "niêm yết quyết định xử phạt",
+            "Điều 70 Luật Xử lý vi phạm hành chính",
+            "quyết định xử phạt gửi điện tử",
+            "Luật 88/2025/QH15"
+          ],
+          "links": [
+            "/an-toan-phap-ly/phat-nguoi/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Người đi xe máy hay chuyển chỗ ở, người thuê trọ ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
         }
       ]
     },
@@ -51964,6 +52117,25 @@
           "audience": "Người đi xe máy trên đường nhiều làn và đường dẫn lên cầu ở Hà Nội",
           "location_scope": "Hà Nội",
           "word_target": 1300
+        },
+        {
+          "title": "Đầu ngõ không có biển cấm mà vẫn bị xử lý lỗi đi vào khu vực cấm xe máy: cụm từ mới trong Nghị định 238/2026",
+          "intent": "Người dùng hỏi: «Đi xe máy xăng vào một khu vực Hà Nội hạn chế theo khung giờ, đầu ngõ không thấy biển, có bị coi là vi phạm không?». Bài giải thích khoản 3 Điều 19 Nghị định 238/2026/NĐ-CP (hiệu lực 15/8/2026) bổ sung cụm “hoặc có quy định cấm của cấp có thẩm quyền đối với loại phương tiện đang điều khiển” vào điểm b khoản 6 Điều 7 Nghị định 168/2024/NĐ-CP (kèm trừ 02 điểm giấy phép lái xe theo điểm a khoản 13 Điều 7); liên hệ thẩm quyền hạn chế phương tiện của Thành phố tại Điều 13 Luật Thủ đô 02/2026/QH16, Nghị quyết 57/2025/NQ-HĐND và Quyết định 3273/QĐ-UBND về vùng phát thải thấp; cách tra thông báo phân luồng chính thức trước khi vào khu trung tâm; không nêu số tiền phạt. Người đọc là người đi xe máy và khách thuê xe vào khu trung tâm Hà Nội; khác BLG-04540 (biển cấm có hiệu lực đến đâu) và BLG-04541 (biển cấm kèm khung giờ) ở chỗ lệnh cấm có thể đến từ văn bản của cơ quan có thẩm quyền chứ không chỉ từ biển báo.",
+          "kw": "đi vào khu vực cấm xe máy",
+          "kw2": [
+            "quy định cấm của cấp có thẩm quyền",
+            "Nghị định 238/2026 khu vực cấm",
+            "vùng hạn chế xe máy Hà Nội",
+            "không có biển cấm vẫn bị phạt"
+          ],
+          "links": [
+            "/an-toan-phap-ly/bien-bao/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Người đi xe máy xăng, khách thuê xe hay vào phố cổ và khu trung tâm Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
         }
       ]
     },
@@ -53488,6 +53660,82 @@
           ],
           "subtopic": "refill-2026-10-29-R29D",
           "audience": "Chủ xe máy cũ ở Hà Nội có xe hỏng hẳn, thải bỏ hoặc bị mất",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Hộ nghèo ở Hà Nội đổi xe máy xăng sang xe điện theo Nghị quyết 68/2026: điều kiện, xử lý xe cũ và đăng ký xe mới",
+          "intent": "Người dùng hỏi: «Nhà tôi thuộc hộ nghèo, có chiếc xe máy xăng cũ; muốn được Hà Nội hỗ trợ đổi sang xe điện thì cần giấy tờ, thủ tục gì?». Bài giải thích Điều 7 Nghị quyết 68/2026/NQ-HĐND (hiệu lực 01/7/2026): đối tượng là cá nhân thuộc hộ nghèo có nơi cư trú hoặc nơi ở hiện tại trên VNeID thuộc Hà Nội được UBND cấp xã xác nhận, chủ sở hữu xe xăng đã đăng ký trước khi Nghị quyết có hiệu lực, chuyển đổi đến hết 31/12/2027, hoàn thành chuyển nhượng hoặc xử lý xe cũ và đăng ký xe xanh mới, mỗi người một lần cho một xe; Kế hoạch 295/KH-UBND; thủ tục thu hồi đăng ký, biển số xe cũ theo khoản 5, 6 Điều 6 Thông tư 79/2024/TT-BCA; lưu ý quy trình chi trả còn chờ quyết định của UBND Thành phố. Chỉ dẫn chiếu văn bản, không tự nêu con số hỗ trợ. Người đọc là hộ gia đình khó khăn ở Hà Nội và người thân giúp làm hồ sơ; matrix chưa có bài về chính sách hỗ trợ chuyển đổi xe.",
+          "kw": "hỗ trợ đổi xe máy xăng sang xe điện",
+          "kw2": [
+            "Nghị quyết 68/2026/NQ-HĐND",
+            "hộ nghèo đổi xe xanh Hà Nội",
+            "thu hồi đăng ký xe máy cũ khi đổi xe điện",
+            "chính sách chuyển đổi phương tiện Hà Nội"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-to/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Hộ nghèo ở Hà Nội đang dùng xe máy xăng và người thân hỗ trợ làm hồ sơ",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Nghỉ nhà nghỉ dọc đường khi đi xe máy xa từ 15/11/2026: giấy tờ tùy thân được chấp nhận và khi lỡ quên căn cước",
+          "intent": "Người dùng hỏi: «Đi xe máy đường dài, đến nhà nghỉ mới phát hiện để quên căn cước, chỉ có bằng lái thì có được nhận phòng không?». Bài giải thích Điều 14 Nghị định 392/2026/NĐ-CP (hiệu lực 15/11/2026) sửa khoản 2 Điều 44 Nghị định 96/2016/NĐ-CP: cơ sở kinh doanh lưu trú kiểm tra một trong các giấy tờ thẻ căn cước, căn cước công dân, hộ chiếu, thẻ thường trú hoặc tạm trú của người nước ngoài, giấy tờ khác có ảnh do cơ quan nhà nước Việt Nam cấp; khách không có giấy tờ vẫn được bố trí phòng nhưng cơ sở phải báo ngay Công an cấp xã; chuẩn bị bản giấy và dữ liệu trên VNeID trước chuyến đi. Người đọc là người đi xe máy đường dài, khách thuê xe đi tỉnh; khác BLG-04606 (khai báo lưu trú ở homestay) và BLG-04607 (bằng lái thay căn cước nói chung) ở chỗ áp dụng quy định mới tại nhà nghỉ, khách sạn.",
+          "kw": "giấy tờ tùy thân khi thuê nhà nghỉ",
+          "kw2": [
+            "Nghị định 392/2026 lưu trú",
+            "quên căn cước khi đi phượt",
+            "bằng lái thay căn cước nhà nghỉ",
+            "khách không có giấy tờ nhận phòng"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-to/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Người đi xe máy đường dài, khách thuê xe máy đi các tỉnh miền Bắc",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Mua lại xe máy cũ trong Hà Nội: người mua đăng ký sang tên ở công an phường nào, chuẩn bị gì và bao lâu có kết quả",
+          "intent": "Người dùng hỏi: «Mua xe máy cũ của người cùng ở Hà Nội, sau khi người bán làm thu hồi thì tôi đi sang tên ở đâu, cần mang gì?». Bài giải thích Thông tư 79/2024/TT-BCA (Văn bản hợp nhất 41/VBHN-BCA, sửa bởi Thông tư 51/2025/TT-BCA, Thông tư 37/2026/TT-BCA): khoản 5 Điều 6 (người bán giữ đăng ký, biển số, làm thu hồi trong 30 ngày), Điều 15 (người nhận chuyển quyền làm đăng ký sang tên tại cơ quan đăng ký theo Điều 4), khoản 4 Điều 4 (Công an cấp xã trong thành phố đăng ký xe mô tô), khoản 2 Điều 16 (hồ sơ: giấy khai, giấy tờ chủ xe, chứng từ chuyển quyền sở hữu, chứng từ lệ phí trước bạ, chứng nhận thu hồi), điểm a khoản 1 Điều 7 (không quá 02 ngày làm việc), kê khai trực tuyến qua VNeID. Không nêu mức lệ phí. Người đọc là người mua xe máy cũ ở Hà Nội; khác BLG-05157 (phía người bán làm thu hồi) và BLG-05159 (xe qua nhiều đời chủ) ở chỗ hướng dẫn người mua trong trường hợp thông thường.",
+          "kw": "thủ tục sang tên xe máy cũ",
+          "kw2": [
+            "đăng ký sang tên xe máy ở công an phường",
+            "hồ sơ sang tên xe máy",
+            "sang tên xe máy mấy ngày",
+            "Thông tư 79/2024 sang tên"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-to/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Người mua xe máy cũ đã qua sử dụng của người khác trong Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Cách biết năm sản xuất xe máy để đối chiếu mức khí thải: ký tự thứ 10 số khung theo Thông tư 79/2024",
+          "intent": "Người dùng hỏi: «Làm sao biết xe máy nhà mình sản xuất năm nào để biết sắp tới phải đạt mức khí thải nào?». Bài giải thích Điều 36 Thông tư 79/2024/TT-BCA (Văn bản hợp nhất 41/VBHN-BCA): năm sản xuất xác định qua dữ liệu điện tử do cơ quan đăng kiểm chia sẻ, xe nhập khẩu theo giấy chứng nhận chất lượng hoặc thông báo miễn kiểm tra, các trường hợp khác theo ký tự thứ 10 của số khung; cách tìm số khung trên xe và trên chứng nhận đăng ký; vì sao năm sản xuất quyết định mức áp dụng trong Quyết định 13/2026/QĐ-TTg; phân biệt năm sản xuất với năm đăng ký. Người đọc là chủ xe máy cũ ở Hà Nội, người mua xe cũ; khác BLG-05165 (cách đọc giấy đăng ký xe) và BLG-05166 (số khung mờ, đóng lại số) ở chỗ xác định đời xe.",
+          "kw": "cách xem năm sản xuất xe máy",
+          "kw2": [
+            "ký tự thứ 10 số khung xe máy",
+            "năm sản xuất khác năm đăng ký",
+            "Điều 36 Thông tư 79/2024",
+            "đời xe máy và mức khí thải"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-to/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Chủ xe máy cũ, người mua xe máy đã qua sử dụng ở Hà Nội",
           "location_scope": "Hà Nội",
           "word_target": 1300
         }
@@ -55362,6 +55610,44 @@
           ],
           "subtopic": "refill-2026-10-29-R29D",
           "audience": "Người đi xe máy trong phố và trên đường vành đai ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Kiểm định khí thải xe máy ở Hà Nội từ 1/7/2027: xe mô tô đời nào phải đạt mức nào theo Quyết định 13/2026/QĐ-TTg",
+          "intent": "Người dùng hỏi: «Bao giờ xe máy ở Hà Nội phải đi kiểm định khí thải và chiếc xe số đời 2012 của tôi phải đạt mức nào?». Bài giải thích Quyết định 13/2026/QĐ-TTg (02/4/2026): Hà Nội bắt đầu kiểm định khí thải từ 01/7/2027; xe mô tô sản xuất trước 2008 áp mức 1, 2008–2016 mức 2, 2017–30/6/2026 mức 3, từ 01/7/2026 mức 4; từ 01/01/2028 xe tham gia giao thông tại Hà Nội phải đạt mức 2 trở lên; khoản 2 Điều 42 Luật 36/2024/QH15 (xe mô tô, xe gắn máy chỉ kiểm định khí thải); giới hạn CO, HC của QCVN 99:2025/BNNMT ban hành kèm Thông tư 92/2025/TT-BNNMT; chu kỳ kiểm định theo mục 8 Phụ lục V Thông tư 47/2024/TT-BGTVT; Công văn 3676/UBND-NNMT của Hà Nội về hệ thống cơ sở kiểm định. Không nêu tiền phạt. Người đọc là chủ xe máy ở Hà Nội; khác BLG-05272 (niên hạn sử dụng xe cũ) và BLG-01384 (quy định kiểm định chung) ở chỗ có mốc và mức áp dụng cụ thể theo đời xe.",
+          "kw": "kiểm định khí thải xe máy hà nội",
+          "kw2": [
+            "Quyết định 13/2026/QĐ-TTg",
+            "mức khí thải xe máy theo năm sản xuất",
+            "QCVN 99:2025/BNNMT",
+            "kiểm định khí thải từ 1/7/2027"
+          ],
+          "links": [
+            "/an-toan-phap-ly/quy-dinh-giao-thong/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Chủ xe máy xăng đang sinh sống, làm việc ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Chạy xe ôm, giao hàng công nghệ bằng xe máy xăng: từ 1/1/2027 không được vào vùng phát thải thấp Hoàn Kiếm, Cửa Nam",
+          "intent": "Người dùng hỏi: «Tôi chạy xe ôm công nghệ, giao đồ ăn bằng xe máy xăng (có lúc là xe thuê tháng), sang năm còn nhận cuốc trong phố cổ không?». Bài giải thích Quyết định 3273/QĐ-UBND (29/6/2026) phê duyệt Đề án vùng phát thải thấp trong Vành đai 1 theo Nghị quyết 57/2025/NQ-HĐND: giai đoạn 1 (01/7–31/12/2026) chỉ khuyến khích hạn chế; giai đoạn 2 (01/01–31/12/2027) không cho phép xe mô tô, xe gắn máy dùng nhiên liệu hóa thạch hoạt động trên nền tảng ứng dụng lưu thông trong Khu vực 1, 2, 3 thuộc phường Hoàn Kiếm, Cửa Nam và nền tảng phải điều hướng; giai đoạn 3 từ 2028 mở rộng toàn Vành đai 1; Khu vực 1 cấm mọi phương tiện 19–24 giờ thứ Sáu đến Chủ nhật. Không nêu tiền phạt. Người đọc là tài xế công nghệ, shipper và người thuê xe tháng để chạy dịch vụ; khác BLG-05271 (lộ trình chung) và BLG-00091 (chạy xe ôm thời vụ bằng xe thuê) ở chỗ quy định riêng cho xe hoạt động trên ứng dụng.",
+          "kw": "xe công nghệ vùng phát thải thấp",
+          "kw2": [
+            "shipper xe máy xăng phố cổ 2027",
+            "xe ôm công nghệ Hoàn Kiếm Cửa Nam",
+            "Quyết định 3273/QĐ-UBND xe công nghệ",
+            "chuyển sang xe điện chạy giao hàng"
+          ],
+          "links": [
+            "/an-toan-phap-ly/quy-dinh-giao-thong/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Tài xế xe ôm công nghệ, shipper dùng xe máy xăng ở Hà Nội",
           "location_scope": "Hà Nội",
           "word_target": 1300
         }
@@ -57787,6 +58073,63 @@
           "audience": "gia đình có con nhỏ ở Hà Nội",
           "location_scope": "Hà Nội",
           "word_target": 1300
+        },
+        {
+          "title": "Khai hội chùa Hương 2027 rơi vào thứ Năm 11/2, ngày đầu đi làm sau Tết: đi đúng ngày khai hội hay chờ cuối tuần",
+          "intent": "Người dùng hỏi: «Khai hội chùa Hương năm 2027 là ngày nào, đi đúng hôm khai hội hay để cuối tuần?». Bài quy đổi mùng 6 tháng Giêng Đinh Mùi sang thứ Năm 11/2/2027 (cũng là ngày đi làm lại sau kỳ nghỉ Tết 4/2–10/2), nhắc lễ hội năm trước kéo dài từ mùng 2 tháng Giêng đến 25 tháng Ba âm lịch và chờ ban tổ chức xã Hương Sơn công bố cho năm 2027, so sánh ba phương án: đi trong kỳ nghỉ trước khai hội, đi đúng ngày khai hội giữa tuần hay đi cuối tuần 13–14/2 và các tuần sau rằm, kèm giờ xuất phát từ Hà Nội, đoạn qua Vân Đình dễ ùn và lưu ý gửi xe; không bịa giá vé, giá đò. Người đọc là người đang chọn ngày đi chùa Hương đầu năm, khác các bài đường đi và gửi xe chùa Hương (BLG-01387, BLG-02346) ở chỗ trả lời câu hỏi chọn ngày theo đúng lịch 2027.",
+          "kw": "khai hội chùa hương 2027",
+          "kw2": [
+            "chùa hương mùng 6 tháng giêng 2027",
+            "đi chùa hương ngày nào đỡ đông",
+            "lễ hội chùa hương đinh mùi",
+            "đi chùa hương bằng xe máy đầu năm"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người Hà Nội chọn ngày đi chùa Hương đầu xuân 2027 bằng xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Đi lễ chùa đêm giao thừa Đinh Mùi (tối 5/2/2027) bằng xe máy: chọn chùa gần nhà, gửi xe lúc khuya và về sau 0 giờ",
+          "intent": "Người dùng hỏi: «Đêm giao thừa năm nay muốn đi lễ chùa bằng xe máy thì đi chùa nào, gửi xe ở đâu và về thế nào cho an toàn?». Bài nêu giao thừa Đinh Mùi rơi vào đêm 29 tháng Chạp (tối thứ Sáu 5/2/2027, năm nay không có ngày 30), khuyên chọn chùa, đền gần nhà thay vì dồn về các điểm rất đông như Phủ Tây Hồ, chùa Trấn Quốc, chùa Quán Sứ, đi trước 23 giờ, hỏi giờ bãi gửi xe đóng, không bẻ cành hái lộc, giữ đồ trong đám đông, tránh khu vực bắn pháo hoa và người đã uống rượu không cầm lái; đường về sau 0 giờ có nhiều người phóng nhanh. Người đọc là gia đình, người trẻ ở Hà Nội đi lễ giao thừa, khác bài xem pháo hoa Hồ Gươm đêm giao thừa (BLG-02629) và các bài đi lễ đầu năm ban ngày ở chỗ trả lời riêng chuyến đi lễ lúc nửa đêm.",
+          "kw": "đi lễ chùa đêm giao thừa",
+          "kw2": [
+            "giao thừa đinh mùi 2027",
+            "đêm 29 tháng chạp 2027",
+            "gửi xe đi lễ đêm giao thừa",
+            "về nhà sau giao thừa bằng xe máy"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "gia đình và người trẻ ở Hà Nội đi lễ chùa đêm giao thừa bằng xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Lễ hội đền Hai Bà Trưng phố Hương Viên 12–14/3/2027: xem lễ rước nước bên sông Hồng và gửi xe máy quanh Đồng Nhân",
+          "intent": "Người dùng hỏi: «Lễ hội đền Hai Bà Trưng ở Đồng Nhân năm 2027 vào ngày nào, đi xem lễ rước nước bằng xe máy thì gửi xe ở đâu?». Bài quy đổi mùng 5–7 tháng Hai Đinh Mùi sang thứ Sáu 12/3 đến Chủ nhật 14/3/2027, nêu lễ hội đã vào danh mục di sản văn hóa phi vật thể quốc gia (Quyết định 325/QĐ-BVHTTDL năm 2025), các phần theo năm trước như lễ dâng hương và cấp thủy ở miếu thờ Hai Bà Trưng bên bến sông Hồng phía Bạch Đằng, rước về đền – chùa – đình Hai Bà Trưng ở 12 phố Hương Viên, lễ kỷ niệm ngày mùng 6; hướng dẫn đi xe máy theo hướng phố Lò Đúc – Hương Viên, gửi xe ở ngõ xung quanh rồi đi bộ theo đoàn rước, không đi xe vào đoạn đường đang rước; chờ lịch chính thức của địa phương. Người đọc là người Hà Nội muốn xem lễ hội, khác bài đến đền Hai Bà Trưng ngày thường (BLG-01833) ở chỗ trả lời riêng ba ngày lễ hội năm 2027.",
+          "kw": "lễ hội đền hai bà trưng đồng nhân",
+          "kw2": [
+            "lễ rước nước hai bà trưng",
+            "đền hai bà trưng phố hương viên",
+            "mùng 6 tháng hai 2027",
+            "gửi xe xem lễ hội đồng nhân"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người Hà Nội muốn đi xe máy xem lễ hội đền Hai Bà Trưng ở Đồng Nhân năm 2027",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
         }
       ]
     },
@@ -59169,6 +59512,25 @@
           ],
           "subtopic": "refill-2026-10-29-R29E",
           "audience": "người học tiếng Nhật, sinh viên và người yêu văn hóa Nhật",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Nghỉ Ngày Văn hóa Việt Nam 24/11/2026: đi xe máy qua các bảo tàng trung ương ở Hà Nội và kiểm tra nơi miễn, giảm vé",
+          "intent": "Người dùng hỏi: «Ngày 24/11/2026 lần đầu được nghỉ dịp Ngày Văn hóa Việt Nam thì đi bảo tàng nào ở Hà Nội bằng xe máy, có được miễn vé không?». Bài nêu lịch nghỉ đã chốt (nghỉ một ngày thứ Ba 24/11/2026, không hoán đổi, theo Nghị quyết 28/2026/QH16 và văn bản 10065/VPCP-KGVX), quy định miễn hoặc giảm phí tham quan tại cơ sở văn hóa công lập theo quyết định của cơ quan có thẩm quyền, dự thảo thông tư của Bộ Tài chính đề xuất miễn phí tại các bảo tàng trung ương ở Hà Nội như Bảo tàng Dân tộc học, Lịch sử quốc gia, Mỹ thuật Việt Nam, Phụ nữ Việt Nam, Lịch sử Quân sự Việt Nam (chỉ là đề xuất, phải kiểm tra thông báo chính thức), cách sắp vòng xe máy theo hướng đông – tây trong một ngày, chỗ gửi xe và giờ tránh đoàn học sinh; không bịa giá vé hay giờ mở cửa. Người đọc là người đi làm muốn dùng ngày nghỉ mới cho bảo tàng, khác bài Ngày Di sản 23/11 (BLG-03385) ở chỗ đây là ngày nghỉ hưởng lương lần đầu và chính sách miễn, giảm phí riêng của ngày 24/11.",
+          "kw": "ngày văn hóa việt nam đi bảo tàng",
+          "kw2": [
+            "nghỉ lễ 24/11/2026",
+            "miễn phí tham quan ngày văn hóa việt nam",
+            "bảo tàng trung ương ở hà nội",
+            "đi bảo tàng bằng xe máy"
+          ],
+          "links": [
+            "/du-lich/bao-tang/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người đi làm ở Hà Nội được nghỉ ngày 24/11/2026 muốn đi một vòng bảo tàng bằng xe máy",
           "location_scope": "Hà Nội",
           "word_target": 1300
         }
@@ -60761,6 +61123,25 @@
           ],
           "subtopic": "refill-2026-10-29-R29E",
           "audience": "người trẻ và gia đình đón năm mới dương lịch",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Lễ hội Thiết kế Sáng tạo Hà Nội 2026 (13–29/11): gửi xe máy một chỗ rồi đi bộ Hồ Gươm, chợ Đồng Xuân, Hàng Đậu",
+          "intent": "Người dùng hỏi: «Lễ hội Thiết kế Sáng tạo năm 2026 tổ chức ở đâu, đi xe máy vào phố cổ thì gửi xe chỗ nào để xem được nhiều điểm?». Bài dựa trên Kế hoạch 408/KH-UBND (13–29/11/2026, chủ đề Thăng Long Kẻ Nghệ, khai mạc dự kiến 13/11 ở Quảng trường phía Đông hồ Hoàn Kiếm; các khu chính là phố đi bộ Hồ Gươm, khu phố cổ, chợ Đồng Xuân – Bắc Qua, tháp nước Hàng Đậu, Công viên Thống Nhất cùng chuỗi Chuyện Đình trong Phố, Nghề qua Phố), chỉ ra năm nay các điểm chính nằm sát nhau nên gửi xe một lần ở rìa phố cổ rồi đi bộ, giờ phố đi bộ cuối tuần, tránh len xe vào phố nghề đông khách và để Công viên Thống Nhất cho một chặng xe riêng; không bịa giờ mở cửa từng điểm. Người đọc là người Hà Nội và khách muốn xem lễ hội trong phố cổ, khác bài thuê xe một ngày đi các điểm rải rác (BLG-03623) ở chỗ lễ hội 2026 dồn về phố cổ nên cách đi là gửi xe rồi đi bộ.",
+          "kw": "lễ hội thiết kế sáng tạo 2026",
+          "kw2": [
+            "thăng long kẻ nghệ",
+            "gửi xe đi lễ hội phố cổ",
+            "tháp nước hàng đậu lễ hội",
+            "chợ đồng xuân sắp đặt nghệ thuật"
+          ],
+          "links": [
+            "/du-lich/pho-co/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người Hà Nội và khách muốn xem Lễ hội Thiết kế Sáng tạo 2026 trong phố cổ bằng xe máy",
           "location_scope": "Hà Nội",
           "word_target": 1300
         }
@@ -63997,6 +64378,44 @@
           "audience": "người ở Long Biên và người thích lịch sử thời Lý",
           "location_scope": "Hà Nội",
           "word_target": 1300
+        },
+        {
+          "title": "Thả cá chép ông Công ông Táo ra sông Hồng ngày 30/1/2027: gửi xe máy ở đâu thay vì dừng trên cầu Long Biên",
+          "intent": "Người dùng hỏi: «Ngày 23 tháng Chạp năm nay muốn thả cá chép ra sông Hồng thì để xe máy ở đâu, có được dừng xe trên cầu Long Biên hay Chương Dương để thả không?». Bài quy đổi 23 tháng Chạp Bính Ngọ sang thứ Bảy 30/1/2027, nêu khoản 4 Điều 18 Luật Trật tự, an toàn giao thông đường bộ 2024 không cho dừng, đỗ xe trên cầu trừ nơi tổ chức giao thông cho phép, cảnh các năm trước người dừng xe, ném cá và túi nilon từ trên cầu, rồi hướng dẫn gửi xe ở hai đầu cầu phía Long Biên hoặc phố cổ, đi bộ xuống bãi sông hay bến nước để thả cá sát mặt nước, mang túi rác về và đi giờ sớm cho đỡ đông; không nêu mức phạt. Người đọc là người ở Long Biên và phố cổ đi thả cá, khác bài thả cá ở Hồ Tây (BLG-02646) và bài dừng xe chụp ảnh trên cầu (BLG-04853) ở chỗ trả lời chỗ thả cá ra sông Hồng và chỗ để xe đúng ngày ông Công ông Táo 2027.",
+          "kw": "thả cá chép ra sông hồng",
+          "kw2": [
+            "23 tháng chạp 2027",
+            "thả cá ông công ông táo",
+            "không dừng xe trên cầu long biên",
+            "bãi sông hồng gần cầu chương dương"
+          ],
+          "links": [
+            "/du-lich/long-bien/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người ở Long Biên và phố cổ đi thả cá chép tiễn ông Công ông Táo bằng xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Nút Cổ Linh – Đàm Quang Trung đang làm hầm chui: xe máy rẽ trái, quay đầu dưới gầm cầu Vĩnh Tuy thế nào",
+          "intent": "Người dùng hỏi: «Nút Cổ Linh – Đàm Quang Trung chân cầu Vĩnh Tuy giờ bị quây làm hầm chui, không còn đèn, đi xe máy từ Cổ Linh muốn ra quốc lộ 5 hay lên cầu Vĩnh Tuy thì rẽ, quay đầu ở đâu?». Bài dựa trên phương án của Sở Xây dựng Hà Nội áp dụng từ 18/3/2026 (rào chắn đến 30/4/2027): nút chuyển sang không dùng đèn tín hiệu, hướng từ Cổ Linh phía cầu Long Biên đi quốc lộ 5 rẽ phải vào Đàm Quang Trung rồi quay đầu dưới gầm cầu Vĩnh Tuy hoặc đi thẳng qua cầu vượt Cổ Linh tới nút Thạch Bàn; hướng từ phía cao tốc Hà Nội – Hải Phòng đi cầu Vĩnh Tuy rẽ phải vào Đàm Quang Trung quay đầu trên tuyến hoặc đi thẳng quay đầu tại nút Trần Đăng Khoa; cấm dừng, đỗ tại vị trí quay đầu dưới gầm cầu; đầu phố Trạm bị rào, đi ngõ 64 Cổ Linh; phương án ô tô một chiều ở cổng Aeon Mall từ 1/8/2026; mục tiêu thông xe hầm trước Tết Đinh Mùi 2027. Người đọc là người ở, thuê xe quanh Long Biên, khác bài BLG-02290 (AEON Mall Long Biên: đường đi và hầm gửi xe) và BLG-03455 (đường Cổ Linh buổi tối) ở chỗ cách đi qua chính nút công trường.",
+          "kw": "nút Cổ Linh Đàm Quang Trung xe máy",
+          "kw2": [
+            "hầm chui cổ linh rào chắn",
+            "quay đầu dưới gầm cầu vĩnh tuy",
+            "từ cổ linh đi quốc lộ 5",
+            "chân cầu vĩnh tuy phía long biên"
+          ],
+          "links": [
+            "/du-lich/long-bien/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-29-R29L",
+          "audience": "Người ở, thuê xe máy quanh Bồ Đề, Long Biên đi về phía cầu Vĩnh Tuy, quốc lộ 5",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
         }
       ]
     },
@@ -65871,6 +66290,25 @@
           "audience": "người thích làng cổ yên tĩnh ít khách",
           "location_scope": "Hà Nội",
           "word_target": 1300
+        },
+        {
+          "title": "Lễ hội đền Hai Bà Trưng ở Mê Linh 11–13/2/2027: đi xe máy qua cầu Thăng Long, xem rước kiệu ngày khai hội và giờ về",
+          "intent": "Người dùng hỏi: «Lễ hội đền Hai Bà Trưng ở Mê Linh năm 2027 vào ngày nào, đi xe máy xem rước kiệu thì đến lúc mấy giờ và gửi xe ra sao?». Bài quy đổi mùng 6–8 tháng Giêng Đinh Mùi sang thứ Năm 11/2 đến thứ Bảy 13/2/2027 (năm 2026 lễ hội tổ chức đúng mùng 6–8 tháng Giêng tại Khu di tích quốc gia đặc biệt đền Hai Bà Trưng, xã Mê Linh, ngày chính hội mùng 6 có lễ kỷ niệm khởi nghĩa và rước kiệu Hai Bà cùng nghi thức giao kiệu đổi vị trí kiệu Trưng Trắc, Trưng Nhị), lưu ý ngày khai hội trùng ngày đi làm đầu tiên sau Tết và trùng khai hội đền Sóc, Cổ Loa nên đường lên phía bắc đông, gợi ý đi sớm qua cầu Thăng Long hoặc cầu Nhật Tân, đứng xem đoàn rước ở chỗ không chắn đường kiệu, gửi xe ở bãi có người trông và chọn thứ Bảy 13/2 nếu không cần xem ngày chính hội; chờ lịch chính thức của địa phương. Người đọc là người nội thành đi hội Mê Linh, khác bài đền Hạ Lôi ngày thường (BLG-02657) ở chỗ trả lời riêng ba ngày hội năm 2027 và nghi lễ rước kiệu.",
+          "kw": "lễ hội đền hai bà trưng mê linh",
+          "kw2": [
+            "rước kiệu hai bà trưng mê linh",
+            "nghi thức giao kiệu",
+            "khai hội mùng 6 tháng giêng 2027",
+            "gửi xe ngày hội mê linh"
+          ],
+          "links": [
+            "/du-lich/ngoai-thanh/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người nội thành Hà Nội đi xe máy lên Mê Linh dự lễ hội đền Hai Bà Trưng đầu xuân 2027",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
         }
       ]
     },
@@ -67361,6 +67799,139 @@
           ],
           "subtopic": "refill-2026-10-29-R29F",
           "audience": "người đi xe máy thuê qua Ba Đình, Đống Đa, Hoàn Kiếm",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Theo dấu mùa đông 1946 bằng xe máy dịp 80 năm Toàn quốc kháng chiến: Vạn Phúc, Pháo đài Láng và Liên khu 1",
+          "intent": "Người dùng hỏi: «Dịp kỷ niệm 80 năm Ngày Toàn quốc kháng chiến 19/12/2026 muốn đi xe máy qua các nơi gắn với đêm 19/12/1946 ở Hà Nội thì đi đâu, theo thứ tự nào?». Bài nối các địa điểm có thật: Nhà lưu niệm nơi Chủ tịch Hồ Chí Minh viết Lời kêu gọi toàn quốc kháng chiến ở làng Vạn Phúc (Hà Đông), Pháo đài Láng cuối ngõ phố Pháo Đài Láng nơi loạt đạn pháo mở đầu lúc 20 giờ 3 phút ngày 19/12/1946, khu phố cổ của Liên khu 1 trong 60 ngày đêm và bãi sông dưới cầu Long Biên nơi Trung đoàn Thủ đô rút ra, sắp thành một cung xe máy nửa ngày đi từ tây vào trung tâm, chỗ dừng xe ở ngõ hẹp và cách cư xử tại nơi tưởng niệm; nhắc ngày 19/12/2026 là thứ Bảy và lễ kỷ niệm cấp quốc gia do Hà Nội chủ trì có thể kèm phân luồng cần theo dõi. Không bịa giờ mở cửa. Người đọc là người Hà Nội và khách thích lịch sử, khác các cung theo dấu năm 1945 (BLG-04773) và 12 ngày đêm 1972 (BLG-04771) ở chỗ đây là sự kiện tháng 12/1946.",
+          "kw": "theo dấu toàn quốc kháng chiến",
+          "kw2": [
+            "80 năm toàn quốc kháng chiến",
+            "pháo đài láng",
+            "nhà lưu niệm bác hồ ở vạn phúc",
+            "liên khu 1 phố cổ"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-noi-thanh/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người Hà Nội và khách thích lịch sử muốn đi xe máy theo dấu sự kiện 19/12/1946 dịp kỷ niệm 80 năm",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Vành đai 2,5 đoạn Nguyễn Trãi – Khương Đình – Đầm Hồng mới thông: đi xe máy từ Thanh Xuân sang Định Công, Hoàng Mai",
+          "intent": "Người dùng hỏi: «Đoạn Vành đai 2,5 từ Nguyễn Trãi qua Khương Đình, cầu Thượng Đình về Đầm Hồng mới thông xe thì đi xe máy từ Thanh Xuân sang Định Công, Hoàng Mai thế nào, có đỡ hơn chen Trường Chinh không?». Bài dựa trên lễ thông xe kỹ thuật ngày 10/10/2026 (đoạn Ngụy Như Kon Tum – Nguyễn Trãi dài khoảng 0,91 km, rộng 40 m; đoạn Nguyễn Trãi – cầu Thượng Đình đã thảm nhựa hai chiều, đoạn cầu Thượng Đình – Đầm Hồng mới thảm một phần) và đoạn Đầm Hồng – Quốc lộ 1A thông xe kỹ thuật ngày 10/2/2026; mô tả lộ trình từ Nguyễn Trãi xuống Khương Đình, qua sông Tô Lịch về Đầm Hồng, nối tiếp sang Định Công, Kim Đồng, chỉ ra đoạn mặt đường còn dở, vỉa hè chưa xong, chỗ nên giảm tốc và cách quay lại trục cũ khi gặp rào. Không nêu tổng vốn dự án, không khẳng định đoạn nào đã hoàn thiện ngoài nguồn báo. Người đọc là người ở trọ, đi làm giữa Thanh Xuân và Hoàng Mai bằng xe máy thuê, khác bài BLG-04764 (Thanh Xuân sang Long Biên theo đường dưới Vành đai 2) ở chỗ dùng trục Vành đai 2,5 mới phía nam.",
+          "kw": "vành đai 2,5 qua Khương Đình",
+          "kw2": [
+            "vành đai 2,5 đầm hồng định công",
+            "đường mới thanh xuân sang hoàng mai",
+            "vành đai 2,5 thông xe 10/10/2026",
+            "cầu thượng đình vành đai 2,5"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-noi-thanh/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-29-R29L",
+          "audience": "Người ở trọ, đi làm giữa Thanh Xuân, Khương Đình và Định Công, Hoàng Mai bằng xe máy thuê",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Vành đai 2,5 qua Cầu Giấy mới thông: đi xe máy giữa Dương Đình Nghệ, Vũ Phạm Hàm và Trần Duy Hưng có đỡ vòng không",
+          "intent": "Người dùng hỏi: «Mấy đoạn Vành đai 2,5 ở Cầu Giấy vừa thông xe thì đi xe máy từ khu Dịch Vọng, Dương Đình Nghệ sang Trung Hòa, Trần Duy Hưng có gần hơn không và đoạn nào còn dở?». Bài dựa trên lễ thông xe kỹ thuật ngày 10/10/2026 theo Sở Xây dựng Hà Nội: đoạn Dịch Vọng – Dương Đình Nghệ dài khoảng 0,71 km, rộng 50 m với phần xe chạy 31 m và dải phân cách giữa, đoạn Vũ Phạm Hàm – Trần Duy Hưng dài khoảng 0,6 km, đoạn Cầu Giấy – Dịch Vọng ngắn còn hoàn thiện; hướng dẫn lối nối giữa các đoạn, điểm nhập dòng với Trần Duy Hưng, Dương Đình Nghệ, chỗ vỉa hè, chiếu sáng chưa đồng bộ và khi nào nên đi đường cũ. Người đọc là người ở, làm việc quanh Cầu Giấy – Trung Hòa đi xe máy thuê, khác bài BLG-04766 (đi lại khu Trung Hòa – Nhân Chính qua Hoàng Đạo Thúy, Lê Văn Lương, Trần Duy Hưng) ở chỗ dùng các đoạn Vành đai 2,5 mới nối Dịch Vọng với Trung Hòa.",
+          "kw": "vành đai 2,5 qua Cầu Giấy",
+          "kw2": [
+            "vành đai 2,5 dương đình nghệ",
+            "vành đai 2,5 vũ phạm hàm trần duy hưng",
+            "đường mới cầu giấy trung hòa",
+            "lối tắt xe máy cầu giấy"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-noi-thanh/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-29-R29L",
+          "audience": "Người ở, làm việc quanh Cầu Giấy, Dịch Vọng, Trung Hòa đi xe máy thuê",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Hầm chui Kim Đồng – Giải Phóng: xe máy có được đi hầm không, từ Định Công sang Kim Đồng và quay đầu trên Giải Phóng",
+          "intent": "Người dùng hỏi: «Hầm chui Kim Đồng – Giải Phóng thông xe rồi thì xe máy có được chui hầm không, từ Định Công sang Kim Đồng đi lối nào, đang trên Giải Phóng muốn vào Kim Đồng quay đầu ở đâu?». Bài dựa trên phương án tổ chức giao thông của Sở Xây dựng Hà Nội khi hầm thông xe kỹ thuật ngày 10/2/2026: phương tiện đi hai chiều dưới hầm theo hướng Kim Đồng – khu đô thị Định Công, hầm cấm xe thô sơ, người đi bộ và xe cao quá 4,75 m; trên Giải Phóng, hướng từ cầu Ngã Tư Vọng đi thẳng, quay đầu tại trung tâm nút hoặc rẽ phải vào Kim Đồng, hướng từ bến xe Giáp Bát quay đầu tại trung tâm nút hoặc hai điểm mở dải phân cách để rẽ trái vào Kim Đồng; hầm dài khoảng 460 m, bốn làn. Bài nhắc bật đèn, giữ làn trong hầm và kiểm tra biển vì tổ chức giao thông có thể điều chỉnh. Người đọc là người đi lại giữa Hoàng Mai, Định Công và Giải Phóng bằng xe máy thuê, khác bài BLG-04776 (đường Trương Định, chỉ nhắc Kim Đồng như lối thoát) ở chỗ hướng dẫn riêng nút hầm chui.",
+          "kw": "hầm chui Kim Đồng xe máy",
+          "kw2": [
+            "hầm chui kim đồng giải phóng",
+            "từ định công sang kim đồng",
+            "quay đầu giải phóng vào kim đồng",
+            "hầm chui vành đai 2,5"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-noi-thanh/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-29-R29L",
+          "audience": "Người đi lại giữa Hoàng Mai, Định Công và trục Giải Phóng bằng xe máy thuê",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Rào chắn ga metro số 5 trên Văn Cao và Nguyễn Chí Thanh: đi xe máy từ Hồ Tây xuống Láng thế nào đến tháng 4/2027",
+          "intent": "Người dùng hỏi: «Đường Văn Cao và đoạn Nguyễn Chí Thanh – La Thành đang quây tôn làm ga metro số 5, đi xe máy từ Hồ Tây xuống Láng, Nguyễn Chí Thanh còn mấy làn, quay đầu ở đâu?». Bài dựa trên thông báo của Ban Quản lý đường sắt đô thị Hà Nội và Sở Xây dựng: rào ga S1 Quần Ngựa trên Văn Cao khoảng 476 m từ 18/6/2026 đến hết 15/4/2027 (hướng đi Nguyễn Chí Thanh còn 3 làn, hướng đi Hồ Tây còn 2 làn, tốc độ tối đa 40 km/h, cấm dừng đỗ trong phạm vi thi công, điểm quay đầu bố trí trước rào để đi Liễu Giai) và rào ga S3 khu nút Nguyễn Chí Thanh – La Thành với vỉa hè xén khoảng 276 m làm đường tạm, mỗi bên còn khoảng 6,5–7,5 m; xe công trường chỉ ra vào 22h–5h. Bài hướng dẫn chọn làn, chỗ hẹp, đi đêm qua hàng rào tôn và đường thay thế qua Liễu Giai, Đào Tấn. Người đọc là người đi làm trục Ba Đình – Đống Đa bằng xe máy thuê, khác bài BLG-06241 (rào ga ngầm tuyến Nhổn – ga Hà Nội trên Kim Mã, Cát Linh) ở chỗ công trường tuyến số 5 trục Văn Cao – Nguyễn Chí Thanh.",
+          "kw": "rào chắn metro số 5 đường Văn Cao",
+          "kw2": [
+            "ga quần ngựa metro số 5",
+            "rào chắn nguyễn chí thanh la thành",
+            "đi xe máy văn cao khi thi công metro",
+            "metro văn cao hòa lạc rào chắn"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-noi-thanh/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-29-R29L",
+          "audience": "Người đi làm trục Ba Đình – Đống Đa, Hồ Tây – Láng bằng xe máy thuê",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Bến xe Yên Sở mới trên đường Đỗ Mười: đi xe máy tới từ nội thành, lối vào cạnh đường gom Vành đai 3 và chỗ để xe",
+          "intent": "Người dùng hỏi: «Bến xe khách Yên Sở mới mở nằm ở đâu, đi xe máy từ nội thành tới đón người thân hoặc gửi xe đi xe khách thì vào lối nào, có chỗ để xe máy không?». Bài dựa trên thông tin khai trương ngày 10/10/2026 (bến đưa vào khai thác từ 2/10/2026, nằm trên đường Đỗ Mười, phường Yên Sở, cạnh đường gom Vành đai 3, gần nút cao tốc Pháp Vân – Cầu Giẽ, cách bến Nước Ngầm khoảng 2 km và Giáp Bát gần 5 km, có tầng hầm đỗ xe và bãi đỗ cho phương tiện khác; tuyến mới chủ yếu đi miền Trung, miền Nam); hướng dẫn lộ trình xe máy theo Giải Phóng – Pháp Vân hoặc Tam Trinh, Lĩnh Nam, không lên Vành đai 3 trên cao, giờ xe khách ra vào đông, cách hỏi chỗ gửi xe máy và đón khách đúng nơi quy định. Không nêu giá vé, giá gửi xe cụ thể. Người đọc là người đi xe máy đưa đón người thân ở bến phía nam, khác bài BLG-01872 (gửi xe ở bến xe khách nói chung) và BLG-01727 (từ Giáp Bát về phố cổ) ở chỗ một bến xe mới.",
+          "kw": "đi xe máy tới bến xe Yên Sở",
+          "kw2": [
+            "bến xe yên sở đường đỗ mười",
+            "bến xe khách yên sở ở đâu",
+            "gửi xe máy bến xe yên sở",
+            "đón người thân bến xe yên sở"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-noi-thanh/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-29-R29L",
+          "audience": "Người đi xe máy đưa đón người thân, đi xe khách ở bến phía nam Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Từ Sài Đồng, Thạch Bàn vào Hai Bà Trưng giờ cao điểm khi nút Cổ Linh ùn tắc: đi cầu Vĩnh Tuy hay vòng sang Chương Dương",
+          "intent": "Người dùng hỏi: «Sáng đi làm từ Sài Đồng, Thạch Bàn sang Hai Bà Trưng mà nút Cổ Linh chân cầu Vĩnh Tuy tắc cả tiếng thì nên cố qua cầu Vĩnh Tuy hay vòng đường khác bằng xe máy?». Bài dựa trên ghi nhận báo chí cuối tháng 10/2026 (Cổ Linh có 6 vị trí rào chắn trên Đàm Quang Trung và Cổ Linh, lòng đường chỉ còn khoảng một phần ba, nhiều người mất thêm khoảng một tiếng mỗi lượt) và khuyến cáo của Phòng CSGT Hà Nội ngày 24/10/2026 về chọn tuyến thay thế, đổi giờ xuất phát; so sánh đi tiếp cầu Vĩnh Tuy với vòng Nguyễn Văn Linh – Nguyễn Văn Cừ lên cầu Chương Dương hoặc cầu Long Biên (xe máy không đi cầu Thanh Trì), giờ nên xuất phát và lối xuống cầu phía Hoàn Kiếm, Hai Bà Trưng. Người đọc là người đi làm từ phía đông Long Biên bằng xe máy thuê, khác bài BLG-02295 (chọn cầu từ Long Biên vào nội đô khi các cầu thông thoáng) và bài về cách đi qua nút Cổ Linh ở chỗ chọn đường né công trường theo giờ.",
+          "kw": "né nút Cổ Linh giờ cao điểm",
+          "kw2": [
+            "sài đồng sang hai bà trưng bằng xe máy",
+            "thạch bàn vào nội thành tránh tắc",
+            "cầu vĩnh tuy hay cầu chương dương",
+            "tắc đường chân cầu vĩnh tuy"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-noi-thanh/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-29-R29L",
+          "audience": "Người đi làm từ Sài Đồng, Thạch Bàn, Phúc Đồng sang Hai Bà Trưng, Hoàn Kiếm bằng xe máy thuê",
           "location_scope": "Hà Nội",
           "word_target": 1300
         }
@@ -69411,6 +69982,63 @@
           ],
           "subtopic": "refill-2026-10-29-R29F",
           "audience": "người ở Hà Nội đi chơi cuối tuần mùa đông bằng xe máy thuê",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Lịch lễ hội tháng Giêng Đinh Mùi 2027 quanh Hà Nội theo dương lịch: hội nào rơi vào cuối tuần để đi xe máy",
+          "intent": "Người dùng hỏi: «Tháng Giêng năm 2027 các hội lớn quanh Hà Nội rơi vào ngày dương lịch nào, hội nào trúng cuối tuần?». Bài quy đổi theo lịch âm 2027 (mùng 1 Tết là thứ Bảy 6/2/2027): hội Gò Đống Đa mùng 5 (thứ Tư 10/2, ngày nghỉ cuối), khai hội chùa Hương, hội đền Sóc, hội Cổ Loa, hội đền Hai Bà Trưng Mê Linh từ mùng 6 (thứ Năm 11/2, ngày đi làm lại), Tịch điền Đọi Sơn mùng 7 (12/2), khai hội Yên Tử mùng 10 (thứ Hai 15/2), hội Lim 12–13 (thứ Tư 17 – thứ Năm 18/2), khai ấn đền Trần đêm 14 (tối thứ Sáu 19/2), rằm tháng Giêng thứ Bảy 20/2; chỉ ra hai cuối tuần 13–14/2 và 20–21/2 sẽ dồn khách, gợi ý chia hướng nam, bắc, đông theo ngày và lưu ý chờ ban tổ chức công bố lịch chính thức. Người đọc là người lên kế hoạch đi hội đầu xuân, khác bài một tuần đi hội tháng Giêng (BLG-03644) ở chỗ đưa đúng ngày dương lịch và thứ trong tuần của năm 2027.",
+          "kw": "lịch lễ hội tháng giêng 2027",
+          "kw2": [
+            "lễ hội đầu xuân 2027 quanh hà nội",
+            "đổi ngày âm sang dương 2027",
+            "hội rơi vào cuối tuần",
+            "đi hội tháng giêng bằng xe máy"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người Hà Nội lên kế hoạch đi hội đầu xuân Đinh Mùi 2027 bằng xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Lễ hội Tịch điền Đọi Sơn 2027 từ mùng 5 đến mùng 7 tháng Giêng: đi xe máy từ Hà Nội xem lễ xuống đồng",
+          "intent": "Người dùng hỏi: «Lễ hội Tịch điền Đọi Sơn năm 2027 diễn ra ngày nào, từ Hà Nội đi xe máy xem lễ cày ruộng ra sao?». Bài quy đổi mùng 5–7 tháng Giêng sang 10–12/2/2027 (chính hội mùng 7, thứ Sáu 12/2), nhắc Đọi Sơn nay thuộc phường Tiên Sơn, tỉnh Ninh Bình sau sắp xếp địa giới, lộ trình xe máy từ Hà Nội về hướng nam theo quốc lộ 1 hoặc đường song song không lên cao tốc, giờ nên có mặt trước nghi lễ chính, chỗ đứng xem lễ xuống đồng, gửi xe khi đông và ghép thêm chùa Long Đọi Sơn; nhắc kiểm tra lịch chính thức của địa phương. Người đọc là người thích lễ hội nông nghiệp đầu xuân, khác bài Duy Tiên một ngày (BLG-02691) ở chỗ tập trung vào ngày hội Tịch điền năm 2027.",
+          "kw": "lễ hội tịch điền đọi sơn",
+          "kw2": [
+            "tịch điền 2027",
+            "lễ hội đọi sơn mùng 7 tháng giêng",
+            "đi xe máy xem tịch điền",
+            "chùa long đọi sơn ngày hội"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người Hà Nội muốn đi xe máy xem lễ hội Tịch điền Đọi Sơn đầu xuân 2027",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Hội Lim 2027 rơi vào thứ Tư 17 và thứ Năm 18/2: đi xe máy sang Tiên Du nghe quan họ, gửi xe quanh đồi Lim",
+          "intent": "Người dùng hỏi: «Hội Lim năm 2027 diễn ra ngày nào, đi giữa tuần bằng xe máy từ Hà Nội thì nên đi buổi nào, gửi xe ở đâu?». Bài quy đổi 12–13 tháng Giêng Đinh Mùi sang thứ Tư 17/2 và thứ Năm 18/2/2027 (năm 2026 hội tổ chức đúng hai ngày 12–13 tháng Giêng tại 7 thôn của xã Tiên Du, Bắc Ninh, trung tâm là núi Hồng Vân), so sánh đi ngày 12 (phần lễ) hay ngày 13 (chính hội) khi cả hai rơi vào ngày làm việc, lộ trình xe máy theo quốc lộ 1 cũ qua Từ Sơn không lên cao tốc, giờ đến trước lúc đông, gửi xe ở bãi có người trông và vé xe, đi bộ lên đồi Lim nghe quan họ ở lán, trên thuyền theo cách tổ chức các năm trước, giữ đồ trong đám đông và về trước giờ tan tầm; chờ thông báo chính thức của địa phương. Người đọc là người Hà Nội muốn xin nghỉ hoặc tranh thủ đi hội, khác bài chọn xe máy hay xe buýt đi hội Lim (BLG-04896) ở chỗ hướng dẫn trọn ngày hội theo lịch 2027.",
+          "kw": "hội lim 2027",
+          "kw2": [
+            "hội lim 12 13 tháng giêng",
+            "đi hội lim bằng xe máy",
+            "gửi xe đồi lim",
+            "nghe quan họ hội lim"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người Hà Nội đi xe máy sang Bắc Ninh dự hội Lim giữa tuần năm 2027",
           "location_scope": "Hà Nội",
           "word_target": 1300
         }
@@ -73484,6 +74112,44 @@
           ],
           "subtopic": "refill-2026-10-29-R29F",
           "audience": "người thuê xe máy đi vòng Cao Bằng",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Mùa hoa tớ dày ở Mù Cang Chải giữa tháng 12 đến tháng 1: chạy xe máy từ Hà Nội qua đèo Khau Phạ ngày rét, sương",
+          "intent": "Người dùng hỏi: «Hoa tớ dày (đào rừng) ở Mù Cang Chải nở tháng mấy, đi xe máy từ Hà Nội mùa đông có ổn không?». Bài nêu mùa tớ dày thường từ giữa tháng 12 đến tháng 1 dương lịch, trước hoa đào khoảng một tháng, nở ở sườn đồi, ven đường đèo và bản quanh Mù Cang Chải (nay thuộc tỉnh Lào Cai), chia chặng Hà Nội – Nghĩa Lộ – Tú Lệ – đèo Khau Phạ trong hai đến ba ngày, xuất phát sớm vì ngày ngắn, chạy đèo khi có sương mù và mặt đường ẩm, mặc đủ ấm, dừng chụp ảnh ở chỗ rộng, không bẻ cành; khuyên hỏi người địa phương tình trạng hoa trước khi đi vì mùa đông 2026–2027 được dự báo ấm hơn. Người đọc là người thích săn hoa vùng cao bằng xe máy, khác bài Mù Cang Chải mùa lúa chín (BLG-02756) ở chỗ đây là mùa hoa giữa đông với điều kiện đường đèo rét và sương.",
+          "kw": "mùa hoa tớ dày mù cang chải",
+          "kw2": [
+            "hoa đào rừng mù cang chải",
+            "đèo khau phạ mùa đông",
+            "đi mù cang chải tháng 12",
+            "săn hoa tớ dày bằng xe máy"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-pho-bac/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người ở Hà Nội thích săn hoa vùng cao bằng xe máy vào mùa đông",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Mùa quýt vàng Bắc Sơn cuối tháng 11 đến tháng 1: đi xe máy từ Hà Nội, mua quýt tại vườn và chở về không dập",
+          "intent": "Người dùng hỏi: «Quýt Bắc Sơn chín tháng mấy, đi xe máy từ Hà Nội lên mua tại vườn có đáng không?». Bài nêu mùa quýt vàng Bắc Sơn (Lạng Sơn) thường từ cuối tháng 11 đến tháng 1 năm sau, trùng những tuần trước Tết, lộ trình xe máy qua Thái Nguyên vào thung lũng, chặng đèo và đường núi đá cần giữ số thấp, giờ về trước khi trời tối sớm mùa đông, cách hỏi chủ vườn trước khi vào hái, chọn sọt, thùng có lót và buộc chặt sau yên để quả không dập, không chở quá tải; không bịa giá quýt. Người đọc là người thích chuyến đi mùa thu hoạch và mua quà Tết tận vườn, khác bài đi thung lũng Bắc Sơn mùa lúa chín (BLG-03881) ở chỗ trả lời mùa quýt cuối năm và việc chở hàng nông sản về Hà Nội.",
+          "kw": "mùa quýt vàng bắc sơn",
+          "kw2": [
+            "quýt bắc sơn chín tháng mấy",
+            "mua quýt tại vườn bắc sơn",
+            "chở quýt bằng xe máy",
+            "đi bắc sơn mùa đông"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-pho-bac/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người ở Hà Nội muốn đi xe máy lên Bắc Sơn mùa quýt chín và chở quýt về làm quà Tết",
           "location_scope": "Hà Nội",
           "word_target": 1300
         }
@@ -77882,6 +78548,158 @@
           "audience": "Người đi xe máy thuê ở Hà Nội, nhất là người mới chưa quen nhịp bấm còi, chen làn của dòng xe",
           "location_scope": "Hà Nội",
           "word_target": 1300
+        },
+        {
+          "title": "Tối 24/11/2026 có chương trình nghệ thuật và pháo hoa ở sân Mỹ Đình: đi xe máy quanh Lê Đức Thọ, Phạm Hùng thế nào",
+          "intent": "Người dùng hỏi: «Tối 24/11/2026 có chương trình nghệ thuật lớn và bắn pháo hoa ở sân vận động Mỹ Đình thì đi xe máy ngang khu đó thế nào?». Bài dựa trên Kế hoạch 410/KH-UBND của Hà Nội (chương trình từ 20 giờ ngày 24/11/2026, không quá 120 phút, khoảng 60.000 người tham gia, pháo hoa không quá 15 phút; sơ duyệt và tổng duyệt các tối 19/11 và 22/11), hướng dẫn người chỉ đi ngang hoặc ở quanh Mỹ Đình: theo dõi thông báo phân luồng của công an thành phố, chọn đường vòng tránh các trục quanh sân, không dừng xe máy giữa đường hoặc trên cầu vượt để ngắm pháo hoa, giờ dòng người rời sân và cách đi khi đông; không tự đoán tuyến cấm khi chưa có thông báo. Người đọc là người sống, làm việc quanh Mỹ Đình và người đi xem, khác bài rời Mỹ Đình sau trận đấu (BLG-02793) ở chỗ đây là sự kiện có pháo hoa nhìn được từ ngoài sân, nhiều người dừng xe xem dọc đường và có cả các tối duyệt chương trình.",
+          "kw": "chương trình nghệ thuật mỹ đình 24/11",
+          "kw2": [
+            "pháo hoa mỹ đình 24/11/2026",
+            "phân luồng quanh sân mỹ đình",
+            "không dừng xe xem pháo hoa",
+            "tổng duyệt tối 22/11"
+          ],
+          "links": [
+            "/ky-nang/tinh-huong-giao-thong/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người sống, làm việc hoặc đi ngang khu Mỹ Đình bằng xe máy tối 24/11/2026 và các tối duyệt chương trình",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Tối cầu an tháng Giêng 2027 ở chùa Phúc Khánh: đi xe máy qua Tây Sơn, Ngã Tư Sở khi người lễ tràn xuống lòng đường",
+          "intent": "Người dùng hỏi: «Mấy tối đầu tháng Giêng đi ngang chùa Phúc Khánh thấy người đứng kín cả lòng đường, đi xe máy qua đó thế nào cho an toàn?». Bài nêu các năm gần đây chùa Phúc Khánh (382 Tây Sơn, sát nút Ngã Tư Sở) tổ chức khóa lễ cầu an buổi tối trong khoảng mùng 6 đến rằm tháng Giêng, năm 2027 tương ứng khoảng 11/2 đến thứ Bảy 20/2, khi đó người đi lễ đứng tràn ra ngõ và lòng đường; hướng dẫn người chỉ đi ngang: giảm tốc từ xa, đi đúng làn, không bóp còi dồn, nhường người đi bộ, chọn trục vòng như Láng, Trường Chinh, Thái Hà vào giờ cao điểm lễ, không dừng xe dưới lòng đường để vái vọng; người đi lễ thì gửi xe xa hơn rồi đi bộ vào. Người đọc là người đi làm qua Tây Sơn – Ngã Tư Sở và người đi lễ, khác bài đi lễ chùa Phúc Khánh ngày rằm (BLG-03970) ở chỗ xử lý tình huống giao thông những tối cầu an tháng Giêng.",
+          "kw": "cầu an tháng giêng chùa phúc khánh",
+          "kw2": [
+            "người đi lễ tràn lòng đường tây sơn",
+            "đi qua ngã tư sở tối tháng giêng",
+            "rằm tháng giêng 2027",
+            "vái vọng dưới lòng đường"
+          ],
+          "links": [
+            "/ky-nang/tinh-huong-giao-thong/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người đi xe máy qua Tây Sơn – Ngã Tư Sở và người đi lễ cầu an tháng Giêng ở chùa Phúc Khánh",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Nút giao Vành đai 2,5 – Nguyễn Trãi mới thông xe chưa có đèn tín hiệu: xe máy đi thẳng, rẽ trái giờ cao điểm thế nào",
+          "intent": "Người dùng hỏi: «Nút giao mới giữa Vành đai 2,5 và đường Nguyễn Trãi chưa có đèn xanh đỏ, sáng đầu tuần ùn dài, đi xe máy qua để sang Ngụy Như Kon Tum hay rẽ về Khương Đình thì phải làm sao cho an toàn?». Bài dựa trên ghi nhận báo chí sáng 19/10/2026 (nút chưa lắp đèn tín hiệu, ô tô nối dài, nhiều xe máy leo vỉa hè, CSGT có mặt điều tiết) và đoạn tuyến thông xe kỹ thuật 10/10/2026; hướng dẫn tuân theo hiệu lệnh của người điều khiển giao thông khi có mặt, nhường xe đang ở trong nút, ưu tiên rẽ phải rồi quay đầu thay vì cắt chéo, không lên vỉa hè, chọn giờ đi lệch 7h–9h và chuẩn bị cho việc nút sẽ được lắp đèn sau này. Không nêu mức phạt. Người đọc là người đi làm qua trục Nguyễn Trãi bằng xe máy thuê, khác bài BLG-00821 (đi qua giao lộ không đèn nói chung) ở chỗ một nút giao lớn vừa mở trên trục đông xe, có CSGT điều tiết và tổ chức giao thông còn tạm.",
+          "kw": "nút giao vành đai 2,5 nguyễn trãi",
+          "kw2": [
+            "nút giao mới chưa có đèn tín hiệu",
+            "ùn tắc vành đai 2,5 nguyễn trãi",
+            "xe máy qua nút giao csgt điều tiết",
+            "rẽ trái nút giao mới thông xe"
+          ],
+          "links": [
+            "/ky-nang/tinh-huong-giao-thong/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-29-R29L",
+          "audience": "Người đi làm qua trục Nguyễn Trãi, Thanh Xuân bằng xe máy thuê",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Từ Vành đai 2,5 muốn rẽ vào phố Định Công gần hầm Kim Đồng: quay đầu đúng chỗ thay vì đi ngược chiều cả trăm mét",
+          "intent": "Người dùng hỏi: «Đang chạy trên Vành đai 2,5 hướng ra Giải Phóng mà muốn vào phố Định Công thì quay đầu ở đâu, có được đi ngược chiều một đoạn ngắn như nhiều người không?». Bài dựa trên ghi nhận của báo chí ngày 19/3/2026 tại đoạn Vành đai 2,5 qua phố Định Công sau khi hầm chui Kim Đồng thông xe: xe phải tới điểm quay đầu trước chung cư Sky Central, nhiều xe máy cắt ngang dòng rồi đi ngược chiều khoảng 100 m, quay đầu ở hai đầu đoạn phía trên hầm, người dắt xe băng qua cửa hầm; bài hướng dẫn đi tới điểm quay đầu hợp lệ, chờ khoảng trống, nhập dòng bên phải rồi rẽ, vì sao đối đầu dòng xe đi lên từ hầm rất nguy hiểm, không dừng xe trong hầm để xem điện thoại. Không nêu mức phạt. Người đọc là người mới thuê xe ở khu Định Công, Hoàng Mai, khác bài BLG-04493 (quay đầu ở nút giao có biển cấm theo góc camera) ở chỗ xử lý một điểm rẽ cụ thể trên đoạn đường mới.",
+          "kw": "rẽ vào phố Định Công từ vành đai 2,5",
+          "kw2": [
+            "đi ngược chiều gần hầm kim đồng",
+            "quay đầu trước sky central định công",
+            "vào phố định công bằng xe máy",
+            "cửa hầm chui kim đồng"
+          ],
+          "links": [
+            "/ky-nang/tinh-huong-giao-thong/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-29-R29L",
+          "audience": "Người mới thuê xe ở quanh Định Công, Hoàng Mai",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Quốc lộ 1A Văn Điển – Ngọc Hồi mở rộng 8 làn: xe máy chọn làn, quay đầu ở đâu khi dải phân cách còn là hàng rào tạm",
+          "intent": "Người dùng hỏi: «Quốc lộ 1A đoạn Văn Điển – Ngọc Hồi mới mở rộng thành 8 làn, đi xe máy nên chạy làn nào cạnh xe tải, quay đầu ở đâu khi dải phân cách giữa chỉ là hàng rào sắt tạm?». Bài dựa trên việc thông tuyến khoảng cuối tháng 1/2026 đoạn dài 3,8 km từ Nghĩa trang Liệt sĩ Ngọc Hồi đến chùa Yên Phú, mặt cắt gần 40 m, và ghi nhận báo chí tháng 3/2026 (vỉa hè còn dở, dải phân cách tạm bằng hàng rào sắt bị xô lệch, người sang đường, quay đầu tùy ý, đi ngược chiều); hướng dẫn giữ làn bên phải, tránh điểm mù xe tải, chỉ quay đầu ở điểm mở hợp lệ, cảnh giác người cắt ngang và đoạn vỉa hè đang thi công. Không nêu tổng vốn. Người đọc là người ở trọ, đi làm quanh Văn Điển, Ngọc Hồi, Tứ Hiệp bằng xe máy thuê, khác bài BLG-03683 (đi làm theo trục Giải Phóng: giờ đi và đoạn hay ùn) ở chỗ tập trung vào đoạn quốc lộ vừa mở rộng và tổ chức làn tạm.",
+          "kw": "quốc lộ 1A Văn Điển Ngọc Hồi 8 làn",
+          "kw2": [
+            "quốc lộ 1a mở rộng thanh trì",
+            "xe máy đi quốc lộ 1a ngọc hồi",
+            "dải phân cách tạm quốc lộ 1a",
+            "quay đầu quốc lộ 1a văn điển"
+          ],
+          "links": [
+            "/ky-nang/tinh-huong-giao-thong/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-29-R29L",
+          "audience": "Người ở trọ, đi làm quanh Văn Điển, Ngọc Hồi, Tứ Hiệp bằng xe máy thuê",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Làn sóng xanh trên phố Huế – Hàng Bài: đi xe máy giữ tốc độ bao nhiêu để qua liền các đèn xanh mà không phóng nhanh",
+          "intent": "Người dùng hỏi: «Nghe nói Hà Nội có tuyến làn sóng xanh, đi phố Huế – Hàng Bài gần như không phải dừng đèn đỏ, vậy đi xe máy nên giữ tốc độ bao nhiêu và có nên tăng ga đuổi đèn không?». Bài dựa trên thông tin của Phòng CSGT Công an TP Hà Nội đăng ngày 30/6/2026: hệ thống 1.837 camera AI tại 195 nút giao, 22 tuyến «làn sóng xanh» trên các trục như Phố Huế – Hàng Bài, Võ Chí Công, Giải Phóng, và trên Phố Huế – Hàng Bài nếu duy trì tốc độ khoảng 25–30 km/h thì gần như không phải dừng đèn đỏ; bài giải thích cơ chế phối hợp pha đèn liên tiếp, cách giữ ga đều, vì sao phóng nhanh lại gặp đèn đỏ, chú ý người đi bộ và xe rẽ, camera AI ghi vượt đèn đỏ, sai làn. Không nêu mức phạt. Người đọc là người đi xe máy thuê vào trung tâm theo hướng nam – bắc, khác bài BLG-03494 (cặp phố một chiều Bà Triệu – Phố Huế) và BLG-06133 (đọc độ già của đèn xanh) ở chỗ tận dụng nhịp đèn phối hợp cả tuyến.",
+          "kw": "làn sóng xanh phố Huế Hàng Bài",
+          "kw2": [
+            "đèn tín hiệu phối hợp camera ai hà nội",
+            "giữ tốc độ đều qua nhiều đèn xanh",
+            "tuyến làn sóng xanh hà nội",
+            "đi phố huế không dừng đèn đỏ"
+          ],
+          "links": [
+            "/ky-nang/tinh-huong-giao-thong/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-29-R29L",
+          "audience": "Người đi xe máy thuê vào trung tâm Hoàn Kiếm, Hai Bà Trưng theo trục nam – bắc",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Đường song hành Vành đai 4 đoạn đê Hữu Hồng – Đại lộ Thăng Long mới thông: xe máy đi chiều nào, qua đê Tả Đáy thế nào",
+          "intent": "Người dùng hỏi: «Đường song hành Vành đai 4 qua Đan Phượng, Hoài Đức vừa thông xe, đi xe máy được không, mỗi bên chạy một chiều ra sao, tới đê Tả Đáy và chỗ nối Đại lộ Thăng Long thì rẽ thế nào?». Bài dựa trên thông báo tổ chức giao thông tạm thời của Sở Xây dựng Hà Nội từ 10/10/2026 cho đoạn 15 km từ đê Hữu Hồng (cầu Hồng Hà, Km14+850) đến Đại lộ Thăng Long (Km29+200): mỗi đường song hành chạy một chiều cho mọi loại xe; 5 nút có đèn tín hiệu (ven kênh Đan Hoài, Hạ Mỗ – Tân Hội, Tân Hội, quốc lộ 32, đường tỉnh 422 tức đường 79 cũ); tại đê Tả Đáy (Km27+400) hai đầu đoạn đê bị rào, xe theo hướng đê phải rẽ phải nhập song hành rồi quay đầu ở vị trí gần nhất; xe máy từ song hành phải ra đường gom Đại lộ Thăng Long bắt buộc rẽ phải tại khoảng Km28+040 theo đường hiện trạng hướng cầu Phương Bản; vào song hành trái qua nhánh N5. Bài nhắc tổ chức giao thông là tạm thời, đọc biển tại chỗ. Người đọc là người ở Hoài Đức, Đan Phượng, Phúc Thọ đi xe máy, khác bài BLG-04630 (xe máy chỉ chạy đường song hành Đại lộ Thăng Long lên Hòa Lạc) ở chỗ tuyến song hành Vành đai 4 mới.",
+          "kw": "đường song hành vành đai 4 xe máy",
+          "kw2": [
+            "vành đai 4 thông xe 10/10/2026",
+            "đê tả đáy vành đai 4 quay đầu",
+            "song hành vành đai 4 ra đại lộ thăng long",
+            "đường song hành vành đai 4 đan phượng"
+          ],
+          "links": [
+            "/ky-nang/tinh-huong-giao-thong/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-29-R29L",
+          "audience": "Người ở Hoài Đức, Đan Phượng, Phúc Thọ đi xe máy vào nội thành hoặc sang các xã lân cận",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Qua công trường nút giao Vành đai 3,5 trên Đại lộ Thăng Long đến hết 2026: đường gom bị rào, xe máy được dẫn đi đâu",
+          "intent": "Người dùng hỏi: «Đi xe máy theo đường gom Đại lộ Thăng Long lên Hòa Lạc, tới khu thi công nút giao Vành đai 3,5 thì đường gom bị rào, phải đi sang đâu và có được chạy phần cao tốc không?». Bài dựa trên thông báo của Sở Xây dựng Hà Nội về giai đoạn 2 thi công nút giao khác mức Vành đai 3,5 – Đại lộ Thăng Long, áp dụng đến hết 31/12/2026: rào toàn bộ đường gom phải từ Km7+760 đến Km8+680, phương tiện trên đường gom được phân luồng sang đường cao tốc hiện trạng; cao tốc phải từ Km8+120 đến Km8+860 bị rào, xe đi đường tạm ở dải phân cách giữa; đường gom trái và đường Hoàng Tùng giữ phương án giai đoạn 1, một số đoạn đường gom thu hẹp còn tối thiểu 4 m; tốc độ tối đa 60 km/h trong phạm vi thi công. Bài hướng dẫn đi theo biển phân luồng, giữ sát lề phải, quay về đường gom ngay sau đoạn rào, chú ý xe tải và đi đêm. Người đọc là người đi xe máy lên Hòa Lạc, Thạch Thất qua Hoài Đức, khác bài BLG-04630 (quy định thường ngày xe máy chỉ chạy song hành, không vào làn ô tô) ở chỗ xử lý đoạn bị chuyển luồng tạm thời.",
+          "kw": "nút giao vành đai 3,5 Đại lộ Thăng Long",
+          "kw2": [
+            "đường gom đại lộ thăng long bị rào",
+            "phân luồng đại lộ thăng long 2026",
+            "xe máy đi hòa lạc qua công trường",
+            "thi công nút giao hoàng tùng đại lộ thăng long"
+          ],
+          "links": [
+            "/ky-nang/tinh-huong-giao-thong/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-29-R29L",
+          "audience": "Người đi xe máy lên Hòa Lạc, Thạch Thất, Quốc Oai qua Hoài Đức",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
         }
       ]
     },
@@ -79849,6 +80667,25 @@
           ],
           "subtopic": "refill-2026-10-29-R29G",
           "audience": "Người đi làm sớm, về muộn bằng xe máy thuê trong những đợt rét đậm ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Mùa đông 2026–2027 ấm hơn vì El Niño: rét đến muộn nhưng vẫn có đợt lạnh ngắn, đi xe máy ở Hà Nội chuẩn bị gì",
+          "intent": "Người dùng hỏi: «Nghe nói mùa đông năm nay ấm vì El Niño, đi xe máy ở Hà Nội có cần chuẩn bị đồ rét như mọi năm không?». Bài tóm tắt nhận định khí hậu mùa của Trung tâm Dự báo khí tượng thủy văn quốc gia (nhiệt độ tháng 11/2026 cao hơn trung bình 1–2°C, tháng 12/2026 và 1/2027 cao hơn 0,5–1,5°C; không khí lạnh yếu, rét đậm rét hại đến muộn và ít ngày hơn nhưng vẫn có đợt giảm nhiệt mạnh ngắn ngày, nhất là tháng 1/2027; tháng 11 Bắc Bộ mưa nhiều hơn trung bình; cuối đông ít mưa phùn hơn), rồi chuyển thành việc cụ thể khi đi xe máy: mặc nhiều lớp dễ cởi cho ngày nóng lạnh thất thường, luôn để áo gió trong cốp, theo dõi bản tin 1–3 ngày trước chuyến đi xa, không bỏ qua cảnh báo sương muối, băng giá vùng núi chỉ vì mùa đông ấm; không dự đoán ngày rét cụ thể. Người đọc là người đi xe máy hằng ngày và người định đi núi mùa đông, khác các bài mặc ấm ngày rét đậm ở chỗ trả lời theo dự báo riêng của mùa đông 2026–2027.",
+          "kw": "mùa đông 2026-2027 ở hà nội",
+          "kw2": [
+            "el nino mùa đông 2026",
+            "rét đậm rét hại đến muộn",
+            "dự báo khí hậu mùa đông",
+            "đợt lạnh ngắn ngày"
+          ],
+          "links": [
+            "/ky-nang/thoi-tiet-va-duong-sa/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-29-R29J",
+          "audience": "người đi xe máy hằng ngày ở Hà Nội và người định đi núi phía Bắc mùa đông 2026–2027",
           "location_scope": "Hà Nội",
           "word_target": 1300
         }
@@ -83328,6 +84165,25 @@
           ],
           "subtopic": "refill-2026-10-29-R29G",
           "audience": "Người thuê xe máy ở Hà Nội đi tỉnh nhiều ngày, hành lý buộc trên yên",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Bãi gửi xe ở Hà Nội thu phí điện tử từ 1/7/2026: đi xe máy thuê trả tiền gửi bằng mã QR thế nào khi máy báo lỗi",
+          "intent": "Người dùng hỏi: «Từ tháng 7/2026 bãi gửi xe ở Hà Nội chuyển sang thu tiền điện tử, đi xe máy thuê không có thẻ dán xe thì trả tiền gửi ra sao, quét QR lỗi hay điện thoại hết pin thì làm gì?». Bài dựa trên Kế hoạch 198/KH-UBND của UBND TP Hà Nội (chương trình «Đỗ xe minh bạch – Chuyển đổi số Thủ đô»): từ 1/7/2026 khoảng 3.000 bãi đỗ, điểm trông giữ được cấp phép phải áp dụng công nghệ quản lý và thanh toán điện tử, hình thức gồm quét mã QR, tài khoản giao thông kết hợp nhận diện biển số, có hóa đơn điện tử và kênh tra soát, nhân viên hỗ trợ người không dùng điện thoại; bài hướng dẫn người đi xe máy thuê chuẩn bị ứng dụng ngân hàng, đối chiếu biển số xe thuê trên vé hoặc màn hình, giữ thẻ, chụp lại giao dịch, xử lý khi mã lỗi hoặc mất kết nối. Không nêu mức phí cụ thể. Người đọc là khách thuê xe máy ngắn ngày gửi xe ở phố, khác bài BLG-01401 (quẹt thẻ tự động lỗi khi ra bãi) và BLG-03190 (mất vé gửi xe) ở chỗ cách thanh toán theo quy định mới.",
+          "kw": "thu phí gửi xe điện tử ở Hà Nội",
+          "kw2": [
+            "quét mã qr trả tiền gửi xe",
+            "bãi gửi xe không dùng tiền mặt",
+            "kế hoạch 198 đỗ xe minh bạch",
+            "gửi xe máy thuê thanh toán điện tử"
+          ],
+          "links": [
+            "/ky-nang/gui-xe-va-giu-xe/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-29-R29L",
+          "audience": "Khách thuê xe máy ngắn ngày, khách du lịch gửi xe ở các bãi trong phố",
           "location_scope": "Hà Nội",
           "word_target": 1300
         }
@@ -88107,6 +88963,82 @@
           ],
           "subtopic": "refill-2026-10-29-R29D",
           "audience": "Người đi xe máy và khách thuê xe ở Hà Nội nhận quyết định xử phạt từ cấp phường, xã",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Công chức phường, không phải cảnh sát giao thông, lập biên bản lỗi xe máy từ 15/8/2026: ai có thẩm quyền lập biên bản",
+          "intent": "Người dùng hỏi: «Dừng xe máy sai chỗ, người lập biên bản là cán bộ phường chứ không phải CSGT, biên bản đó có giá trị không?». Bài giải thích Điều 16 Nghị định 238/2026/NĐ-CP sửa khoản 2 Điều 46 Nghị định 168/2024/NĐ-CP: trước đây ngoài người có thẩm quyền xử phạt chỉ có công chức Thanh tra Sở Giao thông vận tải được lập biên bản, từ 15/8/2026 công chức, viên chức đang thi hành công vụ, nhiệm vụ có thẩm quyền lập biên bản; đối chiếu Điều 58 Luật Xử lý vi phạm hành chính (sửa bởi Luật 88/2025/QH15) về nội dung biên bản, quyền ghi ý kiến, ký hoặc không ký; cách hỏi họ tên, chức vụ, đơn vị người lập. Không nêu số tiền phạt. Người đọc là người đi xe máy, người thuê xe ở Hà Nội; khác BLG-06299 (Chủ tịch UBND xã ký quyết định xử phạt) và BLG-04852 (không đồng ý nội dung biên bản) ở chỗ xác định ai được lập biên bản.",
+          "kw": "ai được lập biên bản vi phạm giao thông",
+          "kw2": [
+            "công chức lập biên bản xe máy",
+            "Nghị định 238/2026 lập biên bản",
+            "cán bộ phường lập biên bản giao thông",
+            "khoản 2 Điều 46 Nghị định 168"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-phap-ly/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Người đi xe máy, người thuê xe ở Hà Nội bị cán bộ không mặc sắc phục CSGT lập biên bản",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Xe máy xăng đời cũ có được chạy trong Vành đai 1 từ năm 2028 không: yêu cầu khí thải mức 3 và cách biết xe mình đạt",
+          "intent": "Người dùng hỏi: «Nhà ở Ba Đình, đi chiếc xe số đời 2005; từ 2028 có còn được chạy trong Vành đai 1 không?». Bài giải thích Quyết định 3273/QĐ-UBND (29/6/2026) phê duyệt Đề án vùng phát thải thấp trong Vành đai 1 theo Nghị quyết 57/2025/NQ-HĐND: giai đoạn 3 từ 01/01/2028 không cho phép xe mô tô, xe gắn máy dùng xăng không đạt mức 3 theo QCVN 99:2025/BNNMT lưu thông trong toàn Vành đai 1 (9 phường); phân biệt với yêu cầu mức 2 trên toàn Hà Nội của Quyết định 13/2026/QĐ-TTg; vai trò kết quả kiểm định khí thải từ 01/7/2027; khuyến nghị theo dõi văn bản hướng dẫn cách kiểm tra, không khẳng định điều chưa ban hành. Không nêu tiền phạt. Người đọc là cư dân và người làm việc trong Vành đai 1; khác BLG-05271 (lộ trình chung hạn chế xe máy xăng) ở chỗ tập trung điều kiện khí thải mức 3 với xe đời cũ.",
+          "kw": "xe máy đời cũ vào vành đai 1",
+          "kw2": [
+            "khí thải mức 3 vùng phát thải thấp",
+            "Quyết định 3273/QĐ-UBND",
+            "xe máy cũ Hà Nội 2028",
+            "QCVN 99:2025 mức 3"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-phap-ly/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Cư dân, người làm việc trong 9 phường Vành đai 1 đang đi xe máy xăng đời cũ",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Hà Nội áp mức phạt cao hơn từ 1/7/2026 theo Nghị quyết 56/2026: người đi xe máy bị ảnh hưởng ở những lỗi nào",
+          "intent": "Người dùng hỏi: «Nghe nói từ 1/7/2026 Hà Nội phạt giao thông gấp đôi cả nước, đi xe máy vượt đèn đỏ, không đội mũ cũng bị phạt gấp đôi à?». Bài giải thích điểm b khoản 1 Điều 14 Luật Thủ đô 02/2026/QH16 (HĐND Thành phố được quy định mức phạt cao hơn nhưng không quá 02 lần mức chung) và Phụ lục II Nghị quyết 56/2026/NQ-HĐND: chỉ 04 hành vi giao thông liên quan trật tự đô thị (xe đẩy làm quầy hàng lưu động, bán hàng rong trên lòng đường, vỉa hè tuyến có quy định cấm, sử dụng trái phép lòng đường, vỉa hè kể cả sửa xe, rửa xe, dừng đỗ ô tô ở phạm vi đường sắt); các lỗi khác của người đi xe máy vẫn theo Nghị định 168/2024/NĐ-CP; Điều 6 về chuyển tiếp. Không nêu số tiền phạt. Người đọc là người đi xe máy, người thuê xe ở Hà Nội; khác BLG-04658 (dừng đỗ xe máy gần đường sắt) ở chỗ làm rõ phạm vi nghị quyết mới của Thành phố.",
+          "kw": "hà nội tăng mức phạt giao thông 2026",
+          "kw2": [
+            "Nghị quyết 56/2026/NQ-HĐND",
+            "Luật Thủ đô 2026 mức phạt cao hơn",
+            "phạt gấp đôi ở Hà Nội",
+            "sửa xe rửa xe trên vỉa hè"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-phap-ly/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Người đi xe máy, người thuê xe ở Hà Nội lo bị phạt cao hơn tỉnh khác",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Đi xe máy về ngủ nhờ nhà bạn ở ngoại thành: từ 1/7/2026 ai phải thông báo lưu trú và làm qua VNeID thế nào",
+          "intent": "Người dùng hỏi: «Cuối tuần đi xe máy về Sóc Sơn ngủ nhờ nhà bạn một đêm, nghe nói giờ phải khai báo lưu trú, ai khai và khai lúc nào?». Bài giải thích Điều 30 Luật Cư trú 2020 được sửa bởi khoản 9 Điều 4 Luật 118/2025/QH15 (hiệu lực 01/7/2026): thành viên hộ gia đình thông báo khi có người lưu trú qua đêm, nếu họ không có mặt thì người đến lưu trú tự thông báo; nội dung gồm họ tên, ngày sinh, số định danh, lý do, thời gian, địa chỉ; thời hạn trước 23 giờ hoặc trước 08 giờ sáng hôm sau nếu đến sau 23 giờ; hình thức qua VNeID, điện thoại, Cổng dịch vụ công theo Thông tư 116/2026/TT-BCA. Không nêu tiền phạt. Người đọc là người đi xe máy chơi xa, ở lại nhà người quen; khác BLG-04606 (homestay khai báo lưu trú) ở chỗ áp dụng cho nhà dân và trường hợp chủ nhà vắng.",
+          "kw": "thông báo lưu trú khi ngủ nhờ",
+          "kw2": [
+            "Luật Cư trú sửa đổi 2026 lưu trú",
+            "khai báo lưu trú qua VNeID",
+            "ngủ nhờ nhà bạn có phải khai báo",
+            "thông báo lưu trú trước 23 giờ"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-phap-ly/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-29-R29K",
+          "audience": "Người đi xe máy chơi xa, ngủ lại nhà người quen ở ngoại thành và tỉnh lân cận",
           "location_scope": "Hà Nội",
           "word_target": 1300
         }
