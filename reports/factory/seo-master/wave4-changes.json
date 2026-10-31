@@ -137,5 +137,168 @@
    "status": "DONE",
    "audit": "deliverable"
   }
- ]
+ ],
+ "qa_checks": [
+  {
+   "check": "Jekyll build 3.10.0 (cục bộ)",
+   "scope": "7.050 HTML",
+   "result": "PASS",
+   "evidence": "BUILD_EXIT=0 (site-wt6)"
+  },
+  {
+   "check": "scripts/seo/check-regressions.py",
+   "scope": "9 bất biến",
+   "result": "PASS 9/9",
+   "evidence": "trang chủ đóng băng khớp; 1 canonical/1 H1 mọi trang; sitemap 7.045 URL không noindex"
+  },
+  {
+   "check": "scripts/factory/check-built-links.py",
+   "scope": "liên kết nội bộ + JSON-LD item",
+   "result": "PASS (0 hỏng)",
+   "evidence": "site-wt6"
+  },
+  {
+   "check": "scripts/faq/faq_parity_check.py",
+   "scope": "mọi khối JSON-LD parse + FAQ parity",
+   "result": "PASS (7.050 trang, 0 lỗi)",
+   "evidence": "site-wt6"
+  },
+  {
+   "check": "scripts/factory/check-site-urls.py",
+   "scope": "URL/sitemap/canonical",
+   "result": "OK",
+   "evidence": "permalink 6.567, sitemap 7.045, không-ASCII đóng băng 483"
+  },
+  {
+   "check": "scripts/factory/check-slug-redirects.py",
+   "scope": "di trú slug",
+   "result": "OK",
+   "evidence": "registry 3, đã gỡ 1.405, 0 liên kết tới URL đã gỡ"
+  },
+  {
+   "check": "So sánh HTML trước/sau (7.050 trang)",
+   "scope": "base a7aaedfc vs wave4",
+   "result": "PASS",
+   "evidence": "0 trang thêm/mất; head khác 7.047 (dự kiến); thân khác 74 hub/pillar/trang tĩnh (dự kiến) + 2 bài Honda Wave nhận khối 'Cùng chủ đề' (dự kiến, W4-14); 0 khác ngoài dự kiến"
+  },
+  {
+   "check": "scripts/factory/validate.py --scope chunk",
+   "scope": "nhà máy",
+   "result": "PASS (0 cảnh báo)",
+   "evidence": "trước và sau rebase"
+  },
+  {
+   "check": "scripts/seo/validate-hub-intros.py",
+   "scope": "62 hub/pillar",
+   "result": "PASS",
+   "evidence": "12.789 từ, mô tả mới không trùng câu giới thiệu"
+  },
+  {
+   "check": "scripts/factory/run-tests.py --suites ci",
+   "scope": "46 suite engine",
+   "result": "46/46 PASS",
+   "evidence": "2.381 s"
+  },
+  {
+   "check": "node scripts/tests/*.cjs",
+   "scope": "pricing data, pricing table, site search, WebMCP",
+   "result": "4/4 PASS",
+   "evidence": ""
+  },
+  {
+   "check": "build-post-modified/taxonomy-overrides/topic-links/price-notices --check",
+   "scope": "dữ liệu sinh tự động",
+   "result": "OK",
+   "evidence": "sau rebase lên main mới"
+  },
+  {
+   "check": "axe-core (8 trang × sáng/tối)",
+   "scope": "color-contrast, link-in-text-block, heading-order, label-content-name-mismatch, image-redundant-alt",
+   "result": "0 vi phạm",
+   "evidence": "trước sửa: 57 + 56 + 8 trang heading + 8/8 label + 8/8 redundant alt"
+  },
+  {
+   "check": "Lighthouse mobile LAB (gzip mô phỏng Pages): bang-gia",
+   "scope": "perf/a11y/LCP/bytes",
+   "result": "perf 100→100, a11y 92→100",
+   "evidence": "LCP 1302→1354 ms, FCP 1206→1204 ms, CLS 0.0001, bytes 75914→70704 (không phải dữ liệu field CrUX)"
+  },
+  {
+   "check": "Lighthouse mobile LAB (gzip mô phỏng Pages): home",
+   "scope": "perf/a11y/LCP/bytes",
+   "result": "perf 96→98, a11y 96→100",
+   "evidence": "LCP 2760→1741 ms, FCP 1260→1211 ms, CLS 0.0001, bytes 423827→143331 (không phải dữ liệu field CrUX)"
+  },
+  {
+   "check": "Lighthouse mobile LAB (gzip mô phỏng Pages): kinh-nghiem",
+   "scope": "perf/a11y/LCP/bytes",
+   "result": "perf 100→100, a11y 90→100",
+   "evidence": "LCP 1217→1220 ms, FCP 1203→1204 ms, CLS 0.0001, bytes 72867→66912 (không phải dữ liệu field CrUX)"
+  },
+  {
+   "check": "Lighthouse mobile LAB (gzip mô phỏng Pages): legacy-post",
+   "scope": "perf/a11y/LCP/bytes",
+   "result": "perf 100→100, a11y 96→100",
+   "evidence": "LCP 1663→1370 ms, FCP 1213→1260 ms, CLS 0.0001, bytes 72745→66791 (không phải dữ liệu field CrUX)"
+  },
+  {
+   "check": "Lighthouse mobile LAB (gzip mô phỏng Pages): listing-p2",
+   "scope": "perf/a11y/LCP/bytes",
+   "result": "perf 100→100, a11y 96→100",
+   "evidence": "LCP 1236→1072 ms, FCP 1214→1057 ms, CLS 0.0001, bytes 68231→62273 (không phải dữ liệu field CrUX)"
+  },
+  {
+   "check": "Lighthouse mobile LAB (gzip mô phỏng Pages): newest-post",
+   "scope": "perf/a11y/LCP/bytes",
+   "result": "perf 100→100, a11y 96→100",
+   "evidence": "LCP 1298→1306 ms, FCP 1202→1208 ms, CLS 0.0001, bytes 73617→67650 (không phải dữ liệu field CrUX)"
+  },
+  {
+   "check": "Lighthouse mobile LAB (gzip mô phỏng Pages): thue-thang",
+   "scope": "perf/a11y/LCP/bytes",
+   "result": "perf 100→100, a11y 92→100",
+   "evidence": "LCP 1233→1216 ms, FCP 1209→1200 ms, CLS 0.0001, bytes 70541→64098 (không phải dữ liệu field CrUX)"
+  },
+  {
+   "check": "Lighthouse mobile LAB (gzip mô phỏng Pages): thue-xe",
+   "scope": "perf/a11y/LCP/bytes",
+   "result": "perf 100→100, a11y 92→100",
+   "evidence": "LCP 1231→1078 ms, FCP 1208→1058 ms, CLS 0.0001, bytes 70118→62053 (không phải dữ liệu field CrUX)"
+  }
+ ],
+ "qa_scores": [
+  {
+   "target": "Hub/topic (56) sau wave 4",
+   "score": 88,
+   "breakdown": "intent 16/20 · chính xác 18/20 · on-page 14/15 · kiến trúc 14/15 · kỹ thuật 15/15 · UX 8/10 · schema 3/5",
+   "note": "INFERRED (thang nội bộ). Trừ điểm: hub thuê ngày/tuần/tháng chưa có bảng giá (KW-06), 9 hub chưa có bài chủ lực, không có CollectionPage (chủ đích)."
+  },
+  {
+   "target": "Trang giá /bang-gia*/ (5)",
+   "score": 86,
+   "breakdown": "intent 18/20 · chính xác 17/20 · on-page 13/15 · kiến trúc 14/15 · kỹ thuật 15/15 · UX 6/10 · schema 3/5",
+   "note": "Trừ điểm: chính sách chưa xác minh trên trang (LCRO-12), không đo được chuyển đổi (LCRO-02)."
+  },
+  {
+   "target": "Mẫu bài viết (template, 6.257 bài)",
+   "score": 81,
+   "breakdown": "intent 17/20 · chính xác 15/20 · on-page 12/15 · kiến trúc 14/15 · kỹ thuật 15/15 · UX 6/10 · schema 4/5",
+   "note": "75–84: cần cải thiện — chưa công khai quy trình AI (LCRO-01), 83 bài trải nghiệm ngôi thứ nhất (LCRO-06), 69% title gốc > 60 ký tự (HM-02), chưa có ảnh thật (IMG-05). Điểm QA factory từng bài (data/qa) là thang khác."
+  },
+  {
+   "target": "Trang chủ (đóng băng)",
+   "score": 87,
+   "breakdown": "intent 18/20 · chính xác 18/20 · on-page 14/15 · kiến trúc 13/15 · kỹ thuật 15/15 · UX 6/10 · schema 3/5",
+   "note": "Không đổi chữ; LCP lab 2,76 s → 1,74 s; thiếu đo lường chuyển đổi."
+  }
+ ],
+ "checkpoint": {
+  "website": "https://blog.thuexemaynguyentu.com (repo thuexemayhanoi/blog, Jekyll/GitHub Pages)",
+  "ngay": "2026-10-31",
+  "giai_doan": "Wave 4 — đợt 1 đã triển khai",
+  "engine_commit": "4948afae",
+  "con_lai": "SEO-208..211 trong checkpoint.json; mục 8 của wave4-2026-10-31.md",
+  "tep": "reports/factory/seo-master/ (wave4-*, Master-SEO-Matrix.xlsx, checkpoint.json, fix-log.csv)",
+  "buoc_tiep": "Xác minh live sau deploy → đợt 5 (PERF-02, PERF-03B, KW-02/05/06/08/09, LCRO-09) → chờ chủ cho mục NEEDS_OWNER"
+ }
 }
