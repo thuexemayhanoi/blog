@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-31T05:02:22+00:00",
+  "updated_at": "2026-10-31T05:03:40+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-06173",
-      "started_at": "2026-10-29T16:26:33+00:00",
-      "source": "_drafts/2026-10-29-khach-trung-quoc-dai-luc-muon-tu-lai-xe-may-o-ha-noi-vi-sao-khong-co-idp-dung-du.md",
-      "destination": "_posts/2026-10-29-khach-trung-quoc-dai-luc-muon-tu-lai-xe-may-o-ha-noi-vi-sao-khong-co-idp-dung-du.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8642321439f0ff01929c12a368cd18f3c79bbaa5",
-      "finished_at": "2026-10-29T16:26:33+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-06174",
-      "started_at": "2026-10-29T16:26:33+00:00",
-      "source": "_drafts/2026-10-29-muon-chay-xe-may-thue-tu-ha-noi-vao-hue-hoi-an-hay-tphcm-roi-de-lai-o-do-hoi-tie.md",
-      "destination": "_posts/2026-10-29-muon-chay-xe-may-thue-tu-ha-noi-vao-hue-hoi-an-hay-tphcm-roi-de-lai-o-do-hoi-tie.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8642321439f0ff01929c12a368cd18f3c79bbaa5",
-      "finished_at": "2026-10-29T16:26:33+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06177",
       "started_at": "2026-10-29T16:27:16+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "966cd37ee373ff5427e829e72ce4d5c3f84daf80",
       "finished_at": "2026-10-31T05:02:22+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06221",
+      "started_at": "2026-10-31T05:03:40+00:00",
+      "source": "_drafts/2026-10-31-mua-trang-suc-bac-o-pho-hang-bac-bang-xe-may-cua-hang-hay-xuong-nhan-lam-hoi-ham.md",
+      "destination": "_posts/2026-10-31-mua-trang-suc-bac-o-pho-hang-bac-bang-xe-may-cua-hang-hay-xuong-nhan-lam-hoi-ham.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0ee6bd054a6cf0307c38d509641bcf3a22ff23f3",
+      "finished_at": "2026-10-31T05:03:40+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06222",
+      "started_at": "2026-10-31T05:03:40+00:00",
+      "source": "_drafts/2026-10-31-mua-banh-mut-keo-tet-o-pho-hang-buom-hang-giay-bang-xe-may-di-gio-nao-chon-hang.md",
+      "destination": "_posts/2026-10-31-mua-banh-mut-keo-tet-o-pho-hang-buom-hang-giay-bang-xe-may-di-gio-nao-chon-hang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0ee6bd054a6cf0307c38d509641bcf3a22ff23f3",
+      "finished_at": "2026-10-31T05:03:40+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
