@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Honda Click - Xe máy & dòng xe"
-description: "Honda Click và các dòng xe ga nhỏ gọn giá tốt."
+seo_title: "Honda Click: xe ga nhỏ cho phố cổ và ngõ hẹp"
+description: "Honda Click qua tình huống thật: đi chợ, chở người, người thấp hay mới chuyển từ xe số, chở đồ dịp Tết, gió ngang trên cầu, kèm so sánh với Yamaha Mio và Wave."
 lang: vi
 permalink: /xe-may/honda-click/
 parent_id: P-XE-MAY

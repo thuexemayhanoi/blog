@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Quy định giao thông - An toàn & pháp lý"
-description: "Tốc độ, làn đường, mũ bảo hiểm và các quy định áp dụng cho xe máy."
+seo_title: "Quy định giao thông cho xe máy: làn, mũ, chở người"
+description: "Quy tắc thường ngày khi đi xe máy ở Hà Nội và ngoại thành: tốc độ, chuyển làn, mũ bảo hiểm, chở người và hàng, dừng đỗ, còi, làn xe buýt, kèm tình huống khó."
 lang: vi
 permalink: /an-toan-phap-ly/quy-dinh-giao-thong/
 parent_id: P-PHAP-LY

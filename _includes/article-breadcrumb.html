@@ -14,8 +14,16 @@ JSON-LD BreadcrumbList khớp breadcrumb hiển thị.
     {% if bc_child_id == nil %}{% assign bc_child_id = bc_map.c %}{% endif %}
   {% endif %}
 {% endif %}
+{%- comment -%} Front matter sai taxonomy (14 bài): giá trị đúng từ matrix qua _data/taxonomy-overrides.yml (scripts/seo/build-taxonomy-overrides.py). {%- endcomment -%}
+{% assign bc_ov = site.data.taxonomy-overrides[page.article_id] %}
+{% if bc_ov %}{% assign bc_parent_id = bc_ov.p %}{% assign bc_child_id = bc_ov.c %}{% endif %}
 {% assign bc_parent = site.data.factory-parents[bc_parent_id] %}
 {% assign bc_child_node = site.data.factory-taxonomy[bc_child_id] %}
+{%- comment -%} parent_id lạ (vd. P-AN-TOAN-PHAP-LY) => suy parent từ taxonomy của child (child.p); KHÔNG sửa _posts/. {%- endcomment -%}
+{% if bc_parent == nil and bc_child_node %}{% assign bc_parent = site.data.factory-parents[bc_child_node.p] %}{% endif %}
+{%- comment -%} Nhãn trang hiện tại: chỉ bỏ hậu tố " - <site.title>" nếu có; KHÔNG cắt ở " - " đầu tiên (cắt cụt 25 tiêu đề kiểu "Việt - Anh"). {%- endcomment -%}
+{% capture bc_suffix %} - {{ site.title }}{% endcapture %}
+{% assign bc_title = page.title | remove: bc_suffix %}
 {% capture bc_parent_url %}/{{ bc_parent.s }}/{% endcapture %}
 {% if bc_parent and bc_child_node %}
   {% capture bc_child_url %}/{{ bc_parent.s }}/{{ bc_child_node.s }}/{% endcapture %}
@@ -35,7 +43,7 @@ JSON-LD BreadcrumbList khớp breadcrumb hiển thị.
     <li><a href="{{ bc_child_url | relative_url }}">{{ bc_child_node.t }}</a></li>
     {% endif %}
     {% endif %}
-    <li aria-current="page">{{ page.title | split: ' - ' | first }}</li>
+    <li aria-current="page">{{ bc_title }}</li>
   </ol>
 </nav>
 <script type="application/ld+json">
@@ -45,11 +53,16 @@ JSON-LD BreadcrumbList khớp breadcrumb hiển thị.
   "itemListElement": [
     {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": {{ '/' | absolute_url | jsonify | replace: '</', '<\/' }}},
     {"@type": "ListItem", "position": 2, "name": "Cẩm nang", "item": {{ '/chu-de/' | absolute_url | jsonify | replace: '</', '<\/' }}},
-    {"@type": "ListItem", "position": 3, "name": {{ bc_parent.t | jsonify | replace: '</', '<\/' }}, "item": {{ bc_parent_url | absolute_url | jsonify | replace: '</', '<\/' }}},
-    {% if bc_child_node %}{"@type": "ListItem", "position": 4, "name": {{ bc_child_node.t | jsonify | replace: '</', '<\/' }}, "item": {{ bc_child_url | absolute_url | jsonify | replace: '</', '<\/' }}},
-    {"@type": "ListItem", "position": 5, "name": {{ page.title | jsonify | replace: '</', '<\/' }}, "item": {{ page.url | absolute_url | jsonify | replace: '</', '<\/' }}}
-    {% else %}{"@type": "ListItem", "position": 4, "name": {{ page.title | jsonify | replace: '</', '<\/' }}, "item": {{ page.url | absolute_url | jsonify | replace: '</', '<\/' }}}
-    {% endif %}
+    {%- assign bc_pos = 3 -%}
+    {%- if bc_parent %}
+    {"@type": "ListItem", "position": {{ bc_pos }}, "name": {{ bc_parent.t | jsonify | replace: '</', '<\/' }}, "item": {{ bc_parent_url | absolute_url | jsonify | replace: '</', '<\/' }}},
+    {%- assign bc_pos = bc_pos | plus: 1 -%}
+    {%- if bc_child_node %}
+    {"@type": "ListItem", "position": {{ bc_pos }}, "name": {{ bc_child_node.t | jsonify | replace: '</', '<\/' }}, "item": {{ bc_child_url | absolute_url | jsonify | replace: '</', '<\/' }}},
+    {%- assign bc_pos = bc_pos | plus: 1 -%}
+    {%- endif -%}
+    {%- endif %}
+    {"@type": "ListItem", "position": {{ bc_pos }}, "name": {{ bc_title | jsonify | replace: '</', '<\/' }}, "item": {{ page.url | absolute_url | jsonify | replace: '</', '<\/' }}}
   ]
 }
 </script>

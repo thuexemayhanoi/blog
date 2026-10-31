@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Nồng độ cồn - An toàn & pháp lý"
-description: "Quy định nồng độ cồn khi điều khiển xe máy và mức xử phạt."
+seo_title: "Nồng độ cồn khi lái xe máy: tình huống và chốt kiểm tra"
+description: "Tình huống hay gặp sau khi uống rượu bia, món ăn có rượu có làm máy đo báo cồn không, quy trình đo ở chốt kiểm tra và cách về nhà mà không phải tự cầm lái."
 lang: vi
 permalink: /an-toan-phap-ly/noi-do-cong/
 parent_id: P-PHAP-LY

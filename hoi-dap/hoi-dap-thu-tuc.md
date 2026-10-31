@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Hỏi đáp thủ tục - Hỏi đáp thuê xe máy"
-description: "Trả lời nhanh các câu hỏi về thủ tục, giấy tờ thuê xe."
+seo_title: "Hỏi đáp thủ tục thuê xe máy: giấy tờ, đặt xe, gia hạn"
+description: "Câu hỏi về giấy tờ cần mang, độ tuổi thuê, hộ chiếu đang xin gia hạn, gửi ảnh giấy tờ qua Zalo an toàn, đặt xe bằng tin nhắn, đổi người thuê và đọc hợp đồng."
 lang: vi
 permalink: /hoi-dap/hoi-dap-thu-tuc/
 parent_id: P-HOI-DAP

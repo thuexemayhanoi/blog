@@ -38,22 +38,24 @@ layout: default
     </ul>
     <h2>Bài viết mới trong chủ đề</h2>
     <div class="post-grid">
-      {% assign shown = 0 %}
-      {% for post in site.posts %}
-        {% assign myparent = post.parent_id %}
-        {% if myparent == nil %}
-          {% assign m = site.data.factory-map[post.slug] %}
-          {% if m %}{% assign myparent = m.p %}{% endif %}
-        {% endif %}
-        {% if myparent == page.parent_id and shown < 6 %}
+      {%- comment -%} Thẻ có dấu gạch (trim): không để dòng trống cho từng bài không khớp; dừng khi đủ 6 bài (SEO wave 4, PERF-05). {%- endcomment -%}
+      {%- assign shown = 0 -%}
+      {%- for post in site.posts -%}
+        {%- if shown >= 6 -%}{%- break -%}{%- endif -%}
+        {%- assign myparent = post.parent_id -%}
+        {%- if myparent == nil -%}
+          {%- assign m = site.data.factory-map[post.slug] -%}
+          {%- if m -%}{%- assign myparent = m.p -%}{%- endif -%}
+        {%- endif -%}
+        {%- if myparent == page.parent_id and shown < 6 %}
         <article class="post-card glass-card">
           <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
           <p class="post-date">Đăng ngày {{ post.date | date: "%d/%m/%Y" }}</p>
           <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
         </article>
-        {% assign shown = shown | plus: 1 %}
-        {% endif %}
-      {% endfor %}
+        {%- assign shown = shown | plus: 1 -%}
+        {%- endif -%}
+      {%- endfor %}
     </div>
     {% include post-cta.html %}
   </div>

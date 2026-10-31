@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Phố cổ Hoàn Kiếm - Du lịch Hà Nội"
-description: "Phố cổ, Hồ Hoàn Kiếm và phố đi bộ cuối tuần."
+seo_title: "Phố cổ Hoàn Kiếm bằng xe máy: gửi xe và dạo phố"
+description: "Chỗ gửi xe quanh Hồ Gươm rồi đi bộ, phố đi bộ cuối tuần, khung giờ nên tránh chạy xe trong phố cổ, chợ hoa, phố đèn lồng dịp Tết, phở, bún chả và chợ Đồng Xuân."
 lang: vi
 permalink: /du-lich/pho-co/
 parent_id: P-DU-LICH

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Bảng giá xe điện - Thuê Xe Máy Hà Nội Nguyễn Tú"
+seo_title: "Bảng giá thuê xe điện"
 description: "Thuê xe máy điện và xe đạp điện tại Hà Nội: đặc điểm, phạm vi hoạt động và lưu ý khi sạc pin. Liên hệ Nguyễn Tú để biết giá hiện tại."
 lang: vi
 translation_key: xe-dien
@@ -60,6 +61,8 @@ Hãy gọi điện, Zalo hoặc WhatsApp để được báo giá xe điện đa
 
 Nếu chuyến đi của bạn cần quãng đường dài hoặc linh hoạt đổ nhiên liệu, hãy xem [xe ga]({{ '/bang-gia-xe-ga/' | relative_url }}) hoặc [xe số]({{ '/bang-gia-xe-so/' | relative_url }}).
 
+Cách tính pin, chỗ sạc và quãng đường thực tế có trong cẩm nang [xe máy điện]({{ '/xe-may/xe-dien/' | relative_url }}) và [xe đạp điện]({{ '/xe-may/xe-dap-dien/' | relative_url }}).
+
 ## Ai phù hợp với xe điện?
 
 - Người đi lại cố định quãng ngắn và trung bình trong nội thành mỗi ngày
@@ -115,31 +118,31 @@ Pin lithium an toàn khi sử dụng đúng cách. Khi thuê xe điện, hãy tu
 
 ## Câu hỏi thường gặp
 
-#### Xe điện đi được bao xa mỗi lần sạc?
+### Xe điện đi được bao xa mỗi lần sạc?
 
 Quãng đường phụ thuộc vào mẫu xe và dung lượng pin. Khi nhận xe, Nguyễn Tú sẽ thông tin quãng đường ước tính cho mẫu xe bạn thuê.
 
-#### Tôi cần chỗ sạc ở đâu?
+### Tôi cần chỗ sạc ở đâu?
 
 Bạn cần chỗ sạc tại nơi lưu trú (ổ điện dân dụng). Hãy xác nhận với khách sạn hoặc chủ nhà rằng bạn được phép sạc xe.
 
-#### Giá thuê xe điện là bao nhiêu?
+### Giá thuê xe điện là bao nhiêu?
 
 Giá thay đổi theo mẫu xe và thời gian thuê. Vui lòng liên hệ Nguyễn Tú để được báo giá hiện tại.
 
-#### Xe điện có cần giấy phép lái xe không?
+### Xe điện có cần giấy phép lái xe không?
 
 Tùy công suất và tốc độ tối đa theo quy định hiện hành. Một số mẫu xe điện được phân loại như xe gắn máy (không cần giấy phép), một số như xe máy (cần giấy phép). Hãy hỏi rõ khi đặt xe.
 
-#### Thuê xe điện dài hạn có lợi không?
+### Thuê xe điện dài hạn có lợi không?
 
 Nếu bạn di chuyển đều đặn mỗi ngày và có chỗ sạc tại nơi lưu trú, xe điện giúp tiết kiệm chi phí năng lượng đáng kể so với xe xăng trong thời gian thuê dài.
 
-#### Pin xe điện bền bao lâu?
+### Pin xe điện bền bao lâu?
 
 Tuổi thọ pin phụ thuộc mẫu xe và cách sử dụng. Khi thuê xe, bạn chỉ cần quan tâm quãng đường mỗi lần sạc và quy tắc sạc an toàn; tình trạng pin của từng xe được thông tin khi nhận xe.
 
-#### Xe điện có chạy được khi trời mưa không?
+### Xe điện có chạy được khi trời mưa không?
 
 Xe điện hiện đại có thể chạy trong mưa nhỏ, nhưng bạn nên tránh mưa to và tuyệt đối không đi qua đoạn ngập nước. Nếu xe bị ngấm nước, báo ngay cho Nguyễn Tú.
 

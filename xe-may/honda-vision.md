@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Honda Vision - Xe máy & dòng xe"
-description: "Honda Vision: xe ga nhỏ gọn phù hợp di chuyển phố."
+seo_title: "Honda Vision: xe ga gọn cho đi làm, đi học, dạo phố"
+description: "Kinh nghiệm dùng Honda Vision: cốp chứa đồ, chở vali cabin, gửi xe quanh phố cổ, xử lý ắc quy yếu, thủng lốp, chết máy và các chặng trong ngày hợp xe ga nhỏ."
 lang: vi
 permalink: /xe-may/honda-vision/
 parent_id: P-XE-MAY

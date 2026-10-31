@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Phạt nguội - An toàn & pháp lý"
-description: "Phạt nguội xe máy: cách tra cứu, xử lý và phòng tránh."
+seo_title: "Phạt nguội xe máy: tra cứu, nộp phạt và xe thuê"
+description: "Camera ở Hà Nội hay ghi những lỗi gì, cách tra cứu và nộp phạt qua kênh chính thức, ai nhận thông báo khi đi xe thuê và lưu ý với dịch vụ nhận xóa lỗi."
 lang: vi
 permalink: /an-toan-phap-ly/phat-nguoi/
 parent_id: P-PHAP-LY

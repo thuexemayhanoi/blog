@@ -1,7 +1,8 @@
 ---
 layout: hub
 title: "Hỏi đáp thuê xe máy - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú"
-description: "Giải đáp nhanh mọi câu hỏi về giá thuê, thủ tục, pháp lý, chọn xe, sự cố và người mới thuê xe máy."
+seo_title: "Hỏi đáp thuê xe máy: giá, thủ tục, pháp lý, sự cố"
+description: "Câu trả lời ngắn cho thắc mắc trước và trong khi thuê xe máy, xếp theo nhóm: tiền thuê, giấy tờ, quy định, chọn dòng xe, xe trục trặc và lần thuê đầu tiên."
 lang: vi
 permalink: /hoi-dap/
 parent_id: P-HOI-DAP

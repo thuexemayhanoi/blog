@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Hỏi đáp người mới - Hỏi đáp thuê xe máy"
-description: "Trả lời nhanh cho người lần đầu thuê xe máy ở Hà Nội."
+seo_title: "Hỏi đáp người mới thuê xe máy: chuẩn bị và tập lái"
+description: "Lần đầu thuê xe nên hỏi cửa hàng gì, chuẩn bị gì, đọc biên nhận ra sao, chọn xe số hay xe ga, rồi tập dần từ đường vắng tới đường đông và giữ liên lạc khi đi."
 lang: vi
 permalink: /hoi-dap/hoi-dap-nguoi-moi/
 parent_id: P-HOI-DAP

@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Thủ tục thuê xe - Thuê xe máy Hà Nội"
-description: "Quy trình liên hệ, đặt xe, giấy tờ và ký nhận khi thuê xe máy."
+seo_title: "Thủ tục thuê xe máy: giấy tờ, hợp đồng và biên bản"
+description: "Các bước của một lần thuê xe máy, từ nhắn hỏi, đặt trước qua điện thoại hay Zalo đến đọc hợp đồng, ký biên bản, cùng chuyện gia hạn, hủy đặt, thuê cho cả đoàn."
 lang: vi
 permalink: /thue-xe/thu-tuc/
 parent_id: P-THUE-XE

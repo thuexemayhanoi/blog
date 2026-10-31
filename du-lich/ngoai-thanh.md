@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Ngoại thành Hà Nội - Du lịch Hà Nội"
-description: "Các huyện ngoại thành Hà Nội khám phá bằng xe máy."
+seo_title: "Ngoại thành Hà Nội bằng xe máy: làng nghề, đền chùa"
+description: "Các hướng đi ngoại thành Hà Nội: Ba Vì, đường đê sông Hồng, hồ nước, làng mộc Chàng Sơn, làng nón Chuông, khảm trai Chuyên Mỹ, kèm lưu ý dốc, đê hẹp và xe ben."
 lang: vi
 permalink: /du-lich/ngoai-thanh/
 parent_id: P-DU-LICH

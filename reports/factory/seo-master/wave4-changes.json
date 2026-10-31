@@ -1,0 +1,141 @@
+{
+ "wave": "wave4-2026-10-31",
+ "authority": "SEO MASTER COMMAND 2026 — FULL AUTONOMOUS SEO A–Z (chủ website ủy quyền thực thi trực tiếp các sửa an toàn, kiểm chứng được; 31/10/2026). Trong khuôn khổ AGENTS.md: không sửa _posts/ PUBLISHED, không đổi URL/canonical, không đổi dữ liệu kinh doanh, trang chủ đóng băng.",
+ "changes": [
+  {
+   "id": "W4-01",
+   "date": "2026-10-31",
+   "area": "title-link",
+   "files": "_includes/seo.html",
+   "what": "Hậu tố title ngắn ' | Nguyễn Tú' (business.brand) thay ' - Thuê Xe Máy Hà Nội Nguyễn Tú'; bỏ hậu tố dài còn cứng trong front matter khi render; hỗ trợ page.seo_title (trang ngoài _posts). Trang chủ giữ meta_title đóng băng.",
+   "status": "DONE",
+   "audit": "HM-01"
+  },
+  {
+   "id": "W4-02",
+   "date": "2026-10-31",
+   "area": "title-link + meta",
+   "files": "63 tệp pillar/hub (thue-xe*, xe-may*, an-toan-phap-ly*, cung-duong*, ky-nang*, hoi-dap*, du-lich*) + 10 trang tĩnh",
+   "what": "seo_title theo search intent (≤55 ký tự, không head term của website chính) + meta description 110–160 ký tự tóm tắt phần giới thiệu sẵn có (51/56 hub trước đó < 70 ký tự). Soạn bởi 3 agent + 1 agent phản biện (12 mục sửa vì diễn đạt mạnh hơn nguồn); validate-hub-intros.py PASS.",
+   "status": "DONE",
+   "audit": "HM-03, HM-06"
+  },
+  {
+   "id": "W4-03",
+   "date": "2026-10-31",
+   "area": "open-graph",
+   "files": "_includes/seo.html",
+   "what": "og:locale vi_VN, og:image:alt; twitter:card \"summary\" khi chỉ có logo vuông 512px (trước: summary_large_image cắt logo); hỗ trợ page.image (ảnh thật) cho sau này; robots max-image-preview:large cho trang không có page.robots. Ảnh xe thật cho 11 trang xe/bảng giá: CHỜ CHỦ xác nhận quyền dùng làm ảnh chia sẻ (phản biện IMG-03).",
+   "status": "DONE",
+   "audit": "HM-04, IMG-04 (IMG-03 chờ chủ)"
+  },
+  {
+   "id": "W4-04",
+   "date": "2026-10-31",
+   "area": "hreflang",
+   "files": "_includes/seo.html",
+   "what": "Bỏ cặp hreflang vi/x-default tự trỏ trên 7.047 trang (site đơn ngữ, không có bản thay thế; ~2,3 MB HTML).",
+   "status": "DONE",
+   "audit": "HM-05"
+  },
+  {
+   "id": "W4-05",
+   "date": "2026-10-31",
+   "area": "structured-data",
+   "files": "_includes/seo.html; scripts/seo/build-post-modified.py; _data/post-modified.json; _layouts/post.html",
+   "what": "LocalBusiness: streetAddress gồm phường Bồ Đề, addressCountry VN, giờ mở cửa đọc từ business.hours, hasMap + areaServed từ _data/business.yml. WebSite: inLanguage + publisher. BlogPosting: bỏ logo làm ảnh bài (Google Article: không dùng logo), author.url → /gioi-thieu/, dateModified = ngày sửa thật (254 bài revise-published) + dòng 'Cập nhật dd/mm/yyyy' hiển thị.",
+   "status": "DONE",
+   "audit": "SD-03, SD-04, SD-05, SD-06, CRAWL-01 (một phần)"
+  },
+  {
+   "id": "W4-06",
+   "date": "2026-10-31",
+   "area": "breadcrumb + taxonomy",
+   "files": "_includes/article-breadcrumb.html; _layouts/post.html; _layouts/topic.html; _layouts/topic-listing.html; _layouts/hub.html; scripts/seo/build-taxonomy-overrides.py; _data/taxonomy-overrides.yml",
+   "what": "14 bài PUBLISHED có parent_id/child_id front matter sai taxonomy: giá trị đúng từ matrix (render-time, không sửa _posts). BreadcrumbList không còn name:null/item '//' (4 bài); nhãn breadcrumb không cắt cụt ở ' - ' (25 bài); 10 bài trước không nằm trong hub nào nay vào đúng hub.",
+   "status": "DONE",
+   "audit": "SD-01, SD-02, IL-02"
+  },
+  {
+   "id": "W4-07",
+   "date": "2026-10-31",
+   "area": "architecture",
+   "files": "du-lich.md",
+   "what": "Pillar /du-lich/ liệt kê đủ 6 hub với số bài đúng (O(1) từ listing-index; trước 4/6 hub, số bài sai 11/3/2/1), đưa lên trên danh sách bài, nối sang /cung-duong/.",
+   "status": "DONE",
+   "audit": "IL-01"
+  },
+  {
+   "id": "W4-08",
+   "date": "2026-10-31",
+   "area": "internal-links",
+   "files": "bang-gia*.md, gioi-thieu.md, du-lich.md; _data/hub-related.yml; _layouts/topic.html",
+   "what": "Trang giá ↔ hub cùng loại xe (xe số/ga/50cc/điện, giá theo ngày/tuần/tháng); anchor 'kinh nghiệm thuê xe máy tại Hà Nội' chuyển từ danh sách thời gian /kinh-nghiem/ sang silo /thue-xe/; khối 'Chủ đề liên quan' (≤3 hub cùng intent ở pillar khác + trang giá) cho 26 hub.",
+   "status": "DONE",
+   "audit": "IL-04, IL-05"
+  },
+  {
+   "id": "W4-09",
+   "date": "2026-10-31",
+   "area": "headings",
+   "files": "8 trang tĩnh (FAQ #### → ###), bao-mat.md, dieu-khoan.md, _includes/post-cta.html, _includes/assistant.html, assets/css/components.css",
+   "what": "Bỏ nhảy cấp h2→h4; sửa danh sách liên hệ sinh h2 giả + <li> rỗng; CTA cuối bài thành h2 riêng (không nằm dưới 'Bài viết liên quan', không lặp head term); tiêu đề hộp trợ lý không còn là h3 trước H1.",
+   "status": "DONE",
+   "audit": "HM-07, HM-08, A11Y-05"
+  },
+  {
+   "id": "W4-10",
+   "date": "2026-10-31",
+   "area": "accessibility",
+   "files": "assets/css/tokens.css, assets/css/base.css, assets/css/components.css, _includes/assistant.html, assets/js/assistant.js, _includes/header.html, _includes/footer.html",
+   "what": "Tương phản chữ WCAG 1.4.3 (muted text sáng/tối, link bài và nút chính chế độ tối); gạch chân link trong đoạn văn hub/trang (1.4.1); scroll-padding trên html (2.4.11); nút trợ lý: tên truy cập chứa nhãn hiển thị, aria-controls, type=button; panel không còn khai aria-modal (không phải modal thật), trả tiêu điểm về nút mở khi đóng; định nghĩa token --color-primary-contrast (nút chọn ngày, nút gọi nổi); alt logo không lặp tên.",
+   "status": "DONE",
+   "audit": "A11Y-01..05, IMG-08"
+  },
+  {
+   "id": "W4-11",
+   "date": "2026-10-31",
+   "area": "performance",
+   "files": "_layouts/home.html, assets/images/services/*-480.webp|-800.webp, assets/images/logo-96.webp, _includes/header.html, _includes/footer.html, _layouts/default.html, _layouts/topic*.html, _layouts/hub.html",
+   "what": "Ảnh trang chủ WebP 480/800/1200 qua srcset (JPEG gốc giữ làm src); logo hiển thị 96px WebP thay JPEG 512px; JSON bảng giá chỉ nhúng ở 2 trang dùng máy tính giá; vòng lặp Liquid trim khoảng trắng (trang danh sách hub).",
+   "status": "DONE",
+   "audit": "PERF-01, PERF-03(A), PERF-04, PERF-05(một phần), IMG-06, IMG-07"
+  },
+  {
+   "id": "W4-12",
+   "date": "2026-10-31",
+   "area": "image privacy",
+   "files": "IMG_2536.jpeg, Honda air blade.jpeg, assets/images/services/*.jpeg",
+   "what": "Gỡ EXIF/XMP/IPTC (gồm toạ độ GPS ở Hoàn Kiếm không khớp địa chỉ đã xác minh) không nén lại: pixel giống hệt, giữ ICC, giữ URL.",
+   "status": "DONE",
+   "audit": "IMG-01"
+  },
+  {
+   "id": "W4-13",
+   "date": "2026-10-31",
+   "area": "crawl",
+   "files": "_includes/seo.html, _layouts/post.html, _layouts/default.html, _config.yml",
+   "what": "Mô tả riêng cho 231 trang phân trang hub (trước dùng chung site.description); chuẩn hóa 46 href thô có dấu cách về dạng percent-encoded khi render; feed Atom autodiscovery + 50 bài.",
+   "status": "DONE",
+   "audit": "CRAWL-02, CRAWL-03, CRAWL-06"
+  },
+  {
+   "id": "W4-14",
+   "date": "2026-10-31",
+   "area": "data hygiene",
+   "files": "_data/seo-topic-links.json (scripts/seo/build-topic-links.py), docs/LOCAL-SEO.md",
+   "what": "Tái sinh liên kết 'Cùng chủ đề' (nhóm mới thứ 50: giá thuê Honda Wave theo tuần — BLG-03561 ↔ bài 29/10); tài liệu LOCAL-SEO bỏ bản chép giá cũ đã lệch, trỏ về nguồn sự thật.",
+   "status": "DONE",
+   "audit": "SEO-102 (bảo trì)"
+  },
+  {
+   "id": "W4-15",
+   "date": "2026-10-31",
+   "area": "deliverable",
+   "files": "scripts/seo/build-master-xlsx.py; reports/factory/seo-master/Master-SEO-Matrix.xlsx",
+   "what": "Workbook Master SEO Matrix 23 sheet, dashboard bằng công thức (COUNTIF/COUNTIFS/SUM), Arial, freeze panes, filter; N/A kèm nguồn thiếu.",
+   "status": "DONE",
+   "audit": "deliverable"
+  }
+ ]
+}

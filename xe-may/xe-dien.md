@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Xe máy điện - Xe máy & dòng xe"
-description: "Thuê xe máy điện: quãng đường, sạc pin và chi phí cần xác nhận."
+seo_title: "Thuê xe máy điện: tính pin, sạc và quãng đường"
+description: "Ước lượng pin cho cả ngày, vì sao dốc, kẹt xe, chở nặng hay mưa làm quãng đi thực tế lệch thông số, cùng lưu ý sạc ở nhà trọ, hầm chung cư, trạm công cộng."
 lang: vi
 permalink: /xe-may/xe-dien/
 parent_id: P-XE-MAY

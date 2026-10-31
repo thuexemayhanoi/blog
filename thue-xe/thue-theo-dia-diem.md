@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Thuê xe theo địa điểm - Thuê xe máy Hà Nội"
-description: "Thuê xe máy quanh ga, bến xe, sân bay và các khu vực trọng điểm của Hà Nội."
+seo_title: "Thuê xe máy theo địa điểm: ga, bến xe, sân bay"
+description: "Hình dung quãng đường từ ga, bến xe, Nội Bài hay phố cổ sang cửa hàng ở Bồ Đề, Long Biên, cách đọc địa chỉ ngõ ngách và chuyện gửi xe ở các khu quen thuộc."
 lang: vi
 permalink: /thue-xe/thue-theo-dia-diem/
 parent_id: P-THUE-XE

@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Giấy tờ xe & cá nhân - An toàn & pháp lý"
-description: "CCCD, đăng ký xe, giấy tờ cần mang theo khi điều khiển xe."
+seo_title: "Giấy tờ cần mang khi đi xe máy: căn cước, đăng ký"
+description: "Căn cước, VNeID, đăng ký xe, biển số và giấy cần xuất trình khi bị dừng xe; trường hợp xe thuê, xe mượn, xe đứng tên công ty, mất căn cước giữa kỳ thuê."
 lang: vi
 permalink: /an-toan-phap-ly/giay-to/
 parent_id: P-PHAP-LY

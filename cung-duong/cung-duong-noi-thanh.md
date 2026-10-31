@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Cung đường nội thành - Cung đường & hành trình"
-description: "Lộ trình di chuyển giữa các khu vực nội thành Hà Nội."
+seo_title: "Cung đường nội thành Hà Nội bằng xe máy"
+description: "Tuyến xe máy giữa các khu trong Hà Nội: vòng Hồ Gươm, Hồ Tây, ven sông Hồng, qua cầu, kèm lưu ý giờ đông, phố một chiều, chỗ đỗ xe và bài cho người mới chạy."
 lang: vi
 permalink: /cung-duong/cung-duong-noi-thanh/
 parent_id: P-CUNG-DUONG

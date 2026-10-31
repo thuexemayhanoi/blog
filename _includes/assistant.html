@@ -3,7 +3,7 @@
 {%- comment -%} FIXED: Removed all .vi accessors - uses direct scalar access {%- endcomment -%}
 
 <!-- Assistant Toggle Button -->
-<button class="assistant-toggle" id="assistant-toggle" aria-label="Mở trợ lý hỗ trợ">
+<button type="button" class="assistant-toggle" id="assistant-toggle" aria-label="Hỏi nhanh – mở trợ lý hỗ trợ" aria-controls="assistant-panel" aria-expanded="false">
   <span class="assistant-icon">
     {% include icon.html name="assistant" size="24" %}
   </span>
@@ -12,9 +12,9 @@
 </button>
 
 <!-- Assistant Panel -->
-<div class="assistant-panel glass-card" id="assistant-panel" role="dialog" aria-modal="true" aria-labelledby="assistant-title">
+<div class="assistant-panel glass-card" id="assistant-panel" role="dialog" aria-labelledby="assistant-title">
   <div class="assistant-header">
-    <h3 id="assistant-title">{{ assistant.assistant.name }}</h3>
+    <p id="assistant-title" class="assistant-title">{{ assistant.assistant.name }}</p>
     <button class="assistant-close" aria-label="Đóng" data-assistant-close>
       {% include icon.html name="close" size="20" %}
     </button>
@@ -30,7 +30,7 @@
     <div class="assistant-quick-questions">
       <p class="quick-title">Câu hỏi nhanh:</p>
       <div class="assistant-question-list">
-        {% for q in assistant.quick_questions %}
+        {% for q in assistant.quick_questions %}{% if q.hidden %}{% continue %}{% endif %}
         <button 
           class="assistant-question-btn" 
           data-question-id="{{ q.id }}"

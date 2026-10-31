@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Nhận xe & trả xe - Thuê xe máy Hà Nội"
-description: "Checklist nhận xe, kiểm tra tình trạng và quy trình trả xe."
+seo_title: "Nhận và trả xe máy thuê: những việc cần kiểm tra"
+description: "Chụp ảnh, thử phanh, còi, xi nhan và ghi vết xước cũ lúc nhận xe; khi trả thì để ý mức xăng, giờ hẹn, giấy tờ gốc và lưu tin nhắn bàn giao để tránh tranh cãi."
 lang: vi
 permalink: /thue-xe/nhan-tra-xe/
 parent_id: P-THUE-XE

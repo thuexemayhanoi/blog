@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Bảo dưỡng xe máy - Xe máy & dòng xe"
-description: "Kiến thức bảo dưỡng cơ bản cho xe thuê: nhớt, lốp, đèn, phanh."
+seo_title: "Bảo dưỡng xe máy thuê: những việc tự kiểm tra được"
+description: "Việc người thuê tự làm được: xem lốp, que thăm nhớt, nghe tiếng phanh, độ chùng xích, thử đèn còi, và phần nên để thợ như dây côn, bugi, dầu phanh, sạc ắc quy."
 lang: vi
 permalink: /xe-may/bao-duong-xe/
 parent_id: P-XE-MAY

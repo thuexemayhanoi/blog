@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Xe tay ga - Xe máy & dòng xe"
-description: "Đặc điểm, cách vận hành và lựa chọn xe tay ga cho thuê."
+seo_title: "Xe tay ga khi thuê: cốp, khóa thông minh, lỗi hay gặp"
+description: "Điều nên biết khi thuê xe tay ga: khoang dưới yên, khóa thông minh, hộp số vô cấp, xử lý xe rung, giật cục, bốc mùi, tự tắt và lưu ý cho người ngồi sau."
 lang: vi
 permalink: /xe-may/xe-ga/
 parent_id: P-XE-MAY

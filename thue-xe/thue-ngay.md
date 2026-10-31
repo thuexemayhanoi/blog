@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Thuê xe theo ngày - Thuê xe máy Hà Nội"
-description: "Thuê xe máy theo ngày: khi nào hợp lý, chi phí và lưu ý."
+seo_title: "Thuê xe máy theo ngày: lưu ý và gợi ý lộ trình"
+description: "Cho nhu cầu gói gọn trong ngày: nhận xe buổi nào tiện, trả muộn hay thuê qua đêm tính ra sao, kèm gợi ý lộ trình nội, ngoại thành và cách canh giờ về trả xe."
 lang: vi
 permalink: /thue-xe/thue-ngay/
 parent_id: P-THUE-XE

@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Thuê xe theo tuần - Thuê xe máy Hà Nội"
-description: "Thuê xe máy theo tuần cho chuyến đi hoặc nhu cầu nhiều ngày."
+seo_title: "Thuê xe máy theo tuần cho người ở lại nhiều ngày"
+description: "Thuê theo tuần có khớp kế hoạch của bạn không? Xem qua các hoàn cảnh như công tác, về quê, đi chặng xa, cùng cách chăm xe giữa kỳ, báo gia hạn và trả xe."
 lang: vi
 permalink: /thue-xe/thue-tuan/
 parent_id: P-THUE-XE

@@ -178,7 +178,8 @@ button:focus {
 .grid { display: grid; }
 /* Floating launchers (phone trái, trợ lý phải) không che nội dung cuối trang */
 @media (max-width: 767px) {
-  body {
+  /* scroll-padding chỉ có hiệu lực trên phần tử gốc (html), không phải body — WCAG 2.4.11 focus không bị nút nổi che. */
+  html {
     scroll-padding-bottom: calc(76px + env(safe-area-inset-bottom, 0px));
   }
 

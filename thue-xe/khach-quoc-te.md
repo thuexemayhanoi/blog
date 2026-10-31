@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Thuê xe cho khách quốc tế - Thuê xe máy Hà Nội"
-description: "Điều kiện giấy tờ, giấy phép lái xe và lưu ý cho người nước ngoài."
+seo_title: "Thuê xe máy cho người nước ngoài: giấy tờ và lưu ý"
+description: "Cho du khách, người nước ngoài sống ở Việt Nam và Việt kiều về thăm nhà: hộ chiếu, visa, bản dịch giấy tờ, trao đổi với chủ xe, đọc biển báo, đổ xăng lần đầu."
 lang: vi
 permalink: /thue-xe/khach-quoc-te/
 parent_id: P-THUE-XE

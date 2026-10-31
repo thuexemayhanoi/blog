@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Hỏi đáp pháp lý - Hỏi đáp thuê xe máy"
-description: "Trả lời nhanh các câu hỏi pháp lý khi thuê và lái xe máy."
+seo_title: "Hỏi đáp pháp lý khi thuê xe máy: xử phạt, va chạm"
+description: "Bị dừng xe kiểm tra, phạt nguội, giấy phép lái của người nước ngoài, xe 50cc, bồi thường sau va chạm: đọc để hiểu vấn đề, rồi đối chiếu văn bản hiện hành."
 lang: vi
 permalink: /hoi-dap/hoi-dap-phap-ly/
 parent_id: P-HOI-DAP

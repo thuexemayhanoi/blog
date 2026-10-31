@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Điểm đến Hà Nội - Du lịch Hà Nội"
-description: "Các điểm đến nổi tiếng ở Hà Nội nên đi bằng xe máy."
+seo_title: "Điểm đến Hà Nội đi bằng xe máy: đường đi, gửi xe"
+description: "Đường đi, chỗ gửi xe và thời gian ghé ở chùa Một Cột, Văn Miếu, Cột Cờ, chùa Trấn Quốc, cầu Nhật Tân, kèm tuyến ghép nhiều điểm và chỗ trong nhà cho ngày mưa."
 lang: vi
 permalink: /du-lich/diem-den/
 parent_id: P-DU-LICH

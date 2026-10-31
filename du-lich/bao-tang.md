@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Bảo tàng - Du lịch Hà Nội"
-description: "Bảo tàng Hà Nội: lịch sử, không gian trưng bày và di chuyển."
+seo_title: "Bảo tàng ở Hà Nội: gửi xe, lối vào và lúc nên đi"
+description: "Chuẩn bị trước khi thăm Bảo tàng Hà Nội, Lịch sử Quốc gia, Phụ nữ Việt Nam hay bảo tàng chuyên đề: chỗ gửi xe, đường đi, ghép vài nơi gần nhau trong một buổi."
 lang: vi
 permalink: /du-lich/bao-tang/
 parent_id: P-DU-LICH

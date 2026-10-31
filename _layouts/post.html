@@ -49,8 +49,13 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
       {% endif %}
       <div class="post-meta">
         <span class="post-date">{% include icon.html name="calendar" %} {{ page.date | date: "%d/%m/%Y" }}</span>
+        {%- comment -%} Ngày cập nhật hiển thị = BlogPosting.dateModified (chỉ bài đã sửa nội dung qua revise-published; _data/post-modified.json, khóa article_id). {%- endcomment -%}
+        {% assign art_rev = site.data.post-modified.posts[page.article_id] %}
+        {% if art_rev %}
+        <span class="post-updated">Cập nhật <time datetime="{{ art_rev.modified }}">{{ art_rev.modified | date: "%d/%m/%Y" }}</time></span>
+        {% endif %}
         {% if page.author %}
-        <span class="post-author">{% include icon.html name="pen" %} {{ page.author }}</span>
+        <span class="post-author">{% include icon.html name="pen" %} <a href="{{ '/gioi-thieu/' | relative_url }}" rel="author">{{ page.author }}</a></span>
         {% endif %}
         <span class="reading-time">{% include icon.html name="clock" %} {{ art_reading }} phút đọc ({{ art_words }} từ)</span>
       </div>
@@ -83,7 +88,11 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
       Một số bài legacy viết link nội bộ dạng .../slug// (nối thêm "/" sau {% raw %}{% post_url %}{% endraw %}). URL đó vẫn trả 200
       nhưng là biến thể không canonical; chuẩn hóa khi render (không sửa _posts/).
     {%- endcomment -%}
-    {%- assign post_body_html = art_content | replace: '//">', '/">' -%}
+    {%- comment -%}
+      Một số bài factory viết link tới URL legacy dạng thô "/kinh nghiệm/…", "/chia sẻ/…", "/du lịch/…" (có dấu cách). Chuẩn hóa về dạng
+      percent-encoded đúng như canonical/sitemap (46 href, 30 bài; SEO wave 4 CRAWL-03). Không sửa _posts/.
+    {%- endcomment -%}
+    {%- assign post_body_html = art_content | replace: '//">', '/">' | replace: 'href="/kinh nghiệm/', 'href="/kinh%20nghi%E1%BB%87m/' | replace: 'href="/chia sẻ/', 'href="/chia%20s%E1%BA%BB/' | replace: 'href="/du lịch/', 'href="/du%20l%E1%BB%8Bch/' -%}
     <div class="post-content article-body">
       {{ post_body_html }}
     </div>

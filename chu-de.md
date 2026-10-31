@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Tất cả chủ đề - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú"
+seo_title: "Tất cả chủ đề cẩm nang xe máy"
 description: "Toàn bộ chủ đề cẩm nang thuê xe máy Hà Nội: thuê xe, dòng xe, an toàn pháp lý, du lịch, cung đường, kỹ năng và hỏi đáp."
 lang: vi
 permalink: /chu-de/

@@ -1,71 +1,72 @@
 {
-  "body_internal_links_resolved_to_post": 12357,
+  "body_internal_links_resolved_to_post": 13041,
   "broken_internal_targets": 0,
-  "dup_cannibalization_key_groups": 49,
+  "dup_cannibalization_key_groups": 50,
   "dup_description_groups": 0,
   "dup_slug_groups": 0,
   "dup_title_groups": 0,
   "enrichment": {
     "action_status": {
-      "BLOCKED_URL_CONTRACT": 1390,
-      "DEFERRED_OWNER_PLAN": 77,
+      "BLOCKED_URL_CONTRACT": 2,
+      "DEFERRED_OWNER_PLAN": 121,
       "EXPECTED": 1,
-      "NONE": 5011,
-      "OPEN": 364
+      "NONE": 6499,
+      "OPEN": 426
     },
     "fix_priority": {
-      "P2": 1448,
-      "P3": 383,
-      "P4": 5012
+      "P2": 61,
+      "P3": 488,
+      "P4": 6500
     },
     "needs_action": {
-      "CANNIBALIZATION_SUPPORT": 58,
-      "FRESHNESS_REVIEW": 386,
+      "CANNIBALIZATION_SUPPORT": 59,
+      "FRESHNESS_REVIEW": 428,
       "NEAR_TITLE_PAIR": 64,
       "NOINDEX_INTENTIONAL": 1,
-      "SLUG_D_STRIPPED": 1410
+      "SLUG_D_STRIPPED": 2
     },
     "note": "staleness_risk/stale_signals = INFERRED (regex trên nội dung bài); FRESHNESS_REVIEW chỉ là gợi ý rà soát theo nguồn chính thức, không phải kết luận sai/đúng",
     "seo_role": {
-      "CANNIBALIZATION_LEAD": 48,
+      "CANNIBALIZATION_LEAD": 49,
       "HOME": 1,
       "HUB": 56,
       "LEAD_POST": 204,
-      "LISTING": 689,
+      "LISTING": 711,
       "PAGE": 14,
       "PILLAR": 7,
-      "SUPPORT_POST": 57,
-      "TOPIC_POST": 5767
+      "SUPPORT_POST": 58,
+      "TOPIC_POST": 5949
     },
     "staleness_risk": {
-      "HIGH": 386,
-      "LOW": 3127,
-      "MEDIUM": 2563
+      "HIGH": 428,
+      "LOW": 3170,
+      "MEDIUM": 2659
     }
   },
   "generated_by": "scripts/seo/build-inventory.py",
-  "html_pages": 6844,
-  "inventory_rows": 6843,
+  "html_pages": 7050,
+  "inventory_rows": 7049,
   "issues_by_code": {
-    "DUP_CANNIBALIZATION_KEY": 107,
+    "DUP_CANNIBALIZATION_KEY": 109,
     "NOINDEX": 1
   },
   "pages_by_type": {
     "Home": 1,
     "Hub": 56,
-    "Listing": 689,
+    "Listing": 711,
     "Page": 14,
     "Pillar": 7,
-    "Post": 6076
+    "Post": 6257,
+    "RedirectStub": 3
   },
   "phase_html": true,
   "post_inbound_distribution": {
-    "10+": 2188,
+    "10+": 2302,
     "2-4": 1,
-    "5-9": 3887
+    "5-9": 3954
   },
-  "posts_total": 6076,
-  "posts_with_url": 6076,
+  "posts_total": 6257,
+  "posts_with_url": 6257,
   "posts_zero_inbound_in_rendered_html": 0,
-  "sitemap_urls": 6842
+  "sitemap_urls": 7045
 }

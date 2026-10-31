@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Hồ Tây & lân cận - Du lịch Hà Nội"
-description: "Khu Hồ Tây, đền thờ và ven sông Hồng."
+seo_title: "Hồ Tây bằng xe máy: vòng hồ, điểm dừng, đặc sản"
+description: "Chạy vòng Hồ Tây theo khung giờ và thời tiết, dừng ở Phủ Tây Hồ, chùa Trấn Quốc, đường Thanh Niên, hồ Trúc Bạch, thử xôi Phú Thượng và trà sen Quảng An."
 lang: vi
 permalink: /du-lich/ho-tay/
 parent_id: P-DU-LICH

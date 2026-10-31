@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Sức khỏe khi lái xe - Kỹ năng & tình huống"
-description: "Mệt mỏi, say rượu, thị giác, phụ nữ mang thai và người lớn tuổi."
+seo_title: "Sức khỏe khi lái xe máy: mệt mỏi, mắt, đau lưng"
+description: "Nhận biết lúc nên nghỉ hoặc hoãn chuyến khi mệt, buồn ngủ, mỏi mắt, đau lưng, say nắng, dùng thuốc, đi cùng người lớn tuổi; để tham khảo, không thay lời bác sĩ."
 lang: vi
 permalink: /ky-nang/suc-khoe-khi-lai-xe/
 parent_id: P-KY-NANG

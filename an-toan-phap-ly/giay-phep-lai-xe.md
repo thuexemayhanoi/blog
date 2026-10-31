@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Giấy phép lái xe - An toàn & pháp lý"
-description: "Hạng giấy phép lái xe máy, điều kiện được phép lái."
+seo_title: "Giấy phép lái xe máy: hạng bằng, đổi và cấp lại"
+description: "Hạng bằng ứng với từng loại xe máy, bằng do nước ngoài hoặc tỉnh khác cấp, đổi và cấp lại, bản trên VNeID, cùng các trường hợp bị giữ, thu hồi hay tước bằng."
 lang: vi
 permalink: /an-toan-phap-ly/giay-phep-lai-xe/
 parent_id: P-PHAP-LY

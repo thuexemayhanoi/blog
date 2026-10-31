@@ -1,16 +1,30 @@
 {% assign business = site.data.business %}
 
 <!-- Primary Meta Tags -->
-{% assign seo_title = page.title %}
-{% if page.url == '/' and page.meta_title %}
-  {% assign seo_title = page.meta_title %}
-{% elsif seo_title %}
-  {% unless seo_title contains site.title %}
-    {% assign seo_title = seo_title | append: ' - ' | append: site.title %}
-  {% endunless %}
-{% else %}
-  {% assign seo_title = site.title %}
-{% endif %}
+{%- comment -%}
+  Title link (SEO wave 4, 2026-10-31): hậu tố thương hiệu NGẮN " | <business.brand>" (giống title trang chủ đã duyệt
+  "… | Nguyễn Tú") thay cho " - <site.title>" (" - Thuê Xe Máy Hà Nội Nguyễn Tú"), vốn đưa từ khóa thương mại đầu
+  "thuê xe máy Hà Nội" vào ~7.000 title (trái chiến lược K01: blog không tranh head term với website chính) và là
+  boilerplate dài lặp lại (https://developers.google.com/search/docs/appearance/title-link).
+  - page.seo_title (tùy chọn, chỉ trang tĩnh/hub ngoài _posts) ghi đè chữ hiển thị trong <title>; H1 vẫn lấy page.title.
+  - Hậu tố dài cũ còn cứng trong front matter (hub " - Cẩm nang …", trang tĩnh/danh sách " - …") được bỏ khi render.
+  - Trang chủ giữ nguyên meta_title (đóng băng, scripts/seo/frozen-homepage.json).
+  - Rollback: revert commit này (không đổi byte _posts/, URL, canonical).
+{%- endcomment -%}
+{%- assign seo_brand = business.brand | default: site.title -%}
+{%- capture seo_long_suffix %} - {{ site.title }}{% endcapture -%}
+{%- capture seo_hub_suffix %} - Cẩm nang {{ site.title }}{% endcapture -%}
+{%- assign seo_title = page.seo_title | default: page.title -%}
+{%- if page.url == '/' and page.meta_title -%}
+  {%- assign seo_title = page.meta_title -%}
+{%- elsif seo_title -%}
+  {%- assign seo_title = seo_title | remove: seo_hub_suffix | remove: seo_long_suffix -%}
+  {%- unless seo_title contains seo_brand -%}
+    {%- assign seo_title = seo_title | append: ' | ' | append: seo_brand -%}
+  {%- endunless -%}
+{%- else -%}
+  {%- assign seo_title = site.title -%}
+{%- endif %}
 
 <title>{{ seo_title | escape_once }}</title>
 
@@ -18,10 +32,20 @@
 <meta name="title" content="{{ page.meta_title | escape_once }}">
 {% endif %}
 
-<meta name="description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 | escape_once }}">
+{%- comment -%}
+  Mô tả: trang phân trang hub (topic-listing) không có description trong front matter => trước đây 231 trang dùng chung
+  site.description. Sinh mô tả riêng theo tên hub + số trang (giống trang danh sách danh mục). Trang có description giữ nguyên.
+{%- endcomment -%}
+{%- assign seo_desc = page.description -%}
+{%- if seo_desc == nil and page.layout == 'topic-listing' and page.page_num -%}
+  {%- capture seo_desc %}Các bài viết {{ page.title | split: ' - ' | first }}, trang {{ page.page_num }}/{{ page.total_pages }}.{% endcapture -%}
+{%- endif %}
+<meta name="description" content="{{ seo_desc | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 | escape_once }}">
 
 {% if page.robots %}
 <meta name="robots" content="{{ page.robots }}">
+{% else %}
+<meta name="robots" content="max-image-preview:large">
 {% endif %}
 
 {% if page.canonical_url %}
@@ -34,29 +58,43 @@
 <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:title" content="{{ seo_title | escape_once }}">
-<meta property="og:description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 | escape_once }}">
+<meta property="og:description" content="{{ seo_desc | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 | escape_once }}">
 <meta property="og:site_name" content="{{ site.title | escape_once }}">
+<meta property="og:locale" content="vi_VN">
 
+{%- comment -%}
+  Ảnh chia sẻ: chỉ có logo vuông 512x512 (bài chưa có ảnh riêng — IMAGE PENDING). page.image (tùy chọn, ảnh thật đã xác minh)
+  thì dùng ảnh đó + thẻ summary_large_image; không có thì thẻ "summary" (hợp với ảnh vuông ≥144px) thay vì ép ảnh lớn.
+{%- endcomment %}
 <!-- Logo for OG -->
-{% if business.logo %}
+{% if page.image %}
+<meta property="og:image" content="{{ page.image | absolute_url }}">
+{% if page.image_width and page.image_height %}<meta property="og:image:width" content="{{ page.image_width }}">
+<meta property="og:image:height" content="{{ page.image_height }}">{% endif %}
+{% if page.image_alt %}<meta property="og:image:alt" content="{{ page.image_alt | escape_once }}">{% endif %}
+{% elsif business.logo %}
 <meta property="og:image" content="{{ business.logo | absolute_url }}">
 <meta property="og:image:width" content="512">
 <meta property="og:image:height" content="512">
 <meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:alt" content="{{ business.display_name | escape_once }}">
 {% endif %}
 
 <!-- Twitter Card -->
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="{% if page.image %}summary_large_image{% else %}summary{% endif %}">
 <meta name="twitter:title" content="{{ seo_title | escape_once }}">
-<meta name="twitter:description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 | escape_once }}">
+<meta name="twitter:description" content="{{ seo_desc | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 | escape_once }}">
 
-{% if business.logo %}
+{% if page.image %}
+<meta name="twitter:image" content="{{ page.image | absolute_url }}">
+{% elsif business.logo %}
 <meta name="twitter:image" content="{{ business.logo | absolute_url }}">
 {% endif %}
 
-<!-- Hreflang for Vietnamese only -->
-<link rel="alternate" hreflang="vi" href="{{ page.url | absolute_url }}">
-<link rel="alternate" hreflang="x-default" href="{{ page.url | absolute_url }}">
+{%- comment -%}
+  Không phát hreflang: site chỉ có tiếng Việt (en/ bị exclude), không có phiên bản ngôn ngữ thay thế để ghép cặp
+  (https://developers.google.com/search/docs/specialty/international/localized-versions). Thêm lại có điều kiện khi có bản dịch thật.
+{%- endcomment %}
 
 <!-- Favicon -->
 {% if business.logo %}
@@ -94,6 +132,23 @@
 {%- assign ld_price_range = '150000-200000 VND' -%}
 {%- if ld_pr_min > 0 and ld_pr_max > 0 -%}{%- capture ld_price_range -%}{{ ld_pr_min }}-{{ ld_pr_max }} VND{%- endcapture -%}{%- endif -%}
 {%- if page.price_range -%}{%- assign ld_price_range = page.price_range -%}{%- endif -%}
+{%- comment -%}
+  SEO wave 4: giờ mở cửa đọc từ business.hours ("09:00 - 21:00"); streetAddress gồm phường (business.address.district) như
+  footer, /gioi-thieu/ và Google Business Profile; hasMap/areaServed lấy từ _data/business.yml (đã xác minh). Không thêm geo/postalCode
+  khi chủ chưa cung cấp (data/business-facts.json không có).
+{%- endcomment -%}
+{%- assign ld_hours = business.hours | default: '09:00 - 21:00' | split: '-' -%}
+{%- assign ld_opens = ld_hours[0] | strip -%}
+{%- assign ld_closes = ld_hours[1] | strip -%}
+{%- assign ld_street = business.address.street | default: '' -%}
+{%- comment -%}
+  dateModified: ngày sửa nội dung có kiểm soát (revise-published) từ _data/post-modified.json (sinh bởi
+  scripts/seo/build-post-modified.py); không có thì last_modified_at/ngày đăng. _layouts/post.html in cùng ngày ("Cập nhật").
+{%- endcomment -%}
+{%- assign ld_mod = page.last_modified_at | default: page.date -%}
+{%- assign ld_rev = site.data.post-modified.posts[page.article_id] -%}
+{%- if ld_rev -%}{%- assign ld_mod = ld_rev.modified -%}{%- endif -%}
+{%- if business.address.district -%}{%- assign ld_street = ld_street | append: ', ' | append: business.address.district -%}{%- endif -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -124,17 +179,19 @@
       "priceRange": {{ ld_price_range | jsonify | replace: '</', '<\/' }},
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": {{ business.address.street | default: '' | jsonify | replace: '</', '<\/' }},
+        "streetAddress": {{ ld_street | jsonify | replace: '</', '<\/' }},
         "addressLocality": {{ business.address.city | default: 'Ha Noi' | jsonify | replace: '</', '<\/' }},
         "addressRegion": {{ business.address.region | default: 'Ha Noi' | jsonify | replace: '</', '<\/' }},
-        "addressCountry": {{ business.address.country | default: 'Viet Nam' | jsonify | replace: '</', '<\/' }}
+        "addressCountry": "VN"
       },
+      {% if business.contact.maps %}"hasMap": {{ business.contact.maps | jsonify | replace: '</', '<\/' }},{% endif %}
+      {% if business.areas %}"areaServed": {{ business.areas | jsonify | replace: '</', '<\/' }},{% endif %}
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
           "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
-          "opens": "09:00",
-          "closes": "21:00"
+          "opens": {{ ld_opens | jsonify }},
+          "closes": {{ ld_closes | jsonify }}
         }
       ],
       "sameAs": [
@@ -149,7 +206,9 @@
       "@id": "{{ ld_site }}#website",
       "url": "{{ ld_site }}",
       "name": {{ site.title | jsonify | replace: '</', '<\/' }},
-      "description": {{ site.description | default: '' | jsonify | replace: '</', '<\/' }}
+      "description": {{ site.description | default: '' | jsonify | replace: '</', '<\/' }},
+      "inLanguage": "vi",
+      "publisher": { "@id": "{{ ld_site }}#organization" }
     }
     {% if page.layout == 'post' %}
     ,
@@ -163,14 +222,21 @@
       "headline": {{ page.title | jsonify | replace: '</', '<\/' }},
       "description": {{ page.description | default: page.excerpt | strip_html | normalize_whitespace | truncatewords: 50 | jsonify | replace: '</', '<\/' }},
       "inLanguage": {{ page.lang | default: 'vi' | jsonify }},
-      {% if ld_logo != '' %}
+      {%- comment -%}
+        Ảnh bài: ảnh thật của bài (page.image) khi có; chưa có thì giữ logo như cũ. Bỏ logo riêng ở schema không đổi được
+        ảnh Google chọn vì og:image vẫn là logo (phản biện SD-03: REJECT) — đổi đồng bộ cả hai khi chủ cung cấp ảnh thật (IMAGE PENDING).
+      {%- endcomment %}
+      {% if page.image %}
+      "image": {{ page.image | absolute_url | jsonify }},
+      {% elsif ld_logo != '' %}
       "image": {{ ld_logo | jsonify }},
       {% endif %}
       "datePublished": "{{ page.date | date_to_xmlschema }}",
-      "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+      "dateModified": "{{ ld_mod | date_to_xmlschema }}",
       "author": {
         "@type": "Person",
-        "name": {{ page.author | default: site.author | jsonify | replace: '</', '<\/' }}
+        "name": {{ page.author | default: site.author | jsonify | replace: '</', '<\/' }},
+        "url": {{ '/gioi-thieu/' | absolute_url | jsonify }}
       },
       "publisher": {
         "@type": "Organization",

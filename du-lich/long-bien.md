@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Long Biên & Gia Lâm - Du lịch Hà Nội"
-description: "Khu Long Biên, Bồ Đề, Gia Lâm, cầu Long Biên và chợ đầu mối."
+seo_title: "Long Biên và Gia Lâm bằng xe máy: cầu, chợ, làng nghề"
+description: "Qua cầu Long Biên, đường ven sông, chợ đầu mối lúc sớm, khu Bồ Đề, làng gốm và đền chùa phía Gia Lâm, kèm lưu ý xe tải, gửi xe và khi xe hỏng giữa đường làng."
 lang: vi
 permalink: /du-lich/long-bien/
 parent_id: P-DU-LICH

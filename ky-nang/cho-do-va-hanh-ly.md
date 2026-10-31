@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Chở đồ & hành lý - Kỹ năng & tình huống"
-description: "Chở hành lý, đồ dễ vỡ, thú cưng và vật dài trên xe máy."
+seo_title: "Chở đồ, hành lý trên xe máy: xếp và buộc cho chắc"
+description: "Cách chở vali, thùng chuyển nhà, chậu cây, cành đào, vật dài hay thú cưng: đặt đâu để xe cân, buộc cho chặt và các lỗi hay sót như dây lỏng, đồ che đèn sau."
 lang: vi
 permalink: /ky-nang/cho-do-va-hanh-ly/
 parent_id: P-KY-NANG

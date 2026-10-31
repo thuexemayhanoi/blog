@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "So sánh khi thuê xe máy - Xe máy & dòng xe"
-description: "So sánh model với model, hình thức thuê theo thời gian và chi phí thuê với các phương tiện khác."
+seo_title: "So sánh khi thuê xe máy: mẫu xe, hình thức thuê"
+description: "Đặt các phương án cạnh nhau: Wave hay Sirius, Vision hay Air Blade, thuê ngày hay tháng, qua khách sạn hay cửa hàng, xe máy hay taxi, xe ôm công nghệ, xe buýt."
 lang: vi
 permalink: /xe-may/so-sanh-xe/
 parent_id: P-XE-MAY

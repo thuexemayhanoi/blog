@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Thuê xe theo đối tượng - Thuê xe máy Hà Nội"
-description: "Kinh nghiệm thuê xe máy cho từng nhóm người: sinh viên, người đi làm, gia đình, khách quốc tế, người mới biết lái."
+seo_title: "Thuê xe máy cho sinh viên, gia đình, người mới lái"
+description: "Bài xếp theo hoàn cảnh người thuê: đi làm, gia đình có con nhỏ, ông bà lớn tuổi, cặp đôi, nhóm bạn, người mới lái, kèm mẹo ngồi thử xe cho người thấp, cao to."
 lang: vi
 permalink: /thue-xe/thue-theo-doi-tuong/
 parent_id: P-THUE-XE

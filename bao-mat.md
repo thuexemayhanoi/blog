@@ -59,9 +59,9 @@ Tùy theo quy định pháp luật hiện hành, bạn có thể có các quyề
 
 Nếu bạn có bất kỳ câu hỏi hoặc thắc mắc nào về chính sách bảo mật này hoặc cách chúng tôi xử lý dữ liệu, vui lòng liên hệ:
 
-- {% include icon.html name="phone" %} **Điện thoại:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
-- {% include icon.html name="message" %} **Zalo:** [{{ business.contact.zalo }}]({{ business.contact.zalo }})
-- {% include icon.html name="message" %} **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
+- **Điện thoại:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
+- **Zalo:** [{{ business.contact.zalo }}]({{ business.contact.zalo }})
+- **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
 
 ### Thay đổi chính sách
 

@@ -36,26 +36,30 @@ Lọc bài qua child_id (frontmatter hoặc factory-map), 24 bài/trang, không 
     {% assign offset = page.page_num | minus: 1 | times: page.page_size %}
     {% assign limit_to = offset | plus: page.page_size %}
     <div class="post-grid">
-      {% assign shown = 0 %}
-      {% for post in site.posts %}
-        {% if shown >= limit_to %}{% break %}{% endif %}
-        {% assign p_child = post.child_id %}
-        {% if p_child == nil %}
-          {% assign m = site.data.factory-map[post.slug] %}
-          {% if m %}{% assign p_child = m.c %}{% endif %}
-        {% endif %}
-        {% if p_child == page.child_id %}
-          {% if shown >= offset and shown < limit_to %}
+      {%- comment -%}
+        Thẻ Liquid có dấu gạch (trim khoảng trắng): vòng lặp quét toàn bộ site.posts cho mỗi trang; không trim thì mỗi bài không khớp để lại dòng trống
+        (trang danh sách ~77% khoảng trắng). Chỉ đổi khoảng trắng, DOM/liên kết giữ nguyên (SEO wave 4, PERF-05).
+      {%- endcomment -%}
+      {%- assign shown = 0 -%}
+      {%- for post in site.posts -%}
+        {%- if shown >= limit_to -%}{%- break -%}{%- endif -%}
+        {%- assign p_child = post.child_id -%}
+        {%- if p_child == nil -%}
+          {%- assign m = site.data.factory-map[post.slug] -%}
+          {%- if m -%}{%- assign p_child = m.c -%}{%- endif -%}
+        {%- endif -%}
+        {%- if p_child == page.child_id -%}
+          {%- if shown >= offset and shown < limit_to %}
           <article class="post-card glass-card">
             <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
             <p class="post-date">Đăng ngày {{ post.date | date: "%d/%m/%Y" }}</p>
             <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
             <a href="{{ post.url | relative_url }}" class="read-more">Đọc tiếp</a>
           </article>
-          {% endif %}
-          {% assign shown = shown | plus: 1 %}
-        {% endif %}
-      {% endfor %}
+          {%- endif -%}
+          {%- assign shown = shown | plus: 1 -%}
+        {%- endif -%}
+      {%- endfor %}
     </div>
     {% capture pg_base %}/{{ tl_parent.s }}/{{ tl_child.s }}/{% endcapture %}
     {% include pagination-nav.html base=pg_base page_num=page.page_num total_pages=page.total_pages %}

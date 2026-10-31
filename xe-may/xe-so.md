@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Xe số - Xe máy & dòng xe"
-description: "Đặc điểm, cách lái và kiến thức chọn xe số khi thuê ở Hà Nội."
+seo_title: "Thuê xe số: cách vào số, hãm tốc và đi phố đông"
+description: "Cho người quen xe ga lần đầu cầm xe số: nổ máy, vào số, hãm tốc bằng số thấp, xe chết máy ở đèn đỏ, mỏi cổ chân và dấu hiệu nên dừng xe báo cửa hàng."
 lang: vi
 permalink: /xe-may/xe-so/
 parent_id: P-XE-MAY

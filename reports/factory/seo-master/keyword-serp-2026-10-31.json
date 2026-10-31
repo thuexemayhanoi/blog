@@ -1,0 +1,39 @@
+{
+  "collected_at": "2026-10-31",
+  "market": "Vietnam (locId 2704), language vi, desktop",
+  "sources": {
+    "volume": "Ubersuggest keyword_suggestions (free tier, 3 reports/day used up)",
+    "serp": "OpenSEO get_serp_results depth 10 (DataForSEO live SERP); credits exhausted after 9 queries",
+    "gsc_blog": "UNAVAILABLE (OpenRush/OpenSEO have no Search Console connection for blog.thuexemaynguyentu.com)"
+  },
+  "keywords": [
+    {"kw":"thuê xe máy hà nội","volume":8100,"cpc_usd":0.25,"seo_difficulty":12,"intent":"commercial/transactional"},
+    {"kw":"cho thuê xe máy hà nội","volume":1600,"cpc_usd":0.16,"seo_difficulty":12,"intent":"commercial/transactional"},
+    {"kw":"13535 motorbike rental hanoi thuê xe máy hà nội 13535","volume":320,"note":"competitor brand query (13535 Motorbike)"},
+    {"kw":"thuê xe máy điện hà nội","volume":260,"cpc_usd":0.15,"seo_difficulty":9,"intent":"transactional/commercial"},
+    {"kw":"giá thuê xe máy hà nội","volume":110,"cpc_usd":0.06,"seo_difficulty":16},
+    {"kw":"thuê xe máy 50cc hà nội","volume":110,"cpc_usd":0.465,"seo_difficulty":15},
+    {"kw":"dịch vụ thuê xe máy hà nội","volume":50,"seo_difficulty":24},
+    {"kw":"thuê xe máy giá rẻ hà nội","volume":40,"seo_difficulty":8},
+    {"kw":"thuê xe máy theo tháng hà nội","volume":null,"note":"no volume returned"},
+    {"kw":"thuê xe máy long biên","volume":null,"note":"no volume returned; prior GSC of MAIN site: 262 impressions pos 1.7 (keyword-intent-map K06)"},
+    {"kw":"thuê xe máy phố cổ hà nội","volume":null,"note":"no volume returned"}
+  ],
+  "serp_top10": {
+    "thuê xe máy hà nội": {"features":["local_pack","video"],"organic":["facebook @Thuexemay181KDT","vexere.com/vn/thue-xe/xe-may-tai-ga-ha-noi (Bảng giá tháng 10/2026)","listicle Top 9 địa chỉ (mentions Nguyễn Tú #1.2)","listicle Top 5 (motogo)","facebook motogo.vn","listicle Top 5 gần đây (hanoibiker)"],"local_pack":["Thuê xe máy Hà Nội 31 Ng. Huyện","Vũ Đăng Motorbike Rental 244A Hàng Bông","Mr-Good Bikes 10 Ng.67 Văn Cao"],"blog_present":false},
+    "cho thuê xe máy hà nội": {"features":["ai_overview","local_pack"],"organic":["Phát Đạt 99 Quán Thánh","listicle Top 5","listicle 8 điểm","facebook groups x2","hanoi_motobike"],"blog_present":false},
+    "giá thuê xe máy hà nội": {"features":["ai_overview"],"organic":["vexere ga Hà Nội bảng giá 10/2026","Cầu Giấy top 4 (8/9/2026)","Top 8 giá rẻ","facebook mototrip","fb question","hanoimidorihomes bảng giá 2022","Moto One tháng","mototrip.vn","fb group"],"blog_present":false},
+    "thuê xe máy điện hà nội": {"features":["ai_overview"],"organic":["izigo XanhSM","fb thuê xe điện","thegioixechaydien.net","fb VinFast","izigo 'thuê xe máy điện 1 ngày bao nhiêu tiền'","fb 50cc không bằng lái"],"blog_present":false},
+    "thuê xe máy 50cc hà nội": {"features":["local_pack"],"organic":["Thu Hà 'Thuê Xe Máy 50cc Gần Bến Xe Gia Lâm' (108 Nguyễn Văn Cừ)","Hà Đông top 5","fb group","Cầu Giấy top 4","fb 50cc","'Cho thuê xe điện và xe máy 50cc không cần bằng lái'","'Cách thuê xe máy và xe điện 50cc không cần bằng lái'"],"local_pack":["MOTOGO Hoàng Hoa Thám","Mr-Good Bikes","Thu Hà 108 Nguyễn Văn Cừ"],"blog_present":false},
+    "thuê xe máy theo tháng hà nội": {"features":["ai_overview"],"organic":["vexere ga Hà Nội","fb group","'Cho thuê xe máy theo tháng: 10 hướng dẫn chọn xe'","fb question","facebook 'Thuê xe máy Hà Nội - Nguyễn Tú' (main brand FB)","fb 50cc","motorbike.vn TOP 30","fb Vision tháng","fb"],"blog_present":false},
+    "thuê xe máy long biên": {"features":["ai_overview","local_pack"],"organic":["'Thuê Xe Máy Hà Nội Theo Tháng – Giao Xe Tận Nơi' (Long Biên)","yellowpages Nguyễn Tú 112 Nguyễn Văn Cừ","Cho thuê xe tự lái Long Biên","thuexemaynguyentu.com/blog/chia-se/ (MAIN site WordPress category)","Tripadvisor Nguyễn Tú Long Biên","moto-open.gitbook.io bảng giá Long Biên"],"blog_present":false},
+    "thuê xe máy phố cổ hà nội": {"features":["local_pack","images"],"organic":["gitbook địa điểm","Hà Đông top 5","fb question","blog.thuexemaynguyentu.com/du%20l%E1%BB%8Bch/2026/09/19/thue-xe-may-quan-hoan-kiem-gan-pho-co/ (organic #4)","Cổ Nhuế listicle","hanoi.thuexemaynguyentu.com 'Chạy xe máy ở Phố Cổ Hà Nội: đi đường, gửi xe' (separate site, treat as independent competitor)"],"blog_present":true,"blog_organic_rank":4},
+    "thủ tục thuê xe máy hà nội": {"features":["ai_overview"],"organic":["mototrip.vn/thue-xe-may-ha-noi (giấy tờ + cọc)","listicle 8 điểm","fb '50cc cần giấy tờ và cọc bao nhiêu'","Cầu Giấy 5 địa chỉ","motogo kinh nghiệm du lịch bụi","fb Himoto","xetulaiducthanh thủ tục","Top 8"],"blog_present":false}
+  },
+  "observations": [
+    "AI Overview present on 7/9 queries; Local Pack on 5/9 (head terms owned by GBP listings).",
+    "SERPs dominated by listicles 'Top N địa chỉ', Facebook pages/groups, aggregator vexere, and competitor brands (motogo, mototrip, izigo).",
+    "Blog appears in top 10 only for 'thuê xe máy phố cổ hà nội' (organic #4) with a legacy URL containing an encoded space+diacritics category path.",
+    "Owner's MAIN site thuexemaynguyentu.com (WordPress) and hanoi.thuexemaynguyentu.com are separate properties; per owner command they are treated as independent competitors; prior strategy: blog = informational guide, does not compete for commercial head terms (scripts/seo/seo-matrix-config.yml K01..K12)."
+  ]
+}

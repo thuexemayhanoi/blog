@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Bảng giá xe 50cc - Thuê Xe Máy Hà Nội Nguyễn Tú"
-description: "Thuê xe 50cc tại Hà Nội: đặc điểm, lưu ý khi lái và cách đặt xe. Liên hệ Nguyễn Tú để biết giá thuê xe 50cc hiện tại."
+seo_title: "Bảng giá thuê xe 50cc"
+description: "Bảng giá thuê xe tay ga 50cc tại Hà Nội theo ngày, tiền đặt cọc tham khảo, giấy tờ cần mang và lưu ý khi lái. Giá tuần và tháng báo giá riêng."
 lang: vi
 translation_key: xe-50cc
 permalink: /bang-gia-xe-50cc/
@@ -83,7 +84,7 @@ Không giao xe máy ngoài giờ hoạt động. Thời gian và chi phí giao n
 - **[Xe ga]({{ '/bang-gia-xe-ga/' | relative_url }}):** tự động, nhanh hơn, cần giấy phép lái xe, phù hợp đa số nhu cầu.
 - **[Xe số]({{ '/bang-gia-xe-so/' | relative_url }}):** tiết kiệm xăng nhất, cần kỹ năng côn số, phù hợp đường dài.
 
-Chi tiết so sánh ba nhóm xe được trình bày trong bài viết [Xe số, xe ga hay xe 50cc: nên chọn loại nào?]({{ '/chia sẻ/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/' | relative_url }}).
+Chi tiết so sánh ba nhóm xe được trình bày trong bài viết [Xe số, xe ga hay xe 50cc: nên chọn loại nào?]({{ '/chia sẻ/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/' | relative_url }}). Kinh nghiệm lái và tình huống hay gặp có trong cẩm nang [xe 50cc]({{ '/xe-may/xe-50cc/' | relative_url }}).
 
 ## Kinh nghiệm lái xe 50cc cho du khách nước ngoài
 
@@ -107,27 +108,27 @@ Mùa mưa Hà Nội (khoảng tháng 5 – 8) có những cơn mưa rào to đ�
 
 ## Câu hỏi thường gặp
 
-#### Xe 50cc có cần giấy phép lái xe không?
+### Xe 50cc có cần giấy phép lái xe không?
 
 Xe gắn máy chạy xăng có dung tích không lớn hơn 50 cm³ và vận tốc thiết kế không lớn hơn 50 km/h không yêu cầu giấy phép lái xe; người điều khiển phải đủ 16 tuổi trở lên. Riêng việc thuê xe tại Nguyễn Tú, khách thuê phải đủ 18 tuổi và cần xác nhận giấy tờ trước khi đặt xe.
 
-#### Xe 50cc chạy được bao nhanh?
+### Xe 50cc chạy được bao nhanh?
 
 Xe gắn máy có vận tốc thiết kế không lớn hơn 50 km/h; tốc độ thực tế phụ thuộc vào tình trạng xe và điều kiện đường. Nhóm xe này phù hợp quãng ngắn hơn đường dài.
 
-#### Giá thuê xe 50cc là bao nhiêu?
+### Giá thuê xe 50cc là bao nhiêu?
 
-Giá thay đổi theo mẫu xe và thời gian thuê. Vui lòng liên hệ Nguyễn Tú trực tiếp để được báo giá hiện tại.
+Giá tham khảo của xe tay ga 50cc là 200.000đ/ngày; giá theo tuần và theo tháng được báo riêng. Tiền đặt cọc tham khảo 4.000.000đ là khoản riêng, không tính vào giá thuê. Giá và tình trạng xe cần được xác nhận trước khi đặt.
 
-#### Tôi có thể thuê xe 50cc đi các tỉnh lân cận không?
+### Tôi có thể thuê xe 50cc đi các tỉnh lân cận không?
 
 Không khuyến khích. Xe 50cc phù hợp quãng ngắn trong nội thành; các chuyến liên tỉnh nên dùng xe ga hoặc xe số.
 
-#### Xe 50cc có chỗ chứa đồ không?
+### Xe 50cc có chỗ chứa đồ không?
 
 Tùy mẫu xe. Một số xe 50cc có cốp nhỏ dưới yên hoặc giỏ trước. Nếu bạn cần chở đồ, hãy hỏi rõ mẫu xe sẵn có khi liên hệ.
 
-#### Trời mưa có nên đi xe 50cc không?
+### Trời mưa có nên đi xe 50cc không?
 
 Nên hạn chế. Xe 50cc nhẹ và bánh nhỏ nên dễ văng trên đường trơn. Nếu bị kẹt trong mưa, chạy chậm, tránh vạch sơn và đường ray.
 

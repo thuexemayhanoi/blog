@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Chọn loại xe khi thuê - Xe máy & dòng xe"
-description: "Tư vấn chọn xe số, xe ga, xe điện, dung tích và độ cao yên theo nhu cầu thực tế của người thuê."
+seo_title: "Nên thuê xe máy loại nào: chọn theo người và đường đi"
+description: "Đối chiếu vóc dáng, độ cao yên, thói quen lái, cung đường, đồ cần chở, thời tiết để chọn xe số, xe ga, xe điện, 110cc hay 125cc, và xem 50cc có hợp người mới."
 lang: vi
 permalink: /xe-may/chon-loai-xe/
 parent_id: P-XE-MAY

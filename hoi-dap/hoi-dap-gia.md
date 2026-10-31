@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Hỏi đáp về giá - Hỏi đáp thuê xe máy"
-description: "Trả lời nhanh các câu hỏi thường gặp về giá thuê xe máy."
+seo_title: "Hỏi đáp giá thuê xe máy: cách tính và khoản phát sinh"
+description: "Giải đáp cách tính tiền theo giờ, ngày, tuần, tháng, giá cuối tuần và dịp lễ, giá đã gồm mũ hay xăng chưa, đếm ngày khi trả muộn, gia hạn và báo giá bị lệch."
 lang: vi
 permalink: /hoi-dap/hoi-dap-gia/
 parent_id: P-HOI-DAP

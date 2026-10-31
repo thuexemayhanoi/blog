@@ -1,0 +1,28 @@
+# Liên kết ngữ cảnh giữa các hub cùng intent nằm ở pillar khác nhau (SEO wave 4, IL-05) + trang giá đúng loại xe (IL-04).
+# Khóa = child_id (data/content-taxonomy.json). related: tối đa 3 child_id; price: {u, t} trang giá (không có số liệu ở đây).
+# _layouts/topic.html in khối "Chủ đề liên quan" từ tệp này; anchor = tên hub trong _data/factory-taxonomy.yml.
+C-THUE-GIA: {related: [C-HD-GIA, C-THUE-NGAY, C-THUE-THANG], price: {u: /bang-gia/, t: "Bảng giá thuê xe máy"}}
+C-HD-GIA: {related: [C-THUE-GIA, C-THUE-DAT-COC], price: {u: /bang-gia/, t: "Bảng giá thuê xe máy"}}
+C-THUE-THU-TUC: {related: [C-HD-THU-TUC, C-HD-NGUOI-MOI, C-THUE-DAT-COC]}
+C-HD-THU-TUC: {related: [C-THUE-THU-TUC, C-THUE-QUOC-TE]}
+C-HD-NGUOI-MOI: {related: [C-THUE-THU-TUC, C-KY-NANG-CO-BAN, C-XE-LUA-CHON]}
+C-THUE-NGAY: {related: [C-THUE-TUAN, C-THUE-THANG]}
+C-THUE-TUAN: {related: [C-THUE-NGAY, C-THUE-THANG]}
+C-THUE-THANG: {related: [C-THUE-TUAN, C-THUE-NGAY, C-KY-NANG-GUI-XE]}
+C-THUE-SU-CO: {related: [C-HD-SU-CO, C-XE-KHAC-PHUC]}
+C-HD-SU-CO: {related: [C-THUE-SU-CO, C-XE-KHAC-PHUC]}
+C-XE-KHAC-PHUC: {related: [C-THUE-SU-CO, C-HD-SU-CO, C-BAO-DUONG]}
+C-BAO-DUONG: {related: [C-XE-KHAC-PHUC, C-KY-NANG-CO-BAN]}
+C-KY-NANG-CO-BAN: {related: [C-BAO-DUONG, C-HD-NGUOI-MOI]}
+C-GPLX: {related: [C-HD-PHAP-LY, C-GIAY-TO]}
+C-HD-PHAP-LY: {related: [C-GPLX, C-QUY-DINH, C-PHAT-NGUOI]}
+C-XE-LUA-CHON: {related: [C-HD-CHON-XE, C-XE-SO-SANH]}
+C-HD-CHON-XE: {related: [C-XE-LUA-CHON, C-XE-SO-SANH]}
+C-THUE-DIA-DIEM: {related: [C-LONG-BIEN, C-PHO-CO, C-HO-TAY]}
+C-LONG-BIEN: {related: [C-THUE-DIA-DIEM]}
+C-PHO-CO: {related: [C-THUE-DIA-DIEM, C-CD-NOI-THANH]}
+C-HONDA-WAVE: {price: {u: /bang-gia-xe-so/, t: "Bảng giá thuê xe số"}}
+C-HONDA-VISION: {price: {u: /bang-gia-xe-ga/, t: "Bảng giá thuê xe tay ga"}}
+C-HONDA-CLICK: {price: {u: /bang-gia-xe-ga/, t: "Bảng giá thuê xe tay ga"}}
+C-XE-DIEN: {price: {u: /bang-gia-xe-dien/, t: "Bảng giá thuê xe điện"}}
+C-XE-DAP-DIEN: {price: {u: /bang-gia-xe-dien/, t: "Bảng giá thuê xe điện"}}

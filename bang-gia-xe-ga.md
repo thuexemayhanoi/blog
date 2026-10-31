@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Bảng giá xe ga - Thuê Xe Máy Hà Nội Nguyễn Tú"
+seo_title: "Bảng giá thuê xe tay ga"
 description: "Giá thuê xe tay ga tại Hà Nội theo ngày, tuần và tháng. Honda Vision, Honda Air Blade, Honda Click, Yamaha Mio từ Nguyễn Tú."
 lang: vi
 translation_key: xe-ga
@@ -60,6 +61,8 @@ Cặp xe ga nhỏ gọn, giá thuê thấp nhất trong nhóm xe ga (150.000đ/n
 
 Nếu bạn chạy đường dài hoặc muốn tối ưu chi phí nhiên liệu, [xe số]({{ '/bang-gia-xe-so/' | relative_url }}) có thể phù hợp hơn. So sánh chi tiết giữa các nhóm xe trong bài [xe số, xe ga hay xe 50cc]({{ '/chia sẻ/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/' | relative_url }}).
 
+Kinh nghiệm dùng từng mẫu có trong cẩm nang [xe tay ga]({{ '/xe-may/xe-ga/' | relative_url }}), [Honda Vision]({{ '/xe-may/honda-vision/' | relative_url }}), [Honda Air Blade]({{ '/xe-may/honda-air-blade/' | relative_url }}) và [Honda Click]({{ '/xe-may/honda-click/' | relative_url }}).
+
 ## Thuê xe ga theo tuần và tháng
 
 Với nhu cầu trên 5 đến 7 ngày, thuê theo tuần thường rẻ hơn thuê lẻ theo ngày. Với người sống và làm việc tại Hà Nội, thuê theo tháng là mức kinh tế nhất. Ví dụ theo bảng giá tham khảo:
@@ -99,31 +102,31 @@ Nếu bạn thuê xe ga theo tuần hoặc tháng, vài thói quen đơn giản 
 
 ## Câu hỏi thường gặp
 
-#### Tôi chưa từng lái xe máy, có nên thuê xe ga không?
+### Tôi chưa từng lái xe máy, có nên thuê xe ga không?
 
 Xe ga là lựa chọn phù hợp nhất cho người mới vì không cần phối hợp côn số. Tuy nhiên bạn vẫn cần giấy phép lái xe phù hợp với xe trên 50cc và nên tập quen trong khu vực vắng trước khi vào phố.
 
-#### Khách nước ngoài cần giấy tờ gì để thuê xe ga?
+### Khách nước ngoài cần giấy tờ gì để thuê xe ga?
 
 Khách nước ngoài cần hộ chiếu và giấy phép lái xe hợp lệ tại Việt Nam, đúng hạng xe thuê. Trường hợp sử dụng giấy phép lái xe quốc tế được công nhận theo Công ước Viên năm 1968, cần mang kèm giấy phép lái xe quốc gia phù hợp. Không phải mọi loại bằng lái quốc tế đều được chấp nhận; hãy kiểm tra loại giấy phép trước khi thuê.
 
-#### Giá thuê xe ga có rẻ hơn khi thuê dài hạn không?
+### Giá thuê xe ga có rẻ hơn khi thuê dài hạn không?
 
 Có. Mức giá theo tuần và theo tháng thấp hơn đáng kể so với giá ngày. Vui lòng liên hệ để nhận báo giá theo thời gian thuê cụ thể.
 
-#### Có giao xe ga đến sân bay không?
+### Có giao xe ga đến sân bay không?
 
 Các khu vực ngoài nội thành Hà Nội cần liên hệ trực tiếp để xác nhận khả năng giao xe và chi phí. Thời gian và chi phí giao nhận luôn được xác nhận trước khi đặt xe.
 
-#### Xe ga có hộc chứa đồ không?
+### Xe ga có hộc chứa đồ không?
 
 Có. Hầu hết các mẫu xe ga có hộc chứa dưới yên, đủ chỗ cho mũ bảo hiểm và vật dụng cá nhân nhỏ.
 
-#### Khi thuê xe ga, tôi cần kiểm tra những gì?
+### Khi thuê xe ga, tôi cần kiểm tra những gì?
 
 Đèn trước sau, còi, phanh tay, phanh chân, mức xăng, tình trạng lốp và các vết trầy xước sẵn có. Việc kiểm tra này thực hiện cùng Nguyễn Tú trước khi nhận xe.
 
-#### Xe ga tốn xăng hơn xe số không?
+### Xe ga tốn xăng hơn xe số không?
 
 Xe ga tiêu thụ nhiên liệu nhỉnh hơn xe số cùng phân khúc, nhưng mức chênh lệch không lớn với các mẫu xe hiện đại. Nếu ưu tiên tiết kiệm tối đa cho chuyến dài, xe số là lựa chọn phù hợp hơn.
 

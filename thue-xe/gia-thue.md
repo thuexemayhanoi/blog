@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Giá thuê xe máy - Thuê xe máy Hà Nội"
-description: "Bảng giá và các yếu tố ảnh hưởng đến giá thuê xe máy ở Hà Nội."
+seo_title: "Giá thuê xe máy: cách đọc báo giá và khoản phụ thu"
+description: "Học cách đọc báo giá thuê xe máy: giá đổi theo loại xe, thuê giờ hay ngày, dịp lễ tết, cùng khoản dễ quên như trả muộn, giới hạn kilomet, tiền xăng."
 lang: vi
 permalink: /thue-xe/gia-thue/
 parent_id: P-THUE-XE

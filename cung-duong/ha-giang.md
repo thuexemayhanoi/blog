@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Hà Giang - Cung đường & hành trình"
-description: "Chặng đường Hà Nội - Hà Giang và câu hỏi thuê xe cho chặng xa."
+seo_title: "Đi Hà Giang bằng xe máy: chọn xe, giấy tờ, lịch nghỉ"
+description: "Có nên thuê xe từ Hà Nội cho chặng Hà Giang, xe ga hay xe số, cách chia đêm nghỉ qua Quản Bạ, Đồng Văn, Mèo Vạc, đèo Mã Pí Lèng và lưu ý đường đèo sau mưa."
 lang: vi
 permalink: /cung-duong/ha-giang/
 parent_id: P-CUNG-DUONG

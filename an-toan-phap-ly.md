@@ -1,7 +1,8 @@
 ---
 layout: hub
 title: "An toàn & pháp lý - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú"
-description: "Giấy phép lái xe, bảo hiểm, nồng độ cồn, phạt nguội, biển báo và quy định giao thông khi điều khiển xe máy."
+seo_title: "An toàn và pháp lý khi đi xe máy: bằng lái, giấy tờ"
+description: "Bằng lái, bảo hiểm, nồng độ cồn, phạt nguội, biển báo, giấy tờ và quy tắc đi đường cho người lái xe máy ở Hà Nội, kèm phần trách nhiệm khi thuê xe gặp sự cố."
 lang: vi
 permalink: /an-toan-phap-ly/
 parent_id: P-PHAP-LY

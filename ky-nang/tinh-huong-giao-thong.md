@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Tình huống giao thông - Kỹ năng & tình huống"
-description: "Xử lý ngã tư, vòng xuyến, đường trơn, chướng ngại bất ngờ."
+seo_title: "Xử lý tình huống giao thông bất ngờ khi đi xe máy"
+description: "Giữ bình tĩnh khi xe tải chuyển làn, chó lao ra, qua gác chắn đường sắt, hầm chui, đoạn thi công, chợ lấn đường, ngã tư kẹt cứng, kèm đồ bảo hộ, chở trẻ nhỏ."
 lang: vi
 permalink: /ky-nang/tinh-huong-giao-thong/
 parent_id: P-KY-NANG

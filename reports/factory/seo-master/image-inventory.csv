@@ -1,0 +1,22 @@
+URL ảnh,Định dạng,Kích thước (px),Dung lượng (byte),ALT (nguồn),GPS EXIF,Dùng ở,Media ID,QA
+https://blog.thuexemaynguyentu.com/IMG_2536.jpeg,JPEG,512x512,19688,"rỗng (logo trang trí, link có aria-label)",không,"og:image mặc định, Organization.logo, LocalBusiness.image, favicon, apple-touch-icon","N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/Honda%20air%20blade.jpeg,JPEG,1200x800,127582,,không,"KHÔNG được tham chiếu (giữ deploy, đã gỡ GPS)","N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/Logo%20moto.png,PNG,512x512,27486,"rỗng (logo trang trí, link có aria-label)",không,KHÔNG được tham chiếu (giữ deploy),"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/favicon.svg,SVG,vector,664,,N/A,favicon dự phòng (nhánh else),"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/logo-96.webp,WEBP,96x96,1768,"rỗng (logo trang trí, link có aria-label)",không,logo hiển thị header/menu/footer (40–48px),"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/services/xe-50cc-480.webp,WEBP,480x320,9038,Xe 50cc,không,srcset trang chủ,"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/services/xe-50cc-800.webp,WEBP,800x533,16246,Xe 50cc,không,srcset trang chủ,"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/services/xe-50cc.jpeg,JPEG,1200x800,107202,Xe 50cc,không,trang chủ (hero/thẻ dịch vụ) + og:image 11 trang xe/bảng giá,"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/services/xe-dap-dien-480.webp,WEBP,480x320,11688,Xe đạp điện,không,srcset trang chủ,"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/services/xe-dap-dien-800.webp,WEBP,800x533,24700,Xe đạp điện,không,srcset trang chủ,"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/services/xe-dap-dien.jpeg,JPEG,1200x800,102527,Xe đạp điện,không,trang chủ (hero/thẻ dịch vụ) + og:image 11 trang xe/bảng giá,"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/services/xe-may-dien-480.webp,WEBP,480x270,15182,Xe máy điện,không,srcset trang chủ,"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/services/xe-may-dien-800.webp,WEBP,800x450,28930,Xe máy điện,không,srcset trang chủ,"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/services/xe-may-dien.jpeg,JPEG,1600x900,103747,Xe máy điện,không,trang chủ (hero/thẻ dịch vụ) + og:image 11 trang xe/bảng giá,"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/services/xe-so-honda-wave-480.webp,WEBP,480x320,16454,Honda Wave - xe số,không,srcset trang chủ,"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/services/xe-so-honda-wave-800.webp,WEBP,800x533,33000,Honda Wave - xe số,không,srcset trang chủ,"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/services/xe-so-honda-wave.jpeg,JPEG,1200x800,132033,Honda Wave - xe số,không,trang chủ (hero/thẻ dịch vụ) + og:image 11 trang xe/bảng giá,"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/services/xe-tay-ga-honda-vision-480.webp,WEBP,480x320,12384,Honda Vision - xe tay ga,không,srcset trang chủ,"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/services/xe-tay-ga-honda-vision-800.webp,WEBP,800x533,20886,Honda Vision - xe tay ga,không,srcset trang chủ,"N/A (Jekyll, không có WordPress Media)",PASS
+https://blog.thuexemaynguyentu.com/assets/images/services/xe-tay-ga-honda-vision.jpeg,JPEG,1200x800,102200,Honda Vision - xe tay ga,không,trang chủ (hero/thẻ dịch vụ) + og:image 11 trang xe/bảng giá,"N/A (Jekyll, không có WordPress Media)",PASS
+(6.257 bài viết),,,,,,ảnh đại diện bài,N/A,IMAGE PENDING — chưa có ảnh thật được chủ cung cấp

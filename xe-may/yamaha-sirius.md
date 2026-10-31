@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Yamaha Sirius - Xe máy & dòng xe"
-description: "Yamaha Sirius: xe số gọn nhẹ, tiết kiệm xăng."
+seo_title: "Yamaha Sirius khi thuê: các bản xe, cách lái, đi dốc"
+description: "Sirius có hợp giao đồ, chở nặng, đi làm dài ngày không; khác biệt giữa các bản phanh, phun xăng điện tử, mẹo vào số, chọn số khi lên xuống dốc và so với Wave."
 lang: vi
 permalink: /xe-may/yamaha-sirius/
 parent_id: P-XE-MAY

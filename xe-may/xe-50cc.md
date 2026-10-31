@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Xe 50cc - Xe máy & dòng xe"
-description: "Xe 50cc cho người mới biết lái và di chuyển quãng ngắn."
+seo_title: "Xe 50cc cho người mới: ưu điểm và hạn chế khi thuê"
+description: "Xe 50cc nhỏ nhẹ cho người chưa quen tay lái và chặng ngắn: dễ dắt nhưng dễ đổ, phải canh xăng, yếu khi chở nặng hay lên dốc, kèm lưu ý về giấy tờ và độ tuổi."
 lang: vi
 permalink: /xe-may/xe-50cc/
 parent_id: P-XE-MAY

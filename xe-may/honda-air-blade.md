@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Honda Air Blade - Xe máy & dòng xe"
-description: "Honda Air Blade: xe ga mạnh mẽ cho nhiều loại nhu cầu."
+seo_title: "Honda Air Blade: cảm giác ga, đi dốc và đường xa"
+description: "Air Blade cho chuyến cần thêm sức như Tam Đảo, Ba Vì, quốc lộ: nhẹ tay ga khi mưa, dừng giữa dốc cầu, đọc đồng hồ, smart key, lưu ý cho người thấp, lớn tuổi."
 lang: vi
 permalink: /xe-may/honda-air-blade/
 parent_id: P-XE-MAY

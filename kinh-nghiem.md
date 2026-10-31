@@ -1,6 +1,7 @@
 ---
 layout: category
 title: "Kinh nghiệm - Thuê Xe Máy Hà Nội Nguyễn Tú"
+seo_title: "Kinh nghiệm thuê và đi xe máy"
 description: "Kinh nghiệm thuê xe máy tại Hà Nội: chọn xe, giấy tờ, đặt cọc, kiểm tra xe và lưu ý khi di chuyển an toàn."
 lang: vi
 translation_key: experience
@@ -127,27 +128,27 @@ Dựa trên trải nghiệm thực tế, các tình huống khách thuê nên tr
 
 ## Câu hỏi thường gặp
 
-#### Thuê xe máy ở Hà Nội có an toàn không?
+### Thuê xe máy ở Hà Nội có an toàn không?
 
 An toàn phụ thuộc vào kỹ năng lái và ý thức chấp hành luật giao thông. Nếu bạn chưa quen lái, hãy chọn xe ga hoặc xe 50cc, tránh giờ cao điểm và chạy chậm.
 
-#### Tôi cần đặt cọc bao nhiêu?
+### Tôi cần đặt cọc bao nhiêu?
 
 Mức tham khảo 2.000.000 – 5.000.000đ tùy loại xe. Mức chính xác được xác nhận rõ trước khi ký hợp đồng; tiền cọc được hoàn trả theo điều khoản hợp đồng.
 
-#### Xe hỏng giữa đường thì sao?
+### Xe hỏng giữa đường thì sao?
 
 Liên hệ Nguyễn Tú ngay qua số điện thoại đã lưu. Tùy tình huống, bạn sẽ được hướng dẫn sửa chữa hoặc hỗ trợ thay xe.
 
-#### Trả xe trễ có bị tính phí không?
+### Trả xe trễ có bị tính phí không?
 
 Có thể phát sinh chi phí theo hợp đồng hoặc thỏa thuận giữa hai bên. Nếu có thay đổi lịch trình, hãy chủ động báo sớm để xác nhận lại thời gian trả xe và các khoản phát sinh (nếu có).
 
-#### Có nên thuê xe số hay xe ga khi chưa quen đường?
+### Có nên thuê xe số hay xe ga khi chưa quen đường?
 
 Nếu bạn đã quen xe số thì xe số tiết kiệm chi phí hơn. Nếu chưa quen hoặc muốn thao tác đơn giản, xe ga dễ lái hơn trong điều kiện kẹt xe, phải dừng và khởi động liên tục. Bạn có thể so sánh chi tiết hai nhóm xe tại trang [giá thuê xe số]({{ '/bang-gia-xe-so/' | relative_url }}) và [giá thuê xe tay ga]({{ '/bang-gia-xe-ga/' | relative_url }}).
 
-#### Tôi muốn đổi loại xe sau khi nhận được sao?
+### Tôi muốn đổi loại xe sau khi nhận được sao?
 
 Liên hệ trực tiếp để hỏi; việc đổi xe tùy thuộc vào xe sẵn có và chênh lệch giá sẽ được thỏa thuận lại.
 

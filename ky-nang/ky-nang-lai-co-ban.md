@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Kỹ năng lái cơ bản - Kỹ năng & tình huống"
-description: "Tư thế, quan sát, vào cua, phanh và các kỹ năng nền tảng."
+seo_title: "Kỹ năng lái xe máy cơ bản cho người mới tập"
+description: "Tư thế ngồi, đặt tay chân, nhìn gương, phanh trước khi vào cua, đề xe, lên xuống dốc, quay đầu trong ngõ chật và dựng xe bị đổ, cho người mới hoặc lâu chưa lái."
 lang: vi
 permalink: /ky-nang/ky-nang-lai-co-ban/
 parent_id: P-KY-NANG

@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Cung đường các tỉnh phía Bắc - Cung đường & hành trình"
-description: "Sơn La, Điện Biên, Ninh Bình, Tam Đảo và các tỉnh khác."
+seo_title: "Cung đường xe máy các tỉnh phía Bắc: biển, núi, đèo"
+description: "Lộ trình xe máy đến Hạ Long, Đồ Sơn, Tam Đảo, Pù Luông, Ba Bể, Ô Quy Hồ, Yên Tử, Phát Diệm cùng kinh nghiệm xăng, chỗ nghỉ và chọn giờ đi để tránh mưa."
 lang: vi
 permalink: /cung-duong/cung-duong-pho-bac/
 parent_id: P-CUNG-DUONG

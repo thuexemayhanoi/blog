@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Bảo hiểm xe máy - An toàn & pháp lý"
-description: "Bảo hiểm trách nhiệm dân sự bắt buộc và bảo hiểm tự nguyện."
+seo_title: "Bảo hiểm xe máy: bắt buộc, tự nguyện và bồi thường"
+description: "Phân biệt bảo hiểm trách nhiệm dân sự với bảo hiểm vật chất, tai nạn; nhận biết giấy chứng nhận thật, lưu bản điện tử và làm hồ sơ bồi thường sau va chạm."
 lang: vi
 permalink: /an-toan-phap-ly/bao-hiem/
 parent_id: P-PHAP-LY

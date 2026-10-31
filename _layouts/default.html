@@ -9,6 +9,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   
   {% include seo.html %}
+  {% feed_meta %}
   
   <link rel="stylesheet" href="{{ '/assets/css/tokens.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/base.css' | relative_url }}">
@@ -39,7 +40,8 @@
   </script>
   
   <script>
-    window.NGUYEN_TU_PRICING = {{ site.data.pricing | jsonify }};
+    {%- comment -%} Bảng giá JSON chỉ cần cho calculator.js (trang chủ, /bang-gia/) — không nhúng 3,7 KB vào ~7.000 trang khác (SEO wave 4, PERF-03). {%- endcomment %}
+    {% if page.layout == 'home' or page.url == '/bang-gia/' %}window.NGUYEN_TU_PRICING = {{ site.data.pricing | jsonify }};{% endif %}
     window.NGUYEN_TU_BUSINESS = {{ site.data.business | jsonify }};
     window.NGUYEN_TU_ASSISTANT = {{ site.data.assistant | jsonify }};
   </script>

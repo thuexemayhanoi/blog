@@ -1,0 +1,17 @@
+# SINH TỰ ĐỘNG bởi scripts/seo/build-taxonomy-overrides.py — KHÔNG sửa tay.
+# Bài PUBLISHED có parent_id/child_id front matter không có trong taxonomy; giá trị đúng lấy từ data/content-matrix.csv.
+# Chỉ dùng khi render (breadcrumb, bài liên quan, danh sách hub); không đổi byte _posts/, URL hay canonical.
+BLG-00514: {p: P-THUE-XE, c: C-THUE-NGAY}  # front matter: parent_id=P-THUE-XE, child_id=C-THUE-THUE-NGAY
+BLG-00513: {p: P-THUE-XE, c: C-THUE-NGAY}  # front matter: parent_id=P-THUE-XE, child_id=C-THUE-THUE-NGAY
+BLG-01382: {p: P-PHAP-LY, c: C-BAO-HIEM}  # front matter: parent_id=P-AN-TOAN-PHAP-LY, child_id=C-BAO-HIEM
+BLG-01383: {p: P-PHAP-LY, c: C-GIAY-TO}  # front matter: parent_id=P-AN-TOAN-PHAP-LY, child_id=C-GIAY-TO
+BLG-01384: {p: P-PHAP-LY, c: C-QUY-DINH}  # front matter: parent_id=P-AN-TOAN-PHAP-LY, child_id=C-QUY-DINH
+BLG-01381: {p: P-PHAP-LY, c: C-GPLX}  # front matter: parent_id=P-AN-TOAN-PHAP-LY, child_id=C-GPLX
+BLG-01591: {p: P-HOI-DAP, c: C-HD-NGUOI-MOI}  # front matter: parent_id=P-HOI-DAP, child_id=C-HD-NGUOI-MO
+BLG-03652: {p: P-THUE-XE, c: C-THUE-TUAN}  # front matter: parent_id=P-THUE-XE, child_id=undefined
+BLG-03655: {p: P-THUE-XE, c: C-THUE-TUAN}  # front matter: parent_id=P-THUE-XE, child_id=undefined
+BLG-03654: {p: P-THUE-XE, c: C-THUE-TUAN}  # front matter: parent_id=P-THUE-XE, child_id=undefined
+BLG-03657: {p: P-THUE-XE, c: C-THUE-TUAN}  # front matter: parent_id=P-THUE-XE, child_id=undefined
+BLG-03653: {p: P-THUE-XE, c: C-THUE-TUAN}  # front matter: parent_id=P-THUE-XE, child_id=undefined
+BLG-03649: {p: P-THUE-XE, c: C-THUE-TUAN}  # front matter: parent_id=P-THUE-XE, child_id=undefined
+BLG-03651: {p: P-THUE-XE, c: C-THUE-TUAN}  # front matter: parent_id=P-THUE-XE, child_id=undefined

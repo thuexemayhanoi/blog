@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Đặt cọc & giữ giấy tờ - Thuê xe máy Hà Nội"
-description: "Tiền đặt cọc, hình thức giữ giấy tờ, hoàn cọc khi trả xe."
+seo_title: "Đặt cọc khi thuê xe máy: giữ giấy tờ và nhận lại cọc"
+description: "Khoản cọc dùng để làm gì, chuyển qua ví hay mã QR ra sao, biên nhận cần ghi những gì, hỏi gì khi tiệm muốn giữ thẻ ngân hàng và dấu hiệu lừa đảo cần tránh."
 lang: vi
 permalink: /thue-xe/dat-coc/
 parent_id: P-THUE-XE

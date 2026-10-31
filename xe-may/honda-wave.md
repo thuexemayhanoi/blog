@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Honda Wave - Xe máy & dòng xe"
-description: "Honda Wave: đặc tính, độ bền và phù hợp với ai khi thuê."
+seo_title: "Thuê Honda Wave: độ bền, nhược điểm, hợp với ai"
+description: "Giải đáp quanh Honda Wave: chạy đường dài, chở thêm người, phân biệt Wave Alpha với RSX, soi xích, lốp, nhớt, canh xăng đường núi và lưu ý cho người quen xe ga."
 lang: vi
 permalink: /xe-may/honda-wave/
 parent_id: P-XE-MAY

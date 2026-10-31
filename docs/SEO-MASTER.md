@@ -144,3 +144,24 @@ vào BLG-05609 (đổi/cấp lại giấy phép lái xe), BLG-05175 (đăng ký,
 
 Quyết định ghi lại: JSON-LD LocalBusiness giữ nguyên trên mọi trang (`docs/SCHEMA-GEO.md` quy định rõ; đổi phạm vi không có bằng chứng cải thiện); 689 trang danh sách giữ nguyên (không noindex/xóa hàng loạt khi chưa có dữ liệu lập chỉ mục);
 meta description 161–199 ký tự không phải lỗi (công cụ tìm kiếm có thể cắt hiển thị), chỉ 4 bài > 200 ký tự đã được rút gọn.
+
+## Đợt 4 (31/10/2026) — audit A–Z có phản biện, Master SEO Matrix.xlsx, sửa template
+
+Báo cáo: `reports/factory/seo-master/wave4-2026-10-31.md`; dữ liệu: `wave4-audit-findings.json` (82 phát hiện, verdict phản biện),
+`wave4-changes.json` (W4-01…W4-15), `keyword-serp-2026-10-31.json` (volume + SERP thật), `Master-SEO-Matrix.xlsx` (23 sheet).
+
+Công cụ mới (đọc-only với nguồn, đầu ra xác định, có `--check`):
+
+| Tệp | Vai trò |
+|---|---|
+| `scripts/seo/build-master-xlsx.py` | sinh workbook 23 sheet từ dữ liệu SEO Master + matrix + `data/qa`; dashboard bằng công thức. Sau khi sinh phải tính lại bằng LibreOffice và kiểm 0 lỗi công thức |
+| `scripts/seo/build-post-modified.py` | `_data/post-modified.json` (khóa `article_id`): ngày sửa nội dung thật từ sao lưu `revise-published.py` → `BlogPosting.dateModified` + dòng "Cập nhật". **Chạy lại sau mỗi lô revise-published** |
+| `scripts/seo/build-taxonomy-overrides.py` | `_data/taxonomy-overrides.yml`: bài PUBLISHED có `parent_id/child_id` front matter sai taxonomy → giá trị matrix, chỉ dùng cho breadcrumb |
+
+Dữ liệu template mới: `_data/hub-related.yml` (khối "Chủ đề liên quan" ở hub), front matter `seo_title` (trang ngoài `_posts`), `image/image_alt/image_width/image_height`
+(ảnh xe thật cho og:image ở 11 trang xe/bảng giá).
+
+Quy tắc mới rút ra từ đợt 4:
+- `<title>` = `page.seo_title | default: page.title` + " | " + `business.brand`; không dùng lại hậu tố " - Thuê Xe Máy Hà Nội Nguyễn Tú" (head term của website chính).
+- Không viết chuỗi thẻ Liquid (dấu ngoặc nhọn + %) trong comment của layout — Liquid 4 vẫn phân tích và build lỗi.
+- Không ghi URL bài vào `_data/` mới (khóa theo `article_id`), để di trú slug không làm lệch dữ liệu.

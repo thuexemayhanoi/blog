@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Bảng giá xe số - Thuê Xe Máy Hà Nội Nguyễn Tú"
+seo_title: "Bảng giá thuê xe số"
 description: "Giá thuê xe số tại Hà Nội theo ngày, tuần và tháng. Honda Wave và các mẫu xe số phổ biến khác từ Nguyễn Tú."
 lang: vi
 translation_key: xe-so
@@ -56,7 +57,7 @@ Hai nhóm xe này phục vụ các nhu cầu khác nhau:
 - **Xe số** tiết kiệm xăng hơn, giá thuê thấp hơn, phù hợp người quen tay lái và chuyến đi dài.
 - **Xe ga** dễ lái hơn, không cần phối hợp côn số, tư thế ngồi thoải mái hơn, phù hợp người mới và di chuyển trong phố.
 
-Nếu bạn vẫn phân vân, bài viết [Xe số, xe ga hay xe 50cc: nên chọn loại nào?]({{ '/chia sẻ/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/' | relative_url }}) trên blog của chúng tôi so sánh chi tiết ba nhóm xe này. Bạn cũng nên đọc thêm [kinh nghiệm thuê xe máy tại Hà Nội]({{ '/kinh-nghiem/' | relative_url }}) trước khi quyết định.
+Nếu bạn vẫn phân vân, bài viết [Xe số, xe ga hay xe 50cc: nên chọn loại nào?]({{ '/chia sẻ/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/' | relative_url }}) trên blog của chúng tôi so sánh chi tiết ba nhóm xe này. Bạn cũng nên đọc [thủ tục khi thuê xe máy]({{ '/thue-xe/thu-tuc/' | relative_url }}), cẩm nang [Honda Wave]({{ '/xe-may/honda-wave/' | relative_url }}) và [kiến thức chung về xe số]({{ '/xe-may/xe-so/' | relative_url }}) trước khi quyết định.
 
 ## Honda Wave: mẫu xe số tiêu biểu
 
@@ -111,19 +112,19 @@ Với khách chưa từng lái xe số, chúng tôi luôn khuyên chọn xe ga. 
 
 ## Câu hỏi thường gặp
 
-#### Xe số có khó lái với người nước ngoài không?
+### Xe số có khó lái với người nước ngoài không?
 
 Nếu bạn chưa từng lái xe số, thao tác sang số bằng chân và phanh cần thời gian làm quen. Honda Wave thông dụng sử dụng ly hợp tự động, không cần bóp tay côn. Khách nước ngoài mới lái thường được khuyên chọn xe ga hoặc xe 50cc. Với xe trên 50cc, bạn cần giấy phép lái xe phù hợp.
 
-#### Giá thuê xe số theo tuần và tháng là bao nhiêu?
+### Giá thuê xe số theo tuần và tháng là bao nhiêu?
 
 Theo bảng giá tham khảo, Honda Wave có giá 700.000đ/tuần và 900.000 – 1.200.000đ/tháng. Mức giá thực tế thay đổi theo mẫu xe và thời điểm, vui lòng liên hệ trực tiếp để nhận báo giá chính xác.
 
-#### Xe số có tiêu hao xăng nhiều không?
+### Xe số có tiêu hao xăng nhiều không?
 
 Không. Xe số thuộc nhóm tiết kiệm xăng nhất trong các dòng xe máy xăng, phù hợp khi bạn di chuyển nhiều trong ngày.
 
-#### Tôi có thể yêu cầu giao xe số đến khách sạn không?
+### Tôi có thể yêu cầu giao xe số đến khách sạn không?
 
 Có, nếu khách sạn nằm trong khu vực phục vụ và trong giờ hoạt động. Chi phí giao nhận được xác nhận trước khi đặt xe.
 

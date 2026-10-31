@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Thời tiết & đường sá - Kỹ năng & tình huống"
-description: "Chạy xe trong mưa, sương mu, nắng nóng và mặt đường xấu."
+seo_title: "Đi xe máy khi mưa, sương mù, nắng nóng, đường trơn"
+description: "Chỉnh ga, phanh, đèn và giờ đi theo trời Hà Nội: mưa phùn, dông, ngập, sương sớm, ngày nồm, cùng mặt đường dễ trượt như nắp cống ướt, vệt nhựa, bùn rơm mùa gặt."
 lang: vi
 permalink: /ky-nang/thoi-tiet-va-duong-sa/
 parent_id: P-KY-NANG

@@ -5,7 +5,7 @@
   <div class="container">
     <div class="header-content">
       <a href="{{ '/' | relative_url }}" class="site-logo" aria-label="{{ business.display_name }}">
-        <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="44" height="44">
+        <img src="{{ '/assets/images/logo-96.webp' | relative_url }}" alt="" width="44" height="44">
         <span>{{ business.brand }}</span>
       </a>
       
@@ -93,8 +93,8 @@
 <div class="mobile-menu" id="mobileMenu" role="dialog" aria-modal="true" aria-label="Điều hướng trên thiết bị di động" aria-hidden="true" inert>
   <div class="mobile-menu-inner">
     <div class="mobile-header">
-      <a href="{{ '/' | relative_url }}" class="mobile-logo">
-        <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="40" height="40">
+      <a href="{{ '/' | relative_url }}" class="mobile-logo" aria-label="{{ business.display_name }}">
+        <img src="{{ '/assets/images/logo-96.webp' | relative_url }}" alt="" width="40" height="40">
         <span>{{ business.brand }}</span>
       </a>
       <button class="mobile-close" aria-label="Đóng" data-mobile-menu-close>

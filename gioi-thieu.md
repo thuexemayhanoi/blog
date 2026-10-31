@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Giới thiệu - Thuê Xe Máy Hà Nội Nguyễn Tú"
+seo_title: "Giới thiệu dịch vụ cho thuê xe máy Nguyễn Tú"
 description: "Giới thiệu Nguyễn Tú và dịch vụ cho thuê xe máy tại Hà Nội: các loại xe, quy trình thuê, tiền đặt cọc, giao nhận xe và khu vực phục vụ."
 lang: vi
 translation_key: about
@@ -40,7 +41,7 @@ Nguyễn Tú cung cấp nhiều nhóm xe để khách hàng lựa chọn theo nh
 - **Xe máy điện:** chạy bằng pin, không phát thải, vận hành êm và chi phí năng lượng thấp, phù hợp với các chuyến đi ngắn và trung bình trong thành phố.
 - **Xe đạp điện:** nhẹ, chậm, thích hợp cho khoảng cách ngắn và người muốn trải nghiệm thong thả.
 
-Giá thuê của từng nhóm xe được niêm yết tại trang [bảng giá thuê xe máy]({{ '/bang-gia/' | relative_url }}). Với xe 50cc, xe máy điện và xe đạp điện, vui lòng liên hệ trực tiếp để biết giá hiện tại, vì mức giá phụ thuộc vào mẫu xe và tình trạng xe sẵn có.
+Giá thuê của từng nhóm xe được niêm yết tại trang [bảng giá thuê xe máy]({{ '/bang-gia/' | relative_url }}). Xe tay ga 50cc có giá tham khảo 200.000đ/ngày; giá tuần và tháng báo giá riêng. Với xe máy điện và xe đạp điện, vui lòng liên hệ trực tiếp để biết giá hiện tại, vì mức giá phụ thuộc vào mẫu xe và tình trạng xe sẵn có.
 
 ## Thuê theo ngày, tuần và tháng
 
@@ -128,31 +129,31 @@ Một số điểm cần nhớ khi sử dụng dịch vụ:
 - Bảo hiểm xe máy do người thuê tự mua. Nguyễn Tú không cung cấp bảo hiểm cho người thuê.
 - Báo ngay cho Nguyễn Tú nếu xe gặp sự cố kỹ thuật trong thời gian thuê.
 
-Ngoài ra, bạn có thể tham khảo thêm các bài viết về [kinh nghiệm thuê xe máy tại Hà Nội]({{ '/kinh-nghiem/' | relative_url }}) và [du lịch Hà Nội bằng xe máy]({{ '/du-lich/' | relative_url }}) để chuẩn bị tốt hơn cho chuyến đi.
+Ngoài ra, bạn có thể tham khảo thêm các bài viết trong [cẩm nang thuê xe máy]({{ '/thue-xe/' | relative_url }}) và [du lịch Hà Nội bằng xe máy]({{ '/du-lich/' | relative_url }}) để chuẩn bị tốt hơn cho chuyến đi.
 
 ## Câu hỏi thường gặp
 
-#### Tôi cần giấy tờ gì để thuê xe?
+### Tôi cần giấy tờ gì để thuê xe?
 
 Khách Việt Nam cần chứng minh nhân dân hoặc căn cước công dân. Khách nước ngoài cần hộ chiếu. Với các loại xe trên 50cc, bạn cần có giấy phép lái xe phù hợp theo quy định.
 
-#### Thời gian thuê tối thiểu là bao lâu?
+### Thời gian thuê tối thiểu là bao lâu?
 
 Thời gian thuê tối thiểu là 1 ngày. Các hình thức thuê theo tuần và theo tháng có mức giá riêng được xác nhận trước khi thuê.
 
-#### Có giao xe tận nơi không?
+### Có giao xe tận nơi không?
 
 Có, trong khu vực phục vụ và trong giờ hoạt động. Thời gian và chi phí giao nhận cần được xác nhận trước khi đặt xe.
 
-#### Tiền đặt cọc là bao nhiêu?
+### Tiền đặt cọc là bao nhiêu?
 
 Mức tham khảo từ 2.000.000đ đến 5.000.000đ tùy loại xe. Mức chính xác được xác nhận rõ trước khi ký hợp đồng; tiền cọc được hoàn trả theo điều khoản hợp đồng.
 
-#### Xe có bảo hiểm không?
+### Xe có bảo hiểm không?
 
 Người thuê tự mua bảo hiểm xe máy cho bản thân. Nguyễn Tú không cung cấp bảo hiểm.
 
-#### Tôi có thể hủy lịch đặt xe không?
+### Tôi có thể hủy lịch đặt xe không?
 
 Có. Vui lòng thông báo sớm nhất có thể qua điện thoại, Zalo hoặc WhatsApp nếu bạn cần hủy hoặc thay đổi lịch đặt xe.
 

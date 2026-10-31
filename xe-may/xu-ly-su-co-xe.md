@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Xử lý sự cố xe máy thuê - Xe máy & dòng xe"
-description: "Các sự cố kỹ thuật thường gặp khi đang thuê xe máy và cách xử lý ban đầu đúng cách."
+seo_title: "Xe máy thuê hỏng giữa đường: cách xử lý sự cố"
+description: "Các bước khi xe thuê trục trặc: tấp vào chỗ an toàn, xét nguyên nhân như không nổ máy, ắc quy yếu, xịt lốp, tuột xích, mất chìa và lúc nên gọi cửa hàng."
 lang: vi
 permalink: /xe-may/xu-ly-su-co-xe/
 parent_id: P-XE-MAY

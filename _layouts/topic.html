@@ -25,25 +25,45 @@ layout: default
       {% endfor %}
     </ul>
     {% endif %}
+    {%- comment -%}
+      Chủ đề liên quan ở pillar khác (cùng intent) + trang giá đúng loại xe: _data/hub-related.yml (SEO wave 4, IL-04/IL-05).
+      Anchor = tên hub trong _data/factory-taxonomy.yml; URL = /<pillar>/<hub>/. Không có dữ liệu => không in gì.
+    {%- endcomment -%}
+    {%- assign hub_rel = site.data.hub-related[page.child_id] -%}
+    {%- if hub_rel %}
+    <h2>Chủ đề liên quan</h2>
+    <ul class="topic-list">
+      {%- for rid in hub_rel.related %}
+      {%- assign rnode = site.data.factory-taxonomy[rid] -%}
+      {%- assign rparent = site.data.factory-parents[rnode.p] -%}
+      {%- if rnode and rparent %}
+      <li><a href="{{ '/' | append: rparent.s | append: '/' | append: rnode.s | append: '/' | relative_url }}">{{ rnode.t }}</a></li>
+      {%- endif -%}
+      {%- endfor -%}
+      {%- if hub_rel.price %}
+      <li><a href="{{ hub_rel.price.u | relative_url }}">{{ hub_rel.price.t }}</a></li>
+      {%- endif %}
+    </ul>
+    {%- endif %}
     <h2>Bài viết trong chủ đề</h2>
     <div class="post-grid">
-      {% assign found = 0 %}
-      {% for post in site.posts %}
-        {% if found >= 24 %}{% break %}{% endif %}
-        {% assign mychild = post.child_id %}
-        {% if mychild == nil %}
-          {% assign m = site.data.factory-map[post.slug] %}
-          {% if m %}{% assign mychild = m.c %}{% endif %}
-        {% endif %}
-        {% if mychild == page.child_id and found < 24 %}
+      {%- assign found = 0 -%}
+      {%- for post in site.posts -%}
+        {%- if found >= 24 -%}{%- break -%}{%- endif -%}
+        {%- assign mychild = post.child_id -%}
+        {%- if mychild == nil -%}
+          {%- assign m = site.data.factory-map[post.slug] -%}
+          {%- if m -%}{%- assign mychild = m.c -%}{%- endif -%}
+        {%- endif -%}
+        {%- if mychild == page.child_id and found < 24 %}
         <article class="post-card glass-card">
           <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
           <p class="post-date">Đăng ngày {{ post.date | date: "%d/%m/%Y" }}</p>
           <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
         </article>
-        {% assign found = found | plus: 1 %}
-        {% endif %}
-      {% endfor %}
+        {%- assign found = found | plus: 1 -%}
+        {%- endif -%}
+      {%- endfor %}
     </div>
     {% assign _tp = site.data.factory-taxonomy[page.child_id] %}
     {% assign _tp_parent = site.data.factory-parents[page.parent_id] %}

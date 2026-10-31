@@ -77,9 +77,13 @@ class NguyenTuAssistant {
   }
 
   closePanel() {
+    // Chỉ trả tiêu điểm về nút mở khi tiêu điểm đang ở trong panel (hoặc đã mất về body), để bàn phím/trình đọc màn hình không bị "lạc".
+    const active = document.activeElement;
+    const hadFocus = !active || active === document.body || this.panel.contains(active);
     this.panel.classList.remove('active');
     this.toggleBtn.setAttribute('aria-expanded', 'false');
-    document.body.classList.remove('assistant-open');
+    document.body.classList.remove('assistant-open'); // phải gỡ trước focus(): .assistant-open ẩn nút mở
+    if (hadFocus && this.toggleBtn.getClientRects().length > 0) this.toggleBtn.focus();
   }
 
   sendMessage() {
@@ -138,15 +142,22 @@ class NguyenTuAssistant {
       }
     }
 
+    // Thứ tự quan trọng: cụm cụ thể ('50cc', 'dat coc') đứng trước cụm chung ('xe ga', 'bang gia').
     const keywords = {
+      '50cc': 'xe-50cc',
+      'dat coc': 'deposit',
+      'tien coc': 'deposit',
+      'coc bao nhieu': 'deposit',
+      'giao xe': 'delivery',
+      'giao nhan': 'delivery',
       'bang gia': 'pricing',
       'tinh gia': 'calculator',
       'dia chi': 'address',
       'gio mo cua': 'hours',
       'xe so': 'honda-wave',
       'xe ga': 'honda-vision',
+      'xe dap dien': 'electric-scooter',
       'xe dien': 'electric-bike',
-      'xe 50cc': 'electric-scooter',
       'thue tuan': 'weekly-rental',
       'thue thang': 'monthly-rental',
       'zalo': 'zalo',

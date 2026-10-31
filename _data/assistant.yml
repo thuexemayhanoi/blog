@@ -71,3 +71,17 @@ quick_questions:
   - id: monthly-rental
     question: "Thuê theo tháng"
     answer: "Thuê theo tháng phù hợp cho thuê dài hạn. Giá thuê theo tháng tùy loại xe và được xác nhận khi liên hệ."
+
+  # SEO wave 4 (LCRO-04): câu trả lời theo từ khóa, KHÔNG hiện thành nút (hidden: true). Văn bản chép nguyên từ data/business-facts.json.
+  - id: xe-50cc
+    hidden: true
+    question: "Giá thuê xe 50cc"
+    answer: "Xe tay ga 50cc: giá tham khảo 200.000đ/ngày; giá tuần và tháng báo giá riêng. Tiền đặt cọc tham khảo 4.000.000đ, là khoản riêng, không cộng vào giá thuê. Giá và tình trạng xe cần được xác nhận trước khi đặt."
+  - id: deposit
+    hidden: true
+    question: "Tiền đặt cọc"
+    answer: "Tiền đặt cọc xe máy từ 2.000.000đ đến 5.000.000đ, tùy từng loại xe; mức cọc cụ thể phụ thuộc dòng xe được thuê. Tiền cọc được hoàn trả theo điều khoản hợp đồng sau khi khách bàn giao xe và hoàn thành các nghĩa vụ liên quan."
+  - id: delivery
+    hidden: true
+    question: "Giao xe"
+    answer: "Không giao xe máy ngoài giờ hoạt động. Thời gian và chi phí giao nhận cần được xác nhận trước khi đặt xe."

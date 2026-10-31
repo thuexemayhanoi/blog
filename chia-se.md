@@ -1,6 +1,7 @@
 ---
 layout: category
 title: "Chia sẻ - Thuê Xe Máy Hà Nội Nguyễn Tú"
+seo_title: "Chia sẻ kinh nghiệm đi xe máy ở Hà Nội"
 description: "Chia sẻ kinh nghiệm thực tế về sử dụng xe máy tại Hà Nội: đi lại hàng ngày, đổ xăng, gửi xe, chạy xe buổi tối và lưu ý an toàn."
 lang: vi
 translation_key: sharing

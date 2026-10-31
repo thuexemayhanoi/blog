@@ -1,8 +1,8 @@
 {
  "_meta": {
   "schema": "seo-topic-links/1",
-  "groups": 49,
-  "posts": 107,
+  "groups": 50,
+  "posts": 109,
   "max_links": 3,
   "source": "data/content-matrix.csv (cannibalization_key) + _posts front matter",
   "note": "Sinh bởi scripts/seo/build-topic-links.py — KHÔNG sửa tay. Khóa = URL thật của bài."
@@ -805,6 +805,15 @@
    }
   ]
  },
+ "/thue-xe/2026/10/15/honda-wave-chi-niem-yet-gia-ngay-150000d-muon-thue-wave-ca-tuan-hoac-ca-thang-th/": {
+  "group": "gia thue honda wave theo tuan",
+  "links": [
+   {
+    "url": "/xe-may/2026/10/29/thue-honda-wave-theo-ngay-150000d-tuan-700000d-hay-thang-9000001200000d-o-bao-nh/",
+    "title": "Thuê Honda Wave theo ngày 150.000đ, tuần 700.000đ hay tháng 900.000–1.200.000đ: ở bao nhiêu ngày thì nên đổi gói"
+   }
+  ]
+ },
  "/thue-xe/2026/10/15/muon-xe-may-cua-nguoi-quen-hay-tu-thue-xe-khi-o-ha-noi-vai-ngay-nhung-khoan-can/": {
   "group": "muon xe may hay thue xe",
   "links": [
@@ -1099,6 +1108,15 @@
    {
     "url": "/thue-xe/2026/10/13/xe-may-nong-may-khi-ket-xe-giua-trua-he-dau-hieu-va-cach-de-may-nguoi-an-toan/",
     "title": "Xe máy nóng máy khi kẹt xe giữa trưa hè: dấu hiệu và cách để máy nguội an toàn"
+   }
+  ]
+ },
+ "/xe-may/2026/10/29/thue-honda-wave-theo-ngay-150000d-tuan-700000d-hay-thang-9000001200000d-o-bao-nh/": {
+  "group": "gia thue honda wave theo tuan",
+  "links": [
+   {
+    "url": "/thue-xe/2026/10/15/honda-wave-chi-niem-yet-gia-ngay-150000d-muon-thue-wave-ca-tuan-hoac-ca-thang-th/",
+    "title": "Honda Wave chỉ niêm yết giá ngày 150.000đ: muốn thuê Wave cả tuần hoặc cả tháng thì hỏi cửa hàng thế nào"
    }
   ]
  }

@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Hỏi đáp sự cố - Hỏi đáp thuê xe máy"
-description: "Trả lời nhanh các câu hỏi xử lý sự cố trong kỳ thuê."
+seo_title: "Hỏi đáp sự cố xe thuê: chết máy, thủng lốp, mất chìa"
+description: "Xử lý khi xe tắt máy, xẹp lốp, hết hoặc đổ nhầm xăng, ngấm nước mưa, phanh yếu; cách đưa xe vào chỗ an toàn, báo cửa hàng và giữ hóa đơn trước khi sửa lớn."
 lang: vi
 permalink: /hoi-dap/hoi-dap-su-co/
 parent_id: P-HOI-DAP

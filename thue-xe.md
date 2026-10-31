@@ -1,7 +1,8 @@
 ---
 layout: hub
 title: "Thuê xe máy Hà Nội - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú"
-description: "Tất tần tật về thuê xe máy ở Hà Nội: giá, thủ tục, đặt cọc, thuê ngày/tuần/tháng, nhận trả xe và xử lý sự cố."
+seo_title: "Cẩm nang thuê xe máy ở Hà Nội: giá, thủ tục, đặt cọc"
+description: "Đi theo mạch một lần thuê xe: đọc báo giá, giấy tờ, chọn thuê ngày, tuần hay tháng, đặt cọc, nhận và trả xe, xử lý sự cố, kèm nhóm bài cho khách quốc tế."
 lang: vi
 permalink: /thue-xe/
 parent_id: P-THUE-XE

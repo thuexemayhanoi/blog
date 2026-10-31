@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Hỏi đáp chọn xe - Hỏi đáp thuê xe máy"
-description: "Trả lời nhanh các câu hỏi chọn dòng xe phù hợp nhu cầu."
+seo_title: "Hỏi đáp chọn xe máy thuê: xe số hay xe ga hợp hơn"
+description: "Chọn dòng xe theo vóc dáng, thói quen lái, người ngồi sau và lộ trình phố cổ, ngõ nhỏ, đường đê hay đi tỉnh; cả xe điện hay xe xăng, phanh đĩa hay phanh cơ."
 lang: vi
 permalink: /hoi-dap/hoi-dap-chon-xe/
 parent_id: P-HOI-DAP

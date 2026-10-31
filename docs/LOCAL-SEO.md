@@ -12,8 +12,8 @@ Blog và shop là hai bên kinh doanh khác nhau. Tài liệu này CHỈ dùng d
 - Thương hiệu: Nguyễn Tú — Thuê Xe Máy Hà Nội Nguyễn Tú.
 - Địa chỉ: 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam.
 - Điện thoại: 0942 467 674 (Zalo/WhatsApp cùng số). Giờ hoạt động: 09:00–21:00, không 24/7.
-- Giá đã duyệt: Wave 150k/ngày; Vision 200k/ngày, 800k–1tr/tuần, 1,8–2tr/tháng; Air Blade 200k/ngày, 800k/tuần, 1,4tr/tháng; Click/Mio 150k/ngày, 600–700k/tuần, 1–1,2tr/tháng. Xe điện/xe đạp điện/50cc: "liên hệ để xác nhận".
-- Đặt cọc: không nêu con số (cần xác nhận trực tiếp). Phí giao xe: không có số cố định.
+- Giá đã duyệt: KHÔNG chép số vào tài liệu này (bản chép cũ đã lệch). Nguồn duy nhất: `data/business-facts.json` → `approved_pricing` và `_data/pricing.yml` (bảng giá, máy tính giá). Xe điện/xe đạp điện: "liên hệ để xác nhận".
+- Đặt cọc: chỉ dùng mức đã duyệt theo từng dòng xe trong `data/business-facts.json` (`approved_pricing.*.deposit`, `deposit_policy`); xe điện xác nhận theo mẫu xe. Phí giao xe: không có số cố định.
 
 ## Cấm trong nội dung và schema
 

@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Mộc Châu - Cung đường & hành trình"
-description: "Cung đường Hà Nội - Mộc Châu qua Quốc lộ 6."
+seo_title: "Đi Mộc Châu bằng xe máy: mùa hoa, đèo và điểm dừng"
+description: "Chọn thời điểm lên Mộc Châu theo mùa hoa, mùa quả và chuẩn bị cho chặng quốc lộ: điểm đổ xăng, đoạn đông quanh Xuân Mai, xuống đèo, xử lý khi xe gặp sự cố."
 lang: vi
 permalink: /cung-duong/moc-chau/
 parent_id: P-CUNG-DUONG

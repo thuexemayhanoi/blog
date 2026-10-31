@@ -61,6 +61,8 @@ Xe máy điện và xe đạp điện chạy bằng pin, không phát thải, v�
 
 Chi tiết tại trang [thuê xe máy điện Hà Nội]({{ '/bang-gia-xe-dien/' | relative_url }}).
 
+Muốn chọn kỳ hạn phù hợp, xem [cách đọc một báo giá thuê xe]({{ '/thue-xe/gia-thue/' | relative_url }}) và kinh nghiệm thuê [theo ngày]({{ '/thue-xe/thue-ngay/' | relative_url }}), [theo tuần]({{ '/thue-xe/thue-tuan/' | relative_url }}) hoặc [theo tháng]({{ '/thue-xe/thue-thang/' | relative_url }}).
+
 ## Loại hình thuê
 
 {% comment %} Hình thức thuê lấy từ _data/pricing.yml (rental_types chỉ có tên, không có mô tả): in danh sách thay vì H4 + đoạn rỗng (nhảy cấp H2->H4). {% endcomment %}
@@ -113,23 +115,23 @@ Bảo hiểm xe máy do người thuê tự mua. Nguyễn Tú không cung cấp 
 
 ## Câu hỏi thường gặp
 
-#### Giá trong bảng giá có phải giá cuối cùng không?
+### Giá trong bảng giá có phải giá cuối cùng không?
 
 Không. Đây là giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
-#### Tôi nên thuê theo ngày hay theo tuần?
+### Tôi nên thuê theo ngày hay theo tuần?
 
 Nếu thuê từ 5 – 7 ngày trở lên, giá theo tuần thường rẻ hơn thuê lẻ từng ngày. Với nhu cầu trên một tháng, giá theo tháng là mức kinh tế nhất. Hãy liên hệ để được báo giá theo thời gian cụ thể.
 
-#### Tiền đặt cọc bao nhiêu và khi nào được hoàn?
+### Tiền đặt cọc bao nhiêu và khi nào được hoàn?
 
 Mức tham khảo 2.000.000 – 5.000.000đ tùy loại xe. Tiền cọc được hoàn trả theo điều khoản hợp đồng sau khi bạn bàn giao xe và hoàn thành các nghĩa vụ liên quan.
 
-#### Trả xe muộn bị tính thế nào?
+### Trả xe muộn bị tính thế nào?
 
 Nếu dự kiến trả xe muộn, hãy liên hệ cửa hàng trước giờ hẹn. Thời gian gia hạn và chi phí phát sinh (nếu có) cần được xác nhận theo hợp đồng hoặc thỏa thuận giữa hai bên.
 
-#### Có phát sinh chi phí khác không?
+### Có phát sinh chi phí khác không?
 
 Chi phí giao nhận (nếu yêu cầu giao tận nơi) và chi phí phát sinh khi thay đổi giờ trả xe (nếu có) cần được xác nhận theo hợp đồng hoặc thỏa thuận giữa hai bên.
 
@@ -142,7 +144,7 @@ Chi phí giao nhận (nếu yêu cầu giao tận nơi) và chi phí phát sinh 
 5. **Đặt cọc:** Thực hiện đặt cọc theo mức đã thỏa thuận.
 6. **Nhận xe:** Kiểm tra xe cùng Nguyễn Tú và bắt đầu hành trình.
 
-Nếu bạn mới thuê xe máy lần đầu, hãy đọc thêm [kinh nghiệm thuê xe máy tại Hà Nội]({{ '/kinh-nghiem/' | relative_url }}) hoặc tìm hiểu thêm về [Nguyễn Tú]({{ '/gioi-thieu/' | relative_url }}) trước khi đặt xe.
+Nếu bạn mới thuê xe máy lần đầu, hãy đọc thêm [thủ tục thuê xe máy lần đầu]({{ '/thue-xe/thu-tuc/' | relative_url }}) hoặc tìm hiểu thêm về [Nguyễn Tú]({{ '/gioi-thieu/' | relative_url }}) trước khi đặt xe.
 
 <div class="cta-group">
   <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi ngay</a>

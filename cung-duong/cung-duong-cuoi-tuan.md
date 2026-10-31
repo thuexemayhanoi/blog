@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Cung đường cuối tuần - Cung đường & hành trình"
-description: "Hành trình 1-2 ngày quanh Hà Nội cho kỳ nghỉ cuối tuần."
+seo_title: "Đi xe máy cuối tuần quanh Hà Nội: gợi ý lộ trình"
+description: "Điểm đến gần Hà Nội cho chuyến xe máy cuối tuần như Ba Vì, Tam Đảo, Chùa Hương, Ninh Bình, Đường Lâm, Bát Tràng, cùng cách ước giờ, ghép vòng, chọn điểm dừng."
 lang: vi
 permalink: /cung-duong/cung-duong-cuoi-tuan/
 parent_id: P-CUNG-DUONG

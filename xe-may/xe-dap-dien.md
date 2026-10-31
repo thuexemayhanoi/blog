@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Xe đạp điện - Xe máy & dòng xe"
-description: "Xe đạp điện cho nhu cầu đi lại ngắn trong nội thành."
+seo_title: "Xe đạp điện dạo phố cổ, hồ Gươm: cách đi và giữ pin"
+description: "Dùng xe đạp điện cho quãng ngắn trong phố: chỉnh yên và tay lái, đạp trợ lực khi lên dốc, giữ pin cả buổi, xử lý hết pin, hợp người lớn tuổi và khách mới đến."
 lang: vi
 permalink: /xe-may/xe-dap-dien/
 parent_id: P-XE-MAY

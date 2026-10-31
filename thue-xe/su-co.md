@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Sự cố khi thuê xe - Thuê xe máy Hà Nội"
-description: "Xử lý hỏng hóc, mất cắp, va chạm và tranh chấp trong kỳ thuê."
+seo_title: "Sự cố khi thuê xe máy: hỏng hóc, va chạm, mất xe"
+description: "Từ chết máy, thủng lốp, kẹt chìa đến va chạm hay mất xe: ưu tiên an toàn cho người, chụp ảnh hiện trường, báo cửa hàng, cả khi ngập nước hay bãi gửi đóng cửa."
 lang: vi
 permalink: /thue-xe/su-co/
 parent_id: P-THUE-XE

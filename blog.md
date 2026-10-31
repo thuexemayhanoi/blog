@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Blog - Thuê Xe Máy Hà Nội Nguyễn Tú"
+seo_title: "Tất cả bài viết cẩm nang xe máy"
 description: "Các bài viết mới nhất về thuê xe máy ở Hà Nội: kinh nghiệm, cung đường du lịch, kỹ năng lái xe và hướng dẫn từ Nguyễn Tú."
 lang: vi
 translation_key: blog
@@ -82,27 +83,27 @@ Giờ hoạt động của Nguyễn Tú là 09:00 – 21:00 hằng ngày. Không
 
 ## Câu hỏi thường gặp
 
-#### Blog có cập nhật bài viết mới không?
+### Blog có cập nhật bài viết mới không?
 
 Có. Chúng tôi bổ sung bài viết theo các câu hỏi thường gặp của khách hàng và theo mùa du lịch. Hãy quay lại trang này để xem bài mới.
 
-#### Tôi có thể sử dụng thông tin trong blog để chuẩn bị chuyến đi không?
+### Tôi có thể sử dụng thông tin trong blog để chuẩn bị chuyến đi không?
 
 Được. Các bài viết viết nhằm mục đích tham khảo. Với thông tin về giá và quy định, hãy xác nhận lại với Nguyễn Tú tại thời điểm đặt xe vì mức giá và quy định có thể thay đổi.
 
-#### Tôi có câu hỏi không có trong blog, hỏi ở đâu?
+### Tôi có câu hỏi không có trong blog, hỏi ở đâu?
 
 Gọi điện, Zalo hoặc WhatsApp trực tiếp cho Nguyễn Tú. Thông tin liên hệ đầy đủ có tại trang [liên hệ]({{ '/lien-he/' | relative_url }}).
 
-#### Blog có bài so sánh các loại xe không?
+### Blog có bài so sánh các loại xe không?
 
 Có. Bài viết "Xe số, xe ga hay xe 50cc: Nên chọn loại nào?" so sánh chi tiết ba nhóm xe phổ biến. Bạn có thể tìm thấy bài này trong danh sách bài viết mới nhất ở trên.
 
-#### Thông tin về quy định giao thông có trong blog không?
+### Thông tin về quy định giao thông có trong blog không?
 
 Các bài chia sẻ và kinh nghiệm có đề cập thói quen giao thông và lưu ý an toàn khi di chuyển tại Hà Nội. Với quy định pháp lý chính thức, hãy tham khảo nguồn chính thống và cập nhật trước chuyến đi.
 
-#### Tôi muốn đề xuất chủ đề bài viết mới thì làm thế nào?
+### Tôi muốn đề xuất chủ đề bài viết mới thì làm thế nào?
 
 Khi liên hệ thuê xe, bạn có thể nhắc Nguyễn Tú về chủ đề bạn muốn đọc thêm. Các bài viết mới thường hình thành từ câu hỏi thực tế của khách hàng.
 

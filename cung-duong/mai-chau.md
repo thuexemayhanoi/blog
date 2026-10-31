@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Mai Châu - Cung đường & hành trình"
-description: "Cung đường Hà Nội - Mai Châu: lộ trình, điểm dừng, lưu ý."
+seo_title: "Đi Mai Châu bằng xe máy: đèo Thung Khe và các mùa"
+description: "Hành trình xe máy từ Hà Nội lên Mai Châu theo quốc lộ, qua đèo Thung Khe, nghỉ ở bản Lác, Pom Coọng, kèm gợi ý theo mùa lúa, mùa hoa ban và cách chia chặng."
 lang: vi
 permalink: /cung-duong/mai-chau/
 parent_id: P-CUNG-DUONG

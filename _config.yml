@@ -20,6 +20,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
+# Feed Atom: 50 bài mới nhất (~1 ngày sản xuất) thay vì mặc định 10; <link rel=alternate> qua {% feed_meta %} trong default.html.
+feed:
+  posts_limit: 50
+
 # Exclude
 exclude:
   - AGENTS.md

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Liên hệ - Thuê Xe Máy Hà Nội Nguyễn Tú"
+seo_title: "Liên hệ thuê xe máy Nguyễn Tú"
 description: "Thông tin liên hệ để thuê xe máy tại Hà Nội. Điện thoại, Zalo, WhatsApp, Google Maps và giờ hoạt động của Nguyễn Tú."
 lang: vi
 translation_key: contact

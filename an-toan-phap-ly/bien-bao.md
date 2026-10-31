@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Biển báo giao thông - An toàn & pháp lý"
-description: "Ý nghĩa biển báo đường bộ cần biết khi lái xe máy."
+seo_title: "Biển báo giao thông cho người đi xe máy: cách đọc"
+description: "Cách nhận ra biển cấm, biển nguy hiểm, hiệu lệnh, chỉ dẫn, biển phụ và vạch kẻ đường, cùng chỗ dễ lúng túng như biển điện tử hay đèn tạm ở đoạn sửa đường."
 lang: vi
 permalink: /an-toan-phap-ly/bien-bao/
 parent_id: P-PHAP-LY

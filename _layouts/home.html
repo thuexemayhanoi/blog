@@ -30,7 +30,12 @@ description: "{{ site.description }}"
     {% if hero_vehicle and hero_vehicle.image %}
     <div class="hero-visual">
       <figure class="hero-showcase glass-card">
-        <img src="{{ hero_vehicle.image | relative_url }}" alt="{{ hero_vehicle.image_alt | default: hero_vehicle.name | escape }}" width="640" height="480" decoding="async" fetchpriority="high">
+        {%- comment -%} Ảnh WebP 480/800 sinh sẵn cạnh JPEG gốc (SEO wave 4, PERF-01); thiếu biến thể thì giữ JPEG như cũ. {%- endcomment -%}
+        {%- assign hv480 = hero_vehicle.image | replace: '.jpeg', '-480.webp' -%}
+        {%- assign hv800 = hero_vehicle.image | replace: '.jpeg', '-800.webp' -%}
+        {%- assign hv1200 = hero_vehicle.image | replace: '.jpeg', '-1200.webp' -%}
+        {%- assign hv_ok = site.static_files | where: 'path', hv800 | first -%}
+        <img src="{{ hero_vehicle.image | relative_url }}"{% if hv_ok %} srcset="{{ hv480 | relative_url }} 480w, {{ hv800 | relative_url }} 800w, {{ hv1200 | relative_url }} 1200w" sizes="(max-width: 767px) calc(100vw - 32px), 640px"{% endif %} alt="{{ hero_vehicle.image_alt | default: hero_vehicle.name | escape }}" width="640" height="480" decoding="async" fetchpriority="high">
         <figcaption class="hero-showcase-caption">
           <span>{{ hero_vehicle.name }}</span>
           <small>Hình tham khảo từ danh mục xe. Tình trạng xe cần xác nhận khi liên hệ.</small>
@@ -84,8 +89,14 @@ description: "{{ site.description }}"
       <div class="service-card glass-card">
         {% if vehicle.image %}
         <div class="service-card-media">
+          {%- assign v480 = vehicle.image | replace: '.jpeg', '-480.webp' -%}
+          {%- assign v800 = vehicle.image | replace: '.jpeg', '-800.webp' -%}
+          {%- assign v1200 = vehicle.image | replace: '.jpeg', '-1200.webp' -%}
+          {%- assign v_ok = site.static_files | where: 'path', v800 | first %}
           <img
             src="{{ vehicle.image | relative_url }}"
+            {% if v_ok %}srcset="{{ v480 | relative_url }} 480w, {{ v800 | relative_url }} 800w, {{ v1200 | relative_url }} 1200w"
+            sizes="(max-width: 767px) calc(100vw - 32px), 400px"{% endif %}
             alt="{{ vehicle.image_alt | default: vehicle.name | escape }}"
             loading="lazy"
             decoding="async"

@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Gửi xe & giữ xe - Kỹ năng & tình huống"
-description: "Chọn vị trí gửi, giữ xe qua đêm, phòng mất cắp."
+seo_title: "Gửi xe máy ở đâu và giữ xe thuê qua đêm"
+description: "Chọn chỗ gửi ở chung cư, khách sạn, bệnh viện, bến xe hay sân bay, dấu hiệu bãi tin cậy, thói quen khóa xe, cất chìa, chụp ảnh và kiểm tra nhanh lúc lấy xe."
 lang: vi
 permalink: /ky-nang/gui-xe-va-giu-xe/
 parent_id: P-KY-NANG

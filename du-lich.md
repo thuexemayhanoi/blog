@@ -1,7 +1,8 @@
 ---
 layout: category
 title: "Du lịch - Thuê Xe Máy Hà Nội Nguyễn Tú"
-description: "Cẩm nang du lịch Hà Nội bằng xe máy: gợi ý lộ trình, điểm tham quan và kinh nghiệm di chuyển trong thành phố."
+seo_title: "Du lịch Hà Nội bằng xe máy: lộ trình và kinh nghiệm"
+description: "Khám phá Hà Nội trên hai bánh: Phố Cổ, Hồ Tây, Ba Đình, Long Biên, chuyến đi ngày tới Sóc Sơn, Ba Vì, kèm mẹo về giờ cao điểm, đỗ xe và thời tiết từng mùa."
 lang: vi
 translation_key: travel
 category: Du lich
@@ -17,6 +18,17 @@ permalink: /du-lich/
 Hà Nội là thành phố phù hợp để khám phá bằng xe máy: các điểm tham quan nằm rải rác nhưng không quá xa nhau, phố xá hẹp nơi ô tô khó luồn, và nhịp sống đường phố là một phần của trải nghiệm. Thuê một chiếc xe máy cho phép bạn chủ động thời gian, dừng lại ở bất kỳ quán cà phê hay gánh hàng rong nào mình thích.
 
 Chuyên mục này tổng hợp các bài viết du lịch của chúng tôi, kèm cẩm nang thiết thực khi di chuyển trong Hà Nội trên hai bánh.
+
+## Chủ đề con trong Du lịch
+
+Chuyên mục Du lịch được chia thành các chủ đề nhỏ để dễ theo dõi. Chuyến đi ra khỏi Hà Nội (Mai Châu, Mộc Châu, Hà Giang, các tỉnh phía Bắc) nằm ở [Cung đường & hành trình]({{ '/cung-duong/' | relative_url }}).
+
+{%- comment -%}
+  Số bài lấy O(1) từ _data/listing-index.yml (topic.<pillar>_<hub>.total, sinh cùng trang danh sách) — đếm cả bài factory,
+  không quét site.posts. Trước đây đếm qua factory-map (chỉ bài legacy) nên ẩn hub Bảo tàng/Long Biên và sai số bài (SEO wave 4, IL-01).
+{%- endcomment %}
+{% for pair in site.data.factory-taxonomy %}{% assign node = pair[1] %}{% if node.p == "P-DU-LICH" %}{% capture _tk %}du-lich_{{ node.s }}{% endcapture %}{% assign cnt = site.data.listing-index.topic[_tk].total | default: 0 %}
+- [{{ node.t }}]({{ "/du-lich/" | append: node.s | append: "/" | relative_url }}){% if cnt > 0 %} ({{ cnt }} bài){% endif %}{% endif %}{% endfor %}
 
 ## Bài viết du lịch
 
@@ -62,7 +74,7 @@ Từ Hồ Gươm chạy theo đường Hàng Khay, Tràng Tiên lên Cột Cờ,
 
 ### Long Biên và Gia Lâm
 
-Từ địa điểm của Nguyễn Tú ở Bồ Đề, bạn có thể chạy lên cầu Long Biên ngắm sông Hồng, ghê chợ hoa Quảng An hoặc vòng sang Gia Lâm, khu vực nông thôn ven đô với các con đường nhỏ rợp bóng tre. Tuyến này vắng xe và phù hợp người mới lái.
+Từ địa điểm của Nguyễn Tú ở Bồ Đề, bạn có thể chạy lên cầu Long Biên ngắm sông Hồng, ghé chợ hoa Quảng An hoặc vòng sang Gia Lâm, khu vực nông thôn ven đô với các con đường nhỏ rợp bóng tre. Tuyến này vắng xe và phù hợp người mới lái.
 
 ## Chuyến đi ngắn quanh Hà Nội
 
@@ -119,7 +131,7 @@ Trước khi khởi hành, một vài vật dụng nên mang theo:
 - Giấy tờ tùy thân và giấy phép lái xe (nếu thuê xe trên 50cc)
 - Áo mưa gấp gọn, kể cả mùa khô, vì mưa Hà Nội khó dự báo chính xác
 - Nước uống và kem chống nắng vào mùa hè
-- Điện thoại đầy pin và săm dự phòng cho ứng dụng bản đồ
+- Điện thoại đầy pin và sạc dự phòng cho ứng dụng bản đồ
 - Khăn hoặc găng tay vào mùa đông
 
 Khi nhận xe, kiểm tra cùng Nguyễn Tú tình trạng đèn, còi, phanh, lốp và mức xăng, cùng số điện thoại liên hệ khi cần hỗ trợ trên đường. Những chuẩn bị nhỏ này giúp chuyến đi thuận lợi hơn nhiều.
@@ -135,29 +147,9 @@ Trước khi thuê xe để du lịch, hãy xác nhận với Nguyễn Tú:
 
 Giờ hoạt động 09:00 – 21:00 hằng ngày. Không giao xe máy ngoài giờ hoạt động. Thời gian và chi phí giao nhận cần được xác nhận trước khi đặt xe.
 
-Xem thêm [bảng giá thuê xe máy]({{ '/bang-gia/' | relative_url }}), [kinh nghiệm thuê xe]({{ '/kinh-nghiem/' | relative_url }}) hoặc [giới thiệu về Nguyễn Tú]({{ '/gioi-thieu/' | relative_url }}).
+Xem thêm [bảng giá thuê xe máy]({{ '/bang-gia/' | relative_url }}), [cẩm nang thuê xe]({{ '/thue-xe/' | relative_url }}) hoặc [giới thiệu về Nguyễn Tú]({{ '/gioi-thieu/' | relative_url }}).
 
 <div class="cta-group">
   <a href="{{ '/bai-viet/' | relative_url }}" class="btn btn-outline">Về blog</a>
   <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi để đặt xe</a>
 </div>
-
-
-## Chủ đề con trong Du lịch
-
-Chuyên mục Du lịch được chia thành các chủ đề nhỏ để dễ theo dõi:
-
-{% for pair in site.data.factory-taxonomy %}
-  {% assign node = pair[1] %}
-  {% if node.p == "P-DU-LICH" %}
-    {% assign cnt = 0 %}
-    {% for post in site.posts %}
-      {% assign pslug2 = post.url | split: '/' | last %}
-      {% assign m = site.data.factory-map[pslug2] %}
-      {% if m and m.c == pair[0] %}{% assign cnt = cnt | plus: 1 %}{% endif %}
-    {% endfor %}
-    {% if cnt > 0 %}
-- [{{ node.t }}]({{ "/du-lich/" | append: node.s | append: "/" | relative_url }}) ({{ cnt }} bài)
-    {% endif %}
-  {% endif %}
-{% endfor %}

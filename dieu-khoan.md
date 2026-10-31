@@ -86,6 +86,6 @@ Bất kỳ tranh chấp nào phát sinh từ các điều khoản này sẽ đư
 
 Nếu bạn có bất kỳ câu hỏi nào về các điều khoản này, vui lòng liên hệ:
 
-- {% include icon.html name="phone" size="16" %} **Điện thoại:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
-- {% include icon.html name="message" size="16" %} **Zalo:** [{{ business.contact.zalo }}]({{ business.contact.zalo }})
-- {% include icon.html name="message" size="16" %} **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
+- **Điện thoại:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
+- **Zalo:** [{{ business.contact.zalo }}]({{ business.contact.zalo }})
+- **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})

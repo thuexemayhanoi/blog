@@ -1,7 +1,8 @@
 {%- comment -%} CTA liên hệ/bảng giá dùng chung cho bài viết, hub và topic (chỉ dùng dữ liệu _data/business.yml; không số liệu mới). {%- endcomment -%}
 {%- assign business = site.data.business -%}
 <div class="post-cta">
-      <h3>Bạn cần thuê xe máy tại Hà Nội?</h3>
+      {%- comment -%} h2 (không phải h3): khối CTA là mục ngang hàng, không phải con của "Bài viết liên quan" (SEO wave 4). {%- endcomment %}
+      <h2 class="post-cta__title">Bạn cần thuê xe máy?</h2>
       <p>Liên hệ <strong>{{ business.display_name }}</strong> để biết tình trạng xe và điều kiện cho kỳ thuê của bạn. Các khoản như tiền đặt cọc hoặc phát sinh cần xác nhận trực tiếp trước khi đặt.</p>
       <div class="cta-group">
         <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi {{ business.contact.phone }}</a>

@@ -1,7 +1,8 @@
 ---
 layout: topic
 title: "Thuê xe theo tháng - Thuê xe máy Hà Nội"
-description: "Thuê xe máy dài hạn theo tháng cho người ở và làm việc tại Hà Nội."
+seo_title: "Thuê xe máy theo tháng: kinh nghiệm cho người ở lâu"
+description: "Dành cho người ở trọ, sinh viên, dân văn phòng hay người chờ đổi xe mới: chọn xe số hay xe ga đi làm, giữ xe qua đêm, sạc xe điện và khoản chi ngoài tiền thuê."
 lang: vi
 permalink: /thue-xe/thue-thang/
 parent_id: P-THUE-XE
