@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-31T05:03:40+00:00",
+  "updated_at": "2026-10-31T05:04:55+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-06177",
-      "started_at": "2026-10-29T16:27:16+00:00",
-      "source": "_drafts/2026-10-29-den-bao-vi-tri-so-tren-dong-ho-xe-so-hien-sai-so-nhay-lung-tung-hoac-tat-han-di.md",
-      "destination": "_posts/2026-10-29-den-bao-vi-tri-so-tren-dong-ho-xe-so-hien-sai-so-nhay-lung-tung-hoac-tat-han-di.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8642321439f0ff01929c12a368cd18f3c79bbaa5",
-      "finished_at": "2026-10-29T16:27:16+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-06178",
-      "started_at": "2026-10-29T16:27:16+00:00",
-      "source": "_drafts/2026-10-29-vet-dau-uot-quanh-moay-o-va-vanh-banh-sau-xe-tay-ga-nhot-lap-ri-co-the-dinh-vao.md",
-      "destination": "_posts/2026-10-29-vet-dau-uot-quanh-moay-o-va-vanh-banh-sau-xe-tay-ga-nhot-lap-ri-co-the-dinh-vao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8642321439f0ff01929c12a368cd18f3c79bbaa5",
-      "finished_at": "2026-10-29T16:27:17+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06181",
       "started_at": "2026-10-29T16:37:18+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "0ee6bd054a6cf0307c38d509641bcf3a22ff23f3",
       "finished_at": "2026-10-31T05:03:40+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06228",
+      "started_at": "2026-10-31T05:04:54+00:00",
+      "source": "_drafts/2026-10-31-chua-quan-tinh-va-dinh-quan-tinh-o-giang-bien-bang-xe-may-cum-di-tich-ven-song-d.md",
+      "destination": "_posts/2026-10-31-chua-quan-tinh-va-dinh-quan-tinh-o-giang-bien-bang-xe-may-cum-di-tich-ven-song-d.md",
+      "result": "PUBLISHED",
+      "commit_sha": "27a7813d260f462baffafbb2ba32bd4ff395d587",
+      "finished_at": "2026-10-31T05:04:55+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06229",
+      "started_at": "2026-10-31T05:04:55+00:00",
+      "source": "_drafts/2026-10-31-dinh-bac-bien-tho-ly-thuong-kiet-va-dinh-gia-thuong-o-ngoc-thuy-nua-buoi-xe-may.md",
+      "destination": "_posts/2026-10-31-dinh-bac-bien-tho-ly-thuong-kiet-va-dinh-gia-thuong-o-ngoc-thuy-nua-buoi-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "27a7813d260f462baffafbb2ba32bd4ff395d587",
+      "finished_at": "2026-10-31T05:04:55+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
