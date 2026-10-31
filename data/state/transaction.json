@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-31T05:51:10+00:00",
+  "updated_at": "2026-10-31T05:52:46+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-06201",
-      "started_at": "2026-10-30T03:20:05+00:00",
-      "source": "_drafts/2026-10-30-trung-dau-gia-bien-so-xe-may-han-nop-tien-han-gan-bien-cho-xe-va-khi-ban-xe-co-g.md",
-      "destination": "_posts/2026-10-30-trung-dau-gia-bien-so-xe-may-han-nop-tien-han-gan-bien-cho-xe-va-khi-ban-xe-co-g.md",
-      "result": "PUBLISHED",
-      "commit_sha": "e779dab859d6a9f3237c0f052f1db4a74dc1c66c",
-      "finished_at": "2026-10-30T03:20:05+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-06202",
-      "started_at": "2026-10-30T03:20:05+00:00",
-      "source": "_drafts/2026-10-30-xe-may-hong-nat-ban-phe-lieu-hoac-bi-mat-khong-tim-lai-duoc-lam-thu-tuc-thu-hoi.md",
-      "destination": "_posts/2026-10-30-xe-may-hong-nat-ban-phe-lieu-hoac-bi-mat-khong-tim-lai-duoc-lam-thu-tuc-thu-hoi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "e779dab859d6a9f3237c0f052f1db4a74dc1c66c",
-      "finished_at": "2026-10-30T03:20:05+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06205",
       "started_at": "2026-10-30T03:22:48+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "2dac2651f280cf845af5a20ffaa50cbb977b9f89",
       "finished_at": "2026-10-31T05:51:10+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06256",
+      "started_at": "2026-10-31T05:52:45+00:00",
+      "source": "_drafts/2026-10-31-tu-bac-ha-sang-xin-man-qua-coc-pai-bang-xe-may-noi-lao-cai-voi-phia-tay-ha-giang.md",
+      "destination": "_posts/2026-10-31-tu-bac-ha-sang-xin-man-qua-coc-pai-bang-xe-may-noi-lao-cai-voi-phia-tay-ha-giang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "c9551bae6e9d5b46b33cc7ba8c32b5928d47649e",
+      "finished_at": "2026-10-31T05:52:45+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06259",
+      "started_at": "2026-10-31T05:52:46+00:00",
+      "source": "_drafts/2026-10-31-cot-co-lung-po-o-a-mu-sung-noi-song-hong-chay-vao-viet-nam-di-xe-may-tu-lao-cai.md",
+      "destination": "_posts/2026-10-31-cot-co-lung-po-o-a-mu-sung-noi-song-hong-chay-vao-viet-nam-di-xe-may-tu-lao-cai.md",
+      "result": "PUBLISHED",
+      "commit_sha": "c9551bae6e9d5b46b33cc7ba8c32b5928d47649e",
+      "finished_at": "2026-10-31T05:52:46+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
