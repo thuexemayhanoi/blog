@@ -1,0 +1,408 @@
+{
+ "_meta": {
+  "note": "Lô R30C: child xe và kỹ năng (C-XE-DAP-DIEN, C-HONDA-VISION, C-YAMAHA-SIRIUS, C-HONDA-WAVE, C-HONDA-CLICK, C-HONDA-AIR-BLADE, C-XE-KHAC-PHUC, C-XE-LUA-CHON, C-KY-NANG-CO-BAN). Nguồn: trang sản phẩm honda.com.vn (Vision, Air Blade 160/125, Wave Alpha 110, Wave RSX) và yamaha-motor.com.vn (Sirius FI, Sirius phanh đĩa), thông báo 07/7/2026 của Yamaha Motor Việt Nam về xăng E5/E10, Thông tư 50/2025/TT-BCT (E10 từ 01/6/2026, E5 RON 92 đến hết 2030), Luật 36/2024/QH15 (VBHN 55) Điều 31, 33, 34, Nghị định 168/2024 Điều 9, Đề án vùng phát thải thấp Vành đai 1 (NQ 57/2025/NQ-HĐND, QĐ 3273/QĐ-UBND). Kiểm trùng: list_titles theo child và --grep có dấu/không dấu cho từng thực thể chính trên toàn matrix (~6.317 hàng) và ledger 49 STAGED, đọc nội dung bài láng giềng trong _posts khi cần, rồi topic_check.py (G1-G9 + Jaccard + intent).",
+  "created": "2026-10-30",
+  "source": "coordinator topic expansion 2026-10-30 theo docs/TAXONOMY.md, gate G1-G9"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-001",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius thuê đổ xăng E10 được không: bản FI, bản chế hòa khí từ 2017 và đời trước 2017 theo Yamaha Việt Nam",
+   "intent": "Người dùng hỏi: «Xe Sirius thuê ở Hà Nội đổ xăng E10 có hại máy không, hay phải tìm cột còn bán E5 RON 92?». Bài đối chiếu thông báo ngày 07/7/2026 của Yamaha Motor Việt Nam về tính tương thích với xăng E5, E10: xe phun xăng điện tử FI (gồm các mã Sirius FI) dùng được E10; xe chế hòa khí sản xuất từ năm 2017 (các mã Sirius B6A, BGY trong phụ lục) dùng được E10; xe chế hòa khí sản xuất trước 2017 được khuyến nghị dùng E5; cách tự nhận biết bản FI theo hãng (chữ FI trên tem hoặc đồng hồ, tiếng bơm xăng khoảng 3 giây khi bật khóa, đèn cảnh báo động cơ sáng rồi tắt) và xem năm sản xuất trên nhãn hàng hóa gắn trên xe; bối cảnh Thông tư 50/2025/TT-BCT (E10 bán toàn quốc từ 01/6/2026, E5 RON 92 duy trì đến hết năm 2030); hỏi tiệm trước khi bơm, không tự đổ phụ gia. Không nêu giá xăng, không nêu giá thuê Sirius. Người đọc là khách thuê Sirius đi phố và đi tỉnh, khác bài Honda Wave đổ E10 (BLG-06108) ở chỗ áp khuyến cáo riêng của Yamaha theo đời xe và hệ thống cấp nhiên liệu.",
+   "kw": "sirius đổ xăng e10 được không",
+   "kw2": [
+    "sirius chế hòa khí đổ xăng gì",
+    "sirius fi dùng xăng e10",
+    "xăng e5 ron 92 cho sirius",
+    "nhận biết sirius phun xăng điện tử"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "khách thuê Yamaha Sirius ở Hà Nội đi phố và đi tỉnh",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-002",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Kim xăng Yamaha Sirius FI tụt về vạch 0 khi tắt máy: không phải hết xăng, bật khóa để đọc đúng lúc nhận và trả xe",
+   "intent": "Người dùng hỏi: «Vừa tắt máy chiếc Sirius thuê thì kim xăng rơi hẳn về 0, xe bị rò xăng hay hỏng đồng hồ?». Bài giải thích đặc điểm Yamaha công bố trên Sirius FI: kim báo xăng chỉ hiển thị khi bật công tắc và tự trả về mức 0 khi xe tắt máy; cách đọc mức xăng đúng (bật khóa, chờ kim lên ổn định rồi mới đề), cùng tiệm chụp đồng hồ ở trạng thái bật khóa khi nhận và trả xe, phân biệt với trường hợp đã bật khóa mà kim vẫn nằm ở 0 hoặc nhảy thất thường (lúc đó mới cần báo tiệm), và thói quen canh xăng khi đỗ nghỉ giữa chặng. Không nêu giá thuê. Người đọc là khách lần đầu thuê Sirius FI, khác bài bảng đồng hồ Sirius (BLG-03324) và bài phân biệt Sirius phun xăng với chế hòa khí (BLG-02589) ở chỗ chỉ xử lý hiểu lầm kim xăng về 0 và cách ghi mức xăng khi bàn giao.",
+   "kw": "kim xăng sirius về 0 khi tắt máy",
+   "kw2": [
+    "sirius fi kim xăng tụt",
+    "đọc mức xăng xe sirius",
+    "đồng hồ xăng sirius fi",
+    "chụp mức xăng khi trả xe thuê"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "khách lần đầu thuê Yamaha Sirius FI",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-003",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Yamaha Mio Classico, Ultimo, Maximo là xe chế hòa khí đời cũ: Yamaha khuyến nghị xăng E5, đổ gì khi cây xăng bán E10",
+   "intent": "Người dùng hỏi: «Thuê Yamaha Mio ở Hà Nội thì đổ xăng E10 được không hay phải tìm cột E5 RON 92?». Bài dựa vào phụ lục trong thông báo ngày 07/7/2026 của Yamaha Motor Việt Nam: các mã Mio Classico, Mio Ultimo, Mio Maximo sản xuất 2007–2009 dùng chế hòa khí, nhiên liệu khuyến cáo E5; nguyên tắc chung của hãng là xe chế hòa khí sản xuất trước 2017 nên dùng E5, từ 2017 dùng được E10; lộ trình Thông tư 50/2025/TT-BCT (E10 toàn quốc từ 01/6/2026, E5 RON 92 vẫn lưu hành đến hết năm 2030); cách tìm đúng cột E5 tại cây xăng, hỏi tiệm cho thuê loại xăng xe vẫn dùng, nếu lỡ bơm E10 thì theo dõi không tải, khó nổ và báo tiệm thay vì tự chỉnh chế hòa khí. Không nêu giá xăng, không nói về Honda Click nhập khẩu. Người đọc là khách thuê Yamaha Mio, khác bài lần đầu lái Mio (BLG-03936) và bài nhận biết đời Mio (BLG-03937) ở chỗ trả lời chuyện chọn nhiên liệu theo khuyến cáo của hãng.",
+   "kw": "yamaha mio đổ xăng e5 hay e10",
+   "kw2": [
+    "mio classico đổ xăng gì",
+    "xe chế hòa khí trước 2017 đổ xăng e5",
+    "mio ultimo đổ e10 được không",
+    "cột xăng e5 ron 92"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "khách thuê Yamaha Mio ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-004",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Số điện áp ắc quy trên màn hình Honda Air Blade đời mới: đọc lúc nhận xe, khi bấm đề và lúc nào nên báo tiệm",
+   "intent": "Người dùng hỏi: «Màn hình Air Blade thuê hiện một con số kèm chữ V, số này tụt khi bấm đề hay bật đèn có phải ắc quy yếu không?». Bài giải thích mục hiển thị điện áp ắc quy mà Honda Việt Nam công bố trên mặt đồng hồ LCD của Air Blade đời mới (cùng quãng đường, hành trình, thời gian, mức tiêu thụ nhiên liệu, báo thay nhớt và đèn báo điều kiện sạc bình điện); cách chuyển màn hình theo sách hướng dẫn nếu xe có nút chọn, ghi lại con số lúc nhận xe để so về sau, vì sao số tụt thoáng qua khi đề rồi hồi lại là chuyện thường, khi nào số thấp kéo dài kèm đề yếu, đèn mờ hoặc đèn báo sạc sáng thì dừng và báo tiệm; không tự câu bình, không đưa ngưỡng vôn tuyệt đối khi sách hướng dẫn không ghi. Người đọc là khách thuê Air Blade đời 2025–2026, khác bài đọc đồng hồ Air Blade (BLG-03292) và bài đọc thông số in trên ắc quy (BLG-05882) ở chỗ dùng con số điện áp hiển thị để phát hiện sớm ắc quy yếu.",
+   "kw": "điện áp ắc quy air blade",
+   "kw2": [
+    "màn hình air blade hiện số vôn",
+    "air blade ắc quy yếu",
+    "đèn báo sạc bình điện air blade",
+    "đồng hồ lcd air blade 2026"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "khách thuê Honda Air Blade đời mới",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-005",
+   "child_id": "C-HONDA-VISION",
+   "title": "Honda Vision có Idling Stop gặp đoạn đường ngập: tắt tính năng trước khi lội nước để máy không tự ngắt giữa vũng",
+   "intent": "Người dùng hỏi: «Vision thuê tự tắt máy khi dừng hơn 3 giây, nếu kẹt xe ngay giữa đoạn ngập thì máy tắt có sao không và có vặn ga cho nổ lại?». Bài dựa vào mô tả của Honda Việt Nam: hệ thống ngắt động cơ tạm thời trên Vision tự ngắt khi dừng xe trên 3 giây và khởi động lại chỉ bằng thao tác vặn ga; giải thích vì sao trước khi vào đoạn ngập nên tắt công tắc Idling Stop (hỏi tiệm vị trí công tắc khi nhận xe), giữ ga đều, canh lúc đi để không phải dừng giữa nước; nếu máy đã tắt khi bánh còn ngập thì không vặn ga cho nổ lại mà dắt lên chỗ cao, chờ và báo tiệm; bật lại tính năng khi đã ra khỏi đoạn ngập. Không đưa mức nước an toàn bằng con số. Người đọc là khách thuê Vision mùa mưa ở Hà Nội, khác bài Vision lỡ đi qua đường ngập (BLG-03266, xử lý sau khi đã qua) và bài Idling Stop chung (BLG-03114, dùng khi kẹt xe) ở chỗ chuẩn bị trước khi lội nước với xe có ngắt máy tạm thời.",
+   "kw": "vision idling stop khi đi đường ngập",
+   "kw2": [
+    "tắt idling stop trước khi lội nước",
+    "vision tự tắt máy giữa vũng nước",
+    "ngắt động cơ tạm thời vision",
+    "vision chết máy trong nước"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "khách thuê Honda Vision mùa mưa ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-006",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Honda Wave RSX có hộc U-box dưới yên: mở yên bằng ổ khóa 4 trong 1, cất vừa mũ nửa đầu và áo mưa khi gửi xe",
+   "intent": "Người dùng hỏi: «Thuê Wave RSX thì có chỗ cất mũ bảo hiểm và áo mưa không hay phải treo ngoài xe?». Bài dựa vào thông tin Honda Việt Nam công bố cho Wave RSX: hộc đựng đồ U-box chứa được một mũ bảo hiểm nửa đầu cùng vật dụng cá nhân, ổ khóa 4 trong 1 gồm khóa điện, khóa từ, khóa cổ và khóa yên; hướng dẫn mở yên bằng ổ khóa, xếp mũ, áo mưa mỏng, giấy tờ trong túi chống nước, những thứ không nên để trong hộc (điện thoại lúc nắng gắt, đồ ướt, đồ dễ vỡ), đóng yên cho ăn chốt; lưu ý trang Wave Alpha 110 của hãng không nêu hộc U-box nên cần hỏi tiệm đúng bản xe đang thuê. Không nêu giá thuê. Người đọc là khách thuê Honda Wave, khác bài Honda Wave ít chỗ cất đồ (BLG-02150, viết chung là Wave không có hộc) ở chỗ chỉ ra bản RSX có hộc U-box và cách dùng.",
+   "kw": "hộc u-box wave rsx",
+   "kw2": [
+    "wave rsx có cốp không",
+    "cất mũ bảo hiểm trên xe wave",
+    "ổ khóa 4 trong 1 wave rsx",
+    "mở yên xe wave rsx"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "khách thuê Honda Wave RSX",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-007",
+   "child_id": "C-XE-LUA-CHON",
+   "title": "Chọn xe thuê theo khoảng sáng gầm: Vision 175 mm, Sirius FI 155 mm, Air Blade 142 mm, Wave khoảng 135 mm",
+   "intent": "Người dùng hỏi: «Nhà trong ngõ có dốc dắt xe cao và hay phải qua gờ giảm tốc to, nên thuê dòng xe nào để ít cạ gầm?». Bài so khoảng sáng gầm theo thông số hãng công bố: Honda Vision 175 mm, Yamaha Sirius FI vành đúc 155 mm và Sirius phanh đĩa 130 mm, Honda Air Blade 142 mm, Wave Alpha 110 134 mm, Wave RSX 135 mm; giải thích khoảng sáng gầm khác chiều cao yên, vì sao xe ga có hộp truyền động và chân chống giữa thấp vẫn có thể quệt, chở hai người làm gầm hạ thêm, cách thử dắt qua dốc nhà và gờ ngay tại tiệm trước khi chốt; không khẳng định xe gầm cao thì lội ngập an toàn hơn. Không nêu giá thuê. Người đọc là người thuê xe theo tuần, tháng ở nhà ống, ngõ dốc, khu tập thể có bậc dắt, khác bài chọn xe theo chiều cao yên (BLG-00917) và bài xe ga cạ gầm (BLG-05650, cách đi qua chỗ quệt) ở chỗ dùng số đo gầm để chọn dòng xe.",
+   "kw": "khoảng sáng gầm xe máy thuê",
+   "kw2": [
+    "xe máy nào gầm cao",
+    "honda vision gầm cao bao nhiêu",
+    "xe ga hay bị cạ gầm",
+    "chọn xe cho nhà có dốc dắt"
+   ],
+   "links": [
+    "/xe-may/chon-loai-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "người thuê xe tuần, tháng ở nhà ống, ngõ dốc tại Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-008",
+   "child_id": "C-XE-LUA-CHON",
+   "title": "Thuê xe vào phố cổ khi Hà Nội thí điểm vùng phát thải thấp: xe đời nào bị khuyến khích hạn chế và có nên chọn xe điện",
+   "intent": "Người dùng hỏi: «Hà Nội làm vùng phát thải thấp ở phố cổ, thuê xe máy xăng đi chơi Hồ Gươm có bị cấm không, nên chọn xe đời mới hay xe điện?». Bài tóm tắt Đề án vùng phát thải thấp trong Vành đai 1 theo Nghị quyết 57/2025/NQ-HĐND và Quyết định 3273/QĐ-UBND: giai đoạn 1 (01/7–31/12/2026) thí điểm ở khu phố cổ và quanh hồ Hoàn Kiếm, chủ yếu tuyên truyền, khuyến khích hạn chế xe mô tô sản xuất trước 2008 và xe gắn máy sản xuất trước 2016; giai đoạn 2 (năm 2027) mở rộng ra toàn phường Hoàn Kiếm, Cửa Nam, đo kiểm khí thải và hạn chế dần xe không đạt quy chuẩn; giai đoạn 3 từ 2028 không cho xe xăng dưới mức 3 lưu thông trong Vành đai 1; từ đó gợi ý khách thuê hỏi tiệm năm sản xuất xe, ưu tiên xe đời mới, cân nhắc xe máy điện hoặc xe đạp điện khi chủ yếu đi phố cổ, và xem văn bản hướng dẫn trước mỗi giai đoạn. Không nêu tiền phạt, không khẳng định điều chưa ban hành. Người đọc là khách du lịch, người ở phố cổ thuê xe ngắn ngày, khác bài lộ trình hạn chế xe máy xăng trong Vành đai 1 (BLG-05271) ở chỗ áp vào việc chọn đời xe và loại xe khi thuê.",
+   "kw": "thuê xe máy vùng phát thải thấp",
+   "kw2": [
+    "vùng phát thải thấp hoàn kiếm",
+    "xe máy đời cũ vào phố cổ",
+    "phố cổ hạn chế xe xăng",
+    "thuê xe điện đi phố cổ"
+   ],
+   "links": [
+    "/xe-may/chon-loai-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "khách du lịch và người ở phố cổ thuê xe ngắn ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-009",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Xe thuê đổ xăng E10 xong bị rung không tải, ga chập chờn hay tắt máy khi dừng: nguyên nhân hãng nêu và khi nào báo tiệm",
+   "intent": "Người dùng hỏi: «Từ khi cây xăng bán E10, chiếc xe thuê đứng đèn đỏ hay rung, ga không đều, có lúc tắt máy, có phải do xăng không?». Bài dựa vào khuyến cáo trong thông báo ngày 07/7/2026 của Yamaha Motor Việt Nam: do đặc tính cháy của xăng sinh học, tốc độ không tải của một số xe có thể thay đổi và cần chỉnh khi bảo dưỡng; xe lâu năm chuyển sang E10 có thể bong cặn trong bình xăng gây tắc lọc xăng; không tự trộn phụ gia; cùng khuyến cáo của Honda Việt Nam về chỉ số octan và hàm lượng ethanol cho xe chính hãng; phân biệt triệu chứng không tải với xăng lẫn nước hoặc xăng bẩn đột ngột, việc tạm làm (giữ ga nhẹ khi dừng, không rồ ga, ghi lại ngày giờ và cây xăng đã đổ), khi nào phải dừng hẳn và báo tiệm để tiệm kiểm tra. Không nêu giá xăng, không quy lỗi cho cây xăng khi chưa có căn cứ. Người đọc là người thuê xe theo tuần, tháng ở Hà Nội, khác bài vừa đổ xăng xong xe giật rồi tắt máy (BLG-02932, nghi xăng bẩn) ở chỗ triệu chứng kéo dài sau khi chuyển sang E10 và cách xử lý theo khuyến cáo hãng.",
+   "kw": "đổ xăng e10 xe hay tắt máy",
+   "kw2": [
+    "xăng e10 không tải chập chờn",
+    "xe cũ đổ e10 tắc lọc xăng",
+    "chỉnh không tải khi dùng e10",
+    "xăng e10 có hại xe máy không"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "người thuê xe máy tuần, tháng ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-010",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Chìa khóa xe thuê bị cong hoặc gãy một đoạn trong ổ: đừng cố vặn, giữ mẩu chìa còn lại và gọi tiệm trước khi tìm thợ",
+   "intent": "Người dùng hỏi: «Chìa xe máy thuê bị gãy, nửa chìa còn kẹt trong ổ, có tự gắp ra hay gọi thợ khóa ngoài đường được không?». Bài hướng dẫn: dấu hiệu chìa sắp gãy (cong, nứt, phải lắc mới vặn được), khi đã gãy thì giữ nguyên tư thế ổ khóa, không dùng kìm, kim băng, keo dán để gắp, không cạy nắp khóa từ, giữ mẩu chìa còn lại, chụp ảnh ổ khóa, xem xe đang khóa cổ hay đang mở để tính chuyện dắt vào chỗ an toàn hoặc gửi; báo tiệm cho thuê để được hướng dẫn hoặc nhờ mang chìa dự phòng, chỉ nhờ thợ khóa khi tiệm đồng ý; lưu ý xe Smart Key xử lý khác. Không nêu chi phí sửa, không hứa thời gian tiệm tới. Người đọc là khách thuê xe chìa cơ, khác bài chìa kẹt trong ổ khóa (BLG-02055) và bài mất chìa khóa (BLG-00926) ở chỗ chìa đã cong, gãy và nguy cơ làm hỏng ổ.",
+   "kw": "gãy chìa khóa xe máy trong ổ",
+   "kw2": [
+    "chìa khóa xe máy bị cong",
+    "gắp chìa gãy trong ổ khóa",
+    "xe thuê bị gãy chìa",
+    "gọi thợ khóa xe máy"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "khách thuê xe máy chìa cơ ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-011",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Giảm xóc xe thuê kêu cót két hoặc lụp cụp khi qua gờ, khi chở người: tiếng nào còn đi được, tiếng nào phải báo tiệm",
+   "intent": "Người dùng hỏi: «Xe máy thuê cứ qua gờ giảm tốc là phuộc kêu cót két, chở thêm người thì nghe lụp cụp, có nguy hiểm không?». Bài giúp phân biệt theo vị trí và kiểu tiếng: kêu ở phuộc trước khi bóp phanh hoặc qua ổ gà, kêu ở giảm xóc sau khi chở nặng, tiếng kim loại va chạm khi phuộc nén hết hành trình, tiếng từ ốp nhựa, chân chống, baga dễ bị nhầm là giảm xóc; cách thử nhanh khi dừng (nhún đầu xe, nhún đuôi xe, nhìn vệt dầu trên ống phuộc), khi nào giảm tải, đi chậm về chỗ an toàn và báo tiệm ngay (tiếng va đập kèm tay lái rung, xe nghiêng một bên, dầu chảy). Không tự tháo, không bơm dầu. Người đọc là người thuê xe đi phố và đi đường xấu, khác bài giảm xóc yếu hoặc chảy dầu (BLG-02169, kiểm tra trước chuyến đi) và các bài xe kêu lạ theo dòng xe ở chỗ tập trung vào tiếng kêu của hệ thống giảm xóc khi đang đi.",
+   "kw": "giảm xóc xe máy kêu cót két",
+   "kw2": [
+    "phuộc trước kêu khi phanh",
+    "giảm xóc sau kêu khi chở người",
+    "xe máy kêu lụp cụp qua gờ",
+    "phuộc xe máy bị kêu"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "người thuê xe máy đi phố và đường xấu ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-012",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Ô tô điện, taxi điện và xe buýt điện chạy êm ở Hà Nội: người đi xe máy không nghe tiếng tới gần thì quan sát thế nào",
+   "intent": "Người dùng hỏi: «Đi xe máy ở Hà Nội hay giật mình vì ô tô điện, xe buýt điện áp sát mà không nghe tiếng máy, phải để ý gì?». Bài giải thích vì sao xe điện chạy êm làm người đi xe máy mất tín hiệu âm thanh quen dựa vào (tiếng máy khi xe phía sau tăng tốc, khi xe rời trạm, khi xe áp sát để vượt), cách bù bằng mắt: nhìn gương đều đặn, ngoái kiểm tra điểm mù trước khi chuyển làn hay rẽ, không đi lâu trong vùng khuất cạnh xe buýt, giữ khoảng cách ở trạm xe buýt và điểm taxi dừng đón, chừa đường thoát khi dừng đèn đỏ cạnh xe lớn; mũ bảo hiểm kín, gió và tai nghe làm vấn đề nặng hơn. Không nêu tên hãng xe, không nêu số liệu tai nạn. Người đọc là người mới lái xe máy ở Hà Nội, khác bài xe công nghệ dừng đột ngột (BLG-02779) và bài mưa to át tiếng còi (BLG-04056) ở chỗ nói về phương tiện điện không phát tiếng động cơ.",
+   "kw": "ô tô điện không nghe tiếng máy",
+   "kw2": [
+    "xe buýt điện áp sát xe máy",
+    "xe điện chạy êm khó nhận ra",
+    "nhìn gương khi đi cạnh xe lớn",
+    "taxi điện tới gần không nghe tiếng"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "người mới lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-013",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Dừng chờ đèn đỏ bằng xe máy: chống chân trái hay cả hai chân, tay giữ phanh nào trên xe số và xe ga để xe không trôi",
+   "intent": "Người dùng hỏi: «Khi dừng đèn đỏ nên chống một chân hay hai chân, chân nào chạm đất trước để vẫn giữ được phanh?». Bài hướng dẫn tư thế dừng: với xe số chống chân trái, chân phải giữ phanh sau, để số 1 hay về số 0 tùy thời gian chờ; với xe ga chống một hoặc hai chân tùy chiều cao, tay trái giữ phanh sau, tay phải rời khỏi tay ga hoặc để thả lỏng; dừng trên dốc cầu, nền nghiêng, nền ướt thì chân nào xuống trước; chờ lâu ở ngã tư đông thì thả lỏng vai nhưng không bỏ phanh; người thấp chỉ chạm mũi chân thì nhích người khỏi yên về một bên. Người đọc là người mới lái, người quen một loại xe chuyển sang loại kia, khác bài chọn vị trí đứng đợi đèn đỏ (BLG-00236), bài hụt chân khi dừng (BLG-05193) và bài Honda Vision dừng đèn đỏ (BLG-03270) ở chỗ dạy chung tư thế chân, tay giữ phanh cho cả xe số lẫn xe ga.",
+   "kw": "chống chân khi dừng xe máy",
+   "kw2": [
+    "dừng đèn đỏ chống một chân",
+    "xe số dừng thì chân nào xuống",
+    "giữ phanh khi chờ đèn đỏ",
+    "dừng xe trên dốc chống chân"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "người mới lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-014",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Dừng xe máy êm không bị chúi đầu: nhả bớt phanh trước ở nhịp cuối, giữ phanh sau và đặt chân xuống đúng lúc",
+   "intent": "Người dùng hỏi: «Mỗi lần dừng xe máy là bị giật, chúi đầu, người ngồi sau đập mũ vào lưng, phanh sao cho êm?». Bài giải thích vì sao xe giật ở nhịp cuối (phanh trước bóp mạnh lúc xe gần dừng làm phuộc nén rồi bật lại), kỹ thuật dừng êm: nhả ga sớm, phanh cả hai bánh từ xa, nới dần phanh trước khi còn vài mét, giữ phanh sau đến khi xe đứng hẳn, chỉ đặt chân xuống khi xe đã dừng; khác biệt khi xe có phanh kết hợp CBS hoặc ABS; bài tập ở bãi vắng; báo trước cho người ngồi sau; khi khẩn cấp vẫn phải phanh mạnh dứt khoát. Người đọc là người mới lái, người hay chở bố mẹ, con nhỏ, khác bài phối hợp phanh trước sau (BLG-01843), bài tập phanh dừng đúng vạch (BLG-04007, luyện cự ly) và bài phanh gấp (BLG-03516) ở chỗ luyện dừng mượt trong giao thông thường ngày.",
+   "kw": "dừng xe máy không bị chúi đầu",
+   "kw2": [
+    "phanh xe máy bị giật",
+    "dừng xe êm khi chở người",
+    "nhả phanh trước khi sắp dừng",
+    "cách phanh xe máy mượt"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "người mới lái và người hay chở người thân ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-015",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Vượt xe đạp, xe đạp điện đi chậm sát lề khi lái xe máy: chừa khoảng ngang, đoán cú lạng và không ép họ vào vỉa hè",
+   "intent": "Người dùng hỏi: «Đi sau học sinh đi xe đạp điện, người già đạp xe chở hàng sát lề, vượt thế nào cho an toàn?». Bài hướng dẫn: đọc dấu hiệu người đi xe đạp sắp lạng (quay đầu nhìn, tránh ổ gà, nắp cống, xe đỗ, người bước xuống lòng đường), chọn đoạn vượt có khoảng trống, nhìn gương và báo hiệu trước, giữ khoảng cách ngang rộng hơn khi vượt xe máy vì xe đạp chao, không bấm còi sát làm họ giật mình, không vượt ngay trước đầu ngõ hay ngay trước khi mình rẽ phải; lưu ý xe đạp chở hàng cồng kềnh, xe đạp điện chở hai người, giờ tan trường. Người đọc là người đi xe máy trong phố, khác bài rẽ phải khi có xe đạp sát lề (BLG-05525) và bài gặp đoàn xe đạp thể thao (BLG-02792) ở chỗ vượt người đi xe đạp đơn lẻ, chậm, khó đoán.",
+   "kw": "vượt xe đạp khi đi xe máy",
+   "kw2": [
+    "khoảng cách ngang khi vượt xe đạp",
+    "xe đạp điện học sinh lạng lách",
+    "vượt xe đạp chở hàng",
+    "không ép xe đạp vào lề"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "người đi xe máy trong phố Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-016",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Ô tô đang đỗ ven đường bất ngờ lăn bánh, quay đầu ra giữa phố: đọc đèn phanh, đèn lùi và bánh trước khi đi xe máy qua",
+   "intent": "Người dùng hỏi: «Đang đi xe máy gần lề thì ô tô đỗ phía trước bất ngờ tách ra hoặc quay đầu chắn ngang, làm sao biết trước?». Bài hướng dẫn đọc dấu hiệu một ô tô đang đỗ sắp rời chỗ: đèn phanh sáng khi tài xế vào số, đèn lùi trắng, xi nhan, bánh trước đã đánh lái, người vừa lên xe đóng cửa, khói ống xả; chọn vị trí trong làn cách hàng xe đỗ một khoảng, nhả ga khi thấy dấu hiệu, không chen vào khoảng trống trước đầu xe đang nhích ra, dừng sớm khi ô tô quay đầu chắn ngang phố hẹp. Người đọc là người đi xe máy ở phố có ô tô đỗ hai bên, khác bài cửa ô tô bật mở (BLG-02193) và bài ô tô lùi vào chỗ đỗ (BLG-05219) ở chỗ ô tô đang đỗ rời chỗ, nhập dòng hoặc quay đầu.",
+   "kw": "ô tô đang đỗ bất ngờ nhập dòng",
+   "kw2": [
+    "đọc đèn lùi ô tô",
+    "ô tô quay đầu chắn ngang",
+    "bánh trước ô tô đánh lái",
+    "đi xe máy cạnh ô tô đỗ"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "người đi xe máy trong phố Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-017",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Che ô hay cầm điện thoại xem đường khi đi xe đạp điện ở Hà Nội: luật cấm cả người lái lẫn người ngồi sau ra sao",
+   "intent": "Người dùng hỏi: «Đi xe đạp điện trời nắng có được che ô, hay một tay cầm điện thoại xem bản đồ không, người ngồi sau che ô thì sao?». Bài trích Luật Trật tự, an toàn giao thông đường bộ 2024: khoản 2 Điều 31 dẫn chiếu khoản 3 Điều 33 (người điều khiển không sử dụng ô, thiết bị âm thanh trừ thiết bị trợ thính) và khoản 4 Điều 33 (người được chở không sử dụng ô); điểm h khoản 1 Điều 9 Nghị định 168/2024/NĐ-CP xếp việc người điều khiển xe đạp, xe đạp máy sử dụng ô, dùng tay cầm và sử dụng điện thoại, chở người ngồi sau sử dụng ô là hành vi bị xử phạt (đối chiếu sửa đổi của Nghị định 238/2026 khi viết); cách thay thế: áo chống nắng, áo mưa, giá đỡ điện thoại gắn chắc và dừng hẳn sát lề để xem đường. Không nêu số tiền phạt. Người đọc là khách du lịch, người đi chợ, học sinh dùng xe đạp điện thuê, khác bài cầm ô khi lái xe máy (BLG-06128, đã loại trừ xe đạp) và bài hai người đi chung xe đạp điện (BLG-05570) ở chỗ áp các điều khoản về ô, điện thoại cho xe đạp máy.",
+   "kw": "đi xe đạp điện có được che ô",
+   "kw2": [
+    "xe đạp điện cầm điện thoại",
+    "ngồi sau xe đạp điện che ô",
+    "giá đỡ điện thoại xe đạp điện",
+    "luật xe đạp điện 2024"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "khách du lịch, người đi chợ và học sinh thuê xe đạp điện",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-018",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Chở cành đào, cây quất hay đồ dài bằng xe đạp điện dịp Tết: hàng không quá 1/3 thân xe, 1 m trước sau, 0,4 m mỗi bên",
+   "intent": "Người dùng hỏi: «Mua cành đào, chậu quất ngày Tết rồi chở bằng xe đạp điện thuê có được không, đồ to cỡ nào là quá?». Bài trích khoản 5 Điều 31 Luật Trật tự, an toàn giao thông đường bộ 2024: hàng hóa xếp trên xe thô sơ phải bảo đảm an toàn, không cản trở giao thông, không che khuất tầm nhìn người điều khiển, không vượt quá 1/3 chiều dài thân xe, không quá 1 mét phía trước và phía sau xe, không quá 0,4 mét mỗi bên bánh xe; người được chở không mang vác vật cồng kềnh (khoản 2 Điều 31 dẫn chiếu khoản 4 Điều 33); cách ước lượng nhanh bằng thước dây hoặc sải tay, buộc cành vào giỏ và baga, giữ tay lái, phanh sớm vì xe nặng đầu, khi nào nên nhờ chở bằng xe khác; so sánh với giới hạn của xe máy (0,3 mét mỗi bên, 0,5 mét phía sau giá đèo hàng). Không nêu số tiền phạt, không nêu giá cây cảnh. Người đọc là người thuê xe đạp điện đi chợ hoa Tết Đinh Mùi 2027, khác bài chở hoa bằng xe đạp điện (BLG-02526) và bài chở hai bao đồ (BLG-01666) ở chỗ giới hạn kích thước hàng hóa theo luật cho xe thô sơ.",
+   "kw": "chở cành đào bằng xe đạp điện",
+   "kw2": [
+    "xe đạp điện chở hàng quá khổ",
+    "giới hạn chở hàng xe thô sơ",
+    "chở quất tết bằng xe đạp điện",
+    "điều 31 luật trật tự an toàn giao thông"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "người thuê xe đạp điện đi chợ hoa Tết ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30C-019",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Chống trộm xe đạp điện thuê khi dừng chơi phố: xe nhẹ dễ bị nhấc đi, khóa dây qua khung, khóa ngăn pin và gửi bãi",
+   "intent": "Người dùng hỏi: «Xe đạp điện thuê không có khóa cổ chắc như xe máy, dừng uống cà phê ở phố cổ thì khóa thế nào để khỏi mất xe, mất pin?». Bài hướng dẫn: kiểm tra khi nhận xe các khóa đi kèm (ổ khóa điện, khóa ngăn pin, khóa dây hoặc khóa chữ U nếu tiệm đưa), vì sao xe đạp điện nhẹ hơn xe máy nên dễ bị nhấc lên xe khác mang đi, luồn khóa qua khung và bánh, rút chìa và khóa ngăn pin, khi nào nên gửi bãi có vé thay vì dựng ven đường, không để điện thoại, ví trong giỏ xe; nếu mất xe hoặc pin thì trình báo công an phường và báo tiệm ngay. Không nêu giá vé gửi xe, không hứa trách nhiệm bồi thường. Người đọc là khách thuê xe đạp điện dạo phố, khác bài chống trộm xe máy điện thuê (BLG-03216) và bài pin rời xe máy điện bị trộm (BLG-04115) ở chỗ xe đạp điện không có khóa cổ, khóa đĩa và nhẹ, dễ bị nhấc đi.",
+   "kw": "chống trộm xe đạp điện thuê",
+   "kw2": [
+    "khóa xe đạp điện",
+    "mất pin xe đạp điện",
+    "gửi xe đạp điện ở phố cổ",
+    "khóa dây xe đạp điện"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-30-R30C",
+   "audience": "khách thuê xe đạp điện dạo phố Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}

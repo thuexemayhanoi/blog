@@ -1,0 +1,366 @@
+{
+ "_meta": {
+  "note": "Lô R30B: chủ đề pháp lý mới cho C-GPLX, C-PHAT-NGUOI, C-HD-PHAP-LY, C-QUY-DINH, C-BIEN-BAO (C-NOI-DO-CONG, C-BAO-HIEM đã bão hòa, không đề xuất). Văn bản đã đọc bản chữ: Thông tư 108/2026/TT-BCA (Điều 4, 9, 10, 11, 12, 15-21, 41, 42), VBHN 55/VBHN-VPQH Luật 36/2024/QH15 (Điều 9-33, 57-62, 65-85), QCVN 41:2024/BGTVT (Điều 4-8, 22, 32, 34, Phụ lục D mục D.14-D.16, Phụ lục E mục E.8, Phụ lục G mục G1.3, G2.7), Luật Xử lý vi phạm hành chính hợp nhất (Điều 125, 126), Bộ luật Dân sự 2015 (Điều 171, 584, 585, 590, 595, 605), Thông tư 72/2024/TT-BCA (VBHN 18/VBHN-BCA: Điều 10, 14, 17, 18), Thông tư 73/2024/TT-BCA (VBHN 19/VBHN-BCA: Điều 12, 13, 30 sửa bởi TT 13/2025/TT-BCA). Kiểm trùng: đọc toàn bộ ~710 tiêu đề 7 child pháp lý + ledger STAGED, grep toàn matrix (hồ sơ gốc, chấm điểm, B1, tạm giữ, tịch thu, bảo lãnh, tình thế cấp thiết, ổ gà, hố công trình, tai nạn, công an xã, hiệu lệnh dừng, đường ưu tiên, mép đường, lề gia cố, gộp làn, đường ngang, rạp...), đọc intent các hàng láng giềng, chạy topic_check (G1-G9 + gần nghĩa). Không chủ đề nào cần số tiền phạt.",
+  "created": "2026-10-30",
+  "source": "coordinator topic expansion 2026-10-30 theo docs/TAXONOMY.md, gate G1-G9"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-001",
+   "child_id": "C-GPLX",
+   "title": "Hồ sơ gốc bằng lái xe máy theo Thông tư 108/2026: biên bản kết quả sát hạch là gì, ai giữ và mất thì sao",
+   "intent": "Người dùng hỏi: «Nghe nói phải giữ hồ sơ gốc bằng lái, vậy với bằng A1 thi theo quy định mới thì hồ sơ gốc gồm giấy gì, ai giữ, lỡ mất có ảnh hưởng gì khi đổi bằng không?». Bài giải thích khoản 3 Điều 10 Thông tư 108/2026/TT-BCA (biên bản tổng hợp kết quả sát hạch lái xe của thí sinh đạt là hồ sơ gốc, giao người đạt tự bảo quản khi trả giấy phép lái xe; Phòng Cảnh sát giao thông tích hợp biên bản vào hệ thống thông tin về sát hạch, cấp giấy phép lái xe), Điều 17 (Phòng Cảnh sát giao thông lưu trữ, số hóa hồ sơ kỳ sát hạch), khoản 5 Điều 21 (hồ sơ đổi giấy phép lái xe là hồ sơ gốc do người lái xe tự bảo quản) và điểm b khoản 3 Điều 21 (cơ quan tra cứu hệ thống khi đổi), để người đọc biết giữ bản nào, dữ liệu nào đã nằm trên hệ thống; không suy đoán thủ tục chưa có trong văn bản, không nêu lệ phí hay số tiền phạt. Người đọc là người vừa thi đỗ hoặc sắp đổi bằng A1 ở Hà Nội; khác BLG-04354 (khi nào được tự đi xe sau khi đỗ) và BLG-04383 (bằng không có trên hệ thống) ở chỗ chỉ trả lời hồ sơ gốc là gì và cách giữ.",
+   "kw": "hồ sơ gốc bằng lái xe máy",
+   "kw2": [
+    "biên bản tổng hợp kết quả sát hạch",
+    "mất hồ sơ gốc bằng lái A1",
+    "hồ sơ gốc khi đổi bằng lái",
+    "Thông tư 108/2026 hồ sơ gốc"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Người vừa thi đỗ hoặc sắp đổi giấy phép lái xe hạng A1 ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-002",
+   "child_id": "C-GPLX",
+   "title": "Đang có lỗi giao thông chưa xử lý xong có được dự sát hạch bằng A1 không: quy định của Thông tư 108/2026 và Luật 36",
+   "intent": "Người dùng hỏi: «Tôi từng bị lập biên bản vì đi xe máy khi chưa có bằng nhưng chưa đến giải quyết, giờ đăng ký thi A1 có bị chặn không?». Bài giải thích khoản 3 Điều 19 Thông tư 108/2026/TT-BCA (chưa sát hạch cấp giấy phép lái xe đối với người vi phạm chưa thực hiện xong yêu cầu của cơ quan có thẩm quyền về giải quyết vụ việc vi phạm hành chính về trật tự, an toàn giao thông đường bộ) và khoản 4 Điều 62 Luật 36/2024/QH15 (chưa cấp, đổi, cấp lại), cách tự tra cứu vi phạm và hoàn tất quyết định xử phạt trước khi nộp hồ sơ đề nghị sát hạch theo khoản 1 Điều 9 và Điều 16 Thông tư 108, để không lỡ kỳ thi; không nêu số tiền phạt. Người đọc là người học bằng A1 ở Hà Nội từng bị xử lý khi chưa có bằng; khác BLG-04380 (đổi, cấp lại bằng đã có) ở chỗ áp dụng cho lần sát hạch để được cấp giấy phép lần đầu.",
+   "kw": "chưa xử lý vi phạm có được thi bằng a1",
+   "kw2": [
+    "đi xe không bằng lái rồi mới thi A1",
+    "tra cứu vi phạm trước khi thi bằng",
+    "khoản 3 Điều 19 Thông tư 108",
+    "điều kiện dự sát hạch A1"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Người học bằng A1 ở Hà Nội từng bị lập biên bản khi chưa có giấy phép lái xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-003",
+   "child_id": "C-GPLX",
+   "title": "Thiết bị chấm điểm hoặc xe sát hạch trục trặc giữa bài thi bằng A1: kết quả bị hủy và được thi lại ra sao",
+   "intent": "Người dùng hỏi: «Đang chạy bài sa hình A1 thì thiết bị báo lỗi, xe sát hạch chết máy giữa vòng số 8, vậy tôi bị tính trượt hay được thi lại?». Bài giải thích khoản 4 Điều 12 Thông tư 108/2026/TT-BCA (thiết bị chấm điểm tự động bị lỗi hoặc nguyên nhân khác không do lỗi thí sinh làm sai lệch kết quả thì hủy kết quả và được sát hạch lại; phân biệt với mang điện thoại, gian dối bị đình chỉ, hủy kết quả), điểm a khoản 2 Điều 4 (hạng A1 chấm điểm trực tiếp kết hợp thiết bị chấm điểm tự động), Điều 11 (Tổ giám sát lập biên bản khi phát hiện vi phạm quy trình) và khoản 4 Điều 61 Luật 36/2024/QH15 (trung tâm sát hạch chia sẻ ngay kết quả, dữ liệu giám sát quá trình sát hạch), cách báo ngay sát hạch viên và đề nghị ghi nhận sự cố; không nêu lệ phí, số tiền phạt. Người đọc là thí sinh A1 ở Hà Nội; khác BLG-05263 (không đồng ý kết quả, khiếu nại) và BLG-05264 (gian lận) ở chỗ xử lý sự cố kỹ thuật không do lỗi thí sinh.",
+   "kw": "thiết bị chấm điểm thi a1 bị lỗi",
+   "kw2": [
+    "xe sát hạch hỏng giữa bài thi",
+    "hủy kết quả sát hạch được thi lại",
+    "khoản 4 Điều 12 Thông tư 108",
+    "sự cố khi thi sa hình A1"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Thí sinh sát hạch giấy phép lái xe hạng A1 ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-004",
+   "child_id": "C-GPLX",
+   "title": "Thi bằng B1 để lái xe mô tô ba bánh theo Thông tư 108/2026: lý thuyết thêm phần nào, bài tiến chữ chi và lùi ngược lại",
+   "intent": "Người dùng hỏi: «Muốn lái xe ba bánh chở hàng thì phải có bằng B1, vậy kỳ thi B1 gồm những gì và khác thi A1 ở đâu?». Bài giải thích điểm c khoản 1 Điều 57 và điểm b khoản 1 Điều 59 Luật 36/2024/QH15 (hạng B1 cho xe mô tô ba bánh và các xe của hạng A1, đủ 18 tuổi), điểm a khoản 1 Điều 4 Thông tư 108/2026/TT-BCA (lý thuyết hạng B1 có thêm nội dung cấu tạo và sửa chữa thông thường, kỹ năng phòng cháy, chữa cháy và cứu nạn, cứu hộ), điểm b khoản 2 Điều 4 (sát hạch trong hình: tiến qua hình chữ chi và lùi theo hướng ngược lại, chấm điểm trực tiếp, không bố trí sát hạch viên ngồi trên xe), khoản 1 Điều 12 (công nhận kết quả, bảo lưu lý thuyết 01 năm), Điều 15, 16 (điều kiện, hồ sơ) và Phụ lục II; không nêu lệ phí, số tiền phạt. Người đọc là người ở Hà Nội cần lái xe ba bánh chở hàng; khác BLG-04360 (xe ba bánh cần hạng nào) và BLG-04357 (người khuyết tật được cấp hạng nào) ở chỗ mô tả nội dung kỳ sát hạch B1.",
+   "kw": "thi bằng b1 xe ba bánh",
+   "kw2": [
+    "sát hạch hạng B1 Thông tư 108",
+    "bài thi chữ chi bằng B1",
+    "lý thuyết bằng B1 có gì",
+    "bằng lái xe ba bánh chở hàng"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Người ở Hà Nội cần lái xe mô tô ba bánh chở hàng, chưa có bằng B1",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-005",
+   "child_id": "C-GPLX",
+   "title": "Trượt hoặc vắng một phần thi bằng A1 trong năm 2026: thi lại theo cách cũ đến hết tháng 2/2027 hay theo Thông tư 108",
+   "intent": "Người dùng hỏi: «Tôi trượt bài sa hình A1 tháng 10/2026, nếu tháng 3/2027 mới thi lại thì thi theo cách cũ hay phải làm theo nội dung mới?». Bài giải thích khoản 2 Điều 42 Thông tư 108/2026/TT-BCA (thí sinh sát hạch theo Thông tư 12/2025/TT-BCA mà vắng hoặc không đạt 01 nội dung trở lên thì sát hạch lại nội dung chưa đạt theo Thông tư 12/2025; từ ngày 01/3/2027 sát hạch lại theo Thông tư 108), khoản 2 và khoản 6 Điều 41 (nội dung sát hạch mới áp dụng từ 01/3/2027, các phần của Thông tư 12/2025 còn hiệu lực đến hết 28/02/2027, bài sát hạch số 2 từ 01/01/2028), điểm c khoản 1 Điều 12 (bảo lưu lý thuyết 01 năm) và khoản 5 Điều 12 cùng khoản 1 Điều 9 (đăng ký sát hạch lại, nộp hồ sơ trực tuyến) để thí sinh tự tính lịch thi lại; không nêu lệ phí. Người đọc là thí sinh A1 ở Hà Nội đang dở dang kỳ sát hạch; khác BLG-04355 (bảo lưu, thi lại theo Thông tư 12/2025) và BLG-06188 (đề lý thuyết 40 câu) ở chỗ trả lời quy định chuyển tiếp giữa hai thông tư.",
+   "kw": "thi lại bằng a1 năm 2027",
+   "kw2": [
+    "quy định chuyển tiếp Thông tư 108",
+    "trượt A1 thi lại theo đề nào",
+    "mốc 01/3/2027 thi bằng lái",
+    "Điều 42 Thông tư 108/2026"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Thí sinh A1 ở Hà Nội đã trượt hoặc vắng một nội dung sát hạch trong năm 2026",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-006",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Xe máy bị tạm giữ quá hạn mà không đến nhận: hai lần thông báo rồi bị tịch thu theo Luật Xử lý vi phạm hành chính",
+   "intent": "Người dùng hỏi: «Xe máy cũ của tôi bị tạm giữ mấy tháng nay chưa lấy, để lâu có bị tịch thu không và mốc nào thì mất hẳn?». Bài giải thích khoản 8 Điều 125 (thời hạn tạm giữ) và khoản 4 Điều 126 Luật Xử lý vi phạm hành chính (bản hợp nhất sửa đổi bởi Luật 67/2020/QH14, Luật 88/2025/QH15): xác định được chủ thì thông báo 02 lần (lần đầu trong 03 ngày làm việc sau khi hết hạn tạm giữ, lần hai trong 07 ngày làm việc), hết 01 tháng kể từ lần thông báo thứ hai không đến nhận mà không có lý do chính đáng thì ra quyết định tịch thu; không xác định được chủ thì thông báo trên phương tiện thông tin đại chúng và chờ 01 năm; khoản 7 Điều 126 về chi phí lưu kho, bến bãi; giấy tờ nên mang khi đến nhận; không nêu số tiền phạt, mức phí. Người đọc là người ở Hà Nội có xe máy đang bị tạm giữ; khác BLG-06122 (thời hạn tạm giữ, nhận lại sau khi nộp phạt) và BLG-06145 (lỗi bị tịch thu xe) ở chỗ nói hậu quả khi bỏ không đến nhận xe.",
+   "kw": "xe máy bị tạm giữ không đến nhận",
+   "kw2": [
+    "xe bị giữ lâu có bị tịch thu không",
+    "thông báo nhận lại phương tiện tạm giữ",
+    "Điều 126 Luật Xử lý vi phạm hành chính",
+    "quá hạn nhận xe bị tạm giữ"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Người ở Hà Nội có xe máy đang bị tạm giữ theo thủ tục hành chính",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-007",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Đặt tiền bảo lãnh để tự giữ xe máy bị tạm giữ thay vì để ở bãi: khi nào được và trường hợp nào không áp dụng",
+   "intent": "Người dùng hỏi: «Xe máy là phương tiện đi làm duy nhất, bị tạm giữ thì có được đặt tiền bảo lãnh để mang xe về nhà giữ không?». Bài giải thích khoản 10 Điều 125 Luật Xử lý vi phạm hành chính (chỉ với phương tiện bị tạm giữ để bảo đảm thi hành quyết định xử phạt; người vi phạm có địa chỉ rõ ràng, có điều kiện bến bãi, bảo quản hoặc khả năng đặt tiền bảo lãnh thì có thể được giữ phương tiện dưới sự quản lý của cơ quan nhà nước có thẩm quyền), khoản 6 Điều 125 (khi chỉ phạt tiền thì tạm giữ giấy tờ theo thứ tự trước khi giữ xe), khoản 11 Điều 125 (Chính phủ quy định chi tiết) và các trường hợp không áp dụng như tạm giữ để ngăn chặn hành vi vi phạm; cách đề nghị bằng văn bản; không nêu số tiền bảo lãnh hay số tiền phạt. Người đọc là người đi xe máy ở Hà Nội vừa bị lập biên bản tạm giữ xe; khác BLG-06122 (thời hạn tạm giữ, nhận lại xe) và BLG-04596 (giấy tờ nhận lại xe thuê) ở chỗ trả lời khả năng tự giữ xe trong thời gian tạm giữ.",
+   "kw": "bảo lãnh xe máy bị tạm giữ",
+   "kw2": [
+    "đặt tiền bảo lãnh lấy xe về",
+    "tự giữ phương tiện vi phạm",
+    "khoản 10 Điều 125 Luật Xử lý vi phạm hành chính",
+    "tạm giữ xe để bảo đảm thi hành"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Người đi xe máy ở Hà Nội vừa bị lập biên bản tạm giữ phương tiện",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-008",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Đánh lái tránh người lao ra đường rồi va vào xe đang đỗ: tình thế cấp thiết và ai bồi thường theo Bộ luật Dân sự",
+   "intent": "Người dùng hỏi: «Một người bất ngờ lao ra trước đầu xe, tôi bẻ lái tránh và quệt vào xe máy đang đỗ bên đường, vậy tôi có phải đền cho chủ xe đó không?». Bài giải thích khoản 1, 3 Điều 171 Bộ luật Dân sự 2015 (tình thế cấp thiết; gây thiệt hại trong tình thế cấp thiết không phải hành vi xâm phạm quyền sở hữu), Điều 595 (phải bồi thường phần vượt quá yêu cầu của tình thế cấp thiết; người gây ra tình thế cấp thiết phải bồi thường), khoản 2 Điều 584 (thiệt hại hoàn toàn do lỗi bên bị thiệt hại) và khoản 3 Điều 12 Luật 36/2024/QH15 (phải quan sát, giảm tốc nơi có người đi bộ) để chỉ ra khi nào không còn là tình thế cấp thiết như chạy quá nhanh, không quan sát; cách ghi nhận hiện trường, người làm chứng; không nêu số tiền bồi thường. Người đọc là người đi xe máy, xe thuê ở Hà Nội; khác BLG-04845 (nguồn nguy hiểm cao độ) và BLG-04529 (tình thế cấp thiết khi giải trình phạt nguội) ở chỗ xét trách nhiệm dân sự với người thứ ba bị thiệt hại.",
+   "kw": "tình thế cấp thiết khi lái xe máy",
+   "kw2": [
+    "bẻ lái tránh người va vào xe khác",
+    "Điều 595 Bộ luật Dân sự",
+    "người gây ra tình thế cấp thiết bồi thường",
+    "tránh tai nạn gây thiệt hại"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Người đi xe máy, xe thuê ở Hà Nội vừa gây thiệt hại khi tránh nguy hiểm",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-009",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Ngã xe máy vì hố đào thi công, ổ gà không rào chắn ở Hà Nội: đòi đơn vị thi công hay cơ quan quản lý đường bồi thường",
+   "intent": "Người dùng hỏi: «Tối đi qua đoạn đào đường không biển, không đèn cảnh báo, tôi sụp hố ngã gãy tay, hỏng xe, ai phải đền?». Bài giải thích khoản 1 Điều 584 và Điều 605 Bộ luật Dân sự 2015 (chủ sở hữu, người được giao quản lý công trình bồi thường; người thi công có lỗi phải liên đới), Điều 585 (nguyên tắc bồi thường toàn bộ, kịp thời), Điều 590 (thiệt hại do sức khỏe bị xâm phạm), khoản 2 Điều 76 và điểm b khoản 2 Điều 79 Luật 36/2024/QH15 (phải cảnh báo ngay tình huống mất an toàn; cơ quan quản lý đường chịu trách nhiệm nếu không khắc phục yếu tố mất an toàn), cách xác định đơn vị thi công qua biển công trình, giữ ảnh, hóa đơn viện phí, gửi yêu cầu bồi thường và khi nào khởi kiện; không nêu số tiền bồi thường. Người đọc là người đi xe máy ở Hà Nội bị ngã vì hố công trình, ổ gà; khác BLG-03734 (ghi nhận hiện trường, phản ánh cơ quan quản lý) và BLG-05233 (cây đổ trúng người) ở chỗ trả lời ai chịu trách nhiệm bồi thường và căn cứ nào.",
+   "kw": "ngã xe vì hố thi công đòi bồi thường",
+   "kw2": [
+    "hố đào không rào chắn gây tai nạn",
+    "Điều 605 Bộ luật Dân sự",
+    "đơn vị thi công liên đới bồi thường",
+    "ổ gà gây ngã xe ai đền"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Người đi xe máy ở Hà Nội bị ngã, hỏng xe vì hố công trình hoặc ổ gà",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-010",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Va chạm xe máy có người bị thương nhẹ ở Hà Nội: CSGT giải quyết trong bao lâu và buổi mời lên thông báo kết quả",
+   "intent": "Người dùng hỏi: «Sau va chạm xe máy, CSGT giữ giấy tờ và hẹn lên đội làm việc, vậy bao lâu có kết quả, lên đó họ làm gì và nếu hai bên không thỏa thuận được tiền đền thì sao?». Bài giải thích Điều 17 Thông tư 72/2024/TT-BCA (vụ không có dấu hiệu tội phạm: điều tra, xác minh, giải quyết không quá 07 ngày làm việc, kéo dài không quá 01 tháng, tối đa 02 tháng kể từ khi nhận tin báo), khoản 1 Điều 18 (mời các bên đến trụ sở thông báo kết luận nguyên nhân, lỗi, lập Biên bản giải quyết vụ tai nạn; vắng mặt có lý do chính đáng thì hẹn lại), khoản 3 Điều 18 (hướng dẫn tự thỏa thuận bồi thường, không thỏa thuận được thì lập biên bản và hướng dẫn liên hệ Tòa án), khoản 4 Điều 10 (trả ngay phương tiện khi xác định không có lỗi) và khoản 3 Điều 83 Luật 36/2024/QH15; không nêu số tiền phạt, tiền bồi thường. Người đọc là người đi xe máy ở Hà Nội vừa liên quan va chạm có người bị thương nhẹ; khác BLG-06149 (va chạm chỉ hư hỏng nhẹ, thỏa thuận tại chỗ) và BLG-04843 (không có lỗi có bị giữ xe) ở chỗ mô tả thời hạn và buổi làm việc kết thúc vụ việc.",
+   "kw": "thời hạn giải quyết vụ tai nạn giao thông",
+   "kw2": [
+    "biên bản giải quyết vụ tai nạn giao thông",
+    "mời lên làm việc sau va chạm xe máy",
+    "Thông tư 72/2024/TT-BCA",
+    "không thỏa thuận được bồi thường tai nạn"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Người đi xe máy ở Hà Nội liên quan vụ va chạm có người bị thương nhẹ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-011",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Công an xã, phường ở Hà Nội tự dừng xe máy khi không có CSGT đi cùng: được kiểm tra trên đường nào và xử lý những lỗi gì",
+   "intent": "Người dùng hỏi: «Đi qua đường làng ở ngoại thành Hà Nội bị công an xã dừng xe, không thấy CSGT, họ có được kiểm tra và lập biên bản không?». Bài giải thích điểm c khoản 2 Điều 30 Thông tư 73/2024/TT-BCA (sửa đổi bởi khoản 4 Điều 11 Thông tư 13/2025/TT-BCA, hiệu lực 01/3/2025; đối chiếu bản hợp nhất hiện hành trước khi viết): khi không có CSGT đi cùng, Công an cấp xã chỉ kiểm tra, xử lý trên tuyến đường thuộc địa bàn theo kế hoạch được duyệt; danh mục hành vi của người đi xe mô tô, xe gắn máy được xử lý (không đội mũ bảo hiểm, chở quá số người, chở hàng cồng kềnh, dừng đỗ sai, lạng lách, đi một bánh, thiếu gương trái, sử dụng ô, kéo đẩy xe khác, chưa đủ tuổi); vượt thẩm quyền thì lập biên bản chuyển cấp có thẩm quyền; Điều 13 (hiệu lệnh dừng) và điểm b khoản 3 Điều 65 Luật 36/2024/QH15; không nêu số tiền phạt. Người đọc là người đi xe máy ở các xã, phường Hà Nội; khác BLG-05769 (khách quốc tế nhận diện lực lượng) và BLG-05991 (dân phòng ra hiệu) ở chỗ nói phạm vi tuyến đường và danh mục lỗi của Công an cấp xã.",
+   "kw": "công an xã được xử lý lỗi gì",
+   "kw2": [
+    "công an phường dừng xe máy",
+    "Thông tư 73/2024 Điều 30",
+    "công an xã kiểm tra đường làng",
+    "công an cấp xã tuần tra giao thông"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Người đi xe máy ở các xã, phường ngoại thành Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-012",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Rạp đám cưới, đám tang dựng chắn kín ngõ khiến xe máy không qua được: gia chủ cần được phép gì theo Điều 77 Luật 36",
+   "intent": "Người dùng hỏi: «Nhà trong ngõ dựng rạp cưới chắn hết lối, xe máy phải quay ra đi vòng, như vậy có đúng luật không và tôi phản ánh ở đâu?». Bài giải thích khoản 1, 2 Điều 77 Luật 36/2024/QH15 (lòng đường dùng cho giao thông, vỉa hè cho người đi bộ; sử dụng tạm thời phải có phương án, được cơ quan có thẩm quyền cho phép, dùng đúng mục đích, không làm mất an toàn và hoàn trả nguyên trạng), điểm c khoản 3 Điều 77 (Cảnh sát giao thông tạm đình chỉ khi không bảo đảm an toàn), khoản 21 Điều 9 (cấm cản trở người, phương tiện tham gia giao thông), điểm đ khoản 1 Điều 72 (quyền phản ánh), cách nói chuyện với gia chủ, báo tổ dân phố, công an phường; không khẳng định thủ tục xin phép cụ thể của Hà Nội khi chưa đối chiếu văn bản, không nêu số tiền phạt. Người đọc là người đi xe máy sống trong ngõ ở Hà Nội; khác BLG-04274 (khách quốc tế dắt xe qua rạp hay đi vòng) ở chỗ nói điều kiện sử dụng tạm thời lòng đường và quyền phản ánh.",
+   "kw": "dựng rạp chiếm lòng đường ngõ",
+   "kw2": [
+    "rạp đám cưới chắn ngõ",
+    "sử dụng tạm thời lòng đường",
+    "Điều 77 Luật 36/2024",
+    "phản ánh rạp chắn đường"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Người đi xe máy sống trong ngõ, phố nhỏ ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-013",
+   "child_id": "C-QUY-DINH",
+   "title": "CSGT đang đi xe tuần tra ra hiệu dừng xe máy từ phía trước hoặc phía sau: nhận biết hiệu lệnh và tấp vào đâu cho đúng",
+   "intent": "Người dùng hỏi: «Đang chạy thì xe CSGT phía sau bật loa, nháy đèn, hoặc người ngồi trên mô tô tuần tra phía trước giơ gậy sang ngang, đó có phải hiệu lệnh dừng xe với mình không và phải dừng ở đâu?». Bài giải thích Điều 13 Thông tư 73/2024/TT-BCA (tín hiệu gậy chỉ huy, còi, loa, tín hiệu ưu tiên, biển báo, cọc tiêu, rào chắn; điểm a, b khoản 3 khi xe tuần tra đi trước hoặc đi sau; khoản 2 tại điểm kiểm soát cố định), khoản 2, 3 Điều 12 (dừng xe phải an toàn; khu vực thực thi công vụ có cọc tiêu hình chóp nón hoặc dây căng sát lề), điểm b khoản 2 Điều 72 Luật 36/2024/QH15 (nghĩa vụ chấp hành hiệu lệnh dừng), cách giảm tốc, bật xi nhan và tấp sát lề phải an toàn; không nêu số tiền phạt. Người đọc là người đi xe máy ở Hà Nội; khác BLG-04532 (hậu quả khi không dừng xe), BLG-04625 (hiệu lệnh tay ở ngã tư) và BLG-06005 (căn cứ được dừng xe) ở chỗ mô tả cách nhận ra hiệu lệnh dừng từ xe tuần tra cơ động.",
+   "kw": "hiệu lệnh dừng xe của csgt tuần tra",
+   "kw2": [
+    "csgt dùng loa yêu cầu dừng xe",
+    "gậy chỉ huy giao thông dừng xe",
+    "Điều 13 Thông tư 73/2024",
+    "tấp xe vào lề khi bị dừng"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Người đi xe máy, người thuê xe ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-014",
+   "child_id": "C-QUY-DINH",
+   "title": "Ngã tư không có biển ưu tiên ở ngoại thành Hà Nội: nhận ra đường ưu tiên theo thứ tự quốc lộ, đường đô thị, xã, thôn",
+   "intent": "Người dùng hỏi: «Đường liên xã cắt đường thôn, chẳng có biển nào, vậy đường nào là đường ưu tiên để biết mình phải nhường?». Bài giải thích Điều 5 QCVN 41:2024/BGTVT (mục 5.1 thứ tự đường ưu tiên: đường cao tốc, quốc lộ, đường đô thị, đường tỉnh, đường huyện, đường xã, đường thôn, đường chuyên dùng; mục 5.2 khi hai đường cùng thứ tự: theo quy định của cấp có thẩm quyền, cấp kỹ thuật, lưu lượng xe, xe vận tải công cộng, cấp mặt đường; mục 5.3 không được quy định cả hai đường cùng là đường ưu tiên), khoản 1, 2 Điều 22 Luật 36/2024/QH15 (xe từ đường không ưu tiên, đường nhánh nhường; nơi không có báo hiệu vòng xuyến nhường xe đến từ bên phải) và cách nhận ra cấp đường qua biển tên đường, cột km; không nêu số tiền phạt. Người đọc là người đi xe máy về ngoại thành Hà Nội; khác BLG-01696 (đi đúng làn ở nút giao đường ưu tiên) và BLG-04635 (từ ngõ ra đường chính) ở chỗ cách xác định đường nào được ưu tiên khi không có biển.",
+   "kw": "thứ tự đường ưu tiên",
+   "kw2": [
+    "đường nào là đường ưu tiên",
+    "QCVN 41 Điều 5 đường ưu tiên",
+    "ngã tư không biển nhường ai",
+    "đường xã giao đường thôn"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Người đi xe máy về các xã ngoại thành Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-015",
+   "child_id": "C-BIEN-BAO",
+   "title": "Vạch trắng sát mép đường quốc lộ ra khỏi Hà Nội: xe máy có được chạy ra lề gia cố phía ngoài vạch 3.1 không",
+   "intent": "Người dùng hỏi: «Trên quốc lộ có vạch trắng chạy sát mép, phía ngoài còn một dải nhựa rộng, xe máy chạy ra ngoài vạch cho an toàn có sai không?». Bài giải thích vạch 3.1 tại mục G1.3 Phụ lục G QCVN 41:2024/BGTVT (vạch giới hạn mép ngoài phần đường xe chạy hoặc phân cách làn xe cơ giới với làn xe thô sơ; xe được đè lên vạch khi cần thiết và phải nhường xe thô sơ; phần lề gia cố có kết cấu tương đương mặt đường được coi là phần xe chạy; vạch 3.1a liền nét, 3.1b đứt nét), khoản 1 Điều 10 và khoản 1, 3 Điều 13 Luật 36/2024/QH15 (xe chậm đi về bên phải; nơi có làn thô sơ thì xe thô sơ đi làn phải trong cùng) và khi nào phần lề bên ngoài không dùng để chạy xe; không nêu số tiền phạt. Người đọc là người đi xe máy theo quốc lộ ra ngoại thành Hà Nội; khác BLG-05997 (khái niệm lề đường, hè phố) và BLG-04580 (vạch trắng liền giữa các làn) ở chỗ giải thích riêng vạch mép đường và phần lề gia cố.",
+   "kw": "vạch giới hạn mép phần đường xe chạy",
+   "kw2": [
+    "vạch 3.1 QCVN 41",
+    "xe máy chạy trên lề gia cố",
+    "vạch trắng sát mép quốc lộ",
+    "làn xe thô sơ vạch mép đường"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Người đi xe máy theo quốc lộ từ Hà Nội ra các tỉnh lân cận",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-016",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển gộp làn theo phương tiện R.415 vẽ ô tô, xe máy trên từng làn: xe máy được đi làn nào và khi nào được cắt sang để rẽ",
+   "intent": "Người dùng hỏi: «Biển xanh hình chữ nhật treo trên đường vẽ mỗi làn một hình ô tô, xe máy, có làn vẽ cả hai, vậy xe máy đi làn nào và có được cắt sang để rẽ vào ngõ không?». Bài giải thích biển R.415a, R.415b tại Điều 32 và mục D.16 Phụ lục D QCVN 41:2024/BGTVT (biểu thị số làn và loại xe được lưu thông trên từng làn; không áp dụng với xe chuyển làn để ra vào hoặc dừng, đỗ bên đường; chuyển làn căn cứ vạch sơn thực tế; chỉ dùng cho đoạn có 2 đến 4 làn cơ giới mỗi hướng; gần nút giao được chuyển làn theo hành trình), mục 34.2 Điều 34 (không cấm rẽ vào cổng nhà, ngõ trên đoạn có hiệu lực) và khoản 2, 4 Điều 13 Luật 36/2024/QH15; không nêu số tiền phạt. Người đọc là người đi xe máy trên các trục nhiều làn ở Hà Nội; khác BLG-04545 (biển R.412 làn dành riêng cho xe máy), BLG-05956 (biển hướng đi trên từng làn) và BLG-04494 (lỗi sai làn bị camera ghi) ở chỗ đọc riêng biển gộp làn R.415 và ngoại lệ của nó.",
+   "kw": "biển gộp làn theo phương tiện",
+   "kw2": [
+    "biển R.415 QCVN 41",
+    "biển phân làn ô tô xe máy",
+    "làn vẽ cả ô tô và xe máy",
+    "kết thúc làn đường theo phương tiện"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Người đi xe máy trên các trục đường nhiều làn ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-30-R30B-017",
+   "child_id": "C-BIEN-BAO",
+   "title": "Chữ R và dấu X lớn sơn trên mặt đường trước đường ngang không người gác: vạch 7.7 báo gì và xe máy phải làm gì",
+   "intent": "Người dùng hỏi: «Đi đường ngoại thành thấy sơn dấu X to kèm hai chữ R trên mặt đường, phía trước là đường tàu không có barie, nghĩa là gì?». Bài giải thích vạch 7.7 tại mục G2.7 Phụ lục G QCVN 41:2024/BGTVT (vạch báo gần chỗ giao nhau với đường sắt, chỉ dùng nơi không có người gác chắn; bố trí kết hợp vạch cấm vượt và vạch dừng xe cách ray gần nhất 3 m), khoản 2 Điều 24 Luật 36/2024/QH15 (dừng bên phải trước vạch dừng, quan sát hai phía, không có tàu mới đi), điểm đ khoản 6 Điều 14 (không vượt xe nơi giao nhau với đường sắt), khoản 4 Điều 15 và khoản 2 Điều 16 (không quay đầu, không lùi xe tại đường ngang); không nêu số tiền phạt. Người đọc là người đi xe máy ở ngoại thành Hà Nội và trên tuyến ra các tỉnh; khác BLG-04562 (biển tam giác giao nhau với đường sắt) và BLG-00366 (qua ray an toàn) ở chỗ đọc vạch sơn cảnh báo trên mặt đường.",
+   "kw": "vạch báo gần đường sắt",
+   "kw2": [
+    "vạch 7.7 QCVN 41",
+    "chữ R dấu X trên mặt đường",
+    "đường ngang không người gác",
+    "vạch dừng trước đường sắt"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-30-R30B",
+   "audience": "Người đi xe máy ở ngoại thành Hà Nội gặp đường ngang không có người gác",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}
