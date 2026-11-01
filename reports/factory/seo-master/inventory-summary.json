@@ -1,5 +1,5 @@
 {
-  "body_internal_links_resolved_to_post": 13041,
+  "body_internal_links_resolved_to_post": 13285,
   "broken_internal_targets": 0,
   "dup_cannibalization_key_groups": 50,
   "dup_description_groups": 0,
@@ -10,17 +10,17 @@
       "BLOCKED_URL_CONTRACT": 2,
       "DEFERRED_OWNER_PLAN": 121,
       "EXPECTED": 1,
-      "NONE": 6499,
-      "OPEN": 426
+      "NONE": 6548,
+      "OPEN": 449
     },
     "fix_priority": {
       "P2": 61,
-      "P3": 488,
-      "P4": 6500
+      "P3": 511,
+      "P4": 6549
     },
     "needs_action": {
       "CANNIBALIZATION_SUPPORT": 59,
-      "FRESHNESS_REVIEW": 428,
+      "FRESHNESS_REVIEW": 451,
       "NEAR_TITLE_PAIR": 64,
       "NOINDEX_INTENTIONAL": 1,
       "SLUG_D_STRIPPED": 2
@@ -31,21 +31,21 @@
       "HOME": 1,
       "HUB": 56,
       "LEAD_POST": 204,
-      "LISTING": 711,
+      "LISTING": 721,
       "PAGE": 14,
       "PILLAR": 7,
       "SUPPORT_POST": 58,
-      "TOPIC_POST": 5949
+      "TOPIC_POST": 6011
     },
     "staleness_risk": {
-      "HIGH": 428,
-      "LOW": 3170,
-      "MEDIUM": 2659
+      "HIGH": 451,
+      "LOW": 3177,
+      "MEDIUM": 2691
     }
   },
   "generated_by": "scripts/seo/build-inventory.py",
-  "html_pages": 7050,
-  "inventory_rows": 7049,
+  "html_pages": 7122,
+  "inventory_rows": 7121,
   "issues_by_code": {
     "DUP_CANNIBALIZATION_KEY": 109,
     "NOINDEX": 1
@@ -53,20 +53,20 @@
   "pages_by_type": {
     "Home": 1,
     "Hub": 56,
-    "Listing": 711,
+    "Listing": 721,
     "Page": 14,
     "Pillar": 7,
-    "Post": 6257,
+    "Post": 6319,
     "RedirectStub": 3
   },
   "phase_html": true,
   "post_inbound_distribution": {
-    "10+": 2302,
+    "10+": 2343,
     "2-4": 1,
-    "5-9": 3954
+    "5-9": 3975
   },
-  "posts_total": 6257,
-  "posts_with_url": 6257,
+  "posts_total": 6319,
+  "posts_with_url": 6319,
   "posts_zero_inbound_in_rendered_html": 0,
-  "sitemap_urls": 7045
+  "sitemap_urls": 7117
 }

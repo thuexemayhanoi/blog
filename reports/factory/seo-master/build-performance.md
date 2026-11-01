@@ -93,6 +93,50 @@ icon 138 s (lồng trong header/footer).
 - **`related-articles`**: phép lọc `where: "child_id"` quét 6.076 bài cho mỗi trang (bộ nhớ đệm của Jekyll chỉ sống trong một lần render trang).
   Cách dứt điểm cần dữ liệu cụm dựng sẵn (ảnh chụp thứ tự cụm trong `_data`), làm mới có kiểm soát; cần quyết định về việc
   đưa bước này vào luồng publisher hay chạy bảo trì định kỳ. Trạng thái: **DEFERRED** (chạm vùng publisher, cần chủ duyệt).
+  → **Cập nhật 01/11/2026: DONE** bằng `include_cached` theo cụm, không cần dữ liệu dựng sẵn hay đổi publisher — xem mục 6.
 - **header/footer**: chi phí tuyến tính (~21 ms/trang), có thể giảm bằng cách dựng sẵn HTML tĩnh từ `navigation.yml`;
   lợi ích ≈ 15% build, rủi ro đổi giao diện. Trạng thái: **DEFERRED**.
+  → **Cập nhật 01/11/2026: DONE** bằng `include_cached` (HTML giữ nguyên byte, không dựng sẵn HTML) — xem mục 6.
 - **Hàng đợi deploy**: job `deploy` chờ 37 phút ở run #5493 là hành vi của GitHub Pages (một deploy tại một thời điểm), không sửa được ở repo.
+
+## 6. Đợt 6 SEO wave 4 (01/11/2026) — `include_cached`, đầu ra giữ nguyên từng byte
+
+Bối cảnh (FACT, profile `--profile` bản gốc commit 17bf875d, 6.289 bài, 648 s; thời gian lồng nhau):
+`post.html` 269 s (trong đó `related-articles.html` 188 s), `default.html` 265 s (header 106 s, footer 77 s, seo 49 s),
+`icon.html` 103 s / 13.922 lần render. `related-articles` tăng gần O(N²) theo số bài (mỗi trang lọc `where: "child_id"` trên toàn bộ bài).
+
+Đính chính: `quality-gate.yml` dùng `timeout-minutes: 45` từ commit 7810b6d6 (31/10/2026 04:46 UTC), không còn 20 phút như mục 1–5
+và báo cáo đợt 5 (`wave4-2026-10-31.md` mục 11.2) đã ghi. Lợi ích chính của mục này là thời gian push → deploy và dư địa tới 10.000 bài,
+không phải tránh timeout trước mắt.
+
+Thay đổi (chỉ template + `_config.yml`; plugin `jekyll-include-cache` 0.2.1 có trong `PLUGIN_WHITELIST` của github-pages 232 và Gemfile
+`actions/jekyll-build-pages@v1` → image v1.0.13; thiếu plugin thì build dừng với "Unknown tag", không xuất HTML sai):
+1. Mọi `{% include icon.html … %}` → `include_cached` (63 chỗ; icon chỉ phụ thuộc tham số).
+2. Khung trang chung: header (cache theo tham số `current` = URL trang nếu là URL menu, ngược lại `(none)` → 18 khóa), footer, quick-contact,
+   assistant render 1 lần/build; `seo.html` tính `absolute_url`/logo/mô tả một lần mỗi trang, phần JSON-LD dùng chung toàn site
+   (Organization, LocalBusiness, WebSite) tách ra `_includes/seo-site.html` (cache theo `price_range`).
+3. `related-articles.html`: vòng bài của mỗi cụm dựng 1 lần/build trong `_includes/related-ring.html` (khóa `child_id`), thẻ bài ở
+   `_includes/related-card.html`; trang chỉ tìm vị trí của mình và lấy 4 thẻ kế tiếp. Dòng cuối tệp gán `nil` cho biến chứa chuỗi vòng
+   (nếu không, Liquid giữ context từng trang tới hết build → RAM đỉnh 3,36 GB).
+Quy tắc bảo trì: tệp gọi qua `include_cached` KHÔNG được đọc `page.*` hay biến gán theo trang (chú thích ở đầu từng tệp).
+
+Kiểm chứng (FACT):
+- 14 agent (5 thiết kế + 9 phản biện độc lập, workflow wf_dcfd1389-234): site con 716–1.058 bài với ca biên tổng hợp, chế độ `--safe`,
+  build toàn site; mọi lần so đều giống từng byte (chỉ `<updated>` của feed.xml = thời điểm build).
+- Bản cuối trên main a3a675b8 (6.319 bài, build song song với bản gốc cùng máy): 7.122 trang HTML; khác bản gốc đúng 2 tệp có chủ đích
+  (`sitemap.xml` 254 dòng `<lastmod>`, `/lien-he/` 1 dòng) — xem mục 12 báo cáo wave 4.
+- CPU build 793 s → 384 s (−52%); thời gian chạy 822 s → 394 s; RAM đỉnh 1,03 → 1,84 GB (runner GitHub: 7 GB repo private / 16 GB public).
+- Ước tính ở 10.000 bài (harness tổng hợp, phản biện RELATED #2): `related-articles` 495 s → 90 s.
+
+Không làm (phản biện bác vì lợi < 10 s mà thêm 4 tệp): tách breadcrumb (`article-breadcrumb`), tách head-assets/site-data-js.
+SEO-103: **DONE** không cần đổi publisher (mục 5 ở trên giữ để tham khảo lịch sử).
+
+Kết quả trên GitHub (FACT, commit 41b4b193, 6.319 bài; so với đợt 5 commit 2ea6120b, 6.289 bài):
+
+| Hạng mục | Trước | Sau |
+|---|---:|---:|
+| Quality gate: bước "Build site (Jekyll…)" | 10 phút 16 giây (run #1736) | 4 phút 05 giây (run #1742) |
+| Quality gate: job `gate` | 14 phút 11 giây | 7 phút 34 giây |
+| Pages: bước "Build with Jekyll" | 10 phút 57 giây (run #5837) | 3 phút 18 giây (run #5854) |
+| Pages: job `build` + `deploy` | 11 phút 34 giây + 29 giây | 3 phút 52 giây + 17 giây |
+| Engine tests | 20 phút 40 giây, SUCCESS | 20 phút 34 giây, SUCCESS |

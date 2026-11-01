@@ -1,6 +1,6 @@
 {
   "schema": "seo-master-checkpoint/1",
-  "updated_at": "2026-11-01T12:40:00+07:00",
+  "updated_at": "2026-11-01T19:30:00+07:00",
   "origin_main_at_session_start": "4f61156e5331be4559b947a56e59b2bcd8b9f355",
   "engine_commit": "ba59ea2796f839fba7859ae5cd5e6863acb19819",
   "head_note": "Commit báo cáo/checkpoint đi sau engine_commit; dùng `git log --oneline -- reports/factory/seo-master` để thấy các commit báo cáo. Đối chiếu HEAD thật bằng `git rev-parse HEAD` trước khi tiếp tục.",
@@ -38,8 +38,8 @@
       "rows_with_role_and_priority": 6843,
       "see": "inventory-summary.json -> enrichment"
     },
-    "wave4_urls_inventoried": 7049,
-    "wave4_completion": "PARTIAL — đợt 1 + đợt 5 của wave 4 đã deploy; còn SEO-208 (PARTIAL) và SEO-210/211/213 (chờ chủ); chưa có Search Console/GA4 của blog",
+    "wave4_urls_inventoried": 7121,
+    "wave4_completion": "PARTIAL — đợt 1, 5, 6 đã deploy; còn SEO-210/211/213 (chờ chủ), SEO-215 (theo dõi); chưa có Search Console/GA4 của blog",
     "wave4_cannibalization_groups": 50
   },
   "items": [
@@ -96,12 +96,6 @@
       "status": "PARTIAL",
       "why": "107 bài/49 nhóm trùng khóa: khối \"Cùng chủ đề\" hai chiều (#50) + chủ lực đã rà theo intent (#63: 30 SAME_INTENT_MONITOR, 19 DISTINCT_ANGLE_KEEP, 16 chủ lực đổi); chưa gộp/redirect",
       "next": "Gộp nội dung + 301 chỉ khi có hạ tầng 301, dữ liệu Search Console của blog và chủ duyệt URL chủ lực; nhóm mới phát sinh: thêm mục vào scripts/seo/cannibalization-leads.json"
-    },
-    {
-      "id": "SEO-103",
-      "status": "DEFERRED",
-      "why": "related-articles quét where ~30% build còn lại",
-      "next": "Thiết kế ảnh chụp thứ tự cụm trong _data, làm mới có kiểm soát (chạm vùng publisher)"
     },
     {
       "id": "SEO-104",
@@ -236,7 +230,7 @@
     {
       "id": "SEO-204",
       "status": "DONE",
-      "what": "Ảnh/OG: ảnh xe thật 11 trang, max-image-preview:large, twitter summary, gỡ GPS EXIF lossless, WebP responsive trang chủ, logo 96px",
+      "what": "Ảnh/OG: max-image-preview:large, twitter summary, gỡ GPS EXIF lossless, WebP responsive trang chủ, logo 96px. og:image ảnh xe thật cho 11 trang: CHƯA bật — chờ chủ xác nhận quyền dùng ảnh (IMG-03, SEO-210); template đã hỗ trợ page.image",
       "audit": "IMG-01, IMG-03, IMG-04, IMG-06, IMG-07, PERF-01, PERF-04"
     },
     {
@@ -258,25 +252,6 @@
       "audit": "KW-04, LCRO-03, LCRO-04"
     },
     {
-      "id": "SEO-210",
-      "status": "BLOCKED_OWNER_INPUT",
-      "why": "Cần chủ: GA4 ID + Search Console blog (LCRO-02/SEO-109); công khai quy trình nội dung AI (LCRO-01, bản nháp trong báo cáo); quy tắc không bịa trải nghiệm ngôi thứ nhất (LCRO-06); sửa bio about.me (LCRO-07); danh mục GBP; ảnh thật (IMG-05); xác nhận chính sách chưa có trong business-facts (LCRO-12)",
-      "next": "Xem mục 8 của wave4-2026-10-31.md"
-    },
-    {
-      "id": "SEO-211",
-      "status": "BLOCKED_OWNER_APPROVAL",
-      "why": "Engine factory: gate parent_id/child_id khớp taxonomy+matrix; generator danh sách dùng giá trị matrix (10 bài chưa vào hub); cảnh báo title > 70 ký tự; chặn chủ đề chỉ đổi tên xe/dịp",
-      "audit": "IL-03, KW-07, HM-02, KW-08"
-    },
-    {
-      "id": "SEO-208",
-      "status": "PARTIAL",
-      "audit": "CRAWL-01",
-      "why": "Sitemap <lastmod> 254 bài đã sửa vẫn là ngày đăng (dateModified + dòng 'Cập nhật' đã đúng). Đợt 5 thử khối defaults _config.yml: build Jekyll 3.10 chậm > 2 lần -> đã hoàn nguyên.",
-      "next": "Phương án còn lại cần chủ duyệt: (a) sitemap.xml tự viết thay mẫu jekyll-sitemap, đọc _data/post-modified.json (đổi engine sitemap, PR riêng, so byte sitemap); (b) revise-published ghi last_modified_at vào front matter 254 bài (đổi byte bài PUBLISHED). Hiện dateModified + dòng 'Cập nhật' đã đúng."
-    },
-    {
       "id": "SEO-209",
       "status": "DONE",
       "what": "Đợt 5: 9 phản biện. Làm: KW-06 (bảng giá 3 hub thuê), KW-08 (sổ cannibalization nhóm Wave), POSTHOC-5 (trợ lý 50cc, dòng giá 50cc /gioi-thieu/). Bác: KW-02, KW-05, KW-09, PERF-02, PERF-03B, LCRO-09 (lý do trong wave4-changes.json -> batch5.verdicts).",
@@ -294,6 +269,39 @@
       "status": "BLOCKED_OWNER_INPUT",
       "why": "Phát sinh từ phản biện đợt 5, cần chủ quyết: (1) tiêu đề/meta BLG-03561 (tiền đề 'chỉ niêm yết giá ngày' đã cũ; đang có lớp giá hiện hành); (2) _data/pricing.yml mô tả Honda Wave 'Xe côn truyền thống' (hiện trên 48 trang + 3 hub thuê) — Wave là xe số không côn tay, cần chủ xác nhận câu chữ; (3) /gioi-thieu/ 'Giá theo tháng là mức ưu đãi nhất' — từ 'ưu đãi' thuộc danh sách tránh, đề xuất 'giá tính theo ngày thấp nhất'; (4) BlogPosting author: giữ Person 'Nguyễn Tú' hay chuyển Organization; (5) khi có Search Console: kiểm BLG-00909/BLG-01517 có ăn từ khóa 'thuê xe máy phố cổ hà nội' thay BLG-00427 không (KW-09); (6) nếu muốn bài chủ lực ở pillar (KW-05) hoặc gộp CSS (PERF-02): làm theo điều kiện phản biện ghi trong batch5.verdicts.",
       "next": "Xem mục 11 của wave4-2026-10-31.md"
+    },
+    {
+      "id": "SEO-208",
+      "status": "DONE",
+      "audit": "CRAWL-01",
+      "commit": "41b4b193",
+      "what": "sitemap <lastmod> 254 bài đã sửa = ngày sửa thật (sitemap.xml nguồn, H7c, runbook revise). Live xác minh 254/254."
+    },
+    {
+      "id": "SEO-103",
+      "status": "DONE",
+      "why": "related-articles quét where ~30% build còn lại",
+      "next": "Thiết kế ảnh chụp thứ tự cụm trong _data, làm mới có kiểm soát (chạm vùng publisher)",
+      "commit": "41b4b193",
+      "what": "related-articles + khung trang chung qua include_cached (không đổi publisher); gate build 10m16s -> 4m05s, Pages build 10m57s -> 3m18s; HTML giữ nguyên byte"
+    },
+    {
+      "id": "SEO-210",
+      "status": "BLOCKED_OWNER_INPUT",
+      "why": "Cần chủ: GA4 ID + Search Console blog (LCRO-02/SEO-109); công khai quy trình nội dung AI (LCRO-01, bản nháp trong báo cáo); quy tắc không bịa trải nghiệm ngôi thứ nhất (LCRO-06); sửa bio about.me (LCRO-07); danh mục GBP; ảnh thật (IMG-05); xác nhận chính sách chưa có trong business-facts (LCRO-12) | Đợt 6: LCRO-10a nút WhatsApp trong CTA HOÃN tới khi có GA4 (đo baseline trước); BLG-06277 câu ngôi thứ nhất 'tôi đọc' (dòng 55) vào danh sách LCRO-06; cần chủ quyết có cho phép cách viết biên tập 'chúng tôi kiểm/không xác minh được' (BLG-06268, 06271, 06272).",
+      "next": "Xem mục 8 của wave4-2026-10-31.md"
+    },
+    {
+      "id": "SEO-211",
+      "status": "BLOCKED_OWNER_APPROVAL",
+      "why": "Engine factory: gate parent_id/child_id khớp taxonomy+matrix; generator danh sách dùng giá trị matrix (10 bài chưa vào hub); cảnh báo title > 70 ký tự; chặn chủ đề chỉ đổi tên xe/dịp | Đợt 6 (32 bài mới BLG-06251, 06252, 06261..06290): 32/32 tiêu đề > 70 ký tự (trung vị 111), 16/32 slug cắt giữa từ; 122 hàng PLANNED trung vị 112 ký tự; lựa chọn (c) của HM-02 không còn vì R30A/B/C đã thành B155 PLANNED (dbd56ae4). Không có công cụ được phép đổi tiêu đề/bỏ hàng PLANNED (cần công cụ factory mới, chủ duyệt). KW-08: 06406/03948 và 06337/03623 nhiều khả năng trùng ý định (06337 hết thời sự sau 29/11/2026); 06400/03734, 06370/04615 là góc khác — cần brief writer.",
+      "audit": "IL-03, KW-07, HM-02, KW-08"
+    },
+    {
+      "id": "SEO-215",
+      "status": "MONITOR",
+      "what": "Theo dõi độ mới bài gắn sự kiện: BLG-06271 (cấm xe đêm Lâm Du tới 25/02/2027 hoặc thông báo mới của Sở Xây dựng); BLG-06272 (tiêu đề giả định cầu Long Biên đóng, thân bài nói cầu vẫn mở 31/10/2026 — kiểm khi có thông báo đóng cầu); BLG-06266 (mùa đông 2026–27, kiểm 01/2027); BLG-06267 (hướng dẫn sắp xếp xã của Bộ Nội vụ 9/2026). enrich-inventory chỉ gắn FRESHNESS_REVIEW cho 06266, 06267.",
+      "next": "Sửa chỉ qua _data/legal-notices.json hoặc revise-published.py (chủ duyệt)."
     }
   ],
   "resume": [
@@ -801,7 +809,7 @@
       "engine_tests_job": "success",
       "quality_gate_conclusion": "success (cả 2 job)"
     },
-    "note": "Đợt 1 + đợt 5 wave 4 đã live và xác minh; còn SEO-208 (PARTIAL), SEO-210/211/213 (chờ chủ)",
+    "note": "Đợt 1, 5, 6 wave 4 đã live và xác minh; còn SEO-210/211/213 (chờ chủ), SEO-215 (theo dõi)",
     "batch5": {
       "date": "2026-11-01",
       "commit": "2ea6120b",
@@ -821,6 +829,16 @@
         "PERF-03B": "REJECT",
         "LCRO-09": "REJECT"
       }
+    },
+    "batch6": {
+      "date": "2026-11-01",
+      "commit": "41b4b193",
+      "deploy": {
+        "quality_gate": "run #1742 SUCCESS cả 2 job — job gate 7m34s (bước build Jekyll 4m05s; đợt 5: 14m11s / 10m16s); engine tests 20m34s",
+        "pages": "run #5854 SUCCESS — bước Build with Jekyll 3m18s (đợt 5: 10m57s), deploy 17s"
+      },
+      "live": "live 01/11 (TinyFish/Firecrawl ttl=0): sitemap.xml HTTP 200, 1.286.546 byte = bản build, 7.117 URL, 254/254 bài đã sửa có <lastmod> mới (vd BLG-01903 10/10 -> 23/10), 0/7.117 lệch bản build; /lien-he/ chữ link Maps mới; aria-current đúng ở /thue-xe/, /lien-he/; khối 'Bài viết liên quan' BLG-01591 (nhánh dự phòng) và BLG-01903 khớp bản build",
+      "ci": "46/46 PASS (bản cuối trên a3a675b8; test_multiwriter_sim 1.424,6 s)"
     }
   }
 }

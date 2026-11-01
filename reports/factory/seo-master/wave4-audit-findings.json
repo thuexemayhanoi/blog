@@ -1039,8 +1039,8 @@
       "https://developers.google.com/search/docs/specialty/ecommerce/help-google-understand-your-ecommerce-site-structure"
      ],
      "verdict": "Không qua phản biện (P3 — workflow chỉ phản biện P0–P2)",
-     "status": "OPEN",
-     "next": "Đợt 5 (sau khi đợt 4 live và có kết quả phản biện)"
+     "status": "SKIPPED_BY_REVIEW",
+     "next": "Đợt 6: (a) đã có qua IL-05 (Chủ đề liên quan nối 3 hub du lịch khu vực); (b) đoạn intro xe-dien có link bài vi phạm validate-hub-intros."
     },
     {
      "id": "IL-07",
@@ -1362,8 +1362,8 @@
       "https://jekyllrb.com/docs/includes/#including-files-relative-to-another-file"
      ],
      "verdict": "Không qua phản biện (P3 — workflow chỉ phản biện P0–P2)",
-     "status": "OPEN",
-     "next": "Đợt 5 (sau khi đợt 4 live và có kết quả phản biện)"
+     "status": "REJECTED_BY_REVIEW",
+     "next": "Phản biện đợt 5: trên HTTP/2 (GitHub Pages) A/B FCP ≈ 0 ms; lợi 300 ms chỉ có trên HTTP/1.1 lab."
     },
     {
      "id": "PERF-03",
@@ -1395,7 +1395,7 @@
      ],
      "verdict": "Không qua phản biện (P3 — workflow chỉ phản biện P0–P2)",
      "status": "PARTIAL",
-     "next": "Bước A xong (JSON giá chỉ ở 2 trang). Bước B (dữ liệu business/assistant ra tệp defer) — đợt sau."
+     "next": "Bước A xong (JSON giá chỉ ở 2 trang). Bước B bị phản biện đợt 5 bác (lượt xem đầu nặng hơn + 1 request; cache Pages 10 phút)."
     },
     {
      "id": "PERF-04",
@@ -1999,8 +1999,8 @@
       "https://github.com/jekyll/jekyll-sitemap"
      ],
      "verdict": "CHƯA PHẢN BIỆN — agent phản biện lỗi do giới hạn sử dụng 5 giờ của tài khoản (31/10/2026 ~19:10 UTC)",
-     "status": "PARTIAL",
-     "next": "dateModified + dòng \"Cập nhật\" xong (254 bài). Sitemap <lastmod> cần last_modified_at front matter hoặc _config defaults — đợt sau."
+     "status": "DONE",
+     "next": "Đợt 6 (41b4b193, W4-21): sitemap.xml nguồn, <lastmod> = ngày sửa thật cho 254 bài; H7c; live 254/254."
     },
     {
      "id": "CRAWL-02",
@@ -2341,8 +2341,8 @@
       "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
      ],
      "verdict": "CHƯA PHẢN BIỆN — agent phản biện lỗi do giới hạn sử dụng 5 giờ của tài khoản (31/10/2026 ~19:10 UTC)",
-     "status": "OPEN",
-     "next": "Đợt 5 (sau khi đợt 4 live và có kết quả phản biện)"
+     "status": "REJECTED_BY_REVIEW",
+     "next": "Phản biện đợt 5: nhóm khác khóa matrix làm đỏ test_cannibalization_leads; khớp K06 đẩy bài Long Biên cạnh tranh website chính; tái sinh seo-leads gây xáo trộn hub. Điều kiện làm lại: batch5.verdicts trong wave4-changes.json."
     },
     {
      "id": "KW-03",
@@ -2437,8 +2437,8 @@
       "https://developers.google.com/search/docs/fundamentals/seo-starter-guide"
      ],
      "verdict": "CHƯA PHẢN BIỆN — agent phản biện lỗi do giới hạn sử dụng 5 giờ của tài khoản (31/10/2026 ~19:10 UTC)",
-     "status": "OPEN",
-     "next": "Đợt 5 (sau khi đợt 4 live và có kết quả phản biện)"
+     "status": "REJECTED_BY_REVIEW",
+     "next": "Phản biện đợt 5: markup đề xuất tràn ngang mobile; 47 bài đích đã cách trang chủ 2 click."
     },
     {
      "id": "KW-06",
@@ -2472,8 +2472,8 @@
       "https://developers.google.com/search/docs/appearance/publication-dates"
      ],
      "verdict": "CHƯA PHẢN BIỆN — agent phản biện lỗi do giới hạn sử dụng 5 giờ của tài khoản (31/10/2026 ~19:10 UTC)",
-     "status": "OPEN",
-     "next": "Đợt 5 (sau khi đợt 4 live và có kết quả phản biện)"
+     "status": "DONE",
+     "next": "Đợt 5 (2ea6120b, W4-16): bảng giá xe số + xe ga trên /thue-xe/thue-ngay|thue-tuan|thue-thang/ từ _data/pricing.yml."
     },
     {
      "id": "KW-07",
@@ -2538,8 +2538,8 @@
       "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
      ],
      "verdict": "CHƯA PHẢN BIỆN — agent phản biện lỗi do giới hạn sử dụng 5 giờ của tài khoản (31/10/2026 ~19:10 UTC)",
-     "status": "OPEN",
-     "next": "Đợt 5 (sau khi đợt 4 live và có kết quả phản biện)"
+     "status": "DONE",
+     "next": "Đợt 5 (2ea6120b, W4-17): nhóm \"gia thue honda wave theo tuan\" vào sổ (SAME_INTENT_MONITOR, lead BLG-06184); báo cáo 50 nhóm, 0 chưa rà."
     },
     {
      "id": "KW-09",
@@ -2569,8 +2569,8 @@
       "https://developers.google.com/search/docs/crawling-indexing/links-crawlable"
      ],
      "verdict": "CHƯA PHẢN BIỆN — agent phản biện lỗi do giới hạn sử dụng 5 giờ của tài khoản (31/10/2026 ~19:10 UTC)",
-     "status": "OPEN",
-     "next": "Đợt 5 (sau khi đợt 4 live và có kết quả phản biện)"
+     "status": "REJECTED_BY_REVIEW",
+     "next": "Phản biện đợt 5: BLG-00427 không có cannibalization_key (nhóm mới đỏ CI); giữ lead C-PHO-CO; chờ Search Console (SEO-213 mục 5)."
     },
     {
      "id": "KW-10",
@@ -2959,8 +2959,8 @@
       "https://support.google.com/business/answer/3038177"
      ],
      "verdict": "Không qua phản biện (P3 — workflow chỉ phản biện P0–P2)",
-     "status": "OPEN",
-     "next": "Đợt 5 (sau khi đợt 4 live và có kết quả phản biện)"
+     "status": "REJECTED_BY_REVIEW",
+     "next": "Phản biện đợt 5: JSON-LD giờ đã lấy từ business.yml; chữ mặc định đề xuất gây tràn ngang 320 px khi không có JS."
     },
     {
      "id": "LCRO-10",
@@ -2991,8 +2991,8 @@
       "https://support.google.com/business/answer/7091"
      ],
      "verdict": "Không qua phản biện (P3 — workflow chỉ phản biện P0–P2)",
-     "status": "OPEN",
-     "next": "Đợt 5 (sau khi đợt 4 live và có kết quả phản biện)"
+     "status": "PARTIAL",
+     "next": "Đợt 6: (b) chữ link Maps /lien-he/ DONE (W4-22); (a) nút WhatsApp trong CTA HOÃN tới khi có GA4 (LCRO-02)."
     },
     {
      "id": "LCRO-11",
@@ -3411,5 +3411,16 @@
    "status": "NEEDS_OWNER"
   }
  ],
- "verification_note": "35 agent: 8 audit + 27 phản biện; 13 verdict (1 REJECT: SD-03; 12 IMPLEMENT_WITH_CHANGES); 14 phản biện lỗi do giới hạn quota."
+ "verification_note": "35 agent: 8 audit + 27 phản biện; 13 verdict (1 REJECT: SD-03; 12 IMPLEMENT_WITH_CHANGES); 14 phản biện lỗi do giới hạn quota.",
+ "status_sync": [
+  {
+   "date": "2026-11-01",
+   "what": "Đồng bộ trạng thái sau đợt 5 (commit 2ea6120b): KW-06/KW-08 DONE; KW-02/05/09, PERF-02, LCRO-09 REJECTED_BY_REVIEW; PERF-03 bước B bị bác; CRAWL-01 PARTIAL.",
+   "new_finding": "A11Y-06 (tương phản nhãn \"Đang mở\") phát hiện và sửa trong đợt 5 — W4-19."
+  },
+  {
+   "date": "2026-11-01",
+   "what": "Đồng bộ trạng thái sau đợt 6 (commit 41b4b193): CRAWL-01 DONE; IL-06 SKIPPED_BY_REVIEW; LCRO-10 PARTIAL. SEO-103 (build) DONE — xem build-performance.md mục 6."
+  }
+ ]
 }

@@ -176,6 +176,46 @@
    "status": "DONE",
    "audit": "A11Y-06 (mới, đợt 5)",
    "commit": "2ea6120b"
+  },
+  {
+   "id": "W4-20",
+   "date": "2026-11-01",
+   "area": "build-performance",
+   "files": "_config.yml (jekyll-include-cache); _includes/{header,footer,quick-contact,assistant,seo,seo-site,related-articles,related-ring,related-card}.html; _layouts/default.html; 63 lời gọi icon (include_cached); docs/INTERNAL-LINKING.md",
+   "what": "include_cached cho icon, khung trang chung (header theo URL menu hiện tại), JSON-LD dùng chung, vòng 'Bài viết liên quan' theo cụm; giải phóng biến chuỗi vòng (RAM đỉnh 3,36 -> 1,84 GB). HTML giữ nguyên từng byte. CPU build cục bộ 793 -> 384 s; GitHub: gate build 10m16s -> 4m05s, Pages build 10m57s -> 3m18s.",
+   "status": "DONE",
+   "audit": "SEO-103, PERF (đợt 6: E1 + CHROME T1/T2 + RELATED)",
+   "commit": "41b4b193"
+  },
+  {
+   "id": "W4-21",
+   "date": "2026-11-01",
+   "area": "sitemap",
+   "files": "sitemap.xml (mới); scripts/seo/check-regressions.py (H7c); scripts/seo/build-post-modified.py; docs/REVISE-PUBLISHED.md; docs/SEO-MASTER.md; docs/SEO-TECHNICAL.md",
+   "what": "sitemap.xml nguồn = template jekyll-sitemap 1.4.0; <lastmod> bài trong _data/post-modified.json = ngày sửa nội dung thật (= dateModified = 'Cập nhật'). 254 dòng đổi, mọi URL/thứ tự giữ nguyên; H7c kiểm lastmod == dateModified; runbook revise thêm bước build-post-modified.py.",
+   "status": "DONE",
+   "audit": "CRAWL-01 / SEO-208",
+   "commit": "41b4b193"
+  },
+  {
+   "id": "W4-22",
+   "date": "2026-11-01",
+   "area": "local/CRO",
+   "files": "lien-he.md",
+   "what": "Chữ link Maps trên /lien-he/: 'Xem trên Google Maps: chỉ đường và đánh giá' (sửa link có sẵn; không số sao, không Review markup). LCRO-10a (nút WhatsApp trong CTA) HOÃN tới khi có GA4.",
+   "status": "DONE",
+   "audit": "LCRO-10b",
+   "commit": "41b4b193"
+  },
+  {
+   "id": "W4-23",
+   "date": "2026-11-01",
+   "area": "records",
+   "files": "reports/factory/seo-master/{url-inventory.csv,inventory-summary.json,keyword-intent-map.csv,pillar-topic-mapping.csv,internal-link-*.csv,wave4-audit-findings.json,checkpoint.json,build-performance.md}; docs/SEO-MASTER.md",
+   "what": "Kiểm kê SEO làm mới trên build bản cuối (7.121 URL, 6.319 bài, 0 lỗi P0); đồng bộ trạng thái audit sau đợt 5; sửa SEO-204 + SEO-MASTER (og:image ảnh xe CHƯA bật); đính chính timeout gate 45 phút (không phải 20).",
+   "status": "DONE",
+   "audit": "NP-04, đồng bộ trạng thái, đính chính",
+   "commit": "41b4b193"
   }
  ],
  "qa_checks": [
@@ -340,6 +380,36 @@
    "scope": "3 hub + /gioi-thieu/ ở 320/360/1280 px",
    "result": "PASS",
    "evidence": "scrollWidth = clientWidth"
+  },
+  {
+   "check": "Đợt 6 — so byte bản cuối vs bản gốc cùng commit",
+   "scope": "7.122 HTML + sitemap/feed (a3a675b8)",
+   "result": "PASS",
+   "evidence": "khác đúng sitemap.xml (254 lastmod) + /lien-he/ (1 dòng)"
+  },
+  {
+   "check": "Đợt 6 — check-regressions (thêm H7c)",
+   "scope": "10 bất biến",
+   "result": "PASS 10/10",
+   "evidence": "H7c 0 lệch (bản gốc 254)"
+  },
+  {
+   "check": "Đợt 6 — gate checks + validate + CI",
+   "scope": "site-final",
+   "result": "PASS",
+   "evidence": "0 link hỏng; faq 0 lỗi; slug/URL OK; validate PASS; run-tests ci 46/46; node 4/4"
+  },
+  {
+   "check": "Đợt 6 — hiệu năng GitHub",
+   "scope": "Quality gate #1742, Pages #5854",
+   "result": "PASS",
+   "evidence": "gate build 4m05s (trước 10m16s); Pages build 3m18s (trước 10m57s)"
+  },
+  {
+   "check": "Đợt 6 — live",
+   "scope": "sitemap.xml, /lien-he/, /thue-xe/, 2 bài",
+   "result": "PASS",
+   "evidence": "254/254 lastmod mới; 0/7.117 lệch bản build"
   }
  ],
  "qa_scores": [
@@ -377,11 +447,11 @@
  "checkpoint": {
   "website": "https://blog.thuexemaynguyentu.com (repo thuexemayhanoi/blog, Jekyll/GitHub Pages)",
   "ngay": "2026-11-01",
-  "giai_doan": "Wave 4 — đợt 1 + đợt 5 đã triển khai",
-  "engine_commit": "2ea6120b",
+  "giai_doan": "Wave 4 — đợt 1, 5, 6 đã triển khai",
+  "engine_commit": "41b4b193",
   "con_lai": "SEO-208..211 trong checkpoint.json; mục 8 của wave4-2026-10-31.md",
   "tep": "reports/factory/seo-master/ (wave4-*, Master-SEO-Matrix.xlsx, checkpoint.json, fix-log.csv)",
-  "buoc_tiep": "Chờ chủ cho mục NEEDS_OWNER (SEO-210/211/213); CRAWL-01 cần chủ chọn phương án (SEO-208)"
+  "buoc_tiep": "Chờ chủ: SEO-210/211/213 (+ bằng chứng mới đợt 6); theo dõi SEO-215; LCRO-10a sau GA4"
  },
  "batch5": {
   "date": "2026-11-01",
@@ -436,9 +506,9 @@
   ],
   "crawl01": {
    "id": "CRAWL-01",
-   "status": "TRIED_REVERTED",
+   "status": "TRIED_REVERTED -> DONE đợt 6 bằng sitemap.xml nguồn (W4-21)",
    "what": "Khối defaults 254 scope (last_modified_at theo đường dẫn _posts) trong _config.yml, sinh bởi build-post-modified.py",
-   "evidence": "Build cục bộ > 21 phút và chưa xong (bản gốc 650 s). Jekyll 3.10 FrontmatterDefaults không cache: mỗi truy cập khóa thiếu (vd post.child_id trong vòng lặp 6.279 bài ở mỗi hub) quét cả 254 scope bằng Pathname -> Quality gate (timeout 20 phút, đang 14m39s) sẽ hỏng.",
+   "evidence": "Build cục bộ > 21 phút và chưa xong (bản gốc 650 s). Jekyll 3.10 FrontmatterDefaults không cache: mỗi truy cập khóa thiếu (vd post.child_id trong vòng lặp 6.279 bài ở mỗi hub) quét cả 254 scope bằng Pathname -> build chậm > 2 lần (đính chính đợt 6: timeout Quality gate là 45 phút, không phải 20).",
    "next": "Phương án còn lại cần chủ duyệt: (a) sitemap.xml tự viết thay mẫu jekyll-sitemap, đọc _data/post-modified.json (đổi engine sitemap, PR riêng, so byte sitemap); (b) revise-published ghi last_modified_at vào front matter 254 bài (đổi byte bài PUBLISHED). Hiện dateModified + dòng 'Cập nhật' đã đúng."
   },
   "deploy": {
@@ -446,5 +516,68 @@
    "pages": "run #5837 SUCCESS (04:58→05:10 UTC)"
   },
   "live": "live 01/11 (TinyFish ttl=0): 3 hub thuê có H2 \"Giá thuê xe máy tham khảo\" + bảng xe số/xe ga đúng _data/pricing.yml; /gioi-thieu/ có dòng giá 50cc; assistant.js có khối ưu tiên 50cc; tokens.css --color-success #007f33"
+ },
+ "batch6": {
+  "date": "2026-11-01",
+  "commit": "41b4b193",
+  "method": "Dữ liệu thực tế + profile build -> workflow wf_dcfd1389-234 (5 thiết kế + 9 phản biện độc lập: tương đương byte / giá trị-rủi ro / câu chữ / UX) -> chỉ áp dụng mục được duyệt",
+  "verdicts": [
+   {
+    "id": "E1 (icon include_cached)",
+    "verdict": "IMPLEMENT (đo trực tiếp)",
+    "result": "Toàn site giống từng byte; −117 s"
+   },
+   {
+    "id": "CHROME",
+    "verdict": "IMPLEMENT + IMPLEMENT_WITH_CHANGES",
+    "result": "Làm T1 + T2 (bản rút gọn của phản biện #2); bỏ T2b, T3 (< 10 s, thêm 4 tệp)"
+   },
+   {
+    "id": "RELATED",
+    "verdict": "IMPLEMENT + IMPLEMENT_WITH_CHANGES",
+    "result": "Làm, kèm sửa bộ nhớ (gán nil cuối tệp)"
+   },
+   {
+    "id": "SITEMAP",
+    "verdict": "IMPLEMENT + IMPLEMENT_WITH_CHANGES",
+    "result": "Làm, kèm dòng runbook REVISE-PUBLISHED.md"
+   },
+   {
+    "id": "CONTENT_CRO",
+    "verdict": "IMPLEMENT_WITH_CHANGES ×2 (bất đồng về WhatsApp)",
+    "result": "LCRO-10b làm (sửa link có sẵn); LCRO-10a hoãn tới GA4; IL-06 bỏ"
+   },
+   {
+    "id": "NEWPOSTS",
+    "verdict": "IMPLEMENT_WITH_CHANGES",
+    "result": "NP-04 kiểm kê làm mới; NP-01/02/03 bổ sung bằng chứng vào SEO-210/211; NP-05/06 không cần làm; theo dõi độ mới SEO-215"
+   }
+  ],
+  "measurements": {
+   "local_same_machine_parallel": "bản gốc vs bản cuối (a3a675b8): CPU 793 -> 384 s; wall 822 -> 394 s; RAM đỉnh 1,03 -> 1,84 GB",
+   "github": {
+    "gate_build_step": "10m16s -> 4m05s",
+    "gate_job": "14m11s -> 7m34s",
+    "pages_build_step": "10m57s -> 3m18s"
+   },
+   "related_at_10k_posts_estimate": "495 s -> 90 s (harness tổng hợp, phản biện RELATED #2)"
+  },
+  "corrections": [
+   "Quality gate timeout-minutes = 45 từ 7810b6d6 (31/10 04:46 UTC); báo cáo đợt 5 mục 11.2 + commit 2ea6120b ghi 20 phút là sai",
+   "SEO-204 + docs/SEO-MASTER.md từng ghi og:image ảnh xe 11 trang như đã xong: chưa bật (IMG-03)"
+  ],
+  "deferred": [
+   "LCRO-10a nút WhatsApp trong CTA (sau GA4/LCRO-02)"
+  ],
+  "skipped": [
+   "IL-06 (a) đã có qua IL-05, (b) vi phạm validate-hub-intros",
+   "CHROME T2b, T3"
+  ],
+  "deploy": {
+   "quality_gate": "run #1742 SUCCESS cả 2 job — job gate 7m34s (bước build Jekyll 4m05s; đợt 5: 14m11s / 10m16s); engine tests 20m34s",
+   "pages": "run #5854 SUCCESS — bước Build with Jekyll 3m18s (đợt 5: 10m57s), deploy 17s"
+  },
+  "live": "live 01/11 (TinyFish/Firecrawl ttl=0): sitemap.xml HTTP 200, 1.286.546 byte = bản build, 7.117 URL, 254/254 bài đã sửa có <lastmod> mới (vd BLG-01903 10/10 -> 23/10), 0/7.117 lệch bản build; /lien-he/ chữ link Maps mới; aria-current đúng ở /thue-xe/, /lien-he/; khối 'Bài viết liên quan' BLG-01591 (nhánh dự phòng) và BLG-01903 khớp bản build",
+  "ci": "46/46 PASS (bản cuối trên a3a675b8; test_multiwriter_sim 1.424,6 s)"
  }
 }
