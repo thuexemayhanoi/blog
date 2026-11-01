@@ -1,26 +1,26 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-11-01T06:37:49Z",
+  "updated_at": "2026-11-01T06:45:08Z",
   "leases": {
     "W6": {
       "ids": [
-        "BLG-06291",
-        "BLG-06292",
-        "BLG-06293",
-        "BLG-06294",
-        "BLG-06295",
-        "BLG-06296",
-        "BLG-06297",
-        "BLG-06298",
-        "BLG-06299",
-        "BLG-06300"
+        "BLG-06301",
+        "BLG-06302",
+        "BLG-06303",
+        "BLG-06304",
+        "BLG-06305",
+        "BLG-06306",
+        "BLG-06307",
+        "BLG-06308",
+        "BLG-06309",
+        "BLG-06310"
       ],
       "session": "s-claude-opus-w6",
       "epoch": 1,
-      "claimed_at": "2026-11-01T05:48:56Z",
-      "heartbeat_at": "2026-11-01T06:37:49Z",
+      "claimed_at": "2026-11-01T06:45:08Z",
+      "heartbeat_at": "2026-11-01T06:45:08Z",
       "ttl_hours": 48.0,
-      "expires_at": "2026-11-03T06:37:49Z",
+      "expires_at": "2026-11-03T06:45:08Z",
       "label": "claude-opus"
     }
   }
