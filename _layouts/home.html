@@ -59,19 +59,19 @@ description: "{{ site.description }}"
 
     <div class="intro-features">
       <div class="intro-feature">
-        {% include icon.html name="sparkles" size="18" class="feature-icon" %}
+        {% include_cached icon.html name="sparkles" size="18" class="feature-icon" %}
         <span class="feature-text">Nhiều loại xe</span>
       </div>
       <div class="intro-feature">
-        {% include icon.html name="sparkles" size="18" class="feature-icon" %}
+        {% include_cached icon.html name="sparkles" size="18" class="feature-icon" %}
         <span class="feature-text">Giá và điều kiện được xác nhận trước khi đặt</span>
       </div>
       <div class="intro-feature">
-        {% include icon.html name="sparkles" size="18" class="feature-icon" %}
+        {% include_cached icon.html name="sparkles" size="18" class="feature-icon" %}
         <span class="feature-text">Có hỗ trợ giao nhận theo khu vực</span>
       </div>
       <div class="intro-feature">
-        {% include icon.html name="sparkles" size="18" class="feature-icon" %}
+        {% include_cached icon.html name="sparkles" size="18" class="feature-icon" %}
         <span class="feature-text">Giờ hoạt động: {{ business.hours }}</span>
       </div>
     </div>
@@ -157,7 +157,7 @@ description: "{{ site.description }}"
             {% assign vt = business.vehicle_types | where: "name", child.name | first %}
             <a href="{{ child.url | relative_url }}" class="pricing-card glass-card">
               <span class="pricing-card__icon">
-                {% include icon.html name=child.icon size="26" %}
+                {% include_cached icon.html name=child.icon size="26" %}
               </span>
               <span class="pricing-card__body">
                 <span class="pricing-card__title">{{ child.name }}</span>
@@ -167,7 +167,7 @@ description: "{{ site.description }}"
                 <span class="pricing-card__cta">Xem bảng giá</span>
               </span>
               <span class="pricing-card__chevron" aria-hidden="true">
-                {% include icon.html name="chevron-right" size="18" %}
+                {% include_cached icon.html name="chevron-right" size="18" %}
               </span>
             </a>
           {% endfor %}
@@ -215,10 +215,10 @@ description: "{{ site.description }}"
       <div class="about-contact">
         <h3>Thông tin liên hệ</h3>
         <address>
-          <p>{% include icon.html name="map-pin" size="16" %} {{ business.address.full }}</p>
-          <p>{% include icon.html name="phone" size="16" %} <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
-          <p>{% include icon.html name="message" size="16" %} <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
-          <p>{% include icon.html name="info" size="16" %} {{ business.hours }}</p>
+          <p>{% include_cached icon.html name="map-pin" size="16" %} {{ business.address.full }}</p>
+          <p>{% include_cached icon.html name="phone" size="16" %} <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
+          <p>{% include_cached icon.html name="message" size="16" %} <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
+          <p>{% include_cached icon.html name="info" size="16" %} {{ business.hours }}</p>
         </address>
       </div>
     </div>

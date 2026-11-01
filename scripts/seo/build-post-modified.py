@@ -5,7 +5,8 @@ Nguồn sự thật DUY NHẤT: sao lưu của scripts/factory/revise-published.
 created_at = thời điểm apply, UTC; entries = ID bài đã sửa) + front matter article_id/permalink của _posts/.
 Không đoán ngày từ git hay thời điểm build: chỉ bài có sửa nội dung có kiểm soát (giá, pháp lý, cọc) mới có dateModified mới.
 
-_includes/seo.html (BlogPosting.dateModified) và _layouts/post.html (dòng "Cập nhật dd/mm/yyyy") đọc tệp này theo page.article_id.
+_includes/seo.html (BlogPosting.dateModified), _layouts/post.html (dòng "Cập nhật dd/mm/yyyy") và sitemap.xml nguồn (<lastmod>)
+đọc tệp này theo article_id; scripts/seo/check-regressions.py H7c kiểm lastmod sitemap == dateModified trên _site.
 Chạy lại sau mỗi lô revise-published (đầu ra xác định: cùng đầu vào -> cùng byte).
 
 Dùng:

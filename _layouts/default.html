@@ -48,9 +48,23 @@
 </head>
 <body class="vi" id="site-top">
   <a href="#main-content" class="skip-link">Chuyển đến nội dung chính</a>
-  {% include header.html %}
-  {% include quick-contact.html %}
-  {% include assistant.html %}
+  {% comment %}
+    Khung trang chung render bằng include_cached (plugin jekyll-include-cache, có trong whitelist github-pages):
+    mỗi biến thể render 1 lần/build thay vì ~7.000 lần; HTML từng trang giữ nguyên từng byte.
+    - quick-contact / assistant / footer: không phụ thuộc trang (chỉ site.data + hằng số) => 1 bản cache.
+    - header: thứ duy nhất phụ thuộc trang là aria-current của menu (so page.url với URL mục menu). Truyền
+      current = page.url nếu page.url là URL của một mục menu (cấp 1 hoặc mục con — tập này chứa mọi URL mà header
+      đem so), ngược lại giá trị canh '(none)' (không trùng URL menu nào) => mọi phép so trong header cho kết quả
+      y như so với page.url; số bản cache = số URL menu + 1.
+    Khi sửa các include này: không đọc page.* bên trong; dữ liệu theo trang phải truyền qua tham số include.
+  {% endcomment -%}
+  {%- assign hdr_nav_urls = site.data.navigation.main | map: 'url' -%}
+  {%- assign hdr_child_urls = site.data.navigation.main | map: 'children' | map: 'url' -%}
+  {%- assign hdr_current = '(none)' -%}
+  {%- if hdr_nav_urls contains page.url or hdr_child_urls contains page.url -%}{%- assign hdr_current = page.url -%}{%- endif -%}
+  {% include_cached header.html current=hdr_current %}
+  {% include_cached quick-contact.html %}
+  {% include_cached assistant.html %}
   
   <main id="main-content" tabindex="-1">
     {%- comment -%}
@@ -65,7 +79,7 @@
     {{ content }}
   </main>
   
-  {% include footer.html %}
+  {% include_cached footer.html %}
   
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
   {% if page.layout == 'home' or page.url == '/bang-gia/' %}

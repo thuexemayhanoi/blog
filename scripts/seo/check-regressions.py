@@ -11,7 +11,9 @@ Bất biến:
   H4   thanh phân trang <= MAX_PAGINATION_LINKS liên kết (chống phình liên kết)
   H5   mọi hub/pillar (trừ du-lich legacy) có phần giới thiệu >= 60 từ trước khối danh sách (chống hub rỗng)
   H6   hub con có khối "Bài nên đọc trước" khi _data/seo-leads.yml có dữ liệu cho hub đó
-  H7   không bài nào thiếu breadcrumb (trang chuyển hướng meta refresh của di trú slug không tính là bài); sitemap không chứa trang noindex/404
+  H7   không bài nào thiếu breadcrumb (trang chuyển hướng meta refresh của di trú slug không tính là bài); sitemap không chứa trang noindex/404;
+       H7c: <lastmod> của mỗi URL sitemap có BlogPosting.dateModified == đúng chuỗi dateModified (bài sửa nội dung qua revise-published
+       lấy ngày sửa từ _data/post-modified.json ở cả sitemap.xml nguồn lẫn _includes/seo.html)
   H8   <title>/meta/og không có ký tự & trần
 """
 from __future__ import annotations
@@ -38,6 +40,8 @@ ICON = re.compile(r'<link rel="icon"')
 PAG = re.compile(r'<nav class="pagination".*?</nav>', re.S)
 ANCHOR = re.compile(r"<a ")
 BAD_AMP = re.compile(r"&(?!(?:[a-zA-Z]+|#\d+|#x[0-9a-fA-F]+);)")
+DATE_MODIFIED = re.compile(r'"dateModified": "([^"]+)"')
+SITEMAP_URL = re.compile(r"<url>\s*<loc>([^<]+)</loc>\s*(?:<lastmod>([^<]*)</lastmod>\s*)?</url>")
 
 
 def intro_words(page_html: str) -> int:
@@ -82,6 +86,7 @@ def main() -> int:
     pages = [p for p in site.rglob("index.html")]
     pages.append(site / "404.html")
     bad_canon, bad_h1, dup_icon, bad_amp, no_bc, big_pag = [], [], [], [], [], []
+    date_modified: dict[str, str] = {}  # đường dẫn URL (đã giải mã) -> BlogPosting.dateModified của trang đã build
     hub_urls = {"thue-xe", "xe-may", "an-toan-phap-ly", "cung-duong", "ky-nang", "hoi-dap", "du-lich"}
     for p in pages:
         if not p.exists():
@@ -102,6 +107,9 @@ def main() -> int:
             if BAD_AMP.search(m[0] or m[1]):
                 bad_amp.append(rel)
                 break
+        dm = DATE_MODIFIED.search(t)
+        if dm:
+            date_modified["/" + rel[: -len("index.html")]] = dm.group(1)
         pag = PAG.search(t)
         if pag and len(ANCHOR.findall(pag.group(0))) > MAX_PAGINATION_LINKS:
             big_pag.append(rel)
@@ -145,6 +153,12 @@ def main() -> int:
         if p.exists() and re.search(r'<meta name="robots" content="[^"]*noindex', read(p)):
             noidx.append(u)
     check("H7b", not noidx and "/404.html" not in locs, f"sitemap chứa noindex/404: {noidx[:3]}; tổng URL {len(locs)}")
+
+    # H7c: lastmod sitemap == dateModified JSON-LD (cùng bộ lọc date_to_xmlschema, cùng nguồn ngày sửa) — thiếu lastmod cũng là lệch
+    lastmod = {unquote(u.replace(SITE_URL, "")): lm for u, lm in SITEMAP_URL.findall(sm)}
+    in_sm = [u for u in date_modified if u in lastmod]
+    lm_bad = [f"{u} lastmod={lastmod[u] or '-'} dateModified={date_modified[u]}" for u in in_sm if lastmod[u] != date_modified[u]]
+    check("H7c", bool(in_sm) and not lm_bad, f"lastmod != dateModified: {len(lm_bad)} {lm_bad[:3]}; đã so {len(in_sm)} URL")
 
     width = max(len(c) for c, _, _ in results)
     failed = 0

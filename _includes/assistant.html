@@ -1,3 +1,7 @@
+{%- comment -%}
+  Render qua include_cached trong _layouts/default.html: 1 lần/build, dùng chung cho mọi trang.
+  Chỉ được phụ thuộc site.* / site.data / hằng số — KHÔNG đọc page.* hay biến gán theo trang ở đây.
+{%- endcomment -%}
 {% assign assistant = site.data.assistant %}
 {% assign business = site.data.business %}
 {%- comment -%} FIXED: Removed all .vi accessors - uses direct scalar access {%- endcomment -%}
@@ -5,7 +9,7 @@
 <!-- Assistant Toggle Button -->
 <button type="button" class="assistant-toggle" id="assistant-toggle" aria-label="Hỏi nhanh – mở trợ lý hỗ trợ" aria-controls="assistant-panel" aria-expanded="false">
   <span class="assistant-icon">
-    {% include icon.html name="assistant" size="24" %}
+    {% include_cached icon.html name="assistant" size="24" %}
   </span>
   <span class="assistant-toggle__label">Hỏi nhanh</span>
   <span class="assistant-badge" hidden></span>
@@ -16,7 +20,7 @@
   <div class="assistant-header">
     <p id="assistant-title" class="assistant-title">{{ assistant.assistant.name }}</p>
     <button class="assistant-close" aria-label="Đóng" data-assistant-close>
-      {% include icon.html name="close" size="20" %}
+      {% include_cached icon.html name="close" size="20" %}
     </button>
   </div>
   
@@ -50,7 +54,7 @@
         aria-label="Nhập câu hỏi"
       >
       <button class="assistant-send" aria-label="Gửi">
-        {% include icon.html name="sparkles" size="18" %}
+        {% include_cached icon.html name="sparkles" size="18" %}
       </button>
     </div>
   </div>

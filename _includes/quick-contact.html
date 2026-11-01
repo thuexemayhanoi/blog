@@ -1,25 +1,29 @@
+{%- comment -%}
+  Render qua include_cached trong _layouts/default.html: 1 lần/build, dùng chung cho mọi trang.
+  Chỉ được phụ thuộc site.* / site.data / hằng số — KHÔNG đọc page.* hay biến gán theo trang ở đây.
+{%- endcomment -%}
 {% assign business = site.data.business %}
 
 <!-- Mobile Phone Launcher - Lower Left -->
 <div class="phone-launcher" id="phoneLauncher">
   <button class="phone-launcher__toggle" aria-label="Mở menu liên hệ" aria-expanded="false" aria-controls="phoneActions">
-    {% include icon.html name="phone" size="24" class="phone-launcher__icon" %}
+    {% include_cached icon.html name="phone" size="24" class="phone-launcher__icon" %}
   </button>
   <div class="phone-launcher__actions" id="phoneActions" role="menu" hidden>
     <a href="{{ business.contact.phone_uri }}" class="phone-launcher__action" role="menuitem">
-      {% include icon.html name="phone" size="20" %}
+      {% include_cached icon.html name="phone" size="20" %}
       <span>Gọi điện</span>
     </a>
     <a href="{{ business.contact.zalo }}" class="phone-launcher__action" target="_blank" rel="noopener noreferrer" role="menuitem">
-      {% include icon.html name="message" size="20" %}
+      {% include_cached icon.html name="message" size="20" %}
       <span>Zalo</span>
     </a>
     <a href="{{ business.contact.whatsapp }}" class="phone-launcher__action" target="_blank" rel="noopener noreferrer" role="menuitem">
-      {% include icon.html name="whatsapp" size="20" %}
+      {% include_cached icon.html name="whatsapp" size="20" %}
       <span>WhatsApp</span>
     </a>
     <a href="{{ business.contact.maps }}" class="phone-launcher__action" target="_blank" rel="noopener noreferrer" role="menuitem">
-      {% include icon.html name="map-pin" size="20" %}
+      {% include_cached icon.html name="map-pin" size="20" %}
       <span>Bản đồ</span>
     </a>
   </div>

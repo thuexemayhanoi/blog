@@ -19,6 +19,10 @@ future: true
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  # Thẻ include_cached (có trong whitelist github-pages + Gemfile actions/jekyll-build-pages): khung trang chung (header/quick-contact/assistant/footer,
+  # JSON-LD dùng chung _includes/seo-site.html), icon.html và vòng bài liên quan _includes/related-ring.html render 1 lần/build theo tham số;
+  # HTML từng trang giữ nguyên byte — xem chú thích trong _layouts/default.html và _includes/related-articles.html. Tệp được cache KHÔNG đọc page.*.
+  - jekyll-include-cache
 
 # Feed Atom: 50 bài mới nhất (~1 ngày sản xuất) thay vì mặc định 10; <link rel=alternate> qua {% feed_meta %} trong default.html.
 feed:

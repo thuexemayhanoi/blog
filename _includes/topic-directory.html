@@ -65,14 +65,14 @@
     {% endif %}
       <summary class="topic-card__summary">
         <span class="topic-card__icon">
-          {% include icon.html name=g_icon size="22" %}
+          {% include_cached icon.html name=g_icon size="22" %}
         </span>
         <span class="topic-card__heading">
           <span class="topic-card__title">{{ g_title }}</span>
           <span class="topic-card__meta">{{ g_children }} chủ đề · {{ g_posts }} bài đã xuất bản</span>
         </span>
         <span class="topic-card__chevron" aria-hidden="true">
-          {% include icon.html name="chevron-down" size="18" %}
+          {% include_cached icon.html name="chevron-down" size="18" %}
         </span>
       </summary>
       <div class="topic-card__body">
@@ -99,7 +99,7 @@
                   <span class="topic-row__count topic-row__count--empty">Chưa có bài</span>
                 {% endif %}
                 <span class="topic-row__chevron" aria-hidden="true">
-                  {% include icon.html name="chevron-right" size="16" %}
+                  {% include_cached icon.html name="chevron-right" size="16" %}
                 </span>
               </a>
             {% endif %}

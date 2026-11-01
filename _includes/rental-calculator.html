@@ -5,7 +5,7 @@
   <div class="container">
     <div class="calculator-card glass-card">
       <h2>
-        {% include icon.html name="calculator" size="24" %}
+        {% include_cached icon.html name="calculator" size="24" %}
         Tính giá thuê xe
       </h2>
       
@@ -77,11 +77,11 @@
         <!-- CTA Buttons -->
         <div class="calculator-cta">
           <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">
-            {% include icon.html name="phone" size="18" %}
+            {% include_cached icon.html name="phone" size="18" %}
             Gọi ngay
           </a>
           <a href="{{ business.contact.zalo }}" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-            {% include icon.html name="message" size="18" %}
+            {% include_cached icon.html name="message" size="18" %}
             Nhắn Zalo
           </a>
           <a 
@@ -91,7 +91,7 @@
             target="_blank" 
             rel="noopener noreferrer"
           >
-            {% include icon.html name="whatsapp" size="18" %}
+            {% include_cached icon.html name="whatsapp" size="18" %}
             WhatsApp
           </a>
         </div>

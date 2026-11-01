@@ -1,3 +1,7 @@
+{%- comment -%}
+  Render qua include_cached trong _layouts/default.html: 1 lần/build, dùng chung cho mọi trang.
+  Chỉ được phụ thuộc site.* / site.data / hằng số — KHÔNG đọc page.* hay biến gán theo trang ở đây.
+{%- endcomment -%}
 {% assign business = site.data.business %}
 {% assign nav = site.data.navigation.footer %}
 
@@ -24,15 +28,15 @@
       </address>
       <div class="social-links">
         <a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer" class="social-link">
-          {% include icon.html name="message" size="18" %}
+          {% include_cached icon.html name="message" size="18" %}
           <span>Zalo</span>
         </a>
         <a href="{{ business.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="social-link">
-          {% include icon.html name="whatsapp" size="18" %}
+          {% include_cached icon.html name="whatsapp" size="18" %}
           <span>WhatsApp</span>
         </a>
         <a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer" class="social-link">
-          {% include icon.html name="map-pin" size="18" %}
+          {% include_cached icon.html name="map-pin" size="18" %}
           <span>Google Maps</span>
         </a>
       </div>
@@ -46,7 +50,7 @@
         <summary class="footer-section-summary">
           <span class="footer-section-title">{{ section.title }}</span>
           <span class="footer-section-chevron" aria-hidden="true">
-            {% include icon.html name="chevron-down" size="18" %}
+            {% include_cached icon.html name="chevron-down" size="18" %}
           </span>
         </summary>
         <ul class="footer-links">
@@ -60,7 +64,7 @@
                 href="{{ link.url | relative_url }}"
               {% endif %}
             >
-              {% if link.icon %}{% include icon.html name=link.icon size="16" %}{% endif %}
+              {% if link.icon %}{% include_cached icon.html name=link.icon size="16" %}{% endif %}
               {{ link.name }}
             </a>
           </li>

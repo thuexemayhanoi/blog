@@ -1,3 +1,10 @@
+{%- comment -%}
+  Render qua include_cached trong _layouts/default.html (1 lần cho mỗi giá trị tham số current, không phải ~7.000 lần/build).
+  Khối này CHỈ được phụ thuộc site.data/hằng số và tham số include.current; KHÔNG đọc page.* ở đây
+  (bản cache dùng chung cho mọi trang có cùng current => nội dung theo trang sẽ sai).
+  include.current = page.url khi page.url là URL của một mục menu (cấp 1 hoặc mục con — chứa mọi URL được so bên dưới),
+  ngược lại là giá trị canh '(none)' — xem khối tính hdr_current ngay trước lời gọi trong default.html.
+{%- endcomment -%}
 {% assign business = site.data.business %}
 {% assign nav = site.data.navigation.main %}
 
@@ -16,7 +23,7 @@
             <li class="dropdown">
               <button type="button" class="dropdown-toggle" aria-expanded="false" aria-controls="nav-submenu-{{ item.id }}">
                 <span>{{ item.name }}</span>
-                {% include icon.html name="chevron-down" size="16" class="dropdown-icon" %}
+                {% include_cached icon.html name="chevron-down" size="16" class="dropdown-icon" %}
               </button>
               <ul class="dropdown-menu mega-menu{% if item.id == 'blog' %} mega-menu--topics{% else %} mega-menu--pricing{% endif %}" id="nav-submenu-{{ item.id }}">
                 <li class="mega-menu-heading">
@@ -25,8 +32,8 @@
                 </li>
                 {% for child in item.children %}
                 <li class="mega-menu-entry">
-                  <a href="{{ child.url | relative_url }}" class="dropdown-item mega-menu-card" {% if page.url == child.url %}aria-current="page"{% endif %}>
-                    {% if child.icon %}{% include icon.html name=child.icon size="18" %}{% endif %}
+                  <a href="{{ child.url | relative_url }}" class="dropdown-item mega-menu-card" {% if include.current == child.url %}aria-current="page"{% endif %}>
+                    {% if child.icon %}{% include_cached icon.html name=child.icon size="18" %}{% endif %}
                     <span>{{ child.name }}</span>
                   </a>
                 </li>
@@ -52,7 +59,7 @@
             </li>
             {% else %}
             <li>
-              <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.name }}</a>
+              <a href="{{ item.url | relative_url }}" {% if include.current == item.url %}aria-current="page"{% endif %}>{{ item.name }}</a>
             </li>
             {% endif %}
           {% endfor %}
@@ -60,30 +67,30 @@
         
         <div class="header-utilities">
           <button class="theme-toggle" aria-label="Chuyển sang giao diện tối" data-theme-toggle>
-            {% include icon.html name="sun" size="20" class="theme-icon theme-icon-sun" %}
-            {% include icon.html name="moon" size="20" class="theme-icon theme-icon-moon" %}
+            {% include_cached icon.html name="sun" size="20" class="theme-icon theme-icon-sun" %}
+            {% include_cached icon.html name="moon" size="20" class="theme-icon theme-icon-moon" %}
           </button>
           <span class="business-status" data-business-status aria-live="polite">
             <span class="business-status-dot" aria-hidden="true"></span>
             <span class="business-status-text">Đang mở</span>
           </span>
           <a href="{{ '/bang-gia/#tinh-gia' | relative_url }}" class="calc-link" aria-label="Tính giá">
-            {% include icon.html name="calculator" size="20" %}
+            {% include_cached icon.html name="calculator" size="20" %}
           </a>
         </div>
       </nav>
       
       <div class="mobile-utilities">
         <button class="theme-toggle" aria-label="Chuyển sang giao diện tối" data-theme-toggle>
-          {% include icon.html name="sun" size="20" class="theme-icon theme-icon-sun" %}
-          {% include icon.html name="moon" size="20" class="theme-icon theme-icon-moon" %}
+          {% include_cached icon.html name="sun" size="20" class="theme-icon theme-icon-sun" %}
+          {% include_cached icon.html name="moon" size="20" class="theme-icon theme-icon-moon" %}
         </button>
         <span class="business-status" data-business-status aria-live="polite">
           <span class="business-status-dot" aria-hidden="true"></span>
           <span class="business-status-text">Đang mở</span>
         </span>
         <button class="mobile-menu-toggle" aria-expanded="false" aria-label="Mở menu" data-mobile-menu-open aria-controls="mobileMenu">
-          {% include icon.html name="menu" size="24" class="hamburger" %}
+          {% include_cached icon.html name="menu" size="24" class="hamburger" %}
         </button>
       </div>
     </div>
@@ -98,7 +105,7 @@
         <span>{{ business.brand }}</span>
       </a>
       <button class="mobile-close" aria-label="Đóng" data-mobile-menu-close>
-        {% include icon.html name="close" size="24" %}
+        {% include_cached icon.html name="close" size="24" %}
       </button>
     </div>
     <nav class="mobile-nav">
@@ -107,9 +114,9 @@
           {% if item.children %}
           <li class="mobile-nav-item has-submenu">
             <button type="button" class="submenu-toggle" aria-expanded="false" aria-controls="mobile-submenu-{{ item.id }}">
-              {% include icon.html name=item.icon size="20" %}
+              {% include_cached icon.html name=item.icon size="20" %}
               <span>{{ item.name }}</span>
-              {% include icon.html name="chevron-right" size="16" class="submenu-arrow" %}
+              {% include_cached icon.html name="chevron-right" size="16" class="submenu-arrow" %}
             </button>
             <ul class="mobile-submenu" id="mobile-submenu-{{ item.id }}" aria-hidden="true" inert style="list-style: none; margin: 0; padding-left: 0;">
     
@@ -117,7 +124,7 @@
       
         <li>
                 <a href="{{ child.url | relative_url }}" class="mobile-submenu-link">
-                  {% include icon.html name=child.icon size="18" %}
+                  {% include_cached icon.html name=child.icon size="18" %}
                   {{ child.name }}
                 </a>
               </li>
@@ -127,7 +134,7 @@
           {% else %}
           <li class="mobile-nav-item">
             <a href="{{ item.url | relative_url }}" class="mobile-nav-link">
-              {% include icon.html name=item.icon size="20" %}
+              {% include_cached icon.html name=item.icon size="20" %}
               {{ item.name }}
             </a>
           </li>
@@ -135,7 +142,7 @@
         {% endfor %}
         <li class="mobile-nav-item">
           <a href="{{ '/bang-gia/#tinh-gia' | relative_url }}" class="mobile-nav-link">
-            {% include icon.html name="calculator" size="20" %}
+            {% include_cached icon.html name="calculator" size="20" %}
             Tính giá
           </a>
         </li>
@@ -143,7 +150,7 @@
     </nav>
     <div class="mobile-hours-info">
       <p class="mobile-hours-line">
-        {% include icon.html name="clock" size="16" %}
+        {% include_cached icon.html name="clock" size="16" %}
         <span>Giờ hoạt động: {{ business.hours }}</span>
         <span class="business-status" data-business-status data-status-full aria-live="polite">
           <span class="business-status-dot" aria-hidden="true"></span>
@@ -154,19 +161,19 @@
     </div>
     <div class="mobile-footer">
       <a href="{{ business.contact.phone_uri }}" class="action-btn">
-        {% include icon.html name="phone" size="20" %}
+        {% include_cached icon.html name="phone" size="20" %}
         Gọi
       </a>
       <a href="{{ business.contact.zalo }}" class="action-btn">
-        {% include icon.html name="message" size="20" %}
+        {% include_cached icon.html name="message" size="20" %}
         Zalo
       </a>
       <a href="{{ business.contact.whatsapp }}" class="action-btn">
-        {% include icon.html name="whatsapp" size="20" %}
+        {% include_cached icon.html name="whatsapp" size="20" %}
         WA
       </a>
       <a href="{{ business.contact.maps }}" class="action-btn">
-        {% include icon.html name="map-pin" size="20" %}
+        {% include_cached icon.html name="map-pin" size="20" %}
         Maps
       </a>
     </div>

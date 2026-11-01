@@ -1,0 +1,97 @@
+{%- comment -%}
+  Ba node JSON-LD dùng chung toàn site (Organization, LocalBusiness, WebSite) của _includes/seo.html, gọi bằng
+  include_cached => render 1 lần/build (khóa cache = tham số price_range), đầu ra giữ nguyên từng byte.
+  CHỈ được đọc site.*, site.data.* và include.*; KHÔNG đọc page.* hay biến gán theo trang (bản cache dùng chung cho mọi
+  trang). Ghi đè theo trang phải truyền thành tham số include như price_range. Thẻ <script> và mảng @graph mở/đóng trong seo.html.
+{%- endcomment -%}
+{%- comment -%}
+  JSON-LD: mọi chuỗi nội suy đều qua `jsonify` (escape " \ xuống dòng) rồi `replace: '</', '<\/'`
+  (jsonify KHÔNG escape "</" — thiếu bước này một giá trị chứa </script> sẽ thoát khỏi khối JSON-LD).
+  priceRange lấy từ _data/pricing.yml (min/max giá ngày đã duyệt); ghi đè theo trang qua tham số include.price_range (= page.price_range).
+{%- endcomment -%}
+{%- assign business = site.data.business -%}
+{%- assign ld_site = site.url | append: site.baseurl | append: '/' -%}
+{%- assign ld_name = business.display_name | default: site.title -%}
+{%- assign ld_phone = business.contact.phone_uri | default: '' | remove: 'tel:' -%}
+{%- assign ld_email = business.contact.email | default: site.email | default: '' -%}
+{%- assign ld_logo = '' -%}
+{%- if business.logo -%}{%- assign ld_logo = business.logo | absolute_url -%}{%- endif -%}
+{%- assign ld_pr_min = 0 -%}
+{%- assign ld_pr_max = 0 -%}
+{%- for v in site.data.pricing.vehicles -%}
+  {%- assign ld_day = v.rates.day.min -%}
+  {%- if ld_day -%}
+    {%- if ld_pr_min == 0 or ld_day < ld_pr_min -%}{%- assign ld_pr_min = ld_day -%}{%- endif -%}
+    {%- if ld_day > ld_pr_max -%}{%- assign ld_pr_max = ld_day -%}{%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign ld_price_range = '150000-200000 VND' -%}
+{%- if ld_pr_min > 0 and ld_pr_max > 0 -%}{%- capture ld_price_range -%}{{ ld_pr_min }}-{{ ld_pr_max }} VND{%- endcapture -%}{%- endif -%}
+{%- if include.price_range -%}{%- assign ld_price_range = include.price_range -%}{%- endif -%}
+{%- comment -%}
+  SEO wave 4: giờ mở cửa đọc từ business.hours ("09:00 - 21:00"); streetAddress gồm phường (business.address.district) như
+  footer, /gioi-thieu/ và Google Business Profile; hasMap/areaServed lấy từ _data/business.yml (đã xác minh). Không thêm geo/postalCode
+  khi chủ chưa cung cấp (data/business-facts.json không có).
+{%- endcomment -%}
+{%- assign ld_hours = business.hours | default: '09:00 - 21:00' | split: '-' -%}
+{%- assign ld_opens = ld_hours[0] | strip -%}
+{%- assign ld_closes = ld_hours[1] | strip -%}
+{%- assign ld_street = business.address.street | default: '' -%}
+{%- if business.address.district -%}{%- assign ld_street = ld_street | append: ', ' | append: business.address.district -%}{%- endif -%}
+{
+      "@type": "Organization",
+      "@id": "{{ ld_site }}#organization",
+      "name": {{ ld_name | jsonify | replace: '</', '<\/' }},
+      "description": {{ site.description | default: '' | jsonify | replace: '</', '<\/' }},
+      {% if ld_logo != '' %}
+      "logo": {{ ld_logo | jsonify }},
+      {% endif %}
+      "url": "{{ ld_site }}",
+      "telephone": {{ ld_phone | jsonify }},
+      "email": {{ ld_email | jsonify }}
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "{{ ld_site }}#localbusiness",
+      "name": {{ ld_name | jsonify | replace: '</', '<\/' }},
+      "description": {{ site.description | default: '' | jsonify | replace: '</', '<\/' }},
+      {% if ld_logo != '' %}
+      "image": {{ ld_logo | jsonify }},
+      {% endif %}
+      "url": "{{ ld_site }}",
+      "telephone": {{ ld_phone | jsonify }},
+      "email": {{ ld_email | jsonify }},
+      "priceRange": {{ ld_price_range | jsonify | replace: '</', '<\/' }},
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": {{ ld_street | jsonify | replace: '</', '<\/' }},
+        "addressLocality": {{ business.address.city | default: 'Ha Noi' | jsonify | replace: '</', '<\/' }},
+        "addressRegion": {{ business.address.region | default: 'Ha Noi' | jsonify | replace: '</', '<\/' }},
+        "addressCountry": "VN"
+      },
+      {% if business.contact.maps %}"hasMap": {{ business.contact.maps | jsonify | replace: '</', '<\/' }},{% endif %}
+      {% if business.areas %}"areaServed": {{ business.areas | jsonify | replace: '</', '<\/' }},{% endif %}
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+          "opens": {{ ld_opens | jsonify }},
+          "closes": {{ ld_closes | jsonify }}
+        }
+      ],
+      "sameAs": [
+        "https://www.facebook.com/chothuexemaynguyentu/",
+        "https://www.tripadvisor.com.vn/Attraction_Review-g21333608-d9826317-Reviews-Hanoi_Motorbike_Rental_Nguyen_Tu-Long_Bien_Hanoi.html",
+        "https://about.me/thuexemaynguyentu",
+        "https://www.pinterest.com/thuexemaynguyentu/"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "{{ ld_site }}#website",
+      "url": "{{ ld_site }}",
+      "name": {{ site.title | jsonify | replace: '</', '<\/' }},
+      "description": {{ site.description | default: '' | jsonify | replace: '</', '<\/' }},
+      "inLanguage": "vi",
+      "publisher": { "@id": "{{ ld_site }}#organization" }
+    }{%- comment -%} Hết node WebSite; thẻ này cắt dòng trống cuối tệp khỏi đầu ra. {%- endcomment -%}

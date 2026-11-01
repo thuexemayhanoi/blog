@@ -28,6 +28,7 @@ bài mới
 
 - Mỗi bài hiển thị tối đa 4 bài **cùng cụm (child_id)**, xếp cũ → mới (bài legacy theo `_data/legacy-clusters.yml`, rồi bài factory theo ngày) và lấy 4 bài **kế tiếp theo vòng tròn**. Hệ quả: mọi bài trong cụm ≥ 5 bài nhận đúng 4 link liên quan, bộ liên quan khác nhau giữa các bài, bài đã đăng **không đổi** bộ liên quan khi có bài mới (chỉ vài bài cuối cụm quay vòng). Cụm < 5 bài được bù từ cùng parent rồi cùng danh mục.
 - Trước đây khối này lấy 4 bài **mới nhất** của cụm cho *mọi* bài (cùng một bộ 4 bài; khoảng 89% bài không nhận link liên quan nào) và quét toàn bộ `site.posts` ở từng trang (O(N²), phần lớn thời gian build Jekyll). Chi phí hiện ~ O(kích thước cụm).
+- Chi phí build (SEO-103): vòng của mỗi cụm (URL bài factory + thẻ HTML của từng thành viên) được `_includes/related-ring.html` dựng **một lần mỗi cụm mỗi lần build** qua `include_cached` (plugin `jekyll-include-cache`, có trong whitelist GitHub Pages; bộ đệm khóa theo `child_id`, xóa ở đầu mỗi lần render). Trang bài chỉ tách chuỗi vòng, tìm vị trí của chính nó và lấy 4 thẻ kế tiếp; markup thẻ ở `_includes/related-card.html`. Không có dữ liệu dựng sẵn nào phải sinh lại khi publish, và HTML đầu ra giữ nguyên từng byte so với bản quét `where` cũ.
 - `_data/legacy-clusters.yml` được **sinh** bởi `scripts/factory/restore-foundation.py` (cùng nguồn `existing-map.json` với `factory-map.yml`) — không sửa tay. Bất biến dữ liệu: `scripts/factory/tests/test_related_cluster_data.py`.
 
 ## Cơ hội reverse-link (liên kết ngược)

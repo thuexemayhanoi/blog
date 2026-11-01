@@ -2,7 +2,7 @@
 
 Mục tiêu: mọi trang công khai đạt được: HTTP 200, index được, canonical đúng, sitemap sạch, không link hỏng, không orphan, không trùng nội dung.
 
-Đầu vào: site sau build. Nguồn chuẩn: `_config.yml` (`baseurl: ""`, domain riêng ở gốc `https://blog.thuexemaynguyentu.com/`), `robots.txt`, sitemap do `jekyll-sitemap` sinh. Repo tên `/blog` **không có nghĩa** URL bài viết phải thêm `/blog/`.
+Đầu vào: site sau build. Nguồn chuẩn: `_config.yml` (`baseurl: ""`, domain riêng ở gốc `https://blog.thuexemaynguyentu.com/`), `robots.txt`, `sitemap.xml` nguồn (bản sao template `jekyll-sitemap` 1.4.0 — gem tự bỏ qua khi nguồn đã có `/sitemap.xml`; `<lastmod>` của bài đã sửa nội dung qua `revise-published.py` lấy từ `_data/post-modified.json`, cùng giá trị `BlogPosting.dateModified`). Repo tên `/blog` **không có nghĩa** URL bài viết phải thêm `/blog/`.
 
 ## Kiểm tra (làm có bằng chứng, ghi NOT VERIFIED khi chưa làm)
 

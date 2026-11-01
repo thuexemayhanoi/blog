@@ -59,7 +59,7 @@ Cấu hình duy nhất cho ma trận: `scripts/seo/seo-matrix-config.yml` (URL c
 | `build-topic-links.py` | sinh `_data/seo-topic-links.json`: liên kết "Cùng chủ đề" hai chiều giữa các bài cùng `cannibalization_key` (khóa = URL thật; `--check` đối chiếu nguồn); `_includes/topic-siblings.html` đọc tệp này |
 | `price_phrases.py`, `build-price-patches.py`, `check-price-consistency.py` | quét cụm giá tuần/tháng gắn một xe + một kỳ hạn, sinh danh sách sửa cho `revise-published.py`, báo cáo lệch so với `_data/pricing.yml` (đọc-only; câu có phép tính/so sánh không tự sửa) |
 | `build-price-notices.py` | sinh `_data/price-notices.json`: bài PUBLISHED còn nêu giá tuần/tháng cũ mà chưa sửa được gốc (hiển thị bảng giá hiện hành, xem `docs/PRICE-NOTICES.md`) |
-| `check-regressions.py` | kiểm tra hồi quy SEO trên `_site` đã build (9 bất biến: trang chủ đóng băng, canonical/H1, favicon, phân trang, hub không rỗng, khối bài chủ lực, breadcrumb, sitemap) |
+| `check-regressions.py` | kiểm tra hồi quy SEO trên `_site` đã build (10 bất biến: trang chủ đóng băng, canonical/H1, favicon, phân trang, hub không rỗng, khối bài chủ lực, breadcrumb, sitemap không noindex/404, `<lastmod>` sitemap == `dateModified`) |
 | `frozen-homepage.json` | chuỗi H1/title/meta/hero/canonical trang chủ đã duyệt ở `4f61156e`; chỉ đổi khi chủ duyệt phiên bản mới |
 
 Kiểm tra hồi quy sau mỗi build cục bộ: `python3 scripts/seo/check-regressions.py --site /tmp/site` (thoát 0 chỉ khi PASS).
@@ -155,11 +155,11 @@ Công cụ mới (đọc-only với nguồn, đầu ra xác định, có `--chec
 | Tệp | Vai trò |
 |---|---|
 | `scripts/seo/build-master-xlsx.py` | sinh workbook 23 sheet từ dữ liệu SEO Master + matrix + `data/qa`; dashboard bằng công thức. Sau khi sinh phải tính lại bằng LibreOffice và kiểm 0 lỗi công thức |
-| `scripts/seo/build-post-modified.py` | `_data/post-modified.json` (khóa `article_id`): ngày sửa nội dung thật từ sao lưu `revise-published.py` → `BlogPosting.dateModified` + dòng "Cập nhật". **Chạy lại sau mỗi lô revise-published** |
+| `scripts/seo/build-post-modified.py` | `_data/post-modified.json` (khóa `article_id`): ngày sửa nội dung thật từ sao lưu `revise-published.py` → `BlogPosting.dateModified` + dòng "Cập nhật" + `<lastmod>` trong `sitemap.xml` nguồn. **Chạy lại sau mỗi lô revise-published** |
 | `scripts/seo/build-taxonomy-overrides.py` | `_data/taxonomy-overrides.yml`: bài PUBLISHED có `parent_id/child_id` front matter sai taxonomy → giá trị matrix, chỉ dùng cho breadcrumb |
 
 Dữ liệu template mới: `_data/hub-related.yml` (khối "Chủ đề liên quan" ở hub), front matter `seo_title` (trang ngoài `_posts`), `image/image_alt/image_width/image_height`
-(ảnh xe thật cho og:image ở 11 trang xe/bảng giá).
+(template đã hỗ trợ ảnh riêng cho og:image; hiện CHƯA trang nào bật — 11 trang xe/bảng giá chờ chủ xác nhận quyền dùng ảnh xe, phản biện IMG-03; mọi trang vẫn dùng logo).
 
 Quy tắc mới rút ra từ đợt 4:
 - `<title>` = `page.seo_title | default: page.title` + " | " + `business.brand`; không dùng lại hậu tố " - Thuê Xe Máy Hà Nội Nguyễn Tú" (head term của website chính).

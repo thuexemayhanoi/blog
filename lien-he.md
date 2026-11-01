@@ -18,19 +18,19 @@ Cảm ơn bạn quan tâm đến dịch vụ thuê xe máy tại Hà Nội của
 
 <div class="contact-grid">
   <div class="contact-card glass-card">
-    <h3>{% include icon.html name="map-pin" size="20" %} Địa chỉ</h3>
+    <h3>{% include_cached icon.html name="map-pin" size="20" %} Địa chỉ</h3>
     <p>{{ business.address.full }}</p>
-    <p><a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer">Xem trên Google Maps</a></p>
+    <p><a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer">Xem trên Google Maps: chỉ đường và đánh giá</a></p>
   </div>
 
   <div class="contact-card glass-card">
-    <h3>{% include icon.html name="phone" size="20" %} Điện thoại</h3>
+    <h3>{% include_cached icon.html name="phone" size="20" %} Điện thoại</h3>
     <p><a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
     <p>Giờ hoạt động: {{ business.hours }}</p>
   </div>
 
   <div class="contact-card glass-card">
-    <h3>{% include icon.html name="message" size="20" %} Email</h3>
+    <h3>{% include_cached icon.html name="message" size="20" %} Email</h3>
     <p><a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
     <p>Vui lòng để lại số điện thoại để chúng tôi liên hệ lại trong giờ hoạt động.</p>
   </div>
@@ -40,17 +40,17 @@ Cảm ơn bạn quan tâm đến dịch vụ thuê xe máy tại Hà Nội của
 
 <div class="social-grid">
   <a href="{{ business.contact.zalo }}" class="social-card glass-card" target="_blank" rel="noopener noreferrer">
-    <h3>{% include icon.html name="message" size="20" %} Zalo</h3>
+    <h3>{% include_cached icon.html name="message" size="20" %} Zalo</h3>
     <p>Nhắn tin trên Zalo</p>
   </a>
 
   <a href="{{ business.contact.whatsapp }}" class="social-card glass-card" target="_blank" rel="noopener noreferrer">
-    <h3>{% include icon.html name="whatsapp" size="20" %} WhatsApp</h3>
+    <h3>{% include_cached icon.html name="whatsapp" size="20" %} WhatsApp</h3>
     <p>Nhắn tin trên WhatsApp</p>
   </a>
 
   <a href="{{ business.url }}" class="social-card glass-card" target="_blank" rel="noopener noreferrer">
-    <h3>{% include icon.html name="external-link" size="20" %} Website</h3>
+    <h3>{% include_cached icon.html name="external-link" size="20" %} Website</h3>
     <p>Truy cập website chính</p>
   </a>
 </div>

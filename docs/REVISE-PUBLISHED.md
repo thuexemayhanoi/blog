@@ -37,7 +37,8 @@ python3 scripts/factory/revise-published.py apply --manifest manifest.json \
         --approval-ref "<tham chiếu chủ duyệt>" --limit 50 --offset 0 --batch-id revise-YYYYMMDD-<tag>-01 --dry-run
 python3 scripts/factory/revise-published.py apply ...   (bỏ --dry-run)
 python3 scripts/factory/revise-published.py verify --backup reports/qa-audit/revise/<batch>.json
-git add _posts data/qa reports/qa-audit/revise && git commit && git push   # PR; Quality gate xác minh lại sao lưu
+python3 scripts/seo/build-post-modified.py   # ngày sửa -> BlogPosting.dateModified + dòng "Cập nhật" + <lastmod> sitemap.xml (khóa article_id)
+git add _posts data/qa reports/qa-audit/revise _data/post-modified.json && git commit && git push   # PR; Quality gate xác minh lại sao lưu
 ```
 
 `patches.json` (schema `revise-patches/1`): `{"purpose": "...", "reason": "...", "patches": {"BLG-00123": {"edits":

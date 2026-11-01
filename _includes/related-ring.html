@@ -1,0 +1,35 @@
+{%- comment -%}
+VÒNG BÀI LIÊN QUAN CỦA MỘT CỤM (tham số child_id) — dựng MỘT lần cho mỗi cụm trong mỗi lần build.
+related-articles.html gọi tệp này bằng include_cached (plugin jekyll-include-cache, có trong whitelist GitHub Pages):
+bộ nhớ đệm khóa theo child_id, sống trong một lần build và bị xóa ở đầu mỗi lần render (hook site pre_render),
+nên KHÔNG có dữ liệu dựng sẵn nào phải sinh lại khi publish bài mới.
+
+Vì kết quả được dùng lại cho mọi bài của cụm, tệp này KHÔNG được đọc biến page và chỉ phụ thuộc include.child_id,
+site.posts và _data/legacy-clusters.yml. Biến tạm đều có tiền tố rr_ (lệnh assign trong include ghi vào phạm vi của trang).
+
+Thứ tự vòng giữ NGUYÊN như thuật toán cũ: slug legacy theo legacy-clusters.yml, rồi bài factory cùng child_id theo ngày cũ -> mới.
+Đầu ra là chuỗi nội bộ (không in ra HTML), các phần ngăn bởi chuỗi phân cách "<!--rel-->":
+  phần 0                   : F = số bài factory của cụm
+  phần 1..F                : URL bài factory (để trang tìm vị trí của chính nó)
+  phần F+1..F+L            : thẻ HTML của L slug legacy; slug không tìm thấy bài => "-" (vẫn giữ chỗ trong vòng)
+  phần F+L+1..F+L+F        : thẻ HTML của bài factory
+Thoát ký tự: mọi chuỗi "<!--rel" trong URL/thẻ được ghi thành "<!--rel+" (thuận nghịch, related-articles.html giải lại),
+nên chuỗi phân cách không thể xuất hiện trong dữ liệu dù tiêu đề chứa gì.
+{%- endcomment -%}
+{%- assign rr_fac = site.posts | where: "child_id", include.child_id | reverse -%}
+{%- assign rr_leg = site.data.legacy-clusters[include.child_id] -%}
+{{- rr_fac.size -}}
+{%- for rr_p in rr_fac -%}<!--rel-->{{ rr_p.url | replace: "<!--rel", "<!--rel+" }}{%- endfor -%}
+{%- for rr_s in rr_leg -%}
+  {%- assign rr_o = site.posts | where: "slug", rr_s | first -%}
+  {%- if rr_o -%}
+    {%- capture rr_card -%}{% include related-card.html post=rr_o %}{%- endcapture -%}
+<!--rel-->{{ rr_card | replace: "<!--rel", "<!--rel+" }}
+  {%- else -%}
+<!--rel-->-
+  {%- endif -%}
+{%- endfor -%}
+{%- for rr_p in rr_fac -%}
+  {%- capture rr_card -%}{% include related-card.html post=rr_p %}{%- endcapture -%}
+<!--rel-->{{ rr_card | replace: "<!--rel", "<!--rel+" }}
+{%- endfor -%}

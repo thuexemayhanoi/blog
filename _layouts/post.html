@@ -48,16 +48,16 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
       <p class="post-dek">{{ page.description }}</p>
       {% endif %}
       <div class="post-meta">
-        <span class="post-date">{% include icon.html name="calendar" %} {{ page.date | date: "%d/%m/%Y" }}</span>
+        <span class="post-date">{% include_cached icon.html name="calendar" %} {{ page.date | date: "%d/%m/%Y" }}</span>
         {%- comment -%} Ngày cập nhật hiển thị = BlogPosting.dateModified (chỉ bài đã sửa nội dung qua revise-published; _data/post-modified.json, khóa article_id). {%- endcomment -%}
         {% assign art_rev = site.data.post-modified.posts[page.article_id] %}
         {% if art_rev %}
         <span class="post-updated">Cập nhật <time datetime="{{ art_rev.modified }}">{{ art_rev.modified | date: "%d/%m/%Y" }}</time></span>
         {% endif %}
         {% if page.author %}
-        <span class="post-author">{% include icon.html name="pen" %} <a href="{{ '/gioi-thieu/' | relative_url }}" rel="author">{{ page.author }}</a></span>
+        <span class="post-author">{% include_cached icon.html name="pen" %} <a href="{{ '/gioi-thieu/' | relative_url }}" rel="author">{{ page.author }}</a></span>
         {% endif %}
-        <span class="reading-time">{% include icon.html name="clock" %} {{ art_reading }} phút đọc ({{ art_words }} từ)</span>
+        <span class="reading-time">{% include_cached icon.html name="clock" %} {{ art_reading }} phút đọc ({{ art_words }} từ)</span>
       </div>
     </div>
   </header>
@@ -113,12 +113,12 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
       {% assign next_post = page.next %}
       {% if prev_post and prev_post.lang == page.lang %}
       <a href="{{ prev_post.url | relative_url }}" class="nav-link prev">
-        {% include icon.html name="chevron-left" %} Bài trước: {{ prev_post.title }}
+        {% include_cached icon.html name="chevron-left" %} Bài trước: {{ prev_post.title }}
       </a>
       {% endif %}
       {% if next_post and next_post.lang == page.lang %}
       <a href="{{ next_post.url | relative_url }}" class="nav-link next">
-        Bài sau: {{ next_post.title }} {% include icon.html name="chevron-right" %}
+        Bài sau: {{ next_post.title }} {% include_cached icon.html name="chevron-right" %}
       </a>
       {% endif %}
     </div>

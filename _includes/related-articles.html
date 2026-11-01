@@ -3,16 +3,22 @@ Bài viết liên quan — chọn theo ngữ cảnh, KHÔNG ngẫu nhiên, và P
 1) cùng child_id (frontmatter hoặc factory-map), 2) cùng parent_id, 3) cùng danh mục Jekyll.
 Tối đa 4 bài, không tự link. Thẻ chỉ chữ.
 
-TRƯỚC ĐÂY: (a) lấy 4 bài MỚI NHẤT của cụm => mọi bài trong cụm cùng một bộ 4 bài, 100% link liên quan dồn vào bài mới,
-88% bài không nhận link nội bộ nào; (b) mỗi bài quét TOÀN BỘ site.posts (O(N^2) cho cả site) => ~45% thời gian build Jekyll.
-
-BÂY GIỜ:
+THUẬT TOÁN (không đổi):
 - Xếp các bài cùng cụm theo thứ tự CŨ -> MỚI (bài legacy theo _data/legacy-clusters.yml, rồi bài factory theo ngày)
   và lấy 4 bài KẾ TIẾP theo vòng tròn (i+1..i+4): mỗi bài nhận đúng 4 link liên quan (cụm >= 5 bài), bộ liên quan khác nhau
   giữa các bài, và bài đã đăng KHÔNG đổi bộ liên quan khi có bài mới (chỉ 4 bài cuối quay vòng đổi).
-- Chi phí mỗi trang ~ O(kích thước cụm): bài factory lấy bằng `where: "child_id"` (hàm C của Jekyll), bài legacy lấy từ
-  _data/legacy-clusters.yml (sinh từ factory-map); chỉ 4 bài kế tiếp mới cần tra object (`where: "slug"`).
 - Cụm < 5 bài: bù từ cùng parent rồi cùng danh mục bằng đường quét cũ (hiếm, chỉ chạy khi cần).
+
+CHI PHÍ BUILD (SEO-103): trước đây MỖI trang lọc where child_id trên toàn bộ site.posts (+ một lần where slug cho mỗi bài legacy
+kế tiếp) => O(N^2), ~29% thời gian build. Nay vòng của cụm (URL bài factory + thẻ HTML dựng sẵn của từng thành viên) do
+_includes/related-ring.html dựng MỘT lần mỗi cụm mỗi lần build qua include_cached (jekyll-include-cache, khóa child_id,
+bộ đệm xóa ở đầu mỗi lần render) => không có dữ liệu dựng sẵn phải sinh lại khi publish. Phần chạy theo trang chỉ tách chuỗi
+vòng, tìm vị trí của chính nó và lấy 4 thẻ kế tiếp. Markup thẻ: _includes/related-card.html (nguồn duy nhất).
+Đầu ra HTML giữ NGUYÊN từng byte so với bản quét cũ: cấu trúc dòng/khối của tệp này (kể cả các vòng lặp có break, vốn in
+khoảng trắng theo số lần lặp) phải giữ nguyên khi sửa. Slug legacy không tìm thấy bài vẫn giữ chỗ trong vòng (thẻ "-", bị bỏ qua).
+BỘ NHỚ: dòng cuối tệp gán nil cho rel_ring, rel_fac, related, rel_obj. Biến gán trong include nằm trong phạm vi của trang,
+và Liquid giữ context của trang tới hết build (drop của bài giữ tham chiếu tới context lần truy cập cuối); nếu không giải
+phóng, mỗi trang giữ lại một bản chuỗi vòng của cụm => RAM đỉnh tăng theo O(N x cỡ cụm) (đo: +1,2 GB ở 6.289 bài). Giữ dòng này.
 Bất biến dữ liệu (scripts/factory/tests/test_related_cluster_data.py): bài legacy KHÔNG có child_id trong frontmatter và
 mọi slug trong legacy-clusters là bài thật; bài factory luôn có child_id trong frontmatter.
 {% endcomment %}
@@ -22,7 +28,7 @@ mọi slug trong legacy-clusters là bài thật; bài factory luôn có child_i
 {% assign related = '' | split: '' %}
 
 {% if rel_child_id %}
-  {% assign rel_fac = site.posts | where: "child_id", rel_child_id | reverse %}
+  {% capture rel_ring %}{% include_cached related-ring.html child_id=rel_child_id %}{% endcapture %}{% assign rel_ring = rel_ring | split: "<!--rel-->" %}{% assign rel_nfac = rel_ring.first | plus: 0 %}{% assign rel_fac = rel_ring | slice: 1, rel_nfac %}
   {% assign rel_leg = site.data.legacy-clusters[rel_child_id] %}
   {% unless rel_leg %}{% assign rel_leg = '' | split: '' %}{% endunless %}
   {% assign rel_nleg = rel_leg.size %}
@@ -32,22 +38,18 @@ mọi slug trong legacy-clusters là bài thật; bài factory luôn có child_i
     {% if s == page.slug %}{% assign rel_idx = forloop.index0 %}{% break %}{% endif %}
   {% endfor %}
   {% if rel_idx < 0 %}
-    {% for p in rel_fac %}
-      {% if p.url == page.url %}{% assign rel_idx = forloop.index0 | plus: rel_nleg %}{% break %}{% endif %}
+    {% assign rel_url = page.url | replace: "<!--rel", "<!--rel+" %}{% for p in rel_fac %}
+      {% if p == rel_url %}{% assign rel_idx = forloop.index0 | plus: rel_nleg %}{% break %}{% endif %}
     {% endfor %}
   {% endif %}
   {% if rel_idx >= 0 and rel_n > 1 %}
     {% assign rel_take = rel_n | minus: 1 %}
     {% if rel_take > 4 %}{% assign rel_take = 4 %}{% endif %}
+    {% assign rel_card0 = rel_nfac | plus: 1 %}
     {% for k in (1..rel_take) %}
-      {% assign rel_pos = rel_idx | plus: k | modulo: rel_n %}
-      {% if rel_pos < rel_nleg %}
-        {% assign rel_obj = site.posts | where: "slug", rel_leg[rel_pos] | first %}
-      {% else %}
-        {% assign rel_fpos = rel_pos | minus: rel_nleg %}
-        {% assign rel_obj = rel_fac[rel_fpos] %}
-      {% endif %}
-      {% if rel_obj %}{% assign related = related | push: rel_obj %}{% endif %}
+      {% assign rel_pos = rel_idx | plus: k | modulo: rel_n | plus: rel_card0 %}
+      {% assign rel_obj = rel_ring[rel_pos] | replace: "<!--rel+", "<!--rel" %}
+      {% if rel_obj != "-" %}{% assign related = related | push: rel_obj %}{% endif %}
     {% endfor %}
   {% endif %}
 {% endif %}
@@ -76,11 +78,11 @@ mọi slug trong legacy-clusters là bài thật; bài factory luôn có child_i
   {% endfor %}
   {% assign maxp = 4 | minus: related.size %}
   {% for post in rel_same_parent limit: maxp %}
-    {% assign related = related | push: post %}
+    {% capture rel_card %}{% include related-card.html post=post %}{% endcapture %}{% assign related = related | push: rel_card %}
   {% endfor %}
   {% assign maxc = 4 | minus: related.size %}
   {% for post in rel_same_cat limit: maxc %}
-    {% assign related = related | push: post %}
+    {% capture rel_card %}{% include related-card.html post=post %}{% endcapture %}{% assign related = related | push: rel_card %}
   {% endfor %}
 {% endif %}
 
@@ -88,13 +90,9 @@ mọi slug trong legacy-clusters là bài thật; bài factory luôn có child_i
 <section class="article-related" aria-labelledby="related-heading">
   <h2 id="related-heading">Bài viết liên quan</h2>
   <div class="post-grid">
-    {% for post in related limit: 4 %}
-    <article class="post-card">
-      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-      <p class="post-date">Đăng ngày {{ post.date | date: "%d/%m/%Y" }}</p>
-      <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
-    </article>
+    {% for rel_c in related limit: 4 %}
+    {{ rel_c }}
     {% endfor %}
   </div>
 </section>
-{% endif %}
+{% endif %}{% assign rel_ring = nil %}{% assign rel_fac = nil %}{% assign related = nil %}{% assign rel_obj = nil %}
