@@ -136,6 +136,46 @@
    "what": "Workbook Master SEO Matrix 23 sheet, dashboard bằng công thức (COUNTIF/COUNTIFS/SUM), Arial, freeze panes, filter; N/A kèm nguồn thiếu.",
    "status": "DONE",
    "audit": "deliverable"
+  },
+  {
+   "id": "W4-16",
+   "date": "2026-11-01",
+   "area": "hub/pricing",
+   "files": "_layouts/topic.html; thue-xe/thue-ngay.md; thue-xe/thue-tuan.md; thue-xe/thue-thang.md",
+   "what": "Hub thuê theo ngày/tuần/tháng hiển thị bảng giá xe số + xe ga (front matter pricing_table, include pricing-rate-table.html, số liệu chỉ từ _data/pricing.yml) + liên kết /bang-gia/ có công cụ tính giá. /thue-xe/gia-thue/ và /xe-may/xe-50cc/ không đổi.",
+   "status": "DONE",
+   "audit": "KW-06",
+   "commit": "2ea6120b"
+  },
+  {
+   "id": "W4-17",
+   "date": "2026-11-01",
+   "area": "cannibalization ledger",
+   "files": "scripts/seo/cannibalization-leads.json; reports/factory/seo-master/cannibalization-classification.csv; cannibalization-risk.csv; matrix-summary.json",
+   "what": "Sổ thêm nhóm 'gia thue honda wave theo tuan' (SAME_INTENT_MONITOR, lead BLG-06184, basis Q+C; reviewed_on giữ 2026-10-23). Tái sinh báo cáo: 50 nhóm, 0 chưa rà intent, 109 bài; sửa ~25 URL cũ trước di trú slug trong báo cáo (build-cannibalization-classification --check trước đó FAIL).",
+   "status": "DONE",
+   "audit": "KW-08",
+   "commit": "2ea6120b"
+  },
+  {
+   "id": "W4-18",
+   "date": "2026-11-01",
+   "area": "assistant/data",
+   "files": "assets/js/assistant.js; gioi-thieu.md",
+   "what": "Trợ lý ưu tiên cụm cụ thể ('50cc' -> xe-50cc, 'xe may dien' -> electric-bike, 'hoan coc' -> deposit) trước nhãn nút chung: 'thuê xe ga 50cc' trả lời giá 50cc (trước: trả lời xe ga chung 150.000–200.000đ). /gioi-thieu/ thêm dòng 'Xe tay ga 50cc: 200.000đ/ngày; giá tuần, tháng báo giá riêng' (khớp _data/pricing.yml).",
+   "status": "DONE",
+   "audit": "LCRO-04, LCRO-03 (phản biện hậu kiểm POSTHOC-5)",
+   "commit": "2ea6120b"
+  },
+  {
+   "id": "W4-19",
+   "date": "2026-11-01",
+   "area": "accessibility",
+   "files": "assets/css/tokens.css",
+   "what": "--color-success chế độ sáng #00aa44 -> #007f33: nhãn 'Đang mở'/'Đang mở cửa' (header, menu mobile, footer — mọi trang) đạt 5,14:1 trên nền trắng (trước 3,07:1 < 4,5:1). Lỗi chỉ lộ trong giờ mở cửa nên axe đợt 1 (đo lúc đóng cửa) không bắt được. Chế độ tối giữ nguyên (đạt).",
+   "status": "DONE",
+   "audit": "A11Y-06 (mới, đợt 5)",
+   "commit": "2ea6120b"
   }
  ],
  "qa_checks": [
@@ -264,6 +304,42 @@
    "scope": "perf/a11y/LCP/bytes",
    "result": "perf 100→100, a11y 92→100",
    "evidence": "LCP 1231→1078 ms, FCP 1208→1058 ms, CLS 0.0001, bytes 70118→62053 (không phải dữ liệu field CrUX)"
+  },
+  {
+   "check": "Đợt 5 — build + so byte",
+   "scope": "7.075 HTML, base 02a97087",
+   "result": "PASS",
+   "evidence": "đúng 6 tệp khác: 3 hub thuê, /gioi-thieu/, assistant.js, feed.xml (chỉ <updated>)"
+  },
+  {
+   "check": "Đợt 5 — check-regressions/links/faq/slug/site-urls",
+   "scope": "site-b5",
+   "result": "PASS",
+   "evidence": "9/9; 0 hỏng; 0 lỗi; OK; OK"
+  },
+  {
+   "check": "Đợt 5 — run-tests.py --suites ci",
+   "scope": "46 suite",
+   "result": "PASS 46/46",
+   "evidence": "34 + 12 (lần đầu bị dừng ở giới hạn 30 phút nền, chạy nốt 12 suite)"
+  },
+  {
+   "check": "Đợt 5 — Playwright trợ lý",
+   "scope": "24 câu hỏi",
+   "result": "PASS 24/24",
+   "evidence": "verify5/posthoc5/assistant_test.cjs"
+  },
+  {
+   "check": "Đợt 5 — axe-core",
+   "scope": "6 mẫu × sáng/tối × 10h/22h",
+   "result": "0 vi phạm",
+   "evidence": "trước sửa token: color-contrast 2 nút/trang lúc mở cửa"
+  },
+  {
+   "check": "Đợt 5 — tràn ngang mobile",
+   "scope": "3 hub + /gioi-thieu/ ở 320/360/1280 px",
+   "result": "PASS",
+   "evidence": "scrollWidth = clientWidth"
   }
  ],
  "qa_scores": [
@@ -290,15 +366,85 @@
    "score": 87,
    "breakdown": "intent 18/20 · chính xác 18/20 · on-page 14/15 · kiến trúc 13/15 · kỹ thuật 15/15 · UX 6/10 · schema 3/5",
    "note": "Không đổi chữ; LCP lab 2,76 s → 1,74 s; thiếu đo lường chuyển đổi."
+  },
+  {
+   "target": "3 hub thuê ngày/tuần/tháng sau đợt 5",
+   "score": 91,
+   "breakdown": "intent 18/20 · chính xác 19/20 · on-page 14/15 · kiến trúc 14/15 · kỹ thuật 15/15 · UX 8/10 · schema 3/5",
+   "note": "INFERRED (thang nội bộ). Trả lời trực tiếp câu hỏi giá theo kỳ hạn bằng bảng dữ liệu chủ duyệt; trừ điểm: chưa có dữ liệu chuyển đổi, không CollectionPage (chủ đích)."
   }
  ],
  "checkpoint": {
   "website": "https://blog.thuexemaynguyentu.com (repo thuexemayhanoi/blog, Jekyll/GitHub Pages)",
-  "ngay": "2026-10-31",
-  "giai_doan": "Wave 4 — đợt 1 đã triển khai",
-  "engine_commit": "4948afae",
+  "ngay": "2026-11-01",
+  "giai_doan": "Wave 4 — đợt 1 + đợt 5 đã triển khai",
+  "engine_commit": "2ea6120b",
   "con_lai": "SEO-208..211 trong checkpoint.json; mục 8 của wave4-2026-10-31.md",
   "tep": "reports/factory/seo-master/ (wave4-*, Master-SEO-Matrix.xlsx, checkpoint.json, fix-log.csv)",
-  "buoc_tiep": "Xác minh live sau deploy → đợt 5 (PERF-02, PERF-03B, KW-02/05/06/08/09, LCRO-09) → chờ chủ cho mục NEEDS_OWNER"
+  "buoc_tiep": "Chờ chủ cho mục NEEDS_OWNER (SEO-210/211/213); CRAWL-01 cần chủ chọn phương án (SEO-208)"
+ },
+ "batch5": {
+  "date": "2026-11-01",
+  "commit": "2ea6120b",
+  "method": "9 phản biện độc lập (workflow wf_10b5de53-302) trước khi sửa; chỉ áp dụng IMPLEMENT/IMPLEMENT_WITH_CHANGES đúng hướng dẫn",
+  "verdicts": [
+   {
+    "id": "KW-06",
+    "verdict": "IMPLEMENT_WITH_CHANGES",
+    "result": "DONE (W4-16)"
+   },
+   {
+    "id": "KW-08",
+    "verdict": "IMPLEMENT_WITH_CHANGES",
+    "result": "DONE (W4-17); không thêm khóa 'theatre'; không bump reviewed_on"
+   },
+   {
+    "id": "POSTHOC-5",
+    "verdict": "IMPLEMENT_WITH_CHANGES",
+    "result": "DONE (W4-18); 4/5 sửa đợt 1 (KW-03, KW-04, LCRO-03, LCRO-04 phần lớn) xác nhận đúng, không hoàn nguyên"
+   },
+   {
+    "id": "KW-02",
+    "verdict": "REJECT",
+    "result": "Không làm: nhóm khác khóa matrix làm đỏ test_cannibalization_leads (L2); khớp từ khóa K06 đẩy bài Long Biên cạnh tranh website chính; tái sinh seo-leads gây xáo trộn hub Hà Giang/Bảo hiểm"
+   },
+   {
+    "id": "KW-05",
+    "verdict": "REJECT",
+    "result": "Không làm: markup đề xuất tràn ngang trên mobile (scrollWidth 928 ở viewport 500); 47 bài lead đã cách trang chủ 2 click, 7–18 liên kết vào"
+   },
+   {
+    "id": "KW-09",
+    "verdict": "REJECT",
+    "result": "Không làm: BLG-00427 không có cannibalization_key, nhóm mới làm đỏ CI; giữ lead C-PHO-CO hiện có; chờ Search Console để xác định"
+   },
+   {
+    "id": "PERF-02",
+    "verdict": "REJECT",
+    "result": "Không làm: lợi FCP 300 ms chỉ có trên HTTP/1.1 lab; trên HTTP/2 (GitHub Pages) A/B ≈ 0 ms, Lighthouse perf 100 cả hai"
+   },
+   {
+    "id": "PERF-03B",
+    "verdict": "REJECT",
+    "result": "Không làm: tách dữ liệu trợ lý ra tệp riêng làm lượt xem đầu nặng hơn 0,5–0,9 KB + 1 request; cache Pages chỉ 10 phút"
+   },
+   {
+    "id": "LCRO-09",
+    "verdict": "REJECT",
+    "result": "Không làm: JSON-LD giờ mở cửa đã lấy từ business.yml; chữ mặc định đề xuất gây tràn ngang 320 px khi không có JS; chỉ là bảo trì"
+   }
+  ],
+  "crawl01": {
+   "id": "CRAWL-01",
+   "status": "TRIED_REVERTED",
+   "what": "Khối defaults 254 scope (last_modified_at theo đường dẫn _posts) trong _config.yml, sinh bởi build-post-modified.py",
+   "evidence": "Build cục bộ > 21 phút và chưa xong (bản gốc 650 s). Jekyll 3.10 FrontmatterDefaults không cache: mỗi truy cập khóa thiếu (vd post.child_id trong vòng lặp 6.279 bài ở mỗi hub) quét cả 254 scope bằng Pathname -> Quality gate (timeout 20 phút, đang 14m39s) sẽ hỏng.",
+   "next": "Phương án còn lại cần chủ duyệt: (a) sitemap.xml tự viết thay mẫu jekyll-sitemap, đọc _data/post-modified.json (đổi engine sitemap, PR riêng, so byte sitemap); (b) revise-published ghi last_modified_at vào front matter 254 bài (đổi byte bài PUBLISHED). Hiện dateModified + dòng 'Cập nhật' đã đúng."
+  },
+  "deploy": {
+   "quality_gate": "run #1736 SUCCESS — job gate 14m11s (đợt 1: 14m39s), job engine tests 20m40s",
+   "pages": "run #5837 SUCCESS (04:58→05:10 UTC)"
+  },
+  "live": "live 01/11 (TinyFish ttl=0): 3 hub thuê có H2 \"Giá thuê xe máy tham khảo\" + bảng xe số/xe ga đúng _data/pricing.yml; /gioi-thieu/ có dòng giá 50cc; assistant.js có khối ưu tiên 50cc; tokens.css --color-success #007f33"
  }
 }
