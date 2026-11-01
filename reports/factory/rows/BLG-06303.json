@@ -1,0 +1,160 @@
+{
+  "article_id": "BLG-06303",
+  "status": "WRITING",
+  "title": "Sau cú đổ xe, tay lái xe thuê bị xiên lệch so với bánh trước: còn chạy tiếp được không và có nên tự nắn",
+  "intent": "Người dùng hỏi: «Xe thuê vừa đổ một cái, giờ đi thẳng mà ghi đông bị xiên thì có đi tiếp được không?». Bài giải thích dấu hiệu tay lái lệch so với bánh trước (phải nghiêng tay mới đi thẳng, xe kéo về một bên, tay lái rơ), vì sao không tự kẹp bánh vặn nắn ở lề đường, khi nào phải dừng hẳn, chụp ảnh góc lệch, ghi vị trí và báo tiệm để được hướng dẫn hoặc đổi xe; không nêu chi phí sửa. Người đọc là khách thuê vừa đổ xe nhẹ, khác bài BLG-02501 (thứ tự việc sau khi tự ngã) và BLG-00464 (xe kéo lệch một bên chưa rõ nguyên nhân) ở chỗ chỉ xoay quanh tay lái xiên sau cú đổ.",
+  "primary_keyword": "tay lái xe máy bị lệch sau khi đổ",
+  "secondary_keywords": [
+    "ghi đông xe máy bị xiên",
+    "tay lái lệch so với bánh trước",
+    "xe thuê đổ tay lái bị lệch"
+  ],
+  "group": "HOI-DAP",
+  "taxonomy": {
+    "parent_id": "P-HOI-DAP",
+    "parent_hub": "Hỏi đáp thuê xe máy",
+    "parent_hub_url": "/hoi-dap/",
+    "child_id": "C-HD-SU-CO",
+    "child_hub": "Hỏi đáp sự cố",
+    "child_hub_url": "/hoi-dap/hoi-dap-su-co/"
+  },
+  "expected_url": "/hoi-dap/2026/11/01/sau-cu-do-xe-tay-lai-xe-thue-bi-xien-lech-so-voi-banh-truoc-con-chay-tiep-duoc-k/",
+  "output_path": "_posts/{date}-sau-cu-do-xe-tay-lai-xe-thue-bi-xien-lech-so-voi-banh-truoc-con-chay-tiep-duoc-k.md",
+  "draft_path": "_drafts/2026-11-01-sau-cu-do-xe-tay-lai-xe-thue-bi-xien-lech-so-voi-banh-truoc-con-chay-tiep-duoc-k.md",
+  "canonical_url": "/hoi-dap/2026/11/01/sau-cu-do-xe-tay-lai-xe-thue-bi-xien-lech-so-voi-banh-truoc-con-chay-tiep-duoc-k/",
+  "internal_links_matrix": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+  ],
+  "commercial_intent": "low",
+  "cannibalization_key": "tay lai xe may bi lech sau khi o",
+  "word_target": 1300,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": "2000000 - 3000000"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": 1000000,
+        "month": "1800000 - 2000000",
+        "deposit": "4000000 - 5000000"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 1000000,
+        "month": 1500000,
+        "deposit": 3000000
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": 2000000
+      },
+      "Xe tay ga 50cc": {
+        "day": 200000,
+        "week": null,
+        "month": null,
+        "note": "Giá tuần và tháng: báo giá riêng",
+        "deposit": 4000000
+      },
+      "Xe máy điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "medium",
+  "research_class": "B",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00028",
+      "title": "Kinh nghiệm đổ xăng và nghỉ trên tuyến khi chạy xe đường trường",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/kinh-nghiem-do-xang-va-nghi-tuyen/"
+    },
+    {
+      "id": "BLG-00076",
+      "title": "Cần hỗ trợ ngoài giờ hoạt động thì xử lý thế nào",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/can-ho-tro-ngoai-gio-hoat-dong/"
+    },
+    {
+      "id": "BLG-00079",
+      "title": "Cấn xe trước 9 giờ sáng: nhận xe sớm như thế nào",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/can-xe-truoc-9-gio-sang/"
+    },
+    {
+      "id": "BLG-00104",
+      "title": "Chia sẻ vị trí với người thân khi đi khuya",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/chia-se-vi-tri-voi-nguoi-than-khi-di-khuya/"
+    },
+    {
+      "id": "BLG-00125",
+      "title": "Chở lồng chim đi dạo sáng ở Hà Nội",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/cho-long-chim-di-dao-sang/"
+    },
+    {
+      "id": "BLG-00174",
+      "title": "Đi nhóm nhiều xe máy và cách giữ liên lạc",
+      "url": "/du%20l%E1%BB%8Bch/2026/09/19/di-nhom-nhieu-xe-may-giu-lien-lac/"
+    },
+    {
+      "id": "BLG-00223",
+      "title": "Đội bê tráp đám cưới sáng sớm với xe máy",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/doi-be-trap-dam-cuoi-sang-song-voi-xe-may/"
+    },
+    {
+      "id": "BLG-00225",
+      "title": "Đổi nơi làm việc giữa kỳ thuê xe máy: giữ di chuyển liền mạch",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/doi-noi-lam-viec-giua-ky-thue-xe-may/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "229135af43129c1c36928d90680ba462eaa5976f20b26d973dff267cd7721758",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
