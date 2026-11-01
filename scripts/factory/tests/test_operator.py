@@ -158,6 +158,24 @@ class OperatorQATest(unittest.TestCase):
         ev = self.qa(row())
         self.assertFalse(ev['checks']['phone_ok'])
 
+    def test_phone_inside_long_url_id_not_flagged(self):
+        # mã bài báo dài trong URL không phải số điện thoại
+        ok = FRONT + BODY + (
+            '\n\nNguồn: https://tuoitre.vn/cau-long-bien-mo-lai-20251231164235316.htm\n')
+        open('_drafts/2026-09-27-gia-thue-xe-may-theo-ngay-o-ha-noi.md',
+             'w', encoding='utf-8').write(ok)
+        ev = self.qa(row())
+        self.assertTrue(ev['checks']['phone_ok'])
+
+    def test_wrong_phone_in_url_still_rejected(self):
+        for link in ('https://zalo.me/0987654321',
+                     'https://example.vn/lien-he?phone=0987654321&x=1'):
+            bad = FRONT + BODY + '\n\nNhắn qua ' + link + ' nhé.\n'
+            open('_drafts/2026-09-27-gia-thue-xe-may-theo-ngay-o-ha-noi.md',
+                 'w', encoding='utf-8').write(bad)
+            ev = self.qa(row())
+            self.assertFalse(ev['checks']['phone_ok'], link)
+
     def test_legal_row_requires_gov_source(self):
         r = row(source_required='true', legal_risk='high')
         ev = self.qa(r)

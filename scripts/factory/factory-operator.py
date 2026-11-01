@@ -427,6 +427,22 @@ GOV_SOURCE_RE = re.compile(
     r'https?://[^\s\)]*'
     r'(chinhphu\.vn|moda\.gov\.vn|gov\.vn|csgt\.vn|luatvietnam\.vn)', re.I)
 LEGAL_DISCLAIMER = 'có thể thay đổi'
+URL_RE = re.compile(r'https?://[^\s\)\]>"]+')
+
+
+def phone_candidates(body):
+    """Các chuỗi 10 chữ số bắt đầu bằng 0 (dạng số điện thoại) trong thân bài.
+
+    Văn xuôi: bỏ khoảng trắng rồi quét như trước (bắt '0912 345 678', tel:).
+    URL http(s): chỉ lấy dãy đúng 10 chữ số đứng riêng (zalo.me/09…,
+    ?phone=09…), không cắt ra từ mã số dài hơn trong đường dẫn bài báo
+    (vd …-20251231164235316.htm) — trước đây bị đọc nhầm thành số lạ.
+    URL được thay bằng dấu ngăn không phải chữ số để không nối số hai bên.
+    """
+    hits = re.findall(r'0\d{9}', URL_RE.sub(' ~ ', body).replace(' ', ''))
+    for url in URL_RE.findall(body):
+        hits += re.findall(r'(?<!\d)0\d{9}(?!\d)', url)
+    return hits
 HANOI_MARKERS = [
     'Hà Nội', 'Long Biên', 'Bồ Đề', 'Nguyễn Văn Cừ', 'Hoàn Kiếm',
     'Hồ Gươm', 'Ba Đình', 'Cầu Giấy', 'Tây Hồ', 'Hà Đông', 'Gia Lâm',
@@ -777,8 +793,7 @@ def qa_check_one(row, rows, biz, tax):
     checks['forbidden_claims'] = not forbidden
     ev['forbidden_hits'] = forbidden
     phone = biz['verified_facts']['phone'].replace(' ', '')
-    phone_hits = re.findall(r'0\d{9}', body.replace(' ', ''))
-    checks['phone_ok'] = all(p == phone for p in phone_hits)
+    checks['phone_ok'] = all(p == phone for p in phone_candidates(body))
 
     # ---- legal
     src_req = row['source_required'] == 'true' or row['legal_risk'] == 'high'
