@@ -20,6 +20,7 @@
 | 2026-10-31 sau lô 9 | 5.756 | +92 bài: thêm BLG-06221 → BLG-06240 |
 | 2026-10-31 sau lô 11 | 5.776 | +112 bài: thêm BLG-06241 → BLG-06260 |
 | 2026-10-31 sau lô 13 | 5.796 | +132 bài: thêm BLG-06261 → BLG-06280 |
+| 2026-11-01 sau lô 14 | 5.806 | +142 bài: thêm BLG-06281 → BLG-06290 (lô đầu có bước biên tập viên kiểm chứng độc lập) |
 
 Mọi bài đều qua publisher (evidence `data/qa/<ID>.json`); không bài nào publish tay.
 Kiểm live: `factory-liveness.yml` (live_audit) run 40995672844 ngày 2026-10-30 — 6.980/6.980 URL
@@ -50,9 +51,9 @@ sitemap HTTP 200, 0 liên kết hỏng, 0 soft-404, 0 lỗi canonical, 0 trang m
 
 1. `git pull --ff-only origin main`; `export FACTORY_WRITER_SESSION=s-claude-opus-w6`;
    `python3 scripts/factory/writer-session.py status` (mục `me`).
-2. Lease đang mở lúc ghi: BLG-06281 → BLG-06290 (lô 14). `begin --slot W6` nhận lại đúng lease;
+2. Lease đang mở lúc ghi: BLG-06291 → BLG-06300 (lô 15). `begin --slot W6` nhận lại đúng lease;
    draft nào đã push vẫn được publisher xử lý.
-3. Lô kế tiếp: BLG-06291 trở đi theo thứ tự matrix. Khi claimable PLANNED < 100: đẩy batch chủ đề
+3. Lô kế tiếp: BLG-06301 trở đi theo thứ tự matrix. Khi claimable PLANNED < 100: đẩy batch chủ đề
    thật mới vào `data/factory/refill-batches/` + bump `data/factory/refill-request.json`.
 
 ## Việc chủ website cần xác minh (không chặn sản xuất)
@@ -91,5 +92,10 @@ Chi tiết theo bài (điểm chưa kiểm tại chỗ hoặc nguồn chưa th�
   Tết 2027 và ngày 1/1/2027 cũng chưa có.
 - BLG-06255, 06256, 06259 (vùng biên): dẫn NĐ 34/2014 (sửa bởi NĐ 299/2025) và NĐ 79/2026 (không nêu mức phạt) —
   cách đồn biên phòng tiếp khách hiện nay chưa kiểm tại chỗ.
+- Lô 14 (sức khỏe): nguồn Sở Y tế Hà Nội hiện ở tên miền tracuuqlhn.hanoi.gov.vn (nhiều URL cũ soyte.hanoi.gov.vn trả
+  404) — xác nhận đây là cổng chính thức; link moh.gov.vn, vncdc.gov.vn không mở được từ phiên (đã đối chiếu qua bản
+  đăng lại) — nên mở thử. Quy trình khi mất xe/đồ ("gọi 113 và báo cửa hàng") cần chủ xác nhận.
+- BLG-06275: bài ghi số tổng đài EVNHANOI 19001288 và EVN 1558 (kiểm trên trang chính thức) — nếu không muốn ghi số
+  của đơn vị khác thì thay bằng tên tổng đài.
 - BLG-02150 (đã PUBLISHED): bài nói Honda Wave không có hộc chứa đồ, nhưng Wave RSX có hộc U-box dưới yên theo
   honda.com.vn — nếu chủ duyệt thì sửa qua `revise-published.py` (không sửa tay).
