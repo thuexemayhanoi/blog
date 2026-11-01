@@ -21,6 +21,7 @@
 | 2026-10-31 sau lô 11 | 5.776 | +112 bài: thêm BLG-06241 → BLG-06260 |
 | 2026-10-31 sau lô 13 | 5.796 | +132 bài: thêm BLG-06261 → BLG-06280 |
 | 2026-11-01 sau lô 14 | 5.806 | +142 bài: thêm BLG-06281 → BLG-06290 (lô đầu có bước biên tập viên kiểm chứng độc lập) |
+| 2026-11-01 sau lô 16 | 5.826 | +162 bài: thêm BLG-06291 → BLG-06310 |
 
 Mọi bài đều qua publisher (evidence `data/qa/<ID>.json`); không bài nào publish tay.
 Kiểm live: `factory-liveness.yml` (live_audit) run 40995672844 ngày 2026-10-30 — 6.980/6.980 URL
@@ -46,14 +47,16 @@ sitemap HTTP 200, 0 liên kết hỏng, 0 soft-404, 0 lỗi canonical, 0 trang m
 - `4cd685ba6`, `6672d9b1d` nguyên nhân gốc engine tests timeout (`test_multiwriter_sim` 1500s):
   validate quét liên kết URL đã gỡ trên bytes; QA `intent_unique` loại trước cặp chắc chắn dưới
   ngưỡng bằng cận trên của SequenceMatcher (ngưỡng 0,97 giữ nguyên, kết quả trùng khớp bản cũ).
+- `27c944370` phone_ok: mã số dài trong URL bài báo không còn bị đọc nhầm là số điện thoại lạ (số đứng riêng
+  trong URL như zalo.me/09… vẫn bị chặn); đối chiếu 6.305 tệp không bài nào đổi PASS→FAIL; quality gate FULL xanh.
 
 ## Điểm tiếp nối (resume)
 
 1. `git pull --ff-only origin main`; `export FACTORY_WRITER_SESSION=s-claude-opus-w6`;
    `python3 scripts/factory/writer-session.py status` (mục `me`).
-2. Lease đang mở lúc ghi: BLG-06291 → BLG-06300 (lô 15). `begin --slot W6` nhận lại đúng lease;
+2. Lease đang mở lúc ghi: BLG-06311 → BLG-06320 (lô 17). `begin --slot W6` nhận lại đúng lease;
    draft nào đã push vẫn được publisher xử lý.
-3. Lô kế tiếp: BLG-06301 trở đi theo thứ tự matrix. Khi claimable PLANNED < 100: đẩy batch chủ đề
+3. Lô kế tiếp: BLG-06321 trở đi theo thứ tự matrix. Khi claimable PLANNED < 100: đẩy batch chủ đề
    thật mới vào `data/factory/refill-batches/` + bump `data/factory/refill-request.json`.
 
 ## Việc chủ website cần xác minh (không chặn sản xuất)
@@ -97,5 +100,12 @@ Chi tiết theo bài (điểm chưa kiểm tại chỗ hoặc nguồn chưa th�
   đăng lại) — nên mở thử. Quy trình khi mất xe/đồ ("gọi 113 và báo cửa hàng") cần chủ xác nhận.
 - BLG-06275: bài ghi số tổng đài EVNHANOI 19001288 và EVN 1558 (kiểm trên trang chính thức) — nếu không muốn ghi số
   của đơn vị khác thì thay bằng tên tổng đài.
+- Lô 15–16 (chính sách cửa hàng chưa có trong business facts, bài chỉ ghi "hỏi/xác nhận"): tiêu chí áp mức cọc trong
+  khoảng (Wave, Vision); nhận tiền thuê/cọc bằng tiền mặt hay chuyển khoản; nhận/trả xe ngoài giờ; có giao xe khi khách
+  chỉ có GPLX trên VNeID; hỗ trợ tận nơi khi xe hỏng; ai chịu phí khi khách quên tắt khóa cạn bình, lốp xẹp lại sau
+  khi vá dọc đường, tay lái lệch sau cú đổ; đổi giờ trả khi tắc đường; đời xe thực tế trong đội (Wave Alpha/RSX FI,
+  Vision có khóa thông minh, Air Blade 125/160, phanh CBS/ABS; Click/Mio/50cc có cần đạp, lốp có săm hay không).
+- BLG-01772 (đã PUBLISHED): khẳng định "quên tắt khóa thì người thuê gánh" và "nhiều tiệm gửi cứu hộ tận nơi" —
+  chính sách chưa xác minh; nếu chủ duyệt thì sửa qua `revise-published.py`.
 - BLG-02150 (đã PUBLISHED): bài nói Honda Wave không có hộc chứa đồ, nhưng Wave RSX có hộc U-box dưới yên theo
   honda.com.vn — nếu chủ duyệt thì sửa qua `revise-published.py` (không sửa tay).
