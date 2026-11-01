@@ -57,6 +57,7 @@ Vài mức giá tham khảo theo bảng giá hiện hành:
 - Honda Vision: 200.000đ/ngày, 1.000.000đ/tuần, 1.800.000 – 2.000.000đ/tháng
 - Honda Air Blade: 200.000đ/ngày, 1.000.000đ/tuần, 1.500.000đ/tháng
 - Honda Click / Yamaha Mio: 150.000đ/ngày, 700.000đ/tuần, 900.000 – 1.200.000đ/tháng
+- Xe tay ga 50cc: 200.000đ/ngày; giá tuần, tháng báo giá riêng
 
 Đây là giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 

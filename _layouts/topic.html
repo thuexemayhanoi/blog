@@ -26,6 +26,19 @@ layout: default
     </ul>
     {% endif %}
     {%- comment -%}
+      Bảng giá ở hub thuê theo kỳ hạn (SEO wave 4 đợt 5, KW-06): bật bằng front matter pricing_table, khóa này cũng nạp CSS bảng giá
+      trong _layouts/default.html. Số liệu chỉ lấy từ _data/pricing.yml qua include pricing-rate-table.html, không gõ tay con số.
+      Trang không bật thì không in gì. Xe 50cc giữ ở trang giá riêng; xe điện chưa có giá công bố.
+    {%- endcomment -%}
+    {%- if page.pricing_table %}
+    <section class="hub-prices" aria-labelledby="hub-prices-heading">
+      <h2 id="hub-prices-heading">Giá thuê xe máy tham khảo</h2>
+      {% include pricing-rate-table.html category="Xe số" title="Giá thuê xe số" %}
+      {% include pricing-rate-table.html category="Xe ga" title="Giá thuê xe ga" %}
+      <p><a href="{{ '/bang-gia/' | relative_url }}">Xem bảng giá đầy đủ và công cụ tính giá</a></p>
+    </section>
+    {%- endif %}
+    {%- comment -%}
       Chủ đề liên quan ở pillar khác (cùng intent) + trang giá đúng loại xe: _data/hub-related.yml (SEO wave 4, IL-04/IL-05).
       Anchor = tên hub trong _data/factory-taxonomy.yml; URL = /<pillar>/<hub>/. Không có dữ liệu => không in gì.
     {%- endcomment -%}

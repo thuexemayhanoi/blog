@@ -9,6 +9,7 @@ parent_id: P-THUE-XE
 parent_title: Thuê xe máy Hà Nội
 parent_slug: thue-xe
 child_id: C-THUE-THANG
+pricing_table: true
 ---
 
 Đi làm mỗi ngày, đưa con đến trường, chạy lịch gặp khách: khi chiếc xe máy gắn với nhịp sống hằng ngày thì thuê xe theo tháng thực tế hơn nhiều so với tính từng ngày lẻ. Hub này viết cho người ở lại Hà Nội đủ lâu để cần một phương tiện ổn định.

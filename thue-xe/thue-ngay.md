@@ -9,6 +9,7 @@ parent_id: P-THUE-XE
 parent_title: Thuê xe máy Hà Nội
 parent_slug: thue-xe
 child_id: C-THUE-NGAY
+pricing_table: true
 ---
 
 Một buổi phỏng vấn, một chuyến lên chùa, một hôm xe nhà nằm lại tiệm sửa: nhiều nhu cầu chỉ kéo dài đúng một ngày, và thuê xe theo ngày thường là cách gọn nhất để giải quyết. Hub này dành cho ai cần xe máy trong ngày và muốn biết nên làm thế nào cho trọn vẹn.

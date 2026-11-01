@@ -134,6 +134,12 @@ class NguyenTuAssistant {
   processQuestion(question) {
     const normalized = this.normalizeVietnamese(question.toLowerCase().trim());
 
+    // Cụm cụ thể phải thắng nhãn nút chung ("Xe ga", "Xe điện") của vòng so khớp bên dưới: "thuê xe ga 50cc" là câu hỏi 50cc.
+    const priority = { '50cc': 'xe-50cc', 'xe may dien': 'electric-bike', 'hoan coc': 'deposit' };
+    for (const [keyword, qid] of Object.entries(priority)) {
+      if (normalized.includes(keyword)) return this.getAnswerText(qid);
+    }
+
     for (const qq of this.quickQuestions) {
       const qText = this.normalizeVietnamese(qq.question?.toLowerCase() || '');
       if (normalized.includes(qText) || qText.includes(normalized)) {

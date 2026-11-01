@@ -9,6 +9,7 @@ parent_id: P-THUE-XE
 parent_title: Thuê xe máy Hà Nội
 parent_slug: thue-xe
 child_id: C-THUE-TUAN
+pricing_table: true
 ---
 
 Ở lại Hà Nội đủ lâu để chiếc xe thành đồ dùng hằng ngày, nhưng chưa đủ lâu để tính chuyện dài hạn: đó là chỗ của thuê xe theo tuần. Hub này giúp bạn xem kiểu thuê ấy có khớp với kế hoạch của mình hay không.

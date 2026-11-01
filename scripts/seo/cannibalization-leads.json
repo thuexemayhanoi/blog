@@ -86,6 +86,12 @@
    "basis": "Q+C: gia hạn thêm ngày nói chung; BLG-03175 (khách quốc tế) và BLG-00525 (hợp đồng tháng) là hai góc riêng, BLG-02047 gần như cùng ý",
    "cross_group_note": ""
   },
+  "gia thue honda wave theo tuan": {
+   "classification": "SAME_INTENT_MONITOR",
+   "lead_id": "BLG-06184",
+   "basis": "Q+C: BLG-06184 trả lời thẳng nên thuê Wave theo ngày, tuần hay tháng theo bảng giá hiện hành; BLG-03561 viết khi cửa hàng chỉ niêm yết giá ngày, tiền đề nay đã cũ (đang có lớp giá hiện hành, tiêu đề chờ chủ quyết định)",
+   "cross_group_note": ""
+  },
   "giay to can khi thue xe may": {
    "classification": "SAME_INTENT_MONITOR",
    "lead_id": "BLG-01993",
