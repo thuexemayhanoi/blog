@@ -1,0 +1,161 @@
+{
+  "article_id": "BLG-06294",
+  "status": "WRITING",
+  "title": "Đi xe thuê cả ngày mà không mang tiền mặt: đổ xăng, gửi xe, vá lốp ở Hà Nội trả bằng chuyển khoản được đến đâu",
+  "intent": "Người dùng hỏi: «Chỉ mang điện thoại, không có tiền mặt thì đi xe thuê cả ngày ở Hà Nội có ổn không?». Bài liệt kê các khoản nhỏ thường phát sinh trong ngày (đổ xăng, vé gửi xe, vá lốp, bơm lốp, nước uống), nơi thường nhận quét mã hoặc thẻ và nơi hay chỉ nhận tiền mặt, vì sao nên hỏi cách trả trước khi bơm xăng hay nhờ vá, mang sẵn một ít tiền lẻ, rút tiền ở đâu khi cần và giữ biên nhận chuyển khoản; không nêu giá xăng hay giá gửi xe cụ thể. Người đọc là người quen thanh toán bằng điện thoại, khác bài BLG-00978 (trả tiền thuê xe không dùng tiền mặt) và BLG-05357 (thợ ven đường chỉ nhận tiền mặt) ở chỗ bao quát các khoản chi trên đường trong một ngày.",
+  "primary_keyword": "đi xe thuê không mang tiền mặt",
+  "secondary_keywords": [
+    "đổ xăng trả bằng chuyển khoản",
+    "gửi xe máy quét mã",
+    "khoản nhỏ khi đi xe máy thuê"
+  ],
+  "group": "HOI-DAP",
+  "taxonomy": {
+    "parent_id": "P-HOI-DAP",
+    "parent_hub": "Hỏi đáp thuê xe máy",
+    "parent_hub_url": "/hoi-dap/",
+    "child_id": "C-HD-GIA",
+    "child_hub": "Hỏi đáp về giá",
+    "child_hub_url": "/hoi-dap/hoi-dap-gia/"
+  },
+  "expected_url": "/hoi-dap/2026/11/01/di-xe-thue-ca-ngay-ma-khong-mang-tien-mat-do-xang-gui-xe-va-lop-o-ha-noi-tra-ban/",
+  "output_path": "_posts/{date}-di-xe-thue-ca-ngay-ma-khong-mang-tien-mat-do-xang-gui-xe-va-lop-o-ha-noi-tra-ban.md",
+  "draft_path": "_drafts/2026-11-01-di-xe-thue-ca-ngay-ma-khong-mang-tien-mat-do-xang-gui-xe-va-lop-o-ha-noi-tra-ban.md",
+  "canonical_url": "/hoi-dap/2026/11/01/di-xe-thue-ca-ngay-ma-khong-mang-tien-mat-do-xang-gui-xe-va-lop-o-ha-noi-tra-ban/",
+  "internal_links_matrix": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/",
+    "/bang-gia/"
+  ],
+  "commercial_intent": "medium",
+  "cannibalization_key": "i xe thue khong mang tien mat",
+  "word_target": 1300,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": "2000000 - 3000000"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": 1000000,
+        "month": "1800000 - 2000000",
+        "deposit": "4000000 - 5000000"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 1000000,
+        "month": 1500000,
+        "deposit": 3000000
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": 700000,
+        "month": "900000 - 1200000",
+        "deposit": 2000000
+      },
+      "Xe tay ga 50cc": {
+        "day": 200000,
+        "week": null,
+        "month": null,
+        "note": "Giá tuần và tháng: báo giá riêng",
+        "deposit": 4000000
+      },
+      "Xe máy điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "week": null,
+        "month": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại",
+        "deposit": "Xác nhận theo mẫu xe"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "none",
+  "research_class": "B",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00028",
+      "title": "Kinh nghiệm đổ xăng và nghỉ trên tuyến khi chạy xe đường trường",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/kinh-nghiem-do-xang-va-nghi-tuyen/"
+    },
+    {
+      "id": "BLG-00076",
+      "title": "Cần hỗ trợ ngoài giờ hoạt động thì xử lý thế nào",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/can-ho-tro-ngoai-gio-hoat-dong/"
+    },
+    {
+      "id": "BLG-00079",
+      "title": "Cấn xe trước 9 giờ sáng: nhận xe sớm như thế nào",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/can-xe-truoc-9-gio-sang/"
+    },
+    {
+      "id": "BLG-00104",
+      "title": "Chia sẻ vị trí với người thân khi đi khuya",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/chia-se-vi-tri-voi-nguoi-than-khi-di-khuya/"
+    },
+    {
+      "id": "BLG-00125",
+      "title": "Chở lồng chim đi dạo sáng ở Hà Nội",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/cho-long-chim-di-dao-sang/"
+    },
+    {
+      "id": "BLG-00174",
+      "title": "Đi nhóm nhiều xe máy và cách giữ liên lạc",
+      "url": "/du%20l%E1%BB%8Bch/2026/09/19/di-nhom-nhieu-xe-may-giu-lien-lac/"
+    },
+    {
+      "id": "BLG-00223",
+      "title": "Đội bê tráp đám cưới sáng sớm với xe máy",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/doi-be-trap-dam-cuoi-sang-song-voi-xe-may/"
+    },
+    {
+      "id": "BLG-00225",
+      "title": "Đổi nơi làm việc giữa kỳ thuê xe máy: giữ di chuyển liền mạch",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/doi-noi-lam-viec-giua-ky-thue-xe-may/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "52b1303f5a0bb43786c70ad1b62400585fb48415b29ee6c84cd6c97a1505426b",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
