@@ -45,3 +45,32 @@ These are actual changes on independent GitHub branches, not production changes.
 
 ## Latest verification reminder
 Multiple new checkpoint/matrix commits were added to PR #28 after the first build started. GitHub checks are SHA-scoped; a green check on the earlier `30c54fc7` commit is **not** evidence that the newest PR #28 head `6e2cf4de` passed. Refresh checks for the current PR HEAD. Avoid additional workflow traffic solely for reporting.
+
+
+## Latest operational checkpoint — after owner-approved release 2026-10-14
+
+**This section supersedes historical pre-merge statuses above.**
+
+Seven premium theme PRs #28–#34 are **MERGED**; last verified theme merge is `15a24a758fef41f9aaedca3a6857f529258515f5` (#34). The three independent SEO PRs #25/#26/#27 remain untouched. Current Matrix is at repo root `THEME_UPGRADE_MATRIX.md`, with historical dates and checked release ledger.
+
+### Updated safe release queue
+1. [PR #35 WCAG contrast + focus](https://github.com/thuexemayhanoi/blog/pull/35), head `cb49de43cbda3d1db4fe67476796e6af87dacadd`, **AWAIT FULL Quality Gate**. This PR uses `reports/qa-audit/theme-wcag-contrast-full-gate-2026-10-14.md` to trigger existing Jekyll FULL gate. If all required jobs PASS and mergeable, publish only this isolated batch; otherwise fix on its branch and rerun.
+2. Confirm GitHub Pages successful deploy on FINAL `main` SHA. Prior Pages runs may have been cancelled by newer theme releases or active Writer commits: do not call them success until exact latest production commit is verified.
+3. Verify https://blog.thuexemaynguyentu.com/ plus `/404.html`, `/tim-kiem/`, `/assets/data/search-recent.json`, `/thue-xe/`, one post URL and `/bang-gia/`; ensure nav, search, calculator, H1, article progress, footer Back to Top, dark/light, canonical and robots. On-site local search covers latest 300 titles only. Full-browser/mobile/VoiceOver and measured Core Web Vitals are **not yet certified**.
+4. Check Writer W1/W2 claims **read-only**, reconcile `main` with Factory automated publications and no push/force reset of leases, checkpoint, matrix, articles or generated queues.
+5. Release any changes only through small reviewed commits/PR and full exact SHA gate; on error revert the relevant squash merge only, never revert unrelated Writer commits.
+
+### Current integration
+- Main changes are existing production releases; do not open duplicate PRs for #28–#34.
+- Source-level checks passed for actual navigation icon/routes, lazy 300-post JSON index, business photo image path in `assets/images/services`, CSS syntax guards and calculator only on home + `/bang-gia/`.
+- Main is volatile; this checkpoint intentionally records a **snapshot**, not a frozen latest HEAD.
+- Matrix statuses distinguish MERGED from LIVE QA and 40k benchmark. Do not mark 100% or WCAG2.2 AA compliance without real device/performance evidence.
+
+### Rollback
+If a specific just-released theme feature fails production QA, use an ordinary non-force revert commit of that PR's exact squash merge, then rerun Jekyll FULL QA. Do not revert the entire main history (it contains Writer publications). Theme merges #28–#34 and SHAs are listed in Matrix release ledger.
+
+## Latest production smoke evidence
+- GitHub Pages run 38453495400 SUCCESS on main SHA `15a24a758fef41f9aaedca3a6857f529258515f5`.
+- Fresh live 404 text and real /chu-de/ link verified via Parallel Search; /tim-kiem/ verified; live Jekyll JSON search index parsed as valid 300-element array with internal URLs.
+- Jekyll full gate run 38451530588: generated in 226.186s, QA scanned 3100 pages with zero FAQ/schema errors; do not extrapolate to 40K.
+- Real browser mobile/VoiceOver/CWV visual QA was not completed because read-only browser task exhausted its cost limit; do not claim passed.
