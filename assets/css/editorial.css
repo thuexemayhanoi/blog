@@ -11,6 +11,11 @@
   gap: clamp(1.5rem, 3vw, 3.5rem);
   align-items: center;
 }
+/* Homepage hero without repeated service image: preserve full-width text. */
+.hero--text-only > .container {
+  grid-template-columns: minmax(0, 1fr);
+}
+
 .hero-content { min-width: 0; }
 .hero-title {
   font-size: clamp(2rem, 3.6vw, 3.4rem);
