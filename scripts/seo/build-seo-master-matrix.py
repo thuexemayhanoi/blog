@@ -221,6 +221,10 @@ def main():
 
     inv = rd(os.path.join(SM, 'url-inventory.csv'))
     mx = {r['id']: r for r in rd(os.path.join(ROOT, 'data', 'content-matrix.csv'))}
+    mx_by_url = {}
+    for r in mx.values():
+        mx_by_url.setdefault(r['canonical_url'], r['id'])
+        mx_by_url.setdefault(r['expected_url'], r['id'])
     reg = rd(os.path.join(SM, 'slug-redirect-registry.csv'))
     reg_by_new = {r['new_url']: r for r in reg}
     blocked = {r['id']: r for r in rd(os.path.join(SM, 'content-fix-blocked.csv'))}
@@ -248,7 +252,8 @@ def main():
     paths = built_paths(a.site)
 
     # GSC: truy vấn dùng chung giữa các bài khác nhau (URL cũ quy về bài của URL mới)
-    url2id = {r['url']: r['article_id'] for r in inv if r['article_id']}
+    url2id = {r['url']: (r['article_id'] or mx_by_url.get(r['url'], '')) for r in inv if r['type'] == 'Post'}
+    url2id = {k: v for k, v in url2id.items() if v}
     for r in reg:
         url2id[r['old_url']] = r['article_id']
     overlap = {}
@@ -279,7 +284,8 @@ def main():
 
     rows, counts = [], {}
     for r in inv:
-        url, typ, aid = r['url'], r['type'], r['article_id']
+        url, typ = r['url'], r['type']
+        aid = r['article_id'] or (mx_by_url.get(url, '') if typ == 'Post' else '')
         h = parse_html(a.site, url, paths) or {}
         m = mx.get(aid, {})
         ev_state, qa = 'N/A', ''

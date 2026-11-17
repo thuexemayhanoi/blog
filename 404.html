@@ -21,6 +21,9 @@ robots: noindex,follow
         <a href="{{ business.contact.phone_uri }}" class="btn btn-secondary">Liên hệ</a>
       </div>
       
+      <p id="nf-suggest" class="nf-suggest" hidden>Một số bài đã đổi địa chỉ (đường dẫn được sửa lại chữ “đ”). Có thể bạn đang tìm:
+        <a id="nf-suggest-link" href="{{ '/tim-kiem/' | relative_url }}">tìm bài theo từ khóa trong đường dẫn</a></p>
+
       <div class="error-suggestion">
         <p>Bạn có thể thử:</p>
         <ul style="list-style: none; padding: 0;">
@@ -33,7 +36,37 @@ robots: noindex,follow
   </div>
 </div>
 
+<script>
+  /* Trang vẫn trả HTTP 404. Chỉ gợi ý tìm bài trên /tim-kiem/ bằng các từ của đoạn cuối đường dẫn (không bảng ánh xạ, không tự chuyển trang). */
+  (function () {
+    var box = document.getElementById('nf-suggest');
+    var link = document.getElementById('nf-suggest-link');
+    if (!box || !link) return;
+    var path = '';
+    try { path = decodeURIComponent(window.location.pathname || ''); } catch (e) { path = window.location.pathname || ''; }
+    var seg = path.split('/').filter(function (s) { return s.length > 0; }).pop() || '';
+    seg = seg.replace(/\.html?$/i, '').toLowerCase();
+    var seen = {};
+    var words = seg.split(/[^a-z0-9À-ỹ]+/).filter(function (w) {
+      if (w.length < 3 || /^[0-9]+$/.test(w) || seen[w]) return false;
+      seen[w] = true;
+      return true;
+    }).slice(0, 10);
+    if (words.length < 2) return;
+    var query = words.join(' ');
+    link.href = link.getAttribute('href') + '?q=' + encodeURIComponent(query);
+    link.textContent = 'tìm bài có các từ “' + query + '”';
+    box.hidden = false;
+  })();
+</script>
+
 <style>
+  .error-content .nf-suggest {
+    font-size: var(--font-size-sm);
+    color: var(--color-text);
+    margin-bottom: var(--spacing-lg);
+  }
+
   .error-page {
     min-height: 100vh;
     display: flex;
