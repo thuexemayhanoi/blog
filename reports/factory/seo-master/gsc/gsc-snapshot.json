@@ -1,0 +1,183 @@
+{
+ "connector": "Seo_key MCP (Google Search Console Performance report)",
+ "fetched_on": "2026-11-17",
+ "files": [
+  {
+   "compare": null,
+   "data_state": "final",
+   "dimensions": [
+    "date",
+    "page"
+   ],
+   "file": "gsc-daily-url-groups-2026-10-08_2026-11-15.csv",
+   "is_primary_window": true,
+   "more": false,
+   "notes": [],
+   "period": {
+    "days": 39,
+    "end": "2026-11-15",
+    "start": "2026-10-08"
+   },
+   "raw_file": "date-page-2026-10-08_2026-11-15.json",
+   "rows": 114,
+   "sha256": "b66cc3d8edc1c03a32f7534f4d45d1de8d19e56f3dea1d4f36055cdb0d00eeb6",
+   "totals": {
+    "clicks": 1967,
+    "ctr": 0.0186,
+    "impressions": 105973,
+    "position": 7.8
+   },
+   "type": "web"
+  },
+  {
+   "compare": null,
+   "data_state": "final",
+   "dimensions": [
+    "page",
+    "query"
+   ],
+   "file": "gsc-page-query-2026-10-08_2026-11-15.csv",
+   "is_primary_window": true,
+   "more": false,
+   "notes": [
+    "Queries Google keeps private for privacy are not listed, so query rows add up to less than the totals."
+   ],
+   "period": {
+    "days": 39,
+    "end": "2026-11-15",
+    "start": "2026-10-08"
+   },
+   "raw_file": "page-query-2026-10-08_2026-11-15.json",
+   "rows": 2617,
+   "sha256": "cd3d520237e90c6b304517fed93f879fe9e140cd0cc2d20fb9af43cffa0c725f",
+   "totals": {
+    "clicks": 1967,
+    "ctr": 0.0186,
+    "impressions": 105973,
+    "position": 7.8
+   },
+   "type": "web"
+  },
+  {
+   "compare": null,
+   "data_state": "final",
+   "dimensions": [
+    "page"
+   ],
+   "file": "gsc-pages-2026-10-08_2026-11-15.csv",
+   "is_primary_window": true,
+   "more": false,
+   "notes": [],
+   "period": {
+    "days": 39,
+    "end": "2026-11-15",
+    "start": "2026-10-08"
+   },
+   "raw_file": "pages-2026-10-08_2026-11-15.json",
+   "rows": 4100,
+   "sha256": "0f2eb7896d0db920213b57ee73905b41e4af29e6479e9239921f10ba359fcb1b",
+   "totals": {
+    "clicks": 1967,
+    "ctr": 0.0186,
+    "impressions": 105973,
+    "position": 7.8
+   },
+   "type": "web"
+  },
+  {
+   "compare": null,
+   "data_state": "final",
+   "dimensions": [
+    "page"
+   ],
+   "file": "gsc-pages-2026-10-19_2026-11-15.csv",
+   "is_primary_window": false,
+   "more": false,
+   "notes": [],
+   "period": {
+    "days": 28,
+    "end": "2026-11-15",
+    "start": "2026-10-19"
+   },
+   "raw_file": "pages-last28d.json",
+   "rows": 4040,
+   "sha256": "0e32079fadc8fe594113961358c26e8bd8947e0ced1b8051ba9259508e116629",
+   "totals": {
+    "clicks": 1791,
+    "ctr": 0.0184,
+    "impressions": 97432,
+    "position": 7.73
+   },
+   "type": "web"
+  },
+  {
+   "compare": {
+    "period": {
+     "days": 7,
+     "end": "2026-11-08",
+     "start": "2026-11-02"
+    },
+    "totals": {
+     "clicks": 478,
+     "ctr": 0.0182,
+     "impressions": 26215,
+     "position": 7.65
+    }
+   },
+   "data_state": "final",
+   "dimensions": [
+    "page"
+   ],
+   "file": "gsc-pages-2026-11-09_2026-11-15-vs-prev.csv",
+   "is_primary_window": false,
+   "more": false,
+   "notes": [],
+   "period": {
+    "days": 7,
+    "end": "2026-11-15",
+    "start": "2026-11-09"
+   },
+   "raw_file": "pages-last7d-compare.json",
+   "rows": 2610,
+   "sha256": "93eb9f9a182039d8eca35e664357ac0db900f590ea295a4448eeb615eb3322de",
+   "totals": {
+    "clicks": 375,
+    "ctr": 0.0194,
+    "impressions": 19324,
+    "position": 7.75
+   },
+   "type": "web"
+  },
+  {
+   "compare": null,
+   "data_state": "final",
+   "dimensions": [
+    "query"
+   ],
+   "file": "gsc-queries-2026-10-08_2026-11-15.csv",
+   "is_primary_window": true,
+   "more": false,
+   "notes": [
+    "Queries Google keeps private for privacy are not listed, so query rows add up to less than the totals."
+   ],
+   "period": {
+    "days": 39,
+    "end": "2026-11-15",
+    "start": "2026-10-08"
+   },
+   "raw_file": "queries-2026-10-08_2026-11-15.json",
+   "rows": 2178,
+   "sha256": "0fe6d5b1be36fc36282bf9c7dd079c9f612d93102d0826f7185459e046e18b59",
+   "totals": {
+    "clicks": 1967,
+    "ctr": 0.0186,
+    "impressions": 105973,
+    "position": 7.8
+   },
+   "type": "web"
+  }
+ ],
+ "note": "Số liệu là bản chụp có ngày; Search Console trễ khoảng 2 ngày và chỉ có dữ liệu từ khi property được tạo. URL không có hàng trong gsc-pages = Search Console không ghi nhận lượt hiển thị nào trong kỳ. Hàng theo truy vấn cộng lại nhỏ hơn tổng vì Google ẩn truy vấn hiếm (ghi chú của Search Console).",
+ "property": "https://blog.thuexemaynguyentu.com/",
+ "schema": "gsc-snapshot/1"
+}
