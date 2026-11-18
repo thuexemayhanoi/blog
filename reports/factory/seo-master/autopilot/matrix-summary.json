@@ -2,27 +2,29 @@
  "counts": {
   "classification": {
    "BLOCKED": 104,
-   "CONTENT_UPGRADE": 8,
-   "DUPLICATE_REVIEW": 124,
-   "KEEP": 6594,
+   "CONTENT_UPGRADE": 7,
+   "DUPLICATE_REVIEW": 123,
+   "KEEP": 6568,
    "LEGAL_REVIEW": 112,
-   "OPTIMIZE": 179
+   "OPTIMIZE": 177,
+   "QA_PASS": 30
   },
   "execution_status": {
    "BLOCKED": 104,
-   "MONITORING": 6594,
-   "TODO": 423
+   "MONITORING": 6568,
+   "QA_PASS": 30,
+   "TODO": 419
   },
   "findings": {
    "CANNIBALIZATION_LEAD": 50,
    "CANNIBALIZATION_NEAR_TITLE": 64,
    "CANNIBALIZATION_SUPPORT": 59,
-   "FRESHNESS_REVIEW_HIGH": 451,
+   "FRESHNESS_REVIEW_HIGH": 454,
    "FROZEN_HOMEPAGE": 1,
    "HAS_LEGAL_NOTICE_LAYER": 24,
    "HAS_PRICE_NOTICE_LAYER": 45,
    "META_GT_170_CHARS": 132,
-   "NO_BODY_INTERNAL_LINK": 496,
+   "NO_BODY_INTERNAL_LINK": 466,
    "NO_CONTENT_IMAGE": 6319,
    "THIN_LT_800_WORDS": 3,
    "TITLE_GT_70_CHARS": 3843
@@ -50,8 +52,8 @@
   "priority": {
    "P1": 213,
    "P2": 830,
-   "P3": 607,
-   "P4": 5471
+   "P3": 617,
+   "P4": 5461
   }
  },
  "gsc_window": "GSC 2026-10-08..2026-11-15 (lấy 2026-11-17)",
