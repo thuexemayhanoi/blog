@@ -65,7 +65,12 @@ assert.match(css, /grid-template-columns:\s*minmax\(112px, 36%\) minmax\(0, 1fr\
   'phone shows two columns within each pricing row');
 
 const layout = read('_layouts/default.html');
-assert.ok(layout.includes('if page.pricing_table'), 'only pricing pages load extra CSS');
+assert.ok(layout.includes('if page.pricing_table'), 'pricing pages still load extra CSS');
+assert.ok(layout.includes('site.data.price-notices.posts[page.url]'), 'published price notices also load pricing CSS');
+assert.ok(layout.includes('page.pricing_table or has_price_notice'), 'only pricing pages and posts with price notices load CSS');
+const priceNotices = JSON.parse(read('_data/price-notices.json'));
+assert.ok(priceNotices.posts['/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/'],
+  'reported article is covered by the price-notice CSS condition');
 assert.ok(layout.includes('/assets/css/pricing-table.css'), 'CSS stylesheet linked');
 const priceData = read('_data/pricing.yml');
 assert.match(priceData, /min:\s*150000/);
@@ -85,5 +90,5 @@ assert.match(css, /\.rental-rate-matrix > \.rental-rate-matrix__mobile\s*\{\s*di
 assert.match(css, /\.rental-rate-matrix__mobile-row\s*\{[\s\S]*?grid-template-columns: minmax\(100px, 38%\) minmax\(0, 1fr\)/);
 assert.match(css, /\.rental-rate-matrix__mobile-row dt\s*\{[\s\S]*?border-right: 1px solid/);
 assert.match(css, /\.rental-rate-matrix__mobile-row\s*\{[\s\S]*?border-bottom: 1px solid/);
-assert.match(layout, /pricing-table\.css[^"\n]*\?v=20261027-deposit/, 'cache-bust stylesheet (5-column table)');
+assert.match(layout, /pricing-table\.css[^"\n]*\?v=20261117-price-notice/, 'cache-bust stylesheet (5-column table)');
 console.log('PASS pricing table source/semantic/3-breakpoint/border/value and Safari portrait contracts');

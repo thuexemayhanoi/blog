@@ -15,8 +15,14 @@
   <link rel="stylesheet" href="{{ '/assets/css/base.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/components.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/responsive.css' | relative_url }}">
-  {% if page.pricing_table %}
-  <link rel="stylesheet" href="{{ '/assets/css/pricing-table.css' | relative_url }}?v=20261027-deposit">
+  {%- comment -%}
+    Price notices on published posts render pricing-rate-table.html even when
+    page.pricing_table is unset. Load the same responsive styles for those posts
+    so mobile Safari shows the card list instead of both unstyled views.
+  {%- endcomment -%}
+  {% assign has_price_notice = site.data.price-notices.posts[page.url] %}
+  {% if page.pricing_table or has_price_notice %}
+  <link rel="stylesheet" href="{{ '/assets/css/pricing-table.css' | relative_url }}?v=20261117-price-notice">
   {% endif %}
   {% if page.layout == 'home' or page.layout == 'post' %}
   <link rel="stylesheet" href="{{ '/assets/css/editorial.css' | relative_url }}">
