@@ -5,15 +5,15 @@
    "CONTENT_UPGRADE": 7,
    "DUPLICATE_REVIEW": 123,
    "KEEP": 6568,
-   "LEGAL_REVIEW": 112,
-   "OPTIMIZE": 177,
-   "QA_PASS": 30
+   "LEGAL_REVIEW": 111,
+   "OPTIMIZE": 161,
+   "QA_PASS": 48
   },
   "execution_status": {
    "BLOCKED": 104,
    "MONITORING": 6568,
-   "QA_PASS": 30,
-   "TODO": 419
+   "QA_PASS": 48,
+   "TODO": 402
   },
   "findings": {
    "CANNIBALIZATION_LEAD": 50,
@@ -47,10 +47,10 @@
    "Page": 14,
    "Pillar": 7,
    "Post": 6319,
-   "RedirectStub": 3
+   "RedirectStub": 4
   },
   "priority": {
-   "P1": 213,
+   "P1": 214,
    "P2": 830,
    "P3": 617,
    "P4": 5461
@@ -59,7 +59,7 @@
  "gsc_window": "GSC 2026-10-08..2026-11-15 (lấy 2026-11-17)",
  "posts": 6319,
  "schema": "seo-master-matrix-summary/1",
- "urls": 7121,
+ "urls": 7122,
  "urls_no_gsc_data": 3848,
- "urls_with_gsc_rows": 3273
+ "urls_with_gsc_rows": 3274
 }

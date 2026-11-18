@@ -4,6 +4,22 @@ Nhật ký mọi thay đổi do chương trình Autopilot thực hiện, mới n
 trạng thái deploy. "Đã deploy" chỉ ghi khi commit đã vào `main`, Pages deploy SUCCESS và URL live đã kiểm.
 Lịch sử đợt 1–4: `fix-log.csv`, `deployment-verification.md`, `checkpoint.json`.
 
+## 2026-11-18
+
+### 068599c5 — B01: sửa nội dung 18 bài vị trí Google 5–20
+- 92/115 edit qua phản biện độc lập (nguồn chính thức), áp dụng bằng `revise-published.py` (backup `reports/qa-audit/revise/revise-20261118-seo-b01.json`).
+- Ví dụ: vị trí Công viên Thống Nhất, đường Võ Nguyên Giáp ở cầu Nhật Tân, giới hạn chở hàng xe máy (khoản 5 Điều 33 Luật 36/2024), mã biển QCVN 41:2024, bỏ cấp quận/huyện đã bãi bỏ.
+- QA: verify 18/18; chấm lại 100/100 trước/sau; check-regressions 10/10; check-built-links, check-slug-redirects, check-site-urls PASS; 5 bộ test OK.
+- BLG-00614, BLG-00870: bản vá đã phản biện lưu ở `autopilot/prepared-patches/`, chờ chủ duyệt reattest.
+- Deploy: CHƯA (nhánh chưa vào main).
+
+### b689bb61 — L1: 76 liên kết nội bộ cho 30 bài legacy
+- 90 đề xuất → 76 giữ sau phản biện; `check-link-patch.py` PASS (mỗi đoạn ≤ 1 liên kết, đích tồn tại, không URL RETIRED).
+- QA: 76 dòng đổi chỉ khác cú pháp liên kết; check-regressions 10/10; check-built-links PASS.
+- Deploy: CHƯA.
+
+### 99cd5a01 — đính chính pháp lý BLG-00614 (hạng B1, thời hạn GPLX A1/A/B1), đối chiếu VBHN 55/VBHN-VPQH.
+
 ## 2026-11-17
 
 ### ae13e058 — ux(404): gợi ý tìm bài cho người vào URL cũ đã gỡ

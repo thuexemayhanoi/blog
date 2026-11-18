@@ -10,13 +10,13 @@
       "BLOCKED_URL_CONTRACT": 2,
       "DEFERRED_OWNER_PLAN": 121,
       "EXPECTED": 1,
-      "NONE": 6545,
+      "NONE": 6546,
       "OPEN": 452
     },
     "fix_priority": {
       "P2": 61,
       "P3": 514,
-      "P4": 6546
+      "P4": 6547
     },
     "needs_action": {
       "CANNIBALIZATION_SUPPORT": 59,
@@ -35,7 +35,7 @@
       "PAGE": 14,
       "PILLAR": 7,
       "SUPPORT_POST": 58,
-      "TOPIC_POST": 6011
+      "TOPIC_POST": 6012
     },
     "staleness_risk": {
       "HIGH": 454,
@@ -44,8 +44,8 @@
     }
   },
   "generated_by": "scripts/seo/build-inventory.py",
-  "html_pages": 7122,
-  "inventory_rows": 7121,
+  "html_pages": 7123,
+  "inventory_rows": 7122,
   "issues_by_code": {
     "DUP_CANNIBALIZATION_KEY": 109,
     "NOINDEX": 1
@@ -57,7 +57,7 @@
     "Page": 14,
     "Pillar": 7,
     "Post": 6319,
-    "RedirectStub": 3
+    "RedirectStub": 4
   },
   "phase_html": true,
   "post_inbound_distribution": {

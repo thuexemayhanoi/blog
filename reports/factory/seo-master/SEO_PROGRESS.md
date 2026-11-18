@@ -1,6 +1,6 @@
 # SEO PROGRESS — SEO Autopilot (đợt 5)
 
-Cập nhật: 17/11/2026. Nguồn số liệu: `SEO_CHECKPOINT.json`, `MASTER_SEO_MATRIX.csv`, `autopilot/batch-log.csv`, `gsc/`.
+Cập nhật: 18/11/2026. Nguồn số liệu: `SEO_CHECKPOINT.json`, `MASTER_SEO_MATRIX.csv`, `autopilot/batch-log.csv`, `gsc/`.
 Nhãn: **ĐÃ THỰC HIỆN** (có commit), **ĐÃ XÁC MINH** (có kiểm tra chạy được), **MỚI ĐỀ XUẤT**, **CHỜ DUYỆT**, **KHÔNG THỂ THỰC HIỆN**.
 
 ## 1. Kiểm kê (ĐÃ XÁC MINH trên build 17/11, main e3bf094c)
@@ -36,17 +36,21 @@ Nhãn: **ĐÃ THỰC HIỆN** (có commit), **ĐÃ XÁC MINH** (có kiểm tra c
 
 ## 4. Lô
 
-| Lô | Phạm vi | Trạng thái |
-|---|---|---|
-| B01 | 20 bài GSC 5–20 + 5 chủ đề chủ chỉ định | ĐANG CHẠY (audit + phản biện) |
-| B02 | 30 bài OPTIMIZE kế tiếp + cụm 50cc (ISS-03/04) | ĐANG CHẠY |
-| L1 | 30 bài legacy chưa có liên kết trong thân bài (nhiều lượt hiển thị nhất) | ĐANG CHẠY |
+| Lô | Phạm vi | Kết quả | Commit |
+|---|---|---|---|
+| L1 | 30 bài legacy chưa có liên kết trong thân bài | QA_PASS: 76 liên kết (90 đề xuất, loại 14) | b689bb61 |
+| B01 | 20 bài GSC 5–20 + 5 chủ đề chủ chỉ định | QA_PASS 18 bài (92 edit); BLOCKED 2 (bản vá chuẩn bị sẵn) | 068599c5 |
+| B02 | 30 bài OPTIMIZE kế tiếp + cụm 50cc | ĐANG CHẠY: audit 30/30, phản biện 8/29 | — |
+| L2 | 30 bài legacy kế tiếp | TODO | — |
 
-## 5. Đã thực hiện (commit trên nhánh `claude/seo-autopilot-7000-articles-a4kjcy`, CHƯA vào main/CHƯA deploy)
+## 5. Đã thực hiện (nhánh `claude/seo-autopilot-7000-articles-a4kjcy`, CHƯA vào main, CHƯA deploy)
 
-- a5e5c241 — kiểm kê + GSC + MASTER_SEO_MATRIX + SEO_ISSUES + checkpoint.
+- 068599c5 — B01: 18 bài sửa nội dung qua revise-published (chấm lại độc lập).
+- b689bb61 — L1: 76 liên kết nội bộ cho 30 bài legacy.
+- 99cd5a01 — đính chính pháp lý BLG-00614.
 - ae13e058 — trang 404 gợi ý tìm bài (86,9% đúng bài ở vị trí 1 theo mô phỏng).
-- ed7b6fe7 — `check-link-patch.py` + changelog.
+- a5e5c241 — kiểm kê + GSC + MASTER_SEO_MATRIX + SEO_ISSUES + checkpoint.
+- Tổng: 48 URL đã sửa và QA_PASS; 0 URL deploy.
 
 ## 6. Chờ chủ quyết định (BLOCKED_OWNER_DECISION)
 

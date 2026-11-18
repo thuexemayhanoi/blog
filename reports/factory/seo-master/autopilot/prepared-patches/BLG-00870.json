@@ -1,0 +1,73 @@
+{
+ "schema": "revise-patches/1",
+ "purpose": "seo-batch1 2026-11-17",
+ "reason": "Sửa ranh giới xe gắn máy (không lớn hơn 50 cm³), phạm vi hạng A1 (đến 125 cm³) và thông tin hạng A0 sai theo Luật 36/2024/QH15, đồng thời trả lời trực tiếp truy vấn hạng GPLX của xe 50cc.",
+ "patches": {
+  "BLG-00870": {
+   "edits": [
+    {
+     "old": "có dung tích xi-lanh dưới",
+     "new": "có dung tích xi-lanh không lớn hơn",
+     "count": 1
+    },
+    {
+     "old": "chưa bị buộc phải có giấy phép lái xe riêng",
+     "new": "không cần giấy phép lái xe vì xe gắn máy không thuộc hạng GPLX nào",
+     "count": 1
+    },
+    {
+     "old": "đặt nhiều nhất",
+     "new": "hỏi nhiều",
+     "count": 1
+    },
+    {
+     "old": "dưới 50 cm³, hoặc",
+     "new": "không lớn hơn 50 cm³, hoặc",
+     "count": 1
+    },
+    {
+     "old": "dưới 4 kW",
+     "new": "không lớn hơn 4 kW",
+     "count": 1
+    },
+    {
+     "old": "ghi dung tích xi-lanh dưới",
+     "new": "ghi dung tích xi-lanh không quá",
+     "count": 1
+    },
+    {
+     "old": "ghi từ 50 cm³ trở lên",
+     "new": "ghi trên 50 cm³",
+     "count": 1
+    },
+    {
+     "old": "từ 50 cm³ đến dưới 175 cm³, bao gồm gần như toàn bộ",
+     "new": "đến 125 cm³ (trên 125 cm³ cần hạng A), bao gồm phần lớn",
+     "count": 1
+    },
+    {
+     "old": "máy dưới 50 cm³, bạn",
+     "new": "máy không quá 50 cm³, bạn",
+     "count": 1
+    },
+    {
+     "old": "xe từ 50 cm³ trở lên, GPLX",
+     "new": "xe trên 50 cm³, GPLX",
+     "count": 1
+    },
+    {
+     "old": "xuất phát từ thời hệ thống giấy phép lái xe còn có",
+     "new": "dễ nhầm với dự thảo luật năm 2020 từng đề xuất",
+     "count": 1
+    },
+    {
+     "old": "Hiện nay hệ thống GPLX không còn",
+     "new": "Đề xuất này không được thông qua, hệ thống GPLX không có",
+     "count": 1
+    }
+   ]
+  }
+ },
+ "status": "BLOCKED_EVIDENCE_HASH_DRIFT: áp dụng sau khi chủ duyệt reattest-legacy-qa.py (hoặc revise-published.py --domain-drift)",
+ "verified": "phản biện độc lập 2026-11-18, mọi edit có nguồn chính thức"
+}
