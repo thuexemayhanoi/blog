@@ -14,19 +14,21 @@ article_id: BLG-01688
 writer: W1
 ---
 
-Bạn vừa nhận tấm bằng đầu tiên và băn khoăn hạng A1 lái được xe gì trước khi quyết định thuê hoặc mua xe máy để đi lại hằng ngày. Trả lời ngắn gọn: hạng này cho phép bạn điều khiển phần lớn mô tô hai bánh cỡ nhỏ và cỡ trung thông dụng trên đường phố, tức những dòng xe ga và xe số mà bạn gặp khắp nơi ở Hà Nội. Ranh giới cụ thể giữa các hạng giấy phép lái xe do văn bản quy định, còn trong bài này tôi nói về mặt thực tế dành cho người mới biết lái: xe nào bạn được phép chạy, xe nào chưa, và cách chọn xe thuê cho buổi đầu tiên. Kiến thức nền về giấy tờ lái xe được tổng hợp tại mục [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/).
+Bạn vừa nhận tấm bằng đầu tiên và băn khoăn hạng A1 lái được xe gì trước khi quyết định thuê hoặc mua xe máy để đi lại hằng ngày. Trả lời ngắn gọn: hạng này cho phép bạn điều khiển mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc công suất động cơ điện đến 11 kW, tức phần lớn những dòng xe ga và xe số mà bạn gặp khắp nơi ở Hà Nội. Ranh giới cụ thể giữa các hạng giấy phép lái xe do văn bản quy định, còn trong bài này tôi nói về mặt thực tế dành cho người mới biết lái: xe nào bạn được phép chạy, xe nào chưa, và cách chọn xe thuê cho buổi đầu tiên. Kiến thức nền về giấy tờ lái xe được tổng hợp tại mục [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/).
 
 ## Hạng A1 lái được xe gì theo quy định hiện hành
 
-Theo quy định hiện hành, giấy phép lái xe hạng A1 gắn với nhóm mô tô hai bánh có động cơ cỡ phổ thông, tức dòng xe phục vụ việc đi lại hằng ngày chứ không phải mô tô phân khối lớn. Cách phân hạng theo dung tích xi lanh và cấu tạo xe được luật định chi tiết, nội dung cụ thể có thể thay đổi theo từng thời kỳ khi có văn bản mới, vì vậy khi cần kết luận chính xác bạn nên tra cứu trực tiếp tại trang của [Cục Cảnh sát giao thông](https://www.csgt.vn/) thay vì tin các con số rải rác trên mạng xã hội.
+Theo quy định hiện hành, giấy phép lái xe hạng A1 gắn với nhóm mô tô hai bánh có động cơ cỡ phổ thông, tức dòng xe phục vụ việc đi lại hằng ngày chứ không phải mô tô phân khối lớn. Cụ thể, Điều 57 Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (hiệu lực từ 01/01/2025) giới hạn A1 ở 125 cm3 hoặc 11 kW; mô tô hai bánh lớn hơn cần hạng A, mô tô ba bánh cần hạng B1. Bằng A1 cấp trước ngày đó mà chưa đổi vẫn được lái mô tô hai bánh từ 50 cm3 đến dưới 175 cm3 (Điều 89).
 
-Nói theo kiểu dễ hình dung: nếu chiếc xe bạn nhìn thấy có bánh to bản, yên cao và động cơ chạy rền kiểu thể thao, khả năng cao nó vượt khỏi phạm vi của tấm bằng A1. Ngược lại, những chiếc xe gọn gàng chở được một người lớn cùng đồ đạc nhẹ, chạy êm trong phố, gần như chắc chắn nằm trong phạm vi bạn được lái. Cách phân biệt thô sơ này không thay thế quy định, nhưng giúp bạn tự tin hơn khi đứng trước hàng xe cho thuê.
+Cách phân hạng theo dung tích xi lanh và cấu tạo xe được luật định chi tiết, nội dung cụ thể có thể thay đổi theo từng thời kỳ khi có văn bản mới, vì vậy khi cần kết luận chính xác bạn nên tra cứu trực tiếp tại trang của [Cục Cảnh sát giao thông](https://www.csgt.vn/) thay vì tin các con số rải rác trên mạng xã hội.
+
+Nói theo kiểu dễ hình dung: nếu chiếc xe bạn nhìn thấy có bánh to bản, yên cao và động cơ chạy rền kiểu thể thao, khả năng cao nó vượt khỏi phạm vi của tấm bằng A1. Ngược lại, những chiếc xe gọn gàng chở được một người lớn cùng đồ đạc nhẹ, chạy êm trong phố, thường nằm trong phạm vi bạn được lái. Cách phân biệt thô sơ này không thay thế quy định, nhưng giúp bạn tự tin hơn khi đứng trước hàng xe cho thuê.
 
 ## Những dòng xe thông dụng thuộc phạm vi A1
 
-Trong thực tế thuê xe ở Hà Nội, hầu như toàn bộ xe máy cho thuê theo ngày đều nằm trong phạm vi của bằng A1. Các dòng xe ga cỡ nhỏ và cỡ trung dùng đi làm, chở con đi học hoặc đi chợ là nhóm phổ biến nhất: xe gọn, yên thấp, cốp rộng, người mới cầm lái cũng với chân chạm đất dễ dàng. Nhóm xe số phổ thông cũng tương tự, đơn giản, bền và dễ điều khiển hơn cho người mới, vì hệ thống số gần như chỉ cần quen tay là chạy được.
+Trong thực tế thuê xe ở Hà Nội, phần lớn xe máy cho thuê theo ngày đều nằm trong phạm vi của bằng A1. Các dòng xe ga cỡ nhỏ và cỡ trung dùng đi làm, chở con đi học hoặc đi chợ là nhóm phổ biến nhất: xe gọn, yên thấp, cốp rộng, người mới cầm lái cũng chống chân chạm đất dễ dàng. Nhóm xe số phổ thông cũng tương tự, đơn giản, bền và dễ điều khiển hơn cho người mới, vì hệ thống số gần như chỉ cần quen tay là chạy được.
 
-Điều này có nghĩa là khi bạn cầm bằng A1 đến các cửa hàng cho thuê, gần như không cần lo câu hỏi xe nào mình được phép nhận. Chỉ trừ khi cửa hàng có thêm mô tô phân khối lớn phục vụ khách đi phượt hoặc chụp ảnh, bạn mới cần dừng lại xem kỹ hạng bằng yêu cầu ghi trên bảng giá của từng dòng.
+Điều này có nghĩa là khi bạn cầm bằng A1 đến các cửa hàng cho thuê, gần như không cần lo câu hỏi xe nào mình được phép nhận. Chỉ khi gặp xe ga trên 125 cm3 (như Air Blade 160, dung tích 156,9 cm3) hoặc khi cửa hàng có thêm mô tô phân khối lớn phục vụ khách đi phượt hoặc chụp ảnh, bạn mới cần dừng lại xem kỹ hạng bằng yêu cầu ghi trên bảng giá của từng dòng.
 
 Một cách kiểm tra nhanh nữa là nhìn mục đích sử dụng của xe: xe cho thuê phục vụ đi lại trong nội thành gần như luôn thuộc nhóm phổ thông, vì cửa hàng cũng cần mẫu xe dễ sử dụng cho nhiều khách khác nhau. Nếu bạn vẫn phân vân trước một mẫu lạ, cứ hỏi thẳng chủ xe dòng này thuộc nhóm nào, họ trả lời được ngay mà không cần tra cứu thêm.
 
@@ -44,7 +46,7 @@ Trước khi nhận xe, bạn hãy thử ngồi, thử dắt bộ một quãng n
 
 ## Chốt lại
 
-Hạng A1 lái được xe gì, trả lời thực tế là gần như mọi xe máy phổ thông bạn gặp ở các cửa hàng cho thuê: xe ga nhỏ gọn, xe số bền bỉ, đúng nhóm phục vụ đi lại hằng ngày. Nhóm mô tô mạnh hơn hoặc xe ba bánh mới cần hạng cao hơn, và cũng cần kinh nghiệm cao hơn.
+Hạng A1 lái được xe gì, trả lời thực tế là mọi xe máy phổ thông đến 125 cm3 bạn gặp ở các cửa hàng cho thuê: xe ga nhỏ gọn, xe số bền bỉ, đúng nhóm phục vụ đi lại hằng ngày. Nhóm mô tô mạnh hơn hoặc xe ba bánh mới cần hạng cao hơn, và cũng cần kinh nghiệm cao hơn.
 
 Ba câu đáng nhớ:
 

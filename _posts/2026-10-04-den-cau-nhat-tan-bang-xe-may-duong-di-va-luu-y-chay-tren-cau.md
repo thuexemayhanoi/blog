@@ -13,15 +13,15 @@ child_id: C-DIEM-DEN
 article_id: BLG-01248
 writer: W2
 ---
-Cầu Nhật Tân là một trong những cây cầu lớn bắc qua sông Hồng, nối quận Tây Hồ với huyện Đông Anh ở phía bắc Hà Nội. Nếu bạn dự định qua cầu Nhật Tân bằng xe máy để đi về phía cửa ngõ sân bay, thăm nhà người thân hay đơn giản là chạy dạo con đường mới, bài viết này tóm tắt đường đi lên cầu từ trung tâm, cùng những lưu ý quan trọng khi chạy xe trên đoạn cầu dài và thoáng gió nhất trong nội đô.
+Cầu Nhật Tân là một trong những cây cầu lớn bắc qua sông Hồng, nối khu vực Tây Hồ với Đông Anh ở phía bắc Hà Nội. Nếu bạn dự định qua cầu Nhật Tân bằng xe máy để đi về phía cửa ngõ sân bay, thăm nhà người thân hay đơn giản là chạy dạo con đường mới, bài viết này tóm tắt đường đi lên cầu từ trung tâm, cùng những lưu ý quan trọng khi chạy xe trên một trong những đoạn cầu dài và thoáng gió nhất Hà Nội. Tóm tắt nhanh: từ nội đô, bạn theo trục đê Yên Phụ, Nghi Tàm, Âu Cơ hoặc đường Võ Chí Công là tới chân cầu phía nam; từ sân bay Nội Bài, theo đường Võ Nguyên Giáp là tới chân cầu phía bắc.
 
 ## Cầu Nhật Tân đường đi và vị trí kết nối
 
-Về cầu Nhật Tân đường đi nằm tiếp nối trục Võ Chí Công ở phía nam, thuộc địa phận quận Tây Hồ, và hạ xuống khu vực huyện Đông Anh ở bờ bắc sông Hồng. Đây là cây cầu dây văng với tháp cao nhìn thấy từ xa, mặt đường rộng rãi, xe máy chạy theo làn quy định tách khỏi dòng xe ô tô. Từ đầu cầu phía nam, bạn có thể nối sang khu [Hồ Tây](/du-lich/ho-tay/), dải đường ven sông Võ Nguyên Giáp, hoặc rẽ về các khu dân cư phía bờ tây. Đầu cầu phía bắc nối vào các trục đường đi Đông Anh và hướng rẽ lên cửa ngõ sân bay Nội Bài, là lối đi quen thuộc của nhiều người mỗi dịp ra sân bay bằng xe riêng.
+Về cầu Nhật Tân đường đi nằm tiếp nối trục Võ Chí Công ở phía nam, thuộc khu vực Tây Hồ, và hạ xuống khu vực Đông Anh ở bờ bắc sông Hồng. Đây là cây cầu dây văng với tháp cao nhìn thấy từ xa, mặt đường rộng rãi, xe máy chạy theo làn quy định tách khỏi dòng xe ô tô. Từ đầu cầu phía nam, bạn có thể nối sang khu [Hồ Tây](/du-lich/ho-tay/), trục đê Âu Cơ, An Dương Vương ven sông, hoặc rẽ về các khu dân cư phía bờ tây. Đầu cầu phía bắc nối vào các trục đường đi Đông Anh và đường Võ Nguyên Giáp lên cửa ngõ sân bay Nội Bài, là lối đi quen thuộc của nhiều người mỗi dịp ra sân bay bằng xe riêng.
 
 ## Lộ trình từ trung tâm Hà Nội lên cầu
 
-Từ khu Hoàn Kiếm, bạn đi theo Âu Cơ hoặc qua dải khu Hồ Tây để ra phố Võ Chí Công, đi thẳng hết trục này là lên cầu Nhật Tân. Từ phía Cầu Giấy, Tây Hồ, bạn nối vào đường Võ Nguyên Giáp chạy dọc sông Hồng rồi rẽ lên Võ Chí Công. Nếu xuất phát từ phía đông như Long Biên, quãng đường lên cầu dài hơn, bạn qua cầu Chương Dương, theo các trục phía tây bắc của thành phố rồi nối vào Võ Chí Công, bù lại đường rộng và thoáng nên chạy dễ chịu.
+Từ khu Hoàn Kiếm, bạn đi theo trục đê Yên Phụ, Nghi Tàm, Âu Cơ hoặc qua dải khu Hồ Tây để ra phố Võ Chí Công, đi thẳng hết trục này là lên cầu Nhật Tân. Từ phía Cầu Giấy, Tây Hồ, bạn theo Hoàng Quốc Việt hoặc đường Bưởi tới nút giao đầu đường Võ Chí Công rồi đi thẳng khoảng 4 km là lên cầu. Nếu xuất phát từ phía đông như Long Biên, quãng đường lên cầu dài hơn, bạn qua cầu Chương Dương, theo các trục phía tây bắc của thành phố rồi nối vào Võ Chí Công, bù lại đường rộng và thoáng nên chạy dễ chịu.
 
 Các nút giao trên đường lên cầu có đèn tín hiệu và biển chỉ dẫn riêng cho xe máy, bạn chú ý theo đúng làn để không bị đẩy nhầm sang nhánh ô tô. Vào buổi chiều cuối tuần, tuyến lên cầu khá đông vì nhiều người đi dạo phía bờ bắc, tuy vậy mặt đường rộng nên dòng xe vẫn trôi đều, ít khi tắc kéo dài như các trục nội đô.
 

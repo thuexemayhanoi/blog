@@ -23,7 +23,7 @@ Vì khu này có hai mặt đường, việc đầu tiên là quyết định m�
 
 **Từ phía Cầu Giấy, Nghĩa Đô.** Người ở Cầu Giấy, Ba Đình thường lên Hoàng Quốc Việt rồi rẽ vào Võ Chí Công, chạy thẳng về hướng cầu Nhật Tân. Võ Chí Công là trục rộng, xe máy đi ở các làn phía vỉa hè, ô tô ở các làn sát dải phân cách giữa. Khi đã thấy khối nhà lớn của trung tâm bên tay phải, giữ làn sát lề phải và giảm tốc sớm để không lỡ lối rẽ.
 
-**Từ phía phố cổ, Long Biên.** Từ bên kia sông Hồng, nhiều người đi qua cầu Chương Dương hoặc cầu Long Biên, theo Trần Nhật Duật, Yên Phụ, Nghi Tàm lên Âu Cơ, rồi vào Lạc Long Quân để tiếp cận mặt sau của khu. Phố này hẹp hơn, giờ tan tầm khá chật, nên đi chậm và để ý xe rẽ ra từ các ngõ.
+**Từ phía phố cổ, Long Biên.** Từ bên kia sông Hồng, nhiều người đi qua cầu Chương Dương hoặc cầu Long Biên, theo Trần Nhật Duật, Yên Phụ, Nghi Tàm lên Âu Cơ, rồi vào Lạc Long Quân để tới lối vào ở số nhà 683. Phố này hẹp hơn, giờ tan tầm khá chật, nên đi chậm và để ý xe rẽ ra từ các ngõ.
 
 **Từ Đông Anh hoặc sân bay về.** Cầu Nhật Tân cho xe máy đi theo làn riêng. Xuống cầu phía Tây Hồ là vào thẳng Võ Chí Công, trung tâm nằm không xa đầu cầu. Đoạn này có nhiều nhánh đường dẫn tách nhập, nên đọc biển chỉ hướng dành cho xe máy và đừng chuyển làn đột ngột. Nếu chưa quen cầu, xem thêm bài [đến cầu Nhật Tân bằng xe máy](/du-lich/2026/10/04/den-cau-nhat-tan-bang-xe-may-duong-di-va-luu-y-chay-tren-cau/).
 
@@ -44,19 +44,19 @@ Kỹ thuật cầm lái trên dốc xoắn và sàn sơn được nói kỹ tron
 
 ## Gửi xe Lotte Mall Tây Hồ: vé, thẻ và cách nhớ vị trí xe
 
-Bãi xe máy ở đây rộng, chia thành nhiều khu, nhiều hàng trông gần như giống hệt nhau. Hãy làm ba việc ngay khi vừa dựng xe.
+Bãi xe ở đây rất rộng: trang chính thức ghi sức chứa hơn sáu nghìn xe máy và hơn hai nghìn ô tô. Bãi chia thành nhiều khu, nhiều hàng trông gần như giống hệt nhau. Hãy làm ba việc ngay khi vừa dựng xe.
 
 **Cất vé hoặc thẻ gửi xe vào một chỗ cố định.** Có nơi phát vé giấy, có nơi dùng thẻ từ, có nơi chụp biển số. Dù là loại nào, để nó vào ngăn ví riêng hoặc túi có khóa kéo, đừng nhét vào túi áo khoác mà lát nữa sẽ cởi ra cầm tay. Mất vé là mất thời gian làm thủ tục xác minh xe, nhất là khi đi xe thuê.
 
 **Chụp một tấm ảnh vị trí.** Chụp sao cho thấy ký hiệu khu, số cột hoặc biển chỉ dẫn gần nhất, kèm luôn đuôi xe của bạn. Một tấm ảnh đáng tin hơn mọi cố gắng ghi nhớ khi bạn đã đi qua mấy tầng mua sắm.
 
-**Nhớ lối thang máy hoặc thang bộ mình vừa đi lên.** Lúc về, quay lại đúng cửa đó, bạn sẽ ra gần xe hơn.
+**Nhớ lối thang máy hoặc thang bộ mình vừa đi lên.** Lúc về, quay lại đúng cửa đó, bạn sẽ ra gần xe hơn. Gửi dưới hầm thì lối vào trung tâm nằm ở tầng B1.
 
 Trước khi rời xe, khóa cổ, rút chìa hoặc tắt Smartkey, và nhớ một chi tiết riêng như biển số hay miếng dán để khỏi nhầm với xe cùng mẫu cùng màu. Các mẹo cho bãi đông người có trong bài [gửi xe máy ở trung tâm thương mại giờ cao điểm](/ky-nang/2026/10/11/gui-xe-may-o-trung-tam-thuong-mai-gio-cao-diem/).
 
 ## Giờ đông: khi nào nên đi, khi nào nên tránh
 
-Trung tâm này mở cửa theo khung giờ do bên vận hành công bố; giờ mở cửa và mức phí gửi xe có thể thay đổi, nên xem trang chính thức hoặc bảng niêm yết tại cổng trước khi đi. Không cần nhớ con số, chỉ cần nhớ nhịp đông vắng:
+Trung tâm này mở cửa từ 9:30 đến 22:00 mỗi ngày theo công bố của bên vận hành; giờ mở cửa và mức phí gửi xe có thể thay đổi, nên xem trang chính thức hoặc bảng niêm yết tại cổng trước khi đi. Bên cạnh giờ mở cửa, nên nhớ thêm nhịp đông vắng:
 
 - **Chiều và tối cuối tuần, ngày lễ** là lúc đông nhất. Cửa xuống hầm xếp hàng, thang máy chờ lâu, và đặc biệt là lúc ra về, khi nhiều gia đình cùng rời đi một lượt.
 - **Buổi tối ngày thường** cũng đông dần, vì dân văn phòng quanh Cầu Giấy, Tây Hồ ghé ăn tối sau giờ làm, cộng thêm dòng xe tan tầm trên Võ Chí Công.

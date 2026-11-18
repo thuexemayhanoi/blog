@@ -19,7 +19,7 @@ Muốn ghé trung tâm giao lưu phố cổ ở số 50 Đào Duy Từ (tên đ�
 
 ## Trung tâm giao lưu phố cổ ở 50 Đào Duy Từ là nơi như thế nào
 
-Các nguồn đã đọc (báo chí và trang du lịch của địa phương, theo trích đoạn, chưa đọc toàn văn) cùng nêu tên Trung tâm Giao lưu Văn hóa Phố cổ Hà Nội và địa chỉ số 50 phố Đào Duy Từ, trong khu phố cổ Hoàn Kiếm. Công trình được giới thiệu là dự án hợp tác giữa Hà Nội với Toulouse của Pháp về bảo tồn di sản khu phố cổ, dựng trên nền một rạp hát cũ và khai trương đầu năm 2015. Tên và loại hình biểu diễn của rạp xưa được các nguồn kể không hoàn toàn giống nhau, nên bài không nêu.
+Tin khai trương của TTXVN và trang của Sở Văn hóa và Thể thao Hà Nội cùng nêu tên Trung tâm Giao lưu Văn hóa Phố cổ Hà Nội và địa chỉ số 50 phố Đào Duy Từ, trong khu phố cổ Hoàn Kiếm. Công trình được giới thiệu là dự án hợp tác giữa Hà Nội với Toulouse của Pháp về bảo tồn di sản khu phố cổ, dựng trên nền một rạp hát cũ và khai trương ngày 2/2/2015. Tên và loại hình biểu diễn của rạp xưa được các nguồn kể không hoàn toàn giống nhau, nên bài không nêu.
 
 Trung tâm được mô tả nhất quán là nơi trưng bày, giới thiệu di sản vật thể và phi vật thể của khu phố cổ và tổ chức hoạt động văn hóa, giao lưu. Với người đi xe máy, đây là điểm tham quan giữa phố cổ chứ không mặc định có bãi xe riêng.
 
@@ -32,7 +32,7 @@ Theo các nguồn đã đọc, hoạt động ở đây thuộc bốn nhóm, và
 - **Giới thiệu nghề truyền thống:** trưng bày sản phẩm của nghệ nhân, có đợt kèm buổi cho khách tự tay làm thử.
 - **Biểu diễn âm nhạc truyền thống:** vào một số dịp nhất định.
 
-Phần xem trình diễn nghề, nếu có, nằm ở nhóm thứ ba: tùy đợt, có thể có nghệ nhân giới thiệu quá trình làm nghề và buổi cho khách tự thử. Một chuỗi hoạt động còn có thể trải ra nhiều địa điểm trong phố cổ, nên hãy đọc kỹ dòng địa điểm để biết sự kiện nào diễn ra đúng ở số 50. Bài không nêu tên chương trình, giờ mở cửa hay giá vé vì những điều ấy đổi theo đợt, và các trang tổng hợp trực tuyến cũng ghi giờ mở cửa không giống nhau.
+Phần xem trình diễn nghề, nếu có, nằm ở nhóm thứ ba: tùy đợt, có thể có nghệ nhân giới thiệu quá trình làm nghề và buổi cho khách tự thử. Một chuỗi hoạt động còn có thể trải ra nhiều địa điểm trong phố cổ, nên hãy đọc kỹ dòng địa điểm để biết sự kiện nào diễn ra đúng ở số 50. Theo Ban quản lý hồ Hoàn Kiếm và phố cổ Hà Nội, từ ngày 19/01/2026 trung tâm thu phí tham quan bằng vé điện tử. Bài không nêu tên chương trình hay giờ mở cửa vì những điều ấy đổi theo đợt, và các trang tổng hợp trực tuyến cũng ghi giờ mở cửa không giống nhau.
 
 ## Theo dõi lịch hoạt động trước khi ra khỏi nhà
 
