@@ -17,7 +17,7 @@ Câu hỏi quen thuộc của mọi người lên kế hoạch đi xe máy là: 
 
 ### Thể lực và kinh nghiệm lái
 
-Yếu tố quan trọng nhất luôn là con người, không phải chiếc xe. Người có thói quen chạy xe hằng ngày, tư thế ngồi đúng và biết phân bổ lực ở vai gáy, sẽ chịu được chặng dài hơn nhiều so với người chỉ lái xe cuối tuần. Kinh nghiệm cũng giúp bạn tiết kiệm sức: biết nhìn xa để nhả ga sớm, biết chọn làn để tránh phanh gấp, biết né ổ gà mà không cần đánh lái mạnh. Tất cả những kỹ năng nhỏ đó cộng lại, giúp mức tiêu hao sức lực trên mỗi cây số chênh nhau rõ rệt giữa người mới và người cũ.
+Yếu tố quan trọng nhất luôn là con người, không phải chiếc xe. Người có thói quen chạy xe hằng ngày, [tư thế ngồi đúng](/ky-nang/2026/10/04/dau-lung-khi-chay-xe-may-duong-dai-tu-the-va-diem-nghi/) và biết phân bổ lực ở vai gáy, sẽ chịu được chặng dài hơn nhiều so với người chỉ lái xe cuối tuần. Kinh nghiệm cũng giúp bạn tiết kiệm sức: biết nhìn xa để nhả ga sớm, biết chọn làn để tránh phanh gấp, biết né ổ gà mà không cần đánh lái mạnh. Tất cả những kỹ năng nhỏ đó cộng lại, giúp mức tiêu hao sức lực trên mỗi cây số chênh nhau rõ rệt giữa người mới và người cũ.
 
 Nếu bạn thuộc nhóm ít chạy xe, hãy khởi đầu với các chuyến trong khoảng năm mươi đến tám mươi cây số một ngày. Nhóm chạy thường xuyên có thể nghĩ đến khoảng một trăm đến một trăm năm mươi. Trên mức đó, hãy chia sẻ lái nếu đi nhóm nhiều người có bằng, hoặc chấp nhận giảm quãng đường để đổi lấy an toàn.
 
@@ -29,7 +29,7 @@ Nói cách khác, quãng đường hợp lý trong ngày thường nằm trong k
 
 ### Tốc độ trung bình thực tế
 
-Để ước lượng thời gian, đừng dùng tốc độ tối đa mà xe đạt được, hãy dùng tốc độ trung bình bạn thực sự duy trì. Trong nội thành Hà Nội, tốc độ trung bình của xe máy thường chỉ mười lăm đến hai mươi cây số một giờ vào giờ cao điểm, ba mươi cây số một giờ ngoài giờ cao điểm. Trên quốc lộ thông thoáng, xe máy thường duy trì khoảng bốn mươi đến năm mươi cây số một giờ tính cả các đoạn qua thị trấn đông. Đường đèo hoặc đường xấu thì thấp hơn nữa.
+Để ước lượng thời gian, đừng dùng tốc độ tối đa mà xe đạt được, hãy dùng [tốc độ trung bình bạn thực sự duy trì](/cung-duong/2026/10/13/ha-noi-ra-tinh-bang-xe-may-mat-bao-lau-cach-uoc-luong-co-tinh-ca-gio-nghi/). Trong nội thành Hà Nội, tốc độ trung bình của xe máy thường chỉ mười lăm đến hai mươi cây số một giờ vào giờ cao điểm, ba mươi cây số một giờ ngoài giờ cao điểm. Trên quốc lộ thông thoáng, xe máy thường duy trì khoảng bốn mươi đến năm mươi cây số một giờ tính cả các đoạn qua thị trấn đông. Đường đèo hoặc đường xấu thì thấp hơn nữa.
 
 Lấy ví dụ: chuyến đi Ba Vì một chiều khoảng sáu mươi cây số, phần lớn là quốc lộ, bạn nên tính khoảng một tiếng rưỡi đến hai tiếng mỗi chiều chứ không phải một tiếng như khi nhìn con số tốc độ tối đa.
 

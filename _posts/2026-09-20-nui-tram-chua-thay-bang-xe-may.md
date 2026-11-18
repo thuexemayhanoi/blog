@@ -17,13 +17,13 @@ Nếu bạn chỉ có nửa ngày hoặc một ngày ngắn và vẫn muốn r�
 
 Ba lý do. Một, gần: chưa tới một tiếng chạy xe từ trung tâm, nghĩa là bạn có thể dậy bảy giờ, tới nơi lúc tám giờ rưỡi khi nắng chưa gay, và về nhà kịp ăn trưa hoặc giữ cả buổi chiều cho việc khác. Hai, hai điểm nằm cạnh nhau, không phải chạy dài: leo núi Trầm buổi sáng mát, rồi sang chùa Thầy khi nắng đã lên cao thì phần ngoài trời của chùa vẫn thoáng mát nhờ gió hồ. Ba, địa hình đa dạng trong không gian nhỏ: rừng, đá, chùa cổ, mặt nước, tất cả trong bán kính vài cây số.
 
-Với người mới tập đi ngoại thành bằng xe máy thuê, đây là tuyến tập lý tưởng trước khi thử các chuyến xa hơn. Sai lệch giờ giấc cũng không hại nhiều, vì đường về ngắn.
+Với người mới tập đi ngoại thành bằng xe máy thuê, đây là tuyến tập lý tưởng trước khi thử [các chuyến xa hơn](/cung-duong/cung-duong-cuoi-tuan/). Sai lệch giờ giấc cũng không hại nhiều, vì đường về ngắn.
 
 ## Lịch trình gợi ý cho buổi sáng
 
 Xuất phát bảy giờ, chặng đi theo trục hướng tây rồi rẽ vào khu vực Chương Mỹ. Đường tốt, đoạn cuối qua thị trấn nhỏ đông buổi sáng, đi chậm theo dòng xe địa phương. Đến khu vực núi Trầm trước chín giờ, gửi xe ở chân núi, mang theo nước và lên núi. Độ leo vừa phải: bậc đá rải qua rừng, có chỗ nghỉ ven đường, một đến hai tiếng là đủ lên xuống với người đi bộ trung bình. Trên cao có chùa và điểm nhìn xuống thung lũng, khung cảnh đẹp nhất lúc sáng sớm khi nắng còn chéo.
 
-Xuống núi khoảng mười giờ rưỡi, sang khu chùa Thầy gần đó, gửi xe, đi bộ tham quan. Chùa Thầy nổi tiếng với sân khấu dựng trên mặt nước và các nhà cổ nối nhau, phần này chụp ảnh đẹp và đi bộ nhẹ. Ăn trưa ở khu vực gần chợ với các món quê, rồi về giữa trưa hoặc giữ thêm buổi chiều thong thả nếu không vội.
+Xuống núi khoảng mười giờ rưỡi, sang [khu chùa Thầy](/du-lich/2026/10/01/chay-xe-di-chua-thay-gui-xe-va-thoi-diem-dep/) gần đó, gửi xe, đi bộ tham quan. Chùa Thầy nổi tiếng với sân khấu dựng trên mặt nước và các nhà cổ nối nhau, phần này chụp ảnh đẹp và đi bộ nhẹ. Ăn trưa ở khu vực gần chợ với các món quê, rồi về giữa trưa hoặc giữ thêm buổi chiều thong thả nếu không vội.
 
 ## Leo núi Trầm đúng cách
 

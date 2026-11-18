@@ -33,7 +33,7 @@ Khăn choàng và khăn quàng cổ nên buộc kín một vòng quanh cổ, kh�
 
 ## Chọn trang phục khi biết mình sẽ đi xe nhiều
 
-Với người đi xe hằng ngày, việc chọn trang phục có thể giảm bớt rủi ro từ gốc. Chất liệu dày một chút chống nắng gió tốt hơn chất mỏng bay; độ rộng vừa đủ để di chuyển thoải mái nhưng không xòe rộng hơn sườn xe. Chiều dài đến gối hoặc trên gối là khoảng an toàn nhất để ngồi lên xe mà không cần xử lý nhiều; nếu muốn mặc dài hơn, hãy tính thêm thời gian hai phút cho khâu ghim gấp trước mỗi chuyến. Giày là trang bị đi kèm quan trọng không kém: giày bệt đế phẳng, kín mũi, quai chặt; giày cao gót chỉ nên mang theo trong cốp và đổi sau khi xuống xe.
+Với người đi xe hằng ngày, việc chọn trang phục có thể giảm bớt rủi ro từ gốc. Chất liệu dày một chút chống nắng gió tốt hơn chất mỏng bay; độ rộng vừa đủ để di chuyển thoải mái nhưng không xòe rộng hơn sườn xe. Chiều dài đến gối hoặc trên gối là khoảng an toàn nhất để ngồi lên xe mà không cần xử lý nhiều; nếu muốn mặc dài hơn, hãy tính thêm thời gian hai phút cho khâu ghim gấp trước mỗi chuyến. Giày là trang bị đi kèm quan trọng không kém: [giày bệt đế phẳng, kín mũi](/kinh%20nghi%E1%BB%87m/2026/09/19/giay-dep-khi-di-xe-may-thuc-te/), quai chặt; giày cao gót chỉ nên mang theo trong cốp và đổi sau khi xuống xe.
 
 Bên cạnh đó, mũ bảo hiểm là thứ không thương lượng trong mọi trang phục: cài quai chắc chắn, không đội lỏng để giữ kiểu tóc, và khi cần, mang theo một chiếc lược nhỏ thay vì tháo mũ giữa đường để chỉnh tóc. Trang điểm và mũ bảo hiểm dung hòa được với nhau nếu chọn mũ kín trán tốt và cài cẩn thận từ đầu.
 
@@ -45,7 +45,7 @@ Sau sự cố, kiểm tra xem bánh xe hoặc dây xích có bị vướng mản
 
 ## Trang phục theo mùa và theo cung đường
 
-Mùa hè Hà Nội, ưu tiên vải thấm hút và tối màu chống xuyên nắng, cùng lớp chống nắng cho vùng cổ và mu bàn chân; đi xe cả ngày dưới nắng cần bảo vệ da hơn là chỉche khuất bằng lớp vải mỏng. Mùa đông, nhiều lớp mỏng tốt hơn một lớp dày cồng kềnh, vì khối lượng to cản trở động tác lên xuống xe và giữ ấm không tốt bằng việc giữ kín khe hở. Mùa mưa, chất liệu khô nhanh và một áo mưa loại tốt che kín từ đầu đến chân quan trọng hơn mọi sự chải chuốt; một chiếc váy đẹp ướt sũng giữa ngày làm việc là kết cục không ai muốn.
+Mùa hè Hà Nội, ưu tiên vải thấm hút và tối màu chống xuyên nắng, cùng lớp chống nắng cho vùng cổ và mu bàn chân; đi xe cả ngày dưới nắng cần bảo vệ da hơn là chỉche khuất bằng lớp vải mỏng. Mùa đông, [nhiều lớp mỏng tốt hơn một lớp dày](/ky-nang/2026/10/09/ngay-dau-dong-gio-lanh-ve-chay-xe-mac-gi/) cồng kềnh, vì khối lượng to cản trở động tác lên xuống xe và giữ ấm không tốt bằng việc giữ kín khe hở. Mùa mưa, chất liệu khô nhanh và một áo mưa loại tốt che kín từ đầu đến chân quan trọng hơn mọi sự chải chuốt; một chiếc váy đẹp ướt sũng giữa ngày làm việc là kết cục không ai muốn.
 
 Cung đường cũng nên vào tính toán: đoạn đường quen, tốc độ chậm, nhiều điểm dừng thì trang phục thoải mái hơn được; ngày phải đi xa hoặc giờ cao điểm đông đúc, hãy mặc đơn giản chắc chắn và để trang phục cầu kỳ cho nơi đến. Người đi làm dùng xe máy hằng ngày thường dựng cho mình một bộ công thức mặc riêng: một phía nghiêng về tiện dụng trên đường, và một túi đồ để thay đổi tại nơi làm việc. Đây là cách thực tế nhất để vừa giữ phong cách cá nhân, vừa không hy sinh an toàn trên chặng đường hằng ngày. Bạn có thể đọc thêm các bài thực tế khác về đi lại hằng ngày trong mục [chia sẻ]( {{ '/chia-se/' | relative_url }}) của trang.
 

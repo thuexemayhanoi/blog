@@ -27,7 +27,7 @@ Tráp đựng lễ vật thường là hộp gỗ hoặc khay tròn phủ vải 
 
 ## Chạy đoàn: đội hình và tín hiệu
 
-Đoàn tráp chạy theo hàng một, xe dẫn đầu là người thuộc lộ trình, các xe sau giữ khoảng cách hai ba thân xe đều nhau. Trước khi lăn bánh, thống nhất nhanh vài tín hiệu: xe trước bật xi nhan trái là chuẩn bị rẽ, giơ tay phải là dừng, ai hỏng xe thì bật đèn khẩn và cả đoàn vào lề. Không vượt xe trong đoàn, không lách ra khỏi hàng kể cả khi đường thoáng. Đi qua đèn đỏ, xe đầu dừng thì cả đoàn dừng, đừng vượt lên ghép vào đầu hàng chờ. Nhạc đoàn cưới nếu có loa thì chỉnh vừa nghe, to quá báo động cho người điều phối. Cả đoàn chỉ nhanh bằng xe chậm nhất, chấp nhận điều đó thay vì kéo giãn hàng.
+Đoàn tráp chạy theo hàng một, xe dẫn đầu là người thuộc lộ trình, các xe sau giữ khoảng cách hai ba thân xe đều nhau. Trước khi lăn bánh, [thống nhất nhanh vài tín hiệu](/kinh%20nghi%E1%BB%87m/2026/09/19/di-xe-may-theo-nhom-ban-be-ky-nang-phoi-hop/): xe trước bật xi nhan trái là chuẩn bị rẽ, giơ tay phải là dừng, ai hỏng xe thì bật đèn khẩn và cả đoàn vào lề. Không vượt xe trong đoàn, không lách ra khỏi hàng kể cả khi đường thoáng. Đi qua đèn đỏ, xe đầu dừng thì cả đoàn dừng, đừng vượt lên ghép vào đầu hàng chờ. Nhạc đoàn cưới nếu có loa thì chỉnh vừa nghe, to quá báo động cho người điều phối. Cả đoàn chỉ nhanh bằng xe chậm nhất, chấp nhận điều đó thay vì kéo giãn hàng.
 
 ## Khung giờ và đường di chuyển
 
@@ -43,7 +43,7 @@ Chiều muộn hoặc theo giờ đã chọn, đội tráp nhận lại tráp r�
 
 ## Xe máy cho đội tráp: thuê khi nhà không đủ xe
 
-Thực tế nhiều đội tráp lấy xe từ họ hàng bạn bè gom, nhưng các dịp cao điểm cuối tuần đẹp, xe trong nhà không đủ, và thuê theo đội là phương án gọn. Thuê cho đội tráp cần lưu ý: đặt sớm số xe cần, thống nhất cùng một kiểu xe hoặc cùng màu nếu có thể cho đoàn đẹp trong ảnh. Nhận xe từ tối hôm trước để sáng không phải làm thủ tục. Mỗi xe kiểm tra xăng, phanh, đèn trước khi về. Hỏi rõ cửa hàng về việc giao nhận theo nhóm, một số nơi hỗ trợ giao xe tập trung một điểm cho đoàn. Và cất số điện thoại của cửa hàng trong điện thoại, đoàn đông xe thì xác suất một xe trục trặc tăng theo số xe.
+Thực tế nhiều đội tráp lấy xe từ họ hàng bạn bè gom, nhưng các dịp cao điểm cuối tuần đẹp, xe trong nhà không đủ, và [thuê theo đội](/thue-xe/2026/09/30/thue-xe-may-cho-doan-nhom-o-ha-noi-can-chuan-bi-gi/) là phương án gọn. Thuê cho đội tráp cần lưu ý: đặt sớm số xe cần, thống nhất cùng một kiểu xe hoặc cùng màu nếu có thể cho đoàn đẹp trong ảnh. Nhận xe từ tối hôm trước để sáng không phải làm thủ tục. Mỗi xe kiểm tra xăng, phanh, đèn trước khi về. Hỏi rõ cửa hàng về việc giao nhận theo nhóm, một số nơi hỗ trợ giao xe tập trung một điểm cho đoàn. Và cất số điện thoại của cửa hàng trong điện thoại, đoàn đông xe thì xác suất một xe trục trặc tăng theo số xe.
 
 ## Vai trò từng người trong đoàn
 

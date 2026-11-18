@@ -25,7 +25,7 @@ Thời gian lý tưởng cho Ba Đình là nửa ngày: buổi sáng cho cụm d
 
 Từ cửa hàng tại 112 Nguyễn Văn Cừ, quận Long Biên, tuyến ngắn nhất là qua cầu Chương Dương: hết cầu chạy theo phố Trần Quang Khải, rẽ vào các trục Tràng Tiền hoặc Hàng Khay lên đường Hùng Vương, là đến khu Quảng trường Ba Đình. Toàn bộ quãng đường khoảng ba cây số, mười đến mười lăm phút ngoài giờ cao điểm.
 
-Tuyến thay thế đẹp hơn là đường Võ Nguyên Giáp: qua cầu Nhật Tân rồi theo đại lộ ven đê sông Hồng về hướng nam, tuyến đường này thẳng, thoáng, có tầm nhìn sông Hồng, đưa bạn đến khu vực phía đông Ba Đình. Tuyến này dài hơn nhưng ít đèn đỏ và ít kẹt xe, hợp với buổi sáng sớm.
+Tuyến thay thế đẹp hơn là đường Võ Nguyên Giáp: qua [cầu Nhật Tân](/du-lich/2026/10/04/den-cau-nhat-tan-bang-xe-may-duong-di-va-luu-y-chay-tren-cau/) rồi theo đại lộ ven đê sông Hồng về hướng nam, tuyến đường này thẳng, thoáng, có tầm nhìn sông Hồng, đưa bạn đến khu vực phía đông Ba Đình. Tuyến này dài hơn nhưng ít đèn đỏ và ít kẹt xe, hợp với buổi sáng sớm.
 
 Nếu xuất phát vào giờ cao điểm, cân nhắc chậm hơn mười phút so với dự kiến vì các trục nội đô quanh Hàng Khay và Tràng Tiền đông xe vào 07:30 đến 08:30 và 17:00 đến 19:00.
 
@@ -33,7 +33,7 @@ Nếu xuất phát vào giờ cao điểm, cân nhắc chậm hơn mười phút
 
 Cụm trung tâm gồm Quảng trường Ba Đình, Lăng Chủ tịch, Bảo tàng Hồ Chí Minh và Chùa Một Cột. Việc vào thăm Lăng có giờ quy định cụ thể trong buổi sáng và quy định an ninh nghiêm ngặt: không mang túi lớn, không mang đồ nguy hiểm, trang phục gọn gàng. Trước khi đi, kiểm tra giờ mở cửa của Lăng vì lịch thăm có thể thay đổi theo lịch nghi lễ.
 
-Hoàng thành Thăng Long ở phía đông Quảng trường, gồm Cột cờ Hà Nội và khu khảo cổ. Khu vực này chụp ảnh đẹp vào buổi chiều khi nắng xiên.
+[Hoàng thành Thăng Long](/du-lich/2026/09/28/kinh-nghiem-ghe-tham-hoang-thanh-thang-long-nua-ngay/) ở phía đông Quảng trường, gồm Cột cờ Hà Nội và khu khảo cổ. Khu vực này chụp ảnh đẹp vào buổi chiều khi nắng xiên.
 
 Chùa Trấn Quốc ở đầu đường Thanh Niên thuộc phía bắc quận, tách khỏi cụm trung tâm khoảng một cây số. Cách sắp xếp hợp lý: sáng thăm Lăng và Hoàng thành, trưa ăn uống quanh Phan Đình Phùng hoặc Trúc Bạch, chiều ghé chùa Trấn Quốc và kết thúc bằng vòng qua Hồ Tây lân cận.
 
@@ -43,7 +43,7 @@ Chùa Trấn Quốc ở đầu đường Thanh Niên thuộc phía bắc quận,
 
 Bãi gửi xe cho khách thăm Lăng nằm ở phía đường Điện Biên Phủ và Hoàng Hoa Thám, được đánh dấu rõ. Với bảo tàng, mỗi nơi có bãi gửi riêng tại cổng. Khi gửi xe, lấy vé và giữ vé cẩn thận; chụp ảnh biển số xe và vị trí bãi để nhận lại nhanh.
 
-Chùa Trấn Quốc nằm trên đường Thanh Niên hẹp, xe phải gửi ở các bãi ở đầu đường rồi đi bộ vào. Cuối tuần và ngày lễ, các bãi này rất đông, nên đi sớm buổi sáng. Chuẩn bị tiền lẻ vài nghìn đồng cho mỗi lượt gửi.
+[Chùa Trấn Quốc](/du-lich/2026/09/28/den-chua-tran-quoc-bang-xe-may-gui-xe-va-duong-di/) nằm trên đường Thanh Niên hẹp, xe phải gửi ở các bãi ở đầu đường rồi đi bộ vào. Cuối tuần và ngày lễ, các bãi này rất đông, nên đi sớm buổi sáng. Chuẩn bị tiền lẻ vài nghìn đồng cho mỗi lượt gửi.
 
 Một kinh nghiệm nhỏ: chụp lại biển báo giờ cấm dừng gần nơi bạn định để xe. Nhiều tuyến quanh Quảng trường có biển cấm theo khung giờ nghi lễ, và tấm ảnh giúp bạn nhớ kiểm tra lại khi ra lấy xe, tránh để xe quá giờ cấm. Các mẹo gửi xe chung cho mọi khu vực Hà Nội được tóm tắt trong chuyên mục [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }} ).
 

@@ -21,11 +21,15 @@ import sys
 import urllib.parse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-LINK = re.compile(r'\[([^\]\n]+)\]\(([^)\s]+)(?:\s+"[^"]*")?\)')
+LINK = re.compile(r'\[([^\]\n]+)\]\(((?:\{\{[^}]*\}\})|[^)\s]+)(?:\s+"[^"]*")?\)')
+LIQUID = re.compile(r"""^\{\{\s*['"]([^'"]+)['"]\s*\|\s*(?:relative_url|absolute_url)\s*\}\}$""")
 BASE = 'https://blog.thuexemaynguyentu.com'
 
 
 def internal(href):
+    m = LIQUID.match(href.strip())
+    if m:
+        href = m.group(1)
     if href.startswith(BASE):
         href = href[len(BASE):] or '/'
     return href if href.startswith('/') and not href.startswith('//') else None

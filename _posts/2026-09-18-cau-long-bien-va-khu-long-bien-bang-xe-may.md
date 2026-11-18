@@ -19,7 +19,7 @@ Cầu Long Biên được người Pháp xây dựng từ cuối thế kỷ 19, 
 
 Điều thú vị khi đi xe máy qua cầu là nhịp trải nghiệm thay đổi liên tục: mặt cầu bằng gỗ lát trên dầm thép, hai làn xe hẹp, và nhịp cầu nhún nhẹ theo tải trọng. Vài điều cần biết trước khi lên cầu:
 
-- Đường lên cầu nằm ở đầu đường Trần Nhật Duật phía bờ tây và đầu phố Chương Dương bên kia. Hãy xác định đúng lối lên theo hướng đi của mình.
+- [Đường lên cầu](/du-lich/2026/10/15/tu-pho-co-len-cau-long-bien-bang-xe-may-loi-len-cau-cho-long-bien-va-cho-dung-ch/) nằm ở đầu đường Trần Nhật Duật phía bờ tây và đầu phố Chương Dương bên kia. Hãy xác định đúng lối lên theo hướng đi của mình.
 - Làn xe hẹp và hai chiều, nên giữ tốc độ thấp và đi sát bên phải, tránh vượt xe trên cầu.
 - Kinh nghiệm dân gian của người Hà Nội là không nhìn xuống khe ván gỗ khi đang chạy, mà nhìn thẳng về phía trước. Cầu an toàn với hàng chục nghìn lượt xe mỗi ngày, chỉ cần đi đúng tốc độ.
 
@@ -43,7 +43,7 @@ Cách đầu cầu phía bờ đông không xa, chợ Long Biên là chợ đầ
 
 ## Khu Long Biên: từ Nguyễn Văn Cừ đến các đường ven sông
 
-Bờ đông của cầu Long Biên là quận Long Biên, nơi địa chỉ của Nguyễn Tú nằm trên đường Nguyễn Văn Cừ, con trục chính của khu. So với trung tâm, Long Biên rộng rãi và ít đông đúc, với hệ thống đường mới, các khu đô thị ven sông và nhiều không gian xanh ven đê.
+Bờ đông của cầu Long Biên là [quận Long Biên](/du-lich/long-bien/), nơi địa chỉ của Nguyễn Tú nằm trên đường Nguyễn Văn Cừ, con trục chính của khu. So với trung tâm, Long Biên rộng rãi và ít đông đúc, với hệ thống đường mới, các khu đô thị ven sông và nhiều không gian xanh ven đê.
 
 Vài trải nghiệm đáng đi trong khu:
 
@@ -67,7 +67,7 @@ Lịch trình ngược lại cũng hoạt động tốt nếu bạn thích ánh 
 
 ## Lưu ý khi đi xe máy ở khu vực này
 
-- Cầu Long Biên hẹp: không vượt xe, không dừng giữa cầu chụp ảnh. Nếu muốn dừng, hãy xuống hẳn hai đầu cầu hoặc các vị trí bãi đất ven sông an toàn.
+- Cầu Long Biên hẹp: không vượt xe, [không dừng giữa cầu chụp ảnh](/hoi-dap/2026/10/15/dung-xe-may-tren-cau-long-bien-de-chup-anh-quy-dinh-cam-dung-do-tren-cau-ap-dung/). Nếu muốn dừng, hãy xuống hẳn hai đầu cầu hoặc các vị trí bãi đất ven sông an toàn.
 - Khu chợ buổi sáng đông đặc: nếu bạn mới lái xe ở Hà Nội, hãy đi chậm và chấp nhận đi bộ đẩy xe vài đoạn.
 - Đường đê: kiểm tra tình trạng tuyến trước khi đi dài, vài đoạn cấm hoặc thi công thay đổi theo thời điểm.
 - Mùa mưa lũ: bãi sông và vài đoạn đường ven có thể ngập hoặc lầy, tránh đi sát mép bãi.

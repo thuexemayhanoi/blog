@@ -29,7 +29,7 @@ Vị trí tồi hơn cả kẹp giữa hai chân trên quãng dài là để bì
 
 ## Dây buộc và điểm neo
 
-Dây thun bện rộng loại to là lựa chọn số một cho việc chở nước, vì nó giữ chặt mà lại đàn hồi theo dao động nhỏ của nước, không rít cứng như dây dù buộc đồ cứng. Hai vòng chéo qua thân bình và hai vòng ngang, mỗi vòng cột vào một điểm neo thật của khung xe như càng sau, khung phía dưới yên, hoặc tay xách. Điểm neo vào plastic mỏng của tấm ốp là không phải điểm neo, bị tuột là bình rơi.
+Dây thun bện rộng loại to là lựa chọn số một cho việc chở nước, vì nó giữ chặt mà lại đàn hồi theo dao động nhỏ của nước, không rít cứng như dây dù buộc đồ cứng. Hai vòng chéo qua thân bình và hai vòng ngang, mỗi vòng cột vào một [điểm neo thật của khung xe](/ky-nang/2026-09-29/buoc-do-sau-xe-may-dung-cach/) như càng sau, khung phía dưới yên, hoặc tay xách. Điểm neo vào plastic mỏng của tấm ốp là không phải điểm neo, bị tuột là bình rơi.
 
 Buộc xong, thử bằng cách lắc mạnh thân xe khi xe đứng: bình không xê dịch, dây không chùng. Trước mỗi chặng dừng, vào quán hay chốt đường, kiểm tra lại một vòng, dây thun chùng đi vài phân sau mười cây số chạy là chuyện thường.
 

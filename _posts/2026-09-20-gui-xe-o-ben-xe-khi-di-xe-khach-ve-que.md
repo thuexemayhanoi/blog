@@ -17,7 +17,7 @@ campaign: hanoi-seo-480
 
 Bến xe như Giáp Bát, Mỹ Đình, Gia Lâm đều là điểm tập kết của nhiều tuyến xe khách, người ở Long Biên, Hoàng Mai hay Bắc Từ Liêm đều tìm được tuyến phù hợp mà không cần chạy vòng vào trung tâm. Gửi xe ở ngay bến nghĩa là bạn tự chủ giờ đi, không phụ thuộc ai đưa đón, và hành lý lên xuống chỉ một lần duy nhất. Với ai hay đi quê đột xuất giữa tuần, đây là cách gọn nhất so với việc để xe ở nhà rồi sáng sớm gọi xe ôm ra bến với hai cái vali. Đổi lại, bạn phải chấp nhận việc xe đứng yên ngoài trời nhiều ngày liên tục, và phải chọn được bãi gửi đáng tin.
 
-Không phải bãi gửi nào trong khu bến cũng như nhau. Bãi chính của bến xe thường có Camera, người trực ca đêm và vé in ra, các bãi vỉa hè lân cận do tư nhân tự mở giá rẻ hơn nhưng kiểm soát lỏng hơn. Với thời gian gửi một hai đêm, khác biệt không lớn. Với năm bảy ngày hay cả tuần dịp Tết, nên chọn bãi có người trực suốt ngày đêm, xe được xếp trong khuôn viên có rào chắn, và quan trọng nhất là nơi đưa phiếu gửi, nhận vé có mộc dấu hoặc mã số xe ghi rõ trên biên lai.
+Không phải bãi gửi nào trong khu bến cũng như nhau. Bãi chính của bến xe thường có Camera, người trực ca đêm và vé in ra, [các bãi vỉa hè lân cận](/ky-nang/2026/10/10/gui-xe-o-ben-xe-khach-phan-biet-bai-trong-va-bai-lan-can/) do tư nhân tự mở giá rẻ hơn nhưng kiểm soát lỏng hơn. Với thời gian gửi một hai đêm, khác biệt không lớn. Với năm bảy ngày hay cả tuần dịp Tết, nên chọn bãi có người trực suốt ngày đêm, xe được xếp trong khuôn viên có rào chắn, và quan trọng nhất là nơi đưa phiếu gửi, nhận vé có mộc dấu hoặc mã số xe ghi rõ trên biên lai.
 
 ## Chuẩn bị xe trước ngày đi
 
@@ -41,7 +41,7 @@ Với ai về quê dịp Tết, gửi xe ở bến gần như luôn đông và g
 
 ## Nhận lại xe sau nhiều ngày
 
-Xe đứng yên năm bảy ngày sẽ có vài hiện tượng cần biết để không hoảng. Nổ máy lần đầu có thể khó hơn bình thường một chút, nhấc cần khởi động hoặc bấm đề hai ba nhịp, để máy nổ ở chế độ không tải một hai phút cho dầu bôi trơn chạy đều lại. Nếu xe số để số, nhớ về mo trước khi nhấn máy. Phanh đĩa sau thời gian đứng có thể kêu nhẹ và cứng vài km đầu, phanh tang trống thì hết nhanh hơn. Kiểm tra lại áp suất lốp bằng cách bóp hai bên mâm trước khi chạy ra đường lớn, và chạy chậm vài trăm mét đầu để cảm lại tay lái.
+[Xe đứng yên năm bảy ngày](/xe-may/2026/10/10/xe-may-de-lau-khong-chay-kiem-tra-truoc-khi-no-may/) sẽ có vài hiện tượng cần biết để không hoảng. Nổ máy lần đầu có thể khó hơn bình thường một chút, nhấc cần khởi động hoặc bấm đề hai ba nhịp, để máy nổ ở chế độ không tải một hai phút cho dầu bôi trơn chạy đều lại. Nếu xe số để số, nhớ về mo trước khi nhấn máy. Phanh đĩa sau thời gian đứng có thể kêu nhẹ và cứng vài km đầu, phanh tang trống thì hết nhanh hơn. Kiểm tra lại áp suất lốp bằng cách bóp hai bên mâm trước khi chạy ra đường lớn, và chạy chậm vài trăm mét đầu để cảm lại tay lái.
 
 Trước khi lăn bánh, đối chiếu hiện trạng xe với các tấm ảnh bạn chụp lúc giao: vết xước mới, biển bị cong, cốp bị mở dấu vết. Nếu có sai khác rõ ràng, báo ngay cho người trực bãi khi xe vẫn còn trong khuôn viên, thay vì về tới nhà rồi mới gọi lại. Nhận lại phiếu của mình, thanh toán phần còn lại nếu gửi theo hình thức trả sau, và xin biên lai thanh toán nếu số tiền lớn hơn thỏa thuận ban đầu.
 

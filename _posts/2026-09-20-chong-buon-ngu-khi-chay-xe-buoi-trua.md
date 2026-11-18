@@ -23,7 +23,7 @@ Nghiên cứu về giấc ngủ chia nhịp ngày của con người thành các
 
 Cơ thể báo trước trước khi mí mắt sập hẳn. Các dấu hiệu theo thứ tự thường gặp: ngáp liên tục, mắt khô và châm chích, quên đoạn đường vừa chạy qua, không nhớ đèn đỏ vừa qua hay không, tay lái nặng và cử động chậm, và suy nghĩ bắt đầu lan man không tập trung vào đường. Khi xuất hiện hai dấu hiệu trở lên, thời gian quyết định của bạn chỉ còn tính bằng phút, không phải bằng chặng đường.
 
-Dấu hiệu dễ bị bỏ qua nhất là cảm giác ấm áp dễ chịu khi chạy giữa nắng trưa, không gió, người êm à như được ru. Đây thực chất là giai đoạn đầu của mất nước và say nắng nhẹ, nhiều người chủ quan tưởng là sướng, đến khi nhận ra thì tay đã nắm nhầm côn thay cho phanh.
+Dấu hiệu dễ bị bỏ qua nhất là cảm giác ấm áp dễ chịu khi chạy giữa nắng trưa, không gió, người êm à như được ru. Đây thực chất là giai đoạn đầu của [mất nước và say nắng nhẹ](/ky-nang/2026-09-29/troi-nang-gat-va-say-nang-khi-chay-xe/), nhiều người chủ quan tưởng là sướng, đến khi nhận ra thì tay đã nắm nhầm côn thay cho phanh.
 
 ## Biện pháp có thật: dừng và ngủ ngắn
 
@@ -35,7 +35,7 @@ Với người chạy xe thuê làm việc cả ngày, hãy gộp giấc ngủ n
 
 Bữa trưa quyết định buổi chiều. Ăn quá no, nhất là cơm trắng nhiều kèm đồ chiên, khiến cơn buồn ngủ nặng nhất. Ăn vừa phải, thêm rau và đạm nhẹ, hạn chế món nhiều dầu vào ngày phải chạy đường dài buổi chiều. Sau bữa trưa, đừng lên xe ngay, đi bộ năm đến mười phút giúp tiêu hóa bớt và người nhẹ hơn hẳn khi ngồi lên yên.
 
-Nước đủ là điều kiện của sự tỉnh táo. Người mất nước nhẹ đã giảm khả năng tập trung đáng kể, và giữa trưa nóng bạn mất nước qua mồ hôi mà không nhận ra vì gió làm bay mồ hôi ngay. Uống nước từng ngụm nhỏ đều đặn, mang theo một chai lọc, và bổ sung chút muối nếu chạy nhiều giờ nắng, chén muối chua hoặc ly nước chanh mặn là lựa chọn của nhiều tài xế đường dài.
+Nước đủ là điều kiện của sự tỉnh táo. Người mất nước nhẹ đã giảm khả năng tập trung đáng kể, và giữa trưa nóng bạn mất nước qua mồ hôi mà không nhận ra vì gió làm bay mồ hôi ngay. [Uống nước từng ngụm nhỏ đều đặn](/ky-nang/2026/10/04/uong-nuoc-dung-cach-khi-chay-xe-troi-nong/), mang theo một chai lọc, và bổ sung chút muối nếu chạy nhiều giờ nắng, chén muối chua hoặc ly nước chanh mặn là lựa chọn của nhiều tài xế đường dài.
 
 Cà phê và trà đặc có tác dụng thật nhưng cần dùng đúng lúc: uống ngay sau bữa trưa để chất kích thích kịp ngấm trước khi lên xe, và không coi đó là giấy phép chạy qua cơn buồn ngủ. Chất kích hoạt chỉ che tín hiệu mệt, không trả lại phản xạ.
 
@@ -49,7 +49,7 @@ Mở nhạc to, hát, tát vào mặt, nhai kẹo cao su, mở mũ bảo hiểm 
 
 Người chủ động không đối phó với cơn buồn ngủ mà tránh nó. Nếu lịch việc cho phép, chạy các chặng đường dài buổi sáng sớm khi đầu óc tỉnh nhất, gộp việc gần vào khung trưa, và giữ các chặng xa còn lại sau giấc ngủ ngắn. Tránh lên lịch họp hay nhận hàng lúc một giờ đến hai giờ rưỡi chiều, khung giờ mà cả bạn và người khác đều chậm.
 
-Ngủ đêm trước đủ bảy tiếng là nền móng của mọi kế hoạch. Một đêm thức khuya hai tiếng có thể phá vỡ toàn bộ lịch trình ngày hôm sau, vì cơn trưa đến sớm và dữ dội hơn gấp bội. Nếu biết đêm sau phải dậy sớm đi xa, tối hôm trước cấm mọi màn hình thêm một tiếng.
+Ngủ đêm trước đủ bảy tiếng là nền móng của mọi kế hoạch. [Một đêm thức khuya hai tiếng](/ky-nang/2026-09-29-chay-xe-khi-dang-met-hay-thieu-ngu-rui-ro/) có thể phá vỡ toàn bộ lịch trình ngày hôm sau, vì cơn trưa đến sớm và dữ dội hơn gấp bội. Nếu biết đêm sau phải dậy sớm đi xa, tối hôm trước cấm mọi màn hình thêm một tiếng.
 
 
 ## Dừng nghỉ ở đâu và nghỉ thế nào trên đường

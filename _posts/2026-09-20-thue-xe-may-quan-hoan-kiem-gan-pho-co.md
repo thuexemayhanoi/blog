@@ -15,11 +15,11 @@ campaign: hanoi-seo-480
 
 ## Đặc thù di chuyển trong phố cổ
 
-Phố cổ Hà Nội là mạng lưới các con phố nhỏ mang tên hàng hóa xưa: Hàng Bông, Hàng Đào, Hàng Gà, Lãn Ông. Đường hẹp, vỉa hè thường được dùng cho kinh doanh, nên dòng xe máy và người đi bộ chia sẻ không gian khá sát nhau. Tốc độ trung bình ở đây thấp, và điều quan trọng nhất không phải chạy nhanh mà là chạy đều và quan sát tốt.
+[Phố cổ Hà Nội](/du-lich/pho-co/) là mạng lưới các con phố nhỏ mang tên hàng hóa xưa: Hàng Bông, Hàng Đào, Hàng Gà, Lãn Ông. Đường hẹp, vỉa hè thường được dùng cho kinh doanh, nên dòng xe máy và người đi bộ chia sẻ không gian khá sát nhau. Tốc độ trung bình ở đây thấp, và điều quan trọng nhất không phải chạy nhanh mà là chạy đều và quan sát tốt.
 
 Các ngã tư trong phố cổ phần lớn không có đèn tín hiệu. Cách người địa phương xử lý là giảm tốc, nhích dần và giao tiếp bằng mắt, còi nhẹ hoặc bàn tay giơ lên. Nếu bạn đi chậm và giữ hướng ổn định, người khác sẽ tự né bạn. Điều cần tránh là phanh gấp hoặc đổi hướng đột ngột giữa dòng người, vì các bước đi bộ của khách tham quan thường không báo trước.
 
-Khu hồ Gươm và các phố xung quanh vào cuối tuần chuyển thành phố đi bộ. Đây là dịp không gian quanh hồ thực sự thuộc về người đi bộ, và xe máy không được lưu thông trong vùng cấm. Nếu bạn thuê xe và định tham gia không khí phố đi bộ, hãy gửi xe ở các bãi quanh mép khu vực cấm rồi đi bộ vào trong.
+Khu hồ Gươm và các phố xung quanh vào cuối tuần chuyển thành phố đi bộ. Đây là dịp không gian quanh hồ thực sự thuộc về người đi bộ, và xe máy không được lưu thông trong vùng cấm. Nếu bạn thuê xe và định tham gia không khí phố đi bộ, hãy gửi xe ở [các bãi quanh mép khu vực cấm](/du-lich/2026/10/09/pho-di-bo-ho-guom-cuoi-tuan-xe-may-gui-o-dau/) rồi đi bộ vào trong.
 
 ## Nên thuê xe ở đâu khi ở Hoàn Kiếm
 
@@ -39,7 +39,7 @@ Với người thích khám phá văn hóa, hướng nam dẫn đến các phố
 
 ## Gửi xe và các chi phí nhỏ quanh phố cổ
 
-Trong khu phố cổ, hầu hết các điểm tham quan, chợ và trung tâm thương mại đều có bãi gửi xe. Mức phí gửi xe máy thường dao động từ 5.000đ đến 10.000đ một lượt tùy khu vực và thời điểm. Khi gửi xe, lấy vé và chụp ảnh vị trí xe để dễ tìm lại, vì các bãi lớn trong giờ đông có thể dồn xe thành nhiều tầng.
+Trong khu phố cổ, hầu hết các điểm tham quan, chợ và trung tâm thương mại đều có bãi gửi xe. [Mức phí gửi xe máy](/du-lich/2026/09/28/gui-xe-quanh-ho-guom-gia-va-vi-tri/) thường dao động từ 5.000đ đến 10.000đ một lượt tùy khu vực và thời điểm. Khi gửi xe, lấy vé và chụp ảnh vị trí xe để dễ tìm lại, vì các bãi lớn trong giờ đông có thể dồn xe thành nhiều tầng.
 
 Một lưu ý đặc thù của phố cổ là vỉa hè và lòng đường được lấp đầy gần như mọi giờ trong ngày. Nếu bạn dừng xe mua đồ ăn hoặc chụp ảnh, hãy chọn vị trí sát lề, tắt máy và không chắn lối đi của người bán hàng rong. Thói quen nhỏ này giúp bạn tránh các tình huống khó chịu và giữ được không khí dễ chịu chung của khu phố.
 

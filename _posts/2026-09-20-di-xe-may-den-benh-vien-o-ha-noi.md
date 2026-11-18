@@ -16,7 +16,7 @@ campaign: hanoi-seo-480
 
 ## Chọn giờ đi phù hợp với lịch khám
 
-Mỗi bệnh viện có quy trình tiếp nhận và lịch khám riêng, thay đổi theo khoa, theo ngày và theo từng giai đoạn, nên cách đúng nhất là tra hướng dẫn hiện hành của đúng bệnh viện bạn sẽ đến: giờ làm việc của khoa, khung giờ tiếp nhận, và quy định về hồ sơ. Sau khi đã rõ các mốc đó, hãy đi sớm hơn giờ hẹn một khoảng đủ cho việc làm thủ tục và tìm chỗ gửi xe, vì quanh các bệnh viện lớn, khoảng dự trữ thời gian luôn đáng giá hơn tốc độ trên đường. Không có khung giờ nào chắc chắn vắng người cho mọi bệnh viện; thứ bạn kiểm soát được là thông tin của nơi mình đến và mức dư thời gian của chính mình.
+Mỗi bệnh viện có quy trình tiếp nhận và lịch khám riêng, thay đổi theo khoa, theo ngày và theo từng giai đoạn, nên cách đúng nhất là tra hướng dẫn hiện hành của đúng bệnh viện bạn sẽ đến: giờ làm việc của khoa, khung giờ tiếp nhận, và quy định về hồ sơ. Sau khi đã rõ các mốc đó, hãy đi sớm hơn giờ hẹn một khoảng đủ cho việc làm thủ tục và [tìm chỗ gửi xe](/ky-nang/2026/10/05/gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-diem/), vì quanh các bệnh viện lớn, khoảng dự trữ thời gian luôn đáng giá hơn tốc độ trên đường. Không có khung giờ nào chắc chắn vắng người cho mọi bệnh viện; thứ bạn kiểm soát được là thông tin của nơi mình đến và mức dư thời gian của chính mình.
 
 ## Chuẩn bị giấy tờ và vật dụng cần thiết trước khi lên xe
 
@@ -28,7 +28,7 @@ Các bệnh viện lớn ở Hà Nội thường có cổng chính đón lượn
 
 ## Gửi xe quanh bệnh viện: điều nên biết
 
-Khu vực gửi xe quanh các bệnh viện thường có nhiều lựa chọn, từ bãi gửi trong khuôn viên bệnh viện đến các bãi dịch vụ xung quanh. Giá gửi, vị trí bãi và các cổng được mở cho xe máy là thông tin thay đổi theo từng bệnh viện và từng thời điểm, nên hãy tra thông tin chính thức của bệnh viện về lối vào và gửi xe trước khi đi, và hỏi giá trước khi giao xe ở bất kỳ bãi nào. Nhớ lấy vé và cất vào cùng túi giấy tờ để không phải lục tìm lúc ra về, khi tay đang xách đồ và dắt người thân. Nếu đi nhiều ngày liền, hãy gửi ở bãi có mái che để tránh nắng mưa làm hỏng đồ để trên xe. Khi đỗ trong bãi đông, chú ý gập gương và khóa cổ xe như mọi nơi khác, vì khu vực bệnh viện lưu lượng người lạ rất lớn. Kinh nghiệm gửi xe và giữ vé được trình bày chi tiết hơn trong bài về cách quản lý vé gửi xe, một thói quen nhỏ nhưng rất đáng giá ở những nơi đông người.
+Khu vực gửi xe quanh các bệnh viện thường có nhiều lựa chọn, từ bãi gửi trong khuôn viên bệnh viện đến các bãi dịch vụ xung quanh. Giá gửi, vị trí bãi và các cổng được mở cho xe máy là thông tin thay đổi theo từng bệnh viện và từng thời điểm, nên hãy tra thông tin chính thức của bệnh viện về lối vào và gửi xe trước khi đi, và hỏi giá trước khi giao xe ở bất kỳ bãi nào. Nhớ lấy vé và cất vào cùng túi giấy tờ để không phải lục tìm lúc ra về, khi tay đang xách đồ và dắt người thân. Nếu đi nhiều ngày liền, hãy gửi ở bãi có mái che để tránh nắng mưa làm hỏng đồ để trên xe. Khi đỗ trong bãi đông, chú ý gập gương và khóa cổ xe như mọi nơi khác, vì khu vực bệnh viện lưu lượng người lạ rất lớn. Kinh nghiệm gửi xe và giữ vé được trình bày chi tiết hơn trong bài về [cách quản lý vé gửi xe](/kinh%20nghi%E1%BB%87m/2026/09/19/the-ve-gui-xe-khi-di-xe-may-thue/), một thói quen nhỏ nhưng rất đáng giá ở những nơi đông người.
 
 ## Nếu người thân đi cùng không ngồi vững trên xe
 
@@ -36,7 +36,7 @@ Có những tình huống người cần đi khám không ngồi vững trên xe
 
 ## Giữ khoảng cách với các phương tiện đặc biệt
 
-Quanh bệnh viện, bạn sẽ gặp xe cấp cứu ra vào với tần suất cao hơn mọi khu vực khác trong thành phố. Khi có tín hiệu của xe ưu tiên, hãy nhận biết sớm qua còi và đèn báo, giảm tốc độ và nhường đường khẩn trương nhưng bình tĩnh, theo biển báo, làn đường và người điều khiển giao thông tại chỗ; không chen lên phía trước, không cắt ngang hướng đi của xe cấp cứu, và tránh mọi thao tác gấp có thể tạo thêm nguy hiểm mới cho người xung quanh. Trong bãi gửi, đừng đỗ chắn các lối dành riêng cho xe cấp cứu dù chỉ vài phút, vì những phút đó có thể ảnh hưởng trực tiếp đến người bệnh khác. Khi ra về giờ đông, chú ý các ca bệnh chuyển tuyến được khiêng qua lối đi giữa dòng xe; giảm tốc và nhường đường là cách ứng xử đúng ở khu vực này. Thói quen quan sát xa hơn bình thường ở quanh cổng bệnh viện giúp bạn phản ứng kịp với những tình huống bất ngờ.
+Quanh bệnh viện, bạn sẽ gặp xe cấp cứu ra vào với tần suất cao hơn mọi khu vực khác trong thành phố. Khi có [tín hiệu của xe ưu tiên](/kinh%20nghi%E1%BB%87m/2026/09/19/nhuong-duong-cho-xe-uu-tien/), hãy nhận biết sớm qua còi và đèn báo, giảm tốc độ và nhường đường khẩn trương nhưng bình tĩnh, theo biển báo, làn đường và người điều khiển giao thông tại chỗ; không chen lên phía trước, không cắt ngang hướng đi của xe cấp cứu, và tránh mọi thao tác gấp có thể tạo thêm nguy hiểm mới cho người xung quanh. Trong bãi gửi, đừng đỗ chắn các lối dành riêng cho xe cấp cứu dù chỉ vài phút, vì những phút đó có thể ảnh hưởng trực tiếp đến người bệnh khác. Khi ra về giờ đông, chú ý các ca bệnh chuyển tuyến được khiêng qua lối đi giữa dòng xe; giảm tốc và nhường đường là cách ứng xử đúng ở khu vực này. Thói quen quan sát xa hơn bình thường ở quanh cổng bệnh viện giúp bạn phản ứng kịp với những tình huống bất ngờ.
 
 ## Trở về: khi người vừa khám xong thường mệt
 

@@ -29,9 +29,9 @@ Với các hộ dùng bếp gas nhỏ để nấu ăn, phương án an toàn th�
 
 ## Xăng dự phòng và các vật dễ cháy khác
 
-Can xăng dự phòng trên xe máy là câu hỏi riêng và cũng có những điểm cần biết. Xăng bay hơi mạnh, hơi xăng tích trong can nhựa đậy hở là hỗn hợp dễ cháy nổ, và can nhựa mỏng rung trên xe máy hàng giờ rất dễ nứt đường hàn đáy. Nếu buộc phải mang xăng dự phòng cho một chuyến đi vùng sâu, dùng can nhựa chuyên dụng loại dày có van thông khí, đổ chỉ tối thiểu, để ở điểm thấp nhất và cách xa máy nhất có thể, và không bao giờ để can trong cốp xe ga cạnh máy điện.
+[Can xăng dự phòng trên xe máy](/kinh%20nghi%E1%BB%87m/2026/09/19/mang-can-xang-du-phong-duoc-khong/) là câu hỏi riêng và cũng có những điểm cần biết. Xăng bay hơi mạnh, hơi xăng tích trong can nhựa đậy hở là hỗn hợp dễ cháy nổ, và can nhựa mỏng rung trên xe máy hàng giờ rất dễ nứt đường hàn đáy. Nếu buộc phải mang xăng dự phòng cho một chuyến đi vùng sâu, dùng can nhựa chuyên dụng loại dày có van thông khí, đổ chỉ tối thiểu, để ở điểm thấp nhất và cách xa máy nhất có thể, và không bao giờ để can trong cốp xe ga cạnh máy điện.
 
-Các vật dễ cháy khác thường hay bị coi nhẹ: bình xịt dưỡng tóc hoặc thuốc diệt côn trùng dưới áp suất, bị nắng nóng trong cốp có thể nổ vỡ; chai rượu mạnh; dầu hỏa cho bếp; và pin sạc dự phòng chất lượng kém chèn sát máy nóng. Cốp xe ga đóng kín dưới nắng trưa đạt nhiệt độ cao bất ngờ, là lò ủ cho mọi vật nhạy nhiệt này.
+Các vật dễ cháy khác thường hay bị coi nhẹ: bình xịt dưỡng tóc hoặc thuốc diệt côn trùng dưới áp suất, bị nắng nóng trong cốp có thể nổ vỡ; chai rượu mạnh; dầu hỏa cho bếp; và pin sạc dự phòng chất lượng kém chèn sát máy nóng. [Cốp xe ga đóng kín dưới nắng trưa](/xe-may/2026/10/11/do-khong-nen-de-trong-cop-xe-ga-khi-do-nang-nong/) đạt nhiệt độ cao bất ngờ, là lò ủ cho mọi vật nhạy nhiệt này.
 
 ## Quy định và trách nhiệm khi đi xe thuê
 

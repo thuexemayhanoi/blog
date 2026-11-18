@@ -15,7 +15,7 @@ Khu Hoàn Kiếm là trái tim của Hà Nội: hồ nước nằm giữa lòng 
 
 ## Vì sao Hoàn Kiếm là điểm đến không thể bỏ qua
 
-Hồ Hoàn Kiếm nhỏ nhưng chứa đựng hình ảnh đặc trưng nhất của Hà Nội: tháp Rúa lặng lẽ giữa hồ, cầu Thê Húc đỏ son dẫn vào đền Ngọc Sơn, và vòng hồ trang trí bởi hàng liễu rủ. Quanh hồ là các cụm phố cổ tồn tại hàng trăm năm, nơi mỗi con phố từng gắn với một mặt hàng riêng, từ giấy, bạc đến tơ lụa. Gần đó là Nhà hát Lớn và Bảo tàng Lịch sử Quốc gia, hai công trình kiến trúc mang dấu ấn thời gian.
+Hồ Hoàn Kiếm nhỏ nhưng chứa đựng hình ảnh đặc trưng nhất của Hà Nội: tháp Rúa lặng lẽ giữa hồ, cầu Thê Húc đỏ son dẫn vào đền Ngọc Sơn, và vòng hồ trang trí bởi hàng liễu rủ. Quanh hồ là [các cụm phố cổ](/du-lich/pho-co/) tồn tại hàng trăm năm, nơi mỗi con phố từng gắn với một mặt hàng riêng, từ giấy, bạc đến tơ lụa. Gần đó là Nhà hát Lớn và Bảo tàng Lịch sử Quốc gia, hai công trình kiến trúc mang dấu ấn thời gian.
 
 Đi xe máy quanh khu này, bạn có thể dừng lại bất cứ nơi đâu muốn: một góc ảnh đẹp bên cầu Thê Húc, một quán cà phê tầng cao nhìn xuống hồ, hay một tiệm bánh trên phố cổ. Đó là lý do xe máy vẫn là phương tiện được nhiều du khách lựa chọn cho khu trung tâm.
 
@@ -34,7 +34,7 @@ Một lưu ý về giờ cao điểm: từ 7 giờ đến 8 giờ 30 sáng và 1
 
 Vào tối thứ Sáu, thứ Bảy và Chủ nhật, các tuyến phố quanh hồ được chặn để dành riêng cho người đi bộ. Đây là một trong những hoạt động văn hóa đặc sắc nhất của Hà Nội: đường phố biến thành không gian mở với nhạc đường phố, trò chơi dân gian, biểu diễn nghệ thuật và rất đông người dân dạo bước.
 
-Điều này đồng nghĩa xe máy không vào được khu vực bị chặn, và bạn cần gửi xe ở các bãi ngoài rìa. Các bãi gửi lớn thường nằm ở đầu các tuyến phố dẫn vào khu đi bộ. Vài gợi ý khi đi phố đi bộ:
+Điều này đồng nghĩa xe máy không vào được khu vực bị chặn, và bạn cần [gửi xe ở các bãi ngoài rìa](/du-lich/2026/10/09/pho-di-bo-ho-guom-cuoi-tuan-xe-may-gui-o-dau/). Các bãi gửi lớn thường nằm ở đầu các tuyến phố dẫn vào khu đi bộ. Vài gợi ý khi đi phố đi bộ:
 
 - Đến sớm một chút để dễ tìm chỗ gửi xe, vì sau 19 giờ các bãi quanh hồ thường đầy.
 - Ghi nhớ hoặc chụp lại vị trí bãi gửi, vì các con phố quanh khu nhìn khá giống nhau trong đêm.
@@ -44,7 +44,7 @@ Vào tối thứ Sáu, thứ Bảy và Chủ nhật, các tuyến phố quanh h�
 
 Gửi xe là bài toán thực tế nhất khi khám phá Hoàn Kiếm bằng xe máy. Vài nguyên tắc giúp bạn đỡ mất thời gian:
 
-- Trong giờ hành chính ngày thường, nhiều bãi gửi nằm trong các ngõ phố cổ và cạnh trường học, văn phòng quanh hồ. Phí gửi thay đổi tùy vị trí và thời điểm.
+- Trong giờ hành chính ngày thường, nhiều bãi gửi nằm trong các ngõ phố cổ và cạnh trường học, văn phòng quanh hồ. [Phí gửi thay đổi tùy vị trí](/du-lich/2026/09/28/gui-xe-quanh-ho-guom-gia-va-vi-tri/) và thời điểm.
 - Cuối tuần buổi tối, ưu tiên các bãi ở rìa khu phố đi bộ như đã nói ở trên.
 - Luôn rà lại khóa cổ và khóa bánh trước khi rời xe, và không để đồ giá trị trong cốp.
 - Nếu chỉ dừng vài phút chụp ảnh quanh hồ, vẫn nên gửi xe đúng quy định thay vì để tạm ven đường, vì khu này được quản lý chặt.
