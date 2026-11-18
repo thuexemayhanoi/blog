@@ -10,6 +10,8 @@ Quy tắc (đúng quy tắc liên kết nội bộ của chủ website):
   R3  Đích là đường dẫn nội bộ (/...), tồn tại trong bản build (--site), không phải chính bài, không phải URL RETIRED.
   R4  Sau khi áp dụng: mỗi đoạn văn có tối đa 1 liên kết nội bộ; không đích nào xuất hiện 2 lần trong bài; không anchor trùng nhau.
   R5  Anchor dài 2–9 từ, không phải nguyên văn tiêu đề trang đích dài (tránh nhồi exact-match).
+  R0  Chỉ bài legacy KHÔNG có data/qa/<ID>.json (khóa bản vá phải trùng article_id thật của tệp); bài có evidence QA bị từ chối —
+      sửa bài PUBLISHED có evidence chỉ qua scripts/factory/revise-published.py (AGENTS.md).
 Thoát 0 khi mọi bài PASS; in JSON kết quả. --apply ghi tệp (chỉ khi mọi bài PASS).
 """
 import argparse
@@ -54,12 +56,31 @@ def permalink(fm):
     return m.group(1).strip('"\'') if m else ''
 
 
-def check_one(aid, patch, site, retired):
+def article_id_of(rel, fm, path_to_id):
+    m = re.search(r'^article_id:\s*(\S+)', fm, re.M)
+    return (m.group(1).strip('"\'') if m else '') or path_to_id.get(rel, '')
+
+
+def check_one(aid, patch, site, retired, path_to_id):
     errs = []
-    path = os.path.join(ROOT, patch['file'])
+    rel = os.path.normpath(patch['file']).replace(os.sep, '/')
+    path = os.path.join(ROOT, rel)
+    if not rel.startswith('_posts/') or not os.path.isfile(path):
+        return ['R0: file phải là một bài có thật trong _posts/: %s' % patch['file']], '', []
     with open(path, encoding='utf-8') as f:
         text = f.read()
     fm, body = split_fm(text)
+    # R0: chỉ bài KHÔNG có evidence QA (legacy) mới được sửa trực tiếp; bài có data/qa/<ID>.json phải đi qua revise-published.py
+    real_id = article_id_of(rel, fm, path_to_id)
+    if real_id and real_id != aid:
+        errs.append('R0: khóa bản vá %s khác article_id thật của tệp (%s)' % (aid, real_id))
+    if not real_id:
+        errs.append('R0: không xác định được article_id của tệp (front matter/matrix)')
+    for cand in {aid, real_id} - {''}:
+        if os.path.isfile(os.path.join(ROOT, 'data', 'qa', cand + '.json')):
+            errs.append('R0: %s có evidence QA (data/qa/%s.json) — không sửa trực tiếp, chỉ qua revise-published.py' % (cand, cand))
+    if errs:
+        return errs, '', []
     self_url = permalink(fm)
     spans = []
     new_body = body
@@ -134,9 +155,13 @@ def main():
         for r in csv.DictReader(f):
             if r['status'] == 'RETIRED':
                 retired.add(r['old_url'])
+    path_to_id = {}
+    with open(os.path.join(ROOT, 'data', 'content-matrix.csv'), encoding='utf-8', newline='') as f:
+        for r in csv.DictReader(f):
+            path_to_id[r['output_path']] = r['id']
     out, ok, writes = {}, True, []
     for aid, patch in sorted(data['patches'].items()):
-        errs, new_text, added = check_one(aid, patch, a.site, retired)
+        errs, new_text, added = check_one(aid, patch, a.site, retired, path_to_id)
         out[aid] = {'pass': not errs, 'errors': errs, 'links_added': [{'anchor': x, 'target': y} for x, y in added]}
         ok = ok and not errs
         writes.append((patch['file'], new_text))

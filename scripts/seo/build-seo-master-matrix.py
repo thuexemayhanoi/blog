@@ -452,7 +452,7 @@ def main():
             'search_intent': r['search_intent'],
             'title': h.get('title', ''),
             'meta_description': h.get('meta', ''),
-            'h1': '=TITLE' if (h1 and h1 == title_src) else h1,
+            'h1': 'SAME_AS_TITLE' if (h1 and h1 == title_src) else h1,
             'word_count': r['words'],
             'content_quality_findings': ';'.join(findings),
             'internal_links': 'body=%s inbound=%s' % (r['body_internal_links'] or '0', r['inbound_links_html'] or '0'),
