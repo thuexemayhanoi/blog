@@ -19,9 +19,9 @@ So sánh giá thuê xe số với xe ga thế nào để chọn đúng dòng xe 
 
 Xe số Honda Wave có mức tham khảo 150.000 đồng mỗi ngày. Nhóm xe ga nhỏ như Honda Click hay Yamaha Mio cũng nằm ở mức ngày 150.000 đồng, trong khi Honda Vision và Honda Air Blade là 200.000 đồng. Xem như vậy ở kỳ hạn ngày, xe ga có mức bằng hoặc cao hơn xe số tùy dòng.
 
-Sang kỳ hạn tuần, khoảng cách thể hiện rõ: Honda Click và Yamaha Mio dao động 600.000 – 700.000 đồng, Honda Vision dao động 800.000 – 1.000.000 đồng, Honda Air Blade ở mức 800.000 đồng. Với xe số Wave, bảng giá chưa công bố mức tuần cố định, bạn cần liên hệ để xác nhận.
+Sang kỳ hạn tuần, khoảng cách thể hiện rõ: Honda Click và Yamaha Mio ở mức 700.000 đồng, Honda Vision và Honda Air Blade cùng ở mức 1.000.000 đồng. Xe số Wave có mức tuần 700.000 đồng.
 
-Ở kỳ hạn tháng, nhóm xe ga Click và Mio nằm trong khoảng 1.000.000 – 1.200.000 đồng, Air Blade ở mức 1.400.000 đồng, còn Vision dao động 1.800.000 – 2.000.000 đồng. Mức tháng của xe số Wave cũng cần xác nhận trực tiếp.
+Ở kỳ hạn tháng, nhóm xe ga Click và Mio nằm trong khoảng 900.000 – 1.200.000 đồng, Air Blade ở mức 1.500.000 đồng, còn Vision dao động 1.800.000 – 2.000.000 đồng. Xe số Wave có mức tháng 900.000 – 1.200.000 đồng.
 
 Kết luận nhanh về giá: xe ga đắt hơn xe số ở các dòng cỡ lớn, nhưng nhóm xe ga nhỏ có giá gần ngang xe số. Chi tiết đầy đủ nằm ở [bảng giá xe số](/bang-gia-xe-so/) và [bảng giá xe ga](/bang-gia-xe-ga/).
 

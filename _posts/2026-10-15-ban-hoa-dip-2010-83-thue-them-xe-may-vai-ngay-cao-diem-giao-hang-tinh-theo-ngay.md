@@ -41,18 +41,18 @@ Ví dụ minh họa: tiệm ở Ba Đình chốt khoảng 80 đơn cho ngày 20/
 
 Gói tuần không phải lúc nào cũng có lợi hơn. Bảng giá hiện hành của cửa hàng Nguyễn Tú:
 
-- **Honda Wave:** 150.000 đ một ngày; bảng giá chưa niêm yết gói tuần cho dòng này, cần thì hỏi trực tiếp.
-- **Honda Click / Yamaha Mio:** 150.000 đ một ngày, gói tuần 600.000 đến 700.000 đ.
-- **Honda Vision:** 200.000 đ một ngày, gói tuần 800.000 đến 1.000.000 đ.
-- **Honda Air Blade:** 200.000 đ một ngày, gói tuần 800.000 đ.
+- **Honda Wave:** 150.000 đ một ngày, gói tuần 700.000 đ.
+- **Honda Click / Yamaha Mio:** 150.000 đ một ngày, gói tuần 700.000 đ.
+- **Honda Vision:** 200.000 đ một ngày, gói tuần 1.000.000 đ.
+- **Honda Air Blade:** 200.000 đ một ngày, gói tuần 1.000.000 đ.
 
 ### Thuê hai hoặc ba ngày: lấy giá ngày
 
-Ba ngày Vision tính lẻ là 3 x 200.000 = 600.000 đ, vẫn thấp hơn gói tuần. Hai chiếc Vision ba ngày cho hai người giao phụ thì tổng là 1.200.000 đ.
+Ba ngày Vision tính lẻ là 3 x 200.000 đ, vẫn thấp hơn gói tuần 1.000.000 đ. Hai chiếc Vision ba ngày cho hai người giao phụ thì tổng là 1.200.000 đ.
 
 ### Thuê bốn ngày trở lên: hỏi gói tuần
 
-Bốn ngày Air Blade tính lẻ là 800.000 đ, bằng đúng gói tuần. Bốn ngày Click hay Mio là 600.000 đ, chạm mức thấp của gói tuần. Sang ngày thứ năm, cộng giá ngày đã vượt gói tuần của ba dòng này, nên muốn giữ xe cả tuần để vừa đi chợ vừa giao đơn đặt sớm thì lấy gói tuần. Vision có khoảng giá tuần, hỏi cửa hàng con số cho đúng chiếc bạn nhận.
+Năm ngày Air Blade hay Vision tính lẻ là 1.000.000 đ, bằng đúng gói tuần. Năm ngày Click, Mio hay Wave là 5 x 150.000 đ, đã vượt gói tuần. Từ ngày thứ năm, cộng giá ngày đã chạm hoặc vượt gói tuần của các dòng này, nên muốn giữ xe cả tuần để vừa đi chợ vừa giao đơn đặt sớm thì lấy gói tuần. Giá gói có thể đổi theo thời điểm, hỏi cửa hàng con số cho đúng chiếc bạn nhận.
 
 Gói tuần là bảy ngày liên tục tính từ giờ nhận xe. Trả sớm có được hoàn phần ngày chưa dùng hay không thì hỏi cửa hàng khi đặt xe, đừng tính khoản đó vào ngân sách. So từng mốc ngày có trong bài [giá thuê xe máy theo số ngày: hỏi gói ngày nào rẻ](/thue-xe/2026/10/11/gia-thue-xe-may-giam-theo-so-ngay-hoi-goi-ngay-nao-re/).
 

@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1288,
+  "word_count": 1281,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,9 +47,43 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-15-ban-hoa-dip-2010-83-thue-them-xe-may-vai-ngay-cao-diem-giao-hang-tinh-theo-ngay.md",
-  "content_sha256": "4b600f64fed1a78c604fd64aeb3064c12ef34570cec8482fc7fdce2219c50c41",
+  "content_sha256": "59f9b66448b69778153b1059c97042d96f03061cedd8a2814785c61dbbb7c791",
   "matrix_row_sha256": "71943904e5e4dde66c749e7fffe21192b35870d5766dbac8a08c641e2cbcbac1",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-15T09:37:19+00:00"
+  "published_at": "2026-10-15T09:37:19+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "content-revision",
+    "purpose": "price-sync",
+    "reason": "Đồng bộ giá tuần/tháng với _data/pricing.yml (bảng giá chủ xe duyệt); đã người duyệt từng câu",
+    "approval_ref": "Chủ website (Tổng Thống) duyệt 2026-11-21 (+07) trong phiên Claude: 'Duyệt sửa 17 bài' — đồng bộ giá tuần/tháng với _data/pricing.yml",
+    "batch_id": "revise-20261121-price-02",
+    "revised_at": "2026-11-21T14:31:25+00:00",
+    "previous_evidence_sha256": "177e4600c690c88c0a173d423f4fa40458b37c9ffc9ed2d953dcb475de47e074",
+    "previous_content_sha256": "4b600f64fed1a78c604fd64aeb3064c12ef34570cec8482fc7fdce2219c50c41",
+    "previous_matrix_row_sha256": "71943904e5e4dde66c749e7fffe21192b35870d5766dbac8a08c641e2cbcbac1",
+    "new_content_sha256": "59f9b66448b69778153b1059c97042d96f03061cedd8a2814785c61dbbb7c791",
+    "edit_count": 7,
+    "edits_sha256": "a120a7e30794fbfff5c4d1fe42409c2cdf98f5ebceede75bd9b2d5b9fbd4e31b",
+    "chars_changed": 1127,
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "base": "INTACT",
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/revise-published.py",
+    "tool_commit": "70d76db95e2d962e07ca0ed1cd8069aa7bdc1f0d",
+    "tool_sha256": "4cbcfb5cb776052f30f590ca0f2912c94e5239bd8fd14b47dca10953d3e302a8",
+    "scorer_code_sha256": "6455431545f463412d5aa015ce327d983e3b29a0a7c33716028920c374f8f81a",
+    "business_facts_sha256": "101e315f480c6f57f9b94dc8d6f4c460514658fd37bd4a3503c3d0f93c131812",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+  }
 }

@@ -17,7 +17,7 @@ Người làm ăn xa quê quanh Hà Nội thường có một tuần nghỉ ng�
 
 ## Gói thuê xe tuần về quê cho kỳ nghỉ ngắn ngày
 
-Gói thuê theo tuần được niêm yết thấp hơn so với giá ngày nhân bảy: nhóm xe ga Honda Click, Yamaha Mio có gói tuần từ khoảng 600.000đ đến 700.000đ, tức mức thoải mái cho một kỳ nghỉ ngắn so với việc thuê lẻ từng ngày cộng dồn. Cách tính gói và các mốc chốt với cửa hàng được tóm tắt trong phần [thuê xe theo tuần](/thue-xe/thue-tuan/), và bạn có thể đối chiếu trực tiếp các mức niêm yết trong [bảng giá thuê xe máy](/bang-gia/). Phần quan trọng nhất với người về quê là chốt rõ ngày trả: kỳ nghỉ ngắn dễ trượt lịch, nên hỏi trước nếu trả muộn một ngày thì tính thế nào, để khỏi phải nói chuyện giữa buổi chia tay họ hàng.
+Gói thuê theo tuần được niêm yết thấp hơn so với giá ngày nhân bảy: nhóm xe ga Honda Click, Yamaha Mio có gói tuần khoảng 700.000đ, tức mức thoải mái cho một kỳ nghỉ ngắn so với việc thuê lẻ từng ngày cộng dồn. Cách tính gói và các mốc chốt với cửa hàng được tóm tắt trong phần [thuê xe theo tuần](/thue-xe/thue-tuan/), và bạn có thể đối chiếu trực tiếp các mức niêm yết trong [bảng giá thuê xe máy](/bang-gia/). Phần quan trọng nhất với người về quê là chốt rõ ngày trả: kỳ nghỉ ngắn dễ trượt lịch, nên hỏi trước nếu trả muộn một ngày thì tính thế nào, để khỏi phải nói chuyện giữa buổi chia tay họ hàng.
 
 Về dòng xe, đi tỉnh đường trường và quê thường đường nhỏ, nhóm xe số gọn nhẹ vẫn là lựa chọn chắc tay; nhóm xe ga cũng chạy được nếu bạn quen tay ga. Điều đáng đầu tư hơn là phần kiểm tra xe trước khi rời thành phố: đèn, còi, phanh, lốp, ắc quy và mức dầu máy, vì sửa xe giữa quê có sẵn thợ nhưng không chắc phụ tùng dòng xe của bạn.
 
