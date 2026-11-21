@@ -25,7 +25,7 @@ Với người mới đến Hà Nội, giai đoạn thuê tháng còn là lúc l
 
 ## Chi phí thuê tháng được tính ra sao
 
-Theo bảng giá đã duyệt của Nguyễn Tú, nhóm Honda Click và Yamaha Mio có gói tháng khoảng 1.000.000 đ đến 1.200.000 đ, Honda Air Blade 1.400.000 đ một tháng, Honda Vision 1.800.000 đ đến 2.000.000 đ một tháng. So với giá ngày của nhóm xe này từ 150.000 đ đến 200.000 đ, thuê tháng rẻ rõ rệt cho nhu cầu đi lại hằng ngày: ba mươi ngày lẻ của một chiếc 150.000 đ mỗi ngày đã hơn gói tháng nhiều lần. Khung giá chi tiết theo từng dòng xe nằm trong bài [giá thuê xe máy theo tháng ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/).
+Theo bảng giá đã duyệt của Nguyễn Tú, nhóm Honda Click và Yamaha Mio có gói tháng khoảng 900.000 đ đến 1.200.000 đ, Honda Air Blade 1.500.000 đ một tháng, Honda Vision 1.800.000 đ đến 2.000.000 đ một tháng. So với giá ngày của nhóm xe này từ 150.000 đ đến 200.000 đ, thuê tháng rẻ rõ rệt cho nhu cầu đi lại hằng ngày: ba mươi ngày lẻ của một chiếc 150.000 đ mỗi ngày đã hơn gói tháng nhiều lần. Khung giá chi tiết theo từng dòng xe nằm trong bài [giá thuê xe máy theo tháng ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/).
 
 Ba lưu ý khi đọc các con số: tiền đặt cọc cần xác nhận trực tiếp với cửa hàng; giá chỉ theo bảng giá hiện hành và nên đối chiếu mới nhất ở trang [bảng giá](/bang-gia/); và bạn nên hỏi chính xác ranh giới gói tháng tính theo ngày lịch hay chu kỳ, cũng như phí phát sinh nếu trả sớm hoặc giữ xe thêm ngày.
 

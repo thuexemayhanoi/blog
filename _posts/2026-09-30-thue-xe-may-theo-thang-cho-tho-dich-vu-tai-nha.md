@@ -17,7 +17,7 @@ Nghề dịch vụ tại nhà đang đắt khách quanh Hà Nội, từ thợ l�
 
 ## Thuê xe tháng cho thợ tại nhà: chiếc xe là cửa hàng di động
 
-Điểm khác biệt của thợ dịch vụ so với người đi làm văn phòng là tính phân tán: trong một ngày bạn có thể đến ba bốn địa chỉ ở ba quận, đoạn giữa các ca là thời gian chết nếu xe không đáng tin. Gói tháng hợp vì chuyển chi phí xe thành một khoản trích đều: nhóm xe ga Honda Click, Yamaha Mio có gói tháng từ khoảng 1.000.000 đồng, nhóm Honda Air Blade khoảng 1.400.000 đồng, các mức tham chiếu đầy đủ nằm trong phần [thuê xe theo tháng](/thue-xe/thue-thang/). Với người tính thu nhập theo từng ca hoàn thành, con số trích trước kiểu này giúp cuối tháng không bị phần xe đột biến.
+Điểm khác biệt của thợ dịch vụ so với người đi làm văn phòng là tính phân tán: trong một ngày bạn có thể đến ba bốn địa chỉ ở ba quận, đoạn giữa các ca là thời gian chết nếu xe không đáng tin. Gói tháng hợp vì chuyển chi phí xe thành một khoản trích đều: nhóm xe ga Honda Click, Yamaha Mio có gói tháng từ khoảng 900.000 đồng, nhóm Honda Air Blade khoảng 1.500.000 đồng, các mức tham chiếu đầy đủ nằm trong phần [thuê xe theo tháng](/thue-xe/thue-thang/). Với người tính thu nhập theo từng ca hoàn thành, con số trích trước kiểu này giúp cuối tháng không bị phần xe đột biến.
 
 Nghề di động cũng cần xe ổn định về ngoại hình. Khách trong nhà nhìn chiếc xe ngoài cổng và hình thành ngay ấn tượng về người thợ đang tới gõ cửa, nên xe sạch, yên nguyên, nắp bụng không sứt mẻ là một phần của bộ mặt nghề. Đây là lý do nhiều thợ chọn xe ga mới thay vì xe cũ giá thấp: phần chênh nhỏ mỗi tháng đổi lại ấn tượng chuyên nghiệp tại mỗi lần gõ cửa.
 

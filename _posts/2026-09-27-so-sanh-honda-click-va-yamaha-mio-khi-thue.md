@@ -31,7 +31,7 @@ Về độ hao xăng, hai xe ga nhỏ tiêu thụ tương đương nhau và đ�
 
 ## Chi phí thuê: giá hai xe như thế nào
 
-Điểm thú vị là về mặt giá thuê, hai xe nằm chung một nhóm: giá thuê theo ngày phổ biến ở mức 150.000 đồng, thuê tuần khoảng từ 600.000 đến 700.000 đồng, thuê tháng khoảng 1.000.000 đến 1.200.000 đồng, tùy thời điểm và điều kiện hợp đồng. Nghĩa là câu hỏi click hay mio khi thuê không bị chi phí chi phối, mà phụ thuộc cảm giác lái và độ sẵn xe tại thời điểm bạn cần. Chi tiết giá của nhóm xe ga nằm ở [bảng giá xe ga](/bang-gia-xe-ga/).
+Điểm thú vị là về mặt giá thuê, hai xe nằm chung một nhóm: giá thuê theo ngày phổ biến ở mức 150.000 đồng, thuê tuần khoảng 700.000 đồng, thuê tháng khoảng 900.000 đến 1.200.000 đồng, tùy thời điểm và điều kiện hợp đồng. Nghĩa là câu hỏi click hay mio khi thuê không bị chi phí chi phối, mà phụ thuộc cảm giác lái và độ sẵn xe tại thời điểm bạn cần. Chi tiết giá của nhóm xe ga nằm ở [bảng giá xe ga](/bang-gia-xe-ga/).
 
 Đặt cọc, giấy tờ và quy định xăng khi trả cần hỏi trực tiếp cửa hàng. Nếu bạn cần xe gấp, tốt nhất nên hỏi trước xem cửa hàng còn chiếc nào trong hai dòng, rồi chọn theo cảm giác lái thật của mình sau khi chạy thử. Tổng quan về một trong hai dòng nằm tại [chủ đề Honda Click](/xe-may/honda-click/), nơi có nhiều bài về cách dùng xe ga nhỏ trong phố và các so sánh cùng nhóm.
 

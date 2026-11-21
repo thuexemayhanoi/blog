@@ -29,7 +29,7 @@ Nếu bạn thuê xe chủ yếu để đi làm nội đô ngắn, xe ga phổ t
 
 ## Giá thuê và đối tượng phù hợp
 
-Giá thuê Honda Air Blade theo ngày phổ biến ở mức 200.000 đồng, thuê tuần khoảng 800.000 đồng và thuê tháng khoảng 1.400.000 đồng theo bảng giá hiện hành. So với xe ga phổ thông, chênh lệch ngày không lớn, nhưng cộng dồn theo tháng vẫn là khoản đáng tính, vì vậy hãy chọn theo nhu cầu thật thay vì theo cảm giác ban đầu, và nếu kỳ thuê của bạn rơi vào dịp lễ hoặc mùa cao điểm, hãy hỏi trước về mức giá thời điểm đó vì giá thuê có thể thay đổi theo thời gian. Đặt cọc và điều kiện hợp đồng cần xác nhận trực tiếp với cửa hàng theo từng thời điểm.
+Giá thuê Honda Air Blade theo ngày phổ biến ở mức 200.000 đồng, thuê tuần khoảng 1.000.000 đồng và thuê tháng khoảng 1.500.000 đồng theo bảng giá hiện hành. So với xe ga phổ thông, chênh lệch ngày không lớn, nhưng cộng dồn theo tháng vẫn là khoản đáng tính, vì vậy hãy chọn theo nhu cầu thật thay vì theo cảm giác ban đầu, và nếu kỳ thuê của bạn rơi vào dịp lễ hoặc mùa cao điểm, hãy hỏi trước về mức giá thời điểm đó vì giá thuê có thể thay đổi theo thời gian. Đặt cọc và điều kiện hợp đồng cần xác nhận trực tiếp với cửa hàng theo từng thời điểm.
 
 Nhóm hợp với Air Blade rõ nhất: người đi tuyến dài hằng ngày, người hay chạy ngoại thành cuối tuần, người thích phong cách thể thao và người đã quen xe ga muốn cảm giác lái nhạy hơn. Nhóm nên cân nhắc: người mới lần đầu dùng xe ga, người rất chú trọng cốp lớn, hoặc người chủ yếu đi ngõ nhỏ hẹp. Nếu bạn định so với dòng xe ga nhỏ trong phố, một vòng qua [chuyên mục xe máy](/xe-may/) sẽ cho bức tranh đủ hơn trước khi quyết.
 

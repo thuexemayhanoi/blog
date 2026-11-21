@@ -27,7 +27,7 @@ Hợp đồng ba tháng là một cam kết dài hơn: bạn chốt thời gian 
 
 Trước hết cần nói rõ cách đọc giá đúng: bảng giá niêm yết của cửa hàng công bố mức theo tháng cho từng dòng xe, và mức cho kỳ ba tháng không phải lúc nào cũng bằng đơn giá tháng nhân ba. Nhiều cửa hàng có cách tính riêng cho kỳ dài, nhưng con số cụ thể không công bố chung trên trang web mà cần xác nhận trực tiếp khi đặt xe. Vì vậy, đừng tự nhân đơn giá rồi coi đó là giá ba tháng; hãy hỏi để lấy mức thực.
 
-Để có khung tham chiếu theo bảng giá: nhóm xe ga nhỏ như Honda Click và Yamaha Mio có giá thuê tháng niêm từ 1.000.000 đến 1.200.000 đồng. Honda Air Blade niêm 1.400.000 đồng mỗi tháng. Honda Vision niêm từ 1.800.000 đến 2.000.000 đồng mỗi tháng. Toàn bộ mức này được cập nhật trong trang [bảng giá](/bang-gia/), và bạn nên gọi xác nhận lại trước khi ký bất kỳ kỳ nào.
+Để có khung tham chiếu theo bảng giá: nhóm xe ga nhỏ như Honda Click và Yamaha Mio có giá thuê tháng niêm từ 900.000 đến 1.200.000 đồng. Honda Air Blade niêm 1.500.000 đồng mỗi tháng. Honda Vision niêm từ 1.800.000 đến 2.000.000 đồng mỗi tháng. Toàn bộ mức này được cập nhật trong trang [bảng giá](/bang-gia/), và bạn nên gọi xác nhận lại trước khi ký bất kỳ kỳ nào.
 
 Khi so sánh chi phí giữa hai kiểu hợp đồng, cách tính trung thực là cộng đủ cả ba tháng: lấy giá tháng nhân ba, so với mức ba tháng mà cửa hàng báo trực tiếp, rồi trừ đi phần rủi ro của mỗi phương án. Nếu mức ba tháng thấp hơn tổng ba kỳ lẻ thì phần chênh đó là tiền lời cho việc bạn cam kết sớm. Nếu lịch của bạn chỉ chắc chắn được một phần, khoản chênh đó có thể không đáng để khóa mình suốt ba tháng.
 

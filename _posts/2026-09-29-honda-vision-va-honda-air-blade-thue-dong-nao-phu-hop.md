@@ -33,7 +33,7 @@ Về tiêu thụ, cả hai đều là xe ga tiết kiệm đúng chuẩn xe ga p
 
 ## Mức giá theo ngày, tuần và tháng
 
-Theo bảng giá niêm yết của cửa hàng, Vision có giá thuê theo ngày 200.000 đồng, theo tuần trong khoảng 800.000 đến 1.000.000 đồng, và theo tháng trong khoảng 1.800.000 đến 2.000.000 đồng tùy đời xe. Air Blade có giá theo ngày 200.000 đồng, theo tuần 800.000 đồng, và theo tháng 1.400.000 đồng. Như vậy về giá ngày hai dòng tương đương nhau, còn thuê tuần và thuê tháng thì Vision cao hơn Air Blade ở kỳ dài, chủ yếu do khác biệt đời xe trong kho.
+Theo bảng giá niêm yết của cửa hàng, Vision có giá thuê theo ngày 200.000 đồng, theo tuần trong khoảng 1.000.000 đồng, và theo tháng trong khoảng 1.800.000 đến 2.000.000 đồng tùy đời xe. Air Blade có giá theo ngày 200.000 đồng, theo tuần 1.000.000 đồng, và theo tháng 1.500.000 đồng. Như vậy về giá ngày và giá tuần hai dòng tương đương nhau, còn thuê tháng thì Vision cao hơn Air Blade, chủ yếu do khác biệt đời xe trong kho.
 
 Cách dùng thông tin giá này hiệu quả nhất là quy đổi về nhu cầu: nếu thuê một tuần đi làm, hai dòng chênh nhau không nhiều; nếu thuê tháng dài hạn cho công việc, khoảng chênh theo tháng đáng để cân nhắc kỹ hơn. Mọi mức giá hiện hành nên đối chiếu lại tại trang [bảng giá](/bang-gia/) hoặc xác nhận trực tiếp khi đặt xe, vì chỉ bên cho thuê mới chốt được chiếc cụ thể bạn nhận.
 
