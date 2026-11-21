@@ -14,6 +14,8 @@ permalink: /lien-he/
 
 Cảm ơn bạn quan tâm đến dịch vụ thuê xe máy tại Hà Nội của Nguyễn Tú. Chúng tôi sẵn sàng hỗ trợ các nhu cầu thuê xe trong giờ hoạt động, từ thuê theo ngày, tuần đến tháng.
 
+{% include photo-gallery.html set='cua-hang-mat-tien' caption='Mặt tiền cửa hàng tại số 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên. Ảnh thật; biển số và số điện thoại cũ trên kính đã được làm mờ.' %}
+
 ### Thông tin liên hệ
 
 <div class="contact-grid">

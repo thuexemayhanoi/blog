@@ -1,0 +1,20 @@
+{%- comment -%}
+  Lưới ảnh thật của cửa hàng. Tham số: set (bắt buộc, khớp _data/photos.yml), caption (tùy chọn).
+  Ảnh đã làm mờ biển số/khuôn mặt/mã QR và xóa EXIF; srcset 480/800/1200, lazy, có width/height chống nhảy bố cục.
+  Không có liên kết bên trong (không thêm link nội bộ vào đoạn văn).
+{%- endcomment -%}
+{%- assign pg_items = site.data.photos.photos | where: 'set', include.set -%}
+{%- if pg_items.size > 0 -%}
+<figure class="photo-gallery">
+  <div class="photo-gallery-grid">
+  {%- for p in pg_items -%}
+    {%- assign pg_base = '/assets/images/photos/' | append: p.slug | append: '-' -%}
+    {%- capture pg_srcset -%}{%- for w in p.widths -%}{{ pg_base | append: w | append: '.webp' | relative_url }} {{ w }}w{%- unless forloop.last -%}, {% endunless -%}{%- endfor -%}{%- endcapture -%}
+    <img src="{{ pg_base | append: p.widths.first | append: '.webp' | relative_url }}" srcset="{{ pg_srcset }}" sizes="(max-width: 767px) 50vw, 280px" width="{{ p.tw }}" height="{{ p.th }}" alt="{{ p.alt | escape }}" loading="lazy" decoding="async">
+  {%- endfor -%}
+  </div>
+  {%- if include.caption %}
+  <figcaption>{{ include.caption }}</figcaption>
+  {%- endif %}
+</figure>
+{%- endif -%}

@@ -36,6 +36,8 @@ Hãy gọi điện, Zalo hoặc WhatsApp để được báo giá xe điện đa
 - Phù hợp di chuyển trong nội thành, quãng đường trung bình
 - Sạc pin tại nhà hoặc trạm sạc
 
+{% include photo-gallery.html set='xe-dien' caption='Xe máy điện tại cửa hàng Nguyễn Tú. Ảnh thật.' %}
+
 ### Xe đạp điện
 
 - Thiết kế giống xe đạp, có hỗ trợ điện hoặc chạy hoàn toàn bằng điện

@@ -37,6 +37,8 @@ Hãy gọi điện, Zalo hoặc WhatsApp để được báo giá chính xác m�
 4. **Dễ điều khiển:** phần lớn xe 50cc là xe ga hoặc xe số đơn giản, thao tác nhẹ nhàng.
 5. **Phù hợp vóc dáng nhỏ gọn:** khách có chiều cao khiêm tốn hoặc người mới lái sẽ dễ làm quen.
 
+{% include photo-gallery.html set='xe-50cc' caption='Xe tay ga 50cc tại cửa hàng Nguyễn Tú. Ảnh thật, biển số đã được làm mờ.' %}
+
 ## Ai phù hợp với xe 50cc?
 
 - Du khách nước ngoài đi tham quan trong nội thành, quãng đường ngắn

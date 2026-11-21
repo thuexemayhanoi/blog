@@ -1,0 +1,358 @@
+# Ảnh thật của cửa hàng (chủ website cung cấp 21/11/2026). Biển số, khuôn mặt, mã QR/số tài khoản và số điện thoại cũ trên kính đã được làm mờ;
+# EXIF/GPS đã xóa. Sinh từ ảnh gốc bằng script xử lý ảnh (WebP q72, rộng 480/800/1200). Hiển thị qua _includes/photo-gallery.html theo `set`.
+# Không dùng làm og:image (thẻ meta) — thay đổi thẻ meta cần chủ website duyệt riêng.
+photos:
+  - slug: honda-wave-trang-01
+    set: xe-so
+    alt: "Xe số Honda Wave màu trắng nhìn ngang"
+    widths: [480, 800]
+    tw: 480
+    th: 346
+  - slug: honda-wave-den-01
+    set: xe-so
+    alt: "Xe số Honda Wave màu đen đỗ trên vỉa hè"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 325
+  - slug: honda-wave-den-02
+    set: xe-so
+    alt: "Xe số Honda Wave màu đen nhìn ngang"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 328
+  - slug: honda-wave-trang-02
+    set: xe-so
+    alt: "Xe số Honda Wave màu trắng đỗ trên vỉa hè lát gạch"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: honda-wave-alpha-den-01
+    set: xe-so
+    alt: "Xe số Honda Wave Alpha màu đen nhìn từ phía trước"
+    widths: [480, 800]
+    tw: 480
+    th: 1039
+  - slug: honda-wave-alpha-den-02
+    set: xe-so
+    alt: "Xe số Honda Wave Alpha màu đen nhìn từ phía sau"
+    widths: [480, 800]
+    tw: 480
+    th: 1039
+  - slug: honda-wave-trang-03
+    set: xe-so
+    alt: "Xe số Honda Wave màu trắng trong cửa hàng"
+    widths: [480]
+    tw: 480
+    th: 1041
+  - slug: honda-wave-den-03
+    set: xe-so
+    alt: "Xe số Honda Wave màu đen trong cửa hàng"
+    widths: [480]
+    tw: 480
+    th: 1041
+  - slug: honda-wave-den-04
+    set: xe-so
+    alt: "Xe số Honda Wave màu đen viền vàng trong cửa hàng"
+    widths: [480]
+    tw: 480
+    th: 1041
+  - slug: honda-wave-den-05
+    set: xe-so
+    alt: "Xe số Honda Wave màu đen cạnh giá treo áo mưa"
+    widths: [480]
+    tw: 480
+    th: 1041
+  - slug: honda-super-cub-xanh-01
+    set: xe-so
+    alt: "Xe số Honda Super Cub màu xanh đen phối trắng nhìn ngang"
+    widths: [480]
+    tw: 480
+    th: 360
+  - slug: xe-so-dang-cub-01
+    set: xe-so
+    alt: "Xe số dáng Cub có giỏ trước và baga sau, đỗ trên vỉa hè"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 375
+  - slug: honda-vision-xanh-01
+    set: xe-ga-vision
+    alt: "Xe tay ga Honda Vision màu xanh dương nhìn ngang"
+    widths: [480, 800]
+    tw: 480
+    th: 318
+  - slug: honda-vision-trang-01
+    set: xe-ga-vision
+    alt: "Xe tay ga Honda Vision màu trắng nhìn ngang"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 326
+  - slug: honda-vision-den-01
+    set: xe-ga-vision
+    alt: "Xe tay ga Honda Vision màu đen phối đỏ nhìn ngang"
+    widths: [480]
+    tw: 480
+    th: 382
+  - slug: honda-vision-den-02
+    set: xe-ga-vision
+    alt: "Xe tay ga Honda Vision màu đen nhìn ngang"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: honda-vision-den-03
+    set: xe-ga-vision
+    alt: "Xe tay ga Honda Vision màu đen trên vỉa hè cạnh đường"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: honda-vision-xanh-reu-01
+    set: xe-ga-vision
+    alt: "Xe tay ga Honda Vision màu xanh rêu đỗ trên vỉa hè"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: honda-vision-xanh-reu-02
+    set: xe-ga-vision
+    alt: "Xe tay ga Honda Vision màu xanh rêu nhìn từ phía trước"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: honda-vision-xanh-reu-03
+    set: xe-ga-vision
+    alt: "Xe tay ga Honda Vision màu xanh rêu trước cửa hàng"
+    widths: [480]
+    tw: 480
+    th: 1041
+  - slug: xe-tay-ga-honda-trang-01
+    set: xe-ga-vision
+    alt: "Xe tay ga Honda màu trắng nhìn từ phía trước trong cửa hàng"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: xe-tay-ga-honda-trang-02
+    set: xe-ga-vision
+    alt: "Xe tay ga Honda màu trắng nhìn từ phía sau trong cửa hàng"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: honda-vision-den-do-02
+    set: xe-ga-vision
+    alt: "Xe tay ga Honda Vision màu đen phối đỏ nhìn ngang"
+    widths: [480]
+    tw: 480
+    th: 271
+  - slug: honda-air-blade-den-vang-01
+    set: xe-ga-airblade
+    alt: "Xe tay ga Honda Air Blade màu đen phối vàng nhìn ngang"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 360
+  - slug: honda-air-blade-do-01
+    set: xe-ga-airblade
+    alt: "Xe tay ga Honda Air Blade màu đỏ đen trong cửa hàng"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: honda-air-blade-do-02
+    set: xe-ga-airblade
+    alt: "Xe tay ga Honda Air Blade màu đỏ đen xếp trong cửa hàng"
+    widths: [480]
+    tw: 480
+    th: 1041
+  - slug: honda-air-blade-den-vang-02
+    set: xe-ga-airblade
+    alt: "Xe tay ga Honda Air Blade màu đen phối vàng nhìn ngang"
+    widths: [480]
+    tw: 480
+    th: 360
+  - slug: honda-click-den-01
+    set: xe-ga-click-mio
+    alt: "Xe tay ga Honda Click màu đen nhìn ngang"
+    widths: [480, 800]
+    tw: 480
+    th: 341
+  - slug: honda-click-xanh-01
+    set: xe-ga-click-mio
+    alt: "Xe tay ga Honda Click màu xanh nhạt nhìn từ phía trước"
+    widths: [480]
+    tw: 480
+    th: 1041
+  - slug: honda-click-xanh-02
+    set: xe-ga-click-mio
+    alt: "Xe tay ga Honda Click màu xanh nhạt nhìn ngang"
+    widths: [480]
+    tw: 480
+    th: 1041
+  - slug: xe-tay-ga-honda-do-01
+    set: xe-ga-click-mio
+    alt: "Xe tay ga Honda màu đỏ nhìn từ phía sau trên vỉa hè"
+    widths: [480, 800]
+    tw: 480
+    th: 1039
+  - slug: xe-tay-ga-honda-do-02
+    set: xe-ga-click-mio
+    alt: "Xe tay ga Honda màu đỏ nhìn từ phía trước"
+    widths: [480, 800]
+    tw: 480
+    th: 1039
+  - slug: xe-tay-ga-honda-do-03
+    set: xe-ga-click-mio
+    alt: "Xe tay ga Honda màu đỏ đỗ trên vỉa hè"
+    widths: [480, 800]
+    tw: 480
+    th: 1039
+  - slug: yamaha-mio-ultimo-den-01
+    set: xe-ga-click-mio
+    alt: "Xe tay ga Yamaha Mio Ultimo màu đen đỗ trên vỉa hè"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 357
+  - slug: yamaha-mio-ultimo-den-02
+    set: xe-ga-click-mio
+    alt: "Xe tay ga Yamaha Mio Ultimo màu đen nhìn ngang"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: yamaha-mio-ultimo-den-03
+    set: xe-ga-click-mio
+    alt: "Xe tay ga Yamaha Mio Ultimo màu đen trong cửa hàng"
+    widths: [480, 800]
+    tw: 480
+    th: 1039
+  - slug: yamaha-mio-ultimo-den-04
+    set: xe-ga-click-mio
+    alt: "Xe tay ga Yamaha màu đen nhìn từ phía trước"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: yamaha-mio-ultimo-trang-01
+    set: xe-ga-click-mio
+    alt: "Xe tay ga Yamaha Mio Ultimo màu trắng đỏ trong cửa hàng"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 853
+  - slug: yamaha-mio-ultimo-trang-02
+    set: xe-ga-click-mio
+    alt: "Xe tay ga Yamaha Mio Ultimo màu trắng đỏ đỗ trên vỉa hè"
+    widths: [480, 800]
+    tw: 480
+    th: 1039
+  - slug: yamaha-tay-ga-co-dien-xanh-01
+    set: xe-ga-click-mio
+    alt: "Xe tay ga Yamaha dáng cổ điển màu xanh nhạt"
+    widths: [450]
+    tw: 450
+    th: 308
+  - slug: yamaha-tay-ga-co-dien-01
+    set: xe-ga-click-mio
+    alt: "Xe tay ga Yamaha dáng cổ điển nhìn từ phía sau"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: sym-elite-50-den-01
+    set: xe-50cc
+    alt: "Xe tay ga 50cc SYM Elite 50 màu đen nhám"
+    widths: [480]
+    tw: 480
+    th: 346
+  - slug: sym-elite-50-xam-01
+    set: xe-50cc
+    alt: "Xe tay ga 50cc SYM Elite 50 màu xám nhìn ngang"
+    widths: [480]
+    tw: 480
+    th: 360
+  - slug: sym-elite-50-xam-02
+    set: xe-50cc
+    alt: "Xe tay ga 50cc SYM Elite 50 màu xám đỗ trên vỉa hè"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: sym-elite-50-xam-03
+    set: xe-50cc
+    alt: "Xe tay ga 50cc SYM Elite 50 màu xám nhìn từ phía trước"
+    widths: [480]
+    tw: 480
+    th: 1041
+  - slug: xe-ga-50cc-co-dien-trang-01
+    set: xe-50cc
+    alt: "Xe tay ga 50cc dáng cổ điển màu trắng yên nâu trong cửa hàng"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 360
+  - slug: xe-ga-50cc-co-dien-trang-02
+    set: xe-50cc
+    alt: "Xe tay ga 50cc dáng cổ điển màu trắng nhìn từ phía sau, trước cửa hàng"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: xe-may-dien-sym-trang-01
+    set: xe-dien
+    alt: "Xe máy điện SYM màu trắng nhìn từ phía trước"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: xe-may-dien-tailg-den-01
+    set: xe-dien
+    alt: "Xe máy điện TAILG màu đen trong cửa hàng"
+    widths: [480, 800]
+    tw: 480
+    th: 640
+  - slug: mat-tien-cua-hang-112-nguyen-van-cu-01
+    set: cua-hang-mat-tien
+    alt: "Mặt tiền cửa hàng cho thuê xe máy số 112 Nguyễn Văn Cừ, cạnh cửa hàng tạp hóa"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: mat-tien-cua-hang-112-nguyen-van-cu-02
+    set: cua-hang-mat-tien
+    alt: "Cửa kính cửa hàng số 112 ghi Cho thuê xe máy và Motobike for rent"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: mat-tien-cua-hang-112-nguyen-van-cu-03
+    set: cua-hang-mat-tien
+    alt: "Lối vào cửa hàng số 112 với chuông cửa và số điện thoại trên cửa kính"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: ben-trong-cua-hang-01
+    set: cua-hang-ben-trong
+    alt: "Bên trong cửa hàng nhìn qua cửa kính, xe xếp thành hàng"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: ben-trong-cua-hang-02
+    set: cua-hang-ben-trong
+    alt: "Hàng xe số và xe tay ga xếp trong cửa hàng"
+    widths: [480, 800]
+    tw: 480
+    th: 1039
+  - slug: ben-trong-cua-hang-03
+    set: cua-hang-ben-trong
+    alt: "Xe xếp trong cửa hàng, mũ bảo hiểm treo trên tường"
+    widths: [480]
+    tw: 480
+    th: 1041
+  - slug: khach-xem-xe-01
+    set: cua-hang-ben-trong
+    alt: "Khách xem giấy tờ thuê xe trong cửa hàng"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: khach-xem-xe-02
+    set: cua-hang-ben-trong
+    alt: "Khách kiểm tra xe trước khi nhận trong cửa hàng"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: khach-xem-xe-03
+    set: cua-hang-ben-trong
+    alt: "Khách kiểm tra xe cạnh giá treo mũ bảo hiểm"
+    widths: [480, 800, 1200]
+    tw: 480
+    th: 640
+  - slug: honda-lead-do-01
+    set: cua-hang-ben-trong
+    alt: "Xe tay ga Honda Lead màu đỏ đỗ trên vỉa hè"
+    widths: [480]
+    tw: 480
+    th: 314

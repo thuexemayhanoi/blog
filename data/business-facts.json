@@ -67,6 +67,8 @@
     "min_age_statement": "Người thuê cần đủ 18 tuổi trở lên.",
     "min_rental": "Thuê tối thiểu 1 ngày.",
     "day_definition": "Một ngày thuê tính đủ 24 giờ kể từ lúc nhận xe.",
+    "early_return_refund": false,
+    "early_return_statement": "Không hoàn tiền khi khách đã thuê rồi trả xe trước kỳ hạn của hợp đồng đã ký.",
     "verified": "Chủ website xác nhận 2026-11-21 (Master Matrix TF1, mục W4:LCRO-12)"
   },
   "forbidden_claims": [

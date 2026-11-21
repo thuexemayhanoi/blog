@@ -18,6 +18,8 @@ Thuê Xe Máy Hà Nội Nguyễn Tú là dịch vụ cho thuê xe máy đặt t�
 
 Nguyễn Tú làm việc trực tiếp với khách hàng qua điện thoại, Zalo và WhatsApp. Mọi thông tin về giá, tình trạng xe, tiền đặt cọc và chi phí giao nhận đều được trao đổi và xác nhận trước khi đặt xe, để khách hàng nắm rõ các khoản chi phí phát sinh trong suốt thời gian thuê.
 
+{% include photo-gallery.html set='cua-hang-ben-trong' caption='Bên trong cửa hàng và khách nhận xe. Ảnh thật; khuôn mặt, biển số và mã QR đã được làm mờ.' %}
+
 ## Dịch vụ cho thuê xe máy tại Hà Nội
 
 Dịch vụ của Nguyễn Tú tập trung vào cho thuê xe máy tự lái phục vụ các nhu cầu thường gặp:

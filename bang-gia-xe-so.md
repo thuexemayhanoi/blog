@@ -70,6 +70,8 @@ Honda Wave là mẫu xe số quen thuộc nhất tại Việt Nam, xuất hiện
 
 Mức giá tham khảo 150.000đ/ngày, 700.000đ/tuần và 900.000 – 1.200.000đ/tháng. Tình trạng xe cụ thể được xác nhận khi bạn liên hệ đặt xe.
 
+{% include photo-gallery.html set='xe-so' caption='Xe số tại cửa hàng Nguyễn Tú: Honda Wave, Super Cub. Ảnh thật, biển số đã được làm mờ.' %}
+
 ## Quy trình thuê xe số
 
 1. **Liên hệ:** Gọi điện, Zalo hoặc WhatsApp để hỏi các mẫu xe số đang sẵn có.

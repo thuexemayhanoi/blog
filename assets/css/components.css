@@ -2566,3 +2566,30 @@
   text-decoration-thickness: 1px;
   text-underline-offset: 2px;
 }
+
+/* PHOTO GALLERY — ảnh thật của cửa hàng (_includes/photo-gallery.html) */
+.photo-gallery {
+  margin: var(--spacing-md) 0 var(--spacing-lg);
+}
+
+.photo-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: var(--spacing-sm);
+}
+
+.photo-gallery-grid img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: var(--radius-md);
+  background: var(--color-gray-100);
+}
+
+.photo-gallery figcaption {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-secondary);
+  margin-top: var(--spacing-xs);
+}
