@@ -6,6 +6,10 @@ description: "Thuê xe máy điện và xe đạp điện tại Hà Nội: đặ
 lang: vi
 translation_key: xe-dien
 permalink: /bang-gia-xe-dien/
+image: /assets/images/og/xe-may-dien-sym-trang-01-og.jpg
+image_alt: "Xe máy điện màu trắng tại cửa hàng Nguyễn Tú"
+image_width: 1200
+image_height: 630
 ---
 
 {% assign business = site.data.business %}

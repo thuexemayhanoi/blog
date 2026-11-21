@@ -6,6 +6,10 @@ description: "Thông tin liên hệ để thuê xe máy tại Hà Nội. Điện
 lang: vi
 translation_key: contact
 permalink: /lien-he/
+image: /assets/images/og/mat-tien-cua-hang-112-nguyen-van-cu-02-og.jpg
+image_alt: "Mặt tiền cửa hàng cho thuê xe máy Nguyễn Tú, 112 Nguyễn Văn Cừ"
+image_width: 1200
+image_height: 630
 ---
 
 {% assign business = site.data.business %}
@@ -91,7 +95,7 @@ Có. Vui lòng liên hệ với chúng tôi sớm nhất có thể nếu bạn c
 
 #### Phương thức thanh toán nào được chấp nhận?
 
-Chúng tôi nhận thanh toán bằng tiền mặt (VND) và các hình thức thanh toán di động phổ biến. Vui lòng xác nhận phương thức thanh toán với chúng tôi khi đặt xe.
+Chúng tôi nhận thanh toán bằng tiền mặt (VND) và chuyển khoản ngân hàng hoặc quét mã QR tại cửa hàng.
 
 #### Trả xe trễ giờ thì sao?
 

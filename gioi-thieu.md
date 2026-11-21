@@ -6,6 +6,10 @@ description: "Giới thiệu Nguyễn Tú và dịch vụ cho thuê xe máy tạ
 lang: vi
 translation_key: about
 permalink: /gioi-thieu/
+image: /assets/images/og/ben-trong-cua-hang-01-og.jpg
+image_alt: "Bên trong cửa hàng cho thuê xe máy Nguyễn Tú"
+image_width: 1200
+image_height: 630
 ---
 
 {% assign business = site.data.business %}

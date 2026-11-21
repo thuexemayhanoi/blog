@@ -7,6 +7,10 @@ lang: vi
 translation_key: xe-so
 permalink: /bang-gia-xe-so/
 pricing_table: true
+image: /assets/images/og/honda-wave-den-02-og.jpg
+image_alt: "Xe số Honda Wave màu đen tại cửa hàng Nguyễn Tú"
+image_width: 1200
+image_height: 630
 ---
 
 {% assign pricing = site.data.pricing %}
