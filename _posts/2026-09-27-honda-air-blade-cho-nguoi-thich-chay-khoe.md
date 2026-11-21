@@ -29,7 +29,7 @@ Với người thuê, một điều nữa cần nhớ: xe mạnh dễ khiến ta
 
 ## Ai nên thuê Air Blade và ai không cần
 
-Nhóm hợp nhất với Air Blade là người đi được xe và thích cảm giác lái: nhân viên chạy ngoại thành, người hay đi cung đường cuối tuần, người quen xe ga muốn nâng trải nghiệm, hoặc người đơn thuần muốn kỳ thuê có phần sảng khoái hơn xe phổ thông. Với nhóm này, mức giá thuê ngày 200.000 đồng, tuần 800.000 đồng, tháng 1.400.000 đồng thường được xem là hợp so với công năng nhận được, dù mọi con số cần xác nhận lại với cửa hàng theo thời điểm.
+Nhóm hợp nhất với Air Blade là người đi được xe và thích cảm giác lái: nhân viên chạy ngoại thành, người hay đi cung đường cuối tuần, người quen xe ga muốn nâng trải nghiệm, hoặc người đơn thuần muốn kỳ thuê có phần sảng khoái hơn xe phổ thông. Với nhóm này, mức giá thuê ngày 200.000 đồng, tuần 1.000.000 đồng, tháng 1.500.000 đồng thường được xem là hợp so với công năng nhận được, dù mọi con số cần xác nhận lại với cửa hàng theo thời điểm.
 
 Ngược lại, nếu bạn chỉ cần xe đi chợ, đi làm ngắn dưới năm cây số, hoặc mới tập xe ga lần đầu, Air Blade là dư: xe cao hơn chút, ga nhạy hơn cần thiết và bạn trả thêm cho phần công năng không dùng tới. Người thường chở hai người lớn hoặc đồ nhiều cũng nên cân nhắc, vì tư thế thể thao ít thoải mái hơn khi chở nặng. Bảng đối chiếu giá các dòng xe ga nằm tại [bảng giá xe ga](/bang-gia-xe-ga/) để bạn so sánh trước khi chốt. Với người thường để xe qua đêm ở bãi giữ xe công cộng, dạng xe phổ biến như Air Blade cũng ít bị chú ý hơn các dòng xe máy lớn.
 

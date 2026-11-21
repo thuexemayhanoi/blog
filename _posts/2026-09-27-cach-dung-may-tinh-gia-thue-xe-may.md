@@ -25,7 +25,7 @@ Riêng xe máy điện và xe đạp điện không nằm trong mức tham khả
 
 ## Bước 2: nhập số ngày dự kiến
 
-Sau khi chọn xe, bạn nhập số ngày dự kiến thuê. Đây là bước quan trọng nhất, vì mức giá sẽ khác nhau giữa các kỳ hạn. Với Honda Vision, thuê theo ngày có mức tham khảo 200.000 đồng, theo tuần trong khoảng 800.000 đồng đến 1.000.000 đồng, và theo tháng khoảng 1.800.000 đồng đến 2.000.000 đồng. Với Honda Air Blade, theo tuần là 800.000 đồng và theo tháng là 1.400.000 đồng. Honda Click và Yamaha Mio có mức tuần khoảng 600.000 đồng đến 700.000 đồng và mức tháng khoảng 1.000.000 đồng đến 1.200.000 đồng.
+Sau khi chọn xe, bạn nhập số ngày dự kiến thuê. Đây là bước quan trọng nhất, vì mức giá sẽ khác nhau giữa các kỳ hạn. Với Honda Vision, thuê theo ngày có mức tham khảo 200.000 đồng, theo tuần trong khoảng 1.000.000 đồng, và theo tháng khoảng 1.800.000 đồng đến 2.000.000 đồng. Với Honda Air Blade, theo tuần là 1.000.000 đồng và theo tháng là 1.500.000 đồng. Honda Click và Yamaha Mio có mức tuần khoảng 700.000 đồng và mức tháng khoảng 900.000 đồng đến 1.200.000 đồng.
 
 Điều đáng chú ý: nếu bạn nhập năm ngày, công cụ sẽ so sánh giữa giá ngày nhân năm với giá tuần. Kết quả nhiều khi cho thấy thuê theo tuần rẻ hơn thuê lẻ dù bạn chỉ dùng năm ngày. Ngược lại, với hai ngày lẻ, thuê ngày thường vẫn hợp lý hơn nhận cả tuần. Chính khả năng so sánh này là lý do nên dùng công cụ thay vì tự nhân giá ngày trong đầu.
 

@@ -17,7 +17,7 @@ Nhiều người đứng trước câu hỏi thuê xe tháng hay mua xe cũ rẻ
 
 ## Cấu trúc chi phí thuê dài hạn
 
-Chi phí thuê dài hạn đơn giản và dễ dự đoán. Theo bảng giá đã duyệt của Nguyễn Tú, gói tháng của nhóm Honda Click và Yamaha Mio khoảng 1.000.000 đ đến 1.200.000 đ, Honda Air Blade 1.400.000 đ, Honda Vision từ 1.800.000 đ đến 2.000.000 đ. Trừ phần xăng và phí gửi xe nơi bạn đi lại, gần như không phát sinh thêm khoản bắt buộc nào: đăng ký, đăng kiểm, bảo hiểm bắt buộc và bảo dưỡng định kỳ thuộc phía chủ xe. Tiền đặt cọc cần xác nhận trực tiếp với cửa hàng trước khi nhận xe.
+Chi phí thuê dài hạn đơn giản và dễ dự đoán. Theo bảng giá đã duyệt của Nguyễn Tú, gói tháng của nhóm Honda Click và Yamaha Mio khoảng 900.000 đ đến 1.200.000 đ, Honda Air Blade 1.500.000 đ, Honda Vision từ 1.800.000 đ đến 2.000.000 đ. Trừ phần xăng và phí gửi xe nơi bạn đi lại, gần như không phát sinh thêm khoản bắt buộc nào: đăng ký, đăng kiểm, bảo hiểm bắt buộc và bảo dưỡng định kỳ thuộc phía chủ xe. Tiền đặt cọc cần xác nhận trực tiếp với cửa hàng trước khi nhận xe.
 
 Điểm cần hỏi thêm là cách thanh toán theo kỳ: gói tháng thường đóng theo tháng trước, và bạn nên hỏi rõ nếu cần tách kỳ đóng cho trùng lương. Tiền đặt cọc sẽ được hoàn lại khi trả xe đúng tình trạng nhận, nên hãy giữ biên nhận cọc và bộ ảnh xe ngày nhận để đối chiếu nhanh cuối kỳ.
 

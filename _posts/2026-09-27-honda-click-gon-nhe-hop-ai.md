@@ -33,7 +33,7 @@ Cần nói thẳng phần hạn chế: xe ga nhỏ như Click hao xăng hơn xe 
 
 ## Chi phí thuê Honda Click theo ngày, tuần và tháng
 
-Giá thuê Honda Click theo ngày phổ biến ở mức 150.000 đồng. Nếu cần xe liền một tuần, mức thuê thường rơi vào khoảng từ 600.000 đến 700.000 đồng, còn thuê tháng thường ở khoảng 1.000.000 đến 1.200.000 đồng, tùy thời điểm và điều kiện hợp đồng. Cách đọc đơn giản: đi lại đều mỗi ngày thì thuê tháng rẻ nhất, chỉ cần xe vài ngày lẻ thì thuê ngày vẫn hợp lý hơn. Danh sách giá đầy đủ của các dòng xe ga nằm ở [bảng giá xe ga](/bang-gia-xe-ga/).
+Giá thuê Honda Click theo ngày phổ biến ở mức 150.000 đồng. Nếu cần xe liền một tuần, mức thuê thường rơi vào khoảng 700.000 đồng, còn thuê tháng thường ở khoảng 900.000 đến 1.200.000 đồng, tùy thời điểm và điều kiện hợp đồng. Cách đọc đơn giản: đi lại đều mỗi ngày thì thuê tháng rẻ nhất, chỉ cần xe vài ngày lẻ thì thuê ngày vẫn hợp lý hơn. Danh sách giá đầy đủ của các dòng xe ga nằm ở [bảng giá xe ga](/bang-gia-xe-ga/).
 
 Ngoài tiền thuê, cần tính thêm xăng. Máy xe ga nhỏ tiêu thụ vừa phải trong phố, nhưng quãng đường đi xa hay leo cầu nhiều sẽ tốn hơn. Tiền đặt cọc, điều kiện hợp đồng và quy định xăng khi trả xe cần xác nhận trực tiếp với cửa hàng, tránh tin các con số nghe qua. Thói quen chụp vài tấm hình tình trạng xe khi nhận cũng giúp tránh tranh luận không đáng có khi kết thúc kỳ thuê, nhất là với kỳ thuê dài hàng tháng.
 

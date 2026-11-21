@@ -33,7 +33,7 @@ Tình huống thứ ba là đỗ xe. Bãi đỗ quanh phố cổ thường chậ
 
 ## Chi phí thuê Click khi đi phố cổ
 
-Giá thuê Honda Click theo ngày phổ biến ở mức 150.000 đồng, phù hợp chuyến thăm phố cổ một hoặc hai ngày. Thuê tuần thường rơi vào khoảng từ 600.000 đến 700.000 đồng, thuê tháng khoảng 1.000.000 đến 1.200.000 đồng, tùy thời điểm và điều kiện hợp đồng. Với khách ở xa đến, nhận xe đầu ngày và trả cuối ngày sau giúp tận dụng trọn kỳ thuê, thay vì tính lẻ từng chặng ngắn. Ai cần thuê dài hạn nên đọc thêm về [thuê xe theo tháng](/thue-xe/thue-thang/) để cân đối giữa thuê ngày lẻ và thuê trọn gói.
+Giá thuê Honda Click theo ngày phổ biến ở mức 150.000 đồng, phù hợp chuyến thăm phố cổ một hoặc hai ngày. Thuê tuần thường rơi vào khoảng 700.000 đồng, thuê tháng khoảng 900.000 đến 1.200.000 đồng, tùy thời điểm và điều kiện hợp đồng. Với khách ở xa đến, nhận xe đầu ngày và trả cuối ngày sau giúp tận dụng trọn kỳ thuê, thay vì tính lẻ từng chặng ngắn. Ai cần thuê dài hạn nên đọc thêm về [thuê xe theo tháng](/thue-xe/thue-thang/) để cân đối giữa thuê ngày lẻ và thuê trọn gói.
 
 Đặt cọc, giấy tờ cần mang và quy định xăng khi trả cần hỏi rõ cửa hàng trước khi nhận xe. Với người đi phố cổ, một bình xăng gần đầy là đủ cho nhiều ngày quanh khu trung tâm vì quãng đường ngắn, nhưng vẫn nên đổ sớm nếu định chạy thêm ra vùng ven như cầu Long Biên rồi vòng về qua đường Nguyễn Văn Cừ.
 

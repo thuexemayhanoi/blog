@@ -17,7 +17,7 @@ Nhiều khách đứng trước lựa chọn thuê xe tuần hay ngày mà chỉ
 
 ## Khác biệt thuê tuần về cách tính giá
 
-Khác biệt thuê tuần rõ nhất nằm ở giá. Thuê ngày tính theo đơn giá mỗi ngày, phù hợp nhu cầu ngắn nhưng cộng dồn nhanh nếu kéo dài. Thuê tuần đưa ra giá gói cho trọn bảy ngày, thường thấp hơn tổng tiền bảy ngày lẻ. Lấy ví dụ từ bảng giá đã duyệt của Nguyễn Tú: Honda Vision có giá ngày 200.000 đ, trong khi gói tuần của dòng xe này dao động 800.000 đ đến 1.000.000 đ. Tương tự, Honda Air Blade ngày 200.000 đ so với gói tuần 800.000 đ, nhóm Honda Click và Yamaha Mio ngày 150.000 đ so với tuần 600.000 đ đến 700.000 đ. Với bất kỳ dòng xe nào trong nhóm này, bảy ngày thuê lẻ đều vượt xa mức gói tuần.
+Khác biệt thuê tuần rõ nhất nằm ở giá. Thuê ngày tính theo đơn giá mỗi ngày, phù hợp nhu cầu ngắn nhưng cộng dồn nhanh nếu kéo dài. Thuê tuần đưa ra giá gói cho trọn bảy ngày, thường thấp hơn tổng tiền bảy ngày lẻ. Lấy ví dụ từ bảng giá đã duyệt của Nguyễn Tú: Honda Vision có giá ngày 200.000 đ, trong khi gói tuần của dòng xe này khoảng 1.000.000 đ. Tương tự, Honda Air Blade ngày 200.000 đ so với gói tuần 1.000.000 đ, nhóm Honda Click và Yamaha Mio ngày 150.000 đ so với tuần 700.000 đ. Với bất kỳ dòng xe nào trong nhóm này, bảy ngày thuê lẻ đều vượt xa mức gói tuần.
 
 Nói cách khác, càng cần xe liên tục, chênh lệch giữa thuê tuần và thuê ngày càng nghiêng về phía thuê tuần. Ngược lại, nếu bạn chỉ cần xe ba bốn ngày, thuê ngày lẻ thường gọn hơn vì gói tuần không chia nhỏ. Các mức trên là khung tại thời điểm tham khảo, tiền đặt cọc cần xác nhận trực tiếp với cửa hàng, và bạn nên đối chiếu mới nhất tại trang [bảng giá](/bang-gia/).
 

@@ -29,7 +29,7 @@ Nhóm nên cân nhắc dòng khác: người thường chạy đường trườn
 
 ## Giá thuê thực tế và các khung thời gian
 
-Tại cửa hàng Nguyễn Tú, giá thuê Honda Vision theo ngày là 200.000 đồng. Thuê theo tuần nằm trong khoảng 800.000 đến 1.000.000 đồng, và thuê theo tháng trong khoảng 1.800.000 đến 2.000.000 đồng tùy thời điểm; các khung giá dài hạn này cần xác nhận trực tiếp khi đặt xe vì còn tùy thuộc vào tình hình xe sẵn có. Tiền đặt cọc khi thuê cần xác nhận trực tiếp với cửa hàng, không áp một con số chung. Bảng giá đầy đủ của nhóm xe ga nằm tại [bảng giá xe ga](/bang-gia-xe-ga/) để bạn so sánh với các mẫu khác cùng loại.
+Tại cửa hàng Nguyễn Tú, giá thuê Honda Vision theo ngày là 200.000 đồng. Thuê theo tuần nằm trong khoảng 1.000.000 đồng, và thuê theo tháng trong khoảng 1.800.000 đến 2.000.000 đồng tùy thời điểm; các khung giá dài hạn này cần xác nhận trực tiếp khi đặt xe vì còn tùy thuộc vào tình hình xe sẵn có. Tiền đặt cọc khi thuê cần xác nhận trực tiếp với cửa hàng, không áp một con số chung. Bảng giá đầy đủ của nhóm xe ga nằm tại [bảng giá xe ga](/bang-gia-xe-ga/) để bạn so sánh với các mẫu khác cùng loại.
 
 Khi so sánh giá, đừng chỉ nhìn giá ngày: nếu bạn thuê từ một tuần trở lên, luôn hỏi giá tuần hoặc giá tháng trước, vì chênh lệch giữa tính theo ngày và giá gộp thường đáng kể. Cũng nên hỏi cách tính quá giờ khi trả xe muộn hơn khung đã hẹn, để tránh phát sinh không cần thiết ở lần thuê sau.
 

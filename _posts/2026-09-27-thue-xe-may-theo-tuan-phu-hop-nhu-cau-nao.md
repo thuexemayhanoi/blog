@@ -31,7 +31,7 @@ Một tín hiệu nữa cho thấy thuê tuần chưa hợp: bạn chưa chắc 
 
 ## Giá thuê tuần được tính ra sao
 
-Giá thuê tuần thường rẻ hơn tiền ngày nhân bảy, vì khách thuê dài hạn giúp cửa hàng chủ động xe và giảm công nhận trả. Theo bảng giá đã duyệt của Nguyễn Tú, xe Honda Air Blade có mức 800.000 đ cho một tuần, nhóm Honda Click và Yamaha Mio khoảng 600.000 đ đến 700.000 đ một tuần, còn Honda Vision dao động 800.000 đ đến 1.000.000 đ một tuần. So với giá ngày 150.000 đ đến 200.000 đ của nhóm xe này, thuê tuần rõ ràng có lợi cho nhu cầu dùng liên tục nhiều ngày.
+Giá thuê tuần thường rẻ hơn tiền ngày nhân bảy, vì khách thuê dài hạn giúp cửa hàng chủ động xe và giảm công nhận trả. Theo bảng giá đã duyệt của Nguyễn Tú, xe Honda Air Blade có mức 1.000.000 đ cho một tuần, nhóm Honda Click và Yamaha Mio khoảng 700.000 đ một tuần, còn Honda Vision khoảng 1.000.000 đ một tuần. So với giá ngày 150.000 đ đến 200.000 đ của nhóm xe này, thuê tuần rõ ràng có lợi cho nhu cầu dùng liên tục nhiều ngày.
 
 Điều quan trọng: các mức giá trên là khung theo bảng giá tại thời điểm tham khảo, và tiền đặt cọc cần xác nhận trực tiếp với cửa hàng. Muốn đối chiếu đầy đủ theo từng loại xe, xem trang [bảng giá](/bang-gia/). Nếu bạn muốn tự ước theo nhiều kịch bản ngày, tháng, bài [cách dùng máy tính giá thuê xe máy](/thue-xe/2026/09/27/cach-dung-may-tinh-gia-thue-xe-may/) hướng dẫn từng bước.
 
