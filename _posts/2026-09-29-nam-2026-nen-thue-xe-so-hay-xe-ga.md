@@ -29,7 +29,7 @@ Một khác biệt nữa nằm ở cách bảo dưỡng và xử lý khi gặp m
 
 ## Chi phí thuê xe số và xe ga hiện tại
 
-Ở phía Đông Hà Nội, giá thuê xe số phổ thông như Honda Wave hiện khoảng 150.000 đồng một ngày. Nhóm xe ga nhỏ gọn như Honda Click hoặc Yamaha Mio có giá thuê khoảng 150.000 đồng một ngày, thuê theo tuần từ 600.000 - 700.000 đồng tùy mẫu. Xe ga tầm trung như Honda Vision có giá 200.000 đồng một ngày, tuần từ 800.000 - 1.000.000 đồng và tháng từ 1.800.000 - 2.000.000 đồng. Với dòng ga mạnh mẽ hơn như Honda Air Blade, giá thuê là 200.000 đồng một ngày, 800.000 đồng một tuần và 1.400.000 đồng một tháng. Nhìn vào bảng giá này, chênh lệch giữa xe số và xe ga nhỏ hơn nhiều so với tưởng tượng, nên quyết định nên dựa trên nhu cầu sử dụng thay vì chỉ nhìn giá.
+Ở phía Đông Hà Nội, giá thuê xe số phổ thông như Honda Wave hiện khoảng 150.000 đồng một ngày. Nhóm xe ga nhỏ gọn như Honda Click hoặc Yamaha Mio có giá thuê khoảng 150.000 đồng một ngày, thuê theo tuần 700.000 đồng. Xe ga tầm trung như Honda Vision có giá 200.000 đồng một ngày, tuần 1.000.000 đồng và tháng từ 1.800.000 - 2.000.000 đồng. Với dòng ga mạnh mẽ hơn như Honda Air Blade, giá thuê là 200.000 đồng một ngày, 1.000.000 đồng một tuần và 1.500.000 đồng một tháng. Nhìn vào bảng giá này, chênh lệch giữa xe số và xe ga nhỏ hơn nhiều so với tưởng tượng, nên quyết định nên dựa trên nhu cầu sử dụng thay vì chỉ nhìn giá.
 
 ## Nên chọn xe số khi nào
 
@@ -41,7 +41,7 @@ Xe ga là lựa chọn tự nhiên nếu lịch trình của bạn xoay quanh n�
 
 ## Thuê thử trước khi thuê dài hạn
 
-Nhiều cửa hàng cho thuê theo ngày nên bạn hoàn toàn có thể thử từng loại xe với chi phí không đáng kể. Cách làm rất đơn giản: ngày đầu thuê xe số đi một vòng quanh khu vực sinh sống, cảm nhận tay ga, côn và phanh; ngày sau đổi sang xe ga và lặp lại đúng tuyến đó. Sau hai ngày, bạn sẽ tự biết mình hợp với loại xe nào thay vì dựa vào cảm nhận của người khác. Khi đã chắc chắn, bạn có thể chuyển sang gói thuê tuần hoặc tháng để giá tính ra rẻ hơn so với tính lẻ từng ngày, ví dụ nhóm xe ga nhỏ thuê tuần từ 600.000 - 700.000 đồng trong khi gộp lẻ theo ngày sẽ tốn hơn hẳn.
+Nhiều cửa hàng cho thuê theo ngày nên bạn hoàn toàn có thể thử từng loại xe với chi phí không đáng kể. Cách làm rất đơn giản: ngày đầu thuê xe số đi một vòng quanh khu vực sinh sống, cảm nhận tay ga, côn và phanh; ngày sau đổi sang xe ga và lặp lại đúng tuyến đó. Sau hai ngày, bạn sẽ tự biết mình hợp với loại xe nào thay vì dựa vào cảm nhận của người khác. Khi đã chắc chắn, bạn có thể chuyển sang gói thuê tuần hoặc tháng để giá tính ra rẻ hơn so với tính lẻ từng ngày, ví dụ nhóm xe ga nhỏ thuê tuần 700.000 đồng trong khi gộp lẻ theo ngày sẽ tốn hơn hẳn.
 
 ## Gợi ý nhanh theo nhu cầu thường gặp
 

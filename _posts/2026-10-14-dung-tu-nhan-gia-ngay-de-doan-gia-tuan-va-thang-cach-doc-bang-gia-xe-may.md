@@ -23,10 +23,10 @@ Bảng giá của cửa hàng Nguyễn Tú ở Long Biên chia theo mẫu xe, m�
 
 | Mẫu xe | Ngày | Tuần | Tháng |
 |---|---|---|---|
-| Honda Wave | 150.000 đồng | Liên hệ | Liên hệ |
-| Honda Click / Yamaha Mio | 150.000 đồng | 600.000–700.000 đồng | 1.000.000–1.200.000 đồng |
-| Honda Vision | 200.000 đồng | 800.000–1.000.000 đồng | 1.800.000–2.000.000 đồng |
-| Honda Air Blade | 200.000 đồng | 800.000 đồng | 1.400.000 đồng |
+| Honda Wave | 150.000 đồng | 700.000 đồng | 900.000–1.200.000 đồng |
+| Honda Click / Yamaha Mio | 150.000 đồng | 700.000 đồng | 900.000–1.200.000 đồng |
+| Honda Vision | 200.000 đồng | 1.000.000 đồng | 1.800.000–2.000.000 đồng |
+| Honda Air Blade | 200.000 đồng | 1.000.000 đồng | 1.500.000 đồng |
 | Xe máy điện, xe đạp điện | Liên hệ | Liên hệ | Liên hệ |
 
 Hãy đọc theo hàng ngang, không đọc theo phép tính. Muốn biết thuê Vision một tháng hết bao nhiêu, nhìn vào ô tháng của Vision, đừng lấy ô ngày nhân lên. Bản cập nhật mới nhất luôn ở trang [bảng giá thuê xe máy](/bang-gia/).
@@ -41,11 +41,11 @@ Hãy đọc theo hàng ngang, không đọc theo phép tính. Muốn biết thu�
 
 Nếu giá tháng chỉ là giá ngày nhân lên, thì hai mẫu có cùng giá ngày phải có cùng giá tháng. Bảng cho thấy điều ngược lại.
 
-Honda Vision và Honda Air Blade đều là 200.000 đồng một ngày. Sang cột tháng, Vision nằm trong khoảng 1.800.000–2.000.000 đồng, còn Air Blade là 1.400.000 đồng. Ở cột tuần cũng vậy: Air Blade có một mức cố định 800.000 đồng, còn Vision là cả một khoảng 800.000–1.000.000 đồng.
+Honda Vision và Honda Air Blade đều là 200.000 đồng một ngày. Sang cột tháng, Vision nằm trong khoảng 1.800.000–2.000.000 đồng, còn Air Blade là 1.500.000 đồng. Riêng cột tuần, hai xe hiện cùng mức 1.000.000 đồng.
 
 Nghĩa là chỉ nhìn giá ngày, bạn sẽ tưởng hai xe này ngang nhau về chi phí. Một người thuê theo tháng để đi làm từ Gia Lâm sang Cầu Giấy mỗi ngày mà chỉ dựa vào giá ngày sẽ bỏ lỡ một khác biệt có thật giữa hai mẫu. Nếu đang phân vân hai xe này về cảm giác lái, bài [nên thuê Vision hay Air Blade khi đi phố](/hoi-dap/2026/09/30/nen-thue-vision-hay-air-blade-khi-i-pho/) so sánh kỹ hơn.
 
-Ví dụ thứ hai ít người để ý: Honda Wave và nhóm Click, Mio đều 150.000 đồng một ngày. Nhóm Click, Mio có sẵn mức tuần và tháng trong bảng, còn Wave thì ghi "liên hệ". Đừng mượn giá tuần của Click để đoán giá tuần của Wave. Cùng giá ngày không có nghĩa là cùng giá gói.
+Ví dụ thứ hai ít người để ý: Honda Wave và nhóm Click, Mio đều 150.000 đồng một ngày. Hai dòng này hiện cũng cùng mức tuần và tháng, nhưng đó là do bảng giá đặt như vậy, không phải phép nhân từ giá ngày. Cùng giá ngày không có nghĩa là cùng giá gói.
 
 ## Vì sao giá tháng không bằng 30 lần giá ngày
 
@@ -60,9 +60,9 @@ Hệ quả thực tế cho bạn có hai chiều:
 
 ## Đọc đúng các khoảng giá và chữ "liên hệ"
 
-Một số ô trong bảng là một khoảng, ví dụ tuần của Vision 800.000–1.000.000 đồng. Khoảng nghĩa là mức cụ thể sẽ được xác nhận khi bạn đặt, theo chiếc xe và thời điểm thuê. Khi hỏi, hãy nói rõ mẫu xe, ngày nhận, ngày trả để được báo một con số cụ thể, thay vì tự chọn đầu thấp hay đầu cao của khoảng.
+Một số ô trong bảng là một khoảng, ví dụ tháng của Vision 1.800.000–2.000.000 đồng. Khoảng nghĩa là mức cụ thể sẽ được xác nhận khi bạn đặt, theo chiếc xe và thời điểm thuê. Khi hỏi, hãy nói rõ mẫu xe, ngày nhận, ngày trả để được báo một con số cụ thể, thay vì tự chọn đầu thấp hay đầu cao của khoảng.
 
-Ô ghi "liên hệ" nghĩa là gói đó chưa có mức niêm yết cố định, như tuần và tháng của Wave, hay mọi gói của xe máy điện, xe đạp điện. Với những ô này, cách đúng duy nhất là hỏi trực tiếp. Mọi con số tự suy từ mẫu khác chỉ là phỏng đoán.
+Ô ghi "liên hệ" nghĩa là gói đó chưa có mức niêm yết cố định, như mọi gói của xe máy điện, xe đạp điện. Với những ô này, cách đúng duy nhất là hỏi trực tiếp. Mọi con số tự suy từ mẫu khác chỉ là phỏng đoán.
 
 ## Thuê lệch gói, ví dụ mười ngày, thì hỏi thế nào
 

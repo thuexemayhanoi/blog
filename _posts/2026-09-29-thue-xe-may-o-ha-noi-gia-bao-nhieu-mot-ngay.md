@@ -55,7 +55,7 @@ Trước khi rời cửa hàng, chạy thử xe một vòng ngắn: thử ga, th
 
 ## Khi nào nên thuê theo tuần thay vì tính lẻ ngày
 
-Nếu ở lại Hà Nội từ năm ngày trở lên, hỏi giá tuần gần như luôn gọn hơn: ví dụ Honda Vision tính lẻ 200.000 đồng một ngày, trong khi gói tuần đang niêm yết từ 800.000 đến 1.000.000 đồng, tức thấp hơn hẳn so với việc nhân ngày lẻ ra bảy ngày.
+Nếu ở lại Hà Nội từ năm ngày trở lên, hỏi giá tuần gần như luôn gọn hơn: ví dụ Honda Vision tính lẻ 200.000 đồng một ngày, trong khi gói tuần đang niêm yết 1.000.000 đồng, tức thấp hơn hẳn so với việc nhân ngày lẻ ra bảy ngày.
 
 Xem thêm mục [thuê xe tuần](/thue-xe/thue-tuan/) và [bảng giá](/bang-gia/) để so sánh chi tiết theo dòng xe. Với lịch trình ngắn dưới ba ngày thì giữ nguyên cách tính theo ngày vẫn gọn hơn, vì bạn không bị ràng buộc thời gian nhận trả xe của gói dài hạn.
 

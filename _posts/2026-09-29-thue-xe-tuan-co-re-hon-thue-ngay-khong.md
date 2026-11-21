@@ -17,9 +17,9 @@ Trả lời so sánh giá tuần ngày cho nhanh: thuê xe tuần rẻ hơn khô
 
 ## Thuê xe tuần có rẻ hơn thuê ngày không khi tính bằng con số
 
-Lấy Honda Vision làm ví dụ: giá ngày là 200.000 đồng, bảy ngày tính lẻ là 1.400.000 đồng, trong khi gói tuần niêm yết từ 800.000 đến 1.000.000 đồng. Khoản chênh đủ để bạn thêm được vài ngày ở Hà Nội hoặc mua thêm xăng cho cả chuyến.
+Lấy Honda Vision làm ví dụ: giá ngày là 200.000 đồng, bảy ngày tính lẻ gấp bảy lần con số đó, trong khi gói tuần niêm yết 1.000.000 đồng. Khoản chênh đủ để bạn thêm được vài ngày ở Hà Nội hoặc mua thêm xăng cho cả chuyến.
 
-Honda Air Blade cũng vậy: giá ngày 200.000 đồng, bảy ngày lẻ là 1.400.000 đồng, còn gói tuần chỉ 800.000 đồng. Với Honda Click hoặc Yamaha Mio, bảy ngày lẻ tính ra 1.050.000 đồng so với gói tuần từ 600.000 đến 700.000 đồng. Honda Wave hiện chỉ niêm yết giá ngày 150.000 đồng, muốn thuê tuần bạn gọi hỏi trực tiếp để nhận báo giá đúng thời điểm.
+Honda Air Blade cũng vậy: giá ngày 200.000 đồng, còn gói tuần 1.000.000 đồng, thấp hơn hẳn bảy ngày lẻ. Với Honda Click hoặc Yamaha Mio, bảy ngày lẻ tính ra 1.050.000 đồng so với gói tuần 700.000 đồng. Honda Wave cũng vậy: giá ngày 150.000 đồng, gói tuần 700.000 đồng.
 
 ## Trả lời so sánh giá tuần ngày cho từng nhóm khách
 
@@ -59,6 +59,6 @@ Hỏi rõ khung giờ nhận và trả xe trong gói tuần, mức đặt cọc 
 
 Cuối tuần và các dịp lễ, xe hay hết sớm, nên gọi trước để hỏi dòng xe mình cần còn không. Giá có thể thay đổi theo thời điểm, nên báo giá qua điện thoại trước ngày nhận luôn đáng tin hơn con số nhớ được từ vài tuần trước.
 
-Nếu dự kiến cần kéo dài hơn một tuần, cứ hỏi luôn giá tháng: nhiều dòng xe có gói tháng niêm yết, ví dụ Honda Click hoặc Yamaha Mio từ 1.000.000 đến 1.200.000 đồng, Honda Air Blade 1.400.000 đồng, Honda Vision từ 1.800.000 đến 2.000.000 đồng. Một câu hỏi thêm vài giây có khi giúp bạn gọn được kha khá chi phí.
+Nếu dự kiến cần kéo dài hơn một tuần, cứ hỏi luôn giá tháng: nhiều dòng xe có gói tháng niêm yết, ví dụ Honda Click hoặc Yamaha Mio từ 900.000 đến 1.200.000 đồng, Honda Air Blade 1.500.000 đồng, Honda Vision từ 1.800.000 đến 2.000.000 đồng. Một câu hỏi thêm vài giây có khi giúp bạn gọn được kha khá chi phí.
 
 Để hỏi giá tuần nhanh và nhận xe đúng dòng mình cần, hãy ghé Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga cho thuê theo ngày, theo tuần lẫn theo tháng. Xem thêm [bảng giá](/bang-gia/), [thuê xe tuần](/thue-xe/thue-tuan/), [Hỏi đáp thuê xe máy](/hoi-dap/) và [Hỏi đáp về giá](/hoi-dap/hoi-dap-gia/).

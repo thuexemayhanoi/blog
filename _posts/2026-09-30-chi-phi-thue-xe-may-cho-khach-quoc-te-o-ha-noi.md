@@ -17,7 +17,7 @@ Khách quốc tế tới Hà Nội công tác hoặc du lịch nhiều tuần th
 
 ## Chi phí thuê xe máy cho khách quốc tế: bảng giá áp dụng thế nào
 
-Cần xác lập ngay từ đầu: khách quốc tế dùng chung một bảng giá theo loại xe và thời gian thuê như mọi khách khác, không có mức riêng cho người nước ngoài. Mốc tham chiếu hiện hành: xe số Honda Wave và nhóm Honda Click, Yamaha Mio là 150.000đ mỗi ngày; xe ga Honda Vision và Air Blade là 200.000đ mỗi ngày. Với kỳ thuê dài, gói tuần và tháng rẻ hơn so với nhân ngày lẻ, ví dụ nhóm Click và Mio có gói tuần trong khoảng 600.000đ đến 700.000đ, phù hợp với khách ở lại năm bảy ngày. Bạn có thể đối chiếu trực tiếp trong [bảng giá thuê xe máy](/bang-gia/).
+Cần xác lập ngay từ đầu: khách quốc tế dùng chung một bảng giá theo loại xe và thời gian thuê như mọi khách khác, không có mức riêng cho người nước ngoài. Mốc tham chiếu hiện hành: xe số Honda Wave và nhóm Honda Click, Yamaha Mio là 150.000đ mỗi ngày; xe ga Honda Vision và Air Blade là 200.000đ mỗi ngày. Với kỳ thuê dài, gói tuần và tháng rẻ hơn so với nhân ngày lẻ, ví dụ nhóm Click và Mio có gói tuần trong khoảng 700.000đ, phù hợp với khách ở lại năm bảy ngày. Bạn có thể đối chiếu trực tiếp trong [bảng giá thuê xe máy](/bang-gia/).
 
 Với khách ở lại Hà Nội nhiều tuần hoặc nhiều tháng, gói tháng lại là phương án đáng kể nhất, ví dụ nhóm Click và Mio có gói tháng từ khoảng 1.000.000 đồng trở lên. Đây thường là khoản lớn nhất trong tổng chi phí, nên việc tính trước gói nào hợp với thời gian ở lại là bước quyết định. Cách so sánh các gói được trình bày trong phần [giá thuê xe máy](/thue-xe/gia-thue/).
 

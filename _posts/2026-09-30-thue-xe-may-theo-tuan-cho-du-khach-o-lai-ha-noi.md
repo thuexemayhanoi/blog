@@ -17,7 +17,7 @@ Khác với khách công tác, du khách ở lại Hà Nội năm bảy ngày th
 
 ## Thuê xe tuần cho du khách: gói tuần khác gì thuê lẻ ngày
 
-Khác biệt đầu tiên nằm ở cách tính tiền. Gói tuần được niêm yết thấp hơn so với giá ngày nhân bảy: ví dụ nhóm xe ga Honda Click, Yamaha Mio có gói tuần từ khoảng 600.000đ đến 700.000đ, nhóm Honda Vision, Honda Air Blade ở mức cao hơn từ khoảng 800.000đ, so với 150.000đ đến 200.000đ nếu tính từng ngày lẻ. Với kỳ nghỉ bảy ngày, khoảng chênh đó là một bữa ăn ngon hoặc một buổi chiều thêm spa cho đôi chân đã đi mỏi. Các mức tham chiếu đầy đủ luôn có trong phần [thuê xe theo tuần](/thue-xe/thue-tuan/).
+Khác biệt đầu tiên nằm ở cách tính tiền. Gói tuần được niêm yết thấp hơn so với giá ngày nhân bảy: ví dụ nhóm xe ga Honda Click, Yamaha Mio có gói tuần khoảng 700.000đ, nhóm Honda Vision, Honda Air Blade ở mức cao hơn, khoảng 1.000.000 đồng, so với 150.000đ đến 200.000đ nếu tính từng ngày lẻ. Với kỳ nghỉ bảy ngày, khoảng chênh đó là một bữa ăn ngon hoặc một buổi chiều thêm spa cho đôi chân đã đi mỏi. Các mức tham chiếu đầy đủ luôn có trong phần [thuê xe theo tuần](/thue-xe/thue-tuan/).
 
 Khác biệt thứ hai là cách lên lịch. Du khách thuê xe 1 tuần hà nội thường không phải đi lại quãng đều mỗi ngày như người đi làm: hôm thì quanh phố cổ, hôm ra ngoại thành, hôm lại để xe nghỉ ở khách sạn vì cả ngày xếp tour. Gói tuần hợp với chính nhịp đó: một giá trọn bảy ngày, bạn đi nhiều hay ít thì chi phí vẫn là một con số đã biết, không phải ngồi tính lại từng tối.
 

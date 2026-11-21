@@ -35,7 +35,7 @@ Một cách kiểm tra nhanh cho chính bạn: hãy thử hỏi một khách que
 
 ## Cách cân nhắc theo chi phí thật của kỳ thuê
 
-Cách so sánh đúng nhất là tính tổng theo cả kỳ thuê thay vì nhìn giá theo ngày. Ví dụ nhóm Click và Mio có gói tuần từ khoảng 600.000đ đến 700.000đ và gói tháng từ khoảng 1.000.000 đồng trở lên; khi kỳ thuê dài, giá theo gói giảm rõ so với nhân ngày lẻ, và đây là khoảng giảm mạnh nhất trong toàn bộ bảng giá. Trong khi đó, dòng cao cấp thường không có gói tuần hay gói tháng niêm yết, nên chi phí của nó cộng dồn theo ngày nhanh hơn nhiều.
+Cách so sánh đúng nhất là tính tổng theo cả kỳ thuê thay vì nhìn giá theo ngày. Ví dụ nhóm Click và Mio có gói tuần khoảng 700.000đ và gói tháng từ khoảng 900.000 đồng trở lên; khi kỳ thuê dài, giá theo gói giảm rõ so với nhân ngày lẻ, và đây là khoảng giảm mạnh nhất trong toàn bộ bảng giá. Trong khi đó, dòng cao cấp thường không có gói tuần hay gói tháng niêm yết, nên chi phí của nó cộng dồn theo ngày nhanh hơn nhiều.
 
 Một khoản nữa ít khi được nhắc tới: đặt cọc. Dòng xe càng đắt, mức cọc giữ trong kỳ thuê thường càng cao, nghĩa là ngoài phần tiền thuê, bạn cần chuẩn bị sẵn một khoản cọc lớn hơn và hỏi rõ hình thức hoàn khi trả xe. Khoản này không hiện trên giá niêm yết theo ngày nhưng quyết định tiền mặt bạn phải mang theo lúc nhận xe, nên hãy hỏi cùng lúc hỏi giá.
 

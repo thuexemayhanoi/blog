@@ -37,7 +37,7 @@ Còn một tình huống giữa thế thật đáng cân nhắc: bạn cần xe 
 
 Nguyên tắc so sánh rất đơn giản: nếu dự kiến cần xe nhiều hơn nửa ngày, cứ thuê nguyên ngày. Với mức giá ngày của xe phổ thông như trên, bạn đã có một phương tiện riêng chủ động suốt từ sáng sớm đến tối, không lo tính cộng dồn từng chặng. Chỉ khi chắc chắn dùng xe dưới bốn năm tiếng thì phương án ngắn hạn mới có ý nghĩa.
 
-Nếu chuyến đi của bạn kéo dài nhiều ngày liên tiếp, tính tiếp theo tuần lại rẻ hơn hẳn so với nhân ngày. Ví dụ nhóm Honda Click và Yamaha Mio có gói tuần trong khoảng từ 600.000đ đến 700.000đ, thấp rõ so với khi tính từng ngày lẻ cộng lại cho bảy ngày. Đây cũng là lý do nhiều khách du lịch ở lại Hà Nội vài ngày thường chọn gói tuần ngay từ đầu. Khi cân nhắc các mốc này, bạn nên xem qua phần tổng quan trong nhóm trang [thuê xe máy](/thue-xe/) để nắm được cả ba đơn vị giá trước khi quyết định.
+Nếu chuyến đi của bạn kéo dài nhiều ngày liên tiếp, tính tiếp theo tuần lại rẻ hơn hẳn so với nhân ngày. Ví dụ nhóm Honda Click và Yamaha Mio có gói tuần trong khoảng 700.000đ, thấp rõ so với khi tính từng ngày lẻ cộng lại cho bảy ngày. Đây cũng là lý do nhiều khách du lịch ở lại Hà Nội vài ngày thường chọn gói tuần ngay từ đầu. Khi cân nhắc các mốc này, bạn nên xem qua phần tổng quan trong nhóm trang [thuê xe máy](/thue-xe/) để nắm được cả ba đơn vị giá trước khi quyết định.
 
 Một lưu ý nhỏ về xăng: với thuê ngắn vài tiếng, xe thường được giao với mức xăng vừa đủ dùng, và bạn trả như lúc nhận. Với gói ngày trở lên, quy ước xăng nhận trả nên được hỏi rõ ngay từ đầu để tránh hiểu lầm khi trả xe, chi tiết này được trình bày kỹ trong bài về quy ước xăng khi thuê xe.
 

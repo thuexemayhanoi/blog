@@ -69,8 +69,11 @@ assert.ok(layout.includes('if page.pricing_table'), 'pricing pages still load ex
 assert.ok(layout.includes('site.data.price-notices.posts[page.url]'), 'published price notices also load pricing CSS');
 assert.ok(layout.includes('page.pricing_table or has_price_notice'), 'only pricing pages and posts with price notices load CSS');
 const priceNotices = JSON.parse(read('_data/price-notices.json'));
-assert.ok(priceNotices.posts['/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/'],
-  'reported article is covered by the price-notice CSS condition');
+// The originally reported article (/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/) left the list once its
+// prices were fixed at the source (revise-20261121-price-02). Keep the contract generic: every notice key must be a
+// page.url-style path so `site.data.price-notices.posts[page.url]` matches and the pricing CSS loads.
+assert.ok(Object.keys(priceNotices.posts).every(u => u.startsWith('/') && u.endsWith('/')),
+  'price-notice keys are page.url paths covered by the price-notice CSS condition');
 assert.ok(layout.includes('/assets/css/pricing-table.css'), 'CSS stylesheet linked');
 const priceData = read('_data/pricing.yml');
 assert.match(priceData, /min:\s*150000/);

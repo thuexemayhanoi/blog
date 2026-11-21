@@ -23,9 +23,9 @@ Gói tuần là một biên bản dài hơn: bạn chốt một mức giá trọ
 
 ## Thuê xe ngày hay tuần rẻ hơn: so sánh theo bảng giá niêm yết
 
-Lấy ví dụ nhóm xe ga nhỏ gọn như Honda Click hoặc Yamaha Mio. Giá thuê theo ngày niêm ở mức 150.000 đồng. Nếu bạn thuê lẻ đủ bảy ngày, chi phí là 1.050.000 đồng. Trong khi đó, gói tuần cho nhóm xe này niêm trong khoảng 600.000 đến 700.000 đồng, tức rẻ hơn hẳn cách cộng lẻ cùng khoảng thời gian.
+Lấy ví dụ nhóm xe ga nhỏ gọn như Honda Click hoặc Yamaha Mio. Giá thuê theo ngày niêm ở mức 150.000 đồng. Nếu bạn thuê lẻ đủ bảy ngày, chi phí là 1.050.000 đồng. Trong khi đó, gói tuần cho nhóm xe này niêm ở mức 700.000 đồng, tức rẻ hơn hẳn cách cộng lẻ cùng khoảng thời gian.
 
-Với Honda Vision, giá ngày niêm 200.000 đồng, bảy ngày lẻ tương đương 1.400.000 đồng, còn gói tuần niêm trong khoảng 800.000 đến 1.000.000 đồng. Honda Air Blade cũng có gói tuần niêm 800.000 đồng trong khi giá ngày là 200.000 đồng. Ba ví dụ trên cho cùng một kết luận: chừng nào bạn đi đủ và ổn định cả bảy ngày, gói tuần luôn rẻ hơn cách tính lẻ.
+Với Honda Vision, giá ngày niêm 200.000 đồng, bảy ngày lẻ gấp bảy lần mức đó, còn gói tuần niêm 1.000.000 đồng. Honda Air Blade cũng có gói tuần niêm 1.000.000 đồng trong khi giá ngày là 200.000 đồng. Ba ví dụ trên cho cùng một kết luận: chừng nào bạn đi đủ và ổn định cả bảy ngày, gói tuần luôn rẻ hơn cách tính lẻ.
 
 Mức giá cụ thể theo từng dòng xe được cập nhật trong trang [bảng giá](/bang-gia/). Trước khi đặt, bạn nên mở trang này hoặc gọi hỏi để lấy con số mới nhất, vì giá có thể thay đổi theo đời xe và tình trạng xe trong kho, và con số niêm hôm nay chưa chắc còn nguyên sau vài tuần.
 

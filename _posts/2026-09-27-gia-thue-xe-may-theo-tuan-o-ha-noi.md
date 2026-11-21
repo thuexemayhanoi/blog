@@ -17,15 +17,15 @@ Nếu bạn dự định ở Hà Nội bảy ngày hoặc đi một vòng các t
 
 ## Mức giá thuê xe máy theo tuần tham khảo
 
-Với xe số Honda Wave, bảng giá hiện chưa công bố mức tuần cố định, vì vậy cần liên hệ để xác nhận. Nhóm xe ga có mức tham khảo rõ ràng hơn. Honda Click và Yamaha Mio nằm trong khoảng 600.000 – 700.000 đồng cho một tuần. Honda Vision dao động 800.000 – 1.000.000 đồng tùy thời điểm. Honda Air Blade có mức tham khảo 800.000 đồng mỗi tuần.
+Với xe số Honda Wave, mức tuần tham khảo là 700.000 đồng. Nhóm xe ga cũng có mức tham khảo rõ ràng. Honda Click và Yamaha Mio ở mức 700.000 đồng cho một tuần. Honda Vision khoảng 1.000.000 đồng tùy thời điểm. Honda Air Blade có mức tham khảo 1.000.000 đồng mỗi tuần.
 
 Nhìn vào các mức này, bạn thấy ngay nhóm xe ga nhỏ gọn chi phí thấp nhất trong kỳ hạn tuần, trong khi nhóm xe ga cỡ lớn đắt hơn một phần do giá trị xe cao hơn và trải nghiệm lái thoải mái hơn trên chặng dài.
 
 ## Vì sao thuê theo tuần thường có lợi hơn thuê ngày
 
-Lấy ví dụ cụ thể từ bảng giá theo ngày: Honda Vision tham khảo 200.000 đồng mỗi ngày. Nếu cộng đủ bảy ngày lẻ, bạn đã vượt xa mức tuần dao động 800.000 – 1.000.000 đồng. Tương tự với Honda Click hay Yamaha Mio, mức 150.000 đồng mỗi ngày nếu cộng bảy lần sẽ cao hơn mức tuần 600.000 – 700.000 đồng rõ rệt. Đây là lý do khách ở lại Hà Nội nhiều ngày luôn nên hỏi giá tuần trước khi quyết định.
+Lấy ví dụ cụ thể từ bảng giá theo ngày: Honda Vision tham khảo 200.000 đồng mỗi ngày. Nếu cộng đủ bảy ngày lẻ, bạn đã vượt xa mức tuần khoảng 1.000.000 đồng. Tương tự với Honda Click hay Yamaha Mio, mức 150.000 đồng mỗi ngày nếu cộng bảy lần sẽ cao hơn mức tuần 700.000 đồng rõ rệt. Đây là lý do khách ở lại Hà Nội nhiều ngày luôn nên hỏi giá tuần trước khi quyết định.
 
-Với Honda Air Blade, so sánh cũng cho kết quả tương tự: mức ngày nhân bảy vượt mức tuần 800.000 đồng. Nếu hành trình của bạn chắc chắn đủ bảy ngày, kỳ hạn tuần là lựa chọn kinh tế hơn.
+Với Honda Air Blade, so sánh cũng cho kết quả tương tự: mức ngày nhân bảy vượt mức tuần 1.000.000 đồng. Nếu hành trình của bạn chắc chắn đủ bảy ngày, kỳ hạn tuần là lựa chọn kinh tế hơn.
 
 ## Kỳ hạn tuần phù hợp với hành trình nào
 

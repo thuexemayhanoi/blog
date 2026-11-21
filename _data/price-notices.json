@@ -1,53 +1,17 @@
 {
  "_meta": {
   "schema": "price-notices/1",
-  "posts": 30,
+  "posts": 13,
   "source": "scripts/seo/price_phrases.find_residual trên bài PUBLISHED có evidence; bảng giá lấy từ _data/pricing.yml lúc build",
   "note": "Sinh bởi scripts/seo/build-price-notices.py — KHÔNG sửa tay. Gỡ bài khỏi danh sách khi nội dung gốc đã được sửa qua revise-published.py."
  },
  "posts": {
-  "/hoi-dap/2026-09-29-thue-xe-may-o-ha-noi-gia-bao-nhieu-mot-ngay/": {
-   "id": "BLG-00858",
-   "kinds": [
-    "REVIEW"
-   ]
-  },
-  "/hoi-dap/2026-09-29-thue-xe-tuan-co-re-hon-thue-ngay-khong/": {
-   "id": "BLG-00859",
-   "kinds": [
-    "MISMATCH",
-    "REVIEW",
-    "UNBOUND_STALE",
-    "WAVE_ABSENT"
-   ]
-  },
-  "/hoi-dap/2026/09/29/nam-2026-nen-thue-xe-so-hay-xe-ga/": {
-   "id": "BLG-00877",
-   "kinds": [
-    "MISMATCH",
-    "UNBOUND_STALE"
-   ]
-  },
-  "/hoi-dap/2026/09/30/thue-xe-may-3-ngay-gia-co-re-hon-khong/": {
-   "id": "BLG-00963",
-   "kinds": [
-    "MISMATCH",
-    "REVIEW"
-   ]
-  },
   "/hoi-dap/2026/10/14/bang-gia-ghi-khoang-nhu-800k1tr-mot-tuan-hieu-the-nao-va-hoi-gi/": {
    "id": "BLG-02840",
    "kinds": [
     "ALT_STALE",
     "MISMATCH",
     "UNBOUND_STALE",
-    "WAVE_ABSENT"
-   ]
-  },
-  "/hoi-dap/2026/10/14/dung-tu-nhan-gia-ngay-de-doan-gia-tuan-va-thang-cach-doc-bang-gia-xe-may/": {
-   "id": "BLG-02846",
-   "kinds": [
-    "MISMATCH",
     "WAVE_ABSENT"
    ]
   },
@@ -65,77 +29,10 @@
     "UNBOUND_STALE"
    ]
   },
-  "/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/": {
-   "id": "BLG-00488",
-   "kinds": [
-    "REVIEW",
-    "UNBOUND_STALE",
-    "WAVE_ABSENT"
-   ]
-  },
-  "/thue-xe/2026/09/27/gia-thue-xe-may-theo-tuan-o-ha-noi/": {
-   "id": "BLG-00487",
-   "kinds": [
-    "MISMATCH",
-    "REVIEW",
-    "UNBOUND_STALE",
-    "WAVE_ABSENT"
-   ]
-  },
   "/thue-xe/2026/09/27/nhung-yeu-to-lam-gia-thue-xe-may-thay-oi/": {
    "id": "BLG-00485",
    "kinds": [
     "MISMATCH",
-    "REVIEW"
-   ]
-  },
-  "/thue-xe/2026/09/27/so-sanh-gia-thue-xe-so-va-xe-tay-ga/": {
-   "id": "BLG-00489",
-   "kinds": [
-    "MISMATCH",
-    "WAVE_ABSENT"
-   ]
-  },
-  "/thue-xe/2026/09/30/chi-phi-thue-xe-may-cho-khach-quoc-te-o-ha-noi/": {
-   "id": "BLG-00975",
-   "kinds": [
-    "REVIEW"
-   ]
-  },
-  "/thue-xe/2026/09/30/gia-thue-xe-may-cao-cap-khac-xe-pho-thong-the-nao/": {
-   "id": "BLG-00976",
-   "kinds": [
-    "REVIEW"
-   ]
-  },
-  "/thue-xe/2026/09/30/gia-thue-xe-may-theo-gio-o-ha-noi-khi-nao-dang-chon/": {
-   "id": "BLG-00972",
-   "kinds": [
-    "REVIEW"
-   ]
-  },
-  "/thue-xe/2026/09/30/thanh-toan-khong-tien-mat-khi-thue-xe-may/": {
-   "id": "BLG-00978",
-   "kinds": [
-    "UNBOUND_STALE"
-   ]
-  },
-  "/thue-xe/2026/09/30/thue-xe-may-theo-thang-cho-shipper-o-ha-noi/": {
-   "id": "BLG-00985",
-   "kinds": [
-    "UNBOUND_STALE"
-   ]
-  },
-  "/thue-xe/2026/09/30/thue-xe-may-theo-tuan-cho-du-khach-o-lai-ha-noi/": {
-   "id": "BLG-00983",
-   "kinds": [
-    "REVIEW",
-    "UNBOUND_STALE"
-   ]
-  },
-  "/thue-xe/2026/09/30/thue-xe-may-theo-tuan-khi-ve-que-ngan-ngay/": {
-   "id": "BLG-00984",
-   "kinds": [
     "REVIEW"
    ]
   },
@@ -154,13 +51,6 @@
     "WAVE_ABSENT"
    ]
   },
-  "/thue-xe/2026/10/15/ban-hoa-dip-2010-83-thue-them-xe-may-vai-ngay-cao-diem-giao-hang-tinh-theo-ngay/": {
-   "id": "BLG-03581",
-   "kinds": [
-    "MISMATCH",
-    "WAVE_ABSENT"
-   ]
-  },
   "/thue-xe/2026/10/15/honda-wave-chi-niem-yet-gia-ngay-150000d-muon-thue-wave-ca-tuan-hoac-ca-thang-th/": {
    "id": "BLG-03561",
    "kinds": [
@@ -173,13 +63,6 @@
    "kinds": [
     "MISMATCH",
     "UNBOUND_STALE"
-   ]
-  },
-  "/xe-may/2026/09/29/thue-theo-ngay-va-thue-theo-tuan-chi-phi-khac-nhau-the-nao/": {
-   "id": "BLG-00936",
-   "kinds": [
-    "MISMATCH",
-    "REVIEW"
    ]
   },
   "/xe-may/2026/10/07/honda-click-thue-cho-hai-nguoi-co-em-khong/": {
