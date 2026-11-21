@@ -50,6 +50,17 @@
     "statement": "Không giao xe máy ngoài giờ hoạt động. Thời gian và chi phí giao nhận cần được xác nhận trước khi đặt xe.",
     "fixed_fees": null
   },
+  "late_return": {
+    "statement": "Trả xe trễ tính phí 20.000đ mỗi giờ; trễ quá 6 tiếng tính thêm một ngày thuê.",
+    "fee_per_hour": 20000,
+    "extra_day_after_hours": 6,
+    "verified": "Chủ website xác nhận 2026-11-21 (Master Matrix TF1, mục CK:SEO-114)"
+  },
+  "insurance": {
+    "statement": "Cửa hàng không kèm bảo hiểm cho người thuê xe.",
+    "included_for_renters": false,
+    "verified": "Chủ website xác nhận 2026-11-21 (Master Matrix TF1, mục W4:LCRO-12 / TF1-CNT-307)"
+  },
   "forbidden_claims": [
     "khuyến mại, giảm giá",
     "phí giao xe cố định",

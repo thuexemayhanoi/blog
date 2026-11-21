@@ -18,7 +18,10 @@ Ngày: 2026-09-27. Phạm vi: `data/business-facts.json`, `docs/ARTICLE-RULES.md
 
 Xung đột trực tiếp giữa A/B và C. `_data/pricing.yml` (mà A trích làm nguồn) không có khoảng cọc. Cho tới khi chủ xe quyết định, bài factory MỚI phải theo A/B (không nêu số cọc). Không dùng khoảng 2–5 triệu của C vì nó không có trong nguồn chuẩn hiện tại của /blog.
 
-### 2. Phí trả xe trễ — BLOCKED
+### 2. Phí trả xe trễ — ĐÃ GIẢI QUYẾT 2026-11-21
+
+> Chủ website xác nhận ngày 2026-11-21: phí trả xe trễ 20.000đ mỗi giờ; trễ quá 6 tiếng tính thêm một ngày thuê. Đã ghi vào `data/business-facts.json` (`late_return`). Nội dung lịch sử bên dưới giữ để đối chiếu.
+
 
 - A: không có trường phí trễ; `content_rules` cấm con số ngoài giá đã duyệt.
 - B: im lặng.
@@ -26,7 +29,10 @@ Xung đột trực tiếp giữa A/B và C. `_data/pricing.yml` (mà A trích l�
 
 Xung đột: C duyệt số mà A cấm. Bài mới KHÔNG nêu phí trễ cho tới khi chủ xe xác nhận.
 
-### 3. Bảo hiểm cho người thuê — BLOCKED (một chiều)
+### 3. Bảo hiểm cho người thuê — ĐÃ GIẢI QUYẾT 2026-11-21
+
+> Chủ website xác nhận ngày 2026-11-21: cửa hàng không kèm bảo hiểm cho người thuê xe. Đã ghi vào `data/business-facts.json` (`insurance`). Nội dung lịch sử bên dưới giữ để đối chiếu.
+
 
 - A, B: im lặng.
 - C: "Nguyễn Tú does NOT provide motorbike insurance to renters."
