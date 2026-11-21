@@ -44,13 +44,19 @@ Mức giá tham khảo hiện hành:
 
 Mẫu xe ga phổ biến, thiết kế nhỏ gọn, nhẹ, dễ di chuyển trong các tuyến phố đông. Phù hợp với khách coi trọng sự linh hoạt: đi phố, đi chợ, di chuyển quãng ngắn trong ngày. Giá thuê 200.000đ/ngày.
 
+{% include photo-gallery.html set='xe-ga-vision' caption='Honda Vision tại cửa hàng Nguyễn Tú. Ảnh thật, biển số đã được làm mờ.' %}
+
 ### Honda Air Blade
 
 Dòng xe ga thể thao, động cơ mạnh hơn, thân xe dài và chắc chắn hơn Vision. Phù hợp với khách cần chạy quãng đường dài hơn, đi đôi hoặc người thích cảm giác vận hành chắc. Giá thuê 200.000đ/ngày, 1.500.000đ/tháng.
 
+{% include photo-gallery.html set='xe-ga-airblade' caption='Honda Air Blade tại cửa hàng Nguyễn Tú. Ảnh thật, biển số đã được làm mờ.' %}
+
 ### Honda Click / Yamaha Mio
 
 Cặp xe ga nhỏ gọn, giá thuê thấp nhất trong nhóm xe ga (150.000đ/ngày). Phù hợp với khách thuê ngắn ngày, ngân sách tiết kiệm nhưng vẫn muốn sự tiện lợi của xe tự động.
+
+{% include photo-gallery.html set='xe-ga-click-mio' caption='Honda Click, Yamaha Mio và các xe ga nhỏ tại cửa hàng Nguyễn Tú. Ảnh thật, biển số đã được làm mờ.' %}
 
 ## Xe ga phù hợp với ai?
 
