@@ -107,6 +107,21 @@ Chặn tái phát: `validate.py` (`slug_redirects.source_errors`) và gate FULL 
 phục vụ ở URL đã gỡ; `check-site-urls.py` chặn permalink trùng/không ASCII, `<loc>` trùng/sai host/không ASCII, URL sitemap không tự canonical/meta refresh/noindex, hai trang cùng canonical.
 Audit live `stub_check` kiểm dòng `RETIRED`: URL cũ phải 404/410 và không trong sitemap, URL mới 200 + canonical tự trỏ + trong sitemap.
 
+## Pha 4: khôi phục trang chuyển hướng (quyết định chủ 2026-11-21)
+
+Dữ liệu Google Search Console (22/8–19/11/2026) cho thấy pha 3 làm mất tín hiệu xếp hạng: Google vẫn hiển thị URL cũ đã gỡ (404) hằng ngày, còn URL mới
+của các bài đó phần lớn ở trạng thái "Discovered – currently not indexed" và chưa từng được crawl. Một trang 404 không chuyển tín hiệu sang URL mới, trong khi
+trang chuyển hướng (HTTP 200 + meta refresh 0s + canonical về URL mới) thì có (bài BLG-00944 được khôi phục ở #210 đã được index ở URL mới).
+Chủ website duyệt khôi phục TOÀN BỘ trang chuyển hướng đã gỡ, bằng đúng công cụ hoàn tác byte-exact của pha 3:
+```
+python3 scripts/factory/retire-slug-stubs.py rollback --backup reports/qa-audit/retire/retire-20261028-r01.json
+python3 scripts/factory/retire-slug-stubs.py rollback --backup reports/qa-audit/retire/retire-20261028-r02.json
+python3 scripts/factory/retire-slug-stubs.py rollback --backup reports/qa-audit/retire/retire-20261028-r03.json
+```
+Kết quả: 1.404 trang `redirects/slug-d/<ID>.html` sinh lại khớp byte `stub_source()`, registry 1.408 dòng `MIGRATED`, 0 `RETIRED`; ratchet giữ nguyên (không bài nào
+link tới các URL này). Sao lưu pha 3 giữ nguyên làm lịch sử. Không chạy `retire-slug-stubs.py apply` lại khi chưa có quyết định mới của chủ website.
+Bằng chứng: `reports/factory/seo-master/restore-slug-stubs-20261121.md`.
+
 ## Hàng matrix lệch permalink thật (50 URL BLG-00820…00869)
 
 Trên 5.664 bài PUBLISHED, đúng **50 hàng** ghi `expected_url`/`canonical_url` dạng `/<cm>/YYYY/MM/DD/<slug>/` trong khi permalink thật trong bài (URL Jekyll xuất bản, sitemap và live) là
