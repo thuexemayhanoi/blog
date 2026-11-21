@@ -89,7 +89,7 @@ chỉ là gợi ý rà soát theo nguồn chính thức (`docs/SOURCE-RESEARCH.m
 
 ```bash
 # 1) build Jekyll ra thư mục ngoài repo (ví dụ /tmp/site)
-jekyll build --destination /tmp/site
+TZ=UTC jekyll build --destination /tmp/site   # BẮT BUỘC TZ=UTC như GitHub Pages: bài legacy đăng 01:10 +0700 sẽ lệch ngày trong URL nếu build theo giờ máy (+07) → báo nhầm ~434 bài chưa render + ~123 link hỏng (TF1, 2026-11-21)
 # 2) kiểm kê + audit (nguồn + HTML render)
 python3 scripts/seo/build-inventory.py --site /tmp/site --graph-out /tmp/graph.json
 # 3) ma trận từ khóa, ánh xạ 34 nhóm, cannibalization, gợi ý liên kết
