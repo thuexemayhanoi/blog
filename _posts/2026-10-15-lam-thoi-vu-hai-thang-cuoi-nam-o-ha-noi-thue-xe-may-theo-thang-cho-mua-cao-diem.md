@@ -27,7 +27,7 @@ Khi đã có hai mốc đó, chia thời gian thành từng khối:
 - **Khoảng một tháng:** thuê tháng, gần cuối kỳ mới quyết định gia hạn hay trả.
 - **Hai tháng trở lên:** vẫn nên ký từng tháng một, hết tháng đầu thì hẹn cửa hàng gia hạn tháng thứ hai.
 
-Lý do: việc thời vụ hay đổi, có bạn được giữ lại sau Tết, có bạn bị cắt ca giữa chừng. Chuyện trả sớm thì ngày chưa dùng được xử lý thế nào là điều cần hỏi cửa hàng khi đặt xe, đừng mặc định là được hoàn lại.
+Lý do: việc thời vụ hay đổi, có bạn được giữ lại sau Tết, có bạn bị cắt ca giữa chừng. Ở Nguyễn Tú, trả xe trước kỳ hạn hợp đồng đã ký thì không được hoàn tiền phần ngày chưa dùng, nên ký từng tháng một giúp bạn giữ chủ động.
 
 ## Chọn xe hợp từng kiểu việc thời vụ
 

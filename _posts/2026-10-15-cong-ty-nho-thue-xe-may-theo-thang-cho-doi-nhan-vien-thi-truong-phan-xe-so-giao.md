@@ -88,7 +88,7 @@ Một tờ quy định ngắn dán ở văn phòng giúp tránh tranh cãi về 
 
 Gom tất cả xe về chung một ngày gia hạn giúp kế toán đỡ rối. Khi chuyển khoản, ghi tên công ty, số xe và tháng thanh toán, lưu biên nhận như hướng dẫn ở bài [thanh toán tiền thuê xe máy hằng tháng](/thue-xe/2026/10/14/thanh-toan-tien-thue-xe-may-hang-thang-chuyen-khoan-ghi-noi-dung-va-luu-bien-nha/).
 
-Tình huống tôi từng gặp: một công ty phân phối đồ uống ở Long Biên thuê bốn xe cho tuyến Gia Lâm, Hoàn Kiếm, Tây Hồ. Tháng thứ ba họ cắt một tuyến và trả bớt một xe. Nhờ sổ giao nhận và ảnh từng tuần, việc trả xe xong trong buổi sáng. Chính sách hoàn tiền khi trả xe giữa kỳ chưa chốt sẵn, nên hỏi cửa hàng ngay khi đặt xe.
+Tình huống tôi từng gặp: một công ty phân phối đồ uống ở Long Biên thuê bốn xe cho tuyến Gia Lâm, Hoàn Kiếm, Tây Hồ. Tháng thứ ba họ cắt một tuyến và trả bớt một xe. Nhờ sổ giao nhận và ảnh từng tuần, việc trả xe xong trong buổi sáng. Lưu ý trả xe trước kỳ hạn hợp đồng đã ký thì cửa hàng không hoàn tiền phần thời gian chưa dùng, nên tuyến nào chưa chắc chắn hãy ký kỳ ngắn.
 
 ## Liên hệ đặt xe cho đội thị trường
 

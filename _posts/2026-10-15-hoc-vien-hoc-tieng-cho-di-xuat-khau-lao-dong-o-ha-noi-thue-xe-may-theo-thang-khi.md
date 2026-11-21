@@ -60,7 +60,7 @@ Gia hạn đúng hạn giúp bạn không bị gián đoạn việc đi học. C
 3. Thanh toán theo cách đã thống nhất, ghi rõ nội dung chuyển khoản và lưu biên nhận. Bài [thanh toán tiền thuê xe hằng tháng](/thue-xe/2026/10/14/thanh-toan-tien-thue-xe-may-hang-thang-chuyen-khoan-ghi-noi-dung-va-luu-bien-nha/) có hướng dẫn chi tiết.
 4. Nếu tiền gia đình gửi lên theo một ngày cố định, xem cách [chọn ngày bắt đầu thuê khớp kỳ nhận tiền](/thue-xe/2026/10/15/chon-ngay-bat-dau-thue-xe-theo-thang-khop-ky-nhan-luong-gia-han-dung-han-khong-h/) để không hụt tiền giữa kỳ.
 
-Ngày bay có thể rơi vào giữa kỳ thuê. Chuyện hoàn tiền những ngày chưa dùng chưa có chính sách cố định, nên hãy hỏi cửa hàng ngay khi đặt xe. Khi lịch bay đã gần, bạn cũng có thể hỏi cửa hàng có chuyển sang thuê theo tuần cho chặng cuối được không.
+Ngày bay có thể rơi vào giữa kỳ thuê. Ở Nguyễn Tú, trả xe trước kỳ hạn hợp đồng đã ký thì không được hoàn tiền những ngày chưa dùng, nên hãy tính kỳ thuê kết thúc sát ngày bay. Khi lịch bay đã gần, bạn cũng có thể hỏi cửa hàng có chuyển sang thuê theo tuần cho chặng cuối được không.
 
 ## Giấy tờ và lịch trả xe trước ngày xuất cảnh
 

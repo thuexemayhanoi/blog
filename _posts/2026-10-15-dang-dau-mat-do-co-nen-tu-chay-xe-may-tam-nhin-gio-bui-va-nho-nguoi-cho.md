@@ -86,7 +86,7 @@ Khuyến cáo phòng bệnh nên theo [Bộ Y tế](https://moh.gov.vn/) và bá
 
 Đừng cố chạy cho kịp hạn trả xe. Gọi cửa hàng qua số 0942 467 674 hoặc xem trang [liên hệ](/lien-he/), trong giờ 09:00–21:00, để bàn cách xử lý.
 
-- **Để xe ở nhà vài hôm:** khóa cổ, đỗ chỗ an toàn. Chuyện hoàn tiền ngày chưa dùng thì hỏi cửa hàng trực tiếp.
+- **Để xe ở nhà vài hôm:** khóa cổ, đỗ chỗ an toàn. Phần ngày chưa dùng trong kỳ hạn hợp đồng đã ký không được hoàn tiền nếu bạn trả xe sớm.
 - **Nhờ người khác trả xe:** người chạy thay cần có giấy phép lái xe phù hợp; báo trước ai sẽ mang xe đến 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên.
 - **Nhờ cửa hàng nhận xe tại chỗ:** thời gian và chi phí giao nhận phải xác nhận trước, không giao nhận ngoài giờ mở cửa.
 - **Mũ bảo hiểm:** có kèm mũ hay không thì hỏi khi đặt xe; nếu dùng mũ của tiệm, nói rõ mắt bị đỏ khi trả để mũ được vệ sinh.

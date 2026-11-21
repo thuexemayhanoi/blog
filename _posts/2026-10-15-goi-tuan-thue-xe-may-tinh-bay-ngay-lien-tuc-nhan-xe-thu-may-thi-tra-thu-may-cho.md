@@ -61,7 +61,7 @@ Vài nguyên tắc chọn giờ nhận:
 
 So gói tuần với tổng tiền nếu tính lẻ theo giá ngày niêm yết. Honda Air Blade 200.000 đ một ngày, gói tuần 1.000.000 đ, nên tính lẻ từ ngày thứ sáu đã vượt gói tuần. Honda Vision cũng 200.000 đ một ngày, gói tuần 1.000.000 đ. Honda Click hay Yamaha Mio 150.000 đ một ngày, gói tuần 700.000 đ, thuê lẻ năm ngày đã cao hơn. Honda Wave giá ngày 150.000 đ, gói tuần 700.000 đ, thuê lẻ năm ngày cũng đã cao hơn.
 
-Trả sớm có được hoàn phần ngày chưa dùng hay không thì chưa có chính sách chung để khẳng định, bạn hỏi cửa hàng khi đặt xe và đừng tính khoản đó vào ngân sách. So kỹ từng mốc số ngày ở bài [giá thuê xe máy theo số ngày: hỏi gói ngày nào rẻ](/thue-xe/2026/10/11/gia-thue-xe-may-giam-theo-so-ngay-hoi-goi-ngay-nao-re/).
+Trả xe trước kỳ hạn hợp đồng đã ký thì không được hoàn tiền phần ngày chưa dùng, nên đừng tính khoản đó vào ngân sách. So kỹ từng mốc số ngày ở bài [giá thuê xe máy theo số ngày: hỏi gói ngày nào rẻ](/thue-xe/2026/10/11/gia-thue-xe-may-giam-theo-so-ngay-hoi-goi-ngay-nao-re/).
 
 ### Tám hoặc chín ngày
 
@@ -77,7 +77,7 @@ Lịch từ hai tuần thì hỏi luôn giá tháng. Air Blade thuê tháng 1.50
 
 - Mốc trả: thứ mấy, mấy giờ, ghi trong tin nhắn xác nhận hoặc giấy nhận xe.
 - Giá gói tuần đúng dòng xe bạn nhận, vì giá tháng của Click và Mio là một khoảng chứ không phải một con số.
-- Trả sớm có được hoàn phần chưa dùng không, trả quá mốc tính thế nào: xác nhận trực tiếp với cửa hàng.
+- Trả quá mốc tính thế nào: xác nhận trực tiếp với cửa hàng; còn trả sớm trước kỳ hạn hợp đồng đã ký thì không được hoàn tiền.
 - Mức cọc xác nhận khi đặt xe; có cần để lại giấy tờ hay không cũng hỏi luôn lúc đó.
 - Ngày trả rơi vào dịp lễ, Tết: gọi trước để chắc cửa hàng mở đúng khung giờ bạn định tới.
 

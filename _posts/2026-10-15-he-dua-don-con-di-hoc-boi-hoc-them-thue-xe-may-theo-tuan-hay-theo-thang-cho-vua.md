@@ -55,7 +55,7 @@ Gói tuần và gói tháng tính liên tục từ giờ nhận xe, những ngà
 1. Chia lịch: thuê một gói tháng cho đoạn dài nhất, đoạn còn lại thuê theo tuần sau khi về.
 2. Giữ xe suốt kỳ, chấp nhận trả tiền cho tuần không dùng, đổi lại không phải nhận trả nhiều lần.
 
-Tạm dừng gói giữa chừng rồi cộng bù không phải mặc định; muốn vậy thì phải thỏa thuận với cửa hàng từ đầu. Trả sớm có được hoàn phần chưa dùng hay không cũng hỏi cửa hàng khi đặt xe. Cách đếm mốc bảy ngày có trong bài [gói tuần thuê xe máy tính bảy ngày liên tục](/thue-xe/2026/10/15/goi-tuan-thue-xe-may-tinh-bay-ngay-lien-tuc-nhan-xe-thu-may-thi-tra-thu-may-cho/).
+Tạm dừng gói giữa chừng rồi cộng bù không phải mặc định; muốn vậy thì phải thỏa thuận với cửa hàng từ đầu. Trả xe trước kỳ hạn hợp đồng đã ký cũng không được hoàn tiền phần chưa dùng, nên chọn kỳ thuê khớp lịch thật. Cách đếm mốc bảy ngày có trong bài [gói tuần thuê xe máy tính bảy ngày liên tục](/thue-xe/2026/10/15/goi-tuan-thue-xe-may-tinh-bay-ngay-lien-tuc-nhan-xe-thu-may-thi-tra-thu-may-cho/).
 
 ## Chọn xe chở con an toàn
 

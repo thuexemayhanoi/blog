@@ -67,7 +67,7 @@ Mỗi trường có nhà xe riêng cho sinh viên, nhưng cách làm thẻ, vé 
 Trước khi thuê, ghi ra tiền trọ, tiền ăn và số buổi thực sự cần xe trong tuần. Nếu chỉ đi làm thêm hai tối, thuê theo ngày những hôm đó có khi lại rẻ hơn thuê tháng.
 
 - Muốn cho bạn cùng phòng mượn lái, hỏi cửa hàng trước; người lái phải có bằng phù hợp.
-- Về quê dài ngày dịp Tết hay nghỉ hè, báo cửa hàng sớm để chốt ngày trả hoặc gia hạn. Chuyện hoàn tiền ngày chưa dùng cần hỏi rõ khi đặt xe.
+- Về quê dài ngày dịp Tết hay nghỉ hè, báo cửa hàng sớm để chốt ngày trả hoặc gia hạn. Trả xe trước kỳ hạn hợp đồng đã ký thì không được hoàn tiền ngày chưa dùng.
 - Giữ tin nhắn đặt xe, biên nhận và ảnh tình trạng xe lúc nhận để đối chiếu khi trả.
 
 Các bạn học ở khu khác có hoàn cảnh tương tự, như [sinh viên khu Km9–Km10 Nguyễn Trãi](/thue-xe/2026/10/15/sinh-vien-khu-km9km10-nguyen-trai-thue-xe-may-theo-thang-tro-trieu-khuc-van-quan/), cũng cân nhắc giữa đi bộ, xe buýt và xe thuê tháng theo cách này.
