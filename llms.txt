@@ -1,0 +1,37 @@
+---
+layout: null
+permalink: /llms.txt
+sitemap: false
+---
+# {{ site.data.business.display_name }} — Cẩm nang thuê xe máy Hà Nội
+
+> Blog tiếng Việt của cửa hàng cho thuê xe máy {{ site.data.business.brand }} tại {{ site.data.business.address.full }}. Nội dung gồm bảng giá thuê theo ngày, tuần, tháng và tiền đặt cọc theo từng dòng xe, kinh nghiệm thuê xe, an toàn và pháp lý, cung đường quanh Hà Nội và hỏi đáp. Giờ mở cửa {{ site.data.business.hours }}, điện thoại {{ site.data.business.contact.phone }}.
+
+Giá thuê, tiền đặt cọc và điều kiện thuê lấy theo trang bảng giá; nên xác nhận với cửa hàng trước khi đặt xe.
+
+## Bảng giá
+
+- [Bảng giá thuê xe máy Hà Nội]({{ '/bang-gia/' | absolute_url }}): giá ngày, tuần, tháng và tiền đặt cọc của từng dòng xe
+- [Bảng giá xe số]({{ '/bang-gia-xe-so/' | absolute_url }})
+- [Bảng giá xe ga]({{ '/bang-gia-xe-ga/' | absolute_url }})
+- [Bảng giá xe 50cc]({{ '/bang-gia-xe-50cc/' | absolute_url }})
+- [Bảng giá xe điện]({{ '/bang-gia-xe-dien/' | absolute_url }})
+
+## Chủ đề chính
+
+- [Thuê xe máy Hà Nội]({{ '/thue-xe/' | absolute_url }})
+- [Xe máy & dòng xe]({{ '/xe-may/' | absolute_url }})
+- [An toàn & pháp lý]({{ '/an-toan-phap-ly/' | absolute_url }})
+- [Du lịch Hà Nội]({{ '/du-lich/' | absolute_url }})
+- [Cung đường & hành trình]({{ '/cung-duong/' | absolute_url }})
+- [Kỹ năng & tình huống]({{ '/ky-nang/' | absolute_url }})
+- [Hỏi đáp thuê xe máy]({{ '/hoi-dap/' | absolute_url }})
+
+## Cửa hàng
+
+- [Liên hệ]({{ '/lien-he/' | absolute_url }}): địa chỉ, giờ mở cửa, điện thoại, Zalo
+- [Giới thiệu]({{ '/gioi-thieu/' | absolute_url }})
+
+## Optional
+
+- [Tất cả chủ đề]({{ '/chu-de/' | absolute_url }})

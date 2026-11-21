@@ -41,6 +41,9 @@ C là nguồn duy nhất trong /blog cho khẳng định này. Không được �
 
 ### 4. Giữ giấy tờ tùy thân / mũ bảo hiểm / hoàn tiền — BLOCKED (một chiều)
 
+> Cập nhật 2026-11-21: chủ website xác nhận **mũ bảo hiểm đi kèm xe khi nhận**, người thuê đủ 18 tuổi trở lên, thuê tối thiểu 1 ngày, một ngày thuê tính đủ 24 giờ kể từ lúc nhận xe — đã ghi vào `data/business-facts.json` (`rental_policies`). Giữ giấy tờ tùy thân và hoàn tiền thời gian chưa dùng VẪN BLOCKED (chưa có xác nhận).
+
+
 - A, B: im lặng (B chỉ nói đặt cọc nói chung).
 - C: cấm khẳng định giữ giấy tờ, cấm khẳng định kèm mũ bảo hiểm (trừ dạng "nên hỏi"), cấm hứa hoàn tiền thời gian chưa dùng.
 
