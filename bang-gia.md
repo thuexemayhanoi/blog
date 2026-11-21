@@ -13,6 +13,17 @@ pricing_table: true
 
 ## Bảng giá thuê xe máy tại Hà Nội
 
+{% comment %} Trả lời nhanh (TF1-B2, 2026-11-21): khoảng giá tính từ _data/pricing.yml, không gõ tay số — bảng giá đổi thì câu này đổi theo. {% endcomment %}
+{%- assign qa_day = "" | split: "" -%}{%- assign qa_week = "" | split: "" -%}{%- assign qa_month = "" | split: "" -%}
+{%- for v in pricing.vehicles -%}
+{%- if v.rates.day.min -%}{%- assign qa_day = qa_day | push: v.rates.day.min | push: v.rates.day.max -%}{%- endif -%}
+{%- if v.rates.week.min -%}{%- assign qa_week = qa_week | push: v.rates.week.min -%}{%- endif -%}
+{%- if v.rates.month.min -%}{%- assign qa_month = qa_month | push: v.rates.month.min -%}{%- endif -%}
+{%- endfor -%}
+{%- assign qa_day = qa_day | sort -%}{%- assign qa_week = qa_week | sort -%}{%- assign qa_month = qa_month | sort %}
+
+**Trả lời nhanh:** giá thuê xe máy tại Nguyễn Tú từ {% include vnd.html n=qa_day.first %}đ đến {% include vnd.html n=qa_day.last %}đ một ngày tùy dòng xe; thuê theo tuần từ {% include vnd.html n=qa_week.first %}đ và theo tháng từ {% include vnd.html n=qa_month.first %}đ. Tiền đặt cọc là khoản riêng, từ {% include vnd.html n=pricing.deposit_policy.min %}đ đến {% include vnd.html n=pricing.deposit_policy.max %}đ tùy loại xe. Xe máy điện và xe đạp điện được báo giá khi liên hệ.
+
 Tất cả mức giá trong trang này được niêm yết bằng Đồng Việt Nam (VND). Đây là bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
 Bảng giá được chia theo ba hình thức thuê chính:
@@ -61,7 +72,13 @@ Xe máy điện và xe đạp điện chạy bằng pin, không phát thải, v�
 
 Chi tiết tại trang [thuê xe máy điện Hà Nội]({{ '/bang-gia-xe-dien/' | relative_url }}).
 
-Muốn chọn kỳ hạn phù hợp, xem [cách đọc một báo giá thuê xe]({{ '/thue-xe/gia-thue/' | relative_url }}) và kinh nghiệm thuê [theo ngày]({{ '/thue-xe/thue-ngay/' | relative_url }}), [theo tuần]({{ '/thue-xe/thue-tuan/' | relative_url }}) hoặc [theo tháng]({{ '/thue-xe/thue-thang/' | relative_url }}).
+Muốn chọn kỳ hạn phù hợp, bạn có thể đọc thêm:
+
+- [Cách đọc một báo giá thuê xe]({{ '/thue-xe/gia-thue/' | relative_url }}).
+- Mức giá từng dòng xe khi thuê ngắn: [giá thuê xe máy theo ngày ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-27-gia-thue-xe-may-theo-ngay-o-ha-noi %}).
+- Kinh nghiệm thuê [theo ngày]({{ '/thue-xe/thue-ngay/' | relative_url }}).
+- Kinh nghiệm thuê [theo tuần]({{ '/thue-xe/thue-tuan/' | relative_url }}).
+- Kinh nghiệm thuê [theo tháng]({{ '/thue-xe/thue-thang/' | relative_url }}).
 
 ## Loại hình thuê
 
@@ -144,7 +161,9 @@ Chi phí giao nhận (nếu yêu cầu giao tận nơi) và chi phí phát sinh 
 5. **Đặt cọc:** Thực hiện đặt cọc theo mức đã thỏa thuận.
 6. **Nhận xe:** Kiểm tra xe cùng Nguyễn Tú và bắt đầu hành trình.
 
-Nếu bạn mới thuê xe máy lần đầu, hãy đọc thêm [thủ tục thuê xe máy lần đầu]({{ '/thue-xe/thu-tuc/' | relative_url }}) hoặc tìm hiểu thêm về [Nguyễn Tú]({{ '/gioi-thieu/' | relative_url }}) trước khi đặt xe.
+Nếu bạn mới thuê xe máy lần đầu, hãy đọc thêm [thủ tục thuê xe máy lần đầu]({{ '/thue-xe/thu-tuc/' | relative_url }}).
+
+Trước khi đặt xe, bạn cũng có thể tìm hiểu thêm về [Nguyễn Tú]({{ '/gioi-thieu/' | relative_url }}).
 
 <div class="cta-group">
   <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi ngay</a>
