@@ -7,6 +7,10 @@ lang: vi
 translation_key: xe-50cc
 permalink: /bang-gia-xe-50cc/
 pricing_table: true
+image: /assets/images/og/xe-ga-50cc-co-dien-trang-01-og.jpg
+image_alt: "Xe tay ga 50cc màu trắng tại cửa hàng Nguyễn Tú"
+image_width: 1200
+image_height: 630
 ---
 
 {% assign business = site.data.business %}

@@ -7,6 +7,10 @@ lang: vi
 translation_key: xe-ga
 permalink: /bang-gia-xe-ga/
 pricing_table: true
+image: /assets/images/og/honda-vision-trang-01-og.jpg
+image_alt: "Xe tay ga Honda Vision màu trắng tại cửa hàng Nguyễn Tú"
+image_width: 1200
+image_height: 630
 ---
 
 {% assign pricing = site.data.pricing %}

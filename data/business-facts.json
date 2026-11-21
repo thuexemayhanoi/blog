@@ -69,6 +69,11 @@
     "day_definition": "Một ngày thuê tính đủ 24 giờ kể từ lúc nhận xe.",
     "early_return_refund": false,
     "early_return_statement": "Không hoàn tiền khi khách đã thuê rồi trả xe trước kỳ hạn của hợp đồng đã ký.",
+    "payment_methods": ["tiền mặt", "chuyển khoản ngân hàng / quét mã QR"],
+    "payment_statement": "Nhận thanh toán bằng tiền mặt và chuyển khoản ngân hàng hoặc quét mã QR.",
+    "id_documents_retained": false,
+    "id_documents_statement": "Cửa hàng không giữ giấy tờ tùy thân gốc của khách; giấy tờ chỉ được xem và chụp lại để đối chiếu khi nhận xe.",
+    "verified_2026_11_22": "Chủ website xác nhận 2026-11-22: không hoàn tiền khi trả xe trước kỳ hạn, phương thức thanh toán, không giữ giấy tờ gốc",
     "verified": "Chủ website xác nhận 2026-11-21 (Master Matrix TF1, mục W4:LCRO-12)"
   },
   "forbidden_claims": [
