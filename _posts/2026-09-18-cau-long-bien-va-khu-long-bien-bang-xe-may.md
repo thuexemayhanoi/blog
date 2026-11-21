@@ -11,7 +11,7 @@ reading_time: 9
 campaign: hanoi-seo-480
 ---
 
-Nhiều người đến Hà Nội và chỉ biết đến Hồ Gươm, nhưng nếu bạn có một buổi sáng rảnh và một chiếc xe máy, cầu Long Biên cùng khu vực quanh nó là trải nghiệm mang màu sắc hoàn toàn khác: một Hà Nội của chợ đầu mối, của dòng sông Hồng đỏ nặng phù sa và của cây cầu thép hơn một thế kỷ tuổi. Đây cũng là khu vực quen thuộc với Nguyễn Tú, nên bài viết này viết từ góc nhìn của người đi qua cây cầu ấy mỗi ngày.
+Nhiều người đến Hà Nội và chỉ biết đến Hồ Gươm, nhưng nếu bạn có một buổi sáng rảnh và một chiếc xe máy, [cầu Long Biên cùng khu vực quanh nó]({{ '/du-lich/long-bien/' | relative_url }}) là trải nghiệm mang màu sắc hoàn toàn khác: một Hà Nội của chợ đầu mối, của dòng sông Hồng đỏ nặng phù sa và của cây cầu thép hơn một thế kỷ tuổi. Đây cũng là khu vực quen thuộc với Nguyễn Tú, nên bài viết này viết từ góc nhìn của người đi qua cây cầu ấy mỗi ngày.
 
 ## Cầu Long Biên: cây cầu già nhất Hà Nội còn đứng vững
 

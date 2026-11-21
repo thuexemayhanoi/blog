@@ -33,7 +33,7 @@ Mức đặt cọc thông thường dao động từ 2.000.000đ đến 5.000.00
 
 ## Cung đường quanh Tây Hồ
 
-Vòng quanh hồ Tây là cung đường thư giãn nhất của khu vực, với đường ven hồ thoáng, cây xanh và các quán cà phê view hồ. Sáng sớm và hoàng hôn là hai khung giờ đẹp nhất. Cuối tuần, khu vực đường Võ Chí Công và ven hồ thường đông người dạo xe, nên giữ tốc độ thấp và khoảng cách xa với người đi bộ.
+[Vòng quanh hồ Tây]({{ '/du-lich/ho-tay/' | relative_url }}) là cung đường thư giãn nhất của khu vực, với đường ven hồ thoáng, cây xanh và các quán cà phê view hồ. Sáng sớm và hoàng hôn là hai khung giờ đẹp nhất. Cuối tuần, khu vực đường Võ Chí Công và ven hồ thường đông người dạo xe, nên giữ tốc độ thấp và khoảng cách xa với người đi bộ.
 
 Từ Tây Hồ, bạn dễ dàng kết nối sang các khu khác: qua cầu Nhật Tân đến Long Biên và các vùng ven đô, qua đường Hoàng Quốc Việt lên Cầu Giấy, hoặc theo Âu Cơ xuống phía nam về Trích Sài rồi nối vào các tuyến vào trung tâm. So với việc ở trong phố cổ, di chuyển từ Tây Hồ thường thoáng đãng hơn, ít phải chen qua các con phố nhỏ.
 

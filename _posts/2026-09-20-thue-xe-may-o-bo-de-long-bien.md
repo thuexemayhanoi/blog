@@ -11,7 +11,7 @@ reading_time: 9
 campaign: hanoi-seo-480
 ---
 
-Khu Bồ Đề nằm ở quận Long Biên, phía đông sông Hồng, là nơi hội tụ nhiều lợi thế cho người cần thuê xe máy: gần các cây cầu kết nối vào trung tâm, đường sá tương đối thoáng so với phố cổ, và có những cung đường ven sông đẹp vào buổi sáng. Nếu bạn đang ở khu này hoặc dự định ở lại đây trong chuyến đi, bài viết sẽ giúp bạn hiểu vì sao thuê xe ngay tại Bồ Đề thường là lựa chọn hợp lý.
+Khu Bồ Đề nằm ở [quận Long Biên]({{ '/du-lich/long-bien/' | relative_url }}), phía đông sông Hồng, là nơi hội tụ nhiều lợi thế cho người cần thuê xe máy: gần các cây cầu kết nối vào trung tâm, đường sá tương đối thoáng so với phố cổ, và có những cung đường ven sông đẹp vào buổi sáng. Nếu bạn đang ở khu này hoặc dự định ở lại đây trong chuyến đi, bài viết sẽ giúp bạn hiểu vì sao thuê xe ngay tại Bồ Đề thường là lựa chọn hợp lý.
 
 ## Vị trí kết nối của Bồ Đề
 

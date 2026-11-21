@@ -33,7 +33,7 @@ Nếu không nhất thiết phải vào ngõ lúc sáu giờ tối, hãy dời c
 
 ## Gửi xe quanh phố cổ
 
-Chỗ gửi xe ở khu phố cổ vào sáng cuối tuần thường đầy nhanh, và việc mò vào ngõ để tìm chỗ trống gây ách tắc cục bộ. Cách làm khôn ngoan là gửi xe ở bãi ven các trục lớn rồi đi bộ vào ngõ. Đi bộ trong phố cổ vốn là cách thưởng thức khu phố đúng nghĩa, và bạn tránh được rủi ro va quẹt giữa ngõ nhỏ. Trước khi gửi xe, chụp lại biển số vị trí và chụp đồng hồ xăng nếu dùng xe thuê, để có căn cứ rõ ràng khi nhận lại xe.
+Chỗ gửi xe ở khu phố cổ vào sáng cuối tuần thường đầy nhanh, và việc mò vào ngõ để tìm chỗ trống gây ách tắc cục bộ. Cách làm khôn ngoan là gửi xe ở bãi ven các trục lớn rồi đi bộ vào ngõ. Đi bộ trong phố cổ vốn là cách [thưởng thức khu phố]({{ '/du-lich/pho-co/' | relative_url }}) đúng nghĩa, và bạn tránh được rủi ro va quẹt giữa ngõ nhỏ. Trước khi gửi xe, chụp lại biển số vị trí và chụp đồng hồ xăng nếu dùng xe thuê, để có căn cứ rõ ràng khi nhận lại xe.
 
 ## Những tình huống thường gặp và cách xử lý
 

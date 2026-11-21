@@ -57,7 +57,7 @@ Tuyến ven đê hợp với khung giờ sáng sớm hoặc chiều muộn khi t
 
 Buổi sáng sớm là khung giờ tốt cho cụm di tích: không khí mát, Lăng mở cửa đón khách thăm vào buổi sáng, các bảo tàng cũng mở từ sáng. Cuối tuần đông khách du lịch hơn, ngày thường yên tĩnh hơn nhưng một số bảo tàng đóng cửa thứ Hai, cần kiểm tra trước.
 
-Ghép tuyến: Ba Đình nằm liền kề Hồ Gươm về phía nam và Hồ Tây về phía bắc, vì vậy bạn có thể ghép cả ba khu trong một ngày: sáng Ba Đình thăm cụm di tích, trưa ăn uống quanh Phan Đình Phùng, chiều lên Tây Hồ vòng hồ và ngắm hoàng hôn. Tổng quãng đường khoảng mười cây số, vừa sức cho một ngày và có sẵn chỗ gửi xe ở từng khu.
+Ghép tuyến: Ba Đình nằm liền kề Hồ Gươm về phía nam và Hồ Tây về phía bắc, vì vậy bạn có thể [ghép cả ba khu trong một ngày]({{ '/cung-duong/cung-duong-noi-thanh/' | relative_url }}): sáng Ba Đình thăm cụm di tích, trưa ăn uống quanh Phan Đình Phùng, chiều lên Tây Hồ vòng hồ và ngắm hoàng hôn. Tổng quãng đường khoảng mười cây số, vừa sức cho một ngày và có sẵn chỗ gửi xe ở từng khu.
 
 Về quy định: khu vực Quảng trường kiểm soát việc quay phim chụp ảnh tại một số vị trí, hãy làm theo hướng dẫn của lực lượng chức năng tại chỗ. Khi chạy xe trong khu, tuân thủ biển báo phân luồng, một chiều quanh khu di tích thay đổi theo khung giờ nghi lễ. Nếu thấy tuyến đường bị chặn, hỏi cảnh sát giao thông hoặc dân địa phương thay vì tự ý đi ngược.
 

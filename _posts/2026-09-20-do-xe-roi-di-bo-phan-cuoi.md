@@ -43,7 +43,7 @@ Mưa làm mô hình trung chuyển kém hấp dẫn: đi bộ hai mươi phút d
 
 ## Áp dụng cho người thuê xe du lịch
 
-Với khách thuê xe khám phá Hà Nội, mô hình trung chuyển đặc biệt đáng dùng cho buổi chiều phố cổ: để xe ở bãi mép ngoài, đi bộ các phố đồng hồ, sách, thưởng trà, và lấy xe về trước giờ cao điểm tối. Lợi ích riêng của nhóm khách: đi bộ cho cả nhóm dễ giữ nhau hơn so với đi đoàn xe máy trong phố đông, không lo lạc nhau ở các ngã năm ngã sáu, và các kinh nghiệm phố cổ, từ gánh hàng đến căn nhà cổ, chỉ có ở tốc độ bước chân. Nhớ hỏi nơi cho thuê về các bãi gửi quen quanh khu dự kiến đến, vì các nơi cho thuê lâu năm ở Hà Nội thường biết chính xác bãi nào giữ xe trông xe tử tế quanh các khu trung tâm.
+Với khách thuê xe khám phá Hà Nội, mô hình trung chuyển đặc biệt đáng dùng cho [buổi chiều phố cổ]({{ '/du-lich/pho-co/' | relative_url }}): để xe ở bãi mép ngoài, đi bộ các phố đồng hồ, sách, thưởng trà, và lấy xe về trước giờ cao điểm tối. Lợi ích riêng của nhóm khách: đi bộ cho cả nhóm dễ giữ nhau hơn so với đi đoàn xe máy trong phố đông, không lo lạc nhau ở các ngã năm ngã sáu, và các kinh nghiệm phố cổ, từ gánh hàng đến căn nhà cổ, chỉ có ở tốc độ bước chân. Nhớ hỏi nơi cho thuê về các bãi gửi quen quanh khu dự kiến đến, vì các nơi cho thuê lâu năm ở Hà Nội thường biết chính xác bãi nào giữ xe trông xe tử tế quanh các khu trung tâm.
 
 ## Công cụ hỗ trợ cho người hay quên vị trí xe
 
