@@ -20,7 +20,7 @@ Trước hết cần hiểu: pin là bộ phận đắt giá nhất của xe đi
 
 Nguyên tắc số một: chỉ dùng bộ sạc đi kèm xe hoặc bộ sạc mà cửa hàng chỉ định. Mỗi dòng xe điện có điện áp pin và dòng sạc khác nhau, bộ sạc không khớp có thể khiến pin đầy chậm, nóng bất thường hoặc ngắn hạn sử dụng. Khi nhận xe, hãy kiểm tra bộ sạc: giắc cắm chắc, dây không đứt nứt, đèn báo sạc sáng khi cắm điện. Nếu phát hiện bộ sạc có dấu hiệu hở, chập hoặc đèn báo không hoạt động, báo cửa hàng ngay để đổi bộ khác trước khi rời cửa hàng.
 
-Đặt bộ sạc nơi thoáng, tránh ánh nắng chiếu trực tiếp và xa các vật dễ cháy khi đang sạc. Cảm giác chạm vào bộ sạc ấm nhẹ là bình thường, nhưng nếu bộ sạc nóng ran hoặc có mùi khét, hãy rút điện ngay và báo cửa hàng. Tuyệt đối không mua bộ sạc công suất lớn hơn với hy vọng rút ngắn thời gian sạc, vì cách làm này là nguyên nhân hàng đầu khiến pin bị phồng và chai nhanh.
+Đặt bộ sạc nơi thoáng, tránh ánh nắng chiếu trực tiếp và xa các vật dễ cháy khi đang sạc. Cảm giác chạm vào [bộ sạc ấm nhẹ là bình thường](/xe-may/2026/10/17/bo-sac-xe-may-dien-keu-re-co-tieng-quat-hoac-nong-am-khi-sac-muc-nao-binh-thuong/), nhưng nếu bộ sạc nóng ran hoặc có mùi khét, hãy rút điện ngay và báo cửa hàng. Tuyệt đối không mua bộ sạc công suất lớn hơn với hy vọng rút ngắn thời gian sạc, vì cách làm này là nguyên nhân hàng đầu khiến pin bị phồng và chai nhanh.
 
 Khi cắm sạc, hãy cắm đầu bờ tường trước rồi mới cắm vào xe, và khi rút thì làm ngược lại. Thao tác nhỏ này giúp hạn chế tia lửa ở giắc cắm xe, điểm tiếp xúc dễ hỏng nhất của cả bộ sạc. Sau khi pin đầy, đèn báo trên bộ sạc thường đổi màu, đó là lúc bạn nên rút. Nếu đèn báo không đổi màu dù đã sạc lâu hơn thời gian cửa hàng tư vấn, hãy ngừng sạc và báo để kiểm tra.
 
@@ -28,7 +28,7 @@ Khi cắm sạc, hãy cắm đầu bờ tường trước rồi mới cắm vào
 
 Thời điểm sạc lý tưởng là khi pin còn khoảng hai mươi đến ba mươi phần trăm, thay vì để cạn kiệt hoàn toàn rồi mới cắm. Pin lithium nói chung không thích bị xả sâu, thói quen kiệt pin mới sạc sẽ làm giảm dung lượng hữu ích theo thời gian. Ngược lại, cũng không cần rút đúng lúc pin vừa đầy nếu bạn đang bận, nhưng nên tránh cắm sạc qua đêm hay cả buổi khi đi vắng. Hẹn giờ nhắc nhở trên điện thoại là mẹo đơn giản giúp bạn rút sạc đúng lúc.
 
-Nhiều khách thuê xe điện đi trong ngày, về nghỉ đêm và có thói quen cắm sạc tối hôm đó. Nếu bạn ở homestay hoặc phòng trọ, hãy hỏi chủ nơi lưu trú xem có ổ cắm phù hợp và họ có đồng ý cho sạc không trước khi cắm. Việc hỏi trước vừa lịch sự, vừa tránh phát sinh chi phí hoặc tranh luận không đáng có về điện năng tiêu thụ.
+Nhiều khách thuê xe điện đi trong ngày, về nghỉ đêm và có thói quen cắm sạc tối hôm đó. Nếu bạn ở homestay hoặc phòng trọ, hãy hỏi chủ nơi lưu trú xem có ổ cắm phù hợp và họ có đồng ý cho sạc không trước khi cắm. Việc hỏi trước vừa lịch sự, vừa tránh phát sinh chi phí hoặc tranh luận không đáng có về [điện năng tiêu thụ](/xe-may/2026/10/15/tien-dien-sac-xe-may-dien-o-nha-tro-uoc-luong-so-kwh-moi-lan-sac-va-thoa-thuan-v/).
 
 Vị trí ổ điện cũng đáng để lưu ý: chọn ổ cắm chắc chắn, không lỏng lẻo, đặt bộ sạc trên bề mặt phẳng khô ráo. Tránh dùng ổ cắm chung một lúc với nhiều thiết bị công suất lớn như bếp hay bình nóng lạnh, vì điện áp chập chờn ảnh hưởng đến cả bộ sạc và pin. Nếu ở khu vực hay mất điện, hãy canh giờ sạc vào lúc có người ở nhà để kịp xử lý khi cúp điện bất ngờ.
 
@@ -46,7 +46,7 @@ Một mẹo thực tế: chia chuyến đi thành các chặng ngắn và ghi l�
 
 ## Khi nào pin cần được kiểm tra
 
-Một số dấu hiệu cho thấy pin xe điện cần được kiểm tra kỹ: pin tụt nhanh bất thường so với quãng đường đã đi, pin đầy rất nhanh hoặc không đầy dù sạc lâu, xe yếu đột ngột khi còn hiển thị khá nhiều pin, hoặc pin bị phồng nhẹ ở lớp vỏ. Khi gặp các biểu hiện này, hãy dừng sử dụng và báo cửa hàng ngay, mô tả cụ thể mức pin trước sau mỗi chặng. Cửa hàng sẽ kiểm tra hoặc đổi xe khác để chuyến đi của bạn không bị gián đoạn.
+Một số dấu hiệu cho thấy pin xe điện cần được kiểm tra kỹ: pin tụt nhanh bất thường so với quãng đường đã đi, pin đầy rất nhanh hoặc không đầy dù sạc lâu, xe yếu đột ngột khi còn hiển thị khá nhiều pin, hoặc [pin bị phồng nhẹ ở lớp vỏ](/xe-may/2026/10/11/pin-xe-dien-nong-bat-thuong-phong-hoac-co-mui-la-dung-dung-va-lam-gi/). Khi gặp các biểu hiện này, hãy dừng sử dụng và báo cửa hàng ngay, mô tả cụ thể mức pin trước sau mỗi chặng. Cửa hàng sẽ kiểm tra hoặc đổi xe khác để chuyến đi của bạn không bị gián đoạn.
 
 Nhiệt độ cũng ảnh hưởng đến pin: để xe dưới nắng gắt lâu, pin sẽ nóng và tụt nhanh hơn khi bắt đầu chạy. Nếu có thể, đỗ xe trong bóng râm hoặc nơi có mái che. Mùa đông lạnh, cảm giác pin kém hơn cũng là hiện tượng thường thấy, không phải luôn luôn là lỗi của xe.
 

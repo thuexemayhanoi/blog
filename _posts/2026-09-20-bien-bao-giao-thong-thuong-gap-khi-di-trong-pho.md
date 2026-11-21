@@ -17,11 +17,11 @@ Trả lời ngắn gọn: người lái nên thuộc lòng nhóm biển cấm v�
 
 ## Nhóm biển cấm thường gặp
 
-Trong phố, nhóm biển cấm xuất hiện dày nhất: cấm đi ngược chiều, cấm rẽ trái, cấm dừng đỗ, cấm ô tô hoặc cấm xe máy. Đây là nhóm biển có hình tròn viền đỏ, nền trắng, ghi hình hoặc chữ đen. Điểm cần chú ý là biển cấm dừng và cấm đỗ là hai biển khác nhau: một bên có dấu gạch chéo, một bên có hai gạch, và hiểu sai giữa chúng dẫn tới những vé phạt không đáng có. Biển cấm xe máy đôi khi chỉ áp dụng theo khung giờ, ghi trên tấm phụ bên dưới, nên hãy đọc cả tấm phụ chứ đừng chỉ nhìn biển chính.
+Trong phố, nhóm biển cấm xuất hiện dày nhất: cấm đi ngược chiều, cấm rẽ trái, cấm dừng đỗ, cấm ô tô hoặc cấm xe máy. Đây là nhóm biển có hình tròn viền đỏ, nền trắng, ghi hình hoặc chữ đen. Điểm cần chú ý là biển cấm dừng và cấm đỗ là hai biển khác nhau: một bên có dấu gạch chéo, một bên có hai gạch, và hiểu sai giữa chúng dẫn tới những vé phạt không đáng có. Biển cấm xe máy đôi khi [chỉ áp dụng theo khung giờ](/an-toan-phap-ly/2026/10/16/bien-cam-kem-bien-phu-ghi-khung-gio-doc-the-nao-de-biet-lenh-cam-co-ap-dung-luc/), ghi trên tấm phụ bên dưới, nên hãy đọc cả tấm phụ chứ đừng chỉ nhìn biển chính.
 
 ## Nhóm biển chỉ dẫn và biển hiệu lệnh
 
-Biển chỉ dẫn thường có nền xanh hoặc hình vuông, hướng bạn vào làn đúng hoặc tuyến khuyến nghị. Biển hiệu lệnh hình tròn nền xanh bắt buộc hướng đi, như biển đi thẳng bắt buộc. Với người đi xe máy, nhóm này quan trọng vì nhiều tuyến chỉ cho phép xe máy ở lành riêng hoặc bắt buộc rẽ tại nút giao. Trong các nút giao lớn mới cải tạo, việc đọc sót một biển hiệu lệnh có thể khiến bạn đi sai hẳn hướng và phải vòng thêm rất xa để quay lại.
+[Biển chỉ dẫn](/an-toan-phap-ly/2026/09/28/bien-chi-dan-va-bien-phu-hieu-the-nao/) thường có nền xanh hoặc hình vuông, hướng bạn vào làn đúng hoặc tuyến khuyến nghị. Biển hiệu lệnh hình tròn nền xanh bắt buộc hướng đi, như biển đi thẳng bắt buộc. Với người đi xe máy, nhóm này quan trọng vì nhiều tuyến chỉ cho phép xe máy ở lành riêng hoặc bắt buộc rẽ tại nút giao. Trong các nút giao lớn mới cải tạo, việc đọc sót một biển hiệu lệnh có thể khiến bạn đi sai hẳn hướng và phải vòng thêm rất xa để quay lại.
 
 ## Nhóm biển cảnh báo
 

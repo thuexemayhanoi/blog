@@ -15,7 +15,7 @@ writer: W2
 writer_session: s-claudeb-w2
 ---
 
-Khách thuê xe ở tiệm tôi hay hỏi sau chuyến đi ngoại thành: thấy vạch vàng liền giữa đường mà quán ăn, cây xăng hay lối rẽ lại nằm bên trái thì có được cắt qua không. Câu trả lời ngắn là không, kể cả khi chỉ cắt qua vài mét. Bài này giải thích bốn dạng vạch vàng phân chia hai chiều xe chạy và cách đi đúng khi cần vượt, rẽ trái hay quay đầu trên đường hai chiều quanh Hà Nội.
+Khách thuê xe ở tiệm tôi hay hỏi sau chuyến đi ngoại thành: thấy vạch vàng liền giữa đường mà quán ăn, cây xăng hay lối rẽ lại nằm bên trái thì có được cắt qua không. Câu trả lời ngắn là không: vạch vàng liền, đơn hay kép, cấm đè vạch nên không được cắt qua để rẽ trái, quay đầu hay vượt, kể cả vài mét. Vạch vàng nét đứt thì được cắt qua khi an toàn. Bài này giải thích bốn dạng vạch vàng phân chia hai chiều xe chạy và cách đi đúng khi cần vượt, rẽ trái hay quay đầu trên đường hai chiều quanh Hà Nội.
 
 Đây là thông tin tham khảo, không thay cho văn bản pháp luật. Quy định và mức phạt có thể thay đổi, hãy kiểm tra văn bản mới nhất. Bài không nêu mức phạt bằng con số.
 
@@ -32,11 +32,11 @@ Vạch kẻ đường phần lớn màu trắng. Riêng nhóm vạch phân chia 
 
 ### Vạch vàng đứt có được đè không
 
-Có, nhưng chỉ trong lúc đang cắt qua để vượt hoặc chuyển hướng, khi phía trước thông thoáng. Không dừng hay đỗ xe nằm trên vạch, cũng đừng chạy đè vạch đứt suốt một đoạn dài làm xe ngược chiều khó đoán hướng.
+Có, nhưng chỉ trong lúc đang cắt qua để vượt hoặc chuyển hướng, khi phía trước thông thoáng. Quay đầu qua vạch vàng đứt cũng được nếu chỗ đó không thuộc các vị trí luật cấm quay đầu nêu ở phần dưới và không có biển cấm quay đầu. Không dừng hay đỗ xe nằm trên vạch, cũng đừng chạy đè vạch đứt suốt một đoạn dài làm xe ngược chiều khó đoán hướng.
 
 ### Vạch vàng kép giữa đường khác gì vạch đơn liền
 
-Về quyền cắt qua thì như nhau: đều cấm. Vạch đôi thường kẻ ở đoạn rộng, xe chạy nhanh, nên chỉ mang tính nhấn mạnh thêm. Đừng nghĩ lấn một vạch trong hai vạch là chưa sai.
+Về quyền cắt qua thì như nhau: đều cấm. Vạch đôi thường kẻ trên đường từ 4 làn xe cơ giới trở lên không có dải phân cách giữa, hoặc để nhấn mạnh đoạn có nguy cơ tai nạn đối đầu; hai vạch vàng liền cũng không cho rẽ trái hay quay đầu. Chỗ cần cho xe cắt ngang, QCVN 41:2024 dùng vạch vàng nét đứt. Đừng nghĩ lấn một vạch trong hai vạch là chưa sai.
 
 ## Ba câu hỏi người đi xe thuê hay gặp
 
@@ -52,7 +52,7 @@ Không được. Điều 14 Luật 36/2024 cho vượt bên trái khi phía trư
 
 ### Quay đầu xe máy qua vạch vàng liền
 
-Quay đầu trên đường hai chiều có vạch giữa nghĩa là cắt ngang vạch, nên gặp vạch liền đơn hay vạch kép thì không quay đầu ở đó. Khoản 4 Điều 15 Luật 36/2024 còn cấm quay đầu ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, chỗ giao cắt cùng mức với đường sắt, đường hẹp, đường dốc, đoạn cong khuất tầm nhìn, đường một chiều, trừ khi có hiệu lệnh của người điều khiển giao thông hoặc biển báo tạm thời.
+Quay đầu trên đường hai chiều có vạch giữa nghĩa là cắt ngang vạch, nên gặp vạch liền đơn hay vạch kép thì không quay đầu ở đó. Khoản 4 Điều 15 Luật 36/2024 còn cấm quay đầu ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, chỗ giao cắt cùng mức với đường sắt, đường hẹp, đường dốc, đoạn cong khuất tầm nhìn, trong hầm đường bộ, đường một chiều, trừ khi có hiệu lệnh của người điều khiển giao thông hoặc biển báo tạm thời.
 
 Nơi có biển cấm quay đầu thì càng không. Cách phân biệt các biển này xem ở bài [phân biệt P.123a, P.124a và P.124c](/an-toan-phap-ly/2026/10/16/bien-cam-re-trai-co-cam-quay-dau-khong-phan-biet-p123a-p124a-va-p124c-khi-di-xe/).
 

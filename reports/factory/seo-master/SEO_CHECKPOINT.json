@@ -1,0 +1,130 @@
+{
+ "schema": "seo-autopilot-checkpoint/1",
+ "program": "SUPER SEO AUTOPILOT 2026-11-17 (wave 5) — tiếp nối reports/factory/seo-master/checkpoint.json (wave 1-4, giữ nguyên làm lịch sử)",
+ "updated_at": "2026-11-18T12:00:00+07:00",
+ "branch": "claude/seo-autopilot-7000-articles-a4kjcy",
+ "base_main_sha": "150966be (main đã gộp vào nhánh ở 91bd5082)",
+ "last_commit_sha": "068599c5 (B01) — xem git log nhánh cho commit báo cáo sau đó",
+ "read_first": [
+  "reports/factory/seo-master/SEO_CHECKPOINT.json (tệp này)",
+  "reports/factory/seo-master/SEO_PROGRESS.md",
+  "reports/factory/seo-master/SEO_ISSUES.csv",
+  "reports/factory/seo-master/autopilot/batch-log.csv",
+  "reports/factory/seo-master/checkpoint.json (wave 1-4: hạng mục DONE/BLOCKED, không làm lại)"
+ ],
+ "inventory": {
+  "urls_inventoried": 7121,
+  "by_type": {
+   "Post": 6319,
+   "Listing": 721,
+   "Hub": 56,
+   "Page": 14,
+   "Pillar": 7,
+   "RedirectStub": 3,
+   "Home": 1
+  },
+  "sitemap_urls": 7117,
+  "drafts_in__drafts": 5,
+  "matrix_status": {
+   "PUBLISHED": 5836,
+   "EXISTING": 473,
+   "REVIEW": 10,
+   "PLANNED": 92,
+   "BLOCKED": 1
+  },
+  "published_evidence": {
+   "INTACT": 5509,
+   "HASH_DRIFT": 327
+  },
+  "source": "build Jekyll 3.10.0 cục bộ 17/11 trên main e3bf094c + data/content-matrix.csv + data/qa"
+ },
+ "gsc": {
+  "property": "https://blog.thuexemaynguyentu.com/ (URL-prefix, quyền siteOwner)",
+  "connector": "Seo_key MCP (Google Search Console)",
+  "window": "2026-10-08..2026-11-15 (property có dữ liệu từ 08/10)",
+  "fetched_on": "2026-11-17",
+  "totals": {
+   "clicks": 1967,
+   "impressions": 105973,
+   "ctr": 0.0186,
+   "position": 7.8
+  },
+  "urls_with_rows": 3273,
+  "urls_no_gsc_data": 3848,
+  "files": "reports/factory/seo-master/gsc/ (import-gsc-snapshot.py)"
+ },
+ "audit_coverage": {
+  "auto_audited_urls": 7121,
+  "auto_audit_method": "build-seo-master-matrix.py: HTML build (title/meta/canonical/robots/H1/JSON-LD/ảnh/liên kết hỏng) + kiểm kê + evidence + GSC",
+  "deep_audited_urls": 50,
+  "deep_audit_method": "đọc toàn bài + kiểm chứng nguồn web + phản biện độc lập (workflow) — lô 1 đang chạy",
+  "deep_audited_note": "B01 20 bài (audit + phản biện), L1 30 bài (liên kết, phản biện); B02 30 bài đã audit, phản biện đang chạy"
+ },
+ "classification_counts": {
+  "BLOCKED": 104,
+  "CONTENT_UPGRADE": 7,
+  "DUPLICATE_REVIEW": 123,
+  "KEEP": 6568,
+  "LEGAL_REVIEW": 111,
+  "OPTIMIZE": 161,
+  "QA_PASS": 48
+ },
+ "counters": {
+  "urls_fixed": 48,
+  "urls_qa_pass": 48,
+  "urls_deployed": 0,
+  "urls_keep_deep": 0,
+  "urls_blocked_in_batches": 2,
+  "note": "fixed = 18 bài nội dung (B01) + 30 bài liên kết (L1); deployed = 0 vì nhánh chưa vào main"
+ },
+ "batches": [
+  {
+   "id": "L1",
+   "status": "QA_PASS",
+   "commit": "b689bb61",
+   "scope": "30 bài legacy chưa có liên kết trong thân bài, 76/90 liên kết giữ sau phản biện"
+  },
+  {
+   "id": "B01",
+   "status": "QA_PASS",
+   "commit": "068599c5",
+   "scope": "18 bài sửa nội dung (92/115 edit), 2 bài BLOCKED (BLG-00614, BLG-00870) có bản vá chuẩn bị sẵn",
+   "backup": "reports/qa-audit/revise/revise-20261118-seo-b01.json",
+   "findings": "reports/factory/seo-master/autopilot/B01-findings.json"
+  },
+  {
+   "id": "B02",
+   "status": "IN_PROGRESS",
+   "scope": "30 bài OPTIMIZE kế tiếp + cụm 50cc; audit xong 30, phản biện 8/29 (workflow wf_55684ef0-463, resume được)",
+   "batch_file": "scratchpad work/batch2.json (dựng lại từ MASTER_SEO_MATRIX: OPTIMIZE theo lượt hiển thị + BLG-05581, 03784, 02065, 01656)"
+  },
+  {
+   "id": "L2",
+   "status": "TODO",
+   "scope": "30 bài legacy kế tiếp chưa có liên kết trong thân bài (còn 423 sau L2)"
+  }
+ ],
+ "next_batch": "Hoàn tất B02 (phản biện còn lại) -> áp dụng; sau đó L2; rồi B03 = OPTIMIZE còn lại theo GSC (161) và LEGAL_REVIEW có lượt hiển thị (95)",
+ "owner_gates": [
+  "ISS-01 URL cũ RETIRED 404 vs URL mới chưa index (chủ đã tự khôi phục riêng BLG-00944 ở #210)",
+  "ISS-02 reattest 28 bài ELIGIBLE — bản vá BLG-00614, BLG-00870 đã chuẩn bị ở autopilot/prepared-patches/",
+  "Đưa nhánh claude/seo-autopilot-7000-articles-a4kjcy vào main (PR + Quality gate) để deploy",
+  "ISS-07 seo_title ngắn (đề xuất trong B01-findings.json)",
+  "ISS-08 công cụ thêm liên kết cho bài có evidence",
+  "ISS-11 ảnh thật"
+ ],
+ "do_not": [
+  "đổi title/meta description/trang chủ (quy tắc chủ)",
+  "đổi URL/permalink/canonical, tái mở URL RETIRED, gộp/xóa/redirect bài",
+  "sửa tay _posts, data/qa, matrix, checkpoint nhà máy — chỉ revise-published.py",
+  "chạy reattest-legacy-qa.py apply hoặc retire rollback khi chưa có quyết định của chủ",
+  "bịa giá, cọc, chính sách, trải nghiệm; số liệu kinh doanh chỉ từ data/business-facts.json"
+ ],
+ "resume": [
+  "git fetch origin main && so sánh với base_main_sha; đọc batch-log.csv để biết bài đã xử lý",
+  "jekyll build --destination <site> (Jekyll 3.10.0 + minima 2.5.1 + jekyll-sitemap + jekyll-feed + jekyll-include-cache + kramdown-parser-gfm; ~5 phút)",
+  "GSC mới: lưu JSON thô của Seo_key search_performance (page, query, page+query, date+page, page last_7d compare) vào một thư mục rồi python3 scripts/seo/import-gsc-snapshot.py --raw-dir <dir> --fetched-on <YYYY-MM-DD>",
+  "python3 scripts/seo/build-seo-master-matrix.py --site <site> [--xlsx]",
+  "chọn lô kế từ MASTER_SEO_MATRIX.csv (priority, classification, gsc_impressions), bỏ ID đã có trong batch-log.csv với trạng thái QA_PASS/KEEP"
+ ]
+}

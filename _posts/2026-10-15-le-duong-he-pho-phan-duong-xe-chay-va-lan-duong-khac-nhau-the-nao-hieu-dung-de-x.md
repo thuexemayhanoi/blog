@@ -15,7 +15,7 @@ writer: W3
 writer_session: s-claude-w3
 ---
 
-Lề đường và hè phố khác nhau thế nào là câu hỏi hiện ra khi bạn đỗ xe máy ở Hà Nội mà ven phố vừa có vỉa hè lát gạch, vừa có dải đất hẹp sát mép đường, và biển báo chỉ ghi chung chung. Người đi xe thường nghe các từ lề đường, hè phố, lòng đường, phần đường xe chạy và làn đường nhưng không phải lúc nào cũng phân biệt được. Bài đọc Điều 2, Điều 18, Điều 30 và Điều 77 của Luật Trật tự, an toàn giao thông đường bộ theo câu chữ, nói điều bài không kết luận và gợi ý cách dừng, đỗ hợp lý. Đây là thông tin chung, không thay tư vấn pháp lý riêng.
+Lề đường và hè phố khác nhau thế nào là câu hỏi hiện ra khi bạn đỗ xe máy ở Hà Nội mà ven phố vừa có vỉa hè lát gạch, vừa có dải đất hẹp sát mép đường. Người đi xe thường nghe các từ lề đường, hè phố, lòng đường, phần đường xe chạy và làn đường nhưng không phải lúc nào cũng phân biệt được. Luật viết lề đường (chữ L, không phải nề đường); theo tiêu chuẩn thiết kế TCVN 13592:2022, lề đường là phần tiếp giáp phần xe chạy, còn hè phố thường tính từ mép ngoài lề đường tới chỉ giới đường đỏ. Bài đọc Điều 2, Điều 18, Điều 30 và Điều 77 của Luật Trật tự, an toàn giao thông đường bộ theo câu chữ, nói điều bài không kết luận và gợi ý cách dừng, đỗ hợp lý. Đây là thông tin chung, không thay tư vấn pháp lý riêng.
 
 Bài không nêu mức xử phạt, không biết từng đoạn phố cụ thể có biển hay vạch nào và không đánh giá hành vi của ai. Những điều thuộc về tiệm đều là điều xác nhận trực tiếp.
 
@@ -25,7 +25,7 @@ Bài không nêu mức xử phạt, không biết từng đoạn phố cụ th�
 
 ## Lề đường và hè phố khác nhau: luật không giải thích hai từ này ở Điều 2
 
-Bài đọc phần giải thích từ ngữ ở Điều 2 và không thấy định nghĩa lề đường, vỉa hè hay lòng đường. Luật vẫn dùng các từ đó ở nhiều điều khác, nhưng bài không biết cách văn bản hướng dẫn hay quy chuẩn giải thích chúng. Vì vậy bài không đưa một định nghĩa chính xác và không nói một đoạn phố cụ thể gọi là lề hay vỉa hè.
+Bài đọc phần giải thích từ ngữ ở Điều 2 và không thấy định nghĩa lề đường, vỉa hè hay lòng đường. Luật vẫn dùng các từ đó ở nhiều điều khác; mô tả bài tìm được nằm ở mục 9.3.1 và 9.5.1 của TCVN 13592:2022, một tiêu chuẩn thiết kế đường đô thị. Vì vậy bài không đưa một định nghĩa pháp lý và không nói một đoạn phố cụ thể gọi là lề hay vỉa hè.
 
 ## Lòng đường dùng để đi lại, vỉa hè dành cho người đi bộ: Điều 77 khoản 1
 
@@ -59,11 +59,11 @@ Chụp ảnh chỗ đỗ và vị trí khi rời xe, ghi giờ để đối chi�
 
 ## Nguồn đối chiếu và điều bài chưa kiểm chứng
 
-[Luật 36/2024/QH15](https://vanban.chinhphu.vn/?pageid=27160&docid=211194) và [văn bản hợp nhất 55/VBHN-VPQH](https://vanban.chinhphu.vn/?docid=217295&pageid=27160): đã đọc nguyên văn Điều 2 khoản 5 và khoản 6, Điều 18 khoản 4 điểm o, khoản 5 và khoản 6, Điều 30 khoản 1 điểm a và Điều 77 khoản 1. Bài chưa đối chiếu Luật Đường bộ, văn bản hướng dẫn hay quy chuẩn có định nghĩa lề đường, vỉa hè, hè phố, cũng như quy định của thành phố về chỗ đỗ xe.
+[Luật 36/2024/QH15](https://vanban.chinhphu.vn/?pageid=27160&docid=211194) và [văn bản hợp nhất 55/VBHN-VPQH](https://vanban.chinhphu.vn/?docid=217295&pageid=27160): đã đọc nguyên văn Điều 2 khoản 5 và khoản 6, Điều 18 khoản 4 điểm o, khoản 5 và khoản 6, Điều 30 khoản 1 điểm a và Điều 77 khoản 1. Bài có đối chiếu mục 9.3.1, 9.5.1 của TCVN 13592:2022 nhưng chưa đối chiếu Luật Đường bộ, văn bản hướng dẫn hay quy chuẩn có định nghĩa lề đường, vỉa hè, hè phố, cũng như quy định của thành phố về chỗ đỗ xe.
 
 ## Báo tiệm: số liên hệ và giờ làm việc
 
-Tiệm Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00 và không giao hay nhận xe ngoài khung giờ này; số liên hệ là 0942467674. Tiệm có hướng dẫn riêng về chỗ đỗ xe ven phố, và xử lý thế nào nếu thông báo dừng, đỗ sai chỗ gửi về biển số xe thuê: bài không có dữ kiện về chính sách của tiệm, hãy hỏi và xác nhận trực tiếp, nhắn tin để có bằng chứng. Gọi hay nhắn khi xe đã dừng hẳn ở chỗ an toàn; đang chạy thì không dùng điện thoại.
+Tiệm Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00–21:00 và không giao hay nhận xe ngoài khung giờ này; số liên hệ là 0942467674. Tiệm có hướng dẫn riêng về chỗ đỗ xe ven phố hay không, và xử lý thế nào nếu thông báo dừng, đỗ sai chỗ gửi về biển số xe thuê: bài không có dữ kiện về chính sách của tiệm, hãy hỏi và xác nhận trực tiếp, nhắn tin để có bằng chứng. Gọi hay nhắn khi xe đã dừng hẳn ở chỗ an toàn; đang chạy thì không dùng điện thoại.
 
 Đây là thông tin chung, có thể thay đổi, không thay tư vấn pháp lý riêng. Xem thêm các bài khác trong chuyên mục [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/) và trang [an toàn và pháp lý](/an-toan-phap-ly/).
 

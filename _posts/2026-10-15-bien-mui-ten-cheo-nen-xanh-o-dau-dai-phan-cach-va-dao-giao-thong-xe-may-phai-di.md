@@ -15,13 +15,13 @@ writer: W3
 writer_session: s-claude-w3
 ---
 
-Ở đầu một dải phân cách hay trước một đảo giao thông, bạn thường thấy một biển tròn nền xanh với mũi tên trắng chỉ chéo xuống. Đó là biển hướng đi vòng chướng ngại vật, một biển hiệu lệnh: mũi tên chỉ phía nào thì xe phải vòng qua phía đó. Khách mới thuê xe máy ở Hà Nội hay lúng túng chính ở những nút có đảo dẫn hướng như vậy.
+Ở đầu một dải phân cách hay trước một đảo giao thông, bạn thường thấy một biển tròn nền xanh với mũi tên trắng chỉ chéo xuống. Đó là biển hướng đi vòng chướng ngại vật (biển số R.302), một biển hiệu lệnh: mũi tên chỉ phía nào thì xe phải vòng qua phía đó. Khách mới thuê xe máy ở Hà Nội hay lúng túng chính ở những nút có đảo dẫn hướng như vậy.
 
 ## Biển hướng đi vòng chướng ngại vật là biển hiệu lệnh
 
 Trong QCVN 41:2024/BGTVT, quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ ban hành kèm Thông tư 51/2024/TT-BGTVT, áp dụng từ 01/01/2025, biển số R.302 có tên "Hướng phải đi vòng chướng ngại vật" và gồm ba kiểu a, b, c. Biển nằm trong nhóm biển hiệu lệnh: hình tròn, nền xanh lam, hình vẽ màu trắng.
 
-Điều 11 khoản 5 Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 nói rõ biển hiệu lệnh báo các lệnh phải thi hành. Vì vậy biển này không phải lời khuyên. Theo các bản tóm tắt quy chuẩn mà tôi tra được (chưa đối chiếu bản Công báo), biển bắt buộc các loại xe đi vòng chướng ngại vật theo hướng mũi tên. Ba kiểu biển tương ứng ba trường hợp:
+Điều 11 khoản 5 Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 nói rõ biển hiệu lệnh báo các lệnh phải thi hành. Vì vậy biển này không phải lời khuyên. Mục D.2 Phụ lục D của quy chuẩn ghi rõ biển có hiệu lực bắt buộc các loại xe phải đi vòng chướng ngại vật theo hướng mũi tên chỉ. Ba kiểu biển tương ứng ba trường hợp:
 
 - Chỉ được vòng sang phải chướng ngại vật.
 - Chỉ được vòng sang trái chướng ngại vật.
@@ -45,6 +45,8 @@ Muốn ôn lại hai nhóm biển, xem bài [biển báo hiệu lệnh cần tu�
 ### Đầu dải phân cách trên trục đường lớn
 
 Trên các trục có dải phân cách giữa như Nguyễn Văn Cừ ở Long Biên hay Võ Chí Công ở Tây Hồ, mỗi đoạn dải phân cách đều có một đầu nhô ra phía xe đang tới. Khi đầu dải có biển mũi tên chéo xuống bên phải, xe phải đi bên phải dải, tức là ở đúng phần đường của chiều mình. Điều này khớp với Điều 10 khoản 1 Luật 36/2024: đi bên phải theo chiều đi, đúng làn, đúng phần đường và chấp hành báo hiệu.
+
+Theo QCVN 41:2024, biển R.302a, R.302b ở đầu dải phân cách còn được dùng kết hợp với biển P.102 "Cấm đi ngược chiều" để báo chiều đi của phần đường một chiều. Thay cho biển tròn này, sau nút giao có thể đặt biển chỉ dẫn I.407a "Đường một chiều": biển vuông nền xanh, mũi tên trắng hướng lên, chỉ cho đi theo chiều mũi tên và cấm quay đầu ngược lại. Đừng nhầm biển vuông này với biển tròn R.302.
 
 Lỗi tôi thấy nhiều nhất là khách muốn rẽ trái hoặc quay đầu nên lách sang bên trái đầu dải phân cách cho nhanh. Làm vậy là đi vào phần đường của chiều ngược lại. Muốn quay đầu, hãy đi tới chỗ mở dải phân cách được phép và xem có biển cấm quay đầu hay không.
 

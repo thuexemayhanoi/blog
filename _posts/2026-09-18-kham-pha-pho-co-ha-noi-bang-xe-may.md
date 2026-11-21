@@ -25,7 +25,7 @@ Khác với các khu du lịch quy hoạch sẵn, Phố Cổ là khu dân cư s�
 
 Từ cửa hàng tại 112 Nguyễn Văn Cừ thuộc quận Long Biên, tuyến tự nhiên nhất là qua cầu Long Biên: hết cầu, chạy thẳng theo phố Trần Nhật Duật vài trăm mét là đến ngã tư Hàng Chiếu, cửa ngõ phía bắc của Phố Cổ, cạnh chợ Đồng Xuân.
 
-Tuyến thứ hai là cầu Chương Dương: chạy theo trục đường Nguyễn Văn Cừ về hướng tây, qua cầu, tiếp tục theo phố Trần Quang Khải đến gần Hồ Gươm, sau đó rẽ vào các phố cổ phía đông như Hàng Tre, Hàng Vải. Hai tuyến đều chỉ mất khoảng mười đến mười lăm phút chạy xe ngoài giờ cao điểm.
+Tuyến thứ hai là [cầu Chương Dương](/du-lich/2026/10/11/tu-long-bien-sang-noi-do-chon-cau-long-bien-chuong-duong-hay-vinh-tuy/): chạy theo trục đường Nguyễn Văn Cừ về hướng tây, qua cầu, tiếp tục theo phố Trần Quang Khải đến gần Hồ Gươm, sau đó rẽ vào các phố cổ phía đông như Hàng Tre, Hàng Vải. Hai tuyến đều chỉ mất khoảng mười đến mười lăm phút chạy xe ngoài giờ cao điểm.
 
 Chạy trên cầu Long Biên riêng là một trải nghiệm: mặt cầu gỗ có tiếng vọng đặc trưng, tầm nhìn hai bên sông Hồng rộng mở, và chợ đầu cầu phía Phố Cổ hoạt động tấp nập từ tờ mờ sáng. Nếu bạn thích chụp ảnh, đây là một trong những góc nhìn Hà Nội đáng giá nhất.
 
@@ -35,7 +35,7 @@ Buổi sáng sớm từ 07:00 đến 08:30 là thời điểm Phố Cổ dễ ch
 
 Giờ cao điểm 07:30 đến 08:30 và 17:00 đến 19:00, các trục quanh phố cổ như Trần Nhật Duật, Hàng Đậu, Bà Triệu rất đông, mật độ xe dày. Nếu không cố ý ngắm cảnh đường phố lúc đông, bạn nên tránh hai khung giờ này, hoặc chấp nhận di chuyển chậm và giữ khoảng cách an toàn.
 
-Buổi chiều và buổi tối là lúc Phố Cổ lên đèn, không khí phố khác hẳn ban ngày. Cuối tuần, khu vực quanh Hồ Gươm trở thành phố đi bộ từ tối thứ Sáu đến hết Chủ nhật, xe máy không được vào khu vực đi bộ, và bạn cần gửi xe ở các bãi ngoài rìa. Đây là thông tin quan trọng cần nhớ để sắp xếp lịch trình cuối tuần.
+Buổi chiều và buổi tối là lúc Phố Cổ lên đèn, không khí phố khác hẳn ban ngày. Cuối tuần, khu vực quanh Hồ Gươm trở thành phố đi bộ từ tối thứ Sáu đến hết Chủ nhật, xe máy không được vào khu vực đi bộ, và bạn cần [gửi xe ở các bãi ngoài rìa](/du-lich/2026/10/09/pho-di-bo-ho-guom-cuoi-tuan-xe-may-gui-o-dau/). Đây là thông tin quan trọng cần nhớ để sắp xếp lịch trình cuối tuần.
 
 ## Gửi xe ở Phố Cổ
 

@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1283,
+  "word_count": 1301,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,9 +47,43 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-15-trung-tam-giao-luu-van-hoa-pho-co-o-50-dao-duy-tu-xem-trinh-dien-nghe-trien-lam.md",
-  "content_sha256": "7b5c8fce78b87e41f188e4f6f10a42ebec76b035b3e386ff3b5435dce3b4e39c",
+  "content_sha256": "6c6afa49824684e6c2ab52944f714dd1f74e416cdda8670e3726536381afd0ed",
   "matrix_row_sha256": "ad92d814be45bde19b4327fbd3c10016217e61e336d8610a87d264dd8fc1c7c1",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-18T08:27:09+00:00"
+  "published_at": "2026-10-18T08:27:09+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "content-revision",
+    "purpose": "seo-autopilot B01",
+    "reason": "Sửa sai sự thật/pháp lý và để đoạn mở đầu trả lời đúng truy vấn Search Console; mọi edit đã qua phản biện độc lập",
+    "approval_ref": "OWNER-SEO-AUTOPILOT-2026-11-17: Tổng Thống ủy quyền kiểm tra toàn hệ thống, sửa lỗi an toàn, tối ưu nội dung theo lô, chạy QA, commit và push thay đổi đạt chuẩn, không cần duyệt từng bài (SUPER SEO AUTOPILOT — 7.000+ ARTICLES, 17/11/2026)",
+    "batch_id": "revise-20261118-seo-b01",
+    "revised_at": "2026-11-18T05:44:53+00:00",
+    "previous_evidence_sha256": "8f0d5e04a3ad7f13b5ec512d4ed98478ad9ccba8111d1e8f3bc4398c9652459e",
+    "previous_content_sha256": "7b5c8fce78b87e41f188e4f6f10a42ebec76b035b3e386ff3b5435dce3b4e39c",
+    "previous_matrix_row_sha256": "ad92d814be45bde19b4327fbd3c10016217e61e336d8610a87d264dd8fc1c7c1",
+    "new_content_sha256": "6c6afa49824684e6c2ab52944f714dd1f74e416cdda8670e3726536381afd0ed",
+    "edit_count": 3,
+    "edits_sha256": "ec1f69056d0fea4085a9fb34fd6a28ef17139beb205cbc928860e48bc4b8a78c",
+    "chars_changed": 455,
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "base": "INTACT",
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/revise-published.py",
+    "tool_commit": "91bd5082bbc4d1527f88fa499d7a039afe02d739",
+    "tool_sha256": "4cbcfb5cb776052f30f590ca0f2912c94e5239bd8fd14b47dca10953d3e302a8",
+    "scorer_code_sha256": "6455431545f463412d5aa015ce327d983e3b29a0a7c33716028920c374f8f81a",
+    "business_facts_sha256": "7725c6795ff9b6e9e2988f2d298f660e6d97ba11eee84f43473468c1ecd05b04",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+  }
 }

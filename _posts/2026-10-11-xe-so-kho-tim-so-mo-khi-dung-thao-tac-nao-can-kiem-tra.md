@@ -20,13 +20,13 @@ Nếu bạn mới bắt đầu đi xe số, chuyên mục [xe số](/xe-may/xe-s
 
 ## Số mo là gì và vì sao cần về mo khi dừng
 
-Số mo, hay số N, là vị trí cần số không ăn khớp truyền lực: động cơ quay nhưng bánh xe không nhận lực. Khi xe số đang ở số một mà bạn dừng hẳn, nếu không về mo, bạn phải bóp trái côn (hoặc giữ ly hợp) liên tục trong lúc chờ đèn đỏ, tay nhanh mỏi và xe dễ bật lên nếu buông nhầm. Vì vậy thói quen chuẩn là: phanh, dừng, về mo, chân trái hạ xuống chống, tay nhả hoàn toàn khỏi côn.
+Số mo, hay số N, là vị trí cần số không ăn khớp truyền lực: động cơ quay nhưng bánh xe không nhận lực. Khi xe số đang ở số một mà bạn dừng hẳn, nếu không về mo, với xe côn tay bạn phải bóp côn liên tục trong lúc chờ đèn đỏ, tay nhanh mỏi và xe dễ bật lên nếu buông nhầm; xe côn tự động như Wave thì lỡ tay vặn ga là xe chồm lên. Vì vậy thói quen chuẩn là: phanh, dừng, về mo, chân trái hạ xuống chống, tay được thả lỏng.
 
-Một điểm hay gây nhầm: trên nhiều xe số phổ thông, số mo nằm giữa số một và số hai, và bước nhảy từ số một lên số hai thường là "nửa bước" cần số. Hạ cần từ số hai xuống mo, hoặc nhấc nhẹ từ số một lên mo, là hai hướng vào mo từ hai phía. Người mới hay chỉ quen một hướng, nên khi hướng đó không vào được sẽ thấy khó, dù chỉ cần đi hướng còn lại là xong.
+Một điểm hay gây nhầm: trên xe côn tay, số mo nằm giữa số một và số hai, và bước nhảy từ số một lên số hai thường là "nửa bước" cần số. Hạ cần từ số hai xuống mo, hoặc nhấc nhẹ từ số một lên mo, là hai hướng vào mo từ hai phía. Người mới hay chỉ quen một hướng, nên khi hướng đó không vào được sẽ thấy khó, dù chỉ cần đi hướng còn lại là xong.
 
 ## Thao tác chuẩn để về số mo khi dừng
 
-Trình tự chuẩn dưới đây áp dụng cho phần lớn xe số phổ thông đang cho thuê tại Hà Nội:
+Trên xe số côn tự động như Honda Wave thuê tại Hà Nội, số mo nằm dưới số một: từ số một ấn gót một nấc là về mo, đèn N sáng; xe đã đứng hẳn thì từ số 4 ấn mũi chân cũng về thẳng mo. Trình tự chuẩn dưới đây áp dụng cho xe côn tay:
 
 1. Trước khi phanh dừng hẳn, nhấc nhẹ cần số từ số một lên nửa bước: phần lớn xe vào mo dễ nhất từ phía số một, khi xe còn đang lăn chậm. Đèn đỏ phía trước còn xa chừng vài chục mét là lúc lý tưởng.
 
@@ -44,7 +44,7 @@ Quan trọng nhất là ở điểm 1: về mo khi xe còn lăn nhẹ luôn dễ
 
 Nếu đã thử đủ cả hai hướng vào mo, khi lẫn khi đứng, mà cần số vẫn lì, đó là lúc xem xét bốn nguyên nhân theo thứ tự:
 
-- Dây côn căng hoặc lỏng sai chuẩn: côn chưa tách hết truyền lực thì hộp số chịu tải, về số và tìm mo đều nặng. Dấu hiệu kèm: vào số một từ mo có tiếng "cạch" to, xe hơi giật khi vào số. Cách chỉnh dây côn từng bước đã có riêng trong bài [xe số giật cục khi vào số: chỉnh lại từng bước](/xe-may/2026/10/10/xe-so-giat-cuc-khi-vao-so-chinh-lai-tung-buoc/), bạn có thể tự đọc để hiểu nguyên lý, nhưng với xe thuê, việc chỉnh nên nhờ cửa hàng.
+- Côn chỉnh căng hoặc lỏng sai chuẩn: côn chưa tách hết truyền lực thì hộp số chịu tải, về số và tìm mo đều nặng. Dấu hiệu kèm: vào số một từ mo có tiếng "cạch" to, xe hơi giật khi vào số. Cách chỉnh dây côn từng bước đã có riêng trong bài [xe số giật cục khi vào số: chỉnh lại từng bước](/xe-may/2026/10/10/xe-so-giat-cuc-khi-vao-so-chinh-lai-tung-buoc/), bạn có thể tự đọc để hiểu nguyên lý, nhưng với xe thuê, việc chỉnh nên nhờ cửa hàng.
 
 - Mỏ vịt và thanh truyền cần số khô dầu: các khớp nối của cơ cấu đổi số bị bụi bám, thiếu dầu bôi trơn thì bước cần số nặng và mờ, không còn cảm giác "cạch" rõ vào mo.
 
@@ -52,7 +52,7 @@ Nếu đã thử đủ cả hai hướng vào mo, khi lẫn khi đứng, mà c�
 
 - Thói quen đạp cần số bằng mũi giày quá mạnh, lâu ngày làm cơ cấu cần số xô lệch: gặp nhiều ở xe cho thuê dùng chung, thử rà nhẹ và đều tay thay vì đạp mạnh.
 
-Một cách phân biệt nhanh giữa nhóm nhẹ (dây côn, khô dầu) và nhóm nặng (hộp số): hiện tượng nhóm nhẹ thường chỉ khó về mo, còn chạy các số đều vẫn được; nhóm nặng thường đi kèm khó vào số một từ mo hoặc nhảy số khi tăng tốc.
+Một cách phân biệt nhanh giữa nhóm nhẹ (côn, khô dầu) và nhóm nặng (hộp số): hiện tượng nhóm nhẹ thường chỉ khó về mo, còn chạy các số đều vẫn được; nhóm nặng thường đi kèm khó vào số một từ mo hoặc nhảy số khi tăng tốc.
 
 ## Khi nào cần báo cửa hàng
 
@@ -60,7 +60,7 @@ Ba tín hiệu sau nghĩa là nên dừng việc tự xoay xở và liên hệ n
 
 1. Về mo được nhưng luôn kèm tiếng kêu khô, "keng keng" từ phía hộp số.
 
-2. Không thể vào số một từ mo khi xe đứng im, dù côn bóp hết.
+2. Không thể vào số một từ mo khi xe đứng im, dù đã thao tác đúng.
 
 3. Xe nhảy số hoặc tuột số khi đang chạy đoạn bằng.
 
@@ -68,4 +68,4 @@ Khi gọi, mô tả theo đúng cấu trúc: hiện tượng (khó về mo từ 
 
 ## Ghi nhớ
 
-Về số mo là kỹ năng nhỏ nhưng dùng tới mỗi lần dừng đèn đỏ. Quy tắc nhớ nhanh: về mo khi xe còn lăn nhẹ, vào mo từ phía số một với nửa bước nhẹ, và xác nhận mo bằng cách nhả côn từ từ xe không giật. Khó về mo kéo dài kèm tiếng kêu hoặc khó vào số một thì báo cửa hàng, không tự tháo. Muốn đọc thêm các kỹ năng với xe số và dòng xe khác, chuyên mục [xe máy & dòng xe](/xe-may/) luôn có bài mới.
+Về số mo là kỹ năng nhỏ nhưng dùng tới mỗi lần dừng đèn đỏ. Quy tắc nhớ nhanh: về mo khi xe còn lăn nhẹ, vào mo từ phía số một (xe côn tay nửa bước nhẹ, Wave ấn gót một nấc), và xác nhận mo bằng đèn N hoặc nhả côn từ từ xe không giật. Khó về mo kéo dài kèm tiếng kêu hoặc khó vào số một thì báo cửa hàng, không tự tháo. Muốn đọc thêm các kỹ năng với xe số và dòng xe khác, chuyên mục [xe máy & dòng xe](/xe-may/) luôn có bài mới.

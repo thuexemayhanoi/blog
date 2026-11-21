@@ -15,11 +15,11 @@ writer: W3
 writer_session: s-claude-w3
 ---
 
-Ngõ Trung Yên là con ngõ nhỏ nối phố Đinh Liệt với khu chợ Hàng Bè cũ, nơi nhiều người ghé ăn vì quán dày mà lối đi hẹp. Với người đi xe máy, câu hỏi không chỉ là ăn gì mà còn là đỗ xe ở đâu và đứng ăn thế nào để không chắn lối của ai. Bài đi theo thứ tự một buổi ghé ngõ: tìm đúng ngõ, chọn chỗ đỗ xe, đi bộ vào, ăn rồi lấy xe.
+Ngõ Trung Yên là con ngõ nhỏ ở phường Hoàn Kiếm (trước ngày 1/7/2025 là phường Hàng Bạc, quận Hoàn Kiếm), nối phố Đinh Liệt với khu chợ Hàng Bè cũ trên phố Gia Ngư, nơi nhiều người ghé ăn vì quán dày mà lối đi hẹp. Với người đi xe máy, câu hỏi không chỉ là ăn gì mà còn là đỗ xe ở đâu và đứng ăn thế nào để không chắn lối của ai. Bài đi theo thứ tự một buổi ghé ngõ: tìm đúng ngõ, chọn chỗ đỗ xe, đi bộ vào, ăn rồi lấy xe.
 
 ## Ngõ Trung Yên nằm ở đâu: giữa Đinh Liệt và chợ Hàng Bè
 
-Các bài giới thiệu mà bài đọc được (theo trích đoạn, chưa đọc toàn văn) cùng mô tả ngõ Trung Yên là một con ngõ ngắn ở lõi phố cổ: một đầu giao với phố Đinh Liệt, đầu kia thông ra khu chợ Hàng Bè cũ. Cách gọi đầu bên kia hơi khác nhau giữa các bài, có nơi coi cả ngõ là một phần của khu chợ, nên khi tới nơi hãy đối chiếu bản đồ với biển tên ngõ.
+Báo chí và các bài giới thiệu cùng mô tả ngõ Trung Yên là một con ngõ ngắn ở lõi phố cổ: một đầu giao với phố Đinh Liệt, đầu kia thông ra khu chợ Hàng Bè cũ. Cách gọi đầu bên kia hơi khác nhau giữa các bài, có nơi coi cả ngõ là một phần của khu chợ, nên khi tới nơi hãy đối chiếu bản đồ với biển tên ngõ.
 
 Cái tên Trung Yên cũng được dùng cho một khu đô thị ở nơi khác của Hà Nội, nên khi đặt điểm đến hãy gõ đủ "ngõ Trung Yên, Đinh Liệt, Hoàn Kiếm" thay vì hai chữ Trung Yên. Các bài còn cùng nhận xét rằng ngõ hẹp, nhà cửa sát nhau và đông người vào giờ ăn; vì quán nhỏ nên người đến sau thường phải chờ chỗ ngồi.
 
@@ -65,6 +65,6 @@ Giá thuê, tiền đặt cọc và giấy tờ cần mang được xác nhận 
 
 ## Lời kết
 
-Ngõ Trung Yên ngắn nhưng đông, nên đi xe máy tới đây cần chút khéo léo: đỗ xe đúng chỗ ngoài ngõ, đi bộ vào, ăn gọn rồi trả lại lối cho người khác. Thông tin về vị trí ngõ và các món lấy từ nhiều tài liệu tham khảo, đọc qua trích đoạn và có thể đã đổi; hãy xem bản đồ và hỏi người địa phương khi tới nơi.
+Ngõ Trung Yên ngắn nhưng đông, nên đi xe máy tới đây cần chút khéo léo: đỗ xe đúng chỗ ngoài ngõ, đi bộ vào, ăn gọn rồi trả lại lối cho người khác. Vị trí ngõ đã đối chiếu với báo chí; thông tin về các món lấy từ nhiều tài liệu tham khảo, đọc qua trích đoạn và có thể đã đổi; hãy xem bản đồ và hỏi người địa phương khi tới nơi.
 
 Phần trích luật là thông tin chung, có thể thay đổi, không thay tư vấn pháp lý riêng; nguyên văn có tại [cổng thông tin của Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=211194), các quy tắc khác ở mục [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/). Các điểm khác trong khu phố cũ nằm ở mục [phố cổ Hoàn Kiếm](/du-lich/pho-co/), chuyến đi khác quanh Hà Nội ở chuyên mục [du lịch](/du-lich/), cần hỏi về xe thì vào trang [liên hệ](/lien-he/).

@@ -17,11 +17,11 @@ Cuộc sống bằng xe máy ở Hà Nội đôi khi cần bạn chở những t
 
 Mọi phương án chở đồ trên xe máy đều xoay quanh một chữ: trọng tâm. Đồ đặt càng thấp và càng sát trục xe thì xe càng dễ điều khiển. Vì vậy, ưu tiên nhét đồ vào cốp và gióe dưới yên trước khi nghĩ đến việc buộc ngoài. Chỉ những món quá kích thước mới buộc lên yên sau hoặc thành xe, và khi buộc, hướng món đồ dọc theo xe, không để nhô ngang ra hai bên. Đồ nhô ngang thay đổi độ rộng của xe, khiến bạn ước lượng sai khoảng cách khi luồn giữa các xe và dễ va vào người đi đường.
 
-Với đồ dài như cây sào hay ống nhựa, phần nhô ra phía trước nguy hiểm hơn phía sau, vì nó có thể quật vào xe ngược chiều khi bạn né vật cản. Quy tắc thực tế: để phần dài hướng về sau, buộc chặt điểm tựa gần nhất, và nếu món đồ dài hơn xe nhiều thì cân nhắc nhờ xe ôm tải hoặc xe tải nhỏ; món đồ vài chục nghìn không đáng đổi lấy một ca cấp cứu.
+Với [đồ dài như cây sào hay ống nhựa](/ky-nang/2026/10/04/cho-do-dai-nhu-ong-nhua-tren-xe-may-dung-cach/), phần nhô ra phía trước nguy hiểm hơn phía sau, vì nó có thể quật vào xe ngược chiều khi bạn né vật cản. Quy tắc thực tế: để phần dài hướng về sau, buộc chặt điểm tựa gần nhất, và nếu món đồ dài hơn xe nhiều thì cân nhắc nhờ xe ôm tải hoặc xe tải nhỏ; món đồ vài chục nghìn không đáng đổi lấy một ca cấp cứu.
 
 ## Buộc đồ: dây, nút và điểm tựa
 
-Dây buộc quyết định mọi thứ. Dây thun giãn theo độ rung của xe và lỏng dần sau vài kilômét, nên chỉ dùng cho đồ nhẹ và ngắn. Với đồ nặng, dây ni lông dẹt hoặc dây dai mềm có khóa kéo ghim là lựa chọn tốt hơn, buộc bằng nút thắt chặt được và kiểm tra lại sau vài trăm mét đầu tiên. Điểm tựa nên là những chỗ cứng của xe: khung sau, bậc bước chân, tay vịn sau; tránh buộc vào ốp nhựa mỏng vì sẽ bung hoặc vỡ khi căng dây.
+Dây buộc quyết định mọi thứ. Dây thun giãn theo độ rung của xe và lỏng dần sau vài kilômét, nên chỉ dùng cho đồ nhẹ và ngắn. Với đồ nặng, dây ni lông dẹt hoặc dây dai mềm có khóa kéo ghim là lựa chọn tốt hơn, buộc bằng nút thắt chặt được và kiểm tra lại sau vài trăm mét đầu tiên. [Điểm tựa nên là những chỗ cứng của xe](/ky-nang/2026-09-29/buoc-do-sau-xe-may-dung-cach/): khung sau, bậc bước chân, tay vịn sau; tránh buộc vào ốp nhựa mỏng vì sẽ bung hoặc vỡ khi căng dây.
 
 Trước khi chạy, lắc mạnh món đồ bằng tay để thử độ ổn định. Nếu nó dịch chuyển, buộc lại. Khi đi, dừng kiểm tra lại dây ở nửa chặng đầu, vì độ rung của xe sẽ nới lỏng những gì tay người thắt chưa đủ chặt. Một gợi ý nhỏ với người thuê xe dài hạn: chuẩn bị sẵn một sợi dây tốt ở nhà, vì dây mua vội ven đường thường chất lượng thấp.
 
@@ -41,7 +41,7 @@ Với các món dạng túi ni lông đựng đồ lặt vặt, đừng treo l�
 
 Có những món không nên chở bằng xe máy dù có chuẩn bị: bình gas, can xăng lớn, tủ kính nguyên chiếc, các vật sắc nhọn buộc lỏng lẻo ngoài cốp. Bình gas và xăng là hàng cháy nổ, mang theo trên xe máy vượt quá giới hạn an toàn thông thường. Vật sắc nhọn như thanh sắt, ống thép dài nếu buộc không chắc có thể rơi và gây nguy hiểm cho người phía sau. Với các món thuộc nhóm này, chi phí thuê xe chở nhỏ thường là khoản đáng giá; chi phí thực tế thay đổi theo thời điểm, địa điểm, quãng đường và mức sử dụng, nên gọi hỏi trước vài dịch vụ là cách ra quyết định nhanh nhất.
 
-Cũng cần nói rõ một ranh giới pháp lý: chở hàng cồng kềnh vượt quá giới hạn cho phép trên xe máy có thể bị xử phạt theo quy định giao thông hiện hành, và hơn cả mức phạt là nguy cơ tai nạn mà kiểu chở ấy tạo ra. Người cầm lái luôn là người chịu trách nhiệm cuối cùng cho khối lượng và kích thước hàng trên xe mình.
+Cũng cần nói rõ một ranh giới pháp lý: [chở hàng cồng kềnh vượt quá giới hạn](/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/) cho phép trên xe máy có thể bị xử phạt theo quy định giao thông hiện hành, và hơn cả mức phạt là nguy cơ tai nạn mà kiểu chở ấy tạo ra. Người cầm lái luôn là người chịu trách nhiệm cuối cùng cho khối lượng và kích thước hàng trên xe mình.
 
 ## Tập dượt trước khi lên đường xa
 

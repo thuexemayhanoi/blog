@@ -27,15 +27,15 @@ Tuyến ngắn nhất trên bản đồ không phải tuyến nhanh nhất trong
 
 Với người mới đi xe ở Hà Nội hoặc mới nhận xe thuê, tuyến lớn đông xe nhưng nhịp độ đều là lựa chọn dễ chịu hơn phố nhỏ phải luồn lách. Dòng xe trên trục lớn di chuyển chậm nhưng đều, bạn giữ khoảng cách với xe trước và đi theo nhịp chung. Trên phố nhỏ, mọi thứ gần nhau hơn: gương xe cách gương xe vài phân, người bán hàng rao giữa đường, và mỗi lần vượt là một lần đánh giá rủi ro.
 
-Người thuê xe số cần thêm một cân nhắc: số lượng lần dừng ở đèn đỏ. Mỗi lần dừng là một lần sang số, thả côn, chống chân. Trên tuyến có nhiều đèn đỏ trong giờ cao điểm, xe số khiến chân và tay làm việc liên tục, trong khi xe ga chỉ cần vặn ga. Nếu kỳ thuê dài và tuyến đi có nhiều nút giao, đây là lý do chính đáng để chọn xe ga thay vì chỉ nhìn giá thuê ngày.
+Người thuê xe số cần thêm một cân nhắc: số lượng lần dừng ở đèn đỏ. Mỗi lần dừng là một lần sang số, thả côn, chống chân. Trên tuyến có nhiều đèn đỏ trong giờ cao điểm, xe số khiến chân và tay làm việc liên tục, trong khi xe ga chỉ cần vặn ga. Nếu kỳ thuê dài và tuyến đi có nhiều nút giao, đây là lý do chính đáng để [chọn xe ga](/hoi-dap/2026/10/10/nen-thue-xe-ga-hay-xe-so-khi-di-lam/) thay vì chỉ nhìn giá thuê ngày.
 
 ## Giữ an toàn trong dòng xe dày đặc
 
-Khoảng cách an toàn trong giờ cao điểm không tính bằng mét mà bằng thời gian phản ứng. Nguyên tắc thực dụng: giữ khoảng cách đủ để bạn dừng được nếu xe trước phanh gấp, và nhớ rằng khi bạn nhìn xuống điện thoại hai giây, bạn đã đi trong mù gần ba mươi mét ở tốc độ chậm. Trong dòng xe dày đặc, tai nạn phổ biến nhất là va quệt nhẹ khi khởi hành nhát gách sau đèn đỏ, và loại tai nạn này với xe thuê nghĩa là thủ tục bồi thường phiền toái cho cả hai bên.
+Khoảng cách an toàn trong giờ cao điểm không tính bằng mét mà bằng thời gian phản ứng. Nguyên tắc thực dụng: giữ khoảng cách đủ để bạn dừng được nếu [xe trước phanh gấp](/ky-nang/2026/10/07/xe-phia-truoc-phanh-gap-minh-phan-ung-ra-sao/), và nhớ rằng khi bạn nhìn xuống điện thoại hai giây, bạn đã đi trong mù gần ba mươi mét ở tốc độ chậm. Trong dòng xe dày đặc, tai nạn phổ biến nhất là va quệt nhẹ khi khởi hành nhát gách sau đèn đỏ, và loại tai nạn này với xe thuê nghĩa là thủ tục bồi thường phiền toái cho cả hai bên.
 
 Đi giữa làn, không đi sát vạch phân làn để tránh gương xe ngược chiều. Khi vượt, vượt bên trái và chỉ vượt khi thấy rõ khoảng trống phía trước, không vượt chỉ vì xe trước vượt. Trong dòng xe tắc đứng, cám dỗ lớn nhất là leo lên vỉa hè: ngoài rủi ro va phải người đi bộ, hành vi này còn bị xử phạt theo quy định hiện hành về sử dụng vỉa hè không đúng mục đích, và chiếc xe thuê với biển số lạ thường nhận được nhiều ánh nhìn từ người trật tự hơn xe của người địa phương.
 
-Tại các nút giao và vòng xuyến, quy tắc sống còn là giảm tốc trước khi vào và quan sát cả phía sau. Trong giờ cao điểm, nhiều người mệt mỏi và chủ quan sau ngày làm, phản ứng chậm hơn buổi sáng. Người đi xe thuê đi làm nên mặc bộ đồ mưa gọn trong cốp quanh mùa mưa, vì dừng giữa dòng người để mặc áo mưa giữa trời mưa là trải nghiệm từng có mới hiểu.
+Tại [các nút giao và vòng xuyến](/kinh%20nghi%E1%BB%87m/2026/09/19/di-qua-vong-xuyen-va-nut-giao-lon-o-ha-noi/), quy tắc sống còn là giảm tốc trước khi vào và quan sát cả phía sau. Trong giờ cao điểm, nhiều người mệt mỏi và chủ quan sau ngày làm, phản ứng chậm hơn buổi sáng. Người đi xe thuê đi làm nên mặc bộ đồ mưa gọn trong cốp quanh mùa mưa, vì dừng giữa dòng người để mặc áo mưa giữa trời mưa là trải nghiệm từng có mới hiểu.
 
 ## Giảm mệt mỏi khi di chuyển hằng ngày
 

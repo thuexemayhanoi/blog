@@ -60,6 +60,11 @@
    "text": "Đính chính ranh giới 50 cm³: theo điểm g khoản 1 Điều 34 Luật Trật tự, an toàn giao thông đường bộ, xe gắn máy có động cơ nhiệt với dung tích không lớn hơn 50 cm³ (bao gồm đúng 50 cm³) và vận tốc thiết kế không lớn hơn 50 km/h; xe gắn máy điện có công suất không lớn hơn 4 kW và cũng phải đáp ứng điều kiện vận tốc. Điều 59 cho phép người đủ 16 tuổi trở lên điều khiển xe gắn máy khi đáp ứng các điều kiện luật định. Vì vậy câu trong bài coi đúng 50 cm³ đương nhiên là mô tô cần đủ 18 tuổi là chưa chính xác. Quyền điều khiển xe và điều kiện đứng tên hợp đồng thuê là hai vấn đề khác nhau; cần xác nhận điều kiện thuê cụ thể với cửa hàng.",
    "source_label": "Bộ Công an trả lời về người đủ 16 tuổi lái xe gắn máy 50 cm³ (20/01/2026)",
    "source_url": "https://chinhsachonline.chinhphu.vn/do-tuoi-duoc-phep-dieu-khien-xe-gan-may-83869.htm"
+  },
+  "CLASS_B1_TERM": {
+   "text": "Hạng B1 và thời hạn (đối chiếu 17/11/2026): giấy phép hạng B1 cấp cho người lái xe mô tô ba bánh và các loại xe quy định cho hạng A1, nên người có B1 được lái cả xe mô tô hai bánh thuộc hạng A1 (Điều 57 khoản 1 điểm c); giấy phép lái xe các hạng A1, A, B1 không thời hạn (Điều 57 khoản 5 điểm a Luật số 36/2024/QH15). Giấy phép cấp trước 01/01/2025 tiếp tục được sử dụng theo thời hạn ghi trên giấy phép.",
+   "source_label": "Văn bản hợp nhất 55/VBHN-VPQH",
+   "source_url": "https://vanban.chinhphu.vn/?docid=217295&pageid=27160"
   }
  },
  "posts": {
@@ -67,7 +72,8 @@
    "id": "BLG-00614",
    "codes": [
     "A1_AGE",
-    "TT_SAT_HACH"
+    "TT_SAT_HACH",
+    "CLASS_B1_TERM"
    ]
   },
   "/an-toan-phap-ly/2026/09/28/bang-lai-a1-dieu-khien-xe-may-pham-vi-nao/": {

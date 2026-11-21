@@ -1,0 +1,53 @@
+{
+ "schema": "revise-patches/1",
+ "purpose": "seo-batch1 2026-11-17",
+ "reason": "Sửa sai pháp lý (tuổi cấp A1 là 18, phạm vi B1 gồm xe hạng A1, bằng A1/A/B1 không thời hạn, thông tư sát hạch hiện hành 108/2026/TT-BCA) và trả lời trực tiếp truy vấn chính ở câu mở đầu.",
+ "patches": {
+  "BLG-00614": {
+   "edits": [
+    {
+     "old": "xi lanh, và hiểu rõ phân loại này giúp bạn chọn đúng hồ sơ khi làm thủ tục.",
+     "new": "xi lanh và loại xe: A1 cho mô tô hai bánh đến 125 cm3, A cho xe trên 125 cm3, B1 cho mô tô ba bánh; cả ba hạng cần đủ 18 tuổi.",
+     "count": 1
+    },
+    {
+     "old": "35/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ Giao thông vận tải",
+     "new": "108/2026/TT-BCA ngày 29 tháng 6 năm 2026 của Bộ Công an",
+     "count": 1
+    },
+    {
+     "old": "A1 là 16.",
+     "new": "A1 là 18; người đủ 16 tuổi chỉ được lái xe gắn máy.",
+     "count": 1
+    },
+    {
+     "old": "không bao gồm mô tô hai bánh, nên người chỉ có B1 không được điều khiển mô tô hai bánh.",
+     "new": "nhưng bao gồm cả xe của hạng A1, tức mô tô hai bánh đến 125 cm3 hoặc 11 kW.",
+     "count": 1
+    },
+    {
+     "old": "có thời hạn theo quy định, đến hạn phải đổi đúng thủ tục.",
+     "new": "là loại không thời hạn, nên không phải đổi định kỳ.",
+     "count": 1
+    },
+    {
+     "old": "Được thi hạng A1, còn hạng A cần đủ 18 tuổi.",
+     "new": "Chưa được, vì A1, A, B1 đều cần đủ 18 tuổi.",
+     "count": 1
+    },
+    {
+     "old": ", nên hãy đổi bằng trước thời hạn.",
+     "new": ", nhưng bằng xe máy hạng A1, A, B1 không thời hạn nên không lo hết hạn.",
+     "count": 1
+    },
+    {
+     "old": "để bằng hết hạn mà vẫn lái",
+     "new": "lái xe khi chưa có bằng",
+     "count": 1
+    }
+   ]
+  }
+ },
+ "status": "BLOCKED_EVIDENCE_HASH_DRIFT: áp dụng sau khi chủ duyệt reattest-legacy-qa.py (hoặc revise-published.py --domain-drift)",
+ "verified": "phản biện độc lập 2026-11-18, mọi edit có nguồn chính thức"
+}

@@ -42,7 +42,7 @@ Một tình huống quen ở Hà Nội: xe lội qua đoạn đường ngập sa
 Vị trí khác nhau giữa các dòng xe, nhưng có vài chỗ hay gặp để bạn bắt đầu tìm:
 
 - Xe tay ga: thường dưới yên, quanh khoang đặt ắc quy, hoặc sau một tấm ốp nhựa nhỏ ở thân xe.
-- Xe số: thường ở khu vực ắc quy phía sau ốp hông, trong một nắp nhựa nhỏ.
+- Xe số: thường ở khu vực ắc quy phía sau ốp hông hoặc dưới yên, trong một nắp nhựa nhỏ. Với Wave Alpha và Wave RSX FI, mở yên rồi tháo ốp bình điện là thấy.
 - Một số xe có cầu chì chính đặt riêng gần ắc quy, còn cầu chì nhánh gom trong một hộp khác.
 
 Cách chắc ăn nhất là mở sách hướng dẫn sử dụng, thường có sơ đồ chỉ rõ hộp cầu chì. Với xe thuê, hãy hỏi ngay lúc nhận xe: "hộp cầu chì của xe này nằm ở đâu?". Câu hỏi mất vài giây nhưng đỡ cho bạn nhiều phút lúng túng trong đêm.

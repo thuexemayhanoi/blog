@@ -31,7 +31,7 @@ Cả hai tuyến đều khoảng ba đến bốn cây số với mười đến 
 
 ## Đường ven hồ và những đoạn đáng đi
 
-Đường ven Hồ Tây chạy vòng quanh hồ qua các tên đường khác nhau: Âu Cơ và Lạc Long Quân ở phía bắc, đường Hồ Tây và Nghi Tàm ở phía đông. Đoạn đẹp và được yêu thích nhất là dải đường phía đông nam hồ, nơi mặt nước mở rộng và nhìn ra các quán cà phê bên kia.
+Đường ven Hồ Tây [chạy vòng quanh hồ](/du-lich/2026/10/11/chay-xe-mot-vong-ho-tay-lo-trinh-diem-dung-va-doan-de-ket/) qua các tên đường khác nhau: Âu Cơ và Lạc Long Quân ở phía bắc, đường Hồ Tây và Nghi Tàm ở phía đông. Đoạn đẹp và được yêu thích nhất là dải đường phía đông nam hồ, nơi mặt nước mở rộng và nhìn ra các quán cà phê bên kia.
 
 Chạy xe vòng hồ nên giữ tốc độ vừa phải, cả vì cảnh quan lẫn vì an toàn: đường ven hồ có nhiều người đi bộ, chạy bộ và đạp xe vào buổi sáng sớm và chiều tối. Vỉa hè một số đoạn rộng, nhưng xe máy phải đi phần đường xe chạy, không lên vỉa hè.
 
@@ -51,7 +51,7 @@ Buổi tối, đường ven hồ đèn lên, không khí mát hơn trong phố. 
 
 ## Gửi xe quanh khu Tây Hồ
 
-Gửi xe quanh Tây Hồ khá thuận tiện: các quán cà phê, nhà hàng ven đường thường có chỗ để xe riêng cho khách, bãi gửi công cộng tập trung ở đầu đường Thanh Niên, khu Nghi Tàm và các ngõ quanh Quảng An. Phí gửi thường vài nghìn đồng mỗi lượt, hãy chuẩn bị tiền lẻ.
+Gửi xe quanh Tây Hồ khá thuận tiện: các quán cà phê, nhà hàng ven đường thường có chỗ để xe riêng cho khách, [bãi gửi công cộng](/du-lich/2026/09/28/gui-xe-khi-di-dao-bo-ho-tay/) tập trung ở đầu đường Thanh Niên, khu Nghi Tàm và các ngõ quanh Quảng An. Phí gửi thường vài nghìn đồng mỗi lượt, hãy chuẩn bị tiền lẻ.
 
 Với các điểm ngắm cảnh ven đường không có bãi, không để xe lấn lên vỉa hè hoặc trước cổng nhà dân. Tìm các ngõ nhỏ lân cận, thường có bãi gửi của hộ gia đình với biển đề sẵn. Thói quen chụp ảnh biển số và vị trí xe giúp bạn tìm lại xe nhanh khi bãi đông.
 
@@ -59,7 +59,7 @@ Nếu định dừng lâu ở một quán, hỏi trước nhân viên xem có gi
 
 ## Những điểm đáng ghé quanh Tây Hồ
 
-Chùa Trấn Quốc ở đầu đường Thanh Niên là ngôi chùa cổ trên bán đảo giữa Hồ Tây, một trong những di tích đáng xem nhất khu vực. Từ đường Thanh Niên hẹp chạy giữa hai hồ, bạn có thể gửi xe ở khu đầu đường rồi đi bộ vào chùa.
+[Chùa Trấn Quốc](/du-lich/2026/09/28/den-chua-tran-quoc-bang-xe-may-gui-xe-va-duong-di/) ở đầu đường Thanh Niên là ngôi chùa cổ trên bán đảo giữa Hồ Tây, một trong những di tích đáng xem nhất khu vực. Từ đường Thanh Niên hẹp chạy giữa hai hồ, bạn có thể gửi xe ở khu đầu đường rồi đi bộ vào chùa.
 
 Hồ Trúc Bạch ở phía đông đường Thanh Niên nhỏ và im hơn Hồ Tây, quanh hồ có các quán cà phê và món ăn truyền thống lâu đời. Đây là điểm dừng chân ăn uống hợp lý sau một vòng hồ.
 

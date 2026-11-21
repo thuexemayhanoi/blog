@@ -1,0 +1,399 @@
+[
+ {
+  "id": "BLG-00614",
+  "url": "/an-toan-phap-ly/2026/09/27/cac-hang-bang-lai-xe-may-tai-viet-nam/",
+  "status": "BLOCKED_HASH_DRIFT_PATCH_PREPARED",
+  "primary_query": "bằng lái xe máy là hạng gì",
+  "edits_proposed": 8,
+  "edits_approved": 8,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Đây chỉ là đề xuất, không sửa. Title hiện tại \"Các hạng bằng lái xe máy tại Việt Nam\" không khớp dạng câu hỏi của truy vấn chính. Có thể cân nhắc: \"Bằng lái xe máy là hạng gì? Các hạng A1, A, B1 theo luật mới\". Meta description hiện đúng (nêu A1, A, B1) và không có tuyên bố sai, nên không cần đổi; nếu chủ website muốn, có thể thêm \"cấp cho người đủ 18 tuổi, không thời hạn\".",
+  "findings_not_fixed": [
+   {
+    "type": "missing_info_not_fixed",
+    "severity": "P2",
+    "evidence": "FAQ \"Có bằng A1 thì lái được xe trên 125 cm3 không? Không\" chỉ đúng với bằng A1 cấp theo luật mới. Điều 89 khoản 2 điểm a: bằng A1 cấp trước 01/01/2025, nếu chưa đổi hoặc cấp lại, vẫn được lái mô tô hai bánh từ 50 cm3 đến dưới 175 cm3, hoặc động cơ điện từ 4 kW đến dưới 14 kW. Điểm này quan trọng với người thuê xe 150–160 cm3 (Air Blade 160, Vario 160...). Chưa thêm vì tổng ký tự đổi đã khoảng 15%. Đề xuất chủ website cân nhắc thêm một câu ở lần sửa sau, hoặc liên kết nội bộ tới bài 2026-10-15 về bằng A1 cấp trước 2025 (thêm liên kết thì phải sửa ngoài công cụ revise)."
+   },
+   {
+    "type": "thin_content_not_fixed",
+    "severity": "P3",
+    "evidence": "Câu đầu phần Kết luận (\"không phải vấn đề phức tạp nếu bạn kiểm tra đúng lúc\") và câu \"Duy trì thói quen kiểm tra đều đặn...\" là câu sáo rỗng. Mục \"Điều kiện thi và thủ tục\" còn chung chung, chưa nêu hồ sơ hay nội dung sát hạch theo Thông tư 108/2026/TT-BCA (Phụ lục I: sát hạch hạng A1 và A gồm lý thuyết và thực hành). Không sửa vì giới hạn ngân sách ký tự."
+   },
+   {
+    "type": "cannibalization_risk",
+    "severity": "P3",
+    "evidence": "Cụm bài về giấy phép lái xe rất dày: bang-a1-chay-duoc-nhung-loai-xe-may-nao-khi-thue, thi-bang-a1-bang-xe-may-thue-duoc-khong và thi-bang-a1-bang-xe-may-thue-co-duoc-chap-nhan-khong (gần trùng nhau), bang-a1-cap-tu-nam-2025-co-lai-duoc-honda-air-blade-160..., cùng trang hub /an-toan-phap-ly/giay-phep-lai-xe/. Truy vấn \"bằng xe máy có mấy loại\" đang ở vị trí 45, cho thấy Google chưa chọn rõ trang nào cho intent phân hạng. Nên chủ website xem lại, cho bài này làm trang trụ cột về phân hạng và để các bài A1 liên kết về."
+   },
+   {
+    "type": "legal_notice_overlap",
+    "severity": "P3",
+    "evidence": "_data/legal-notices.json đang gắn mã A1_AGE và TT_SAT_HACH cho URL bài này. Nếu bản sửa được áp dụng thì nên gỡ hai mã đó để không hiển thị đính chính cho nội dung đã đúng."
+   }
+  ],
+  "unverified_left_unchanged": [
+   "Trạng thái hiệu lực chính xác của Thông tư 35/2024/TT-BGTVT: chưa tìm được văn bản sơ cấp ghi rõ nó hết hiệu lực, nên bản sửa chỉ thay số hiệu bằng Thông tư 108/2026/TT-BCA đã kiểm chứng, không khẳng định Thông tư 35/2024 hết hiệu lực.",
+   "Quy định về đổi hoặc cấp lại bằng A1 cấp trước 01/01/2025 (khi đổi có ghi hạng A1 kèm giới hạn 175 cm3 hay không): chưa kiểm chứng ở Thông tư 108/2026/TT-BCA nên chưa đưa vào bài.",
+   "Lệ phí sát hạch và cấp bằng hiện hành: bài không nêu số, và cũng không thêm."
+  ]
+ },
+ {
+  "id": "BLG-01248",
+  "url": "/du-lich/2026/10/04/den-cau-nhat-tan-bang-xe-may-duong-di-va-luu-y-chay-tren-cau/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "đường đi cầu nhật tân",
+  "edits_proposed": 8,
+  "edits_approved": 8,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Proposal only, for the owner to decide (front matter was not changed). Title: 'Đường đi cầu Nhật Tân bằng xe máy: lộ trình lên cầu và lưu ý' (matches the 'đường đi cầu nhật tân' query cluster). Meta description: 'Đường đi cầu Nhật Tân bằng xe máy: từ nội đô theo Võ Chí Công hoặc đê Yên Phụ, Âu Cơ; từ Nội Bài theo Võ Nguyên Giáp. Kèm lưu ý làn xe máy, gió và tốc độ.' The current meta does not mention the north end or Võ Nguyên Giáp.",
+  "findings_not_fixed": [
+   {
+    "type": "awkward_keyword_sentence_not_fixed",
+    "severity": "P3",
+    "evidence": "Line 20, 'Về cầu Nhật Tân đường đi nằm tiếp nối trục Võ Chí Công...', is an ungrammatical sentence forced around the keyword. Only the district names in it were fixed, to stay within the edit budget. The owner may want to rewrite the opening as 'Đầu cầu Nhật Tân phía nam nằm tiếp nối...' in a later revision."
+   },
+   {
+    "type": "vague_route_not_fixed",
+    "severity": "P3",
+    "evidence": "Line 24, the route from Long Biên ('qua cầu Chương Dương, theo các trục phía tây bắc của thành phố rồi nối vào Võ Chí Công'), is vague but not false. It was left unchanged because I did not separately verify where the west end of Chương Dương bridge lands or whether motorbikes can use the north-bank route (ring road 2 via cầu Đông Trù and đường Trường Sa)."
+   },
+   {
+    "type": "cannibalization",
+    "severity": "P2",
+    "evidence": "There are many posts about cầu Nhật Tân with overlapping intent: 2026-10-01-cung-duong-cau-nhat-tan-ven-song-hong-chieu-toi, 2026-10-09-chay-xe-may-qua-cau-nhat-tan-va-thang-long-cuoi-tuan, 2026-10-09-xem-hoang-hon-tren-cau-nhat-tan-bang-xe-may, 2026-10-07-cung-duong-cau-nhat-tan-sang-dap-ung-co-gi-dang-dung, 2026-10-09-cau-nhat-tan-qua-gia-lam-an-toi-chay-xe-may-tien-khong, 2026-09-20-ky-nang-qua-cau-o-ha-noi-khi-di-xe-may-thue, 2026-10-15-o-dong-anh-hoac-soc-son-...-qua-cau-nhat-tan. Recommend making BLG-01248 the hub for 'đường đi cầu Nhật Tân' and having the other posts link to it. Adding links is outside the scope of revise-published, so this needs a separate route."
+   }
+  ],
+  "unverified_left_unchanged": [
+   "Bridge length comparisons (Nhật Tân 3,755 m per Tuổi Trẻ, 3.9 km per Wikipedia, vs Vĩnh Tuy): not settled, so the superlative was only softened.",
+   "Long Biên route (where the west end of Chương Dương bridge lands; whether motorbikes may use the Trường Sa/Võ Nguyên Giáp segment near the north end of the bridge): not verified, so line 24 was left unchanged.",
+   "Rules restricting motorbikes to the service roads on Võ Nguyên Giáp (Wikipedia/Vietnamnet only; Sở Xây dựng changed traffic organization on the Phúc Thịnh/Nội Bài/Sóc Sơn sections from 25/11/2025): not added to the post.",
+   "Claims already in the post that were left unchanged: 'biển chỉ dẫn riêng cho xe máy' at the junctions leading to the bridge, and the weekend afternoon crowding. No primary source found to confirm or refute either."
+  ]
+ },
+ {
+  "id": "BLG-05997",
+  "url": "/an-toan-phap-ly/2026/10/15/le-duong-he-pho-phan-duong-xe-chay-va-lan-duong-khac-nhau-the-nao-hieu-dung-de-x/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "lề đường (kèm biến thể chính tả \"nề đường hay lề đường\", \"lề đường là phần nào\")",
+  "edits_proposed": 5,
+  "edits_approved": 5,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Title hiện khoảng 110 ký tự, đề xuất rút gọn: \"Lề đường là gì, khác hè phố thế nào: hiểu đúng để xe máy dừng đỗ hợp luật\". Meta đề xuất (khoảng 150 ký tự): \"Lề đường là gì: luật viết lề đường (không phải nề đường), TCVN 13592:2022 mô tả lề tiếp giáp phần xe chạy, hè phố ở ngoài; Điều 18 nói cách đỗ sát lề.\" Chỉ là đề xuất cho chủ website, không áp dụng.",
+  "findings_not_fixed": [],
+  "unverified_left_unchanged": [
+   "Chưa xác minh trọn vẹn Điều 2 Luật Đường bộ 35/2024/QH15 (chỉ đọc khoản 1-6 và Điều 14) và Điều 3 QCVN 41:2024/BGTVT (chỉ qua trích đoạn) có định nghĩa 'lề đường'/'vỉa hè' hay không. Vì vậy câu 'chưa đối chiếu Luật Đường bộ, ... quy chuẩn' được giữ nguyên.",
+   "Chưa đọc trực tiếp VBHN 55/VBHN-VPQH tại Điều 30 và Điều 77 để khẳng định Luật 118/2025/QH15 không sửa hai điều này. Đã đối chiếu bản gốc 36/2024 và bản Điều 18 tra ngày 04/07/2026.",
+   "Không thêm mức phạt dừng/đỗ cách lề quá 0,25 m (Nghị định 168/2024 Điều 6 theo PLO). Bài chủ ý không nêu mức phạt, và chưa đối chiếu được việc Nghị định 238/2026/NĐ-CP có sửa Điều 6 hay không.",
+   "Chính sách của tiệm về chỗ đỗ xe ven phố và cách xử lý thông báo vi phạm gửi về biển số xe thuê: không có trong data/business-facts.json."
+  ]
+ },
+ {
+  "id": "BLG-00999",
+  "url": "/an-toan-phap-ly/2026/09/30/quy-dinh-cho-hang-cong-kenh-tren-xe-may/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "chở hàng cồng kềnh xe máy",
+  "edits_proposed": 6,
+  "edits_approved": 6,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Title giữ nguyên (\"Quy định chở hàng cồng kềnh trên xe máy\"), vì đã khớp truy vấn chính. Meta description, chỉ là đề xuất, chủ website quyết định: \"Quy định chở hàng cồng kềnh xe máy theo Luật 36/2024: hàng không vượt giá đèo hàng 0,3 m mỗi bên, 0,5 m phía sau, cao tối đa 2 m; cách chằng buộc và báo hiệu đúng.\"",
+  "findings_not_fixed": [],
+  "unverified_left_unchanged": [
+   "Mức phạt: 600.000–800.000 đồng theo điểm e khoản 3 Điều 7 Nghị định 168/2024/NĐ-CP lấy từ báo chí và thuvienphapluat. Bản toàn văn trên xaydungchinhsach.chinhphu.vn chỉ xác nhận nội dung hành vi trong đoạn trích, không có số tiền. Việc Nghị định 238/2026/NĐ-CP không sửa Điều 7 và Điều 12 dựa vào ghi chú trong data/business-facts.json (verified_at 2026-10-27), không tra lại văn bản 238 trong phiên này. Không đưa vào bài.",
+   "Chưa tìm thấy văn bản nào sửa Điều 33 hay Điều 47 Luật 36/2024 sau VBHN 55/VBHN-VPQH (03/2026). Tuy vậy, chưa đối chiếu được Công báo đến đúng tháng 11/2026.",
+   "Câu 'hàng rơi gây thiệt hại cho người đi sau thì trách nhiệm vẫn thuộc về người để rơi' (trách nhiệm dân sự) chưa đối chiếu Bộ luật Dân sự. Giữ nguyên.",
+   "Câu 'Trong các vụ va chạm, việc chở hàng sai cũng hay được ghi nhận là một phần nguyên nhân' chưa có nguồn thống kê. Giữ nguyên."
+  ]
+ },
+ {
+  "id": "BLG-04684",
+  "url": "/du-lich/2026/10/15/trung-tam-giao-luu-van-hoa-pho-co-o-50-dao-duy-tu-xem-trinh-dien-nghe-trien-lam/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "50 đào duy từ",
+  "edits_proposed": 4,
+  "edits_approved": 3,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Chỉ là đề xuất, không sửa. Title hiện dài khoảng 100 ký tự và 'xem trình diễn nghề' hứa nhiều hơn thực tế (trình diễn nghề chỉ có theo đợt). Có thể cân nhắc: '50 Đào Duy Từ: Trung tâm Giao lưu Văn hóa Phố cổ Hà Nội, vé và gửi xe máy'. Meta description có thể nêu thêm 'vé điện tử' và 'cấm xe tối cuối tuần ở vùng lõi'.",
+  "findings_not_fixed": [],
+  "unverified_left_unchanged": [
+   "Số 50 Đào Duy Từ nằm bên trong hay ngay ngoài Khu vực 1 của vùng phát thải thấp: chỉ kiểm chứng được phố Đào Duy Từ đi qua ngã tư Hàng Buồm - Mã Mây, hai phố thuộc đường bao.",
+   "Giờ mở cửa hiện hành (tháng 11/2026) của trung tâm: hai thông báo chính thức tháng 1/2026 và tháng 2/2026 ghi khác nhau.",
+   "Mức phí 20.000 đồng/lượt còn áp dụng nguyên trạng đến tháng 11/2026: xác nhận chính thức gần nhất là tháng 1-2/2026, nguồn phụ (travelshelper) kiểm tra ngày 14/9/2026.",
+   "Nguyên văn Điều 9 khoản 6 trong bản hợp nhất sau Luật 118/2025/QH15: lawplayer (dữ liệu đến 04/07/2026) vẫn cho cùng câu chữ, nhưng chưa đọc trực tiếp phần Điều 9 trên Công báo 09/04/2026.",
+   "Liên kết vanban.chinhphu.vn docid=217295 có đúng là bản hợp nhất Luật 36/2024 hay không (không kiểm, liên kết giữ nguyên)."
+  ]
+ },
+ {
+  "id": "BLG-03429",
+  "url": "/du-lich/2026/10/15/lotte-mall-tay-ho-bang-xe-may-duong-vao-tu-vo-chi-cong-xuong-ham-gui-xe-va-gio-d/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "gửi xe lotte mall tây hồ",
+  "edits_proposed": 6,
+  "edits_approved": 5,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Chỉ là đề xuất, không sửa. Title: \"Gửi xe Lotte Mall Tây Hồ bằng xe máy: hầm B1, B2, cổng Lạc Long Quân và giờ đông\". Meta: \"Gửi xe máy ở Lotte Mall Tây Hồ: xuống hầm B1, B2 hoặc bãi mặt đất qua cổng 4, 5 phía 683 Lạc Long Quân, giữ vé, nhớ vị trí xe; trung tâm mở 9:30–22:00.\" Cần kiểm tra lại với BLG-03498 để tránh hai bài cùng nhắm truy vấn gửi xe.",
+  "findings_not_fixed": [
+   {
+    "type": "cannibalization",
+    "severity": "P2",
+    "evidence": "BLG-03498 (/cung-duong/2026/10/15/di-lotte-mall-tay-ho-bang-xe-may-duong-vo-chi-cong-loi-vao-ham-xe-va-huong-ve-tr/) có intent gần trùng: đi Lotte Mall Tây Hồ bằng xe máy, lối vào hầm gửi xe, tag 'lotte mall west lake gửi xe máy'. Hai bài cùng ngày nhưng khác child (C-HO-TAY và C-CD-NOI-THANH) nên gate cannibalization không bắt được. Chủ website nên cân nhắc phân vai rõ (bài này về gửi xe, bài kia về cung đường) hoặc thêm liên kết qua lại; việc này nằm ngoài ràng buộc sửa."
+   },
+   {
+    "type": "minor_imprecision_not_fixed",
+    "severity": "P3",
+    "evidence": "'Khu phức hợp này nằm phía tây Hồ Tây': theo tọa độ (21.0759, 105.8127) thì chính xác hơn là phía tây bắc. Bài BLG-03498 viết 'phía tây bắc'. Không sửa vì vẫn chấp nhận được."
+   }
+  ],
+  "unverified_left_unchanged": [
+   "Mức phí gửi xe máy ở Lotte Mall Tây Hồ: Traveloka và HIWIN ghi 5.000đ/lượt, xekhachhaohuong.vn đưa bảng theo giờ khác, trang chính thức không đăng bảng giá cho khách. Chưa thêm vào bài.",
+   "Gửi xe có miễn phí hay không, và có ưu đãi gửi xe cho khách mua sắm hay không: chỉ có nguồn thứ cấp ngầm cho thấy có thu phí, không có nguồn chính thức.",
+   "Cách lấy vé và thanh toán (máy lấy thẻ tự động iParking, thanh toán ở màn hình cảm ứng tầng 1 hoặc tại quầy khi ra): chỉ có mia.vn, Traveloka và mytour, không có nguồn chính thức.",
+   "Xe máy được gửi cụ thể ở tầng hầm nào (B1 hay B2) và có được gửi ở các tầng đỗ nổi hay không: trang chính thức chỉ nêu sức chứa gộp của ô tô và xe máy.",
+   "Chưa mở được trực tiếp lottemallwestlakehanoi.vn qua WebFetch (host không nằm trong mạng cho phép của phiên). Nội dung trích dẫn lấy từ đoạn trích của Parallel Search trên đúng domain chính thức đó."
+  ]
+ },
+ {
+  "id": "BLG-05172",
+  "url": "/an-toan-phap-ly/2026/10/15/hoc-sinh-15-den-17-tuoi-co-duoc-dung-ten-dang-ky-xe-may-khong-dieu-kien-dong-y-c/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "17 tuổi có được đăng ký xe máy không (cùng nhóm: 17 tuổi đứng tên xe được không, 17t đứng tên xe máy được không, 15 tuổi đứng tên xe được chưa, 17 tuổi đứng tên xe 125 được không)",
+  "edits_proposed": 5,
+  "edits_approved": 5,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Chỉ là đề xuất, chưa sửa. Title (không đổi URL): \"17 tuổi có được đứng tên xe máy không? Điều kiện cha mẹ đồng ý cho học sinh 15–17 tuổi\". Meta description: \"Thông tư 79/2024 không đặt mốc tuổi cho chủ xe; học sinh 15–17 tuổi đứng tên xe máy được khi cha mẹ đồng ý theo khoản 4 Điều 21 Bộ luật Dân sự. Đứng tên khác lái xe 125cc: bằng A1 cấp từ đủ 18 tuổi.\"",
+  "findings_not_fixed": [],
+  "unverified_left_unchanged": [
+   "Mẫu giấy khai đăng ký xe ĐKX10/79 hiện hành có ô hoặc mục ghi sự đồng ý của cha mẹ cho chủ xe chưa thành niên hay không: chưa xem được mẫu.",
+   "Thông tư 62/2026/TT-BCA: chỉ biết qua Thư viện Pháp luật và LuatVietnam là có sửa khoản 6 Điều 3, Điều 7 và khoản 3 Điều 14; chưa đọc toàn văn để loại trừ hẳn việc có thêm điều khoản về tuổi (bài Thư viện Pháp luật 24/07/2026, viết sau 62/2026, vẫn ghi Thông tư 79/2024 không còn quy định tuổi).",
+   "Chưa đối chiếu trên nguồn sơ cấp nguyên văn khoản 2 Điều 77 Luật Hôn nhân và gia đình 2014 (Bộ Công an có dẫn); vì vậy không đưa vào bản sửa.",
+   "Ai phải có mặt khi nộp hồ sơ (con hay cha mẹ) và cơ quan đăng ký xe có đòi văn bản đồng ý riêng trong thực tế hay không: chưa có nguồn chính thức.",
+   "Quy định độ tuổi và giấy tờ khi thuê xe cho người dưới 18 tuổi tại tiệm Nguyễn Tú: data/business-facts.json không có thông tin; bài giữ nguyên hướng dẫn gọi để xác nhận."
+  ]
+ },
+ {
+  "id": "BLG-04573",
+  "url": "/an-toan-phap-ly/2026/10/15/bien-di-cham-va-bien-tam-giac-cham-than-nguy-hiem-khac-xe-may-lam-gi-khi-bien-kh/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "biển báo chấm than là gì",
+  "edits_proposed": 4,
+  "edits_approved": 4,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Chỉ là đề xuất, không sửa. Title: \"Biển chấm than là gì? Biển W.233 nguy hiểm khác, biển đi chậm W.245 và cách xử lý khi đi xe máy\". Meta: \"Biển tam giác dấu chấm than là biển W.233 'Nguy hiểm khác' theo QCVN 41:2024, biển đi chậm là W.245. Ý nghĩa, Điều 12 Luật 36/2024 và cách giảm tốc khi đi xe máy thuê.\"",
+  "findings_not_fixed": [],
+  "unverified_left_unchanged": [
+   "Chưa xem trực tiếp hình vẽ W.233 trong quy chuẩn để xác nhận là dấu chấm than. Đây là tuyên bố có sẵn trong bài, phổ biến và không bị sửa; các trang chinhphu, wikipedia, lawfirm.vn bị chặn mạng trong phiên này.",
+   "Chưa xem trực tiếp hình vẽ W.245a (tam giác có chữ 'Đi chậm'). Câu mô tả hình dạng có sẵn trong bài, giữ nguyên.",
+   "Câu 'Biển phụ ... thường ghi ... chiều dài đoạn nguy hiểm' chưa đối chiếu mục biển phụ của QCVN 41:2024. Câu có sẵn, không sửa.",
+   "Ngày hiệu lực 01/01/2025 của Thông tư 51/2024/TT-BGTVT chỉ xác nhận qua nguồn thứ cấp (hoatieu.vn, ketoananpha.vn). Câu có sẵn, không sửa.",
+   "Chưa xác nhận dứt điểm QCVN 41:2026/BXD đã ban hành hay chưa sau ngày 01/11/2026. Tin mới nhất tìm được vẫn ghi đang lấy ý kiến.",
+   "Không tải được bản PDF datafiles.chinhphu.vn (proxy 403, DNS bị chặn). Nội dung mục C.33, C.45 và 11.3 lấy từ đoạn trích của chính file PDF đó qua kết quả tìm kiếm, khớp với LuatVietnam, thuvienphapluat và dự thảo lần 1."
+  ]
+ },
+ {
+  "id": "BLG-01688",
+  "url": "/an-toan-phap-ly/2026/10/09/hang-a1-lai-duoc-nhung-loai-xe-may-nao/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "bằng lái xe a1 chạy được xe gì",
+  "edits_proposed": 7,
+  "edits_approved": 7,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Keep the title. Proposed meta description (153 characters, includes the keyword 'hạng A1 lái được xe gì'): \"Hạng A1 lái được xe gì? Bằng A1 cấp từ 2025 lái mô tô hai bánh đến 125 cm3 hoặc 11 kW, bằng A1 cũ chưa đổi được đến dưới 175 cm3. Khi nào cần hạng A, B1.\" Based on Điều 57 and Điều 89 Luật 36/2024/QH15, checked against VBHN 55/VBHN-VPQH (2026).",
+  "findings_not_fixed": [
+   {
+    "type": "cannibalization",
+    "severity": "P2",
+    "evidence": "Cluster C-GPLX has several published articles with almost the same intent: BLG-00621 'Bằng lái A1 điều khiển xe máy: phạm vi nào', BLG-01559 'Bằng A1 chạy được những loại xe máy nào khi thuê', BLG-01903 'Bằng lái A1 chạy được những xe nào'. Close neighbours: BLG-03917 (A1 from 2025 and Air Blade 160), BLG-04341 (A1 to hạng A), BLG-04338 (exchanging an old A1). The wider queries 'bằng xe máy có mấy loại' (65 impr, pos 26) and 'bằng lái xe máy là hạng gì' (59 impr, pos 25) match BLG-00614 'Các hạng bằng lái xe máy tại Việt Nam' better. Consolidation, canonical or internal-link changes are outside what revise-published allows; owner decision."
+   }
+  ],
+  "unverified_left_unchanged": [
+   "'phần lớn xe máy cho thuê theo ngày ở Hà Nội nằm trong phạm vi bằng A1' is a market claim, softened from 'hầu như toàn bộ'. No data source was found.",
+   "Which Air Blade version (125 or 160) Nguyễn Tú rents: data/business-facts.json only says 'Honda Air Blade'.",
+   "'hạng bằng yêu cầu ghi trên bảng giá của từng dòng': not checked whether shops print the licence class on price lists.",
+   "Whether any instrument after VBHN 55/VBHN-VPQH (2026) changes Điều 57 or Điều 89 between March and November 2026: none found in searches. The latest amending law found is Luật 118/2025/QH15, which does not change these clauses."
+  ]
+ },
+ {
+  "id": "BLG-05259",
+  "url": "/an-toan-phap-ly/2026/10/15/giay-kham-suc-khoe-de-thi-hoac-doi-bang-lai-xe-may-co-gia-tri-bao-lau-va-kham-la/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "giấy khám sức khỏe lái xe a1 có thời hạn bao lâu",
+  "edits_proposed": 7,
+  "edits_approved": 6,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Title (chỉ đề xuất): \"Giấy khám sức khỏe lái xe A1 có thời hạn bao lâu? 12 tháng và khi nào khám lại\". Meta (chỉ đề xuất): \"Giấy khám sức khỏe lái xe có giá trị 12 tháng kể từ ngày ký kết luận theo Thông tư 36/2024/TT-BYT, áp dụng khi thi hoặc đổi bằng xe máy A1. Cách chọn ngày khám để hồ sơ không bị trả.\"",
+  "findings_not_fixed": [],
+  "unverified_left_unchanged": [
+   "Nguyên văn Điều 62 khoản 5 điểm b và khoản 6 trong bản hợp nhất 55/VBHN-VPQH sau Luật 118/2025/QH15: datafiles.chinhphu.vn và hethongphapluat.com bị chặn trong phiên; chỉ có tóm tắt từ kết quả tìm kiếm, không sửa.",
+   "Thông tư 108/2026/TT-BCA có miễn giấy khám khi đổi GPLX hạng A1 hay không: Điều 21 khoản 2 trên các bản đăng lại không nêu ngoại lệ, nhưng chưa đọc bản Công báo gốc và cách áp dụng thực tế. Không sửa.",
+   "Thông tư 108/2026/TT-BCA có thay thế Thông tư 12/2025/TT-BCA hay không (bài viết 'thay thông tư trước'): Công báo chỉ xác nhận ngày ban hành 29/06/2026 và hiệu lực 01/07/2026. Không sửa.",
+   "Thông tư 36/2024/TT-BYT còn hiệu lực đến 11/2026: vbpl.vn ghi 'Còn hiệu lực', ngày cập nhật 05/04/2026. Chưa thấy văn bản sửa đổi nào sau mốc đó."
+  ]
+ },
+ {
+  "id": "BLG-04344",
+  "url": "/an-toan-phap-ly/2026/10/15/can-thi-loan-thi-hay-mu-mau-co-thi-duoc-bang-lai-xe-may-khong-doc-dung-tieu-chua/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "mù màu có thi bằng lái xe máy được không",
+  "edits_proposed": 5,
+  "edits_approved": 2,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Chỉ là đề xuất, không sửa. Truy vấn mù màu chiếm phần lớn impression nên có thể đưa mù màu lên đầu và nêu đáp án ngay trong meta. Title gợi ý: \"Mù màu, cận thị có thi được bằng lái xe máy A1 không: tiêu chuẩn mắt theo Thông tư 36/2024\". Description gợi ý: \"Mù màu thi bằng lái xe máy được không: rối loạn 1 trong 3 màu đỏ, vàng, xanh lá cây là chưa đủ điều kiện; cận, loạn đạt nếu đeo kính nhìn xa hai mắt từ 4/10.\"",
+  "findings_not_fixed": [],
+  "unverified_left_unchanged": [
+   "Không xác minh được phương pháp đo sắc giác (ví dụ bảng Ishihara) mà các cơ sở khám ở Hà Nội đang dùng, nên không thêm vào bài.",
+   "Không xác minh được việc bác sĩ có chấp nhận kính lọc màu khi khám hay không; bài giữ câu khuyên hỏi trước bác sĩ.",
+   "Các mốc đường đi ở Hà Nội trong bài (biển chỉ dẫn lên cầu Vĩnh Tuy, làn rẽ trên Nguyễn Văn Cừ, đê Nguyễn Khoái) chỉ là ví dụ chung, không có tuyên bố cụ thể cần kiểm chứng; giữ nguyên."
+  ]
+ },
+ {
+  "id": "BLG-01173",
+  "url": "/du-lich/2026/10/04/den-cong-vien-thong-nhat-bang-xe-may-gui-xe-va-duong-di/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "gửi xe công viên thống nhất",
+  "edits_proposed": 11,
+  "edits_approved": 11,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Giữ nguyên title. Đề xuất sửa description vì đang ghi \"cổng Trần Phú\" sai: \"Đi công viên Thống Nhất bằng xe máy: đường từ Long Biên qua cầu Chương Dương, bãi gửi xe ở cổng Đại Cồ Việt, Nguyễn Đình Chiểu và giờ dạo yên tĩnh.\" Đề xuất đổi tag \"dạo công viên Ba Đình\" thành \"dạo công viên Hai Bà Trưng\" (công viên thuộc phường Hai Bà Trưng, không phải Ba Đình). Mọi thay đổi front matter cần chủ website quyết định.",
+  "findings_not_fixed": [],
+  "unverified_left_unchanged": [
+   "Chiều lưu thông hiện hành của phố Hàng Bài: không tìm được nguồn xác nhận; bản sửa thay bằng tuyến Bà Triệu đã kiểm chứng.",
+   "Đoạn nối từ chân cầu Chương Dương vào phố Bà Triệu (thường qua Trần Hưng Đạo): không nêu tên trong bản sửa vì chưa kiểm chứng.",
+   "Lịch phố đi bộ Trần Nhân Tông năm 2026 (giờ cụ thể) và việc phố đi bộ còn hoạt động trong thời gian thi công cổng 07–12/2026: nguồn tuoitre/baodautu bị chặn mạng, chỉ đọc được qua đoạn trích tìm kiếm.",
+   "Giờ mở cửa 6:00–22:00 và giá gửi xe 5.000đ/xe máy chỉ có từ nguồn thứ cấp (VinWonders, MIA): không đưa vào bài.",
+   "Câu gốc 'có người trông theo giờ, khung cuối tuần kín sớm nhưng xoay vòng nhanh' và 'bãi nhà dân... rẻ hơn': không kiểm chứng được, giữ nguyên.",
+   "Quyết định 3273/QĐ-UBND (vùng phát thải thấp phường Hoàn Kiếm từ 01/7/2026): chưa đọc được văn bản gốc để biết có cấm xe máy xăng quanh Hồ Gươm theo khung giờ hay không; liên quan đến gợi ý 'chiều chạy vòng Hồ Gươm'.",
+   "Lượt kiểm chứng web bị giới hạn: Parallel hết quota miễn phí, Firecrawl hết credit (làm mới sau khoảng 17 giờ), tuoitre.vn và baodautu.vn không được phép trong mạng của phiên."
+  ]
+ },
+ {
+  "id": "BLG-04725",
+  "url": "/du-lich/2026/10/16/cau-dong-tru-qua-song-duong-chay-xe-may-tu-long-bien-sang-dong-anh-va-luu-y-khi/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "đường đi cầu đông trù",
+  "edits_proposed": 2,
+  "edits_approved": 2,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "No change needed. The title and meta already match the intent. If the owner wants a stronger match for 'đường đi', a possible meta for a future review is: 'Đường đi cầu Đông Trù bằng xe máy: từ nút Cầu Chui theo Lý Sơn lên cầu, xuống cầu là đường Trường Sa sang Đông Anh; lưu ý sửa cầu vượt Cầu Chui và chỗ ngắm cầu vòm.' This is only a proposal; the front matter was not touched.",
+  "findings_not_fixed": [],
+  "unverified_left_unchanged": [
+   "Lane layout on the bridge deck (1 mixed motorbike lane on the Long Biên to Đông Anh side, all lanes mixed in the other direction): Vietnamese Wikipedia only, no primary source found, not added.",
+   "The full Điều 18 text of Luật 36/2024/QH15 was not checked against the primary document (thuvienphapluat.vn and bnews.vn are blocked in this session). The 'cấm dừng, đỗ trên cầu' rule was confirmed only through secondary sources, and Luật 118/2025/QH15 amended this law. The post's legal sentence was not changed.",
+   "Who designed the bridge (the post says Vietnamese engineers): only the 2014 ceremony statements support it; not changed."
+  ]
+ },
+ {
+  "id": "BLG-04559",
+  "url": "/an-toan-phap-ly/2026/10/16/vach-vang-lien-giua-duong-hai-chieu-xe-may-co-duoc-de-vach-de-vuot-re-trai-hay-q/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "vạch liền màu vàng có được rẽ trái không",
+  "edits_proposed": 4,
+  "edits_approved": 4,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Title (about 60 characters, question first): \"Vạch vàng liền có được rẽ trái, quay đầu không? Luật cho xe máy\". Meta: \"Vạch vàng liền (đơn hoặc kép) cấm đè vạch: không được rẽ trái, quay đầu hay vượt. Vạch vàng đứt thì được cắt qua khi an toàn. Giải thích theo QCVN 41:2024 và Luật 36/2024.\" This is a proposal only; the owner has to decide, because title and meta cannot be changed under the rules.",
+  "findings_not_fixed": [],
+  "unverified_left_unchanged": [
+   "The post's sentence 'Với xe thuê, thông báo vi phạm qua camera gửi tới người đứng tên xe là cửa hàng' says the shop is the registered owner of every rental bike, which data/business-facts.json does not record. I left it unchanged; the owner should confirm it.",
+   "I did not check whether the motorbike lanes in Hà Nội's road tunnels (for example hầm Kim Liên) allow motorbikes. The added phrase 'trong hầm đường bộ' only restates the law and claims nothing about any specific place."
+  ]
+ },
+ {
+  "id": "BLG-02181",
+  "url": "/xe-may/2026/10/11/cau-chi-xe-may-tim-o-dau-dau-hieu-chay-va-vi-sao-khong-thay-bang-day-dong/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "cầu chì xe máy (kèm biến thể: cầu chì xe máy/xe vision/xe wave nằm ở đâu)",
+  "edits_proposed": 2,
+  "edits_approved": 1,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Không bắt buộc. Nếu chủ website muốn tăng CTR: meta description hiện chưa nhắc dòng xe nào trong khi truy vấn hỏi theo Vision/Wave. Có thể thử: \"Cầu chì xe máy nằm ở đâu trên Vision, Wave? Thường ngay khu vực ắc quy, sau tấm ốp. Cách nhận dấu hiệu cháy và vì sao không thay bằng dây đồng.\" (cần giữ 140–160 ký tự và chứa primary_keyword). Title hiện đã tốt, giữ nguyên.",
+  "findings_not_fixed": [],
+  "unverified_left_unchanged": [
+   "Vị trí vật lý cụ thể của ốp bình điện trên Honda Vision (dưới sàn để chân hay chỗ khác): văn bản sách HDSD không nói rõ, chỉ có hình, nên không ghi vào bài",
+   "Vision đời 2018 dùng trình tự khác ('Tháo ốp trên phía trước', rồi 'Tháo nắp hộp cầu chì'), vì vậy edit chỉ nói chung là 'sau tấm ốp bình điện'; chưa kiểm vị trí trên Vision 2011–2013",
+   "Vị trí cầu chì trên SYM Attila Elizabeth: chưa có nguồn chính thức",
+   "Câu có sẵn 'Nhiều vụ cháy xe bắt đầu đúng từ kiểu chế này' là nhận định định tính, chưa có số liệu nguồn; không sửa"
+  ]
+ },
+ {
+  "id": "BLG-04570",
+  "url": "/an-toan-phap-ly/2026/10/15/bien-mui-ten-cheo-nen-xanh-o-dau-dai-phan-cach-va-dao-giao-thong-xe-may-phai-di/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "biển mũi tên chéo xuống",
+  "edits_proposed": 3,
+  "edits_approved": 3,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Title (chỉ đề xuất): \"Biển mũi tên chéo xuống nền xanh (R.302) ở đầu dải phân cách: xe máy phải đi vòng phía nào\". Meta (chỉ đề xuất): \"Biển tròn xanh mũi tên trắng chéo xuống là biển R.302 hướng phải đi vòng chướng ngại vật: mũi tên chỉ bên nào thì vòng bên đó. Phân biệt với biển vuông I.407a và tam giác W.246.\"",
+  "findings_not_fixed": [],
+  "unverified_left_unchanged": [
+   "Luật 36/2024/QH15: nguyên văn và số khoản của Điều 10 khoản 1 và Điều 11 khoản 2, khoản 5, cùng mô tả mục đích của cọc tiêu, tiêu phản quang, đinh phản quang. Không đọc được toàn văn trên nguồn chính thức vì thuvienphapluat.vn, hoatieu.vn và pbgdpl.cantho.gov.vn bị chặn trong phiên này; trang vanban.chinhphu.vn chỉ có metadata. Khoản 12 (ưu tiên biển tạm thời) được xác nhận qua nguồn thứ cấp TVPL. Không thấy dấu hiệu sai nên không sửa.",
+   "Cách gán chữ cái R.302a là vòng phải, R.302b là vòng trái chỉ thể hiện ở hình D.4 của QCVN, không có trong phần lời; câu 'các trang tổng hợp ghi ngược nhau' được giữ nguyên.",
+   "Hình dạng I.407a (vuông, nền xanh, mũi tên trắng hướng lên) lấy từ báo Lao Động; điều này phù hợp với Điều 11.4 QCVN 41:2024 ('Biển chỉ dẫn chủ yếu có hình chữ nhật hoặc hình vuông hoặc hình mũi tên, nền màu xanh') nhưng chưa đối chiếu được hình vẽ trong văn bản gốc.",
+   "Tình trạng dự thảo QCVN 41:2026/BXD: chưa tìm thấy thông tư chính thức ban hành tính đến 17/11/2026."
+  ]
+ },
+ {
+  "id": "BLG-00870",
+  "url": "/hoi-dap/2026/09/29/xe-50cc-co-can-bang-lai-khong/",
+  "status": "BLOCKED_HASH_DRIFT_PATCH_PREPARED",
+  "primary_query": "xe 50cc có cần bằng lái không",
+  "edits_proposed": 12,
+  "edits_approved": 12,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Title suggestion (not applied, front matter is locked): 'Xe 50cc có cần bằng lái không? Hạng GPLX, độ tuổi và mốc 50 cm³'. Meta suggestion: 'Xe gắn máy không quá 50 cm³ (vận tốc thiết kế đến 50 km/h) không cần bằng lái, người đủ 16 tuổi được lái; trên 50 cm³ là mô tô, cần GPLX A1 và đủ 18 tuổi. Giấy tờ cần mang khi thuê xe ở Hà Nội.' The current meta is accurate enough; this is only to target the query 'hạng gplx của xe 50cc' more directly.",
+  "findings_not_fixed": [
+   {
+    "type": "cannibalization",
+    "severity": "P2",
+    "evidence": "Several posts share the same intent: _posts/2026-09-27-co-can-bang-lai-khi-di-xe-50cc-khong.md, _posts/2026-09-20-xe-50cc-va-quy-dinh-bang-lai.md, _posts/2026-10-07-xe-50cc-thue-co-can-giay-phep-lai-khong.md (BLG-01548), _posts/2026-09-27-thue-xe-50cc-khi-chua-co-bang-luu-y-phap-ly.md and _posts/2026-09-29-chua-co-bang-lai-thue-xe-50cc-hay-cho-lay-bang-a1.md. Average position 21.9 with 0 clicks fits signal splitting. The owner should choose one main URL for 'xe 50cc có cần bằng lái không' and have the others link to it (that needs link/heading changes, which this tool does not allow)."
+   }
+  ],
+  "unverified_left_unchanged": [
+   "After the edits, quality/seo scores have not been measured (HASH_DRIFT, so plan was not run as instructed). Re-scoring must happen in the reattest or --domain-drift step.",
+   "The claim 'tem hợp chuẩn' on helmets (should probably be the hợp quy/CR mark under QCVN 2:2021/BKHCN) was not verified this session, so it was not changed.",
+   "The fine for riding without a licence after Nghị định 238/2026/NĐ-CP (data/business-facts.json notes it amends Article 18 of Nghị định 168/2024): the post only says 'khung hiện hành' without a figure, so it was not changed and no figure was added.",
+   "The shop's rental age and contract-holder conditions (whether it rents to anyone aged 16–18) are not in data/business-facts.json."
+  ]
+ },
+ {
+  "id": "BLG-01246",
+  "url": "/du-lich/2026/10/04/den-ga-ha-noi-bang-xe-may-gui-xe-va-duong-di/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "ga hà nội có chỗ gửi xe máy không",
+  "edits_proposed": 7,
+  "edits_approved": 6,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Title (đề xuất, chưa sửa): \"Ga Hà Nội có chỗ gửi xe máy không? Bãi gửi xe và đường đi\". Meta description (đề xuất): \"Ga Hà Nội có bãi gửi xe máy trong khuôn viên ga, lối vào cổng 120 Lê Duẩn. Đường đi theo từng hướng, khu A và khu B Trần Quý Cáp, lưu ý khi gửi xe qua đêm.\" Lý do: truy vấn chính hỏi dạng có/không, CTR 1,6% ở vị trí khoảng 8. Đổi title cần chủ site duyệt và đi đường riêng, vì title gắn với matrix.",
+  "findings_not_fixed": [
+   {
+    "type": "cannibalization",
+    "severity": "P3",
+    "evidence": "Trùng ý định với 2 bài. 'Gửi xe máy ở ga đường sắt Hà Nội: quy trình và lưu ý' (/ky-nang/2026/10/11/gui-xe-may-o-ga-duong-sat-ha-noi-quy-trinh-va-luu-y/) trùng phần gửi xe. 'Những lưu ý khi chạy xe quanh Ga Hà Nội' (/du-lich/2026/10/04/nhung-luu-y-khi-chay-xe-quanh-ga-ha-noi/) trùng H2 'Lưu ý khi chạy xe quanh khu ga'. Nên phân vai và liên kết chéo, nhưng công cụ revise không cho thêm liên kết."
+   }
+  ],
+  "unverified_left_unchanged": [
+   "Bãi trong khuôn viên ga có nhận gửi qua đêm hay theo ngày không, và giá bao nhiêu: chỉ có trang thương mại nêu (Vexere, vantaitrungtin, vetau247: 5.000đ/lượt, 10.000đ qua đêm, 15.000đ/ngày) và Tiền Phong 2013. Không có thông báo chính thức của ga, nên không đưa vào bài.",
+   "Hiện trạng tháng 11/2026 của tổ chức một chiều trên Lê Duẩn: đợt thí điểm Nguyễn Thái Học → Hai Bà Trưng chạy từ 21/4 đến 21/10/2025 (An Ninh Thủ Đô, Báo Đấu thầu). Wikipedia ghi đoạn Hai Bà Trưng–Nguyễn Thượng Hiền một chiều hướng Giải Phóng. Chưa xác nhận được bằng nguồn chính thức, nên câu 'Từ phía nam... nối vào Lê Duẩn' giữ nguyên.",
+   "Hướng từ phía tây 'đường Láng, ra Tôn Đức Thắng và nối lên Lê Duẩn': chưa đủ nguồn để viết lại chính xác.",
+   "Câu 'đoạn trước sân ga dễ ngập nhẹ': có bài VnExpress cũ và cảnh báo KTTV 30/5/2024 nhắc Lê Duẩn/ga Hà Nội là điểm ngập, nhưng chưa rõ ngày. Giữ nguyên, không sửa.",
+   "Trần Hưng Đạo là trục thẳng ra trước cổng ga nhưng đang bị hạn chế giao thông để xây ga ngầm metro tuyến 3. Chưa xác minh hiện trạng nên không thêm.",
+   "Không mở được tienphong.vn và news.laodong.vn từ phiên này vì host không phân giải. Firecrawl hết credit, Parallel bị giới hạn free-tier."
+  ]
+ },
+ {
+  "id": "BLG-04686",
+  "url": "/du-lich/2026/10/15/ngo-am-thuc-trung-yen-giua-dinh-liet-va-cho-hang-be-de-xe-o-dau-ngo-nao-va-an-gi/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "ngõ trung yên ở đâu",
+  "edits_proposed": 4,
+  "edits_approved": 3,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Title, about 60 characters: \"Ngõ Trung Yên ở đâu: lối vào từ Đinh Liệt, gửi xe máy và ăn gì\". Meta: \"Ngõ Trung Yên (phường Hoàn Kiếm, cũ là Hàng Bạc) nối phố Đinh Liệt với chợ Hàng Bè trên phố Gia Ngư: đỗ xe máy ngoài ngõ, đi bộ vào, ăn gọn và trả xe thuê trước 21:00.\" Proposal only; front matter not changed.",
+  "findings_not_fixed": [],
+  "unverified_left_unchanged": [
+   "Exactly where motorbike parking is allowed at the Gia Ngư or Cầu Gỗ end (24h only gives advice; no official source found)",
+   "Length of the lane: 200 m (Lao Động, MIA) or nearly 300 m (24h)",
+   "Whether the Hàng Bè market still trades on phố Gia Ngư in 2026 (An ninh Thủ đô says it was formally cleared in 2010; Hanoionline 2024 describes it still trading). The post keeps the safe wording 'khu chợ Hàng Bè cũ'",
+   "Current names, opening hours and prices of the eateries (the post deliberately leaves them out)"
+  ]
+ },
+ {
+  "id": "BLG-01999",
+  "url": "/xe-may/2026/10/11/xe-so-kho-tim-so-mo-khi-dung-thao-tac-nao-can-kiem-tra/",
+  "status": "READY_TO_APPLY",
+  "primary_query": "số mo là gì",
+  "edits_proposed": 12,
+  "edits_approved": 11,
+  "title_meta_proposal(CHƯA ÁP DỤNG — quy tắc cấm đổi title/meta)": "Chỉ là đề xuất, không sửa. Không nên đổi title sang \"số mo là gì\" vì sẽ cạnh tranh với BLG-05390. Title có thể giữ nguyên hoặc đổi thành: \"Xe số khó về số mo khi dừng: cách về mo trên Honda Wave và xe côn tay\". Meta đề xuất: \"Số mo là số N (số 0). Xe số khó về mo khi dừng: cách về mo trên Honda Wave (số mo dưới số 1) và xe côn tay, nguyên nhân thường gặp và lúc nào cần báo cửa hàng.\"",
+  "findings_not_fixed": [
+   {
+    "type": "cannibalization",
+    "severity": "P2",
+    "evidence": "BLG-05390 (/xe-may/2026/10/15/so-mo-la-gi-so-khong-so-n-hay-so-trung-gian-tren-xe-so-nam-o-dau-dung-luc-nao-va/) nhắm đúng truy vấn \"số mo là gì\". Trang này đang hiện cho cùng nhóm truy vấn mà không có click. Đề xuất chủ website: thêm liên kết từ bài này sang BLG-05390 trong mục \"Số mo là gì...\" (công cụ revise không cho thêm liên kết) và không tối ưu title bài này theo \"là gì\"."
+   }
+  ],
+  "unverified_left_unchanged": [
+   "Hai câu giữ nguyên chưa kiểm chứng bằng nguồn sơ cấp: về mo khi xe còn lăn nhẹ thì dễ hơn khi xe đứng im, và thói quen này \"giảm mòn hộp số về lâu về dài\".",
+   "Trên Wave, côn tự động bị chỉnh lệch có gây khó về mo theo kiểu \"căng/lỏng\" như mô tả hay không: sách HDSD chỉ liệt kê \"Hệ thống côn\" trong lịch bảo dưỡng, không mô tả triệu chứng. Câu đã được viết lại theo cách chung, không nêu chi tiết cơ cấu.",
+   "Thuật ngữ \"mỏ vịt\" trong cơ cấu sang số (gạch đầu dòng thứ hai mục nguyên nhân) chưa đối chiếu với tài liệu kỹ thuật; giữ nguyên.",
+   "Trên Wave khi xe đứng yên, ấn gót từ số N có quay vòng sang số 4 hay không: chưa xác minh, nên không thêm vào bài."
+  ]
+ }
+]

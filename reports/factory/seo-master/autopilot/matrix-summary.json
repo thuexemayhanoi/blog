@@ -1,0 +1,65 @@
+{
+ "counts": {
+  "classification": {
+   "BLOCKED": 104,
+   "CONTENT_UPGRADE": 7,
+   "DUPLICATE_REVIEW": 123,
+   "KEEP": 6568,
+   "LEGAL_REVIEW": 111,
+   "OPTIMIZE": 161,
+   "QA_PASS": 48
+  },
+  "execution_status": {
+   "BLOCKED": 104,
+   "MONITORING": 6568,
+   "QA_PASS": 48,
+   "TODO": 402
+  },
+  "findings": {
+   "CANNIBALIZATION_LEAD": 50,
+   "CANNIBALIZATION_NEAR_TITLE": 64,
+   "CANNIBALIZATION_SUPPORT": 59,
+   "FRESHNESS_REVIEW_HIGH": 454,
+   "FROZEN_HOMEPAGE": 1,
+   "HAS_LEGAL_NOTICE_LAYER": 24,
+   "HAS_PRICE_NOTICE_LAYER": 45,
+   "META_GT_170_CHARS": 132,
+   "NO_BODY_INTERNAL_LINK": 466,
+   "NO_CONTENT_IMAGE": 6319,
+   "THIN_LT_800_WORDS": 3,
+   "TITLE_GT_70_CHARS": 3843
+  },
+  "issues": {
+   "CANNIBALIZATION_NEAR_TITLE": 58,
+   "CANNIBALIZATION_SUPPORT": 55,
+   "CONTENT_FIX_BLOCKED": 97,
+   "EVIDENCE_HASH_DRIFT_EDIT_LOCKED": 7,
+   "GSC_IMPRESSIONS_POS_GT_20": 8,
+   "GSC_QUERY_OVERLAP": 39,
+   "GSC_STRIKING_DISTANCE_5_20": 179,
+   "LEGAL_CLAIMS_UNVERIFIED": 112,
+   "OLD_URL_404_STILL_IN_GOOGLE": 756
+  },
+  "page_type": {
+   "Home": 1,
+   "Hub": 56,
+   "Listing": 721,
+   "Page": 14,
+   "Pillar": 7,
+   "Post": 6319,
+   "RedirectStub": 4
+  },
+  "priority": {
+   "P1": 214,
+   "P2": 830,
+   "P3": 617,
+   "P4": 5461
+  }
+ },
+ "gsc_window": "GSC 2026-10-08..2026-11-15 (lấy 2026-11-17)",
+ "posts": 6319,
+ "schema": "seo-master-matrix-summary/1",
+ "urls": 7122,
+ "urls_no_gsc_data": 3848,
+ "urls_with_gsc_rows": 3274
+}

@@ -15,7 +15,7 @@ writer: W3
 writer_session: s-claude-w3
 ---
 
-Gặp biển nguy hiểm khác chấm than hay biển "Đi chậm" mà nhìn quanh không thấy gì lạ, nhiều khách thuê xe chạy ra Gia Lâm, Đông Anh hay men đê sông Hồng gọi về tiệm hỏi phải làm gì. Bài này nói về đúng tình huống đó: biển báo có nguy hiểm, nhưng không nói rõ nguy hiểm gì.
+Gặp biển nguy hiểm khác chấm than hay biển "Đi chậm" mà nhìn quanh không thấy gì lạ, nhiều khách thuê xe chạy ra Gia Lâm, Đông Anh hay men đê sông Hồng gọi về tiệm hỏi phải làm gì. Biển tam giác vẽ dấu chấm than là biển W.233 "Nguy hiểm khác" trong QCVN 41:2024/BGTVT, còn biển "Đi chậm" là W.245. Bài này nói về đúng tình huống đó: biển báo có nguy hiểm, nhưng không nói rõ nguy hiểm gì.
 
 ## Hai biển này nằm ở nhóm nào
 
@@ -27,11 +27,11 @@ Chi tiết hình dạng, ý nghĩa và vị trí đặt từng biển nằm tron
 
 ### Biển tam giác dấu chấm than
 
-Theo các bản tóm tắt quy chuẩn (chưa đối chiếu Công báo), biển "Nguy hiểm khác" dùng khi mối nguy không có biển cảnh báo riêng nào diễn tả được. Vì thế hình vẽ chỉ là một dấu chấm than.
+Theo mục C.33 Phụ lục C của quy chuẩn, biển W.233 được đặt khi trên đường có nguy hiểm mà không vận dụng được các biển từ W.201a đến W.232, tức là khi mối nguy không có biển cảnh báo riêng nào diễn tả được. Vì thế hình vẽ chỉ là một dấu chấm than.
 
 ### Biển báo đi chậm
 
-Biển mang dòng chữ "Đi chậm" trong khung tam giác cảnh báo, nhắc người lái giảm tốc trước một đoạn cần đi chậm. Nó cũng không nói lý do: có thể là khúc cua khuất, cổng trường, chợ ven đường hay lối xe công trình. Tôi không ghi số hiệu biển vì chưa đủ nguồn xác nhận mã theo bản 2024; nhận biển bằng hình và chữ là đủ.
+Biển mang dòng chữ "Đi chậm" trong khung tam giác cảnh báo, nhắc người lái giảm tốc trước một đoạn cần đi chậm. Nó cũng không nói lý do: có thể là khúc cua khuất, cổng trường, chợ ven đường hay lối xe công trình. Quy chuẩn gọi đây là biển W.245 "Đi chậm"; bản W.245b kèm chỉ dẫn tiếng Anh, bắt buộc dùng trên tuyến đường đối ngoại.
 
 ## Thấy biển nguy hiểm khác chấm than: làm theo thứ tự
 
@@ -84,5 +84,5 @@ Nếu xe thuê có trục trặc khi đang ở đoạn đường lạ, hãy dắ
 ## Nguồn tham khảo
 
 - Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15, Điều 11 và Điều 12: [văn bản trên Cổng Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=211194) và [văn bản hợp nhất](https://vanban.chinhphu.vn/?docid=217295&pageid=27160).
-- QCVN 41:2024/BGTVT về báo hiệu đường bộ, ban hành kèm Thông tư 51/2024/TT-BGTVT: [toàn văn trên LuatVietnam](https://luatvietnam.vn/giao-thong/quy-chuan-qcvn-412024-bgtvt-bao-hieu-duong-bo-376856-d3.html). Ý nghĩa chi tiết từng biển trong bài được tóm tắt qua nguồn thứ cấp, chưa đối chiếu Công báo.
+- QCVN 41:2024/BGTVT về báo hiệu đường bộ, ban hành kèm Thông tư 51/2024/TT-BGTVT: [toàn văn trên LuatVietnam](https://luatvietnam.vn/giao-thong/quy-chuan-qcvn-412024-bgtvt-bao-hieu-duong-bo-376856-d3.html). Ý nghĩa biển W.233 và W.245 đã đối chiếu mục C.33, C.45 qua bản PDF quy chuẩn trên cổng thông tin Chính phủ, chưa đối chiếu Công báo.
 - Quy chuẩn và mức xử phạt có thể thay đổi; biển ngoài thực tế và văn bản hiện hành là căn cứ.

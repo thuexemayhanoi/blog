@@ -21,7 +21,7 @@ Mỗi tòa nhà có bố trí hầm riêng: có nơi xe máy và ô tô dùng ch
 
 ## Kỹ thuật lên xuống dốc hầm an toàn
 
-Xuống dốc hầm: giảm tốc trước bằng phanh sau, giữ ga nhẹ và đều, không để xe tự lao bằng quán tính. Với xe tay ga có trọng lượng lớn, phanh sau kết hợp phanh trước nhè nhẹ cho tốc độ giảm dần đều là cách chuẩn; ghì một cú phanh trước mạnh giữa dốc là cách ngã kinh điển của người thiếu kinh nghiệm. Lên dốc ra về: giữ ga đều và đủ từ chân dốc, đừng để xe h
+Xuống dốc hầm: giảm tốc trước bằng phanh sau, giữ ga nhẹ và đều, không để xe tự lao bằng quán tính. Với xe tay ga có trọng lượng lớn, [phanh sau kết hợp phanh trước](/ky-nang/2026/09/29/phanh-truoc-phanh-sau-dung-the-nao/) nhè nhẹ cho tốc độ giảm dần đều là cách chuẩn; ghì một cú phanh trước mạnh giữa dốc là cách ngã kinh điển của người thiếu kinh nghiệm. Lên dốc ra về: giữ ga đều và đủ từ chân dốc, đừng để xe h
 ụt ga giữa dốc rồi hoảng loạn vặn ga mạnh; với xe tải đồ nặng hoặc chở người ngồi sau, cần khoảng ga nhỉnh hơn nhưng vẫn đều tay.
 
 Trên dốc có xe phía trước đang chờ máy soát vé hoặc chờ xe khác ra, hãy giữ khoảng cách dọc lớn: nếu xe trước lùi lại vì hụt ga hoặc nhường chỗ, bạn cần đủ khoảng phanh trên dốc. Đây là va chạm thường thấy nhất ở cửa hầm giờ cao điểm.
@@ -30,7 +30,7 @@ Trên dốc có xe phía trước đang chờ máy soát vé hoặc chờ xe kh�
 
 Hầu hết các hầm tòa nhà có ít nhất một cua mà bạn không nhìn thấy đường phía sau cua. Cách duy nhất an toàn là đi chậm tới mức có thể dừng ngay trong nửa chiều dài xe khi vòng qua cua gặp người hoặc xe ngược chiều. Bên trong hầm, âm thanh vang: còi dài, tiếng rú ga đều gây khó chịu và mất tập trung cho cả khu; các tiếng báo hiệu ngắn và điềm tĩnh là chuẩn mực của người đi hầm nhiều.
 
-Tại máy soát vé, chuẩn bị sẵn thẻ hoặc mã quẹt trước khi tới lượt: việc lục ví ngay tại khung chắn giữa dòng xe phía sau là cách tạo tắc tại chỗ và dễ làm bạn lúng túng trên dốc. Nếu máy trục trặc hoặc thẻ không nhận, bấm chuông hỗ trợ và đợi nhân viên, không tự lách qua khung chắn.
+Tại máy soát vé, chuẩn bị sẵn thẻ hoặc mã quẹt trước khi tới lượt: việc lục ví ngay tại khung chắn giữa dòng xe phía sau là cách tạo tắc tại chỗ và dễ làm bạn lúng túng trên dốc. Nếu [máy trục trặc hoặc thẻ không nhận](/ky-nang/2026/10/05/quet-the-gui-xe-tu-dong-loi-khi-ra-bai-lam-sao/), bấm chuông hỗ trợ và đợi nhân viên, không tự lách qua khung chắn.
 
 ## Tìm ô đỗ và đỗ xe trong hầm
 

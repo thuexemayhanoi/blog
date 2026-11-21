@@ -17,7 +17,7 @@ writer_session: s-claude-w3
 
 Giấy khám sức khỏe lái xe có thời hạn, nên hồ sơ thi hoặc đổi bằng lái xe máy có thể bị trả lại nếu tờ giấy đã quá hạn. Người ở Hà Nội thường hỏi hai điều: giấy khám còn giá trị bao lâu, và khi nào phải đi khám lại. Bài đọc điều luật, nêu số tháng theo tóm tắt và nói thẳng chỗ chưa có câu trả lời chung.
 
-Điều luật dưới đây trích từ văn bản hợp nhất Luật số 36/2024/QH15. Văn bản khác chỉ theo tóm tắt, chưa đối chiếu Công báo. Đây là thông tin chung, không thay tư vấn pháp lý riêng cho từng trường hợp, và quy định có thể thay đổi.
+Điều luật dưới đây trích từ văn bản hợp nhất Luật số 36/2024/QH15. Trừ mốc 12 tháng đã đối chiếu toàn văn, văn bản khác chỉ theo tóm tắt, chưa đối chiếu Công báo. Đây là thông tin chung, không thay tư vấn pháp lý riêng cho từng trường hợp, và quy định có thể thay đổi.
 
 ## Giấy khám sức khỏe lái xe có thời hạn bao lâu theo tóm tắt Thông tư 36/2024/TT-BYT
 
@@ -25,7 +25,7 @@ Luật không ghi số tháng. Điều 59 khoản 2 chỉ giao việc cho Bộ Y
 
 > "Bộ trưởng Bộ Y tế quy định về tiêu chuẩn sức khỏe, việc khám sức khỏe đối với người lái xe, người điều khiển xe máy chuyên dùng"
 
-Con số nằm ở thông tư. Theo tóm tắt từ nhiều trang pháp luật và báo chí, Thông tư 36/2024/TT-BYT có hiệu lực từ 01/01/2025, và giấy khám theo mẫu của thông tư này có giá trị 12 tháng kể từ ngày ký kết luận. Cũng theo tóm tắt, văn bản trước đó chỉ cho 6 tháng. Giấy cấp trước 01/01/2025 được dùng đến hết thời hạn ghi trên giấy, nên hãy đọc ngày in trên chính tờ giấy của bạn. Bài chưa thấy thông tư nào sửa đổi, nhưng quy định có thể thay đổi nên cần hỏi lại nơi nhận hồ sơ.
+Con số nằm ở thông tư. Theo toàn văn đã đối chiếu và nhiều trang pháp luật, Thông tư 36/2024/TT-BYT có hiệu lực từ 01/01/2025, và giấy khám theo mẫu của thông tư này có giá trị 12 tháng kể từ ngày ký kết luận. Theo các bản tóm tắt, văn bản trước đó chỉ cho 6 tháng. Giấy cấp trước 01/01/2025 được dùng đến hết thời hạn ghi trên giấy, nên hãy đọc ngày in trên chính tờ giấy của bạn. Bài chưa thấy thông tư nào sửa đổi, nhưng quy định có thể thay đổi nên cần hỏi lại nơi nhận hồ sơ.
 
 ## Bằng A1 không thời hạn nhưng giấy khám vẫn có thời hạn
 
@@ -37,7 +37,7 @@ Con số nằm ở thông tư. Theo tóm tắt từ nhiều trang pháp luật v
 
 - Hỏi cơ sở đào tạo hoặc nơi nhận hồ sơ mốc nào được tính, trước khi đi khám.
 
-- Theo tóm tắt, thời hạn đếm từ ngày ký kết luận, nên khám quá sớm sẽ mất bớt thời gian dùng được.
+- Thời hạn đếm từ ngày ký kết luận, nên khám quá sớm sẽ mất bớt thời gian dùng được.
 
 ## Đổi hoặc cấp lại bằng: giấy khám có luôn cần không
 
@@ -73,10 +73,10 @@ Tiệm Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đ�
 
 ## Tóm lại và nguồn tham khảo
 
-Số tháng nằm ở thông tư, theo tóm tắt là 12 tháng kể từ ngày ký kết luận. Mốc tính hạn khi nộp hồ sơ và việc miễn giấy khám khi đổi bằng cần xác nhận tại cơ quan cấp giấy phép lái xe. Về việc có phải mang giấy khám khi đi đường, xem bài [lái xe máy có phải mang giấy khám sức khỏe không](/an-toan-phap-ly/2026/10/15/lai-xe-may-co-phai-mang-giay-kham-suc-khoe-khong-phan-biet-dieu-kien-suc-khoe-vo/). Các bài khác nằm trong mục [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/), mục [giấy tờ xe và cá nhân](/an-toan-phap-ly/giay-to/) và chuyên mục [an toàn và pháp lý](/an-toan-phap-ly/).
+Số tháng nằm ở thông tư, cụ thể là 12 tháng kể từ ngày ký kết luận. Mốc tính hạn khi nộp hồ sơ và việc miễn giấy khám khi đổi bằng cần xác nhận tại cơ quan cấp giấy phép lái xe. Về việc có phải mang giấy khám khi đi đường, xem bài [lái xe máy có phải mang giấy khám sức khỏe không](/an-toan-phap-ly/2026/10/15/lai-xe-may-co-phai-mang-giay-kham-suc-khoe-khong-phan-biet-dieu-kien-suc-khoe-vo/). Các bài khác nằm trong mục [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/), mục [giấy tờ xe và cá nhân](/an-toan-phap-ly/giay-to/) và chuyên mục [an toàn và pháp lý](/an-toan-phap-ly/).
 
 - Luật số 36/2024/QH15: [văn bản Chính phủ](https://vanban.chinhphu.vn/?pageid=27160&docid=211194), [bản hợp nhất 55/VBHN-VPQH](https://vanban.chinhphu.vn/?docid=217295&pageid=27160), [cổng tra cứu](https://vanban.chinhphu.vn/he-thong-van-ban?classid=1&mode=1).
-- Thông tư 36/2024/TT-BYT, chỉ theo tóm tắt: [LuatVietnam](https://luatvietnam.vn/y-te/thong-tu-36-2024-tt-byt-tieu-chuan-suc-khoe-doi-voi-nguoi-lai-xe-nguoi-dieu-khien-xe-may-chuyen-dung-373779-d1.html), [SGGP](https://www.sggp.org.vn/nhieu-quy-dinh-moi-ve-kham-suc-khoe-khi-cap-doi-giay-phep-lai-xe-post768772.html).
+- Thông tư 36/2024/TT-BYT, bản tóm tắt: [LuatVietnam](https://luatvietnam.vn/y-te/thong-tu-36-2024-tt-byt-tieu-chuan-suc-khoe-doi-voi-nguoi-lai-xe-nguoi-dieu-khien-xe-may-chuyen-dung-373779-d1.html), [SGGP](https://www.sggp.org.vn/nhieu-quy-dinh-moi-ve-kham-suc-khoe-khi-cap-doi-giay-phep-lai-xe-post768772.html).
 - Thông tư của Bộ Công an về giấy phép lái xe, chỉ theo tóm tắt: [Thư viện Pháp luật](https://thuvienphapluat.vn/van-ban/Giao-thong-Van-tai/Thong-tu-108-2026-TT-BCA-sat-hach-cap-giay-phep-lai-xe-704772.aspx).
 
 Đây là thông tin tham khảo, quy định có thể thay đổi, không thay tư vấn pháp lý riêng; hãy xác nhận tại cơ quan cấp giấy phép lái xe.

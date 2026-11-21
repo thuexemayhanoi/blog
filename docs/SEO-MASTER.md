@@ -165,3 +165,25 @@ Quy tắc mới rút ra từ đợt 4:
 - `<title>` = `page.seo_title | default: page.title` + " | " + `business.brand`; không dùng lại hậu tố " - Thuê Xe Máy Hà Nội Nguyễn Tú" (head term của website chính).
 - Không viết chuỗi thẻ Liquid (dấu ngoặc nhọn + %) trong comment của layout — Liquid 4 vẫn phân tích và build lỗi.
 - Không ghi URL bài vào `_data/` mới (khóa theo `article_id`), để di trú slug không làm lệch dữ liệu.
+
+## Đợt 5 (17/11/2026) — SEO Autopilot theo lô, có dữ liệu Search Console thật
+
+Điểm vào duy nhất cho phiên mới: `reports/factory/seo-master/SEO_CHECKPOINT.json` (đọc trước), rồi `SEO_PROGRESS.md`,
+`SEO_ISSUES.csv`, `autopilot/batch-log.csv`. Mục `checkpoint.json` (đợt 1–4) giữ làm lịch sử, không làm lại hạng mục DONE.
+
+| Tệp | Nội dung | Sinh bởi |
+|---|---|---|
+| `gsc/*.csv`, `gsc/gsc-snapshot.json` | bản chụp Search Console có ngày (trang, truy vấn, trang×truy vấn, 7 ngày so tuần trước, theo ngày × nhóm URL di trú đ→d) | `scripts/seo/import-gsc-snapshot.py --raw-dir <JSON thô> --fetched-on YYYY-MM-DD` |
+| `MASTER_SEO_MATRIX.csv` (+ `.xlsx`) | một hàng/URL, 32 cột của lệnh Autopilot + cột bổ sung (phân loại, evidence, số liệu URL cũ, truy vấn chính, truy vấn trùng bài khác, trạng thái index mẫu, lô) | `scripts/seo/build-seo-master-matrix.py --site <_site> [--xlsx]` |
+| `autopilot/matrix-summary.json` | số đếm theo phân loại/ưu tiên/vấn đề | cùng script |
+| `autopilot/index-inspection.csv` | mẫu URL Inspection (trạng thái index, lần thu thập cuối) | chép từ URL Inspection API, có ngày |
+| `autopilot/batch-log.csv` | kết quả từng bài trong từng lô: verdict, quyết định `plan`, QA, commit | tay theo kết quả công cụ |
+| `SEO_ISSUES.csv`, `SEO_PROGRESS.md`, `SEO_CHANGELOG.md`, `SEO_FINAL_REPORT.md` | vấn đề cấp site + cổng chủ, tiến độ, nhật ký, báo cáo | tay, đối chiếu dữ liệu |
+
+Quy tắc của đợt 5:
+- Số liệu GSC chỉ lấy từ connector; URL không có hàng trong kỳ ghi `NO_GSC_DATA` (không suy ra 0 click hay thứ hạng). Số liệu của URL cũ đ→d
+  ghi ở cột `gsc_old_*`, không cộng lẫn vào URL mới.
+- Phân loại (`classification`) là gợi ý có quy tắc ghi trong docstring của script; `KEEP` nghĩa là chưa có tín hiệu cần sửa, không phải “bài tốt”.
+- Mỗi bài trong lô: đọc toàn bài → kiểm chứng nguồn chính thức → sửa tối thiểu (chỉ thân bài; title/description/heading/liên kết/URL giữ nguyên)
+  → phản biện độc lập → `revise-published.py plan/apply/verify` → `build-post-modified.py` → build + `check-regressions.py`.
+  Bài evidence lệch hash: chỉ chuẩn bị bản vá, trạng thái BLOCKED chờ chủ duyệt reattest.

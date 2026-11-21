@@ -27,7 +27,7 @@ Tình trạng xe cụ thể từng thời điểm, bạn nên liên hệ để x
 
 ## Lộ trình và thời gian
 
-Từ Hà Nội, bạn đi theo trục hướng bắc, qua vùng Vĩnh Phúc, tới khu vực chân núi rồi bắt đầu đoạn lên. Chặng trong thành phố và ra ngoại ô nên đi sớm. Đến thị trấn dưới chân núi, dừng ăn và nghỉ trước khi lên, vì đoạn dốc không nên đi lúc bụng đói hay sau khi mới ngồi xe liên tục nhiều tiếng. Tổng thời gian đi từ trung tâm Hà Nội lên tới nơi thường quanh ba tiếng với người đi vừa sức và dừng nghỉ, nhanh hơn nếu đường thoáng, chậm hơn vào cuối tuần khi nhiều xe cùng lên.
+Từ Hà Nội, bạn [đi theo trục hướng bắc](/cung-duong/2026/10/10/ha-noi-di-tam-dao-bang-xe-may-cung-duong-va-thoi-gian/), qua vùng Vĩnh Phúc, tới khu vực chân núi rồi bắt đầu đoạn lên. Chặng trong thành phố và ra ngoại ô nên đi sớm. Đến thị trấn dưới chân núi, dừng ăn và nghỉ trước khi lên, vì đoạn dốc không nên đi lúc bụng đói hay sau khi mới ngồi xe liên tục nhiều tiếng. Tổng thời gian đi từ trung tâm Hà Nội lên tới nơi thường quanh ba tiếng với người đi vừa sức và dừng nghỉ, nhanh hơn nếu đường thoáng, chậm hơn vào cuối tuần khi nhiều xe cùng lên.
 
 Một quy luật hay gặp: sáng sớm trời trên núi trong và mây đẹp, trưa chiều mây mù dày lên và có thể mưa nhỏ. Nếu bạn đi trong ngày, dậy thật sớm để có buổi sáng trên đỉnh. Nếu nghỉ lại một đêm, bạn được cả buổi chiều mát và sáng sớm sương, đổi lại phải mang đồ ngủ và book trước chỗ nghỉ mùa cao điểm.
 
@@ -47,7 +47,7 @@ Nếu săn mây, khung giờ đẹp thường là sáng sớm sau đêm mưa, nh
 
 ## Xuống dốc an toàn và về Hà Nội
 
-Xuống dốc Tam Đảo là lúc sa sút kỹ năng dễ xảy ra tai nạn nhất. Ba quy tắc: tốc độ thấp hơn bạn nghĩ cần, phanh nhịp nhàng xen kẽ trước sau, và giữ khoảng cách lớn với xe phía trước vì người khác cũng đang vật lộn với dốc như bạn. Nếu thấy mùi khét từ phanh hoặc tay phanh mềm, dừng ở lối tránh cho xe qua lại, để xe nguội vài phút. Đừng bao giờ xuống dốc bằng cách tắt máy để tiết kiệm xăng, mất phanh động cơ trên dốc là lựa chọn nguy hiểm.
+Xuống dốc Tam Đảo là lúc sa sút kỹ năng dễ xảy ra tai nạn nhất. Ba quy tắc: tốc độ thấp hơn bạn nghĩ cần, [phanh nhịp nhàng xen kẽ trước sau](/ky-nang/2026/10/10/xuong-doc-dai-bang-xe-may-ve-so-som-va-phanh-nhip/), và giữ khoảng cách lớn với xe phía trước vì người khác cũng đang vật lộn với dốc như bạn. Nếu thấy mùi khét từ phanh hoặc tay phanh mềm, dừng ở lối tránh cho xe qua lại, để xe nguội vài phút. Đừng bao giờ xuống dốc bằng cách tắt máy để tiết kiệm xăng, mất phanh động cơ trên dốc là lựa chọn nguy hiểm.
 
 Chặng quốc lộ về nên dừng nghỉ một lần. Về tới nội thành lúc tối, đèn sớm và cẩn thận đoạn thiếu đèn ven đô. Trả xe trong ngày: cửa hàng đóng cửa hai mươi mốt giờ, tính khe hở, mùa đông trời tối sớm nên thời gian về sát hơn bạn tưởng.
 
@@ -59,7 +59,7 @@ Mỗi mùa đổi tính chất của cung dốc. Mùa xuân mát và hay có sư
 
 Nghỉ lại khiến chuyến đi dễ chịu hẳn: bạn lên chiều thứ bảy khi đường còn thoáng, ăn tối giữa sương mù, sáng chủ nhật dậy sớm chụp mây rồi về trước dòng xe trưa. Đổi lại, chỗ nghỉ mùa cao điểm cuối tuần nên đặt trước, và đồ mang theo thêm bộ đổi và đồ vệ sinh cá nhân. Xe để qua đêm ở nơi nghỉ nên chọn chỗ có mái che hoặc trong khuôn viên được trông, trời núi ẩm dễ đọng nước lên yên và gương, buổi sáng lên xe nhớ lau khô tay lái và kiểm tra phanh trước khi xuất phát.
 
-Một lưu ý riêng cho xe máy điện: đoạn dốc dài hàng chục cây số tiêu hao pin nhanh hơn đường bằng nhiều, và trạm sạc trên núi không nhiều như trong thành phố. Nếu định đi Tam Đảo bằng xe điện, hãy hỏi kỹ cửa hàng về tầm đi thực tế của xe trên dốc và phương án sạc, tình trạng xe cụ thể bạn nên liên hệ để xác nhận trước khi quyết định.
+Một lưu ý riêng cho xe máy điện: đoạn dốc dài hàng chục cây số [tiêu hao pin nhanh hơn đường bằng](/xe-may/2026/10/10/xe-may-dien-leo-doc-dai-giu-pin-va-phanh-the-nao/) nhiều, và trạm sạc trên núi không nhiều như trong thành phố. Nếu định đi Tam Đảo bằng xe điện, hãy hỏi kỹ cửa hàng về tầm đi thực tế của xe trên dốc và phương án sạc, tình trạng xe cụ thể bạn nên liên hệ để xác nhận trước khi quyết định.
 
 ## Tóm lại
 

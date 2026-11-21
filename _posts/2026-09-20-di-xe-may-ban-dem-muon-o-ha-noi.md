@@ -15,13 +15,13 @@ Hà Nội lúc chín, mười giờ đêm là một thành phố khác: đườn
 
 ## Trạng thái của bạn là yếu tố số một
 
-Trước mọi chuyện về xe và đường, câu hỏi quan trọng nhất của chuyến đi đêm muộn là bạn có đủ tỉnh táo không. Buổi liên hoan kéo dài, bia rượu dù chỉ một chén, cơn buồn ngủ sau ngày dài: mỗi thứ đều làm phản ứng chậm đi một cách nguy hiểm, và vào ban đêm, phần đường vắng khiến tốc độ trung bình tăng lên đúng lúc phản ứng giảm xuống. Nếu cảm giác không thật sự tỉnh, chọn phương án khác cho chặng về: taxi, xe công nghệ, hoặc nhờ người tỉnh táo hơn.
+Trước mọi chuyện về xe và đường, câu hỏi quan trọng nhất của chuyến đi đêm muộn là bạn có đủ tỉnh táo không. [Buổi liên hoan kéo dài](/kinh%20nghi%E1%BB%87m/2026/09/19/di-dam-cuoc-tiec-tung-va-ruou-bia/), bia rượu dù chỉ một chén, cơn buồn ngủ sau ngày dài: mỗi thứ đều làm phản ứng chậm đi một cách nguy hiểm, và vào ban đêm, phần đường vắng khiến tốc độ trung bình tăng lên đúng lúc phản ứng giảm xuống. Nếu cảm giác không thật sự tỉnh, chọn phương án khác cho chặng về: taxi, xe công nghệ, hoặc nhờ người tỉnh táo hơn.
 
 Với rượu bia, không có mức nào gọi là an toàn để cầm lái. Người ta thường tự nhủ rằng một hai chén nhẹ vẫn đi được, nhưng sự thật là thao tác với xe máy đòi hỏi sự chính xác cao, và rượu bia làm giảm chính xác đó trước khi bạn kịp cảm nhận. Chuyến về muộn an toàn bắt đầu từ quyết định không lên xe khi đã uống, và kết thúc bằng việc quay lại lấy xe vào sáng hôm sau trong giờ mở cửa của cửa hàng.
 
 ## Đèn xe và cách nhìn đêm
 
-Đèn pha của xe máy thuê phần lớn đủ cho phố nội thành có đèn đường, nhưng có ba điểm cần chủ động. Thứ nhất, chỉnh đèn không chiếu thẳng vào mặt xe ngược chiều, vì đèn cao làm lóa người đối diện trong tích tắc mà bạn phải gánh hậu quả. Thứ hai, nếu đèn vàng, ngợp hoặc le lói, hãy đề nghị cửa hàng kiểm tra sớm, vì đèn yếu là một trong những lý do hay bị bỏ qua nhất khi nhận xe. Thứ ba, giảm tốc ở các đoạn không đèn đường và đường trúng cây che khuất, nơi tầm nhìn co lại còn vài mét.
+Đèn pha của xe máy thuê phần lớn đủ cho phố nội thành có đèn đường, nhưng có ba điểm cần chủ động. Thứ nhất, chỉnh đèn không chiếu thẳng vào mặt xe ngược chiều, vì [đèn cao làm lóa người đối diện](/chia%20s%E1%BA%BB/2026/09/18/den-xe-va-tam-nhin-khi-di-xe-may-ban-dem/) trong tích tắc mà bạn phải gánh hậu quả. Thứ hai, nếu đèn vàng, ngợp hoặc le lói, hãy đề nghị cửa hàng kiểm tra sớm, vì đèn yếu là một trong những lý do hay bị bỏ qua nhất khi nhận xe. Thứ ba, giảm tốc ở các đoạn không đèn đường và đường trúng cây che khuất, nơi tầm nhìn co lại còn vài mét.
 
 Cách nhìn đêm cũng có kỹ thuật riêng: đừng nhìn vào nguồn sáng mà nhìn vào phần đường tối phía sau nguồn sáng đó. Người đi bộ mặc quần áo màu tối đứng ngay sau cột đèn là tình huống kinh điển gây tai nạn đêm. Quét mắt liên tục giữa vạch đường bên phải, các điểm tối phía trước và gương chiếu hậu, thay vì dán mắt vào một điểm sáng duy nhất.
 
@@ -39,7 +39,7 @@ Với các chuyến về cùng nhóm bạn bằng nhiều xe, thống nhất tr�
 
 ## Chở đồ và đỗ xe lúc đêm muộn
 
-Đêm muộn, cốp xe và đồ đạc cần chú ý hơn: đỗ xe ở nơi có đèn, gần camera nếu bãi gửi có, và tránh các góc khuất hoàn toàn. Với các khu phố cổ, nhiều bãi gửi giảm giờ hoặc đóng cửa đêm, nên kiểm tra trước bãi gần nơi đến còn mở không, thay vì dựa vào kinh nghiệm ban ngày. Gửi xe đêm ở lề đường không người trông thì nên tránh với xe thuê, vì rủi ro mất xe là khoản thiệt hại lớn nhất của cả kỳ.
+Đêm muộn, cốp xe và đồ đạc cần chú ý hơn: đỗ xe ở nơi có đèn, gần camera nếu bãi gửi có, và tránh các góc khuất hoàn toàn. Với các khu phố cổ, nhiều bãi gửi giảm giờ hoặc đóng cửa đêm, nên kiểm tra trước bãi gần nơi đến còn mở không, thay vì dựa vào kinh nghiệm ban ngày. [Gửi xe đêm](/kinh%20nghi%E1%BB%87m/2026/09/19/gui-xe-ban-dem-va-an-toan-xe-thue/) ở lề đường không người trông thì nên tránh với xe thuê, vì rủi ro mất xe là khoản thiệt hại lớn nhất của cả kỳ.
 
 Nếu chở túi, balo về đêm, mang trước ngực thay vì để ở bậu sau, vừa an toàn trộm cắp vừa giữ thăng bằng. Điện thoại để trong túi kín, vì điện thoại trên giá giữ ở đèn đỏ đêm muộn là mục tiêu quen thuộc của trộm cướp đường phố.
 

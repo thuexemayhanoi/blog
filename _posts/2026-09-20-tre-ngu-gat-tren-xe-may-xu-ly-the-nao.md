@@ -27,7 +27,7 @@ Khi xác định trẻ đã ngủ hoặc gần ngủ, hãy chọn điểm dừng
 
 ## Chở trẻ phía trước và các tư thế an toàn hơn
 
-Với trẻ còn nhỏ, tư thế ngồi phía trước, giữa hai tay người lái, an toàn hơn hẳn phía sau khi trẻ có nguy cơ ngủ: người lái cảm nhận trực tiếp trọng lượng và tư thế trẻ, và hai tay ôm được phần thân trẻ qua mọi pha phanh ga. Tư thế phía sau chỉ phù hợp với trẻ lớn đủ để tự nắm giữ chắc trong suốt hành trình tỉnh táo. Nếu phải chở trẻ sau và trẻ có tiền tố buồn ngủ vào khung giờ đi, hãy bố trí người thứ ba ngồi cuối vừa trông trẻ vừa giữ, hoặc chủ động dời giờ đi sang lúc trẻ tỉnh. Mỗi gia đình có giải pháp riêng, nhưng mọi giải pháp đều quy về một điểm: trẻ ngủ không được ngồi sau mà không được giữ.
+Với trẻ còn nhỏ, tư thế ngồi phía trước, giữa hai tay người lái, an toàn hơn hẳn phía sau khi trẻ có nguy cơ ngủ: người lái cảm nhận trực tiếp trọng lượng và tư thế trẻ, và hai tay ôm được phần thân trẻ qua mọi pha phanh ga. Tư thế phía sau chỉ phù hợp với trẻ lớn đủ để tự nắm giữ chắc trong suốt hành trình tỉnh táo. Nếu phải chở trẻ sau và trẻ có tiền tố buồn ngủ vào khung giờ đi, hãy [bố trí người thứ ba ngồi cuối](/an-toan-phap-ly/2026/10/07/tre-em-ngoi-tren-xe-may-can-dieu-kien-gi/) vừa trông trẻ vừa giữ, hoặc chủ động dời giờ đi sang lúc trẻ tỉnh. Mỗi gia đình có giải pháp riêng, nhưng mọi giải pháp đều quy về một điểm: trẻ ngủ không được ngồi sau mà không được giữ.
 
 ## Phòng ngừa: chọn giờ đi và chuẩn bị trước
 
@@ -43,7 +43,7 @@ Có kiểu khác của cùng vấn đề: trẻ mệt quá thành cáu khóc, đ
 
 ## Trẻ và mũ bảo hiểm khi ngủ
 
-Một chi tiết cần để ý: mũ của trẻ khi ngủ có xu hướng tuột khỏi vị trí, vì đầu trẻ gật làm mất độ ôm, và một chiếc mũ lệch không còn chức năng bảo vệ. Khi trẻ ngủ trong vòng tay người lớn, hãy chỉnh lại mũ hoặc tạm tháo nếu trẻ ngủ trong tư thế được giữ tuyệt đối và xe đứng yên. Không bao giờ để trẻ ngủ trên xe đang chạy với mũ đội lệch và không ai giữ, đây là hình thức tổ hợp mọi rủi ro. Mũ của trẻ cần đúng size và có quai chắc, và các vấn đề về mũ trẻ em đã được nói kỹ ở bài về để mũ khi xuống xe.
+Một chi tiết cần để ý: mũ của trẻ khi ngủ có xu hướng tuột khỏi vị trí, vì đầu trẻ gật làm mất độ ôm, và một chiếc mũ lệch không còn chức năng bảo vệ. Khi trẻ ngủ trong vòng tay người lớn, hãy chỉnh lại mũ hoặc tạm tháo nếu trẻ ngủ trong tư thế được giữ tuyệt đối và xe đứng yên. Không bao giờ để trẻ ngủ trên xe đang chạy với mũ đội lệch và không ai giữ, đây là hình thức tổ hợp mọi rủi ro. [Mũ của trẻ cần đúng size](/an-toan-phap-ly/2026/10/05/chon-mu-bao-hiem-cho-tre-di-cung-tren-xe-may-thue/) và có quai chắc, và các vấn đề về mũ trẻ em đã được nói kỹ ở bài về để mũ khi xuống xe.
 
 ## Khi nào nên đổi phương tiện
 
@@ -52,7 +52,7 @@ Sự trung thực cuối cùng của bài toán này: có những hành trình m
 
 ## Khi nào nên dừng hẳn chuyến đi
 
-Có những lúc tạm dừng chưa đủ và nên kết thúc chuyến đi để đảm bảo an toàn. Nếu trẻ đã ngủ sâu và không có cách nào giữ được tư thế ngồi ổn định, nếu người chở mệt hoặc mất tập trung, nếu thời tiết xấu đi hoặc trời tối dần, thì lựa chọn an toàn nhất là dừng tại một điểm có thể nghỉ và chờ trẻ ngủ dậy hoặc nhờ người thân đến đón. Chuyến đi bị kéo dài hơn dự kiến vẫn tốt hơn nhiều so với việc tiếp tục chạy với một hành khách không tự chủ được tư thế. Người chở cũng nên gọi trước cho điểm đến để thông báo việc đến muộn, tránh cảm giác bị áp lực phải chạy nhanh. Khi thuê xe máy ở Hà Nội để chở trẻ, hãy đặt an toàn lên trước tiến độ của lịch trình.
+Có những lúc tạm dừng chưa đủ và nên kết thúc chuyến đi để đảm bảo an toàn. Nếu trẻ đã ngủ sâu và không có cách nào giữ được tư thế ngồi ổn định, nếu [người chở mệt hoặc mất tập trung](/ky-nang/2026-09-29-chay-xe-khi-dang-met-hay-thieu-ngu-rui-ro/), nếu thời tiết xấu đi hoặc trời tối dần, thì lựa chọn an toàn nhất là dừng tại một điểm có thể nghỉ và chờ trẻ ngủ dậy hoặc nhờ người thân đến đón. Chuyến đi bị kéo dài hơn dự kiến vẫn tốt hơn nhiều so với việc tiếp tục chạy với một hành khách không tự chủ được tư thế. Người chở cũng nên gọi trước cho điểm đến để thông báo việc đến muộn, tránh cảm giác bị áp lực phải chạy nhanh. Khi thuê xe máy ở Hà Nội để chở trẻ, hãy đặt an toàn lên trước tiến độ của lịch trình.
 
 ## Kết lại
 

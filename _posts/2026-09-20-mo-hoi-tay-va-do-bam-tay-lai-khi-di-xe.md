@@ -23,7 +23,7 @@ Dấu hiệu thứ hai đáng để ý là phanh mất ngọt. Với xe tay ga, 
 
 Khi nhận ra tay đã trơn, việc đầu tiên không phải chạy nhanh về mà là kéo vào lề ở chỗ an toàn. Có mấy việc làm được ngay. Lau tay bằng khăn hoặc giấy mềm trong cốp, lau cả hai lòng bàn tay và các kẽ ngón, đồng thời lau luôn mặt ghi đông vì nhựa ướt sẽ làm khô tay trở lại ướt rất nhanh. Nếu có nước, rửa qua tay rồi lau khô lại hai lần. Nghỉ năm mươi phút ở chỗ có gió hoặc bóng mát, tay khô tự nhiên còn lâu hơn lau. Một mẹo nhỏ nhiều người đi đường dài dùng: cầm vài tờ giấy ăn cuộn lại nhét vào kẽ ngón tay và giữ chặt trong một hai phút, giấy hút phần mồ hôi đọng ở chính chỗ khó khô nhất.
 
-Nếu không có chỗ dừng gần, giảm tốc độ xuống và nới khoảng cách với xe phía trước là biện pháp duy nhất có thể làm ngay khi đang chạy. Tốc độ chậm hơn và khoảng cách lớn hơn bù cho phần trượt và chậm phản xạ của tay. Tránh bóp phanh gấp, vào cua rộng hơn bình thường, và không vượt xe ở đoạn đông. Đây là những quy tắc bạn đã biết, vấn đề chỉ là phải nhớ áp dụng chúng đúng lúc tay đang ướt, thay vì giữ nguyên tốc độ quen thuộc.
+Nếu không có chỗ dừng gần, giảm tốc độ xuống và [nới khoảng cách với xe phía trước](/ky-nang/2026/10/07/xe-phia-truoc-phanh-gap-minh-phan-ung-ra-sao/) là biện pháp duy nhất có thể làm ngay khi đang chạy. Tốc độ chậm hơn và khoảng cách lớn hơn bù cho phần trượt và chậm phản xạ của tay. Tránh bóp phanh gấp, vào cua rộng hơn bình thường, và không vượt xe ở đoạn đông. Đây là những quy tắc bạn đã biết, vấn đề chỉ là phải nhớ áp dụng chúng đúng lúc tay đang ướt, thay vì giữ nguyên tốc độ quen thuộc.
 
 ## Găng tay: giải pháp chính
 
@@ -39,7 +39,7 @@ Mồ hôi tay không chỉ do nóng, nó còn do cách ngồi và cả tâm lý.
 
 Tâm lý là nhân tố thứ hai. Người chạy xe trong trạng thái căng, bám ghi đông chặt liên tục, hai vai nhấc lên, đổ mồ hôi tay nhiều gấp mấy lần người thả lỏng nhưng vẫn tỉnh. Trên thực tế, tay lái tốt cần độ bám vừa đủ chứ không cần siết hết sức liên tục. Một thói quen đáng tập: mỗi lần đèn đỏ, lắc nhẹ hai tay, xòe các ngón vài lần rồi nắm lại, vừa giảm tê vừa cho kẽ tay thoáng. Cách này đơn giản nhưng hiệu quả bất ngờ trên những chuyến hơn một giờ.
 
-Thời điểm lên đường cũng là một dạng giải pháp. Mùa nóng Hà Nội, đi sớm trước chín giờ sáng hoặc sau năm giờ chiều, nhiệt độ và độ ẩm thấp hơn hẳn giữa trưa, và vấn đề mồ hôi gần như tự biến mất. Việc sắp lịch di chuyển tránh khung mười một giờ đến ba giờ chiều mang lại nhiều hơn là tránh nắng: nó giữ cho tay lái khô, đầu tỉnh và người đỡ mệt.
+[Thời điểm lên đường](/ky-nang/2026/10/04/chay-xe-may-ngay-nang-gat-thang-sau-ha-noi-chon-gio-va-chong-nang/) cũng là một dạng giải pháp. Mùa nóng Hà Nội, đi sớm trước chín giờ sáng hoặc sau năm giờ chiều, nhiệt độ và độ ẩm thấp hơn hẳn giữa trưa, và vấn đề mồ hôi gần như tự biến mất. Việc sắp lịch di chuyển tránh khung mười một giờ đến ba giờ chiều mang lại nhiều hơn là tránh nắng: nó giữ cho tay lái khô, đầu tỉnh và người đỡ mệt.
 
 ## Với người có bệnh về đổ mồ hôi tay
 

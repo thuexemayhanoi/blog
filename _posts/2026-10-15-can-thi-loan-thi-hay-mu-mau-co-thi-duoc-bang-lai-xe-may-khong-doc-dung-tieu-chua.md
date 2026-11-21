@@ -15,7 +15,7 @@ writer: W3
 writer_session: s-claude-w3
 ---
 
-Bạn đeo kính cận từ thời đi học, hoặc từng được bác sĩ nói là loạn thị, hay đã biết mình khó phân biệt đỏ với xanh, và giờ băn khoăn chuyện cận thị thi bằng lái xe máy có bị loại không. Câu trả lời không nằm ở số độ trên đơn kính mà ở tiêu chuẩn sức khỏe của hạng A1. Bài này chỉ cách đọc đúng phần đó và chuẩn bị trước khi đi khám.
+Bạn đeo kính cận từ thời đi học, hoặc từng được bác sĩ nói là loạn thị, hay đã biết mình khó phân biệt đỏ với xanh, và giờ băn khoăn chuyện cận thị thi bằng lái xe máy có bị loại không. Câu trả lời không nằm ở số độ trên đơn kính mà ở tiêu chuẩn sức khỏe của hạng A1: cận, loạn không bị loại vì thị lực nếu đeo kính mà nhìn xa hai mắt đạt từ 4/10 trở lên; còn rối loạn nhận biết dù chỉ một trong ba màu đỏ, vàng, xanh lá cây thì chưa đủ điều kiện, theo Bộ Y tế. Bài này chỉ cách đọc đúng phần đó và chuẩn bị trước khi đi khám.
 
 Lưu ý ngay từ đầu: bài viết không thay cho tư vấn của bác sĩ. Đủ hay chưa đủ điều kiện là do bác sĩ tại cơ sở khám sức khỏe lái xe kết luận sau khi khám trực tiếp.
 
@@ -43,7 +43,7 @@ Vì vậy:
 
 - **Một mắt nhìn kém:** Phụ lục I có tiêu chí riêng cho trường hợp chỉ còn một mắt. Nếu bạn có một mắt rất yếu, hãy hỏi bác sĩ cách đánh giá ngay từ đầu.
 
-Ngưỡng thị lực cụ thể cho Nhóm 1 được ghi trong Phụ lục I. Bài này không nêu con số vì chúng tôi chưa đối chiếu được bản gốc đã ký; bạn nên đọc trực tiếp phụ lục hoặc hỏi cơ sở khám mức đang áp dụng. Ngoài thị lực, mục Mắt còn các tiêu chí khác, và bác sĩ sẽ xem xét toàn bộ.
+Ngưỡng thị lực cụ thể cho Nhóm 1 được ghi trong Phụ lục I. Theo đó, chưa đủ điều kiện khi thị lực nhìn xa bằng hai mắt dưới 4/10, hoặc còn một mắt mà thị lực dưới 4/10, kể cả khi đã điều chỉnh bằng kính; bạn nên đọc trực tiếp phụ lục hoặc hỏi cơ sở khám mức đang áp dụng. Ngoài thị lực, mục Mắt còn các tiêu chí khác, và bác sĩ sẽ xem xét toàn bộ.
 
 ## Mù màu thi bằng a1: đọc đúng mục sắc giác
 

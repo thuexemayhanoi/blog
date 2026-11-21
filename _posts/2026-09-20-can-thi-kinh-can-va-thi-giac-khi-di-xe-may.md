@@ -27,7 +27,7 @@ Bụi đường Hà Nội bám kính rất nhanh, và kính bẩn làm mọi ngu
 
 ## Kính áp tròng, kính râm cận và các lựa chọn
 
-Mỗi loại kính có cách hành xử riêng trên xe. Kính áp tròng tiện nhưng mắt dễ khô trong gió, cần nhỏ mắt thường xuyên và cẩn thận với bụi; nếu áp tròng rơi giữa đường, khả năng đi tiếp gần như bằng không, nên kính gọng dự phòng trong cốp là một ý đáng cân nhắc. Kính râm cận hoặc kính đổi màu giúp buổi nắng gắt, nhưng nhớ rằng kính đổi màu về tối không nhanh bằng khi vào hầm hoặc khu râm. Dù chọn loại nào, nguyên tắc chung vẫn là: một phương án dự phòng trong cốp, và không bao giờ đi với kính nứt hoặc ống kính lỏng lẻo, vì một cú xóc đủ làm nó rơi đúng lúc cần nhất.
+Mỗi loại kính có cách hành xử riêng trên xe. [Kính áp tròng](/ky-nang/2026/10/15/deo-kinh-ap-trong-khi-chay-xe-may-o-ha-noi-gio-bui-va-nhung-gi-nen-mang-theo/) tiện nhưng mắt dễ khô trong gió, cần nhỏ mắt thường xuyên và cẩn thận với bụi; nếu áp tròng rơi giữa đường, khả năng đi tiếp gần như bằng không, nên kính gọng dự phòng trong cốp là một ý đáng cân nhắc. Kính râm cận hoặc kính đổi màu giúp buổi nắng gắt, nhưng nhớ rằng kính đổi màu về tối không nhanh bằng khi vào hầm hoặc khu râm. Dù chọn loại nào, nguyên tắc chung vẫn là: một phương án dự phòng trong cốp, và không bao giờ đi với kính nứt hoặc ống kính lỏng lẻo, vì một cú xóc đủ làm nó rơi đúng lúc cần nhất.
 
 ## Mưa và các giọt nước trên kính
 
@@ -35,7 +35,7 @@ Mưa là kẻ thù lớn nhất của người cận thị đi xe: giọt nướ
 
 ## Ban đêm: ánh sáng, quầng sáng và đèn pha ngược chiều
 
-Với người cận thị, ban đêm trên đường là bài thử thách riêng: đèn pha xe ngược chiều tóa thành quầng trên kính bẩn, biển quảng cáo sáng chói, và các đoạn đèn đường thưa tạo các vùng tối đột ngột. Các biện pháp giảm khó chịu: giữ kính thật sạch, né nhìn trực diện vào đèn pha mà nhìn về lề đường bên phải của mình, giảm tốc ở các đoạn đèn thưa, và tránh các loại kính màu khi đi đêm vì chúng làm giảm độ sáng tổng. Nếu mắt bạn mỏi nhanh về đêm, hãy thu hẹp các chặng đêm trong lịch trình và ưu tiên đi các tuyến đèn đầy đủ.
+Với người cận thị, ban đêm trên đường là bài thử thách riêng: đèn pha xe ngược chiều tóa thành quầng trên kính bẩn, biển quảng cáo sáng chói, và các đoạn đèn đường thưa tạo các vùng tối đột ngột. Các biện pháp giảm khó chịu: giữ kính thật sạch, [né nhìn trực diện vào đèn pha](/ky-nang/2026/10/15/bi-choi-den-pha-xe-nguoc-chieu-khi-di-xe-may-ban-dem-nhin-dau-va-giam-toc-the-na/) mà nhìn về lề đường bên phải của mình, giảm tốc ở các đoạn đèn thưa, và tránh các loại kính màu khi đi đêm vì chúng làm giảm độ sáng tổng. Nếu mắt bạn mỏi nhanh về đêm, hãy thu hẹp các chặng đêm trong lịch trình và ưu tiên đi các tuyến đèn đầy đủ.
 
 ## Khi mắt mỏi giữa chặng
 
@@ -47,7 +47,7 @@ Mỏi mắt trên xe có biểu hiện rõ: phải nheo nhiều, các vệt nhò
 
 ## Một chiếc mũ bảo hiểm quan tâm tới người đeo kính
 
-Không phải mũ bảo hiểm nào cũng thân thiện với kính gọng: các loại viền tai dày có thể đè vào càng kính gây đau sau chặng dài, và các loại kính mũ chật cứng có thể chạm ống kính khi va nhẹ. Khi chọn mũ, hãy đội thử cùng kính mắt mình hay đeo, kiểm tra khoảng hở hai bên thái dương, và thử cúi nghiêng đầu xem kính có xê dịch không. Với xe thuê, hãy hỏi nơi cho thuê các mũ họ có và chọn chiếc vừa nhất với cả đầu và kính của mình. Sự thoải mái của khuôn mặt trên xe tưởng là chuyện nhỏ, nhưng sau một tiếng đồng hồ, mọi điểm ép đều thành điểm mỏi, và điểm mỏi thành sự phân tâm.
+Không phải mũ bảo hiểm nào cũng [thân thiện với kính gọng](/ky-nang/2026/10/11/deo-kinh-can-duoi-mu-bao-hiem-khi-di-xe-may-chon-kieu-nao/): các loại viền tai dày có thể đè vào càng kính gây đau sau chặng dài, và các loại kính mũ chật cứng có thể chạm ống kính khi va nhẹ. Khi chọn mũ, hãy đội thử cùng kính mắt mình hay đeo, kiểm tra khoảng hở hai bên thái dương, và thử cúi nghiêng đầu xem kính có xê dịch không. Với xe thuê, hãy hỏi nơi cho thuê các mũ họ có và chọn chiếc vừa nhất với cả đầu và kính của mình. Sự thoải mái của khuôn mặt trên xe tưởng là chuyện nhỏ, nhưng sau một tiếng đồng hồ, mọi điểm ép đều thành điểm mỏi, và điểm mỏi thành sự phân tâm.
 
 ## Đi dưới mưa nhỏ và các lớp kính ẩm mờ
 

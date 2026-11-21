@@ -15,7 +15,7 @@ writer: W1
 writer_session: s-claudec-w1
 ---
 
-Nhiều khách thuê xe ở Long Biên hỏi đi cầu Đông Trù xe máy thế nào để sang Đông Anh, nhất là khi muốn tới Cổ Loa hay ra phía Nội Bài. Cây cầu vòm ống thép bắc qua sông Đuống này nằm trên trục đường 5 kéo dài, nối thẳng từ nút Cầu Chui. Bài này chỉ lối lên cầu, đường đi tiếp bên kia sông, cách đi đúng làn và chỗ dừng ngắm cầu cho an toàn, vì luật cấm dừng xe trên cầu.
+Nhiều khách thuê xe ở Long Biên hỏi đi cầu Đông Trù xe máy thế nào để sang Đông Anh, nhất là khi muốn tới Cổ Loa hay ra phía Nội Bài. Cây cầu vòm ống thép bắc qua sông Đuống này nằm trên trục đường 5 kéo dài: từ nút Cầu Chui, nơi giao Nguyễn Văn Cừ, Ngô Gia Tự và Nguyễn Văn Linh, bạn theo đường Lý Sơn tới chân cầu; qua cầu là đường Trường Sa chạy sang Đông Anh, tới nút giao với đường Võ Nguyên Giáp. Bài này chỉ lối lên cầu, đường đi tiếp bên kia sông, cách đi đúng làn và chỗ dừng ngắm cầu cho an toàn, vì luật cấm dừng xe trên cầu.
 
 ## Cầu Đông Trù xe máy: vài nét về cây cầu
 
@@ -28,7 +28,7 @@ Sau đợt sắp xếp năm 2025, xã Đông Hội cũ thuộc xã Đông Anh; �
 
 ## Lên cầu từ phía Long Biên: đường Lý Sơn
 
-Theo quyết định đặt tên đường năm 2016, đường Lý Sơn chạy từ nút giao cầu vượt đường 5 với Ngô Gia Tự, Nguyễn Văn Cừ và Nguyễn Văn Linh, tức khu Cầu Chui, tới chân cầu Đông Trù. Vì vậy từ Nguyễn Văn Cừ, bạn đi tới nút Cầu Chui rồi theo trục hướng cầu Đông Trù.
+Theo nghị quyết đặt tên đường của HĐND thành phố năm 2016, đường Lý Sơn chạy từ nút giao cầu vượt đường 5 với Ngô Gia Tự, Nguyễn Văn Cừ và Nguyễn Văn Linh, tức khu Cầu Chui, tới chân cầu Đông Trù. Vì vậy từ Nguyễn Văn Cừ, bạn đi tới nút Cầu Chui rồi theo trục hướng cầu Đông Trù.
 
 Lưu ý quan trọng cuối năm 2026: từ ngày 20/10 tới hết 15/12/2026, cầu vượt thép tại nút Cầu Chui được sửa chữa; theo báo Nhân Dân và VietnamPlus, trong thời gian này xe máy không được đi lên cầu vượt mà phải đi các đường song hành bên dưới. Cách chọn làn tại nút này có ở bài [khu Cầu Chui ở Long Biên](/du-lich/2026/10/16/khu-cau-chui-o-long-bien-chon-lan-xe-may-qua-nut-giao-nguyen-van-cu-ngo-gia-tu-n/ "Khu Cầu Chui ở Long Biên: chọn làn xe máy").
 

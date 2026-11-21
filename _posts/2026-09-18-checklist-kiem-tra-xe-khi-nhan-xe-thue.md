@@ -15,7 +15,7 @@ Khoảnh khắc đứng trước chiếc xe sắp nhận là lúc quan trọng n
 
 ## Vì sao phải kiểm tra xe trước khi nhận
 
-Xe cho thuê được nhiều người sử dụng liên tiếp, nên hao mòn và vết xước nhỏ là chuyện bình thường. Vấn đề chỉ nảy sinh khi không ai ghi nhận rõ trạng thái ban đầu: vết trầy có sẵn hôm trước có thể bị hiểu nhầm là do bạn gây ra hôm sau. Biên bản giao nhận có ghi chú tình trạng xe chính là lá chắn bảo vệ cả bạn và cửa hàng.
+Xe cho thuê được nhiều người sử dụng liên tiếp, nên hao mòn và vết xước nhỏ là chuyện bình thường. Vấn đề chỉ nảy sinh khi không ai ghi nhận rõ trạng thái ban đầu: vết trầy có sẵn hôm trước có thể bị hiểu nhầm là do bạn gây ra hôm sau. [Biên bản giao nhận](/thue-xe/2026/09/27/bien-ban-giao-nhan-xe-chua-nhung-gi/) có ghi chú tình trạng xe chính là lá chắn bảo vệ cả bạn và cửa hàng.
 
 Nguyên tắc vàng: mọi thứ bạn thấy hôm nay, hãy để nó được ghi lại hôm nay. Đừng ngại hỏi lại nếu nhân viên có vẻ vội. Một cửa hàng làm việc bài bản sẽ luôn sẵn lòng cùng bạn đi hết danh sách này.
 
@@ -62,11 +62,11 @@ Quan sát bốn điểm tiếp xúc duy nhất giữa xe và mặt đường:
 - Vết nứt, mỏng thành lốp, đoạn vá cũ: hỏi rõ vị trí đã vá để theo dõi thêm trong chuyến đi.
 - Bánh xe quay đều, không bị lệch tâm nhìn từ phía trước.
 
-Lốp là chi tiết ảnh hưởng trực tiếp đến độ bám đường, đặc biệt khi đường ướt. Bạn có thể đọc thêm bài về áp suất lốp xe máy để hiểu vì sao chỉ số này ảnh hưởng đến cả an toàn lẫn mức tiêu hao xăng.
+Lốp là chi tiết ảnh hưởng trực tiếp đến độ bám đường, đặc biệt khi đường ướt. Bạn có thể đọc thêm bài về [áp suất lốp xe máy](/chia%20s%E1%BA%BB/2026/09/18/ap-suat-lop-xe-may-kiem-tra-the-nao/) để hiểu vì sao chỉ số này ảnh hưởng đến cả an toàn lẫn mức tiêu hao xăng.
 
 ## Mức xăng, dây xích và khoang để chân
 
-Kiểm tra mức xăng qua kim hoặc đèn báo, và hỏi rõ nguyên tắc trả xăng: thông thường bạn nhận xe ở mức nào thì trả ở mức đó, hoặc theo thỏa thuận ghi trong biên bản. Việc này tránh mất thời gian tranh luận lúc trả xe. Ghi lại mức xăng ban đầu bằng cách chụp ảnh đồng hồ.
+Kiểm tra mức xăng qua kim hoặc đèn báo, và hỏi rõ [nguyên tắc trả xăng](/thue-xe/2026/09/27/xang-khi-nhan-va-khi-tra-xe-xu-ly-the-nao/): thông thường bạn nhận xe ở mức nào thì trả ở mức đó, hoặc theo thỏa thuận ghi trong biên bản. Việc này tránh mất thời gian tranh luận lúc trả xe. Ghi lại mức xăng ban đầu bằng cách chụp ảnh đồng hồ.
 
 Với xe số, nhìn dây xích: không bị khô dầu trầm trọng, không chùng quá mức. Khi chạy thử, nghe xem xích có tiếng lạch cạch rõ rệt không. Phuộc ga và bàn đạp phải hoạt động mượt, không bị kẹt nửa chừng. Vòng xoay tay ga phải trả về vị trí ban đầu ngay khi buông tay.
 
