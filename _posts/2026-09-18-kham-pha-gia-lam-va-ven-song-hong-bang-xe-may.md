@@ -15,7 +15,7 @@ campaign: hanoi-seo-480
 
 ## Khu vực Long Biên và Gia Lâm có gì đặc biệt
 
-Long Biên và Gia Lâm nằm ở bờ đông sông Hồng, nơi thành phố chuyển dần từ phố xá sang đồng ruộng. Đây là khu vực có lịch sử lâu đời: cầu Long Biên hơn một trăm năm tuổi là chứng nhân của thành phố, và các làng nghề quanh Gia Lâm tồn tại qua nhiều thế hệ.
+[Long Biên và Gia Lâm]({{ '/du-lich/long-bien/' | relative_url }}) nằm ở bờ đông sông Hồng, nơi thành phố chuyển dần từ phố xá sang đồng ruộng. Đây là khu vực có lịch sử lâu đời: cầu Long Biên hơn một trăm năm tuổi là chứng nhân của thành phố, và các làng nghề quanh Gia Lâm tồn tại qua nhiều thế hệ.
 
 Đặc điểm thú vị cho người đi xe máy là sự chuyển tiếp rõ rệt: chạy từ khu phố Bồ Đề, qua các khu dân cư, lên đường đê, chỉ sau vài cây số bạn đã ở giữa không gian mở với gió sông và mùi đồng. Ít thành phố nào có quãng chuyển tiếp ngắn như vậy giữa đô thị và nông thôn.
 

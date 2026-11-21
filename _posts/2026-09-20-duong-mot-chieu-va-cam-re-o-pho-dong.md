@@ -28,7 +28,7 @@ Tại các ngã tư của khu một chiều, các thông tin quan trọng nằm 
 
 ## Khu phố cổ: những đặc điểm riêng
 
-Phố cổ Hà Nội có thêm các đặc điểm làm bài toán một chiều khó hơn. Thứ nhất là mật độ: giờ cao điểm các phố chính như Hàng Bông, Hàng Gai, Lương Văn Can chật kín, khiến việc đổi làn hay sửa hướng gần như không thể ở giữa đoạn, mọi điều chỉnh phải thực hiện ở các đầu phố. Thứ hai là người đi bộ: cuối tuần các phố đi bộ mở ra, và cả các ngày thường, vỉa hè đông khiến dòng người tràn xuống lòng đường ở nhiều đoạn, cần đi thật chậm. Thứ ba là các cấm rẽ theo giờ: một số ngã tư cho rẽ vào giờ thấp điểm nhưng cấm vào giờ cao điểm, vì vậy cùng một tuyến hôm qua đi được, hôm nay giờ khác lại không. Khi đi trong phố cổ, đặt tốc độ chậm làm mặc định và coi mọi ngã tư là một điểm cần đọc lại biển.
+[Phố cổ Hà Nội]({{ '/du-lich/pho-co/' | relative_url }}) có thêm các đặc điểm làm bài toán một chiều khó hơn. Thứ nhất là mật độ: giờ cao điểm các phố chính như Hàng Bông, Hàng Gai, Lương Văn Can chật kín, khiến việc đổi làn hay sửa hướng gần như không thể ở giữa đoạn, mọi điều chỉnh phải thực hiện ở các đầu phố. Thứ hai là người đi bộ: cuối tuần các phố đi bộ mở ra, và cả các ngày thường, vỉa hè đông khiến dòng người tràn xuống lòng đường ở nhiều đoạn, cần đi thật chậm. Thứ ba là các cấm rẽ theo giờ: một số ngã tư cho rẽ vào giờ thấp điểm nhưng cấm vào giờ cao điểm, vì vậy cùng một tuyến hôm qua đi được, hôm nay giờ khác lại không. Khi đi trong phố cổ, đặt tốc độ chậm làm mặc định và coi mọi ngã tư là một điểm cần đọc lại biển.
 
 ## Chuẩn bị trước khi vào khu một chiều dày
 

@@ -15,7 +15,7 @@ Khu Phố Cổ Hà Nội đẹp và đáng đi, nhưng đi đúng khung giờ đ
 
 ## Giờ cao điểm quanh phố cổ diễn ra như thế nào
 
-Hà Nội có hai khung giờ đông xe rõ rệt: buổi sáng khoảng từ bảy giờ đến tám giờ ba mươi và buổi chiều khoảng từ bốn giờ ba mươi đến bảy giờ. Quanh khu phố cổ, khung giờ chiều thường nặng hơn buổi sáng, vì lúc đó vừa có người tan làm đổ về, vừa có khách tham quan đi dạo, các quán nước và hàng ăn cũng bắt đầu bày hàng ra vỉa hè.
+Hà Nội có hai khung giờ đông xe rõ rệt: buổi sáng khoảng từ bảy giờ đến tám giờ ba mươi và buổi chiều khoảng từ bốn giờ ba mươi đến bảy giờ. Quanh [khu phố cổ]({{ '/du-lich/pho-co/' | relative_url }}), khung giờ chiều thường nặng hơn buổi sáng, vì lúc đó vừa có người tan làm đổ về, vừa có khách tham quan đi dạo, các quán nước và hàng ăn cũng bắt đầu bày hàng ra vỉa hè.
 
 Ngoài hai khung giờ chính, ngày cuối tuần còn có thêm đỉnh đông vào giữa trưa và buổi chiều, khi khách đi dạo tập trung về phía hồ Hoàn Kiếm. Nếu có thể chọn giờ, hãy tránh đúng các khung này. Nếu buộc phải đi, việc biết trước mật độ xe giúp bạn chủ động về tinh thần thay vì bị bất ngờ kéo theo những quyết định vội vàng.
 

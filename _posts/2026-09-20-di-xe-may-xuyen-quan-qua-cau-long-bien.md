@@ -17,7 +17,7 @@ Câu trả lời ngắn gọn: giữ tốc độ đều khi lên dốc và xuố
 
 ## Đặc thù của cầu Long Biên với xe máy
 
-Cầu Long Biên là cây cầu già với mặt đường nhiều mối ghép thép, có đoạn tấm lấp tạo độ gợn đều đặn khiến xe rung liên tục. Rung xe làm gương lệch, bọc đồ trong cốp dịch chuyển và tay lái cần được giữ chắc nhưng không cứng. Dốc lên cầu dài hơn tưởng tượng, xe chở nặng hoặc xe nhỏ dễ bị kéo tụt lại dòng. Bên cạnh đó, làn đường sắt xe điện chạy sát mép cầu chỉ được ngăn bằng rào thấp, nên tuyệt đối không lấn qua vạch khi vượt xe.
+[Cầu Long Biên]({{ '/du-lich/long-bien/' | relative_url }}) là cây cầu già với mặt đường nhiều mối ghép thép, có đoạn tấm lấp tạo độ gợn đều đặn khiến xe rung liên tục. Rung xe làm gương lệch, bọc đồ trong cốp dịch chuyển và tay lái cần được giữ chắc nhưng không cứng. Dốc lên cầu dài hơn tưởng tượng, xe chở nặng hoặc xe nhỏ dễ bị kéo tụt lại dòng. Bên cạnh đó, làn đường sắt xe điện chạy sát mép cầu chỉ được ngăn bằng rào thấp, nên tuyệt đối không lấn qua vạch khi vượt xe.
 
 ## Giữ tốc độ trên dốc lên và dốc xuống
 
