@@ -103,7 +103,7 @@ Ghi lại các câu sau và hỏi một lượt khi gọi điện:
 5. Xe hỏng giữa tháng thì báo ai, sửa hay đổi xe, ngày nằm sửa tính ra sao.
 6. Thay dầu, bảo dưỡng định kỳ trong tháng do bên nào lo.
 
-Phí trả trễ, phí hư hỏng và hoàn tiền khi trả xe sớm cũng cần xác nhận trực tiếp với cửa hàng.
+Phí hư hỏng cần xác nhận trực tiếp với cửa hàng; trả xe trễ có tính phí theo giờ, còn trả sớm trước kỳ hạn hợp đồng đã ký thì không được hoàn tiền.
 
 ## Liên hệ đặt xe tháng
 

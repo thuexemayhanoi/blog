@@ -82,6 +82,6 @@ Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Lon
 
 Lúc nhận xe, dành vài phút chụp ảnh quanh thân xe, thử phanh, đèn, còi và hỏi rõ lịch thay dầu trong thời gian thuê tháng. Lần đầu tự chạy về trọ, nên đi giờ thấp điểm cho quen tay lái.
 
-Nghỉ Tết về quê dài ngày thì cân nhắc trả xe trước khi về rồi thuê lại sau, thay vì để xe nằm ở trọ. Việc tính ngày và có hoàn tiền ngày chưa dùng hay không, bạn hỏi cửa hàng khi đặt xe. Gần ngày thi, chạy thử đến điểm thi một hôm trước để biết chỗ gửi xe và thời gian di chuyển.
+Nghỉ Tết về quê dài ngày thì cân nhắc trả xe trước khi về rồi thuê lại sau, thay vì để xe nằm ở trọ. Một ngày thuê tính đủ 24 giờ kể từ lúc nhận xe, và trả xe trước kỳ hạn hợp đồng đã ký thì không được hoàn tiền ngày chưa dùng. Gần ngày thi, chạy thử đến điểm thi một hôm trước để biết chỗ gửi xe và thời gian di chuyển.
 
 Khi đã có lịch học cố định, bạn xem thêm các lựa chọn ở mục [thuê xe theo tháng](/thue-xe/thue-thang/) hoặc trang [thuê xe máy Hà Nội](/thue-xe/) để chọn chiếc xe vừa túi tiền mùa ôn thi.

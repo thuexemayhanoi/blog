@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1281,
+  "word_count": 1282,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,7 +47,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-15-ban-hoa-dip-2010-83-thue-them-xe-may-vai-ngay-cao-diem-giao-hang-tinh-theo-ngay.md",
-  "content_sha256": "59f9b66448b69778153b1059c97042d96f03061cedd8a2814785c61dbbb7c791",
+  "content_sha256": "27032df98a1cdb7215320a0eccf692f060c7d2d1ee8873fb45879980fef8addc",
   "matrix_row_sha256": "71943904e5e4dde66c749e7fffe21192b35870d5766dbac8a08c641e2cbcbac1",
   "result": "PASS",
   "grade": "EXCELLENT",
@@ -55,18 +55,18 @@
   "revision": {
     "schema": "revision/1",
     "kind": "content-revision",
-    "purpose": "price-sync",
-    "reason": "Đồng bộ giá tuần/tháng với _data/pricing.yml (bảng giá chủ xe duyệt); đã người duyệt từng câu",
-    "approval_ref": "Chủ website (Tổng Thống) duyệt 2026-11-21 (+07) trong phiên Claude: 'Duyệt sửa 17 bài' — đồng bộ giá tuần/tháng với _data/pricing.yml",
-    "batch_id": "revise-20261121-price-02",
-    "revised_at": "2026-11-21T14:31:25+00:00",
-    "previous_evidence_sha256": "177e4600c690c88c0a173d423f4fa40458b37c9ffc9ed2d953dcb475de47e074",
-    "previous_content_sha256": "4b600f64fed1a78c604fd64aeb3064c12ef34570cec8482fc7fdce2219c50c41",
+    "purpose": "refund-policy-20261122",
+    "reason": "Chủ website xác nhận 22/11/2026: không hoàn tiền khi khách đã thuê rồi trả xe trước kỳ hạn hợp đồng đã ký (business-facts rental_policies.early_return_refund=false); thay câu \"chưa có chính sách cố định, hãy hỏi\" bằng chính sách đã xác nhận",
+    "approval_ref": "Chủ website (Tổng Thống) duyệt 2026-11-22 (+07) trong phiên Claude: 'Duyệt sửa 17 + 1 bài' — thay câu 'chính sách hoàn tiền chưa cố định' bằng chính sách đã xác nhận (không hoàn tiền khi trả xe trước kỳ hạn hợp đồng đã ký)",
+    "batch_id": "revise-20261122-refund-01",
+    "revised_at": "2026-11-21T18:26:06+00:00",
+    "previous_evidence_sha256": "559af59b209188c2ed05de9cf0833f2ff80f4abe8f06bd979299aa94520063e7",
+    "previous_content_sha256": "59f9b66448b69778153b1059c97042d96f03061cedd8a2814785c61dbbb7c791",
     "previous_matrix_row_sha256": "71943904e5e4dde66c749e7fffe21192b35870d5766dbac8a08c641e2cbcbac1",
-    "new_content_sha256": "59f9b66448b69778153b1059c97042d96f03061cedd8a2814785c61dbbb7c791",
-    "edit_count": 7,
-    "edits_sha256": "a120a7e30794fbfff5c4d1fe42409c2cdf98f5ebceede75bd9b2d5b9fbd4e31b",
-    "chars_changed": 1127,
+    "new_content_sha256": "27032df98a1cdb7215320a0eccf692f060c7d2d1ee8873fb45879980fef8addc",
+    "edit_count": 1,
+    "edits_sha256": "da9b6a036f82d701a5ba148f12335d9722e36fb87a4e824d5b2d9f531bc0329f",
+    "chars_changed": 231,
     "previous_scores": {
       "quality": 100,
       "seo": 100,
@@ -79,11 +79,47 @@
       "seo_min": 70
     },
     "tool": "scripts/factory/revise-published.py",
-    "tool_commit": "70d76db95e2d962e07ca0ed1cd8069aa7bdc1f0d",
+    "tool_commit": "21de834197d70ba6bd0882ce5a2e3f9cfa164c9b",
     "tool_sha256": "4cbcfb5cb776052f30f590ca0f2912c94e5239bd8fd14b47dca10953d3e302a8",
     "scorer_code_sha256": "6455431545f463412d5aa015ce327d983e3b29a0a7c33716028920c374f8f81a",
-    "business_facts_sha256": "101e315f480c6f57f9b94dc8d6f4c460514658fd37bd4a3503c3d0f93c131812",
+    "business_facts_sha256": "7ce89f884f6e1cb747b3d9b4e3266b4f72708903626d9287494c8f729d35f657",
     "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
-    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at",
+    "history": [
+      {
+        "schema": "revision/1",
+        "kind": "content-revision",
+        "purpose": "price-sync",
+        "reason": "Đồng bộ giá tuần/tháng với _data/pricing.yml (bảng giá chủ xe duyệt); đã người duyệt từng câu",
+        "approval_ref": "Chủ website (Tổng Thống) duyệt 2026-11-21 (+07) trong phiên Claude: 'Duyệt sửa 17 bài' — đồng bộ giá tuần/tháng với _data/pricing.yml",
+        "batch_id": "revise-20261121-price-02",
+        "revised_at": "2026-11-21T14:31:25+00:00",
+        "previous_evidence_sha256": "177e4600c690c88c0a173d423f4fa40458b37c9ffc9ed2d953dcb475de47e074",
+        "previous_content_sha256": "4b600f64fed1a78c604fd64aeb3064c12ef34570cec8482fc7fdce2219c50c41",
+        "previous_matrix_row_sha256": "71943904e5e4dde66c749e7fffe21192b35870d5766dbac8a08c641e2cbcbac1",
+        "new_content_sha256": "59f9b66448b69778153b1059c97042d96f03061cedd8a2814785c61dbbb7c791",
+        "edit_count": 7,
+        "edits_sha256": "a120a7e30794fbfff5c4d1fe42409c2cdf98f5ebceede75bd9b2d5b9fbd4e31b",
+        "chars_changed": 1127,
+        "previous_scores": {
+          "quality": 100,
+          "seo": 100,
+          "grade": "EXCELLENT"
+        },
+        "base": "INTACT",
+        "scorer": "operator-qa-deterministic-v1",
+        "thresholds": {
+          "quality_min": 75,
+          "seo_min": 70
+        },
+        "tool": "scripts/factory/revise-published.py",
+        "tool_commit": "70d76db95e2d962e07ca0ed1cd8069aa7bdc1f0d",
+        "tool_sha256": "4cbcfb5cb776052f30f590ca0f2912c94e5239bd8fd14b47dca10953d3e302a8",
+        "scorer_code_sha256": "6455431545f463412d5aa015ce327d983e3b29a0a7c33716028920c374f8f81a",
+        "business_facts_sha256": "101e315f480c6f57f9b94dc8d6f4c460514658fd37bd4a3503c3d0f93c131812",
+        "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+        "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+      }
+    ]
   }
 }

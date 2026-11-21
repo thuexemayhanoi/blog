@@ -73,7 +73,7 @@ Trường hợp năm hoặc sáu ngày rơi đúng vùng lưng chừng, bài [th
 Đây là phần nhiều người quên hỏi, và cũng là chỗ hay phát sinh tranh cãi. Ngày nhận biển có thể đến sớm hơn hoặc trễ hơn dự kiến, nên trước khi nhận xe thuê, hãy hỏi rõ:
 
 - Một ngày thuê được tính từ lúc nào đến lúc nào. Xem thêm [cách tính ngày thuê xe máy](/hoi-dap/2026/10/10/hoi-cach-tinh-ngay-thue-xe-may-nhu-the-nao/).
-- Nếu lấy gói tuần mà có biển sớm, trả xe trước hạn thì tính thế nào. Chính sách hoàn tiền ngày chưa dùng chưa cố định, nên hỏi cửa hàng khi đặt xe.
+- Nếu lấy gói tuần mà có biển sớm, trả xe trước hạn thì tính thế nào. Với Nguyễn Tú, đã thuê rồi trả xe trước kỳ hạn hợp đồng đã ký thì không được hoàn tiền phần ngày chưa dùng.
 - Nếu phải giữ xe thêm, gọi gia hạn trước bao lâu và giá ngày thêm tính ra sao.
 - Trả muộn hơn giờ hẹn có tính thêm không; khoản này xác nhận trực tiếp với cửa hàng.
 

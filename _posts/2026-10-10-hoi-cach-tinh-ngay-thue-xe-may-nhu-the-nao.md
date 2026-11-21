@@ -36,7 +36,7 @@ Lịch trình cũng ảnh hưởng tới tổng tiền: gom việc đi trong ít
 
 ## Hỏi nhanh đáp gọn
 
-Hỏi: thuê qua đêm nhưng chỉ đi trong một ngày, tính một hay hai ngày? Đáp: tùy cách đếm của nơi thuê, hỏi trước câu này ngay lúc đặt xe. Hỏi: trả xe sớm hơn dự kiến có được hoàn phần ngày còn lại không? Đáp: tùy quy định riêng, nên nếu dự kiến trả sớm, nói trước khi ký để hai bên ghi rõ. Hỏi: ngày lễ cuối tuần có tính khác ngày thường không? Đáp: một số nơi có phụ phí ngày cao điểm, một số nơi giữ nguyên, đây cũng là câu hỏi đáng hỏi trước.
+Hỏi: thuê qua đêm nhưng chỉ đi trong một ngày, tính một hay hai ngày? Đáp: tùy cách đếm của nơi thuê, hỏi trước câu này ngay lúc đặt xe. Hỏi: trả xe sớm hơn dự kiến có được hoàn phần ngày còn lại không? Đáp: ở Nguyễn Tú thì không, trả xe trước kỳ hạn hợp đồng đã ký sẽ không được hoàn tiền, nên chốt số ngày thuê sát lịch thật. Hỏi: ngày lễ cuối tuần có tính khác ngày thường không? Đáp: một số nơi có phụ phí ngày cao điểm, một số nơi giữ nguyên, đây cũng là câu hỏi đáng hỏi trước.
 
 Ba câu hỏi nhỏ này chỉ mất một phút lúc nhận xe nhưng giúp cả kỳ thuê không còn vùng xám. Với người thuê để đi làm cả tuần, nên hỏi thêm về gói dài ngày: nhiều nơi có cách tính gọn theo tuần, đỡ phải đếm lẻ từng ngày, và hợp đồng ghi rõ một dòng thì đỡ hẳn việc nhớ. Với người thuê để đi du lịch cuối tuần, nguyên tắc chung là cứ chốt lịch trình thật gọn, nhận xe sát giờ cần đi và trả xe ngay khi hết việc, vì mỗi giờ xe nằm không dùng vẫn tính vào số ngày theo hầu hết cách đếm.
 

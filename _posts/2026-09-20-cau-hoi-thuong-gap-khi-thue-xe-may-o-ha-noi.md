@@ -35,7 +35,7 @@ Hỏi: Cửa hàng mở cửa đến mấy giờ? Trả lời: Khung giờ làm 
 
 Hỏi: Trả xe trễ thì tính thế nào? Trả lời: Thời gian gia hạn và khoản phát sinh (nếu có) được xác nhận theo hợp đồng hoặc thỏa thuận giữa người thuê và cửa hàng. Hãy nhắn cho Nguyễn Tú ngay khi biết mình có thể trễ để hai bên sắp xếp.
 
-Hỏi: Tôi muốn trả xe sớm hơn, có được hoàn tiền không? Trả lời: Với thuê ngắn ngày theo ngày, việc trả sớm thường không được hoàn phần thừa. Với gói dài hạn, mỗi cửa hàng có chính sách riêng, hãy hỏi trước khi ký. Nguyên tắc chung là mọi thay đổi về thời gian nên được báo sớm nhất có thể.
+Hỏi: Tôi muốn trả xe sớm hơn, có được hoàn tiền không? Trả lời: Tại Nguyễn Tú, khách đã thuê rồi trả xe trước kỳ hạn của hợp đồng đã ký thì không được hoàn tiền, kể cả với gói tuần hoặc gói tháng. Vì vậy hãy chọn kỳ thuê sát lịch thật, và khi lịch thay đổi thì báo cửa hàng sớm nhất có thể.
 
 ## Về xe và các tình huống phát sinh
 

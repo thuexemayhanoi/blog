@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1027,
+  "word_count": 1035,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,9 +47,43 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-10-hoi-cach-tinh-ngay-thue-xe-may-nhu-the-nao.md",
-  "content_sha256": "27f58926c68dde894271b9c873610c7e8f3b0f8e988c46b8965b7e3a16d8e032",
+  "content_sha256": "1c1dfac58dbd3b2606548ff065ba37c72ca4e8b30e33cc35e9938d45e97b28fc",
   "matrix_row_sha256": "2f9575b046e65f21ff4dd5b9764b12847069f10530960e3b417b9318c2a5ccdd",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-10T19:11:49+00:00"
+  "published_at": "2026-10-10T19:11:49+00:00",
+  "revision": {
+    "schema": "revision/1",
+    "kind": "content-revision",
+    "purpose": "refund-policy-20261122",
+    "reason": "Chủ website xác nhận 22/11/2026: không hoàn tiền khi khách đã thuê rồi trả xe trước kỳ hạn hợp đồng đã ký (business-facts rental_policies.early_return_refund=false); thay câu \"chưa có chính sách cố định, hãy hỏi\" bằng chính sách đã xác nhận",
+    "approval_ref": "Chủ website (Tổng Thống) duyệt 2026-11-22 (+07) trong phiên Claude: 'Duyệt sửa 17 + 1 bài' — thay câu 'chính sách hoàn tiền chưa cố định' bằng chính sách đã xác nhận (không hoàn tiền khi trả xe trước kỳ hạn hợp đồng đã ký)",
+    "batch_id": "revise-20261122-refund-01",
+    "revised_at": "2026-11-21T18:26:04+00:00",
+    "previous_evidence_sha256": "952430f8bc92873bcf86a7d1686f0272eba0e244eab03514c0f1c5f00b490877",
+    "previous_content_sha256": "27f58926c68dde894271b9c873610c7e8f3b0f8e988c46b8965b7e3a16d8e032",
+    "previous_matrix_row_sha256": "2f9575b046e65f21ff4dd5b9764b12847069f10530960e3b417b9318c2a5ccdd",
+    "new_content_sha256": "1c1dfac58dbd3b2606548ff065ba37c72ca4e8b30e33cc35e9938d45e97b28fc",
+    "edit_count": 1,
+    "edits_sha256": "8b7c58b73cf93fbd2331eaa0aae2df14480b737528d94e9b1660427a6923e816",
+    "chars_changed": 209,
+    "previous_scores": {
+      "quality": 100,
+      "seo": 100,
+      "grade": "EXCELLENT"
+    },
+    "base": "INTACT",
+    "scorer": "operator-qa-deterministic-v1",
+    "thresholds": {
+      "quality_min": 75,
+      "seo_min": 70
+    },
+    "tool": "scripts/factory/revise-published.py",
+    "tool_commit": "21de834197d70ba6bd0882ce5a2e3f9cfa164c9b",
+    "tool_sha256": "4cbcfb5cb776052f30f590ca0f2912c94e5239bd8fd14b47dca10953d3e302a8",
+    "scorer_code_sha256": "6455431545f463412d5aa015ce327d983e3b29a0a7c33716028920c374f8f81a",
+    "business_facts_sha256": "7ce89f884f6e1cb747b3d9b4e3266b4f72708903626d9287494c8f729d35f657",
+    "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
+    "note": "scored_at/published_at o cap tren giu moc lich su goc (watchdog doc chung nhu tin hieu hoat dong); noi dung da duoc sua theo danh sach sua co sha256 nay, cham diem doc lap luc revised_at"
+  }
 }

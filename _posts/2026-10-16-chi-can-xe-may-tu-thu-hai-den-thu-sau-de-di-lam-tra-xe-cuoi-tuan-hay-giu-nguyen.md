@@ -80,7 +80,7 @@ Ngay cả khi đó, vẫn nên xin cửa hàng báo cả hai phương án. Cách
 
 Nếu công việc kéo dài ba bốn tuần trở lên, hãy hỏi luôn gói tháng thay vì nối gói tuần. Giá tháng đã niêm yết: Honda Vision 1.800.000–2.000.000 đồng, Honda Air Blade 1.500.000 đồng, Honda Click và Yamaha Mio 900.000–1.200.000 đồng. Cách đếm một tháng thuê có trong bài [thuê xe máy một tháng tính thế nào](/hoi-dap/2026/10/14/thue-xe-may-mot-thang-tinh-the-nao-du-30-ngay-hay-den-cung-ngay-thang-sau/).
 
-Chính sách hoàn tiền cho ngày chưa dùng khi kết thúc sớm hiện chưa chốt. Nếu công việc có thể dừng giữa chừng, hãy hỏi cửa hàng khi đặt xe.
+Kết thúc sớm trước kỳ hạn hợp đồng đã ký thì không được hoàn tiền những ngày chưa dùng. Nếu công việc có thể dừng giữa chừng, hãy hỏi cửa hàng khi đặt xe.
 
 ## Giữ xe qua cuối tuần thì cần lưu ý gì
 

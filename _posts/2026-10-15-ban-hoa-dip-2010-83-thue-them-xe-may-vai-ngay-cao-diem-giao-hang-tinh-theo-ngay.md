@@ -54,7 +54,7 @@ Ba ngày Vision tính lẻ là 3 x 200.000 đ, vẫn thấp hơn gói tuần 1.0
 
 Năm ngày Air Blade hay Vision tính lẻ là 1.000.000 đ, bằng đúng gói tuần. Năm ngày Click, Mio hay Wave là 5 x 150.000 đ, đã vượt gói tuần. Từ ngày thứ năm, cộng giá ngày đã chạm hoặc vượt gói tuần của các dòng này, nên muốn giữ xe cả tuần để vừa đi chợ vừa giao đơn đặt sớm thì lấy gói tuần. Giá gói có thể đổi theo thời điểm, hỏi cửa hàng con số cho đúng chiếc bạn nhận.
 
-Gói tuần là bảy ngày liên tục tính từ giờ nhận xe. Trả sớm có được hoàn phần ngày chưa dùng hay không thì hỏi cửa hàng khi đặt xe, đừng tính khoản đó vào ngân sách. So từng mốc ngày có trong bài [giá thuê xe máy theo số ngày: hỏi gói ngày nào rẻ](/thue-xe/2026/10/11/gia-thue-xe-may-giam-theo-so-ngay-hoi-goi-ngay-nao-re/).
+Gói tuần là bảy ngày liên tục tính từ giờ nhận xe. Trả xe trước kỳ hạn hợp đồng đã ký thì không được hoàn tiền phần ngày chưa dùng, nên đừng tính khoản đó vào ngân sách. So từng mốc ngày có trong bài [giá thuê xe máy theo số ngày: hỏi gói ngày nào rẻ](/thue-xe/2026/10/11/gia-thue-xe-may-giam-theo-so-ngay-hoi-goi-ngay-nao-re/).
 
 Ngày 20/10 và 8/3 không phải ngày nghỉ lễ, nhưng là ngày đông việc của tiệm hoa, tiệm quà. Giá cho đúng những ngày bạn thuê hãy xác nhận lúc đặt; vì sao dịp đông giá có thể khác thì xem bài [thuê xe máy ngày lễ giá có tăng không](/thue-xe/2026/10/05/thue-xe-may-ngay-le-gia-co-tang-khong/).
 

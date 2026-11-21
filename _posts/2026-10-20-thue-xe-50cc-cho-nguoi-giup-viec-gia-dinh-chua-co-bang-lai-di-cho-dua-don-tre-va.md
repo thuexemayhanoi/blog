@@ -86,6 +86,6 @@ Tiệm Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở c�
 
 ## Khi nào nên dừng giao xe
 
-Dừng ngay nếu sau vài tuần chị vẫn sợ xe, bé kể xe suýt đổ, hoặc chị tự chở thêm người, đi xa khỏi tuyến đã thống nhất. Khi đó báo tiệm để trả xe; chuyện hoàn tiền ngày chưa dùng nên hỏi cửa hàng ngay lúc đặt.
+Dừng ngay nếu sau vài tuần chị vẫn sợ xe, bé kể xe suýt đổ, hoặc chị tự chở thêm người, đi xa khỏi tuyến đã thống nhất. Khi đó báo tiệm để trả xe; trả trước kỳ hạn hợp đồng đã ký thì không được hoàn tiền phần ngày chưa dùng, nên những tuần đầu hãy thuê kỳ ngắn.
 
 Muốn so sánh thêm các mẫu xe nhỏ, bạn xem mục [xe 50cc](/xe-may/xe-50cc/) hoặc chuyên mục [xe máy](/xe-may/) để chọn chiếc hợp với gia đình.

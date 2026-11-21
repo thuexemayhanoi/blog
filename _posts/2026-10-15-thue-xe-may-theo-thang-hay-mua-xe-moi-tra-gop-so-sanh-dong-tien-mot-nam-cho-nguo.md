@@ -78,7 +78,7 @@ Xăng và gửi xe gần như giống nhau ở hai cột, có thể bỏ qua cho
 
 Ví dụ: một bạn mới ra trường, làm ở Cầu Giấy, ở trọ Mỹ Đình. Sau bốn tháng, công ty chuyển văn phòng sang Long Biên và bạn đổi chỗ trọ sang Gia Lâm. Nếu đang thuê, bạn chỉ cần báo cửa hàng địa chỉ mới, theo cách nêu trong bài [chuyển nhà trọ khi đang thuê xe theo tháng](/thue-xe/2026/10/14/chuyen-nha-tro-khi-dang-thue-xe-theo-thang-bao-dia-chi-moi-va-cho-do-bang-xe-may/). Nếu đang trả góp, việc chuyển chỗ không ảnh hưởng xe, nhưng khoản góp vẫn chạy dù thu nhập có gián đoạn giữa hai công việc.
 
-Trường hợp ngược lại: bạn quyết định rời Hà Nội về quê làm. Người thuê chỉ cần trả xe; chuẩn bị trước theo [checklist trả xe sau một tháng](/thue-xe/2026/10/11/tra-xe-may-thue-sau-mot-thang-checklist-15-phut-truoc-ngay-tra/). Hoàn tiền cho những ngày chưa dùng thì chính sách chưa chốt sẵn, phải hỏi cửa hàng khi đặt xe. Người trả góp thì mang xe về được, nhưng nếu muốn bán khi còn nợ, thường phải tất toán khoản vay trước mới hoàn tất thủ tục sang tên.
+Trường hợp ngược lại: bạn quyết định rời Hà Nội về quê làm. Người thuê chỉ cần trả xe; chuẩn bị trước theo [checklist trả xe sau một tháng](/thue-xe/2026/10/11/tra-xe-may-thue-sau-mot-thang-checklist-15-phut-truoc-ngay-tra/). Lưu ý cửa hàng không hoàn tiền những ngày chưa dùng khi bạn trả xe trước kỳ hạn hợp đồng đã ký, nên nếu có thể sớm về quê thì chọn kỳ thuê ngắn. Người trả góp thì mang xe về được, nhưng nếu muốn bán khi còn nợ, thường phải tất toán khoản vay trước mới hoàn tất thủ tục sang tên.
 
 ## Mua xe máy trả góp có nên không: tự kiểm bằng vài câu hỏi
 

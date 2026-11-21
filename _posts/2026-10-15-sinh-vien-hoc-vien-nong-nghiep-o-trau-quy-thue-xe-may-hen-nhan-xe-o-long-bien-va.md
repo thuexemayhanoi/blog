@@ -84,7 +84,7 @@ Cách chọn theo lịch học:
 
 Nếu chỉ chạy quanh khu trọ, trường và chợ, một chiếc xe số như Wave là đủ dùng. Còn phải chở đồ thí nghiệm, ba lô to hay đi xa hơn vào Hoàn Kiếm, Ba Đình, xe tay ga có cốp sẽ tiện hơn. Chưa quyết được thì kể lịch đi lại để cửa hàng tư vấn.
 
-Muốn đối chiếu thêm, xem [bảng giá](/bang-gia/) trước khi chốt. Nghỉ hè hay về quê dịp Tết, tính ngày trả xe trước ngày đi, đừng để xe nằm ở phòng trọ trong khi vẫn trả tiền thuê. Chuyện hoàn tiền cho những ngày chưa dùng khi trả sớm chưa có chính sách cố định, nên hỏi cửa hàng khi đặt xe.
+Muốn đối chiếu thêm, xem [bảng giá](/bang-gia/) trước khi chốt. Nghỉ hè hay về quê dịp Tết, tính ngày trả xe trước ngày đi, đừng để xe nằm ở phòng trọ trong khi vẫn trả tiền thuê. Ở Nguyễn Tú, trả xe trước kỳ hạn hợp đồng đã ký thì không được hoàn tiền những ngày chưa dùng, nên hãy chốt kỳ thuê sát lịch về quê.
 
 ## Lúc nhận xe và trong thời gian dùng
 
