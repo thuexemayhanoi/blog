@@ -1,0 +1,54 @@
+{%- comment -%}
+  Ảnh thật của cửa hàng gắn vào bài theo dòng xe nêu trong TIÊU ĐỀ (chủ website duyệt 21/11/2026: "cho lên bài phù hợp").
+  Không sửa _posts/ (evidence QA giữ nguyên byte). Chọn tối đa 3 ảnh của đúng model trong _data/photos.yml, xoay vòng theo ngày
+  đăng để các bài cùng chủ đề không lặp y một bộ ảnh. Không có link bên trong; không đổi title/meta/og:image của bài.
+{%- endcomment -%}
+{%- assign pp_t = page.title | downcase -%}
+{%- assign pp_all = site.data.photos.photos -%}
+{%- assign pp_items = '' | split: '' -%}
+{%- assign pp_label = '' -%}
+{%- if pp_t contains 'air blade' or pp_t contains 'airblade' -%}
+  {%- assign pp_items = pp_all | where: 'model', 'airblade' -%}{%- assign pp_label = 'Honda Air Blade' -%}
+{%- elsif pp_t contains 'vision' -%}
+  {%- assign pp_items = pp_all | where: 'model', 'vision' -%}{%- assign pp_label = 'Honda Vision' -%}
+{%- elsif pp_t contains 'click' and pp_t contains 'mio' -%}
+  {%- assign pp_a = pp_all | where: 'model', 'click' -%}{%- assign pp_b = pp_all | where: 'model', 'mio' -%}
+  {%- assign pp_items = pp_a | concat: pp_b -%}{%- assign pp_label = 'Honda Click và Yamaha Mio' -%}
+{%- elsif pp_t contains 'click' -%}
+  {%- assign pp_items = pp_all | where: 'model', 'click' -%}{%- assign pp_label = 'Honda Click' -%}
+{%- elsif pp_t contains 'mio' -%}
+  {%- assign pp_items = pp_all | where: 'model', 'mio' -%}{%- assign pp_label = 'Yamaha Mio' -%}
+{%- elsif pp_t contains '50cc' or pp_t contains '50 cc' -%}
+  {%- assign pp_items = pp_all | where: 'model', '50cc' -%}{%- assign pp_label = 'xe 50cc' -%}
+{%- elsif pp_t contains 'xe máy điện' or pp_t contains 'xe điện' -%}
+  {%- assign pp_items = pp_all | where: 'model', 'dien' -%}{%- assign pp_label = 'xe máy điện' -%}
+{%- elsif pp_t contains 'wave' -%}
+  {%- assign pp_items = pp_all | where: 'model', 'wave' -%}{%- assign pp_label = 'Honda Wave' -%}
+{%- elsif pp_t contains 'xe số' and pp_t contains 'xe ga' or pp_t contains 'xe số' and pp_t contains 'tay ga' -%}
+  {%- assign pp_a = pp_all | where: 'model', 'wave' -%}{%- assign pp_b = pp_all | where: 'model', 'vision' -%}
+  {%- assign pp_items = pp_a | concat: pp_b -%}{%- assign pp_label = 'xe số và xe tay ga' -%}
+{%- elsif pp_t contains 'xe số' -%}
+  {%- assign pp_a = pp_all | where: 'model', 'wave' -%}{%- assign pp_b = pp_all | where: 'model', 'cub' -%}
+  {%- assign pp_items = pp_a | concat: pp_b -%}{%- assign pp_label = 'xe số' -%}
+{%- elsif pp_t contains 'xe ga' or pp_t contains 'tay ga' -%}
+  {%- assign pp_a = pp_all | where: 'model', 'vision' -%}{%- assign pp_b = pp_all | where: 'model', 'click' -%}
+  {%- assign pp_c = pp_all | where: 'model', 'mio' -%}{%- assign pp_d = pp_all | where: 'model', 'airblade' -%}
+  {%- assign pp_items = pp_a | concat: pp_b | concat: pp_c | concat: pp_d -%}{%- assign pp_label = 'xe tay ga' -%}
+{%- endif -%}
+{%- assign pp_n = pp_items.size -%}
+{%- if pp_n > 0 -%}
+{%- assign pp_show = 3 -%}{%- if pp_n < 3 -%}{%- assign pp_show = pp_n -%}{%- endif -%}
+{%- assign pp_off = page.date | date: '%j' | plus: 0 | modulo: pp_n -%}
+<figure class="photo-gallery post-photos">
+  <div class="photo-gallery-grid">
+  {%- for pp_i in (1..pp_show) -%}
+    {%- assign pp_idx = pp_off | plus: pp_i | minus: 1 | modulo: pp_n -%}
+    {%- assign pp_p = pp_items[pp_idx] -%}
+    {%- assign pp_base = '/assets/images/photos/' | append: pp_p.slug | append: '-' -%}
+    {%- capture pp_srcset -%}{%- for w in pp_p.widths -%}{{ pp_base | append: w | append: '.webp' | relative_url }} {{ w }}w{%- unless forloop.last -%}, {% endunless -%}{%- endfor -%}{%- endcapture -%}
+    <img src="{{ pp_base | append: pp_p.widths.first | append: '.webp' | relative_url }}" srcset="{{ pp_srcset }}" sizes="(max-width: 767px) 50vw, 240px" width="{{ pp_p.tw }}" height="{{ pp_p.th }}" alt="{{ pp_p.alt | escape }}" loading="lazy" decoding="async">
+  {%- endfor -%}
+  </div>
+  <figcaption>Ảnh thật {{ pp_label }} tại cửa hàng Nguyễn Tú; biển số đã được làm mờ.</figcaption>
+</figure>
+{%- endif -%}

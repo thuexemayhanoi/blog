@@ -97,6 +97,9 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
       {{ post_body_html }}
     </div>
 
+    {%- comment -%} Ảnh thật của cửa hàng theo dòng xe trong tiêu đề (_includes/post-photos.html); bài không khớp => không in gì. {%- endcomment -%}
+    {% include post-photos.html %}
+
     {%- comment -%} FAQ dùng chung (_data/faq/<slug>.json); không có dữ liệu => không in gì. {%- endcomment -%}
     {% include faq.html key=page.slug %}
 
