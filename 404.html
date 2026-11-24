@@ -23,7 +23,7 @@ robots: noindex,follow
       
       <div class="error-suggestion">
         <p>Bạn có thể thử:</p>
-        <ul>
+        <ul style="list-style: none; padding: 0;">
           <li>Kiểm tra lại URL</li>
           <li>Sử dụng menu điều hướng</li>
           <li><a href="{{ '/chu-de/' | relative_url }}">Duyệt các chủ đề có sẵn</a></li>
@@ -32,3 +32,76 @@ robots: noindex,follow
     </div>
   </div>
 </div>
+
+<style>
+  .error-page {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, var(--color-surface-dark), var(--color-background));
+    padding: var(--spacing-2xl);
+  }
+  
+  .error-content {
+    max-width: 600px;
+    padding: var(--spacing-2xl);
+    text-align: center;
+  }
+  
+  .error-content h1 {
+    font-size: var(--font-size-3xl);
+    color: var(--color-primary);
+    margin-bottom: var(--spacing-md);
+  }
+  
+  .error-content h2 {
+    font-size: var(--font-size-2xl);
+    color: var(--color-text);
+    margin-bottom: var(--spacing-md);
+  }
+  
+  .error-content p {
+    font-size: var(--font-size-sm);
+    color: var(--color-text-secondary);
+    margin-bottom: var(--spacing-xl);
+  }
+  
+  .error-actions {
+    display: flex;
+    gap: var(--spacing-md);
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: var(--spacing-xl);
+  }
+  
+  .error-suggestion {
+    text-align: left;
+  }
+  
+  .error-suggestion p {
+    font-size: var(--font-size-sm);
+    color: var(--color-text-secondary);
+    margin-bottom: var(--spacing-sm);
+  }
+  
+  .error-suggestion ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .error-suggestion li {
+    font-size: var(--font-size-sm);
+    color: var(--color-text);
+    margin-bottom: var(--space-xs);
+    padding-left: var(--spacing-md);
+    position: relative;
+  }
+  
+  .error-suggestion li::before {
+    content: '';
+    color: var(--color-primary);
+    position: absolute;
+    left: 0;
+  }
+</style>

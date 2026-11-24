@@ -11,13 +11,10 @@
   {% include seo.html %}
   {% feed_meta %}
   
-  {%- comment -%}
-    Design System "Số nhà 112" (docs/DESIGN-SYSTEM.md): ds.css cho mọi trang + một tệp theo layout (ds-home.css / ds-article.css).
-    Font hiển thị tự host (2 tệp WOFF2, có tiếng Việt) KHÔNG preload: đo lab cho thấy preload làm FCP/LCP chậm ~150–200 ms trên 4G chậm;
-    font-display: swap + font dự phòng khớp bề rộng (BSD Fallback trong ds.css) giữ CLS = 0 khi font tải xong.
-    Đổi CSS thì đổi chuỗi ?v= để trình duyệt không dùng bản cũ trong 10 phút cache của GitHub Pages.
-  {%- endcomment %}
-  <link rel="stylesheet" href="{{ '/assets/css/ds.css' | relative_url }}?v=20261124-ds1">
+  <link rel="stylesheet" href="{{ '/assets/css/tokens.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/base.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/components.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/responsive.css' | relative_url }}">
   {%- comment -%}
     Price notices on published posts render pricing-rate-table.html even when
     page.pricing_table is unset. Load the same responsive styles for those posts
@@ -27,10 +24,11 @@
   {% if page.pricing_table or has_price_notice %}
   <link rel="stylesheet" href="{{ '/assets/css/pricing-table.css' | relative_url }}?v=20261117-price-notice">
   {% endif %}
+  {%- comment -%} Bài viết dùng Post Design System (assets/css/post-ds.css, docs/POST-DESIGN-SYSTEM.md) thay cho lớp editorial; trang chủ giữ nguyên editorial.css. {%- endcomment %}
   {% if page.layout == 'home' %}
-  <link rel="stylesheet" href="{{ '/assets/css/ds-home.css' | relative_url }}?v=20261124-ds1">
+  <link rel="stylesheet" href="{{ '/assets/css/editorial.css' | relative_url }}">
   {% elsif page.layout == 'post' %}
-  <link rel="stylesheet" href="{{ '/assets/css/ds-article.css' | relative_url }}?v=20261124-ds1">
+  <link rel="stylesheet" href="{{ '/assets/css/post-ds.css' | relative_url }}?v=20261124-pds1">
   {% endif %}
   
   <script>

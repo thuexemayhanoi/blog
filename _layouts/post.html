@@ -38,7 +38,51 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
 {% assign art_h2s = art_content | split: '<h2 id="' %}
 {% assign art_h2_count = art_h2s.size | minus: 1 %}
 
-<article class="post-detail">
+{%- comment -%}
+  POST DESIGN SYSTEM (docs/POST-DESIGN-SYSTEM.md) — áp dụng lúc render, KHÔNG sửa _posts/.
+  Mỗi mục H2 của bài được bọc trong <section class="pds-sec"> và, khi tiêu đề H2 sẵn có cho biết loại nội dung,
+  gắn thêm một lớp thành phần: summary (tóm lại/kết luận), qa (câu hỏi thường gặp), sources (nguồn đối chiếu),
+  contact (báo tiệm/liên hệ), warning (lưu ý), tip (mẹo/kinh nghiệm), steps (các bước/quy trình),
+  checklist (danh sách kiểm tra/chuẩn bị), compare (so sánh). Chữ, heading, liên kết của bài giữ nguyên từng ký tự;
+  chỉ thêm thẻ bọc và class. Thẻ dạng "card" (summary, qa, sources, contact, warning, tip) dùng tối đa một lần mỗi bài;
+  warning/tip chỉ thành card khi mục ngắn. Bài không có mục nào khớp thì chỉ dùng typography chung.
+{%- endcomment -%}
+{%- assign pds_used = '' -%}
+{%- assign pds_numbered = false -%}
+{%- capture pds_sections -%}
+{%- for h2 in art_h2s offset: 1 -%}
+  {%- assign pds_text = h2 | split: '</h2>' | first | split: '">' | last | strip_html | downcase -%}
+  {%- assign pds_kind = '' -%}
+  {%- if pds_text contains 'câu hỏi thường gặp' or pds_text contains 'hỏi đáp' or pds_text contains 'hỏi nhanh' or pds_text contains 'faq' -%}{%- assign pds_kind = 'qa' -%}
+  {%- elsif pds_text contains 'nguồn tham khảo' or pds_text contains 'nguồn đối chiếu' or pds_text contains 'ghi chú về nguồn' or pds_text contains 'ghi chú về thông tin' or pds_text contains 'điều bài không khẳng định' or pds_text contains 'chưa kiểm chứng' -%}{%- assign pds_kind = 'sources' -%}
+  {%- elsif pds_text contains 'báo tiệm' or pds_text contains 'liên hệ tiệm' or pds_text contains 'hỗ trợ tại hà nội' or pds_text contains 'liên hệ nguyễn tú' or pds_text contains 'liên hệ cửa hàng' or pds_text contains 'số liên hệ' -%}{%- assign pds_kind = 'contact' -%}
+  {%- elsif pds_text contains 'tóm lại' or pds_text contains 'kết lại' or pds_text contains 'chốt lại' or pds_text contains 'kết luận' or pds_text contains 'lời kết' or pds_text contains 'gói lại' or pds_text contains 'tổng kết' or pds_text contains 'tóm tắt' or pds_text contains 'ghi nhớ' -%}{%- assign pds_kind = 'summary' -%}
+  {%- elsif pds_text contains 'lưu ý' or pds_text contains 'cảnh báo' or pds_text contains 'sai lầm' or pds_text contains 'rủi ro' or pds_text contains 'không nên' -%}{%- assign pds_kind = 'warning' -%}
+  {%- elsif pds_text contains 'mẹo' or pds_text contains 'kinh nghiệm' or pds_text contains 'bí quyết' -%}{%- assign pds_kind = 'tip' -%}
+  {%- elsif pds_text contains 'các bước' or pds_text contains 'quy trình' or pds_text contains 'từng bước' or pds_text contains 'trình tự' -%}{%- assign pds_kind = 'steps' -%}
+  {%- elsif pds_text contains 'checklist' or pds_text contains 'danh sách kiểm tra' or pds_text contains 'kiểm tra trước' or pds_text contains 'cần chuẩn bị' or pds_text contains 'chuẩn bị gì' or pds_text contains 'mang theo' -%}{%- assign pds_kind = 'checklist' -%}
+  {%- elsif pds_text contains 'so sánh' or pds_text contains 'khác nhau' -%}{%- assign pds_kind = 'compare' -%}
+  {%- endif -%}
+  {%- assign pds_card = '' -%}
+  {%- if pds_kind == 'qa' or pds_kind == 'sources' or pds_kind == 'contact' or pds_kind == 'summary' or pds_kind == 'warning' or pds_kind == 'tip' -%}
+    {%- if pds_used contains pds_kind -%}
+      {%- assign pds_kind = '' -%}
+    {%- else -%}
+      {%- assign pds_used = pds_used | append: pds_kind | append: ' ' -%}
+      {%- if pds_kind == 'warning' or pds_kind == 'tip' -%}
+        {%- assign pds_len = h2 | strip_html | size -%}
+        {%- if pds_len < 900 -%}{%- assign pds_card = ' pds-sec--card' -%}{%- endif -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endif -%}
+  {%- assign pds_first = pds_text | slice: 0 -%}
+  {%- if pds_first != '' and '0123456789' contains pds_first -%}{%- assign pds_numbered = true -%}{%- endif -%}
+<section class="pds-sec{% if pds_kind != '' %} pds-sec--{{ pds_kind }}{{ pds_card }}{% endif %}"><h2 id="{{ h2 }}</section>
+{% endfor -%}
+{%- endcapture -%}
+{%- capture pds_body -%}{{ art_h2s.first }}{{ pds_sections }}{%- endcapture %}
+
+<article class="post-detail" data-pds="1"{% if pds_numbered %} data-pds-numbered="1"{% endif %}>
   <div class="reading-progress" aria-hidden="true"><span class="reading-progress-bar"></span></div>
   <header class="post-header">
     <div class="container">
@@ -82,8 +126,8 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
         </ol>
       </details>
     </nav>
-    {%- comment -%} Điện thoại: thu gọn mục lục trước lần vẽ đầu (không lệch bố cục) để nội dung bắt đầu ngay; không có JS thì mục lục vẫn mở. {%- endcomment %}
-    <script>if(window.matchMedia&&matchMedia('(max-width:767px)').matches){var t=document.querySelector('.article-toc details');if(t)t.removeAttribute('open')}</script>
+    {%- comment -%} Điện thoại và máy tính bảng: thu gọn mục lục trước lần vẽ đầu (không lệch bố cục); máy tính: mục lục là ray dính bên phải. Không có JS thì mục lục vẫn mở. {%- endcomment %}
+    <script>if(window.matchMedia&&matchMedia('(max-width:1099px)').matches){var t=document.querySelector('.article-toc details');if(t)t.removeAttribute('open')}</script>
     {% endif %}
 
     {%- comment -%}
@@ -94,7 +138,12 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
       Một số bài factory viết link tới URL legacy dạng thô "/kinh nghiệm/…", "/chia sẻ/…", "/du lịch/…" (có dấu cách). Chuẩn hóa về dạng
       percent-encoded đúng như canonical/sitemap (46 href, 30 bài; SEO wave 4 CRAWL-03). Không sửa _posts/.
     {%- endcomment -%}
-    {%- assign post_body_html = art_content | replace: '//">', '/">' | replace: 'href="/kinh nghiệm/', 'href="/kinh%20nghi%E1%BB%87m/' | replace: 'href="/chia sẻ/', 'href="/chia%20s%E1%BA%BB/' | replace: 'href="/du lịch/', 'href="/du%20l%E1%BB%8Bch/' -%}
+    {%- assign post_body_html = pds_body | replace: '//">', '/">' | replace: 'href="/kinh nghiệm/', 'href="/kinh%20nghi%E1%BB%87m/' | replace: 'href="/chia sẻ/', 'href="/chia%20s%E1%BA%BB/' | replace: 'href="/du lịch/', 'href="/du%20l%E1%BB%8Bch/' -%}
+    {%- comment -%}
+      Post Design System: bảng Markdown được bọc trong khung cuộn ngang (thân trang không tràn, bàn phím cuộn được);
+      tiêu đề "Ưu điểm…" / "Nhược điểm…" sẵn có được gắn class để danh sách ngay sau hiển thị dạng ưu/nhược.
+    {%- endcomment -%}
+    {%- assign post_body_html = post_body_html | replace: '<table>', '<div class="pds-table" tabindex="0"><table>' | replace: '</table>', '</table></div>' | replace: '">Ưu điểm', '" class="pds-pros">Ưu điểm' | replace: '">Nhược điểm', '" class="pds-cons">Nhược điểm' -%}
     <div class="post-content article-body">
       {{ post_body_html }}
     </div>
@@ -134,4 +183,4 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
     {% include post-cta.html %}
   </div>
 </article>
-<script defer src="{{ '/assets/js/reading-progress.js' | relative_url }}"></script>
+<script defer src="{{ '/assets/js/post-ds.js' | relative_url }}?v=20261124-pds1"></script>
