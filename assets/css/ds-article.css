@@ -1,0 +1,295 @@
+@charset "UTF-8";
+/* ==========================================================================
+   SỐ NHÀ 112 — Trang bài viết. Tải sau ds.css, chỉ ở layout post.
+   Việc số 1: đọc 800–2.000 chữ tiếng Việt trên điện thoại cho thoải mái.
+   ========================================================================== */
+
+/* Thanh tiến độ đọc = vạch kẻ đường chạy đè lên dải men xanh của đầu trang */
+.reading-progress {
+  position: fixed;
+  inset: 0 0 auto;
+  z-index: calc(var(--z-header) + 1);
+  height: 3px;
+  pointer-events: none;
+}
+.reading-progress-bar {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: var(--signal-500);
+  transform: scaleX(0);
+  transform-origin: left center;
+  will-change: transform;
+}
+
+/* 1. ĐẦU BÀI ----------------------------------------------------------------- */
+.post-header { padding: clamp(1.25rem, .75rem + 2.4vw, 2.75rem) 0 0; }
+.post-header .breadcrumb { margin-bottom: var(--s-5); }
+@media (max-width: 767px) {
+  .post-header .breadcrumb [aria-current="page"] { display: none; }
+}
+.post-header h1 {
+  max-width: 21em;
+  font-size: clamp(2.125rem, 1.45rem + 3vw, 4rem);
+  line-height: 1.06;
+  text-wrap: balance;
+}
+.post-dek {
+  max-width: var(--measure);
+  margin: var(--s-4) 0 0;
+  color: var(--fg-2);
+  font-size: var(--fs-lead);
+  line-height: 1.6;
+}
+.post-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .35rem 1.4rem;
+  margin-top: var(--s-5);
+  padding: var(--s-3) 0;
+  border-top: 2px solid var(--fg);
+  border-bottom: 2px dashed var(--rule-strong);
+  color: var(--fg-2);
+  font: 700 var(--fs-label)/1.4 var(--font-display);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+}
+.post-meta > span {
+  display: inline-flex;
+  align-items: center;
+  gap: .45em;
+  font-size: inherit;
+  color: inherit;
+}
+.post-meta .svg-icon { width: 15px; height: 15px; color: var(--fg-3); }
+.post-meta a { color: inherit; }
+
+/* 2. BỐ CỤC: một cột đọc; màn rộng có ray mục lục dính bên phải ---------------- */
+.post-detail > .container { padding-top: var(--s-6); }
+.post-detail > .container > * { max-width: var(--measure); }
+.post-detail > .container > :is(.post-navigation, .article-related, .post-cta) { max-width: 62rem; }
+
+@media (min-width: 1100px) {
+  .post-detail > .container {
+    display: grid;
+    grid-template-columns: minmax(0, var(--measure)) minmax(0, 19rem);
+    column-gap: clamp(2.5rem, 5vw, 5rem);
+    align-items: start;
+  }
+  .post-detail > .container > * { grid-column: 1; min-width: 0; }
+  .post-detail > .container > :is(.post-navigation, .article-related, .post-cta) {
+    grid-column: 1 / -1;
+    max-width: none;
+  }
+  .post-detail > .container > .article-toc {
+    grid-column: 2;
+    grid-row: 1 / span 6;
+    position: sticky;
+    top: calc(var(--header-h) + var(--s-5));
+    max-height: calc(100dvh - var(--header-h) - var(--s-7));
+    margin: 0;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+}
+
+/* 3. MỤC LỤC: lộ trình của bài ------------------------------------------------ */
+.article-toc {
+  margin: 0 0 var(--s-6);
+  background: var(--bg-raised);
+  border: 2px solid var(--fg);
+  border-radius: var(--r-3);
+}
+.article-toc summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 52px;
+  padding: 0 var(--s-4);
+  list-style: none;
+  font: 800 1.125rem/1 var(--font-display);
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+.article-toc summary::-webkit-details-marker { display: none; }
+.article-toc summary::after {
+  content: "";
+  width: .55em;
+  height: .55em;
+  margin-right: .2em;
+  border-right: 2.5px solid currentColor;
+  border-bottom: 2.5px solid currentColor;
+  transform: translateY(-20%) rotate(45deg);
+  transition: transform var(--t-2) var(--ease-out);
+}
+.article-toc details[open] summary::after { transform: translateY(15%) rotate(-135deg); }
+.article-toc ol {
+  margin: 0;
+  padding: 0 var(--s-4) var(--s-3);
+  list-style: none;
+  counter-reset: ds-toc;
+}
+.article-toc li {
+  counter-increment: ds-toc;
+  display: grid;
+  grid-template-columns: 1.9rem minmax(0, 1fr);
+  align-items: baseline;
+  padding: .5rem 0;
+  border-top: 1px dashed var(--rule-strong);
+}
+.article-toc li::before {
+  content: counter(ds-toc, decimal-leading-zero);
+  color: var(--fg-3);
+  font: 700 .75rem/1 var(--font-display);
+  letter-spacing: .08em;
+  font-variant-numeric: tabular-nums;
+}
+.article-toc a {
+  color: var(--fg);
+  font-size: .9375rem;
+  font-weight: 600;
+  line-height: 1.4;
+  text-decoration: none;
+}
+.article-toc a:hover { color: var(--link-hover); text-decoration: underline; }
+
+/* 4. THÂN BÀI ----------------------------------------------------------------- */
+.article-body {
+  font-size: 1.0625rem;
+  line-height: 1.75;
+  overflow-wrap: break-word;
+}
+.article-body > :first-child { margin-top: 0; }
+.article-body p { margin: 0 0 1.3em; }
+.article-body h2 {
+  margin: 2.2em 0 .7em;
+  padding-top: .85em;
+  border-top: 2px dashed var(--rule-strong);
+  font-size: clamp(1.75rem, 1.5rem + 1.1vw, 2.375rem);
+  line-height: 1.1;
+  scroll-margin-top: calc(var(--header-h) + 1rem);
+}
+.article-body > h2:first-child { padding-top: 0; border-top: 0; }
+.article-body h3 {
+  margin: 1.8em 0 .5em;
+  font-size: clamp(1.375rem, 1.25rem + .5vw, 1.625rem);
+  line-height: 1.16;
+  scroll-margin-top: calc(var(--header-h) + 1rem);
+}
+.article-body :is(ul, ol) { margin: 0 0 1.3em; padding-left: 1.35em; }
+.article-body li { margin-bottom: .5em; }
+.article-body li > :is(ul, ol) { margin: .5em 0 0; }
+.article-body ul { list-style: square; }
+.article-body li::marker { color: var(--brand); font-weight: 700; }
+[data-theme="dark"] .article-body li::marker { color: var(--link); }
+.article-body a {
+  color: var(--link);
+  text-decoration: underline;
+  text-decoration-thickness: .08em;
+  text-underline-offset: .2em;
+}
+.article-body a:hover { color: var(--link-hover); text-decoration-thickness: .14em; }
+.article-body blockquote {
+  margin: 1.75em 0;
+  padding: var(--s-4) var(--s-5);
+  background: var(--bg-sunken);
+  border-left: 4px solid var(--brand);
+  border-radius: 0 var(--r-2) var(--r-2) 0;
+}
+.article-body blockquote > :last-child { margin-bottom: 0; }
+.article-body code {
+  padding: .1em .35em;
+  background: var(--bg-sunken);
+  border-radius: 4px;
+  font: .9em/1.4 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+.article-body hr { margin: 2.2em 0; border-top: 2px dashed var(--rule-strong); }
+@media (min-width: 768px) {
+  .article-body { font-size: 1.125rem; }
+}
+
+/* 5. LƯU Ý CẬP NHẬT (pháp lý, giá) ------------------------------------------- */
+.legal-notice,
+.price-notice {
+  margin: 0 0 var(--s-6);
+  padding: var(--s-4) var(--s-5);
+  background: var(--bg-raised);
+  border: 2px solid var(--accent);
+  border-radius: var(--r-3);
+  font-size: .9375rem;
+  line-height: 1.6;
+}
+.legal-notice h2,
+.price-notice > h2 {
+  margin: 0 0 var(--s-2);
+  color: var(--accent);
+  font-size: 1.375rem;
+  letter-spacing: .03em;
+  text-transform: uppercase;
+}
+.legal-notice ul { margin: 0; padding-left: 1.2em; }
+.legal-notice li { margin-bottom: .4em; }
+.legal-notice p:last-child,
+.price-notice p:last-child { margin-bottom: 0; }
+.price-notice { max-width: none !important; }
+
+/* 6. CÙNG CHỦ ĐỀ, BÀI TRƯỚC/SAU, LIÊN QUAN ----------------------------------- */
+.topic-siblings { margin-block: var(--s-7); }
+.topic-siblings h2 {
+  margin-bottom: var(--s-3);
+  font-size: var(--fs-h3);
+  text-transform: uppercase;
+}
+.topic-siblings ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-top: 2px solid var(--fg);
+}
+.topic-siblings li { border-bottom: 1px dashed var(--rule-strong); }
+.topic-siblings a {
+  display: block;
+  padding: .7rem 0;
+  color: var(--fg);
+  font-weight: 600;
+  line-height: 1.4;
+  text-decoration: none;
+}
+.topic-siblings a:hover { color: var(--link-hover); text-decoration: underline; }
+
+.post-navigation {
+  display: grid;
+  gap: var(--s-3);
+  margin-block: var(--s-7) var(--s-6);
+}
+.post-navigation .nav-link {
+  display: flex;
+  align-items: flex-start;
+  gap: .6rem;
+  min-height: 64px;
+  padding: var(--s-4);
+  border: 2px solid var(--rule-strong);
+  border-radius: var(--r-3);
+  color: var(--fg);
+  font-weight: 600;
+  line-height: 1.4;
+  text-decoration: none;
+  transition: border-color var(--t-1) linear, background-color var(--t-1) linear;
+}
+.post-navigation .nav-link:hover { border-color: var(--fg); background: var(--bg-raised); color: var(--fg); }
+.post-navigation .nav-link .svg-icon { flex: none; margin-top: .15em; color: var(--brand); }
+[data-theme="dark"] .post-navigation .nav-link .svg-icon { color: var(--link); }
+.post-navigation .next { justify-content: flex-end; text-align: right; }
+@media (min-width: 768px) {
+  .post-navigation { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .post-navigation .next:only-child { grid-column: 2; }
+}
+
+.article-related { margin-block: var(--s-7); }
+.article-related > h2 {
+  margin-bottom: var(--s-4);
+  text-transform: uppercase;
+}
+.article-related .post-grid { grid-template-columns: repeat(auto-fill, minmax(min(100%, 17rem), 1fr)); }

@@ -82,6 +82,8 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
         </ol>
       </details>
     </nav>
+    {%- comment -%} Điện thoại: thu gọn mục lục trước lần vẽ đầu (không lệch bố cục) để nội dung bắt đầu ngay; không có JS thì mục lục vẫn mở. {%- endcomment %}
+    <script>if(window.matchMedia&&matchMedia('(max-width:767px)').matches){var t=document.querySelector('.article-toc details');if(t)t.removeAttribute('open')}</script>
     {% endif %}
 
     {%- comment -%}

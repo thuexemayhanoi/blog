@@ -13,19 +13,24 @@ description: "{{ site.description }}"
 <section class="hero hero--text-only">
   <div class="container">
     <div class="hero-content">
-      <h1 class="hero-title">{{ page.hero_title | default: site.title | escape }}</h1>
+      {%- comment -%}
+        H1 và đoạn mô tả hero là chuỗi đóng băng (scripts/seo/frozen-homepage.json): chữ giữ nguyên từng ký tự.
+        Chỉ bọc dải phân khối trong <span> để tô màu men xanh; không thêm khoảng trắng hay xuống dòng trong thẻ h1.
+      {%- endcomment %}
+      {%- assign hero_h1 = page.hero_title | default: site.title | escape %}
+      <h1 class="hero-title">{{ hero_h1 | replace: '50cc–125cc', '<span class="hero-cc">50cc–125cc</span>' }}</h1>
       <p class="hero-subtitle">{{ page.hero_description | default: page.description | default: site.description | escape }}</p>
       
       <div class="hero-cta">
-        <a href="{{ '/tim-kiem/' | relative_url }}" class="btn btn-primary">🔎 Tìm bài thông minh</a>
+        <a href="{{ '/tim-kiem/' | relative_url }}" class="btn btn-primary"><span class="btn-emoji" aria-hidden="true">🔎</span>{% include_cached icon.html name="search" size="18" %} Tìm bài thông minh</a>
         <a href="{{ '/bai-viet/' | relative_url }}" class="btn btn-secondary">Xem Blog</a>
         <a href="{{ '/bang-gia/' | relative_url }}" class="btn btn-secondary">Xem Bảng Giá</a>
         <a href="{{ business.contact.phone_uri }}" class="btn btn-outline">Gọi {{ business.contact.phone }}</a>
         <a href="{{ business.contact.zalo }}" class="btn btn-outline">Zalo</a>
       </div>
     </div>
-    
-
+    {%- comment -%} Tấm biển men số nhà: trang trí (aria-hidden, không có chữ trong DOM; số và tên phố do CSS sinh từ địa chỉ thật). {%- endcomment %}
+    <div class="hero-plate" aria-hidden="true"><span class="hero-plate__no"></span><span class="hero-plate__st"></span></div>
   </div>
 </section>
 

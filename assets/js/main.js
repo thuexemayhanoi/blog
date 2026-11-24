@@ -361,12 +361,31 @@
     }
   };
 
+  /* "Đồng hồ" (Design System Số nhà 112): khi máy tính giá đổi kết quả, con số nhảy lên một nhịp
+     để người dùng thấy giá vừa được tính lại. Chỉ gắn hiệu ứng CSS (.is-ticking); calculator.js
+     vẫn tự ghi giá trị cuối cùng, không phụ thuộc vào đoạn này. */
+  var ResultTicker = {
+    init: function() {
+      if (typeof MutationObserver !== 'function') return;
+      ['estimated-price', 'estimated-deposit'].forEach(function(id) {
+        var el = document.getElementById(id);
+        if (!el) return;
+        new MutationObserver(function() {
+          el.classList.remove('is-ticking');
+          void el.offsetWidth;
+          el.classList.add('is-ticking');
+        }).observe(el, { childList: true, characterData: true, subtree: true });
+      });
+    }
+  };
+
   function init() {
     ThemeManager.init();
     MobileMenu.init();
     BusinessStatus.init();
     Dropdown.init();
     FooterAccordion.init();
+    ResultTicker.init();
   }
 
   if (document.readyState === 'loading') {

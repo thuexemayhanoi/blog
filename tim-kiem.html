@@ -55,32 +55,4 @@ sitemap: false
     </aside>
   </div>
 </section>
-<style>
-  .site-search-page { min-height: 65vh; }
-  .site-search-heading { max-width: 760px; margin: 0 auto var(--spacing-xl); }
-  .site-search-eyebrow { font-weight: 700; color: var(--color-primary); letter-spacing: .06em; text-transform: uppercase; font-size: var(--font-size-xs); }
-  .site-search-form { max-width: 900px; margin: 0 auto var(--spacing-md); border: 1px solid var(--color-border); border-radius: var(--radius-lg); padding: var(--spacing-lg); }
-  .site-search-form label { display: block; font-weight: var(--font-weight-semibold); margin-bottom: var(--spacing-sm); }
-  .site-search-control { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
-  .site-search-control input { flex: 1 1 260px; min-width: 0; padding: var(--spacing-sm) var(--spacing-md); min-height: 46px; border: 1px solid var(--color-border-dark); border-radius: var(--radius-md); background: var(--color-surface); color: var(--color-text); }
-  .site-search-control button { min-height: 46px; }
-  .site-search-samples { max-width: 900px; margin: 0 auto var(--spacing-lg); display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
-  .site-search-samples span { font-weight: 600; color: var(--color-text-secondary); }
-  .site-search-samples a { display: inline-flex; min-height: 42px; align-items: center; padding: 6px 12px; border: 1px solid var(--color-border); border-radius: 999px; color: var(--color-text); background: var(--color-surface); text-decoration: none; }
-  .site-search-samples a:hover, .site-search-samples a:focus-visible { border-color: var(--color-primary); text-decoration: underline; }
-  .site-search-scope { max-width: 900px; margin: 0 auto var(--spacing-2xl); color: var(--color-text-secondary); }
-  .site-search-scope a { font-weight: var(--font-weight-semibold); }
-  .site-search-output { max-width: 900px; margin: 0 auto var(--spacing-2xl); }
-  .site-search-results-heading { margin-bottom: var(--spacing-md); }
-  .site-search-results { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 310px), 1fr)); gap: var(--spacing-md); list-style: none; padding: 0; margin: 0; }
-  .site-search-result { border: 1px solid var(--color-border); background: var(--color-surface); border-radius: var(--radius-lg); padding: var(--spacing-lg); box-shadow: var(--shadow-sm); overflow-wrap: anywhere; }
-  .site-search-result a { color: var(--color-text); font-size: var(--font-size-md); font-weight: var(--font-weight-semibold); }
-  .site-search-result a:hover, .site-search-result a:focus-visible { color: var(--color-primary); text-decoration: underline; }
-  .site-search-result p { color: var(--color-text-secondary); font-size: var(--font-size-xs); margin: var(--spacing-sm) 0 0; line-height: var(--line-height-relaxed); }
-  .site-search-explore { max-width: 900px; margin: 0 auto; border-top: 1px solid var(--color-border); padding-top: var(--spacing-xl); }
-  .site-search-topics { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
-  .site-search-topics a { display: inline-flex; align-items: center; padding: var(--spacing-xs) var(--spacing-md); border: 1px solid var(--color-border); border-radius: var(--radius-full); background: var(--color-surface); }
-  .site-search-topics a:hover { border-color: var(--color-primary); background: var(--color-primary-light); }
-  @media(max-width: 599px) { .site-search-control button { width: 100%; } }
-</style>
 <script defer src="{{ '/assets/js/site-search.js' | relative_url }}"></script>
