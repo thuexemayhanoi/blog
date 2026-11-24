@@ -122,6 +122,9 @@ Master Matrix: `reports/theme-upgrade/post-design-matrix.xlsx` (mỗi bài một
 ## 7. Ngân sách hiệu năng
 
 - Một stylesheet riêng cho bài (thay `editorial.css` trên trang bài), một script `defer`; không thêm request font/ảnh.
+- `assets/css/post-ds.css` là nguồn có chú thích; lúc build Jekyll tự bỏ chú thích `/* … */` và gộp khoảng trắng (khối Liquid ở
+  đầu/cuối file), file phục vụ ≈ 5,4 KB khi nén. Quy ước: không viết `/*` hay `*/` trong chuỗi/URL, không dựa vào hai dấu cách
+  liền nhau trong chuỗi, không để một giá trị xuống dòng mà dòng sau không thụt lề.
 - Không dùng `backdrop-filter`, animation lặp, gradient động. Thẻ dùng nền phẳng + viền 1px.
 - Không gây lệch bố cục: kích thước ảnh giữ nguyên từ include, mục lục thu gọn trước lần vẽ đầu, accordion chỉ mở câu đầu.
 - Đo lại bằng PageSpeed/Lighthouse mỗi lần đổi `post-ds.css` hoặc `post-ds.js`; đổi file thì tăng tham số `?v=` trong layout.

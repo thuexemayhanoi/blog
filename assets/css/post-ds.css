@@ -1,4 +1,14 @@
-@charset "UTF-8";
+---
+layout: null
+permalink: /assets/css/post-ds.css
+sitemap: false
+---
+{%- comment -%}
+  Nguồn dễ đọc của Post Design System. Lúc build, Jekyll bỏ mọi chú thích /* … */ và gộp khoảng trắng
+  (xem khối Liquid ở cuối file) để file phục vụ nhỏ hơn ~30% khi nén; không cần công cụ build nào khác.
+  Quy ước để việc gộp an toàn: không viết "/*" hay "*/" trong chuỗi/URL; không dựa vào hai dấu cách liền nhau trong chuỗi.
+{%- endcomment -%}
+{%- capture pds_css -%}
 /* ==========================================================================
    POST DESIGN SYSTEM — hệ trình bày dùng chung cho mọi bài viết (layout: post).
    Tài liệu: docs/POST-DESIGN-SYSTEM.md. Sửa ở đây là đồng bộ toàn bộ bài.
@@ -1031,3 +1041,13 @@
   .post-detail .article-toc summary::after { transition: none; }
   .post-detail .article-related .post-card:hover { transform: none; }
 }
+{%- endcapture -%}
+{%- assign pds_parts = pds_css | split: '/*' -%}
+{%- capture pds_min -%}
+  {%- for pds_part in pds_parts -%}
+    {%- if forloop.first -%}{{ pds_part }}{%- else -%}{{ pds_part | append: ' ' | split: '*/' | last }}{%- endif -%}
+  {%- endfor -%}
+{%- endcapture -%}
+@charset "UTF-8";
+/* Post Design System — nguồn có chú thích: assets/css/post-ds.css trong repo; tài liệu: docs/POST-DESIGN-SYSTEM.md */
+{{ pds_min | strip_newlines | replace: '        ', ' ' | replace: '    ', ' ' | replace: '  ', ' ' | replace: '  ', ' ' | strip }}

@@ -46,7 +46,7 @@ COMPONENTS = OrderedDict([
 # Thành phần khung, bài nào cũng có: không tính vào quyết định KEEP/FIX.
 CHROME = ("highlight", "related", "cta", "number")
 EXTRA = OrderedDict([
-    ("sources", "Nguồn đối chiếu (chú thích)"),
+    ("sources", "Nguồn đối chiếu"),
     ("legal", "Lưu ý pháp lý"),
     ("price", "Lưu ý bảng giá"),
     ("photos", "Ảnh thực tế + chú thích"),
@@ -63,7 +63,7 @@ def components_of(row):
     found = OrderedDict()
     if "summary" in kinds:
         found["summary"] = "thẻ"
-    if row.get("title"):
+    if row.get("dek"):
         found["highlight"] = "sapo"
     if "tip" in kinds:
         found["tip"] = kinds["tip"]
@@ -145,7 +145,7 @@ def main():
     inventory, measured, checked = load(opts.qa)
     invariance = load_invariance(opts.invariance)
 
-    headers = ["STT", "Lô", "URL", "Tiêu đề (H1)", "Ngày đăng", "Số từ (thân bài)", "Số H2", "Số H3",
+    headers = ["STT", "Lô", "URL", "Tiêu đề (H1)", "Chuyên mục", "Ngày đăng", "Số từ (thân bài)", "Số H2", "Số H3",
                "Quyết định", "Số thành phần nội dung", "Thành phần nội dung áp dụng", "Thành phần khung",
                "Phần bổ trợ", "QA hiển thị", "Tràn ngang 390/820/1440 (px)", "CLS", "Lỗi JS/HTTP",
                "SEO bất biến (title/meta/H1/URL/canonical/link/chữ)", "Ghi chú"]
@@ -160,7 +160,7 @@ def main():
         bucket["total"] += 1
         row = measured.get(url)
         if row is None:
-            rows.append([item["n"], batch, url, "", "", "", "", "", "PENDING", "", "", "", "", "PENDING", "", "", "", "", "chưa QA"])
+            rows.append([item["n"], batch, url, "", "", "", "", "", "", "PENDING", "", "", "", "", "PENDING", "", "", "", "", "chưa QA"])
             stats["pending"] += 1
             bucket["pending"] += 1
             continue
@@ -182,7 +182,8 @@ def main():
         note = "; ".join(row.get("issues", [])) if row.get("issues") else (
             "typography chung, không cần thành phần riêng" if decision == "KEEP" else "")
         rows.append([
-            item["n"], batch, url, row.get("title", "").strip(), row.get("date", ""), row.get("words", ""),
+            item["n"], batch, url, row.get("title", "").strip(), " › ".join(row.get("crumbs", [])[2:4]),
+            row.get("date", ""), row.get("words", ""),
             row.get("h2", ""), row.get("h3", ""), decision, len(content),
             ", ".join("%s (%s)" % (COMPONENTS[key], found[key]) for key in content),
             ", ".join(COMPONENTS[key] for key in chrome),
@@ -213,11 +214,11 @@ def main():
     for row in rows:
         sheet.append(row)
     for index, row in enumerate(rows, start=2):
-        for col in (9, 14, 18):
+        for col in (10, 15, 19):
             fill = fills.get(str(row[col - 1]))
             if fill:
                 sheet.cell(row=index, column=col).fill = fill
-    widths = [7, 6, 70, 60, 12, 10, 7, 7, 11, 10, 60, 44, 40, 11, 16, 8, 9, 20, 50]
+    widths = [7, 6, 70, 60, 34, 12, 10, 7, 7, 11, 10, 60, 44, 40, 11, 16, 8, 9, 20, 50]
     for index, width in enumerate(widths, start=1):
         sheet.column_dimensions[get_column_letter(index)].width = width
     sheet.freeze_panes = "D2"
