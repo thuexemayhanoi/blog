@@ -6,32 +6,38 @@
   var article = document.querySelector('.post-detail');
   if (!article) return;
 
-  /* 1. Tiến độ đọc: cuộn thụ động, một rAF mỗi khung hình. */
+  /* Mọi việc theo cuộn dùng chung một trình nghe thụ động và một rAF mỗi khung hình. */
+  var frameTasks = [];
+  var scheduled = false;
+  var runFrame = function () {
+    scheduled = false;
+    for (var i = 0; i < frameTasks.length; i += 1) frameTasks[i]();
+  };
+  var schedule = function () {
+    if (scheduled) return;
+    scheduled = true;
+    if (typeof window.requestAnimationFrame === 'function') {
+      window.requestAnimationFrame(runFrame);
+    } else {
+      runFrame();
+    }
+  };
+
+  /* 1. Tiến độ đọc. */
   var bar = article.querySelector('.reading-progress-bar');
   if (bar) {
-    var scheduled = false;
-    var update = function () {
-      scheduled = false;
+    frameTasks.push(function () {
       var rect = article.getBoundingClientRect();
       var scrollY = window.scrollY || window.pageYOffset || 0;
       var top = scrollY + rect.top;
       var distance = Math.max(1, article.offsetHeight - window.innerHeight);
       var progress = Math.min(1, Math.max(0, (scrollY - top) / distance));
       bar.style.transform = 'scaleX(' + progress.toFixed(3) + ')';
-    };
-    var schedule = function () {
-      if (scheduled) return;
-      scheduled = true;
-      if (typeof window.requestAnimationFrame === 'function') {
-        window.requestAnimationFrame(update);
-      } else {
-        update();
-      }
-    };
-    window.addEventListener('scroll', schedule, { passive: true });
-    window.addEventListener('resize', schedule);
-    schedule();
+    });
   }
+  window.addEventListener('scroll', schedule, { passive: true });
+  window.addEventListener('resize', schedule);
+  schedule();
 
   if (!article.hasAttribute('data-pds')) return;
 
@@ -121,9 +127,9 @@
     window.addEventListener('hashchange', openForHash);
   }
 
-  /* 3. Mục lục: đánh dấu mục đang đọc (chỉ thêm class; không đổi nội dung mục lục). */
+  /* 3. Mục lục: đánh dấu mục đang đọc = mục H2 cuối cùng đã chạm mép dưới của header (chỉ thêm class). */
   var toc = article.querySelector('.article-toc');
-  if (toc && typeof window.IntersectionObserver === 'function') {
+  if (toc) {
     var links = {};
     Array.prototype.forEach.call(toc.querySelectorAll('a[href^="#"]'), function (a) {
       links[decodeURIComponent(a.getAttribute('href').slice(1))] = a;
@@ -132,17 +138,19 @@
       return !!links[h.id];
     });
     var current = null;
-    var mark = function (id) {
-      if (current === id) return;
-      if (current && links[current]) links[current].classList.remove('is-active');
-      current = id;
-      if (links[id]) links[id].classList.add('is-active');
-    };
-    var observer = new IntersectionObserver(function (entries) {
-      entries.forEach(function (entry) {
-        if (entry.isIntersecting) mark(entry.target.id);
+    if (headings.length) {
+      frameTasks.push(function () {
+        var active = null;
+        for (var i = 0; i < headings.length; i += 1) {
+          if (headings[i].getBoundingClientRect().top > 140) break;
+          active = headings[i].id;
+        }
+        if (active === current) return;
+        if (current) links[current].classList.remove('is-active');
+        if (active) links[active].classList.add('is-active');
+        current = active;
       });
-    }, { rootMargin: '-15% 0px -70% 0px', threshold: 0 });
-    headings.forEach(function (h) { observer.observe(h); });
+      schedule();
+    }
   }
 })();

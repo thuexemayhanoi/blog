@@ -496,12 +496,12 @@ sitemap: false
 .post-detail .pds-sec--compare .pds-table tbody td:first-child { color: var(--pds-link); }
 
 /* 8. KHỐI THEO MỤC (mỗi <section class="pds-sec"> là một mục H2 của bài) ---- */
-/* Thẻ có biểu tượng: tiêu đề mục không đánh số, không đường kẻ */
+/* Thẻ có biểu tượng: tiêu đề mục không hiện số, không đường kẻ. Bộ đếm vẫn tăng để số của các mục
+   phía sau khớp với số trong mục lục (mục lục đánh số mọi H2). */
 .post-detail .pds-sec--summary > h2,
 .post-detail .pds-sec--contact > h2,
 .post-detail .pds-sec--card > h2,
 .post-detail .pds-sec--sources > h2 {
-  counter-increment: none;
   margin: 0 0 .6em;
   padding: 0;
   border: 0;
