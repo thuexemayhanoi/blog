@@ -13,11 +13,10 @@
   
   {%- comment -%}
     Design System "Số nhà 112" (docs/DESIGN-SYSTEM.md): ds.css cho mọi trang + một tệp theo layout (ds-home.css / ds-article.css).
-    Font hiển thị tự host (2 tệp WOFF2, có tiếng Việt), preload để tiêu đề không đổi font giữa chừng.
+    Font hiển thị tự host (2 tệp WOFF2, có tiếng Việt) KHÔNG preload: đo lab cho thấy preload làm FCP/LCP chậm ~150–200 ms trên 4G chậm;
+    font-display: swap + font dự phòng khớp bề rộng (BSD Fallback trong ds.css) giữ CLS = 0 khi font tải xong.
     Đổi CSS thì đổi chuỗi ?v= để trình duyệt không dùng bản cũ trong 10 phút cache của GitHub Pages.
   {%- endcomment %}
-  <link rel="preload" href="{{ '/assets/fonts/big-shoulders-display-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="{{ '/assets/fonts/big-shoulders-display-vietnamese.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="{{ '/assets/css/ds.css' | relative_url }}?v=20261124-ds1">
   {%- comment -%}
     Price notices on published posts render pricing-rate-table.html even when

@@ -26,7 +26,7 @@ Hệ quả: bỏ logo đi, trang vẫn nhận ra được nhờ chữ biển hi�
 
 ## 3. Chữ
 
-- **Chữ hiển thị**: Big Shoulders Display (SIL OFL 1.1, tự host tại `assets/fonts/`, 2 tệp WOFF2: latin 35 KB + vietnamese 10 KB, `font-display: swap`, preload trong `_layouts/default.html`). Dáng hẹp kiểu biển hiệu nên tiêu đề tiếng Việt 60–110 ký tự vẫn gọn dòng trên màn 360px. Font dự phòng `BSD Fallback` được co bằng `size-adjust` (đo trên chuỗi tiếng Việt thật) để khi font tải xong dòng không nhảy.
+- **Chữ hiển thị**: Big Shoulders Display (SIL OFL 1.1, tự host tại `assets/fonts/`, 2 tệp WOFF2: latin 35 KB + vietnamese 10 KB, `font-display: swap`, không preload vì đo lab cho thấy preload làm chậm FCP/LCP ~150–200 ms trên 4G chậm). Dáng hẹp kiểu biển hiệu nên tiêu đề tiếng Việt 60–110 ký tự vẫn gọn dòng trên màn 360px. Font dự phòng `BSD Fallback` được co bằng `size-adjust` (đo trên chuỗi tiếng Việt thật) để khi font tải xong dòng không nhảy.
 - **Chữ đọc**: font hệ thống của thiết bị (`--font-text`). Không tải thêm font cho thân bài: nhanh, dấu tiếng Việt chuẩn trên iOS/Android/Windows.
 - **Thang chữ**: `--fs-hero`, `--fs-h1`, `--fs-h2`, `--fs-h3`, `--fs-lead`, `--fs-body`, `--fs-small`, `--fs-label` (đều co giãn bằng `clamp()`).
 - **Quy tắc**:
