@@ -6,6 +6,11 @@
   var article = document.querySelector('.post-detail');
   if (!article) return;
 
+  /* Giải mã an toàn: chuỗi %-escape hỏng trong URL không được làm dừng script. */
+  function decode(value) {
+    try { return decodeURIComponent(value); } catch (e) { return value; }
+  }
+
   /* Mọi việc theo cuộn dùng chung một trình nghe thụ động và một rAF mỗi khung hình. */
   var frameTasks = [];
   var scheduled = false;
@@ -111,7 +116,7 @@
 
   /* Liên kết neo tới một câu hỏi (hoặc nội dung bên trong câu trả lời) thì mở đúng câu đó. */
   function openForHash() {
-    var id = decodeURIComponent((window.location.hash || '').slice(1));
+    var id = decode((window.location.hash || '').slice(1));
     if (!id) return;
     var target = document.getElementById(id);
     if (!target) return;
@@ -132,7 +137,7 @@
   if (toc) {
     var links = {};
     Array.prototype.forEach.call(toc.querySelectorAll('a[href^="#"]'), function (a) {
-      links[decodeURIComponent(a.getAttribute('href').slice(1))] = a;
+      links[decode(a.getAttribute('href').slice(1))] = a;
     });
     var headings = Array.prototype.filter.call(article.querySelectorAll('.article-body h2[id]'), function (h) {
       return !!links[h.id];

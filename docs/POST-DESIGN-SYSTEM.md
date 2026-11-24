@@ -42,9 +42,9 @@ giữ nguyên từng ký tự; layout chỉ thêm thẻ bọc `<section class="p
 
 | # | Thành phần | Tự áp dụng khi | Class thủ công (kramdown IAL) |
 |---|---|---|---|
-| 1 | **Summary Card** | H2 chứa: tóm lại, kết lại, chốt lại, kết luận, lời kết, gói lại, tổng kết, tóm tắt, ghi nhớ | `{: .pds-card .pds-card--summary}` |
+| 1 | **Summary Card** | H2 chứa: tóm lại, kết lại, chốt lại, kết luận, lời kết, gói lại, tổng kết; hoặc H2 mở đầu bằng "Tóm tắt" / "Ghi nhớ" | `{: .pds-card .pds-card--summary}` |
 | 2 | **Highlight Card** | sapo đầu bài (`description`) và đoạn mở đầu | `{: .pds-card .pds-card--highlight}` |
-| 3 | **Expert Tips** | H2 chứa: mẹo, kinh nghiệm, bí quyết | `{: .pds-card .pds-card--tip}` |
+| 3 | **Expert Tips** | H2 chứa: mẹo, bí quyết; hoặc H2 mở đầu bằng "Kinh nghiệm" | `{: .pds-card .pds-card--tip}` |
 | 4 | **Warning Card** | H2 chứa: lưu ý, cảnh báo, sai lầm, rủi ro, không nên | `{: .pds-card .pds-card--warning}` |
 | 5 | **Premium Pricing Table** | mọi bảng Markdown (khung bo góc, hàng tiêu đề nền xanh nhạt, kẻ sọc xen kẽ, cuộn ngang trong khung) | — |
 | 6 | **Pros & Cons** | heading bắt đầu bằng "Ưu điểm" / "Nhược điểm" (vạch xanh lá/đỏ; danh sách ngay sau dùng dấu +/−) | `{: .pds-pros}` / `{: .pds-cons}` trên danh sách |
@@ -52,13 +52,13 @@ giữ nguyên từng ký tự; layout chỉ thêm thẻ bọc `<section class="p
 | 8 | **Checklist** | H2 chứa: checklist, danh sách kiểm tra, kiểm tra trước, cần chuẩn bị, chuẩn bị gì, mang theo | `{: .pds-checklist}` trên `ul` |
 | 9 | **Comparison Card** | H2 chứa: so sánh, khác nhau (bảng trong mục tô cột đầu) | — |
 | 10 | **Related Content** | khối cùng chủ đề, bài trước/sau, bài liên quan (có ở mọi bài) | — |
-| 11 | **Local Service Card** | H2 chứa: báo tiệm, liên hệ tiệm, hỗ trợ tại Hà Nội, liên hệ Nguyễn Tú, liên hệ cửa hàng, số liên hệ | `{: .pds-card .pds-card--local}` |
+| 11 | **Local Service Card** | mục H2 nêu "số liên hệ" của tiệm (vd. "Báo tiệm: số liên hệ và giờ làm việc"); bài không có mục đó thì H2 chứa: liên hệ tiệm, liên hệ cửa hàng, liên hệ Nguyễn Tú, hỗ trợ tại Hà Nội, giờ làm việc | `{: .pds-card .pds-card--local}` |
 | 12 | **CTA Card** | khối liên hệ cuối bài (có ở mọi bài) | — |
 | 13 | **FAQ Accordion** | H2 chứa: câu hỏi thường gặp, hỏi đáp, hỏi nhanh, faq (≥ 2 câu hỏi H3); và khối FAQ dùng chung `_includes/faq.html` | — |
 | 14 | **Number Card** | chip ngày đăng / tác giả / thời lượng đọc ở đầu bài | `{: .pds-stats}` trên `ul` (số liệu thật) |
 | 15 | **Quote Card** | mọi `blockquote` (trích điều luật, mẫu tin nhắn) | `{: .pds-quote}` |
 
-Ngoài ra: mục "Nguồn tham khảo / Nguồn đối chiếu / Điều bài không khẳng định" hiển thị dạng chú thích nhẹ;
+Ngoài ra: mục nguồn (H2 mở đầu bằng "Nguồn", hoặc chứa: nguồn tham khảo, nguồn đối chiếu, ghi chú về nguồn, ghi chú về thông tin, điều bài không khẳng định, chưa kiểm chứng) hiển thị dạng chú thích nhẹ;
 lưu ý pháp lý và lưu ý bảng giá (`_data/legal-notices.json`, `_data/price-notices.json`) là thẻ hổ phách.
 
 **Chống máy móc, chống nhồi thẻ** (thực thi trong `_layouts/post.html`):
@@ -66,6 +66,8 @@ lưu ý pháp lý và lưu ý bảng giá (`_data/legal-notices.json`, `_data/pr
 - Thứ tự ưu tiên khi một H2 khớp nhiều nhóm: hỏi đáp → nguồn → liên hệ → tóm tắt → cảnh báo → mẹo → các bước → checklist → so sánh.
 - Thẻ (tóm tắt, hỏi đáp, nguồn, liên hệ, cảnh báo, mẹo) **tối đa một lần mỗi bài**; lần khớp thứ hai hiển thị như mục thường.
 - Cảnh báo / mẹo chỉ thành thẻ khi mục ngắn (< 900 ký tự chữ); mục dài chỉ đổi màu số thứ tự.
+- Từ khóa dễ nhầm chỉ tính khi **mở đầu tiêu đề** ("Kinh nghiệm…", "Tóm tắt…", "Ghi nhớ…", "Nguồn…"), không tính khi nằm giữa câu; mục chỉ nhắc
+  "báo tiệm" (khi nào báo, báo thế nào) không thành thẻ liên hệ.
 - Bài có H2 tự đánh số ("1. …") thì ẩn số thứ tự của hệ thống (`data-pds-numbered`).
 - Bài không khớp nhóm nào: chỉ nhận typography, mục lục, thanh tiến độ — trong Master Matrix là `KEEP`.
 - **Không thành phần nào tự sinh chữ, số liệu, đánh giá hay thông tin doanh nghiệp.** Thẻ chỉ trình bày lại nội dung bài đã có.

@@ -42,23 +42,30 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
   POST DESIGN SYSTEM (docs/POST-DESIGN-SYSTEM.md) — áp dụng lúc render, KHÔNG sửa _posts/.
   Mỗi mục H2 của bài được bọc trong <section class="pds-sec"> và, khi tiêu đề H2 sẵn có cho biết loại nội dung,
   gắn thêm một lớp thành phần: summary (tóm lại/kết luận), qa (câu hỏi thường gặp), sources (nguồn đối chiếu),
-  contact (báo tiệm/liên hệ), warning (lưu ý), tip (mẹo/kinh nghiệm), steps (các bước/quy trình),
+  contact (mục nêu số liên hệ/giờ làm việc của tiệm), warning (lưu ý), tip (mẹo/bí quyết, hoặc tiêu đề mở đầu bằng "Kinh nghiệm"), steps (các bước/quy trình),
   checklist (danh sách kiểm tra/chuẩn bị), compare (so sánh). Chữ, heading, liên kết của bài giữ nguyên từng ký tự;
   chỉ thêm thẻ bọc và class. Thẻ dạng "card" (summary, qa, sources, contact, warning, tip) dùng tối đa một lần mỗi bài;
   warning/tip chỉ thành card khi mục ngắn. Bài không có mục nào khớp thì chỉ dùng typography chung.
 {%- endcomment -%}
 {%- assign pds_used = '' -%}
+{%- comment -%} Bài có mục H2 nêu "số liên hệ" của tiệm thì thẻ Local Service dành cho đúng mục đó (id của H2 nằm ngay đầu mỗi đoạn tách). {%- endcomment -%}
+{%- assign pds_nap = false -%}
+{%- for h2 in art_h2s offset: 1 -%}{%- assign pds_hid = h2 | truncate: 160, '' | split: '"' | first -%}{%- if pds_hid contains 'số-liên-hệ' -%}{%- assign pds_nap = true -%}{%- break -%}{%- endif -%}{%- endfor -%}
 {%- assign pds_numbered = false -%}
 {%- capture pds_sections -%}
 {%- for h2 in art_h2s offset: 1 -%}
   {%- assign pds_text = h2 | split: '</h2>' | first | split: '">' | last | strip_html | downcase -%}
+  {%- assign pds_p5 = pds_text | slice: 0, 5 -%}{%- assign pds_p7 = pds_text | slice: 0, 7 -%}{%- assign pds_p11 = pds_text | slice: 0, 11 -%}
+  {%- assign pds_contact = false -%}
+  {%- if pds_nap -%}{%- if pds_text contains 'số liên hệ' -%}{%- assign pds_contact = true -%}{%- endif -%}
+  {%- elsif pds_text contains 'liên hệ tiệm' or pds_text contains 'liên hệ cửa hàng' or pds_text contains 'liên hệ nguyễn tú' or pds_text contains 'hỗ trợ tại hà nội' or pds_text contains 'giờ làm việc' -%}{%- assign pds_contact = true -%}{%- endif -%}
   {%- assign pds_kind = '' -%}
   {%- if pds_text contains 'câu hỏi thường gặp' or pds_text contains 'hỏi đáp' or pds_text contains 'hỏi nhanh' or pds_text contains 'faq' -%}{%- assign pds_kind = 'qa' -%}
-  {%- elsif pds_text contains 'nguồn tham khảo' or pds_text contains 'nguồn đối chiếu' or pds_text contains 'ghi chú về nguồn' or pds_text contains 'ghi chú về thông tin' or pds_text contains 'điều bài không khẳng định' or pds_text contains 'chưa kiểm chứng' -%}{%- assign pds_kind = 'sources' -%}
-  {%- elsif pds_text contains 'báo tiệm' or pds_text contains 'liên hệ tiệm' or pds_text contains 'hỗ trợ tại hà nội' or pds_text contains 'liên hệ nguyễn tú' or pds_text contains 'liên hệ cửa hàng' or pds_text contains 'số liên hệ' -%}{%- assign pds_kind = 'contact' -%}
-  {%- elsif pds_text contains 'tóm lại' or pds_text contains 'kết lại' or pds_text contains 'chốt lại' or pds_text contains 'kết luận' or pds_text contains 'lời kết' or pds_text contains 'gói lại' or pds_text contains 'tổng kết' or pds_text contains 'tóm tắt' or pds_text contains 'ghi nhớ' -%}{%- assign pds_kind = 'summary' -%}
+  {%- elsif pds_p5 == 'nguồn' or pds_text contains 'nguồn tham khảo' or pds_text contains 'nguồn đối chiếu' or pds_text contains 'ghi chú về nguồn' or pds_text contains 'ghi chú về thông tin' or pds_text contains 'điều bài không khẳng định' or pds_text contains 'chưa kiểm chứng' -%}{%- assign pds_kind = 'sources' -%}
+  {%- elsif pds_contact -%}{%- assign pds_kind = 'contact' -%}
+  {%- elsif pds_text contains 'tóm lại' or pds_text contains 'kết lại' or pds_text contains 'chốt lại' or pds_text contains 'kết luận' or pds_text contains 'lời kết' or pds_text contains 'gói lại' or pds_text contains 'tổng kết' or pds_p7 == 'tóm tắt' or pds_p7 == 'ghi nhớ' -%}{%- assign pds_kind = 'summary' -%}
   {%- elsif pds_text contains 'lưu ý' or pds_text contains 'cảnh báo' or pds_text contains 'sai lầm' or pds_text contains 'rủi ro' or pds_text contains 'không nên' -%}{%- assign pds_kind = 'warning' -%}
-  {%- elsif pds_text contains 'mẹo' or pds_text contains 'kinh nghiệm' or pds_text contains 'bí quyết' -%}{%- assign pds_kind = 'tip' -%}
+  {%- elsif pds_text contains 'mẹo' or pds_text contains 'bí quyết' or pds_p11 == 'kinh nghiệm' -%}{%- assign pds_kind = 'tip' -%}
   {%- elsif pds_text contains 'các bước' or pds_text contains 'quy trình' or pds_text contains 'từng bước' or pds_text contains 'trình tự' -%}{%- assign pds_kind = 'steps' -%}
   {%- elsif pds_text contains 'checklist' or pds_text contains 'danh sách kiểm tra' or pds_text contains 'kiểm tra trước' or pds_text contains 'cần chuẩn bị' or pds_text contains 'chuẩn bị gì' or pds_text contains 'mang theo' -%}{%- assign pds_kind = 'checklist' -%}
   {%- elsif pds_text contains 'so sánh' or pds_text contains 'khác nhau' -%}{%- assign pds_kind = 'compare' -%}
@@ -183,4 +190,4 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
     {% include post-cta.html %}
   </div>
 </article>
-<script defer src="{{ '/assets/js/post-ds.js' | relative_url }}?v=20261124-pds2"></script>
+<script defer src="{{ '/assets/js/post-ds.js' | relative_url }}?v=20261124-pds3"></script>
