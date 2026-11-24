@@ -24,8 +24,11 @@
   {% if page.pricing_table or has_price_notice %}
   <link rel="stylesheet" href="{{ '/assets/css/pricing-table.css' | relative_url }}?v=20261117-price-notice">
   {% endif %}
-  {% if page.layout == 'home' or page.layout == 'post' %}
+  {%- comment -%} Bài viết dùng Post Design System (assets/css/post-ds.css, docs/POST-DESIGN-SYSTEM.md) thay cho lớp editorial; trang chủ giữ nguyên editorial.css. {%- endcomment %}
+  {% if page.layout == 'home' %}
   <link rel="stylesheet" href="{{ '/assets/css/editorial.css' | relative_url }}">
+  {% elsif page.layout == 'post' %}
+  <link rel="stylesheet" href="{{ '/assets/css/post-ds.css' | relative_url }}?v=20261124-pds4">
   {% endif %}
   
   <script>

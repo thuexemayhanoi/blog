@@ -1,0 +1,1074 @@
+---
+layout: null
+permalink: /assets/css/post-ds.css
+sitemap: false
+---
+{%- comment -%}
+  Nguồn dễ đọc của Post Design System. Lúc build, Jekyll bỏ mọi chú thích /* … */ và gộp khoảng trắng
+  (xem khối Liquid ở cuối file) để file phục vụ nhỏ hơn ~30% khi nén; không cần công cụ build nào khác.
+  Quy ước để việc gộp an toàn: không viết "/*" hay "*/" trong chuỗi/URL; không dựa vào hai dấu cách liền nhau trong chuỗi.
+{%- endcomment -%}
+{%- capture pds_css -%}
+/* ==========================================================================
+   POST DESIGN SYSTEM — hệ trình bày dùng chung cho mọi bài viết (layout: post).
+   Tài liệu: docs/POST-DESIGN-SYSTEM.md. Sửa ở đây là đồng bộ toàn bộ bài.
+
+   - Chỉ tải ở trang bài viết, sau 4 stylesheet chung của site; mọi quy tắc nằm
+     trong .post-detail nên trang chủ, trang tĩnh, hub, header, footer không đổi.
+   - Dùng lại token nhận diện hiện có (assets/css/tokens.css): xanh thương hiệu,
+     nền, chữ, viền; giao diện tối đổi theo token nên không cần viết riêng.
+   - Không font ngoài, không ảnh nền, không thư viện.
+   ========================================================================== */
+
+.post-detail {
+  --pds-measure: 43rem;
+  --pds-frame: 68rem;
+  --pds-ink: var(--color-text);
+  --pds-ink-2: var(--color-text-secondary);
+  --pds-line: var(--color-border);
+  --pds-line-2: var(--color-border-dark);
+  --pds-brand: var(--color-primary);
+  --pds-on-brand: var(--color-primary-contrast);
+  --pds-link: var(--color-primary-dark);
+  --pds-tint: var(--color-primary-light);
+  --pds-card: var(--color-surface);
+  --pds-soft: var(--color-surface-dark);
+  --pds-zebra: rgba(127, 127, 127, .07);
+  --pds-warn: #a15c00;
+  --pds-warn-tint: #fff6e3;
+  --pds-warn-line: #edc67a;
+  --pds-good: var(--color-success);
+  --pds-good-tint: #eaf6ee;
+  --pds-good-line: #a5d6b5;
+  --pds-bad: var(--color-error);
+  --pds-radius: 14px;
+  --pds-radius-sm: 10px;
+  --pds-sticky-top: 76px;
+}
+[data-theme="dark"] .post-detail {
+  --pds-link: var(--color-primary);
+  --pds-tint: rgba(77, 153, 255, .14);
+  --pds-soft: var(--color-surface);
+  --pds-warn: #ffcc44;
+  --pds-warn-tint: rgba(255, 204, 68, .09);
+  --pds-warn-line: rgba(255, 204, 68, .42);
+  --pds-good-tint: rgba(68, 204, 102, .09);
+  --pds-good-line: rgba(68, 204, 102, .4);
+}
+
+/* 1. THANH TIẾN ĐỘ ĐỌC ---------------------------------------------------- */
+.reading-progress {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: var(--z-fixed);
+  height: 3px;
+  pointer-events: none;
+}
+.reading-progress-bar {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: var(--color-primary);
+  transform: scaleX(0);
+  transform-origin: left center;
+  will-change: transform;
+}
+
+/* 2. ĐẦU BÀI -------------------------------------------------------------- */
+.post-detail .container { max-width: var(--pds-frame); }
+@media (max-width: 1099px) {
+  /* Điện thoại, máy tính bảng: đầu bài và thân bài cùng một cột đọc căn giữa */
+  .post-detail .container { max-width: calc(var(--pds-measure) + 2 * var(--container-padding)); }
+}
+.post-detail .post-header {
+  margin: 0;
+  padding: clamp(1.25rem, .9rem + 1.8vw, 2.5rem) 0 0;
+  background: transparent;
+  border-bottom: 0;
+}
+.post-detail .breadcrumb {
+  margin: 0 0 var(--spacing-lg);
+  padding: 0;
+  font-size: .8125rem;
+  line-height: 1.5;
+}
+.post-detail .breadcrumb [aria-current="page"] {
+  max-width: 36ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: var(--font-weight-normal);
+  color: var(--pds-ink-2);
+}
+.post-detail .post-header h1 {
+  max-width: 21em;
+  margin: 0;
+  font-size: clamp(1.75rem, 1.2rem + 2.7vw, 2.875rem);
+  font-weight: 800;
+  line-height: 1.17;
+  letter-spacing: -.022em;
+  text-wrap: balance;
+  overflow-wrap: break-word;
+}
+/* Vạch nhấn thương hiệu phía trên tiêu đề */
+.post-detail .post-header h1::before {
+  content: "";
+  display: block;
+  width: 3.5rem;
+  height: 4px;
+  margin-bottom: var(--spacing-md);
+  border-radius: 2px;
+  background: var(--pds-brand);
+}
+/* Highlight Card: đoạn mô tả sẵn có của bài trình bày như lời dẫn */
+.post-detail .post-dek {
+  max-width: var(--pds-measure);
+  margin: var(--spacing-md) 0 0;
+  padding-left: var(--spacing-md);
+  border-left: 3px solid var(--pds-line-2);
+  color: var(--pds-ink-2);
+  font-size: clamp(1.0625rem, 1rem + .45vw, 1.25rem);
+  line-height: 1.6;
+}
+/* Number Card: số liệu thật của bài (ngày đăng, cập nhật, thời gian đọc, số từ) */
+.post-detail .post-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .5rem;
+  margin-top: var(--spacing-lg);
+  padding: var(--spacing-sm) 0;
+  border-top: 1px solid var(--pds-line);
+  border-bottom: 1px solid var(--pds-line);
+  color: var(--pds-ink-2);
+  font-size: .8125rem;
+  line-height: 1.4;
+}
+.post-detail .post-meta > span {
+  display: inline-flex;
+  align-items: center;
+  gap: .4em;
+  padding: .32em .75em;
+  background: var(--pds-soft);
+  border-radius: 999px;
+  font-variant-numeric: tabular-nums;
+}
+.post-detail .post-meta svg {
+  display: inline-block;
+  flex: none;
+  width: 14px;
+  height: 14px;
+}
+.post-detail .post-meta a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: .18em;
+}
+
+/* 3. BỐ CỤC: một cột đọc; máy tính có ray mục lục dính bên phải ------------- */
+.post-detail > .container {
+  padding-top: var(--spacing-xl);
+  padding-bottom: var(--spacing-xl);
+}
+/* Hai khung nối tiếp: khung đọc (có ray mục lục) rồi khung các khối rộng toàn trang. Ray dính chỉ sống trong khung đầu,
+   nên không bao giờ đè lên "bài trước/sau", bài liên quan hay CTA. */
+.post-detail > .container:not(:last-child) { padding-bottom: 0; }
+.post-detail > .container + .container { padding-top: 0; }
+.post-detail > .container > * {
+  max-width: var(--pds-measure);
+  margin-right: 0;
+  margin-left: 0;
+}
+@media (min-width: 1100px) {
+  .post-detail > .container {
+    display: grid;
+    grid-template-columns: minmax(0, var(--pds-measure)) minmax(0, 19rem);
+    column-gap: clamp(2rem, 4.5vw, 4.5rem);
+    align-items: start;
+  }
+  .post-detail > .container > * {
+    grid-column: 1;
+    min-width: 0;
+  }
+  .post-detail > .container > .article-toc {
+    grid-column: 2;
+    grid-row: 1 / span 8;
+    position: sticky;
+    top: var(--pds-sticky-top);
+    max-height: calc(100vh - var(--pds-sticky-top) - 5.5rem);
+    margin: 0;
+    overflow-y: auto;
+  }
+  .post-detail > .container > .post-navigation,
+  .post-detail > .container > .article-related,
+  .post-detail > .container > .post-cta {
+    grid-column: 1 / -1;
+    max-width: none;
+  }
+}
+
+/* 4. MỤC LỤC -------------------------------------------------------------- */
+.post-detail .article-toc {
+  margin-top: 0;
+  margin-bottom: var(--spacing-xl);
+  font-size: .9375rem;
+}
+.post-detail .article-toc details {
+  padding: 0;
+  overflow: hidden;
+  background: var(--pds-card);
+  border: 1px solid var(--pds-line);
+  border-radius: var(--pds-radius);
+}
+.post-detail .article-toc summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 48px;
+  padding: 0 var(--spacing-md);
+  list-style: none;
+  color: var(--pds-ink-2);
+  font-size: .8125rem;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.post-detail .article-toc summary::-webkit-details-marker { display: none; }
+.post-detail .article-toc summary:focus-visible {
+  outline: 2px solid var(--pds-brand);
+  outline-offset: -2px;
+  border-radius: var(--pds-radius);
+}
+.post-detail .article-toc summary::after {
+  content: "";
+  width: .5em;
+  height: .5em;
+  margin-right: .25em;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: translateY(-25%) rotate(45deg);
+  transition: transform var(--transition-fast);
+}
+.post-detail .article-toc details[open] summary::after { transform: translateY(20%) rotate(-135deg); }
+.post-detail .article-toc ol {
+  margin: 0;
+  padding: 0 var(--spacing-md) var(--spacing-xs);
+  list-style: none;
+  counter-reset: pds-toc;
+}
+.post-detail .article-toc li {
+  counter-increment: pds-toc;
+  display: grid;
+  grid-template-columns: 1.8rem minmax(0, 1fr);
+  align-items: baseline;
+  margin: 0;
+  padding: .5rem 0;
+  border-top: 1px solid var(--pds-line);
+}
+.post-detail .article-toc li::before {
+  content: counter(pds-toc, decimal-leading-zero);
+  color: var(--pds-ink-2);
+  font-size: .75rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+/* Bài tự đánh số mục ("Bước 1…", "Ngày hai…"): bỏ số của hệ thống ở cả mục lục lẫn tiêu đề. */
+.post-detail[data-pds-numbered] .article-toc li { grid-template-columns: minmax(0, 1fr); }
+.post-detail[data-pds-numbered] .article-toc li::before { content: none; }
+.post-detail .article-toc a {
+  color: var(--pds-ink);
+  font-weight: 500;
+  line-height: 1.4;
+  text-decoration: none;
+}
+.post-detail .article-toc a:hover,
+.post-detail .article-toc a:focus-visible {
+  color: var(--pds-link);
+  text-decoration: underline;
+}
+.post-detail .article-toc a.is-active {
+  color: var(--pds-link);
+  font-weight: 700;
+}
+
+/* 5. THÂN BÀI: chữ, heading, danh sách, liên kết -------------------------- */
+.post-detail .article-body {
+  margin: 0;
+  color: var(--pds-ink);
+  font-size: 1.0625rem;
+  line-height: 1.75;
+  counter-reset: pds-h2;
+  overflow-wrap: break-word;
+  text-wrap: pretty;
+}
+.post-detail .article-body p { margin: 0 0 1.25em; }
+.post-detail .article-body > p:first-child {
+  font-size: 1.1em;
+  line-height: 1.68;
+}
+.post-detail .article-body strong { font-weight: 700; }
+
+/* H2: số thứ tự mục nằm trên đường kẻ */
+.post-detail .article-body h2 {
+  counter-increment: pds-h2;
+  position: relative;
+  margin: 2.6em 0 .8em;
+  padding-top: 1.1em;
+  border-top: 1px solid var(--pds-line-2);
+  font-size: clamp(1.375rem, 1.2rem + .9vw, 1.75rem);
+  font-weight: 800;
+  line-height: 1.26;
+  letter-spacing: -.015em;
+  text-wrap: balance;
+  scroll-margin-top: 90px;
+}
+.post-detail .article-body h2::before {
+  content: counter(pds-h2, decimal-leading-zero);
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding-right: .7em;
+  background: var(--color-background);
+  color: var(--pds-brand);
+  font-size: .8125rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: .1em;
+  font-variant-numeric: tabular-nums;
+  transform: translateY(-50%);
+}
+/* Bài mà tiêu đề mục đã tự đánh số ("1. …") thì không thêm số thứ tự */
+.post-detail[data-pds-numbered] .article-body h2::before { content: none; }
+
+/* H3: vạch nhấn bên trái */
+.post-detail .article-body h3 {
+  position: relative;
+  margin: 2em 0 .6em;
+  padding-left: .9em;
+  font-size: clamp(1.1875rem, 1.1rem + .4vw, 1.375rem);
+  font-weight: 700;
+  line-height: 1.32;
+  scroll-margin-top: 90px;
+}
+.post-detail .article-body h3::before {
+  content: "";
+  position: absolute;
+  top: .2em;
+  bottom: .2em;
+  left: 0;
+  width: 4px;
+  border-radius: 2px;
+  background: var(--pds-brand);
+}
+.post-detail .article-body h4 {
+  margin: 1.7em 0 .5em;
+  font-size: 1.0625rem;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+/* Danh sách: ký hiệu màu thương hiệu, số thẳng cột */
+.post-detail .article-body ul,
+.post-detail .article-body ol {
+  margin: 0 0 1.25em;
+  padding-left: 1.5em;
+}
+.post-detail .article-body ul { list-style: square; }
+.post-detail .article-body ul ul { list-style: circle; }
+.post-detail .article-body li {
+  margin: 0 0 .55em;
+  padding-left: .25em;
+}
+.post-detail .article-body li::marker {
+  color: var(--pds-brand);
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+.post-detail .article-body li > ul,
+.post-detail .article-body li > ol { margin: .55em 0 0; }
+.post-detail .article-body li > p { margin-bottom: .55em; }
+
+/* Liên kết trong bài: gạch chân rõ, nền nhạt khi rê; liên kết ra ngoài có mũi tên */
+.post-detail .article-body a {
+  color: var(--pds-link);
+  border-radius: 3px;
+  text-decoration: underline;
+  text-decoration-thickness: .09em;
+  text-underline-offset: .2em;
+  transition: background-color var(--transition-fast);
+}
+.post-detail .article-body a:hover,
+.post-detail .article-body a:focus-visible {
+  background: var(--pds-tint);
+  color: var(--pds-link);
+  text-decoration-thickness: .14em;
+}
+/* Giao diện tối: nền nhấn khi rê/focus phải nhạt hơn để chữ liên kết trong thẻ vẫn đủ tương phản. */
+[data-theme="dark"] .post-detail .article-body a:hover,
+[data-theme="dark"] .post-detail .article-body a:focus-visible { background: rgba(77, 153, 255, .06); }
+.post-detail .article-body a[href^="http"]:not([href*="blog.thuexemaynguyentu.com"])::after {
+  content: "\2197";
+  display: inline-block;
+  margin-left: .15em;
+  font-size: .8em;
+  text-decoration: none;
+}
+
+.post-detail .article-body hr {
+  margin: 2.2em 0;
+  border: 0;
+  border-top: 1px solid var(--pds-line-2);
+}
+.post-detail .article-body code {
+  padding: .1em .35em;
+  background: var(--pds-soft);
+  border-radius: 4px;
+  font-size: .9em;
+}
+
+@media (min-width: 768px) {
+  .post-detail .article-body {
+    font-size: 1.125rem;
+    line-height: 1.78;
+  }
+}
+
+/* 6. QUOTE CARD: trích dẫn (điều luật, mẫu tin nhắn…) ---------------------- */
+.post-detail .article-body blockquote,
+.post-detail .pds-quote {
+  position: relative;
+  margin: 1.75em 0;
+  padding: 1.1em 1.25em 1.1em 3.25em;
+  background: var(--pds-soft);
+  border: 0;
+  border-radius: var(--pds-radius);
+  color: var(--pds-ink);
+  font-size: .97em;
+}
+.post-detail .article-body blockquote::before,
+.post-detail .pds-quote::before {
+  content: "\201C";
+  position: absolute;
+  top: .42rem;
+  left: .95rem;
+  color: var(--pds-brand);
+  font: 700 3rem/1 Georgia, "Times New Roman", serif;
+}
+.post-detail .article-body blockquote p { color: inherit; margin-bottom: .7em; }
+.post-detail .article-body blockquote > :last-child { margin-bottom: 0; }
+
+/* 7. BẢNG: khung bo góc, cuộn ngang trong khung, thân trang không tràn ------ */
+.post-detail .pds-table {
+  margin: 1.75em 0;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  background: var(--pds-card);
+  border: 1px solid var(--pds-line-2);
+  border-radius: var(--pds-radius);
+}
+.post-detail .pds-table:focus-visible {
+  outline: 2px solid var(--pds-brand);
+  outline-offset: 2px;
+}
+.post-detail .article-body .pds-table table {
+  display: table;
+  width: 100%;
+  margin: 0;
+  overflow: visible;
+  border-collapse: collapse;
+  font-size: .9375rem;
+  line-height: 1.5;
+}
+.post-detail .article-body .pds-table th,
+.post-detail .article-body .pds-table td {
+  min-width: 7rem;
+  padding: .7rem .9rem;
+  border: 0;
+  border-bottom: 1px solid var(--pds-line);
+  background: transparent;
+  text-align: left;
+  vertical-align: top;
+  font-variant-numeric: tabular-nums;
+}
+.post-detail .article-body .pds-table thead th {
+  background: var(--pds-tint);
+  border-bottom: 2px solid var(--pds-brand);
+  color: var(--pds-ink);
+  font-size: .8125rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  vertical-align: bottom;
+}
+.post-detail .article-body .pds-table tbody tr:nth-child(even) { background: var(--pds-zebra); }
+.post-detail .article-body .pds-table tbody tr:last-child td { border-bottom: 0; }
+.post-detail .article-body .pds-table tbody td:first-child { font-weight: 600; }
+/* Comparison Card: mục so sánh — cột tiêu chí nổi bật */
+.post-detail .pds-sec--compare .pds-table tbody td:first-child { color: var(--pds-link); }
+
+/* 8. KHỐI THEO MỤC (mỗi <section class="pds-sec"> là một mục H2 của bài) ---- */
+/* Thẻ có biểu tượng: tiêu đề mục không hiện số, không đường kẻ. Bộ đếm vẫn tăng để số của các mục
+   phía sau khớp với số trong mục lục (mục lục đánh số mọi H2). */
+.post-detail .pds-sec--summary > h2,
+.post-detail .pds-sec--contact > h2,
+.post-detail .pds-sec--card > h2,
+.post-detail .pds-sec--sources > h2 {
+  margin: 0 0 .6em;
+  padding: 0;
+  border: 0;
+}
+.post-detail .pds-sec--summary > h2::before,
+.post-detail .pds-sec--contact > h2::before,
+.post-detail .pds-sec--card > h2::before,
+.post-detail .pds-sec--sources > h2::before { content: none; }
+.post-detail .pds-sec--summary > :last-child,
+.post-detail .pds-sec--contact > :last-child,
+.post-detail .pds-sec--card > :last-child,
+.post-detail .pds-sec--sources > :last-child { margin-bottom: 0; }
+
+.post-detail .pds-sec--summary,
+.post-detail .pds-sec--contact,
+.post-detail .pds-sec--card,
+.post-detail .pds-card {
+  margin: 2.4em 0 1.6em;
+  padding: 1.25em 1.4em 1.35em;
+  border-radius: var(--pds-radius);
+}
+.post-detail .pds-sec--summary > h2,
+.post-detail .pds-sec--contact > h2,
+.post-detail .pds-sec--card > h2 {
+  display: flex;
+  align-items: flex-start;
+  gap: .55em;
+  font-size: 1.25rem;
+  line-height: 1.3;
+}
+.post-detail .pds-sec--summary > h2::before,
+.post-detail .pds-sec--contact > h2::before,
+.post-detail .pds-sec--card > h2::before {
+  content: "";
+  position: static;
+  flex: none;
+  width: 1.25em;
+  height: 1.25em;
+  margin-top: .02em;
+  padding: 0;
+  background: var(--pds-brand);
+  transform: none;
+  -webkit-mask: var(--pds-icon) center / contain no-repeat;
+  mask: var(--pds-icon) center / contain no-repeat;
+}
+
+/* Summary Card: mục "Tóm lại / Kết luận" */
+.post-detail .pds-sec--summary,
+.post-detail .pds-card--summary {
+  --pds-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M6 2h12a2 2 0 0 1 2 2v17.2a.8.8 0 0 1-1.25.66L12 17.4l-6.75 4.46A.8.8 0 0 1 4 21.2V4a2 2 0 0 1 2-2Z'/%3E%3C/svg%3E");
+  background: var(--pds-tint);
+}
+/* Local Service Card: mục "Báo tiệm / Liên hệ" */
+.post-detail .pds-sec--contact,
+.post-detail .pds-card--local {
+  --pds-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill-rule='evenodd' d='M12 1.8a8 8 0 0 0-8 8c0 5.6 6.9 11.7 7.2 12a1.2 1.2 0 0 0 1.6 0c.3-.3 7.2-6.4 7.2-12a8 8 0 0 0-8-8Zm0 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6Z'/%3E%3C/svg%3E");
+  background: var(--pds-card);
+  border: 1px solid var(--pds-line-2);
+  border-left: 4px solid var(--pds-brand);
+}
+/* Warning Card: mục "Lưu ý / Cảnh báo" ngắn */
+.post-detail .pds-sec--warning.pds-sec--card,
+.post-detail .pds-card--warning {
+  --pds-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill-rule='evenodd' d='M10.3 3.3 1.7 18a2 2 0 0 0 1.7 3h17.2a2 2 0 0 0 1.7-3L13.7 3.3a2 2 0 0 0-3.4 0ZM11 9h2v5h-2V9Zm0 7h2v2h-2v-2Z'/%3E%3C/svg%3E");
+  background: var(--pds-warn-tint);
+  border: 1px solid var(--pds-warn-line);
+}
+.post-detail .pds-sec--warning.pds-sec--card > h2::before { background: var(--pds-warn); }
+/* Expert Tips: mục "Mẹo / Kinh nghiệm" ngắn */
+.post-detail .pds-sec--tip.pds-sec--card,
+.post-detail .pds-card--tip {
+  --pds-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 2a7 7 0 0 0-4 12.7V17a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-2.3A7 7 0 0 0 12 2ZM9 20h6v1a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1v-1Z'/%3E%3C/svg%3E");
+  background: var(--pds-good-tint);
+  border: 1px solid var(--pds-good-line);
+}
+.post-detail .pds-sec--tip.pds-sec--card > h2::before { background: var(--pds-good); }
+/* Mục lưu ý / mẹo dài: không đóng khung, chỉ đổi màu số thứ tự mục */
+.post-detail .pds-sec--warning:not(.pds-sec--card) > h2::before { color: var(--pds-warn); }
+.post-detail .pds-sec--tip:not(.pds-sec--card) > h2::before { color: var(--pds-good); }
+/* Highlight Card (dùng tay: {: .pds-card .pds-card--highlight}) */
+.post-detail .pds-card--highlight {
+  background: var(--pds-card);
+  border: 1px solid var(--pds-line-2);
+  border-top: 4px solid var(--pds-brand);
+}
+.post-detail .pds-card > :last-child { margin-bottom: 0; }
+
+/* Nguồn đối chiếu: ghi chú cuối bài, không đóng khung */
+.post-detail .pds-sec--sources {
+  margin-top: 2.4em;
+  padding-top: 1.1em;
+  border-top: 1px dashed var(--pds-line-2);
+  color: var(--pds-ink-2);
+  font-size: .9375rem;
+  line-height: 1.65;
+}
+.post-detail .pds-sec--sources > h2 {
+  color: var(--pds-ink-2);
+  font-size: .8125rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.post-detail .pds-sec--sources p,
+.post-detail .pds-sec--sources li { color: var(--pds-ink-2); }
+
+/* Timeline: mục "Các bước / Quy trình" — danh sách đánh số chạy dọc một trục */
+.post-detail .pds-sec--steps ol,
+.post-detail .article-body ol.pds-timeline {
+  margin-left: .55em;
+  padding-left: 2.1em;
+  border-left: 2px solid var(--pds-tint);
+}
+.post-detail .pds-sec--steps ol > li,
+.post-detail .article-body ol.pds-timeline > li {
+  position: relative;
+  margin-bottom: .9em;
+}
+.post-detail .pds-sec--steps ol > li::before,
+.post-detail .article-body ol.pds-timeline > li::before {
+  content: "";
+  position: absolute;
+  top: .62em;
+  left: calc(-2.1em - 6px);
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--pds-brand);
+  box-shadow: 0 0 0 4px var(--color-background);
+}
+/* Checklist: mục "Danh sách kiểm tra / Cần chuẩn bị" */
+.post-detail .pds-sec--checklist ul,
+.post-detail .article-body ul.pds-checklist { list-style-type: "\2713\00a0\00a0"; }
+.post-detail .pds-sec--checklist ul > li::marker,
+.post-detail .article-body ul.pds-checklist > li::marker { color: var(--pds-good); }
+/* Pros & Cons: danh sách ngay sau tiêu đề "Ưu điểm…" / "Nhược điểm…" */
+.post-detail .article-body :is(h2, h3, h4).pds-pros + ul,
+.post-detail .article-body ul.pds-pros { list-style-type: "+\00a0\00a0"; }
+.post-detail .article-body :is(h2, h3, h4).pds-pros + ul > li::marker,
+.post-detail .article-body ul.pds-pros > li::marker { color: var(--pds-good); }
+.post-detail .article-body :is(h2, h3, h4).pds-cons + ul,
+.post-detail .article-body ul.pds-cons { list-style-type: "\2212\00a0\00a0"; }
+.post-detail .article-body :is(h2, h3, h4).pds-cons + ul > li::marker,
+.post-detail .article-body ul.pds-cons > li::marker { color: var(--pds-bad); }
+.post-detail .article-body h3.pds-pros::before { background: var(--pds-good); }
+.post-detail .article-body h3.pds-cons::before { background: var(--pds-bad); }
+
+/* Number Card (dùng tay): dãy số liệu thật — {: .pds-stats} trên một danh sách */
+.post-detail .article-body ul.pds-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr));
+  gap: .75rem;
+  padding: 0;
+  list-style: none;
+}
+.post-detail .article-body ul.pds-stats > li {
+  margin: 0;
+  padding: .9em 1em;
+  background: var(--pds-soft);
+  border-radius: var(--pds-radius-sm);
+  font-size: .9375rem;
+  line-height: 1.45;
+}
+.post-detail .article-body ul.pds-stats > li strong {
+  display: block;
+  color: var(--pds-link);
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.15;
+  font-variant-numeric: tabular-nums;
+}
+
+/* 9. FAQ ACCORDION (+/−) — post-ds.js nâng cấp; không JS thì hiện đủ câu trả lời */
+.post-detail .faq {
+  margin-top: 2.6em;
+  margin-bottom: 0;
+  font-size: inherit;
+}
+.post-detail .faq h2 {
+  margin: 0 0 .8em;
+  font-size: clamp(1.375rem, 1.2rem + .9vw, 1.75rem);
+  line-height: 1.26;
+  letter-spacing: -.015em;
+}
+.post-detail [data-pds-acc] .pds-acc__q {
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--pds-line-2);
+  font-size: 1.0625rem;
+}
+.post-detail [data-pds-acc] .pds-acc__q::before { content: none; }
+.post-detail .pds-acc__btn {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  width: 100%;
+  min-height: 56px;
+  padding: .95rem 0;
+  color: var(--pds-ink);
+  font: inherit;
+  font-weight: 700;
+  line-height: 1.4;
+  text-align: left;
+  cursor: pointer;
+}
+.post-detail .pds-acc__btn:hover { color: var(--pds-link); }
+.post-detail .pds-acc__btn:focus-visible {
+  outline: 2px solid var(--pds-brand);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+.post-detail .pds-acc__sign {
+  position: relative;
+  flex: none;
+  width: 1.625rem;
+  height: 1.625rem;
+  margin-top: -.05rem;
+  border: 1.5px solid var(--pds-brand);
+  border-radius: 50%;
+  color: var(--pds-brand);
+}
+.post-detail .pds-acc__sign::before,
+.post-detail .pds-acc__sign::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: .7rem;
+  height: 2px;
+  margin: -1px 0 0 -.35rem;
+  border-radius: 1px;
+  background: currentColor;
+  transition: transform var(--transition-normal);
+}
+.post-detail .pds-acc__sign::after { transform: rotate(90deg); }
+.post-detail .pds-acc__btn[aria-expanded="true"] .pds-acc__sign {
+  background: var(--pds-brand);
+  color: var(--pds-on-brand);
+}
+.post-detail .pds-acc__btn[aria-expanded="true"] .pds-acc__sign::after { transform: rotate(0deg); }
+.post-detail .pds-acc__panel { padding: 0 2.6rem 1rem 0; }
+.post-detail .pds-acc__panel > :last-child { margin-bottom: 0; }
+.post-detail [data-pds-acc] > .pds-acc__panel:last-child,
+.post-detail [data-pds-acc] > .faq-item:last-child { border-bottom: 1px solid var(--pds-line-2); }
+.post-detail [data-pds-acc] .faq-item h3 { margin: 0; }
+.post-detail [data-pds-acc] .faq-item p { margin: 0; }
+
+/* 10. LƯU Ý CẬP NHẬT (pháp lý, giá) ---------------------------------------- */
+.post-detail .legal-notice,
+.post-detail .price-notice {
+  margin-top: 0;
+  margin-bottom: var(--spacing-xl);
+  padding: 1.1em 1.25em;
+  background: var(--pds-warn-tint);
+  border: 1px solid var(--pds-warn-line);
+  border-radius: var(--pds-radius);
+  font-size: .9375rem;
+  line-height: 1.6;
+}
+.post-detail .legal-notice h2,
+.post-detail .price-notice > h2 {
+  margin: 0 0 .45em;
+  font-size: 1.0625rem;
+  line-height: 1.35;
+}
+.post-detail .legal-notice a,
+.post-detail .price-notice a {
+  color: var(--pds-link);
+  text-decoration: underline;
+  text-underline-offset: .18em;
+}
+.post-detail .legal-notice > :last-child,
+.post-detail .price-notice > :last-child { margin-bottom: 0; }
+/* Bảng giá trong "Lưu ý bảng giá": cột đọc của bài hẹp hơn 760px, nên ở máy tính bảng bỏ bề rộng tối thiểu
+   của bảng (pricing-table.css) — hiện đủ cả cột Tiền cọc, không phải cuộn ngang trong khung. */
+@media (min-width: 768px) and (max-width: 1199px) {
+  .post-detail .price-notice .rental-rate-matrix__table { min-width: 0; }
+}
+
+/* 11. ẢNH THẬT CỦA CỬA HÀNG + CHÚ THÍCH ------------------------------------- */
+.post-detail .post-photos {
+  margin-top: var(--spacing-xl);
+  margin-bottom: var(--spacing-xl);
+}
+.post-detail .post-photos .photo-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .5rem;
+}
+.post-detail .post-photos .photo-gallery-grid img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  background: var(--pds-soft);
+  border-radius: var(--pds-radius-sm);
+}
+.post-detail .post-photos figcaption {
+  margin-top: .7rem;
+  padding-left: .8rem;
+  border-left: 2px solid var(--pds-brand);
+  color: var(--pds-ink-2);
+  font-size: .8125rem;
+  line-height: 1.5;
+}
+@media (min-width: 560px) {
+  .post-detail .post-photos .photo-gallery-grid { gap: .6rem; }
+}
+
+/* 12. RELATED CONTENT: cùng chủ đề, bài trước/sau, bài liên quan ------------- */
+.post-detail .topic-siblings {
+  margin-top: var(--spacing-xl);
+  margin-bottom: 0;
+  padding: 1.1em 1.25em;
+  background: var(--pds-card);
+  border: 1px solid var(--pds-line);
+  border-radius: var(--pds-radius);
+}
+.post-detail .topic-siblings h2 {
+  margin: 0 0 .5em;
+  color: var(--pds-ink-2);
+  font-size: .8125rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.post-detail .topic-siblings ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.post-detail .topic-siblings li {
+  margin: 0;
+  border-top: 1px solid var(--pds-line);
+}
+.post-detail .topic-siblings a {
+  display: block;
+  padding: .65rem 0;
+  color: var(--pds-ink);
+  font-weight: 600;
+  line-height: 1.4;
+  text-decoration: none;
+}
+.post-detail .topic-siblings a:hover,
+.post-detail .topic-siblings a:focus-visible {
+  color: var(--pds-link);
+  text-decoration: underline;
+}
+
+.post-detail .post-navigation {
+  display: grid;
+  gap: var(--spacing-sm);
+  margin-top: var(--spacing-2xl);
+  margin-bottom: 0;
+}
+.post-detail .post-navigation .nav-link {
+  display: flex;
+  align-items: flex-start;
+  gap: .5rem;
+  min-height: 56px;
+  padding: var(--spacing-md);
+  background: var(--pds-card);
+  border: 1px solid var(--pds-line);
+  border-radius: var(--pds-radius);
+  color: var(--pds-ink);
+  font-size: .9375rem;
+  font-weight: 600;
+  line-height: 1.45;
+  text-decoration: none;
+  transition: border-color var(--transition-fast);
+}
+.post-detail .post-navigation .nav-link:hover,
+.post-detail .post-navigation .nav-link:focus-visible {
+  border-color: var(--pds-brand);
+  color: var(--pds-link);
+}
+.post-detail .post-navigation .nav-link svg {
+  display: inline-block;
+  flex: none;
+  margin-top: .15em;
+  color: var(--pds-brand);
+}
+.post-detail .post-navigation .next {
+  justify-content: flex-end;
+  text-align: right;
+}
+@media (min-width: 768px) {
+  .post-detail .post-navigation { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .post-detail .post-navigation .next:only-child { grid-column: 2; }
+}
+
+.post-detail .article-related {
+  margin-top: var(--spacing-2xl);
+  margin-bottom: 0;
+  padding-top: var(--spacing-xl);
+  border-top: 1px solid var(--pds-line-2);
+}
+.post-detail .article-related h2 {
+  margin: 0 0 var(--spacing-md);
+  font-size: 1.375rem;
+  font-weight: 800;
+  letter-spacing: -.015em;
+}
+.post-detail .article-related .post-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--spacing-md);
+}
+.post-detail .article-related .post-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: .4rem;
+  padding: var(--spacing-md);
+  background: var(--pds-card);
+  border: 1px solid var(--pds-line);
+  border-radius: var(--pds-radius);
+  transition: border-color var(--transition-fast), transform var(--transition-fast);
+}
+.post-detail .article-related .post-card:hover {
+  border-color: var(--pds-brand);
+  transform: translateY(-2px);
+}
+.post-detail .article-related .post-card h3 {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+.post-detail .article-related .post-card h3 a {
+  color: var(--pds-ink);
+  text-decoration: none;
+}
+.post-detail .article-related .post-card h3 a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: var(--pds-radius);
+}
+.post-detail .article-related .post-card:hover h3 a { color: var(--pds-link); }
+.post-detail .article-related .post-card .post-date {
+  order: -1;
+  margin: 0;
+  color: var(--pds-ink-2);
+  font-size: .75rem;
+  font-variant-numeric: tabular-nums;
+}
+.post-detail .article-related .post-card p:not(.post-date) {
+  margin: 0;
+  color: var(--pds-ink-2);
+  font-size: .875rem;
+  line-height: 1.55;
+}
+@media (min-width: 640px) {
+  .post-detail .article-related .post-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (min-width: 1100px) {
+  .post-detail .article-related .post-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
+
+/* 13. CTA CARD: lời mời liên hệ thuê xe ------------------------------------- */
+.post-detail .post-cta {
+  margin-top: var(--spacing-2xl);
+  margin-bottom: 0;
+  padding: clamp(1.25rem, 1rem + 2vw, 2.25rem);
+  background: var(--color-primary);
+  border: 0;
+  border-radius: var(--pds-radius);
+  color: var(--pds-on-brand);
+}
+.post-detail .post-cta .post-cta__title {
+  margin: 0 0 .4em;
+  color: inherit;
+  font-size: clamp(1.375rem, 1.2rem + .9vw, 1.75rem);
+  font-weight: 800;
+  line-height: 1.22;
+  letter-spacing: -.015em;
+}
+.post-detail .post-cta p {
+  max-width: 62ch;
+  margin: 0 0 var(--spacing-md);
+  color: inherit;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+.post-detail .post-cta .btn { min-height: 48px; }
+.post-detail .post-cta .btn-primary {
+  background: var(--pds-on-brand);
+  border-color: transparent;
+  color: var(--color-primary);
+}
+.post-detail .post-cta .btn-secondary,
+.post-detail .post-cta .btn-outline {
+  background: transparent;
+  border: 1.5px solid currentColor;
+  color: inherit;
+}
+.post-detail .post-cta .btn:hover,
+.post-detail .post-cta .btn:focus-visible { filter: brightness(.94); }
+.post-detail .post-cta .btn-secondary:hover,
+.post-detail .post-cta .btn-outline:hover {
+  background: rgba(127, 127, 127, .22);
+  filter: none;
+}
+.post-detail .post-cta .btn:focus-visible {
+  outline: 2px solid var(--pds-on-brand);
+  outline-offset: 2px;
+}
+@media (min-width: 768px) {
+  .post-detail .post-cta .cta-group { justify-content: flex-start; }
+}
+
+/* 14. ĐIỆN THOẠI ----------------------------------------------------------- */
+@media (max-width: 767px) {
+  .post-detail .breadcrumb li:last-child[aria-current="page"] { display: none; }
+  .post-detail .breadcrumb li:nth-last-child(2)::after { content: none; }
+  .post-detail .pds-sec--summary,
+  .post-detail .pds-sec--contact,
+  .post-detail .pds-sec--card,
+  .post-detail .pds-card { padding: 1.1em 1.1em 1.2em; }
+  .post-detail .article-body blockquote,
+  .post-detail .pds-quote { padding: 2.6em 1.1em 1.1em; }
+  .post-detail .pds-acc__panel { padding-right: 0; }
+}
+
+/* 15. IN ẤN VÀ CHẾ ĐỘ TƯƠNG PHẢN CAO --------------------------------------- */
+@media print {
+  .reading-progress { display: none; }
+  .post-detail .pds-acc__panel[hidden] { display: block !important; }
+  .post-detail .pds-acc__sign { display: none; }
+  .post-detail > .container > .article-toc { position: static; max-height: none; overflow: visible; }
+}
+@media (forced-colors: active) {
+  .post-detail .pds-acc__sign::before,
+  .post-detail .pds-acc__sign::after { background: CanvasText; }
+  .post-detail .pds-acc__btn[aria-expanded="true"] .pds-acc__sign::before,
+  .post-detail .pds-acc__btn[aria-expanded="true"] .pds-acc__sign::after { background: Canvas; }
+  .post-detail .pds-acc__btn[aria-expanded="true"] .pds-acc__sign { background: CanvasText; }
+}
+
+/* 16. GIẢM CHUYỂN ĐỘNG ----------------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  .post-detail .article-related .post-card,
+  .post-detail .pds-acc__sign::before,
+  .post-detail .pds-acc__sign::after,
+  .post-detail .article-toc summary::after { transition: none; }
+  .post-detail .article-related .post-card:hover { transform: none; }
+}
+{%- endcapture -%}
+{%- assign pds_parts = pds_css | split: '/*' -%}
+{%- capture pds_min -%}
+  {%- for pds_part in pds_parts -%}
+    {%- if forloop.first -%}{{ pds_part }}{%- else -%}{{ pds_part | append: ' ' | split: '*/' | last }}{%- endif -%}
+  {%- endfor -%}
+{%- endcapture -%}
+@charset "UTF-8";
+/* Post Design System — nguồn có chú thích: assets/css/post-ds.css trong repo; tài liệu: docs/POST-DESIGN-SYSTEM.md */
+{{ pds_min | strip_newlines | replace: '        ', ' ' | replace: '    ', ' ' | replace: '  ', ' ' | replace: '  ', ' ' | strip }}
