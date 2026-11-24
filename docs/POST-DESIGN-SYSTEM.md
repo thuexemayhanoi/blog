@@ -42,9 +42,9 @@ giữ nguyên từng ký tự; layout chỉ thêm thẻ bọc `<section class="p
 
 | # | Thành phần | Tự áp dụng khi | Class thủ công (kramdown IAL) |
 |---|---|---|---|
-| 1 | **Summary Card** | H2 chứa: tóm lại, kết lại, chốt lại, kết luận, lời kết, gói lại, tổng kết; hoặc H2 mở đầu bằng "Tóm tắt" / "Ghi nhớ" | `{: .pds-card .pds-card--summary}` |
+| 1 | **Summary Card** | mục H2 **cuối cùng** có tiêu đề **mở đầu** bằng: tóm lại, kết lại, chốt lại, kết luận, lời kết, gói lại, tổng kết, tóm tắt, ghi nhớ, gói gọn lại; hoặc đúng "Kết" | `{: .pds-card .pds-card--summary}` |
 | 2 | **Highlight Card** | sapo đầu bài (`description`) và đoạn mở đầu | `{: .pds-card .pds-card--highlight}` |
-| 3 | **Expert Tips** | H2 chứa: mẹo, bí quyết; hoặc H2 mở đầu bằng "Kinh nghiệm" | `{: .pds-card .pds-card--tip}` |
+| 3 | **Expert Tips** | H2 chứa: mẹo, bí quyết | `{: .pds-card .pds-card--tip}` |
 | 4 | **Warning Card** | H2 chứa: lưu ý, cảnh báo, sai lầm, rủi ro, không nên | `{: .pds-card .pds-card--warning}` |
 | 5 | **Premium Pricing Table** | mọi bảng Markdown (khung bo góc, hàng tiêu đề nền xanh nhạt, kẻ sọc xen kẽ, cuộn ngang trong khung) | — |
 | 6 | **Pros & Cons** | heading bắt đầu bằng "Ưu điểm" / "Nhược điểm" (vạch xanh lá/đỏ; danh sách ngay sau dùng dấu +/−) | `{: .pds-pros}` / `{: .pds-cons}` trên danh sách |
@@ -52,23 +52,25 @@ giữ nguyên từng ký tự; layout chỉ thêm thẻ bọc `<section class="p
 | 8 | **Checklist** | H2 chứa: checklist, danh sách kiểm tra, kiểm tra trước, cần chuẩn bị, chuẩn bị gì, mang theo | `{: .pds-checklist}` trên `ul` |
 | 9 | **Comparison Card** | H2 chứa: so sánh, khác nhau (bảng trong mục tô cột đầu) | — |
 | 10 | **Related Content** | khối cùng chủ đề, bài trước/sau, bài liên quan (có ở mọi bài) | — |
-| 11 | **Local Service Card** | mục H2 nêu "số liên hệ" của tiệm (vd. "Báo tiệm: số liên hệ và giờ làm việc"); bài không có mục đó thì H2 chứa: liên hệ tiệm, liên hệ cửa hàng, liên hệ Nguyễn Tú, hỗ trợ tại Hà Nội, giờ làm việc | `{: .pds-card .pds-card--local}` |
+| 11 | **Local Service Card** | mục "… số liên hệ và giờ làm việc" của tiệm; bài không có mục đó thì H2 mở đầu bằng "Liên hệ tiệm / cửa hàng / Nguyễn Tú" hoặc chứa "hỗ trợ tại Hà Nội" | `{: .pds-card .pds-card--local}` |
 | 12 | **CTA Card** | khối liên hệ cuối bài (có ở mọi bài) | — |
-| 13 | **FAQ Accordion** | H2 chứa: câu hỏi thường gặp, hỏi đáp, hỏi nhanh, faq (≥ 2 câu hỏi H3); và khối FAQ dùng chung `_includes/faq.html` | — |
+| 13 | **FAQ Accordion** | H2 chứa: câu hỏi thường gặp, hỏi đáp, hỏi nhanh (≥ 2 câu hỏi H3); và khối FAQ dùng chung `_includes/faq.html` | — |
 | 14 | **Number Card** | chip ngày đăng / tác giả / thời lượng đọc ở đầu bài | `{: .pds-stats}` trên `ul` (số liệu thật) |
 | 15 | **Quote Card** | mọi `blockquote` (trích điều luật, mẫu tin nhắn) | `{: .pds-quote}` |
 
-Ngoài ra: mục nguồn (H2 mở đầu bằng "Nguồn", hoặc chứa: nguồn tham khảo, nguồn đối chiếu, ghi chú về nguồn, ghi chú về thông tin, điều bài không khẳng định, chưa kiểm chứng) hiển thị dạng chú thích nhẹ;
+Ngoài ra: mục nguồn — mục H2 **cuối cùng** có tiêu đề mở đầu bằng: nguồn (trừ "nguồn gốc"), ghi chú về nguồn, ghi chú về thông tin, điều bài, những điều bài, văn bản để, văn bản tham khảo — hiển thị dạng chú thích nhẹ;
 lưu ý pháp lý và lưu ý bảng giá (`_data/legal-notices.json`, `_data/price-notices.json`) là thẻ hổ phách.
 
 **Chống máy móc, chống nhồi thẻ** (thực thi trong `_layouts/post.html`):
 
-- Thứ tự ưu tiên khi một H2 khớp nhiều nhóm: hỏi đáp → nguồn → liên hệ → tóm tắt → cảnh báo → mẹo → các bước → checklist → so sánh.
-- Thẻ (tóm tắt, hỏi đáp, nguồn, liên hệ, cảnh báo, mẹo) **tối đa một lần mỗi bài**; lần khớp thứ hai hiển thị như mục thường.
+- Thẻ tóm tắt, mục nguồn và thẻ liên hệ được chọn ở một lượt đọc riêng: mỗi loại đúng **một** mục, lấy mục **cuối cùng** khớp, và chỉ
+  khớp khi cụm từ **mở đầu tiêu đề**. Từ khóa nằm giữa câu ("bài không kết luận…", "khi liên hệ cửa hàng", "nguồn gốc…",
+  "khi nào báo tiệm") không tạo thẻ.
+- Hỏi đáp, cảnh báo, mẹo: tối đa một lần mỗi bài (lần khớp đầu tiên); lần khớp sau hiển thị như mục thường.
 - Cảnh báo / mẹo chỉ thành thẻ khi mục ngắn (< 900 ký tự chữ); mục dài chỉ đổi màu số thứ tự.
-- Từ khóa dễ nhầm chỉ tính khi **mở đầu tiêu đề** ("Kinh nghiệm…", "Tóm tắt…", "Ghi nhớ…", "Nguồn…"), không tính khi nằm giữa câu; mục chỉ nhắc
-  "báo tiệm" (khi nào báo, báo thế nào) không thành thẻ liên hệ.
-- Bài có H2 tự đánh số ("1. …") thì ẩn số thứ tự của hệ thống (`data-pds-numbered`).
+- Bài tự đánh số mục (≥ 2 tiêu đề kiểu "Bước 1 / Bước một", "Ngày hai", "Cách 3", "Chặng…", "Mốc…") thì ẩn số thứ tự của hệ thống
+  ở cả tiêu đề lẫn mục lục (`data-pds-numbered`), tránh "02" đứng trên "Bước 1".
+- Bài có H2 nằm trong mục danh sách (nguồn viết `## …` dính liền một gạch đầu dòng) giữ nguyên HTML gốc, không bọc section.
 - Bài không khớp nhóm nào: chỉ nhận typography, mục lục, thanh tiến độ — trong Master Matrix là `KEEP`.
 - **Không thành phần nào tự sinh chữ, số liệu, đánh giá hay thông tin doanh nghiệp.** Thẻ chỉ trình bày lại nội dung bài đã có.
 
@@ -78,13 +80,15 @@ Class thủ công dành cho bài viết mới (đặt sau khối Markdown); khô
 ## 4. Hành vi
 
 - **Thanh tiến độ đọc**: 3px, cố định trên cùng, `transform: scaleX` theo cuộn (một `requestAnimationFrame` mỗi khung hình).
-- **Mục lục**: bài có ≥ 4 H2. Máy tính (≥ 1100px): ray dính bên phải, mục đang đọc được tô đậm (IntersectionObserver).
+- **Mục lục**: bài có ≥ 4 H2. Máy tính (≥ 1100px): ray dính bên phải trong khung đọc (các khối rộng cuối bài nằm ở khung thứ hai
+  nên ray không đè lên chúng), mục đang đọc được tô đậm và ray tự cuộn theo khi mục lục dài hơn màn hình.
   Điện thoại và máy tính bảng: thu gọn mặc định (script nội tuyến chạy trước lần vẽ đầu nên không lệch bố cục).
 - **FAQ accordion**: mỗi câu hỏi là nút `aria-expanded` có dấu +/−; câu đầu mở sẵn; liên kết neo tới một câu thì tự mở câu đó.
   HTML tĩnh giữ đủ câu hỏi và câu trả lời (không JS vẫn đọc được; schema FAQ và `faq_parity_check.py` không đổi).
 - **Bảng**: bọc trong `<div class="pds-table" tabindex="0">`, cuộn ngang trong khung, thân trang không bao giờ tràn.
 - **Sáng/Tối**: mọi màu đi qua token; nút đổi giao diện của site (`data-theme`, khóa `nguyentu-theme`) áp dụng ngay.
 - **Giảm chuyển động**: tắt transition, thanh tiến độ vẫn cập nhật tức thời.
+- **In ấn / tương phản cao**: khi in, mọi câu trả lời FAQ đều hiện; chế độ forced-colors vẫn thấy dấu +/−.
 
 ## 5. Bất biến SEO — không được phá
 
@@ -118,7 +122,8 @@ python3 scripts/factory/check-slug-redirects.py --site /tmp/site-new
 ```
 
 `post-design-qa.cjs` mở từng bài bằng Chromium ở 390 / 820 / 1440px và FAIL khi: tràn ngang, phần tử vượt khung, khác 1 H1,
-bảng chưa bọc khung cuộn, accordion dựng thiếu, mục lục không thu gọn trên điện thoại, CLS > 0,05, lỗi JS/HTTP.
+bảng chưa bọc khung cuộn, accordion dựng thiếu, mục lục không thu gọn trên điện thoại, CLS > 0,05, lỗi JS/HTTP, ray mục lục đè lên
+khối cuối bài hoặc chặn cuộn trang ở máy tính, HTML thô của thân bài lồng thẻ sai.
 Master Matrix: `reports/theme-upgrade/post-design-matrix.xlsx` (mỗi bài một dòng: lô, thành phần, KEEP/FIX, QA).
 
 ## 7. Ngân sách hiệu năng

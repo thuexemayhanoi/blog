@@ -172,6 +172,10 @@ sitemap: false
   padding-top: var(--spacing-xl);
   padding-bottom: var(--spacing-xl);
 }
+/* Hai khung nối tiếp: khung đọc (có ray mục lục) rồi khung các khối rộng toàn trang. Ray dính chỉ sống trong khung đầu,
+   nên không bao giờ đè lên "bài trước/sau", bài liên quan hay CTA. */
+.post-detail > .container:not(:last-child) { padding-bottom: 0; }
+.post-detail > .container + .container { padding-top: 0; }
 .post-detail > .container > * {
   max-width: var(--pds-measure);
   margin-right: 0;
@@ -193,10 +197,9 @@ sitemap: false
     grid-row: 1 / span 8;
     position: sticky;
     top: var(--pds-sticky-top);
-    max-height: calc(100vh - var(--pds-sticky-top) - 1.5rem);
+    max-height: calc(100vh - var(--pds-sticky-top) - 5.5rem);
     margin: 0;
     overflow-y: auto;
-    overscroll-behavior: contain;
   }
   .post-detail > .container > .post-navigation,
   .post-detail > .container > .article-related,
@@ -234,6 +237,11 @@ sitemap: false
   cursor: pointer;
 }
 .post-detail .article-toc summary::-webkit-details-marker { display: none; }
+.post-detail .article-toc summary:focus-visible {
+  outline: 2px solid var(--pds-brand);
+  outline-offset: -2px;
+  border-radius: var(--pds-radius);
+}
 .post-detail .article-toc summary::after {
   content: "";
   width: .5em;
@@ -267,6 +275,9 @@ sitemap: false
   font-weight: 700;
   font-variant-numeric: tabular-nums;
 }
+/* Bài tự đánh số mục ("Bước 1…", "Ngày hai…"): bỏ số của hệ thống ở cả mục lục lẫn tiêu đề. */
+.post-detail[data-pds-numbered] .article-toc li { grid-template-columns: minmax(0, 1fr); }
+.post-detail[data-pds-numbered] .article-toc li::before { content: none; }
 .post-detail .article-toc a {
   color: var(--pds-ink);
   font-weight: 500;
@@ -395,6 +406,9 @@ sitemap: false
   color: var(--pds-link);
   text-decoration-thickness: .14em;
 }
+/* Giao diện tối: nền nhấn khi rê/focus phải nhạt hơn để chữ liên kết trong thẻ vẫn đủ tương phản. */
+[data-theme="dark"] .post-detail .article-body a:hover,
+[data-theme="dark"] .post-detail .article-body a:focus-visible { background: rgba(77, 153, 255, .06); }
 .post-detail .article-body a[href^="http"]:not([href*="blog.thuexemaynguyentu.com"])::after {
   content: "\2197";
   display: inline-block;
@@ -788,8 +802,8 @@ sitemap: false
 }
 .post-detail .post-photos .photo-gallery-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: .6rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .5rem;
 }
 .post-detail .post-photos .photo-gallery-grid img {
   width: 100%;
@@ -798,10 +812,6 @@ sitemap: false
   object-fit: cover;
   background: var(--pds-soft);
   border-radius: var(--pds-radius-sm);
-}
-.post-detail .post-photos .photo-gallery-grid img:first-child {
-  grid-column: 1 / -1;
-  aspect-ratio: 16 / 10;
 }
 .post-detail .post-photos figcaption {
   margin-top: .7rem;
@@ -812,11 +822,7 @@ sitemap: false
   line-height: 1.5;
 }
 @media (min-width: 560px) {
-  .post-detail .post-photos .photo-gallery-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-  .post-detail .post-photos .photo-gallery-grid img:first-child {
-    grid-column: auto;
-    aspect-ratio: 4 / 3;
-  }
+  .post-detail .post-photos .photo-gallery-grid { gap: .6rem; }
 }
 
 /* 12. RELATED CONTENT: cùng chủ đề, bài trước/sau, bài liên quan ------------- */
@@ -1013,7 +1019,7 @@ sitemap: false
   filter: none;
 }
 .post-detail .post-cta .btn:focus-visible {
-  outline: 2px solid currentColor;
+  outline: 2px solid var(--pds-on-brand);
   outline-offset: 2px;
 }
 @media (min-width: 768px) {
@@ -1033,7 +1039,22 @@ sitemap: false
   .post-detail .pds-acc__panel { padding-right: 0; }
 }
 
-/* 15. GIẢM CHUYỂN ĐỘNG ----------------------------------------------------- */
+/* 15. IN ẤN VÀ CHẾ ĐỘ TƯƠNG PHẢN CAO --------------------------------------- */
+@media print {
+  .reading-progress { display: none; }
+  .post-detail .pds-acc__panel[hidden] { display: block !important; }
+  .post-detail .pds-acc__sign { display: none; }
+  .post-detail > .container > .article-toc { position: static; max-height: none; overflow: visible; }
+}
+@media (forced-colors: active) {
+  .post-detail .pds-acc__sign::before,
+  .post-detail .pds-acc__sign::after { background: CanvasText; }
+  .post-detail .pds-acc__btn[aria-expanded="true"] .pds-acc__sign::before,
+  .post-detail .pds-acc__btn[aria-expanded="true"] .pds-acc__sign::after { background: Canvas; }
+  .post-detail .pds-acc__btn[aria-expanded="true"] .pds-acc__sign { background: CanvasText; }
+}
+
+/* 16. GIẢM CHUYỂN ĐỘNG ----------------------------------------------------- */
 @media (prefers-reduced-motion: reduce) {
   .post-detail .article-related .post-card,
   .post-detail .pds-acc__sign::before,

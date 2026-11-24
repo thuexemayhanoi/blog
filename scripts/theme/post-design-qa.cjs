@@ -4,6 +4,7 @@
  * Chỉ ĐỌC một bản build Jekyll có sẵn (không sửa _posts/, matrix, data/, không gọi host ngoài):
  * tự phục vụ thư mục build qua HTTP cục bộ, mở từng bài bằng Chromium (Playwright) ở 3 bề rộng
  * (điện thoại 390, máy tính bảng 820, máy tính 1440) và ghi lại thành phần được áp dụng + lỗi.
+ * Ở máy tính còn mở mục lục và cuộn tới các khối cuối bài để chắc ray dính không đè lên chúng; đọc lại HTML thô để soát lồng thẻ.
  *
  *   node scripts/theme/post-design-qa.cjs --site _site --out <thư mục kết quả> \
  *        [--batch-size 100] [--concurrency 4] [--from-batch 1] [--to-batch N] [--only <chuỗi con của URL>] \
@@ -174,6 +175,53 @@ function measureLayout() {
   return { overflow: Math.max(0, doc.scrollWidth - vw), wide: wide, first: first, tocOverlap: overlap, scrollers: scrollers };
 }
 
+/* Máy tính: mở mục lục rồi cuộn tới từng khối cuối bài; ray dính không được đè lên khối nào và không được chặn cuộn trang. */
+function measureRail() {
+  const article = document.querySelector('.post-detail');
+  const toc = article.querySelector('.article-toc');
+  if (!toc) return { overlap: 0, block: '', overscroll: 'auto', sticky: 0 };
+  const details = toc.querySelector('details');
+  if (details) details.open = true;
+  const style = getComputedStyle(toc);
+  let overlap = 0;
+  let block = '';
+  ['.post-photos', 'section.faq', '.topic-siblings', '.post-navigation', '.article-related', '.post-cta'].forEach((sel) => {
+    const el = article.querySelector(sel);
+    if (!el) return;
+    for (const offset of [120, 320, 520]) {
+      window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY - offset, behavior: 'instant' });
+      const a = toc.getBoundingClientRect();
+      const b = el.getBoundingClientRect();
+      const ix = Math.min(a.right, b.right) - Math.max(a.left, b.left);
+      const iy = Math.min(a.bottom, b.bottom) - Math.max(a.top, b.top);
+      if (ix > 1 && iy > 1 && iy > overlap) { overlap = Math.round(iy); block = sel; }
+    }
+  });
+  window.scrollTo({ top: 0, behavior: 'instant' });
+  return { overlap: overlap, block: block, overscroll: style.overscrollBehaviorY, sticky: style.position === 'sticky' ? 1 : 0 };
+}
+
+/* HTML thô (trước khi trình duyệt tự sửa): thẻ section/ul/ol/li/blockquote/table trong thân bài phải lồng đúng. */
+async function measureNesting() {
+  let html = '';
+  try { html = await (await fetch(location.href, { cache: 'no-store' })).text(); } catch (e) { return { ok: 0, why: 'không tải được HTML thô' }; }
+  const start = html.indexOf('article-body">');
+  if (start < 0) return { ok: 0, why: 'không thấy article-body' };
+  /* Thân bài + các khối chèn ngay sau nó, dừng trước khối "bài trước/sau" (các thẻ bài liên quan có <article> riêng). */
+  const end = html.indexOf('<div class="post-navigation">', start);
+  if (end < 0) return { ok: 0, why: 'không thấy post-navigation' };
+  const body = html.slice(start, end);
+  const stack = [];
+  const re = /<(\/?)(section|ul|ol|li|blockquote|table)\b[^>]*>/g;
+  let m;
+  while ((m = re.exec(body))) {
+    if (!m[1]) { stack.push(m[2]); continue; }
+    if (stack[stack.length - 1] !== m[2]) return { ok: 0, why: 'đóng </' + m[2] + '> khi đang mở <' + (stack[stack.length - 1] || 'không có') + '>' };
+    stack.pop();
+  }
+  return stack.length ? { ok: 0, why: 'còn mở <' + stack.join('><') + '>' } : { ok: 1, why: '' };
+}
+
 async function checkPost(context, base, url) {
   const page = await context.newPage();
   const errors = [];
@@ -196,7 +244,9 @@ async function checkPost(context, base, url) {
     for (const [name, width, height] of VIEWPORTS) {
       if (name !== 'mobile') { await page.setViewportSize({ width: width, height: height }); await page.waitForTimeout(60); }
       row[name] = await page.evaluate(measureLayout);
+      if (name === 'desktop') row.rail = await page.evaluate(measureRail);
     }
+    row.nesting = await page.evaluate(measureNesting);
   } catch (e) {
     errors.push('NAV ' + String(e).slice(0, 160));
   }
@@ -211,6 +261,11 @@ async function checkPost(context, base, url) {
   if (row.accBuilt && row.accOpen < row.accBuilt) issues.push('accordion không mở mục đầu');
   if (row.toc === 1 && row.tocOpen !== 0) issues.push('mục lục không thu gọn trên điện thoại');
   if (row.cls > 0.05) issues.push('CLS ' + row.cls);
+  if (row.rail) {
+    if (row.rail.overlap > 0) issues.push('desktop: mục lục đè ' + row.rail.block + ' ' + row.rail.overlap + 'px');
+    if (row.rail.overscroll !== 'auto') issues.push('desktop: mục lục chặn cuộn trang (overscroll-behavior ' + row.rail.overscroll + ')');
+  } else if (row.toc === 1) issues.push('desktop: không đo được ray mục lục');
+  if (!row.nesting || row.nesting.ok !== 1) issues.push('HTML lồng sai: ' + ((row.nesting && row.nesting.why) || 'không đo được'));
   for (const [name] of VIEWPORTS) {
     const m = row[name];
     if (!m) { issues.push(name + ': không đo được'); continue; }

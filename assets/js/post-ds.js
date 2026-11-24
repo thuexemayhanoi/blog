@@ -81,11 +81,14 @@
   }
 
   var items = [];
-  function enhance(section, questions, collect) {
+  function enhance(section, questions, collect, keepLastOpen) {
     if (questions.length < 2) return;
     section.setAttribute('data-pds-acc', '1');
     questions.forEach(function (q, index) {
-      var item = buildAccordion(q, collect(q), index === 0);
+      var nodes = collect(q);
+      /* Mục hỏi đáp là mục cuối bài: đoạn kết của bài nằm sau câu trả lời cuối, nên câu cuối có nhiều khối thì để mở. */
+      var open = index === 0 || (keepLastOpen && index === questions.length - 1 && nodes.length > 1);
+      var item = buildAccordion(q, nodes, open);
       if (item) items.push(item);
     });
   }
@@ -101,7 +104,7 @@
         node = node.nextElementSibling;
       }
       return nodes;
-    });
+    }, true);
   });
 
   /* 2b. Khối FAQ dùng chung (_includes/faq.html): div.faq-item > h3 + p. */
@@ -154,6 +157,13 @@
         if (current) links[current].classList.remove('is-active');
         if (active) links[active].classList.add('is-active');
         current = active;
+        /* Ray mục lục dài hơn màn hình thì tự cuộn (chỉ cuộn ray, không cuộn trang) để mục đang đọc luôn nằm trong ray. */
+        if (active && toc.scrollHeight > toc.clientHeight + 1) {
+          var box = toc.getBoundingClientRect();
+          var row = links[active].getBoundingClientRect();
+          if (row.top < box.top + 56) toc.scrollTop -= box.top + 56 - row.top;
+          else if (row.bottom > box.bottom - 12) toc.scrollTop += row.bottom - box.bottom + 12;
+        }
       });
       schedule();
     }
