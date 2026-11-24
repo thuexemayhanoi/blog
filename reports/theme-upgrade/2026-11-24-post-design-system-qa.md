@@ -33,12 +33,21 @@ Master Matrix: `reports/theme-upgrade/post-design-matrix.xlsx` (mỗi bài một
 | FAQ accordion dựng đủ | 99 bài, 298 câu hỏi |
 | Bảng bọc khung cuộn | 59 / 59 bài có bảng |
 
-Quyết định: **KEEP 2.244** (giữ cấu trúc, typography chung) · **FIX 4.075** (nâng cấp bằng ≥ 1 thành phần).
+Quyết định: **KEEP 2.295** (giữ cấu trúc, typography chung) · **FIX 4.024** (nâng cấp bằng ≥ 1 thành phần).
 
-Thành phần theo số bài: Summary 2.708 · Warning 874 (542 dạng thẻ) · Local Service 741 · Checklist 377 · Comparison 360 ·
-Timeline 304 · Quote 299 · Expert Tips 166 (87 dạng thẻ) · FAQ Accordion 99 · Pricing Table 59 · Pros & Cons 15 ·
-nguồn đối chiếu 790 · ảnh thực tế 1.286 · lưu ý pháp lý 24 · lưu ý bảng giá 13.
-Số thẻ mỗi bài: 0 thẻ 2.848 bài · 1 thẻ 2.267 · 2 thẻ 863 · 3 thẻ 323 · 4 thẻ 18 (không bài nào quá 4).
+Thành phần theo số bài: Summary 2.689 · Warning 868 (536 dạng thẻ) · Local Service 635 · Checklist 379 · Comparison 360 ·
+Timeline 305 · Quote 299 · Expert Tips 131 (62 dạng thẻ) · FAQ Accordion 99 · Pricing Table 59 · Pros & Cons 15 ·
+nguồn đối chiếu 823 · ảnh thực tế 1.286 · lưu ý pháp lý 24 · lưu ý bảng giá 13.
+Số thẻ mỗi bài: 0 thẻ 2.879 bài · 1 thẻ 2.311 · 2 thẻ 800 · 3 thẻ 316 · 4 thẻ 13 (không bài nào quá 4; không loại thẻ nào
+xuất hiện hai lần trong một bài).
+
+Soát cấu trúc HTML của cả 6.319 bài đã build: mỗi `<section class="pds-sec">` chứa đúng một H2, không thuộc tính `class`
+trùng, class ưu/nhược điểm chỉ nằm trên heading.
+
+Rà quy tắc chọn thành phần trên tiêu đề H2 của toàn bộ bài nguồn (không H2 nào chứa link, code hay HTML thô; không bài nào
+có `<table>` viết tay) và siết ba điểm: thẻ liên hệ dành cho đúng mục có số điện thoại/giờ làm việc (63 bài trước đó bị mục
+"báo tiệm" khác lấy mất thẻ); "Kinh nghiệm", "Tóm tắt", "Ghi nhớ" chỉ tính khi mở đầu tiêu đề; H2 mở đầu bằng "Nguồn" là
+chú thích nguồn.
 
 Pilot 15 bài đại diện (trước khi chạy toàn bộ): 15/15 PASS; phát hiện và sửa một lỗi — bảng giá trong "Lưu ý bảng giá"
 bị cắt cột Tiền cọc ở máy tính bảng (nay hiện đủ 5 cột, không cuộn).
@@ -65,7 +74,7 @@ Lab cục bộ (Chromium, 390×844, RTT 150 ms, 1,6 Mbps, CPU ×4, gzip như Git
   từng điểm ảnh trên 48 lượt so sánh).
 - PageSpeed trên site đang chạy **trước** khi triển khai (Lighthouse lab): bài viết di động FCP 1,2–1,4 s, LCP 1,2–1,4 s,
   TBT 0, CLS 0; máy tính FCP/LCP 371 ms. Số **sau** triển khai ghi trong PR.
-- Thời gian build Jekyll cùng máy: 285 s → 307 s (+7,6%).
+- Thời gian build Jekyll cùng máy: bản gốc 231–285 s, bản mới 307–326 s giữa các lượt đo (tăng khoảng 8–14%, nhiễu đo lớn).
 
 ## 5. Cổng của repo trên bản build mới
 
