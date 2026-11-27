@@ -99,7 +99,7 @@ def main() -> int:
 
     problems: list[str] = []
 
-    # ------------------------------------------------------------------ Keyword–Intent Map (12 nhóm)
+    # ------------------------------------------------------------------ Keyword–Intent Map
     kim_rows = []
     for g in cfg["commercial_groups"]:
         rx = compile_rx(g["regex"])

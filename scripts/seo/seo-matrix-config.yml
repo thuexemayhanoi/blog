@@ -127,6 +127,17 @@ commercial_groups:
     mitigation: "Giữ nguyên trang chủ; củng cố bằng liên kết trang chủ -> trang giá/hub xe; không thêm trang tranh intent."
     priority: P1
 
+  - id: K13
+    keyword: "app thuê xe máy Hà Nội"
+    intent: "commercial investigation (so sánh kênh đặt xe máy tự lái)"
+    lead_url: "/thue-xe/2026/11/27/app-thue-xe-may-ha-noi-tim-xe-tu-lai-va-kiem-tra-truoc-khi-dat/"
+    lead_why: "BLG-06413 đã xác minh live. Bài giải quyết việc chọn kênh đặt trước khi thuê."
+    support_urls: ["/thue-xe/thu-tuc/", "/bang-gia-xe-50cc/"]
+    regex: ['app thue xe may', 'ung dung thue xe may']
+    main_site_conflict: "UNKNOWN: chưa có dữ liệu Search Console của blog."
+    mitigation: "Gom biến thể app và ứng dụng ở bài chủ lực; giữ bài hợp đồng online và bài xử lý tranh chấp theo intent riêng."
+    priority: P2
+
 # Ánh xạ 34 nhóm chủ đề SEO -> kiến trúc 7 pillar / 56 hub con hiện có.
 # children: các child_id thuộc nhóm (cấu trúc); regex: khớp tiêu đề+tags (chuẩn hóa không dấu) để đếm bài liên quan (INFERRED).
 topic_groups:

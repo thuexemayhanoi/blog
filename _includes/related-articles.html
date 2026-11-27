@@ -14,8 +14,8 @@ kế tiếp) => O(N^2), ~29% thời gian build. Nay vòng của cụm (URL bài 
 _includes/related-ring.html dựng MỘT lần mỗi cụm mỗi lần build qua include_cached (jekyll-include-cache, khóa child_id,
 bộ đệm xóa ở đầu mỗi lần render) => không có dữ liệu dựng sẵn phải sinh lại khi publish. Phần chạy theo trang chỉ tách chuỗi
 vòng, tìm vị trí của chính nó và lấy 4 thẻ kế tiếp. Markup thẻ: _includes/related-card.html (nguồn duy nhất).
-Đầu ra HTML giữ NGUYÊN từng byte so với bản quét cũ: cấu trúc dòng/khối của tệp này (kể cả các vòng lặp có break, vốn in
-khoảng trắng theo số lần lặp) phải giữ nguyên khi sửa. Slug legacy không tìm thấy bài vẫn giữ chỗ trong vòng (thẻ "-", bị bỏ qua).
+Thứ tự hiển thị ưu tiên tiêu đề có “thuê xe máy” trong nhóm thẻ đã chọn. Thành viên của nhóm và phân phối liên kết giữ nguyên.
+Slug legacy không tìm thấy bài vẫn giữ chỗ trong vòng (thẻ "-", bị bỏ qua).
 BỘ NHỚ: dòng cuối tệp gán nil cho rel_ring, rel_fac, related, rel_obj. Biến gán trong include nằm trong phạm vi của trang,
 và Liquid giữ context của trang tới hết build (drop của bài giữ tham chiếu tới context lần truy cập cuối); nếu không giải
 phóng, mỗi trang giữ lại một bản chuỗi vòng của cụm => RAM đỉnh tăng theo O(N x cỡ cụm) (đo: +1,2 GB ở 6.289 bài). Giữ dòng này.
@@ -90,9 +90,23 @@ mọi slug trong legacy-clusters là bài thật; bài factory luôn có child_i
 <section class="article-related" aria-labelledby="related-heading">
   <h2 id="related-heading">Bài viết liên quan</h2>
   <div class="post-grid">
-    {% for rel_c in related limit: 4 %}
+    {%- assign rel_priority = '' | split: '' -%}
+    {%- assign rel_other = '' | split: '' -%}
+    {%- for rel_c in related limit: 4 -%}
+      {%- assign rel_title = rel_c | split: '<h3>' | last | split: '</h3>' | first | strip_html | downcase -%}
+      {%- if rel_title contains 'thuê xe máy' -%}
+        {%- assign rel_priority = rel_priority | push: rel_c -%}
+      {%- else -%}
+        {%- assign rel_other = rel_other | push: rel_c -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {% assign rel_ordered = rel_priority | concat: rel_other %}
+    {% for rel_c in rel_ordered %}
     {{ rel_c }}
     {% endfor %}
+    {%- assign rel_priority = nil -%}
+    {%- assign rel_other = nil -%}
+    {%- assign rel_ordered = nil -%}
   </div>
 </section>
 {% endif %}{% assign rel_ring = nil %}{% assign rel_fac = nil %}{% assign related = nil %}{% assign rel_obj = nil %}
