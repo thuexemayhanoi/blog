@@ -1,27 +1,18 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-11-01T08:15:16Z",
+  "updated_at": "2026-11-27T20:47:59Z",
   "leases": {
-    "W6": {
+    "W1": {
       "ids": [
-        "BLG-06321",
-        "BLG-06322",
-        "BLG-06323",
-        "BLG-06324",
-        "BLG-06325",
-        "BLG-06326",
-        "BLG-06327",
-        "BLG-06328",
-        "BLG-06329",
-        "BLG-06330"
+        "BLG-06413"
       ],
-      "session": "s-claude-opus-w6",
+      "session": "s-codex-seo-app-20261127",
       "epoch": 1,
-      "claimed_at": "2026-11-01T08:15:16Z",
-      "heartbeat_at": "2026-11-01T08:15:16Z",
-      "ttl_hours": 48.0,
-      "expires_at": "2026-11-03T08:15:16Z",
-      "label": "claude-opus"
+      "claimed_at": "2026-11-27T20:47:59Z",
+      "heartbeat_at": "2026-11-27T20:47:59Z",
+      "ttl_hours": 12.0,
+      "expires_at": "2026-11-28T08:47:59Z",
+      "label": "codex-seo-app"
     }
   }
 }
