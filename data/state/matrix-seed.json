@@ -4503,6 +4503,24 @@
           "audience": "Người đã đặt thuê xe máy có giờ nhận cụ thể nhưng xe được giao muộn",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "App thuê xe máy Hà Nội: tìm xe tự lái và kiểm tra trước khi đặt",
+          "intent": "Người đọc đang chọn kênh tìm xe máy tự lái ở Hà Nội trước khi đặt. Phân biệt app của bên cho thuê, nền tảng trung gian và trang đặt xe của cửa hàng qua nguồn chính thức. Dùng trang App Store để xác nhận ứng dụng niêm yết, MOTOGO để minh họa đặt trực tiếp trên web, Book2Wheel để minh họa nền tảng có trang riêng cho Hà Nội. Phân biệt với ứng dụng gọi tài xế và ứng dụng thuê ô tô. Hướng dẫn lọc xe 50cc, ngày nhận trả, địa chỉ, giấy tờ và xác nhận tổng chi phí trước khi thanh toán. Không xếp hạng uy tín, không tự xác nhận còn xe hay tương thích nếu chưa kiểm tra. Khác bài BLG-06162 giải quyết tranh chấp sau khi tiệm báo thiếu thông tin và BLG-02970 giải quyết kiểm tra, lưu bản hợp đồng sau khi chọn kênh.",
+          "kw": "app thuê xe máy Hà Nội",
+          "kw2": [
+            "ứng dụng thuê xe máy Hà Nội",
+            "đặt thuê xe máy Hà Nội online",
+            "tìm xe máy 50cc cho thuê qua app"
+          ],
+          "links": [
+            "/thue-xe/thu-tuc/",
+            "/bang-gia-xe-50cc/"
+          ],
+          "subtopic": "refill-2026-11-27-APP",
+          "audience": "người đang so sánh kênh đặt thuê xe máy tự lái ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },

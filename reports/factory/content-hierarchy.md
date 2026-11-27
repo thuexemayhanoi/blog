@@ -9,7 +9,7 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | Parent | Child | Bài legacy | Hàng matrix (không legacy) | planned_target (seed) | Hub URL |
 |---|---|---|---|---|---|
 | P-THUE-XE | Giá thuê xe máy (C-THUE-GIA) | 6 | 107 | 220 | /thue-xe/gia-thue/ |
-| P-THUE-XE | Thủ tục thuê xe (C-THUE-THU-TUC) | 19 | 162 | 200 | /thue-xe/thu-tuc/ |
+| P-THUE-XE | Thủ tục thuê xe (C-THUE-THU-TUC) | 19 | 163 | 200 | /thue-xe/thu-tuc/ |
 | P-THUE-XE | Thuê xe theo ngày (C-THUE-NGAY) | 13 | 166 | 180 | /thue-xe/thue-ngay/ |
 | P-THUE-XE | Thuê xe theo tuần (C-THUE-TUAN) | 3 | 161 | 170 | /thue-xe/thue-tuan/ |
 | P-THUE-XE | Thuê xe theo tháng (C-THUE-THANG) | 13 | 162 | 200 | /thue-xe/thue-thang/ |
@@ -68,4 +68,4 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 5929 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 5930 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
