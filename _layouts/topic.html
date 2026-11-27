@@ -20,8 +20,19 @@ layout: default
     {% if topic_leads and topic_leads.size > 0 %}
     <h2>Bài nên đọc trước</h2>
     <ul class="topic-list">
+      {% assign primary_leads = '' | split: '' %}
+      {% assign other_leads = '' | split: '' %}
       {% for lead in topic_leads %}
-      <li><a href="{{ lead.u | relative_url }}">{{ lead.t }}</a></li>
+        {% assign lead_title = lead.t | downcase %}
+        {% if lead_title contains 'thuê xe máy' %}
+          {% assign primary_leads = primary_leads | push: lead %}
+        {% else %}
+          {% assign other_leads = other_leads | push: lead %}
+        {% endif %}
+      {% endfor %}
+      {% assign ordered_leads = primary_leads | concat: other_leads %}
+      {% for lead in ordered_leads %}
+      <li><a href="{{ lead.u | relative_url | uri_escape }}">{{ lead.t | escape }}</a></li>
       {% endfor %}
     </ul>
     {% endif %}

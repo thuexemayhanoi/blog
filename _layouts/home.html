@@ -99,6 +99,29 @@ description: "{{ site.description }}"
   </div>
 </section>
 
+<section class="section posts-section" aria-labelledby="rental-guides-heading">
+  <div class="container">
+    <h2 id="rental-guides-heading">Bài nổi bật về thuê xe máy</h2>
+    <ul class="topic-list">
+      {% assign rental_featured_groups = 'C-XE-50CC,C-THUE-NGAY,C-THUE-TUAN,C-THUE-THANG' | split: ',' %}
+      {% for rental_group in rental_featured_groups %}
+        {% assign rental_leads = site.data.seo-leads[rental_group] %}
+        {% assign rental_feature = rental_leads.first %}
+        {% for rental_lead in rental_leads %}
+          {% assign rental_title = rental_lead.t | downcase %}
+          {% if rental_title contains 'thuê xe máy' or rental_title contains 'xe 50cc thuê' %}
+            {% assign rental_feature = rental_lead %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+        {% if rental_feature %}
+          <li><a href="{{ rental_feature.u | relative_url | uri_escape }}">{{ rental_feature.t | escape }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
 <!-- Recently PUBLISHED posts (original URL/date retained) -->
 <section class="section posts-section">
   <div class="container">
