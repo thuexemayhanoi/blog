@@ -1,18 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-11-01T08:14:52+00:00",
+  "updated_at": "2026-11-27T20:49:33+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-06278",
-      "started_at": "2026-10-31T17:56:23+00:00",
-      "source": "_drafts/2026-10-31-ruoc-bat-huong-moi-hoac-chuyen-bat-huong-khi-chuyen-nha-bang-xe-may-ai-cam-boc-t.md",
-      "destination": "_posts/2026-10-31-ruoc-bat-huong-moi-hoac-chuyen-bat-huong-khi-chuyen-nha-bang-xe-may-ai-cam-boc-t.md",
-      "result": "PUBLISHED",
-      "commit_sha": "21d290041787489f97d8a54962b2718db5df05dd",
-      "finished_at": "2026-10-31T17:56:23+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-06280",
       "started_at": "2026-10-31T17:56:24+00:00",
@@ -501,6 +491,16 @@
       "result": "PUBLISHED",
       "commit_sha": "855dea65bf22ba9c0007f8969f9bd37d742b5fb1",
       "finished_at": "2026-11-01T08:14:52+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-06413",
+      "started_at": "2026-11-27T20:49:33+00:00",
+      "source": "_drafts/2026-11-27-app-thue-xe-may-ha-noi-tim-xe-tu-lai-va-kiem-tra-truoc-khi-dat.md",
+      "destination": "_posts/2026-11-27-app-thue-xe-may-ha-noi-tim-xe-tu-lai-va-kiem-tra-truoc-khi-dat.md",
+      "result": "PUBLISHED",
+      "commit_sha": "9c0d13c23ad1dab2e0667df61645c98441eec545",
+      "finished_at": "2026-11-27T20:49:33+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
