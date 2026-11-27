@@ -191,9 +191,11 @@ def main() -> int:
         if near_pair:
             actions.append("NEAR_TITLE_PAIR")
         if typ == "Post":
-            if r.get("canonical_ok") != "True" or r.get("html_h1_count") not in ("1", 1):
+            canonical = r.get("canonical_ok")
+            h1_count = r.get("html_h1_count")
+            if canonical == "False" or (h1_count not in (None, "") and h1_count not in ("1", 1)):
                 actions.append("CANONICAL_OR_H1_BROKEN")
-            if r.get("in_sitemap") != "True":
+            if r.get("in_sitemap") == "False":
                 actions.append("NOT_IN_SITEMAP")
             if r.get("orphan_risk") == "HIGH":
                 actions.append("ORPHAN_NO_INBOUND")

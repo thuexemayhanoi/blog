@@ -186,14 +186,17 @@ def main() -> int:
         m = matrix.get(aid, {})
         q = qa.get(aid, {})
         robots = r.get("html_robots", "")
+        sitemap_status = r.get("in_sitemap")
         if r["type"] == "RedirectStub":
             idx = "REDIRECT_STUB (meta refresh 0s + canonical mới, không trong sitemap)"
         elif "noindex" in robots:
             idx = "NOINDEX (chủ đích)"
-        elif r.get("in_sitemap") == "True":
+        elif sitemap_status == "True":
             idx = "INDEXABLE (200 local, self-canonical, trong sitemap)"
-        else:
+        elif sitemap_status == "False":
             idx = "INDEXABLE_NOT_IN_SITEMAP"
+        else:
+            idx = "UNKNOWN (chưa kiểm tra HTML/sitemap)"
         pk = r.get("primary_keyword") or m.get("primary_keyword", "")
         res = research.get(norm_kw(pk))
         vol = res["volume"] if res and res.get("volume") is not None else NA_VOL if pk else "N/A"
@@ -209,7 +212,7 @@ def main() -> int:
             parent, child, r.get("cannibalization_key", ""), pk, r.get("secondary_keywords", ""),
             r.get("search_intent") or m.get("search_intent", ""), vol, kd, "N/A", "N/A", "N/A", "N/A",
             title, len(title), meta, len(meta), r.get("html_h1", ""), r.get("html_canonical", ""),
-            "YES" if r.get("in_sitemap") == "True" else "NO",
+            {"True": "YES", "False": "NO"}.get(sitemap_status, "UNKNOWN"),
             int(r["inbound_links_html"]) if (r.get("inbound_links_html") or "").isdigit() else None,
             r.get("seo_role", ""), action, r.get("fix_priority", ""), r.get("action_status", ""),
             r.get("staleness_risk", ""),
@@ -375,8 +378,13 @@ def main() -> int:
     priority_fill(ws_tech, "D", 2, 1 + len(tech_rows))
 
     # ---------------- 14. INDEX & SITEMAP ----------------
-    idx_counter = Counter((r["type"], "sitemap" if r.get("in_sitemap") == "True" else "không sitemap",
-                           "noindex" if "noindex" in (r.get("html_robots") or "") else "index") for r in inv)
+    sitemap_labels = {"True": "sitemap", "False": "không sitemap"}
+    idx_counter = Counter()
+    for r in inv:
+        robots_status = "UNKNOWN"
+        if r.get("http_status_local") == "200(local build)":
+            robots_status = "noindex" if "noindex" in r.get("html_robots", "") else "index"
+        idx_counter[r["type"], sitemap_labels.get(r.get("in_sitemap"), "UNKNOWN"), robots_status] += 1
     idx_rows = [[t, s, i, n_] for (t, s, i), n_ in sorted(idx_counter.items())]
     ws_idx = b.sheet("INDEX & SITEMAP", ["Loại trang", "Sitemap", "Robots", "Số URL"], idx_rows, widths={1: 18, 2: 16, 3: 12},
                      note="FACT từ build cục bộ. Trạng thái lập chỉ mục thật trên Google: UNKNOWN (" + NA_GSC + ").")
