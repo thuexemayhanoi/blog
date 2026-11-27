@@ -114,6 +114,8 @@ class Book:
 
 
 def priority_fill(ws, col_letter: str, first: int, last: int) -> None:
+    if last < first:
+        return
     rng = f"{col_letter}{first}:{col_letter}{last}"
     ws.conditional_formatting.add(rng, CellIsRule(operator="equal", formula=['"P0"'], fill=FILL_P0))
     ws.conditional_formatting.add(rng, CellIsRule(operator="equal", formula=['"P1"'], fill=FILL_P1))
